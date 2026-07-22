@@ -1,59 +1,95 @@
-# Metal Fitters and Machinists nec（Metal Fitters and Machinists nec）职业分析 · 澳大利亚
+# Metal Fitters and Machinists nec — career analysis · Australia
 
-**职业代码：323299 – Metal Fitters and Machinists nec。**
+**Occupation code: 323299 (ANZSCO)**
 
-Workers who perform metal fitting, machining, assembly, and repair of metal parts, covering lathe, milling, fitting trades, essential for manufacturing and engineering sectors.
+Trades workers engaged in metal parts processing, assembly, repair, and debugging, covering various trades such as turners, millers, and fitters, core technical roles in manufacturing and engineering.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 | 4年 | $5,000~$15,000（学徒期间可赚取薪水，培训费较低） |
-| TAFE 文凭 | 2年 | $8,000~$20,000（Certificate III in Engineering - Mechanical Trade 等课程） |
+| Apprenticeship | 4 years | $5,000~$15,000 (Earn a salary during apprenticeship, training fees are lower) |
+| TAFE diploma | 2 years | $8,000~$20,000 (Certificate III in Engineering - Mechanical Trade and similar courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering - Mechanical Trade | TAFE 或其他注册培训机构 | 必备 | 标准职业资格 |
-| 在职经验认证 | 雇主/行业机构 | 可选 | 部分签证要求工作经验 |
-| TRA 技能评估 | Trades Recognition Australia | 必备 | 技术移民必须通过 |
+| Certificate III in Engineering - Mechanical Trade | TAFE or other registered training organizations | Required | Standard vocational qualification |
+| TRA skills assessment | Trades Recognition Australia | Required | Must pass for skilled migration |
+| Work Experience Verification | Employer/Industry Organization | Optional | Some visas require work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,000。澳洲制造业和矿业持续发展，对熟练金属技工需求稳定。未来五年就业增长预计中等，主要受基础设施和资源项目推动。
+**Job demand: high (★★★★☆).** National workforce approx. 52,000. Australia's manufacturing and mining sectors continue to develop, with stable demand for skilled metal trades. Employment growth is expected to be moderate over the next five years, driven mainly by infrastructure and resource projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒期满后起薪 |
-| 中级（3-8年） | $70,000~$90,000 | 熟练技工，可独立操作 |
-| 高级（8年以上） | $90,000~$110,000 | 含领班或特殊技能津贴 |
+| Median salary | $135,512 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary after completing apprenticeship |
+| Mid-level (3–8 years) | $70,000~$90,000 | Skilled worker, capable of independent operation |
+| Senior (8+ years) | $90,000~$110,000 | Including shift leader or special skills allowance |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从学徒成长为高级技工，进而晋升为领班、生产主管，或通过进修成为机械工程师、技术顾问或自主经营。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Metal fitters and machinists face dual pressure from CNC automation and AI scheduling, but skills in debugging, repair, and field judgment remain scarce; entry-level positions still maintain a certain threshold due to apprenticeships and skill accumulation.
+
+Can progress from apprentice to senior technician, then to foreman or production supervisor, or through further study become a mechanical engineer, technical consultant, or self-employed.
+
+**Tasks most exposed to AI:**
+
+- Manually program and operate conventional machine tools based on CAD drawings
+- Repetitive drilling, tapping, deburring, and other processes
+- Traditional method of adjusting workpiece dimensions through trial cuts
+- Paper documents recording processing parameters and inspection data
+- Regular tool life monitoring and simple replacement
+
+**Where AI augments the role:**
+
+- Use AI-assisted CAM to automatically generate tool paths and optimise cutting parameters
+- Use digital twins and simulation software to predict machining deformation and vibration
+- Automatically detect workpiece dimensions and surface defects using machine vision
+- Use AI production scheduling systems to optimize production sequences for high-mix, low-volume orders
+- Use AR glasses to overlay virtual markings for complex assembly assistance
+
+**Human moat:**
+
+- Trial production and repair of non-standard parts (requires experience to adjust processes)
+- Handle sudden issues such as residual stress in materials and workpiece clamping deformation
+- On-site communication and process decision-making in multi-trade collaboration
+- Professional ethics and safety awareness in processing quality.
+- Maintenance and modification of old equipment (judging by experience when no original manufacturer support is available)
+
+**Skills to build:**
+
+- CAD/CAM software (e.g., Mastercam, Fusion 360) and AI optimization modules
+- CNC programming and multi-axis machine operation (CNC Milling/Turning)
+- Fundamentals of industrial robot and collaborative robot programming
+- Data analysis and statistical process control (SPC)
+- Additive Manufacturing (Metal 3D Printing) Post-Processing and Finishing
+- Knowledge of industry standards (ISO 9001, AS/NZS) and quality systems
+
+**Key growth areas:**
 
 - Infrastructure
 - Mining
@@ -62,69 +98,68 @@ Workers who perform metal fitting, machining, assembly, and repair of metal part
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时工作签证，需 2 年相关工作经验 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久居留，需 3 年工作经验及职业评估 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居，需 EOI 打分及格，职业在 MLTSSL 列表 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居，需满足州担保条件 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary work visa, requires 2 years of relevant work experience |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence requires 3 years of work experience and skills assessment |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent permanent residence, requiring a pass mark on the EOI and an occupation on the MLTSSL list. |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residency, must meet state nomination conditions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Fitters and Machinists nec？**
-- 动手能力强、喜欢精密加工的人
-- 愿意从事体力与技术结合工作的人
-- 寻求稳定就业和技术移民路径的人
-
-**谁不适合学Metal Fitters and Machinists nec？**
-- 偏好办公室白领工作的人
-- 对重复性机械操作缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and a passion for precision machining
+- People willing to combine physical and technical work
+- Those seeking stable employment and skilled migration pathways
+
+**Who is not suited**
+- People who prefer office white-collar jobs
+- Impatient with repetitive mechanical operations.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metal fitters and machinists?**
+A: Entry-level approximately AUD 55,000-70,000, mid-level AUD 70,000-90,000, senior with allowances can reach over AUD 110,000, higher in mining and remote areas.
+
+**Q: Can metal fitters and machinists migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the MLTSSL, eligible for visas 189/190/482/186, requires TRA skills assessment.
+
+**Q: What is the future career outlook for this occupation?**
+A: Good. With the development of manufacturing automation and robotics, demand for highly skilled technicians remains strong, with career progression toward programming and technical management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Metal Fitters and Machinists nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metal fitters and machinists?**
-答：Entry-level around AUD 55k-70k, mid-level 70k-90k, senior up to 110k including allowances, higher in mining and remote areas.
-
-**问：Can metal fitters and machinists immigrate to Australia via skilled migration?**
-答：Yes. The occupation is on MLTSSL, eligible for 189/190/482/186 visas, requiring TRA skills assessment.
-
-**问：What is the future career prospect for this occupation?**
-答：Good. Automation and robotics increase demand for skilled trades, with opportunities to advance into programming, technical management.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

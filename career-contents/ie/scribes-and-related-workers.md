@@ -1,59 +1,92 @@
-# Scribes and Related Workers（Scribes and Related Workers）职业分析 · IE
+# Scribes and Related Workers — career analysis · Ireland
 
-**职业代码：4414 – Scribes and Related Workers。**
+**Occupation code: 4414 (ISCO08)**
 
-Scribes and related workers handwrite or type documents such as letters, forms, and legal papers. In Ireland, demand is limited, mostly in administrative and legal support roles.
+A copyist is responsible for handwriting or printing documents such as letters, forms, and legal documents. In Ireland, this occupation has limited demand, mostly found in administrative and legal support roles.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（通常高中毕业即可，无需特定成本） |
-| 职业培训 | 6个月至1年 | $1,000~$3,000（如办公室行政或法律文秘课程） |
+| High school graduation | No higher education required | $0~$0 (Usually requires high school graduation, with no specific costs.) |
+| Vocational training | 6 months to 1 year | $1,000~$3,000 (e.g., Office Administration or Legal Secretary Course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：不需要证书（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质要求 | 无 | 可选 | 雇主通常要求高中毕业及基本计算机技能 |
+| No mandatory qualification requirements | None | Optional | Employers usually require high school graduation and basic computer skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 200。随着数字化进程，传统抄写岗位持续减少。爱尔兰该类职位多集中在律师事务所和政府机构，预计未来十年就业呈下降趋势。
+**Job demand: low (★½☆☆☆).** National workforce approx. 200. With digitalization, traditional transcription roles continue to decline. In Ireland, such positions are mostly in law firms and government agencies, with employment expected to decrease over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径有限，可转向高级行政助理、法律秘书或文档管理专家。需掌握数字工具和数据处理技能。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Copyists heavily rely on repetitive text tasks like handwriting/transcription, which AI automation can efficiently handle, leading to significant demand reduction. Only a few positions requiring human review in legal/administrative fields remain, with grim employment prospects.
+
+Limited promotion paths; can move to senior administrative assistant, legal secretary or document management specialist. Must master digital tools and data processing skills.
+
+**Tasks most exposed to AI:**
+
+- Drafting and transcribing handwritten letters and forms: AI can generate standardized documents
+- Manual transcription and proofreading of legal documents: replaced by AI speech-to-text + proofreading tools.
+- Paper archive management of administrative records: OCR and digital document management automation
+- Basic data entry and formatting: AI automatic extraction and filling
+
+**Where AI augments the role:**
+
+- Format review and standardization of complex legal or technical documents: AI-assisted consistency checks.
+- Digitization and transcription of handwritten materials: requires human judgment for illegible handwriting or special formats
+- Multilingual document translation and collaboration: AI generates first draft, then manual fine-tuning
+- Training AI text recognition models: providing high-quality human-annotated data
+
+**Human moat:**
+
+- Deep understanding and contextual judgment of terminology in law, history, and other fields
+- Ability to process extremely illegible, damaged, or non-standard handwritten materials
+- Final signing and certification of legally binding documents
+- Flexible handling of client communication and customized documentation needs
+
+**Skills to build:**
+
+- AI-assisted proofreading and validation tools for legal/administrative documents (e.g., Kira Systems)
+- Basic programming and script automation (Python/RPA)
+- Digital archive management and database retrieval (e.g. Airtable)
+- Communication and project management skills, transitioning to administrative coordinator
+- Data privacy and compliance knowledge (GDPR, etc.)
+- Learn to use input devices such as smart pens or graphics tablets
+
+**Key growth areas:**
 
 - Digitalization
 - Administrative Support
@@ -62,62 +95,64 @@ Scribes and related workers handwrite or type documents such as letters, forms, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于关键技能门槛的非紧缺职业，需要劳动力市场测试。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，适用于高级管理人员或专门技术人员。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in demand with annual salary below the key skills threshold, requires labour market testing. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer for senior managers or specialized technical personnel. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Scribes and Related Workers？**
-- 注重细节且有耐心的人
-- 喜欢安静办公环境的人
-- 对文档处理和法律文本感兴趣的人
+**Who is suited**
+- Detail-oriented and patient individuals
+- People who prefer a quiet office environment
+- People interested in document processing and legal texts
 
-**谁不适合学Scribes and Related Workers？**
-- 追求高薪和职业发展的人
-- 希望从事创意或技术性工作的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People who want to work in creative or technical fields
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a copyist in Ireland?**
+A: Entry-level approximately €22,000-28,000/year, mid-level €28,000-35,000/year, senior up to €42,000/year.
+
+**Q: Can foreign scribes immigrate to Ireland?**
+A: This occupation is not on the critical skills list, typically requires a general work permit application, and labor market demand is relatively low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 不需要证书（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Scribes and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for scribes in Ireland?**
-答：Entry-level around €22,000–€28,000, mid-level €28,000–€35,000, senior up to €42,000 per year.
-
-**问：Can foreign scribes immigrate to Ireland?**
-答：This occupation is not on the Critical Skills list; typically requires a General Employment Permit, but demand is low.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

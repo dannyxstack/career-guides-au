@@ -1,60 +1,94 @@
-# Airconditioning and Refrigeration Mechanic（Airconditioning and Refrigeration Mechanic）职业分析 · 新西兰
+# Airconditioning and Refrigeration Mechanic — career analysis · New Zealand
 
-**职业代码：342111 – Airconditioning and Refrigeration Mechanic。**
+**Occupation code: 342111 (ANZSCO)**
 
-Airconditioning and Refrigeration Mechanics install, maintain, and repair HVAC and refrigeration systems, facing long-term shortage in NZ, eligible for Green List direct residence.
+Air conditioning technicians install, maintain, and repair air conditioning and refrigeration systems. New Zealand has a long-term shortage, and they can apply for a Green List direct residence visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒培训 | 3-4年 | —（Apprenticeship通常由雇主资助，政府补贴） |
-| 专科文凭 | 2年 | $6,000~$12,000（理工学院每年学费） |
-| 本科 | 3年 | $20,000~$35,000（大学工程学士不常见，多数走学徒） |
+| Apprenticeship training | 3-4 years | $0~$5,000 (Apprenticeships are usually funded by employers with government subsidies.) |
+| Diploma | 2 years | $6,000~$12,000 (Annual tuition at polytechnics) |
+| Bachelor's degree | 3 years | $20,000~$35,000 (University engineering bachelor's is uncommon, most go through apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰制冷证书(4级) | 新西兰技能组织(Competenz) | 必备 | 学徒毕业必备，含理论和实践考试 |
-| 注册空调技师 | WorkSafe NZ | 必备 | 操作制冷剂必须持有，通过培训考试 |
-| 电工注册 | 电气工人注册委员会(EWRB) | 可选 | 可选，增加电气维修能力，提高薪资 |
+| New Zealand Certificate in Refrigeration (Level 4) | Competenz (New Zealand skills organisation) | Required | Mandatory for apprenticeship graduation, includes theory and practical exams |
+| Certified air conditioning technician | WorkSafe NZ | Required | Must hold to handle refrigerants, obtained through training and exam |
+| Electrician registration | Electrical Workers Registration Board (EWRB) | Optional | Optional; enhances electrical repair skills and increases salary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。新西兰制冷行业持续增长，尤其在奥克兰和基督城，疫情后商业与住宅需求旺盛，未来五年年招聘量预计超500人。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. New Zealand's refrigeration industry continues to grow, especially in Auckland and Christchurch, with strong post-pandemic commercial and residential demand; annual hiring is expected to exceed 500 over the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 学徒期间约$22-28/小时 |
-| 中级（3-6年） | $65,000~$85,000 | 持证技师，$30-40/小时 |
-| 高级（7年以上） | $85,000~$110,000 | 主管或自雇，$40-55/小时 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Apprentice rate about $22-$28/hour |
+| Mid-level (3–6 years) | $65,000~$85,000 | Certified technician, $30-40/hour |
+| Senior (7+ years) | $85,000~$110,000 | Supervisor or self-employed, $40-55/hour |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 从初级技术员升至高级技师或团队主管，可考取电工注册拓宽方向，或创业开设服务公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+From junior technician to senior technician or team leader; can obtain electrician registration to broaden direction, or start own service company.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,69 +97,68 @@ Airconditioning and Refrigeration Mechanics install, maintain, and repair HVAC a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留，满足学徒和工资中位数要求，无需工作替换 |
-| Subclass Green List T2（Work to Residence Visa） | 工作两年后申请居留，适合工作经验稍不足者 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，学历/工作经验和Offer可凑分，但不如绿表直接 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，常见过渡路径，可能需满足工资门槛 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence, meeting apprenticeship and median wage requirements, no job replacement needed |
+| Subclass Green List T2 (Work to Residence Visa) | Apply for residence after two years of work, suitable for those with slightly less work experience |
+| Subclass SMC (Skilled Migrant Category) | 6-point system, qualifications/work experience and job offer can accumulate points, but not as direct as the Green List |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, common transition path, may require meeting salary thresholds |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airconditioning and Refrigeration Mechanic？**
-- 喜欢动手操作、解决机械问题的技术型人才
-- 愿意接受户外和不定时工作、适应不同环境者
-- 寻求快速移民新西兰的技工类申请人
-
-**谁不适合学Airconditioning and Refrigeration Mechanic？**
-- 厌恶体力劳动或高空作业者
-- 对制冷剂化学品敏感或缺乏耐心的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical people who enjoy hands-on work and solving mechanical problems
+- Willing to work outdoors and irregular hours, adaptable to different environments
+- Skilled worker applicants seeking fast immigration to New Zealand
+
+**Who is not suited**
+- Those who dislike physical labor or working at heights
+- Those sensitive to or impatient with refrigerant chemicals
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of air conditioning technicians in New Zealand?**
+A: Entry-level annual salary about NZ$50,000-65,000, experienced and certified NZ$65,000-85,000, senior or self-employed can reach NZ$85,000-110,000, well above the median.
+
+**Q: How can air conditioning technicians apply for New Zealand residence?**
+A: This occupation is on Tier 1 of the Green List and can be directly applied for via the Straight to Residence Visa, requiring a relevant diploma or apprenticeship certificate and a job offer.
+
+**Q: What training is required to become an air conditioning technician in New Zealand?**
+A: The most common pathway is a 3-4 year apprenticeship, during which you obtain the New Zealand Certificate in Refrigeration and Air Conditioning (Level 4); alternatively, you can first complete a 2-year polytechnic diploma and then seek employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Airconditioning and Refrigeration Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for airconditioning mechanics in NZ?**
-答：Entry-level earns $50k-65k NZD, experienced $65k-85k, senior or self-employed $85k-110k, well above median.
-
-**问：How can an airconditioning mechanic apply for NZ residence?**
-答：This occupation is on Green List Tier 1, eligible for Straight to Residence Visa with relevant qualification and job offer.
-
-**问：What training is needed to become an airconditioning mechanic in NZ?**
-答：Common path is 3-4 year apprenticeship with NZ Certificate in Refrigeration Level 4; or a 2-year polytechnic diploma.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

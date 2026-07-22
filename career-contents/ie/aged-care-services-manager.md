@@ -1,59 +1,90 @@
-# Aged Care Services Manager（Aged Care Services Manager）职业分析 · IE
+# Aged Care Services Manager — career analysis · Ireland
 
-**职业代码：1343 – Aged Care Services Manager。**
+**Occupation code: 1343 (ISCO08)**
 
-Plan, organize, and manage aged care facilities or services, ensuring high-quality residential and community care.
+Responsible for planning, organizing, and managing aged care facilities or services, ensuring high-quality residential and community care.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $15,000~$25,000（欧盟学生约€2,500-€5,000/年，非欧盟约€15,000-€25,000/年） |
-| 硕士 | 1-2年（硕士） | $15,000~$30,000（非欧盟学生费用较高） |
+| Bachelor's degree | 4 years (bachelor's degree) | $15,000~$25,000 (EU students approx. €2,500-€5,000/year, non-EU approx. €15,000-€25,000/year) |
+| Master's degree | 1-2 years (Master's) | $15,000~$30,000 (Non-EU student fees are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 老年护理管理证书 | Quality and Qualifications Ireland (QQI) | 可选 | 部分雇主要求 |
-| 注册护士资格 | Nursing and Midwifery Board of Ireland | 可选 | 若为临床管理则需要 |
-| 卫生与安全管理培训 | Health and Safety Authority | 必备 | 合规要求 |
+| Health and safety management training | Health and Safety Authority | Required | Compliance requirements |
+| Certificate in Aged Care Management | Quality and Qualifications Ireland (QQI) | Optional | Some employers require |
+| Registered Nurse qualification | Nursing and Midwifery Board of Ireland | Optional | If for clinical management then need |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。爱尔兰老龄化加剧，老年护理需求持续增长，预计就业人数将稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Ireland's aging population is increasing, leading to sustained growth in elderly care demand; employment numbers are expected to rise steadily.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪 |
-| 中级（3-7年） | $55,000~$70,000 | 税前年薪 |
-| 高级（7年以上） | $70,000~$90,000 | 税前年薪 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $55,000~$70,000 | Annual pre-tax salary |
+| Senior (7+ years) | $70,000~$90,000 | Annual pre-tax salary |
+| average salary | $64,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从注册护士或护理协调员晋升，可发展为区域护理经理或老年护理顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core management responsibilities of aged care service managers (staff scheduling, compliance oversight) are difficult for AI to replace, but data-driven report generation and scheduling optimization tasks will be automated; be alert to administrative job reductions.
+
+Typically promoted from registered nurse or care coordinator, can advance to regional nursing manager or aged care consultant.
+
+**Tasks most exposed to AI:**
+
+- Generate monthly reports and government compliance statements using Excel or automated systems.
+- Automatically optimize employee scheduling and resource allocation based on historical data
+- Handles common family inquiries (e.g., fees, visiting hours) via AI chatbot
+- Automated financial reimbursement and purchase order approval process
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of residents' health data to warn of risks like falls and infections, improving care quality
+- AI generates personalized care plan drafts, manager only needs to review and adjust
+- Smart voice assistant records meeting minutes in real-time and extracts action items
+- AI predicts employee turnover rates, assisting in talent retention strategy formulation
+
+**Human moat:**
+
+- Human care and empathy: handling emotional needs and end-of-life care for residents and their families
+- Emergency decision-making: on-site judgment for medical incidents, employee conflicts, and family complaints
+- Team leadership and cultural development: fostering cohesion among care workers to address the industry's high turnover issue
+
+**Skills to build:**
+
+- Operation and data analysis of nursing management information systems (e.g., iCareManager)
+- AI tool application: Copilot for report generation, Power BI for visualization
+- Agile project management and lean management methodologies
+- Emotional intelligence and conflict mediation training
+- Basic healthcare knowledge update (common geriatric diseases, dementia care).
+
+**Key growth areas:**
 
 - aging population
 - community care
@@ -62,68 +93,67 @@ Plan, organize, and manage aged care facilities or services, ensuring high-quali
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过€30,000的紧缺职业，可快速获得居留权 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过€27,000的职位，需劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高素质非欧盟工人，年薪需达€54,340（或特定职业€42,560） |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations with annual salary over €30,000, eligible for fast-track residency |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary over €27,000, requires labor market testing |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly qualified non-EU workers with an annual salary of at least €54,340 (or €42,560 for certain occupations). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aged Care Services Manager？**
-- 有护理背景并希望进入管理层的专业人士
-- 有组织管理能力且对老年护理有热情的人
-- 寻求稳定职业和良好移民前景的人
-
-**谁不适合学Aged Care Services Manager？**
-- 不愿承担管理责任的人
-- 对高压工作环境不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with a nursing background looking to move into management
+- People with organizational skills and a passion for aged care
+- Those seeking stable careers and good immigration prospects
+
+**Who is not suited**
+- People not willing to take on management responsibilities
+- People not suited to high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aged care service managers?**
+A: Entry-level annual salary approx. €45,000–€55,000, intermediate €55,000–€70,000, senior up to €90,000.
+
+**Q: Is this occupation suitable for immigrating to Ireland?**
+A: Yes, this occupation is in demand and eligible for fast-track immigration via the Critical Skills Employment Permit.
+
+**Q: What are the career advancement paths?**
+A: Can advance from care coordinator to service manager, then to regional manager or consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aged Care Services Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Aged Care Services Managers?**
-答：Entry-level €45k-€55k, mid-level €55k-€70k, senior up to €90k per year.
-
-**问：Is this occupation suitable for migration to Ireland?**
-答：Yes, it is on the Critical Skills list, allowing fast-track residency.
-
-**问：What are the career progression paths?**
-答：From care coordinator to service manager, then regional manager or consultant.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

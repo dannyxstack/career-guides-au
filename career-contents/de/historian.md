@@ -1,60 +1,93 @@
-# Historian（Historian）职业分析 · DE
+# Historian — career analysis · Germany
 
-**职业代码：9122 – Historian。**
+**Occupation code: 9122 (KldB)**
 
-Historians research, analyze, and interpret past events, providing historical perspectives through archival study, document analysis, and academic publications.
+Historians research, analyze, and interpret past events, providing historical perspectives to the public and academia through archival research, document analysis, and scholarly publications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Bachelor） | 3年（全日制） | —（大部分公立大学免学费，仅收学期注册费） |
-| 硕士（Master） | 2年（全日制） | —（公立大学硕士基本免学费） |
-| 博士（Promotion） | 3-5年 | —（通常有职位或奖学金资助，自费极少） |
+| Bachelor's degree | 3 years (full-time) | $0~$1,500 (Most public universities charge no tuition fees, only semester registration fees) |
+| Master's Degree (Master) | 2 years (full-time) | $0~$1,500 (Public universities are mostly tuition-free for master's degrees) |
+| PhD (Promotion) | 3-5 years | $0~$500 (Usually funded by positions or scholarships, very few are self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 历史学硕士或博士学位 | 大学 | 必备 | 学术职位通常要求博士学历 |
-| 科研发表记录 | 学术期刊/出版社 | 可选 | 对学术晋升至关重要 |
-| 档案学或文化遗产保护证书 | 专业机构 | 可选 | 非学术岗位（如博物馆、档案馆）可能要求 |
+| Master's or PhD in History | University | Required | Academic positions typically require a doctoral degree |
+| Research publication record | Academic journals/publishers | Optional | Crucial for academic advancement |
+| Archival science or cultural heritage protection certificate | Professional body | Optional | Non-academic roles (e.g., museums, archives) may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 12,000。德国历史学就业市场较为稳定但竞争激烈，主要受雇于大学、研究机构、档案馆、博物馆及媒体。近年由于公共历史项目数字化需求，有一定增长，但整体岗位有限。
+**Job demand: low (★★☆☆☆).** National workforce approx. 12,000. The history job market in Germany is relatively stable but competitive, with employment mainly in universities, research institutions, archives, museums, and media. Recent digitalization of public history projects has led to some growth, but overall positions are limited.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等偏高（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 研究助理或初级策展人 |
-| 中级（4-9年） | $45,000~$60,000 | 博士后或高级研究员 |
-| 高级（10年以上） | $60,000~$85,000 | 教授或研究部门负责人 |
+| Median salary | $62,088 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research Assistant or Junior Curator |
+| Intermediate (4-9 years) | $45,000~$60,000 | Postdoctoral researcher or senior researcher |
+| Senior (10+ years) | $60,000~$85,000 | Professor or research department head. |
+| average salary | $62,652 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但有限（★★☆☆☆）。** 职业发展路径通常从研究助理或博士后开始，逐步晋升为教授或高级研究员；也可转向档案管理、文化管理或历史咨询等应用领域。晋升需持续发表高质量研究成果。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will assist historical analysis but cannot replace historians' narrative and critical judgment; entry-level demand decreases due to automated data sorting, but advanced roles in digital humanities are amplified.
+
+Career progression usually starts as a research assistant or postdoc, advancing to professor or senior researcher; may also transition to applied fields such as archive management, cultural management, or historical consulting. Advancement requires continuous publication of high-quality research
+
+**Tasks most exposed to AI:**
+
+- Literature search and initial classification
+- Transcription and digital archiving
+- Basic data statistics and pattern recognition.
+- Reference formatting and fact-checking
+
+**Where AI augments the role:**
+
+- Large-scale text analysis to discover historical patterns
+- Digital visualization of complex historical data relationships
+- Simulate historical hypotheses with models
+- Automatic translation and comparison of historical texts across languages
+
+**Human moat:**
+
+- Intuition-based narrative construction ability
+- Ethical judgment and critical appraisal of literature
+- Cross-disciplinary comprehensive interpretation and audience communication
+- Contextual interpretation of primary historical sources
+
+**Skills to build:**
+
+- Python or R text analysis
+- Digital humanities tools (e.g., Voyant Tools)
+- Data visualization (Tableau, Gephi)
+- Historical GIS mapping
+- AI ethics and historical source criticism.
+- Interdisciplinary collaborative communication
+
+**Key growth areas:**
 
 - Digital History
 - Public History
@@ -63,69 +96,68 @@ Historians research, analyze, and interpret past events, providing historical pe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且薪资达标者，历史学通常需年薪约43,800欧元（2024年标准） |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 适用于有大学学历且获得工作合同的历史学家，无薪资下限 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力 |
-| Subclass Freelancer Visa（Freelance Visa） | 适用于自雇历史顾问或自由撰稿人，需证明稳定收入 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to those with high education and meeting salary requirements; history typically requires an annual salary of around €43,800 (2024 standard) |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to historians with a university degree and a job offer; no minimum salary |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
+| Subclass Freelancer Visa (Freelance Visa) | Applicable to self-employed history consultants or freelance writers, need to demonstrate stable income |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Historian？**
-- 对历史有深厚兴趣且具备学术研究能力的人
-- 喜欢阅读、档案分析和写作的细心型人才
-- 愿意攻读博士学位并追求学术或博物馆职业的人
-
-**谁不适合学Historian？**
-- 追求高薪和快速职业发展的人
-- 偏好实践操作而非理论分析的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone with a deep interest in history and academic research skills
+- Detail-oriented individuals who enjoy reading, archival analysis, and writing.
+- Those willing to pursue a PhD and seek a career in academia or museums
+
+**Who is not suited**
+- People pursuing high salary and fast career development
+- People who prefer hands-on practice over theoretical analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of historians in Germany?**
+A: Salary varies by job type: university researcher approx. €35,000-55,000 per year, professor up to €60,000-85,000. Corporate history consultants slightly higher, but fewer positions.
+
+**Q: Can historians apply for the EU Blue Card to immigrate to Germany?**
+A: Yes, but must meet education and salary requirements (2024 blue card minimum salary approx. €43,800). University positions usually meet conditions; non-academic positions need salary verification.
+
+**Q: What are the employment prospects for history in Germany?**
+A: Academic positions are highly competitive, while non-academic roles (e.g., museums, archives, media) have limited but stable demand. Digital history projects bring new opportunities, but overall job growth is slow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等偏高（★★★☆☆） |
-| 发展前景 | 稳定但有限（★★☆☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Historian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for historians in Germany?**
-答：Salaries vary by role: university researchers earn around €35,000-€55,000 annually, while professors can earn €60,000-€85,000. Corporate historical consultants may earn higher but positions are scarce.
-
-**问：Can historians apply for the EU Blue Card to migrate to Germany?**
-答：Yes, provided they meet the qualification and salary thresholds (€43,800 in 2024). Academic positions usually qualify; non-academic roles need to verify salary levels.
-
-**问：What are the job prospects for historians in Germany?**
-答：Academic positions are highly competitive, while non-academic roles in museums, archives, and media are limited but stable. Digital history projects offer new opportunities, but overall growth is slow.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,92 @@
-# Bricklayer（Bricklayer）职业分析 · IE
+# Bricklayer — career analysis · Ireland
 
-**职业代码：7112 – Bricklayer。**
+**Occupation code: 7112 (ISCO08)**
 
-Bricklayers build and repair walls, chimneys, arches, and other structures using bricks, concrete blocks, and similar materials, typically on residential and commercial construction sites.
+Bricklayers build and repair walls, chimneys, arches, and other structures using bricks, concrete blocks, and similar materials, typically working on residential and commercial construction projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年（含在职培训） | —（雇主承担培训费用，政府补贴部分工资） |
-| 职业证书课程 | 1-2年 | $2,000~$5,000（私立或继续教育学院） |
-| 短期技能培训 | 6个月 | $1,500~$3,000（适用于有经验者） |
+| Apprenticeship | 4 years (including on-the-job training). | $0~$1,000 (Employer covers training costs, government subsidizes part of the salary) |
+| Vocational certificate courses | 1-2 years | $2,000~$5,000 (Private or continuing education colleges) |
+| Short-term skills training | 6 months. | $1,500~$3,000 (Suitable for experienced individuals) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家砌砖工认证（QQI Level 6） | 爱尔兰教育与技能部（QQI） | 必备 | 完成学徒制后获得，法定认证 |
-| SOLAS 注册证书 | SOLAS（爱尔兰继续教育与培训局） | 必备 | 证明已完成学徒培训 |
-| 安全健康证书（Safe Pass） | SOLAS | 必备 | 所有建筑工人必须持有 |
-| 手动操作培训证书 | 认可培训机构 | 可选 | 推荐持有，部分雇主要求 |
+| National Bricklaying Certification (QQI Level 6). | Irish Department of Education and Skills (QQI) | Required | Obtained after completing an apprenticeship, statutory certification |
+| SOLAS registration certificate | SOLAS (Irish Further Education and Training Authority) | Required | Evidence of completed apprenticeship training |
+| Safe Pass certificate (Safe Pass) | SOLAS | Required | All construction workers must hold |
+| Manual operation training certificate. | Registered Training Organisation (RTO) | Optional | Recommended to hold, some employers require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,000。爱尔兰建筑业持续增长，住房短缺导致新建和翻新需求旺盛。砌砖工长期短缺，预计未来十年就业机会稳定，但受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 4,000. Ireland's construction industry continues to grow, with housing shortages driving strong demand for new builds and renovations. Bricklayers are in chronic shortage, with stable job opportunities expected over the next decade, though subject to economic cycles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒期工资较低，约为熟练工的70% |
-| 中级（3-7年） | $38,000~$45,000 | 熟练工标准薪资 |
-| 高级（7年以上） | $45,000~$55,000 | 领班或自雇者收入更高 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Apprentice wages are lower, about 70% of a skilled worker's wage |
+| Mid-level (3–7 years) | $38,000~$45,000 | Skilled worker standard salary |
+| Senior (7+ years) | $45,000~$55,000 | Foremen or self-employed individuals earn higher income |
+| average salary | $41,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 入职后可从学徒升至熟练工，经验丰富者可晋升为领班或工头，也可自雇创业或转向建筑管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bricklayers face high automation risk; AI and robotics will significantly replace repetitive bricklaying tasks, reducing entry-level positions, but on-site adjustments and complex structures still require humans.
+
+After joining, can advance from apprentice to skilled worker; experienced workers can be promoted to foreman or supervisor, or may become self-employed or transition to construction management roles.
+
+**Tasks most exposed to AI:**
+
+- Laying standard brick walls as per drawings
+- Repetitive brick carrying and mortar application
+- Setting out and positioning based on BIM model
+- Bricklaying of simple standardized structures like chimneys and pillars
+
+**Where AI augments the role:**
+
+- Use AI robotic total stations for precise positioning and level calibration
+- View bricklaying instructions and quality feedback in real-time via AR helmet
+- Using AI to optimize material cutting and layout plans to reduce waste
+
+**Human moat:**
+
+- Masonry and repair of non-standard, complex geometric shapes.
+- Environmental adaptability to judge mortar mix ratio and bricklaying rhythm on site
+- Craft Judgment in Unique Restoration Work (e.g., historical buildings)
+- real-time coordination with other trades on complex construction sites
+
+**Skills to build:**
+
+- Operate and maintain bricklaying robots
+- Reading and understanding BIM models and digital blueprints
+- Use laser alignment instruments and total stations
+- Basic programming and robot debugging.
+- Traditional masonry skills enhancement in renovation and restoration projects
+
+**Key growth areas:**
 
 - Housing demand
 - Infrastructure investment
@@ -64,69 +95,68 @@ Bricklayers build and repair walls, chimneys, arches, and other structures using
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适合非欧盟申请人，需获得工作机会且年薪不低于30000欧元（2024年标准）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，年薪需达一般就业许可标准（约33500欧元），但砌砖工通常不满足高技能要求。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 砌砖工通常不在紧缺职业列表上，申请不适用。 |
-| Subclass EEA/Swiss Citizen（EEA/Swiss Citizen） | 欧盟/瑞士公民无需工作许可，可自由工作。 |
+| Subclass General Employment P (General Employment Permit) | Suitable for non-EU applicants; requires a job offer with an annual salary of no less than €30,000 (2024 standard). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers; annual salary must meet general employment permit threshold (about €33,500), but bricklayers typically do not meet high-skilled requirements. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Bricklayers are typically not on the shortage occupation list, so applications are not applicable. |
+| Subclass EEA/Swiss Citizen (EEA/Swiss Citizen) | EU/Swiss citizens can work freely without a work permit. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bricklayer？**
-- 喜欢体力劳动和户外工作
-- 注重细节和手工精度
-- 愿意通过学徒制学习并长期从事建筑行业
-
-**谁不适合学Bricklayer？**
-- 无法承受高强度体力工作
-- 对天气敏感或不愿在户外工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys physical labor and outdoor work
+- Attention to detail and manual precision
+- Willing to learn through apprenticeship and work long-term in the construction industry
+
+**Who is not suited**
+- Cannot endure high-intensity physical work.
+- Weather-sensitive or unwilling to work outdoors
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for bricklayers in Ireland?**
+A: Junior bricklayer annual salary approx. €28,000-35,000, skilled worker €38,000-45,000, senior worker or foreman up to €45,000-55,000. Self-employed may earn more.
+
+**Q: How can non-EU citizens immigrate to Ireland as bricklayers?**
+A: Typically requires a job offer and application for a General Employment Permit, with an annual salary of at least €30,000 (2024 standard). EU citizens can work freely.
+
+**Q: Are bricklayers promoted?**
+A: Yes, can advance from apprentice to skilled worker, then to supervisor or foreman, or self-employment. Also possible to move into construction management or training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Bricklayer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bricklayer in Ireland?**
-答：Entry-level bricklayers earn around €28,000-€35,000, skilled workers €38,000-€45,000, and senior or supervisory roles €45,000-€55,000. Self-employed earn potentially more.
-
-**问：How can non-EU citizens immigrate to Ireland as a bricklayer?**
-答：Typically requires a job offer and a General Employment Permit with a minimum salary of €30,000 (2024). EU citizens can work freely.
-
-**问：Are there advancement opportunities for bricklayers?**
-答：Yes, from apprentice to skilled worker, then supervisor or foreman, self-employment, or transition to construction management or training roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

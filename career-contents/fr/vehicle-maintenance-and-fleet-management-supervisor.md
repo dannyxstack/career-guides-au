@@ -1,58 +1,90 @@
-# Vehicle Maintenance and Fleet Management Supervisor（Vehicle Maintenance and Fleet Management Supervisor）职业分析 · FR
+# Vehicle Maintenance and Fleet Management Supervisor — career analysis · France
 
-**职业代码：I1103 – Vehicle Maintenance and Fleet Management Supervisor。**
+**Occupation code: I1103 (ROME)**
 
-Supervises vehicle maintenance and repairs, manages fleet operations, ensures compliance and efficiency. Combines technical skills with management duties, common in transport companies, public services, and corporate fleets.
+Supervise vehicle maintenance and upkeep, manage fleet operations, and ensure compliance and efficiency. Combining technical skills and management responsibilities, it is commonly found in transport companies, public institutions, and large corporate fleet departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职高文凭（CAP） | 2年 | —（公立学校免学费，仅注册费） |
-| 高级技师文凭（BTS） | 2年 | —（公立学校免学费，可学徒制带薪） |
+| Diploma of Vocational High School (CAP) | 2 years | $0~$1,500 (Public schools offer no tuition, only a registration fee) |
+| Advanced Technician Diploma (BTS) | 2 years | $0~$2,000 (Public schools are tuition-free, and paid apprenticeships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 车辆维修技术文凭 | 法国教育部 | 必备 | CAP或BTS相关方向，必备 |
-| VTC执照（职业运输证书） | DREAL | 可选 | 车队运营需部分资质 |
+| Vehicle Maintenance Technical Diploma | French Ministry of Education | Required | CAP or BTS-related fields, essential |
+| VTC License (Professional Transport Certificate) | DREAL | Optional | Fleet operations require certain qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国车辆保有量庞大，电动化转型带来新技术需求，车队管理岗位稳定。经验丰富的主管稀缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France has a large vehicle ownership, and the electrification transition brings demand for new technologies, stabilizing fleet management positions. Experienced supervisors are scarce, and employment prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，管理大型车队 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, managing large fleets |
+| average salary | $31,080 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从维修技师晋升为主管，再至车队经理或区域运营经理。持专业文凭（BTS）可加速晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
+
+You can be promoted from maintenance technician to supervisor, then to fleet manager or regional operations manager. Holding a Professional Diploma (BTS) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
 
 - Electrification
 - Fleet digitization
@@ -61,68 +93,67 @@ Supervises vehicle maintenance and repairs, manages fleet operations, ensures co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，匹配职位和薪资 |
-| Subclass Passeport Talent（Talent Passport） | 紧缺职业，薪资达标可申请，有效期4年 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，高薪门槛（>53k€），适合高级主管 |
+| Subclass Salarié (Employee Work Permit) | Employed work residency requires employer sponsorship, matching the position and salary |
+| Subclass Passeport Talent (Talent Passport) | Shortage occupations, salary requirements can be applied for, valid for 4 years |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, high salary threshold (>53k€), suitable for senior executives |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle Maintenance and Fleet Management Supervisor？**
-- 具有车辆维修技术背景，希望转向管理岗位
-- 善于组织协调，注重安全合规
-- 愿意接受交通工具维护的新技术（电动、数字化）
-
-**谁不适合学Vehicle Maintenance and Fleet Management Supervisor？**
-- 不喜欢户外或车间工作环境
-- 不愿承担管理责任和压力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has a technical background in vehicle maintenance and hopes to transition to management positions
+- Skilled in organization and coordination, emphasizing safety and compliance
+- Willingness to accept new technologies for vehicle maintenance (electric, digital)
+
+**Who is not suited**
+- Dislikes outdoor or workshop working environment
+- Unwilling to take on management responsibilities and pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for vehicle maintenance supervisors in France?**
+A: Entry-level salary is about €25,000-30,000, intermediate salary is €32,000-40,000, and senior-grade salary is €42,000-55,000 (pre-tax annual salary).
+
+**Q: Can foreigners immigrate to France through this profession?**
+A: Yes, this occupation is in short supply and can be immigrated through Salarié, Passeport Talent, or the EU Blue Card. Employer sponsorship is required, and language or qualification requirements must be met.
+
+**Q: What educational qualifications are required to enter this profession?**
+A: A CAP or BTS vehicle maintenance diploma is usually required. Senior positions may require work experience or management training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle Maintenance and Fleet Management Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a vehicle maintenance supervisor in France?**
-答：Entry-level about €25,000-30,000, mid-level €32,000-40,000, senior €42,000-55,000 (gross annual).
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：Yes, it's a shortage occupation. You can apply via Salarié, Passeport Talent, or EU Blue Card. Requires employer sponsorship and meeting language/qualification requirements.
-
-**问：What education is needed for this occupation?**
-答：Typically a CAP or BTS in vehicle maintenance. Senior roles may require experience or management training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

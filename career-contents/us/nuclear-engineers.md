@@ -1,58 +1,91 @@
-# Nuclear Engineers（Nuclear Engineers）职业分析 · 美国
+# Nuclear Engineers — career analysis · United States
 
-**职业代码：17-2161 – Nuclear Engineers。**
+**Occupation code: 17-2161 (SOC)**
 
-Nuclear engineers conduct research on nuclear energy projects, design and operate nuclear reactors, manage nuclear waste, and ensure radiation safety.
+Nuclear engineers conduct nuclear energy research, design and operate nuclear reactors, manage nuclear waste, and ensure radiation protection to maintain safe and efficient nuclear facilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（核工程相关） | 4年 | $80,000~$200,000（公立大学约8-15万美元，私立大学15-20万美元。） |
-| 硕士（核工程） | 2年 | $40,000~$100,000（学费因学校而异。） |
+| Bachelor's degree (nuclear engineering related) | 4 years | $80,000~$200,000 (Public universities: about USD 80,000-150,000; private universities: USD 150,000-200,000.) |
+| Master's (Nuclear Engineering) | 2 years | $40,000~$100,000 (Tuition varies by school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士学位（ABET认证） | 美国工程技术认证委员会（ABET）认证院校 | 必备 | 多数雇主要求ABET认证的工程学位。 |
-| 专业工程师执照（PE） | 各州工程执照委员会 | 可选 | 非必需，但可提升晋升机会；需通过FE和PE考试。 |
+| Bachelor of Engineering (ABET accredited) | ABET-accredited institutions | Required | Most employers require an ABET-accredited engineering degree. |
+| Professional Engineer License (PE) | State engineering licensing boards. | Optional | Not required but can enhance promotion opportunities; requires passing FE and PE exams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,800。美国核能行业稳定，但新核电站建设缓慢，就业增速低于平均水平。现有设施维护和核废料处理领域仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,800. The US nuclear energy industry is stable, but new plant construction is slow, with job growth below average. Demand remains in existing facility maintenance and nuclear waste management.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | 本科或硕士毕业起薪。 |
-| 中级（4-10年） | $100,000~$130,000 | 有经验后薪资显著增长。 |
-| 高级（10年以上） | $140,000~$180,000 | 高级工程师或管理层薪资。 |
+| Median salary | $133,970 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $75,000~$95,000 | Starting salary for bachelor's or master's graduates. |
+| Mid-level (4-10 years). | $100,000~$130,000 | Salary increases significantly with experience. |
+| Senior (10+ years) | $140,000~$180,000 | Senior engineer or management salary |
+| average salary | $140,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：初级核工程师 → 高级核工程师 → 项目主管或技术专家，部分转向核安全监管或咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on nuclear engineer roles is polarized: routine monitoring and documentation tasks are replaced, while core work involving nuclear safety, regulatory compliance, and complex system decisions is enhanced, requiring improved data analysis and AI tool skills.
+
+Career progression: Junior nuclear engineer → Senior nuclear engineer → Project supervisor or technical expert; some move into nuclear safety regulation or consulting.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and logging of nuclear reactor operating parameters
+- Preliminary sorting and report generation of nuclear waste treatment and radiation data
+- Automatic verification of safety checklists and alarm response for anomalies
+- Automated filling and submission of license applications and compliance documents
+
+**Where AI augments the role:**
+
+- Using AI prediction models to optimize reactor fuel cycles and burnup management
+- Early fault diagnosis via machine learning analysis of sensor data
+- Using AI simulations for accident scenario analysis and emergency drill optimization
+- Using natural language processing to accelerate nuclear regulatory policy review and compliance inspections
+
+**Human moat:**
+
+- Responsibility for nuclear safety design approval and regulatory decision-making
+- Interdisciplinary system integration and innovative solution design skills
+- Ethical and risk judgment when dealing with high-consequence decisions
+- Communication and persuasion skills with regulators, the public, and multiple parties
+
+**Skills to build:**
+
+- Development and maintenance of AI models specific to nuclear engineering.
+- Application of Python/R for data analysis and machine learning libraries
+- Operation of digital twin and simulation platforms for nuclear power plants
+- Cross-disciplinary knowledge of nuclear safety culture and AI ethics
+- Agile project management and cross-team collaboration tools
+- Nuclear regulatory compliance automation (e.g., NRC electronic submission system)
+
+**Key growth areas:**
 
 - Nuclear Energy
 - Radiation Safety
@@ -61,69 +94,68 @@ Nuclear engineers conduct research on nuclear energy projects, design and operat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见的工作签证，需雇主担保，配额有限，每年4月抽签。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士以上或特殊能力，可通过PERM劳工认证申请绿卡。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适合本科或以上学历，需PERM，排期较长。 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大或墨西哥公民，核工程属于NAFTA职业列表，无需抽签。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Most common work visa, requires employer sponsorship, limited quota, lottery each April. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or higher or exceptional ability, can apply for green card via PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Suitable for bachelor's degree or higher; requires PERM with long processing times. |
+| Subclass TN (TN Status (USMCA)) | Applies to Canadian or Mexican citizens; nuclear engineering is on the NAFTA occupation list, no lottery needed. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nuclear Engineers？**
-- 对核能科学有浓厚兴趣的理工科人才
-- 注重安全规范、严谨细致的人
-- 愿意在偏远地区（如核电站所在地）工作的人
-
-**谁不适合学Nuclear Engineers？**
-- 对辐射或核安全有较强恐惧心理的人
-- 不喜欢严格监管和重复性流程的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- STEM talent with strong interest in nuclear energy science
+- Those who emphasise safety standards and are meticulous and detail-oriented
+- Person willing to work in remote areas (e.g., nuclear power plant locations)
+
+**Who is not suited**
+- People with strong fear of radiation or nuclear safety
+- People who dislike strict regulation and repetitive processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a nuclear engineer?**
+A: According to BLS, 2023 median annual salary for nuclear engineers in the US was about $122,000, entry-level $75,000, senior up to $180,000.
+
+**Q: Is it easy for a nuclear engineer to get a US green card?**
+A: Relatively easy, possible through EB-2/EB-3 pathways but need PERM. Due to nuclear safety, some positions may require background checks.
+
+**Q: What educational background is needed to become a nuclear engineer?**
+A: Typically requires an ABET-accredited bachelor's degree in nuclear engineering or a related field; a master's degree aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Nuclear Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for nuclear engineers?**
-答：According to BLS, the median annual wage for nuclear engineers in 2023 was about $122,000, with entry-level around $75,000 and experienced up to $180,000.
-
-**问：Is it easy for nuclear engineers to get a US green card?**
-答：Relatively straightforward via EB-2/EB-3 with PERM, though security clearance may be required for certain roles.
-
-**问：What education is needed to become a nuclear engineer?**
-答：Typically a bachelor's degree in nuclear engineering or related field from an ABET-accredited program; a master's degree can help with advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

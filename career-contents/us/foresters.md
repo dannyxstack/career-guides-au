@@ -1,59 +1,95 @@
-# Foresters（Foresters）职业分析 · 美国
+# Foresters — career analysis · United States
 
-**职业代码：19-1032 – Foresters。**
+**Occupation code: 19-1032 (SOC)**
 
-Manage public and private forested lands for economic, recreational, and conservation purposes, including timber inventory, appraisal, procurement contracts, and habitat protection.
+Manages public and private forest lands, balancing economic benefits with ecological conservation, including timber assessment, contract signing, wildlife habitat and water quality protection.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费范围） |
-| 硕士学位 | 2年 | $30,000~$80,000（部分工作岗位偏好硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition range) |
+| Master's degree | 2 years | $30,000~$80,000 (Some positions prefer a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林学学士学位 | 美国林务局认可的大学 | 必备 | 核心要求，通常需完成实习 |
-| 注册林务员（RF） | 美国林务员协会（SAF） | 可选 | 部分州或联邦职位要求 |
-| 防火资格证书 | 国家野火协调组（NWCG） | 可选 | 参与野火管理岗位必需 |
+| Bachelor of Forestry | universities recognized by the US Forest Service | Required | Core requirement: usually requires completion of an internship |
+| Registered Forester (RF) | Society of American Foresters (SAF) | Optional | Required for some state or federal positions |
+| Fire prevention qualification certificate | National Wildfire Coordinating Group (NWCG) | Optional | Required for wildfire management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 11,500。受气候变化和野火管理需求推动，联邦及州政府雇佣稳定，私营部门增长平缓，预计未来十年就业增长约3%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 11,500. Driven by climate change and wildfire management needs, stable federal and state government employment, moderate private sector growth, with about 3% employment growth expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 政府岗位起薪偏低 |
-| 中级（4-8年） | $60,000~$80,000 | 具备经验后可升至GS-11等级 |
-| 高级（9年以上） | $80,000~$110,000 | 管理层或专家岗位 |
+| Median salary | $76,400 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Government positions have relatively low starting salaries. |
+| Mid-level (4–8 years) | $60,000~$80,000 | With experience, can advance to GS-11 level. |
+| Senior (9+ years) | $80,000~$110,000 | Management or specialist roles |
+| average salary | $79,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从野外技术员或护林员起步，可晋升为高级林务员、森林管理主管或区域资源经理，部分进入政策或咨询岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
+
+Starting as a field technician or ranger, can advance to senior forester, forest management supervisor, or regional resource manager, with some moving into policy or consulting roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic sensor data collection and recording (e.g., weather, water quality data)
+- Routine patrol route planning and electronic logging
+- Automatic image recognition counting of wildlife populations
+- Legal knowledge base query and standardized report generation
+- Chatbot interaction for visitor registration and basic information inquiries
+
+**Where AI augments the role:**
+
+- Using drones and remote sensing imagery for large-scale forest health assessment
+- AI models predict fire risk and pest/disease spread paths to support management decisions.
+- Real-time data analyzers assist in monitoring environmental indicators like water quality and air pollution
+- Smart wearable devices enhance field patrol safety monitoring and emergency response efficiency
+- Virtual reality simulation training for public environmental education courses
+
+**Human moat:**
+
+- On-site diagnosis and comprehensive judgment ability for complex ecosystems
+- Deep communication and consultation with local communities, Indigenous peoples, and other stakeholders
+- On-site decision-making and command in emergency events (e.g., forest fires, illegal logging)
+- Long-term ecological restoration planning and execution based on local knowledge
+- Delivering emotionally engaging and trustworthy environmental education to the public
+
+**Skills to build:**
+
+- Proficient in GIS and remote sensing data analysis tools (e.g., ArcGIS, QGIS)
+- Learn Python or R for basic environmental data statistics and visualization
+- Familiarity with drone operation and aerial data processing workflows
+- Learn basic applications of AI/ML models in ecological monitoring
+- Enhance project management and cross-departmental collaboration skills
+- Master environmental regulation interpretation and automated report generation tools
+
+**Key growth areas:**
 
 - Wildfire management
 - Climate change adaptation
@@ -62,68 +98,67 @@ Manage public and private forested lands for economic, recreational, and conserv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于大型林业咨询公司或研究机构，需学士学位及以上 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或学士加5年经验，用于高级或管理岗位 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM申请EB-2/EB-3，通常需雇主支持 |
+| Subclass H-1B (H-1B Specialty Occupation) | Commonly in large forestry consulting firms or research institutions, requires bachelor's degree or higher |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's or bachelor's plus 5 years of experience for senior or management roles |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for EB-2/EB-3 via PERM, usually requires employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Foresters？**
-- 热爱户外工作并对生态保护有热情者
-- 具备良好沟通和项目管理能力者
-- 能适应偏远地区工作和季节性高强度任务者
-
-**谁不适合学Foresters？**
-- 偏好城市办公环境者
-- 对体力要求高、户外条件艰苦不适应者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are passionate about ecological conservation.
+- Those with good communication and project management skills
+- Those who can adapt to remote area work and seasonal high-intensity tasks
+
+**Who is not suited**
+- Those who prefer urban office environments
+- Those not suited to high physical demands or harsh outdoor conditions
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a forester?**
+A: According to BLS data, the 2022 median annual salary for US foresters was about $64,000, entry-level about $45,000-$60,000, and senior up to $110,000.
+
+**Q: Can foresters apply for an H-1B visa?**
+A: Yes. Foresters are typically classified as professional occupations (requiring a bachelor's degree) and can apply for H-1B visas, commonly for foreign employees of large forestry companies or government agencies.
+
+**Q: What is the typical career path for a forester?**
+A: Usually start as field technician or assistant forester; with experience advance to forester, senior forester, and eventually to forest management supervisor or regional manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Foresters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for foresters?**
-答：According to BLS, median annual wage for foresters in 2022 was about $64,000, entry-level $45,000-$60,000, senior up to $110,000.
-
-**问：Can foresters apply for H-1B visa?**
-答：Yes. Foresters qualify as specialty occupations requiring a bachelor's degree, and H-1B visas are possible with employer sponsorship, often in large firms or government agencies.
-
-**问：What is the typical career path for foresters?**
-答：Start as field technician or assistant forester, advance to forester, senior forester, then forest management supervisor or regional manager.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

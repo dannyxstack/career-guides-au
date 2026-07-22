@@ -1,64 +1,95 @@
-# 记账员（Bookkeeper）职业分析 · 澳大利亚
+# Bookkeeper — career analysis · Australia
 
-**职业代码：551211 – Bookkeeper。**
+**Occupation code: 551211 (ANZSCO)**
 
-记账员负责日常账务、对账、发票、工资和BAS申报，广泛服务中小企业，云会计软件（Xero/MYOB）是核心技能，非技术移民职业。
+Bookkeepers handle day-to-day accounting, reconciliations, invoicing, payroll and BAS lodgements, serving small and medium businesses broadly. Cloud accounting software (Xero/MYOB) is a core skill. Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV in Accounting and Bookkeeping (FNS40222) | 6~12个月 | $2,000~$6,000（BAS Agent前置） |
+| Certificate IV in Accounting and Bookkeeping (FNS40222) | 6–12 months | $2,000~$6,000 (BAS Agent prerequisite) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV in Accounting and Bookkeeping | TAFE/RTO | 可选 | BAS Agent前置 |
-| Xero/MYOB 认证 | 厂商 | 可选 | 实用加分 |
+| Certificate IV in Accounting and Bookkeeping | TAFE/RTO | Optional | BAS Agent prerequisite |
+| Xero/MYOB certification | Manufacturer/vendor | Optional | Practical bonus points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 90,000。中小企业持续需要记账服务，云会计与BAS Agent方向附加值更高。
+**Job demand: high (★★★★☆).** National workforce approx. 90,000. Small and medium businesses continue to need bookkeeping services, with cloud accounting and BAS Agent specialisations offering higher added value.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,500~4,500 个 | 全国 |
-| Indeed | 1,800~3,200 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门（0-2年） | $55,000~$62,000 | — |
-| 中级（3-5年） | $62,000~$78,000 | — |
-| 资深/BAS Agent | $78,000~$95,000 | — |
+| Median salary | $72,800 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $55,000~$62,000 | — |
+| Mid-level (3–5 years) | $62,000~$78,000 | — |
+| Senior / BAS Agent | $78,000~$95,000 | — |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可考BAS Agent注册或向会计师方向深造。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Bookkeeper roles face significant automation pressure: AI can already handle core tasks like invoice entry, reconciliation, and BAS reporting, reducing demand for entry-level positions. Need to transition to financial advisor
+
+Can progress to BAS Agent registration or pursue further study towards an accounting qualification.
+
+**Tasks most exposed to AI:**
+
+- Invoice scanning and data entry
+- Automated bank reconciliation
+- BAS and GST return generation
+- Basic payroll calculation and disbursement.
+- Accounts receivable and payable reconciliation
+
+**Where AI augments the role:**
+
+- Anomaly transaction identification and alerts (manual review after AI flagging)
+- Cash flow forecasting and budget analysis
+- Client bill explanation and tax optimisation advice
+- Multi-entity consolidated report analysis
+- Internal Process Automation Scripting
+
+**Human moat:**
+
+- Face-to-face financial advice communication with clients
+- Complex tax dispute resolution and compliance judgment
+- Financial impact assessment of unstructured data (e.g., contracts)
+- Management decision support and strategic advice
+- Ethical and legal risk judgment
+
+**Skills to build:**
+
+- Master Xero/MYOB advanced functions and API integration
+- Learn Python or R for financial data analysis.
+- Master Power BI/Tableau data visualization
+- Obtain CPA/CA certification
+- In-depth knowledge of tax law (GST/Payroll Tax)
+- Develop client consultation and communication skills
+
+**Key growth areas:**
 
 - Cloud Accounting (Xero/MYOB)
 - BAS Agent
@@ -67,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学记账员？**
-- 细心、对数字敏感者
-- 想低门槛进入财会者
-
-**谁不适合学记账员？**
-- 以技术移民为目标者（建议读会计师）
-- 不喜欢重复账务者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals with strong numerical aptitude
+- Those looking for a low-barrier entry into accounting and finance
+
+**Who is not suited**
+- Targeting skilled migration (accounting is recommended)
+- Not suited to those who dislike repetitive accounting tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for bookkeepers in Australia?**
+A: Approx. AUD $5.5k-$9.5k, higher for BAS Agents.
+
+**Q: Can a bookkeeper migrate to Australia through skilled migration?**
+A: No. Bookkeepers are not on the skilled migration list; those seeking to migrate are advised to pursue an Accountant pathway instead.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-记账员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲记账员工资多少？**
-答：约AUD $5.5万~$9.5万，BAS Agent更高。
-
-**问：记账员能技术移民吗？**
-答：不能。记账员不在技术移民清单上；如要移民建议走会计师（Accountant）路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Sheep Farm Worker（Sheep Farm Worker）职业分析 · 澳大利亚
+# Sheep Farm Worker — career analysis · Australia
 
-**职业代码：842317 – Sheep Farm Worker。**
+**Occupation code: 842317 (ANZSCO)**
 
-Performs manual tasks on sheep farms including feeding, shearing, tagging, fencing and general flock management to support wool and meat production.
+Engaging in physical labor such as feeding, shearing, marking, and fence maintenance on a sheep farm; responsible for daily flock management and wool production support.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无特定学历要求 | 0年 | —（通常初中毕业即可，在岗培训为主。） |
-| 短期职业教育证书 | 6个月 | $3,000~$8,000（农业三级证书（Certificate III in Agriculture）有助于就业。） |
+| No specific educational requirements | 0 years | $0~$0 (Typically requires only junior high school graduation, with on-the-job training as the main approach.) |
+| Short-term vocational education certificate | 6 months. | $3,000~$8,000 (Certificate III in Agriculture helps with employment.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业三级证书（Certificate III in Agriculture） | TAFE或注册培训机构 | 可选 | 非强制但可提升技能和就业竞争力。 |
-| 重型车辆驾照（HR或HC） | 州交通管理局 | 可选 | 部分农场需要驾驶卡车或拖拉机。 |
-| 化学使用资质（ChemCert） | ChemCert Australia | 可选 | 用于安全使用农用化学品。 |
+| Certificate III in Agriculture | TAFE or registered training organizations | Optional | Not mandatory but can enhance skills and employability. |
+| Heavy Vehicle License (HR or HC) | State Department of Transportation | Optional | Some farms require driving trucks or tractors. |
+| Chemical Use Accreditation (ChemCert) | ChemCert Australia | Optional | For the safe use of agricultural chemicals. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 20,000。澳洲畜牧业持续稳定，偏远地区对农场工人有稳定需求，但受季节性影响。自动化可能减少部分低技能岗位，整体就业前景平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 20,000. The Australian livestock industry remains stable, with steady demand for farm workers in remote areas, though affected by seasonality. Automation may reduce some low-skilled jobs, but overall employment prospects are stable.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 按行业奖励协议（Pastoral Award）最低工资。 |
-| 中级（2-5年） | $55,000~$65,000 | 含加班和技能补贴。 |
-| 高级（5年以上/主管） | $65,000~$80,000 | 高级羊倌或农场主管。 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $45,000~$55,000 | Minimum wage under the Pastoral Award. |
+| Intermediate (2-5 years) | $55,000~$65,000 | Including overtime and skill allowances. |
+| Senior (5+ years / supervisor) | $65,000~$80,000 | Senior shepherd or farm manager. |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从普通农场工可晋升为高级羊倌或牧区主管，积累经验后可管理大型牧场或转向农业技术服务岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Sheep farm workers face dual impact: automation will take over repetitive tasks like data recording and monitoring, but it amplifies human-machine collaboration in on-site decision-making and health management. Entry barriers slightly increase due to automation, but demand for skilled workers remains stable.
+
+Can advance from general farm worker to senior shepherd or pastoral supervisor, with experience leading to managing large farms or transitioning to agricultural technical service roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic collection and early warning of sheep health monitoring data (AI visual recognition of sick sheep)
+- Wool quality grading and weighing records (automated sorting system)
+- Feed ratio calculation and dispensing (algorithm-optimized feeding plan)
+- Fence Patrol and Damage Reporting (Drone Image Analysis)
+- Production report generation (AI automatically summarizes output, mortality rates, etc.)
+
+**Where AI augments the role:**
+
+- Individual sheep health trend analysis based on sensor data to assist veterinary decisions
+- AI recommends optimized grazing routes and pasture rotation plans
+- Shearing robot assists operations, improving efficiency and reducing manual fatigue.
+- Breeding cycle prediction to improve mating success rates.
+- Market trend analysis to optimize sales timing
+
+**Human moat:**
+
+- Intuitive judgment of individual sheep behavior and health status
+- Rapid response capability in emergencies (e.g., difficult birth, animal attack)
+- On-site manual work in complex terrain (e.g., shearing on steep slopes)
+- Communication coordination and emergency decision-making responsibilities with farmers and veterinarians
+- Subjective judgment in agricultural ethics and animal welfare.
+
+**Skills to build:**
+
+- Basic data entry and electronic device operation (tablets, drones)
+- Use AI health monitoring platform for abnormal alarm tracking
+- Automated equipment maintenance (e.g., simple troubleshooting of shearing robots)
+- Precision livestock technologies (GPS grazing, electronic ear tag management)
+- Skills in animal behavior observation and preliminary diagnosis
+- Participate in farm digital transformation training
+
+**Key growth areas:**
 
 - rural labor demand
 - sheep farming
@@ -64,66 +100,68 @@ Performs manual tasks on sheep farms including feeding, shearing, tagging, fenci
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 403（Temporary Work (International Relations)） | 短期季节性工人签证，适用于农业低技能岗位，但非永久居留途径。 |
-| Subclass 462（Work and Holiday） | 打工度假签证，允许在农场工作6个月，但无移民路径。 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 仅适用于偏远地区，但该职业一般不在技术职业清单上，需雇主担保。 |
+| Subclass 403 (Temporary Work (International Relations)) | Short-term seasonal worker visa for low-skilled agricultural positions, but not a path to permanent residency. |
+| Subclass 462 (Work and Holiday) | Working holiday visa allows 6 months of farm work but has no immigration pathway. |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Only applicable to remote areas, but this occupation is generally not on the skilled occupation list and requires employer sponsorship. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sheep Farm Worker？**
-- 体力好、适应户外和偏远环境的人
-- 愿意从事季节性工作、不介意重复劳动的人
-- 希望体验澳洲农场生活、积累工作经验的人
+**Who is suited**
+- People with good physical fitness who are suited to outdoor and remote environments.
+- People willing to work seasonal jobs and not mind repetitive tasks
+- Those looking to experience Australian farm life and gain work experience
 
-**谁不适合学Sheep Farm Worker？**
-- 不适应体力劳动和恶劣天气的人
-- 需要稳定城市生活和明确职业晋升路径的人
+**Who is not suited**
+- For those unable to tolerate physical labor and harsh weather
+- Those who need a stable urban life and clear career advancement paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual salary of a sheep farm worker?**
+A: Junior approx. 45,000-55,000 AUD, intermediate 55,000-65,000, supervisor 65,000-80,000. Actual income affected by season and overtime.
+
+**Q: Can sheep farm workers immigrate to Australia?**
+A: This occupation is not on the skilled migration occupation list, so it cannot lead to permanent residency through skilled migration visas such as 189/190/482. It is only possible to work temporarily in Australia via working holiday or short-term work visas.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can advance from general worker to senior shepherd, farm team leader, or ranch manager, but requires accumulated experience and learning management skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Sheep Farm Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a sheep farm worker?**
-答：Entry-level around AUD 45k-55k, mid-level 55k-65k, supervisor 65k-80k. Actual income varies with season and overtime.
-
-**问：Can a sheep farm worker migrate to Australia?**
-答：This occupation is not on the skilled occupation list, so it does not qualify for general skilled migration (189/190/482). Only temporary visas like WHV or seasonal work are available.
-
-**问：Are there career progression opportunities?**
-答：Yes, you can advance to senior stockperson, farm supervisor or station manager with experience and management skills.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Jewellery and Precious Metal Worker（Jewellery and Precious Metal Worker）职业分析 · IE
+# Jewellery and Precious Metal Worker — career analysis · Ireland
 
-**职业代码：7313 – Jewellery and Precious Metal Worker。**
+**Occupation code: 7313 (ISCO08)**
 
-Jewellery and precious metal workers design, manufacture, and repair jewellery and precious metal items through cutting, setting, polishing, and other hand and machine techniques.
+Jewellery and precious metal workers design, manufacture, and repair jewellery and precious metal items, including cutting, setting, polishing, and other manual and mechanical techniques.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 | 2-3年 | $2,000~$8,000（爱尔兰学徒制或继续教育学院课程） |
-| 高中学历+在职培训 | 4年 | —（通常为雇主提供的学徒岗位） |
+| Vocational education | 2-3 years | $2,000~$8,000 (Irish apprenticeship or further education college courses.) |
+| High school diploma + on-the-job training | 4 years | $0~$3,000 (Usually apprenticeship positions provided by employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 珠宝设计证书 | 爱尔兰继续教育与培训委员会 | 可选 | 常见但非强制 |
-| 宝石学证书 | 宝石学会 | 可选 | 有助于提升专业技能 |
+| Jewelry design certificate | Further Education and Training Authority | Optional | Common but not mandatory |
+| Gemology certificate | Gemological Institute | Optional | Helps improve professional skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。爱尔兰珠宝及贵金属工人就业前景稳定，受旅游和奢侈品消费驱动，但市场规模较小，竞争有限。技能型工匠需求持续，自动化影响较低。
+**Job demand: medium (★★★☆☆).** National workforce approx. 800. Employment prospects for Irish jewellery and precious metal workers are stable, driven by tourism and luxury consumption, but the market is small with limited competition. Demand for skilled artisans persists, with low automation impact.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒或入门级 |
-| 中级（3-7年） | $32,000~$42,000 | 熟练工匠 |
-| 高级（7年以上） | $42,000~$55,000 | 高级工匠或工作室负责人 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $32,000~$42,000 | Skilled tradesperson |
+| Senior (7+ years) | $42,000~$55,000 | Senior artisan or workshop manager |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展可从学徒或技工起步，积累经验后晋升为高级工匠或工作室主管，也可自主创业开设珠宝店或工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
+
+Career development can start from an apprenticeship or trade, progress to senior craftsman or studio manager after gaining experience, or start your own business by opening a jewellery store or studio.
+
+**Tasks most exposed to AI:**
+
+- Routine metal polishing and grinding (can be automated with AI-controlled robotic arms).
+- Gem cutting and setting calculations (parametric modeling to optimize cut automatically)
+- Repetitive inlay path planning (AI vision system assisted positioning)
+- Inventory management and simple design sketch generation (generative AI for rapid output)
+- Quality inspection and sorting of batch jewelry (computer vision for automatic defect detection)
+
+**Where AI augments the role:**
+
+- Complex 3D modeling and rendering (AI generates design variants for rapid style exploration)
+- Gem optimization cutting simulation (AI analyzes internal structure of rough stone to suggest optimal facets)
+- Personalized custom design (AI generates initial plan based on client needs, then craftspeople refine)
+- Teaching and skill transfer (AR/VR simulated operations, AI real-time error feedback)
+- Repair and restoration solution assessment (AI scans damaged structures, recommends repair paths)
+
+**Human moat:**
+
+- Artistic feel of hand setting and fine metal adjustment (AI cannot replicate tactile feedback)
+- Emotional interaction skills for communicating custom needs with clients and passing on brand stories
+- Experience-based restoration of historical craftsmanship in antique jewelry repair
+- Decision-making and accountability for handling high-value, one-of-a-kind works
+- Irregularity of comprehensive creation across materials (precious metals, gemstones, enamel, etc.)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., Rhino, MatrixGold) and parametric design tools
+- Prompt engineering and image optimization for AI-assisted design platforms (e.g., Midjourney for jewelry)
+- Deepening gemology and materials science (understanding the gap between AI simulation and actual cutting)
+- Digital manufacturing processes (3D printing wax patterns, CNC engraving) operation and post-processing
+- Customer experience design (incorporating AR/VR try-ons and custom communication)
+- Sustainable/traceability technology (blockchain registering gem origin, meeting ESG requirements)
+
+**Key growth areas:**
 
 - custom design
 - luxury goods
@@ -63,65 +99,67 @@ Jewellery and precious metal workers design, manufacture, and repair jewellery a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达到一般就业许可门槛。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动的员工，需在该公司有至少12个月工作经验。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand, requiring employer sponsorship, with an annual salary meeting the general employment permit threshold. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable to employees transferred within a multinational company, requiring at least 12 months of work experience in that company. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Jewellery and Precious Metal Worker？**
-- 对手工艺有热情，注重细节的人
-- 愿意从事精细手工劳动的人
-- 有艺术创意且耐心的人
+**Who is suited**
+- People with a passion for craftsmanship and attention to detail
+- People willing to engage in fine manual labor
+- Artistically creative and patient individuals
 
-**谁不适合学Jewellery and Precious Metal Worker？**
-- 对精细工作缺乏耐心的人
-- 对收入期望较高的人
+**Who is not suited**
+- Someone who lacks patience for detailed work.
+- Those with high income expectations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for jewellery and precious metal workers in Ireland?**
+A: Salary range from approximately €25,000 per year for entry-level to €55,000 for senior roles, overall at a medium level, mainly depending on experience, skills, and employer size.
+
+**Q: What visas are available for jewellery and precious metal workers to immigrate to Ireland?**
+A: As this occupation is not on the shortage list, only general work permits or intra-company transfer permits are typically available, requiring employer sponsorship.
+
+**Q: What are the career development paths for jewelry and precious metal workers?**
+A: Can start as an apprentice, then progress to senior craftsman, studio manager, or start your own jewelry store or design studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Jewellery and Precious Metal Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for jewellery and precious metal workers in Ireland?**
-答：Salaries range from about €25,000 for entry-level to €55,000 for senior positions, depending on experience, skills, and employer size.
-
-**问：What visas can jewellery and precious metal workers use to immigrate to Ireland?**
-答：As this occupation is not on the shortage list, only General Employment Permit or Intra-Company Transfer Permit are available, requiring employer sponsorship.
-
-**问：What career paths are available for jewellery and precious metal workers?**
-答：Start as an apprentice, progress to senior craftsman or workshop supervisor, or start your own jewellery shop or design studio.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

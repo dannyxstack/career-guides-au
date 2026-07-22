@@ -1,60 +1,92 @@
-# Non-Commissioned Officers Of The Armed Forces（Non-Commissioned Officers Of The Armed Forces）职业分析 · ES
+# Non-Commissioned Officers Of The Armed Forces — career analysis · Spain
 
-**职业代码：0012 – Non-Commissioned Officers Of The Armed Forces。**
+**Occupation code: 0012 (CNO)**
 
-Non-Commissioned Officers (NCOs) are mid-level commanders in the Spanish armed forces, responsible for leading soldiers, maintaining equipment, and carrying out military operations. They serve in technical and managerial roles across the army, navy, air force, and Civil Guard, ensuring combat effectiveness and discipline.
+A non-commissioned officer in the armed forces is a mid-level commander in the Spanish military, responsible for leading soldiers, maintaining equipment, and carrying out military tasks. They hold technical and managerial positions in the army, navy, air force, and National Guard, ensuring operational effectiveness and discipline.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 军事基础训练 | 1年 | —（入伍后由国家承担全部费用） |
-| 士官专业培训 | 2年 | —（在军事学院或专业学校进行，免费并领取津贴） |
+| Military basic training | 1 year | $0~$0 (After enlistment, the state will bear all expenses) |
+| Professional training for non-commissioned officers | 2 years | $0~$0 (Conducted at military academies or vocational schools, free and with an allowance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军事专业资质 | 西班牙国防部 | 必备 | 完成基础训练和专业课程后获得 |
-| 外语能力（英语） | 军事语言中心 | 可选 | 虽非强制，但对国际任务和晋升有利 |
+| Military professional qualifications | The Spanish Ministry of Defense | Required | Obtained after completing basic training and specialized courses |
+| Foreign Language Proficiency (English) | Military Language Center | Optional | Although not mandatory, it is beneficial for international assignments and promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 55,000。西班牙国防部持续推进军队现代化，对高素质士官的需求稳定。受北约承诺和国际维和任务影响，专业技能人员缺口持续存在。晋升需通过内部考核和经验积累，长期服役前景良好。
+**Job demand: medium (★★★☆☆).** National workforce approx. 55,000. The Spanish Ministry of Defense continues to modernize its military, maintaining a stable demand for highly qualified NCOs. Due to NATO commitments and international peacekeeping missions, there is a persistent shortage of skilled professionals. Promotion requires internal assessment and experience accumulation, with good long-term service prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $24,000~$30,000 | 税前年薪，包含基本工资和津贴 |
-| 中级（5-15年） | $30,000~$40,000 | 含军衔补贴和任务津贴 |
-| 高级（15年以上） | $40,000~$55,000 | 高级士官或军士长，含长期服务奖励 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $24,000~$30,000 | Pre-tax annual salary, including base salary and allowances |
+| Intermediate (5-15 years) | $30,000~$40,000 | Including rank allowances and task allowances |
+| Senior (15+ years) | $40,000~$55,000 | Senior NCOs or Sergeant Majors, including long-term service awards |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 士官通常从士兵晋升或直接通过军事学院培训。职业路径包括从下士到高级士官，最终可担任军士长或专业技术教官。部分士官可转任文职国防岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Armed forces non-commissioned officers face challenges from AI-assisted decision-making and automated equipment maintenance, but core responsibilities such as command, discipline, and on-site judgment are hard to replace, making it a mixed profession.
+
+Non-commissioned officers are usually promoted from soldiers or trained directly through military academies. Career paths range from sergeant to senior non-commissioned officer, and ultimately to become a sergeant major or technical instructor. Some NCOs may be transferred to civilian national defense positions.
+
+**Tasks most exposed to AI:**
+
+- Automated weapon system operations (such as drone monitoring and remote artillery calibration)
+- Equipment fault diagnosis and maintenance scheduling (AI-based predictive maintenance)
+- Data analysis and report generation during combat simulation and tactical exercises
+- Logistics and material management and allocation (AI optimization of inventory and routes)
+
+**Where AI augments the role:**
+
+- AI-assisted battlefield situational awareness and decision-making (real-time threat identification and advice)
+- The intelligent training system customizes personalized skill enhancement plans for soldiers
+- Automated equipment health management systems improve maintenance efficiency
+- AI simulation and result evaluation in tactical planning
+
+**Human moat:**
+
+- Frontline Command and Leadership (Morale Boost, Discipline Execution, Team Cohesion)
+- Human judgment and ethical decisions at the brink of life and death
+- Situational adaptation and improvisation in complex battlefield environments
+- Psychological support for soldiers and conflict mediation
+
+**Skills to build:**
+
+- Drone system operation and collaborative tactics
+- AI data analysis and battlefield intelligence interpretation
+- Automated equipment maintenance and troubleshooting (including AI diagnostic tools)
+- Operation of digital command and communication systems
+- Cybersecurity Fundamentals (Defending Against Battlefield Cyberattacks)
+- Human-machine collaboration and intelligent system management
+
+**Key growth areas:**
 
 - Professionalization
 - NATO missions
@@ -63,64 +95,66 @@ Non-Commissioned Officers (NCOs) are mid-level commanders in the Spanish armed f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed persons） | 第三国公民可申请受雇工作居留，但需西班牙雇主（国防部）担保，且仅为西班牙公民开放，外国人通常无此路径 |
+| Subclass Cuenta ajena (Work permit for employed persons) | Third-country nationals can apply for a work residence permit, but require a Spanish employer (Ministry of Defence) sponsorship, and it is only open to Spanish citizens; foreigners generally do not have this pathway. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Non-Commissioned Officers Of The Armed Forces？**
-- 有强烈爱国心和纪律观念者
-- 适应严格军事化管理和体力劳动
-- 希望在军队长期发展并提供稳定服务
+**Who is suited**
+- Those with a strong sense of patriotism and discipline
+- Adapt to strict militarized management and manual labor
+- Aiming for long-term career in the military and providing stable service.
 
-**谁不适合学Non-Commissioned Officers Of The Armed Forces？**
-- 追求轻松工作环境和自由时间者
-- 对外语和新技术学习缺乏兴趣者
+**Who is not suited**
+- Those seeking a relaxed work environment and free time
+- Those who lack interest in learning foreign languages and new technologies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Spanish non-commissioned officers?**
+A: Junior officer annual salary approx EUR 24,000-30,000, mid-level 30,000-40,000, senior up to 55,000. Includes base pay, rank allowance, and mission bonuses.
+
+**Q: Can foreigners immigrate to Spain as non-commissioned officers?**
+A: Almost impossible. The Spanish armed forces only recruit citizens of their own country or the EU; third-country nationals cannot obtain work residency through this profession.
+
+**Q: What is the career promotion path for non-commissioned officers?**
+A: Starting as Cabo, progressing to Sargento, Sargento primero, Brigada, and finally Suboficial mayor. Promotion depends on experience, exams, and years of service.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 高（★★★☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Non-Commissioned Officers Of The Armed Forces属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Spanish NCOs?**
-答：Junior NCOs earn around €24,000-30,000 annually, mid-level €30,000-40,000, and senior up to €55,000, including base pay, rank allowances, and mission supplements.
-
-**问：Can foreigners immigrate to Spain as NCOs?**
-答：Almost impossible. The Spanish armed forces only recruit Spanish or EU citizens; third-country nationals cannot obtain a work permit for this occupation.
-
-**问：What is the career progression path for NCOs?**
-答：Starting as Cabo, progressing to Sargento, Sargento primero, Brigada, and eventually Suboficial mayor, based on experience, exams, and seniority.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

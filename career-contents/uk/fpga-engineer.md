@@ -1,145 +1,172 @@
-# FPGA 工程师（FPGA Engineer）职业分析 · UK
+# FPGA Engineer — career analysis · United Kingdom
 
-**职业代码：2124 – FPGA Engineer。**
+**Occupation code: 2124-FPGA (SOC)**
 
-FPGA 工程师用 Verilog/VHDL 在可编程逻辑器件上实现高性能数字电路，涵盖信号处理、低延迟计算与硬件加速，主要就业于国防航天、高频交易与半导体/通信公司，岗位稀缺、门槛高、薪资优厚。
+FPGA engineers use Verilog/VHDL to implement high-performance digital circuits on programmable logic devices, covering signal processing, low-latency computing, and hardware acceleration. They are mainly employed in defense aerospace, high-frequency trading, and semiconductor/telecommunications companies, where positions are scarce, barriers to entry, and salaries are attractive.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 认可电子/微电子/计算机工程学位（部分岗位需硕士） | 4~6 年 | $20,000~$200,000（本地生较低，国际生较高） |
-| 专业方向进阶（仿真/RTL/验证/储能等） | 6~24 个月 | $2,000~$40,000（岗位核心工具链与方法学实操） |
-| 学历认证/职业评估（Engineering Council（CEng/IEng）） | 2~6 个月 | $500~$3,000（技术移民与执业所需） |
+| Recognized degrees in Electronics/Microelectronics/Computer Engineering (some positions require a master's) | 4~6 years | $20,000~$200,000 (Local students are relatively low, while international students are higher) |
+| Advanced professional directions (simulation/RTL/verification/energy storage, etc.) | 6~24 months | $2,000~$40,000 (Core Toolchain and Methodology Practical Practice for Positions) |
+| Academic Credentials / Vocational Assessment (Engineering Council (CEng/IEng)) | 2~6 months | $500~$3,000 (Skilled Immigration and Practice Requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可工程学位 / 学历认证（Engineering Council（CEng/IEng）） | Engineering Council（CEng/IEng） | 必备 | 执业与技术移民评估基础 |
-| 岗位核心工具/方法学能力 | 项目实践 | 可选 | 如并网仿真、RTL/时序、UVM 验证、储能标准等 |
+| Recognized Engineering Degrees / Academic Credentials (Engineering Council (CEng/IEng)) | Engineering Council（CEng/IEng） | Required | Basics of Assessment for Practice and Skilled Migration |
+| Core tools/methodological competencies for the position | Project practice | Optional | Such as grid-connected simulation, RTL/timing, UVM verification, energy storage standards, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。在英国，全球芯片自主与 AI 加速需求外溢，FPGA 工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. In the UK, global chip autonomy and AI are accelerating the spillover of demand, FPGA engineers are scarce and supply is even scarcer, senior talent is in short supply, and salaries are at the top end of electronic engineering platforms.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| Indeed UK | 5~40 个 | FPGA 工程师及相邻岗位（英国） |
-| Reed | 10~50 个 | FPGA 工程师及相邻岗位（英国） |
-| LinkedIn | 15~70 个 | FPGA 工程师及相邻岗位（英国） |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Beginner (0~3 years) | $40,000~$55,000 | Starting salary varies by employer and region (£40,000~£55,000) |
+| Intermediate Level (3~7 years) | $55,000~$75,000 | Industry median range (£55,000~£75,000) |
+| Senior/Director (8+) | $75,000~$100,000 | Senior/Expert, including project allowance (£75,000~£100,000) |
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 5. Future outlook / AI exposure
 
-| 经验水平 | 年薪（GBP） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $40,000~$55,000 | 起薪，随雇主与地区（£40,000~£55,000） |
-| 中级（3~7 年） | $55,000~$75,000 | 行业中位区间（£55,000~£75,000） |
-| 资深/主任（8 年+） | $75,000~$100,000 | 资深/专家，含项目津贴（£75,000~£100,000） |
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
+
+AI's demand for FPGA engineers is amplifying: automated design tools lower the development threshold, but the demand for high performance and customization grows, the total number of jobs may increase, and skill requirements will rise, so they won't be directly replaced.
+
+The UK focuses on AI accelerators and low-power/simulation design, with engineers skilled in RTL, timing, and layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
+
+**Tasks most exposed to AI:**
+
+- Basic RTL code generation (such as counters, state machines)
+- Writing and executing routine simulation verification scripts
+- Automatic generation and preliminary optimization of timing constraint files
+- Basic IP integration and connection logic
+- Error mode classification and simple debugging
+
+**Where AI augments the role:**
+
+- Use AI for high-level integrated (HLS) optimization and resource estimation
+- AI-assisted timing analysis automatically locates critical paths and provides optimization suggestions
+- ML-based power consumption prediction and dynamic voltage/frequency regulation
+- AI-driven test case generation is closed to feature coverage
+- AI-assisted hardware/software partition decision-making and interface generation
+
+**Human moat:**
+
+- Complex system-level architecture design and trade-offs (latency, throughput, area)
+- Hardware-based domain-specific algorithms (such as radar, deep learning acceleration)
+- Design of hardware real-time system fault diagnosis and recovery solutions
+- Communicate requirements with customers/system engineers and develop technical roadmaps
+- Compliance and reliability verification of safety-critical systems (aerospace, military).
+
+**Skills to build:**
+
+- Mastering AI-based EDA tools (such as Cadence Cerebrus)
+- Learn Advanced Integration (HLS) and OpenCL applications
+- Understand basic machine learning principles and be able to deploy lightweight models on FPGAs
+- Strengthen system-level programming (C/C++, Python) and scripting automation
+- Enhance hardware/software collaborative verification and agile development capabilities
+- Learn about FPGA applications in cloud computing (such as AWS F1).
+
+**Key growth areas:**
+
+- Defense & Aerospace Signal Processing (Radar/SDR)
+- high-frequency trading (HFT) low-latency FPGA
+- Video/Image & AI Acceleration (Edge Inference)
+- Communication Baseband & 5G/Satellite
+- FPGA Prototyping & SoC Acceleration
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 6. Migration pathways / PR
 
-**发展前景：很好（★★★★☆）。** 英国 AI 加速器与低功耗/模拟设计为主线，掌握 RTL/时序/版图的工程师稀缺；AI 辅助有限，架构与流片责任高度专业。
-**AI替代风险：低（★½☆☆☆）。**
 
-主要增长方向：
-
-- 国防与航天信号处理(雷达/SDR)
-- 高频交易(HFT)低延迟 FPGA
-- 视频/图像与 AI 加速(边缘推理)
-- 通信基带与 5G/卫星
-- FPGA 原型验证与 SoC 加速
-
----
-
-## 6. 移民路径 / PR难度
-
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
-
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（技术工作签证） | Skilled Worker：雇主担保，工程类为符合职业 |
-| Subclass Global Talent（全球人才签证） | Global Talent：科技/工程杰出或潜力人才 |
-| Subclass HPI（高潜力人才） | High Potential Individual：顶尖高校毕业生工签 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Skilled Worker: Employer-sponsored, engineering category qualifies as a qualified occupation |
+| Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
+| Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR难度：中低（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学FPGA 工程师？**
-- 相关工程背景，愿深耕能源/半导体新兴方向
-- 掌握或愿学岗位核心工具与方法学
-- 希望进入长期增长赛道并考虑技术移民
-- 细致、责任心强，能承担工程判断
-
-**谁不适合学FPGA 工程师？**
-- 数理/工程基础薄弱且不愿长期投入
-- 排斥标准、合规与安全为核心的工程工作
-- 期望短期速成、不接受多年经验积累
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Relevant engineering background, willing to focus on emerging energy/semiconductor fields.
+- Master or wish to learn core tools and methodologies for the position
+- Those hoping to enter the long-term growth track and considering skilled migration
+- Meticulous, highly responsible, able to make engineering judgments
+
+**Who is not suited**
+- Weak mathematical or engineering foundations and unwillingness to invest long-term
+- Engineering work centered on standards, compliance, and safety
+- Expect short-term quick success, not years of accumulated experience
+
+---
+
+## 8. FAQ
+
+**Q: How much do FPGA engineers in the UK earn?**
+A: Entry-level is about £40,000~£55,000; Senior is about £75,000~£100,000 (GBP). Salaries vary by region, industry, and project; see the pay schedule for details.
+
+**Q: What is the demand for FPGA engineers in the UK?**
+A: In the UK, global chip autonomy and AI are accelerating the spillover of demand, FPGA engineers are scarce and supply is even scarcer, senior talent is in short supply, and salaries are at the top end of electronic engineering platforms.
+
+**Q: Is overseas experience recognized in the UK?**
+A: Overseas degrees must be certified/evaluated by the Engineering Council (CEng/IEng); Core tools and project experience for the position are direct bonuses.
+
+**Q: Will FPGA engineers be replaced by AI?**
+A: Low risk. AI-assisted analysis and generation, but engineering design, safety compliance, and responsibility judgment are handled by certified engineers, making it an AI-enhanced position.
+
+**Q: Can FPGA engineers immigrate to the UK for skilled migration?**
+A: Yes. Falls under shortage engineering occupations, can use UK's corresponding skilled migration/employer sponsorship pathway; details see visa table.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ERI / Glassdoor UK | Power Systems Engineer UK 约 £45k~£70k（区间 £48k~£85k） |
-| IT Jobs Watch / Indeed | FPGA 中位 £70k；初级 £34k~£48k，资深 £60k~£80k，Lead £75k~£100k |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★½☆☆） |
-
-FPGA 工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：英国FPGA 工程师工资多少？**
-答：初级约 £40,000~£55,000；资深约 £75,000~£100,000（GBP）。薪资随地区、行业与项目而定，具体见薪资表。
-
-**问：FPGA 工程师在英国需求怎样？**
-答：在英国，全球芯片自主与 AI 加速需求外溢，FPGA 工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
-
-**问：海外经验在英国认可吗？**
-答：海外学历需经Engineering Council（CEng/IEng）认证/评估；岗位核心工具与项目经验是直接加分项。
-
-**问：FPGA 工程师会被 AI 替代吗？**
-答：风险低。AI 辅助分析与生成，但工程设计、安全合规与责任判断由持证工程师承担，属 AI 增强型岗位。
-
-**问：FPGA 工程师能在英国技术移民吗？**
-答：能。归入紧缺工程职业，可走英国对应的技术移民/雇主担保通道；具体门槛见签证表。
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

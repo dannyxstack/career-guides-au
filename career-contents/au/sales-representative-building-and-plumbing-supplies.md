@@ -1,61 +1,96 @@
-# Sales Representative (Building and Plumbing Supplies)（Sales Representative (Building and Plumbing Supplies)）职业分析 · 澳大利亚
+# Sales Representative (Building and Plumbing Supplies) — career analysis · Australia
 
-**职业代码：611311 – Sales Representative (Building and Plumbing Supplies)。**
+**Occupation code: 611311 (ANZSCO)**
 
-Promote and sell building and plumbing supplies to builders, contractors, and plumbers; provide product technical info, quotes, and after-sales service; build and maintain client relationships.
+Responsible for promoting and selling construction and plumbing supplies (e.g., pipes, fittings, valves, bathroom fixtures) to builders, contractors, plumbers, etc.; providing product technical info, quotes, and after-sales service; building and maintaining client relationships.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无要求 | —（入职前培训由雇主提供） |
-| 销售或建筑相关证书/文凭 | 1-2年 | $5,000~$15,000（如TAFE的销售或建筑供应课程） |
+| High school graduation | No requirements | $0~$0 (Pre-employment training provided by employer) |
+| Sales or construction related certificate/diploma. | 1-2 years | $5,000~$15,000 (Such as TAFE's sales or building supply courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑用品销售经验 | 雇主 | 必备 | 通常需要2-3年相关销售经验 |
-| 建筑产品知识 | 行业培训 | 可选 | 熟悉管道、卫浴等产品线 |
-| 驾照 | 交通管理局 | 必备 | 需持有效澳洲驾照，因需经常拜访客户 |
+| Sales experience in building supplies | Employer | Required | Typically requires 2-3 years of relevant sales experience |
+| Driver's license | Transport authority. | Required | Must hold a valid Australian driver's license, as frequent client visits are required |
+| Knowledge of building products | Industry training | Optional | Familiar with product lines such as plumbing and sanitary ware. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 38,000。受澳洲住宅和商业建筑市场持续增长驱动，尤其基础设施和住宅建设需求强劲，该职业未来五年就业前景良好，预计岗位数量稳步增加。
+**Job demand: high (★★★★☆).** National workforce approx. 38,000. Driven by the sustained growth of Australia's residential and commercial construction markets, especially strong demand in infrastructure and residential construction, the occupation has good employment prospects over the next five years, with a steady increase in job numbers expected.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 含佣金，平均6.5万 |
-| 中级（3-6年） | $70,000~$90,000 | 含佣金，平均8万 |
-| 高级（6年+） | $90,000~$120,000 | 含佣金及奖金，平均10.5万 |
+| Median salary | $87,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Including commission, average $65,000 |
+| Mid-level (3–6 years) | $70,000~$90,000 | Including commissions, average AU$80,000. |
+| Senior (6+ years) | $90,000~$120,000 | Including commissions and bonuses, average $105,000. |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级销售代表可晋升为高级销售代表、销售主管或区域经理；也可转向产品管理或客户关系管理岗位；经验丰富者可自主创业或成为品牌代理商。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
+
+Junior sales representatives can advance to senior sales representative, sales supervisor, or regional manager; they can also transition to product management or customer relationship management roles; experienced ones can start their own business or become brand agents.
+
+**Tasks most exposed to AI:**
+
+- Use CRM and AI tools to automatically dial calls, screen potential clients, and send standardized follow-up emails
+- Handle common service inquiries, product introductions, and initial needs confirmation via chatbot
+- Use AI to analyze customer historical data, generating personalized sales suggestions and quotation templates.
+- Automates routine contract clause explanation, service level descriptions, and FAQ responses
+- AI-driven sales forecasting and report generation, replacing manual data collation and trend analysis
+
+**Where AI augments the role:**
+
+- AI provides customer behavior insights and real-time recommendations, helping sales reps tailor solutions and increase closing rates
+- Uses Natural Language Processing (NLP) to analyze customer call recordings, identify emotions and purchase intent, and guide communication strategies
+- Automatically records call notes, updates CRM fields, freeing up energy to focus on high-value interactions
+- AI simulates customer roles for sales practice, enhancing salespeople's ability to handle objections and negotiate
+
+**Human moat:**
+
+- Complex needs diagnosis and cross-domain solution integration, requiring understanding of customer business scenarios and pain points
+- Build long-term trust relationships and maintain connections with key decision-makers at senior levels
+- Creative negotiation, flexible pricing decisions, and contract term customization
+- Cross-team coordination (e.g., technical, legal) to deliver complex service solutions
+- Demonstrate emotional intelligence and empathy when handling unexpected client crises and complaints
+
+**Skills to build:**
+
+- Proficiency in operating and configuring mainstream CRM (e.g., Salesforce) and AI sales assistants (e.g., Gong, Clari)
+- Data analysis basics: use Python or BI tools (e.g., Tableau) to analyze sales funnel and customer profiles
+- Customer success and complex project management skills to ensure renewals and expansion sales
+- Short video script creation and social media sales skills, using AI to generate content for customer acquisition
+- Prompt engineering for AI tools, optimizing chatbot scripts and sales email generation quality
+- Cross-cultural communication and remote collaboration skills, for global service sales
+
+**Key growth areas:**
 
 - Construction boom
 - Infrastructure investment
@@ -64,70 +99,69 @@ Promote and sell building and plumbing supplies to builders, contractors, and pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 如果雇主担保且职业在CSOL上，可申请482临时技术短缺签证，工作3年后可转186。 |
-| Subclass 190（Skilled Nominated Visa (Subclass 190)） | 少数州可能将销售代表纳入州担保清单，需满足州提名要求。 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa (Subclass 491)） | 偏远地区州担保或亲属担保，适用于有偏远地区工作机会的申请人。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分DAMA地区可担保销售岗位，要求较低，但需在指定地区工作。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | If employer-sponsored and the occupation is on the CSOL, you can apply for the 482 Temporary Skill Shortage visa and transfer to the 186 after 3 years of work. |
+| Subclass 190 (Skilled Nominated Visa (Subclass 190)) | A few states may include sales representatives on their state nomination lists, subject to meeting state nomination requirements. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa (Subclass 491)) | Regional state sponsorship or family sponsorship for applicants with employment opportunities in regional areas. |
+| Subclass DAMA (Designated Area Migration Agreement) | Some DAMA regions can sponsor sales positions with lower requirements, but must work in designated areas. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representative (Building and Plumbing Supplies)？**
-- 喜欢与人沟通、有说服力的人
-- 对建筑和管道产品有兴趣，乐于学习技术知识
-- 能适应外出拜访客户、有一定抗压能力
-
-**谁不适合学Sales Representative (Building and Plumbing Supplies)？**
-- 不喜欢销售指标和业绩压力的人
-- 不擅长处理客户关系或技术细节的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for people who enjoy communication and are persuasive
+- Interest in building and plumbing products, willing to learn technical knowledge.
+- Able to adapt to visiting clients outside the office and have a certain level of stress tolerance.
+
+**Who is not suited**
+- People who dislike sales targets and performance pressure
+- People who are not good at handling customer relationships or technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Building and Plumbing Supplies Sales Representatives?**
+A: Entry-level annual salary approx. 55,000-70,000 AUD; senior can reach 90,000-120,000 AUD; income mainly consists of base salary plus commission.
+
+**Q: Can this occupation lead to Australian PR through skilled migration?**
+A: This occupation is typically not on the Core Skills Occupation List (CSOL), making skilled migration 189/190 pathways difficult; however, employer-sponsored 482/186 or DAMA programs may enable migration with employer support.
+
+**Q: How to become a building and plumbing supplies sales representative?**
+A: Usually requires high school diploma or above, relevant sales experience, and knowledge of building products. Many employers provide on-the-job training, and a TAFE certificate is preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Representative (Building and Plumbing Supplies)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Sales Representative (Building and Plumbing Supplies)?**
-答：Entry-level annual salary is around AUD 55,000-70,000, while senior can reach AUD 90,000-120,000, largely composed of base salary plus commission.
-
-**问：Can this occupation lead to Australian PR through skilled migration?**
-答：This occupation is generally not on the Core Skills Occupation List (CSOL), making 189/190 visas difficult; however, employer-sponsored 482/186 or DAMA programs may lead to PR with employer support.
-
-**问：How to become a Sales Representative (Building and Plumbing Supplies)?**
-答：Typically requires high school education, relevant sales experience, and knowledge of building products. Many employers provide on-the-job training; a TAFE certificate is an advantage.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

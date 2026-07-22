@@ -1,60 +1,96 @@
-# Director (Film, Television, Radio or Stage)（Director (Film, Television, Radio or Stage)）职业分析 · 澳大利亚
+# Director (Film, Television, Radio or Stage) — career analysis · Australia
 
-**职业代码：212312 – Director (Film, Television, Radio or Stage)。**
+**Occupation code: 212312 (ANZSCO)**
 
-Directors oversee the creative vision and production of film, television, radio, or stage projects. They manage actors and crew, guiding performances, shot composition, and narrative pacing to deliver a cohesive artistic work.
+Directors are responsible for creative direction and production oversight, ensuring the artistic vision of film, television, radio, or stage projects is realized. They manage actors and crew, guiding performances, camera composition, and narrative pacing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（电影/电视制作） | 3年 | $30,000~$40,000（学费每年约1万-1.5万澳元，含材料费） |
-| 硕士（导演/编剧） | 1.5年 | $25,000~$35,000（学费较高，部分院校提供奖学金） |
-| 短期职业课程（导演技能） | 6个月 | $5,000~$12,000（如AFTRS短期班，侧重实践） |
+| Bachelor's degree (Film/TV Production). | 3 years | $30,000~$40,000 (Tuition fees approximately AUD 10,000-15,000 per year, including materials) |
+| Master's (Directing/Screenwriting) | 1.5 years | $25,000~$35,000 (Tuition is relatively high; some institutions offer scholarships) |
+| Short career course (directing skills) | 6 months. | $5,000~$12,000 (Such as AFTRS short courses, focusing on practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电影/电视制作学士学位 | 澳洲影视学校（如AFTRS、RMIT） | 可选 | 非强制但普遍要求的相关学历 |
-| 创意产业相关经验 | 行业实践 | 可选 | 通常需要2-5年助理或制作经验 |
-| 技术技能评估（VETASSESS） | VETASSESS | 必备 | 用于移民技能评估，需提供作品集 |
+| Skills assessment (VETASSESS) | VETASSESS | Required | Used for migration skills assessment; portfolio required |
+| Bachelor of Film/Television Production. | Australian film and television schools (e.g., AFTRS, RMIT) | Optional | Non-mandatory but commonly required relevant academic qualifications |
+| Experience in the creative industries | Industry practice | Optional | Typically requires 2-5 years of assistant or production experience. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,400。澳洲媒体与娱乐行业稳步发展，流媒体和本土内容需求推动就业增长。悉尼和墨尔本是主要就业中心，但竞争激烈，职位多集中于项目制合约。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,400. Australia's media and entertainment industry is steadily growing, driven by streaming and local content demand. Sydney and Melbourne are major employment hubs, but competition is fierce, with many roles on project-based contracts.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 通常为助理导演或小项目导演 |
-| 中级（3-7年） | $65,000~$90,000 | 中型项目导演，收入受项目预算影响 |
-| 高级（7年以上） | $100,000~$150,000 | 大型项目导演，知名作品可更高（不固定） |
+| Median salary | $102,700 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$60,000 | Usually assistant director or director of small projects |
+| Mid-level (3–7 years) | $65,000~$90,000 | Medium-scale project director, income affected by project budget |
+| Senior (7+ years) | $100,000~$150,000 | Large project director; well-known works can be higher (not fixed) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从助理导演、制片助理或相关创意岗位起步，积累经验后晋升为导演。资深导演可转向制片人、创意总监或开设自己的制作公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of art director is reshaped by AI in a mixed way: AI can efficiently generate visual concepts and layout options, accelerating creative iteration, but final decisions, client communication, and team leadership still rely on human judgment. Entry-level roles may shrink due to automated design tools, but demand for high-value creative direction increases.
+
+Usually start as assistant director, production assistant, or related creative roles, gaining experience before advancing to director. Senior directors may move into producer, creative director, or start their own production company.
+
+**Tasks most exposed to AI:**
+
+- Initial visual concept generation and layout solutions
+- Preliminary testing of color combinations and font selection
+- Searching and selecting stock images
+- Automatic generation of multi-version layouts
+- Initial response to client modification requests and rapid prototype iteration
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple creative proposals as discussion starting points
+- Using AI to quickly test user feedback on different visual styles
+- Use AI tools to efficiently complete repetitive revisions and version management
+- Optimize design decisions through AI analysis of historical project data
+- Generate high-quality presentation materials and proposal documents using AI
+
+**Human moat:**
+
+- Final decision-making on creative direction and brand tone
+- Cross-team leadership and client relationship management skills
+- Deep understanding of cultural context and emotional resonance
+- Creative problem-solving for unstructured problems
+- Irreplaceability of aesthetic judgment and subjective evaluation
+
+**Skills to build:**
+
+- Proficient in AI creative tools (e.g., Midjourney, DALL·E, Adobe Firefly)
+- Data-driven design decision analysis
+- AI workflow integration and customization
+- Agile project management and cross-departmental collaboration
+- Client communication and creative proposal skills
+- Continuously learning new AI tools and platforms
+
+**Key growth areas:**
 
 - Creative Industries Growth
 - Streaming Content Demand
@@ -63,69 +99,68 @@ Directors oversee the creative vision and production of film, television, radio,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 需雇主担保，从事专业技能工作，可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久居留，需职业评估和3年经验 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州政府提名 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区技术移民，需在指定地区工作3年转191 |
+| Subclass 482 (Temporary Skill Shortage) | Requires employer sponsorship, engaged in skilled professional work, can transition to 186 visa |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requiring skills assessment and 3 years of experience |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Skilled migration to regional areas, requiring 3 years of work in a designated area to transition to a 191 visa |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Director (Film, Television, Radio or Stage)？**
-- 具有强烈创意愿景和故事讲述能力的人
-- 善于团队管理和沟通，能承受项目压力
-- 有相关领域背景（如表演、编剧、摄影）并追求艺术表达
-
-**谁不适合学Director (Film, Television, Radio or Stage)？**
-- 不喜欢高压、长时间工作和不确定收入
-- 缺乏团队协作精神，性格过于内向
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong creative vision and storytelling ability
+- Good at team management and communication, able to handle project pressure
+- Those with background in related fields (e.g., performance, screenwriting, photography) and pursuing artistic expression.
+
+**Who is not suited**
+- Dislikes high pressure, long hours, and uncertain income
+- Lack of teamwork spirit, overly introverted personality
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of a director in Australia?**
+A: Director income varies widely: junior approx. AUD 45,000-60,000, mid-level AUD 65,000-90,000, senior AUD 100,000-150,000. High-profile projects or renowned directors earn more, but mostly contract-based.
+
+**Q: Can a director migrate to Australia via skilled migration?**
+A: Yes. This occupation is on the CSOL and can apply for immigration through visas such as 189, 190, and 482. It requires a skills assessment by VETASSESS and meeting language and work experience requirements.
+
+**Q: How to become a director in Australia?**
+A: Usually requires a film/TV-related qualification or years of industry experience. Build networks and portfolio through roles like assistant director, production assistant. Continuously learn new technologies and develop a personal style.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Director (Film, Television, Radio or Stage)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a director in Australia?**
-答：Director salaries vary widely: junior AUD 45k-60k, mid-level AUD 65k-90k, senior AUD 100k-150k. High-profile projects may pay more, but income is project-based.
-
-**问：Can a director immigrate to Australia via skilled migration?**
-答：Yes. This occupation is on the CSOL, eligible for visas such as 189, 190, 482 etc. Requires VETASSESS skills assessment and meeting language/work experience requirements.
-
-**问：How to become a director in Australia?**
-答：Typically requires a film/TV degree or extensive industry experience. Start as an assistant director or production assistant to build networks and portfolio. Keep learning new techniques and develop a personal style.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

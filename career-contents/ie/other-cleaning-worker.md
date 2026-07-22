@@ -1,58 +1,91 @@
-# Other Cleaning Worker（Other Cleaning Worker）职业分析 · IE
+# Other Cleaning Worker — career analysis · Ireland
 
-**职业代码：9129 – Other Cleaning Worker。**
+**Occupation code: 9129 (ISCO08)**
 
-Responsible for cleaning and maintaining premises such as offices, malls, and hotels, including floor cleaning, trash removal, and sanitizing restrooms.
+Responsible for cleaning and maintenance of office buildings, shopping malls, hotels, etc., including floor wiping, trash removal, and bathroom disinfection.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（在职培训） |
+| No formal education required | None | $0~$0 (On-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 通常雇主提供培训 |
+| No mandatory qualification requirements | None | Optional | Training is usually provided by the employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。爱尔兰清洁服务需求稳定，受经济增长和旅游业推动。移民劳动力占比较高，岗位流动性大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Demand for cleaning services in Ireland is stable, driven by economic growth and tourism. Migrant labour makes up a high proportion, with high job turnover.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$23,000 | 最低工资水平 |
-| 中级（3-5年） | $23,000~$27,000 | 含经验补贴 |
-| 高级（6年以上） | $27,000~$32,000 | 含主管职责 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $20,000~$23,000 | Minimum wage level |
+| Mid-level (3–5 years) | $23,000~$27,000 | Including experience allowance |
+| Senior (6+ years) | $27,000~$32,000 | Includes supervisory duties |
+| average salary | $25,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从清洁工晋升为清洁主管或领班，或通过培训转向专业清洁领域（如地毯清洁、工业清洁）。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and robotics are gradually replacing repetitive tasks of cleaners, such as automatic floor cleaning and garbage collection, but complex cleaning still requires manual work.
+
+Can advance from cleaner to cleaning supervisor or team leader, or transition to specialized cleaning fields (e.g., carpet cleaning, industrial cleaning) through training.
+
+**Tasks most exposed to AI:**
+
+- Use automated cleaning robots for large-area floor cleaning
+- Monitor trash can capacity via IoT sensors and automatically schedule collection
+- Smart disinfection systems replace manual disinfectant spraying.
+- Online inspection system automatically identifies dirty areas and dispatches work orders
+
+**Where AI augments the role:**
+
+- Receive stain location and cleaning instructions via AR glasses for improved efficiency
+- Use data analytics tools to optimize cleaning routes and schedules
+- Operate drones to conduct cleaning inspections in high-altitude areas
+- Use smart devices to assess deep cleaning effectiveness
+
+**Human moat:**
+
+- Handle sudden stains and fine cleaning of special materials (such as carpets, artworks)
+- Communicate with clients to provide personalized cleaning needs responses
+- Operate safely and avoid obstacles in crowded or dynamic environments
+- Handle compliance requirements such as chemical use and waste classification
+
+**Skills to build:**
+
+- Learning to operate and maintain automatic cleaning robots
+- Basic data analysis skills to interpret cleaning efficiency reports
+- Use cleaning management software for task scheduling and reporting
+- Develop customer service and communication skills
+- Learn hazardous materials handling and safety regulations
+- Obtain green cleaning technology certification
+
+**Key growth areas:**
 
 - High turnover
 - Immigrant workforce
@@ -61,64 +94,63 @@ Responsible for cleaning and maintaining premises such as offices, malls, and ho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 非紧缺职业，需雇主担保，年薪≥30,000欧元。 |
-| Subclass EU Freedom of Moveme（EU/EEA/Swiss Citizens） | 欧盟公民可自由工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Non-occupation in shortage, requires employer sponsorship, annual salary ≥ 30,000 euros. |
+| Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizens) | EU citizens can work freely without a visa. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Cleaning Worker？**
-- 需要快速就业且不介意体力劳动的人
-- 适应灵活工作时间的移民或学生
-
-**谁不适合学Other Cleaning Worker？**
-- 追求高薪或职业发展的人
-- 希望获得技术移民身份的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who need quick employment and don't mind manual labor
+- Suitable for migrants or students with flexible working hours.
+
+**Who is not suited**
+- People seeking high salary or career advancement.
+- People seeking skilled migration status
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a cleaner?**
+A: Entry-level approx. €20,000-23,000, senior up to €27,000-32,000 (annual salary before tax)
+
+**Q: Can a cleaner apply for an Irish work visa?**
+A: Non-occupation in shortage, requires General Employment Permit with annual salary ≥€30,000, often difficult to meet.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（½☆☆☆☆） |
-| 考证难度 | 非常低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Other Cleaning Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for cleaning workers?**
-答：Entry level around €20,000-23,000, senior up to €27,000-32,000 per year (gross).
-
-**问：Can cleaning workers apply for an Irish work visa?**
-答：Not on shortage list; requires General Employment Permit with salary ≥€30,000, which is often unattainable.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

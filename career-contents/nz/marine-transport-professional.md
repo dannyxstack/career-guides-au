@@ -1,61 +1,97 @@
-# Marine Transport Professional（Marine Transport Professional）职业分析 · 新西兰
+# Marine Transport Professional — career analysis · New Zealand
 
-**职业代码：231212 – Marine Transport Professional。**
+**Occupation code: 231212 (ANZSCO)**
 
-Marine Transport Professionals in New Zealand manage navigation and safety on cargo ships, ferries, and fishing vessels. STCW certification is mandatory. Listed on Green List Tier 2, offering a clear pathway to residence after 2 years of work.
+Maritime transport professionals in New Zealand are responsible for the navigation and safety management of merchant ships, ferries, and fishing vessels, requiring STCW certification. This occupation is on the Green List Tier 2, eligible for residence after 2 years of work, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 海事学院大专文凭 | 3年 | $15,000~$30,000（学费每年5,000-10,000 NZD，含海事实习） |
-| 本科（航海科学） | 4年 | $40,000~$60,000（每年学费约10,000-15,000 NZD） |
-| 职业短期培训（STCW基础） | 6个月 | $8,000~$12,000（用于已持有海外证书的转换） |
+| Maritime Institute Diploma | 3 years | $15,000~$30,000 (Tuition fees $5,000-10,000 NZD per year, including maritime internships) |
+| Bachelor's degree (Nautical Science) | 4 years | $40,000~$60,000 (Annual tuition approximately 10,000-15,000 NZD) |
+| Short-term vocational training (STCW basic). | 6 months. | $8,000~$12,000 (For holders of overseas certificates seeking conversion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW基本安全培训 | Maritime New Zealand (MNZ) | 必备 | 所有船员必须持有，有效期5年 |
-| 船长或大副适任证书 | Maritime New Zealand | 必备 | 根据船舶吨位和航区分级，需通过考试和海上服务资历 |
-| 无线电操作员证书 | Maritime New Zealand | 可选 | 适用于国际航行船舶 |
-| 雅思或同等英语能力 | IELTS | 必备 | 技术移民通常要求总分6.5，海外船员需证明英语能力 |
+| STCW Basic Safety Training | Maritime New Zealand (MNZ) | Required | Mandatory for all crew members, valid for 5 years |
+| Ship captain or chief mate competency certificate | Maritime New Zealand | Required | Graded by vessel tonnage and navigation area, requires exams and sea service experience |
+| IELTS or equivalent English proficiency | IELTS | Required | Skilled migration usually requires overall IELTS 6.5, overseas crew need to demonstrate English proficiency |
+| Radio operator certificate | Maritime New Zealand | Optional | Applicable to international navigation vessels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰国内沿海航运与渔业持续需要持证船员，尤其是达尼丁、陶朗加等港口城市。由于本地培训人数有限，经验丰富的航海官长期短缺，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. New Zealand's domestic coastal shipping and fisheries continuously require licensed crew, especially in port cities like Dunedin and Tauranga. Due to limited local training, experienced navigation officers are in long-term shortage, ensuring stable employment prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 普通船员或实习生 |
-| 中级（3-7年） | $70,000~$95,000 | 二副、大副等高级船员 |
-| 高级（7年以上） | $110,000~$150,000 | 船长或引航员 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | General crew or intern |
+| Mid-level (3–7 years) | $70,000~$95,000 | Senior crew such as second officer and chief officer |
+| Senior (7+ years) | $110,000~$150,000 | Ship captain or pilot |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展可从普通船员（OS）晋升至高级船员（Officer），再至船长（Master）或引航员（Pilot）。通过积累航海小时数考取更高级别证书，部分人转至海事管理或岸基工作。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Career progression can go from ordinary seaman (OS) to officer, then to master or pilot. By accumulating sea hours, obtain higher-level certificates; some transition to maritime management or shore-based work.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Marine Transport Professionals in New Zealand manage navigation and safety on ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 从事海事运输专业人员（ANZSCO 231213）工作满2年后，可申请居留。需持有认证雇主工签（AEWV）并满足薪资要求（中位数以上）。 |
-| Subclass SMC（Skilled Migrant Category） | 若持有船长或高级船员证书，可通过SMC6分制申请，根据学历和工作经验积分。当前绿色清单T2路径更直接。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为入门签证，需获得认证雇主offer，通常为3年工签。后续可转Green List T2。 |
+| Subclass Green List T2 (Green List Work to Residence) | After working as a maritime transport professional (ANZSCO 231213) for 2 years, you can apply for residence. Must hold an Accredited Employer Work Visa (AEWV) and meet salary requirements (above median). |
+| Subclass SMC (Skilled Migrant Category) | If holding a captain or senior officer certificate, can apply via the SMC 6-point system, scoring based on qualifications and work experience. The current Green List Tier 2 path is more straightforward. |
+| Subclass AEWV (Accredited Employer Work Visa) | As an entry visa, requires an offer from an accredited employer, typically a 3-year work visa. Can later transfer to Green List T2. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marine Transport Professional？**
-- 持有效期内的STCW证书，希望海外就业的航海专业人员
-- 适应海上长期生活，能接受轮班和恶劣天气的求职者
-- 有志于通过工作转居留，追求稳定移民通道的从业者
-
-**谁不适合学Marine Transport Professional？**
-- 对晕船无法适应或不喜欢隔离环境的人
-- 希望朝九晚五办公、频繁回家的人群
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Seafarers holding a valid STCW certificate seeking overseas employment.
+- Candidates who can adapt to long-term life at sea, accept shift work and bad weather
+- Practitioners aiming for work-to-residence transition and stable immigration pathways.
+
+**Who is not suited**
+- Those who cannot adapt to seasickness or dislike isolated environments
+- People who prefer a 9-to-5 office job and frequent home visits
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of deck officers in New Zealand?**
+A: Entry-level about $50,000-65,000 NZD, intermediate $70,000-95,000 NZD, captain up to $110,000-150,000 NZD. Overseas experience may be recognized, but local certification is required.
+
+**Q: How can a Deck Officer immigrate to New Zealand via the Green List?**
+A: This occupation is on the Green List Tier 2, requiring 2 years of work on an AEWV, with an hourly wage at the median (approximately 29.66 NZD/hour), then apply for Work to Residence.
+
+**Q: Which New Zealand-recognized qualifications are required?**
+A: Must hold a certificate of competency issued by Maritime New Zealand (depending on vessel type and tonnage), and a valid STCW basic safety training. Overseas certificates need assessment for conversion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中高（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Marine Transport Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for marine transport professionals in NZ?**
-答：Entry-level: NZD 50,000-65,000; mid-level: NZD 70,000-95,000; captain: NZD 110,000-150,000. Overseas experience may be recognized, but local certification required.
-
-**问：How can a marine transport professional migrate through the Green List?**
-答：This occupation is on Green List Tier 2. You need an AEWV for 2 years, earning at least median wage (approx. NZD 29.66/hr), then apply for Work to Residence.
-
-**问：What qualifications are recognized in New Zealand?**
-答：A certificate of competency from Maritime New Zealand (based on vessel type and tonnage) and valid STCW basic safety training. Overseas certificates need assessment and conversion.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

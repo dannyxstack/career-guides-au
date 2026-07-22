@@ -1,59 +1,95 @@
-# Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations（Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations）职业分析 · 加拿大
+# Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations — career analysis · Canada
 
-**职业代码：72010 – Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations。**
+**Occupation code: 72010 (NOC)**
 
-Contractors and supervisors in this occupation oversee and coordinate the activities of workers in machining, metal forming, shaping, erecting and related trades, and may also perform the work themselves.
+This occupation supervises and coordinates the activities of workers engaged in machining, metal forming, metal structure fabrication, and installation, and may participate in the work personally.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒培训 | 2-5年 | $5,000~$15,000（学费因地而异，可边工作边学习） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship training | 2-5 years | $5,000~$15,000 (Tuition varies by location, can study while working) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行业认证（如焊工、机械师） | 各省学徒机构 | 必备 | 通常要求完成学徒培训并取得证书 |
-| 省级或地区贸易认证 | 各省政府 | 必备 | 部分省份要求强制性认证 |
-| 监督技能培训 | 学院或行业协会 | 可选 | 非强制，但有助于晋升 |
+| Industry certifications (e.g., welder, machinist) | Provincial apprenticeship authorities | Required | Typically requires completing an apprenticeship and obtaining a certificate |
+| Provincial or Territorial Trade Certification | Provincial governments | Required | Some provinces require mandatory certification |
+| Supervise skills training | Colleges or industry associations | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,500。加拿大制造业和建筑业对金属制品需求稳定，该职业前景良好。由于技术工人短缺，有经验的承包商和主管尤其受欢迎。预计未来几年就业机会稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 13,500. The stable demand for metal products in Canada's manufacturing and construction sectors bodes well for this occupation. Due to a shortage of skilled workers, experienced contractors and supervisors are particularly sought after. Steady employment growth is expected in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 刚晋升主管或小型承包商 |
-| 中级（3-6年） | $65,000~$85,000 | 经验丰富的主管 |
-| 高级（6年以上） | $85,000~$110,000 | 高级承包商或大型项目主管 |
+| Median salary | $83,200 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Newly promoted supervisor or small contractor |
+| Mid-level (3–6 years) | $65,000~$85,000 | Experienced supervisor |
+| Senior (6+ years) | $85,000~$110,000 | Senior Contractor or Major Project Supervisor |
+| average salary | $87,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从熟练技工（如焊工、机械师）晋升而来。积累经验后可成为承包商或公司主管，也可转向项目管理或自主创业。持续学习新技术（如CNC、机器人焊接）有利于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This role involves both supervision and execution. AI will take over repetitive tasks like programming and quality inspection, reducing lower-level positions; but it will enhance capabilities in scheduling, process optimization, and remote diagnostics, requiring workers to upgrade technical management skills—risks and opportunities coexist.
+
+Typically promoted from skilled trades (e.g., welder, machinist). With experience, can become a contractor or company supervisor, or move into project management or self-employment. Continuous learning of new technologies (e.g., CNC, robotic welding) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Manual G-code programming and editing (AI-generated optimized code)
+- Routine quality inspection and dimensional measurement (visual AI automatic detection).
+- Production log and maintenance record filling (automated data collection and reporting)
+- Simple scheduling and material tracking (AI scheduling system takes over)
+- Repetitive Diagnostics in Troubleshooting (AI Reads Sensor Data to Locate Problems)
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of CNC machining paths to improve efficiency and precision.
+- Uses digital twins to simulate manufacturing processes, predict risks and optimise parameters
+- AI real-time analysis of sensor data enables predictive maintenance, reducing downtime
+- Enhanced remote supervision capability through AR/AI for multi-station coordination
+- AI-generated training materials to help new employees quickly master operational procedures
+
+**Human moat:**
+
+- Process design and tooling decisions for complex non-standard parts
+- Cross-trade coordination and on-site emergency command skills
+- On-site supervision of safety compliance and accident prevention.
+- Communicate with clients and designers to understand implicit needs
+- Practical training and guidance for apprentices and low-skilled workers
+
+**Skills to build:**
+
+- CNC programming and CAM software (e.g., Mastercam, NX)
+- Foundations of Industrial IoT & Data Analytics
+- Digital twin and simulation tools (e.g., Simul8, FlexSim)
+- Project management and lean production methods
+- Concepts of AI/machine learning applications in manufacturing
+- Augmented Reality (AR) for remote maintenance and training
+
+**Key growth areas:**
 
 - Manufacturing
 - Construction
@@ -62,68 +98,67 @@ Contractors and supervisors in this occupation oversee and coordinate the activi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program (FSW)） | 适用于管理或技术职位，需满足工作经验、语言等要求 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对技工类职业的提名项目，如安大略省技工类别 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，尤其适用于紧缺职业 |
+| Subclass Express Entry (Federal Skilled Worker Program (FSW)) | Applicable to management or technical positions; must meet work experience, language, etc. requirements. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for skilled trades, such as Ontario's Skilled Trades stream. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, especially for occupations in demand |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations？**
-- 有多年金属加工或机械加工经验的熟练技工
-- 具备领导力和组织能力的工匠
-- 愿意进行体力劳动并掌握新技术的人
-
-**谁不适合学Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations？**
-- 不擅长体力劳动或户外工作的人
-- 不喜欢管理责任或人际协调的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled worker with years of metalworking or mechanical processing experience
+- Craftspeople with leadership and organisational skills
+- Individuals willing to perform physical labor and learn new technologies
+
+**Who is not suited**
+- People not suited for physical labor or outdoor work
+- People who dislike management responsibilities or interpersonal coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the income potential for this occupation?**
+A: Entry-level supervisor annual salary about C$50,000-65,000, senior contractor up to C$85,000-110,000. Overtime and bonuses can further increase income.
+
+**Q: Is it feasible to immigrate to Canada through skilled migration?**
+A: Feasible. This occupation is a trade and can be migrated via Provincial Nominee Program (PNP) or Express Entry's Trade category, but typically requires employer sponsorship or LMIA.
+
+**Q: What key skills are required for this position?**
+A: Requires metalworking or mechanical skills, supervisory abilities, and knowledge of safety regulations and project management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the earning potential for this occupation?**
-答：Entry-level supervisors earn around CAD 50,000-65,000 annually, while experienced contractors can earn CAD 85,000-110,000, with overtime and bonuses boosting income.
-
-**问：Is it feasible to immigrate to Canada through skilled migration?**
-答：Yes. This trade is eligible for Provincial Nominee Programs (PNP) and the Federal Skilled Trades stream under Express Entry, though employer sponsorship or LMIA may be required.
-
-**问：What key skills are needed for this role?**
-答：Requires expertise in metalworking or machining, supervisory skills, knowledge of safety regulations, and project management.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

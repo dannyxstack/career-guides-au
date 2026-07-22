@@ -1,61 +1,97 @@
-# Childminders（Childminders）职业分析 · UK
+# Childminders — career analysis · United Kingdom
 
-**职业代码：6114 – Childminders。**
+**Occupation code: 6114 (SOC)**
 
-Childminders provide day-to-day care of children in their own homes, supervising and participating in their play, educational and other activities.
+Childcare workers provide daily care for children in their own homes, supervising and participating in their play, education, and other activities.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 入门培训 | 3个月 | $300~$1,000（包括注册前培训证书和急救证书） |
-| 基础资格 | 1年 | $500~$2,000（可参加早期教育或保育相关课程） |
+| Introductory training | 3 months | $300~$1,000 (Including pre-registration training certificate and first aid certificate) |
+| Basic qualification | 1 year | $500~$2,000 (Can take early childhood education or childcare-related courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童保育注册证书 | Ofsted | 必备 | 必须注册才能合法从业 |
-| 急救证书 | 认可培训机构 | 必备 | 通常包括儿科急救 |
-| 早期教育资格 | 认可培训中心 | 可选 | 如CACHE Level 3，提升竞争力 |
+| Childcare registration certificate | Ofsted | Required | Must be registered to practice legally |
+| First aid certificate | Registered Training Organisation (RTO) | Required | Usually includes paediatric first aid |
+| Early Childhood Education qualification | Recognized training center | Optional | Such as CACHE Level 3, to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 52,000。英国对儿童保育员的需求稳定，政府提供补贴支持家庭使用注册保育员，但行业面临人员老化问题，未来需吸引新人加入。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 52,000. Demand for childcare workers in the UK is stable, with government subsidies supporting families to use registered carers, but the sector faces an aging workforce and needs to attract new entrants in the future.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 基于兼职或初创阶段 |
-| 中级（3-7年） | $22,000~$30,000 | 有稳定客户群和经验 |
-| 高级（7年以上） | $30,000~$40,000 | 可经营较大规模家庭托儿所 |
+| Median salary | $24,278 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $16,000~$22,000 | Based on part-time or start-up stage |
+| Mid-level (3–7 years) | $22,000~$30,000 | Have a stable client base and experience |
+| Senior (7+ years) | $30,000~$40,000 | Can operate a larger-scale family daycare |
+| average salary | $24,827 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可积累经验后发展为高级保育员或开设托儿所，也可转向早期教育教师或儿童社会工作者等岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Childcare workers face a mixed outlook: AI can automate some administrative and monitoring tasks, but core emotional interaction and safety supervision are hard to replace.
+
+Can gain experience to advance to senior childcare worker or start a daycare, or transition to roles such as early childhood teacher or child social worker.
+
+**Tasks most exposed to AI:**
+
+- Daily attendance records and pick-up/drop-off sign-ins, paper or electronic
+- Basic safety monitoring (e.g., automatically detecting dangerous behavior in children via cameras)
+- Common childcare knowledge Q&A (e.g., complementary food tips, schedule arrangement)
+- Routine activity report generation (auto-generated daily reports based on sensor data)
+- Basic instructional support (e.g., playing pre-recorded stories or arithmetic games)
+
+**Where AI augments the role:**
+
+- Combining AI to analyze each child's behavior and developmental milestones, personalizing interaction strategies
+- Use automation tools to quickly write observation records, freeing up more time for interaction with children
+- Conducting language and music activities via voice assistants or tablets
+- Use AI to automatically generate parent notifications and activity suggestions in home communication.
+- Use AI recommendation systems and gamified teaching tools to enrich course content.
+
+**Human moat:**
+
+- Quickly calm, empathize with and guide children during sudden emotional or conflict situations
+- Judge children's discomfort or injury signs based on subtle non-verbal cues
+- Build trust with parents and provide detailed daily performance of children
+- Handling unpredictable safety incidents during outdoor and free play
+- Providing one-on-one emotional attention and behavior modification for children with special needs
+
+**Skills to build:**
+
+- Basic data analysis (interpreting AI-generated child development reports)
+- Use of AI tools (e.g., smart teaching platforms, voice assistants)
+- Child mental health and behavior guidance (addressing new issues in the tech era)
+- Interdisciplinary curriculum design (integrating STEM and social-emotional learning)
+- Digital ethics and privacy protection (especially child data security)
+- Basic programming mindset (understanding how toys/robots work)
+
+**Key growth areas:**
 
 - steady demand
 - government funded childcare
@@ -64,66 +100,68 @@ Childminders provide day-to-day care of children in their own homes, supervising
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 理论上可申请，但需雇主担保且符合薪资要求，实际极少使用 |
-| Subclass Graduate（Graduate visa） | 毕业生签证可从事自雇，适合有早期教育背景的毕业生 |
-| Subclass Family（Family visa） | 作为配偶或家属签证的附带工作权利 |
+| Subclass Skilled Worker (Skilled Worker visa) | Theoretically possible, but requires employer sponsorship and meets salary requirements; rarely used in practice |
+| Subclass Graduate (Graduate visa) | Graduate visa allows self-employment, suitable for graduates with early childhood education background |
+| Subclass Family (Family visa) | Work rights attached as a spouse or dependent visa |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Childminders？**
-- 喜欢与儿童相处、有耐心和创造力的人
-- 希望在家工作、自雇模式的人
-- 有早期教育或相关背景的人
+**Who is suited**
+- People who like working with children, are patient and creative.
+- Those who want to work from home or be self-employed
+- People with early childhood education or related background
 
-**谁不适合学Childminders？**
-- 不适应不规律工作时间和较低收入的人
-- 不喜欢在家工作或缺乏社交环境的人
+**Who is not suited**
+- People who are not suited to irregular working hours and relatively low income
+- People who dislike working from home or lack social interaction
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of child care workers?**
+A: Junior: annual salary about GBP 16,000-22,000, intermediate: GBP 22,000-30,000, senior: up to GBP 40,000, but income heavily influenced by client volume.
+
+**Q: Can childcare workers immigrate to the UK via work visas?**
+A: Limited pathways. Skilled Worker visa is theoretically possible but practically difficult; family or graduate visas are alternatives.
+
+**Q: What are the required registration steps?**
+A: Must register with Ofsted, complete a training course and pass an inspection; also need first aid certificate and criminal record check (DBS).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Childminders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for childminders?**
-答：Entry-level annual salary is around £16,000-22,000, mid-level £22,000-30,000, and experienced up to £40,000, but income depends heavily on the number of clients.
-
-**问：Can childminders immigrate to the UK via a work visa?**
-答：Routes are limited. Skilled Worker visa is possible in theory but rarely used; family visa or Graduate visa are more practical alternatives.
-
-**问：What are the registration steps?**
-答：Must register with Ofsted, complete training courses and pass inspection, hold a first aid certificate and undergo DBS check.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

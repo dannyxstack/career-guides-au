@@ -1,61 +1,94 @@
-# Delivery Persons, Errand Runners and Messengers on Foot（Delivery Persons, Errand Runners and Messengers on Foot）职业分析 · ES
+# Delivery Persons, Errand Runners and Messengers on Foot — career analysis · Spain
 
-**职业代码：9433 – Delivery Persons, Errand Runners and Messengers on Foot。**
+**Occupation code: 9433 (CNO)**
 
-Delivery persons, errand runners and messengers on foot deliver small items, documents or letters within urban areas by walking, commonly found in food delivery, local courier and on-demand errand services.
+Walking delivery workers, couriers, and couriers mainly deliver small items, documents, or letters within cities on foot, commonly in food delivery, local express delivery, and local errands.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无特定要求 | —（通常仅需中学毕业，无需学费） |
-| FP Básica（基础职业培训） | 2年 | —（公立学校免学费，材料费约300-600欧元） |
-| FP Grado Medio（中级职业培训） | 2年 | —（公立免学费，私立每年约500-800欧元） |
+| Compulsory education | No specific requirements | $0~$0 (Usually, only a secondary school diploma is required, with no tuition fees) |
+| FP Básica (Basic Vocational Training) | 2 years | $0~$600 (Public schools are tuition-free, with material fees around 300-600 euros) |
+| FP Grado Medio (Intermediate Vocational Training) | 2 years | $0~$800 (Public schools are free of tuition, while private ones pay about 500-800 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 轻便摩托车驾驶证（如果需要骑行） | 西班牙交通总局（DGT） | 可选 | 使用轻便摩托车配送需持有AM或A1驾照 |
-| 基本食品安全培训证书 | 自治区卫生部门认可机构 | 可选 | 涉及食品配送时可能需要 |
+| Light motorcycle driver's license (if cycling is required) | Spanish Directorate of Transport (DGT) | Optional | Delivering using a moped requires an AM or A1 driver's license |
+| Basic Food Safety Training Certificate | Recognized by the health department of the autonomous region | Optional | It may be required when food delivery is involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。西班牙电商和外卖市场持续增长，推动对步行配送员的需求，尤其是在马德里和巴塞罗那等大城市。但自动化配送和无人机技术可能长期影响就业。
+**Job demand: medium (★★★☆☆).** National workforce approx. 85,000. The continued growth of Spain's e-commerce and food delivery markets is driving demand for walking delivery workers, especially in major cities like Madrid and Barcelona. However, automated delivery and drone technology may have long-term impacts on employment.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 多为兼职或按单计酬，税前年薪 |
-| 中级（3-6年） | $18,000~$22,000 | 全职且经验丰富者，税前年薪 |
-| 高级（6年以上） | $22,000~$26,000 | 资深配送员或团队负责人，税前年薪 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Most are part-time or paid per order, with annual salary before tax |
+| Mid-level (3–6 years) | $18,000~$22,000 | Full-time and experienced candidates, pre-tax annual salary |
+| Senior (6+ years) | $22,000~$26,000 | Senior delivery staff or team leaders, pre-tax annual salary |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏低（★★☆☆☆）。** 职业晋升路径有限，可向配送主管、调度员或物流协调员发展，也可通过积累经验转向摩托车或汽车配送，获得更高收入。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Delivery drivers and couriers will face mixed fortunes: autonomous driving and robots may replace some long-haul and standardized deliveries, but AI can enhance human capabilities in route optimization, dynamic scheduling, and last-mile flexibility, while regulatory responsibility and complex interpersonal interactions remain a moat.
+
+Career advancement paths are limited; you can develop into a distribution supervisor, dispatcher, or logistics coordinator, or gain experience by shifting to motorcycle or car delivery for higher income.
+
+**Tasks most exposed to AI:**
+
+- Automatic route planning using GPS and real-time traffic data
+- Autonomous vehicle delivery in controlled environments (e.g., warehouse to warehouse)
+- AI-based package sorting and loading sequence optimization
+- Automated customer notifications and tracking updates (e.g., SMS/email)
+
+**Where AI augments the role:**
+
+- AI-assisted dynamic scheduling: adjust routes based on real-time traffic, weather, and customer time windows
+- Smart parcel volume/weight estimation: improves loading efficiency and reduces damage
+- Fatigue driving warning and safety assistance through AI cameras and sensors
+- AI-driven customer service: handling delivery exceptions (e.g. incorrect address, recipient not present)
+
+**Human moat:**
+
+- Last-mile decision-making in complex environments (e.g., narrow alleys, rural areas without clear addresses)
+- Face-to-face interaction and relationship maintenance with clients (e.g., signing for deliveries, negotiating special requests)
+- Flexibility to handle unexpected situations (e.g., package damage, customer complaints)
+- Hand-eye coordination and physical control skills required for driving large vehicles
+
+**Skills to build:**
+
+- Use smart scheduling platform and mobile app
+- Basic data analysis (e.g., interpreting delivery performance indicators)
+- Customer service and communication skills
+- Knowledge of vehicle safety systems and driver-assistance technology
+- Time management and stress resistance skills
+- Multitasking (simultaneously monitoring routes and client messages)
+
+**Key growth areas:**
 
 - E-commerce growth
 - Food delivery expansion
@@ -64,61 +97,63 @@ Delivery persons, errand runners and messengers on foot deliver small items, doc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇工作居留：需雇主担保，证明无法在欧盟、瑞士、冰岛、列支敦士登、挪威找到合适人选。由于该职业技能要求低，通常难以获批。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence: Employer sponsorship is required, proving that suitable candidates cannot be found in the EU, Switzerland, Iceland, Liechtenstein, or Norway. Because the skill requirements for this profession are low, it is usually difficult to get approved. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Delivery Persons, Errand Runners and Messengers on Foot？**
-- 愿意步行并有良好体力的年轻人
-- 寻求临时或兼职工作者
-- 熟悉城市路况、喜欢户外工作的人
+**Who is suited**
+- Young people who are willing to walk and have good physical fitness
+- Seeking temporary or part-time jobs
+- People familiar with city road conditions and who enjoy outdoor work
 
-**谁不适合学Delivery Persons, Errand Runners and Messengers on Foot？**
-- 寻求高收入和长期职业发展的人
-- 不愿从事高强度体力劳动或恶劣天气工作的人
+**Who is not suited**
+- People seeking high income and long-term career development
+- People who are unwilling to engage in high-intensity physical labor or work in harsh weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for walking delivery workers?**
+A: Walking delivery workers in Spain earn relatively low salaries, with entry-level salaries around 14,000-18,000 euros, increasing to 22,000-26,000 euros with experience, but most are paid per order and income is unstable.
+
+**Q: Is it feasible to immigrate to Spain through this profession?**
+A: The feasibility is extremely low. This occupation is considered a low-skilled position, and the Spanish Employment Agency usually does not classify such positions as in short supply. Employers find it difficult to pass the labor market test, and only employment residency is possible, but approval is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 非常简单（½☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等偏低（★★☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Delivery Persons, Errand Runners and Messengers on Foot属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for delivery persons on foot?**
-答：Salaries are low, with junior levels earning about 14,000-18,000 EUR, and experienced workers up to 22,000-26,000 EUR, but often paid per delivery with unstable income.
-
-**问：Is it feasible to immigrate to Spain through this occupation?**
-答：Very unlikely. It is a low-skilled occupation not listed as shortage; employer-sponsored work permits require a labor market test which is hard to pass.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

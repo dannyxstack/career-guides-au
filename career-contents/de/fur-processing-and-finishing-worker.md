@@ -1,60 +1,96 @@
-# Fur Processing and Finishing Worker（Fur Processing and Finishing Worker）职业分析 · DE
+# Fur Processing and Finishing Worker — career analysis · Germany
 
-**职业代码：2834 – Fur Processing and Finishing Worker。**
+**Occupation code: 2834 (KldB)**
 
-Processes and finishes animal pelts into fur garments and accessories through tanning, dyeing, cutting, and sewing; works in tanneries or fur workshops requiring manual dexterity.
+Engages in processes such as tanning, dyeing, cutting, and sewing to transform raw hides into finished fur products like coats and accessories. Work takes place in leather factories or fur workshops, requiring meticulous manual skills.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常由企业支付） |
-| 进阶培训（Meisterschule） | 1-2年 | $2,000~$8,000（自费，可申请补贴） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Training period includes salary, usually paid by the company) |
+| Advanced training (Meisterschule) | 1-2 years | $2,000~$8,000 (Self-funded, with eligibility for subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 毛皮加工技师毕业证 | 德国工商会（IHK） | 必备 | 完成双元制 Ausbildung 后获得 |
-| 毛皮大师证（Kürschnermeister） | 德国手工业行会（HWK） | 可选 | 可独立开业或带徒弟 |
+| Fur Processing Technician Graduation Certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training (Ausbildung) |
+| Master Furrier Certificate (Kürschnermeister) | German Chamber of Crafts (HWK) | Optional | Can independently start a practice or take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 1,200。德国毛皮加工业规模较小且持续萎缩，受动物保护和合成替代品影响，就业岗位有限。现有从业者年龄偏大，未来十年预计需求下降，但高端定制和修复领域可能有少量机会。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 1,200. The German fur processing industry is small and shrinking, affected by animal protection and synthetic alternatives, with limited jobs. Existing workers are older, and demand is expected to decline over the next decade, but high-end customization and restoration may have a few opportunities.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-8年） | $30,000~$38,000 | 税前年薪 |
-| 高级（8年以上/师傅） | $38,000~$48,000 | 税前年薪 |
+| Median salary | $35,124 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (8+ years/Master) | $38,000~$48,000 | Annual pre-tax salary |
+| average salary | $38,748 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展路径：学徒→熟练工→师傅/车间主管。由于行业萎缩，晋升机会少，多数人终身从事同一工种。可转向皮革加工或纺织行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fur Processing and Handling Workers: due to AI-driven automated cutting, dyeing and design trends, core manual tasks are reduced, especially low-end positions; need to transition to precision handcraft and customisation.
+
+Career path: apprentice → skilled worker → master/workshop supervisor. Due to industry contraction, few promotion opportunities; most stay in the same job lifelong. Can transition to leather processing or textile industries.
+
+**Tasks most exposed to AI:**
+
+- Automated monitoring of tanning processes and chemical ratio adjustment
+- AI-assisted pattern generation and material cutting
+- Digital rendering and virtual sample design replace physical garment samples
+- Standardized sewing processes are performed by robots
+- Digital processing of inventory management and order tracking
+
+**Where AI augments the role:**
+
+- AI-optimized dyeing recipes and color consistency control
+- Augmented reality (AR)-assisted precision cutting and sewing
+- AI predicts fashion trends to guide product design.
+- Automated quality inspection systems improve finished product inspection efficiency.
+- Smart contract management simplifies customer customization process
+
+**Human moat:**
+
+- Advanced manual skills (such as hand stitching, detail finishing)
+- In-depth experience with rare leather characteristics and handling
+- Creative design and personalization capabilities
+- Customer communication and high-end brand service awareness
+- Intergenerational traditional craft knowledge
+
+**Skills to build:**
+
+- CAD and 3D modeling software operation
+- Basic application of AI tools (e.g., generative design)
+- Knowledge of sustainable materials and processes
+- Data-driven quality analysis
+- Digital marketing and e-commerce skills
+- Intelligent sewing equipment maintenance
+
+**Key growth areas:**
 
 - Declining industry
 - Sustainability focus
@@ -63,62 +99,64 @@ Processes and finishes animal pelts into fur garments and accessories through ta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 如果获得德国企业雇佣且资质被认可，可申请技术移民签证。但该职业非紧缺，需德国学历或等同认证。 |
-| Subclass Chancenkarte | 积分制机会卡，允许来德找工作，但要求德语B1和一定资金。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | If employed by a German company and qualifications are recognized, you can apply for a skilled migration visa. However, this occupation is not in shortage and requires a German degree or equivalent recognition. |
+| Subclass Chancenkarte | Points-based job seeker visa allows coming to Germany to look for work, but requires German B1 and sufficient funds. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fur Processing and Finishing Worker？**
-- 喜欢手工制作、耐心细致的人
-- 对传统毛皮工艺有兴趣者
-- 愿意在小众行业深耕的人
+**Who is suited**
+- People who enjoy handmade work and are patient and meticulous
+- Interested in traditional fur craftsmanship.
+- Someone willing to delve into niche industries
 
-**谁不适合学Fur Processing and Finishing Worker？**
-- 追求高薪和高增长行业的人
-- 讨厌动物材料或有动物保护顾虑的人
+**Who is not suited**
+- People seeking high salary and high-growth industries
+- People who dislike animal materials or have animal protection concerns
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for fur processing workers in Germany?**
+A: Salary levels are lower, entry-level around €24,000-30,000, senior masters not exceeding €48,000, below the German manufacturing average.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Very difficult. This occupation is not in shortage; requires German-recognized apprenticeship qualifications, and the industry is shrinking with low employer sponsorship willingness. The Opportunity Card may be possible, but finding a job is not easy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fur Processing and Finishing Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of fur processing workers in Germany?**
-答：Salary is low: entry-level €24k-30k, senior master up to €48k, below average in manufacturing.
-
-**问：Can foreigners immigrate through this occupation?**
-答：Very difficult. Not a shortage occupation, requires recognized German apprenticeship, declining industry. Opportunity Card possible but job search challenging.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

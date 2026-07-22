@@ -1,62 +1,98 @@
-# Couriers and messengers（Couriers and messengers）职业分析 · 加拿大
+# Couriers and messengers — career analysis · Canada
 
-**职业代码：74100 – Couriers and messengers。**
+**Occupation code: 74100 (NOC)**
 
-In Canada, couriers (NOC 74100) deliver parcels and documents locally, often by bicycle, motorcycle, or small van. This occupation typically does not qualify for skilled immigration, but may allow migration through Provincial Nominee Programs (PNP) or employer sponsorship, with lower language requirements.
+In Canada, couriers (NOC 74100) deliver packages and documents locally, typically by bicycle, motorcycle, or small van. This occupation usually does not meet skilled migration requirements, but may allow migration through Provincial Nominee Program (PNP) or employer sponsorship, with relatively lower language requirements.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中 | 无要求 | —（通常仅需高中文凭或同等学历） |
-| 驾驶培训 | 2-4周 | $500~$1,500（若需驾驶车辆，可能需付费培训） |
-| 语言培训 | 6个月 | $2,000~$5,000（提升英语或法语能力，CLB 4 以上） |
+| High school | No requirements | $0~$0 (Typically only requires a high school diploma or equivalent) |
+| Driving Instruction | 2-4 weeks | $500~$1,500 (May require paid training if driving vehicles) |
+| Language training | 6 months. | $2,000~$5,000 (Improve English or French proficiency, CLB 4 or above) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 有效驾驶执照 | 省政府 | 必备 | 如使用机动车，需持有对应类别的驾照 |
-| 无犯罪记录证明 | 警察局 | 可选 | 部分雇主或移民项目要求 |
-| 语言能力 | 雅思/思培/TEF | 可选 | CLB 4 以上可提高就业和移民机会 |
+| Valid driver's license | Provincial government | Required | If using a motor vehicle, must hold the corresponding driver's license |
+| Police clearance certificate | Police station | Optional | Required by some employers or immigration programs |
+| Language ability | IELTS/CELPIP/TEF | Optional | CLB 4 or higher improves employment and immigration opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。加拿大快递员就业前景稳定，受电商增长推动，需求持续。但收入较低，职业发展空间有限，主要面向本地劳动力市场，新移民入行门槛不高。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. The employment outlook for couriers in Canada is stable, driven by e-commerce growth. However, income is low, career development is limited, the job mainly targets the local labor market, and entry barriers for newcomers are low.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$35,000 | 通常按小时付薪，最低工资水平 |
-| 中级（2-5年） | $35,000~$45,000 | 有经验且效率高者可获得更高收入 |
-| 高级（5年以上） | $45,000~$55,000 | 包括主管或特殊快递（如医疗）岗位 |
+| Median salary | $54,080 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $28,000~$35,000 | Usually paid hourly, at minimum wage level |
+| Intermediate (2-5 years) | $35,000~$45,000 | Experienced and efficient workers can earn higher income |
+| Senior (5+ years) | $45,000~$55,000 | Includes supervisor or express delivery (e.g., medical) roles |
+| average salary | $54,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径有限：可从快递员晋升为配送主管、调度员或车队经理。部分经验者可转行至物流协调、仓储管理等岗位，但需额外培训。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Couriers and messengers face high risk of automation; as autonomous delivery vehicles, drones, and intelligent scheduling systems mature, many routine point-to-point delivery tasks will be replaced by machines, significantly reducing entry-level positions.
+
+Limited career progression: from courier to delivery supervisor, scheduler, or fleet manager. Some experienced workers can transition to logistics coordination or warehouse management, but require additional training.
+
+**Tasks most exposed to AI:**
+
+- Point-to-point ground transport of regular documents and small parcels
+- batch delivery on fixed routes and schedules
+- Simple process for signing and confirming delivery
+- Receive and navigate to delivery addresses via mobile app
+- Manually sorting and loading parcels
+
+**Where AI augments the role:**
+
+- Using real-time route optimization software to improve delivery efficiency
+- Use intelligent scheduling systems to dynamically adjust task priorities
+- Use mobile payment and electronic receipt tools to reduce paper processes
+- Advance planning of peak capacity using AI prediction tools
+- Using drones or robots to assist with last-mile delivery
+
+**Human moat:**
+
+- Handle complex interpersonal communication (e.g., incorrect addresses, recipient changes)
+- Deal with emergencies (traffic control, bad weather, customer complaints)
+- Flexible delivery of cross-regional, non-standard routes, or large items
+- Exception handling for delivery receipt requiring human judgment (e.g., agent collection, refusal).
+- Provide personalized services (e.g., VIP clients, time commitment guarantees)
+
+**Skills to build:**
+
+- Proficient in operating multi-modal delivery tools (electric bicycles, small vans)
+- Learn to use intelligent delivery scheduling systems and mobile applications
+- Improve customer service and communication skills
+- Basic data analysis skills (to optimize personal delivery efficiency)
+- Obtain a higher-class driver's license (e.g., Class 3 or air brake)
+- Understand coordination skills for drone or robot-assisted delivery.
+
+**Key growth areas:**
 
 - e-commerce growth
 - last-mile delivery
@@ -65,66 +101,68 @@ In Canada, couriers (NOC 74100) deliver parcels and documents locally, often by 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如萨省、曼省）的紧缺职业清单包含快递员，可通过雇主担保提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工作许可，后续申请经验类移民 |
-| Subclass TFWP（Temporary Foreign Worker Program） | 通过临时外国工人计划获得工作签证，积累加拿大经验 |
+| Subclass PNP (Provincial Nominee Program) | Courier is on the shortage occupation list in some provinces (e.g., Saskatchewan, Manitoba) and can be nominated through employer sponsorship |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, then apply for experience-based immigration |
+| Subclass TFWP (Temporary Foreign Worker Program) | Obtain a work visa through the Temporary Foreign Worker Program, gain Canadian experience |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Couriers and messengers？**
-- 体力好、适应户外工作的人
-- 英语基础弱但愿意学习的新移民
-- 可能获得特定省份雇主担保的申请者
+**Who is suited**
+- Physically fit and adaptable to outdoor work
+- New immigrants with weak English foundation but willing to learn
+- Applicants who may obtain employer sponsorship in a specific province
 
-**谁不适合学Couriers and messengers？**
-- 寻求高薪和快速晋升的人
-- 期望通过联邦技术移民快速获批的申请者
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Applicants hoping for fast approval via Federal Skilled Worker program
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a courier in Canada?**
+A: Entry-level courier annual salary is approximately CAD 28,000-35,000, mid-level CAD 35,000-45,000, and senior (including supervisor) up to CAD 55,000. Overall income is relatively low, mainly relying on hourly wages and tips.
+
+**Q: Can couriers immigrate to Canada through skilled migration?**
+A: Cannot directly immigrate through Express Entry because NOC 74100 is a TEER 4 low-skilled occupation, but can gain experience through employer-sponsored PNP or LMIA work permits and then apply for provincial nomination or experience-based immigration.
+
+**Q: What are the career advancement opportunities for a courier in Canada?**
+A: Limited promotion opportunities, can advance from courier to dispatcher, delivery supervisor or fleet manager, or transition to logistics, warehousing, etc., but usually requires additional training or certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Couriers and messengers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a courier in Canada?**
-答：Entry-level couriers earn about CAD 28,000-35,000 per year, mid-level CAD 35,000-45,000, and senior (including supervisors) up to CAD 55,000, but overall income is low, mainly hourly wage and tips.
-
-**问：Can a courier immigrate to Canada through skilled migration?**
-答：No, NOC 74100 is TEER 4 low-skilled, not eligible for Express Entry. However, employer sponsorship via PNP or LMIA work permit is possible, leading to provincial nomination or Canadian experience class.
-
-**问：What are the career advancement opportunities for a courier in Canada?**
-答：Advancement is limited; couriers can become dispatchers, delivery supervisors, or fleet managers, or transition to logistics and warehousing, often requiring additional training or certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

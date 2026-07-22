@@ -1,60 +1,96 @@
-# Financial Analysis and Engineering（Financial Analysis and Engineering）职业分析 · FR
+# Financial Analysis and Engineering — career analysis · France
 
-**职业代码：M1201 – Financial Analysis and Engineering。**
+**Occupation code: M1201 (ROME)**
 
-Designs financial models, analyzes market data, manages risks, and devises investment strategies for banks, insurance companies, or corporate treasuries.
+Responsible for building financial models, analyzing market data, managing risks, and designing investment strategies, providing decision support to banks, insurance companies, or corporate finance departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后5年（硕士） | 5年（硕士，如MSc in Finance） | $8,000~$15,000（公立大学或商学院，每年学费） |
-| 高中后5年（工程师文凭） | 5年（工程师文凭） | $3,000~$6,000（公立工程师学校，每年学费） |
-| 高中后3年（Licence） | 3年（Licence） | $2,000~$5,000（公立大学本科，可作为硕士预备） |
+| 5 years after high school (Master's) | 5 years (Master's program, such as MSc in Finance) | $8,000~$15,000 (Public universities or business schools, annual tuition fees) |
+| Five years after high school (Engineering diploma) | 5 years (Engineering Diploma) | $3,000~$6,000 (Public engineering schools, annual tuition fees) |
+| Licence, the first three years of high school | 3 years (Licence) | $2,000~$5,000 (Undergraduate programs at public universities can serve as preparation for master's programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融硕士或工程师文凭 | 法国高等教育机构 | 必备 | 通常要求金融、数学或工程背景 |
-| AMF认证 | Autorité des Marchés Financiers | 必备 | 从事金融投资咨询需通过AMF考试 |
-| CFA特许金融分析师 | CFA Institute | 可选 | 国际认可，非强制但提升竞争力 |
+| Master of Finance or Engineering Diploma | French higher education institutions | Required | Usually, a background in finance, mathematics, or engineering is required |
+| AMF certification | Autorité des Marchés Financiers | Required | To engage in financial investment consulting, you must pass the AMF exam |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | Internationally recognized, not mandatory, but enhancing competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。法国金融业持续数字化转型，对量化分析、风险控制人才需求稳定增长。巴黎作为欧洲金融中心之一，提供较多岗位，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's financial industry continues its digital transformation, with steadily growing demand for talent in quantitative analysis and risk control. Paris, as one of Europe's financial centers, offers many positions but is highly competitive.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，巴黎地区较高 |
-| 中级（4-7年） | $50,000~$70,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $80,000~$120,000 | 税前年薪，总监级别更高 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary is higher in the Paris area |
+| Mid-level (4-7 years) | $50,000~$70,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $80,000~$120,000 | Pre-tax annual salary, and director rank higher |
+| average salary | $59,838 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级分析师可晋升为高级分析师、团队主管，进而成为部门总监或首席风险官。也可向量化研究员、投资银行家或金融科技方向转型。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Junior analysts can be promoted to senior analysts, team leaders, and eventually become department directors or chief risk officers. You can also transition into a quantitative researcher, investment banker, or fintech career.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Quantitative Analysis
 - Risk Management
@@ -63,68 +99,67 @@ Designs financial models, analyzes market data, manages risks, and devises inves
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如工程师或硕士毕业生，合同年薪至少达53,155欧元 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对非欧盟高技能工作者，年薪需达53,155欧元以上 |
-| Subclass Salarié（Employee Work Permit） | 常规工作居留，需雇主担保，符合薪资要求 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents such as engineers or master's graduates, with a contract annual salary of at least 53,155 euros |
+| Subclass Carte bleue UE (EU Blue Card) | For non-EU highly skilled workers, the annual salary must be at least 53,155 euros |
+| Subclass Salarié (Employee Work Permit) | Regular work residency requires employer sponsorship and meets salary requirements |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Analysis and Engineering？**
-- 具备数学、统计或工程背景，喜欢量化分析
-- 对金融市场有热情，抗压能力强
-- 希望进入高薪且国际化的职业
-
-**谁不适合学Financial Analysis and Engineering？**
-- 厌恶数字和模型，偏好定性工作
-- 难以承受高强度工作节奏和业绩压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in mathematics, statistics, or engineering, with a passion for quantitative analysis
+- Passionate about financial markets and strong ability to handle pressure
+- Those hoping to enter high-paying and international careers
+
+**Who is not suited**
+- Dislikes numbers and models, prefers qualitative work
+- It is difficult to withstand the intense work pace and performance pressure
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for financial analysts?**
+A: Junior approx. €35,000-€45,000, mid-level €50,000-€70,000, senior €80,000-€120,000+, higher in Paris region, with significant bonus component.
+
+**Q: How can non-EU individuals immigrate to France to work in financial analysis?**
+A: You can use a talent passport or EU Blue Card, with a master's degree or above and an employer offer. The annual salary starts at about 53,155 euros.
+
+**Q: What are the promotion paths for financial analysts?**
+A: From junior analysts to senior analysts, team leaders, and then department directors or chief risk officers; You can also turn to quantitative research or fintech.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Financial Analysis and Engineering的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for financial analysts?**
-答：Junior: €35k-45k, mid-level: €50k-70k, senior: €80k-120k+; higher in Paris with significant bonuses.
-
-**问：How can non-EU nationals immigrate for financial analysis in France?**
-答：Via Talent Passport or EU Blue Card; requires master's degree and job offer with salary ≥ €53,155.
-
-**问：What are the career progression paths for financial analysts?**
-答：From junior analyst to senior analyst, team leader, department director, or CRO; also possible to switch to quantitative research or fintech.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

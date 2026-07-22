@@ -1,60 +1,94 @@
-# Refrigeration and Air Conditioning Mechanics and Installers（Refrigeration and Air Conditioning Mechanics and Installers）职业分析 · ES
+# Refrigeration and Air Conditioning Mechanics and Installers — career analysis · Spain
 
-**职业代码：7250 – Refrigeration and Air Conditioning Mechanics and Installers。**
+**Occupation code: 7250 (CNO)**
 
-Install, maintain and repair refrigeration and air conditioning systems in commercial, industrial and residential settings, ensuring proper temperature control.
+Responsible for installing, maintaining, and repairing refrigeration and air conditioning systems, covering commercial, industrial, and residential equipment, ensuring normal operation of ambient temperature control.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立免费，仅教材杂费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，可衔接大学） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立学费因社区而异） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,000 (Public schools are free, with only textbook and miscellaneous fees) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public schools are free and can be connected to universities) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public tuition fees vary by community) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书（FP Título） | 教育部 | 必备 | 完成FP Grado Medio/Superior后获得 |
-| 制冷剂处理认证（Carnet de manipulación de refrigerantes） | 工业部 | 必备 | 法律要求处理氟化气体 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 第三国学历需认证 |
+| Professional Qualification Certificate (FP Título) | Ministry of Education | Required | Obtained after completing FP Grado Medio/Superior |
+| Refrigerant Handling Certification (Carnet de manipulación de refrigerantes) | Ministry of Industry | Required | The law requires handling fluorinated gases |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Third-country qualifications need authentication |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。西班牙制冷空调行业持续增长，受建筑翻新、能效法规及夏季高温需求推动。就业稳定，但竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Spain's refrigeration and air conditioning industry continues to grow, driven by building renovations, energy efficiency regulations, and high summer demand. Employment is stable, but competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$34,000 | 税前年薪 |
-| 高级（7年以上） | $34,000~$45,000 | 税前年薪，含项目主管 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$34,000 | Annual pre-tax salary |
+| Senior (7+ years) | $34,000~$45,000 | Pre-tax annual salary, including project supervisor |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从安装工可晋升为技术主管、项目监理，或专攻大型商用/工业系统、能效咨询。自主创业开设维修服务也是常见路径。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+Installers can be promoted to technical supervisors, project supervisors, or specialize in large commercial/industrial systems and energy efficiency consulting. Starting one's own business and offering repair services is also a common path.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Energy Efficiency
 - Green Building
@@ -63,68 +97,67 @@ Install, maintain and repair refrigeration and air conditioning systems in comme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历或同等经验，年薪达标（2024年约33,908欧元） |
-| Subclass Cuenta ajena（Work Permit (employed)） | 常规受雇工作居留，需雇主担保，证明岗位难以在欧盟内招到 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | Ley 14/2013框架，适用于紧缺高技能职业，流程简化 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or equivalent experience, meeting annual salary requirements (approximately €33,908 in 2024) |
+| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment residence requires employer sponsorship to prove that the position is difficult to recruit within the EU |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Under the Ley 14/2013 framework, applicable to high-skilled occupations in shortage, with streamlined procedures. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Refrigeration and Air Conditioning Mechanics and Installers？**
-- 动手能力强、喜欢技术维修工作的人
-- 愿意接受户外和不固定工作环境的人
-- 对能源效率和环保制冷技术有兴趣的人
-
-**谁不适合学Refrigeration and Air Conditioning Mechanics and Installers？**
-- 不习惯身体劳累或高温环境的人
-- 希望完全在办公室工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy technical maintenance work
+- People willing to accept outdoor and non-fixed work environments
+- For those interested in energy efficiency and eco-friendly refrigeration technologies
+
+**Who is not suited**
+- People who are not used to physical fatigue or high-temperature environments
+- People who want to work entirely in an office
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for refrigeration and air conditioning installers?**
+A: Entry-level annual salary around €20,000–26,000, mid-level €26,000–34,000, senior up to €45,000. Overtime and commissions can increase income.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: You can obtain an EU Blue Card (university degree or experience + high salary) or regular work residence (employer-sponsored). Spain updates its list of in-demand occupations every year, and this position is frequently included.
+
+**Q: What education is needed to become a refrigeration and air conditioning installer?**
+A: Typically, completing 2 years of FP Grado Medio (secondary vocational education) is sufficient, or continuing with FP Grado Superior. A bachelor's degree is not mandatory, but it is beneficial for promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Refrigeration and Air Conditioning Mechanics and Installers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for refrigeration and air conditioning installers?**
-答：Entry-level annual salary is around €20,000-€26,000, mid-level €26,000-€34,000, and senior up to €45,000. Overtime and commissions can increase earnings.
-
-**问：How can foreigners immigrate to Spain through this occupation?**
-答：EU Blue Card (requires degree or experience + high salary) or standard work permit (employer sponsorship). It is often listed as a shortage occupation.
-
-**问：What education is needed to become a refrigeration and air conditioning installer?**
-答：Typically a 2-year FP Grado Medio (intermediate vocational training) is sufficient, or further FP Grado Superior. A university degree is not required but helps for advancement.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

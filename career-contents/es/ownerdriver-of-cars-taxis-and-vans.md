@@ -1,61 +1,95 @@
-# Owner-Driver of Cars, Taxis, and Vans（Owner-Driver of Cars, Taxis, and Vans）职业分析 · ES
+# Owner-Driver of Cars, Taxis, and Vans — career analysis · Spain
 
-**职业代码：8411 – Owner-Driver of Cars, Taxis, and Vans。**
+**Occupation code: 8411 (CNO)**
 
-Owner-drivers operate their own cars, taxis, or vans to provide passenger or goods transport services, often as self-employed or affiliated with a company, with income depending on trips and operating costs.
+Owners drive self-purchased cars, taxis, or light trucks to provide passenger or freight services, usually operating as self-employed or affiliated companies, with income depending on order volume and operating costs.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 无 | —（仅需驾照和基本培训） |
-| 驾驶培训课程 | 1-3个月 | $300~$600（出租车/VTC特定培训或CAP证书） |
+| No formal education requirements | None | $0~$0 (Only a driver's license and basic training are required) |
+| Driving training courses | 1-3 months. | $300~$600 (Taxi/VTC specific training or CAP certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| B类驾驶执照 | 西班牙交通局（DGT） | 必备 | 允许驾驶轿车和轻型货车 |
-| 出租车或VTC运营许可证 | 市/自治区政府 | 必备 | 需申请获得，数量受限 |
-| 自雇注册 | 西班牙社保和税务局 | 可选 | 需登记为autónomo |
+| Class B driver's license | Spanish Transport Authority (DGT) | Required | Driving sedans and light trucks is permitted |
+| Taxi or VTC operating license | City/Autonomous Region Government | Required | Requires application to obtain it, quantity is limited |
+| Self-employment registration | Spanish Social Security and Tax Service | Optional | Registration must be made as autónomo |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 180,000。西班牙出租车和VTC市场趋于饱和，共享出行平台增加竞争，但旅游区和城市短途货运需求稳定。未来就业增长温和，数字化转型和环保法规（如低排放区）可能带来挑战。
+**Job demand: medium (★★½☆☆).** National workforce approx. 180,000. The Spanish taxi and VTC markets are approaching saturation, with ride-sharing platforms increasing competition, but demand for short-distance freight in tourist areas and cities remains stable. Future job growth is moderate, but digital transformation and environmental regulations (such as low-emission zones) may pose challenges.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 扣除成本前，净收入较低 |
-| 中级（3-10年） | $24,000~$32,000 | 有稳定客户或平台评分高 |
-| 高级（10年以上） | $30,000~$40,000 | 自有车辆状况好，运营效率高 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Net income before costs is relatively low |
+| Intermediate (3-10 years) | $24,000~$32,000 | Stable customers or high platform ratings |
+| Senior (10+ years) | $30,000~$40,000 | Owned vehicles are in good condition and operate efficiently |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★☆☆☆）。** 职业发展有限，可逐步扩大车队规模成为小型运输企业主，或转入物流公司管理岗位。部分司机通过获取重型货车驾照或危险品运输资质拓展收入来源。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Autonomous driving technology will significantly reduce taxi driver positions, but full replacement will take time; in the short term, ride-sharing platform optimization of scheduling intensifies competition, narrowing entry-level roles.
+
+Career development is limited; you can gradually expand your fleet to become a small transport business owner or transfer to management positions in logistics companies. Some drivers expand their sources of income by obtaining heavy truck licenses or hazardous materials transport qualifications.
+
+**Tasks most exposed to AI:**
+
+- Route planning and navigation (AI navigation for optimal routes)
+- Order receiving and dispatch (platform auto-assignment)
+- Billing and payment (automatic calculation and electronic payment).
+- Vehicle basic maintenance warnings (sensor self-check reporting)
+- Customer complaint handling (preprocessed by AI customer service)
+
+**Where AI augments the role:**
+
+- Real-time traffic and dynamic pricing optimization (AI analysis of supply and demand)
+- Safe driving assistance (collision warning, blind spot monitoring)
+- Personalized customer service (recommend itineraries based on historical preferences)
+- Multilingual translator (communicating with foreign passengers via voice translation tools)
+
+**Human moat:**
+
+- Response to complex road conditions (accidents, construction, extreme weather)
+- Interpersonal communication and service experience (emotional support, special needs)
+- Vehicle interior management (cleaning, safety check manual judgment)
+- Trust relationship with passengers (retaining regular customers, word-of-mouth)
+
+**Skills to build:**
+
+- Data analysis and scheduling algorithm understanding (to improve order-taking efficiency).
+- Vehicle maintenance and fault diagnosis basics
+- Advanced customer service and communication skills
+- Safe driving and defensive driving techniques
+- AI-assisted tool usage (navigation, payment, service)
+- Basic multilingual communication
+
+**Key growth areas:**
 
 - self-employment
 - ridesharing
@@ -64,62 +98,64 @@ Owner-drivers operate their own cars, taxis, or vans to provide passenger or goo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇于运输公司可申请，但自雇模式下通常不适用 |
-| Subclass Cuenta propia（Self-Employment Work Permit） | 自雇司机需申请自雇居留，要求商业计划和足够资金 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employees of transport companies can apply, but under the self-employment model, this usually does not apply |
+| Subclass Cuenta propia (Self-Employment Work Permit) | Self-employed drivers must apply for self-employed residence, which requires a business plan and sufficient funding |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Owner-Driver of Cars, Taxis, and Vans？**
-- 习惯独立工作、能自担运营成本的人
-- 熟悉城市道路、驾驶技术娴熟的司机
-- 愿意灵活安排工作时间的人
+**Who is suited**
+- People who are used to working independently and can bear their own operating costs
+- Drivers familiar with city roads and skilled drivers
+- People willing to arrange their work hours flexibly
 
-**谁不适合学Owner-Driver of Cars, Taxis, and Vans？**
-- 寻求稳定高薪和职业晋升的人
-- 不善于处理行政和税务手续的人
+**Who is not suited**
+- Those seeking stable high salaries and career advancement
+- People who are not good at handling administrative and tax procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual income of a taxi driver?**
+A: Pre-tax annual income is typically between EUR 18,000 and 40,000, but after deducting costs such as vehicle maintenance, fuel, insurance, and self-employment social security, actual net income may be lower.
+
+**Q: Can foreign drivers work as self-driven drivers in Spain?**
+A: The difficulties are considerable. Drivers outside the EU who need to obtain self-employment residence (Cuenta propia) or are employed by transport companies and face competition and licensing restrictions are not in urgent demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Owner-Driver of Cars, Taxis, and Vans属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income for owner-driver taxi drivers?**
-答：Gross annual income typically ranges from €18,000 to €40,000 before costs, but after deducting vehicle maintenance, fuel, insurance, and self-employment social contributions, net income is lower.
-
-**问：Can foreign drivers work as owner-drivers in Spain?**
-答：It is difficult. They need a self-employment visa (Cuenta propia) or be employed by a transport company, and non-EU drivers face competition and licensing restrictions. It is not a shortage occupation.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

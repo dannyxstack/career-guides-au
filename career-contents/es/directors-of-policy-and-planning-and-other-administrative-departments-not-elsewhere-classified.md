@@ -1,58 +1,93 @@
-# Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified（Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified）职业分析 · ES
+# Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：1219 – Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified。**
+**Occupation code: 1219 (CNO)**
 
-Responsible for developing and implementing policies, strategies, and plans for organizations or government departments, overseeing administration, budget, and personnel to achieve objectives.
+Responsible for formulating and implementing policies, strategies, and plans for organizations or government departments, supervising administrative management, budgeting, and personnel to ensure goals are achieved.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $5,000~$15,000（公立大学学费） |
-| 硕士 | 1-2年（Máster） | $10,000~$25,000（公立或私立大学） |
+| University bachelor's degree | 4 years (Grado) | $5,000~$15,000 (Public university tuition) |
+| Master's degree | 1-2 years (Máster) | $10,000~$25,000 (Public or private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共管理或相关领域学位 | 西班牙大学 | 必备 | 一般要求本科以上，硕士更优 |
-| 高级管理经验 | 工作经验 | 必备 | 通常需要5年以上管理经验 |
+| Degree in Public Administration or related field | Spanish University | Required | Generally, a bachelor's degree or above is required, with a master's degree being preferred |
+| Senior management experience | Work experience | Required | Typically, more than 5 years of management experience is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,500。西班牙公共行政领域稳定，受财政紧缩影响增长缓慢，但资深职位需求持续，需应对数字化改革和欧盟政策协调。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,500. Spain's public administration sector is stable, with slow growth due to fiscal constraints, but demand for senior positions remains and requires digital reforms and EU policy coordination.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公共部门较低，私人部门较高 |
-| 中级（3-7年） | $45,000~$60,000 | 含项目管理职责 |
-| 高级（7年以上） | $60,000~$90,000 | 总监或高层管理，可达10万欧元 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | The public sector is lower, while the private sector is higher |
+| Mid-level (3–7 years) | $45,000~$60,000 | Includes project management responsibilities |
+| Senior (7+ years) | $60,000~$90,000 | Director or senior management, up to €100,000 |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从部门经理或高级政策顾问晋升，常需跨部门经验，后期可担任政府秘书长或国有企业高管，也可转向咨询业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly improve the efficiency of policy analysis, data integration, and report generation, but core tasks involving multi-party interest coordination, political judgment, and accountability still rely on humans. Overall, risks are controllable and benefits are significant.
+
+You can be promoted from department manager or senior policy advisor, often requiring cross-departmental experience. Later, you may serve as a government secretary-general or senior executive in a state-owned enterprise, or transition to consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate policy briefs, draft reports, and meeting minutes
+- Replacing basic data collection, organization, and visualization work
+- Automatically monitor regulatory changes and generate compliance alerts
+- Replace routine reporting on project progress tracking and budget execution
+
+**Where AI augments the role:**
+
+- AI-assisted simulation and comparison of complex policy proposals with multiple options
+- Real-time public opinion analysis and policy impact forecasting
+- Automate scheduling coordination and information synchronization for cross-departmental communication
+- A literature review on intelligent knowledge base acceleration policies
+- Automatically extract key appeals from public opinion using NLP
+
+**Human moat:**
+
+- Responsibility for high-level political judgment and sensitive decision-making
+- Ability to coordinate cross-departmental interests and mediate conflicts
+- Responding to impromptu media and public accountability
+- Strategic intuition and situational forecasting based on long-term experience
+- Value balancing and final decision amid ethical dilemmas
+
+**Skills to build:**
+
+- Data Analysis and Statistical Modeling (Python/R/SQL)
+- Policy simulation and scenario planning tools (such as system dynamics)
+- Natural Language Processing (NLP) is used for public opinion analysis
+- AI-assisted project management and decision support systems
+- Knowledge of digital transformation and digital government governance
+- Cross-departmental collaboration and stakeholder communication skills
+
+**Key growth areas:**
 
 - digitalization
 - public administration reform
@@ -61,64 +96,63 @@ Responsible for developing and implementing policies, strategies, and plans for 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适合高薪技术管理岗位，需大学学历和offer，薪资通常>4万欧元 |
-| Subclass Cuenta ajena（Work Permit (Employer Sponsorship)） | 雇主担保工作居留，需证明职位无法由本地人填补 |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for high-paying technical management roles, requires university degree and job offer, salary typically >EUR 40,000. |
+| Subclass Cuenta ajena (Work Permit (Employer Sponsorship)) | Employer-sponsored work residency requires proof that the position cannot be filled by a local resident |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified？**
-- 有公共政策或行政管理背景
-- 擅长战略分析和跨部门协调
-- 适应官僚系统及政治环境
-
-**谁不适合学Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified？**
-- 不喜欢行政事务和流程化工作
-- 缺乏长期职业规划耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in public policy or administrative management
+- Skilled in strategic analysis and cross-departmental coordination
+- Adapting to the bureaucratic system and political environment
+
+**Who is not suited**
+- Dislikes administrative tasks and procedural work
+- Lack of patience for long-term career planning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for policy directors in Spain?**
+A: Public sector entry-level about €35,000-$45,000, senior up to €90,000; private sector may be higher but competitive.
+
+**Q: Can foreigners immigrate to Spain through this position?**
+A: Yes, through the High-Skilled Professional Visa (Altamente cualificado) requires a university degree and meeting salary thresholds, or employer-sponsored work residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for policy directors in Spain?**
-答：Public sector entry-level around €35,000-45,000, senior up to €90,000; private sector can be higher but competitive.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Yes, via the Highly Skilled Professional visa (Altamente cualificado) requiring a degree and salary threshold, or employer-sponsored work permit.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

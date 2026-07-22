@@ -1,61 +1,95 @@
-# Content Creator (Marketing)（Content Creator (Marketing)）职业分析 · 澳大利亚
+# Content Creator (Marketing) — career analysis · Australia
 
-**职业代码：225114 – Content Creator (Marketing)。**
+**Occupation code: 225114 (ANZSCO)**
 
-Content Creators (Marketing) plan, produce, and distribute digital content including videos, blogs, and social media posts to boost brand awareness and engagement, blending creativity with data analysis.
+Content creators (marketing) are responsible for planning, producing, and distributing digital content (e.g., videos, blogs, social media posts) to enhance brand visibility and user engagement, requiring a mix of creativity and data analysis.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$50,000（传媒、市场营销或相关专业） |
-| 文凭课程 | 1-2年 | $15,000~$25,000（TAFE或私立学院数字营销课程） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Media, marketing, or related fields) |
+| Diploma course | 1-2 years | $15,000~$25,000 (TAFE or private college digital marketing courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 数字营销证书 | Digital Marketing Institute (DMI) | 可选 | 非强制，但提升竞争力 |
-| Google Analytics 认证 | Google | 可选 | 证明数据分析能力 |
-| 学士学位 | 澳洲大学 | 可选 | 通常需要相关领域学位 |
+| Digital Marketing Certificate | Digital Marketing Institute (DMI) | Optional | Not mandatory, but enhances competitiveness |
+| Google Analytics certification. | Google | Optional | Demonstrate data analysis skills |
+| Bachelor's degree | Australian universities | Optional | Usually requires a degree in a related field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。澳洲数字营销持续增长，企业对高质量内容需求旺盛。预计未来5年就业增长强劲，尤其在大城市和创意产业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Digital marketing continues to grow in Australia, with strong demand for high-quality content. Employment is expected to grow strongly over the next 5 years, especially in major cities and creative industries.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 内容专员或助理 |
-| 中级（3-6年） | $75,000~$95,000 | 内容策略师或高级专员 |
-| 高级（6年+） | $100,000~$130,000 | 内容总监或营销经理 |
+| Median salary | $101,764 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Content specialist or assistant |
+| Mid-level (3–6 years) | $75,000~$95,000 | Content strategist or senior specialist |
+| Senior (6+ years) | $100,000~$130,000 | Content Director or Marketing Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级内容专员晋升为高级内容策略师或营销经理；也可转向专业领域如短视频或SEO内容；部分创业者成立自己的内容工作室。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Content creators (marketing) are greatly enhanced by AI: automated drafting, optimised distribution, but strategic planning, brand tone control and deep creativity still rely on humans, shifting from executor to strategist.
+
+Can progress from junior content specialist to senior content strategist or marketing manager; also possible to move into specialized areas like short-form video or SEO content; some entrepreneurs start their own content studios.
+
+**Tasks most exposed to AI:**
+
+- Template-based social media post writing
+- Batch generation and A/B testing of advertising copy
+- Automated generation of basic data analysis reports
+- Simple editing and subtitling of video material
+
+**Where AI augments the role:**
+
+- AI-assisted content idea generation and brainstorming.
+- Automatically generate draft content, quickly optimized by humans
+- Analyse user feedback in real-time and adjust content strategy
+- Cross-platform content formatting and distribution automation
+- Use AI to predict content trends and hotspots.
+
+**Human moat:**
+
+- deep planning of brand story and emotional resonance
+- Creativity that blends cultural sensitivity and humour
+- Cross-channel strategy integration and long-term brand building
+- Ability to handle contentious content and crisis PR.
+- Complex communication and negotiation with teams and clients
+
+**Skills to build:**
+
+- Familiar with AI writing tools such as ChatGPT, Jasper
+- Data Analysis and Content Effectiveness Evaluation Skills
+- Basic video editing and AI video generation tools
+- Understanding of social media advertising delivery algorithms
+- Project management and cross-team collaboration skills
+
+**Key growth areas:**
 
 - Digital Marketing
 - Social Media
@@ -64,66 +98,68 @@ Content Creators (Marketing) plan, produce, and distribute digital content inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 若雇主任职，可申请482临时签证，但通常需职业在CSOL上，本职业不在核心清单 |
-| Subclass 190（Skilled Nominated Visa） | 州担保，但本职业不在MLTSSL，仅个别州可能提供担保 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区担保，可能性较低 |
+| Subclass 482 (Temporary Skill Shortage Visa) | If employed by a sponsor, you can apply for a 482 Temporary Visa, but the occupation usually needs to be on the CSOL; this occupation is not on the core list. |
+| Subclass 190 (Skilled Nominated Visa) | State sponsorship, but this occupation is not on the MLTSSL, only a few states may offer sponsorship |
+| Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, low possibility |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Content Creator (Marketing)？**
-- 具有创意和写作能力的人
-- 熟悉社交媒体和数字趋势的人
-- 愿意不断学习新工具和平台的人
+**Who is suited**
+- People with creativity and writing ability
+- Those familiar with social media and digital trends
+- Those willing to continuously learn new tools and platforms
 
-**谁不适合学Content Creator (Marketing)？**
-- 不擅长多任务处理和截止日期压力的人
-- 不喜欢数据分析或绩效跟踪的人
+**Who is not suited**
+- People who are not good at multitasking and meeting deadlines
+- People who dislike data analysis or performance tracking
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for content creators in Australia?**
+A: Entry-level: approx AUD 55,000-70,000/year, mid-level: AUD 75,000-95,000/year, senior: AUD 100,000-130,000/year, depending on experience and company.
+
+**Q: Can content creators migrate to Australia through skilled migration?**
+A: Difficult, as this occupation is not on the Core Skills Occupation List (CSOL) or MLTSSL, and generally cannot apply for 189 or 190 visas. A few states may offer DAMA or 494 regional sponsorship, but the threshold is high.
+
+**Q: What core skills do content creators need?**
+A: Requires copywriting, video production, social media management, basic SEO, data analysis skills, as well as creativity and project management skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Content Creator (Marketing)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Content Creator in Australia?**
-答：Entry-level around AUD 55,000-70,000, mid-level AUD 75,000-95,000, senior AUD 100,000-130,000 per year, depending on experience and employer.
-
-**问：Can a Content Creator migrate to Australia via skilled migration?**
-答：It's difficult as this occupation is not on the Core Skills Occupation List (CSOL) or MLTSSL, making 189/190 visas generally unavailable. Some DAMA or 494 regional sponsorship may exist but with high thresholds.
-
-**问：What core skills does a Content Creator need?**
-答：Skills in copywriting, video production, social media management, basic SEO, data analysis, creativity, and project management.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

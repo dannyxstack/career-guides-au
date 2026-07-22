@@ -1,59 +1,95 @@
-# Librarians（Librarians）职业分析 · UK
+# Librarians — career analysis · United Kingdom
 
-**职业代码：2471 – Librarians。**
+**Occupation code: 2471 (SOC)**
 
-Librarians appraise, acquire, index, collate and make available library acquisitions, and organize and control other library services, including information retrieval, reader advisory and digital resource management.
+Librarians evaluate, acquire, catalog, and organize library collections, and manage other library services including information retrieval, reader consultation, and digital resource management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$12,000（英国学生本科年学费） |
-| 硕士（图书信息学） | 1年 | $15,000~$25,000（国际生年学费） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (Annual Undergraduate Tuition Fees for International Students in the UK) |
+| Master's (Library and Information Science) | 1 year | $15,000~$25,000 (Annual tuition fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆学或信息管理学位 | 大学 | 必备 | 通常需要CILIP认证的本科或硕士学位 |
-| CILIP认证 | 英国图书馆与信息专业人员学会 | 可选 | 专业注册，非强制但受雇主青睐 |
-| DBS检查 | 披露与限制服务 | 必备 | 与儿童或弱势群体工作所需 |
+| Degree in library science or information management | University | Required | Usually requires CILIP-accredited bachelor's or master's degree |
+| DBS check | Disclosure and Barring Service | Required | Required for working with children or vulnerable groups |
+| CILIP certification | Chartered Institute of Library and Information Professionals | Optional | Professional registration, not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,000。英国图书馆行业面临数字化转型，公共图书馆预算缩减，但高校和研究机构对专业图书馆员仍有稳定需求。岗位竞争激烈，但具备数字技能和数据管理能力的候选人前景较好。
+**Job demand: medium (★★★☆☆).** National workforce approx. 13,000. The UK library industry faces digital transformation, with public library budgets shrinking, but universities and research institutions still have stable demand for professional librarians. Competition is intense, but candidates with digital skills and data management capabilities have better prospects.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公共图书馆或学校图书馆 |
-| 中级（3-7年） | $28,000~$38,000 | 高校或专业图书馆 |
-| 高级（7年以上） | $38,000~$55,000 | 图书馆馆长或高级管理职位 |
+| Median salary | $38,068 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Public library or school library |
+| Mid-level (3–7 years) | $28,000~$38,000 | University or special library |
+| Senior (7+ years) | $38,000~$55,000 | Library director or senior management positions |
+| average salary | $44,525 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 初级岗位如助理馆员，可晋升为高级馆员、部门主管、图书馆馆长；也可向数字图书馆、知识管理、档案管理等方向转型。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The role of librarians is being profoundly changed by AI: traditional tasks like cataloging and retrieval are rapidly automating, but jobs requiring interpersonal insight, such as user consultation and information literacy education, are expanding. Entry-level positions are narrowing due to reduced basic operations, but the librarian role is upgrading to data analysis and knowledge management, with mixed overall prospects.
+
+Entry-level roles like assistant librarian can lead to senior librarian, department head, library director; also transferable to digital libraries, knowledge management, archives management, etc.
+
+**Tasks most exposed to AI:**
+
+- Cataloging and classification: AI automatically generates metadata, reducing manual work
+- Literature search and delivery: users directly use AI search, diminishing the intermediary role of librarians
+- Basic reference inquiries: chatbots handle common questions, replacing junior librarians
+- Book lending, returning, and shelving: RFID and self-service equipment enable unmanned operations
+- Collection statistics and reporting: AI automatically generates data reports, reducing manual aggregation
+
+**Where AI augments the role:**
+
+- In-depth reference consultation: after AI provides preliminary results, librarians give precise interpretation and recommendations
+- Information literacy education: design interactive courses using AI tools to improve teaching effectiveness
+- Digital collection management: AI-assisted image recognition, OCR; librarians handle strategy and quality control
+- Research data management: using AI tools to analyze data and provide customized support for researchers
+- Community needs analysis: use AI to mine user behavior data, optimize collection and service design
+
+**Human moat:**
+
+- Complex client inquiries: involve privacy, emotions, cross-cultural issues, requiring empathy and judgment
+- Information Literacy Instruction Design: Requires Understanding of Cognitive Processes, Not Just Technical Operations
+- Collection strategic planning: making value judgments based on community development goals
+- Copyright and license management: requires legal knowledge and ethical decision-making
+- Cross-departmental collaboration and innovation: coordinating resources, driving open knowledge projects.
+
+**Skills to build:**
+
+- Data analysis (Python/SQL) and data visualization
+- AI prompt engineering and generative AI tool application
+- Digital asset management (including metadata standards)
+- Instructional design for information literacy and critical thinking
+- Project management and cross-team communication skills
+- Basic programming and system administration (e.g., ILS, Voyager)
+
+**Key growth areas:**
 
 - Digital transformation
 - Data management
@@ -62,68 +98,67 @@ Librarians appraise, acquire, index, collate and make available library acquisit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的图书管理员职位，需满足薪资和技能要求。 |
-| Subclass Graduate（Graduate Visa） | 适用于英国高校毕业生，可在完成学业后在英工作2年（博士3年）。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在数字文化或学术领域有杰出成就的图书馆员，需获得认可。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable for employer-sponsored librarian positions, meeting salary and skill requirements. |
+| Subclass Graduate (Graduate Visa) | Applicable to UK university graduates, allowing them to work in the UK for 2 years (3 years for PhD) after completing their studies. |
+| Subclass Global Talent (Global Talent Visa) | Suitable for librarians with outstanding achievements in digital culture or academia, subject to recognition. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Librarians？**
-- 热爱阅读和信息组织的人
-- 具备沟通能力和服务意识的人
-- 对数字技术感兴趣并愿意学习新工具的人
-
-**谁不适合学Librarians？**
-- 不喜欢规律性文书工作的人
-- 寻求高薪快速回报的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love reading and organizing information.
+- People with communication skills and service awareness
+- People interested in digital technologies and willing to learn new tools
+
+**Who is not suited**
+- People who dislike routine clerical work
+- Those seeking high pay and quick returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a librarian in the UK?**
+A: Entry-level about £22,000-28,000, mid-level £28,000-38,000, senior £38,000-55,000.
+
+**Q: Can a librarian immigrate to the UK on a skilled worker visa?**
+A: Yes, librarians are on the eligible occupation list, but employer sponsorship and meeting salary requirements are necessary.
+
+**Q: How difficult is it for a librarian to get PR in the UK?**
+A: Working on a Skilled Worker visa for 5 years allows application for permanent residency; moderate difficulty, must meet salary and residence requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Librarians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for librarians in the UK?**
-答：Entry-level: £22,000-£28,000; Mid-level: £28,000-£38,000; Senior: £38,000-£55,000.
-
-**问：Can librarians migrate to the UK via a Skilled Worker visa?**
-答：Yes, librarians are on the eligible occupation list, but require employer sponsorship and meeting salary thresholds.
-
-**问：How difficult is it for librarians to get PR in the UK?**
-答：After 5 years on a Skilled Worker visa, you can apply for ILR; moderate difficulty, subject to salary and residency requirements.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

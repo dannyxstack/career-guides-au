@@ -1,60 +1,94 @@
-# Agricultural Technicians（Agricultural Technicians）职业分析 · 美国
+# Agricultural Technicians — career analysis · United States
 
-**职业代码：19-4012 – Agricultural Technicians。**
+**Occupation code: 19-4012 (SOC)**
 
-Work with agricultural scientists in plant, fiber, and animal research, assist with animal breeding and nutrition, maintain lab equipment, collect samples, and record data to support biological experiments.
+Assist agricultural scientists in plant, fiber, and animal research, including animal breeding and nutrition. Responsible for setting up or maintaining laboratory equipment, collecting crop or animal samples, preparing specimens, and recording data to support biological or related life science experiments.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费较低） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学费用） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition is lower) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业技术员证书 | 各州农业部门 | 可选 | 某些州要求 |
-| 农药施用执照 | 州环境保护局 | 可选 | 若涉及农药使用 |
+| agricultural technician certificate | State departments of agriculture | Optional | Required in some states |
+| Pesticide Application License | State Environmental Protection Agency. | Optional | If involving pesticide use |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 21,000。美国农业技术员就业预计增长2%左右（2023-2033），略低于平均水平。受自动化影响，部分传统岗位减少，但有机农业和精准农业领域仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 21,000. US agricultural technician employment is projected to grow about 2% (2023-2033), slightly below average. Affected by automation, some traditional jobs decrease, but demand remains in organic farming and precision agriculture.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 通常需要副学士学位 |
-| 中级（3-7年） | $40,000~$55,000 | 有经验的技术员 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或专家角色 |
+| Median salary | $49,630 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Typically requires an associate degree |
+| Mid-level (3–7 years) | $40,000~$55,000 | Experienced technician |
+| Senior (7+ years) | $55,000~$70,000 | Supervisor or Specialist Role |
+| average salary | $53,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级技术员可晋升为高级技术员或实验室主管，进一步可转向农业科学家岗位，但需硕士或博士学位。也可进入农业企业管理或咨询领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
+
+Junior technicians can advance to senior technicians or lab supervisors, and further move into agricultural scientist roles, but this requires a master's or doctoral degree. Alternatively, they can enter agricultural business management or consulting.
+
+**Tasks most exposed to AI:**
+
+- Routine crop health monitoring and data collection via drones and remote sensing
+- Generate standardized planting and fertilization plans based on historical data and models
+- Scheduling and adjustment of automated irrigation systems
+- Standard Pest and Disease Identification and Basic Control Recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyse multi-source data such as soil sensors and satellite imagery to optimise irrigation and fertilisation decisions
+- Using predictive models to provide early warning of pests, diseases, and weather risks, and formulate precise intervention plans
+- Using intelligent decision support systems to simulate different planting strategies, improving yield and sustainability
+- Crop growth full-cycle simulation and management using digital twin technology
+
+**Human moat:**
+
+- Hands-on Operations like On-site Soil Sampling, Equipment Repair, and Emergency Response
+- Interpersonal communication and collaboration with farmers, local governments, and research institutions
+- Strategic planting planning integrating multiple factors (market, regulations, ecology)
+- Flexible judgment and problem-solving for non-standard, sudden farm issues
+- Sustainable agriculture, organic certification, etc., requiring expert manual review for professional judgment
+
+**Skills to build:**
+
+- Precision agriculture technology (drone operation, GPS navigation, variable rate fertilization)
+- Agricultural data analysis and visualization (Python/R, GIS)
+- Smart irrigation and IoT platform management
+- Agricultural AI tools (crop models, prediction algorithms)
+- Sustainable agriculture practices and carbon accounting
+- Project management and farm advisory communication skills
+
+**Key growth areas:**
 
 - Precision Agriculture
 - Organic Farming
@@ -63,65 +97,67 @@ Work with agricultural scientists in plant, fiber, and animal research, assist w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要学士学位，但农业技术员职位可能不符合专业职业要求，申请困难。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，雇主担保，但该类职位通常不被视为技术性工作，路径狭窄。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree, but agricultural technician positions may not meet professional occupation requirements, making applications difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification and employer sponsorship, but such positions are often not considered skilled, making the path narrow. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Agricultural Technicians？**
-- 对农业科学有热情的人
-- 动手能力强、喜欢户外工作的人
-- 愿意在偏远地区工作的人
+**Who is suited**
+- Passionate about agricultural science
+- People who are hands-on and enjoy outdoor work.
+- People willing to work in remote areas.
 
-**谁不适合学Agricultural Technicians？**
-- 追求高薪职业的人
-- 不喜欢体力劳动和田间工作的人
+**Who is not suited**
+- People pursuing high-paying careers
+- Those who dislike physical labor and field work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for agricultural technicians?**
+A: Entry-level annual salary about USD 30,000-40,000, senior up to 55,000-70,000, below US average.
+
+**Q: Is it easy for agricultural technicians to immigrate to the US?**
+A: Difficult. This occupation usually does not meet H-1B professional occupation requirements, and EB-3 green cards also require employer sponsorship with the position not considered skilled, so the path is narrow.
+
+**Q: What qualifications are required?**
+A: Usually requires an associate degree, some positions accept high school diploma plus experience. Bachelor's degree helps with advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Agricultural Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an agricultural technician?**
-答：Entry-level annual salary is about $30,000-$40,000, senior can reach $55,000-$70,000, below US average.
-
-**问：Is it easy to immigrate as an agricultural technician?**
-答：Difficult. The occupation rarely qualifies for H-1B, EB-3 green card requires employer sponsorship but job is not considered skilled, limited path.
-
-**问：What education is required?**
-答：Typically an associate degree; some positions accept high school diploma plus experience. Bachelor's degree helps advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

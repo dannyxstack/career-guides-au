@@ -1,61 +1,96 @@
-# Firefighter（Firefighter）职业分析 · NL
+# Firefighter — career analysis · Netherlands
 
-**职业代码：5411 – Firefighter。**
+**Occupation code: 5411 (ISCO08)**
 
-Firefighters extinguish fires, perform emergency rescues, handle hazardous materials incidents, and conduct fire prevention education and inspections. In the Netherlands, most firefighters are volunteers (vrijwilliger), with full-time positions mainly in urban areas.
+Firefighters are responsible for extinguishing fires, performing emergency rescue missions, handling hazardous materials incidents, and conducting fire prevention publicity and inspections. In the Netherlands, most firefighters are part-time (Dutch: vrijwilliger), with full-time positions mainly in urban areas.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1年（MBO级别） | —（荷兰公共安全学院（NIPV）的消防培训通常由雇主资助） |
-| 本科 | 4年（相关领域） | —（非必需，但安全科学或应急管理学士可加分） |
+| Vocational training | 1 year (MBO level) | $0~$0 (Firefighting training at the Netherlands Institute for Public Safety (NIPV) is usually employer-funded.) |
+| Bachelor's degree | 4 years (in a related field) | $0~$0 (Not required, but a bachelor's degree in safety science or emergency management is a plus) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 消防员基础资格证 | 荷兰公共安全学院（NIPV） | 必备 | 包含理论考试与实操考核，必须完成 |
-| 急救证书 | 荷兰红十字会等 | 必备 | 需持有有效的急救证书 |
-| 驾驶执照（C类） | 荷兰车辆管理局（RDW） | 必备 | 驾驶消防车所需 |
+| Basic Firefighter Qualification | Netherlands Institute for Public Safety (NIPV) | Required | Includes theoretical exam and practical assessment, must be completed |
+| First aid certificate | Dutch Red Cross, etc. | Required | Must hold a valid first aid certificate |
+| Driver's License (Class C) | Netherlands Vehicle Authority (RDW) | Required | Required for driving fire trucks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 27,500。荷兰消防员就业稳定，因人口增长和建筑密集化，城市对专业消防员需求持续。但整体岗位数量有限，竞争激烈；兼职消防员更常见。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 27,500. Firefighter employment in the Netherlands is stable due to population growth and building densification, with sustained demand for professional firefighters in cities. However, overall job numbers are limited and competition is fierce; part-time firefighters are more common.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $36,000~$41,000 | 税前年薪，含加班和危险津贴 |
-| 中级（3-10年） | $41,000~$50,000 | 税前年薪，取决于经验与地区 |
-| 高级（10年以上/指挥官） | $50,000~$65,000 | 税前年薪，含管理职责津贴 |
+| Median salary | $45,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $36,000~$41,000 | Annual salary before tax, including overtime and hazardous duty allowance |
+| Intermediate (3-10 years) | $41,000~$50,000 | Annual pre-tax salary, depending on experience and region |
+| Senior (10 years or more / Commander) | $50,000~$65,000 | Gross annual salary, including management duty allowance. |
+| average salary | $47,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径：从初级消防员逐步晋升为消防队队长（Brandmeester）、高级指挥官（Hoofdcommandant）或技术专家（如危险品处理）。需通过持续培训和考试。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a relatively small impact on firefighter roles but will significantly enhance their emergency response, risk prediction, and decision support capabilities, making it a profession 'amplified by AI'. AI-assisted dispatch, drone reconnaissance, and smart monitoring will improve efficiency, but on-site firefighting and rescue still require human judgment and physical strength.
+
+Career path: from junior firefighter to fire brigade commander (Brandmeester), senior commander (Hoofdcommandant), or technical specialist (e.g., hazardous materials handling). Requires ongoing training and exams.
+
+**Tasks most exposed to AI:**
+
+- Fire call answering and initial classification (AI voice system automatically identifies address, fire description)
+- Fire equipment inventory recording and maintenance reminders (IoT automatically monitors equipment status and generates work orders)
+- Preliminary data analysis of fire causes (AI rapid inference based on site photos and sensor data)
+- Daily training plan development (AI automatically generates personalized plans based on team members' physical data)
+
+**Where AI augments the role:**
+
+- AI-assisted dispatch system analyzes fire location, traffic, and water sources in real time to optimize firefighters' response routes
+- Drones and robots cooperate to enter dangerous areas for reconnaissance, providing real-time thermal imaging and toxic gas data to commanders.
+- AI fire spread models predict fire direction, assisting in developing suppression strategies
+- Wearable devices monitor firefighters' vital signs; AI warns of over-fatigue and hazardous environments
+- VR/AR training systems simulate real fire scenes to improve recruit training effectiveness.
+
+**Human moat:**
+
+- Make real-time decisions based on unpredictable situations in a fire, such as building collapse or changes in trapped persons' locations
+- Direct communication with trapped individuals, calming emotions, and guiding rescue requires human empathy and communication skills
+- Performing high-intensity physical tasks and precision operations in extreme heat, toxic fumes, and similar environments.
+- Assume legal and ethical responsibility, and be accountable for the safety of the incident commander and team
+- Social Trust and Emotional Value: Firefighters as public safety symbols, with high emotional dependency from the public.
+
+**Skills to build:**
+
+- Drone operation and data interpretation (e.g., thermal imaging, toxic gas identification)
+- Basic data analysis and visualization (interpreting AI-generated fire spread models)
+- AI-assisted scheduling system operation and use of decision support tools during emergencies
+- Physical fitness enhancement training and stress management (adapted to high-intensity scenarios retained after AI reduces workload)
+- Emergency medical skills (e.g., bleeding control, CPR, with AI remote guidance)
+- Digital communication and cross-sector collaboration (real-time information sharing with police and hospitals using AI platforms)
+
+**Key growth areas:**
 
 - Volunteer recruitment
 - Urban firefighting
@@ -64,66 +99,68 @@ Firefighters extinguish fires, perform emergency rescues, handle hazardous mater
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于消防员职业，但需雇主担保且满足薪资门槛（2025年约€5,008/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工人，但消防员通常不符合高技能定义 |
-| Subclass Orientation Year（Orientation Year (Oriëntatiejaar)） | 荷兰毕业留学生可申请，寻找消防员工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to firefighters, but requires employer sponsorship and meeting salary threshold (approx. €5,008/month in 2025) |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for non-EU high-skilled workers, but firefighters typically do not meet the high-skilled definition |
+| Subclass Orientation Year (Orientation Year (Oriëntatiejaar)) | Dutch graduate students can apply, looking for firefighter jobs. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Firefighter？**
-- 身体健康、心理素质过硬，能在高压环境下冷静决策的人
-- 喜欢团队合作、乐于助人，能胜任轮班和不定期加班
-- 愿意接受持续培训，注重预防和公共安全
+**Who is suited**
+- People who are physically healthy, mentally resilient, and can make calm decisions under high pressure
+- Enjoys teamwork, helping others, and is capable of shift work and irregular overtime
+- Willing to undergo continuous training, focusing on prevention and public safety
 
-**谁不适合学Firefighter？**
-- 不愿从事危险或体力消耗大的工作，恐高或易紧张
-- 不擅长团队协作，习惯固定工作时间和地点
+**Who is not suited**
+- Unwilling to engage in dangerous or physically demanding work, fear of heights or prone to stress
+- Not good at teamwork, accustomed to fixed working hours and location
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of firefighters in the Netherlands?**
+A: Pre-tax annual salary for junior firefighters approx €36,000-41,000, mid-level approx €41,000-50,000, senior commanders up to €50,000-65,000. Salary includes danger pay and overtime. Part-time firefighters are paid hourly.
+
+**Q: Can foreigners become firefighters in the Netherlands?**
+A: Yes, but difficult for non-EU citizens as employer sponsorship is required and the high-skilled migration salary threshold (approx. €60,000/year) must be met. Most firefighter positions require fluency in Dutch (at least B2), and qualifications need to be converted in the Netherlands.
+
+**Q: What training is needed to become a firefighter in the Netherlands?**
+A: Must complete basic firefighter training at the Netherlands Institute for Public Safety (NIPV), including theory and practice, usually lasting one year. Also requires a first aid certificate and a C-class driver's license. Training costs are typically covered by the employer or fire department.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Firefighter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of firefighters in the Netherlands?**
-答：Entry-level firefighters earn €36,000-€41,000 gross per year, mid-level €41,000-€50,000, and senior commanders up to €50,000-€65,000. Salaries include hazard pay and overtime. Volunteer firefighters are paid hourly.
-
-**问：Can foreigners become firefighters in the Netherlands?**
-答：Yes, but it is difficult for non-EU citizens as employer sponsorship is required and the Highly Skilled Migrant salary threshold (approx. €60,000/year) must be met. Most positions require fluent Dutch (at least B2) and certification conversion.
-
-**问：What training is required to become a firefighter in the Netherlands?**
-答：You must complete the basic firefighter training at the Netherlands Institute for Public Safety (NIPV), which includes theory and practice and lasts about one year. You also need a first aid certificate and a category C driving license. Training costs are usually covered by the employer or fire service.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

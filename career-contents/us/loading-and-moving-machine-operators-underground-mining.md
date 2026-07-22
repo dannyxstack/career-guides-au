@@ -1,61 +1,92 @@
-# Loading and Moving Machine Operators, Underground Mining（Loading and Moving Machine Operators, Underground Mining）职业分析 · 美国
+# Loading and Moving Machine Operators, Underground Mining — career analysis · United States
 
-**职业代码：47-5044 – Loading and Moving Machine Operators, Underground Mining。**
+**Occupation code: 47-5044 (SOC)**
 
-Operate underground loading or moving machinery to load and transport ore or rock using shuttle cars, mine cars, or conveyors in mining shafts.
+Operate underground loading or mobile machinery, using shuttle cars, mine cars, or conveyors to load and transport ore or rock in mines.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常无需正式教育） |
-| 在职培训 | 1-2年 | $1,000~$5,000（通过学徒或公司培训获得技能） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no formal education required) |
+| On-the-job training | 1-2 years | $1,000~$5,000 (Acquire skills through apprenticeship or company training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MSHA 安全证书 | 美国矿山安全与健康管理局 | 必备 | 所有采矿从业人员必须持有 |
-| 商业驾驶执照（CDL） | 州机动车管理局 | 可选 | 部分重型设备操作需要 |
-| 高中文凭或同等学历 | 高中或GED | 可选 | 多数雇主偏好 |
+| MSHA safety certificate | U.S. Mine Safety and Health Administration | Required | Required for all mining professionals |
+| Commercial Driver's License (CDL) | State motor vehicle department | Optional | Required for some heavy equipment operations |
+| High school diploma or equivalent | High school diploma or GED | Optional | Preferred by most employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,900。美国采矿行业自动化趋势可能降低对操作员的需求，但老旧矿场的替换需求仍可提供一定就业机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,900. Automation trends in the U.S. mining industry may reduce demand for operators, but replacement needs in older mines can still provide some employment opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 时薪约18-23美元 |
-| 中级（3-7年） | $48,000~$62,000 | 时薪约23-30美元 |
-| 高级（7年以上） | $60,000~$78,000 | 时薪约29-38美元 |
+| Median salary | $74,500 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Hourly wage approx. 18-23 USD |
+| Mid-level (3–7 years) | $48,000~$62,000 | Hourly wage approximately US$23-30 |
+| Senior (7+ years) | $60,000~$78,000 | Hourly wage approximately 29-38 USD |
+| average salary | $71,240 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可晋升为采矿设备主管或矿山运营经理，也可通过额外培训转岗为采矿技术员或爆破人员。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Many repetitive, programmable tasks of underground mining load unit operators will be taken over by automated systems, leading to significant job reduction, but full replacement will take time.
+
+Can advance to mining equipment supervisor or mine operations manager, or transfer to mining technician or blaster through additional training.
+
+**Tasks most exposed to AI:**
+
+- Automatic driving and navigation of shuttle cars or mine carts
+- Automated loading operations for ore using automation
+- Sensor-based real-time monitoring and fault alerts
+- routine transportation route planning and scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted remote operation and anomaly handling
+- Predictive maintenance system analyzes equipment status
+- Mine environmental safety monitoring and early warning
+- Coordinated scheduling between automation systems and human operators
+
+**Human moat:**
+
+- Emergency judgment and handling in complex underground environments
+- Rapid repair capability during automated system failures
+- Efficient communication and coordination with ground control center
+
+**Skills to build:**
+
+- Operation and maintenance of automated control systems
+- Data analysis and diagnostic tool usage
+- Remote monitoring technology
+- Safety regulations and emergency response
+- Basic mechatronics repair
+
+**Key growth areas:**
 
 - Automation
 - Mining Technology
@@ -64,65 +95,67 @@ Operate underground loading or moving machinery to load and transport ore or roc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 临时非农业工人签证，适用于季节性采矿需求，但需雇主证明劳工短缺 |
-| Subclass EB-3（EB-3 Skilled Workers, Professionals, and Other Workers） | 职业移民第三优先，但雇主担保困难，劳工证PERM需证明无合格美国工人 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural worker visa for seasonal mining needs, but employers must prove labor shortage |
+| Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Employment-based immigration third preference, but employer sponsorship is difficult; PERM labor certification must show no qualified US workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Loading and Moving Machine Operators, Underground Mining？**
-- 适应地下封闭环境者
-- 体力充沛且注重安全者
-- 愿意从事偏远地区工作的人
+**Who is suited**
+- People who can adapt to enclosed underground environments
+- Physically energetic and safety-conscious individuals
+- People willing to work in remote areas
 
-**谁不适合学Loading and Moving Machine Operators, Underground Mining？**
-- 有幽闭恐惧症者
-- 不愿从事高强度体力劳动的人
+**Who is not suited**
+- Those with claustrophobia
+- Those unwilling to perform high-intensity physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average hourly wage for this occupation?**
+A: According to BLS data, the average hourly wage in 2022 was about $25, and annual income about $52,000.
+
+**Q: Can foreign workers come to the US for this job on an H-1B visa?**
+A: Very difficult. H-1B requires a professional occupation, typically a bachelor's degree, while this occupation usually only needs a high school diploma; H-2B temporary visa is more likely.
+
+**Q: What is the career progression path for this occupation?**
+A: Operators can advance to mining equipment supervisor or mine operations manager, or transition to mining technician, blaster, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Loading and Moving Machine Operators, Underground Mining属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for this occupation?**
-答：According to BLS, the average hourly wage was about $25 in 2022, with annual earnings around $52,000.
-
-**问：Can foreign workers come to the US for this job via H-1B visa?**
-答：It's difficult. H-1B requires a specialty occupation with a bachelor's degree, while this job typically requires only high school. H-2B temporary visa is more likely.
-
-**问：What is the career progression for this occupation?**
-答：Operators can advance to mining equipment supervisors or mine operations managers, or transition to roles like mining technician or blaster.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,91 @@
-# Social Work Associate Professional（Social Work Associate Professional）职业分析 · IT
+# Social Work Associate Professional — career analysis · Italy
 
-**职业代码：3412 – Social Work Associate Professional。**
+**Occupation code: 3412 (ISCO08)**
 
-Assist social workers in delivering community services, family support, and implementing social welfare programs, typically employed in public agencies and non-profit organizations.
+Assists social workers in providing community services, family support, and implementing social welfare programs, commonly found in public agencies and non-profit organizations.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业技术教育（ITS） | 2年 | $1,000~$4,000（公立ITS学费较低，部分地区免费） |
-| 本科学位（社会工作类） | 3年 | $500~$3,000（公立大学学费基于家庭收入） |
+| Higher Vocational Technical Education (ITS) | 2 years | $1,000~$4,000 (Public ITS have low tuition fees; some regions are free of charge) |
+| Bachelor's degree (Social Work) | 3 years | $500~$3,000 (Public university tuition fees based on household income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册社会工作者（Assistente Sociale） | 国家社会工作委员会（CNAS） | 必备 | 必须通过国家考试并注册才能执业 |
-| 社会工作助理文凭 | 地区认证培训机构 | 可选 | 部分岗位要求完成特定培训课程 |
+| Registered Social Worker (Assistente Sociale) | National Council of Social Work (CNAS) | Required | Must pass national examination and be registered to practice |
+| Diploma in Social Work Assistant | Regional Accredited Training Organization | Optional | Some positions require completion of specific training courses. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利老龄化加剧及移民融合需求持续，该职业需求稳定。公共部门招聘受财政约束，但非营利领域增长缓慢。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. Demand for this occupation is stable due to Italy's aging population and ongoing integration needs of immigrants. Public sector hiring is constrained by fiscal limits, while non-profit sector growth is slow.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 公共部门起薪较低，非营利组织可能更低 |
-| 中级（3-7年） | $24,000~$32,000 | 经验增加后薪资缓慢增长 |
-| 高级（7年以上） | $32,000~$40,000 | 管理或专业岗位上限，私立机构可能略高 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Lower starting salaries in the public sector, potentially lower in non-profit organisations |
+| Mid-level (3–7 years) | $24,000~$32,000 | Slow salary growth after gaining experience |
+| Senior (7+ years) | $32,000~$40,000 | Management or professional role ceiling, may be slightly higher in private institutions |
+| average salary | $28,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理晋升至社会工作者（需本科及以上学历），或转向项目管理、政策研究等高级职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on social work assistants is mixed: clerical work and data analysis are automated, but interpersonal communication and direct service skills remain irreplaceable, with job responsibilities focusing more on human care.
+
+Can advance from assistant to social worker (requires bachelor's degree or higher), or move into senior roles like project management or policy research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate case reports and standardized documents
+- Use models like ChatGPT for initial requirement screening and information organization
+- Automated data entry, scheduling, and resource allocation
+- Preliminary assessment and recommended options based on historical data
+
+**Where AI augments the role:**
+
+- Use AI tools to analyze community needs data and develop more precise service plans
+- Using NLP technology to process large volumes of feedback, quickly identifying high-risk cases
+- Remotely monitor and track client progress through digital platforms
+- Using AI translation tools to serve multilingual communities
+
+**Human moat:**
+
+- On-site interpersonal communication and emotional support skills
+- Ethical judgment and crisis intervention in complex situations
+- Build trust and personalized care
+
+**Skills to build:**
+
+- Data analysis and data visualization
+- Use of AI-assisted tools (e.g., ChatGPT, Power BI)
+- Digital platform management and remote collaboration skills.
+- Cross-cultural communication and multilingual ability
+- Ethical decision-making and critical thinking
+
+**Key growth areas:**
 
 - Aging population
 - Migration integration
@@ -63,69 +94,68 @@ Assist social workers in delivering community services, family support, and impl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适合高技能工作者，需大学学历和符合薪资门槛（2024年约€29,324）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额签证，适用于非欧盟工人，需雇主担保，社工类配额有限。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，需雇主向移民局申请，审核后获得居留许可。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Suitable for high-skilled workers, requiring a university degree and meeting the salary threshold (approximately €29,324 in 2024). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota visa for non-EU workers, requires employer sponsorship; limited quota for social worker roles. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, requiring the employer to apply to the immigration department, and after review, obtain a residence permit. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Work Associate Professional？**
-- 对社会服务有热情，愿意从事基层社区工作
-- 具备耐心、同理心和沟通能力
-- 接受中等收入但稳定工作环境的人
-
-**谁不适合学Social Work Associate Professional？**
-- 追求高薪或快速晋升者
-- 无法应对文书工作和行政压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about social services, willing to engage in grassroots community work
+- Possess patience, empathy, and communication skills
+- Suitable for those who accept a moderate income but stable work environment
+
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Individuals who cannot cope with paperwork and administrative pressure.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social work assistants in Italy?**
+A: Entry-level annual salary is about 18,000-24,000 euros, senior can reach 40,000 euros, but generally below the EU average.
+
+**Q: How can non-EU citizens obtain a social worker work visa in Italy?**
+A: Main pathways include the EU Blue Card (requires university degree and salary threshold) and the Decreto Flussi quota work visa (requires employer sponsorship). Registration as a certified social worker is mandatory.
+
+**Q: Is the competition for social work assistant jobs in Italy fierce?**
+A: Moderate competition. Public sector roles are limited, competition in non-profit organizations is moderate, but language proficiency (Italian) is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Social Work Associate Professional为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for social work associate professionals in Italy?**
-答：Entry-level annual salary is about €18,000-24,000, senior up to €40,000, but generally below EU average.
-
-**问：How can non-EU citizens obtain a work visa for social work in Italy?**
-答：Main routes are EU Blue Card (requires degree and salary threshold) and Decreto Flussi quota work visa (employer sponsorship). Registration as a social worker is mandatory.
-
-**问：Is competition high for social work associate jobs in Italy?**
-答：Moderate. Limited public sector positions, moderate competition in non-profits, but Italian language proficiency is key.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

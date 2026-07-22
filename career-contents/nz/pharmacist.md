@@ -1,59 +1,95 @@
-# Pharmacist（Pharmacist）职业分析 · 新西兰
+# Pharmacist — career analysis · New Zealand
 
-**职业代码：251511 – Pharmacist。**
+**Occupation code: 251511 (ANZSCO)**
 
-Registered pharmacists dispense medications, provide drug consultations, and manage therapy in community pharmacies, hospitals, and aged care. Facing nationwide shortage, high demand, and eligible for Green List Tier 1 direct residence pathway.
+New Zealand registered pharmacists dispense medications and provide medication advice in community pharmacies, hospitals, aged care facilities, etc. Currently facing national shortage, high demand, eligible for Green List direct residence pathway, clear immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（药学学士） | 4年 | $15,000~$40,000（奥克兰大学等国际生年学费约3-4万NZD，本地生约1-1.5万NZD） |
-| 研究生（药学硕士或PGDip） | 1-2年 | $20,000~$50,000（国际生年学费约3-5万NZD，本地生约2-2.5万NZD） |
+| Bachelor's degree (Bachelor of Pharmacy) | 4 years | $15,000~$40,000 (International student tuition at University of Auckland etc. approx. $30k-$40k NZD/year; domestic approx. $10k-$15k NZD/year) |
+| Postgraduate (Master of Pharmacy or PGDip) | 1-2 years | $20,000~$50,000 (International students pay annual tuition of around NZD 30,000-50,000, while domestic students pay about NZD 20,000-25,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰药剂师注册（需完成药学学位并通过考试） | Pharmacy Council of New Zealand | 必备 | 海外学历需经评估，完成Internship和APS考试（含笔试与口试） |
-| APS考试（澳大利亚与新西兰药剂师考试） | Australian Pharmacy Examining Committee (APEC) / Pharmacy Council | 必备 | 适用于海外药剂师，分为Stage 1笔试和Stage 2口试 |
-| 雅思总分7.0（单项不低于7.0） | IELTS / OET | 必备 | 注册要求英语能力，OET各B等级也可接受 |
+| New Zealand Pharmacist Registration (requires completion of a pharmacy degree and passing exams) | Pharmacy Council of New Zealand | Required | Overseas qualifications need assessment, complete Internship and APS exam (including written and oral) |
+| APS Examination (Australian and New Zealand Pharmacist Examination) | Australian Pharmacy Examining Committee (APEC) / Pharmacy Council | Required | Applicable for overseas pharmacists, includes Stage 1 written exam and Stage 2 oral exam |
+| IELTS overall 7.0 (no band below 7.0) | IELTS / OET | Required | Registration requires English proficiency, OET with B in each component is accepted |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 3,500。新西兰药剂师长期短缺，尤其偏远地区缺口大。老龄化人口推动需求上升，药学服务扩展（如疫苗、慢性病管理）带来新岗位。未来十年就业增长强劲，失业率极低。
+**Job demand: very high (★★★★½).** National workforce approx. 3,500. New Zealand faces a long-term shortage of pharmacists, especially in remote areas. An aging population drives demand, while expanded pharmacy services (e.g., vaccines, chronic disease management) create new roles. Employment growth is strong over the next decade with very low unemployment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 社区药房与医院初级岗位 |
-| 中级（3-6年） | $75,000~$95,000 | 临床药师或药房经理 |
-| 高级（6年以上） | $95,000~$120,000 | 高级临床药师或药房主管，偏远地区可达14万NZD |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$75,000 | Entry-level positions in community pharmacies and hospitals. |
+| Mid-level (3–6 years) | $75,000~$95,000 | Clinical Pharmacist or Pharmacy Manager |
+| Senior (6+ years) | $95,000~$120,000 | Senior clinical pharmacist or pharmacy manager, up to NZD 140k in remote areas. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初期担任配药药剂师，积累2-3年经验后可升为临床药师或药房经理。进一步可专攻肿瘤、老年护理等领域，或进入医药企业从事法规事务、药物警戒等职位。执业药师可独立开办药房。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
+
+Start as a dispensing pharmacist, after 2-3 years can become clinical pharmacist or pharmacy manager. Further specialize in oncology, geriatric care, or move into pharmaceutical companies for regulatory affairs, pharmacovigilance. Licensed pharmacists can independently open pharmacies.
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks
+- Standardized drug dispensing and dose calculation
+- Inventory management and automatic replenishment
+- Drug information retrieval and simple medication consultation
+- Automatic bill reconciliation with insurance systems
+
+**Where AI augments the role:**
+
+- Use AI to predict individual drug responses and adverse reaction risks
+- Personalized medication regimen optimization based on clinical data
+- Smart triage and remote patient medication follow-up
+- Improved Vaccine Management and Promotion Efficiency
+- Pharmacoeconomic analysis and real-world evidence generation
+
+**Human moat:**
+
+- Medication management and clinical decision-making for complex cases.
+- Face-to-face patient consultation and medication adherence intervention
+- Coordination and communication within multidisciplinary healthcare teams
+- Ethical decision-making and pharmaceutical legal compliance judgment
+- Patient education on emerging therapies (e.g., gene therapy)
+
+**Skills to build:**
+
+- AI-driven clinical decision support system operation
+- Pharmacogenomics and precision medication analysis
+- Telemedicine and digital health tool application
+- Statistical data analysis and real-world research skills
+- Medical ethics and privacy protection compliance knowledge
+- Vaccine management and public health skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Registered pharmacists dispense medications, provide drug consultations, and man
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence - Pharmacist） | 注册药剂师在绿色清单Tier 1上，持有认证雇主工作或已获得药剂师注册，可直接申请居留，无需等待2年 |
-| Subclass SMC（Skilled Migrant Category） | 凭药剂师职业可申请技术移民，6分制下学历+工作经验+收入可累计积分，通常硕士学历加6分即可 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为过渡签证，获得认证雇主offer后可申请，工作满2年可衔接居留路径 |
+| Subclass Green List T1 (Straight to Residence - Pharmacist) | Registered pharmacists are on the Green List Tier 1; with accredited employer work or pharmacist registration, can directly apply for residence without waiting 2 years |
+| Subclass SMC (Skilled Migrant Category) | Pharmacists can apply for skilled migration under the 6-point system, accumulating points through qualifications + work experience + income; usually a master's degree gives 6 points |
+| Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa, can be applied for with an approved employer offer; after 2 years of work, can lead to residency pathway. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacist？**
-- 细心严谨、对药物学和患者咨询有热情的人
-- 愿意在社区或偏远地区服务、寻求稳定移民路径的人
-- 具有良好沟通能力和跨文化适应能力的人
-
-**谁不适合学Pharmacist？**
-- 难以承受长时间站立、高压力工作环境的人
-- 不喜欢反复考试和持续学习新药知识的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are meticulous, diligent, and passionate about pharmacology and patient counseling
+- Individuals willing to serve in community or remote areas, seeking stable migration pathways
+- People with good communication skills and cross-cultural adaptability
+
+**Who is not suited**
+- People who cannot tolerate long periods of standing or high-stress work environments
+- People who dislike repeated exams and continuous learning of new pharmaceutical knowledge.
+
+---
+
+## 8. FAQ
+
+**Q: How can overseas pharmacists register and immigrate to New Zealand?**
+A: Overseas pharmacists must pass the APS exam (written+oral), complete an internship (usually 12 months), then register with the Pharmacy Council. After registration, can apply directly for Green List Tier 1 residence or through SMC skilled migration. IELTS overall score 7.0 required.
+
+**Q: What is the salary level for pharmacists in New Zealand?**
+A: Junior pharmacist annual salary approx NZD 60,000-75,000, mid-level NZD 75,000-95,000, senior NZD 95,000-120,000. Remote areas or pharmacy owners earn higher, up to NZD 140,000+.
+
+**Q: What are the tuition fees and employment prospects for studying pharmacy in New Zealand?**
+A: International pharmacy bachelor's tuition costs about 30,000-40,000 NZD per year, with a 4-year duration. Employment rate after graduation is nearly 100%, and registration allows immediate residency application. Overseas students need to note the high difficulty of the APS exam, but migration pathways are smooth after passing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 很友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Pharmacist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How can overseas pharmacists register and immigrate to New Zealand?**
-答：Overseas pharmacists must pass the APS exam (written and oral), complete a 12-month internship, and register with the Pharmacy Council. Once registered, they can apply for Green List Tier 1 residence directly or through Skilled Migrant Category. IELTS 7.0 overall required.
-
-**问：What is the salary range for pharmacists in New Zealand?**
-答：Entry-level: NZD 60,000-75,000; intermediate: NZD 75,000-95,000; senior: NZD 95,000-120,000. Remote areas or pharmacy owners may earn over NZD 140,000.
-
-**问：What are the tuition fees and job prospects for studying pharmacy in New Zealand?**
-答：International tuition: NZD 30,000-40,000/year for a 4-year bachelor's. Employment rate near 100%; registration leads to direct residence. Overseas students face challenging APS exam but clear migration path.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

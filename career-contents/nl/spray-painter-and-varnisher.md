@@ -1,58 +1,94 @@
-# Spray Painter and Varnisher（Spray Painter and Varnisher）职业分析 · NL
+# Spray Painter and Varnisher — career analysis · Netherlands
 
-**职业代码：7132 – Spray Painter and Varnisher。**
+**Occupation code: 7132 (ISCO08)**
 
-Apply paint, varnish, and other coatings to surfaces (e.g., vehicles, furniture, metal structures) using spray guns or brushes to ensure even, durable, and attractive finishes.
+Performs painting, varnishing, and coating work on various surfaces (e.g., cars, furniture, metal structures) using spray guns or brushes, ensuring even, aesthetic, and durable finishes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | —（公立学校学费约每年€1,200-€2,000；可能有政府补贴或学徒工资。） |
-| 学徒制 (BBL) | 2-3年 | —（边工作边学习，雇主支付工资，培训费用较低。） |
+| Secondary vocational education (MBO) | 3-4 years | $0~$2,000 (Public school tuition is approximately €1,200-€2,000 per year; government subsidies or apprentice wages may be available.) |
+| Apprenticeship (BBL) | 2-3 years | $0~$500 (Work and study simultaneously, employer pays wages, low training costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 喷漆工职业资格证书 (MBO Diploma) | 荷兰教育机构 (ROC) | 必备 | MBO级别2-3完成，包含理论与实践考试。 |
-| SVIB认证 (安全喷涂) | 荷兰行业培训基金 (SVS) | 可选 | 涉及有害物质安全处理，部分雇主强制要求。 |
+| Painter vocational qualification certificate (MBO Diploma) | Dutch educational institution (ROC) | Required | Completion of MBO level 2-3, including theoretical and practical exams. |
+| SVIB Certification (Safety Spraying) | Dutch Industry Training Fund (SVS) | Optional | Involves safe handling of hazardous substances, mandatory for some employers. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰建筑和制造行业对熟练喷漆工需求稳定，受基础设施维护及汽车修复市场推动。老龄化劳动力促使雇主寻求年轻学徒，但经济波动可能影响短期需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for skilled spray painters in the Dutch construction and manufacturing sectors remains stable, driven by infrastructure maintenance and the automotive restoration market. An ageing workforce prompts employers to seek young apprentices, though economic fluctuations may affect short-term demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 含学徒期，税后约€2,000/月。 |
-| 中级（3-7年） | $32,000~$40,000 | 熟练工，可独立操作，税后约€2,800/月。 |
-| 高级（7年以上） | $40,000~$50,000 | 含专精技能或管理职责，税后约€3,200/月。 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Including apprenticeship period, after-tax approximately €2,000/month. |
+| Mid-level (3–7 years) | $32,000~$40,000 | Skilled worker, capable of independent operation, after-tax approx. €2,800/month. |
+| Senior (7+ years) | $40,000~$50,000 | Includes specialist skills or management responsibilities, approximately €3,200/month after tax. |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级助手起步，通过学徒或职业教育晋升为熟练喷漆工；可专精于汽车喷漆、工业涂层或艺术喷涂，或晋升为工头/质检员，或自营企业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Spray painter positions face risk of automation compression, but customized and high-precision tasks still rely on humans. Smart spray-painting robots will replace high-volume, standardized work; entry-level positions decrease, skill requirements increase.
+
+Starting as a junior assistant, advancing to skilled painter through apprenticeship or vocational education; can specialize in automotive painting, industrial coating, or artistic spraying, or progress to foreman/quality inspector, or self-employed.
+
+**Tasks most exposed to AI:**
+
+- Standardized large-area spraying using robots
+- Automatically detect paint defects through visual AI system
+- Automated process for paint mixing and colour blending
+- Online programming robots achieve repetitive painting paths
+- Automatically clean and maintain spraying equipment
+
+**Where AI augments the role:**
+
+- AI-assisted color matching, quickly providing blending solutions.
+- AR/VR headsets display paint layer thickness and uniformity in real time
+- Smart systems optimize spraying parameters (temperature, humidity, pressure).
+- Digital twin simulation of spray effects to reduce trial and error
+- Voice assistant providing troubleshooting and maintenance guidance
+
+**Human moat:**
+
+- Manual finishing and detail handling of complex curved or non-standard workpieces.
+- Design and execution of special texture or artistic paint finishes
+- Diagnosis and repair of abnormal conditions beyond sensor range
+- Customer communication, on-site assessment and custom solution skills
+- manual blending techniques for mixing unique pigments or special coatings
+
+**Skills to build:**
+
+- Industrial robot programming and operation (e.g., ABB, Fanuc)
+- Digital spray system control and parameter tuning
+- Knowledge of paint chemistry basics and environmental regulations.
+- Lean production and statistical methods for quality control
+- Use of AR/VR-assisted spraying tools
+- IoT device maintenance and data interpretation
+
+**Key growth areas:**
 
 - Construction maintenance
 - Automotive refinishing
@@ -61,68 +97,67 @@ Apply paint, varnish, and other coatings to surfaces (e.g., vehicles, furniture,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Orientation Year (Se（Orientation Year for Graduates） | 适用于在荷兰或指定世界大学完成硕士/博士学位的毕业生，可在荷兰工作寻找期一年，积累本地经验。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 若找到雇主担保，工作满足薪资门槛（2024年约€4,500/月30岁以上），可获居留许可，配偶可工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能专业人员，需雇主合同且薪资门槛较高（约€5,000/月），但并非典型技工路径。 |
+| Subclass Orientation Year (Se (Orientation Year for Graduates) | For graduates who completed a master's or PhD in the Netherlands or designated world universities; offers a one-year job search period in the Netherlands to gain local experience. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | If employer-sponsored, meeting the salary threshold (approx. €4,500/month for ages 30+ in 2024), you can obtain a residence permit, and your spouse can work. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled professionals, requires an employer contract and a high salary threshold (approx. €5,000/month), but is not a typical skilled worker pathway. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Spray Painter and Varnisher？**
-- 喜欢动手工作、注重细节，能承受化学气味与体力劳动的人。
-- 愿意从事汽车或建筑行业，有耐心进行多层喷涂与打磨工序。
-- 希望在荷兰通过学徒制快速就业并获得正式职业资格的人。
-
-**谁不适合学Spray Painter and Varnisher？**
-- 对挥发性化学品敏感或希望从事低体力、全室内办公的人。
-- 追求高薪资和快速晋升路径，不愿从基础学徒做起的人。
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, pay attention to detail, and can tolerate chemical odors and physical labor.
+- Willing to work in the automotive or construction industry, with patience for multi-layer spraying and sanding processes.
+- People who want to quickly find employment and obtain formal professional qualifications through apprenticeships in the Netherlands.
+
+**Who is not suited**
+- Suitable for those sensitive to volatile chemicals or seeking low-physical, fully indoor office work.
+- For those seeking high salaries and fast career advancement, unwilling to start from a basic apprenticeship.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for spray painters in the Netherlands?**
+A: Annual salary for entry-level is approximately €25,000–€32,000, mid-level €32,000–€40,000, and senior up to €50,000. Overtime and specialized skills can increase earnings.
+
+**Q: How can non-EU citizens migrate to the Netherlands as spray painters?**
+A: The main pathway is to find employer sponsorship to apply for the Highly Skilled Migrant visa, meeting the salary threshold. Alternatively, first study abroad to obtain a degree, then use the Orientation Year, and later switch to a work visa.
+
+**Q: What training is required to become a painter in the Netherlands?**
+A: Usually complete MBO vocational education (3-4 years) or apprenticeship (BBL, 2-3 years), and obtain a safety operation certificate. Learning Dutch is recommended for work communication.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Spray Painter and Varnisher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for spray painters in the Netherlands?**
-答：Entry-level earns €25,000-€32,000 per year, mid-level €32,000-€40,000, and senior up to €50,000. Overtime and specialized skills can increase income.
-
-**问：How can non-EU citizens immigrate to the Netherlands as a spray painter?**
-答：Main route is employer sponsorship for Highly Skilled Migrant visa (salary threshold met). Alternatively, study in NL, use Orientation Year, then convert to work visa.
-
-**问：What training is required to become a spray painter in the Netherlands?**
-答：Complete MBO vocational education (3-4 years) or apprenticeship (BBL, 2-3 years), and obtain safety certificates. Dutch language skills are recommended.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

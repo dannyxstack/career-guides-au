@@ -1,60 +1,96 @@
-# Library and Archive Assistants（Library and Archive Assistants）职业分析 · ES
+# Library and Archive Assistants — career analysis · Spain
 
-**职业代码：4210 – Library and Archive Assistants。**
+**Occupation code: 4210 (CNO)**
 
-Responsible for daily operations of libraries and archives, including circulation management, document organization, user assistance, and archival preservation.
+Responsible for the daily operations of libraries and archives, including lending management, material organization, user consultation, and archive maintenance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | $500~$1,500（公立FP学费低，私立稍高） |
-| 大学本科（Grado） | 4年 | $800~$2,000（公立大学年学费，视自治区而定） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $500~$1,500 (Public FP tuition is low, private is slightly higher) |
+| Undergraduate (Grado) | 4 years | $800~$2,000 (Annual tuition fees for public universities vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆与档案管理FP学位 | 西班牙教育部认可的FP学校 | 必备 | FP Grado Superior en Documentación y Administración Sanitaria或其他相关专业 |
-| 大学本科/硕士学历（图书馆学） | 西班牙大学 | 可选 | Grado en Información y Documentación或相关硕士 |
+| Library and Archives Management FP degree | FP schools recognized by the Spanish Ministry of Education | Required | FP Grado Superior en Documentación y Administración Sanitaria or other related specialties |
+| Bachelor's/Master's degree (Library Science) | Spanish University | Optional | Grado en Información y Documentación or a related master's degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。西班牙公共图书馆和档案馆就业稳定，但增长缓慢。数字化转型和文化遗产数字化带来新机会，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Employment in public libraries and archives in Spain is stable but grows slowly. Digital transformation and the digitization of cultural heritage bring new opportunities, but competition is fierce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 公共部门薪资较低，私营稍高 |
-| 中级（3-7年） | $22,000~$28,000 | 含经验和技术职称 |
-| 高级（7年以上） | $28,000~$35,000 | 管理岗位可达更高 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Public sector salaries are lower, while private sector salaries are slightly higher |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes experience and technical titles |
+| Senior (7+ years) | $28,000~$35,000 | Management positions can reach even higher levels |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从助理晋升至图书馆技术员或档案技术员，进一步可通过考取学位成为图书馆员或档案管理员。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Students can advance from assistant to library technician or archival technician, and further qualify by obtaining degrees to become librarians or archivists.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Digital archiving
 - Heritage digitization
@@ -63,64 +99,66 @@ Responsible for daily operations of libraries and archives, including circulatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需西班牙雇主担保，提供工作合同并证明职位无法由本地人填补 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A Spanish employer sponsorship is required, a work contract must be provided, and it can be proven that the position cannot be filled by a local resident |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Library and Archive Assistants？**
-- 喜欢安静、有条理的工作环境
-- 对图书、档案管理有热情
-- 注重细节和服务意识
+**Who is suited**
+- Prefer a quiet, organized work environment
+- Passionate about library and archive management.
+- Attention to detail and service awareness
 
-**谁不适合学Library and Archive Assistants？**
-- 寻求高薪或快速晋升者
-- 不喜欢重复性事务性工作
+**Who is not suited**
+- Those seeking high salaries or rapid promotion
+- Dislikes repetitive and transactional tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for library assistants in Spain?**
+A: The entry-level annual salary is about 18,000-22,000 euros, and the senior can reach up to 35,000 euros. Public sector wages are stable but growing slowly.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: Extremely difficult. This profession is not in short supply, requires high language requirements, requires employer-sponsored work residency, and the market is rich in local talent.
+
+**Q: What educational qualifications are required to pursue this profession?**
+A: Typically, FP Grado Superior (2 years) or a university-related undergraduate degree (4 years) is required. The annual fee for public education is about 500-2000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Library and Archive Assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for library assistants in Spain?**
-答：Entry-level annual salary is about 18,000-22,000 EUR, senior can reach 35,000 EUR. Public sector offers stable but slow growth.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Extremely difficult. Not a shortage occupation, high language barrier, requires employer sponsorship, and ample local talent.
-
-**问：What education is required for this occupation?**
-答：Typically a FP Grado Superior (2 years) or a relevant university bachelor's degree (4 years). Public education costs about 500-2000 EUR per year.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

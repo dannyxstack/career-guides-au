@@ -1,58 +1,92 @@
-# Pharmacy Preparations Technician（Pharmacy Preparations Technician）职业分析 · FR
+# Pharmacy Preparations Technician — career analysis · France
 
-**职业代码：J1307 – Pharmacy Preparations Technician。**
+**Occupation code: J1307 (ROME)**
 
-Pharmacy preparations technicians prepare sterile and non-sterile medications in pharmacies or laboratories, such as capsules, ointments, and injections, ensuring quality and safety.
+Pharmaceutical preparation technicians prepare sterile or non-sterile drug formulations—including capsules, ointments, and injections—according to prescriptions in pharmacies or pharmaceutical laboratories, ensuring the quality and safety of medicines.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或Bac Pro | 2年（CAP）或3年（Bac Pro） | —（公立学校免费或低学费，学徒制有补贴） |
-| BTS | 2年（BTS） | —（公立学校免费或低学费，私立约每年4000欧元） |
+| CAP or Bac Pro | 2 years (CAP) or 3 years (Bac Pro) | $0~$5,000 (Public schools offer free or low tuition, and apprenticeships are subsidized) |
+| BTS | 2 Years (BTS) | $0~$8,000 (Public schools are free or low-cost; private schools cost about €4,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Préparation en pharmacie | 法国教育部 | 必备 | 必备资质，可通过学徒制获得 |
-| BTS Préparation en pharmacie | 法国教育部 | 可选 | 高级文凭，可增强就业竞争力 |
+| CAP Préparation en pharmacie | French Ministry of Education | Required | Essential qualifications, which can be obtained through the apprenticeship system |
+| BTS Préparation en pharmacie | French Ministry of Education | Optional | Advanced diplomas can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。随着法国人口老龄化和慢性病增加，药店与医院对定制药物的需求持续增长。该职业就业稳定，尤其在医院药房和制药工业领域有较多机会。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. With France's aging population and increasing chronic diseases, the demand for customized medicines in pharmacies and hospitals continues to grow. This profession offers stable employment prospects, especially in hospitals, pharmacies, and the pharmaceutical industry.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，公立医院或药店 |
-| 中级（3-7年） | $27,000~$32,000 | 税前年薪，含经验补贴 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，主管或制药企业 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, public hospital or pharmacy |
+| Mid-level (3–7 years) | $27,000~$32,000 | Annual salary before tax, including experience allowance |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, supervisor or pharmaceutical company |
+| average salary | $27,714 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级药剂制备技术员可积累经验后晋升为高级技术员或团队主管，也可转向制药质量控制、医药研发或药品监管岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance drug formulation and quality control efficiency, but regulations and aseptic operation requirements make complete replacement difficult; Entry-level positions may be compressed by automated batching systems.
+
+Junior pharmaceutical preparation technicians can gain experience and be promoted to senior technician or team leader, or move into roles in pharmaceutical quality control, pharmaceutical R&D, or drug supervision.
+
+**Tasks most exposed to AI:**
+
+- Repeated manual liquid preparation, weighing, and mixing operations
+- Prescription input and verification (AI and OCR automatic entry)
+- Inventory management and automatic replenishment notifications
+- Environmental monitoring data recording and alarm response
+
+**Where AI augments the role:**
+
+- AI analysis of prescription history optimizes the preparation process and reduces waste
+- Automatically check drug interactions and dosage errors using intelligent systems
+- AI-assisted sterile operation monitoring and contamination risk warning
+- Virtual simulation training enhances aseptic preparation skills
+- Real-time efficacy prediction and personalized dosage recommendations
+
+**Human moat:**
+
+- Manual precision skills and experiential judgment during sterile operations
+- Clinical judgment and doctor-patient communication for complex prescription dispensing
+- Regulatory compliance and quality audit responsibilities
+- Emergency response capability for handling abnormal situations (such as contamination or equipment failures).
+
+**Skills to build:**
+
+- Operation and maintenance of automated dispensing equipment
+- AI prescription review tools are used
+- Basics of Data Analysis (Interpreting Dispensing Data and Quality Indicators)
+- Digital inventory management software
+- Advanced Certificate in Aseptic Technology (continuously updated)
+- Interdisciplinary collaboration (with AI systems and clinical teams)
+
+**Key growth areas:**
 
 - Aging population
 - Chronic diseases
@@ -61,65 +95,64 @@ Pharmacy preparations technicians prepare sterile and non-sterile medications in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如制药行业专家，需雇主担保，有效期4年，可续签。 |
-| Subclass Salarié（Salarié (Employee)） | 工作居留，需雇主提供工作合同，有效期1年，可续签。 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高学历高薪资职位，需年薪至少约53,000欧元（2025年标准），可带家属。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as pharmaceutical industry experts, requiring employer sponsorship, valid for 4 years, with renewable options. |
+| Subclass Salarié (Salarié (Employee)) | For work residence, the employer must provide a work contract, valid for one year, and can be renewed. |
+| Subclass Carte bleue UE (EU Blue Card) | For highly educated, high-paying positions, an annual salary of at least about 53,000 euros (2025 standard) is required, and family members are allowed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacy Preparations Technician？**
-- 细心、有条理，注重药品安全的人
-- 对制药和医疗行业有热情
-- 愿意从事重复性高但精确度要求高的工作
-
-**谁不适合学Pharmacy Preparations Technician？**
-- 不喜欢重复性或长时间站立工作
-- 无法承受高压和严格时间管理
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful, organized, safety-conscious regarding medications.
+- Passionate about the pharmaceutical and medical industries
+- Willing to work in highly repetitive but highly precise work
+
+**Who is not suited**
+- Dislikes repetitive work or long hours of standing
+- Unable to withstand high pressure and strict time management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pharmaceutical preparation technicians in France?**
+A: Entry-level salaries are about 22,000-26,000 euros per year, intermediate salaries about 27,000-32,000 euros per year, and senior managers can earn up to 33,000-40,000 euros per year. Public hospitals differ slightly from private pharmacies.
+
+**Q: Can foreigners apply for a position as a pharmaceutical preparation technician in France?**
+A: Yes, but you must have a CAP or BTS diploma recognized by France and possess French language proficiency (usually at B2 level). This can be achieved through the Salarié or Passeport Talent Passport pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pharmacy Preparations Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pharmacy preparations technicians in France?**
-答：Entry-level salaries range from €22,000 to €26,000 per year, mid-level €27,000 to €32,000, and senior supervisors up to €33,000 to €40,000. Differences exist between public hospitals and private pharmacies.
-
-**问：Can foreigners apply for pharmacy preparations technician jobs in France?**
-答：Yes, but they need a recognized French CAP or BTS diploma and French language proficiency (usually B2 level). Visa options include Salarié or Passeport Talent.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

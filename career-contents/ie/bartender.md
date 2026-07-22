@@ -1,58 +1,90 @@
-# Bartender（Bartender）职业分析 · IE
+# Bartender — career analysis · Ireland
 
-**职业代码：5132 – Bartender。**
+**Occupation code: 5132 (ISCO08)**
 
-Bartenders mix and serve alcoholic and non-alcoholic drinks in bars, hotels, restaurants, and other establishments, providing customer service. Skills include drink knowledge, customer interaction, and basic cash handling.
+Bartenders prepare and serve alcoholic and non-alcoholic drinks in bars, hotels, restaurants, etc., providing customer service. Skills include beverage knowledge, customer interaction, and basic cash handling.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期培训课程 | 6个月 | $500~$2,000（私立调酒学校或在线课程） |
-| 相关学历（如酒店管理） | 2-3年（大专/本科） | $10,000~$25,000（每年学费，欧盟学生有优惠） |
+| Short-term training course | 6 months. | $500~$2,000 (Private Bartending School or Online Courses) |
+| Relevant qualifications (e.g., hotel management) | 2-3 years (diploma/bachelor's degree) | $10,000~$25,000 (Annual tuition fee, with discounts for EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特定酒精服务培训（如爱尔兰） | 各认证机构 | 可选 | 部分雇主要求完成酒精服务责任培训（如RSA线上课程） |
-| 食品安全证书 | FETAC或QQI | 可选 | 处理食物时可能需要基础食品安全证书 |
+| Responsible Service of Alcohol (RSA) training (e.g., Ireland) | Each certifying body | Optional | Some employers require completion of responsible service of alcohol training (e.g., RSA online course) |
+| Food safety certificate | FETAC or QQI | Optional | Basic food safety certificate may be required when handling food |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。爱尔兰餐饮业持续增长，旅游业的繁荣推动对调酒师的需求。然而，职位竞争激烈，尤其是高薪岗位。工作灵活性高，兼职机会多，但全职稳定职位相对有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Ireland's catering industry continues to grow, with tourism boom driving demand for bartenders. However, job competition is intense, especially for high-paying positions. Work flexibility is high with many part-time opportunities, but full-time stable positions are relatively limited.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 含小费，兼职常见 |
-| 中级（3-6年） | $28,000~$35,000 | 含小费，经验丰富的调酒师 |
-| 高级（7年以上/主管） | $35,000~$45,000 | 含小费，主管或奢华场所 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$28,000 | Includes tips, common for part-time |
+| Mid-level (3–6 years) | $28,000~$35,000 | Including tips, experienced bartender |
+| Senior (7+ years/supervisor) | $35,000~$45,000 | Including tips, supervisors or luxury venues |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 调酒师可通过积累经验晋升为高级调酒师或酒吧主管，进一步发展为酒吧经理或餐饮企业主。部分调酒师选择成为自由调酒师或参与调酒比赛提升知名度。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core creative and social tasks of bartenders are difficult to replace by AI, but routine work such as ordering, inventory, and cash handling will gradually be automated, entry-level positions will face compression, requiring a shift to experience designers.
+
+Bartenders can advance to senior bartender or bar supervisor through experience, and further to bar manager or hospitality business owner. Some bartenders choose to become freelance bartenders or participate in bartending competitions to increase their visibility.
+
+**Tasks most exposed to AI:**
+
+- Receive beverage orders via self-service ordering terminals or mobile apps
+- Use inventory management systems to automatically monitor beverage stock and generate replenishment lists
+- Using electronic payment systems to handle checkout and cash reconciliation
+- Use a recipe database to automatically calculate costs, nutritional content, and alcohol content
+
+**Where AI augments the role:**
+
+- AI analyzes customer historical preferences to recommend personalized cocktail recipes.
+- AR/VR training system assists in learning complex mixing techniques and plating
+- Social media tool automatically generates and publishes creative beverage content to attract customers.
+- Sensor monitors cup liquid level, prompts precise pouring amount
+
+**Human moat:**
+
+- Improvise unique cocktails on the spot and interact with customers
+- Interpersonal sensitivity for handling conflicts with drunk customers or special needs
+- Sensory evaluation skills for wine tasting and ingredient pairing
+- Create bar counter ambiance and personalized service experience
+
+**Skills to build:**
+
+- Proficiency in mainstream bar management systems (e.g., Toast, BrewDog)
+- Learn basic data analysis to optimize wine lists and pricing
+- Proficient in social media marketing and content creation skills
+- Enrol in advanced cocktail certification courses such as WSET
+- Learn health and safety compliance knowledge (alcohol concentration control)
+
+**Key growth areas:**
 
 - Craft Cocktails
 - Mixology
@@ -61,68 +93,67 @@ Bartenders mix and serve alcoholic and non-alcoholic drinks in bars, hotels, res
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且年薪不低于30,000欧元。调酒师通常不满足Critical Skills许可要求。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，适用于大型酒店集团内部调酒师职位。 |
-| Subclass EU Freedom of Moveme（EU/EEA/Swiss Citizens） | 欧盟/欧洲经济区/瑞士公民可自由工作和居住，无需额外许可。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requiring employer sponsorship and an annual salary of at least €30,000. Bartenders generally do not meet Critical Skills permit requirements. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfers within multinationals, applicable for bartender positions within large hotel groups. |
+| Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizens) | EU/EEA/Swiss citizens can freely work and reside without additional permits. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bartender？**
-- 善于社交、喜欢快节奏工作的人
-- 对饮品调制有热情且愿意学习
-- 适应晚间和周末工作的人
-
-**谁不适合学Bartender？**
-- 不适应站立工作和长时间轮班的人
-- 不喜欢处理现金和客户投诉的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are sociable and enjoy fast-paced work
+- Passionate about beverage preparation and willing to learn
+- People who can adapt to evening and weekend work
+
+**Who is not suited**
+- Those unable to adapt to standing work and long shift hours
+- People who dislike handling cash and customer complaints
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bartenders in Ireland?**
+A: Bartender salaries vary by experience and location. Junior bartenders earn around €22,000-28,000 per year (including tips), mid-level €28,000-35,000, and senior supervisors up to €35,000-45,000. Tips form a significant portion of total income.
+
+**Q: Can non-EU citizens immigrate to Ireland as bartenders?**
+A: Bartenders are not on Ireland's shortage occupation list. Applying for a General Employment Permit requires an annual salary of at least €30,000 and employer sponsorship. Usually more suitable for EU citizens with free movement. Non-EU citizens may try other pathways such as post-study work.
+
+**Q: What are the career development paths for a Bartender?**
+A: Bartenders can advance to bar supervisor, bar manager, or shift to food and beverage management. They can also become cocktail consultants, open their own bars, or participate in international cocktail competitions to enhance their reputation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bartender的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a bartender in Ireland?**
-答：Bartender salaries vary by experience and location. Entry-level bartenders earn around €22,000-€28,000 per year (including tips), mid-level €28,000-€35,000, and senior or supervisor roles €35,000-€45,000. Tips form a significant portion of total income.
-
-**问：Can non-EU citizens immigrate to Ireland as a bartender?**
-答：Bartender is not on the critical skills list. A General Employment Permit requires a minimum salary of €30,000 and employer sponsorship. It is generally more accessible for EU/EEA citizens. Non-EU citizens may consider alternative routes such as study-to-work.
-
-**问：What career development paths exist for bartenders?**
-答：Bartenders can advance to bar supervisor, bar manager, or move into hospitality management. Others become mixology consultants, open their own bars, or participate in international cocktail competitions to enhance their reputation.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

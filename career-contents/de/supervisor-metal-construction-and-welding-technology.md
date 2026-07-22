@@ -1,60 +1,94 @@
-# Supervisor - Metal Construction and Welding Technology（Supervisor - Metal Construction and Welding Technology）职业分析 · DE
+# Supervisor - Metal Construction and Welding Technology — career analysis · Germany
 
-**职业代码：2449 – Supervisor - Metal Construction and Welding Technology。**
+**Occupation code: 2449 (KldB)**
 
-Oversees teams in metal construction and welding, ensuring quality, safety, and efficiency while managing production workflows and personnel scheduling.
+Responsible for supervising teams involved in metal structure manufacturing and welding processes, ensuring production quality, safety, and efficiency, managing production workflows and personnel scheduling.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 无固定 | —（通常为入学双元制培训的前提） |
-| 双元制职业培训（Ausbildung） | 3.5年 | —（培训期间有工资，州学费低或无） |
+| High school graduation or equivalent | No fixed requirement | $0~$0 (Usually a prerequisite for enrolling in dual vocational training) |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$300 (Paid training and low or no state tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接技术认证（如DIN EN 1090） | 德国焊接协会（DVS） | 必备 | 对特定焊接工艺有强制要求 |
-| 主管资质（Ausbilderprüfung） | 工商会（IHK） | 可选 | 管理培训生所需 |
+| Welding certification (e.g., DIN EN 1090) | German Welding Association (DVS) | Required | Mandatory requirements for specific welding processes |
+| Trainer qualification (Ausbilderprüfung) | Chamber of Commerce and Industry (IHK) | Optional | Required for management trainees |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。德国制造业持续强劲，金属加工与焊接领域技术工人短缺，主管岗位需求稳定，尤其在汽车、机械制造等行业。数字化转型对管理能力提出新要求。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Germany's manufacturing sector remains strong, with a shortage of skilled workers in metalworking and welding; supervisor positions are in steady demand, especially in automotive and machinery manufacturing. Digital transformation imposes new requirements on management skills.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 试用期后 |
-| 中级（3-7年） | $42,000~$52,000 | 含主管津贴 |
-| 高级（7年以上） | $52,000~$65,000 | 大型企业或特殊资质 |
+| Median salary | $43,836 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | After probation |
+| Mid-level (3–7 years) | $42,000~$52,000 | Including supervisor allowance |
+| Senior (7+ years) | $52,000~$65,000 | Large enterprises or special qualifications |
+| average salary | $46,476 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从熟练焊工或金属工晋升为组长，再至主管；之后可向生产经理、技术总监或企业内训师发展，也可通过进修成为焊接工程师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The occupation has mixed prospects: routine welding and cutting tasks are easily automated, but supervision, quality control, and complex structural design still require human judgment; AI can serve as a tool to enhance efficiency.
+
+Can advance from skilled welder or metal worker to team leader, then supervisor; further progress to production manager, technical director, or corporate trainer, or study to become a welding engineer.
+
+**Tasks most exposed to AI:**
+
+- Programming and execution of standard welding paths
+- Automatically detect weld defects through vision systems.
+- Repetitive metal cutting and forming operations
+- Routine production scheduling and progress tracking
+
+**Where AI augments the role:**
+
+- Welding parameter optimization and real-time feedback adjustment
+- Digital twin-based welding process simulation
+- Use AR glasses for remote expert guidance
+- Automatically generate welding procedure specifications and reports.
+- Predictive maintenance alerts and spare parts management
+
+**Human moat:**
+
+- Non-standard structural design and on-site adaptability
+- Determination of responsibility for welding quality disputes
+- Team management and safety compliance supervision
+- Client communication and project negotiation.
+
+**Skills to build:**
+
+- Welding Robot Programming and Operation
+- MES/ERP system usage
+- Digital twin and CAD/CAM integration
+- Quality data analysis and statistics.
+- Safety regulations and standards updates
+- Read English technical documents
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,69 +97,68 @@ Oversees teams in metal construction and welding, ensuring quality, safety, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历或同等资格，年薪门槛约43,800欧元（2024年），紧缺职业可降至39,682欧元。主管职位可能符合要求。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需德国认可的职业资格或双元制培训证书，雇主担保。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制，允许来德寻职一年，适合有职业资格但无雇主者。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree or equivalent, annual salary threshold around €43,800 (2024), reduced to €39,682 for shortage occupations. Managerial positions may qualify. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognised professional qualification or dual system training certificate, and employer sponsorship. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based, allowing job seekers to stay in Germany for one year; suitable for those with professional qualifications but no employer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor - Metal Construction and Welding Technology？**
-- 有金属加工或焊接经验，希望晋升管理岗者
-- 注重实际动手能力与团队协调者
-- 德国双元制培训毕业生
-
-**谁不适合学Supervisor - Metal Construction and Welding Technology？**
-- 不喜现场监督和轮班工作
-- 缺乏技术背景或不愿更新技能者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with metalworking or welding experience seeking management promotion
+- Values hands-on skills and team coordination
+- German dual-system training graduate
+
+**Who is not suited**
+- Dislike on-site supervision and shift work
+- Those lacking technical background or unwilling to update skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a metal structure and welding technology supervisor in Germany?**
+A: Experience-dependent, annual salary approx. €35k-€65k, median around €45k.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Must complete recognized vocational training in Germany (dual system) or equivalent qualifications, and pass qualification certification. Eligibility via EU Blue Card or skilled migration visa, provided a German employer contract is secured.
+
+**Q: What is the career progression path for this occupation?**
+A: Start as a welder or metalworker, advance to team leader, then supervisor, and later to production manager, technical specialist, or trainer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisor - Metal Construction and Welding Technology为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a supervisor in metal construction and welding in Germany?**
-答：Depending on experience, annual salary ranges from €35,000 to €65,000, with a median around €45,000.
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：Requires a recognized vocational training (dual system) or equivalent qualification, plus credential recognition. EU Blue Card or Skilled Worker Visa possible with a German job offer.
-
-**问：What is the career progression for this occupation?**
-答：Start as welder or metal worker, advance to team leader, then supervisor, and further to production manager, technical specialist, or trainer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

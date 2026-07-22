@@ -1,61 +1,96 @@
-# Musical Instrument Maker（Musical Instrument Maker）职业分析 · DE
+# Musical Instrument Maker — career analysis · Germany
 
-**职业代码：9360 – Musical Instrument Maker。**
+**Occupation code: 9360 (KldB)**
 
-Musical instrument makers craft, repair, and tune instruments like pianos, violins, and wind instruments, requiring fine craftsmanship and acoustic knowledge.
+Musical instrument makers craft, repair, and tune various instruments such as pianos, violins, and wind instruments by hand or using machines, requiring exquisite craftsmanship and understanding of acoustics.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育（Ausbildung） | 3.5年 | —（企业培训期间有津贴，通常无需学费） |
-| 工匠大师培训（Meister） | 1-2年（职后） | $5,000~$15,000（考试费用及课程，部分可获政府补贴） |
+| Dual vocational education and training (Ausbildung) | 3.5 years | $0~$0 (Allowances are provided during corporate training, usually no tuition fees.) |
+| Master Craftsman Training (Meister) | 1-2 years (post-employment) | $5,000~$15,000 (Exam fees and courses, some eligible for government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 乐器制造师（Geselle）职业资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试后获得 |
-| 工匠大师（Meister）证书 | 德国工商会（IHK） | 可选 | 非强制，但对自主创业和带学徒有法律要求 |
-| 学历认证书（Anerkennung） | 德国外国学历认证中心（ZAB） | 必备 | 第三国资质需通过认证程序，证明与德国职业资格等效 |
+| Musical instrument maker (Geselle) vocational qualification certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual-system training and passing the final exam |
+| Academic recognition certificate (Anerkennung) | Central Office for Foreign Education (ZAB) | Required | Third-country qualifications must undergo a recognition procedure to prove equivalence to German vocational qualifications |
+| Master craftsman (Meister) certificate | German Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but legally required for self-employment and apprenticeships |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。德国乐器制造业以中小企业为主，传统工艺需求稳定，但自动化冲击有限。技术工人短缺，尤其在高品质手工制造领域，就业前景较好。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,500. Germany's musical instrument manufacturing industry is dominated by small and medium-sized enterprises, with stable demand for traditional craftsmanship and limited impact from automation. There is a shortage of skilled workers, especially in high-quality handmade manufacturing, offering good employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，培训后起薪较低 |
-| 中级（4-7年） | $35,000~$45,000 | 税前年薪，经验积累后显著增长 |
-| 高级（8年+ / 大师） | $45,000~$60,000 | 税前年薪，大师或自主创业收入更高 |
+| Median salary | $33,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Pre-tax annual salary, lower starting pay after training |
+| Mid-level (4-7 years) | $35,000~$45,000 | Pre-tax annual salary, significantly increases with experience |
+| Senior (8+ years / Master) | $45,000~$60,000 | Gross annual salary; masters or self-employed can earn more |
+| average salary | $37,416 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较稳定（★★★☆☆）。** 可从学徒做起，积累经验后成为工匠大师（Meister），或晋升为车间主管、自主创业开设工作室。也可专攻某一类乐器（如钢琴调律师）深造。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
+
+Start as an apprentice, gain experience to become a master craftsperson (Meister), or advance to workshop supervisor, or start a studio. Specialise further in specific instruments (e.g., piano tuning).
+
+**Tasks most exposed to AI:**
+
+- Automatically generates background music or simple scores
+- Basic music transcription and arrangement assistance
+- Basic practice accompaniment in music teaching
+- Automation in audio recording and mixing
+
+**Where AI augments the role:**
+
+- Using AI for music composition inspiration and melody generation
+- Analyzes performance and pitch using AI
+- Use AI tools for music marketing and track recommendation
+- AI-assisted ear training and music theory teaching
+- AI-generated dynamic lighting and visual effects synchronized with live performances
+
+**Human moat:**
+
+- Ability to perform live improvisation and interact with the audience.
+- Unique emotional expression and artistic interpretation
+- Personalized guidance and feedback in teaching.
+- Artistic director role for complex music projects
+- Build personal brand and fan community
+
+**Skills to build:**
+
+- AI Music Generation Tools (e.g., MuseNet, AIVA)
+- Digital audio workstation (DAW) and plugins
+- Basics of music data analysis and recommendation algorithms
+- Multimedia performance technology (lighting, projection, VR)
+- Online teaching platform and content creation
+- Copyright management and music marketing knowledge
+
+**Key growth areas:**
 
 - Artisan craftsmanship
 - Premium instrument demand
@@ -64,70 +99,69 @@ Musical instrument makers craft, repair, and tune instruments like pianos, violi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act Employment Visa） | 适用于获得德国认可的学历或职业资格的技术工人，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 若持有大学学位且薪资达标（2024年约43,800欧元），可申请蓝卡，但本职业通常薪资较低。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于能力积分，无需工作合同即可来德找工，适用于本职业。 |
-| Subclass Qualification Recogn（Recognition Partnership Visa） | 在职业资格认证期间可来德工作，最多18个月。 |
+| Subclass Skilled Worker (Skilled Immigration Act Employment Visa) | Applies to skilled workers with a recognized German qualification or professional license, requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | If you hold a university degree and meet the salary threshold (approx. €43,800 in 2024), you can apply for a Blue Card, but this occupation typically has lower pay. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, you can come to Germany to find work without a job contract; applicable to this occupation. |
+| Subclass Qualification Recogn (Recognition Partnership Visa) | You can work in Germany during the professional qualification period, for a maximum of 18 months. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Musical Instrument Maker？**
-- 对手工艺和音乐有热情的人
-- 注重细节、耐心且动手能力强
-- 愿意接受长期深造（双元制+大师）
-
-**谁不适合学Musical Instrument Maker？**
-- 追求快速高薪或大规模生产岗位者
-- 不喜欢手工重复或精细操作者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about crafts and music
+- Detail-oriented, patient, and practical
+- Willing to pursue long-term further education (dual system + master craftsman)
+
+**Who is not suited**
+- Those seeking fast money or high-volume production roles
+- Those who dislike repetitive manual tasks or fine work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of musical instrument makers?**
+A: Initial annual salary around €26,000-32,000, intermediate €35,000-45,000, master or self-employed up to €45,000-60,000+.
+
+**Q: How can third-country nationals immigrate to Germany for musical instrument making?**
+A: First, you need to have your professional qualification recognized by the German Central Office for Foreign Education (ZAB) to confirm equivalence to the German 'Musical Instrument Maker' qualification; then you can apply for a skilled worker visa (requires employer) or the Opportunity Card to find a job.
+
+**Q: What are the career advancement paths for musical instrument makers?**
+A: Common pathway: apprentice → skilled worker (Geselle) → master craftsman (Meister) → workshop supervisor or self-employment. Can also specialize in specific instruments (e.g., piano tuning) to become an expert.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Musical Instrument Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for musical instrument makers?**
-答：Entry-level annual salary is about EUR 26,000-32,000, mid-level EUR 35,000-45,000, and master/self-employed EUR 45,000-60,000+.
-
-**问：How can third-country nationals immigrate to Germany as musical instrument makers?**
-答：First obtain recognition of your qualifications from ZAB to prove equivalence to German 'Musical Instrument Maker'; then apply for a skilled worker visa (with a job offer) or Opportunity Card.
-
-**问：What are the career progression paths for musical instrument makers?**
-答：Typical path: apprentice → journeyman (Geselle) → master craftsman (Meister) → workshop supervisor or self-employed. Specialization in specific instruments (e.g., piano tuning) is also possible.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

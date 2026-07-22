@@ -1,60 +1,96 @@
-# Barristers and judges（Barristers and judges）职业分析 · UK
+# Barristers and judges — career analysis · United Kingdom
 
-**职业代码：2411 – Barristers and judges。**
+**Occupation code: 2411 (SOC)**
 
-Barristers and judges prepare and conduct court cases on behalf of clients, preside over judicial proceedings, and pronounce judgements within a variety of court settings and tribunals.
+Barristers and judges prepare and conduct court cases on behalf of clients, preside over judicial proceedings, and make decisions in various courts and tribunals.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 法学本科 | 3年 | $9,000~$12,000（英国本科年学费大约在9000至12000英镑之间。） |
-| 法律实务课程（Bar Practice Course） | 1年 | $15,000~$20,000（课程费用约15000-20000英镑。） |
+| Bachelor of Laws (LLB). | 3 years | $9,000~$12,000 (UK undergraduate tuition fees are approximately between £9,000 and £12,000 per year.) |
+| Bar Practice Course | 1 year | $15,000~$20,000 (Course fees are approximately £15,000-£20,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学学位（LLB） | 英国大学 | 必备 | 获得合格的法律学位是成为出庭律师的第一步。 |
-| 出庭律师执业资格（Call to the Bar） | 四大律师学院（Inns of Court） | 必备 | 完成法律实务课程并通过考试，方可被召入律师学院成为一名出庭律师。 |
+| Law degree (LLB). | UK universities | Required | Obtaining a qualifying law degree is the first step to becoming a barrister. |
+| Call to the Bar | The four Inns of Court | Required | Complete the legal practice course and pass the exam to be called to the bar as a barrister. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。随着司法系统的持续需求和复杂案件增加，预计英国对出庭律师和法官的需求将保持稳定。然而，职位竞争激烈，尤其是高级职位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Due to ongoing demand from the judicial system and increasing complex cases, the demand for barristers and judges in the UK is expected to remain stable. However, competition for positions, especially senior ones, is fierce.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-5年） | $25,000~$60,000 | 实习出庭律师或初级刑事出庭律师年薪约25000-60000英镑。 |
-| 中级（5-15年） | $60,000~$150,000 | 有经验的出庭律师或初级法官年薪约60000-150000英镑。 |
-| 高级（15年以上） | $150,000~$500,000 | 高级出庭律师（Queen's Counsel）或高级法官年薪可达15万至50万英镑以上。 |
+| Median salary | $50,915 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry-level (0-5 years) | $25,000~$60,000 | Pupil barrister or junior criminal barrister annual salary approximately £25,000-60,000. |
+| Intermediate (5-15 years) | $60,000~$150,000 | Experienced trial lawyers or junior judges earn approximately £60,000–150,000 per year. |
+| Senior (15+ years) | $150,000~$500,000 | Senior barrister (Queen's Counsel) or senior judge can earn GBP 150,000 to over 500,000 per year. |
+| average salary | $56,773 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从律师或出庭律师起步，积累经验后晋升为高级出庭律师（King's Counsel），再通过司法任命程序成为法官。职业发展高度依赖业绩和声誉。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Barristers' and judges' core trial and defense duties are protected by law and ethics, making them hard to replace; but document review, legal research, and evidence analysis tasks are being significantly enhanced by AI, while junior roles contract due to automation, forming a pattern of 'core stable, periphery disrupted'.
+
+Typically start as a solicitor or barrister, accumulate experience to become a senior barrister (King's Counsel), then become a judge through the judicial appointment process. Career progression highly depends on performance and reputation.
+
+**Tasks most exposed to AI:**
+
+- Automated legal document review and keyword tagging
+- Preliminary legal research and summary generation based on case database
+- Automatic classification, deduplication, and correlation analysis of electronic evidence
+- Initial drafting of standardized legal documents (e.g., lawsuit templates)
+- Real-time court transcription and preliminary fact-checking
+
+**Where AI augments the role:**
+
+- AI-assisted case similarity analysis and precedent prediction to improve defence strategy quality
+- Real-time intelligent e-discovery and trial data visualization to enhance courtroom persuasion
+- Automated pretrial preparation checklist and timeline management, saving administrative time
+- AI-driven quantitative legal risk assessment to assist judges in sentencing and rulings
+- Multilingual translation and cross-legal system comparative analysis, supporting cross-border case handling
+
+**Human moat:**
+
+- Humane courtroom argumentation, cross-examination, and rhetorical strategies
+- Exercise of discretion based on ethics, fairness, and public interest
+- Creative interpretation of complex legal principles and updating precedents
+- Building trust, empathy, and persuasive communication with clients/juries
+- Non-transferability of ultimate legal responsibility and judicial accountability
+
+**Skills to build:**
+
+- Operation of legal tech tools (e.g., Relativity, Kira Systems)
+- Data analysis and statistical reasoning for evidence pattern recognition
+- AI ethics and algorithm bias assessment to ensure judicial fairness
+- Advanced communication and conflict mediation, enhancing interpersonal moat
+- Project management and process optimization to adapt to hybrid human-machine workflows
+- Continuous learning ability, tracking updates in AI legal regulations
+
+**Key growth areas:**
 
 - Legal demand stable
 - Competitive entry
@@ -63,66 +99,68 @@ Barristers and judges prepare and conduct court cases on behalf of clients, pres
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 出庭律师通常不符合技术工人签证的资格，因为该职业通常需要英国律师资格和普通话技能。 |
-| Subclass Global Talent（Global Talent visa） | 极少数杰出法律人才可通过全球人才签证申请，但门槛极高。 |
-| Subclass Graduate（Graduate visa） | 在英国完成学位的国际学生可申请毕业签证，在英工作两年，但转为长期签证困难。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Barristers are generally not eligible for skilled worker visas because the occupation typically requires UK bar qualification and Mandarin skills. |
+| Subclass Global Talent (Global Talent visa) | A very small number of outstanding legal talents may apply through the Global Talent visa, but the threshold is extremely high. |
+| Subclass Graduate (Graduate visa) | International students who complete a degree in the UK can apply for a graduate visa to work in the UK for two years, but it is difficult to switch to a long-term visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Barristers and judges？**
-- 具备出色辩论和沟通能力的人
-- 对法律体系和司法公正有浓厚兴趣的人
-- 能够承受高压工作环境的人
+**Who is suited**
+- People with excellent debating and communication skills
+- People with strong interest in legal systems and judicial justice
+- People who can handle high-pressure work environments
 
-**谁不适合学Barristers and judges？**
-- 不擅长公共演讲或辩论的人
-- 寻求快速移民和稳定工作签证的人
+**Who is not suited**
+- People not skilled in public speaking or debate
+- Those seeking fast immigration and stable work visas
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a barrister?**
+A: Junior barrister annual salary approximately £25,000 to £60,000; senior barrister can reach over £150,000; senior judges may exceed £500,000.
+
+**Q: Can foreign barristers work in the UK?**
+A: Very difficult. Usually requires UK legal qualification and Mandarin skills; skilled worker visa often not applicable.
+
+**Q: What are the requirements to become a judge?**
+A: Typically requires many years of barrister experience and passing the judicial appointment process. Highly competitive, requiring an outstanding legal reputation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 困难（★★★★½） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 困难（★★★★★） |
-
-Barristers and judges属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a barrister?**
-答：Junior barristers earn between £25,000 and £60,000, experienced barristers up to £150,000, and senior judges can earn over £500,000.
-
-**问：Can foreign barristers work in the UK?**
-答：Very difficult. Usually requires UK legal qualification and fluency in English, and the Skilled Worker visa is generally not applicable for this occupation.
-
-**问：What is required to become a judge?**
-答：Usually requires many years of experience as a barrister and passing the judicial appointment process. Competition is fierce and requires outstanding legal reputation.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Landscape Gardener（Landscape Gardener）职业分析 · 澳大利亚
+# Landscape Gardener — career analysis · Australia
 
-**职业代码：362711 – Landscape Gardener。**
+**Occupation code: 362711 (ANZSCO)**
 
-Landscape Gardeners design, construct and maintain gardens, parks and outdoor landscapes, including planting, paving and irrigation system installation.
+Landscape gardeners design, build, and maintain gardens, parks, and outdoor landscapes, including planting, paving, and irrigation system installation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Landscape Construction | 2年 | $8,000~$25,000（公立TAFE费用较低，私立较贵） |
-| Certificate IV in Landscape Management | 1年 | $6,000~$15,000（可在Certificate III后进修） |
+| Certificate III in Landscape Construction | 2 years | $8,000~$25,000 (Public TAFE fees are lower, private ones are more expensive.) |
+| Certificate IV in Landscape Management | 1 year | $6,000~$15,000 (Can be pursued after Certificate III) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Landscape Construction | TAFE或RTO | 必备 | 核心从业资格，含实地实习 |
-| White Card (通用安全卡) | 任何RTO | 必备 | 工地安全必备 |
-| Drivers Licence | 政府 | 可选 | 多数岗位要求驾照 |
+| Certificate III in Landscape Construction | TAFE or RTO | Required | Core professional qualification, including field internship |
+| White Card (General Safety Card) | Any RTO | Required | Workplace safety essential |
+| Drivers Licence | Government. | Optional | Most positions require a driver's license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 40,000。澳洲景观园艺师需求稳定，受益于城市绿化、房地产开发和基础设施建设。预计未来5年就业增长中等，尤其在人口增长快的州如新南威尔士和维多利亚。
+**Job demand: high (★★★★☆).** National workforce approx. 40,000. Demand for landscape gardeners in Australia is stable, benefiting from urban greening, real estate development, and infrastructure construction. Moderate employment growth expected over next 5 years, especially in fast-growing states like New South Wales and Victoria.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 全职，含养老金 |
-| 中级（3-6年） | $55,000~$70,000 | 领班或资深工 |
-| 高级（6年以上） | $70,000~$90,000 | 项目经理或自雇 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Full-time, including superannuation. |
+| Mid-level (3–6 years) | $55,000~$70,000 | Foreman or senior worker |
+| Senior (6+ years) | $70,000~$90,000 | Project manager or self-employed |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒/初级工起步，晋升为领班、项目经理或自营承包商。也可专攻设计、灌溉或生态修复，或进一步学习成为景观建筑师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Can start as an apprentice/junior worker and advance to foreman, project manager, or self-employed contractor. Can also specialize in design, irrigation, or ecological restoration, or further study to become a landscape architect.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Urban greening
 - Infrastructure development
@@ -62,68 +95,67 @@ Landscape Gardeners design, construct and maintain gardens, parks and outdoor la
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需2年工作经验，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 永居签证，要求职业在CSOL上，雇主担保 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需州提名，可领先 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，转191永居 |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires 2 years of work experience, can transfer to 186 permanent residence |
+| Subclass 186 (Employer Nomination Scheme) | Permanent residency visa; occupation must be on CSOL and employer-sponsored. |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residence visa, requires state nomination, can be prioritized. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship, transitioning to 191 permanent residence |
 
-**PR难度：中等偏低（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscape Gardener？**
-- 喜欢户外体力活动兼有创意的人
-- 愿意动手施工且注重细节的人
-
-**谁不适合学Landscape Gardener？**
-- 偏好室内办公室工作的人
-- 对体力要求敏感或怕脏怕晒的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical activities and have a creative side.
+- People willing to do hands-on work and detail-oriented
+
+**Who is not suited**
+- Those who prefer indoor office work
+- People sensitive to physical demands or who dislike dirt and sun
+
+---
+
+## 8. FAQ
+
+**Q: Do landscape gardeners work much overtime? Is overtime paid?**
+A: Overtime may be required in peak seasons (spring and autumn), and weekend work is common. Full-time employees are usually paid hourly, with overtime at 1.5 times the hourly rate. Self-employed individuals' income is project-based.
+
+**Q: What are the key conditions for overseas landscape architects to immigrate to Australia?**
+A: Must pass VETASSESS skills assessment (Certificate III or higher + 3 years experience), IELTS 5.0 or above, obtain employer sponsorship or state nomination. Regional state nomination preferred.
+
+**Q: Can landscape gardeners transition to landscape designers?**
+A: Yes. By completing a Bachelor or Master of Landscape Architecture (usually 3-4 years), you can register as a landscape architect, focusing on design rather than construction, with higher pay.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等偏低（★★☆☆☆） |
-
-Landscape Gardener的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do landscape gardeners work overtime? Is it paid?**
-答：Overtime is common in peak seasons (spring/autumn). Full-time employees are paid hourly with overtime at 1.5x rate. Self-employed income depends on projects.
-
-**问：What are the key requirements for overseas landscape gardeners to migrate to Australia?**
-答：Pass VETASSESS skills assessment (Cert III + 3 years experience), IELTS 5.0+, secure employer sponsorship or state nomination. Regional sponsorship is prioritized.
-
-**问：Can a landscape gardener become a landscape architect?**
-答：Yes. Complete a bachelor's or master's in landscape architecture (3-4 years) to register as a landscape architect, focusing on design with higher pay.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

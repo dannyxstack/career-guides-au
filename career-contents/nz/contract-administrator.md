@@ -1,128 +1,164 @@
-# Contract Administrator（Contract Administrator）职业分析 · 新西兰
+# Contract Administrator — career analysis · New Zealand
 
-**职业代码：511111 – Contract Administrator。**
+**Occupation code: 511112 (ANZSCO)**
 
-Contract Administrators draft, review, and manage commercial contracts to ensure compliance and mitigate risks. Steady demand in NZ construction and IT sectors, with migration via AEWV, Skilled Migrant Category, or Green List Tier 2.
+Contract administrators draft, negotiate, execute, and monitor commercial contracts to ensure project compliance and cost control. New Zealand's infrastructure boom drives demand, with a pathway to residence via Green List Tier 2 work-to-residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学位（3年） | 3年 | $60,000~$100,000（商科或法学学士，国际生学费较高） |
-| 研究生文凭（1年） | 1年 | $20,000~$40,000（加速课程，适合转行者） |
+| Bachelor's degree (business/law/construction management). | 3 years | $30,000~$45,000 (Annual international student tuition, including living expenses) |
+| Postgraduate diploma (Project Management) | 1 year | $25,000~$35,000 (Offered by some institutions, enabling accelerated career transition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家文凭-商业（合同管理方向） | NZQA认证机构 | 可选 | 非强制，但提升竞争力 |
-| IELTS 6.5 | 剑桥英语 | 必备 | 技术移民英语要求 |
+| IELTS 6.5 (immigration requirement) | IELTS | Required | English language threshold for skilled migration |
+| Member of New Zealand Institute of Chartered Accountants (NZICA) | NZICA | Optional | Not mandatory, but enhances competitiveness, requires passing exam |
+| Project management qualification (e.g., PMP) | PMI | Optional | Widely recognized, helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。新西兰建筑业持续繁荣和IT外包增长推动合同管理员需求。预计未来5年岗位增长约10%，尤其奥克兰和坎特伯雷地区机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. New Zealand's construction and infrastructure industry continues to grow, especially with large projects in Auckland and Christchurch, leading to steadily increasing demand for contract administrators. Employment growth is expected to be strong over the next five years, with favorable skilled migration policies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪约$55k，3年后可达$70k |
-| 中级（3-6年） | $70,000~$90,000 | 经验丰富后薪资上涨 |
-| 高级（6年以上） | $90,000~$120,000 | 合同经理年薪可达$120k+ |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Usually requires 1-2 years of relevant experience |
+| Mid-level (3–6 years) | $75,000~$95,000 | capable of independently managing complex contracts |
+| Senior (6+ years) | $100,000~$130,000 | Contract manager or supervisory level |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从初级合同管理员晋升为高级合同管理员或合同经理，进而转入法务或项目管理领域。获得NZ注册资格或法学学历可加速职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of contract administrators (drafting, reviewing, compliance monitoring) are gradually being replaced by AI text generation and review tools, but complex negotiations, legal judgment, and project management responsibilities still rely on humans, leading to increased competition for entry-level roles while senior roles gain value.
+
+Career progression can advance from contract administrator to senior contract administrator, contract manager, even project manager. With experience, may transition to legal counsel or procurement management, with salary increasing significantly.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate standard contract clauses and templates
+- Extract key data from contract documents and update databases
+- Basic compliance checks, such as missing signatures or expired dates
+- Generate Regular Reports and Automatic Reminders
+- Initial contract proofreading and format correction
+
+**Where AI augments the role:**
+
+- Use AI-driven contract analysis tools to quickly identify risk clauses and inconsistencies
+- Optimizing contract clause negotiation strategies through predictive models
+- Automatically aggregate cross-contract data to support budget and cost analysis
+- Using AI chatbots to handle routine supplier contract inquiries
+- Quickly retrieve historical contract cases via natural language search
+
+**Human moat:**
+
+- Complex contract negotiation and stakeholder management
+- Subjective judgment and interpretation of legal risks
+- High-level coordination across cultures and departments
+- Creative solutions to sudden disputes
+- Understanding the business strategy behind contracts
+
+**Skills to build:**
+
+- Proficient in Contract Lifecycle Management (CLM) software (e.g., Icertis, Coupa)
+- Basic programming skills (Python) for automated contract data processing.
+- Legal text analysis and application of natural language processing tools
+- Project management (PMP certification) and cross-team collaboration
+- Data analysis and visualization (Tableau, Power BI)
+- Advanced negotiation and conflict resolution skills
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
-- AEWV
 - Construction Boom
+- Infrastructure Investment
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可工作3年，满足要求后可转居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，需工作经验和薪资达标 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 工作2年后可申请居留，需雇主担保 |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | After 2 years working as a contract administrator, eligible to apply for residency, subject to median wage requirement |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system (qualifications + experience), occupation is at the ANZSCO skill level, and a job offer is available to apply. |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship for a contract administrator position, renewable |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Contract Administrator？**
-- 具备法律或商业背景
-- 注重细节与沟通能力
-- 希望在建筑或IT行业发展
-
-**谁不适合学Contract Administrator？**
-- 无法承受合同条款压力
-- 不喜欢文书工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with good communication and negotiation skills
+- Detail-oriented and organized people
+- Those looking to develop long-term in construction or legal fields
+
+**Who is not suited**
+- People who dislike paperwork and repetitive tasks
+- Those not good at handling stress and multi-party coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a contract administrator?**
+A: Entry-level: about NZD 55,000-70,000, mid-level: 75,000-95,000, senior: 100,000-130,000, influenced by experience and industry.
+
+**Q: How can a contract administrator immigrate to New Zealand?**
+A: Eligible for residency via Green List Tier 2 work (apply after 2 years) or skilled migration (6-point system), meeting qualifications, experience, and salary requirements.
+
+**Q: What are the job prospects for a contract administrator?**
+A: New Zealand's construction industry continues to develop, especially in Auckland and Christchurch; demand for contract administrators is strong with robust employment growth over the next five years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Contract Administrator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a Contract Administrator in NZ?**
-答：Average salary is around NZD 70k-90k, entry-level about 55k, senior up to 120k+.
-
-**问：Can a Contract Administrator migrate via Green List?**
-答：Yes, on Green List Tier 2 (Work to Residence), requiring 2 years of work and meeting salary threshold.
-
-**问：Which regions in NZ have the highest demand for Contract Administrators?**
-答：Auckland and Canterbury lead due to construction; Wellington offers government roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

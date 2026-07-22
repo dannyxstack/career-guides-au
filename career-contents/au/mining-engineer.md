@@ -1,68 +1,98 @@
-# 采矿工程师（Mining Engineer）职业分析 · 澳大利亚
+# Mining Engineer — career analysis · Australia
 
-**职业代码：233611 – Mining Engineer。**
+**Occupation code: 233611 (ANZSCO)**
 
-采矿工程师规划、设计和监督矿山开采作业，包括露天矿和地下矿开采、选矿和矿山安全管理。澳洲是全球最大的铁矿石、锂、铜和黄金生产国，关键矿产（锂/钴/稀土）的全球需求激增推动澳洲采矿行业空前扩张，是IT/工程类薪资最高的职业之一。
+Mining engineers plan, design and oversee mining operations, including open-cut and underground extraction, mineral processing and mine safety management. Australia is the world's largest producer of iron ore, lithium, copper and gold, and surging global demand for critical minerals (lithium/cobalt/rare earths) is driving unprecedented expansion in the Australian mining industry, making it one of the highest-paying occupations in IT/engineering.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Mining Engineering（荣誉，4年） | 4年（全日制） | $32,000~$200,000（澳洲采矿工程师资质要求4年荣誉学位；Western Australian School of Mines (WASM) 是业内最受认可的院校） |
-| Engineers Australia（EA）技能评估 | 3~12个月 | $770~$3,000（189/190签证必须，约 $770 申请费） |
-| CPEng（Chartered Professional Engineer） | 4~7年工作经验后申请 | $1,500~$5,000（专业注册工程师认证，大型矿山项目管理的重要资质） |
+| Bachelor of Mining Engineering (Honours, 4 years) | 4 years (full-time) | $32,000~$200,000 (A 4-year honours degree is required for mining engineers in Australia; Western Australian School of Mines (WASM) is the most recognised institution in the industry) |
+| Engineers Australia (EA) skills assessment | 3–12 months | $770~$3,000 (Required for 189/190 visa; approximately $770 application fee) |
+| CPEng（Chartered Professional Engineer） | Apply after 4–7 years of work experience | $1,500~$5,000 (Professional registered engineer certification, an important qualification for managing large-scale mining projects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Mining Engineering (Honours) | 认可大学（EA认证） | 必备 | WASM（科廷大学）、UQ和UNSW是最受矿业公司认可的院校 |
-| Engineers Australia（EA）技能评估 | Engineers Australia | 可选 | 189/190签证技术移民必须 |
-| CPEng（Chartered Professional Engineer） | Engineers Australia | 可选 | 大型矿山项目管理和独立签名的重要资质 |
-| Underground/Explosives Certification | 各州矿山安全机构 | 可选 | 地下采矿和爆破作业的现场安全资质 |
+| Bachelor of Mining Engineering (Honours) | Accredited university (EA-accredited) | Required | WASM (Curtin University), UQ and UNSW are the most recognised institutions by mining companies |
+| Engineers Australia (EA) skills assessment | Engineers Australia | Optional | Required for skilled migration via 189/190 visa |
+| CPEng（Chartered Professional Engineer） | Engineers Australia | Optional | An important qualification for managing large mining projects and signing off independently |
+| Underground/Explosives Certification | State and territory mine safety authorities | Optional | On-site safety qualifications for underground mining and blasting operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 16,000。JSA 预测采矿工程师至2035年就业增长约10%。全球电动车产业对锂/钴/镍等关键矿产的需求使澳洲采矿项目大幅扩张，FIFO工程师薪资持续上涨。
+**Job demand: high (★★★★☆).** National workforce approx. 16,000. JSA projects employment growth for mining engineers of approximately 10% through to 2035. Global demand for critical minerals such as lithium, cobalt and nickel driven by the electric vehicle industry has led to significant expansion of Australian mining projects, with FIFO engineer salaries continuing to rise.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,500 个 | 全国，含采矿工程师、选矿工程师、矿山地质和FIFO岗 |
-| Indeed | 300~900 个 | 含关键矿产项目和铁矿石岗 |
-| LinkedIn | 600~1,500 个 | 大型矿业公司直招（力拓/必和必拓/Fortescue） |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生采矿工程师（0~2年） | $85,000~$105,000 | 应届生FIFO起薪含轮岗补贴，高于大多数工程类毕业生 |
-| 中级采矿工程师（2~7年，FIFO） | $130,000~$175,000 | SEEK 区间 $145k~$165k；Indeed 平均 $150,725（2026）；含远程轮岗补贴 |
-| 高级采矿工程师（7~15年，CPEng） | $175,000~$250,000 | 矿山总工程师和高级项目工程师，含年终奖 |
-| 矿业总监 / 技术总监（15年+） | $250,000~$450,000 | 大型矿业公司（力拓/必和必拓）总监级别，含股权奖励 |
+| Median salary | $182,936 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate Mining Engineer (0–2 years) | $85,000~$105,000 | Graduate FIFO starting salary includes rotation allowance, higher than most engineering graduates |
+| Intermediate mining engineer (2–7 years, FIFO) | $130,000~$175,000 | SEEK range $145k–$165k; Indeed average $150,725 (2026); inclusive of remote rotation allowances |
+| Senior Mining Engineer (7–15 years, CPEng) | $175,000~$250,000 | Chief Mine Engineer and Senior Project Engineer, including annual bonus |
+| Mining Director / Technical Director (15+ years) | $250,000~$450,000 | Director level at major mining companies (Rio Tinto/BHP), including equity rewards |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 自动驾驶矿山设备（力拓/必和必拓自动化系统）对采矿+IT复合型工程师的需求急剧增加。关键矿产（Critical Minerals）方向是2025-2035年薪资增速最快的采矿子领域。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
+
+Demand for engineers combining mining and IT expertise has increased sharply due to autonomous mining equipment (Rio Tinto/BHP automation systems). Critical Minerals is the fastest-growing salary segment within mining from 2025 to 2035.
+
+**Tasks most exposed to AI:**
+
+- Manual drafting of mine design and construction drawings
+- Resource reserve estimation based on experience
+- Manually write routine mining plans and progress reports
+- Manual monitoring of equipment status and energy consumption
+- On-site Inspections for Hazard Identification
+
+**Where AI augments the role:**
+
+- Use AI for 3D modeling of ore deposits and resource assessment
+- Optimizing autonomous truck routes and blasting plans using AI
+- Using machine learning to predict rock mass stability and support requirements
+- Integrating digital twin technology for real-time monitoring and adjustment of mining operations
+- Quickly parse geological reports and compliance documents using natural language processing
+
+**Human moat:**
+
+- Decision-making under complex geological conditions
+- Communication and coordination with government/community/Indigenous peoples
+- Safety regulation enforcement and emergency incident command
+- Multidisciplinary team collaboration integrating AI recommendations
+- Comprehensive assessment of ethics and environmental impact
+
+**Skills to build:**
+
+- Geostatistics and machine learning applied to resource modeling
+- Operation and configuration of automated scheduling systems (e.g., Minestar)
+- Python/R data analysis and digital twin platform usage
+- Mine simulation software (e.g., Vulcan, Surpac) with AI plugins
+- Project Management and Cross-Departmental AI Solution Integration
+- Data visualization and report automation tools
+
+**Key growth areas:**
 
 - Critical Minerals Mining (Lithium/Cobalt/Rare Earths)
 - Autonomous Mining Systems
@@ -72,92 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，采矿工程师为核心短缺职业，矿业公司直接担保 |
-| Subclass 186（ENS） | 雇主担保永居，矿业公司直接支持 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，WA（全国矿业中心）优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区矿业岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; mining engineers are a core shortage occupation and can be sponsored directly by mining companies |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency, direct support from mining companies |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; WA (national mining hub) is prioritised |
+| Subclass 491 (Skilled Work Regional) | Regional mining position, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学采矿工程师？**
-- 持有采矿工程/矿山地质/选矿工程学位（4年荣誉）
-- 有实际矿山工作经验（地下矿或露天矿），愿意接受FIFO生活方式
-- 英语能力达到 IELTS 6.0+（EA评估要求）
-- 有关键矿产（锂/铜/镍）项目背景（市场溢价最高）
-- 能接受西澳/昆士兰偏远地区轮岗工作（FIFO薪资最高）
-
-**谁不适合学采矿工程师？**
-- 不接受FIFO生活方式（大多数高薪采矿岗位均为FIFO）
-- 非工程学位，无法通过EA评估
-- 有严重健康问题（采矿现场对体能有基本要求）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a degree in Mining Engineering / Mine Geology / Mineral Processing Engineering (4-year honours)
+- Have practical mining work experience (underground or open-cut) and are willing to embrace the FIFO lifestyle
+- English proficiency of IELTS 6.0+ (required for EA assessment)
+- Background in critical minerals projects (lithium/copper/nickel) commands the highest market premium
+- Willing to work on a rotating roster in remote areas of Western Australia or Queensland (FIFO roles offer the highest salaries)
+
+**Who is not suited**
+- Unwilling to adopt a FIFO lifestyle (most high-paying mining roles are FIFO)
+- Non-engineering degree — unable to pass EA assessment
+- Significant health conditions (mining sites have baseline physical fitness requirements)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a mining engineer in Australia?**
+A: Mid-level FIFO mining engineers earn approximately $130,000–$175,000 (Indeed average $150,725); senior engineers approximately $175k–$250k; director-level roles can exceed $300k. This is the highest-paid category across all engineering occupations.
+
+**Q: Is it easy for a mining engineer to find work in Australia?**
+A: Very easy. Surging demand for critical minerals (lithium/cobalt/nickel) is driving a wave of new mining projects in Western Australia and Queensland, with mining companies (Rio Tinto / BHP / Fortescue) frequently sponsoring visas proactively.
+
+**Q: Is a Chinese mining engineering degree recognised in Australia?**
+A: Skills assessment through Engineers Australia (EA). Qualifications from mining-focused institutions such as China University of Mining and Technology and University of Science and Technology Beijing are generally able to pass the EA assessment, though course alignment will need to be verified.
+
+**Q: Will mining engineers be replaced by AI?**
+A: Low risk. AI assists with mine optimisation and autonomous equipment, but has actually increased demand for engineers with combined mining and IT skills capable of managing AI-driven mining systems.
+
+**Q: Is there an age limit for mining engineers in Australia?**
+A: No. Senior engineers (aged 40–55) command a significant market premium based on their extensive experience on large-scale mining projects. The FIFO lifestyle does place some physical demands on individuals, but there is no upper age limit.
+
+**Q: What qualifications do mining engineers need in Australia?**
+A: A 4-year Honours degree in Mining Engineering, Geological Engineering, or Mine Engineering is mandatory — this is the fundamental requirement for an Engineers Australia assessment. Some candidates with a geological engineering background may also qualify for mining engineer roles through an EA assessment.
+
+**Q: Is it difficult to obtain Australian mining engineer certification for migration purposes?**
+A: Low to moderate difficulty (one of the easiest engineering pathways for migration). Mining companies actively sponsor 482 visas; EA assessment turnaround is 3–12 months; 189/190 EOI points are favourable for those with 5 years of experience.
+
+**Q: Which is better for migrating to Australia — mining engineer or civil engineer?**
+A: Mining engineers earn much higher salaries ($145k~$175k vs $95k~$115k), have easier immigration (mining companies actively sponsor), but FIFO lifestyle is not for everyone. Those willing to FIFO should choose mining engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 采矿工程师薪资 $145k~$165k（2026） |
-| Indeed AU | 采矿工程师平均薪资 $150,725（2026） |
-| Minerals Council of Australia | 采矿业就业数据和关键矿产战略 |
-| Engineers Australia | EA技能评估和CPEng认证 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-采矿工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲采矿工程师工资多少？**
-答：中级FIFO采矿工程师约 $130,000~$175,000（Indeed均值 $150,725）；高级工程师约 $175k~$250k；总监级可超 $300k。是所有工程职业中薪资最高的类别。
-
-**问：澳洲采矿工程师容易找工作吗？**
-答：极容易。关键矿产（锂/钴/镍）需求激增推动西澳和昆士兰新矿项目大量开工，矿业公司（力拓/必和必拓/Fortescue）常主动担保签证。
-
-**问：中国采矿工程学位澳洲认可吗？**
-答：通过 Engineers Australia（EA）技能评估。中国矿业大学、北京科技大学等矿业专业院校的学历通常能通过EA评估，但课程匹配度需要验证。
-
-**问：采矿工程师会被AI替代吗？**
-答：风险较低。AI辅助矿山优化和自动驾驶设备，但反而增加了对能管理AI采矿系统的采矿+IT复合型工程师的需求。
-
-**问：澳洲采矿工程师有年龄限制吗？**
-答：无。资深工程师（40~55岁）凭借丰富的大型矿山项目经验在市场上具有高溢价。FIFO生活方式确实对体能有一定要求，但并无年龄上限。
-
-**问：澳洲采矿工程师需要什么学历？**
-答：必须持有4年荣誉采矿工程/地质工程/矿山工程学位，这是EA评估的基本要求。部分地质工程背景者也可通过EA评估进入采矿工程师岗位。
-
-**问：澳洲采矿工程师认证（移民）难吗？**
-答：难度中低（最容易的工程类移民之一）。矿业公司主动担保482签证，EA评估周期3~12个月；189/190 EOI分数对有5年经验者友好。
-
-**问：采矿工程师和土木工程师哪个更适合移民澳洲？**
-答：采矿工程师薪资高得多（$145k~$175k vs $95k~$115k），移民难度更低（矿业公司主动担保）；但FIFO生活方式不适合所有人。愿意接受FIFO者应优先选择采矿工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

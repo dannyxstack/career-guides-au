@@ -1,62 +1,98 @@
-# Material Forming and Cutting Equipment Operator（Material Forming and Cutting Equipment Operator）职业分析 · FR
+# Material Forming and Cutting Equipment Operator — career analysis · France
 
-**职业代码：H2905 – Material Forming and Cutting Equipment Operator。**
+**Occupation code: H2905 (ROME)**
 
-Operates forming and cutting equipment for materials like metal and plastic, including presses, brakes, shears, and laser cutters, ensuring products meet specifications.
+Operate forming and cutting equipment for metal, plastic, and other materials, including stamping, bending, cutting, laser cutting, and other machines to ensure products meet specification requirements.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书 | 2年（CAP） | —（公立职业高中免费，学徒制有补贴） |
-| 职业学习文凭 | 2年（Bac Pro） | —（可走学徒制，学费全免并获工资） |
-| 高级技师证书 | 2年（BTS） | $500~$10,000（公立学校低费用，私立较高） |
+| Professional competency certificate | 2 years (CAP) | $0~$5,000 (Public vocational high schools are free, and apprenticeships are subsidized) |
+| Vocational study diploma | 2 years (Bac Pro) | $0~$6,000 (You can take an apprenticeship program, with full tuition waiver and salary) |
+| Advanced Technician Certificate | 2 Years (BTS) | $500~$10,000 (Public schools have lower fees, while private ones have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业能力证书（CAP）成型或切割方向 | 法国教育部 | 必备 | 基本入门资质，通过学徒或职高获得 |
-| 焊接或数控操作认证 | 法国焊接学会或AFPA | 可选 | 企业常要求额外技能认证 |
-| 安全证书（CACES） | CNAM或认证机构 | 可选 | 操作特定设备（如起重机）需持有 |
+| Professional Competency Certificate (CAP) for forming or cutting direction | French Ministry of Education | Required | Basic entry-level qualifications are obtained through apprenticeships or vocational high schools |
+| Welding or CNC operation certification | French Welding Society or AFPA | Optional | Companies often require additional skill certifications |
+| Safety Certificate (CACES) | CNAM or certification bodies | Optional | Operating specific equipment (such as cranes) requires handling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。法国工业逐步自动化，但中小型企业仍需要熟练操作员。汽车和航空航天等制造业提供稳定岗位，但竞争较激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. French industry is gradually automating, but small and medium-sized enterprises still need skilled operators. Manufacturing sectors such as automotive and aerospace offer stable positions, but competition is fierce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（4-8年） | $27,000~$33,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $34,000~$40,000 | 含主管津贴 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4–8 years) | $27,000~$33,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $34,000~$40,000 | Including supervisor allowance |
+| average salary | $29,748 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为高级操作员、生产主管或质量控制技术员。也可通过学徒制获得更高资格，转向技术管理岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Positions for material forming and cutting equipment operators will show mixed results: conventional cutting and stamping tasks face threats from automated replacement, but AI-assisted programming, multi-axis optimization, and quality verification will improve efficiency and accuracy, forcing practitioners to shift to digital technology operations and process design roles.
+
+Promotion from junior operator to senior operator, production supervisor, or quality control technician. Alternatively, you can obtain higher qualifications through apprenticeships and move into technical management positions.
+
+**Tasks most exposed to AI:**
+
+- CNC programming for repetitive flat cutting and stamping processes
+- Manual parameter settings based on simple 2D drawings
+- Defect identification and recording in routine quality inspections by visual inspection
+- Periodic inspection and log entry of equipment operating status
+- Feeding and unloading operations during mass production of standard parts
+
+**Where AI augments the role:**
+
+- Automatic optimization of cutting paths for shaped parts assisted by AI vision systems
+- Machine learning models predict tool wear in real time and recommend replacement timing
+- Simulation and parameter tuning of molding processes in digital twin environments
+- AI-driven multi-axis linkage bending programs are automatically generated and verified
+- Production data aggregation analysis to identify bottlenecks and recommend scheduling adjustments
+
+**Human moat:**
+
+- Inspiration for the craftsmanship design and tactile experience of complex special-shaped parts
+- Exploring trial parameters for new materials (such as carbon fiber composite panels).
+- Non-standard diagnosis and handling of sudden on-site equipment faults
+- Flexible production switching coordination for small-batch multi-variety orders
+- Communicate manufacturability improvement plans with customers/designers
+
+**Skills to build:**
+
+- Advanced CAD/CAM software applications (such as SolidWorks CAM, Tebis)
+- Offline programming and collaborative operation of industrial robots
+- Python or VBA scripts are used to automate reports and process API calls
+- Operation of digital twin platforms (such as Siemens NX, Vericut).
+- Fundamental machine learning principles and Edge AI deployment (such as anomaly detection models)
+- Industry-level MES/ERP system data integration and analysis
+
+**Key growth areas:**
 
 - CNC automation
 - lean manufacturing
@@ -65,61 +101,63 @@ Operates forming and cutting equipment for materials like metal and plastic, inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需法国雇主担保，证明该岗位无法找到本地候选人才可申请 |
-| Subclass Temporary Worker Per（Temporary Work Permit） | 适用于短期合同，雇主需获得劳动局批准 |
+| Subclass Salarié (Employee Work Permit) | A French employer sponsor is required to prove that no local candidates can be found for the position |
+| Subclass Temporary Worker Per (Temporary Work Permit) | For short-term contracts, employers must obtain approval from the Labor Bureau |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Material Forming and Cutting Equipment Operator？**
-- 喜欢动手操作机械设备，对精度有要求的人
-- 愿意接受职业培训并从事工业蓝领工作的人
+**Who is suited**
+- Suitable for people who enjoy hands-on operation of mechanical equipment and require precision.
+- Willing to receive vocational training and work in industrial blue-collar jobs
 
-**谁不适合学Material Forming and Cutting Equipment Operator？**
-- 希望高薪且低体力消耗的人
-- 对重复性工作感到枯燥的人
+**Who is not suited**
+- Those who want high salaries and low physical consumption
+- People who find repetitive work boring
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in France?**
+A: Pre-tax annual salary about EUR 22,000 to 40,000, depending on experience and qualifications.
+
+**Q: Can foreign applicants come to France to work in this profession through skilled immigration?**
+A: It is more challenging because this occupation is not in short supply; employers must prove that there are no suitable local candidates and usually require French language proficiency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Material Forming and Cutting Equipment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in France?**
-答：The average gross annual salary ranges from €22,000 to €40,000, depending on experience and qualifications.
-
-**问：Can foreign applicants migrate to France for this occupation through skilled migration?**
-答：It is difficult as this is not a shortage occupation; employers must prove no local candidate, and French language skills are often required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

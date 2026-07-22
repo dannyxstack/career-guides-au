@@ -1,60 +1,94 @@
-# Lawyer（Lawyer）职业分析 · IE
+# Lawyer — career analysis · Ireland
 
-**职业代码：2611 – Lawyer。**
+**Occupation code: 2611 (ISCO08)**
 
-Lawyers advise clients on legal matters, represent them in court, draft legal documents, and provide expert legal opinions in areas such as litigation, corporate transactions, and intellectual property.
+Lawyers provide legal advice, represent clients in court, draft legal documents, and offer expert legal opinions in litigation, commercial transactions, intellectual property, and other legal matters.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（法学学士） | $15,000~$25,000（每年学费，视大学而定） |
-| 职业培训 | 1-2年（律师资格考试培训） | $5,000~$10,000（包括课程和考试费用） |
+| Bachelor's degree | 3-4 years (Bachelor of Laws) | $15,000~$25,000 (Annual tuition fees, depending on the university) |
+| Vocational training | 1-2 years (bar exam training) | $5,000~$10,000 (Includes course and exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学学士（LLB） | 爱尔兰大学 | 必备 | 需完成法学院教育 |
-| 律师执业资格（Law Society of Ireland） | Law Society of Ireland | 必备 | 包括职业培训课程和实习 |
+| Bachelor of Laws (LLB). | Irish universities | Required | Requires completion of law school |
+| Practicing Certificate (Law Society of Ireland) | Law Society of Ireland | Required | Includes vocational training courses and internships |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 9,000。爱尔兰法律行业需求稳定，商业法律领域的律师因外国投资和科技公司涌入而需求旺盛。诉讼和刑法领域竞争激烈。预计未来几年就业增长平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 9,000. Demand for legal services in Ireland is stable; lawyers in commercial law are in high demand due to foreign investment and influx of tech companies. Litigation and criminal law are competitive. Employment growth is expected to be steady in the coming years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 税前年薪，视律所规模 |
-| 中级（4-7年） | $55,000~$85,000 | 税前年薪 |
-| 高级（8年以上） | $90,000~$150,000 | 税前年薪，合伙人和高薪领域更高 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Annual pre-tax salary, depending on law firm size |
+| Mid-level (4-7 years) | $55,000~$85,000 | Annual pre-tax salary |
+| Senior (8+ years) | $90,000~$150,000 | Pre-tax annual salary, higher for partners and high-paying fields |
+| average salary | $77,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级律师（solicitor）通常在律师事务所工作5-8年后可晋升为合伙人，或晋升为高级法律顾问。资深律师也可转向司法界或企业法务部门。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The lawyer profession will not be fully replaced by AI, but repetitive document review, legal research, and contract generation tasks will be highly automated, while core skills such as litigation strategy, client consultation, and court advocacy will be enhanced by AI tools.
+
+Junior solicitors usually work at a law firm for 5-8 years before being promoted to partner, or advanced to senior legal counsel. Senior lawyers can also transition to the judiciary or corporate legal departments.
+
+**Tasks most exposed to AI:**
+
+- Basic review and risk annotation of contracts and documents
+- legal database searching and case summary compilation
+- Drafting and template generation of standard legal documents
+- Information extraction and preliminary analysis in due diligence
+
+**Where AI augments the role:**
+
+- Use AI for legal research, quickly obtaining relevant case law and regulations
+- Analyze case data with AI to assist in formulating litigation strategies
+- Use AI tools to automatically generate contract drafts and optimize clauses
+- Leveraging natural language processing to improve the quality and consistency of legal documents
+- AI-assisted customer Q&A system to improve consultation efficiency
+
+**Human moat:**
+
+- Interpersonal communication and adaptability in court defense and negotiation.
+- Strategic judgment and creative legal reasoning in complex cases
+- Deep understanding of client business scenarios and personalized recommendations
+- Ethical judgment and professional responsibility, bearing the ultimate legal consequences.
+
+**Skills to build:**
+
+- Operation of AI legal tools (e.g., Kira Systems, ROSS Intelligence)
+- Data analysis and legal technology methodology
+- Advanced contract law and negotiation skills
+- Interdisciplinary knowledge (e.g., finance, technology)
+- Privacy and data compliance law
+- Human-machine collaboration project management
+
+**Key growth areas:**
 
 - Corporate law
 - Technology law
@@ -63,69 +97,68 @@ Lawyers advise clients on legal matters, represent them in court, draft legal do
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，需年薪超过30,000欧元。律师通常不在此列表，但若职位为需要高技能，可申请。持有2年后可申请永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于普通工作，需年薪至少30,000欧元。雇主需进行劳动力市场测试。5年后可申请永居。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需年薪超过欧盟门槛（2023年约38,000欧元）。法律行业通常不在此列。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for shortage occupations, requires annual salary over €30,000. Lawyers are typically not on this list, but if the position requires high skills, they can apply. Eligible for permanent residency after holding for 2 years. |
+| Subclass General Employment P (General Employment Permit) | Applicable to ordinary work, requiring an annual salary of at least €30,000. Employers must conduct a labour market test. Permanent residency can be applied for after 5 years. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring an annual salary exceeding the EU threshold (approximately €38,000 in 2023). The legal industry is typically not included. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lawyer？**
-- 具备优秀逻辑思维和口头表达能力的人
-- 适应高强度工作的人
-- 对法律有热情并愿意长期投入学习的人
-
-**谁不适合学Lawyer？**
-- 不喜欢竞争和高压环境的人
-- 希望快速获得高薪而非长期积累的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with excellent logical thinking and verbal communication skills
+- People who can handle high-intensity work
+- People who are passionate about law and willing to commit to long-term study
+
+**Who is not suited**
+- People who dislike competition and high-pressure environments
+- People who want to get high pay quickly rather than accumulate over time
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a lawyer in Ireland?**
+A: Junior solicitor annual salary approx. EUR 35,000-50,000, mid-level EUR 55,000-85,000, senior up to EUR 90,000-150,000 or higher.
+
+**Q: As a foreign lawyer, can I work in Ireland?**
+A: Non-EU citizens need a work permit. Lawyers are usually not on the Critical Skills Occupations List, but high-skilled positions can apply for a Critical Skills Employment Permit. Typically need to pass a qualification exam or conversion process.
+
+**Q: How long does it take to become a lawyer in Ireland?**
+A: Typically requires completing a 4-year law undergraduate degree, followed by 1-2 years of professional legal training (including internship), totaling about 5-6 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Lawyer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a lawyer in Ireland?**
-答：Junior lawyers earn around €35,000-€50,000, mid-level €55,000-€85,000, and senior lawyers can earn €90,000-€150,000 or more per year.
-
-**问：Can a foreign lawyer work in Ireland?**
-答：Non-EU citizens need a work permit. Lawyers are not on the shortage list, but high-skilled roles may qualify for a Critical Skills Employment Permit. Typically, foreign qualifications need to be assessed and may require additional exams.
-
-**问：How long does it take to become a lawyer in Ireland?**
-答：Typically 4 years for a law degree, followed by 1-2 years of professional training (including an apprenticeship), totaling about 5-6 years.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

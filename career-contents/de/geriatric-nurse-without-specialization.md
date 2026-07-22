@@ -1,61 +1,96 @@
-# Geriatric Nurse (without specialization)（Geriatric Nurse (without specialization)）职业分析 · DE
+# Geriatric Nurse (without specialization) — career analysis · Germany
 
-**职业代码：8210 – Geriatric Nurse (without specialization)。**
+**Occupation code: 8210 (KldB)**
 
-Geriatric nurses in Germany provide daily care, basic medical support, and emotional assistance to the elderly, working in nursing homes, day-care facilities, or home care. It is one of the most in-demand healthcare professions in Germany.
+In Germany, aged care workers care for the elderly, including daily living assistance, basic medical care, and psychological support, mainly in nursing homes, day care facilities, or home care. The demand for this occupation is huge, and it is one of the most in-demand care professions in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常无学费，仅需少量书本费） |
-| 护理助理短期培训 | 1-2年 | $1,000~$5,000（部分州提供免费培训，但私立课程可能收费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Paid during training, usually no tuition fees, only minimal costs for books) |
+| Short-term training for nursing assistant | 1-2 years | $1,000~$5,000 (Free training available in some states, but private courses may charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 老年护理师执业许可（PflVG） | 各州卫生局 | 必备 | 通过国家考试后获得，是从事该职业的法定要求 |
-| 职业培训毕业证书 | 德国工商会（IHK）或相关协会 | 必备 | 完成3年双元制培训后获得 |
-| 资质认证（Anerkennung） | 德国各州认证机构 | 可选 | 境外学历需通过等同性认证，涉及语言和专业知识考试 |
+| Geriatric Care Practitioner License (PflVG) | State health departments | Required | Obtained after passing the national examination, it is a legal requirement to practice this occupation. |
+| Vocational training graduation certificate | German Chamber of Commerce (IHK) or related associations | Required | Awarded after completing a 3-year dual system training |
+| Qualification recognition (Anerkennung) | German state accreditation bodies | Optional | Overseas qualifications need equivalence assessment, involving language and professional knowledge exams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 600,000。德国老龄化加剧导致老年护理人才持续紧缺。联邦劳工局预计未来十年岗位需求增长15%以上，尤其专业护理人员缺口巨大。
+**Job demand: very high (★★★★½).** National workforce approx. 600,000. Germany's aging population is causing a persistent shortage of elderly care workers. The Federal Employment Agency predicts over 15% growth in job demand in the next decade, especially for professional caregivers.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪，取决于工作场所（公立/私立）和地区 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪，含夜班和周末补贴 |
-| 高级（7年以上/主管） | $45,000~$55,000 | 税前年薪，负责人岗位或专科护理师 |
+| Median salary | $47,988 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$36,000 | Pre-tax annual salary, depends on workplace (public/private) and region |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual salary before tax, including night and weekend allowances |
+| Senior (7+ years/supervisor) | $45,000~$55,000 | Gross annual salary, for supervisor roles or specialist nurses. |
+| average salary | $48,756 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从普通老年护理员起步，通过继续教育成为专业护理师（Fachkraft），进而晋升为护理主管（Pflegedienstleitung）或养老院管理岗。也可转向专科护理（如老年精神病护理）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
+
+Can start as a general aged care worker, progress through continuing education to become a professional care specialist (Fachkraft), then advance to care manager (Pflegedienstleitung) or nursing home administration. Can also specialize in areas like geriatric psychiatry nursing.
+
+**Tasks most exposed to AI:**
+
+- Documentation and report generation: AI automatically generates care logs, medication records, and anomaly reports
+- Scheduling and task allocation: AI optimizes caregiver shifts and client visit routes
+- Basic health monitoring data collation: AI automatically aggregates metrics like blood pressure and blood glucose and issues alerts
+- Partially standardized daily conversations: AI chatbots handle routine inquiries (e.g., meal times)
+
+**Where AI augments the role:**
+
+- Individualized care plan development: AI analyzes client data to recommend more precise activities and dietary plans.
+- Fall/risk prediction: AI uses sensor data for early warnings, assisting caregivers in preventing accidents
+- Family communication and reporting: AI generates customized monthly reports to enhance family trust
+- Training and skill enhancement: AI simulated scenarios for nursing staff to practice complex care situations
+- Cross-language/cross-cultural communication: AI real-time translation aids communication with elderly from multicultural backgrounds
+
+**Human moat:**
+
+- Building trust and emotional support: human empathy, patience, and non-verbal communication are irreplaceable.
+- Flexible judgment and emergency response in unexpected situations: e.g. comprehensive assessment of injuries and emotions after an elderly person falls
+- Physical contact and intimate care: tasks requiring detailed physical contact such as assisting with eating, bathing, and toileting
+- Ethical decision-making and end-of-life care: making humane, respectful judgments in terminal care
+- Adaptation to unstructured environments: dealing with erratic behaviour or sudden cognitive changes in the elderly
+
+**Skills to build:**
+
+- Proficiency in nursing management software (e.g., AlayaCare, MYP)
+- Basic data analysis: interpreting AI early warning reports and translating into actions
+- Communication and empathy skills: especially delivering personalised care with AI assistance
+- Digital health literacy: use wearable devices and remote monitoring platforms
+- Cross-cultural care ability: adapting to diverse needs of elderly immigrant populations
+- Continuous learning mindset: keep up with AI tool updates and best practices
+
+**Key growth areas:**
 
 - Aging population
 - High demand
@@ -64,69 +99,68 @@ Geriatric nurses in Germany provide daily care, basic medical support, and emoti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于持有学士学位且年薪达法定门槛的专业人士，老年护理师需通过资质认证 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于完成德国认可的职业培训或学历，需获得雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许在德寻找工作，护理行业加分 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to professionals with a bachelor's degree and earning the statutory salary threshold; aged care workers must pass qualification certification. |
+| Subclass Skilled Worker (Skilled Worker Visa) | For those who have completed a recognised vocational training or degree in Germany, employer sponsorship required |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa allowing job search in Germany; nursing sector bonus points. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geriatric Nurse (without specialization)？**
-- 有耐心和同理心，喜欢与老年人相处
-- 能承受轮班和体力劳动，抗压能力强
-- 希望在德国获得稳定工作并移民的人
-
-**谁不适合学Geriatric Nurse (without specialization)？**
-- 对体力要求和高强度工作敏感者
-- 不擅长沟通或团队协作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patience and empathy, enjoy working with the elderly
+- Able to handle shift work and physical labor, with strong stress tolerance
+- Those who wish to obtain stable employment and immigrate to Germany
+
+**Who is not suited**
+- Those sensitive to physical demands and high-intensity work
+- People who are not good at communication or teamwork.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Aged Care Worker in Germany?**
+A: Annual pre-tax salary: approx. €30,000–55,000; junior positions: €30,000–36,000; senior positions: up to €55,000. Salary affected by public/private institution, region, and overtime allowances.
+
+**Q: How can overseas nursing qualifications be recognized in Germany?**
+A: Must pass equivalence assessment by German state certification bodies (e.g. Regierungspräsidium), usually requiring B2 German level, may need supplementary courses or knowledge exams. After certification, can apply for work visa.
+
+**Q: What are the promotion paths for aged care workers?**
+A: Can further study to become nursing supervisor, nursing home manager, or specialist nurse (e.g., dementia care), or transition to nursing education or quality management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Geriatric Nurse (without specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for geriatric nurses in Germany?**
-答：Gross annual salary ranges from €30,000 to €55,000, with entry-level around €30,000-€36,000 and senior positions up to €55,000. Pay varies by employer type, region, and shift allowances.
-
-**问：How can foreign nursing qualifications be recognized in Germany?**
-答：Recognition involves an equivalence assessment by state authorities (e.g., Regierungspräsidium), usually requiring B2 German proficiency. Additional coursework or exams may be needed. Once recognized, a work visa can be obtained.
-
-**问：What are the career advancement paths for geriatric nurses?**
-答：Opportunities include becoming a nursing director, facility manager, or specialist (e.g., dementia care). Further education may lead to roles in nursing education or quality management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

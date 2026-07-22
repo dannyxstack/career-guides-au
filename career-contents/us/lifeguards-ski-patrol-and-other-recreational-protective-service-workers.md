@@ -1,61 +1,93 @@
-# Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers（Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers）职业分析 · 美国
+# Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers — career analysis · United States
 
-**职业代码：33-9092 – Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers。**
+**Occupation code: 33-9092 (SOC)**
 
-Monitor recreational areas such as pools, beaches, or ski slopes to provide assistance and protection to participants.
+Monitor and provide assistance and protection in recreation areas such as swimming pools, beaches, or ski slopes to ensure public safety.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常完成高中即可） |
-| 认证培训课程 | 数周至数月 | $100~$500（如红十字会救生员培训） |
+| High school diploma or equivalent | 0 years | $0~$0 (Typically requires completion of high school) |
+| Certified training course. | A few weeks to several months | $100~$500 (Such as Red Cross lifeguard training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国红十字会救生员认证 | American Red Cross | 必备 | 包括CPR和急救 |
-| 心肺复苏认证 | American Red Cross / AHA | 必备 | 基本生命支持 |
-| 急救认证 | American Red Cross | 必备 | 常见要求 |
+| American Red Cross lifeguard certification | American Red Cross | Required | Includes CPR and first aid |
+| CPR certification | American Red Cross / AHA | Required | Basic Life Support |
+| First Aid Certification | American Red Cross | Required | Common requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。随着公共休闲设施增加和旅游需求回升，预计该职业就业将温和增长，但季节性明显。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. With increased public recreational facilities and tourism recovery, moderate job growth expected, but seasonal variations remain.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$31,000 | 每小时约$12-15 |
-| 中级（3-5年） | $31,000~$38,000 | 小时工资约$15-18 |
-| 高级（5年以上或主管） | $38,000~$48,000 | 主管或多年经验 |
+| Median salary | $33,580 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$31,000 | approximately $12-15 per hour |
+| Mid-level (3–5 years) | $31,000~$38,000 | Hourly wage about $15-18. |
+| Senior (5+ years or supervisor) | $38,000~$48,000 | Supervisor or many years of experience. |
+| average salary | $34,470 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升为高级救生员、巡逻队长或娱乐设施安全主管，部分转入急救医疗领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of lifeguards and ski patrollers rely on real-time judgment and physical response, making them difficult to fully replace by AI in the short term; however, tools like drone monitoring and smart alarm systems are aiding surveillance, and entry-level positions may decrease due to automated scheduling.
+
+Can advance to senior lifeguard, patrol captain, or recreation facility safety supervisor; some transition into emergency medical services.
+
+**Tasks most exposed to AI:**
+
+- Using fixed cameras or drones for routine surface/snow cover monitoring
+- Automatically detect drowning or dangerous behaviors using sensors and AI systems and alert
+- Automatic generation of incident reports and daily safety logs
+- Automatic scheduling based on weather and passenger flow data
+
+**Where AI augments the role:**
+
+- AI-assisted hazard prediction: using weather data to identify high-risk time periods and areas in advance
+- Enhanced decision support: smart wearable devices provide real-time rescue route optimisation
+- Improve training effectiveness: VR simulates real rescue scenarios, reducing training costs.
+- Automating clerical work: smart forms auto-fill, freeing up staff for on-site tasks
+
+**Human moat:**
+
+- Rapid manual rescue and CPR operations in emergency situations
+- Situational awareness and intuitive judgment in complex unstructured environments
+- Human touch in public communication to soothe emotions and maintain order
+- Legal accountability and arbitration responsibility cannot be delegated to AI
+
+**Skills to build:**
+
+- Advanced First Aid and Emergency Medical Response certification (e.g., EMT)
+- Drone operation and monitoring system maintenance skills
+- Basic data analysis (e.g., weather, foot traffic pattern recognition)
+- Use and content creation of VR/AR training tools
+- Communication and conflict de-escalation skills (handling violators or panicked crowds)
+
+**Key growth areas:**
 
 - Seasonal Demand
 - Public Safety
@@ -64,62 +96,64 @@ Monitor recreational areas such as pools, beaches, or ski slopes to provide assi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 季节性临时工作签证，雇主需证明劳工短缺 |
-| Subclass J-1（J-1 Exchange Visitor） | 文化交流项目，可用于营地或度假村救生员 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal temporary work visa, employer must demonstrate labor shortage |
+| Subclass J-1 (J-1 Exchange Visitor) | Cultural exchange program, applicable for camp or resort lifeguards |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers？**
-- 喜欢户外活动和水上运动
-- 具备急救技能和冷静应对紧急情况的能力
-- 寻求暑期或季节性工作
+**Who is suited**
+- Enjoys outdoor activities and water sports
+- Possess first aid skills and calm ability to handle emergencies
+- Seeking summer or seasonal work
 
-**谁不适合学Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers？**
-- 恐惧水或高度环境
-- 无法承受长时间站立或观察的工作强度
+**Who is not suited**
+- Fear of water or heights
+- Cannot tolerate the intensity of prolonged standing or observation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a lifeguard in the United States?**
+A: Annual salary approximately $24,000 to $48,000, depending on experience and location, usually hourly.
+
+**Q: Can lifeguards immigrate to the US via H-1B visa?**
+A: H-1B usually not applicable as the occupation typically does not require a bachelor's degree. Seasonal work may consider H-2B or J-1 visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for lifeguards in the US?**
-答：Annual salary ranges from $24,000 to $48,000, depending on experience and location, typically hourly.
-
-**问：Can lifeguards immigrate to the US via H-1B visa?**
-答：H-1B is generally not applicable since it rarely requires a bachelor's degree. Seasonal work may qualify for H-2B or J-1 visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Medical Equipment Preparers（Medical Equipment Preparers）职业分析 · 美国
+# Medical Equipment Preparers — career analysis · United States
 
-**职业代码：31-9093 – Medical Equipment Preparers。**
+**Occupation code: 31-9093 (SOC)**
 
-Prepare, sterilize, install, or clean laboratory or healthcare equipment. May perform routine laboratory tasks and operate or inspect equipment.
+Prepare, disinfect, install or clean lab or medical equipment. May perform routine lab tasks and operate or inspect equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 大专证书或副学士学位 | 1-2年 | $5,000~$20,000（社区学院或技术学校） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Diploma or associate degree | 1-2 years | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无菌处理认证 | 国际医疗卫生无菌处理协会（IAHCSMM） | 可选 | 部分雇主要求 |
-| CPR认证 | 美国心脏协会（AHA） | 必备 | 基本要求 |
+| CPR certification | American Heart Association (AHA) | Required | Basic requirements |
+| Sterile processing certification | International Association of Healthcare Central Service Materiel Management (IAHCSMM) | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 57,000。随着人口老龄化和医疗技术进步，医疗设备需求持续增长，该职业就业前景稳定，预计2022-2032年增长约7%。
+**Job demand: high (★★★★☆).** National workforce approx. 57,000. With an aging population and advancing medical technology, demand for medical devices continues to grow, ensuring stable employment prospects with an estimated 7% growth from 2022 to 2032.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 时薪约15-18美元 |
-| 中级（3-7年） | $38,000~$48,000 | 时薪约18-23美元 |
-| 高级（7年以上） | $48,000~$60,000 | 时薪约23-29美元 |
+| Median salary | $47,700 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$38,000 | Hourly wage about $15-$18 |
+| Mid-level (3–7 years) | $38,000~$48,000 | Hourly wage approx. 18-23 USD |
+| Senior (7+ years) | $48,000~$60,000 | Hourly wage approximately $23-29 USD |
+| average salary | $50,510 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从初级技术员起步，积累经验后可晋升为高级技术员或主管，部分可转向医疗设备销售或临床工程领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Medical device preparer positions face mixed AI impact: repetitive tasks like sterilization and inventory management are easily automated, but jobs requiring judgment like device quality inspection and clinical support are enhanced by AI. Overall role shifts more towards technical coordination, with slightly higher entry requirements.
+
+Usually starts as a junior technician, gains experience to advance to senior technician or supervisor, and some may transition into medical device sales or clinical engineering.
+
+**Tasks most exposed to AI:**
+
+- Automated standard disinfection processes, such as UV and chemical spray robots replacing manual work
+- Automated processing of equipment inventory records and replenishment orders, reducing manual counts through RFID and AI systems
+- Automatically perform routine equipment calibration and self-checks, with AI algorithms replacing manual inspections
+- Automatically organize medical device logs and compliance documents, reducing paperwork
+- Automated cleaning and drying of instruments using high-end dishwashers and drying robots
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment faults, predictive maintenance through data analysis, improves engineer efficiency
+- Enhanced equipment use training; AI simulators help novices get familiar with complex equipment faster.
+- AI optimizes disinfection process parameters, adjusting time and temperature based on equipment material and contamination level.
+- Enhanced supply chain management, AI predicts shortages and automatically generates purchasing recommendations
+- AI-assisted device recall management, automatically tracking affected devices and notifying relevant departments.
+
+**Human moat:**
+
+- When handling emergency equipment failures, on-site judgment and manual repair skills are required
+- Coordinate with medical staff, understanding temporary needs for special surgeries or examinations
+- Conduct acceptance testing and post-installation verification of new equipment, requiring clinical knowledge
+- Perform high-risk operations (e.g., implant preparation) in sterile environments; zero tolerance for errors
+- Supervise AI system decisions, manually review and intervene in anomalies
+
+**Skills to build:**
+
+- Basic programming skills: understanding Python or RPA scripts for automation task configuration
+- Operational capability for medical equipment data systems (e.g., CMMS)
+- AI/Machine learning basics: understanding predictive maintenance model principles
+- Latest standards for aseptic techniques and infection control (e.g., CDC guidelines)
+- Cross-departmental communication and training skills, especially for younger nurses and technicians
+- Equipment troubleshooting and basic electronic repair skills
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare expansion
@@ -61,64 +97,63 @@ Prepare, sterilize, install, or clean laboratory or healthcare equipment. May pe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等学历，常见于医院或医疗机构 |
-| Subclass EB-3（Employment-Based Third Preference） | 需要PERM劳工证，适合有经验的医疗设备准备员 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or equivalent, common in hospitals or medical institutions |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, suitable for experienced medical equipment preparers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Equipment Preparers？**
-- 注重细节和卫生规范的人
-- 愿意在医疗环境中工作的人
-- 喜欢动手操作设备的人
-
-**谁不适合学Medical Equipment Preparers？**
-- 不耐重复性工作的人
-- 对消毒剂或医疗环境敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are detail-oriented and follow hygiene standards
+- People willing to work in a medical environment
+- People who enjoy hands-on operation of equipment
+
+**Who is not suited**
+- People who cannot tolerate repetitive work
+- Those sensitive to disinfectants or medical environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for medical equipment preparers?**
+A: Salary range is approximately USD 30,000–60,000, with a median of around USD 40,000, depending on location and experience.
+
+**Q: Is this occupation suitable for applying for a U.S. work visa?**
+A: Can apply via H-1B visa (requires bachelor's degree) or EB-3 green card, but employer sponsorship is needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Medical Equipment Preparers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Medical Equipment Preparers?**
-答：Salaries range from $30,000 to $60,000, with a median around $40,000, varying by location and experience.
-
-**问：Is this occupation suitable for US work visas?**
-答：Yes, via H-1B (requires bachelor's degree) or EB-3 green card with employer sponsorship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Roofers and shinglers（Roofers and shinglers）职业分析 · 加拿大
+# Roofers and shinglers — career analysis · Canada
 
-**职业代码：73110 – Roofers and shinglers。**
+**Occupation code: 73110 (NOC)**
 
-Roofers and shinglers install, repair, and replace roofs on buildings using materials such as asphalt shingles, metal, and tiles, ensuring waterproofing and insulation, making them a vital trade in construction.
+Roofers and roof tilers install, repair, and replace building roofs using materials such as asphalt shingles, metal, and tiles, ensuring waterproofing and insulation—a key skilled trade in construction.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常要求高中文凭或同等学历） |
-| 学徒培训 | 2-4年 | $1,000~$5,000（包括在职培训和课堂学习，部分省份提供资助） |
+| High school graduation | None | $0~$0 (Usually requires high school diploma or equivalent) |
+| Apprenticeship training | 2-4 years | $1,000~$5,000 (Includes on-the-job training and classroom learning, with funding available in some states) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级学徒注册 | 各省学徒机构 | 必备 | 必须注册学徒计划，完成规定小时数和课程 |
-| 行业认证 | 省行业认证机构 | 可选 | 通过考试获得红印认证（Red Seal），可跨省工作 |
-| 高处作业安全证书 | 各省安全机构 | 可选 | 部分雇主要求，培训后获证 |
+| Provincial apprenticeship registration | Provincial apprenticeship authorities | Required | Must register in an apprenticeship program, complete required hours and courses |
+| Industry certifications | Provincial industry certification body | Optional | Obtain Red Seal certification through exams, allowing work across provinces. |
+| Safety certificate for working at heights | Provincial security agencies | Optional | Some employers require certification after training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,500。加拿大住宅和商业建筑需求稳定，屋顶工就业前景良好，尤其在安大略省、不列颠哥伦比亚省和阿尔伯塔省。预计2023-2031年职位空缺中等，退休人员替换带来持续需求。
+**Job demand: high (★★★★☆).** National workforce approx. 13,500. Stable demand for residential and commercial buildings in Canada, with good job prospects for roofers, especially in Ontario, British Columbia, and Alberta. Moderate job openings expected 2023-2031, with ongoing demand from retirement replacements.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒期薪资约为熟练工的50-70% |
-| 中级（3-6年） | $50,000~$65,000 | 已获认证的熟练工薪资 |
-| 高级（6年以上） | $65,000~$85,000 | 包括领班、承包者或高需求地区 |
+| Median salary | $64,418 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprenticeship wages are approximately 50-70% of skilled workers |
+| Mid-level (3–6 years) | $50,000~$65,000 | Wages for certified skilled workers |
+| Senior (6+ years) | $65,000~$85,000 | Including foremen, contractors, or high-demand areas |
+| average salary | $66,560 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 多数从学徒开始，逐步升为熟练工或领班。经验丰富后可成立自己的公司，或转向建筑检查、项目管理等岗位。部分人通过额外培训成为屋面估价员或监理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
+
+Most start as apprentices, gradually becoming skilled workers or foremen. Experienced individuals can start their own companies, or transition to roles like building inspection, project management. Some become roofing estimators or supervisors through additional training.
+
+**Tasks most exposed to AI:**
+
+- Roof area measurement and material quantity calculation (AI vision + drone)
+- Automated cutting and positioning of standard roof panels or tiles (robot-assisted)
+- Initial roof condition inspection report generation (AI image recognition)
+- Security monitoring and compliance documentation (AI-automated recording)
+
+**Where AI augments the role:**
+
+- Drone roof inspection and thermal imaging (AI-assisted leak detection)
+- AR (Augmented Reality) overlays installation guides, reducing blueprint reading errors.
+- AI optimizes material cutting layouts to reduce waste
+- Real-time weather and project timeline prediction to assist work scheduling
+- Digital twin model simulates roof waterproofing layer performance
+
+**Human moat:**
+
+- Custom installation of complex roof structures (spires, curves, historic buildings)
+- Waterproofing detail work and manual tasks (e.g., shingle overlapping, sealant application)
+- On-site problem assessment (e.g., damage extent, hidden structures)
+- Direct communication with clients and on-site decision-making
+- Safety Awareness and Emergency Response for Working at Heights
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- BIM (Building Information Modeling) fundamentals and digital tools
+- Solar roof installation and waterproofing integration
+- Basic data analysis (material optimization, cost estimation)
+- Green roof (vegetated roof) construction techniques
+- Safety regulations and use of smart equipment for high-altitude operations.
+
+**Key growth areas:**
 
 - Roofing
 - Construction
@@ -64,66 +99,65 @@ Roofers and shinglers install, repair, and replace roofs on buildings using mate
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安省、BC省有技工类别，需雇主offer或相关工作经验 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地工人，可申请工签，之后转经验类移民 |
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 技术工人需满足联邦条件，但屋顶工通常不在核心职业列表，需LMIA加分 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and BC have skilled trades streams requiring employer offer or relevant work experience |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to hire local workers; can apply for work visa, then transition to experience-based immigration. |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Skilled workers must meet federal conditions, but roofers are usually not on the core occupation list and require LMIA bonus points |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roofers and shinglers？**
-- 喜欢户外体力劳动、不惧高空作业的人
-- 动手能力强、注重细节和安全的实用型人才
-- 愿意通过学徒积累经验、追求稳定收入的技术工人
-
-**谁不适合学Roofers and shinglers？**
-- 有恐高症或体质较弱者
-- 不喜户外恶劣天气工作或追求室内办公环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and are not afraid of working at heights
+- Practical talents with strong hands-on skills, attention to detail, and safety awareness
+- Skilled workers willing to gain experience through apprenticeships and pursue stable income
+
+**Who is not suited**
+- Those with acrophobia or poor physical health
+- People who dislike outdoor work in bad weather or prefer an indoor office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for roofers in Canada?**
+A: Entry-level about 35,000-45,000 CAD, skilled 50,000-65,000 CAD, senior or contractors can exceed 85,000 CAD. High-demand areas (e.g., Toronto, Vancouver) offer higher pay.
+
+**Q: What are the pathways for roofers to immigrate to Canada?**
+A: Main pathways are Provincial Nominee Program (PNP) and LMIA employer sponsorship. Some provinces have skilled trades immigration streams requiring employer offer and apprenticeship certification. Express Entry typically needs additional points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Roofers and shinglers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of roofers in Canada?**
-答：Entry-level earns CAD 35,000-45,000, skilled CAD 50,000-65,000, senior or contractor over CAD 85,000. Higher in high-demand areas like Toronto and Vancouver.
-
-**问：What are the migration pathways for roofers to Canada?**
-答：Main routes are PNP and LMIA employer sponsorship. Some provinces have trades streams requiring job offer and apprenticeship certification. Express Entry often needs additional points.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

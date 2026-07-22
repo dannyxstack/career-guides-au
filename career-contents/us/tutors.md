@@ -1,60 +1,96 @@
-# Tutors（Tutors）职业分析 · 美国
+# Tutors — career analysis · United States
 
-**职业代码：25-3041 – Tutors。**
+**Occupation code: 25-3041 (SOC)**
 
-Tutors instruct individual students or small groups in academic subjects to supplement formal class instruction or prepare for standardized exams.
+Tutors provide private academic instruction to individuals or small groups, supplementing formal classroom teaching or helping students prepare for standardized tests.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费） |
-| 硕士学位（可选） | 2年 | $30,000~$60,000（提升竞争力，非必需） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities) |
+| Master's degree (optional) | 2 years | $30,000~$60,000 (Improves competitiveness, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学科教学资格证（可选） | 州教育委员会 | 可选 | 部分工作需持证，尤其K-12辅导 |
-| 教师资格证 | 州教育委员会 | 可选 | 学校家教岗常要求 |
+| Subject teaching qualification (optional) | State Board of Education | Optional | Some work requires certification, especially K-12 tutoring |
+| Teaching license/certificate | State Board of Education | Optional | Often required for school tutoring positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 163,000。美国家教需求稳定，受家长对教育重视和考试竞争推动。预计2023-2033年就业增长约5%，与平均水平相近。
+**Job demand: medium (★★½☆☆).** National workforce approx. 163,000. Demand for tutors in the US is stable, driven by parental emphasis on education and exam competition. Employment growth of about 5% is expected from 2023-2033, similar to average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 多为兼职或时薪 |
-| 中级（3-7年） | $35,000~$55,000 | 全职或资深辅导 |
-| 高级（7年以上） | $55,000~$80,000 | 自营或高级考试辅导 |
+| Median salary | $43,350 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Mostly part-time or hourly |
+| Mid-level (3–7 years) | $35,000~$55,000 | Full-time or experienced tutoring |
+| Senior (7+ years) | $55,000~$80,000 | Self-employed or advanced exam tutoring |
+| average salary | $48,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 家教可从兼职起步，积累经验后转为全职或成立辅导机构。部分人可过渡到学校教师或教育顾问角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI tools can automate some lesson planning and grading, but personalized tutoring and emotional support still rely on humans; tutoring jobs have mixed prospects.
+
+Tutors can start part-time, then with experience become full-time or set up a tutoring agency. Some may transition to school teachers or educational consultants.
+
+**Tasks most exposed to AI:**
+
+- Generate standard practice questions and answers based on general curriculum
+- Auto-grading multiple-choice and fill-in-the-blank assignments.
+- Provides text explanations and formula derivations for basic concepts
+- Answer common subject questions via voice assistants
+- Organize student mistakes and generate error logs
+
+**Where AI augments the role:**
+
+- Use AI to analyze student learning data to quickly identify knowledge gaps
+- Use AI to generate personalized lesson plans and classroom activity plans
+- Use AI voice tools to simulate dialogue practice (e.g., foreign language, interviews)
+- Use AI to generate diverse example problems and varied practice exercises
+- Assisting students in optimizing essay structure through AI writing assistants
+
+**Human moat:**
+
+- Adjusting teaching strategies based on student emotions and motivation
+- Build long-term trust relationships and motivate students
+- Handle specific learning disabilities or behavioral issues.
+- Integrate real-world cases into complex concepts
+- Provide immediate, unstructured Socratic questioning
+
+**Skills to build:**
+
+- Master mainstream AI tutoring tools (e.g., Khanmigo, Quizlet)
+- Learn data analysis basics to interpret learning reports
+- Develop skills in curriculum design with AI collaborative lesson planning
+- Enhance prompt engineering skills for AI tools
+- Enhance emotional counseling and learning motivation stimulation techniques
+- Proficient in multimodal teaching tools (whiteboard, interactive platforms)
+
+**Key growth areas:**
 
 - Online Tutoring
 - Test Preparation
@@ -63,61 +99,63 @@ Tutors instruct individual students or small groups in academic subjects to supp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不满足专业职业要求，极难获得 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements, extremely difficult to obtain |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tutors？**
-- 热爱教学、有耐心的人
-- 学科基础扎实、善于沟通者
-- 追求灵活工作时间者
+**Who is suited**
+- People who love teaching and have patience.
+- People with solid subject foundation and good communication skills
+- Those seeking flexible working hours.
 
-**谁不适合学Tutors？**
-- 不喜欢重复讲解者
-- 需要高薪稳定的工作者
+**Who is not suited**
+- Those who dislike repetitive explanations
+- People who need a high-paying, stable job
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is tutoring pay?**
+A: Hourly rate about 15-50 USD, mostly part-time; full-time annual income about 30,000-50,000 USD.
+
+**Q: Can tutoring help me immigrate to the US?**
+A: Almost impossible, as it does not meet H-1B specialty occupation requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Tutors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for tutors?**
-答：Hourly rate $15-$50, part-time; full-time annual income $30,000-$50,000.
-
-**问：Can tutors immigrate to the US?**
-答：Extremely difficult, as it doesn't qualify for H-1B specialty occupation.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Audiovisual Editing and Post-Production Technician（Audiovisual Editing and Post-Production Technician）职业分析 · FR
+# Audiovisual Editing and Post-Production Technician — career analysis · France
 
-**职业代码：L1507 – Audiovisual Editing and Post-Production Technician。**
+**Occupation code: L1507 (ROME)**
 
-Responsible for editing, color grading, sound mixing, and visual effects for film, TV, advertising, and web content; a key role in the final production of audiovisual works.
+Responsible for post-production work such as editing, color grading, sound compositing, and special effects production for film, advertising, and online content, which is a key step in shaping audiovisual works.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS（高级技师文凭） | 2年 | —（公立学校学费低，可申请学徒制（apprentissage）免学费且有工资。） |
-| Licence professionnelle（职业学士） | 3年 | $200~$8,000（公立大学学费约200欧元/年，私立学校可达8000欧元/年。） |
-| Master（硕士）或私立电影学校 | 5年 | $5,000~$15,000（顶尖私立学校如La Fémis、Louis Lumière学费较高，但声誉卓越。） |
+| BTS (Advanced Technician Diploma) | 2 years | $0~$5,000 (Public schools have low tuition fees, and apprenticeships can be applied for, with no tuition and salaries.) |
+| Licence professionnelle | 3 years | $200~$8,000 (Public university tuition is about 200 euros per year, while private schools can pay up to 8,000 euros per year.) |
+| Master's or private film schools | 5 years | $5,000~$15,000 (Top private schools like La Fémis and Louis Lumière charge higher tuition fees but have excellent reputations.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP（职业资格认证） | CPNEF de l'Audiovisuel | 可选 | 行业认可的职业资格，如Monteur·se Truquiste，非强制但提升竞争力。 |
-| DNMADE（国家艺术设计文凭） | 法国文化部 | 可选 | 部分院校颁发，偏重艺术与技术结合，非必需但利于求职。 |
+| CQP (Professional Qualification Certification) | CPNEF de l'Audiovisuel | Optional | Industry-recognized professional qualifications, such as Monteur se Truquiste, are non-mandatory but enhance competitiveness. |
+| DNMADE (National Diploma in Art and Design) | French Ministry of Culture | Optional | Some institutions issue awards that emphasize the combination of art and technology, not essential but beneficial for job hunting. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国视听产业持续增长，流媒体平台和短视频需求旺盛，但入门竞争激烈。自由职业者比例高，项目制工作为主。巴黎及大都市机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France's audiovisual industry continues to grow, with strong demand for streaming platforms and short videos, but fierce competition for entry. The proportion of freelancers is high, and project-based work is the main focus. Paris and major cities offer more opportunities.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 助理剪辑或freelance起步，薪资较低。 |
-| 中级（4-7年） | $35,000~$50,000 | 独立完成项目，稳定接单或受雇于制作公司。 |
-| 高级（8年以上） | $50,000~$80,000 | 首席剪辑师、后期总监或知名freelancer，参与大型项目。 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Assistant editing or freelance starts with lower pay. |
+| Mid-level (4-7 years) | $35,000~$50,000 | Independently complete projects, consistently receive orders, or be employed by production companies. |
+| Senior (8+ years) | $50,000~$80,000 | Chief editors, post-production directors, or well-known freelancers participate in large-scale projects. |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初期通常从剪辑助理或freelance做起，积累作品后可晋升为首席剪辑师或后期总监。部分人转向调色、特效等细分领域，或创办自己的后期工作室。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI is rapidly penetrating film and video editing, automating repetitive tasks like cutting and color correction, but also enhancing creative tools, pushing editors towards higher-level narrative and decision-making skills.
+
+Initially, they usually start as editing assistants or freelances, and after accumulating work, they can be promoted to chief editor or post-production director. Some have shifted to specialized fields like color grading and special effects, or have established their own post-production studios.
+
+**Tasks most exposed to AI:**
+
+- Automatically tag and classify video footage (e.g., object recognition, scene segmentation)
+- Basic editing and splicing (e.g., auto-generated rough cuts, matching scenes)
+- Color correction and grading (AI auto-optimizes parameters)
+- Audio noise reduction and synchronization (auto-aligning audio tracks, removing background noise)
+- Generate subtitles and metadata (automatic transcription via speech recognition)
+
+**Where AI augments the role:**
+
+- Use AI for creative screening (e.g., sentiment analysis to select best shots)
+- AI-driven effects and transition suggestions (quickly generate multiple styles)
+- Smart editing iterations (automatically generating multiple versions based on feedback)
+- Collaborate with AI for storyboard visualization (text-to-preview video)
+- AI-assisted style transfer (simulating specific director or era styles)
+
+**Human moat:**
+
+- Narrative judgment and emotional rhythm control (AI struggles to understand human emotional depth)
+- Creative decisions and artistic direction (e.g., determining editing style, emotional arc)
+- Communicate needs with clients and directors (interpersonal collaboration and persuasion)
+- Complex narrative structure and montage design (cross-scene metaphors)
+- Ethical and copyright judgment (e.g., fair use, handling sensitive content)
+
+**Skills to build:**
+
+- Proficient in AI video tools (e.g., Runway ML, Adobe Sensei)
+- Storytelling and narrative structure design
+- Data analysis and audience insights (using AI to analyze audience reactions)
+- Cross-media integration (combining AI-generated content with live-action footage)
+- Project management and client communication
+- Continuously learn latest AI applications (e.g., video generation models)
+
+**Key growth areas:**
 
 - Streaming platforms
 - Short-form video
@@ -62,68 +98,67 @@ Responsible for editing, color grading, sound mixing, and visual effects for fil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent (pr（Talent Passport (Artistic and Cultural Professions)） | 针对艺术家及文化领域人才，4年居留，可带家属，需证明在法有项目或雇主。 |
-| Subclass Salarié (CDI/CDD)（Employee (Permanent/Fixed-term Contract)） | 受雇于法国公司，公司需申请工作许可，适用于长期职位。 |
-| Subclass Recherche d'emploi /（Job Search / Business Creation） | 毕业后临时居留，允许在法寻找工作或创业，1年可续。 |
+| Subclass Passeport Talent (pr (Talent Passport (Artistic and Cultural Professions)) | For artists and cultural sector talents, 4-year residence, can bring family, must prove project or employer in France. |
+| Subclass Salarié (CDI/CDD) (Employee (Permanent/Fixed-term Contract)) | Employed by a French company, which requires a work permit for long-term positions. |
+| Subclass Recherche d'emploi / (Job Search / Business Creation) | Temporary residence after graduation allows you to find work or start a business in France, with a one-year renewal. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Audiovisual Editing and Post-Production Technician？**
-- 有创意、热爱影视和剪辑的年轻人
-- 具备技术敏感性、能驾驭复杂软件（Premiere, After Effects, DaVinci Resolve等）
-- 适应自由职业节奏、能自我营销和项目管理
-
-**谁不适合学Audiovisual Editing and Post-Production Technician？**
-- 抗拒不规律工作时间和赶工压力的人
-- 不愿频繁更新技术或学习新软件的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative young people who love film, television, and editing
+- Technical sensitivity and ability to handle complex software (Premiere, After Effects, DaVinci Resolve, etc.)
+- Adapt to the pace of freelancing, be able to self-market and manage projects
+
+**Who is not suited**
+- People who resist irregular working hours and the pressure of rushing tasks
+- People who are unwilling to frequently update technology or learn new software
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French editors?**
+A: Entry-level salaries are about 25,000-35,000 euros per year, intermediate salaries 35,000-50,000 euros per year, and seniors can earn up to 80,000 euros per year. Freelancers charge fees per project, with significant income fluctuations.
+
+**Q: Can foreign editors work in France through skilled migration?**
+A: Yes, you can obtain a Salarié visa with Passeport Talent (cultural arts) or by being employed by a French company. However, professional skills must be proven and the demands of the French market are intense, making industry competition fierce.
+
+**Q: What career development paths are available for editors?**
+A: You can rise from assistant to chief editor, or specialize in color grading, sound effects, special effects, and related fields. You can also set up a studio. After accumulating connections and works, there is considerable income and room for growth.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Audiovisual Editing and Post-Production Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for editors in France?**
-答：Entry-level around €25,000–€35,000/year, mid-level €35,000–€50,000/year, senior up to €80,000+/year. Freelancers charge per project, income varies.
-
-**问：Can foreign editors work in France via skilled migration?**
-答：Yes, via Passeport Talent (artistic/cultural) or Salarié visa with a French company. Must prove skills and demand; competitive field.
-
-**问：What are the career paths for editors?**
-答：From assistant to lead editor, or specialize in color grading, sound, VFX. May start own studio. Networking and portfolio are key.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

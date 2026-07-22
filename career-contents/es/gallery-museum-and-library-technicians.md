@@ -1,62 +1,98 @@
-# Gallery, Museum and Library Technicians（Gallery, Museum and Library Technicians）职业分析 · ES
+# Gallery, Museum and Library Technicians — career analysis · Spain
 
-**职业代码：3733 – Gallery, Museum and Library Technicians。**
+**Occupation code: 3733 (CNO)**
 
-Responsible for collection management, exhibition setup, document organization and digitization in galleries, museums and libraries, acting as key operational staff in cultural institutions.
+It is responsible for the management, exhibition arrangement, document organization, and digitization of collections in art galleries, museums, and libraries, serving as the core executive role in the operation of cultural institutions.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Superior） | 2年（FP Grado Superior） | $300~$800（公立FP几乎免费，私立年均300-800欧元） |
-| 本科（Grado） | 4年（Grado） | $800~$2,500（公立大学年均800-2500欧元） |
-| 硕士（Máster） | 1年（Máster） | $1,500~$5,000（专注于博物馆学或图书馆学） |
+| Vocational Education (FP Grado Superior) | 2 years (FP Grado Superior) | $300~$800 (Public FPs are almost free, while private schools average 300-800 euros per year) |
+| Undergraduate (Grado) | 4 years (Grado) | $800~$2,500 (Public universities average 800-2,500 euros per year.) |
+| Máster | Year 1 (Máster) | $1,500~$5,000 (Focus on museology or library science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 综合大学本科或硕士学历 | 西班牙公立/私立大学 | 必备 | 艺术史、档案学、图书馆学等相关专业 |
-| FP Grado Superior文凭 | 教育部认可的职业教育机构 | 可选 | 例如文化管理或档案管理专业 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行官方学位认证 |
+| Bachelor's or master's degree from a comprehensive university | Spanish, public/private universities | Required | Majors in art history, archival science, library science, and related fields |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require official degree recognition |
+| FP Grado Superior diploma | Vocational education institutions recognized by the Ministry of Education | Optional | For example, cultural management or archives management majors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙文化旅游业持续复苏，博物馆与图书馆数字化转型催生岗位需求。公共财政投入稳定，但竞争激烈，临时合同比例较高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spain's cultural tourism industry continues to recover, and the digital transformation of museums and libraries is driving demand for new jobs. Public fiscal input remains stable, but competition is fierce, and the proportion of temporary contracts is relatively high.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 公立机构起薪约18k，私立略低 |
-| 中级（4-7年） | $22,000~$28,000 | 含临时合同转正后待遇 |
-| 高级（8年以上） | $28,000~$35,000 | 管理岗位或大型机构技术专家 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salaries in public institutions are about 18k, while private institutions are slightly lower |
+| Mid-level (4-7 years) | $22,000~$28,000 | Including benefits after temporary contract regularization |
+| Senior (8+ years) | $28,000~$35,000 | Management positions or technical experts in large institutions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级技术员晋升为高级技术员或部门主管，也可通过深造转向策展、文物保护或数字人文等专业岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on art museums, museums, and library technicians is mixed: repetitive tasks like document organization and digitization can be highly automated, but core tasks like curatorial creativity and relic restoration judgment still rely on human expertise.
+
+You can be promoted from junior technician to senior technician or department head, or pursue further studies in roles such as curation, cultural heritage protection, or digital humanities.
+
+**Tasks most exposed to AI:**
+
+- Automated document cataloging and metadata generation
+- Digital scanning and basic image processing
+- Multilingual automatic translation of exhibition information
+- Basic literature retrieval and classification archiving
+- Standardized writing of exhibit labels
+
+**Where AI augments the role:**
+
+- Use AI to assist in generating curatorial ideas and analyzing the correlation between exhibits
+- Intelligent detection of cultural relic defects through computer vision
+- Enhance literature retrieval efficiency with the help of natural language processing
+- Using AI to predict exhibition visitor flow and optimize spatial layout
+- Data-driven audience behavior analysis optimization services
+
+**Human moat:**
+
+- Professional identification, restoration, and maintenance assessment of cultural relics
+- Interdisciplinary curatorial narrative ability and art appreciation
+- Build trust and negotiate with artists and donors
+- Experience in emergency handling of cultural relics under emergency situations
+- A deep understanding of cultural policy and ethics
+
+**Skills to build:**
+
+- Mastering museum-specific digital asset management systems (such as TMS)
+- Learn Python basics for data processing and automation scripting
+- Familiar with computer vision tools (such as TensorFlow Object Detection)
+- Master data analytics tools (such as Tableau) for audience research
+- Enhance project management and cross-departmental collaboration skills
+- Learn about AI ethics and digital standards for cultural heritage
+
+**Key growth areas:**
 
 - Digitalization
 - Cultural Tourism
@@ -65,69 +101,68 @@ Responsible for collection management, exhibition setup, document organization a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于西班牙文化机构，由雇主提供工作合同并申请工作居留 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 需证明属于高技能专业人才，满足薪资门槛，但该职业通常不适用 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙居留6-12个月寻找工作，需有足够经济能力 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed by a Spanish cultural institution, with an employer providing a work contract and applying for work residency |
+| Subclass Altamente cualificad (Highly Qualified Professional) | You need to prove you are a highly skilled professional and meet the salary threshold, but this occupation is usually not applicable |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find a job, and you must have sufficient financial means |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gallery, Museum and Library Technicians？**
-- 对艺术、文化和历史有强烈兴趣
-- 注重细节，善于整理和分类信息
-- 喜欢稳定的工作环境而非高薪
-
-**谁不适合学Gallery, Museum and Library Technicians？**
-- 追求高收入或快速晋升
-- 偏好独立工作而非团队协作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in art, culture, and history
+- Pay attention to details and be good at organizing and categorizing information
+- Preferring a stable work environment over a high salary
+
+**Who is not suited**
+- Pursuing high income or rapid promotion
+- Preference for working independently rather than teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this profession in Spain?**
+A: Junior technicians earn an annual salary of about 18,000-22,000 euros, while senior technicians can earn up to 35,000 euros. Public institutions have stable treatment but limited growth.
+
+**Q: How can non-EU citizens immigrate to Spain to work in this profession?**
+A: The main requirement is to first obtain academic certification (Homologación), then find an employer to provide a work contract and apply for the Cuenta ajena visa. Competition is fierce, so it is recommended to apply for a job-seeking visa first.
+
+**Q: What qualifications are needed for this occupation?**
+A: A bachelor's or master's degree in a relevant field (such as art history or archival studies) or a 2-year diploma in professional education from FP Grado Superior is usually required. Non-EU degrees require official certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（2-4年）（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Gallery, Museum and Library Technicians为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Spain?**
-答：Junior technicians earn around EUR 18,000-22,000 annually, while senior positions can reach EUR 35,000. Public sector offers stability but limited growth.
-
-**问：How can non-EU citizens immigrate to Spain for this occupation?**
-答：Main steps: obtain degree recognition (Homologación), find an employer offering a contract, and apply for the Cuenta ajena work permit. Job search visa is recommended first.
-
-**问：What education is required for this occupation?**
-答：Typically a bachelor's or master's degree in related fields (e.g., art history, archival science) or a 2-year FP Grado Superior diploma. Non-EU degrees need official recognition.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Metal Structures Fabricator（Metal Structures Fabricator）职业分析 · FR
+# Metal Structures Fabricator — career analysis · France
 
-**职业代码：H2911 – Metal Structures Fabricator。**
+**Occupation code: H2911 (ROME)**
 
-Metal structures fabricators cut, assemble, and weld metal components according to blueprints for buildings, bridges, and industrial equipment.
+Metal structure fabricators are responsible for cutting, assembling, and welding metal components according to drawings, which are used in construction, bridges, industrial equipment, and other fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业证书 | 2年（CAP） | —（公立职业高中免费，学徒制有津贴） |
-| 大专/高级技师文凭 | 2年（BTS） | —（公立院校免费或低学费，私立学校费用较高） |
+| High school diploma + Vocational certificate | 2 years (CAP) | $0~$5,000 (Public vocational high schools are free, and apprenticeships are subsidized) |
+| Associate degree/senior technician diploma | 2 Years (BTS) | $0~$10,000 (Public institutions offer free or low tuition, while private schools charge higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：偏低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 金属结构制造 | 法国教育部 | 必备 | 基础职业资格，入门必备 |
-| BTS 钢结构设计制造 | 法国教育部 | 可选 | 高级技术文凭，利于晋升 |
-| 焊接认证（如AWS/ISO） | 国际机构或法国认证机构 | 可选 | 部分雇主强制要求，提高竞争力 |
-| CQPM 职业资格证书 | 法国金属加工行业委员会（UIMM） | 可选 | 行业认可，可替代部分学历要求 |
+| CAP metal structure manufacturing | French Ministry of Education | Required | Basic professional qualifications, essential for entry |
+| BTS steel structure design and manufacturing | French Ministry of Education | Optional | Advanced technical diplomas are beneficial for promotion |
+| Welding certifications (such as AWS/ISO) | International organizations or French certification bodies | Optional | Some employers require it to improve competitiveness |
+| CQPM Professional Qualification Certificate | French Metalworking Industry Council (UIMM) | Optional | Industry-recognized, can replace some educational requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国建筑业持续发展，钢结构需求稳定，尤其在绿色建筑和基础设施翻新领域。学徒制培训充足，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's construction industry continues to develop, with stable demand for steel structures, especially in green buildings and infrastructure renovation. Apprenticeship training is sufficient, and employment prospects are good.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒转正 |
-| 中级（4-8年） | $28,000~$35,000 | 税前年薪，视技能证书和项目复杂度 |
-| 高级（9年以上） | $35,000~$45,000 | 税前年薪，含团队管理或特殊技能 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprenticeship conversion to regular employment |
+| Mid-level (4–8 years) | $28,000~$35,000 | Pre-tax annual salary depends on skill certificates and project complexity |
+| Senior (9+ years) | $35,000~$45,000 | Pre-tax annual salary, including team management or special skills |
+| average salary | $20,328 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★★☆）。** 可通过经验积累晋升为团队负责人、质检员或技术监督，也可独立创业成立金属加工公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
+
+Through accumulated experience, you can be promoted to team leader, quality inspector, or technical supervisor, or you can start your own metal processing company.
+
+**Tasks most exposed to AI:**
+
+- AI-assisted automatic rebar cutting and bending
+- BIM-based automatic layout and setting out
+- Automatic rechecking of rebar positions before concrete pouring
+- Standardized Binding Robotics Operations
+
+**Where AI augments the role:**
+
+- BIM models available 24/7 to aid understanding of complex nodes
+- AR glasses overlay rebar placement drawings, reducing drawing reading errors
+- Auto stirrup bender parameters optimized by AI reduce material waste
+- On-site quality inspection using AI vision for rapid anomaly feedback
+
+**Human moat:**
+
+- Flexible tying and adjustment in complex/irregular structures
+- Adaptability to severe weather and field conditions
+- Team collaboration and problem-solving in unexpected situations.
+- Safety compliance enforcement and risk assessment
+
+**Skills to build:**
+
+- Proficiency in BIM model viewing software (e.g., Tekla, Revit)
+- Learn automated rebar processing equipment operation
+- Basic data analysis and mobile quality inspection tool usage
+- Simple AR/VR device operation and maintenance
+- Continuous learning of new standards and digital processes
+
+**Key growth areas:**
 
 - Green building
 - Infrastructure renovation
@@ -63,69 +95,68 @@ Metal structures fabricators cut, assemble, and weld metal components according 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国企业的工作居留，需获得工作许可，适用于长期合同CDI。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 针对高技能人才，如工程师或高级技工，可快速获得居留，配偶可工作。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需高薪（约≥53,000欧元/年），适用于工程师级别。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后允许在法求职一年，找到工作后转为工作居留。 |
+| Subclass Salarié (Salarié (Employee)) | Work residence employed by a French company requires a work permit, applicable to long-term contract CDI. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled talents, such as engineers or senior technicians, residency can be obtained quickly, and spouses can work. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires a high salary (about ≥53,000 euros/year), applicable to engineers. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Graduates are allowed one year in France to seek employment; after finding a job, can switch to work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Structures Fabricator？**
-- 喜欢动手操作、对金属加工有兴趣者
-- 愿意接受职业培训或学徒制的年轻人
-- 有机械或焊接基础，希望进入建筑行业者
-
-**谁不适合学Metal Structures Fabricator？**
-- 不喜体力劳动或户外工作环境者
-- 对精确度和重复性要求敏感者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy hands-on activities and are interested in metalworking
+- Young people willing to undergo vocational training or apprenticeships
+- Those with a background in mechanical or welding who wish to enter the construction industry
+
+**Who is not suited**
+- Those who dislike physical labor or outdoor work environments
+- Those sensitive to precision and repeatability requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for metal structure fabricators in France?**
+A: Entry-level is about 22,000-28,000 euros per year (before tax), intermediate about 28,000-35,000 euros/year, and senior can reach up to 45,000 euros per year. Affected by region, skill level, and company size.
+
+**Q: How can foreign metal structure workers immigrate to France?**
+A: Visas can be obtained through work residence (Salarié) or talent passports (Passeport Talent). A French employer sponsor is required, usually a BTS diploma or equivalent skill certification.
+
+**Q: Is there room for advancement in this profession in France?**
+A: Yes. You can advance from technician to team leader or technical manager, or obtain engineer qualifications through continuing education. You can also start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 偏低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 稳定（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Metal Structures Fabricator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a metal structures fabricator in France?**
-答：Entry-level around €22,000-€28,000 gross/year, mid-level €28,000-€35,000, senior up to €45,000. Varies by region, skills, and company size.
-
-**问：How can a foreign metal structures fabricator immigrate to France?**
-答：Through a work visa (Salarié) or Talent Passport (Passeport Talent) with employer sponsorship. Generally requires a BTS diploma or equivalent certification.
-
-**问：Are there advancement opportunities for this occupation in France?**
-答：Yes. Can progress to team leader, technical manager, or engineer through further education. Self-employment is also possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Other Construction Structural Workers（Other Construction Structural Workers）职业分析 · ES
+# Other Construction Structural Workers — career analysis · Spain
 
-**职业代码：7199 – Other Construction Structural Workers。**
+**Occupation code: 7199 (CNO)**
 
-Performs varied structural tasks on construction sites such as concreting, rebar placement, and formwork installation; requires physical strength and adaptability.
+Non-specialized workers engaged in structural tasks such as concrete pouring, rebar tying, and formwork installation at construction sites have diverse work responsibilities and high physical demands.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 无需 | —（通常入职培训即可） |
-| FP Grado Medio en Construcción | 2年 | $500~$2,000（公立学校学费低，材料费另计） |
+| No formal education requirements | None | $0~$0 (Usually, onboarding training is sufficient) |
+| FP Grado Medio en Construcción | 2 years | $500~$2,000 (Public schools have low tuition fees, with additional material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高处作业安全证 | Instituto Nacional de Seguridad y Salud en el Trabajo | 必备 | 必备证书，涉及高空作业 |
-| 脚手架搭建证 |  empresas de formación autorizadas | 可选 | 非强制但增加就业机会 |
+| Safety certificate for working at heights | Instituto Nacional de Seguridad y Salud en el Trabajo | Required | Required certificates for high-altitude operations |
+| Scaffolding construction certificate |  empresas de formación autorizadas | Optional | Not mandatory but increases employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 45,000。西班牙建筑业复苏带动该类岗位需求，尤其在住宅和基础设施修复项目中。但受经济周期影响较大，就业稳定性一般。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. The recovery of Spain's construction industry is driving demand for these jobs, especially in residential and infrastructure restoration projects. However, due to the significant impact of economic cycles, employment stability is average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 税前年薪，常加班有补贴 |
-| 中级（3-5年） | $22,000~$28,000 | 税前年薪，含技能津贴 |
-| 高级（5年以上） | $28,000~$35,000 | 税前年薪，班组长待遇 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $18,000~$22,000 | Pre-tax annual salary, frequent overtime with subsidies |
+| Mid-level (3–5 years) | $22,000~$28,000 | Pre-tax annual salary, including skills allowance |
+| Senior (5+ years) | $28,000~$35,000 | Pre-tax annual salary, team leader benefits |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★★☆☆）。** 可从普工晋升为班组长（Capataz），或通过FP培训转为专业工种（如钢筋工、混凝土工），部分人可自主创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Other construction workers are affected by AI automation: repetitive physical tasks (such as concrete pouring) may be replaced by robots, but AI-enhanced tools (such as intelligent formwork design) can improve efficiency, and on-site flexibility and complex judgment remain human advantages.
+
+They can be promoted from general workers to team leaders (Capataz), or through FP training to specialized trades (such as rebar workers and concrete workers). Some can start their own businesses.
+
+**Tasks most exposed to AI:**
+
+- Automatic concrete pouring and vibration: AI-controlled robots can autonomously complete concrete pouring and vibration, reducing manual intervention.
+- Automated rebar tying: Using rebar tying robots to automatically complete the binding of rebar mesh, improving speed and consistency.
+- Formwork installation and removal: The AI-guided formwork system can automatically adjust and install formwork, reducing manual measurement and adjustment.
+- Material handling and distribution: Autonomous forklifts and drones can automatically transport and distribute building materials to designated locations.
+
+**Where AI augments the role:**
+
+- Intelligent Formwork Design and Optimization: AI automatically generates template layouts based on building models, and workers assemble according to instructions, reducing errors.
+- Real-time quality monitoring: AI visually identifies defects on concrete surfaces (such as cracks and bubbles), allowing workers to quickly fix them.
+- Safety Risk Warning: AI analyzes site sensor data to warn of risks such as falls and collapses in advance, prompting workers to take preventive measures.
+- Construction Progress Tracking: AI analyzes worker and machinery location data to optimize scheduling and improve collaboration efficiency.
+- AR-assisted assembly: AR glasses overlay construction drawings to help workers accurately position rebar and formwork.
+
+**Human moat:**
+
+- Complex on-site judgment: Address unstructured environmental issues such as weather changes and material inconsistencies.
+- Fine hand-eye coordination: Precise adjustments in narrow or inaccessible areas.
+- Team collaboration leadership: Reassign tasks based on real-time situations and coordinate multi-person work.
+- Safety emergency decision-making: Respond quickly to sudden incidents, such as structural collapses.
+- Non-standardized construction: Customized and restorative work is difficult to program in advance.
+
+**Skills to build:**
+
+- Operate automated construction equipment (such as rebar tying robots and concrete leveling robots)
+- Basic programming and use of AI tools (such as setting robot work paths)
+- Digital modeling and BIM software basics (such as Revit, Tekla)
+- Drone Operation and Data Analysis (for Site Inspections)
+- Operation of augmented reality (AR) devices
+- Security awareness and compliance training (to adapt to newly automated security processes)
+
+**Key growth areas:**
 
 - Construction recovery
 - Infrastructure projects
@@ -63,64 +98,66 @@ Performs varied structural tasks on construction sites such as concreting, rebar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需雇主担保，证明岗位无法由本地人填补，适用于长期合同。 |
-| Subclass Busqueda empleo（Job Search Visa for Skilled Workers） | 在西班牙求职6个月，需相关学历或经验，但此类岗位签证通过率低。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship is required, proving the position cannot be filled by a local resident, applicable to long-term contracts. |
+| Subclass Busqueda empleo (Job Search Visa for Skilled Workers) | Job hunting in Spain for 6 months requires relevant education or experience, but the approval rate for such positions is low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Construction Structural Workers？**
-- 体力好、适应户外劳动者
-- 愿意从基层做起、积累建筑经验者
+**Who is suited**
+- Good physical strength and suitable for outdoor workers
+- Those willing to start from the grassroots and accumulate architectural experience
 
-**谁不适合学Other Construction Structural Workers？**
-- 追求高薪或快速晋升者
-- 对体力劳动有顾虑者
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Those who have concerns about physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for these workers?**
+A: The junior pre-tax annual salary is about 18,000-22,000 euros, while the senior can reach up to 35,000 euros, with overtime and subsidies being common.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: Difficult and non-urgently needed occupations, requiring employers to prove they cannot recruit locally, and the Ministry of Labor has strict vetting.
+
+**Q: What training or certification is required?**
+A: There is usually no educational requirement, but safety certificates such as high-altitude work permits are mandatory; FP training can enhance skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Other Construction Structural Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this job?**
-答：Entry-level annual gross salary ranges from €18,000 to €22,000; experienced workers can earn up to €35,000, plus overtime and allowances.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It's difficult as it's not a shortage occupation; employer must prove local unavailability, and labor ministry scrutiny is high.
-
-**问：What training or certificates are required?**
-答：No formal education needed, but safety certificates like working at height are mandatory; vocational training (FP) can enhance skills.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

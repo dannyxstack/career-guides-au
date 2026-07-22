@@ -1,59 +1,93 @@
-# Credit Analysts（Credit Analysts）职业分析 · 美国
+# Credit Analysts — career analysis · United States
 
-**职业代码：13-2041 – Credit Analysts。**
+**Occupation code: 13-2041 (SOC)**
 
-Credit Analysts evaluate the creditworthiness of individuals or businesses by analyzing financial data, assessing risk, and preparing reports to support lending decisions.
+Credit analysts assess credit risk of individuals or businesses, analyze financial data to decide whether to approve loans or credit, and write detailed reports for decision-making.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$60,000（公立大学年学费） |
-| 硕士学位 | 2年 | $30,000~$80,000（金融或MBA硕士年学费） |
+| Bachelor's degree | 4 years | $40,000~$60,000 (Annual tuition at public universities) |
+| Master's degree | 2 years | $30,000~$80,000 (Annual tuition for finance or MBA master's) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融或会计本科学位 | 大学 | 必备 | 常见最低学历要求 |
-| 注册信贷分析师(CCA) | 美国信贷协会 | 可选 | 可选但有利于晋升 |
-| 特许金融分析师(CFA) | CFA协会 | 可选 | 部分雇主偏好 |
+| Undergraduate degree in finance or accounting | University | Required | Common minimum education requirement |
+| Certified Credit Analyst (CCA) | American Credit Union | Optional | Optional but beneficial for promotion |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Preferred by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 83,500。美国信用分析师就业前景稳定，预计2022-2032年就业增长约9%，主要受金融行业扩张和风险管理需求推动。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 83,500. Employment prospects for US credit analysts are stable, with projected growth of about 9% from 2022-2032, driven by financial industry expansion and risk management demand.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 取决于公司规模和地区 |
-| 中级（3-7年） | $75,000~$100,000 | 包含绩效奖金 |
-| 高级（7年以上） | $100,000~$140,000 | 可能包括管理职责 |
+| Median salary | $83,510 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Depends on company size and region |
+| Mid-level (3–7 years) | $75,000~$100,000 | Includes performance bonuses |
+| Senior (7+ years) | $100,000~$140,000 | May include management duties. |
+| average salary | $100,850 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 初级信用分析师可通过积累经验晋升为高级分析师、信贷经理或风险总监，也可向投资分析或金融管理岗位转型。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will take over data-driven credit assessment and report generation in credit analysis, but complex judgment, client communication, and compliance responsibilities still require humans; risks and opportunities coexist.
+
+Entry-level credit analysts can advance to senior analyst, credit manager, or risk director through experience, or transition to investment analysis or financial management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracting financial data from systems and generating preliminary credit reports
+- Using machine learning models to automatically calculate credit scores and risk levels
+- Automated compliance checks to flag missing clauses in loan documents
+- Generate standardized financial analysis templates and trend charts
+
+**Where AI augments the role:**
+
+- Using AI prediction models for stress testing and scenario analysis to improve risk assessment accuracy
+- Quick summarization of borrowing company news and industry reports via natural language processing
+- Using visualization tools to present complex financial indicators, supporting communication with clients and approvers
+- AI-assisted writing of high-quality customer default analysis explanations for audit and internal reports
+
+**Human moat:**
+
+- Intuitive judgment on unstructured information (e.g., management integrity, industry cycles)
+- Experience in designing customized loan structures for complex or exceptional cases
+- Communication and negotiation skills to build trust with clients and internal stakeholders
+- Sensitivity to regulatory updates and compliance interpretation responsibility
+- Legal responsibility and professional judgment required for signing final credit decisions
+
+**Skills to build:**
+
+- Proficient in using Python/R for data cleaning and basic modeling.
+- Proficiency in using Power BI or Tableau to create interactive risk dashboards
+- Learn to operate and adjust parameters of AI credit risk assessment platforms (e.g., Zest AI)
+- Strengthen financial modeling and scenario analysis skills
+- Improve regulatory interpretation and compliance report writing skills
+- Learn human-machine collaboration workflow design to optimize exception handling logic
+
+**Key growth areas:**
 
 - Financial Risk Management
 - Data Analytics
@@ -62,69 +96,68 @@ Credit Analysts evaluate the creditworthiness of individuals or businesses by an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于持有学士学位以上的信用分析师，需雇主担保并抽签。常见于大型银行和金融机构。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有硕士学位或学士学位加五年经验的信用分析师，需PERM劳工证。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于学士学位或同等经验的信用分析师，需PERM劳工证，排期较长。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification (PERM)） | 通过PERM流程获得绿卡，需证明无法找到美国工人。常见于大型雇主。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to credit analysts with a bachelor's degree or above; requires employer sponsorship and lottery. Common in large banks and financial institutions. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For credit analysts with a master's degree or a bachelor's degree plus five years of experience, requires PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applies to credit analysts with a bachelor's degree or equivalent experience; requires PERM labor certification with long backlogs. |
+| Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Obtain a Green Card through the PERM process, requiring proof that no US workers are available. Common with large employers. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Credit Analysts？**
-- 财务分析能力强且注重细节的人
-- 对金融风险有浓厚兴趣的人
-- 有良好沟通和报告撰写能力的人
-
-**谁不适合学Credit Analysts？**
-- 厌恶定量分析和数字工作的人
-- 希望快速变化、避免文书工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong financial analysis skills and attention to detail
+- People with a strong interest in financial risk
+- People with good communication and report writing skills
+
+**Who is not suited**
+- Those who dislike quantitative analysis and numerical work
+- People who want rapid change and to avoid paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a credit analyst?**
+A: U.S. credit analyst median annual salary about $85,000, entry-level about $55,000-$75,000, senior up to $100,000-$140,000, including bonuses.
+
+**Q: What visa paths are available for a credit analyst to immigrate to the US?**
+A: Common options include H-1B work visa (requires bachelor's degree or higher, lottery), EB-2/EB-3 employment-based green card (requires PERM labor certification), and large banks may support L-1 intracompany transfer visa.
+
+**Q: Will credit analysts be replaced by artificial intelligence?**
+A: AI will automate some data analysis and scoring work, but complex credit judgments, customer communication, and risk explanation still require human analysts; job transformation rather than complete disappearance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Credit Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Credit Analysts?**
-答：The median annual salary for Credit Analysts in the US is around $85,000, with entry-level ranging from $55,000 to $75,000 and senior roles reaching $100,000 to $140,000 including bonuses.
-
-**问：What visa paths are available for Credit Analysts migrating to the US?**
-答：Common paths include H-1B visa (requires bachelor's degree or higher, subject to lottery), EB-2/EB-3 employment-based green cards (require PERM labor certification), and L-1 intracompany transfer for multinational banks.
-
-**问：Will Credit Analysts be replaced by AI?**
-答：AI will automate some data analysis and scoring, but complex credit judgment, client communication, and risk explanation still require human analysts, leading to job evolution rather than replacement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

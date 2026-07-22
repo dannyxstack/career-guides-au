@@ -1,59 +1,95 @@
-# Environmental Consultant（Environmental Consultant）职业分析 · 新西兰
+# Environmental Consultant — career analysis · New Zealand
 
-**职业代码：234312 – Environmental Consultant。**
+**Occupation code: 234312 (ANZSCO)**
 
-Environmental consultants are in high demand in New Zealand, offering expertise in sustainability, pollution assessment, and compliance, often eligible for direct residence via the Green List, with stable job prospects and competitive salaries.
+Environmental consultant is a shortage occupation in New Zealand's environmental consulting industry, offering sustainability, pollution assessment, and compliance advice. Typically eligible for direct residence via the Green List, with stable employment and good salary.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3-4年 | $22,000~$35,000（新西兰大学年学费，国际生约35,000-45,000 NZD） |
-| 硕士 | 1-2年 | $26,000~$40,000（通常1年制授课型硕士，国际生费用更高） |
+| Bachelor's degree | 3-4 years | $22,000~$35,000 (New Zealand university annual tuition for international students: approximately 35,000-45,000 NZD) |
+| Master's degree | 1-2 years | $26,000~$40,000 (Usually 1-year taught master's, higher fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境科学/工程本科学位 | 新西兰大学 | 必备 | 大多数雇主要求相关领域本科学位 |
-| 环境从业者认证（CEnvP） | 环境专业人士协会 | 可选 | 可选但提升竞争力 |
-| 雅思6.5分 | IELTS | 必备 | 技术移民及注册所需，单项不低于6.0 |
+| Bachelor's degree in Environmental Science/Engineering | New Zealand universities | Required | Most employers require a bachelor's degree in a related field. |
+| IELTS 6.5 | IELTS | Required | Required for skilled migration and registration; no band below 6.0. |
+| Certified Environmental Practitioner (CEnvP) | Environmental Professionals Association | Optional | Optional but enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,200。新西兰环境咨询业因基建与资源管理法规加强而持续扩张，尤其在奥克兰、惠灵顿及坎特伯雷地区就业集中。政府推动可持续发展政策，预计未来5年职位增长约15%。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,200. New Zealand's environmental consulting industry is expanding due to infrastructure and resource management regulation strengthening, with concentrated employment in Auckland, Wellington, and Canterbury. Government promotes sustainable development policies, with an estimated 15% job growth over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 刚毕业或经验较少 |
-| 中级（3-7年） | $75,000~$95,000 | 独立负责项目 |
-| 高级（7年以上） | $100,000~$130,000 | 项目经理或高级顾问 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | New graduates or those with little experience |
+| Mid-level (3–7 years) | $75,000~$95,000 | Independently responsible for projects |
+| Senior (7+ years) | $100,000~$130,000 | Project manager or senior consultant |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级顾问可晋升为高级顾问、项目经理或合伙人。经验丰富者可转向政府政策制定、企业可持续发展高管或独立咨询，也有机会进入碳交易或生态修复领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of environmental consultants (report writing, data analysis, regulatory compliance) will be significantly enhanced by AI, but human abilities like field investigation, client communication, and strategic decision-making remain irreplaceable. Entry-level roles are slightly compressed due to automation of basic tasks, but demand for compound talents rises. Overall, it's a mixed risk.
+
+Junior consultants can advance to senior consultant, project manager, or partner. Experienced professionals can move into government policy-making, corporate sustainability executive roles, or independent consulting, with opportunities in carbon trading or ecological restoration.
+
+**Tasks most exposed to AI:**
+
+- Automatic collection and preliminary analysis of environmental monitoring data
+- Automated generation of standard environmental assessment report templates
+- Intelligent retrieval and comparison of environmental regulations and standard clauses
+- Automatic calculation and visualization of carbon emission data
+- Initial screening and format checks for environmental permit applications
+
+**Where AI augments the role:**
+
+- Using AI simulation tools for pollution dispersion prediction and scenario modelling
+- Quickly extract best practice cases from literature using natural language processing
+- AI-assisted client communication, generating customised draft proposals
+- Use machine learning to identify abnormal patterns in environmental data
+- Automatically generating compliance checklists and tracking rectification progress
+
+**Human moat:**
+
+- Professional design of on-site environmental surveys and sampling plans
+- Complex interest coordination with government departments, communities, and enterprises
+- Uncertainty-based decisions in feasibility assessments of environmental projects
+- Emergency response command for environmental crises (e.g., spills, disasters)
+- Long-term strategic consulting based on ethics and sustainable development
+
+**Skills to build:**
+
+- Proficiency in Python/R and AI modeling tools (e.g., TensorFlow) for environmental data analysis
+- Proficient in using GIS combined with AI for dynamic environment simulation platforms
+- Big data management and automated report generation tools for learning environments (e.g., Power BI, custom GPT)
+- Enhance cross-departmental communication and project negotiation skills
+- Obtaining advanced environmental audit or sustainable management certifications (e.g., ISO 14001 Lead Auditor)
+- Familiarity with emerging legal and ethical issues in AI regulatory compliance
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Environmental consultants are in high demand in New Zealand, offering expertise 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 如职业在绿色清单一级，可直接申请居留，无需工作经历。环境顾问通常符合要求。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，根据学历、收入及工作经验打分，通常需雇主担保。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于获得认证雇主offer的申请人，工作满2年后可申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | If the occupation is on Tier 1 of the Green List, direct residence is possible without work experience. Environmental consultants usually meet requirements. |
+| Subclass SMC (Skilled Migrant Category) | Six-point skilled migration, scoring based on education, income, and work experience, usually requires employer sponsorship. |
+| Subclass AEWV (Accredited Employer Work Visa) | Applicable to applicants with a certified employer offer; can apply for residency after 2 years of work. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Consultant？**
-- 热爱自然，关注环境问题，有环保意识的人士
-- 具备研究分析能力，乐于跨领域合作
-- 能适应一定户外工作，接受项目地域调动
-
-**谁不适合学Environmental Consultant？**
-- 不擅长书面报告或数据整理者
-- 不愿学习新西兰环境法规和政策的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love nature, care about environmental issues, and have environmental awareness
+- Possess research and analysis skills, willing to collaborate across fields
+- Able to adapt to certain outdoor work and accept project location transfers
+
+**Who is not suited**
+- Those not good at written reports or data organization
+- Those unwilling to learn New Zealand environmental regulations and policies.
+
+---
+
+## 8. FAQ
+
+**Q: Do environmental consultants need registration when immigrating to New Zealand?**
+A: No mandatory registration required, but having Certified Environmental Practitioner (CEnvP) can increase competitive advantage. Skilled migration requires meeting ANZSCO requirements and the 6-point system.
+
+**Q: What is the salary level for environmental consultants in New Zealand?**
+A: Junior annual salary approximately NZD 55,000-70,000, intermediate NZD 75,000-95,000, senior NZD 100,000-130,000. Higher salaries in cities like Auckland.
+
+**Q: What is the job outlook for environmental consultants?**
+A: Strengthened environmental regulations in New Zealand and increased infrastructure projects lead to good employment prospects. Especially in shortage areas like the South Island, employers are willing to sponsor overseas talent.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Environmental Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do environmental consultants need registration for migration in NZ?**
-答：No mandatory registration, but CEnvP certification adds advantage. Skilled migration requires meeting ANZSCO criteria and 6-point system.
-
-**问：What is the salary range for environmental consultants in NZ?**
-答：Entry-level NZD 55k-70k, mid-level NZD 75k-95k, senior NZD 100k-130k. Higher in Auckland.
-
-**问：What are the job prospects for environmental consultants?**
-答：Strong due to stricter regulations and infrastructure growth, especially in South Island where employers sponsor overseas talent.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

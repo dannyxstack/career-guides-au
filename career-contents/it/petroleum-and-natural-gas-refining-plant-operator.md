@@ -1,60 +1,93 @@
-# Petroleum and Natural Gas Refining Plant Operator（Petroleum and Natural Gas Refining Plant Operator）职业分析 · IT
+# Petroleum and Natural Gas Refining Plant Operator — career analysis · Italy
 
-**职业代码：3134 – Petroleum and Natural Gas Refining Plant Operator。**
+**Occupation code: 3134 (ISCO08)**
 
-Monitor and control petroleum and natural gas refining processes to ensure safe and efficient operation, including distillation, cracking, and catalytic reforming units.
+Responsible for monitoring and controlling oil and gas refining processes to ensure safe and efficient operation, including unit operations such as distillation, cracking, and catalytic reforming.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或职高 | 3年（职高） | —（公立学校免费，仅需少量材料费） |
-| 技术学院文凭 | 2年（大专） | $2,000~$4,000（公立院校学费） |
+| High school or vocational school | 3 years (vocational high school) | $0~$1,000 (Public schools are free, only a small fee for materials) |
+| TAFE diploma | 2 years (diploma) | $2,000~$4,000 (Public institution tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化工操作员职业资格 | 意大利劳动与社会政策部 | 必备 | 需通过理论及实操考试 |
-| 安全培训证书 | 意大利消防与安全机构 | 必备 | 包括防火、有毒气体处理等 |
+| Chemical operator qualification | Italian Ministry of Labor and Social Policies | Required | Must pass theoretical and practical exams |
+| Safety training certificate | Italian Fire and Safety Agency | Required | Includes fire prevention, toxic gas handling, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 4,500。意大利能源转型推动炼厂技术升级，但整体就业增长缓慢，预计2023-2030年岗位减少约5%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,500. Italy's energy transition drives refinery technology upgrades, but overall employment growth is slow, with an expected ~5% reduction in jobs from 2023 to 2030.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $46,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $46,000~$55,000 | Annual pre-tax salary |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从操作员晋升为高级操作员、班组长或工艺工程师，需积累经验并考取职业资格。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The task structure for petroleum and natural gas refining operators faces mixed impacts from AI: process monitoring and parameter optimization will be taken over by AI, but unstructured troubleshooting and on-site safety monitoring still require human experience and judgment.
+
+Can advance from operator to senior operator, team leader or process engineer by gaining experience and obtaining professional qualifications.
+
+**Tasks most exposed to AI:**
+
+- Monitor refining process parameters (temperature, pressure, flow) in real-time and automatically adjust to optimal ranges
+- Predicts equipment failures based on historical data and triggers maintenance alerts
+- Automatically generate shift reports and compliance logs
+- Remote start/stop operation of valves and pumps under standard conditions
+
+**Where AI augments the role:**
+
+- Use AI models to analyze abnormal condition causes, assist decision-making for non-standard operations
+- Accident simulation and emergency drill using digital twins
+- AI-optimised energy consumption solutions to improve refining efficiency
+- Automatically link maintenance records with operational variables to quickly diagnose equipment issues.
+
+**Human moat:**
+
+- On-site diagnosis and emergency response for unstructured faults
+- Deep understanding of process chemistry principles and cross-unit coordination skills
+- Strict enforcement of safety procedures and responsibility for team safety oversight
+- Interpersonal communication and conflict resolution with maintenance and engineering departments
+
+**Skills to build:**
+
+- Data analysis and machine learning basics (e.g., Python, scikit-learn)
+- Knowledge of Industrial Internet of Things (IIoT) and SCADA systems.
+- Process control optimization and digital twin technology
+- Fault diagnosis and Root Cause Analysis (RCA) methods
+- Energy management and carbon emissions accounting
+- English reading and technical document writing skills.
+
+**Key growth areas:**
 
 - Energy transition
 - Process automation
@@ -63,62 +96,64 @@ Monitor and control petroleum and natural gas refining processes to ensure safe 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需有工作合同且年薪不低于欧盟蓝卡门槛（2024年意大利约33,000欧元） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，需雇主申请配额，通常针对紧缺职业 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a work contract and an annual salary no less than the EU Blue Card threshold (approximately €33,000 in Italy for 2024) |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens; employers need to apply for quotas, typically for occupations in shortage. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Petroleum and Natural Gas Refining Plant Operator？**
-- 喜欢动手操作和监控设备的人
-- 能承受倒班和高温高压环境的人
-- 注重安全和流程规范的人
+**Who is suited**
+- People who enjoy hands-on operation and equipment monitoring
+- People who can tolerate shift work and high-temperature, high-pressure environments
+- People who value safety and process compliance
 
-**谁不适合学Petroleum and Natural Gas Refining Plant Operator？**
-- 不习惯户外或工厂环境的人
-- 无法适应倒班和无规律作息的人
+**Who is not suited**
+- People who are not accustomed to outdoor or factory environments.
+- Those who cannot adapt to shift work and irregular schedules
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in Italy?**
+A: Junior approximately €28,000–34,000, mid-level €35,000–45,000, senior €46,000–55,000 (annual pre-tax salary).
+
+**Q: How can non-EU citizens obtain a work visa for this occupation?**
+A: Available via EU Blue Card (requires high-salary contract) or Decreto Flussi quota work visa (employer must apply for quota).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Petroleum and Natural Gas Refining Plant Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Italy?**
-答：Entry-level €28,000-34,000, mid-level €35,000-45,000, senior €46,000-55,000 (gross annual).
-
-**问：How can non-EU citizens obtain a work visa for this occupation?**
-答：Via EU Blue Card (requires high salary) or Decreto Flussi quota work visa (employer applies for quota).
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

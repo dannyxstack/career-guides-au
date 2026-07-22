@@ -1,58 +1,94 @@
-# Aircraft Engine Mechanic（Aircraft Engine Mechanic）职业分析 · IT
+# Aircraft Engine Mechanic — career analysis · Italy
 
-**职业代码：7232 – Aircraft Engine Mechanic。**
+**Occupation code: 7232 (ISCO08)**
 
-Responsible for inspecting, maintaining, and repairing aircraft engines and components to ensure flight safety. Works in Italian aviation maintenance companies, airlines, or military bases.
+Responsible for inspecting, maintaining, and repairing aircraft engines and components to ensure flight safety. Works at Italian aviation maintenance companies, airlines, or military bases.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育加职业培训 | 3年 | —（公立职业培训学校免费或低廉，私立课程约2000-5000欧元） |
-| 高等技术教育文凭 | 2年 | $1,000~$6,000（可申请资助，年学费约1000-3000欧元） |
+| Secondary education plus vocational training | 3 years | $0~$5,000 (Public vocational training schools are free or low-cost; private courses cost about 2,000-5,000 euros) |
+| Higher technical education diploma | 2 years | $1,000~$6,000 (Eligible for funding, annual tuition approx. 1000-3000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EASA Part 66 B1.1执照（涡轮发动机飞机） | 意大利国家民航局（ENAC） | 必备 | 必须获得EASA批准的维修机构经验并通过模块考试 |
-| 高中毕业证或等同 | 意大利教育部 | 必备 | 通常要求高中文凭或职业资格证书 |
+| EASA Part 66 B1.1 license (turbine engine aircraft) | Italian National Civil Aviation Authority (ENAC) | Required | Must obtain experience in EASA-approved maintenance organizations and pass module exams |
+| High school diploma or equivalent | Italian Ministry of Education | Required | Usually requires a high school diploma or vocational qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。随着意大利航空运输和旅游业的复苏，对飞机维修技术人员的需求持续增长。利亚航空和ITA Airways等公司面临熟练工人短缺。预计未来5年就业增长稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. With the recovery of Italy's air transport and tourism industry, demand for aircraft maintenance technicians continues to grow. Companies like Alitalia and ITA Airways face a shortage of skilled workers. Steady employment growth expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 学徒或新手机械师，税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 持执照机械师，经验增加可提升 |
-| 高级（8年以上） | $42,000~$55,000 | 资深技师或主管，税前年薪 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Apprentice or novice mechanic, pre-tax annual salary |
+| Mid-level (3–7 years) | $30,000~$40,000 | Licensed mechanic, experience leads to advancement |
+| Senior (8+ years) | $42,000~$55,000 | Senior technician or supervisor, pre-tax annual salary |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒或初级机械师起步，通过积累经验和取得EASA执照逐步晋升为高级技师、团队主管或质量检查员。也可转向工程管理或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Start as an apprentice or junior mechanic, progress to senior technician, team supervisor, or quality inspector by gaining experience and obtaining an EASA license. Also transition into engineering management or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aviation maintenance demand
 - EASA certification required
@@ -61,65 +97,64 @@ Responsible for inspecting, maintaining, and repairing aircraft engines and comp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 针对高技能非欧盟工人，要求大学学历或5年专业经验。年薪门槛约24,789欧元，符合条件。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi quota work visa） | 意大利年度配额工作签证，适用于非欧盟技术工人。需雇主担保，配额有限。 |
-| Subclass Nulla Osta（Nulla Osta (work authorization)） | 通过雇主获得劳动许可，适用于欧盟外技术工人。需提供合同和无犯罪记录。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU workers, requires a university degree or 5 years of professional experience. Annual salary threshold is approximately €24,789, meeting the criteria. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi quota work visa) | Italian annual quota work visa for non-EU skilled workers. Requires employer sponsorship; limited quotas. |
+| Subclass Nulla Osta (Nulla Osta (work authorization)) | Obtain a work permit through an employer, applicable to skilled workers from outside the EU. Requires a contract and criminal record check. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Engine Mechanic？**
-- 喜欢动手修理机械，注重细节和安全
-- 愿意学习并考取严格执照
-- 能适应轮班和有时限的维修任务
-
-**谁不适合学Aircraft Engine Mechanic？**
-- 不善于团队协作或沟通
-- 对高压和严格安全标准不适应
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on mechanical repairs, detail-oriented and safety-conscious
+- Willing to study and obtain strict licenses.
+- Able to adapt to shift work and time-constrained maintenance tasks.
+
+**Who is not suited**
+- poor teamwork or communication skills
+- Not suited to high pressure and strict safety standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aircraft engine mechanics in Italy?**
+A: Junior: approx €24,000–28,000, mid-level: €30,000–40,000, senior: €42,000–55,000 (pre-tax annual). Higher for those with EASA license and experience.
+
+**Q: How can a foreigner become an aircraft engine mechanic in Italy?**
+A: Requires an EASA Part 66 license, usually needing employer sponsorship. Options include the EU Blue Card (requiring qualifications or experience and meeting salary threshold) or the Decreto Flussi quota work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Aircraft Engine Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aircraft engine mechanics in Italy?**
-答：Entry-level: €24,000-28,000; mid-level: €30,000-40,000; senior: €42,000-55,000 (gross annual). Higher with EASA license and experience.
-
-**问：How can a foreigner become an aircraft engine mechanic in Italy?**
-答：Requires EASA Part 66 license, typically with employer sponsorship. Options: EU Blue Card (if meets salary threshold) or Decreto Flussi quota work visa.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

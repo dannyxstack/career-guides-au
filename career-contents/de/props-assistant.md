@@ -1,60 +1,92 @@
-# Props Assistant（Props Assistant）职业分析 · DE
+# Props Assistant — career analysis · Germany
 
-**职业代码：9462 – Props Assistant。**
+**Occupation code: 9462 (KldB)**
 
-Props assistants prepare, maintain, and manage props for film, TV, and theater productions, ensuring they meet artistic requirements.
+A props assistant is responsible for the preparation, maintenance, and management of props in film, television, theater, and other productions, ensuring props meet artistic requirements.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（双元制培训无学费，培训期间有津贴。） |
-| 相关专业本科（如媒体设计） | 3-4年 | —（公立大学每学期仅注册费约150-300欧元。） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$0 (Dual-system training has no tuition fees and provides a stipend during training.) |
+| Relevant bachelor's degree (e.g. Media Design) | 3-4 years | $0~$1,500 (Public universities charge only a semester fee of about €150-300.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体与设计相关学位（推荐） | 德国高校 | 可选 | 非强制，但有助于就业。 |
-| 职业资格认证（Bühnenmaler/Bühnenplastiker） | 德国工商会（IHK）或手工业协会（HWK） | 可选 | 部分雇主要求，特别是舞台道具。 |
+| Media and design degree (recommended) | German universities | Optional | Not mandatory, but helpful for employment. |
+| Professional qualification certification (Bühnenmaler/Bühnenplastiker) | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Optional | Required by some employers, especially for stage props. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。德国影视与戏剧产业稳定，柏林、慕尼黑等城市需求集中。数字化增加对专业道具的需求，但岗位竞争激烈，自由职业者居多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Germany's film and theatre industry is stable, with demand concentrated in cities like Berlin and Munich. Digitalization increases the need for specialized props, but competition is strong and freelancers dominate.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，自由职业者收入不稳定。 |
-| 中级（4-7年） | $32,000~$42,000 | 包括固定职位或经验丰富的自由职业者。 |
-| 高级（8年以上） | $42,000~$55,000 | 道具主管或大型制作项目。 |
+| Median salary | $47,100 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary; freelancers' income is unstable. |
+| Mid-level (4-7 years) | $32,000~$42,000 | Includes permanent positions or experienced freelancers. |
+| Senior (8+ years) | $42,000~$55,000 | Props Master or large production projects. |
+| average salary | $52,104 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理晋升为道具主管或布景师，积累经验后可转向艺术指导或制作管理。需熟悉数字工具与材料工艺。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on props assistants is mixed: digital tools can simplify inventory management, but the selection, aging, and on-site adjustment of physical props heavily rely on manual skills and aesthetic judgment, which is difficult to replace in the short term.
+
+Can advance from assistant to prop master or set designer; with experience, can transition to art direction or production management. Requires familiarity with digital tools and material techniques.
+
+**Tasks most exposed to AI:**
+
+- Digital entry and tracking of prop lists and inventory
+- Price comparison and order processing for prop procurement
+- Labeling and metadata organization of prop archives
+- Rental/return record management for standardized props
+
+**Where AI augments the role:**
+
+- Use 3D modeling software to preview props in a scene
+- Use AI image generation to quickly produce concept design proposals for props
+- Automatically track prop production progress and budget using project management tools
+- Using database analysis to track prop loss rates to optimize purchasing strategies
+
+**Human moat:**
+
+- Hand distressing, painting, and fine repair techniques
+- Ability to understand artistic intent through communication with directors and art directors
+- Ability to quickly solve prop emergencies on set
+- Deep knowledge of historical periods, materials, and techniques
+
+**Skills to build:**
+
+- 3D modeling and rendering software (e.g., Blender, Fusion 360)
+- Practical application of AI image generation tools (e.g., Midjourney, DALL·E)
+- Digital asset management software (e.g., Airtable, Notion)
+- Basic programming or scripting (for automation tasks)
+- Knowledge of sustainable and eco-friendly materials
+
+**Key growth areas:**
 
 - Media production
 - Digital props
@@ -63,69 +95,68 @@ Props assistants prepare, maintain, and manage props for film, TV, and theater p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需大学学历且工作与专业相关，德国雇主可担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作一年。 |
-| Subclass Freelancer Visa（Freelance Visa） | 适合自由职业者，需证明稳定收入来源。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires a university degree and work related to the major; German employers can sponsor. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows coming to Germany to look for a job for one year. |
+| Subclass Freelancer Visa (Freelance Visa) | Suitable for freelancers; must prove a stable income source. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Props Assistant？**
-- 对影视制作有热情的人
-- 动手能力强、注重细节的人
-- 适应灵活工作时间和项目制工作的人
-
-**谁不适合学Props Assistant？**
-- 追求稳定收入和固定工作时间的人
-- 不喜欢体力劳动或手工工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about film and television production
+- Hands-on, detail-oriented people
+- People adaptable to flexible hours and project-based work
+
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- People who dislike physical labor or manual work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a prop assistant in Germany?**
+A: Junior approx. €24,000-32,000/year, senior up to €55,000/year.
+
+**Q: How can overseas individuals work as a prop assistant in Germany?**
+A: You can find jobs through the Opportunity Card, or apply for a skilled migration visa after obtaining qualification certification.
+
+**Q: What are the career advancement paths for a props assistant?**
+A: Can be promoted to props master, set designer, or art director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Props Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a props assistant in Germany?**
-答：Entry-level: €24,000-32,000/year; senior: up to €55,000/year.
-
-**问：How can foreigners work as props assistants in Germany?**
-答：Via Opportunity Card to find a job, or after recognition of qualifications apply for a skilled worker visa.
-
-**问：What are the career advancement paths for props assistants?**
-答：Promotion to props master, set designer, or art director.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Neurologists（Neurologists）职业分析 · 美国
+# Neurologists — career analysis · United States
 
-**职业代码：29-1217 – Neurologists。**
+**Occupation code: 29-1217 (SOC)**
 
-Neurologists diagnose, manage, and treat disorders of the brain, spinal cord, and peripheral nerves, primarily using nonsurgical methods. They evaluate symptoms, conduct neurological exams, interpret imaging and lab results, and develop treatment plans.
+Neurologists diagnose and manage diseases and disorders of the brain, spinal cord, and peripheral nerves, primarily using non-surgical methods. They assess patient symptoms, conduct neurological exams, interpret imaging and lab results, and develop treatment plans.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$80,000（公立与私立大学差异大） |
-| 医学院 | 4年 | $150,000~$250,000（包括学费及生活费） |
-| 住院医培训 | 4年 | —（有薪培训，年薪约6万-8万美元） |
+| Bachelor's degree | 4 years | $20,000~$80,000 (Public and private universities differ greatly.) |
+| Medical school. | 4 years | $150,000~$250,000 (Includes tuition fees and living expenses) |
+| Residency training | 4 years | $0~$0 (Paid training, annual salary about 60,000-80,000 USD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位（MD或DO） | 认可医学院 | 必备 | 必须完成美国认可医学院学位 |
-| 美国医师执照（USMLE） | 美国医学考试委员会 | 必备 | 通过三步考试并获得州执照 |
-| 神经科委员会认证 | 美国精神病学与神经学委员会 | 可选 | 完成住院医培训后通过考试 |
+| Doctor of Medicine (MD or DO) | Accredited medical school | Required | Must complete a US-accredited medical school degree |
+| U.S. Medical Licensing Examination (USMLE) | United States Medical Licensing Examination | Required | Pass a three-step exam and obtain a state license |
+| Board certified in neurology | American Board of Psychiatry and Neurology | Optional | Pass exam after completing residency training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,420。美国神经科医生需求持续增长，受人口老龄化和神经系统疾病发病率上升推动。BLS预计2022-2032年就业增长约5%，但竞争激烈。就业机会集中在医院、专科诊所和学术医疗中心。
+**Job demand: high (★★★★☆).** National workforce approx. 13,420. Demand for neurologists in the US continues to grow, driven by an aging population and rising incidence of neurological diseases. BLS projects about 5% employment growth from 2022 to 2032, but competition is high. Employment opportunities are concentrated in hospitals, specialty clinics, and academic medical centers.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $180,000~$250,000 | 住院医结束后的首份工作 |
-| 中级（5-15年） | $250,000~$350,000 | 专科/经验丰富者 |
-| 高级（15年以上） | $350,000~$500,000 | 资深专家或科室主任 |
+| Median salary | $248,560 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $180,000~$250,000 | First job after residency |
+| Intermediate (5-15 years) | $250,000~$350,000 | Diploma/experienced |
+| Senior (15+ years) | $350,000~$500,000 | Senior specialist or department head |
+| average salary | $267,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径：完成医学院及4年神经科住院医培训后，可进一步专攻亚专业（如癫痫、中风、运动障碍）并获委员会认证。晋升方向包括成为科室主任、临床研究负责人或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
+
+Career path: After completing medical school and 4 years of neurology residency, further subspecialization (e.g., epilepsy, stroke, movement disorders) and board certification. Advancement options include becoming department head, clinical research lead, or opening a private practice.
+
+**Tasks most exposed to AI:**
+
+- AI auto-annotates suspicious lesion areas (e.g., lung nodules, fracture candidate boxes), reducing technicians' initial marking workload
+- AI Auto-measurement of Quantitative Parameters (e.g., organ size, bone density) Replacing Manual Tasks
+- AI automatically generates standard imaging report drafts (e.g., negative reports); technicians only need to review and sign.
+- AI optimizes scanning protocols and exposure parameters, reducing manual adjustments of radiation
+
+**Where AI augments the role:**
+
+- AI improves low-dose image quality, enabling technicians to image sensitive groups like children and pregnant women more safely
+- AI automated serial scanning workflows (e.g., multi-phase cardiac MRI tracking) to improve complex exam efficiency
+- AI real-time noise suppression and motion artifact correction, reducing repeat scans for technicians
+- AI provides structured report templates and key image annotations, speeding up technician report writing by 50%
+- AI recommends personalized contrast dosage and injection plans based on patient data
+
+**Human moat:**
+
+- Patient communication, psychological reassurance, and positioning (especially for children, critically ill, and uncooperative patients)
+- Radiation safety compliance auditing and site emergency response
+- Professional Judgment and Final Diagnostic Responsibility for AI False Positives/Negatives
+- Cross-device coordination, quality control, and new technology validation
+- Real-time image guidance and equipment manipulation in interventional/surgical scenarios
+
+**Skills to build:**
+
+- AI-assisted diagnostic system operation and result verification (e.g., CAD, AI post-processing software)
+- Image AI quality control and deviation detection
+- Multimodal fusion imaging (PET-MRI, SPECT-CT) training
+- Patient communication and psychology: reassurance, informed consent, radiation risk explanation
+- Basic Python or DICOM data manipulation (for simple scripting and quality control)
+- Radiology informatics and evidence-based medicine literacy
+
+**Key growth areas:**
 
 - Aging Population
 - Neurological Disorders
@@ -63,69 +98,68 @@ Neurologists diagnose, manage, and treat disorders of the brain, spinal cord, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 常见于医院或医疗机构雇佣，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合高学历医师，通常需PERM劳工证 |
-| Subclass J-1（Exchange Visitor） | 部分国际医学毕业生通过交流项目赴美，需完成回国服务期或豁免 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 通过PERM申请职业移民绿卡 |
+| Subclass H-1B (Specialty Occupations) | Common in hospital or medical facility employment; requires lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for highly educated physicians, usually requires PERM labor certification |
+| Subclass J-1 (Exchange Visitor) | Some international medical graduates go to the US through exchange programs, must complete return service or obtain a waiver. |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Apply for employment-based green card through PERM |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Neurologists？**
-- 对神经系统疾病有强烈兴趣的医学人才
-- 具备出色诊断和沟通能力的医生
-- 愿意长期深造和高强度工作者
-
-**谁不适合学Neurologists？**
-- 无法承受长时间医学院和住院医培训的人
-- 不喜欢频繁加班和高压工作环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical professionals with strong interest in neurological diseases
+- Physician with excellent diagnostic and communication skills
+- Willing to pursue long-term advanced studies and work under high intensity
+
+**Who is not suited**
+- Those who cannot endure long medical school and residency training
+- People who dislike frequent overtime and high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a neurologist?**
+A: According to the BLS, the average annual salary for neurologists in the US in 2023 was about $280,000, ranging from $180,000 to $500,000, depending on experience, location, and type of facility.
+
+**Q: How do foreign doctors immigrate to the US to become neurologists?**
+A: Typical path: Pass USMLE for state license, participate in residency match program, then healthcare organization sponsors H-1B or J-1 visa. After J-1, must return home for 2 years or apply for waiver. Then can apply for EB-2 green card via PERM.
+
+**Q: How many years of study are required to become a neurologist?**
+A: Typically requires 12+ years: 4-year bachelor's + 4-year medical school + 4-year neurology residency. Some may add 1-2 years of fellowship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Neurologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for neurologists?**
-答：According to BLS, the average annual salary for neurologists in the US was about $280,000 in 2023, ranging from $180,000 to $500,000 depending on experience, location, and employer.
-
-**问：How can international doctors immigrate to the US as neurologists?**
-答：Typical path: pass USMLE, complete residency via match, then obtain H-1B or J-1 visa sponsored by employer. J-1 requires 2-year home residency or waiver. Then apply for EB-2 green card via PERM.
-
-**问：How many years of training are required to become a neurologist?**
-答：Typically 12+ years: 4 years undergraduate + 4 years medical school + 4 years neurology residency. Some pursue 1-2 years fellowship for subspecialty.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

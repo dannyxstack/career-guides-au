@@ -1,62 +1,97 @@
-# Urban Environment Management and Inspection（Urban Environment Management and Inspection）职业分析 · FR
+# Urban Environment Management and Inspection — career analysis · France
 
-**职业代码：K2302 – Urban Environment Management and Inspection。**
+**Occupation code: K2302 (ROME)**
 
-Oversees urban environmental hygiene, pollution control, public space maintenance, and compliance inspections, coordinating municipal services for sustainable urban development.
+Responsible for urban environmental sanitation supervision, pollution control, public space maintenance and compliance inspections, and coordinating municipal services to ensure sustainable urban development.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS环境管理 | 2年（BTS） | —（公立学校学费低，含学徒制） |
-| Licence环境科学 | 3年（Licence） | —（公立大学学费约200-800欧/年） |
-| Master环境与城市规划 | 2年（Master） | —（公立大学为主，部分私立高商） |
+| BTS Environmental Management | 2 Years (BTS) | $0~$5,000 (Public schools have low tuition fees and include apprenticeships) |
+| Licence Environmental Science | 3 years (Licence) | $0~$8,000 (Tuition at public universities is about 200-800 euros per year) |
+| Master of Environment and Urban Planning | 2 years (Master) | $0~$10,000 (Mainly public universities, with some private commercial schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环保检查员资质 | 法国生态转型部 | 必备 | 通过公务员考试（concours）获得 |
-| 环境管理认证 | AFNOR | 可选 | ISO 14001内审员等 |
-| 职业健康与安全证书 | INRS | 可选 | 如CACES、SST等 |
+| Environmental inspector qualifications | French Ministry of Ecological Transition | Required | Obtained through the civil service examination (concours). |
+| Environmental management certification | AFNOR | Optional | ISO 14001 internal auditor, etc |
+| Occupational health and safety certificate | INRS | Optional | Such as CACES, SST, etc |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。随着法国城市生态转型和环保法规加强，该职业需求稳步增长。地方政府招聘稳定，但竞争中等。预计未来5年岗位增加约3-5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. With the ecological transformation of French cities and strengthened environmental regulations, demand for this profession has steadily increased. Local government recruitment is stable, but competition is moderate. Job openings are expected to increase by about 3-5% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 公立机构起薪 |
-| 中级（4-8年） | $30,000~$38,000 | 含绩效补贴 |
-| 高级（9年以上） | $39,000~$50,000 | 管理岗或专家岗 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Starting salary for public institutions |
+| Mid-level (4–8 years) | $30,000~$38,000 | Including performance subsidies |
+| Senior (9+ years) | $39,000~$50,000 | Management or specialist position |
+| average salary | $48,330 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可从现场检查员晋升为团队主管或环境项目经理，需积累经验和考取高级资质。部分人员可转向政策咨询或私营环保公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate data collection and basic compliance checks, but on-site coordination, human judgment, and accountability remain solid; Urban environmental management positions are being strengthened rather than replaced, but entry-level pure inspection positions may be compressed.
+
+Practitioners can be promoted from site inspectors to team supervisors or environmental project managers, accumulating experience and obtaining advanced qualifications. Some personnel may turn to policy consulting or private environmental companies.
+
+**Tasks most exposed to AI:**
+
+- Automatically detects visual patrol tasks such as street garbage accumulation and illegal advertisements
+- Sensor-based automatic collection of air/water quality data and abnormal alarms
+- Automatic generation of routine compliance reports and template filling
+- AI analysis and surveillance videos automatically detect illegal dumping or vandalism
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of pollution source data provides recommendations for governance priorities
+- Intelligent scheduling of sanitation vehicles and personnel routes improves efficiency
+- Deploying urban clean resources in advance using predictive models (such as after festivals)
+- AI chatbots handle citizen complaints and provide preliminary classification
+- Augmented reality glasses assist on-site inspections and retrieve historical records in real time
+
+**Human moat:**
+
+- The ability to communicate and mediate disputes on-site with residents and merchants
+- Comprehensive judgment and discretion when facing complex pollution events
+- Accountability chains involving legal penalties and compulsory enforcement
+- Emergency decisions for emergencies (such as illegal dumping of hazardous waste).
+- Social experience in cross-departmental coordination of municipal services
+
+**Skills to build:**
+
+- Geographic Information System (GIS) and remote sensing data analysis
+- Updating knowledge on environmental compliance and legal frameworks
+- Basic data analysis and visualization with Python/R
+- Use and maintenance of AI tools (such as intelligent inspection backend)
+- Public communication and conflict resolution skills
+- Project management and cross-departmental collaboration
+
+**Key growth areas:**
 
 - Urban sustainability
 - Environmental regulation
@@ -65,66 +100,68 @@ Oversees urban environmental hygiene, pollution control, public space maintenanc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国市政或私营公司，需工作合同和劳动局批准 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，需年薪不低于36,500欧 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求高学历和年薪至少53,200欧（2024标准） |
+| Subclass Salarié (Salarié (Employee)) | Employment by a French municipal or private company requires a work contract and approval from the labor bureau |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, with an annual salary of no less than 36,500 euros |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requiring a high degree of education and an annual salary of at least 53,200 euros (2024 standard) |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Urban Environment Management and Inspection？**
-- 热爱环保和城市管理，有责任心
-- 善于沟通和现场执法
-- 愿意在公共服务领域长期发展
+**Who is suited**
+- Passionate about environmental protection and urban management, with a strong sense of responsibility
+- Good at communication and on-site law enforcement
+- Willing to develop long-term in the public service sector
 
-**谁不适合学Urban Environment Management and Inspection？**
-- 追求高薪或快速晋升
-- 不适应户外工作和现场冲突
+**Who is not suited**
+- Seeking high salary or rapid promotion
+- Not adapted to outdoor work and on-site conflicts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for urban environmental managers?**
+A: The entry-level annual salary is about 24,000-28,000 euros, and the senior salary can reach up to 50,000 euros. Salaries in public institutions are fixed according to civil servant rank, while private companies may have higher salaries.
+
+**Q: Can foreigners apply for positions in urban environmental management in France?**
+A: The likelihood is low. This position typically requires French civil service status or familiarity with local regulations, making it unfriendly to non-EU immigrants. A few private companies may sponsor work visas.
+
+**Q: What are the career progression paths?**
+A: You can be promoted to Environmental Services Supervisor, Policy Consultant, or Urban Project Manager, or transition to environmental consulting through continuing education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Urban Environment Management and Inspection属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for urban environment management?**
-答：Entry-level annual salary is around €24,000-€28,000, while senior positions can reach €50,000. Public sector salaries follow civil service scales; private sector may offer higher pay.
-
-**问：Can foreigners apply for urban environment management jobs in France?**
-答：It is difficult. The position often requires French civil service status or extensive local regulation knowledge, making it unfavorable for non-EU immigrants. A few private companies may sponsor work visas.
-
-**问：What are the career progression paths?**
-答：You can advance to environmental service supervisor, policy advisor, or urban project manager, or transition to environmental consulting through continuing education.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

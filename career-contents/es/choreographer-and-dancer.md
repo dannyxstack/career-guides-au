@@ -1,62 +1,98 @@
-# Choreographer and Dancer（Choreographer and Dancer）职业分析 · ES
+# Choreographer and Dancer — career analysis · Spain
 
-**职业代码：2933 – Choreographer and Dancer。**
+**Occupation code: 2933 (CNO)**
 
-Choreographers and dancers create and perform dance pieces for theater, TV, film, and commercial events. They play a key role in Spain's cultural and creative industries, especially in flamenco and contemporary dance.
+Choreographers and dancers are responsible for creating and performing dance works, participating in theater, television, film, and commercial productions. This profession holds an important position in Spain's cultural and creative industries, especially in flamenco and modern dance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专业舞蹈培训/FP中等职业教育 | 2-4年 | $3,000~$8,000（公立舞蹈学院或私立学校，年均学费约1500-4000欧元） |
-| 大学本科（舞蹈/表演艺术） | 4年（Grado） | $1,000~$6,000（公立大学年均约1000-2000欧元，私立约4000-6000欧元） |
-| 硕士（编舞/舞蹈教育） | 1-2年（Máster） | $2,000~$8,000（部分项目可申请奖学金） |
+| Professional dance training / FP secondary vocational education | 2-4 years | $3,000~$8,000 (Public dance academies or private schools have an average annual tuition of about 1500-4000 euros) |
+| Undergraduate (Dance/Performing Arts) | 4 years (Grado) | $1,000~$6,000 (Annual tuition at public universities averages 1,000-2,000 euros, private 4,000-6,000 euros) |
+| Master's (Choreography/Dance Education) | 1-2 years (Máster) | $2,000~$8,000 (Some programs offer scholarship eligibility) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞蹈/表演艺术学位 | 西班牙大学或高等舞蹈学院 | 可选 | 并非强制要求，但系统训练有助于职业生涯 |
-| 教师资格认证（若从事教学） | 西班牙教育部 | 可选 | 在公立学校或官方机构任教需持有CAP或类似资质 |
-| 专业演员/舞者注册 | 西班牙作者与出版权总司（或其相关协会） | 可选 | 非强制，但有助于获取演出合同和版权保护 |
+| Degree in Dance/Performing Arts | Spanish universities or higher dance institutes | Optional | It's not mandatory, but systematic training helps your career |
+| Teacher Certification (if engaged in teaching) | Spanish Ministry of Education | Optional | Teaching in public schools or official institutions requires CAP or a similar qualification |
+| Professional actor/dancer registration | Spanish Directorate-General for Authors and Publications (or its related associations) | Optional | Non-mandatory, but helps secure performance contracts and copyright protection |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 8,000。西班牙文化演出市场在疫后逐步恢复，但该职业整体需求稳定，全职岗位有限，多数从业者以项目制或自由职业为主。马德里、巴塞罗那及旅游城市机会较多。
+**Job demand: low (★★☆☆☆).** National workforce approx. 8,000. The Spanish cultural performance market has gradually recovered after the pandemic, but overall demand for this profession remains stable, with limited full-time positions, and most practitioners are project-based or freelancers. Madrid, Barcelona, and other tourist cities offer more opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$18,000 | 常见团体或小剧场演出，月薪约1000-1500欧元 |
-| 中级（4-7年） | $18,000~$30,000 | 在知名舞团、商业演出或电视节目中，月薪约1500-2500欧元 |
-| 高级（8年以上/编舞） | $30,000~$50,000 | 知名编舞师或舞团首席，月薪约2500-4000欧元，另有版权和项目收入 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$18,000 | For typical group or small theater performances, the monthly salary is about 1000-1500 euros |
+| Mid-level (4-7 years) | $18,000~$30,000 | For well-known dance companies, commercial performances, or TV shows, the monthly salary is about 1500-2500 euros |
+| Advanced (8 years or more / choreographer) | $30,000~$50,000 | Renowned choreographers or company principal dancers earn a monthly salary of about 2,500-4,000 euros, plus income from copyrights and projects |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 常见职业路径：从舞蹈学校或剧团起步，积累经验后成为独立编舞或舞蹈教师；少数资深舞者晋升为艺术总监或舞团负责人。也可跨界进入影视编导或健身舞蹈教学领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Choreographers and dancers face mixed effects from AI: AI can assist with choreography and teaching, but cannot replace the emotional tension and creativity of human performance; Competition for entry-level positions is intensifying, but the value of high-end creative positions is rising.
+
+Common career paths: Start at a dance school or troupe, gain experience, then become an independent choreographer or dance teacher; A few senior dancers are promoted to artistic director or head of the dance company. They can also cross over into film and television directing or fitness dance teaching.
+
+**Tasks most exposed to AI:**
+
+- Automated dance teaching video generation to replace basic course recording
+- AI generates background music and rhythm prompts, replacing some music editing tasks
+- Digital recording and playback of basic dance moves replaces manual notes
+- Automatically generate dance comments or analysis reports through AI video analysis
+- Virtual dancers are used for rehearsals or online performances, replacing part of the rehearsal
+
+**Where AI augments the role:**
+
+- AI-assisted choreography inspires creativity by generating movement combinations and variations
+- Leverage motion capture and AI analysis to optimize dancers' technical details and prevent injuries
+- AI-generated music and visual effects enhance stage performance
+- Cross-border collaboration and remote rehearsals are conducted through AI platforms
+- AI predicts performance market trends, helping select styles and themes
+
+**Human moat:**
+
+- The emotional delivery and improvisational interaction of live performances
+- Original choreography based on cultural depth and personal experience
+- Interpersonal collaboration and communication with dancers, directors, and audiences
+- The body, as an irreplaceable medium, encompasses personal style and injury risk
+- Critical thinking about dance aesthetics, philosophy, and social issues
+
+**Skills to build:**
+
+- AI choreography tools (such as ChoreoGraph, Ozone)
+- Motion capture and data analysis technology
+- Digital content creation and video editing
+- Cross-media collaboration (such as VR/AR stage design)
+- Project management and self-marketing skills
+- Dance injury prevention and physical training science
+
+**Key growth areas:**
 
 - Cultural tourism
 - Flamenco export
@@ -65,66 +101,68 @@ Choreographers and dancers create and perform dance pieces for theater, TV, film
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 受雇于西班牙舞团或制作公司，需由雇主担保申请工作居留，年薪门槛通常不低于最低工资。由于非紧缺职业，获批难度中等。 |
-| Subclass Autónomo（Self-employed visa） | 以自由职业身份申请，需证明有稳定客户和收入来源，起步门槛较高。 |
-| Subclass Busqueda empleo（Job search visa） | 限毕业生，可选在西班牙寻找工作，但非高学历热门专业，成功率低。 |
+| Subclass Cuenta ajena (Work permit (employed)) | Employed by Spanish dance companies or production companies requires employer-sponsored work residency, with annual salary thresholds usually not lower than minimum wage. Because it is a non-urgently needed occupation, the approval difficulty is moderate. |
+| Subclass Autónomo (Self-employed visa) | To apply as a freelancer, you need to prove you have stable clients and a source of income, so the entry threshold is quite high. |
+| Subclass Busqueda empleo (Job search visa) | Limited to graduates; optional to seek work in Spain, but success rate low for non-high-demand and non-top degree fields. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Choreographer and Dancer？**
-- 热爱舞蹈并具备出色身体协调性的人
-- 能接受不稳定收入且适应自由职业节奏的人
-- 有较强创造力且乐于舞台表演的人
+**Who is suited**
+- People who love dance and possess excellent physical coordination
+- Someone who can accept unstable income and adapt to the pace of freelancing
+- People with strong creativity who enjoy performing on stage
 
-**谁不适合学Choreographer and Dancer？**
-- 追求稳定高薪与固定工作时间的人
-- 在激烈竞争中容易感到焦虑的人
+**Who is not suited**
+- People who pursue stable, high salaries and fixed working hours
+- People who easily feel anxious in fierce competition
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of dancers in Spain?**
+A: Depending on experience and project, junior dancers earn about €12,000–18,000 annually, mid-level around €18,000–30,000, and top choreographers or principals can earn over €50,000. Many need to supplement income with teaching to make ends meet.
+
+**Q: Can foreigners immigrate to Spain through a choreographer or dancer career?**
+A: Yes, but it's quite challenging. Usually, you need to obtain a work contract from a Spanish employer or dance company and apply for work residency. Since this occupation does not fall under the urgently needed or high-skilled priority category, the approval process is lengthy and it must prove that EU citizens are unable to fill the position.
+
+**Q: How to transition from dancer to choreographer?**
+A: After gaining stage experience, you can independently create small works and strive for performance opportunities; Pursuing a master's degree in choreography can accelerate transformation. Building connections and participating in international dance festivals are important ways to do so.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Choreographer and Dancer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of a dancer in Spain?**
-答：Depending on experience and projects, junior dancers earn €12,000–18,000/year, mid-level €18,000–30,000, and top choreographers/principals may exceed €50,000. Many supplement income through teaching.
-
-**问：Can foreigners immigrate to Spain as choreographers or dancers?**
-答：Yes, but it is challenging. Typically requires a job offer from a Spanish employer/dance company to apply for a work permit. As it is not a shortage or high-skill priority occupation, processing is lengthy and requires proof that no EU citizen can fill the role.
-
-**问：How to transition from dancer to choreographer?**
-答：After gaining stage experience, create small independent works and seek performance opportunities; a master's degree in choreography can accelerate the transition. Networking and participating in international dance festivals are key.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

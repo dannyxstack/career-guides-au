@@ -1,61 +1,94 @@
-# Flexible Flooring Installer（Flexible Flooring Installer）职业分析 · FR
+# Flexible Flooring Installer — career analysis · France
 
-**职业代码：F1609 – Flexible Flooring Installer。**
+**Occupation code: F1609 (ROME)**
 
-Skilled tradesperson specializing in the installation of soft flooring materials such as PVC, linoleum, rubber, and carpet, typically in residential, commercial, and public buildings.
+Professional technicians responsible for installing soft flooring materials (such as PVC, linoleum, rubber, carpets, etc.) are commonly found in residential, commercial, and public building projects.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 职业能力证书 | 2年 | —（公立职业高中免费；企业学徒制可获津贴） |
-| BTS 高级技师文凭 | 2年（含1年实习） | —（公立院校免费，私立约2000€/年） |
+| CAP Professional Competency Certificate | 2 years | $0~$1,000 (Public vocational high schools are free; Corporate apprenticeships are eligible for subsidies) |
+| BTS Advanced Technician Diploma | 2 years (including 1 year internship) | $0~$2,000 (Public institutions are free, private ones pay about €2000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 铺设工职业证书 | 法国教育部 | 必备 | 基本从业证书，建议持有 |
-| CQP 软质地板铺设技能证书 | 建筑行业职业培训委员会 (CCCA-BTP) | 可选 | 行业认可证书，提升竞争力 |
-| SST 职业安全与急救证书 | CNAM / 培训组织 | 必备 | 工地入场必备 |
+| CAP Layer Professional Certificate | French Ministry of Education | Required | Basic professional certificate, recommended to hold |
+| SST Occupational Safety and First Aid Certificate | CNAM / Training Organization | Required | Essential for site entry |
+| CQP Soft Flooring Installation Skill Certificate | Construction Industry Vocational Training Committee (CCCA-BTP) | Optional | Industry recognition certificates to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国建筑装修行业持续稳定，受旧房翻新和新建项目推动，软质地板铺设工需求平稳，但非紧缺职业。
+**Job demand: medium (★★★☆☆).** National workforce approx. 25,000. The French building and renovation industry remains stable, driven by old home renovations and new construction projects. Demand for soft flooring workers is steady, but not in short supply.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，含学徒后转正 |
-| 中级（4-7年） | $26,000~$32,000 | 熟练工，可带团队 |
-| 高级（8年+） | $32,000~$40,000 | 项目经理或自雇 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Pre-tax annual salary, including apprentices after becoming full-time employees |
+| Mid-level (4-7 years) | $26,000~$32,000 | Skilled workers, able to lead teams |
+| Senior (8+ years) | $32,000~$40,000 | Project manager or self-employed |
+| average salary | $24,042 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从熟练工晋升为团队负责人或独立承包商，也可向特殊领域（如体育地板、医院防静电地板）专业化发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Soft flooring installation is a clearly automated compression occupation. AI-driven automated laying robots and intelligent measurement systems will replace heavy repetitive labor, significantly reducing entry-level job demand, but skilled technicians still hold value in complex scenarios and customer communication.
+
+You can advance from skilled worker to team leader or independent contractor, or specialize in specialized fields such as sports flooring and hospital anti-static flooring.
+
+**Tasks most exposed to AI:**
+
+- An AI visual recognition system is used to automatically measure room dimensions and generate layout plans
+- Soft flooring materials with standard shapes are automatically cut and laid by robots
+- AI automatically checks the quality and smoothness of the installation and generates a report
+- Standard parameter matching and quotation generation in customer consultations
+
+**Where AI augments the role:**
+
+- Using AR glasses to visualize installation effects, customers can be shown different material and color combinations
+- Using AI to analyze room usage patterns and recommend the best floor wear resistance grades and materials
+- Coordinate construction sequences with other trades through BIM systems to reduce rework
+- Use the mobile AI assistant to query complex splicing processes and troubleshooting solutions in real time
+
+**Human moat:**
+
+- Creative layout solutions for irregular and curved spaces
+- Communicate face-to-face with clients to understand aesthetic preferences and offer personalized advice
+- Manual judgment and precise operations during maintenance and refurbishment of old flooring
+- On-site safety management and the ability to respond to unexpected issues (such as uneven floors and concealed pipelines).
+
+**Skills to build:**
+
+- Operate and maintain automated laying robots and AI measurement equipment
+- Use BIM or CAD software for floor layout design
+- AR/VR tools provide customer visualization demonstrations
+- Basic data analysis capabilities: Assess material loss and optimize costs
+- Communication and sales skills: Explain AI-generated solutions to clients
+- Continuous learning: focus on new eco-friendly materials and intelligent installation systems
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -64,62 +97,64 @@ Skilled tradesperson specializing in the installation of soft flooring materials
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Residence Permit） | 需获得法国雇主CDI合同，工资达标；非紧缺职业，需经过法国劳工局(OFII)审批 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若具备杰出技能或高学历（硕士+），可尝试，但门槛较高 |
+| Subclass Salarié (Salarié (Employee) Residence Permit) | Must obtain a CDI contract from a French employer and meet the salary requirements; Non-urgently needed occupations require approval from the French Labor Office (OFII). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you have outstanding skills or a high degree (Master's+), you may try, but the threshold is relatively high |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Flexible Flooring Installer？**
-- 喜欢动手、注重细节的人
-- 愿意从事体力活动，不介意工地上班
-- 希望掌握一门实用技能的求职者
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Willing to engage in physical activity and not mind working on construction sites
+- Job seekers who want to master a practical skill
 
-**谁不适合学Flexible Flooring Installer？**
-- 对灰尘、噪音、化学胶水过敏者
-- 追求高薪或快速晋升者
+**Who is not suited**
+- For those allergic to dust, noise, and chemical glue
+- Those seeking high salaries or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for soft flooring installers in France?**
+A: Junior approx. €20,000-26,000 gross annual salary; experienced can reach €32,000-40,000.
+
+**Q: How can foreigners immigrate to France with this profession?**
+A: This occupation is not in short supply and requires a French employer sponsor to apply for Salarié residency, with salary meeting standards and strict approval from the Labor Bureau. It is recommended to first obtain a diploma through an apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Flexible Flooring Installer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a flexible flooring installer in France?**
-答：Entry-level: €20,000-€26,000 gross per year; experienced: €32,000-€40,000.
-
-**问：How can a foreigner immigrate to France through this occupation?**
-答：Not a shortage occupation; requires employer sponsorship for a Salarié permit. Labour market test applies. Apprenticeship route may help.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

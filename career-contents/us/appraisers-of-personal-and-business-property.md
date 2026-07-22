@@ -1,58 +1,92 @@
-# Appraisers of Personal and Business Property（Appraisers of Personal and Business Property）职业分析 · 美国
+# Appraisers of Personal and Business Property — career analysis · United States
 
-**职业代码：13-2022 – Appraisers of Personal and Business Property。**
+**Occupation code: 13-2022 (SOC)**
 
-Appraise and estimate fair value of tangible personal or business property such as jewelry, art, antiques, collectibles, and equipment; may also appraise land.
+Assess the fair value of tangible personal or commercial property such as jewelry, artworks, antiques, equipment, etc.; may also assess land, excluding real estate appraisers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学约4万美元，私立约12万美元） |
-| 硕士学位（可选） | 1-2年 | $20,000~$80,000（MBA或相关领域硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities around USD 40,000, private around USD 120,000) |
+| Master's degree (optional) | 1-2 years | $20,000~$80,000 (MBA or master's degree in a related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国评估师协会（ASA）认证 | American Society of Appraisers | 可选 | 专业资格，需通过考试和经验要求 |
-| 国际评估准则理事会（IVSC）认证 | International Valuation Standards Council | 可选 | 国际认可，非强制 |
+| American Society of Appraisers (ASA) certification | American Society of Appraisers | Optional | Professional qualifications, requiring exams and experience |
+| International Valuation Standards Council (IVSC) certification | International Valuation Standards Council | Optional | Internationally recognized, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,200。美国就业前景稳定，预计2023-2033年就业增长约5%，受奢侈品市场和保险需求驱动。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,200. US employment outlook stable; projected growth of about 5% from 2023-2033, driven by luxury market and insurance demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级职位，多需在指导下工作 |
-| 中级（4-7年） | $55,000~$75,000 | 独立承担评估任务 |
-| 高级（8年+） | $75,000~$100,000 | 资深估价师或主管 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level position, often requiring work under supervision |
+| Mid-level (4-7 years) | $55,000~$75,000 | Independently undertake assessment tasks |
+| Senior (8+ years) | $75,000~$100,000 | Senior appraiser or supervisor |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理估价师晋升为高级估价师或部门主管，积累经验后可成为独立鉴定师或开设事务所。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Land and property valuers' tasks heavily rely on site inspections and comprehensive data judgement; automation can handle data collection and simple model analysis, but core valuation, market insight, and legal compliance still require human professional judgement. Entry-level positions are slightly compressed due to basic automation, but AI-enhanced senior roles become more efficient.
+
+Can progress from assistant valuer to senior valuer or department head; with experience, can become an independent appraiser or start a firm.
+
+**Tasks most exposed to AI:**
+
+- Automatically scrape comparable sales case data from public databases
+- Generating preliminary valuation report drafts (template-based)
+- Automatically adjust model parameters based on historical data for basic valuation
+- Regularly monitoring market trends and automatically generating market briefs
+
+**Where AI augments the role:**
+
+- AI providing real-time market data and trend predictions to aid accurate valuation
+- Automated documentation and compliance checks to reduce manual errors
+- Enhancing report visualization capabilities for client communication
+- Support rapid scenario simulation (e.g., impact of interest rate changes on housing prices)
+- Integrate geographic information (GIS) with AI analysis to improve location assessment accuracy
+
+**Human moat:**
+
+- Deep insights into non-quantitative factors of the local property market (e.g., community reputation, future plans)
+- Customer negotiation and trust-building skills
+- Interpretation and judgment of complex property boundaries and legal clauses
+- Responsibility attribution and professional ethics decisions in valuation reports
+- On-site visual inspection for building defects and subtle area changes
+
+**Skills to build:**
+
+- Data analysis and interpretation (Python/R, SQL)
+- Valuation automation software (e.g., ValEx, API integration)
+- GIS and spatial analysis tools (e.g., ArcGIS)
+- AI model interpretability (explainable AI report generation)
+- Advanced communication and client consultation skills
+- Continuously updated regulatory and compliance knowledge
+
+**Key growth areas:**
 
 - Luxury Market
 - Insurance Appraisal
@@ -61,66 +95,65 @@ Appraise and estimate fair value of tangible personal or business property such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适合学士及以上学位的估价师，需雇主担保 |
-| Subclass EB-2（Employment-Based Second Preference） | 需高级学位或特殊能力，PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合学士或以下学位，PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明在评估领域的杰出成就 |
+| Subclass H-1B (H-1B Specialty Occupation) | Valuers with a bachelor's degree or higher, requiring employer sponsorship |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires advanced degree or exceptional ability, PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or below, PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate outstanding achievements in the assessment field |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Appraisers of Personal and Business Property？**
-- 对艺术品、珠宝等有浓厚兴趣的人
-- 细致、具备分析能力的人
-- 希望从事独立自由职业的人
-
-**谁不适合学Appraisers of Personal and Business Property？**
-- 厌恶频繁出差的人
-- 不喜欢与客户直接打交道的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in art, jewelry, etc.
+- Meticulous, analytical people
+- Those who wish to work as independent freelancers
+
+**Who is not suited**
+- Those who dislike frequent travel
+- People who dislike direct client interaction.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a personal property appraiser?**
+A: Entry-level annual salary approximately USD 40,000-55,000, mid-level 55,000-75,000, senior up to 100,000+, depending on specialization and region.
+
+**Q: How can foreigners immigrate to the US through this occupation?**
+A: Common pathway is H-1B work visa, followed by employer-sponsored EB-2 or EB-3 green card. Requires a bachelor's degree and at least 2 years of experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Appraisers of Personal and Business Property的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for appraisers of personal property?**
-答：Entry-level: $40,000-$55,000; mid-level: $55,000-$75,000; senior: $75,000-$100,000+ depending on specialty and location.
-
-**问：How can foreigners immigrate to the US through this occupation?**
-答：Common path: H-1B visa followed by employer-sponsored EB-2 or EB-3 green card. Requires bachelor's degree and at least 2 years of experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

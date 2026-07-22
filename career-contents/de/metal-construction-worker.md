@@ -1,59 +1,95 @@
-# Metal Construction Worker（Metal Construction Worker）职业分析 · DE
+# Metal Construction Worker — career analysis · Germany
 
-**职业代码：2441 – Metal Construction Worker。**
+**Occupation code: 2441 (KldB)**
 
-Metal construction workers manufacture and install metal structures such as steel frames, doors, windows, and railings. This trade is in stable demand in Germany's construction sector and is a skilled occupation eligible for immigration.
+Metal structure workers fabricate and install metal components such as steel frames, doors, windows, and railings. This occupation has stable demand in Germany's construction industry and is one of the shortage occupations for skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期间有津贴，通常无需学费） |
-| 师傅（Meister） | 1-2年（全职） | $3,000~$8,000（考试费用和课程费，可申请国家资助） |
+| Dual vocational training | 3.5 years | $0~$0 (Allowance provided during training, usually no tuition fees) |
+| Master craftsman (Meister) | 1-2 years (full-time) | $3,000~$8,000 (Exam fees and course fees, eligible for government funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属结构工学徒结业证书 | 德国工商业协会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 资质认证（Anerkennung） | 德国联邦职业教育与培训办公室（BIBB） | 必备 | 海外学历需认证，可能需补修部分模块 |
-| 师傅资格（Meister） | IHK | 可选 | 可自愿考取，提升管理能力和薪资 |
+| Metal Structure Worker Apprenticeship Completion Certificate | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Qualification recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) | Required | Overseas qualifications need to be recognised, and some modules may need to be supplemented. |
+| Master craftsman qualification (Meister) | IHK | Optional | Voluntary certification to enhance management skills and salary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 145,000。德国建筑业持续繁荣，对金属结构工的需求旺盛。随着基础设施更新和能源转型推进，就业前景良好，尤其在北威州和巴伐利亚州。
+**Job demand: high (★★★★☆).** National workforce approx. 145,000. The German construction industry continues to boom, with strong demand for metal structure workers. With infrastructure renewal and energy transition underway, employment prospects are good, especially in North Rhine-Westphalia and Bavaria.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，视地区和公司规模 |
-| 中级（4-7年） | $35,000~$42,000 | 多数熟练工薪资在此范围 |
-| 高级（8年以上/师傅） | $43,000~$55,000 | 师傅或项目主管可达更高 |
+| Median salary | $43,836 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, varies by region and company size |
+| Mid-level (4-7 years) | $35,000~$42,000 | Most skilled workers earn within this range |
+| Senior (8+ years/Master) | $43,000~$55,000 | Master or project supervisor can earn more |
+| average salary | $46,476 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒晋升为熟练工，进而考取师傅（Meister）资格，或深造为技术员、工程师。也可自主创业或转向项目管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
+
+Can progress from apprentice to skilled worker, then obtain Master (Meister) qualification, or further study to become technician or engineer. Also possible to start own business or move into project management.
+
+**Tasks most exposed to AI:**
+
+- Automatic nesting and CNC cutting of metal sheets
+- Simple defect identification and classification through AI visual inspection
+- Repeated bending and punching in bulk forming of standard ventilation ducts
+- Automatic unfolding and blanking calculation based on 3D models
+- AI-driven automatic inventory counting and replenishment in warehouses
+
+**Where AI augments the role:**
+
+- AI-assisted unfolding and forming process optimization for complex geometric shapes
+- AR glasses project installation guides to improve on-site positioning and assembly accuracy
+- AI load calculation optimizes material utilization and reduces waste
+- Digital twin simulation of sheet metal part stress performance in assemblies
+- AI-Driven Robots Collaborate on Repetitive Welding and Handling
+
+**Human moat:**
+
+- On-site measurement and manual finishing of non-standard, irregular metal parts
+- Installation and sealing of ventilation ducts and roofs in confined spaces or at heights
+- Experienced judgment of hidden defects such as metal fatigue and weld quality
+- Ability to communicate on-site with clients and designers and adjust plans
+- Safety assurance: handling hazardous environments like heat, sharp edges, toxic coatings
+
+**Skills to build:**
+
+- Learn CAD/CAM software (e.g., SolidWorks, AutoCAD Inventor)
+- Master CNC punching and laser cutting machine programming and operation
+- Understanding collaborative programming of industrial robots with sheet metal bending and welding cells
+- Apply digital measurement tools (e.g., 3D scanners) for reverse engineering
+- Basic data analysis skills to optimise material layout and process parameters
+- Learning connection techniques for lightweight materials (aluminum-magnesium alloys, composites)
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -62,69 +98,68 @@ Metal construction workers manufacture and install metal structures such as stee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有高等教育背景的申请人，薪资门槛2024年约为43,800欧元（紧缺职业） |
-| Subclass Skilled Worker（Skilled Immigration Act Visa） | 适用于完成德国认可的职业培训或同等学历的申请人，无薪资门槛 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明经济能力 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，2024年引入，适合有职业资格的申请人 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with higher education background; salary threshold in 2024 approximately €43,800 (shortage occupation) |
+| Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable to applicants who have completed recognized vocational training or equivalent qualifications in Germany, with no salary threshold |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a stay of 6 months in Germany to seek employment, requiring proof of financial means |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, introduced in 2024, suitable for applicants with professional qualifications |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Construction Worker？**
-- 喜欢动手操作和户外工作
-- 具有空间想象力和细致态度
-- 愿意接受职业培训和认证
-
-**谁不适合学Metal Construction Worker？**
-- 不喜欢体力劳动和户外环境
-- 对金属加工或焊接过敏或抵触
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on and outdoor work
+- Has spatial imagination and attention to detail
+- Willing to undergo vocational training and certification.
+
+**Who is not suited**
+- Dislikes physical labor and outdoor environments
+- Allergic or averse to metalworking or welding
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a metal structure worker in Germany?**
+A: Starting salary is usually 28,000 to 34,000 euros per year (pre-tax), varying by region and company size.
+
+**Q: How can foreign metal structure workers immigrate to Germany?**
+A: Visa eligibility under the Skilled Migration Act, provided professional qualifications are recognised in Germany. If qualifications or training do not match, you can apply for a Chancenkarte or complete partial credential assessment first.
+
+**Q: What are the promotion opportunities for metal structure workers?**
+A: Can become a master (Meister) to manage projects, or further study as a technician or engineer, or start your own metal processing company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Metal Construction Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a metal construction worker in Germany?**
-答：Starting salary is typically between 28,000 and 34,000 EUR gross per year, depending on region and company size.
-
-**问：How can a foreign metal construction worker immigrate to Germany?**
-答：Through the Skilled Immigration Act visa, provided professional qualifications are recognized. If not, an Opportunity Card (Chancenkarte) or partial recognition may be possible.
-
-**问：What are the career advancement opportunities for metal construction workers?**
-答：You can become a Meister to manage projects, further study to become a technician or engineer, or start your own metalworking business.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

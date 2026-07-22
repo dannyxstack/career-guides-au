@@ -1,61 +1,94 @@
-# Inspectors and graders, textile, fabric, fur and leather products manufacturing（Inspectors and graders, textile, fabric, fur and leather products manufacturing）职业分析 · 加拿大
+# Inspectors and graders, textile, fabric, fur and leather products manufacturing — career analysis · Canada
 
-**职业代码：94133 – Inspectors and graders, textile, fabric, fur and leather products manufacturing。**
+**Occupation code: 94133 (NOC)**
 
-Inspect textile, fabric, fur, and leather products to ensure quality and compliance with standards. May grade, mark defects, and record inspection results.
+Responsible for inspecting the quality of textiles, fabrics, fur, and leather products to ensure compliance with standards and specifications. May involve grading, marking defects, and recording inspection results.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 职业培训证书 | 6个月至1年 | $3,000~$10,000（社区学院或职业培训机构） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| Vocational training certificate | 6 months to 1 year | $3,000~$10,000 (Community college or vocational training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 省级教育部门 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 必备 | 通常需要几个月的工作经验 |
-| 质量检验认证（可选） | 加拿大质量协会 | 可选 | 提升竞争力 |
+| High school diploma or equivalent | Provincial education department | Required | Basic entry requirements |
+| On-the-job training | Employer | Required | Usually requires a few months of work experience |
+| Quality inspection certification (optional) | Canadian Quality Association | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,200。加拿大制造业持续发展，对质量控制的需求稳定。但自动化检测技术的应用可能限制就业增长。未来十年职位数量变化不大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,200. Canada's manufacturing sector continues to develop, with steady demand for quality control. However, the application of automated inspection technologies may limit employment growth. The number of positions is expected to remain relatively stable over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 时薪约$15-$19 |
-| 中级（3-7年） | $38,000~$48,000 | 时薪约$19-$24 |
-| 高级（7年以上） | $48,000~$60,000 | 时薪约$24-$30 |
+| Median salary | $36,400 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$38,000 | Hourly wage approx. $15-$19 |
+| Mid-level (3–7 years) | $38,000~$48,000 | Hourly wage approximately $19-$24 |
+| Senior (7+ years) | $48,000~$60,000 | Hourly wage about $24-$30 |
+| average salary | $39,520 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级检验员可通过积累经验晋升为高级检验员或质量主管。进一步可转向质量管理或生产管理岗位。需要持续学习新检测技术。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation faces a high risk of automation; AI and computer vision will replace many repetitive visual inspections and grading tasks, but some complex judgments and physical operations still require human input.
+
+Junior inspectors can advance to senior inspectors or quality supervisors through experience. Further career moves into quality management or production management. Need continuous learning of new inspection techniques.
+
+**Tasks most exposed to AI:**
+
+- Using computer vision systems to automatically detect textile surface defects (e.g., holes, color differences, stains), replacing manual visual inspection.
+- Leather and fur are graded using automated sorting systems, with most grading completed based on preset standards.
+- Use data analysis tools to automatically record inspection results and generate reports, reducing manual entry.
+- Use machine learning models to optimize sampling inspection strategies, reducing reliance on full inspection.
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of complex defect patterns (e.g. fabric structural anomalies) helps inspectors determine causes more accurately.
+- Augmented reality (AR) overlays defect location and grade information, improving inspection efficiency and accuracy.
+- Use AI predictive maintenance to reduce equipment failures and improve product quality consistency
+- Smart recommendation system provides process improvement suggestions, assisting inspectors in quality control optimization.
+
+**Human moat:**
+
+- Traceability analysis and root cause determination for abnormal defects (e.g., fading caused by chemical contamination).
+- Inspections involving special customer requirements and subjective evaluations (e.g., feel, appearance, taste).
+- Cross-departmental coordination and communication and decision-making in quality system audits.
+- Development and validation of inspection standards for new processes and materials.
+
+**Skills to build:**
+
+- Proficient in computer vision system operation and maintenance
+- Learning data analysis and statistical process control
+- Familiar with programming automation inspection equipment (e.g., PLC, Python)
+- Enhance quality management and auditing skills (e.g., ISO standards)
+- Learn the application of augmented reality tools in quality inspection
+- Develop complex problem-solving and cross-disciplinary communication skills
+
+**Key growth areas:**
 
 - Moderate demand
 - Quality control
@@ -64,68 +97,67 @@ Inspect textile, fabric, fur, and leather products to ensure quality and complia
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法找到本地工人，可支持工签申请。职位技能等级较低，LMIA审批有难度。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能有制造业相关提名项目，但通常要求更高技能。 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must demonstrate inability to find local workers; can support work visa applications. The occupation has a low skill level, making LMIA approval challenging. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may have manufacturing-related nomination programs, but usually require higher skills. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Inspectors and graders, textile, fabric, fur and leather products manufacturing？**
-- 注重细节、有耐心的人
-- 愿意从事重复性检查工作的人
-- 希望在制造业稳定就业的人
-
-**谁不适合学Inspectors and graders, textile, fabric, fur and leather products manufacturing？**
-- 寻求快速晋升和高薪的人
-- 不希望做重复性工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient people
+- Individuals willing to perform repetitive inspection tasks
+- People seeking stable employment in manufacturing.
+
+**Who is not suited**
+- Those seeking rapid promotion and high salary
+- People who do not want to do repetitive work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Salary moderately low, junior approx. CAD 30,000-38,000, senior up to CAD 60,000. Overtime may increase income.
+
+**Q: Is it difficult to immigrate to Canada in this occupation?**
+A: Difficult. This occupation has a low skill level (TEER 4) and usually does not meet federal skilled migration requirements. Mainly through LMIA work permits or limited provincial nomination pathways, but highly competitive.
+
+**Q: What are the future employment prospects?**
+A: Outlook stable but with limited growth. Automated inspection may reduce demand, but manual inspection remains necessary.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Inspectors and graders, textile, fabric, fur and leather products manufacturing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Salary is moderate to low, entry-level around CAD 30,000-38,000, senior up to CAD 60,000. Overtime may increase earnings.
-
-**问：Is it difficult to immigrate to Canada in this occupation?**
-答：Yes. This is a lower-skilled occupation (TEER 4), typically not eligible for federal skilled programs. Mainly via LMIA work permits or limited PNP streams, but highly competitive.
-
-**问：What is the future job outlook?**
-答：Stable but limited growth. Automation may reduce demand, but human inspection remains necessary.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

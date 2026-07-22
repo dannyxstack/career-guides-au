@@ -1,60 +1,92 @@
-# Wholesale and Retail Buyers, Except Farm Products（Wholesale and Retail Buyers, Except Farm Products）职业分析 · 美国
+# Wholesale and Retail Buyers, Except Farm Products — career analysis · United States
 
-**职业代码：13-1022 – Wholesale and Retail Buyers, Except Farm Products。**
+**Occupation code: 13-1022 (SOC)**
 
-Wholesale and retail buyers analyze past buying trends, sales records, price, and quality of merchandise to determine value and yield. They select, order, and authorize payment for goods according to contractual agreements and may conduct meetings with sales personnel.
+Wholesale and retail buyers analyze purchasing trends, sales records, prices, and product quality to determine value and profitability. They select, order, and authorize payment for goods based on contract agreements, and may meet with sales representatives.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学平均每年10,000-30,000美元） |
-| 硕士学位（可选） | 2年 | $30,000~$80,000（MBA或供应链管理学位，提升竞争力） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities average $10,000-$30,000 per year) |
+| Master's degree (optional) | 2 years | $30,000~$80,000 (MBA or supply chain management degree to enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 供应链管理认证（CSCP） | APICS | 可选 | 非强制，但可提升就业前景 |
-| 采购认证（C.P.M.） | ISM | 可选 | 非强制，但体现专业能力 |
+| Supply Chain Management Certification (CSCP) | APICS | Optional | Not mandatory, but can improve job prospects |
+| Procurement certification (C.P.M.) | ISM | Optional | Not mandatory, but demonstrates professional competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 146,000。根据美国劳工统计局（BLS）预测，2023-2033年该职业就业增长约为-4%，即下降，主要由于自动化和线上采购减少需求。但零售和批发行业仍有一定岗位，特别是在大型零售商和分销中心。
+**Job demand: low (★½☆☆☆).** National workforce approx. 146,000. According to the U.S. Bureau of Labor Statistics (BLS), employment in this occupation is projected to decline by about -4% from 2023 to 2033, mainly due to automation and online purchasing reducing demand. However, some positions remain in retail and wholesale, especially at large retailers and distribution centers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理采购员或初级职位 |
-| 中级（3-8年） | $50,000~$75,000 | 独立负责采购品类 |
-| 高级（8年以上） | $75,000~$110,000 | 高级采购员或采购经理 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Assistant buyer or entry-level position |
+| Mid-level (3–8 years) | $50,000~$75,000 | Independently responsible for procurement category. |
+| Senior (8+ years) | $75,000~$110,000 | Senior Buyer or Purchasing Manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级采购员可从助理或数据分析岗起步，积累经验后晋升为高级采购员或采购经理，进而担任供应链总监或商品副总裁。部分人转向供应链管理或物流领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Wholesale and retail buyers (except agricultural products) face AI-assisted data analysis, but interpersonal negotiation, supplier relationship management, and strategic decision-making remain highly human-dependent; overall outlook is mixed.
+
+Junior procurement officers can start as assistants or data analysts, gain experience, and advance to senior procurement officers or procurement managers, then to supply chain directors or commodity VPs. Some move into supply chain management or logistics.
+
+**Tasks most exposed to AI:**
+
+- Routine purchase order generation based on historical sales data
+- Automatic comparison and selection of supplier quotes
+- Inventory level monitoring and automatic replenishment alerts
+- Automatic generation and analysis of market trend reports
+
+**Where AI augments the role:**
+
+- Using AI predictive models to optimize procurement timing and quantities
+- Analyze risks in supplier contract clauses via natural language processing
+- Supplier performance evaluation and scoring using AI tools
+- Using market data visualization tools to quickly identify price changes
+
+**Human moat:**
+
+- Build long-term trust relationships with suppliers and conduct complex negotiations
+- Handling unforeseen supply disruptions and urgent procurement needs
+- Judge market trends based on industry experience and intuition
+- Comprehensive oversight of product quality, compliance, and ethics.
+
+**Skills to build:**
+
+- Data analysis and AI tool applications (e.g., Python, SQL, predictive modeling)
+- Advanced operation of supply chain management software (e.g., SAP Ariba)
+- Negotiation and supplier relationship management
+- Risk management and emergency planning
+- Industry-specific knowledge (e.g., fashion, electronics market trends)
+- Digital contract management and compliance analysis
+
+**Key growth areas:**
 
 - declining
 - automation impact
@@ -63,62 +95,64 @@ Wholesale and retail buyers analyze past buying trends, sales records, price, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 仅适用于公司担保，但采购员通常不被视为专业职业，需证明职位复杂且需学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可通过PERM劳工认证申请，但需证明市场无美国工人可用，难度较高 |
+| Subclass H-1B (H-1B Specialty Occupations) | Only applicable for company sponsorship, but procurement officers are not usually considered professional occupations; need to prove the position is complex and requires a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Can apply via PERM labor certification but must prove no US workers available—high difficulty |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wholesale and Retail Buyers, Except Farm Products？**
-- 喜欢分析和数据驱动决策的人
-- 对零售和供应链感兴趣的人
-- 善于谈判和沟通的人
+**Who is suited**
+- People who enjoy analysis and data-driven decision making
+- People interested in retail and supply chain
+- People skilled in negotiation and communication
 
-**谁不适合学Wholesale and Retail Buyers, Except Farm Products？**
-- 厌恶重复性工作的人
-- 不擅长数字分析的人
+**Who is not suited**
+- People who dislike repetitive work
+- People not good at numerical analysis
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for wholesale and retail buyers?**
+A: According to BLS 2023 data, median annual salary around $65,000, but entry-level positions may be below $40,000, and senior positions can exceed $100,000. Varies significantly by industry and location.
+
+**Q: Can overseas individuals work in this occupation on an H-1B visa?**
+A: Difficult, as buyers are generally not considered a 'specialty occupation' under H-1B. The company must prove the role is complex and requires at least a bachelor's degree, but approval rates are low. The EB-3 green card path also presents challenges.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wholesale and Retail Buyers, Except Farm Products属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for wholesale and retail buyers?**
-答：According to BLS 2023 data, the median annual wage is around $65,000, but entry-level positions may be under $40,000, while senior roles can exceed $100,000. It varies by industry and location.
-
-**问：Can overseas professionals work in this occupation via H-1B visa?**
-答：It is difficult as buyers are generally not considered 'specialty occupations' under H-1B. The employer must prove the role is complex and requires a bachelor's degree or higher, but approval rates are low. EB-3 green card path also faces challenges.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

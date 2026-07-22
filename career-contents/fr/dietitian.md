@@ -1,62 +1,98 @@
-# Dietitian（Dietitian）职业分析 · FR
+# Dietitian — career analysis · France
 
-**职业代码：J1402 – Dietitian。**
+**Occupation code: J1402 (ROME)**
 
-Dietitians assess nutritional needs, develop personalized meal plans, and provide counseling to prevent and treat diseases. They work in hospitals, clinics, nursing homes, schools, or private practice.
+Nutritionists are responsible for assessing individual nutritional status, developing personalized dietary plans, preventing and treating diseases, and promoting health. They can be practiced in hospitals, clinics, nursing homes, schools, or private practice.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法国国家营养师文凭（DETC） | 5年（Bac+5） | $5,000~$12,000（公立大学学费低，私立学校或精英学院费用较高） |
-| BTS 营养与饮食学 | 2年（BTS） | $1,000~$5,000（通常公立院校，学费较低） |
-| 大学应用营养学学士 | 3年（Licence） | $2,000~$6,000（公立大学，学费范围约2000-6000欧元/年） |
+| French National Diploma in Nutritionist (DETC) | 5 years (Bac+5) | $5,000~$12,000 (Public universities have lower tuition fees, while private schools or elite colleges charge higher fees) |
+| BTS Nutrition and Dietetics | 2 Years (BTS) | $1,000~$5,000 (Usually public institutions, with lower tuition fees) |
+| Bachelor of Applied Nutrition from university | 3 years (Licence) | $2,000~$6,000 (Public universities, with tuition fees ranging from about 2000 to 6000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 营养师国家文凭（DETC） | 法国高等教育和研究部 | 必备 | 从事临床营养工作必备，通过国家考试获得 |
-| BTS 营养与饮食学 | 教育部 | 可选 | 基础学历，可从事部分技术工作 |
-| 注册营养师（ADR） | 法国营养师协会（AFDN） | 可选 | 自愿认证，但有助于就业和信誉 |
+| National Diploma in Nutritionist (DETC) | French Ministry of Higher Education and Research | Required | Essential for clinical nutrition work, obtained through national examinations |
+| BTS Nutrition and Dietetics | Ministry of Education | Optional | Basic education, able to engage in some technical work |
+| Registered Nutritionist (ADR) | French Association of Nutritionists (AFDN) | Optional | Voluntary certification, but it helps with employment and reputation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。法国营养师需求稳定增长，受慢性病（糖尿病、肥胖）增加和老龄化推动。医院和长期护理机构是主要雇主，但私人咨询市场也在扩大。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The demand for nutritionists in France is steadily growing, driven by the rise in chronic diseases (diabetes, obesity) and an aging population. Hospitals and long-term care institutions are the main employers, but the private consultation market is also expanding.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 公立医院或诊所起薪 |
-| 中级（3-7年） | $32,000~$42,000 | 资深临床或管理岗位 |
-| 高级（7年以上） | $42,000~$55,000 | 部门主管或私人执业高收入 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Starting salary in public hospitals or clinics |
+| Mid-level (3–7 years) | $32,000~$42,000 | Senior clinical or management positions |
+| Senior (7+ years) | $42,000~$55,000 | Department heads or private practitioners with high income |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从临床营养师起步，可晋升为科室主任、营养部门主管，或转向公共卫生、食品服务管理、研究教育领域。还可独立开业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
+
+Typically, you start as a clinical dietitian and can be promoted to department head, nutrition department head, or transition to public health, food service management, or research and education. It can also operate independently.
+
+**Tasks most exposed to AI:**
+
+- Standard Meal Formula Generation and Nutrient Calculation
+- Automated dietary record analysis (generate reports from diaries)
+- Preliminary dietary advice for common chronic conditions (e.g., diabetes)
+- Online nutrition education and general dietary advice
+- Database query and literature review assistance
+
+**Where AI augments the role:**
+
+- AI-assisted clinical diagnosis (e.g., identifying malnutrition risk)
+- Generate personalized nutrition plans (combined with genetic and microbiome data)
+- Real-time nutrition monitoring and feedback via wearable devices
+- Patient data management (automatic sorting of medical records and dietary history)
+- Automation of online booking and follow-ups
+
+**Human moat:**
+
+- Complex nutritional interventions for multiple comorbidities (e.g., kidney disease with diabetes)
+- Enteral/parenteral nutrition formulation and critical care management
+- Behaviour change counselling (psychological support, overcoming eating habits)
+- Medical team coordination (communicating with doctors, nurses, and pharmacists)
+- Ethical judgment and patient privacy protection
+
+**Skills to build:**
+
+- Clinical nutrition assessment and disease management (e.g., ICU nutritional support)
+- Hands-on AI tools (e.g., IBM Watson Nutrition Advisor)
+- Health data analysis (basic Python/R, electronic medical record systems)
+- Telemedicine communication and patient education
+- Culturally sensitive nutrition counselling (diverse clients)
+- Research and evidence-based practice updates
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease management
@@ -65,69 +101,68 @@ Dietitians assess nutritional needs, develop personalized meal plans, and provid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport) – Profession Artistique et Culturelle） | 若持有高技能工作合同或由雇主担保，可申请人才护照。营养师不符合紧缺职业列表，但若工作合同薪资达标可申请。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 雇主提供工作合同后申请，需证明招聘不到本地人。通常较困难，但公立医院有特殊配额。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search Visa)） | 毕业后给12个月找工作，找到后转Salarié |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport) – Profession Artistique et Culturelle) | If you hold a high-skilled work contract or are sponsored by an employer, you can apply for a talent passport. Nutritionists do not qualify for the Shortage Occupation List, but can apply if the salary in the work contract meets the requirements. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | After the employer provides a work contract, they must apply and prove that they cannot recruit local workers. It is usually more difficult, but public hospitals have special quotas. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | 12 months to find a job after graduation, then switch to Salarié. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitian？**
-- 热爱营养科学，乐于帮助他人改善饮食习惯
-- 具备良好沟通和教学能力
-- 对食品与健康行业有浓厚兴趣
-
-**谁不适合学Dietitian？**
-- 不愿面对患者或缺乏耐心
-- 对医学和生物学基础不感兴趣
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nutritional science and eager to help others improve their eating habits
+- Possess good communication and teaching skills
+- Strong interest in the food and health industry
+
+**Who is not suited**
+- Unwillingness to face patients or lack of patience
+- Not interested in medical or biological foundations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of nutritionists in France?**
+A: Junior annual salary approx EUR 25,000-32,000 (pre-tax), senior can reach 42,000-55,000, private practice income may be higher.
+
+**Q: What are the pathways for foreign nutritionists to immigrate to France?**
+A: The main pathways include the Salarié work visa (with employer sponsorship), Passeport Talent (high salary or special contributions), or applying for the Recherche d'emploi visa after graduation. However, qualification certifications (such as DETC) are a necessary threshold.
+
+**Q: How can foreign nutritionists obtain French practice qualifications?**
+A: Must pass French national dietitian diploma certification (DETC), can apply for qualification equivalence (reconnaissance des qualifications), and may need to complete supplementary courses or pass exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Dietitian为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a dietitian in France?**
-答：Entry-level salary is around €25,000-32,000 before tax, experienced dietitians can earn €42,000-55,000, and private practice may yield higher income.
-
-**问：What are the migration pathways for foreign dietitians to France?**
-答：Main pathways include Salarié work permit (employer sponsorship), Passeport Talent (high salary or exceptional contribution), or job search visa after studies. Accreditation (e.g., DETC) is mandatory.
-
-**问：How can foreign dietitians obtain French practice rights?**
-答：They must obtain French national dietitian diploma (DETC) recognition, apply for qualification equivalence (reconnaissance des qualifications), and possibly take additional courses or exams.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

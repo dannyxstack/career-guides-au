@@ -1,59 +1,95 @@
-# Ambulance Worker（Ambulance Worker）职业分析 · IE
+# Ambulance Worker — career analysis · Ireland
 
-**职业代码：3258 – Ambulance Worker。**
+**Occupation code: 3258 (ISCO08)**
 
-Ambulance workers provide pre-hospital emergency medical care, including first aid, patient stabilization, and transport to medical facilities, playing a critical role in emergency medical services.
+Ambulance officers provide pre-hospital medical care in emergencies, including first aid, patient stabilization, and transport to medical facilities, and are a key part of emergency medical services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级证书/文凭 | 1-2年 | $5,000~$12,000（私立培训机构费用） |
-| 学士学位（急救医学） | 3-4年（本科） | $10,000~$20,000（大学学费，欧盟学生较低） |
+| Advanced Certificate/Diploma | 1-2 years | $5,000~$12,000 (Private training institution fees) |
+| Bachelor's degree in emergency medicine. | 3-4 years (Bachelor's degree) | $10,000~$20,000 (University tuition fees, lower for EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PHECC急救人员注册 | 爱尔兰急救服务委员会 (PHECC) | 必备 | 所有救护人员必须在PHECC注册 |
-| 急救技术员证书 | 国家急救服务培训中心或认可机构 | 可选 | 基础资格，常见于职业培训 |
-| 高级急救护理文凭 | 爱尔兰大学或理工学院 | 可选 | 可晋升至高级急救人员 |
+| PHECC First Responder Registration | Pre-Hospital Emergency Care Council (PHECC) | Required | All ambulance personnel must be registered with PHECC |
+| Emergency Medical Technician Certificate | National emergency services training centre or approved organisation | Optional | Basic qualification, commonly found in vocational training |
+| Advanced Diploma of Paramedical Science | Irish universities or institutes of technology | Optional | Can be promoted to senior emergency responder |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。爱尔兰对救护人员的需求稳定，受老龄化人口和紧急医疗需求增长驱动，预计未来十年就业机会保持良好，特别是在乡村地区。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Demand for ambulance personnel in Ireland is stable, driven by an aging population and growing emergency medical needs. Job opportunities are expected to remain favorable over the next decade, particularly in rural areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 按HSE薪资标准，含加班 |
-| 中级（3-7年） | $38,000~$48,000 | 经验增长后薪资提升 |
-| 高级（7年以上或高级急救人员） | $48,000~$60,000 | 高级急救或管理岗位 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | According to HSE salary standards, including overtime |
+| Mid-level (3–7 years) | $38,000~$48,000 | Salary increases with experience |
+| Advanced (7+ years or senior first aider) | $48,000~$60,000 | Senior first aid or management roles |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径包括从救护技术员晋升为高级急救人员（如急救护理人员），或转入管理、教育培训岗位，也可进一步深造成为护理人员或医生。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Career progression includes advancing from ambulance technician to senior first responder (e.g., paramedic), transitioning into management or education/training roles, or further studying to become a nurse or doctor.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - Emergency medical services
 - Aging population demand
@@ -62,68 +98,67 @@ Ambulance workers provide pre-hospital emergency medical care, including first a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，救护人员符合资格，可快速获得居留权 |
-| Subclass General Employment P（General Employment Permit） | 适用于普通就业，需劳动力市场测试，配额有限 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育背景和较高薪资，救护人员通常不适用 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, paramedics who meet the requirements can obtain residency quickly. |
+| Subclass General Employment P (General Employment Permit) | Applicable to general employment, requires labor market testing, limited quota |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education background and higher salary; paramedics generally not applicable |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ambulance Worker？**
-- 能够在高压环境下冷静工作的人
-- 对医疗和急救有热情，愿意轮班工作
-- 具备良好体力和团队协作能力
-
-**谁不适合学Ambulance Worker？**
-- 无法承受长时间站立和体力消耗者
-- 对血液和紧急创伤场景感到不适者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who can work calmly under high-pressure environments
+- Passionate about medical care and emergency response, willing to work shifts
+- Good physical fitness and teamwork skills.
+
+**Who is not suited**
+- Unable to tolerate prolonged standing and physical exertion
+- Those uncomfortable with blood and trauma scenes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for ambulance personnel in Ireland?**
+A: Junior approx. €30,000-38,000, mid-level €38,000-48,000, senior up to €60,000, depending on experience and region.
+
+**Q: What are the pathways for ambulance personnel to immigrate to Ireland?**
+A: Eligible for Critical Skills Employment Permit; the occupation is on the shortage list, no labor market test required. Also eligible for General Employment Permit, but employer must prove inability to find local staff.
+
+**Q: How can ambulance officers progress to become advanced paramedics?**
+A: Typically requires obtaining a PHECC-recognized Advanced Paramedic Care diploma (usually 1-2 years), passing relevant exams and clinical internships, after which one can apply for advanced positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Ambulance Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for ambulance workers in Ireland?**
-答：Entry-level ranges from €30,000 to €38,000, mid-level €38,000 to €48,000, and senior up to €60,000, depending on experience and location.
-
-**问：What are the migration pathways for ambulance workers to Ireland?**
-答：You can apply via the Critical Skills Employment Permit, as the occupation is on the shortage list without labor market test; alternatively, via General Employment Permit requiring employer proof of no local candidate.
-
-**问：How can an ambulance worker advance to a paramedic role?**
-答：Typically requires completing a PHECC-recognized Advanced Paramedic Diploma (1-2 years), passing exams and clinical placements, then applying for senior positions.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

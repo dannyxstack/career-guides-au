@@ -1,60 +1,96 @@
-# Technical Tailor, Sailmaker（Technical Tailor, Sailmaker）职业分析 · DE
+# Technical Tailor, Sailmaker — career analysis · Germany
 
-**职业代码：2823 – Technical Tailor, Sailmaker。**
+**Occupation code: 2823 (KldB)**
 
-Technical tailors and sailmakers design, cut, and sew technical textiles such as sails, tents, and industrial covers. They operate specialized sewing equipment to ensure products meet strength and durability standards.
+Technical sailmakers and canvas fabricators design, cut, and sew technical textiles such as sails, tents, and industrial covers. They operate specialized sewing equipment to ensure products meet strength and durability requirements.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（培训期间有津贴） |
-| 专业进修 | 1-2年 | $1,000~$5,000（如技术纺织品技师） |
+| Dual system training | 3 years | $0~$500 (Allowance during training) |
+| Professional Development | 1-2 years | $1,000~$5,000 (Such as technical textile technician) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制结业证书 | 德国工商会（IHK） | 必备 | 完成3年技工培训并通过考试 |
-| 海外资质认证 | 德国联邦职业教育与培训认证机构 | 必备 | 非欧盟学历需经Anerkennung认证 |
+| Dual system certificate | German Chamber of Commerce and Industry (IHK) | Required | Completed 3-year trade training and passed the exam |
+| Overseas qualification recognition | German Federal Institute for Vocational Education and Training | Required | Non-EU qualifications require Anerkennung recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。德国对技术缝纫师的需求稳定，尤其在船舶制造、户外用品和工业纺织品领域。由于手工技能难以替代，熟练技工就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Germany's demand for technical sewing machine operators is stable, especially in shipbuilding, outdoor products, and industrial textiles. Due to the difficulty of replacing manual skills, skilled workers have good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，视地区和企业规模 |
-| 中级（4-7年） | $32,000~$40,000 | 含加班和绩效 |
-| 高级（8年以上） | $40,000~$50,000 | 包含管理职责或特殊技能 |
+| Median salary | $35,160 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual salary before tax, depending on region and company size |
+| Mid-level (4-7 years) | $32,000~$40,000 | Including overtime and performance bonuses |
+| Senior (8+ years) | $40,000~$50,000 | Includes management duties or special skills |
+| average salary | $40,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可向高级技工、工长或车间主管晋升，也可通过进修成为技术纺织品设计师或质量检验员。部分经验者自主创业。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Technical seamstresses/sail makers are moderately affected by AI and automation: routine cutting and sewing tasks can be automated, but custom design, complex material handling, and structural evaluation tasks relying on human experience remain advantageous, requiring improved AI collaboration skills to stay competitive.
+
+Career progression can lead to senior technician, foreman, or workshop supervisor; or become a technical textile designer or quality inspector through further study. Some experienced workers start their own businesses.
+
+**Tasks most exposed to AI:**
+
+- Automated cutting and sewing of standard sails and tents using computer vision and robotics
+- AI automatically generates basic textile bill of materials and layout optimization plans.
+- Using AI-driven equipment for repetitive sewing tasks, such as straight stitching
+- AI automatically adjusts sewing parameters (e.g., tension, speed) based on historical data
+- AI quality inspection system automatically detects common defects (skipped stitches, uneven stitching)
+
+**Where AI augments the role:**
+
+- AI-assisted design software can quickly generate 3D sail models based on customer requirements and predict performance
+- Use AI to simulate and analyze the strength and durability of textiles under extreme weather conditions
+- AI tools optimize panel layout for complex curved sails to minimize waste
+- AI-driven wearable devices provide real-time feedback on sewing precision
+- AI-based supply chain forecasting enables precise procurement of high-performance fabrics
+
+**Human moat:**
+
+- Handling custom cutting and sewing for non-standard, high-value, or non-standard textiles.
+- Stress analysis and innovative structural design for ship and industrial scenarios
+- Communicate deeply with customers to understand the actual usage environment and adjust processes
+- Restoring and maintaining traditional or specialty sails by hand
+- Integration and testing of novel smart textiles (e.g., photovoltaic canvas)
+
+**Skills to build:**
+
+- Proficient in CAD (e.g. Optitex, Lectra) for sail design
+- Learn Python or low-code tools to automate sewing parameters
+- Understand basic AI principles and be able to use AI simulation software (e.g., Ansys)
+- Develop project management and client communication skills to lead custom projects
+- Learn characteristics and testing methods of smart textiles
+- Master data analysis skills for production optimization and quality prediction
+
+**Key growth areas:**
 
 - Textile Manufacturing
 - Sailmaking
@@ -63,69 +99,68 @@ Technical tailors and sailmakers design, cut, and sew technical textiles such as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国雇主合同，职业资格经认证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许找工作和试工 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月有效期，需证明经济能力，可寻找工作 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Need a job contract with a German employer and certified professional qualifications. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system that allows job seeking and trial work |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month validity, need to prove financial capacity, can seek employment |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Tailor, Sailmaker？**
-- 注重细节，手工精细的人
-- 喜欢动手制作和创造实用物品的人
-- 愿意接受双元制培训并从事技术纺织品工作
-
-**谁不适合学Technical Tailor, Sailmaker？**
-- 不喜欢重复性手工工作的人
-- 希望快速获得高薪的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are detail-oriented and have a steady hand
+- People who enjoy hands-on making and creating practical objects
+- Willing to participate in dual training and work in technical textiles
+
+**Who is not suited**
+- People who dislike repetitive manual work
+- Those hoping to quickly secure a high salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a technical seamstress?**
+A: Junior level around EUR 25,000-32,000 per year, increasing with experience to EUR 50,000 per year, but overall income is relatively low to moderate in Germany.
+
+**Q: How can foreign technical seamstresses immigrate to Germany?**
+A: Usually need to first obtain qualification recognition (Anerkennung), then secure a German employer contract to apply for a skilled worker visa or opportunity card. Non-shortage occupation, requires German B1 or above.
+
+**Q: Is German professional qualification recognition required?**
+A: Yes, non-EU qualifications require credential recognition from Germany's Federal Institute for Vocational Education and Training, a process taking about 3-6 months.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Technical Tailor, Sailmaker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for technical tailors?**
-答：Entry-level around €25,000-€32,000/year, up to €50,000/year with experience, but generally moderate to low in Germany.
-
-**问：How can foreign technical tailors immigrate to Germany?**
-答：Usually requires qualification recognition (Anerkennung), a job offer, and then a skilled worker visa or opportunity card. German B1 level needed.
-
-**问：Is a German qualification recognition required?**
-答：Yes, non-EU qualifications need recognition through the German federal recognition body, taking about 3-6 months.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

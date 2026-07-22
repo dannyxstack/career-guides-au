@@ -1,61 +1,97 @@
-# Concreter（Concreter）职业分析 · 新西兰
+# Concreter — career analysis · New Zealand
 
-**职业代码：821211 – Concreter。**
+**Occupation code: 821211 (ANZSCO)**
 
-Concreters are in long-term shortage in NZ, eligible for Green List direct residence, with stable demand from residential and infrastructure projects.
+Concrete workers are in long-term shortage in New Zealand and can use the Green List direct residence pathway, with stable demand in residential and infrastructure projects.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（BCITO学徒期间雇主资助大部分费用） |
-| 预培训课程 | 6个月 | $3,000~$8,000（私立培训机构提供，含基础技能） |
+| Apprenticeship | 3-4 years | $0~$9,000 (During BCITO apprenticeship, the employer funds most costs) |
+| Pre-training course | 6 months. | $3,000~$8,000 (Provided by private training institutions, includes basic skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰混凝土证书（NZ Certificate in Concrete） | BCITO | 可选 | 行业标准资格，非强制但雇主优先 |
-| 工地安全卡（Site Safe Passport） | Site Safe | 必备 | 多数工地要求 |
-| 驾照（至少Class 1） | NZTA | 可选 | 多数工作需要驾驶公司车辆 |
+| Site Safe Passport | Site Safe | Required | Required by most job sites |
+| New Zealand Certificate in Concrete | BCITO | Optional | Industry standard qualification, not mandatory but preferred by employers |
+| Driver's license (at least Class 1) | NZTA | Optional | Most jobs require driving a company vehicle. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 9,500。新西兰住宅建设及政府基础设施投资持续增长，混凝土工长期供不应求，预计未来5年岗位增长稳健。
+**Job demand: very high (★★★★½).** National workforce approx. 9,500. Residential construction and government infrastructure investment in New Zealand continue to grow; concreters are in chronic short supply, with steady job growth expected over the next 5 years.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$58,000 | 时薪约23-28纽元 |
-| 中级（3-6年） | $58,000~$75,000 | 时薪约28-36纽元 |
-| 高级（6年以上/工头） | $75,000~$95,000 | 时薪约36-46纽元，加班另计 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$58,000 | Hourly wage approx NZD 23-28 |
+| Mid-level (3–6 years) | $58,000~$75,000 | Hourly wage about NZ$28-36 |
+| Senior (6+ years/foreman). | $75,000~$95,000 | Hourly rate approximately NZD 36-46, overtime extra |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从普通混凝土工可晋升为工头、现场监督或自雇承包商，部分积累经验后转向预制混凝土技术岗位。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Concrete workers face a mixed impact from AI/automation: repetitive measuring and mixing work will be replaced by machines, but on-site fine work and client communication are enhanced by AI tools; entry barriers lower, but senior tradespeople increase in value.
+
+Concrete workers can advance to foreman, site supervisor, or self-employed contractor; some transition to precast concrete technician roles with experience.
+
+**Tasks most exposed to AI:**
+
+- Concrete mix design calculation and adjustment, AI can optimize and automatically adjust batching machines
+- Ground flatness detection; AI vision system monitors and provides real-time feedback
+- Template dimension measurement, laser scanning + AI automatic verification
+- Pouring Progress Recording, AI Automatically Generates Construction Logs
+- Simple leveling work, automated plastering robot arm
+
+**Where AI augments the role:**
+
+- Complex formwork design: AI generates optimized plans and guides assembly.
+- Monitoring of curing conditions, IoT+AI to predict optimal curing plans
+- On-site safety management: AI identifies hazardous areas and provides warnings
+- Customer communication, AI quickly generates visual construction plans
+- Skill training with AR+AI providing virtual practical guidance
+
+**Human moat:**
+
+- Flexible handling of on-site unexpected issues (e.g., crack repair)
+- Tactile and experiential judgment of concrete materials
+- Fine finishing techniques (decorative concrete)
+- Collaborative communication with architects/structural engineers
+- Operational decision-making in extreme weather
+
+**Skills to build:**
+
+- Digital measurement tools (3D scanners, total stations)
+- Basic CAD/Revit reading and modification
+- Concrete mix optimization software (e.g., ConcretePro)
+- Smart equipment operation (automatic concrete distributor, laser screed)
+- Basic data analysis skills (maintenance record analysis)
+- Basic drone inspection operation
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,69 +100,68 @@ Concreters are in long-term shortage in NZ, eligible for Green List direct resid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 混凝土工在绿色名单一级，满足时薪中位数（2024年29.66纽元）可直接申请居民签证。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 持有技能工作邀请可申请认证雇主工签，工作满2年后可转居留。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，注册职业加学历或经验可累计分数，满足要求可申请。 |
+| Subclass Green List T1 (Straight to Residence) | Concreters are on the Green List Tier 1; meeting the median hourly wage (NZ$29.66 in 2024) allows direct application for residence visa. |
+| Subclass AEWV (Accredited Employer Work Visa) | A skilled job offer allows application for an Accredited Employer Work Visa, with residency possible after 2 years of work. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation plus education or experience can accumulate points to meet requirements for application. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Concreter？**
-- 体力好、能吃苦耐劳者
-- 喜欢户外工作、动手能力强的人
-- 寻求快速移民路径的技工
-
-**谁不适合学Concreter？**
-- 不喜体力劳动或天气变化者
-- 追求办公室或低强度工作的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong and hardworking individuals
+- People who enjoy outdoor work and are hands-on
+- Tradespeople seeking fast-track immigration
+
+**Who is not suited**
+- Not suitable for those who dislike manual labor or weather changes
+- People seeking office or low-intensity work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average hourly wage for a concrete worker in New Zealand?**
+A: According to Careers NZ, experienced concretors earn about NZD 28-36 per hour, while starting wages range from NZD 23-28.
+
+**Q: How can concrete workers immigrate through the Green List?**
+A: Concreters are on the Green List Tier 1: with a job from an accredited employer and a salary reaching the median wage (NZD 29.66/hour in 2024), can directly apply for a resident visa.
+
+**Q: What certifications are needed to work as a concreter in New Zealand?**
+A: Usually no mandatory registration required, but holding a BCITO concrete certificate and Site Safe safety card is more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Concreter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for concreters in NZ?**
-答：According to Careers NZ, experienced concreters earn NZD 28-36 per hour, starting at NZD 23-28.
-
-**问：How can concreters migrate via the Green List?**
-答：Concreters are on Green List Tier 1; with an accredited employer job offer and median wage (NZD 29.66/hr in 2024), they can apply for Straight to Residence.
-
-**问：What certifications are required for concreters in NZ?**
-答：No mandatory registration, but BCITO concrete qualification and Site Safe pass are highly recommended.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

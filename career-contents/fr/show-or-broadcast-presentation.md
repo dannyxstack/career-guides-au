@@ -1,59 +1,95 @@
-# Show or Broadcast Presentation（Show or Broadcast Presentation）职业分析 · FR
+# Show or Broadcast Presentation — career analysis · France
 
-**职业代码：L1103 – Show or Broadcast Presentation。**
+**Occupation code: L1103 (ROME)**
 
-Responsible for hosting, introducing shows or broadcasts on TV, radio, stage, or digital platforms, ensuring smooth flow and audience engagement.
+Responsible for hosting and introducing performances or programs on television, radio, stage, or online platforms, ensuring smooth program flow and attracting audiences.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 1-2年（如CFP） | $3,000~$10,000（私立传媒学校或学徒制） |
-| 本科 | 3年（Licence） | $200~$8,000（公立大学费用低，私立高） |
-| 硕士 | 2年（Master） | $300~$12,000（传媒或艺术类硕士） |
+| High school graduation + professional training | 1-2 years (e.g., CFP) | $3,000~$10,000 (Private media schools or apprenticeships) |
+| Bachelor's degree | 3 years (Licence) | $200~$8,000 (Public universities have low fees, private ones are expensive) |
+| Master's degree | 2 years (Master) | $300~$12,000 (Master's degree in Media or Arts) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 语言能力证书 | 法国文化部或认可机构 | 可选 | 非强制但推荐，提升竞争力 |
-| 传媒或表演艺术文凭 | 公立大学或私立院校 | 可选 | 雇主看重相关学历或培训 |
+| Language proficiency certificate | The French Ministry of Culture or an accrediting institution | Optional | Not mandatory but recommended, enhancing competitiveness |
+| Diploma in Media or Performing Arts | Public universities or private institutions | Optional | Employers value relevant academic qualifications or training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国数字媒体发展带动对节目主持人的需求，但竞争激烈。传统广电岗位增长缓慢，自由职业与网络平台机会增多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The development of digital media in France has driven demand for program hosts, but competition is fierce. Traditional broadcasting positions are growing slowly, while freelancership and online platform opportunities are increasing.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 税前年薪，自由职业者收入不稳定 |
-| 中级（3-7年） | $30,000~$45,000 | 固定岗位或知名度提升后 |
-| 高级（7年以上） | $45,000~$80,000 | 知名主持人或大型节目 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$30,000 | Pre-tax annual salary, freelancer income is unstable |
+| Mid-level (3–7 years) | $30,000~$45,000 | After a fixed position or increased visibility |
+| Senior (7+ years) | $45,000~$80,000 | Well-known hosts or major programs |
+| average salary | $40,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从地方媒体或小型活动起步，逐步晋升至国家级广电或大型演出主持。也可转型为制片人或内容创作者。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core impromptu interaction and on-the-spot adaptability of hosts are hard to replace, but AI can already take over script narration, information broadcasting, and other stylized content, reducing the demand for purely on-site roles; At the same time, AI-assisted tools can enhance dialogue preparation, multilingual services, and personalized opening designs. In the future, collaboration with AI will be needed, with a greater emphasis on emotional connection and on-site control.
+
+You can start with local media or small events, and gradually advance to national-level broadcasting or large-scale performance hosting. You can also transition into a producer or content creator.
+
+**Tasks most exposed to AI:**
+
+- Program flow broadcasts and information broadcasts (such as sponsor lists, weather, and time reminders)
+- Reading of standardized interview outlines and simple questions
+- Multilingual basic translation and subtitle-style hosting
+- Automatically generates templated content such as opening remarks and closing remarks
+- Hosting remotely or off-site using AI-generated alternative voices
+
+**Where AI augments the role:**
+
+- Use AI to analyze audience emotions and feedback in real time, dynamically adjusting host tone and interaction strategies
+- Quickly generate personalized scripts, puns, and trending memes with NLP to enhance humor
+- Use AI translation headphones or subtitle tools to enable multilingual hosting and broaden the international stage
+- AI automatically edited hosting highlights and highlights to enhance social media influence
+- AI-assisted teleprompter combined with virtual scenes enhances live performance and immersion
+
+**Human moat:**
+
+- On-site improvisation capability (handling emergencies, cold scenes, technical failures)
+- Genuine emotional resonance and personal charisma (the audience's essential need for human emotional connection)
+- In-depth interviews and sharp questions (the ability to uncover the stories behind the guests)
+- Rhythm control and on-site leadership for large-scale events (coordination of direction, lighting, sound, etc.)
+- Nonverbal communication (body language, eye contact, controlling presence)
+
+**Skills to build:**
+
+- Learn to use AI teleprompters and real-time subtitle generation tools
+- Master basic data analysis and audience sentiment recognition tools
+- Proficient in AI-assisted copywriting (such as ChatGPT writing transitions and memes)
+- Learn multilingual AI translation tools to assist international hosts
+- Strengthen your improvisation and scriptwriting skills
+- Learn about virtual production and AR/VR hosting scenario technologies
+
+**Key growth areas:**
 
 - Digital Media
 - Freelance
@@ -62,65 +98,64 @@ Responsible for hosting, introducing shows or broadcasts on TV, radio, stage, or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于在文化艺术领域有突出成就或项目的主持人，需提供作品集与邀请函。 |
-| Subclass Salarié（Employee (Salaried)） | 受法国公司雇佣且薪资达1.5倍SMIC可申请，需雇主提供工作许可。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪岗位（年薪≥53,000€），主持领域较少见，但可尝试。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for hosts with outstanding achievements or projects in the cultural and artistic fields, and must provide a portfolio and invitation letter. |
+| Subclass Salarié (Employee (Salaried)) | Employed by a French company with salary at 1.5x SMIC to be eligible, requires employer to provide work permit. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary ≥ €53,000), less common in hosting fields but worth trying. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Show or Broadcast Presentation？**
-- 具有良好的语言表达能力和舞台魅力
-- 适应灵活工作时间，能应对直播压力
-- 对传媒行业有热情并愿意积累人脉
-
-**谁不适合学Show or Broadcast Presentation？**
-- 性格内向，不喜公开演讲
-- 无法接受不稳定的自由职业收入
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess strong language communication skills and stage presence
+- Adapt to flexible working hours and handle the pressure of live streaming
+- Passionate about the media industry and willing to build connections
+
+**Who is not suited**
+- Introverted personality, dislikes public speaking
+- Unstable freelance income is unacceptable
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a program host?**
+A: Pre-tax annual salary: junior approx EUR 20,000-30,000, intermediate EUR 30,000-45,000, senior EUR 45,000-80,000. Freelancers have fluctuating income; well-known hosts can earn more.
+
+**Q: How can foreigners obtain a work visa for French program hosts?**
+A: The common path is Passeport Talent, which requires proof of artistic achievement; Or apply for a Salarié work visa through a French company; High-paying earners can try the EU Blue Card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Show or Broadcast Presentation的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for show hosts?**
-答：Annual gross salary ranges from €20,000-30,000 for entry-level, €30,000-45,000 for mid-level, and €45,000-80,000 for senior. Freelancers may have variable income.
-
-**问：How can foreigners get a work visa as a show host in France?**
-答：Common routes: Talent Passport for artistic achievements; Salarié visa if employed by French company; EU Blue Card for high salary.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

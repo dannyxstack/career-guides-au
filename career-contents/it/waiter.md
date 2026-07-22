@@ -1,60 +1,93 @@
-# Waiter（Waiter）职业分析 · IT
+# Waiter — career analysis · Italy
 
-**职业代码：5131 – Waiter。**
+**Occupation code: 5131 (ISCO08)**
 
-Serves customers by taking orders, serving food and beverages, and ensuring a pleasant dining experience in restaurants, bars, and cafes across Italy.
+Serve customers by taking orders, serving food, and providing reception in Italian restaurants, bars, cafes, etc., a key role in the tourism and hospitality industry.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 12年（高中） | —（公立学校免费） |
-| 职业培训 | 1-2年 | $1,000~$5,000（私立旅游或餐饮学校） |
+| High school diploma | 12 years (high school). | $0~$0 (Free public schools.) |
+| Vocational training | 1-2 years | $1,000~$5,000 (Private tourism or hospitality schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 意大利服务员无法律强制要求证书，但雇主常偏好相关经验或培训 |
-| 食品安全培训 | 地方卫生局 | 可选 | 部分地区要求食品处理人员参加HACCP培训 |
+| No mandatory certificate | None | Optional | Italian waiters are not legally required to have a certificate, but employers often prefer relevant experience or training |
+| Food safety training | Local Health District | Optional | Some regions require food handlers to undergo HACCP training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350,000。意大利旅游业持续复苏，餐饮业用工需求旺盛，但受季节性波动影响大，南部和旅游城市机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 350,000. Italy's tourism industry continues to recover, with strong demand for labor in the hospitality sector, but it is heavily affected by seasonal fluctuations, with more opportunities in the south and tourist cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 包含小费，南部低于北部 |
-| 中级（3-7年） | $20,000~$25,000 | 含小费，旅游旺季增收 |
-| 高级（7年以上） | $25,000~$32,000 | 领班或高端餐厅，含小费 |
+| Median salary | $22,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$20,000 | Includes tips, lower in the south than in the north |
+| Mid-level (3–7 years) | $20,000~$25,000 | Includes tips, with increased income during peak tourist seasons. |
+| Senior (7+ years) | $25,000~$32,000 | Head chef or high-end restaurant, including tips |
+| average salary | $23,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级服务员晋升为高级服务员、领班或餐厅经理，部分人通过进修转向酒店管理或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The waiter role in Italy faces automation pressure: repetitive tasks like ordering, payment, and queue management will be replaced by AI and self-service terminals, but the need for personalized service and complex communication remains.
+
+Can progress from entry-level server to senior server, head waiter, or restaurant manager; some transition to hotel management or start their own business through further study.
+
+**Tasks most exposed to AI:**
+
+- Routine ordering and checkout (using self-service kiosks and mobile payments)
+- Queue management and booking arrangements (via AI booking system)
+- Menu introduction and recommendation (AI recommendation based on user data analysis)
+- Simple customer complaint handling (initial screening by chatbots).
+
+**Where AI augments the role:**
+
+- Personalized customer service and advice (AI-assisted analysis of customer preferences)
+- Real-time multilingual translation communication (AI translation tool)
+- Inventory management and supply chain optimization (AI demand forecasting)
+- Customer Relationship Management and Loyalty Programs (AI-driven CRM Systems)
+
+**Human moat:**
+
+- Complex emotional interaction and empathy (handling drunk customers or special requests)
+- Ability to handle emergencies (e.g., food allergies, medical emergencies).
+- Teamwork and on-site coordination (supporting kitchen and front-of-house during peak periods)
+- Atmosphere creation and personalized service (remembering regular customers' preferences, creating experiences)
+
+**Skills to build:**
+
+- Learning to use self-service ordering systems and POS software
+- Master AI-driven customer data analysis tools
+- Enhances multilingual communication skills (especially English).
+- Learn basic restaurant finance and inventory management
+- Develop leadership and team management skills
+- Proficiency in social media and online reputation management
+
+**Key growth areas:**
 
 - Tourism recovery
 - Seasonal demand
@@ -63,69 +96,68 @@ Serves customers by taking orders, serving food and beverages, and ensuring a pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 意大利年度配额工作签证，适用于非欧盟季节性或长期劳工，需雇主担保，每年限额竞争大。 |
-| Subclass 欧盟蓝卡（EU Blue Card） | 需高等教育及高薪，服务员通常不满足薪资要求，极少适用。 |
-| Subclass 自由职业者签证（Freelance Visa (Lavoro Autonomo)） | 适用于自雇服务员或餐饮业主，需证明高收入及合法住所。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Italian annual quota work visa for non-EU seasonal or long-term workers, requires employer sponsorship, and faces high competition due to limited annual quotas. |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary; waiters usually don't meet salary requirements, rarely applicable. |
+| Subclass Freelance Visa (Freelance Visa (Lavoro Autonomo)) | Applicable to self-employed waiters or restaurant owners, requiring proof of high income and legal residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Waiter？**
-- 喜欢与人交流，服务意识强
-- 能适应灵活排班及高强度工作节奏
-- 对餐饮行业有热情，愿意从基层做起
-
-**谁不适合学Waiter？**
-- 不擅长体力劳动或长时间站立
-- 缺乏耐心，无法应对高峰压力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys communicating with people and has a strong sense of service
+- Able to adapt to flexible scheduling and high-intensity work pace
+- Passionate about the catering industry, willing to start from the basics
+
+**Who is not suited**
+- Not suited for physical labor or prolonged standing
+- Lack of patience, unable to handle peak pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of waiters in Italy?**
+A: Pre-tax annual salary around €16,000-€32,000; tips make up a significant portion of income, higher in tourist cities and upscale restaurants
+
+**Q: How can non-EU citizens work as waiters in Italy?**
+A: Mainly applied for through the Decreto Flussi quota work visa, requiring employer sponsorship, with limited annual slots and fierce competition.
+
+**Q: Is there career progression for waitstaff?**
+A: Yes, can advance to head waiter, restaurant manager, or transition into hotel management, tourism, or even start a business through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Waiter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for waiters in Italy?**
-答：Pre-tax annual salary ranges from €16,000 to €32,000, with tips forming a significant part; higher in tourist cities and upscale restaurants.
-
-**问：How can non-EU citizens work as a waiter in Italy?**
-答：Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship, with limited annual quotas and high competition.
-
-**问：Is there career progression for waiters?**
-答：Yes, opportunities include promotion to head waiter, restaurant manager, or transitioning to hospitality management, tourism, or entrepreneurship.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

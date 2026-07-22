@@ -1,61 +1,97 @@
-# Strata Manager（Strata Manager）职业分析 · 新西兰
+# Strata Manager — career analysis · New Zealand
 
-**职业代码：612115 – Strata Manager。**
+**Occupation code: 612115 (ANZSCO)**
 
-Manage the body corporate of apartment and mixed-use buildings, including organizing meetings, collecting levies, and arranging maintenance and insurance. This occupation is not on New Zealand's skill shortage list; immigration is primarily through Accredited Employer Work Visa (AEWV) with low feasibility.
+Manage the owners' corporation of apartments and complexes, including holding meetings, collecting common funds, arranging repairs and insurance. This occupation is not on New Zealand's skill shortage list, mainly accessed through the Accredited Employer Work Visa (AEWV) route, with low immigration feasibility.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（如商科或物业相关） | 3年 | $30,000~$45,000（新西兰大学，国际生学费） |
-| 物业经理证书或文凭 | 1年 | $5,000~$15,000（理工院校或在线课程） |
+| Bachelor's degree (e.g., business or property related) | 3 years | $30,000~$45,000 (New Zealand universities, international student tuition) |
+| Property Manager Certificate or Diploma | 1 year | $5,000~$15,000 (Polytechnic or online courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰物业协会（PINZ）会员资格 | Property Institute of New Zealand | 可选 | 推荐获得，可提升职业认可度 |
-| 物业经理注册（部分地区） | 地方议会 | 可选 | 部分城市要求注册，非全国强制 |
-| 雅思平均7分（移民要求） | IELTS | 可选 | 技术移民或工签要求 |
+| Property Institute of New Zealand (PINZ) membership | Property Institute of New Zealand | Optional | Recommended to obtain, can enhance professional recognition |
+| Property manager registration (some regions) | Local council | Optional | Registration required in some cities, not mandatory nationwide |
+| Overall IELTS score of 7 (for immigration) | IELTS | Optional | Skilled migration or work visa requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 800。随着新西兰公寓和综合住宅项目的增加，业主立案法团经理的需求逐渐上升，但职位总数仍有限。就业前景一般，主要集中在大城市如奥克兰和惠灵顿。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. With the increase in apartment and integrated housing projects in New Zealand, demand for body corporate managers is gradually rising, but total positions remain limited. Employment prospects are average, mainly concentrated in major cities like Auckland and Wellington.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 助理或初级经理 |
-| 中级（3-7年） | $65,000~$80,000 | 独立管理多个楼盘 |
-| 高级（7年以上） | $85,000~$110,000 | 区域经理或团队负责人 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$60,000 | Assistant or junior manager |
+| Mid-level (3–7 years) | $65,000~$80,000 | Independently manage multiple property developments |
+| Senior (7+ years) | $85,000~$110,000 | Regional manager or team leader |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级经理可从行政或助理岗位起步，积累经验后晋升为高级经理或区域经理，部分转向物业管理或房地产开发领域。持有相关认证（如新西兰物业协会证书）有助于职业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance document processing and compliance monitoring, but statutory decisions, interpersonal coordination, and legal responsibilities cannot be automated; total positions may remain stable, but low-level administrative roles could be compressed.
+
+Junior managers can start in administrative or assistant roles, then advance to senior manager or regional manager after gaining experience, or transition into property management or real estate development. Relevant certifications (e.g., New Zealand Property Institute certificate) can aid career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate meeting minutes, financial reports, and compliance checklists
+- Automate property fee reminders, generate overdue notices and reports
+- AI reviews repair quotes and matches historical average prices and market prices
+- Automatically send insurance renewal reminders and generate policy summaries
+- AI Chatbot Responses to Common Owner Questions (e.g., Trash Disposal Times)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of financial data and early warning of budget deviations to enhance financial planning
+- Intelligent search for regulatory cases, quickly respond to owner inquiries and compliance disputes
+- Real-time dashboard monitoring maintenance progress and expenses for multiple properties
+- AI generates personalized homeowner meeting briefs to improve communication efficiency
+- Predicting insurance premium changes based on historical data to optimize coverage plans
+
+**Human moat:**
+
+- Property dispute mediation and complex owner relationship management
+- Make legally liable judgments based on regulations such as the Strata Titles Act
+- Long-term strategic planning (e.g., allocation of major repair funds)
+- On-site inspection and repair quality acceptance (requires physical presence)
+- Emergency crisis handling (e.g. fire, burst pipe)
+
+**Skills to build:**
+
+- Master mainstream property management software (such as StrataMax, M3)
+- Learn data analytics basics (advanced Excel + SQL)
+- Study your state's strata property law and compliance requirements
+- Communication and conflict mediation certification courses
+- Project Management Certification (e.g., PMP)
+- Understanding AI tools (e.g., ChatGPT for document processing)
+
+**Key growth areas:**
 
 - AEWV
 - Moderate Demand
@@ -64,65 +100,67 @@ Manage the body corporate of apartment and mixed-use buildings, including organi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需找到新西兰认证雇主，工作满3年可申请居留，但非直接移民路径。 |
-| Subclass SMC（Skilled Migrant Category） | 若职位被评估为技术等级，可通过6分制申请，但通常需要雇主支持和高薪。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must find a New Zealand accredited employer, work for 3 years to apply for residency, but not a direct migration pathway. |
+| Subclass SMC (Skilled Migrant Category) | If the position is assessed as skilled, can apply via the six-point system, but usually requires employer support and high salary. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Strata Manager？**
-- 具备沟通和组织能力，善于处理多任务
-- 对物业管理法规有一定兴趣
-- 能接受经常出席晚间或周末的业主会议
+**Who is suited**
+- Possess communication and organizational skills, good at multitasking
+- Some interest in property management regulations
+- Able to attend frequent evening or weekend homeowner meetings
 
-**谁不适合学Strata Manager？**
-- 不擅长人际冲突调解
-- 寻求快速直接移民路径的人
+**Who is not suited**
+- Not good at mediating interpersonal conflicts
+- Those seeking a fast direct immigration pathway
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a Body Corporate Manager in New Zealand?**
+A: Entry-level managers earn about NZD 50,000-60,000/year, mid-level 65,000-80,000, senior up to 110,000.
+
+**Q: Can an owners corporation manager immigrate to New Zealand via skilled migration?**
+A: Low likelihood. This occupation is not on the Green List or shortage list; mainly relies on AEWV work visa, requiring employer sponsorship and 3 years of work before residence assessment.
+
+**Q: What qualifications are needed to become an owners corporation manager?**
+A: Usually requires relevant qualifications (e.g., business) or a property manager certificate; joining the Property Institute of New Zealand (PINZ) helps with employment. Some regions may require registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Strata Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Strata Manager in New Zealand?**
-答：Entry-level managers earn around NZD 50,000-60,000; mid-level NZD 65,000-80,000; senior up to NZD 110,000.
-
-**问：Can a Strata Manager immigrate to New Zealand through skilled migration?**
-答：Unlikely. The occupation is not on the Green List or shortage lists; the main pathway is the AEWV, requiring employer sponsorship and review after 3 years.
-
-**问：What qualifications are needed to become a Strata Manager?**
-答：Typically a relevant degree (e.g. business) or property management certificate. Membership in the Property Institute of New Zealand (PINZ) is beneficial. Some regions may require registration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

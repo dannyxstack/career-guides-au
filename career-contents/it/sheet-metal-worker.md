@@ -1,58 +1,94 @@
-# Sheet Metal Worker（Sheet Metal Worker）职业分析 · IT
+# Sheet Metal Worker — career analysis · Italy
 
-**职业代码：7213 – Sheet Metal Worker。**
+**Occupation code: 7213 (ISCO08)**
 
-Sheet metal workers fabricate, install, and maintain metal sheet products such as HVAC ducts, roofing, and industrial equipment. In Italy, demand is stable in construction and manufacturing.
+Sheet metal workers are responsible for manufacturing, installing, and maintaining metal sheet products such as HVAC ducts, roofing, and industrial equipment. In Italy, this occupation has stable demand in the construction and manufacturing sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中+职业培训 | 3-4年 | —（公立职业学校免费或低收费） |
-| 学徒制 | 3-4年 | —（学徒期间有工资，培训费用低） |
+| High School + Vocational Training | 3-4 years | $0~$2,000 (Public vocational schools are free or low-cost) |
+| Apprenticeship | 3-4 years | $0~$500 (Wages during apprenticeship, low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书（Qualifica Professionale） | 各地区职业培训中心 | 可选 | 完成培训后颁发，证明基本技能 |
-| 钣金工认证 | 行业协会如ANCE | 可选 | 部分雇主或项目要求 |
+| Qualifica Professionale | Regional vocational training centers | Optional | Issued after training completion, certifying basic skills |
+| Sheet metal worker certification | Industry associations such as ANCE | Optional | Some employer or project requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。意大利建筑和制造业持续需要钣金工，尤其是能源改造和工业维护领域。预计未来五年就业机会保持稳定，退休人员补充带来一定空缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Italian construction and manufacturing sectors continue to require sheet metal workers, especially in energy renovation and industrial maintenance. Job opportunities are expected to remain stable over the next five years, with some vacancies arising from retirement replacements.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含加班费 |
-| 中级（3-8年） | $28,000~$35,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $35,000~$45,000 | 税前年薪，可含管理职责津贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, including overtime pay |
+| Mid-level (3–8 years) | $28,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $35,000~$45,000 | Pre-tax annual salary, may include management responsibility allowance |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒或技工起步，可晋升为工头、项目经理，或专攻精密制造、建筑信息模型（BIM）相关技术。经验丰富者可独立创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face mixed impacts from AI/automation: repetitive cutting and bending tasks are easily automated, but on-site installation, complex repairs, and customer communication still require human judgment; overall employment is stable but entry requirements increase.
+
+Start as an apprentice or tradesperson, advance to foreman, project manager, or specialize in precision manufacturing, building information modeling (BIM), or related technologies. Experienced professionals can start their own business.
+
+**Tasks most exposed to AI:**
+
+- Using CAD/CAM software to generate CNC cutting paths for automatic metal sheet cutting
+- Repetitive bending and punching operations done by robots
+- Automated welding systems take over standard joint welding
+- AI vision inspection systems replace manual surface defect inspection
+- Nesting optimization algorithms automatically calculate the most material-efficient cutting layout.
+
+**Where AI augments the role:**
+
+- Complete complex installations with remote technical expert guidance using AR headsets
+- AI-assisted design tools quickly generate ventilation duct layout plans
+- Digital twin simulates installation outcomes to reduce onsite rework
+- Real-time feedback on fastening torque and angle accuracy via smart handheld tools
+- Predictive maintenance systems based on historical data optimize repair schedules.
+
+**Human moat:**
+
+- Adaptability to handle non-standard, irregular structures during on-site installation
+- Expertise in diagnosing and manually repairing complex system faults
+- Ability to communicate with clients to clarify needs and provide customized solutions
+- Physical skills for flexible operation in confined or hazardous environments
+- Intuitive understanding of material properties (e.g., ductility of different metals)
+
+**Skills to build:**
+
+- CNC machine programming (e.g., CNC press brakes, laser cutters)
+- 3D CAD/CAM software (e.g., SolidWorks, AutoCAD)
+- Industrial robot operation and maintenance basics
+- Post-processing Techniques for Additive Manufacturing (Metal 3D Printing)
+- Data analysis and digital twin tool application.
+- Green building standards (e.g., LEED) and knowledge of energy-efficient materials
+
+**Key growth areas:**
 
 - HVAC installation
 - energy retrofit
@@ -61,65 +97,64 @@ Sheet metal workers fabricate, install, and maintain metal sheet products such a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，要求大学学历或同等经验，年薪门槛约€28,000（2025年）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa (Quota-based)） | 年度配额，适用于非欧盟工人，需雇主担保。钣金工有时列入配额职业。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳工部申请工作许可，审核劳动力市场是否无合适本土候选人。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, requiring a university degree or equivalent experience, with an annual salary threshold of approximately €28,000 (2025). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa (Quota-based)) | Annual quota, applicable to non-EU workers, requires employer sponsorship. Sheet metal workers are sometimes on the quota list. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the Ministry of Labor, which assesses whether there are no suitable local candidates in the labor market. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sheet Metal Worker？**
-- 动手能力强，喜欢金属加工和制造工作
-- 能适应车间和户外环境，注重安全规范
-- 愿意通过学徒或职业培训掌握技能
-
-**谁不适合学Sheet Metal Worker？**
-- 对重复性体力劳动敏感或身体条件不宜
-- 不喜欢在噪音、粉尘环境中工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, enjoys metal processing and fabrication work
+- Able to adapt to workshop and outdoor environments, with a focus on safety regulations
+- Willing to acquire skills through apprenticeship or vocational training.
+
+**Who is not suited**
+- Sensitive to repetitive physical labor or unsuitable physical condition
+- Dislike working in noisy or dusty environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a sheet metal worker in Italy?**
+A: Entry-level approximately €22,000-€28,000/year, mid-level €28,000-€35,000/year, senior up to €45,000/year, all before tax.
+
+**Q: How can non-EU citizens immigrate to Italy as sheet metal workers?**
+A: Main pathways: Employer applies for work permit via Decreto Flussi quota, or applies for EU Blue Card (must meet salary threshold). Usually requires employer sponsorship and proof of no suitable local candidate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sheet Metal Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sheet metal workers in Italy?**
-答：Entry-level: €22,000-€28,000/year; mid-level: €28,000-€35,000/year; senior: up to €45,000/year, all gross.
-
-**问：How can non-EU citizens immigrate to Italy as sheet metal workers?**
-答：Main routes: employer applies via Decreto Flussi quota work visa or EU Blue Card (requires salary threshold). Employer sponsorship and labor market test usually required.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

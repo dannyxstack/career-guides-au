@@ -1,60 +1,92 @@
-# Quality Controller in Leather and Textile Industry（Quality Controller in Leather and Textile Industry）职业分析 · FR
+# Quality Controller in Leather and Textile Industry — career analysis · France
 
-**职业代码：H2415 – Quality Controller in Leather and Textile Industry。**
+**Occupation code: H2415 (ROME)**
 
-Inspects leather and textile products for appearance, size, color fastness, and other quality metrics to ensure compliance with standards and customer requirements.
+Responsible for inspecting quality indicators such as appearance, size, and color fastness of leather and textiles to ensure products meet standards and customer requirements.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中+职业培训 | 2年（CAP/BEP） | —（学徒制可免学费并获津贴） |
-| 大专 | 2年（BTS） | $500~$5,000（公立学校学费低，私立较高） |
+| High School + Vocational Training | 2 years (CAP/BEP) | $0~$3,000 (Apprenticeships are exempt from tuition fees and receive subsidies) |
+| Diploma | 2 Years (BTS) | $500~$5,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | — | 可选 | 雇主通常要求相关工作经验或培训 |
-| 行业认证 | 法国标准化协会（AFNOR） | 可选 | 自愿性，提升竞争力 |
+| No mandatory certification | — | Optional | Employers usually require relevant work experience or training |
+| Industry certifications | French Association for Standardization (AFNOR) | Optional | Voluntariness enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国皮革和纺织行业面临技术升级和可持续转型，质量控制岗位需求稳定，但自动化检测普及可能减少部分低端岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's leather and textile industry faces technological upgrades and sustainable transformation; demand for quality control positions remains stable, but the widespread adoption of automated inspection may reduce some lower-end positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级质检员晋升为高级质检员、质量主管或质量经理；也可转向采购或供应链质量管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Some quality controllers' tasks can be automated, but require on-site judgment and customer communication. AI is more of an auxiliary tool; positions will not be completely replaced, but entry-level positions may be reduced.
+
+Junior quality inspectors can be promoted to senior quality inspectors, quality supervisors, or quality managers; It can also be turned to procurement or supply chain quality management.
+
+**Tasks most exposed to AI:**
+
+- Repetitive appearance defect detection (such as color differences and surface defects)
+- Standardized measurement of dimensions and thickness
+- Color fastness test data recording
+- Basic washability/wear resistance tests are performed
+
+**Where AI augments the role:**
+
+- AI vision systems assist in classification and traceability of complex defects
+- Data analysis predicts batch quality trends
+- Automatic customer standard matching and detection plan generation
+- Automatic collection and reporting of supplier quality data
+
+**Human moat:**
+
+- Subjective texture judgments such as feel and smell
+- The ability to negotiate quality standards with customers
+- Handling non-standard complaints and rework decisions
+- Experience in optimizing factory on-site processes
+
+**Skills to build:**
+
+- Machine vision system operation and maintenance
+- Basic data analysis and Python/R programming
+- Quality Statistical Process Control (SPC)
+- AI image annotation and model validation
+- Multilingual customer communication skills
+
+**Key growth areas:**
 
 - automation
 - sustainability
@@ -63,65 +95,67 @@ Inspects leather and textile products for appearance, size, color fastness, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，匹配中等技能岗位，劳工市场测试较难通过 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，但此职业通常不符合 |
+| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship for medium-skilled positions; labour market testing is difficult to pass. |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, but this profession usually does not fit |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Quality Controller in Leather and Textile Industry？**
-- 注重细节、耐心细致的人
-- 有手工或制造业背景者
-- 希望在传统行业稳定就业者
+**Who is suited**
+- Detail-oriented, patient, and careful people
+- Those with a background in handicrafts or manufacturing
+- Hope to secure stable employment in traditional industries
 
-**谁不适合学Quality Controller in Leather and Textile Industry？**
-- 追求高薪和快速晋升者
-- 对重复性工作感到厌倦者
+**Who is not suited**
+- Those pursuing high salary and rapid advancement
+- Those tired of repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for leather and textile quality controllers?**
+A: Entry-level salaries are about 22,000-28,000 euros per year, intermediate salaries 28,000-35,000 euros, and seniors up to 45,000 euros.
+
+**Q: Is it easy for foreigners to immigrate to France for this profession through a work visa?**
+A: It is more difficult because this occupation is not a scarce skill, requires employers to conduct labor market tests, and the salaries are relatively low.
+
+**Q: What educational qualifications are required to become a quality controller?**
+A: Typically, a high school diploma plus vocational training (CAP/BEP) or a higher diploma (BTS) is required, with apprenticeships being a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Quality Controller in Leather and Textile Industry属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a quality controller in leather and textile?**
-答：Entry-level salary is around 22,000-28,000 EUR, mid-level 28,000-35,000 EUR, senior up to 45,000 EUR.
-
-**问：Is it easy for foreigners to immigrate to France for this occupation?**
-答：It is difficult as the occupation is not in shortage, requires labor market testing, and offers relatively low salary.
-
-**问：What education is required to become a quality controller?**
-答：Typically a high school diploma plus vocational training (CAP/BEP) or a BTS, with apprenticeships being common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

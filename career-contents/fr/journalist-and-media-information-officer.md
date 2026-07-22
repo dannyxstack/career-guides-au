@@ -1,62 +1,91 @@
-# Journalist and Media Information Officer（Journalist and Media Information Officer）职业分析 · FR
+# Journalist and Media Information Officer — career analysis · France
 
-**职业代码：E1106 – Journalist and Media Information Officer。**
+**Occupation code: E1106 (ROME)**
 
-Journalists and media information officers collect, verify, and disseminate news information to the public through various media platforms such as newspapers, TV, radio, and online. Strong writing, investigative, and communication skills are essential.
+Journalists and media information officers are responsible for collecting, verifying, and disseminating news information, reporting current events to the public through various media platforms (newspapers, television, radio, internet). Strong writing, investigating, and communication skills are required.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Licence） | 3年（Licence） | $3,000~$5,000（公立大学学费，每年约170-250欧元注册费，其余生活费） |
-| 硕士（Master） | 2年（Master） | $4,000~$8,000（公立大学硕士注册费约250欧元/年，私立学院费用较高） |
-| 专业学校（École de journalisme） | 3年（Bac+3/5） | $5,000~$10,000（私立新闻学院，如CFJ、ESJ，学费较高） |
+| Licence | 3 years (Licence) | $3,000~$5,000 (Tuition at public universities is about 170-250 euros per year for registration, with the rest covering living expenses) |
+| Master's Degree (Master) | 2 years (Master) | $4,000~$8,000 (The registration fee for a master's degree at a public university is about 250 euros per year, while private colleges are more expensive) |
+| École de journalisme | 3 years (BAC+3/5) | $5,000~$10,000 (Private journalism schools, such as CFJ and ESJ, have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学文凭（Diplôme en journalisme） | 法国教育部认可的新闻院校 | 可选 | 推荐完成专业新闻教育，有助于就业 |
-| 记者证（Carte de presse） | 法国记者身份委员会（CCIJP） | 必备 | 从业必备，需证明主要收入来自新闻工作 |
-| 语言能力认证 | 各机构 | 可选 | 法语流利（C1/C2），英语等其他语言优势 |
+| Press card (Carte de presse) | French Committee on the Identity of Journalists (CCIJP) | Required | Essential for professional work, and must prove that the main source of income comes from journalism |
+| Diploma in Journalism (Diplôme en journalisme) | A journalism school recognized by the French Ministry of Education | Optional | Recommended to complete professional journalism education, which helps with employment |
+| Language proficiency certification | All institutions | Optional | Fluency in French (C1/C2), with strengths in other languages such as English |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 35,000。法国媒体行业就业前景稳定，但竞争激烈。数字化转型催生了对多媒体记者和数据新闻专业人才的需求。受规管职业，需遵守职业道德规范。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The employment outlook for France's media industry is stable but highly competitive. Digital transformation has created a demand for multimedia journalists and data journalism professionals. Regulated professions must comply with professional ethics.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 初级记者或助理编辑，税前年薪 |
-| 中级（3-7年） | $35,000~$50,000 | 资深记者或专业领域记者 |
-| 高级（7年以上） | $50,000~$80,000 | 主编、专栏作家或媒体管理者 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Junior reporters or assistant editors, pre-tax annual salary |
+| Mid-level (3–7 years) | $35,000~$50,000 | Senior journalists or journalists in their professional fields |
+| Senior (7+ years) | $50,000~$80,000 | Editor-in-chief, columnist, or media manager |
+| average salary | $49,794 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径可从初级记者或助理编辑开始，晋升为资深记者、专栏作家、编辑或部门主管。也可转向媒体管理、公关或内容策略等方向。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Career paths can start as junior reporters or assistant editors, and progress to senior journalists, columnists, editors, or department heads. You can also shift to media management, public relations, or content strategy.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - Digital Transformation
 - Data Journalism
@@ -65,69 +94,68 @@ Journalists and media information officers collect, verify, and disseminate news
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如著名记者或媒体专家，需提供工作合同或项目证明。 |
-| Subclass Salarié（Employee Work Permit） | 由雇主担保的工作签证，需获得法国公司的工作合同，并通过劳动市场测试。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪职位（年薪≥53,000欧元），需大学学历和工作合同。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as renowned journalists or media experts, who need to provide a work contract or project certification. |
+| Subclass Salarié (Employee Work Permit) | Employer-sponsored work visas require obtaining a work contract with a French company and passing a labor market test. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions (annual salary ≥ 53,000 euros), requiring a university degree and a work contract. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Journalist and Media Information Officer？**
-- 对新闻和时事有强烈好奇心的人
-- 具备优秀写作和沟通能力的人
-- 能适应高压和快节奏工作环境的人
-
-**谁不适合学Journalist and Media Information Officer？**
-- 不喜欢不确定性和频繁截止日期的人
-- 不愿在公共视野或争议中工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong curiosity about news and current affairs
+- People with excellent writing and communication skills
+- People who can adapt to high-pressure and fast-paced work environments
+
+**Who is not suited**
+- People who dislike uncertainty and frequent deadlines
+- People who are unwilling to work in the public eye or in controversy
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a French journalist?**
+A: Junior journalists earn about 25,000-35,000 euros annually, while senior journalists can earn 50,000-80,000 euros. Salaries vary depending on the type of media (newspaper, TV, internet) and experience.
+
+**Q: How can foreigners become French journalists?**
+A: Non-EU citizens must first obtain a work contract from a French employer and apply for a work visa (such as Salarié or Passeport Talent). Must be fluent in French, and may need a press card.
+
+**Q: What is the career development path for journalists?**
+A: Typically, they start as assistants or junior reporters, gain experience, and become professional reporters, eventually rising to editor-in-chief or editorial director. You can also turn to media management or public relations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Journalist and Media Information Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for journalists in France?**
-答：Entry-level journalists earn around €25,000-35,000 per year, while senior journalists can earn €50,000-80,000. Salaries vary by media type and experience.
-
-**问：How can a foreigner become a journalist in France?**
-答：Non-EU citizens need a job offer from a French employer and apply for a work visa (e.g., Salarié or Talent Passport). Fluency in French is required, and a press card may be needed.
-
-**问：What is the career progression for journalists?**
-答：Start as an assistant or junior reporter, then specialize in a field, and advance to editor-in-chief or department head. Also possible to move into media management or PR.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

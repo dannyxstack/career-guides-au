@@ -1,59 +1,95 @@
-# Event Organizer（Event Organizer）职业分析 · FR
+# Event Organizer — career analysis · France
 
-**职业代码：E1107 – Event Organizer。**
+**Occupation code: E1107 (ROME)**
 
-Responsible for the overall planning, coordination, and execution of various events such as conferences, exhibitions, and celebrations, including budget management, supplier negotiation, on-site setup, and client communication.
+Responsible for the overall planning, coordination, and execution of various events (such as conferences, exhibitions, celebrations, etc.), including budget management, supplier negotiations, on-site setup, and client communication.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 旅游或商业 | 2年 | $2,000~$8,000（公立学校低学费，私立学校较高） |
-| Licence pro 活动策划 | 3年（Licence） | $3,000~$10,000（大学学费约3000欧/年，私立商学院高达10000欧/年） |
-| Master 活动管理 | 5年（Master） | $4,000~$15,000（顶尖商学院费用较高，公立大学相对低廉） |
+| BTS Travel or Business | 2 years | $2,000~$8,000 (Public schools have lower tuition fees, while private schools offer higher fees) |
+| Licence Pro Event Planning | 3 years (Licence) | $3,000~$10,000 (University tuition is about 3,000 euros per year, while private business schools can pay up to 10,000 euros per year) |
+| Master Event Management | 5 years (Master) | $4,000~$15,000 (Top business schools have higher fees, while public universities are relatively affordable) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 活动策划专业文凭（BTS/Licence/Master） | 法国教育部认可院校 | 可选 | 非强制但雇主普遍要求相关学历 |
-| CQP 活动策划证书 | 法国活动行业委员会 | 可选 | 职业资格证书，有助于就业 |
+| Professional Diploma in Event Planning (BTS/Licence/Master) | Recognized by the French Ministry of Education | Optional | Non-mandatory, but employers generally require relevant academic qualifications |
+| CQP Event Planning Certificate | French Events Industry Committee | Optional | Professional qualification certificates help with employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。法国活动策划行业持续增长，尤其在企业活动、体育赛事和文化节庆领域。疫情后线下活动需求强劲反弹，数字与混合活动也带来新机遇。巴黎及主要大都市区就业机会集中。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. The French event planning industry continues to grow, especially in corporate events, sporting events, and cultural festivals. Post-pandemic, demand for offline events has rebounded strongly, and digital and hybrid events have also brought new opportunities. Employment opportunities are concentrated in Paris and major metropolitan areas.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，巴黎略高 |
-| 中级（3-7年） | $32,000~$45,000 | 视公司规模和项目复杂度 |
-| 高级（7年以上） | $45,000~$65,000 | 活动总监或独立策划人可达更高 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary is slightly higher in Paris |
+| Mid-level (3–7 years) | $32,000~$45,000 | Depending on the company's size and project complexity |
+| Senior (7+ years) | $45,000~$65,000 | Event directors or independent planners can reach even higher levels |
+| average salary | $53,160 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级可从活动助理或协调员起步，积累经验后可晋升为项目经理或活动总监。亦可专攻特定领域（如婚庆、企业会议或音乐节），或自立门户创办活动策划公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Event planners face mixed effects brought by AI: some execution tasks can be automated, but core aspects like planning, client communication, and creative design are enhanced by AI, making human roles even more critical. The entry threshold has been lowered due to the widespread availability of tools, but the overall ability requirements have increased.
+
+Junior positions can start as event assistants or coordinators, and after gaining experience, can be promoted to project manager or event director. You can also specialize in specific fields (such as weddings, corporate meetings, or music festivals), or start your own event planning company.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized event schedules, budget sheets, and supplier lists
+- AI analyzes historical data to automatically optimize venue layout and seating arrangements
+- Automated sending of meeting invitations, follow-up reminders, and customer notifications
+- Quickly generate promotional copy and visual material drafts based on templates
+- Automatically organize post-event feedback data and generate basic analysis reports
+
+**Where AI augments the role:**
+
+- Quickly generate multiple creative themes and event concept proposals using AI tools
+- By analyzing social media trends and user preferences with AI, it accurately pinpoints campaign selling points
+- Use AI-assisted budget simulation and risk management to adjust resource allocation in real time
+- AI-driven virtual event platforms enable integrated online-offline experience design
+- Efficiently handle customer communication and need sorting through natural language processing tools
+
+**Human moat:**
+
+- In-depth customer needs insights and personalized relationship maintenance
+- Complex cross-cultural and cross-departmental coordination and negotiation skills
+- Ability to respond to on-site emergencies and handle crises
+- Original design skills that resonate with event creativity and emotional resonance
+- The ability to control the overall event experience and brand tone
+
+**Skills to build:**
+
+- Proficient in using AI event planning tools (such as ChatGPT and event planning software)
+- Data analysis and visualization (interpreting campaign data, optimizing ROI)
+- Digital event platform management (virtual conferences, metaverse exhibitions)
+- Customer experience design and emotional marketing
+- Agile project management and collaboration tools (such as Trello, Notion)
+- Cross-media content creation (short videos, live streaming scripts)
+
+**Key growth areas:**
 
 - Event technology
 - Sustainable events
@@ -62,68 +98,67 @@ Responsible for the overall planning, coordination, and execution of various eve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如拥有至少3年工作经验且年薪≥法国平均毛工资1.5倍（约53,000欧）。 |
-| Subclass Salarié（Employee Work Permit） | 需法国雇主提供工作合同，并通过劳工市场测试。适合中初级职位。 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求高等学历或5年经验，年薪≥53,400欧（2025年）。适合高级活动经理。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with at least 3 years of work experience and an annual salary 1.5 times ≥ the average gross salary in France (about 53,000 euros). |
+| Subclass Salarié (Employee Work Permit) | A work contract must be provided by a French employer and must pass a labor market test. Suitable for mid-level and entry-level positions. |
+| Subclass Carte bleue UE (EU Blue Card) | Higher education or 5 years of experience required, annual salary ≥ 53,400 euros (2025). Suitable for senior event managers. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Event Organizer？**
-- 善于沟通与多任务处理
-- 有创意且注重细节
-- 抗压能力强、适应灵活工作时间
-
-**谁不适合学Event Organizer？**
-- 不喜社交或频繁出差
-- 无法接受高强度加班和临时变化
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and multitasking
+- Creative and detail-oriented
+- Strong stress resistance and adaptable to flexible working hours
+
+**Who is not suited**
+- Dislikes socializing or frequently traveling for work
+- High-intensity overtime and last-minute changes are unacceptable
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for event planners in France?**
+A: Entry-level is about 25,000-32,000 euros per year, intermediate 32,000-45,000 euros per year, and advanced 45,000-65,000 euros per year. The Paris area is usually 10-20% higher.
+
+**Q: How can foreigners immigrate to France through career planning activities?**
+A: Can apply via the Talent Passport (Passeport Talent) or EU Blue Card (Carte bleue UE), requiring relevant qualifications and a work contract. Entry-level can apply for a regular work permit (Salarié).
+
+**Q: What career development paths are available for event planners?**
+A: You can rise from event assistant to project manager or event director, specializing in niche fields such as wedding planning and corporate meetings, or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Event Organizer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for event organizers in France?**
-答：Entry-level: €25,000-32,000/year; mid-level: €32,000-45,000/year; senior: €45,000-65,000/year. Paris usually pays 10-20% more.
-
-**问：How can foreigners immigrate to France as event organizers?**
-答：Apply via Talent Passport or EU Blue Card with relevant degree and job contract. Entry-level can use standard work permit (Salarié).
-
-**问：What are the career paths for an event organizer?**
-答：Progression from assistant to project manager, event director, or specialize in weddings, corporate events, etc. Self-employment is also common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

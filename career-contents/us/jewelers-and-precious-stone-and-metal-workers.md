@@ -1,60 +1,96 @@
-# Jewelers and Precious Stone and Metal Workers（Jewelers and Precious Stone and Metal Workers）职业分析 · 美国
+# Jewelers and Precious Stone and Metal Workers — career analysis · United States
 
-**职业代码：51-9071 – Jewelers and Precious Stone and Metal Workers。**
+**Occupation code: 51-9071 (SOC)**
 
-Design, fabricate, adjust, repair, or appraise jewelry, gold, silver, other precious metals, or gems. Includes diamond polishers and gem cutters, and precision casting and stone setting.
+Design, manufacture, adjust, repair, or evaluate jewelry, precious metals, and gemstones, including diamond polishers, gem cutters, and precision casting and setting personnel.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（在职培训，部分需注册费） |
-| 职业培训证书 | 6个月-1年 | $5,000~$20,000（社区学院或技术学校） |
+| Apprenticeship | 2-4 years | $0~$50,000 (On-the-job training, some require registration fees) |
+| Vocational training certificate | 6 months to 1 year | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 宝石鉴定证书 | 美国宝石学院(GIA) | 可选 | 可选但增强竞争力 |
-| 珠宝设计师认证 | 珠宝设计师协会 | 可选 | 提升设计能力 |
+| Gemstone identification certificate | Gemological Institute of America (GIA) | Optional | Optional but enhances competitiveness |
+| Jewellery designer certification | Jewelry Designers Association | Optional | Improve design skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 28,500。美国珠宝匠就业前景稳定，预计2024-2034年岗位数基本持平，年均约1.6万个新职位，但竞争激烈，因手工珠宝需求受经济周期影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 28,500. Employment prospects for US jewellers are stable, with job numbers expected to remain roughly flat from 2024 to 2034, averaging about 16,000 new positions annually, but competition is intense as demand for handmade jewellery is affected by economic cycles.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 学徒或刚入职 |
-| 中级（4-7年） | $40,000~$60,000 | 熟练工匠 |
-| 高级（8年以上） | $60,000~$85,000 | 高级工匠或主管 |
+| Median salary | $52,540 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$40,000 | Apprentice or entry-level |
+| Mid-level (4-7 years) | $40,000~$60,000 | Skilled tradesperson |
+| Senior (8+ years) | $60,000~$85,000 | Senior craftsman or supervisor |
+| average salary | $57,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径：学徒→熟练工→高级工匠→珠宝店经理或自主创业。部分可转向珠宝设计、评估或修复，或进入珠宝制造企业担任主管。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
+
+Career path: apprentice → journeyman → master craftsman → jewelry store manager or self-employment. Some may transition to jewelry design, appraisal, or repair, or enter jewelry manufacturing as supervisors.
+
+**Tasks most exposed to AI:**
+
+- Routine metal polishing and grinding (can be automated with AI-controlled robotic arms).
+- Gem cutting and setting calculations (parametric modeling to optimize cut automatically)
+- Repetitive inlay path planning (AI vision system assisted positioning)
+- Inventory management and simple design sketch generation (generative AI for rapid output)
+- Quality inspection and sorting of batch jewelry (computer vision for automatic defect detection)
+
+**Where AI augments the role:**
+
+- Complex 3D modeling and rendering (AI generates design variants for rapid style exploration)
+- Gem optimization cutting simulation (AI analyzes internal structure of rough stone to suggest optimal facets)
+- Personalized custom design (AI generates initial plan based on client needs, then craftspeople refine)
+- Teaching and skill transfer (AR/VR simulated operations, AI real-time error feedback)
+- Repair and restoration solution assessment (AI scans damaged structures, recommends repair paths)
+
+**Human moat:**
+
+- Artistic feel of hand setting and fine metal adjustment (AI cannot replicate tactile feedback)
+- Emotional interaction skills for communicating custom needs with clients and passing on brand stories
+- Experience-based restoration of historical craftsmanship in antique jewelry repair
+- Decision-making and accountability for handling high-value, one-of-a-kind works
+- Irregularity of comprehensive creation across materials (precious metals, gemstones, enamel, etc.)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., Rhino, MatrixGold) and parametric design tools
+- Prompt engineering and image optimization for AI-assisted design platforms (e.g., Midjourney for jewelry)
+- Deepening gemology and materials science (understanding the gap between AI simulation and actual cutting)
+- Digital manufacturing processes (3D printing wax patterns, CNC engraving) operation and post-processing
+- Customer experience design (incorporating AR/VR try-ons and custom communication)
+- Sustainable/traceability technology (blockchain registering gem origin, meeting ESG requirements)
+
+**Key growth areas:**
 
 - Steady demand
 - Luxury goods market
@@ -63,65 +99,67 @@ Design, fabricate, adjust, repair, or appraise jewelry, gold, silver, other prec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位 |
-| Subclass O-1（Extraordinary Ability） | 需证明非凡能力（如知名艺术家），极少数人符合 |
+| Subclass H-1B (Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree |
+| Subclass O-1 (Extraordinary Ability) | Requires proof of extraordinary ability (e.g., renowned artist), very few qualify |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Jewelers and Precious Stone and Metal Workers？**
-- 细心且手巧的人
-- 对珠宝艺术有热情的人
-- 愿意接受长期学徒训练的人
+**Who is suited**
+- Detail-oriented and dexterous people
+- People passionate about jewelry art
+- Those willing to undergo long-term apprenticeship training
 
-**谁不适合学Jewelers and Precious Stone and Metal Workers？**
-- 不耐久坐或精细工作的人
-- 追求快速高薪的人
+**Who is not suited**
+- People who cannot tolerate prolonged sitting or fine work
+- People pursuing fast and high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a jeweller?**
+A: Based on experience, junior jewellers earn around $28,000-$40,000 annually, senior jewellers over $85,000, but most earn between $35,000-$60,000.
+
+**Q: Can a jeweler apply for a US work visa?**
+A: Usually difficult. H-1B requires bachelor's degree or higher, this occupation generally does not meet that; O-1 requires extraordinary ability, only very few top craftsmen qualify. Technical immigration paths are limited.
+
+**Q: What is the job outlook for jewellers in the US?**
+A: Number of positions is stable, but competition is fierce, especially in the high-end custom market. Repair and custom services have steady demand, but automation may reduce low-end positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Jewelers and Precious Stone and Metal Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for jewelers?**
-答：Entry-level jewelers earn around $28,000-$40,000 annually, while experienced ones can exceed $85,000, with most earning $35,000-$60,000.
-
-**问：Can jewelers get a US work visa?**
-答：It is difficult. H-1B requires a bachelor's degree, which jewelers usually lack; O-1 is for extraordinary ability, rarely applicable. Immigration options are limited.
-
-**问：What is the job outlook for jewelers in the US?**
-答：Employment is stable but competitive, especially in high-end custom work. Repair and custom services remain in demand, but automation may reduce low-end positions.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

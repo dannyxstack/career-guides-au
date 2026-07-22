@@ -1,62 +1,97 @@
-# Aircraft Launch and Recovery Officers（Aircraft Launch and Recovery Officers）职业分析 · 美国
+# Aircraft Launch and Recovery Officers — career analysis · United States
 
-**职业代码：55-1012 – Aircraft Launch and Recovery Officers。**
+**Occupation code: 55-1012 (SOC)**
 
-Plan and direct the operation and maintenance of catapults, arresting gear, and associated systems for aircraft carrier takeoff and landing operations.
+Responsible for planning and managing catapults, arresting gear, and related mechanical, hydraulic, and control systems on aircraft carriers to ensure safe and efficient aircraft launch and recovery.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学年均学费约1-2万美元，私立大学约3-5万美元；海军军官学院免费但需服役） |
-| 海军军官培训 | 1-2年 | —（通过海军军官候选人学校（OCS）或海军预备役军官训练团（NROTC）项目，费用由海军承担） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities charge about $10,000-$20,000 per year; private universities about $30,000-$50,000; Naval Academy is free but requires military service.) |
+| Naval officer training | 1-2 years | $0~$0 (Through Navy Officer Candidate School (OCS) or Naval Reserve Officers Training Corps (NROTC) programs, with costs covered by the Navy) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认可大学 | 必备 | 一般需工程、物理或相关领域学位 |
-| 海军军官任命 | 美国海军 | 必备 | 完成OCS或NROTC项目，成为少尉军官 |
-| 安全许可 | 国防部 | 必备 | 需要机密或最高机密安全许可 |
-| 专业培训 | 美国海军航空基地 | 必备 | 完成弹射器与拦阻装置操作和维护课程 |
+| Bachelor's degree | Recognised university | Required | Generally requires a degree in engineering, physics, or a related field. |
+| Naval officer appointment. | United States Navy | Required | Complete OCS or NROTC programme, become a second lieutenant. |
+| Safety clearance | Department of Defense | Required | Requires confidential or top secret security clearance |
+| Professional training | United States Naval Air Station | Required | Complete catapult and arresting gear operation and maintenance courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 380。该职业高度依赖美国海军需求，就业岗位有限且稳定。由于航空母舰数量固定，预计未来十年岗位增长缓慢，但退休人员会创造少量空缺。主要就业于军事基地和造船厂。
+**Job demand: low (★½☆☆☆).** National workforce approx. 380. This occupation heavily depends on US Navy demand, with limited and stable employment. With fixed aircraft carrier numbers, job growth is expected to be slow over the next decade, but retirements will create some openings. Mainly employed at military bases and shipyards.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 通常为海军少尉至中尉级别，含基本工资、住房津贴及伙食补贴 |
-| 中级（4-10年） | $75,000~$100,000 | 上尉至少校级别，负责部门或小队管理 |
-| 高级（10年以上） | $100,000~$140,000 | 中校及以上级别，可担任航空联队或基地高级职务 |
+| Median salary | $87,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$75,000 | Typically at the rank of Ensign to Lieutenant in the Navy, includes basic pay, housing allowance, and subsistence allowance |
+| Mid-level (4-10 years). | $75,000~$100,000 | Captain at least major level, responsible for department or team management |
+| Senior (10+ years) | $100,000~$140,000 | Lieutenant Colonel and above, can serve as senior positions in air wings or bases |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径通常从初级军官（少尉）开始，逐步晋升至中尉、上尉、少校等，可担任部门主管或中队指挥官。部分军官可转入海军航空系统司令部或私营国防承包商担任技术管理职务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Career progression typically starts from junior officer (Second Lieutenant) advancing to Lieutenant, Captain, Major, etc., serving as department head or squadron commander. Some officers transfer to Naval Air Systems Command or private defense contractors for technical management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Military operations
 - Aircraft carrier technology
@@ -65,65 +100,67 @@ Plan and direct the operation and maintenance of catapults, arresting gear, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 理论上可申请，但该职位主要面向美国公民，极少外籍人员任职 |
-| Subclass EB-2（Employment-Based Second Preference） | 需证明有高级学位或特殊能力，但国防相关职位对外籍限制严格 |
+| Subclass H-1B (H-1B Specialty Occupation) | Theoretically applicable, but the position is mainly for US citizens; very few foreign nationals hold this role |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires proof of advanced degree or exceptional ability, but defense-related positions have strict restrictions on foreign nationals. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aircraft Launch and Recovery Officers？**
-- 愿意加入美国海军并接受严格军事训练的人
-- 对航空母舰操作和机械系统有浓厚兴趣的工程师
-- 追求稳定职业生涯并愿意长期服役的军人
+**Who is suited**
+- People willing to join the US Navy and undergo rigorous military training
+- Engineers with a strong interest in aircraft carrier operations and mechanical systems
+- Military personnel seeking a stable career and willing to serve long-term
 
-**谁不适合学Aircraft Launch and Recovery Officers？**
-- 不愿接受军事纪律和长期海上部署的人
-- 希望快速移民美国的外籍人士
+**Who is not suited**
+- Those unwilling to accept military discipline and long-term sea deployment
+- Foreign nationals seeking fast immigration to the US
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an aircraft launch and recovery officer?**
+A: Salary depends on rank and years of service; entry-level officer about $55,000-75,000/year (including allowances), mid-level $75,000-100,000, senior up to $140,000+. Plus military benefits like medical, housing allowance, and pension.
+
+**Q: Can foreigners immigrate to the U.S. through this occupation?**
+A: This position is almost entirely for US citizens due to national security and military secrets. It is extremely unlikely for foreign nationals to obtain the position and apply for a work visa or green card.
+
+**Q: What education background is needed to become an aircraft launch and recovery officer?**
+A: Typically requires a bachelor's degree, preferably in engineering, physics, or related fields. Must then complete Naval officer training (e.g., OCS or NROTC) and specialized operational training. Officer school graduates can directly serve.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Aircraft Launch and Recovery Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Aircraft Launch and Recovery Officers?**
-答：Salary depends on rank and years of service. Entry-level officers earn approximately $55,000-$75,000 (including allowances), mid-level $75,000-$100,000, and senior officers up to $140,000+. Additional military benefits include healthcare, housing allowance, and pension.
-
-**问：Can foreign nationals immigrate to the US through this occupation?**
-答：This occupation is almost exclusively for US citizens due to national security and military secrecy. It is extremely unlikely for foreign nationals to obtain this job and apply for work visas or green cards.
-
-**问：What educational background is needed to become an Aircraft Launch and Recovery Officer?**
-答：A bachelor's degree, preferably in engineering, physics, or a related field, is required. Afterwards, completion of Navy officer training (e.g., OCS or NROTC) and specialized operational training is mandatory. Graduates of the Naval Academy may directly enter the role.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

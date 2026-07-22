@@ -1,61 +1,94 @@
-# Coaches and Scouts（Coaches and Scouts）职业分析 · 美国
+# Coaches and Scouts — career analysis · United States
 
-**职业代码：27-2022 – Coaches and Scouts。**
+**Occupation code: 27-2022 (SOC)**
 
-Instruct or coach groups or individuals in sports fundamentals for competition; demonstrate techniques; evaluate athletes' strengths and weaknesses.
+Instruct individuals or groups in fundamentals of sports, with competitive aims, demonstrate techniques, evaluate athletes, prepare for competitions.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $30,000~$120,000（体育管理、运动科学等相关专业） |
-| 硕士学位 | 2年 | $30,000~$80,000（运动管理或体育领导力硕士） |
+| Bachelor's degree | 4 years | $30,000~$120,000 (Sports management, exercise science, or related fields) |
+| Master's degree | 2 years | $30,000~$80,000 (Master of Sports Management or Sports Leadership) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教练认证 | 国家体育教练协会 | 可选 | 自愿认证，提升竞争力 |
-| CPR/急救认证 | 美国红十字会 | 必备 | 多数雇主要求 |
-| 学士学位 | 认证大学 | 必备 | 通常需要 |
+| CPR/First aid certification | American Red Cross | Required | Most employers require |
+| Bachelor's degree | Accredited university | Required | Typically required |
+| Coach certification | National Sports Coaches Association | Optional | Voluntary certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 310,600。预计2023-2033年就业增长约9%，高于平均水平。职业体育和学校体育项目需求持续，但竞争激烈，兼职岗位较多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 310,600. Expected employment growth of about 9% from 2023 to 2033, above average. Continued demand in professional sports and school sports programs, but competition is strong; many part-time positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 兼职或小型学校/俱乐部 |
-| 中级（4-7年） | $40,000~$65,000 | 全职高中或大学助理教练 |
-| 高级（8年以上） | $65,000~$100,000 | 大学主教练或职业队教练 |
+| Median salary | $47,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$40,000 | Part-time or small schools/clubs |
+| Mid-level (4-7 years) | $40,000~$65,000 | Full-time high school or college assistant coach |
+| Senior (8+ years) | $65,000~$100,000 | Head coach at university or professional team |
+| average salary | $60,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理教练或球探起步，逐步晋升为主教练、体育总监或职业队管理层。部分人转向体育营销、运动训练或体育管理。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The work of coaches and scouts is being profoundly reshaped by AI/automation: data analysis, video editing, and other tasks are taken over, but core skills such as athlete psychological guidance and tactical intuition still rely on humans, presenting a mixed outlook.
+
+Can start as an assistant coach or scout, then progress to head coach, sports director, or professional team management. Some transition to sports marketing, athletic training, or sports management.
+
+**Tasks most exposed to AI:**
+
+- Use AI video analysis tools to automatically edit match footage and generate tactical trend reports
+- Uses machine learning models to predict athlete potential and injury risk, replacing manual assessment.
+- Automatically collects biomechanical data via wearable devices and provides training feedback
+- Automate writing player reports and scouting notes, reducing paperwork
+
+**Where AI augments the role:**
+
+- AI provides real-time tactical advice and opponent weakness analysis to assist on-the-spot decisions.
+- Personalized training plan generator that optimizes training load based on athlete historical data
+- Virtual reality (VR) simulated combat training to enhance tactical understanding and muscle memory
+- Natural language processing tools automatically translate international competition materials, expanding intelligence sources
+
+**Human moat:**
+
+- Athlete psychological motivation and team morale management
+- Interpersonal trust based on long-term observation and a discerning eye for talent
+- On-the-spot adaptation and intuitive tactical decision-making
+- Creative guidance in unstructured environments (e.g., discovering youth potential)
+
+**Skills to build:**
+
+- Basic data analysis and visualization with Python/R
+- Foundations of sports science and biomechanics
+- Operation of video analysis tools (e.g., Hudl, Catapult)
+- Machine learning fundamentals (predictive modeling, feature engineering)
+- Sports psychology and communication coaching techniques.
+- Data storytelling and reporting presentation skills
+
+**Key growth areas:**
 
 - Sports participation
 - Youth sports
@@ -64,66 +97,68 @@ Instruct or coach groups or individuals in sports fundamentals for competition; 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需要学士学位，但教练职位通常不被视为专业职业，雇主赞助困难 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于国家级或国际知名教练，要求极高 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 需证明无法找到合格美国工人，通常不现实 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, but coaching positions are often not considered professional occupations, making employer sponsorship difficult. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to national or internationally renowned coaches; extremely high requirements |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Requires proof that no qualified US workers are available, usually impractical |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coaches and Scouts？**
-- 热爱体育运动并具备专业知识
-- 擅长指导沟通和激励他人
-- 能接受不规律工作时间（周末/晚间）
+**Who is suited**
+- Passionate about sports and have professional knowledge.
+- Good at guiding communication and motivating others
+- Able to accept irregular working hours (weekends/evenings)
 
-**谁不适合学Coaches and Scouts？**
-- 追求稳定高薪者
-- 不愿频繁出差或户外工作
+**Who is not suited**
+- Those seeking stable, high salaries
+- Unwilling to travel frequently or work outdoors
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a coach?**
+A: According to the BLS, the median annual salary for coaches and scouts in 2023 was $48,000. Entry-level coaches may earn less than $30,000, while top college or professional coaches can earn over $100,000.
+
+**Q: Does a coach have a skilled migration pathway?**
+A: Very difficult. Coaches typically do not meet H-1B 'specialty occupation' requirements, and green cards require PERM labor certification proving no qualified US workers, which is almost impossible. Only exceptional coaches (e.g., national team coaches) may qualify for O-1 visa.
+
+**Q: What qualifications do I need to become a career coach?**
+A: Typically requires a bachelor's degree (sports management or related field) and relevant sports experience. Certifications such as CPR and coaching training programs (e.g., US sports education programs) can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Coaches and Scouts属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for coaches?**
-答：According to BLS, the median annual wage for coaches and scouts was $48,000 in 2023. Entry-level coaches may earn under $30,000, while top college or professional coaches can exceed $100,000.
-
-**问：Is there a tech migration path for coaches?**
-答：Very difficult. Coaching generally does not meet H-1B 'specialty occupation' requirements, and green cards require PERM labor certification proving no qualified US workers, nearly impossible. Only extraordinary coaches (e.g., national team coaches) may qualify for O-1 visas.
-
-**问：What qualifications are needed to become a professional coach?**
-答：Typically a bachelor's degree (sports management or related) and relevant sport experience. Certifications like CPR and coaching training programs (e.g., American Sport Education Program) enhance competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

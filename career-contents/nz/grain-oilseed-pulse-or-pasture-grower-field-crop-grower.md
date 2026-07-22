@@ -1,59 +1,95 @@
-# Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower（Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower）职业分析 · 新西兰
+# Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower — career analysis · New Zealand
 
-**职业代码：121512 – Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower。**
+**Occupation code: 121512 (ANZSCO)**
 
-Plan, organize, and manage farm production of grain, oilseed, pulse, or pasture crops, including land preparation, sowing, fertilizing, pest control, and harvesting. This occupation is linked to New Zealand's Green List and eligible for Skilled Migrant Category and Accredited Employer Work Visa pathways.
+Responsible for planning, organizing, and managing farm production, growing field crops such as grains, oilseeds, legumes, or pasture, including land preparation, sowing, fertilizing, pest control, and harvesting. This occupation is on New Zealand's Green List related industries, enabling immigration through Skilled Migrant or Accredited Employer Work Visas.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书/文凭 | 1-2年 | $5,000~$15,000（新西兰农业证书或文凭课程，如林肯大学、南方理工学院） |
-| 学士学位 | 3年 | $20,000~$30,000（农业科学学士或相关学位） |
+| Certificate/diploma | 1-2 years | $5,000~$15,000 (New Zealand agricultural certificate or diploma programs, such as at Lincoln University, Southern Institute of Technology) |
+| Bachelor's degree | 3 years | $20,000~$30,000 (Bachelor of Agricultural Science or equivalent degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业证书（Level 4） | 新西兰学历认证局（NZQA） | 可选 | 基础资格，非强制但受欢迎 |
-| 农业科学文凭或学位 | 新西兰大学或理工学院 | 可选 | 高等教育提升竞争力 |
-| 雅思总分6.5（技术移民要求） | 雅思考试 | 必备 | 技术移民申请人需满足英语要求 |
+| IELTS overall 6.5 (required for skilled migration). | IELTS test | Required | Skilled migration applicants must meet English language requirements. |
+| New Zealand Certificate in Agriculture (Level 4) | New Zealand Qualifications Authority (NZQA) | Optional | Basic qualification, not mandatory but welcome |
+| Diploma or degree in agricultural science | New Zealand universities or polytechnics | Optional | Higher education boosts competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,200。新西兰农业是经济支柱，田间作物种植者需求稳定。随着可持续农业和出口导向型生产发展，优秀种植者就业前景良好，尤其在坎特伯雷、怀卡托等产区。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. New Zealand's agriculture is a pillar of the economy, and demand for field crop growers is stable. With the development of sustainable agriculture and export-oriented production, excellent growers have good job prospects, especially in Canterbury, Waikato, and other regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 农场助理或初级种植者 |
-| 中级（3-7年） | $55,000~$70,000 | 有经验的种植者或农场主管 |
-| 高级（7年以上） | $70,000~$90,000 | 农场经理或大型农场负责人 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Farm assistant or junior grower |
+| Mid-level (3–7 years) | $55,000~$70,000 | Experienced Grower or Farm Supervisor |
+| Senior (7+ years) | $70,000~$90,000 | Farm manager or large farm operator |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级农工可积累经验晋升为农场经理或合伙人；也可专精于作物科学、农业咨询或农业技术领域，管理大型农场或创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Junior agricultural workers can gain experience and advance to farm manager or partner; or specialize in crop science, agricultural consulting, or agtech, managing large farms or starting a business.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Plan, organize, and manage farm production of grain, oilseed, pulse, or pasture 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 从事绿色清单职业，工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民，满足6分制要求（学历+工作经验） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，有效期最长3年，可转居留 |
+| Subclass Green List T2 (Green List Work to Residence) | Engage in a green list occupation and apply for residency after 2 years of work |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration, meet 6-point system requirements (education + work experience) |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa with validity up to 3 years, can lead to permanent residency |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower？**
-- 热爱户外和农业工作，愿意在偏远地区生活
-- 具备机械操作和管理能力，能应对季节性忙碌
-- 有意通过技术移民定居新西兰的农业从业者
-
-**谁不适合学Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower？**
-- 不适应体力劳动和户外工作环境
-- 追求城市生活和稳定朝九晚五作息
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and agricultural work, willing to live in remote areas
+- Possesses mechanical operation and management skills, able to handle seasonal busyness
+- Agricultural workers intending to settle in New Zealand through skilled migration
+
+**Who is not suited**
+- Not suited to physical labor and outdoor work environments
+- Seeking urban lifestyle and stable 9-to-5 routine
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for field crop growers in New Zealand?**
+A: Entry-level about NZ$45,000-55,000, mid-level NZ$55,000-70,000, senior NZ$70,000-90,000, farm manager can reach over NZ$100,000.
+
+**Q: How to migrate to New Zealand for this occupation?**
+A: Transition to residency via Green List work (apply after 2 years of work) or skilled migration (6-point system), or first hold an accredited employer work visa then apply for residency.
+
+**Q: What educational background is required?**
+A: Usually requires an agricultural certificate or diploma; a bachelor's degree can enhance job competitiveness but is not mandatory, though preferred by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a field crop grower in New Zealand?**
-答：Entry-level NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-90,000, farm managers may earn over NZD 100,000.
-
-**问：How can this occupation immigrate to New Zealand?**
-答：Via Green List Work to Residence (apply after 2 years work), Skilled Migrant Category (6-point system), or Accredited Employer Work Visa leading to residence.
-
-**问：What education background is required?**
-答：Typically a certificate or diploma in agriculture; a bachelor's degree improves employability but is not mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

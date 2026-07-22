@@ -1,65 +1,95 @@
-# 矿山测量师（Mine Surveyor）职业分析 · 澳大利亚
+# Mine Surveyor — career analysis · Australia
 
-**职业代码：232612 – Mine Surveyor。**
+**Occupation code: 232612 (ANZSCO)**
 
-矿山测量师（Mine Surveyor）提供矿山地表和地下精密测量服务，包括爆破标定、进度测量和矿体建模。这是采矿行业中的专业技术岗位，通常需要测量学学位或工程学位，加上矿山测量从业执照。持续短缺，薪资远高于普通测量师。
+A Mine Surveyor provides precise surface and underground survey services within mine sites, including blast-hole marking, progress measurement, and orebody modelling. This is a specialist technical role in the mining industry, typically requiring a surveying or engineering degree plus a mine surveyor's licence. There is persistent demand shortfall, and salaries are significantly higher than those of general surveyors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Surveying or Mining Engineering | 3~4年 | $25,000~$45,000（国际留学生更高） |
-| Mine Surveyor Practising Certificate | 经验积累后申请 | $500~$2,000（各州矿监局颁发） |
-| 海外学历技能评估（Engineers Australia / AIES） | 6~12个月 | $1,000~$3,000（移民路径） |
+| Bachelor of Surveying or Mining Engineering | 3–4 years | $25,000~$45,000 (Higher for international students) |
+| Mine Surveyor Practising Certificate | Apply after gaining experience | $500~$2,000 (Issued by the state mining regulator in each jurisdiction) |
+| Overseas qualifications and skills assessment (Engineers Australia / AIES) | 6–12 months | $1,000~$3,000 (Migration pathway) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Surveying or Mining Engineering | 认可大学 | 必备 | 入行基础 |
-| Mine Surveyor Practising Certificate | 各州矿监局 | 必备 | 独立执业必备 |
+| Bachelor of Surveying or Mining Engineering | Recognised university | Required | Foundation for entering the industry |
+| Mine Surveyor Practising Certificate | State mining regulators | Required | Essential for independent practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 3,500。WA关键矿产项目激增，矿山测量师需求2025-2026年显著增加。无人机+LiDAR+数字孪生技术改变传统工作流，懂新技术的测量师高度抢手。
+**Job demand: very high (★★★★★).** National workforce approx. 3,500. WA critical minerals projects are surging, and demand for mine surveyors is rising significantly in 2025–2026. Drone + LiDAR + digital twin technologies are transforming traditional workflows, making surveyors with new technical skills highly sought after.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 60~150 个 | 全国，WA/QLD集中 |
-| Indeed | 30~80 个 | 矿山测量专职 |
-| LinkedIn | 20~60 个 | 大型矿业公司和测量咨询 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级矿山测量师（0~3年） | $90,000~$115,000 | 采矿行业基础 |
-| 中级（3~8年）FIFO | $120,000~$170,000 | WA矿山均值 |
-| 高级/首席测量师（8年+） | $170,000~$230,000 | 大型矿山或咨询公司 |
+| Median salary | $120,432 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Mine Surveyor (0–3 years) | $90,000~$115,000 | Mining industry foundation |
+| Mid-level (3–8 years) FIFO | $120,000~$170,000 | WA mining industry average |
+| Senior / Principal Quantity Surveyor (8+ years) | $170,000~$230,000 | Large mining company or consulting firm |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 无人机航测（UAV）和3D激光扫描快速替代传统全站仪，但矿山测量的专业判断仍需持证人员。矿山测量师是采矿业最难招募的专业之一。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Mine surveyors' core tasks of surveying, modeling, and blast marking will be deeply enhanced by AI and automation tools, but the hard constraint of legal liability and the unpredictability of underground on-site work mean the role will not disappear. Entry-level positions may narrow slightly due to lower technical barriers, but skilled surveyors will become more competitive.
+
+UAV aerial surveying and 3D laser scanning are rapidly replacing traditional total stations, but specialised judgement in mine surveying still requires licensed personnel. Mine surveyors are among the hardest-to-recruit professionals in the mining industry.
+
+**Tasks most exposed to AI:**
+
+- Automatic target recognition and reading in conventional surface and underground control surveys
+- Automatic Registration and Classification of Point Cloud Data from UAVs and Vehicle-Mounted Scans
+- Automatic calculation of blast hole positioning and calibration map generation in blasting design
+- Automated report generation for periodic mining progress measurement
+- Statistical calculation and basic 3D modeling for ore grade estimation
+
+**Where AI augments the role:**
+
+- AI-driven multi-source data fusion (LiDAR, geological models, production data) enables real-time mine updates
+- AI-assisted blasting optimization suggestions to improve fragmentation and reduce vibration risk
+- Automated compliance report generation, reducing paperwork time to focus on anomaly analysis
+- Machine Learning-Based Settlement Monitoring and Early Warning for Collapse Risk Identification
+- AR/VR-assisted remote collaborative measuring to reduce personnel underground exposure time
+
+**Human moat:**
+
+- Legal signing responsibility (licensing) for measurement results
+- Fault diagnosis and emergency judgment in complex underground environments
+- On-site collaboration communication with mining engineers and blasters
+- Deep understanding of measurement standards and health & safety regulations
+- Adaptive operations in unstructured environments (e.g., ultra-deep, high-temperature, high-gas conditions)
+
+**Skills to build:**
+
+- UAV Photogrammetry and Point Cloud Processing (Pix4D, ContextCapture)
+- Automated data processing and report generation with Python or R
+- 3D geological modeling software (Vulcan, Surpac, Datamine)
+- GIS and spatial database management
+- Application of sensors and IoT devices (auto total stations, LiDAR)
+- Data visualization and dashboard development (Power BI, Tableau)
+
+**Key growth areas:**
 
 - WA Gold & Nickel Mines
 - Critical Minerals New Projects
@@ -68,65 +98,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 矿业雇主担保 |
-| Subclass 189（Skilled Independent） | 独立技术移民，积分制 |
-| Subclass 190（Skilled Nominated） | WA/QLD优先 |
+| Subclass 482 (Skills in Demand) | Mining employer sponsorship |
+| Subclass 189 (Skilled Independent) | Independent skilled migration, points-tested |
+| Subclass 190 (Skilled Nominated) | WA/QLD priority |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学矿山测量师？**
-- 有测量或采矿工程学位，目标矿业高薪FIFO职业
-- 擅长空间数据和3D技术，有无人机或LiDAR经验加分
-
-**谁不适合学矿山测量师？**
-- 无测量或工程学历背景
-- 不接受FIFO矿区环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a surveying or mining engineering degree and is targeting high-paying FIFO roles in the mining sector
+- Strong spatial data and 3D technology skills; drone or LiDAR experience is an advantage
+
+**Who is not suited**
+- No surveying or engineering academic background
+- Not willing to work in FIFO mining environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a mine surveyor in Australia?**
+A: Mid-level FIFO mining surveyors earn approximately AUD $120,000–$170,000 per year. Senior/principal surveyors can reach $230,000+, making it one of the highest-paid specialisations in the mining sector.
+
+**Q: Is an overseas surveying qualification recognised in Australia?**
+A: Requires qualification assessment through Engineers Australia or AIES, then applying for state-level mine surveying license with work experience (requirements vary by state).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 232612 数据 |
-| Seek AU | Mine Surveyor 薪资及岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-矿山测量师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲矿山测量师工资多少？**
-答：中级FIFO矿山测量师年薪约 $120,000~$170,000。高级/首席可达 $230,000+，是矿业专业人才中收入最高的之一。
-
-**问：中国测量学历澳洲认可吗？**
-答：需通过Engineers Australia或AIES学历评估，再结合工作经验申请州级矿山测量执照（各州要求不同）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

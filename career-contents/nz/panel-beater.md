@@ -1,59 +1,95 @@
-# Panel Beater（Panel Beater）职业分析 · 新西兰
+# Panel Beater — career analysis · New Zealand
 
-**职业代码：324111 – Panel Beater。**
+**Occupation code: 324111 (ANZSCO)**
 
-Panel beater is a long-term skill shortage occupation in New Zealand, eligible for Green List Tier 1 direct residence. They repair vehicle collision damage including body straightening, panel replacement and structural welding, with stable employment and rising pay.
+Automotive panel beaters are on New Zealand's long-term skill shortage list and can apply for direct residence via the Green List. They primarily repair vehicle collision damage, including body straightening, panel replacement, and structural welding, with stable employment and significant salary growth with experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（学徒期间薪资约$25/小时，培训费$2000-6000/年） |
-| 预就业证书 | 1年 | $12,000~$18,000（如Otago Polytech的New Zealand Certificate in Collision Repair Level 4） |
+| Apprenticeship | 3-4 years | $0~$10,000 (Apprentice salary approx. $25/hour, training fees $2000-6000/year) |
+| Pre-employment certificate | 1 year | $12,000~$18,000 (e.g., Otago Polytech's New Zealand Certificate in Collision Repair Level 4.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NZ Certificate in Collision Repair (Level 4) | NZ Qualifications Authority | 必备 | 核心资格，含理论及实践 |
-| 在雇主处完成在职评估 | MITO（Motor Industry Training Organisation） | 可选 | 替代学徒制路径 |
-| 驾驶员执照 | NZ Transport Agency | 可选 | 至少Full License |
+| NZ Certificate in Collision Repair (Level 4) | NZ Qualifications Authority | Required | Core qualification, including theory and practice |
+| Complete on-the-job assessment at the employer | MITO（Motor Industry Training Organisation） | Optional | Alternative apprenticeship pathway |
+| Driver's license | NZ Transport Agency | Optional | At least a Full License |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。新西兰汽车保有量高，事故维修需求稳定；2024年极端天气频发导致冰雹理赔激增，钣金工时薪达$45-55。惠灵顿、基督城岗位空缺最多，预计未来5年增长15%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. New Zealand has high car ownership, ensuring steady demand for accident repairs; frequent extreme weather in 2024 led to a surge in hail damage claims, with panel beater hourly wages reaching $45-55. Wellington and Christchurch have the most job vacancies, with an expected 15% growth over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中偏高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 约$23-28/小时 |
-| 中级（3-6年） | $60,000~$75,000 | 约$30-38/小时 |
-| 高级（7年以上） | $80,000~$100,000 | 含主管岗位，$40-50/小时 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Approximately $23-28/hour |
+| Mid-level (3–6 years) | $60,000~$75,000 | Approximately $30-38/hour |
+| Senior (7+ years) | $80,000~$100,000 | Includes supervisory roles, $40-50/hour |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级钣金工可逐步升为高级技师、团队主管或开店。保险公司、大型维修连锁（如AA Auto Centre）提供技术认证及管理培训。部分技师转型汽车评估师或培训导师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
+
+Junior sheet metal workers can progress to senior technicians, team supervisors, or open their own shops. Insurance companies and large repair chains (e.g., AA Auto Centre) offer certification and management training. Some technicians transition to vehicle assessors or training instructors.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition to automatically assess vehicle damage and generate repair plans
+- Automated quotation system generating repair quotes
+- AI scheduling optimizes the order of maintenance work orders.
+- Digital twin simulation of collision repair processes to reduce trial and error
+- Automatic logging of repair progress and work hours
+
+**Where AI augments the role:**
+
+- AR glasses display damage analysis results and repair guidance to improve accuracy
+- AI-assisted detection of hidden damage to reduce omissions
+- 3D Scanning and Printing for Rapid Custom Sheet Metal Parts
+- Smart diagnostic tools analyze structural strength and optimize repair solutions.
+- VR training system simulates multiple collision scenarios to accelerate skill improvement
+
+**Human moat:**
+
+- Complex metal forming and craft restoration (e.g., hand shaping)
+- Comprehensive judgment of vehicle body structure and mechanical properties
+- Explaining repair plans and liability determination to clients
+- Handling unique issues of non-standard, older vehicle models
+- On-site safety assessment and emergency repair decisions
+
+**Skills to build:**
+
+- Operating AI-assisted damage assessment software
+- 3D scanning and reverse engineering technology
+- High-voltage safety knowledge for new energy vehicles
+- Use digital maintenance management platform
+- New material welding and bonding processes
+- Customer communication and insurance claims coordination.
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Long Term Skill Shortage List
@@ -62,68 +98,67 @@ Panel beater is a long-term skill shortage occupation in New Zealand, eligible f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 符合绿色清单直接居留资格，满足薪资中位数1.5倍（$39.48/小时）且有认证雇主offer即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主担保工签，时薪不低于中位数，工作2年后可转居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，学历/工作经验/薪资可累计积分 |
+| Subclass Green List T1 (Straight to Residence) | Eligible for Green List direct residence, meeting 1.5 times the median wage ($39.48/hour) with a job offer from an accredited employer |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, hourly wage not less than median, eligible for residence after 2 years of work |
+| Subclass SMC (Skilled Migrant Category) | 6-point Skilled Migrant system: points accumulated from education, work experience, and salary |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Panel Beater？**
-- 喜欢动手修理、对汽车结构有兴趣的人
-- 愿意在车间环境工作、能承受一定体力劳动的人
-- 已经持有相关学徒证书或希望靠蓝领技能移民的人
-
-**谁不适合学Panel Beater？**
-- 不喜欢噪音和灰尘环境的人
-- 期望办公室白领工作或完全避免体力劳动的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repair and are interested in car structures
+- People willing to work in a workshop environment and capable of some physical labor
+- Those who already hold relevant trade certificates or wish to immigrate through blue-collar skills
+
+**Who is not suited**
+- Those who dislike noisy and dusty environments
+- Those expecting office white-collar jobs or wanting to avoid manual labor entirely
+
+---
+
+## 8. FAQ
+
+**Q: What conditions are required for New Zealand auto body repair workers to immigrate?**
+A: Must have a certified employer job offer, hourly wage not less than 1.5 times the median (approx. $39.48/hr in 2025), can directly apply for Green List resident visa. If salary is lower, can first work on AEWV for 2 years then apply for residence. Requires a New Zealand-recognized Level 4 certificate or equivalent overseas qualification.
+
+**Q: What is the salary for an automotive panel beater in New Zealand?**
+A: Entry-level: NZD 45,000-55,000/year ($23-28/hour), intermediate NZD 60,000-75,000, senior NZD 80,000-100,000. Experienced technicians or supervisors can earn up to $50/hour. Part-time or apprenticeship wages are lower, but employers often provide training subsidies.
+
+**Q: How to obtain a New Zealand recognized sheet metal certificate?**
+A: Can be done through MITO apprenticeship or polytechnics (e.g., Otago Polytech) with the New Zealand Certificate in Collision Repair (Level 4). Overseas qualifications need NZQA assessment. Experienced technicians may apply for on-job assessment for recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏上（★★★★☆） |
-| 工作强度 | 中偏高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Panel Beater的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the migration requirements for panel beaters in NZ?**
-答：You need an offer from an accredited employer, hourly wage at least 1.5x median ($39.48/hr in 2025) to apply for Green List Straight to Residence visa. Alternatively, work on AEWV for 2 years then apply for residence. A NZ Level 4 certificate or equivalent overseas qualification is required.
-
-**问：What is the salary for panel beaters in NZ?**
-答：Entry level around $45-55k NZD/year ($23-28/hr), mid-career $60-75k, senior $80-100k. Experienced supervisors may earn $50/hr. Apprentices earn less but often receive training subsidies.
-
-**问：How to get a recognized panel beater qualification in NZ?**
-答：Complete a MITO apprenticeship or study for NZ Certificate in Collision Repair Level 4 at polytechnics. Overseas qualifications must be assessed by NZQA. Experienced workers may apply for on-job assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

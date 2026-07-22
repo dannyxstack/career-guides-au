@@ -1,58 +1,94 @@
-# Craft and Related Workers Not Elsewhere Classified（Craft and Related Workers Not Elsewhere Classified）职业分析 · IE
+# Craft and Related Workers Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：7549 – Craft and Related Workers Not Elsewhere Classified。**
+**Occupation code: 7549 (ISCO08)**
 
-Covers craft and repair workers not classified elsewhere, including various handcraft, precision machining and maintenance occupations, usually working in small workshops or on-site.
+Cover trade and maintenance workers not elsewhere classified, including various handicrafts, precision machining and repair occupations, usually working in small workshops or on-site.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（通常由国家资助，少量注册费） |
-| 职业培训证书 | 1-2年 | $500~$3,000（私立培训机构费用各异） |
+| Apprenticeship | 2-4 years | $0~$1,000 (Usually government-funded, with a small registration fee.) |
+| Vocational training certificate | 1-2 years | $500~$3,000 (Private training institution fees vary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关行业职业资格证书 | SOLAS / QQI | 可选 | 学徒完成后获得，部分地区要求持证上岗 |
-| 安全培训证书 | FETAC / Safe Pass | 必备 | 建筑业必备，证明基础安全知识 |
+| Safety training certificate | FETAC / Safe Pass | Required | Essential for construction industry, verifies basic safety knowledge |
+| Relevant industry professional qualifications | SOLAS / QQI | Optional | Obtained after completing an apprenticeship; some regions require a license to work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。爱尔兰建筑和制造业保持稳定需求，尤其都柏林及周边地区。但自动化替代风险存在，需持续提升技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Ireland's construction and manufacturing sectors maintain steady demand, especially in Dublin and surrounding areas. However, automation replacement risks exist, requiring continuous skill upgrading.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 学徒或新入职技工 |
-| 中级（3-7年） | $30,000~$40,000 | 熟练技工 |
-| 高级（7年以上） | $40,000~$50,000 | 高级技工或主管 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Apprentice or entry-level tradesperson |
+| Mid-level (3–7 years) | $30,000~$40,000 | Skilled tradesperson |
+| Senior (7+ years) | $40,000~$50,000 | Senior technician or supervisor |
+| average salary | $35,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可通过学徒制或职业培训晋升为高级技工、主管或自营工匠，部分人转向相关技术领域或管理岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+This occupation consists of many craft and maintenance trades; AI has limited direct impact, but some tasks can be replaced by automation and digital tools. Overall risk is moderate, requiring targeted skills upgrade.
+
+Can advance to senior technician, supervisor, or self-employed artisan through apprenticeships or vocational training; some move to related technical fields or management positions.
+
+**Tasks most exposed to AI:**
+
+- Simple repetitive repair diagnostics (e.g., automatic fault code identification)
+- Basic manual measuring and marking tasks (e.g., laser measuring replaces manual scribing)
+- Routine maintenance records and document generation (AI automated report generation)
+- Partial cutting, grinding, and other processes (replaced by CNC machines and robots)
+- Inventory check and sorting of standard parts (automated inventory system)
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AI analyzes sensor data to assist in locating issues
+- Design optimization: using CAD and simulation tools to improve process precision
+- Client communication: AI generates repair plan descriptions and quotes
+- Skills training: AR/VR guidance for complex operational steps
+- Quality inspection: computer vision identifies micro defects
+
+**Human moat:**
+
+- Customized manual craftsmanship for non-standard parts.
+- On-site environment adaptation and temporary solution design
+- Ability to comprehensively use multiple materials and tools
+- Client communication and trust building
+- Safety compliance and emergency response
+
+**Skills to build:**
+
+- Digital twin and CAD/CAM software operation
+- IoT device integration and data analysis
+- Basic debugging and maintenance of automation systems
+- Customer relationship management and use of digital communication tools
+- New material process knowledge (composites, 3D printing)
+- Project management and supply chain coordination
+
+**Key growth areas:**
 
 - general maintenance
 - small-scale manufacturing
@@ -61,67 +97,66 @@ Covers craft and repair workers not classified elsewhere, including various hand
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪至少30,000欧元（2024年标准），雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达到全国平均工资的1.5倍（约60,000欧元），通常不适用于此类职业。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupation in shortage, requires annual salary of at least 30,000 euros (2024 standard), employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions with an annual salary at least 1.5 times the national average (approx. €60,000), usually not applicable to this occupation. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Craft and Related Workers Not Elsewhere Classified？**
-- 动手能力强的人
-- 喜欢独立工作的人
-- 愿意从事体力劳动的人
-
-**谁不适合学Craft and Related Workers Not Elsewhere Classified？**
-- 期望高薪快速回报的人
-- 不擅长手工操作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills
+- People who prefer to work independently
+- People willing to engage in physical labor.
+
+**Who is not suited**
+- People expecting high salary and quick returns
+- People not good at manual work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Ireland?**
+A: Junior tradesperson annual salary about 25,000-30,000 euros, intermediate 30,000-40,000 euros, senior up to 50,000 euros.
+
+**Q: Can foreigners apply for a work visa for this occupation?**
+A: You can apply for a General Employment Permit, but it requires employer sponsorship and an annual salary of at least €30,000. This occupation usually does not qualify for a Critical Skills Permit.
+
+**Q: What is the future outlook for this occupation?**
+A: Demand is stable but with limited growth, affected by automation and overseas competition. Continuous skill updates are important for maintaining employment competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Craft and Related Workers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level craftspeople earn around €25,000-€30,000, mid-level €30,000-€40,000, and senior up to €50,000.
-
-**问：Can foreigners apply for a work visa for this occupation?**
-答：Yes, a General Employment Permit is possible with employer sponsorship and a salary of at least €30,000. Critical Skills Permit usually does not apply.
-
-**问：What is the future outlook for this occupation?**
-答：Demand is stable but growth limited, with automation and foreign competition. Continuous skill upgrading is important for competitiveness.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

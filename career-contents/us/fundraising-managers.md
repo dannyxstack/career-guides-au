@@ -1,58 +1,90 @@
-# Fundraising Managers（Fundraising Managers）职业分析 · 美国
+# Fundraising Managers — career analysis · United States
 
-**职业代码：11-2033 – Fundraising Managers。**
+**Occupation code: 11-2033 (SOC)**
 
-Fundraising managers plan, direct, or coordinate fundraising activities for special projects or nonprofit organizations, including developing strategies, managing donor relations, and organizing events.
+Fundraising managers plan, direct, or coordinate fundraising activities for special projects or nonprofit organizations, including developing strategies, managing donor relationships, and organizing events.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（学费因公立/私立大学差异大） |
-| 硕士学位 | 2年 | $30,000~$120,000（MBA或非营利管理硕士更有利） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Tuition varies greatly between public and private universities) |
+| Master's degree | 2 years | $30,000~$120,000 (MBA or Master's in Nonprofit Management is more advantageous) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 筹款管理证书 | CFRE International | 可选 | Certified Fund Raising Executive (CFRE) 是行业标准认证 |
-| 非营利管理硕士学位 | 各大学 | 可选 | 部分雇主优先考虑 |
+| Fundraising management certificate | CFRE International | Optional | Certified Fund Raising Executive (CFRE) is the industry standard certification |
+| Master's degree in nonprofit management. | Various universities | Optional | Some employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。美国非营利部门持续增长，预计2024-2034年就业增长约8%，快于平均水平。数字化转型和捐赠者期望提高推动需求，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. The US nonprofit sector continues to grow, with an estimated employment growth of about 8% from 2024-2034, faster than average. Digital transformation and rising donor expectations drive demand, but competition is intense.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 小型组织或助理职位 |
-| 中级（3-7年） | $65,000~$95,000 | 中型非营利组织 |
-| 高级（7年以上） | $95,000~$150,000 | 大型机构或捐赠型基金会 |
+| Median salary | $125,470 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Small organisations or assistant positions |
+| Mid-level (3–7 years) | $65,000~$95,000 | Medium-sized non-profit organization |
+| Senior (7+ years) | $95,000~$150,000 | Large institutions or endowment foundations |
+| average salary | $140,020 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径通常从筹款专员或活动协调员起步，积累经验后晋升为筹款经理，再升至总监或副总裁级别。部分人转向咨询或基金发展领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core work of fundraising managers (relationships and strategy) is hard to replace by AI, but supporting tasks (data organization, copywriting) can be largely automated. AI enhances rather than replaces, but generalist roles (e.g., writing fundraising emails) may be compressed.
+
+Career path typically starts as a fundraising officer or event coordinator, then progresses to fundraising manager, and then to director or vice president level. Some may transition to consulting or foundation development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate fundraising email templates and social media copy
+- Automated donor data cleaning, classification, and trend analysis
+- AI handles response and receipt issuance for small donations
+- Prediction report on fundraising campaign effectiveness based on historical data
+
+**Where AI augments the role:**
+
+- AI analyzes donor behavior patterns to recommend personalized engagement strategies
+- Predictive models help determine optimal fundraising timing and amount targets
+- AI monitors activity data in real time to assist in adjusting strategies
+- Chatbots handle common Q&A, freeing up manager time
+
+**Human moat:**
+
+- Build deep trust and long-term relationships with key donors
+- Customized, emotional communication (e.g., thank-you letters, crisis communication)
+- Complex negotiation and donation structure design (e.g., legacy donations)
+- Strategic alignment of ethical judgment with organizational mission
+
+**Skills to build:**
+
+- Application of AI tools (e.g., natural language generation, predictive analytics).
+- Data interpretation and visualization (Tableau/Power BI)
+- Digital marketing and social media strategy
+- Emotional intelligence and high-end customer relationship management
+- Agile project management and experimental design
+
+**Key growth areas:**
 
 - nonprofit sector growth
 - digital fundraising
@@ -61,69 +93,68 @@ Fundraising managers plan, direct, or coordinate fundraising activities for spec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于本科及以上学历的筹款经理职位，但需证明专业性。配额有限，竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于硕士以上学位或杰出能力者，需PERM劳工证。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于本科学位或同等经验，需PERM劳工证。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | EB-2或EB-3绿卡必经步骤，需证明无美国工人胜任。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to fundraising manager positions requiring a bachelor's degree or higher, but must demonstrate professionalism. Quota is limited, competition is intense. |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to those with a master's degree or higher, or exceptional ability; requires PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or equivalent experience; requires PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Mandatory step for EB-2 or EB-3 green card, must prove no qualified US workers available. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fundraising Managers？**
-- 善于沟通和人际关系建设
-- 有组织活动和策划能力
-- 对非营利使命有热情
-
-**谁不适合学Fundraising Managers？**
-- 不喜欢频繁社交和公众演讲
-- 不擅长处理数字和目标管理
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communication and relationship building skills
+- Organizational and event planning skills
+- Passionate about non-profit missions
+
+**Who is not suited**
+- Dislikes frequent socializing and public speaking
+- Not good at handling numbers and target management
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a fundraising manager?**
+A: According to BLS data, the median annual salary in 2023 was about $60,000, ranging from $45,000 to $150,000 depending on organization size and experience.
+
+**Q: Is it hard to get an H-1B visa for a fundraising manager?**
+A: Relatively difficult. This position requires proving it is a professional occupation, usually requiring a bachelor's degree or higher. H-1B quota is tight with low lottery odds, and employer sponsorship is needed.
+
+**Q: What is the career development path for a fundraising manager?**
+A: Can start as a fundraising officer, advance to manager, director, and eventually Chief Development Officer. With experience, can move into consulting or start own fundraising firm.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Fundraising Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for fundraising managers?**
-答：According to BLS, median annual wage is about $60,000 in 2023, ranging from $45,000 to $150,000 based on organization size and experience.
-
-**问：Is it difficult for fundraising managers to get an H-1B visa?**
-答：It's challenging. The position must qualify as a specialty occupation, usually requiring a bachelor's degree. H-1B cap is tight with low lottery odds, and employer sponsorship is necessary.
-
-**问：What is the career path for fundraising managers?**
-答：Start as fundraising specialist, advance to manager, director, and eventually Chief Development Officer. Experienced professionals may move into consulting or start their own firm.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

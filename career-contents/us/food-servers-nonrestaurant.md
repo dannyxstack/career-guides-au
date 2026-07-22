@@ -1,60 +1,95 @@
-# Food Servers, Nonrestaurant（Food Servers, Nonrestaurant）职业分析 · 美国
+# Food Servers, Nonrestaurant — career analysis · United States
 
-**职业代码：35-3041 – Food Servers, Nonrestaurant。**
+**Occupation code: 35-3041 (SOC)**
 
-Serve food in non-restaurant settings like hotels, hospitals, residential care facilities, or cars, including room service and hospital tray delivery.
+Providing food service in non-restaurant settings such as hotels, hospitals, nursing homes or via cars, e.g., delivering meals to rooms, hospital beds or curbside.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（无教育成本） |
-| 在职培训 | 1个月 | —（短期培训，部分雇主提供） |
+| High school diploma | 0 years | $0~$0 (No education cost) |
+| On-the-job training | 1 month | $0~$500 (Short-term training, some employers provide) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品服务员培训证书 | 社区学院或培训机构 | 可选 | 非强制，但有助于就业 |
-| 食品安全认证 | ServSafe或类似机构 | 可选 | 部分雇主或州要求 |
+| Food service worker training certificate | Community college or training institution | Optional | Not mandatory, but helpful for employment |
+| Food safety certification | ServSafe or similar organization | Optional | Required by some employers or states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 210,100。受老龄化社会推动，医院和养老院膳食服务需求稳定，但整体就业增长缓慢，预计2022-2032年岗位变化甚微。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 210,100. Driven by an aging society, demand for dietary services in hospitals and nursing homes is stable, but overall employment growth is slow, with minimal change expected from 2022 to 2032.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 小时工资约$11-$14 |
-| 中级（3-5年） | $28,000~$36,000 | 小时工资约$13-$17 |
-| 高级（5年以上） | $32,000~$40,000 | 小时工资约$15-$19 |
+| Median salary | $35,360 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Hourly wage approx. $11-$14 |
+| Mid-level (3–5 years) | $28,000~$36,000 | Hourly wage approximately $13-$17 |
+| Senior (5+ years) | $32,000~$40,000 | Hourly wage approximately $15-$19 |
+| average salary | $36,140 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径有限，可能升为主管或餐饮服务经理，也可转向餐厅服务员或食品准备岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Non-restaurant food servers will be affected by both AI automation and augmentation: simple delivery tasks are taken over, but demand for customer interaction and complex coordination skills increases.
+
+Limited advancement path; possible promotion to supervisor or food service manager, or transition to restaurant server or food preparation roles.
+
+**Tasks most exposed to AI:**
+
+- Using automated guided vehicles or robots to transport meals from the kitchen to wards or rooms
+- Using voice AI or chatbots to receive and process orders.
+- Automated billing and payment processing, reducing manual cashier work
+- Automatically monitor inventory via RFID or tracking systems, trigger replenishment
+- Automatically schedule delivery routes and times based on historical data and appointments
+
+**Where AI augments the role:**
+
+- AI provides real-time customer preferences and history for personalized recommendations
+- Augmented reality (AR) assists in visually displaying menus and nutritional information
+- Predictive analytics adjust meal preparation quantities, reducing waste and improving efficiency
+- Smart quality inspection system assists in judging food temperature and plating standards
+- Multilingual real-time translation helps non-native customers communicate
+
+**Human moat:**
+
+- Empathetic communication with clients, calming emotions and building rapport
+- Flexibility to handle emergencies (e.g., allergic reactions, special needs)
+- Multi-task coordination and team communication to ensure smooth service.
+- Provide humanized, warm service experiences that go beyond standard procedures
+
+**Skills to build:**
+
+- Use AI order management systems (e.g., Toast, Oracle Hospitality)
+- Basic data analysis and report interpretation (Excel/Tableau)
+- Customer Relationship Management (CRM) software operation
+- Team collaboration and cross-departmental communication skills
+- Adapt to maintenance and supervision of automated equipment (robots, AGVs)
+- Crisis handling and personalized service skills
+
+**Key growth areas:**
 
 - Low wage
 - High turnover
@@ -63,64 +98,66 @@ Serve food in non-restaurant settings like hotels, hospitals, residential care f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 季节性临时工作签证，但食品服务员通常不符合要求，因岗位非临时性。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Seasonal temporary work visa, but food servers usually do not qualify as the position is non-temporary. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Servers, Nonrestaurant？**
-- 希望快速就业、无需高学历的人
-- 喜欢与人互动、灵活排班的人
-- 愿意从事体力劳动、适应快节奏环境的人
+**Who is suited**
+- People seeking quick employment without high education requirements
+- People who enjoy interacting with others and having flexible schedules
+- Those willing to do manual labor and adapt to a fast-paced environment
 
-**谁不适合学Food Servers, Nonrestaurant？**
-- 追求高薪和职业晋升的人
-- 不喜欢站立工作和处理食物的人
+**Who is not suited**
+- People pursuing high salaries and career advancement
+- People who dislike standing work and handling food
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for non-restaurant food service workers?**
+A: According to US Bureau of Labor Statistics 2023 data, median annual salary approx. $29,000, but highly variable due to tips.
+
+**Q: Can non-restaurant food servers apply for US work visas?**
+A: Very difficult; the occupation typically does not meet skilled migration requirements. H-1B needs a bachelor's degree, H-2B is seasonal and non-typical.
+
+**Q: What are the career development opportunities for non-restaurant food servers?**
+A: May advance to supervisor or food service manager, but usually requires additional training or experience; can also switch to restaurant server or chef.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Food Servers, Nonrestaurant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a food server, nonrestaurant?**
-答：According to BLS 2023 data, median annual wage is about $29,000, but can vary due to tips.
-
-**问：Can food servers, nonrestaurant get a US work visa?**
-答：Rarely; H-1B requires a bachelor's degree, H-2B is seasonal and not typical for this role.
-
-**问：What are the career advancement opportunities?**
-答：Possible promotion to supervisor or food service manager, but typically requires extra training or experience; can switch to restaurant server or cook.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

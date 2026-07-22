@@ -1,62 +1,98 @@
-# Linguist / Language Scientist（Linguist / Language Scientist）职业分析 · DE
+# Linguist / Language Scientist — career analysis · Germany
 
-**职业代码：9110 – Linguist / Language Scientist。**
+**Occupation code: 9110 (KldB)**
 
-Conducts research in linguistics and literary studies, including philology, translation studies, and language documentation, typically employed in academia, research institutes, publishing, or media.
+Engage in language and literary science research, including linguistics, philology, translation studies, etc., typically working in universities, research institutions, or publishing and media fields.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（公立大学每学期注册费约150-400欧元，部分州对非欧盟学生收学费） |
-| 硕士 | 2年 | —（公立大学硕士基本免学费，仅收注册费；部分州对非欧盟学生收学费） |
-| 博士 | 3-5年 | —（博士通常有奖学金或职位，免学费） |
+| Bachelor's degree | 3-4 years | $0~$1,500 (Public university semester enrolment fee approx. 150-400 euros, some states charge tuition for non-EU students) |
+| Master's degree | 2 years | $0~$3,000 (Public university master's degrees are generally tuition-free, only charging registration fees; some states charge tuition for non-EU students) |
+| Doctorate | 3-5 years | $0~$0 (PhD candidates usually have scholarships or positions, tuition-free.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 语言学或相关专业硕士学位 | 德国大学 | 必备 | 通常需要完成硕士论文，部分职位要求博士 |
-| 博士学历 | 德国大学 | 可选 | 学术职位（教授）通常要求博士及 habilitation |
-| 资质认证（Anerkennung） | 德国认可机构（如Anabin） | 必备 | 非欧盟学历需进行学历认证，用于工作或学术 |
+| Master's degree in linguistics or related field | German university | Required | Usually requires a master's thesis, some positions require a PhD |
+| Qualification recognition (Anerkennung) | German recognition body (e.g., Anabin) | Required | Non-EU qualifications require credential assessment for work or academic purposes |
+| PhD degree | German university | Optional | Academic positions (professor) typically require a doctorate and habilitation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 16,700。德国语言学相关职位主要集中在高校和科研机构，竞争较为激烈，非学术岗位（如出版、媒体）需求稳定但有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 16,700. German linguistics-related positions are mainly in universities and research institutions, with relatively high competition; non-academic positions (e.g., publishing, media) have stable but limited demand.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | 研究助理或初级岗位，TV-L 13 级别 |
-| 中级（4-9年） | $45,000~$60,000 | 资深研究助理或非学术管理岗 |
-| 高级（10年以上） | $60,000~$80,000 | 教授或高级研究职位（W2/W3） |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$45,000 | Research assistant or entry-level position, TV-L 13 level |
+| Intermediate (4-9 years) | $45,000~$60,000 | Senior research assistant or non-academic management role |
+| Senior (10+ years) | $60,000~$80,000 | Professor or senior research position (W2/W3) |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但有限（★★☆☆☆）。** 职业路径通常从研究助理（Wissenschaftlicher Mitarbeiter）起步，进而成为教授或高级研究员。部分转向出版、媒体或企业语言技术领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on linguists' work structure is complex: core linguistic theory innovation is hard to replace, but many tasks like data collation, basic translation, and corpus annotation are automated, increasing competition for entry-level jobs while enhancing high-value analysis and cross-cultural research.
+
+Career path typically starts as a research assistant (Wissenschaftlicher Mitarbeiter), then progresses to professor or senior researcher. Some transition to publishing, media, or corporate language technology fields.
+
+**Tasks most exposed to AI:**
+
+- Basic text translation and proofreading (e.g., standard documents, common language pairs)
+- Automatic annotation and statistics of large-scale corpora
+- Basic language data cleaning and preprocessing
+- Common tasks in computational linguistics such as part-of-speech tagging and syntactic parsing
+- Automated scoring of standardized language tests
+
+**Where AI augments the role:**
+
+- Using AI for large-scale cross-lingual comparison and historical language reconstruction
+- Discovering rare language patterns or grammatical structures through machine learning models
+- Sociolinguistic Discourse Analysis Using NLP Tools
+- Use AI to assist in generating multilingual teaching materials and exercises
+- Use speech synthesis and recognition tools to deepen phonetics and phonology research
+
+**Human moat:**
+
+- Original linguistic theory construction and paradigm innovation
+- Interpretation and critical analysis of deep meanings in language and culture
+- Field investigation and documentation of endangered languages (requires interpersonal interaction and field experience)
+- Interdisciplinary research (e.g., language and cognition, culture, power relations)
+- Ethical and contextual judgment of AI output
+
+**Skills to build:**
+
+- Python programming and data analysis (e.g., pandas, NumPy)
+- Use of Natural Language Processing (NLP) frameworks (e.g., spaCy, HuggingFace)
+- Machine learning fundamentals and model fine-tuning
+- Corpus linguistics and computational tools (e.g., AntConc, CLARIN)
+- Data visualization (e.g., matplotlib, Tableau)
+- AI ethics and bias detection capability
+
+**Key growth areas:**
 
 - Academic Research
 - Digital Humanities
@@ -65,63 +101,65 @@ Conducts research in linguistics and literary studies, including philology, tran
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪不低于约43,800欧元（普通职业）或约39,600欧元（紧缺职业），但语言学非紧缺，需达到普通门槛 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有德国认可学历的工作合同，需通过资质认证 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力 |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of no less than about EUR 43,800 (for general occupations) or about EUR 39,600 (for shortage occupations), but linguistics is not a shortage field, so the general threshold must be met. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to work contracts with recognized German qualifications, requires credential evaluation |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Linguist / Language Scientist？**
-- 对语言科学有浓厚兴趣，愿意从事学术研究
-- 具备优秀德语和英语能力，能适应跨学科工作
-- 接受非高薪但稳定的职业路径
+**Who is suited**
+- Strong interest in language science, willing to pursue academic research
+- Proficient in German and English, able to work in interdisciplinary settings
+- Accepting a stable career path that may not be highly paid.
 
-**谁不适合学Linguist / Language Scientist？**
-- 追求高薪或快速晋升
-- 不喜欢长时间独自阅读和写作
+**Who is not suited**
+- Seeking high salary or rapid promotion
+- Dislikes long periods of solitary reading and writing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for linguists?**
+A: Entry-level positions (e.g., research assistant) earn approx. €38,000-45,000 per year, professors up to €60,000-80,000, but overall lower than IT and other industries.
+
+**Q: How can non-EU linguists migrate to Germany?**
+A: Need first to obtain a recognised German qualification or complete a skills assessment. Can apply for the EU Blue Card (subject to salary threshold) or a skilled migration visa, but competition is fierce and employers generally prefer EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定但有限（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Linguist / Language Scientist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for linguists?**
-答：Entry-level positions (e.g., research assistant) earn about €38,000-45,000 per year, while professors can earn €60,000-80,000, but overall lower than IT sectors.
-
-**问：How can non-EU linguists immigrate to Germany?**
-答：Need a recognized degree or credential evaluation. EU Blue Card (meeting salary threshold) or Skilled Worker Visa possible, but competition is high and employers prefer EU citizens.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

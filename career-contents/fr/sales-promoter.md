@@ -1,59 +1,95 @@
-# Sales Promoter（Sales Promoter）职业分析 · FR
+# Sales Promoter — career analysis · France
 
-**职业代码：D1501 – Sales Promoter。**
+**Occupation code: D1501 (ROME)**
 
-Promote product sales in retail or trade show settings through demonstrations, sampling, and direct consumer interaction to boost brand awareness.
+In retail or trade shows, product sales are boosted through demonstrations, trials, and other means, enhancing brand awareness and direct consumer interaction.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无强制要求 | —（通常无需特定文凭，但商业或销售培训课程（如CAP vente）有助于就业） |
-| BTS（高级技师证书） | 2年（BTS） | $1,000~$8,000（公立或私立学校学费差异大，也可通过学徒制免费） |
+| High school diploma or equivalent | No mandatory requirements | $0~$500 (Usually, no specific diploma is required, but business or sales training courses (such as CAP vente) can help with employment) |
+| BTS (Senior Technician Certificate) | 2 Years (BTS) | $1,000~$8,000 (There is a wide range of tuition fees between public and private schools, and apprenticeships are also available for free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性证书 | — | 可选 | 雇主通常看重沟通能力和销售经验，不强制证书 |
+| No mandatory certificates | — | Optional | Employers usually value communication skills and sales experience, and do not require certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国零售业对销售推广员需求稳定，尤其在消费品、科技产品领域，但合同多为短期或兼职，竞争一般。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. French retail has stable demand for sales promoters, especially in consumer goods and technology products, but contracts are mostly short-term or part-time, resulting in moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 多为SMIC（最低工资）起步，约19-21k，含奖金 |
-| 中级（3-7年） | $25,000~$32,000 | 加提成和绩效奖金，可达30k |
-| 高级（7年以上） | $32,000~$40,000 | 区域推广经理或团队领导，含全面奖金 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Most start at SMIC (minimum wage), about 19-21k, including bonuses |
+| Mid-level (3–7 years) | $25,000~$32,000 | With commissions and performance bonuses, it can reach up to 30k |
+| Senior (7+ years) | $32,000~$40,000 | Regional promotion manager or team leader, with full bonus |
+| average salary | $32,316 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为销售主管、区域推广经理，或转向市场营销、客户关系管理等岗位，需积累行业经验。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI on demonstrators and product promoters is mixed: AI can automate product demonstration scripts, customer Q&A generation, and video production, but human interaction, improvisation, and trust-building still rely on people. Entry-level positions face increased competition due to AI tools, but the barrier to entry has not significantly risen.
+
+You can be promoted to Sales Supervisor, Regional Promotion Manager, or transition to marketing, customer relationship management, and other roles, with industry experience required.
+
+**Tasks most exposed to AI:**
+
+- Using AI to generate product demo scripts and Q&A knowledge bases
+- Automate repetitive product introductions and basic information inquiries
+- Uses AI video production tools to replace live demo video recording
+- AI handles common customer inquiries and product comparisons
+- Automatically generate sales reports and customer feedback analysis
+
+**Where AI augments the role:**
+
+- AI analyzes customer behavior in real-time, recommending personalized presentation strategies
+- Augmented reality (AR) aided demonstrations to intuitively show product features
+- AI emotion recognition enhances interaction quality between presenters and clients
+- Smart knowledge base instantly pushes latest product information
+- AI generates multilingual presentation content to expand audience reach
+
+**Human moat:**
+
+- Build interpersonal trust and non-verbal communication (eye contact, tone of voice)
+- Adjusting presentation strategies on the fly based on live client reactions
+- Handle complex, multi-dimensional product questions and objections
+- Presentation skills incorporating brand storytelling and emotional narratives
+- Cross-cultural sensitivity and personalized customer relationship maintenance
+
+**Skills to build:**
+
+- Proficiency in AI presentation tools (e.g., Markup, Pictory)
+- Learn customer relationship management (CRM) systems
+- Acquire data analysis basics to interpret sales metrics
+- Improve public speaking and improvisation skills
+- Learn video editing and AR/VR basics
+- Understand digital marketing and social media promotion
+
+**Key growth areas:**
 
 - retail
 - field marketing
@@ -62,65 +98,67 @@ Promote product sales in retail or trade show settings through demonstrations, s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需雇主担保，证明职位无法由欧盟公民填补，通常要求至少Bac+2学历 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或特殊人才，如年轻毕业生（<30岁）有高薪offer或创新项目 |
+| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship is required, proving that the position cannot be filled by an EU citizen, usually requiring at least Bac+2 qualification |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or specialized talents, such as young graduates (< 30 years old) with high-paying offers or innovative projects |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Promoter？**
-- 外向、善于沟通、有销售热情的人
-- 愿意接受灵活工时（包括周末和节假日）
-- 刚进入职场或希望积累销售经验的人
+**Who is suited**
+- Outgoing, communicatory, and passionate about sales
+- Willingness to work flexible hours (including weekends and holidays)
+- People who are just starting out or looking to gain sales experience
 
-**谁不适合学Sales Promoter？**
-- 不喜欢频繁与人互动或面对拒绝的人
-- 偏好稳定固定工作时间和更高薪资的人
+**Who is not suited**
+- Dislikes frequent interactions with people or facing rejection
+- Those who prefer stable, fixed working hours and higher salaries
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a sales promoter in France?**
+A: Entry-level about €20,000–25,000 annual salary, mid-level €25,000–32,000, senior €32,000–40,000, bonus 10–30%.
+
+**Q: Can sales promoters go to France through skilled migration?**
+A: It is more challenging because the profession is not in short supply and usually requires fluency in French. Unless there is an employer-sponsored high-paying position, it is difficult to apply.
+
+**Q: What promotion paths are available for sales promoters?**
+A: You can be promoted to Sales Supervisor, Regional Promotion Manager, or move to positions such as marketing or product display.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Promoter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a sales promoter in France?**
-答：Entry-level around €20k-25k, mid-level €25k-32k, senior €32k-40k, with bonuses making up 10-30%.
-
-**问：Can a sales promoter immigrate to France as a skilled worker?**
-答：It's difficult, as the occupation is not in shortage and requires fluent French. Employer sponsorship with a high salary is needed.
-
-**问：What is the career progression for a sales promoter?**
-答：Promotion to sales supervisor, regional promotion manager, or transition to marketing, merchandising roles.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

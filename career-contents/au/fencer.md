@@ -1,60 +1,96 @@
-# Fencer（Fencer）职业分析 · 澳大利亚
+# Fencer — career analysis · Australia
 
-**职业代码：821311 – Fencer。**
+**Occupation code: 821311 (ANZSCO)**
 
-Fencers install, repair and replace metal, timber or wire fences for farms, residential, commercial and industrial sites. They require physical strength, measuring and cutting skills.
+Fencers install, repair, and replace metal, wood, or wire fences, widely used in farms, residential, commercial, and industrial sites. Requires physical strength, measurement, and cutting skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $5,000~$15,000（学徒期间工资较低，培训费由政府和雇主承担部分） |
-| 短期证书 | 6个月 | $2,000~$5,000（TAFE 提供的 fencing 相关短期课程） |
+| Apprenticeship | 3-4 years | $5,000~$15,000 (Apprentice wages are relatively low, with training costs partially covered by the government and employer) |
+| Short-term certificate | 6 months. | $2,000~$5,000 (Short-term fencing courses offered by TAFE) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 围栏工三级证书 | TAFE | 可选 | 学徒完成后的职业资格 |
-| 高空作业证 | SafeWork NSW | 可选 | 如涉及高空围栏安装 |
-| 白卡 | SafeWork Australia | 必备 | 建筑工地必备安全卡 |
-| 驾照 | 州交通局 | 必备 | C 类驾照，需驾驶车辆运输材料 |
+| White Card | SafeWork Australia | Required | Essential safety card for construction sites |
+| Driver's license | State Transport Authority | Required | Class C driver's license, required for transporting materials |
+| Certificate III in Fencing | TAFE | Optional | Vocational qualification after completing apprenticeship |
+| Working at heights certificate | SafeWork NSW | Optional | Such as installation of elevated guardrails |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。澳洲建筑和农业持续发展，围栏需求稳定。JSA 数据显示该职业未来5年就业增长平稳，年需求约3000人。偏远地区机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. With continued development in Australian construction and agriculture, fence demand remains stable. JSA data shows stable employment growth for this occupation over the next 5 years, with annual demand of about 3,000 positions. More opportunities in remote areas.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 学徒或新手，时薪约25-30澳元 |
-| 中级（3-5年） | $65,000~$80,000 | 熟练工，可独立完成复杂围栏 |
-| 高级（5年以上） | $80,000~$110,000 | 领班/承包商，收入取决于项目量 |
+| Median salary | $64,948 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Apprentice or beginner, hourly wage about 25-30 AUD |
+| Mid-level (3–5 years) | $65,000~$80,000 | Skilled worker capable of independently completing complex fencing |
+| Senior (5+ years) | $80,000~$110,000 | Foreman/contractor; income depends on project volume |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 学徒→熟练围栏工→领班→承包商或自雇。积累经验后可转向栅栏安装、围栏设计或项目管理。部分人转行建筑或 landscaping 。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fencing tasks are highly repetitive and physically demanding; design software and automated machinery will reduce low-skilled jobs, but on-site installation and repair still require human flexibility.
+
+Apprentice → Skilled Fencer → Foreman → Contractor or self-employed. With experience, can transition to fence installation, fencing design, or project management. Some move into construction or landscaping.
+
+**Tasks most exposed to AI:**
+
+- Use CAD/measurement software to automatically generate fence layouts and material lists
+- Automated cutting machinery (e.g., CNC) for metal/wood cutting
+- Robot welding or assembly of standard fencing modules
+- Drone surveying of site boundaries and terrain
+- Automatic quotation system generates cost estimates based on specifications
+
+**Where AI augments the role:**
+
+- View digital blueprints and measurement data on-site using tablets or AR glasses
+- Use AI to optimize material utilization and reduce waste
+- Update construction progress in real-time via mobile app and communicate with clients
+- Reduce physical strain using power tools and assistive robots
+- Use digital platforms to manage inventory and supply chain
+
+**Human moat:**
+
+- Handle uneven ground, rocks and other complex terrain conditions
+- Design and handcraft of custom decorative fences
+- On-site assessment and adjustments when repairing old or non-standard fences
+- Communicate face-to-face with customers to understand needs and provide professional advice.
+- Safe construction in confined spaces (e.g., steep slopes)
+
+**Skills to build:**
+
+- Learn to use CAD or sketching software (e.g., SketchUp)
+- Proficient in operating laser rangefinders and digital levels
+- Understand basic data analysis (e.g., material cost optimization)
+- Familiarity with project management or construction management apps
+- Obtain a forklift or elevated work platform operator license (adds multi-skilling)
+- Learn basic English to read technical documents and operation manuals
+
+**Key growth areas:**
 
 - Construction boom
 - Agriculture demand
@@ -63,69 +99,68 @@ Fencers install, repair and replace metal, timber or wire fences for farms, resi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有雇主提名，职业在 CSOL 上 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需482转186或直接申请 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，满足条件后可转191永居 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需州政府担保，部分州有额外要求 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires a nomination by an employer, and the occupation must be on the CSOL. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires 482 to 186 transfer or direct application |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional Sponsored Migration Scheme (temporary) visa, can transition to 191 permanent residence after meeting conditions |
+| Subclass 190 (Skilled Nominated Visa) | Permanent residency visa requiring state nomination; some states have additional requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fencer？**
-- 动手能力强、喜欢户外体力工作的人
-- 愿意在偏远地区工作以获得更多机会的人
-- 希望快速入门且不要求高学历的人
-
-**谁不适合学Fencer？**
-- 不喜欢户外、风吹日晒的人
-- 对重复性体力劳动感到厌倦的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy outdoor physical work
+- People willing to work in regional/remote areas for more opportunities
+- Those who want a quick start and do not require a high degree
+
+**Who is not suited**
+- People who dislike outdoor work, wind and sun exposure
+- People tired of repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary for fencing workers?**
+A: Junior fence worker annual salary about AUD 50,000-65,000; mid-senior up to AUD 80,000-110,000. Self-employed contractors earn higher but face business risks.
+
+**Q: How can a fencer immigrate to Australia?**
+A: Can apply via employer sponsorship visa 482/186 or regional 491/190 state nomination. Must complete skills assessment (e.g., TRA), IELTS 5-6.
+
+**Q: Are there career prospects for fencing contractors?**
+A: Can advance to foreman, project manager or self-employed contractor. You can also learn related skills (e.g., welding) to broaden your field.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fencer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a fencer?**
-答：Entry-level fencers earn around AUD 50,000-65,000 per year, while experienced fencers can earn AUD 80,000-110,000. Self-employed contractors may earn more but face business risks.
-
-**问：How can a fencer migrate to Australia?**
-答：Fencers can apply for employer-sponsored visas (482/186) or regional state-nominated visas (491/190). A skills assessment (e.g., TRA) and IELTS 5-6 are required.
-
-**问：Are there career prospects for fencers?**
-答：Fencers can advance to supervisor, project manager, or start their own business. Learning related skills like welding can broaden opportunities.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

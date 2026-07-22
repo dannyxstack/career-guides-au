@@ -1,60 +1,95 @@
-# Floor Layer and Tile Setter（Floor Layer and Tile Setter）职业分析 · NL
+# Floor Layer and Tile Setter — career analysis · Netherlands
 
-**职业代码：7122 – Floor Layer and Tile Setter。**
+**Occupation code: 7122 (ISCO08)**
 
-Specializes in installing tiles, marble, wood flooring, and other floor coverings in residential, commercial, and industrial settings.
+Responsible for laying tiles, marble, wood flooring and other floor materials, working in residential, commercial and industrial projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | —（部分项目免费，书籍和材料费约2000欧元） |
-| 在职培训 / 学徒制 | 2-3年 | —（通常雇主承担培训费用） |
+| Secondary vocational education (MBO) | 3-4 years | $0~$2,000 (Some projects free, books and materials cost around €2,000) |
+| On-the-job training / Apprenticeship | 2-3 years | $0~$500 (Training costs are usually covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰语能力 (B1/B2) | 没有官方强制要求，但雇主通常要求 | 可选 | 与客户和同事沟通必需 |
-| VCA 安全证书 | SSVV | 必备 | 基础职业安全证书 |
-| 相关 MBO 文凭或同等资格 | MBO 学校或知识中心 (Kenniscentrum) | 必备 | 通常需要完成 Level 2 或 3 课程 |
-| BRL 1002 认证（如适用） | Stichting Kwaliteit Vloer- en Wandafwerking | 可选 | 对于地板安装工作的质量认证 |
+| VCA safety certificate | SSVV | Required | Basic Occupational Safety Certificate |
+| Relevant MBO diploma or equivalent qualification | MBO school or knowledge centre (Kenniscentrum) | Required | Usually requires completing a Level 2 or 3 course |
+| Dutch language proficiency (B1/B2) | No official mandate, but employers often require | Optional | Communication with clients and colleagues is essential |
+| BRL 1002 certification (if applicable) | Stichting Kwaliteit Vloer- en Wandafwerking | Optional | Quality certification for floor installation work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。荷兰建筑业持续增长，旧房翻新和新建项目需求强劲，地板铺设工和瓷砖工就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The Dutch construction industry continues to grow, with strong demand for renovation and new build projects, offering good job prospects for floor layers and tile workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，取决于资质和雇主 |
-| 中级（3-8年） | $32,000~$42,000 | 税前年薪，有经验后收入增加 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪，可担任主管或自雇 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, depending on qualifications and employer |
+| Mid-level (3–8 years) | $32,000~$42,000 | Annual pre-tax salary, income increases with experience |
+| Senior (8+ years) | $42,000~$55,000 | Annual pre-tax salary, can work as supervisor or self-employed |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从学徒开始，积累经验后可晋升为工头或自雇承包商，也可专注于特殊材料或技术。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation poses low direct replacement threat to floor installers, but entry-level positions are compressed by smart measurement, automated cutting, and online design tools, reducing apprenticeship opportunities.
+
+Start as an apprentice, gain experience to become a foreman or self-employed contractor, or specialize in special materials or techniques.
+
+**Tasks most exposed to AI:**
+
+- Manual measurement using tape measure and level.
+- Manual cutting of floor materials (e.g., cutting carpet, sawing flooring)
+- calculate material quantities and waste
+- Generate simple installation plans and quotations
+
+**Where AI augments the role:**
+
+- Use AR or 3D scanning tools to quickly measure room dimensions
+- Generate floor laying patterns using AI design software
+- Use automatic cutting machines to improve material utilization
+- Use digital tools to present finished effects to clients
+- Manage project progress and material inventory via mobile app
+
+**Human moat:**
+
+- Installation in irregularly shaped rooms and complex corners
+- Fine manual skills for repairing old or damaged flooring.
+- Experience in assessing ground conditions and preparing base surfaces
+- Client communication and on-site problem-solving skills
+- Practical knowledge of material properties and installation techniques.
+
+**Skills to build:**
+
+- Using laser measurement and 3D scanning equipment
+- Operate CNC cutting machines and automatic cutting tools
+- Learn basic CAD or interior design software
+- Knowledge of floor material environmental and certification standards
+- Improving customer service and quotation skills
+- Understand basics of Building Information Modeling (BIM)
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -63,69 +98,68 @@ Specializes in installing tiles, marble, wood flooring, and other floor covering
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需雇主担保，收入门槛约€50,678（2024年30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需要一定学历和较高工资（约为€58,000以上） |
-| Subclass Orientation Year (Or（Orientation Year） | 在荷兰毕业或科研人员可申请一年找工作签证，找到工作后可转为工作居留 |
-| Subclass Working Holiday（Working Holiday Scheme） | 部分国家青年可在荷兰旅行并工作一年，但有限制 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migrants, requires employer sponsorship, income threshold approx. €50,678 (2024, aged 30+). |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled talent, requiring certain education and a relatively high salary (approximately €58,000 or above) |
+| Subclass Orientation Year (Or (Orientation Year) | Graduates or researchers in the Netherlands can apply for a one-year job-seeking visa, which can be converted into a work residence permit upon finding employment. |
+| Subclass Working Holiday (Working Holiday Scheme) | Young people from some countries can travel and work in the Netherlands for up to one year, but with restrictions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floor Layer and Tile Setter？**
-- 喜欢动手操作、注重细节的人
-- 能在体力劳动中保持精度和耐心
-- 愿意通过学徒制学习实用技能
-
-**谁不适合学Floor Layer and Tile Setter？**
-- 不喜欢体力劳动和现场灰尘
-- 期待快速高薪但不愿投入培训时间
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Can maintain precision and patience in physical labor
+- People willing to learn practical skills through apprenticeships
+
+**Who is not suited**
+- Dislikes physical labor and on-site dust
+- Expecting quick high pay but unwilling to invest in training time
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a floor layer in the Netherlands?**
+A: Junior approx. €25k-€32k, mid-level €32k-€42k, senior up to €55k; self-employed earn more but bear own costs.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as floor layers?**
+A: Typically applies for high-skilled migration or EU Blue Card through employer sponsorship, but this occupation is not on the regular shortage occupation list, requiring the employer to prove that no local workers can be recruited.
+
+**Q: What certificates are needed to work in the Netherlands?**
+A: Mandatory VCA safety certificate and MBO-related diploma (e.g., Level 2 or 3), BRL 1002 certification recommended. Dutch ability at B1 level improves employability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Floor Layer and Tile Setter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for floor layers in the Netherlands?**
-答：Entry-level €25k-€32k, mid-level €32k-€42k, senior up to €55k; self-employed can earn more but cover own costs.
-
-**问：How can a non-EU national migrate to the Netherlands as a floor layer?**
-答：Usually via employer sponsorship for Highly Skilled Migrant or EU Blue Card; however, it's not on official shortage lists, so employer must prove inability to find local workers.
-
-**问：What certifications are required to work as a floor layer in the Netherlands?**
-答：Mandatory VCA safety certificate and MBO diploma (Level 2/3); BRL 1002 recommended. Dutch language B1 helps.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

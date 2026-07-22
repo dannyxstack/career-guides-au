@@ -1,60 +1,92 @@
-# Sewing Machine Operator（Sewing Machine Operator）职业分析 · IE
+# Sewing Machine Operator — career analysis · Ireland
 
-**职业代码：8153 – Sewing Machine Operator。**
+**Occupation code: 8153 (ISCO08)**
 
-Sewing machine operators sew or repair products using industrial or domestic sewing machines in garment, textile, and furniture manufacturing industries. In Ireland, they are mainly employed in clothing production, upholstery, and industrial textiles.
+Sewing machine operators operate sewing machines in the clothing, textile, and furniture manufacturing industries to sew or repair products. In Ireland, this role is mainly concentrated in garment production, furniture upholstery, and industrial textiles.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学后短期培训 | 6个月-1年 | $500~$3,000（职业教育培训课程费用，公立学校较低） |
-| 学徒制 | 2年 | —（结合在职培训，雇主承担部分费用） |
+| Post-secondary short-term training | 6 months to 1 year | $500~$3,000 (Vocational education training course fees, public institutions are lower) |
+| Apprenticeship | 2 years | $0~$1,000 (Combined with on-the-job training, employer covers part of the cost.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缝纫技能证书 | 爱尔兰继续教育与培训委员会 (QQI) | 可选 | 完成相关课程后获得，非强制但利于就业 |
-| 高级缝纫技工资格 | 爱尔兰技能网络 (Skillnet) | 可选 | 行业认可，提升晋升机会 |
+| Sewing skills certificate | QQI (Quality and Qualifications Ireland) | Optional | Obtained after completing relevant courses, not mandatory but beneficial for employment |
+| Advanced sewing technician qualification | Skillnet Ireland | Optional | Industry-recognized, enhances promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500。爱尔兰纺织与服装制造业规模较小且持续萎缩，缝纫机操作员岗位需求有限，预计未来十年缓慢下降。但定制服装、修缮服务和环保时尚领域可能提供少量机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. Ireland's textile and apparel manufacturing industry is small and shrinking, with limited demand for sewing machine operators, expected to slowly decline over the next decade. However, custom clothing, repair services, and eco-friendly fashion may offer a few opportunities.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，培训期或入门岗位 |
-| 中级（3-7年） | $28,000~$34,000 | 有经验者可操作复杂机器或参与定制 |
-| 高级（7年以上） | $34,000~$40,000 | 高级技工、主管或自营裁缝 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, training or entry-level position |
+| Mid-level (3–7 years) | $28,000~$34,000 | Experienced individuals can operate complex machines or participate in customization |
+| Senior (7+ years) | $34,000~$40,000 | Senior technician, supervisor, or self-employed tailor |
+| average salary | $31,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 从初级操作员起步，可晋升为高级缝纫工、打版师或生产主管。部分从业者通过积累经验转向自营裁缝或小型服装作坊。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will augment rather than replace sewing machine operators, boosting productivity and quality through smart templates, automated defect detection, and real-time optimization, though low-end assembly line jobs may decrease.
+
+Starting as a basic operator, one can advance to senior sewer, pattern maker, or production supervisor. Some practitioners transition to running their own tailoring or small garment workshops through experience.
+
+**Tasks most exposed to AI:**
+
+- Simple repetitive straight-line sewing tasks
+- Manually check stitch quality and defects.
+- Manually adjust stitch parameters (e.g., stitch length, tension)
+
+**Where AI augments the role:**
+
+- AI-assisted design: automatically generates sewing paths and parameters based on CAD
+- Real-time quality monitoring: AI cameras detect skipped stitches and thread breaks and trigger alarms
+- Smart material management: AI predicts fabric usage and optimizes cutting
+- Remote fault diagnosis: AI analyzes machine anomalies and provides repair suggestions
+- Skills training: VR simulates complex processes, accelerating the learning curve
+
+**Human moat:**
+
+- Hands-on feel and experience with special fabrics (e.g., stretchy, lightweight, or high-tech textiles)
+- Custom high-precision stitching (e.g., fashion, automotive interiors)
+- Rapid diagnosis and manual repair of machine faults.
+- Complex three-dimensional cutting and manual adjustment
+
+**Skills to build:**
+
+- Operate AI-assisted sewing systems (e.g., smart templates, automatic thread change).
+- Basic CAD/CAM software use
+- Industrial robot collaboration skills
+- Data analysis: monitor OEE, process parameter optimization
+- Fabric science and specialty material handling
+
+**Key growth areas:**
 
 - Custom Clothing
 - Alterations
@@ -63,65 +95,67 @@ Sewing machine operators sew or repair products using industrial or domestic sew
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元的常规工作，缝纫机操作员通常不满足紧缺职业许可条件。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调派，适用于在爱尔兰分公司从事缝纫相关工作。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to regular jobs with an annual salary of at least €30,000; sewing machine operators typically do not meet the shortage occupation visa requirements. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-Corporate Transfer, applicable for sewing-related work in Irish branch. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sewing Machine Operator？**
-- 细心且有耐心，能长时间专注重复性手工操作
-- 追求稳定、技能型工作的人员
-- 希望在服装或纺织行业积累经验的新移民或学徒
+**Who is suited**
+- Meticulous and patient, able to focus on repetitive manual tasks for extended periods
+- Individuals seeking stable, skill-based jobs
+- New immigrants or apprentices looking to gain experience in the garment or textile industry
 
-**谁不适合学Sewing Machine Operator？**
-- 期望高收入或快速晋升者
-- 对自动化风险敏感且希望长期职业安全者
+**Who is not suited**
+- Those expecting high income or rapid promotion
+- For those sensitive to automation risk and seeking long-term career security
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of sewing machine operators in Ireland?**
+A: Entry-level annual salary around €22,000-28,000, experienced roles earn €30,000-34,000, senior technicians or self-employed can exceed €40,000.
+
+**Q: Can this occupation immigrate to Ireland through a work visa?**
+A: Sewing machine operator is not on Ireland's Critical Skills Occupation list; usually requires a regular work permit, and the annual salary must be above €30,000, making immigration thresholds relatively high.
+
+**Q: What is the future outlook for this occupation?**
+A: The textile manufacturing industry in Ireland is in continuous decline, with limited employment opportunities. Automation may replace some simple sewing jobs, but skilled positions such as customisation and repair are still in demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sewing Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for sewing machine operators in Ireland?**
-答：Entry-level salaries range from €22,000 to €28,000 per year. Experienced operators earn €28,000–€34,000, and senior or self-employed can exceed €40,000.
-
-**问：Can sewing machine operators immigrate to Ireland via work visa?**
-答：This occupation is not on the Critical Skills list. A General Employment Permit requires a salary of at least €30,000, making migration challenging.
-
-**问：What is the future prospect for this occupation?**
-答：The textile manufacturing sector in Ireland is declining, limiting job growth. Automation threatens simple tasks, but skilled roles in alterations, upholstery, and bespoke clothing may persist.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

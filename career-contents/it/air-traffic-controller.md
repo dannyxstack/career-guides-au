@@ -1,61 +1,95 @@
-# Air Traffic Controller（Air Traffic Controller）职业分析 · IT
+# Air Traffic Controller — career analysis · Italy
 
-**职业代码：3154 – Air Traffic Controller。**
+**Occupation code: 3154 (ISCO08)**
 
-Monitor and direct aircraft movements in airspace and on the ground to ensure safe and efficient air traffic flow.
+Responsible for monitoring and directing the safe and efficient operation of aircraft in airspace and on the ground, ensuring smooth air traffic.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 大学预备课程 | 1-2年 | —（部分课程有费用） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| University preparatory course | 1-2 years | $0~$10,000 (Some courses have fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 空中交通管制员执照 | ENAC (意大利民航局) | 必备 | 完成ENAC认可的培训课程并通过考试 |
-| 医用体检合格证 | ENAC指定医疗机构 | 必备 | 需通过严格的身体和心理检查 |
-| 英语能力证明 | ICAO等级 | 必备 | 需达到ICAO英语四级以上 |
+| Air traffic controller license | ENAC (Italian Civil Aviation Authority) | Required | Complete ENAC accredited training course and pass exam |
+| Medical examination certificate for employment. | ENAC-designated medical institutions | Required | Must pass rigorous physical and psychological examinations |
+| English proficiency proof | ICAO level | Required | Must achieve ICAO English Level 4 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。随着航空旅行恢复和空域现代化，预计需求稳定；需通过严格选拔和培训，竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. With air travel recovery and airspace modernization, demand is expected to be stable; requires rigorous selection and training, competition is intense.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪，包含基本工资和津贴 |
-| 中级（4-10年） | $55,000~$75,000 | 税前年薪，含业绩奖金 |
-| 高级（10年以上） | $75,000~$100,000 | 税前年薪，含夜班和加班补贴 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Pre-tax annual salary, including base salary and allowances |
+| Mid-level (4-10 years). | $55,000~$75,000 | Pre-tax annual salary, including performance bonuses |
+| Senior (10+ years) | $75,000~$100,000 | Pre-tax annual salary, including night shift and overtime allowances |
+| average salary | $66,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从机场塔台管制员晋升至区域管制中心，再至高级督导或管理岗位，需持续培训和考核。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Can progress from airport tower controller to area control center, then to senior supervisor or management roles, requiring ongoing training and assessment.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Air Traffic Modernization
 - Retirement Replacements
@@ -64,65 +98,67 @@ Monitor and direct aircraft movements in airspace and on the ground to ensure sa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能员工，需有工作合同和较高薪资门槛（通常为意大利平均工资1.5倍） |
-| Subclass Decreto Flussi（Decreto Flussi Quota Work Visa） | 年度配额工作签证，适用于非欧盟工人，需雇主担保并通过配额申请 |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled workers, requires a work contract and a high salary threshold (usually 1.5 times the average Italian salary) |
+| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Annual quota work visa, applicable to non-EU workers, requires employer sponsorship and quota application |
+
+**PR friendliness: medium (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air Traffic Controller？**
-- 抗压能力强，能在高压力环境下快速决策
-- 注重细节，有出色的空间感和多任务处理能力
-- 具备优秀的中英文沟通能力
+**Who is suited**
+- Strong resilience to stress, able to make quick decisions under high-pressure environments
+- Detail-oriented with excellent spatial awareness and multitasking skills
+- Excellent communication skills in both Chinese and English
 
-**谁不适合学Air Traffic Controller？**
-- 无法承受高强度心理压力者
-- 对轮班制工作不适应者
+**Who is not suited**
+- Unable to handle high psychological stress
+- Unsuitable for shift work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an air traffic controller in Italy?**
+A: Entry-level: approximately €40,000-€55,000, mid-level: €55,000-€75,000, senior: €75,000-€100,000 pre-tax annual salary.
+
+**Q: Can non-EU citizens become air traffic controllers in Italy via work visa?**
+A: Very difficult, as the profession typically only recruits Italian or EU citizens and requires passing strict ENAC selection. Non-EU citizens may try for a Blue Card, but the threshold is extremely high.
+
+**Q: What certifications are required for Italian air traffic controllers?**
+A: Must obtain a license from ENAC, ICAO English Level 4 or above, and a strict medical fitness certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 很高（★★★★½） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Air Traffic Controller属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an air traffic controller in Italy?**
-答：Junior: €40,000-55,000, mid-level: €55,000-75,000, senior: €75,000-100,000 gross per year.
-
-**问：Can non-EU citizens become air traffic controllers in Italy via work visa?**
-答：It is very difficult; the profession typically recruits only Italian/EU citizens. Non-EU may try Blue Card but requirements are extremely high.
-
-**问：What certifications are required to become an air traffic controller in Italy?**
-答：ENAC license, ICAO English Level 4 or above, and a strict medical fitness certificate.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Cashiers and Ticket Clerks (Except Bank)（Cashiers and Ticket Clerks (Except Bank)）职业分析 · ES
+# Cashiers and Ticket Clerks (Except Bank) — career analysis · Spain
 
-**职业代码：5500 – Cashiers and Ticket Clerks (Except Bank)。**
+**Occupation code: 5500 (CNO)**
 
-Operate cash registers at retail stores, supermarkets, and ticket offices, handling cash, card, and mobile payments while providing customer service.
+Operating cash registers in retail stores, supermarkets, ticket counters, and other venues to process cash, bank cards, and mobile payment transactions, and provide customer service.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无需正式教育 | —（通常提供在岗培训） |
-| FP Básico（基础职业培训） | 2年 | —（公立学校免费，私立约3000欧元/年） |
+| Junior high school graduation | No formal education required | $0~$0 (On-the-job training is usually provided) |
+| FP Básico (Basic Vocational Training) | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在岗培训 | 雇主 | 必备 | 上岗后由雇主提供收银操作和客户服务培训 |
+| On-the-job training | Employer | Required | After starting work, the employer provides training in cashier operations and customer service |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 280,000。西班牙零售业稳定，但自助结账和电子支付普及导致收银员需求缓慢下降。2023年从业人数约28万，预计就业机会主要来自人员更替。
+**Job demand: medium (★★½☆☆).** National workforce approx. 280,000. Spanish retail is stable, but self-checkout and e-payment are reducing demand for cashiers slowly. About 280k workers in 2023; job openings mainly from replacement.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，通常按最低工资或协议工资 |
-| 中级（3-6年） | $20,000~$24,000 | 税前年薪，视雇主和地区而定 |
-| 高级（6年以上） | $22,000~$28,000 | 税前年薪，含主管或经验丰富者 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, usually at the minimum wage or negotiated wage |
+| Mid-level (3–6 years) | $20,000~$24,000 | Pre-tax annual salary, depending on employer and location |
+| Senior (6+ years) | $22,000~$28,000 | Pre-tax annual salary, including supervisors or experienced candidates |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 可从收银员晋升为收银主管、部门经理或门店经理。但晋升空间有限，需额外学习零售管理或客户服务课程。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The roles of cashiers and ticket sellers are being rapidly compressed by self-checkout and mobile payments, but at the same time, AI is creating new tasks in customer data analysis, dynamic pricing, and personalized recommendations, requiring practitioners to shift to a "retail service + technical support" composite role.
+
+You can be promoted from cashier to cashier supervisor, department manager, or store manager. However, promotion opportunities are limited, so additional courses in retail management or customer service are required.
+
+**Tasks most exposed to AI:**
+
+- Scan product barcodes and calculate total price
+- Accept cash, bank cards, and other payments and give change
+- Handling transactions based on standard price tables
+- Print and distribute receipts or tickets
+- Answering simple targeted inquiries (such as restroom locations)
+
+**Where AI augments the role:**
+
+- Personalized product recommendations are provided through AI customer profiling
+- Use predictive analytics to dynamically adjust promotional pricing
+- Manage exception handling and customer guidance in the self-checkout area
+- Monitor inventory in real time and trigger automatic replenishment
+- Collect customer feedback to optimize service processes
+
+**Human moat:**
+
+- Handling complex returns, exchanges, disputes, and other situations that require human judgment
+- Building long-term trust with customers (such as community retail)
+- Emergency response capability for equipment failures and sudden system issues
+- Cross-cultural communication and emotional support (such as travel ticketing)
+- Body language and empathy transmission in face-to-face service
+
+**Skills to build:**
+
+- Operate the self-checkout system and backend operations
+- Using CRM and data analytics tools (such as Tableau)
+- Social media and online order management
+- Basic Python or Excel macro automation
+- Communication skills across sales and customer service
+- Basic inventory management and forecasting
+
+**Key growth areas:**
 
 - Self-service
 - E-commerce
@@ -62,64 +98,66 @@ Operate cash registers at retail stores, supermarkets, and ticket offices, handl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由西班牙雇主担保的全职工作居留，需证明职位无法由本地人填补。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Full-time work residence sponsored by a Spanish employer requires proof that the position cannot be filled by a local resident. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cashiers and Ticket Clerks (Except Bank)？**
-- 愿意从事简单重复性工作的求职者
-- 寻找入门级零售工作的人员
-- 善于基础计算和现金处理的细心人士
+**Who is suited**
+- Job seekers willing to engage in simple, repetitive tasks
+- People looking for entry-level retail jobs
+- Skilled in basic calculations and cash handling
 
-**谁不适合学Cashiers and Ticket Clerks (Except Bank)？**
-- 追求高薪和职业发展机会者
-- 偏好技术或创造性工作的人
+**Who is not suited**
+- Those seeking high salaries and career development opportunities
+- People who prefer technical or creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a cashier?**
+A: Junior cashiers earn about €16,000-20,000 before tax annually, with experienced cashiers reaching €22,000-28,000.
+
+**Q: Can foreigners immigrate to Spain through cashier work?**
+A: Difficult. Cashiers are not an occupation in shortage; immigration usually requires that the position cannot be filled by locals and salary must exceed thresholds, while cashier salaries are generally low.
+
+**Q: Is there room for promotion for cashiers?**
+A: Limited. Usually, you can be promoted to cashier supervisor or department manager, but additional training in retail management is required. The promotion cycle is about 3-5 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cashiers and Ticket Clerks (Except Bank)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cashier?**
-答：Entry-level cashiers earn €16,000-€20,000 gross per year, experienced ones can reach €22,000-€28,000.
-
-**问：Can foreigners immigrate to Spain as cashiers?**
-答：Very difficult. Cashiers are not shortage occupations, and immigration authorities require proof that the position cannot be filled locally, while salaries are low.
-
-**问：Is there career progression for cashiers?**
-答：Limited. They can advance to cashier supervisor or department manager, but need additional training in retail management. Typical progression takes 3-5 years.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

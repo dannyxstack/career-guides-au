@@ -1,60 +1,96 @@
-# Mechanical Assembly Fitter（Mechanical Assembly Fitter）职业分析 · FR
+# Mechanical Assembly Fitter — career analysis · France
 
-**职业代码：H2909 – Mechanical Assembly Fitter。**
+**Occupation code: H2909 (ROME)**
 
-Assembles, adjusts, and tests mechanical parts and components according to technical drawings and specifications to ensure products meet quality and performance standards.
+Responsible for assembling, adjusting, and testing mechanical components according to drawings and technical specifications to ensure products meet quality standards and performance requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 机械装配 | 2年 | —（公立学校免费，仅注册费；学徒制带薪） |
-| BTS 机械设计与生产 | 2年 | —（公立学校免费，私立高商学费较高；可学徒） |
-| Licence Pro 机械工程 | 1年（本科后） | —（公立大学免费，私立院校收费；可alternance） |
+| CAP mechanical assembly | 2 years | $0~$1,500 (Public schools are free, only the registration fee is required; Apprenticeships are paid with pay) |
+| BTS mechanical design and production | 2 years | $0~$3,000 (Public schools are free, while private commercial schools have higher tuition fees; and can be apprentices) |
+| Licence Pro Mechanical Engineering | 1 year (after undergraduate) | $0~$5,000 (Public universities charge free, private institutions charge fees; Alternance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 机械装配工 | 教育部 | 必备 | 基础职业文凭，必备入门资质 |
-| BTS 机械设计与生产 | 教育部 | 可选 | 高级技术文凭，提升就业竞争力 |
-| CQP 工业装配工 | 行业组织 | 可选 | 行业认证，证明熟练技能 |
+| CAP mechanical assembler | Ministry of Education | Required | Basic vocational diploma, essential entry-level qualifications |
+| BTS mechanical design and production | Ministry of Education | Optional | Advanced technical diplomas to enhance employment competitiveness |
+| CQP Industrial Assembler | Industry organizations. | Optional | Industry certification, proving proficient skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 120,000。法国制造业特别是航空、汽车和工业设备领域对熟练装配工需求稳定。随着工业4.0和自动化升级，对掌握新技术的高素质装配工需求上升。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 120,000. French manufacturing, especially in aviation, automotive, and industrial equipment, has stable demand for skilled assemblers. With Industry 4.0 and automation upgrades, the demand for highly skilled assemblers mastering new technologies is rising.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，包含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，视企业规模和地区 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含团队管理津贴 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary, depending on company size and region. |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including team management allowance |
+| average salary | $29,076 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级装配工做起，积累经验后可晋升为团队负责人或技术专家，也可向质量控制、生产管理或工艺工程师方向发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
+
+Starting as a junior assembler, after gaining experience, you can be promoted to team leader or technical expert, or you can move on to quality control, production management, or process engineer.
+
+**Tasks most exposed to AI:**
+
+- Manual soldering and component insertion of PCB boards
+- Repetitive wiring and bundling of harnesses
+- Fixed-rule-based circuit function testing
+- Visual inspection of product appearance
+- Material handling and simple sorting
+
+**Where AI augments the role:**
+
+- Use AI vision systems for high-precision component positioning and assembly guidance.
+- Use data analytics to predict equipment failures and optimise maintenance schedules
+- Simulates and tunes complex electronic systems using digital twins.
+- Use smart tools for real-time quality feedback and adjustments
+- AI-based production line scheduling optimization and resource allocation
+
+**Human moat:**
+
+- Flexible adjustments for non-standard or high-precision manual assembly
+- on-site diagnosis and creative resolution of complex faults
+- Team collaboration and cross-process communication coordination
+- Small-batch manual prototyping for new product trials
+- Comply with safety protocols and handle emergencies
+
+**Skills to build:**
+
+- Industrial robot programming and maintenance
+- Basic operation of PLC/SCADA systems
+- AI fundamentals and machine learning introduction
+- Data analysis tools (e.g., Python/Pandas)
+- IoT and integrated systems knowledge
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Industrial Manufacturing
 - Aerospace
@@ -63,65 +99,64 @@ Assembles, adjusts, and tests mechanical parts and components according to techn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇于法国企业的工作居留，由雇主担保，需符合劳动市场测试 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，如工程师或专家，简化手续，有效期4年 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于高薪职位（年薪至少约54k€），但装配工薪资通常不达标 |
+| Subclass Salarié (Employee Work Permit) | Work residence employed by a French company, sponsored by the employer, must meet the labor market test |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents such as engineers or experts, procedures are simplified, valid for 4 years |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card applies to high-paying positions (annual salary of at least about €54k), but assembler salaries usually fall short of the standard |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Assembly Fitter？**
-- 喜欢动手操作、注重细节的人
-- 有机械或技术背景的求职者
-- 愿意通过学徒制边学边赚的人
-
-**谁不适合学Mechanical Assembly Fitter？**
-- 不擅长重复性体力工作的人
-- 对严格质量和安全标准缺乏耐心的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Candidates with mechanical or technical backgrounds
+- Those willing to earn while learning through an apprenticeship
+
+**Who is not suited**
+- Not suited for repetitive physical work
+- People who lack patience for strict quality and safety standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a mechanical assembler in France?**
+A: Entry-level about 22-26k€, mid-level 26-32k€, senior up to 40k€ (pre-tax annual salary). Salary depends on region, industry, and experience.
+
+**Q: How can foreigners immigrate to France through mechanical assemblers?**
+A: You can access the Salarié work residence (employer sponsorship) or Passeport Talent (high-skilled talent) pathways. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Assembly Fitter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mechanical assembly fitters in France?**
-答：Entry-level: €22k-26k, mid-level: €26k-32k, senior: up to €40k gross annual. Varies by region, industry, and experience.
-
-**问：How can foreigners migrate to France as mechanical assembly fitters?**
-答：Via the Salarié work permit (employer sponsorship) or Passeport Talent (high-skilled). EU citizens have free movement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

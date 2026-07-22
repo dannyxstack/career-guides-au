@@ -1,66 +1,96 @@
-# 过程工程师（Process Engineer）职业分析 · 澳大利亚
+# Process Engineer — career analysis · Australia
 
-**职业代码：233912 – Process Engineer。**
+**Occupation code: 233912 (ANZSCO)**
 
-过程工程师设计和优化工业生产流程，广泛服务于油气、矿业、化工和食品加工行业。澳洲LNG出口、关键矿物加工和新能源产业链持续扩张，为过程工程师提供丰富机会，薪资水平极具吸引力。
+Process engineers design and optimise industrial production processes, serving the oil and gas, mining, chemical, and food processing industries. Australia's ongoing LNG exports, critical minerals processing, and the expanding clean energy supply chain create abundant opportunities for process engineers at highly attractive salary levels.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Chemical/Process Engineering | 4年 | $32,000~$56,000（国际生约$160k~$210k总费） |
-| Engineers Australia Competency Assessment | 2~5年经验积累 | $500~$2,000（CPEng申请） |
-| Oil & Gas / Mining Sector On-the-Job Training | 持续进修 | —（行业特定培训） |
+| Bachelor of Chemical/Process Engineering | 4 years | $32,000~$56,000 (International students approx. $160k–$210k total cost) |
+| Engineers Australia Competency Assessment | 2–5 years of experience accumulation | $500~$2,000 (CPEng application) |
+| Oil & Gas / Mining Sector On-the-Job Training | Continuing professional development | $0~$5,000 (Industry-specific training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Chemical/Process Engineering | 认可大学 | 必备 | 入行基础 |
-| MIEAust / CPEng | Engineers Australia | 可选 | 专业执照 |
-| Functional Safety Engineer (FSE) | TÜV/exida | 可选 | 油气行业加分项 |
+| Bachelor of Chemical/Process Engineering | Recognised university | Required | Foundation for entering the industry |
+| MIEAust / CPEng | Engineers Australia | Optional | Professional licence |
+| Functional Safety Engineer (FSE) | TÜV/exida | Optional | Oil & gas industry bonus qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 9,000。澳洲锂矿、镍矿等关键矿物加工产业链本地化趋势2025-2030年持续推进，LNG出口设施维护升级也产生大量需求。能源转型新装置建设将为过程工程师带来充足就业机会。
+**Job demand: very high (★★★★★).** National workforce approx. 9,000. The trend toward localising Australia's critical minerals processing supply chain — including lithium and nickel — is expected to continue from 2025 to 2030, and LNG export facility maintenance and upgrades are also generating significant demand. The construction of new energy-transition installations will create ample employment opportunities for process engineers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~350 个 | 2025年均值 |
-| Indeed | 120~200 个 | 2025年均值 |
-| LinkedIn | 150~260 个 | 2025年均值 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $80,000~$100,000 | Graduate Process Engineer |
-| 中级（3-8年） | $105,000~$150,000 | Process Engineer |
-| 高级（8年+） | $155,000~$220,000 | Senior/Principal Engineer |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $80,000~$100,000 | Graduate Process Engineer |
+| Mid-level (3–8 years) | $105,000~$150,000 | Process Engineer |
+| Senior (8+ years) | $155,000~$220,000 | Senior/Principal Engineer |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 数字孪生技术和流程模拟软件（Aspen、HYSYS）广泛应用，AI辅助工艺优化成新趋势。油气行业经验可横向迁移至矿业和新能源领域，拓宽了职业发展路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks for process engineers—process modeling, data analysis, and documentation—are rapidly being replaced by AI automation tools, but on-site optimization, safety compliance, and cross-team coordination remain human-led. Entry-level roles are significantly narrowing, while experience value increases.
+
+Digital twin technology and process simulation software (Aspen, HYSYS) are widely adopted, with AI-assisted process optimisation emerging as a new trend. Oil and gas experience transfers readily into mining and renewable energy sectors, broadening career pathways.
+
+**Tasks most exposed to AI:**
+
+- Process simulation and optimization (using AI models to automatically generate optimal parameters)
+- Production data analysis and report generation (insights output in natural language)
+- Standardized calculations and documentation in process design
+- Fault diagnosis and predictive maintenance suggestions based on historical data
+- Automatic generation and review of draft compliance reports
+
+**Where AI augments the role:**
+
+- Use AI for multi-variable process optimization and digital twin simulation.
+- Real-time monitoring and anomaly alerts, combined with AI-recommended interventions
+- Discover new process improvements by analyzing massive historical data through machine learning
+- Rapidly generate and iterate multiple process design options for decision-making
+- Automatically generate draft compliance documents; engineers focus on review and decision-making
+
+**Human moat:**
+
+- On-site anomaly handling and safety risk assessment (requiring physical perception and judgment)
+- Cross-departmental (production, maintenance, safety) coordination and interest balancing
+- Innovative process flow design and non-standard problem solving
+- Take ethical and responsible ownership throughout the entire process lifecycle.
+- Communication and leadership to persuade management to adopt change
+
+**Skills to build:**
+
+- AI/ML modeling (e.g., Python, TensorFlow, process simulation software)
+- Digital twin and industrial IoT platform operation
+- Data analysis and statistical process control (SPC)
+- Process safety and risk management (e.g., HAZOP)
+- Project management and cross-functional collaboration skills
+- Basic programming and API calling ability
+
+**Key growth areas:**
 
 - LNG & Gas Processing
 - Mining Mineral Processing
@@ -69,66 +99,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，工程紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名，WA/QLD开放 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, engineering shortage |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination; WA/QLD open |
 
-**PR难度：较易（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学过程工程师？**
-- 有化工/化学工程背景者
-- 能接受FIFO（fly-in fly-out）工作模式者
-- 喜欢工艺优化与数据分析结合工作者
-
-**谁不适合学过程工程师？**
-- 不接受轮班或远程驻场者
-- 偏好纯办公室环境者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a chemical or chemical engineering background
+- Willing to accept FIFO (fly-in fly-out) work arrangements
+- Suited to those who enjoy combining process optimisation with data analysis
+
+**Who is not suited**
+- Does not accept shift work or remote site postings
+- Those who prefer a purely office-based environment
+
+---
+
+## 8. FAQ
+
+**Q: How much do process engineers earn in Australia?**
+A: Junior approx. AUD 80k~100k, Mid-level 105k~150k, Senior/Principal Engineer 155k~220k, Mining FIFO with additional allowances.
+
+**Q: How is the market for process engineers in Australia?**
+A: WA and QLD have the strongest demand from mining and oil & gas sectors. Seek consistently lists 200–350 active roles nationally, with rapid expansion in critical minerals processing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 233912 过程工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较难（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较易（★★☆☆☆） |
-
-过程工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：过程工程师在澳洲薪资怎么样？**
-答：初级约AUD 8万~10万，中级10.5万~15万，高级/主任工程师15.5万~22万，矿业FIFO有额外津贴。
-
-**问：澳洲过程工程师市场如何？**
-答：WA和QLD矿业及油气行业需求最旺，全澳Seek常年有200~350个活跃职位，关键矿物加工产业快速扩张。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

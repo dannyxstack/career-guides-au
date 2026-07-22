@@ -1,61 +1,95 @@
-# Street Food Salespersons（Street Food Salespersons）职业分析 · IT
+# Street Food Salespersons — career analysis · Italy
 
-**职业代码：5212 – Street Food Salespersons。**
+**Occupation code: 5212 (ISCO08)**
 
-Sell ready-to-eat food in streets or markets, a key part of Italy's street food culture, common in tourist areas and festivals.
+Selling ready-to-eat food from street stalls or markets is a key part of Italian street food culture, commonly found in tourist areas and during holidays.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定要求 | 0 | —（通常无学历要求） |
-| 短期培训 | 1-3个月 | $500~$2,000（食品安全培训认证） |
+| No specific requirements | 0 | $0~$0 (Typically no formal education requirement) |
+| Short-term training | 1-3 months. | $500~$2,000 (Food Safety Training Certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 地方卫生局 | 必备 | 在意大利从事食品销售必须持有HACCP认证 |
-| 摊位许可证 | 市政当局 | 必备 | 需向当地政府申请，费用因城市而异 |
-| 增值税号(VAT) | 意大利税务局 | 必备 | 作为自雇者需要注册 |
+| Food safety certificate | Local Health District | Required | HACCP certification is required to sell food in Italy. |
+| Stall License | Municipal government | Required | Need to apply to local government, fees vary by city |
+| VAT (Value Added Tax) | Italian Revenue Agency | Required | Requires registration as a self-employed person |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。随着旅游业复苏，街头食品销售需求稳定增长，但受季节性影响较大，意大利南部及旅游城市机会更多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. With tourism recovery, street food sales demand grows steadily, but is highly seasonal, with more opportunities in southern Italy and tourist cities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$18,000 | 往往为兼职或季节性工作 |
-| 中级（3-6年） | $18,000~$25,000 | 旺季收入较高 |
-| 高级（6年以上） | $25,000~$35,000 | 拥有固定摊位和回头客 |
+| Median salary | $21,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $12,000~$18,000 | Often part-time or seasonal work |
+| Mid-level (3–6 years) | $18,000~$25,000 | Higher income during peak season |
+| Senior (6+ years) | $25,000~$35,000 | Fixed stall and repeat customers |
+| average salary | $22,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从流动摊位升级至固定摊位或小型食品车，积累客户后可能开设小型餐饮店，但晋升空间有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Street food vendors face mixed impacts from AI/automation: some tasks like order taking, cashiering, and inventory management are easily automated, but core activities such as social interaction, on-site cooking, and stall atmosphere creation are enhanced by AI tools (e.g., smart ordering, data analysis), raising entry requirements but maintaining a moat.
+
+Can upgrade from a mobile stall to a fixed stall or small food truck, and after building a customer base, may open a small restaurant, but promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Handling cash payments and change is replaced by mobile payments or self-service terminals
+- Menu display and order recording are handled by tablets or voice ordering systems
+- Inventory counting and ingredient ordering are handled by automated stock systems
+- Simple standardized food production (e.g., pre-packaged sandwiches) is replaced by automated cooking equipment.
+
+**Where AI augments the role:**
+
+- Social media marketing: AI tools automatically generate food photos/videos and recommend posting times to attract customers
+- Dynamic Pricing: adjust prices based on weather, time, and foot traffic data to maximize revenue
+- Personalized recommendations: analyze customer purchase history to identify preferences and offer tailored suggestions
+- Multilingual translation: real-time translation devices assist communication with foreign tourists, enhancing service experience
+- Compliance assistance: AI automatically checks food shelf life and hygiene indicators to ensure compliance with local regulations
+
+**Human moat:**
+
+- In-person interpersonal interaction and emotional connection (e.g., chatting with regulars, holiday greetings)
+- Adjust recipes onsite according to customer preferences (e.g., spiciness level, ingredient combinations).
+- Flexibility to handle unexpected situations (e.g., temporarily changing the menu due to ingredient shortages)
+- Ability to narrate stories about local cultural features (e.g., explaining ingredient sources, cooking traditions)
+
+**Skills to build:**
+
+- Basic AI tool operation: using smart ordering systems, inventory management software, and social media automation publishing tools
+- Data analysis skills: using sales data to optimize menus, pricing, and operating hours
+- Digital marketing: managing Instagram, TikTok, etc., creating short-form video content
+- Food safety and hygiene regulations: obtain certifications such as HACCP
+- Multilingual basics: English + another foreign language (e.g., Chinese, Spanish) to serve tourists
+- Customer Relationship Management: Use CRM tools to record regular customer preferences.
+
+**Key growth areas:**
 
 - Tourism-driven
 - Seasonal
@@ -64,65 +98,67 @@ Sell ready-to-eat food in streets or markets, a key part of Italy's street food 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟季节性工人，每年配额有限，需雇主担保。 |
-| Subclass 自雇工作签（Self-Employment Visa） | 适合证明有足够资金和商业计划的自雇摊主，门槛较高。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers, annual quota is limited and requires employer sponsorship. |
+| Subclass Self-Employed Work Permit (Self-Employment Visa) | Suitable for self-employed vendors who can prove sufficient funds and a business plan; the threshold is relatively high. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street Food Salespersons？**
-- 喜欢与人交流的人
-- 能适应户外工作和灵活工时的人
-- 对意大利街头美食有热情的人
+**Who is suited**
+- People who enjoy communicating with others
+- People who can adapt to outdoor work and flexible hours
+- People passionate about Italian street food
 
-**谁不适合学Street Food Salespersons？**
-- 寻求稳定收入和长期职业规划的人
-- 不喜欢季节性和周末工作的人
+**Who is not suited**
+- People seeking stable income and long-term career planning
+- People who dislike seasonal and weekend work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of street food sellers stable?**
+A: Unstable, heavily affected by seasons and tourism; peak season can bring good income, while off-season may barely cover expenses.
+
+**Q: How to become an Italian street food vendor as a non-EU citizen?**
+A: Mainly relies on Decreto Flussi seasonal work visa, but quotas are small and competition is fierce; self-employment visa requires large investment proof, making it quite difficult.
+
+**Q: Is this career competitive?**
+A: Very competitive in popular tourist cities, with many locals competing for limited stalls; but more opportunities in remote areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Street Food Salespersons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of street food vendors stable?**
-答：Unstable, heavily affected by season and tourism; high during peak season, barely enough during off-season.
-
-**问：How can non-EU citizens become street food vendors in Italy?**
-答：Mainly through Decreto Flussi seasonal work visa, but quotas are limited and competitive; self-employment visa requires proof of significant investment, which is difficult.
-
-**问：Is this occupation competitive?**
-答：Very competitive in popular tourist cities, with many locals vying for limited stalls; more opportunities in remote areas.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

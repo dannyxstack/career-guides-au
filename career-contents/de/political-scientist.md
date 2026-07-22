@@ -1,59 +1,95 @@
-# Political Scientist（Political Scientist）职业分析 · DE
+# Political Scientist — career analysis · Germany
 
-**职业代码：9131 – Political Scientist。**
+**Occupation code: 9131 (KldB)**
 
-Analyze political systems, policies, and behavior; study government institutions, elections, and international relations. Work in universities, think tanks, government, or media.
+Analyze political systems, policies, and behavior; study government institutions, elections, international relations, etc. Work in universities, think tanks, government departments, or media
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | —（公立大学每学期约150-300欧元注册费） |
-| 硕士 | 2年 | —（公立大学免学费，仅注册费） |
-| 博士 | 3-5年 | —（博士职位通常有工资） |
+| Bachelor's degree | 3 years | $0~$1,500 (Public universities: approximately 150-300 euros per semester registration fee) |
+| Master's degree | 2 years | $0~$1,500 (Free tuition at public universities, registration fee only) |
+| Doctorate | 3-5 years | $0~$0 (PhD positions usually come with a salary.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 政治学硕士学位 | 德国大学 | 必备 | 通常为进入专业领域的必要条件 |
-| 博士学历 | 德国大学 | 可选 | 学术职位通常要求 |
+| Master's degree in Political Science | German university | Required | Usually a prerequisite for entering the professional field |
+| PhD degree | German university | Optional | Academic positions usually require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。德国政治学领域竞争激烈，职位有限。博士学历和科研项目经验是进入学术圈的关键。政府机构需要政策分析人才。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. The field of political science in Germany is highly competitive with limited positions. A PhD and research project experience are key to entering academia. Government agencies require policy analysis talent.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 研究助理或政策分析师 |
-| 中级（3-7年） | $45,000~$60,000 | 资深研究员或讲师 |
-| 高级（7年以上） | $60,000~$85,000 | 教授或部门领导 |
+| Median salary | $52,284 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research assistant or policy analyst |
+| Mid-level (3–7 years) | $45,000~$60,000 | Senior researcher or lecturer |
+| Senior (7+ years) | $60,000~$85,000 | Professor or department head |
+| average salary | $59,664 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级研究助理 → 高级研究员/讲师 → 教授/部门领导。也可转向政策咨询、公共事务或国际组织。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of political scientists will undergo profound changes: tasks like administrative data analysis and literature reviews will be accelerated by AI automation, but decision-making advice, policy innovation, and ethical judgment will still rely on humans. Entry-level roles will narrow slightly due to the proliferation of automation tools, but demand for advanced analytical roles will increase.
+
+Junior research assistant → Senior researcher/lecturer → Professor/department head. Also transitionable to policy consulting, public affairs, or international organizations.
+
+**Tasks most exposed to AI:**
+
+- Automatically scrape and process policy documents, news reports, and other text data
+- Generate preliminary reports and summaries using natural language processing
+- Analyze election data and poll results using statistical models
+- Automatically update and maintain the policy database
+- Generate standardized visual charts and presentations.
+
+**Where AI augments the role:**
+
+- AI-assisted large-scale social simulation and scenario analysis to predict policy impacts
+- Using machine learning to identify complex political behavior patterns
+- Real-time monitoring of public opinion and online sentiment through natural language processing
+- AI accelerates literature review, enabling researchers to focus on theoretical innovation
+- Use AI tools to optimise research design and improve data quality
+
+**Human moat:**
+
+- Propose original policy recommendations and strategic decisions
+- Understanding complex political contexts and historical backgrounds
+- Making ethical judgments and value trade-offs
+- Communicating and negotiating with stakeholders
+- Critically question AI outputs and ensure research rigor
+
+**Skills to build:**
+
+- Python/R programming and data analysis.
+- Natural Language Processing and Text Mining
+- Machine learning and causal inference methods
+- Data visualisation and interactive reporting
+- AI ethics and policy literacy
+- Interdisciplinary communication and collaboration skills
+
+**Key growth areas:**
 
 - policy analysis
 - data-driven research
@@ -62,67 +98,66 @@ Analyze political systems, policies, and behavior; study government institutions
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历且薪资达标者，政治学通常需年薪约43,800欧元（2024年标准） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有德国雇主offer的专业人士，需学历资质认可 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with high education and meeting salary thresholds; political science typically requires an annual salary of approximately €43,800 (2024 standard). |
+| Subclass Skilled Worker (Skilled Worker Visa) | For professionals with a German employer offer, requires qualification recognition |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Political Scientist？**
-- 对政治和社会议题有浓厚兴趣
-- 具备分析研究和写作能力
-- 愿意攻读博士并从事学术工作
-
-**谁不适合学Political Scientist？**
-- 不喜欢长期学习和高强度竞争
-- 追求稳定高薪职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in political and social issues
+- Analytical research and writing skills
+- Willing to pursue a PhD and engage in academic work
+
+**Who is not suited**
+- Dislike long-term study and intense competition
+- Seeking a stable, high-salary career
+
+---
+
+## 8. FAQ
+
+**Q: What are salary levels for political science in Germany?**
+A: Entry-level: approximately €35,000-45,000, mid-level: €45,000-60,000, senior: €60,000-85,000 (annual salary before tax).
+
+**Q: How can foreigners immigrate to Germany for political science work?**
+A: available via EU Blue Card or skilled migration visa, requiring a German employer offer and recognized qualifications. Academic positions are competitive.
+
+**Q: What conditions are required to study political science in Germany?**
+A: Bachelor's requires high school diploma (e.g., Abitur), Master's requires undergraduate degree, PhD requires finding a supervisor. Public universities are essentially tuition-free.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Political Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for political science in Germany?**
-答：Entry-level approx. €35,000-45,000, mid-level €45,000-60,000, senior €60,000-85,000 (gross annual).
-
-**问：How can foreigners immigrate to Germany to work in political science?**
-答：Via EU Blue Card or Skilled Worker visa, requiring a German job offer and degree recognition. Academic positions are competitive.
-
-**问：What are the requirements to study political science in Germany?**
-答：Bachelor requires high school diploma (e.g., Abitur), master requires bachelor degree, PhD requires supervisor. Public universities are tuition-free.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

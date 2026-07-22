@@ -1,60 +1,95 @@
-# Artillery and Missile Crew Members（Artillery and Missile Crew Members）职业分析 · 美国
+# Artillery and Missile Crew Members — career analysis · United States
 
-**职业代码：55-3014 – Artillery and Missile Crew Members。**
+**Occupation code: 55-3014 (SOC)**
 
-Artillery and missile crew members target, fire, and maintain weapons used to destroy enemy positions, aircraft, and vessels. They operate guns, howitzers, missiles, and rockets in ground, air defense, and naval combat operations.
+Artillery and missile soldiers are responsible for aiming, launching, and maintaining weapon systems used to destroy enemy positions, aircraft, and vessels. They operate artillery, missile, and rocket systems in various combat environments of the Army, Navy, and Air Force.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 0年 | —（入伍基本要求） |
-| 基础军事训练和高级个别训练 | 3-6个月 | —（由军队提供） |
+| High school graduation or equivalent | 0 years | $0~$0 (Basic enlistment requirements) |
+| Basic military training and advanced individual training | 3-6 months | $0~$0 (Provided by the military.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 武装部队职业能力倾向电池测试（ASVAB）分数 | 美国国防部 | 必备 | 必须达到特定分数线才能进入炮兵岗位 |
-| 秘密或机密安全许可 | 美国国防部 | 必备 | 需要背景调查和公民身份 |
+| Armed Services Vocational Aptitude Battery (ASVAB) score | U.S. Department of Defense | Required | Must meet specific score threshold to enter artillery positions |
+| Secret or Top Secret security clearance | U.S. Department of Defense | Required | Requires background check and citizenship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 21,000。由于国防预算持续稳定且军事现代化需求，炮兵和导弹兵岗位预计保持稳定。技术进步推动了对操作先进武器系统的高技能人员的需求。但整体就业规模受军事编制限制。
+**Job demand: medium (★★½☆☆).** National workforce approx. 21,000. Due to consistently stable defense budgets and military modernization needs, artillery and missile crew positions are expected to remain stable. Technological advances drive demand for high-skilled personnel to operate advanced weapon systems. However, overall employment size is constrained by military structure.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 根据军衔和基本津贴 |
-| 中级（4-9年） | $45,000~$65,000 | 包括军官和高级士官 |
-| 高级（10年以上） | $65,000~$90,000 | 高级士官和军官，含特殊津贴 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$45,000 | Depends on rank and basic allowance |
+| Intermediate (4-9 years) | $45,000~$65,000 | Includes officers and senior NCOs |
+| Senior (10+ years) | $65,000~$90,000 | Senior NCOs and officers, including special allowances |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业晋升路径从初级炮兵到炮长、排长，再到高级士官或军官职位。士兵可通过晋升军衔和参加专业军事教育成为士官或获得军官委任。部分人员可能转入国防承包或军事训练领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly change the roles of artillery and missile operators; target identification and fire control calculations are highly automatable, but battlefield decision-making, system maintenance, and physical operations still require humans, making this a mixed-impact occupation.
+
+Career progression from junior artilleryman to gun commander, platoon leader, then to senior NCO or officer. Soldiers can advance through promotions and professional military education to become NCOs or receive officer commissions. Some may transition to defence contracting or military training fields.
+
+**Tasks most exposed to AI:**
+
+- Automated target identification and tracking using radar and sensors
+- Generates firing data based on AI ballistic calculations
+- Automating some operations of the ammunition loading and firing process
+- Battlefield data recording and report generation
+- Basic simulator training scenario generation and evaluation
+
+**Where AI augments the role:**
+
+- AI-assisted multi-target threat prioritization and fire allocation recommendations
+- Real-time battlefield situation integration and predictive maintenance alerts
+- Simulation training: AI opponent tactical behavior generation
+- Automated logistics supply and ammunition inventory management
+- Voice command control and digital communication enhancement
+
+**Human moat:**
+
+- On-the-spot judgment and ethical decision-making in complex battlefield environments
+- Physical maintenance and troubleshooting of weapon systems
+- Ability to communicate effectively in real-time with superiors and allied forces
+- Autonomous combat capability under communication interference.
+- Leadership and team morale maintenance
+
+**Skills to build:**
+
+- Knowledge of AI and machine learning applications in fire control systems
+- Unmanned systems integration and remote operation skills
+- Foundations of Data Science and Battlefield Data Analysis
+- Basics of cyber defence and electronic warfare
+- Operation and maintenance of advanced sensor systems
+- Psychological resilience and rapid decision-making training
+
+**Key growth areas:**
 
 - Stable demand
 - Military modernization
@@ -63,65 +98,67 @@ Artillery and missile crew members target, fire, and maintain weapons used to de
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用于军事岗位，因为需专业学位且非军队常规雇佣 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 不适用，因为该职业通常要求美国公民身份 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable to military positions because a specialized degree is required and it is not standard military employment |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Not applicable, as this occupation typically requires US citizenship |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Artillery and Missile Crew Members？**
-- 具有良好体能和纪律性的人
-- 喜欢团队合作和严格培训的人
-- 愿意为国防服务并适应频繁调动的人
+**Who is suited**
+- People with good physical fitness and discipline
+- People who enjoy teamwork and rigorous training
+- Those willing to serve in defense and adapt to frequent relocations
 
-**谁不适合学Artillery and Missile Crew Members？**
-- 不愿接受严格军事纪律和体力挑战的人
-- 追求高薪和灵活工作环境的人
+**Who is not suited**
+- Those unwilling to accept strict military discipline and physical challenges
+- For those seeking high salary and flexible work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for artillery and missile personnel?**
+A: Salary ranges from approximately $30,000 for entry-level to $90,000 for senior roles, based on rank and years of service. Includes base pay, allowances and housing subsidies.
+
+**Q: Can foreign nationals obtain a US green card through artillery positions?**
+A: No. This occupation typically requires US citizenship, and the military does not accept foreign nationals, so there is no skilled migration pathway.
+
+**Q: What career development opportunities are there for artillery and missile soldiers?**
+A: Can advance through promotion to non-commissioned officer or officer, or transition to military education, logistics, defense contracting, etc. Continuous learning of new weapon systems is also needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Artillery and Missile Crew Members属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for artillery and missile crew members?**
-答：Salaries range from approximately $30,000 for entry-level to $90,000 for senior personnel based on rank and years of service, including basic pay, allowances, and housing benefits.
-
-**问：Can foreign nationals obtain a U.S. green card through artillery crew positions?**
-答：No. This occupation typically requires U.S. citizenship, and the military does not enlist foreign nationals, so no skilled migration path exists.
-
-**问：What career advancement opportunities exist for artillery and missile crew members?**
-答：Advancement through ranks to non-commissioned or commissioned officer roles, or transition to military education, logistics, or defense contracting. Continuous training on new weapon systems is required.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

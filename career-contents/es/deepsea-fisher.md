@@ -1,61 +1,94 @@
-# Deep-sea Fisher（Deep-sea Fisher）职业分析 · ES
+# Deep-sea Fisher — career analysis · Spain
 
-**职业代码：6423 – Deep-sea Fisher。**
+**Occupation code: 6423 (CNO)**
 
-Deep-sea fishers work in open seas or exclusive economic zones, operating fishing gear, processing catches, and maintaining vessel equipment. The job is physically demanding with extended periods at sea.
+Deep-sea fishermen engage in fishing operations on the high seas or in exclusive economic zones, operating fishing gear, processing catch, and maintaining vessel equipment. The working environment is harsh, requiring adaptation to long-term life at sea.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立学校免费，仅教材等杂费） |
-| 海事专业培训（Técnico en Pesca y Transporte Marítimo） | 1-2年 | $500~$2,000（含STCW基本安全证书费用） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$1,000 (Public schools are free, with only miscellaneous fees for textbooks and other expenses) |
+| Maritime Professional Training (Técnico en Pesca y Transporte Marítimo) | 1-2 years | $500~$2,000 (Includes the cost of the STCW Basic Safety Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW基本安全培训证书 | 西班牙交通部海事管理局（Dirección General de la Marina Mercante） | 必备 | 所有渔民必须持有，包括消防、急救、求生技能 |
-| 渔船船员适任证书（Libreta de embarque） | 西班牙交通部海事管理局 | 必备 | 记录海上服务资历，是晋升必备 |
-| 船长或轮机长资格（Patrón de Pesca / Mecánico Naval） | 西班牙交通部海事管理局 | 可选 | 需通过考试和海上资历要求 |
+| STCW Basic Safety Training certificate | Spanish Ministry of Transport Maritime Administration (Dirección General de la Marina Mercante) | Required | All fishermen must possess skills such as firefighting, first aid, and survival |
+| Fishing Vessel Crew Competency Certificate (Libreta de embarque) | Maritime Administration of the Spanish Ministry of Transport | Required | Recording maritime service qualifications is essential for promotion |
+| Captain or Chief Engineer Qualification (Patrón de Pesca / Mecánico Naval) | Maritime Administration of the Spanish Ministry of Transport | Optional | Passing exams and maritime qualifications is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。西班牙是欧盟最大渔业国之一，但远洋渔业面临配额缩减、燃油成本上升和劳动力老龄化等挑战。绿色转型与数字化可能带来新机遇。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. Spain is one of the largest fisheries countries in the EU, but its distant-water fishing sector faces challenges such as quota reductions, rising fuel costs, and an aging workforce. Green transformation and digitalization may bring new opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：极高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 基础工资加分成，年收入波动大 |
-| 中级（3-10年） | $25,000~$35,000 | 经验丰富，可能担任甲板长或渔捞长 |
-| 高级（10年以上/船长） | $40,000~$60,000 | 船长收入较高，含渔获分成 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Base salary plus commission sharing, annual income fluctuates greatly |
+| Intermediate (3-10 years) | $25,000~$35,000 | Experienced, possibly serving as deck master or fishing captain |
+| Senior (over 10 years / Captain) | $40,000~$60,000 | Captains earn higher incomes, including fishing share profits |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级船员可晋升为甲板长、渔捞长，再晋升为船长。部分渔民转行水产养殖或渔业管理。需要积累海上资历和通过海事培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Risks for distant-water fishermen are moderate; automation has compressed fishing planning and some processing steps, but unpredictable offshore environments and equipment maintenance require human judgment. AI enhances monitoring and navigation efficiency, raising the skill requirements for entry-level fishermen.
+
+Junior crew members can be promoted to deck chief, fisherman chief, and then to captain. Some fishermen have switched to aquaculture or fishery management. It is necessary to accumulate maritime experience and pass maritime training.
+
+**Tasks most exposed to AI:**
+
+- Catch sorting and primary processing: AI vision system automatically classifies fish species and measures dimensions.
+- Voyage Records and Reporting: An automated log system records real-time data such as track and fuel consumption.
+- Fishing ground recognition: AI analyzes satellite data to predict fish school locations, replacing empirical navigation.
+- Weather and sea condition warnings: AI models automatically push alerts, reducing manual observation.
+
+**Where AI augments the role:**
+
+- Fishing gear monitoring: AI sensors monitor the status of the net gear and prompt adjustments to the casting depth.
+- Equipment Fault Prediction: AI-based vibration-based diagnosis enables proactive maintenance of engines and winches.
+- Fish Freshness Optimization: AI controls refrigeration temperature and humidity to extend shelf life.
+- Hazardous scenario simulation: VR training systems enhance the ability to respond to storms and deck accidents.
+
+**Human moat:**
+
+- Complex equipment maintenance: Mechatronic fault diagnosis in corrosive marine environments.
+- Emergency decision-making: Respond quickly in emergencies such as sudden drowning or fire.
+- Multilingual fleet coordination: Non-standardized communication among multinational crew members.
+- Dynamic ethical judgment: strictly adhere to fishing quotas and ecological protection rules.
+
+**Skills to build:**
+
+- Basic electronic maintenance and hydraulic system repairs
+- Satellite communication and data terminal operation
+- Fisheries management software (such as ERP, catch tracking systems)
+- Maritime Safety and First Aid Certification (STCW)
+- Algae/fish disease identification (addressing climate change)
+- Basic data analysis (Excel/Python for processing catch logs)
+
+**Key growth areas:**
 
 - sustainable fishing
 - fleet modernization
@@ -64,65 +97,67 @@ Deep-sea fishers work in open seas or exclusive economic zones, operating fishin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需西班牙雇主担保，证明该职位无法由本地或欧盟公民填补，通过劳动市场测试。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许第三国高学历者进入西班牙寻找工作，但不适用于渔民职业。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | A Spanish employer sponsor is required, proving that the position cannot be filled by local or EU citizens, and must pass the labor market test. |
+| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals from third countries are allowed to enter Spain to seek work, but this does not apply to the fishing profession. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Deep-sea Fisher？**
-- 适应海上生活和体力劳动者
-- 热爱海洋、吃苦耐劳
-- 愿意接受不规律作息和长期离家
+**Who is suited**
+- Adapted to life at sea and for manual laborers
+- Love the ocean and be hardworking
+- Willing to accept irregular routines and long periods of absence from home
 
-**谁不适合学Deep-sea Fisher？**
-- 晕船或无法适应船上封闭环境
-- 追求稳定城市生活和正常社交
+**Who is not suited**
+- Seasickness or inability to adapt to the enclosed environment on board
+- Pursue stable city life and normal social interactions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of distant-water fishermen stable?**
+A: Income mainly comes from base salary and catch shares, which fluctuates greatly. Income in a bumper year can be considerable, but may be low during off-season or when quotas are reduced.
+
+**Q: Can non-EU citizens become Spanish distant-water fishermen?**
+A: Almost impossible. This profession is unpopular, and Spain has a large number of skilled EU fishermen. It is difficult for employers to pass labor market tests.
+
+**Q: What are the promotion paths for distant-water fishermen?**
+A: From ordinary crew members (marinero) to deck chiefs (contramaestre), fishermen (patrón de pesca), and finally captains (patrón mayor). You need to accumulate maritime experience and pass an exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 极高（★★★★½） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Deep-sea Fisher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of deep-sea fishers stable?**
-答：Income consists of base salary and catch share, highly variable. Good seasons can be lucrative, but quotas and seasons cause fluctuations.
-
-**问：Can non-EU citizens become deep-sea fishers in Spain?**
-答：Very unlikely. The occupation is not in shortage, and Spain has ample EU fishers. Employers face difficulty passing labor market tests.
-
-**问：What are the career progression paths for deep-sea fishers?**
-答：From deckhand (marinero) to boatswain (contramaestre), fishing master (patrón de pesca), and eventually captain (patrón mayor). Requires sea time and exams.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

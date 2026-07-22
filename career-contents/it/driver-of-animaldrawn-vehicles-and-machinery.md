@@ -1,59 +1,95 @@
-# Driver of Animal-Drawn Vehicles and Machinery（Driver of Animal-Drawn Vehicles and Machinery）职业分析 · IT
+# Driver of Animal-Drawn Vehicles and Machinery — career analysis · Italy
 
-**职业代码：9332 – Driver of Animal-Drawn Vehicles and Machinery。**
+**Occupation code: 9332 (ISCO08)**
 
-Drives animal-drawn vehicles or machinery in agriculture, forestry, or tourism areas in Italy, performing transport, farming, or sightseeing tasks.
+Drive vehicles or simple machinery pulled by animals like horses or cattle in Italian agricultural, forestry, or tourist areas for transport, farming, or sightseeing services.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无固定学制 | —（通常无正式教育要求，需在职培训） |
+| Junior high school graduation | There is no fixed academic system | $0~$0 (Usually no formal education requirements, on-the-job training required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照（汽车类） | 意大利交通部 | 可选 | 虽非强制，但多数雇主要求持有B类驾照以备用 |
-| 动物福利培训证书 | 地区农业协会 | 可选 | 部分雇主或旅游区要求完成动物处理培训 |
+| Driver's License (Car) | Italian Ministry of Transport | Optional | Although not mandatory, most employers require holding a Class B driver's license as a backup |
+| Animal welfare training certificate | Regional agricultural association | Optional | Some employers or tourist areas require completion of animal handling training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。该职业在意大利属于小众岗位，受农业机械化和旅游业波动影响较大，需求稳定但增长有限。北部山区及旅游胜地仍有少量需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. This occupation is niche in Italy, influenced by agricultural mechanisation and tourism fluctuations; demand is stable but with limited growth. There is still some demand in northern mountainous areas and tourist destinations.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 通常为季节性兼职收入，全年折合 |
-| 中级（3-7年） | $18,000~$24,000 | 含小费及额外服务收入 |
-| 高级（7年以上） | $24,000~$30,000 | 如负责旅游项目或团队管理 |
+| Median salary | $21,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $14,000~$18,000 | Usually seasonal part-time income, annualised equivalent |
+| Mid-level (3–7 years) | $18,000~$24,000 | Includes tips and additional service income |
+| Senior (7+ years) | $24,000~$30,000 | E.g., responsible for tourism projects or team management |
+| average salary | $21,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从业者可从普通驾驶员晋升为马车队领队或旅游观光项目主管。部分人员可转向机械操作或农业管理岗位。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Animal-drawn vehicle driving in Italy will shrink significantly due to automation and AI, with low-barrier jobs hit first. Workers need to quickly shift to machinery operation, logistics coordination, or agricultural technology roles.
+
+Practitioners can advance from ordinary driver to carriage team leader or tourism project supervisor. Some may transition to mechanical operations or agricultural management roles.
+
+**Tasks most exposed to AI:**
+
+- Path planning and navigation: AI and GPS automatically plan optimal routes, replacing manual navigation skills.
+- Animal health monitoring: wearable devices and AI vision monitor livestock health in real time, replacing manual observation
+- Simple transport tasks: unmanned agricultural vehicles perform fixed-route transport, replacing animal-drawn carts.
+- Weather forecasting and decision-making: AI predicts weather and suggests work timing, replacing empirical judgment
+- Customer communication and scheduling: automated scheduling system handles bookings and route allocation, replacing phone coordination.
+
+**Where AI augments the role:**
+
+- Complex terrain driving: AI provides obstacle detection and terrain adaptation suggestions to improve safety and efficiency
+- Animal behavior management: AI analyzes animal stress signals, assists drivers in adjusting driving methods
+- Maintenance: AI predictive maintenance alerts for vehicle and animal health issues, reducing downtime
+- Tour commentary: AI generates multilingual commentary content to enhance visitor experience, drivers can focus on interaction
+- Multi-task coordination: AI integrates farm IoT data to optimize cooperation between horse-drawn vehicles and other machinery.
+
+**Human moat:**
+
+- Real-time interaction and emotional connection between humans and animals, difficult to replicate by AI
+- Emergency judgment and flexible decision-making in complex, unstructured environments
+- Preservation and display of local traditional driving cultural heritage.
+- Deep understanding and experience fit for specific agricultural ecosystems
+- Ability to build trust and personalize service with clients and tourists
+
+**Skills to build:**
+
+- Agricultural machinery license (e.g., for tractors, small harvesters)
+- GPS navigation and precision agriculture software usage.
+- Basic operation of AI tools (e.g., smart wearable devices, automated scheduling systems)
+- Animal welfare and health management technology (including sensor data analysis)
+- Basic English or multilingual communication (required in tourist areas)
+- Electromechanical maintenance and troubleshooting (electric vehicles, automation equipment)
+
+**Key growth areas:**
 
 - Niche
 - Agricultural heritage
@@ -62,61 +98,63 @@ Drives animal-drawn vehicles or machinery in agriculture, forestry, or tourism a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Permit） | 适用于非欧盟季节工，需雇主担保，年度配额有限。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Permit) | Applicable to non-EU seasonal workers, requires employer sponsorship, with limited annual quota. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Driver of Animal-Drawn Vehicles and Machinery？**
-- 热爱动物和户外工作
-- 适应乡村生活和体力劳动
-- 具备基本机械维修技能
+**Who is suited**
+- Passionate about animals and outdoor work
+- Adapting to rural life and physical labor
+- Possess basic mechanical repair skills
 
-**谁不适合学Driver of Animal-Drawn Vehicles and Machinery？**
-- 寻求高薪或稳定职业发展者
-- 对动物过敏或缺乏耐心者
+**Who is not suited**
+- Those seeking high salary or stable career development
+- Those with animal allergies or lack of patience.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do Italian horse-drawn vehicle drivers earn?**
+A: Low and unstable income, approximately €14,000-18,000 per year for junior roles, €24,000-30,000 for senior roles. Mostly seasonal part-time.
+
+**Q: Can non-EU citizens immigrate to Italy through this occupation?**
+A: Extremely difficult. This occupation is not in shortage in Italy, employers struggle to obtain quotas; consider other shortage roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Driver of Animal-Drawn Vehicles and Machinery属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for animal-drawn vehicle drivers in Italy?**
-答：Income is low and variable; entry-level earns around €14,000-18,000 per year, experienced up to €30,000. Mostly seasonal part-time.
-
-**问：Can non-EU citizens immigrate through this occupation in Italy?**
-答：Very difficult. It is not a shortage occupation, and employers rarely obtain quotas. Better to choose other in-demand roles.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

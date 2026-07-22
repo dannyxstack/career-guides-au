@@ -1,58 +1,92 @@
-# Sweeper and Related Labourer（Sweeper and Related Labourer）职业分析 · IE
+# Sweeper and Related Labourer — career analysis · Ireland
 
-**职业代码：9613 – Sweeper and Related Labourer。**
+**Occupation code: 9613 (ISCO08)**
 
-Responsible for sweeping and maintaining streets, parks, buildings, and other public and private areas, using manual or power tools to collect waste and maintain cleanliness.
+Responsible for cleaning and maintaining public and private areas such as streets, parks, and buildings, using manual or power tools to collect garbage and maintain environmental hygiene.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训，无学费成本） |
+| No formal education required | None | $0~$0 (Typically on-the-job training, no tuition costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全培训 | 雇主 | 必备 | 入职时由雇主提供，包括安全操作和基本卫生知识 |
+| Basic safety training | Employer | Required | Provided by employers on commencement, covering safe operations and basic hygiene knowledge |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。爱尔兰城市化持续推进，环境卫生标准提升，公共和商业场所清洁需求稳定增长。预计未来五年就业岗位缓慢增长，受市政预算和外包趋势影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. With ongoing urbanization in Ireland, environmental hygiene standards are rising, leading to steady growth in demand for public and commercial cleaning. Employment in this sector is expected to grow slowly over the next five years, influenced by municipal budgets and outsourcing trends.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$26,000 | 税前年薪，通常按小时计薪 |
-| 中级（2-5年） | $26,000~$30,000 | 税前年薪，含加班费 |
-| 高级（5年以上） | $30,000~$35,000 | 税前年薪，包含主管津贴 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$26,000 | Annual salary before tax, usually paid hourly |
+| Intermediate (2-5 years) | $26,000~$30,000 | Annual salary before tax, including overtime pay |
+| Senior (5+ years) | $30,000~$35,000 | Annual pre-tax salary including supervisor allowance |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从基层清洁工做起，积累经验后可晋升为清洁主管或团队领导，负责监督和管理清洁团队。部分人员可转向垃圾回收或废物处理领域。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Repetitive sweeping work for cleaners and related labourers will be highly automated, reducing entry-level jobs, but complex environment cleaning and equipment maintenance will still require humans.
+
+Typically start as entry-level cleaners, gain experience, and can advance to cleaning supervisor or team leader, overseeing and managing cleaning teams. Some may transition to waste recycling or waste management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine floor sweeping using a broom or vacuum cleaner
+- Take out trash and sort recyclables
+- Clean designated areas using high-pressure water guns
+- Regular inspections and reporting of cleaning issues
+
+**Where AI augments the role:**
+
+- Use AI scheduling systems to optimize cleaning routes and frequencies
+- Using visual recognition systems to automatically detect stains and trash
+- Receive cleaning task instructions and location navigation via AR glasses
+- Monitors automated equipment operation status and intervenes promptly.
+- Using drones to assist with cleaning in high or hazardous areas
+
+**Human moat:**
+
+- Flexible adaptation and manual cleaning ability in complex and changing environments
+- Judgment of hygiene standards and handling of unexpected stains
+- Equipment maintenance and simple repair skills
+- Communication and coordination skills with clients or residents
+
+**Skills to build:**
+
+- Basic mechanical maintenance and repair skills
+- Operate and manage automated equipment such as cleaning robots.
+- Receive tasks using smartphones and tablets
+- Knowledge of environmental health and safety regulations
+- Basic English communication skills (for international environments)
+- Data recording and reporting skills
+
+**Key growth areas:**
 
 - Urbanization
 - Environmental awareness
@@ -61,60 +95,62 @@ Responsible for sweeping and maintaining streets, parks, buildings, and other pu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30000欧元（2024年标准）。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations requiring employer sponsorship, with an annual salary of no less than €30,000 (2024 standard). |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sweeper and Related Labourer？**
-- 体力较好、愿意从事户外体力劳动者
-- 无需高学历、寻求稳定简单工作者
+**Who is suited**
+- Physically fit individuals willing to engage in outdoor manual labor
+- Seeking stable and simple work without requiring a high degree
 
-**谁不适合学Sweeper and Related Labourer？**
-- 希望高薪或职业晋升空间大者
-- 对恶劣天气敏感者
+**Who is not suited**
+- Those seeking high salary or significant career advancement opportunities
+- People sensitive to severe weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of cleaners?**
+A: Junior cleaner salary around 22,000-26,000 euros per year, senior supervisor up to 35,000 euros, usually paid hourly including overtime.
+
+**Q: Can a cleaner immigrate to Ireland through a work visa?**
+A: Cleaner is a low-skilled occupation not on the shortage list; applying for a General Employment Permit requires an annual salary of at least €30,000, and the employer must pass a labour market test, making immigration difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Sweeper and Related Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sweepers?**
-答：Entry-level sweepers earn around €22,000-€26,000 per year, while senior supervisors can earn up to €35,000, typically paid hourly including overtime.
-
-**问：Can sweepers immigrate to Ireland via work visa?**
-答：Sweepers are low-skilled and not on the shortage list. A General Employment Permit requires a salary of at least €30,000 and a labor market test, making immigration difficult.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,93 @@
-# Cement Masons and Concrete Finishers（Cement Masons and Concrete Finishers）职业分析 · 美国
+# Cement Masons and Concrete Finishers — career analysis · United States
 
-**职业代码：47-2051 – Cement Masons and Concrete Finishers。**
+**Occupation code: 47-2051 (SOC)**
 
-Smooth and finish surfaces of poured concrete, such as floors, walks, sidewalks, roads, or curbs, using hand and power tools to ensure a level and durable finish.
+Responsible for pouring, leveling, and finishing concrete surfaces (e.g., floors, sidewalks, roads, curbs, etc.), using hand tools and power tools to ensure smooth and level surfaces, and setting joints.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常无需高等教育，高中毕业即可） |
-| 学徒培训（包含在职学习和课堂教学） | 3-4年 | —（学徒期间有工资，培训及相关工具费用可能自理） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no higher education required; high school diploma is sufficient) |
+| Apprenticeship training (includes on-the-job learning and classroom instruction) | 3-4 years | $0~$5,000 (Paid during apprenticeship; training and related tool costs may be covered by the individual.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒证书 | 美国劳工部或州学徒委员会 | 可选 | 完成注册学徒计划后可获得，非强制但有利就业 |
-| 职业安全与健康管理局（OSHA）安全培训 | OSHA或授权培训机构 | 可选 | 10小时或30小时建筑安全课程，多数雇主要求 |
-| 商业驾照（如操作重型设备） | 州机动车管理局 | 可选 | 若需驾驶水泥搅拌车等，则需相应驾照 |
+| Apprenticeship certificate | US Department of Labor or State Apprenticeship Council | Optional | Obtainable after completing a registered apprenticeship program, not mandatory but beneficial for employment |
+| Occupational Safety and Health Administration (OSHA) safety training | OSHA or authorized training providers | Optional | 10-hour or 30-hour construction safety course, required by most employers |
+| Commercial driver's license (e.g., for operating heavy equipment) | State motor vehicle department | Optional | If driving cement mixers etc., require appropriate license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 183,000。美国建筑活动持续增长，基础设施维修需求强劲，该职业就业预计稳步增长。但受经济周期影响，且工作强度大、季节性明显。
+**Job demand: medium (★★½☆☆).** National workforce approx. 183,000. US construction activity continues to grow, with strong demand for infrastructure repairs, and employment in this occupation is expected to grow steadily. However, it is affected by economic cycles, with high work intensity and seasonal variations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 包含学徒和助手 |
-| 中级（3-7年） | $45,000~$60,000 | 熟练工 |
-| 高级（7年以上） | $60,000~$80,000 | 包括领班、工头 |
+| Median salary | $57,020 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Includes apprentices and assistants |
+| Mid-level (3–7 years) | $45,000~$60,000 | Skilled worker |
+| Senior (7+ years) | $60,000~$80,000 | Including foremen and supervisors |
+| average salary | $60,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从学徒或助手做起，积累经验后可晋升为领班、工头，或专攻装饰混凝土等细分领域，也可自主创业承包工程。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The physical labor of cement masons and concrete finishers is hard to fully replace, but AI automation is gradually taking over programmable tasks like surface smoothing and joint cutting. Job demand will shift toward more complex formwork, decorative finishing, and project management.
+
+Typically start as apprentice or assistant; with experience, can advance to foreman, supervisor, or specialize in decorative concrete; also possible to start own contracting business.
+
+**Tasks most exposed to AI:**
+
+- Using automatic troweling machines for large-area floor leveling
+- Using laser-guided robots to cut expansion joints
+- Automatically mix concrete and distribute based on 3D model
+- Uses AI vision to detect surface flatness and automatically repair
+
+**Where AI augments the role:**
+
+- AI-assisted template design, optimizing pouring sequence and support plans
+- Augmented reality (AR) glasses display construction drawings and real-time quality data
+- Drone aerial inspection for surface defects on large structures like dams
+- Smart concrete sensors provide curing recommendations
+
+**Human moat:**
+
+- Manual finishing of complex curved, arched, or irregular concrete shapes
+- Work flexibly in unstructured environments such as bad weather or confined spaces
+- On-site communication and coordination with project managers, engineers, etc.
+- Fine work such as repairing cracks and voids in hardened concrete
+
+**Skills to build:**
+
+- Operate automatic screeding robots and perform maintenance
+- Reading BIM models and digital construction drawings
+- Operating concrete 3D printing equipment
+- Study properties of concrete additives and smart mix design techniques
+- Master digital tools for quality inspection and repair
+
+**Key growth areas:**
 
 - Infrastructure
 - Construction
@@ -64,65 +96,67 @@ Smooth and finish surfaces of poured concrete, such as floors, walks, sidewalks,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 临时非农业工人签证，适用于季节性或峰值期劳工，但需雇主担保且有名额限制 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 职业移民第三优先（技术工人），需PERM劳工证，但该职业通常难以通过，因为属于非专业类 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Temporary non-agricultural worker visa for seasonal or peak labor needs, but requires employer sponsorship and has quota limits. |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Employment-based third preference (skilled workers), requires PERM labor certification, but this occupation is usually difficult to pass due to its non-professional nature |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cement Masons and Concrete Finishers？**
-- 喜欢户外体力劳动，不介意灰尘和噪音
-- 愿意通过学徒制积累经验，有耐心注重细节
-- 对建筑行业有热情，能适应季节性工作节奏
+**Who is suited**
+- Enjoys outdoor physical labor, not bothered by dust and noise
+- Willing to gain experience through apprenticeships, patient and detail-oriented
+- Passion for the construction industry and ability to adapt to seasonal work rhythms.
 
-**谁不适合学Cement Masons and Concrete Finishers？**
-- 不喜欢高强度体力工作或长期户外作业
-- 追求稳定办公室环境或高学历门槛的职业
+**Who is not suited**
+- Dislikes high-intensity physical work or long-term outdoor work.
+- Seek stable office environment or careers with high education thresholds
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of cement masons and concrete finishers?**
+A: According to U.S. Bureau of Labor Statistics (BLS) 2023 data, median annual salary is approximately USD 48,520, but beginners typically earn USD 35,000-45,000, and experienced foremen can reach over USD 70,000.
+
+**Q: Can foreign workers obtain this occupation via H-1B or green card?**
+A: This occupation is typically not a skilled professional role (SOC 47-2051); H-1B requires a bachelor's degree, making it extremely difficult to qualify. The H-2B temporary worker visa is the main path, but it has limited quotas and is non-immigrant. Green card through PERM EB-3 skilled worker path is very difficult.
+
+**Q: What is the future demand for this occupation?**
+A: BLS projects about 4% employment growth from 2022 to 2032, about as fast as the average for all occupations. Infrastructure construction, road repair, and commercial building will drive demand, but it is affected by economic cycles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Cement Masons and Concrete Finishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cement masons and concrete finishers?**
-答：According to BLS 2023 data, the median annual wage is about $48,520, with entry-level earning $35,000-$45,000 and experienced foremen earning over $70,000.
-
-**问：Can foreign workers obtain H-1B or green card for this occupation?**
-答：This occupation typically does not qualify for H-1B due to lack of bachelor's degree requirement. H-2B temporary visa is the main option but capped and non-immigrant. Green card via PERM EB-3 skilled worker is very difficult.
-
-**问：What is the job outlook for this occupation?**
-答：BLS projects 4% growth from 2022-2032, about as fast as average. Infrastructure, road repair, and commercial construction will drive demand, though subject to economic cycles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

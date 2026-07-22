@@ -1,61 +1,97 @@
-# Small Accommodation Owner-Operator（Small Accommodation Owner-Operator）职业分析 · ES
+# Small Accommodation Owner-Operator — career analysis · Spain
 
-**职业代码：5840 – Small Accommodation Owner-Operator。**
+**Occupation code: 5840 (CNO)**
 
-Owner-operator managing small accommodations (e.g., B&Bs, guesthouses, hostels), handling reservations, guest services, cleaning, maintenance, finances, and marketing.
+Owners and operators responsible for managing small accommodation facilities (such as homestays, hotels, and family inns), covering the entire operation process from room reservations, customer reception, cleaning and maintenance, financial management, to marketing.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | —（公立学校免费，私立约3000欧元/年） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年，私立更高） |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros per year) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public universities approximately €1,000–2,000 per year, private higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 旅游管理或酒店管理学位 | 西班牙大学或FP中心 | 可选 | 非强制但有助于运营 |
-| 营业执照（Licencia de apertura） | 市政府 | 必备 | 必需：开设住宿业务需市政府许可 |
-| 旅游登记（Registro de Turismo） | 自治区政府 | 必备 | 必需：多数自治区要求住宿登记 |
+| Business license (Licencia de apertura) | City Government | Required | Required: Opening accommodation services requires permission from the municipal government |
+| Tourist Registration (Registro de Turismo) | Autonomous region government | Required | Required: Most autonomous regions require accommodation registration |
+| Degree in Tourism Management or Hotel Management | Spanish universities or FP centers | Optional | Non-mandatory but helpful for operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 85,000。西班牙旅游业强劲复苏，国内及国际游客需求持续增长，小型住宿业态（尤其是乡村民宿和城市公寓）前景看好。数字化预订和个性化体验成为趋势，业主需适应在线平台竞争。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Spain's tourism industry is experiencing a strong recovery, with continued growth in demand from both domestic and international visitors. The outlook for small accommodation formats—especially rural homestays and city apartments—is promising. Digital bookings and personalized experiences have become trends, and owners must adapt to competition on online platforms.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$24,000 | 小型住宿初期收入波动大 |
-| 中级（3-7年） | $24,000~$36,000 | 稳定运营后收入提升 |
-| 高级（7年以上） | $36,000~$60,000 | 多物业或高端住宿业主 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$24,000 | Small accommodations fluctuate greatly in the early stages of income |
+| Mid-level (3–7 years) | $24,000~$36,000 | Revenue increases after stable operations |
+| Senior (7+ years) | $36,000~$60,000 | Multi-property or high-end accommodation owners |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★☆☆）。** 可从单一物业运营扩展至管理多个小型住宿，或向酒店连锁品牌加盟、成立物业管理公司方向发展。也可深化服务如提供旅游体验、餐饮等增值服务，提升收益。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Small lodging owners face a mix of automation and AI: some tasks (such as booking, customer service, bookkeeping) will be replaced, but emotional hospitality, personalized experiences, and on-site crisis management form a moat. Overall risk is moderate, but entry-level positions have narrowed due to platformization and tool popularization.
+
+It can expand from single property operations to managing multiple small accommodations, or develop towards franchising hotel chain brands or establishing property management companies. It can also deepen services such as providing value-added services such as tourism experiences and dining to increase revenue.
+
+**Tasks most exposed to AI:**
+
+- Room Reservation Management and Confirmation (AI Chatbot Processing)
+- Standard check-in/check-out procedures for customers (self-service terminal or AI recognition)
+- Basic Financial Bookkeeping and Report Generation (Automation Software)
+- Basic response to common customer inquiries and complaints (AI customer service)
+- Scheduled social media posting and marketing data compilation (AI content generation and analysis)
+
+**Where AI augments the role:**
+
+- Dynamic pricing strategy (AI analysis of market data recommends optimal prices)
+- Personalized customer experience design (AI-recommended customized services such as welcome gifts and travel routes)
+- Maintenance scheduling and energy-saving management (AI-optimized cleaning/repair time to reduce energy consumption)
+- Online Reputation Management (AI Monitors Comments and Suggests Response Strategies)
+- Multilingual communication (real-time translation tools assisting international guest reception)
+
+**Human moat:**
+
+- On-site crisis management and safety hazard inspection (such as fire or sudden illness of guests)
+- Deep emotional connection and personalized care (remembering guest preferences, special anniversaries)
+- Creating local cultural stories and unique experiences (such as handicrafts and community tours)
+- Cross-scenario complex decision-making (such as simultaneously handling guest conflicts, facility failures, weather changes)
+- Creative solutions to non-standard problems (beyond requests from AI knowledge bases)
+
+**Skills to build:**
+
+- AI tool applications: master pricing software, chatbot setup, and data analysis platforms
+- Digital marketing skills: Learn SEO, social media advertising, and content creation
+- Customer Relationship Management (CRM) tool operations and personalized strategies
+- Basic financial and data analysis skills: understand cost, revenue, and occupancy rate indicators
+- Cross-cultural communication and crisis management training
+- Sustainable Operations Knowledge: Energy Saving, Zero Waste, Local Sourcing Practices
+
+**Key growth areas:**
 
 - Tourism recovery
 - Rural tourism boom
@@ -64,65 +100,67 @@ Owner-operator managing small accommodations (e.g., B&Bs, guesthouses, hostels),
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于住宿管理公司可申请工作居留，但自雇业主需走创业者签证 |
-| Subclass Cuenta propia（Self-Employment Visa） | 作为自雇经营者（autónomo）居留，需提交商业计划及投资证明 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employees of accommodation management companies can apply for work-based residence, but self-employed owners must apply for an entrepreneur visa |
+| Subclass Cuenta propia (Self-Employment Visa) | To reside as a self-employed operator (autónomo), you must submit a business plan and proof of investment |
+
+**PR friendliness: low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Small Accommodation Owner-Operator？**
-- 喜欢独立经营、善于社交和服务的人
-- 对旅游行业有热情，愿意投入时间管理细节
-- 有财务管理和市场营销基础的人
+**Who is suited**
+- People who enjoy independent management, good at socializing, and service
+- Passionate about the travel industry and willing to invest time in managing details
+- People with a foundation in financial management and marketing
 
-**谁不适合学Small Accommodation Owner-Operator？**
-- 不愿承担经营风险和不稳定收入的人
-- 不喜欢处理琐碎事务和客户投诉的人
+**Who is not suited**
+- People unwilling to take on business risks and unstable income
+- People who dislike handling trivial matters and customer complaints
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of small accommodation owners stable?**
+A: Revenue fluctuates significantly depending on season, location, and operational capacity. Peak season profits are considerable, off-season losses may occur. Diversified income (such as experiential activities) can improve stability.
+
+**Q: Can non-EU citizens immigrate to Spain by operating accommodation?**
+A: You can apply for self-employment residence (Cuenta propia), which requires submitting a detailed business plan, proof of investment, and meeting Spain's economic interest requirements, with strict approval.
+
+**Q: Do you need specific certificates to operate small lodgings?**
+A: No tourism or hotel degree is required, but a municipal business license and autonomous region tourism registration are required. It is recommended to participate in relevant training to enhance operational capabilities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中高（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Small Accommodation Owner-Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of a small accommodation owner stable?**
-答：Income fluctuates significantly by season, location, and operational skills. High season can be profitable, low season may incur losses. Diversifying income (e.g., experiences) improves stability.
-
-**问：Can non-EU citizens immigrate to Spain by operating accommodation?**
-答：Yes, via the self-employment visa (Cuenta propia), requiring a business plan, investment proof, and meeting economic interest criteria; approval is strict.
-
-**问：Are specific certificates required to operate a small accommodation?**
-答：No specific degree required, but a municipal business license and regional tourism registration are mandatory. Relevant training is recommended.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

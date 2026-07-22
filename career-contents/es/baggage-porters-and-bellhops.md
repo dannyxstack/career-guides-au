@@ -1,60 +1,95 @@
-# Baggage Porters and Bellhops（Baggage Porters and Bellhops）职业分析 · ES
+# Baggage Porters and Bellhops — career analysis · Spain
 
-**职业代码：9432 – Baggage Porters and Bellhops。**
+**Occupation code: 9432 (CNO)**
 
-Transports luggage for guests at hotels, airports, and train stations, providing guidance and luggage storage services to ensure safe and efficient delivery.
+Responsible for handling guests' luggage, providing guidance, and luggage storage services at hotels, airports, train stations, and other locations to ensure safe and efficient delivery of luggage.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业或同等学历 | 无强制要求 | —（在岗培训，无需学费） |
-| 职业培训（FP Básico） | 2年（FP Básico） | $300~$1,000（公立学校学费较低，私立较高） |
+| Junior high school graduate or equivalent | No mandatory requirements | $0~$0 (On-the-job training with no tuition fees) |
+| Vocational Training (FP Básico) | 2nd year (FP Básico) | $300~$1,000 (Public schools have lower tuition fees, while private ones have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：不需要（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在岗培训证书 | 雇主 | 可选 | 通常由酒店或运输公司提供，涵盖行李处理流程和客户服务 |
-| 急救证书 | 红十字会等认证机构 | 可选 | 部分雇主要求，提升安全意识 |
+| On-the-job training certificate | Employer | Optional | Usually provided by hotels or transport companies, covering baggage handling and customer service |
+| First aid certificate | Certification bodies such as the Red Cross | Optional | Some employers are calling for heightened safety awareness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙旅游业持续复苏，预计2025年前酒店业新增岗位5%以上，行李搬运工需求稳定。但受自动化行李系统影响，岗位增长空间有限，初级岗位竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spain's tourism industry continues to recover, with hotel industry job additions expected to exceed 5% by 2025, and demand for baggage handlers remaining stable. However, due to the impact of automated luggage systems, there is limited room for job growth, and competition for entry-level positions is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 税前年薪，含小费可能更高 |
-| 中级（3-6年） | $18,000~$22,000 | 税前年薪，高级酒店可能更高 |
-| 高级（6年以上） | $22,000~$28,000 | 税前年薪，含主管职责 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$18,000 | Pre-tax annual salary, including tips, may be even higher |
+| Mid-level (3–6 years) | $18,000~$22,000 | Pre-tax annual salary, luxury hotels may be higher |
+| Senior (6+ years) | $22,000~$28,000 | Annual salary before tax, including supervisory duties |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从行李搬运工晋升为行李主管、前台接待或礼宾部工作人员，也可转向酒店其他运营部门。少数人通过积累经验成为酒店经理助理，但需额外培训。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+The core physical tasks of baggage handlers are easily replaced by automation, but interpersonal interaction and emergency handling still require humans, and the number of positions is expected to decrease significantly.
+
+You can be promoted from baggage handler to baggage supervisor, front desk receptionist, or concierge staff, or move to other hotel operations departments. A few become hotel manager assistants through experience, but additional training is required.
+
+**Tasks most exposed to AI:**
+
+- Automated baggage handling systems replace manual handling and transportation
+- Self-service luggage lockers and robots replace manual storage management
+- The intelligent guidance system replaces manual directions and directions
+- Automated sorting systems replace baggage sorting and allocation tasks
+
+**Where AI augments the role:**
+
+- Enhance handling efficiency with AI scheduling and route optimization tools
+- Use smart communication devices to communicate with guests about luggage status in real time
+- Data analysis predicts peak passenger flow and reasonably allocate manpower
+- AR glasses assist in identifying passenger and luggage information
+- Simplify the payment process with mobile payments and electronic invoices
+
+**Human moat:**
+
+- On-site response and coordination for emergencies such as luggage damage or passenger complaints
+- Personalized luggage services for high-end clients (such as handling special items)
+- Flexible handling and communication in complex environments such as crowded stations
+- Emotional support and humanistic care, such as soothing anxious travelers
+- Multilingual communication skills to address non-standard needs
+
+**Skills to build:**
+
+- Operation of smart devices (such as robot collaboration and self-service system maintenance)
+- Basic data analysis (scheduling optimization, customer traffic forecasting)
+- Customer service skills and conflict resolution
+- English and second foreign language proficiency
+- Fundamentals of logistics and supply chain management
+- Digital tool applications (mobile terminals, AR glasses, etc.)
+
+**Key growth areas:**
 
 - Tourism recovery
 - Hotel services
@@ -63,62 +98,64 @@ Transports luggage for guests at hotels, airports, and train stations, providing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，适用于非欧盟技术工人，但此职业属低技能，获批难度较大。 |
-| Subclass EU自由流动（EU freedom of movement） | 仅适用于欧盟/EEA/瑞士公民，可直接在西班牙工作。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, applicable to non-EU skilled workers, but this occupation is low-skilled and difficult to approve. |
+| Subclass EU free movement (EU freedom of movement) | Only applicable to EU/EEA/Swiss citizens and can work directly in Spain. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Baggage Porters and Bellhops？**
-- 体力充沛、喜欢与人打交道的人
-- 追求稳定工作、无需高学历者
-- 希望进入旅游酒店行业的入门级求职者
+**Who is suited**
+- People who are physically energetic and enjoy interacting with others
+- Those seeking stable employment without high education required
+- Entry-level job seekers hoping to enter the tourism and hotel industry
 
-**谁不适合学Baggage Porters and Bellhops？**
-- 期望高薪或快速晋升的人
-- 不习惯体力劳动或轮班制的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People who are not used to manual labor or shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for baggage handlers?**
+A: Entry-level baggage handlers in Spain earn about €15,000-18,000 per year, mid-level €18,000-22,000, and senior up to €28,000. Tips can account for 10-20% of income.
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: It's very difficult. This occupation is low-skilled, has a low likelihood of employer-sponsored work residency approval, and is not considered a scarce occupation. It is recommended to prioritize high-skilled positions such as hotel management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 不需要（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Baggage Porters and Bellhops属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for baggage porters?**
-答：Entry-level annual salary in Spain is around €15,000-€18,000 gross, mid-level €18,000-€22,000, and senior up to €28,000. Tips can add 10-20%.
-
-**问：Can non-EU citizens immigrate to Spain as baggage porters?**
-答：Very difficult. This is a low-skilled occupation; employer-sponsored work permits are unlikely, and it's not a shortage occupation. Consider higher-skilled hotel roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

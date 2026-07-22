@@ -1,59 +1,92 @@
-# Fast Food and Counter Workers（Fast Food and Counter Workers）职业分析 · 美国
+# Fast Food and Counter Workers — career analysis · United States
 
-**职业代码：35-3023 – Fast Food and Counter Workers。**
+**Occupation code: 35-3023 (SOC)**
 
-Perform duties such as taking orders, serving food and beverages, and handling payments at fast food counters or steam tables. May also prepare food and beverages in a fast-paced service environment.
+At fast-food restaurants or counters, they take orders, serve food, and handle cash; may also prepare food and drinks. They are front-line staff directly interacting with customers in a fast-paced service environment
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（通常没有正式教育要求） |
+| No education requirement | 0 years | $0~$0 (Usually no formal education requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 当地卫生部门 | 可选 | 部分州要求完成食品卫生培训并获得证书 |
-| 在职培训 | 雇主 | 必备 | 几乎全部通过在职培训学习技能 |
+| On-the-job training | Employer | Required | Learn skills almost entirely through on-the-job training |
+| Food hygiene certificate | Local health authority | Optional | Some states require completion of food hygiene training and certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,662,600。美国快餐和柜台服务员的就业前景稳定，预计2023-2033年就业增长约10%，新增约50万个职位。主要由于快餐消费持续增长和外卖服务需求扩大。
+**Job demand: high (★★★★☆).** National workforce approx. 3,662,600. The employment outlook for fast food and counter workers in the US is stable, with projected employment growth of about 10% from 2023 to 2033, adding about 500,000 new positions. This is mainly due to sustained growth in fast food consumption and increased demand for delivery services.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-1年） | $22,000~$25,000 | 通常为最低工资或略高 |
-| 中级（1-3年） | $25,000~$30,000 | 部分经验丰富的员工薪资略高 |
-| 高级（3年以上） | $28,000~$35,000 | 包括小组长或轮班主管 |
+| Median salary | $31,200 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (0-1 year) | $22,000~$25,000 | Usually minimum wage or slightly higher |
+| Intermediate (1-3 years) | $25,000~$30,000 | Some experienced employees earn slightly higher salaries |
+| Senior (3+ years) | $28,000~$35,000 | Includes team leaders or shift supervisors |
+| average salary | $32,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业发展路径通常从初级服务员起步，可晋升为组长、轮班主管或餐厅助理经理。少数可进一步晋升为餐厅经理或区域经理。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Fast food and counter service workers perform highly procedural tasks; AI automation and self-service ordering systems are rapidly replacing core tasks, leading to significant job decline, lower entry barriers but worsening career prospects.
+
+Career progression typically starts from junior waiter/server, advancing to team leader, shift supervisor, or assistant restaurant manager. A few can further progress to restaurant manager or area manager.
+
+**Tasks most exposed to AI:**
+
+- Handle customer orders through self-service kiosks or mobile apps, replacing manual entry
+- Use AI voice system to receive orders and automatically transmit to the kitchen
+- Automated checkout and payment processing, reducing cash handling
+- Dynamic menu recommendations based on historical data, no staff promotion needed
+- Kitchen automation equipment (e.g., robot fryers) handles food preparation
+
+**Where AI augments the role:**
+
+- AI-assisted inventory management systems can predict demand and reduce food waste
+- Real-time data analytics to optimize scheduling and improve employee efficiency
+- Automated food safety monitoring systems supporting staff checks
+- Customer emotion recognition tools help employees provide personalised service
+
+**Human moat:**
+
+- Handling complex or special customer needs (e.g., allergies, complaints) requires empathy and flexibility
+- Coordinating front and back-end processes during peak hours requires on-site decision-making
+- Maintaining restaurant cleanliness and hygiene standards, requiring proactive observation and manual operations
+- Teamwork and communication, especially in high-pressure environments
+
+**Skills to build:**
+
+- Learn to maintain and troubleshoot self-service ordering systems
+- Master basic data analysis, interpret sales and inventory reports
+- Improve customer service skills to handle non-standard requests
+- Obtain food safety and hygiene certifications (e.g., ServSafe).
+- Learn basic interpersonal communication and conflict resolution
+
+**Key growth areas:**
 
 - Growing fast food demand
 - Delivery service expansion
@@ -62,62 +95,64 @@ Perform duties such as taking orders, serving food and beverages, and handling p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 此职业不符合H-1B专业职业要求，通常无法申请 |
-| Subclass O-1（O-1 Extraordinary Ability） | 不符合申请条件 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation does not meet H-1B specialty occupation requirements and is generally not eligible for application |
+| Subclass O-1 (O-1 Extraordinary Ability) | Does not meet application requirements |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fast Food and Counter Workers？**
-- 能快速适应快节奏工作环境的人
-- 善于与人交流、有耐心的人
-- 寻求灵活兼职或入门级职位的人
+**Who is suited**
+- Those who can quickly adapt to a fast-paced work environment
+- People who are good at communicating and patient
+- People seeking flexible part-time or entry-level positions
 
-**谁不适合学Fast Food and Counter Workers？**
-- 希望高收入或稳定职业发展的人
-- 不喜欢站立工作或应对繁忙高峰时段的人
+**Who is not suited**
+- People seeking high income or stable career development
+- People who dislike standing work or handling busy peak hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for fast food and counter attendants?**
+A: According to the US Bureau of Labor Statistics, the average annual salary in 2023 was about $27,000, though most employees earn near minimum wage.
+
+**Q: Can fast food and counter attendants immigrate to the US via work visa?**
+A: Usually not. The occupation does not require an advanced degree, so it does not meet H-1B specialty occupation requirements, and employer-sponsored green cards are very difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 简单（½☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Fast Food and Counter Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for fast food and counter workers?**
-答：According to BLS, the average annual salary was about $27,000 in 2023, but most earn near minimum wage.
-
-**问：Can fast food and counter workers immigrate to the US via work visa?**
-答：Generally no. The occupation does not require a bachelor's degree and is not eligible for H-1B; employer-sponsored green cards are extremely rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Inland Waterway Transport Operator（Inland Waterway Transport Operator）职业分析 · FR
+# Inland Waterway Transport Operator — career analysis · France
 
-**职业代码：N3202 – Inland Waterway Transport Operator。**
+**Occupation code: N3202 (ROME)**
 
-An inland waterway transport operator organizes, coordinates, and executes freight or passenger transport on rivers and canals, including vessel scheduling, route planning, cargo handling supervision, and compliance with safety and environmental regulations. This role is vital to France's extensive river network.
+Inland waterway transport operators are responsible for organizing, coordinating, and executing transportation tasks for inland waterway cargo or passengers, including vessel scheduling, route planning, cargo loading and unloading supervision, and compliance with safety and environmental protection regulations. This profession plays a key role in the French river network, such as the Seine and Rhône rivers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2年（CAP） | —（公立学校免费，注册费约0-1500欧元） |
-| 高中毕业会考+专业培训 | 2年（Bac Pro） | —（公立教育免费，材料费自理） |
-| 高级技师文凭 | 2年（BTS） | —（公立院校免学费，私立约3000欧元/年） |
+| Secondary vocational education | 2 years (CAP) | $0~$1,500 (Public schools are free, with registration fees ranging from 0 to 1500 euros) |
+| High school graduation exam + professional training | 2 years (Bac Pro) | $0~$2,000 (Public education is free; materials are self-paid) |
+| Senior Technician Diploma | 2 Years (BTS) | $0~$3,000 (Public institutions tuition-free, private approx EUR 3,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 内河航行专业资格证书（CCNI） | 法国交通部（Ministère de la Transition écologique） | 必备 | 需通过理论及实践考试，包含安全、导航、法规等模块 |
-| 船长证书（Patron de Navigation Intérieure） | Voies Navigables de France (VNF) | 必备 | 高级资质，允许独立驾驶船舶，需经验积累 |
-| 危险品运输培训（ADR） | 法国危险品培训中心 | 可选 | 如需运输危险货物，必须取得 |
+| Inland Waterway Navigation Professional Qualification Certificate (CCNI) | French Ministry of Transport (Ministère de la Transition écologique) | Required | Requires passing both theoretical and practical exams, including modules such as safety, navigation, and regulations |
+| Captain's Certificate (Patron de Navigation Intérieure) | Voies Navigables de France (VNF) | Required | Advanced qualifications, allowing independent operation of vessels, requiring experience |
+| Dangerous Goods Transport Training (ADR) | French Dangerous Goods Training Center | Optional | If dangerous goods need to be transported, they must be obtained |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。法国政府推动水路物流以减轻公路拥堵和碳排放，内河运输量预计增长。然而，该领域规模较小，岗位数量有限，竞争中等。需关注行业现代化（如数字化调度）和环保法规变化带来的技能更新需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. The French government is promoting waterway logistics to alleviate road congestion and carbon emissions, with inland waterway transport expected to grow. However, the field is relatively small, with limited number of positions and moderate competition. Attention should be paid to the need for skill upgrades brought about by industry modernization (such as digital scheduling) and changes in environmental regulations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含管理职责 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $52,632 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级运营员可通过积累经验晋升为调度主管或港口运营经理。持有高级船长资质（如Patron de Navigation Intérieure）可转向船舶驾驶或技术管理。部分人员可进入多式联运协调或物流咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Junior operators can be promoted to dispatch supervisor or port operations manager through accumulated experience. Holding senior captain qualifications (such as Patron de Navigation Intérieure) allows you to switch to ship navigation or technical management. Some personnel can enter the fields of multimodal transport coordination or logistics consulting.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Inland Waterway Logistics
 - River Freight Growth
@@ -63,68 +99,67 @@ An inland waterway transport operator organizes, coordinates, and executes freig
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，需合同及资质证明，有效期4年，可续签，配偶可随行工作。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主提供长期合同，通过劳工市场测试（紧缺职业可豁免），有效期1-4年。 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求高薪（年薪≥53,955欧元，2023年标准），该职业薪资通常不满足，但管理岗可能达标。 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, requires contract and qualification certificates, valid for 4 years, renewable visa, spouse can accompany for work. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | A long-term contract must be provided by a French employer, pass a labor market test (exemption for shortage occupations), valid for 1-4 years. |
+| Subclass Carte bleue UE (EU Blue Card) | High salaries are required (annual salary ≥ 53,955 euros, 2023 standard). Salaries for this occupation are usually not met, but management positions may meet the requirements. |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Inland Waterway Transport Operator？**
-- 喜欢户外和水上工作环境的人
-- 对物流和运输管理有兴趣的人
-- 愿意通过认证提升技能的人
-
-**谁不适合学Inland Waterway Transport Operator？**
-- 不适应轮班工作或长时间离家的人
-- 对薪资增长期望较高的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor and water work environments
+- People interested in logistics and transportation management
+- People willing to improve their skills through certification
+
+**Who is not suited**
+- People who are not suited to shift work or long periods away from home
+- People with higher expectations for salary growth
+
+---
+
+## 8. FAQ
+
+**Q: Is there significant room for salary growth for inland waterway transport operators?**
+A: Salary growth is relatively stable, junior about €25,000-30,000, senior up to €45,000. Promotion to management or obtaining captain credentials can push salary above €50,000, but growth is slow.
+
+**Q: How can third-country citizens immigrate to France through this employment?**
+A: You must obtain a French employer sponsor and apply for Salarié work residence or Passeport Talent (if your skills are outstanding). Because this occupation is in high demand (métier en tension), labor market tests may be exempted. It is recommended to first obtain a CCNI certificate recognized by France.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can progress from entry-level operator to shift supervisor, port manager, or become a captain through the Patron de Navigation Intérieure exam. May also transition to intermodal coordination or logistics consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★☆☆） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Inland Waterway Transport Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth for inland waterway transport operators?**
-答：Salary growth is steady but moderate, starting at €25k-30k and reaching €45k for senior roles. Advancement to management or captain positions may yield over €50k, but progression is slow.
-
-**问：How can third-country nationals migrate to France through this occupation?**
-答：You need a French employer sponsor to apply for a Salarié work permit or Passeport Talent (if highly skilled). As the occupation is on the shortage list (tension métier), the labor market test may be waived. Obtaining a French-recognized CCNI certification is recommended.
-
-**问：What are the career advancement paths?**
-答：From junior operator to dispatch supervisor, port manager, or captain via Patron de Navigation Intérieure certification, or transition to intermodal coordination or logistics consulting.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

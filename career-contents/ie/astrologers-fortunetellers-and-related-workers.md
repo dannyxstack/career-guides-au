@@ -1,60 +1,96 @@
-# Astrologers, Fortune-tellers and Related Workers（Astrologers, Fortune-tellers and Related Workers）职业分析 · IE
+# Astrologers, Fortune-tellers and Related Workers — career analysis · Ireland
 
-**职业代码：5161 – Astrologers, Fortune-tellers and Related Workers。**
+**Occupation code: 5161 (ISCO08)**
 
-Astrologers, fortune-tellers and related workers provide personal consultations and predictions using astrology, tarot cards, and other methods. This is a niche occupation in Ireland with limited demand.
+Astrologers and fortune tellers provide personal consultation and prediction services to clients using methods such as astrology and tarot cards. This occupation is a niche profession in Ireland with limited market demand.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期课程或证书 | 6个月至1年 | $1,000~$3,000（私立机构或在线课程） |
-| 学徒制 | 1-3年 | $500~$2,000（跟随资深从业者学习） |
+| Short-term course or certificate | 6 months to 1 year | $1,000~$3,000 (Private institutions or online courses) |
+| Apprenticeship | 1-3 years | $500~$2,000 (Learn from experienced practitioners) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 占星或塔罗证书 | 国际占星研究协会（ISAR）等 | 可选 | 非强制，但有助于建立信誉 |
-| 商业执照 | 当地政府 | 必备 | 自雇需注册为个体经营者 |
+| Business license | Local government | Required | Self-employed individuals need to register as sole traders |
+| Astrology or tarot certificate | International Society for Astrological Research (ISAR), etc. | Optional | Not mandatory, but helps build credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 150。爱尔兰占星和算命服务需求较小，多为兼职或自雇形式。随着人们对替代疗法的兴趣增长，市场可能缓慢扩展，但整体前景平淡。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 150. Demand for astrology and fortune-telling services in Ireland is small, mostly part-time or self-employed. As interest in alternative therapies grows, the market may slowly expand, but overall prospects are modest.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 兼职或起步阶段 |
-| 中级（3-7年） | $25,000~$40,000 | 有一定客户群 |
-| 高级（7年以上） | $40,000~$60,000 | 知名从业者或工作室主 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Part-time or entry-level |
+| Mid-level (3–7 years) | $25,000~$40,000 | Has a certain client base |
+| Senior (7+ years) | $40,000~$60,000 | Well-known practitioner or studio owner |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从业者多从助理或学徒做起，积累客户后独立执业。发展路径有限，少数人可开设工作室或转行至相关领域如生活教练。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will replace some forecasting and report generation tasks, but clients' trust in personalized consultation and emotional connection is hard to fully replace; AI tools can assist with chart calculation and data retrieval, improving efficiency.
+
+Practitioners often start as assistants or apprentices, then build a client base to practice independently. Career paths are limited; few open their own studios or transition to related fields like life coaching.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate horoscope interpretations and daily fortune reports
+- Using AI algorithms for astrological predictions and compatibility analysis
+- Handle standardized inquiries via AI chatbots
+- Automate customer appointments and basic file management
+- Use computer vision to recognize tarot card patterns and interpret readings
+
+**Where AI augments the role:**
+
+- AI-assisted deep horoscope analysis for more accurate celestial positions and aspect calculations
+- Optimizing customer communication scripts and copy using natural language processing
+- Predicting customer preferences through data analysis to provide personalized service
+- Use generative AI to quickly produce promotional materials and social media content
+- AI tools assist in researching historical astrology cases and cross-cultural interpretations
+
+**Human moat:**
+
+- Clients' emotional trust in personalized, warm face-to-face consultations
+- Ability to provide in-depth interpretation integrating psychology, spirituality, and cultural background
+- Ability to improvise and perform live on-site at ceremonies or events
+- Empathy and ethical judgment required for complex life decision advice
+- Personal branding for building long-term client relationships and word-of-mouth
+
+**Skills to build:**
+
+- Foundations of psychology (e.g., counseling techniques)
+- AI tool application (e.g., ChatGPT, image generation tools)
+- Social media marketing and brand operations
+- Critical thinking and data interpretation skills
+- Cross-cultural spiritual and philosophical knowledge
+- Online and offline event planning and hosting
+
+**Key growth areas:**
 
 - Self-employment
 - Niche market
@@ -63,69 +99,68 @@ Astrologers, fortune-tellers and related workers provide personal consultations 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛一般3万欧元以上。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能职业，但占星师不符合要求。 |
-| Subclass Self-employment（Self-Employment Option） | 可自雇，需证明对爱尔兰经济有贡献，较难获批。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation shortages, requires employer sponsorship, annual salary threshold generally over €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Targeted at high-skilled occupations, but astrologers do not meet the requirements. |
+| Subclass Self-employment (Self-Employment Option) | Can be self-employed, need to prove contribution to Irish economy, difficult to obtain approval. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Astrologers, Fortune-tellers and Related Workers？**
-- 对占星、塔罗等神秘学有浓厚兴趣的人
-- 善于沟通、有同理心的人
-- 能接受不稳定收入和自雇状态的人
-
-**谁不适合学Astrologers, Fortune-tellers and Related Workers？**
-- 追求稳定高收入的人
-- 缺乏自我营销能力的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in mysticism such as astrology and tarot
+- People who are good at communication and empathetic
+- Able to accept irregular income and self-employment status
+
+**Who is not suited**
+- People seeking stable high income
+- People lacking self-marketing skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for astrologers in Ireland?**
+A: Income varies widely for astrologers: entry-level annual income about €15,000-25,000, senior can reach €40,000-60,000, but most are self-employed part-time.
+
+**Q: Can non-EU citizens immigrate to Ireland as astrologers?**
+A: Very difficult. Astrologers are not in a shortage occupation, cannot obtain a Skills in Demand visa, and general employment visas require an employer and a salary meeting the threshold, with high barriers for self-employment immigration.
+
+**Q: What educational background is needed to become an astrologer?**
+A: No formal qualifications required, but attending astrology or tarot training courses helps enhance professional skills and credibility.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Astrologers, Fortune-tellers and Related Workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for astrologers in Ireland?**
-答：Income varies widely: junior practitioners earn around €15,000-€25,000, while senior ones may reach €40,000-€60,000, mostly self-employed part-time.
-
-**问：Can non-EU citizens immigrate to Ireland as an astrologer?**
-答：Very difficult. Astrologers are not on the critical skills list; a General Employment Permit requires employer sponsorship and salary threshold, while self-employment is challenging.
-
-**问：What education is needed to become an astrologer?**
-答：No formal degree is required, but training courses in astrology or tarot can enhance skills and credibility.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

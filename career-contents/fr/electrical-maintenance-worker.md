@@ -1,60 +1,95 @@
-# Electrical Maintenance Worker（Electrical Maintenance Worker）职业分析 · FR
+# Electrical Maintenance Worker — career analysis · France
 
-**职业代码：I1309 – Electrical Maintenance Worker。**
+**Occupation code: I1309 (ROME)**
 
-Responsible for installation, troubleshooting, repair, and preventive maintenance of industrial electrical equipment to ensure safe and reliable production operations.
+Responsible for installation, maintenance, troubleshooting, and preventive maintenance of industrial electrical equipment to ensure the safe and stable operation of production equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或 BEP 电气维护 | 2年（CAP） | —（公立职高免费，部分学校收取少量注册费） |
-| BTS 电气维护或工业维护 | 2年（BTS） | —（公立学校免学费，私立学校费用较高） |
-| Licence Pro 电气工程 | 3年（Licence） | —（大学学费约170欧/年，私立院校另计） |
+| CAP or BEP electrical maintenance | 2 years (CAP) | $0~$1,500 (Public vocational high schools are free, with some schools charging a small registration fee) |
+| BTS electrical maintenance or industrial maintenance | 2 Years (BTS) | $0~$3,000 (Public schools are free of charge, while private schools are more expensive) |
+| Licence Pro Electrical Engineering | 3 years (Licence) | $0~$5,000 (University tuition is about 170 euros per year, with private institutions charged separately) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| B2电气资质（电气操作认证） | INRS（法国国家研究与安全研究所） | 必备 | 必备安全资质，从事电气操作、维修或测试需持有 |
-| CAPEL 电气维护文凭 | 法国教育部 | 可选 | 国家职业文凭，是从事该职业的基础资质 |
-| CQP 工业电气维护 | 法国行业联合认证 | 可选 | 通过学徒制或继续教育获得，提升就业竞争力 |
+| B2 Electrical Qualification (Electrical Operation Certification) | INRS (French National Institute for Research and Security) | Required | Required safety qualifications; required for electrical operation, maintenance, or testing |
+| CAPEL Electrical Maintenance Diploma | French Ministry of Education | Optional | The national vocational diploma is the basic qualification for working in this profession |
+| CQP Industrial Electrical Maintenance | French industry joint certification | Optional | Gain employment competitiveness through apprenticeships or continuing education |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国工业电气维护岗位需求稳定，尤其在制造业、能源和物流领域。随着设备自动化升级，具备PLC和工业网络技能的维护工更受青睐。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Demand for industrial electrical maintenance positions in France remains stable, especially in manufacturing, energy, and logistics. With equipment automation upgrades, maintenance workers with PLC and industrial network skills are increasingly favored.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视企业规模和地区浮动 |
-| 中级（4-8年） | $28,000~$35,000 | 含加班和津贴 |
-| 高级（8年以上） | $35,000~$45,000 | 含主管津贴或技术专家补贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary varies depending on company size and region |
+| Mid-level (4–8 years) | $28,000~$35,000 | Including overtime and allowances |
+| Senior (8+ years) | $35,000~$45,000 | Including supervisor allowances or technical expert subsidies |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级维护技术员晋升为高级技术员或团队主管，也可通过继续教育转向电气工程或自动化项目管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+You can advance from junior maintenance technician to senior technician or team leader, or transition to electrical engineering or automation project management through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industrial Automation
 - Predictive Maintenance
@@ -63,68 +98,67 @@ Responsible for installation, troubleshooting, repair, and preventive maintenanc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 适合已获得法国雇主工作合同的技术工人，需经过法国劳动局审核 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，需持有至少学士学位及年薪高于2倍SMIC（约3.5万欧） |
-| Subclass Carte bleue UE（EU Blue Card） | 适合高学历（本科以上）且年薪达1.5倍法国平均工资（约5.3万欧）的专业人士，电气维护岗位通常达不到此门槛 |
+| Subclass Salarié (Employee Work Permit) | Suitable for skilled workers who have already obtained a contract with a French employer and must pass the French Labor Authority's review |
+| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requires at least a bachelor's degree and annual salary higher than 2 times SMIC (about €35,000) |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for professionals with higher education (bachelor's or above) and an annual salary 1.5 times the French average wage (approx. EUR 53,000). Electrical maintenance roles typically do not meet this threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Maintenance Worker？**
-- 喜欢动手实操、解决电气故障的人
-- 追求工作稳定、不排斥工科基础的人
-- 愿意接受短期培训后快速就业的人
-
-**谁不适合学Electrical Maintenance Worker？**
-- 厌恶户外或车间工作环境、频繁出差者
-- 不愿学习新技术或更新电气知识者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and resolving electrical faults
+- People seeking job stability and not averse to an engineering background
+- People willing to get short-term training and start working quickly
+
+**Who is not suited**
+- Those who dislike outdoor or workshop environments and frequent travel.
+- Those unwilling to learn new technologies or update electrical knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of electrical maintenance workers in France?**
+A: Entry-level approx. €22,000-28,000/year; mid-level approx. €28,000-35,000/year; senior up to €35,000-45,000/year (pre-tax), including overtime and allowances.
+
+**Q: How can foreigners immigrate to France through electrical maintenance work?**
+A: Common route: Apply for a Salarié work visa after obtaining a contract with a French employer; High-income earners can apply for Passeport Talent. Shortage areas are more likely to pass the French Labor Bureau's review.
+
+**Q: Is there a promotion potential for electrical maintenance workers?**
+A: You can be promoted from technician to senior technician, team leader, or transition to positions such as electrical engineering or automation project management through continuing education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electrical Maintenance Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for electrical maintenance workers in France?**
-答：Entry-level: €22k-€28k/year, mid-level: €28k-€35k/year, senior: €35k-€45k/year (gross), including overtime and allowances.
-
-**问：How can foreigners migrate to France as an electrical maintenance worker?**
-答：Common paths: obtain an employer contract and apply for a Salarié work permit; high earners may apply for a Talent Passport. Shortage regions facilitate approval.
-
-**问：Is there career advancement for electrical maintenance workers?**
-答：Yes, from technician to senior technician, team leader, or via further education to electrical engineering or automation project management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

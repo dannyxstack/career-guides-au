@@ -1,58 +1,91 @@
-# Landscaper（Landscaper）职业分析 · 新西兰
+# Landscaper — career analysis · New Zealand
 
-**职业代码：362312 – Landscaper。**
+**Occupation code: 362312 (ANZSCO)**
 
-Landscapers in New Zealand design, build, and maintain outdoor spaces; with high demand and Green List status, they can directly apply for residence.
+Gardeners in New Zealand engage in landscape design, construction, and maintenance. Employment is stable, and they can directly apply for residency via the Green List, suitable for those with relevant skills to immigrate.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书 | 1年 | $5,000~$15,000（新西兰理工学院的National Certificate in Horticulture (Landscape)） |
-| 大专 | 2年 | $10,000~$25,000（Diploma in Landscape Design或类似课程） |
+| Certificate | 1 year | $5,000~$15,000 (New Zealand Institute of Technology's National Certificate in Horticulture (Landscape)) |
+| Diploma | 2 years | $10,000~$25,000 (Diploma in Landscape Design or similar course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰园艺证书（景观）Level 4 | 新西兰资格认证局 (NZQA) | 必备 | 通常需要1年完成，涵盖植物学、土壤、施工等 |
-| 从事高危作业需持有Site Safe卡 | Site Safe | 可选 | 施工现场安全卡，非强制但雇主常要求 |
+| New Zealand Certificate in Horticulture (Landscape) Level 4 | New Zealand Qualifications Authority (NZQA) | Required | Typically takes 1 year to complete, covering botany, soil, construction, etc. |
+| Must hold a Site Safe card for high-risk work | Site Safe | Optional | Construction site safety card, not mandatory but often required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。新西兰建筑业与园艺业持续增长，园林工需求旺盛，尤其在奥克兰等大城市。未来五年就业机会预计稳定增长，政府基建投资带动岗位增加。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. New Zealand's construction and horticulture industries continue to grow, with strong demand for landscapers, especially in cities like Auckland. Employment opportunities are expected to grow steadily over the next five years, driven by government infrastructure investments.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 试用期后通常可达5万 |
-| 中级（4-7年） | $60,000~$75,000 | 持证并有项目管理经验 |
-| 高级（8年以上） | $80,000~$100,000 | 高级技师或项目经理，部分自有公司收入更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Usually around 50,000 after probation |
+| Mid-level (4-7 years) | $60,000~$75,000 | Certified and with project management experience |
+| Senior (8+ years) | $80,000~$100,000 | Senior technician or project manager; some own companies have higher income |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级园林工可晋升为高级技工、现场主管或项目经理；积累经验后可独立承包或创办公司，也可向景观设计或城市绿化方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Junior gardeners can advance to senior technician, site supervisor, or project manager; with experience, can become independent contractors or start their own company, or develop towards landscape design or urban greening.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +94,67 @@ Landscapers in New Zealand design, build, and maintain outdoor spaces; with high
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 园林工在绿色清单Tier 1，满足薪资中位数（约29.66纽币/小时）可直接申请居留，无需工作两年。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 职业在新西兰ANZSCO技能等级2-3，可通过6分制申请，但绿色清单更快捷。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未达到绿色清单要求，可先持AEWV工作，积累经验后申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Landscape gardener is on Green List Tier 1, meeting median salary (approx. NZD 29.66/hour) can directly apply for residence without working for two years. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | The occupation is at ANZSCO skill level 2-3 in New Zealand, can apply via the 6-point system, but the Green List is faster. |
+| Subclass AEWV (Accredited Employer Work Visa) | If green list requirements are not met, you can work on an AEWV first, then apply for residence after gaining experience. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscaper？**
-- 喜欢户外工作，动手能力强，不介意体力劳动
-- 有园艺、景观或建筑背景，希望快速移民的人
-- 能适应新西兰多变气候，愿意在工地环境中工作
-
-**谁不适合学Landscaper？**
-- 不喜欢长时间户外或体力劳动，偏好白领环境
-- 对植物、工具操作及施工安全缺乏耐心
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work, hands-on, and doesn't mind physical labor
+- People with gardening, landscape, or construction backgrounds who want to immigrate quickly
+- Able to adapt to New Zealand's variable climate, willing to work in construction site environments
+
+**Who is not suited**
+- Dislikes prolonged outdoor or physical labor, prefers white-collar environment
+- Lacks patience for plants, tool operation, and construction safety
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for gardeners in New Zealand?**
+A: Junior: approx NZ$45,000-55,000/year; intermediate: NZ$60,000-75,000; senior: NZ$80,000-100,000. Project managers or own business may earn more, but varies by region.
+
+**Q: How can landscapers immigrate to New Zealand through the Green List?**
+A: Gardeners are on Green List Tier 1; with a certified employer job offer and salary at median (approx. NZ$29.66/hour), can apply directly for Straight to Residence Visa, no two-year wait.
+
+**Q: What qualifications are needed to work as a gardener in New Zealand?**
+A: Usually requires National Certificate in Horticulture (Landscape) Level 4, obtainable from polytechnics or training providers. A Site Safe card is preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Landscaper的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for landscapers in New Zealand?**
-答：Entry-level NZ$45,000-55,000, mid-level NZ$60,000-75,000, senior NZ$80,000-100,000. Project managers or self-employed may earn more.
-
-**问：How can landscapers immigrate to New Zealand via the Green List?**
-答：Landscapers are on Green List Tier 1. With a job from an accredited employer and median wage (approx. NZ$29.66/hr), they can directly apply for the Straight to Residence Visa.
-
-**问：What qualifications are needed to work as a landscaper in New Zealand?**
-答：Typically a National Certificate in Horticulture (Landscape) Level 4 from a polytechnic. A Site Safe card is beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Occupational therapists（Occupational therapists）职业分析 · UK
+# Occupational therapists — career analysis · United Kingdom
 
-**职业代码：2222 – Occupational therapists。**
+**Occupation code: 2222 (SOC)**
 
-Occupational therapists help people with physical, learning disabilities or mental illness to regain independence and confidence through purposeful activities.
+Occupational therapists help people limited by physical, learning disabilities, or mental illness to regain independent living skills and confidence through purposeful activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学士学位 | 3-4年 | $9,000~$20,000（英国学生学费约£9,250/年，国际生约£15,000-£25,000/年） |
-| 硕士预注册课程 | 2年 | $12,000~$25,000（适用于非相关专业毕业生，学费较高） |
+| Bachelor's degree | 3-4 years | $9,000~$20,000 (UK student tuition fees around £9,250/year, international students around £15,000–£25,000/year) |
+| Pre-master's pathway program | 2 years | $12,000~$25,000 (Suitable for graduates from unrelated majors, higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业治疗学士/硕士学位 | 英国大学 | 必备 | 需获得皇家职业治疗师学院（RCOT）和健康与护理专业委员会（HCPC）认可 |
-| HCPC注册 | 健康与护理专业委员会（HCPC） | 必备 | 在英国执业必须注册 |
-| RCOT会员 | 皇家职业治疗师学院（RCOT） | 可选 | 非强制，但推荐加入以获取专业发展资源 |
+| Bachelor's/Master's degree in Occupational Therapy | UK universities | Required | Must be accredited by the Royal College of Occupational Therapists (RCOT) and the Health and Care Professions Council (HCPC) |
+| HCPC registration | Health and Care Professions Council (HCPC) | Required | Must be registered to practice in the UK |
+| RCOT membership | Royal College of Occupational Therapists (RCOT) | Optional | Not mandatory, but recommended to join to access professional development resources |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。英国老龄化及心理健康需求增加推动职业治疗师需求增长。NHS 和社会服务机构持续招聘，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The UK's aging population and increasing mental health needs are driving demand for occupational therapists. NHS and social care institutions continue to recruit, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$33,000 | NHS Band 5薪资范围 |
-| 中级（3-8年） | $33,000~$42,000 | NHS Band 6薪资范围 |
-| 高级（8年以上） | $42,000~$55,000 | NHS Band 7及以上，管理或临床专家岗位 |
+| Median salary | $44,040 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $27,000~$33,000 | NHS Band 5 salary range |
+| Mid-level (3–8 years) | $33,000~$42,000 | NHS Band 6 salary range |
+| Senior (8+ years) | $42,000~$55,000 | NHS Band 7 and above, management or clinical specialist roles |
+| average salary | $43,164 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级治疗师可晋升为高级治疗师、团队领导或临床专家，也可转向管理、教育或研究岗位，部分选择独立执业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core clinical assessments and personalized interventions of occupational therapists are hard to automate, but some administrative, data organization, and patient monitoring tasks will be taken over by AI. Overall demand for this role will grow due to aging society, but entry-level positions may decrease due to efficiency gains.
+
+Junior therapists can advance to senior therapist, team leader, or clinical specialist, or transition to management, education, or research roles, with some opting for independent practice.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate therapy progress reports and documentation
+- Automatic scoring and data analysis based on standard assessment tools
+- Automatic monitoring and reminders for patient home rehabilitation plans
+- Manage appointments, schedules, and insurance claims processes
+- Retrieve and summarize evidence-based medical literature
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient movement data to optimize personalized treatment plans
+- Enhance patient activity training outcomes through AR/VR simulated environments
+- AI-assisted remote rehabilitation guidance and real-time feedback
+- Predict patient recovery trajectories based on big data and adjust intervention intensity
+- Automatically generate patient education materials and activity recommendations
+
+**Human moat:**
+
+- Establishing therapeutic trust relationships and emotional support
+- Comprehensive assessment of patient physiological, psychological, and social environmental factors
+- Creative strategies for adjusting activity difficulty and adaptability
+- Clinical judgment and ethical decision-making (e.g., patient autonomy)
+- Interdisciplinary collaboration (with doctors, social workers, family members) communication
+
+**Skills to build:**
+
+- Mastering AI rehabilitation tools (such as sensor analysis, VR systems)
+- Data analysis and visualization (for patient progress tracking)
+- Telemedicine and digital document management
+- Human-computer interaction design principles (for assistive activity design)
+- Continuous learning of evidence-based practice and AI ethics
+- Basic programming or scripting (custom automation tools)
+
+**Key growth areas:**
 
 - Aging population
 - Mental health focus
@@ -62,69 +98,68 @@ Occupational therapists help people with physical, learning disabilities or ment
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：积极（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker visa） | 适用于NHS或社会护理机构工作，满足紧缺职业列表，薪资门槛低，申请费优惠 |
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于其他雇主担保，需满足一般薪资门槛（£26,200/年或职业具体工资标准） |
-| Subclass Graduate（Graduate visa） | 完成英国学位后可申请，允许2年（本科/硕士）或3年（博士）在英工作，无需担保 |
-| Subclass Global Talent（Global Talent visa） | 适用于在职业治疗领域有杰出成就或潜力的申请人，无需雇主担保 |
+| Subclass Health & Care Worker (Health and Care Worker visa) | For work in NHS or social care institutions, meeting shortage occupation list, low salary threshold, discounted application fee. |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to other employer sponsorship, must meet the general salary threshold (£26,200/year or occupation-specific salary rate). |
+| Subclass Graduate (Graduate visa) | Available after completing a UK degree; allows 2 years (Bachelor's/Master's) or 3 years (PhD) to work in the UK without sponsorship |
+| Subclass Global Talent (Global Talent visa) | Applicable to applicants with outstanding achievements or potential in occupational therapy, no employer sponsorship required |
 
-**PR难度：易（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational therapists？**
-- 有耐心和同理心的人
-- 喜欢解决问题和创造性工作的人
-- 希望从事有社会意义的职业的人
-
-**谁不适合学Occupational therapists？**
-- 不喜欢与不同类型的人打交道的人
-- 无法承受情感压力的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy
+- People who enjoy problem-solving and creative work
+- people who want a career with social impact
+
+**Who is not suited**
+- Those who dislike interacting with different types of people
+- People who cannot handle emotional pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an occupational therapist?**
+A: Entry approx. £27,000-£33,000; after 5 years £33,000-£42,000; senior or management roles up to £55,000+.
+
+**Q: Is it easy to migrate to the UK as an occupational therapist?**
+A: Easy. Occupational therapists are on the shortage occupation list, eligible for the Health and Care Worker visa with lower salary thresholds, and actively sponsored by the NHS and other organizations.
+
+**Q: What are the career development paths for an occupational therapist?**
+A: Can progress to senior therapist, team leader, clinical specialist, or move into management, education, research roles, or work independently.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 积极（★★★★☆） |
-| PR难度 | 易（★½☆☆☆） |
-
-Occupational therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for occupational therapists?**
-答：Entry level around £27,000-£33,000; after 5 years £33,000-£42,000; senior or managerial roles can exceed £55,000.
-
-**问：Is it easy for occupational therapists to immigrate to the UK?**
-答：Yes. Occupational therapists are on the shortage occupation list and can apply for the Health and Care Worker visa with lower salary thresholds.
-
-**问：What are the career progression paths for occupational therapists?**
-答：Advance to senior therapist, team leader, clinical specialist, or move into management, education, research, or private practice.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

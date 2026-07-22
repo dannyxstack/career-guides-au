@@ -1,63 +1,90 @@
-# 普通文员（General Clerk）职业分析 · 澳大利亚
+# General Clerk — career analysis · Australia
 
-**职业代码：532111 – General Clerk。**
+**Occupation code: 532111 (ANZSCO)**
 
-普通文员处理文件录入、归档、收发与日常行政事务，是各类机构的基础支持岗位，门槛低、入职快，非技术移民职业。
+General clerks handle data entry, filing, correspondence and routine administrative tasks, providing foundational support across various organisations. Low entry barriers and fast employment turnaround; not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中/Certificate II-III in Business（可选） | 0~1年 | —（在岗培训为主） |
+| Year 12 / Certificate II–III in Business (optional) | 0–1 year | $0~$4,000 (Primarily on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Business (BSB30120) | TAFE/RTO | 可选 | 非强制 |
+| Certificate III in Business (BSB30120) | TAFE/RTO | Optional | Not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 180,000。基础文职受办公自动化与AI挤压，但行政支持需求长期存在，向行政协调/办公室管理发展空间较好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 180,000. Entry-level clerical roles face pressure from office automation and AI, but demand for administrative support persists long term, with good prospects for progression into administrative coordination and office management.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 3,000~6,000 个 | 全国 |
-| Indeed | 2,500~5,000 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门（0-2年） | $50,000~$58,000 | 全职 |
-| 有经验（2-5年） | $58,000~$70,000 | — |
-| 资深/行政协调 | $70,000~$80,000 | — |
+| Median salary | $71,292 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $50,000~$58,000 | Full-time |
+| Experienced (2–5 years) | $58,000~$70,000 | — |
+| Senior/Executive Coordinator | $70,000~$80,000 | — |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向行政主管、办公室经理路径发展；熟练Excel与CRM系统更有竞争力。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
+
+Can progress to executive assistant or office manager roles; proficiency in Excel and CRM systems is a competitive advantage.
+
+**Tasks most exposed to AI:**
+
+- Data entry and table sorting (manual review only required)
+- Standard email and basic document drafting
+- Auto-generation of simple reports
+- Voice transcription and archiving of meeting minutes
+
+**Where AI augments the role:**
+
+- Cross-system data reconciliation and cleaning
+- AI draft followed by manual proofreading
+- Process scheduling and coordination
+- Knowledge base retrieval and organization
+
+**Human moat:**
+
+- Cross-departmental communication and coordination
+- Overall understanding of business processes
+- Judgment and handling of exceptions and anomalies
+- Interpersonal trust with clients/colleagues
+
+**Skills to build:**
+
+- Office automation (Excel/Power Automate)
+- AI office assistants (Copilot, etc.)
+- Data organization and basic analysis
+- Process and project coordination
+- Business communication and English
+
+**Key growth areas:**
 
 - Office Automation
 - Data Entry & CRM
@@ -65,57 +92,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学普通文员？**
-- 细心、擅长文档与流程的人
-- 想进入办公室行政路径的新人
-
-**谁不适合学普通文员？**
-- 以技术移民为目标者
-- 追求高薪或快速晋升者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals who excel at documentation and process management
+- Those new to the field looking to enter an office administration pathway
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those seeking high salaries or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a general clerk in Australia?**
+A: Approximately AUD $50,000-$80,000, with senior executive coordination up to $80,000.
+
+**Q: Can general clerical workers apply for skilled migration?**
+A: No — this is a non-skilled migration occupation and is not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-普通文员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲普通文员工资多少？**
-答：约AUD $5万~$8万，资深行政协调可到$8万。
-
-**问：普通文员能技术移民吗？**
-答：不能，属于非技术移民职业，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

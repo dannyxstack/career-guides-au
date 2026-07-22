@@ -1,59 +1,95 @@
-# Carpenter and Joiner（Carpenter and Joiner）职业分析 · IE
+# Carpenter and Joiner — career analysis · Ireland
 
-**职业代码：7115 – Carpenter and Joiner。**
+**Occupation code: 7115 (ISCO08)**
 
-Carpenters and joiners cut, shape, and install wooden structures and components in construction, renovation, and manufacturing, playing a key role in Ireland's building sector.
+Carpenters and joiners cut, shape, and install wooden structures and components in construction, renovation, and manufacturing; they are key skilled trades in the Irish construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（学徒期间有薪，培训费低） |
-| 预科课程 | 1年 | $1,000~$3,000（部分公立学院提供，费用较低） |
+| Apprenticeship | 4 years | $0~$500 (Paid during apprenticeship, low training costs) |
+| Foundation course | 1 year | $1,000~$3,000 (Offered by some public colleges, with lower fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级证书（木工） | QQI | 必备 | 国家资格框架6级，通常通过学徒制获得 |
-| 安全健康意识培训 | SOLAS | 必备 | 强制性的工地安全证 |
-| CSCS卡 | Construction Skills Register | 必备 | 工地通行证，证明基本技能 |
+| Advanced Certificate (Carpentry) | QQI | Required | National Qualifications Framework Level 6, typically obtained through apprenticeship |
+| Safety and health awareness training | SOLAS | Required | Mandatory construction safety certificate |
+| CSCS card | Construction Skills Register | Required | Site pass, certifying basic skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。爱尔兰住房短缺推动建筑需求，木匠持续紧缺。预计未来几年就业增长稳定，尤其在新住宅和翻新项目中机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Housing shortages in Ireland are driving construction demand, with carpenters in persistent shortage. Stable employment growth is expected over the next few years, with many opportunities in new housing and renovation projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒完成后起薪约30,000欧元 |
-| 中级（4-9年） | $38,000~$50,000 | 经验丰富者可获更高时薪 |
-| 高级（10年以上） | $50,000~$65,000 | 工头或自雇收入潜力更大 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary after apprenticeship is around 30,000 euros |
+| Intermediate (4-9 years) | $38,000~$50,000 | Experienced workers can get higher hourly rates |
+| Senior (10+ years) | $50,000~$65,000 | Forepersons or self-employed individuals have greater earning potential |
+| average salary | $44,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级木匠可晋升为高级工匠、工头或项目经理；积累经验后可创业或专攻修复、细木工等高技能领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
+
+Junior carpenters can advance to senior craftsmen, foremen or project managers; with experience, they can start their own business or specialise in high-skill areas like restoration and joinery.
+
+**Tasks most exposed to AI:**
+
+- Use BIM software for formwork design optimization (AI replaces manual calculation)
+- Automatic inspection of template dimensions and position accuracy through AI image recognition
+- Use drones or laser scanning to automatically measure field data
+- AI-generated cutting lists and material optimization plans
+- Automated template layout linked with CNC cutting.
+
+**Where AI augments the role:**
+
+- AI-assisted augmented reality (AR) headsets provide real-time template installation guidance
+- AI-driven project management tools optimize processes and resource scheduling
+- Digital twin simulates template forces to improve safety and quality
+- AI voice assistant for on-site documentation and reporting
+- Automatically generate construction progress reports and cost estimates
+
+**Human moat:**
+
+- On-site adjustment and manual fabrication of complex irregular formwork
+- Multi-trade coordination and on-site problem-solving skills
+- Experiential judgment of material properties (wood defects, humidity, etc.)
+- Client communication and understanding of customized needs
+- Physical adaptability for working at heights and heavy manual labor
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- Use of AR/VR construction assistance tools
+- CNC woodworking equipment programming and operation.
+- Basic data analysis (e.g., material utilization optimization)
+- Sustainable materials and green building practices.
+- Communication and teamwork (with AI tool assistance)
+
+**Key growth areas:**
 
 - Housing construction
 - Renovation demand
@@ -62,69 +98,68 @@ Carpenters and joiners cut, shape, and install wooden structures and components 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于技能短缺职业，需年薪至少30,000欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 木工不在列表但高级技工可能符合 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育学历，通常不适用于木工 |
-| Subclass Stamp 4 (EU Treaty R（EU Treaty Rights） | 欧盟公民自由流动，无需工作许可 |
+| Subclass General Employment P (General Employment Permit) | Applies to skills shortage occupations, requiring an annual salary of at least €30,000 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Carpenters are not on the list but senior tradespersons may qualify |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education qualifications, usually not applicable for carpentry |
+| Subclass Stamp 4 (EU Treaty R (EU Treaty Rights) | EU citizens have free movement rights and do not need work permits |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Carpenter and Joiner？**
-- 喜欢动手、体力和户外工作的人
-- 注重细节，有数学和空间能力
-- 希望在建筑行业获得稳定职业发展的人
-
-**谁不适合学Carpenter and Joiner？**
-- 不喜欢体力劳动和户外工作环境
-- 对灰尘、噪音和安全隐患敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on, physical, and outdoor work
+- Detail-oriented with mathematical and spatial abilities
+- Individuals seeking stable career development in the construction industry
+
+**Who is not suited**
+- Dislike physical labour and outdoor work environment
+- Sensitive to dust, noise, and safety hazards
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a carpenter in Ireland?**
+A: Junior carpenters earn approximately €28,000-35,000 per year, mid-level €38,000-50,000, and senior up to €65,000.
+
+**Q: How can a carpenter immigrate to Ireland?**
+A: Non-EU citizens can apply through the General Employment Permit, requiring an annual salary of at least 30,000 euros. Carpenter is listed as a shortage occupation in Ireland, which is favorable for applications.
+
+**Q: What qualifications do I need to become a carpenter in Ireland?**
+A: Typically requires completing a 4-year apprenticeship and obtaining a QQI Advanced Certificate (Level 6), along with a CSCS card and safety training certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Carpenter and Joiner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a carpenter in Ireland?**
-答：Entry-level carpenters earn around €28,000-35,000, mid-level €38,000-50,000, and experienced up to €65,000 annually.
-
-**问：How can a carpenter immigrate to Ireland?**
-答：Non-EU citizens can apply for a General Employment Permit requiring a salary of at least €30,000. Carpentry is a shortage occupation, facilitating applications.
-
-**问：What qualifications are needed to work as a carpenter in Ireland?**
-答：Typically a 4-year apprenticeship leading to a QQI Advanced Certificate (Level 6), plus a CSCS card and safety training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

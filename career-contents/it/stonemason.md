@@ -1,58 +1,90 @@
-# Stonemason（Stonemason）职业分析 · IT
+# Stonemason — career analysis · Italy
 
-**职业代码：7113 – Stonemason。**
+**Occupation code: 7113 (ISCO08)**
 
-Stonemasons cut, carve, and install natural stone for buildings, monuments, and decorative works, with stable demand in Italy's heritage restoration and new construction projects.
+Stonemasons cut, carve, and install natural stone for buildings, monuments, and decorative projects. Demand is stable in traditional building restoration and new construction projects in Italy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业学校（专业课程） | 2-3年 | $2,000~$8,000（公立职业学校学费较低） |
-| 学徒制 | 3-4年 | —（工资抵扣学费） |
+| Vocational school (specialized courses) | 2-3 years | $2,000~$8,000 (Public vocational schools have lower tuition fees.) |
+| Apprenticeship | 3-4 years | $0~$1,000 (Tuition fees deducted from wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证（Qualifica Professionale） | 大区职业教育机构 | 必备 | 完成学徒或职业课程后获得 |
-| 安全培训证书 | 雇主或培训机构 | 必备 | 必需的安全培训，如基础施工安全 |
+| Professional Qualification (Qualifica Professionale) | Regional Vocational Education Institution | Required | Obtained after completing an apprenticeship or vocational course |
+| Safety training certificate | Employer or training provider | Required | Mandatory safety training, such as basic construction safety |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。意大利拥有大量历史建筑和文化遗产，修复工程持续需要石匠技术。新建筑项目中，天然石材作为高端材料也有需求。但行业竞争主要来自东欧移民工匠，国内年轻从业者减少。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Italy has a large number of historic buildings and cultural heritage, where restoration projects continuously require stonemason skills. In new construction projects, natural stone is also in demand as a high-end material. However, industry competition mainly comes from Eastern European migrant craftsmen, and the number of domestic young workers is declining.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 税前年薪，学徒期可能更低 |
-| 中级（3-8年） | $25,000~$35,000 | 税前年薪，具备独立工作能力 |
-| 高级（8年以上） | $35,000~$50,000 | 税前年薪，含工头或自主创业收入 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Annual salary before tax, may be lower during apprenticeship |
+| Mid-level (3–8 years) | $25,000~$35,000 | Pre-tax annual salary, with the ability to work independently |
+| Senior (8+ years) | $35,000~$50,000 | Gross annual salary, including earnings as foreman or self-employed |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级石匠可通过学徒积累经验，晋升为高级石匠或工头；部分转向自主创业承接修复项目；也可向雕塑或建筑石材设计方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
+
+Junior stonemasons can gain experience through apprenticeships and advance to senior stonemason or foreman; some move into self-employment for restoration projects; others develop into sculpture or architectural stone design.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for stone cutting and layout design
+- Operating automatic stone cutting machines and CNC engraving machines
+- Material quantity calculation and layout using BIM models
+- Use robots for repetitive stone handling and laying
+
+**Where AI augments the role:**
+
+- Using 3D scanning and digital twins for precise stone structure installation
+- Use AR glasses to overlay design drawings on construction sites, reducing errors
+- Using AI to optimize stone splicing plans, improving aesthetics and strength
+- Conduct drone inspections of large stone structures and remotely monitor maintenance needs.
+
+**Human moat:**
+
+- Artistic judgment for complex stone carving and hand modeling
+- Adaptive skills for integrated on-site stone and structure installation
+- Empirical judgment of stone texture, color, and physical properties
+- Ability to communicate customized design solutions with clients
+
+**Skills to build:**
+
+- CAD/BIM software operation (e.g., AutoCAD, Revit)
+- CNC stone processing equipment programming and operation
+- 3D scanning and digital modeling skills
+- Engineering surveying and precision installation technology
+- Drone operation and image analysis basics
+
+**Key growth areas:**
 
 - Heritage Restoration
 - Natural Stone
@@ -61,67 +93,66 @@ Stonemasons cut, carve, and install natural stone for buildings, monuments, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟国家工人，需雇主申请配额，可用于建筑行业 |
-| Subclass 欧盟自由流动（EU Free Movement） | 对欧盟/EEA/瑞士公民适用，无工作许可限制 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to workers from non-EU countries, requires employer to apply for quota, can be used in the construction industry |
+| Subclass EU Freedom of Movement (EU Free Movement) | Applicable to EU/EEA/Swiss citizens, no work permit restrictions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stonemason？**
-- 喜欢手工和精细工作的人
-- 对建筑和文化遗产修复有热情的人
-- 愿意在户外和施工环境工作的人
-
-**谁不适合学Stonemason？**
-- 偏好办公室工作的人
-- 无法承受体力劳动和户外工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual work and fine tasks
+- People passionate about architecture and heritage restoration
+- People willing to work outdoors and in construction environments
+
+**Who is not suited**
+- Those who prefer office work
+- People unable to endure physical labor and outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Italian stonemasons?**
+A: Junior stonemason annual salary approx. €18,000-25,000, mid-level €25,000-35,000, senior can reach €35,000-50,000, but income varies significantly by region and project type.
+
+**Q: How can non-EU citizens immigrate to Italy as stonemasons?**
+A: Primarily through the Decreto Flussi quota work visa, requiring employer sponsorship and meeting annual quotas. EU citizens can move freely.
+
+**Q: What qualifications are needed to work as a stonemason in Italy?**
+A: Must complete vocational school or apprenticeship program, obtain a regional vocational qualification certificate, and hold a safety training certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Stonemason的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stonemasons in Italy?**
-答：Entry-level stonemasons earn around €18,000-25,000 per year, mid-level €25,000-35,000, and senior up to €35,000-50,000, varying by region and project type.
-
-**问：How can non-EU citizens immigrate to Italy as a stonemason?**
-答：Primarily through the Decreto Flussi work visa quota system with employer sponsorship, subject to annual caps. EU citizens have free movement.
-
-**问：What qualifications are needed to work as a stonemason in Italy?**
-答：Completion of vocational school or apprenticeship, a regional professional qualification, and a safety training certificate.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

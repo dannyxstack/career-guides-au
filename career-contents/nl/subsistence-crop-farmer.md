@@ -1,58 +1,94 @@
-# Subsistence Crop Farmer（Subsistence Crop Farmer）职业分析 · NL
+# Subsistence Crop Farmer — career analysis · Netherlands
 
-**职业代码：6310 – Subsistence Crop Farmer。**
+**Occupation code: 6310 (ISCO08)**
 
-Subsistence crop farmers primarily grow food crops for family sustenance; in the Netherlands, this occupation is very rare, located in remote areas with low income and low mechanization.
+Subsistence crop farmers primarily grow food crops to support their household; in the Netherlands, this occupation is very small-scale, mostly in remote areas, with very low income and low mechanization.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（通常无需正规教育，但实用技能可通过经验获取） |
+| No formal education requirements | None | $0~$0 (formal education is usually not required, but practical skills can be gained through experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 荷兰对此职业无特定证书要求 |
+| No mandatory qualification requirements | None | Optional | The Netherlands has no specific certificate requirements for this occupation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 500。荷兰农业高度商业化、集约化，自给自足型农民几乎不存在。该职业就业前景极差，岗位数量持续萎缩，几乎无新增需求。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. 500. Dutch agriculture is highly commercialized and intensive; self-sufficient farmers are virtually nonexistent. This occupation has extremely poor job prospects, with continuously shrinking positions and almost no new demand.
 
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：高强度（★★★★☆）。**
+**Competition: very low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 收入极低，接近最低工资 |
-| 中级（3-10年） | $22,000~$28,000 | 主要取决于自产自销规模 |
-| 高级（10年以上） | $25,000~$32,000 | 极少，需自有土地并有一定市场销售 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Very low income, close to minimum wage |
+| Intermediate (3-10 years) | $22,000~$28,000 | Mainly depends on the scale of self-production and self-marketing |
+| Senior (10+ years) | $25,000~$32,000 | Very few, need own land and some market sales. |
+| average salary | $24,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极差（★☆☆☆☆）。** 职业发展路径有限，通常难以晋升；少数可能转向商业农场工人或园艺工人，但转换成本高。
-**AI替代风险：低风险（★½☆☆☆）。**
+**Future prospect: very low (★☆☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Self-sufficient crop farmers in the Netherlands operate on a very small scale with low mechanization; AI and automation find it difficult to directly replace their manual labor, but digital agriculture tools (such as precision farming, automatic seeding) and agricultural product market information platforms will compress their living space, forcing them to transform or exit.
+
+Limited career progression paths, often difficult to advance; a few may transition to commercial farm workers or horticultural workers, but at a high conversion cost.
+
+**Tasks most exposed to AI:**
+
+- Manual repetitive operations such as sowing and irrigation (can be replaced by automated agricultural machinery)
+- Experience-based pest and disease diagnosis (AI image recognition enables more accurate detection)
+- Simple weather and soil condition observation logs (replaced by sensors and predictive models)
+- Traditional manual weeding (can be performed by robotic weeders)
+- Daily weighing and grading of agricultural products (computer vision for automatic sorting)
+
+**Where AI augments the role:**
+
+- Crop planting planning and rotation strategies (AI analyzes historical data to optimize choices)
+- Market sales channel selection (AI aggregates local price and demand information)
+- Water and fertilizer use efficiency (AI recommends precise irrigation and fertilization plans).
+- Family farm finance and inventory management (AI simplifies bookkeeping and forecasting)
+- Sustainable agriculture practice assessment (AI simulation of environment and output balance)
+
+**Human moat:**
+
+- Deep personal knowledge of local microclimate and soil characteristics
+- Real-time integrated decision-making under variable natural conditions (non-standardized judgment)
+- Trust and relationship networks with the surrounding community and consumers
+- Flexible emergency response capability for sudden disasters (e.g., floods, frosts)
+- Responsibility for preserving traditional crop varieties and organic farming methods
+
+**Skills to build:**
+
+- Use of precision agriculture technologies (GPS, drones, sensors)
+- Agricultural data analysis and interpretation (using simple AI tools)
+- Digital marketing (social media, e-commerce platform sales of agricultural products)
+- Basic programming and automation tools (e.g., automatic navigation systems for tractors)
+- Knowledge of sustainable agriculture certifications and environmental regulations
+- Multiskilling across fields (e.g., culinary arts, education tourism) to increase income sources
+
+**Key growth areas:**
 
 - declining
 - niche
@@ -61,60 +97,62 @@ Subsistence crop farmers primarily grow food crops for family sustenance; in the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 仅适用于欧盟公民，非欧盟公民基本无法通过该职业获得工作签证 |
+| Subclass EU free movement (EU Freedom of Movement) | Only applies to EU citizens; non-EU citizens are generally unable to obtain a work visa through this occupation. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Subsistence Crop Farmer？**
-- 愿意自给自足、不接受正规就业者
-- 有自有土地且接受低收入的个体农民
+**Who is suited**
+- Those willing to be self-sufficient and not accepting formal employment.
+- Individual farmers with their own land and accepting low income
 
-**谁不适合学Subsistence Crop Farmer？**
-- 希望获得稳定收入或职业发展者
-- 非欧盟公民寻求移民荷兰者
+**Who is not suited**
+- Those seeking stable income or career development
+- For non-EU citizens seeking immigration to the Netherlands
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for subsistence crop farmers in the Netherlands?**
+A: Salary is very low, typically around €18,000-32,000/year, depending on production scale, close to minimum wage.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Almost impossible; this occupation is not on the Netherlands' shortage occupation list, cannot obtain a work visa, only EU citizens can work freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | very low (★☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very low (★☆☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（★☆☆☆☆） |
-| 学习难度 | 非常容易（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 高强度（★★★★☆） |
-| 发展前景 | 极差（★☆☆☆☆） |
-| AI替代风险 | 低风险（★½☆☆☆） |
-| PR友好度 | 极低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Subsistence Crop Farmer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for subsistence crop farmers in the Netherlands?**
-答：Salaries are very low, typically around EUR 18,000-32,000 per year, depending on production scale, near minimum wage.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Almost impossible; this occupation is not on the Dutch shortage list and no work visa is available; only EU citizens can freely engage.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

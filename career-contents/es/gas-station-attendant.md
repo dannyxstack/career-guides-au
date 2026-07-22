@@ -1,60 +1,92 @@
-# Gas Station Attendant（Gas Station Attendant）职业分析 · ES
+# Gas Station Attendant — career analysis · Spain
 
-**职业代码：5430 – Gas Station Attendant。**
+**Occupation code: 5430 (CNO)**
 
-Gas station attendants refuel vehicles, process payments, sell convenience store items, and maintain station cleanliness. This retail and service role requires strong customer service skills and is often performed outdoors or in a convenience store setting.
+Gas station attendants are responsible for providing refueling services to customers, collecting fees, selling convenience store products, and maintaining the station's cleanliness. This profession belongs to the retail and service industry, often working outdoors or in convenience stores, requiring strong customer service skills.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 无 | —（通常仅需在职培训） |
-| 中等教育（ESO） | 4年（ESO） | —（公立学校免费，教材费用约500€） |
+| No formal education requirements | None | $0~$0 (Usually only on-the-job training required) |
+| Secondary Education (ESO) | 4 years (ESO) | $0~$500 (Public schools are free, with textbook costs around €500) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需认证（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常由雇主提供，学习加油操作、安全规程、收银等 |
-| 危险品操作证书（如适用） | 西班牙劳动与社会经济部 | 可选 | 处理燃油等危险品时可能需要 |
+| On-the-job training | Employer | Required | Usually provided by employers, they teach refueling operations, safety protocols, cashiering, and more |
+| Hazardous materials operation certificate (if applicable) | Spanish Ministry of Labor and Social Economy | Optional | It may be necessary when handling hazardous materials such as fuel |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙加油站服务员就业前景稳定但增长缓慢，受加油站自助化趋势影响，对人工需求略有下降。不过，在偏远地区和全服务站仍保持需求。2023-2027年预计就业变化不大，替代退休人员为主。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Employment prospects for gas station attendants in Spain are stable but growth is slow, and due to the trend toward self-service at gas stations, labor demand has slightly declined. However, demand remains in remote areas and at full service stations. From 2023 to 2027, employment is expected to change little, mainly replacing retirees.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 税前年薪，通常为15,000-18,000€ |
-| 中级（3-7年） | $19,000~$22,000 | 税前年薪，含加班和夜班补贴可达21,000€ |
-| 高级（7年以上或主管） | $22,000~$26,000 | 主管或区域经理可达25,000€以上 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Pre-tax annual salary, usually €15,000–18,000 |
+| Mid-level (3–7 years) | $19,000~$22,000 | Pre-tax annual salary, including overtime and night shift allowances, can reach €21,000 |
+| Senior (7+ years or supervisor) | $22,000~$26,000 | Supervisors or regional managers can earn over €25,000 |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业晋升路径有限，可向加油站主管、便利店经理或区域运营经理发展。部分从业人员通过培训转向物流、运输或零售管理岗位。自营加油站也是一条可选路径，但需要资本投入。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will assist supervisors in optimizing shift scheduling and customer service, but cannot replace their core responsibilities of on-site coordination, staff management, and crisis handling. Entry-level roles will shrink due to automated booking systems, but experienced supervisors remain protected.
+
+Career advancement paths are limited, with opportunities to become gas station supervisors, convenience store managers, or regional operations managers. Some practitioners have transitioned to logistics, transportation, or retail management positions through training. Self-operated gas stations are also an option, but require capital investment.
+
+**Tasks most exposed to AI:**
+
+- Handling routine bookings, cancellations, and inquiries in customer communication
+- Generate standard shift schedules and attendance records
+- Basic financial data entry and report generation
+- Monitor and update online listings and pricing information
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer preferences and provide personalized service recommendations
+- Using AI tools to optimize dynamic pricing and room allocation
+- Use automated systems for service quality monitoring and compliance checks
+- using AI to assist in training new employees and evaluating performance
+
+**Human moat:**
+
+- Handle sudden complaints, emergencies, and guest emotional needs
+- Team member interpersonal coordination, motivation, and performance feedback
+- Cross-departmental communication and non-standardized process decision making
+- Understanding service expectations in complex cultural contexts
+
+**Skills to build:**
+
+- Advanced operation of hotel/tourism management systems (e.g., Opera, RMS)
+- Data analysis and visualization (Excel, Tableau)
+- AI tool application (ChatGPT-assisted client communication)
+- Crisis management and emotional intelligence training
+- Fundamentals of digital marketing and revenue management
+
+**Key growth areas:**
 
 - Self-service expansion
 - Electric vehicle charging
@@ -63,65 +95,67 @@ Gas station attendants refuel vehicles, process payments, sell convenience store
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的工作居留，需证明该职位无法由西班牙或欧盟公民填补。对于低技能职业，获批难度较大。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙寻找工作，但需有足够资金支持。找到雇主后可转换为工作居留。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residency, requires proof that the position cannot be filled by a Spanish or EU citizen. Approval is difficult for low-skilled occupations. |
+| Subclass Busqueda empleo (Job Search Visa) | It is allowed to find work in Spain, but sufficient financial support is required. After finding an employer, you can convert to work-based residence. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gas Station Attendant？**
-- 喜欢与人打交道、注重客户服务的人
-- 寻求低门槛快速就业的人
-- 愿意从事户外工作、能适应轮班的人
+**Who is suited**
+- People who enjoy interacting with people and value customer service
+- People seeking low-barrier, quick employment
+- Willing to work outdoors and able to adapt to shift work
 
-**谁不适合学Gas Station Attendant？**
-- 追求高收入和职业晋升的人
-- 不喜欢体力劳动或户外工作的人
+**Who is not suited**
+- Those pursuing high income and career advancement
+- People who dislike physical labor or outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for gas station attendants?**
+A: The pre-tax annual salary for gas station attendants in Spain is about €16,000–26,000, junior salary is about €16,000–€19,000, and supervisors can earn up to €26,000. Salaries are influenced by region, company size, and shift shifts.
+
+**Q: Can foreigners immigrate to Spain through gas station attendants?**
+A: It is very difficult, as this occupation falls under the low-skill category and is not supported by Spain's Shortage Occupations List. Applying for work-based residency requires employers to prove that they cannot recruit local workers and that salaries are low, making it difficult to meet residency requirements.
+
+**Q: Are there promotion opportunities for gas station attendants?**
+A: Promotion opportunities are limited; you can be promoted to gas station supervisor, convenience store manager, or regional operations manager. They can also switch to other roles in logistics or retail, or self-operated gas stations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无需认证（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Gas Station Attendant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a gas station attendant?**
-答：The gross annual salary in Spain ranges from €16,000 to €26,000, with entry-level around €16,000-€19,000 and supervisors up to €26,000. Salary varies by region, company size, and shift work.
-
-**问：Can foreigners immigrate to Spain as a gas station attendant?**
-答：Very difficult. This is a low-skilled occupation not listed as shortage. Work permits require employer justification of unfilled local hiring, and low salary often fails residence permit criteria.
-
-**问：Are there career advancement opportunities?**
-答：Limited, but possible to advance to station supervisor, convenience store manager, or regional operations manager. May also transfer to logistics or retail, or start own station.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

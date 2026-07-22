@@ -1,60 +1,94 @@
-# Musicians and Singers（Musicians and Singers）职业分析 · 美国
+# Musicians and Singers — career analysis · United States
 
-**职业代码：27-2042 – Musicians and Singers。**
+**Occupation code: 27-2042 (SOC)**
 
-Play one or more musical instruments or sing. May perform on stage, for broadcasting, or for sound or video recording.
+Play one or more musical instruments or sing, performing on stage, radio, or in a recording studio.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（义务教育） |
-| 音乐学士学位 | 4年 | $40,000~$160,000（公立和私立大学差异大） |
+| High school graduation | 12 years | $0~$0 (Compulsory education) |
+| Bachelor of Music degree. | 4 years | $40,000~$160,000 (Significant differences between public and private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 音乐学士学位 | 认证大学 | 可选 | 非强制但有利 |
-| 音乐教师执照 | 州教育委员会 | 可选 | 仅教学需要 |
+| Bachelor of Music degree. | Accredited university | Optional | Not mandatory but advantageous |
+| Music teacher license | State Board of Education | Optional | Teaching only |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 175,400。美国劳工统计局预计2022-2032年该职业就业增长约2%，低于平均水平。现场演出和录音需求稳定，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 175,400. US Bureau of Labor Statistics projects about 2% employment growth for this occupation from 2022-2032, below average. Live performance and recording demand is stable, but competition is fierce.
 
-**竞争度：很高（★★★★½）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$50,000 | 兼职或零散演出 |
-| 中级（4-9年） | $50,000~$90,000 | 稳定演出和教学 |
-| 高级（10年以上） | $90,000~$180,000 | 知名乐团或独奏家 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$50,000 | Part-time or occasional performances |
+| Intermediate (4-9 years) | $50,000~$90,000 | Stable performances and teaching |
+| Senior (10+ years) | $90,000~$180,000 | Renowned orchestras or soloists. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径包括从地方演出到全国巡演、录制专辑、成为乐队领队或音乐总监。部分转向音乐教育或制作。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
+
+Career progression includes moving from local performances to national tours, recording albums, becoming a band leader or music director. Some transition to music education or production.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates background music or simple scores
+- Basic music transcription and arrangement assistance
+- Basic practice accompaniment in music teaching
+- Automation in audio recording and mixing
+
+**Where AI augments the role:**
+
+- Using AI for music composition inspiration and melody generation
+- Analyzes performance and pitch using AI
+- Use AI tools for music marketing and track recommendation
+- AI-assisted ear training and music theory teaching
+- AI-generated dynamic lighting and visual effects synchronized with live performances
+
+**Human moat:**
+
+- Ability to perform live improvisation and interact with the audience.
+- Unique emotional expression and artistic interpretation
+- Personalized guidance and feedback in teaching.
+- Artistic director role for complex music projects
+- Build personal brand and fan community
+
+**Skills to build:**
+
+- AI Music Generation Tools (e.g., MuseNet, AIVA)
+- Digital audio workstation (DAW) and plugins
+- Basics of music data analysis and recommendation algorithms
+- Multimedia performance technology (lighting, projection, VR)
+- Online teaching platform and content creation
+- Copyright management and music marketing knowledge
+
+**Key growth areas:**
 
 - Live Performance
 - Recording
@@ -63,65 +97,67 @@ Play one or more musical instruments or sing. May perform on stage, for broadcas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Visa for Individuals with Extraordinary Ability） | 适用于在音乐领域有杰出成就的艺术家，需证明国际认可。 |
-| Subclass P-1（P-1 Visa for Internationally Recognized Athletes or Entertainment Groups） | 适用于国际知名音乐团体或表演者。 |
+| Subclass O-1 (O-1 Visa for Individuals with Extraordinary Ability) | Applies to artists with outstanding achievements in music; must demonstrate international recognition |
+| Subclass P-1 (P-1 Visa for Internationally Recognized Athletes or Entertainment Groups) | Applicable to internationally renowned music groups or performers. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Musicians and Singers？**
-- 有极高音乐天赋和毅力
-- 能接受不稳定收入
-- 热爱舞台表演
+**Who is suited**
+- Exceptional musical talent and perseverance
+- Can accept unstable income
+- Passionate about stage performance
 
-**谁不适合学Musicians and Singers？**
-- 寻求稳定高薪工作者
-- 承受不了竞争压力
+**Who is not suited**
+- People seeking stable high-paying jobs
+- Cannot withstand competitive pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Are musicians' and singers' incomes stable?**
+A: Unstable, mostly relies on performances and teaching; median annual salary around USD 55,000, but junior may be below USD 30,000.
+
+**Q: How can musicians immigrate to the US?**
+A: Mainly through O-1 extraordinary ability visa or P-1 visa, requiring proof of international reputation; green card application is difficult.
+
+**Q: What qualifications are needed to become a musician?**
+A: Not required, but a Bachelor of Music can help improve skills and employment opportunities; many successful musicians did not attend university.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 很高（★★★★½） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Musicians and Singers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income stable for musicians and singers?**
-答：Unstable, most rely on performances and teaching; median annual wage about $55,000, but entry-level may be below $30,000.
-
-**问：How can musicians immigrate to the US?**
-答：Mainly through O-1 extraordinary ability visa or P-1 visa, requiring international recognition; green card is difficult.
-
-**问：What education is needed to become a musician?**
-答：Not required, but a bachelor's in music can help; many successful musicians did not attend college.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

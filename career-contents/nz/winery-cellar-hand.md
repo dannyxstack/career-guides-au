@@ -1,60 +1,95 @@
-# Winery Cellar Hand（Winery Cellar Hand）职业分析 · 新西兰
+# Winery Cellar Hand — career analysis · New Zealand
 
-**职业代码：831118 – Winery Cellar Hand。**
+**Occupation code: 831118 (ANZSCO)**
 
-Performs physical tasks such as cleaning, bottling, and grape processing in a winery. In New Zealand, it is a low-skilled role with limited migration pathways, but can lead to supervisory roles via AEWV work visa.
+Perform physical tasks such as cleaning, bottling, and grape processing in a winery; this is a basic role in wine production. This occupation is considered low-skilled in New Zealand, typically not eligible for direct immigration, but can transition to other roles or apply for an AEWV work visa through experience.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期课程 | 3个月 | $1,500~$3,000（葡萄种植与葡萄酒酿造短期证书） |
-| 专科文凭 | 2年 | $20,000~$35,000（新西兰葡萄种植与葡萄酒酿造协会认可课程） |
+| Short-term courses | 3 months | $1,500~$3,000 (Short-term certificate in viticulture and winemaking) |
+| Diploma | 2 years | $20,000~$35,000 (Course recognized by New Zealand Winegrowers and Wine New Zealand) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰葡萄酒酿造证书（初级） | 新西兰葡萄种植与葡萄酒酿造协会 | 可选 | 非强制，但有助于就业和晋升 |
-| 安全证书（如Site Safe） | Site Safe | 可选 | 部分雇主可能要求 |
+| New Zealand Certificate in Winemaking (Entry Level) | New Zealand Winegrowers and Wine Association | Optional | Not mandatory, but helpful for employment and promotion |
+| Safety certificate (e.g. Site Safe) | Site Safe | Optional | Some employers may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。新西兰葡萄酒产业主要集中在马尔堡、霍克湾等产区，季节性需求大。初级岗位易得，但就业受季节和旅游影响，长期全职机会有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,000. New Zealand's wine industry is mainly concentrated in regions like Marlborough and Hawke's Bay, with high seasonal demand. Entry-level positions are easy to get, but employment is affected by seasons and tourism, with limited long-term full-time opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26纽元 |
-| 中级（3-6年） | $55,000~$65,000 | 需有经验，可能负责部分酿造任务 |
-| 高级（6年以上） | $65,000~$75,000 | 资深酒窖手或主管级别 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately 22-26 NZD |
+| Mid-level (3–6 years) | $55,000~$65,000 | Experience required, may be responsible for some brewing tasks |
+| Senior (6+ years) | $65,000~$75,000 | Senior Cellar Hand or Supervisor level |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可晋升为高级酒窖手、酿酒助理或酿酒师。需积累经验并考取酿造证书，如新西兰葡萄种植与葡萄酒酿造协会文凭。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on cellar hands: highly repetitive tasks like cleaning and data entry are easily automated, but AI also enhances skill requirements in grape quality inspection and inventory optimization, shifting the role toward technical supervision and quality control.
+
+Can advance to senior cellarmaster, winemaker assistant, or winemaker. Requires experience and relevant certifications, such as the New Zealand Certificate in Wine Production and Grape Growing.
+
+**Tasks most exposed to AI:**
+
+- Routine manual labor of cleaning barrels and equipment is being replaced by automatic cleaning robots
+- Manual operations on bottling and labeling lines are taken over by automated assembly lines
+- Inventory counting and record entry replaced by real-time tracking via IoT and AI systems
+- Physical sorting of received grapes is replaced by machine vision inspection
+
+**Where AI augments the role:**
+
+- Use AI to analyze grape ripeness data and optimize harvest timing decisions
+- Predict equipment maintenance needs using sensors and machine learning to reduce downtime
+- Use digital twins to simulate fermentation processes and assist in parameter adjustment.
+- Automated report generation and data visualization to improve inventory management efficiency
+- AI-assisted vision system detects bottle quality defects, improving quality control accuracy
+
+**Human moat:**
+
+- Deep understanding of winemaking techniques and sensory evaluation experience
+- Complex troubleshooting and manual adjustments (e.g., diagnosing fermentation issues)
+- Close collaboration with winemaking team and emergency decision-making skills
+- Intuitive grasp of traditional winemaking techniques and wine characteristics
+- Flexibly adapt in unstructured environments (e.g., handling containers of different shapes)
+
+**Skills to build:**
+
+- Basic data analysis and AI tool usage (e.g., wine management software)
+- Automated equipment operation and troubleshooting (e.g., automatic bottling line)
+- IoT sensor integration and data interpretation
+- Food safety and quality monitoring standards (HACCP certification)
+- Basic mechanical repair and preventive maintenance knowledge
+- English communication and teamwork (suitable for international wineries)
+
+**Key growth areas:**
 
 - Seasonal
 - Wine Industry
@@ -63,68 +98,67 @@ Performs physical tasks such as cleaning, bottling, and grape processing in a wi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，低技能岗位最多连续3年，之后需离境12个月 |
-| Subclass SMC（Skilled Migrant Category） | 该职业通常不符合技术移民要求，除非晋升为酿酒师等更高技能职位 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship; low-skilled positions max 3 consecutive years, then must leave for 12 months |
+| Subclass SMC (Skilled Migrant Category) | This occupation usually does not meet skilled migration requirements unless promoted to a higher-skilled role such as winemaker |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Winery Cellar Hand？**
-- 喜欢户外体力劳动和葡萄酒文化的人
-- 寻求季节性工作或短期打工度假的人
-- 愿意从基层开始积累酿酒经验的人
-
-**谁不适合学Winery Cellar Hand？**
-- 希望快速获得新西兰永久居留权的人
-- 对重复性体力劳动敏感或对工作强度要求较低的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and wine culture
+- People seeking seasonal work or short-term working holidays
+- Willing to start from the ground up to gain brewing experience
+
+**Who is not suited**
+- People seeking quick New Zealand permanent residence
+- Those sensitive to repetitive physical labour or who prefer lower work intensity
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a cellar hand?**
+A: Entry-level annual salary approximately NZD $45,000-55,000, hourly NZD $22-26. Intermediate and experienced roles can reach NZD $65,000-75,000.
+
+**Q: Can a cellar hand migrate to New Zealand through skilled migration?**
+A: Generally not possible. This occupation is low-skilled and cannot directly apply for skilled migration (SMC) or the Green List. However, gaining experience in this role and then transitioning to a winemaker or similar occupation may meet immigration requirements.
+
+**Q: What are the career advancement paths?**
+A: Advance from cellar hand to senior cellar hand, winemaking assistant, and winemaker. Requires relevant qualifications and experience, such as courses from the New Zealand Winegrowers and Winemakers Association.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等偏低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Winery Cellar Hand为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Winery Cellar Hand?**
-答：Entry-level annual salary is around NZD 45,000-55,000, hourly rate NZD 22-26. Experienced roles can reach NZD 65,000-75,000.
-
-**问：Can Winery Cellar Hand migrate to New Zealand under skilled migration?**
-答：Generally no, as it is low-skilled. However, gaining experience and moving into roles like Winemaker can open up migration pathways.
-
-**问：What are the career progression paths?**
-答：From cellar hand to senior cellar hand, assistant winemaker, and winemaker, requiring qualifications and experience such as NZ Winegrowers courses.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Gambling Cage Workers（Gambling Cage Workers）职业分析 · 美国
+# Gambling Cage Workers — career analysis · United States
 
-**职业代码：43-3041 – Gambling Cage Workers。**
+**Occupation code: 43-3041 (SOC)**
 
-Conduct financial transactions for patrons in gambling establishments, including exchanging chips, cashing checks, establishing credit accounts, and daily reconciliation.
+Handle financial transactions for customers in a casino, including exchanging chips, cashing checks, establishing credit accounts, and daily reconciliation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常仅需高中学历，部分雇主提供在职培训。） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（会计或商科副学士学位可增加晋升机会。） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually only requires high school diploma, some employers provide on-the-job training.) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (An associate degree in accounting or business can increase promotion opportunities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 赌场执照 | 州赌博监管委员会 | 必备 | 各州要求不同，通常包括背景调查和指纹识别。 |
-| 数学计算能力 | 在职培训 | 可选 | 准确处理现金和筹码，基本算术能力。 |
+| Casino license | State Gambling Regulatory Commission | Required | Requirements vary by state, typically including background checks and fingerprinting. |
+| Mathematical calculation ability | On-the-job training | Optional | Accurately handles cash and chips; basic arithmetic skills. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 17,300。美国赌场行业增长平稳，但自动化趋势（如自助兑换机）可能减少对人工出纳的需求。就业机会主要集中在拉斯维加斯、大西洋城等赌博合法地区。
+**Job demand: medium (★★½☆☆).** National workforce approx. 17,300. The U.S. casino industry is growing steadily, but automation trends (e.g., self-service kiosks) may reduce demand for human tellers. Job opportunities are mainly in Las Vegas, Atlantic City, and other legal gambling areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 多为最低工资加小费。 |
-| 中级（3-7年） | $30,000~$38,000 | 包括经验丰富的出纳和小费分成。 |
-| 高级（7年以上） | $38,000~$45,000 | 主管或审计岗位，薪资较高。 |
+| Median salary | $37,580 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Mostly minimum wage plus tips. |
+| Mid-level (3–7 years) | $30,000~$38,000 | Includes experienced cashiers and tip sharing. |
+| Senior (7+ years) | $38,000~$45,000 | Supervisory or auditing roles, with higher salary. |
+| average salary | $39,510 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 初级出纳员可晋升为高级出纳或主管，进一步可转向赌场财务部门如审计或会计。部分员工通过考取会计证书转向更广泛的金融行业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Casino tellers face high automation substitution risk; AI will take over all standardized financial transaction processing tasks, significantly reducing job numbers, retaining only a few supervisory and management roles.
+
+Junior cashiers can advance to senior cashier or supervisor, then further move to casino finance departments like auditing or accounting. Some staff transition to broader finance by obtaining accounting certificates.
+
+**Tasks most exposed to AI:**
+
+- Exchanging chips and cash
+- Check cashing and credit approval
+- Daily account reconciliation and recording
+- Handle financial transaction inquiries from gamblers
+
+**Where AI augments the role:**
+
+- Monitoring and analysis of abnormal transactions
+- Customer credit risk assessment
+- Automation system maintenance and optimization
+- Compliance report generation and audit support
+
+**Human moat:**
+
+- Handle complex customer complaints and disputes
+- Supervising and making decisions for automated systems
+- High-value client relationship maintenance
+- Sensitive transaction judgments involving legal compliance
+
+**Skills to build:**
+
+- Data analysis and reporting tools (e.g., Python, SQL)
+- Risk management and compliance knowledge
+- Operation of casino management systems (e.g., SDS, TableTrac)
+- Customer service and conflict resolution
+- Basic programming and automation scripting
+- Financial audit and internal control
+
+**Key growth areas:**
 
 - Self-service kiosks
 - Cashless gaming
@@ -63,63 +96,65 @@ Conduct financial transactions for patrons in gambling establishments, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因为该职业通常不要求学士学位。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少数情况下，若具备高级技能或管理经验，可能符合。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到合格美国工人，但成功率极低。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable, as this occupation usually does not require a bachelor's degree. |
+| Subclass EB-3 (EB-3 Skilled Workers) | In rare cases, if possessing advanced skills or management experience, may qualify. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers need to prove inability to find qualified US workers, but success rates are extremely low. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gambling Cage Workers？**
-- 细心且数学基础好的人
-- 能适应轮班和节假日工作
-- 对赌场环境感兴趣，能处理大量现金
+**Who is suited**
+- People who are detail-oriented and have a strong math background.
+- Able to adapt to shift work and holiday work
+- Interested in casino environment, able to handle large amounts of cash
 
-**谁不适合学Gambling Cage Workers？**
-- 对赌博行业有道德顾虑的人
-- 寻求高薪或稳定移民路径的人
+**Who is not suited**
+- Those with moral concerns about the gambling industry
+- People seeking high salary or stable immigration pathways
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a casino cashier?**
+A: US casino cashier median annual salary approx. USD 30,000, fluctuates due to tips and regional differences. Popular areas like Las Vegas pay slightly higher.
+
+**Q: Can a casino cashier immigrate to the US through a work visa?**
+A: Very difficult. This occupation usually does not require a bachelor's degree, not meeting H-1B criteria, and EB-3 green card requires proving labor shortage, almost impossible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Gambling Cage Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a gambling cage worker?**
-答：The median annual salary for gambling cage workers in the US is around $30,000, varying with tips and location, with higher pay in places like Las Vegas.
-
-**问：Can a gambling cage worker immigrate to the US via work visa?**
-答：It is extremely difficult. The job typically does not require a bachelor's degree, making it ineligible for H-1B, and EB-3 requires proving labor shortage, which is nearly impossible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

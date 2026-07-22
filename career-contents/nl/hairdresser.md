@@ -1,60 +1,95 @@
-# Hairdresser（Hairdresser）职业分析 · NL
+# Hairdresser — career analysis · Netherlands
 
-**职业代码：5141 – Hairdresser。**
+**Occupation code: 5141 (ISCO08)**
 
-Provide hairdressing services such as washing, cutting, coloring, and styling for clients, requiring professional skills and good communication.
+Provide hair care services including shampooing, cutting, coloring, and styling; requires professional hairdressing skills and good communication.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3年 | $1,500~$3,000（每年学费，公立学校较低） |
-| 学徒制（BBL） | 2-3年 | $500~$1,500（边工作边学习，学费较低） |
+| Intermediate Vocational Education (MBO) | 3 years | $1,500~$3,000 (Annual tuition fees: public schools are lower) |
+| Apprenticeship (BBL) | 2-3 years | $500~$1,500 (Earn while you learn, with lower tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美发师执业资格（MBO文凭） | 荷兰职业教育机构（ROC） | 必备 | 完成MBO美发课程并通过实践考试 |
-| 卫生证书（Hygiëneverklaring） | 荷兰食品与消费品安全局（NVWA） | 可选 | 证明掌握卫生规范 |
+| Hairdresser license (MBO diploma) | Netherlands vocational education institutions (ROC) | Required | Complete the MBO hairdressing course and pass the practical exam |
+| Health certificate (Hygiëneverklaring) | Netherlands Food and Consumer Product Safety Authority (NVWA) | Optional | Demonstrate mastery of hygiene standards. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰美发行业竞争激烈，但专业理发师需求稳定，尤其在城市地区。受人口老龄化影响，上门服务需求增加。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. The hairdressing industry in the Netherlands is competitive, but demand for professional barbers remains stable, especially in urban areas. Due to an aging population, demand for home services is increasing.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等偏低（★★☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，基于36小时工作周 |
-| 中级（3-7年） | $25,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，含自雇可能更高 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary based on a 36-hour work week |
+| Mid-level (3–7 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$42,000 | Annual pre-tax salary, possibly higher with self-employment |
+| average salary | $29,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒晋升为资深理发师，或开设自己的理发店。也可通过进修成为染发师、发型顾问或美发讲师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The barber profession is mixed regarding AI impact: repetitive tasks can be automated, but creative styling, client communication, and fine manual skills are hard to replace; proactive learning of AI-assisted tools can enhance efficiency and personalized services.
+
+Can advance from apprentice to senior barber, or open their own barbershop. Further study can lead to becoming a hair colorist, style consultant, or hairdressing instructor.
+
+**Tasks most exposed to AI:**
+
+- AI booking systems and customer inquiry chatbots replace front desk reception and appointment management
+- AI hairstyle recommendation software automatically generates plans based on face shape and hair texture, replacing basic consultations
+- Automated shampoo robot (prototype) replacing standard shampooing process
+- AI video tutorials replace some basic skills teaching and demonstrations
+
+**Where AI augments the role:**
+
+- AI hair simulator lets customers preview effects, boosting conversion rates
+- AI customer management systems provide personalized service records and preference analysis
+- AI tools assist in precise hair dye color matching, reducing color discrepancies.
+- AI Social Media Marketing Assistant Generates Promotional Content to Expand Customer Base
+- AR makeup and hair try-on technology enhances on-site experience and interaction
+
+**Human moat:**
+
+- Fine manual operations (e.g., gradient cutting, complex braiding)
+- Emotional interaction and trust-building with clients
+- On-site creative design flexibly adjusted based on head shape and hair texture
+- Responsibility for handling chemicals and tools safely
+- Provide comfort through physical contact and personalized advice
+
+**Skills to build:**
+
+- Using AR/VR hairstyle design tools
+- Customer data analysis and CRM software use
+- Social media marketing and personal branding
+- Basic programming (for customized tools or automation)
+- Color theory and chemical knowledge (precise color mixing)
+- Updates on personal care health and safety regulations.
+
+**Key growth areas:**
 
 - personal services
 - self-employment
@@ -63,66 +98,68 @@ Provide hairdressing services such as washing, cutting, coloring, and styling fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但理发师通常不符合薪资门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 同样需要高薪资，理发师难以达到。 |
-| Subclass Self-employed (Vreem（Self-employed permit） | 自雇理发师可通过创业移民申请，需提交商业计划并满足评分标准。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, but hairdressers typically do not meet the salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Hairdressers find it difficult to achieve the same high salaries. |
+| Subclass Self-employed (Vreem (Self-employed permit) | Self-employed barbers can apply via business migration, needing a business plan and meeting the points test. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hairdresser？**
-- 喜欢与人交流，有耐心的人
-- 对手工艺和时尚感兴趣的人
-- 愿意通过学徒制学习技能的人
+**Who is suited**
+- People who enjoy communicating with others and are patient
+- For people interested in craftsmanship and fashion
+- People willing to learn skills through an apprenticeship
 
-**谁不适合学Hairdresser？**
-- 不善于交际或不喜欢服务行业的人
-- 对耐心要求高、无法长时间站立的人
+**Who is not suited**
+- People who are not sociable or do not like the service industry
+- People who require high patience and cannot stand for long periods
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hairdressers in the Netherlands?**
+A: Junior hairdresser pre-tax annual salary about €20,000-€25,000, senior up to €32,000-€42,000. Self-employment income may be higher but with own costs.
+
+**Q: How can non-EU hairdressers work in the Netherlands?**
+A: Non-EU citizens face difficulty applying for work visas as hairdressers are not considered high-skilled. Self-employment is a viable path, requiring compliance with Dutch startup visa requirements.
+
+**Q: What career development opportunities are there for hairdressers in the Netherlands?**
+A: Can be promoted to senior hairdresser, salon manager, or open your own salon. Can also specialize in coloring, perming, or other niches, or become a hairdressing trainer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 中等偏低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等偏低（★★☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hairdresser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hairdressers in the Netherlands?**
-答：Entry-level hairdressers earn around €20,000-25,000 gross annually, while senior hairdressers can earn €32,000-42,000. Self-employed hairdressers may earn more but bear their own costs.
-
-**问：How can non-EU hairdressers work in the Netherlands?**
-答：It is difficult for non-EU hairdressers to obtain a work visa as it is not a high-skilled occupation. Self-employment via the Dutch start-up visa is an option, requiring a viable business plan.
-
-**问：What career opportunities exist for hairdressers in the Netherlands?**
-答：Hairdressers can advance to senior stylist, salon manager, or open their own salon. They can also specialize in coloring, perming, or become hairdressing instructors.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

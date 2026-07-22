@@ -1,61 +1,94 @@
-# Manufacturing Supervisors（Manufacturing Supervisors）职业分析 · NL
+# Manufacturing Supervisors — career analysis · Netherlands
 
-**职业代码：3122 – Manufacturing Supervisors。**
+**Occupation code: 3122 (ISCO08)**
 
-Manufacturing supervisors oversee production processes, ensuring efficiency, quality, and safety. They coordinate teams, manage resources, and resolve issues.
+Production supervisors oversee manufacturing processes to ensure efficiency, quality control, and safety standards. They coordinate team work, manage resources, and solve problems.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | —（MBO学费每年约€1,000-€2,000，可能有政府补贴） |
-| 应用科学大学 (HBO) 学士 | 4年 | $2,000~$15,000（HBO学士学费每年约€2,000-€15,000（欧盟/非欧盟差异大）） |
+| Secondary vocational education (MBO) | 3-4 years | $0~$2,000 (MBO tuition fees approximately €1,000-€2,000 per year, with possible government subsidies) |
+| Bachelor of Applied Sciences (HBO) | 4 years | $2,000~$15,000 (HBO bachelor's tuition approximately €2,000-€15,000 per year (EU/non-EU varies greatly)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生产管理证书 | 荷兰认证机构如NCOI | 可选 | 可选，但有助于晋升 |
-| VCA安全证书 | SSVV | 必备 | 许多制造企业要求 |
-| 精益六西格玛绿带 | 国际认证机构 | 可选 | 提升效率管理技能 |
+| VCA safety certificate | SSVV | Required | Many manufacturing companies require |
+| Production management certificate | Dutch accreditation bodies such as NCOI | Optional | Optional, but helpful for promotion |
+| Lean Six Sigma Green Belt | International accreditation bodies | Optional | Enhance efficiency management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。荷兰制造业持续转型，自动化和可持续生产推动对熟练主管的需求。预计未来五年就业保持稳定，尤其在高科技和食品加工领域。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 25,000. The Dutch manufacturing sector continues to transform, with automation and sustainable production driving demand for skilled supervisors. Employment is expected to remain stable over the next five years, especially in high-tech and food processing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$70,000 | 税前年薪 |
+| Median salary | $58,292 | Median salary (Official: CBS employee median hourly wage of €29.5/hour × 1976h annualized, BRC group 0722 Productieleiders industrie en bouw; P25–P75 €48,017–€71,334, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$70,000 | Annual pre-tax salary |
+| average salary | $48,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可通过经验晋升为生产经理、工厂经理或运营总监。继续教育如精益管理或技术管理课程有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core coordination and decision-making responsibilities of a production supervisor are difficult to replace, but tasks such as data monitoring and report generation will be highly automated by AI. Overall, risks and opportunities coexist; proactive adoption of digital management tools is necessary.
+
+Can advance to Production Manager, Plant Manager, or Operations Director through experience. Continuing education like Lean Management or technical management courses aids career growth.
+
+**Tasks most exposed to AI:**
+
+- Automatically collect and analyze production line sensor data to generate efficiency reports
+- Automatically optimize production plans and resource allocation through AI scheduling system
+- Basic anomaly alerts and automatic diagnosis of common faults
+- Document management: automated generation and updating of compliance reports and standard operating procedures (SOPs)
+
+**Where AI augments the role:**
+
+- Use digital twin systems to predict equipment maintenance timing, reducing downtime
+- Identify defects in real time through AI quality inspection systems, quickly locate root causes
+- Simulate different scheduling plans based on historical data to assist decision-making
+- Automated tracking of raw materials and finished goods inventory with replenishment alerts
+- Generate visual dashboards to help report efficiency and bottlenecks to management
+
+**Human moat:**
+
+- On-site rapid decision-making and multi-party coordination in emergency situations
+- Personnel management skills such as team morale, workforce scheduling, and conflict resolution.
+- Cross-departmental communication and resource coordination, handling supply chain emergencies
+- Creative thinking and empirical intuition in process improvement
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau)
+- Operation and understanding of smart manufacturing systems (MES/SCADA)
+- Application of AI tools (e.g., predictive maintenance, scheduling algorithms)
+- Change Management and Lean / Six Sigma
+- Digital communication and remote collaboration tools
+
+**Key growth areas:**
 
 - Automation
 - Lean Manufacturing
@@ -64,69 +97,68 @@ Manufacturing supervisors oversee production processes, ensuring efficiency, qua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年收入至少€3,672/月（30岁以下）或€5,008/月（30岁以上）的熟练员工，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年收入至少€5,331/月的高技能非欧盟公民，需雇主担保和高等教育学历。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业或世界前200大学硕士/博士毕业生，可在荷兰工作一年，无需工作许可。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled workers earning at least €3,672/month (under 30) or €5,008/month (30+), requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens with an annual income of at least €5,331/month, requiring employer sponsorship and higher education qualification. |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates with a master's or PhD from the Netherlands or a top 200 global university, who can work in the Netherlands for one year without a work permit. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manufacturing Supervisors？**
-- 具备团队管理和沟通能力的人
-- 喜欢动手操作和解决问题的人
-- 适应快节奏生产环境的人
-
-**谁不适合学Manufacturing Supervisors？**
-- 不喜欢轮班或加班的人
-- 对重复性工作感到厌倦的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with team management and communication skills
+- People who enjoy hands-on work and problem-solving
+- People who thrive in fast-paced production environments
+
+**Who is not suited**
+- People who dislike shift work or overtime
+- People who are tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a manufacturing supervisor in the Netherlands?**
+A: Annual pre-tax salary: entry-level approx. €30,000-€40,000, mid-level €40,000-€55,000, senior €55,000-€70,000.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as a production supervisor?**
+A: Eligible via Highly Skilled Migrant (kennismigrant) or EU Blue Card, requires employer sponsorship and meeting income thresholds.
+
+**Q: What are the career development opportunities for a production supervisor?**
+A: Can progress to roles such as Production Manager, Plant Manager, or Operations Director; also move into specialised areas like Lean Management or Quality Control.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Manufacturing Supervisors为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for manufacturing supervisors in the Netherlands?**
-答：Gross annual salary ranges from €30,000-€40,000 for entry-level, €40,000-€55,000 for mid-level, and €55,000-€70,000 for senior roles.
-
-**问：How can non-EU citizens migrate to the Netherlands as a manufacturing supervisor?**
-答：They can apply for the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting income thresholds.
-
-**问：What career advancement opportunities are there for manufacturing supervisors?**
-答：They can progress to production manager, plant manager, or operations director, or specialize in lean management or quality control.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

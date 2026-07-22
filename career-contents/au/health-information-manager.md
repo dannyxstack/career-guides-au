@@ -1,65 +1,92 @@
-# 健康信息管理师（Health Information Manager）职业分析 · 澳大利亚
+# Health Information Manager — career analysis · Australia
 
-**职业代码：224213 – Health Information Manager。**
+**Occupation code: 224213 (ANZSCO)**
 
-健康信息管理师负责医院与卫生机构的病历信息、临床编码(ICD)、数据治理与隐私合规，多在公立医院系统(公共部门)工作，是专业化、薪资中上的健康行政岗，非技术移民职业(注：HIM 在部分清单上另有评估，本条按公立系统岗位呈现)。
+Health Information Manager manages medical records, clinical coding (ICD), data governance, and privacy compliance in hospitals and health facilities, mostly in public hospital systems (public sector). It is a specialized, mid-to-high salary health administration role, not a skilled migration occupation (note: HIM is assessed differently on some lists; this entry is for public system roles).
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Health Information Management 相关本科 | 3~4年 | $20,000~$45,000（专业岗要求） |
-| 临床编码(Clinical Coding)培训 | 数月~1年 | $2,000~$12,000（编码岗要求） |
+| Health Information Management related bachelor degree | 3–4 years | $20,000~$45,000 (Professional role requirements) |
+| Clinical Coding training | Several months to 1 year | $2,000~$12,000 (Coding role requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HIM 相关学历 / HIMAA 会员 | 认可大学 / HIMAA | 可选 | 专业基础 |
-| Clinical Coding 资质 | HIMAA/认可机构 | 可选 | 编码岗要求 |
+| HIM-related qualification / HIMAA membership | Recognised university / HIMAA | Optional | Professional Foundation |
+| Clinical Coding qualification | HIMAA/Accredited body | Optional | Coding role requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 10,000。电子病历与数据治理推动专业化需求，持 HIM/临床编码资质者抢手且薪资走高。
+**Job demand: high (★★★★☆).** National workforce approx. 10,000. Electronic medical records and data governance drive professional demand; those with HIM/clinical coding qualifications are sought after with rising salaries.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,300 个 | 全国 |
-| 各州 health 官网 | 400~900 个 | 公立医院 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 / 编码员（0-2年） | $65,000~$80,000 | Entry |
-| 中级（3-7年） | $85,000~$100,000 | Experienced |
-| 资深 / 经理 | $110,000~$140,000 | Manager |
+| Median salary | $118,508 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior / coder (0-2 years) | $65,000~$80,000 | Entry |
+| Mid-level (3–7 years) | $85,000~$100,000 | Experienced |
+| Senior / Manager | $110,000~$140,000 | Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：HIM/编码员→高级→经理；临床编码、数据治理与系统经验决定收入。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Core tasks of Health Information Managers (clinical coding, data management) significantly threatened by AI, but strong human decision-making needed for regulatory compliance and privacy. Entry-level roles narrowing; mid-senior roles require more composite skills due to AI tools.
+
+Pathway: HIM/Coder → Senior → Manager; clinical coding, data governance and systems experience determine income.
+
+**Tasks most exposed to AI:**
+
+- Automated coding tools replace manual ICD coding, especially for structured medical records
+- Data quality check report generation, AI automatically marks outliers
+- Patient information entry and retrieval, AI voice and text recognition completed
+- Preliminary anomaly detection in compliance monitoring, AI scanning documents
+
+**Where AI augments the role:**
+
+- AI-driven clinical coding recommendations and rapid review to improve coding accuracy
+- AI automatically identifies sensitive information in data governance, accelerating compliance reviews
+- Machine learning for patient data analysis to support hospital performance and resource management
+- AI chatbot provides doctors with real-time coding queries to improve efficiency
+
+**Human moat:**
+
+- Human judgment in clinical coding disputes: non-standard medical records require clinical knowledge
+- Privacy compliance decisions: manual investigation and reporting of data breaches
+- Standard and training development: regulatory policy updates, internal process design
+- Cross-departmental coordination: communicate with doctors, IT, and management to resolve data issues
+
+**Skills to build:**
+
+- Advanced ICD-10-AM/ACHI coding skills
+- Data governance framework (e.g., ISO 27001)
+- AI coding tool operation and verification
+- Basic data analysis with Python/R
+- Privacy law compliance (e.g., HIPAA/Australian Privacy Act)
+
+**Key growth areas:**
 
 - Health Information Management
 - Clinical Coding
@@ -68,57 +95,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学健康信息管理师？**
-- 细致、对医疗数据与编码有兴趣者
-- 想进入专业化健康行政岗者
-
-**谁不适合学健康信息管理师？**
-- 不愿读相关专业者
-- 排斥严谨数据与合规工作者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who are detail-oriented and interested in medical data and coding
+- Those wanting to enter specialised health administrative roles
+
+**Who is not suited**
+- For those unwilling to study relevant majors
+- Not suitable for those who prefer strict data and compliance work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a Health Information Manager?**
+A: About AUD 65,000~140,000, higher for manager positions, clinical coding qualifications add significant value.
+
+**Q: Can a health information manager migrate via skilled visa?**
+A: Health Information Manager (224213) is on some skilled migration lists and has an assessment pathway; confirm with latest lists and assessing authority.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-健康信息管理师属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：健康信息管理师薪资多少？**
-答：约 AUD $6.5万~$14万，经理岗更高，临床编码资质加成明显。
-
-**问：健康信息管理师能技术移民吗？**
-答：Health Information Manager(224213)在部分技术移民清单上、有评估路径；具体以最新清单及评估机构为准。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

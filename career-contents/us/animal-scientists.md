@@ -1,62 +1,98 @@
-# Animal Scientists（Animal Scientists）职业分析 · 美国
+# Animal Scientists — career analysis · United States
 
-**职业代码：19-1011 – Animal Scientists。**
+**Occupation code: 19-1011 (SOC)**
 
-Conduct research in genetics, nutrition, reproduction, growth, and development of domestic farm animals to improve agricultural productivity and animal welfare.
+A scientist who studies livestock genetics, nutrition, reproduction, growth, and development to improve agricultural productivity and animal health.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（公立大学学费年均） |
-| 硕士 | 2年 | $25,000~$60,000（公立大学学费年均） |
-| 博士 | 5年 | $20,000~$35,000（博士通常有奖学金或助学金） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities) |
+| Master's degree | 2 years | $25,000~$60,000 (Average annual tuition at public universities) |
+| Doctorate | 5 years | $20,000~$35,000 (PhD usually has scholarships or assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物科学学士学位 | 美国大学 | 必备 | 核心学位要求 |
-| 博士或硕士学位 | 美国大学 | 可选 | 研究职位通常要求博士 |
-| 美国农业部认证 | USDA | 可选 | 某些政府研究职位需要 |
+| Bachelor of Animal Science | U.S. universities | Required | Core degree requirement |
+| Doctoral or master's degree. | U.S. universities | Optional | Research positions usually require a PhD |
+| USDA certification | USDA | Optional | Required for some government research positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。美国动物科学家就业前景稳定，预计未来十年增长约6%，受可持续农业和食品安全需求驱动。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Employment outlook for animal scientists in the US is stable, with expected growth of about 6% over the next decade, driven by sustainable agriculture and food safety demands.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 研究助理或初入职 |
-| 中级（4-7年） | $60,000~$80,000 | 有经验的科学家 |
-| 高级（8年以上） | $80,000~$110,000 | 资深研究员或主管 |
+| Median salary | $68,940 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Research assistant or entry-level |
+| Mid-level (4-7 years) | $60,000~$80,000 | Experienced scientist |
+| Senior (8+ years) | $80,000~$110,000 | Senior researcher or supervisor |
+| average salary | $88,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：助理研究员→独立研究员→项目负责人或实验室主任，或转入生物技术企业研发管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance animal scientists' data analysis and genetic prediction, but core tasks involving animal experimentation, farm management, and ethical judgment remain hard to replace; overall, risks and opportunities coexist.
+
+Career progression: Research assistant → Independent researcher → Project leader or laboratory director, or transition into biotech R&D management.
+
+**Tasks most exposed to AI:**
+
+- Automated statistical analysis of animal genetic data and genotype-phenotype association prediction
+- Generate experiment reports and literature reviews using natural language processing
+- Using computer vision to automatically record and monitor animal behaviour and health status
+- Optimised calculation of standard feed formulas (based on known nutritional databases)
+- Automatically generate breeding plan recommendations (based on genetic algorithms)
+
+**Where AI augments the role:**
+
+- Use machine learning models to accelerate screening and localization of beneficial trait genes.
+- Simulating the impact of different feeding regimes on animal growth using digital twins
+- Combining sensor data for precise individual health management (e.g., early disease warning)
+- Use AI-assisted design for more complex hybridization experimental plans
+- Quickly verify research hypotheses using automated data processing tools
+
+**Human moat:**
+
+- Operations and ethical decisions in animal experimentation (e.g., surgery, euthanasia)
+- Cross-disciplinary communication and collaboration with farm personnel, veterinarians, and policymakers
+- Ability to coordinate the translation of lab findings into actual production solutions
+- On-the-spot quick judgment in response to sudden animal epidemics or environmental changes
+- Deep understanding and compliance with animal welfare regulations and industry standards
+
+**Skills to build:**
+
+- Python/R programming and machine learning frameworks (scikit-learn, TensorFlow)
+- Genomics and bioinformatics (e.g., GWAS, gene editing data analysis)
+- IoT and sensor technology fundamentals (for animal monitoring)
+- Data visualization and reporting (Tableau, Power BI)
+- Statistical experiment design and causal inference methods
+- Animal welfare and ethical regulations knowledge
+
+**Key growth areas:**
 
 - Sustainable Agriculture
 - Animal Welfare
@@ -65,69 +101,68 @@ Conduct research in genetics, nutrition, reproduction, growth, and development o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：受限（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要本科以上学历，雇主担保，年度配额有限，竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于拥有硕士或博士学位的专业人士，通常需PERM劳工证。 |
-| Subclass O-1（Individuals with Extraordinary Ability） | 适用于杰出科学家，需证明国际认可成就，无需劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or higher, employer sponsorship, limited annual quotas, and is highly competitive. |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to professionals with a master's or doctoral degree, typically requiring a PERM labor certification. |
+| Subclass O-1 (Individuals with Extraordinary Ability) | For outstanding scientists, requires internationally recognized achievements, no labor certification needed. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animal Scientists？**
-- 对动物科学有浓厚兴趣，愿意从事实验室和实地研究
-- 具备分析能力和耐心，能完成长期研究项目
-- 希望为农业可持续发展和动物福利做出贡献
-
-**谁不适合学Animal Scientists？**
-- 不喜欢户外或农场工作环境
-- 对重复性实验操作缺乏耐心
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in animal science, willing to engage in laboratory and field research
+- Analytical skills and patience to complete long-term research projects
+- Wish to contribute to agricultural sustainability and animal welfare
+
+**Who is not suited**
+- People who dislike outdoor or farm work environments
+- Impatient with repetitive experimental operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of animal scientists?**
+A: Junior annual salary about US$45,000-60,000; senior up to US$80,000-110,000; education and experience greatly affect salary.
+
+**Q: What are the pathways for Chinese animal scientists to immigrate to the United States?**
+A: Common pathways include H-1B work visa, EB-2/EB-3 employment-based green card. Employer sponsorship required; PhD advantageous but quota tight.
+
+**Q: Do animal scientists need PERM for a green card?**
+A: EB-2 typically requires PERM labor certification proving no US workers are available. NIW (National Interest Waiver) can exempt PERM but has higher requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 受限（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Animal Scientists为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal scientists?**
-答：Entry-level salary is around $45,000-$60,000, senior can reach $80,000-$110,000, education and experience matter.
-
-**问：What pathways are available for Chinese animal scientists to immigrate to the US?**
-答：Common pathways include H-1B visa, EB-2/EB-3 green cards. Employer sponsorship required, PhD preferred, but quotas are limited.
-
-**问：Do animal scientists need PERM for green card?**
-答：EB-2 usually requires PERM to show no qualified US workers. NIW can waive PERM but has higher requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

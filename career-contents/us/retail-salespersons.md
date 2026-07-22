@@ -1,60 +1,96 @@
-# Retail Salespersons（Retail Salespersons）职业分析 · 美国
+# Retail Salespersons — career analysis · United States
 
-**职业代码：41-2031 – Retail Salespersons。**
+**Occupation code: 41-2031 (SOC)**
 
-Retail salespersons sell merchandise such as furniture, motor vehicles, appliances, or apparel directly to consumers, offering product information and after-sales service.
+Retail salespersons sell furniture, cars, appliances, clothing, and other goods directly to consumers, providing product information and after-sales service.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立学校免费） |
-| 在职培训 | 1-3个月 | —（雇主提供免费短期培训） |
+| High school graduation | 12 years | $0~$0 (Free public schools.) |
+| On-the-job training | 1-3 months. | $0~$500 (Employer provides free short-term training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业或同等学历 | 教育部 | 必备 | 多数雇主仅要求高中文凭 |
-| 零售销售认证 | 美国零售联合会 | 可选 | 非强制但有助于晋升 |
+| High school graduation or equivalent | Ministry of Education | Required | Most employers only require a high school diploma |
+| Retail sales certification | National Retail Federation | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,555,900。美国劳工统计局预计2023-2033年该职业就业增长约4%，增速与平均水平相当。电子商务带来压力，但实体店仍需要销售顾问提供个性化服务。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,555,900. U.S. Bureau of Labor Statistics projects employment growth of about 4% from 2023-2033, about as fast as average. E-commerce creates pressure, but brick-and-mortar stores still need sales associates for personalized service.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$30,000 | 含提成 |
-| 中级（3-5年） | $30,000~$40,000 | 含提成 |
-| 高级（5年以上） | $35,000~$50,000 | 含提成，主管级别更高 |
+| Median salary | $35,410 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $23,000~$30,000 | Including commission |
+| Mid-level (3–5 years) | $30,000~$40,000 | Including commission |
+| Senior (5+ years) | $35,000~$50,000 | Including commission, higher at supervisor level |
+| average salary | $37,310 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可晋升为销售主管、店长或区域经理；积累经验后可转行至批发或制造业销售；部分人考取认证后进入奢侈品或专业产品销售领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+Can advance to sales supervisor, store manager, or regional manager; with experience, transition to wholesale or manufacturing sales; some obtain certification and enter luxury or specialty product sales.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - E-commerce competition
 - Omnichannel retail
@@ -63,62 +99,64 @@ Retail salespersons sell merchandise such as furniture, motor vehicles, applianc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 零售销售通常不属于专业职业，极少数大型零售商可担保管理岗 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 需证明无法找到美国工人，难度极大 |
+| Subclass H-1B (H-1B Specialty Occupations) | Retail sales is usually not a professional occupation; very few large retailers can sponsor management positions |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Must prove inability to find US workers, which is extremely difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Retail Salespersons？**
-- 善与人沟通、有耐心、喜欢快节奏环境
-- 愿意通过提成提高收入
-- 寻求灵活排班及兼职机会者
+**Who is suited**
+- Good at communicating with people, patient, enjoys a fast-paced environment
+- Willing to increase income through commissions.
+- Seeking flexible scheduling and part-time opportunities
 
-**谁不适合学Retail Salespersons？**
-- 厌恶销售压力及业绩指标
-- 追求高薪及稳定职业前景者
+**Who is not suited**
+- Dislike sales pressure and performance targets
+- Those pursuing high salary and stable career prospects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of retail salespersons?**
+A: Median annual salary about $30,000, base salary plus commission; senior sales or management can reach over $50,000.
+
+**Q: Can retail salespersons apply for a work visa?**
+A: Extremely difficult. This occupation usually does not meet H-1B specialty occupation requirements; employer-sponsored green cards require proof of market demand and inability to find qualified US workers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Retail Salespersons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of retail salespersons?**
-答：Median annual wage is about $30,000, base plus commission; senior or managerial roles can exceed $50,000.
-
-**问：Can retail salespersons apply for work visas?**
-答：Very difficult. The occupation typically does not qualify as a specialty occupation for H-1B, and employer-sponsored green cards require proving market need and lack of qualified U.S. workers.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

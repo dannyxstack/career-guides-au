@@ -1,61 +1,97 @@
-# Livestock Farmer (excluding Poultry)（Livestock Farmer (excluding Poultry)）职业分析 · DE
+# Livestock Farmer (excluding Poultry) — career analysis · Germany
 
-**职业代码：1121 – Livestock Farmer (excluding Poultry)。**
+**Occupation code: 1121 (KldB)**
 
-Livestock farmers are responsible for feeding, caring for, and managing cattle, pigs, sheep, and other livestock, including milking, health monitoring, and stable cleaning, typically working on farms or ranches.
+Livestock farmers are responsible for feeding, caring for and managing cattle, pigs, sheep and other livestock, including feeding, milking, health monitoring and barn cleaning, usually on farms or ranches.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴，费用低） |
-| 农业技术员培训 | 1-2年（全日制） | $3,000~$10,000（需先完成职业培训） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Allowances are provided during training; costs are low.) |
+| Agricultural technician training | 1-2 years (full-time) | $3,000~$10,000 (Must complete vocational training first) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 畜牧业职业培训证书 | 德国工商会（IHK） | 必备 | 双元制培训结业 |
-| 农业技术员证书 | 农业商会 | 可选 | 可选，提升晋升机会 |
-| 资质认证（外国学历） | 德国农业协会（DLG） | 必备 | 外国学历需认证 |
+| Livestock vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Dual system training completion |
+| Qualification recognition (foreign qualifications) | German Agricultural Society (DLG) | Required | Foreign qualifications need accreditation |
+| agricultural technician certificate | Agriculture Chamber of Commerce | Optional | Optional, improves promotion chances |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 50,000。德国畜牧业面临结构转型，大型农场增加，对专业技术人员需求稳定，但传统岗位减少。未来就业机会取决于农业政策和市场趋势。
+**Job demand: medium (★★½☆☆).** National workforce approx. 50,000. German animal husbandry is undergoing structural transformation, with an increase in large farms and stable demand for professional technicians, but traditional positions are declining. Future job opportunities depend on agricultural policies and market trends.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $35,724 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $38,052 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级畜牧助手晋升为专业畜牧员，再升至农场主管或养殖场经理。通过进修可成为农业技术顾问或兽医助理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Can progress from junior livestock assistant to professional livestock worker, then to farm supervisor or farm manager. Further study can lead to agricultural technology consultant or veterinary assistant.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Precision Livestock Farming
 - Animal Welfare
@@ -64,69 +100,68 @@ Livestock farmers are responsible for feeding, caring for, and managing cattle, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Eu Blue Card（EU Blue Card） | 适用于大学学历或同等技能，薪资门槛适用畜牧专业人才。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需有德国认可的职业资格，雇主担保。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制的求职签证，允许找工作和短期就业。 |
+| Subclass Eu Blue Card (EU Blue Card) | Applicable to bachelor's degree or equivalent skills, salary threshold applies to animal husbandry professionals. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognised professional qualification and employer sponsorship. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | A points-based job-seeking visa allowing job hunting and short-term employment. |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Livestock Farmer (excluding Poultry)？**
-- 喜欢户外工作和动物
-- 有体力和耐心
-- 愿意在乡村生活和工作
-
-**谁不适合学Livestock Farmer (excluding Poultry)？**
-- 对动物毛发或气味过敏
-- 追求高薪或城市生活
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor work and animals
+- Has physical stamina and patience
+- Willing to live and work in rural areas
+
+**Who is not suited**
+- Allergy to animal hair or dander
+- Pursuing high salary or urban lifestyle
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of German livestock farmers?**
+A: Junior annual salary approximately 25,000-30,000 euros, intermediate 30,000-38,000 euros, senior up to 45,000 euros, depending on farm size and region.
+
+**Q: How can foreign animal husbandry workers immigrate to Germany?**
+A: Must complete recognized vocational training in Germany or pass a qualification assessment; can apply via skilled migration visa (requires employer sponsorship) or opportunity card.
+
+**Q: What education and training are needed to become a livestock worker?**
+A: Usually requires completing 3-year dual vocational training, after which further training as agricultural technician is possible. Foreign qualifications need recognition via German credential evaluation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-Livestock Farmer (excluding Poultry)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for livestock farmers in Germany?**
-答：Entry-level annual salary is about 25,000-30,000 EUR, mid-level 30,000-38,000 EUR, and senior up to 45,000 EUR, depending on farm size and region.
-
-**问：How can foreign livestock farmers immigrate to Germany?**
-答：They need to complete a German-recognized vocational training or obtain qualification recognition, and can apply for a skilled worker visa (employer-sponsored) or opportunity card.
-
-**问：What education and training are needed to become a livestock farmer?**
-答：Typically a 3-year dual vocational training, followed by optional agricultural technician training. Foreign qualifications must be recognized.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

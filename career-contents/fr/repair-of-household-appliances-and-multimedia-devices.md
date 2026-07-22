@@ -1,60 +1,94 @@
-# Repair of Household Appliances and Multimedia Devices（Repair of Household Appliances and Multimedia Devices）职业分析 · FR
+# Repair of Household Appliances and Multimedia Devices — career analysis · France
 
-**职业代码：I1402 – Repair of Household Appliances and Multimedia Devices。**
+**Occupation code: I1402 (ROME)**
 
-Diagnoses, repairs, and maintains household appliances (washing machines, refrigerators) and multimedia devices (TVs, computers). Works on-site or in repair centers, requiring knowledge of electronics, mechanics, and digital technologies.
+Responsible for diagnosing, repairing, and maintaining household appliances and multimedia equipment such as washing machines, refrigerators, TVs, computers, and other devices to ensure their normal operation. The work includes on-site or maintenance center services and requires knowledge of electronics, mechanics, and digital technologies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中职业文凭（CAP/BEP） | 2年（CAP） | —（公立学校免费，学徒制有津贴） |
-| 高级技师文凭（BTS） | 2年（BTS） | —（公立学校免费，私立学费约5000欧） |
+| High School Vocational Diploma (CAP/BEP) | 2 years (CAP) | $0~$3,000 (Public schools are free of charge, and apprenticeships receive subsidies) |
+| Advanced Technician Diploma (BTS) | 2 Years (BTS) | $0~$5,000 (Public schools are free, while private tuition is about 5,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Électrotechnique 或 CAP Électronique | 法国教育部 | 可选 | 入门级文凭，可学徒制获得 |
-| BTS Électrotechnique 或 BTS Systèmes numériques | 法国教育部 | 可选 | 更高级别文凭，利于晋升 |
-| Certificat de qualification professionnelle (CQP) | 专业行业协会 | 可选 | 针对特定品牌或技术的专业认证 |
-| Habilitation électrique | 法国劳动部 | 必备 | 必要安全认证，处理电气设备必备 |
+| Habilitation électrique | French Ministry of Labor | Required | Necessary safety certifications and essential for handling electrical equipment |
+| CAP Électrotechnique or CAP Électronique | French Ministry of Education | Optional | Entry-level diploma, available through apprenticeship |
+| BTS Électrotechnique or BTS Systèmes numériques | French Ministry of Education | Optional | Higher-level diplomas are more favorable for promotion |
+| Certificat de qualification professionnelle (CQP) | Professional industry associations | Optional | Professional certification for specific brands or technologies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国近年推行‘维修权’法规，鼓励延长产品寿命，推动家电维修需求增长。同时，智能家居普及使设备复杂度提升，技术工人持续短缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. In recent years, France has implemented 'right to repair' regulations, encouraging the extension of product lifespan and driving growth in demand for appliance repairs. At the same time, the widespread adoption of smart homes has increased device complexity, leading to a persistent shortage of skilled workers and promising employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，学徒或CDI起点 |
-| 中级（3-8年） | $26,000~$35,000 | 税前年薪，含经验与专业认证 |
-| 高级（8年以上） | $36,000~$45,000 | 税前年薪，含技术主管或自主创业 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, apprenticeship or CDI starting point |
+| Mid-level (3–8 years) | $26,000~$35,000 | Pre-tax annual salary, including experience and professional certifications |
+| Senior (8+ years) | $36,000~$45,000 | Pre-tax annual salary, including technical supervisor or entrepreneurship |
+| average salary | $24,312 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级维修工可晋升为高级技师、技术主管或自主创业开设维修店。通过考取高级文凭（如BTS）或参加厂商培训，可专攻品牌维修或智能家居系统。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace tasks like diagnostics and remote monitoring, but enhance repair strategies and customer interactions; At the same time, physical operations and complex troubleshooting still rely on humans, with overall impacts mixed.
+
+Junior maintenance workers can be promoted to senior technician, technical supervisor, or start their own repair shop. By obtaining advanced diplomas (such as BTS) or attending manufacturer training, you can specialize in brand repair or smart home systems.
+
+**Tasks most exposed to AI:**
+
+- AI automatically diagnoses common faults (such as through sensor data or user descriptions)
+- Remotely monitor appliance status and alert you of potential issues
+- Generate repair reports and parts order forms
+- Standardized part identification and specification matching
+
+**Where AI augments the role:**
+
+- AI provides repair steps and probability analysis for complex faults
+- Augmented reality (AR) assists with disassembly and assembly guidance
+- Analyze historical maintenance data to optimize spare parts inventory
+- Automatically generate clear and easy-to-understand explanations during customer communication
+- Predictive maintenance plan design (e.g., based on usage patterns)
+
+**Human moat:**
+
+- Non-standardized physical maintenance operations (such as weld point repair, mechanical adjustment)
+- Cross-device brand technology integration and hidden fault troubleshooting
+- On-site communication builds customer trust
+- Original renovations and innovative repair solutions
+
+**Skills to build:**
+
+- Practical skills in electronic circuit and mechanical maintenance
+- Use of AI diagnostic tools (such as machine learning-based fault classification)
+- IoT device interfaces and data parsing
+- Augmented reality (AR) assisted repair software operation
+- Customer service and remote communication skills
+- Updating and certifying knowledge for multi-brand equipment
+
+**Key growth areas:**
 
 - Repair Economy
 - Right to Repair
@@ -63,68 +97,67 @@ Diagnoses, repairs, and maintains household appliances (washing machines, refrig
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Work Permit (Salarié)） | 由法国雇主担保，需证明招聘不到欧盟工人。适合有相关文凭和工作经验者。 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，如年薪达37,000欧元以上，可获四年居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪至少53,000欧元（2023年标准），适合高级维修技师或管理人员。 |
+| Subclass Salarié (Work Permit (Salarié)) | Sponsored by a French employer, proof must be provided that EU workers cannot be recruited. Suitable for those with relevant diplomas and work experience. |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, if their annual salary exceeds 37,000 euros, they can obtain four-year residency. |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary of at least 53,000 euros (2023 standard) is required, suitable for senior maintenance technicians or managers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Repair of Household Appliances and Multimedia Devices？**
-- 喜欢动手修理、有耐心和好奇心的人
-- 希望从事环保行业、支持维修经济的人
-- 愿意学习电子和数字技术知识的人
-
-**谁不适合学Repair of Household Appliances and Multimedia Devices？**
-- 不喜欢与客户沟通或现场服务的人
-- 不愿更新技术知识、喜欢一成不变工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repairs, are patient, and are curious
+- Those who wish to work in the environmental protection industry and support the repair economy
+- People willing to learn about electronics and digital technologies
+
+**Who is not suited**
+- People who dislike communicating with customers or providing on-site service
+- People who don't want to update technical knowledge and prefer a monotonous job
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a French appliance maintenance technician?**
+A: Entry-level about EUR 20,000-25,000/year, mid-level 26,000-35,000/year, senior up to EUR 45,000/year. Income influenced by experience, certifications, and region.
+
+**Q: How can foreigners immigrate to France as home appliance repair technicians?**
+A: Immigrate via Salarié work visa (requires employer sponsorship) or Passeport Talent (high-skilled, high-salary). Relevant qualifications and French language skills help.
+
+**Q: Is there room for promotion for home appliance repair technicians?**
+A: You can be promoted to senior technician, technical supervisor, or start your own business. By completing advanced training with BTS or manufacturer certification, you can specialize in smart home or high-end brand repairs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Repair of Household Appliances and Multimedia Devices的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a home appliance repair technician in France?**
-答：Entry-level around €20,000-25,000/year, mid-level €26,000-35,000/year, senior up to €45,000/year. Income varies with experience, certification, and region.
-
-**问：How can a foreigner immigrate to France as a home appliance repair technician?**
-答：Via Salarié work permit (employer-sponsored) or Passeport Talent (high skill/salary). Relevant diploma and French language skills help.
-
-**问：Is there career advancement for a home appliance repair technician?**
-答：Yes, advance to senior technician, technical supervisor, or self-employment. Further training (BTS or manufacturer certificates) leads to specialization in smart home or premium brands.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

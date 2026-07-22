@@ -1,61 +1,94 @@
-# Warehouse operatives（Warehouse operatives）职业分析 · UK
+# Warehouse operatives — career analysis · United Kingdom
 
-**职业代码：9252 – Warehouse operatives。**
+**Occupation code: 9252 (SOC)**
 
-Warehouse operatives load, unload and convey goods in warehouses, prepare despatch documents, and perform elementary storage tasks.
+Warehouse operators are responsible for loading and unloading, handling various goods in warehouses and yards, preparing inventory documents or shipping documents, and performing other basic goods handling and warehousing related tasks.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业/无要求 | 通常无需 | —（多数雇主提供在职培训） |
-| 学徒制 | 12-18个月 | —（带薪学徒，无学费） |
+| High school diploma or no requirement | Usually not required | $0~$0 (Most employers provide on-the-job training) |
+| Apprenticeship | 12-18 months. | $0~$0 (Paid apprenticeship, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需/低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作执照 | RTITB / ITSSAR | 可选 | 提升薪资和就业机会 |
-| 仓库安全证书 | 雇主提供 | 可选 | 如Manual Handling培训 |
-| 物流与仓储学徒证书 | City & Guilds | 可选 | 可选，提升晋升机会 |
+| Forklift license | RTITB / ITSSAR | Optional | Improve salary and employment opportunities |
+| Warehouse safety certificate | Provided by employer | Optional | Such as Manual Handling training |
+| Logistics and warehousing apprenticeship certificate. | City & Guilds | Optional | Optional, improves promotion chances |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 350,000。随着电子商务持续增长，英国仓库和物流行业对操作员的需求稳定，预计未来十年就业岗位将增长约5%。自动化可能影响部分重复性工作，但总体就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 350,000. With continued e-commerce growth, UK warehouse and logistics industry demand for operators is stable, with employment expected to grow by about 5% over the next decade. Automation may affect some repetitive tasks, but overall job prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 起薪接近最低工资 |
-| 中级（3-5年） | $22,000~$26,000 | 含经验及技能津贴 |
-| 高级（5年以上/主管） | $26,000~$32,000 | 通常需管理职责或技能 |
+| Median salary | $27,832 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$22,000 | Starting salary close to minimum wage |
+| Mid-level (3–5 years) | $22,000~$26,000 | Including experience and skills allowances |
+| Senior (5+ years / supervisor) | $26,000~$32,000 | Typically requires supervisory duties or skills |
+| average salary | $28,646 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从操作员晋升为仓库主管、仓储经理，或转向供应链协调、物流规划等职位。积累经验后也可考取叉车驾驶等技能以提升薪资。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Warehouse operator roles will undergo significant changes due to AI and automation: some repetitive tasks are replaced, but new tools enhance efficiency, while humans still have advantages in exception handling and flexible handling.
+
+Can progress from operator to warehouse supervisor, warehouse manager, or shift to supply chain coordination, logistics planning roles. After gaining experience, obtaining skills like forklift driving can boost salary.
+
+**Tasks most exposed to AI:**
+
+- Manual inventory counting: AI vision and RFID technology will automatically track inventory, replacing manual counting
+- Paper document processing: automatically generates electronic delivery notes and inventory reports
+- Repetitive handling: AGVs and robotic arms can perform handling tasks along fixed paths.
+- Simple sorting: machine vision systems automatically sort packages by size/barcode
+
+**Where AI augments the role:**
+
+- AI Route Optimization: System recommends optimal picking paths to improve walking efficiency
+- Anomaly warning: AI analyzes inventory and sales data to alert of overstock or stockout risks in advance
+- Voice picking: voice command systems free operators' hands and improve accuracy
+- Real-time load sensing: smart shelves and forklift sensors assist in safe handling
+
+**Human moat:**
+
+- Flexible handling of non-standard goods (fragile, irregularly shaped, liquids, etc.)
+- Handle unexpected situations (system failures, cargo damage, urgent orders)
+- Efficient communication and coordination with drivers, managers, and customers
+- On-site safety supervision and human-machine collaboration command
+
+**Skills to build:**
+
+- Warehouse management system (WMS) operation
+- Basic data analysis and inventory report interpretation
+- Basic operation of collaborative robots (cobots)
+- Use of voice picking systems
+- Integration of forklifts and other equipment with AI-assisted functions
+- Exception handling and quick decision-making skills
+
+**Key growth areas:**
 
 - E-commerce growth
 - Logistics expansion
@@ -64,66 +97,68 @@ Warehouse operatives load, unload and convey goods in warehouses, prepare despat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 通常不适用，因该职业技能等级较低，但若薪资高于门槛且雇主担保，理论上可申请。实际中极少使用。 |
-| Subclass Graduate（Graduate visa） | 允许毕业生从事任何工作，包括仓库操作员，以积累工作经验。 |
-| Subclass Youth Mobility（Youth Mobility Scheme） | 适用于18-30岁特定国家公民，可在英国从事任何工作两年。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Usually not applicable, as this occupation has a lower skill level, but if the salary exceeds the threshold and employer sponsorship is provided, it is theoretically possible. Rarely used in practice. |
+| Subclass Graduate (Graduate visa) | Allow graduates to work in any job, including warehouse operator, to gain work experience. |
+| Subclass Youth Mobility (Youth Mobility Scheme) | Applicable to citizens of specific countries aged 18-30, allowing them to work in any job in the UK for two years. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Warehouse operatives？**
-- 希望快速就业、无需高学历的求职者
-- 体能好、适应体力劳动的人
-- 希望在物流行业积累基础经验的入门者
+**Who is suited**
+- Job seekers wanting quick employment without high academic qualifications
+- Good physical fitness, adaptable to manual labor
+- Beginners seeking foundational experience in the logistics industry
 
-**谁不适合学Warehouse operatives？**
-- 希望高薪或快节奏晋升的人
-- 不喜重复性体力劳动或站立工作的人
+**Who is not suited**
+- People seeking high salary or fast-paced promotion
+- Those who dislike repetitive physical labor or standing work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a warehouse operator?**
+A: Entry-level starting salary approximately £19,000-22,000, mid-level (3-5 years experience) approximately £22,000-26,000, supervisor level up to £26,000-32,000.
+
+**Q: Can warehouse operators apply for a UK work visa?**
+A: This occupation typically does not meet skilled worker visa requirements due to its lower skill level. However, it may be possible to work in the UK via a graduate visa or youth mobility scheme.
+
+**Q: Are there opportunities for promotion for warehouse operators?**
+A: Yes. Can advance to warehouse supervisor, warehouse manager, or move into management roles in supply chain, logistics planning, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无需/低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Warehouse operatives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for warehouse operatives?**
-答：Entry-level salary is around £19,000-£22,000, mid-level £22,000-£26,000, and supervisor level £26,000-£32,000.
-
-**问：Can warehouse operatives apply for a UK work visa?**
-答：This occupation usually does not meet the Skilled Worker visa requirements due to low skill level. However, Graduate visa or Youth Mobility Scheme may allow working in this role.
-
-**问：Are there career progression opportunities for warehouse operatives?**
-答：Yes, you can advance to warehouse supervisor, manager, or move into supply chain and logistics planning roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

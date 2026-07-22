@@ -1,61 +1,95 @@
-# Dental Hygienists（Dental Hygienists）职业分析 · 美国
+# Dental Hygienists — career analysis · United States
 
-**职业代码：29-1292 – Dental Hygienists。**
+**Occupation code: 29-1292 (SOC)**
 
-Dental hygienists provide oral hygiene care under dentist supervision, including teeth cleaning, fluoride treatment, X-rays, and patient education.
+Dental hygienists provide oral hygiene care under dentist supervision, including teeth cleaning, fluoride application, taking X-rays, and oral health education.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $20,000~$50,000（社区学院费用较低，私立较高） |
-| 学士学位 | 4年 | $60,000~$120,000（综合性大学费用较高） |
+| Associate degree | 2 years | $20,000~$50,000 (Community college fees are lower, private ones higher) |
+| Bachelor's degree | 4 years | $60,000~$120,000 (Comprehensive universities have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册牙科保健师执照 | 州牙科委员会 | 必备 | 必须通过国家委员会考试和州临床考试 |
-| 副学士或学士学位 | 认证牙科保健项目 | 必备 | 需选择CODA认证的学校 |
-| 心肺复苏（CPR）认证 | 美国心脏协会等 | 必备 | 多数州要求持有当前CPR证书 |
+| Registered dental hygienist license | State Dental Board | Required | Must pass the national board exam and state clinical exam |
+| Associate degree or bachelor's degree | Accredited dental hygiene program | Required | Must choose a CODA-accredited school |
+| Cardiopulmonary resuscitation (CPR) certification | American Heart Association, etc. | Required | Most states require a current CPR certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 214,300。美国劳工统计局预计2023-2033年就业增长约9%，远快于平均水平。人口老龄化和口腔健康意识提升推动需求，就业机会稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 214,300. The US Bureau of Labor Statistics projects employment growth of about 9% from 2023 to 2033, much faster than average. An aging population and increased oral health awareness drive demand; employment opportunities are stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $62,000~$78,000 | 起薪因地区和诊所类型而异 |
-| 中级（4-9年） | $78,000~$95,000 | 经验增加显著提升收入 |
-| 高级（10年以上） | $95,000~$110,000 | 主管或教育角色薪资更高 |
+| Median salary | $98,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $62,000~$78,000 | Starting salary varies by region and clinic type |
+| Intermediate (4-9 years) | $78,000~$95,000 | Increased experience leads to significantly higher income |
+| Senior (10+ years) | $95,000~$110,000 | Supervisory or educational roles have higher salaries |
+| average salary | $98,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径清晰：初级牙科保健师→高级/主治保健师→临床主管或教育者。部分人进入公共卫生领域或开设私人诊所（需额外资格）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
+
+Clear career path: Junior Dental Therapist → Senior/Chief Therapist → Clinical Supervisor or Educator. Some enter public health or open private clinics (requires additional qualifications).
+
+**Tasks most exposed to AI:**
+
+- Caries detection and basic X-ray interpretation
+- Basic Treatment Plan Generation (e.g., filling plans)
+- Patient Appointment Scheduling and Medical Record Organization
+- Drug dosage calculation and side effect alerts
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis improves diagnostic accuracy
+- Digital treatment planning to improve filling/restoration outcomes
+- Smart patient management system optimizes appointments and follow-ups
+- Virtual assistant provides personalized oral health education
+
+**Human moat:**
+
+- Clinical operation skills (e.g., fillings, sealants)
+- Ability to build trust and communicate with patients
+- Clinical judgment for handling complex cases
+- Fine hand movements and hand-eye coordination
+- Techniques for soothing children and anxious patients
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic software (e.g., DEXIS, Pearl)
+- Digital impressions and CAD/CAM operation
+- Data analysis to interpret oral health trends in patient populations
+- Remote dental consultation and collaboration skills
+- Interdisciplinary collaboration (with dentists, hygienists)
+- Lifelong learning and adaptability to new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Increased awareness of oral health
@@ -64,69 +98,68 @@ Dental hygienists provide oral hygiene care under dentist supervision, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需要学士学位，雇主可赞助，但名额有限、竞争激烈 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年培训或经验，通过PERM劳工证申请，排期较长 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招聘到合格美国工人，流程耗时1-2年 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree; employer sponsorship possible but limited slots and competitive |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, applying through PERM labor certification with a long waiting period. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate inability to hire qualified US workers, process takes 1-2 years |
 
-**PR难度：高（受限职业）（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Hygienists？**
-- 细心且人际沟通能力强
-- 对口腔健康有浓厚兴趣
-- 愿意接受严格执照要求
-
-**谁不适合学Dental Hygienists？**
-- 对血液或口腔异味敏感
-- 无法久坐或精细操作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented with strong interpersonal skills
+- Strong interest in oral health
+- Willing to accept strict licensing requirements
+
+**Who is not suited**
+- Sensitive to blood or oral odors
+- Unable to sit for long periods or perform fine motor tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dental hygienists?**
+A: According to BLS 2023 data, median annual salary around $81,400, top 10% exceed $100,000, depending on experience and location.
+
+**Q: Can dental hygienists immigrate to the US via work visa?**
+A: Possible but difficult. H-1B requires a bachelor's degree and has quota constraints; EB-3 green card requires employer PERM with years-long wait times. Typically need a US degree first.
+
+**Q: What education is needed to become a dental hygienist?**
+A: At least an associate degree (2 years) from a CODA-accredited program; some positions require a bachelor's degree. Includes classroom learning and clinical internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（2-4年）（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（受限职业）（★★★★☆） |
-
-Dental Hygienists为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dental hygienists?**
-答：According to BLS 2023, median annual wage is about $81,400; top 10% earn over $100,000, varying by experience and location.
-
-**问：Can dental hygienists immigrate to the US via work visa?**
-答：Yes, but difficult. H-1B requires a bachelor's degree with cap limits; EB-3 green card via PERM has long backlog. Usually need a US degree.
-
-**问：What education is needed to become a dental hygienist?**
-答：At least an associate degree from a CODA-accredited program (2 years); some roles require a bachelor's. Includes coursework and clinical training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Contractors and supervisors, oil and gas drilling and services（Contractors and supervisors, oil and gas drilling and services）职业分析 · 加拿大
+# Contractors and supervisors, oil and gas drilling and services — career analysis · Canada
 
-**职业代码：82021 – Contractors and supervisors, oil and gas drilling and services。**
+**Occupation code: 82021 (NOC)**
 
-Contractors and supervisors who oversee and coordinate oil and gas drilling and related service activities, managing field operations, leading teams, and ensuring safety compliance.
+Supervise and coordinate contractors and supervisors involved in oil and gas drilling and related service activities; responsible for site operations management, team leadership, and safety compliance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭/证书 | 2-3年 | $15,000~$30,000（石油技术或相关领域） |
-| 本科学位 | 4年 | $40,000~$80,000（工程或石油工程） |
-| 行业培训 | 6个月-1年 | $5,000~$15,000（钻井技术或H2S安全） |
+| Diploma/Certificate | 2-3 years | $15,000~$30,000 (Petroleum technology or related field) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Engineering or petroleum engineering) |
+| Industry training | 6 months to 1 year | $5,000~$15,000 (Drilling technology or H2S safety) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石油工程师认证 | APEGA或类似省级机构 | 必备 | 阿尔伯塔省要求注册为专业工程师 |
-| H2S安全培训 | 经认可培训机构 | 必备 | 行业强制要求 |
-| 钻井监督认证 | 国际钻井承包商协会（IADC） | 可选 | 非强制但提升竞争力 |
+| Petroleum Engineer Certification | APEGA or similar provincial body | Required | Alberta requires registration as a Professional Engineer |
+| H2S safety training | Approved training organisation | Required | Mandatory industry requirement |
+| Drilling supervisor certification | International Association of Drilling Contractors (IADC) | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。受全球能源需求和加拿大油气资源开发影响，该职业在阿尔伯塔省和萨斯喀彻温省需求稳定。预计未来十年就业增长中等，但受油价波动影响较大。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Driven by global energy demand and Canada's oil and gas resource development, demand for this occupation is stable in Alberta and Saskatchewan. Employment growth is expected to be moderate over the next decade but heavily affected by oil price fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$85,000 | 现场助理或副主管 |
-| 中级（3-7年） | $85,000~$120,000 | 钻井主管或现场经理 |
-| 高级（7年以上） | $120,000~$160,000 | 高级承包商或区域经理 |
+| Median salary | $104,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $60,000~$85,000 | Site assistant or deputy supervisor |
+| Mid-level (3–7 years) | $85,000~$120,000 | Drilling Supervisor or Site Manager |
+| Senior (7+ years) | $120,000~$160,000 | Senior contractor or regional manager |
+| average salary | $110,240 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 晋升路径包括从现场主管到高级项目经理或区域运营经理。可通过积累经验、取得专业认证（如石油技术协会认证）向管理层发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of oil and gas drilling and service contractors and supervisors is mixed: routine reporting and monitoring are easily automated, but on-site decision-making, safety management, and team leadership still heavily rely on humans, with AI more as an auxiliary tool.
+
+Career progression includes moving from site supervisor to senior project manager or regional operations manager. Advancement to management can be achieved through experience and professional certifications (e.g. Society of Petroleum Engineers certification).
+
+**Tasks most exposed to AI:**
+
+- Daily drilling data recording and report generation
+- Basic monitoring and early warning of equipment operation status
+- Automatic adjustment and optimization of routine drilling parameters
+- Automatic checking and reminders of standard safety procedures
+
+**Where AI augments the role:**
+
+- Using AI for drilling data analysis to predict formation changes and equipment failures
+- Uses computer vision to monitor site safety and compliance
+- Using AI to optimise drilling paths and operating parameters for efficiency
+- Train new employees through AI simulations to enhance team skills
+- Integrating real-time data and historical cases to support decision-making
+
+**Human moat:**
+
+- Rapid emergency decision-making for on-site incidents (e.g., blowouts, equipment failure)
+- Interpersonal communication and coordination with the team and external contractors.
+- Intuitive judgment of complex geological conditions based on experience
+- Leadership and accountability in safety management
+- Risk weighing and resource allocation in the face of uncertainty
+
+**Skills to build:**
+
+- Data analysis and interpretation (using Python/R to process sensor data)
+- AI/Machine learning fundamentals (predictive modeling, anomaly detection)
+- Digital twin and simulation tools (e.g., AnyLogic)
+- Human-machine collaboration and team management (leading remote and AI-assisted teams)
+- Enhanced knowledge of safety management and compliance technology
+- Continuous learning ability and cross-disciplinary communication
+
+**Key growth areas:**
 
 - Oil & Gas Drilling
 - Field Operations Management
@@ -63,68 +98,67 @@ Contractors and supervisors who oversee and coordinate oil and gas drilling and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Federal Skilled Worker / Canadian Experience Class） | 需满足综合排名系统（CRS）评分要求，通常需1年以上相关经验 |
-| Subclass PNP (Alberta / Saska（Provincial Nominee Program） | 阿尔伯塔省和萨斯喀彻温省有优先提名通道 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳动力市场影响评估支持工签 |
+| Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | Must meet Comprehensive Ranking System (CRS) score requirements; typically need over 1 year of relevant experience |
+| Subclass PNP (Alberta / Saska (Provincial Nominee Program) | Priority nomination pathways available in Alberta and Saskatchewan |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Contractors and supervisors, oil and gas drilling and services？**
-- 适应户外和偏远地区工作环境
-- 具备团队管理和应急处理能力
-- 对能源行业有浓厚兴趣
-
-**谁不适合学Contractors and supervisors, oil and gas drilling and services？**
-- 不喜欢面对危险工作条件
-- 无法适应轮班和长期离家
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Adaptation to outdoor and remote work environments
+- Possess team management and emergency response skills
+- Has a strong interest in the energy industry
+
+**Who is not suited**
+- Dislike working in dangerous conditions
+- Unable to adapt to shift work and long periods away from home
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an oil and gas drilling supervisor?**
+A: Entry-level approx. $60,000-$85,000 CAD, mid-level $85,000-$120,000 CAD, senior $120,000-$160,000 CAD, regional areas have additional allowances.
+
+**Q: What are the pathways to immigrate to Canada?**
+A: Can apply through Express Entry (FSW/CEC) or Provincial Nominee Program (Alberta/Saskatchewan), or transition via an LMIA work permit.
+
+**Q: What certifications are required?**
+A: H2S safety training is mandatory, engineering registration in Alberta is mandatory, IADC Drilling Supervisor certification is not mandatory but recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Contractors and supervisors, oil and gas drilling and services的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for oil and gas drilling supervisors?**
-答：Entry-level: CAD 60,000-85,000; Mid-level: CAD 85,000-120,000; Senior: CAD 120,000-160,000. Remote locations offer additional allowances.
-
-**问：What are the migration pathways to Canada?**
-答：You can apply via Express Entry (FSW/CEC) or PNP (Alberta/Saskatchewan), or transition through an LMIA work permit.
-
-**问：What certifications are required?**
-答：H2S safety training is mandatory, APEGA registration in Alberta is mandatory, and IADC drilling supervisor certification is recommended.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

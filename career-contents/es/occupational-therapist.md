@@ -1,59 +1,95 @@
-# Occupational Therapist（Occupational Therapist）职业分析 · ES
+# Occupational Therapist — career analysis · Spain
 
-**职业代码：2156 – Occupational Therapist。**
+**Occupation code: 2156 (CNO)**
 
-Occupational therapists help people with functional limitations due to illness, disability, or aging regain independence in daily life through personalized therapeutic activities that improve participation in daily activities, work, and leisure.
+Occupational therapists help people with functional impairments caused by illness, disability, or aging regain independent living abilities, improving their daily activities, work, and leisure participation through personalized therapy activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $682~$2,000（公立大学年学费，马德里/加泰等较高） |
-| 硕士（Máster） | 1-2年 | $1,200~$5,000（可提升专科竞争力，非必须） |
+| Undergraduate (Grado) | 4 years | $682~$2,000 (Public universities have higher annual tuition fees, especially in Madrid/Cata) |
+| Máster | 1-2 years | $1,200~$5,000 (It can enhance the competitiveness of the college and is not a necessity) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学本科学位（Grado en Terapia Ocupacional） | 西班牙公立/私立大学 | 必备 | 需完成4年制本科，包含临床实习 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证，过程耗时6个月至1年 |
-| Colegio Profesional注册 | 各省作业治疗师协会 | 必备 | 执业必要，需通过认证并缴纳会费 |
+| Bachelor's degree (Grado en Terapia Ocupacional) | Spanish, public/private universities | Required | Completion of a 4-year undergraduate program, including clinical internship |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require certification, and the process takes from 6 months to 1 year |
+| Colegio Profesional registration | Provincial occupational therapist associations | Required | Practice is required, requires certification, and membership fees are paid |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。西班牙老龄化加剧，神经系统疾病与慢性病高发，作业治疗师需求稳定增长。公共医疗系统与私人康复中心持续招聘，但岗位受预算限制。总体前景良好，尤其针对老年康复与儿科领域。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Spain's aging population is intensifying, with a high incidence of neurological and chronic diseases, leading to steadily growing demand for occupational therapists. Public healthcare systems and private rehabilitation centers continue to recruit, but positions are limited by budget. The overall outlook is positive, especially in the fields of geriatric rehabilitation and pediatrics.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公立系统与私立诊所，税前年薪 |
-| 中级（4-7年） | $28,000~$36,000 | 含专科经验与科室责任 |
-| 高级（8年以上） | $36,000~$45,000 | 管理岗或独立执业 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Public system and private clinics, pre-tax annual salary |
+| Mid-level (4-7 years) | $28,000~$36,000 | Includes specialist experience and departmental responsibilities |
+| Senior (8+ years) | $36,000~$45,000 | Management positions or independent practice |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径：初级治疗师 → 专科治疗师（如神经康复、手部治疗） → 科室主管/临床协调员 → 康复中心主任或独立执业。也可转向教学或科研。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
+
+Career paths: Primary Therapist → Specialist Therapist (such as neurorehabilitation, hand therapy) → Department Head/Clinical Coordinator → Director of Rehabilitation Center or practicing independently. It can also be turned to teaching or research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized assessment scales and score statistics
+- Use NLP to analyze patient diaries and generate rehabilitation progress summaries.
+- AI voice assistants record therapy sessions and summarize key points
+- Robot-assisted completion of repetitive limb training exercises
+- Automated scheduling and medical record archiving
+
+**Where AI augments the role:**
+
+- AI provides personalized activity recommendations and adaptive rehabilitation plans
+- Wearable device data analysis aids in identifying patient fatigue and risks
+- Virtual reality (VR) simulations of daily scenarios for desensitization training
+- Generative AI creating visual teaching aids and home practice guides
+- Predictive models for early warning of functional decline and intervention strategy adjustment
+
+**Human moat:**
+
+- Building and maintaining therapeutic relationships face-to-face
+- Unstructured activity analysis, improvisation, and creative adaptation
+- Assessing real-world engagement in complex social contexts
+- Human-Centered Communication and Decision-Making in Interdisciplinary Team Collaboration
+- Emotional guidance and motivation for patients/family members
+
+**Skills to build:**
+
+- Use and tuning of AI rehabilitation plan generation tools
+- Wearable device data analysis and visual interpretation
+- VR/AR therapy content design and basic programming
+- Human-robot collaborative therapy process design and ethical evaluation
+- Application of digital health records and intelligent reporting systems
+- AI-based remote rehabilitation monitoring and intervention
+
+**Key growth areas:**
 
 - Aging population
 - Rehabilitation demand
@@ -62,68 +98,67 @@ Occupational therapists help people with functional limitations due to illness, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学学位及工作合同，薪资达门槛，适合高技能移民 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于受雇于西班牙企业，合同与学历匹配，办理较快 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 传统工作居留，需雇主担保及岗位无法满足证明，适合紧缺职业 |
+| Subclass Tarjeta azul UE (EU Blue Card) | A university degree and a work contract are required, with salary reaching the threshold, making it suitable for high-skilled immigrants |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for employees of Spanish companies, where contracts match academic qualifications and processing is relatively fast |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Traditional work residence requires employer sponsorship and proof of non-satisfactory position, suitable for scarce occupations |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Therapist？**
-- 有耐心、同理心，喜欢与人沟通的工作者
-- 对康复医学和心理健康感兴趣的人
-- 希望从事稳定、受社会尊重职业的人
-
-**谁不适合学Occupational Therapist？**
-- 对重复性文案或行政工作感到厌倦的人
-- 不擅长处理肢体接触和情绪压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and enjoys communicating with others
+- For those interested in rehabilitation medicine and mental health
+- Those who hope to pursue stable and socially respected careers
+
+**Who is not suited**
+- People who are tired of repetitive copywriting or administrative work
+- People who are not good at handling physical contact and emotional stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for occupational therapists in Spain?**
+A: Entry-level is about 22,000-28,000 euros per year, and can increase to 45,000 euros with experience and specialization. Public systems have fixed salaries, while private clinics offer greater flexibility.
+
+**Q: How can a non-EU degree become an occupational therapist in Spain?**
+A: Academic credentials (Homologación) are required, and after certification, registration with provincial occupational therapist associations is required. You can apply for an EU Blue Card or a highly skilled talent visa.
+
+**Q: Is occupational therapist a highly sought-after profession in Spain?**
+A: Yes, some autonomous regions are listed for in-demand occupations, which helps simplify the work permit process.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Occupational Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an occupational therapist in Spain?**
-答：Entry-level around €22,000-28,000/year, increasing to €45,000 with experience and specialization. Public sector has fixed scales, private clinics offer flexibility.
-
-**问：How can non-EU graduates become occupational therapists in Spain?**
-答：Require homologación of degree, then register with the provincial professional college. Eligible for EU Blue Card or highly skilled visa.
-
-**问：Is occupational therapy a shortage occupation in Spain?**
-答：Yes, it is listed as a difficult-to-cover occupation in some autonomous communities, facilitating work permit processes.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

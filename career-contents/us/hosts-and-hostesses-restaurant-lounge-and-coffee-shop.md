@@ -1,59 +1,95 @@
-# Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop（Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop）职业分析 · 美国
+# Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop — career analysis · United States
 
-**职业代码：35-9031 – Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop。**
+**Occupation code: 35-9031 (SOC)**
 
-Welcome patrons, seat them at tables or in lounge, and help ensure quality of facilities and service.
+Welcome customers, seat them, and ensure facility and service quality.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 短期培训课程 | 数周至数月 | $200~$1,000（可选客户服务或餐饮服务培训） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Short-term training course | A few weeks to several months | $200~$1,000 (Optional customer service or food service training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无需特定证书 | 无 | 可选 | 雇主通常提供在职培训 |
+| No specific certificate required | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 180,000。预计2023-2033年就业增长约10%，快于平均水平，受餐饮业持续扩张驱动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 180,000. Employment is projected to grow about 10% from 2023 to 2033, faster than average, driven by continued expansion of the food service industry.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 兼职为主，含小费 |
-| 中级（3-6年） | $28,000~$35,000 | 全职或资深接待员 |
-| 高级（6年以上） | $35,000~$45,000 | 领班或主管级 |
+| Median salary | $31,200 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Part-time mainly, including tips |
+| Mid-level (3–6 years) | $28,000~$35,000 | Full-time or senior receptionist |
+| Senior (6+ years) | $35,000~$45,000 | Foreman or supervisor level |
+| average salary | $32,690 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级接待员可晋升至领班、餐厅主管或经理，需积累服务经验和客户管理能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant receptionist work will be significantly enhanced by AI-assisted tools, but some tasks like phone reservations and customer data analysis can be automated. Overall risk is manageable; interpersonal skills remain a core moat.
+
+Junior receptionist can be promoted to team leader, restaurant supervisor, or manager by accumulating service experience and customer management skills.
+
+**Tasks most exposed to AI:**
+
+- Phone reservation and online booking management
+- Customer data recording and inquiry
+- Seat allocation logic (based on algorithm optimization)
+- Queue management and wait time estimation
+- Menu information inquiry (AI voice assistant)
+
+**Where AI augments the role:**
+
+- Personalized customer greeting and service (AI provides customer preference info)
+- Real-time seat optimization and dynamic scheduling.
+- Customer satisfaction monitoring and real-time feedback handling.
+- Cross-department communication coordination (AI-assisted information transfer)
+- Multilingual translation and cross-cultural communication
+
+**Human moat:**
+
+- Genuine interpersonal interaction and emotional connection
+- Handling emergencies (e.g., customer complaints, special needs)
+- Create atmosphere and personalized experience
+- Physical mobility (guiding to seat, passing items)
+- Team collaboration and on-site management intuition
+
+**Skills to build:**
+
+- Mainstream booking and seating management software (e.g., OpenTable, Resy)
+- Basic data analysis (customer traffic, preference analysis)
+- AI-assisted communication tools such as real-time translation and voice assistants
+- Emotional intelligence and conflict resolution
+- Basic digital marketing (social media engagement).
+- Time management and multitasking
+
+**Key growth areas:**
 
 - Hospitality
 - Customer Service
@@ -62,62 +98,64 @@ Welcome patrons, seat them at tables or in lounge, and help ensure quality of fa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，该职位不满足专业职业要求。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 几乎不可能，因为缺乏技术性且劳动力充足。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Generally not applicable; the position does not meet professional occupation requirements. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Almost impossible due to lack of technicality and ample labor supply. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop？**
-- 喜欢与人交流、服务意识强的人
-- 寻求灵活兼职或入门级工作的求职者
-- 有耐心、能在快节奏环境中保持礼貌的人
+**Who is suited**
+- Those who enjoy interacting with people and have a strong service orientation
+- Job seekers looking for flexible part-time or entry-level positions
+- Patient, polite in fast-paced environments
 
-**谁不适合学Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop？**
-- 寻求高薪或稳定全职职业的人
-- 对重复性接待工作缺乏耐心的人
+**Who is not suited**
+- People seeking high-paying or stable full-time careers
+- Those who lack patience for repetitive reception work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for receptionists?**
+A: Annual salary approx. $22,000-$45,000 USD, depending on experience and restaurant tier; tips are a significant income source.
+
+**Q: Is it possible for a receptionist to immigrate to the US?**
+A: Almost impossible; this occupation is not skilled, and employers can hardly support work visa or green card applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for hosts and hostesses?**
-答：Annual salary ranges from $22,000 to $45,000, depending on experience and restaurant type; tips are a significant income source.
-
-**问：Is it possible to immigrate to the US as a host/hostess?**
-答：Very unlikely, as it is a non-skilled occupation; employers rarely sponsor work visas or green cards.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Veterinary Assistants and Laboratory Animal Caretakers（Veterinary Assistants and Laboratory Animal Caretakers）职业分析 · 美国
+# Veterinary Assistants and Laboratory Animal Caretakers — career analysis · United States
 
-**职业代码：31-9096 – Veterinary Assistants and Laboratory Animal Caretakers。**
+**Occupation code: 31-9096 (SOC)**
 
-Feed, water, and examine pets and nonfarm animals for illness in labs, animal hospitals, and clinics. Clean and disinfect cages, sterilize equipment, administer medication orally or topically, and prepare samples for lab examination under veterinary supervision.
+In animal hospitals, clinics, and labs, responsible for feeding and caring for pets and non-farm animals, cleaning and disinfecting cages and work areas, preparing lab and surgical instruments, and providing post-operative care, oral or topical medication, and preparing lab samples under veterinary supervision.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（多数岗位仅需高中文凭，在职培训） |
-| 社区学院证书/副学士 | 1-2年 | $5,000~$20,000（提升竞争力，部分雇主优先） |
+| High school diploma | 0 years | $0~$0 (Most positions require only a high school diploma and on-the-job training) |
+| Community college certificate/associate degree | 1-2 years | $5,000~$20,000 (Enhance competitiveness; some employers prioritize this) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常提供数周至数月的在职培训 |
-| 心肺复苏（CPR）认证 | 美国红十字会等 | 可选 | 部分雇主要求 |
-| 注册兽医助理（RVA） | 州兽医委员会 | 可选 | 部分州要求或推荐 |
+| On-the-job training | Employer | Required | Typically provides several weeks to months of on-the-job training. |
+| Cardiopulmonary resuscitation (CPR) certification | American Red Cross, etc. | Optional | Some employers require |
+| Registered Veterinary Assistant (RVA) | State Veterinary Board | Optional | Required or recommended by some states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 112,100。美国劳工统计局预计2023-2033年就业增长约20%，远高于所有职业平均水平。宠物支出增加和兽医服务需求增长驱动就业，实验动物护理也随研究活动扩张而增长。
+**Job demand: high (★★★★☆).** National workforce approx. 112,100. The U.S. Bureau of Labor Statistics projects employment growth of about 20% from 2023 to 2033, much faster than the average for all occupations. Growth is driven by increased pet spending and demand for veterinary services, while laboratory animal care also expands with research activity.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 入门级薪资，多为时薪 |
-| 中级（4-7年） | $32,000~$40,000 | 经验丰富者薪资提升 |
-| 高级（8年+） | $40,000~$50,000 | 资深或升任主管可达更高 |
+| Median salary | $38,150 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$32,000 | Entry-level salary, mostly hourly |
+| Mid-level (4-7 years) | $32,000~$40,000 | Salary increases with experience |
+| Senior (8+ years) | $40,000~$50,000 | Senior or supervisory roles can earn significantly more |
+| average salary | $40,340 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从入门级兽医助理开始，积累经验后可晋升为高级兽医助理、兽医技师（需额外教育），或转向实验室动物护理管理、动物福利官员等职位。部分人通过继续教育成为注册兽医技师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinary assistants and laboratory animal caretakers face mixed impacts from AI/automation: repetitive cleaning, disinfection, data recording are easily replaced, but direct animal care, clinical observation, and emotional interaction requiring human empathy are hard to automate.
+
+Usually start as an entry-level veterinary assistant, after gaining experience can advance to senior veterinary assistant, veterinary technician (requires additional education), or switch to laboratory animal care management, animal welfare officer, etc. Some become registered veterinary technicians through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Use automatic cleaning and disinfection equipment to clean and disinfect cages and work areas
+- Automatically record daily monitoring data like animal weight and diet via AI system.
+- Automate preparation of surgical instrument kits (e.g., sterilization, packing processes)
+- Automated feeding of feed and water using smart feeders
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools (e.g., image analysis) to identify early signs of animal diseases
+- Monitor animal vital signs in real time via wearable devices, with automatic alerts for abnormalities.
+- Use VR/AR simulation to train on complex surgical assistance procedures, enhancing skills
+- Using AI scheduling systems to optimize workflows and prioritize emergency care
+
+**Human moat:**
+
+- Careful observation of animal emotions and behavior (such as pain body language in animals)
+- Make quick decisions and perform non-standardised nursing operations in emergencies
+- Communicate with pet owners about conditions, provide emotional support, and build trust
+- Ethical judgment and sensitive operations like euthanasia in laboratory animal care
+
+**Skills to build:**
+
+- Animal medical image analysis and use of AI-assisted diagnostic tools
+- Basic data science (electronic health record analysis)
+- Advanced first aid and critical care skills.
+- Telehealth communication and care coordination skills
+- Automated cleaning equipment maintenance and minor troubleshooting
+- Knowledge of animal behavior psychology
+
+**Key growth areas:**
 
 - Veterinary Services
 - Animal Care
@@ -64,66 +97,68 @@ Feed, water, and examine pets and nonfarm animals for illness in labs, animal ho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 此职业通常不符合H-1B专业职位要求，因最低学历仅高中，极少申请 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 仅当雇主能证明无法找到美国工人且职位要求至少2年经验或培训时可能，但极少见 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需通过PERM劳工认证且证明无合格美国工人，实际案例非常罕见 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation usually does not meet H-1B specialty occupation requirements since minimum education is only high school; very few apply |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Only possible if employer can prove inability to find US workers and the job requires at least 2 years of experience or training, but extremely rare |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Must pass PERM labor certification and prove no qualified U.S. workers are available; actual cases are very rare. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Veterinary Assistants and Laboratory Animal Caretakers？**
-- 喜欢动物并愿意从事体力劳动的人
-- 愿意接受在职培训、无需高学历的人
-- 寻求稳定、日常重复性工作的人
+**Who is suited**
+- People who like animals and are willing to do physical work.
+- Those willing to undergo on-the-job training, no high education required
+- People seeking stable, routine, repetitive work
 
-**谁不适合学Veterinary Assistants and Laboratory Animal Caretakers？**
-- 对动物毛发或清洁工作过敏的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People allergic to animal hair or cleaning work
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a veterinary assistant?**
+A: According to US Bureau of Labor Statistics 2023 data, the median annual salary for veterinary assistants and laboratory animal caretakers is approximately USD 33,000. Experienced staff or supervisors can reach USD 40,000-50,000.
+
+**Q: Can veterinary assistants immigrate to the US via an H-1B visa?**
+A: Very difficult. This occupation typically requires only a high school diploma, not meeting H-1B specialty occupation requirements. Employer must prove the position requires at least a bachelor's degree, but rarely the case in practice. Green card pathway also limited.
+
+**Q: What career advancement opportunities exist for this occupation?**
+A: Through accumulated experience and additional education (e.g., associate degree), can advance to veterinary technician or laboratory animal care supervisor. Some move into animal welfare management, sales, or training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Veterinary Assistants and Laboratory Animal Caretakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinary assistants?**
-答：According to BLS 2023 data, the median annual wage for veterinary assistants and laboratory animal caretakers is about $33,000. Experienced or supervisory roles may reach $40,000-$50,000.
-
-**问：Can a veterinary assistant immigrate to the US via H-1B visa?**
-答：Very difficult. The occupation typically requires only a high school diploma and does not meet H-1B specialty occupation criteria. Green card paths are similarly limited.
-
-**问：What are the advancement opportunities?**
-答：With experience and additional education (e.g., associate degree), you can become a veterinary technician or lab animal care supervisor. Some move into animal welfare management, sales, or training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

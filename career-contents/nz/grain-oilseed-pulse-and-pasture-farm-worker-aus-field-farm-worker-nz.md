@@ -1,61 +1,93 @@
-# Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)（Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)）职业分析 · 新西兰
+# Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ) — career analysis · New Zealand
 
-**职业代码：842214 – Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)。**
+**Occupation code: 842214 (ANZSCO)**
 
-Responsible for planting, managing, harvesting, and primary processing of grains, oilseeds, pulses, and pasture in New Zealand, operating farm machinery. This ANZSCO Skill Level 4 role is typically eligible for AEWV, but Skilled Migrant Category requires meeting wage or Green List criteria.
+Responsible for the planting, management, harvesting, and primary processing of grains, oilseeds, pulses, and pastures in New Zealand, as well as operating agricultural machinery. This occupation is ANZSCO Skill Level 4, typically allowing entry via an AEWV work visa, but skilled migration requires meeting salary or Green List requirements.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常不需要正式学历） |
-| 1年制证书或大专 | 1年 | $5,000~$20,000（农业证书或新西兰农业课程） |
+| High school diploma | 0 years | $0~$0 (Usually no formal qualification required) |
+| 1-year certificate or diploma | 1 year | $5,000~$20,000 (Agricultural certificate or New Zealand agricultural course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业操作资格证书（NZQA 3级） | NZQA认可的培训机构 | 可选 | 提高技能，非强制 |
-| 新西兰驾照（Class 1至少） | 新西兰交通局 | 可选 | 驾驶农用车辆常用要求 |
-| 有害生物控制证书（可选） | 新西兰环保部或认证机构 | 可选 | 用于喷洒农药等 |
+| Agricultural operations qualification (NZQA Level 3). | NZQA-accredited training providers | Optional | Skill improvement, not mandatory |
+| New Zealand driver's license (at least Class 1) | New Zealand Transport Agency. | Optional | Common requirement for driving agricultural vehicles |
+| Pest control certificate (optional) | New Zealand Department of Conservation or accredited organizations | Optional | Used for spraying pesticides, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。新西兰农业是经济支柱，该职业需求稳定，尤其是坎特伯雷和怀卡托等产区。但受季节性影响，全职岗位有限，移民路径较窄，绿色清单未直接涵盖。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Agriculture is a pillar of New Zealand's economy, with stable demand for this occupation, especially in regions like Canterbury and Waikato. However, due to seasonality, full-time positions are limited, migration pathways are narrow, and it is not directly covered by the Green List.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$50,000 | 最低工资或略高，时薪约$22-$25 |
-| 中级（3-5年） | $50,000~$60,000 | 时薪$25-$30，需实际操作经验 |
-| 高级（5年以上） | $60,000~$70,000 | 主管或技术岗位，时薪$30-$35 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $42,000~$50,000 | Minimum wage or slightly higher, hourly rate around $22-$25 |
+| Mid-level (3–5 years) | $50,000~$60,000 | $25-$30 per hour, practical experience required |
+| Senior (5+ years) | $60,000~$70,000 | Supervisory or technical roles, hourly rate $30-$35 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 晋升路径包括农场主管、农场经理或转向农业咨询，但需积累经验或进修。短期提升技能可增加薪资，但管理职位竞争激烈。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation is significantly affected by automation, especially mechanization and precision agriculture technology which have largely replaced manual operations. AI further optimizes decision-making and monitoring; entry-level positions have declined, but demand for complex environment assessment and machinery maintenance remains.
+
+Career progression includes farm supervisor, farm manager, or transitioning to agricultural consulting, but requires experience or further study. Short-term skill upgrades can increase salary, but management positions are competitive.
+
+**Tasks most exposed to AI:**
+
+- Manual seeding and harvesting operations are replaced by auto-guided tractors and combine harvesters.
+- Experience-based irrigation and fertilization is replaced by AI-driven integrated water and fertilizer system
+- Manual inspection of crop growth conditions has been replaced by drone multispectral image analysis
+- Manual output recording and inventory management are automated by IoT sensors and cloud platforms
+
+**Where AI augments the role:**
+
+- Use AI to analyze satellite and drone data to accurately identify pests, diseases, and nutrient deficiencies, aiding decision-making
+- Optimize yield by predicting optimal sowing and harvest times using machine learning models.
+- Using AI-driven agricultural software to manage land, crops, machinery, and personnel scheduling
+- AI-assisted financial analysis and subsidy applications to improve farm operational efficiency
+
+**Human moat:**
+
+- Emergency decision-making ability to cope with extreme weather and sudden natural disasters
+- Sensory Judgment and Unstructured Problem-Solving for Soil, Crop, and Animal Health
+- Manual diagnostic and repair skills for complex mechanical faults
+- Communication, coordination, and interpersonal trust with landowners, communities, and regulatory agencies
+
+**Skills to build:**
+
+- Precision agriculture technologies (GPS, variable rate fertilization, drone operation)
+- Installation and maintenance of agricultural IoT devices
+- Fundamentals of Data Analysis (Interpreting production charts, climate models)
+- Smart agricultural machinery operation and basic fault troubleshooting
+- Knowledge of sustainable agriculture practices and regulations
+
+**Key growth areas:**
 
 - Seasonal Demand
 - AEWV Eligible
@@ -64,69 +96,68 @@ Responsible for planting, managing, harvesting, and primary processing of grains
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 适合有认证雇主offer的工人，需符合薪资和技能要求，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足ANZSCO技能等级1-3或高薪（时薪$31.61+）可申请，但本职业通常不符合 |
-| Subclass Regional Workforce（Regional Seasonal Employer (RSE)） | 季节性农场工作，主要面向太平洋岛国工人，非永久移民路径 |
+| Subclass AEWV (Accredited Employer Work Visa) | For workers with a certified employer offer, meeting salary and skill requirements, eligible for residency after 3 years. |
+| Subclass SMC (Skilled Migrant Category) | Meets ANZSCO skill level 1-3 or high salary (hourly $31.61+) to apply, but this occupation usually does not qualify |
+| Subclass Regional Workforce (Regional Seasonal Employer (RSE)) | Seasonal farm work, mainly for Pacific island workers, not a permanent migration pathway |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)？**
-- 体力好、愿意户外工作的人
-- 适应新西兰农村生活的人
-- 有农业机械操作经验的人
-
-**谁不适合学Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)？**
-- 不喜欢体力劳动的人
-- 希望快速获得永居的移民人士
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness and willingness to work outdoors
+- People who can adapt to rural life in New Zealand.
+- People with experience in agricultural machinery operation
+
+**Who is not suited**
+- People who dislike physical labor.
+- Immigrants seeking to obtain permanent residency quickly
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a New Zealand Farm Worker?**
+A: Entry-level annual salary around NZ$42,000-50,000, hourly rate often near minimum wage ($23.15). Senior workers can reach NZ$70,000, but growth is limited.
+
+**Q: Can this occupation immigrate to New Zealand?**
+A: Usually cannot directly apply for skilled migration due to ANZSCO Skill Level 4 and not on the Green List. May transition to residence after working 3 years on AEWV, but must meet high salary (hourly rate $25+) requirements.
+
+**Q: Is it hard to find a job?**
+A: There are many seasonal positions, but full-time competition is not intense. Requires driving and machine operation experience, with more opportunities in remote areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for farm workers in NZ?**
-答：Entry-level salary is about NZ$42,000-50,000 per year, often near minimum wage ($23.15/hr). Senior workers can earn up to $70,000, but growth is limited.
-
-**问：Can this occupation lead to NZ residency?**
-答：Not directly via Skilled Migrant Category due to ANZSCO Skill Level 4 and not on Green List. You may transition after 3 years on AEWV if earning above $25/hr.
-
-**问：Is it easy to find a job?**
-答：Seasonal roles are common, but full-time competition is low. Experience in driving and machinery helps; more opportunities in remote areas.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

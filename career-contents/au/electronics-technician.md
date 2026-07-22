@@ -1,66 +1,93 @@
-# 电子技术员（Electronics Technician）职业分析 · 澳大利亚
+# Electronics Technician — career analysis · Australia
 
-**职业代码：315111 – Electronics Technician。**
+**Occupation code: 315111 (ANZSCO)**
 
-电子技术员（Electronics Technician）安装、测试和维修电子设备，涵盖通信、工业控制、医疗设备和国防电子。澳洲国防、5G通信和可再生能源系统快速扩张，持证电子技术员持续短缺。
+Electronics Technicians install, test and repair electronic equipment across communications, industrial control, medical devices and defence electronics. Rapid expansion in Australian defence, 5G communications and renewable energy systems has created a sustained shortage of licensed Electronics Technicians.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Electronics/Electrotechnology | 36~42个月（学徒） | —（各州TAFE） |
-| Associate Degree in Electronics Engineering | 24个月 | $15,000~$25,000（TAFE/大学，可选进阶路径） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Electronics/Electrotechnology | 36–42 months (apprenticeship) | $0~$3,000 (State TAFE institutions) |
+| Associate Degree in Electronics Engineering | 24 months | $15,000~$25,000 (TAFE / university, with optional advanced pathways) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Electrotechnology (Electronics) | TAFE/RTO | 必备 | 执业核心资质 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
-| Defence Security Clearance (NV1/NV2) | ASD / AGSVA | 可选 | 国防电子职位必备 |
+| Certificate III in Electrotechnology (Electronics) | TAFE/RTO | Required | Core practising qualifications |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
+| Defence Security Clearance (NV1/NV2) | ASD / AGSVA | Optional | Essential for defence electronics roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。AUKUS国防电子（通信/雷达/水下传感器）2025年起大量新增岗位。5G基础设施持续铺开，工业IoT自动化部署带动维护需求。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. AUKUS defence electronics (communications/radar/underwater sensors) will create a significant number of new roles from 2025. 5G infrastructure rollout continues, and industrial IoT automation deployments are driving maintenance demand.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~900 个 | 全国，VIC/NSW/QLD集中 |
-| Indeed | 200~500 个 | 通信和工业自动化 |
-| LinkedIn | 150~350 个 | 国防和5G方向 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒/初级（0~3年） | $55,000~$78,000 | Electrical Award基础 |
-| 中级电子技术员（3~8年） | $80,000~$110,000 | Seek均值约$39~$53/hr（2026） |
-| 国防/通信专家（8年+） | $110,000~$150,000 | 国防安全许可+专业溢价 |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Apprentice/Entry-level (0–3 years) | $55,000~$78,000 | Electrical Award base rate |
+| Mid-level electronics technician (3–8 years) | $80,000~$110,000 | Seek average approximately $39–$53/hr (2026) |
+| Defence/communications specialist (8+ years) | $110,000~$150,000 | Defence security clearance + professional premium |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** AI诊断辅助减少部分故障排查工作，但现场安装、调试和高压系统处理仍需持证人员。跨学科（电气+数字+通信）背景的技术员薪资溢价明显。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Diagnostic testing and documentation tasks for electronics technicians will be automated by AI, but complex on-site troubleshooting and system integration gain value from AI-assisted tools, leading to a polarizing job market.
+
+AI-assisted diagnostics are reducing some fault-finding work, but on-site installation, commissioning and high-voltage system handling still require licensed personnel. Technicians with cross-disciplinary (electrical + digital + communications) backgrounds command a clear salary premium.
+
+**Tasks most exposed to AI:**
+
+- Using automated test scripts to complete standardized functional verification of electronic devices
+- Automatically generate fault diagnosis reports by analyzing historical maintenance data with AI
+- Use AI-driven PCB design tools to replace manual routing and component placement
+- Robots Automatically Complete Soldering and Assembly of Standard Electronic Components
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of oscilloscope/spectrum analyzer data for rapid troubleshooting of complex circuit faults
+- AI maintenance guides overlaid via AR glasses to improve on-site repair speed and accuracy
+- Using natural language to query knowledge bases for instant access to technical documents of old equipment
+- AI optimizes industrial control system parameters to reduce manual tuning time
+
+**Human moat:**
+
+- Innovative troubleshooting of electronic systems in non-standard field environments
+- Ability to communicate with clients, understand needs, and provide customized solutions
+- Professional judgment on legal regulations (e.g., explosion-proof, medical device certification)
+- Overall design capability for cross-system integration (e.g. communications, power, automation)
+
+**Skills to build:**
+
+- AI fault diagnosis tools (e.g. Siemens AI Inspector)
+- Python scripting and data analysis (for automated test data interpretation)
+- Industrial Internet of Things (IIoT) and edge computing
+- AR-assisted maintenance system operation
+- Electrical safety and compliance certifications (e.g., UL/CE/IEC)
+- Advanced PLC and SCADA integration
+
+**Key growth areas:**
 
 - Defence Electronics
 - Telecommunications & 5G
@@ -69,72 +96,69 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电子技术员？**
-- 有电子、通信或工业控制技术背景，希望进入澳洲国防或5G行业
-- 跨学科技术能力（电气+数字+通信），追求高薪专家路径
-
-**谁不适合学电子技术员？**
-- 无电子或电气基础
-- 希望纯体力或纯管理工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in electronics, communications or industrial control technology, looking to enter Australia's defence or 5G sector
+- Cross-disciplinary technical skills (electrical + digital + communications); pursuing a high-paying specialist career path
+
+**Who is not suited**
+- No electronics or electrical background
+- Prefer purely physical or purely administrative work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for electronics technicians in Australia?**
+A: Mid-level electronics technician annual salary approximately $80,000–$110,000 ($39–$53/hr). Defence/communications specialists can reach $110,000–$150,000.
+
+**Q: Is there strong demand for electronics technicians in Australia?**
+A: Strong. AUKUS defence electronics, 5G and industrial IoT are driving demand on three fronts simultaneously, with 400–900 positions advertised nationally on Seek.
+
+**Q: Is overseas electronics engineering experience recognised in Australia?**
+A: TRA skills assessment required (12–18 months). Defence roles additionally require an Australian security clearance (restrictions apply to non-citizens; permanent residency or citizenship is typically required).
+
+**Q: Will AI replace electronics technicians?**
+A: Relatively low risk. AI-assisted diagnostics are increasing, but on-site installation, commissioning, and high-voltage operations still require licensed personnel, and AUKUS defence projects are adding further demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 315111 数据 |
-| Seek AU | Electronics Technician 薪资及岗位量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-电子技术员的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电子技术员工资多少？**
-答：中级电子技术员年薪约 $80,000~$110,000（$39~$53/hr）。国防/通信专家可达 $110,000~$150,000。
-
-**问：澳洲电子技术员需求旺盛吗？**
-答：旺盛。AUKUS国防电子+5G+工业IoT三线并驱，全国Seek挂牌400~900个职位。
-
-**问：中国电子工程经验澳洲认可吗？**
-答：需TRA技能评估（12~18个月）。国防职位额外需要澳洲安全许可（外籍有限制，通常需永居或公民身份）。
-
-**问：AI会替代电子技术员吗？**
-答：较低风险。AI辅助诊断在增加，但现场安装、调试、高压操作仍需持证人员，AUKUS军事项目更增加需求。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

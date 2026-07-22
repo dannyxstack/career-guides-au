@@ -1,60 +1,95 @@
-# Painting, Coating, and Decorating Workers（Painting, Coating, and Decorating Workers）职业分析 · 美国
+# Painting, Coating, and Decorating Workers — career analysis · United States
 
-**职业代码：51-9123 – Painting, Coating, and Decorating Workers。**
+**Occupation code: 51-9123 (SOC)**
 
-Paint, coat, or decorate articles such as furniture, glass, pottery, jewelry, toys, books, or leather. Excludes artists and designers.
+Spray, coat, or decorate furniture, glass, pottery, jewelry, and other items, not involving artists or designers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 在职培训/学徒 | 1-2年 | $1,000~$5,000（培训材料或学徒期可能低薪） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| On-the-job training/apprenticeship | 1-2 years | $1,000~$5,000 (Training materials or apprenticeship may have low pay) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中/教育局 | 必备 | 基本入职要求 |
-| 在职培训证书 | 雇主 | 可选 | 通常由雇主提供 |
+| High school diploma or equivalent | High school / Education bureau. | Required | Basic entry requirements |
+| On-the-job training certificate | Employer | Optional | Typically provided by employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。美国就业前景稳定，制造业和手工艺品行业需求持续，但自动化可能影响部分低端岗位。2023-2033年就业增长率约为2%，低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. US employment outlook is stable, with ongoing demand in manufacturing and handicraft industries, but automation may affect some low-end positions. Employment growth from 2023-2033 is about 2%, below average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$35,000 | 时薪约13-17美元 |
-| 中级（3-7年） | $35,000~$45,000 | 时薪约17-22美元 |
-| 高级（7年以上） | $45,000~$60,000 | 时薪约22-29美元 |
+| Median salary | $41,600 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $27,000~$35,000 | Hourly wage approximately $13–17 USD |
+| Mid-level (3–7 years) | $35,000~$45,000 | Hourly wage about USD 17-22 |
+| Senior (7+ years) | $45,000~$60,000 | Hourly wage approximately $22-29 |
+| average salary | $45,210 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级工人可通过学徒积累经验，晋升为高级技工或主管；部分转向质量控制或调色师岗位，少数进入艺术修复领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+This occupation heavily relies on manual operation and visual inspection; AI cannot autonomously perform physical spraying, but automated spray equipment is gradually replacing skilled workers, entry-level positions are shrinking, and job opportunities will decrease over the next 5 years.
+
+Junior workers can gain experience through apprenticeships, advance to senior technicians or supervisors; some move to quality control or color matching, few enter art restoration.
+
+**Tasks most exposed to AI:**
+
+- Uniform spraying of paint or coating (can be done by automatic spray-painting robots)
+- Simple repetitive decorative pattern drawing (can be programmed on CNC equipment).
+- Surface pretreatment such as sanding and cleaning (can be done by automated systems)
+- Color blending and batch mixing (computer color matching systems can do this).
+- Quality inspection and defect identification (computer vision can assist)
+
+**Where AI augments the role:**
+
+- AI-assisted color matching and paint selection (optimize color combinations and material matching)
+- AR projection decoration templates (projecting design patterns directly onto workpieces to improve accuracy)
+- Real-time optimization of spray parameters (AI automatically adjusts pressure and flow based on surface conditions)
+- Intelligently learn complex decorative techniques (AI analyzes expert methods and guides novices)
+
+**Human moat:**
+
+- Fine decoration and artistic manual skills (e.g., hand painting, unique textures)
+- Adaptability to handle non-standard, irregular surfaces
+- Customer communication and customized recommendations
+- On-site problem judgment and temporary process adjustment
+- Safety and Environmental Protection Compliance Responsibilities
+
+**Skills to build:**
+
+- Learn to operate automatic spray painting robots and CNC equipment
+- Mastery of AI color matching software and digital design tools
+- Learn surface preparation and composite material knowledge
+- Enhance customer communication and custom design skills
+- Obtain certification in eco-friendly coatings and safety regulations
+- Learn to operate AR-assisted decoration systems
+
+**Key growth areas:**
 
 - Manufacturing
 - Steady demand
@@ -63,62 +98,64 @@ Paint, coat, or decorate articles such as furniture, glass, pottery, jewelry, to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不需要学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能适用于有经验的外国工人，但需雇主担保，且PERM劳工证申请困难 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | May be applicable for experienced foreign workers, but requires employer sponsorship, and PERM labor certification application is difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Painting, Coating, and Decorating Workers？**
-- 喜欢动手操作、注重细节的人
-- 对制造或手工艺术有兴趣者
-- 能接受重复性工作并追求稳定就业的人
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- For those interested in manufacturing or handicrafts.
+- Those who can handle repetitive work and seek stable employment.
 
-**谁不适合学Painting, Coating, and Decorating Workers？**
-- 希望高薪资或快速晋升的人
-- 无法适应油漆气味或化学溶剂环境的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who cannot tolerate paint odors or chemical solvent environments.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a painter?**
+A: Junior hourly wage: approximately $13-17 USD; senior technician: $22-29 USD; annual salary: approximately $45,000-60,000.
+
+**Q: Can this occupation apply for a US work visa?**
+A: Generally difficult, as this occupation typically does not require a bachelor's degree, not meeting H-1B requirements; EB-3 green card is possible but PERM labor certification is challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Painting, Coating, and Decorating Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for painting workers?**
-答：Entry-level hourly wage is about $13-17, while senior workers can earn $22-29 per hour, with annual salary around $45,000-60,000.
-
-**问：Can this occupation apply for a US work visa?**
-答：It is generally difficult, as the occupation typically does not require a bachelor's degree, making it ineligible for H-1B; EB-3 green card is possible but PERM labor certification is challenging.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

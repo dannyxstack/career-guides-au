@@ -1,60 +1,96 @@
-# Office Supervisor（Office Supervisor）职业分析 · NL
+# Office Supervisor — career analysis · Netherlands
 
-**职业代码：3341 – Office Supervisor。**
+**Occupation code: 3341 (ISCO08)**
 
-Supervise daily office operations, coordinate administrative teams, and ensure efficient workflows.
+Oversee daily office operations, coordinate admin teams, ensure efficient processes.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO-4) | 3-4年 | $2,000~$6,000（每年学费约2,000-6,000欧元） |
-| 高等职业教育 (HBO) | 4年（本科） | $2,000~$10,000（每年学费约2,000-10,000欧元） |
+| Intermediate Vocational Education (MBO-4) | 3-4 years | $2,000~$6,000 (Annual tuition fee approximately 2,000-6,000 euros) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $2,000~$10,000 (Annual tuition approximately 2,000-10,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 办公管理文凭 | MBO学校 | 可选 | 常见入门学历 |
-| 管理技能培训 | 行业协会 | 可选 | 如NVO管理课程 |
+| Diploma of Office Management | MBO school | Optional | Common entry-level education |
+| Management skills training | Industry association | Optional | Such as NVO management courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 48,000。荷兰办公室主管需求稳定，尤其在金融和专业服务行业。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 48,000. Demand for office managers in the Netherlands is stable, especially in the finance and professional services sectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $43,472 | Median salary (official: CBS median hourly wage €22.0/hour × 1,976 hours annualized, BRC group 0431 Administratief medewerkers; P25–P75 €34,975–€52,166, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$36,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $41,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升至行政经理或运营经理，或转向项目管理角色。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Structured tasks such as daily administrative coordination, scheduling, and reporting for office supervisors face AI automation pressure, but soft skills like interpersonal communication, emergency decision-making, and team motivation remain human advantages; overall, both risks and opportunities coexist.
+
+Can advance to administrative manager or operations manager, or transition to project management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic scheduling and attendance statistics, AI can generate optimal schedules based on employee preferences and workload
+- Drafting initial reports and compiling data for standardized reports (e.g., weekly, monthly)
+- Automatic triggering of office supply purchase orders and inventory tracking
+- Logistics coordination such as meeting arrangements, room bookings, and email notifications
+- Basic financial reimbursement review, AI automatically compares policies and flags anomalies
+
+**Where AI augments the role:**
+
+- Use AI to analyze office workflow data, identify bottlenecks and suggest optimizations
+- Use natural language processing tools to quickly retrieve internal policies, improving response accuracy
+- More efficient task follow-up through AI meeting minutes summaries
+- Use smart employee feedback systems to gauge team sentiment and improve management practices
+- Automate routine paperwork to free up time for team coaching and strategic planning
+
+**Human moat:**
+
+- On-the-spot judgment and empathy in handling sudden interpersonal conflicts (e.g., employee disputes, customer complaints)
+- Trust-based negotiation and persuasion skills in cross-departmental communication
+- Make flexible decisions based on unstructured information (vague instructions, implicit needs)
+- Motivate team morale, provide personalized career development guidance
+- Rapidly allocate resources during facility failures or staff emergency absences
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., advanced Excel functions, Power BI)
+- Application of AI office tools (e.g., smart scheduling systems, ChatGPT-assisted writing)
+- Basic project management (e.g., Jira or Trello for team task automation)
+- Emotional intelligence and conflict mediation (informal social intelligence)
+- Financial basics (read P&L statements, collaborate with financial managers)
+- Change management (guiding teams to adapt to new AI tools)
+
+**Key growth areas:**
 
 - Administrative efficiency
 - Remote team coordination
@@ -63,66 +99,65 @@ Supervise daily office operations, coordinate administrative teams, and ensure e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适合年薪高于门槛的高技能移民，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，年薪门槛高于平均水平。 |
-| Subclass Orientation Year (zo（Orientation Year） | 荷兰毕业或近3年内毕业的海外学生可申请1年求职签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled migrants earning above the threshold; requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for Highly Skilled Professionals; Annual Salary Threshold Above Average. |
+| Subclass Orientation Year (zo (Orientation Year) | Overseas students who graduated in the Netherlands or within the last 3 years can apply for a 1-year job-seeking visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Office Supervisor？**
-- 善于组织和沟通的行政人员
-- 渴望承担管理职责的办公室职员
-- 注重细节和流程优化者
-
-**谁不适合学Office Supervisor？**
-- 偏好独立工作而非团队协调者
-- 抗拒行政事务和文档工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Administrative staff skilled in organization and communication
+- Office workers aspiring to take on managerial responsibilities
+- Those focused on details and process optimization
+
+**Who is not suited**
+- Those who prefer independent work over team coordination
+- People who resist administrative tasks and paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an office supervisor in the Netherlands?**
+A: Junior: approx. €30,000-36,000, intermediate: €36,000-45,000, senior: €45,000-55,000 (annual pre-tax salary).
+
+**Q: What type of visa can an office supervisor use to relocate to the Netherlands?**
+A: Can apply through high-skilled migration or EU Blue Card, requires employer sponsorship and meeting salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Office Supervisor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Office Supervisor in the Netherlands?**
-答：Entry-level: €30k-36k, mid: €36k-45k, senior: €45k-55k (gross annual).
-
-**问：What visa options are available for an Office Supervisor to migrate to the Netherlands?**
-答：Highly Skilled Migrant or EU Blue Card with employer sponsorship and salary threshold.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

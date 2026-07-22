@@ -1,58 +1,93 @@
-# Fishery and Aquaculture Labourer（Fishery and Aquaculture Labourer）职业分析 · IT
+# Fishery and Aquaculture Labourer — career analysis · Italy
 
-**职业代码：9216 – Fishery and Aquaculture Labourer。**
+**Occupation code: 9216 (ISCO08)**
 
-Manual workers engaged in fishing and aquaculture in Italian coastal and inland waters, including feeding, harvesting, and maintaining cages and equipment.
+Manual laborers engaged in fishing and aquaculture in Italy's coastal and inland waters, including feeding, harvesting, and maintaining cages and equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无需正规教育 | —（通常在职培训） |
-| 职业培训 | 1年 | $500~$2,000（渔业或水产养殖短期课程） |
+| Junior high school graduation | No formal education required | $0~$0 (Usually on-the-job training) |
+| Vocational training | 1 year | $500~$2,000 (Short course in fishing or aquaculture) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海上安全培训证书 | 意大利海岸警卫队 | 必备 | 强制性基础安全培训 |
-| 渔船驾驶执照 | 意大利基础设施和运输部 | 可选 | 驾驶渔船需持有 |
+| Maritime safety training certificate | Italian Coast Guard | Required | Mandatory basic safety training |
+| Fishing vessel driver's license | Italian Ministry of Infrastructure and Transport | Optional | Driving a fishing vessel requires holding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 25,000。意大利渔业面临劳动力老龄化和年轻劳动力短缺的问题，但水产养殖业因可持续消费趋势略有增长。预计就业机会稳定，季节性需求明显。
+**Job demand: medium (★★★☆☆).** National workforce approx. 25,000. Italy's fisheries face an aging workforce and a shortage of young labor, but aquaculture has seen slight growth due to sustainable consumption trends. Job opportunities are expected to be stable, with seasonal demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 税前年薪，季节性工作可能更低 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含加班和奖金 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，如船长或主管 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$22,000 | Pre-tax annual salary; may be lower for seasonal work |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary, including overtime and bonuses |
+| Senior (7+ years) | $28,000~$35,000 | Annual pre-tax salary, such as captain or supervisor |
+| average salary | $25,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从普通工人晋升为组长或船长，但需积累海上经验及取得相应证书。少数人可转向水产养殖管理或自主经营小型渔船。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
+
+Can be promoted from ordinary worker to team leader or captain, but need to accumulate sea experience and obtain relevant certificates. A few can switch to aquaculture management or operate small fishing boats independently.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems take over scheduled and quantitative feeding tasks
+- Water quality sensors automatically monitor and record parameters like pH and dissolved oxygen.
+- Drones or underwater robots automatically inspect fish cages, replacing manual visual inspection
+- AI video analysis automatically counts fish schools and detects diseases or abnormal behavior
+- Environmental control systems (e.g., aerators) automatically start/stop based on sensor data
+
+**Where AI augments the role:**
+
+- AI-assisted water quality data analysis to predict algal blooms or disease outbreaks, guiding preventive measures
+- Automated feeding systems optimize feeding strategies based on fish activity data to improve feed conversion rates
+- Digital twin models simulate different breeding scenarios to assist production planning
+- Wearable devices monitor worker health to prevent heatstroke or fatigue
+- AI document assistant automatically generates farming logs and compliance reports
+
+**Human moat:**
+
+- On-site response capability for sudden equipment failures, extreme weather, and other abnormal conditions
+- Manual experience-based judgement of fish and shrimp behaviour and health (e.g., abnormal swimming, colour changes)
+- Interpersonal and negotiation skills in coordinating with suppliers, veterinarians, and regulatory bodies
+- On-site safety judgment and emergency rescue (e.g., drowning, electric shock)
+
+**Skills to build:**
+
+- Learn to use mainstream smart aquaculture platforms (e.g., AquaManager, eFishery)
+- Basic data processing and analysis skills (Excel or simple BI tools)
+- Basic skills in operating and maintaining automatic feeding systems, drones, and ROVs.
+- Understand working principles of aquaculture Internet of Things (IoT) sensors
+- Sustainable farming principles (e.g., antibiotic reduction, carbon footprint accounting)
+- English communication skills to suit international companies or export requirements
+
+**Key growth areas:**
 
 - Sustainable aquaculture
 - Blue economy
@@ -61,66 +96,65 @@ Manual workers engaged in fishing and aquaculture in Italian coastal and inland 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 意大利年度配额工作签证，适用于非欧盟季节性工人，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 需本科以上学历和高薪，此职业通常不符合要求。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italian annual quota work visa for non-EU seasonal workers, requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Requires bachelor's degree and high salary, this occupation usually does not meet requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fishery and Aquaculture Labourer？**
-- 喜欢户外和体力劳动的人
-- 愿意接受季节性工作和不稳定收入的人
-
-**谁不适合学Fishery and Aquaculture Labourer？**
-- 追求高收入和职业稳定性的人
-- 不喜欢海上或潮湿环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor and physical labor.
+- Willing to accept seasonal work and unstable income
+
+**Who is not suited**
+- People seeking high income and career stability
+- People who dislike offshore or humid environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of fishery workers?**
+A: Entry-level workers earn about €16,000-22,000 per year, while senior workers can earn €28,000-35,000. Income is significantly affected by seasons and catch volume.
+
+**Q: How Can Foreigners Obtain an Italian Fishery Work Visa?**
+A: Mainly through Decreto Flussi annual quota work visa, applied by employers, requiring an employment contract. Non-EU workers need a quota.
+
+**Q: Is there room for advancement for fishery workers?**
+A: Can be promoted to captain or farm supervisor, but requires experience and additional certificates. Some may operate small fishing vessels independently.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fishery and Aquaculture Labourer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fishery workers?**
-答：Entry-level workers earn around €16,000-€22,000 per year; senior workers can reach €28,000-€35,000. Income varies with season and catch.
-
-**问：How can foreigners obtain a work visa for fishery jobs in Italy?**
-答：Mainly through the Decreto Flussi annual quota work visa, sponsored by an employer with a job contract. Non-EU workers need quota slots.
-
-**问：Is there career advancement for fishery workers?**
-答：They can advance to captain or farm supervisor with experience and certifications. Some may operate small fishing boats independently.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Sales Representative (Medical and Pharmaceutical Products)（Sales Representative (Medical and Pharmaceutical Products)）职业分析 · 新西兰
+# Sales Representative (Medical and Pharmaceutical Products) — career analysis · New Zealand
 
-**职业代码：225412 – Sales Representative (Medical and Pharmaceutical Products)。**
+**Occupation code: 225412 (ANZSCO)**
 
-Sales Representatives (Medical and Pharmaceutical Products) in New Zealand promote and sell prescription drugs, OTC medicines, and medical products to healthcare professionals, building relationships with doctors and pharmacists to meet sales targets. This occupation is eligible for AEWV and Skilled Migrant Category visas, though not on the Green List; experienced professionals have reasonable migration prospects.
+Pharmaceutical sales representatives in New Zealand promote prescription drugs, over-the-counter medicines, and medical products to healthcare institutions, building and maintaining relationships with doctors and pharmacists to achieve sales targets. This occupation can apply for immigration via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC); it is not on the Green List, but those with industry experience have better immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（医药/生命科学/商科） | 3年 | $22,000~$40,000（新西兰大学国际生学费，如奥克兰大学、奥塔哥大学） |
-| 研究生文凭（销售/市场营销） | 1年 | $15,000~$30,000（可选，用于增强竞争力） |
+| Bachelor's degree (medicine/life sciences/business) | 3 years | $22,000~$40,000 (International student tuition fees at New Zealand universities, such as University of Auckland and University of Otago) |
+| Postgraduate Diploma (Sales/Marketing) | 1 year | $15,000~$30,000 (Optional, for enhancing competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰医药销售代表认证（NPRE） | 新西兰药品协会（Pharmacy Guild of NZ） | 可选 | 行业推荐证书，非强制但雇主青睐 |
-| 国际医药销售认证（International Sales Certification） | 国际销售协会 | 可选 | 可在线获取，提升海外背景认可度 |
-| 新西兰全驾照 | 新西兰交通局（NZTA） | 必备 | 多数职位需开车拜访客户，属硬性要求 |
+| Full New Zealand driver's license | New Zealand Transport Agency (NZTA) | Required | Most positions require driving to visit clients, a mandatory requirement |
+| New Zealand Pharmaceutical Sales Representative Certification (NPRE) | Pharmacy Guild of New Zealand | Optional | Industry-recommended certification, not mandatory but preferred by employers. |
+| International Sales Certification | International Sales Association | Optional | Available online, enhancing recognition for overseas backgrounds |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 2,500。新西兰医药销售代表就业前景稳定，受人口老龄化和医疗需求增长推动。但市场竞争激烈，跨国公司职位有限，本地中小药企机会较多。每年约有200-300个职位空缺，主要集中在奥克兰和基督城。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,500. The employment outlook for pharmaceutical sales representatives in New Zealand is stable, driven by an aging population and growing healthcare demand. However, the market is competitive, with limited positions at multinational companies and more opportunities at local small and medium pharmaceutical companies. There are approximately 200-300 job vacancies each year, mainly in Auckland and Christchurch.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 底薪加佣金，总计 |
-| 中级（4-7年） | $70,000~$90,000 | 含业绩奖金 |
-| 高级（8年以上） | $100,000~$130,000 | 含股权或高额佣金 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Base salary plus commission, total |
+| Mid-level (4-7 years) | $70,000~$90,000 | Including performance bonus |
+| Senior (8+ years) | $100,000~$130,000 | Includes equity or high commission |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级代表可通过业绩晋升为高级代表或区域经理，部分转向市场准入或产品管理。大型药企提供系统培训，但晋升通道相对狭窄，需要持续学习新药知识和销售技巧。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
+
+Junior representatives can advance to senior representative or regional manager through performance, with some moving into market access or product management. Large pharmaceutical companies offer systematic training, but promotion paths are relatively narrow, requiring continuous learning of new drug knowledge and sales skills.
+
+**Tasks most exposed to AI:**
+
+- Use CRM and AI tools to automatically dial calls, screen potential clients, and send standardized follow-up emails
+- Handle common service inquiries, product introductions, and initial needs confirmation via chatbot
+- Use AI to analyze customer historical data, generating personalized sales suggestions and quotation templates.
+- Automates routine contract clause explanation, service level descriptions, and FAQ responses
+- AI-driven sales forecasting and report generation, replacing manual data collation and trend analysis
+
+**Where AI augments the role:**
+
+- AI provides customer behavior insights and real-time recommendations, helping sales reps tailor solutions and increase closing rates
+- Uses Natural Language Processing (NLP) to analyze customer call recordings, identify emotions and purchase intent, and guide communication strategies
+- Automatically records call notes, updates CRM fields, freeing up energy to focus on high-value interactions
+- AI simulates customer roles for sales practice, enhancing salespeople's ability to handle objections and negotiate
+
+**Human moat:**
+
+- Complex needs diagnosis and cross-domain solution integration, requiring understanding of customer business scenarios and pain points
+- Build long-term trust relationships and maintain connections with key decision-makers at senior levels
+- Creative negotiation, flexible pricing decisions, and contract term customization
+- Cross-team coordination (e.g., technical, legal) to deliver complex service solutions
+- Demonstrate emotional intelligence and empathy when handling unexpected client crises and complaints
+
+**Skills to build:**
+
+- Proficiency in operating and configuring mainstream CRM (e.g., Salesforce) and AI sales assistants (e.g., Gong, Clari)
+- Data analysis basics: use Python or BI tools (e.g., Tableau) to analyze sales funnel and customer profiles
+- Customer success and complex project management skills to ensure renewals and expansion sales
+- Short video script creation and social media sales skills, using AI to generate content for customer acquisition
+- Prompt engineering for AI tools, optimizing chatbot scripts and sales email generation quality
+- Cross-cultural communication and remote collaboration skills, for global service sales
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,67 +97,66 @@ Sales Representatives (Medical and Pharmaceutical Products) in New Zealand promo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作offer，职位为ANZSCO Level 3-4，工资至少达中位数（约$29.66/小时） |
-| Subclass SMC（Skilled Migrant Category） | 6分制下需满足学历、工作经验等分数，职务需为ANZSCO Level 3以上，工资达到中位数1.5倍（约$44.49/小时）可获额外加分 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must obtain a job offer from an accredited employer for an ANZSCO Level 3-4 position, with wages at least at the median (approx. $29.66/hour) |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, points are required for education, work experience, etc. The position must be ANZSCO Level 3 or above, and a salary 1.5 times the median (approx. $44.49/hour) can earn extra points. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representative (Medical and Pharmaceutical Products)？**
-- 具备医药或生命科学背景，善于沟通和建立关系
-- 能承受业绩压力，有自驱力完成销售目标
-- 愿意在新西兰境内频繁出差（驾车）
-
-**谁不适合学Sales Representative (Medical and Pharmaceutical Products)？**
-- 不喜爱社交或与陌生人打交道
-- 对频繁的里程和驾驶工作排斥
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in medicine or life sciences, good communication and relationship-building skills
+- Able to handle performance pressure and self-driven to achieve sales targets
+- Willing to travel frequently within New Zealand (by car)
+
+**Who is not suited**
+- Does not enjoy socializing or dealing with strangers
+- Dislike frequent mileage and driving work
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a pharmaceutical sales representative in New Zealand?**
+A: Junior: approximately NZD 50,000-65,000, intermediate: NZD 70,000-90,000, senior: NZD 100,000-130,000, excluding commissions. Commissions are typically 10-30% of base salary.
+
+**Q: Can pharmaceutical sales representatives immigrate to New Zealand?**
+A: Yes, mainly through gaining experience on an AEWV visa before applying for SMC skilled migration. This occupation is not on the Green List, but meeting the median wage requirement is sufficient.
+
+**Q: What qualifications do pharmaceutical sales representatives in New Zealand need?**
+A: A bachelor's degree in medicine, life sciences, or business is usually required; New Zealand employers recognize international qualifications. A full driver's license is essential.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales Representative (Medical and Pharmaceutical Products)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a medical sales rep in New Zealand?**
-答：Entry-level: NZD 50,000-65,000; mid-level: 70,000-90,000; senior: 100,000-130,000, excluding commission which is typically 10-30% of base.
-
-**问：Can medical sales reps immigrate to New Zealand?**
-答：Yes. Mainly through AEWV then Skilled Migrant Category. Not on Green List, but meeting median wage threshold is key.
-
-**问：What qualifications are needed for medical sales roles in NZ?**
-答：Typically a bachelor's degree in pharmacy, life sciences, or business. A full NZ driver's license is mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

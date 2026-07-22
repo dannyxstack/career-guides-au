@@ -1,59 +1,95 @@
-# Fashion Designer（Fashion Designer）职业分析 · FR
+# Fashion Designer — career analysis · France
 
-**职业代码：B1805 – Fashion Designer。**
+**Occupation code: B1805 (ROME)**
 
-Fashion designers create clothing and accessories, from concept sketches to finished products, following trends for haute couture or ready-to-wear brands.
+Fashion designers are responsible for designing clothing and accessories, from concept sketches to finished product creation, tracking fashion trends, and creating collections for haute couture or ready-to-wear brands.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭 (BTS/DMA) | 2年 (BTS模式) | $500~$1,500（公立学校学费低，私立学校更高） |
-| 学士 (Licence) | 3年 | $500~$5,000（公立大学约500欧，私立设计学院5000欧以上） |
-| 硕士 (Master) | 2年（Licence后） | $3,000~$10,000（私立时装学校如IFM、ESMOD费用高） |
+| Higher Education Diploma (BTS/DMA) | 2 years (BTS mode) | $500~$1,500 (Public schools have lower tuition fees, while private schools offer higher fees) |
+| Bachelor (Licence) | 3 years | $500~$5,000 (Public universities cost about 500 euros, while private design schools cost over 5,000 euros) |
+| Master's (Master) | 2 years (after licence) | $3,000~$10,000 (Private fashion schools like IFM and ESMOD are expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 时装设计文凭 | 法国国家教育部或私立设计学院 | 可选 | BTS Design de Mode或DMA模式设计 |
-| 专业经验 | 雇主 | 可选 | 作品集至关重要，但无法律强制认证 |
+| Diploma in Fashion Design | The French Ministry of Education or private design schools | Optional | BTS Design de Mode or DMA Pattern Design |
+| Professional experience | Employer | Optional | A portfolio is crucial, but there is no legal mandatory certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。法国奢侈品和时装业全球领先，但竞争激烈。数字化和可持续发展趋势创造新岗位，但小型品牌就业机会有限，大型企业更稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's luxury and fashion industry is a global leader, but competition is fierce. Digitalization and sustainability trends create new jobs, but employment opportunities for small brands are limited, while large enterprises are more stable.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级 (0-3年) | $25,000~$35,000 | 税前年薪，小型工作室偏低 |
-| 中级 (3-7年) | $35,000~$50,000 | 中等品牌或助理艺术总监 |
-| 高级 (7年以上) | $50,000~$80,000 | 艺术总监或知名品牌设计师 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (0-3 years) | $25,000~$35,000 | Pre-tax annual salary, small studios are relatively low |
+| Intermediate (3-7 years) | $35,000~$50,000 | Medium brand or assistant art director |
+| Senior (7 years or more) | $50,000~$80,000 | Art director or well-known brand designer |
+| average salary | $30,264 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级设计师可晋升为高级设计师、艺术总监或创意总监。也可转向时尚买手、造型师或自有品牌创业，但需要积累经验和人脉。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Fashion designers' creativity remains strong, but repetitive work is taken over by AI, narrowing entry-level positions. AI-assisted design tools improve efficiency, but aesthetic and fashion insights remain the core moats.
+
+Junior designers can be promoted to senior designer, art director, or creative director. You can also turn to fashion buyers, stylists, or start your own brand, but you need to accumulate experience and connections.
+
+**Tasks most exposed to AI:**
+
+- Trend analysis report generation (AI automatically scrapes street and show data)
+- Basic style sketches and repetitive pattern design (AI drawing tools)
+- Fabric and color matching scheme generation (AI recommendation system)
+- Preliminary calculation of fit and size specifications (AI parametric adjustment)
+- Tracking and quickly generating images of trending social media elements
+
+**Where AI augments the role:**
+
+- Digital Sample Clothing and Virtual Try-on (AI 3D Modeling for Rapid Iterative Design)
+- Personalized plan generation (AI suggests based on customer body shape and preferences)
+- Supply chain and production scheduling optimization (AI forecasting trends and inventory)
+- Creative inspiration divergence and concept exploration (AI generates multiple style plans)
+- Customer Communication and Presentation (AI-generated virtual runway shows and scene rendering)
+
+**Human moat:**
+
+- A deep understanding and forward-looking judgment of culture, art, and human aesthetics
+- Narrative ability of brand stories and design concepts
+- Handmade tailoring, fabric modification, and other physical skills and tactile experience
+- Collaborate and communicate offline with customers, tailors, factories, and others
+- Interpretation and innovative integration of cross-cultural symbols
+
+**Skills to build:**
+
+- AI Drawing and 3D Design Tools (such as Midjourney, CLO 3D)
+- Sustainable fashion design methods and material knowledge
+- Data analysis and trend forecasting (using AI for market research)
+- Digital Marketing and Social Media Operations (Personal Brand Building)
+- Programming basics (Python or R for customizing AI tools)
+- Interdisciplinary collaboration (working with engineers and data scientists)
+
+**Key growth areas:**
 
 - Sustainability
 - Digital fashion
@@ -62,68 +98,67 @@ Fashion designers create clothing and accessories, from concept sketches to fini
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如设计师，需提供公司合同或项目，有效期4年，可续签。 |
-| Subclass Salarié（Employee (Salarié) Residence Permit） | 在法国找到雇主后申请的受雇工作居留，需高于SMIC工资，可转长期居留。 |
-| Subclass Recherche emploi（Job Search/Business Creation） | 毕业后可申请一年临时居留找工作，找到后转为工作居留。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents such as designers, who need to provide company contracts or projects, valid for 4 years, and can be renewed. |
+| Subclass Salarié (Employee (Salarié) Residence Permit) | If you apply for employed residence after finding an employer in France, your salary must be higher than the SMIC and you can switch to long-term residence. |
+| Subclass Recherche emploi (Job Search/Business Creation) | After graduation, you can apply for a one-year temporary residence to find a job, and once you find one, it will be converted to work residence. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fashion Designer？**
-- 对时尚有热情，具备创意和绘画能力
-- 能在高压下工作，适应快速变化的趋势
-- 有较强动手能力和缝纫基础
-
-**谁不适合学Fashion Designer？**
-- 缺乏耐心，不愿从基层做起
-- 对商业和市场敏感度低
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about fashion, with creativity and painting skills
+- Able to work under pressure and adapt to fast-changing trends
+- Strong hands-on skills and basic sewing skills
+
+**Who is not suited**
+- Lack of patience and unwillingness to start from the grassroots
+- Low sensitivity to business and markets
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a French fashion designer?**
+A: Junior about €30,000, mid-level €40,000-50,000, senior €50,000-80,000 gross annual salary.
+
+**Q: Can foreign fashion designers immigrate to France?**
+A: Yes, you can use the Passeport Talent or Salarié visa. You need to find an employer and meet the salary requirements.
+
+**Q: Do you need official certification to be a fashion designer in France?**
+A: Not required, but education and experience matter, and the portfolio is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Fashion Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a fashion designer in France?**
-答：Entry-level around €30k, mid-level €40-50k, senior €50-80k gross annual.
-
-**问：Can foreign fashion designers immigrate to France?**
-答：Yes, via Talent Passport or Employee visa, with a job offer and meeting salary thresholds.
-
-**问：Is official certification required to work as a fashion designer in France?**
-答：No, but education and experience are valued; portfolio is crucial.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

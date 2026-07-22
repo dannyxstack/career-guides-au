@@ -1,60 +1,94 @@
-# Company secretaries and administrators（Company secretaries and administrators）职业分析 · UK
+# Company secretaries and administrators — career analysis · United Kingdom
 
-**职业代码：4214 – Company secretaries and administrators。**
+**Occupation code: 4214 (SOC)**
 
-Responsible for maintaining company records, filing, transcribing dictation, and performing other clerical tasks within commercial organisations to ensure regulatory compliance.
+Responsible for company record maintenance, file archiving, dictation transcription, and other clerical tasks within a business organization, ensuring compliant operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 2年 | —（通常无需特定学费，在职培训为主） |
-| 大专文凭（公司秘书或商务管理） | 2年 | $6,000~$12,000（英国继续教育学院学费区间） |
-| 学士学位（商务管理、法律或会计） | 3年 | $24,000~$30,000（英国大学本科学费（国际学生）） |
+| High school diploma or equivalent | 2 years | $0~$0 (Usually no specific tuition fees, mainly on-the-job training) |
+| Diploma (Corporate Secretary or Business Management) | 2 years | $6,000~$12,000 (UK further education college tuition fee range) |
+| Bachelor's degree (business management, law, or accounting) | 3 years | $24,000~$30,000 (Undergraduate tuition fees for international students at UK universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ICSA公司秘书资格 | 特许公司秘书与行政人员协会（ICSA） | 可选 | 行业认可的专业资格，非强制但显著提升竞争力 |
-| 商务管理或法律相关学位 | 大学或学院 | 可选 | 许多雇主偏好相关学位 |
-| 欧盟数据保护法规（GDPR）培训证书 | 培训机构 | 可选 | 处理公司记录时的实用知识 |
+| ICSA company secretarial qualification | Chartered Institute of Secretaries and Administrators (ICSA) | Optional | Industry-recognized professional qualification, not mandatory but significantly enhances competitiveness |
+| Degree in business management or law. | University or college | Optional | Many employers prefer a relevant degree |
+| EU General Data Protection Regulation (GDPR) training certificate | Training institution | Optional | Practical knowledge when handling company records |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 24,000。英国公司秘书职位需求稳定，受企业监管要求驱动，预计未来五年就业人数小幅增长。数字化转型可能减少部分文书岗位，但合规复杂性增加将保持需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 24,000. Demand for company secretary roles in the UK is stable, driven by corporate regulatory requirements, with a slight increase in employment numbers expected over the next five years. Digital transformation may reduce some clerical roles, but increased compliance complexity will sustain demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 行政助理或初级公司秘书 |
-| 中级（3-7年） | $28,000~$40,000 | 经验丰富的公司秘书或主管 |
-| 高级（7年以上） | $40,000~$60,000 | 资深公司秘书或行政经理 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Administrative assistant or junior company secretary. |
+| Mid-level (3–7 years) | $28,000~$40,000 | Experienced company secretary or director |
+| Senior (7+ years) | $40,000~$60,000 | Senior company secretary or administrative manager. |
+| average salary | $45,661 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级行政助理可通过积累公司秘书经验晋升为高级公司秘书或行政经理，部分可转向法律或合规领域。获得特许公司秘书资格（ICSA）可提升职业前景。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Company Secretaries and Administrative Managers face high automation risk; AI can handle many clerical, compliance, and scheduling tasks, but the governance role of senior company secretaries still requires human judgment.
+
+Junior administrative assistants can progress to senior company secretary or administrative manager by accumulating company secretarial experience, or shift into legal or compliance fields. Obtaining the Chartered Company Secretary qualification (ICSA) can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Document archiving and retrieval: AI automatically classifies, stores, and retrieves company records
+- Dictation transcription and meeting minutes: voice-to-text technology can auto-generate records
+- Initial compliance document review: AI can check standard documents against legal requirements
+- Schedule Management and Meeting Arrangement: Smart Calendar Tools Automatically Coordinate Time
+- Data entry and basic report generation: AI generates reports from structured data
+
+**Where AI augments the role:**
+
+- Corporate governance consulting: AI provides regulatory updates and analysis to aid decision-making.
+- Board support: AI integrates financial and legal data to improve reporting quality
+- Risk management monitoring: AI monitors compliance risk points in real time and alerts potential issues.
+- Shareholder communication: AI-generated personalized reports to improve communication efficiency
+
+**Human moat:**
+
+- Complex compliance decisions: involving legal interpretation and exception rulings
+- Strategic advice and governance: providing board with combined qualitative and quantitative insights.
+- Interpersonal trust and confidentiality: trust and confidentiality when handling sensitive information
+- Cross-departmental coordination: mediating conflicts between different stakeholders
+
+**Skills to build:**
+
+- AI tool application: learn to use compliant AI platforms and automated documentation tools
+- Data Analysis & Interpretation: Extracting insights from AI-generated reports
+- Legal and governance knowledge: deepen understanding of corporate law and governance principles
+- Communication and collaboration: improve coordination with executives and boards
+- Risk management capability: monitor and respond to new digital risks
+- Project management: managing AI-driven compliance projects and digital transformation
+
+**Key growth areas:**
 
 - Compliance
 - Digital Transformation
@@ -63,68 +97,67 @@ Responsible for maintaining company records, filing, transcribing dictation, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的公司秘书职位，需满足最低薪资要求（通常£26,200/年或行业特定标准）。 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可在毕业后留英2年（博士3年）工作，积累经验后可转为技术工人签证。 |
-| Subclass Scale-up（Scale-up visa） | 若受雇于高增长企业，符合薪资要求可申请，首期2年，后续可续签。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to company secretary positions with employer sponsorship, must meet minimum salary requirements (usually £26,200/year or industry-specific standards). |
+| Subclass Graduate (Graduate visa) | UK graduates can stay in the UK for 2 years (3 years for PhD) after graduation to work, and can switch to a Skilled Worker visa after gaining experience. |
+| Subclass Scale-up (Scale-up visa) | If employed by a high-growth enterprise and meeting salary requirements, can apply; initial 2 years, renewable. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Company secretaries and administrators？**
-- 注重细节、条理清晰的人
-- 对商业法规和公司治理感兴趣的人
-- 愿意从行政岗位逐步晋升的人
-
-**谁不适合学Company secretaries and administrators？**
-- 厌恶重复性文书工作的人
-- 期望快速高薪的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and organized person
+- Those interested in commercial regulations and corporate governance
+- People willing to gradually advance from administrative positions
+
+**Who is not suited**
+- People who dislike repetitive paperwork
+- For those seeking quick high salaries.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a company secretary?**
+A: Junior approx. £20,000-£28,000, mid-level £28,000-£40,000, senior £40,000-£60,000; slightly higher in London.
+
+**Q: Can a company secretary immigrate to the UK on a work visa?**
+A: Yes, this position is on the list of eligible occupations for the Skilled Worker visa, but must meet salary requirements (at least £26,200/year or the going rate).
+
+**Q: What qualifications are needed to become a company secretary?**
+A: Not mandatory, but high school education and ICSA qualification help; business, law or accounting degrees are preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Company secretaries and administrators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for company secretaries?**
-答：Entry-level around £20,000-£28,000, mid-level £28,000-£40,000, senior £40,000-£60,000; slightly higher in London.
-
-**问：Can a company secretary immigrate to the UK via work visa?**
-答：Yes, this occupation is eligible for Skilled Worker visa sponsorship, subject to salary threshold (min £26,200/year or going rate).
-
-**问：What education is required to become a company secretary?**
-答：Not strictly required, but higher secondary education and ICSA qualification help; degrees in business, law, or accounting are preferred.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

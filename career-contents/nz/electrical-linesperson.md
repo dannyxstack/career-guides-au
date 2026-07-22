@@ -1,60 +1,95 @@
-# Electrical Linesperson（Electrical Linesperson）职业分析 · 新西兰
+# Electrical Linesperson — career analysis · New Zealand
 
-**职业代码：341112 – Electrical Linesperson。**
+**Occupation code: 341112 (ANZSCO)**
 
-Electrical Linespersons in NZ build, maintain and repair overhead and underground power lines. This occupation is on the Green List Tier 1, offering a direct pathway to residence for skilled migrants.
+Power line workers in New Zealand are responsible for building, maintaining, and repairing overhead and underground transmission and distribution lines. This is a skill shortage occupation, eligible for direct residency via Green List Tier 1, with a clear migration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| NZ Certificate in Electrical Engineering (Level 4) - Power Line Mechanic | 3-4年 | $8,000~$15,000（学费，不含工具和教材） |
-| 在职学徒培训 | 3-4年 | $5,000~$10,000（学徒期间部分学费由雇主承担） |
+| NZ Certificate in Electrical Engineering (Level 4) - Power Line Mechanic | 3-4 years | $8,000~$15,000 (Tuition, excluding tools and materials) |
+| On-the-job apprenticeship training | 3-4 years | $5,000~$10,000 (Some tuition fees during apprenticeship are covered by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册电工（线路工类） | Electrical Workers Registration Board (EWRB) | 必备 | 强制性注册，要求通过理论和实践考试 |
-| NZ Certificate in Electrical Engineering (Level 4) - Power Line Mechanic | 学历由新西兰理工学院（如WelTec、Otago Polytechnic）颁发 | 可选 | 通常为学徒制的一部分 |
-| 海外学历评估及桥梁培训 | Competenz (行业培训组织) 或 EWRB | 可选 | 海外线路工需经能力评估，可能需补修部分模块 |
-| IELTS 6.0 (或同等) 语言成绩 | 移民局认可的语言测试 | 可选 | 用于技术移民申请 |
+| New Zealand registered electrician (linesman category) | Electrical Workers Registration Board (EWRB) | Required | Mandatory registration, requires passing theoretical and practical exams |
+| NZ Certificate in Electrical Engineering (Level 4) - Power Line Mechanic | Qualification awarded by New Zealand polytechnics (e.g., WelTec, Otago Polytechnic) | Optional | Usually part of an apprenticeship program. |
+| Overseas qualification assessment and bridging training | Competenz (industry training organization) or EWRB | Optional | Overseas line workers need a skills assessment and may need to complete some modules |
+| IELTS 6.0 (or equivalent) language score | Language tests recognized by immigration authorities | Optional | Used for skilled migration application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 3,200。由于电网老化及可再生能源项目（如风力、太阳能）扩张，新西兰电力线工需求持续旺盛。未来五年预计年均增长约3-5%，尤其在南岛和偏远地区机会更多。
+**Job demand: very high (★★★★½).** National workforce approx. 3,200. Due to aging power grids and expansion of renewable energy projects (such as wind and solar), demand for New Zealand power line workers remains strong. Annual growth of about 3-5% is expected over the next five years, with more opportunities in the South Island and remote areas.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒期或刚获得注册资格 |
-| 中级（3-6年） | $75,000~$90,000 | 熟练线路工，能独立作业 |
-| 高级（6年以上） | $95,000~$120,000 | 含主管、高压线路工或培训师 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | During apprenticeship or just after obtaining registration |
+| Mid-level (3–6 years) | $75,000~$90,000 | Proficient linesperson, able to work independently |
+| Senior (6+ years) | $95,000~$120,000 | Includes supervisors, high-voltage linemen, or trainers |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：优秀（★★★★☆）。** 从学徒（3-4年）起步，通过考取新西兰电工注册局（EWRB）线路工证书，可晋升为高级线路工或团队主管；也可转入配电规划、培训或项目管理岗位。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
+
+Start as an apprentice (3-4 years), obtain the New Zealand Electrical Workers Registration Board (EWRB) Linesman certificate, and advance to senior linesman or team supervisor; or transition to distribution planning, training, or project management roles.
+
+**Tasks most exposed to AI:**
+
+- Use drones for automatic inspection of overhead lines, replacing manual visual checks
+- AI analyzes historical data to predict equipment failures, replacing periodic manual inspections
+- GIS system automatically generates optimal maintenance routes, reducing manual route planning
+- Online monitoring sensors transmit data in real time, no need for manual periodic recording
+
+**Where AI augments the role:**
+
+- AR glasses overlaying circuit diagrams and real-time parameters to enhance live-line work safety and efficiency
+- AI fault diagnosis system assists in identifying abnormal signals, speeding up troubleshooting
+- Use digital twin simulations for grid load to optimize construction and maintenance plans
+- Wearable Devices Monitor Vital Signs to Warn of Fatigue or Hazardous Conditions
+- UAV and Robot-Assisted High-Altitude Cable Connection to Reduce Fall Risk
+
+**Human moat:**
+
+- Comprehensive assessment of physical environment (weather, terrain, load) during live-line repairs
+- Practical ability to flexibly adjust construction steps in complex wiring scenarios
+- Creative problem-solving for non-standard faults (e.g., lightning strikes, animal damage)
+- Physical coordination and risk management for working at heights or in confined spaces
+- Responsibility for real-time communication and coordination with dispatch centers and field teams
+
+**Skills to build:**
+
+- Drone operation and flight planning (CASA certified)
+- GIS and digital grid platforms (e.g., ArcGIS) application
+- Basic Python scripts for data organization
+- Operation and maintenance of AR/VR-assisted tools
+- Interpreting Smart Sensor Data Dashboards
+- Human-machine collaboration communication and safety procedures in high-pressure environments
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +98,67 @@ Electrical Linespersons in NZ build, maintain and repair overhead and undergroun
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 满足职业和薪资要求（通常中位数工资以上）可直接申请居留，无工作转居留步骤。 |
-| Subclass SMC（Skilled Migrant Category） | 根据6分制打分，电力线工可凭职业注册（EWRB）获得特殊加分，通常需雇主担保。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未直接达到居留要求，可通过认证雇主工签先工作，再申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meeting occupational and salary requirements (usually above median wage) allows direct application for residency, no work-to-residence step. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, power line workers can get extra points through occupational registration (EWRB), usually requiring employer sponsorship. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you don't directly meet residency requirements, you can work via an accredited employer work visa first, then apply for residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Linesperson？**
-- 喜欢户外体力工作，不惧高空和恶劣天气
-- 动手能力强，注重安全细节
-- 愿意在偏远地区或外地工作以获更好机会
-
-**谁不适合学Electrical Linesperson？**
-- 对高空作业、电击风险极度恐惧
-- 无法接受长时间加班或紧急抢修任务
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work, unafraid of heights and harsh weather
+- Strong hands-on skills, attention to safety details
+- Willing to work in remote areas or away from home for better opportunities
+
+**Who is not suited**
+- Extreme fear of working at heights and electric shock risks
+- Unable to accept long overtime hours or emergency repair tasks.
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level for power line workers in New Zealand?**
+A: Entry-level linesperson annual salary approx. NZ$55,000–70,000, mid-level NZ$75,000–90,000, senior up to NZ$95,000–120,000. Additional allowances for high voltage or remote areas.
+
+**Q: How can overseas power line workers immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1. If you have a job with an accredited employer and meet the median wage, you can directly apply for residence. You must first obtain EWRB qualification.
+
+**Q: Is a New Zealand local qualification required?**
+A: Can apply via overseas qualification assessment, but usually need to complete some New Zealand training or exams to obtain EWRB registration. Apprenticeship is a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 优秀（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★★） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electrical Linesperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for electrical linespersons in NZ?**
-答：Entry-level earn about NZ$55k-70k per year, experienced NZ$75k-90k, and senior NZ$95k-120k, with potential allowances for high-voltage or remote work.
-
-**问：How can overseas linespersons migrate to NZ?**
-答：This role is on Green List Tier 1. With a job offer from an accredited employer meeting median wage, you can apply for Straight to Residence. EWRB registration is required.
-
-**问：Do I need a New Zealand qualification?**
-答：Not necessarily, but overseas qualifications must be assessed. You may need to complete bridging training or exams for EWRB registration. Apprenticeship is common.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

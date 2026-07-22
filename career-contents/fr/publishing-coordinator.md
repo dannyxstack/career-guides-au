@@ -1,61 +1,94 @@
-# Publishing Coordinator（Publishing Coordinator）职业分析 · FR
+# Publishing Coordinator — career analysis · France
 
-**职业代码：E1105 – Publishing Coordinator。**
+**Occupation code: E1105 (ROME)**
 
-Coordinates the entire publishing process from manuscript to final book, managing schedules, communicating with authors and printers, and ensuring quality control.
+Responsible for coordinating the entire publishing process from manuscript to book completion, including scheduling, communication with authors and printers, and quality control.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Licence） | 3年 | $3,000~$8,000（公立大学学费约3000欧/年，私立可至8000欧） |
-| 硕士（Master） | 2年 | $4,000~$10,000（公立大学约4000欧/年，私立专业可至10000欧） |
-| 学徒制（Apprentissage） | 1-2年 | —（企业承担学费并支付工资） |
+| Licence | 3 years | $3,000~$8,000 (Tuition at public universities is about 3,000 euros per year, while private universities can go up to 8,000 euros) |
+| Master's Degree (Master) | 2 years | $4,000~$10,000 (Public universities cost about 4,000 euros per year, while private majors can cost up to 10,000 euros) |
+| Apprentissage | 1-2 years | $0~$0 (The company covers tuition and pays wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 出版专业或相关领域本科文凭 | 公立大学/私立院校 | 可选 | 入职门槛，非强制但普遍要求 |
-| 出版专业硕士 | 巴黎大学等 | 可选 | 竞争激烈岗位优先考虑 |
+| Bachelor's degree in publishing or related fields | Public universities / private institutions | Optional | Entry threshold is not mandatory but generally required |
+| Master's degree in Publishing | University of Paris, etc | Optional | Highly competitive positions will be given priority |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。受数字化转型影响，传统出版岗位需求缓慢下降，但数字出版与自出版领域新增机会。整体就业稳定，巴黎地区集中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Affected by digital transformation, demand for traditional publishing positions has slowly declined, but new opportunities have emerged in the fields of digital publishing and self-publishing. Overall employment is stable, with concentrations in the Paris area.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，巴黎地区略高 |
-| 中级（3-7年） | $30,000~$40,000 | 含经验加成 |
-| 高级（7年以上） | $40,000~$50,000 | 含管理职责 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary is slightly higher in the Paris area |
+| Mid-level (3–7 years) | $30,000~$40,000 | Includes experience bonuses. |
+| Senior (7+ years) | $40,000~$50,000 | Includes management responsibilities |
+| average salary | $49,794 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级协调员晋升至高级编辑或出版经理，也可转向数字内容管理或版权授权领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Coordination and communication tasks for publishing coordinators are difficult to fully automate, but AI is highly replaceable for tasks such as schedule optimization, data tracking, and simple proofreading, resulting in a mixed outlook overall.
+
+You can advance from Junior Coordinator to Senior Editor or Publishing Manager, or move into digital content management or copyright licensing.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and optimize project schedules
+- Automated Quality Inspection (Formatting, Spelling)
+- Record and track manuscript status and deadlines
+- Generate standard reports and meeting minutes
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of publishing schedule bottlenecks and suggestions for adjustments
+- AI-recommended author matching and hot topic trend analysis
+- Automatically generate multilingual summaries and content summaries
+- Supplier performance evaluation based on historical data
+
+**Human moat:**
+
+- Complex negotiations and relationship maintenance with authors and printers
+- Handling sensitive content and emergency crisis decisions
+- Artificial judgment of creative direction and artistic quality
+- Cross-cultural coordination and ethical issues
+
+**Skills to build:**
+
+- AI project management and scheduling optimization tools (such as Asana + AI plugins)
+- Basic Data Analysis and Visualization (Excel/Python)
+- Advanced operations of Content Management System (CMS).
+- Digital Rights Management and Metadata Standards
+- Basic Typesetting Design Software (InDesign)
+- Communication and negotiation skills.
+
+**Key growth areas:**
 
 - Digital Publishing
 - Self-Publishing
@@ -64,65 +97,67 @@ Coordinates the entire publishing process from manuscript to final book, managin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Visa） | 需雇主提供工作合同，年薪不低于法国最低工资1.5倍（约23000欧） |
-| Subclass Passeport Talent（Talent Passport） | 适用于高级专业人员，需硕士学历或3年经验，年薪不低于法国平均工资（约37000欧） |
+| Subclass Salarié (Salarié (Employee) Visa) | Requires employer to provide work contract, annual salary not less than 1.5 times French minimum wage (approx. €23,000). |
+| Subclass Passeport Talent (Talent Passport) | Applicable to senior professionals, requiring a master's degree or 3 years of experience, with annual salary not lower than the French average salary (approx EUR 37,000) |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Publishing Coordinator？**
-- 对文字和编辑工作有热情
-- 注重细节，沟通能力强
-- 适应快节奏多任务工作
+**Who is suited**
+- Passionate about writing and editing work
+- Detail-oriented, strong communication skills
+- Adapt to fast-paced multitasking
 
-**谁不适合学Publishing Coordinator？**
-- 不喜欢案头工作
-- 对薪资要求较高
+**Who is not suited**
+- Dislikes desk work
+- Has relatively high salary expectations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Publishing Coordinators?**
+A: Entry-level annual salary about EUR 24,000–30,000, mid-level EUR 30,000–40,000, senior up to EUR 50,000. Slightly higher in the Paris region.
+
+**Q: Is it easy for foreigners to obtain a work visa for publishing coordinators in France?**
+A: Difficult. This occupation is not on the skills shortage list; employers must prove they cannot find a suitable candidate within the EU. It is recommended to study in France first, then utilize apprenticeships or graduate work visas.
+
+**Q: What career development paths are available for Publishing Coordinators?**
+A: You can be promoted to senior editor, publishing manager, or switch to digital publishing, content copyright, and other directions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Publishing Coordinator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a publishing coordinator?**
-答：Entry-level annual salary ranges from €24,000 to €30,000 gross, mid-level €30,000-€40,000, and senior up to €50,000, slightly higher in Paris.
-
-**问：Is it easy for foreigners to get a work visa as a publishing coordinator in France?**
-答：It is difficult. This occupation is not in shortage, and employers must prove no suitable EU candidate. Studying in France and using apprenticeships or graduate visa is advisable.
-
-**问：What are the career development paths for a publishing coordinator?**
-答：You can advance to senior editor, publishing manager, or move into digital publishing, content licensing, etc.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Art Directors（Art Directors）职业分析 · 美国
+# Art Directors — career analysis · United States
 
-**职业代码：27-1011 – Art Directors。**
+**Occupation code: 27-1011 (SOC)**
 
-Art Directors formulate design concepts and presentation approaches for visual productions and media, and direct workers engaged in artwork or layout design.
+Art directors conceive and present design concepts for visual works such as print, broadcast, video, and film, and direct art or layout designers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（学费因学校和州内/外差异大） |
-| 硕士 | 2年 | $30,000~$80,000（非必需但有助于晋升） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Tuition varies significantly by school and in-state/out-of-state status) |
+| Master's degree | 2 years | $30,000~$80,000 (Not required but helpful for promotion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认可大学 | 必备 | 通常需艺术、设计或相关领域学位 |
-| 作品集 | 自备 | 必备 | 展示创意和设计能力 |
+| Bachelor's degree | Recognised university | Required | Usually requires a degree in art, design, or related field |
+| Portfolio | Self-provided | Required | Showcase creativity and design skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,100。美国艺术总监的就业增长预计相对稳定，受数字媒体和广告需求推动。2020-2030年就业增速约为6%，与平均水平相当。竞争激烈，顶尖职位需要丰富经验。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,100. Employment for US art directors is projected to grow relatively steadily, driven by digital media and advertising demand. Growth from 2020-2030 is about 6%, on par with the average. Competition is high; top roles require extensive experience.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 年薪通常低于平均水平 |
-| 中级（4-7年） | $70,000~$100,000 | 随经验大幅提升 |
-| 高级（8年以上） | $100,000~$160,000 | 创意总监等职位可达更高 |
+| Median salary | $114,850 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Annual salary is usually below average |
+| Mid-level (4-7 years) | $70,000~$100,000 | Increases significantly with experience |
+| Senior (8+ years) | $100,000~$160,000 | Creative director and similar roles can earn more |
+| average salary | $129,440 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 晋升路径通常从设计师或助理艺术总监起步，积累经验后可晋升为艺术总监，再至高级艺术总监或创意总监。部分人可能进入管理层或自主创业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of art director is reshaped by AI in a mixed way: AI can efficiently generate visual concepts and layout options, accelerating creative iteration, but final decisions, client communication, and team leadership still rely on human judgment. Entry-level roles may shrink due to automated design tools, but demand for high-value creative direction increases.
+
+Career progression typically starts from designer or assistant art director, moving up to art director, then senior art director or creative director. Some may move into management or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Initial visual concept generation and layout solutions
+- Preliminary testing of color combinations and font selection
+- Searching and selecting stock images
+- Automatic generation of multi-version layouts
+- Initial response to client modification requests and rapid prototype iteration
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple creative proposals as discussion starting points
+- Using AI to quickly test user feedback on different visual styles
+- Use AI tools to efficiently complete repetitive revisions and version management
+- Optimize design decisions through AI analysis of historical project data
+- Generate high-quality presentation materials and proposal documents using AI
+
+**Human moat:**
+
+- Final decision-making on creative direction and brand tone
+- Cross-team leadership and client relationship management skills
+- Deep understanding of cultural context and emotional resonance
+- Creative problem-solving for unstructured problems
+- Irreplaceability of aesthetic judgment and subjective evaluation
+
+**Skills to build:**
+
+- Proficient in AI creative tools (e.g., Midjourney, DALL·E, Adobe Firefly)
+- Data-driven design decision analysis
+- AI workflow integration and customization
+- Agile project management and cross-departmental collaboration
+- Client communication and creative proposal skills
+- Continuously learning new AI tools and platforms
+
+**Key growth areas:**
 
 - Digital Media
 - Advertising
@@ -61,68 +97,67 @@ Art Directors formulate design concepts and presentation approaches for visual p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于具有学士学位及以上且从事专业职位的申请人，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于具有高级学位或特殊能力的申请人，需PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在艺术领域有杰出能力的申请人，无需抽签 |
+| Subclass H-1B (H-1B Specialty Occupations) | For applicants with a bachelor's degree or higher in a professional occupation; requires lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | For applicants with advanced degrees or exceptional ability; requires PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | For applicants with exceptional abilities in the arts, no lottery required |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Art Directors？**
-- 具有创意和视觉设计天赋的人
-- 喜欢指导团队并管理项目的人
-- 对印刷、数字和视频媒体有浓厚兴趣的人
-
-**谁不适合学Art Directors？**
-- 不喜欢细节和截止日期压力的人
-- 不愿与他人合作或指导他人的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creative and visual design talent.
+- People who enjoy guiding teams and managing projects
+- Those with strong interest in print, digital, and video media
+
+**Who is not suited**
+- Those who dislike details and deadline pressure
+- People unwilling to collaborate with or mentor others
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for art directors?**
+A: Junior annual salary approx. USD 50,000-70,000, mid-level 70,000-100,000, senior 100,000-160,000 or more.
+
+**Q: What are the immigration pathways for an Art Director?**
+A: Can immigrate to the U.S. via H-1B (lottery required), EB-2 green card (requires PERM), or O-1 extraordinary ability visa.
+
+**Q: What are the job prospects for an art director?**
+A: Steady employment growth but competitive; higher demand in digital media and advertising industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Art Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Art Directors?**
-答：Entry-level annual salary is about $50,000-$70,000, mid-level $70,000-$100,000, senior $100,000-$160,000 or higher.
-
-**问：What are the immigration pathways for Art Directors?**
-答：H-1B (lottery), EB-2 green card (PERM required), or O-1 extraordinary ability visa.
-
-**问：What is the job outlook for Art Directors?**
-答：Steady growth, competitive; demand driven by digital media and advertising.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

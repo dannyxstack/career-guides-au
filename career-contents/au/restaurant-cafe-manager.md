@@ -1,163 +1,189 @@
-# 餐厅经理/咖啡馆经理（Cafe or Restaurant Manager）职业分析 · 澳大利亚
+# Restaurant / Cafe Manager — career analysis · Australia
 
-**职业代码：141111 – Cafe or Restaurant Manager。**
+**Occupation code: 141111 (ANZSCO)**
 
-餐厅经理负责餐饮场所的日常运营、人员管理、食品安全合规、成本控制和顾客体验。澳洲有超过 45,000 家咖啡馆和 65,000 家餐厅，对有经验的餐饮管理人员需求持续旺盛。MLTSSL在列，是餐饮行业技术移民最便捷的管理职业之一。
+Restaurant managers oversee the day-to-day operations of food and beverage venues, including staff management, food safety compliance, cost control and customer experience. With over 45,000 cafés and 65,000 restaurants across Australia, demand for experienced hospitality managers remains strong. Listed on the MLTSSL, this is one of the most accessible management occupations for skilled migration in the hospitality industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV in Hospitality（SIT40422） | 12个月（全日制） | $3,000~$15,000（餐厅经理资质的主流路径；TAFE或私立酒店管理学院） |
-| Diploma of Hospitality Management（SIT50422） | 18~24个月 | $5,000~$25,000（酒店管理文凭，提升管理岗竞争力） |
-| 实际工作经验（至少2年餐饮管理经历） | 持续 | —（TRA/Vetassess评估需要工作经验证明；经验比学历更重要） |
-| Food Safety Supervisor + RSA证书 | 1~2天 | $150~$500（餐饮场所法律必须的食品安全和酒精负责任服务资质） |
+| Certificate IV in Hospitality（SIT40422） | 12 months (full-time) | $3,000~$15,000 (The mainstream pathway for restaurant manager qualifications; via TAFE or a private hospitality management college) |
+| Diploma of Hospitality Management（SIT50422） | 18–24 months | $5,000~$25,000 (Hospitality management diploma, enhancing competitiveness for management roles) |
+| Practical work experience (minimum 2 years in food and beverage management) | Ongoing | $0~$0 (TRA/Vetassess assessment requires proof of work experience; experience is more important than qualifications) |
+| Food Safety Supervisor + RSA certificate | 1–2 days | $150~$500 (Food safety and responsible service of alcohol qualifications legally required for hospitality venues) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV/Diploma of Hospitality Management | TAFE / 认可私立机构 | 可选 | 餐厅经理技术移民评估的核心学历要求 |
-| Food Safety Supervisor Certificate | 各州认可培训机构 | 必备 | 所有餐饮场所管理者的法律要求 |
-| RSA（Responsible Service of Alcohol） | 各州认可机构 | 必备 | 服务酒精饮料的餐饮场所大多数州的法律要求 |
-| Vetassess 技能评估（ANZSCO 141111） | Vetassess | 可选 | 189/190/491技术移民申请必须的技能评估 |
+| Food Safety Supervisor Certificate | Registered training organisations in each state | Required | Legal requirement for all food and beverage venue managers |
+| RSA（Responsible Service of Alcohol） | State-recognised assessment bodies | Required | Legally required in most states for food and beverage venues serving alcohol |
+| Certificate IV/Diploma of Hospitality Management | TAFE / Registered Private Institution | Optional | Core educational requirement for the skilled migration assessment of restaurant managers |
+| Vetassess Skills Assessment (ANZSCO 141111) | Vetassess | Optional | Skills assessment required for 189/190/491 skilled migration applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 65,000。JSA预测餐厅经理就业至2030年净增约8,000人。旅游业反弹、CBD商业区餐饮复苏和高端餐饮市场扩张是主要增长驱动力。
+**Job demand: very high (★★★★★).** National workforce approx. 65,000. JSA forecasts a net increase of approximately 8,000 restaurant manager jobs by 2030. The rebound in tourism, the recovery of CBD dining precincts, and the expansion of the premium dining market are the main growth drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~5,000 个 | 全国，含餐厅经理/咖啡馆经理/酒吧经理岗 |
-| Indeed | 1,500~4,000 个 | 含连锁餐饮、独立餐厅和咖啡馆管理岗 |
-| LinkedIn | 1,000~3,000 个 | 连锁餐饮集团和酒店餐饮部直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 助理餐厅经理（0~2年） | $62,000~$75,000 | 助理或副经理起薪 |
-| 餐厅经理（2~8年） | $72,000~$92,000 | SEEK 区间 $80k~$90k；Indeed 均值 $73,915；Glassdoor 均值 $83,400（2026） |
-| 高级餐厅经理 / 区域经理（8~15年） | $90,000~$120,000 | 连锁餐饮区域运营经理；高端餐厅总经理约 $100k~$120k |
-| 餐饮总监 / F&B Director（12年+） | $120,000~$200,000 | 五星酒店餐饮总监或大型餐饮集团总监 |
+| Median salary | $85,488 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Assistant Restaurant Manager (0–2 years) | $62,000~$75,000 | Starting salary at assistant or deputy manager level |
+| Restaurant manager (2–8 years) | $72,000~$92,000 | SEEK range $80k~$90k; Indeed average $73,915; Glassdoor average $83,400 (2026) |
+| Senior restaurant manager / area manager (8–15 years) | $90,000~$120,000 | Regional operations manager for a restaurant chain; senior restaurant general manager approximately $100k–$120k |
+| F&B Director (12+ years) | $120,000~$200,000 | Food and Beverage Director at a five-star hotel or director of a large hospitality group |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 澳洲餐饮业COVID后全面恢复并持续扩张，尤其是外卖平台整合和高端餐饮体验需求增长。有运营管理经验（人员调配/库存/POS系统/食品安全）的餐厅经理短缺，雇主担保482在餐饮行业非常活跃。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
 
-- 高端餐厅运营管理
-- 连锁餐饮区域经理
-- 外卖平台整合运营（Uber Eats/DoorDash）
-- 活动餐饮承包管理
-- 可持续餐饮（植物性菜单）管理
+Australia's hospitality industry has fully recovered post-COVID and continues to expand, particularly with the growth of food delivery platform integration and demand for premium dining experiences. Restaurant managers with operational experience (rostering, inventory, POS systems, food safety) are in short supply, and employer-sponsored 482 visas are very active in this sector.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
+
+- high-end restaurant operations management
+- Chain Restaurant Regional Manager
+- Takeout Platform Integration (Uber Eats/DoorDash)
+- Catering Contract Management
+- sustainable dining (plant-based menu) management
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，餐厅和连锁餐饮集团最常见路径 |
-| Subclass 186（ENS） | 雇主担保永居，需满足2年担保期 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，Vetassess评估 |
-| Subclass 190（Skilled Nominated） | 州提名，各州均有通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区餐饮管理人员严重短缺，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; restaurants and restaurant chains are the most common pathway |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency, subject to a 2-year sponsorship period |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; listed on MLTSSL; Vetassess assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
+| Subclass 491 (Skilled Work Regional) | Severe shortage of food & beverage managers in regional areas — 15 bonus points |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学餐厅经理/咖啡馆经理？**
-- 有2年以上餐厅/咖啡馆管理工作经验，持有食品安全监督员证书
-- 有澳洲或国际餐饮品牌管理经验（连锁或独立高端餐厅）
-- 英语沟通能力达到基本运营要求（IELTS 5.5~6.0 即可），可进行日常管理和顾客沟通
-- 已有澳洲雇主担保意向或正在经营餐饮业务
-- 愿意接受偏远地区任职（签证更容易，薪资有加成）
-
-**谁不适合学餐厅经理/咖啡馆经理？**
-- 无正规餐饮管理经验（仅有服务员或收银经验）
-- 期望在大城市高端餐厅直接担任总经理（通常需要10年以上资深经验）
-- 不适应包括周末和节假日的不规律工作时间
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- 2+ years of restaurant/café management experience, holding a Food Safety Supervisor certificate
+- Holds management experience with Australian or international hospitality brands (chain or upscale independent restaurants)
+- English communication skills meeting basic operational requirements (IELTS 5.5–6.0 sufficient) for day-to-day management and customer interaction
+- Has an existing employer sponsorship offer in Australia or is currently operating a hospitality business
+- Willing to take up postings in regional areas (easier visa pathways and salary loadings apply)
+
+**Who is not suited**
+- No formal food service management experience (only waitstaff or cashier experience)
+- Expecting to step directly into a general manager role at a high-end restaurant in a major city (typically requiring 10 or more years of senior experience)
+- Unable to adapt to irregular working hours including weekends and public holidays
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a restaurant manager in Australia?**
+A: Restaurant Manager approx. $72,000–$92,000 (Seek $80k–$90k; Indeed $73,915; Glassdoor $83,400); Area Manager / Upscale General Manager approx. $90k–$120k; Five-Star Hotel Food & Beverage Director approx. $120k–$200k.
+
+**Q: Is it easy for a restaurant manager to find work in Australia?**
+A: Easy. A shortage occupation on the MLTSSL, food and beverage managers are in continuous short supply across Australia, with around 2,000–5,000 positions listed on SEEK. Demand is even greater in regional areas, where employers actively sponsor overseas managers for visas — making this one of the most straightforward occupations for migration through the hospitality and experience services sector.
+
+**Q: Is restaurant management experience from China recognised in Australia?**
+A: Skills assessment via Vetassess (ANZSCO 141111); overseas restaurant management experience can be recognised. You will need to provide employer reference letters in English, job duty descriptions, and food safety training records. Australian employers place particular emphasis on food safety compliance and staff scheduling capability. It is recommended to complete the Food Safety Supervisor Certificate ($100–$300, 1-day course).
+
+**Q: Will restaurant managers be replaced by AI?**
+A: No. The core of food and beverage operations management lies in real-time staff coordination, on-site problem solving and customer relationship management — areas AI cannot replace. AI tools can optimise rostering and inventory forecasting, but this enhances management efficiency rather than replacing managers.
+
+**Q: Is there an age limit for restaurant managers in Australia?**
+A: None. Experienced and stable food service managers aged 35–55 are highly sought after in Australia. Given the high turnover of younger staff in the hospitality industry, employers place particular value on experienced, reliable managers.
+
+**Q: What qualifications do restaurant managers need in Australia?**
+A: A Certificate IV in Hospitality or Diploma of Hospitality Management is the foundation for a skilled migration assessment; however, in practice, 2+ years of management experience plus a food safety certificate carries more weight than formal qualifications. Employer-sponsored 482 visas often do not require a formal qualification — work experience and food safety compliance capability are what matter.
+
+**Q: Is it difficult to become a registered restaurant manager in Australia for migration purposes?**
+A: Low difficulty. Listed on the MLTSSL, Vetassess assessment pathway is straightforward, and employer-sponsored 482 visas are very active. Holding a Food Safety Supervisor Certificate and RSA is strongly recommended, significantly improving assessment success rates. The 491 regional pathway is easier, with multiple states actively recruiting hospitality managers.
+
+**Q: Which is better suited for migrating to Australia — restaurant manager or chef?**
+A: Both are MLTSSL shortage occupations. The skilled migration pathway for chefs is clearer (TRA assessment is well established), and salaries are similar. Restaurant managers have more stable roles (a better sitting-to-standing ratio than chefs), with broader career progression (area manager / director). Those with a culinary background should choose chef; those with an operations management background should choose restaurant manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 餐厅经理薪资 $80k~$90k（2026） |
-| Indeed AU | 餐厅经理平均薪资 $73,915（2026） |
-| Glassdoor AU | 餐厅经理平均薪资 $83,400（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中低（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中低（★★☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-餐厅经理/咖啡馆经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲餐厅经理工资多少？**
-答：餐厅经理约 $72,000~$92,000（SEEK $80k~$90k；Indeed $73,915；Glassdoor $83,400）；区域经理/高端总经理约 $90k~$120k；五星酒店餐饮总监约 $120k~$200k。
-
-**问：澳洲餐厅经理容易找工作吗？**
-答：容易。MLTSSL短缺职业，全澳餐饮管理人员持续短缺，SEEK 挂牌约 2,000~5,000 个职位。偏远地区更紧缺，雇主主动为海外经理提供签证担保，是体验型服务业移民路径最顺畅的职业之一。
-
-**问：中国餐厅管理经验澳洲认可吗？**
-答：通过Vetassess技能评估（ANZSCO 141111），中国餐饮管理经验可以认可。需要提供英文雇主证明信、工作职责描述和食品安全培训记录。澳洲雇主特别重视食品安全合规和人员调配能力。建议补考Food Safety Supervisor Certificate（$100~$300，1天课程）。
-
-**问：餐厅经理会被AI替代吗？**
-答：不会。餐饮运营管理的核心在于实时人员协调、现场问题处理和顾客关系管理，是AI无法替代的。AI工具可以优化排班和库存预测，但这提升了管理效率而不是替代管理者。
-
-**问：澳洲餐厅经理有年龄限制吗？**
-答：无。有丰富运营经验和稳定性的中年餐饮经理（35~55岁）在澳洲非常受欢迎。餐饮行业年轻员工流动率高，雇主特别重视有经验、稳定的管理者。
-
-**问：澳洲餐厅经理需要什么学历？**
-答：Certificate IV in Hospitality或Diploma of Hospitality Management是技术移民评估的基础；但实际就业中，有2年以上管理经验+食品安全证书比学历更重要。雇主担保482甚至不要求学历，只需要工作经验和食品安全合规能力。
-
-**问：澳洲餐厅经理认证（移民）难吗？**
-答：难度较低。MLTSSL在列，Vetassess评估路径清晰，雇主担保482非常活跃。建议同时持有Food Safety Supervisor Certificate和RSA，大幅提升评估成功率。偏远地区491路径更容易，多州主动招募餐饮管理人员。
-
-**问：餐厅经理和厨师哪个更适合移民澳洲？**
-答：两者都是MLTSSL短缺职业；厨师技术移民路径更清晰（TRA评估成熟），薪资相近；餐厅经理管理类岗位更稳定（坐班/站班比例较厨师合理），职业发展路径（区域经理/总监）更宽广。有烹饪背景者选厨师，有运营管理背景者选餐厅经理。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

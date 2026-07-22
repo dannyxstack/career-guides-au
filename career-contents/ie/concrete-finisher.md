@@ -1,59 +1,94 @@
-# Concrete Finisher（Concrete Finisher）职业分析 · IE
+# Concrete Finisher — career analysis · Ireland
 
-**职业代码：7114 – Concrete Finisher。**
+**Occupation code: 7114 (ISCO08)**
 
-Skilled worker responsible for placing, leveling, finishing, and curing concrete surfaces in construction projects.
+Skilled worker engaged in concrete pouring, smoothing, finishing, and curing, a key role in the construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒培训 | 4年 | $500~$2,000（SOLAS注册学徒制，雇主承担大部分费用） |
-| 职业教育证书 | 1-2年 | $1,000~$3,000（PLC课程或QQI Level 5/6证书） |
+| Apprenticeship training | 4 years | $500~$2,000 (SOLAS registered apprenticeship, employer covers most costs) |
+| Vocational education certificate | 1-2 years | $1,000~$3,000 (PLC course or QQI Level 5/6 certificate.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑业技能认证 | SOLAS | 必备 | 完成学徒制或等效培训后获得 |
-| 安全资格证书（Safe Pass） | SOLAS | 必备 | 所有建筑工人必须持有 |
-| 人工操作证书 | FETAC/QQI | 可选 | 部分雇主要求 |
+| Skills certification in the construction industry | SOLAS | Required | Obtained after completing an apprenticeship or equivalent training. |
+| Safety qualification (Safe Pass) | SOLAS | Required | All construction workers must hold |
+| Manual operation certificate | FETAC/QQI | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。爱尔兰建筑市场活跃，住宅与非住宅建设需求旺盛，混凝土抹面工就业前景良好，未来五年预计保持稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Ireland's construction market is active, with strong demand in residential and non-residential building. Concrete finishers have good employment prospects, with steady growth expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 含加班费 |
-| 中级（3-7年） | $38,000~$48,000 | 含绩效奖金 |
-| 高级（7年以上） | $48,000~$60,000 | 含管理职责补贴 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Including overtime pay |
+| Mid-level (3–7 years) | $38,000~$48,000 | Includes performance bonuses |
+| Senior (7+ years) | $48,000~$60,000 | Including management responsibility allowance |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★½☆）。** 可从普通抹面工晋升为高级技师、工地主管或项目经理，也可通过认证成为混凝土专业承包商。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Concrete finishers face a high risk of automation, especially as automatic leveling robots for liquid concrete, 3D modeling, and automatic troweling equipment are replacing core manual operations, but complex surface finishing and on-site quality inspection still require human judgment.
+
+Can advance from general plasterer to senior technician, site supervisor, or project manager, or become a certified concrete contractor.
+
+**Tasks most exposed to AI:**
+
+- Automatic smoothing and polishing of large concrete surfaces
+- Judgment of initial setting time and finishing timing after concrete pouring (handled by sensors + AI)
+- Flatness control of standard floors and road surfaces (laser/robot guided)
+- Concrete curing condition monitoring and automated spraying
+- Basic cutting, grooving, and other repetitive trimming tasks
+
+**Where AI augments the role:**
+
+- Use drones or 3D scanners for large-area surface quality inspection and documentation
+- AI-assisted mix design, optimizing construction parameters based on weather and material conditions
+- Collaborative operation of intelligent trowel robots with human monitoring of multiple work surfaces
+- Augmented reality (AR) assists in complex decorative texture layout and construction.
+
+**Human moat:**
+
+- Fine manual handling of complex, irregularly shaped, or decorative concrete surfaces
+- Diagnosis and repair of on-site problems (e.g., cracks, bubbles, honeycomb surfaces)
+- Communicate with structural engineers and clients to adjust the final finish
+- Flexible on-site adaptation and decision-making in confined, high-risk environments
+- Experience with high-quality artistic architectural concrete (such as terrazzo, coloured textures).
+
+**Skills to build:**
+
+- Digital Measurement and BIM Model Reading
+- Operation, programming, and debugging of automated trowel robots.
+- Concrete materials science and mix design fundamentals.
+- On-site inspection and data integration using drones/panoramic cameras
+- Quality control data analysis (SPC) and report generation
+- Safety compliance and emerging equipment maintenance knowledge
+
+**Key growth areas:**
 
 - Housing demand
 - Infrastructure projects
@@ -62,68 +97,67 @@ Skilled worker responsible for placing, leveling, finishing, and curing concrete
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需劳动市场测试，年薪门槛30,000欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺技能职业，免劳动市场测试，年薪门槛32,000欧元（本科学位） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪要求约43,000欧元 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires labour market testing, annual salary threshold 30,000 euros |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to skilled occupation in demand, exempt from labour market testing, annual salary threshold 32,000 euros (bachelor degree) |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens with an annual salary requirement of approximately 43,000 euros |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Concrete Finisher？**
-- 体力好、适应户外工作
-- 注重细节、耐心
-- 愿意学习新技术如自密实混凝土
-
-**谁不适合学Concrete Finisher？**
-- 对粉尘或噪音敏感
-- 不喜欢重复性体力劳动
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good physical fitness, adaptable to outdoor work.
+- Detail-oriented, patient
+- Willing to learn new technologies such as self-compacting concrete
+
+**Who is not suited**
+- Sensitive to dust or noise
+- Dislikes repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a concrete finisher in Ireland?**
+A: Junior: approximately €30,000-38,000; mid-level: €38,000-48,000; senior: up to €60,000.
+
+**Q: How can non-EU citizens obtain a work visa for concrete finisher in Ireland?**
+A: You can apply for a General Employment Permit (subject to labor market testing) or a Critical Skills Employment Permit (if in a shortage occupation).
+
+**Q: Is there room for career advancement in this occupation?**
+A: Can advance to site supervisor, project manager, or self-employed contractor; may also transition to concrete technician.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Concrete Finisher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a concrete finisher in Ireland?**
-答：Entry-level: €30,000-€38,000; mid-level: €38,000-€48,000; senior: up to €60,000.
-
-**问：How can non-EU citizens get a work visa for concrete finisher in Ireland?**
-答：Apply for a General Employment Permit (labor market test required) or Critical Skills Employment Permit if on the shortage list.
-
-**问：Are there advancement opportunities?**
-答：Yes, to site supervisor, project manager, self-employed contractor, or concrete technician.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

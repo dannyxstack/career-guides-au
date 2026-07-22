@@ -1,60 +1,93 @@
-# Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders（Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders）职业分析 · 美国
+# Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders — career analysis · United States
 
-**职业代码：51-3091 – Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders。**
+**Occupation code: 51-3091 (SOC)**
 
-Operate or tend food or tobacco roasting, baking, or drying equipment including hearth ovens, kiln driers, roasters, and vacuum drying equipment to achieve product specifications.
+Operate or monitor food or tobacco roasting, baking, and drying equipment, including ovens, dryers, and roasters, ensuring products meet specified quality.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 短期职业培训 | 6个月 | $2,000~$5,000（社区学院或职业学校） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Short-term vocational training | 6 months. | $2,000~$5,000 (Community college or vocational school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 通常雇主提供在职培训 |
-| 食品安全认证 | FDA或州卫生部门 | 可选 | 部分雇主要求 |
+| No mandatory certificate | None | Optional | Usually employer provides on-the-job training. |
+| Food safety certification | FDA or state health departments | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 10,500。该职业就业前景稳定，受食品制造业需求驱动，但自动化可能减少部分岗位。预计2023-2033年就业变化率为-1%至1%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 10,500. This occupation has stable employment prospects, driven by demand from the food manufacturing industry, but automation may reduce some positions. Projected employment change from 2023-2033 is -1% to 1%.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约$13-$17 |
-| 中级（3-7年） | $35,000~$45,000 | 时薪约$17-$22 |
-| 高级（7年以上） | $45,000~$55,000 | 时薪约$22-$26 |
+| Median salary | $44,810 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage about $13-$17 |
+| Mid-level (3–7 years) | $35,000~$45,000 | Hourly wage approx. $17-$22 |
+| Senior (7+ years) | $45,000~$55,000 | Hourly rate around $22-$26 |
+| average salary | $45,930 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从操作员起步，积累经验后可晋升为生产线主管或质量控制技术员。部分从业者转向设备维护或食品工艺开发。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will replace some standardized baking tasks (e.g., proportion weighing), but demand for handcrafted decoration and artisan bread is strong, leading to mixed impacts. Entry-level positions remain stable, while senior roles gain value.
+
+Starting as an operator, one can advance to production line supervisor or quality control technician with experience. Some move into equipment maintenance or food process development.
+
+**Tasks most exposed to AI:**
+
+- Automated batching and weighing systems replace manual weighing.
+- Smart oven auto-control of temperature and time replaces manual monitoring
+- Standardized bread shaping machines replace manual shaping
+- Inventory management software automates replenishment, replacing manual stocktaking
+
+**Where AI augments the role:**
+
+- AI recipe optimization tool helps develop new flavors
+- Smart fermentation monitoring improves product consistency
+- Machine vision assisted decoration quality control
+- Data analytics predicts sales to reduce waste
+
+**Human moat:**
+
+- Complex manual styling and artistic decoration
+- on-site fermentation perception and adjustment experience
+- Customized Creative Design
+- Food safety compliance and manual texture control.
+
+**Skills to build:**
+
+- AI-assisted recipe development tools (e.g., Flavorstar)
+- Data-driven operations (demand forecasting, cost analysis)
+- Refining Handcrafted Art Sugar/ Pulled Sugar
+- Knowledge of sustainable raw material sourcing
+- Short video marketing and brand storytelling
+- Food safety management (HACCP)
+
+**Key growth areas:**
 
 - Stable demand
 - Food manufacturing
@@ -63,65 +96,67 @@ Operate or tend food or tobacco roasting, baking, or drying equipment including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不满足专业职位要求。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 极少使用，需PERM劳工证，但雇主难以证明短缺。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable, as this occupation does not meet professional position requirements. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Rarely used, requires PERM labor certification, but employers struggle to prove shortage. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders？**
-- 偏好体力工作、能适应高温环境的人
-- 希望稳定就业、不追求高薪的人
-- 具备基本机械操作能力的人
+**Who is suited**
+- Those who prefer physical work and can adapt to high-temperature environments
+- People seeking stable employment, not high pay
+- People with basic mechanical operation skills
 
-**谁不适合学Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders？**
-- 追求高薪和职业晋升的人
-- 对自动化感到不安的人
+**Who is not suited**
+- People pursuing high salaries and career advancement
+- People who feel uneasy about automation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Average annual salary about $36,000, entry-level about $28,000, senior about $55,000. Below the US national average.
+
+**Q: Is this occupation suitable for immigrating to the US?**
+A: Extremely difficult. This occupation is low-skilled, usually does not meet H-1B professional requirements, EB-3 green card requires PERM and employer may struggle to prove labor shortage.
+
+**Q: What is the job outlook?**
+A: Demand is stable but growing slowly; automation may reduce positions. Experienced workers still have opportunities, but competition is weak.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Average annual salary is around $36,000, entry-level $28,000, experienced $55,000. Below national average.
-
-**问：Is this occupation suitable for immigration to the US?**
-答：Very difficult. It is low-skilled, typically not eligible for H-1B, and EB-3 green card requires PERM with employer proving labor shortage.
-
-**问：What is the job outlook?**
-答：Stable but slow growth; automation may reduce jobs. Experienced workers still find opportunities but competition is low.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

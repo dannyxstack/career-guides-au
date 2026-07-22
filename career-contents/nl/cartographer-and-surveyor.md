@@ -1,59 +1,95 @@
-# Cartographer and Surveyor（Cartographer and Surveyor）职业分析 · NL
+# Cartographer and Surveyor — career analysis · Netherlands
 
-**职业代码：2165 – Cartographer and Surveyor。**
+**Occupation code: 2165 (ISCO08)**
 
-Responsible for map making, geospatial data collection and analysis, and surveying of land, buildings, and infrastructure.
+Responsible for map production, geospatial data collection and analysis, and surveying of land, buildings, and infrastructure.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 应用科学大学（HBO）学士 | 4年 | —（荷兰学生每年约2,200欧元学费；欧盟学生约2,200-4,000欧元；非欧盟学生约7,000-10,700欧元。） |
-| 研究型大学（WO）硕士 | 1-2年（硕士） | —（学费因机构和国籍而异，非欧盟学生约10,000-15,000欧元/年。） |
+| University of Applied Sciences (HBO) bachelor's degree | 4 years | $0~$10,700 (Dutch students approximately €2,200 per year; EU students approximately €2,200-€4,000; non-EU students approximately €7,000-€10,700.) |
+| Research university (WO) master's degree | 1-2 years (Master's) | $0~$15,000 (Tuition fees vary by institution and nationality, approximately €10,000-15,000 per year for non-EU students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 测量师注册（Geometer） | Kadaster / Netherlands Council for Geodetic Science and Land Administration | 必备 | 从事法定测量工作必须注册。 |
-| GIS认证 | ESRI或Geo-Informatie Nederland | 可选 | 非强制但有助于就业。 |
-| BRL测量标准认证 | BRL (Beoordelingsrichtlijn) | 可选 | 用于特定测量项目，非普遍强制。 |
+| Geometer registration | Kadaster / Netherlands Council for Geodetic Science and Land Administration | Required | Registration is required to perform statutory measurement work. |
+| GIS certification | ESRI or Geo-Informatie Nederland | Optional | Not mandatory but helpful for employment. |
+| BRL measurement standard certification | BRL (Beoordelingsrichtlijn) | Optional | Used for specific measurement projects, not universally mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。随着荷兰基础设施更新、数字化地理信息系统（GIS）发展及空间规划需求，该职业就业稳定。预计未来五年年均岗位增长约0.5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. With the Netherlands' infrastructure renewal, digital Geographic Information System (GIS) development, and spatial planning needs, this occupation offers stable employment. Average annual job growth of approximately 0.5% is expected over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，视雇主和地区而定。 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年薪，含经验及专业认证。 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年薪，包括管理职责或专家角色。 |
+| Median salary | $65,406 | Median salary (official: CBS employee median hourly wage €33.1/hour × 1976h annualized, BRC group 0714 Architecten; P25–P75 €51,178–€84,178, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual salary before tax, depending on employer and region. |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual pre-tax salary, including experience and professional certifications. |
+| Senior (7+ years) | $48,000~$60,000 | Annual pre-tax salary, including management responsibilities or expert roles. |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级测量员或制图技术员晋升为高级测量师、项目经理，或转向GIS专家、遥感分析师等专业岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly enhance the work of cartographers and surveyors rather than replace it. Automating routine surveying tasks allows professionals to focus on high-value analysis, complex problem-solving, and decision-making, leading to a positive career outlook.
+
+Can advance from junior surveyor or cartographic technician to senior surveyor, project manager, or transition to specialist roles such as GIS expert or remote sensing analyst.
+
+**Tasks most exposed to AI:**
+
+- Conventional remote sensing image interpretation and feature extraction
+- Automated compilation and symbolization of basic maps
+- Automated land boundary measurement and data entry
+- Simple point cloud data processing and classification
+- Standard survey report generation
+
+**Where AI augments the role:**
+
+- High-precision terrain modeling and change detection using machine learning
+- AI-assisted complex geospatial analysis and predictive modeling
+- Automated quality control and anomaly detection to improve data accuracy
+- Real-time sensor data fusion and dynamic map updating.
+- Intelligent decision support systems to optimize land use and infrastructure planning
+
+**Human moat:**
+
+- Handling tasks that require legal judgment and on-site verification, such as legal boundaries and property disputes.
+- Creative map design and visualization in complex environments
+- Communicate, negotiate, and reconcile interests with clients, government, and communities
+- On-site adaptability to handle unknown geological, meteorological, and other abnormal conditions
+- Ethical responsibilities: ensuring data privacy, algorithm fairness, and public safety
+
+**Skills to build:**
+
+- Python programming with geospatial libraries (e.g., GDAL, Shapely)
+- Application of machine learning frameworks (PyTorch/TensorFlow) in geospatial contexts
+- Large-scale geospatial data processing on cloud platforms (AWS/Azure)
+- Drone operation and photogrammetry data processing
+- GIS and BIM/CIM integration skills
+- Data visualization tools (e.g., Tableau, Mapbox)
+
+**Key growth areas:**
 
 - Geographic Information Systems
 - Digital Mapping
@@ -62,68 +98,67 @@ Responsible for map making, geospatial data collection and analysis, and surveyi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 针对高技能非欧盟人员，需有工作合同且薪资达到门槛（2024年约5,331欧元/月）。 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 适用于在荷兰毕业的硕士或博士，可在一年内自由求职。 |
-| Subclass EU Blue Card（EU Blue Card (Netherlands)） | 高学历专业人士，薪资门槛略高于Highly Skilled Migrant（2024年约6,245欧元/月），可带家属。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For highly skilled non-EU individuals, a work contract is required with a salary meeting the threshold (approximately €5,331/month in 2024). |
+| Subclass Orientation Year (Orientation Year for Graduates) | Open to Master's or PhD graduates in the Netherlands; allows free job search within one year. |
+| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Highly educated professionals with a salary threshold slightly higher than the Highly Skilled Migrant (about €6,245/month in 2024), can bring family. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cartographer and Surveyor？**
-- 喜欢户外工作和精确测量的人
-- 对地理信息系统和空间数据有浓厚兴趣
-- 具备良好数学和分析能力
-
-**谁不适合学Cartographer and Surveyor？**
-- 不适应户外或现场工作环境
-- 对数字技术不感兴趣
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and precise measurement
+- Strong interest in geographic information systems and spatial data
+- Strong mathematical and analytical skills
+
+**Who is not suited**
+- Not suitable for outdoor or onsite work environments
+- Not interested in digital technology
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for cartographers and surveyors in the Netherlands?**
+A: Entry-level annual salary: approximately €30,000–38,000; mid-level: €38,000–48,000; senior: €48,000–60,000. Salaries are affected by experience, certifications, and employer.
+
+**Q: How can non-EU citizens immigrate to the Netherlands to become cartographers or surveyors?**
+A: Usually via the highly skilled migrant visa (kennismigrant) or EU Blue Card, requiring a work contract and meeting the salary threshold. Dutch graduates can apply for the orientation year visa.
+
+**Q: What educational background is needed to become a cartographer or surveyor?**
+A: Typically requires a bachelor's degree in geoinformatics, surveying, or a related field from a University of Applied Sciences (HBO) or a Research University (WO). A master's degree aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cartographer and Surveyor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cartographers and surveyors in the Netherlands?**
-答：Entry-level annual salary is around €30,000–€38,000, mid-level €38,000–€48,000, senior €48,000–€60,000. Salary depends on experience, certifications, and employer.
-
-**问：How can non-EU citizens immigrate to the Netherlands as cartographers or surveyors?**
-答：Typically via the Highly Skilled Migrant visa or EU Blue Card, requiring a job contract and meeting salary thresholds. Graduates from Dutch institutions can apply for the Orientation Year visa.
-
-**问：What education is needed to become a cartographer or surveyor?**
-答：Typically a bachelor's degree in geomatics, surveying, or related field from a university of applied sciences (HBO) or research university (WO). A master's degree can aid career advancement.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

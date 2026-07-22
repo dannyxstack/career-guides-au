@@ -1,59 +1,95 @@
-# Pourers and Casters, Metal（Pourers and Casters, Metal）职业分析 · 美国
+# Pourers and Casters, Metal — career analysis · United States
 
-**职业代码：51-4052 – Pourers and Casters, Metal。**
+**Occupation code: 51-4052 (SOC)**
 
-Operate hand-controlled mechanisms to pour and regulate the flow of molten metal into molds to produce castings or ingots.
+Operate manual control mechanisms to pour molten metal and regulate its flow into molds to produce castings or ingots.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常需要高中文凭或同等学历） |
-| 在职培训 | 数月至1年 | —（雇主提供在职培训，可能有少量费用） |
+| High school diploma | None | $0~$0 (Usually requires high school diploma or equivalent) |
+| On-the-job training | Several months to 1 year | $0~$5,000 (Employer provides on-the-job training; there may be a small fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 通常无需正式认证，但雇主偏好有相关经验者 |
+| No mandatory certification | None | Optional | Usually no formal certification required, but employers prefer relevant experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,300。美国劳工统计局预计2022-2032年该职业就业率下降约6%，主要由于自动化和海外竞争。但铸造行业仍需要熟练工人替换退休人员。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,300. The US Bureau of Labor Statistics projects a decline of about 6% in employment for this occupation from 2022 to 2032, mainly due to automation and overseas competition. However, the foundry industry still needs skilled workers to replace retirees.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 起薪较低，随经验增长 |
-| 中级（3-10年） | $45,000~$55,000 | 中位数约47,000美元 |
-| 高级（10年以上） | $55,000~$65,000 | 经验丰富者可担任监督职务 |
+| Median salary | $51,810 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary is low, increases with experience. |
+| Intermediate (3-10 years) | $45,000~$55,000 | Median about $47,000 USD |
+| Senior (10+ years) | $55,000~$65,000 | Experienced individuals can take on supervisory roles |
+| average salary | $54,290 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 从学徒或助手起步，积累经验后可晋升为高级浇注工或铸造监督员。部分人员可转向质量控制或工艺工程岗位。
-**AI替代风险：中（★★☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Metal pourers and casters face mixed effects: AI and robots will take over some pouring control tasks, but on-site complexities still require human judgment; skilled operators remain valuable.
+
+Start as an apprentice or assistant; with experience, advance to senior pourer or casting supervisor. Some may move into quality control or process engineering roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically adjust molten metal pouring speed and flow rate through sensors and algorithms
+- Use machine vision to detect mold filling status and trigger automatic stop
+- Real-time monitoring of metal temperature and automatic adjustment of heating parameters
+- Repetitive manual pouring operations replaced by robots
+- Automatically optimize casting parameters based on historical data
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of model defects and provision of process adjustment suggestions
+- Augmented Reality (AR) overlay of mold and gate design guidance
+- AI analyzes casting defect causes and recommends corrective actions
+- Smart wearable devices monitor workers' heat stress and fatigue in real time
+- Automatically record production data for quality traceability and continuous improvement
+
+**Human moat:**
+
+- complex judgment and quick decision-making in abnormal situations
+- Experience-based intuition regarding metal flow characteristics and mold filling behavior
+- Flexibility to handle multi-variety, small-batch production
+- Collaborate with maintenance, quality inspection, and other teams to solve unexpected issues.
+- Deep understanding of safety protocols and on-site risk control
+
+**Skills to build:**
+
+- Learning PLC programming and industrial robot operation
+- Master basic data analysis (Excel, Python) to interpret sensor data
+- Understand the application of additive manufacturing (3D printing) combined with casting.
+- Take training courses on AI applications in casting.
+- Enhance safety awareness and emergency response skills
+- Learn digital twin and simulation software (e.g., ProCAST)
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -62,62 +98,64 @@ Operate hand-controlled mechanisms to pour and regulate the flow of molten metal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不可行，因为该职业通常不要求学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少使用，需要证明无法找到美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not feasible because the occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Rarely used, need to prove no US workers available |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pourers and Casters, Metal？**
-- 体能好，能适应高温环境
-- 注重安全，有耐心
-- 愿意从事重复性体力劳动
+**Who is suited**
+- Good physical fitness and able to adapt to high-temperature environments
+- Safety-conscious, patient
+- Willing to engage in repetitive physical labor
 
-**谁不适合学Pourers and Casters, Metal？**
-- 对高温和铸造环境敏感
-- 希望高收入或快速晋升
+**Who is not suited**
+- Sensitive to high temperatures and foundry environments
+- Those seeking high income or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for metal pourers?**
+A: According to BLS data, median hourly wage in 2022 was about $22.65, median annual salary about $47,120
+
+**Q: Can foreign workers come to the US as Metal Pourers via work visas?**
+A: Very difficult. This occupation typically does not meet the degree requirements for H-1B, and EB-3 green cards require labor certification; employers rarely sponsor in practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 中（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pourers and Casters, Metal属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pourers and casters, metal?**
-答：According to BLS, median hourly wage is about $22.65, and median annual salary is $47,120.
-
-**问：Can foreign workers obtain a work visa for this occupation?**
-答：Very difficult. It usually does not meet H-1B degree requirements, and EB-3 green card requires labor certification; employers rarely sponsor.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

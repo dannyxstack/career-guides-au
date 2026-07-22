@@ -1,60 +1,96 @@
-# Tailor, Dressmaker, Furrier or Hatter（Tailor, Dressmaker, Furrier or Hatter）职业分析 · IT
+# Tailor, Dressmaker, Furrier or Hatter — career analysis · Italy
 
-**职业代码：7531 – Tailor, Dressmaker, Furrier or Hatter。**
+**Occupation code: 7531 (ISCO08)**
 
-Creates, alters and repairs garments, fur items and hats, offering bespoke tailoring and preserving traditional craftsmanship for individual clients.
+Responsible for making, altering, and repairing clothing, furs, and hats; providing custom tailoring according to client requirements; and maintaining traditional craftsmanship skills.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年（职业培训证书） | $1,000~$5,000（公立或私立裁缝学校学费） |
-| 本科 | 3年（时尚设计或服装制作） | $3,000~$10,000（公立大学或艺术学院学费） |
+| Vocational training | 2 years (vocational training certificate) | $1,000~$5,000 (Public or private tailoring school tuition fees) |
+| Bachelor's degree | 3 years (Fashion Design or Garment Making) | $3,000~$10,000 (Tuition fees at public universities or art schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 裁缝职业资格认证 | 意大利地区行业协会 | 可选 | 自愿性认证，有助于求职 |
-| 时尚设计学位 | 大学或艺术学院 | 可选 | 非必需但增强竞争力 |
+| Tailoring qualification certification | Italian regional industry association | Optional | voluntary certification, helpful for job seeking |
+| Degree in fashion design | University or art school | Optional | Not required but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。意大利手工定制服装需求稳定，尤其在高端时尚和婚礼行业。但受快时尚和自动化影响，整体从业人数缓慢下降。熟练掌握传统技法并兼具数字化能力的工匠更易立足。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Demand for handmade Italian custom clothing remains stable, especially in high-end fashion and wedding industries. However, overall employment is slowly declining due to fast fashion and automation. Artisans skilled in traditional techniques and digital capabilities are more likely to thrive.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或小型工坊 |
-| 中级（3-8年） | $22,000~$30,000 | 经验裁缝或中型工坊 |
-| 高级（8年以上） | $30,000~$45,000 | 高级定制、自由职业或高端品牌 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprentice or small workshop |
+| Mid-level (3–8 years) | $22,000~$30,000 | Experienced tailor or medium-sized workshop |
+| Senior (8+ years) | $30,000~$45,000 | High-end bespoke, freelancing, or luxury brands |
+| average salary | $27,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或初级裁剪师起步，积累经验后晋升为高级裁缝或版型师。部分优秀者可开设个人工作室或成为时尚品牌定制顾问。持续学习立体裁剪、高级面料工艺可拓展发展空间。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Crafts like tailoring face impact from AI automation and 3D printing, but high-end custom and restoration sectors will increase in value due to humanized service.
+
+Start as an apprentice or junior cutter, gain experience and advance to senior tailor or pattern maker. Outstanding individuals may open their own studio or become custom consultants for fashion brands. Continuous learning in draping and advanced fabric techniques can expand career prospects.
+
+**Tasks most exposed to AI:**
+
+- Uses AI clothing design software to automatically generate basic patterns
+- Replace traditional tailoring with 3D body scanning and virtual fitting
+- Automated sewing robot completes standard sewing tasks
+- AI fabric cutting optimization algorithm reduces manual calculations
+- Big data-based trend prediction replacing manual research
+
+**Where AI augments the role:**
+
+- Use AI design tools to quickly generate personalized patterns and styles
+- Use 3D modeling software for virtual sample display and client communication
+- AI fabric identifier to assist material selection and inventory management
+- Semi-automated precision sewing using intelligent sewing machines.
+- Optimizing pricing and marketing strategies through data analysis
+
+**Human moat:**
+
+- Creative design and impromptu modification skills in handmade haute couture
+- Fine handling and restoration of complex fabrics (e.g., leather, fur)
+- Build trust with clients and understand personalized needs
+- Artistry of traditional handicraft techniques (e.g., embroidery, beadwork)
+- Deep understanding and ability to reconstruct clothing history and culture.
+
+**Skills to build:**
+
+- 3D garment modeling and rendering software (e.g., CLO 3D)
+- AI-assisted design tools (e.g., Adobe Firefly)
+- Digital pattern-making and cutting software
+- Fabric knowledge and supply chain management
+- Customer relationship management and experience design
+- Knowledge of sustainable fashion and eco-friendly materials
+
+**Key growth areas:**
 
 - Artisanal craftsmanship
 - Sustainable fashion
@@ -63,65 +99,67 @@ Creates, alters and repairs garments, fur items and hats, offering bespoke tailo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能裁缝，年薪需达标。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟技术工人，需雇主担保且占用年度配额。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled tailors, salary must meet annual threshold. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU skilled workers, requires employer sponsorship and counts towards the annual quota. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tailor, Dressmaker, Furrier or Hatter？**
-- 热爱手工制作和时尚设计的人
-- 细心、有耐心且注重细节的人
-- 愿意持续学习传统与数字技术的人
+**Who is suited**
+- People passionate about handicrafts and fashion design
+- Careful, patient, and detail-oriented people.
+- People willing to continuously learn traditional and digital skills
 
-**谁不适合学Tailor, Dressmaker, Furrier or Hatter？**
-- 偏好快节奏、标准化工作的人
-- 不擅长与人沟通或理解客户需求的人
+**Who is not suited**
+- People who prefer fast-paced, standardized work
+- Individuals not skilled in communication or understanding customer needs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for tailors in Italy?**
+A: Entry-level tailor annual salary about €18,000-22,000, experienced can reach €30,000-45,000, higher for high-end custom or freelance work.
+
+**Q: How can non-EU citizens immigrate to Italy for tailoring work?**
+A: Can apply via the EU Blue Card (high-skilled) or Decreto Flussi quota work visa, requiring employer sponsorship. Non-occupation in demand, medium immigration difficulty.
+
+**Q: What are the main working environments for tailors in Italy?**
+A: Commonly found in tailor shops, high-end custom ateliers, fashion brand studios, theater or film costume departments, also freelancers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tailor, Dressmaker, Furrier or Hatter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a tailor in Italy?**
-答：Entry-level tailors earn about 18,000-22,000 EUR annually; experienced tailors can earn 30,000-45,000 EUR, with high-end bespoke offering more.
-
-**问：How can non-EU citizens migrate to Italy as a tailor?**
-答：Via EU Blue Card (high-skilled) or Decreto Flussi work visa, requiring employer sponsorship. Not a shortage occupation, so moderate difficulty.
-
-**问：What are the main work environments for tailors in Italy?**
-答：Tailors work in bespoke shops, high-end ateliers, fashion brand studios, theatre/film costume departments, or as freelancers.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

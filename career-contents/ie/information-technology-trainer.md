@@ -1,59 +1,95 @@
-# Information Technology Trainer（Information Technology Trainer）职业分析 · IE
+# Information Technology Trainer — career analysis · Ireland
 
-**职业代码：2356 – Information Technology Trainer。**
+**Occupation code: 2356 (ISCO08)**
 
-Designs, delivers, and evaluates IT training programs to enhance technical skills of individuals or organizations.
+Responsible for designing, delivering and evaluating IT training courses to enhance technical skills of individuals or organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $10,000~$25,000（爱尔兰公立大学本科年学费约€10,000-€25,000） |
-| 硕士 | 1-2年（硕士） | $12,000~$30,000（硕士年学费约€12,000-€30,000） |
+| Bachelor's degree | 3 years (bachelor's) | $10,000~$25,000 (Annual undergraduate tuition at Irish public universities is approximately €10,000–€25,000) |
+| Master's degree | 1-2 years (Master's) | $12,000~$30,000 (Annual master's tuition approximately €12,000-€30,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术或相关领域学位 | 爱尔兰大学 | 可选 | 本科或以上学历 |
-| 培训师认证 | 如Certified Technical Trainer (CTT+) | 可选 | 非强制性但有益 |
-| 特定技术认证 | 如Microsoft、AWS、Cisco | 可选 | 部分雇主要求 |
+| Degree in information technology or a related field. | Irish universities | Optional | Bachelor's degree or higher |
+| Trainer certification | Such as Certified Technical Trainer (CTT+) | Optional | Not mandatory but beneficial |
+| Specific technical certifications | Such as Microsoft, AWS, Cisco. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,500。爱尔兰作为欧洲科技中心，对IT培训师需求持续增长，尤其在云计算、网络安全和数据分析领域。数字化转型和技术更新驱动企业加大员工培训投入。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,500. As a European tech hub, Ireland sees growing demand for IT trainers, especially in cloud computing, cybersecurity, and data analysis. Digital transformation and technology updates drive increased corporate investment in employee training.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 €30,000-€40,000 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 €40,000-€55,000 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪 €55,000-€75,000 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual salary before tax €30,000–€40,000 |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual salary before tax €40,000-€55,000 |
+| Senior (7+ years) | $55,000~$75,000 | Gross annual salary €55,000-€75,000 |
+| average salary | $49,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级培训师晋升为高级培训师或培训经理，也可转向课程设计、学习与发展顾问或IT咨询角色。积累经验后有机会成为独立顾问或培训团队领导者。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of information technology trainers will be partially automated, but human roles remain important due to interpersonal interaction and course design needs. AI can handle knowledge delivery and assessment, but personalized guidance and adapting to learner needs remain human-led.
+
+Can progress from entry-level trainer to senior trainer or training manager, or pivot to curriculum design, learning and development consulting, or IT consulting. With experience, opportunities exist to become an independent consultant or training team leader.
+
+**Tasks most exposed to AI:**
+
+- Write and update standard training manuals and documentation
+- Create and score basic quizzes and assessments
+- FAQ-style replies for common technical questions
+- Record and edit basic training videos
+- Track student progress and generate learning reports
+
+**Where AI augments the role:**
+
+- Using AI to analyze student learning data, identify knowledge gaps, and customize subsequent training
+- Provides instant, personalized learning support through AI-driven virtual assistants
+- Use AI to generate interactive simulations and virtual laboratory environments
+- Expand training audiences with AI translation and multilingual support
+- Using AI to automatically update training content to keep up with the latest technology changes
+
+**Human moat:**
+
+- Deep understanding of adult learning principles and teaching methods
+- Coaching skills to build trust and communicate face-to-face
+- Flexible adjustments to accommodate different learning styles and special needs
+- Assess complex, open-ended issues and provide in-depth feedback
+- The ability to combine technical knowledge with organizational strategic goals
+
+**Skills to build:**
+
+- Use of AI-assisted learning tools (e.g., adaptive learning platforms)
+- Data analysis basics for evaluating training effectiveness.
+- Content creation and multimedia production.
+- Change Management and Guidance Skills
+- Learning Experience Design (LXD)
+- Ability to continuously learn and quickly master new technologies
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -62,65 +98,67 @@ Designs, delivers, and evaluates IT training programs to enhance technical skill
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪€32,000以上的紧缺职业，IT培训师通常符合条件。允许携带家属，2年后可申请永久居留。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪€30,000以上的非紧缺职业，需通过劳动力市场测试。5年后可申请永久居留。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪€60,000以上的高技能职位，IT培训师通常符合。允许在欧盟内流动，2年后可申请长期居留。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations with an annual salary of €32,000 or more; IT trainers usually qualify. Allows family accompaniment, eligible for permanent residency after 2 years. |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in demand with an annual salary of €30,000 or more, requires a labour market test. Can apply for permanent residence after 5 years. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions with annual salary €60,000+, typically including IT trainers. Allows movement within the EU; eligible for long-term residence after 2 years. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Technology Trainer？**
-- 善于沟通和表达的技术人员
-- 有教育热情且乐于分享知识的IT从业者
-- 希望平衡技术深度与人际互动的人
-
-**谁不适合学Information Technology Trainer？**
-- 不喜欢频繁与人交流的人
-- 希望专注于纯技术开发而非教学的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technically skilled personnel with good communication and expression
+- IT professionals with a passion for education and a willingness to share knowledge
+- Those who want to balance technical depth with human interaction
+
+**Who is not suited**
+- People who dislike frequent interaction with others
+- Those who wish to focus purely on technical development rather than teaching
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an IT trainer in Ireland?**
+A: Entry-level approx €30,000-€40,000, mid-level €40,000-€55,000, senior €55,000-€75,000. Depends on experience, certifications, and employer.
+
+**Q: How can an overseas IT trainer immigrate to Ireland?**
+A: Available through a Critical Skills Employment Permit (annual salary €32,000+) or a General Employment Permit (annual salary €30,000+). The Critical Skills permit is faster and does not require a labour market test.
+
+**Q: Does an IT trainer have good career prospects?**
+A: Yes, with the acceleration of digital transformation, corporate training demand continues to grow. You can advance to training manager or learning and development director, or pivot to consulting or freelancing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Information Technology Trainer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an IT Trainer in Ireland?**
-答：Entry-level around €30,000-€40,000, mid-level €40,000-€55,000, senior €55,000-€75,000, depending on experience, certifications, and employer.
-
-**问：How can an overseas IT Trainer immigrate to Ireland?**
-答：Via Critical Skills Employment Permit (€32,000+ salary) or General Employment Permit (€30,000+). The Critical Skills permit is faster and exempt from labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

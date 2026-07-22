@@ -1,61 +1,94 @@
-# Parquet Floor Layer（Parquet Floor Layer）职业分析 · DE
+# Parquet Floor Layer — career analysis · Germany
 
-**职业代码：3313 – Parquet Floor Layer。**
+**Occupation code: 3313 (KldB)**
 
-Parquet floor layers install, sand, and repair wooden flooring, a specialized trade in construction with steady demand.
+Parquetry floor layer installs, sands and repairs wood flooring, a specialized trade in building and renovation with precise work and stable demand.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（学徒期间有津贴，培训免费） |
-| 高级工匠培训 | 1-2年 | $2,000~$5,000（可选考取大师证（Meister）） |
+| Dual system training | 3 years | $0~$500 (Allowances during apprenticeship, training is free.) |
+| Advanced tradesperson training | 1-2 years | $2,000~$5,000 (Option to obtain the Master Craftsman certificate (Meister)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训证书 | 德国工商会（IHK） | 必备 | 完成双元制培训后获得 |
-| 大师证（Meister） | 德国工商会（IHK） | 可选 | 可晋升管理层或自雇 |
-| 资质认证（Anerkennung） | 德国各州主管部门 | 可选 | 境外学历需认证 |
+| Vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Meister certificate | German Chamber of Commerce and Industry (IHK) | Optional | Can advance to management or become self-employed |
+| Qualification recognition (Anerkennung) | Competent authorities in German states | Optional | Overseas qualifications require accreditation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国建筑业持续发展，翻新工程和环保材料需求增加，镶木地板铺设工就业前景良好，尤其在老房改造项目中有稳定市场。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Germany's construction industry continues to grow, with increased demand for renovation and eco-friendly materials; parquet flooring installers have good job prospects, especially in old building renovation projects with stable market demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-8年） | $35,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$55,000 | 税前年薪，含大师证加成 |
+| Median salary | $40,992 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$55,000 | Pre-tax annual salary, including master certificate bonus |
+| average salary | $41,904 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从学徒做起，积累经验后晋升为工头或自雇工匠，也可通过进修学习地板设计或项目管理，拓宽职业路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Parquetry floor layers face task compression due to AI automation, especially in measuring, cutting, and sanding, but fine manual work and on-site adaptability remain core barriers.
+
+Can start as an apprentice, gain experience and advance to foreman or self-employed tradesperson, or further study floor design or project management to broaden career paths.
+
+**Tasks most exposed to AI:**
+
+- Use laser rangefinders and AI for automatic room measurement and layout optimization
+- Automated cutting machines precisely cut wood strips according to design drawings, replacing manual marking
+- AI polishing robot automatically detects flatness and performs polishing steps
+
+**Where AI augments the role:**
+
+- AI-assisted design software quickly generates personalized parquet patterns
+- Augmented reality (AR) tools project installation positions in real time, reducing measurement errors
+- Smart monitoring systems analyze floor humidity and temperature to guide optimal installation timing
+- AI inventory management system predicts material demand, reducing waste
+
+**Human moat:**
+
+- Manual assembly and creative design of complex mosaic patterns
+- On-site adaptation and problem-solving in irregular rooms or old buildings
+- Client communication and customized aesthetic advice
+- Instinctive understanding of wood properties and material selection experience
+- Tactile control of fine polishing and surface finishing
+
+**Skills to build:**
+
+- Proficiency in AI-assisted design software (e.g., AutoCAD, SketchUp)
+- Learn to use laser measurement and digital layout tools
+- Understand augmented reality (AR) installation assistance tools
+- Enhances customer communication and customised service capabilities
+- Study sustainable materials knowledge and green building standards
+- Mastering programming and debugging of automated cutting and polishing equipment
+
+**Key growth areas:**
 
 - Renovation boom
 - Eco-friendly materials
@@ -64,69 +97,68 @@ Parquet floor layers install, sand, and repair wooden flooring, a specialized tr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 需获得德国认可的职业培训证书，有雇主担保即可申请 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，需有资质认证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许寻找工作机会 |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Must obtain a recognized vocational training certificate in Germany and have an employer sponsor to apply |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek work, requires qualification certification |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job search opportunities |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Parquet Floor Layer？**
-- 喜欢动手和精细工作
-- 愿意从事体力劳动
-- 希望获得稳定职业和德国永居
-
-**谁不适合学Parquet Floor Layer？**
-- 不喜欢灰尘和噪音环境
-- 寻求高薪且快速晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on and detailed work
+- Willing to perform physical labor
+- Those seeking stable career and permanent residence in Germany
+
+**Who is not suited**
+- People who dislike dusty and noisy environments
+- Seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for parquet floor layers?**
+A: Entry level annual salary approx. €28,000-€35,000, mid-level €35,000-€45,000, senior up to €55,000, higher for master certificate holders.
+
+**Q: How can foreign skilled workers move to Germany to work in this occupation?**
+A: Must complete vocational training (or obtain equivalent qualifications in home country), pass qualification certification, and obtain employer sponsorship before applying for a skilled migration visa.
+
+**Q: How long does it take to become a qualified parquet floor layer?**
+A: Usually requires completing 3 years of dual training, after which a master craftsman certificate can be obtained (additional 1-2 years).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Parquet Floor Layer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a parquet floor layer?**
-答：Entry-level salary is around €28,000-35,000, mid-level €35,000-45,000, senior up to €55,000, higher with Meister title.
-
-**问：How can foreign skilled workers migrate to Germany for this occupation?**
-答：Complete vocational training or equivalent, obtain recognition of qualifications, and secure a job offer for a skilled worker visa.
-
-**问：How long does it take to become a qualified parquet floor layer?**
-答：Typically 3 years of dual vocational training, plus 1-2 years for Meister certification.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

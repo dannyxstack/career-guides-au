@@ -1,60 +1,93 @@
-# Fruit Farm Worker（Fruit Farm Worker）职业分析 · 新西兰
+# Fruit Farm Worker — career analysis · New Zealand
 
-**职业代码：842212 – Fruit Farm Worker。**
+**Occupation code: 842212 (ANZSCO)**
 
-Fruit farm workers perform seasonal tasks like picking, grading, packing, and pruning, requiring high physical stamina. New Zealand relies on them to fill labor gaps, but migration is limited, often via AEWV or seasonal visas.
+Fruit farm workers perform seasonal tasks such as picking, grading, packing, and pruning, with high physical demands. New Zealand relies on this occupation to fill labor gaps, but migration pathways are limited, usually via AEWV or seasonal work visas.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（通常在职培训） |
-| 短期培训课程 | 1-3个月 | $500~$2,000（如园艺基础证书（非强制）） |
+| No education requirement | 0 years | $0~$0 (Usually on-the-job training) |
+| Short-term training course | 1-3 months. | $500~$2,000 (Such as basic horticulture certificate (not mandatory)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无或简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Growsafe认证（农药操作） | 新西兰初级产业部 | 可选 | 若涉及喷洒，可能要求 |
-| Full Class 1驾照 | 新西兰交通局 | 可选 | 运送工具或设备时有用 |
+| Growsafe certification (pesticide handling) | New Zealand Ministry for Primary Industries | Optional | May be required if spraying is involved |
+| Full Class 1 driver's license | New Zealand Transport Agency. | Optional | Useful when transporting tools or equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。新西兰水果产业（如奇异果、苹果、葡萄酒）需大量季节性劳动力，人口老龄化加剧了短缺。但该职业自动化风险低，收入受季节影响大，长期居留路径狭窄。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. New Zealand's fruit industry (e.g., kiwifruit, apples, wine) requires large seasonal labour, with ageing population exacerbating shortages. However, automation risk is low, income varies seasonally, and pathways to permanent residency are narrow.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 按最低时薪+季节补贴 |
-| 中级（3-5年） | $55,000~$65,000 | 含加班和技能奖金 |
-| 高级（领班/主管） | $65,000~$75,000 | 仅少数升职可达 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Minimum hourly wage plus seasonal allowance |
+| Mid-level (3–5 years) | $55,000~$65,000 | Including overtime and skill bonuses |
+| Senior (Lead/Supervisor) | $65,000~$75,000 | Only a few can achieve promotion |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级工人通过积累经验可晋升为团队领班或农场主管，部分人后转向园艺技术员或农场经营岗位，但需额外培训或文凭。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fruit farm workers face high automation risk; tasks like picking, grading, and packaging are gradually replaced by robots and AI vision systems; entry-level positions will significantly shrink.
+
+Entry-level workers can advance to team leader or farm supervisor through experience, some later move to horticulture technician or farm management roles, but require additional training or diploma.
+
+**Tasks most exposed to AI:**
+
+- Use AI vision systems for fruit grading and sorting
+- Full automated packaging lines replacing manual packing
+- Robots pick ripe fruit (e.g., apples, kiwifruit)
+- Autonomous vehicles transport fruit to the warehouse
+
+**Where AI augments the role:**
+
+- Drone or satellite image analysis helps monitor orchard health and yield prediction.
+- AI-driven irrigation and fertilisation system optimises resource use
+- Digital twin simulation of the impact of different pruning methods on yield
+- Smart wearable devices monitor worker fatigue and improve safety
+
+**Human moat:**
+
+- Fine picking of high-value fruits (e.g., cherries) in complex terrain
+- Real-time judgment of fruit ripeness levels and flexible adjustment of picking strategies
+- Quick repair and emergency handling during machine failures.
+- Management and communication with seasonal worker teams
+
+**Skills to build:**
+
+- Agricultural robot operation and maintenance (e.g., harvesting robots)
+- Basic programming skills (for adjusting automation equipment parameters)
+- Data analysis skills (interpreting crop monitoring data)
+- Drone operation and remote sensing technology
+- Configuration and monitoring of smart farming systems (e.g., precision irrigation)
+- English communication skills (for technical training and support)
+
+**Key growth areas:**
 
 - Seasonal labour shortage
 - AEWV visa
@@ -63,69 +96,68 @@ Fruit farm workers perform seasonal tasks like picking, grading, packing, and pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主提供工作合同和担保，一般3年有效，需满足工资中位数，但可转居留路径有限。 |
-| Subclass Specific Purpose Wor（Specific Purpose Work Visa） | 季节性雇主担保的短期签证，最长7个月，需返国。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不可直接申请，工资需满足中位数以上且职位在ANZSCO Level 1-3，此职业多为Level 4-5。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employers provide work contracts and sponsorship, generally valid for 3 years, must meet median salary, but limited pathways to permanent residency. |
+| Subclass Specific Purpose Wor (Specific Purpose Work Visa) | Seasonal employer-sponsored short-term visa, maximum 7 months, requires return to home country. |
+| Subclass SMC (Skilled Migrant Category) | Usually not directly eligible; salary must be above median and occupation in ANZSCO Level 1-3; this occupation is mostly Level 4-5. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fruit Farm Worker？**
-- 能够承受重复性体力劳动、适应户外多变天气的工作者
-- 希望短期工作挣钱、且不追求长期永居的年轻背包客或海外劳工
-- 愿意从基层做起、后期学习园艺技能转管理岗的人
-
-**谁不适合学Fruit Farm Worker？**
-- 希望快速拿到新西兰永久居留权的人
-- 无法适应高强度季节性工作或不稳定收入的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Workers who can handle repetitive physical labor and adapt to changing outdoor weather
+- Young backpackers or overseas workers seeking short-term income without pursuing long-term permanent residency
+- Individuals willing to start from entry-level and later learn gardening skills to move into management roles
+
+**Who is not suited**
+- People who want to quickly obtain permanent residency in New Zealand.
+- Those unable to adapt to intense seasonal work or unstable income
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a fruit farm worker?**
+A: Entry-level workers earn about NZD 45,000-55,000 per year, depending on overtime, allowances, and season length. Some roles are paid hourly; current minimum wage is about NZD 22.70 per hour (2024).
+
+**Q: Can fruit farm workers migrate to New Zealand?**
+A: Direct Skilled Migration (SMC) is essentially impossible due to ANZSCO skill level 4-5 and difficulty reaching the median wage ($29.66/hr). However, it is possible to gain experience on an AEWV work visa and then switch to another category, or through the Green List Tier 2 (e.g., horticulture or farm management roles), but higher skills are needed.
+
+**Q: What are the physical requirements for this job?**
+A: Requires prolonged standing, bending, walking, and lifting 10-20 kg. Also adapt to outdoor sun and rain, sometimes in remote areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无或简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fruit Farm Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a fruit farm worker?**
-答：Entry-level workers earn around NZ$45,000-55,000 per year, depending on overtime, allowances, and season length. Many jobs are paid hourly, at minimum NZ$22.70/hr (2024).
-
-**问：Can a fruit farm worker immigrate to New Zealand?**
-答：Direct SMC is almost impossible due to ANZSCO skill level 4-5 and wages rarely meeting the median ($29.66/hr). However, you may later transition via other roles on Green List Tier 2 (e.g., horticulture supervisor) after gaining experience via AEWV.
-
-**问：What physical requirements are needed for this job?**
-答：Long hours of standing, bending, walking, and carrying loads of 10-20 kg. Must endure outdoor conditions (sun, rain) and sometimes work in remote areas.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

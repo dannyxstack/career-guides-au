@@ -1,59 +1,89 @@
-# House Builder（House Builder）职业分析 · NL
+# House Builder — career analysis · Netherlands
 
-**职业代码：7111 – House Builder。**
+**Occupation code: 7111 (ISCO08)**
 
-House builders construct, maintain, and repair residential houses, performing tasks such as bricklaying, carpentry, and concreting. They are essential to the Netherlands construction sector.
+A building construction worker is responsible for constructing, maintaining, and repairing residential houses, including tasks such as bricklaying, carpentry, and concrete work; it is a fundamental occupation in the Dutch construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3年 | —（公立学校学费较低，每年约€0-2,000；部分课程有政府补贴。） |
-| 学徒制（BBL） | 2-4年 | —（边工作边学习，雇主承担部分费用，个人支出少。） |
+| Intermediate Vocational Education (MBO) | 3 years | $0~$2,000 (Public school tuition is low, approximately €0-2,000 per year; some courses have government subsidies.) |
+| Apprenticeship (BBL) | 2-4 years | $0~$1,000 (Work while learning, with employers covering part of the costs, resulting in low personal expenses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO建筑行业文凭 | ROC（地区教育中心） | 必备 | 完成MBO 2级或3级课程，涵盖砌砖、木工等技能。 |
-| VCA安全证书 | VCA基金会 | 可选 | 基本安全证书，许多工地要求持有。 |
-| BRL 6000/6001质量认证 | Kiwa等认证机构 | 可选 | 适用于特定施工工艺，非强制性但提升竞争力。 |
+| MBO Diploma in Construction | ROC (Regional Education Centre) | Required | Complete MBO level 2 or 3 courses covering skills such as bricklaying, carpentry, etc. |
+| VCA safety certificate | VCA Foundation | Optional | Basic safety certificate required on many construction sites. |
+| BRL 6000/6001 quality certification | certification bodies such as Kiwa | Optional | Applicable to specific construction techniques, not mandatory but enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。荷兰住房短缺持续推动建筑业需求，政府计划每年新建10万套住房，房屋建筑工人手紧缺。预计未来5年就业增长稳健，但受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. The ongoing housing shortage in the Netherlands continues to drive construction demand, with the government planning to build 100,000 new homes annually, leading to a shortage of construction workers. Steady job growth is expected over the next 5 years, though influenced by economic cycles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$34,000 | 税前年薪，含津贴。 |
-| 中级（3-7年） | $34,000~$44,000 | 税前年薪，含绩效奖金。 |
-| 高级（7年以上） | $44,000~$56,000 | 税前年薪，含工头津贴。 |
+| Median salary | $44,855 | Median salary (official: CBS median hourly wage €22.7/hour × 1,976h annualized, BRC group 0731 Bouwarbeiders ruwbouw; P25–P75 €35,568–€55,328, CBS 2024) |
+| Entry level (0–3 years) | $26,000~$34,000 | Pre-tax annual salary, including allowances. |
+| Mid-level (3–7 years) | $34,000~$44,000 | Annual salary before tax, including performance bonuses. |
+| Senior (7+ years) | $44,000~$56,000 | Pre-tax annual salary, including foreman allowance. |
+| average salary | $39,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒晋升为熟练工、工头，或专精于木工、砌砖等领域。积累经验后可成为自雇承包商或项目经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will enhance housing builders' design planning and site management, but repetitive physical tasks remain hard to replace entirely; entry-level roles are narrowing due to digital tool adoption, but demand for skilled workers is stable.
+
+Can progress from apprentice to skilled worker, foreman, or specialize in carpentry, bricklaying, and other areas. With experience, can become a self-employed contractor or project manager.
+
+**Tasks most exposed to AI:**
+
+- Use AI building software to generate basic blueprints and material lists
+- Automatically inspect construction site progress and quality via drones and AI vision systems
+- Use robots for repetitive bricklaying and concrete pouring
+
+**Where AI augments the role:**
+
+- AI-assisted design tools optimize building layout and structural strength
+- Voice assistants and AR glasses provide real-time construction guidance and safety tips
+- Predictive maintenance system recommends equipment maintenance schedules
+
+**Human moat:**
+
+- Complex structure judgment and on-site problem solving
+- Customer communication and personalized customization ability
+- Multi-trade coordination and construction safety management
+- Hand finishing and quality feel
+
+**Skills to build:**
+
+- Operating Building Information Modeling (BIM) software
+- Drone operation and surveying
+- Knowledge of sustainable building materials
+- Digital project management tools (e.g., Trello, Procore)
+- Use of AR/MR-assisted construction equipment
+
+**Key growth areas:**
 
 - Housing shortage
 - Sustainability renovation
@@ -62,69 +92,68 @@ House builders construct, maintain, and repair residential houses, performing ta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需年薪达到门槛（2024年约€5,331/月）。房屋建筑工通常不满足，但工头或项目经理可能。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需高等教育及高薪。房屋建筑工一般不符合。 |
-| Subclass Orientation Year（Orientation Year） | 毕业生求职年签证，允许在荷工作12个月，不受技能限制。 |
-| Subclass EU自由流动（EU/EEA自由流动） | 欧盟/EEA公民无需工作签证，可自由在荷从事房屋建筑工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigration, requires annual salary to meet threshold (approx. €5,331/month in 2024). House construction workers usually do not qualify, but foremen or project managers may. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, higher education and high salary are required. Construction labourers generally do not qualify. |
+| Subclass Orientation Year (Orientation Year) | Graduate job-seeking visa allows 12 months of work in the Netherlands without skill restrictions. |
+| Subclass EU free movement (EU/EEA freedom of movement) | EU/EEA nationals do not need a work visa and can freely work in housing construction in the Netherlands. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学House Builder？**
-- 喜欢体力活动、动手操作的人
-- 有志于从事建筑行业、愿意从学徒做起的人
-- 能适应户外工作、注重安全规范的人
-
-**谁不适合学House Builder？**
-- 偏好办公室案头工作的人
-- 对体力劳动、灰尘和天气变化敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical activity and hands-on work
+- Those aspiring to work in construction, willing to start as an apprentice
+- People who can adapt to outdoor work and prioritize safety regulations
+
+**Who is not suited**
+- People who prefer office-based desk work
+- Those sensitive to physical labor, dust, and weather changes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of construction workers in the Netherlands?**
+A: Entry-level annual salary approximately €26,000-34,000, mid-level €34,000-44,000, senior or foreman up to €44,000-56,000. Overtime and allowances can increase income.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as building construction laborers?**
+A: Usually accessible via the Highly Skilled Migrant visa (requiring a high salary) or a job search year visa. However, construction laborers have low salaries, making it difficult to meet the highly skilled migrant threshold. EU/EEA citizens can move freely.
+
+**Q: What are the career paths for a House Construction Worker?**
+A: Can advance to foreman, project supervisor, or specialize in fields like carpentry, bricklaying. Can also become self-employed running a small construction company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-House Builder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for house builders in the Netherlands?**
-答：Entry-level annual salary ranges from €26,000 to €34,000, mid-level €34,000 to €44,000, and senior or foreman up to €44,000-€56,000. Overtime and allowances can increase earnings.
-
-**问：How can non-EU citizens immigrate to the Netherlands as house builders?**
-答：Typically via the Highly Skilled Migrant visa (requires high salary) or Orientation Year visa. However, house builder salaries are usually too low to meet the Highly Skilled Migrant threshold. EU/EEA citizens can freely move.
-
-**问：What are the career development paths for house builders?**
-答：You can advance to foreman, project supervisor, or specialize in carpentry, bricklaying, etc. Self-employment as a small contractor is also possible.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

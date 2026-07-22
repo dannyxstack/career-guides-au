@@ -1,61 +1,93 @@
-# Tilers（Tilers）职业分析 · 加拿大
+# Tilers — career analysis · Canada
 
-**职业代码：73101 – Tilers。**
+**Occupation code: 73101 (NOC)**
 
-Tilers install ceramic, marble, and quarry tile on floors, walls, and other surfaces. Steady demand in construction makes it viable for immigration through PNP or skilled worker programs.
+Tile layers install tiles on floors and walls in residential and commercial buildings. The Canadian construction industry is growing, with steady demand for skilled tilers, and immigration is possible through provincial nomination or federal skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 安省高中毕业或同等学历 | 0年 | —（通常要求高中毕业，但无强制学历要求） |
-| 学徒培训 | 2-3年 | —（在职培训加课堂学习，部分省份提供补助） |
-| 职业课程 | 6个月-1年 | $3,000~$15,000（私立学院或社区学院提供的瓷砖铺贴证书课程） |
+| Ontario high school diploma or equivalent | 0 years | $0~$0 (Usually requires high school graduation, but no mandatory education requirement) |
+| Apprenticeship training | 2-3 years | $0~$5,000 (On-the-job training plus classroom learning; some provinces offer subsidies) |
+| Vocational courses | 6 months to 1 year | $3,000~$15,000 (Tile laying certificate course offered by private colleges or community colleges.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 红印证书（Red Seal） | 加拿大学徒制系统 | 可选 | 自愿但强烈推荐，提高就业和薪资水平 |
-| 省贸易许可证（如安省） | 各省学徒及行业认证部门 | 必备 | 部分省份要求持有省许可证 |
-| 语言能力（雅思G类） | IELTS | 必备 | 移民要求CLB 4-5，部分省提名要求CLB 6 |
-| ECA学历认证 | WES等 | 可选 | 用于移民申请，非技工必需 |
+| Provincial trade license (e.g., Ontario) | Provincial apprenticeship and trade certification authorities | Required | Some provinces require a provincial license |
+| Language ability (IELTS General) | IELTS | Required | Immigration requires CLB 4-5, some provincial nominations require CLB 6 |
+| Red Seal certification | Canadian apprenticeship system | Optional | Voluntary but highly recommended to improve employment and salary levels |
+| ECA (Educational Credential Assessment). | WES etc. | Optional | For immigration applications, not required by tradespersons. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。加拿大建筑业近年保持增长，住宅翻新和基础设施项目推动需求。尤其在大温和大多地区，熟练瓦工短缺，未来五年预计就业机会良好。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Canada's construction industry has grown in recent years, driven by residential renovations and infrastructure projects. Demand for skilled bricklayers is high, especially in Greater Vancouver and Greater Toronto, with good job prospects expected over the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒期间收入较低 |
-| 中级（3-7年） | $50,000~$65,000 | 持红印证书后收入上升 |
-| 高级（7年以上） | $70,000~$90,000 | 自雇或承包项目收入更高 |
+| Median salary | $72,301 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Low income during apprenticeship |
+| Mid-level (3–7 years) | $50,000~$65,000 | Income increases after obtaining Red Seal certification |
+| Senior (7+ years) | $70,000~$90,000 | Self-employed or project-based income is higher |
+| average salary | $70,720 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从学徒逐步成长为熟练工，可通过考取红印证书提升资质。经验丰富后可晋升为领班、项目经理或自雇承包商，收入显著提高。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tile setting is a hybrid occupation: AI cannot replace on-site physical labor, but can assist in design, measurement, material optimization, etc.; low-end apprentice positions may decrease due to BIM and automation tools.
+
+Progress from apprentice to skilled tradesperson; can enhance qualifications by obtaining the Red Seal endorsement. With experience, can advance to foreman, project manager, or self-employed contractor, significantly increasing income.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate laying patterns and layouts based on photos or 3D scans
+- AI-optimized tile cutting plans to reduce waste
+- Large-scale standardized paving using automatic brick-laying robots
+- AI-assisted defect detection (hollowing, flatness) replaces manual inspection
+
+**Where AI augments the role:**
+
+- Use AR glasses to preview paving effects and adjust layouts in real-time
+- Optimize scheduling and material dispatch through an AI construction management platform
+- Use BIM models to identify clashes with other trades early
+- Quickly learn new tile/adhesive techniques via online training platforms
+
+**Human moat:**
+
+- Manual cutting and fitting of complex curves and irregular spaces
+- On-site judgment of base treatments (waterproofing, leveling)
+- Detail handling and aesthetic control at the joins of different materials
+- Communicating design requirements with clients and providing personalized solutions
+
+**Skills to build:**
+
+- BIM and construction management software (e.g., Revit, Plannerly)
+- AR/VR-assisted design tools (e.g., Fologram)
+- Operation and maintenance of automated cutting equipment
+- Project management and communication skills
+- Knowledge of sustainable building materials (e.g., recycled tiles, low-carbon adhesives).
+
+**Key growth areas:**
 
 - Construction Boom
 - Skilled Trades Shortage
@@ -64,68 +96,67 @@ Tilers install ceramic, marble, and quarry tile on floors, walls, and other surf
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (Federal Skilled Trades)） | 适合有至少2年全职经验的熟练技工，需满足语言和资金要求 |
-| Subclass PNP（Provincial Nominee Program） | 多数省份将瓦工列为优先职业，如安省、BC省，需获得省提名 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份针对技工需求，有雇主offer即可申请 |
+| Subclass EE (Express Entry (Federal Skilled Trades)) | Suitable for skilled trades with at least 2 years full-time experience, requiring language and financial requirements |
+| Subclass PNP (Provincial Nominee Program) | Most provinces list bricklaying as a priority occupation, e.g., Ontario, BC; requires provincial nomination. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces target trades with employer offer required for application |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tilers？**
-- 有手工技能且细心的人
-- 喜欢户外工作及体力活动者
-- 希望通过技术移民加拿大的人
-
-**谁不适合学Tilers？**
-- 不能承受长时间跪姿和弯腰工作的人
-- 对粉尘、噪音敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with manual skills who are detail-oriented
+- Those who enjoy outdoor work and physical activities
+- Those who want to immigrate to Canada through skilled migration
+
+**Who is not suited**
+- Those who cannot tolerate prolonged kneeling and bending work
+- Those sensitive to dust and noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary of a tile setter in Canada?**
+A: Entry-level: approx. CAD $35k–$45k, mid-level: $50k–$65k, senior: $70k–$90k; self-employed can earn over $100k.
+
+**Q: Is it easy to immigrate to Canada as a tile setter?**
+A: Relatively easy, as it is a skilled trade occupation in demand; eligible for Federal Skilled Trades or provincial nomination, with priority processing in some provinces.
+
+**Q: What certificates are needed to work in Canada?**
+A: Some provinces mandate provincial licenses; Red Seal certification is not mandatory but benefits employment and salary.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tilers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a tiler in Canada?**
-答：Entry-level CAD 35,000-45,000, mid-level 50,000-65,000, senior 70,000-90,000; self-employed can earn over 100,000.
-
-**问：Is it easy to immigrate to Canada as a tiler?**
-答：Relatively easy, as it's a skilled trade in demand. Options include Federal Skilled Trades or PNP with priority processing.
-
-**问：What certifications are needed to work in Canada?**
-答：Provincial trade license may be mandatory, Red Seal is optional but beneficial for employment and wages.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

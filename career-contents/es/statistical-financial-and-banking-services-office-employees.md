@@ -1,58 +1,89 @@
-# Statistical, Financial and Banking Services Office Employees（Statistical, Financial and Banking Services Office Employees）职业分析 · ES
+# Statistical, Financial and Banking Services Office Employees — career analysis · Spain
 
-**职业代码：4113 – Statistical, Financial and Banking Services Office Employees。**
+**Occupation code: 4113 (CNO)**
 
-Handle data entry, account reconciliation, and customer transaction records in financial institutions, banks, or statistical departments, ensuring accuracy of financial and statistical information.
+Responsible for handling daily administrative tasks such as data entry, account verification, and customer transaction records in financial institutions, banks, or statistics departments, ensuring the accuracy of financial and statistical information.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育（ESO） | 4年（ESO） | —（公立学校免费） |
-| 高等职业教育（FP Grado Superior） | 2年（FP Grado Superior） | $300~$1,500（公立FP较低，私立FP费用较高） |
+| Secondary Education (ESO) | 4 years (ESO) | $0~$0 (Free public schools.) |
+| Higher Vocational Education (FP Grado Superior) | 2 years (FP Grado Superior) | $300~$1,500 (Public FPs are relatively low, while private FPs are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融与保险相关职业资格 | Bank of Spain / Insurance associations | 可选 | 部分岗位要求完成银行或保险合规培训，非强制性但有利 |
-| FP Grado Superior en Administración y Finanzas | 各自治区教育部门 | 可选 | 常见学历要求，非强制性资质 |
+| Financial and insurance-related professional qualifications | Bank of Spain / Insurance associations | Optional | Some positions require completion of banking or insurance compliance training, which is not mandatory but beneficial |
+| FP Grado Superior en Administración y Finanzas | Education departments of all autonomous regions | Optional | Common academic requirements, not mandatory qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 125,000。西班牙银行业和金融服务业数字化转型推动对基础文员需求稳定，但部分岗位面临自动化替代风险。预计未来五年就业人数小幅下降约2%，但合规和数据管理岗位仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 125,000. Digital transformation in Spain's banking and financial services sectors has driven stable demand for basic clerks, but some positions face risks of automation replacement. Employment is expected to decline slightly by about 2% over the next five years, but there is still demand for compliance and data management roles.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，包括社保扣除前总额 |
-| 中级（3-6年） | $20,000~$26,000 | 税前年薪，视公司规模与地区差异 |
-| 高级（6年以上） | $26,000~$32,000 | 税前年薪，可升至团队主管级别 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, including the total before social insurance deductions |
+| Mid-level (3–6 years) | $20,000~$26,000 | Pre-tax annual salary varies depending on company size and region |
+| Senior (6+ years) | $26,000~$32,000 | Pre-tax annual salary, with the possibility of promotion to team supervisor level |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 可从初级数据录入员晋升为高级文员、团队主管或金融分析助理。通过考取FP高级学位或金融认证（如银行监管培训），有机会转入风险控制或内部审计等专业岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Tasks such as daily data processing and account verification for staff in statistics, finance, and banking services offices are easily replaced by AI automation, but exception handling and customer relationship management that require human judgment have been enhanced, resulting in mixed outcomes overall.
+
+You can advance from junior data entry specialist to senior clerk, team leader, or financial analysis assistant. By obtaining an advanced FP degree or financial certification (such as banking regulatory training), you have the opportunity to transfer into professional positions such as risk control or internal audit.
+
+**Tasks most exposed to AI:**
+
+- Manual data entry and format conversion
+- Automatically reconcile and reconcile account balances
+- Standardized transaction record generation and archiving
+- Automatic generation of basic statistical reports
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly identify abnormal transactions and conduct preliminary analysis
+- Query databases using natural language to improve data retrieval efficiency
+- Machine learning models are used to predict customer behavior and support marketing decisions
+
+**Human moat:**
+
+- Handling non-standardized, ambiguous customer complaints or disputes
+- Make final judgments and decisions on AI-generated financial anomaly alerts
+- Interpreting regulatory compliance and responding to audits
+- Cross-departmental coordination, communication, and complex problem resolution
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Python, Tableau)
+- Fintech tool operations (such as RPA, AI-assisted audit platforms)
+- Basic programming (automated script writing)
+- Critical thinking and exceptional processing skills
+- Customer communication and relationship management
+
+**Key growth areas:**
 
 - Digitalization
 - Regulatory Compliance
@@ -61,68 +92,67 @@ Handle data entry, account reconciliation, and customer transaction records in f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees (Cuenta Ajena)） | 受雇工作居留，需雇主担保，适用于银行/金融公司的办公室职员岗位。薪资需满足最低工资要求，建议年薪≥20,000欧元。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适合高技能专业人才，但对教育背景和年薪（约33,900欧元）有较高要求，通常不适用于初级文员岗位。 |
-| Subclass Busqueda empleo（Job Search Visa） | 西班牙求职签证，允许在西班牙停留最多6个月寻找工作，找到符合条件的工作后可转换为工作居留。 |
+| Subclass Cuenta ajena (Work Permit for Employees (Cuenta Ajena)) | Employed work residence requires employer sponsorship, applicable to office staff positions in banks/financial companies. Salary must meet minimum wage requirements, with an annual salary ≥ 20,000 euros. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled professionals but requires higher educational background and annual salary (about €33,900), and is generally not suitable for entry-level clerk positions. |
+| Subclass Busqueda empleo (Job Search Visa) | The Spanish job seeker visa allows you to stay in Spain for up to 6 months looking for work, and after finding a qualifying job, it can be converted to work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statistical, Financial and Banking Services Office Employees？**
-- 希望从事稳定办公室工作、对数字敏感的人群
-- 具备中等教育或FP学历、寻求快速就业的应届毕业生
-- 希望进入金融行业从事基础操作岗位的转行者
-
-**谁不适合学Statistical, Financial and Banking Services Office Employees？**
-- 追求高薪和快速晋升的进取型人才
-- 不擅长重复性数据工作、希望发挥创造力的人群
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People seeking stable office work who are comfortable with numbers.
+- Recent graduates with secondary education or an FP degree seeking rapid employment
+- Prospective career changers hoping to enter the financial industry and engage in basic operational positions
+
+**Who is not suited**
+- Enterprising talents who pursue high salaries and rapid promotion
+- People who are not good at repetitive data work and want to be creative
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for staff in the Office of Statistics, Finance, and Banking Services?**
+A: Entry-level positions earn about €16,000–20,000 per year, intermediate positions about €20,000–26,000, and seniors up to €32,000. Salaries are influenced by region, company size, and experience.
+
+**Q: As a third-country citizen, what visa pathway can I use to enter Spain to work in this profession?**
+A: The most common route is Employed Work Residency (Cuenta ajena), which requires employer sponsorship. The EU Blue Card requires high salaries and academic qualifications and is generally not suitable for entry-level positions. You can also apply for a job-seeking visa first to look for job opportunities in Spain.
+
+**Q: What qualifications are needed for this occupation?**
+A: Generally, completion of at least secondary education (ESO) is required, and having a higher vocational education degree such as FP Grado Superior en Administración y Finanzas is more competitive. Some companies offer internal training and may relax educational requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Statistical, Financial and Banking Services Office Employees的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for statistical, financial and banking services office employees?**
-答：Entry-level salaries range from €16,000 to €20,000 gross per year, mid-level from €20,000 to €26,000, and senior up to €32,000, depending on location, company size, and experience.
-
-**问：As a third-country national, what visa pathways are available to work in this occupation in Spain?**
-答：The most common pathway is a work permit for employees (Cuenta ajena) with employer sponsorship. The EU Blue Card requires a higher salary and degree, generally not suitable for entry-level roles. A job search visa is also an option to seek employment in Spain.
-
-**问：What education is required for this occupation?**
-答：Typically, at least secondary education (ESO) is required. Having a higher vocational qualification such as FP Grado Superior en Administración y Finanzas improves competitiveness. Some companies offer internal training and may relax educational requirements.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

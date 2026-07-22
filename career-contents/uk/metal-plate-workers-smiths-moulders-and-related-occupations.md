@@ -1,59 +1,95 @@
-# Metal plate workers, smiths, moulders and related occupations（Metal plate workers, smiths, moulders and related occupations）职业分析 · UK
+# Metal plate workers, smiths, moulders and related occupations — career analysis · United Kingdom
 
-**职业代码：5212 – Metal plate workers, smiths, moulders and related occupations。**
+**Occupation code: 5212 (SOC)**
 
-Mark off, drill, shape, position, rivet and seal metal plates and girders to form structures and frameworks; operate power hammers and presses to shape heated metal; make moulds and cores for casting metal and pour or inject molten metal into dies.
+Mark, drill, shape, position, rivet, and seal metal sheets and beams to build structures and frameworks; operate power hammers and presses to shape heated metal, manufacture and repair metal products; make moulds and cores for metal casting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（通常由雇主资助，无需学费） |
-| 职业资格证书 | 1-2年 | $1,000~$3,000（如BTEC或NVQ，费用因机构而异） |
+| Apprenticeship | 3-4 years | $0~$0 (Usually employer-sponsored, no tuition fees required) |
+| Professional qualifications | 1-2 years | $1,000~$3,000 (E.g. BTEC or NVQ, fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 3级工程制造（金属加工） | 英国资格与考试管理办公室 | 可选 | 常见的职业资格 |
-| BTEC工程文凭 | 培生 | 可选 | 替代性资格，理论为主 |
-| 焊接资质（如Coded Welder） | 英国标准协会 | 可选 | 特定岗位可能需要 |
+| NVQ Level 3 Engineering Manufacturing (Metal Processing) | Office of Qualifications and Examinations Regulation (Ofqual) | Optional | Common occupational qualifications |
+| BTEC Engineering Diploma | Pearson | Optional | Alternative qualification, theory-focused |
+| Welding certification (e.g., Coded Welder) | British Standards Institution | Optional | May be required for specific positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。英国制造业和建筑业对金属板加工和铸造技能有稳定需求，尤其在基础设施和能源项目推动下。学徒制是主要入行途径，经验丰富的工人短缺，就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 25,000. The UK manufacturing and construction industries have stable demand for sheet metal processing and casting skills, particularly driven by infrastructure and energy projects. Apprenticeships are the main entry route; experienced workers are in short supply, and job prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒或新手技工 |
-| 中级（3-8年） | $26,000~$35,000 | 熟练技工 |
-| 高级（8年以上） | $35,000~$48,000 | 高级技工或主管 |
+| Median salary | $37,058 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Apprentice or novice mechanic |
+| Mid-level (3–8 years) | $26,000~$35,000 | Skilled tradesperson |
+| Senior (8+ years) | $35,000~$48,000 | Senior technician or supervisor |
+| average salary | $40,114 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从学徒或初级工人起步，积累经验后可晋升为高级技工、主管或质检员。部分人通过进一步培训成为模具设计师或制造工程师，或自雇经营小型金属加工厂。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
+
+Usually start as an apprentice or junior worker, progressing to senior technician, supervisor, or quality inspector with experience. Some become mold designers or manufacturing engineers through further training, or self-employed in small metal processing plants.
+
+**Tasks most exposed to AI:**
+
+- Automatic nesting and CNC cutting of metal sheets
+- Simple defect identification and classification through AI visual inspection
+- Repeated bending and punching in bulk forming of standard ventilation ducts
+- Automatic unfolding and blanking calculation based on 3D models
+- AI-driven automatic inventory counting and replenishment in warehouses
+
+**Where AI augments the role:**
+
+- AI-assisted unfolding and forming process optimization for complex geometric shapes
+- AR glasses project installation guides to improve on-site positioning and assembly accuracy
+- AI load calculation optimizes material utilization and reduces waste
+- Digital twin simulation of sheet metal part stress performance in assemblies
+- AI-Driven Robots Collaborate on Repetitive Welding and Handling
+
+**Human moat:**
+
+- On-site measurement and manual finishing of non-standard, irregular metal parts
+- Installation and sealing of ventilation ducts and roofs in confined spaces or at heights
+- Experienced judgment of hidden defects such as metal fatigue and weld quality
+- Ability to communicate on-site with clients and designers and adjust plans
+- Safety assurance: handling hazardous environments like heat, sharp edges, toxic coatings
+
+**Skills to build:**
+
+- Learn CAD/CAM software (e.g., SolidWorks, AutoCAD Inventor)
+- Master CNC punching and laser cutting machine programming and operation
+- Understanding collaborative programming of industrial robots with sheet metal bending and welding cells
+- Apply digital measurement tools (e.g., 3D scanners) for reverse engineering
+- Basic data analysis skills to optimise material layout and process parameters
+- Learning connection techniques for lightweight materials (aluminum-magnesium alloys, composites)
+
+**Key growth areas:**
 
 - Manufacturing
 - Infrastructure
@@ -62,68 +98,67 @@ Mark off, drill, shape, position, rivet and seal metal plates and girders to for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，满足一般薪资门槛（通常£26,200/年） |
-| Subclass Scale-up（Scale-up visa） | 适合高增长企业担保，需满足薪资要求 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，工作无限制，可积累经验后转换技术工人签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship and meeting the general salary threshold (usually £26,200/year) |
+| Subclass Scale-up (Scale-up visa) | Suitable for high-growth enterprise sponsorship, must meet salary requirements |
+| Subclass Graduate (Graduate visa) | Graduates from UK universities are eligible to apply, with no work restrictions, and can switch to a Skilled Worker visa after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal plate workers, smiths, moulders and related occupations？**
-- 喜欢动手操作、注重细节的人
-- 愿意通过学徒制学习技能的人
-- 在制造业或建筑业寻求稳定职业的人
-
-**谁不适合学Metal plate workers, smiths, moulders and related occupations？**
-- 不喜体力劳动或工作环境嘈杂、高温的人
-- 追求高薪且快速晋升的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People willing to learn skills through an apprenticeship
+- Those seeking stable careers in manufacturing or construction.
+
+**Who is not suited**
+- Those who dislike physical labor or noisy, high-temperature work environments.
+- People seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: How much do sheet metal workers earn in the UK?**
+A: Salaries: entry-level workers around £20,000-26,000, skilled tradespeople £26,000-35,000, senior tradespeople or supervisors up to £35,000-48,000 per year.
+
+**Q: How can overseas workers obtain a UK work visa for metal sheet workers?**
+A: Main route is a skilled worker visa requiring employer sponsorship and meeting the general salary threshold. The Scale-up visa or post-study visa are also options.
+
+**Q: What are the career development opportunities for metal sheet workers?**
+A: Can progress from apprentice to senior technician, supervisor, or transition into fields such as mould design, manufacturing engineering, or become self-employed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Metal plate workers, smiths, moulders and related occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metal plate workers in the UK?**
-答：Entry-level workers earn £20,000-26,000, experienced workers £26,000-35,000, and senior workers or supervisors can earn £35,000-48,000 per year.
-
-**问：How can overseas workers obtain a work visa for metal plate work in the UK?**
-答：The main route is the Skilled Worker visa, requiring employer sponsorship and meeting the general salary threshold. Scale-up or Graduate visa conversion are also options.
-
-**问：What career progression opportunities exist for metal plate workers?**
-答：Progression from apprentice to senior worker, supervisor, or into mould design, manufacturing engineering, or self-employment.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

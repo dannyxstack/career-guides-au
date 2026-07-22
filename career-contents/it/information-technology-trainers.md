@@ -1,60 +1,96 @@
-# Information Technology Trainers（Information Technology Trainers）职业分析 · IT
+# Information Technology Trainers — career analysis · Italy
 
-**职业代码：2356 – Information Technology Trainers。**
+**Occupation code: 2356 (ISCO08)**
 
-IT trainers design and deliver training programs on software, hardware, and cybersecurity to corporate staff or individuals.
+An IT training officer designs and delivers IT skills training for corporate employees or individual learners, covering areas such as software, hardware, and cybersecurity.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学学费，视家庭收入而定） |
-| 硕士 | 2年（硕士） | $2,000~$6,000（公立大学硕士学费） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years (Master's) | $2,000~$6,000 (Master's tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学位证书 | 意大利大学 | 必备 | 计算机科学或教育技术领域 |
-| 教学能力认证 | 教育部或培训机构 | 可选 | 如TFA（教师培训） |
+| Relevant degree certificate | Italian universities | Required | Computer Science or Educational Technology |
+| Teaching competency certification | Ministry of Education or training institution. | Optional | Such as TFA (Teacher Training) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。意大利数字化转型推动IT培训需求增长，企业需持续提升员工数字技能，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Italy's digital transformation drives growth in IT training demand, companies need to continuously improve employee digital skills, employment outlook is stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $39,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从培训师晋升为培训经理、课程设计总监或转向IT咨询，也可成为自由职业者。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of information technology trainers will be partially automated, but human roles remain important due to interpersonal interaction and course design needs. AI can handle knowledge delivery and assessment, but personalized guidance and adapting to learner needs remain human-led.
+
+Can progress from trainer to training manager, curriculum design director, or move into IT consulting, and can also become a freelancer.
+
+**Tasks most exposed to AI:**
+
+- Write and update standard training manuals and documentation
+- Create and score basic quizzes and assessments
+- FAQ-style replies for common technical questions
+- Record and edit basic training videos
+- Track student progress and generate learning reports
+
+**Where AI augments the role:**
+
+- Using AI to analyze student learning data, identify knowledge gaps, and customize subsequent training
+- Provides instant, personalized learning support through AI-driven virtual assistants
+- Use AI to generate interactive simulations and virtual laboratory environments
+- Expand training audiences with AI translation and multilingual support
+- Using AI to automatically update training content to keep up with the latest technology changes
+
+**Human moat:**
+
+- Deep understanding of adult learning principles and teaching methods
+- Coaching skills to build trust and communicate face-to-face
+- Flexible adjustments to accommodate different learning styles and special needs
+- Assess complex, open-ended issues and provide in-depth feedback
+- The ability to combine technical knowledge with organizational strategic goals
+
+**Skills to build:**
+
+- Use of AI-assisted learning tools (e.g., adaptive learning platforms)
+- Data analysis basics for evaluating training effectiveness.
+- Content creation and multimedia production.
+- Change Management and Guidance Skills
+- Learning Experience Design (LXD)
+- Ability to continuously learn and quickly master new technologies
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-learning
@@ -63,63 +99,65 @@ IT trainers design and deliver training programs on software, hardware, and cybe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及不低于意大利平均工资1.5倍的合同。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟公民，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，由雇主申请，获批后可申请工作签证。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, requires a university degree and a contract with a salary at least 1.5 times the Italian average wage. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens, requiring employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, applied for by the employer; after approval, can apply for a work visa. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Information Technology Trainers？**
-- 具备良好沟通和表达能力的IT专业人员
-- 热衷于教学和知识分享的技术爱好者
-- 希望从事稳定教育行业的技术人才
+**Who is suited**
+- IT professionals with strong communication and presentation skills
+- Tech enthusiasts passionate about teaching and knowledge sharing
+- Technical talent seeking stable education careers
 
-**谁不适合学Information Technology Trainers？**
-- 不喜欢与人互动、偏好独立工作的人
-- 缺乏耐心、不愿重复讲解同一内容的人
+**Who is not suited**
+- People who dislike interaction and prefer to work independently
+- Those who lack patience and are unwilling to repeatedly explain the same content
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for IT trainers in Italy?**
+A: Entry-level annual salary approx. €25,000–€32,000, senior up to €45,000–€60,000.
+
+**Q: How can an IT trainer immigrate to Italy?**
+A: Can be accessed via EU Blue Card or Decreto Flussi work visa, requires employer sponsorship and credential evaluation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Information Technology Trainers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for IT trainers in Italy?**
-答：Entry-level annual salary is around €25,000-32,000, senior can reach €45,000-60,000.
-
-**问：How can an IT trainer immigrate to Italy?**
-答：Through EU Blue Card or Decreto Flussi work visa, requiring employer sponsorship and degree recognition.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

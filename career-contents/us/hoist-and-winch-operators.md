@@ -1,60 +1,96 @@
-# Hoist and Winch Operators（Hoist and Winch Operators）职业分析 · 美国
+# Hoist and Winch Operators — career analysis · United States
 
-**职业代码：53-7041 – Hoist and Winch Operators。**
+**Occupation code: 53-7041 (SOC)**
 
-Operate or tend hoists or winches to lift and pull loads using power-operated cable equipment. Excludes crane and tower operators.
+Operate or tend winches or hoists, using electric cable equipment to lift and pull loads. Does not include crane operators.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（通常需高中毕业或同等学历） |
-| 在职培训 | 1-3个月 | —（现场培训或学徒期） |
+| High school diploma | 4 years | $0~$0 (Usually need high school diploma or equivalent) |
+| On-the-job training | 1-3 months. | $0~$2,000 (On-the-job training or apprenticeship period) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商用驾驶执照 | 州机动车辆管理局 | 可选 | 可能需要，若操作移动设备 |
-| 职业安全培训 | 雇主或第三方 | 必备 | OSHA 10小时或30小时安全培训 |
+| Occupational safety training | Employer or third party | Required | OSHA 10-hour or 30-hour safety training |
+| Commercial Driver's License | State motor vehicle department | Optional | Possibly required if operating mobile equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,600。美国建筑业和制造业的波动影响就业，预计2028年前就业增长约4%，与平均水平持平。沿海和矿区需求较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,600. Fluctuations in the U.S. construction and manufacturing sectors affect employment; employment is projected to grow about 4% through 2028, on par with the average. Greater demand in coastal and mining areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 多数新手工资偏低 |
-| 中级（3-6年） | $45,000~$58,000 | 有经验后收入增加 |
-| 高级（6年以上） | $58,000~$72,000 | 资深操作员或主管可达更高 |
+| Median salary | $56,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Most beginners have low salaries |
+| Mid-level (3–6 years) | $45,000~$58,000 | Income increases with experience |
+| Senior (6+ years) | $58,000~$72,000 | Senior operators or supervisors can earn higher |
+| average salary | $67,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级操作员可晋升为高级操作员或主管，也可转向起重机操作或设备维护岗位，需积累经验和取得相关认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of a winch operator—lifting and pulling loads—are highly procedural; with the maturity of automated winches and remote monitoring technology, this occupation faces significant replacement risk, and entry-level jobs will decline rapidly.
+
+Entry-level operators can advance to senior operators or supervisors, or shift to crane operation or equipment maintenance roles, requiring experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Manually control winch to lift and move loads
+- Precise positioning operations based on gestures or signals
+- Repetitive uniform lifting and lowering operations
+- Daily equipment checks and simple fault reporting
+- Load weight estimation and balance adjustment
+
+**Where AI augments the role:**
+
+- Use AI to assist with load balancing calculations, improving lifting safety.
+- Manage multiple automated winches simultaneously via remote monitoring systems
+- Uses digital twins to simulate complex lifting paths and optimize workflow
+- AI predictive maintenance reduces downtime
+- Automated report generation and compliance document processing
+
+**Human moat:**
+
+- On-site assessment of abnormal loads, wire rope wear, and other safety risks
+- Emergency manual operation and decision-making in complex environments.
+- Collaboration and communication with other trades (e.g., signalers, installers)
+- Customized lifting plan design for non-standard loads
+- Legal and Compliance Responsibilities (safe operation, liability)
+
+**Skills to build:**
+
+- Programming and debugging of automated winch systems
+- Remote monitoring and multi-machine management platform operation.
+- Basic electrical and hydraulic maintenance
+- Data analysis (load logs, efficiency optimization)
+- Knowledge of safety regulations and AI system compliance
+- Use of digital twin or lifting simulation software
+
+**Key growth areas:**
 
 - Construction
 - Manufacturing
@@ -63,65 +99,67 @@ Operate or tend hoists or winches to lift and pull loads using power-operated ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 用于临时性非农工作，但需雇主证明劳工短缺，配额紧张 |
-| Subclass EB-3（Employment-Based Third Preference） | 需PERM劳工证，但此类职业通常难以证明短缺，极少走此路径 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Used for temporary non-agricultural work, but employer must prove labor shortage; quota is tight |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, but this type of occupation is usually hard to prove shortage, rarely takes this path |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hoist and Winch Operators？**
-- 喜欢户外和体力工作的人
-- 注重操作细节和安全规范
-- 愿意在偏远工地或矿区工作
+**Who is suited**
+- Those who enjoy outdoor and physical work
+- Attention to operational details and safety protocols
+- Willing to work at remote construction sites or mining areas
 
-**谁不适合学Hoist and Winch Operators？**
-- 无法适应高空或恶劣天气环境
-- 不喜欢重复性体力劳动
+**Who is not suited**
+- Cannot adapt to high altitude or severe weather conditions
+- Dislikes repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do winch operators earn?**
+A: US winch operator annual salary approximately $35,000 to $72,000, depending on experience, location, and industry. Entry-level operators typically earn under $45,000.
+
+**Q: Can this occupation immigrate to the US via skilled migration?**
+A: Very difficult. This occupation is not a high-skilled trade; employer-sponsored H-1B or EB-3 green cards are usually unrealistic; H-2B temporary work visas have very limited quotas and are only for seasonal work.
+
+**Q: What certifications are needed?**
+A: Typically requires completion of OSHA safety training (10 or 30 hours); some employers may require a commercial driver's license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hoist and Winch Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for hoist and winch operators?**
-答：Salaries range from $35,000 to $72,000 per year, depending on experience, location, and industry.
-
-**问：Can I immigrate to the US as a hoist and winch operator?**
-答：It is very difficult. The occupation is not considered high-skilled for H-1B or EB-3, and H-2B visas have limited quotas and are seasonal.
-
-**问：What certifications are required?**
-答：Typically OSHA safety training (10 or 30 hours). Some employers require a commercial driver's license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

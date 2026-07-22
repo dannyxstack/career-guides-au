@@ -1,59 +1,95 @@
-# Specialist Medical Practitioners（Specialist Medical Practitioners）职业分析 · NL
+# Specialist Medical Practitioners — career analysis · Netherlands
 
-**职业代码：2212 – Specialist Medical Practitioners。**
+**Occupation code: 2212 (ISCO08)**
 
-Specialist medical practitioners in Netherlands provide advanced medical care in hospitals or clinics, including diagnosis, treatment, and surgery, requiring rigorous training and registration.
+Specialist doctors provide advanced medical services in Dutch hospitals or clinics, including diagnosis, treatment, and surgery, requiring rigorous training and registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学学士 | 3年（本科） | $30,000~$50,000（每年学费，非欧盟学生更高） |
-| 医学硕士 | 3年（研究生） | $35,000~$60,000（每年学费，非欧盟学生更高） |
+| Bachelor of Medicine | 3 years (bachelor's) | $30,000~$50,000 (Annual tuition fee, higher for non-EU students) |
+| Master of Medicine | 3 years (graduate level) | $35,000~$60,000 (Annual tuition fee, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰医学学位 | 荷兰大学医学院 | 必备 | 需通过WO（大学教育）完成医学课程 |
-| BIG注册 | 荷兰卫生、福利及体育部 | 必备 | 在BIG注册后才能在荷兰行医 |
-| 专科培训完成证书 | 荷兰医学专业委员会 | 必备 | 完成6年住院医师培训并考试合格 |
+| Dutch medical degree | University Medical Center (Netherlands) | Required | Must complete a medical course through a university education (WO). |
+| BIG registration | Ministry of Health, Welfare and Sport of the Netherlands | Required | Must be registered with BIG to practice medicine in the Netherlands |
+| Certificate of completion of specialist training | Medical Professional Committee of the Netherlands | Required | Complete 6-year residency training and pass exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 58,000。荷兰面临医疗人才短缺，尤其是专科医生，未来十年需求持续增长，受老龄化影响。
+**Job demand: very high (★★★★½).** National workforce approx. 58,000. The Netherlands faces a shortage of medical professionals, especially specialists, with demand expected to grow over the next decade due to an aging population.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 税前年薪，含津贴 |
-| 中级（3-10年） | $100,000~$150,000 | 税前年薪，含绩效奖金 |
-| 高级（10年以上） | $160,000~$250,000 | 税前年薪，主任医师级别 |
+| Median salary | $79,238 | Median Salary (Official: CBS median hourly wage €40.1/hour × 1976h annualized, BRC group 1011 Artsen; P25–P75 €62,244–€117,177, CBS 2024) |
+| Entry level (0–3 years) | $70,000~$90,000 | Annual pre-tax salary, including allowances |
+| Intermediate (3-10 years) | $100,000~$150,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (10+ years) | $160,000~$250,000 | Annual pre-tax salary, chief physician level |
+| average salary | $136,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 晋升路径：医学士→住院医生→专科医生→主任医师或科室主管，也可转向学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Specialist doctors' core diagnostic, surgical, and clinical decision-making duties will not be fully replaced by AI in the short term, but AI can significantly improve work efficiency in image interpretation, pathological analysis, and data integration, reducing the need for some auxiliary tasks.
+
+Career progression: medical degree → resident → specialist → chief physician or department head, or transition to academic research.
+
+**Tasks most exposed to AI:**
+
+- Automatic interpretation and anomaly marking of preliminary images (e.g., X-ray, CT)
+- Automated analysis of routine pathology slides and blood tests
+- Automatic data extraction and preliminary report generation based on Electronic Health Records (EHRs)
+- Medication dose calculation and drug interaction checks
+- Simple symptom classification and triage in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted surgical planning and intraoperative navigation (e.g., 3D model reconstruction)
+- Integrate multimodal data (genomics, imaging, laboratory) to provide personalized treatment recommendations
+- Automatically generate medical record summaries and follow-up plans using natural language processing
+- Use AI to predict disease progression and treatment response, optimize follow-up frequency
+- Providing second opinions or decision support in complex cases
+
+**Human moat:**
+
+- Hand-eye coordination, tactile feedback, and intraoperative adaptability in physical surgery.
+- Communicating empathetically with patients and families, explaining complex conditions and prognoses
+- Assume final diagnostic responsibility and legal risk
+- Rely on clinical experience and intuition in uncertain or rare cases
+- Lead interdisciplinary team collaboration and clinical teaching
+
+**Skills to build:**
+
+- Use and interpretation of medical AI tools (e.g., imaging analysis software)
+- Basic data science to understand the boundaries of machine learning model outputs
+- Digital health management and remote medical platform operation
+- AI ethics and regulations (data privacy, algorithm bias)
+- Multimodal information integration and critical evaluation
+- Continuous learning ability, staying updated with latest advances in AI
+
+**Key growth areas:**
 
 - aging population
 - shortage of specialists
@@ -62,68 +98,67 @@ Specialist medical practitioners in Netherlands provide advanced medical care in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高薪专业人士，雇主担保，需满足薪资门槛（2023年约€5,008/月） |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需工作合同且年薪不低于€58,900 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 适用于在荷兰或世界前200大学获得硕士/博士学位的毕业生，可找工作时间1年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled professionals, employer-sponsored, must meet salary threshold (approx. €5,008/month in 2023) |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, requires a work contract with annual salary no less than €58,900 |
+| Subclass Orientation Year (Orientation Year for Graduates) | For graduates with a master's or PhD from a Dutch university or a top-200 world university, job-seeking period of 1 year. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialist Medical Practitioners？**
-- 医学博士毕业生
-- 有多年临床经验的医生
-- 愿意接受长期培训的人
-
-**谁不适合学Specialist Medical Practitioners？**
-- 不愿在高压环境工作的人
-- 缺乏耐心或沟通能力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical doctor graduates
+- Doctor with many years of clinical experience
+- People willing to undergo long-term training
+
+**Who is not suited**
+- People who prefer not to work in high-pressure environments
+- People who lack patience or communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for specialist doctors in the Netherlands?**
+A: Entry-level annual salary around 70,000-90,000 euros, senior can reach 160,000-250,000 euros, depending on expertise and experience.
+
+**Q: How to immigrate to the Netherlands as a specialist doctor?**
+A: Accessible via skilled migration or EU Blue Card; requires prior BIG registration and usually employer sponsorship.
+
+**Q: How can foreign doctors obtain medical practice qualifications in the Netherlands?**
+A: Must complete BIG registration process, have qualifications assessed, possibly require additional training and language test (Dutch).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 非常高（★★★★★） |
-| 考证难度 | 非常高（★★★★★） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Specialist Medical Practitioners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for specialist doctors in Netherlands?**
-答：Entry-level annual salary is about €70,000-90,000, senior can reach €160,000-250,000, depending on specialty and experience.
-
-**问：How to immigrate to Netherlands as a specialist doctor?**
-答：Via Highly Skilled Migrant or EU Blue Card, requires BIG registration and employer sponsorship.
-
-**问：How do foreign doctors obtain medical license in Netherlands?**
-答：Through BIG registration, assessment of qualifications, possible additional training and language test (Dutch).
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

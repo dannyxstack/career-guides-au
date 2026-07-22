@@ -1,161 +1,187 @@
-# 安全官/保安（Security Officer）职业分析 · 澳大利亚
+# Security Officer / Guard — career analysis · Australia
 
-**职业代码：442217 – Security Officer。**
+**Occupation code: 442217 (ANZSCO)**
 
-安全官负责人员和财产保护、访客管理、应急响应和威胁预防，是澳洲规模最大的非公务员执法相关职业（约12万人）。从商场保安到企业安保经理，职业晋升路径清晰。澳洲安保行业受监管（每州要求持牌），提供相对稳定的就业环境，是新移民进入安保行业的常见入门职业。
+Security officers are responsible for personnel and property protection, visitor management, emergency response, and threat prevention. This is Australia's largest non-government law enforcement-related profession (approx. 120,000 people). Career progression from mall security to corporate security manager is clear. The Australian security industry is regulated (licensing required per state), providing relatively stable employment—a common entry-level job for new immigrants.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate II in Security Operations（必须） | 2~4周 | $300~$1,500（获取安保执照（Security Licence）的法定培训要求） |
-| 安保执照（Security Licence）申请 | 4~8周（审核期） | $200~$600（各州安保监管局审核；包含背景调查） |
-| 急救证书（First Aid/CPR） | 1~2天 | $100~$300（大多数安保岗位的实际必要条件） |
-| Certificate IV/Diploma in Security Operations（晋升） | 6~12个月 | $2,000~$8,000（晋升班长（Supervisor）或企业安保经理的进阶资质） |
+| Certificate II in Security Operations (required) | 2–4 weeks | $300~$1,500 (Statutory training requirements for obtaining a Security Licence) |
+| Security Licence application | 4–8 weeks (assessment period) | $200~$600 (Reviewed by state security regulatory authorities; includes background checks) |
+| First Aid/CPR Certificate | 1–2 days | $100~$300 (Practical prerequisite for most security positions) |
+| Certificate IV/Diploma in Security Operations (for career advancement) | 6–12 months | $2,000~$8,000 (Advanced qualification for promotion to Supervisor or corporate security manager) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安保执照（Security Licence） | 各州安保监管局（NSW SLED/VIC LSCT等） | 必备 | 澳洲所有从事安保工作的法定持牌要求 |
-| Certificate II in Security Operations | TAFE / 认可RTO | 必备 | 安保执照申请的前提培训资质 |
-| 急救证书（First Aid/CPR） | St John Ambulance等认可机构 | 可选 | 大多数安保公司的硬性要求 |
-| 无犯罪记录（National Police Check） | 澳联邦警察或州警察局 | 必备 | 安保执照申请的背景审查要求 |
+| Security Licence | State security licensing regulators (NSW SLED / VIC LSCT, etc.) | Required | Mandatory licensing requirement for all security workers in Australia |
+| Certificate II in Security Operations | TAFE / Registered Training Organisation (RTO) | Required | Prerequisite training qualification for a security licence application |
+| National Police Check (no criminal record) | Australian Federal Police or state police force | Required | Background check requirements for security licence applications |
+| First Aid/CPR Certificate | St John Ambulance and other recognised providers | Optional | A mandatory requirement for most security companies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 120,000。JSA预测安保职业就业至2030年增长约8%。大型活动恢复（体育/音乐节）、高密度城市商业发展和企业安全意识提升推动需求增长。具备双语能力（普通话/粤语）的安保人员在华人聚集区商业地产有独特优势。
+**Job demand: very high (★★★★★).** National workforce approx. 120,000. JSA predicts security employment to grow by around 8% until 2030. Demand is driven by the return of large events (sports/music festivals), high-density urban commercial development, and increased corporate security awareness. Security personnel with bilingual skills have a unique advantage in commercial real estate in areas with high population density.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,000~3,000 个 | 澳洲最大安保职业市场，全年在线岗位数量最多 |
-| Indeed | 800~2,500 个 | 含商场/写字楼/工地/活动等各类安保岗 |
-| LinkedIn | 500~1,500 个 | 企业安保经理和安全顾问管理岗 |
-
-**竞争度：很低（★☆☆☆☆）。**
-**工作强度：较高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级保安（0~2年） | $55,000~$72,000 | 基本时薪约 $25~$30/hr，夜班/周末有额外补贴 |
-| 有经验安保/班组长（2~6年） | $72,000~$92,000 | SEEK保安 $75k~$90k；Indeed均值 $36.94/hr（约 $76,835/年，2026） |
-| 安保主管/督察（4~10年） | $85,000~$110,000 | 安保督察/场地经理，含轮班津贴年薪约 $85k~$110k |
-| 企业安保经理（8年+） | $100,000~$150,000 | Corporate Security Manager；大型企业安保总监可达 $130k~$150k |
+| Median salary | $94,536 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior security officer (0–2 years) | $55,000~$72,000 | Base hourly rate approximately $25–$30/hr, with additional allowances for night shifts and weekends |
+| Experienced security officer / team leader (2–6 years) | $72,000~$92,000 | SEEK Security Guard $75k–$90k; Indeed average $36.94/hr (approx. $76,835/year, 2026) |
+| Security Supervisor/Inspector (4–10 years) | $85,000~$110,000 | Security Supervisor/Site Manager with shift allowance, approximately $85k–$110k per annum |
+| Corporate Security Manager (8+ years) | $100,000~$150,000 | Corporate Security Manager; security director at a large corporation can reach $130k–$150k |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲安保行业快速扩张（12万从业者，SEEK常年在线1,000+职位）。技术安全（CCTV监控/门禁系统）整合和安保人员的多技能要求（急救/消防监控）是行业趋势。企业安保经理（Corporate Security）是薪资最高的晋升方向，年薪可达 $100k~$150k。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
 
-- 企业安保经理（Corporate Security Manager）
-- 活动和场馆安全（体育/音乐活动）
-- 网络安全顾问（实体+数字融合安全）
-- 私人调查员（Licensed Investigator）
-- 夜间经济安保（酒吧/娱乐场所）
+Australia's security industry is expanding rapidly (120,000 workers, 1,000+ jobs listed on Seek at any time). Trends include integration of technical security (CCTV/access control) and multi-skilling (first aid/fire monitoring). Corporate Security Manager is the highest-paying career path, with annual salary up to $100k–$150k.
+
+**Tasks most exposed to AI:**
+
+- AI video surveillance automatically detects abnormal events and alerts
+- Automated visitor registration and identity verification systems replace manual registration
+- AI-driven patrol robots replacing fixed-route patrols
+
+**Where AI augments the role:**
+
+- AI video analysis assisting real-time threat assessment and decision-making
+- AI report generation tools quickly summarize event logs
+- AI voice assistant supports emergency response communication and coordination
+- AI training simulators improve exercise effectiveness
+
+**Human moat:**
+
+- On-site emergency judgment and crisis intervention ability
+- Interpersonal communication and persuasion with clients, visitors, and law enforcement
+- Legal compliance and licensing liability (e.g., use-of-force boundaries)
+- Risk assessment intuition in complex physical environments
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Basic cybersecurity knowledge (integration of physical security and IT)
+- Emergency communication and coordination software (e.g., Duress system).
+- Advanced training in conflict resolution and counter-terrorism awareness.
+- Data privacy regulations and compliance (Australian Privacy Act)
+- Digital reporting and visualization tools (e.g., Tableau)
+
+**Key growth areas:**
+
+- Corporate Security Manager
+- Event & Venue Safety (Sports/Music)
+- Cybersecurity Consultant (Physical+Digital Security)
+- Private Investigator (Licensed)
+- Night Economy Security (Bars/Entertainment Venues)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 大型安保公司（Securecorp/G4S/Wilson Security）雇主担保 |
-| Subclass 186（ENS） | 雇主担保永居，企业安保经理级别可申请 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需技能评估，邀请分数要求较高 |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship from large security companies (Securecorp/G4S/Wilson Security) |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; available at corporate security manager level |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, skills assessment required, with relatively high points threshold for invitation |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学安全官/保安？**
-- 持有或愿意立即申请澳洲安保执照（Security Licence），背景调查清白
-- 英语沟通能力基本达标，有急救证书（First Aid/CPR）
-- 有意向在商业地产密集区（悉尼/墨尔本CBD）或华人聚集区商场工作
-- 愿意接受轮班（夜班/周末），有能力应对偶发突发状况
-- 有长期职业发展计划（从保安→班长→督察→企业安保经理）
+**Who is suited**
+- Holds or is willing to immediately apply for an Australian Security Licence with a clear background check
+- Basic English communication skills, plus First Aid/CPR certificate
+- Interested in working in commercial real estate dense areas (Sydney/Melbourne CBD) or shopping malls in ethnic enclaves
+- Willing to work rotating shifts (nights/weekends) and capable of managing occasional urgent situations
+- Has a long-term career development plan (Security Officer → Supervisor → Inspector → Corporate Security Manager)
 
-**谁不适合学安全官/保安？**
-- 期望安保职业提供高起始薪资（初级保安薪资偏低）
-- 有犯罪记录（安保执照背景审查硬性排除条件）
-- 期望通过普通保安职业快速获得技术移民（非MLTSSL入门级，需晋升至主管级别）
+**Who is not suited**
+- Expecting security work to offer a high starting salary (entry-level security wages are relatively low)
+- Criminal record (a hard exclusion in security licence background checks)
+- Expecting to obtain skilled migration quickly through a general security officer role (not MLTSSL entry-level; promotion to supervisory level is required)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do security guards earn in Australia?**
+A: Entry-level security officers approximately $55,000–$72,000 (hourly rate $25–$30/hr, with night shift allowances); experienced security officers/supervisors approximately $72k–$92k (SEEK $75k–$90k; Indeed $76,835); corporate security managers approximately $100k–$150k.
+
+**Q: Is it easy to find work as a security guard in Australia?**
+A: Very easy. Seek consistently lists 1,000–3,000 positions online, making it one of the occupations with the most job opportunities in Australia. Those holding a security licence and first aid qualification can find employment almost immediately, making it one of the fastest pathways into the Australian labour market for new migrants.
+
+**Q: Is overseas security experience recognised in Australia?**
+A: Chinese security experience is helpful for job seeking, but Australian employers require a local Security Licence. Training takes approximately 2–4 weeks (Certificate II), and with a background check the licence can typically be obtained within 6–10 weeks. Basic English communication skills are sufficient to enter the field.
+
+**Q: Will security guards be replaced by AI?**
+A: Some will, some won't. AI surveillance (intelligent CCTV analysis/facial recognition) is replacing some fixed monitoring roles; however, physical patrols, visitor management, emergency response and on-site enforcement cannot be handled by AI. Moving into corporate security manager or security technology integration roles is an effective way to reduce AI displacement risk.
+
+**Q: Is there an age limit for security guards in Australia?**
+A: No specific upper age limit. Anyone aged 18 and over can apply for a security licence; experienced security professionals in the mid-to-senior age range (40–55) are highly sought after for corporate security manager positions. Physical fitness requirements vary by role, with seated (control room) positions having lower physical demands.
+
+**Q: What qualifications do security guards need in Australia?**
+A: No formal education requirement — a Certificate II in Security Operations (2–4 weeks of training) is sufficient to enter the role. A university degree (criminology/security management) assists progression to corporate security manager. Most critical are a State Security Licence and a first aid certificate.
+
+**Q: Can security guards migrate to Australia?**
+A: Entry-level security guard is not on MLTSSL, making general immigration difficult. Corporate security manager and security supervisor are feasible via employer-sponsored 482. Consider security as a starting point to gain work experience in Australia, then advance to supervisor/manager level before applying for PR through employer sponsorship.
+
+**Q: Which is easier to enter in the Australian job market — security or firefighting/policing?**
+A: Security is the easiest of the three to enter (2–4 weeks of training), offers the most job opportunities, and does not require citizenship/PR (private security work is open to work visa holders). Police and firefighters require citizenship/PR and are more competitive. It is recommended that new migrants start with security as a quick entry point into employment while planning a long-term PR pathway toward a career in policing or firefighting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 安保/保安薪资 $75k~$90k（2026） |
-| Indeed AU | 安保均值 $36.94/hr（约 $76,835/年，2026） |
-| Australian Security Industry Association Limited (ASIAL) | 澳洲安保行业标准和执照要求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 很低（★☆☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-安全官/保安属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲安保/保安工资多少？**
-答：初级保安约 $55,000~$72,000（时薪 $25~$30/hr，夜班额外补贴）；有经验安保/班长约 $72k~$92k（SEEK $75k~$90k；Indeed $76,835）；企业安保经理约 $100k~$150k。
-
-**问：澳洲保安容易找工作吗？**
-答：非常容易。SEEK常年在线1,000~3,000个职位，是澳洲就业机会最多的职业之一。持有安保执照和急救资质者几乎立即可就业，是新移民进入澳洲劳动力市场的最快路径之一。
-
-**问：中国安保经验澳洲认可吗？**
-答：中国安保经验对求职有帮助，但澳洲要求持有本地安保执照（Security Licence）。培训约2~4周（Certificate II），加背景审查约6~10周可取得执照。英语沟通能力达到基本要求即可入门。
-
-**问：保安会被AI替代吗？**
-答：部分会，部分不会。AI监控（CCTV智能分析/人脸识别）正在替代部分固定监控岗位；但人工巡逻、访客管理、应急处置和现场执法是AI无法完成的。向企业安保经理或安全技术整合方向发展可有效规避AI替代风险。
-
-**问：澳洲保安有年龄限制吗？**
-答：无明确年龄上限。18岁以上可申请安保执照；有丰富安保经验的中高年龄者（40~55岁）在企业安保经理岗位非常受欢迎。体能要求因岗位不同而异，坐式（控制室）岗位对体能要求较低。
-
-**问：澳洲保安需要什么学历？**
-答：无学历要求，Certificate II in Security Operations（2~4周培训）即可入职。有大学学历（犯罪学/安全管理）有助于晋升企业安保经理。最关键是安保执照（State Security Licence）和急救证书。
-
-**问：澳洲保安能移民吗？**
-答：入门保安不在MLTSSL，普通移民难度较高。企业安保经理和安保督察（Security Supervisor）通过雇主担保482可行。建议把安保作为在澳工作积累经验的起点，晋升至督察/经理级别后再通过雇主担保推进PR。
-
-**问：保安和消防员/警察哪个更容易进入澳洲就业市场？**
-答：保安是三者中进入门槛最低的（2~4周培训），就业机会最多，不需要公民/PR资格（持工作签证可从事私人安保）。警察和消防员需要公民/PR，竞争更激烈。建议新移民以保安作为快速就业起点，同时规划长期职业（警察/消防）的PR路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

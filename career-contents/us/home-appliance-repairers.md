@@ -1,61 +1,91 @@
-# Home Appliance Repairers（Home Appliance Repairers）职业分析 · 美国
+# Home Appliance Repairers — career analysis · United States
 
-**职业代码：49-9031 – Home Appliance Repairers。**
+**Occupation code: 49-9031 (SOC)**
 
-Repair, adjust, or install all types of electric or gas household appliances, such as refrigerators, washers, dryers, and ovens.
+Responsible for diagnosing, repairing, adjusting, or installing various electric or gas household appliances, such as refrigerators, washing machines, dryers, and ovens.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 社区大学证书或职业培训 | 1-2年 | $5,000~$20,000（学费因学校而异） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Community college certificate or vocational training | 1-2 years | $5,000~$20,000 (Tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EPA 第608节认证（制冷剂处理） | 美国环境保护署 | 必备 | 必须持有才能处理制冷剂 |
-| NASTEC或AHAM认证 | 北美技师卓越认证或美国家用电器制造商协会 | 可选 | 行业认可但非强制 |
-| 高中文凭或GED | 各州教育机构 | 必备 | 多数雇主要求 |
+| EPA Section 608 Certification (Refrigerant Handling) | US Environmental Protection Agency | Required | Must hold this to handle refrigerants |
+| High school diploma or GED | State education institutions | Required | Most employers require |
+| NASTEC or AHAM certification | North American Technician Excellence certification or Association of Home Appliance Manufacturers | Optional | Industry-recognized but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 26,400。家用电器日益复杂，但整体就业增长平稳，预计2023-2033年就业增长约5%，略低于平均水平。每年约5,700个岗位空缺，主要来自替换退休人员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 26,400. Home appliances are increasingly complex, but overall employment growth is steady, with about 5% growth projected from 2023-2033, slightly below average. About 5,700 job openings annually, mainly to replace retirees.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $31,000~$40,000 | 通常需在岗培训 |
-| 中级（3-7年） | $42,000~$55,000 | 多数维修工薪资中位数约45,000 |
-| 高级（7年以上） | $56,000~$70,000 | 需要认证和专业技能 |
+| Median salary | $50,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $31,000~$40,000 | Usually requires on-the-job training |
+| Mid-level (3–7 years) | $42,000~$55,000 | Median salary for most repair workers is about 45,000 |
+| Senior (7+ years) | $56,000~$70,000 | Requires certification and specialized skills. |
+| average salary | $56,040 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 常见晋升路径：从初级维修工到高级技师，再到服务经理或自行创业开设维修店；也可专注于特定品牌或智能家电维修。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will enhance diagnosis and scheduling efficiency, but physical repair and portability requirements make full automation difficult; entry-level roles become easier due to the proliferation of self-study resources, but competition intensifies.
+
+Common career progression: from junior repair technician to senior technician, then to service manager or starting own repair shop; also can specialize in specific brands or smart appliance repair.
+
+**Tasks most exposed to AI:**
+
+- Automatically diagnose common faults using smart sensors and AI algorithms
+- AI assistant that generates repair steps and parts lists
+- Automated appointment scheduling and client communication
+
+**Where AI augments the role:**
+
+- AI-assisted fault diagnosis improves first-time repair success rate
+- Augmented reality (AR) overlays maintenance guides to reduce errors
+- Predictive maintenance data helps in preventive repairs
+
+**Human moat:**
+
+- Manual troubleshooting ability for complex non-standard faults
+- Adapt on the spot to unforeseen issues
+- Build trust through face-to-face communication with clients
+- Multi-brand multi-model experience accumulation
+
+**Skills to build:**
+
+- Smart home appliance software and network diagnostics
+- Use AI diagnostic tools and AR devices
+- Data analysis basics (predictive maintenance)
+- Customer service and communication skills
+- Continuous learning of new appliance technologies
+
+**Key growth areas:**
 
 - IoT Appliances
 - Energy Efficiency
@@ -64,62 +94,64 @@ Repair, adjust, or install all types of electric or gas household appliances, su
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职业通常不需要学士学位 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招募到合格美国工人，路径困难 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as the occupation typically does not require a bachelor's degree |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to recruit qualified U.S. workers; path is difficult |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Home Appliance Repairers？**
-- 喜欢动手修理、解决故障的人
-- 愿意在住宅或商业场所现场服务
-- 希望获得稳定工作且不需要大学文凭
+**Who is suited**
+- Enjoys hands-on repair and troubleshooting.
+- Willing to provide on-site service at residential or commercial premises
+- Wants stable work without needing a university degree
 
-**谁不适合学Home Appliance Repairers？**
-- 不喜欢接触老旧电器或脏污环境
-- 不想处理客户投诉或不规律工作时间
+**Who is not suited**
+- Dislikes contact with old electrical appliances or dirty environments
+- People who don't want to handle customer complaints or irregular hours.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for home appliance repair technicians?**
+A: According to the U.S. Bureau of Labor Statistics, the median annual salary for this occupation in 2023 was about $45,000. Entry-level salaries range from $31,000 to $40,000, while senior roles can reach $56,000-$70,000, but income is generally below average in most regions.
+
+**Q: Can foreign electricians or repair workers immigrate to the US through work visas?**
+A: Very difficult. Home appliance repair technicians typically do not meet H-1B 'specialty occupation' requirements (need a bachelor's degree), and PERM green cards require proof of labor shortage, but the domestic labor supply for this occupation is sufficient, making employer sponsorship success rates extremely low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Home Appliance Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a home appliance repairer?**
-答：According to BLS, the median annual wage in 2023 was about $45,000. Entry-level earners make $31,000-$40,000, while experienced workers can earn $56,000-$70,000.
-
-**问：Can foreign electricians or repairers immigrate to the US via work visa?**
-答：Very difficult. This occupation is not a typical H-1B specialty occupation, and PERM labor certification is challenging due to sufficient domestic workforce.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

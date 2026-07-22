@@ -1,62 +1,98 @@
-# Aquaculture（Aquaculture）职业分析 · FR
+# Aquaculture — career analysis · France
 
-**职业代码：A1404 – Aquaculture。**
+**Occupation code: A1404 (ROME)**
 
-Cultivates and harvests fish, shellfish, and aquatic plants, managing water quality, feeding, and health in aquaculture farms for sustainable production.
+Engaged in the breeding, breeding, and harvesting of aquatic plants and animals such as fish, shellfish, and crustaceans, managing water quality, feed, and health in farms to ensure sustainable production.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 水产养殖 | 2年（CAP） | —（公立学校免费，学徒制有工资） |
-| BTS 水产养殖管理 | 2年（BTS） | —（公立学校免费，需自费注册费） |
-| Licence 水产养殖科学 | 3年（Licence） | $200~$5,000（公立大学注册费约200€/年，私立校较高） |
+| CAP aquaculture | 2 years (CAP) | $0~$3,000 (Public schools are free, and apprenticeships are paid) |
+| BTS Aquaculture Management | 2 Years (BTS) | $0~$5,000 (Public schools are free of charge, but a registration fee is self-paid) |
+| Licence Aquaculture Science | 3 years (Licence) | $200~$5,000 (The registration fee for public universities is about €200 per year, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 水产养殖 | 法国教育部 | 必备 | 入门级文凭，需通过理论实践考试 |
-| BTS 水产养殖管理 | 法国教育部 | 可选 | 中级文凭，可升学或直接就业 |
-| 养殖场健康与安全培训 | 法国农业与食品部 | 必备 | 涉及生物安全、兽药使用等法规，部分岗位强制 |
+| CAP aquaculture | French Ministry of Education | Required | Entry-level diplomas require passing a theoretical and practical exam |
+| Farm health and safety training | French Ministry of Agriculture and Food | Required | Regulations related to biosafety and veterinary drug use, some positions are mandatory |
+| BTS Aquaculture Management | French Ministry of Education | Optional | Intermediate diploma, available for further studies or direct employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。法国水产养殖业受环保法规和进口竞争影响，就业增长缓慢。但有机养殖和循环水系统等新技术带来 niche 机会，岗位多集中于布列塔尼、地中海沿岸。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. France's aquaculture industry is affected by environmental regulations and import competition, resulting in slow employment growth. However, new technologies such as organic farming and circulating water systems create niche opportunities, with positions mostly concentrated in Brittany and along the Mediterranean coast.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 含奖金，税前年薪 |
-| 中级（4-7年） | $26,000~$32,000 | 含奖金，税前年薪 |
-| 高级（8年以上） | $33,000~$40,000 | 含奖金，税前年薪 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Including bonuses and pre-tax annual salary |
+| Mid-level (4-7 years) | $26,000~$32,000 | Including bonuses and pre-tax annual salary |
+| Senior (8+ years) | $33,000~$40,000 | Including bonuses and pre-tax annual salary |
+| average salary | $25,224 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级养殖工可晋升为养殖场主管或技术经理，也可转向质检、研发或顾问岗位。需持续学习生物技术、水质管理知识。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
+
+Junior breeders can be promoted to farm supervisors or technical managers, or move into quality inspection, R&D, or consulting roles. Continuous learning in biotechnology and water quality management is required.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding system replaces manual scattering
+- Drone/underwater robot inspection of cages replaces manual patrols
+- Water quality sensors automatically monitor, replacing manual sampling
+- Automated sorting and counting systems replace manual sorting
+- Robotic arms replacing manual net pulling in fishing operations
+
+**Where AI augments the role:**
+
+- Data analysis tools assist in optimizing breeding density and feeding strategies
+- Remote sensing and GIS technology enhance sea area site selection and disaster warning
+- Machine vision aids early disease identification, improving diagnostic accuracy
+- Automated record-keeping systems improve production ledger management efficiency
+- Predictive models assist in weather and market supply-demand forecasting.
+
+**Human moat:**
+
+- Equipment maintenance and troubleshooting in complex environments
+- Empirical diagnosis of sudden illnesses or abnormal behaviors
+- Government/community communication and compliance management
+- On-site decision-making for biosafety and emergency response
+- Fine manual operations such as parent selection and surgical tagging
+
+**Skills to build:**
+
+- Automated farming system operation and maintenance
+- Basic troubleshooting of sensors and IoT devices
+- Basic data analysis and visualization
+- Drone/underwater robot operation
+- Aquatic disease diagnosis and biosecurity knowledge
+- Sustainable aquaculture regulations and certification standards
+
+**Key growth areas:**
 
 - sustainable aquaculture
 - organic fish farming
@@ -65,66 +101,68 @@ Cultivates and harvests fish, shellfish, and aquatic plants, managing water qual
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Temporary Worker - Salarié） | 需雇主提供工作合同，通过法国劳工部审核，证明无欧盟候选人胜任 |
-| Subclass Passeport Talent（Talent Passport - Qualified Employee） | 适用于硕士以上或高技能岗位，合同薪资≥2倍SMIC，简化行政手续 |
-| Subclass Recherche emploi（Job Search - Researcher or Graduate） | 法国毕业学生可申请12个月临时居留，找工作或创业 |
+| Subclass Salarié (Temporary Worker - Salarié) | Employers must provide a work contract that has passed review by the French Ministry of Labor to prove that no EU candidates are qualified |
+| Subclass Passeport Talent (Talent Passport - Qualified Employee) | Suitable for master's degree holders or above or high-skilled positions, contract salary ≥ twice SMIC's, simplifying administrative procedures |
+| Subclass Recherche emploi (Job Search - Researcher or Graduate) | French graduates can apply for a 12-month temporary residence to find work or start a business |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aquaculture？**
-- 热爱户外和体力工作
-- 对水生生物和生态感兴趣
-- 能接受季节性工作和不稳定收入
+**Who is suited**
+- Passionate about the outdoors and physical work
+- Interested in aquatic life and ecology
+- Able to accept seasonal work and unstable income
 
-**谁不适合学Aquaculture？**
-- 偏好办公室工作和稳定职业
-- 对化学药品和鱼类气味敏感
+**Who is not suited**
+- Preference for office work and stable careers
+- Sensitive to chemicals and fish odors
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary in the aquaculture industry in France?**
+A: Junior: approximately €20,000–25,000; mid-level: €26,000–32,000; senior: €33,000–40,000 (pre-tax annual salary). Income depends on farmed species, company size, and region.
+
+**Q: How can third-country citizens immigrate to France through aquaculture?**
+A: The mainstream path is to apply for Salarié work residency, which requires employer sponsorship and proof of hiring difficulties. Passeport Talent is suitable for high-skilled positions (such as aquatic engineers), with salaries ≥ twice SMIC.
+
+**Q: What career development opportunities are available in the aquaculture industry?**
+A: They can be promoted from aquaculture worker to farm manager, technical manager, or shift to aquatic product quality inspection, sales, research and development, environmental consulting, and other directions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aquaculture属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for aquaculture in France?**
-答：Entry-level €20k-25k, mid-level €26k-32k, senior €33k-40k gross annually, depending on species, company size, and region.
-
-**问：How can third-country nationals migrate to France through aquaculture?**
-答：Main route is Salarié work permit with employer sponsorship and labor market test. Passeport Talent for skilled roles (e.g., aquaculture engineer) with salary ≥2x SMIC.
-
-**问：What career progression exists in aquaculture?**
-答：From farm worker to manager or technical director, or pivot to quality control, sales, R&D, or environmental consulting.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

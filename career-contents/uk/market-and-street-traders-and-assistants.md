@@ -1,59 +1,94 @@
-# Market and street traders and assistants（Market and street traders and assistants）职业分析 · UK
+# Market and street traders and assistants — career analysis · United Kingdom
 
-**职业代码：7124 – Market and street traders and assistants。**
+**Occupation code: 7124 (SOC)**
 
-Sell goods (other than refreshments) from stalls, barrows and other portable containers in streets and market places.
+People who sell goods (not food) from stalls, carts, etc. on streets or in markets, including stallholders and assistants.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无特定要求 | — | —（通常无需正式教育，经验积累为主） |
+| No specific requirements | — | $0~$0 (Usually no formal education required, mainly experience-based) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书（若涉及食品） | Chartered Institute of Environmental Health | 必备 | 出售预包装食品需持有基础食品卫生证书 |
-| 街头贸易许可证 | 当地市政厅 | 必备 | 需向当地政府申请许可证，费用因地而异 |
+| Food handler certificate (if handling food) | Chartered Institute of Environmental Health | Required | Selling pre-packaged food requires a basic food hygiene certificate |
+| Street trading license | Local municipal council | Required | Need to apply for a permit from local government, fees vary by location |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。英国零售业受电子商务冲击，实体市场摊位需求缓慢增长，但旅游城市和周末市场仍有一定机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. The UK retail industry is impacted by e-commerce, with slow growth in physical market stall demand, but there are still opportunities in tourist cities and weekend markets.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（助理，0-2年） | $14,000~$18,000 | 助理通常按小时计薪 |
-| 中级（独立摊主，3-5年） | $18,000~$25,000 | 收入取决于摊位位置和商品类型 |
-| 高级（多摊位经营者，5年以上） | $25,000~$35,000 | 管理多个摊位或高利润商品 |
+| Median salary | $21,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (assistant, 0-2 years) | $14,000~$18,000 | Assistants are usually paid by the hour |
+| Intermediate (independent operator, 3-5 years) | $18,000~$25,000 | Income depends on stall location and product type |
+| Advanced (multi-stall operator, over 5 years) | $25,000~$35,000 | Manage multiple stalls or high-profit products |
+| average salary | $27,726 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从助理晋升为独立摊主，或转向线上销售结合实体摊位经营。部分摊主可能扩大至多个市场摊位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Market and street vendor and assistant roles face significant automation risk; digital payments, self-checkout, and mobile commerce are replacing traditional transaction steps, entry-level jobs are reducing, and workers need to shift to service differentiation or online channels.
+
+Can advance from assistant to independent stall owner, or shift to online sales combined with physical stall operations. Some stall owners may expand to multiple market stalls.
+
+**Tasks most exposed to AI:**
+
+- Merchandise transaction and checkout: self-checkout machines, mobile payments (e.g., scan-to-pay) replace manual cashier
+- Inventory count: computer vision and RFID automatically count goods without manual counting
+- Price tagging: electronic shelf label system automatically updates prices, replacing handwritten or printed labels
+- Customer guidance: self-service kiosks or map apps reduce need for directions, digital stall layout
+- Promotional calls: location-based electronic coupons replace verbal solicitation
+
+**Where AI augments the role:**
+
+- Customer relationship management: AI analyzes purchase history to recommend cross-selling, enhancing ability to remember regular customers' preferences
+- Dynamic pricing: automatically adjust prices based on weather, time, and foot traffic to assist stallholder decisions
+- Assortment optimisation: AI analyses sales data and trends to suggest more profitable product combinations
+- Marketing content generation: Use AI to quickly create social media posters and product descriptions to attract online traffic
+- Real-time language translation: smart devices assist communication with foreign tourists, expanding potential customer base
+
+**Human moat:**
+
+- The warmth of interpersonal interaction: face-to-face communication at stalls, human touch, and trust are hard to replicate with algorithms
+- Unstructured commodity handling: agricultural product quality assessment, freshness perception, etc., rely on sensory experience.
+- Impromptu creative display: arrange visual merchandising based on venue, foot traffic, and atmosphere to reflect personal style
+- On-site negotiation: flexibly adjust pricing based on customer expressions, tone, and other micro-dynamics
+- Community belonging: the emotional bonds and social network value formed between long-term stallholders and surrounding residents
+
+**Skills to build:**
+
+- Social media marketing and content creation (driving traffic via TikTok, Instagram, etc.)
+- Basic Data Analysis (Sales Trends, Customer Preference Analysis, Using Excel or Lightweight AI Tools)
+- Digital payment and e-commerce platform operations (opening online stores, managing inventory synchronization)
+- Customer Experience Design (personalized service, membership management techniques)
+- Visual merchandising skills (efficiently designing displays using AI tools)
+
+**Key growth areas:**
 
 - seasonal work
 - tourist markets
@@ -62,65 +97,67 @@ Sell goods (other than refreshments) from stalls, barrows and other portable con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业不在可担保职业列表中，无法申请技术工人签证 |
-| Subclass Graduate（Graduate visa） | 毕业生可从事任何工作，但该职业难以通过此路径转为长期签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the list of eligible occupations, so cannot apply for a skilled worker visa |
+| Subclass Graduate (Graduate visa) | Graduates can take any job, but this occupation is difficult to convert into a long-term visa through this pathway. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Market and street traders and assistants？**
-- 喜欢与人交流、适应户外工作的人
-- 有创业意愿、愿意自营小生意的人
-- 能承受季节性收入波动的人
+**Who is suited**
+- People who enjoy communicating and working outdoors
+- People with entrepreneurial spirit and willing to run their own small business
+- Those who can handle seasonal income fluctuations
 
-**谁不适合学Market and street traders and assistants？**
-- 追求稳定收入和固定工作时间的人
-- 不擅长体力劳动和长时间站立工作的人
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- People not suited for physical labor and prolonged standing work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a market stall holder?**
+A: Entry-level assistant annual salary around £14,000-18,000; independent stallholder income varies widely, median around £20,000, high-margin products up to £35,000.
+
+**Q: Can non-UK residents immigrate to the UK through this occupation?**
+A: No. This occupation is not on the eligible skilled occupation list for skilled worker visas and has no employer-sponsored migration pathway.
+
+**Q: How to advance from marketing assistant to independent stall owner?**
+A: Usually need to gain experience, understand supply chain and customer preferences, and apply for a local market stall permit. Some stallholders supplement sales through online channels.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Market and street traders and assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for market traders?**
-答：Entry-level assistants earn around £14,000-£18,000 per year, while independent traders vary widely, with a median around £20,000 and high-profit goods reaching £35,000.
-
-**问：Can non-UK residents immigrate through this occupation?**
-答：No. This occupation is not on the eligible list for Skilled Worker visas, and there is no employer-sponsored immigration route.
-
-**问：How to progress from an assistant to an independent trader?**
-答：Typically accumulate experience, understand supply chains and customer preferences, and apply for a local market pitch license. Some traders supplement sales through online channels.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

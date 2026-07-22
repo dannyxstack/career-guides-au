@@ -1,60 +1,92 @@
-# Construction Carpenter（Construction Carpenter）职业分析 · DE
+# Construction Carpenter — career analysis · Germany
 
-**职业代码：3333 – Construction Carpenter。**
+**Occupation code: 3333 (KldB)**
 
-Construction carpenters in Germany fabricate and install wooden structural elements such as frames, roofs, and floors, playing a key role in the construction industry.
+A construction carpenter in Germany is responsible for the fabrication and installation of wooden components in building structures, including frames, roofs, floors, etc., and is one of the core trades in the construction industry.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间获得津贴，企业承担部分学费） |
-| 木工大师培训 | 1-2年（兼职） | $5,000~$15,000（考前准备课程与考试费用） |
+| Dual vocational training | 3 years | $0~$500 (Receive allowance during training, with the enterprise covering part of tuition fees) |
+| Carpentry master training | 1-2 years (part-time) | $5,000~$15,000 (Pre-exam preparation courses and exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工资格证书 | 德国工商业行会 | 必备 | 完成双元制培训后获得 |
-| 木工大师证书 | 德国手工业行会 | 可选 | 允许独立经营并带徒 |
+| Carpentry certificate. | German Chamber of Commerce and Industry | Required | Obtained after completing dual system training |
+| Master Carpenter Certificate. | German Chambers of Crafts and Trades | Optional | Allows independent operation and taking on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。德国建筑业持续发展，对建筑木工需求稳定。住房建设与旧房翻新项目保持增长，熟练木工长期紧缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. The German construction industry continues to develop, with stable demand for construction carpenters. Housing construction and renovation projects are growing, skilled carpenters are in chronic shortage, and employment prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于地区和公司 |
-| 中级（3-7年） | $35,000~$45,000 | 经验丰富后薪资提升 |
-| 高级（7年以上） | $45,000~$55,000 | 工头或大师级别可达更高 |
+| Median salary | $41,196 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, depending on location and company |
+| Mid-level (3–7 years) | $35,000~$45,000 | Salary increases with experience |
+| Senior (7+ years) | $45,000~$55,000 | Foreman or master level can achieve higher pay. |
+| average salary | $43,344 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从熟练工晋升为工头或项目经理，通过继续教育成为木工大师或建筑技术员，也可自雇经营木工作坊。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Carpenter roles face high automation risk; AI-driven design software and digital manufacturing will compress traditional manual measuring, cutting, and repetitive assembly tasks, but on-site custom installation and structural repair still rely on humans.
+
+Can progress from skilled worker to foreman or project manager, become a master carpenter or building technician through continuing education, or be self-employed running a joinery workshop.
+
+**Tasks most exposed to AI:**
+
+- Generate cutting diagrams and material lists automatically through AI design software, replacing manual measurement and calculation
+- CNC equipment replaces manual cutting and repetitive machining
+- Prefabricated building components (e.g., modular walls) reduce on-site assembly work
+- Laser scanning and BIM technology replace traditional layout and positioning
+
+**Where AI augments the role:**
+
+- AI-assisted design tools (e.g., SketchUp + AI plugins) accelerate complex structural design.
+- AR/VR technology assists on-site installation guidance, improving accuracy
+- Construction management platforms automatically optimize material use and project scheduling.
+- AI-driven quality inspection system improves product consistency
+
+**Human moat:**
+
+- Customized installation and adjustment capability in complex on-site environments
+- Comprehensive judgment of wood properties, joinery techniques, and structural mechanics
+- Skills for handling irregular structures and repairs in old buildings
+- Ability to communicate directly with clients and understand personalized needs
+
+**Skills to build:**
+
+- Proficient in BIM and 3D modeling software (e.g., Revit, SketchUp)
+- Learn CNC programming and digital manufacturing technology
+- Familiar with prefabricated building component installation
+- Master basic programming (e.g., Python) for automation tool integration
+- Improve project management and client communication skills
+
+**Key growth areas:**
 
 - Renewable energy construction
 - Timber construction
@@ -63,65 +95,64 @@ Construction carpenters in Germany fabricate and install wooden structural eleme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于完成德国认可职业培训的外国技术工人 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许寻找工作或试工 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to foreign skilled workers who have completed recognized vocational training in Germany |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking or trial work |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Carpenter？**
-- 喜欢动手操作，体力好
-- 注重细节，有空间想象力
-- 愿意在户外及建筑工地工作
-
-**谁不适合学Construction Carpenter？**
-- 对体力劳动有顾虑
-- 不喜欢户外工作环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on and physically fit.
+- Detail-oriented, with spatial imagination
+- Willing to work outdoors and on construction sites
+
+**Who is not suited**
+- Concerns about physical labor
+- Dislikes outdoor work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a construction carpenter in Germany?**
+A: Junior approx. 28,000-35,000 EUR, mid-level 35,000-45,000 EUR, senior up to 45,000-55,000 EUR.
+
+**Q: How can Chinese woodworkers immigrate to Germany?**
+A: Must complete German-recognized vocational training or obtain qualification recognition; can apply for a Skilled Worker visa after securing a job contract.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Construction Carpenter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a construction carpenter in Germany?**
-答：Entry-level approximately €28,000-€35,000, mid-level €35,000-€45,000, senior up to €45,000-€55,000.
-
-**问：How can a Chinese carpenter emigrate to Germany?**
-答：Must complete recognized vocational training or have qualifications formally recognized, then obtain a job offer to apply for a skilled worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

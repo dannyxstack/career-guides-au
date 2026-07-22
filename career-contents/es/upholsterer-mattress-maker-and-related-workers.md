@@ -1,59 +1,92 @@
-# Upholsterer, Mattress Maker and Related Workers（Upholsterer, Mattress Maker and Related Workers）职业分析 · ES
+# Upholsterer, Mattress Maker and Related Workers — career analysis · Spain
 
-**职业代码：7835 – Upholsterer, Mattress Maker and Related Workers。**
+**Occupation code: 7835 (CNO)**
 
-Responsible for upholstering furniture and manufacturing mattresses, including spring assembly, padding, stitching, and repair tasks in a traditional craft trade.
+Responsible for furniture upholstery and mattress manufacturing and maintenance, including spring installation, filling, sewing, and other processes, which belong to traditional handicrafts.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio (中等职业培训) | 2年 | $500~$2,000（公立学校学费低廉，约500-1000欧元/年；私立约2000欧元/年） |
+| FP Grado Medio (Secondary Vocational Training) | 2 years | $500~$2,000 (Public school tuition is low, about 500-1000 euros per year; Private tuition costs about 2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业培训文凭（Técnico en Tapizado） | 西班牙教育部认可的FP学校 | 可选 | 非强制，但有助于就业 |
-| 工作经验认证 | 西班牙劳工部 | 可选 | 可通过累计工作经验获得认证 |
+| Secondary Vocational Training Diploma (Técnico en Tapizado) | FP schools recognized by the Spanish Ministry of Education | Optional | Not mandatory, but helpful for employment |
+| Work experience credential assessment | Spanish Ministry of Labor | Optional | Certification can be obtained through accumulated work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,200。西班牙家具制造业规模稳定，但受进口冲击较大，软包工需求缓慢增长。定制家具和修复业务提供一定机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,200. Spain's furniture manufacturing sector is stable in scale but is heavily impacted by imports, causing slow growth in demand for soft packaging workers. Custom furniture and restoration businesses offer certain opportunities.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年收入，取决于地区和雇主 |
-| 中级（3-8年） | $20,000~$26,000 | 经验丰富者可获得更高薪资 |
-| 高级（8年以上或自主创业） | $26,000~$35,000 | 自主创业收入可能更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual income depends on the region and employer |
+| Mid-level (3–8 years) | $20,000~$26,000 | Experienced workers can earn higher salaries |
+| Senior (over 8 years or self-employed) | $26,000~$35,000 | Entrepreneurial income may be higher |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从学徒或FP中等职业教育起步，晋升为工头、质量控制员或自主开设软包工坊。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Traditional manual jobs such as uptight furniture and mattress manufacturing are heavily influenced by AI and automation. Many repetitive sewing and filling tasks can be replaced by machines, requiring practitioners to shift toward customization, high-end repair, and smart furniture.
+
+You can start as an apprentice or a secondary vocational education for FP, and be promoted to foreman, quality controller, or to run your own soft packaging workshop.
+
+**Tasks most exposed to AI:**
+
+- Standard spring installation and filling process (completed automatically by machine)
+- Simple fabric cutting and sewing (replacing CNC cutting and automatic sewing machines)
+- Mattress edge sewing (replaced by automated edge surfacing machines)
+- Repetitive nailing and banding operations (pneumatic tools and robots collaborate to complete the process)
+
+**Where AI augments the role:**
+
+- Customized pouch design using 3D scanning and modeling (reducing measurement errors)
+- AI-assisted material layout optimization reduces waste (calculates the best cutting plan)
+- Smart mattress pressure distribution analysis (sensor + algorithm feedback, manual adjustment guidance)
+- Remote diagnostic repair guidance (AR glasses + AI fault database, assisting complex repairs)
+
+**Human moat:**
+
+- Hand carving of high-end custom furniture and experience in complex curved surfaces and veneer
+- Wood identification and traditional craftsmanship restoration capabilities in antique furniture restoration
+- Customer communication and on-site measurement with a touch of warmth and flexibility
+- Creative design and handcrafted realization of non-standardized, irregularly shaped furniture
+
+**Skills to build:**
+
+- 3D modeling software (such as Blender/SolidWorks) is used for custom design
+- CNC cutting bed/automatic sewing machine operation and programming
+- Installation and commissioning of smart furniture systems (such as electric adjustment and massage modules).
+- Use and fault diagnosis of AR-assisted repair tools
+- Knowledge of eco-friendly materials and new fillers (such as memory foam and honeycomb structures).
+- Basic project management and client quotation skills (required for small studios)
+
+**Key growth areas:**
 
 - Furniture repair
 - Custom upholstery
@@ -62,61 +95,63 @@ Responsible for upholstering furniture and manufacturing mattresses, including s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit as an employee） | 需西班牙公司担保，提供工作合同，证明职位无法由本地人填补。 |
+| Subclass Cuenta ajena (Work permit as an employee) | A Spanish company must provide a guarantee and a job contract proving that the position cannot be filled by a local resident. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Upholsterer, Mattress Maker and Related Workers？**
-- 动手能力强、喜欢传统手工艺的人
-- 对家具维修和定制有兴趣的人
-- 愿意接受职业培训或学徒制的人
+**Who is suited**
+- Strong hands-on skills and a fondness for traditional handicrafts
+- For those interested in furniture repair and customization
+- Those willing to undergo vocational training or apprenticeships
 
-**谁不适合学Upholsterer, Mattress Maker and Related Workers？**
-- 追求高薪和高社会认可度的人
-- 希望快速晋升或转向管理岗位的人
+**Who is not suited**
+- People who pursue high salaries and high social recognition
+- People who want a quick promotion or transition to management roles
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for contractors in Spain?**
+A: Beginner level is about 16,000-20,000 euros, intermediate level 20,000-26,000 euros, and senior or self-employed entrepreneurs can earn up to 35,000 euros.
+
+**Q: Can foreigners immigrate to Spain through the soft contractor occupation?**
+A: It's very difficult. This occupation is not considered a high-skilled or in-demand occupation, and the market is small; employers need to prove that suitable candidates cannot be recruited locally.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Upholsterer, Mattress Maker and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for upholsterers in Spain?**
-答：Entry-level: €16,000-20,000; mid-level: €20,000-26,000; senior/self-employed: up to €35,000.
-
-**问：Can foreigners immigrate to Spain as upholsterers?**
-答：Very difficult. This occupation is not high-skilled nor in shortage, and employers must prove no local candidates.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Other Public Administration Support Professionals for Inspection and Control Tasks（Other Public Administration Support Professionals for Inspection and Control Tasks）职业分析 · ES
+# Other Public Administration Support Professionals for Inspection and Control Tasks — career analysis · Spain
 
-**职业代码：3629 – Other Public Administration Support Professionals for Inspection and Control Tasks。**
+**Occupation code: 3629 (CNO)**
 
-Support professionals in Spanish public administration performing inspection, control, and similar tasks, including regulatory support in tax, customs, environment, and labor fields.
+Auxiliary professionals in the Spanish public administration who perform inspection, control, and similar tasks, including regulatory support in areas such as taxation, customs, environment, and labor.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Superior） | 2年 | —（公立中心免费或低学费） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学学费，视地区和专业） |
+| Intermediate Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public centers offer free or low tuition) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public university tuition fees vary by region and major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级技师（Técnico Superior）文凭 | 教育部认可的FP中心 | 可选 | 完成FP Grado Superior后获得 |
-| 大学学位（Grado） | 西班牙大学 | 可选 | 非强制但有利于晋升 |
-| 公共招聘考试（Oposición） | 西班牙公共行政机构 | 必备 | 部分岗位需通过竞争性考试 |
+| Public Recruitment Exam (Oposición) | Spanish public administration | Required | Some positions require passing competitive exams |
+| Técnico Superior diploma | FP centers recognized by the Ministry of Education | Optional | Obtained after completing FP Grado Superior |
+| University Degree (Grado) | Spanish University | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。西班牙公共行政检查与控制的辅助专业人员需求稳定，受政府招聘计划和退休替换影响。由于公共部门效率提升和数字化，岗位增长有限，但流动性低。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The demand for auxiliary professionals in Spain's public administration inspection and control is stable, influenced by government recruitment programs and retirement replacements. Due to improved efficiency and digitalization in the public sector, job growth is limited, but mobility is low.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，含补贴 |
-| 中级（3-10年） | $24,000~$32,000 | 税前年薪，视资历和岗位 |
-| 高级（10年以上） | $32,000~$42,000 | 税前年薪，含长期服务补贴 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual salary before tax, including allowances |
+| Intermediate (3-10 years) | $24,000~$32,000 | Pre-tax annual salary depends on seniority and position |
+| Senior (10+ years) | $32,000~$42,000 | Pre-tax annual salary, including long-term service subsidies |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径通常从辅助岗位起步，通过内部晋升或公开考试（oposición）转为正式检查员或技术员。也可通过积累经验转向更专业的监管领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Most of the documentation and on-site inspection tasks of standards and regulations inspectors can be automated by AI, leading to a significant reduction in job demand, but legal authorization and on-site judgment still require human roles.
+
+Career development paths typically start in auxiliary positions, transitioning through internal promotion or public examinations (oposición) to become formal inspectors or technicians. You can also gain experience and move into more specialized regulatory fields.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate compliance reports and anomaly markers
+- Automatically identify construction site violations through computer vision
+- Automated comparison of regulatory clauses with field records based on historical data
+- Automated meter reading and standard threshold verification
+- Generate regulatory update summaries and push them to relevant personnel
+
+**Where AI augments the role:**
+
+- Use AI to quickly analyze on-site photos and videos to assist in compliance assessment
+- Uses natural language processing to quickly retrieve latest regulations and link cases.
+- Using predictive models to identify high-risk inspection sites or industries
+- Smart wearable devices provide real-time guidance on inspection steps and record evidence
+- Collaborating with AI to generate proposals, improving report professionalism
+
+**Human moat:**
+
+- On-site judgment of complex violations (e.g., subtle cases of electrical safety hazards)
+- Human credibility in legal accountability and courtroom testimony.
+- Communication skills for handling owner complaints and negotiating remediation plans
+- Flexible interpretation for non-standard buildings or innovative designs
+- Ethical decision-making and emergency handling involving public safety
+
+**Skills to build:**
+
+- Data Analysis and AI Tool Operation
+- Specific applications of computer vision in inspection
+- Legal database search and knowledge management
+- Human-Machine Collaboration Communication and Reporting Optimization
+- Foundations of risk assessment and predictive modeling
+- Digital evidence recording and blockchain-based proof of existence technology
+
+**Key growth areas:**
 
 - Public sector
 - Regulatory compliance
@@ -64,62 +100,64 @@ Support professionals in Spanish public administration performing inspection, co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇工作居留，需雇主担保，适用于公共行政岗位，但竞争激烈且需通过考试。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 求职签证，允许在西班牙居留寻找工作，但公共行政岗位通常要求西班牙国籍或欧盟公民身份。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence requires employer sponsorship, applicable to public administration positions, but competition is fierce and an exam is required. |
+| Subclass Búsqueda de empleo (Job Search Visa) | Job seeker visas allow you to stay in Spain and look for work, but public administration positions usually require Spanish nationality or EU citizenship. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Public Administration Support Professionals for Inspection and Control Tasks？**
-- 喜欢稳定的公共部门工作环境
-- 对法规和行政流程有耐心
-- 愿意通过公开考试获得职位
+**Who is suited**
+- Prefer a stable public sector work environment
+- Be patient with regulations and administrative processes
+- Willing to obtain positions through public examinations
 
-**谁不适合学Other Public Administration Support Professionals for Inspection and Control Tasks？**
-- 期望快速晋升和高收入
-- 不愿接受冗长的招聘流程
+**Who is not suited**
+- Expect rapid promotion and high income
+- Unwilling to endure lengthy recruitment processes
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Auxiliary Public Administration Inspectors in Spain?**
+A: Entry-level positions earn about €18,000–24,000 before tax, while senior positions can earn up to €42,000, plus stable benefits.
+
+**Q: How can foreigners enter the field of public administration inspection in Spain?**
+A: Most positions require Spanish nationality or EU citizenship; non-EU citizens usually need to obtain a Cuenta ajena work visa, but competition is fierce and an exam is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Other Public Administration Support Professionals for Inspection and Control Tasks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for public administration inspection support professionals in Spain?**
-答：Entry-level positions have a gross annual salary of around €18,000-24,000, while senior roles can reach €42,000, plus stable benefits.
-
-**问：How can foreigners enter the public administration inspection field in Spain?**
-答：Most positions require Spanish or EU citizenship; non-EU citizens typically need a 'Cuenta ajena' work visa, but competition is high and exams are required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Winemaker（Winemaker）职业分析 · ES
+# Winemaker — career analysis · Spain
 
-**职业代码：2427 – Winemaker。**
+**Occupation code: 2427 (CNO)**
 
-Winemakers manage grape harvest, fermentation, aging, and bottling to ensure consistent quality and style. They apply microbiology, chemistry, and sensory analysis skills, common in La Rioja, Ribera del Duero, and other Spanish wine regions.
+Winemakers are responsible for the entire process of grape harvesting, fermentation, aging, and bottling, ensuring consistent product quality and style. It requires mastery of microbiology, chemistry, and sensory analysis skills, commonly found in Spain's regions such as Rioja and Ribeira.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 4年（Grado） | $1,000~$3,000（公立大学年学费约1000-3000欧元，私立更高） |
-| 高级职业培训 | 2年（FP Grado Superior） | $500~$2,000（年学费约500-2000欧元，侧重实践） |
+| Bachelor's degree | 4 years (Grado) | $1,000~$3,000 (Annual tuition at public universities is about 1,000–3,000 euros, while private universities are even higher) |
+| Advanced vocational training | 2 years (FP Grado Superior) | $500~$2,000 (Annual tuition is about 500-2000 euros, focusing on practical experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 葡萄栽培与酿酒学学士 | 西班牙公立大学 | 必备 | 如Universidad de La Rioja、Universidad de Cádiz |
-| 高级职业培训文凭 | FP Grado Superior | 可选 | 如Técnico Superior en Vitivinicultura |
+| Bachelor of Viticulture and Oenology | Public universities in Spain | Required | For example, Universidad de La Rioja and Universidad de Cádiz |
+| Advanced Vocational Training Diploma | FP Grado Superior | Optional | For example, Técnico Superior en Vitivinicultura |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。西班牙是全球第三大葡萄酒生产国，出口持续增长。随着精品酒庄和国际市场需求扩大，优秀酿酒师需求稳定。但竞争激烈，需兼具技术与管理能力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Spain is the world's third-largest wine producer, with exports continuing to grow. With expanding demand from boutique wineries and international markets, the demand for outstanding winemakers remains stable. However, competition is fierce and requires both technical and managerial skills.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：季节性较强（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含社会保障 |
-| 中级（3-7年） | $30,000~$45,000 | 税前，视酒庄规模和产区 |
-| 高级（7年以上） | $50,000~$80,000 | 酒庄技术总监或知名酿酒师 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including social security |
+| Mid-level (3–7 years) | $30,000~$45,000 | Pre-tax, depending on the size of the winery and the region |
+| Senior (7+ years) | $50,000~$80,000 | The winery's technical director or a renowned winemaker |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 起点为酒庄助理或采收季临时工，积累经验后可晋升为酿酒师、技术总监，或成为酒庄合伙人/独立顾问。部分人转向葡萄酒教育或国际贸易。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on winemakers is mixed: analysis and monitoring tasks can be automated, but winemaking decisions rely on senses and experience, and human moats are deep. Entry-level positions are slightly narrower due to the widespread use of data tools, while senior positions are more valuable.
+
+Starting as a winery assistant or harvest season temporary, with experience leading to promotion to winemaker, technical director, or winery partner/independent consultant. Some have turned to wine education or international trade.
+
+**Tasks most exposed to AI:**
+
+- Parameters such as temperature and density during the wine fermentation process are automatically monitored and alarmed
+- Yield and quality forecasting analysis based on historical data
+- Quality inspections on the bottling line, such as liquid level and label adhesion, and other visual inspections
+- Text generation of basic sensory analysis reports, such as descriptive statistical analysis
+
+**Where AI augments the role:**
+
+- AI models can quickly analyze large amounts of vineyard sensor data to optimize harvest times
+- Machine learning recommends the optimal allocation ratio, shortening the experimental cycle
+- The AI tasting assistance system provides aroma substance analysis to improve consistency
+- An intelligent inventory management system forecasts market demand and guides aging plans
+- Digital twin technology simulates mixed schemes from different years, assisting in style decisions
+
+**Human moat:**
+
+- Shaping and making decisions based on personal experience in body style
+- Intuitive perception and judgment of the vineyard's microclimate and soil
+- Consumer taste insights and new product development ideas
+- Brand story shaping and winery culture inheritance, among other cultural elements
+- Risk decisions, such as assessing harvest ripeness under extreme weather
+
+**Skills to build:**
+
+- Data analysis and statistical tools (Python/R) are used for interpreting vineyard data
+- AI tool applications (such as machine learning classification, regression models)
+- Basic knowledge of sensors and the Internet of Things (IoT)
+- Digital tasting tool operation and data annotation
+- Interdisciplinary Communication (Collaborating with Data Scientists)
+- Continuous learning awareness, keeping pace with intelligent brewing technology
+
+**Key growth areas:**
 
 - Quality wine
 - Export growth
@@ -61,68 +96,67 @@ Winemakers manage grape harvest, fermentation, aging, and bottling to ensure con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed persons） | 由西班牙雇主担保的受雇工作居留，需满足劳工市场测试和最低薪资要求。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能人才，需大学学历或5年经验，年薪高于西班牙平均工资1.5倍（约4万欧元以上）。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适合管理层或技术专家，无需劳工市场测试，审批快速。 |
+| Subclass Cuenta ajena (Work permit for employed persons) | Employed work residency sponsored by Spanish employers must meet labor market tests and minimum wage requirements. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled talent requiring a university degree or 5 years of experience, annual salary at least 1.5 times the Spanish average wage (about €40,000+). |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for management or technical experts, no labor market testing required, and approval is fast. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Winemaker？**
-- 对葡萄酒酿造有热情，愿意从基层做起的人
-- 具备生物、化学或食品科学背景，喜欢动手实践
-- 愿意在乡村或产区酒庄长期工作
-
-**谁不适合学Winemaker？**
-- 无法接受季节性高强度劳动和加班
-- 不喜欢远离城市生活或频繁出差
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about winemaking and willing to start from the grassroots
+- Background in biological, chemical, or food science and enjoys hands-on practice
+- Willing to work long-term at rural or regional wineries
+
+**Who is not suited**
+- Seasonal high-intensity labor and overtime are unacceptable
+- Dislikes living far from the city or frequent business trips
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for winemakers in Spain?**
+A: Entry-level approx. €22,000-28,000/year; mid-level €30,000-45,000; senior €50,000-80,000. Renowned winery technical directors or independent winemakers earn more.
+
+**Q: How can non-EU citizens immigrate to Spain as winemakers?**
+A: Need Spanish employer sponsorship for work residence (Cuenta ajena), or apply for EU Blue Card (requires annual salary over 40,000 euros). Usually requires relevant degree and experience.
+
+**Q: Which educational qualifications or certificates are important for becoming a winemaker?**
+A: A bachelor's degree (such as Oenology) is a common requirement, and Advanced Professional Training (FP) is also helpful. International certifications such as WSET Senior are not mandatory but are a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 季节性较强（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Winemaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for winemakers in Spain?**
-答：Entry-level: €22,000-28,000/year, mid-level: €30,000-45,000, senior: €50,000-80,000. Top wineries pay more.
-
-**问：How can non-EU citizens migrate to Spain as a winemaker?**
-答：Obtain a work permit (Cuenta ajena) with employer sponsorship, or apply for EU Blue Card (salary >€40,000). A relevant degree and experience are required.
-
-**问：What qualifications are important for becoming a winemaker?**
-答：A university degree (e.g., Oenology) is common, while advanced vocational training (FP) is also valued. International certifications like WSET Advanced are beneficial but not mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

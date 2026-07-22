@@ -1,60 +1,95 @@
-# Organ Builder（Organ Builder）职业分析 · DE
+# Organ Builder — career analysis · Germany
 
-**职业代码：9365 – Organ Builder。**
+**Occupation code: 9365 (KldB)**
 
-Organ builders are craftspeople who design, construct, assemble, and maintain pipe organs and harmoniums, involving woodworking, metalworking, and acoustic tuning.
+An organ builder is a craftsperson who designs, constructs, assembles, and maintains pipe organs and reed organs, involving woodworking, metalworking, and acoustic tuning.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期间有津贴，通常无需学费） |
-| 大师班 | 1年 | $3,000~$8,000（部分费用由州政府资助） |
+| Dual vocational training | 3.5 years | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Master class | 1 year | $3,000~$8,000 (Part of the costs are funded by the state government.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 管风琴制造师毕业证书 | 德国工商会 (IHK) | 必备 | 完成双元制培训后获得 |
-| 大师证书 | 德国手工业协会 (HWK) | 可选 | 可独立经营工坊或带徒 |
+| Organ maker graduation certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Master certificate. | German Chamber of Crafts (HWK) | Optional | Can independently operate a workshop or take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。德国管风琴制造师需求稳定，由于手工技艺传承困难，熟练工人短缺。教堂和音乐厅的维护需求持续，但受文化预算影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. Demand for German organ builders remains stable due to the difficulty of passing on manual craftsmanship and a shortage of skilled workers. Ongoing maintenance needs for churches and concert halls, but affected by cultural budgets.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 培训后起薪较低 |
-| 中级（4-10年） | $32,000~$42,000 | 熟练技师薪资 |
-| 高级（10年以上/大师） | $42,000~$55,000 | 大师或工坊主薪资 |
+| Median salary | $33,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Lower starting salary after training |
+| Mid-level (4-10 years). | $32,000~$42,000 | Skilled technician salary |
+| Advanced (10+ years/Master) | $42,000~$55,000 | Master or workshop owner salary |
+| average salary | $37,416 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从学徒（Ausbildung）开始，逐步晋升为熟练技师（Geselle），再成为大师（Meister），可开设工坊或担任技术总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on pipe organ builders is generally positive; AI tools will enhance design, tuning, and customization capabilities, but the core value of handcrafting and on-site installation remains unchanged. Entry-level positions are slightly narrowing due to increased demand for assistance software.
+
+Starting as an apprentice (Ausbildung), progressing to skilled journeyman (Geselle), then to master (Meister), can open a workshop or serve as technical director.
+
+**Tasks most exposed to AI:**
+
+- Repetitive acoustic calculations and tuning parameter optimization
+- Drafting tasks for sound tube design and dimensional calibration
+- Inventory management and generation of material lists
+- Wiring for standardized stop switch circuits
+
+**Where AI augments the role:**
+
+- Use acoustic simulation software to accurately predict sound characteristics
+- CAD-based complex tube and sculptural design
+- Timbre optimization and customer customization based on historical data
+- Remote maintenance diagnostic system assists on-site repairs
+- AI-driven knowledge base rapid retrieval of repair solutions
+
+**Human moat:**
+
+- Fine craftsmanship of manually making sound tubes and mechanical components
+- On-site acoustic environment perception and tuning artistic judgment
+- Creative decision-making in customized artistic design
+- Material and craft identification in historical organ restoration
+- Cross-trade collaboration and on-site problem solving
+
+**Skills to build:**
+
+- 3D CAD and acoustic simulation software (e.g., COMSOL)
+- Python or MATLAB for tuning data processing
+- Fundamentals of Digital Twin and Sensor Technology
+- Project management and client communication skills
+- Modern processing techniques for wood and metal materials
+- Basic electronics and embedded systems knowledge
+
+**Key growth areas:**
 
 - Handcraft
 - Preservation
@@ -63,68 +98,67 @@ Organ builders are craftspeople who design, construct, assemble, and maintain pi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需获得德国雇主合同，职业培训学历需被认可 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许找工作一年，需相关资质 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Must obtain a German employer contract; vocational training qualifications must be recognized |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one year to find a job, requires relevant qualifications |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Organ Builder？**
-- 热爱手工艺和精细工作
-- 对声学、音乐有浓厚兴趣
-- 愿意接受长时间培训并专注传统技艺
-
-**谁不适合学Organ Builder？**
-- 追求高薪和快速晋升
-- 对重复性手工操作缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about handicrafts and fine work
+- Strong interest in acoustics and music
+- Willing to undergo long training periods and focus on traditional craftsmanship
+
+**Who is not suited**
+- Seeking high salary and fast promotion
+- Impatient with repetitive manual tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a pipe organ builder?**
+A: Junior annual salary approx. 25,000-32,000 euros, senior master can reach 42,000-55,000 euros; below German average but stable work.
+
+**Q: How can foreign organ builders immigrate to Germany?**
+A: Must pass qualification recognition (Anerkennung) to confirm professional qualifications, then find an employer at a German workshop and apply for a skilled migration visa.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Can progress from apprentice to technician, master, or even open your own workshop or become a pipe organ technical consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Organ Builder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for organ builders?**
-答：Entry-level annual salary is about EUR 25,000-32,000, while experienced masters can earn EUR 42,000-55,000, below the German average but stable.
-
-**问：How can foreign organ builders immigrate to Germany?**
-答：They need to have their professional qualifications recognized (Anerkennung), then find an employer in a German workshop and apply for a skilled worker visa.
-
-**问：Is there career advancement in this profession?**
-答：One can advance from apprentice to journeyman to master, or even open one's own workshop or become a technical consultant for organs.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

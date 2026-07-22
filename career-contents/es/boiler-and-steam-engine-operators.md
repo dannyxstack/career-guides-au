@@ -1,60 +1,95 @@
-# Boiler and Steam Engine Operators（Boiler and Steam Engine Operators）职业分析 · ES
+# Boiler and Steam Engine Operators — career analysis · Spain
 
-**职业代码：8192 – Boiler and Steam Engine Operators。**
+**Occupation code: 8192 (CNO)**
 
-Operate, monitor, and maintain boilers and steam engines to ensure safe and efficient operation in industrial plants, power generation, and large facilities.
+Responsible for operating, monitoring, and maintaining boilers and steam engines to ensure the safe and efficient operation of industrial or heating systems, commonly found in manufacturing, power plants, and large facilities.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Superior） | 2年 | $500~$2,000（公立学校学费低，私立可能更高） |
-| 短期培训课程 | 6个月至1年 | $1,000~$5,000（私立机构提供，含实操） |
+| Vocational Education (FP Grado Superior) | 2 years | $500~$2,000 (Public schools have lower tuition fees, while private ones may be higher) |
+| Short-term training course | 6 months to 1 year | $1,000~$5,000 (Provided by private institutions, including practical training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 锅炉操作员证书 | 西班牙劳动与社会经济部 | 必备 | 部分岗位强制要求，尤其高压锅炉 |
-| FP Grado Superior 机械或能源相关专业 | 西班牙教育机构 | 可选 | 非强制但显著提升就业竞争力 |
+| Boiler operator certificate | Spanish Ministry of Labor and Social Economy | Required | Some positions require mandatory use, especially high-pressure boilers |
+| FP Grado Superior majors in mechanical or energy-related fields | Spanish educational institutions | Optional | Not mandatory but significantly enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 12,000。随着工业自动化和能源转型，锅炉操作员需求稳定但增长有限。旧锅炉退役和新能效标准可能减少岗位，但维护现有设备仍需熟练工人。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. With industrial automation and energy transition, demand for boiler operators remains stable but grows limited. Retiring old boilers and new energy efficiency standards may reduce job openings, but maintaining existing equipment still requires skilled workers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，含社保 |
-| 中级（3-7年） | $26,000~$33,000 | 税前年薪，视行业和公司规模 |
-| 高级（7年以上） | $33,000~$42,000 | 税前年薪，含主管附加福利 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–7 years) | $26,000~$33,000 | Pre-tax annual salary depends on industry and company size |
+| Senior (7+ years) | $33,000~$42,000 | Pre-tax annual salary, including supervisor benefits |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 从初级操作员开始，通过经验积累可晋升为高级操作员或主管，也可向能源管理或工业维护方向发展，需持续学习新技术。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Boiler and steam engine operators face moderate risks from AI automation: some monitoring and recording tasks will be taken over by AI, but complex fault handling and safety supervision still require humans, resulting in mixed outcomes.
+
+Starting as a junior operator, you can be promoted to senior operator or supervisor through experience, or move into energy management or industrial maintenance, requiring continuous learning of new technologies.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of boiler parameters (temperature, pressure) and automatic adjustment, with AI replacing manual inspections
+- Generate equipment operation logs and reports, which are automatically recorded and analyzed by AI
+- Data is entered into standardized data during regular security inspections, with AI automatically identifying anomalies
+- Simple fault diagnosis and alarm handling, with AI providing diagnostic recommendations
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance systems to analyze sensor data and detect equipment hazards in advance
+- Using digital twins to simulate different operating conditions to optimize combustion efficiency and energy-saving strategies
+- Through AI-assisted decision support systems, diagnostic recommendations can be obtained when handling complex faults
+- Combining AI visual recognition for equipment appearance inspection to improve detection accuracy
+- Use AI scheduling systems to optimize load distribution across multiple boilers
+
+**Human moat:**
+
+- Quick judgment and manual intervention in emergencies (such as steam leaks)
+- Manual operation and maintenance of old, non-intelligent equipment
+- Cross-system coordination and team management (e.g., communicating with power plant dispatchers)
+- Compliance and safety responsibilities—regulations require certified personnel to be on site
+- Handling abnormalities in unstructured environments (such as pipeline corrosion and vibration abnormal noises)
+
+**Skills to build:**
+
+- Master industrial IoT (IIoT) sensor data analysis tools
+- Learn the operation of AI predictive maintenance systems and the interpretation of alarms
+- Enhance programming capabilities in Python or R for automated device data processing
+- Learn about digital twins and simulation software (such as ANSYS Twin Builder)
+- Enhanced emergency response and manual control capabilities (such as manual reset safety valves)
+- Learn the basics of electricity markets and carbon emissions trading
+
+**Key growth areas:**
 
 - automation
 - energy efficiency
@@ -63,64 +98,66 @@ Operate, monitor, and maintain boilers and steam engines to ensure safe and effi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需雇主担保且岗位需证明难以在欧盟招聘，高中及以下职业通过率低。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship and proof that the position is difficult to recruit in the EU, with low pass rates for high school and below occupations. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Boiler and Steam Engine Operators？**
-- 喜欢动手操作、适应高温噪音环境
-- 追求稳定就业而非高薪
-- 愿意持续学习维护和新能效技术
+**Who is suited**
+- They enjoy hands-on operations and adapt to high-temperature, noisy environments
+- Pursue stable employment rather than high salaries
+- Willing to continuously learn, maintain, and learn new energy efficiency technologies
 
-**谁不适合学Boiler and Steam Engine Operators？**
-- 寻求高收入或快速晋升
-- 对体力要求高、环境艰苦的工作不适应
+**Who is not suited**
+- Seeking high income or rapid promotion
+- They are not suited to physically demanding and harsh environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can boiler operator salaries reach the Spanish average?**
+A: Slightly below the national average (about EUR 30,000), entry-level around EUR 20,000, senior can reach EUR 40,000, depending on industry and certification.
+
+**Q: Can third-country citizens immigrate to Spain through this occupation?**
+A: The probability is extremely low because it is a non-in-demand occupation with low educational requirements, making employer sponsorship difficult. It is recommended to consider other technical paths.
+
+**Q: What educational background is required?**
+A: Typically, FP Grado Superior is required in mechanical or energy engineering, or short-term training with a certificate. Bachelor's degree is not mandatory but can help with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Boiler and Steam Engine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can boiler operators earn the Spanish average salary?**
-答：Slightly below national average (~€30k); entry-level around €20k, senior up to €42k, depending on industry and certifications.
-
-**问：Can third-country nationals immigrate through this occupation?**
-答：Very unlikely; it is not a shortage occupation and has low educational requirements, making employer sponsorship difficult.
-
-**问：What education is required?**
-答：Typically FP Grado Superior in mechanics/energy or short-term training plus certification. A degree is optional but helpful for advancement.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

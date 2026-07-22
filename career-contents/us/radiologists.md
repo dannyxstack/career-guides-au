@@ -1,60 +1,95 @@
-# Radiologists（Radiologists）职业分析 · 美国
+# Radiologists — career analysis · United States
 
-**职业代码：29-1224 – Radiologists。**
+**Occupation code: 29-1224 (SOC)**
 
-Radiologists diagnose and treat diseases and injuries using medical imaging techniques such as x-rays, MRI, nuclear medicine, and ultrasounds, and may perform minimally invasive procedures.
+Radiologists use medical imaging technologies like X-ray, MRI, nuclear medicine, and ultrasound to diagnose and treat diseases and injuries, and may also perform minimally invasive medical procedures.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$200,000（公立大学约8-12万美元，私立大学约15-20万美元） |
-| 医学院 | 4年 | $150,000~$250,000（公立医学院约15-20万美元，私立约20-25万美元） |
-| 住院医师培训 | 4年 | —（培训期间有薪金，约6-7万美元/年） |
+| Bachelor's degree | 4 years | $80,000~$200,000 (Public universities approx. $80,000-$120,000, private universities approx. $150,000-$200,000.) |
+| Medical school. | 4 years | $150,000~$250,000 (Public medical schools approx. USD 150,000–200,000, private approx. USD 200,000–250,000.) |
+| Residency training | 4 years | $0~$0 (Salary paid during training, approx. $60k-$70k USD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位(MD或DO) | 医学院 | 必备 | 需从认可的医学院毕业 |
-| 美国医师执照(USMLE) | 美国医师资格考试委员会 | 必备 | 通过三步考试 |
-| 放射科专业认证 | 美国放射学委员会(ABR) | 必备 | 通过笔试和口试 |
+| Medical Doctorate (MD or DO) | Medical school. | Required | Must graduate from an accredited medical school |
+| U.S. medical license (USMLE) | United States Medical Licensing Examination | Required | Pass a three-step exam |
+| Radiology professional certification | American Board of Radiology (ABR) | Required | Through written and oral exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 51,000。美国放射科医生需求稳定，受人口老龄化和影像技术进步推动。BLS预计2023-2033年就业增长约5%，与所有职业平均水平相当。
+**Job demand: high (★★★★☆).** National workforce approx. 51,000. Demand for US radiologists is stable, driven by aging population and advances in imaging technology. BLS projects about 5% employment growth from 2023-2033, similar to the average for all occupations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $250,000~$350,000 | 住院医师结束后首年 |
-| 中级（4-10年） | $350,000~$450,000 | 有经验的放射科医生 |
-| 高级（10年以上） | $450,000~$600,000 | 主任或亚专科专家 |
+| Median salary | $420,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $250,000~$350,000 | First year after residency |
+| Mid-level (4-10 years). | $350,000~$450,000 | Experienced radiologists |
+| Senior (10+ years) | $450,000~$600,000 | Director or Subspecialist |
+| average salary | $381,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常包括住院医师培训（4年）、亚专科进修（1-2年），随后可晋升为科室主任、学术教授或私人诊所合伙人。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
+
+Career path typically includes residency training (4 years), subspecialty fellowship (1-2 years), then can advance to department head, academic professor, or private practice partner.
+
+**Tasks most exposed to AI:**
+
+- AI auto-annotates suspicious lesion areas (e.g., lung nodules, fracture candidate boxes), reducing technicians' initial marking workload
+- AI Auto-measurement of Quantitative Parameters (e.g., organ size, bone density) Replacing Manual Tasks
+- AI automatically generates standard imaging report drafts (e.g., negative reports); technicians only need to review and sign.
+- AI optimizes scanning protocols and exposure parameters, reducing manual adjustments of radiation
+
+**Where AI augments the role:**
+
+- AI improves low-dose image quality, enabling technicians to image sensitive groups like children and pregnant women more safely
+- AI automated serial scanning workflows (e.g., multi-phase cardiac MRI tracking) to improve complex exam efficiency
+- AI real-time noise suppression and motion artifact correction, reducing repeat scans for technicians
+- AI provides structured report templates and key image annotations, speeding up technician report writing by 50%
+- AI recommends personalized contrast dosage and injection plans based on patient data
+
+**Human moat:**
+
+- Patient communication, psychological reassurance, and positioning (especially for children, critically ill, and uncooperative patients)
+- Radiation safety compliance auditing and site emergency response
+- Professional Judgment and Final Diagnostic Responsibility for AI False Positives/Negatives
+- Cross-device coordination, quality control, and new technology validation
+- Real-time image guidance and equipment manipulation in interventional/surgical scenarios
+
+**Skills to build:**
+
+- AI-assisted diagnostic system operation and result verification (e.g., CAD, AI post-processing software)
+- Image AI quality control and deviation detection
+- Multimodal fusion imaging (PET-MRI, SPECT-CT) training
+- Patient communication and psychology: reassurance, informed consent, radiation risk explanation
+- Basic Python or DICOM data manipulation (for simple scripting and quality control)
+- Radiology informatics and evidence-based medicine literacy
+
+**Key growth areas:**
 
 - aging population
 - imaging technology
@@ -63,68 +98,67 @@ Radiologists diagnose and treat diseases and injuries using medical imaging tech
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于医院或医疗机构，需有执照和学位，但配额限制可能需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需PERM和EB-2，通常需硕士学位或以上，放射科医生通常符合 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM申请EB-2/EB-3绿卡，医院常支持 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common in hospitals or medical institutions; requires license and degree, but quota limits may require lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires PERM and EB-2, typically master's degree or higher; radiologists usually qualify |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for EB-2/EB-3 green card via PERM, hospitals often sponsor |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Radiologists？**
-- 具有较强解剖学和医学影像背景的人
-- 愿意长期投入学习和培训的人
-- 希望在医疗领域获得高薪和稳定职业的人
-
-**谁不适合学Radiologists？**
-- 不喜欢长时间静坐操作电脑的人
-- 无法承受高压和快节奏工作环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong anatomy and medical imaging background
+- People willing to commit to long-term learning and training
+- For those seeking high salary and stable career in healthcare
+
+**Who is not suited**
+- Dislikes sitting for long periods operating a computer
+- People who cannot handle high pressure and fast-paced work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for radiologists?**
+A: Junior radiologist salary approx. US$250,000-350,000, mid-level approx. US$350,000-450,000, senior or subspecialist up to $450,000-600,000, influenced by location and institution.
+
+**Q: How can radiologists immigrate to the US via work visas?**
+A: Commonly uses H-1B visa, but requires lottery; also can apply for EB-2 green card via PERM, hospitals usually support. Requires USMLE and ABR certification.
+
+**Q: How many years does it take to become a radiologist in the US?**
+A: Total about 12-14 years: 4 years undergraduate + 4 years medical school + 4 years residency + possibly 1-2 years subspecialty fellowship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 很高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Radiologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for radiologists?**
-答：Entry-level radiologists earn $250k-350k, mid-level $350k-450k, and senior or subspecialists up to $450k-600k, varying by location and employer.
-
-**问：How can radiologists immigrate to the US through work visas?**
-答：Common routes include H-1B (lottery) and PERM-based EB-2 green card, supported by hospitals. USMLE and ABR certification are required.
-
-**问：How long does it take to become a radiologist in the US?**
-答：Approximately 12-14 years: 4 years undergrad, 4 years medical school, 4 years residency, plus optional 1-2 years fellowship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

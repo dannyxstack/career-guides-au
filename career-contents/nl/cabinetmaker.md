@@ -1,58 +1,94 @@
-# Cabinet-maker（Cabinet-maker）职业分析 · NL
+# Cabinet-maker — career analysis · Netherlands
 
-**职业代码：7522 – Cabinet-maker。**
+**Occupation code: 7522 (ISCO08)**
 
-Construct, install, and repair cabinets, furniture, and other wooden products using woodworking machines and hand tools.
+Fabricating, installing, and repairing wooden products such as cabinets and furniture, using woodworking machinery and hand tools.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3-4年 | —（荷兰公立职业教育通常免学费，仅需少量学材费） |
-| 学徒制 | — | —（边工作边学习，企业承担大部分培训费用） |
+| Secondary vocational education | 3-4 years | $0~$2,000 (Public vocational education in the Netherlands is usually tuition-free, with only a small fee for learning materials.) |
+| Apprenticeship | — | $0~$1,000 (Learn while working, with companies covering most training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工/橱柜制作国家文凭 | 荷兰职业教育机构（ROC） | 必备 | 通常通过MBO或学徒制获得 |
-| VCA安全证书 | 荷兰安全认证机构 | 可选 | 部分雇主强制要求 |
+| National Diploma in Carpentry/Cabinet Making | Netherlands vocational education institutions (ROC) | Required | Typically gained through MBO or apprenticeship |
+| VCA safety certificate | Dutch safety certification body | Optional | Required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰建筑业稳定发展，对定制橱柜和细木工的需求持续，预计未来几年就业保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Dutch construction industry is developing steadily with sustained demand for custom cabinets and joinery; employment is expected to remain stable in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | 税前年薪 |
-| 中级（4-7年） | $35,000~$42,000 | 税前年薪 |
-| 高级（8年以上） | $43,000~$52,000 | 税前年薪 |
+| Median salary | $47,622 | Median salary (official: CBS employee median hourly wage €24.1/hour × 1976h annualised, BRC group 0732 Timmerlieden; P25–P75 €39,322–€54,735, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$33,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $35,000~$42,000 | Annual pre-tax salary |
+| Senior (8+ years) | $43,000~$52,000 | Annual pre-tax salary |
+| average salary | $38,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒晋升为熟练工匠，进而成为工头或自营承包商。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cabinet makers face both the risk of automation replacing repetitive tasks and the opportunity to enhance customization through AI design tools, with overall risks and opportunities coexisting.
+
+Can progress from apprentice to skilled artisan, and further to foreman or self-employed contractor.
+
+**Tasks most exposed to AI:**
+
+- Using CNC and other CNC equipment for repetitive machining operations such as cutting and drilling
+- Perform batch cutting, edge banding, and drilling according to standard drawings
+- Using machines to automatically complete grinding and sanding processes
+- Install hardware accessories based on fixed templates
+- Automatically generate bill of materials and production schedules via ERP systems.
+
+**Where AI augments the role:**
+
+- Use AI design software to generate 3D models and renderings of custom cabinets
+- Show clients the effect of cabinet installation using augmented reality (AR) tools
+- Use smart measuring devices to quickly capture on-site dimensions and automatically correct designs
+- Optimize sheet cutting layouts using AI algorithms to improve material utilization
+- Use digital twin technology to remotely diagnose and guide installation processes
+
+**Human moat:**
+
+- Fine manual carving and restoration of complex shaped parts
+- Ability to communicate with clients and interpret personalized needs
+- Flexible adaptability to deal with unexpected issues like uneven walls and pipelines during on-site installation
+- Comprehensive judgment of material texture, color matching, and overall aesthetics
+- Long-accumulated woodworking craftsmanship and feel
+
+**Skills to build:**
+
+- Proficient in CAD/CAM and CNC programming (e.g., Fusion 360, EnRoute)
+- Learn AI interior design tools (e.g., Midjourney for generating inspiration images)
+- Enhance skills in digital measurement and AR-assisted installation (e.g., HoloLens)
+- Strengthen customer communication and project management capabilities
+- Knowledge of sustainable materials and eco-friendly processes.
+- Learn smart home integration knowledge (e.g., embedding smart appliances in cabinets)
+
+**Key growth areas:**
 
 - Custom furniture
 - Sustainable materials
@@ -61,68 +97,67 @@ Construct, install, and repair cabinets, furniture, and other wooden products us
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有雇主担保的高技能移民，需满足最低薪资门槛 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高等教育学历和高薪职位，提供欧盟内自由流动 |
-| Subclass Orientation Year（Orientation Year） | 在荷兰毕业后的求职年签证，可在一年内寻找工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled migrants with employer sponsorship, requiring a minimum salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Offers free movement within the EU for higher education qualifications and high-paying positions |
+| Subclass Orientation Year (Orientation Year) | The orientation year visa after graduation in the Netherlands allows you to seek work for one year. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cabinet-maker？**
-- 喜欢手工制作、注重细节的人
-- 有耐心、能独立完成精细木工活的人
-- 愿意通过学徒制学习技能的人
-
-**谁不适合学Cabinet-maker？**
-- 不喜欢体力劳动和灰尘环境的人
-- 寻求办公室静坐工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys handcrafting and pays attention to detail
+- Patient, able to independently complete fine woodworking tasks
+- People willing to learn skills through an apprenticeship
+
+**Who is not suited**
+- Those who dislike physical labor and dusty environments
+- People seeking a sedentary office job
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for cabinetmakers in the Netherlands?**
+A: Entry-level annual salary is approximately €28,000-33,000, while senior roles can reach €43,000-52,000, depending on experience and skills.
+
+**Q: How can a foreign cabinet maker immigrate to the Netherlands?**
+A: Available through the Highly Skilled Migrant (Kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting salary thresholds.
+
+**Q: What qualifications are needed for cabinet making?**
+A: Usually requires a Dutch MBO woodworking diploma or apprenticeship certification, some employers require VCA safety certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Cabinet-maker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a cabinet-maker in the Netherlands?**
-答：Entry-level salary is around EUR 28,000-33,000, while senior level can reach EUR 43,000-52,000 per year, depending on experience.
-
-**问：How can foreign cabinet-makers migrate to the Netherlands?**
-答：Through the Highly Skilled Migrant scheme or EU Blue Card, requiring a job offer and meeting salary thresholds.
-
-**问：What qualifications are needed to work as a cabinet-maker?**
-答：Typically a Dutch MBO diploma in woodworking or apprenticeship certification; VCA safety certificate may be required by some employers.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,95 @@
-# 老年护理工（Aged Care Worker）职业分析 · 澳大利亚
+# Aged Care Worker — career analysis · Australia
 
-**职业代码：423111 – Aged Care Worker。**
+**Occupation code: 423111 (ANZSCO)**
 
-老年护理工为老年人提供日常生活照料、个人护理和社交支持，是澳洲规模最大的紧缺医疗职业之一。澳洲人口老龄化加速，老年护理行业2025-2030年需新增超20万名护理工，持Certificate III资质即可入行。
+Aged care workers provide daily living assistance, personal care, and social support for the elderly, making it one of Australia’s largest in-demand healthcare occupations. With an aging population, the aged care sector needs over 200,000 additional workers from 2025–2030; holding a Certificate III is sufficient to enter the field.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Individual Support (Ageing) | 6~12个月 | $2,000~$8,000（TAFE或RTO，政府补贴可用） |
-| First Aid Certificate HLTAID011 | 1天 | $100~$250（入行必备） |
-| Certificate IV in Ageing Support | 12个月 | $3,000~$8,000（晋升团队领导） |
+| Certificate III in Individual Support (Ageing) | 6–12 months | $2,000~$8,000 (TAFE or RTO; government subsidies may be available.) |
+| First Aid Certificate HLTAID011 | 1 day | $100~$250 (Essential for entering the field) |
+| Certificate IV in Ageing Support | 12 months | $3,000~$8,000 (Promotion to team leader) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Individual Support | TAFE / RTO | 必备 | 入行基础资质 |
-| HLTAID011 First Aid | 认可培训机构 | 必备 | 急救证书 |
-| NDIS Worker Screening Check | 各州政府 | 必备 | 从事NDIS服务必备 |
+| Certificate III in Individual Support | TAFE / RTO | Required | Entry-level qualification |
+| HLTAID011 First Aid | Registered Training Organisation (RTO) | Required | First aid certificate |
+| NDIS Worker Screening Check | State governments | Required | Essential for working in NDIS services |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极旺（★★★★★）。** 全国从业人数约 180,000。澳洲65岁以上人口2030年预计达500万，老年护理缺口将达30万人。政府大幅提高老年护理工资（2023年起加薪15%），在家护理（Home Care）方向增长最快。
+**Job demand: very high (★★★★★).** National workforce approx. 180,000. Australia's population aged 65+ is projected to reach 5 million by 2030, with an aged care shortfall of 300,000 workers. The government has significantly increased aged care wages (15% pay rise from 2023), with home care growing fastest.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 2025年均值 |
-| Indeed | 1,000~2,000 个 | 2025年均值 |
-| LinkedIn | 800~1,500 个 | 2025年均值 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-2年） | $50,000~$62,000 | Entry Level Care Worker |
-| 中级（2-6年） | $63,000~$76,000 | Personal Care Worker |
-| 高级（6年+） | $78,000~$95,000 | Senior Care / Team Leader |
+| Median salary | $91,572 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $50,000~$62,000 | Entry Level Care Worker |
+| Mid-level (2–6 years) | $63,000~$76,000 | Personal Care Worker |
+| Senior (6+ years) | $78,000~$95,000 | Senior Care / Team Leader |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 个人护理计划和痴呆症护理专业培训成为行业标准，居家护理模式快速扩张。双语护理工在华人社区需求旺盛，是移民进入澳洲医疗系统最便捷的路径。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
+
+Personal care plans and specialized dementia care training are becoming industry standards, with home care models expanding rapidly. Bilingual care workers are in high demand, offering the most accessible pathway for immigrants to enter Australia's healthcare system.
+
+**Tasks most exposed to AI:**
+
+- Documentation and report generation: AI automatically generates care logs, medication records, and anomaly reports
+- Scheduling and task allocation: AI optimizes caregiver shifts and client visit routes
+- Basic health monitoring data collation: AI automatically aggregates metrics like blood pressure and blood glucose and issues alerts
+- Partially standardized daily conversations: AI chatbots handle routine inquiries (e.g., meal times)
+
+**Where AI augments the role:**
+
+- Individualized care plan development: AI analyzes client data to recommend more precise activities and dietary plans.
+- Fall/risk prediction: AI uses sensor data for early warnings, assisting caregivers in preventing accidents
+- Family communication and reporting: AI generates customized monthly reports to enhance family trust
+- Training and skill enhancement: AI simulated scenarios for nursing staff to practice complex care situations
+- Cross-language/cross-cultural communication: AI real-time translation aids communication with elderly from multicultural backgrounds
+
+**Human moat:**
+
+- Building trust and emotional support: human empathy, patience, and non-verbal communication are irreplaceable.
+- Flexible judgment and emergency response in unexpected situations: e.g. comprehensive assessment of injuries and emotions after an elderly person falls
+- Physical contact and intimate care: tasks requiring detailed physical contact such as assisting with eating, bathing, and toileting
+- Ethical decision-making and end-of-life care: making humane, respectful judgments in terminal care
+- Adaptation to unstructured environments: dealing with erratic behaviour or sudden cognitive changes in the elderly
+
+**Skills to build:**
+
+- Proficiency in nursing management software (e.g., AlayaCare, MYP)
+- Basic data analysis: interpreting AI early warning reports and translating into actions
+- Communication and empathy skills: especially delivering personalised care with AI assistance
+- Digital health literacy: use wearable devices and remote monitoring platforms
+- Cross-cultural care ability: adapting to diverse needs of elderly immigrant populations
+- Continuous learning mindset: keep up with AI tool updates and best practices
+
+**Key growth areas:**
 
 - Home Care Packages
 - Dementia Care
@@ -69,66 +98,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，医疗紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship available; healthcare shortage occupation |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：极易（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学老年护理工？**
-- 有爱心和耐心、喜欢照顾老人者
-- 希望快速入行澳洲医疗系统者
-- 具备中文双语能力服务华人老人群体者
-
-**谁不适合学老年护理工？**
-- 不能承受体力劳动和轮班工作者
-- 以高薪为首要目标者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Caring and patient, enjoys looking after elderly people
+- Those seeking to enter the Australian healthcare system quickly
+- Those with bilingual Chinese skills to serve elderly Chinese community
+
+**Who is not suited**
+- Those unable to tolerate physical labour and shift work
+- Those who prioritise high income above all else
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for aged care workers in Australia?**
+A: Junior about AUD 50,000-62,000, intermediate AUD 63,000-76,000, senior/team leader AUD 78,000-95,000. Salaries improved after a 15% government pay rise in 2023.
+
+**Q: Is it easy to find work in aged care in Australia?**
+A: It is one of the easiest occupations to find work in Australia — Seek consistently lists 1,500–3,000 active positions, with severe shortages across almost every state, and a Cert III is sufficient for employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 423111 老年护理工数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（★☆☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 极旺（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中等（★★☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 极易（★☆☆☆☆） |
-
-老年护理工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：老年护理工在澳洲薪资如何？**
-答：初级约AUD 5万~6.2万，中级6.3万~7.6万，高级/团队领导7.8万~9.5万，2023年政府加薪15%后薪资有所改善。
-
-**问：澳洲老年护理好找工作吗？**
-答：是澳洲最易找工作的职业之一，Seek常年有1,500~3,000个活跃职位，几乎所有州都严重缺人，持Cert III即可就业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

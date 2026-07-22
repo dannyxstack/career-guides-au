@@ -1,59 +1,93 @@
-# Fire service officers (watch manager and below)（Fire service officers (watch manager and below)）职业分析 · UK
+# Fire service officers (watch manager and below) — career analysis · United Kingdom
 
-**职业代码：3313 – Fire service officers (watch manager and below)。**
+**Occupation code: 3313 (SOC)**
 
-Fire service officers coordinate and participate in firefighting, provide emergency services during accidents or bomb alerts, and advise on fire prevention.
+Fire service officers coordinate and participate in firefighting activities, provide emergency services during accidents or bomb alerts, and are responsible for fire prevention education.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 无 | —（无直接教育费用） |
-| 消防基础培训 | 14周 | —（由消防部门提供，带薪培训） |
+| High school graduation | None | $0~$0 (No direct education costs) |
+| Firefighting foundation training | 14 weeks | $0~$0 (Provided by the fire department, paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 消防操作资格 | NFCC | 必备 | 必需完成内部培训课程 |
-| 驾驶执照（C类） | DVLA | 必备 | 通常要求大型车辆驾照 |
-| 急救证书 | St John Ambulance等 | 可选 | 推荐 |
+| Firefighting operation qualification | NFCC | Required | Must complete internal training courses. |
+| Driver's License (Class C) | DVLA | Required | Usually requires a heavy vehicle driver's license |
+| First aid certificate | St John Ambulance etc. | Optional | Recommend |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。英国消防员需求相对稳定，但受公共财政紧缩影响，岗位增长缓慢。预计每年有少量新职位，主要因替换退休人员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand for firefighters in the UK is relatively stable but affected by public spending cuts, resulting in slow job growth. A small number of new positions expected annually, mainly due to replacement of retirees.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 培训后入职薪资 |
-| 中级（3-10年） | $32,000~$40,000 | 值班经理级别 |
-| 高级（10年以上） | $40,000~$50,000 | 高级官员或专业岗位 |
+| Median salary | $44,033 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Salary after training and onboarding |
+| Intermediate (3-10 years) | $32,000~$40,000 | Duty Manager level |
+| Senior (10+ years) | $40,000~$50,000 | Senior official or professional position |
+| average salary | $44,795 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 晋升路径通常从消防员开始，逐步晋升为消防队长、值班经理，再升至高阶管理职位如区域指挥官。需通过内部考试和评估。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
+
+Promotion path usually starts as a firefighter, progresses to fire captain, shift manager, then to senior management roles such as regional commander. Requires passing internal exams and assessments.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
 
 - Moderate Demand
 - Steady Employment
@@ -62,65 +96,64 @@ Fire service officers coordinate and participate in firefighting, provide emerge
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 消防官员在可担保职业清单上，可通过此路径获得工作签证。 |
-| Subclass Youth Mobility（Youth Mobility Scheme） | 适用于18-30岁的特定国家公民，可临时工作。 |
-| Subclass Global Talent（Global Talent Visa） | 不适用此职业。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Fire protection officers are on the eligible skilled occupation list and can obtain a work visa through this pathway. |
+| Subclass Youth Mobility (Youth Mobility Scheme) | Applicable to citizens of specific countries aged 18-30, allowing temporary work. |
+| Subclass Global Talent (Global Talent Visa) | Not applicable to this occupation. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fire service officers (watch manager and below)？**
-- 对公共服务有强烈热情的团队合作者
-- 体能良好且在压力下冷静的人
-- 愿意轮班工作并接受危险环境的人
-
-**谁不适合学Fire service officers (watch manager and below)？**
-- 倾向于规律稳定工作时间的人
-- 对高风险和体力要求感到不适的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- A team player with a strong passion for public service
+- People who are physically fit and calm under pressure
+- People willing to do shift work and accept hazardous environments
+
+**Who is not suited**
+- People who prefer regular and stable working hours
+- People uncomfortable with high risk and physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for fire service officers?**
+A: Salary increases with experience and promotion: entry-level about 25-32K, mid-level 32-40K, senior 40-50K. Can reach up to 60K+.
+
+**Q: Can foreign firefighters come to work in the UK via a Skilled Worker visa?**
+A: Yes, this occupation is on the skilled worker visa sponsorship list, but you need to find an employer sponsor and meet salary and English requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Fire service officers (watch manager and below)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for fire service officers?**
-答：Salaries increase with experience and promotion, from 25-32K for entry-level to 40-50K for senior roles, potentially exceeding 60K.
-
-**问：Can foreign firefighters work in the UK through a Skilled Worker visa?**
-答：Yes, this occupation is on the eligible list, but requires employer sponsorship and meeting salary and English requirements.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

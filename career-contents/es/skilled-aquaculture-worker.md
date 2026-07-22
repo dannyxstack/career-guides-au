@@ -1,58 +1,94 @@
-# Skilled Aquaculture Worker（Skilled Aquaculture Worker）职业分析 · ES
+# Skilled Aquaculture Worker — career analysis · Spain
 
-**职业代码：6421 – Skilled Aquaculture Worker。**
+**Occupation code: 6421 (CNO)**
 
-Performs fish, shellfish, and crustacean cultivation, breeding, harvesting, and water quality management in coastal and inland aquaculture facilities, ensuring efficient operations and product quality.
+Engaged in the breeding, breeding, harvesting, and water quality management of fish, shellfish, shellfish, and other aquatic organisms along Spain's coast and inland to ensure efficient farm operation and product quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $500~$3,000（公立学校学费低，私立稍高） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$4,000（可衔接大学课程） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $500~$3,000 (Public schools have lower tuition fees, while private ones are slightly higher) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$4,000 (Courses can be bridged to university courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖职业资格证书（FP） | 西班牙教育部 | 必备 | 国家认证，必备从业资格 |
-| 船艇操作执照（部分岗位） | 西班牙交通与可持续交通部 | 可选 | 若涉及海上养殖平台作业 |
+| Aquaculture Professional Qualification Certificate (FP) | Spanish Ministry of Education | Required | National certification, essential professional qualification |
+| Boat Operation License (for some positions) | Spanish Ministry of Transport and Sustainable Transport | Optional | If offshore aquaculture platform operations are involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。西班牙是欧盟第二大水产养殖生产国，该职业受蓝色经济战略支持，就业稳定增长，尤其在加利西亚、安达卢西亚和瓦伦西亚等沿海地区需求大。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Spain is the EU's second-largest producer of aquaculture, and this profession is supported by the blue economy strategy, with stable employment growth, especially in coastal regions such as Galicia, Andalusia, and Valencia.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班或补贴 |
-| 中级（4-7年） | $22,000~$28,000 | 含技术员/主管岗位 |
-| 高级（8年以上） | $28,000~$35,000 | 经理或养殖场负责人 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including overtime or subsidies |
+| Mid-level (4-7 years) | $22,000~$28,000 | Including technician/supervisor positions |
+| Senior (8+ years) | $28,000~$35,000 | Manager or farm manager |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级工人可晋升为养殖场主管、技术员，积累经验后转向管理岗或自主经营小型养殖场；需持续学习现代养殖技术（如循环水系统、生物安全）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aquaculture work faces moderate risks of automation: routine feeding and water quality monitoring will decrease, but AI enhances disease diagnosis and environmental regulation, while physical strength and on-site decision-making remain the moat.
+
+Junior workers can be promoted to farm supervisors or technicians, and after accumulating experience, move on to management positions or run small farms independently; Continuous learning of modern aquaculture technologies (such as circulating water systems and biosafety) is required.
+
+**Tasks most exposed to AI:**
+
+- The automatic feeding system replaces manual feeding operations
+- Water quality sensors and AI analysis replace manual sampling and recording
+- AI monitoring systems replace manual patrols to check for abnormal behavior
+- Data entry and report generation are completed by automated systems
+- Simple disease identification is handled by computer vision systems
+
+**Where AI augments the role:**
+
+- AI-assisted water quality prediction and regulation improve farming efficiency
+- Computer vision systems assist in early disease diagnosis
+- Data analysis tools optimize feed feeding and growth models
+- The IoT platform enables remote monitoring and early warning of the farming environment
+- Intelligent decision support systems help develop breeding and harvesting plans
+
+**Human moat:**
+
+- On-site judgment to handle sudden illnesses or equipment failures
+- Observation of fish behavior and experience in coping with stress
+- Practical intuition in biosafety and epidemic prevention
+- Effective communication and coordination with suppliers, workers, and veterinarians
+- Emergency decision-making in complex environments (such as extreme weather)
+
+**Skills to build:**
+
+- IoT sensor operation and data interpretation
+- Operation of aquaculture AI diagnostic software
+- Remote monitoring and automated system troubleshooting
+- Data analysis and reporting tools (such as basic Excel/Python)
+- Biosafety management and emergency response to epidemics
+- Reading technical documents in English or Spanish
+
+**Key growth areas:**
 
 - aquaculture expansion
 - blue economy
@@ -61,65 +97,64 @@ Performs fish, shellfish, and crustacean cultivation, breeding, harvesting, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit as Employee） | 由西班牙雇主担保的受雇工作居留，适用于有FP学历的申请人，需证明职业属紧缺或公司提供培训。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 要求本科或同等学历及高薪合同，但水产养殖工人较难满足薪资门槛，仅适用于高级管理岗。 |
-| Subclass Busqueda empleo（Job-Seeker Visa） | 允许在西班牙居留6个月寻找工作，需证明有足够资金和学历背景。 |
+| Subclass Cuenta ajena (Work Permit as Employee) | Employed work residence sponsored by Spanish employers is suitable for applicants with FP qualifications, who must prove the occupation is in high demand or the company provides training. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Requires a bachelor's degree or equivalent and a high-paying contract, but aquaculture workers find it harder to meet the salary threshold and are only available for senior management positions. |
+| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove sufficient funds and academic background. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Skilled Aquaculture Worker？**
-- 喜欢户外体力工作，对海洋生物感兴趣的人
-- 愿意在沿海或乡村地区定居，追求工作生活平衡
-- 有水产养殖或相关农业背景，愿意接受职业培训
-
-**谁不适合学Skilled Aquaculture Worker？**
-- 期望办公室工作或高薪职业的人
-- 对体力劳动、潮湿环境和季节性工作不适应者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical work and are interested in marine life
+- Willing to settle in coastal or rural areas, seeking work-life balance
+- Background in aquaculture or related agriculture; willing to undergo vocational training.
+
+**Who is not suited**
+- People who expect office jobs or high-paying careers
+- Those who are not suited to physical labor, humid environments, or seasonal jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aquaculture workers?**
+A: Junior approx. 18,000–22,000 EUR/year, senior can reach 28,000–35,000 EUR/year, but may be affected by season and region.
+
+**Q: How can third-country nationals immigrate to Spain to engage in aquaculture?**
+A: A common path is to obtain a Spanish employer contract (Cuenta ajena) and have the occupation listed as in short supply (Ocupación de difícil cobertura), requiring academic or training requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Skilled Aquaculture Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aquaculture workers?**
-答：Entry-level salary ranges from €18,000 to €22,000 per year, while senior workers can earn €28,000 to €35,000, though seasonal and regional variations apply.
-
-**问：How can third-country nationals migrate to Spain for aquaculture work?**
-答：The common route is to obtain a work contract from a Spanish employer (Cuenta ajena) and have the occupation listed as difficult to cover, fulfilling education or training requirements.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

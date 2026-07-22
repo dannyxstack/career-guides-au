@@ -1,61 +1,96 @@
-# Bartender（Bartender）职业分析 · NL
+# Bartender — career analysis · Netherlands
 
-**职业代码：5132 – Bartender。**
+**Occupation code: 5132 (ISCO08)**
 
-Bartenders mix and serve drinks, interact with customers, and maintain a clean bar area. Skills include cocktail preparation, customer service, and cash handling.
+Bartenders prepare drinks, serve customers, and maintain bar cleanliness in venues such as bars and restaurants. Skills required include cocktail mixing, customer service, and cash handling.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1-2年 | —（可通过在职培训或短期课程，部分学校收费） |
-| 中等职业教育（MBO） | 2-4年 | $1,000~$6,000（公立学校学费低，约€1000-2000/年） |
+| Vocational training | 1-2 years | $0~$5,000 (Available through on-the-job training or short courses, some schools charge fees) |
+| Intermediate Vocational Education (MBO) | 2-4 years | $1,000~$6,000 (Public school tuition is low, about €1,000-2,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰语能力 | 无强制 | 可选 | 工作需基本荷兰语沟通，部分雇主要求A2-B1 |
-| 酒吧服务证书（SVH） | SVH（荷兰酒店业培训） | 可选 | 非强制但受雇主青睐 |
-| 酒精服务执照 | 当地市政厅 | 必备 | 售酒场所需持有，证明合法售酒知识 |
+| Alcohol Service License | Local municipal council | Required | Required to hold for licensed premises, demonstrating knowledge of legal alcohol sales. |
+| Dutch language proficiency | No mandatory requirement | Optional | Work requires basic Dutch communication; some employers require A2-B1 |
+| SVH Bar Service Certificate | SVH (Dutch hospitality training) | Optional | Not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。荷兰餐饮业持续复苏，对经验调酒师需求稳定。阿姆斯特丹等旅游城市机会较多，但兼职岗位普遍。行业竞争中等，旺季招聘频繁。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. The Dutch catering industry continues to recover, with stable demand for experienced bartenders. Opportunities are more common in tourist cities like Amsterdam, but part-time positions are widespread. Industry competition is moderate, with frequent recruitment during peak seasons.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，包含小费，兼职按比例折算 |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪，经验丰富者更高 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，主管或经理级 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, including tips; part-time is calculated proportionally. |
+| Mid-level (3–7 years) | $28,000~$36,000 | Annual pre-tax salary, higher with experience. |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary, supervisor or manager level |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级调酒师可通过积累经验晋升为高级调酒师或酒吧主管，进一步可发展为酒吧经理或酒水总监。部分人选择开设自有酒吧。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The career outlook for bartenders is mixed: AI will automate tasks like inventory management, cashiering, and simple drink preparation, but human emotion and skill remain core barriers in creative cocktails, personalized customer service, and atmosphere creation.
+
+Junior bartenders can advance to senior bartenders or bar supervisors through experience, and further develop into bar managers or beverage directors. Some choose to open their own bars.
+
+**Tasks most exposed to AI:**
+
+- Automatically mix standard recipe drinks (e.g., Screwdriver, Gin and Tonic)
+- Inventory management and automatic replenishment alerts
+- Payment and cashier operations
+- Generate standard sales reports and customer preference analysis
+- Automation of cleaning and disinfection processes
+
+**Where AI augments the role:**
+
+- AI recommendation system assists in personalized cocktail creation and recipe optimization
+- Quickly query wine knowledge and allergy information via voice assistant
+- AI analyzes customers' historical preferences, recommends wine lists, and prompts refill timing
+- Social media content generation tools enhance the shareability of the cocktail-making process
+- Intelligent inventory forecasting reduces waste and optimizes purchasing decisions
+
+**Human moat:**
+
+- Creative cocktail making: improvisation and flavor art that is hard for AI to replicate
+- Emotional interaction: ability to read customer emotions and manage bar atmosphere
+- Complex handcraft skills: such as ice carving, intricate decorations, fire performances, etc.
+- Brand building: loyal customer base from personal style and storytelling
+
+**Skills to build:**
+
+- Proficient in AI cocktail recipe generation and data analysis tools (such as Bottle+, BarSight)
+- Learn social media marketing and content creation (TikTok, Instagram)
+- Enhance wine and spirits certifications (e.g., WSET) to increase professionalism
+- Take elective courses in food science or flavor chemistry to learn about molecular mixology
+- Develop multilingual communication skills to serve international customers.
+- Learn basic inventory management and supply chain software
+
+**Key growth areas:**
 
 - Mixology trends
 - Craft beer
@@ -64,66 +99,68 @@ Bartenders mix and serve drinks, interact with customers, and maintain a clean b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于调酒师？通常需学位且薪资达标，调酒师一般不符，除非高层管理。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高等教育及高薪，调酒师几乎不可能。 |
-| Subclass Orientation Year（Orientation Year） | 适用于荷兰毕业留学生，可自由工作一年，之后需转换签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for bartenders? Usually requires a degree and salary threshold; bartenders generally don't qualify unless in senior management. |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary, bartending is nearly impossible. |
+| Subclass Orientation Year (Orientation Year) | Applicable to Dutch graduate international students; can work freely for one year, after which they need to switch visas. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bartender？**
-- 喜欢与人交流、善于沟通的社交型人才
-- 对饮品文化有兴趣，愿意学习调酒技巧
-- 能适应晚班、周末及节假日工作节奏
+**Who is suited**
+- Socially oriented individuals who enjoy interacting and communicating with others
+- Interested in beverage culture and willing to learn bartending skills
+- Ability to adapt to evening, weekend, and holiday work schedules
 
-**谁不适合学Bartender？**
-- 无法接受站立工作及嘈杂环境的人
-- 追求高薪或稳定办公室职业者
+**Who is not suited**
+- Those unable to tolerate standing work and noisy environments
+- For those seeking high salary or stable office careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for bartenders?**
+A: Junior bartender pre-tax annual salary approx €22,000-€28,000, senior or supervisor up to €45,000+, tips are a significant income component.
+
+**Q: Can foreigners immigrate to the Netherlands as a bartender?**
+A: Bartender is not a shortage occupation, and the salary usually does not meet high-skilled immigration requirements. EU citizens have free movement; non-EU individuals find it difficult to obtain work visas.
+
+**Q: What are the career advancement paths for a bartender?**
+A: Can advance from junior bartender to senior bartender, bar supervisor, bar manager, or even beverage director or start own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bartender属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bartenders?**
-答：Entry-level bartenders earn €22,000-€28,000 gross annually, rising to €45,000+ for senior or manager roles. Tips are a significant part of income.
-
-**问：Can a foreigner migrate to the Netherlands as a bartender?**
-答：Bartending is not a shortage occupation and salaries rarely meet highly skilled migrant thresholds. EU citizens have free movement; non-EU faces visa challenges.
-
-**问：What are the career advancement paths for bartenders?**
-答：Starting as a junior bartender, one can advance to senior bartender, bar supervisor, bar manager, or even beverage director and entrepreneurship.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

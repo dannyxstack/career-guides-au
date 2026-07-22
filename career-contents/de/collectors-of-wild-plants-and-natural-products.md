@@ -1,59 +1,95 @@
-# Collectors of Wild Plants and Natural Products（Collectors of Wild Plants and Natural Products）职业分析 · DE
+# Collectors of Wild Plants and Natural Products — career analysis · Germany
 
-**职业代码：1174 – Collectors of Wild Plants and Natural Products。**
+**Occupation code: 1174 (KldB)**
 
-Collects wild plants, mushrooms, berries, medicinal herbs, and other natural products in forests, meadows, or field margins. Typically seasonal or temporary work.
+Engages in the work of collecting wild plants, mushrooms, berries, herbs, and other natural products in the wild, usually in forests, grasslands, or field edges, mostly seasonal and temporary positions.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常由雇主短期培训） |
-| 农业/园艺助手培训 | 2年（双元制） | —（少数人选择相关辅助职业培训） |
+| No formal education required | None | $0~$0 (Usually provided by employer short-term training) |
+| Agricultural/Horticultural Assistant Training | 2 years (dual system) | $0~$500 (Minor occupational training for related support roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质要求 | 无 | 可选 | 雇主通常提供在职培训，无法律强制认证 |
+| No mandatory qualification requirements | None | Optional | Employers usually provide on-the-job training; no legally mandated certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。德国该职业从业人数少且持续下降，机械化与标准化种植替代了部分采集需求；但有机食品与手工食品市场保留少量岗位。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. This occupation has a small and declining workforce in Germany, as mechanized and standardized farming replace some collection needs; however, the organic and artisanal food market retains a few positions.
 
-**竞争度：高（岗位少）（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$24,000 | 多为季节工，按小时计酬，年薪按全职估算 |
-| 中级（3-5年） | $24,000~$28,000 | 经验丰富的采集员，可能自雇 |
-| 高级（6年以上） | $26,000~$30,000 | 若为自雇或承包，收入波动大 |
+| Median salary | $43,128 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–2 years) | $20,000~$24,000 | Mostly seasonal work, paid hourly, with annual salary estimated based on full-time equivalent |
+| Mid-level (3–5 years) | $24,000~$28,000 | Experienced collector, possibly self-employed |
+| Senior (6+ years) | $26,000~$30,000 | If self-employed or contracted, income fluctuates significantly |
+| average salary | $45,228 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 多数采集员为临时工或自雇者，晋升路径有限；少数可转向农业技术员、自然保护或生态导游等更具技能要求的岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on wild plant and natural product collectors is mixed: simple identification and recording tasks are replaced, but AI tools can assist in precise location and prediction of picking timing, improving efficiency; core field judgment and manual work are hard to replace.
+
+Most collectors are casual or self-employed with limited advancement opportunities; a few can transition to more skilled roles such as agricultural technician, conservationist, or ecotourism guide.
+
+**Tasks most exposed to AI:**
+
+- Basic plant identification and classification using a smartphone or simple tools
+- Manual data entry recording collection site, quantity, and variety
+- Traditional wayfinding using paper maps or memory
+- Simple rules for judging harvest timing based on experience
+- Repetitive local market price inquiries and comparisons
+
+**Where AI augments the role:**
+
+- Use an AI image recognition app to identify wild plants and mushroom species and toxicity in real time
+- Optimize collection routes and times using satellite imagery and AI crop prediction models.
+- Use drones or IoT sensors to monitor the distribution and maturity of wild resources
+- Use AI data analysis to predict market prices and demand trends
+- Use voice assistants or AR headsets to get real-time knowledge base support in the field
+
+**Human moat:**
+
+- Field operation and adaptability in complex terrain and adverse weather
+- Deep sensory knowledge of ecology and plant diversity (e.g., smell, touch)
+- Dexterity for hand-picking delicate crops (e.g., fragile mushrooms)
+- Tacit knowledge related to local ecosystems and cultural traditions
+- Emergency decision-making ability to handle unexpected situations (e.g., danger, sudden climate change)
+
+**Skills to build:**
+
+- Proficient in using and calibrating at least one AI plant identification app (e.g., PlantNet, iNaturalist)
+- Learn basic mapping and GIS tools (e.g., Google Earth, QGIS)
+- Take short-term data analysis courses to learn market forecasting tools
+- Participate in drone operation training (for low-altitude resource surveying)
+- Learning basic mobile photography and image recording to assist AI recognition
+- Understand principles of ecological monitoring and sustainable development
+
+**Key growth areas:**
 
 - Seasonal
 - Organic food trend
@@ -62,62 +98,64 @@ Collects wild plants, mushrooms, berries, medicinal herbs, and other natural pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 可先入境寻找雇主，但该职业非紧缺，成功率低 |
-| Subclass Chancenkarte（Opportunity Card） | 机会卡基于积分，该职业积分低，难以达到要求 |
+| Subclass Job Seeker (Job Seeker Visa) | May enter the country to find an employer first, but the occupation is not in shortage, so success rate is low. |
+| Subclass Chancenkarte (Opportunity Card) | The opportunity card is based on points; this occupation has low points, making it difficult to meet requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Collectors of Wild Plants and Natural Products？**
-- 喜欢户外体力劳动的人
-- 对季节性工作节奏适应力强的人
-- 无需高学历且愿意从事临时工作的人
+**Who is suited**
+- People who enjoy outdoor physical labor
+- People who adapt well to the rhythm of seasonal work
+- People willing to take temporary work without requiring high education
 
-**谁不适合学Collectors of Wild Plants and Natural Products？**
-- 寻求稳定高薪职业的人
-- 不擅长体力劳动或恶劣天气工作的人
+**Who is not suited**
+- Those seeking stable, high-paying careers.
+- Those not suited for manual labor or working in harsh weather conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a wild plant collector?**
+A: Full-time annual salary is about 24,000-30,000 EUR, but many positions are seasonal, so actual yearly income may be lower.
+
+**Q: Can foreigners come to Germany as collectors on a work visa?**
+A: Almost impossible. This occupation is not in shortage and usually only offers temporary positions, failing to meet skilled migration visa requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（岗位少）（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Collectors of Wild Plants and Natural Products属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a wild plant collector?**
-答：Full-time annual salary is around €24,000-€30,000, but most work seasonally, so actual income may be lower.
-
-**问：Can foreigners get a work visa to work as a collector in Germany?**
-答：Almost impossible. This occupation is not in shortage and usually offers only temporary positions, not meeting skilled immigration requirements.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

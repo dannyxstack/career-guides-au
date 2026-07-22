@@ -1,60 +1,94 @@
-# Potter（Potter）职业分析 · IT
+# Potter — career analysis · Italy
 
-**职业代码：7314 – Potter。**
+**Occupation code: 7314 (ISCO08)**
 
-Potters create ceramic vessels, sculptures, and decorative items by hand or machine, prevalent in Italy's traditional ceramic districts.
+Potters use clay to craft ceramic vessels, sculptures, and decorations by hand or machine, commonly found in Italian traditional ceramic industrial areas.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2-3年 | —（地区职业培训学校，部分免费） |
-| 艺术院校专科 | 3年（专科） | $3,000~$8,000（公立院校学费） |
+| Vocational training | 2-3 years | $0~$5,000 (Regional Vocational Training Schools, Some Free) |
+| Art college diploma | 3 years (diploma). | $3,000~$8,000 (Public institution tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 但雇主常要求相关培训证明 |
-| 工匠认证 | 当地商会 | 可选 | 部分地区推荐获取 |
+| No mandatory qualification | None | Optional | But employers often require relevant training certificates |
+| Trade certification | Local Chamber of Commerce | Optional | Recommended in some regions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。意大利陶瓷产业以出口和旅游纪念品为主，就业稳定但受自动化影响，传统手工艺岗位需求缓慢下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. The Italian ceramics industry focuses on exports and tourist souvenirs, with stable employment but declining demand for traditional craft roles due to automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 学徒或助手收入较低 |
-| 中级（3-7年） | $22,000~$30,000 | 熟练陶工 |
-| 高级（7年以上） | $30,000~$45,000 | 独立工匠或工作室主理人 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$22,000 | Apprentices or assistants have lower income |
+| Mid-level (3–7 years) | $22,000~$30,000 | Skilled Potter |
+| Senior (7+ years) | $30,000~$45,000 | Independent artisan or studio owner |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从业者可从学徒晋升为独立工匠，或开设工作室；部分人转向设计或教学岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pottery workers face high automation risk, especially in mass production which may be replaced by machines, but manual artistry and custom demand still offer opportunities. AI cannot replace creative and manual value as a key moat.
+
+Practitioners can progress from apprentice to independent tradesperson or open a studio; some move into design or teaching roles.
+
+**Tasks most exposed to AI:**
+
+- Use a potter's wheel or molds for batch forming of standardized vessels
+- Mechanical reproduction of basic carving and patterns
+- Automated monitoring and adjustment of kiln temperature and time
+- Automatic calculation and mixing of glaze formulas
+- Visual inspection of dimensions and defects in product quality inspection
+
+**Where AI augments the role:**
+
+- Quickly design complex ceramic shapes using 3D modeling software
+- Use AI to generate glaze formulas and pattern ideas
+- Use AR technology to show customers virtual finished ceramic products
+- Analyze market data to optimize product design and pricing
+
+**Human moat:**
+
+- Irreproducible personal style and artistic expression in handmade pottery
+- Ability for manual adjustments to handle customized, non-standard requirements.
+- Deep perception and control over clay material properties
+- Inheritance and innovation of traditional craft culture
+
+**Skills to build:**
+
+- 3D modeling and digital sculpting (e.g., Blender, Rhino)
+- AI-assisted design tools (e.g., Midjourney for creative prototyping)
+- Digital manufacturing equipment operation (3D ceramic printer)
+- Social media marketing and online portfolio presentation
+- Deepening of traditional handicraft skills (e.g., wheel throwing, painting)
+- Customer communication and customised service skills
+
+**Key growth areas:**
 
 - Craftsmanship
 - Artisan revival
@@ -63,62 +97,64 @@ Potters create ceramic vessels, sculptures, and decorative items by hand or mach
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高素质人才，但陶工岗位通常不符合高薪要求 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 年度配额，需雇主担保，适合普通工人 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talent, but pottery positions usually do not meet high salary requirements |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota, requires employer sponsorship, suitable for general workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Potter？**
-- 热爱手工创作和传统工艺
-- 有耐心和细致的工作态度
-- 愿意在小型工作室或自雇环境中工作
+**Who is suited**
+- Passionate about handmade crafts and traditional techniques
+- Patience and a meticulous work attitude
+- Willing to work in a small studio or self-employed environment
 
-**谁不适合学Potter？**
-- 追求高收入或快速晋升
-- 偏好稳定的大公司环境
+**Who is not suited**
+- Pursuing high income or rapid promotion
+- Prefers stable large corporate environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of potters in Italy?**
+A: Entry-level approximately €16,000-22,000, mid-level €22,000-30,000, senior up to €45,000.
+
+**Q: How can non-EU citizens immigrate to Italy as potters?**
+A: Mainly through the Decreto Flussi quota work visa, but annual quota is limited and requires employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Potter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for potters in Italy?**
-答：Entry-level: €16,000-22,000; mid-level: €22,000-30,000; senior: up to €45,000.
-
-**问：How can non-EU citizens migrate as potters to Italy?**
-答：Mainly via Decreto Flussi quota work visa, with annual caps and employer sponsorship.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

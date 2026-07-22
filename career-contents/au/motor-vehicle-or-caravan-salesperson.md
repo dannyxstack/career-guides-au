@@ -1,61 +1,97 @@
-# Motor Vehicle or Caravan Salesperson（Motor Vehicle or Caravan Salesperson）职业分析 · 澳大利亚
+# Motor Vehicle or Caravan Salesperson — career analysis · Australia
 
-**职业代码：621311 – Motor Vehicle or Caravan Salesperson。**
+**Occupation code: 621311 (ANZSCO)**
 
-Sells motor vehicles or caravans to customers in dealerships or showrooms, arranging test drives, financing, and after-sales service to meet sales targets.
+Display, promote, and sell new or used vehicles to customers in a car dealership or caravan showroom, offering test drives, financial options, and after-sales service to achieve sales targets.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（基础教育免费） |
-| 短期培训课程 | 6个月 | $1,500~$4,000（如汽车销售证书或厂家培训） |
+| High school graduation | 12 years | $0~$0 (Free basic education) |
+| Short-term training course | 6 months. | $1,500~$4,000 (Such as car sales certification or manufacturer training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 汽车销售证书 | 各汽车制造商 | 可选 | 厂家提供的品牌产品培训，非强制但利于就业 |
-| 有效驾照 | 州交通管理局 | 必备 | 必须持有有效澳大利亚驾照 |
-| 销售工作经验 | 无特定机构 | 可选 | 雇主通常要求有零售或销售经验 |
+| Valid driver's license | State Department of Transportation | Required | Must hold a valid Australian driver's license |
+| Automotive sales certificate | Various automobile manufacturers | Optional | Brand product training provided by manufacturer, not mandatory but beneficial for employment. |
+| Sales work experience | No specific institution | Optional | Employers usually require retail or sales experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。澳大利亚汽车销售行业增长稳定，受新车需求及二手车市场活跃影响，就业前景良好。数字化销售工具普及但人际销售技能仍关键。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Australian automotive sales industry is growing steadily, driven by new car demand and a used car market, offering good employment prospects. Digital sales tools are common but interpersonal sales skills remain key.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 底薪加佣金，总收入视销售业绩而定 |
-| 中级（3-6年） | $60,000~$85,000 | 含佣金，表现优秀者更高 |
-| 高级（6年以上） | $85,000~$120,000 | 高佣金、奖金及管理岗位 |
+| Median salary | $68,432 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$60,000 | Base salary plus commission, total income depends on sales performance |
+| Mid-level (3–6 years) | $60,000~$85,000 | Including commission, higher for top performers |
+| Senior (6+ years) | $85,000~$120,000 | High commission, bonuses, and management positions. |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为销售经理、展厅经理或品牌经理；部分转向汽车金融或市场推广岗位；经验丰富者可自主开设经销商。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Motor vehicle or caravan salesperson roles face significant automation pressure; AI and online platforms will partially replace their information inquiry and initial communication functions, but core sales closing, trust building, and complex customization services still require humans.
+
+Can be promoted to Sales Manager, Showroom Manager, or Brand Manager; some move into automotive finance or marketing; experienced individuals can open their own dealership.
+
+**Tasks most exposed to AI:**
+
+- Answer common customer questions about car models, configurations, prices, etc. via AI chatbot
+- Automatically generate vehicle configuration sheets, quotes, and financial plan calculations
+- Online scheduling of test drives and showroom reception procedures
+- Automatically push promotional information and inventory matching based on customer historical data
+- Using AI to analyze customer intent and automatically assign sales leads
+
+**Where AI augments the role:**
+
+- Using AI customer relationship management systems to identify high-intent buyers and accurately recommend car models
+- Use AR/VR tools to let clients experience vehicle interiors and driving feel remotely
+- Optimize inventory placement and sales strategies with data analysis
+- Close deals quickly through AI-driven smart contracts and financial solutions
+- Use natural language processing to analyze customer feedback and improve service scripts
+
+**Human moat:**
+
+- Building long-term trust and emotional connections with clients.
+- Handle complex negotiations, bargaining, and objection handling
+- Provide dynamic and personalized driving experience guidance during test drives
+- Understand client family needs and recommend the most suitable vehicle model and configuration
+- Cross-departmental coordination of one-stop services including finance, insurance, and after-sales
+
+**Skills to build:**
+
+- Master AI customer relationship management and sales automation tools (e.g., Salesforce)
+- Learn data analysis and customer insight skills
+- Enhance online social selling and live-stream marketing skills
+- Strengthen communication skills in negotiation, emotional intelligence, and rapid trust-building
+- Knowledge of electric and hybrid vehicle technology
+- Familiarity with digital finance and flexible payment planning
+
+**Key growth areas:**
 
 - Digital Retailing
 - Electric Vehicle Sales
@@ -64,64 +100,66 @@ Sells motor vehicles or caravans to customers in dealerships or showrooms, arran
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 该职业通常不在中长期职业列表上，雇主担保可能性低 |
+| Subclass 482 (Temporary Skill Shortage Visa) | This occupation is usually not on the Medium and Long-term Strategic Skills List, making employer sponsorship unlikely |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motor Vehicle or Caravan Salesperson？**
-- 具备出色沟通和说服能力的人
-- 热爱汽车行业并享受与人打交道
-- 目标导向、抗压能力强
+**Who is suited**
+- People with excellent communication and persuasion skills
+- Passionate about the automotive industry and enjoy interacting with people
+- Goal-oriented, resilient under pressure
 
-**谁不适合学Motor Vehicle or Caravan Salesperson？**
-- 不擅长销售或不愿承担业绩压力
-- 对汽车无兴趣或缺乏基本机械知识
+**Who is not suited**
+- Not good at sales or unwilling to handle performance pressure
+- No interest in cars or lack of basic mechanical knowledge
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does a car salesperson's income mainly come from base salary or commission?**
+A: Usually a base salary plus commission, based on sales volume and profit, with high flexibility for top performers.
+
+**Q: Can car salespeople apply for skilled migration to Australia?**
+A: This occupation is usually not on the skilled migration occupation list, making immigration extremely unlikely, unless through DAMA or very limited employer sponsorship.
+
+**Q: How to advance to Sales Manager?**
+A: Requires sustained high sales performance, leadership training, and internal promotion opportunities, typically with over 5 years of experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Motor Vehicle or Caravan Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income mainly base salary or commission?**
-答：Typically a base salary plus commission based on sales volume and profit, with high performers earning significantly more.
-
-**问：Can motor vehicle salesperson apply for skilled migration to Australia?**
-答：This occupation is typically not on the skilled occupation list, so migration is extremely unlikely except through DAMA or very limited employer sponsorship.
-
-**问：How to advance to sales manager?**
-答：Require consistent high sales performance, leadership training, and internal promotion opportunities, typically with 5+ years experience.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

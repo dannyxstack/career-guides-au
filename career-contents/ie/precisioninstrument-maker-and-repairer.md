@@ -1,58 +1,94 @@
-# Precision-instrument Maker and Repairer（Precision-instrument Maker and Repairer）职业分析 · IE
+# Precision-instrument Maker and Repairer — career analysis · Ireland
 
-**职业代码：7311 – Precision-instrument Maker and Repairer。**
+**Occupation code: 7311 (ISCO08)**
 
-Precision-instrument makers and repairers manufacture, calibrate, and repair precision instruments such as watches, measuring devices, and optical instruments, requiring manual skills and precision machining.
+Precision instrument makers and repairers manufacture, calibrate, and repair precision instruments such as clocks, measuring devices, and optical instruments. This occupation requires manual skills and precision machining abilities, serving the manufacturing and repair service industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（雇主资助，少量工具费用） |
-| 高等证书/文凭 | 1-2年 | $3,000~$8,000（部分院校学费） |
+| Apprenticeship | 4 years | $0~$2,000 (Employer-sponsored, minimal tool costs) |
+| Advanced Certificate/Diploma | 1-2 years | $3,000~$8,000 (Tuition fees at some institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精密仪器制造学徒结业 | SOLAS | 必备 | 爱尔兰国家学徒制 |
-| 相关技术证书 | QQI | 可选 | 可选高级证书 |
+| Precision Instrument Manufacturing Apprenticeship Completion | SOLAS | Required | Irish National Apprenticeship |
+| Relevant technical certificates | QQI | Optional | Optional advanced certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。爱尔兰精密仪器制造行业规模较小，但高端制造业和医疗设备领域对熟练技工有稳定需求。受技术自动化影响有限，就业预计保持稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. Ireland's precision instrument manufacturing industry is relatively small, but there is steady demand for skilled technicians in high-end manufacturing and medical devices. Limited impact from automation; employment is expected to remain stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从业者可从学徒开始，晋升为高级技工或主管，也可向质量控制或技术销售方向发展。继续教育可提升为仪器工程师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Precision instrument manufacturing and repair technicians face mixed AI impact: repetitive calibration and data recording tasks can be automated, but high-precision manual debugging, fault diagnosis, and customer service still require human judgment, with demand likely shifting to high-end customization and comprehensive repair.
+
+Practitioners can start as apprentices, advance to senior technician or supervisor, or move into quality control or technical sales. Further education can lead to instrumentation engineer.
+
+**Tasks most exposed to AI:**
+
+- Auto-calibration and testing: AI vision and automated equipment can read and adjust readings automatically, replacing manual repetitive calibration.
+- Data recording and documentation: AI automatically records test data and generates reports, reducing manual entry.
+- Basic fault diagnosis: AI systems use databases to match common fault patterns, replacing some diagnostic work.
+- Spare parts inventory management: AI predicts spare parts demand and automatically places orders, reducing the need for manual management.
+- Standard instrument assembly: robots can complete some standardized assembly steps, such as screw tightening and component placement.
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AI assists in analyzing abnormal data, recommending possible causes and repair solutions, improving repair speed.
+- High-precision calibration: AI combined with sensor feedback guides technicians to fine-tune to extremely high standards, such as optical alignment.
+- Custom design and manufacturing: AI generates design solutions and simulates performance, assisting in the production of special or experimental instruments.
+- Remote collaboration and AR guidance: via AR glasses and AI expert systems, remote experts overlay information to assist on-site repairs.
+- Predictive maintenance: AI analyzes instrument historical data to predict failure times and schedule preventive maintenance.
+
+**Human moat:**
+
+- Ultra-precise manual operations: skills reliant on touch and experience, such as adjusting hairsprings and polishing lenses.
+- Comprehensive fault diagnosis: requires cross-disciplinary knowledge and creative reasoning for rare or complex faults.
+- Client communication and trust: understand client needs, explain issues and recommend solutions, requiring interpersonal skills.
+- Ethical and safety judgment: when maintenance involves safety-critical instruments (e.g., medical/aviation), responsibility and decisions cannot be automated.
+- Innovation and prototyping: Designing instruments from scratch or improving existing designs requires creativity and physical intuition.
+
+**Skills to build:**
+
+- AI/Machine Learning basics: understanding the application of AI tools in diagnosis and prediction, ability to use relevant software.
+- Data analysis and visualization: ability to process sensor data and analyze trends using Python or specialized tools.
+- Digital twin and simulation: using CAD and simulation software to build instrument models and simulate performance.
+- IoT and sensor integration: mastery of network connectivity and sensor data acquisition technology.
+- Augmented Reality (AR) operations: proficient in using AR glasses and remote collaboration platforms.
+- Advanced manufacturing (3D printing): learn to create custom parts with 3D printing to shorten maintenance cycles.
+
+**Key growth areas:**
 
 - Medical Devices
 - Precision Engineering
@@ -61,68 +97,67 @@ Precision-instrument makers and repairers manufacture, calibrate, and repair pre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪一般不低于30,000欧元的职位，需证明劳动力市场测试。该职业不在紧缺清单，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪不低于33,000欧元（特定职业）或一般56,000欧元，需高等教育资格。适用性有限。 |
-| Subclass EU自由流动（EU freedom of movement） | 欧盟/欧洲经济区公民无需工作许可即可在爱尔兰工作。 |
+| Subclass General Employment P (General Employment Permit) | Suitable for positions with an annual salary generally not less than €30,000, requiring proof of labour market testing. This occupation is not on the shortage list and requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for annual salary not less than €33,000 (specific occupations) or generally €56,000, requiring higher education qualifications. Limited applicability. |
+| Subclass EU free movement (EU freedom of movement) | EU/EEA citizens do not need a work permit to work in Ireland. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Precision-instrument Maker and Repairer？**
-- 喜欢动手操作和精细工作
-- 有耐心和注重细节
-- 愿意从事长期学徒培训
-
-**谁不适合学Precision-instrument Maker and Repairer？**
-- 对重复性工作缺乏耐心
-- 不喜欢精密手工操作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on and detailed work
+- Patient and detail-oriented
+- Willing to undertake long-term apprenticeship training
+
+**Who is not suited**
+- Impatient with repetitive work
+- Dislike precision manual work
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of precision instrument manufacturing and repair workers?**
+A: Entry-level annual salary about 25,000-32,000 euros, senior up to 42,000-55,000 euros, depending on experience and employer.
+
+**Q: What is the immigration pathway for this occupation in Ireland?**
+A: This occupation is not on the Critical Skills Occupation List; immigration requires a General Employment Permit, employer sponsorship, and meeting salary and labor market test requirements. EU citizens can move freely.
+
+**Q: How to become a precision instrument maker and repairer?**
+A: Mainly through SOLAS-approved 4-year apprenticeship combining on-the-job training and classroom learning. A relevant higher certificate may also be obtained first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Precision-instrument Maker and Repairer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for precision-instrument makers and repairers?**
-答：Entry-level salary is about €25,000-€32,000 per year, while senior roles can reach €42,000-€55,000, depending on experience and employer.
-
-**问：What is the migration pathway for this occupation in Ireland?**
-答：This occupation is not on the Critical Skills Occupations List. Migration requires a General Employment Permit with employer sponsorship and a labor market test. EU citizens have free movement.
-
-**问：How to become a precision-instrument maker and repairer?**
-答：Primarily through a 4-year SOLAS-approved apprenticeship combining on-the-job training and classroom learning. Alternatively, obtain a relevant higher certificate first.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

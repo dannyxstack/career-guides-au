@@ -1,62 +1,97 @@
-# Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine（Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine）职业分析 · DE
+# Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine — career analysis · Germany
 
-**职业代码：8146 – Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine。**
+**Occupation code: 8146 (KldB)**
 
-Specialists in neurology, psychiatry, psychotherapy and psychosomatic medicine diagnose and treat neurological and mental health disorders such as depression, anxiety, schizophrenia, dementia. They work in hospitals, clinics or rehab facilities in Germany, requiring medical degree and years of specialized training.
+Specialists in neurology, psychiatry, psychotherapy, and psychosomatic medicine diagnose and treat nervous system and mental health disorders, including depression, anxiety disorders, schizophrenia, dementia, etc. They work in German hospitals, clinics, or rehabilitation facilities, requiring a medical degree and years of specialist training.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学学位（大学） | 6年（大学） | —（公立大学学费低，部分州收少量学期费；私立大学学费高。） |
-| 专科培训（Facharzt） | 5年（含进修） | —（培训期间有薪资，无需额外学费。） |
+| Medical degree (university) | 6 years (university) | $0~$50,000 (Public universities have low tuition fees, with some states charging a small semester fee; private universities have high tuition fees.) |
+| Specialist training (Facharzt) | 5 years (including further study) | $0~$0 (Paid during training, no additional tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（Staatsexamen） | 德国大学 | 必备 | 需通过国家考试，非欧盟学历需资质认证（Anerkennung）。 |
-| 专科医师认证（Facharzt） | 各州医师协会（Ärztekammer） | 必备 | 完成5年专科培训并通过考试。 |
-| 德语C1证书 | 歌德学院等 | 必备 | 医学德语水平要求高，通常需C1。 |
-| 心理治疗资质（如适用） | 各州医师协会 | 可选 | 若从事心理治疗，需额外认证。 |
+| Medical degree (Staatsexamen) | German university | Required | Must pass national examination; non-EU qualifications require credential assessment (Anerkennung). |
+| Specialist physician certification (Facharzt) | State Medical Chambers (Ärztekammer) | Required | Complete 5 years of specialist training and pass exams. |
+| German C1 certificate | Goethe-Institut, etc. | Required | Medical German language requirements are high, usually C1 is needed. |
+| Psychotherapy qualifications (if applicable) | State medical associations | Optional | Additional certification is required to practice psychotherapy. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 35,000。德国神经精神科医生持续紧缺，老龄化社会加重需求，尤其在农村地区。联邦劳工局列为紧缺职业，就业前景极佳。
+**Job demand: very high (★★★★★).** National workforce approx. 35,000. Germany: neuropsychiatrists remain in high demand, aging society increases need, especially in rural areas. Federal Employment Agency lists as shortage occupation, excellent job prospects.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 住院医师（Assistenzarzt）起薪，含夜班补贴。 |
-| 中级（4-9年） | $80,000~$110,000 | 专科医师（Facharzt）平均收入。 |
-| 高级（10年以上） | $120,000~$180,000 | 主任医师（Oberarzt）或私人诊所经营者。 |
+| Median salary | $103,608 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Starting salary for resident physician (Assistenzarzt), including night shift allowance. |
+| Intermediate (4-9 years) | $80,000~$110,000 | Average income of a specialist physician (Facharzt). |
+| Senior (10+ years) | $120,000~$180,000 | Senior physician (Oberarzt) or private practice owner. |
+| average salary | $119,544 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★★）。** 晋升路径：完成专科培训后成为 Facharzt；可担任高级医师（Oberarzt）、主任医师（Chefarzt）；也可开设私人诊所或从事学术研究。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
+
+Career progression: After completing specialist training, become a Facharzt; can advance to senior physician (Oberarzt) or chief physician (Chefarzt); may also open a private practice or pursue academic research.
+
+**Tasks most exposed to AI:**
+
+- AI auto-annotates suspicious lesion areas (e.g., lung nodules, fracture candidate boxes), reducing technicians' initial marking workload
+- AI Auto-measurement of Quantitative Parameters (e.g., organ size, bone density) Replacing Manual Tasks
+- AI automatically generates standard imaging report drafts (e.g., negative reports); technicians only need to review and sign.
+- AI optimizes scanning protocols and exposure parameters, reducing manual adjustments of radiation
+
+**Where AI augments the role:**
+
+- AI improves low-dose image quality, enabling technicians to image sensitive groups like children and pregnant women more safely
+- AI automated serial scanning workflows (e.g., multi-phase cardiac MRI tracking) to improve complex exam efficiency
+- AI real-time noise suppression and motion artifact correction, reducing repeat scans for technicians
+- AI provides structured report templates and key image annotations, speeding up technician report writing by 50%
+- AI recommends personalized contrast dosage and injection plans based on patient data
+
+**Human moat:**
+
+- Patient communication, psychological reassurance, and positioning (especially for children, critically ill, and uncooperative patients)
+- Radiation safety compliance auditing and site emergency response
+- Professional Judgment and Final Diagnostic Responsibility for AI False Positives/Negatives
+- Cross-device coordination, quality control, and new technology validation
+- Real-time image guidance and equipment manipulation in interventional/surgical scenarios
+
+**Skills to build:**
+
+- AI-assisted diagnostic system operation and result verification (e.g., CAD, AI post-processing software)
+- Image AI quality control and deviation detection
+- Multimodal fusion imaging (PET-MRI, SPECT-CT) training
+- Patient communication and psychology: reassurance, informed consent, radiation risk explanation
+- Basic Python or DICOM data manipulation (for simple scripting and quality control)
+- Radiology informatics and evidence-based medicine literacy
+
+**Key growth areas:**
 
 - aging population
 - mental health awareness
@@ -65,70 +100,69 @@ Specialists in neurology, psychiatry, psychotherapy and psychosomatic medicine d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历人才，年薪门槛约58,400欧元（2024年），紧缺职业降至45,552欧元。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 根据技术移民法，需有认可学历或职业资格，雇主担保。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需证明经济来源。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，2024年新政策，允许未找到工作前入境求职。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated talent, annual salary threshold approx. €58,400 (2024), reduced to €45,552 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa) | According to migration law, requires recognized qualifications or professional registration, employer sponsorship. |
+| Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek employment, must prove financial resources. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, new policy in 2024 allows entry to search for work before finding a job. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine？**
-- 对医学和心理治疗有强烈兴趣的人
-- 能承受高压工作环境的人
-- 愿意长期学习并接受严格培训的人
-
-**谁不适合学Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine？**
-- 不喜欢与精神疾病患者打交道的人
-- 无法适应德语C1及以上语言要求的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For individuals with a strong interest in medicine and psychotherapy
+- Those who can handle high-pressure work environments
+- Those willing to engage in long-term learning and undergo rigorous training
+
+**Who is not suited**
+- People who do not like dealing with mental illness patients
+- People who cannot meet German C1 or higher language requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a neuropsychiatrist in Germany?**
+A: Junior doctor annual salary approx. EUR 60,000-75,000, mid-level specialist doctor approx. EUR 80,000-110,000, senior chief physician or private practice up to EUR 120,000-180,000.
+
+**Q: How can foreign doctors obtain a German work permit?**
+A: Requires: 1. Medical degree recognition (Anerkennung); 2. German C1; 3. Employer sponsorship; 4. Apply for EU Blue Card or skilled migration visa.
+
+**Q: How long does specialist training take?**
+A: Neurology/psychiatry specialist training is typically 5 years, including advanced training and examinations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极好（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 高（★★★½☆） |
-
-Specialist in Neurology, Psychiatry, Psychotherapy and Psychosomatic Medicine为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a neurologist/psychiatrist in Germany?**
-答：Junior doctors earn about €60,000-75,000, specialists €80,000-110,000, senior consultants or private practitioners €120,000-180,000 annually.
-
-**问：How can foreign doctors obtain a work permit in Germany?**
-答：Requirements: 1. Recognition of medical degree; 2. German C1; 3. Employer sponsorship; 4. Apply for EU Blue Card or Skilled Worker visa.
-
-**问：How long does specialist training take?**
-答：Specialist training in neurology/psychiatry typically takes 5 years, including rotations and exams.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

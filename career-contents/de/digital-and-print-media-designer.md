@@ -1,59 +1,91 @@
-# Digital and Print Media Designer（Digital and Print Media Designer）职业分析 · DE
+# Digital and Print Media Designer — career analysis · Germany
 
-**职业代码：2321 – Digital and Print Media Designer。**
+**Occupation code: 2321 (KldB)**
 
-Design and produce digital media (web, video, interactive) and print media (typography, print layout), including image processing, layout design, and creative concept development.
+Design and produce digital media (web, video, interactive design) and print media (typesetting, print design), including image processing, layout design, creative concept development, and other technical work.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（企业支付培训津贴，学校通常免费，仅少量杂费。） |
-| 本科（Bachelor） | 3-4年 | —（公立大学基本免学费，仅学期费约150-400欧元/学期。） |
-| 职业进修（Weiterbildung） | 1-2年 | $2,000~$10,000（如技术员或媒体设计师进修课程，费用因机构而异。） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Employers pay training allowances; schools are usually free, only minor incidental fees.) |
+| Bachelor's degree | 3-4 years | $0~$3,000 (Public universities are essentially tuition-free, with only semester fees of about 150-400 euros per semester.) |
+| Professional development (Weiterbildung) | 1-2 years | $2,000~$10,000 (Such as advanced courses for technicians or media designers; fees vary by institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体设计师培训证书（Ausbildungszeugnis） | 德国工商业协会（IHK） | 可选 | 完成三年双元制培训后获得，为入行基本资质。 |
-| 本科或硕士学位（Hochschulabschluss） | 德国大学 | 可选 | 媒体设计、视觉传达等相关专业学历，可增强竞争力。 |
+| Media designer training certificate (Ausbildungszeugnis) | German Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing a three-year dual-system training, it is the basic qualification for entry into the industry. |
+| Bachelor's or Master's degree (Hochschulabschluss) | German university | Optional | A degree in media design, visual communication, or a related field can enhance competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。德国媒体行业数字化转型持续，对跨媒体设计人才需求稳定。但入门竞争激烈，尤其传统印刷领域需求缓慢下降。具备数字化技能（如UI/UX、动效设计）的从业者前景更佳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Digital transformation in the German media industry continues, with stable demand for cross-media design talent. However, entry-level competition is fierce, especially as demand in traditional print slowly declines. Prospects are better for practitioners with digital skills (e.g., UI/UX, motion design).
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 税前年薪，小型企业或代理机构起薪较低。 |
-| 中级（3-7年） | $36,000~$48,000 | 税前年薪，具备独立项目经验。 |
-| 高级（7年以上） | $48,000~$65,000 | 税前年薪，创意总监或艺术总监职位可达更高。 |
+| Median salary | $44,688 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$36,000 | Annual pre-tax salary; small businesses or agencies may offer lower starting pay. |
+| Mid-level (3–7 years) | $36,000~$48,000 | Pre-tax annual salary, with independent project experience. |
+| Senior (7+ years) | $48,000~$65,000 | Annual salary before tax; creative director or art director positions can reach higher. |
+| average salary | $48,780 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径：初级设计师（Junior Designer）→ 资深设计师（Senior Designer）→ 创意总监（Creative Director）或艺术总监（Art Director）。也可转向UX/UI设计、产品经理等方向，部分通过深造进入学术领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Digital and print media designers face automation of repetitive layout and image processing tasks, but creative strategy, brand storytelling, and client communication become key defenses. Overall risk is moderate, with opportunities and challenges.
+
+Career path: Junior Designer → Senior Designer → Creative Director or Art Director. Can also move into UX/UI design, product management, or enter academia through further study.
+
+**Tasks most exposed to AI:**
+
+- Basic layout and templated design (e.g., social media image generation)
+- Batch image processing and color correction
+- Routine format conversion and file optimization
+- Simple web banner and ad material production
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple design variants, accelerating creative exploration
+- Optimizing visual solutions through AI analysis of user data
+- Automates repetitive tasks, freeing up time for creative ideation
+- AI-assisted colour matching and font recommendations.
+
+**Human moat:**
+
+- Deep understanding of brand strategy and user needs
+- Transmedia storytelling and creative concept development
+- Efficient communication and collaboration with clients and teams
+- Aesthetic judgment and artistic decision-making ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Adobe Firefly, Midjourney)
+- Data Visualization and User Research Basics
+- Project management and client communication skills
+- Interaction design and prototyping
+- Brand strategy and integrated marketing knowledge
+
+**Key growth areas:**
 
 - Digital Transformation
 - Multimedia Design
@@ -62,68 +94,67 @@ Design and produce digital media (web, video, interactive) and print media (typo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于拥有德国认可的大学学历且年薪达到相应门槛（2025年约43,800欧元）的从业者。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于具有职业培训资格（Ausbildung）或大学学历的从业者，需获得德国雇主offer。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许持卡人在德国找工作一年，需满足资格或语言等条件。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to practitioners with a German-recognised university degree and an annual salary meeting the relevant threshold (around €43,800 in 2025). |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to those with vocational training qualifications (Ausbildung) or a university degree, who must have a job offer from a German employer. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa that allows holders to stay in Germany for one year to find a job, subject to meeting qualification or language requirements. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Digital and Print Media Designer？**
-- 具有创意和审美能力，喜欢视觉设计工作
-- 动手能力强，能熟练使用设计软件（Adobe Creative Suite等）
-- 适应数字媒体变化，乐于学习新技术
-
-**谁不适合学Digital and Print Media Designer？**
-- 排斥重复修改设计稿、高压完成项目的工作节奏
-- 不习惯与客户沟通、理解商业需求
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative with aesthetic sense, enjoys visual design work
+- Strong hands-on ability, proficient in design software (Adobe Creative Suite, etc.).
+- Adapt to digital media changes and willing to learn new technologies
+
+**Who is not suited**
+- Rejects repetitive design revisions and high-pressure project completion workflows
+- Unaccustomed to communicating with clients and understanding business needs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for digital and print media designers in Germany?**
+A: Junior designer annual salary about €28,000-36,000, intermediate about €36,000-48,000, senior can reach over €50,000. Large companies or freelancers may earn more.
+
+**Q: As a third-country national, how can I immigrate to Germany for media design work?**
+A: Must have a German employer offer and recognized qualifications (Ausbildung/degree). Can apply for EU Blue Card or skilled migration visa, requiring language (at least B1) and salary threshold.
+
+**Q: What qualifications are needed to work as a media designer?**
+A: The most common is completing a 3-year dual training program and obtaining an IHK certificate, or having a relevant bachelor's or master's degree. Non-German qualifications may require recognition (Anerkennung).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Digital and Print Media Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for digital and print media designers in Germany?**
-答：Junior designers earn around €28,000-36,000 gross annually, mid-level €36,000-48,000, and senior can exceed €50,000. Large companies or freelancers may earn more.
-
-**问：How can a third-country national immigrate to work as a media designer in Germany?**
-答：Require a German job offer, recognized qualification (Ausbildung/degree), and apply for EU Blue Card or Skilled Worker Visa. Meet language (min. B1) and salary thresholds.
-
-**问：What qualifications are needed to work as a media designer?**
-答：Typically a 3-year dual training with IHK certificate or a related bachelor's/master's degree. Foreign qualifications may require recognition (Anerkennung).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Paralegal and Legal Services Support Professionals（Paralegal and Legal Services Support Professionals）职业分析 · ES
+# Paralegal and Legal Services Support Professionals — career analysis · Spain
 
-**职业代码：3711 – Paralegal and Legal Services Support Professionals。**
+**Occupation code: 3711 (CNO)**
 
-Paralegals and legal support professionals in Spain assist lawyers with case research, document preparation, legal research, and administrative tasks, serving as essential support in law firms and judicial institutions.
+Paralegals and judicial support professionals mainly assist lawyers in case research, document preparation, legal searches, and administrative management in Spain, serving as indispensable support in law firms and judicial institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育（FP Grado Superior） | 2年 | $300~$2,000（公立FP学费较低，私立较高） |
-| 大学本科（Grado en Derecho） | 4年 | $1,000~$6,000（公立大学学费约1000-2000欧元/年，私立更贵） |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $300~$2,000 (Public FP tuition is lower, while private schools are higher) |
+| Undergraduate (Grado en Derecho) | 4 years | $1,000~$6,000 (Tuition at public universities is about 1000-2000 euros per year, while private universities are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律助理FP（Técnico Superior en Asistencia a la Dirección） | 西班牙教育部 | 可选 | 可选的职业资格，非强制 |
-| 法律学位（Grado en Derecho） | 西班牙大学 | 可选 | 若想晋升为律师需此学位并进一步通过律师资格考试 |
+| Legal Assistant FP (Técnico Superior en Asistencia a la Dirección) | Spanish Ministry of Education | Optional | Optional professional qualifications, not mandatory |
+| Law Degree (Grado en Derecho) | Spanish University | Optional | To advance to a lawyer, you need this degree and further pass the solicitor's qualification exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙法律服务市场稳定增长，律师事务所和法律部门对专业助理需求持续。受法律程序数字化影响，具备IT技能的律师助理更受欢迎。马德里、巴塞罗那等大城市岗位集中，薪资相对稳定但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The Spanish legal services market is steadily growing, with law firms and legal departments maintaining demand for professional assistants. Influenced by the digitalization of legal procedures, legal assistants with IT skills are more popular. Positions are concentrated in major cities like Madrid and Barcelona, with relatively stable salaries but moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，大事务所可能更高 |
-| 中级（3-7年） | $25,000~$35,000 | 取决于事务所规模和专长 |
-| 高级（7年以上） | $35,000~$50,000 | 管理岗或专业领域专家 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salaries may be higher at large firms |
+| Mid-level (3–7 years) | $25,000~$35,000 | It depends on the size and expertise of the firm |
+| Senior (7+ years) | $35,000~$50,000 | Management positions or expert in professional fields |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级助理做起，积累经验后可晋升为高级律师助理或法律办公室经理。部分人通过继续教育考取律师资格或转向合规、企业法务等方向。专业认证（如FP Grado Superior）有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Conveyancer (paralegal) faces medium automation risk: AI can handle document review and template generation, but client communication, liability, and complex case law still rely on human judgment. Entry-level roles shrink slightly due to legal process digitization, but experienced practitioners can leverage AI tools to amplify efficiency.
+
+Starting as a junior assistant, you can gain experience and be promoted to senior legal assistant or legal office manager. Some pursue lawyer qualifications through continuing education or shift to compliance, corporate legal affairs, and other fields. Professional certifications (such as FP Grado Superior) help with career development.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation and preliminary review of property document templates.
+- Rule-based due diligence checklist checking
+- Automatic reminders and tracking of appointments and deadlines
+- Standardized document filling for real estate transaction processes
+- Simple proofreading and formatting of legal documents
+
+**Where AI augments the role:**
+
+- AI-Assisted Complex Title Search & Title Chain Visualization
+- Smart contract management systems improve efficiency in handling multiple cases
+- Automated generation of client progress reports and risk alerts
+- Use NLP to quickly extract key clauses and potential conflicts
+- Chatbots handle routine customer inquiries, freeing up time
+
+**Human moat:**
+
+- Legal strategy and judgment in complex property disputes
+- High-sensitivity communication with clients, banks, municipalities, etc.
+- Professional reasoning on incomplete information or conflicting clues
+- Assume sign-off responsibility and occupational risk management
+- In-depth interpretation of local regulations and location-specific advice
+
+**Skills to build:**
+
+- Hands-on experience with LegalTech tools (e.g., Clio, PracticePanther)
+- Use of AI-assisted document review platforms (e.g., Kira, Relativity)
+- Data analysis and statistics related to property rights.
+- Advanced search and information verification techniques
+- Project management and client communication skills
+- Basic programming (Python/API) to customize automated workflows
+
+**Key growth areas:**
 
 - Legal Technology
 - Corporate Compliance
@@ -61,68 +97,67 @@ Paralegals and legal support professionals in Spain assist lawyers with case res
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（High-Skilled Professional Visa (Ley 14/2013)） | 适用于被西班牙公司雇佣的高技能专业人员，需满足学历和工作经验要求。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主提供工作合同并证明职位无法由本地人填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于大学毕业生或同等技能水平，年薪需达到一定门槛（约34000欧元）。 |
+| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for highly skilled professionals employed by Spanish companies, who must meet educational and work experience requirements. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residence requires the employer to provide a work contract and prove that the position cannot be filled by a local resident. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to university graduates or equivalent skill level; annual salary must meet a certain threshold (about €34,000). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Paralegal and Legal Services Support Professionals？**
-- 善于研究和细节处理的人
-- 对法律程序感兴趣但不想成为律师的人
-- 希望在稳定行业获得办公室工作的人
-
-**谁不适合学Paralegal and Legal Services Support Professionals？**
-- 厌恶文书工作和重复性任务的人
-- 不愿承受高压力工作环境的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone skilled in research and handling details
+- People interested in legal procedures but who do not want to become lawyers
+- Those hoping to secure office jobs in stable industries
+
+**Who is not suited**
+- People who dislike paperwork and repetitive tasks
+- People who do not want to endure high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Spanish paralegals?**
+A: Junior legal assistants earn about 20,000-25,000 euros annually; experienced assistants can reach 35,000-50,000 euros. Large international law firms pay more, but competition is fierce.
+
+**Q: What procedures do foreigners need to become legal assistants in Spain?**
+A: Usually, you need to obtain a work contract and obtain a Cuenta Ajena visa or EU Blue Card. Academic qualifications must be homologación certified, but not mandatory. If you only have an FP diploma, the employer must prove that the position is difficult to fill.
+
+**Q: Can a paralegal be promoted to lawyer?**
+A: Yes, you can. Many paralegal assistants pursue law degrees (Grado en Derecho) in their spare time and take the bar exam, eventually becoming practicing lawyers. This requires an additional 4 years of study and exam preparation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Paralegal and Legal Services Support Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for paralegals in Spain?**
-答：Entry-level paralegals earn around €20,000-€25,000 per year, while experienced ones can reach €35,000-€50,000. Large international firms pay higher but competition is fierce.
-
-**问：What procedures are required for foreigners to become paralegals in Spain?**
-答：Typically need a work contract and apply for a Cuenta ajena visa or EU Blue Card. Education may require homologación but not mandatory. With only FP diploma, employer must prove shortage.
-
-**问：Can a paralegal become a lawyer?**
-答：Yes. Many paralegals pursue a law degree (Grado en Derecho) part-time and pass the bar exam to become practicing lawyers. This requires an additional 4 years of study and exam preparation.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

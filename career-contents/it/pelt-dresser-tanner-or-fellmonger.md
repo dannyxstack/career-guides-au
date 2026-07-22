@@ -1,60 +1,96 @@
-# Pelt Dresser, Tanner or Fellmonger（Pelt Dresser, Tanner or Fellmonger）职业分析 · IT
+# Pelt Dresser, Tanner or Fellmonger — career analysis · Italy
 
-**职业代码：7535 – Pelt Dresser, Tanner or Fellmonger。**
+**Occupation code: 7535 (ISCO08)**
 
-Handles raw hides, tannery processes, and pelt finishing; a skilled trade in Italy's traditional leather industry, concentrated in Tuscany and Veneto.
+Responsible for hide processing, tanning, and fur finishing; a skilled trade in Italy's traditional leather industry, especially concentrated in Tuscany and Veneto.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3年 | —（公立职业培训中心免费或低收费） |
-| 学徒制 | 3~4年 | —（带薪学徒，企业培训） |
+| Vocational training | 3 years | $0~$2,000 (Public vocational training centres are free or low-cost) |
+| Apprenticeship | 3–4 years | $0~$0 (Paid apprenticeship, company training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 雇主通常要求完成培训或学徒经历 |
-| 行业认证（如UNI标准） | 意大利标准化机构（UNI） | 可选 | 非强制，但有利于就业 |
+| No mandatory certificate | None | Optional | Employers typically require completion of training or apprenticeship |
+| Industry certification (e.g., UNI standards) | Italian National Standards Body (UNI) | Optional | Not mandatory, but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。意大利皮革产业历史悠久，但面临自动化升级和环保法规趋严的挑战，从业人数缓慢下降，高技能工匠仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. Italy's leather industry has a long history but faces challenges from automation upgrades and stricter environmental regulations; employment is slowly declining, but demand remains for highly skilled artisans.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $23,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $29,000~$35,000 | 税前年薪 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $23,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $29,000~$35,000 | Annual pre-tax salary |
+| average salary | $25,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级助手起步，可晋升为鞣革技师、车间主管，或向皮革质检、工艺研发方向发展，需积累多年经验。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Fur tanning and finishing face high automation risk, especially in raw hide processing, tanning chemical control, and mechanical finishing, where AI and robots can gradually replace manual tasks. However, traditional craftsmanship and hand finishing still provide some moat.
+
+Starting as a junior assistant, one can advance to a tanning technician, workshop supervisor, or move into leather quality inspection and process development, requiring many years of experience.
+
+**Tasks most exposed to AI:**
+
+- Hide sorting and initial cleaning: automated sorting based on visual AI and robotic arms
+- Tanning solution ratio and timing control: automated system precise dosing and pH adjustment
+- Mechanical shaving and buffing: CNC equipment automatically performs standard thickness processing.
+- Humidity and temperature monitoring: sensors and AI continuously optimize the drying process
+- Surface defect detection: computer vision replaces manual visual inspection
+
+**Where AI augments the role:**
+
+- Complex skin texture assessment and restoration decisions: AI-assisted identification of imperfections and suggestion of refinements.
+- Optimization of eco-friendly tanning formulas: AI simulates the environmental impact and effectiveness of different formulas
+- Predictive maintenance of equipment: IoT+AI predicts failures, reducing downtime
+- Customized order scheduling: AI automatically schedules based on inventory, delivery dates, and process parameters.
+- Training and remote guidance: AR+AI provides real-time operational instructions for beginners
+
+**Human moat:**
+
+- Manual assessment of precious hides and special texture treatments
+- Traditional tanning techniques and unique recipe inheritance
+- Creative realization and communication of customized customer needs
+- Cross-process coordination and quality management decision-making
+- Ability to handle non-standard exceptional items with manual finishing
+
+**Skills to build:**
+
+- Operation and programming of industrial robots and automation control systems
+- Use of data analytics and AI-assisted quality management systems
+- Knowledge of environmental regulations and green tanning processes
+- Basics of leather material science and understanding of new bio-based tanning agents
+- Application of digital twin and production line simulation software
+- Cross-cultural communication and supply chain management skills
+
+**Key growth areas:**
 
 - Leather heritage
 - Artisan skills
@@ -63,65 +99,67 @@ Handles raw hides, tannery processes, and pelt finishing; a skilled trade in Ita
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟技术工人，需雇主担保 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟工人，需年薪门槛约2.5万欧元以上 |
+| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Annual quota work visa for non-EU skilled workers, requiring employer sponsorship |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU workers, requires annual salary threshold of approx. €25,000+ |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pelt Dresser, Tanner or Fellmonger？**
-- 喜欢手工操作、对皮革工艺有兴趣的人
-- 愿意在传统制造业环境中长期工作
-- 能接受体力劳动和化学药剂接触
+**Who is suited**
+- People who enjoy manual work and have an interest in leather craft
+- Willing to work long-term in a traditional manufacturing environment
+- Able to handle physical labor and exposure to chemicals
 
-**谁不适合学Pelt Dresser, Tanner or Fellmonger？**
-- 追求高薪或快速晋升的人
-- 对化学气味或重复性工作敏感的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People sensitive to chemical odors or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of fur finishers in Italy?**
+A: Junior annual salary approx. €18,000-22,000, senior up to €29,000-35,000, above minimum wage but lower than IT and other industries.
+
+**Q: How can non-EU citizens obtain a work visa as a tanner in Italy?**
+A: Primarily through Decreto Flussi annual quota work visa, requiring employer sponsorship; high-skilled applicants can apply for EU Blue Card with an annual salary threshold of approximately €25,000.
+
+**Q: What is the future outlook for this occupation in Italy?**
+A: The traditional leather industry is affected by environmental protection and automation, leading to reduced employment, but demand for handcrafted high-end products persists, with skilled artisans in short supply.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pelt Dresser, Tanner or Fellmonger属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a pelt dresser in Italy?**
-答：Entry-level annual salary is around €18,000-22,000; senior can reach €29,000-35,000, above minimum wage but lower than IT sectors.
-
-**问：How can non-EU citizens obtain a work visa for tanner in Italy?**
-答：Mainly via Decreto Flussi annual quota work visa with employer sponsorship; high-skilled can apply for EU Blue Card with salary threshold around €25,000.
-
-**问：What is the future outlook for this occupation in Italy?**
-答：Traditional leather industry faces environmental and automation challenges, but high-end handmade products remain in demand; skilled craftsmen are scarce.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

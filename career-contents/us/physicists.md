@@ -1,60 +1,96 @@
-# Physicists（Physicists）职业分析 · 美国
+# Physicists — career analysis · United States
 
-**职业代码：19-2012 – Physicists。**
+**Occupation code: 19-2012 (SOC)**
 
-Physicists conduct research into physical phenomena, develop theories based on observation and experiments, and apply physical laws in areas ranging from particle physics to astrophysics.
+Physicists study physical phenomena through experiments and observations, develop theories, and apply physical laws, covering a broad range from particle physics to astrophysics.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $50,000~$200,000（博士通常提供全额奖学金，实际自费部分较少） |
-| 硕士学位 | 2年 | $30,000~$80,000（部分项目提供助教或研究助理减免学费） |
+| Doctoral degree (PhD) | 5-7 years | $50,000~$200,000 (PhD programs usually offer full scholarships, so actual out-of-pocket costs are low) |
+| Master's degree | 2 years | $30,000~$80,000 (Some programs offer tuition reduction through teaching or research assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学博士学位 | 大学 | 必备 | 研究型职位通常需要博士学历 |
-| 博士后研究经历 | 研究机构/大学 | 可选 | 学术职位通常需要2-3年博士后经验 |
+| PhD in Physics | University | Required | Research positions usually require PhD |
+| Postdoctoral research experience | Research institutions/universities | Optional | Academic positions usually require 2-3 years of postdoctoral experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 20,000。美国物理学家就业预计增长较慢（2022-2032年约5%），主要在科研机构、高校和国防相关领域，基础研究经费波动影响需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 20,000. US physicist employment is projected to grow slowly (about 5% from 2022-2032), mainly in research institutions, universities and defense-related fields; basic research funding fluctuations affect demand.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$85,000 | 博士后或初级研究员 |
-| 中级（4-9年） | $90,000~$130,000 | 大学助理教授或政府实验室研究员 |
-| 高级（10年以上） | $120,000~$180,000 | 终身教授、高级研究员或研发主管 |
+| Median salary | $172,250 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$85,000 | Postdoctoral or junior researcher |
+| Intermediate (4-9 years) | $90,000~$130,000 | University assistant professor or government lab researcher |
+| Senior (10+ years) | $120,000~$180,000 | Tenured professor, senior researcher, or R&D director |
+| average salary | $171,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从博士后研究开始，逐步晋升为研究员、终身教授或实验室主任。部分转向工业研发或数据科学。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The physicist's work will undergo profound changes: AI can automate data analysis and simulation, but theoretical innovation, experimental design, and complex physical intuition still rely on humans; it is a mixed blessing.
+
+Usually starts with postdoctoral research, then progresses to researcher, tenured professor, or lab director. Some move into industrial R&D or data science.
+
+**Tasks most exposed to AI:**
+
+- Automated parameter scanning and optimization for physical simulations
+- Automated preprocessing and statistical inference of experimental data.
+- Automatically generate standard physics reports and literature reviews
+- Repetitive numerical calculations and symbolic algebraic derivation
+- Automatically detect device anomalies and trigger calibration processes
+
+**Where AI augments the role:**
+
+- Use AI to accelerate theoretical derivation and hypothesis testing
+- AI-assisted design of complex experiments and optimisation of measurement plans
+- Automatically discovering new physical patterns from massive data
+- AI-driven high-dimensional parameter space exploration and visualization
+- Improve the accuracy of physical models through machine learning
+
+**Human moat:**
+
+- Propose original physical theories and hypotheses
+- Design breakthrough experiments and explain unexpected results
+- Comprehensive judgment and innovation in interdisciplinary physics problems
+- Physical intuition and simplification in complex system modeling
+- Teaching, science communication, and ethical decision-making
+
+**Skills to build:**
+
+- Machine learning frameworks (TensorFlow/PyTorch)
+- Integration of scientific computing with AI tools (e.g., PyTorch for physics simulations)
+- Data science and statistical programming (Python/R)
+- Quantum computing fundamentals and AI cross-applications
+- Automatic differentiation and symbolic AI (e.g., Mathematica automation)
+- AI model interpretability and physical consistency verification
+
+**Key growth areas:**
 
 - Quantum Computing
 - Materials Science
@@ -63,69 +99,68 @@ Physicists conduct research into physical phenomena, develop theories based on o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于研究或教学职位，通常需博士学历，配额有限，竞争激烈。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在物理学领域有杰出成就的研究人员，无配额限制。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 通过PERM劳工认证或国家利益豁免（NIW）申请绿卡，适合研究型职位。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to research or teaching positions, usually requires a PhD, limited quota, competitive. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For researchers with outstanding achievements in physics, no quota limits. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Green card via PERM labor certification or National Interest Waiver (NIW), suitable for research positions. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicists？**
-- 对基础物理研究有强烈兴趣，具备抽象思维和数学能力
-- 能承受长期学术竞争和不确定性
-- 愿意在学术界或政府实验室长期发展
-
-**谁不适合学Physicists？**
-- 偏好高薪、快速职业进阶或工业界应用
-- 不喜欢独立钻研和长时间实验室工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in basic physics research, with abstract thinking and mathematical ability
+- Able to withstand long-term academic competition and uncertainty
+- Willing to pursue long-term development in academia or government labs
+
+**Who is not suited**
+- Prefer high pay, rapid career advancement, or industry applications
+- Dislikes independent research and long laboratory hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a physicist in the US?**
+A: Based on BLS data, the median annual salary for physicists in 2023 was approximately $142,000, but entry-level roles (e.g., postdoctoral positions) range from $60,000-$80,000, while senior tenured professors can earn over $150,000.
+
+**Q: What visa pathways are available for physicists to immigrate to the US?**
+A: Common paths include H-1B (requires PhD, limited quota), O-1 visa for those with extraordinary ability (suitable for accomplished researchers), and EB-2 National Interest Waiver (NIW) green card, no PERM labor certification needed.
+
+**Q: How do physicists progress from postdoc to professor?**
+A: Typically requires 1-2 postdocs, publishing high-quality papers, and applying for academic positions (e.g., assistant professor). After 6-7 years of review, one can be promoted to tenured associate or full professor, with intense competition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 非常高（★★★★★） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Physicists为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for physicists in the US?**
-答：According to BLS, the median annual wage for physicists was about $142,000 in 2023, but entry-level positions (e.g., postdocs) range from $60,000-$80,000, while senior professors can earn over $150,000.
-
-**问：What visa options are available for physicists to immigrate to the US?**
-答：Common paths include H-1B (requires PhD, quota-limited), O-1 visa for extraordinary ability, and EB-2 NIW green card without PERM labor certification.
-
-**问：How do physicists advance from postdoc to professor?**
-答：Typically complete 1-2 postdocs, publish high-quality papers, apply for faculty positions (e.g., assistant professor), and after 6-7 years of review, become tenured associate or full professor. Competition is intense.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

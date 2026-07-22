@@ -1,58 +1,88 @@
-# Clay Products Machine Operator（Clay Products Machine Operator）职业分析 · 新西兰
+# Clay Products Machine Operator — career analysis · New Zealand
 
-**职业代码：711111 – Clay Products Machine Operator。**
+**Occupation code: 711111 (ANZSCO)**
 
-Clay Products Machine Operators in New Zealand operate and monitor machinery for producing clay bricks, tiles, pipes, and other products in manufacturing. This occupation is not on the Green List or long-term shortage list, but opportunities exist via Accredited Employer Work Visa (AEWV), and possible residence through Skilled Migrant Category (SMC) meeting wage and skill criteria.
+Clay products machine operators in New Zealand operate and monitor machines that produce clay products such as bricks, tiles, and pipes. This is a technical operations role in manufacturing. Currently not on the Green List or Long Term Skill Shortage List, but job opportunities are available via the Accredited Employer Work Visa (AEWV), and may apply for residence through the Skilled Migrant Category (SMC) if meeting relevant salary and skill requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭（NCEA Level 2） | 3年 | —（公立高中免费，国际生约 NZD 15,000/年） |
-| 新西兰学历认证（NZQF Level 4 证书） | 1年 | $5,000~$15,000（国立理工学院或私立培训机构） |
+| High school diploma (NCEA Level 2) | 3 years | $0~$0 (Public high school is free; international students approximately NZD 15,000/year) |
+| New Zealand qualification recognition (NZQF Level 4 certificate) | 1 year | $5,000~$15,000 (National polytechnic or private training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家制造技术证书（4级） | 新西兰学历认证局 (NZQA) | 可选 | 推荐但非强制，提高就业竞争力 |
-| 在职培训证书 (On-job training) | 雇主 | 可选 | 通常由雇主提供，无特定学历要求 |
+| New Zealand National Certificate in Manufacturing Technology (Level 4) | New Zealand Qualifications Authority (NZQA) | Optional | Recommended but not mandatory; enhances employability |
+| On-job training certificate | Employer | Optional | Usually provided by employer, no specific educational requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。新西兰建筑业和基础设施建设持续发展，对粘土制品的需求稳定，但机器操作自动化程度提高，竞争中等。未来五年就业数量预计缓慢增长，主要替代退休人员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. New Zealand's construction and infrastructure sectors continue to develop, with stable demand for clay products, but increased automation of machine operations and moderate competition. Employment numbers are expected to grow slowly over the next five years, mainly replacing retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约 NZD 22-26 |
-| 中级（3-5年） | $55,000~$65,000 | 时薪约 NZD 26-31 |
-| 高级（5年以上） | $65,000~$75,000 | 时薪约 NZD 31-36 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approx. NZD 22–26 |
+| Mid-level (3–5 years) | $55,000~$65,000 | Hourly rate approximately NZD 26-31 |
+| Senior (5+ years) | $65,000~$75,000 | Hourly rate approximately NZD 31-36 |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级操作员起步，积累经验后可晋升为高级操作员或生产主管，也可能转向设备维护或质量控制岗位。部分人通过培训成为生产经理，但需额外管理技能。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Clay product machine operators face high automation risk; standardised operational steps are easily replaced by AI and robots, and job demand may gradually shrink.
+
+Starting as a junior operator, you can advance to senior operator or production supervisor with experience, or move into equipment maintenance or quality control. Some become production managers through training, but additional management skills are required.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of kiln temperature and humidity
+- Adjust clay extrusion speed and mold parameters
+- Inspect finished product dimensions and defects
+- Record production data and report
+
+**Where AI augments the role:**
+
+- Use AI vision systems to automatically detect product defects (improve quality inspection efficiency)
+- Optimize kiln energy consumption and production rhythm through digital twin simulation.
+- Use AI predictive maintenance to reduce machine downtime
+
+**Human moat:**
+
+- Handle mold blockages, raw material anomalies, and other sudden breakdowns
+- Commission new product molds and optimize parameters
+- Manual Repair of Special Specifications or Custom Products
+
+**Skills to build:**
+
+- Learn automation equipment operation and programming (PLC basics)
+- Proficient in data collection and basic analysis
+- Proficient in mechanical maintenance and fault diagnosis
+- Familiar with calibration of AI visual inspection systems
+- Learn skills for collaborative operation of industrial robots
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -61,64 +91,63 @@ Clay Products Machine Operators in New Zealand operate and monitor machinery for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用雇主担保，需时薪达到 NZD 25 或以上，可工作最多3年。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需打分制，当前要求时薪至少 NZD 29.66（中位数），且职业在ANZSCO技能等级1-3中（该职业为4级，可能需额外条件）。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, employer-sponsored, requires hourly wage of NZD 25 or above, valid for up to 3 years. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, points-based, currently requiring an hourly wage of at least NZD 29.66 (median), with the occupation in ANZSCO skill level 1-3 (this occupation is level 4, may require additional conditions). |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clay Products Machine Operator？**
-- 喜欢动手操作机器，注重产品质量
-- 愿意从事制造业轮班工作
-- 适应噪音和粉尘环境
-
-**谁不适合学Clay Products Machine Operator？**
-- 不适应体力劳动或重复性工作
-- 希望快速获得新西兰永久居留权（该职业非优先）
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on operation of machinery, focuses on product quality
+- Willing to work rotating shifts in manufacturing
+- Able to adapt to noise and dust environments
+
+**Who is not suited**
+- Not suited to physical labor or repetitive work
+- Seeking fast-track New Zealand permanent residence (occupation not a priority)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for clay products machine operators in New Zealand?**
+A: Junior operators earn approximately NZD 45,000-55,000 per year, experienced ones can reach NZD 65,000-75,000. Salary increases with experience and skills.
+
+**Q: Can a clay products machine operator immigrate to New Zealand?**
+A: This occupation is not on the Green List or shortage list, but you can work first via an Accredited Employer Work Visa (AEWV). After meeting salary requirements, you may apply for residence under the Skilled Migrant Category (SMC), subject to points criteria.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Clay Products Machine Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Clay Products Machine Operators in New Zealand?**
-答：Entry-level operators earn around NZD 45,000-55,000 per year, while experienced operators can earn NZD 65,000-75,000. Salaries increase with experience and skills.
-
-**问：Can Clay Products Machine Operators immigrate to New Zealand?**
-答：This occupation is not on the Green List or shortage list, but you can work via Accredited Employer Work Visa (AEWV) and later potentially apply for residence under Skilled Migrant Category (SMC) if meeting wage and points requirements.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

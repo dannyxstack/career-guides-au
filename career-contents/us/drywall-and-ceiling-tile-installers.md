@@ -1,60 +1,93 @@
-# Drywall and Ceiling Tile Installers（Drywall and Ceiling Tile Installers）职业分析 · 美国
+# Drywall and Ceiling Tile Installers — career analysis · United States
 
-**职业代码：47-2081 – Drywall and Ceiling Tile Installers。**
+**Occupation code: 47-2081 (SOC)**
 
-Install drywall, ceiling tiles, and acoustical materials in buildings; involves measuring, cutting, and fastening panels to walls and ceilings.
+Install plasterboard or ceiling materials inside buildings, including acoustic tiles, decorative panels, etc., requiring measurement, cutting, and fixing.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定时长 | —（基本入学要求） |
-| 学徒培训 | 3-4年 | —（通常在职培训，可能涉及少量课程费用） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Basic admission requirements) |
+| Apprenticeship training | 3-4 years | $0~$5,000 (Typically on-the-job training, may involve minor course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒证书 | 美国劳工部或州学徒机构 | 可选 | 完成3-4年学徒计划后可获得 |
-| OSHA安全认证 | 职业安全与健康管理局 | 可选 | 部分雇主或工地要求 |
+| Apprenticeship certificate | US Department of Labor or state apprenticeship agencies | Optional | Can be obtained after completing a 3-4 year apprenticeship program |
+| OSHA safety certification | Occupational Safety and Health Administration | Optional | Required by some employers or sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 107,000。美国建筑行业持续增长，加上旧房翻新需求，预计2022-2032年就业增长约4%，与平均水平持平，每年约23,000个岗位空缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 107,000. The US construction industry continues to grow, plus demand for old home renovations; employment growth is projected at about 4% from 2022-2032, about as fast as the average, with roughly 23,000 job openings per year.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 入门级（1-4年） | $34,000~$46,000 | 学徒或新手 |
-| 中级（5-9年） | $46,000~$60,000 | 熟练工 |
-| 高级（10年以上） | $60,000~$78,000 | 领班或承包商 |
+| Median salary | $58,930 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (1-4 years) | $34,000~$46,000 | Apprentice or beginner |
+| Intermediate (5-9 years) | $46,000~$60,000 | Skilled worker |
+| Senior (10+ years) | $60,000~$78,000 | Foreman or contractor. |
+| average salary | $63,600 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒做起，逐步晋升为熟练工、领班，或自主创业成为承包商。部分人可转向相关领域如隔音工程或建筑检查。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Drywall and ceiling installers are significantly affected by AI and automation; core tasks like measuring, cutting, and fixing can be replaced by robots or automated tools. Entry-level jobs are shrinking due to digital tools, but on-site installation still requires manual flexibility.
+
+Usually starts as an apprentice, gradually advancing to journeyman, foreman, or starting own business as a contractor. Some move into related fields like soundproofing engineering or building inspection.
+
+**Tasks most exposed to AI:**
+
+- Using laser range finders and automatic cutting machines for sheet measurement and cutting
+- Use robots to handle and position plasterboard for installation
+- Generate installation layout diagrams automatically from BIM models, reducing manual setting out
+- Using automatic screw guns for standardized fastening operations
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay installation guidance, improving accuracy in complex areas
+- Use drones or robots for overhead ceiling inspection and measurement
+- Automatically record installation progress and material consumption via mobile app
+- Use AI-assisted acoustic simulation to optimize soundproofing material placement
+
+**Human moat:**
+
+- Flexibility in handling non-standard wall shapes and on-site obstacles
+- Experience in resolving conflicts through coordination with other trades (electricians, plumbers).
+- Fine finishing and edge trimming skills
+- Knowledge of installing special materials (e.g., fireproof, soundproof panels)
+
+**Skills to build:**
+
+- BIM model interpretation and collaborative operation
+- Programming of automatic laser measurement and cutting equipment
+- AR/VR-assisted installation tool operation
+- Robot assistant maintenance and basic programming
+- Project management and on-site coordination skills
+- Green building soundproofing and fireproof material installation technology
+
+**Key growth areas:**
 
 - Construction growth
 - Renovation demand
@@ -63,65 +96,67 @@ Install drywall, ceiling tiles, and acoustical materials in buildings; involves 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 适用于临时或季节性建筑工人，但申请要求高，名额有限。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference） | 可通过PERM劳工认证申请绿卡，但需雇主担保且证明劳工短缺。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Applicable to temporary or seasonal construction workers, but application requirements are high and slots are limited. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference) | Can apply for green card through PERM labor certification, but requires employer sponsorship and proof of labor shortage. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Drywall and Ceiling Tile Installers？**
-- 动手能力强的人
-- 喜欢户外或工地工作
-- 能适应体力劳动和长时间站立
+**Who is suited**
+- People with strong hands-on skills
+- Prefers outdoor or construction site work
+- Able to handle physical labor and long periods of standing
 
-**谁不适合学Drywall and Ceiling Tile Installers？**
-- 偏好办公室工作的人
-- 对灰尘和噪音敏感
+**Who is not suited**
+- Those who prefer office work
+- Sensitive to dust and noise
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average wage for a drywall installer?**
+A: According to BLS data, the 2023 median annual salary is about $48,000, entry-level around $34,000, and senior up to $78,000.
+
+**Q: Can foreign nationals work in this occupation via H-1B visa?**
+A: Generally no, because H-1B requires a specialty occupation (usually needing a bachelor's degree), while this occupation typically does not. Consider H-2B temporary work visa or EB-3 green card (but the employer must prove labor shortage).
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can advance from apprentice to skilled worker, supervisor, or start own business as a contractor. Can also transition to related fields such as acoustic engineering or building inspection.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Drywall and Ceiling Tile Installers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for drywall installers?**
-答：According to BLS, the median annual wage in 2023 was about $48,000, with entry-level around $34,000 and experienced up to $78,000.
-
-**问：Can foreigners work in this occupation via H-1B visa?**
-答：Generally no, as H-1B requires a specialty occupation (usually a bachelor's degree). H-2B temporary visa or EB-3 green card (with labor certification) may be options.
-
-**问：Are there advancement opportunities?**
-答：Yes, from apprentice to journeyman, foreman, or self-employed contractor. You can also move into soundproofing, inspection, or related fields.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

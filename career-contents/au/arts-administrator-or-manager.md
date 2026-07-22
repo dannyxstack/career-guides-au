@@ -1,59 +1,95 @@
-# Arts Administrator or Manager（Arts Administrator or Manager）职业分析 · 澳大利亚
+# Arts Administrator or Manager — career analysis · Australia
 
-**职业代码：139911 – Arts Administrator or Manager。**
+**Occupation code: 139911 (ANZSCO)**
 
-Arts Administrators or Managers plan, organize, and direct the operations of arts organizations or projects, including budgeting, fundraising, marketing, and team management to ensure successful implementation of artistic activities.
+An arts manager plans, organises, and directs the operations of an arts institution or project, including budgeting, fundraising, marketing, and team management, ensuring successful execution of arts activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$50,000（每年学费，国际学生约30,000-50,000澳元） |
-| 硕士学位 | 1-2年 | $35,000~$55,000（每年学费，国际学生约35,000-55,000澳元） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Annual tuition for international students approx. AUD 30,000-50,000) |
+| Master's degree | 1-2 years | $35,000~$55,000 (Annual tuition fees, international students approximately A$35,000-55,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术管理或相关领域学士学位 | 澳洲大学 | 必备 | 通常要求相关学历，如艺术管理、商科、传媒等 |
-| VETASSESS 技能评估 | VETASSESS | 必备 | 移民技术评估机构，需要相关学历和工作经验 |
-| 项目管理认证 | PMI 或同等机构 | 可选 | 非强制但可提升竞争力 |
+| Bachelor's degree in Arts Management or related field | Australian universities | Required | Usually requires relevant qualifications, such as arts management, business, media, etc. |
+| VETASSESS skills assessment | VETASSESS | Required | Migration skills assessment body requiring relevant qualifications and work experience |
+| Project management certification. | PMI or equivalent body | Optional | Not mandatory but can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。随着澳洲文化创意产业持续发展，对专业艺术管理人才的需求稳步增长。政府资助和私人投资增加，特别是在悉尼、墨尔本等艺术中心，就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. As Australia's cultural and creative industries continue to grow, demand for professional arts management talent is steadily increasing. Government funding and private investment are rising, especially in art hubs like Sydney and Melbourne, creating good employment prospects.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理或协调员职位 |
-| 中级（3-7年） | $70,000~$95,000 | 经理职位 |
-| 高级（7年以上） | $95,000~$130,000 | 高级经理或总监职位 |
+| Median salary | $147,940 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant or Coordinator positions |
+| Mid-level (3–7 years) | $70,000~$95,000 | Manager position |
+| Senior (7+ years) | $95,000~$130,000 | Senior manager or director position |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径通常从协调员或助理开始，积累经验后可晋升为部门经理或总监。资深经理有机会担任大型艺术机构首席执行官或创办自己的艺术咨询公司。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roles in arts management or administration will see significant automation of administrative tasks (e.g., budgeting, scheduling) due to AI, while AI tools will enhance marketing, audience analysis, and strategic planning. Managers will need to shift to higher-level creative and human decision-making.
+
+Career path typically starts as coordinator or assistant; with experience, can advance to department manager or director. Senior managers may become CEO of large arts organizations or start their own art consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate financial reports and budget tracking
+- Uses AI scheduling software to optimize venue and staff rostering
+- Automated social media posting and basic marketing copy
+- Handles ticket sales and customer data entry.
+- Generate activity summaries and standardized reports
+
+**Where AI augments the role:**
+
+- Use AI to analyze audience preferences to optimize program planning
+- Using AI tools to assist fundraising copy and sponsorship proposals
+- Use natural language processing to monitor media comments and public opinion.
+- Enhances audience segmentation and personalised marketing campaigns
+- Using AI simulation to predict event crowd flow and resource needs
+
+**Human moat:**
+
+- Build key relationships with artists, sponsors, and the community
+- Strategic judgment in art content and curation direction
+- Handle crises, conflicts, and unforeseen on-site issues.
+- Advocating for artistic value and multicultural expression
+- Creative direction decisions and brand narrative
+
+**Skills to build:**
+
+- Master data analysis tools (e.g., Python/Tableau)
+- Learning AI-assisted marketing and CRM systems
+- Develop digital media and social media strategy skills
+- Enhance project management and agile working methods
+- Understand AI ethics and data privacy regulations
+- Strengthen communication and negotiation skills
+
+**Key growth areas:**
 
 - creative industries
 - cultural policy
@@ -62,69 +98,68 @@ Arts Administrators or Managers plan, organize, and direct the operations of art
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa (TSS)） | 雇主担保临时签证，适用于有雇主担保的申请人，可转186永居 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民永居签证，需要获得州政府提名 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区技术移民临时签证，满足条件后可转191永居 |
-| Subclass 186（Employer Nomination Scheme (ENS) Visa） | 雇主担保永居签证，需要雇主提名并通过职业评估 |
+| Subclass 482 (Skills in Demand Visa (TSS)) | Employer-sponsored temporary visa for applicants with a sponsor, can transition to 186 permanent residency |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration permanent visa, requires state government nomination |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional skilled migration provisional visa; can transfer to 191 permanent residency after meeting conditions. |
+| Subclass 186 (Employer Nomination Scheme (ENS) Visa) | Employer-sponsored permanent residence visa, requires employer nomination and skills assessment |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Arts Administrator or Manager？**
-- 热爱艺术和文化事业，具备组织协调能力
-- 善于沟通和团队合作，有筹款或营销经验
-- 具备财务管理知识，能处理预算和报告
-
-**谁不适合学Arts Administrator or Manager？**
-- 不喜欢行政和文书工作，缺乏耐心
-- 不愿意应对不稳定的资金环境和项目压力
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about art and culture, with organizational and coordination skills
+- Good communication and teamwork skills, with fundraising or marketing experience
+- Possess financial management knowledge, able to handle budgets and reports
+
+**Who is not suited**
+- Dislikes administrative and clerical work, lacks patience
+- Unwilling to cope with unstable funding environments and project pressures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an Arts Management Manager?**
+A: Junior annual salary approx. AUD 55,000-70,000, mid-level approx. AUD 70,000-95,000, senior up to AUD 95,000-130,000, depending on location and institution size.
+
+**Q: How can an arts management manager immigrate to Australia?**
+A: This occupation is on the CSOL and eligible for employer-sponsored (482/186) or state-sponsored (190/491) visas. Requires a VETASSESS skills assessment and relevant work experience.
+
+**Q: What are the career development paths for an arts management manager?**
+A: Start as an assistant or coordinator, advance to manager, senior manager, and eventually become an executive director or start a consulting firm.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Arts Administrator or Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Arts Administrators or Managers?**
-答：Entry-level salary is around AUD 55,000-70,000, mid-level AUD 70,000-95,000, and senior AUD 95,000-130,000, varying by location and organization size.
-
-**问：How can Arts Administrators or Managers migrate to Australia?**
-答：This occupation is on the CSOL, eligible for employer-sponsored (482/186) or state-nominated (190/491) visas, requiring VETASSESS skills assessment and relevant work experience.
-
-**问：What are the career development paths for Arts Administrators or Managers?**
-答：Start as assistant or coordinator, advance to manager, senior manager, and eventually executive director or start your own consultancy.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Personal Care Workers in Health Services Not Elsewhere Classified（Personal Care Workers in Health Services Not Elsewhere Classified）职业分析 · ES
+# Personal Care Workers in Health Services Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：5629 – Personal Care Workers in Health Services Not Elsewhere Classified。**
+**Occupation code: 5629 (CNO)**
 
-Provide daily living assistance and basic care to elderly, disabled, and chronically ill individuals in healthcare settings or homes, including personal hygiene, feeding, and mobility support.
+Providing daily living assistance and basic care for the elderly, disabled, and patients with chronic diseases in medical institutions or homes, including personal hygiene, diet, mobility, and more.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | $500~$3,000（公立FP学费低，私立较高） |
-| 职业培训（FP Grado Superior） | 2年 | $500~$4,000（高级别护理相关FP） |
+| Vocational Training (FP Grado Medio) | 2 years | $500~$3,000 (Public FP tuition is low, while private schools are higher) |
+| Vocational Training (FP Grado Superior) | 2 years | $500~$4,000 (Advanced care-related FP) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理助理职业资格 | SEPE/自治大区 | 必备 | 需完成FP或认证培训 |
-| 急救证书 | 红十字会或认可机构 | 可选 | 部分雇主要求 |
+| Professional qualification for nursing assistants | SEPE/Autonomous region | Required | Completion of FP or certification training is required |
+| First aid certificate | Red Cross or accredited organizations | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。西班牙老龄化加速，对个人护理员需求持续增长，尤其在家政护理和养老院。但工资普遍较低，工作条件艰苦，人员流动性大。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. Spain's aging population is accelerating, and the demand for personal caregivers continues to grow, especially in domestic care and nursing homes. However, wages are generally low, working conditions are tough, and staff turnover is high.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$19,000 | 多为兼职或临时合同 |
-| 中级（3-7年） | $19,000~$23,000 | 全职，含夜班补贴 |
-| 高级（7年以上） | $23,000~$28,000 | 主管或专门护理岗位 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$19,000 | Most are part-time or temporary contracts |
+| Mid-level (3–7 years) | $19,000~$23,000 | Full-time, including night shift allowance |
+| Senior (7+ years) | $23,000~$28,000 | supervisor or specialized nursing position |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从护理助理晋升为护理员主管，或通过进修成为护士助理、社会工作者。部分进入医疗行政或社区服务管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of personal caregivers faces mixed effects from AI: physical and emotional interaction is difficult to automate, but administrative tasks like scheduling coordination and document recording are efficiently taken over by AI, narrowing entry-level positions due to remote monitoring technology.
+
+You can be promoted from nursing assistant to head of nursing staff, or through further training to become a nurse assistant or social worker. Some enter medical administration or community service management.
+
+**Tasks most exposed to AI:**
+
+- Record daily care logs using voice assistants or chatbots
+- Use AI scheduling systems to automatically arrange nurse shifts and route planning
+- Smart sensors automatically monitor vital signs and generate alerts
+- AI-generated partial drafts of personalized diet and activity plans
+- Automatically organize medical bills and insurance declaration documents
+
+**Where AI augments the role:**
+
+- AI assists in analyzing elderly behavioral patterns, providing early warnings of falls or deteriorating health
+- The intelligent voice assistant provides medication reminders and health knowledge queries, enhancing service efficiency
+- AI-driven training simulation systems help caregivers improve their communication skills
+- Wearable device data is integrated into care plans to enable personalized care
+- Natural language processing tools help caregivers communicate efficiently with family members and doctors
+
+**Human moat:**
+
+- Build emotional trust and close relationships with those you care for
+- Handling sudden mood swings or nonverbal signals (such as depression and fear)
+- Performing fine personal care that requires manual flexibility and judgment (such as bathing and changing dressing)
+- Making ethical decisions in complex family or cross-cultural contexts
+- Offering unique companionship and psychological comfort for humans
+
+**Skills to build:**
+
+- Operation of basic health monitoring devices (such as smart blood pressure monitors, fall detectors)
+- Use care management software and electronic health record systems
+- Communication and empathy deepening training (such as nonviolent communication, dementia care)
+- Basic Data Analysis Skills (Interpreting Personal Care AI Reports)
+- Interdisciplinary collaboration (working with remote doctors and AI consultants)
+- Digital literacy and online help-seeking skills
+
+**Key growth areas:**
 
 - aging population
 - home care
@@ -63,62 +99,64 @@ Provide daily living assistance and basic care to elderly, disabled, and chronic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Workers） | 需雇主提供工作合同，通过劳动力市场测试，非紧缺职业担保困难。 |
-| Subclass Busqueda empleo（Job Search Visa） | 高学历者可申请，但护理员职位通常不符合要求。 |
+| Subclass Cuenta ajena (Work Permit for Employed Workers) | Requires employer to provide a work contract and pass a labor market test; sponsorship for non-occupations in demand is difficult. |
+| Subclass Busqueda empleo (Job Search Visa) | Those with higher education can apply, but caregiver positions usually do not meet the requirements. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Care Workers in Health Services Not Elsewhere Classified？**
-- 有耐心和同理心的人
-- 愿意从事体力劳动的人
-- 寻求稳定工作但不追求高薪的人
+**Who is suited**
+- People with patience and empathy
+- People willing to engage in physical labor.
+- People seeking stable jobs but not chasing high salaries
 
-**谁不适合学Personal Care Workers in Health Services Not Elsewhere Classified？**
-- 厌恶体力劳动和夜班的人
-- 希望高收入和高社会地位的人
+**Who is not suited**
+- People who dislike manual labor and night shifts
+- People who want high incomes and high social status
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level?**
+A: Entry-level annual salary approx €15,000-19,000, senior up to €28,000, but overall low.
+
+**Q: Is it easy for foreigners to immigrate and do this job?**
+A: Difficult. This occupation is not highly skilled, requires employer sponsorship, and is tested by the labor market; third-country immigration has almost no pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Personal Care Workers in Health Services Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level?**
-答：Entry-level annual salary is about 15,000-19,000 EUR, senior up to 28,000 EUR, but generally low.
-
-**问：Is it easy for foreigners to immigrate for this job?**
-答：Difficult. It is not high-skilled, requires employer sponsorship and labor market test, with almost no migration pathway for third-country nationals.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

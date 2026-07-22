@@ -1,58 +1,90 @@
-# Dredge Operators（Dredge Operators）职业分析 · 美国
+# Dredge Operators — career analysis · United States
 
-**职业代码：53-7031 – Dredge Operators。**
+**Occupation code: 53-7031 (SOC)**
 
-Operate dredges to remove sand, gravel or other materials to excavate and maintain navigable channels in waterways, ensuring safe passage for vessels.
+Operate dredges to remove sediment like sand and gravel from waterways, maintain channel depth, and ensure safe navigation for ships. Work environment is mostly on water or in coastal areas.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立学校教育免费） |
-| 在职培训（1-3年） | 1-3年 | —（在职培训期间带薪学习） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public school education is free) |
+| On-the-job training (1-3 years) | 1-3 years | $0~$5,000 (Paid learning during on-the-job training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商船船员证书（MMC） | 美国海岸警卫队 | 必备 | 操作挖泥船需持有相应等级的MMC证书。 |
-| 交通工人身份证明（TWIC） | 美国运输安全管理局 | 必备 | 进出港口和船舶设施必备。 |
+| Merchant Mariner Credential (MMC) | United States Coast Guard | Required | Operating a dredge requires a relevant MMC certificate. |
+| Transportation Worker Identification Credential (TWIC) | U.S. Transportation Security Administration | Required | Required for entering and exiting ports and vessel facilities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。美国沿海和内陆水道维护需求稳定，基础设施投资增加，预计就业机会缓慢增长。但受天气和项目周期性影响。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,000. Stable demand for US coastal and inland waterway maintenance, increased infrastructure investment, expected slow job growth. However, affected by weather and project cycles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 学徒或在岸辅助工作 |
-| 中级（3-7年） | $55,000~$75,000 | 独立操作常见 |
-| 高级（7年以上） | $75,000~$95,000 | 资深操作员或主管 |
+| Median salary | $49,640 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Apprenticeship or onshore auxiliary work. |
+| Mid-level (3–7 years) | $55,000~$75,000 | Independent operation common |
+| Senior (7+ years) | $75,000~$95,000 | Senior operator or supervisor |
+| average salary | $56,120 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级操作员起步，积累经验后可晋升为高级操作员、班组长或项目经理。部分人员可转向工程或设备管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dredge operator roles face high automation risk; AI and unmanned vessels can perform dredging tasks accurately around the clock, significantly reducing labor demand and entry-level positions.
+
+Start as a junior operator, gain experience, then advance to senior operator, team leader, or project manager. Some may transition to engineering or equipment management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic navigation and route planning.
+- Sediment concentration detection and automatic adjustment of excavation depth
+- Equipment fault warning and remote diagnosis
+- Automatic recording of navigation logs and operational data
+
+**Where AI augments the role:**
+
+- AI-assisted real-time underwater terrain modeling optimizes excavation paths
+- AI predicts water flow and sediment movement to improve operational efficiency
+- AI monitoring system alerts for abnormal situations assist remote operators
+- AI generates work reports and compliance documents
+
+**Human moat:**
+
+- On-site manual repair of emergency breakdowns
+- Judgment and decision-making in complex hydrological environments
+- Communicate and coordinate with port and waterway management authorities
+- Safety management and emergency response responsibilities
+
+**Skills to build:**
+
+- Remote control and unmanned system operations
+- Automation system troubleshooting and maintenance.
+- Geographic Information Systems (GIS) and hydrological data analysis
+- Python or basic programming for data monitoring
+- Project management and compliance knowledge
+
+**Key growth areas:**
 
 - Marine Construction
 - Infrastructure Maintenance
@@ -61,65 +93,64 @@ Operate dredges to remove sand, gravel or other materials to excavate and mainta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 专业职业，需与工程或相关技术岗位匹配。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 技术工人绿卡，需要雇主担保和PERM劳工证。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM申请职业移民绿卡，需证明无法招聘到美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Professional occupation, must match engineering or related technical roles. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card for skilled workers requires employer sponsorship and PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for employment-based green card through PERM, requiring proof that no US workers are available. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dredge Operators？**
-- 喜欢户外和水上工作
-- 能够接受长时间离家工作
-- 适应体力劳动和机械操作
-
-**谁不适合学Dredge Operators？**
-- 晕船或对水上工作不适应
-- 追求办公室稳定作息
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor and water work
+- Able to accept long periods away from home
+- Able to adapt to physical labor and machinery operation
+
+**Who is not suited**
+- Prone to seasickness or unsuitable for on-water work
+- Pursuing office stability and regular hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dredge operators?**
+A: Entry-level approx. $40,000-55,000, mid-to-senior up to $75,000-95,000, varies by experience, vessel type, and location.
+
+**Q: How can a dredge operator immigrate to the US?**
+A: Common path is H-1B (requires related major) or EB-3 skilled worker green card, both need employer sponsorship and PERM labor certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dredge Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dredge operators?**
-答：Entry-level around $40,000-$55,000, mid-level $55,000-$75,000, senior up to $95,000, depending on experience, vessel type, and location.
-
-**问：How can dredge operators immigrate to the US?**
-答：Common paths include H-1B visa (requires relevant degree) or EB-3 green card for skilled workers, both requiring employer sponsorship and PERM labor certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

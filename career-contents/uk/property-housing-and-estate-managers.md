@@ -1,59 +1,93 @@
-# Property, housing and estate managers（Property, housing and estate managers）职业分析 · UK
+# Property, housing and estate managers — career analysis · United Kingdom
 
-**职业代码：1251 – Property, housing and estate managers。**
+**Occupation code: 1251 (SOC)**
 
-Manage shopping centres, residential areas, offices and private estates, arrange sale, purchase, rental and leasing of property, and provide facilities management services for businesses.
+Responsible for managing shopping centers, residential areas, offices, and private properties, arranging property sales, purchases, leases, and providing facility management services to enterprises.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$12,000（英格兰本科国际生学费约£15,000-£25,000/年） |
-| 研究生文凭 | 1年 | $6,000~$10,000（部分大学提供房地产管理相关课程） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (International undergraduate tuition in England approx £15,000-£25,000/year) |
+| Graduate diploma | 1 year | $6,000~$10,000 (Some universities offer property management related courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RICS特许测量师 | 皇家特许测量师学会 | 可选 | 行业最受认可的资格 |
-| CIH特许会员 | 特许住房学会 | 可选 | 住房管理领域认可 |
-| BIFM资格 | 英国设施管理协会 | 可选 | 设施管理方向 |
+| RICS Chartered Surveyor | Royal Institution of Chartered Surveyors | Optional | The most recognized qualification in the industry |
+| Chartered Member of CIH | Chartered Institute of Housing | Optional | Recognized in the housing management field |
+| BIFM Qualification | British Institute of Facilities Management | Optional | Facility management direction |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 55,000。英国房地产市场持续发展，物业管理需求稳定。预计2024-2034年就业岗位增长约5%，受商业地产复苏和租赁市场需求推动。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 55,000. The UK real estate market continues to develop, with stable demand for property management. Employment is projected to grow by about 5% from 2024 to 2034, driven by commercial property recovery and rental market demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 助理物业经理 |
-| 中级（3-7年） | $30,000~$45,000 | 物业经理 |
-| 高级（7年以上） | $45,000~$70,000 | 高级物业经理/区域总监 |
+| Median salary | $43,365 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | Assistant Property Manager |
+| Mid-level (3–7 years) | $30,000~$45,000 | Property Manager |
+| Senior (7+ years) | $45,000~$70,000 | Senior Property Manager/Regional Director |
+| average salary | $54,340 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级物业经理可晋升为区域经理、运营总监，或转向资产管理、房地产投资等方向。获得皇家特许测量师学会（RICS）资格可加速职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
+
+Junior property managers can progress to regional manager, operations director, or move into asset management, real estate investment etc. Obtaining RICS qualification can accelerate career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically collects comparable sales data from public databases and listing websites
+- Generate standardized initial valuation report text and tables
+- Quantitative value adjustment calculations based on historical data and market trends
+- Check calculation errors and formatting consistency in appraisal reports
+
+**Where AI augments the role:**
+
+- Use AI models to quickly analyze large volumes of transaction data, identifying market trends and anomalies
+- Automatically assess location and surrounding environment using Geographic Information Systems (GIS) and street-view imagery
+- Uses parametric models to test the sensitivity of results to different valuation assumptions.
+- Automatically generate client presentation materials with data visualizations and interactive maps
+- Using natural language processing to extract key information from lease contracts and planning documents
+
+**Human moat:**
+
+- Subjective judgment and experience valuation for unique properties (e.g., historic buildings, industrial sites)
+- Handle complex appraisals involving rare property issues, legal restrictions, or environmental risks
+- Communicate and negotiate with clients, lawyers, and developers in person and explain valuation logic
+- Provides expert testimony in litigation or tax disputes
+
+**Skills to build:**
+
+- Proficiency in SQL and Python for automated data scraping and cleaning
+- Learning to use AI tools specialized for real estate appraisal (e.g., HouseCanary, Geophy)
+- Improve GIS and spatial data analysis skills for site assessment
+- Strengthen communication and negotiation skills for complex client scenarios.
+- Learn basic machine learning concepts to understand AI model bias and limitations
+- Obtain advanced certifications (e.g., AACI, P.App) to strengthen qualifications
+
+**Key growth areas:**
 
 - Property Management
 - Facilities Management
@@ -62,65 +96,64 @@ Manage shopping centres, residential areas, offices and private estates, arrange
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的物业经理，满足薪资要求（通常£26,200/年或以上）。 |
-| Subclass Graduate（Graduate Visa） | 在英国完成学位的毕业生可申请，在英工作2年（博士3年）积累经验。 |
-| Subclass Scale-up（Scale-up Visa） | 适用于高增长企业雇用的物业经理，需满足薪资门槛。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applies to property managers who obtain employer sponsorship and meet salary requirements (usually £26,200/year or more). |
+| Subclass Graduate (Graduate Visa) | Graduates who completed their degree in the UK can apply, gaining 2 years of work experience in the UK (3 years for PhDs). |
+| Subclass Scale-up (Scale-up Visa) | Applicable to property managers employed by high-growth companies, must meet salary threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Property, housing and estate managers？**
-- 具备组织协调和沟通能力者
-- 对房地产市场和资产管理感兴趣者
-- 有客户服务或销售背景者
-
-**谁不适合学Property, housing and estate managers？**
-- 不喜欢与客户直接打交道者
-- 对数字和分析不敏感者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with organizational, coordination, and communication skills
+- Those interested in real estate market and asset management
+- Those with customer service or sales background
+
+**Who is not suited**
+- Those who prefer not to deal directly with customers
+- Those not sensitive to numbers and analytics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of property managers in London?**
+A: Salaries in London are typically 15-20% higher than the national average; mid-level property managers earn around £35,000-£55,000 per year.
+
+**Q: How can overseas applicants become a Property Manager in the UK through the Skilled Worker visa?**
+A: Must obtain UK employer sponsorship, position on the eligible occupations list, salary not less than £26,200/year or industry standard. Usually requires relevant qualification or work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Property, housing and estate managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for property managers in London?**
-答：Salaries in London are typically 15-20% higher than the national average, with mid-level property managers earning £35,000-£55,000 per year.
-
-**问：How can overseas applicants become property managers in the UK via the Skilled Worker visa?**
-答：They need a job offer from a UK employer, the role must be eligible for sponsorship, and salary at least £26,200/year or the going rate. Relevant qualifications or experience are usually required.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

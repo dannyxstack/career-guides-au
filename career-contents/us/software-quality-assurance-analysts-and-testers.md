@@ -1,59 +1,95 @@
-# Software Quality Assurance Analysts and Testers（Software Quality Assurance Analysts and Testers）职业分析 · 美国
+# Software Quality Assurance Analysts and Testers — career analysis · United States
 
-**职业代码：15-1253 – Software Quality Assurance Analysts and Testers。**
+**Occupation code: 15-1253 (SOC)**
 
-Develop and execute software tests to identify problems and report defects, ensuring software quality.
+Develop and execute software tests, identify issues, and report defects to ensure software quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 计算机科学学士学位 | 4年 | $40,000~$120,000（公立大学年均学费1-3万美元） |
-| 副学士学位或证书课程 | 2年 | $10,000~$30,000（社区学院或技术学校） |
+| Bachelor's degree in computer science | 4 years | $40,000~$120,000 (Public university average annual tuition USD 10,000-30,000) |
+| Associate degree or certificate program | 2 years | $10,000~$30,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ISTQB认证测试员 | 国际软件测试资格委员会 | 可选 | 全球认可的基础级认证 |
-| Certified Software Quality Analyst (CSQA) | Quality Assurance Institute | 可选 | 高级质量保证认证 |
-| 计算机科学学士学位 | 认证大学 | 必备 | 常见雇主最低要求 |
+| Bachelor's degree in computer science | Accredited university | Required | Common minimum employer requirements |
+| ISTQB Certified Tester | International Software Testing Qualifications Board (ISTQB). | Optional | Globally recognized foundational certification |
+| Certified Software Quality Analyst (CSQA) | Quality Assurance Institute | Optional | Advanced Quality Assurance Certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 211,300。美国劳工统计局预测，2023-2033年就业增长约25%，远高于平均水平，受数字化转型推动。
+**Job demand: very high (★★★★½).** National workforce approx. 211,300. The US Bureau of Labor Statistics predicts employment growth of about 25% from 2023-2033, much faster than average, driven by digital transformation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$85,000 | 入门级测试员或分析师 |
-| 中级（3-7年） | $80,000~$120,000 | 资深测试工程师或自动化测试员 |
-| 高级（7年以上） | $110,000~$160,000 | 测试经理或质量保证总监 |
+| Median salary | $104,300 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$85,000 | Entry-level tester or analyst |
+| Mid-level (3–7 years) | $80,000~$120,000 | Senior Test Engineer or Automation Tester |
+| Senior (7+ years) | $110,000~$160,000 | Test manager or quality assurance director |
+| average salary | $111,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 从初级测试员晋升为高级测试工程师、测试经理或质量保证总监，也可转向软件开发或自动化测试领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Progress from junior tester to senior test engineer, test manager, or QA director; can also transition to software development or automation testing.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Software Testing
 - Automation
@@ -62,69 +98,68 @@ Develop and execute software tests to identify problems and report defects, ensu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见工作签证，需学士学位，每年配额有限，抽签制。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合高级学位或特殊能力者，通过PERM劳工认证。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合学士学位或技术工人，通过PERM劳工认证，排期较长。 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大或墨西哥公民，计算机系统分析师类别。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common work visa, requires bachelor's degree, annual quota limited, lottery system. |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for those with advanced degrees or special abilities, through PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree holders or skilled workers, via PERM labor certification, with long wait times. |
+| Subclass TN (TN Status (USMCA)) | Applicable to Canadian or Mexican citizens, under the Computer Systems Analyst category. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Quality Assurance Analysts and Testers？**
-- 注重细节，逻辑思维强的人
-- 对软件质量有热情，善于沟通的人
-- 愿意学习自动化测试工具的人
-
-**谁不适合学Software Quality Assurance Analysts and Testers？**
-- 不喜欢重复性工作或严格流程的人
-- 缺乏耐心，不善于发现细微问题的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented with strong logical thinking
+- Passionate about software quality and good at communication
+- People willing to learn automated testing tools
+
+**Who is not suited**
+- People who dislike repetitive work or strict processes
+- Those lacking patience and not good at noticing subtle issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for software quality assurance analysts?**
+A: Average annual salary in the US is about $95,000, entry-level $55,000-85,000, senior level $110,000-160,000, depending on experience and certifications.
+
+**Q: Is it easy for software quality assurance analysts to immigrate to the US?**
+A: Belongs to STEM occupations; H-1B visa is common but subject to quota limits. EB-2/EB-3 green card pathways are feasible but require employer sponsorship and waiting periods; overall difficulty is moderate.
+
+**Q: What is the future outlook for this occupation?**
+A: Projected 25% growth by 2033, much faster than average, driven by increased demand for automation and AI testing, but requires continuous skill updates to stay competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Software Quality Assurance Analysts and Testers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Software QA Analysts?**
-答：Average annual salary in the US is around $95,000, entry-level $55,000-$85,000, senior $110,000-$160,000, depending on experience and certifications.
-
-**问：Is it easy to immigrate to the US as a Software QA Analyst?**
-答：It is a STEM occupation, common for H-1B but subject to cap. EB-2/EB-3 green card paths are possible but require employer sponsorship and queues, moderate difficulty.
-
-**问：What is the future outlook for this career?**
-答：Projected growth of 25% by 2033, much faster than average, with increased demand for automation and AI testing, but requires continuous skill updates.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

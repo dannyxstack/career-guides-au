@@ -1,58 +1,93 @@
-# Animation Film and Special Effects Artist（Animation Film and Special Effects Artist）职业分析 · FR
+# Animation Film and Special Effects Artist — career analysis · France
 
-**职业代码：L1510 – Animation Film and Special Effects Artist。**
+**Occupation code: L1510 (ROME)**
 
-Animation film and special effects artists create 2D/3D animations and visual effects using computer software or traditional techniques, applied in film, television, games, and advertising.
+Animated film and VFX artists use computer software or traditional hand-drawn techniques to create 2D/3D animations and visual effects, applied in the media industries such as film, television, gaming, and advertising.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 国家艺术文凭（DNA）或同等学历 | 3年（licence） | $5,000~$12,000（公立艺术学院学费，私立学校可能更高） |
-| 高等艺术与技术文凭（DSAA） | 2年（BTS后） | $3,000~$8,000（部分学校为公立，学费较低） |
+| National Diploma in Arts (DNA) or equivalent | 3 years (licence) | $5,000~$12,000 (Public art colleges may pay higher tuition fees at private schools) |
+| Diploma in Higher Arts and Technology (DSAA) | 2 years (after BTS) | $3,000~$8,000 (Some schools are public with lower tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动画与特效专业文凭 | 法国国家动画学校（如Gobelins, EMCA） | 可选 | 业内认可度高，非强制但有助于就业 |
-| Autodesk Maya认证 | Autodesk | 可选 | 国际认证，非强制但加分 |
+| Diploma in Animation and Visual Effects | French National School of Animation (such as Gobelins, EMCA) | Optional | It is highly recognized within the industry, not mandatory, but it helps with employment |
+| Autodesk Maya Certification | Autodesk | Optional | International certification, not mandatory but a bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国动画与特效行业持续增长，受国际合拍片及流媒体平台需求推动。巴黎及昂古莱姆是主要就业中心，但竞争激烈。自由职业与项目制工作常见。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The French animation and visual effects industry continues to grow, driven by demand from international co-productions and streaming platforms. Paris and Angoulême are major employment hubs, but competition is fierce. Freelancing and project-based jobs are common.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，取决于工作室规模 |
-| 中级（4-7年） | $35,000~$50,000 | 税前年薪，可参与大项目 |
-| 高级（8年以上） | $50,000~$75,000 | 税前年薪，资深或管理岗位 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Pre-tax annual salary depends on the size of the studio |
+| Mid-level (4-7 years) | $35,000~$50,000 | Pre-tax annual salary, eligible to participate in major projects |
+| Senior (8+ years) | $50,000~$75,000 | Pre-tax annual salary, senior or management positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径从初级动画师/特效师到资深艺术家，再到项目总监或艺术总监。也可向技术导演、视效总监或独立工作室创始人发展。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly change how animated films and special effects artists work, automating some repetitive tasks while enhancing creativity and efficiency, but humans will need to continuously improve their technical and artistic skills to stay competitive.
+
+Career advancement paths range from junior animators/VFX artists to senior artists, and then to project directors or art directors. You can also develop into a technical director, visual effects director, or founder of an independent studio.
+
+**Tasks most exposed to AI:**
+
+- Basic character binding and motion capture data processing
+- Automated modeling of backgrounds and props and texture generation
+- Simple lens tracking and keying work
+- Repetitive particle effects and simulation operations
+- Basic rendering and lighting settings
+
+**Where AI augments the role:**
+
+- AI-assisted concept design and storyboard generation accelerate creative development
+- Intelligent photo editing and color grading improve post-production efficiency
+- Real-time rendering and preview to accelerate iterative feedback
+- Automatically generates intermediate animation frames to smooth the motion curve
+- AI-driven facial animation and expression capture enhance realism
+
+**Human moat:**
+
+- Unique artistic style and creative concept design
+- The director's ability to express complex narratives and emotions
+- Cross-departmental collaboration and overall project control
+- Innovative thinking to solve technical bottlenecks
+- Client communication and needs understanding
+
+**Skills to build:**
+
+- Proficient in AI tools (such as generative AI and real-time rendering engines)
+- Advanced programming and scripting skills (Python, synthetic node programming)
+- Virtual production and real-time interaction technologies
+- Data-driven animation optimization and machine learning foundations
+- Interdisciplinary collaboration and project management
+- The ability to continuously learn and adapt to new technologies
+
+**Key growth areas:**
 
 - Animation
 - VFX
@@ -61,68 +96,67 @@ Animation film and special effects artists create 2D/3D animations and visual ef
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家、自由职业者或受雇于法国公司的动画/特效人才，有效期4年，可续签。 |
-| Subclass Salarié（Employee Work Permit） | 适用于获得法国企业雇佣合同的外国人，需申请工作许可，与雇主绑定。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能职位，年薪需达法定门槛（约53,000欧元），但动画行业通常难达标。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to artists, freelancers, or animation/special effects talents employed by French companies, valid for 4 years with renewable options. |
+| Subclass Salarié (Employee Work Permit) | Applicable to foreigners who have obtained employment contracts with French companies, who need to apply for a work permit and bind to their employer. |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to highly skilled positions; annual salary must meet the statutory threshold (approx. €53,000), but the animation industry often struggles to meet this. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animation Film and Special Effects Artist？**
-- 对动画和特效有浓厚兴趣的创意型人才
-- 具备较强软件学习能力和团队协作精神
-- 能接受项目制工作节奏和自由职业状态
-
-**谁不适合学Animation Film and Special Effects Artist？**
-- 偏好稳定、固定时间和低压力工作者
-- 不擅长持续学习新软件和技能者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative talents with a strong interest in animation and special effects
+- Strong software learning ability and team spirit
+- Able to accept project-based work rhythms and freelance status
+
+**Who is not suited**
+- Prefer stable, fixed-hours, and low-stress workers
+- Not good at continuously learning new software and skills
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for animated film and VFX artists?**
+A: The junior salary is about 25k-35k euros, intermediate 35k-50k, and seniors up to 50k-75k euros. Large studios or international projects offer higher salaries.
+
+**Q: How can foreign animators immigrate to France?**
+A: Can apply via the Talent Passport (Passeport Talent) or work residence permit (Salarié). Requires an employer contract in France, or proof of sufficient income as an independent artist.
+
+**Q: What academic qualifications are required to enter this industry?**
+A: A bachelor's degree in animation or a related field (such as DNA) is usually required. France's top schools (such as Gobelins and EMCA) are highly competitive, and apprenticeships are also a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Animation Film and Special Effects Artist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animation film and special effects artists?**
-答：Entry-level annual salary is about 25k-35k EUR, mid-level 35k-50k, senior up to 50k-75k EUR. Larger studios or international projects offer higher pay.
-
-**问：How can foreign animators immigrate to France?**
-答：Via Talent Passport (Passeport Talent) or Employee Work Permit (Salarié). Requires a French employer contract or proof of sufficient income as a freelance artist.
-
-**问：What education is needed to enter this field?**
-答：Typically a bachelor's degree in animation or related field (e.g., DNA). Top schools like Gobelins and EMCA are competitive; apprenticeship is also common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

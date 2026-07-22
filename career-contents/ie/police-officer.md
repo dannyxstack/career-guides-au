@@ -1,61 +1,97 @@
-# Police Officer（Police Officer）职业分析 · IE
+# Police Officer — career analysis · Ireland
 
-**职业代码：5412 – Police Officer。**
+**Occupation code: 5412 (ISCO08)**
 
-Police officers maintain public order, prevent and investigate crime, typically serving in Ireland's national police force, An Garda Síochána.
+Police officers are responsible for maintaining public order, preventing and investigating crime, typically serving in the Irish national police force (An Garda Síochána).
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 无需高等教育 | —（只需完成中学教育） |
-| 大学学位（非强制但有利） | 3-4年 | —（公立大学学费） |
+| High school graduation or equivalent | No higher education required | $0~$0 (Requires only completion of secondary education) |
+| University degree (not mandatory but beneficial) | 3-4 years | $0~$20,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰公民身份或合法居留 | 爱尔兰政府 | 必备 | 申请时需为爱尔兰或欧盟公民 |
-| 健康与体能测试 | An Garda Síochána | 必备 | 通过体能和心理评估 |
-| 背景审查 | Garda Vetting | 必备 | 无严重犯罪记录 |
+| Irish citizenship or legal residence | Irish Government | Required | Applicants must be Irish or EU citizens at the time of application |
+| Health and physical fitness tests | An Garda Síochána | Required | Pass physical and psychological assessments |
+| Background check | Garda Vetting | Required | No serious criminal record. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 14,500。爱尔兰警察队伍持续招聘以应对退休和社区需求，尤其是都柏林等城市地区，未来几年就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 14,500. The Irish police force continues to recruit to meet retirement and community needs, especially in urban areas like Dublin, with stable employment prospects in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $34,000~$40,000 | 培训期后起薪约€34,000 |
-| 中级（3-7年） | $42,000~$52,000 | 晋升至警员级别 |
-| 高级（7年以上） | $55,000~$70,000 | 包括警长及以上职位 |
+| Median salary | $47,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $34,000~$40,000 | Starting salary after training period around €34,000 |
+| Mid-level (3–7 years) | $42,000~$52,000 | Promote to police officer rank |
+| Senior (7+ years) | $55,000~$70,000 | Includes Sergeant and above positions |
+| average salary | $48,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从警员开始，通过晋升可成为警长、总督察等，也可专业化进入刑事调查、交通等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
+
+Starting as a police officer, can advance to sergeant, chief inspector, etc., or specialize in areas like criminal investigation or traffic.
+
+**Tasks most exposed to AI:**
+
+- Automatic Generation of Incident Reports and Paperwork
+- Traffic violation monitoring and automatic ticket issuance
+- Crime data analysis and pattern prediction
+- Routine patrol route optimization and scheduling
+- Automatic review of surveillance video and evidence marking
+
+**Where AI augments the role:**
+
+- AI-assisted real-time translation and community communication
+- Predictive policing helps optimize police deployment
+- Digital forensics tools expedite investigations
+- Virtual reality simulation training improves tactical decision-making
+- Public opinion analysis to enhance community relationship management
+
+**Human moat:**
+
+- On-site physical intervention and use of force
+- Complex interpersonal communication and crisis negotiation
+- Law enforcement discretion and ethical judgment
+- Community trust building and multicultural understanding
+- Court testimony and legal liability
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R)
+- Digital forensics and electronic evidence handling
+- AI ethics and algorithmic bias identification
+- Cross-cultural communication and community policing
+- Fundamentals of cybercrime investigation
+- Use of VR/AR Training Tools
+
+**Key growth areas:**
 
 - community policing
 - cybercrime
@@ -64,62 +100,64 @@ Police officers maintain public order, prevent and investigate crime, typically 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 仅适用于高度专业化职位，普通警务不适用 |
-| Subclass General Employment P（General Employment Permit） | 理论上可申请，但警察职位通常要求爱尔兰公民 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Only applicable to highly specialized positions, not regular policing |
+| Subclass General Employment P (General Employment Permit) | Theoretically eligible to apply, but police positions usually require Irish citizenship |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Police Officer？**
-- 有志于公共安全和服务
-- 身体和心理素质良好
-- 适应团队合作和压力环境
+**Who is suited**
+- Interested in public safety and service
+- Good physical and mental health
+- Able to work in a team and under pressure
 
-**谁不适合学Police Officer？**
-- 不愿接受纪律约束
-- 对危险敏感度高
+**Who is not suited**
+- Unwilling to accept disciplinary constraints
+- High sensitivity to hazards
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for an Irish police officer?**
+A: Starting salary for new police officers after training is approximately €34,000, increasing annually based on experience and promotions.
+
+**Q: Can non-EU citizens become police officers in Ireland?**
+A: Usually requires Irish or EU citizenship; non-EU citizens must first obtain a residence permit and then seek other pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Police Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a police officer in Ireland?**
-答：The starting salary after training is approximately €34,000, increasing with experience and promotion.
-
-**问：Can non-EU citizens become police officers in Ireland?**
-答：Generally requires Irish or EU citizenship; non-EU citizens may explore alternative pathways after obtaining residency.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Plumbers and heating and ventilating installers and repairers（Plumbers and heating and ventilating installers and repairers）职业分析 · UK
+# Plumbers and heating and ventilating installers and repairers — career analysis · United Kingdom
 
-**职业代码：5315 – Plumbers and heating and ventilating installers and repairers。**
+**Occupation code: 5315 (SOC)**
 
-Plumbers and heating and ventilating installers and repairers assemble, install, maintain and repair plumbing fixtures, heating and ventilating systems and pipes in commercial, residential and industrial premises, including renewable energy systems.
+Plumbers and HVAC installers are responsible for assembling, installing, maintaining, and repairing piping fixtures, heating ventilation systems, and pipelines in commercial, residential, and industrial sites, including renewable energy systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（带薪培训，政府资助） |
-| 职业教育（NVQ） | 1-2年 | $1,000~$3,000（各学院费用不同） |
+| Apprenticeship | 2-4 years | $0~$0 (Paid training, government funded) |
+| Vocational Education (NVQ) | 1-2 years | $1,000~$3,000 (Fees vary by college.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ Level 2 水管工程 | City & Guilds | 可选 | 基础资格 |
-| NVQ Level 3 水管工程 | City & Guilds | 可选 | 高级资格，需工作经验 |
-| Gas Safe Register 注册 | Gas Safe Register | 必备 | 从事燃气工作必需 |
+| Gas Safe Register registration. | Gas Safe Register | Required | Required for gas-related work |
+| NVQ Level 2 Plumbing | City & Guilds | Optional | Basic qualification |
+| NVQ Level 3 Plumbing Engineering | City & Guilds | Optional | Advanced qualification, requiring work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。英国建筑行业持续增长，住房建设和绿色能源转型推动对水管工的需求。预计2023-2033年就业增长约10%，年均新增职位约8000个。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. The UK construction industry continues to grow, with housing construction and green energy transition driving demand for plumbers. Employment is projected to grow by about 10% from 2023-2033, with around 8,000 new positions annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 学徒或新手 |
-| 中级（3-7年） | $30,000~$40,000 | 熟练工 |
-| 高级（7年以上） | $42,000~$55,000 | 主管或自雇 |
+| Median salary | $37,881 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Apprentice or beginner |
+| Mid-level (3–7 years) | $30,000~$40,000 | Skilled worker |
+| Senior (7+ years) | $42,000~$55,000 | Supervisor or self-employed |
+| average salary | $38,337 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业晋升路径包括成为高级技工、工地主管、自雇承包商或开设自己的公司。通过NVQ Level 3和高级证书可提升技能，进入暖通空调或可再生能源专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace plumbers and heating, ventilation, and air conditioning installation and repair workers, but will amplify their efficiency, introducing tools such as predictive maintenance and intelligent diagnostics, transitioning from labor-intensive to technology-intensive roles.
+
+Career progression paths include becoming a senior tradesperson, site supervisor, self-employed contractor, or starting your own company. Skills can be upgraded through NVQ Level 3 and advanced certificates to enter specialised fields such as HVAC or renewable energy.
+
+**Tasks most exposed to AI:**
+
+- Manual inspection of pipe leaks and blockages (replaced by thermal imaging and acoustic sensors)
+- Conventional Heating System Fault Diagnosis (AI Diagnostic Software Provides Solutions)
+- Simple sheet metal cutting and welding (CNC and robot-assisted)
+- Reading and recording paper blueprints (AR and digital twins).
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance software to plan inspection routes.
+- Accessing pipeline layouts and maintenance guidance via AR glasses.
+- Debugging effects through digital twin simulation system
+- Optimizing energy efficiency using smart meter data
+
+**Human moat:**
+
+- On-site diagnosis and temporary solution design for complex system failures
+- Client communication and needs understanding
+- Manual dexterity and working in confined spaces
+- Safety Compliance and Emergency Response
+
+**Skills to build:**
+
+- Smart building systems (BMS, IoT sensors)
+- Digital Twin and BIM fundamentals.
+- Renewable energy systems (heat pumps, solar)
+- Data analysis and predictive maintenance software
+- AR-assisted maintenance equipment operation
+- Project management and client communication
+
+**Key growth areas:**
 
 - Green energy
 - Housing development
@@ -62,65 +95,67 @@ Plumbers and heating and ventilating installers and repairers assemble, install,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得英国雇主担保的熟练水管工，需满足薪资门槛£26,200/年或职业特定薪资 |
-| Subclass Health & Care（Health and Care Worker visa） | 不适用，水管工不属于医疗护理职业 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业雇佣的熟练水管工，需满足薪资要求 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to skilled plumbers with a UK employer sponsor, meeting the salary threshold of £26,200/year or the occupation-specific salary. |
+| Subclass Health & Care (Health and Care Worker visa) | Not applicable, plumbers are not in healthcare occupations |
+| Subclass Scale-up (Scale-up visa) | Applicable to skilled plumbers employed by high-growth enterprises, subject to salary requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumbers and heating and ventilating installers and repairers？**
-- 喜欢动手操作、解决实际问题的人
-- 愿意从事体力劳动和户外工作的人
-- 希望获得稳定收入和职业发展的人
-
-**谁不适合学Plumbers and heating and ventilating installers and repairers？**
-- 无法适应体力劳动和恶劣天气的人
-- 不喜欢与客户打交道或团队协作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving practical problems
+- People willing to do physical labor and outdoor work
+- Those seeking stable income and career development.
+
+**Who is not suited**
+- Unable to adapt to physical labor and harsh weather
+- People who dislike dealing with customers or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a plumber?**
+A: Junior plumber annual salary approx £20,000-£28,000, intermediate £30,000-£40,000, senior or self-employed up to £55,000+.
+
+**Q: Can a plumber immigrate to the UK via a work visa?**
+A: Yes, plumbers are on the eligible occupation list for skilled worker visas, but need employer sponsorship and meet salary requirements (usually £26,200/year or industry standard).
+
+**Q: What are the career prospects for plumbers?**
+A: Demand for plumbers in the UK is stable, with green energy transition and housing construction increasing job opportunities. Experienced tradespeople can advance to project supervisors or self-employed entrepreneurs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plumbers and heating and ventilating installers and repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plumber?**
-答：Entry-level plumbers earn around £20,000-£28,000, mid-level £30,000-£40,000, and senior or self-employed can exceed £55,000.
-
-**问：Can plumbers immigrate to the UK via a work visa?**
-答：Yes, plumbers are eligible for the Skilled Worker visa, requiring employer sponsorship and meeting the salary threshold (usually £26,200/year or occupation-specific rate).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

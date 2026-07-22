@@ -1,59 +1,95 @@
-# Advertising and Promotions Managers（Advertising and Promotions Managers）职业分析 · 美国
+# Advertising and Promotions Managers — career analysis · United States
 
-**职业代码：11-2011 – Advertising and Promotions Managers。**
+**Occupation code: 11-2011 (SOC)**
 
-Plan, direct, or coordinate advertising policies and programs or produce collateral materials to create extra interest in purchasing a product or service.
+Plan, direct, or coordinate advertising policies and programs, or produce promotional materials (e.g., posters, contests, coupons, giveaways) to generate additional interest in products or services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学4年学费） |
-| 硕士 | 2年 | $30,000~$100,000（MBA或市场营销硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (4-year public university tuition) |
+| Master's degree | 2 years | $30,000~$100,000 (MBA or Master of Marketing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销或相关领域学士学位 | 认证大学 | 必备 | 常见要求 |
-| 数字营销认证 | Google, HubSpot | 可选 | 提升竞争力 |
-| 项目管理认证 | PMI | 可选 | 对复杂项目有帮助 |
+| Bachelor's degree in marketing or related field | Accredited university | Required | Common requirements |
+| Digital marketing certification | Google, HubSpot | Optional | Boosting competitiveness |
+| Project management certification. | PMI | Optional | Helpful for complex projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。预计2023-2033年就业增长约6%，略快于平均水平。数字广告和社交媒体营销的持续扩张将推动需求，但竞争激烈。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. Projected employment growth of about 6% from 2023-2033, slightly faster than average. Continued expansion of digital advertising and social media marketing will drive demand, but competition is intense.
 
-**竞争度：较激烈（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理或协调员晋升而来 |
-| 中级（3-7年） | $75,000~$110,000 | 拥有3年以上经验 |
-| 高级（7年以上） | $110,000~$180,000 | 总监或副总裁级别 |
+| Median salary | $133,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Promoted from assistant or coordinator roles. |
+| Mid-level (3–7 years) | $75,000~$110,000 | Over 3 years of experience |
+| Senior (7+ years) | $110,000~$180,000 | Director or vice president level |
+| average salary | $154,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从市场营销、广告或销售岗位晋升而来。可通过获得数字营销认证、MBA学位或积累大型项目经验晋升至高级管理职位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Typically promoted from marketing, advertising, or sales roles. Can advance to senior management by obtaining digital marketing certifications, an MBA, or accumulating large project experience.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Advertising
 - Social Media Marketing
@@ -62,69 +98,68 @@ Plan, direct, or coordinate advertising policies and programs or produce collate
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见路径，需学士学位和相关专业领域。 |
-| Subclass EB-2（EB-2 Advanced Degree） | 需硕士以上学位或特殊能力，通常需PERM劳工证。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需学士学位和至少2年经验，通过PERM申请。 |
-| Subclass L-1A（L-1A Intracompany Transferee） | 跨国经理，需在海外公司担任高级管理职务。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common pathway, requires a bachelor's degree in a relevant field. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Requires master's degree or higher or exceptional ability, usually requires PERM labor certification. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires bachelor's degree and at least 2 years experience, apply through PERM. |
+| Subclass L-1A (L-1A Intracompany Transferee) | Multinational manager, must hold a senior management role in an overseas company. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Advertising and Promotions Managers？**
-- 创意性强，擅长跨部门沟通
-- 对数字营销和数据分析感兴趣
-- 有领导能力和商业洞察力
-
-**谁不适合学Advertising and Promotions Managers？**
-- 不喜欢快节奏和高压环境
-- 抗拒时间压力和多重任务处理
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative, good at cross-department communication
+- Interested in digital marketing and data analysis
+- Possess leadership skills and business acumen
+
+**Who is not suited**
+- Dislikes fast-paced and high-pressure environments
+- Struggles with time pressure and multitasking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an advertising and promotions manager?**
+A: Entry-level about $55,000-$75,000, mid-level $75,000-$110,000, senior $110,000-$180,000, depending on experience, location, and company size.
+
+**Q: Can advertising and promotions managers obtain a green card through employment immigration?**
+A: Yes. Common pathways include EB-2 or EB-3 through PERM labor certification. Requires employer sponsorship, and the job must match the applicant's education and experience.
+
+**Q: How to advance to Advertising and Promotion Manager?**
+A: Usually starts as advertising coordinator, marketing specialist, digital marketing analyst, etc. Accumulating project experience, obtaining digital marketing certifications, and pursuing an MBA helps advance to senior management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较激烈（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Advertising and Promotions Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Advertising and Promotions Managers?**
-答：Entry-level ranges from $55,000 to $75,000; mid-level $75,000 to $110,000; senior $110,000 to $180,000, depending on experience, location, and company size.
-
-**问：Can Advertising and Promotions Managers obtain a green card through employment?**
-答：Yes. Common paths include EB-2 or EB-3 through PERM labor certification, requiring employer sponsorship and matching qualifications.
-
-**问：How to advance to Advertising and Promotions Manager?**
-答：Start as advertising coordinator, marketing specialist, or digital marketing analyst. Gain project experience, earn digital marketing certifications, and pursue an MBA for senior roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

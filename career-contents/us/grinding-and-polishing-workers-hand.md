@@ -1,59 +1,92 @@
-# Grinding and Polishing Workers, Hand（Grinding and Polishing Workers, Hand）职业分析 · 美国
+# Grinding and Polishing Workers, Hand — career analysis · United States
 
-**职业代码：51-9022 – Grinding and Polishing Workers, Hand。**
+**Occupation code: 51-9022 (SOC)**
 
-Grind, sand, or polish objects made of metal, wood, stone, etc., using hand tools or hand-held power tools.
+Grinding, sanding, or polishing objects such as metal, wood, stone, clay, plastic, or glass using hand tools or hand-held power tools.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 1年 | —（雇主提供培训，可能需自费部分证书） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1 year | $0~$5,000 (Employer provides training; some certificates may need to be self-funded.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 一般要求高中文凭或同等学历 |
+| No mandatory requirements | None | Optional | Generally requires high school diploma or equivalent |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 21,700。预计2022-2032年就业下降约4%，受自动化和海外竞争影响，但就业机会仍较多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 21,700. Employment projected to decline about 4% from 2022 to 2032, affected by automation and overseas competition, but still with many job opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $29,000~$36,000 | 入门级岗位 |
-| 中级（3-10年） | $36,000~$45,000 | 有经验技工 |
-| 高级（10年以上） | $45,000~$56,000 | 资深技工或主管 |
+| Median salary | $42,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $29,000~$36,000 | Entry-level roles |
+| Intermediate (3-10 years) | $36,000~$45,000 | Experienced tradesperson |
+| Senior (10+ years) | $45,000~$56,000 | Senior technician or supervisor |
+| average salary | $45,020 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 通常从学徒或助手做起，可晋升为高级技工或主管，部分转向质量控制或设备维护。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Manual grinding and polishing face high automation risk, especially for repetitive tasks, but complex surfaces and fine craftsmanship still require human judgment; entry-level positions will decrease significantly.
+
+Typically start as apprentices or assistants, can advance to senior technicians or supervisors, some move to quality control or equipment maintenance.
+
+**Tasks most exposed to AI:**
+
+- Rough grinding and deburring of flat surfaces using sandpaper or grinding wheels
+- Use a handheld polisher for standard curved surface polishing
+- Manually determine grinding depth and number of passes based on simple drawings
+- Perform basic dimensional inspections using measuring tools
+
+**Where AI augments the role:**
+
+- Uses AI vision systems to assist in detecting surface defects and polishing uniformity
+- Get real-time grinding path and pressure suggestions through AR glasses
+- Use AI to analyze material properties to optimize grinding parameters
+- Combine robots to complete high-volume rough grinding, workers focus on fine finishing
+
+**Human moat:**
+
+- Handle fine polishing of complex surfaces, irregular parts, and special materials.
+- Judges final smoothness and texture based on touch and experience
+- On-site decision making to fix unexpected flaws or non-standard workpieces
+- Client communication and customized process design
+
+**Skills to build:**
+
+- CNC and Robot Programming Basics
+- Precision measuring instrument operation (e.g., coordinate measuring machine)
+- Material science knowledge (grinding characteristics of different materials)
+- Data analysis and process optimization
+- AI-assisted visual inspection system operation
+- Maintaining and debugging automated equipment
+
+**Key growth areas:**
 
 - Automation Impact
 - Manufacturing Decline
@@ -62,64 +95,66 @@ Grind, sand, or polish objects made of metal, wood, stone, etc., using hand tool
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职位要求，极少获得担保 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 可通过PERM劳工认证申请，但需证明无法招到美国工人，机会少 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional position requirements; very rarely obtains sponsorship |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Can apply via PERM labor certification, but must prove inability to hire US workers; few opportunities |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Grinding and Polishing Workers, Hand？**
-- 动手能力强且细心的人
-- 能接受重复性体力劳动的人
+**Who is suited**
+- People with strong hands-on skills and attention to detail
+- People who can accept repetitive physical labor
 
-**谁不适合学Grinding and Polishing Workers, Hand？**
-- 寻求高薪或快速晋升的人
-- 对工作环境有较高要求的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Those with high demands for the work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of hand grinding and polishing workers?**
+A: According to BLS 2023 data, median annual salary is about $37,000, entry-level around $29,000, senior can reach $56,000.
+
+**Q: Are there skilled migration opportunities for this occupation?**
+A: Very limited. This occupation usually does not meet H-1B specialty occupation requirements; EB-3 green card may be possible via PERM but requires employer sponsorship and a long wait.
+
+**Q: What is the job outlook for this occupation?**
+A: BLS predicts a 4% decline in employment from 2022-2032, mainly due to automation and overseas transfer, but still about 2,400 job openings per year.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Grinding and Polishing Workers, Hand属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for grinding and polishing workers?**
-答：According to BLS 2023 data, median annual wage is about $37,000, entry-level $29,000, experienced up to $56,000.
-
-**问：Are there migration opportunities for this occupation?**
-答：Very limited. It generally does not qualify for H-1B; EB-3 green card via PERM is possible but with long wait times.
-
-**问：What is the job outlook?**
-答：BLS projects a 4% decline from 2022-2032 due to automation and offshoring, but about 2,400 openings per year.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

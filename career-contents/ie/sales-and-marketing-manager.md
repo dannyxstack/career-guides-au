@@ -1,60 +1,95 @@
-# Sales and Marketing Manager（Sales and Marketing Manager）职业分析 · IE
+# Sales and Marketing Manager — career analysis · Ireland
 
-**职业代码：1221 – Sales and Marketing Manager。**
+**Occupation code: 1221 (ISCO08)**
 
-Develop and implement marketing strategies, manage sales teams, and drive revenue growth, playing a pivotal role in enhancing brand presence and market share.
+responsible for planning and executing marketing activities, managing sales teams, enhancing brand awareness and market share; a key management role driving enterprise revenue growth.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $15,000~$25,000（爱尔兰国立大学学费） |
-| 硕士 | 1-2年（硕士） | $12,000~$20,000（商学院学费较高） |
-| 短期课程 | 6-12个月 | $3,000~$8,000（如数字营销证书） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $15,000~$25,000 (Tuition fees at Irish National University) |
+| Master's degree | 1-2 years (Master's) | $12,000~$20,000 (High tuition fees at business schools) |
+| Short-term courses | 6–12 months | $3,000~$8,000 (e.g., digital marketing certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许市场营销师 | 市场营销协会 | 可选 | 非必须，但提升竞争力 |
-| 管理学士/硕士 | 大学 | 可选 | 常见学历要求 |
-| 专业销售证书 | 爱尔兰销售协会 | 可选 | 销售岗位加分项 |
+| Chartered Marketer | Marketing Association | Optional | Not required, but enhances competitiveness |
+| Bachelor's/Master's in Management | University | Optional | Common educational requirements |
+| Professional Sales Certificate | Irish Sales Association | Optional | Bonus points for sales roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。爱尔兰科技、制药、金融服务等行业强劲，对销售与市场经理需求持续旺盛。预计至2030年就业增长约15%，尤其在数字营销和B2B销售领域机会多。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Ireland's strong technology, pharmaceutical, and financial services sectors drive sustained demand for sales and marketing managers. Employment is projected to grow by around 15% by 2030, especially in digital marketing and B2B sales.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪 |
-| 中级（3-7年） | $60,000~$85,000 | 税前年薪 |
-| 高级（7年以上） | $90,000~$130,000 | 税前年薪，含奖金 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $60,000~$85,000 | Annual pre-tax salary |
+| Senior (7+ years) | $90,000~$130,000 | Annual pre-tax salary, including bonuses |
+| average salary | $76,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从销售代表或市场专员起步，晋升至区域经理、总监乃至首席营销官。持续学习数字营销、数据分析及领导力有助于加速晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Sales and Marketing Manager roles face a mixed impact from AI: repetitive tasks (e.g., data reports, routine emails) will be automated, but core duties like strategic decision-making, customer relationship management, and cross-departmental coordination are enhanced by AI, presenting both risks and opportunities.
+
+Typically start as a sales representative or marketing specialist, then advance to regional manager, director, or chief marketing officer. Continuous learning in digital marketing, data analytics, and leadership helps accelerate career progression.
+
+**Tasks most exposed to AI:**
+
+- Automated sales reports and performance dashboard generation
+- Rule-based market segmentation and email marketing scheduling.
+- Customer data entry and daily CRM updates
+- Automated collection and comparison of price and competitor information.
+- A/B testing execution and initial optimization for advertising campaigns
+
+**Where AI augments the role:**
+
+- AI-assisted real-time sales prediction and route suggestion
+- Intelligent generation of personalized marketing copy and video scripts
+- Customer sentiment analysis and proactive intervention prompts
+- Multi-channel campaign automation coordination and attribution
+- AI simulates market strategy outcomes to aid decision-making
+
+**Human moat:**
+
+- Senior relationship management and key client negotiation
+- Brand strategy and long-term market positioning decisions
+- Cross-departmental (product, finance, legal) resource coordination
+- Crisis public relations and intuitive judgment in uncertain environments
+
+**Skills to build:**
+
+- Proficiency in AI marketing tools (e.g. HubSpot AI, Salesforce Einstein)
+- Data storytelling and visualization (Tableau/Power BI)
+- Customer journey automation platform operation (e.g., Marketo)
+- Basic Programming (Python/R for Marketing Analysis)
+- Understanding of digital advertising algorithms and attribution models
+- Strategy and Innovative Thinking (for Complex Decision-making)
+
+**Key growth areas:**
 
 - Digital Marketing
 - Data Analytics
@@ -63,68 +98,67 @@ Develop and implement marketing strategies, manage sales teams, and drive revenu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过32,000欧元且职业在紧缺清单上的岗位，可快速获得永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过30,000欧元的职位，需进行劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过60,000欧元的高技能岗位，享有欧盟内便利迁移。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to positions with an annual salary over €32,000 and on the shortage list, allowing fast-track permanent residency. |
+| Subclass General Employment P (General Employment Permit) | Applies to positions with an annual salary over 30,000 euros, requiring a labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual salary over 60,000 euros, offering easy mobility within the EU. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales and Marketing Manager？**
-- 擅长沟通与谈判的人
-- 具有数据分析和创意策划能力的人
-- 愿意在快节奏环境中工作的人
-
-**谁不适合学Sales and Marketing Manager？**
-- 不喜欢与人打交道的人
-- 无法承受业绩压力的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in communication and negotiation
+- People with data analysis and creative planning skills
+- People willing to work in a fast-paced environment
+
+**Who is not suited**
+- People who dislike interacting with others
+- People who cannot handle performance pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sales and marketing managers?**
+A: Entry-level about €40,000-55,000, mid-level €60,000-85,000, senior €90,000-130,000, higher in tech.
+
+**Q: Is this occupation easy to immigrate to Ireland?**
+A: Relatively easy; this occupation often appears on shortage lists and can qualify for a Critical Skills Permit for fast-track immigration, requiring a salary above €32,000 per year.
+
+**Q: How is the demand for this occupation in Ireland?**
+A: Strong demand, especially in tech, pharma, and financial services, with digital marketing and B2B sales talent particularly sought after.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Sales and Marketing Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Sales and Marketing Managers in Ireland?**
-答：Entry-level: €40k-55k; Mid-level: €60k-85k; Senior: €90k-130k, with higher pay in tech sectors.
-
-**问：Is it easy to immigrate to Ireland as a Sales and Marketing Manager?**
-答：Relatively easy; the role is often on the Critical Skills list, enabling fast-track with salary over €32k.
-
-**问：What is the demand for Sales and Marketing Managers in Ireland?**
-答：Strong demand, especially in tech, pharma, and financial services, with a focus on digital marketing and B2B sales.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

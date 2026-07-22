@@ -1,60 +1,96 @@
-# University and College Lecturers and Researchers（University and College Lecturers and Researchers）职业分析 · DE
+# University and College Lecturers and Researchers — career analysis · Germany
 
-**职业代码：8430 – University and College Lecturers and Researchers。**
+**Occupation code: 8430 (KldB)**
 
-Working in teaching and research at German universities and research institutes, including professors, lecturers, assistants, and researchers, typically requiring a doctorate.
+Teaching and research work at German universities and research institutions, including professors, lecturers, teaching assistants, and researchers, usually requiring a doctorate.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 博士 | 3-5年 | —（公立大学博士通常免学费，仅收学期注册费约300欧元） |
-| 硕士与博士连读 | 5-7年 | —（包括硕士和博士阶段，公立大学免学费） |
+| Doctorate | 3-5 years | $0~$0 (Public university PhD programs are usually tuition-free, with only a semester registration fee of around 300 euros) |
+| Master's and PhD combined program | 5-7 years | $0~$0 (Including master's and doctoral levels; public universities are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 德国大学 | 必备 | 学术职位基本要求，通常需博士论文答辩 |
-| 教授资格（Habilitation）或同等科研成就 | 德国大学 | 可选 | 终身教授通常需完成教授资格论文或具有等同科研成果 |
+| Doctoral degree (PhD) | German university | Required | Basic requirement for academic positions, usually requiring a doctoral thesis defense |
+| Habilitation or equivalent research achievements | German university | Optional | Tenured professors typically need to complete a habilitation thesis or have equivalent research achievements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 500,000。德国高等教育领域就业稳定，因学术岗位竞争激烈，但终身教授职位稀缺；应用科学大学和私立院校岗位增长较快。
+**Job demand: medium (★★½☆☆).** National workforce approx. 500,000. Employment in Germany's higher education sector is stable, but academic positions are highly competitive and tenured professorships are scarce; positions at universities of applied sciences and private institutions are growing faster.
 
-**竞争度：高（★★★★½）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（博士/博士后，0-3年） | $45,000~$55,000 | TV-L 13级工资，年薪约45,000-55,000欧元 |
-| 中级（青年教授/资深研究员，4-7年） | $55,000~$75,000 | 青年教授（W1）年薪约55,000-75,000欧元 |
-| 高级（终身教授，8年以上） | $75,000~$95,000 | W2/W3教授年薪约75,000-95,000欧元，含绩效津贴 |
+| Median salary | $73,704 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry-level (PhD/postdoc, 0-3 years) | $45,000~$55,000 | TV-L 13 salary, annual salary around €45,000-55,000 |
+| Mid-level (junior professor/senior researcher, 4–7 years) | $55,000~$75,000 | Junior professor (W1) annual salary approx. €55,000-75,000 |
+| Senior (tenured professor, 8+ years) | $75,000~$95,000 | W2/W3 professor annual salary approx. €75,000-95,000 including performance bonus |
+| average salary | $79,440 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业路径通常从博士生/博士后开始，经助理教授/青年教授过渡，最终竞争终身教授（W2/W3）职位；也可转向工业研发或行政管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Higher education lecturers and researchers face task restructuring driven by AI: AI will take over basic work like literature reviews and data analysis, but core critical thinking, teaching interaction, and research innovation are amplified, increasing demand for high-value human skills.
+
+Career path typically starts with a PhD/postdoc, transitions to assistant professor/junior professor, and ultimately competes for a tenured professor (W2/W3) position; can also shift to industrial R&D or administration.
+
+**Tasks most exposed to AI:**
+
+- Automated literature search and review generation
+- Basic data analysis and statistical modeling
+- Standardized tests and assignment grading
+- Course material organization and formatting
+- Template filling for general research grant applications
+
+**Where AI augments the role:**
+
+- Personalized tutoring and learning path recommendations
+- Rapid validation and simulation of research hypotheses
+- Cross-disciplinary knowledge association discovery
+- Academic writing grammar and structure optimization proofreading
+- Virtual classroom interaction and real-time feedback
+
+**Human moat:**
+
+- Original theory construction and critical thinking
+- Face-to-face teaching interaction and emotional guidance
+- Design and Experimental Innovation in Complex Scientific Research
+- Ethical judgment and value trade-offs
+- Academic community networking and mentorship maintenance
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning
+- Natural Language Processing (NLP) tool application
+- Operation of educational technology platforms (e.g., LMS, AI tutors)
+- Data visualization and academic chart creation
+- AI-assisted research design methods
+- Digital pedagogy and human-machine collaborative communication
+
+**Key growth areas:**
 
 - STEM fields
 - digitalization
@@ -63,65 +99,67 @@ Working in teaching and research at German universities and research institutes,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需博士学位和至少43,056欧元年薪（科学领域2024年标准），可申请永居 |
-| Subclass Skilled Worker Visa（Skilled Worker Visa (qualified professionals)） | 适用于博士毕业生，需获得认证的大学职位，德语B1通常要求 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a PhD and minimum annual salary of €43,056 (2024 standard for science fields), eligible for permanent residence |
+| Subclass Skilled Worker Visa (Skilled Worker Visa (qualified professionals)) | Applicable to PhD graduates, requires accredited university position, German B1 usually required |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学University and College Lecturers and Researchers？**
-- 热爱学术研究和教学的博士毕业生
-- 在STEM领域有出色科研成果的学者
-- 具备德语B2以上水平并准备长期投入学术界的人
+**Who is suited**
+- PhD graduates passionate about academic research and teaching
+- Scholars with outstanding research achievements in STEM fields
+- Individuals with German B2 level or above who are prepared for long-term commitment to academia
 
-**谁不适合学University and College Lecturers and Researchers？**
-- 追求快速高薪或职业稳定性的人
-- 不愿承受长周期学术竞争和不确定职业前景的人
+**Who is not suited**
+- Those seeking fast, high pay or career stability
+- People unwilling to endure long-term academic competition and uncertain career prospects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for a German university lecturer?**
+A: After PhD, as a postdoc or academic assistant (TV-L 13), annual salary approx. €45,000-55,000 (pre-tax).
+
+**Q: How can foreign PhDs apply for a German academic work visa?**
+A: Can apply through EU Blue Card (requires PhD, salary threshold ~€43,056) or skilled migration visa, German at B1 level, and position must match qualifications.
+
+**Q: Do non-EU PhD applicants need credential assessment for professor positions?**
+A: Doctoral degrees usually require recognition (Anerkennung), but German universities typically assess them independently, without going through official recognition bodies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★½） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-University and College Lecturers and Researchers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a university lecturer in Germany?**
-答：After a doctorate, as a postdoc or academic assistant (TV-L 13), annual salary is about 45,000-55,000 EUR (gross).
-
-**问：How can a foreign PhD apply for an academic work visa in Germany?**
-答：Via EU Blue Card (requires doctorate, salary threshold about 43,056 EUR) or skilled worker visa, German B1 required, job must match qualification.
-
-**问：Do non-EU PhDs need credential evaluation for professor positions?**
-答：Doctorates usually need recognition (Anerkennung), but German universities often assess themselves, not requiring official evaluation.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

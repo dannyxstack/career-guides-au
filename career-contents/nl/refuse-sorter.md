@@ -1,60 +1,93 @@
-# Refuse Sorter（Refuse Sorter）职业分析 · NL
+# Refuse Sorter — career analysis · Netherlands
 
-**职业代码：9612 – Refuse Sorter。**
+**Occupation code: 9612 (ISCO08)**
 
-Manually or mechanically sort collected waste into recyclable, organic, hazardous categories to ensure efficient and compliant downstream processing.
+Responsible for manually or mechanically sorting collected waste by categories such as recyclable, organic, and hazardous to ensure efficient and compliant processing.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（上岗培训由雇主提供） |
-| 中等职业教育（MBO） | 1-3年 | —（学费每年约0-2000欧元，视学校而定） |
+| No formal education required | None | $0~$0 (On-the-job training provided by employer) |
+| Intermediate Vocational Education (MBO) | 1-3 years | $0~$6,000 (Tuition fees range from approximately €0 to €2,000 per year, depending on the school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基本安全证书（VCA） | Stichting VCA | 必备 | 许多雇主要求具备基本安全证书 |
-| 叉车驾驶证 | 荷兰劳动监察局 | 可选 | 如操作叉车分拣，需额外证书 |
+| Basic Safety Certificate (VCA) | Stichting VCA | Required | Many employers require a basic safety certificate |
+| Forklift license | Dutch Labour Inspectorate. | Optional | Operating forklifts for sorting requires additional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。荷兰循环经济政策推动废弃物分拣需求稳定，但自动化普及可能减少低技能岗位，就业增长平缓。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The Netherlands' circular economy policies drive steady demand for waste sorting, but automation uptake may reduce low-skilled jobs, leading to flat employment growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $26,000~$32,000 | 税前年薪，含8%假期津贴 |
-| 中级（3-5年） | $32,000~$38,000 | 税前年薪，含8%假期津贴 |
-| 高级（5年以上） | $38,000~$44,000 | 税前年薪，含8%假期津贴 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $26,000~$32,000 | Annual salary before tax, including 8% holiday pay |
+| Mid-level (3–5 years) | $32,000~$38,000 | Annual salary before tax, including 8% holiday pay |
+| Senior (5+ years) | $38,000~$44,000 | Annual salary before tax, including 8% holiday pay |
+| average salary | $35,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从分拣员晋升为分拣线主管或质量控制员，或通过培训转向废弃物处理技术岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Waste sorters face high risk of automation replacement; intelligent sorting systems and robotic arms will significantly reduce labor demand, entry-level positions narrowing considerably.
+
+Can advance from sorter to sorting line supervisor or quality controller, or transition to waste treatment technical roles through training.
+
+**Tasks most exposed to AI:**
+
+- Manual identification and sorting of recyclables, organic matter, and hazardous waste
+- Manually dispose of waste into corresponding hoppers or containers
+- Moving heavy objects and repetitive picking actions
+- Record sorting volume and fill in daily reports
+
+**Where AI augments the role:**
+
+- Use AI visual systems to assist in identifying hard-to-distinguish mixed materials.
+- Optimize sorting processes and efficiency using data dashboards.
+- Remote monitoring of multiple automated sorting equipment operation status
+- Predicting recyclable material price fluctuations with machine learning to adjust sorting strategies
+
+**Human moat:**
+
+- Flexible judgment when handling extremely mixed and heavily contaminated waste
+- Experience in safe disposal of special hazardous waste (e.g., chemicals)
+- Communication and liaison skills with the community and environmental protection departments, as well as education and advocacy abilities.
+- On-site decision-making for unexpected equipment failures or non-standard materials
+
+**Skills to build:**
+
+- Industrial robot operation and basic maintenance
+- Debugging and troubleshooting computer vision systems
+- Data analysis and report generation (Excel/Python)
+- Environmental regulations and hazardous waste treatment certification
+- Supply Chain Logistics Fundamentals
+- Communication and teamwork skills
+
+**Key growth areas:**
 
 - Waste management
 - Circular economy
@@ -63,65 +96,67 @@ Manually or mechanically sort collected waste into recyclable, organic, hazardou
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但垃圾分拣员不符合高技能标准，通常不适用此路径。 |
-| Subclass EU Free Movement（EU/EEA Citizen Free Movement） | 欧盟/欧洲经济区公民可自由在荷兰工作，无需签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled migrants, but waste sorters do not meet the high-skilled criteria, so this pathway is usually not applicable. |
+| Subclass EU Free Movement (EU/EEA Citizen Free Movement) | EU/EEA citizens can freely work in the Netherlands without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Refuse Sorter？**
-- 体力好、能适应户外及脏污环境者
-- 注重环保、愿意从事循环经济基础工作的人
-- 希望快速入门、无需高学历者
+**Who is suited**
+- Physically fit, able to work outdoors and in dirty environments.
+- People who prioritize environmental protection and are willing to engage in circular economy basic work
+- For those seeking quick entry with no higher education required
 
-**谁不适合学Refuse Sorter？**
-- 对气味和脏乱敏感者
-- 追求高薪或职业成长空间者
+**Who is not suited**
+- Sensitive to smells and mess
+- Those seeking high salary or career growth opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for a waste sorter?**
+A: Entry-level waste sorter pre-tax annual salary approx. €26,000-32,000 (incl. 8% holiday pay).
+
+**Q: Can a non-EU citizen immigrate to the Netherlands as a waste sorter?**
+A: Waste sorters are low-skilled occupations, generally unable to apply for high-skilled migration visas, but may qualify via EU Blue Card (typically requires high education/salary) or labour shortage list routes, though this occupation is not on shortage lists. EU citizens can move freely.
+
+**Q: Will this job be replaced by automation in the future?**
+A: Automated sorting technology is becoming more widespread, but full replacement will take time; low-skilled sorting roles are expected to decrease, but positions such as operational monitoring may increase.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Refuse Sorter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a refuse sorter?**
-答：Entry-level refuse sorters earn around EUR 26,000-32,000 gross per year (including 8% holiday allowance).
-
-**问：Can non-EU citizens immigrate to the Netherlands as a refuse sorter?**
-答：Refuse sorting is a low‑skilled occupation and normally does not qualify for the Highly Skilled Migrant scheme or EU Blue Card (which require higher education/salary). It is not on the shortage list. EU/EEA citizens can work freely.
-
-**问：Will this job be automated in the future?**
-答：Automated sorting technology is spreading, but full replacement will take time. Low‑skill sorter positions are likely to decline, while monitoring and maintenance roles may grow.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

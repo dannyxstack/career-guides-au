@@ -1,60 +1,96 @@
-# Apiarist（Apiarist）职业分析 · IE
+# Apiarist — career analysis · Ireland
 
-**职业代码：6123 – Apiarist。**
+**Occupation code: 6123 (ISCO08)**
 
-Apiarists manage bee colonies, produce honey and other bee products, and maintain hive health.
+Beekeepers manage bee colonies, produce honey, beeswax and other bee products, and maintain colony health.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期课程或学徒 | 1年 | $300~$1,500（业余培训或短期证书课程） |
-| 相关农业学位 | 4年（本科） | $10,000~$20,000（爱尔兰国立大学学费范围） |
+| Short-term courses or apprenticeships | 1 year | $300~$1,500 (Leisure training or short certificate courses) |
+| Relevant agricultural degree | 4 years (bachelor's degree) | $10,000~$20,000 (Tuition fee range for Irish National University) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 养蜂基础证书 | 爱尔兰养蜂协会 | 可选 | 常见入门证书 |
-| 食品安全与卫生证书 | HACCP认证机构 | 可选 | 蜂蜜加工可能需要 |
+| Basic Beekeeping Certificate | Irish Beekeepers' Association | Optional | Common entry-level certificates |
+| Food safety and sanitation certificate | HACCP certification body | Optional | Honey processing may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。爱尔兰养蜂业规模虽小但稳定，受本地蜂产品需求及授粉服务支撑，就业机会有限，多为自雇或兼职。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. Beekeeping in Ireland is small but stable, supported by demand for local bee products and pollination services. Job opportunities are limited, mostly self-employment or part-time.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 多为兼职或自雇收入 |
-| 中级（3-7年） | $25,000~$40,000 | 全职管理数百蜂箱 |
-| 高级（7年以上） | $40,000~$60,000 | 大规模商业养蜂或蜂产品企业 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Mostly part-time or self-employed income |
+| Mid-level (3–7 years) | $25,000~$40,000 | Full-time management of hundreds of beehives |
+| Senior (7+ years) | $40,000~$60,000 | Large-Scale Commercial Beekeeping or Bee Products Enterprise |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从小型业余养蜂起步，逐步扩大蜂箱数量；经验丰富后可成为蜂产品加工或种蜂供应专家，或兼任教育培训。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Beekeepers face mixed impacts from AI: repetitive tasks like colony monitoring and yield prediction can be automated, but field operations, bee behavior diagnosis require human intuition and experience, and premium on ecological services raises human value.
+
+You can start with small-scale amateur beekeeping and gradually expand the number of hives; with experience, you can become a specialist in bee product processing or queen breeding, or engage in education and training.
+
+**Tasks most exposed to AI:**
+
+- Bee colony health monitoring (using sensors and image recognition to replace manual inspection)
+- Honey production forecast and harvest timing optimization (based on historical data and weather models)
+- Automatic adjustment of beehive temperature and humidity (IoT control replaces manual adjustment).
+- Early warning for pests and diseases (AI image analysis replacing visual inspection)
+- Beekeeping log and report generation (automatic recording and analysis)
+
+**Where AI augments the role:**
+
+- Swarm behavior analysis and pollination efficiency assessment (AI-assisted decision-making)
+- Precision bee breeding (genomic data with AI matching to optimize traits)
+- Bee product quality traceability and brand marketing (blockchain + AI to enhance trust)
+- Cross-border pollination service scheduling (AI-optimized beehive transport routes and timing)
+- Ecological service value calculation and carbon trading (AI quantifying bee contributions)
+
+**Human moat:**
+
+- Intuitive Bee Behavior and On-site Diagnostic Ability (Non-standardized Judgment)
+- Swarm emergency response (e.g., rapid intervention during swarming or disease outbreaks)
+- Bee product craftsmanship (e.g., specialty honey flavor control)
+- Maintaining trust relationships with local farmers and ecosystems
+- Ethical decision-making (e.g., balancing bee colony welfare with commercial interests)
+
+**Skills to build:**
+
+- IoT and sensor data analysis (smart beehive operation)
+- Drone operation and remote sensing image interpretation (beehive inspection).
+- Basics of bioinformatics (bee genomics and breeding)
+- Digital marketing and e-commerce operations (honey brand direct to consumer)
+- Ecological service assessment and carbon sink accounting (policy alignment)
+- Human-machine collaboration management (coordinating AI tools with human teams)
+
+**Key growth areas:**
 
 - organic honey demand
 - pollination services
@@ -63,61 +99,63 @@ Apiarists manage bee colonies, produce honey and other bee products, and maintai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主提供工作机会，但养蜂不在紧缺清单上，获批难度大 |
+| Subclass General Employment P (General Employment Permit) | Requires a job offer from an employer, but beekeeping is not on the skills shortage list, making approval difficult |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Apiarist？**
-- 热爱户外工作和自然生态
-- 具备耐心与细致观察力
-- 有意从事自雇或小型农业经营
+**Who is suited**
+- Passionate about outdoor work and natural ecology
+- Patient and Detail-Oriented
+- Intend to pursue self-employment or small-scale agricultural operations
 
-**谁不适合学Apiarist？**
-- 寻求稳定高薪及全职雇佣者
-- 对蜂蜇过敏或畏惧昆虫者
+**Who is not suited**
+- Seeking stable, high-paying and full-time employment
+- Those allergic to bee venom or afraid of insects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do beekeepers earn in Ireland?**
+A: Income varies greatly; entry-level roles are often part-time, with an annual salary of €15k-25k; senior commercial beekeepers can earn €40k-60k.
+
+**Q: Can foreigners immigrate to Ireland to become beekeepers?**
+A: Very difficult. Beekeeping is not on the critical skills or shortage occupation list, and usually requires an employer-sponsored work permit first, but opportunities are very rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Apiarist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of an apiarist in Ireland?**
-答：Income varies widely; entry-level part-time can earn €15k-25k, while advanced commercial beekeepers can reach €40k-60k.
-
-**问：Can a foreigner immigrate to Ireland as an apiarist?**
-答：Very difficult. Beekeeping is not on the Critical Skills or shortage list; employer sponsorship is rarely available.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

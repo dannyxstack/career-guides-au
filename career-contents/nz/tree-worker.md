@@ -1,62 +1,98 @@
-# Tree Worker（Tree Worker）职业分析 · 新西兰
+# Tree Worker — career analysis · New Zealand
 
-**职业代码：362512 – Tree Worker。**
+**Occupation code: 362512 (ANZSCO)**
 
-Tree workers prune, remove, and maintain trees for safety and health, using specialized equipment in residential, commercial, and public areas. This ANZSCO skill level 3-4 occupation is eligible for immigration via Accredited Employer Work Visa (AEWV) or specific pathways, such as some Green List forestry roles.
+Tree workers prune, remove, and maintain trees to ensure safety and health, using specialized equipment in residential, commercial, and public areas. This occupation is at skill level 3-4 in ANZSCO and may be eligible for immigration via an Accredited Employer Work Visa (AEWV) or specific pathways such as some forestry roles on the Green List.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰学徒制（树木工人） | 3-4年 | —（通过雇主赞助的学徒项目，学费可能由雇主或政府补贴承担，个人支出较少。） |
-| 树木养护证书（Level 4） | 1-2年 | $3,000~$8,000（由理工学院或私立培训机构提供，如Unitec或Arboriculture New Zealand的课程。） |
+| New Zealand Apprenticeship (Arborist) | 3-4 years | $0~$5,000 (Through employer-sponsored apprenticeship programs, tuition may be covered by the employer or government subsidies, with minimal personal costs.) |
+| Arboriculture Certificate (Level 4). | 1-2 years | $3,000~$8,000 (Offered by polytechnics or private training providers, such as Unitec or Arboriculture New Zealand courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰树木工业协会会员资格 | 新西兰树木工业协会（Arboriculture New Zealand） | 可选 | 推荐但非强制，持有会员资格可增强就业信用。 |
-| 树木养护证书（New Zealand Certificate in Arboriculture） | 新西兰学历评估局（NZQA）认可的培训机构 | 必备 | Level 4证书是常见资质，部分雇主要求持有。 |
-| 健康与安全培训（如Site Safe） | Site Safe或类似机构 | 必备 | 多数雇主要求，包括高空作业和链锯安全培训。 |
-| 驾照（Class 1至少，Class 2更好） | 新西兰交通局（NZTA） | 必备 | 驾驶作业车辆和拖车通常需要，部分雇主要求Class 2。 |
+| New Zealand Certificate in Arboriculture | Training providers accredited by the New Zealand Qualifications Authority (NZQA) | Required | A Level 4 certificate is a common qualification; some employers require it. |
+| Health and safety training (e.g., Site Safe) | Site Safe or similar organizations | Required | Most employers require this, including working at heights and chainsaw safety training. |
+| Driver's license (Class 1 at minimum, Class 2 preferred) | New Zealand Transport Agency (NZTA) | Required | Driving work vehicles and trailers is usually required; some employers require a Class 2 licence. |
+| New Zealand Arboricultural Association Membership | Arboriculture New Zealand | Optional | Recommended but not mandatory; holding membership can enhance employment credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。新西兰树木工人就业前景稳定，受城市绿化和林业管理需求驱动。北岛就业机会较多，但季节性因素影响收入。劳动力市场紧缺度中等，未来五年岗位数量预计小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. employment prospects for New Zealand arborists are stable, driven by urban greening and forestry management demand. More job opportunities in the North Island, but seasonal factors affect income. Labor market shortage is moderate, with slight growth expected in the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 通常时薪20-25纽元，取决于雇主和地区。 |
-| 中级（3-7年） | $50,000~$65,000 | 持有证书和经验后，时薪25-32纽元。 |
-| 高级（7年以上/主管） | $65,000~$80,000 | 团队主管或专家角色，时薪32-40纽元。 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Typically NZD 20-25 per hour, depending on employer and region. |
+| Mid-level (3–7 years) | $50,000~$65,000 | With certification and experience, hourly rate NZD 25-32. |
+| Senior (7+ years/supervisor) | $65,000~$80,000 | Team leader or specialist role, hourly rate $32–40 NZD. |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级树木工人可晋升为高级树木工或团队主管，持有相关证书（如新西兰树木工业协会的树木养护证书）可提升竞争力。经验丰富者可自立门户或转向林业咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tree worker tasks are outdoor, unstructured, physically demanding, and require judgment, making them difficult to fully replace by AI/automation. However, drones, remote monitoring, and smart tools will enhance planning, inspection, and documentation, reducing roles focused on simple patrol while amplifying efficiency and safety.
+
+Junior tree workers can advance to senior tree worker or team supervisor; holding relevant certifications (e.g., New Zealand Arboricultural Association tree care certificate) can enhance competitiveness. Experienced individuals can start their own business or transition to forestry consulting.
+
+**Tasks most exposed to AI:**
+
+- Regularly inspect tree growth and capture images using drones
+- Generate tree health reports and pruning recommendations through AI image analysis
+- Remote monitoring of pruning equipment operation and position records
+- Automatically generate work logs, compliance reports, and client notifications.
+- Automated planning of work routes and zones using GPS and GIS systems
+
+**Where AI augments the role:**
+
+- AR headset overlays tree structure information to guide precise pruning
+- AI algorithm analyzes tree species, season, and wound healing data to optimize pruning time
+- Wearable sensors monitor worker posture and heart rate to prevent fatigue injuries
+- Smart chainsaw automatically adjusts power to reduce kickback, enhancing safety
+- Digital twin simulates the long-term health effects of different pruning schemes on trees
+
+**Human moat:**
+
+- On-site assessment of tree structural stability and risks (e.g., rot, pests)
+- Mobility adaptability in high-altitude work (e.g., balance, force exertion)
+- Communicate trimming plans with clients and explain risk assessments
+- Rapid decision-making and emergency response in urgent situations (e.g., storm damage)
+- Local regulations, cultural customs, and ecological knowledge (e.g., protecting endangered tree species)
+
+**Skills to build:**
+
+- Drone operation and basic aerial photography and surveying
+- GIS/GPS software used for work planning and reporting
+- Tree pathology and risk assessment quantification methods
+- Electric/smart tool repair and programming basics
+- Basic data analysis and visualisation (e.g., Excel, Tableau)
+- Use of safety monitoring systems (e.g., wearable devices)
+
+**Key growth areas:**
 
 - Moderate growth
 - Urban forestry demand
@@ -65,69 +101,68 @@ Tree workers prune, remove, and maintain trees for safety and health, using spec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合有新西兰雇主担保的树木工人，签证有效期为3年，可续签。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，树木工人属技能等级3-4，需满足收入中位数（年薪约60,000纽元）和6分制要求，建议咨询移民顾问。 |
-| Subclass Green List T1（Green List Tier 1 (Direct Residence)） | 绿色清单直接居留，仅适用于某些特定林业角色，如林业科学家，树木工人一般不在清单内，但若岗位属Arborist且满足要求可能符合。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa for tree workers with New Zealand employer sponsorship; valid for 3 years, renewable. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category; tree worker falls under skill level 3-4, must meet median income (approx. NZD 60,000 annually) and 6-point requirement; recommend consulting an immigration advisor. |
+| Subclass Green List T1 (Green List Tier 1 (Direct Residence)) | Green List direct residence, only applicable to certain specific forestry roles such as forestry scientist; tree workers are generally not on the list, but if the position is Arborist and meets requirements, it may qualify. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tree Worker？**
-- 喜欢户外体力劳动、不怕高空作业和恶劣天气者
-- 具备动手能力和安全意识，注重团队合作
-- 愿意接受学徒制培训或证书课程，逐步积累经验
-
-**谁不适合学Tree Worker？**
-- 恐高或无法承受高强度体力劳动
-- 希望快速高薪或办公室工作环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor physical labor, are not afraid of working at heights and in bad weather
+- Possess hands-on skills and safety awareness, emphasis on teamwork
+- Willing to undergo apprenticeship training or certificate courses to gradually gain experience
+
+**Who is not suited**
+- Fear of heights or inability to perform intense physical labor
+- Seeking fast high salary or office work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a tree surgeon in New Zealand?**
+A: Entry-level approx NZD 40,000-50,000, mid-level 50,000-65,000, senior manager up to NZD 80,000. Salary varies by region, experience, and employer; the North Island is generally higher than the South Island.
+
+**Q: Can tree workers obtain New Zealand residency through skilled migration?**
+A: Tree worker is ANZSCO skill level 3-4, usually requires working on an Accredited Employer Work Visa (AEWV) before applying for Skilled Migrant Category (SMC). If employer supports and salary reaches median, can try SMC's 6-point system. Green List only applies to specific forestry roles; general tree workers are not directly eligible.
+
+**Q: What qualifications or certificates are needed to work as a tree worker?**
+A: Typically requires completion of a New Zealand Certificate in Arboriculture (Level 4) or apprenticeship, and holds health and safety training (e.g., Site Safe) and a driver's license. Qualifications are not mandatory, but certification greatly enhances job opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（1-3年）（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tree Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a tree worker in New Zealand?**
-答：Entry-level: NZD 40,000-50,000; intermediate: NZD 50,000-65,000; senior/supervisor: up to NZD 80,000. Salaries vary by region, experience, and employer.
-
-**问：Can a tree worker obtain New Zealand residency through skilled migration?**
-答：Tree workers (ANZSCO skill level 3-4) typically enter via AEWV, then may apply for Skilled Migrant Category (SMC) with median wage. Green List direct residence is limited to specific forestry roles, not general tree workers.
-
-**问：What qualifications are required to become a tree worker?**
-答：Typically a New Zealand Certificate in Arboriculture (Level 4) or apprenticeship, plus health and safety training (e.g., Site Safe) and a driver's license. Certificates are highly recommended but not always mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

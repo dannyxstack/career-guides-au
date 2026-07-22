@@ -1,59 +1,94 @@
-# ICT Security Specialist（ICT Security Specialist）职业分析 · 新西兰
+# ICT Security Specialist — career analysis · New Zealand
 
-**职业代码：262112 – ICT Security Specialist。**
+**Occupation code: 262112 (ANZSCO)**
 
-ICT Security Specialists protect organizational information systems from cyber threats, including security architecture design, penetration testing, incident response, and compliance management. This occupation is on New Zealand's Green List Tier 1, allowing direct residence, with high migration feasibility.
+Cybersecurity engineers protect organizational information systems from cyber threats, including security architecture design, penetration testing, incident response, and compliance management. This occupation is on New Zealand's Green List Tier 1, allowing direct residence application with high immigration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（本科） | 3年 | $30,000~$45,000（新西兰大学计算机或网络安全本科国际生学费，每年约3-4.5万NZD。） |
-| 硕士课程 | 1-2年 | $40,000~$60,000（网络安全硕士课程，总学费约4-6万NZD。） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Tuition fees for international students in computer science or cybersecurity undergraduate programmes at New Zealand universities are approximately NZD 30,000-45,000 per year.) |
+| Master's program | 1-2 years | $40,000~$60,000 (Master's in cybersecurity, total tuition approximately NZD 40,000-60,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 网络安全认证（如CISSP、CISM） | ISC2、ISACA等 | 可选 | 非强制，但对就业和移民加分有显著帮助，尤其CISSP被广泛认可。 |
-| 新西兰国家网络安全中心认证（CSP） | NCSC NZ | 可选 | 针对政府岗位，非强制但有利于求职。 |
-| 英语语言能力（IELTS） | IDP/British Council | 可选 | 技术移民要求雅思总分6.5，部分学校要求7.0。 |
+| Cybersecurity certifications (e.g., CISSP, CISM) | ISC2, ISACA, etc. | Optional | Not mandatory, but significantly helpful for employment and immigration points, especially CISSP is widely recognized. |
+| New Zealand National Cyber Security Centre Certification (CSP) | NCSC NZ | Optional | For government positions, not mandatory but beneficial for job applications. |
+| English language proficiency (IELTS) | IDP/British Council | Optional | Skilled migration requires IELTS overall score of 6.5, some institutions require 7.0. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。随着新西兰数字经济发展和网络威胁增加，网络安全岗位需求持续增长。政府、金融和医疗行业招聘活跃，尤其是惠灵顿和奥克兰。预计未来5年就业增长率约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. With the growth of New Zealand's digital economy and increasing cyber threats, demand for cybersecurity roles continues to rise. Government, finance, and healthcare sectors are actively recruiting, especially in Wellington and Auckland. Expected employment growth of about 15% over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 安全分析师或SOC分析师常见薪资。 |
-| 中级（3-7年） | $90,000~$120,000 | 资深工程师或安全架构师薪资。 |
-| 高级（7年以上） | $130,000~$180,000 | 团队负责人或CISO级别薪资，含奖金。 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Common salary for security analyst or SOC analyst. |
+| Mid-level (3–7 years) | $90,000~$120,000 | Salary of senior engineer or security architect. |
+| Senior (7+ years) | $130,000~$180,000 | Team lead or CISO level salary, including bonuses. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 职业发展路径：初级安全分析师 → 高级工程师 → 安全架构师/团队负责人 → CISO。也可转向云安全、DevSecOps等细分领域，或考取CISSP、CISM等认证提升竞争力。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
+
+Career path: Junior Security Analyst → Senior Engineer → Security Architect/Team Lead → CISO. Can also transition to fields like cloud security or DevSecOps, or enhance competitiveness via certifications such as CISSP or CISM.
+
+**Tasks most exposed to AI:**
+
+- Automated penetration testing tools perform routine vulnerability scanning and report generation
+- AI-driven log analysis and anomaly detection replacing junior SOC monitoring
+- Automated compliance checks (e.g., SOC Act baseline) replace manual audits
+- Automated deployment of security configuration baselines (e.g., firewall rules, IAM policies)
+
+**Where AI augments the role:**
+
+- AI-assisted threat intelligence aggregation and attack pattern prediction
+- Automatically generate incident response playbooks (SOAR integrated with LLM)
+- AI-driven phishing email analysis and social engineering defense simulations
+- Accelerated secure code review (AI detects logic vulnerabilities and zero-days)
+- AI for attack tracing and correlation of digital forensics fragments
+
+**Human moat:**
+
+- Enterprise-level security architecture design and risk decisions (cost-security trade-offs)
+- Original discovery of zero-day vulnerabilities/APT attacks (not pattern matching)
+- Legal compliance (SOCI, Privacy Act) and business context interpretation
+- Human intervention in crisis moments (e.g., offline decisions, negotiations)
+- Deep understanding of multi-domain systems (OT/IT convergence security)
+
+**Skills to build:**
+
+- AI security (adversarial machine learning, model validation)
+- AI Prompt Engineering (for threat hunting playbooks)
+- Cloud Security (AWS/Azure Security Architecture and IaC)
+- OT security (industrial control systems and AUKUS defense requirements)
+- Incident response automation (SOAR platform and playbook development)
+- Security compliance automation (e.g., OpenSCAP, Rego policies)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ ICT Security Specialists protect organizational information systems from cyber t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单Tier 1职业，可直接申请居留，无需先工作。需持相关学历或认证，并有雇佣合同。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，可结合学历、工作经验和新西兰工作offer申请。网络安全工程师通常可获高分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于未达绿名单要求但有关联经验的申请人，工作2年后可转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, can directly apply for residence without prior work. Requires relevant qualification or certification and an employment contract. |
+| Subclass SMC (Skilled Migrant Category) | For a 6-point skilled migration system, applicants can apply based on qualifications, work experience, and a New Zealand job offer. Cybersecurity engineers typically score high. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for applicants with related experience who do not meet Green List requirements; can transition to residence after 2 years. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Security Specialist？**
-- 有IT背景或相关学位，对网络安全有浓厚兴趣。
-- 喜欢解决问题和持续学习新技术。
-- 能承受压力，适合在快节奏环境中工作。
-
-**谁不适合学ICT Security Specialist？**
-- 不愿更新知识和认证的人。
-- 讨厌规则和流程，不适应文档工作。
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has an IT background or related degree, with a strong interest in cybersecurity.
+- Enjoys problem-solving and continuous learning of new technologies.
+- Able to handle stress, suitable for working in a fast-paced environment.
+
+**Who is not suited**
+- Those unwilling to update knowledge and certifications.
+- Dislikes rules and processes, not suited to documentation work.
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level of cybersecurity engineers in New Zealand?**
+A: Junior (0-3 years): approx. NZD 65,000-85,000/yr; Mid (3-7 years): NZD 90,000-120,000; Senior (7+ years): NZD 130,000-180,000. Government roles may pay less than private sector.
+
+**Q: How can a cybersecurity engineer migrate to New Zealand through skilled migration?**
+A: This occupation is on Green List Tier 1, can apply directly for Straight to Residence Visa. Also possible via SMC 6-point system or AEWV work visa to residence. Usually requires a bachelor's degree and employment contract.
+
+**Q: What certifications are needed to work as a cybersecurity engineer in New Zealand?**
+A: Certification is not mandatory, but international certifications like CISSP and CISM are very helpful for job hunting and immigration points. Government roles may prefer CSP certification
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-ICT Security Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for ICT Security Specialists in New Zealand?**
-答：Entry-level (0-3 years) NZD 65,000-85,000; mid-level (3-7 years) NZD 90,000-120,000; senior (7+ years) NZD 130,000-180,000. Government roles may pay less than private sector.
-
-**问：How can ICT Security Specialists migrate to New Zealand?**
-答：This occupation is on Green List Tier 1, enabling Straight to Residence Visa. Alternatively, via SMC 6-point system or AEWV work visa leading to residence. Typically requires a bachelor's degree and job offer.
-
-**问：What certifications are needed for ICT Security Specialists in New Zealand?**
-答：Certifications are not mandatory, but international ones like CISSP or CISM help with employment and migration points. Government roles may prefer CSP certification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

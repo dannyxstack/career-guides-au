@@ -1,61 +1,97 @@
-# Arabist and Orientalist（Arabist and Orientalist）职业分析 · DE
+# Arabist and Orientalist — career analysis · Germany
 
-**职业代码：9115 – Arabist and Orientalist。**
+**Occupation code: 9115 (KldB)**
 
-Scholars specializing in Arabic and Oriental languages, cultures, history, and religion, typically engaged in teaching, translation, or cultural consultancy.
+Scholar researching Arabic and Oriental languages, cultures, history, and religions, typically engaged in teaching, translation, or cultural consulting.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | —（公立大学学费极低，每学期约150-300欧注册费） |
-| 硕士 | 2年 | —（同上） |
-| 博士 | 3-5年 | —（博士职位通常有薪水，无学费） |
+| Bachelor's degree | 3 years | $0~$3,000 (Public university tuition is very low, with semester fees of approximately 150-300 euros) |
+| Master's degree | 2 years | $0~$3,000 (Same as above) |
+| Doctorate | 3-5 years | $0~$500 (PhD positions are usually salaried with no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 大学 | 可选 | 通常需硕士学历才能进入学术领域 |
-| 博士学位 | 大学 | 可选 | 许多研究职位要求博士学历 |
+| Master's degree | University | Optional | A master's degree is usually required to enter the academic field |
+| Doctoral degree (PhD) | University | Optional | Many research positions require a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 3,000。德国大学和研究机构对东方学专家需求稳定，但职位有限。应用领域如政治咨询和跨文化沟通有增长潜力。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,000. Demand for Oriental studies experts is stable at German universities and research institutions, but positions are limited. Growth potential exists in applied fields such as political consulting and cross-cultural communication.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 研究助理或初级讲师 |
-| 中级（4-7年） | $45,000~$60,000 | 博士后或高级讲师 |
-| 高级（8年以上） | $60,000~$80,000 | 教授或研究组长 |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research assistant or junior lecturer |
+| Mid-level (4-7 years) | $45,000~$60,000 | Postdoctoral fellow or senior lecturer |
+| Senior (8+ years) | $60,000~$80,000 | Professor or research group leader |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径：从研究助理或讲师开始，晋升为教授或研究项目负责人。也可转向跨文化培训、外交或国际组织。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance data retrieval, translation, and literature analysis efficiency for Arabic and Oriental Studies researchers, but will not fully replace deep cultural interpretation and critical thinking; entry-level positions may face increased competition due to AI tools, but demand for advanced analytical roles will rise.
+
+Career path: Start as a research assistant or lecturer, progress to professor or research project leader. Also possible to move into cross-cultural training, diplomacy, or international organizations.
+
+**Tasks most exposed to AI:**
+
+- Basic literature translation and abstract generation (can be done with AI translation tools)
+- Corpus retrieval and data extraction (AI can quickly scan large volumes of text)
+- Basic file sorting and classification (AI automated classification system)
+- Simple Q&A and knowledge retrieval (e.g., AI-assisted academic search)
+- Basic proofreading and grammar checking (AI grammar tools)
+
+**Where AI augments the role:**
+
+- In-depth analysis of complex cultural backgrounds and multi-source cross-validation (AI provides clues, humans judge)
+- Cross-language comprehensive literature comparison study (AI translation + human interpretation)
+- Manuscript digitization and text reconstruction (assisted by AI image recognition)
+- Personalised teaching and consultation (AI generates basic materials, humans customise)
+- Research hypothesis generation and trend prediction (AI pattern recognition assistance)
+
+**Human moat:**
+
+- Intuitive understanding of deep cultural contexts and religious sensitivities in Arab and Eastern cultures
+- Nonverbal cues and emotional insights in cross-cultural communication
+- Original academic theory construction and critical academic debate
+- Trust building and ethical judgment in high-value cultural consulting
+- Interpersonal interaction and tacit knowledge acquisition in fieldwork
+
+**Skills to build:**
+
+- AI prompt engineering and efficient use of multilingual LLMs
+- Digital humanities tools (e.g., text mining, network analysis)
+- Advanced statistics and quantitative research methods
+- Interdisciplinary collaboration and project management
+- Public speaking and academic writing
+- Data visualization and interactive display
+
+**Key growth areas:**
 
 - Academic Research
 - Cross-Cultural Communication
@@ -64,66 +100,65 @@ Scholars specializing in Arabic and Oriental languages, cultures, history, and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历研究人员，需年薪约43,800欧元（2024门槛） |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于有大学学历和雇主合同的技术工人 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许6个月在德寻找符合资格的工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated researchers, requires approx. €43,800 annual salary (2024 threshold) |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to skilled workers with a university degree and an employer contract |
+| Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months in Germany to seek a qualifying job |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Arabist and Orientalist？**
-- 热爱东方文化、语言和历史的研究型人才
-- 希望从事学术或跨文化职业的高学历人士
-- 具备多语言能力和批判性思维者
-
-**谁不适合学Arabist and Orientalist？**
-- 追求高薪和快速职业晋升者
-- 喜欢实践操作而非理论研究的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research-oriented talent passionate about Eastern culture, language and history
+- highly educated individuals seeking academic or cross-cultural careers
+- Those with multilingual skills and critical thinking
+
+**Who is not suited**
+- For those seeking high salary and fast career progression
+- People who prefer hands-on practice over theoretical research
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an Arab and Oriental Studies Researcher?**
+A: Entry-level approx. €35,000-45,000, mid-level €45,000-60,000, senior professor up to €80,000.
+
+**Q: How can foreigners enter this occupation?**
+A: Requires a university degree recognized in Germany, typically a doctorate. Can apply for an EU Blue Card or skilled migration visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Arabist and Orientalist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an Arabist and Orientalist?**
-答：Entry-level around €35,000-45,000, mid-level €45,000-60,000, senior professors up to €80,000.
-
-**问：How can foreigners work in this occupation?**
-答：Require a recognized university degree, usually a PhD. Eligible for EU Blue Card or Skilled Immigration Act.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

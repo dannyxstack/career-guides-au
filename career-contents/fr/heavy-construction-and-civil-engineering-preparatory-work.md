@@ -1,61 +1,96 @@
-# Heavy Construction and Civil Engineering Preparatory Work（Heavy Construction and Civil Engineering Preparatory Work）职业分析 · FR
+# Heavy Construction and Civil Engineering Preparatory Work — career analysis · France
 
-**职业代码：F1704 – Heavy Construction and Civil Engineering Preparatory Work。**
+**Occupation code: F1704 (ROME)**
 
-Responsible for preparatory work on construction sites and public works, including formwork installation, rebar tying, foundation excavation, and earthworks.
+Responsible for preliminary preparations for construction sites and public works, including concrete formwork installation, rebar tying, foundation excavation, earthworks, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 建筑工 | 2年（CAP） | —（公立学校免费，材料费约500-5000欧元；可走学徒制带薪） |
-| BTS 建筑与公共工程 | 2年（BTS） | —（公立学校免费，私立约3000-8000欧元；学徒制常见） |
-| 职业许可证（Licence Pro） | 3年（Licence） | —（公立大学免费，私立约5000-10000欧元） |
+| CAP Construction Worker | 2 years (CAP) | $0~$5,000 (Public schools are free, with material costs of about 500-5000 euros; You can take a paid apprenticeship program) |
+| BTS Architecture and Public Works | 2 Years (BTS) | $0~$8,000 (Public schools are free, private ones about 3,000-8,000 euros; Apprenticeships are common) |
+| Professional License (Licence Pro) | 3 years (Licence) | $0~$10,000 (Public universities are free, while private ones pay about 5,000–10,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES 工程机械操作证书 | CNAM / 授权培训机构 | 必备 | 操作挖机、装载机等必备，属于安全管理证书 |
-| SST 急救培训 | INRS / 授权机构 | 必备 | 工地安全必备，通常雇主安排 |
-| CAP 建筑工文凭 | 法国教育部 | 可选 | 基础入职门槛，非强制但普遍要求 |
-| 资质认证（Reconnaissance） | France Compétences | 可选 | 外国文凭需经认证，流程约3-6个月 |
+| CACES Construction Machinery Operation Certificate | CNAM / Authorized Training Institution | Required | Essential for operating excavators, loaders, etc., and is considered a safety management certificate |
+| SST first aid training | INRS / Authorized Institution | Required | Site safety is essential and usually arranged by employers |
+| CAP Construction Diploma | French Ministry of Education | Optional | Basic entry threshold: not mandatory but generally required |
+| Certification (Reconnaissance) | France Compétences | Optional | Foreign diplomas must be authenticated, and the process takes about 3-6 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。法国政府持续推进基础设施更新和住房建设，该职业需求稳定。预计未来十年从业人数保持平稳，受退休人员补充需求影响。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. The French government continues to promote infrastructure upgrades and housing construction, with stable demand for this profession. The number of employees is expected to remain stable over the next decade, driven by the demand for retirees to supplement the workforce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含加班和补贴 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，视技能和项目规模 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，通常为团队负责人或主管 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including overtime and subsidies |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, depending on skill and project size |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, usually for team leaders or supervisors |
+| average salary | $20,004 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从普通工人晋升为团队负责人（Chef d'équipe），进而成为工地主管（Conducteur de travaux）。也可通过职业培训转向更专业的岗位如模板工或钢筋工。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Manual labor and on-site operations for civil engineering and public works preparation workers are not easily replaced by AI, but intelligent tools such as design optimization and document automation will significantly improve efficiency. Entry-level positions (such as formwork and rebar workers) may be reduced due to automation, but demand for technical composite positions is increasing.
+
+You can be promoted from a regular worker to a team leader (Chef d'équipe), and then to a site supervisor (Conducteur de travaux). You can also switch to more specialized positions such as formwork or rebar workers through vocational training.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates rebar layout diagrams and formwork matching calculations based on BIM
+- GPS-guided automatic excavators in earthworks perform precise excavation
+- Automatic vibration and leveling robot operation during concrete pouring
+- AI video analysis for construction site safety monitoring (e.g., identifying those not wearing safety helmets)
+
+**Where AI augments the role:**
+
+- AI-assisted design software optimizes foundation treatment schemes and formwork support systems
+- Drones combined with AI for on-site automatic progress monitoring and earthwork quantity calculation
+- Machine learning-based predictive maintenance for equipment reduces downtime
+- An AI-driven project management platform optimizes construction scheduling and resource allocation
+- Augmented reality (AR) assists workers in tying complex rebar nodes
+
+**Human moat:**
+
+- Decision-making capabilities under complex geological conditions (such as determining temporary support methods for foundation excavation)
+- Multi-trade coordination and handling of on-site emergencies (such as pipeline collisions)
+- Delicate operations required by handicrafts (such as making shaped formwork)
+- The final judgment authority over safety responsibility and quality acceptance
+- Adaptability to harsh environments (noise, dust, weather).
+
+**Skills to build:**
+
+- BIM modeling and collaboration platform operations (such as Revit, Navisworks)
+- Fundamentals of drone operation and photogrammetry
+- Maintenance and programming of automation equipment (such as robots and GPS systems).
+- Data analysis and digital project management (such as Procore, PlanGrid)
+- Knowledge of sustainable construction and green buildings
+- Basic programming (Python) is used for data automation processing
+
+**Key growth areas:**
 
 - Infrastructure renewal
 - Construction boom
@@ -64,69 +99,68 @@ Responsible for preparatory work on construction sites and public works, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié) Work Permit） | 受雇工作居留，需雇主提供劳动合同，适用于长期工作 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适用于高技能或紧缺职业，有效期4年 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于年薪超过53,836.50欧元的高技能职位，该职业通常不满足薪资门槛 |
-| Subclass Recherche emploi（Job Search Permit） | 毕业后求职签证，允许在法居留1年寻找工作 |
+| Subclass Salarié (Employee (Salarié) Work Permit) | For employed work residence, the employer must provide a labor contract, which applies to long-term employment |
+| Subclass Passeport Talent (Talent Passport) | Talent passport, applicable to high-skilled or in-demand occupations, valid for 4 years |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card for high-skilled positions earning over EUR 53,836.50/year; this occupation typically does not meet the salary threshold. |
+| Subclass Recherche emploi (Job Search Permit) | After graduation, a job-seeking visa allows you to stay in France for one year to look for work |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heavy Construction and Civil Engineering Preparatory Work？**
-- 喜欢户外体力工作
-- 愿意接受职业培训
-- 有团队合作精神
-
-**谁不适合学Heavy Construction and Civil Engineering Preparatory Work？**
-- 无法适应高强度体力劳动
-- 不接受工地安全风险
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work
+- Willing to undergo vocational training
+- Strong team spirit
+
+**Who is not suited**
+- Unable to adapt to high-intensity physical labor
+- No to on-site safety risks.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level workers earn about €22,000–28,000 before tax per year, while senior managers can earn up to €45,000. Overtime and project subsidies can increase income.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: You must first obtain a work contract from a French employer and apply for a Salarié work residence permit. If identified as a shortage occupation, it may be easier to obtain a permit. Qualifications like CACES certificates help with job hunting.
+
+**Q: How are foreign diplomas recognized?**
+A: Qualification certification (Reconnaissance des qualifications) must be completed through France Compétences, usually requiring translation and submission of materials, with a process of about 3-6 months.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Heavy Construction and Civil Engineering Preparatory Work的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this profession?**
-答：Entry-level workers earn €22,000-€28,000 gross annually, while senior supervisors can earn up to €45,000. Overtime and project bonuses can increase income.
-
-**问：How can foreigners immigrate to France through this profession?**
-答：You need a job offer from a French employer to apply for a Salarié work permit. Being in a shortage occupation may facilitate the process. Certifications like CACES help in job hunting.
-
-**问：How are foreign qualifications recognized?**
-答：You must go through qualification recognition (Reconnaissance des qualifications) via France Compétences, which involves translating documents and takes about 3-6 months.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

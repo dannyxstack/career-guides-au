@@ -1,59 +1,95 @@
-# Philosopher, Historian and Political Scientist（Philosopher, Historian and Political Scientist）职业分析 · IT
+# Philosopher, Historian and Political Scientist — career analysis · Italy
 
-**职业代码：2633 – Philosopher, Historian and Political Scientist。**
+**Occupation code: 2633 (ISCO08)**
 
-In Italy, this occupation involves research and teaching in philosophy, history, and political science, primarily at universities, research institutes, or think tanks. Job opportunities are limited and highly competitive.
+In Italy, this occupation involves research and teaching in philosophy, history, and political science, mainly at universities, research institutions, or think tanks. Job opportunities are limited and depend on competition for academic positions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$3,000（公立大学学费，视家庭收入而定） |
-| 硕士 | 2年（硕士） | $1,500~$4,000（公立大学硕士学费） |
-| 博士 | 3-4年（博士） | —（博士通常有奖学金，学费极低） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$3,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years (Master's) | $1,500~$4,000 (Master's tuition fees at public universities) |
+| Doctorate | 3-4 years (PhD) | $0~$2,000 (PhD students usually have scholarships, tuition fees are very low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 意大利大学 | 必备 | 学术职位通常要求博士学历 |
-| 国家科研资格认证（ASN） | 意大利教育、大学和科研部 | 必备 | 申请教授职位的必要资格 |
+| Doctoral degree (PhD) | Italian universities | Required | Academic positions typically require a doctoral degree |
+| National Scientific Qualification (ASN) | Italian Ministry of Education, Universities and Research | Required | Essential qualifications for applying for a professor position |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。意大利学术岗位有限，政府科研投入偏低，导致就业前景一般。近年来政治科学领域有所增长，但整体仍面临预算削减和临时合同问题。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. Limited academic positions in Italy and low government research investment lead to average employment prospects. The field of political science has grown in recent years, but overall still faces budget cuts and temporary contract issues.
 
-**竞争度：高（★★★★½）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 博士后或研究助理 |
-| 中级（4-10年） | $35,000~$50,000 | 助理或副教授 |
-| 高级（10年以上） | $50,000~$80,000 | 正教授或高级研究员 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Postdoctoral Fellow or Research Assistant |
+| Mid-level (4-10 years). | $35,000~$50,000 | assistant or associate professor |
+| Senior (10+ years) | $50,000~$80,000 | Full professor or senior researcher |
+| average salary | $45,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业路径通常从博士后研究员开始，逐步晋升为助理教授、副教授和正教授。非学术路径包括政策分析、公共管理和新闻业，但需额外技能。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on philosophers, historians, and political scientists is mixed: automation will compress repetitive tasks like literature retrieval and basic teaching, but core abilities like critical thinking, theory construction, and ethical judgment are hard to replace; instead, AI can enhance data analysis and cross-cultural communication.
+
+Career paths typically start from postdoctoral researcher, progressing to assistant professor, associate professor, and full professor. Non-academic paths include policy analysis, public administration, and journalism, but require additional skills.
+
+**Tasks most exposed to AI:**
+
+- Basic literature search and organization.
+- Repeat delivery of standard course content
+- Simple data analysis and statistical report generation
+- Academic citation and format checking
+- Data collection work of junior research assistants
+
+**Where AI augments the role:**
+
+- Deep pattern analysis of large-scale historical texts
+- Real-time simulation and prediction of political science public opinion data
+- Rapid comparative study of cross-language philosophical texts
+- Development of personalized intelligent teaching aid tools
+- Complex system modeling and visualization of policy impacts
+
+**Human moat:**
+
+- Propose original theoretical frameworks and conceptual innovations
+- Ethical value judgments and moral debates
+- Understanding and interpretation of cross-cultural historical contexts
+- Design of Research Questions and Methodology
+- Debate and peer review in academic communities
+
+**Skills to build:**
+
+- Python data analysis and NLP tools (e.g., Hugging Face)
+- AI Ethics and Policy Evaluation Framework
+- Digital humanities research methods
+- Advanced quantitative methods (e.g., causal inference)
+- Interdisciplinary collaboration and communication skills
+- Academic entrepreneurship and project application skills
+
+**Key growth areas:**
 
 - academic
 - policy analysis
@@ -62,68 +98,67 @@ In Italy, this occupation involves research and teaching in philosophy, history,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位及工作合同，年薪门槛约24,000欧元。 |
-| Subclass Lavoro Subordinato (（Work Visa (Subordinate Employment)） | 通过雇主担保获得工作许可，需证明职位无法由欧盟公民填补。 |
-| Subclass Ricerca (Research Vi（Research Visa） | 针对研究人员，需研究机构邀请，有效期1-2年，可续签。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires university degree and work contract, annual salary threshold approx. €24,000. |
+| Subclass Lavoro Subordinato ( (Work Visa (Subordinate Employment)) | To obtain a work permit through employer sponsorship, you must prove the position cannot be filled by an EU citizen. |
+| Subclass Ricerca (Research Vi (Research Visa) | For researchers, requires invitation from a research institution, valid for 1-2 years, renewable. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Philosopher, Historian and Political Scientist？**
-- 对哲学、历史或政治科学有浓厚学术兴趣的人
-- 愿意从事长期研究和教学工作者
-- 能接受学术职位的激烈竞争和不稳定性
-
-**谁不适合学Philosopher, Historian and Political Scientist？**
-- 追求高薪和快速职业晋升的人
-- 偏好稳定、低竞争工作环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong academic interest in philosophy, history, or political science
+- Those willing to engage in long-term research and teaching
+- Able to accept intense competition and instability in academic positions
+
+**Who is not suited**
+- People seeking high salary and fast career advancement
+- People who prefer a stable, low-competition work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a philosopher in Italy?**
+A: Junior position annual salary is about €25,000-35,000, senior professor can reach €50,000-80,000, but overall it's on the low side.
+
+**Q: How can foreign philosophers immigrate to Italy for work?**
+A: Eligible via EU Blue Card or research visa, requiring a PhD and a university employment contract. Fluency in Italian is a significant advantage.
+
+**Q: What are the non-academic employment prospects for PhDs in Philosophy in Italy?**
+A: Can switch to policy analysis, public administration, journalism, etc., but requires additional training, and is less competitive than direct-entry applicants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★½） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Philosopher, Historian and Political Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for philosophers in Italy?**
-答：Entry-level positions earn around €25,000-€35,000 annually, while senior professors can reach €50,000-€80,000, but overall low.
-
-**问：How can foreign philosophers immigrate to work in Italy?**
-答：Via EU Blue Card or research visa, requiring a PhD and a university contract. Proficiency in Italian is crucial.
-
-**问：What are the non-academic career prospects for philosophy PhDs in Italy?**
-答：Possible transitions to policy analysis, public administration, and journalism, but require additional training and face competition from specialized graduates.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

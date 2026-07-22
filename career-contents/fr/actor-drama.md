@@ -1,60 +1,95 @@
-# Actor (Drama)（Actor (Drama)）职业分析 · FR
+# Actor (Drama) — career analysis · France
 
-**职业代码：L1203 – Actor (Drama)。**
+**Occupation code: L1203 (ROME)**
 
-Dramatic actors interpret roles through body, voice and emotion, presenting scripted content on stage or screen, requiring performance skills, creativity and teamwork.
+Drama actors interpret characters through body, voice, and emotion, presenting scripts on stage or in film and television works, requiring acting skills, creativity, and teamwork abilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 国立戏剧艺术学院（CNSAD）文凭 | 3年 | —（公立学校免学费，仅注册费） |
-| 私立戏剧学院文凭（如Cours Florent） | 3年 | $6,000~$12,000（年均学费） |
-| 大学表演艺术学士（Licence） | 3年 | $185~$500（公立大学注册费） |
+| Diploma from the National Academy of Dramatic Arts (CNSAD). | 3 years | $0~$1,000 (Public schools offer no tuition, only a registration fee) |
+| Private drama school diploma (such as Cours Florent) | 3 years | $6,000~$12,000 (Annual tuition.) |
+| Bachelor of Performing Arts (Licence) | 3 years | $185~$500 (Public university registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法国戏剧演员专业资格（无强制认证） | 法国文化部 | 可选 | 非强制性，但演出行业认可 |
-| 间歇性演出工作者身份（Intermittent du spectacle） | France Travail | 可选 | 需满足最低演出小时数，享受社保 |
-| 表演艺术学士或文凭 | 公立大学或私立戏剧学院 | 可选 | 非强制但推荐 |
+| Professional qualification for French theater actors (no mandatory certification) | French Ministry of Culture | Optional | Non-mandatory but recognized by the performing arts industry |
+| Intermittent Spectacle | France Travail | Optional | Must meet the minimum performance hours and enjoy social insurance |
+| Bachelor of Performing Arts or diploma | Public universities or private drama academies | Optional | Not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国表演艺术行业竞争激烈，就业机会主要集中在巴黎及大型剧院。短期合同和项目制工作为主，兼职常见。数字化和线上演出带来新机会，但整体岗位增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The French performing arts industry is highly competitive, with job opportunities mainly concentrated in Paris and large theaters. Mainly short-term contracts and project-based work, with part-time jobs common. Digitalization and online performances have brought new opportunities, but overall job growth has been slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$24,000 | 税前年薪估算，多数为项目制，实际收入不稳定 |
-| 中级（3-10年） | $24,000~$45,000 | 含小型剧院主演或电视配角 |
-| 高级（10年以上） | $45,000~$80,000 | 知名演员或大型剧院长驻角色 |
+| Median salary | $34,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $12,000~$24,000 | Most pre-tax annual salary estimates are project-based, and actual income is unstable |
+| Intermediate (3-10 years) | $24,000~$45,000 | Including small theater leads or TV supporting roles |
+| Senior (10+ years) | $45,000~$80,000 | Famous actors or long-term roles in large theaters |
+| average salary | $40,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：从配角起步，逐步积累作品和声誉，可升为主角或导演。部分演员转向配音、教学或戏剧治疗。长期需要持续培训和 networking。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI brings mixed impacts for actors: on one hand, AI-generated virtual actors and synthetic media may replace some extras, background performances, and standardized voice acting; on the other hand, AI tools can enhance performance creation, storyboard previews, and facial animation, but core emotional expression and live interaction remain a human moat.
+
+Career advancement path: Start as a supporting actor, gradually build up your works and reputation, and can be promoted to lead or director. Some actors turn to voice acting, teaching, or drama therapy. Long-term training and networking are required.
+
+**Tasks most exposed to AI:**
+
+- Bulk generation of extras and background roles (AI digital humans replacing)
+- Standard voiceover (e.g., for non-principal roles in ads and animations)
+- Simple facial replacement or expression synthesis (digital double) in front of the camera.
+- Scripted performance based on retrieval (e.g., preset actions in interactive experiences)
+
+**Where AI augments the role:**
+
+- Script analysis and character motivation exploration (AI-assisted text understanding)
+- Virtual rehearsal (using digital avatars to test scenes and movements).
+- Fine-tune facial animations (optimize expression capture in real-time with AI).
+- Improv and personalized performance (AI generates script suggestions based on style)
+- Lip-sync for multilingual dubbing (AI automatic matching)
+
+**Human moat:**
+
+- High emotional authenticity and subtle emotional delivery.
+- Improvisation and unpredictable interactive chemistry.
+- Physical Presence and Audience Empathy (Stage Theater)
+- Unique interpretation of deep psychology in complex roles
+- Real-time creative collaboration between director and actors
+
+**Skills to build:**
+
+- Use AI video generation tools (e.g., Runway, Pika) for pre-visualisation
+- Master motion capture and facial capture technologies (e.g., Unreal Engine MetaHuman)
+- Basic AI scriptwriting assistant tools (e.g., ChatGPT script analysis)
+- Digital human interaction and virtual performances (e.g., VRChat performances)
+- Multimedia editing and compositing knowledge (to improve self-direction and performance skills).
+- Data analysis skills (understanding AI's selection logic and optimizing personal brand)
+
+**Key growth areas:**
 
 - freelance
 - digital theatre
@@ -63,68 +98,67 @@ Dramatic actors interpret roles through body, voice and emotion, presenting scri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent (Ar（Talent Passport (Performing Artist)） | 适用于具有突出艺术成就或签约法国项目的演员，有效期4年，可续签，允许家属随行。 |
-| Subclass Salarié（Employee Work Permit） | 需法国雇主提供长期合同（CDI），但戏剧行业多为短期合同，需雇主证明不可替代性。 |
-| Subclass Recherche emploi / c（Job Search / Business Creation (Post-Study)） | 法国毕业生可申请一年期居留寻找工作，找到后转为工作居留。 |
+| Subclass Passeport Talent (Ar (Talent Passport (Performing Artist)) | Applicable to actors with outstanding artistic achievements or contracted to French projects, valid for 4 years, renewable and allowing family members to accompany the party. |
+| Subclass Salarié (Employee Work Permit) | A French employer must provide a long-term contract (CDI), but the drama industry is mostly short-term and requires employers to prove non-replaceability. |
+| Subclass Recherche emploi / c (Job Search / Business Creation (Post-Study)) | French graduates can apply for a one-year residence permit to find work and then convert to work residence. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Actor (Drama)？**
-- 具备表演天赋和创造力的人
-- 能承受不稳定收入和频繁试镜压力者
-- 善于团队合作和接受导演指导者
-
-**谁不适合学Actor (Drama)？**
-- 追求稳定工作和固定收入者
-- 不善于公开表演或面对拒绝者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with acting talent and creativity
+- Able to handle unstable income and frequent audition pressure
+- Good at teamwork and accepting directors' guidance
+
+**Who is not suited**
+- Those seeking stable jobs and fixed incomes
+- Not good at public performance or facing rejection
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a theater actor?**
+A: Entry-level actor annual salary approx. €12,000-24,000 (gross), mid-level approx. €24,000-45,000, but most actors work on a project basis with unstable income, often requiring side jobs.
+
+**Q: How do third-nationality actors immigrate to France?**
+A: Applications can be made through the Passeport Talent Artiste-interprète, which requires a French performance contract or outstanding artistic achievements; Alternatively, you can first study at a French drama school and apply for job-seeking residence after graduation.
+
+**Q: What key skills do dramatic actors need?**
+A: Besides acting skills, improvisation, voice control, physical expression, script analysis, and language skills (French) are required. Networking and ongoing training are also important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Actor (Drama)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dramatic actors?**
-答：Junior actors earn approximately €12,000-€24,000 gross annually, mid-level €24,000-€45,000, but most work on project basis with unstable income.
-
-**问：How can third-country actors immigrate to France?**
-答：They can apply for a Talent Passport (Passeport Talent Artiste-interprète) with a French performance contract or outstanding artistic achievements; alternatively, study at a French drama school and then apply for a job-seeking visa.
-
-**问：What key skills do dramatic actors need?**
-答：In addition to acting skills, improvisation, voice control, body expression, script analysis and French language proficiency are essential. Networking and continuous training are also important.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

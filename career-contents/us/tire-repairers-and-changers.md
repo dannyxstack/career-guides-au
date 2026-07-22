@@ -1,61 +1,97 @@
-# Tire Repairers and Changers（Tire Repairers and Changers）职业分析 · 美国
+# Tire Repairers and Changers — career analysis · United States
 
-**职业代码：49-3093 – Tire Repairers and Changers。**
+**Occupation code: 49-3093 (SOC)**
 
-Tire repairers and changers inspect, repair, and replace tires, including removing, mounting, balancing, and patching. They work in auto shops, tire dealers, and transport companies, requiring physical stamina and mechanical skills.
+Tire repairers and changers inspect and repair tires, including dismounting, mounting, balancing, and patching damage. This occupation is common in auto repair shops, tire specialty stores, and large transport companies, requiring physical labor and technical operation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭/同等学力 | 12年 | —（公立学校免费） |
-| 在职培训 | 1年 | —（雇主提供，可能需购买工具） |
+| High school diploma / equivalent | 12 years | $0~$0 (Free public schools.) |
+| On-the-job training | 1 year | $0~$1,000 (Provided by employer, may need to purchase tools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学力 | 高中或GED | 可选 | 大多数雇主要求 |
-| 在职培训 | 雇主 | 必备 | 通常1年以内 |
-| 轮胎行业认证 | TIA（轮胎工业协会） | 可选 | 非强制但有助于晋升 |
+| On-the-job training | Employer | Required | Typically within 1 year |
+| High school diploma or equivalent | High school diploma or GED | Optional | Required by most employers |
+| Tire industry certification | TIA (Tyre Industry Association) | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 110,000。美国劳工统计局预计该职业就业增长率为3-6%，低于平均水平。随着车辆保有量稳定，需求主要来自替换轮胎和维护。自动化轮胎更换技术的进步可能限制就业增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 110,000. The US Bureau of Labor Statistics projects employment growth of 3-6% for this occupation, lower than average. As vehicle ownership stabilizes, demand mainly comes from tire replacement and maintenance. Advances in automated tire changing technology may limit employment growth.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 入门级薪资，通常最低工资水平 |
-| 中级（3-6年） | $35,000~$45,000 | 有经验的技师 |
-| 高级（6年以上） | $45,000~$55,000 | 主管或专门技师 |
+| Median salary | $37,710 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Entry-level salary, typically at minimum wage |
+| Mid-level (3–6 years) | $35,000~$45,000 | Experienced technician |
+| Senior (6+ years) | $45,000~$55,000 | Supervisor or specialized technician |
+| average salary | $40,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级轮胎工可通过经验积累晋升为高级技师或主管，进一步可能转向车队管理或开设自己的修理店。部分工人可能通过学习汽车维修技能转型为汽车维修技师。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Tire repair and replacement workers face moderate automation risk; AI and robots can take over repetitive inspection, disassembly, and balancing tasks, but on-site judgment and complex repairs still require humans. Entry-level positions will decrease due to automation, but senior repair roles remain stable.
+
+Junior tire technicians can advance to senior technicians or supervisors through experience, and may further transition to fleet management or open their own repair shops. Some workers may retrain as automotive repair technicians by learning vehicle repair skills.
+
+**Tasks most exposed to AI:**
+
+- Tyre removal and installation performed using automatic tyre changers.
+- Use a computer balancing machine for automatic tire balancing.
+- Using AI vision systems to detect tire tread depth, wear patterns, and appearance defects
+- Automatic inflation system adjusts tire pressure based on preset values
+- System automation to generate maintenance records and customer reports
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic system helps identify complex tire failure causes (e.g., uneven wear, vibration sources)
+- Augmented reality (AR) glasses provide repair step guidance and historical data overlay
+- Smart inventory management predicts demand and optimizes replenishment
+- Mobile app provides real-time tire pressure monitoring (TPMS) data analysis
+- Customer Relationship Management (CRM) system improves service tracking and appointment management efficiency
+
+**Human moat:**
+
+- Intuitive judgment and fine-tuning feel for tire-vehicle matching
+- Repairing complex damage (e.g., sidewall damage) requires experience and manual skill
+- Develop flexible repair plans based on on-site conditions with limited time/tools
+- Communicate with customers to explain repair recommendations and build trust
+- Specialized skills for handling old or non-standard tires (e.g., heavy machinery tires)
+
+**Skills to build:**
+
+- Mastery of AI-assisted diagnostic tools and data analysis
+- Learn to use AR maintenance assistance systems
+- Obtain advanced tire repair certification (e.g., TIA)
+- Proficient in TPMS system diagnosis and sensor programming
+- Understand special requirements and repairs for electric vehicle tires
+- Improve customer service and communication skills
+
+**Key growth areas:**
 
 - Stable demand
 - Automated tire changers
@@ -64,65 +100,67 @@ Tire repairers and changers inspect, repair, and replace tires, including removi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 轮胎维修工通常不属于专业职业，H-1B申请困难，除非职位结合工程或管理职责。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年经验或培训，可能通过PERM申请，但雇主较少支持。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Tire repairers are generally not considered professional occupations, making H-1B applications difficult unless the role incorporates engineering or management duties. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of experience or training, may apply via PERM, but employer support is limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tire Repairers and Changers？**
-- 喜欢动手操作和体力工作
-- 希望快速入门无需高等教育
-- 愿意在车辆维修行业长期发展
+**Who is suited**
+- Enjoy hands-on work and physical labor
+- Those who want a quick start without higher education.
+- Willing to develop long-term in vehicle repair industry.
 
-**谁不适合学Tire Repairers and Changers？**
-- 偏好清洁、安静的工作环境
-- 希望高收入和高社会地位
+**Who is not suited**
+- Prefer clean, quiet work environment
+- Desire for high income and high social status.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for tire repair workers in the US?**
+A: Average annual salary for tyre repair technicians in the US is about USD 35,000, entry-level around 25,000, senior technicians can reach 55,000. Salaries vary by location and experience, possibly higher in some high-cost cities.
+
+**Q: Can tire repairers immigrate to the US?**
+A: This occupation is low-skilled blue-collar, making immigration via H-1B or EB-3 green cards very difficult. Employers are often unwilling to support PERM, and visa quotas are limited. Typically need to switch to other high-skilled trades.
+
+**Q: What are career development paths for tire repairers?**
+A: Can advance to tire department supervisor, fleet maintenance manager, or become an automotive mechanic through training. With experience, can also start your own tire shop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Tire Repairers and Changers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of tire repairers in the US?**
-答：The average annual wage for tire repairers in the US is around $35,000, with entry-level at $25,000 and experienced up to $55,000. Wages vary by location and experience.
-
-**问：Can tire repairers immigrate to the US?**
-答：This is a low-skilled blue-collar occupation, making H-1B or EB-3 green card sponsorship very difficult. Employers rarely support PERM, and visa quotas are tight. Switching to a higher-skilled trade is often needed.
-
-**问：What career paths are available for tire repairers?**
-答：Advancement to tire department supervisor, fleet maintenance manager, or auto mechanic with additional training. Experienced workers may open their own tire shop.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

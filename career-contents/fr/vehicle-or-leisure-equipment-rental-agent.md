@@ -1,60 +1,92 @@
-# Vehicle or Leisure Equipment Rental Agent（Vehicle or Leisure Equipment Rental Agent）职业分析 · FR
+# Vehicle or Leisure Equipment Rental Agent — career analysis · France
 
-**职业代码：D1204 – Vehicle or Leisure Equipment Rental Agent。**
+**Occupation code: D1204 (ROME)**
 
-Handles the rental of vehicles and leisure equipment such as cars, RVs, boats, and ski gear, including customer reception, contract management, vehicle inspection, and return processing.
+Responsible for leisure equipment such as taxis, RVs, yachts, and ski equipment, including customer reception, contract signing, vehicle inspection, and return processing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（BTS） | $5,000~$15,000（公立学校学费低，私立商学院费用较高） |
-| 学徒制 | 1-2年 | —（学徒培训中心免费，企业支付工资） |
-| 短期职业培训 | 6个月 | $2,000~$5,000（由AFPA或私立机构提供） |
+| High school graduation + vocational training | 2 Years (BTS) | $5,000~$15,000 (Public schools have lower tuition fees, while private business schools have higher fees) |
+| Apprenticeship | 1-2 years | $0~$1,000 (Apprenticeship training centers are free, and companies pay salaries) |
+| Short-term vocational training | 6 months. | $2,000~$5,000 (Provided by AFPA or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Tourisme | 法国教育部 | 可选 | 旅游管理文凭，入门级认可度较高 |
-| 车辆驾驶执照 | 法国国家警察局 | 必备 | B类驾照（手动挡）通常必需 |
-| 专业驾照（重型车/船舶） | 法国交通部 | 可选 | 租赁特殊车辆（如房车、船只）时可能需要 |
+| Vehicle driver's license | French National Police | Required | A Class B driver's license (manual) is usually required |
+| BTS Tourisme | French Ministry of Education | Optional | Tourism Management Diploma, with a high recognition at the entry-level level |
+| Professional Driver's License (Heavy Vehicles/Ships) | French Ministry of Transport | Optional | Rental of special vehicles (such as RVs and boats) may be required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国旅游业持续复苏带动租赁需求增长，尤其户外休闲设备租赁。但行业竞争激烈，季节性强。就业机会主要集中在旅游热点区域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The continued recovery of France's tourism industry is driving increased rental demand, especially outdoor leisure equipment rentals. However, the industry is highly competitive and highly seasonal. Employment opportunities are mainly concentrated in tourist hotspots.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含奖金，门店经理可达更高 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including bonuses, store manager salary can be even higher |
+| average salary | $35,178 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级租赁代理晋升为门店主管或区域经理。也可转向旅游、物流或客户服务领域。积累经验后可自主创业开设租赁公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Vehicle or leisure equipment rental agents benefit from AI tools for improved efficiency while also facing automated replacement of tasks like document processing and scheduling. However, core interpersonal services and on-site inspections are difficult to fully replace, resulting in a mixed overall situation.
+
+You can be promoted from junior leasing agent to store supervisor or regional manager. It can also be expanded into tourism, logistics, or customer service. After accumulating experience, you can start your own business and establish a leasing company.
+
+**Tasks most exposed to AI:**
+
+- Handling bookings, generating lease contracts and invoices
+- Verification of customer basic information and simple inquiry responses
+- Vehicle/equipment availability is automatically checked and dispatched
+- Archiving lease records and data entry
+
+**Where AI augments the role:**
+
+- AI assists customer preference analysis and provides personalized recommendations
+- AI predicts maintenance reminders to improve equipment turnover efficiency
+- AI real-time translation features serve multilingual clients
+- AI dynamic pricing optimization improves occupancy rates and revenue
+
+**Human moat:**
+
+- On-site vehicle/equipment inspection and fault diagnosis
+- Handling customer complaints and complex negotiations
+- Maintain long-term customer relationships and trust
+- Flexible decision-making in unexpected situations
+
+**Skills to build:**
+
+- Customer Relationship Management (CRM) tools are used
+- Basic data analysis and AI-assisted decision-making
+- Multilingual communication skills.
+- Negotiation and conflict resolution skills
+- Basic knowledge of vehicle/equipment maintenance
+
+**Key growth areas:**
 
 - Tourism recovery
 - Outdoor recreation
@@ -63,68 +95,67 @@ Handles the rental of vehicles and leisure equipment such as cars, RVs, boats, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，合同符合法国劳工市场条件，适合中大型租赁公司聘用外籍员工。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高等学历或高薪岗位（年薪≥53,149.50欧元），但该职业薪资通常不达标，极少适用。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业后可申请一年期签证找工作，适合完成法国BTS或学徒制的外国毕业生。 |
+| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, contract meets French labor market conditions, suitable for medium to large leasing companies hiring foreign workers. |
+| Subclass Passeport Talent (Talent Passport) | Applicable to higher education or high-paying positions (annual salary ≥ 53,149.50 euros), but this occupation usually does not meet the salary requirements and is rarely applicable. |
+| Subclass Recherche emploi (Job Search Visa) | After graduation, you can apply for a one-year visa to find a job, suitable for foreign graduates who have completed the French BTS or apprenticeship programs. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle or Leisure Equipment Rental Agent？**
-- 喜欢与人沟通、服务意识强的人
-- 对旅游业和户外活动感兴趣的人
-- 适应灵活排班和周末工作的人
-
-**谁不适合学Vehicle or Leisure Equipment Rental Agent？**
-- 追求稳定周末休息的人
-- 不喜欢处理行政合同和车辆检查细节的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communication and have a strong service orientation
+- People interested in tourism and outdoor activities
+- People who adapt to flexible scheduling and weekend work
+
+**Who is not suited**
+- Those seeking stable weekend rest
+- People who dislike handling administrative contracts and vehicle inspection details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level salary approx. EUR 22,000–26,000 gross annually; mid-level up to EUR 32,000; senior store manager approx. EUR 40,000. Bonuses form a significant portion.
+
+**Q: Can foreigners apply for leasing agent positions in France?**
+A: Yes, but fluency in French (B2 or above) is required. Foreign employees must apply for work residence (Salarié) through employer sponsorship. Graduates of the French BTS diploma can apply for a job-seeking visa.
+
+**Q: What license or certification is needed?**
+A: A Class B driver's license is basically required. A BTS Tourisme diploma is a plus. Renting special vehicles (such as heavy vehicles and boats) requires the corresponding driver's license. No mandatory practice certificate is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Vehicle or Leisure Equipment Rental Agent的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level salary is around €22,000-€26,000 gross per year, mid-level up to €32,000, and senior branch manager around €40,000. Bonuses are a significant component.
-
-**问：Can foreigners apply for rental agent positions in France?**
-答：Yes, but fluent French (B2+) is required. Foreign employees need employer sponsorship for a work permit (Salarié). Graduates of French BTS programs can apply for a job search visa.
-
-**问：What licenses or certifications are needed?**
-答：A category B driver's license is essential. A BTS Tourisme diploma is advantageous. Renting special vehicles (heavy vehicles, boats) requires specific licenses. No mandatory professional certification.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

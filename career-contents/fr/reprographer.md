@@ -1,60 +1,94 @@
-# Reprographer（Reprographer）职业分析 · FR
+# Reprographer — career analysis · France
 
-**职业代码：E1307 – Reprographer。**
+**Occupation code: E1307 (ROME)**
 
-Operates photocopying, printing, and binding equipment to provide document reproduction, digitization, and finishing services.
+Responsible for operating copying, printing, and binding equipment, and providing document duplication, digitization, and post-processing services.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中文凭（CAP） | 2年 | —（公立学校免费，私立约2000-5000欧元，亦可选择学徒制（有津贴）） |
-| 技师文凭（BTS） | 2年 | —（公立学校免费，私立约3000-8000欧元/年） |
+| Vocational High School Diploma (CAP) | 2 years | $0~$5,000 (Public schools are free, private ones are about 2000-5000 euros, and apprenticeships (with subsidies) are also available) |
+| Technician Diploma (BTS) | 2 years | $0~$8,000 (Public schools free, private approx. 3000-8000 EUR/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 数字印刷技师 | 法国教育部 | 可选 | 基础职业文凭，非强制但利于就业 |
-| BTS 视觉传达与数字印刷 | 法国教育部 | 可选 | 高级文凭，部分岗位要求 |
+| CAP Digital Printing Technician | French Ministry of Education | Optional | Basic vocational diploma, not mandatory but beneficial for employment |
+| BTS Visual Communication and Digital Printing | French Ministry of Education | Optional | Advanced diploma, some job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 25,000。随着数字化转型，传统复印需求下降，但专业文档管理和数字印刷仍有稳定需求，岗位数量缓慢减少。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,000. With digital transformation, demand for traditional copying has declined, but professional document management and digital printing still have stable demand, and the number of positions is slowly decreasing.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，多为SMIC起薪 |
-| 中级（3-7年） | $26,000~$32,000 | 含经验津贴及加班 |
-| 高级（7年以上） | $32,000~$40,000 | 含主管或专家岗 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary mostly starts at SMIC |
+| Mid-level (3–7 years) | $26,000~$32,000 | Includes experience allowance and overtime |
+| Senior (7+ years) | $32,000~$40,000 | Including supervisor or expert positions |
+| average salary | $26,742 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级操作员晋升为团队主管或数字印刷专家，也可转向档案数字化管理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The core tasks of copy technicians (scanning, printing, binding) are being rapidly replaced by automated and digital processes, significantly shrinking positions. Without transforming into digital printing and design, their survival space will shrink dramatically.
+
+You can be promoted from junior operator to team leader or digital printing expert, or transition to digital archive management.
+
+**Tasks most exposed to AI:**
+
+- Automatic scanning of batch documents and OCR text recognition require no manual intervention
+- Standardized printing and binding operations based on templates are automatically scheduled by the system
+- Common fault diagnosis is completed through an AI self-check program, requiring no prior judgment
+- Customer order management, quotation, and scheduling are handled by the intelligent platform
+- Basic color correction and image optimization are automatically performed by AI algorithms
+
+**Where AI augments the role:**
+
+- AI-assisted complex print layout and design workflows
+- Leveraging AI to analyze customer historical preferences and provide personalized printing recommendations
+- AI-driven quality control enables real-time monitoring of output defects
+- Combined with VR previews, customers can directly see the final results before printing
+
+**Human moat:**
+
+- Customized operations for special materials (art paper, non-standard sizes).
+- Communicate complex needs with clients and offer creative solutions
+- Manage the full-process coordination of multi-process, high-precision, niche projects
+- Maintain valuable equipment and perform manual calibration and commissioning
+
+**Skills to build:**
+
+- Learn digital printing (such as HP Indigo, Canon varioprint) operations and color management
+- Proficient in design software such as Adobe InDesign and Photoshop
+- Understanding automation workflows in the printing industry (such as EFI Fiery)
+- Learn the basics of data analysis and customer relationship management (CRM)
+- Develop cross-media publishing skills (such as e-books and online publishing)
+- Enhance project management and communication skills to handle complex orders
+
+**Key growth areas:**
 
 - Digital printing
 - Document digitization
@@ -63,65 +97,67 @@ Operates photocopying, printing, and binding equipment to provide document repro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需获得法国雇主担保，薪资不低于SMIC（约21,000欧元/年）且证明优先招聘欧盟公民。 |
-| Subclass Passeport Talent（Talent Passport） | 需具备高技能或特殊背景（如杰出人才计划），薪资要求较高（通常≥53,000欧元/年），不适用于复印技术员。 |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires a French employer sponsorship, salary not less than SMIC (about 21,000 euros/year), and proof of priority recruitment for EU citizens. |
+| Subclass Passeport Talent (Talent Passport) | Requires high skills or special background (e.g., talent program), salary requirement high (usually ≥€53,000/year), not applicable for copy technicians. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Reprographer？**
-- 耐心细致，喜欢操作性工作
-- 对数字印刷和文档管理感兴趣者
-- 愿意在小企业或复印店工作
+**Who is suited**
+- Patient and meticulous, enjoys hands-on work
+- For those interested in digital printing and document management
+- Willing to work in a small business or copy shop
 
-**谁不适合学Reprographer？**
-- 寻求高薪或快速晋升者
-- 不愿从事重复性操作者
+**Who is not suited**
+- Those seeking high salaries or rapid promotion
+- Those unwilling to engage in repetitive operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for copy technicians?**
+A: Entry-level salaries are about €22,000-€26,000/year, and seniors can reach up to €40,000/year, with limited room for salary growth.
+
+**Q: Can foreigners apply for this occupational visa?**
+A: Difficult. This occupation is not in short supply; employers must demonstrate priority in hiring EU citizens and that the salary threshold is low, making it difficult to meet visa requirements.
+
+**Q: Does this career have growth prospects?**
+A: Demand has declined due to digitalization, but stable positions remain in digital printing and archive digitization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Reprographer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for reprographers?**
-答：Entry-level about €22,000-€26,000/year, senior up to €40,000/year, with limited growth.
-
-**问：Can foreigners get a visa for this occupation?**
-答：Difficult. Not a shortage occupation, employer must prove no EU candidate, salary too low for most visas.
-
-**问：Are there career prospects for reprographers?**
-答：Declining due to digitalization, but stable in digital printing and document digitization.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

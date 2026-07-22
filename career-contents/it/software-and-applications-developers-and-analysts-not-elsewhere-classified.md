@@ -1,60 +1,96 @@
-# Software and Applications Developers and Analysts Not Elsewhere Classified（Software and Applications Developers and Analysts Not Elsewhere Classified）职业分析 · IT
+# Software and Applications Developers and Analysts Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：2519 – Software and Applications Developers and Analysts Not Elsewhere Classified。**
+**Occupation code: 2519 (ISCO08)**
 
-Italy's IT sector has high demand for full-stack developers, data analysts, and mobile app developers, with above-average salaries.
+Italy's IT industry has high demand for full-stack developers, data analysts, and mobile app developers, with above-average salaries.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | —（公立大学学费低，私立较高，可申请奖学金） |
-| 硕士 | 2年（硕士） | $1,000~$20,000（硕士课程更专业化，部分大学与公司合作） |
+| Bachelor's degree | 3 years (bachelor's) | $0~$15,000 (Public universities have low tuition, private ones are higher; scholarships are available.) |
+| Master's degree | 2 years (Master's) | $1,000~$20,000 (Master's programs are more specialized, with some universities collaborating with companies.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学位 | 意大利大学 | 必备 | 通常要求学士学位，硕士更受青睐 |
-| 专业认证 | Oracle、Cisco、AWS等 | 可选 | 有助于提升竞争力，非强制 |
+| Computer science or related degree | Italian universities | Required | Typically requires a bachelor's degree; a master's degree is preferred |
+| Professional certification | Oracle, Cisco, AWS, etc. | Optional | Helps improve competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。意大利数字化转型推动IT岗位增长，预计未来5年就业增长率约12%。北部工业区与米兰、罗马等城市机会集中。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. Italy's digital transformation is driving IT job growth, with an expected employment growth rate of about 12% over the next 5 years. Opportunities are concentrated in the northern industrial areas and cities like Milan and Rome.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 米兰等大城市薪资较高 |
-| 中级（3-7年） | $40,000~$55,000 | 有经验者薪资增长明显 |
-| 高级（7年以上） | $60,000~$85,000 | 管理层或架构师可达更高 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Higher salaries in major cities like Milan |
+| Mid-level (3–7 years) | $40,000~$55,000 | Salary increases significantly with experience |
+| Senior (7+ years) | $60,000~$85,000 | Management or architect roles can reach higher levels |
+| average salary | $50,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级开发者可通过项目经验晋升为高级工程师或架构师，也可转向项目管理或技术咨询。持续学习云平台和AI技能可加速职业发展。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on software development and data analysts is mixed: repetitive tasks like coding and testing will be automated, but higher-level skills like system design, business understanding, and innovation are amplified, requiring continuous learning to stay competitive.
+
+Junior developers can advance to senior engineers or architects through project experience, or move into project management or technical consulting. Continuous learning of cloud platforms and AI skills can accelerate career progression.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and repetitive CRUD operations
+- Basic unit testing and debugging
+- Data cleaning and simple report generation
+- Standardised checks in code review
+- Documentation writing and maintenance
+
+**Where AI augments the role:**
+
+- Use AI-assisted system architecture design and code optimization
+- Use AI tools for rapid prototyping and idea validation
+- Enhance data analysis and model iteration through AI
+- AI-driven test generation and coverage analysis
+- Leveraging AI to empower customer needs analysis and solution design
+
+**Human moat:**
+
+- Complex system architecture and domain modeling skills
+- Cross-departmental collaboration and communication skills
+- Creative problem solving and algorithmic innovation
+- Deep understanding and translation of business logic
+- Ethics, safety, and compliance decision-making
+
+**Skills to build:**
+
+- Proficient in using AI programming assistants such as GitHub Copilot and Cursor
+- Mastering large language model (LLM) fine-tuning and prompt engineering
+- Understanding MLOps and building AI model deployment pipelines
+- Strengthening software architecture design and design patterns
+- Enhance agile development and DevOps practices
+- Learn data engineering and cloud-native technologies
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -63,66 +99,65 @@ Italy's IT sector has high demand for full-stack developers, data analysts, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，要求年薪不低于约28,000欧元，合同至少1年 |
-| Subclass Decreto Flussi（Decreto Flussi Work Visa） | 配额制工作签证，适用于非欧盟公民，每年有名额限制，需雇主担保 |
-| Subclass Self-Employment Visa（Self-Employment Visa） | 适用于自由职业者，需证明高收入潜力及专业资格 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, requiring annual salary no less than approximately €28,000, contract at least 1 year |
+| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Quota-based work visa for non-EU citizens, subject to annual caps and requiring employer sponsorship. |
+| Subclass Self-Employment Visa (Self-Employment Visa) | For freelancers, requires proof of high income potential and professional qualifications |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software and Applications Developers and Analysts Not Elsewhere Classified？**
-- 计算机科学或相关专业毕业生
-- 有2年以上开发经验者
-- 愿意学习意大利语者
-
-**谁不适合学Software and Applications Developers and Analysts Not Elsewhere Classified？**
-- 不喜欢持续学习新技术的人
-- 对意大利语学习持排斥态度的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates in computer science or related fields
+- Candidates with over 2 years of development experience
+- Willing to learn Italian
+
+**Who is not suited**
+- People who dislike constantly learning new technologies
+- People who are resistant to learning Italian
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a software developer in Italy?**
+A: Entry-level around €30,000, mid-level €40,000-55,000, senior €60,000-85,000, higher in large cities like Milan.
+
+**Q: How to apply for an Italian IT work visa for non-EU citizens?**
+A: Available via EU Blue Card (annual salary ≥€28k) or Decreto Flussi quota work visa (employer sponsorship required).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Software and Applications Developers and Analysts Not Elsewhere Classified为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a software developer in Italy?**
-答：Junior around €30,000, mid €40,000-€55,000, senior €60,000-€85,000, higher in Milan.
-
-**问：How can non-EU citizens apply for an IT work visa in Italy?**
-答：Via EU Blue Card (min salary €28k) or Decreto Flussi quota work visa (employer sponsorship).
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

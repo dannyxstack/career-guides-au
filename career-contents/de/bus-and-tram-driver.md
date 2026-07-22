@@ -1,61 +1,97 @@
-# Bus and Tram Driver（Bus and Tram Driver）职业分析 · DE
+# Bus and Tram Driver — career analysis · Germany
 
-**职业代码：5213 – Bus and Tram Driver。**
+**Occupation code: 5213 (KldB)**
 
-Bus and tram drivers operate city buses or trams, safely transporting passengers along scheduled routes and timetables, while also checking tickets and providing customer service.
+Bus and tram drivers operate city buses or trams, safely transport passengers, follow designated routes and schedules, and handle fare inspection and customer service.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（双元制培训期间有工资，通常无学费） |
-| 短期培训（已持驾照者） | 6-12个月 | $2,000~$5,000（包括驾照考试和资格认证费用） |
+| Vocational training (dual system) | 3 years | $0~$0 (Paid during dual training, usually no tuition fees) |
+| Short-term training (for those already holding a driver's license) | 6–12 months | $2,000~$5,000 (Including driver's license test and qualification certification fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公交车驾驶执照（D/DE类） | 德国交通管理局（TÜV/Dekra） | 必备 | 需通过理论和实践考试，体检合格 |
-| 职业司机资格认证（BKrFQG） | 德国联邦货运管理局（BAG） | 必备 | 包括基础资格和定期培训 |
-| 外国驾照转换 | 德国车辆登记处 | 必备 | 非EU驾照需转换，可能需额外考试 |
+| Bus driver license (Class D/DE) | German Transport Authority (TÜV/Dekra) | Required | Must pass theoretical and practical exams, meet medical requirements |
+| Professional Driver Qualification Certificate (BKrFQG) | German Federal Office for Goods Transport (BAG). | Required | Including basic qualifications and regular training |
+| Foreign driver license conversion | German vehicle registration office | Required | Non-EU driver's license must be converted, may require additional tests. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。德国公共交通需求稳定，老龄化导致司机短缺，就业前景良好。预计未来10年需招聘数万名司机，尤其在城市地区。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Stable demand for public transport in Germany; driver shortage due to aging population, good job prospects. Expected to recruit tens of thousands of drivers in the next 10 years, especially in urban areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 根据城市和雇主义务工资标准 |
-| 中级（3-7年） | $35,000~$42,000 | 含绩效奖金和夜班补贴 |
-| 高级（7年以上） | $42,000~$50,000 | 含工龄补贴和特殊任务津贴 |
+| Median salary | $38,748 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Based on city and employer's mandatory wage standards. |
+| Mid-level (3–7 years) | $35,000~$42,000 | Including performance bonuses and night shift allowances |
+| Senior (7+ years) | $42,000~$50,000 | Includes seniority allowances and special task allowances |
+| average salary | $39,744 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 初期担任司机，积累经验后可晋升为车队调度、培训讲师或运营主管。也可转向物流或客运管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Starting as a driver, with opportunities to advance to fleet dispatcher, instructor, or operations supervisor. Can also transition into logistics or passenger transport management roles.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Urbanization
 - Aging workforce
@@ -64,69 +100,68 @@ Bus and tram drivers operate city buses or trams, safely transporting passengers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需完成德国认可的职业培训或持有相关资格认证，有雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许来德国找工作，需满足语言、年龄等条件 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许6个月居留寻找工作，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must complete recognized vocational training in Germany or hold relevant certifications, with employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | A points-based system allowing job-seeking in Germany, subject to language, age and other conditions |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay for job seeking; must prove financial capability |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bus and Tram Driver？**
-- 喜欢驾驶，注重安全的人
-- 能适应轮班工作制的人
-- 善于与人沟通，服务意识强的人
-
-**谁不适合学Bus and Tram Driver？**
-- 厌恶交通拥堵或长时间坐姿工作的人
-- 不喜欢与乘客频繁互动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving and prioritize safety
+- People who can adapt to shift work
+- People with strong communication skills and service orientation
+
+**Who is not suited**
+- People who dislike traffic congestion or long periods of sitting at work
+- People who dislike frequent interaction with passengers
+
+---
+
+## 8. FAQ
+
+**Q: Are there regional salary differences for bus drivers?**
+A: Yes, salaries vary by state and city size; Western regions are usually higher than Eastern, big cities higher than small towns. Night shift and holiday allowances are additional.
+
+**Q: How can foreign drivers obtain work qualifications in Germany?**
+A: Non-EU drivers need to convert their license and obtain BKFQG certification. It is recommended to come to Germany first via a jobseeker visa or work visa, and contact the employer in advance to get sponsorship.
+
+**Q: What are the promotion opportunities for bus drivers?**
+A: Can advance to dispatcher, trainer, or operations manager, or become an intercity bus or long-distance coach driver through additional training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Bus and Tram Driver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Are there regional salary differences for bus drivers?**
-答：Yes, salaries vary by state and city size; western states generally pay more than eastern ones, and large cities pay more than small towns. Night and holiday bonuses are additional.
-
-**问：How can foreign drivers obtain work qualifications in Germany?**
-答：Non-EU drivers need to convert their license and obtain BKrFQG certification. It is recommended to come via the Opportunity Card or job seeker visa and contact employers for sponsorship.
-
-**问：What are the promotion opportunities for bus drivers?**
-答：They can advance to dispatchers, trainers, or operations managers, or become intercity or long-distance bus drivers with additional training.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

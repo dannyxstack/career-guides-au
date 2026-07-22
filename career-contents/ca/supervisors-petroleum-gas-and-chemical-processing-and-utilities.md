@@ -1,60 +1,96 @@
-# Supervisors, petroleum, gas and chemical processing and utilities（Supervisors, petroleum, gas and chemical processing and utilities）职业分析 · 加拿大
+# Supervisors, petroleum, gas and chemical processing and utilities — career analysis · Canada
 
-**职业代码：92011 – Supervisors, petroleum, gas and chemical processing and utilities。**
+**Occupation code: 92011 (NOC)**
 
-Supervise operations in petroleum, gas, chemical processing and utilities, coordinating worker activities to ensure safe and efficient production.
+Oversees operations of oil, gas, chemical, and utility facilities, coordinates worker activities, and ensures production safety and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业加职业培训 | 2年 | $5,000~$15,000（社区学院或职业培训项目） |
-| 大专或本科学位（相关工程或技术领域） | 2-4年 | $15,000~$50,000（大学或理工学院） |
+| High school graduation plus vocational training | 2 years | $5,000~$15,000 (Community college or vocational training programs.) |
+| Associate or bachelor's degree (relevant engineering or technical field) | 2-4 years | $15,000~$50,000 (University or polytechnic) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级安全认证（如OH&S） | 各省劳工部 | 必备 | 强制要求，具体名称因省而异 |
-| 相关技术文凭或学位 | 加拿大高校 | 可选 | 优先考虑 |
-| 操作工程认证（Operating Engineering） | 各省认证机构 | 必备 | 部分岗位强制 |
-| 监管培训（如Supervisory Skills） | 行业协会或培训机构 | 可选 | 加分项 |
+| Provincial safety certification (e.g., OH&S) | Provincial labor departments | Required | Mandatory requirement, specific name varies by province |
+| Operating Engineering certification | Provincial certification bodies | Required | Mandatory for some positions |
+| Relevant technical diploma or degree | Canadian universities | Optional | Preferred |
+| Supervisory training (e.g., Supervisory Skills) | Industry associations or training institutions | Optional | Bonus points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大能源和化工行业持续发展，尤其在阿尔伯塔省和萨斯喀彻温省，预计未来几年职位需求稳定，退休人员增加带来替换需求。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada's energy and chemical industries are growing steadily, especially in Alberta and Saskatchewan. Job demand is expected to remain stable in the coming years, with replacements needed due to retirements.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 取决于地区和公司 |
-| 中级（3-7年） | $75,000~$95,000 | 含加班奖金 |
-| 高级（7年以上） | $95,000~$120,000 | 含管理职责 |
+| Median salary | $89,440 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $60,000~$75,000 | Depends on the region and company |
+| Mid-level (3–7 years) | $75,000~$95,000 | Includes overtime bonuses |
+| Senior (7+ years) | $95,000~$120,000 | Includes management responsibilities |
+| average salary | $95,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从技术员或操作员晋升为主管，可进一步晋升为运营经理或设施经理，需积累管理经验和安全认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI impact on Oil, Gas, Chemical Processing & Utilities Supervisor roles is mixed: some routine monitoring and reporting tasks will be automated, but complex decision-making, emergency response, and people management still require humans. Job prospects depend on upskilling.
+
+Usually promoted from technician or operator to supervisor, and further to operations manager or facility manager, requiring management experience and safety certifications.
+
+**Tasks most exposed to AI:**
+
+- Real-time process parameter monitoring and logging
+- Generate routine production reports and compliance documents.
+- Fixed rule-based anomaly alarm response
+- Inventory statistics and material demand calculation
+- Shift scheduling and attendance management
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of equipment failures, optimizing preventive maintenance plans
+- Optimizing process parameters through digital twins
+- Use data analysis to improve energy efficiency and reduce emissions
+- Assisting production scheduling decisions based on historical data
+- Enhanced training and skills development (VR/AR simulation)
+
+**Human moat:**
+
+- Emergency scene decision-making and command
+- Multi-department (production, safety, environment) coordination and communication
+- Experience-based diagnosis of complex faults.
+- Train and motivate frontline teams
+- Long-term decisions balancing cost, safety, and compliance
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/Power BI)
+- Process control and automation systems (DCS/SCADA)
+- Industrial Internet of Things (IIoT) fundamentals
+- Compliance and risk management (ESG-related)
+- Personnel management and change leadership
+- AI/ML in Predictive Maintenance
+
+**Key growth areas:**
 
 - Energy sector
 - Chemical processing
@@ -63,68 +99,67 @@ Supervise operations in petroleum, gas, chemical processing and utilities, coord
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 适合有相关工作经验和管理技能的申请人，需满足语言和教育要求。 |
-| Subclass PNP（Provincial Nominee Program） | 阿尔伯塔、萨斯喀彻温等省提名项目偏好能源行业主管。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地劳工。 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Suitable for applicants with relevant work experience and management skills, must meet language and education requirements. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in Alberta, Saskatchewan, etc. prefer energy industry supervisors. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa requires proof that no local workers can be hired. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, petroleum, gas and chemical processing and utilities？**
-- 有工业或制造业管理经验者
-- 愿意在偏远地区工作的人
-- 注重安全和效率的人
-
-**谁不适合学Supervisors, petroleum, gas and chemical processing and utilities？**
-- 不适应倒班和体力劳动的人
-- 对化工环境过敏或不适者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- With industrial or manufacturing management experience
+- People willing to work in remote areas.
+- People focused on safety and efficiency
+
+**Who is not suited**
+- People who are not suited to shift work and physical labor
+- Those allergic or unsuitable for chemical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for oil and gas supervisors?**
+A: Entry-level about 60,000-75,000 CAD, mid-level 75,000-95,000, senior 95,000-120,000, plus bonuses and allowances, high income in the energy sector.
+
+**Q: How to become an oil and gas supervisor in Canada through skilled migration?**
+A: Typically through Provincial Nominee Programs (e.g., Alberta AOS) or Federal Express Entry (FSW), requiring relevant work experience, language proficiency (CLB 7+), and post-secondary education.
+
+**Q: What is the career development path?**
+A: Career progression typically from operator or technician to supervisor, then to operations manager or facility manager, or can pivot to safety or training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, petroleum, gas and chemical processing and utilities的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for petroleum and gas supervisors?**
-答：Entry-level: CAD 60,000-75,000; mid-level: CAD 75,000-95,000; senior: CAD 95,000-120,000, plus bonuses and allowances, high income in energy sector.
-
-**问：How to immigrate as a petroleum and gas supervisor?**
-答：Typically through PNP (e.g., Alberta AOS) or Express Entry (FSW), requiring relevant experience, language test (CLB 7+), and post-secondary education.
-
-**问：What is the career progression?**
-答：Start as operator/technician, advance to supervisor, then operations or plant manager, or move to safety/training roles.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Authors and Related Writers（Authors and Related Writers）职业分析 · IE
+# Authors and Related Writers — career analysis · Ireland
 
-**职业代码：2641 – Authors and Related Writers。**
+**Occupation code: 2641 (ISCO08)**
 
-Authors and related writers create original written content, including books, articles, technical manuals, and scripts for various media and organizations.
+Writers and related writers engage in creative writing, editing, technical writing, etc., serving publishing, media, corporate, and government agencies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $15,000~$25,000（爱尔兰公立大学本科年学费） |
-| 硕士 | 1-2年（硕士） | $12,000~$20,000（爱尔兰硕士年学费） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $15,000~$25,000 (Annual undergraduate tuition at Irish public universities) |
+| Master's degree | 1-2 years (Master's) | $12,000~$20,000 (Annual tuition fee for Irish master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英语文学或创意写作学位 | 爱尔兰大学 | 可选 | 常见但非强制 |
-| 专业写作证书 | 爱尔兰出版协会 | 可选 | 可提升竞争力 |
-| 编辑或出版专业资格 | 爱尔兰编辑协会 | 可选 | 对编辑岗位有帮助 |
+| English literature or creative writing degree | Irish universities | Optional | Common but not mandatory |
+| Professional Writing Certificate | Publishing Association of Ireland | Optional | Can enhance competitiveness |
+| Editorial or Publishing Professional Qualifications | Irish Editors' Association | Optional | Helpful for editorial positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。爱尔兰出版和媒体行业稳定增长，数字内容需求上升，但竞争激烈。兼职和自由职业者比例高，全职机会有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. Ireland's publishing and media industry is growing steadily, with rising demand for digital content but intense competition. The proportion of part-time and freelance workers is high, and full-time opportunities are limited.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 自由职业者收入可能更低 |
-| 中级（3-7年） | $35,000~$50,000 | 全职编辑或资深撰稿人 |
-| 高级（7年以上） | $50,000~$70,000 | 出版总监或知名作家 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Freelancers may have lower income |
+| Mid-level (3–7 years) | $35,000~$50,000 | Full-time editor or senior writer |
+| Senior (7+ years) | $50,000~$70,000 | Publishing director or well-known author |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业晋升路径：初级撰稿人 → 资深编辑或内容经理 → 出版总监或自由职业作家。部分作家转向教学或创意产业管理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI's impact on writers and authors is mixed: automation can generate basic content and assist editing, compressing entry-level jobs; but creative writing, deep narrative, and unique style still require humans, and AI tools can enhance research and drafting efficiency.
+
+Career progression path: Junior copywriter → Senior editor or content manager → Publishing director or freelance writer. Some writers transition into teaching or creative industry management.
+
+**Tasks most exposed to AI:**
+
+- Generate standardized news reports or product descriptions based on keywords
+- Automated social media posts, ad copy, and email drafts
+- Basic proofreading, grammar checking, and style consistency adjustments
+- Generate templated scripts or story outlines
+- Drafting initial versions of data reports and simple technical documents
+
+**Where AI augments the role:**
+
+- Use AI to generate creative inspiration and story outlines, broaden thinking.
+- Using AI for background research, fact-checking, and data integration
+- Multiple rounds of iterative revision and polishing with AI assistance
+- AI translation tools help writers reach international readers and quickly translate drafts
+- Using AI to analyse reader feedback and optimise content strategy
+
+**Human moat:**
+
+- Original storytelling, emotional depth, and character development
+- Cultural context understanding and nuanced language expression
+- Critical thinking and argumentation on complex topics
+- Collaboration and negotiation with editors, publishers, and other stakeholders
+- Personal brand building and audience relationship management
+
+**Skills to build:**
+
+- Proficient in using ChatGPT, Claude and other LLMs for writing assistance
+- Mastering AI Prompt Engineering
+- Learning management platforms (e.g., WordPress) integrated with AI plugins
+- Data analysis fundamentals, using tools (e.g., Google Analytics) to optimize content
+- Multimedia narrative skills (video scripts, podcasts, etc.)
+- Copyright and ethics knowledge to ensure AI output compliance
+
+**Key growth areas:**
 
 - Digital content
 - Freelance economy
@@ -62,68 +98,67 @@ Authors and related writers create original written content, including books, ar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高级专业人员，需大学学历及至少1.5倍平均工资（约4.5万欧元） |
-| Subclass General Employment P（General Employment Permit） | 适用于雇主担保，薪资需超过3万欧元，劳动力市场测试可能豁免 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，但作家通常不在列表，需高薪或特殊技能 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to senior professionals, requiring a university degree and at least 1.5 times the average salary (approx. €45,000) |
+| Subclass General Employment P (General Employment Permit) | Applicable for employer sponsorship; salary must exceed €30,000; labour market test may be waived |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to occupations in demand, but writers are usually not on the list, requiring high salary or special skills |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Authors and Related Writers？**
-- 擅长独立工作和自我激励的人
-- 有创意和文字天赋的人
-- 适应自由职业和不稳定收入的人
-
-**谁不适合学Authors and Related Writers？**
-- 偏好稳定收入和固定工作时间的人
-- 不擅长自我推销和网络化的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for individuals who are independent and self-motivated.
+- People with creativity and writing talent
+- Suitable for those who adapt to freelancing and unstable income.
+
+**Who is not suited**
+- Those who prefer stable income and fixed working hours
+- People who are not good at self-promotion and networking
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income for writers in Ireland?**
+A: The average annual salary for full-time writers is about 35,000-50,000 euros, but freelancers may have lower and more volatile incomes. Salaries in publishing are typically lower than in the tech industry.
+
+**Q: Which visas can writers use to immigrate to Ireland?**
+A: If earning a higher salary (e.g. over €45,000), can apply for an EU Blue Card; or through a general employment permit (requires employer sponsorship, salary over €30,000). However, this occupation is not on the critical skills list and labour market shortage must be demonstrated.
+
+**Q: What are the career development paths for writers?**
+A: Can progress from junior copywriter to editor, content manager, or publishing director. Many writers switch to freelancing or enter fields like teaching and corporate communications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Authors and Related Writers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for writers in Ireland?**
-答：Full-time writers earn an average of €35,000-€50,000 annually, but freelancers may earn less with high variability; publishing salaries are generally lower than tech sectors.
-
-**问：Which visas can writers use to immigrate to Ireland?**
-答：For salaries above €45,000, the EU Blue Card is possible; otherwise, a General Employment Permit requires employer sponsorship and salary above €30,000. The occupation is not on the Critical Skills list.
-
-**问：What are the career paths for writers?**
-答：Writers can advance from junior roles to editors, content managers, or publishing directors. Many move to freelancing, teaching, or corporate communications.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

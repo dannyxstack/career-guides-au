@@ -1,58 +1,94 @@
-# Education Managers（Education Managers）职业分析 · IE
+# Education Managers — career analysis · Ireland
 
-**职业代码：1345 – Education Managers。**
+**Occupation code: 1345 (ISCO08)**
 
-Education managers plan, organize, and manage the operations of educational institutions or programs, including schools, colleges, universities, and training centers.
+Education managers plan, organize, and manage the daily operations of educational institutions or programs, including schools, colleges, universities, and training centers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $12,000~$25,000（爱尔兰本科年均学费，欧盟学生较低，非欧盟较高） |
-| 硕士 | 1-2年（硕士） | $15,000~$30,000（教育管理或相关领域硕士课程） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $12,000~$25,000 (Average annual undergraduate tuition in Ireland: lower for EU students, higher for non-EU) |
+| Master's degree | 1-2 years (Master's) | $15,000~$30,000 (Master's program in education management or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育管理硕士学位 | 爱尔兰大学 | 可选 | 常见要求，尤其高级职位 |
-| 教师资格证 | Teaching Council of Ireland | 必备 | 管理学校通常要求有教学背景 |
+| Teaching license/certificate | Teaching Council of Ireland | Required | Management schools typically require a teaching background. |
+| Master's degree in education management | Irish universities | Optional | Common requirements, especially for senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,700。爱尔兰教育领域稳定，受人口增长和国际学生流入驱动，预计管理岗位需求保持稳健，尤其在早期教育和高等教育领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,700. Ireland's education sector is stable, driven by population growth and international student inflows. Demand for management roles is expected to remain robust, especially in early childhood and higher education.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 助理校长或部门主管 |
-| 中级（3-7年） | $55,000~$80,000 | 学校校长或副院长 |
-| 高级（7年以上） | $80,000~$120,000 | 大型机构负责人或区域总监 |
+| Median salary | $67,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Deputy principal or department head |
+| Mid-level (3–7 years) | $55,000~$80,000 | School principal or deputy principal |
+| Senior (7+ years) | $80,000~$120,000 | Head of large organisations or regional director |
+| average salary | $71,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从部门主管或校长助理起步，可晋升为学校校长、区域教育总监或高等教育机构的高级管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
+
+Starting as a department head or principal's assistant, you can progress to school principal, regional education director, or senior management in higher education institutions.
+
+**Tasks most exposed to AI:**
+
+- Develops standardized courseware and teaching materials
+- Marking objective homework and exam papers
+- Answer common course questions (FAQ)
+- Track student learning progress and generate reports.
+- Basic skill demonstrations (e.g., software operation steps)
+
+**Where AI augments the role:**
+
+- Use AI to analyze student data and customize personalized learning paths.
+- Using AI to simulate complex industry scenarios to enhance practical teaching quality.
+- Using NLP tools to provide real-time translation of multilingual teaching content.
+- Use AI assessment tools to quickly diagnose trainees' skill gaps
+- Automatically generate industry case studies to keep courses relevant
+
+**Human moat:**
+
+- Industry hands-on experience and on-site teaching demonstration
+- High emotional intelligence interpersonal communication and student psychological support
+- Handle classroom emergencies and flexibly adjust teaching pace
+- Enterprise Customized Training Needs Analysis and Solution Design
+- Professional ethics and compliance judgment (e.g., certificate verification).
+
+**Skills to build:**
+
+- Learning Design and AI course tools (e.g., Articulate 360+AI plugins)
+- Data analysis basics (Python/R, for evaluating training effectiveness).
+- Soft skills enhancement: coaching, facilitating discussions, cross-cultural communication
+- Master mainstream AI teaching platforms (e.g., Canvas with AI, Squirrel AI).
+- Application of industry digital tools (e.g., VR/AR simulation teaching)
+- Project management (full process management of training programs)
+
+**Key growth areas:**
 
 - Education management
 - Early childhood education
@@ -61,64 +97,63 @@ Education managers plan, organize, and manage the operations of educational inst
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过32,000欧元的管理职位，紧缺职业可获快速永居 |
-| Subclass General Employment P（General Employment Permit） | 年薪需达30,000欧元以上，需劳动力市场测试 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to management positions with an annual salary exceeding EUR 32,000; shortage occupations can qualify for fast-track permanent residence |
+| Subclass General Employment P (General Employment Permit) | Annual salary must be over 30,000 euros, subject to labor market test |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education Managers？**
-- 有教育背景和经验的人
-- 擅长组织和领导的人
-- 对教育政策有热情的人
-
-**谁不适合学Education Managers？**
-- 不愿处理行政事务的人
-- 不喜欢与人沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with educational background and experience
+- People skilled in organizing and leading
+- Passionate about education policy
+
+**Who is not suited**
+- People who dislike administrative tasks
+- People who dislike communicating with others.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for education managers?**
+A: Junior approx. €40,000-55,000, intermediate €55,000-80,000, senior up to €120,000.
+
+**Q: How can education managers immigrate to Ireland?**
+A: Can be applied through the Critical Skills Employment Permit or General Employment Permit, requiring employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Education Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for education managers?**
-答：Entry-level around €40,000-55,000, mid-level €55,000-80,000, senior up to €120,000.
-
-**问：How can education managers migrate to Ireland?**
-答：Through the Critical Skills Employment Permit or General Employment Permit, requiring employer sponsorship.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

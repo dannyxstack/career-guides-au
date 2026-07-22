@@ -1,58 +1,94 @@
-# ICT Sales Professional（ICT Sales Professional）职业分析 · ES
+# ICT Sales Professional — career analysis · Spain
 
-**职业代码：2653 – ICT Sales Professional。**
+**Occupation code: 2653 (CNO)**
 
-Sells IT solutions, software, cloud services, and telecom products to businesses and public institutions, combining technical knowledge with commercial negotiation skills to achieve sales targets.
+Responsible for selling IT solutions, software, cloud services, and telecom products to enterprises and public institutions, combining technical knowledge with business negotiation skills to achieve sales targets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学学费范围，私立大学更高） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$1,500（公立FP中心费用） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Public universities have higher tuition fees, while private universities offer higher fees) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$1,500 (Public FP Center fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（商业、工程或IT相关） | 西班牙大学 | 可选 | 常见要求，但并非强制，经验可替代 |
-| 销售认证（如ITIL、CSPO） | 专业机构 | 可选 | 提升竞争力 |
+| University degree (business, engineering, or IT-related) | Spanish University | Optional | Common requirements, but not mandatory; experience can be replaced |
+| Sales certifications (such as ITIL, CSPO) | Professional body | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。西班牙数字化转型加速，企业对IT解决方案需求旺盛，ICT销售人才持续紧缺。数字经济与人工智能领域的投资推动岗位增长，尤其在马德里、巴塞罗那等科技中心。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Spain's digital transformation is accelerating, and companies are in high demand for IT solutions, resulting in a persistent shortage of ICT sales talent. Investments in the digital economy and artificial intelligence are driving job growth, especially in tech hubs like Madrid and Barcelona.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 税前年薪，含佣金提成 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪，业绩奖金可观 |
-| 高级（7年以上） | $65,000~$100,000 | 税前年薪，含高额佣金 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$45,000 | Pre-tax annual salary, including commission and commission |
+| Mid-level (3–7 years) | $45,000~$65,000 | Pre-tax annual salary and impressive performance bonuses |
+| Senior (7+ years) | $65,000~$100,000 | Pre-tax annual salary, including high commissions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：优秀（★★★★½）。** 从初级销售代表可晋升为高级客户经理、区域销售经理，再到销售总监或ICT业务发展经理。积累行业资源后也可转向售前咨询或产品管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Starting from junior sales representatives, you can be promoted to Senior Account Manager, Regional Sales Manager, then Sales Director, or ICT Business Development Manager. After accumulating industry resources, you can also shift to pre-sales consulting or product management.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -61,68 +97,67 @@ Sells IT solutions, software, cloud services, and telecom products to businesses
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高学历（本科以上）且薪资达到门槛的ICT销售专业人士，提供快速居留通道。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高技能专业人士，要求大学学历或3年以上经验，无劳动力市场测试。 |
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 由西班牙公司担保的普通工作居留，需证明职位难以在欧盟招聘。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for ICT sales professionals with high education (bachelor's degree or above) whose salary meets the threshold, offering a fast-track residency pathway. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled professionals, university degree or more than 3 years of experience required, no labor market test required. |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Ordinary work residency guaranteed by a Spanish company requires proof that the position is difficult to recruit in the EU. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Sales Professional？**
-- 善于沟通、有说服力且热爱技术的人
-- 具有商业头脑和销售热情，乐于挑战业绩目标
-- 愿意持续学习新技术和行业趋势的人
-
-**谁不适合学ICT Sales Professional？**
-- 不擅长与人打交道或不愿承担业绩压力的人
-- 缺乏技术好奇心、只愿做重复性工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who is good at communication, persuasive, and passionate about technology
+- Possess business acumen and a passion for sales, and are eager to challenge performance targets
+- People willing to continuously learn new technologies and industry trends
+
+**Who is not suited**
+- People who are not good at dealing with people or are unwilling to bear performance pressure
+- People who lack technical curiosity and only want to do repetitive tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for ICT sales staff?**
+A: Base salary + commission is a common model; for intermediate and above positions, commission can account for 30%-50%. Senior account managers can earn over EUR 100,000 annually.
+
+**Q: Which visas are suitable for ICT sales professionals immigrating to Spain?**
+A: Both the EU Blue Card and the Highly Skilled Professional Visa (Ley 14/2013) are eligible, requiring a bachelor's degree or more than 3 years of experience. Ordinary work residence is also common, but requires employer sponsorship.
+
+**Q: What are the career development paths for ICT sales?**
+A: You can be promoted from sales representative to account manager, regional manager, sales director, or transition to pre-sales consultant, product manager, or business development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 优秀（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-ICT Sales Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for ICT sales professionals?**
-答：Base salary plus commission is common; for mid-level roles, commission can account for 30%-50%. Senior account managers can earn over €100,000 annually.
-
-**问：Which visas are suitable for ICT sales professionals to migrate to Spain?**
-答：EU Blue Card and Highly Skilled Professional visa (Ley 14/2013) are applicable, requiring a bachelor's degree or 3+ years of experience. Employer-sponsored work permits are also common.
-
-**问：What are the career development paths for ICT sales?**
-答：Progression from sales representative to account manager, regional manager, sales director, or transition to pre-sales consultant, product manager, or business development.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

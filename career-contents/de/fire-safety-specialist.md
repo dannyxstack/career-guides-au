@@ -1,61 +1,97 @@
-# Fire Safety Specialist（Fire Safety Specialist）职业分析 · DE
+# Fire Safety Specialist — career analysis · Germany
 
-**职业代码：5313 – Fire Safety Specialist。**
+**Occupation code: 5313 (KldB)**
 
-Responsible for fire safety supervision, fire prevention, and firefighting command, including firefighter training, equipment maintenance, and fire investigation.
+Responsible for fire safety supervision, fire prevention, and firefighting command, including firefighter training, fire equipment maintenance, and fire investigation
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 消防员职业培训 | 2年（双元制） | —（公立消防学校免费，部分州收取少量费用） |
-| 消防管理学士 | 3-4年 | —（公立大学通常免费，仅收学期注册费） |
+| Firefighter vocational training | 2 years (dual system) | $0~$500 (Public firefighting schools are free, with some states charging a small fee) |
+| Bachelor of Fire Management | 3-4 years | $0~$1,500 (Public universities are usually free, only charging a semester registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 消防员资格认证 | 各州消防学校 | 必备 | 完成双元制培训或职业培训后获得 |
-| 消防工程师认证 | 德国消防工程协会 | 可选 | 需工程学位并通过考试 |
-| 资质认证（移民） | 德国认证机构 | 必备 | 外国学历需经认证，可能需补修课程 |
+| Firefighter certification | State fire schools | Required | Obtained after completing dual-system training or vocational training |
+| Qualification Assessment (Migration) | German certification body | Required | Foreign qualifications need to be accredited, possibly requiring supplementary courses |
+| Fire engineer certification | German Fire Engineering Association | Optional | Requires an engineering degree and passing exams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 120,000。德国消防领域因人口老龄化和基础设施更新需求，就业稳定。公立消防部门常招聘，且自然灾害增多进一步推动需求。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Employment in the German fire service is stable due to population aging and infrastructure renewal. Public fire departments often recruit, and increasing natural disasters further drive demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，公立部门按TVöD 6级 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年薪，可升至TVöD 8级 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年薪，管理岗位或技术专家 |
+| Median salary | $47,376 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary, based on TVöD pay grade 6 in the public sector |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual gross salary, can rise to TVöD Level 8 |
+| Senior (7+ years) | $48,000~$60,000 | Pre-tax annual salary for management or technical expert roles |
+| average salary | $51,552 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从普通消防员可晋升为组长、消防队长，或通过进修成为消防专家、消防工程师，进入消防管理或技术部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on firefighting specialists is mixed: automation can handle documentation, monitoring, and training simulations, but on-site command and investigation decisions still require human judgment. Thus, entry-level positions face pressure, but demand for senior specialists remains stable.
+
+From firefighter, can progress to team leader, fire captain, or through further study become a fire specialist or fire engineer, entering fire management or technical departments.
+
+**Tasks most exposed to AI:**
+
+- Automation of daily fire equipment inspection records and maintenance scheduling
+- Fire monitoring system data analysis and early warning.
+- Online fire safety training material generation and assessment
+- Draft initial fire incident reports
+- Automatic assessment of basic fire inspection checklists
+
+**Where AI augments the role:**
+
+- Real-time analysis of fire scene data to assist command decisions
+- AI simulates fire scenarios to optimize emergency plans.
+- Enhancing fire reconnaissance with drone thermal imaging and AI image analysis
+- Automatically generate fire investigation clue association diagrams
+- Predicting high-risk fire zones based on big data
+
+**Human moat:**
+
+- Instant decision-making in on-site fire assessment and life rescue
+- Human intuition and witness interviews in fire cause determination
+- Formulate regulations and assume legal responsibilities
+- Team leadership and cross-departmental coordination in high-pressure environments
+- Ethical judgment and maintenance of public trust
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python, R) applied to fire pattern recognition
+- Drone operation and image processing techniques
+- Virtual reality (VR) simulation training system development
+- Fire protection system IoT (Internet of Things) device management
+- Data-driven risk assessment model construction
+- Human-machine collaborative decision-making and emergency communication skills
+
+**Key growth areas:**
 
 - fire prevention
 - emergency response
@@ -64,66 +100,65 @@ Responsible for fire safety supervision, fire prevention, and firefighting comma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于有大学学历且工资达门槛的消防工程师，年薪需约43,800欧元（2023年） |
-| Subclass Skilled Worker（Skilled Immigration Act Visa） | 适用于有职业培训资质的消防员，需获得德国认证和雇主offer |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作的签证，适合有资质但无工作offer者 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to fire engineers with a university degree and salary meeting the threshold; annual salary approx. €43,800 (2023) |
+| Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable to firefighters with vocational training qualifications, requiring German certification and an employer offer. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based visa to come to Germany for job seeking, suitable for qualified individuals without a job offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fire Safety Specialist？**
-- 体魄强健、心理素质好
-- 喜欢团队协作和应急工作
-- 对公共安全有使命感
-
-**谁不适合学Fire Safety Specialist？**
-- 恐高或幽闭恐惧
-- 无法承受倒班和高压工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit and mentally resilient
+- Enjoys teamwork and emergency work
+- Sense of mission for public safety
+
+**Who is not suited**
+- Fear of heights or claustrophobia
+- Cannot handle shift work and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: How much do firefighters earn in Germany?**
+A: Junior firefighter pre-tax annual salary approx. €30,000-38,000, mid to senior level can reach €48,000-60,000, regulated under TVöD standards.
+
+**Q: How can foreign firefighters immigrate to Germany?**
+A: Main pathway: obtain German-recognised fire protection qualification, find an employer, then apply for a skilled migration visa or EU Blue Card (requires degree).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fire Safety Specialist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a firefighter in Germany?**
-答：Junior firefighters earn around 30,000-38,000 EUR gross annually, mid-level up to 48,000, and senior up to 60,000, regulated by TVöD.
-
-**问：How can a foreign firefighter immigrate to Germany?**
-答：Main paths: obtain recognized firefighting qualification, find employer, then apply for Skilled Worker visa or EU Blue Card (requires degree).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Survey Researchers（Survey Researchers）职业分析 · 美国
+# Survey Researchers — career analysis · United States
 
-**职业代码：19-3022 – Survey Researchers。**
+**Occupation code: 19-3022 (SOC)**
 
-Survey researchers plan, develop, or conduct surveys, analyzing and interpreting data for market, social science, or government research. They determine objectives, test question wording, and support decision-making.
+Survey researchers design, conduct, and analyze surveys, commonly used in market, social science, or government research. They define survey goals, test question wording, and interpret results to support decision-making.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士 | 4年 | $40,000~$150,000（公立大学约4万，私立约15万，含学费生活费） |
-| 硕士 | 2年 | $30,000~$100,000（社会科学或统计学硕士，费用因校而异） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities: approx. $40,000; private: approx. $150,000, including tuition and living expenses) |
+| Master's degree | 2 years | $30,000~$100,000 (Master's in social sciences or statistics, cost varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 调查方法论证书 | 大学或研究机构 | 可选 | 证明调查设计能力，非强制性 |
-| 统计软件认证 | SAS或SPSS | 可选 | 如SAS认证，可提升竞争力 |
+| Survey methodology certificate | University or research institution | Optional | Demonstrating survey design skills, not mandatory |
+| Statistical software certification. | SAS or SPSS | Optional | Certifications like SAS can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 14,500。美国劳工统计局预计2022-2032年就业增长约5%，低于平均水平。随着数据收集方法数字化，对熟练调查设计人员的需求稳定，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 14,500. The U.S. Bureau of Labor Statistics projects about 5% employment growth from 2022-2032, below average. As data collection methods digitize, demand for skilled survey designers is stable but competitive.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 入门级薪资，取决于雇主和地点 |
-| 中级（3-7年） | $60,000~$85,000 | 有经验者薪资中位数约7万美元 |
-| 高级（7年以上） | $85,000~$120,000 | 高级分析师或经理薪资可达12万 |
+| Median salary | $69,460 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Entry-level salary, depending on employer and location |
+| Mid-level (3–7 years) | $60,000~$85,000 | Median salary for experienced workers around USD 70,000 |
+| Senior (7+ years) | $85,000~$120,000 | Senior analyst or manager salary up to $120,000 |
+| average salary | $79,580 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 初级研究员可晋升为高级分析师或项目经理，需掌握统计软件和问卷设计技能。拥有硕士或博士学位者可从事学术或政府高级研究岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI brings mixed results for research staff: data collection and analysis are automated, but research design, ethical judgment, and client communication still rely on humans; jobs will not disappear but will be transformed.
+
+Junior researchers can advance to senior analyst or project manager; need to master statistical software and survey design skills. Those with a master's or doctorate can pursue academic or senior government research roles.
+
+**Tasks most exposed to AI:**
+
+- Data collection and basic statistical analysis (e.g., routine analysis using SPSS/R)
+- Simple coding and logic checking of questionnaires.
+- Data cleaning and preprocessing.
+- Generate standard statistical reports and charts
+
+**Where AI augments the role:**
+
+- Use AI to design more accurate survey questionnaires (e.g., recommend optimal question wording)
+- Use natural language processing to analyze qualitative data from open-ended questions.
+- Automatically identifies abnormal patterns and trends in data
+- Using AI to simulate survey results to reduce trial and error costs
+- Use machine learning models to predict survey response rates and optimize sampling.
+
+**Human moat:**
+
+- Research design and problem formulation skills
+- Domain knowledge and contextual understanding
+- Ethical judgment and data privacy protection
+- Communicating and explaining complex findings to stakeholders
+- Innovative method development and critical thinking
+
+**Skills to build:**
+
+- Proficient in Python and R for automated data analysis.
+- Learn machine learning basics (e.g., classification, clustering)
+- Proficient in AI-enhanced tools like SurveyMonkey, Qualtrics
+- Data visualization skills (e.g., Tableau, Power BI)
+- Qualitative research methods and mixed methods design
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Digital Data Collection
 - Statistical Analysis
@@ -61,64 +96,63 @@ Survey researchers plan, develop, or conduct surveys, analyzing and interpreting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位以上，雇主担保，每年配额有限，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于硕士或学士+5年经验，需PERM劳工证，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or higher, employer sponsorship, limited annual quota, and a lottery system. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable for master's or bachelor's +5 years experience, requires PERM labor certification, long wait times |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Survey Researchers？**
-- 擅长数据分析和沟通的研究型人才
-- 对社会科学和市场研究感兴趣者
-- 具备统计和问卷设计技能的人
-
-**谁不适合学Survey Researchers？**
-- 不喜欢与数字打交道的人
-- 期望高薪资增长快节奏的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research-oriented talent skilled in data analysis and communication
+- Those interested in social science and market research
+- People with statistical and survey design skills
+
+**Who is not suited**
+- People who dislike working with numbers.
+- Those expecting high salary growth and fast pace
+
+---
+
+## 8. FAQ
+
+**Q: How do salaries for research personnel compare?**
+A: Entry-level ~45-60k, mid-level 60-85k, senior 85-120k, median ~70k. Varies by region and industry.
+
+**Q: How can a research investigator immigrate to the United States?**
+A: Commonly via H-1B work visa (requires bachelor's degree or higher, lottery) or EB-2 green card (master's degree or higher + PERM). Requires employer sponsorship, with a wait of about 2-3 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Survey Researchers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for survey researchers?**
-答：Entry-level: $45k-$60k; Mid-level: $60k-$85k; Senior: $85k-$120k; median around $70k. Varies by location and industry.
-
-**问：How can survey researchers immigrate to the US?**
-答：Common paths: H-1B visa (bachelor's required, lottery) or EB-2 green card (master's + PERM). Employer sponsorship needed; backlog 2-3 years.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

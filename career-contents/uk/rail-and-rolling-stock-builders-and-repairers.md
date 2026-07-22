@@ -1,60 +1,96 @@
-# Rail and rolling stock builders and repairers（Rail and rolling stock builders and repairers）职业分析 · UK
+# Rail and rolling stock builders and repairers — career analysis · United Kingdom
 
-**职业代码：5236 – Rail and rolling stock builders and repairers。**
+**Occupation code: 5236 (SOC)**
 
-Erect, fit, assemble and repair rolling stock parts and sub-assemblies, and test and adjust new engines for trains.
+Responsible for the construction, assembly, repair, and commissioning of railway vehicles (such as train carriages and locomotives), ensuring safe train operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高级学徒制 | 4年 | —（雇主资助，无学费） |
-| BTEC/HNC机械工程 | 2年 | $6,000~$9,000（全日制，年学费） |
-| 轨道交通工程学位 | 3年 | $9,000~$12,000（全日制，年学费） |
+| Advanced apprenticeship | 4 years | $0~$0 (Employer-sponsored, no tuition fees) |
+| BTEC/HNC Mechanical Engineering | 2 years | $6,000~$9,000 (Full-time, annual tuition fee) |
+| Degree in Rail Transportation Engineering | 3 years | $9,000~$12,000 (Full-time, annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| City & Guilds 铁路工程证书 | City & Guilds | 可选 | 广泛认可；包含焊接、装配等技能 |
-| NVQ 轨道交通工程 | EAL | 可选 | 在职培训常用；分3-4级 |
-| 铁路安全执照 (PTS) | Network Rail | 必备 | 必须持有才能在铁路线附近工作 |
+| Railway safety license (PTS) | Network Rail | Required | Must hold to work near railway lines |
+| City & Guilds Railway Engineering Certificate | City & Guilds | Optional | Widely recognized; includes skills such as welding, assembly |
+| NVQ Rail Engineering | EAL | Optional | Commonly used in on-the-job training; divided into 3-4 levels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 18,000。英国铁路网络持续升级，HS2等大型项目推动需求；但自动化技术可能影响部分岗位，整体稳定。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 18,000. The UK rail network continues to upgrade, driven by large projects like HS2; but automation may affect some roles, overall stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 包含学徒完成后初入职 |
-| 中级（3-7年） | $30,000~$38,000 | 有经验技术员 |
-| 高级（7年以上） | $40,000~$50,000 | 高级技术员或主管 |
+| Median salary | $64,322 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry-level positions after apprenticeship |
+| Mid-level (3–7 years) | $30,000~$38,000 | Experienced technician |
+| Senior (7+ years) | $40,000~$50,000 | Senior technician or supervisor |
+| average salary | $65,069 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从学徒晋升为高级技术员或团队主管，部分人转向铁路工程管理或质量控制岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Rail vehicle construction and repair workers face mixed prospects: AI/automation will take over documentation, inspection, and some assembly, but on-site repairs, safety checks, and complex troubleshooting rely on human experience and are hard to replace in the short term.
+
+Can progress from apprentice to senior technician or team leader; some transition to railway engineering management or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Automated detection systems replace manual visual inspection for weld and component defects
+- Assembly robots replace repetitive tasks of fastening bolts and wiring
+- AI-assisted diagnostic system automatically generates repair reports and records
+- Inventory management system automatically manages spare parts ordering and tracking
+- Virtual simulation tools replace some debugging and testing steps
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic system quickly identifies fault causes, improving repair efficiency
+- Augmented reality (AR) helmets provide real-time assembly guidance, reducing errors
+- Digital twin simulates train operations to optimize maintenance plans.
+- Automated tools assist in adjustment and testing of precision components
+- Remote expert system enables AR-based remote collaboration guidance
+
+**Human moat:**
+
+- On-site safety judgment and emergency response capability
+- Creative repair and modification skills for non-standard faults
+- Familiarity with processes and manual skills for older railway vehicles
+- Experience in complex debugging in collaboration with senior engineers
+- Strict compliance with safety regulations and operating standards
+
+**Skills to build:**
+
+- Learn to use AR-assisted maintenance devices.
+- Proficient in using digital maintenance record systems
+- Basic Python or scripting for diagnostic tool customization
+- Master the basics of welding robot programming
+- Study principles of railway vehicle electrical systems (upgrade to electrician skills)
+- Obtain advanced welding or electrical certification
+
+**Key growth areas:**
 
 - Rail infrastructure
 - HS2
@@ -63,65 +99,64 @@ Erect, fit, assemble and repair rolling stock parts and sub-assemblies, and test
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保；满足薪资门槛（£26,200/年或职业特定薪资） |
-| Subclass Graduate（Graduate Visa） | 毕业生可留英工作2年（博士3年），但需找到雇主转为工签 |
-| Subclass Health & Care（Health and Care Worker Visa） | 不适用；此职业不属于医疗健康领域 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship; meets salary threshold (£26,200/year or occupation-specific salary). |
+| Subclass Graduate (Graduate Visa) | Graduates can stay and work in the UK for 2 years (PhD 3 years), but need to find an employer to switch to a work visa |
+| Subclass Health & Care (Health and Care Worker Visa) | Not applicable; this occupation does not belong to the healthcare field. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Rail and rolling stock builders and repairers？**
-- 对机械和动手操作有兴趣
-- 喜欢户外和现场工作
-- 愿意接受在职培训和学徒制
-
-**谁不适合学Rail and rolling stock builders and repairers？**
-- 不擅长体力劳动
-- 对安全工作要求排斥
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Interest in mechanics and hands-on work
+- Enjoy outdoor and on-site work
+- Willing to accept on-the-job training and apprenticeships
+
+**Who is not suited**
+- Not good at physical labor
+- Rejection of safety requirements
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for railway vehicle builders and repairers?**
+A: Junior: approx £22,000-28,000/year; senior technician: up to £40,000-50,000. Railway industry often offers overtime and allowances.
+
+**Q: Can this occupation immigrate to the UK via a skilled worker visa?**
+A: Yes, the occupation is on the eligible occupation list, but not on the shortage list; must meet the salary threshold (£26,200/year).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Rail and rolling stock builders and repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for rail and rolling stock builders and repairers?**
-答：Entry-level salary is around £22,000–£28,000, and senior technicians can earn £40,000–£50,000. Overtime and allowances are common.
-
-**问：Can this occupation qualify for a Skilled Worker visa to the UK?**
-答：Yes, it is on the eligible occupations list but not on the shortage list. The salary threshold is £26,200 per year.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

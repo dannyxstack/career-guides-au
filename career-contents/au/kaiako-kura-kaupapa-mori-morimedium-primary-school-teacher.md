@@ -1,60 +1,96 @@
-# Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)（Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)）职业分析 · 澳大利亚
+# Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher) — career analysis · Australia
 
-**职业代码：241211 – Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)。**
+**Occupation code: 241211 (ANZSCO)**
 
-Teach primary school curriculum in Māori-medium settings, integrating Māori culture and language to foster bilingual students.
+Teaching in a Māori language primary school, integrating Māori culture and traditions to develop students' bilingual skills.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$40,000（包括教学实践） |
-| 研究生文凭 | 1年 | $15,000~$30,000（针对已持有本科学位者） |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Includes teaching practice) |
+| Graduate diploma | 1 year | $15,000~$30,000 (For those who already hold a bachelor's degree.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册教师资格证 | 教学委员会 | 必备 | 必须在澳洲或新西兰注册 |
-| 毛利语言能力证明 | 相关机构 | 必备 | 需达到流利水平 |
+| Registered teaching certificate | Teaching committee | Required | Must be registered in Australia or New Zealand |
+| Evidence of Māori language proficiency | Relevant institutions. | Required | Must be fluent |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 —。随着新西兰对毛利语言复兴的重视，该职业需求稳定，但澳洲移民前景有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. —. With New Zealand's emphasis on Māori language revival, demand for this occupation is stable, but immigration prospects in Australia are limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 公立学校系统 |
-| 中级（4-7年） | $75,000~$90,000 | 含额外职责补贴 |
-| 高级（8年以上） | $90,000~$110,000 | 领导岗位或特殊项目 |
+| Median salary | $115,752 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$75,000 | Public school system |
+| Mid-level (4-7 years) | $75,000~$90,000 | Including additional duty allowance |
+| Senior (8+ years) | $90,000~$110,000 | Leadership roles or special projects |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从普通教师晋升为学科带头人、副校长或校长，也可转向毛利教育政策或资源开发领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
+
+Can advance from ordinary teacher to subject leader, deputy principal or principal, or pivot to Māori education policy or resource development.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates lesson plans, exercises, and standardized courseware
+- AI grades multiple-choice/fill-in-the-blank questions and provides score analysis
+- AI recording and managing student attendance, grades, and behavioral data
+- AI-generated general notifications and reports for home-school communication
+- AI maintains online learning platforms and answers common student questions
+
+**Where AI augments the role:**
+
+- AI Provides Personalized Learning Paths and Adaptive Exercises, Assisting Differentiated Instruction
+- AI analyzes student error patterns to enable precise teacher intervention
+- AI-generated teaching feedback and reflection suggestions
+- AI-assisted design of teaching experiments, virtual scenarios, and interactive activities
+- AI voice recognition assists classroom interaction and oral assessment
+
+**Human moat:**
+
+- Face-to-face emotional communication and child psychological support
+- Classroom discipline management and behavioral intervention
+- Creative instructional design and intuitive judgment for individualized teaching
+- Building trust between school and home, and complex communication mediation
+- Interdisciplinary teaching innovation based on life experience
+
+**Skills to build:**
+
+- Educational AI tool application (e.g., Knewton, Curipod)
+- Basics of educational data analysis (student performance diagnosis)
+- Personalized teaching design and differentiated strategies
+- Digital classroom management and interactive tools (e.g., Nearpod)
+- Educational psychology and behavior management
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Māori-medium education
 - bilingual teaching
@@ -63,66 +99,68 @@ Teach primary school curriculum in Māori-medium settings, integrating Māori cu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage visa） | 仅当雇主担保且职业在清单上，但该职业通常不在澳洲技术移民清单中。 |
-| Subclass 189（Skilled Independent visa） | 需职业在MLTSSL上，该职业不符合。 |
-| Subclass 190（Skilled Nominated visa） | 需州担保，但该职业极少被担保。 |
+| Subclass 482 (Temporary Skill Shortage visa) | Only if employer-sponsored and occupation on the list, but this occupation is typically not on Australia's skilled migration list. |
+| Subclass 189 (Skilled Independent visa) | The occupation must be on the MLTSSL; this occupation does not meet that requirement. |
+| Subclass 190 (Skilled Nominated visa) | Requires state sponsorship, but this occupation is rarely sponsored. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)？**
-- 热爱毛利语言与文化
-- 有志于双语教育
-- 愿意在特定社区工作
+**Who is suited**
+- Passion for the Māori language and culture
+- Aspiring to bilingual education
+- Willing to work in specific communities
 
-**谁不适合学Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)？**
-- 不擅长文化适应
-- 寻求高移民机会者
+**Who is not suited**
+- Not good at cultural adaptation
+- For those seeking high migration opportunities.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Maori language primary school teachers?**
+A: Annual salary for junior teachers is about AUD 65,000-75,000, and for senior teachers up to AUD 90,000-110,000.
+
+**Q: Can this occupation migrate to Australia?**
+A: This occupation is not on Australia's skilled migration list; it is almost impossible to immigrate via independent or state nomination, and employer sponsorship is also extremely difficult.
+
+**Q: What qualifications are needed to become a primary school Māori language teacher?**
+A: Requires completing a 4-year bachelor's degree (including teaching practice) and obtaining registered teacher certification, with fluency in Māori.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Māori-medium primary teacher?**
-答：Entry-level salary is around AUD 65,000-75,000, senior teachers can earn AUD 90,000-110,000.
-
-**问：Can this occupation lead to Australian migration?**
-答：This occupation is not on the skilled occupation list, making migration very difficult.
-
-**问：What qualifications are needed?**
-答：A 4-year bachelor's degree with teaching practice, teacher registration, and fluency in Māori.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

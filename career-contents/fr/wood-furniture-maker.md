@@ -1,61 +1,96 @@
-# Wood Furniture Maker（Wood Furniture Maker）职业分析 · FR
+# Wood Furniture Maker — career analysis · France
 
-**职业代码：H2207 – Wood Furniture Maker。**
+**Occupation code: H2207 (ROME)**
 
-Designs, builds, and repairs wooden furniture using traditional joinery and modern machinery, from material selection to final assembly.
+Responsible for designing, making, and restoring wooden furniture, combining traditional woodworking techniques with modern equipment, covering the entire process from material selection to finished assembly.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中职业教育 | 2年（CAP） | —（公立职业高中免费，或学徒制有薪资补贴） |
-| 大专/技师 | 2年（Bac Pro/BTS） | $200~$2,000（公立学校学费低廉，材料费自理） |
+| High school vocational education | 2 years (CAP) | $0~$500 (Public vocational high schools are free, or apprenticeships offer salary subsidies) |
+| College diploma / Technician | 2 years (Bac Pro/BTS) | $200~$2,000 (Public school tuition is low, and material costs are self-paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Ébéniste | 法国教育部 | 必备 | 基础职业证书，必备入门资质 |
-| BMA Ébéniste | 法国教育部 | 可选 | 高级职业文凭，提升技能 |
-| 法国职业资格认证（RNCP） | France Compétences | 可选 | 注册职称有助于就业和移民 |
+| CAP Ébéniste | French Ministry of Education | Required | Basic vocational certificate, essential entry-level qualification |
+| BMA Ébéniste | French Ministry of Education | Optional | Advanced professional diplomas to enhance your skills |
+| French Professional Qualification Certification (RNCP) | France Compétences | Optional | Registering a professional title helps with employment and immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。法国木工家具行业需求稳定，受环保和可持续材料趋势推动，定制家具市场增长，岗位保持平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Demand in the French woodworking furniture industry remains stable, driven by trends in eco-friendly and sustainable materials, with growth in the custom furniture market and stable job openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 学徒出师后起薪 |
-| 中级（3-8年） | $26,000~$35,000 | 熟练工匠或车间主管 |
-| 高级（8年以上） | $36,000~$50,000 | 高级工匠/工作室主理人 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Apprentices receive salary after graduation |
+| Mid-level (3–8 years) | $26,000~$35,000 | Skilled craftsmen or workshop supervisors |
+| Senior (8+ years) | $36,000~$50,000 | Senior Craftsman/Studio Owner |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒晋升为高级工匠或车间主管，也可创业开设独立工作室，或转向古董家具修复与高端定制领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
+
+You can advance from apprenticeship to senior craftsman or workshop supervisor, start an independent studio, or transition into antique furniture restoration and high-end customization.
+
+**Tasks most exposed to AI:**
+
+- Use BIM software for formwork design optimization (AI replaces manual calculation)
+- Automatic inspection of template dimensions and position accuracy through AI image recognition
+- Use drones or laser scanning to automatically measure field data
+- AI-generated cutting lists and material optimization plans
+- Automated template layout linked with CNC cutting.
+
+**Where AI augments the role:**
+
+- AI-assisted augmented reality (AR) headsets provide real-time template installation guidance
+- AI-driven project management tools optimize processes and resource scheduling
+- Digital twin simulates template forces to improve safety and quality
+- AI voice assistant for on-site documentation and reporting
+- Automatically generate construction progress reports and cost estimates
+
+**Human moat:**
+
+- On-site adjustment and manual fabrication of complex irregular formwork
+- Multi-trade coordination and on-site problem-solving skills
+- Experiential judgment of material properties (wood defects, humidity, etc.)
+- Client communication and understanding of customized needs
+- Physical adaptability for working at heights and heavy manual labor
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- Use of AR/VR construction assistance tools
+- CNC woodworking equipment programming and operation.
+- Basic data analysis (e.g., material utilization optimization)
+- Sustainable materials and green building practices.
+- Communication and teamwork (with AI tool assistance)
+
+**Key growth areas:**
 
 - Custom furniture
 - Sustainable materials
@@ -64,69 +99,68 @@ Designs, builds, and repairs wooden furniture using traditional joinery and mode
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 受雇于法国企业，需获得工作许可，雇主提供合同。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才或创业，需证明突出能力或项目。 |
-| Subclass Carte bleue UE（EU Blue Card） | 高薪岗位（年薪≥53,000€），但木工行业通常不达标。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employed by a French company, you need to obtain a work permit, and the employer provides the contract. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents or entrepreneurs, requiring proof of outstanding abilities or projects. |
+| Subclass Carte bleue UE (EU Blue Card) | High-paying positions (annual salary ≥ €53,000), but the carpentry industry usually falls short of the standard. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Furniture Maker？**
-- 喜欢手工制作、对木工有热情的人
-- 有耐心、注重细节和精度的人
-- 追求自由职业或创业的木艺爱好者
-
-**谁不适合学Wood Furniture Maker？**
-- 追求高薪和快速晋升的人
-- 不喜欢体力劳动或粉尘环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handicrafts and are passionate about woodworking
+- Patient, detail-oriented, and precise people
+- Woodcraft enthusiasts pursuing freelancership or starting their own businesses
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike physical labor or dusty environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for wooden furniture makers in France?**
+A: Entry-level salaries are about €20,000-25,000 before tax, intermediate salaries €26,000-35,000, and seniors up to €50,000.
+
+**Q: How can non-EU citizens immigrate to France to work in carpentry?**
+A: The main pathway is employment-based residence (Salarié), requiring employer sponsorship; the talent passport requires special talents. Qualification assessment may be required.
+
+**Q: What French professional qualifications are required for carpentry?**
+A: The basic requirement is CAP Ébéniste, the advanced option is BMA Ébéniste, and foreign qualifications require RNCP certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wood Furniture Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a wood furniture maker in France?**
-答：Entry-level: €20,000-€25,000 gross/year; mid-level: €26,000-€35,000; senior: up to €50,000.
-
-**问：How can non-EU citizens immigrate to France as a wood furniture maker?**
-答：Main route is a Salarié work permit with employer sponsorship; Talent Passport for exceptional skills. Qualification recognition may be required.
-
-**问：What French qualifications are required to work as a wood furniture maker?**
-答：Basic: CAP Ébéniste; advanced: BMA Ébéniste; foreign qualifications need RNCP recognition.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

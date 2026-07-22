@@ -1,60 +1,95 @@
-# Technical Specialist in Formulation and Sensory Analysis（Technical Specialist in Formulation and Sensory Analysis）职业分析 · FR
+# Technical Specialist in Formulation and Sensory Analysis — career analysis · France
 
-**职业代码：H1505 – Technical Specialist in Formulation and Sensory Analysis。**
+**Occupation code: H1505 (ROME)**
 
-Responsible for product formulation and sensory evaluation (smell, taste, touch) in food, cosmetics, etc., using analytical methods to optimize product quality for R&D departments.
+Responsible for formula development and sensory evaluation (olfactory, taste, tactile) for food, cosmetics, and other products, optimizing product quality through professional analytical methods, and serving the R&D department.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+2 技术文凭（BTS） | 2年 | $500~$8,000（公立学校约500欧/年，私立约8000欧/年） |
-| BAC+5 硕士（Master） | 5年（含本科） | $3,000~$15,000（公立大学约3000欧/年，工程师学院约15000欧/年） |
+| BAC+2 Technical Diploma (BTS) | 2 years | $500~$8,000 (Public schools cost about 500 euros per year, private schools about 8,000 euros per year) |
+| BAC+5 Master's | 5 years (including undergraduate) | $3,000~$15,000 (Public universities: about 3,000 euros/year; engineering schools: about 15,000 euros/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS或DUT科技文凭 | 法国教育部 | 必备 | 食品或化学相关方向 |
-| ISO 17025实验室认可 | COFRAC | 可选 | 非强制，但提升竞争力 |
+| BTS or DUT technology diploma | French Ministry of Education | Required | Food or chemistry-related fields |
+| ISO 17025 laboratory accreditation | COFRAC | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,200。法国食品与化妆品行业稳定，感官分析需求随高端产品创新而增长。预计5年内岗位数量温和增长，但主要集中在大型企业实验室。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. The French food and cosmetics industry is stable, and the demand for sensory analysis is growing alongside innovation in high-end products. The number of job openings is expected to grow moderately over five years, but mainly concentrated in large corporate laboratories.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，项目经理或专家 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, project manager or expert |
+| average salary | $64,720 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从技术员晋升为高级感官分析师、研发项目经理，或转向质量管理。持续参与培训可提升至专家级。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Formulation and sensory analysis specialists face the mixed impact brought by AI: routine sensory testing and data analysis will be automated, but creative formulations, complex sensory integration, and consumer insights still rely on humans, requiring proactive transformation into AI-assisted experts.
+
+You can be promoted from technician to senior sensory analyst, R&D project manager, or transition to quality management. Continuous participation in training can elevate you to expert level.
+
+**Tasks most exposed to AI:**
+
+- Repeatable sensory tests (such as basic flavor identification) are replaced by AI analytical instruments
+- Basic formula data organization and automatic generation of statistical reports
+- Routine raw material database search and matching
+- Automatic annotation of standardized sensory descriptions
+- The product shelf life prediction model replaces some manual inspections
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of complex sensory data quickly identifies key flavor characteristics
+- Machine learning predicts the impact of formulation combinations on sensory attributes, accelerating innovation
+- Consumer sentiment analysis is linked with sensory data to optimize product design
+- Virtual sensory simulation reduces the need for physical sample preparation
+- Personalized product formulation (such as real-time adjustments based on user feedback)
+
+**Human moat:**
+
+- Cross-sensory integration capabilities (such as coordinated design of taste, texture, and flavor)
+- Creative formulation development (such as breakthrough flavor combinations)
+- Consumer behavior insights and emotional design
+- Assessment of industry regulations and safety standards
+- Unstructured communication and collaboration with the R&D team
+
+**Skills to build:**
+
+- AI tool applications (such as machine learning platforms, automated sensory analysis software)
+- Fundamentals of Data Science (Statistics, Data Visualization)
+- Programming Basics (Python/R, for data analysis)
+- Interdisciplinary knowledge of consumer psychology and sensory science
+- Project management and cross-disciplinary collaboration capabilities
+
+**Key growth areas:**
 
 - Product Innovation
 - Clean Label
@@ -63,62 +98,64 @@ Responsible for product formulation and sensory evaluation (smell, taste, touch)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国公司担保，工作合同至少1年，工资不低于SMIC（约1.7万欧/年）。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，需硕士以上学历或3年以上经验，工资需在2.5倍SMIC以上（约4.3万欧/年）。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Requires sponsorship by a French company, a work contract of at least 1 year, and salary not below SMIC (about €17,000/year). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled talent, requires master's degree or higher or 3+ years experience, salary must be above 2.5 times SMIC (approx. €43,000/year). |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Technical Specialist in Formulation and Sensory Analysis？**
-- 热爱感官科学，对气味、味道敏感
-- 有耐心，注重细节，适应实验室重复性工作
-- 希望在食品/化妆品行业从事R&D技术岗位
+**Who is suited**
+- Passionate about sensory science, sensitive to smells and tastes
+- Patient, detail-oriented, and able to adapt to repetitive laboratory work
+- Hope to work in R&D technical positions in the food/cosmetics industry.
 
-**谁不适合学Technical Specialist in Formulation and Sensory Analysis？**
-- 对化学试剂或气味过敏
-- 偏好快速晋升或高薪行业
+**Who is not suited**
+- Allergic to chemical agents or odors
+- Preference for rapid promotion or high-paying industries
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary range for Formulation and Sensory Analysis Technical Specialists?**
+A: France: junior approx. €25,000–32,000/year, mid-level €32,000–42,000, senior €42,000–55,000 (pre-tax annual salary).
+
+**Q: Is it easy to immigrate to France through this profession?**
+A: Difficult. This occupation is not on France's shortage occupation list (métier en tension), and usually requires French language skills and work experience. Possible via Salarié or Passeport Talent pathways, but requires employer sponsorship and meeting salary conditions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Technical Specialist in Formulation and Sensory Analysis属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary range for a Technical Specialist in Formulation and Sensory Analysis?**
-答：In France, entry-level: €25,000-32,000; mid-level: €32,000-42,000; senior: €42,000-55,000 (gross annual).
-
-**问：Is it easy to migrate to France for this occupation?**
-答：It is relatively difficult. This occupation is not on France's shortage list, and requires French language skills and employer sponsorship via Salarié or Passeport Talent, with salary conditions.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

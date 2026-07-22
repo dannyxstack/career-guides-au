@@ -1,59 +1,95 @@
-# National government administrative occupations（National government administrative occupations）职业分析 · UK
+# National government administrative occupations — career analysis · United Kingdom
 
-**职业代码：4111 – National government administrative occupations。**
+**Occupation code: 4111 (SOC)**
 
-Undertake administrative and clerical duties in national government departments and local offices, including document processing, data entry, meeting coordination, and customer service.
+Perform administrative and clerical tasks in central government departments and local offices, including document processing, data entry, meeting arrangement, customer service, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 2年（A-Level或同等） | —（公立学校免费，私立不等） |
-| 大学本科 | 3年 | $9,250~$38,000（英格兰本科学费上限） |
+| High school diploma or equivalent | 2 years (A-Level or equivalent) | $0~$5,000 (Public schools are free, private schools vary in cost) |
+| University bachelor's degree | 3 years | $9,250~$38,000 (Undergraduate tuition fee cap in England) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 任何学科GCSE/高中文凭 | 学校或考试委员会 | 必备 | 通常要求英语和数学C级以上 |
-| 商业管理或公共行政国家文凭 | BTEC或同等机构 | 可选 | 非强制但有利 |
-| 内部在职培训 | 各政府部门 | 可选 | 入职后提供 |
+| GCSE/high school diploma in any subject | School or examination board | Required | Typically require C-level or above in English and Mathematics |
+| National Diploma in Business Management or Public Administration. | BTEC or equivalent institution | Optional | Not mandatory but advantageous |
+| Internal on-the-job training | Various government departments | Optional | Provided after onboarding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。英国中央政府行政岗位需求稳定，但受预算削减和技术自动化影响，增长缓慢。未来十年预计岗位数量略有下降，但离职补充可维持一定招聘。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Demand for administrative roles in the UK central government is stable, but growth is slow due to budget cuts and technological automation. The number of positions is expected to decline slightly over the next decade, but replacement hiring will maintain some recruitment.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$25,000 | 通常为行政助理级别 |
-| 中级（3-7年） | $25,000~$32,000 | 行政官或高级行政官 |
-| 高级（7年以上） | $32,000~$45,000 | 团队领导或政策官员 |
+| Median salary | $33,000 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $21,000~$25,000 | Usually at administrative assistant level |
+| Mid-level (3–7 years) | $25,000~$32,000 | Administrator or senior administrative officer |
+| Senior (7+ years) | $32,000~$45,000 | Team leader or policy officer |
+| average salary | $35,820 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从行政助理晋升至高级行政官、团队主管或政策支持岗位，部分可通过内部考试进入公务员快速晋升通道。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly enhance data processing and document automation, replacing some routine tasks, but administrative decision-making, public accountability, and interpersonal coordination still require humans, with core job responsibilities evolving rather than disappearing.
+
+Can advance from administrative assistant to senior executive, team leader, or policy support role; some may enter the fast-track civil service stream through internal exams.
+
+**Tasks most exposed to AI:**
+
+- Data entry and preliminary validation.
+- Standardized document drafting and template filling
+- Meeting schedule arrangement and automatic reminders
+- Automated replies to common customer inquiries
+- File classification and basic retrieval
+
+**Where AI augments the role:**
+
+- Analysis and summary generation of complex policy documents
+- Cross-departmental data integration and anomaly alerts
+- Smart Assisted Response in Citizen Services
+- Compliance checks and risk alerts
+- Administrative process optimization and simulation.
+
+**Human moat:**
+
+- Involves administrative decisions with legal interpretation and discretion
+- Ethical judgment in handling sensitive or confidential information
+- Cross-stakeholder coordination and negotiation
+- Emergency Decision-Making
+- Maintaining public trust and transparency.
+
+**Skills to build:**
+
+- Application of AI copywriting tools (e.g., ChatGPT/Claude) in official documents
+- Basic Data Analysis and Visualization (Excel/Power BI)
+- Automation process design (e.g., low-code platforms)
+- Digital Literacy and Ethics in Public Policy
+- AI-assisted communication skills in citizen services
+- Basic knowledge of cybersecurity
+
+**Key growth areas:**
 
 - stable demand
 - automation impact
@@ -62,65 +98,64 @@ Undertake administrative and clerical duties in national government departments 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保且岗位达到一般薪资门槛（£38,700/年），此职业通常薪资较低，不易达标。 |
-| Subclass Global Talent（Global Talent Visa） | 不适用，此职业非领导人才领域。 |
-| Subclass Graduate（Graduate Visa） | 适合英国毕业生先积累工作经验，但后续转为技术工人签证有薪资挑战。 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme (T5)） | 部分国家青年可通过该签证在英国工作2年，包括此类行政岗位。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship and meeting a general salary threshold (£38,700/year); this occupation often has low pay, making it difficult to meet. |
+| Subclass Global Talent (Global Talent Visa) | Not applicable; this occupation is not in the leadership talent field. |
+| Subclass Graduate (Graduate Visa) | Suitable for UK graduates to gain work experience first, but switching to a skilled worker visa later poses salary challenges. |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme (T5)) | Youth from certain countries can work in the UK for 2 years under this visa, including such administrative positions. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学National government administrative occupations？**
-- 寻求稳定工作且不介意重复性任务的人
-- 公共部门职业起步者，未来希望转入政策或管理岗位
-
-**谁不适合学National government administrative occupations？**
-- 追求高薪者
-- 希望快速职业晋升或变动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People seeking stable work who don't mind repetitive tasks
+- Public sector career starters looking to move into policy or management roles in the future
+
+**Who is not suited**
+- Those seeking high salaries
+- People seeking rapid career advancement or change
+
+---
+
+## 8. FAQ
+
+**Q: Is there room for salary growth for central government administrative staff?**
+A: Yes, but limited. Through promotion to senior administrative or policy roles, salary can reach £35,000-£45,000, but far below private sector equivalents.
+
+**Q: Can overseas workers obtain this occupation through a skilled worker visa?**
+A: Difficult, because salaries are generally below the Skilled Worker visa threshold of £38,700. Approval is hard unless in London or senior roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-National government administrative occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth for national government administrative occupations?**
-答：Yes, but limited. Promotion to senior administrative or policy roles can reach £35,000-£45,000, but still far below private sector equivalents.
-
-**问：Can overseas workers get a Skilled Worker visa for this occupation?**
-答：Difficult, as salaries are usually below the £38,700 threshold. Only possible for senior roles in London.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

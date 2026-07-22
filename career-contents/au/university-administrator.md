@@ -1,64 +1,95 @@
-# 高校行政人员（University Administrator）职业分析 · 澳大利亚
+# University Administrator — career analysis · Australia
 
-**职业代码：511114 – University Administrator。**
+**Occupation code: 511114 (ANZSCO)**
 
-高校行政人员在大学从事学生服务、课程与考务、研究管理、招生与治理支持等，多数公立大学属公共部门、福利稳定，按 HEW 等级定级，非技术移民职业。
+University administrative staff work in student services, curriculum and exams, research management, admissions, and governance support. Most public universities are part of the public sector with stable benefits, graded by HEW levels, not skilled migration occupations.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 相关本科（常见） | 3~4年 | $20,000~$45,000（多数岗位要求） |
-| 研究生学历（高等级岗加分） | 1~2年 | $20,000~$60,000（可选） |
+| Relevant bachelor's degree (common) | 3–4 years | $20,000~$45,000 (Most roles require) |
+| Postgraduate qualification (bonus for senior roles) | 1–2 years | $20,000~$60,000 (Optional) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学历 | 认可大学 | 可选 | 入行基础 |
+| Related qualification | Recognised university | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 80,000。高等教育规模与研究管理需求支撑稳定岗位，熟悉学生系统与研究合规者更具优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 80,000. Higher education scale and research management needs support stable roles; familiarity with student systems and research compliance is advantageous.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 大学官网 / Seek | 1,500~3,500 个 | 全国 |
-| Indeed | 1,000~2,200 个 | 全国 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 HEW4–5（0-3年） | $65,000~$80,000 | Entry |
-| 中级 HEW6–7（3-8年） | $85,000~$105,000 | Experienced |
-| 资深 HEW8–9 | $105,000~$140,000 | Senior |
+| Median salary | $110,760 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior HEW4–5 (0–3 years) | $65,000~$80,000 | Entry |
+| Mid-level HEW6–7 (3–8 years) | $85,000~$105,000 | Experienced |
+| Senior HEW8–9 | $105,000~$140,000 | Senior |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 路径：行政官员(HEW4–6)→协调/经理(HEW7–9)；专业方向(研究管理/学生服务)决定收入。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI impact on university administrative work is mixed: large volumes of documentation and data processing can be automated, but core duties involving student communication, policy judgment, and cross-department coordination still require human judgment; jobs won't be replaced in the short term, but work content and skill requirements will change significantly.
+
+Pathway: Administrative Officer (HEW4-6) → Coordinator/Manager (HEW7-9); income determined by professional direction (research management/student services).
+
+**Tasks most exposed to AI:**
+
+- Schedule planning and exam arrangement (AI-optimised scheduling algorithms)
+- Student grade entry and graduation eligibility checks (automated data processing)
+- Routine consultation emails and FAQ responses (AI chatbot)
+- File archiving, meeting minutes, and report generation (natural language processing)
+- Budget execution tracking and simple expense reimbursement auditing (RPA process automation)
+
+**Where AI augments the role:**
+
+- Student performance analysis and academic early warning (AI analysis of learning behavior data)
+- Admissions data prediction and admission decision support (machine learning models)
+- Systematized research project management (AI-assisted progress tracking and compliance checks)
+- Cross-departmental communication and coordination (AI extracts meeting key points, generates action items)
+- Student complaints and complex policy explanations (AI provides reference cases and legal retrieval)
+
+**Human moat:**
+
+- Handling complex, ambiguous student cases (emotional support and personalized advice)
+- Cross-departmental interest coordination and conflict resolution (negotiation and empathy)
+- Interpretation and adaptation of policies and regulations (understanding context and ethical judgment).
+- Building trust relationships and maintaining campus culture (long-term interpersonal interaction)
+- Creative problem-solving and process improvement (business model thinking)
+
+**Skills to build:**
+
+- Proficient in college ERP systems (e.g., PeopleSoft) and AI plugins
+- Data literacy: capable of basic analysis with Python/R, understanding data privacy regulations
+- Learning conversational AI tools (chatbot training, prompt engineering)
+- Project management (agile methodologies) and cross-department collaboration skills
+- Enhanced communication and negotiation skills (especially in non-standard scenarios)
+- Continuous learning ability: tracking education technology trends (e.g., LMS AI modules)
+
+**Key growth areas:**
 
 - Higher Education Admin
 - Student Services
@@ -67,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学高校行政人员？**
-- 有学位、喜欢教育/研究环境的人
-- 擅长行政、协调与系统操作者
-
-**谁不适合学高校行政人员？**
-- 追求高薪或商业节奏者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a degree who enjoy an education/research environment
+- Skilled in administration, coordination, and system operations
+
+**Who is not suited**
+- Seeking high income or business pace
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of university administrative staff?**
+A: Approx AUD $65,000-$140,000 (HEW4-9), higher for senior research/governance roles.
+
+**Q: Can university administrators migrate via skilled migration?**
+A: No, it's a local administrative role, not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-高校行政人员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：高校行政人员薪资多少？**
-答：约 AUD $6.5万~$14万(HEW4–9)，资深研究/治理岗更高。
-
-**问：高校行政能技术移民吗？**
-答：不能，属于本地行政岗，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

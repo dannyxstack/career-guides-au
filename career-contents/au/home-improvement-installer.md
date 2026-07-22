@@ -1,60 +1,95 @@
-# Home Improvement Installer（Home Improvement Installer）职业分析 · 澳大利亚
+# Home Improvement Installer — career analysis · Australia
 
-**职业代码：821412 – Home Improvement Installer。**
+**Occupation code: 821412 (ANZSCO)**
 
-Home Improvement Installers install and repair interior and exterior fixtures such as windows, doors, cabinets, countertops, flooring, and trim in residential and commercial properties, with steady demand in Australia's construction sector.
+Home improvement installers are responsible for installing and repairing interior and exterior renovation components in residential and commercial properties, such as doors, windows, cabinets, countertops, flooring, and trim. This occupation has stable demand in the Australian construction industry.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 III | 1-2年 | $5,000~$15,000（澳洲TAFE或私立机构学费，不含材料和工具费用） |
-| 学徒制 | 3-4年 | —（受雇学徒期间薪资较低，但培训费用低或由雇主承担） |
+| Vocational education certificate III | 1-2 years | $5,000~$15,000 (Australian TAFE or private institution tuition fees, excluding materials and tool costs) |
+| Apprenticeship | 3-4 years | $0~$2,000 (Pay is lower during apprenticeship, but training costs are low or covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 装修相关三级证书 | TAFE或注册培训机构 | 可选 | 完成证书III in Carpentry或类似课程，非强制但提高就业竞争力 |
-| 白卡（White Card） | SafeWork NSW等州机构 | 必备 | 澳洲建筑工地强制要求的安全培训卡 |
+| White Card | State agencies such as SafeWork NSW | Required | mandatory safety training card required on Australian construction sites |
+| Certificate III in Renovation | TAFE or registered training organizations | Optional | Completion of Certificate III in Carpentry or similar course, not mandatory but improves employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。澳洲建筑行业持续增长，住宅翻新和新建项目推动对家居装修安装工的需求。预计未来五年就业增长稳定，尤其在人口增长快的城市和偏远地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Australia's construction industry continues to grow, with home renovations and new projects driving demand for home improvement installers. Employment growth is expected to be stable over the next five years, especially in cities with rapid population growth and remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或新手期，薪资随技能提升而增加 |
-| 中级（3-7年） | $60,000~$75,000 | 独立工作的熟练安装工，可能按项目计酬 |
-| 高级（7年以上） | $80,000~$100,000 | 资深安装工、工头或自雇者，经验丰富可获更高收入 |
+| Median salary | $83,512 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or entry-level period, salary increases with skill improvement |
+| Mid-level (3–7 years) | $60,000~$75,000 | Independent skilled installer, possibly paid per project |
+| Senior (7+ years) | $80,000~$100,000 | Senior installer, foreman, or self-employed; experienced individuals can earn higher income |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★☆☆）。** 从初级安装工起步，积累经验后可晋升为高级安装工、工头或项目经理。部分人选择专攻特定领域（如橱柜安装）或创业开设装修公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI/automation on home renovation installers is mixed: routine measuring and cutting can be replaced by tools, but complex installation, custom adjustments, and on-site problem-solving still require humans; competition for entry-level positions will intensify.
+
+Starting as a junior installer, you can gain experience and advance to senior installer, foreman, or project manager. Some choose to specialize in areas like cabinet installation or start their own renovation company.
+
+**Tasks most exposed to AI:**
+
+- Using laser rangefinders and AI software for precise measurement and cutting planning
+- Automatically overlay installation instructions via AR glasses for standard component assembly
+- Utilizing robotic assistance for repetitive drilling and fixing work
+- AI automatically generates material and tool lists, reducing manual inventory management.
+
+**Where AI augments the role:**
+
+- AI design tools help create custom installation plans and 3D renderings
+- Smart diagnostic systems quickly identify on-site issues and provide repair steps
+- Augmented reality training system accelerates novice mastery of complex installation techniques
+- AI scheduling optimizes multi-project installation routes and timelines
+- Real-time quality detection camera feedback ensures installation accuracy
+
+**Human moat:**
+
+- Creative installation solutions for irregular structures of old buildings
+- Communicate with clients on customization needs and provide aesthetic advice
+- Ability to resolve on-site unexpected issues (e.g., pipeline conflicts) in real time
+- High-precision manual operations such as splicing irregular countertops
+- Intuitive judgment of material properties (e.g., wood moisture, stone brittleness)
+
+**Skills to build:**
+
+- Use of AI-enhanced measurement and design software (e.g., AutoCAD with AI plugins)
+- Operate automated cutting and drilling equipment
+- Basic AR/VR tool operation
+- Interpret the output of intelligent diagnostic systems and make decisions
+- Knowledge of green building materials and energy-efficient installation.
+- Application of project management software (e.g., Buildertrend)
+
+**Key growth areas:**
 
 - Renovation boom
 - New housing projects
@@ -63,62 +98,64 @@ Home Improvement Installers install and repair interior and exterior fixtures su
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需雇主提供担保，职业不在MLTSSL上，通常需两年工作经验 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，需获得州政府提名，满足打分要求，职业需在相关职业清单上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer sponsorship, occupation not on MLTSSL, usually requires two years of work experience |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | A provisional visa for regional areas requiring state nomination, meeting points test criteria, and the occupation must be on the relevant occupation list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Home Improvement Installer？**
-- 动手能力强，喜欢体力劳动和户外工作
-- 注重细节，能精确测量和安装
-- 希望从事建筑行业但不想长时间学术学习
+**Who is suited**
+- Strong hands-on ability, enjoys physical labor and outdoor work.
+- Attention to detail, precise measurement and installation skills
+- Want to work in the construction industry but avoid long academic study
 
-**谁不适合学Home Improvement Installer？**
-- 不擅长体力劳动或长时间站立工作
-- 无法适应户外多变天气和工地环境
+**Who is not suited**
+- Not suited for physical labor or long periods of standing
+- Unable to adapt to outdoor weather and construction site conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for home renovation installers?**
+A: Entry-level annual salary about AUD $45,000–55,000, mid-level $60,000–75,000, senior $80,000–100,000. Self-employed or contractors may earn more.
+
+**Q: Can a home renovation installer migrate to Australia through skilled migration?**
+A: This occupation is usually not on the skilled migration occupation list, so migration pathways are limited. Mainly through employer sponsorship (482 visa) or regional state sponsorship (491 visa), but success rates are low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定增长（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Home Improvement Installer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Home Improvement Installers?**
-答：Entry-level annual salary is around AUD 45,000-55,000, mid-level AUD 60,000-75,000, senior AUD 80,000-100,000. Self-employed or contractors may earn more.
-
-**问：Can Home Improvement Installers migrate to Australia through skilled migration?**
-答：This occupation is typically not on the skilled occupation list, limiting migration options. Main pathways include employer sponsorship (482 visa) or regional state nomination (491 visa), but with low success rates.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

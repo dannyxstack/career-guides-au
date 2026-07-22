@@ -1,60 +1,94 @@
-# Cook (without specialization)（Cook (without specialization)）职业分析 · DE
+# Cook (without specialization) — career analysis · Germany
 
-**职业代码：2930 – Cook (without specialization)。**
+**Occupation code: 2930 (KldB)**
 
-Cooks in Germany handle food preparation, cooking, and presentation, forming the backbone of restaurants, hotels, and canteens.
+Chefs in the German hospitality industry are responsible for food preparation, cooking, and presentation, and are core roles in restaurants, hotels, and canteens.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（培训期间有津贴） |
-| 进修厨师长 | 1-2年 | $3,000~$10,000（费用可部分由联邦就业局资助） |
+| Dual system training | 3 years | $0~$500 (Allowance during training) |
+| Further training as a chef manager | 1-2 years | $3,000~$10,000 (Fees can be partially subsidized by the Federal Employment Agency) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 厨师资格证 | 德国工商会(IHK) | 必备 | 通过双元制培训获得 |
-| 卫生证书 | 地方卫生局 | 必备 | 所有餐饮从业者必需 |
+| Cook Qualification Certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained through dual vocational training. |
+| Health certificate | Local Health District | Required | Mandatory for all food service workers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 600,000。德国餐饮业持续面临劳动力短缺，厨师需求稳定。数字化和外卖经济创造了新岗位，但行业竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 600,000. The German hospitality industry continues to face labor shortages, with stable demand for chefs. Digitalization and the food delivery economy have created new jobs, but the industry is highly competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，取决于餐厅类型和地区 |
-| 中级（3-6年） | $32,000~$40,000 | 含加班和奖金 |
-| 高级（6年以上） | $40,000~$55,000 | 厨师长岗位可达更高 |
+| Median salary | $35,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, depends on restaurant type and region |
+| Mid-level (3–6 years) | $32,000~$40,000 | Including overtime and bonuses |
+| Senior (6+ years) | $40,000~$55,000 | Chef positions can earn more. |
+| average salary | $37,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级厨师可晋升为主管、副厨师长或厨师长。通过进修可转向营养顾问或烹饪教师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chef roles will be significantly enhanced by AI tools, not simply replaced; AI can optimise menu design, inventory management, and personalised ordering, but core cooking skills and on-site adaptability still require humans. Job skill requirements increase but opportunities grow.
+
+Junior chefs can advance to supervisor, sous chef, or head chef. Further study can lead to nutrition consultant or cooking instructor.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates purchase orders based on inventory and sales data
+- Monitor ingredient freshness through image recognition and alert for waste
+- Use AI recipe generators to design standard menus and cooking processes
+- Robots handle repetitive physical tasks such as chopping vegetables and stirring pans.
+- Automatically generate nutrition labels and allergen information
+
+**Where AI augments the role:**
+
+- AI assists in dish flavor optimization and new dish development (e.g., flavor prediction).
+- Real-time analysis of meal data to dynamically adjust kitchen workflows and schedules
+- Get precise cooking time and temperature guidance through AR glasses
+- AI-driven personalized ordering system enables culinary display and interaction
+- Using social media sentiment analysis to improve dish reputation
+
+**Human moat:**
+
+- Intuitive judgment of ingredient quality and improvisational seasoning ability
+- Ability to handle peak hours and sudden complaints on the spot.
+- Creative plating and dish design integrating culture, art, and emotion
+- Human-centric care and leadership in teamwork and communication
+
+**Skills to build:**
+
+- Basic programming and data analysis (for smart kitchen equipment operation)
+- Digital menu design and nutrition knowledge
+- Social media operations and personal branding
+- Application of AI tools (e.g., ChatGPT, recipe generators)
+- Multilingual service and cross-cultural dish fusion skills
+
+**Key growth areas:**
 
 - Gastronomy
 - Catering
@@ -63,69 +97,68 @@ Cooks in Germany handle food preparation, cooking, and presentation, forming the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需有德国认可的职业资格（Ausbildung）或大学学历，且雇主提供合同 |
-| Subclass Chancenkarte（Opportunity Card） | 凭积分获得一年求职签证，允许兼职 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月有效，需证明经济能力，寻找雇主担保 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Must have a German-recognized vocational qualification (Ausbildung) or university degree, and an employer contract |
+| Subclass Chancenkarte (Opportunity Card) | One-year job-seeking visa based on points, allows part-time work |
+| Subclass Job Seeker (Job Seeker Visa) | Valid for 6 months, requires proof of financial capacity, seeking employer sponsorship |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cook (without specialization)？**
-- 热爱烹饪和制作食物
-- 适应快节奏和繁重工作
-- 愿意轮班和周末工作
-
-**谁不适合学Cook (without specialization)？**
-- 不喜体力劳动
-- 不愿在节假日工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cooking and making food
+- Adapt to fast-paced and heavy workloads
+- Willing to work shifts and weekends
+
+**Who is not suited**
+- Dislikes physical labour
+- Unwilling to work on holidays
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a German chef?**
+A: Junior chef approx. EUR 25,000-32,000, mid-level EUR 32,000-40,000, senior EUR 40,000+.
+
+**Q: How Can Chinese Chefs Migrate to Germany?**
+A: Requires completion of Germany's recognized chef dual training (Ausbildung), or qualification recognition (Anerkennung) with a Chinese chef certificate, then obtaining an employer contract to apply for a work visa.
+
+**Q: Are there promotion opportunities for German chefs?**
+A: Can be promoted to sous chef, head chef, or through further study become a nutrition consultant or culinary instructor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Cook (without specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a cook in Germany?**
-答：Entry-level cooks earn about 25,000-32,000 EUR, mid-level 32,000-40,000 EUR, and senior cooks above 40,000 EUR.
-
-**问：How can a Chinese chef immigrate to Germany?**
-答：Complete a German recognized culinary apprenticeship (Ausbildung) or have your Chinese qualifications recognized (Anerkennung), then obtain a job offer for a work visa.
-
-**问：Are there career advancement opportunities for cooks in Germany?**
-答：Yes, to sous chef, head chef, or further training as a nutrition consultant or cooking instructor.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

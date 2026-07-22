@@ -1,58 +1,92 @@
-# Viticulturist（Viticulturist）职业分析 · DE
+# Viticulturist — career analysis · Germany
 
-**职业代码：1160 – Viticulturist。**
+**Occupation code: 1160 (KldB)**
 
-Viticulturists manage vineyards, including pruning, irrigation, pest control, and harvesting to ensure grape quality.
+Wine growers manage daily vineyard operations including pruning, irrigation, pest control, and harvesting to ensure grape quality
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（企业承担学费，每月有津贴） |
-| 农业技术员 | 2年（全日制） | —（公立学校学费低，部分州免费） |
+| Dual system training | 3 years | $0~$500 (Employer covers tuition, monthly stipend provided) |
+| Agricultural technician | 2 years (full-time) | $0~$3,000 (Public schools have low tuition fees; some states offer free education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业专业资格 | 德国农业协会 | 可选 | 通过IHK考试获得，非强制但有利就业 |
-| 农药使用许可证 | 联邦农业局 | 必备 | 法律要求，需参加培训 |
+| Pesticide use permit | Federal Agriculture Authority | Required | Legal requirement: must attend training |
+| Agricultural professional qualifications | German Agricultural Society | Optional | Obtained through the IHK exam, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国葡萄酒产业稳定，但机械化程度提高，对熟练工人的需求持续，尤其有机种植领域有增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Germany's wine industry is stable, but mechanization is increasing, with ongoing demand for skilled workers, especially in organic farming.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，双元制毕业后 |
-| 中级（3-7年） | $32,000~$40,000 | 有经验者 |
-| 高级（7年以上） | $40,000~$50,000 | 主管或技术员 |
+| Median salary | $40,320 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual pre-tax salary, after graduation from dual system |
+| Mid-level (3–7 years) | $32,000~$40,000 | Experienced individuals |
+| Senior (7+ years) | $40,000~$50,000 | Supervisor or technician |
+| average salary | $43,908 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒晋升为葡萄园主管或酿酒师，也可通过进修成为农业顾问或自主创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
+
+Can advance from apprentice to vineyard supervisor or winemaker, or further study to become an agricultural consultant or self-employed.
+
+**Tasks most exposed to AI:**
+
+- Routine crop health monitoring and data collection via drones and remote sensing
+- Generate standardized planting and fertilization plans based on historical data and models
+- Scheduling and adjustment of automated irrigation systems
+- Standard Pest and Disease Identification and Basic Control Recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyse multi-source data such as soil sensors and satellite imagery to optimise irrigation and fertilisation decisions
+- Using predictive models to provide early warning of pests, diseases, and weather risks, and formulate precise intervention plans
+- Using intelligent decision support systems to simulate different planting strategies, improving yield and sustainability
+- Crop growth full-cycle simulation and management using digital twin technology
+
+**Human moat:**
+
+- Hands-on Operations like On-site Soil Sampling, Equipment Repair, and Emergency Response
+- Interpersonal communication and collaboration with farmers, local governments, and research institutions
+- Strategic planting planning integrating multiple factors (market, regulations, ecology)
+- Flexible judgment and problem-solving for non-standard, sudden farm issues
+- Sustainable agriculture, organic certification, etc., requiring expert manual review for professional judgment
+
+**Skills to build:**
+
+- Precision agriculture technology (drone operation, GPS navigation, variable rate fertilization)
+- Agricultural data analysis and visualization (Python/R, GIS)
+- Smart irrigation and IoT platform management
+- Agricultural AI tools (crop models, prediction algorithms)
+- Sustainable agriculture practices and carbon accounting
+- Project management and farm advisory communication skills
+
+**Key growth areas:**
 
 - Organic viticulture
 - Climate adaptation
@@ -61,65 +95,64 @@ Viticulturists manage vineyards, including pruning, irrigation, pest control, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 需德国认可的农业职业资格或学历，有雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许未找到工作前入境寻找机会 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需大学学历或受认可的职业资格 |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Requires German-recognised agricultural vocational qualification or degree, with employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires a university degree or recognized professional qualification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Viticulturist？**
-- 喜欢户外体力劳动
-- 对葡萄酒产业感兴趣
-- 愿意在农村地区工作
-
-**谁不适合学Viticulturist？**
-- 不喜欢季节性工作
-- 对农药过敏
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work
+- Interested in the wine industry
+- Willing to work in regional areas
+
+**Who is not suited**
+- Dislikes seasonal work
+- Allergic to pesticides
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for vineyard managers?**
+A: Junior: about 26,000–32,000 EUR/year, senior: up to 40,000–50,000 EUR/year.
+
+**Q: How can foreigners become wine growers in Germany?**
+A: Must complete German-recognized vocational training or have relevant qualifications, then apply for a skilled migration visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Viticulturist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for viticulturists?**
-答：Entry-level around €26,000-32,000/year, senior up to €40,000-50,000/year.
-
-**问：How can foreigners become viticulturists in Germany?**
-答：Require recognized vocational training or degree, then apply for a skilled worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

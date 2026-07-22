@@ -1,60 +1,89 @@
-# Print Journalist（Print Journalist）职业分析 · 澳大利亚
+# Print Journalist — career analysis · Australia
 
-**职业代码：212413 – Print Journalist。**
+**Occupation code: 212413 (ANZSCO)**
 
-Print Journalists write news stories and feature articles for newspapers, magazines, and other print media, conducting interviews, research, and fact-checking.
+Print journalists write news stories and feature articles for print media such as newspapers and magazines, conducting interviews, research, and fact-checking.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科学位 | 3年 | $30,000~$45,000（年学费，取决于大学） |
-| 硕士学位 | 1-2年 | $35,000~$50,000（年学费，取决于大学） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition fee, depending on the university) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Annual tuition fee, depending on the university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位（新闻学或相关领域） | 澳大利亚大学 | 可选 | 通常需要 |
-| 工作经验 | 雇主 | 可选 | 许多雇主偏好有实习或工作经验的候选人 |
+| Bachelor's degree (journalism or related field) | Australian university | Optional | Typically required |
+| Work experience | Employer | Optional | Many employers prefer candidates with internship or work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 6,500。澳洲对于印刷记者的需求因数字化转型而下降，但优质内容创作仍有市场，竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 6,500. Demand for print journalists in Australia has declined due to digital transformation, but quality content creation still has a market, with fierce competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 年薪 + super |
-| 中级（3-7年） | $65,000~$85,000 | 年薪 + super |
-| 高级（7年以上） | $85,000~$110,000 | 年薪 + super |
+| Median salary | $89,544 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Annual salary + super |
+| Mid-level (3–7 years) | $65,000~$85,000 | Annual salary + super |
+| Senior (7+ years) | $85,000~$110,000 | Annual salary + super |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级记者可晋升为高级记者、专栏作家或编辑，部分转向数字媒体或公关领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Junior reporters can advance to senior reporter, columnist, or editor, and some move into digital media or public relations.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - Digital media
 - Content marketing
@@ -63,61 +92,63 @@ Print Journalists write news stories and feature articles for newspapers, magazi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保的短期或中期技术岗位，但印刷记者不在当前紧缺职业清单上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer-sponsored short-term or medium-term skilled positions, but print journalist is not on the current shortage occupation list |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Print Journalist？**
-- 热爱写作和讲故事
-- 具备好奇心和调查能力
-- 能承受截止日期压力
+**Who is suited**
+- Passionate about writing and storytelling
+- Possess curiosity and investigative skills
+- Able to handle deadline pressure
 
-**谁不适合学Print Journalist？**
-- 不喜欢频繁修改稿件
-- 不适应不稳定就业环境
+**Who is not suited**
+- Dislikes frequent revision of manuscripts
+- Difficulty adapting to unstable employment environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a print journalist?**
+A: Junior journalist annual salary around AUD 50,000-65,000, senior journalist up to AUD 85,000-110,000, but competition is fierce and salary growth is limited.
+
+**Q: Are there skilled migration pathways for print journalists?**
+A: Print journalists are not on the current Australian skilled migration occupation list (MLTSSL or CSOL), making immigration very difficult, only possible through employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Print Journalist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for print journalists?**
-答：Entry-level journalists earn around AUD 50,000-65,000 per year, while senior journalists can earn AUD 85,000-110,000, but competition is high and salary growth is limited.
-
-**问：Are there skilled migration pathways for print journalists?**
-答：Print Journalist is not on the current Skilled Occupation Lists (MLTSSL or CSOL), making skilled migration very difficult, only possible via employer sponsorship.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

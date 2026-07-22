@@ -1,60 +1,96 @@
-# Teachers' Aide（Teachers' Aide）职业分析 · IE
+# Teachers' Aide — career analysis · Ireland
 
-**职业代码：5312 – Teachers' Aide。**
+**Occupation code: 5312 (ISCO08)**
 
-Teachers' aides support teachers in schools and early childhood settings by assisting with classroom management, student supervision, and learning activities, including those with special needs.
+Teacher assistants support teachers in schools and early childhood education institutions, assisting with classroom management, student supervision, and learning activities, and helping students with special needs.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期课程/证书 | 6个月-1年 | $500~$2,000（短期培训费用） |
-| 高等教育文凭 | 1-2年 | $3,000~$8,000（部分课程提供补贴） |
+| Short courses/certificates | 6 months to 1 year | $500~$2,000 (Short-term training costs) |
+| Higher education diploma | 1-2 years | $3,000~$8,000 (Some courses offer subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 继续教育与培训证书（QQI Level 5） | QQI | 可选 | 常见入门要求 |
-| 儿童保育或特殊需求助理文凭 | 各机构 | 可选 | 增加就业竞争力 |
+| Continuing Education and Training Certificate (QQI Level 5) | QQI | Optional | Common Entry Requirements |
+| Diploma in childcare or special needs assisting | All institutions | Optional | Enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 30,000。爱尔兰教师助理需求稳定，受人口增长和特殊教育需求增加驱动。预计未来几年就业温和增长，尤其是在小学和特殊教育领域。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. Demand for teacher assistants in Ireland is stable, driven by population growth and increased special education needs. Moderate employment growth is expected in the coming years, especially in primary and special education.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-5年） | $28,000~$34,000 | 税前年薪 |
-| 高级（5年以上） | $34,000~$40,000 | 税前年薪，含特殊需求助理 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Senior (5+ years) | $34,000~$40,000 | Annual pre-tax salary, including special needs assistant |
+| average salary | $31,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 教师助理可从初级助理晋升为高级或特殊需求助理，或通过进修成为教师、教育协调员。部分转向儿童保育管理或早期教育领导岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Many administrative and routine supervision tasks of teacher assistants are easily replaced by AI and automation, potentially reducing job demand.
+
+Teacher aides can progress from junior to senior or special needs aide, or through further study become teachers, education coordinators. Some shift to childcare management or early education leadership roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and manage student attendance records
+- Use AI systems to monitor classroom discipline.
+- Answer common student questions via chatbot
+- Automatically organize and distribute learning materials
+- Use software for simple record keeping and reporting of grades.
+
+**Where AI augments the role:**
+
+- Use data analysis tools to identify individual student learning needs
+- Using AI-assisted development of personalized learning materials
+- Coordinate with parents through automated platforms
+- Design interactive classroom activities using educational software
+- Using AI tools to analyse the behaviour of students with special needs
+
+**Human moat:**
+
+- Emotional support and one-on-one tutoring for students with special needs
+- Judgment and intervention for handling unexpected classroom incidents
+- Build trust and emotional connection with students
+- Mediating student conflicts in complex social situations
+- Creative teaching activity design and real-time adjustment
+
+**Skills to build:**
+
+- Use of education data analysis tools (e.g., Tableau)
+- Basic programming and automation scripts (e.g., Python)
+- AI education software operation (e.g., adaptive learning platforms)
+- Special education assistive technology knowledge
+- Skills for online collaboration and remote teaching support
+- Digital literacy and information management skills
+
+**Key growth areas:**
 
 - Special needs assistants
 - Early childhood education
@@ -63,61 +99,63 @@ Teachers' aides support teachers in schools and early childhood settings by assi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3.4万欧元的非关键技能职业，雇主需进行劳动力市场测试。 |
-| Subclass Stamp 4（Stamp 4） | 持有工作许可5年后可申请，允许自由更换雇主。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-critical skill occupations with an annual salary below EUR 34,000; employers must conduct a labor market test. |
+| Subclass Stamp 4 (Stamp 4) | Applicable after 5 years of work permit, allowing free change of employer. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Teachers' Aide？**
-- 有耐心、喜欢儿童的人
-- 希望从事教育辅助工作，但无高学历者
+**Who is suited**
+- People who are patient and like children
+- Those hoping to work in educational support but without higher education degrees.
 
-**谁不适合学Teachers' Aide？**
-- 追求高薪与快速晋升者
-- 不适应课堂教学环境的人
+**Who is not suited**
+- High salary and fast promotion seekers
+- People who are not suited to classroom teaching environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a teacher's assistant?**
+A: Junior teacher assistants earn about EUR 22,000 to 28,000 per year; senior positions can reach EUR 40,000.
+
+**Q: Is it easy to apply for a teacher assistant work permit?**
+A: Teacher assistant is a general employment permit occupation requiring the employer to conduct a labor market test; applications are more difficult when the annual salary is below €34,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Teachers' Aide属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for teachers' aides?**
-答：Entry-level teachers' aides earn between €22,000 and €28,000 per year, while experienced aides can earn up to €40,000.
-
-**问：Is it easy to get a work permit for teachers' aides?**
-答：It falls under the General Employment Permit, requiring a labor market test. Difficulty increases for salaries below €34,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

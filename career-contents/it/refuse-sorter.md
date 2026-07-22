@@ -1,58 +1,94 @@
-# Refuse Sorter（Refuse Sorter）职业分析 · IT
+# Refuse Sorter — career analysis · Italy
 
-**职业代码：9612 – Refuse Sorter。**
+**Occupation code: 9612 (ISCO08)**
 
-Manually or using simple tools to sort recyclable materials and waste at disposal facilities, ensuring efficient recycling processes.
+Manually or using simple tools to sort recyclables and waste in waste treatment facilities, ensuring efficient recycling processes.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中 | 3年 | —（义务教育免费） |
+| Junior high school | 3 years | $0~$0 (Free compulsory education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业安全培训 | INAIL | 必备 | 必须完成基本工作场所安全培训 |
+| Occupational safety training | INAIL | Required | Must complete basic workplace safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利正推进循环经济，回收率目标提升，垃圾分拣需求稳定。但自动化可能减少部分岗位，整体就业前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Italy is advancing the circular economy with higher recycling rate targets, and the demand for waste sorting remains stable. However, automation may reduce some positions, and the overall employment outlook is steady.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 税前年薪，不含加班 |
-| 中级（3-7年） | $19,000~$23,000 | 税前年薪 |
-| 高级（7年以上） | $23,000~$28,000 | 包含主管岗位 |
+| Median salary | $21,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$19,000 | Pre-tax annual salary, excluding overtime |
+| Mid-level (3–7 years) | $19,000~$23,000 | Annual pre-tax salary |
+| Senior (7+ years) | $23,000~$28,000 | Includes supervisory positions |
+| average salary | $21,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从分拣工晋升为分拣线主管或废物管理协调员，或通过培训进入机械操作、环境监测等岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Garbage sorting workers face high risk of automation substitution, especially as visual recognition and robotic arm technology mature, quickly replacing manual sorting, causing a sharp decline in job demand.
+
+Can progress from sorter to sorting line supervisor or waste management coordinator, or move into roles such as machine operation or environmental monitoring through training.
+
+**Tasks most exposed to AI:**
+
+- Manual identification and sorting of recyclables (e.g., plastic, metal, paper)
+- Waste classification with simple tools
+- Visually inspect materials on garbage conveyor belts
+- Repetitive handling and dispatch of sorted materials
+- Manual records of sorting quantities and types
+
+**Where AI augments the role:**
+
+- Use AI vision systems to assist in identifying complex waste (e.g., mixed-material packaging)
+- Remotely monitor and optimize sorting processes using intelligent sorting robots.
+- Using data analytics to optimize recycling routes and sorting strategies
+- Operate and maintain automated sorting equipment
+- Training and managing AI sorting systems
+
+**Human moat:**
+
+- handling special or unpredictable waste (e.g., hazardous materials, large items)
+- On-site emergency response and troubleshooting
+- Communicate recycling rules and complaints with clients
+- Flexible judgment in complex environments (e.g., heavily contaminated or oddly shaped materials)
+- Cross-category recycling plan development and optimization
+
+**Skills to build:**
+
+- Industrial robot operation and maintenance
+- Basic principles and debugging of computer vision systems
+- Data Analysis & Reporting (Excel/Python)
+- Automated equipment maintenance (mechanical/electrical)
+- Sustainable waste management policy and compliance
+- Forklift and small machinery operation
+
+**Key growth areas:**
 
 - Circular Economy
 - Recycling
@@ -61,64 +97,66 @@ Manually or using simple tools to sort recyclable materials and waste at disposa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 非欧盟工人可通过年度配额申请非技术工作签证，需雇主担保。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU workers can apply for unskilled work visas through annual quotas, requiring employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Refuse Sorter？**
-- 体力较好，能适应户外和重复性工作
-- 注重环保，愿意从事基层回收工作
-- 寻求无需高学历的稳定岗位
+**Who is suited**
+- Good physical condition, adaptable to outdoor and repetitive work
+- Environmentally conscious, willing to engage in grassroots recycling work.
+- Seeking stable positions without requiring high academic qualifications
 
-**谁不适合学Refuse Sorter？**
-- 对异味和脏乱环境敏感
-- 希望快速晋升或高薪职业
+**Who is not suited**
+- Sensitive to odors and dirty environments
+- Looking for fast promotion or high-paying career
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a waste sorter in Italy?**
+A: Junior approximately €16,000-19,000/year, senior up to €23,000-28,000/year, with overtime for additional income.
+
+**Q: How can non-EU citizens obtain a work visa for waste sorting workers in Italy?**
+A: Primarily through the annual Decreto Flussi quota, requires employer sponsorship, usually for non-skilled worker quotas.
+
+**Q: Are there promotion opportunities for waste sorters?**
+A: Can advance to sorting line supervisor or waste management coordinator, or transition through training to mechanical operation, environmental monitoring, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Refuse Sorter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a refuse sorter in Italy?**
-答：Entry-level around €16,000-€19,000 per year, senior up to €23,000-€28,000 per year, plus overtime.
-
-**问：How can a non-EU citizen obtain a work visa for a refuse sorter in Italy?**
-答：Mainly through Decreto Flussi annual quotas, requiring employer sponsorship, typically for low-skilled labor quotas.
-
-**问：Are there promotion opportunities for refuse sorters?**
-答：Yes, to line supervisor or waste management coordinator, or via training to machine operator, environmental monitoring, etc.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

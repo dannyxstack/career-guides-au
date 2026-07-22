@@ -1,60 +1,96 @@
-# Non-Commissioned Officers Without Sword Knot（Non-Commissioned Officers Without Sword Knot）职业分析 · DE
+# Non-Commissioned Officers Without Sword Knot — career analysis · Germany
 
-**职业代码：0130 – Non-Commissioned Officers Without Sword Knot。**
+**Occupation code: 0130 (KldB)**
 
-Non-Commissioned Officers Without Sword Knot are mid-level military leaders in the German Bundeswehr, responsible for leading soldiers, executing missions, and maintaining equipment and discipline.
+A Hauptfeldwebel (without sword) is a mid-level NCO in the German Bundeswehr, responsible for leading soldiers, executing missions, and maintaining equipment and discipline.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 军事基础训练 | 3-6个月 | —（由联邦国防军承担费用并发放薪资） |
-| 士官培训 | 1年（含专业课程） | —（全部由军队资助，培训期间获全额工资） |
+| Military basic training | 3-6 months | $0~$0 (Costs covered and salary paid by the Federal Defense Force) |
+| Non-commissioned officer training | 1 year (including professional courses) | $0~$0 (Fully funded by the military, with full salary during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国国籍 | 联邦国防军 | 必备 | 非德国公民原则上无法成为职业士官 |
-| 身体素质测试 | 联邦国防军 | 必备 | 通过基础体能测试和医疗检查 |
+| German nationality | Federal Defense Force | Required | Non-German citizens cannot become career non-commissioned officers in principle |
+| Physical fitness test | Federal Defense Force | Required | Pass basic physical fitness tests and medical checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 55,000。德国联邦国防军因安全环境变化和装备现代化，对士官的需求稳定。但预算和军队规模限制增长，职位竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 55,000. The German Federal Armed Forces has a stable demand for non-commissioned officers due to changes in the security environment and equipment modernization. However, budget and military size constraints limit growth, leading to moderate competition for positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（1-3年） | $28,000~$35,000 | 根据军衔和服役年限确定，免税部分津贴 |
-| 中级（4-8年） | $35,000~$45,000 | 含岗位津贴和绩效奖金 |
-| 高级（9年以上） | $45,000~$55,000 | 高级士官军衔，包含各种补贴 |
+| Median salary | $41,376 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Junior (1-3 years) | $28,000~$35,000 | Determined by rank and years of service; tax-free portion of allowances |
+| Mid-level (4–8 years) | $35,000~$45,000 | Includes position allowance and performance bonus |
+| Senior (9+ years) | $45,000~$55,000 | Senior non-commissioned officer rank, includes various allowances |
+| average salary | $42,252 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 士官可通过晋升考试和服役年限晋升为高级士官（如主军士长），或通过军官培训成为军官。发展方向包括战术指挥、技术维护或行政岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core duties of non-commissioned officers without swords (leadership, discipline, on-site decision-making) are harder to automate, but tasks such as administration, report writing, and training planning will be significantly assisted by AI; the overall job will not disappear, but the way of working will change.
+
+Senior non-commissioned officers can be promoted through promotion exams and years of service to senior ranks (e.g., Command Sergeant Major), or become officers through officer training. Career paths include tactical command, technical maintenance, or administrative roles.
+
+**Tasks most exposed to AI:**
+
+- Write daily reports and personnel evaluation records
+- Basic training plan design and optimization
+- Material inventory management and replenishment application process
+- Documentation and distribution of standard operating procedures
+- Some intelligence analysis tasks (e.g., compiling situational awareness data)
+
+**Where AI augments the role:**
+
+- Leveraging AI simulators for more efficient and personalized military training
+- Real-time decision support (e.g., AI-assisted battlefield situation analysis)
+- Automated logistics management system improves material scheduling efficiency
+- Using AI to analyze soldier performance data to assist personnel decisions.
+- Strengthen communication and coordination through AI translation and cross-department collaboration tools
+
+**Human moat:**
+
+- On-site command and emergency response capability
+- Soldier psychological counselling and team cohesion building
+- Final authority in ethical judgment and disciplinary decisions
+- Unstructured problem-solving in real-world environments
+- Lead by example in leadership style and value transmission
+
+**Skills to build:**
+
+- Basic data analysis and data-driven decision making
+- Operation of AI-assisted tools (e.g., training simulation systems)
+- Use of digital communication and collaboration platforms
+- Basic programming (e.g., Python) to understand automation logic
+- Cybersecurity awareness (protecting military data)
+- Continuous learning ability and adaptability to new technologies
+
+**Key growth areas:**
 
 - Bundeswehr Reform
 - Security Policy
@@ -63,65 +99,64 @@ Non-Commissioned Officers Without Sword Knot are mid-level military leaders in t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Military Service（Military Service） | 仅对德国公民开放，无技术移民路径 |
+| Subclass Military Service (Military Service) | Open only to German citizens; no skilled migration pathway. |
 
-**PR难度：很高（★★★★★）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-Commissioned Officers Without Sword Knot？**
-- 喜欢领导与团队协作
-- 身体强壮且纪律性强
-- 愿意长期军旅生涯
-- 德国公民
-
-**谁不适合学Non-Commissioned Officers Without Sword Knot？**
-- 非德国国籍
-- 追求高薪或商业发展
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys leadership and teamwork
+- Physically strong and disciplined
+- Willing to commit to a long-term military career
+- German citizen.
+
+**Who is not suited**
+- Non-German nationality
+- Pursue high salary or business development
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a non-commissioned officer?**
+A: Annual pre-tax salary for non-commissioned officers approx. €28,000-55,000, including tax-free allowances, increasing with rank and years of service.
+
+**Q: Can foreigners become non-commissioned officers in the German military?**
+A: Almost impossible; this role requires German citizenship and does not accept foreign applicants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
-
-Non-Commissioned Officers Without Sword Knot为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Non-Commissioned Officers Without Sword Knot?**
-答：The annual pre-tax salary ranges from €28,000 to €55,000, including tax-free allowances, increasing with rank and years of service.
-
-**问：Can a foreigner become a Non-Commissioned Officer Without Sword Knot in Germany?**
-答：Almost impossible; the position requires German citizenship and is not open to foreigners.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

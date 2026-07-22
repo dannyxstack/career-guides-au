@@ -1,60 +1,95 @@
-# Cardiologist（Cardiologist）职业分析 · 新西兰
+# Cardiologist — career analysis · New Zealand
 
-**职业代码：253312 – Cardiologist。**
+**Occupation code: 253312 (ANZSCO)**
 
-Cardiologists in New Zealand are highly sought-after specialists who diagnose and treat heart and vascular diseases, typically working in hospitals or private practices. This occupation is eligible for direct residence under the Green List, offering a clear migration pathway and excellent salaries.
+Cardiologists are highly sought-after specialist doctors in New Zealand, responsible for diagnosing and treating heart and vascular diseases, typically working in hospitals or private clinics. This occupation is eligible for direct residency via the Green List, with clear immigration pathways and attractive salaries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 医学本科 | 6年 | $50,000~$150,000（国际学生学费较高，本地学生有补贴） |
-| 专科培训（心脏病） | 6年 | $10,000~$30,000（培训期间有收入，需通过皇家内科医师学会考试） |
+| Bachelor of Medicine (MBBS). | 6 years | $50,000~$150,000 (International students pay higher tuition fees, while local students receive subsidies) |
+| Specialist training (cardiology) | 6 years | $10,000~$30,000 (Income during training; must pass the Royal College of Physicians and Surgeons exams) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（MBChB或等同） | 新西兰医学院（如奥塔哥大学、奥克兰大学） | 必备 | 需完成6年医学本科 |
-| 新西兰医学委员会注册（MCNZ） | Medical Council of New Zealand | 必备 | 需通过NZREX或AMC考试 |
-| Fellowship of the Royal Australasian College of Physicians (FRACP) | Royal Australasian College of Physicians | 必备 | 心脏病专科资格 |
-| 雅思4个7或等同 | IDP或British Council | 可选 | 移民及注册要求 |
+| Medical degree (MBChB or equivalent) | New Zealand medical schools (e.g., University of Otago, University of Auckland) | Required | Must complete a 6-year medical bachelor's degree |
+| Medical Council of New Zealand registration (MCNZ) | Medical Council of New Zealand | Required | Must pass NZREX or AMC exams |
+| Fellowship of the Royal Australasian College of Physicians (FRACP) | Royal Australasian College of Physicians | Required | Cardiology specialist qualification |
+| IELTS 4x7 or equivalent | IDP or British Council | Optional | Immigration and Registration Requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★★）。** 全国从业人数约 150。新西兰心脏病专家长期短缺，因人口老龄化和心血管疾病高发，需求持续增长。公立医院尤其急需，私人诊所机会增多。就业前景非常乐观。
+**Job demand: very high (★★★★★).** National workforce approx. 150. New Zealand faces a long-term shortage of cardiologists due to an aging population and high prevalence of cardiovascular disease, with demand continuing to grow. Public hospitals are particularly in need, while private clinics offer increasing opportunities. Employment prospects are very optimistic.
 
-**竞争度：适中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $180,000~$220,000 | 包括实习及专科培训阶段 |
-| 中级（5-15年） | $250,000~$350,000 | 顾问医师级别 |
-| 高级（15年以上） | $350,000~$500,000 | 私立执业或主任医师 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry-level (0-5 years) | $180,000~$220,000 | Includes internship and specialist training stages. |
+| Intermediate (5-15 years) | $250,000~$350,000 | Consultant physician level |
+| Senior (15+ years) | $350,000~$500,000 | Private practice or chief physician |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 初级心脏病专家完成培训后，可晋升为顾问医师，或进入私立医疗机构独立执业。部分人转向介入心脏病学、电生理学等亚专科，或从事学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on cardiologists is mixed: diagnostic imaging and data analysis will be greatly enhanced, but core tasks like interventional procedures and patient communication are hard to replace; the profession remains high-value and stable overall.
+
+After completing training, junior cardiologists can advance to consultant physicians or enter private practice. Some transition to subspecialties such as interventional cardiology or electrophysiology, or pursue academic research.
+
+**Tasks most exposed to AI:**
+
+- Automatically interpret routine ECG and echocardiogram reports
+- Analyze patient electronic health records to screen for clinical trial candidates
+- Generate standardised medical documents and referral letters
+- Use AI prediction models for preliminary cardiovascular risk assessment
+
+**Where AI augments the role:**
+
+- AI-assisted real-time analysis of imaging data to improve diagnostic accuracy
+- Using decision support tools to optimize drug and device treatment plans
+- Manage chronic heart failure patients via remote monitoring AI systems
+- Automatically extract key medical record information to shorten preoperative preparation time
+- Uses AI simulation training to improve interventional surgery planning accuracy
+
+**Human moat:**
+
+- Clinical reasoning and multifactorial judgment for complex cases
+- Hand-eye coordination and real-time decision-making in high-precision interventional procedures
+- Emotional communication and shared decision-making with patients and families
+- Assume ultimate medical responsibility within legal and ethical frameworks
+- Cross-specialty collaborative leadership and teaching skills
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools (e.g., AI ECG analysis software)
+- Learn basic data science and machine learning concepts
+- Proficient in remote patient monitoring and digital health platforms
+- Enhance clinical decision-making skills under human-machine collaboration
+- Study the ethics and regulations of medical artificial intelligence.
+- Develop cross-disciplinary communication and leadership skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,69 +98,68 @@ Cardiologists in New Zealand are highly sought-after specialists who diagnose an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，需持FRACP资格及工作邀请，无工资要求 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民，学历+经验+新西兰工作可积累6分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可作为过渡，后转居留 |
-| Subclass Green List T2（Work to Residence Visa） | 工作2年后转居留，适用于部分亚专科 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, requiring FRACP qualification and job offer, no salary requirement |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration scheme: qualifications + experience + New Zealand work can accumulate 6 points |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can be used as a transition, then apply for residence |
+| Subclass Green List T2 (Work to Residence Visa) | Residence permit after 2 years of work, applicable to some subspecialties. |
 
-**PR难度：适中（★★½☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cardiologist？**
-- 具有优秀学术背景和长期学习准备的医生
-- 对心血管疾病诊断和研究有浓厚兴趣的专业人士
-- 寻求高收入和稳定移民路径的医学人才
-
-**谁不适合学Cardiologist？**
-- 无法承受长达14年医学教育和培训压力的个人
-- 不习惯高强度工作和紧急责任的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Doctors with an excellent academic background and long-term study commitment
+- Professionals with a strong interest in cardiovascular disease diagnosis and research.
+- Medical professionals seeking high income and stable migration pathways.
+
+**Who is not suited**
+- Individuals unable to endure 14 years of medical education and training pressure
+- Someone not accustomed to high-intensity work and emergency responsibilities
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a cardiologist in New Zealand?**
+A: A Consultant Physician's annual salary is approximately 250,000-350,000 NZD, with senior or private practitioners reaching over 500,000.
+
+**Q: How can a cardiologist immigrate to New Zealand via the Green List?**
+A: Hold FRACP qualification and receive a job offer from a New Zealand hospital or clinic to directly apply for the Straight to Residence Visa (Tier 1) with no salary threshold.
+
+**Q: Does an overseas cardiologist need to register in New Zealand?**
+A: Yes, must register with the Medical Council of New Zealand (MCNZ), usually via NZREX or AMC exams, and obtain FRACP qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★★) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★★） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 很高（★★★★½） |
-| 职位需求量 | 很高（★★★★★） |
-| 竞争度 | 适中（★★½☆☆） |
-| 收入水平 | 很高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 适中（★★½☆☆） |
-
-Cardiologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a cardiologist in New Zealand?**
-答：Mid-level consultant cardiologists earn NZD 250,000-350,000, while senior or private practitioners can exceed NZD 500,000.
-
-**问：How can a cardiologist migrate to New Zealand via the Green List?**
-答：With FRACP qualification and a job offer from a New Zealand hospital or clinic, you can apply for the Straight to Residence Visa (Tier 1) with no salary threshold.
-
-**问：Do foreign cardiologists need registration in New Zealand?**
-答：Yes, registration with the Medical Council of New Zealand (MCNZ) is mandatory, typically requiring NZREX or AMC exams and FRACP qualification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Civil engineers（Civil engineers）职业分析 · UK
+# Civil engineers — career analysis · United Kingdom
 
-**职业代码：2121 – Civil engineers。**
+**Occupation code: 2121 (SOC)**
 
-Civil engineers undertake research and design, direct construction and manage the operation and maintenance of civil and mining engineering structures such as roads, bridges, tunnels, and dams.
+Civil engineers research, design, construct, and manage civil and mining engineering structures, including roads, bridges, tunnels, dams, and other infrastructure projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（学士学位） | 3年 | $8,000~$15,000（英格兰及威尔士本科学费，苏格兰及北爱尔兰较低） |
-| 硕士（硕士学位） | 1年 | $12,000~$25,000（部分岗位偏好硕士学历，可加速特许资格获取） |
+| Bachelor's degree | 3 years | $8,000~$15,000 (Undergraduate tuition fees in England and Wales; lower in Scotland and Northern Ireland) |
+| Master's (Master degree) | 1 year | $12,000~$25,000 (Some roles prefer a master's degree, which can accelerate obtaining chartered qualifications.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程学士学位 | 受认可的英国大学 | 必备 | 通常需二等一以上荣誉学位 |
-| 特许工程师(CEng) | 英国工程委员会(Engineering Council) | 可选 | 通过ICE或IStructE等机构认证，通常需4-6年经验 |
-| 英国土木工程师学会(ICE)会员 | ICE | 可选 | 中级认证，部分雇主要求 |
+| Bachelor of Civil Engineering | Recognised UK universities | Required | Usually requires at least a 2:1 honors degree |
+| Chartered Engineer (CEng) | Engineering Council UK | Optional | Certified by ICE or IStructE, typically requires 4-6 years of experience |
+| Member of the Institution of Civil Engineers (ICE) | ICE | Optional | Intermediate certification, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 90,000。英国基础设施投资持续增长，HS2、核电及防洪项目推动需求。预计未来十年职位增长约5-10%，英格兰南部和伦敦机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 90,000. UK infrastructure investment continues to grow, with HS2, nuclear power, and flood protection projects driving demand. Job growth of approximately 5-10% is expected over the next decade, with more opportunities in southern England and London.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 毕业生起薪约£28k-£32k |
-| 中级（4-9年） | $38,000~$55,000 | 取得特许资格后薪资显著提升 |
-| 高级（10年以上） | $55,000~$80,000 | 项目经理或技术总监可达£80k+ |
+| Median salary | $51,366 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$38,000 | Graduate starting salary approx. £28k-£32k |
+| Intermediate (4-9 years) | $38,000~$55,000 | Significant salary increase after obtaining chartered status |
+| Senior (10+ years) | $55,000~$80,000 | Project manager or technical director can reach £80k+ |
+| average salary | $54,163 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从助理工程师起步，可通过考取特许工程师(CEng)资质晋升为高级工程师、项目经理或技术总监，也可转向咨询或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+Starting as an assistant engineer, can advance to senior engineer, project manager, or technical director by obtaining Chartered Engineer (CEng) status, or transition to consulting or management roles.
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Net zero
@@ -62,69 +98,68 @@ Civil engineers undertake research and design, direct construction and manage th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用，职业在可担保清单上，满足薪资门槛（一般£26,200或行业特定标准） |
-| Subclass Health & Care（Health and Care Worker Visa） | 不适用，土木工程不属于医疗护理领域 |
-| Subclass Global Talent（Global Talent Visa） | 适用于杰出人才或未来之星，需获得相关领域认可（如英国皇家工程院） |
-| Subclass Graduate（Graduate Visa） | 适合在英国完成本科或硕士学位的国际学生，可留英工作2-3年积累经验 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable if occupation is on the eligible list and meets salary threshold (generally £26,200 or industry-specific standard) |
+| Subclass Health & Care (Health and Care Worker Visa) | Not applicable; civil engineering is not part of healthcare |
+| Subclass Global Talent (Global Talent Visa) | For outstanding talents or future stars, requires recognition in the relevant field (e.g., UK Royal Academy of Engineering) |
+| Subclass Graduate (Graduate Visa) | Suitable for international students completing a bachelor's or master's degree in the UK, can stay and work for 2-3 years to gain experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil engineers？**
-- 具备扎实数学和物理基础
-- 喜欢户外和现场工作
-- 注重安全与环保
-
-**谁不适合学Civil engineers？**
-- 不愿接受长时间户外工作
-- 对细节和精确度要求不高
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Solid math and physics foundation
+- Enjoy outdoor and on-site work
+- Focus on Safety and Environmental Protection
+
+**Who is not suited**
+- Not willing to accept long outdoor work
+- Low requirement for detail and precision
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a civil engineer in the UK?**
+A: Entry-level approx £28k-£38k, mid-level approx £38k-£55k, senior up to £80k+, depending on experience and location.
+
+**Q: How can overseas civil engineers immigrate to the UK?**
+A: The most common is the Skilled Worker visa, requiring employer sponsorship and the occupation to be on the eligible list; alternatively, the Global Talent visa (for outstanding achievements).
+
+**Q: What qualifications are needed to work in civil engineering in the UK?**
+A: Must hold a recognized bachelor's degree in civil engineering; it is recommended to obtain Chartered Engineer (CEng) status to enhance career prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for civil engineers in the UK?**
-答：Entry-level: £28k-£38k, mid-level: £38k-£55k, senior: up to £80k+, depending on experience and location.
-
-**问：How can overseas civil engineers migrate to the UK?**
-答：Most common is Skilled Worker Visa with employer sponsorship; alternatively, Global Talent Visa for exceptional talent.
-
-**问：What qualifications are needed to work as a civil engineer in the UK?**
-答：An accredited Bachelor's degree in civil engineering is mandatory; Chartered Engineer (CEng) status is recommended for career progression.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

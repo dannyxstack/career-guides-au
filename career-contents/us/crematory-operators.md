@@ -1,61 +1,93 @@
-# Crematory Operators（Crematory Operators）职业分析 · 美国
+# Crematory Operators — career analysis · United States
 
-**职业代码：39-4012 – Crematory Operators。**
+**Occupation code: 39-4012 (SOC)**
 
-Operate crematory equipment to reduce human or animal remains to bone fragments in accordance with state and local regulations. Duties may include preparing the body for cremation and performing general maintenance.
+Operates cremation equipment to reduce human or animal remains to ash, following state and local regulations. Duties may include preparing remains, maintaining equipment, and documenting records.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 在职培训/学徒 | 6-12个月 | —（部分州要求学徒计划） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| On-the-job training/apprenticeship | 6–12 months | $0~$2,000 (Some states require apprenticeship programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 火化操作员执照 | 州殡葬管理委员会 | 必备 | 多数州要求通过笔试和实操考试 |
-| 学徒培训证明 | 雇主或行业协会 | 可选 | 完成指定培训小时数 |
-| 急救/心肺复苏证书 | 红十字会等 | 可选 | 部分雇主要求 |
+| Cremation operator license | State Mortuary Board | Required | Most states require passing a written and practical exam. |
+| Apprenticeship training certificate | Employer or industry association | Optional | Complete designated training hours |
+| First aid/CPR certificate | Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,300。美国殡葬行业稳定增长，火化率逐年上升（2023年约60%），推动火化操作员需求。预计2023-2033年就业增长率约5%，与平均水平持平。岗位受人口老龄化和火化偏好驱动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,300. US funeral industry is growing steadily; cremation rate is rising (approx. 60% in 2023), driving demand for cremation operators. Employment growth forecast 2023-2033 is about 5%, on par with average. Jobs driven by aging population and cremation preference.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒或新手 |
-| 中级（3-7年） | $36,000~$45,000 | 独立操作 |
-| 高级（7年以上） | $46,000~$55,000 | 主管或高级操作员 |
+| Median salary | $43,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Apprentice or beginner |
+| Mid-level (3–7 years) | $36,000~$45,000 | Independent operation |
+| Senior (7+ years) | $46,000~$55,000 | Supervisor or senior operator |
+| average salary | $45,670 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从学徒或助手起步，积累经验后成为主管或火化管理员。可考取认证殡葬师（需额外教育）扩大职业范围，或转向殡仪馆管理。高级职位如火化设备销售或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of a crematory operator are highly repetitive and process-oriented. AI and automation will significantly take over equipment monitoring, record archiving, etc., leading to a sharp reduction in demand, though emotional support and regulatory compliance still require humans.
+
+Typically start as an apprentice or assistant, then progress to supervisor or crematorium manager after gaining experience. Can obtain certification as a mortician (requiring additional education) to expand career scope, or move into funeral home management. Advanced roles include cremation equipment sales or trainer.
+
+**Tasks most exposed to AI:**
+
+- Equipment operation status monitoring and parameter adjustment.
+- Recording and filing of deceased identification information
+- Emissions data collection and compliance report generation
+- Basic equipment fault diagnosis and alarm response
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance systems to optimize equipment life management
+- Assisting identity verification and body identification through image recognition
+- Automated generation of compliance documents and reports using natural language processing
+
+**Human moat:**
+
+- Communicating with and providing emotional support to bereaved families
+- Handling complex ethical and legal judgments
+- Manually operating ancient or custom-built equipment
+- Handling emergencies (e.g., major equipment failure, natural disasters)
+
+**Skills to build:**
+
+- Automated cremator operation and maintenance
+- Data analysis and use of emission monitoring systems
+- Basic programming and IoT device troubleshooting
+- Communication and grief counseling
+- Funeral regulations and ethical decision-making
+- Multi-device remote monitoring and coordination
+
+**Key growth areas:**
 
 - Cremation rate increase
 - Aging population
@@ -64,65 +96,67 @@ Operate crematory equipment to reduce human or animal remains to bone fragments 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不符合专业职位要求，极少申请。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 极难，需劳工证且职业被视为低技能，不易获批。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually does not meet professional position requirements, rarely applied. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Extremely difficult; requires a labor certificate and the occupation is considered low-skilled, making approval unlikely. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crematory Operators？**
-- 对殡葬行业有尊重和同情心，能面对死亡环境
-- 注重细节和法规，手动操作能力强
-- 愿意接受在职培训，不求高薪但求稳定
+**Who is suited**
+- Respect and compassion for the funeral industry, able to face death environments
+- Detail-oriented and regulation-focused, strong manual operation skills
+- Willing to undergo on-the-job training, seeking stability over high pay
 
-**谁不适合学Crematory Operators？**
-- 对死亡或遗体有强烈不适感
-- 期望高收入和快速职业晋升
+**Who is not suited**
+- Strong discomfort with death or cadavers
+- Expects high income and rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a cremation operator?**
+A: According to BLS 2023 data, average annual salary is approximately USD 40,000; entry-level around USD 30,000; senior around USD 50,000.
+
+**Q: Can a crematory operator immigrate to the United States through a work visa?**
+A: Extremely difficult. This occupation is usually not considered a professional position, with high barriers for H-1B and EB-3 green cards, and employer sponsorship is very unlikely.
+
+**Q: What educational background is needed to become a crematorium operator?**
+A: Typically requires a high school diploma, followed by state-mandated training and licensing exams. Some states offer community college certificate programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Crematory Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a crematory operator?**
-答：According to BLS 2023 data, average annual wage is about $40,000, entry-level around $30,000, senior around $50,000.
-
-**问：Can a crematory operator immigrate to the US via work visa?**
-答：Extremely difficult. The occupation is not typically a specialty occupation; H-1B and EB-3 green card are rarely feasible.
-
-**问：What education is needed to become a crematory operator?**
-答：Generally a high school diploma, followed by state-required training and licensing exam. Some states offer certificate programs at community colleges.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

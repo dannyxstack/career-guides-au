@@ -1,58 +1,91 @@
-# Aerospace Engineers（Aerospace Engineers）职业分析 · 美国
+# Aerospace Engineers — career analysis · United States
 
-**职业代码：17-2011 – Aerospace Engineers。**
+**Occupation code: 17-2011 (SOC)**
 
-Design, construct, and test aircraft, missiles, and spacecraft; conduct research on materials and equipment adaptability; recommend improvements in testing equipment and techniques.
+Design, manufacture, and test aircraft, missiles, and spacecraft; conduct research on materials and equipment adaptability; improve test equipment and techniques.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $100,000~$200,000（公立大学约10万，私立约20万美元） |
-| 硕士 | 2年 | $60,000~$120,000（视学校和奖学金情况） |
+| Bachelor's degree | 4 years | $100,000~$200,000 (Public universities about 100,000, private about 200,000 USD) |
+| Master's degree | 2 years | $60,000~$120,000 (Varies by school and scholarship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士学位（航空航天工程） | ABET认证大学 | 必备 | 大多数雇主要求 |
-| 专业工程师（PE）执照 | 各州工程委员会 | 可选 | 为政府或咨询项目所需，非强制但有益晋升 |
+| Bachelor of Engineering (Aerospace Engineering) | ABET-accredited university. | Required | Required by most employers |
+| Professional Engineer (PE) license | State engineering boards | Optional | Required for government or consulting projects, not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 61,000。美国航空航天工程师就业预计增长6%（2022-2032），受商用航空和国防需求驱动。波音、SpaceX等巨头持续招聘，但竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 61,000. Employment for aerospace engineers in the U.S. is projected to grow 6% (2022–2032), driven by commercial aviation and defense needs. Boeing, SpaceX, and other major companies continue hiring, but competition is intense.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $72,000~$88,000 | 中位约80000美元 |
-| 中级（4-9年） | $95,000~$120,000 | 中位约107000美元 |
-| 高级（10年以上） | $130,000~$170,000 | 中位约150000美元 |
+| Median salary | $134,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $72,000~$88,000 | Median around $80,000 |
+| Intermediate (4-9 years) | $95,000~$120,000 | Median about $107,000 |
+| Senior (10+ years) | $130,000~$170,000 | Median about USD 150,000 |
+| average salary | $142,060 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从初级工程师起步，积累经验后可晋升为高级工程师、项目主管或技术专家。部分转向管理岗位如工程经理或首席工程师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aerospace engineers face mixed AI impact: analytical tasks like design optimization and simulation testing are enhanced, but lower-level tasks like multi-disciplinary integration, safety certification, and physical prototype evaluation will be automated, upgrading overall job roles.
+
+Typically start as junior engineers; with experience can advance to senior engineer, project supervisor, or technical expert. Some move into management roles such as engineering manager or chief engineer.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for repetitive drafting and standard part library calls
+- Parametric simulation and batch result analysis based on known physical models
+- Write parts of routine test reports and compliance documents
+- Maintaining and updating metadata in engineering data management systems
+
+**Where AI augments the role:**
+
+- Using AI agents to rapidly explore design space, generating innovative aerodynamic shapes or structural layouts
+- Accelerate iteration through multiphysics simulation and ML agents, predict material fatigue and failure modes
+- Use natural language interaction to quickly retrieve regulations, standards, and historical design cases
+- Automatically generate multi-plan trade-off reports to assist team decision-making
+
+**Human moat:**
+
+- Cross-disciplinary system integration and trade-off decision-making skills
+- Responsibility for safety-critical systems and approval authority.
+- Compliance communication and contract negotiation with military and airworthiness authorities
+- Engineering judgment and innovative breakthroughs under uncertainty
+
+**Skills to build:**
+
+- AI-based optimization design methods and tools (e.g., generative design, reinforcement learning)
+- Machine learning engineering and data-driven modeling fundamentals
+- Advanced simulation software automation scripts and workflow orchestration
+- Systems Engineering and MBSE (Model-Based Systems Engineering)
+- Knowledge of AI ethics and explainability in aerospace applications
+- Rapid prototyping and 3D printing/digital twin technology.
+
+**Key growth areas:**
 
 - Aerospace Innovation
 - Defense Spending
@@ -61,68 +94,67 @@ Design, construct, and test aircraft, missiles, and spacecraft; conduct research
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见工作签证，需雇主担保，每年配额限制（85,000张），抽签制。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 绿卡类别，适用于拥有高等学位或特殊能力的专业人员，需PERM劳工证。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在航空航天领域有杰出成就的工程师，无配额限制，但标准严格。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common work visa, requires employer sponsorship, annual quota limit (85,000), lottery system. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Green card category for professionals with advanced degrees or exceptional ability, requiring PERM labor certification. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For engineers with outstanding achievements in aerospace, no quota limits, but strict criteria. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aerospace Engineers？**
-- 对飞行器设计充满热情
-- 具备扎实的数学物理基础
-- 适应团队协作与严格安全标准
-
-**谁不适合学Aerospace Engineers？**
-- 厌恶繁琐文档和认证流程
-- 偏好即时成果而非长期研发项目
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about aircraft design
+- Solid foundation in mathematics and physics.
+- Adapt to teamwork and strict safety standards
+
+**Who is not suited**
+- Those who dislike tedious documentation and certification processes
+- Prefers immediate results over long-term R&D projects
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary growth prospects for aerospace engineers?**
+A: Salary increases significantly with experience. Senior engineers or management can earn $150,000–$170,000 per year, and private companies like SpaceX may offer more.
+
+**Q: What are the main paths for aerospace engineers to immigrate to the US?**
+A: Most common H-1B work visa (employer-sponsored, lottery); subsequent EB-2 or EB-3 green card applications. Outstanding talent may try O-1 visa. National security roles usually require US citizenship.
+
+**Q: Is a master's degree necessary to become an aerospace engineer?**
+A: A bachelor's degree is sufficient for entry, but a master's degree increases competitiveness and starting salary. Research or senior roles tend to prefer a master's or doctorate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aerospace Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth prospect for aerospace engineers?**
-答：Significant growth with experience; senior engineers or management can earn $150,000-$170,000, with potential higher at private companies like SpaceX.
-
-**问：What are the main immigration paths for aerospace engineers to the US?**
-答：Commonly H-1B visa (employer-sponsored, lottery) then EB-2/EB-3 green card. O-1 for extraordinary ability. Defense jobs often require US citizenship.
-
-**问：Is a master's degree necessary to become an aerospace engineer?**
-答：Bachelor's is sufficient for entry-level; master's boosts competitiveness and starting salary. Research or advanced roles prefer graduate degrees.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

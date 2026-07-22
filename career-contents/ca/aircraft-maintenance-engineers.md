@@ -1,60 +1,96 @@
-# Aircraft maintenance engineers（Aircraft maintenance engineers）职业分析 · 加拿大
+# Aircraft maintenance engineers — career analysis · Canada
 
-**职业代码：22300 – Aircraft maintenance engineers。**
+**Occupation code: 22300 (NOC)**
 
-Aircraft maintenance engineers inspect, repair, and maintain aircraft and components to ensure aviation safety. Canada's aviation industry is growing, and this trade is eligible for Express Entry and PNP, with targeted draws in provinces like Manitoba and Ontario.
+Aircraft maintenance engineers inspect, repair, and maintain aircraft and components to ensure aviation safety. Canada's aviation industry continues to grow; this is a skilled trade eligible for immigration via Express Entry or Provincial Nominee Programs (PNP), with some provinces like Manitoba and Ontario issuing targeted invitations for such trades.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 文凭或副学士学位（飞机维修） | 2年 | $10,000~$25,000（公立学院学费，如BCIT、Centennial College） |
-| 学徒培训 | 4年 | —（在职培训，费用较低，部分省份提供补助） |
+| Diploma or associate degree (aircraft maintenance) | 2 years | $10,000~$25,000 (Tuition at public colleges, such as BCIT, Centennial College) |
+| Apprenticeship training | 4 years | $0~$5,000 (On-the-job training, low cost, some provinces offer subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（需执照考试）（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大飞机维修工程师执照（AME） | Transport Canada | 必备 | 必须持有M1（活塞发动机）或M2（涡轮发动机）执照才能独立工作，通过考试和经验积累获得。 |
-| 学徒注册 | 省/地区学徒机构 | 必备 | 如安大略省学徒培训计划，需完成注册和在职培训。 |
-| 雅思或CELPIP英语成绩 | IELTS/CELPIP | 必备 | 移民语言要求：CLB 5以上（技术工人类别），建议CLB 7以提升CRS分数。 |
-| 国外资质评估（ECA） | IQAS或WES等 | 可选 | 海外学历需要ECA认证才能用于移民申请。 |
+| Canada Aircraft Maintenance Engineer license (AME) | Transport Canada | Required | Must hold an M1 (piston engine) or M2 (turbine engine) license to work independently, obtained through exams and experience accumulation. |
+| Apprenticeship registration | Provincial/territorial apprenticeship authority | Required | Such as the Ontario Apprenticeship Training Program, requiring registration and on-the-job training. |
+| IELTS or CELPIP English test scores | IELTS/CELPIP | Required | Immigration language requirement: CLB 5 or above (Skilled Trades category), CLB 7 recommended to improve CRS score. |
+| Educational Credential Assessment (ECA) | IQAS or WES, etc. | Optional | Overseas education requires ECA certification for immigration application. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,000。加拿大航空业预计未来十年稳定增长，尤其在蒙特利尔、多伦多、温哥华等航空枢纽。老旧机队更新和疫情后航空旅行复苏将增加维修需求。该职业受经济周期影响较小，长期前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 13,000. The Canadian aviation industry is expected to grow steadily over the next decade, especially in hubs like Montreal, Toronto, and Vancouver. Fleet renewal and post-pandemic travel recovery will increase maintenance demand. The occupation is less affected by economic cycles, with good long-term prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 学徒或新持照工程师，薪资因省份和雇主不同。 |
-| 中级（3-8年） | $60,000~$85,000 | 持照且有经验，可在航空公司或MRO工作。 |
-| 高级（8年以上） | $85,000~$110,000 | 高级工程师、主管或检验员，薪资可达100K以上。 |
+| Median salary | $70,491 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$60,000 | Apprentice or newly licensed engineer, salary varies by province and employer. |
+| Mid-level (3–8 years) | $60,000~$85,000 | Licensed and experienced, can work for airlines or MROs. |
+| Senior (8+ years) | $85,000~$110,000 | Senior engineer, supervisor, or inspector, salary can reach 100K+. |
+| average salary | $74,880 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径：从学徒或持证技工开始，积累经验后可晋升为高级工程师、团队主管或质量检验员。部分人转向航空管理或开设维修公司。持有运输部颁发的AME执照是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers rely heavily on physical inspections, manual repairs, and on-site decisions; AI is difficult to fully replace but will take over tasks like documentation, preliminary fault diagnosis, and predictive maintenance planning, making the overall risk moderately low.
+
+Career path: start as apprentice or certified technician, gain experience to advance to senior engineer, team supervisor, or quality inspector. Some move into aviation management or start a repair company. Having an AME license from the transport department is key for advancement.
+
+**Tasks most exposed to AI:**
+
+- automatically generates maintenance work cards and compliance reports
+- Preliminary fault diagnosis (via AI analysis of flight data)
+- Predictive maintenance scheduling (based on sensor data)
+- Parts inventory management and automatic ordering
+- Flight and maintenance history data entry
+
+**Where AI augments the role:**
+
+- Enhances fault location accuracy (AI-assisted analysis of instrument data).
+- Optimize maintenance plan suggestions (based on historical case library)
+- Virtual reality-assisted training (for new aircraft and complex systems)
+- Real-time monitoring of aircraft health status (predicting component lifespan)
+- automatically generates maintenance work cards and compliance reports
+
+**Human moat:**
+
+- Physical maintenance and operation (disassembly, installation, commissioning)
+- Unstructured troubleshooting (on-site flexible response to anomalies)
+- Safety responsibility and regulatory compliance judgment
+- On-site communication and coordination with crew and ground staff
+- Hands-on learning ability for new aircraft systems
+
+**Skills to build:**
+
+- Learn to use aircraft diagnostic AI platforms (e.g., Airbus Skywise)
+- Master data analysis basics (Python/SQL for data maintenance)
+- Obtain certification for drone or electric aircraft maintenance.
+- Enhance automated tool operation skills (e.g., 3D printing for parts repair)
+- Reinforced composite and advanced materials repair techniques.
+- Learn cybersecurity basics (for airborne system threats)
+
+**Key growth areas:**
 
 - Aviation
 - Trade
@@ -63,65 +99,64 @@ Aircraft maintenance engineers inspect, repair, and maintain aircraft and compon
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE-FSW（Federal Skilled Worker） | 适合海外申请人，NOC TEER 2职位，需满足语言、学历和工作经验要求，CRS打分。 |
-| Subclass PNP（Provincial Nominee Program） | 如安大略省技工类别、曼尼托巴省技工类别，定向邀请飞机维修工程师，获得省提名后加600分。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省（如新斯科舍）雇主担保，适合有雇主offer的申请人。 |
+| Subclass EE-FSW (Federal Skilled Worker) | Suitable for overseas applicants, NOC TEER 2 position, requires meeting language, education, and work experience requirements, CRS scoring. |
+| Subclass PNP (Provincial Nominee Program) | For example, Ontario Skilled Trades stream, Manitoba Skilled Trades stream, targeted invitation for aircraft maintenance engineers, add 600 points after provincial nomination. |
+| Subclass AIP (Atlantic Immigration Program) | Employer sponsorship in Atlantic provinces (e.g., Nova Scotia), suitable for applicants with a job offer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft maintenance engineers？**
-- 动手能力强、注重细节的机械维修人员
-- 愿意学习并通过加拿大执照考试的技术人员
-- 希望移民加拿大并从事稳定技工行业的人
-
-**谁不适合学Aircraft maintenance engineers？**
-- 不喜欢户外或机库工作环境的人
-- 不愿投入时间考取AME执照或持续学习的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Mechanical repair personnel with strong hands-on skills and attention to detail
+- Technicians willing to learn and pass Canadian license exams
+- People hoping to immigrate to Canada and work in a stable skilled trade
+
+**Who is not suited**
+- People who dislike outdoor or hangar work environments
+- Those unwilling to invest time in obtaining an AME license or continuous learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for aircraft maintenance engineers in Canada?**
+A: According to Canada's Job Bank, average annual salary around CAD $70,000, entry-level CAD $40,000-60,000, senior can exceed CAD $100,000. Varies by province, experience, and license type.
+
+**Q: What are the pathways for aircraft maintenance engineers to immigrate to Canada?**
+A: Main pathways include: 1) Canadian Experience Class (CEC) for those with Canadian work experience; 2) Federal Skilled Worker (FSW) for overseas applicants; 3) Provincial Nominee Program (PNP) such as Ontario's Skilled Trades stream; 4) Atlantic Immigration Program (AIP) requiring a job offer. It is recommended to obtain a Canadian license or employer sponsorship first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（2-4年）（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（需执照考试）（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aircraft maintenance engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an aircraft maintenance engineer in Canada?**
-答：According to Canada's Job Bank, the average salary is around CAD 70,000, with entry-level at CAD 40,000-60,000 and senior roles above CAD 100,000, varying by province, experience, and license type.
-
-**问：What are the immigration pathways for aircraft maintenance engineers to Canada?**
-答：Main pathways: 1) Canadian Experience Class (CEC) for those with Canadian work experience; 2) Federal Skilled Worker (FSW) for overseas applicants; 3) Provincial Nominee Programs (PNP) like Ontario's Skilled Trades stream; 4) Atlantic Immigration Program (AIP) requiring a job offer. Obtaining a Canadian license or employer sponsorship is recommended.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

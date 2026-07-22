@@ -1,59 +1,92 @@
-# Gastroenterologist（Gastroenterologist）职业分析 · 新西兰
+# Gastroenterologist — career analysis · New Zealand
 
-**职业代码：253316 – Gastroenterologist。**
+**Occupation code: 253316 (ANZSCO)**
 
-Gastroenterologists diagnose and treat digestive diseases. This Green List Tier 1 occupation offers a direct residence pathway with low SMC threshold, high salary, and persistent shortage.
+Gastroenterologists diagnose and treat digestive system diseases; it is a direct residence occupation on New Zealand's Green List, with low technical immigration threshold, high salary, and sustained demand shortage.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（医学学士） | 4-6年 | $60,000~$120,000（各大学不同，国际学生费用更高） |
-| 专科培训（高级医学培训） | 5-7年 | —（带薪培训，皇家内科医师学院或新西兰相关项目） |
+| Bachelor's degree (Bachelor of Medicine) | 4-6 years | $60,000~$120,000 (Varies by university; international student fees are higher.) |
+| Specialist training (advanced medical training) | 5-7 years | $0~$0 (Paid training through the Royal College of Physicians or related projects in New Zealand.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学士（MBBS或同等） | 认可医学院 | 必备 | 必需基础学历 |
-| 新西兰医学委员会注册 | 新西兰医学委员会 (MCNZ) | 必备 | 必需完成实习并注册，海外需通过NZREX或同等评估 |
-| 皇家内科医师学院会员（FRACP） | 皇家澳大拉西亚内科医师学院 (RACP) | 必备 | 胃肠病专科资格，必需完成培训 |
+| Bachelor of Medicine (MBBS or equivalent) | Accredited medical school | Required | Required basic qualifications |
+| Medical Council of New Zealand registration | Medical Council of New Zealand (MCNZ) | Required | Must complete internship and register; overseas candidates need NZREX or equivalent assessment |
+| Fellow of the Royal Australasian College of Physicians (FRACP) | Royal Australasian College of Physicians (RACP) | Required | Specialist qualification in gastroenterology, training must be completed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 200。新西兰胃肠病学家持续短缺，因人口老龄化和消化疾病增多，公立医院和私立诊所需求旺盛，预计未来5年就业增长强劲。
+**Job demand: very high (★★★★½).** National workforce approx. 200. New Zealand faces a sustained shortage of gastroenterologists due to an aging population and increasing digestive diseases. Demand is strong in public hospitals and private clinics, with strong employment growth expected over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-5年，专科医生） | $120,000~$180,000 | 公立医院专科医生起薪 |
-| 中级（5-10年，资深专科医生） | $180,000~$250,000 | 含私立兼职收入可能更高 |
-| 高级（10年以上，顾问级） | $250,000~$400,000 | 私立全职或科室主任级别 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Junior (0-5 years, specialist doctor) | $120,000~$180,000 | Starting salary for specialists in public hospitals |
+| Intermediate (5-10 years, senior specialist doctor) | $180,000~$250,000 | Income may be higher including part-time private work |
+| Senior (10+ years, consultant level) | $250,000~$400,000 | Private full-time or department head level |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 多从专科培训后进入公立医院，积累经验后可转向私立诊所或担任科室主任，也可参与科研或教学，晋升路径清晰。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gastroenterologists' work heavily relies on clinical judgment and manual operations. AI mainly enhances diagnostic efficiency and clerical processing rather than replacing core medical care, so overall risk is low.
+
+After vocational training, enter public hospitals; with experience, transition to private clinics or become department head, or engage in research and teaching, with clear promotion pathways
+
+**Tasks most exposed to AI:**
+
+- Writing standardized endoscopy reports and medical summaries
+- Interpret routine laboratory test results (e.g., liver function, fecal occult blood)
+- Compiling medical literature and clinical guideline summaries
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis (e.g., colon polyp detection, gastric lesion detection) to improve diagnostic accuracy
+- Automatically generate patient education materials (e.g., dietary advice, medication instructions)
+- Predict disease progression and treatment response using data (e.g., IBD relapse risk)
+- Smart scheduling optimizes endoscopy room resource utilization
+
+**Human moat:**
+
+- Complex clinical decisions (e.g., identifying rare digestive system diseases).
+- Invasive procedural skills (endoscopy, biopsy, polyp removal)
+- Building trust, communication, and empathy with patients
+- Handle medical emergencies (e.g., gastrointestinal bleeding, perforation)
+- Multidisciplinary collaboration to develop personalized treatment plans
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic imaging tools (e.g., computer-aided detection CADe)
+- Clinical data analysis and predictive model interpretation
+- Advanced application of electronic health record systems.
+- Telemedicine platform usage and consultation
+- AI Ethics and Patient Privacy Protection
+- Continuously learning emerging treatment techniques.
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Gastroenterologists diagnose and treat digestive diseases. This Green List Tier 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Tier 1 Direct Residence） | 可直接申请居留，无需先工作，满足资质和注册即可 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，注册+培训可获高分，薪资达标易申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 可先用此工签来新工作，期间满足条件转居留 |
+| Subclass Green List T1 (Tier 1 Direct Residence) | Can apply directly for residency without prior work, provided qualifications and registration are met |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registration plus training can earn high points; meeting salary requirements makes application easy. |
+| Subclass AEWV (Accredited Employer Work Visa) | Can first use this work visa to work in New Zealand, and later apply for residence if conditions are met. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gastroenterologist？**
-- 已完成医学学位的海外胃肠病专家，寻求快速新西兰居留
-- 有志于消化系统临床诊治和新西兰公立医院工作
-- 能接受高强度和高压工作环境
-
-**谁不适合学Gastroenterologist？**
-- 不喜欢长时间手术和内镜操作
-- 不愿进行持续学习和专科考试
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Overseas gastroenterologist with a completed medical degree, seeking fast New Zealand residency
+- Aspiring to clinical diagnosis and treatment of digestive system and working in New Zealand public hospitals
+- Able to handle high-intensity and high-pressure work environments
+
+**Who is not suited**
+- Dislikes long surgeries and endoscopic procedures
+- Unwilling to pursue continuous learning and specialized exams.
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a gastroenterologist in New Zealand?**
+A: Junior: approx. NZ$120,000-180,000; intermediate: NZ$180,000-250,000; senior: NZ$250,000-400,000; private sector may be higher.
+
+**Q: How can overseas gastroenterologists immigrate to New Zealand?**
+A: Direct residence via Green List, requiring completion of FRACP or equivalent qualification and registration with the Medical Council of New Zealand.
+
+**Q: Is IELTS required?**
+A: The Medical Council of New Zealand requires English proficiency, typically IELTS overall 7.5 (no band below 7.0) or OET B grade.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★★） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Gastroenterologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a gastroenterologist in New Zealand?**
-答：Entry-level NZD 120k-180k, mid NZD 180k-250k, senior NZD 250k-400k; private practice can be higher.
-
-**问：How can an overseas gastroenterologist immigrate to New Zealand?**
-答：Via Green List Tier 1 direct residence, requiring FRACP or equivalent, and MCNZ registration.
-
-**问：Is IELTS required?**
-答：Yes, MCNZ requires English proficiency, typically IELTS 7.5 overall (no band below 7.0) or OET B.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

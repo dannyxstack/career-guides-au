@@ -1,59 +1,95 @@
-# Sales Workers Not Elsewhere Classified（Sales Workers Not Elsewhere Classified）职业分析 · IT
+# Sales Workers Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：5249 – Sales Workers Not Elsewhere Classified。**
+**Occupation code: 5249 (ISCO08)**
 
-Includes various sales occupations not classified elsewhere, such as street vendors, telemarketers, door-to-door salespersons. Work is diverse, often compensated by commission or base salary plus commission.
+Includes various sales occupations not elsewhere classified, such as street vendors, telemarketers, door-to-door salespersons, etc. Work content varies; income is typically commission-based or a base salary plus commission.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 无固定年限 | —（通常无学历要求，但高中毕业为常见） |
-| 职业培训 | 6个月至1年 | $1,000~$3,000（销售技巧或客户服务课程） |
+| High school diploma | No fixed duration | $0~$0 (Usually no educational requirements, but high school graduation is common.) |
+| Vocational training | 6 months to 1 year | $1,000~$3,000 (Sales techniques or customer service courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售技巧证书 | 私立培训机构 | 可选 | 非强制，但有助于就业 |
+| Sales skills certificate | Private training provider | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。意大利整体零售业就业增长缓慢，但电子商务和服务的兴起为灵活销售岗位创造机会。数字化技能对提升竞争力越来越重要。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. Overall retail employment growth in Italy is slow, but the rise of e-commerce and services creates opportunities for flexible sales roles. Digital skills are increasingly important for competitiveness.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 税前年薪，通常含基础底薪 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪，含佣金 |
-| 高级（7年以上） | $35,000~$50,000 | 税前年薪，含高额提成 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Annual pre-tax salary, usually includes base salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Annual pre-tax salary, including commission |
+| Senior (7+ years) | $35,000~$50,000 | Pre-tax annual salary, including high commission |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级岗位可向高级销售代表、销售主管发展，部分人可转向市场营销、客户管理等领域。积累客户资源后也可自主创业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Unclassified sales roles are significantly impacted by AI, with many tasks replaceable, but interpersonal interaction and negotiation skills remain a moat, and AI tools can amplify sales efficiency. The entry barrier is lowered, but higher-value roles require more.
+
+Entry-level roles can progress to senior sales representatives and sales managers, with some transitioning to marketing or customer management. Accumulating client resources may lead to starting a business.
+
+**Tasks most exposed to AI:**
+
+- Using AI phone bots for initial customer contact and information screening
+- Use AI chatbot to answer standard customer questions and record needs
+- Using AI tools to automatically generate sales copy and personalized recommendation emails
+- Use AI algorithms to analyze customer data and predict purchase intent
+- Automatically records sales activities and generates reports
+
+**Where AI augments the role:**
+
+- AI provides real-time customer sentiment analysis and negotiation strategy suggestions.
+- Combine CRM with AI to precisely target potential clients and push leads
+- AI-assisted analysis of sales pipelines to optimize follow-up timing and scripts
+- Quickly generate personalized presentations and quotes using AI tools
+- Improve sales skills and response abilities through AI training simulators
+
+**Human moat:**
+
+- Complex negotiations and objection handling to build high-trust relationships
+- Unstructured communication and empathy in multicultural and multi-scenario contexts
+- Creative sales strategies and long-term client relationship maintenance
+- Flexibility in adapting during client visits and on-site demonstrations
+- Understand deep customer needs and provide customized solutions
+
+**Skills to build:**
+
+- Master mainstream CRM and AI sales tools (e.g., Salesforce Einstein)
+- Data analysis and interpretation skills (for customer profiling and sales forecasting)
+- High EQ communication and virtual team collaboration skills
+- AI prompt engineering and automated workflow design
+- Digital marketing basics (e.g., social media sales, SEO)
+- Continuous learning ability to keep up with AI tool updates
+
+**Key growth areas:**
 
 - e-commerce
 - digital sales
@@ -62,65 +98,67 @@ Includes various sales occupations not classified elsewhere, such as street vend
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 适用于非欧盟季节性或非技术工人，需雇主担保且配额有限。 |
-| Subclass EU Blue Card（EU Blue Card） | 仅适用于高技能岗位，销售岗位通常不符合要求。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Applicable for non-EU seasonal or non-technical workers, requires employer sponsorship and has limited quotas. |
+| Subclass EU Blue Card (EU Blue Card) | Only for high-skilled positions; sales roles are usually not eligible. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Workers Not Elsewhere Classified？**
-- 善于沟通、有说服力的人
-- 能接受不固定收入和业绩压力的人
-- 愿意从事灵活工作时间的人
+**Who is suited**
+- Good communicator, persuasive
+- People who can handle irregular income and performance pressure
+- Individuals willing to work flexible hours
 
-**谁不适合学Sales Workers Not Elsewhere Classified？**
-- 不喜欢与人打交道的人
-- 不愿承担收入波动风险的人
+**Who is not suited**
+- People who dislike interacting with others
+- People unwilling to take risks of income fluctuation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for sales positions?**
+A: Entry-level sales staff earn approximately €18,000-25,000 per year, mid-level €25,000-35,000, senior can exceed €50,000 (all including commission).
+
+**Q: Can foreigners immigrate to Italy through sales positions?**
+A: Sales positions are generally not considered high-skilled occupations, making EU Blue Card applications more difficult. Non-EU citizens can try the Decreto Flussi quota work visa, but it is competitive and requires employer sponsorship.
+
+**Q: What is the career development path for sales positions?**
+A: Can start from entry-level sales and progress to senior sales, sales supervisor, regional manager, or transition to marketing, customer relationship management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sales positions?**
-答：Junior sales workers earn around €18,000-25,000 per year, mid-level €25,000-35,000, and senior can exceed €50,000 (all including commission).
-
-**问：Can foreigners immigrate to Italy through sales jobs?**
-答：Sales positions are generally not considered high-skilled, making EU Blue Card difficult. Non-EU citizens may try Decreto Flussi quota work visa, but competition is high and requires employer sponsorship.
-
-**问：What is the career progression for sales jobs?**
-答：Start as junior sales, progress to senior sales, sales supervisor, regional manager, or transition to marketing, customer relationship management, etc.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

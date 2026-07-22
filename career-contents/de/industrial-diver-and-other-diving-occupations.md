@@ -1,61 +1,97 @@
-# Industrial Diver and Other Diving Occupations（Industrial Diver and Other Diving Occupations）职业分析 · DE
+# Industrial Diver and Other Diving Occupations — career analysis · Germany
 
-**职业代码：2443 – Industrial Diver and Other Diving Occupations。**
+**Occupation code: 2443 (KldB)**
 
-Industrial divers perform installation, inspection, repair, and welding underwater in ports, bridges, and hydraulic structures. This profession requires high technical skills and physical fitness, playing a key role in infrastructure construction and maintenance.
+Industrial divers perform installation, inspection, maintenance, and welding work in underwater environments such as ports, bridges, and hydraulic engineering projects. This occupation requires a high level of professionalism and physical fitness, and is a key part of infrastructure construction and maintenance.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 商业潜水培训（初级） | 3个月-1年 | $10,000~$25,000（培训费用因学校和证书级别不同） |
-| 职业进修（水下焊接/NDT） | 6个月-2年 | $5,000~$15,000（专业资质认证费用） |
+| Commercial Diving Training (Entry Level) | 3 months - 1 year | $10,000~$25,000 (Training costs vary by school and certificate level) |
+| Professional development (underwater welding / NDT) | 6 months to 2 years | $5,000~$15,000 (Professional qualification certification fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业潜水执照（HSE/ADCI/IMCA） | 英国健康安全局/国际潜水承包商协会/国际海洋承包商协会 | 必备 | 德国认可国际标准，需进行资质认证 |
-| 水下焊接证书 | 德国焊接学会(DVS)或同等国际机构 | 可选 | 增加就业竞争力的专业资质 |
-| 医疗体检证明 | 职业医师 (Arbeitsmediziner) | 必备 | 定期体检以确保健康状态适合潜水 |
+| Commercial diving certification (HSE/ADCI/IMCA) | Health and Safety Executive / International Association of Diving Contractors / International Marine Contractors Association | Required | Germany recognizes international standards; qualification recognition required |
+| Medical examination certificate | Occupational physician (Arbeitsmediziner) | Required | Regular medical check-ups to ensure fitness for diving |
+| Underwater welding certificate | German Welding Society (DVS) or equivalent international body | Optional | Professional qualifications to increase employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,800。德国在海上风电扩建、港口维护和内河航道整治方面需求稳定，尤其北海和波罗的海地区项目增多。具备水下焊接和NDT资质的潜水员更受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,800. Germany has steady demand in offshore wind expansion, port maintenance, and inland waterway renovation, especially increasing projects in the North Sea and Baltic Sea. Divers with underwater welding and NDT certifications are more sought after.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 基本工资加潜水津贴 |
-| 中级（3-7年） | $45,000~$60,000 | 包括项目奖金和危险津贴 |
-| 高级（7年以上） | $60,000~$85,000 | 监督或专家级薪资 |
+| Median salary | $43,836 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Base salary plus diving allowance |
+| Mid-level (3–7 years) | $45,000~$60,000 | Includes project bonuses and danger pay |
+| Senior (7+ years) | $60,000~$85,000 | Supervisory or specialist-level salary |
+| average salary | $46,476 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级潜水员起步，可晋升为潜水监督、潜水项目经理或专职水下检测专家。通过获得更高级别的商业潜水执照（如HSE第三类）或专业资质（如水下焊接）实现职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Underwater work such as industrial diving is less affected by AI automation, but AR assistance, remote monitoring, and autonomous underwater robots are gradually taking over some inspection and data collection tasks. Mastering digital tools can amplify your value, otherwise you may face mid-level job displacement.
+
+Start as a junior diver and progress to dive supervisor, dive project manager, or specialist underwater inspection expert. Career development is achieved by obtaining higher-level commercial diving licenses (e.g., HSE Class III) or professional qualifications (e.g., underwater welding).
+
+**Tasks most exposed to AI:**
+
+- Routine visual inspection of underwater structures, replaced by AUV/ROV equipped with high-definition cameras and AI image recognition
+- Underwater data recording and report generation, directly produced by automated data acquisition systems
+- Simple non-destructive testing (e.g., thickness measurement) automatically performed by unmanned underwater vehicles with sensors
+- Underwater communication relay tasks taken over by acoustic networks and AI relay systems
+- Some preparation and cleaning work for welding in shallow water areas is performed by remote robotic arms.
+
+**Where AI augments the role:**
+
+- AR headsets provide real-time underwater environmental sensor data overlay, improving positioning and task efficiency
+- AI-assisted defect identification and welding parameter optimization to reduce human error
+- Remote expert system guides complex repairs via real-time video and sensor data
+- Coordinated autonomous underwater vehicle operations to expand single-dive work scope
+- Digital twin model pre-runs construction plans to reduce underwater risks and rework
+
+**Human moat:**
+
+- Fine manipulation and hand-eye coordination in complex underwater environments
+- Quick decision-making and emergency response in urgent situations.
+- On-site judgment and flexible adjustment of the entire underwater engineering process
+- Traditional manual skills like fitting and welding require actual tactile feedback
+- Legal and safety mandates for human-in-the-loop requirements
+
+**Skills to build:**
+
+- Underwater robot (ROV/AUV) operation and maintenance
+- Data analysis and use of digital twin platforms
+- AR/VR-assisted system applications
+- Remote control operation technology
+- Non-destructive testing (NDT) automation certification
+- Cross-disciplinary communication and team collaboration (AI system integration)
+
+**Key growth areas:**
 
 - Offshore Wind Expansion
 - Port Maintenance
@@ -64,69 +100,68 @@ Industrial divers perform installation, inspection, repair, and welding underwat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历或同等资质，薪资门槛较低（非紧缺职业2024年约45,300欧元），需Anerkennung |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适合双元制培训或职业资格，需职业资质认证 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许寻找工作或资质认可，无雇主担保 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to university degree or equivalent qualifications, salary threshold is relatively low (approximately 45,300 EUR in 2024 for non-shortage occupations), requires Anerkennung |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for dual vocational training or vocational qualifications, requiring occupational credential assessment |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing to seek work or qualification recognition, no employer sponsorship required |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Diver and Other Diving Occupations？**
-- 身体健康、无潜水禁忌症，热爱水下工作者
-- 具备工程或机械背景，希望从事技术型体力劳动的人
-- 能够适应不规律工作时间和艰苦工作环境的人
-
-**谁不适合学Industrial Diver and Other Diving Occupations？**
-- 有幽闭恐惧症、呼吸系统疾病或其他健康问题者
-- 不喜欢体力劳动、高强度和户外工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good health, no diving contraindications, and enthusiastic about underwater work
+- Individuals with engineering or mechanical background seeking technical physical work
+- People who can adapt to irregular working hours and tough working conditions
+
+**Who is not suited**
+- Individuals with claustrophobia, respiratory diseases, or other health conditions
+- People who dislike manual labor, high intensity, and outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for industrial divers?**
+A: Junior annual income approximately 35,000-45,000 euros, including base salary and diving allowances. Senior dive supervisors or underwater welding specialists can earn 60,000-85,000 euros.
+
+**Q: How can third-country nationals become industrial divers in Germany through skilled migration?**
+A: Must first obtain an internationally recognized commercial diving license (e.g., HSE Class 3) and complete German qualification certification (Anerkennung). Can apply for an EU Blue Card (salary requirements must be met) or a skilled immigration visa (requires employer sponsorship). The Opportunity Card is also suitable for entering the country to find work first.
+
+**Q: What certifications are required to become a German commercial diver?**
+A: Must hold an internationally recognized commercial diving license (e.g., HSE, ADCI, or IMCA) and undergo German qualification certification. Underwater welding certificates (e.g., DVS) increase job opportunities. Also requires regular medical examinations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Industrial Diver and Other Diving Occupations为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for industrial divers?**
-答：Entry-level salaries range from €35,000 to €45,000 including basic pay and diving bonuses. Senior supervisors or underwater welding specialists can earn €60,000 to €85,000.
-
-**问：How can third-country nationals become industrial divers in Germany via skilled migration?**
-答：They need an internationally recognized commercial diving certificate (e.g., HSE Part 3) and have it recognized in Germany (Anerkennung). They may apply for an EU Blue Card (if salary threshold met) or a Skilled Worker visa (employer-sponsored). The Opportunity Card allows job seeking without prior employment.
-
-**问：What certifications are required to become an industrial diver in Germany?**
-答：A commercial diving certificate from HSE, ADCI, or IMCA is mandatory and must be recognized in Germany. Underwater welding certificates (e.g., DVS) are beneficial. Regular medical fitness checks are also required.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

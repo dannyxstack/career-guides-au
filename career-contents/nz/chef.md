@@ -1,60 +1,94 @@
-# Chef（Chef）职业分析 · 新西兰
+# Chef — career analysis · New Zealand
 
-**职业代码：351311 – Chef。**
+**Occupation code: 351311 (ANZSCO)**
 
-Chefs are core in NZ hospitality, handling menu creation, kitchen management, and quality control. Listed on Green List Tier 1, eligible for direct residence, with clear migration pathways.
+Chef is a core occupation in New Zealand's hospitality industry, responsible for menu design, kitchen management, and quality control. This occupation is on the Green List Tier 1, eligible for direct residence visa, with clear career path and high immigration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家厨师证书（Level 4） | 1-2年 | $12,000~$25,000（公立理工学院约12000-18000 NZD/年，私立学校约20000-25000 NZD/年） |
-| 新西兰国家烹饪文凭（Level 5） | 1-2年 | $15,000~$30,000（需先完成Level 4，高阶课程费用更高） |
-| 本科学位（如烹饪管理） | 3年 | $25,000~$35,000（大学学费约25000-35000 NZD/年） |
+| New Zealand National Cookery Certificate (Level 4) | 1-2 years | $12,000~$25,000 (Public polytechnics about 12,000-18,000 NZD/year, private schools about 20,000-25,000 NZD/year) |
+| New Zealand National Certificate in Cookery (Level 5) | 1-2 years | $15,000~$30,000 (Must first complete Level 4; advanced courses cost more) |
+| Bachelor's degree (e.g., culinary management). | 3 years | $25,000~$35,000 (University tuition about $25,000-35,000 NZD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家厨师证书（Level 4） | 新西兰资格认证局（NZQA）批准的院校 | 必备 | 行业基础资格，多数雇主要求 |
-| 食品安全证书 | NZQA或培训机构 | 可选 | 部分雇主要求，确保食品处理合规 |
-| 雅思总分6.0（用于移民申请） | IDP/剑桥/英国文化协会 | 必备 | SMC及绿色清单要求至少雅思6.0 |
+| New Zealand National Cookery Certificate (Level 4) | Institutions approved by the New Zealand Qualifications Authority (NZQA) | Required | Industry-level qualification, required by most employers |
+| IELTS overall 6.0 (for immigration application) | IDP/Cambridge/British Council | Required | SMC and Green List require at least IELTS 6.0 |
+| Food safety certificate | NZQA or training providers | Optional | Some employers require it to ensure food handling compliance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。新西兰旅游业持续增长带动餐饮需求，厨师就业前景稳定。高端餐厅和酒店需求旺盛，尤其缺乏经验丰富的主厨。预计未来五年岗位增长约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. The continuous growth of New Zealand's tourism industry drives demand for catering, and chefs have stable employment prospects. Demand is strong in high-end restaurants and hotels, especially for experienced head chefs. About 15% growth expected in the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 初厨或副厨，时薪约22-27 NZD |
-| 中级（3-6年） | $55,000~$70,000 | 部门主管或经验丰富的副厨，时薪约27-35 NZD |
-| 高级（6年以上） | $70,000~$100,000 | 主厨或行政总厨，高端餐厅可达100000 NZD以上 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level or sous chef, hourly rate ~22-27 NZD |
+| Mid-level (3–6 years) | $55,000~$70,000 | Department head or experienced sous chef, hourly rate around 27-35 NZD |
+| Senior (6+ years) | $70,000~$100,000 | Head chef or executive chef, up to 100,000 NZD or more in high-end restaurants |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初厨（Commie Chef）晋升为高级厨师或主厨（Head Chef）需积累经验并考取证书。可转向餐饮管理、食品研发或创业开店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
+
+Progress from commie chef to senior chef or head chef by gaining experience and certifications. Can pivot to catering management, food R&D, or starting a business.
+
+**Tasks most exposed to AI:**
+
+- Standardized dish preparation (e.g., grilling, frying, and other repetitive cooking)
+- Basic food preparation (chopping, washing, sorting)
+- Inventory management and order generation (automated systems replace manual counting)
+- Precision operations like temperature monitoring and timing (sensor and AI control)
+
+**Where AI augments the role:**
+
+- Menu development: AI analyzes diner preferences and health trends to assist innovative recipes
+- Cost control: AI optimises ingredient procurement and reduces waste
+- Kitchen coordination: AI schedules multiple orders to improve meal delivery efficiency
+- Quality monitoring: Computer vision inspects dish appearance and plating consistency
+
+**Human moat:**
+
+- Creative menu development and personalization
+- Sensory evaluation of ingredient quality (smell, taste)
+- Team management and on-site decision-making under high pressure
+- Dining experience design for customer interaction
+- Cultural Heritage and Preservation of Regional Flavors
+
+**Skills to build:**
+
+- AI recipe development and data analysis tools (e.g., IBM Chef Watson)
+- Operating and maintaining smart kitchen equipment
+- Cost management software and supply chain optimization
+- Social media and digital marketing (for personal brand promotion)
+- Sustainability and zero-waste cooking philosophy
+- Cross-cultural dietary knowledge (to meet diverse customer needs)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,67 +97,66 @@ Chefs are core in NZ hospitality, handling menu creation, kitchen management, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 满足绿色清单Tier 1要求（职业在清单上，时薪≥29.66 NZD，工作或offer持续12个月以上）可直接申请居留，无需先工作。厨师属于该类别。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民，根据学历、收入、工作经验评分。厨师通常需满足60 NZD时薪或本科学位等条件。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需有认证雇主的工作offer，时薪达到中位数（约29.66 NZD/小时）。可积累经验后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meeting Green List Tier 1 requirements (occupation on list, hourly wage ≥ NZD 29.66, job or offer lasting 12+ months) allows direct residence application without prior work. Chefs fall under this category. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration, scored based on education, income, and work experience. Chefs usually need to meet conditions such as a 60 NZD hourly wage or a bachelor's degree. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa requires a job offer from an accredited employer and a median hourly wage (approx. NZD 29.66/hour). Experience can lead to residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chef？**
-- 热爱烹饪，有创造力，能适应高强度厨房工作
-- 善于团队协作和沟通，具备领导潜力
-
-**谁不适合学Chef？**
-- 无法承受长时间站立和高压工作环境
-- 对反复的体力劳动缺乏耐心
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cooking, creative, able to adapt to high-stress kitchen work
+- Good teamwork and communication skills, with leadership potential
+
+**Who is not suited**
+- Cannot tolerate long periods of standing and high-pressure work environment
+- Lack of patience for repetitive physical labor.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a chef in New Zealand?**
+A: Entry-level chef annual salary about NZD 45,000–55,000, mid-level NZD 55,000–70,000, senior chef NZD 70,000–100,000 or higher.
+
+**Q: How can chefs immigrate to New Zealand via the Green List?**
+A: Chefs are on the Green List Tier 1. If you meet the hourly wage ≥ NZD 29.66 (median) and have a job offer of 12 months or more, you can directly apply for a Straight to Residence Visa. No need to work for two years first.
+
+**Q: Does a chef have good career prospects in New Zealand?**
+A: Yes. New Zealand's tourism boom drives high demand for fine dining. Chefs can progress from commis to head chef, or move into catering management or food R&D. Shortage status boosts job and immigration opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Chef的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a chef in New Zealand?**
-答：Entry-level chefs earn NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior head chefs NZD 70,000-100,000+.
-
-**问：How can a chef migrate to New Zealand via the Green List?**
-答：Chefs are on Green List Tier 1. With a job offer paying at least NZD 29.66/hour for 12+ months, you can directly apply for a Straight to Residence Visa, no prior work required.
-
-**问：What are the career prospects for chefs in New Zealand?**
-答：Yes. Booming tourism and high demand for fine dining offer strong prospects. Chefs can progress from commie to head chef, or move into management and R&D. Shortage status boosts job and immigration opportunities.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

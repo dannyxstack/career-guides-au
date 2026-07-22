@@ -1,62 +1,98 @@
-# Bookbinding and Restoration of Books and Archives（Bookbinding and Restoration of Books and Archives）职业分析 · FR
+# Bookbinding and Restoration of Books and Archives — career analysis · France
 
-**职业代码：B1402 – Bookbinding and Restoration of Books and Archives。**
+**Occupation code: B1402 (ROME)**
 
-Conserves, restores, and rebinds books, archives, and other paper documents using traditional handcraft techniques and materials to preserve cultural heritage.
+Responsible for repairing, binding, and preserving paper documents (books, archives, maps, etc.), using traditional handicrafts and materials to maintain cultural heritage.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 装帧 | 2年（CAP） | —（公立学校免费，材料费约0-5000欧元） |
-| DN Made 文凭（艺术职业） | 3年（DN Made） | $1,000~$8,000（公立学校约1000-8000欧元/年） |
-| 硕士（遗产修复） | 2年（硕士） | $3,000~$15,000（大学学费约3000-15000欧元/年） |
+| CAP binding | 2 years (CAP) | $0~$5,000 (Public schools are free, with material fees ranging from about 0 to 5000 euros) |
+| DN Made Diploma (Arts Profession) | 3 years (DN Made) | $1,000~$8,000 (Public schools cost about 1000-8000 euros per year) |
+| Master's (Heritage Restoration) | 2 years (Master's) | $3,000~$15,000 (University tuition is about 3,000–15,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 装帧与修复 CAP | 法国教育部 | 必备 | 基础职业资格，从事装帧工作必备 |
-| 遗产修复师认证 | 文化部 | 可选 | 修复公共收藏品需此认证，通过考试获得 |
-| DN Made 文凭（书籍装帧） | 高等应用艺术学院 | 可选 | 高等职业文凭，提升专业技能 |
+| Binding and Repair CAP | French Ministry of Education | Required | Basic professional qualifications, essential for bookbinding work |
+| Heritage restorer certification | Ministry of Culture | Optional | Restoring public collections requires this certification and requires passing an exam |
+| DN Made Diploma (Book Binding) | Higher School of Applied Arts | Optional | Higher vocational diploma to enhance professional skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。法国对文化遗产保护高度重视，但岗位有限，多集中于国家图书馆、档案馆或私人工作室。竞争激烈，需求稳定但增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. France places great emphasis on cultural heritage preservation, but positions are limited, mostly concentrated in national libraries, archives, or private studios. Competition is fierce, demand is stable but growth is slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，约€1,800-€2,300/月 |
-| 中级（3-8年） | $30,000~$38,000 | 税前年薪，约€2,500-€3,200/月 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪，资深修复师或工作室负责人 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary: about €1,800–€2,300/month |
+| Mid-level (3–8 years) | $30,000~$38,000 | Pre-tax annual salary: about €2,500-€3,200/month |
+| Senior (8+ years) | $40,000~$50,000 | Pre-tax annual salary, senior restorer or studio head |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从技术员晋升至首席修复师，或转向文化遗产管理、教学或开设个人工作室。需持续学习新技术与材料科学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of book binders and archivists is limited to the extent of AI, but the widespread adoption of assistive tools will change some processes. The core role of handicraft skills and cultural relic value judgment remains unchanged; practitioners need to embrace digital tools to improve efficiency while strengthening irreplaceable physical operations and ethical decision-making abilities.
+
+You can advance from technician to chief restorer, or transition to cultural heritage management, teaching, or opening a personal studio. Continuous learning of new technologies and materials science is required.
+
+**Tasks most exposed to AI:**
+
+- Automatic scanning and digital archiving: AI automatically extracts text and images from paper documents to achieve metadata indexing.
+- Preliminary damage assessment: computer vision identifies the type and extent of damage and generates a repair priority report.
+- Material aging prediction: AI models analyze paper composition and environmental data to forecast degradation trends.
+- Restoration plan generation: Based on the knowledge base, standard repair steps and material lists are recommended.
+- Customer Consultation and Appointment Management: The chatbot handles common inquiries and service appointments.
+
+**Where AI augments the role:**
+
+- Digital Restoration Simulation: AI-assisted simulation of different restoration methods to aid decision-making.
+- Cross-source matching: AI compares missing fragments or watermarks to identify literature sources and associations.
+- Material analysis and recommendation: AI analysis matches the best repair materials (such as pulp and adhesives).
+- Environmental monitoring optimization: AI analyzes temperature and humidity data to automatically adjust the storage environment.
+- Restoration records and knowledge management: AI automatically generates repair reports to support the transfer of experience.
+
+**Human moat:**
+
+- Fine handicrafts: Paper splicing, gold leaf inlay, and other handcrafted skills that require tactile intuition and experience.
+- Aesthetic and historical judgment: Balancing the aesthetic effect and original appearance after restoration.
+- Ethics and Authenticity: Making ethical choices between repair and intervention.
+- Customer communication and customization: Understanding collectors' personalized needs and providing exclusive solutions.
+- Complex artifact restoration: involves mixing materials or non-standardized treatment of historical artifacts.
+
+**Skills to build:**
+
+- Master digital imaging and photogrammetry technologies.
+- Learn basic computer vision and image processing software.
+- Familiar with material spectral analysis and data interpretation.
+- Learn about AI repair planning tools (such as Adobe Firefly).
+- Strengthen interdisciplinary collaboration and project management capabilities.
+- Continue to study advanced courses in traditional binding and restoration techniques.
+
+**Key growth areas:**
 
 - Cultural heritage
 - Traditional crafts
@@ -65,66 +101,68 @@ Conserves, restores, and rebinds books, archives, and other paper documents usin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国机构（如图书馆、档案馆），需雇主提供工作合同和劳工许可 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，但修复师通常不属紧缺类别，申请难度大 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后可申请一年期找工作居留，找到工作后转为Salarié |
+| Subclass Salarié (Salarié (Employee)) | Employment with French institutions (such as libraries and archives) requires employers to provide work contracts and labor permits |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | It is suitable for highly skilled talent, but restoration specialists are usually not in short supply and are difficult to apply |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for a one-year job-seeking residence permit, and once you find a job, you can switch to Salarié |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bookbinding and Restoration of Books and Archives？**
-- 热爱手工技艺与文化遗产
-- 耐心细致，能长时间专注精细工作
-- 具备艺术与化学基础知识
+**Who is suited**
+- Passionate about handicrafts and cultural heritage
+- Patient and meticulous, able to focus on meticulous work for long periods
+- Possess basic knowledge of art and chemistry
 
-**谁不适合学Bookbinding and Restoration of Books and Archives？**
-- 追求高薪与快速发展的人
-- 不擅长手工操作或对化学材料过敏的人
+**Who is not suited**
+- People who pursue high salaries and rapid development
+- People who are not skilled with manual work or allergic to chemical materials
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for restorers?**
+A: Entry-level restorer pre-tax annual salary about 22,000-28,000 EUR, senior up to 40,000-50,000 EUR, but most positions have lower pay.
+
+**Q: How can non-EU individuals immigrate to France through this employment?**
+A: This occupation is not in short supply and usually requires obtaining a French diploma (such as CAP or Master's) before applying for the Salarié visa through employer sponsorship. Competition is fierce, and immigration is quite challenging.
+
+**Q: Is continuing education necessary?**
+A: Yes, repair materials and technologies are constantly being updated, and it is recommended to attend training at institutions like INP to stay competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bookbinding and Restoration of Books and Archives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for restorers?**
-答：Entry-level restorers earn €22k-€28k gross annually; senior restorers can reach €40k-€50k, but most positions are modestly paid.
-
-**问：How can non-EU nationals immigrate through this occupation?**
-答：This occupation is not in shortage; generally, you need a French diploma (e.g., CAP or Master's), then find employer sponsorship for a Salarié visa. Competition is high, making immigration difficult.
-
-**问：Is continuous education necessary?**
-答：Yes, materials and techniques evolve; training at institutions like INP is recommended to stay competitive.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

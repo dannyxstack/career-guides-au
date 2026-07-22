@@ -1,60 +1,94 @@
-# Billing and Posting Clerks（Billing and Posting Clerks）职业分析 · 美国
+# Billing and Posting Clerks — career analysis · United States
 
-**职业代码：43-3021 – Billing and Posting Clerks。**
+**Occupation code: 43-3021 (SOC)**
 
-Compile, compute, and record billing, accounting, statistical, and other numerical data for billing purposes. Prepare invoices for services rendered or goods shipped. Excludes medical records specialists.
+Responsible for compiling, calculating, and recording bills, accounts, statistics, and other numerical data, and invoicing for services provided or goods shipped. Excludes medical records specialists.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $5,000~$20,000（社区大学学费区间） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $5,000~$20,000 (Community college tuition range) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 必备 | 通常为期1-3个月 |
+| High school diploma or equivalent | High school | Required | Basic entry requirements |
+| On-the-job training | Employer | Required | Usually 1-3 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 115,000。美国劳工统计局预测2023-2033年该职业就业增长约-4%，呈下降趋势。自动化软件和在线支付系统减少了对人工账单处理的需求，但医疗和金融领域仍有稳定岗位。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 115,000. The US Bureau of Labor Statistics projects employment growth for this occupation from 2023-2033 at approximately -4%, indicating a decline. Automation software and online payment systems reduce demand for manual billing processing, but stable positions remain in healthcare and finance.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级薪资 |
-| 中级（3-7年） | $36,000~$45,000 | 有经验者 |
-| 高级（7年以上） | $45,000~$55,000 | 主管或资深专员 |
+| Median salary | $48,500 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level salary |
+| Mid-level (3–7 years) | $36,000~$45,000 | Experienced individuals |
+| Senior (7+ years) | $45,000~$55,000 | Supervisor or senior specialist |
+| average salary | $51,070 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级账单文员可晋升为高级账单专员、会计助理或办公室主管。部分人员通过考取会计认证转向会计或财务分析师角色。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI technology will significantly reduce billing and posting clerk positions; automated data processing and invoice generation can replace most repetitive tasks, but complex exception handling and cross-system coordination still require human judgment.
+
+Entry-level billing clerks can advance to senior billing specialists, accounting assistants, or office supervisors. Some transition to accounting or financial analyst roles by obtaining accounting certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracts amounts, dates, etc. from invoices and generates accounting entries
+- Automatically reconcile according to preset rules and flag anomalous transactions
+- Generate standard-format bills and reports in batches
+- Automatically send electronic bills and track payment status
+- Regularly clean and archive historical billing data
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer payment patterns and optimize debt collection strategies
+- Quick retrieval and interpretation of historical billing disputes via natural language processing
+- Uses machine learning to identify potential fraud or abnormal invoices
+- Use predictive models to estimate cash flow and bad debt risk
+
+**Human moat:**
+
+- Handling complex cross-department billing disputes and special rule adjustments
+- Handling unstructured billing data (e.g., handwritten notes, scanned documents)
+- Conduct manual compliance reviews and sign-offs as per regulatory requirements
+- Maintaining personal relationships and trust with key clients
+
+**Skills to build:**
+
+- Advanced financial software functions (e.g., SAP, Oracle)
+- Database queries (SQL) and automation scripts (Python)
+- Data analysis and visualization (Tableau, Power BI)
+- Accounting regulations and compliance knowledge (e.g., GAAP, SOX)
+- Communication and problem-solving skills (handling disputes)
+- AI tool applications (e.g., intelligent OCR, RPA platforms)
+
+**Key growth areas:**
 
 - Automation risk
 - Declining demand
@@ -63,61 +97,63 @@ Compile, compute, and record billing, accounting, statistical, and other numeric
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少用于该职业，因通常不要求学士学位，不符合专业职业定义。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely used for this occupation, as it typically does not require a bachelor's degree and does not qualify as a professional occupation. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Billing and Posting Clerks？**
-- 注重细节、善于处理数字的人员
-- 寻求稳定入门级行政工作的人
-- 希望在办公环境中从事重复性任务者
+**Who is suited**
+- Detail-oriented individuals good with numbers
+- People seeking stable entry-level administrative work
+- Those who prefer repetitive tasks in an office environment
 
-**谁不适合学Billing and Posting Clerks？**
-- 希望高薪或快速晋升的人
-- 寻求长期职业安全（受自动化威胁）的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- Those seeking long-term job security (threatened by automation)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for billing and posting clerks?**
+A: According to May 2023 US Bureau of Labor Statistics data, the median annual wage is about $39,000, with the lowest 10% below $28,000 and the highest 10% above $55,000.
+
+**Q: Can international workers pursue this occupation via an H-1B visa?**
+A: Very difficult. This occupation typically does not require a bachelor's degree, does not meet H-1B specialty occupation criteria. Employer-sponsored green card (PERM) is also extremely hard to obtain.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Billing and Posting Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for billing and posting clerks?**
-答：According to BLS OEWS data (May 2023), median annual wage is about $39,000. Lowest 10% earn below $28,000, highest 10% exceed $55,000.
-
-**问：Can internationals work in this occupation via H-1B visa?**
-答：Very difficult. The occupation typically does not require a bachelor's degree, failing H-1B specialty occupation criteria. Employer-sponsored green card (PERM) is also extremely difficult.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

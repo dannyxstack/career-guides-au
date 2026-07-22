@@ -1,61 +1,94 @@
-# Master Fisher（Master Fisher）职业分析 · 新西兰
+# Master Fisher — career analysis · New Zealand
 
-**职业代码：231211 – Master Fisher。**
+**Occupation code: 231211 (ANZSCO)**
 
-In New Zealand, a Master Fisher commands and manages fishing vessels, overseeing safe navigation and compliant harvesting. It offers immigration via AEWV or Green List Tier 2 (work to residence), with job opportunities in coastal regions.
+In New Zealand, a fishing vessel master is responsible for driving and managing fishing boats, directing fishing operations, ensuring navigation safety and catch compliance. This occupation can apply for immigration through the Accredited Employer Work Visa (AEWV) or Green List Tier 2 (work to residence), with job opportunities concentrated in coastal areas.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 渔业学徒/海员培训 | 2年 | $5,000~$15,000（通过理工学院或私立培训机构，包括海上实习） |
-| 海员执照（SKIPPER） | 1-2年 | $3,000~$8,000（可选，用于提升为渔业船长资格） |
-| 渔业船长执照 | 6-12个月 | $4,000~$12,000（通过Maritime New Zealand认证课程） |
+| Fisheries apprenticeship/seafarer training | 2 years | $5,000~$15,000 (Through polytechnics or private training institutions, including sea placements) |
+| Skipper license (SKIPPER) | 1-2 years | $3,000~$8,000 (Optional, used for upgrading to a fishing master qualification) |
+| Fishing vessel master license. | 6–12 months | $4,000~$12,000 (Through Maritime New Zealand accredited courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰海员执照（Skipper Restricted Limits） | Maritime New Zealand | 必备 | 用于主导沿海渔船，需行业经验 |
-| 渔业船长资格（Master Fisher Certificate） | Maritime New Zealand | 必备 | 用于主导大型渔船，需高级考试 |
-| 国际海事法规与安全培训（STCW） | 认可培训机构 | 必备 | 包括海上安全、消防、急救等 |
-| 英语语言能力（IELTS 6.0） | 移民局 | 可选 | 用于技术移民签证申请 |
+| New Zealand Seafarer License (Skipper Restricted Limits) | Maritime New Zealand | Required | Used to operate coastal fishing vessels, requires industry experience |
+| Master Fisher Certificate | Maritime New Zealand | Required | Used to lead large fishing vessels; requires advanced examination |
+| International Maritime Regulations and Safety Training (STCW) | Registered Training Organisation (RTO) | Required | Includes maritime safety, firefighting, first aid, etc. |
+| English language proficiency (IELTS 6.0) | Immigration department | Optional | For skilled migration visa applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰渔业是经济重要支柱，渔业船长需求稳定，尤其在南岛和北岛沿海地区。预计未来五年岗位缓慢增长，因出口市场需求及替代退休人员。政府支持可持续捕捞和海洋养殖，可能创造新职位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's fishing industry is a key economic pillar, with stable demand for fishing vessel masters, especially in coastal areas of the South Island and North Island. Job growth is expected to be slow over the next five years, driven by export market demand and replacement of retirees. Government support for sustainable fishing and marine aquaculture may create new positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 小型渔船或助理船长 |
-| 中级（3-6年） | $75,000~$95,000 | 中大型渔船船长 |
-| 高级（6年以上） | $100,000~$130,000 | 远洋或深海渔船、船队管理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Small fishing vessel or assistant captain |
+| Mid-level (3–6 years) | $75,000~$95,000 | Master of medium to large fishing vessels |
+| Senior (6+ years) | $100,000~$130,000 | Management of distant-water or deep-sea fishing vessels and fleets |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★☆☆）。** 职业晋升路径：从船员升至船长（需海员执照和渔业经验），之后可担任大型渔船船长、船队经理或渔检员。持证和海事管理知识是晋升关键，也可转向海洋养殖管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core responsibilities of a fishing boat captain—navigation, fishing decisions, and safety—are difficult to fully replace with AI, but AI significantly enhances efficiency in tasks such as weather analysis, fish detection, and compliance recording; entry-level positions (e.g., deckhands) face a risk of automation compression.
+
+Career progression: from crew to captain (requires seafarer license and fishing experience), then can become captain of large fishing vessels, fleet manager, or fisheries inspector. Certification and maritime management knowledge are key for advancement; can also transition to marine farming management.
+
+**Tasks most exposed to AI:**
+
+- Fish localization and tracking: AI image recognition + sonar data analysis replaces manual judgment.
+- Voyage data recording and compliance reporting: automated logs and electronic reporting systems.
+- Weather forecasting and route optimization: AI models automatically generate optimal flight paths.
+- Catch classification and counting: computer vision automatically identifies species and size.
+
+**Where AI augments the role:**
+
+- Decision support: AI integrates ocean data, regulations, and market information to assist decisions on fishing timing and location.
+- Safety monitoring: AI anomaly detection warns of equipment failures, severe weather or collision risks.
+- Crew management: AI scheduling and performance analysis to improve team efficiency.
+- Resource management: AI models predict fishery resource sustainability and optimize quota usage.
+
+**Human moat:**
+
+- Emergency decision-making: e.g., mechanical failure or crew casualties require human judgment and leadership.
+- Crew management and training: interpersonal communication, team cohesion, and on-site guidance.
+- Experiential fishing intuition: tacit knowledge of sea conditions and fish behavior is hard to quantify.
+- Compliance and ethical responsibility: The captain has ultimate legal responsibility for safety and environmental protection.
+
+**Skills to build:**
+
+- Use of AI-assisted decision tools: such as fish forecasting software, route optimization systems.
+- Data analysis and interpretation: Understanding ocean and meteorological data output by AI.
+- Digital compliance system operation: electronic logs, reports, and monitoring equipment.
+- Drone and automated equipment maintenance: basic mechanical and electronic repairs.
+- Crew digital literacy training: helping teams adapt to new technology.
+- Sustainability and Marine Science: Understand AI resource management models.
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -64,68 +97,67 @@ In New Zealand, a Master Fisher commands and manages fishing vessels, overseeing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：有利（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 符合绿色清单Tier 2职业，工作2年后可申请居留，需认证雇主和时薪至少中位数（约$29.66/小时） |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，最长3年，可续签，工作24个月后可能转居留（需满足绿色清单要求） |
-| Subclass SMC（Skilled Migrant Category） | 若分数达标（6分制），可通过技术移民申请居留，需相关工作经验和offer |
+| Subclass Green List T2 (Green List Work to Residence) | Eligible for Green List Tier 2 occupation, can apply for residence after 2 years of work, requires accredited employer and hourly wage at least median (approx. $29.66/hour) |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, up to 3 years, renewable, may transition to residence after 24 months of work (subject to Green List requirements) |
+| Subclass SMC (Skilled Migrant Category) | If you meet the points threshold (6 points system), you can apply for permanent residency through skilled migration, requiring relevant work experience and a job offer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Master Fisher？**
-- 有丰富航海经验或渔民背景者
-- 能适应海上长期工作，身体健康且具备领导力
-- 愿意在新西兰沿海地区（如尼尔森、因弗卡吉尔）定居发展
-
-**谁不适合学Master Fisher？**
-- 对航海晕船或无法长时间离家人士
-- 缺乏海事安全意识和英语沟通能力者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with extensive sailing experience or a fishing background
+- Able to adapt to long-term offshore work, physically fit, and possess leadership skills
+- Willingness to settle and develop in New Zealand coastal regions (e.g., Nelson, Invercargill)
+
+**Who is not suited**
+- For those prone to seasickness or unable to be away from family for long periods.
+- Those lacking maritime safety awareness and English communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary of a fishing vessel captain in New Zealand?**
+A: Junior captain: ~NZD 55k-70k, mid-level 75k-95k, senior 100k-130k; higher with experience or advanced certification.
+
+**Q: Can a fishing boat captain immigrate to New Zealand?**
+A: Yes, this occupation is on the Green List Tier 2. After 2 years of qualifying work, you can apply for residency, or through skilled migration (6-point system). Requires employer sponsorship and meeting the salary threshold.
+
+**Q: What licenses are required for a New Zealand fishing vessel master?**
+A: At least a New Zealand Skipper Restricted Limits license is required for coastal fishing vessels; Master Fisher Certificate is needed for large fishing vessels, along with STCW safety training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 较难（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定增长（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 有利（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Master Fisher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Master Fisher in New Zealand?**
-答：Entry-level: NZ$55,000-$70,000; mid-level: NZ$75,000-$95,000; senior: NZ$100,000-$130,000. Experience and advanced certificates increase earnings.
-
-**问：Can a Master Fisher immigrate to New Zealand?**
-答：Yes, it's on the Green List Tier 2. After 2 years of qualifying work, you can apply for residence, or via Skilled Migrant Category (6-point system). Employer sponsorship and salary threshold required.
-
-**问：What licenses are required to become a Master Fisher in New Zealand?**
-答：At minimum, a Skipper Restricted Limits license for coastal vessels. For larger vessels, a Master Fisher Certificate is needed. STCW safety training is also mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

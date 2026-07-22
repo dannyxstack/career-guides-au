@@ -1,68 +1,98 @@
-# 环境工程师（Environmental Engineer）职业分析 · 澳大利亚
+# Environmental Engineer — career analysis · Australia
 
-**职业代码：233915 – Environmental Engineer。**
+**Occupation code: 233915 (ANZSCO)**
 
-环境工程师评估和减轻工程项目对环境的影响，负责水处理、废物管理、污染修复、环境影响评估（EIA）和气候变化适应工程。澳洲可再生能源转型、矿山修复义务和ESG监管趋严驱动需求增长，是最契合澳洲可持续发展战略的工程职业。
+Environmental engineers assess and mitigate the environmental impact of engineering projects, covering water treatment, waste management, pollution remediation, environmental impact assessment (EIA), and climate change adaptation engineering. Australia's renewable energy transition, mine rehabilitation obligations, and tightening ESG regulations are driving demand growth, making this the engineering career most aligned with Australia's sustainability strategy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Environmental Engineering（荣誉，4年） | 4年（全日制） | $30,000~$185,000（或 Civil/Chemical Engineering + 环境专业方向；4年荣誉学位是EA评估要求） |
-| Engineers Australia（EA）技能评估 | 3~12个月 | $770~$3,000（189/190签证必须，约 $770 申请费） |
-| CPEng（Chartered Professional Engineer） | 4~7年工作经验后申请 | $1,500~$5,000（高级环境工程师的专业注册认证） |
+| Bachelor of Environmental Engineering (Honours, 4 years) | 4 years (full-time) | $30,000~$185,000 (Or Civil/Chemical Engineering with an environmental specialisation; a 4-year honours degree is required for EA assessment) |
+| Engineers Australia (EA) skills assessment | 3–12 months | $770~$3,000 (Required for 189/190 visa; approximately $770 application fee) |
+| CPEng（Chartered Professional Engineer） | Apply after 4–7 years of work experience | $1,500~$5,000 (Professional registration and certification for senior environmental engineers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Environmental Engineering (Honours) | 认可大学（EA认证） | 必备 | 4年荣誉环境工程学位是EA评估的基础 |
-| Engineers Australia（EA）技能评估 | Engineers Australia | 可选 | 189/190签证技术移民必须 |
-| CPEng（Chartered Professional Engineer） | Engineers Australia | 可选 | 环境工程高级岗和独立执业的重要资质 |
-| Green Star AP / LEED AP | GBCA / USGBC | 可选 | 可持续建筑和绿色项目认证，环境工程师的加分项 |
+| Bachelor of Environmental Engineering (Honours) | Accredited university (EA-accredited) | Required | A four-year honours degree in environmental engineering is the foundation for EA assessment |
+| Engineers Australia (EA) skills assessment | Engineers Australia | Optional | Required for skilled migration via 189/190 visa |
+| CPEng（Chartered Professional Engineer） | Engineers Australia | Optional | An important qualification for senior environmental engineering roles and independent practice |
+| Green Star AP / LEED AP | GBCA / USGBC | Optional | Sustainable building and green project certification — an advantage for environmental engineers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 18,000。JSA 预测环境工程师至2035年就业增长约12%。联邦气候行动立法（Carbon Neutral 2050目标）和矿山关闭修复义务是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. JSA projects approximately 12% employment growth for environmental engineers to 2035. Federal climate action legislation (Carbon Neutral 2050 target) and mine closure rehabilitation obligations are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,800 个 | 全国，含环境工程师、EIA顾问、水务工程师和矿山修复工程师岗 |
-| Indeed | 400~1,200 个 | 含政府环保机构和顾问公司岗 |
-| LinkedIn | 800~2,000 个 | ESG顾问公司和资源企业直招 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生环境工程师（0~2年） | $65,000~$82,000 | 应届生起薪 |
-| 中级环境工程师（2~7年） | $85,000~$115,000 | SEEK 区间 $95k~$115k；Indeed 平均 $94,387（2026） |
-| 高级环境工程师（7~15年，CPEng） | $115,000~$155,000 | ESG/气候顾问专精薪资溢价明显 |
-| 环境总监 / ESG负责人（15年+） | $155,000~$220,000 | 大型矿业公司/能源公司ESG总监 |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate Environmental Engineer (0–2 years) | $65,000~$82,000 | Graduate starting salary |
+| Mid-level environmental engineer (2–7 years) | $85,000~$115,000 | SEEK range $95k–$115k; Indeed average $94,387 (2026) |
+| Senior Environmental Engineer (7–15 years, CPEng) | $115,000~$155,000 | Noticeable salary premium for ESG/climate consulting specialisation |
+| Environmental director / ESG lead (15+ years) | $155,000~$220,000 | ESG Director at a large mining/energy company |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** ESG合规报告和气候风险评估是2025-2026年增长最快的环境工程子领域，资产管理公司和矿业公司对此需求急剧增加。水务环境工程（净水/污水）是稳定的常绿方向。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
+
+ESG compliance reporting and climate risk assessment are the fastest-growing environmental engineering sub-fields in 2025–2026, with sharply increasing demand from asset managers and mining companies. Water and environmental engineering (water treatment/wastewater) remains a stable and evergreen pathway.
+
+**Tasks most exposed to AI:**
+
+- Environmental monitoring data collection and preliminary analysis
+- Standard chapter writing for environmental impact assessment reports
+- Routine document generation for environmental compliance inspections
+- Parameter Tuning and Running of Pollution Dispersion Models
+- Progress tracking and report updates in project management
+
+**Where AI augments the role:**
+
+- Using AI for pollutant dispersion simulation and risk assessment
+- Optimizing water treatment process parameters using machine learning
+- Using natural language processing for rapid review of regulations and environmental impact reports
+- Combine remote sensing AI for ecological impact monitoring and early warning
+- Testing field planning solutions using AI-powered digital twins
+
+**Human moat:**
+
+- On-site field inspection and pollution source identification
+- Communication and negotiation with stakeholders (government, community)
+- Cross-disciplinary solution design for complex environmental issues
+- Take responsibility for signing environmental impact reports (registered engineer)
+- Development and application of innovative repair technologies
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning basics
+- GIS and remote sensing AI (e.g., ArcGIS Pro, Google Earth Engine).
+- AI integration of environmental modeling software (EFDC, MODFLOW)
+- Integration of project management with AI tools (e.g., Asana, Jira)
+- Reading environmental regulations and AI-assisted compliance tools
+- Digital twin and IoT data platform operation
+
+**Key growth areas:**
 
 - Climate Change Adaptation & Infrastructure Resilience
 - Renewable Energy Environmental Assessment
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，环境工程师为短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，QLD/WA资源/环境项目多 |
-| Subclass 491（Skilled Work Regional） | 偏远地区环境项目，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; environmental engineers are an in-demand occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; QLD/WA offer many resources and environmental projects |
+| Subclass 491 (Skilled Work Regional) | Regional environmental project; add 15 points. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学环境工程师？**
-- 持有环境工程/土木工程/化学工程学位（4年荣誉）
-- 有EIA（环境影响评估）、水务或污染修复实际项目经验
-- 英语能力达到 IELTS 6.0+（EA评估和政府报告要求）
-- 有ESG报告或气候变化适应工程经验（2025-2030年溢价方向）
-- 愿意接受现场工作（野外调查、矿山现场等）
-
-**谁不适合学环境工程师？**
-- 非工程/环境科学学位，无法通过EA评估
-- 不愿意接受顾问行业差旅多的工作节奏
-- 对可持续发展和环境保护缺乏热情（影响工作积极性和晋升）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds an Environmental/Civil/Chemical Engineering degree (4-year honours)
+- Hands-on project experience in EIA (Environmental Impact Assessment), water management, or contamination remediation
+- English proficiency of IELTS 6.0+ (required for EA assessment and government reporting)
+- Experience in ESG reporting or climate change adaptation engineering (premium direction for 2025–2030)
+- Willingness to work on-site (field surveys, mine sites, etc.)
+
+**Who is not suited**
+- Non-engineering/environmental science degree; unable to pass the EA assessment
+- Unwilling to accept the heavy travel demands typical of the consulting industry
+- Lack of genuine interest in sustainability and environmental protection (affects work motivation and career progression)
+
+---
+
+## 8. FAQ
+
+**Q: How much do environmental engineers earn in Australia?**
+A: Mid-level approx. $85,000–$115,000 (Indeed average $94,387); senior/ESG specialist approx. $115k–$155k; ESG director approx. $155k–$220k.
+
+**Q: Is it easy to find work as an environmental engineer in Australia?**
+A: Relatively easy. Seek lists approximately 600–1,800 positions, with ongoing growth driven by climate legislation, mine rehabilitation obligations and ESG reporting requirements; specialists in niche areas are in short supply.
+
+**Q: Is a Chinese environmental engineering qualification recognised in Australia?**
+A: Skills assessment through Engineers Australia (EA). Degrees in Environmental Engineering/Civil Engineering from China are typically assessable by EA, application fee approx. AUD 770.
+
+**Q: Will environmental engineers be replaced by AI?**
+A: Lower risk. AI assists with environmental modelling and data analysis, but field surveys, regulatory compliance judgements, and community consultation (FPIC) remain irreplaceable. The sustainability sector itself is a key environmental oversight area for the AI industry.
+
+**Q: Is there an age limit for environmental engineers in Australia?**
+A: None. Senior environmental engineers (aged 40–55) are highly valued in ESG and mine closure projects at major mining and energy companies.
+
+**Q: What qualifications do environmental engineers need in Australia?**
+A: A 4-year honours degree in Environmental Engineering, Civil Engineering or Chemical Engineering is the basic requirement for EA assessment. An Environmental Science (non-engineering) degree can be used for environmental consultant roles, but the salary and qualification pathway differs from that of an engineer.
+
+**Q: Is it difficult to become a certified environmental engineer in Australia (for migration purposes)?**
+A: Moderate difficulty. EA assessment takes 3–12 months with a relatively high pass rate; 189/190 EOI scores are favourable for experienced applicants.
+
+**Q: Which is better for Australian migration — environmental engineer or civil engineer?**
+A: Civil engineers have a larger job market (Seek ~4,000 vs environmental ~1,200) with comparable salaries; environmental engineers are better aligned with Australia's climate policy, and the ESG space is a long-term growth area. Those with an environmental background should choose environmental engineering; those with structural or geotechnical backgrounds should choose civil engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 环境工程师薪资 $95k~$115k（2026） |
-| Indeed AU | 环境工程师平均薪资 $94,387（2026） |
-| Engineers Australia | EA技能评估和CPEng认证 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-环境工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲环境工程师工资多少？**
-答：中级约 $85,000~$115,000（Indeed均值 $94,387）；高级/ESG专精约 $115k~$155k；ESG总监约 $155k~$220k。
-
-**问：澳洲环境工程师容易找工作吗？**
-答：较容易。Seek 挂牌约 600~1800 个职位，气候立法+矿山修复义务+ESG报告需求持续驱动增长，专精方向工程师供不应求。
-
-**问：中国环境工程学历澳洲认可吗？**
-答：通过 Engineers Australia（EA）技能评估。中国环境工程/土木工程背景的学历通常能通过EA评估，约 $770 申请费。
-
-**问：环境工程师会被AI替代吗？**
-答：风险较低。AI辅助环境建模和数据分析，但野外调查、监管合规判断和社区咨询（FPIC）不可替代。可持续发展领域本身就是AI产业的环保监管方向。
-
-**问：澳洲环境工程师有年龄限制吗？**
-答：无。资深环境工程师（40~55岁）在大型矿业/能源公司的ESG和矿山关闭项目中备受重视。
-
-**问：澳洲环境工程师需要什么学历？**
-答：4年荣誉环境工程/土木工程/化学工程学位是EA评估基本要求。环境科学（非工程）学位可以从事环境顾问岗，但薪资和资质路径与工程师有所不同。
-
-**问：澳洲环境工程师认证（移民）难吗？**
-答：难度中等。EA评估周期3~12个月，通过率较高；189/190 EOI分数对有经验者友好。
-
-**问：环境工程师和土木工程师哪个更适合移民澳洲？**
-答：土木工程师就业量更大（Seek ~4000 vs 环境 ~1200），薪资相当；环境工程师更契合澳洲气候政策，ESG方向是长期增长高地。有环境专业背景者选环境工程师，有结构/岩土背景者选土木工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

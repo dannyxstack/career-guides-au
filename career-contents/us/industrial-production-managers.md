@@ -1,61 +1,97 @@
-# Industrial Production Managers（Industrial Production Managers）职业分析 · 美国
+# Industrial Production Managers — career analysis · United States
 
-**职业代码：11-3051 – Industrial Production Managers。**
+**Occupation code: 11-3051 (SOC)**
 
-Plan, direct, and coordinate work activities and resources for manufacturing products to meet cost, quality, and quantity goals.
+Plan, direct, and coordinate activities and resources to manufacture products, ensuring cost, quality, and quantity requirements are met.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（州内公立大学费用较低，私立较高） |
-| 硕士学位（MBA） | 2年 | $50,000~$150,000（名校费用更高） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (In-state public universities have lower tuition; private ones are higher) |
+| Master's degree (MBA) | 2 years | $50,000~$150,000 (Elite schools have higher costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业工程或相关领域学士学位 | 大学 | 必备 | 通常要求 |
-| 精益六西格玛绿带或黑带 | 认证机构 | 可选 | 提升竞争力 |
-| 项目管理专业（PMP） | PMI | 可选 | 非必需但有益 |
+| Bachelor's degree in Industrial Engineering or related field | University | Required | Usually required |
+| Lean Six Sigma Green Belt or Black Belt | Certification bodies | Optional | Boosting competitiveness |
+| Project Management Professional (PMP) | PMI | Optional | Not required but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。美国制造业复苏及自动化升级推动需求，预计2023-2033年就业增长约5%，与平均水平持平。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. US manufacturing recovery and automation upgrades drive demand, with employment growth estimated at about 5% from 2023 to 2033, on par with the average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 小公司或非制造业较低 |
-| 中级（4-9年） | $85,000~$115,000 | 中等规模企业 |
-| 高级（10年以上） | $120,000~$160,000 | 大型企业或技术密集型行业 |
+| Median salary | $126,060 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Lower in small companies or non-manufacturing sectors |
+| Intermediate (4-9 years) | $85,000~$115,000 | Medium-sized enterprises |
+| Senior (10+ years) | $120,000~$160,000 | Large enterprises or technology-intensive industries |
+| average salary | $134,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从生产主管或工程师晋升，积累经验后可升任工厂经理或运营总监，需持续学习精益生产等技术。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The supervisory and decision-making core of manufacturing managers remains human-led, but AI will significantly automate skilled tasks like production scheduling and quality inspection; entry-level roles may decrease due to remote monitoring tech, but demand for human-machine collaboration management skills increases.
+
+Typically promoted from production supervisor or engineer; with experience can advance to plant manager or operations director, requiring continuous learning of lean production, etc.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and resource allocation optimized in real-time by AI algorithms, replacing manual planning
+- Visual inspection in quality control, replaced by computer vision systems
+- Inventory monitoring and replenishment, automated by IoT and predictive analytics
+- Routine report generation and data analysis, automatically output by AI dashboards.
+- Equipment maintenance reminders and fault diagnosis via sensors and machine learning predictions.
+
+**Where AI augments the role:**
+
+- Production bottleneck analysis and abnormal root cause investigation, AI provides multi-dimensional data support
+- Simulation and effect prediction of lean improvement projects.
+- Supply chain risk warning and response strategy generation.
+- Personalized recommendations for employee skill improvement programs (based on AI assessment).
+- Cross-departmental communication priority sorting (AI-assisted decision-making)
+
+**Human moat:**
+
+- Comprehensive decision-making and emergency command during sudden production interruptions
+- Cross-team, cross-department conflict resolution and team morale building
+- Custom non-standard solution design for client-specific needs
+- Human judgment and accountability in safety compliance
+- Intuition and experiential judgment for hidden issues on production floor
+
+**Skills to build:**
+
+- Data analysis and AI tool applications (e.g., Tableau, Python, AI scheduling software)
+- Basic principles and operation of IoT and Industry 4.0 systems.
+- Lean management and agile production methodologies
+- Digital transformation project management and change management
+- Human-machine collaboration team leadership
+- Basic programming skills (Python or R)
+
+**Key growth areas:**
 
 - Advanced Manufacturing
 - Lean Production
@@ -64,67 +100,66 @@ Plan, direct, and coordinate work activities and resources for manufacturing pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位及以上，雇主担保，每年配额竞争激烈 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国公司内部调动，适合有海外关联公司经验者 |
-| Subclass EB-2/EB-3（EB-2/EB-3 Employment-Based Green Card） | 需PERM劳工认证，排期较长 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大或墨西哥公民，需符合特定职位要求 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or above, employer sponsorship, and annual quota competition |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within multinational companies, suitable for those with experience at overseas affiliates |
+| Subclass EB-2/EB-3 (EB-2/EB-3 Employment-Based Green Card) | Requires PERM labor certification with long waiting times |
+| Subclass TN (TN NAFTA Professional) | Open only to Canadian or Mexican citizens, must meet specific job requirements |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Production Managers？**
-- 喜欢管理和协调团队工作
-- 具备工程或制造背景
-- 善于解决问题和优化流程
-
-**谁不适合学Industrial Production Managers？**
-- 不善与人沟通或不喜欢领导角色
-- 不愿承担生产压力或责任
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy managing and coordinating team work
+- Have an engineering or manufacturing background
+- Good at problem-solving and optimizing processes
+
+**Who is not suited**
+- People who are not good at communication or dislike leadership roles
+- People unwilling to take on production pressure or responsibility.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Industrial Production Manager?**
+A: According to BLS data, the 2023 median annual salary for US industrial production managers is approximately $108,000, but varies significantly by experience and industry.
+
+**Q: What immigration pathways exist for foreigners to work as industrial production managers in the United States?**
+A: Common pathways include H-1B work visa (requires bachelor's and employer sponsorship) and EB-2/EB-3 employment-based green cards (requires PERM labor certification). Multinational managers may use L-1 visa to green card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Industrial Production Managers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Industrial Production Manager?**
-答：According to BLS, the median annual wage for industrial production managers in 2023 was about $108,000, varying by experience and industry.
-
-**问：What are the immigration pathways for a foreigner to work as an Industrial Production Manager in the US?**
-答：Common routes include H-1B visa (requires bachelor's degree and employer sponsorship) and EB-2/EB-3 green card (with PERM labor certification). L-1 visa is available for intracompany transferees in managerial roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

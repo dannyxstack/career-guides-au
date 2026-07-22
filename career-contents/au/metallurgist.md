@@ -1,59 +1,92 @@
-# Metallurgist（Metallurgist）职业分析 · 澳大利亚
+# Metallurgist — career analysis · Australia
 
-**职业代码：234912 – Metallurgist。**
+**Occupation code: 234912 (ANZSCO)**
 
-Metallurgists study the properties, processing and extraction of metals and alloys, developing improved materials for industrial manufacturing. They work in mining, metalworking, aerospace, automotive and other industries.
+Metallurgists study the properties, processing, and extraction of metals and alloys, developing improved materials for industrial manufacturing. Work in mining, metalworking, aerospace, automotive, and other industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $30,000~$45,000（以澳洲大学为例，国际学生学费约3-4.5万澳元/年） |
-| 硕士（研究型） | 2年 | $35,000~$50,000（研究型硕士学费略高，适合科研方向） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (For Australian universities, international student tuition approximately AUD 30,000-45,000 per year) |
+| Master's (Research) | 2 years | $35,000~$50,000 (Research master's degree slightly higher tuition, suitable for research direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士（冶金/材料工程） | 澳洲工程师协会（Engineers Australia）认证课程 | 必备 | 完成认证课程是成为职业工程师的基础 |
-| 特许专业工程师（CPEng） | 澳洲工程师协会（Engineers Australia） | 可选 | 非强制但显著提升职业竞争力 |
-| 技能评估 | 澳洲工程师协会（Engineers Australia） | 必备 | 技术移民必需的职业评估 |
+| Bachelor of Engineering (Metallurgical/Materials Engineering) | Accredited course by Engineers Australia | Required | Completing an accredited course is the foundation to becoming a professional engineer |
+| Skills assessment | Engineers Australia | Required | Mandatory skills assessment for skilled migration |
+| Chartered Professional Engineer (CPEng) | Engineers Australia | Optional | Not mandatory but significantly enhances career competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。澳洲矿业和先进制造业持续发展，对冶金学家的需求稳定。新南威尔士州、西澳大利亚州和昆士兰州的资源项目较多。未来五年就业增长预计为中等水平。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. Australia's mining and advanced manufacturing sectors continue to develop, maintaining stable demand for metallurgists. Resource projects are concentrated in New South Wales, Western Australia and Queensland. Employment growth over the next five years is expected to be moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 毕业生起薪约6.5-8万澳元 |
-| 中级（3-8年） | $90,000~$120,000 | 经验丰富的冶金师薪资范围 |
-| 高级（8年以上） | $130,000~$160,000 | 高级或管理岗位薪资可达13-16万澳元 |
+| Median salary | $96,096 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Graduate starting salary around AUD 65,000-80,000. |
+| Mid-level (3–8 years) | $90,000~$120,000 | Salary range for experienced metallurgist |
+| Senior (8+ years) | $130,000~$160,000 | Senior or management roles can reach 130-160k AUD |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级冶金师可从实验室技术员或助理岗位起步，积累经验后可晋升为高级冶金师或团队主管。也可向研究科学家、项目管理或技术管理方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Metallurgists' core analysis, experimental design, and cross-departmental collaboration are difficult to fully replace by AI, but materials databases and simulation tools will greatly improve efficiency and reduce repetitive data screening roles.
+
+Junior metallurgists can start as lab technicians or assistants, gain experience, and advance to senior metallurgist or team supervisor. They can also develop in research science, project management, or technical management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and preliminary analysis of material test data (e.g., tensile and hardness test results)
+- Automatic recognition and defect classification of standard metallographic images
+- Systematic data mining and parameter extraction in literature reviews
+- Multi-variable parameter scanning in conventional alloy composition optimization
+
+**Where AI augments the role:**
+
+- Using AI to predict material properties (e.g., strength, corrosion resistance) to accelerate new alloy design
+- Optimizing heat treatment process parameters through combined physics simulation and data-driven models
+- Analyzing failure data through machine learning to quickly identify root causes.
+- Automatically generate reports, track progress, and create compliance documents in project management
+
+**Human moat:**
+
+- Interdisciplinary engineering intuition and creative material solution design
+- In-depth physical understanding of failure mechanisms and root cause analysis
+- Tacit knowledge in customer needs communication and custom product development
+- Responsibility for risk assessment in laboratory safety and experimental protocols
+- Long-term R&D strategy formulation and new material commercialization path planning
+
+**Skills to build:**
+
+- Python Data Analysis (Pandas, NumPy) and Scientific Computing (SciPy)
+- Materials informatics and machine learning (Materials Genome, CALPHAD data-driven)
+- Automated laboratory equipment programming and data pipeline construction
+- Finite element analysis (e.g., Abaqus) and multiphysics simulation
+- Project management and digital collaboration tools (JIRA, Confluence)
+
+**Key growth areas:**
 
 - Mining boom
 - Sustainable materials
@@ -62,69 +95,68 @@ Metallurgists study the properties, processing and extraction of metals and allo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立签证，适用于MLTSSL列表上的职业，无需州担保 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民签证，需获得州政府提名，有额外加分 |
-| Subclass 482（Skills in Demand Visa） | 临时技能短缺签证，适用于雇主担保，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主提名永居签证，直接获得永久居留权 |
+| Subclass 189 (Skilled Independent Visa) | Skilled Independent visa, applicable to occupations on the MLTSSL list, no state nomination required |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated skilled migration visa, requires state government nomination, with additional points |
+| Subclass 482 (Skills in Demand Visa) | Temporary Skill Shortage visa, suitable for employer sponsorship, can transition to 186 permanent residency |
+| Subclass 186 (Employer Nomination Scheme) | Employer-nominated permanent visa, directly grants permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metallurgist？**
-- 对金属和材料科学有浓厚兴趣的人
-- 喜欢实验和解决问题的人
-- 希望在矿业或制造业发展的工程师
-
-**谁不适合学Metallurgist？**
-- 不喜欢实验室工作或长时间面对电脑的人
-- 对工业环境或偏远地区工作不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in metals and materials science
+- People who like experimenting and solving problems
+- Engineers looking to develop in mining or manufacturing
+
+**Who is not suited**
+- People who dislike laboratory work or long hours in front of a computer
+- People not suited to industrial environments or remote locations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metallurgists?**
+A: Junior metallurgist annual salary approx AUD 65,000-80,000; mid-level approx AUD 90,000-120,000; senior or management roles up to AUD 130,000-160,000. Mining companies usually offer higher salaries and allowances.
+
+**Q: What are the pathways for metallurgists to immigrate to Australia?**
+A: Metallurgist is on the MLTSSL list and can apply for immigration through 189 Skilled Independent, 190 State Nominated, 482 Employer Sponsored, or 186 Employer Nomination. Requires EA skills assessment, IELTS usually 4 bands of 6 or higher.
+
+**Q: What is the work environment of a metallurgist like?**
+A: Metallurgists may work in laboratories, offices, or factories. Mining positions are often located in remote mining areas, requiring shifts or travel. Working conditions are safe but require strict adherence to safety protocols.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Metallurgist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metallurgists?**
-答：Entry-level metallurgists earn around AUD 65,000-80,000 per year, mid-level AUD 90,000-120,000, and senior/management roles AUD 130,000-160,000. Mining companies often offer higher salaries and allowances.
-
-**问：What are the migration pathways for metallurgists to Australia?**
-答：Metallurgist is on the MLTSSL, eligible for Skilled Independent Visa 189, State Nominated Visa 190, Temporary Skill Shortage Visa 482, or Employer Nomination Scheme 186. EA skills assessment is required, with IELTS typically 6.0 or higher.
-
-**问：What is the work environment like for metallurgists?**
-答：Metallurgists work in laboratories, offices, or industrial plants. Mining roles are often in remote mine sites, requiring shift work or travel. Conditions are safe with strict safety protocols.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

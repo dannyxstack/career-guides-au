@@ -1,62 +1,98 @@
-# Maintenance Workers, Machinery（Maintenance Workers, Machinery）职业分析 · 美国
+# Maintenance Workers, Machinery — career analysis · United States
 
-**职业代码：49-9043 – Maintenance Workers, Machinery。**
+**Occupation code: 49-9043 (SOC)**
 
-Lubricate machinery, change parts, or perform other routine machinery maintenance to keep equipment operating efficiently.
+Responsible for lubrication, replacing parts, and performing routine mechanical equipment maintenance to ensure production equipment runs smoothly, and troubleshooting simple faults.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 0 | —（通常不需要高等教育） |
-| 职业培训证书 | 6个月 | $5,000~$15,000（社区学院或技工学校课程） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（机械工程或工业维修相关） |
+| High school graduation or equivalent | 0 | $0~$0 (Usually does not require higher education.) |
+| Vocational training certificate | 6 months. | $5,000~$15,000 (Community college or trade school courses) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Mechanical engineering or industrial maintenance related) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 可选 | 通常需1-2年在职学习 |
-| 工业维护认证（可选） | 如MSSC或NCCER | 可选 | 可提升就业竞争力 |
+| High school diploma or equivalent | High school | Required | Basic entry requirements |
+| On-the-job training | Employer | Optional | Typically requires 1-2 years of on-the-job learning |
+| Industrial maintenance certification (optional) | E.g., MSSC or NCCER | Optional | Can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 96,000。2023-2033年美国就业增长约4%，自动化与制造业复苏带动需求，但部分基础岗位可能受自动化影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 96,000. US employment growth of about 4% from 2023-2033, driven by automation and manufacturing recovery, but some entry-level roles may be affected by automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 起薪较低，随经验增长 |
-| 中级（3-7年） | $44,000~$56,000 | 熟练后薪资提升明显 |
-| 高级（7年以上） | $58,000~$70,000 | 包括主管或技师岗位 |
+| Median salary | $60,850 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Starting salary is low, increases with experience. |
+| Mid-level (3–7 years) | $44,000~$56,000 | Salary increases significantly with experience |
+| Senior (7+ years) | $58,000~$70,000 | Including supervisor or technician positions |
+| average salary | $64,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级技工晋升为高级维修技师或主管，积累经验后可转向设备管理或自动化维护岗位，需持续学习新技术。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will take over some diagnostic and predictive maintenance tasks, but field operations, complex troubleshooting, and safety compliance responsibilities still rely on humans. Overall outlook is mixed.
+
+Can advance from junior technician to senior maintenance technician or supervisor; with experience, can move into equipment management or automation maintenance roles, requiring continuous learning of new technologies.
+
+**Tasks most exposed to AI:**
+
+- Fault prediction and alarm generation based on sensor data
+- Automatic scheduling and recording of routine lubrication plans
+- Automatic spare parts inventory counting and ordering
+- Automatic recording and analysis of equipment operation logs
+- Automated documentation generation for standard maintenance processes.
+
+**Where AI augments the role:**
+
+- Access maintenance step instructions overlaid on equipment via AR glasses
+- AI-assisted diagnosis of complex mechanical faults, providing lists of possible causes
+- Using digital twins to simulate maintenance plan effectiveness
+- Automatically generate maintenance reports linked to historical data.
+- Mobile terminal receives real-time remote expert guidance
+
+**Human moat:**
+
+- On-site safety judgment and emergency response skills
+- Multi-sensory (tactile, auditory, olfactory) anomaly detection
+- Flexible problem-solving in unstructured environments
+- Interpersonal communication and coordination with operators and engineers
+- Compliance record and quality audit responsibilities
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Augmented Reality (AR) maintenance tool operation
+- Basic programming and automation scripting (e.g., Python)
+- Use of digital twin and simulation software
+- Predictive maintenance system management
+- Cross-department technical communication and project management
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -65,66 +101,68 @@ Lubricate machinery, change parts, or perform other routine machinery maintenanc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职业通常不要求学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers or Unskilled） | 可尝试EB-3技术工人或非技术移民，但需雇主担保且排期较长 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到合格美国工人，过程复杂且成功率低 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as this occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers or Unskilled) | May try EB-3 skilled or unskilled worker immigration, but requires employer sponsorship and has long wait times |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate inability to find qualified US workers; process is complex and success rate low |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Maintenance Workers, Machinery？**
-- 喜欢动手操作和修理设备的人
-- 愿意在工厂或车间环境工作的人
-- 有耐心进行重复性维护工作的人
+**Who is suited**
+- People who enjoy hands-on work and repairing equipment
+- People willing to work in a factory or workshop environment
+- Patient for repetitive maintenance work
 
-**谁不适合学Maintenance Workers, Machinery？**
-- 不喜欢体力劳动或油污环境的人
-- 寻求快速晋升和高薪资的人
+**Who is not suited**
+- Those who do not like physical labor or greasy environments
+- People seeking rapid advancement and high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for mechanical maintenance workers?**
+A: Average annual salary in the US is about $48,000, entry-level around $35,000, senior can reach over $70,000, varying by region and industry.
+
+**Q: Is it easy to immigrate to the US through a work visa for this occupation?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and EB-3 green cards require employer sponsorship with long queues; generally not recommended for immigration via this path.
+
+**Q: What are the career progression paths?**
+A: Can progress from junior technician to senior maintenance technician, maintenance supervisor, or transition to automation technician, equipment management engineer, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Maintenance Workers, Machinery属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for maintenance workers, machinery?**
-答：The average annual wage in the US is about $48,000, with entry-level around $35,000 and senior up to $70,000+, varying by region and industry.
-
-**问：Is it easy to immigrate to the US through this occupation?**
-答：Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and EB-3 green card has long backlogs; immigration through this path is not recommended.
-
-**问：What are the career advancement paths?**
-答：Progress from entry-level to senior technician, maintenance supervisor, or transition to automation technician or equipment engineer.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Machine Feeders and Offbearers（Machine Feeders and Offbearers）职业分析 · 美国
+# Machine Feeders and Offbearers — career analysis · United States
 
-**职业代码：53-7063 – Machine Feeders and Offbearers。**
+**Occupation code: 53-7063 (SOC)**
 
-Feed materials into or remove materials from machines or equipment that is automatic or tended by other workers; repetitive manual labor common in manufacturing and warehousing.
+Feeding materials into or removing them from automated or worker-operated machines, repetitive physical labor, common in manufacturing and warehousing logistics.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 短期在职培训 | 1-3个月 | —（雇主提供培训，通常免费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Short-term on-the-job training | 1-3 months. | $0~$500 (Employers provide training, usually free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无正式要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证或同等学历 | 州教育部门 | 必备 | 大多数雇主的最低要求 |
-| 叉车操作证 | OSHA认证培训机构 | 可选 | 需持证操作叉车，增强就业竞争力 |
+| High school diploma or equivalent | State education department | Required | Minimum requirement for most employers |
+| Forklift operation certificate | OSHA-authorized training provider | Optional | Requires a forklift license to enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 75,000。美国就业预计保持稳定，自动化可能减少部分岗位，但物流和制造需求仍提供基础就业机会，2023-2033年增长率约-2%至2%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 75,000. US employment expected to remain stable; automation may reduce some roles, but logistics and manufacturing will still provide basic employment, with a growth rate of about -2% to 2% from 2023-2033.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$31,000 | 时薪约12-15美元 |
-| 中级（3-6年） | $31,000~$37,000 | 时薪约15-18美元 |
-| 高级（6年以上） | $37,000~$43,000 | 时薪约18-20美元 |
+| Median salary | $41,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$31,000 | Hourly wage about 12-15 USD |
+| Mid-level (3–6 years) | $31,000~$37,000 | Hourly wage about $15-$18 |
+| Senior (6+ years) | $37,000~$43,000 | Hourly wage approximately $18-20 |
+| average salary | $43,660 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★½☆☆☆）。** 通常从进料员起步，可晋升为机器操作员、生产线组长或质量检查员，部分通过培训转为维修技工或主管。
-**AI替代风险：高风险（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Machine feeders and offbearers will see significant job reduction due to automation and AI vision technology; high-risk occupation for substitution requiring urgent reskilling.
+
+Typically starts as a feeder operator, can advance to machine operator, production line leader, or quality inspector; some transition to maintenance technician or supervisor through training.
+
+**Tasks most exposed to AI:**
+
+- Automatic conveyor system with machine vision for material feeding and positioning
+- Collaborative robots automatically perform material unloading and palletizing.
+- AI vision system detects product quality in real time and rejects defective items
+- Automated scheduling system dynamically allocates materials based on production demands.
+- Smart warehousing system automatically records material in/out data.
+
+**Where AI augments the role:**
+
+- AI-assisted equipment monitoring systems can predict maintenance needs, reducing downtime
+- Augmented reality (AR) tools provide equipment operation guidance and fault troubleshooting
+- AI optimizes production scheduling and material flow coordination
+- Digital twin simulates material flow to assist process improvement
+- Smart wearable devices monitor worker fatigue to enhance safety.
+
+**Human moat:**
+
+- Unconventional troubleshooting skills (e.g., material jams, equipment abnormalities)
+- Decision-making authority for manual intervention and emergency shutdown of automated systems
+- Experience in manual trial runs and debugging during new product/non-standard part introduction
+- Ability to switch between processes flexibly in high-variety low-volume production
+- Team collaboration and on-site coordination skills (e.g., communicating with maintenance and quality inspection)
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (e.g., UR, Fanuc CRX)
+- Basic operation and parameter adjustment of machine vision systems
+- PLC and HMI basics (able to read simple ladder diagrams and touch screen interfaces)
+- Data analysis skills (monitoring OEE, yield, etc.)
+- Lean production and continuous improvement methods (e.g., Six Sigma)
+- Safety compliance knowledge (OSHA standards, automation safety)
+
+**Key growth areas:**
 
 - Automation displacement
 - Manufacturing demand
@@ -63,65 +99,67 @@ Feed materials into or remove materials from machines or equipment that is autom
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 用于临时非农业工人，但此职业通常不满足技术性要求，雇主很难申请。 |
-| Subclass Green Card (EB-3)（Employment-Based Immigration: Third Preference） | 通过PERM劳工证申请绿卡，但该职业被归类为低技能，几乎无企业为这类岗位提交PERM申请。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | For temporary non-agricultural workers, but this occupation usually does not meet skilled requirements, making employer applications difficult. |
+| Subclass Green Card (EB-3) (Employment-Based Immigration: Third Preference) | Applying for a green card through PERM labor certification, but this occupation is classified as low-skilled, so almost no companies submit PERM applications for such positions. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Machine Feeders and Offbearers？**
-- 能承受重复性体力劳动的人
-- 不需要高学历但想快速进入制造业的人
-- 愿意从事倒班工作的人
+**Who is suited**
+- People who can endure repetitive physical labor
+- People who do not need a high degree but want to quickly enter manufacturing.
+- People willing to work shift work
 
-**谁不适合学Machine Feeders and Offbearers？**
-- 寻求高薪或职业发展空间的人
-- 无法适应高噪音、重复性工作环境的人
+**Who is not suited**
+- People seeking high salary or career development opportunities
+- Those who cannot adapt to high noise and repetitive work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a Machine Feeder?**
+A: The median annual salary for U.S. machine feeders is about $31,000, with entry-level positions around $25,000, mainly influenced by region and work experience.
+
+**Q: Can machine feeders immigrate to the US through work visas?**
+A: Difficult. This occupation is low-skilled; H-1B requires professional occupation, EB-3 green card needs PERM but employers rarely apply for these roles; common is short-term H-2B visa but quota is tight.
+
+**Q: Is there career progression for a machine feeder?**
+A: Limited. Usually can advance to machine operator, team leader or quality inspector, but salary growth is slow and may be replaced by automation in the long term.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 非常简单（★☆☆☆☆） |
-| 考证难度 | 无正式要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 下降（★½☆☆☆） |
-| AI替代风险 | 高风险（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Machine Feeders and Offbearers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for machine feeders and offbearers?**
-答：The median annual salary for machine feeders and offbearers in the US is about $31,000, with entry-level around $25,000, varying by location and experience.
-
-**问：Can machine feeders and offbearers immigrate to the US through work visas?**
-答：Very difficult. This is a low-skilled occupation; H-1B requires specialty occupation, and EB-3 green card requires PERM which is rarely filed for such roles. H-2B temporary visa is possible but quota-limited.
-
-**问：Is there career growth for machine feeders and offbearers?**
-答：Limited. They can advance to machine operator, team lead, or quality inspector, but salary growth is slow and automation poses long-term risk.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

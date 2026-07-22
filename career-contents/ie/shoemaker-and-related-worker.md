@@ -1,60 +1,96 @@
-# Shoemaker and Related Worker（Shoemaker and Related Worker）职业分析 · IE
+# Shoemaker and Related Worker — career analysis · Ireland
 
-**职业代码：7536 – Shoemaker and Related Worker。**
+**Occupation code: 7536 (ISCO08)**
 
-Shoemakers and related workers make, repair, and maintain footwear using hand or machine techniques such as cutting, stitching, and lasting. In Ireland, this occupation is a small craft trade focused on custom shoes, repairs, and limited local production.
+Shoe makers and related workers are responsible for making, repairing, and maintaining footwear, including cutting, stitching, and shaping by hand or machine. This occupation is part of a small craft industry in Ireland, mainly focused on custom shoes, repairs, and limited local production.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年（含在职培训） | —（学徒期间有工资，培训费用低） |
-| 短期课程 | 6个月至1年 | $1,000~$3,000（职业培训中心提供基础制鞋技能课程） |
+| Apprenticeship | 4 years (including on-the-job training). | $0~$2,000 (Wages during apprenticeship, low training costs) |
+| Short-term courses | 6 months to 1 year | $1,000~$3,000 (Vocational training centers offer basic shoemaking skills courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制鞋工学徒证书 | 爱尔兰学徒委员会（Apprenticeship Council） | 必备 | 完成4年学徒制后获得 |
-| 手工制鞋技能证书 | 爱尔兰职业教育与培训委员会（ETB） | 可选 | 可选，提升就业竞争力 |
+| Shoe-making apprentice certificate | Apprenticeship Council | Required | Obtained after completing a 4-year apprenticeship. |
+| Handmade Shoes Craft Certificate | Education and Training Boards Ireland (ETB) | Optional | Optional, enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 200。爱尔兰制鞋业规模较小，就业机会有限，主要依靠进口鞋类。职业需求稳定但增长缓慢，多服务于高端定制和维修市场。预计未来五年从业人数小幅下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 200. The Irish footwear industry is small-scale with limited employment opportunities, relying mainly on imported shoes. Job demand is stable but growing slowly, mostly serving high-end custom and repair markets. The number of workers is expected to decline slightly in the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒或入门级职位 |
-| 中级（4-7年） | $28,000~$35,000 | 熟练工匠或独立维修工 |
-| 高级（8年以上） | $35,000~$45,000 | 高级定制工匠或店主 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprentice or entry-level position |
+| Mid-level (4-7 years) | $28,000~$35,000 | Skilled artisan or independent repair worker |
+| Senior (8+ years) | $35,000~$45,000 | High-end custom craftsman or shop owner |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 制鞋工人可从学徒晋升为熟练工匠，或自主开设维修店。少数人可进入设计或生产管理岗位。行业技术更新缓慢，经验积累是关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly compress shoemaking worker roles, especially in production, but high-end customization and repair fields will still retain some demand.
+
+Shoemakers can progress from apprentice to skilled artisan or open their own repair shop. A few may move into design or production management roles. Industry technology updates slowly, and experience is key.
+
+**Tasks most exposed to AI:**
+
+- Standardized stitching and cutting processes
+- Automatic cutting of shoe upper patterns
+- Material inventory and order management
+- Dimension and defect recognition in quality inspection
+- Repetitive grinding and polishing tasks
+
+**Where AI augments the role:**
+
+- AI-assisted design of shoe lasts and shoe upper patterns
+- Robots assist in fine suturing and assembly
+- 3D Scanning and Printing for Custom Parts Manufacturing
+- Smart scheduling system optimizes workflow orders
+- AR guides complex repair steps
+
+**Human moat:**
+
+- Creativity and craftsmanship in handmade custom shoes.
+- Complex fault diagnosis and repair (e.g., unique shoe types)
+- Client communication to understand personalized needs
+- Sensory evaluation of material properties (e.g., leather quality)
+- Inheritance and innovation of traditional craftsmanship
+
+**Skills to build:**
+
+- CAD/CAM footwear design software
+- 3D scanning and printing operation
+- Smart sewing and robot collaboration
+- Leather Identification and Quality Assessment
+- Digitalisation of Maintenance and Management Services
+- Basic programming and automated system maintenance
+
+**Key growth areas:**
 
 - Declining demand
 - Import competition
@@ -63,65 +99,67 @@ Shoemakers and related workers make, repair, and maintain footwear using hand or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛通常为3万欧元以上。该职业薪资较低，难以满足许可要求。 |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟公民可在爱尔兰自由工作，无需工作许可。对非欧盟公民不适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-shortage occupations, requiring employer sponsorship; annual salary threshold is typically over €30,000. This occupation has low salary, making it difficult to meet permit requirements. |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU citizens can work freely in Ireland without a work permit. This does not apply to non-EU citizens. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoemaker and Related Worker？**
-- 对手工制作和传统工艺有热情的人
-- 喜欢独立工作、注重细节的工匠
-- 愿意接受低薪但稳定职业的人
+**Who is suited**
+- People passionate about handmade crafts and traditional techniques
+- Craftsperson who likes independent work and pays attention to detail
+- People willing to accept low salary but stable career
 
-**谁不适合学Shoemaker and Related Worker？**
-- 追求高收入或快速职业发展的人
-- 希望借助移民政策定居爱尔兰的非欧盟公民
+**Who is not suited**
+- Those pursuing high income or rapid career development
+- Non-EU citizens seeking to settle in Ireland through immigration policies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a shoemaker in Ireland?**
+A: Average annual salary is around €28,000-€35,000, with senior craftsmen or shop owners reaching €45,000, but overall below the national average wage.
+
+**Q: Can non-EU citizens immigrate to Ireland through the occupation of shoemaker?**
+A: Difficult. This occupation is not in shortage, salary is usually below the work permit threshold (30,000 euros), making it hard for non-EU citizens to obtain a General Employment Permit.
+
+**Q: What are the career development paths for a shoemaker?**
+A: Can progress from apprentice to skilled artisan or open their own repair shop. A few may move into footwear design or production management, but opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shoemaker and Related Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a shoemaker in Ireland?**
-答：The average annual salary ranges from EUR 28,000 to EUR 35,000, with experienced craftsmen or shop owners earning up to EUR 45,000, but it's below the national average.
-
-**问：Can non-EU citizens immigrate to Ireland as a shoemaker?**
-答：It's difficult. This occupation is not on the shortage list, and salaries are typically below the General Employment Permit threshold of EUR 30,000, making it hard for non-EU nationals to obtain a permit.
-
-**问：What are the career progression paths for a shoemaker?**
-答：Progression from apprentice to skilled craftsman or opening a repair shop. Few may move into footwear design or production management, but opportunities are limited.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

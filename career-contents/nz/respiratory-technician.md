@@ -1,59 +1,94 @@
-# Respiratory Technician（Respiratory Technician）职业分析 · 新西兰
+# Respiratory Technician — career analysis · New Zealand
 
-**职业代码：311217 – Respiratory Technician。**
+**Occupation code: 311217 (ANZSCO)**
 
-Respiratory technicians in New Zealand assist in diagnosing and treating respiratory diseases, operating pulmonary function testing equipment and managing oxygen therapy. Listed on the Green List, this occupation offers direct residence or work-to-residence pathways with stable demand, though NZ registration is mandatory.
+Respiratory therapy technicians in New Zealand hospitals and clinics operate lung function testing equipment, manage oxygen therapy and respiratory support, and assist doctors in diagnosing and treating respiratory diseases. This occupation is on the Green List, eligible for direct residence or work-to-residence pathways, with stable demand but requiring New Zealand registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰健康科学文凭（呼吸治疗方向） | 2年 | $15,000~$20,000（学费因院校而异，国际学生约$18,000-$24,000/年） |
-| 学士后文凭或研究生证书 | 1年 | $10,000~$15,000（适用于已有相关本科学位者） |
+| New Zealand Diploma in Health Science (Respiratory Therapy pathway) | 2 years | $15,000~$20,000 (Tuition varies by institution; international students approximately $18,000-$24,000/year) |
+| Postgraduate Diploma or Graduate Certificate | 1 year | $10,000~$15,000 (Applicable to those who already have a relevant undergraduate degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 呼吸治疗技师注册资格 | 新西兰医学科学委员会 (MCNZ) | 必备 | 必须在MCNZ注册才能执业 |
-| 国际英语语言测试系统 (IELTS) | BC或IDP | 必备 | 总分需达7.0，单项不低于6.5 |
-| ANZSCO 311221 对应评估 | 如VETASSESS | 可选 | 技术移民需通过相关职业评估 |
+| Respiratory therapist registration qualification | Medical Council of New Zealand (MCNZ) | Required | Must be registered with MCNZ to practice. |
+| International English Language Testing System (IELTS) | BC or IDP | Required | Overall score must reach 7.0, no band below 6.5 |
+| ANZSCO 311221 corresponding assessment | Such as VETASSESS | Optional | Skilled migration requires relevant occupational assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 200。新西兰呼吸治疗技师就业前景稳定，受益于老龄化人口和慢性呼吸疾病高发。主要就业于DHB公立医院和私立诊所，尤其在奥克兰、基督城等大城市需求集中。竞争适中，持续培训提升技能可增强竞争力。
+**Job demand: high (★★★★☆).** National workforce approx. 200. Employment prospects for respiratory therapy technicians in New Zealand are stable, driven by an aging population and high prevalence of chronic respiratory diseases. Mainly employed in DHB public hospitals and private clinics, with concentrated demand in major cities like Auckland and Christchurch. Competition is moderate, and continuous training can enhance competitiveness.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 应届毕业生起薪约$55k-$60k |
-| 中级（4-7年） | $65,000~$80,000 | 具经验者约$65k-$75k |
-| 高级（8年以上） | $80,000~$95,000 | 高级技师或主管可达$85k-$95k |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Fresh graduate starting salary approx. $55k-$60k |
+| Mid-level (4-7 years) | $65,000~$80,000 | Experienced workers approx $65k-$75k |
+| Senior (8+ years) | $80,000~$95,000 | Senior technician or supervisor can reach $85k-$95k |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径从初级技师逐步晋升至高级技师或呼吸治疗专家，可转向管理岗位如部门主管。持续学习呼吸治疗新技术（如无创通气）可拓展职业空间，部分人进入教育和研究领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
+
+Career progression from junior technician to senior technician or respiratory therapy specialist, with potential to move into management roles such as department head. Continuous learning of new respiratory therapy technologies (e.g., non-invasive ventilation) can expand career options; some enter education and research.
+
+**Tasks most exposed to AI:**
+
+- Routine respiratory therapy data recording and report generation
+- Routine monitoring and alarm response for basic respiratory equipment (e.g., oxygen delivery devices)
+- Development of standardized respiratory therapy protocols (based on fixed guidelines)
+- Distribution of some patient education materials and basic Q&A.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient lung function data and optimize personalized treatment plans
+- Use predictive models to identify respiratory deterioration risks early and intervene proactively
+- Use smart ventilators to assist in adjusting parameters and improve ventilation efficiency
+- Managing respiratory status of multiple patients via remote monitoring systems
+- Automatically organize medical records and clinical notes using natural language processing tools
+
+**Human moat:**
+
+- Hand-eye coordination and rapid decision-making in emergency intubation and airway management
+- Comprehensive assessment and care of patients' psychological state and social factors
+- Communication and leadership skills in cross-departmental collaboration
+- Clinical experience and intuition for treating rare or complex respiratory diseases
+- Stable performance and ethical judgment in high-pressure environments like the ICU
+
+**Skills to build:**
+
+- Master AI-assisted clinical decision tools (e.g., machine learning-based respiratory prediction models)
+- Learn advanced pulmonary function test interpretation and non-invasive ventilation techniques
+- Proficient in using Electronic Health Record (EHR) systems and data analysis tools.
+- Develop management skills for telehealth and remote monitoring
+- Strengthen patient communication and health coaching skills
+- Learn basic programming or AI concepts to understand algorithm outputs
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,69 +97,68 @@ Respiratory technicians in New Zealand assist in diagnosing and treating respira
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 若已获得新西兰注册并找到认证雇主工作，可直接申请居留，无需工作担保。 |
-| Subclass Green List T2（Work to Residence Visa） | 从事该职业工作2年后可申请居留。 |
-| Subclass SMC（Skilled Migrant Category - 6-point system） | 可通过学历、收入和注册等累积积分申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为临时工签选项，适用于尚未满足绿色清单条件的申请人。 |
+| Subclass Green List T1 (Straight to Residence Visa) | If you already have New Zealand registration and have found employment with an accredited employer, you can directly apply for residence without a job offer sponsorship. |
+| Subclass Green List T2 (Work to Residence Visa) | Apply for residency after 2 years working in this occupation. |
+| Subclass SMC (Skilled Migrant Category - 6-point system) | You can accumulate points for residency through education, income, and registration. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a temporary work visa option for applicants who do not yet meet Green List criteria. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Respiratory Technician？**
-- 对呼吸系统医学有浓厚兴趣，细心负责
-- 喜欢实践操作和直接患者接触
-- 有志通过绿色清单路径快速移民新西兰
-
-**谁不适合学Respiratory Technician？**
-- 不善于与患者沟通和应对紧急情况
-- 无法承受学业注册和语言考试压力
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in respiratory medicine, careful and responsible
+- Enjoys hands-on work and direct patient contact
+- Aspiring to immigrate to New Zealand quickly via the Green List pathway
+
+**Who is not suited**
+- Poor communication with patients and handling emergencies
+- Inability to cope with academic enrollment and language exam pressure
+
+---
+
+## 8. FAQ
+
+**Q: Are there significant salary differences for respiratory therapists in Auckland and Wellington?**
+A: Little difference between the two areas, entry-level about $55k-$65k, mid-level $65k-$80k, senior $80k-$95k; but cost of living slightly higher in Auckland.
+
+**Q: Do respiratory therapy technicians need to find an employer in advance for the T1 green list?**
+A: T1 Direct Residence does not require employer sponsorship, but requires a job offer from a New Zealand registered and accredited employer; T2 requires 2 years of work before residence.
+
+**Q: Can overseas qualifications be used directly for New Zealand registration?**
+A: Requires assessment by MCNZ, usually needing to make up some courses or pass exams; English tests are usually mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Respiratory Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do salaries for respiratory technicians differ significantly between Auckland and Wellington?**
-答：Differences are small: entry $55k-$65k, mid $65k-$80k, senior $80k-$95k; Auckland living costs are slightly higher.
-
-**问：Does a respiratory technician need a job offer for Green List Tier 1?**
-答：T1 requires a job offer from an accredited employer and NZ registration, but no employer sponsorship; T2 requires working for 2 years.
-
-**问：Can overseas qualifications be used directly for NZ registration?**
-答：They must be assessed by MCNZ; bridging courses or exams may be needed; English tests are usually mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

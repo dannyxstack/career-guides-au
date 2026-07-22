@@ -1,61 +1,97 @@
-# Dentist（Dentist）职业分析 · FR
+# Dentist — career analysis · France
 
-**职业代码：J1103 – Dentist。**
+**Occupation code: J1103 (ROME)**
 
-Dentists diagnose, prevent, and treat oral diseases and dental irregularities, performing fillings, extractions, root canals, restorations, and orthodontics. A regulated profession in France.
+Dentists are responsible for diagnosing, preventing, and treating oral diseases and dental deformities, performing procedures such as fillings, extractions, root canal treatments, restorations, and orthodontics, and are regulated professions within the French healthcare system.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 牙科专业文凭（Diplôme d'État de docteur en chirurgie dentaire） | 6年（3年基础+3年临床） | —（公立大学学费低，约200-500欧元/年；私立收费高） |
-| 牙科专科培训（DES） | 3-4年 | —（公立大学学费，可获薪酬） |
+| Professional Diploma in Dentistry (Diplôme d'État de docteur en chirurgie dentaire) | 6 years (3 years basic + 3 years clinical) | $0~$5,000 (Public universities have low tuition fees, about 200-500 euros per year; Private schools charge high fees) |
+| Dental Specialist Training (DES) | 3-4 years | $0~$3,000 (Public university tuition fees are available with salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科博士学位 | 法国大学（UFR d'odontologie） | 必备 | 需完成6年学习并通过国家考试 |
-| 法国行医执照（Ordre des chirurgiens-dentistes） | 法国牙科医师公会 | 必备 | 必须注册才能执业 |
-| 欧盟外学历认证（reconnaissance des qualifications） | 法国高等教育署及卫生局 | 必备 | 第三国牙医需通过认证考试和实习 |
+| Doctor of Dental Sciences | French University (UFR d'odontologie) | Required | Six years of study must be completed and the national exam passed |
+| French medical license (Ordre des chirurgiens-dentistes) | French Dental Association | Required | Must be registered to practice |
+| Certification of qualifications outside the EU (reconnaissance des qualifications) | French Higher Education Agency and Health Bureau | Required | Third-country dentists must pass certification exams and internships |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 42,000。法国牙医需求稳定，老龄化带来更多修复需求；但大城市竞争激烈，偏远地区紧缺。数字化（3D打印、CAD/CAM）和预防护理是趋势。
+**Job demand: high (★★★★☆).** National workforce approx. 42,000. Stable demand for dentists in France, with aging population bringing more need for restorations; But competition in big cities is fierce, and remote areas are in short supply. Digitalization (3D printing, CAD/CAM) and preventive care are trends.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 受雇诊所或医院 |
-| 中级（4-10年） | $50,000~$80,000 | 经验丰富或开始独立执业 |
-| 高级（10年以上） | $90,000~$150,000 | 资深专科或自营诊所 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Employed by clinics or hospitals |
+| Mid-level (4-10 years). | $50,000~$80,000 | Experienced or starting independent practice |
+| Senior (10+ years) | $90,000~$150,000 | Senior specialists or self-operated clinics |
+| average salary | $88,368 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从牙科助理或实习起步，后可独立执业或合伙开诊所。资深牙医可专攻正畸、口腔外科等，或进入教学、科研领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+Typically, you start as a dental assistant or intern, and later you can practice independently or partner to open a clinic. Experienced dentists can specialize in orthodontics, oral surgery, or enter teaching and research fields.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - Digital dentistry
 - Aging population
@@ -64,69 +100,68 @@ Dentists diagnose, prevent, and treat oral diseases and dental irregularities, p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需获得法国雇主合同或项目邀请，有效期4年，可续签。 |
-| Subclass Salarié（Employee Work Permit） | 需法国雇主提供工作合同，经劳工局审核，通常1年续签，可转长期。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪达标（约53,485欧元，2023年），适合高薪牙医，可快速转永居。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents who must obtain a French employer contract or project invitation, valid for 4 years, renewable with the option to apply. |
+| Subclass Salarié (Employee Work Permit) | A work contract must be provided by a French employer, reviewed by the Labor Bureau, usually renewed for one year, and can be converted to long-term contract. |
+| Subclass Carte bleue UE (EU Blue Card) | Must meet annual salary requirements (about €53,485, 2023), suitable for high-paying dentists, and can quickly convert to permanent residency. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentist？**
-- 有耐心和细致动手能力的人
-- 对口腔健康有强烈兴趣，愿意持续学习
-- 能独立工作并承受一定压力
-
-**谁不适合学Dentist？**
-- 对血液或口腔敏感者
-- 不喜欢长时间精细操作者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are patient and have meticulous hands-on skills
+- Strong interest in oral health and willingness to keep learning
+- Able to work independently and withstand a certain amount of pressure
+
+**Who is not suited**
+- For those sensitive to blood or oral health
+- Dislikes prolonged precision operation
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a dentist in France?**
+A: Employed dentists earn about €35,000-80,000 per year, self-employed clinics can reach €90,000-150,000 or more, depending on experience and patient base.
+
+**Q: How do foreign dentists practice in France?**
+A: Non-EU dentists need to undergo qualification recognition (reconnaissance des qualifications), including exams and internships, then register with the French dental association. Can apply for a Talent Passport or work visa.
+
+**Q: What areas can dentists specialize in?**
+A: Common specialties include orthodontics, oral surgery, periodontology, pediatric dentistry, prosthodontics, etc., which require an additional 3-4 years of training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Dentist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a dentist in France?**
-答：Employed dentists earn €35,000–€80,000 annually, while self-employed practitioners can earn €90,000–€150,000 or more, depending on experience and patient base.
-
-**问：How can a foreign dentist practice in France?**
-答：Non-EU dentists must undergo qualification recognition (reconnaissance des qualifications), including exams and internships, then register with the Ordre des chirurgiens-dentistes. They may apply for a Talent Passport or work visa.
-
-**问：What specializations are available for dentists?**
-答：Common specialties include orthodontics, oral surgery, periodontology, pediatric dentistry, and prosthodontics, requiring 3–4 additional years of training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

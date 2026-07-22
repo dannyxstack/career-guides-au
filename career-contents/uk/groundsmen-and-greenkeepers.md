@@ -1,59 +1,95 @@
-# Groundsmen and greenkeepers（Groundsmen and greenkeepers）职业分析 · UK
+# Groundsmen and greenkeepers — career analysis · United Kingdom
 
-**职业代码：5114 – Groundsmen and greenkeepers。**
+**Occupation code: 5114 (SOC)**
 
-Groundsmen and greenkeepers cut and lay turf and maintain areas for golf courses and other sports grounds to meet playing standards.
+Responsible for trimming, laying turf, and maintaining golf courses and other sports grounds, ensuring the fields meet competition standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（雇主资助，无学费） |
-| BTEC/高等国家文凭 | 2年 | $6,000~$12,000（全日制，不含生活费） |
+| Apprenticeship | 2-4 years | $0~$0 (Employer-sponsored, no tuition fees) |
+| BTEC/Higher National Diploma | 2 years | $6,000~$12,000 (Full-time, excluding living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 运动草坪管理三级证书 | City & Guilds | 必备 | 核心职业资格 |
-| PA1/PA6农药喷洒证 | NPTC | 必备 | 使用杀虫剂必备 |
-| 急救证书 | St John Ambulance | 可选 | 推荐持有 |
+| Certificate III in Sports Turf Management. | City & Guilds | Required | Core occupational qualification |
+| PA1/PA2 pesticide spray license | NPTC | Required | Essential when using pesticides |
+| First aid certificate | St John Ambulance | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。英国体育产业持续增长，高尔夫、足球等运动场地维护需求稳定。环保要求提升推动可持续养护实践，职位空缺主要集中在乡村俱乐部和市政公园。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. The UK sports industry continues to grow, with stable demand for the maintenance of golf, football and other sports facilities. Higher environmental requirements drive sustainable maintenance practices, with job vacancies mainly in country clubs and municipal parks.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$23,000 | 助理场地管理员 |
-| 中级（3-7年） | $24,000~$30,000 | 独立工程师 |
-| 高级（7年以上） | $31,000~$40,000 | 总监/首席果岭工 |
+| Median salary | $28,288 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$23,000 | Assistant grounds manager |
+| Mid-level (3–7 years) | $24,000~$30,000 | Independent engineer |
+| Senior (7+ years) | $31,000~$40,000 | Director/Head Greenkeeper |
+| average salary | $30,014 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级场地助理→高级绿化工→场地主管→高尔夫球场总监。可通过职业资格认证（如BIGGA）晋升为首席果岭工或管理多球场设施。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly change the work of groundskeepers and greenskeepers; some tasks will be replaced while many will be enhanced, but physical labor and on-site judgment remain core advantages.
+
+Junior Grounds Assistant → Senior Greenkeeper → Course Manager → Golf Course Director. Can progress to Head Greenkeeper or manage multi-course facilities through professional certifications (e.g., BIGGA).
+
+**Tasks most exposed to AI:**
+
+- Automatically detect lawn diseases, weeds and pests using AI image recognition
+- AI optimizes irrigation and fertilization plans, automatically adjusting water and fertilizer usage
+- Automated drone inspection of large lawns, replacing manual foot patrols
+- AI-driven robotic lawn mower automatically performs routine mowing
+- AI analyzes sensor data to automatically predict lawn growth and wear
+
+**Where AI augments the role:**
+
+- AI-assisted decision support provides precise maintenance plans and predictive maintenance schedules.
+- Enhanced AR devices guide complex repair work, reducing trial and error costs.
+- AI analyzes venue usage data and weather to optimize event preparation and venue rotation
+- Automated data recording and report generation, saving administrative time
+- AI-driven customer management system improves appointment scheduling and feedback processing efficiency
+
+**Human moat:**
+
+- Fine manual lawn restoration and laying skills
+- On-site adaptability to handle sudden weather or venue issues
+- Interpersonal skills for communicating with clients and players
+- Intuitive judgment of venue aesthetics and competition standards
+- Ability to solve complex unstructured problems (e.g., irregular terrain repair)
+
+**Skills to build:**
+
+- Operation of intelligent irrigation and fertilization systems
+- Basics of drone operation and image analysis
+- IoT sensor maintenance and data analysis
+- Digital site management software (e.g., GIS, CMMS)
+- Basic programming (Python) for automated reporting
+- Customer relationship management (CRM) and digital marketing tools
+
+**Key growth areas:**
 
 - Sports turf management
 - Sustainable landscaping
@@ -62,69 +98,68 @@ Groundsmen and greenkeepers cut and lay turf and maintain areas for golf courses
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 雇主担保，职业代码5114，最低薪资£23,000/年 |
-| Subclass Graduate（Graduate visa） | 适用本科/硕士毕业生，有效2年，可积累工作经验 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme） | 18-30岁特定国家公民，有效2年，可工作 |
-| Subclass Scale-up（Scale-up visa） | 需获得增长型企业担保，高薪潜力 |
+| Subclass Skilled Worker (Skilled Worker visa) | Employer sponsorship, occupation code 5114, minimum salary £23,000/year. |
+| Subclass Graduate (Graduate visa) | Applicable to bachelor's/master's graduates, valid for 2 years, can accumulate work experience |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme) | For citizens of specific countries aged 18-30, valid for 2 years, allows work |
+| Subclass Scale-up (Scale-up visa) | Requires sponsorship by a growth-oriented company, with high salary potential |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Groundsmen and greenkeepers？**
-- 热爱户外体力劳动
-- 对草坪养护有耐心
-- 愿意接受季节性工作节奏
-
-**谁不适合学Groundsmen and greenkeepers？**
-- 不喜户外天气
-- 追求高薪职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love outdoor physical work.
+- Patient with lawn care
+- Willing to accept seasonal work rhythms
+
+**Who is not suited**
+- Dislike of outdoor weather
+- Pursuing high-paying careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for a venue manager?**
+A: Senior roles such as golf course director can earn over £40,000 per year, but most positions range from £30,000 to £35,000.
+
+**Q: Can overseas workers hold this role through a skilled worker visa?**
+A: Yes, this occupation is on the eligible occupations list, requiring employer sponsorship and a salary of at least £23,000/year.
+
+**Q: Is there a career progression path?**
+A: Yes, you can progress from assistant to supervisor or director, but it requires gaining experience and obtaining advanced qualifications (e.g., BIGGA certification).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Groundsmen and greenkeepers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for groundsmen?**
-答：Senior roles like golf course superintendent can earn £40,000+, but most positions are £30,000-£35,000.
-
-**问：Can overseas workers get a Skilled Worker visa for this job?**
-答：Yes, it is on the eligible occupations list, requiring employer sponsorship and salary ≥£23,000/year.
-
-**问：Is there a career progression path?**
-答：Yes, from assistant to supervisor or director, requiring experience and advanced qualifications (e.g., BIGGA certification).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

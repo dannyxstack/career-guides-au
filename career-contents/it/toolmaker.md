@@ -1,58 +1,94 @@
-# Toolmaker（Toolmaker）职业分析 · IT
+# Toolmaker — career analysis · Italy
 
-**职业代码：7222 – Toolmaker。**
+**Occupation code: 7222 (ISCO08)**
 
-Toolmakers design, build, and repair metal tools, dies, and molds for industrial production. The role requires precision machining skills and is common in manufacturing.
+Toolmakers design, manufacture, and repair metal tools, dies, and molds for industrial production. This occupation requires precision machining skills and is common in manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中/中专 | 3年 | —（公立学校免学费） |
-| 学徒制 | 3-4年 | —（企业培训，工资补贴） |
+| Vocational high school / technical secondary school | 3 years | $0~$2,000 (Public schools are free of tuition) |
+| Apprenticeship | 3-4 years | $0~$1,000 (Corporate training, wage subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格认证 | 各地区行业协会 | 可选 | 非强制性但受雇主青睐 |
-| CNC操作证书 | 技术学校 | 可选 | 提高就业竞争力 |
+| Professional certification | Regional industry associations | Optional | Non-mandatory but preferred by employers |
+| CNC Operator Certificate | Technical school | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。意大利制造业持续需要熟练工具制造师，尤其是北部工业区。自动化可能影响低端岗位，但高精度工具需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Italian manufacturing continuously needs skilled toolmakers, especially in northern industrial areas. Automation may affect low-end positions, but demand for high-precision tools remains stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从学徒升至高级技师，或转向模具设计、质量控制等职位。也可通过进修成为工程师或管理层。
-**AI替代风险：中等风险（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
+
+Can progress from apprentice to senior technician, or move to roles like mold design, quality control. Further study can lead to engineer or management positions.
+
+**Tasks most exposed to AI:**
+
+- Manual CNC programming and tool path generation
+- Simple repetitive machine operations (e.g., loading/unloading workpieces, starting machining cycles)
+- Routine dimensional measurement and quality recording (manual measurement with calipers and micrometers)
+- Paper-based drawing management and document archiving
+- Basic troubleshooting (based on fixed diagnostic procedures)
+
+**Where AI augments the role:**
+
+- AI-assisted tool path optimization (automatic collision avoidance, improved machining efficiency)
+- Machine learning-based online quality inspection (real-time prediction of dimensional deviations)
+- Digital twin simulation of machining processes (pre-validate fixture designs)
+- Smart production scheduling system integration (automatic assignment of machine tasks)
+- Augmented reality-assisted assembly and debugging (overlaying virtual guidance)
+
+**Human moat:**
+
+- Intuitive judgment in complex fixture design and debugging
+- On-site diagnosis and repair of multi-process integration issues.
+- Ability to communicate non-standard requirements with clients/engineers
+- Safety responsibility and process innovation decisions
+- Precision manual finishing and assembly touch
+
+**Skills to build:**
+
+- Advanced CAD/CAM applications (e.g., Mastercam, NX machining modules)
+- Robot-assisted loading/unloading programming and integration
+- Python or MATLAB for machining data analysis
+- Basics of additive manufacturing (3D printing molds)
+- Industrial Internet of Things (IIoT) and smart tool management
+- Quality control data visualization (e.g., Power BI)
+
+**Key growth areas:**
 
 - Precision manufacturing
 - Automation adaptation
@@ -61,68 +97,67 @@ Toolmakers design, build, and repair metal tools, dies, and molds for industrial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历或5年经验，年薪不低于约30,000欧元（2024标准）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 需雇主申请配额，适用于非欧盟工人，通常需职业资格认证。每年配额有限。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可，需雇主证明无法找到本国人，适用于紧缺职业。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree or 5 years of experience, with an annual salary of no less than approximately €30,000 (2024 standard). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Requires employer-sponsored quota, applicable to non-EU workers, usually requiring occupational qualifications. Annual quota is limited. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit requires employer to prove inability to find local candidates, applicable to shortage occupations. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Toolmaker？**
-- 喜欢动手操作和精密工作的人
-- 注重细节、有耐心的人
-- 愿意从事制造业并接受学徒培训的人
-
-**谁不适合学Toolmaker？**
-- 偏好办公室工作或创造性工作的人
-- 对重复性工作感到厌倦的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and precision work
+- Detail-oriented, patient people
+- People willing to work in manufacturing and undergo apprenticeship training
+
+**Who is not suited**
+- People who prefer office work or creative work
+- People who are tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Toolmakers?**
+A: Italian toolmaker pre-tax annual salary approximately 22,000-45,000 euros, senior technicians can reach 45,000 euros.
+
+**Q: How can non-EU citizens obtain a work visa for tool makers in Italy?**
+A: Can apply through employer-sponsored Decreto Flussi quota work visa, or meet high salary requirements for EU Blue Card. Relevant qualifications and experience required.
+
+**Q: What are the career development pathways for a toolmaker?**
+A: Can progress from apprentice to senior technician, or transition to mold design, production management, quality control, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等风险（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Toolmaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for toolmakers?**
-答：Toolmakers in Italy earn €22,000-€45,000 gross annually, with senior roles up to €45,000.
-
-**问：How can non-EU citizens get a work visa for toolmaking in Italy?**
-答：Employer-sponsored Decreto Flussi quota visa or EU Blue Card if salary meets threshold (~€30k). Requires qualifications and experience.
-
-**问：What are the career progression options for toolmakers?**
-答：Advance to senior technician, or move into mold design, production management, or quality control.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

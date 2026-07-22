@@ -1,66 +1,96 @@
-# 重型设备操作工（Earthmoving Plant Operator）职业分析 · 澳大利亚
+# Earthmoving Plant Operator — career analysis · Australia
 
-**职业代码：721211 – Earthmoving Plant Operator。**
+**Occupation code: 721211 (ANZSCO)**
 
-重型设备操作工是澳洲运输行业的重要职业，需求稳定，具备相关资质即可入行。澳洲运输行业持续扩张，为专业人员提供良好的职业发展机会。
+Heavy equipment operators are an important occupation in the Australian transport industry, with stable demand — relevant qualifications are sufficient to enter the field. The Australian transport industry continues to expand, offering strong career development opportunities for skilled professionals.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Relevant qualification for Earthmoving Plant Operator | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Relevant qualification for Earthmoving Plant Operator | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 25,000。2025-2030年澳洲运输行业持续扩张，重型设备操作工需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. From 2025 to 2030, Australia's transport sector will continue to expand, with steady growth in demand for heavy equipment operators. Those with relevant certifications and experience can expect strong employment prospects.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| Median salary | $98,800 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，重型设备操作工须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Some tasks for heavy equipment operators (e.g., scheduling, documentation) can be automated by AI, but core operations involve on-site perception and physical control; AI is more of an assistant than a replacement, overall risk is moderate.
+
+Requirements for digital technology and professional certification continue to rise; heavy equipment operators must continuously update their specialist skills to keep pace with industry changes.
+
+**Tasks most exposed to AI:**
+
+- Equipment condition monitoring and diagnostic report generation (AI analyzes sensor data for automatic output)
+- Basic scheduling and route planning (automated systems optimize routes)
+- Paper records and compliance document filling (NLP automatic sorting)
+- Fuel consumption and maintenance forecasting (machine learning model prediction)
+- Simple environmental scanning and obstacle recognition (with computer vision assistance)
+
+**Where AI augments the role:**
+
+- Precise operational control (AI-assisted real-time feedback improves digging accuracy)
+- Safety alerts and risk avoidance (AI identifies dangerous areas and provides warnings)
+- Remote assistance and training (AR/VR combined with expert guidance)
+- Multi-device collaborative operation (AI coordinates multiple machines to improve efficiency)
+- Work condition adaptive recommendations (AI suggests operating parameters based on soil/weather data)
+
+**Human moat:**
+
+- Complex on-site judgment (unstructured perception like soil quality, structural stability)
+- Emergency response and equipment repair (physical intervention and experience-based reasoning)
+- Real-time coordination and communication with field teams, engineers, and supervisors
+- Operational compliance and safety responsibility (legal and safety consequences)
+- Adaptability to harsh environments (mud, noise, temperature, etc.)
+
+**Skills to build:**
+
+- Basic digital literacy (using tablets/vehicle AI systems)
+- Automated equipment maintenance and fault diagnosis
+- Data analysis and report interpretation (understanding AI output)
+- Remote operation and collaboration skills
+- Continuous learning and certification updates (e.g., new technical licenses)
+- Basic programming or scripting knowledge (for customizing automation processes)
+
+**Key growth areas:**
 
 - Australia Wide Growth
 - Regional Demand
@@ -69,67 +99,65 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学重型设备操作工？**
-- 对运输行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
-
-**谁不适合学重型设备操作工？**
-- 不了解澳洲运输行业规范者
-- 不愿持续学习更新技能者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the transport industry
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
+
+**Who is not suited**
+- Not familiar with Australian transport industry standards
+- Those unwilling to continuously learn and update their skills
+
+---
+
+## 8. FAQ
+
+**Q: What are heavy equipment operator salaries like in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy to find work as a heavy equipment operator in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 721211 重型设备操作工数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-重型设备操作工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：重型设备操作工在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
-
-**问：澳洲重型设备操作工好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

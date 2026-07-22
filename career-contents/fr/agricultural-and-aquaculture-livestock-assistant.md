@@ -1,60 +1,96 @@
-# Agricultural and Aquaculture Livestock Assistant（Agricultural and Aquaculture Livestock Assistant）职业分析 · FR
+# Agricultural and Aquaculture Livestock Assistant — career analysis · France
 
-**职业代码：A1403 – Agricultural and Aquaculture Livestock Assistant。**
+**Occupation code: A1403 (ROME)**
 
-Assists farmers or breeders in daily livestock care, feeding, cleaning, health monitoring, and record-keeping; also involved in aquaculture cage maintenance and feeding.
+Assist farmers or farmers with daily livestock care, feed preparation, shed cleaning, health monitoring, and record management, as well as maintenance and feeding of aquaculture cages.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+CAP | 2年（CAP agricole） | —（公立学校免学费，注册费约200-500€/年；可通过学徒制获得报酬） |
-| 职业高中文凭 | 2年（Bac Pro CGEA） | —（公立学校免学费；学徒制下企业支付薪资） |
-| 农业技师文凭 | 2年（BTSA Productions animales） | —（公立学校免学费或低学费，生活费自理） |
+| High school graduation + CAP | 2 years (CAP agricole) | $0~$3,000 (Public schools are tuition-free, with registration fees of about €200-500 per year; Compensation can be obtained through apprenticeships) |
+| Vocational high school diploma | 2 years (Bac Pro CGEA) | $0~$4,000 (tuition waiver in public schools; Under the apprenticeship system, companies pay wages) |
+| Agricultural Technician Diploma | 2 years (BTSA Productions animales) | $0~$5,000 (Public schools offer tuition waiver or low tuition, and living expenses are self-paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业能力证书（CAP agricole） | 法国教育部 | 必备 | 入门级必备，涵盖畜牧基础知识 |
-| 农业经营与饲养文凭（BP REA） | 法国农业与食品部 | 可选 | 适合晋升农场管理 |
-| 动物药品使用许可（Permis de détention d'animaux） | 省兽医局 | 必备 | 若涉及用药则需 |
+| Agricultural Professional Competency Certificate (CAP agricole) | French Ministry of Education | Required | Essential for beginners, covering basic knowledge of animal husbandry |
+| Veterinary drug use license (Permis de détention d'animaux) | Provincial Veterinary Bureau | Required | If medication is involved, it is necessary |
+| Diploma in Agricultural Management and Breeding (BP REA) | French Ministry of Agriculture and Food | Optional | Suitable for promotion to farm management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。法国农业和渔业部门面临劳动力老龄化与青年流失，初级岗位需求稳定，尤其在水产养殖区（如布列塔尼、地中海沿岸）。自动化程度低，体力劳动仍为主流。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. France's agriculture and fisheries sector faces an aging workforce and youth loss, with stable demand for junior positions, especially in aquaculture areas such as Brittany and the Mediterranean coast. Low level of automation, manual labor remains mainstream.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,500~$21,000 | SMIC为基础，约1800-2000€/月 |
-| 中级（4-7年） | $22,000~$26,000 | 含经验津贴和绩效奖金 |
-| 高级（8年以上/技术员） | $27,000~$32,000 | 可至技术员或主管级别 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,500~$21,000 | Based on SMIC, about €1800-2000 per month |
+| Mid-level (4-7 years) | $22,000~$26,000 | Including experience allowance and performance bonus |
+| Senior (over 8 years / Technician) | $27,000~$32,000 | Technician or supervisor level can be reached |
+| average salary | $20,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从畜牧助理可晋升为技术员（如配种、健康管理），或转向农场管理/自营农场。需积累经验并考取BP REA或BTSA文凭。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The daily physical tasks and simple monitoring of agricultural and aquaculture livestock assistants are easily replaced by automation, but human experience is still needed for animal health assessment, environmental adaptation decisions, and interpersonal farmer communication. AI can instead improve data recording and analysis efficiency, leading to a mixed transformation trend.
+
+You can be promoted from livestock assistant to technician (such as breeding and health management), or move to farm management or self-operated farms. Experience must be accumulated and a BP REA or BTSA diploma must be obtained.
+
+**Tasks most exposed to AI:**
+
+- Automatically records data such as livestock feeding, weight, and body temperature
+- Automatically inspect shed cleanliness through computer vision and schedule robot cleaning
+- The precise feeding system automatically distributes feed amounts based on algorithms
+- Automatically monitors water quality and adjusts dissolved oxygen and temperature during aquaculture
+- Simple health anomaly alerts (such as detecting limping or coughing via sensors)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of historical data predicts disease outbreak risks in advance
+- Drones or automated equipment patrol large areas of pastures or aquatic areas, reducing manual inspections
+- Real-time sensor data integration generates a farm health dashboard to assist decision-making
+- Smart breeding recommendations are based on genetic data and breeding history
+- Automatically generate farming reports to improve communication efficiency with farm owners or consultants
+
+**Human moat:**
+
+- Intuitive judgment of individual animal behavior and discomfort
+- Manual intervention and emergency handling in emergencies (such as equipment failures or storms).
+- Building interpersonal communication and trust with breeders, veterinarians, and feed suppliers
+- Flexible handling of non-standardized operations (such as delivery and isolation and comfort of sick animals)
+- Ethical decisions that understand and respect animal welfare
+
+**Skills to build:**
+
+- Basic data analysis and spreadsheet usage
+- Use the mobile farming management app
+- Understand the basic principles and simple troubleshooting of sensors and IoT devices
+- Safe operation of semi-automated cleaning/feeding equipment
+- Basic animal health knowledge, able to cooperate with veterinarians using AI diagnostic tools
+- Digital recording and report writing skills
+
+**Key growth areas:**
 
 - Organic farming
 - Aquaculture expansion
@@ -63,68 +99,67 @@ Assists farmers or breeders in daily livestock care, feeding, cleaning, health m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié) Work Permit） | 需雇主提供长期合同（CDI）并证明无法招到欧盟候选人；工资须达1.5倍SMIC（约27k€/年）才免于劳动市场测试。 |
-| Subclass Passeport Talent（Talent Passport (Qualified Employee)） | 若具备BTSA或更高学历，且年薪达2倍SMIC（约36k€），可申请人才护照，流程简化。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需至少Bac+3学历及1.5x平均工资（约45k€/年），此岗位薪资通常不达标，仅高级技术员可能符合。 |
+| Subclass Salarié (Employee (Salarié) Work Permit) | Employers must provide long-term contracts (CDI) and prove they cannot recruit EU candidates; Wages must reach 1.5 times the SMIC (about €27k/year) to be exempt from the labor market test. |
+| Subclass Passeport Talent (Talent Passport (Qualified Employee)) | If you have a BTSA or higher education and earn twice the annual salary of SMIC (about €36k), you can apply for a talent passport with a simplified process. |
+| Subclass Carte bleue UE (EU Blue Card) | Requires at least Bac+3 qualification and 1.5x average salary (approx. €45k/year); this role's salary usually doesn't meet that, only senior technicians might qualify. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Aquaculture Livestock Assistant？**
-- 喜欢户外体力劳动，对动物有耐心，适应乡村生活
-- 愿意通过学徒制边学边做，积累经验
-- 寻求稳定岗位，不介意工资较低但工作稳定
-
-**谁不适合学Agricultural and Aquaculture Livestock Assistant？**
-- 偏好城市生活和工作环境
-- 希望高薪或快速晋升
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy outdoor physical labor, are patient with animals, and adapt to rural life
+- Willing to learn and do through apprenticeships to accumulate experience
+- Seeking stable positions, not minding lower pay but valuing job security.
+
+**Who is not suited**
+- Preference for urban living and working environments
+- Seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: Can the salary of a livestock assistant support themselves?**
+A: The starting salary is close to SMIC (about €18,500/year), which can cover basic living in rural areas but has limited saving ability.
+
+**Q: How can non-EU individuals immigrate to France through this employment?**
+A: The most feasible option is to obtain a Salarié work visa, which requires the employer to provide proof of no EU candidate; If the salary reaches 1.5 times, SMIC can be exempted from the labor market test. You can also try Passeport Talent, but it requires a higher education and salary.
+
+**Q: Is there room for advancement?**
+A: Yes. Through experience accumulation and further training in BTSA or BP REA, you can be promoted to technician, farm supervisor, or ownership farm owner.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Agricultural and Aquaculture Livestock Assistant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can a livestock assistant earn a living wage?**
-答：Starting salary is near SMIC (~€18,500/year), enough for basic living in rural areas, but with limited savings.
-
-**问：How can non-EU nationals immigrate through this occupation?**
-答：The most feasible route is a Salarié work permit, requiring employer to prove no EU candidate; exemptions apply if salary ≥1.5x SMIC. Talent Passport is possible with higher education and salary.
-
-**问：Are there promotion opportunities?**
-答：Yes. With experience and further education (BTSA or BP REA), one can become a technician, farm supervisor, or self-employed farmer.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

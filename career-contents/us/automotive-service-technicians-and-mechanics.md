@@ -1,59 +1,91 @@
-# Automotive Service Technicians and Mechanics（Automotive Service Technicians and Mechanics）职业分析 · 美国
+# Automotive Service Technicians and Mechanics — career analysis · United States
 
-**职业代码：49-3023 – Automotive Service Technicians and Mechanics。**
+**Occupation code: 49-3023 (SOC)**
 
-Diagnose, adjust, repair, or overhaul automotive vehicles, including engines, transmissions, and brakes. Excludes body repair, diesel specialists, and electronic installer.
+Diagnose, adjust, repair, or overhaul automotive vehicles, including engines, transmissions, braking systems, etc. Does not involve body repair, large diesel engines, or electronic equipment installation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业/技术学校证书或副学士学位 | 1-2年 | $5,000~$20,000（社区学院或技术学校学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational/technical school certificate or associate degree | 1-2 years | $5,000~$20,000 (Community college or technical school tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ASE认证 | 美国汽车维修卓越研究院 | 可选 | 自愿但广泛认可，含8个领域考试 |
-| 州级认证或执照 | 各州机动车管理局 | 可选 | 部分州要求废气/安全检测认证 |
-| 制造厂商特定培训 | 汽车制造商 | 可选 | 如福特、丰田等为经销商技师提供培训 |
+| ASE certification | American Institute of Automotive Excellence | Optional | Voluntary but widely recognized, includes exams in 8 areas |
+| State-level certification or license | State motor vehicle departments | Optional | Some states require emissions/safety testing certification |
+| Manufacturer-specific training | Car manufacturer | Optional | Companies like Ford and Toyota provide training for dealer technicians |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 782,000。美国劳工统计局预计2023-2033年就业增长约4%，与所有职业平均增速持平。电动汽车普及将推动新技能需求，但传统维修需求仍稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 782,000. US Bureau of Labor Statistics projects employment growth of about 4% from 2023 to 2033, about average for all occupations. Electric vehicle adoption will drive new skill needs, but traditional repair demand remains stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 学徒或入门级 |
-| 中级（3-7年） | $45,000~$65,000 | 有经验并持有ASE认证 |
-| 高级（7年以上） | $65,000~$85,000 | 高级技师或服务主管，顶尖可达10万以上 |
+| Median salary | $50,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $45,000~$65,000 | Experienced and ASE certified |
+| Senior (7+ years) | $65,000~$85,000 | Senior technician or service supervisor, top can reach over 100,000. |
+| average salary | $56,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从学徒或初级技师起步，通过经验积累和厂商认证（ASE）晋升为高级技师、团队主管或服务经理。部分技师可创业开设独立维修店。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
+
+Can start as an apprentice or junior technician, then advance through experience and manufacturer certifications (ASE) to senior technician, team leader, or service manager. Some technicians may start their own independent repair shops.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
 
 - electric vehicle
 - advanced diagnostics
@@ -62,68 +94,67 @@ Diagnose, adjust, repair, or overhaul automotive vehicles, including engines, tr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等学历，汽车维修通常不满足专业职业要求，极少申请 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需PERM劳工证，且要求至少2年培训或经验，可通过雇主担保移民 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招到合格的美国工人，流程较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or equivalent; auto mechanics typically do not meet professional occupation requirements, very few apply |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification and at least 2 years of training or experience; employer-sponsored immigration possible |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to hire qualified US workers, process is lengthy |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Automotive Service Technicians and Mechanics？**
-- 动手能力强，喜欢机械维修
-- 愿意持续学习新技术，尤其是电动车
-- 能适应站立工作和体力劳动
-
-**谁不适合学Automotive Service Technicians and Mechanics？**
-- 不喜欢脏污油污环境
-- 不擅长客户沟通或团队协作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, enjoys mechanical repair
+- Willing to continuously learn new technologies, especially electric vehicles
+- Able to handle standing work and physical labor
+
+**Who is not suited**
+- Those who dislike dirty or greasy environments
+- Not good at client communication or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for automotive mechanics?**
+A: Entry-level about $32k-$45k, mid-level $45k-$85k, top technicians or supervisors up to $100k. Salary varies by region, experience, and certification.
+
+**Q: How can automotive repair technicians immigrate to the US?**
+A: Typically through EB-3 skilled worker green card, requires employer sponsorship and PERM labor certification. H-1B rarely applicable as it does not meet professional occupation requirements. TN visa (Canadian/Mexican citizens) also difficult.
+
+**Q: How to advance career development?**
+A: Obtain ASE certification, manufacturer-specific training, and master electric vehicle repair skills to advance to senior technician, service manager, or open your own repair shop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Automotive Service Technicians and Mechanics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for automotive service technicians?**
-答：Entry-level $32k-$45k, mid to senior $45k-$85k, top technicians or supervisors can reach $100k. Varies by location, experience, and certification.
-
-**问：What are the immigration paths for automotive technicians to the US?**
-答：Typically EB-3 skilled worker green card with employer sponsorship and PERM. H-1B rarely applicable. TN visa (Canada/Mexico citizens) also difficult.
-
-**问：How to advance the career?**
-答：Obtain ASE certifications, manufacturer training, learn electric vehicle repair, can advance to senior technician, service manager, or own shop.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

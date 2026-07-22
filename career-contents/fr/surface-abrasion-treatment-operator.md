@@ -1,62 +1,97 @@
-# Surface Abrasion Treatment Operator（Surface Abrasion Treatment Operator）职业分析 · FR
+# Surface Abrasion Treatment Operator — career analysis · France
 
-**职业代码：H3401 – Surface Abrasion Treatment Operator。**
+**Occupation code: H3401 (ROME)**
 
-Operates grinding, polishing and other surface finishing equipment to achieve specified roughness, gloss or cleanliness on metal, wood, glass and other materials.
+Grinding, polishing, and other equipment are used to fine-process the surfaces of metal, wood, glass, and other materials to ensure the required roughness, gloss, or cleanliness is achieved.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 操作员 | 2年（CAP） | —（公立学校免费，仅注册费及材料费） |
-| BTS 生产技师 | 2年（BTS） | —（公立学校免费，私立约3000€/年） |
-| 学徒制 | 1-2年 | —（企业承担学费，学徒领取工资） |
+| CAP operator | 2 years (CAP) | $0~$2,000 (Public schools are free, only registration and material fees are required) |
+| BTS production technician | 2 Years (BTS) | $0~$3,000 (Public schools are free, private ones about €3,000 per year) |
+| Apprenticeship | 1-2 years | $0~$0 (Enterprises cover tuition fees, and apprentices receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 生产设备操作员 | 法国教育部 | 可选 | 基础从业资格，非强制但普遍要求 |
-| CACES 操作证书 | CNAM / 授权机构 | 必备 | 操作特定设备（如桥式起重机）需持有 |
-| Habilitation électrique | INRS / 企业 | 必备 | 电气安全认证，部分岗位强制 |
+| CACES Operation Certificate | CNAM / Authorized Institution | Required | Specific equipment (such as bridge cranes) must be carried to operate them |
+| Habilitation électrique | INRS / Enterprise | Required | Electrical safety certification, mandatory for some positions |
+| CAP production equipment operator | French Ministry of Education | Optional | Basic professional qualifications, not mandatory but generally required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。法国制造业持续自动化，但精细表面处理仍需熟练工人。该职业受工业4.0影响，但短期需求稳定，尤其在航空、汽车和奢侈品行业。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,500. French manufacturing continues to automate, but fine surface treatments still require skilled workers. This profession is influenced by Industry 4.0, but short-term demand remains stable, especially in the aviation, automotive, and luxury sectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $27,000~$33,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $34,000~$40,000 | 税前年薪，含奖金，团队负责人更高 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $27,000~$33,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $34,000~$40,000 | Pre-tax annual salary including bonuses, team leaders get even higher |
+| average salary | $28,068 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员成长为高级技师（chef d'équipe），或转向数控磨床编程、质量控制等岗位。部分从业者通过继续教育成为工艺工程师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Routine repetitive tasks for surface grinding operators (such as parameter setting and surface inspection) will be replaced by AI and automation, but processes requiring high precision, shaped parts, and manual feel are instead enhanced by AI-assisted tools. Competition for entry-level positions is intensifying, but new opportunities are emerging in high-end customization and quality monitoring.
+
+You can grow from a junior operator to a senior technician (chef d'équipe), or move on to roles such as CNC grinding machine programming and quality control. Some practitioners become process engineers through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automatically detects surface roughness and defects through a visual recognition system, replacing manual visual inspection
+- Automatically calculates and sets grinding parameters (pressure, speed, feed rate) based on materials and requirements.
+- Robots are used to perform large-scale, standard-shaped automatic grinding and polishing of surfaces
+- Process reports and quality records are generated, replacing manual entry
+- Real-time monitoring and adjustment of wear compensation for abrasive tools through sensors
+
+**Where AI augments the role:**
+
+- AR-assisted systems provide real-time process guidance and remote expert support, enhancing repair accuracy
+- AI process optimization recommendations help operators quickly select the best abrasives and paths
+- Digital twins simulate effects of different parameters, reducing trial and error and material waste
+- Intelligent fixtures and force feedback systems assist manual handling of irregular parts, improving consistency
+- Mobile terminals integrate quality feedback and order information to enable flexible production
+
+**Human moat:**
+
+- Manual tactile judgment and flexible adjustment when handling high-value irregular parts
+- Experience and tactile experience with special materials (such as rare metals and artworks).
+- The human brain adapts flexibly in equipment maintenance and abnormal fault diagnosis
+- Communicate customized requirements with customers and convert them into process solutions
+
+**Skills to build:**
+
+- Programming and debugging capabilities of CNC grinding equipment
+- Quality Data Statistical Analysis (SPC) and intelligent inspection equipment operation
+- Basic CAD/CAM and digital twin software use
+- Industrial robot collaboration and teaching
+- Problem-solving and rapid learning ability (adapting to new materials and processes)
+- Reading English technical documents and understanding of international standards
+
+**Key growth areas:**
 
 - Precision
 - Automation
@@ -65,65 +100,67 @@ Operates grinding, polishing and other surface finishing equipment to achieve sp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明无欧盟候选人才可招聘。表面处理非紧缺职业，获批难度较高。 |
-| Subclass Passeport Talent（Talents Passport） | 仅适用于高技能或特殊人才，该职业很少符合条件。 |
+| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, proof that no EU candidate is available for hiring. Surface treatment is not a shortage occupation, making approval challenging. |
+| Subclass Passeport Talent (Talents Passport) | It is only suitable for highly skilled or specialized talents, and this profession rarely qualifies. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Surface Abrasion Treatment Operator？**
-- 注重细节、有耐心的人
-- 动手能力强、喜欢操作机械设备的人
-- 愿意在工业环境中工作的人
+**Who is suited**
+- Detail-oriented, patient people
+- People with strong hands-on skills who enjoy operating mechanical equipment
+- People willing to work in an industrial environment
 
-**谁不适合学Surface Abrasion Treatment Operator？**
-- 不喜欢重复性劳动的人
-- 对噪音、粉尘敏感的人
+**Who is not suited**
+- People who dislike repetitive labor
+- People sensitive to noise and dust
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of this occupation?**
+A: Entry-level annual salary is about €22,000-26,000, intermediate salary €27,000-33,000, and senior salary €34,000-40,000 (before tax).
+
+**Q: Is it easy for foreigners to work in this profession in France?**
+A: Difficulty. The occupation is not on the shortage list; employers must prove they cannot recruit within the EU, and the salary threshold is low, which is unfavorable for skilled migration.
+
+**Q: What qualifications are required?**
+A: CAP or BTS diplomas are usually required, but admission can also be made through apprenticeships. Some senior positions require BTS or DUT.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Surface Abrasion Treatment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is about €22,000-€26,000, mid-level €27,000-€33,000, senior €34,000-€40,000 (gross).
-
-**问：Is it easy for foreigners to work in this occupation in France?**
-答：It is difficult. The occupation is not on the shortage list, employers must prove no EU candidates are available, and the salary is low, making it unfavorable for skilled migration.
-
-**问：What education is required?**
-答：Typically requires a CAP or BTS, or can be entered via apprenticeship. Senior positions may require BTS or DUT.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

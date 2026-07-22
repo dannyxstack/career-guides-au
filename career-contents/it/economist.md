@@ -1,58 +1,94 @@
-# Economist（Economist）职业分析 · IT
+# Economist — career analysis · Italy
 
-**职业代码：2631 – Economist。**
+**Occupation code: 2631 (ISCO08)**
 
-Economists analyze economic data, trends, and policies, providing forecasts and advice to governments, businesses, and financial institutions.
+Economists analyze economic data, trends, and policies to provide forecasts and advice to governments, businesses, and financial institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$3,000（公立大学学费，因学校和家庭收入而异） |
-| 硕士 | 2年（硕士） | $2,000~$6,000（公立大学硕士学费） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$3,000 (Public university tuition fees vary by institution and family income) |
+| Master's degree | 2 years (Master's) | $2,000~$6,000 (Master's tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学学位 | 意大利大学 | 必备 | 通常为Laurea Magistrale（硕士） |
-| 专业协会会员 | 意大利经济学家协会（ANCE） | 可选 | 非强制，但有助职业发展 |
+| Bachelor's degree in Economics | Italian universities | Required | Typically a Laurea Magistrale (Master's degree) |
+| Professional association member | Italian Economists Association (ANCE) | Optional | Not mandatory, but helpful for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利经济学家需求稳定，尤其在公共部门、研究机构和银行。数字化转型和绿色经济转型推动新岗位，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for economists in Italy is stable, especially in the public sector, research institutions, and banks. Digital transformation and green economy transition drive new positions, but competition is strong.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$80,000 | 税前年薪，首席经济学家可达更高 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$80,000 | Pre-tax annual salary; chief economists can earn higher. |
+| average salary | $47,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级分析师可晋升为高级经济学家、首席经济学家，或转向政策顾问、金融分析师等角色。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on economists is mixed: data collection and preliminary analysis tasks will be compressed, but high-level policy advice and strategic interpretation capabilities are amplified, requiring proactive transformation.
+
+Junior analysts can advance to senior economist, chief economist, or transition to roles such as policy advisor or financial analyst.
+
+**Tasks most exposed to AI:**
+
+- Basic data cleaning and sorting
+- Create standard statistical charts and reports
+- Preliminary regression analysis and model runs.
+- Automated search and summarization of literature reviews
+- Generate periodic economic forecast templates
+
+**Where AI augments the role:**
+
+- Rapid iteration and validation of complex economic models
+- Real-time economic indicator monitoring and anomaly warning
+- Policy impact simulation and scenario analysis
+- Integration and insight extraction from multi-source heterogeneous data.
+- Rapid generation of personalized economic advisory reports
+
+**Human moat:**
+
+- Understanding the political and social constraints behind economic policy
+- Propose innovative theoretical frameworks and hypotheses
+- Make value judgments and ethical considerations.
+- Building trust and engaging in high-level communication with decision-makers
+- Strategic decision-making in uncertain environments
+
+**Skills to build:**
+
+- Python/R Programming and Data Science Tools
+- Machine learning and causal inference methods
+- Data visualization and storytelling
+- Natural language processing for text data analysis
+- Explainability techniques for AI models.
+- Interdisciplinary knowledge integration ability
+
+**Key growth areas:**
 
 - Data Analytics
 - Green Economy
@@ -61,69 +97,68 @@ Economists analyze economic data, trends, and policies, providing forecasts and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟公民，需年薪≥欧盟平均工资1.5倍（2024年约4.5万欧元），合同至少1年。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非高技能岗位，需雇主担保，配额有限且竞争激烈。 |
-| Subclass Nulla Osta (工作许可)（Nulla Osta (Work Authorization)） | 雇主需向劳工部申请，证明无合适欧盟候选人，适用于短缺职业。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟/EEA公民无需签证，可直接在意大利工作。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU citizens, requiring annual salary ≥1.5 times EU average wage (approx. €45,000 in 2024) and a contract of at least 1 year. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quotas apply to non-high-skilled positions; requires employer sponsorship; limited quotas with intense competition. |
+| Subclass Work Permit (Nulla Osta (Work Authorization)) | Employers must apply to the Ministry of Labour, proving no suitable EU candidate is available; applicable to shortage occupations. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU/EEA citizens do not need a visa and can work directly in Italy. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economist？**
-- 对经济政策、数据分析有浓厚兴趣者
-- 具备定量分析和批判性思维能力者
-- 有志于在公共或金融领域发展者
-
-**谁不适合学Economist？**
-- 不喜长时间数据分析和报告撰写者
-- 追求快速职业回报者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong interest in economic policy and data analysis
+- Those with quantitative analysis and critical thinking skills.
+- Aspiring to develop in the public or financial sectors
+
+**Who is not suited**
+- Not suitable for those who dislike lengthy data analysis and report writing
+- Those seeking fast career returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Italian economists?**
+A: Entry level about €28,000–35,000, mid-level €38,000–50,000, senior €55,000–80,000, chief economist can exceed €100,000.
+
+**Q: How can non-EU citizens immigrate to Italy to work as economists?**
+A: First choice is the EU Blue Card, requiring a high-salary position; or through the Decreto Flussi quota work visa, but competition is fierce. EU citizens have free movement.
+
+**Q: What qualifications are needed to become an economist?**
+A: Usually requires a master's degree in economics (Laurea Magistrale), a bachelor's degree may suffice in rare cases. Public universities have low tuition fees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Economist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for economists in Italy?**
-答：Entry-level: €28,000-35,000; mid-level: €38,000-50,000; senior: €55,000-80,000; chief economists can exceed €100,000.
-
-**问：How can non-EU citizens migrate to Italy as economists?**
-答：Preferred route is EU Blue Card requiring a high-salary job; alternatively, Decreto Flussi quota work visa, but highly competitive. EU citizens have free movement.
-
-**问：What education is needed to become an economist?**
-答：Typically a master's degree in economics (Laurea Magistrale); bachelor's may suffice for some roles. Public universities have low tuition fees.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

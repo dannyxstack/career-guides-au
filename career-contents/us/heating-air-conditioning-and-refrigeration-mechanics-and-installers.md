@@ -1,59 +1,93 @@
-# Heating, Air Conditioning, and Refrigeration Mechanics and Installers（Heating, Air Conditioning, and Refrigeration Mechanics and Installers）职业分析 · 美国
+# Heating, Air Conditioning, and Refrigeration Mechanics and Installers — career analysis · United States
 
-**职业代码：49-9021 – Heating, Air Conditioning, and Refrigeration Mechanics and Installers。**
+**Occupation code: 49-9021 (SOC)**
 
-Install or repair heating, central air conditioning, HVAC, or refrigeration systems, including oil burners, hot-air furnaces, and heating stoves. Typically employed by HVAC contractors, construction firms, or repair services, requiring knowledge of electrical and mechanical systems.
+Install, maintain, and repair heating, central AC, HVAC or refrigeration systems, including oil burners, hot air furnaces, and heating stoves. Typically employed by HVAC contractors, construction companies, or repair services; need familiarity with electrical and mechanical systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 技术培训或学徒制 | 3-5年 | $10,000~$30,000（社区学院或技术学校证书课程约1-2年，学费加杂费） |
-| 学徒制（在职+课堂） | 4-5年 | —（通常由工会或承包商资助，可能收取少量费用） |
+| Technical training or apprenticeship | 3-5 years | $10,000~$30,000 (Certificate programs at community colleges or technical schools take about 1-2 years, including tuition and fees) |
+| Apprenticeship (on-the-job + classroom) | 4-5 years | $0~$2,000 (Usually funded by unions or contractors, may charge a small fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EPA Section 608认证 | 美国环境保护署 | 必备 | 处理制冷剂必备，需通过考试 |
-| NATE认证 | 北美技师卓越联盟 | 可选 | 行业认可，可提升就业机会 |
-| 驾照 | 州机动车辆管理局 | 必备 | 需驾驶服务车辆 |
+| EPA Section 608 certification | US Environmental Protection Agency | Required | Essential for handling refrigerants, must pass exam |
+| Driver's license | State motor vehicle department | Required | Requires driving a service vehicle |
+| NATE certification | North American Technician Excellence Alliance | Optional | Industry recognized, can improve employment opportunities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 386,000。美国劳工统计局预测2023-2033年该职业就业增长9%，远高于所有职业平均水平，主要受新建建筑和现有系统升级需求推动。年均职位空缺约36,000个。
+**Job demand: high (★★★★☆).** National workforce approx. 386,000. The US Bureau of Labor Statistics projects 9% employment growth for this occupation from 2023-2033, much higher than average for all occupations, driven by new construction and upgrades to existing systems. About 36,000 annual openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 新手或学徒期 |
-| 中级（4-8年） | $50,000~$65,000 | 持证且经验丰富 |
-| 高级（9年以上） | $70,000~$95,000 | 资深技师或主管 |
+| Median salary | $61,010 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Beginner or apprenticeship period |
+| Mid-level (4–8 years) | $50,000~$65,000 | Certified and experienced |
+| Senior (9+ years) | $70,000~$95,000 | Senior technician or supervisor |
+| average salary | $64,780 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业晋升路径包括资深技师、主管、项目经理或自主创业。通过获得EPA Section 608认证、NATE认证或管道/电气进阶证书可提升竞争力，部分经验丰富者可转向工程或销售领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+Career progression includes senior technician, supervisor, project manager, or self-employment. Competitiveness can be enhanced by obtaining EPA Section 608 certification, NATE certification, or advanced plumbing/electrical certificates. Experienced personnel can move into engineering or sales.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Green HVAC
 - Smart thermostats
@@ -62,68 +96,67 @@ Install or repair heating, central air conditioning, HVAC, or refrigeration syst
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需要专业知识的职位，但该职业通常不满足特殊职业要求，极少通过H-1B移民。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年培训或经验的熟练工人，需PERM劳工证和雇主担保，是主要绿卡路径。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招聘到合格美国工人，通过PERM申请EB-2或EB-3绿卡。该职业通常走EB-3。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to positions requiring specialized knowledge, but this occupation usually does not meet special occupation requirements and rarely immigrates via H-1B. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience for skilled workers, needs PERM labor certification and employer sponsorship, is the main green card path. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to recruit qualified US workers, applying for EB-2 or EB-3 green card via PERM. This occupation typically follows EB-3. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heating, Air Conditioning, and Refrigeration Mechanics and Installers？**
-- 动手能力强，喜欢修理机械和电气设备
-- 愿意从事体力劳动和户外工作
-- 能适应灵活工作时间和紧急加班
-
-**谁不适合学Heating, Air Conditioning, and Refrigeration Mechanics and Installers？**
-- 对化学制冷剂或高温环境敏感
-- 不喜欢频繁出差或在不同工作地点间移动
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, enjoys repairing mechanical and electrical equipment
+- Willing to engage in physical labor and outdoor work.
+- Able to adapt to flexible working hours and emergency overtime
+
+**Who is not suited**
+- Sensitive to chemical refrigerants or high-temperature environments
+- Dislikes frequent travel or moving between different work sites
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for HVAC technicians in the US?**
+A: According to BLS data, the median annual salary in 2023 was about $55,000, with the top 10% earning over $80,000. Salaries vary by region, experience, and certification, and union positions are typically higher.
+
+**Q: How can HVAC technicians immigrate to the US through work visas?**
+A: The main pathway is through EB-3 green card (skilled worker) application, requiring employer sponsorship and PERM. Since this occupation is not a common H-1B specialty, it is typically suited for applicants with many years of experience and relevant certifications. A labor certification can demonstrate a US labor shortage.
+
+**Q: What education or training is needed to become an HVAC technician?**
+A: Typically requires a high school diploma followed by a technical school program (6 months to 2 years) or a 4-5 year apprenticeship. EPA 608 certification required to handle refrigerants; NATE certification not mandatory but beneficial for employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Heating, Air Conditioning, and Refrigeration Mechanics and Installers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for HVAC mechanics in the US?**
-答：According to BLS, the median annual wage was about $55,000 in 2023, with top 10% earning over $80,000. Salaries vary by location, experience, and certifications; union jobs typically pay higher.
-
-**问：How can an HVAC mechanic immigrate to the US for work?**
-答：The main path is through EB-3 green card (skilled workers) requiring employer sponsorship and PERM. Since it's not a typical H-1B occupation, experienced applicants with certifications are best suited. Labor certification can demonstrate shortage of US workers.
-
-**问：What education or training is needed to become an HVAC mechanic?**
-答：Typically requires a high school diploma followed by a technical school program (6 months to 2 years) or a 4-5 year apprenticeship. EPA Section 608 certification is mandatory for handling refrigerants; NATE certification is optional but beneficial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

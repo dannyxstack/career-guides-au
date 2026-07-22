@@ -1,65 +1,96 @@
-# NDIS 本地协调员(LAC)（Local Area Coordinator (NDIS)）职业分析 · 澳大利亚
+# Local Area Coordinator (NDIS) — career analysis · Australia
 
-**职业代码：411715 – Local Area Coordinator (NDIS)。**
+**Occupation code: 411715 (ANZSCO)**
 
-本地协调员(LAC)受 NDIS Partners in the Community 项目委托(由政府外包给 APM、Mission Australia 等机构)，帮助参与者申请、理解并使用 NDIS 计划，并连接社区与主流服务，非技术移民职业。
+Local Area Coordinators (LACs) are commissioned under the NDIS Partners in the Community program (outsourced by government to APM, Mission Australia, etc.), helping participants apply for, understand, and use NDIS plans, and connecting them to community and mainstream services. Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV / Diploma in Community Services（常见） | 1~2年 | $3,000~$16,000（或社工背景） |
-| NDIS Worker Screening Check | 数周 | $100~$150（强制） |
+| Certificate IV / Diploma in Community Services (common) | 1–2 years | $3,000~$16,000 (Or social work background) |
+| NDIS Worker Screening Check | Several weeks | $100~$150 (Mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NDIS Worker Screening Check | 各州核查机构 | 必备 | 强制 |
-| 社区服务 / 社工相关学历 | TAFE/大学 | 可选 | 入行基础 |
+| NDIS Worker Screening Check | State assessing authorities | Required | Mandatory |
+| Community services/social work related qualifications | TAFE/University | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 10,000。作为 NDIS 与参与者之间的桥梁，LAC 需求随计划覆盖扩大保持稳定，社工/社区服务背景者更具优势。
+**Job demand: high (★★★★☆).** National workforce approx. 10,000. As a bridge between NDIS and participants, LAC demand remains stable as plan coverage expands; social work/community service backgrounds are advantageous.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 700~1,600 个 | 全国 |
-| Indeed | 500~1,200 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $75,000~$85,000 | 含 super 包 |
-| 中级（3-8年） | $85,000~$100,000 | Experienced |
-| 资深 / 团队负责 | $100,000~$119,000 | Senior |
+| Median salary | $95,888 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $75,000~$85,000 | Including super |
+| Mid-level (3–8 years) | $85,000~$100,000 | Experienced |
+| Senior / Team leader | $100,000~$119,000 | Senior |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：LAC→高级 LAC/团队负责人；积累个案与社区资源者更易晋升。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on NDIS local coordinators is mixed: some administrative and information tasks can be automated, but core personalized support, community connections, and complex case coordination still require humans, providing a deeper moat.
+
+Pathway: LAC → Senior LAC/Team Leader; those with accumulated casework and community resources advance more easily.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate NDIS plan-related forms and reports
+- Automatically matching participants with service providers based on database
+- Use chatbots to answer common NDIS policy questions
+- Automated Appointment and Task Assignment with Reminders
+- Automated monitoring of budget and expenditure
+
+**Where AI augments the role:**
+
+- Using AI to analyze participant data and provide personalized plan recommendations
+- Quickly review NDIS policy updates using natural language processing
+- Use predictive models to identify potential risks or changes in participant needs
+- Prepare case reports and evidence materials using AI-assisted tools
+- Use translation tools to communicate with diverse cultural participants
+
+**Human moat:**
+
+- Build trust and empathy with participants
+- Communication and Negotiation Skills in Complex Conflicts or Emotional Scenarios
+- Deep understanding and flexible application of NDIS policy
+- Insight into connecting local community resources and informal support networks
+- Creative problem-solving with limited resources
+
+**Skills to build:**
+
+- Master data analysis tools (e.g., Power BI) for plan monitoring
+- Learning NDIS-related AI/automation tools (e.g., plan generation software)
+- Enhance cross-cultural communication and trauma-informed care skills
+- Understand basic project management skills
+- Training in using AI for case recording and analysis
+- Enhancing digital literacy includes data privacy and security
+
+**Key growth areas:**
 
 - NDIS Partners in the Community
 - Community Connection
@@ -68,58 +99,59 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学NDIS 本地协调员(LAC)？**
-- 社区服务/社工背景者
-- 擅长沟通与资源连接的人
-- 认同助残价值者
-
-**谁不适合学NDIS 本地协调员(LAC)？**
-- 以技术移民为目标者
-- 不擅长面对面服务与外勤者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with community service/social work background
+- People skilled in communication and connecting resources
+- Those who align with disability support values
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those not good at face-to-face service and fieldwork
+
+---
+
+## 8. FAQ
+
+**Q: How much does an NDIS Local Coordinator earn in Australia?**
+A: Approximately AUD $75,000–$119,000 (often including superannuation package).
+
+**Q: Can a local coordinator immigrate via skilled migration?**
+A: No, it is a local employment occupation not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-NDIS 本地协调员(LAC)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：NDIS 本地协调员薪资多少？**
-答：约 AUD $7.5万~$11.9万(常含 super 包)。
-
-**问：本地协调员能技术移民吗？**
-答：不能，属于本地就业型职业，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

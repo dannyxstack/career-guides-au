@@ -1,59 +1,93 @@
-# Philosophers, Historians and Political Scientists（Philosophers, Historians and Political Scientists）职业分析 · IE
+# Philosophers, Historians and Political Scientists — career analysis · Ireland
 
-**职业代码：2633 – Philosophers, Historians and Political Scientists。**
+**Occupation code: 2633 (ISCO08)**
 
-Conduct research and teach in philosophy, history, and political science, typically at universities or research institutes.
+Conducts research and teaching in philosophy, history, and political science, usually at a university or research institution.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $12,000~$20,000（欧盟学生学费约€12,000-€20,000/年，非欧盟更高） |
-| 硕士 | 1-2年 | $10,000~$20,000（硕士学费约€10,000-€20,000/年） |
-| 博士 | 3-4年 | $10,000~$15,000（博士通常有奖学金覆盖学费及生活费） |
+| Bachelor's degree | 4 years | $12,000~$20,000 (EU student tuition approximately €12,000-€20,000/year, non-EU higher) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Master's tuition approximately €10,000-€20,000 per year) |
+| Doctorate | 3-4 years | $10,000~$15,000 (PhD programs usually have scholarships covering tuition and living expenses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 大多数学术职位要求博士学历 |
-| 发表记录 | 同行评审期刊 | 可选 | 晋升需要高质量出版物 |
+| Doctoral degree (PhD) | University | Required | Most academic positions require a doctoral degree. |
+| Publication record | Peer-reviewed journals | Optional | Promotion requires high-quality publications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。爱尔兰学术界就业竞争激烈，永久学术职位有限，但政府和智库对政策分析人才有需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. Academic job market in Ireland is highly competitive with limited permanent positions, but government and think tanks have demand for policy analysis talent.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 博士后或临时讲师年薪 |
-| 中级（3-8年） | $45,000~$65,000 | 讲师或高级讲师年薪 |
-| 高级（8年以上） | $65,000~$95,000 | 教授年薪 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Postdoctoral or casual lecturer annual salary |
+| Mid-level (3–8 years) | $45,000~$65,000 | Annual salary for lecturer or senior lecturer |
+| Senior (8+ years) | $65,000~$95,000 | Professor's annual salary |
+| average salary | $58,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从博士后或临时讲师起步，逐步晋升为讲师、高级讲师至教授；也可转入政策研究或公共管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In fields of critical thinking and humanities like philosophy, history, and political science, AI cannot fully replace core critical thinking and value judgment, but tasks such as literature collation and basic teaching will be automated, leading to adjustments in job structures.
+
+Usually starts from postdoctoral or temporary lecturer, progresses to lecturer, senior lecturer, and professor; can also transition to policy research or public administration.
+
+**Tasks most exposed to AI:**
+
+- Basic literature search and review writing: AI can quickly process vast amounts of literature and generate summaries.
+- Basic data analysis: statistical trends, word frequency analysis, and other repetitive tasks are efficiently completed by AI.
+- Teaching assistance: tasks like grading assignments and generating standardized test questions can be automated.
+- Initial draft generation: AI can generate structured content such as policy analysis reports and historical timelines.
+
+**Where AI augments the role:**
+
+- Large-scale text analysis: AI helps identify patterns in historical archives, political speeches, and philosophical texts.
+- Cross-language research: AI translation tools aid in non-native literature study and international collaboration.
+- Simulation and Prediction: AI models assist in simulating the consequences of political decisions or historical scenarios.
+- Personalized teaching: AI customizes learning paths to improve teaching effectiveness.
+
+**Human moat:**
+
+- Original theory building and critical thinking.
+- Ethical judgment and value trade-offs.
+- Deep understanding of human experience and emotions.
+- Complex narrative construction and persuasiveness.
+- Cross-disciplinary integration and innovative problem formulation.
+
+**Skills to build:**
+
+- Data science and statistical analysis (e.g., Python, R)
+- Application of natural language processing (NLP) tools
+- Digital humanities research methods.
+- Policy simulation tools (e.g., system dynamics modeling).
+- Media and public communication skills.
+- Project management and cross-team collaboration.
+
+**Key growth areas:**
 
 - Policy analysis
 - Academic research
@@ -62,65 +96,64 @@ Conduct research and teach in philosophy, history, and political science, typica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪≥€32,000的职业，但学术职位通常符合 |
-| Subclass General Employment P（General Employment Permit） | 年薪≥€34,000，需劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 年薪≥€39,652（2024年），适用于高技能工作 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for occupations with annual salary ≥€32,000, but academic positions usually qualify |
+| Subclass General Employment P (General Employment Permit) | Annual salary ≥€34,000, requires labour market test |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary ≥ €39,652 (2024), applicable to highly skilled work |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Philosophers, Historians and Political Scientists？**
-- 对哲学、历史或政治学有深厚学术兴趣的人
-- 乐于从事长期研究和写作的人
-- 不追求高薪，注重学术自由的人
-
-**谁不适合学Philosophers, Historians and Political Scientists？**
-- 希望快速获得高收入的人
-- 不喜欢竞争激烈且职位有限的学术界
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with deep academic interest in philosophy, history, or political science
+- People who are willing to engage in long-term research and writing
+- People who do not pursue high salaries and value academic freedom
+
+**Who is not suited**
+- People looking to quickly achieve high income
+- Dislikes the competitive and limited academic career path
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a philosophy and history professor in Ireland?**
+A: Professor annual salary approximately €65,000-€95,000, lecturer approximately €45,000-€65,000.
+
+**Q: How can foreigners obtain a work visa for academic positions in Ireland?**
+A: Can apply through the Critical Skills Employment Permit (annual salary ≥ €32,000) or the General Employment Permit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Philosophers, Historians and Political Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a history professor in Ireland?**
-答：Professors earn around €65,000-€95,000, while lecturers earn €45,000-€65,000 annually.
-
-**问：How can foreigners get a work visa for academic positions in Ireland?**
-答：Apply for a Critical Skills Employment Permit (salary ≥€32,000) or General Employment Permit.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

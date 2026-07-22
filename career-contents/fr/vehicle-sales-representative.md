@@ -1,58 +1,94 @@
-# Vehicle Sales Representative（Vehicle Sales Representative）职业分析 · FR
+# Vehicle Sales Representative — career analysis · France
 
-**职业代码：D1404 – Vehicle Sales Representative。**
+**Occupation code: D1404 (ROME)**
 
-Vehicle sales representatives sell new and used vehicles, arrange test drives, provide financing options, and maintain customer relationships.
+Automotive sales consultants are responsible for promoting new or used cars to customers, providing test drives, financing solutions, and after-sales service, and maintaining customer relationships.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中+职业培训 | 2年（CAP/BAC Pro） | —（通过学徒制（apprentissage）可免费学习并领取薪酬。） |
-| 大学技术文凭 | 2年（BTS） | $3,000~$12,000（公立大学学费低，私立商学院费用较高。） |
+| High School + Vocational Training | 2 years (CAP/BAC Pro) | $0~$10,000 (Through apprenticeships, students can study for free and receive a salary.) |
+| University technical diploma | 2 Years (BTS) | $3,000~$12,000 (Public universities have low tuition fees, while private business schools charge higher fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业谈判能力证书 | 法国商会 | 可选 | 非强制，但提高竞争力。 |
-| 汽车销售专业文凭 | 国家汽车行业委员会 | 可选 | 部分品牌要求内部培训认证。 |
+| Business negotiation ability certificate | French Chamber of Commerce | Optional | Not mandatory, but it enhances competitiveness. |
+| Diploma in Automotive Sales | National Automotive Industry Commission | Optional | Some brands require internal training certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 65,000。法国汽车销售行业稳定，受电动汽车转型影响，对数字营销和在线销售能力需求增加。就业机会主要集中于 dealerships，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 65,000. The French automotive sales sector is stable, driven by the transition to electric vehicles, increasing demand for digital marketing and online sales capabilities. Employment opportunities are mainly concentrated in dealerships, with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 底薪加销售提成，年收入可更高。 |
-| 中级（3-7年） | $30,000~$45,000 | 含提成，表现优秀可达上限。 |
-| 高级（7年以上） | $45,000~$65,000 | 销售经理或品牌专家岗位。 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Base salary plus sales commission can increase annual income. |
+| Mid-level (3–7 years) | $30,000~$45,000 | Commissions included, with outstanding performance reaching the upper limit. |
+| Senior (7+ years) | $45,000~$65,000 | Sales manager or brand specialist positions. |
+| average salary | $32,316 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级销售可晋升为高级销售、销售经理或品牌经理。部分转向二手车评估、汽车金融或租赁领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Junior sales can be promoted to senior sales, sales manager, or brand manager. Some have shifted to used car appraisal, automotive finance, or leasing.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - Electric vehicle
 - Digital sales
@@ -61,64 +97,63 @@ Vehicle sales representatives sell new and used vehicles, arrange test drives, p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主offer，向劳工局申请工作许可，适用于非紧缺职业。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如年薪超过€40,000且持有硕士文凭或同等经验，可快速获得居留。 |
+| Subclass Salarié (Employee Work Permit) | You must obtain an offer from a French employer and apply to the Labor Bureau for a work permit, which applies to non-urgent occupations. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with an annual salary exceeding €40,000 and holding a master's degree or equivalent experience, who can quickly obtain residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle Sales Representative？**
-- 善于沟通、有说服力的人
-- 对汽车有热情，乐于学习新技术
-- 目标驱动、抗压能力强
-
-**谁不适合学Vehicle Sales Representative？**
-- 不喜欢销售指标压力者
-- 不善于应对客户拒绝的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communicator, persuasive
+- Passionate about cars and eager to learn new technologies
+- Goal-driven and highly stress-resistant
+
+**Who is not suited**
+- Those who dislike the pressure of sales targets
+- People who are not good at handling customer rejections
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for automotive sales consultants?**
+A: Salary consists of a base salary and a sales commission, with the commission ratio usually accounting for 30%-50% of annual income depending on the brand and model.
+
+**Q: What visa do foreigners need to work in car sales in France?**
+A: An employer must provide a work contract, apply for a work permit (Salarié) or Passeport Talent passport, and the French language requirement is high (B2 or above).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle Sales Representative的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for vehicle sales representatives?**
-答：Salary consists of a base pay plus commission, typically 30-50% of total annual income.
-
-**问：What visa is needed for foreigners to work as vehicle sales representatives in France?**
-答：An employer must obtain a work permit; options include Salarié or Passeport Talent. French proficiency (B2+) is required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

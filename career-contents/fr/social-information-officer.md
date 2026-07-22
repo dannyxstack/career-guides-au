@@ -1,62 +1,93 @@
-# Social Information Officer（Social Information Officer）职业分析 · FR
+# Social Information Officer — career analysis · France
 
-**职业代码：K1205 – Social Information Officer。**
+**Occupation code: K1205 (ROME)**
 
-Responsible for collecting, processing and disseminating information on social welfare, rights and benefits in public institutions or associations; provides legal and social policy advice to the public.
+In public institutions or associations, collect, process, and disseminate information on social welfare, rights, and assistance, providing legal and social policy consultation to the public.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业技术文凭（BTS） | 2年 | —（公立学校免费或低学费；私立学校费用较高） |
-| 社会学或社会工作本科 | 3年（Licence） | —（公立大学注册费约170欧元/年；私立校费用高） |
-| 社会干预与社会发展硕士 | 2年（Master） | —（公立大学学费低；部分院校提供学徒制） |
+| Diploma of Occupational and Technical Skills (BTS) | 2 years | $0~$5,000 (Free or low tuition at public schools; Private school fees are relatively high) |
+| Bachelor's degree in Sociology or Social Work | 3 years (Licence) | $0~$10,000 (The registration fee for public universities is about 170 euros per year; Private schools have high fees) |
+| Master's degree in Social Intervention and Social Development | 2 years (Master) | $0~$12,000 (Public universities have low tuition fees; Some institutions offer apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会信息专员职业证书 | 地区社会与卫生事务局（ARS） | 可选 | 部分岗位要求持有，但非强制 |
-| 国家社会干预文凭（DEIS） | 法国社会工作者培训学院 | 可选 | 高级岗位可能需要；可通过继续教育获得 |
-| 公共服务准入竞赛 | 国家公共行政学院（INSP）或地方公共行政学院 | 可选 | 进入公共部门的核心途径 |
+| Social Information Specialist Professional Certificate | Regional Social and Health Services (ARS) | Optional | Some positions require it, but it is not mandatory |
+| National Diploma in Social Intervention (DEIS) | French Social Worker Training Institute | Optional | Senior positions may be required; It can be obtained through continuing education |
+| Public Service Access Competition | National School of Public Administration (INSP) or Local Public Administration College | Optional | The core pathway into the public sector |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 12,000。随着社会保障体系复杂化及人口老龄化，社会信息需求持续增长。数字化转型带来新型咨询渠道，但预算限制可能影响招聘。该职业在地方公共部门较稳定。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 12,000. As the social security system becomes more complex and the population ages, the demand for social information continues to grow. Digital transformation brings new consulting channels, but budget constraints may affect recruitment. This profession is relatively stable in the local public sector.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，地区差异不大 |
-| 中级（4-8年） | $28,000~$35,000 | 视机构性质和经验 |
-| 高级（9年以上） | $35,000~$42,000 | 含管理职责 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary, with little regional variation |
+| Mid-level (4–8 years) | $28,000~$35,000 | It depends on the nature and experience of the institution |
+| Senior (9+ years) | $35,000~$42,000 | Includes management responsibilities |
+| average salary | $26,742 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从基层信息专员晋升至团队主管或政策分析专员。通过继续教育可转向社会工作者或公共管理岗位，也可进入国家就业局（France Travail）或社保机构。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The consultation and information dissemination tasks of social information specialists will be greatly enhanced by AI, but basic information processing and regulatory queries may be automated; The core of the position shifts toward high-value consulting and interpersonal communication, with overall moderate risk.
+
+Employees can be promoted from grassroots information specialists to team leaders or policy analysts. Through continuing education, students can transition to social workers or public administration positions, or enter the National Employment Office (France Travail) or social security agencies.
+
+**Tasks most exposed to AI:**
+
+- Automatically fetch and update social welfare policies and regulations from official databases
+- Provides 24/7 basic legal and social policy Q&A via chatbots
+- Automatically generate standardized information briefs and FAQ documents
+- Automatically categorizes and archives public consultation records and feedback
+
+**Where AI augments the role:**
+
+- AI is used to analyze public consultation hotspots and proactively push personalized benefit information
+- Quickly retrieve complex regulatory cases using natural language processing tools
+- Use AI translation tools to provide real-time support for multilingual services
+- Produce policy impact analysis reports using data visualization tools
+
+**Human moat:**
+
+- Handling complex and sensitive personal rights cases requires empathy and ethical judgment
+- Cross-departmental coordination and resource matching, such as assisting with humanized communication when applying for subsidies
+- Providing flexible and authoritative on-site consultations in crises or special situations
+
+**Skills to build:**
+
+- Master Prompt Engineering to efficiently utilize AI legal policy Q&A tools
+- Learning data visualizations (such as Tableau) are used for public education material production
+- Train AI models to identify subtle changes in local social policies
+- Enhance cross-cultural communication skills to serve diverse groups
+- Learn basic data analysis (Python/R) to conduct policy impact assessments
+
+**Key growth areas:**
 
 - Social welfare
 - Public service
@@ -65,65 +96,67 @@ Responsible for collecting, processing and disseminating information on social w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主工作合同，且职业需通过法国劳动力市场测试（如无合格EU求职者）。 |
-| Subclass Passeport Talent（Talent Passport） | 若作为高技能人才（年薪超€42,000）或受公共机构邀请，可申请人才护照，简化流程。 |
+| Subclass Salarié (Employee Work Permit) | You must obtain a work contract from a French employer, and the occupation must pass the French labor market test (if there are no qualified EU applicants). |
+| Subclass Passeport Talent (Talent Passport) | If you are a high-skilled talent (annual salary over €42,000) or invited by a public institution, you can apply for a Talent Passport with a simplified process. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Social Information Officer？**
-- 喜欢与人沟通，具备同理心和耐心
-- 对法国社会政策和公共福利体系有浓厚兴趣
-- 适应行政事务和文书工作
+**Who is suited**
+- Enjoys communicating with people, with empathy and patience
+- He has a strong interest in French social policy and the public welfare system
+- Adapt to administrative affairs and clerical work
 
-**谁不适合学Social Information Officer？**
-- 追求高薪或快速晋升者
-- 不擅长官僚体系和行政流程者
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Those who are not skilled in bureaucratic systems and administrative processes
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for social information officers?**
+A: Entry-level annual salary approx. €24k–€28k, mid-level approx. €28k–€35k, senior (including management) up to approx. €42k pre-tax.
+
+**Q: Can non-EU citizens immigrate to France through this occupation?**
+A: The difficulty is quite high. This occupation is not considered in short supply; employers must prove they cannot find qualified EU citizens. If the annual salary exceeds €42,000, you can try the talent passport, but public institutions favor local talent.
+
+**Q: How to advance to senior positions?**
+A: It usually requires several years of experience and a diploma in Social Intervention (DEIS) or a Master of Public Administration through internal exams or further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Social Information Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Social Information Officers?**
-答：Entry-level annual gross salary is around €24,000–€28,000, mid-level €28,000–€35,000, and senior (including management) up to €42,000.
-
-**问：Can non-EU citizens immigrate to France through this occupation?**
-答：It is difficult. The occupation is not on the shortage list; employers must prove no suitable EU candidate. Talent Passport may be possible if salary exceeds €42,000, but public institutions prefer local candidates.
-
-**问：How can I advance to senior positions?**
-答：Usually requires several years of experience, plus passing internal exams or obtaining a diploma (e.g., DEIS) or a Master's in public administration.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Receptionists and Information Clerks（Receptionists and Information Clerks）职业分析 · 美国
+# Receptionists and Information Clerks — career analysis · United States
 
-**职业代码：43-4171 – Receptionists and Information Clerks。**
+**Occupation code: 43-4171 (SOC)**
 
-Answer inquiries, greet visitors, and provide administrative support, serving as the first point of contact for businesses.
+Greet visitors, answer phone calls, provide information, and offer administrative support, serving as the first impression of the business.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无固定时长 | —（通常仅需高中毕业） |
-| 副学士学位（可选） | 2年 | $5,000~$30,000（有助于晋升） |
+| High school diploma | No fixed duration | $0~$0 (Usually only requires high school diploma) |
+| Associate degree (optional) | 2 years | $5,000~$30,000 (Helps with promotion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 所在州教育部门 | 必备 | 基础要求 |
-| 客户服务认证 | 全国客户服务协会 | 可选 | 提升竞争力 |
+| High school diploma | State education department | Required | Basic requirements |
+| Customer service certification | National Customer Service Association | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 1,040,000。美国就业增长稳定，年均新增约10万个岗位，但受自动化（如自助服务终端）影响增速略低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,040,000. US employment growth is steady, with about 100,000 new jobs added annually, but growth is slightly below average due to automation (e.g., self-service kiosks).
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 入门级薪资 |
-| 中级（3-5年） | $32,000~$40,000 | 有一定经验 |
-| 高级（5年以上） | $40,000~$48,000 | 资深或主管级 |
+| Median salary | $38,010 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$32,000 | Entry-level salary |
+| Mid-level (3–5 years) | $32,000~$40,000 | Some experience |
+| Senior (5+ years) | $40,000~$48,000 | Senior or supervisor level |
+| average salary | $39,460 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可晋升为行政主管、办公室经理或客户服务经理，也可转向专业领域（如医疗接待、法律秘书）。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The work of receptionists and information clerks is highly structured and easily replaced by AI voice assistants, automated booking systems, and chatbots; entry-level positions will be significantly reduced.
+
+Can advance to administrative director, office manager, or customer service manager, or transition to specialized areas (e.g., medical reception, legal secretary).
+
+**Tasks most exposed to AI:**
+
+- Answer and transfer calls: AI voice navigation system can automatically identify intent and route calls.
+- Appointment booking and schedule management: online self-booking and smart calendar tools can fully take over.
+- Provides basic information queries (e.g., address, business hours): chatbots or website FAQs can respond instantly.
+- Visitor identity registration and visitor pass issuance: self-service registration terminals and electronic access code systems replace manual operations.
+
+**Where AI augments the role:**
+
+- Handling complex complaints or emergencies: AI can provide real-time script prompts and process guidance.
+- Multilingual reception: AI translation tools assist real-time communication with foreign visitors.
+- Customer emotion analysis and personalized service: AI analyzes visitor emotions and suggests response strategies.
+- Data entry and customer relationship management: AI automatically extracts and updates customer information, reducing manual entry errors.
+
+**Human moat:**
+
+- On-the-spot judgment for handling emergencies (e.g., fire alarms, medical emergencies)
+- Building relationships and emotional resonance in high-net-worth client or VIP reception.
+- Complex communication requiring cultural sensitivity and contextual understanding.
+- Proper etiquette and coping skills needed to maintain corporate brand image.
+
+**Skills to build:**
+
+- Proficient in configuring and maintaining mainstream virtual reception desks and AI customer service systems.
+- Learn advanced data analysis features of customer relationship management (CRM) software.
+- Enhance conflict resolution and crisis communication skills.
+- Learn basic scripting (e.g., RPA automation processes).
+- Proficiency in multiple languages or cross-cultural communication skills.
+- Learn to use AI-generated reception data to optimize service processes.
+
+**Key growth areas:**
 
 - Administrative Support
 - Customer Service
@@ -61,65 +94,64 @@ Answer inquiries, greet visitors, and provide administrative support, serving as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因学历要求低，但可申请行政类岗位 |
-| Subclass EB-3（Employment-Based Third Preference） | 需雇主担保，但职业门槛较低，排期较长 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需证明无法招到美国员工 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable due to low education requirements, but administrative positions may be possible |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires employer sponsorship, but the occupation threshold is low; the queue is long |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Must demonstrate inability to hire US workers |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Receptionists and Information Clerks？**
-- 善于沟通、有耐心的人
-- 喜欢稳定办公室环境的人
-- 希望快速就业的人
-
-**谁不适合学Receptionists and Information Clerks？**
-- 追求高薪且快速晋升的人
-- 厌恶重复性工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communication and patience
+- People who prefer a stable office environment
+- People seeking quick employment
+
+**Who is not suited**
+- People seeking high salary and fast promotion
+- People who dislike repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for receptionists?**
+A: Typically not exceeding USD 48,000; supervisor level up to 55k.
+
+**Q: Is it easy for receptionists to immigrate to the U.S.?**
+A: Difficult, due to low education requirements; employer must prove irreplaceability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Receptionists and Information Clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for receptionists?**
-答：Usually below $48,000, up to $55,000 for supervisors.
-
-**问：Is it easy for receptionists to immigrate to the US?**
-答：Difficult due to low education requirements; employer must prove necessity.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

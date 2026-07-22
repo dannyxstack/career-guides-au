@@ -1,58 +1,92 @@
-# Metal Casting Trades Worker（Metal Casting Trades Worker）职业分析 · 新西兰
+# Metal Casting Trades Worker — career analysis · New Zealand
 
-**职业代码：322114 – Metal Casting Trades Worker。**
+**Occupation code: 322114 (ANZSCO)**
 
-Metal Casting Trades Workers operate foundry equipment to pour molten metal into moulds. In New Zealand, demand is steady in manufacturing; they can apply for residency via AEWV or SMC, but the role is not on the Green List.
+Metal casting trades workers operate casting equipment to pour molten metal into molds to produce castings. Demand is steady in New Zealand's manufacturing sector; residency can be sought via an Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but this occupation is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 预培训课程 | 6个月 | $2,000~$5,000（如新西兰理工学院的基础铸造课程） |
-| 学徒制 | 3-4年 | —（在职培训，可能有少量课程费用） |
+| Pre-training course | 6 months. | $2,000~$5,000 (Such as fundamental foundry courses at New Zealand polytechnics) |
+| Apprenticeship | 3-4 years | $0~$2,000 (On-the-job training, may have minimal course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家工程制造证书（铸造） | 新西兰资格认证局(NZQA) | 可选 | 四级证书，通常通过学徒制完成 |
-| 工作场所安全证书 | WorkSafe NZ | 必备 | 强制性，包括个人防护装备和危险品处理 |
+| Workplace safety certificate | WorkSafe NZ | Required | Mandatory, including personal protective equipment and hazardous material handling |
+| New Zealand National Certificate in Engineering (Foundry) | New Zealand Qualifications Authority (NZQA) | Optional | Certificate IV, usually completed through an apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰制造业预计缓慢增长，金属铸造技工需求稳定但竞争中等。主要集中在奥克兰、怀卡托和坎特伯雷地区。行业自动化趋势可能影响低级岗位，但高级技能工人仍受青睐。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's manufacturing sector is expected to grow slowly, with stable demand for metal casting technicians but moderate competition. Opportunities are mainly in Auckland, Waikato, and Canterbury. Industry automation trends may affect lower-level positions, but skilled workers remain in demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或新手技工 |
-| 中级（3-6年） | $55,000~$70,000 | 独立操作的熟练技工 |
-| 高级（6年以上） | $70,000~$90,000 | 高级技工或主管 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or novice mechanic |
+| Mid-level (3–6 years) | $55,000~$70,000 | Independent skilled tradesperson |
+| Senior (6+ years) | $70,000~$90,000 | Senior technician or supervisor |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 晋升路径包括高级技工、铸造主管或模具设计师。积累经验后可转向技术管理或质量控制岗位。部分从业者通过学习CAD或冶金学提升至工程师级别。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Metal casting trades face moderate compression from AI and automation: CNC machines and robots have simplified pouring and post-processing, but mould preparation and pouring control still rely on manual experience; overall job numbers will decline, but core skilled workers remain in demand.
+
+Career progression includes senior technician, foundry supervisor, or mold designer. With experience, one can move into technical management or quality control. Some practitioners upgrade to engineer level by learning CAD or metallurgy.
+
+**Tasks most exposed to AI:**
+
+- Post-processing of castings (grinding, cutting off risers and gates) is performed automatically by robots.
+- The pouring process is controlled by automatic tilting furnaces and dosing systems
+- Sand mixing and molding in sand preparation are completed by automated production lines
+- Parameter monitoring and recording are collected in real-time by sensors and MES systems
+
+**Where AI augments the role:**
+
+- Use casting simulation software (e.g., AnyCasting) to optimize gating system design
+- Real-time monitoring of melt quality and equipment status via MES system
+- Mold assembly and inspection guidance using AR glasses
+- Using AI vision to detect surface defects in castings
+- Remotely diagnose process anomalies using digital twin technology
+
+**Human moat:**
+
+- Manual finishing and repair welding of complex molds
+- Control of melting temperature and time for different alloys
+- Rapidly Diagnose Casting Defect Causes and Adjust Process Onsite
+- Collaborate with designers to optimize casting process solutions
+
+**Skills to build:**
+
+- Proficiency in casting simulation software (e.g., Magma, AnyCasting, etc.)
+- Learning CNC operation and programming
+- Understand basic operation and debugging of industrial robots
+- Proficiency in MES system data entry and analysis
+- Learn 3D printing mold design and rapid prototyping
+- Improve welding skills (especially repair welding)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -61,64 +95,63 @@ Metal Casting Trades Workers operate foundry equipment to pour molten metal into
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有雇主担保的技工，可累计时间申请SMC |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制（如技能工作+薪资/学历），职业在ANZSCO技能等级3级 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for skilled workers with employer sponsorship, time can be accumulated for SMC |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, need to meet 6-point system (e.g., skilled work + salary/qualification), occupation at ANZSCO skill level 3. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Casting Trades Worker？**
-- 体力好、注重安全，适应高温环境
-- 动手能力强，愿意从事重复性精确工作
-- 能够接受轮班和周末工作
-
-**谁不适合学Metal Casting Trades Worker？**
-- 不喜欢体力劳动或高温环境
-- 不能接受机械化和重复性工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, safety-conscious, adaptable to high-temperature environments
+- Strong hands-on ability, willing to perform repetitive precise work
+- Able to work shifts and weekends
+
+**Who is not suited**
+- Dislikes manual labor or hot environments
+- Cannot accept mechanical and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metal casting technicians in New Zealand?**
+A: Junior annual salary approximately NZD 45,000-55,000, intermediate NZD 55,000-70,000, senior NZD 70,000-90,000. Overtime and allowances can increase income.
+
+**Q: Is it feasible to immigrate to New Zealand as a metal casting worker?**
+A: Feasible, but not a Green List occupation. Can proceed via AEWV work visa to gain experience and then apply for SMC skilled migration, requiring employer sponsorship and meeting the 6-point system requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Metal Casting Trades Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Metal Casting Trades Workers in NZ?**
-答：Entry-level NZD 45,000-55,000, intermediate NZD 55,000-70,000, senior NZD 70,000-90,000 annually. Overtime and allowances can increase earnings.
-
-**问：Is migration to NZ as a Metal Casting Trades Worker feasible?**
-答：Yes, but not on Green List. Options include AEWV followed by SMC, requiring employer sponsorship and meeting the 6-point system.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

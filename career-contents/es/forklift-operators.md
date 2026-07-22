@@ -1,61 +1,97 @@
-# Forklift Operators（Forklift Operators）职业分析 · ES
+# Forklift Operators — career analysis · Spain
 
-**职业代码：8333 – Forklift Operators。**
+**Occupation code: 8333 (CNO)**
 
-Operate forklifts to move, stack, and load/unload goods in warehouses, logistics centers, and factories. Requires official Spanish forklift operator certification; physically demanding but offers stable employment.
+Responsible for operating forklifts for cargo handling, stacking, and loading/unloading, commonly found in warehouses, logistics centers, and manufacturing plants. Must hold an official Spanish forklift operator certificate; the work is physically demanding but employment is stable.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期培训 | 40-60小时 | $300~$600（私营培训中心，含考试费） |
-| 职业培训（FP Básico/Grado Medio） | 1-2年 | —（公立FP免费，仅注册费） |
+| Short-term training | 40-60 hours | $300~$600 (Private training centers, including exam fees) |
+| Vocational Training (FP Básico/Grado Medio) | 1-2 years | $0~$600 (Public FP is free, with only a registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作员证书 | 西班牙劳工部授权的培训机构 | 必备 | 法定要求，需通过理论和实操考试 |
-| 危险品运输附加认证（如需要） | 西班牙运输部 | 可选 | 仅当涉及危险品时强制 |
-| 高空作业平台操作证（可选） | 授权培训机构 | 可选 | 提升就业竞争力 |
+| Forklift operator certificate | Training institutions authorized by the Spanish Ministry of Labor | Required | Legal requirements require passing both theoretical and practical exams |
+| Additional certification for dangerous goods transport (if required) | Spanish Ministry of Transport | Optional | It is only mandatory when dangerous goods are involved |
+| Aerial Work Platform Operation Certificate (optional) | Authorized training institutions | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。西班牙物流与电商行业持续扩张，叉车操作员需求稳定增长。2025年前预计年增约3-5%，尤其在马德里、巴塞罗那等物流枢纽。临时合同常见，但经验丰富者可获长期岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. Spain's logistics and e-commerce industry continues to expand, with steady growth in forklift operator demand. By 2025, annual growth is expected to reach about 3-5%, especially in logistics hubs such as Madrid and Barcelona. Temporary contracts are common, but experienced individuals can be granted long-term positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 税前年薪，含加班 |
-| 中级（2-5年） | $22,000~$28,000 | 税前年薪，含夜班补贴 |
-| 高级（5年以上） | $28,000~$35,000 | 税前年薪，含主管津贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $18,000~$22,000 | Annual pre-tax salary, including overtime |
+| Intermediate (2-5 years) | $22,000~$28,000 | Pre-tax annual salary, including night shift allowance |
+| Senior (5+ years) | $28,000~$35,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径：初级叉车操作员 → 高级/特种叉车操作员（如侧叉、前移式）→ 仓库主管或物流协调员。部分人可转岗至运输调度或仓储管理。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Forklift operator roles face automation risk; warehouse automation (e.g., AGVs) will replace some repetitive handling tasks, but safety supervision and complex environment operations still rely on humans.
+
+Career Advancement Paths: Junior Forklift Operator → Senior/Specialty Forklift Operator (such as side fork, reach truck) → Warehouse Supervisor or Logistics Coordinator. Some may transfer to transportation dispatch or warehouse management.
+
+**Tasks most exposed to AI:**
+
+- Transport goods along fixed routes in the warehouse
+- Pallet access operations in automated warehouses
+- RFID or barcode-based cargo information recording
+- Inventory counting and simple statistical report generation
+- Basic vehicle fault diagnosis and repair reporting
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize forklift route planning, improving efficiency
+- Machine vision-assisted positioning for precise stacking and retrieval
+- Real-time battery and mechanical status monitoring with preventive maintenance alerts
+- Digital Task Assignment to Reduce Waiting and Idle Time
+- Warehouse digital twin simulation to train new operators
+
+**Human moat:**
+
+- Precision handling of unstable cargo or non-standard items
+- Manual Judgment and Adjustment in Confined or Cluttered Environments
+- On-site handling of sudden mechanical failures or safety incidents
+- Communicating and coordinating with warehouse staff, drivers, etc.
+- Comply with safety regulations and assume legal responsibilities
+
+**Skills to build:**
+
+- Operating automated warehouse systems (e.g., WMS, AGV scheduling)
+- Basic data analysis skills (e.g., Excel reports, KPI interpretation)
+- Learning to operate various special vehicles (e.g., high-reach forklifts, telescopic forklifts)
+- Acquire skills in forklift electronic diagnostics and maintenance
+- Understanding warehouse safety regulations and smart logistics standards
+- Basic English reading and writing skills (adapted for international logistics systems)
+
+**Key growth areas:**
 
 - E-commerce logistics
 - Warehousing automation
@@ -64,62 +100,64 @@ Operate forklifts to move, stack, and load/unload goods in warehouses, logistics
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 由西班牙雇主担保的工作居留，需证明职位无法被欧盟公民填补。叉车操作员属低技能职业，担保难度大。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，但低技能岗位获批率低。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Work residency sponsored by a Spanish employer, requiring proof that the position cannot be filled by EU citizens. Forklift operator is a low-skilled occupation, making sponsorship difficult. |
+| Subclass Busqueda empleo (Job Search Visa) | Allow a stay in Spain for 6 months to look for work, but approval rates for low-skilled positions are low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Forklift Operators？**
-- 体力好、能适应倒班者
-- 对机械操作感兴趣、愿意考取证书者
-- 寻求稳定低门槛就业、不介意重复性工作
+**Who is suited**
+- Those with good stamina and able to adapt to shift work
+- Those interested in mechanical operation and willing to obtain certifications
+- Seeking stable, low-threshold employment and not minding repetitive work
 
-**谁不适合学Forklift Operators？**
-- 希望办公室工作或高薪者
-- 无法承受长时间站立和搬运重物
+**Who is not suited**
+- Those hoping for office jobs or high salaries
+- Unable to withstand long periods of standing and carrying heavy objects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of forklift operators?**
+A: In Spain, the average pre-tax annual salary for forklift operators is about 22,000-28,000 euros, and entry-level positions are about 18,000-22,000 euros. Salaries are affected by region, industry, and overtime.
+
+**Q: Can foreign workers apply for a forklift operator position in Spain?**
+A: In theory, it is possible, but the difficulty is relatively high. Low-skilled positions (CNO 8333) are not on the Shortage Occupation List, employer sponsorship requires proof of vacancies, and Spain prefers EU citizens. Most immigrants must first obtain residency through other means.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Forklift Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for forklift operators?**
-答：In Spain, the average gross annual salary for forklift operators is €22,000-€28,000, with entry-level positions around €18,000-€22,000. Pay varies by region, industry, and overtime.
-
-**问：Can foreign workers apply for forklift operator jobs in Spain?**
-答：Theoretically yes, but difficult. As a low-skilled occupation (CNO 8333), it is not on the shortage list. Employer sponsorship requires proving job vacancy, and preference is given to EU citizens. Most immigrants need other residence pathways.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

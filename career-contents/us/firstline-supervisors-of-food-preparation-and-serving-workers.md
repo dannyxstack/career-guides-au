@@ -1,60 +1,96 @@
-# First-Line Supervisors of Food Preparation and Serving Workers（First-Line Supervisors of Food Preparation and Serving Workers）职业分析 · 美国
+# First-Line Supervisors of Food Preparation and Serving Workers — career analysis · United States
 
-**职业代码：35-1012 – First-Line Supervisors of Food Preparation and Serving Workers。**
+**Occupation code: 35-1012 (SOC)**
 
-Directly supervise and coordinate activities of workers engaged in preparing and serving food, ensuring efficient restaurant operations and customer satisfaction.
+Directly supervise and coordinate food preparation and service staff, ensuring efficient restaurant operations and customer satisfaction.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（多数职位仅要求高中文凭） |
-| 副学士学位（烹饪或酒店管理） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma or equivalent | 0 years | $0~$0 (Most positions only require a high school diploma) |
+| Associate degree (Culinary or Hospitality Management) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | ServSafe | 必备 | 部分州要求餐饮主管持有 |
-| 酒类服务认证 | TIPS | 可选 | 若餐厅售酒则可能需要 |
+| Food safety certification | ServSafe | Required | Some states require food and beverage supervisors to hold |
+| Responsible Service of Alcohol certification | TIPS | Optional | May be required if the restaurant sells alcohol |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,180,000。美国劳工统计局预计2023-2033年就业增长约5%，与平均水平持平。餐饮业持续复苏，但受自动化点餐系统影响，增长温和。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,180,000. The U.S. Bureau of Labor Statistics projects employment growth of about 5% from 2023 to 2033, on par with the average. The restaurant industry continues to recover, but growth is tempered by automated ordering systems.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 快餐或小型餐厅 |
-| 中级（3-7年） | $35,000~$45,000 | 正规餐厅或连锁店 |
-| 高级（7年以上） | $45,000~$60,000 | 高档餐厅或大型餐饮企业 |
+| Median salary | $44,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Fast food or small restaurant. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Formal restaurant or chain |
+| Senior (7+ years) | $45,000~$60,000 | high-end restaurants or large-scale catering enterprises |
+| average salary | $46,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从服务员或厨师晋升而来，可发展为餐厅经理、区域经理或餐饮总监。部分人选择自主创业开设餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Usually promoted from waiter or chef; can develop into restaurant manager, area manager, or food and beverage director. Some choose to start their own restaurants.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Food service
 - Customer service
@@ -63,62 +99,64 @@ Directly supervise and coordinate activities of workers engaged in preparing and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职位不要求学士学位，仅部分管理岗位可能符合 |
-| Subclass L-1（Intracompany Transferee） | 跨国企业内调至美国餐饮管理岗位时可使用 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as this position does not require a bachelor's degree; only some management roles may qualify |
+| Subclass L-1 (Intracompany Transferee) | Can be used when transferring to a US restaurant management position within a multinational company. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Food Preparation and Serving Workers？**
-- 喜欢与人打交道，有领导力
-- 能在快节奏环境中保持冷静
-- 对餐饮业有热情，注重细节
+**Who is suited**
+- Like interacting with people, have leadership skills
+- Able to stay calm in a fast-paced environment
+- Passion for the hospitality industry, attention to detail
 
-**谁不适合学First-Line Supervisors of Food Preparation and Serving Workers？**
-- 厌恶轮班、周末和节假日工作
-- 难以承受高压和体力劳动
+**Who is not suited**
+- Dislike shift work, weekend, and holiday work
+- Struggles with high pressure and physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a Food Service Supervisor?**
+A: BLS data for 2023 shows a median annual salary of approximately $35,000, ranging from $25,000 to $60,000.
+
+**Q: Is it easy to apply for a US work visa for this occupation?**
+A: Difficult. This position typically does not meet H-1B specialty occupation requirements, and PERM labor certifications are rarely approved; mainly relies on L-1 intracompany transfer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-First-Line Supervisors of Food Preparation and Serving Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for first-line supervisors of food preparation and serving workers?**
-答：BLS 2023 data shows median annual wage around $35,000, ranging from $25,000 to $60,000.
-
-**问：Is it easy to get a US work visa for this occupation?**
-答：Difficult. The role typically doesn't meet H-1B specialty occupation criteria, and PERM labor certification is rarely approved; mainly relies on L-1 intracompany transfer.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Fruit, Vegetable and Related Preserver（Fruit, Vegetable and Related Preserver）职业分析 · IE
+# Fruit, Vegetable and Related Preserver — career analysis · Ireland
 
-**职业代码：7514 – Fruit, Vegetable and Related Preserver。**
+**Occupation code: 7514 (ISCO08)**
 
-Wash, peel, slice, can and preserve fruits and vegetables, ensuring food safety and quality.
+Responsible for washing, peeling, slicing, canning, and preserving fruits and vegetables to ensure food safety and quality.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（在职培训为主） |
-| 职业教育证书 | 1年（FETAC Level 5） | $1,000~$3,000（部分课程由SOLAS资助） |
+| High school graduation | No higher education required | $0~$0 (On-the-job training primarily) |
+| Vocational education certificate | 1 year (FETAC Level 5) | $1,000~$3,000 (Some courses are funded by SOLAS) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | FSAI | 必备 | 强制性 |
-| HACCP培训 | 认可培训机构 | 可选 | 雇主通常要求 |
+| Food safety certificate | FSAI | Required | Mandatory |
+| HACCP training | Registered Training Organisation (RTO) | Optional | Employers typically require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800。爱尔兰食品制造业稳定，但果蔬保藏工需求受季节性影响较大，自动化可能减少部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. The Irish food manufacturing industry is stable, but demand for fruit and vegetable preserve workers is highly seasonal, and automation may reduce some positions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，主管级别 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual salary before tax, supervisor level |
+| average salary | $34,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从生产线工人起步，可晋升为生产主管或质量检查员，或转向相关食品技术岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Fruit and vegetable preservation jobs face risk of automation replacement, but AI can also enhance quality control and equipment maintenance; overall mixed. Entry-level roles face increased competition, requiring upgraded technical skills.
+
+Usually starts as a production line worker, can advance to production supervisor or quality inspector, or shift to related food technology roles.
+
+**Tasks most exposed to AI:**
+
+- AI vision system automatically sorts fruits and vegetables, grading by size, color, and defects
+- Automatic peeling, slicing, coring and other pre-processing tasks performed by robots
+- Automated canning and sealing operations based on sensor data
+- Inventory management and replenishment forecasting are automatically performed by AI systems
+- Basic quality inspections (e.g., appearance, weight) replaced by AI vision
+
+**Where AI augments the role:**
+
+- AI-assisted quality control, detecting minor defects or foreign objects to improve inspection accuracy
+- Optimize preservation processes (such as temperature, pressure, time) through data analysis
+- Reduce equipment failure and downtime with predictive maintenance
+- AI-optimized production scheduling to improve efficiency and reduce waste
+
+**Human moat:**
+
+- Complex sensory assessments (e.g., taste, flavour) require human experience
+- Emergency manual handling and repair during equipment failure
+- Communication and coordination with suppliers and clients
+- Compliance with food safety regulations and audit requirements
+- Innovate and develop new recipes or processes
+
+**Skills to build:**
+
+- Food processing equipment operation and maintenance
+- Knowledge of food safety regulations and HACCP
+- Data analysis and AI tool usage (e.g., quality inspection systems)
+- Automated production line monitoring and fault diagnosis
+- Basic programming skills (for adjusting machine parameters)
+- Supply chain management and inventory optimization
+
+**Key growth areas:**
 
 - Food Manufacturing
 - Seasonal Employment
@@ -63,62 +98,64 @@ Wash, peel, slice, can and preserve fruits and vegetables, ensuring food safety 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且年薪不低于3万欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪高于爱尔兰平均工资（约4.5万欧元），通常不适合该职业。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship and an annual salary of at least 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary above the Irish average wage (about 45,000 euros), which is generally not suitable for this occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fruit, Vegetable and Related Preserver？**
-- 喜欢动手操作、注重食品卫生的人
-- 愿意从事重复性流水线工作的人
-- 希望快速进入劳动力市场、无需高学历的人
+**Who is suited**
+- For people who enjoy hands-on work and food hygiene
+- Willing to work on repetitive assembly lines
+- For those seeking quick entry into the labor market without needing a higher degree
 
-**谁不适合学Fruit, Vegetable and Related Preserver？**
-- 追求高薪资和高晋升空间的人
-- 对季节性失业和体力劳动敏感的人
+**Who is not suited**
+- People pursuing high salary and high promotion potential
+- People sensitive to seasonal unemployment and manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a Fruit and Vegetable Preserver in Ireland?**
+A: Entry-level annual salary about EUR 25,000-30,000, senior up to EUR 45,000.
+
+**Q: Can non-EU citizens immigrate to Ireland through this occupation?**
+A: This occupation is not in shortage; obtaining a work permit is difficult and requires employer sponsorship and meeting salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fruit, Vegetable and Related Preserver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for fruit and vegetable preservers in Ireland?**
-答：Entry-level salary is around €25,000-€30,000, senior up to €45,000.
-
-**问：Can non-EU citizens immigrate through this occupation?**
-答：This occupation is not on the shortage list, making work permit acquisition difficult; employer sponsorship and salary threshold required.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

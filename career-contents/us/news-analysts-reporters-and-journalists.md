@@ -1,58 +1,94 @@
-# News Analysts, Reporters, and Journalists（News Analysts, Reporters, and Journalists）职业分析 · 美国
+# News Analysts, Reporters, and Journalists — career analysis · United States
 
-**职业代码：27-3023 – News Analysts, Reporters, and Journalists。**
+**Occupation code: 27-3023 (SOC)**
 
-Narrate or write news stories, reviews, or commentary for print, broadcast, or other media. Collect and analyze information through interviews, investigation, or observation.
+Broadcast or write news stories, commentaries, or opinion pieces for newspapers, magazines, radio, television, or other media. Collect and analyze information through interviews, investigations, or observation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学每年约1-4万美元，私立大学更高） |
-| 硕士学位 | 1-2年 | $30,000~$80,000（部分顶尖新闻学院学费较高） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities approx. USD 10,000-40,000 per year, private universities higher) |
+| Master's degree | 1-2 years | $30,000~$80,000 (Some top journalism schools have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学/传播学学士学位 | 大学 | 可选 | 多数雇主要求 |
-| 实习经验 | 媒体机构 | 可选 | 通常通过实习获得，非强制但重要 |
+| Bachelor's degree in Journalism/Communication | University | Optional | Most employers require |
+| Internship experience | Media organizations. | Optional | Usually obtained through internships, not mandatory but important. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 49,400。美国劳工统计局预测2023-2033年就业下降约3%，传统媒体岗位减少，但数字媒体和自由职业机会增加。竞争激烈，多技能者更占优势。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 49,400. BLS projects employment decline of about 3% from 2023-2033, with traditional media positions decreasing but digital media and freelance opportunities increasing. Competition is intense, with multi-skilled individuals having an advantage.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 小型市场或数字初创企业 |
-| 中级（4-7年） | $50,000~$75,000 | 中型市场或电视/报纸 |
-| 高级（8年以上） | $75,000~$120,000 | 大型市场或全国性媒体，主编级别 |
+| Median salary | $62,200 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Small market or digital startup |
+| Mid-level (4-7 years) | $50,000~$75,000 | Medium-sized market or television/newspaper |
+| Senior (8+ years) | $75,000~$120,000 | Large market or national media, editor-in-chief level. |
+| average salary | $102,460 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★½☆☆☆）。** 初级记者→专题记者/编辑→资深记者/主编→媒体管理者或转向公关、内容营销。数字化技能和多媒体能力可加速晋升。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools are significantly changing how journalists work, with automated writing and data analysis boosting efficiency, but deep investigations, exclusive reporting, and ethical judgment remain human strengths.
+
+Junior Reporter → Feature Reporter/Editor → Senior Reporter/Editor-in-Chief → Media Manager or transition to PR, content marketing. Digital skills and multimedia capabilities can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Generating structured news briefs for finance/sports
+- Transcribing interview recordings and extracting key information
+- Automatically generate formatted content for multiple platforms (e.g., social media posts)
+- Basic data cleaning and visualization in data journalism
+- Fact-checking (simple database-based verification)
+
+**Where AI augments the role:**
+
+- In-depth investigative reporting: AI-assisted data analysis and pattern recognition
+- Personalized content recommendation: AI analyzes reader preferences to optimize reporting strategies
+- Multilingual reporting: AI real-time translation and localization
+- Enhancing writing quality: AI provides grammar, style, and fact suggestions
+- Content distribution optimization: AI predicts optimal publication times and platforms
+
+**Human moat:**
+
+- Exclusive news source acquisition and interpersonal interviewing skills
+- Analysis and deep interpretation of complex event logic
+- Ethical judgment: balancing privacy, public interest, and reporting impact
+- Creative storytelling and emotional resonance skills
+- On-site adaptability and live reporting
+
+**Skills to build:**
+
+- Data analysis and data visualization tools (e.g. Python, R, Tableau)
+- Video shooting, editing, and podcast production
+- AI tool usage (e.g., ChatGPT for writing assistance, AI image generation)
+- Social media operations and audience analysis
+- Cross-platform content strategy and SEO basics
+- Project management and collaboration tools (e.g., Trello, Asana)
+
+**Key growth areas:**
 
 - Digital media
 - Freelance journalism
@@ -61,68 +97,67 @@ Narrate or write news stories, reviews, or commentary for print, broadcast, or o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于受雇于美国媒体公司的记者，需学士学位，配额有限 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出记者，需证明国际认可，无需抽签 |
-| Subclass EB-2（EB-2 Advanced Degree） | 具有硕士学位的记者可通过PERM申请绿卡，需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to journalists employed by US media companies; requires a bachelor's degree; limited quota |
+| Subclass O-1 (O-1 Extraordinary Ability) | For distinguished journalists, requires international recognition, no lottery needed |
+| Subclass EB-2 (EB-2 Advanced Degree) | Journalists with a master's degree can apply for a green card through PERM, requiring a labor certification. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学News Analysts, Reporters, and Journalists？**
-- 热爱写作和调查，具有强烈好奇心
-- 适应快速变化的工作环境，抗压能力强
-- 愿意学习多媒体技能，如视频、音频编辑
-
-**谁不适合学News Analysts, Reporters, and Journalists？**
-- 不喜欢人际交往或频繁出差
-- 无法接受不规律的工作时间和截稿压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about writing and investigation, with strong curiosity
+- Adaptable to rapidly changing work environments, strong stress tolerance
+- Willingness to learn multimedia skills such as video and audio editing
+
+**Who is not suited**
+- Dislikes interpersonal interaction or frequent travel
+- Unable to tolerate irregular working hours and deadline pressure.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a journalist?**
+A: Entry-level about USD 35,000–50,000, mid-level USD 50,000–75,000, senior USD 75,000–120,000. Higher at large markets or national media outlets.
+
+**Q: How can foreign journalists obtain a US work visa?**
+A: Common paths: H-1B requires bachelor's degree and subject to quota; O-1 visa for distinguished journalists, no lottery; EB-2 green card for journalists with master's degrees.
+
+**Q: What are the future trends in the journalism industry?**
+A: Traditional media roles are declining, but demand is growing for digital media, freelancing, and multimedia journalists. Skills such as data journalism and podcast production will increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 下降（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-News Analysts, Reporters, and Journalists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for journalists?**
-答：Entry-level: $35,000-$50,000; Mid-level: $50,000-$75,000; Senior: $75,000-$120,000. Higher in major markets.
-
-**问：How can foreign journalists get a US work visa?**
-答：Common paths: H-1B requires bachelor's degree and quota; O-1 for extraordinary journalists; EB-2 green card for those with master's degree.
-
-**问：What are the future trends in journalism?**
-答：Traditional media jobs decline, but digital media, freelancing, and multimedia reporting grow. Skills in data journalism and podcasting boost competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

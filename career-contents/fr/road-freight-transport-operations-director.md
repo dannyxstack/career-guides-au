@@ -1,61 +1,92 @@
-# Road Freight Transport Operations Director（Road Freight Transport Operations Director）职业分析 · FR
+# Road Freight Transport Operations Director — career analysis · France
 
-**职业代码：N4201 – Road Freight Transport Operations Director。**
+**Occupation code: N4201 (ROME)**
 
-Oversees the entire operations of a road freight transport company, including fleet management, route planning, cost control, customer relations, and regulatory compliance, ensuring efficient, safe, and profitable transport services.
+Responsible for managing the overall operations of the road freight company, including fleet dispatching, route planning, cost control, customer relations, and compliance management, ensuring efficient, safe, and profitable transportation services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业经验 | 5年以上经验 | —（通过在职晋升，无需额外学费） |
-| 物流/运输管理学士 | 3年（Licence） | $3,000~$15,000（公立大学学费低廉，私立高商昂贵） |
-| 物流/供应链硕士 | 2年（Master） | $5,000~$25,000（高商或公立大学，含学徒制选项） |
+| High school graduate + professional experience | Over 5 years of experience | $0~$1,000 (Promotion through in-service without additional tuition fees) |
+| Bachelor of Logistics/Transportation Management | 3 years (Licence) | $3,000~$15,000 (Public universities have low tuition fees, while private commercial schools are expensive) |
+| Master's degree in Logistics/Supply Chain | 2 years (Master) | $5,000~$25,000 (Higher commercial or public universities, with apprenticeship options) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 运输管理职业证书（CQP） | AFTRAL等培训机构 | 可选 | 行业认可，可学徒制获得 |
-| 运输经营许可证（Licence de transport） | DREAL | 必备 | 企业必备，要求管理者具备资质 |
-| 危险品运输培训（ADR） | INERIS等 | 可选 | 如涉及危险品必须持有 |
-| 物流与运输硕士 | 大学 | 可选 | 提升管理能力，非强制但加分 |
+| Licence de transport | DREAL | Required | Essential for enterprises, requiring managers to have qualifications |
+| Transportation Management Professional Certificate (CQP) | AFTRAL and other training institutions | Optional | Industry recognition, available through apprenticeship |
+| Dangerous Goods Transport Training (ADR) | INERIS, etc | Optional | If dangerous goods are involved, they must be carried in person |
+| Master's degree in Logistics and Transportation | University | Optional | Improving management skills is not mandatory but is a bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国电商与物流业持续扩张，公路货运需求稳定，但面临司机短缺和环保法规压力。数字化调度和绿色物流成为趋势，高级管理人才需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France's e-commerce and logistics industry continues to expand, with stable demand for road freight but facing driver shortages and environmental regulations. Digital scheduling and green logistics have become trends, with strong demand for senior management talent.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 运营主管或助理总监 |
-| 中级（3-7年） | $45,000~$65,000 | 运营总监或区域经理 |
-| 高级（7年以上） | $65,000~$90,000 | 集团运营总监或CEO |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Operations Supervisor or Assistant Director |
+| Mid-level (3–7 years) | $45,000~$65,000 | Operations Director or Regional Manager |
+| Senior (7+ years) | $65,000~$90,000 | Group Operations Director or CEO |
+| average salary | $52,632 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业生涯可从调度员、车队主管起步，晋升为运营经理、区域总监，最终成为运输公司CEO或创业。具备物流工程或MBA学历者发展更快。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will deeply reshape the work of highway freight operations directors, but core operational decisions, customer relations, and safety compliance responsibilities are difficult to replace. Overall, the value of jobs is amplified by AI, but some traditional skills are facing compression.
+
+Careers can start as dispatchers or fleet supervisors, rise to operations managers, regional directors, and eventually become transportation company CEOs or entrepreneurs. Those with a degree in logistics engineering or an MBA will develop faster.
+
+**Tasks most exposed to AI:**
+
+- Daily scheduling and route planning: AI automatically generates optimized plans, replacing manual decision-making
+- Cost accounting and report generation: Automated tools process fuel, toll, and other data in real time
+- Compliance document check: AI automatically matches transportation documents with regulatory requirements
+
+**Where AI augments the role:**
+
+- Real-time vehicle condition monitoring: AI predicts vehicle faults and assists in planning maintenance
+- Customer demand forecasting: optimize fleet configuration and pricing strategies based on historical data
+- Emergency response plan: AI simulates accident scenarios and provides multiple response plans
+- Performance Evaluation Analysis: AI analyzes driver performance from multiple dimensions to assist management decision-making
+
+**Human moat:**
+
+- Complex negotiations and maintaining client relationships
+- Strategic-level cost optimization and business expansion decisions
+- Responding to non-standard scenarios (such as severe weather and policy changes) for on-the-spot judgment
+- Taking ultimate responsibility for legal and safety compliance
+
+**Skills to build:**
+
+- Supply chain data analysis and predictive modeling
+- Operation of the Internet of Vehicles and fleet management system
+- AI scheduling software configuration and exception handling
+- Principles of automated driving technology and compliance knowledge
+- Cross-departmental digital project management
+
+**Key growth areas:**
 
 - Digital Transformation
 - Green Logistics
@@ -64,68 +95,67 @@ Oversees the entire operations of a road freight transport company, including fl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高级管理人才，需提供雇主合同及资质证明，有效期4年，可续签，可带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪职位（2025年门槛约年薪58,000欧元），需持有高等学历或5年经验，有效期1-4年，可带家属。 |
-| Subclass Salarié（Employee Work Permit） | 标准工作居留，需雇主担保及劳工局批准，薪资需符合行业标准，有效期1年，可续签。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to senior management talents, requiring employer contract and qualification certificates, valid for 4 years, renewable and allowed to bring family members. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions (with a 2025 threshold of about 58,000 euros per year), requiring higher education or 5 years of experience, valid for 1-4 years, and allowing family members. |
+| Subclass Salarié (Employee Work Permit) | Standard work residency requires employer sponsorship and approval from the Labor Bureau, salary must meet industry standards, valid for 1 year, and can be renewed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Road Freight Transport Operations Director？**
-- 具备物流或管理学背景，擅长团队领导与成本控制
-- 适应快节奏、高压力的工作环境
-- 对交通运输行业有热情，愿意持续学习新技术
-
-**谁不适合学Road Freight Transport Operations Director？**
-- 不喜出差或不善于与人沟通
-- 缺乏抗压能力，无法应对突发事件
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in logistics or management, skilled in team leadership and cost control
+- Adapt to fast-paced, high-pressure work environments
+- Passionate about the transportation industry and willing to continuously learn new technologies
+
+**Who is not suited**
+- Dislikes business trips or is not good at communicating with others
+- They lack the ability to handle pressure and cannot handle emergencies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Road Freight Operations Directors?**
+A: Junior approx. EUR 35,000-45,000/year, intermediate EUR 45,000-65,000, senior up to EUR 90,000, depending on company size and experience.
+
+**Q: Which visas can foreigners use to engage in this profession?**
+A: Work residence can mainly be obtained through the EU Blue Card (high salary) or the Talent Passport (Senior Management), which requires employer sponsorship.
+
+**Q: What mandatory qualifications are required for this profession?**
+A: Enterprises must hold a transportation operation license (Licence de transport), and managers must possess relevant qualifications (such as CQP or degrees).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Road Freight Transport Operations Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Road Freight Transport Operations Director?**
-答：Entry-level around €35,000-45,000, mid-level €45,000-65,000, senior up to €90,000 depending on company size and experience.
-
-**问：Which visas can foreigners use to work in this occupation?**
-答：Primarily the EU Blue Card (for high salary) or the Talent Passport (for senior management), requiring employer sponsorship.
-
-**问：What compulsory qualifications are required for this occupation?**
-答：The company must hold a transport operating license, and managers need relevant qualifications such as CQP or a degree.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

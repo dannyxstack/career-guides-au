@@ -1,61 +1,95 @@
-# Butchers, Fishmongers and Related Food Preparers（Butchers, Fishmongers and Related Food Preparers）职业分析 · NL
+# Butchers, Fishmongers and Related Food Preparers — career analysis · Netherlands
 
-**职业代码：7511 – Butchers, Fishmongers and Related Food Preparers。**
+**Occupation code: 7511 (ISCO08)**
 
-This occupation includes workers who slaughter, cut, process, and sell meat, fish, and poultry, typically in retail shops, markets, or food processing plants.
+This occupation includes workers who slaughter, cut, process, and sell meat, fish, and poultry, typically in retail stores, markets, or food processing plants.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（MBO） | 3-4年 | —（学费由政府资助，每年约2000欧元课程材料费） |
-| 在职培训 | 2-3年 | —（学徒制期间工资为最低工资，培训成本低） |
+| Vocational training (MBO) | 3-4 years | $0~$2,000 (Tuition funded by the government, about €2,000 per year for course materials) |
+| On-the-job training | 2-3 years | $0~$500 (Apprenticeship wages are at minimum wage, with low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | SVB或相关机构 | 可选 | 基本食品卫生知识，部分雇主要求 |
-| MBO屠宰证书 | 荷兰职业教育机构 | 必备 | MBO level 2-3 屠宰及肉类加工专业 |
-| HACCP培训 | 认证培训机构 | 可选 | 危害分析与关键控制点，部分岗位要求 |
+| MBO slaughter certificate | Dutch vocational education institution | Required | MBO level 2-3 Slaughtering and Meat Processing |
+| Food hygiene certificate | SVB or related agencies | Optional | Basic food hygiene knowledge, required by some employers |
+| HACCP training | Accredited training organization | Optional | Hazard Analysis and Critical Control Points, required for some positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰食品加工业稳定，但自动化可能导致初级岗位减少；对熟练屠夫和鱼贩的需求保持稳定，尤其在特色肉店和有机食品市场。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Dutch food processing industry is stable, but automation may reduce entry-level jobs; demand for skilled butchers and fishmongers remains stable, especially in specialty butcher shops and the organic food market.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含最低工资及加班 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，经验丰富者可达 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，主管或专精岗位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, includes minimum wage and overtime |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, available to experienced candidates |
+| Senior (7+ years) | $35,000~$45,000 | Annual salary before tax, for supervisor or specialist positions |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级工人可晋升为部门主管或店长；资深屠夫可专攻精细切割或质量控制，或自主创业开设肉铺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some cutting and inventory management tasks, but enhance product display, customer customization, and security monitoring capabilities; overall job demand is stable, but entry-level positions are narrowing due to automation.
+
+Junior workers can advance to department supervisor or store manager; experienced butchers can specialize in precision cutting or quality control, or start their own butcher shop.
+
+**Tasks most exposed to AI:**
+
+- Automated cutting machines and robots perform standardized meat cutting and deboning
+- AI vision system automatically inspects meat freshness and grades it
+- Inventory management system automatically predicts demand and replenishes stock
+- Self-checkout counters and electronic labels replace cashier and pricing tasks
+
+**Where AI augments the role:**
+
+- AI recommendation system provides personalized meat cutting and marinating recipe suggestions to improve customer satisfaction
+- Automatic traceability system records the source and cold chain of each piece of meat, enhancing food safety management
+- Smart workstations display cutting paths and waste data, helping optimize material utilization
+- Online order integration system automatically schedules production, reducing waiting time.
+
+**Human moat:**
+
+- Traditional manual cutting techniques (e.g., Japanese sashimi, complex deboning)
+- Customer interaction, recommendations, and personalized service (e.g., suggesting meat cuts based on recipes)
+- Sensory assessment of freshness and quality (smell, touch, color)
+- Handle emergencies (such as equipment breakdowns, customer complaints)
+- Manual pickling, seasoning and other creative processing
+
+**Skills to build:**
+
+- Basic AI tool use (inventory, order processing systems)
+- Data analysis skills (monitoring wastage, optimizing stock)
+- Customer communication and personalized service skills
+- Knowledge of food hygiene and safety regulations
+- Simple equipment maintenance and troubleshooting
+- Social media marketing (showcasing products, attracting customers)
+
+**Key growth areas:**
 
 - Food processing automation
 - Organic meat demand
@@ -64,67 +98,69 @@ This occupation includes workers who slaughter, cut, process, and sell meat, fis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但该职业通常不符合薪资门槛（2023年需至少€5,008/月）；仅高级管理岗位可能达标。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高技能和高薪，该职业通常不满足条件。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的国际学生，可自由工作一年，但职业前景有限。 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需额外签证，是该职业主要移民途径。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled migrants, but this occupation usually does not meet the salary threshold (2023: at least €5,008/month); only senior management positions may qualify. |
+| Subclass EU Blue Card (EU Blue Card) | Requires high skills and high pay; this occupation typically does not meet the conditions. |
+| Subclass Orientation Year (Orientation Year) | Available to international students who graduated in the Netherlands, allowing one year of free work, but career prospects are limited. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without additional visas, which is the main immigration pathway for this occupation. |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Butchers, Fishmongers and Related Food Preparers？**
-- 喜欢动手操作、对身体耐力要求不介意的人
-- 对食品加工和卫生标准有热情的人
-- 愿意接受职业培训并快速进入劳动力市场的人
+**Who is suited**
+- People who enjoy hands-on work and don't mind physical endurance demands
+- People passionate about food processing and hygiene standards
+- People willing to undergo vocational training and quickly enter the labour market
 
-**谁不适合学Butchers, Fishmongers and Related Food Preparers？**
-- 对血腥环境或动物处理感到不适的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People who are uncomfortable with bloody environments or animal handling
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a butcher in the Netherlands?**
+A: Pre-tax annual salary for junior butchers is approximately €22,000-€28,000, reaching €35,000 with experience, and up to €45,000 at supervisory level.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as butchers?**
+A: This occupation typically does not meet the salary standards for highly skilled migration or the EU Blue Card; the main pathway is EU free movement (for EU citizens) or obtaining residence through marriage to a Dutch citizen.
+
+**Q: What career development opportunities are there for butchers?**
+A: Can progress from entry-level cutter to department supervisor, store manager, or specialize in fine cutting, quality control, or start your own butcher shop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Butchers, Fishmongers and Related Food Preparers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for butchers in the Netherlands?**
-答：Entry-level butchers earn €22,000-€28,000 gross annually, experienced ones up to €35,000, and supervisors up to €45,000.
-
-**问：How can non-EU citizens migrate to the Netherlands as a butcher?**
-答：This occupation usually does not meet the salary threshold for highly skilled migrant or EU Blue Card; the main route is EU freedom of movement (for EU citizens) or family reunification.
-
-**问：What career advancement opportunities are there for butchers?**
-答：Progress from junior cutter to department supervisor, store manager, specialize in fine cutting or quality control, or start your own butcher shop.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

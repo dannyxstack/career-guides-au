@@ -1,60 +1,95 @@
-# Aircraft Launch and Recovery Specialists（Aircraft Launch and Recovery Specialists）职业分析 · 美国
+# Aircraft Launch and Recovery Specialists — career analysis · United States
 
-**职业代码：55-3012 – Aircraft Launch and Recovery Specialists。**
+**Occupation code: 55-3012 (SOC)**
 
-Operate and maintain catapults, arresting gear, and associated mechanical, hydraulic, and control systems for aircraft carrier takeoff and landing operations.
+Responsible for operating and maintaining aircraft catapults, arresting gear, and related mechanical hydraulic control systems on aircraft carriers to ensure safe takeoff and landing of carrier-based aircraft.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（入伍后由军队提供培训） |
-| 海军技术学校 | 6个月至1年 | —（免费，为现役军人提供） |
+| High school diploma or equivalent | 0 years | $0~$0 (Training provided by the military after enlistment) |
+| Naval technical school | 6 months to 1 year | $0~$0 (Free, provided for active military personnel) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国海军入伍资格 | 美国海军 | 必备 | 必须通过ASVAB测试并完成基础训练 |
-| 安全与操作认证 | 美国海军 | 必备 | 针对弹射系统和拦阻装置的专项培训认证 |
+| US Navy enlistment eligibility | United States Navy | Required | Must pass ASVAB test and complete basic training |
+| Safety and operational certifications | United States Navy | Required | Specialized training certification for ejection systems and arresting gear |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,900。美国海军对航母甲板专业人员有稳定需求，但岗位高度依赖军事预算，就业机会有限且集中于特定基地。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,900. The US Navy has a steady demand for aircraft carrier deck professionals, but positions are heavily dependent on military budgets, with limited job opportunities concentrated at specific bases.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $40,000~$60,000 | 军队薪资根据军衔和津贴，大约E-3至E-5水平 |
-| 中级（5-15年） | $60,000~$80,000 | 高级士兵或士官，E-6至E-8 |
-| 高级（15年以上） | $80,000~$100,000 | 军士长或高级专家，E-9；退役后转承包商薪资更高 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $40,000~$60,000 | Military pay depends on rank and allowances, roughly E-3 to E-5 level |
+| Intermediate (5-15 years) | $60,000~$80,000 | Senior enlisted or non-commissioned officer, E-6 to E-8 |
+| Senior (15+ years) | $80,000~$100,000 | Sergeant major or senior specialist, E-9; higher salary as contractor after retirement |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从士兵或技术人员起步，通过军事训练和实操经验晋升为高级专家或主管，退役后可转至军工或航空工程领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+typically starting as a soldier or technician, advancing through military training and hands-on experience to senior expert or supervisor, then transitioning to defense or aerospace engineering after service.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - military
 - naval aviation
@@ -63,65 +98,67 @@ Operate and maintain catapults, arresting gear, and associated mechanical, hydra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 此职业通常为军事岗位，不适用于H-1B；极少相关民用岗位可能申请 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 非军事承包商可能有绿卡途径，但极少 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation is typically a military role and does not apply to H-1B; very few related civilian positions may apply |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Non-military contractors may have green card pathways, but very rare |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aircraft Launch and Recovery Specialists？**
-- 有强烈军旅意愿且能适应高强度军事环境
-- 对机械液压系统有浓厚兴趣
-- 愿意在航母上长期部署
+**Who is suited**
+- Strong desire to serve in the military and ability to adapt to high-intensity military environments
+- Strong interest in mechanical and hydraulic systems.
+- Willing to deploy long-term on aircraft carriers.
 
-**谁不适合学Aircraft Launch and Recovery Specialists？**
-- 不愿接受军事纪律和严格体能要求
-- 追求高薪资和快速职业发展者
+**Who is not suited**
+- Unwilling to accept military discipline and strict physical requirements
+- Those seeking high salary and rapid career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Military salary based on rank and years of service. Junior approx. $40,000-60,000, senior NCOs up to $80,000-100,000. Contractor pay higher after service.
+
+**Q: Can non-US citizens work in this occupation?**
+A: Generally not possible; the occupation involves core US Navy operations and usually requires US citizenship.
+
+**Q: What are the career development paths?**
+A: Start as a soldier, advance through technical training and experience to become a non-commissioned officer or specialist; after service, enter military industry or aviation maintenance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Aircraft Launch and Recovery Specialists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Military pay is based on rank and years of service; junior enlisted earn $40,000-$60,000, senior enlisted up to $80,000-$100,000, and civilian contractors higher.
-
-**问：Can non-U.S. citizens work in this occupation?**
-答：Generally no, as it involves U.S. Navy core operations and typically requires U.S. citizenship.
-
-**问：What are the career progression paths?**
-答：Start as enlisted, advance through technical training to senior NCO or specialist, then transition to defense or aviation maintenance after service.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

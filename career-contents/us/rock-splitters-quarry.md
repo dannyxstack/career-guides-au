@@ -1,60 +1,94 @@
-# Rock Splitters, Quarry（Rock Splitters, Quarry）职业分析 · 美国
+# Rock Splitters, Quarry — career analysis · United States
 
-**职业代码：47-5051 – Rock Splitters, Quarry。**
+**Occupation code: 47-5051 (SOC)**
 
-Separate blocks of rough dimension stone from quarry mass using jackhammers, wedges, or chop saws; the first step in stone processing.
+In quarries, use rock drills, wedges, and cutting saws to separate rough stone from ore bodies into regular-sized blocks; this is the first step in stone processing.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 在职培训 | 数月至1年 | —（雇主通常提供，部分需自费工具） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| On-the-job training | Several months to 1 year | $0~$1,000 (Usually provided by employer, some require self-funded tools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定执照要求 | 无 | 可选 | 多数州无需正式证书，但可能需要安全培训 |
-| OSHA安全认证 | Occupational Safety and Health Administration | 必备 | 采石场通常要求完成OSHA 10小时或30小时通用行业安全培训 |
+| OSHA safety certification | Occupational Safety and Health Administration | Required | Quarries usually require completion of OSHA 10-hour or 30-hour general industry safety training |
+| No specific license requirements. | None | Optional | Most states do not require a formal certificate, but safety training may be needed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 1,200。受建筑业波动影响，预计未来十年就业增长约4%，与所有职业平均持平。采石场机械化程度提高，但手工劈裂岗位仍有一定需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,200. Affected by construction industry fluctuations, expected employment growth of about 4% over the next decade, in line with all occupation average. Quarry mechanization is increasing, but manual splitting positions still have some demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒或新手 |
-| 中级（3-6年） | $45,000~$55,000 | 熟练工 |
-| 高级（6年以上） | $55,000~$65,000 | 领班或资深员工 |
+| Median salary | $48,740 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprentice or beginner |
+| Mid-level (3–6 years) | $45,000~$55,000 | Skilled worker |
+| Senior (6+ years) | $55,000~$65,000 | Supervisor or senior staff |
+| average salary | $51,500 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为采石场领班或现场主管；通过经验积累转型为石料切割技师或石材加工车间操作员；少数进入矿山安全管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Rock splitters face high automation risk; automated machinery will gradually replace manual splitting, leading to shrinking demand
+
+Can advance to quarry foreman or site supervisor; transition to stone cutting technician or stone processing workshop operator through experience; a few move into mine safety management roles.
+
+**Tasks most exposed to AI:**
+
+- Use rock drills to bore holes for setting split direction
+- Manual placement of wedges and expanding agents for rock splitting
+- Use cutting saws to cut smaller stones
+- Assess rock fractures and textures to plan splitting lines
+- Carry and stack separated stones.
+
+**Where AI augments the role:**
+
+- Use drones or 3D scanning for precise surveying of ore bodies
+- Use AI-assisted software to optimize splitting plans to reduce waste
+- Remote monitoring of automated splitting equipment operation
+- Combines digital twin technology to simulate the mining process.
+
+**Human moat:**
+
+- Judgment and decision-making in complex geological conditions
+- On-site safety management and emergency response skills
+- Hands-on ability in equipment repair and debugging
+- Leadership in coordinating with other trades.
+
+**Skills to build:**
+
+- Automated equipment operation and maintenance
+- Digital mapping and modeling (e.g., drones, 3D scanning)
+- Basic programming and PLC control
+- Data analysis and decision support tools
+- Safety procedures and compliance management
+- Team management and communication coordination
+
+**Key growth areas:**
 
 - Construction industry
 - Natural stone
@@ -63,65 +97,67 @@ Separate blocks of rough dimension stone from quarry mass using jackhammers, wed
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 适用于临时性非农业工作，但采石场岗位需证明劳工短缺，且配额有限。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference (EB-3)） | 理论上可行，但需PERM劳工证，且雇主需证明无法招到美国工人。实际操作极少。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applicable for temporary non-agricultural work, but quarry jobs require proof of labor shortage and limited quota. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Theoretically possible, but requires PERM labor certification and employer proof of inability to recruit U.S. workers. Extremely rare in practice. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Rock Splitters, Quarry？**
-- 体力充沛、适应户外重体力劳动者
-- 对自然石材加工感兴趣、愿意学习手工艺者
-- 能接受偏远地区工作和季节性失业风险者
+**Who is suited**
+- Physically fit, adaptable to heavy outdoor labor
+- Those interested in natural stone processing and willing to learn craftsmanship
+- Those who can accept remote area work and seasonal unemployment risk
 
-**谁不适合学Rock Splitters, Quarry？**
-- 无法承受高强度体力劳动或粉尘环境者
-- 希望稳定办公室工作或快速晋升者
+**Who is not suited**
+- Those unable to handle heavy physical labor or dusty environments
+- For those seeking stable office work or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a rock splitter?**
+A: According to BLS data, the 2023 median annual wage for this occupation was about $47,000, entry-level around $35,000-$45,000, and experienced up to $55,000-$65,000.
+
+**Q: Can international workers obtain H-1B visas for this occupation?**
+A: H-1B requires a specialty occupation (usually bachelor's degree or higher); rock splitters are manual labor and do not meet H-1B requirements. Common path is H-2B temporary work visa, but green card path is extremely difficult.
+
+**Q: What are the career advancement opportunities?**
+A: Can advance to quarry supervisor, or transition to stone cutting technician, stone processing operator; also can enter mine safety management through experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Rock Splitters, Quarry属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Rock Splitters, Quarry?**
-答：According to BLS, the median annual wage in 2023 was about $47,000; entry-level $35,000-$45,000, experienced up to $55,000-$65,000.
-
-**问：Can international workers obtain an H-1B visa for this occupation?**
-答：H-1B requires a specialty occupation (typically bachelor's degree). This is manual labor and ineligible. H-2B temporary visa is possible, but green card pathway is extremely rare.
-
-**问：What are the career advancement opportunities?**
-答：Can advance to quarry supervisor, stone cutter, or processing operator; some move into mine safety management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

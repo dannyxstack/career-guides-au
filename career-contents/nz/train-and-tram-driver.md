@@ -1,59 +1,95 @@
-# Train and Tram Driver（Train and Tram Driver）职业分析 · 新西兰
+# Train and Tram Driver — career analysis · New Zealand
 
-**职业代码：731111 – Train and Tram Driver。**
+**Occupation code: 731111 (ANZSCO)**
 
-In New Zealand, train drivers operate intercity passenger, freight, and scenic trains, requiring an NZTA railway locomotive license. Skilled migration is possible via SMC 6-point system, needing at least 3 years of relevant experience or local employer sponsorship.
+In New Zealand, train drivers operate intercity passenger, freight, and tourist trains, requiring an NZTA-issued rail locomotive driving license. Skilled migration requires SMC 6-point system, with at least 3 years of relevant experience or local employer sponsorship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 入职培训及实习 | 6-12个月 | $5,000~$15,000（新西兰铁路公司提供的职前培训及实习费用，部分由雇主承担） |
-| 学徒制（可选） | 2-3年 | —（新西兰不设强制性学徒，但可通过Rail ITO学徒项目积累经验，通常带薪） |
+| Induction training and internship | 6–12 months | $5,000~$15,000 (Pre-employment training and internship costs provided by New Zealand railway companies, partly borne by the employer) |
+| Apprenticeship (optional) | 2-3 years | $0~$0 (New Zealand does not mandate apprenticeships, but experience can be gained through Rail ITO apprenticeship programs, usually paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 铁路机车驾驶执照（全级） | 新西兰交通局（NZTA） | 必备 | 必须通过理论和实操考试，包含医疗和药物测试，每5年更新 |
-| 危险品运输认证（Dangerous Goods） | NZQA认可培训机构 | 可选 | 如运输危险货物，需持有相关认证 |
-| 新西兰驾照Class 2及以上 | NZTA | 可选 | 部分雇主要求，用于场内驾驶或应急 |
+| Railway locomotive driving license (full class) | New Zealand Transport Agency (NZTA) | Required | Must pass theory and practical exams, including medical and drug tests; renewed every 5 years |
+| Dangerous Goods Transport Certification | NZQA-recognised training provider | Optional | If transporting dangerous goods, must hold relevant certification |
+| New Zealand driver's license Class 2 or above | NZTA | Optional | Required by some employers for on-site driving or emergencies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰铁路行业稳定，主要雇主为KiwiRail和奥克兰城铁。货运和通勤客流增长带动有限招聘，但岗位竞争中等，退休替补为主。劳资协议通常保障薪资年增。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand rail industry is stable, with main employers KiwiRail and Auckland City Rail. Cargo and commuter traffic growth drives limited recruitment; job competition is moderate, mainly replacement of retirees. Labor agreements typically guarantee annual salary increases.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理或实习司机阶段 |
-| 中级（4-7年） | $75,000~$95,000 | 持全级执照，独立驾驶 |
-| 高级（8年以上） | $95,000~$120,000 | 含加班及津贴，资深或负责特殊线路 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Assistant or intern driver stage |
+| Mid-level (4-7 years) | $75,000~$95,000 | Hold a full license and drive independently |
+| Senior (8+ years) | $95,000~$120,000 | Includes overtime and allowances, senior or responsible for special routes |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级司机从助理或调车员做起，考取全级执照后驾驶干线列车。可晋升至资深司机、培训师或调度管理，部分转入铁路安全或运营管理岗。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Train drivers face mixed impacts from AI/automation: train control systems and autonomous driving technologies will replace some operational tasks, but safety responsibilities, complex route handling, and industry regulatory requirements still provide a moat for humans; mining and freight routes have strong demand, and entry-level positions may temporarily shrink then stabilize.
+
+Junior drivers start as assistants or shunters, obtain full license to drive trunk trains. Can advance to senior driver, trainer, or dispatch management, some transition to railway safety or operations management.
+
+**Tasks most exposed to AI:**
+
+- Automatic Train Operation (ATO) takes over normal driving, acceleration, and braking
+- AI monitoring systems replacing manual inspection of signals and track conditions
+- Remote dispatch center takes over route planning and dispatch instructions
+- Autonomous freight trains on closed routes replace human drivers
+- AI Fault Diagnosis Systems Replacing Some Mechanical Inspections and Reports
+
+**Where AI augments the role:**
+
+- AI-assisted driving systems providing real-time optimal speed and braking suggestions
+- Augmented reality (AR) dashboards merging track, weather, and signal information
+- AI predictive maintenance alerts reduce sudden failures and misjudgments
+- Smart scheduling systems optimise shifts and energy consumption, improving efficiency
+- Digital twin simulation of extreme scenarios to enhance emergency training effectiveness
+
+**Human moat:**
+
+- Independent judgment and safety responsibility in emergency situations (e.g., sudden derailment risk)
+- Experience-based intuition for multiple line types (heavy-haul, passenger, curved)
+- Non-standard communication and collaboration with dispatchers, signalers, and station staff
+- Mandatory certification of operator qualifications under legal and industry regulations
+- Accountability pressure from public safety expectations
+
+**Skills to build:**
+
+- Proficient in operating and monitoring Automatic Train Operation (ATO) systems
+- Learn to use predictive maintenance and remote diagnostic tools
+- Familiarity with in-car AI-assisted driving interfaces and data interpretation
+- AI simulation training for basic emergency decision-making.
+- Mastering railway communication protocols and automated dispatching interfaces
+- Understanding railway safety regulations and automated compliance standards
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,65 +98,64 @@ In New Zealand, train drivers operate intercity passenger, freight, and scenic t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 若ANZSCO等级为2或3，需6分制且薪资达中位数门槛（约$29.66/小时），学历或经验可折算分数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若获KiwiRail等认证雇主担保，可申请最长3年工签，薪资须达市场水平（约$30/小时） |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 火车驾驶员不在当前Green List上，但若未来列入T2，工作2年后可转居留 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | If ANZSCO level is 2 or 3, need 6-point system with salary at median threshold (approx. $29.66/hour); qualifications or experience can convert to points. |
+| Subclass AEWV (Accredited Employer Work Visa) | If sponsored by an accredited employer like KiwiRail, can apply for a work visa up to 3 years; salary must meet market rate (approx. $30/hour) |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Train drivers are not currently on the Green List, but if added to Tier 2 in the future, they can apply for residence after 2 years of work |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Train and Tram Driver？**
-- 喜欢独立工作、适应轮班和长时间驾驶的人士
-- 有责任心、安全意识强、通过严格体检的求职者
-- 愿意在主要城市或重要货运枢纽（如汉密尔顿）定居的申请人
-
-**谁不适合学Train and Tram Driver？**
-- 无法接受不规则作息或长期离家的人
-- 对严格规章制度和频繁药物测试感到压力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working independently, adapting to shift work, and long driving hours
+- Responsible, safety-conscious job seekers who pass strict medical exams.
+- Applicants willing to settle in major cities or key freight hubs (e.g., Hamilton).
+
+**Who is not suited**
+- Cannot accept irregular hours or long periods away from home
+- Those who feel stressed by strict regulations and frequent drug tests
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for train drivers in New Zealand?**
+A: Entry-level truck driver annual salary is about NZD 55,000-75,000, intermediate NZD 75,000-95,000, senior up to NZD 120,000 (including overtime). Large companies like KiwiRail offer relatively stable pay.
+
+**Q: Can train drivers pursue skilled migration?**
+A: Yes, via SMC 6-point system. This occupation is typically ANZSCO Skill Level 2 or 3, must meet salary requirements (hourly at least $29.66). Experience or qualifications can be converted into points; NZ qualifications or local work gives extra points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Train and Tram Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for train drivers in New Zealand?**
-答：Entry-level drivers earn NZD 55,000-75,000, mid-level NZD 75,000-95,000, senior up to NZD 120,000 (including overtime). Major employers like KiwiRail offer stable pay.
-
-**问：Can train drivers apply for skilled migration?**
-答：Yes, via SMC 6-point system. The occupation is typically ANZSCO Skill Level 2 or 3, requiring a salary threshold of at least NZD 29.66/hour. Experience or qualifications can earn points, with NZ qualifications or local work bonus.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

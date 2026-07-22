@@ -1,59 +1,95 @@
-# Enrolled Nurse（Enrolled Nurse）职业分析 · 新西兰
+# Enrolled Nurse — career analysis · New Zealand
 
-**职业代码：411411 – Enrolled Nurse。**
+**Occupation code: 411411 (ANZSCO)**
 
-Enrolled Nurses (ANZSCO 4112-11) are registered healthcare professionals providing direct patient care, with stable demand in New Zealand and migration pathways via Green List direct residence or Skilled Migrant Category.
+Enrolled nurses in Australia and New Zealand (ANZSCO 4112-11) are registered healthcare professionals providing direct patient care. Demand in New Zealand is stable, and immigration is possible via the Green List direct residence or skilled migration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 登记护士文凭（Diploma in Enrolled Nursing） | 18-24个月 | $15,000~$30,000（包括学费和材料费，国际学生费用更高。） |
-| 本科学位转注册护士 | 3年 | $50,000~$90,000（若从登记护士升级，可减免部分学分。） |
+| Diploma in Enrolled Nursing | 18-24 months | $15,000~$30,000 (Includes tuition and material fees, higher for international students.) |
+| Bachelor's degree to registered nurse | 3 years | $50,000~$90,000 (If upgrading from enrolled nurse, some credits may be waived.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰护理委员会注册 | Nursing Council of New Zealand | 必备 | 必须完成认可课程并通过NCLEX-PN或CAP考试。 |
-| 雅思学术类总分7分或同等英语测试 | 如IELTS | 必备 | 国际申请者需满足英语要求。 |
-| 年度执业证书（APC） | Nursing Council of New Zealand | 必备 | 每年更新，维持注册必需。 |
+| New Zealand Nursing Council registration | Nursing Council of New Zealand | Required | Must complete an accredited course and pass the NCLEX-PN or CAP exam. |
+| IELTS Academic overall score of 7 or equivalent English test | e.g., IELTS | Required | International applicants must meet English language requirements. |
+| Annual Practising Certificate (APC) | Nursing Council of New Zealand | Required | Updated annually, necessary to maintain registration. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 16,000。新西兰人口老龄化及医疗需求增长推动登记护士持续短缺，尤其在农村和初级保健领域。就业前景强劲，预计未来5年需求增长15%以上。
+**Job demand: very high (★★★★½).** National workforce approx. 16,000. New Zealand's aging population and growing healthcare demand drive a persistent shortage of enrolled nurses, especially in rural and primary care. Job prospects are strong, with demand expected to grow over 15% in the next 5 years.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 多为公立医院或养老院起薪。 |
-| 中级（4-8年） | $65,000~$78,000 | 含专科或管理职责。 |
-| 高级（9年以上） | $78,000~$95,000 | 包括临床专家或团队领导。 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Most start in public hospitals or nursing homes. |
+| Mid-level (4–8 years) | $65,000~$78,000 | Includes specialist or managerial responsibilities. |
+| Senior (9+ years) | $78,000~$95,000 | includes clinical specialists or team leaders |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：乐观（★★★★☆）。** 初级登记护士可向临床专科（如老年护理、心理健康）或管理岗位发展，也可通过进修成为注册护士，薪资与晋升空间显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Enrolled nurses' overall job content is not easily fully replaced by AI, but administrative, clerical, and some monitoring tasks face automation risks; meanwhile, AI can improve patient monitoring and decision support efficiency, requiring proactive learning of digital tools to remain competitive
+
+Enrolled nurses can advance to clinical specialties (e.g., aged care, mental health) or management roles, or become registered nurses through further study, significantly increasing salary and promotion opportunities
+
+**Tasks most exposed to AI:**
+
+- Record vital signs and enter electronic medical records
+- Routine medication reconciliation and dispensing reminders
+- Screening and responding to basic patient monitoring alarms
+- Automatic adjustment of scheduling and care plans
+- Medical supply inventory management and auto-replenishment
+
+**Where AI augments the role:**
+
+- AI-assisted clinical decision-making: recommending nursing plans based on patient data
+- Smart monitoring systems: identifying early signs of deterioration and issuing alerts
+- Automatically generate nursing reports and handover documents
+- Virtual training and simulated scenario drills
+- Multilingual Real-Time Translation Assistance and Communication with Multicultural Patients
+
+**Human moat:**
+
+- Clinical judgment and complex condition assessment
+- Human care and psychological support
+- Fine hand motor skills (e.g., dressing changes, injections)
+- Cross-team collaboration and communication
+- Decision-making and adaptability in emergency situations
+
+**Skills to build:**
+
+- Electronic health record systems and nursing informatics
+- Basic data analysis and use of clinical decision support tools
+- Remote monitoring and digital health technology
+- Improving communication and empathy skills
+- Emergency and life support training
+- Cross-cultural nursing skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Enrolled Nurses (ANZSCO 4112-11) are registered healthcare professionals providi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Straight to Residence Visa） | 登记护士在绿色清单T1，符合条件可立即申请居留，无需工作经验。 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（如学历+经验），可申请技术移民。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未直接满足居留条件，可通过认证雇主工签积累经验。 |
+| Subclass Green List T1 (Green List Straight to Residence Visa) | Enrolled nurses are on the Green List Tier 1, eligible to apply for residence immediately without work experience. |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system (e.g., qualifications + experience) and can apply for skilled migration. |
+| Subclass AEWV (Accredited Employer Work Visa) | If residency conditions are not directly met, can gain experience through an Accredited Employer Work Visa. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Enrolled Nurse？**
-- 具备耐心、同理心和沟通能力的人
-- 愿意在医疗一线工作并能承受一定压力的人
-- 计划通过技术移民新西兰并寻求稳定职业的人
-
-**谁不适合学Enrolled Nurse？**
-- 不耐轮班或高强度工作环境的人
-- 对血液、伤口等医疗场景感到不适的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience, empathy, and communication skills
+- Those willing to work on the medical frontline and able to handle some pressure
+- People planning to migrate to New Zealand through skilled migration and seeking stable careers
+
+**Who is not suited**
+- People who cannot tolerate shift work or high-stress environments
+- People who are uncomfortable with medical scenes such as blood and wounds
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for enrolled nurses in New Zealand?**
+A: Entry-level annual income approx NZD 55,000-65,000, mid-level NZD 65,000-78,000, senior can reach NZD 78,000-95,000. Public hospital salaries are transparent, private may vary.
+
+**Q: How can enrolled nurses immigrate to New Zealand?**
+A: Enrolled nurses are on the Green List Tier 1, eligible for Straight to Residence visa, or through Skilled Migrant Category (SMC) 6-point system. Requires Nursing Council of New Zealand registration and IELTS 7.0.
+
+**Q: What are the career development paths for enrolled nurses?**
+A: Can specialize in aged care, community health, mental health, or further study to become a Registered Nurse (RN), then move into management or education roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 乐观（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Enrolled Nurse的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for enrolled nurses in New Zealand?**
-答：Entry-level annual income is around NZD 55,000-65,000, mid-level NZD 65,000-78,000, and senior up to NZD 78,000-95,000. Public hospitals have transparent pay scales.
-
-**问：How can enrolled nurses immigrate to New Zealand?**
-答：Enrolled nurses are on Green List Tier 1, eligible for Straight to Residence Visa, or via Skilled Migrant Category (6-point system). Requires registration with Nursing Council and IELTS 7.0.
-
-**问：What are the career progression options for enrolled nurses?**
-答：Options include specializing in aged care, community health, mental health, or upgrading to registered nurse (RN) for management or education roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

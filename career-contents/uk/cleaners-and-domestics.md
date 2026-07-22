@@ -1,58 +1,92 @@
-# Cleaners and domestics（Cleaners and domestics）职业分析 · UK
+# Cleaners and domestics — career analysis · United Kingdom
 
-**职业代码：9223 – Cleaners and domestics。**
+**Occupation code: 9223 (SOC)**
 
-Cleaners and domestics clean interiors of private houses, shops, hotels, schools, offices and other buildings. This occupation has stable demand in the UK labour market with low entry barriers but low wages.
+Cleaners and domestic servants clean the interiors of private residences, shops, hotels, schools, offices, and other buildings. This occupation has stable demand in the UK labour market, low entry barriers, but low salary levels.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（无需正规教育） |
+| No education requirement | 0 years | $0~$0 (No formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 雇主通常提供在职培训 |
+| No mandatory requirements | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 750,000。英国清洁行业预计未来5年将保持稳定增长，受服务业和商业清洁需求驱动。但自动化威胁较低，职位流失风险小。
+**Job demand: high (★★★★☆).** National workforce approx. 750,000. The UK cleaning industry is expected to see steady growth over the next 5 years, driven by demand for services and commercial cleaning. However, automation threat is low and job loss risk is minimal.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 按最低工资计算，时薪约10-11英镑 |
-| 中级（3-5年） | $22,000~$26,000 | 经验丰富者或主管 |
-| 高级（5年以上） | $26,000~$30,000 | 清洁经理或专业领域 |
+| Median salary | $24,130 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Based on minimum wage, about 10-11 GBP per hour |
+| Mid-level (3–5 years) | $22,000~$26,000 | Experienced personnel or supervisors |
+| Senior (5+ years) | $26,000~$30,000 | Cleaning Manager or specialist area |
+| average salary | $24,674 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径有限，通常从初级清洁工起步，可晋升为清洁主管或清洁经理，或转向专业清洁领域如商业清洁、工业清洁。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
+
+Limited career progression path, usually starting as junior cleaner, can advance to cleaning supervisor or cleaning manager, or move into specialized cleaning fields such as commercial cleaning or industrial cleaning.
+
+**Tasks most exposed to AI:**
+
+- Clean floors using smart vacuum and mop robots
+- Operation monitoring of automatic window cleaning robots
+- Dust removal in standard areas such as corridors and halls following preset routes.
+- Use automatic disinfection robots to disinfect bathrooms and kitchens.
+
+**Where AI augments the role:**
+
+- Use AI scheduling system to optimize multi-site cleaning routes and schedules
+- Use smart sensors to monitor dirt levels and precisely schedule cleaning frequency
+- Receive health and safety alerts via wearable devices to enhance personal protection
+- Adjusts service details using a customer review AI system to improve satisfaction
+- Use digital tools to manage cleaning supplies, reducing waste
+
+**Human moat:**
+
+- Identification and targeted treatment of complex stubborn stains (e.g., carpet stains, oil stains).
+- Communicate with clients to understand specific needs and flexibly adjust cleaning methods
+- Ability to handle unexpected situations (e.g., breaking items, pet accidents)
+- Fine cleaning and care of valuable items (e.g., antiques, silk)
+
+**Skills to build:**
+
+- Basic AI device operation and simple troubleshooting
+- Use cleaning management software for scheduling and customer relationship management
+- Learn specialized cleaning techniques (e.g., stone care, disinfection)
+- Improve communication and customer service skills
+- Basic English proficiency to interact with smart devices or serve foreign clients
+- Learn about personal protective equipment and eco-friendly cleaning agents
+
+**Key growth areas:**
 
 - Stable demand
 - Low automation risk
@@ -61,66 +95,68 @@ Cleaners and domestics clean interiors of private houses, shops, hotels, schools
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 通常不符合技能工签要求，因该职业不在 eligible occupations 列表中 |
-| Subclass Health & Care（Health and Care Worker Visa） | 不适用，非医疗相关 |
-| Subclass Graduate（Graduate Visa） | 持有毕业生签证者可从事清洁工作，但无永居导向 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Typically does not meet skilled work visa requirements as the occupation is not in the eligible occupations list |
+| Subclass Health & Care (Health and Care Worker Visa) | Not applicable, non-medical related |
+| Subclass Graduate (Graduate Visa) | Graduate visa holders may work in cleaning, but no permanent residency pathway. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaners and domestics？**
-- 希望快速就业且无学历要求者
-- 寻求兼职或灵活工作时间者
-- 体力较好且能接受重复性工作的人
+**Who is suited**
+- Those seeking quick employment with no academic requirements.
+- Seeking part-time or flexible working hours
+- People with good physical strength who can accept repetitive work.
 
-**谁不适合学Cleaners and domestics？**
-- 追求高薪资和职业晋升的人
-- 希望获得技术移民身份的人
+**Who is not suited**
+- People seeking high salary and career advancement
+- People seeking skilled migration status
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a cleaner in the UK?**
+A: Entry-level cleaners earn around £18,000-22,000 per year, experienced ones can reach £26,000-30,000. Pay is based on minimum wage, typically £10-11 per hour.
+
+**Q: Can a cleaner apply for a UK work visa?**
+A: Cleaners generally do not meet the requirements for a UK Skilled Worker Visa, as this occupation is not on the eligible occupations list. However, holders of a Graduate Visa can perform this work, but cannot obtain permanent residency through this pathway.
+
+**Q: What promotion opportunities are there for cleaners?**
+A: Cleaners can advance to cleaning supervisor, cleaning manager, or transition to specialized cleaning fields such as commercial cleaning, industrial cleaning, carpet cleaning, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（½☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Cleaners and domestics属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cleaners in the UK?**
-答：Entry-level cleaners earn around £18,000-£22,000 per year, while experienced ones can reach £26,000-£30,000. Wages are based on the National Minimum Wage, typically £10-11 per hour.
-
-**问：Can cleaners apply for a UK work visa?**
-答：Cleaners are generally not eligible for the Skilled Worker Visa as the occupation is not on the eligible list. However, those with a Graduate Visa can work as cleaners, but it does not lead to permanent residency.
-
-**问：What are the career progression opportunities for cleaners?**
-答：Cleaners can progress to cleaning supervisor, cleaning manager, or specialise in areas such as commercial cleaning, industrial cleaning, or carpet cleaning.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

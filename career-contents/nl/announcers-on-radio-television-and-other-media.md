@@ -1,60 +1,95 @@
-# Announcers on Radio, Television and Other Media（Announcers on Radio, Television and Other Media）职业分析 · NL
+# Announcers on Radio, Television and Other Media — career analysis · Netherlands
 
-**职业代码：2656 – Announcers on Radio, Television and Other Media。**
+**Occupation code: 2656 (ISCO08)**
 
-Responsible for presenting news, music, advertisements, and program content on radio, television, and other media platforms, engaging audiences and delivering information.
+Delivering news, music, advertisements, and program content on broadcast, television, and other media platforms to inform and engage audiences.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育/学士 | 3年（学士） | —（公立大学本科每年约2000欧元学费，MBO可能免费） |
-| 硕士 | 1-2年 | $2,000~$18,000（非欧盟学生学费较高，约15000欧元/年） |
+| Vocational education diploma/bachelor's degree | 3 years (bachelor's degree) | $0~$8,000 (Public university bachelor's degree tuition is about €2,000 per year, MBO may be free) |
+| Master's degree | 1-2 years | $2,000~$18,000 (Non-EU students have higher tuition fees, around €15,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广播通讯或新闻学学士 | 荷兰应用科学大学或研究型大学 | 可选 | 常见入学要求，相关学位优先 |
-| 实习经验 | 媒体公司或广播电台 | 可选 | 多数雇主要求实习或工作样品 |
+| Bachelor's in Broadcasting, Communication, or Journalism | University of Applied Sciences or research university in the Netherlands | Optional | Typical entry requirements: relevant degree preferred. |
+| Internship experience | Media companies or radio stations. | Optional | Most employers require internship or work samples |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,200。荷兰媒体行业竞争激烈，数字化趋势明显，但广播和电视播音员岗位稳定，预计2024-2029年就业人数小幅下降，退休人员将带来部分空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. The Dutch media industry is highly competitive with a clear digital trend, but broadcast and television announcer positions are stable. Employment numbers are expected to decline slightly from 2024 to 2029, with retirements creating some vacancies.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，视平台和规模而定 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪，大型电台或电视台可能更高 |
-| 高级（7年以上） | $50,000~$80,000 | 税前年薪，知名主持人或有管理职责 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual salary before tax, depending on platform and scale |
+| Mid-level (3–7 years) | $35,000~$50,000 | Pre-tax annual salary, may be higher at large radio or TV stations |
+| Senior (7+ years) | $50,000~$80,000 | Annual salary before tax, for well-known hosts or those with managerial responsibilities |
+| average salary | $45,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中低（★★☆☆☆）。** 初级播音员可通过积累经验晋升为节目主持人或编辑，部分转向数字媒体内容制作。高级职位包括资深播音员或媒体经理。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Broadcasters face disruption from AI voice synthesis and automated broadcasting, with simple tasks being replaced; but in multi-platform content creation, personalised interaction, and live responses, AI can serve as an enhancement tool.
+
+Junior broadcasters can advance to program hosts or editors through experience, with some transitioning to digital media content production. Senior roles include senior broadcaster or media manager.
+
+**Tasks most exposed to AI:**
+
+- Automated broadcast of standardized news, weather, and traffic information
+- Generate and play advertising and promotional content (AI voice synthesis)
+- Automatically scheduling music and program timetables
+- Basic sports event scores and statistical broadcasts
+
+**Where AI augments the role:**
+
+- AI-assisted real-time content creation, such as news summary generation and subtitle production
+- Use AI to analyze audience preferences and customize personalized broadcast content
+- AI-driven voice interaction and audience Q&A session enhancement
+- Automatically generate multilingual content to expand audience reach
+- AI-assisted editing and post-production to improve content output efficiency
+
+**Human moat:**
+
+- Impromptu response and flexible adaptation to on-site emergencies
+- Emotional expression and charisma in hosting style
+- Professional judgment for in-depth interviews and news analysis
+- Build emotional connection and trust with the audience
+- Creative planning and directing skills for complex programs
+
+**Skills to build:**
+
+- Use of AI voice synthesis and generative AI tools (e.g., ElevenLabs, ChatGPT)
+- Video content production and live streaming technology (OBS, Premiere Pro)
+- Data analysis and audience insights (Google Analytics, social media metrics)
+- Multi-platform content distribution and SEO optimization
+- Audio editing and post-production (Audition, Logic Pro)
+- Real-time interaction and community management (Discord, live chat)
+
+**Key growth areas:**
 
 - Digitalization
 - Podcasting
@@ -63,65 +98,67 @@ Responsible for presenting news, music, advertisements, and program content on r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟员工，需雇主担保，年薪需达到阈值（2024年约53000欧元） |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 在荷兰完成学位后一年内可用，可自由工作，无需雇主担保 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled non-EU employees, requires employer sponsorship, annual salary must meet threshold (approx. €53,000 in 2024) |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Available within one year after completing a degree in the Netherlands, can work freely without employer sponsorship |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Announcers on Radio, Television and Other Media？**
-- 拥有良好嗓音和清晰发音能力的人
-- 具备即兴表达和快速阅读技能者
-- 对媒体行业有热情，适应灵活工作时间
+**Who is suited**
+- People with good voice and clear pronunciation
+- Individuals with improvisation and rapid reading skills
+- Passionate about the media industry, adaptable to flexible working hours
 
-**谁不适合学Announcers on Radio, Television and Other Media？**
-- 不习惯镜头或麦克风前表现的人
-- 缺乏抗压能力，无法应对直播突发状况
+**Who is not suited**
+- People not comfortable performing in front of a camera or microphone
+- Lack of stress tolerance, unable to handle live broadcast emergencies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a Dutch broadcaster?**
+A: Entry-level: about €25,000-35,000; mid to senior level: up to €50,000-80,000, annual pre-tax salary.
+
+**Q: Can non-EU nationals immigrate to the Netherlands through this occupation?**
+A: This occupation is not on the skills shortage list, making immigration more difficult. Employer sponsorship is needed for a high-skilled work visa, and salary must meet the threshold.
+
+**Q: How to become a radio announcer in the Netherlands?**
+A: Typically requires completion of relevant media or communications education, accumulating internship experience, creating a personal portfolio, and attending auditions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中低（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Announcers on Radio, Television and Other Media属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for announcers in the Netherlands?**
-答：Entry-level around €25,000-35,000, mid-career up to €50,000, senior up to €80,000 per year before tax.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：This occupation is not in shortage; migration is difficult. Requires employer sponsorship for a Highly Skilled Migrant visa with salary threshold.
-
-**问：How to become a radio announcer in the Netherlands?**
-答：Typically requires a degree in media/communication, internship experience, a demo reel, and auditions.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

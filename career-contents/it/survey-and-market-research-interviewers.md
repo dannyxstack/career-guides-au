@@ -1,59 +1,95 @@
-# Survey and Market Research Interviewers（Survey and Market Research Interviewers）职业分析 · IT
+# Survey and Market Research Interviewers — career analysis · Italy
 
-**职业代码：4227 – Survey and Market Research Interviewers。**
+**Occupation code: 4227 (ISCO08)**
 
-Collect data via telephone, online, or face-to-face for market research, opinion polls, and socioeconomic analysis.
+Collect data via phone, online, or face-to-face for market research, opinion polling, and socioeconomic analysis.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 12年（高中） | —（公立教育免费） |
-| 职业培训 | 6个月-1年 | $500~$2,000（私立培训课程） |
-| 本科学位（可选） | 3年（本科） | $900~$4,000（公立大学年费） |
+| High school diploma | 12 years (high school). | $0~$0 (Public education is free) |
+| Vocational training | 6 months to 1 year | $500~$2,000 (Private training courses) |
+| Bachelor's degree (optional) | 3 years (bachelor's) | $900~$4,000 (Annual tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性资格要求 | 无 | 可选 | 通常雇主提供在职培训 |
-| 市场研究证书 | ASSIRM (Italian Association for Market, Social and Opinion Research) | 可选 | 非强制但有助于职业发展 |
+| No mandatory qualification requirements | None | Optional | Usually employer provides on-the-job training. |
+| Market Research Certificate | ASSIRM (Italian Association for Market, Social and Opinion Research) | Optional | Not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,000。意大利调查行业趋于稳定，数字访谈需求增长，但总体岗位增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The investigation industry in Italy is stabilising, with growing demand for digital interviews, though overall job growth is slow.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-6年） | $24,000~$30,000 | 税前年薪 |
-| 高级（6年以上） | $30,000~$38,000 | 税前年薪 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (6+ years) | $30,000~$38,000 | Annual pre-tax salary |
+| average salary | $27,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从访谈员晋升为高级访谈员、项目协调员或数据分析师。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Survey and market research interviewers face high AI replacement risk, especially for telephone and online data collection tasks. Entry-level positions are significantly reduced, requiring a shift toward analysis, tool application, and client relationship management.
+
+Can advance from interviewer to senior interviewer, project coordinator, or data analyst.
+
+**Tasks most exposed to AI:**
+
+- Standardised questionnaire surveys conducted by phone or online
+- Data entry and basic cleaning
+- Initial screening and recruitment of respondents
+- Execution of interviews with preset scripts
+- Summary statistics of simple opinion polls
+
+**Where AI augments the role:**
+
+- Designing more precise questionnaires and sampling plans
+- Use AI analysis tools to mine deep insights from data
+- Handling complex, semi-structured interviews and sensitive topics.
+- Sentiment analysis using natural language processing techniques
+- Provide training data and quality verification for AI systems
+
+**Human moat:**
+
+- Ability to build trust and rapport
+- Understand and manage complex, emotional respondent reactions
+- Cross-cultural, multilingual communication skills
+- Strategic thinking for project design and result interpretation.
+- Data quality ethical judgment and compliance awareness
+
+**Skills to build:**
+
+- Data Analysis and Visualization (Python/R, Tableau)
+- AI tool applications (e.g., ChatGPT, SurveyMonkey AI)
+- Questionnaire design and experimental methods
+- Customer Relationship Management (CRM)
+- Basic programming and automation scripts
+- Domain knowledge (e.g., healthcare, finance)
+
+**Key growth areas:**
 
 - Digital Surveys
 - Remote Interviewing
@@ -62,67 +98,66 @@ Collect data via telephone, online, or face-to-face for market research, opinion
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及高薪（年薪≥欧盟平均1.5倍）。该职业薪资通常不达标。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，需雇主担保，受年度配额限制。该职业不属于高技能紧缺职业。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree and a high salary (≥1.5 times the EU average). The salary for this occupation typically does not meet the threshold. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU citizens, requires employer sponsorship and is subject to annual quota limits. This occupation is not classified as high-skilled and in demand. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Survey and Market Research Interviewers？**
-- 善于沟通和倾听
-- 注重细节和准确性
-- 能适应重复性工作
-
-**谁不适合学Survey and Market Research Interviewers？**
-- 不喜欢与人交流
-- 对薪资期望较高
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and listening
+- Attention to detail and accuracy
+- Able to adapt to repetitive work
+
+**Who is not suited**
+- Dislikes interacting with people
+- High salary expectations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of interviewers?**
+A: Junior: approximately 18,000-24,000 EUR/year, senior: up to 38,000 EUR/year.
+
+**Q: Can foreigners immigrate to Italy through this occupation?**
+A: Difficult, this occupation is not in high-skilled shortage, requires quota-based work visa, and salary often does not meet Blue Card threshold.
+
+**Q: What are the career progression paths?**
+A: Can advance to senior interviewer, project coordinator, data analyst, or market research manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Survey and Market Research Interviewers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for interviewers?**
-答：Entry-level around EUR 18,000-24,000 per year, senior up to EUR 38,000.
-
-**问：Can foreigners immigrate through this occupation?**
-答：Difficult; not a high-skilled shortage occupation, requires quota work visa, salary often below Blue Card threshold.
-
-**问：What are the career progression paths?**
-答：Can advance to senior interviewer, project coordinator, data analyst, or market research manager.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

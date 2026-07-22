@@ -1,59 +1,94 @@
-# Information Security Analysts（Information Security Analysts）职业分析 · 美国
+# Information Security Analysts — career analysis · United States
 
-**职业代码：15-1212 – Information Security Analysts。**
+**Occupation code: 15-1212 (SOC)**
 
-Plan, implement, and monitor security measures for computer networks and information, assess vulnerabilities, and propose risk mitigation strategies.
+Responsible for planning, implementing, and monitoring computer network security measures, assessing system vulnerabilities and proposing risk mitigation strategies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费范围） |
-| 硕士学位 | 2年 | $30,000~$80,000（部分雇主资助） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition range) |
+| Master's degree | 2 years | $30,000~$80,000 (Partial employer sponsorship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CISSP | ISC2 | 可选 | 高级安全认证，需5年经验 |
-| CISA | ISACA | 可选 | 信息系统审计认证 |
-| CompTIA Security+ | CompTIA | 可选 | 入门级认证 |
+| CISSP | ISC2 | Optional | Advanced security certification, 5 years experience required |
+| CISA | ISACA | Optional | Information Systems Audit Certification |
+| CompTIA Security+ | CompTIA | Optional | Entry-level certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★½）。** 全国从业人数约 168,900。美国BLS预测2022-2032年该职业增长32%，远高于平均水平，因网络威胁增加和远程工作普及推动需求。
+**Job demand: very high (★★★★½).** National workforce approx. 168,900. US BLS projects 32% growth for this occupation from 2022 to 2032, much faster than average, driven by increased cyber threats and remote work adoption.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 中位数约75,000 |
-| 中级（4-8年） | $90,000~$130,000 | 中位数约110,000 |
-| 高级（9年以上） | $130,000~$180,000 | 中位数约155,000 |
+| Median salary | $129,180 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Median approximately 75,000 |
+| Mid-level (4–8 years) | $90,000~$130,000 | Median around $110,000 |
+| Senior (9+ years) | $130,000~$180,000 | Median about 155,000 |
+| average salary | $132,510 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 可从安全分析师晋升为高级安全工程师、安全架构师或首席信息安全官（CISO），也可转向云安全、渗透测试等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
+
+Can advance from security analyst to senior security engineer, security architect, or chief information security officer (CISO), or transition to cloud security, penetration testing, and other subfields.
+
+**Tasks most exposed to AI:**
+
+- Automated penetration testing tools perform routine vulnerability scanning and report generation
+- AI-driven log analysis and anomaly detection replacing junior SOC monitoring
+- Automated compliance checks (e.g., SOC Act baseline) replace manual audits
+- Automated deployment of security configuration baselines (e.g., firewall rules, IAM policies)
+
+**Where AI augments the role:**
+
+- AI-assisted threat intelligence aggregation and attack pattern prediction
+- Automatically generate incident response playbooks (SOAR integrated with LLM)
+- AI-driven phishing email analysis and social engineering defense simulations
+- Accelerated secure code review (AI detects logic vulnerabilities and zero-days)
+- AI for attack tracing and correlation of digital forensics fragments
+
+**Human moat:**
+
+- Enterprise-level security architecture design and risk decisions (cost-security trade-offs)
+- Original discovery of zero-day vulnerabilities/APT attacks (not pattern matching)
+- Legal compliance (SOCI, Privacy Act) and business context interpretation
+- Human intervention in crisis moments (e.g., offline decisions, negotiations)
+- Deep understanding of multi-domain systems (OT/IT convergence security)
+
+**Skills to build:**
+
+- AI security (adversarial machine learning, model validation)
+- AI Prompt Engineering (for threat hunting playbooks)
+- Cloud Security (AWS/Azure Security Architecture and IaC)
+- OT security (industrial control systems and AUKUS defense requirements)
+- Incident response automation (SOAR platform and playbook development)
+- Security compliance automation (e.g., OpenSCAP, Rego policies)
+
+**Key growth areas:**
 
 - Cloud Security
 - AI Threat Detection
@@ -62,69 +97,68 @@ Plan, implement, and monitor security measures for computer networks and informa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见工作签证，需学士学位以上，有年度配额限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 绿卡路径，需硕士学位或学士加5年经验，需PERM |
-| Subclass EB-3（Employment-Based Third Preference） | 绿卡路径，需学士学位，需PERM |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出人才，无需劳工证，需证明极高成就 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common work visa, requires bachelor's degree or above, with annual quota limits |
+| Subclass EB-2 (Employment-Based Second Preference) | Green card pathway requires a master's degree or a bachelor's degree plus 5 years of experience, and PERM is required |
+| Subclass EB-3 (Employment-Based Third Preference) | Green card path, requires bachelor's degree, requires PERM. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For extraordinary talent, no labor certification required, must demonstrate extraordinary achievement. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Security Analysts？**
-- 对网络安全有浓厚兴趣，善于分析漏洞
-- 具备持续学习能力，跟踪最新威胁趋势
-- 有良好沟通能力，能向管理层解释风险
-
-**谁不适合学Information Security Analysts？**
-- 不愿持续学习新安全技术
-- 抗压能力弱，难以应对安全事件
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in cybersecurity, adept at analyzing vulnerabilities
+- Able to continuously learn and track latest threat trends
+- Good communication skills, able to explain risks to management
+
+**Who is not suited**
+- Unwilling to continuously learn new security technologies
+- Weak stress tolerance, difficulty handling security incidents
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an information security analyst?**
+A: Entry level about A$65-85k, mid-level A$90-130k, senior A$130-180k, depending on experience, certification, and region.
+
+**Q: How can an information security analyst immigrate to the US via H-1B visa?**
+A: Requires US employer sponsorship, applying for an H-1B visa, need a bachelor's degree, annual lottery in April with about 30% chance. EB-2/EB-3 green cards are also possible.
+
+**Q: Which security certifications are recommended?**
+A: Entry-level recommendation: CompTIA Security+. Advanced options: CISSP or CISA, depending on career direction.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等偏难（★★★½☆） |
-| 职位需求量 | 极高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information Security Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for information security analysts?**
-答：Entry-level: $65k-$85k; Mid-level: $90k-$130k; Senior: $130k-$180k, depending on experience, certifications, and location.
-
-**问：How can information security analysts immigrate to the US via H-1B visa?**
-答：Requires US employer sponsorship, bachelor's degree, annual lottery in April with about 30% chance. EB-2/EB-3 green card also possible.
-
-**问：Which security certifications are recommended?**
-答：Entry-level: CompTIA Security+; Advanced: CISSP or CISA, depending on career path.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Probation officers（Probation officers）职业分析 · UK
+# Probation officers — career analysis · United Kingdom
 
-**职业代码：2462 – Probation officers。**
+**Occupation code: 2462 (SOC)**
 
-Probation officers supervise and counsel offenders, helping them rehabilitate before trial, during sentence, and after release, aiming to reduce reoffending and support community reintegration.
+Probation officers supervise and counsel offenders, assisting them in reintegrating into society before and after trial, during imprisonment, and after release, promoting rehabilitation and reducing reoffending rates.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（荣誉）学位 | 3年 | $9,250~$12,000（英格兰本地生学费，国际生约£15,000-£25,000/年） |
-| 专业资格培训（Probation Qualification Framework） | 2年 | —（部分雇主资助，或自费报读约£1,000-£5,000） |
+| Bachelor's degree (Honours) | 3 years | $9,250~$12,000 (Home student tuition fees for England; international students approximately £15,000-£25,000/year) |
+| Probation Qualification Framework | 2 years | $0~$5,000 (Partly employer-sponsored, or self-funded around £1,000-£5,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缓刑资格框架（PQF）证书 | Her Majesty's Prison and Probation Service (HMPPS) | 必备 | 完成PQF课程并通过最终评估 |
-| 相关领域本科学位（如犯罪学、社会工作） | 英国大学 | 可选 | 通常需2:1荣誉学位 |
+| Probation Qualification Framework (PQF) certificate | Her Majesty's Prison and Probation Service (HMPPS) | Required | Complete the PQF course and pass the final assessment |
+| Bachelor's degree in a related field (e.g., criminology, social work) | UK universities | Optional | Usually requires a 2:1 honours degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 22,000。英国缓刑服务改革推动需求稳定增长，政府持续投资社区矫正，预计未来几年岗位数量缓慢增加，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 22,000. The UK probation service reform is driving stable demand growth, with continued government investment in community corrections. The number of positions is expected to increase slowly over the next few years, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 新入职缓刑监督官，通常为Band 4 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验的缓刑监督官，Band 5-6 |
-| 高级（7年以上） | $45,000~$55,000 | 高级缓刑官、团队经理或专家角色，Band 7 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | New probation officer, typically Band 4. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced probation officer, Band 5-6 |
+| Senior (7+ years) | $45,000~$55,000 | Senior probation officer, team manager, or specialist role, Band 7 |
+| average salary | $47,825 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从缓刑服务官晋升为高级缓刑官、团队经理或区域负责人，也可转向青少年司法、受害者支持或政策制定岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on probation officers is mixed: administrative report writing, risk screening tasks can be automated, but core interpersonal supervision, court communication, and crisis intervention rely on human judgment and are hard to replace in the short term. Job demand will shift rather than disappear.
+
+Can progress from probation officer to senior probation officer, team manager, or regional manager, and also move into youth justice, victim support, or policy roles.
+
+**Tasks most exposed to AI:**
+
+- Automates writing routine probation reports and risk assessment forms
+- AI analyzes criminal recidivism data and generates preliminary classification suggestions
+- Electronic monitoring systems replace some field patrols and attendance checks
+- Automatically schedule and manage offender interview timetables
+- Voice transcription and summary generation replace manual recording of interviews
+
+**Where AI augments the role:**
+
+- AI-assisted identification of early warning signs for high-risk offenders to optimize supervision strategies.
+- Use data analysis tools to customise personalised rehabilitation plans and improve intervention outcomes
+- AI-driven virtual case simulations for new supervisor training
+- Automates compliance documentation, freeing time for in-depth interviews
+- Natural language processing to analyse offenders' social media, aiding social integration assessment
+
+**Human moat:**
+
+- Build trust relationships and keenly perceive non-verbal cues in emotions.
+- Making complex judgments and rulings in court or crisis situations.
+- Coordinate multiple agencies (police, social workers, employers) and balance interests of all parties
+- Deep understanding of cultural backgrounds and trauma experiences, with empathetic communication
+- Conducting safety interventions in emergency situations (e.g., emotional outbursts)
+
+**Skills to build:**
+
+- Data analysis and statistical tools (e.g., Python/R) for crime risk assessment
+- Skills in using AI tools (e.g., automated reporting platforms, ChatGPT-assisted summarization)
+- Motivational interviewing and trauma-informed supervision methods
+- Knowledge of digital surveillance and electronic positioning systems
+- Cross-cultural communication and diversity sensitivity management
+- Design and implementation of blended online and offline supervision models
+
+**Key growth areas:**
 
 - social work
 - criminal justice reform
@@ -61,64 +97,63 @@ Probation officers supervise and counsel offenders, helping them rehabilitate be
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的缓刑监督官，职业代码2462，满足薪资门槛£26,200/年或行业标准。 |
-| Subclass Graduate（Graduate visa） | 适用于英国高校毕业生，可工作2-3年，积累经验后转技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to probation officers with employer sponsorship, occupation code 2462, meeting salary threshold of £26,200/year or industry standard. |
+| Subclass Graduate (Graduate visa) | Applicable to UK university graduates, allowing 2-3 years of work, then transitioning to a skilled worker visa after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Probation officers？**
-- 对社会公正和罪犯康复有强烈使命感的人
-- 具备耐心、同理心和沟通技巧者
-- 适应高强度案例工作和多机构合作者
-
-**谁不适合学Probation officers？**
-- 无法承受情绪压力和复杂案件者
-- 偏好稳定、低风险办公环境者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong sense of mission for social justice and offender rehabilitation
+- candidates with patience, empathy, and communication skills
+- Those who can adapt to high-intensity casework and multi-agency collaboration.
+
+**Who is not suited**
+- Those unable to handle emotional stress and complex cases
+- Prefer stable, low-risk office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a probation officer?**
+A: In England and Wales, starting salary for new probation officers is approximately £28,000-£35,000, rising to over £45,000 with experience.
+
+**Q: Can parole officers apply for skilled worker visas?**
+A: Yes, SOC 2462 is on the Home Office's list of eligible occupations. You must meet the salary threshold (£26,200/year or the going rate) and have a job offer from a licensed sponsor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Probation officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a probation officer?**
-答：In England and Wales, starting salary for a probation officer is around £28,000-£35,000, rising to over £45,000 with experience.
-
-**问：Can a probation officer apply for a Skilled Worker visa?**
-答：Yes, SOC 2462 is on the eligible occupations list. You need a job offer from a licensed sponsor and meet the salary threshold (£26,200/year or going rate).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

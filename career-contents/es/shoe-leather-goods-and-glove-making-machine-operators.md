@@ -1,60 +1,95 @@
-# Shoe, Leather Goods and Glove Making Machine Operators（Shoe, Leather Goods and Glove Making Machine Operators）职业分析 · ES
+# Shoe, Leather Goods and Glove Making Machine Operators — career analysis · Spain
 
-**职业代码：8156 – Shoe, Leather Goods and Glove Making Machine Operators。**
+**Occupation code: 8156 (CNO)**
 
-Operate specialized machines to cut, sew, assemble and finish footwear, leather goods and leather gloves. A traditional trade concentrated in Spain's footwear manufacturing regions like Valencia and Catalonia.
+Operating specialized machines to cut, sew, assemble, and finish footwear, leather goods, and leather gloves is a traditional technical occupation in Spain's manufacturing industry, commonly found in footwear-producing regions such as Valencia and Catalonia.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费或少量注册费，私立约500-1000欧元/年） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费；私立约1000-1500欧元/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,000 (Public schools: free or minimal registration fee; private schools: about 500-1,000 EUR/year.) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public schools are free; Private ones pay about 1000-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio en Fabricación de Calzado y Complementos | 教育部（Ministerio de Educación） | 可选 | 鞋类与配件制造中级职业培训证书，行业基本要求 |
-| FP Grado Superior en Diseño y Producción de Calzado | 教育部 | 可选 | 鞋类设计与生产高级职业培训证书，晋升管理岗所需 |
+| FP Grado Medio en Fabricación de Calzado y Complementos | Ministry of Education (Ministerio de Educación) | Optional | Intermediate vocational training certificate in footwear and accessories manufacturing, basic industry requirements |
+| FP Grado Superior en Diseño y Producción de Calzado | Ministry of Education | Optional | Advanced vocational training certificate in footwear design and production, required for promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 8,500。西班牙制鞋业持续向自动化转型，但高附加值手工环节仍有需求。2022-2027年预计行业缓慢收缩，年均岗位流失约1-2%，但熟练操作员仍有一定需求，尤其是在精品和定制生产领域。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 8,500. The Spanish footwear industry continues to shift toward automation, but there is still demand for high value-added artisanal processes. From 2022 to 2027, the industry is expected to contract slowly, with an average annual job loss of about 1-2%, but there is still some demand for skilled operators, especially in boutique and custom production.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 起薪通常低于全国平均，按地区波动 |
-| 中级（3-7年） | $18,000~$24,000 | 熟练操作多类机器后薪资提升 |
-| 高级（7年以上） | $24,000~$30,000 | 含主管或质检岗位，少数可达35000欧元 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Starting salaries are usually below the national average and vary by region |
+| Mid-level (3–7 years) | $18,000~$24,000 | Increase salary after proficient operation of multiple types of machines |
+| Senior (7+ years) | $24,000~$30,000 | Including supervisor or quality inspection positions, with a few salaries reaching up to 35,000 euros |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 初级操作员可晋升为多工序熟练工、生产线主管或质量控制员。部分人通过进修FP Grado Superior（高级职业培训）转向制版师或产品开发岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
+
+Junior operators can be promoted to multi-process skilled workers, production line supervisors, or quality controllers. Some have transitioned to pattern makers or product development roles by pursuing FP Grado Superior (advanced vocational training).
+
+**Tasks most exposed to AI:**
+
+- Uses machine vision to identify shoe component defects and automatically reject
+- Programming and execution of automated sewing and bonding processes
+- Automatically adjust machine parameters (e.g., stitch length, glue amount) based on order data
+- Monitoring and fault alarming of automated conveyor and sorting systems
+- Using AI quality inspection systems to replace manual inspection
+
+**Where AI augments the role:**
+
+- Real-time equipment monitoring via digital twin technology to predict maintenance needs
+- Use AI to optimize production scheduling and material delivery
+- Use AR glasses to assist complex assembly or repair
+- Identify production line bottlenecks through data analysis to improve overall efficiency
+- Collaborative robots working with humans for high-precision processes
+
+**Human moat:**
+
+- Handling non-standard, complex, or easily deformable flexible materials (e.g., leather)
+- Quickly diagnose and repair mechanical faults in automated equipment
+- Negotiate process adjustments with designers and quality inspectors
+- rapid changeover and adjustment in small-batch, high-variety production
+
+**Skills to build:**
+
+- Automated equipment programming and debugging (PLC/robots)
+- Industrial data analysis and basic statistics
+- Flexible production and quick-change technology.
+- Basic mechanical repair and mechatronics knowledge
+- Human-robot collaboration safety standards
+- Digital production management system operation
+
+**Key growth areas:**
 
 - Automation
 - Declining sector
@@ -63,62 +98,64 @@ Operate specialized machines to cut, sew, assemble and finish footwear, leather 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 需雇主担保，西班牙劳工部审核；由于非紧缺职业，审批较难，要求公司证明无法招到本地人。 |
-| Subclass Reagrupación familia（Family reunification） | 若有合法居留的配偶/父母，可申请家庭团聚，之后合法工作。 |
+| Subclass Cuenta ajena (Work permit (employed)) | Employer sponsorship required, reviewed by the Spanish Ministry of Labor; Because these are non-urgently needed occupations and difficult to approve, companies are required to prove they cannot recruit local workers. |
+| Subclass Reagrupación familia (Family reunification) | If you have a spouse/parent with legal residency, you can apply for family reunification and then work legally. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoe, Leather Goods and Glove Making Machine Operators？**
-- 偏好动手操作、技能型工作的职业导向人群
-- 愿意在传统制造业稳步发展的务实求职者
-- 愿意接受FP职业教育并快速就业的年轻人
+**Who is suited**
+- Occupational groups who prefer hands-on operations and skilled jobs
+- Pragmatic job seekers willing to steadily develop in traditional manufacturing
+- Young people willing to receive FP vocational education and find employment quickly
 
-**谁不适合学Shoe, Leather Goods and Glove Making Machine Operators？**
-- 寻求高收入、高增长或数字化行业的人士
-- 希望快速移民或通过紧缺职业路径获取居留的申请人
+**Who is not suited**
+- People seeking high income, high growth, or digitalization industries
+- Applicants seeking fast-track immigration or residency through in-demand occupational pathways
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for footwear machine operators in Spain?**
+A: Junior operators earn about 14,000-18,000 euros annually, intermediate operators 18,000-24,000 euros, and senior or supervisors up to 30,000 euros, which is below the national average.
+
+**Q: Can third-country citizens immigrate to Spain through this employment?**
+A: Opportunities are low. This occupation is not on Spain's shortage list, and automation is reducing positions. Employers struggle to pass the labor market test. Only suitable for those with existing family reunion or other non-work residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shoe, Leather Goods and Glove Making Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for footwear machine operators in Spain?**
-答：Entry-level operators earn around €14,000-18,000 per year, mid-level €18,000-24,000, and senior or supervisory roles up to €30,000, below national average.
-
-**问：Can third-country nationals immigrate to Spain through this occupation?**
-答：Very low chances. The occupation is not on Spain's shortage list and is declining, making it hard for employers to pass the labor market test. Only viable for those with family reunification or other non-work permits.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

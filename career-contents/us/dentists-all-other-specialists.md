@@ -1,60 +1,96 @@
-# Dentists, All Other Specialists（Dentists, All Other Specialists）职业分析 · 美国
+# Dentists, All Other Specialists — career analysis · United States
 
-**职业代码：29-1029 – Dentists, All Other Specialists。**
+**Occupation code: 29-1029 (SOC)**
 
-All dentists not listed separately, including specialists like oral pathologists and oral radiologists, focusing on specific dental conditions.
+Includes all dental specialists not separately listed, such as oral pathologists, oral radiologists, etc., focusing on diagnosis and treatment of specific dental diseases.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$200,000（本科阶段通常需完成牙科预科课程） |
-| 牙医学院（DDS/DMD） | 4年 | $200,000~$400,000（包括学费、杂费和生活费） |
-| 专科住院医师培训 | 2-4年 | $50,000~$80,000（通常有薪金，但部分项目需自费） |
+| Bachelor's degree | 4 years | $80,000~$200,000 (A predental course is usually required during undergraduate studies.) |
+| Dental School (DDS/DMD) | 4 years | $200,000~$400,000 (Including tuition, fees, and living expenses) |
+| Specialty residency training | 2-4 years | $50,000~$80,000 (Usually paid, but some projects require self-funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科执照 | 州牙科委员会 | 必备 | 通过NBDE或INBDE考试及州考试 |
-| 牙科博士学位（DDS或DMD） | ADA认证牙医学院 | 必备 | 必须从认证项目毕业 |
-| 专科认证 | 美国牙科专科委员会 | 可选 | 非强制但有利于就业和保险 |
+| Dental license | State Dental Board | Required | Pass NBDE or INBDE exams and state exams |
+| Doctor of Dental Surgery (DDS) or Doctor of Dental Medicine (DMD) | ADA-accredited dental school | Required | Must graduate from an accredited program |
+| Vocational certification | American Board of Dental Specialties | Optional | Not mandatory but beneficial for employment and insurance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 5,000。美国牙医需求稳定增长，受人口老龄化和口腔健康意识提升驱动。专科医生因稀缺性更易就业，但需额外培训。
+**Job demand: very high (★★★★½).** National workforce approx. 5,000. Demand for dentists in the US is steadily growing, driven by an aging population and increased oral health awareness. Specialists find it easier to get jobs due to scarcity, but require additional training.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $120,000~$180,000 | 专科住院医师或新入行 |
-| 中级（3-10年） | $180,000~$300,000 | 经验丰富的专科医生 |
-| 高级（10年以上） | $300,000~$500,000 | 知名专家或诊所所有者 |
+| Median salary | $224,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $120,000~$180,000 | Resident physician or new entrant |
+| Intermediate (3-10 years) | $180,000~$300,000 | Experienced specialist doctor |
+| Senior (10+ years) | $300,000~$500,000 | Renowned specialist or clinic owner |
+| average salary | $247,930 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从普通牙科医生起步，通过专科住院医师培训（2-4年）成为专科牙医，之后可晋升为科室主任或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentist roles are less affected by AI automation; AI is more of an assistive diagnostic tool (e.g., image analysis) enhancing efficiency, but core clinical procedures and patient communication still rely on humans. Overall demand is stable, with shortages in remote areas.
+
+Typically start as general dentists, become specialists through residency (2-4 years), then can become department heads or open private practices.
+
+**Tasks most exposed to AI:**
+
+- Preliminary analysis of routine X-rays and oral images, AI can automatically mark abnormal areas
+- Automated Q&A system for patient appointment, reminders, and basic consultation
+- Digital design and 3D printing of laboratory guides and temporary crowns
+- Natural language processing for insurance billing codes and simple medical record notes
+- Template generation for routine dental examination reports
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyzing images, laser scans, and other data to improve detection accuracy for caries, periodontal disease, etc.
+- Digital treatment planning: AI simulates orthodontic, implant and other plans to optimize surgical pathways
+- Patient education and communication: AI generates personalized oral hygiene advice and visual demonstrations
+- Remote consultation and referral: AI organizes medical records and matches experts, improving efficiency
+- Clinical database analysis: AI mines group treatment data to support evidence-based decision-making
+
+**Human moat:**
+
+- Tactile feel and adaptability in complex surgical procedures (such as extracting impacted wisdom teeth, placing dental implants)
+- Building trust with patients, managing anxiety and subjective experiences of pain
+- Cross-medical background comprehensive judgment (e.g., oral manifestations of systemic diseases)
+- Ethical responsibility and legal risk assumption (e.g., medical malpractice determination)
+- Advanced clinical aesthetics and personalized restoration design
+
+**Skills to build:**
+
+- Use and interpretation of digital oral imaging AI software (e.g., Dental AI, Overjet).
+- Application of 3D printing and CAD/CAM in dental prosthetics
+- Operation of telemedicine consultation platforms and patient management
+- Medical data privacy protection and AI ethics standards
+- Continuously learn the latest AI developments to maintain diagnostic authority
+- Cross-disciplinary collaboration (e.g., communicating requirements with AI development teams)
+
+**Key growth areas:**
 
 - Aging population
 - Increased awareness
@@ -63,69 +99,68 @@ All dentists not listed separately, including specialists like oral pathologists
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需有学位及雇主担保，名额有限竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士以上或特殊才能，通常通过PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出能力，适合顶尖专科医生 |
-| Subclass Green Card (PERM)（Permanent Residence via PERM） | 劳工证流程，需雇主支持 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires degree and employer sponsorship, limited slots and highly competitive |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or higher or exceptional ability, usually through PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate extraordinary ability; suitable for top-tier specialists |
+| Subclass Green Card (PERM) (Permanent Residence via PERM) | Labor certification process, requires employer sponsorship. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentists, All Other Specialists？**
-- 对口腔健康有强烈兴趣并愿意长期投入的人
-- 追求高薪及专业声望的医生
-- 能承受高强度工作及精细操作的人
-
-**谁不适合学Dentists, All Other Specialists？**
-- 对手术压力敏感或不喜欢动手操作的人
-- 希望快速就业或避免长期教育投入的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone with a strong interest in oral health and willing to commit long-term
+- Doctors pursuing high salary and professional prestige
+- Person able to handle high-stress work and fine operations
+
+**Who is not suited**
+- Those sensitive to surgical pressure or who dislike hands-on work
+- For those seeking quick employment or avoiding long-term education
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a U.S. dental specialist?**
+A: According to the BLS, the median annual salary for dentists (including specialists) in 2023 was about $160,000, but specialists often earn $200,000 to $400,000 or more.
+
+**Q: How can foreign dentists work in the US?**
+A: Typically requires passing the NBDE or INBDE, completing US dental school or specialty training, obtaining a state license, then proceeding via H-1B or EB-2 green card pathway.
+
+**Q: What are the career prospects for a dental specialist?**
+A: Demand expected to grow about 8% over the next decade, especially in rural areas. Less competition for specialist doctors, can open private clinics or work in hospitals.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Dentists, All Other Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dental specialists in the US?**
-答：According to BLS, the median wage for dentists (including specialists) is around $160,000, but specialists often earn $200,000-$400,000+.
-
-**问：How can a foreign dentist work in the US?**
-答：Typically, pass NBDE/INBDE exams, complete US dental school or specialty training, obtain state license, then pursue H-1B or EB-2 green card.
-
-**问：What are the prospects for dental specialists?**
-答：Projected growth of 8% over next decade, especially in rural areas. Specialists face less competition and can open private practice or work in hospitals.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,129 +1,164 @@
-# Urban and land use planners（Urban and land use planners）职业分析 · 加拿大
+# Urban and Land Use Planners — career analysis · Canada
 
-**职业代码：21202 – Urban and land use planners。**
+**Occupation code: 21200 (NOC)**
 
-Urban and land use planners develop land use plans to coordinate urban and regional development, ensuring sustainable growth with economic, social, and environmental considerations.
+Canadian urban planners work on land use planning, urban design, and policy making, and can immigrate quickly via Express Entry or provincial nomination, suitable for professionals with overseas qualifications and experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$60,000（学费因大学而异，国际生更高） |
-| 硕士 | 2年 | $20,000~$40,000（部分职位偏好硕士） |
+| Bachelor's degree | 4 years | $30,000~$60,000 (International student annual tuition is about 30,000-60,000 CAD) |
+| Master's degree | 2 years | $25,000~$50,000 (International student annual tuition approx. CAD 25,000-50,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 城市与区域规划学位 | 认可大学 | 必备 | 通常需本科或硕士 |
-| 注册规划师（RPP） | 加拿大规划师协会（CIP） | 可选 | 省级注册，部分职位要求 |
-| 省级会员 | 各省规划师协会 | 可选 | 如OPPI、PIBC等 |
+| ECA (Educational Credential Assessment). | WES/IQAS, etc. | Required | Assess overseas qualifications as equivalent to Canadian standards |
+| English/French proficiency | IELTS/TEF | Required | Immigration requirement: CLB 7 or above |
+| RPP Registered Professional Planner | Canadian Institute of Planners (CIP) | Optional | Not mandatory but beneficial for employment and promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 16,500。加拿大城市化持续推进，对规划师需求稳定，尤其在大城市和资源型地区。就业前景良好，预计未来十年职位增长中等。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. With urbanization and sustainable development needs, demand for urban planners in Canada is steadily growing, especially in Ontario, British Columbia, and Alberta. Government infrastructure projects and green city development drive employment.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 政府或私营企业 |
-| 中级（4-7年） | $75,000~$95,000 | 有经验后薪资上升 |
-| 高级（8年以上） | $95,000~$120,000 | 管理层或专家 |
+| Median salary | $80,995 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level salary for graduates or new immigrants |
+| Mid-level (3–8 years) | $70,000~$95,000 | Experienced planner, able to independently handle projects |
+| Senior (8+ years) | $95,000~$130,000 | Senior planner or management, including RPP certification |
+| average salary | $93,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级规划师可晋升为高级规划师、项目经理或部门主管；也可专攻交通、环境或社区规划；或进入私人咨询公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace many routine analytical tasks, but the politics of planning, community consultation, and creative design still rely on humans. Overall job numbers may decrease slightly, but quality improves, requiring GIS automation and data skills.
 
-- Urban development
-- Sustainable planning
-- Climate adaptation
-- Smart cities
+Junior planners can advance to senior planner, project manager, or policy analyst, and then to planning director. Obtaining the Registered Professional Planner (RPP) certification in Canada opens up broader development opportunities.
+
+**Tasks most exposed to AI:**
+
+- Sorting and preliminary analysis of land use data
+- Standardized drawing and basic drafting
+- Legal clause retrieval and compliance preliminary screening
+- Simple modeling of population and economic forecasting
+- Generation of public consultation meeting records and summaries
+
+**Where AI augments the role:**
+
+- Population and traffic flow simulation and prediction based on multi-source data
+- Use generative design to explore land use options
+- Quickly analyze public opinions through natural language processing
+- Combine satellite imagery with AI for real-time land use monitoring
+- Utilizing digital twins for scenario planning and visualization
+
+**Human moat:**
+
+- Multi-stakeholder coordination and consensus building
+- Political sensitivity and policy-making balance
+- Creative urban design and placemaking
+- Ethical judgment and long-term social impact assessment
+- Decision-making ability in crisis situations
+
+**Skills to build:**
+
+- Spatial data analysis and GIS automation
+- Python/R programming and data visualization.
+- Machine learning fundamentals and predictive modeling
+- Digital twin and BIM integration
+- public participation digital tools
+- urban computing and systems thinking
+
+**Key growth areas:**
+
+- Express Entry
+- Provincial Nominee
+- Urban Development
+- Sustainability
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program (FSW)） | 通过FSW或CEC申请，需满足工作经验、语言等要求。 |
-| Subclass PNP（Provincial Nominee Program） | 许多省份将规划师列为优先职业，可加速移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，之后转永居。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants under 35, highly educated, with good English skills, invited through CRS scoring |
+| Subclass PNP (Provincial Nominee Program) | Provinces have targeted streams, e.g., Ontario Human Capital Priorities, linked to Express Entry |
+| Subclass AIP (Atlantic Immigration Program) | Employer sponsorship, suitable for job opportunities in Atlantic provinces |
 
-**PR难度：中等偏低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Urban and land use planners？**
-- 对城市发展、环境可持续有热情的人
-- 善于沟通、协调多方利益的人
-- 喜欢分析数据、制定政策的人
-
-**谁不适合学Urban and land use planners？**
-- 不喜欢与公众打交道的人
-- 厌恶官僚流程、想快速出成果的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with degrees in urban planning, geography, or architecture
+- Professionals with overseas urban design or policy experience and fluent English
+- Those passionate about sustainable development and community planning, willing to obtain Canadian certification
+
+**Who is not suited**
+- Those who dislike cumbersome approval processes and are unwilling to obtain professional certifications
+- Those seeking short-term high salary without long-term career plans
+
+---
+
+## 8. FAQ
+
+**Q: How can overseas urban planners immigrate to Canada?**
+A: Typically through Express Entry (FSW or CEC) or Provincial Nominee Program (e.g., Ontario Human Capital). Requires ECA, CLB 7+ English/French, and at least 1 year of relevant work experience.
+
+**Q: What is the average salary of an urban planner in Canada?**
+A: Entry-level about CAD 55,000-70,000, mid-to-senior CAD 70,000-130,000. Salary varies by province, experience, and certification; Ontario and BC are higher.
+
+**Q: What is the career outlook for urban planners?**
+A: Sustainable development and smart cities drive demand growth. Obtaining RPP certification can lead to management roles or transition to consulting and policy making.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等偏低（★★☆☆☆） |
-
-Urban and land use planners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for urban and land use planners?**
-答：Entry-level: CAD 55,000-75,000; Mid-level: CAD 75,000-95,000; Senior: CAD 95,000-120,000+. Public sector stable but lower; private sector higher.
-
-**问：What migration pathways are available for planners to Canada?**
-答：Express Entry (FSW/CEC) or Provincial Nominee Programs (PNP) are common. Some provinces like Ontario and BC prioritize planners. LMIA work permit is also an option.
-
-**问：Is RPP certification mandatory to work as a planner?**
-答：Not mandatory, but preferred by many employers. Provincial registration requires CIP exams and relevant experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

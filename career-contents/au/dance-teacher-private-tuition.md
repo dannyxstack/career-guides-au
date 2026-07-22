@@ -1,129 +1,160 @@
-# 舞蹈教练（Dance Teacher (Private Tuition)）职业分析 · 澳大利亚
+# Dance Teacher (Private Tuition) — career analysis · Australia
 
-**职业代码：249212 – Dance Teacher (Private Tuition)。**
+**Occupation code: 249212 (ANZSCO)**
 
-舞蹈教练在舞蹈工作室或私人培训机构教授芭蕾、现代舞、拉丁、街舞等，面向少儿与成人。多为按课时计酬或自营工作室，收入与学生规模、口碑和经营能力相关。
+Dance coaches teach ballet, contemporary, Latin, street dance, etc., in dance studios or private training institutions, for children and adults. Usually paid per lesson or self-employed; income depends on student numbers, reputation, and business skills.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 舞蹈专业训练 / 教学资质（如 RAD/CSTD 考级体系） | 多年持续 | $2,000~$30,000（教学体系认证提升竞争力；非强制） |
-| Working with Children Check（与儿童工作许可） | 申请即得 | —（教授未成年人的法定要求（各州）） |
+| Dance Professional Training / Teaching Qualifications (e.g., RAD/CSTD Grading Systems) | Multiple years ongoing | $2,000~$30,000 (Teaching system certification boosts competitiveness; not mandatory) |
+| Working with Children Check | Granted upon application | $0~$130 (Legal requirements for teaching minors (by state)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Working with Children Check（WWCC） | 各州主管机构 | 必备 | 教未成年人的法定要求 |
-| 舞蹈教学考级资质（RAD/CSTD 等） | 相关考级机构 | 可选 | 提升专业认可度 |
+| Working with Children Check（WWCC） | State regulating authorities | Required | Legal requirements for teaching minors |
+| Dance Teaching Graded Qualifications (RAD/CSTD, etc.) | Relevant grading/exam bodies | Optional | Enhance professional recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 —。少儿艺术教育需求稳定，舞蹈培训是稳定的本地服务行业；自营工作室是常见创业路径。线上课程拓展了触达，但核心教学依赖现场指导与互动。
+**Job demand: medium (★★½☆☆).** National workforce approx. 6,000. Demand for children's art education is stable, dance training is a stable local service industry; self-owned studios are a common entrepreneurial path. Online courses expand reach, but core teaching relies on live guidance and interaction.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 兼职舞蹈教练 | $35,000~$55,000 | 按课时计酬 |
-| 全职舞蹈教练 | $55,000~$75,000 | 稳定课表+少量私教 |
-| 工作室经营者 | $70,000~$150,000 | 自营工作室净利润（视规模） |
+| Median salary | $130,936 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Part-time dance instructor | $35,000~$55,000 | Paid per lesson hour |
+| Full-time dance instructor | $55,000~$75,000 | Stable schedule + a few private lessons |
+| Studio owner | $70,000~$150,000 | Net profit of self-owned studio (varies by scale) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 少儿培训为主力市场；成人兴趣与健身舞蹈（如尊巴）增长。自营工作室与连锁加盟并存。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace the core teaching and demonstration of dance instructors; instead, it can greatly improve teaching efficiency through personalised choreography, virtual practice partners, and progress tracking. A hybrid model is emerging, while pure entry-level roles face pressure.
 
-- 少儿舞蹈培训
-- 成人兴趣班（拉丁/街舞/芭蕾）
-- 考级与比赛培训
-- 线上课程
+Children's training is the main market; adult interest and fitness dance (e.g., Zumba) are growing. Self-operated studios coexist with chain franchises.
+
+**Tasks most exposed to AI:**
+
+- Basic movement correction and feedback (AI auto-identifies errors via video analysis)
+- Repetitive trial and error in choreography (AI-generated alternative movement sequences)
+- Class recording and student progress tracking (automated system replaces manual recording)
+- Music tempo matching and editing (AI auto-sync music with movement)
+- Online Course Content Production (AI-Generated Demo Videos and Subtitles)
+
+**Where AI augments the role:**
+
+- Personalized movement analysis and precise improvement suggestions (AI captures subtle deviations, assisting coaches in developing targeted training)
+- Creative choreography assistance (AI generates choreography frameworks based on music style and student ability, coach refines)
+- Virtual practice partner and imitation practice (AI avatar provides unlimited practice partner)
+- Student performance data visualization and teaching strategy adjustment (AI multi-dimensional analysis of learning curves)
+- Immersive teaching scene construction (AI combined with VR to create diverse stage environments)
+
+**Human moat:**
+
+- Physical Expressiveness and Artistic Appeal (Human-Exclusive Emotional Transmission)
+- Classroom Atmosphere Cultivation and Improvisation (Unstructured Social Interaction)
+- Student psychological counselling and long-term trust building
+- Customized teaching for special needs (e.g., disability, children)
+
+**Skills to build:**
+
+- Use AI choreography tools (e.g., ChoreoAI) for creative choreography
+- Video analysis and data interpretation (using AI motion capture software)
+- Building and Operating VR/AR Teaching Environments
+- Social media and online course marketing (AI-assisted content generation)
+- Cross-genre dance fusion creation and curriculum design
+- Client relationship management and community operations for personal training
+
+**Key growth areas:**
+
+- Children's Dance Training
+- Adult Interest Classes (Latin/Street Dance/Ballet)
+- Exam & Competition Training
+- Online Courses
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学舞蹈教练？**
-- 有舞蹈功底并热爱教学
-- 擅长与儿童/学员互动
-- 有意自营工作室创业
-
-**谁不适合学舞蹈教练？**
-- 不喜欢晚间周末工作
-- 以移民为主要目标
-- 不愿持续训练与考取教学资质
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Dance background and passion for teaching
+- Good at interacting with children/students
+- Interested in starting own studio business
+
+**Who is not suited**
+- Dislike working evenings and weekends
+- Primarily targeting immigration
+- Unwilling to continuously train and obtain teaching qualifications
+
+---
+
+## 8. FAQ
+
+**Q: How much do dance coaches earn in Australia?**
+A: Part-time approx. $35k~$55k (per lesson); full-time approx. $55k~$75k; self-employed studio owner approx. $70k~$150k (depending on scale).
+
+**Q: Can dance instructors migrate through skilled migration?**
+A: Cannot directly migrate through skilled migration. Dance Teacher (Private Tuition, 249212) is not on the CSOL or GSM skilled migration lists.
+
+**Q: What qualifications do dance instructors need?**
+A: No mandatory degree, but must hold Working with Children Check (WWCC) to teach minors. Teaching qualifications for dance exams (RAD/CSTD, etc.) can significantly enhance professional recognition and earning potential.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | 私人教学职业概况 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-舞蹈教练属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲舞蹈教练收入多少？**
-答：兼职约 $35k~$55k（按课时）；全职约 $55k~$75k；自营工作室经营者约 $70k~$150k（视规模）。
-
-**问：舞蹈教练能技术移民吗？**
-答：不能直接技术移民。Dance Teacher (Private Tuition, 249212) 不在 CSOL 或 GSM 独立技术移民清单上。
-
-**问：当舞蹈教练需要什么资质？**
-答：无强制学历，但教未成年人必须持 Working with Children Check（WWCC）。RAD/CSTD 等舞蹈考级教学资质能显著提升专业认可与收费能力。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

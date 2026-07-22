@@ -1,59 +1,94 @@
-# Industrial Machinery Mechanic（Industrial Machinery Mechanic）职业分析 · 新西兰
+# Industrial Machinery Mechanic — career analysis · New Zealand
 
-**职业代码：323312 – Industrial Machinery Mechanic。**
+**Occupation code: 323312 (ANZSCO)**
 
-Industrial Machinery Mechanics maintain and repair mechanical equipment in mining, food processing, and manufacturing, including drive systems, hydraulic equipment, and automated production lines. As a Green List Tier 1 occupation, they can directly apply for residence with clear immigration pathways and competitive salaries.
+Industrial machinery mechanics maintain and repair mechanical equipment in mining, food processing, and manufacturing, such as transmission systems, hydraulic equipment, and automated production lines. As a green list Tier 1 occupation, they can directly apply for residence, with clear immigration pathways and attractive salaries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭（Level 6） | 2年 | $15,000~$25,000（学费每年NZ$7,500-NZ$12,500） |
-| 学徒培训（NZ Apprenticeship） | 3-4年 | —（在职培训，部分行业补助） |
+| Associate degree (Level 6) | 2 years | $15,000~$25,000 (Tuition: NZ$7,500-NZ$12,500 per year) |
+| Apprenticeship training (NZ Apprenticeship) | 3-4 years | $0~$5,000 (On-the-job training, some industry subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家工程证书（工业机械工程）Level 4 | 新西兰资格认证局 (NZQA) | 必备 | 学徒完成后获得，行业广泛认可 |
-| 工作安全证书（健康与安全） | Worksafe NZ | 可选 | 部分行业要求，如矿业 |
-| 电工注册（附加技能） | 电气工人注册委员会 | 可选 | 若涉及电气维修，需单独注册 |
+| New Zealand Certificate in Engineering (Industrial Mechanical Engineering) Level 4 | New Zealand Qualifications Authority (NZQA) | Required | Awarded after completing apprenticeship, widely recognized in the industry |
+| Safety certificate (Health and Safety) | Worksafe NZ | Optional | Required in some industries, such as mining |
+| Electrician registration (additional skill) | Electrical Workers Registration Board | Optional | If electrical work is involved, separate registration is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。新西兰制造业和乳制品加工业持续发展，对工业机械维修工需求稳定。由于新移民涌入和基础设施投资，该职业就业前景良好。到2028年预计增长约10%，尤其在北岛和南岛工业区。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. New Zealand's manufacturing and dairy processing industries continue to develop, creating stable demand for industrial machinery mechanics. Due to new immigrant influx and infrastructure investment, the job outlook is good. About 10% growth is expected by 2028, especially in industrial areas of the North and South Islands.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 学徒或新毕业 |
-| 中级（3-6年） | $65,000~$85,000 | 有经验技师 |
-| 高级（6年以上） | $85,000~$110,000 | 主管或矿山现场，FIFO可达NZ$130,000+ |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Apprentice or new graduate |
+| Mid-level (3–6 years) | $65,000~$85,000 | Experienced technician |
+| Senior (6+ years) | $85,000~$110,000 | Supervisor or mine site, FIFO can reach NZ$130,000+ |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从维修技师起步，可晋升为高级技师、团队主管或维修经理。通过积累经验并考取国家证书（如新西兰工程证书），可转向自动化系统或项目管理。部分从业者自主创业开设维修服务公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+Start as a maintenance technician and can advance to senior technician, team leader, or maintenance manager. By gaining experience and obtaining national certifications (e.g., New Zealand Engineering Certificate), you can move into automation systems or project management. Some start their own maintenance service company.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Industrial Machinery Mechanics maintain and repair mechanical equipment in minin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足职业要求（如工资中位数、Job offer、学历或经验）即可申请。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制，根据学历、技能工作经验和收入评分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，通常作为过渡。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct Residence Visa: if occupation requirements are met (e.g., median wage, job offer, qualification or experience), can apply. |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, 6-point system, scoring based on qualifications, skilled work experience, and income. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa requiring employer sponsorship, usually as a transitional step. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Machinery Mechanic？**
-- 喜欢动手维修机械设备、在工业环境中工作的人
-- 具备机械工程或相关学历，愿意考取新西兰从业证书
-- 寻求稳定移民通道，愿意在偏远矿区或制造业基地工作
-
-**谁不适合学Industrial Machinery Mechanic？**
-- 不适应体力劳动或倒班、偏远地区工作环境
-- 对重复性维修任务缺乏耐心
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on mechanical repair and working in industrial environments
+- Possess a mechanical engineering or related qualification, willing to obtain a New Zealand practicing certificate
+- Seeking stable immigration pathways, willing to work in remote mining areas or manufacturing bases
+
+**Who is not suited**
+- Not suited for physical labor or shift work in remote areas
+- Lacks patience for repetitive maintenance tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for industrial machinery mechanics in New Zealand? Is there overtime pay?**
+A: Entry-level annual salary about 50,000-65,000 NZD, mid-level 65,000-85,000 NZD, senior up to 110,000 NZD. FIFO positions in mining areas can exceed 130,000 NZD. Overtime usually paid at 1.5 times hourly rate.
+
+**Q: I am an overseas mechanical fitter; how can I apply for New Zealand residency through the Green List?**
+A: This occupation is on Green List Tier 1; requires a job offer from a New Zealand accredited employer with wages at median (approx. NZD 29.66/hour), and no work experience needed to directly apply for Straight to Residence Visa.
+
+**Q: Is a New Zealand local certificate required to practice? Is overseas experience recognized?**
+A: Overseas experience is partially recognized but typically requires NZQA assessment and supplementary courses or apprenticeship. Industry recommends obtaining the New Zealand Certificate in Engineering (Level 4).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Industrial Machinery Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an Industrial Machinery Mechanic in New Zealand? Is there overtime pay?**
-答：Entry-level salary is around NZ$50,000-65,000 per year, mid-level NZ$65,000-85,000, and senior can reach NZ$85,000-110,000. FIFO mining roles can exceed NZ$130,000. Overtime is usually paid at 1.5x hourly rate.
-
-**问：I am an overseas machinery mechanic. How can I apply for NZ residence via the Green List?**
-答：This occupation is on Green List Tier 1. You need a job offer from an accredited employer with a salary at or above the median wage (approx. NZ$29.66/hour). You can directly apply for a Straight to Residence Visa without prior work experience in NZ.
-
-**问：Do I need a New Zealand qualification to work? Is overseas experience recognized?**
-答：Overseas experience is partially recognized, but you may need an NZQA assessment and complete bridging courses or an apprenticeship. The industry recommends obtaining the New Zealand Certificate in Engineering (Level 4).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

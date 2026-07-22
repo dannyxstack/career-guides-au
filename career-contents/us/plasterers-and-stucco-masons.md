@@ -1,61 +1,96 @@
-# Plasterers and Stucco Masons（Plasterers and Stucco Masons）职业分析 · 美国
+# Plasterers and Stucco Masons — career analysis · United States
 
-**职业代码：47-2161 – Plasterers and Stucco Masons。**
+**Occupation code: 47-2161 (SOC)**
 
-Apply interior or exterior plaster, cement, stucco, or similar materials. May also set ornamental plaster. A skilled trade requiring craftsmanship and physical stamina.
+Responsible for applying plaster, cement, stucco, and other materials to interior and exterior walls, and may install decorative plasterwork. It is a skilled trade in the construction industry requiring craftsmanship and physical strength.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学徒期 | 3-4年 | —（带薪学习） |
-| 职业培训 | 6个月-1年 | $3,000~$10,000（社区学院或技术学校课程） |
+| Apprenticeship period | 3-4 years | $0~$0 (Paid learning) |
+| Vocational training | 6 months to 1 year | $3,000~$10,000 (Community college or technical school courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无毒害培训卡 | OSHA | 必备 | 部分州要求 |
-| 州执照 | 州承包商许可委员会 | 必备 | 多数州要求独立承包商持有 |
-| 学徒结业证书 | 美国劳工部或行业协会 | 可选 | 完成注册学徒计划后获得 |
+| Non-toxic training card | OSHA | Required | Required in some states |
+| State license | State Contractor Licensing Board | Required | Most states require independent contractors to hold this. |
+| Apprenticeship completion certificate | US Department of Labor or industry associations | Optional | Obtained after completing a registered apprenticeship program |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。随着建筑行业稳定增长，泥水工需求预计保持稳定。新建住宅和商业建筑项目持续推动就业，但自动化影响有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. With steady growth in the construction industry, demand for plasterers is expected to remain stable. New residential and commercial building projects continue to drive employment, but automation impact is limited.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $32,000~$42,000 | 学徒薪资约为熟练工一半 |
-| 中级（3-5年） | $45,000~$55,000 | 熟练工平均薪资 |
-| 高级（6年以上） | $55,000~$75,000 | 高技能或领班薪资 |
+| Median salary | $57,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–2 years) | $32,000~$42,000 | Apprentice salary is about half of a skilled worker |
+| Mid-level (3–5 years) | $45,000~$55,000 | Average salary for skilled workers |
+| Senior (6+ years) | $55,000~$75,000 | High-skilled or foreman pay |
+| average salary | $62,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 入行通常从学徒开始，逐步成为熟练工。可晋升为领班、项目经理，或自主创业。经验丰富后也可转向相关建筑材料销售或培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation is significantly impacted by AI automation; indoor plastering robots have begun replacing repetitive tasks, entry-level positions are narrowing, but advanced manual skills and on-site adaptability still hold value.
+
+Entry usually starts with an apprenticeship, progressing to journeyman. Advancement to foreman, project manager, or self-employment is possible. Experienced workers may also transition to related building material sales or training.
+
+**Tasks most exposed to AI:**
+
+- Large-area wall surface preparation and plastering
+- Standard plaster mixing ratios and mixing
+- Mechanical spraying of simple decorative lines
+- Scaffolding erection and material handling (automated logistics)
+- Dimensional error measurement in quality inspection (AI vision)
+
+**Where AI augments the role:**
+
+- Use plastering robots for rapid large-area application, manual finishing of edges
+- AI scans wall flatness and guides manual patching
+- AR glasses assist in positioning decorative plaster patterns
+- Digital project management and automated material scheduling
+
+**Human moat:**
+
+- Hand-carved and artistic design of complex decorative plaster
+- On-site judgment for non-standard shapes and old building restoration
+- Tactile Experience of Plaster and Substrate Bonding (e.g., Humidity and Temperature Adjustments)
+- Coordination with other trades and on-site problem solving
+- Communication and fulfillment of customized customer aesthetic needs
+
+**Skills to build:**
+
+- Operating and maintaining plastering robots
+- Building Information Modeling (BIM) basics
+- Digital measurement and setting out (laser scanner)
+- Knowledge of high-performance plaster materials
+- Sustainable construction and green building technology
+- Basic electrical and engineering mathematics
+
+**Key growth areas:**
 
 - Construction
 - Residential building
@@ -64,65 +99,67 @@ Apply interior or exterior plaster, cement, stucco, or similar materials. May al
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 临时季节性工人签证，适用于非农业临时工作，需雇主担保且配额有限。 |
-| Subclass Green Card (EB-3)（Employment-Based Immigration: Third Preference） | 职业移民第三优先，适用于熟练工人、专业人员或其他工人。需劳工证和雇主担保，排期较长。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Temporary seasonal worker visa for non-agricultural temporary work, requires employer sponsorship and limited quotas. |
+| Subclass Green Card (EB-3) (Employment-Based Immigration: Third Preference) | Employment-based, third preference, for skilled workers, professionals, or other workers. Requires labor certification and employer sponsorship; long wait times. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Plasterers and Stucco Masons？**
-- 喜欢动手操作的人
-- 体力好且能适应户外工作的人
-- 注重细节和质量的手工艺人
+**Who is suited**
+- People who enjoy hands-on work
+- Physically fit and able to work outdoors
+- Detail-oriented and quality-focused craftsman
 
-**谁不适合学Plasterers and Stucco Masons？**
-- 期望高收入和快速晋升的人
-- 不喜欢体力劳动或粉尘环境的人
+**Who is not suited**
+- Those expecting high income and rapid promotion.
+- People who dislike physical labor or dusty environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a plasterer in the US?**
+A: According to BLS data, the average annual salary in 2023 is about $53,000, beginners about $35,000, experienced workers can reach $70,000 or more.
+
+**Q: Can a plasterer immigrate to the US through a work visa?**
+A: Traditionally difficult because the occupation is not high-skilled. Only possible via H-2B temporary work or EB-3 green card other worker category, requiring employer sponsorship with long wait times and quota constraints.
+
+**Q: What are the career development paths for plasterers?**
+A: Can progress from apprentice to journeyman, then to foreman, project manager, or start own contracting company. Also can move into related fields like drywall installation, painting, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Plasterers and Stucco Masons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for plasterers in the US?**
-答：According to BLS, the median annual wage was about $53,000 in 2023, with entry-level around $35,000 and experienced workers over $70,000.
-
-**问：Can plasterers immigrate to the US via work visa?**
-答：It's challenging as it's not a high-skilled occupation. Options include H-2B temporary non-agricultural visa or EB-3 green card for other workers, but require employer sponsorship and have long waits.
-
-**问：What are career advancement opportunities for plasterers?**
-答：From apprentice to journeyman, then to foreman, project manager, or owning a contracting business. Also can move into related trades like drywall installation or painting.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

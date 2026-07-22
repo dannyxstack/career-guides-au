@@ -1,61 +1,95 @@
-# Asbestos Removalist（Asbestos Removalist）职业分析 · 新西兰
+# Asbestos Removalist — career analysis · New Zealand
 
-**职业代码：899211 – Asbestos Removalist。**
+**Occupation code: 899211 (ANZSCO)**
 
-Asbestos removalists in New Zealand safely remove and dispose of asbestos-containing materials, requiring appropriate licenses and strict health and safety compliance. Demand for licensed workers is steady, but as a lower-skilled occupation, it typically does not qualify for Skilled Migrant Category, relying mainly on Accredited Employer Work Visa (AEWV).
+Asbestos removal workers in New Zealand are responsible for safely removing and disposing of asbestos-containing materials, requiring appropriate licenses and strict compliance with health and safety regulations. Demand for legally licensed workers is stable, but as a lower-skilled occupation, it typically does not directly qualify for skilled migration categories and mainly relies on the Accredited Employer Work Visa (AEWV) pathway.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训及短期课程 | 4-6周 | $2,000~$5,000（包括健康安全课程和实操培训） |
-| 学徒制（可选） | 2年 | —（可能获得工资补贴） |
+| On-the-job training and short courses | 4-6 weeks | $2,000~$5,000 (Includes health and safety courses and practical training) |
+| Apprenticeship (optional) | 2 years | $0~$3,000 (May be eligible for wage subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石棉清除牌照（A类/ B类） | 新西兰劳动监察局（Worksafe） | 必备 | 根据工作类型（松散/粘结）分不同级别，必须持有方可工作。 |
-| 建筑工地安全卡（Site Safe） | Site Safe | 必备 | 基本安全认证，大部分工地要求。 |
-| 新西兰工作安全培训证书（Health and Safety） | 第三方培训机构 | 可选 | 包含石棉识别和安全处理内容。 |
+| Asbestos removal license (Class A / Class B) | Worksafe New Zealand | Required | Different levels based on work type (loose/bonded), must hold to work. |
+| Construction site safety card (Site Safe) | Site Safe | Required | Basic safety certification, required on most construction sites. |
+| New Zealand Health and Safety training certificate | Third-party training provider | Optional | Includes content on asbestos identification and safe handling. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 1,200。新西兰老旧建筑翻新和拆迁持续产生石棉处理需求，但行业受法规和牌照限制，进入门槛较高。未来五年就业增长率预计约5-10%，主要依赖建筑行业循环需求。
+**Job demand: low (★★☆☆☆).** National workforce approx. 1,200. Old building renovations and demolitions in New Zealand continue to generate asbestos handling needs, but the industry is regulated and licensed, with high entry barriers. Employment is expected to grow about 5-10% over the next five years, mainly driven by cyclical construction demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 起薪较低，含津贴后可提高。 |
-| 中级（3-5年） | $55,000~$75,000 | 持有全牌照后薪资上升。 |
-| 高级（5年以上 / 领班） | $75,000~$90,000 | 高津贴或成为主管可达此区间。 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Starting salary is low but can increase with allowances. |
+| Mid-level (3–5 years) | $55,000~$75,000 | Salary increases after obtaining a full license. |
+| Senior (5+ years / team leader) | $75,000~$90,000 | High allowances or becoming a supervisor can reach this range. |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★½☆☆☆）。** 职业路径有限：工人可晋升为团队领班、监督员或安全顾问，亦可自主创业。但作为体力密集职业，需持续培训更新安全知识，长期工作有健康风险。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Asbestos removal is a profession highly dependent on physical operations and strict regulation; AI automation can hardly replace core removal and monitoring tasks, but AI-assisted monitoring tools can improve safety and efficiency, presenting both risks and opportunities overall.
+
+Career path limited: workers can advance to team leader, supervisor, or safety advisor, or start their own business. However, as a physically demanding occupation, ongoing training to update safety knowledge is needed, with long-term health risks.
+
+**Tasks most exposed to AI:**
+
+- Automated detection and identification of asbestos materials (AI image analysis)
+- Automatic generation of basic risk assessment reports
+- Real-time automatic monitoring of air quality and fibre concentration
+- Chatbot responses for customer inquiries and preliminary quotes
+
+**Where AI augments the role:**
+
+- AI-enhanced protective equipment for real-time monitoring of vital signs and environmental risks
+- Drone and robot-assisted asbestos removal in high-risk areas
+- Intelligent scheduling and compliance checklist management reduce paperwork.
+- Virtual reality (VR) training systems enhance safety drill effectiveness
+- Risk prediction and best practice recommendations based on historical data
+
+**Human moat:**
+
+- Manual skills for physical demolition and sealing operations
+- On-site Emergency Judgment and Unforeseen Situation Handling
+- Regulatory compliance on-site sign-off and human accountability
+- Customer trust and communication (involving sensitive health risk topics)
+
+**Skills to build:**
+
+- Basic AI tool usage (e.g., drone/robot operation)
+- Data interpretation skills (monitoring reports and sensor data)
+- Digital workflows and compliance software application
+- Advanced health and safety training and psychological resilience
+- Cross-skilling (e.g., welding or confined space work) to increase flexibility
+- Client management and professional communication skills.
+
+**Key growth areas:**
 
 - AEWV
 - Skill Level 4
@@ -64,69 +98,68 @@ Asbestos removalists in New Zealand safely remove and dispose of asbestos-contai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见路径，需新西兰认证雇主提供工作合同。职位通常列入ANZSCO Skill Level 4，无需绿名单。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不适用，因ANZSCO技能等级低且非绿名单，除非申请人积累足够经验转为管理岗并达到更高技能等级。 |
-| Subclass Partnership（Partner of a New Zealander Resident Visa） | 如果有新西兰居民或公民配偶，可走家庭类移民。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common pathway; requires an employment contract with a New Zealand accredited employer. Positions are usually at ANZSCO Skill Level 4 and don't need the Green List. |
+| Subclass SMC (Skilled Migrant Category) | Usually not applicable, as ANZSCO skill level is low and not on the Green List, unless the applicant accumulates enough experience to transition to a management role and achieve a higher skill level. |
+| Subclass Partnership (Partner of a New Zealander Resident Visa) | If you have a New Zealand resident or citizen spouse, you may be eligible for family-sponsored migration. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Asbestos Removalist？**
-- 动手能力强、适应体力劳动且注重安全
-- 愿意从事重复性高且环境有风险的户外工作
-- 希望通过AEWV工签进入新西兰、不急于拿永居的人
-
-**谁不适合学Asbestos Removalist？**
-- 无法适应防护装备下闷热、受限的体力工作
-- 期望快速获得永居或转行管理岗的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, adapts to physical labor, and prioritizes safety.
+- Willing to engage in repetitive outdoor work with risks
+- Those seeking entry to New Zealand via AEWV work visa, not in a hurry for permanent residency
+
+**Who is not suited**
+- Unable to adapt to hot, confined physical work under protective gear.
+- People seeking quick permanent residency or management role transition
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for asbestos removal workers in New Zealand?**
+A: Entry-level annual salary around NZD 45,000-55,000; senior supervisors can reach NZD 75,000-90,000. Overtime and special allowances can increase income, but overall lower than construction trades.
+
+**Q: Can an asbestos removal worker migrate to New Zealand through skilled migration?**
+A: Generally no, because the occupation's ANZSCO skill level is 4, which does not meet skilled migration requirements. Main entry via Accredited Employer Work Visa (AEWV), later may need to switch occupations or use partner migration.
+
+**Q: What license is needed for asbestos removal in New Zealand?**
+A: Must hold a Worksafe asbestos removal license (Class A or B) and complete basic safety training (e.g., Site Safe card).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 适中（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Asbestos Removalist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for asbestos removalists in NZ?**
-答：Entry-level NZD 45,000-55,000; experienced/supervisor NZD 75,000-90,000. Overtime and allowances can boost earnings but below skilled trades.
-
-**问：Can asbestos removalists get residence via Skilled Migrant Category?**
-答：Generally no, as the occupation is ANZSCO Skill Level 4. Main pathway is AEWV, then possibly switch to a higher-skilled job or partner visa.
-
-**问：What license is required for asbestos removal in NZ?**
-答：You must hold a Worksafe asbestos removal license (Class A or B) and complete basic safety training like Site Safe card.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

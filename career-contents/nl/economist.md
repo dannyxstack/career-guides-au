@@ -1,59 +1,95 @@
-# Economist（Economist）职业分析 · NL
+# Economist — career analysis · Netherlands
 
-**职业代码：2631 – Economist。**
+**Occupation code: 2631 (ISCO08)**
 
-Economists in the Netherlands analyze economic data, provide policy advice, and conduct market research for government, financial institutions, and corporations.
+Economists in the Netherlands engage in economic analysis, policy advice, and market research, serving government, financial institutions, and businesses.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（硕士） | $15,000~$25,000（荷兰大学硕士学费（非欧盟学生）） |
-| 本科 | 3年（本科） | $8,000~$15,000（荷兰大学本科学费（非欧盟学生）） |
-| 博士 | 4年（博士） | —（博士职位通常带薪，免学费） |
+| Master's degree | 2 years (Master's) | $15,000~$25,000 (Master's tuition fees at Dutch universities (non-EU students)) |
+| Bachelor's degree | 3 years (bachelor's) | $8,000~$15,000 (Dutch university undergraduate tuition fees (non-EU students)) |
+| Doctorate | 4 years (Doctorate) | $0~$0 (PhD positions are usually paid and tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学硕士学位 | 荷兰大学（如蒂尔堡大学、鹿特丹伊拉斯姆斯大学） | 必备 | 通常要求相关领域硕士学历 |
-| 注册经济学家 (Registered Economist) | 荷兰经济学家协会 (KVS) | 可选 | 非强制性，但对职业发展有益 |
+| Master's degree in Economics. | Dutch universities (e.g., Tilburg University, Erasmus University Rotterdam) | Required | Usually requires a master's degree in a relevant field. |
+| Registered Economist | Dutch Economic Association (KVS) | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。荷兰经济持续需要经济学家，尤其在公共政策、金融和数据分析领域，就业前景稳定。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. The Dutch economy consistently needs economists, especially in public policy, finance, and data analysis, with stable employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，包括养老金和假期津贴 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪，包括养老金和假期津贴 |
-| 高级（7年以上） | $70,000~$95,000 | 税前年薪，包括养老金和假期津贴 |
+| Median salary | $67,382 | Median salary (official: CBS median hourly wage €34.1/hour × 1976h annualized, BRC group 0412 Financial specialists and economists; P25–P75 €50,783–€91,489, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary, including superannuation and holiday pay |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary, including superannuation and holiday pay |
+| Senior (7+ years) | $70,000~$95,000 | Annual pre-tax salary, including superannuation and holiday pay |
+| average salary | $60,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级分析师可晋升为高级经济学家或政策顾问，也可转向管理岗位或学术研究。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Junior analysts can advance to senior economists or policy advisors, or move into management roles or academic research.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Data Analysis
 - Policy Research
@@ -62,68 +98,67 @@ Economists in the Netherlands analyze economic data, provide policy advice, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟公民，需雇主担保，年收入门槛约为€5,331/月（30岁以上）或€3,909/月（30岁以下）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能移民，需工作合同及年薪不低于€5,670/月（2024年标准），可申请家人团聚。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 适用于荷兰毕业的国际学生，提供一年求职期，找到工作后可转为工作签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled non-EU citizens requiring employer sponsorship; annual income threshold approximately €5,331/month (over 30) or €3,909/month (under 30). |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled immigration; requires work contract and annual salary not less than €5,670/month (2024 standard); family reunification possible. |
+| Subclass Orientation Year (Zo (Orientation Year) | For international students who graduated in the Netherlands, provides a one-year job search period; can switch to a work visa upon finding a job. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economist？**
-- 对经济理论和数据分析有浓厚兴趣的人
-- 具备统计和计量经济学技能的人
-- 希望在公共政策或金融领域发展的人
-
-**谁不适合学Economist？**
-- 不喜欢数据分析和复杂模型的人
-- 偏好固定流程而非研究探索的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in economic theory and data analysis
+- Individuals with statistics and econometrics skills
+- Those who wish to develop in public policy or finance
+
+**Who is not suited**
+- People who dislike data analysis and complex models
+- People who prefer fixed processes over research and exploration
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an economist in the Netherlands?**
+A: Junior economist annual salary approx. €35,000-€45,000, mid-level approx. €50,000-€65,000, senior up to €70,000-€95,000 (pre-tax).
+
+**Q: How can non-EU citizens immigrate to the Netherlands as economists?**
+A: Available via highly skilled migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting income thresholds. Dutch graduates can first apply for an orientation year.
+
+**Q: What are the career progression paths for economists?**
+A: From analyst to senior economist, then to policy advisor or management role, or move to academia or private sector research.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Economist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for economists in the Netherlands?**
-答：Entry-level economists earn around €35,000-€45,000, mid-level €50,000-€65,000, and senior €70,000-€95,000 (gross annual).
-
-**问：How can non-EU citizens migrate as economists to the Netherlands?**
-答：Via the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Graduates from Dutch institutions can use the Orientation Year visa.
-
-**问：What is the career progression for economists?**
-答：From analyst to senior economist, then to policy advisor or management, or transition to academia or private sector research.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

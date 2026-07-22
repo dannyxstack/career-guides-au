@@ -1,60 +1,96 @@
-# Correctional Officer（Correctional Officer）职业分析 · DE
+# Correctional Officer — career analysis · Germany
 
-**职业代码：5324 – Correctional Officer。**
+**Occupation code: 5324 (KldB)**
 
-Correctional officers supervise inmates, maintain security and order in correctional facilities, enforce regulations, and support rehabilitation and reintegration.
+Prison officers supervise detainees, maintain prison safety and order, enforce regulations, and participate in rehabilitation and reintegration
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中层公务员培训（中级非技术公务员） | 2年 | —（由联邦州承担费用，培训期间领取薪资） |
+| Mid-level civil servant training (intermediate non-technical civil service) | 2 years | $0~$0 (Paid training funded by the state government) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 完成监狱狱警培训（Laufbahnprüfung） | 各联邦州司法部 | 必备 | 通常要求中学毕业，通过选拔和体检 |
-| 德国国籍或欧盟国籍 | 联邦州 | 必备 | 部分州允许第三国公民，但需长期居留 |
-| 无犯罪记录 | 警方 | 必备 | 必须出具 |
+| Complete prison officer training (Laufbahnprüfung) | State Departments of Justice | Required | Typically requires high school graduation, selection tests and medical exams |
+| German or EU nationality | Federal states | Required | Some states allow third-country nationals, but long-term residence required |
+| No criminal record | Police | Required | Must be provided |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。德国司法系统对狱警需求稳定，由于人员更替和退休，每年有固定招聘名额。联邦州各自招聘，通常要求完成相应培训。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The German justice system has a stable demand for prison officers; due to turnover and retirements, there are fixed recruitment quotas each year. Federal states recruit independently and usually require completion of corresponding training.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（培训后） | $35,000~$42,000 | A6-A7 薪资等级 |
-| 中级（5-10年） | $42,000~$52,000 | A8-A9 薪资等级 |
-| 高级（10年以上/主管） | $52,000~$65,000 | A9-A10 薪资等级 |
+| Median salary | $55,188 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry-level (post-training) | $35,000~$42,000 | A6-A7 salary level |
+| Intermediate (5-10 years) | $42,000~$52,000 | A8-A9 salary grade |
+| Senior (10+ years/Supervisory) | $52,000~$65,000 | A9-A10 salary grade |
+| average salary | $56,916 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从狱警可晋升为高级狱警、部门主管或监狱长。也可通过继续教育转向社会服务、安全管理或司法行政岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of correctional officers and prison guards is primarily physical supervision and security monitoring. While AI and automation can take over some monitoring and paperwork, core human interaction and crisis management are hard to replace—a mixed outlook.
+
+Prison officers can be promoted to senior prison officers, department heads, or prison directors. They can also transition to social services, security management, or judicial administration roles through further education.
+
+**Tasks most exposed to AI:**
+
+- Timed patrol route monitoring and anomaly alerting (replaced by AI video analysis systems)
+- Recording prisoner daily behavior and generating reports (automated logging system)
+- Basic access control and personnel identity verification (fingerprint/facial recognition systems)
+- Standard programmed escort route planning (AI path optimization)
+- Routine environmental safety inspections in prisons (sensor and robot patrols)
+
+**Where AI augments the role:**
+
+- Using AI early warning systems to identify inmate violence tendencies, assisting in developing control strategies
+- Using smart wearable devices to monitor prisoners' physiological and emotional states in real time, optimizing intervention timing
+- Use virtual reality to simulate high-risk scenarios for practical training, improving emergency response capabilities
+- AI analyzes historical conflict data to provide personalized prisoner management recommendations.
+- Optimise shift scheduling and emergency response resource allocation through intelligent dispatch systems
+
+**Human moat:**
+
+- On-site judgment and use of force in crisis situations like sudden escapes or personnel conflicts
+- Psychological counseling and behavioral correction for prisoners based on interpersonal insights
+- Responsibility for performing physical operations on prisoners such as searches and restraints within legal procedures.
+- Irreplaceability of team collaboration and commander on-site decision-making in chaotic environments
+- Reasonable interpretation and enforcement of laws, regulations, and human rights boundaries
+
+**Skills to build:**
+
+- AI-driven surveillance system operation and abnormal event analysis
+- Behavioral science fundamentals and mental health crisis intervention skills
+- Use of data-driven prisoner risk assessment tools.
+- Advanced training in non-lethal force and control techniques
+- Body-worn cameras and digital evidence management
+- Application of AI-assisted communication platforms in cross-departmental collaboration
+
+**Key growth areas:**
 
 - Stable Demand
 - Civil Service
@@ -63,65 +99,64 @@ Correctional officers supervise inmates, maintain security and order in correcti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (non-EU)） | 需通过资质认证，但由于是公务员岗位，对非欧盟公民开放有限。 |
-| Subclass Chancenkarte（Opportunity Card） | 机会卡可能允许找相关培训或工作，但需雇主担保。 |
+| Subclass Skilled Worker (Skilled Worker Visa (non-EU)) | Qualification certification required, but due to being a government position, limited access for non-EU citizens. |
+| Subclass Chancenkarte (Opportunity Card) | Opportunity card may allow finding related training or work, but requires employer sponsorship. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Correctional Officer？**
-- 纪律性强、责任心重的人
-- 喜欢稳定工作和公务员待遇的人
-- 具备良好沟通和心理素质的人
-
-**谁不适合学Correctional Officer？**
-- 不喜严格规则和封闭环境的人
-- 对高压和冲突场景不适的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong discipline and high sense of responsibility
+- People who prefer stable jobs and public service benefits
+- People with good communication and psychological qualities
+
+**Who is not suited**
+- People who dislike strict rules and closed environments
+- Not suitable for people uncomfortable with high-pressure and conflict scenarios
+
+---
+
+## 8. FAQ
+
+**Q: How much do prison officers earn?**
+A: Annual salary is about 35,000 to 65,000 EUR (pre-tax), depending on the federal state and years of service.
+
+**Q: Can non-EU citizens become prison guards in Germany?**
+A: Very difficult, as prison officers are usually civil service positions requiring German or EU citizenship. A few states may have exceptions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Correctional Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a correctional officer?**
-答：Annual salary ranges from about 35,000 to 65,000 EUR gross depending on state and experience.
-
-**问：Can non-EU citizens become correctional officers in Germany?**
-答：Very difficult, as it is a civil service position requiring German or EU citizenship, with few exceptions.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

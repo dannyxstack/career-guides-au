@@ -1,60 +1,92 @@
-# Vehicle technicians, mechanics and electricians（Vehicle technicians, mechanics and electricians）职业分析 · UK
+# Vehicle technicians, mechanics and electricians — career analysis · United Kingdom
 
-**职业代码：5231 – Vehicle technicians, mechanics and electricians。**
+**Occupation code: 5231 (SOC)**
 
-Diagnose, repair and maintain mechanical and electrical systems of cars, trucks, motorcycles and other motor vehicles, including engines, transmissions, circuits and air conditioning.
+Responsible for diagnosing, repairing, and maintaining mechanical and electrical systems of vehicles such as cars, trucks, and motorcycles, including engines, transmissions, circuits, and air conditioning systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育 | 2年 | —（公立学院免费，但需自费材料） |
-| 高级学徒制 | 3-4年 | —（雇主资助，学徒期薪资） |
-| 高等国家文凭 | 2年 | $6,000~$9,000（全日制，年费） |
+| Secondary Education | 2 years | $0~$0 (Public colleges are free, but materials are self-funded.) |
+| Advanced apprenticeship | 3-4 years | $0~$1,000 (Employer-sponsored, apprenticeship wages.) |
+| Higher National Diploma | 2 years | $6,000~$9,000 (Full-time, annual fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IMI 三级汽车维修与保养证书 | 汽车工业协会 (IMI) | 可选 | 行业标准资质，通常需2-3年经验 |
-| City & Guilds 汽车工程证书 | City & Guilds | 可选 | 广泛认可，多等级可选 |
-| 驾驶执照 | DVLA | 必备 | 试车或移动车辆必需 |
+| Driver's license | DVLA | Required | Required for test driving or moving vehicles |
+| IMI Level 3 Certificate in Vehicle Maintenance and Repair | Institute of the Motor Industry (IMI) | Optional | Industry standard qualification, typically requires 2-3 years of experience |
+| City & Guilds Automotive Engineering Certificate | City & Guilds | Optional | Widely recognized, multiple levels available |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 98,000。英国车辆保有量稳定，新能源车维修需求上升，但学徒培训管道充足。预计未来五年职位数小幅增长约3%，行业替换需求为主。
+**Job demand: high (★★★★☆).** National workforce approx. 98,000. The UK's vehicle fleet is stable, demand for new energy vehicle repairs is rising, but the apprenticeship pipeline is adequate. The number of positions is expected to grow modestly by about 3% over the next five years, mainly driven by replacement demand.
 
-**竞争度：适中（★★½☆☆）。**
-**工作强度：较大（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒期约£15,000起 |
-| 中级（3-8年） | $25,000~$35,000 | 有资质和品牌经验 |
-| 高级（8年以上） | $35,000~$50,000 | 主管或专家级别 |
+| Median salary | $37,458 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprenticeship starting at approximately £15,000 |
+| Mid-level (3–8 years) | $25,000~$35,000 | Has qualifications and brand experience |
+| Senior (8+ years) | $35,000~$50,000 | Supervisor or Specialist Level |
+| average salary | $38,213 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级技工升至高级技师、车间主管或品牌专家。也可专攻新能源车、诊断技术或转向培训/管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
+
+Can progress from junior technician to senior technician, workshop supervisor, or brand specialist. Specialize in new energy vehicles, diagnostic technology, or transition to training/management roles.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
 
 - Electric vehicle
 - Diagnostics
@@ -63,68 +95,67 @@ Diagnose, repair and maintain mechanical and electrical systems of cars, trucks,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 符合移民薪资门槛（通常£26,200/年），雇主需担保。 |
-| Subclass Graduate（Graduate visa） | 毕业后可留英2年工作，之后可转Skilled Worker。 |
-| Subclass Scale-up（Scale-up visa） | 需获得符合条件的快速增长企业担保，薪资要求较高。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Must meet immigration salary threshold (usually £26,200/year), employer must sponsor. |
+| Subclass Graduate (Graduate visa) | Graduates can stay in the UK for 2 years to work, then can switch to Skilled Worker. |
+| Subclass Scale-up (Scale-up visa) | Requires sponsorship by a qualifying high-growth company, with higher salary requirements. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle technicians, mechanics and electricians？**
-- 喜欢动手、解决实际技术问题的人
-- 对汽车机械和电子系统有热情的人
-- 愿意持续学习新能源和诊断技术的人
-
-**谁不适合学Vehicle technicians, mechanics and electricians？**
-- 无法接受体力劳动和油污环境的人
-- 不善于客户沟通或团队协作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those who enjoy hands-on work and solving practical technical problems
+- People passionate about automotive mechanics and electronic systems
+- Those willing to continuously learn new energy and diagnostic technologies
+
+**Who is not suited**
+- Cannot accept physical labor and oily environments
+- People who are not good at client communication or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for vehicle technicians?**
+A: Entry-level approx £18K-£24K, mid-level £25K-£35K, senior or supervisor up to £50K+. Additional income from overtime and bonuses.
+
+**Q: Can overseas vehicle technicians immigrate to the UK through skilled migration?**
+A: Yes, this occupation is on the Skilled Worker sponsorship list. Must meet the salary threshold (£26,200/year) and have employer sponsorship.
+
+**Q: What are the career advancement paths for vehicle technicians?**
+A: Can advance to senior technician, workshop supervisor, brand specialist, or transition into training, management, or new energy vehicle specialization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 适中（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 适中（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较大（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle technicians, mechanics and electricians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for vehicle technicians?**
-答：Entry level £18K-£24K, mid-level £25K-£35K, senior/supervisor up to £50K+. Overtime and bonuses add extra.
-
-**问：Can overseas vehicle technicians immigrate to the UK?**
-答：Yes, this occupation is eligible for Skilled Worker visa. Must meet salary threshold (£26,200) and have employer sponsorship.
-
-**问：What are the career progression paths for vehicle technicians?**
-答：Advance to senior technician, workshop supervisor, brand specialist, or move into training, management, or EV specialist roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

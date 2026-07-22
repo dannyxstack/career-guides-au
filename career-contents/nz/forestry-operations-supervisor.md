@@ -1,59 +1,95 @@
-# Forestry Operations Supervisor（Forestry Operations Supervisor）职业分析 · 新西兰
+# Forestry Operations Supervisor — career analysis · New Zealand
 
-**职业代码：363113 – Forestry Operations Supervisor。**
+**Occupation code: 363113 (ANZSCO)**
 
-Forestry Operations Supervisors oversee logging, reforestation, fire prevention, and sustainable management, coordinating teams and equipment to ensure safe and efficient operations. This role is eligible for the Green List direct residence pathway, making it a popular choice for skilled migrants, with high demand particularly in the South Island.
+Forestry operations supervisors oversee forest harvesting, reforestation, fire prevention, and sustainable management, coordinating teams and equipment to ensure safe and efficient operations. This occupation can qualify for the Green List direct residence pathway and is a popular choice for skilled migration in New Zealand, especially in the South Island.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰学历框架（NZQF）5级文凭 | 2年 | $20,000~$35,000（全日制课程，如森林管理国家文凭） |
-| NZQF 6级文凭 | 3年 | $30,000~$50,000（本科一年级课程或高级文凭） |
+| New Zealand Qualifications Framework (NZQF) Level 5 diploma | 2 years | $20,000~$35,000 (Full-time courses, such as the National Diploma in Forest Management) |
+| NZQF Level 6 Diploma | 3 years | $30,000~$50,000 (First-year undergraduate course or advanced diploma) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 森林安全证书（Forest Safety Certificate） | 新西兰林业协会（NZFOA） | 必备 | 强制性证书，涵盖伐木安全、应急程序 |
-| G级驾照（重型车辆） | 新西兰交通局（NZTA） | 可选 | 通常需要驾驶林业车辆 |
-| 国家森林管理文凭（National Diploma in Forest Management） | 国立理工学院 | 可选 | 有助于晋升，非强制但受雇主青睐 |
+| Forest Safety Certificate | New Zealand Forest Owners Association (NZFOA) | Required | Mandatory certificate covering logging safety and emergency procedures. |
+| Class G driver's license (heavy vehicle) | New Zealand Transport Agency (NZTA) | Optional | Typically requires driving forestry vehicles |
+| National Diploma in Forest Management | National Institute of Technology | Optional | Beneficial for promotion, not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰林业是重要经济支柱，政府持续投资可持续森林管理，预计未来五年岗位增长稳定。南岛及北岛中部因森林资源丰富，招聘需求最为强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. New Zealand's forestry is a key economic pillar, with government investment in sustainable forest management; job growth is expected to be stable over the next five years. The South Island and central North Island have the strongest recruitment demand due to abundant forest resources.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理主管或新手主管，通常需进一步培训 |
-| 中级（3-7年） | $75,000~$95,000 | 有经验的主管，能独立管理团队和项目 |
-| 高级（7年以上） | $100,000~$130,000 | 区域经理或高级主管，负责多个林场 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant supervisor or new supervisor, usually requiring further training |
+| Mid-level (3–7 years) | $75,000~$95,000 | Experienced supervisor capable of independently managing teams and projects |
+| Senior (7+ years) | $100,000~$130,000 | Regional manager or senior supervisor responsible for multiple forest farms. |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级林业工人或助理晋升，积累安全证书和团队管理经验后担任主管；后期可升为区域经理或林场经理，或专攻森林认证或碳汇管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on forestry operations supervisors is twofold: automation will take over routine tasks such as data recording and equipment scheduling, but field decision-making, team safety management, and ecological compliance are enhanced by AI tools (e.g. drone monitoring, predictive models), keeping overall demand stable while slightly raising the entry threshold.
+
+Can progress from entry-level forestry worker or assistant, accumulate safety certificates and team management experience to become a supervisor; later can advance to regional manager or forest farm manager, or specialise in forest certification or carbon sink management.
+
+**Tasks most exposed to AI:**
+
+- Manual recording of harvesting data and preparation of daily production reports (replaced by sensors and cloud systems)
+- Manual patrol of forest land to check for fire hazards (being replaced by drone thermal imaging and AI image recognition)
+- Manual calculation of logging order and routes (replaced by optimized algorithms that automatically generate plans)
+- Coordinating equipment dispatch via phone/intercom (replaced by real-time location and automatic dispatching systems)
+- Paper or Excel management of logging permits and compliance records (automatically archived by digital platforms)
+
+**Where AI augments the role:**
+
+- Optimize harvest cycles and crop rotation plans using satellite remote sensing and AI prediction models.
+- Use drone multispectral data to analyse forest health and pest/disease risks for precise decision-making
+- Use digital twins and simulation software for safe logging operation rehearsals and training
+- Uses IoT sensors to monitor equipment status in real time, providing early fault warnings.
+- Use natural language processing to automatically generate environmental compliance reports, reducing paperwork time
+
+**Human moat:**
+
+- On-site safety decision-making (e.g., emergency measures for sudden weather, terrain changes, equipment failures)
+- Team leadership and cross-departmental communication and coordination (managing workers, contractors, and environmental agencies from diverse backgrounds)
+- Long-term sustainable forestry planning and ecological ethics trade-offs (not a pure optimization problem, involves values)
+- Communication skills for handling regulatory audits and public scrutiny
+- First-hand experience and intuition for complex terrain and unpredictable natural environments
+
+**Skills to build:**
+
+- GIS and remote sensing analysis (e.g., QGIS, ArcGIS, drone data processing)
+- Basics of data analysis (Python/R, statistical modeling, understanding of machine learning concepts)
+- Digital tools and automation software usage (forest management systems, equipment scheduling platforms)
+- Environmental regulations and carbon accounting knowledge (New Zealand's Forest Act, carbon markets)
+- Safety leadership and emergency management (HSE certification, trauma first aid)
+- Project management (PMP or Agile, adapted for iterative improvement)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Forestry Operations Supervisors oversee logging, reforestation, fire prevention,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 符合绿色清单直接居留条件，满足薪资中位数且持相关工作offer即可申请，无需等待过渡期。 |
-| Subclass SMC（Skilled Migrant Category (6-point system)） | 可通过学历（如本科/硕士）、工作经验（3-6年）或新西兰工作offer获得6分移民申请资格。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于未达直接居留条件的申请人，持认证雇主offer可获3年工签，工作2年后可申请居留（绿色清单T2等效）。 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Meets Green List direct residence conditions; apply with median salary and relevant job offer, no waiting period required. |
+| Subclass SMC (Skilled Migrant Category (6-point system)) | You can qualify for a 6-point migration application through qualifications (e.g., bachelor's/master's), work experience (3-6 years), or a New Zealand job offer. |
+| Subclass AEWV (Accredited Employer Work Visa) | Applicable to applicants who do not yet meet direct residence requirements. Holders of a certified employer offer can obtain a 3-year work visa and apply for residence after working for 2 years (equivalent to Green List T2). |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forestry Operations Supervisor？**
-- 喜欢户外、体力管理与团队协调的人
-- 有林业或农业背景，愿意在新西兰乡村工作者
-- 追求快速移民并获得绿卡的专业人士
-
-**谁不适合学Forestry Operations Supervisor？**
-- 无法适应偏远地区生活或频繁加班者
-- 缺乏安全管理意识或沟通能力较弱者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor work, physical management and team coordination
+- Individuals with forestry or agricultural background and willing to work in rural New Zealand
+- Professionals seeking fast immigration and obtaining permanent residency
+
+**Who is not suited**
+- Those who cannot adapt to remote area living or frequent overtime
+- Those lacking safety management awareness or communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a Forestry Operations Supervisor in New Zealand?**
+A: According to industry data, the annual salary range for supervisors is approximately NZD 55,000 to NZD 130,000, with a median of about NZD 80,000, depending on experience and location.
+
+**Q: Can a forestry operations supervisor immigrate to New Zealand via the Green List?**
+A: Yes. This occupation is on the Green List Tier 1 (Straight to Residence); meeting the median salary (approx. NZ$29.66/hour) and having a job offer allows direct residency application.
+
+**Q: What key skills are needed for this occupation?**
+A: Requires forestry safety knowledge, team leadership skills, equipment maintenance experience, and basic financial management skills. Holding a forest safety certificate and G-class driver's license is a clear advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Forestry Operations Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a Forestry Operations Supervisor in New Zealand?**
-答：Industry data shows salaries range from NZD 55,000 to 130,000, with median around NZD 80,000, depending on experience and location.
-
-**问：Can a Forestry Operations Supervisor migrate to New Zealand via the Green List?**
-答：Yes. The role is on Green List Tier 1 (Direct Residence). If you meet the median wage (approx. NZD 29.66/hour) and have a job offer, you can apply for residence directly.
-
-**问：What key skills are needed for this occupation?**
-答：Forestry safety knowledge, team leadership, equipment maintenance, and basic financial skills. Holding a Forest Safety Certificate and Class G driver's license is advantageous.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Gas Plant Operators（Gas Plant Operators）职业分析 · 美国
+# Gas Plant Operators — career analysis · United States
 
-**职业代码：51-8092 – Gas Plant Operators。**
+**Occupation code: 51-8092 (SOC)**
 
-Distribute or process gas for utility companies by controlling compressors and monitoring pipeline pressures to ensure safe and stable gas supply.
+Control compressors, monitor pipeline pressure, distribute or process natural gas for utility companies, ensuring safe and stable gas supply.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立学校免费） |
-| 在职培训（学徒或技校） | 1-2年 | —（部分雇主提供带薪培训） |
+| High school diploma | 4 years | $0~$0 (Free public schools.) |
+| On-the-job training (apprenticeship or trade school) | 1-2 years | $0~$10,000 (Some employers offer paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本学历要求 |
-| 操作员技术培训证书 | 社区学院或技术学校 | 可选 | 可选但有助于就业 |
+| High school diploma or equivalent | High school | Required | Basic education requirements |
+| Operator technical training certificate | Community college or technical school | Optional | Optional but helpful for employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 5,100。美国天然气厂操作员就业预计缓慢下降，2023-2033年岗位减少约2%（约100个），但退休人员补充仍有一定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,100. Employment for US natural gas plant operators is expected to decline slowly, with a decrease of about 2% (approximately 100 jobs) from 2023-2033, but replacement of retirees still provides some demand.
 
-**竞争度：中低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级，含培训期 |
-| 中级（3-8年） | $60,000~$75,000 | 独立操作，经验丰富 |
-| 高级（8年以上） | $80,000~$95,000 | 主管或高级操作员 |
+| Median salary | $87,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level, including training period |
+| Mid-level (3–8 years) | $60,000~$75,000 | Independent operation, experienced |
+| Senior (8+ years) | $80,000~$95,000 | Supervisor or senior operator |
+| average salary | $88,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：负面（★☆☆☆☆）。** 初级操作员通过在职培训掌握技能，可晋升为高级操作员或值班主管，部分转向天然气生产调度或安全管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gas plant operators face medium-high automation risk. AI and smart sensors will take over much monitoring, data recording, and routine adjustment tasks, but on-site emergency response and equipment maintenance still require humans; total positions may shrink.
+
+Entry-level operators gain skills through on-the-job training and can advance to senior operators or shift supervisors, with some moving into gas production scheduling or safety management roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and recording of pipeline pressure, temperature, flow, and other parameters
+- Adjust compressor, valve, and other equipment operation based on preset programs
+- Generate daily operation reports and preliminary screening of abnormal alarms
+- Perform standardized equipment start-up and shutdown procedures
+- Remote inspection and routine checks via SCADA systems
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance models to detect potential equipment failures in advance
+- Use digital twin systems to simulate accident scenarios and optimize emergency plans
+- Optimizing gas source allocation and pipeline load balancing through advanced data analysis
+- Use AI-assisted decision-making tools to handle parameter adjustments under complex conditions
+- Using augmented reality (AR) for remote expert-assisted repairs
+
+**Human moat:**
+
+- Quick response and judgement during on-site emergencies such as spills or fires
+- Physical diagnosis and manual repair of complex equipment faults (e.g., replacing valve seals)
+- Cross-departmental coordination and supplier negotiations (e.g., gas procurement contract execution)
+- Supervision of safety protocol compliance and on-site training for new personnel
+- Understanding and implementing compliance rectification for regulatory changes (e.g., environmental emission standards)
+
+**Skills to build:**
+
+- Advanced operation and troubleshooting of SCADA/DCS systems
+- Data analysis basics (Python or SQL) for operation optimization
+- Use of predictive maintenance tools (e.g., vibration analysis software)
+- Industrial IoT sensor configuration and data interpretation
+- Emergency drill design and Incident Command System (ICS).
+- Interface knowledge for collaboration with automation engineers (API/PLC logic)
+
+**Key growth areas:**
 
 - slow decline
 - energy sector
@@ -63,62 +99,64 @@ Distribute or process gas for utility companies by controlling compressors and m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需本科以上学历，此类操作员高中即可，雇主担保困难 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需至少2年经验或培训，但雇主需办PERM，需求低 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or above; this operator role only requires high school; employer sponsorship difficult |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of experience or training, but employers need to file PERM, low demand |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gas Plant Operators？**
-- 喜欢稳定工作、动手能力强、注重安全的中专或高中学历者
-- 希望进入能源行业、愿意轮班且能忍受倒班者
-- 对机械操作和计算机监控有兴趣者
+**Who is suited**
+- Individuals with secondary school or high school education who enjoy stable work, have strong hands-on skills, and prioritise safety
+- Those looking to enter the energy industry, willing to work shifts and tolerate rotating schedules
+- Interested in machinery operation and computer monitoring
 
-**谁不适合学Gas Plant Operators？**
-- 追求高收入和快速职业发展者
-- 不擅长倒班或无法适应户外长时间工作环境者
+**Who is not suited**
+- Those seeking high income and rapid career advancement
+- Those not suited to shift work or prolonged outdoor work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for natural gas plant operators?**
+A: Median annual salary for this occupation in the US is about USD 72,000, entry-level around USD 45,000-55,000, senior up to USD 85,000-95,000, depending on location and experience.
+
+**Q: Can a natural gas plant operator immigrate to the US?**
+A: Very difficult; this occupation typically only requires a high school diploma and on-the-job training, does not meet H-1B specialty occupation requirements, and employer sponsorship via EB-3 labor certification is rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 偏低（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中低（★½☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 负面（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Gas Plant Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for gas plant operators?**
-答：The median annual wage in the US is around $72,000, entry-level $45,000-$55,000, senior up to $85,000-$95,000, varying by location and experience.
-
-**问：Can gas plant operators immigrate to the US?**
-答：Very difficult; the job typically requires only a high school diploma and on-the-job training, not meeting H-1B specialty occupation criteria, and employer sponsorship via EB-3 PERM is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

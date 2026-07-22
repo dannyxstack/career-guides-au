@@ -1,60 +1,96 @@
-# Packers, bottlers, canners and fillers（Packers, bottlers, canners and fillers）职业分析 · UK
+# Packers, bottlers, canners and fillers — career analysis · United Kingdom
 
-**职业代码：9132 – Packers, bottlers, canners and fillers。**
+**Occupation code: 9132 (SOC)**
 
-Pack, wrap, fill, label and seal products by hand or machine, commonly employed in food & drink, manufacturing, and logistics sectors.
+Manually or using machines to package, wrap, fill, label, and seal products, commonly in food & beverage, manufacturing, and logistics/warehousing industries.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训，无需前期教育投资） |
-| 短期职业培训 | 1-3个月 | $500~$2,000（可选包装操作或食品卫生证书课程） |
+| No formal education required | None | $0~$0 (Typically on-the-job training, no upfront education investment required) |
+| Short-term vocational training | 1-3 months. | $500~$2,000 (Optional certificate courses in packaging operations or food hygiene) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 英国特许环境卫生协会 | 可选 | 食品包装行业常见要求 |
-| 叉车操作证 | RTITB或ITSSAR | 可选 | 有助于仓库岗位晋升 |
+| Food safety certificate | Chartered Institute of Environmental Health, UK | Optional | Common requirements in the food packaging industry |
+| Forklift operation certificate | RTITB or ITSSAR | Optional | Helpful for advancement in warehouse roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 220,000。随着自动化普及，低技能包装岗位需求可能缓慢下降，但电商和物流行业的增长仍提供一定就业机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 220,000. With the spread of automation, demand for low-skilled packaging roles may slowly decline, but growth in e-commerce and logistics still provides some job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 通常是按小时计薪，时薪约10-11英镑 |
-| 中级（3-5年） | $22,000~$26,000 | 可能包含轮班补贴 |
-| 高级（5年以上） | $26,000~$30,000 | 主管或技术维护岗位 |
+| Median salary | $26,152 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$22,000 | Usually paid hourly, approximately £10-11 per hour |
+| Mid-level (3–5 years) | $22,000~$26,000 | May include shift allowances |
+| Senior (5+ years) | $26,000~$30,000 | Supervisor or technical maintenance positions |
+| average salary | $27,474 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 可从初级包装工晋升为流水线主管或质检员，掌握机器操作后可转向技术维护岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Packaging, bottling, canning, and filling work is highly repetitive; AI and automation will significantly reduce job numbers, low-skilled workers face replacement risk.
+
+Can be promoted from junior packer to line supervisor or quality inspector; those skilled in machine operation can transition to technical maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Package, fill, and seal products by hand or using simple machines
+- Inspect packaging quality and remove defective products
+- Lift and stack packing boxes in a warehouse
+- Operate semi-automatic filling machines and monitor basic parameters
+- Record and report packaging quantities and production data
+
+**Where AI augments the role:**
+
+- Automatic detection of packaging defects via AI vision systems, with workers only handling exceptions
+- AI optimizes packaging line scheduling and material replenishment, allowing workers to supervise multiple lines simultaneously.
+- Using digital twins to simulate packaging processes, workers get up to speed quickly during training
+- AI-driven maintenance reminders allow workers to schedule equipment inspections in advance
+- Workers receive real-time operational guidance and troubleshooting support through AR glasses
+
+**Human moat:**
+
+- Manual dexterity for handling non-standard materials or complex packaging (e.g., fragile items, irregular shapes)
+- Rapid human intervention and manual operation during equipment anomalies or emergencies
+- Ability to perform quick changeover adjustments for cross-product, small-batch orders
+- Soft skills for coordinating with upstream and downstream (e.g. warehouse, quality control, logistics)
+- Subjective judgment of packaging quality (e.g., appearance, feel)
+
+**Skills to build:**
+
+- Automated equipment operation and maintenance (e.g., PLC basics)
+- Basic use and debugging of AI quality inspection system (computer vision)
+- Warehouse Management System (WMS) Operation and Data Analysis
+- Lean production and process optimization
+- Collaborative robot (cobot) programming and safe operation
+- Cross-departmental communication and teamwork
+
+**Key growth areas:**
 
 - automation
 - e-commerce
@@ -63,62 +99,64 @@ Pack, wrap, fill, label and seal products by hand or machine, commonly employed 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 理论可行，但因薪资低于一般技术工签门槛（通常需至少£26,200），雇主担保难度大，仅限少数高薪岗位。 |
-| Subclass Graduate（Graduate Visa） | 适合在英国完成学位的毕业生短期工作，但该职业非典型高技能路径。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Theoretically feasible, but due to salary below general skilled work visa threshold (usually at least £26,200), employer sponsorship is difficult, limited to a few high-paying positions. |
+| Subclass Graduate (Graduate Visa) | Suitable for graduates who completed a degree in the UK for short-term work, but this occupation is not a typical high-skilled pathway. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Packers, bottlers, canners and fillers？**
-- 希望快速进入劳动力市场、无需高学历的人士
-- 偏好体力操作、重复性工作的人
-- 愿意从事轮班制工作的求职者
+**Who is suited**
+- Individuals wishing to enter the labor market quickly without needing a high degree
+- People who prefer physical, repetitive tasks
+- Job seekers willing to work shift work
 
-**谁不适合学Packers, bottlers, canners and fillers？**
-- 寻求高薪或快速职业晋升的人
-- 对自动化风险敏感、希望长期稳定发展的人
+**Who is not suited**
+- Those seeking high salary or rapid career advancement
+- For those sensitive to automation risk and seeking long-term stable development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a packer in the UK?**
+A: Entry-level packaging workers earn approximately £19,000-£22,000 per year, experienced workers can reach £26,000-£30,000.
+
+**Q: Can packers immigrate to the UK through the Skilled Worker visa?**
+A: Very difficult. The salary for this occupation is typically below the Skilled Worker visa minimum wage requirement (£26,200), and it is not on the shortage occupation list, with low employer sponsorship willingness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Packers, bottlers, canners and fillers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for packers in the UK?**
-答：Entry-level packers earn around £19,000-£22,000 per year, rising to £26,000-£30,000 with experience.
-
-**问：Can packers migrate to the UK via a Skilled Worker visa?**
-答：Very difficult. The salary is usually below the Skilled Worker minimum threshold (£26,200), and the role is not on the shortage list, making employer sponsorship unlikely.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

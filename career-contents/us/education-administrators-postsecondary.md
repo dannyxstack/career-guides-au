@@ -1,58 +1,94 @@
-# Education Administrators, Postsecondary（Education Administrators, Postsecondary）职业分析 · 美国
+# Education Administrators, Postsecondary — career analysis · United States
 
-**职业代码：11-9033 – Education Administrators, Postsecondary。**
+**Occupation code: 11-9033 (SOC)**
 
-Plan, direct, or coordinate student instruction, administration, and services at postsecondary institutions.
+Plan, direct, or coordinate student instruction, administration, services, and other research and educational activities at post-secondary institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士学位 | 2年 | $30,000~$100,000（学费因公立/私立及学校声誉而异） |
-| 博士学位 | 4-7年 | $50,000~$200,000（通常需要博士学位晋升高级管理职位） |
+| Master's degree | 2 years | $30,000~$100,000 (Tuition fees vary by public/private institutions and school reputation) |
+| Doctoral degree (PhD) | 4-7 years | $50,000~$200,000 (Usually requires a doctoral degree for advancement to senior management positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高等教育管理硕士学位 | 认证大学 | 必备 | 常见要求 |
-| 博士学位 | 认证大学 | 可选 | 高级职位通常需要 |
+| Master's degree in higher education administration. | Accredited university | Required | Common requirements |
+| Doctoral degree (PhD) | Accredited university | Optional | Usually required for senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 220,000。预计2023-2033年就业增长约4%，与所有职业平均水平相当。增长受大学入学率、在线教育需求及行政复杂度影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 220,000. Projected employment growth of about 4% from 2023-2033, about average for all occupations. Growth affected by college enrollment rates, demand for online education, and administrative complexity.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$75,000 | 助理主任等入门级职位 |
-| 中级（3-7年） | $75,000~$110,000 | 如学术顾问主任或注册主任 |
-| 高级（7年以上） | $110,000~$180,000 | 如院长或副校长 |
+| Median salary | $104,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$75,000 | Entry-level positions such as assistant director |
+| Mid-level (3–7 years) | $75,000~$110,000 | Such as academic advisor director or registrar |
+| Senior (7+ years) | $110,000~$180,000 | Such as dean or vice chancellor |
+| average salary | $126,540 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从学术部门或行政岗位起步，晋升路径包括系主任、院长、副校长等。需积累管理经验并攻读高等教育管理或相关领域硕士/博士学位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI impact on university administrative work is mixed: large volumes of documentation and data processing can be automated, but core duties involving student communication, policy judgment, and cross-department coordination still require human judgment; jobs won't be replaced in the short term, but work content and skill requirements will change significantly.
+
+Usually starts from academic departments or administrative positions, with career paths including department head, dean, vice president, etc. Requires accumulating management experience and pursuing a master's or doctoral degree in higher education administration or a related field.
+
+**Tasks most exposed to AI:**
+
+- Schedule planning and exam arrangement (AI-optimised scheduling algorithms)
+- Student grade entry and graduation eligibility checks (automated data processing)
+- Routine consultation emails and FAQ responses (AI chatbot)
+- File archiving, meeting minutes, and report generation (natural language processing)
+- Budget execution tracking and simple expense reimbursement auditing (RPA process automation)
+
+**Where AI augments the role:**
+
+- Student performance analysis and academic early warning (AI analysis of learning behavior data)
+- Admissions data prediction and admission decision support (machine learning models)
+- Systematized research project management (AI-assisted progress tracking and compliance checks)
+- Cross-departmental communication and coordination (AI extracts meeting key points, generates action items)
+- Student complaints and complex policy explanations (AI provides reference cases and legal retrieval)
+
+**Human moat:**
+
+- Handling complex, ambiguous student cases (emotional support and personalized advice)
+- Cross-departmental interest coordination and conflict resolution (negotiation and empathy)
+- Interpretation and adaptation of policies and regulations (understanding context and ethical judgment).
+- Building trust relationships and maintaining campus culture (long-term interpersonal interaction)
+- Creative problem-solving and process improvement (business model thinking)
+
+**Skills to build:**
+
+- Proficient in college ERP systems (e.g., PeopleSoft) and AI plugins
+- Data literacy: capable of basic analysis with Python/R, understanding data privacy regulations
+- Learning conversational AI tools (chatbot training, prompt engineering)
+- Project management (agile methodologies) and cross-department collaboration skills
+- Enhanced communication and negotiation skills (especially in non-standard scenarios)
+- Continuous learning ability: tracking education technology trends (e.g., LMS AI modules)
+
+**Key growth areas:**
 
 - Postsecondary education
 - Student services
@@ -61,69 +97,68 @@ Plan, direct, or coordinate student instruction, administration, and services at
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需要学士以上学位的专业职位，高等教育管理人员符合条件，但名额竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上学位或特殊能力，PERM劳工认证后可申请。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或技术工人，但排期较长。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到合格美国工人，通过劳工认证后申请绿卡。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to professional positions requiring a bachelor's degree or higher; higher education administrators qualify, but quota competition is fierce. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or higher or special skills; can apply after PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or skilled workers, but with long wait times. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find qualified US workers and apply for a green card after labor certification. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education Administrators, Postsecondary？**
-- 擅长学术管理及领导力的人
-- 对高等教育体系有热情的人
-- 具备出色沟通和组织能力的人
-
-**谁不适合学Education Administrators, Postsecondary？**
-- 不喜欢行政文书工作的人
-- 不擅长处理 预算和人事冲突的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in academic management and leadership
+- People passionate about the higher education system
+- People with excellent communication and organisational skills
+
+**Who is not suited**
+- For those who dislike administrative paperwork
+- People not good at handling budgets and personnel conflicts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for higher education administrators?**
+A: According to BLS data, median annual salary in 2023 was about $99,900, but starting pay is lower; senior positions can exceed $180,000.
+
+**Q: How can foreigners become higher education administrators via the H-1B visa?**
+A: Requires employer sponsorship for H-1B visa; position must be a specialty occupation (usually requiring a master's degree or higher). Lottery success rate is low; consider O-1 or green card paths as well.
+
+**Q: Is a doctoral degree required for this occupation?**
+A: Not mandatory, but senior management roles (e.g., dean, vice-chancellor) typically prefer a PhD. Many entry-level positions only require a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Education Administrators, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for education administrators in postsecondary institutions?**
-答：According to BLS, the median annual wage was about $99,900 in 2023, with entry-level positions lower and senior roles exceeding $180,000.
-
-**问：How can a foreign national become an education administrator via H-1B visa?**
-答：Employer must sponsor H-1B for a specialty occupation requiring at least a master's degree. The lottery system is competitive; consider O-1 or green card options.
-
-**问：Is a doctoral degree required for this occupation?**
-答：Not mandatory, but senior roles like dean or vice president often require a PhD. Many entry-level positions only need a master's degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

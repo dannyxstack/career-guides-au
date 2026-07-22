@@ -1,60 +1,92 @@
-# Sales and retail assistants（Sales and retail assistants）职业分析 · UK
+# Sales and retail assistants — career analysis · United Kingdom
 
-**职业代码：7111 – Sales and retail assistants。**
+**Occupation code: 7111 (SOC)**
 
-Sales and retail assistants demonstrate and sell goods and services in shops, stores, and showrooms, providing customer advice, cashier services, and stock management.
+Display and sell various goods and services to customers in stores, showrooms, etc., providing consultation, checkout, stocking, and other basic retail support.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 3年 | —（公立学校免费） |
-| 零售学徒制（Level 2/3） | 12-18个月 | —（政府资助，雇主支付工资） |
+| High school diploma or equivalent | 3 years | $0~$0 (Free public schools.) |
+| Retail Apprenticeship (Level 2/3) | 12-18 months. | $0~$0 (Government-funded, employer pays wages.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 雇主通常提供在职培训 |
-| 零售技能文凭（Level 2） | City & Guilds | 可选 | 非必需，但有助于晋升 |
+| No mandatory requirements | None | Optional | Employers usually provide on-the-job training |
+| Retail Skills Diploma (Level 2) | City & Guilds | Optional | Not mandatory, but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500,000。英国零售业从业人数庞大，但受电商冲击实体店岗位增长缓慢；预计2023-2033年就业人数小幅下降，年均空缺约20万个，主要替代退休人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500,000. UK retail employs a large workforce, but e-commerce impacts brick-and-mortar job growth; employment expected to decline slightly from 2023-2033, with about 200,000 annual vacancies mainly replacing retirees.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 大部分为最低工资或略高 |
-| 中级（3-7年） | $22,000~$28,000 | 含经验与绩效奖金 |
-| 高级/主管（7年以上） | $28,000~$35,000 | 管理岗位薪资更高 |
+| Median salary | $25,056 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Mostly minimum wage or slightly higher |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including experience and performance bonuses |
+| Senior/Supervisor (7+ years) | $28,000~$35,000 | Management positions pay higher |
+| average salary | $25,977 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 晋升路径：高级销售助理→部门主管→副店长→店长→区域经理。部分可转向采购、 merchandising 或电商运营。需积累客户服务与销售管理经验。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly reduce sales and retail assistant positions, especially replaceable tasks like inventory queries, checkout, and basic inquiries, but interpersonal interaction and complex services will retain some demand.
+
+Career path: Senior Sales Assistant → Department Supervisor → Assistant Store Manager → Store Manager → Regional Manager. Some can transition to purchasing, merchandising, or e-commerce operations. Need to accumulate customer service and sales management experience.
+
+**Tasks most exposed to AI:**
+
+- Answer item location and price queries based on inventory database
+- Complete checkout operations using self-checkout systems
+- Handle common customer inquiries via chatbot
+- Automatically generate sales reports and inventory replenishment suggestions
+
+**Where AI augments the role:**
+
+- AI-assisted personalised recommendations improve cross-selling and upselling success rates
+- Use Customer Relationship Management (CRM) system to analyze purchase history and optimize service timing
+- Using AI tools for dynamic pricing and promotion strategy development
+- Provide virtual try-ons or product demonstrations via AR/VR technology
+
+**Human moat:**
+
+- Build interpersonal trust and emotional connection, handle complaints and complex needs
+- Interpreting non-verbal cues to provide a personalized shopping experience
+- Solving problems flexibly in unstructured environments
+- In-depth interpretation of product knowledge and storytelling sales.
+
+**Skills to build:**
+
+- Master CRM and sales automation tools
+- Learn basic data analysis to interpret customer behavior
+- Improve communication and emotional intelligence management skills
+- Familiar with e-commerce and omnichannel retail platforms
+- Learning AR/VR product demonstration tool operation
+
+**Key growth areas:**
 
 - Customer service
 - E-commerce impact
@@ -63,65 +95,67 @@ Sales and retail assistants demonstrate and sell goods and services in shops, st
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 理论上可申请，但薪资门槛高（£26,200+）且该职业通常不达标准，雇主担保困难。极少使用。 |
-| Subclass Graduate（Graduate Visa） | 允许毕业生在英国工作2年，但零售助理职位通常不要求学位，签证优势有限。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Theoretically eligible, but the salary threshold is high (£26,200+) and this occupation typically does not meet the standard, making employer sponsorship difficult. Rarely used. |
+| Subclass Graduate (Graduate Visa) | Allows graduates to work in the UK for 2 years, but retail assistant roles usually do not require a degree, so visa advantages are limited. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales and retail assistants？**
-- 善于沟通、有耐心、喜欢与人互动的人
-- 希望快速进入职场、无需高学历的年轻人
-- 对零售行业有热情、愿意从基层做起的人
+**Who is suited**
+- People who are good communicators, patient, and enjoy interacting with others
+- Young people who want to quickly enter the workforce without high education requirements
+- People with passion for the retail industry and willingness to start from the grassroots
 
-**谁不适合学Sales and retail assistants？**
-- 追求高薪或职业发展速度的人
-- 不擅长应对重复性工作或顾客投诉的人
+**Who is not suited**
+- Those seeking high salary or fast career progression
+- People who are not good at handling repetitive work or customer complaints
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Sales and Retail Assistants?**
+A: Entry-level annual salary approx. £18,000-22,000, mid-level £22,000-28,000, senior level £28,000-35,000. Salary affected by region, employer, and sales performance.
+
+**Q: Can a sales and retail assistant from the UK immigrate on a work visa?**
+A: Very difficult. The salary for this occupation is usually below the Skilled Worker visa minimum wage threshold (£26,200), and it is not on the shortage occupation list. Employer sponsorship is extremely rare. Graduate visas allow short-term work but cannot directly lead to permanent residency.
+
+**Q: What promotion opportunities are there for retail assistants?**
+A: Can advance to senior sales assistant, department supervisor, assistant store manager, store manager, or even regional manager. May also transition to procurement, visual merchandising, or e-commerce operations. Requires accumulation of management experience and sales skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sales and retail assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sales and retail assistants?**
-答：Entry-level salary is around £18,000-£22,000 per year, mid-level £22,000-£28,000, and supervisory roles £28,000-£35,000. Pay varies by region, employer, and sales performance.
-
-**问：Can sales and retail assistants immigrate via a work visa in the UK?**
-答：Very difficult. The salary is usually below the Skilled Worker minimum threshold (£26,200), and the occupation is not on the shortage list. Employer sponsorship is rare. Graduate visa allows temporary work but not a direct path to settlement.
-
-**问：What are the promotion opportunities for retail assistants?**
-答：Can be promoted to senior sales assistant, department supervisor, deputy store manager, store manager, or regional manager. Can also move into buying, visual merchandising, or e-commerce. Requires management experience and sales skills.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

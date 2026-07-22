@@ -1,59 +1,95 @@
-# Technical Writers（Technical Writers）职业分析 · 美国
+# Technical Writers — career analysis · United States
 
-**职业代码：27-3042 – Technical Writers。**
+**Occupation code: 27-3042 (SOC)**
 
-Write technical materials such as equipment manuals, appendices, or operating instructions. May assist in layout work.
+Write equipment manuals, operating guides, and other technical documents; may assist with layout. This is an information transmission and knowledge expression occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $20,000~$60,000（公立大学学费约2-4万美元/年，私立约4-6万美元/年） |
-| 硕士学位 | 2年 | $30,000~$80,000（技术传播或相关专业硕士） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Public university tuition approx. $20,000–$40,000/year, private approx. $40,000–$60,000/year.) |
+| Master's degree | 2 years | $30,000~$80,000 (Master's degree in technical communication or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 技术传播或相关专业学士学位 | 大学 | 必备 | 常见要求 |
-| 技术写作认证 | 技术传播协会（STC） | 可选 | 非强制但有助于就业 |
-| Adobe FrameMaker或同类工具认证 | Adobe | 可选 | 雇主偏好 |
+| Bachelor's degree in Technical Communication or related field | University | Required | Common requirements |
+| Technical writing certification | Society for Technical Communication (STC) | Optional | Not mandatory but helpful for employment |
+| Adobe FrameMaker or similar tool certification | Adobe | Optional | Employer preference |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 57,000。美国技术写作岗位预计增长7%（快于平均水平）。科技和制造业的扩张将增加对清晰技术文档的需求，特别是软件、医疗器械和工程领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 57,000. Technical writing jobs in the US are projected to grow 7% (faster than average). Expansion in tech and manufacturing will increase demand for clear technical documentation, especially in software, medical devices, and engineering.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 中位约6万美元 |
-| 中级（3-7年） | $70,000~$95,000 | 中位约8万美元 |
-| 高级（7年+） | $95,000~$130,000 | 资深或管理岗可达12万以上 |
+| Median salary | $90,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Median approx. USD 60,000 |
+| Mid-level (3–7 years) | $70,000~$95,000 | Median about USD 80,000 |
+| Senior (7+ years) | $95,000~$130,000 | Senior or management roles can reach 120,000+. |
+| average salary | $96,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技术写手可晋升为高级技术写手或技术写作经理，也可转向用户体验（UX）写作、内容策略或信息架构等分支领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
+
+Entry-level technical writers can advance to senior technical writer or technical writing manager, or branch into UX writing, content strategy, or information architecture.
+
+**Tasks most exposed to AI:**
+
+- Draft generation for standardized product manuals
+- Formatting and publishing simple technical documents
+- Basic terminology explanation and FAQ writing
+- Basic proofreading of machine-translated multilingual documents.
+- Updating maintenance operation guides repeatedly
+
+**Where AI augments the role:**
+
+- Use AI assistance to quickly gather technical information and generate document drafts
+- Use natural language processing tools to automatically check document consistency and accuracy
+- Analyzing user feedback through AI to optimize document structure and content
+- Use AI to generate interactive help systems and personalized guides
+- Manage document versions and cross-department collaboration with automation tools
+
+**Human moat:**
+
+- Deep understanding of complex technical products and user needs analysis
+- Write strategically valuable white papers and solutions
+- Cross-team communication coordination and stakeholder management
+- Advanced review and quality control of AI-generated content
+- Creative content planning and knowledge system design
+
+**Skills to build:**
+
+- Proficient in using AI-assisted writing tools (e.g., GPT API, Grammarly)
+- Proficient in structured writing and content management systems (e.g., DITA, XML)
+- Learn information architecture and user experience design fundamentals
+- Enhance domain expertise (e.g., software, medical devices)
+- Develop skills in data analysis and user feedback handling
+- Enhance project management and cross-team collaboration skills
+
+**Key growth areas:**
 
 - Technical Communication
 - UX Writing
@@ -62,68 +98,67 @@ Write technical materials such as equipment manuals, appendices, or operating in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位，雇主支持，年度配额竞争激烈 |
-| Subclass EB-2（EB-2 Advanced Degree Professionals） | 硕士以上或杰出能力，需PERM劳工认证 |
-| Subclass EB-3（EB-3 Skilled Workers） | 学士学位及2年经验，需PERM |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree, employer sponsorship, highly competitive annual quota |
+| Subclass EB-2 (EB-2 Advanced Degree Professionals) | Master's degree or above, or exceptional ability, requires PERM labour certification. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Bachelor's degree plus 2 years experience; PERM required. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Writers？**
-- 喜欢写作和将复杂技术概念简化为易懂语言的人
-- 注重细节，有良好逻辑和沟通能力的人
-- 对科技产品感兴趣并愿意学习新工具的人
-
-**谁不适合学Technical Writers？**
-- 不喜欢持续学习和阅读技术资料的人
-- 缺乏耐心处理细节和重复性修改工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy writing and simplifying complex technical concepts into easy-to-understand language.
+- Detail-oriented person with good logic and communication skills
+- People interested in tech products and willing to learn new tools
+
+**Who is not suited**
+- People who dislike continuous learning and reading technical materials
+- people lacking patience for detail and repetitive revision work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for technical writers in the United States?**
+A: Junior: approx. $50,000-$70,000; Mid: approx. $70,000-$95,000; Senior: approx. $95,000-$130,000. Salaries vary by industry, location, and experience.
+
+**Q: US visa options for technical writers?**
+A: Common H-1B work visa requires employer sponsorship; or EB-2/EB-3 employment green card requires PERM labor certification. Requires relevant bachelor's degree
+
+**Q: What are the advancement paths for technical writing?**
+A: From junior technical writer to senior writer, can advance to technical writing manager, content strategy manager, or move into UX writing, information architecture.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Technical Writers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for technical writers in the US?**
-答：Entry-level: $50k-70k; mid-level: $70k-95k; senior: $95k-130k. Varies by industry, location, and experience.
-
-**问：Which US visas are available for technical writers?**
-答：H-1B (employer-sponsored, lottery), EB-2/EB-3 green cards (requires PERM). A bachelor's degree is typically required.
-
-**问：What is the career progression for technical writers?**
-答：From junior to senior writer, then to manager, content strategist, UX writer, or information architect.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

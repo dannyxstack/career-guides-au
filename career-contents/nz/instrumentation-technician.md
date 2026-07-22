@@ -1,59 +1,93 @@
-# Instrumentation Technician（Instrumentation Technician）职业分析 · 新西兰
+# Instrumentation Technician — career analysis · New Zealand
 
-**职业代码：312311 – Instrumentation Technician。**
+**Occupation code: 312311 (ANZSCO)**
 
-Instrumentation Technicians in New Zealand install, calibrate, and maintain industrial automation and control systems across oil, dairy, water treatment, and other sectors. The occupation is on the Green List, enabling direct residence via SMC or Green List Tier 1, with strong migration prospects.
+Instrument technicians in New Zealand are primarily responsible for installing, calibrating, and maintaining industrial automation and control systems, covering oil, dairy, water treatment, and other industries. This occupation is on the Green List and can directly apply for residence through Skilled Migrant Category (SMC) or Green List pathway, with good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 中专/专科文凭 (Certificate in Instrumentation) | 2年 | $10,000~$20,000（公立理工学院如MIT、WelTec提供，费用含材料） |
-| 本科 (Bachelor of Engineering Technology) | 3年 | $30,000~$45,000（奥克兰理工、怀卡托大学等） |
+| Certificate in Instrumentation | 2 years | $10,000~$20,000 (Offered by public polytechnics like MIT, WelTec; fees include materials) |
+| Bachelor's (Bachelor of Engineering Technology) | 3 years | $30,000~$45,000 (Auckland University of Technology, University of Waikato, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家文凭电气工程（仪表） | 新西兰学历资格认证局 (NZQA) | 必备 | 教育部认可学历 |
-| 注册仪表技术员 (Certified Instrumentation Technician) | 新西兰仪器协会 (NZIA) | 可选 | 推荐但非强制，有助于就业与移民加分 |
-| IELTS 6.5分 | IDP/剑桥 | 必备 | 技术移民语言要求，单项不低于6.0 |
+| New Zealand National Diploma in Electrical Engineering (Instrumentation) | New Zealand Qualifications Authority (NZQA) | Required | Degree recognized by the Ministry of Education |
+| IELTS 6.5 | IDP/Cambridge | Required | Skilled migration language requirement: no band below 6.0 |
+| Certified Instrumentation Technician | New Zealand Instrument Society (NZIA) | Optional | Recommended but not mandatory, helpful for employment and immigration points. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。受益于新西兰制造业、乳制品加工和可再生能源投资，仪表技术员需求稳步增长。尤其在南岛和北岛中部的工业区，岗位需求旺盛。预计未来五年年均增长约2-3%。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Benefiting from investment in New Zealand's manufacturing, dairy processing, and renewable energy sectors, demand for instrumentation technicians is steadily growing. Especially in industrial areas of the South Island and central North Island, job demand is strong. Expected average annual growth of about 2-3% over the next five years.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 多为学徒或助理岗位 |
-| 中级（3-8年） | $70,000~$95,000 | 可独立工作，持有执照更优 |
-| 高级（8年以上） | $95,000~$120,000 | 涵盖主管、项目经理或高技能专家 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Mostly apprentice or assistant positions |
+| Mid-level (3–8 years) | $70,000~$95,000 | Can work independently; having a license is preferable. |
+| Senior (8+ years) | $95,000~$120,000 | Covers supervisors, project managers, or highly skilled specialists |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级仪表技术员可通过学徒制或专科教育入行，逐步晋升为高级技术员、主管或项目经理。持有注册执照后，可转向仪表工程师或自动化顾问，薪资提升显著。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly enhance the capabilities of instrumentation technicians, freeing them from tedious calibration and data recording to focus on complex troubleshooting and system optimization.
+
+Entry-level instrumentation technicians can enter via apprenticeship or associate degree, advancing to senior technician, supervisor, or project manager. With licensure, they can shift to instrumentation engineer or automation consultant, with significant salary increases.
+
+**Tasks most exposed to AI:**
+
+- Manually record instrument calibration data and generate reports
+- Using standard procedures for routine instrument calibration
+- Identifying obvious faults through visual inspection
+- Parameter adjustment for simple control loops
+
+**Where AI augments the role:**
+
+- Use AI to analyze instrument historical data to predict failures and develop maintenance plans
+- Remote monitoring and diagnosis of complex systems via digital twin technology
+- High-precision calibration using augmented reality (AR) guidance
+- Optimizing control loop parameters using machine learning for improved efficiency
+- Integrating multiple sensor data for more precise process control
+
+**Human moat:**
+
+- On-site repairs in extreme environments (e.g., high temperature, high pressure)
+- Handling unforeseen complex system interlock failures
+- Collaborate with engineers to design new instrumentation system solutions
+- Responsibility for Compliance of Safety-Critical Systems (e.g., emergency shutdowns)
+
+**Skills to build:**
+
+- Industrial Internet of Things (IIoT) and sensor data analysis
+- Python or R language for automation scripts and data processing
+- Understanding basic principles and applications of AI/machine learning
+- Operation of digital twins and remote monitoring systems.
+- Cybersecurity basics (protecting control systems)
+- Advanced PLC and DCS programming
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,69 +96,68 @@ Instrumentation Technicians in New Zealand install, calibrate, and maintain indu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 直接居留签证，符合绿色清单Tier 1要求，无需等待即可申请 |
-| Subclass SMC（Skilled Migrant Category (6-point system)） | 技术移民，凭借学历、工作经验等获得6分即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合先工作后移民，雇主需认证且薪资达标 |
-| Subclass Green List T2（Work to Residence） | 工作转居留，需持AEWV工作2年后申请 |
+| Subclass Green List T1 (Straight to Residence) | Direct residence visa, meets Green List Tier 1 requirements, can apply without waiting |
+| Subclass SMC (Skilled Migrant Category (6-point system)) | Skilled migration: apply with a score of 6 based on education and work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for working first then immigrating; employer must be accredited and salary must meet standards |
+| Subclass Green List T2 (Work to Residence) | Work to residence, requires holding an AEWV for 2 years before applying |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Instrumentation Technician？**
-- 动手能力强、喜欢机械电气维修的理工科背景者
-- 已持有相关学历或工作经验，寻求海外发展的中年技术人士
-- 能够适应户外或工业环境工作
-
-**谁不适合学Instrumentation Technician？**
-- 不习惯倒班或户外作业者
-- 英语沟通能力较弱，难以通过语言要求者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on individuals with a background in science and engineering who enjoy mechanical and electrical repairs
+- Mid-career technical professionals who already hold relevant qualifications or work experience and seek overseas development
+- Able to adapt to outdoor or industrial work environments
+
+**Who is not suited**
+- Those not accustomed to shift work or outdoor work
+- Those with weak English communication skills, unlikely to pass language requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate starting salary for an instrument technician in New Zealand?**
+A: Entry‑level salary around NZD 55,000–70,000 per year, rising to over NZD 95,000 with experience and licensing.
+
+**Q: What are the immigration pathways for instrumentation technicians in New Zealand?**
+A: Can apply for residence directly via Green List Tier 1, or through SMC skilled migration (6-point system), or first work on an AEWV visa then transition to residence.
+
+**Q: Do you need registration or a license to find a job?**
+A: Although not mandatory, holding a New Zealand national diploma or NZIA certification can significantly enhance employment competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Instrumentation Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for instrumentation technicians in New Zealand?**
-答：Entry-level roles pay around NZD 55,000–70,000 per year, rising to over NZD 95,000 with experience and certification.
-
-**问：What immigration pathways are available for instrumentation technicians in New Zealand?**
-答：You can apply for residence via Green List Tier 1 (Straight to Residence), Skilled Migrant Category (6-point system), or work on an AEWV and later transition to residence.
-
-**问：Is registration or licensing required to find a job?**
-答：Not mandatory, but having a NZQA-recognized diploma or NZIA certification significantly boosts employability.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

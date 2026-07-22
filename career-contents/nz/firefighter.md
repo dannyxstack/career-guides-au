@@ -1,60 +1,94 @@
-# Firefighter（Firefighter）职业分析 · 新西兰
+# Firefighter — career analysis · New Zealand
 
-**职业代码：441211 – Firefighter。**
+**Occupation code: 441211 (ANZSCO)**
 
-Firefighters extinguish fires, perform emergency rescues, provide medical first response, and promote fire safety, forming the backbone of community safety in New Zealand. This occupation is not on the Green List, but residency is possible via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), contingent on employment with Fire and Emergency New Zealand.
+Firefighters handle fire suppression, emergency rescue, medical response, and fire safety education; they are key to community safety in New Zealand. This occupation is not on the Green List, but residency can be sought via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), provided employment with Fire and Emergency New Zealand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 职前培训（新西兰消防培训学校） | 14周 | —（由雇主Fire and Emergency New Zealand提供带薪培训，学员需先通过选拔） |
-| 高级/警官培训 | 1年 | —（内部晋升培训，由雇主组织，带薪） |
+| Pre-employment training (New Zealand Fire Training School) | 14 weeks | $0~$0 (Paid training provided by employer Fire and Emergency New Zealand; trainees must pass selection first) |
+| Senior/police officer training | 1 year | $0~$0 (Internal promotion training, organized by employer, paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰消防员资格认证（内部培训） | Fire and Emergency New Zealand | 必备 | 完成14周初始培训后获得 |
-| 新西兰驾照（Class 2或更高） | 新西兰交通局(NZTA) | 必备 | 通常需要，用于驾驶消防车 |
-| 国家警察和消防服务资格框架（可自愿获得） | 新西兰资格认证局(NZQA) | 可选 | 通过工作经验积累可申请，非强制但有利于晋升 |
-| 急救/心肺复苏证书 | 新西兰红十字会或St John | 可选 | 受雇前通常需要 |
+| New Zealand firefighter qualification (in-house training) | Fire and Emergency New Zealand | Required | Obtained after completing 14 weeks of initial training |
+| New Zealand driver's license (Class 2 or higher) | New Zealand Transport Agency (NZTA) | Required | Usually required to drive fire trucks |
+| National Policing and Fire Services Qualification Framework (voluntary) | New Zealand Qualifications Authority (NZQA) | Optional | Can apply through accumulated work experience, not mandatory but beneficial for promotion |
+| First aid/CPR certificate | New Zealand Red Cross or St John | Optional | Typically required before employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,200。新西兰消防员就业前景稳定，每年因退休和人员流动产生约200-300个岗位空缺。气候变化导致火灾和自然灾害增多，但政府预算有限，竞争依然激烈。主要雇主为Fire and Emergency New Zealand。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,200. Employment prospects for firefighters in New Zealand are stable, with about 200-300 job openings annually due to retirement and turnover. Climate change increases fires and natural disasters, but government budgets are limited, so competition remains intense. Main employer is Fire and Emergency New Zealand.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $57,000~$75,000 | 新西兰消防员起薪约为57,000-75,000纽元，含津贴 |
-| 中级（5-10年） | $80,000~$100,000 | 资深消防员年薪约80,000-100,000纽元 |
-| 高级（10年以上/主管） | $110,000~$140,000 | 消防主管或区域指挥官年薪可达110,000-140,000纽元 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry-level (0-5 years) | $57,000~$75,000 | Starting salary for New Zealand firefighters is about NZD 57,000-75,000 including allowances |
+| Intermediate (5-10 years) | $80,000~$100,000 | Senior firefighter annual salary approx NZD 80,000-100,000 |
+| Senior (10+ years/Supervisory) | $110,000~$140,000 | Fire chief or regional commander salary can reach NZ$110,000-$140,000 |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业发展路径清晰：从消防员(Firefighter)升至高级官员(Senior Officer)或参谋职位(如培训、防火安全官)，再至区域指挥官(Area Commander)或国家层面管理层。通常需多年经验及内部晋升考试。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
+
+Clear career progression: from Firefighter to Senior Officer or staff positions (e.g., training, fire safety officer), then to Area Commander or national management level. Usually requires many years of experience and internal promotion exams.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -63,67 +97,66 @@ Firefighters extinguish fires, perform emergency rescues, provide medical first 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 如果获得Fire and Emergency New Zealand的录用通知，雇主需为认证雇主，可申请AEWV。持AEWV工作24个月后可申请SMC。 |
-| Subclass SMC（Skilled Migrant Category） | 需达到6分标准（如学历+工作经验）。消防员属于ANZSCO 2级职业，需要至少学士学位或同等学历加工作经验才能满足要求。 |
+| Subclass AEWV (Accredited Employer Work Visa) | If you receive a job offer from Fire and Emergency New Zealand, the employer must be an accredited employer, and you can apply for an AEWV. After 24 months on an AEWV, you can apply for SMC. |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point standard (e.g., qualifications + work experience). Firefighter is an ANZSCO Skill Level 2 occupation, requiring at least a bachelor's degree or equivalent plus work experience. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Firefighter？**
-- 体能优异、心理抗压能力强
-- 具有团队合作精神和应急处事能力
-- 有公民身份或永居权者更优（因移民难度较大）
-
-**谁不适合学Firefighter？**
-- 有严重身体伤病或恐高/幽闭恐惧症
-- 追求快速移民且不愿长时间等待
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Excellent physical fitness and strong psychological resilience
+- Possess teamwork spirit and emergency response skills
+- Preference for those with citizenship or permanent residency (due to immigration difficulty).
+
+**Who is not suited**
+- Those with severe physical injuries or fear of heights/closed spaces
+- Those seeking fast immigration and unwilling to wait long.
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a firefighter in New Zealand?**
+A: Annual salary for junior firefighters: NZD 57,000-75,000; mid-level: NZD 80,000-100,000; senior supervisors: up to NZD 110,000-140,000. Salary includes allowances and overtime pay.
+
+**Q: Can firefighters immigrate to New Zealand through skilled migration?**
+A: Firefighters are not on the Green List and cannot directly immigrate quickly. However, they can work for Fire and Emergency New Zealand on an Accredited Employer Work Visa (AEWV), then apply for Skilled Migrant Category (SMC) residency, meeting the 6-point standard; qualifications and work experience typically require at least a bachelor's degree.
+
+**Q: What training is required to become a firefighter in New Zealand?**
+A: Must first pass selection and be employed, then attend 14-week paid initial training provided by Fire and Emergency New Zealand, covering firefighting, rescue, first aid, etc. Ongoing on-the-job training continues thereafter.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Firefighter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary of a firefighter in New Zealand?**
-答：Entry-level firefighters earn NZ$57,000-75,000; mid-level NZ$80,000-100,000; senior/management NZ$110,000-140,000. Includes allowances and overtime.
-
-**问：Can a firefighter immigrate to New Zealand through skilled migration?**
-答：Firefighter is not on the Green List, so no fast-track. However, you can work via an Accredited Employer Work Visa (AEWV) with Fire and Emergency New Zealand, then apply under Skilled Migrant Category (SMC) needing 6 points, typically requiring a bachelor's degree and work experience.
-
-**问：What training is required to become a firefighter in New Zealand?**
-答：You must first pass recruitment and then complete a 14-week paid initial training at the Fire and Emergency New Zealand training school, covering firefighting, rescue, first aid, etc. Ongoing on-the-job training follows.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,99 @@
-# Underwater Intervention Technician（Underwater Intervention Technician）职业分析 · FR
+# Underwater Intervention Technician — career analysis · France
 
-**职业代码：I1502 – Underwater Intervention Technician。**
+**Occupation code: I1502 (ROME)**
 
-Underwater intervention technicians perform installation, inspection, repair and construction in diving environments, involving underwater welding, cutting, non-destructive testing and other specialized skills.
+Underwater operations technicians are responsible for installation, inspection, maintenance, and construction in the diving environment, involving professional skills such as underwater welding, cutting, and non-destructive testing.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或 BEP 潜水员 | 2年（CAP/BEP） | —（可学徒制（apprentissage），学费由企业承担，并获得薪资） |
-| 专业潜水员证书 (BTS Métiers de la Plongée) | 2年（BTS） | $3,000~$10,000（部分学校提供继续教育，费用自理或由雇主赞助） |
-| 水下焊接/切割专项培训 | 6个月 | $5,000~$15,000（专业培训机构，例如INPP（法国国立潜水学院）） |
+| CAP or BEP diver | 2 years (CAP/BEP) | $0~$5,000 (Apprenticeships are available, with tuition covered by the company and salary provided) |
+| Professional Diver Certificate (BTS Métiers de la Plongée) | 2 Years (BTS) | $3,000~$10,000 (Some schools offer continuing education, either at their own cost or sponsored by employers) |
+| Specialized training in underwater welding/cutting | 6 months. | $5,000~$15,000 (Professional training institutions, such as INPP (French National Diving Institute)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法国潜水员证书 (CAH) | 法国海洋部/海军 | 必备 | 必要证书，证明水下作业能力，分不同等级 |
-| 水下焊接认证 (EN 287 / ISO 15614) | 国际焊接学会 (IIW) | 必备 | 从事水下焊接必须具备，需定期更新 |
-| 商业潜水员资格 (IMCA) | 国际海洋承包商协会 | 可选 | 国际认可，雇主普遍要求 |
-| RSEI 认证 (水下爆炸环境安全) | 法国国家潜水学校 | 可选 | 如从事水下爆破等高危作业需要 |
+| French Diver Certificate (CAH) | French Ministry of the Sea/Navy | Required | Required certificates to prove underwater operation capabilities, divided into different levels |
+| Underwater Welding Certification (EN 287 / ISO 15614) | International Institute of Welding (IIW) | Required | Underwater welding is essential and needs to be updated regularly |
+| Commercial Diver Qualification (IMCA) | International Association of Marine Contractors | Optional | Internationally recognized, commonly demanded by employers |
+| RSEI Certification (Underwater Explosion Environment Safety) | French National Diving School | Optional | For high-risk operations such as underwater blasting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。法国拥有漫长海岸线和众多水利设施，水下作业需求稳定。近海风能、海洋能源项目增长带来新机会，但岗位数量有限，竞争中等。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,000. France boasts a long coastline and numerous water conservancy facilities, ensuring stable demand for underwater operations. Growth in offshore wind and marine energy projects brings new opportunities, but the number of positions is limited and competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：很高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，不包括海上津贴和危险作业补贴 |
-| 中级（3-8年） | $45,000~$60,000 | 税前年薪，含津贴后可达更高 |
-| 高级（8年以上） | $65,000~$90,000 | 税前年薪，项目主管级别更高 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary does not include marine allowances or hazardous work subsidies |
+| Mid-level (3–8 years) | $45,000~$60,000 | Pre-tax annual salary, including allowances, can be even higher |
+| Senior (8+ years) | $65,000~$90,000 | Pre-tax annual salary, with a higher project supervisor level |
+| average salary | $28,370 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展可从潜水员晋升为水下监督、项目主管或潜水技术专家，也可转向海洋工程公司管理岗位，还可成立独立潜水服务公司。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Underwater operations technicians face mixed impacts: AI-driven autonomous underwater vehicles (AUVs) can take over routine inspection and mapping tasks, but complex maintenance, emergency response, and operations in extreme environments still rely on human judgment; At the same time, AI enhances real-time monitoring and predictive maintenance capabilities, improving efficiency.
+
+Career development can be as a diver to become an underwater supervisor, project supervisor, or dive technical specialist, or transition to management roles in marine engineering companies, or even establish an independent diving service company.
+
+**Tasks most exposed to AI:**
+
+- Routine underwater inspections and video recording tasks are autonomously carried out by the AUV
+- Underwater mapping and sonar data processing, AI can analyze and generate 3D models in real time
+- Basic non-destructive testing (such as thickness measurement) data collection, automatically recorded by AI, and triggered by alarms
+- Report writing and archiving are automatically generated by generative AI
+- Simple pre-programmed underwater cutting and welding operations are performed by robotic arms
+
+**Where AI augments the role:**
+
+- AI-assisted real-time monitoring of divers' physiological status and oxygen consumption provides early warning of dangers
+- Augmented reality (AR) headsets are equipped with maintenance guides and 3D models to improve repair accuracy
+- Predictive maintenance: AI analyzes equipment vibration and temperature data to plan repair windows in advance
+- Remote expert support: 5G+AI transmits underwater footage, with experts providing remote annotation and guidance
+- Task Planning Optimization: AI combines ocean currents, visibility, and other data to recommend the best work plan
+
+**Human moat:**
+
+- Hand-eye coordination for precision cutting, welding, and installation in complex underwater environments
+- Emergency handling of sudden situations (such as equipment failures or diver injuries) for decision-making and operations
+- Approval and compliance assessment of non-disruptive operations for sensitive marine ecology
+- High-risk, real-time communication and collaboration with offshore platforms, vessels, and other teams
+- Tacit knowledge for on-site judgment of defects such as material fatigue cracks
+
+**Skills to build:**
+
+- AQ-ROV (Autonomous Underwater Vehicle) operation and mission programming
+- AI Data Annotation and Machine Learning Fundamentals (for Training Detection Models)
+- Underwater communication and remote collaboration tools (such as 5G and AR headsets) are used
+- Advanced non-destructive testing (PAUT, ToFD) and AI-assisted interpretation
+- Underwater 3D printing and additive manufacturing technology
+- Data Security and Network Security (Preventing Remote Control Attacks)
+
+**Key growth areas:**
 
 - Offshore wind energy
 - Marine renewable energy
@@ -66,69 +102,68 @@ Underwater intervention technicians perform installation, inspection, repair and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 受雇于法国企业，公司提供工作合同，申请工作许可，需证明岗位招聘不到本地人 |
-| Subclass Passeport Talent（Passeport Talent – Salarié qualifié） | 针对高技能人才，需持有至少学士学位或等同学历，薪资达到一定水平，审批较快 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于高等教育背景且薪资达1.5倍平均工资，可在法国工作并自由流动至其他欧盟国家 |
+| Subclass Salarié (Salarié (Work Permit)) | Employed by a French company, the company provides a work contract and applies for a work permit; must prove that no local candidate can fill the position. |
+| Subclass Passeport Talent (Passeport Talent – Salarié qualifié) | For highly skilled talents, they must hold at least a bachelor's degree or equivalent, have a certain salary level, and receive faster approvals |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, applicable for those with higher education and salary at 1.5 times average wage, allows work in France and free movement to other EU countries. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Underwater Intervention Technician？**
-- 身体强壮、热爱潜水和水下作业的人
-- 具备机械/焊接/工程背景的持证者
-- 愿意接受严格安全培训并适应高压环境的人
-
-**谁不适合学Underwater Intervention Technician？**
-- 有幽闭恐惧症或潜水不适应者
-- 对安全规范不严谨、缺乏耐心者
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong, passionate about diving and underwater operations
+- Certified candidates with a background in mechanical, welding, or engineering engineering
+- Willing to undergo rigorous safety training and adapt to high-pressure environments
+
+**Who is not suited**
+- Those with claustrophobia or diving maladaptation
+- Those who are not strict about safety standards or lack patience
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for underwater operation technicians?**
+A: Entry-level annual salary is about 30,000~40,000 euros, intermediate salary 45,000~60,000 euros, and seniors up to 65,000~90,000 euros (before tax), excluding marine allowances and hazard allowances.
+
+**Q: How can EU citizens enter the French underwater operations industry?**
+A: EU citizens enjoy the right to free movement and can directly seek employment in France. You need to obtain a diver certificate recognized in France (such as CAH) and related work certifications. It is recommended to contact the French company in advance to arrange an interview.
+
+**Q: What necessary certificates are required for underwater operations?**
+A: You must hold the French Diver's Certificate (CAH) and the Underwater Welding Certification (EN 287/ISO 15614). Although the Commercial Diver Qualification (IMCA) is not mandatory, it is generally required by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 很高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 适中（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 一般（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Underwater Intervention Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of an underwater intervention technician?**
-答：Entry-level annual salary is about €30,000-40,000, mid-level €45,000-60,000, senior up to €65,000-90,000 (gross), excluding offshore and hazard allowances.
-
-**问：How can EU citizens enter the underwater intervention sector in France?**
-答：EU citizens have free movement rights and can directly seek employment in France. They need to obtain French-recognized diving certificates (e.g., CAH) and relevant work certifications. It is advisable to contact French companies for interviews in advance.
-
-**问：What are the required certifications for underwater intervention?**
-答：Mandatory: French diver certificate (CAH) and underwater welding certification (EN 287/ISO 15614). IMCA commercial diver qualification is not mandatory but widely required by employers.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

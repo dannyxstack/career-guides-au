@@ -1,64 +1,93 @@
-# 土地房产估价师（Property Valuer）职业分析 · 澳大利亚
+# Property Valuer — career analysis · Australia
 
-**职业代码：224511 – Property Valuer。**
+**Occupation code: 224511 (ANZSCO)**
 
-土地房产估价师是澳洲商业行业的重要职业，需求稳定，具备相关资质即可入行。澳洲商业行业持续扩张，为专业人员提供良好的职业发展机会。
+Land and property valuers play an important role in Australia's commercial sector, with steady demand and clear entry pathways for qualified professionals. The continued expansion of Australia's commercial sector provides strong career development opportunities for specialists in this field.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Relevant qualification for Property Valuer | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Relevant qualification for Property Valuer | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 8,000。2025-2030年澳洲商业行业持续扩张，土地房产估价师需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. From 2025 to 2030, Australia's commercial sector will continue to expand, with stable growth in demand for land and property valuers; employment prospects are strong for those with relevant certification and experience.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| Median salary | $142,688 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，土地房产估价师须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Land and property valuers' tasks heavily rely on site inspections and comprehensive data judgement; automation can handle data collection and simple model analysis, but core valuation, market insight, and legal compliance still require human professional judgement. Entry-level positions are slightly compressed due to basic automation, but AI-enhanced senior roles become more efficient.
+
+Ongoing advances in digital technology and rising professional certification requirements mean that land and property valuers must continually update their skills to keep pace with industry change.
+
+**Tasks most exposed to AI:**
+
+- Automatically scrape comparable sales case data from public databases
+- Generating preliminary valuation report drafts (template-based)
+- Automatically adjust model parameters based on historical data for basic valuation
+- Regularly monitoring market trends and automatically generating market briefs
+
+**Where AI augments the role:**
+
+- AI providing real-time market data and trend predictions to aid accurate valuation
+- Automated documentation and compliance checks to reduce manual errors
+- Enhancing report visualization capabilities for client communication
+- Support rapid scenario simulation (e.g., impact of interest rate changes on housing prices)
+- Integrate geographic information (GIS) with AI analysis to improve location assessment accuracy
+
+**Human moat:**
+
+- Deep insights into non-quantitative factors of the local property market (e.g., community reputation, future plans)
+- Customer negotiation and trust-building skills
+- Interpretation and judgment of complex property boundaries and legal clauses
+- Responsibility attribution and professional ethics decisions in valuation reports
+- On-site visual inspection for building defects and subtle area changes
+
+**Skills to build:**
+
+- Data analysis and interpretation (Python/R, SQL)
+- Valuation automation software (e.g., ValEx, API integration)
+- GIS and spatial analysis tools (e.g., ArcGIS)
+- AI model interpretability (explainable AI report generation)
+- Advanced communication and client consultation skills
+- Continuously updated regulatory and compliance knowledge
+
+**Key growth areas:**
 
 - Australia Wide Growth
 - Regional Demand
@@ -67,66 +96,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学土地房产估价师？**
-- 对商业行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
-
-**谁不适合学土地房产估价师？**
-- 不了解澳洲商业行业规范者
-- 不愿持续学习更新技能者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a passion for the commercial sector
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
+
+**Who is not suited**
+- Unfamiliar with Australian business industry standards
+- Those unwilling to continuously learn and update their skills
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for land and property valuers in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy to find work as a land and property valuer in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 224511 土地房产估价师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-土地房产估价师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：土地房产估价师在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
-
-**问：澳洲土地房产估价师好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

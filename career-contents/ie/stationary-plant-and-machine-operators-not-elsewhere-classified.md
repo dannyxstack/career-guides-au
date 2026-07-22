@@ -1,60 +1,93 @@
-# Stationary Plant and Machine Operators Not Elsewhere Classified（Stationary Plant and Machine Operators Not Elsewhere Classified）职业分析 · IE
+# Stationary Plant and Machine Operators Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：8189 – Stationary Plant and Machine Operators Not Elsewhere Classified。**
+**Occupation code: 8189 (ISCO08)**
 
-Operate and maintain stationary industrial machinery such as packaging machines, mixers, and water treatment equipment in manufacturing, energy, and waste management sectors.
+Operate and maintain fixed industrial equipment (such as packaging machines, mixers, water treatment equipment) across industries including manufacturing, energy, and waste treatment.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 无固定年限 | —（通常高中毕业即可，在职培训为主） |
-| 高等职业教育（PLC证书） | 1-2年 | $1,000~$4,000（部分院校提供相关课程，如操作技术证书） |
+| Secondary Education | No fixed duration | $0~$0 (Typically requires high school graduation, with on-the-job training as the main focus) |
+| Higher vocational education (PLC certificate) | 1-2 years | $1,000~$4,000 (Some institutions offer related courses, such as Certificate in Operational Technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全操作证书（如Safe Pass） | 爱尔兰健康与安全管理局（HSA） | 必备 | 多数雇主要求持有 |
-| 叉车操作许可证 | FETAC/QQI | 可选 | 如岗位涉及物料搬运 |
+| Safety operation certificate (e.g., Safe Pass) | Ireland's Health and Safety Authority (HSA) | Required | Most employers require holding |
+| Forklift operation license | FETAC/QQI | Optional | If the role involves material handling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 11,200。受制造业自动化和外包影响，就业增长缓慢，但废物处理和水务领域有稳定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 11,200. Affected by automation and outsourcing in manufacturing, employment growth is slow, but there is stable demand in waste treatment and water utilities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从初级操作员起步，通过在职培训晋升为高级操作员或主管，部分转向设备维护或质量控制。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI's impact on these operators is mixed: some monitoring and adjustment tasks can be automated, but complex fault handling, flexible operations, and multi-device coordination remain human strengths.
+
+Typically start as junior operators, advancing to senior operators or supervisors through on-the-job training, with some transitioning to equipment maintenance or quality control.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and anomaly alerts for equipment operating status using sensors and AI
+- Automated closed-loop control for simple parameter adjustments (e.g., temperature, speed)
+- Routine inspections and data recording are taken over by robots or IoT systems
+- Standardized repetitive operations such as packaging and sorting are replaced by robotic arms
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to identify equipment failures in advance, reducing downtime.
+- Optimize production processes and parameter settings through digital twin simulation
+- AI-assisted quality inspection systems improve product consistency
+- Automated scheduling system optimizes multi-device collaborative efficiency
+
+**Human moat:**
+
+- Mechanical and electrical diagnostic skills for handling non-standard equipment failures
+- Ability to make quick decisions and manual interventions under emergency situations
+- Overall coordination and management of multiple devices and processes
+- Systems thinking to understand and optimize production processes for efficiency
+
+**Skills to build:**
+
+- Proficiency in PLC programming and robot operation skills
+- Learn the basics of industrial IoT and data analysis
+- Enhance mechanical and electrical fault diagnosis skills
+- Familiar with digital twins and predictive maintenance tools
+- Develop process optimization and project management skills
+- Learn basic programming languages (Python or R) for data visualization
+
+**Key growth areas:**
 
 - Automation
 - Water treatment
@@ -63,65 +96,67 @@ Operate and maintain stationary industrial machinery such as packaging machines,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪≥30,000欧元，雇主担保。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调派，适合有经验的操作员。 |
+| Subclass General Employment P (General Employment Permit) | For non-shortage occupations, requires annual salary ≥€30,000 and employer sponsorship. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, suitable for experienced operators. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stationary Plant and Machine Operators Not Elsewhere Classified？**
-- 动手能力强、不介意重复性体力工作的人
-- 寻求稳定但非白领工作的人
-- 愿意轮班（含夜班）的求职者
+**Who is suited**
+- People who are hands-on and don't mind repetitive physical work
+- Seeking stable but non-white-collar jobs
+- Job seekers willing to work shifts (including night shifts)
 
-**谁不适合学Stationary Plant and Machine Operators Not Elsewhere Classified？**
-- 追求高薪和职业晋升空间的人
-- 对自动化导致岗位流失感到担忧的人
+**Who is not suited**
+- People seeking high salary and career advancement
+- People concerned about job loss due to automation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in Ireland?**
+A: Starting annual salary around €25,000-€32,000, senior up to €50,000, below the national average wage.
+
+**Q: Is this occupation suitable for immigrating to Ireland?**
+A: Not suitable, the occupation is not on the shortage list, requires a general work permit, annual salary threshold 30,000 euros, competition is not fierce but salary is low.
+
+**Q: How to increase the salary for this occupation?**
+A: By obtaining additional skill certificates (such as advanced operation certification) or transitioning to maintenance/supervisory roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stationary Plant and Machine Operators Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level salary is around €25,000-€32,000, senior up to €50,000, below national average.
-
-**问：Is this occupation suitable for immigrating to Ireland?**
-答：Not ideal, as it is not on the critical skills list; requires General Employment Permit with salary threshold of €30,000.
-
-**问：How to increase salary in this occupation?**
-答：By obtaining additional certifications (e.g., advanced operation) or moving to maintenance/supervisory roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

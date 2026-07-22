@@ -1,61 +1,95 @@
-# Registered Nurses（Registered Nurses）职业分析 · 美国
+# Registered Nurses — career analysis · United States
 
-**职业代码：29-1141 – Registered Nurses。**
+**Occupation code: 29-1141 (SOC)**
 
-Assess patient health problems, develop and implement nursing care plans, maintain medical records, provide nursing care, and educate patients on health maintenance.
+Assess patient health issues and needs, develop and execute nursing plans, maintain medical records, provide patient care, and conduct health education.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 护理学副学士 | 2年 | $10,000~$30,000（社区学院费用） |
-| 护理学学士 | 4年 | $40,000~$120,000（公立大学费用） |
-| 加速学士（第二学位） | 12-18个月 | $30,000~$60,000（针对已有学士学位者） |
+| Associate Degree in Nursing | 2 years | $10,000~$30,000 (Community college costs) |
+| Bachelor of Nursing | 4 years | $40,000~$120,000 (Public university costs) |
+| Accelerated bachelor's (second degree) | 12-18 months. | $30,000~$60,000 (For those who already have a bachelor's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册护士执照（NCLEX-RN） | 各州护理委员会 | 必备 | 通过NCLEX-RN考试 |
-| 护理学学位（副学士或学士） | 认可的教育机构 | 必备 | 需从认证课程毕业 |
-| 基础生命支持（BLS）认证 | 美国心脏协会等 | 可选 | 通常雇主要求 |
-| 高级心脏生命支持（ACLS）认证 | 美国心脏协会等 | 可选 | 重症监护常见要求 |
+| Registered Nurse License (NCLEX-RN) | State nursing board | Required | Pass the NCLEX-RN exam |
+| Nursing degree (associate or bachelor's) | Recognized educational institution | Required | Must graduate from an accredited program |
+| Basic Life Support (BLS) certification | American Heart Association, etc. | Optional | Employer Requirements Usually |
+| Advanced Cardiac Life Support (ACLS) certification | American Heart Association, etc. | Optional | Common requirement in intensive care |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 3,200,000。美国注册护士就业前景乐观，预计2022-2032年增长6%，远高于所有职业平均水平。人口老龄化和慢性病增加推动需求。
+**Job demand: very high (★★★★½).** National workforce approx. 3,200,000. U.S. registered nurse employment outlook is positive, with projected growth of 6% from 2022-2032, much faster than the average for all occupations. An aging population and increase in chronic diseases drive demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 地区差异大 |
-| 中级（3-10年） | $75,000~$95,000 | 经验增加薪资 |
-| 高级（10年以上） | $95,000~$120,000 | 含管理岗位 |
+| Median salary | $97,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$75,000 | Varies greatly by region |
+| Intermediate (3-10 years) | $75,000~$95,000 | Salary increases with experience |
+| Senior (10+ years) | $95,000~$120,000 | Including management positions |
+| average salary | $101,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 注册护士可晋升为护士长、护理主任、临床护理专家或高级执业注册护士（如执业护士），需进一步教育和认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Registered nurses can advance to nurse manager, director of nursing, clinical nurse specialist, or advanced practice registered nurse (e.g., nurse practitioner), requiring further education and certification.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Aging Population
 - Chronic Disease Management
@@ -64,68 +98,67 @@ Assess patient health problems, develop and implement nursing care plans, mainta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 注册护士通常符合专业职业要求，但名额有限，多见于医疗机构的H-1B申请。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 护士可通过EB-3职业移民获得绿卡，需PERM劳工证，但部分情况可豁免。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 常规绿卡路径，需雇主证明无法找到美国工人，护士短缺有助于审批。 |
+| Subclass H-1B (H-1B Specialty Occupation) | registered nurses generally meet professional occupation requirements, but slots are limited, mostly seen in H-1B applications at healthcare facilities. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Nurses can obtain a green card through EB-3 employment-based immigration, requiring a PERM labor certification, though exemptions may apply in some cases. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Standard green card path, requiring employer to prove inability to find US workers; nurse shortage aids approval. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered Nurses？**
-- 有同理心、抗压能力强的人
-- 喜欢稳定医疗行业、注重细节的人
-- 有志于移民美国且愿意通过考试获得执照的人
-
-**谁不适合学Registered Nurses？**
-- 无法承受高强度和轮班工作的人
-- 对医疗环境中的感染风险特别敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and strong stress tolerance
+- Individuals who prefer a stable healthcare industry and are detail-oriented
+- Those aspiring to immigrate to the US and willing to obtain a license through exams
+
+**Who is not suited**
+- Those unable to handle high-intensity and shift work
+- People particularly sensitive to infection risks in medical settings
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for registered nurses in the US?**
+A: According to BLS, the median annual salary for registered nurses in 2023 was about $86,070, but salaries vary greatly by region and experience.
+
+**Q: How can foreign nurses immigrate to the US?**
+A: Common pathways include the H-1B visa and EB-3 employment-based green card, requiring passing the NCLEX-RN exam and obtaining a state license; some cases require employer sponsorship.
+
+**Q: What certifications do I need to become a registered nurse?**
+A: Must obtain a nursing degree (associate or bachelor's), pass NCLEX-RN, and get state licensure. Additionally, BLS and ACLS certifications are often preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Registered Nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for registered nurses in the US?**
-答：According to BLS, the median annual wage for registered nurses was about $86,070 in 2023, varying by location and experience.
-
-**问：How can foreign nurses immigrate to the US?**
-答：Common pathways include H-1B visa and EB-3 green card, requiring NCLEX-RN and state license, often with employer sponsorship.
-
-**问：What certifications are required to become a registered nurse?**
-答：A nursing degree (ADN or BSN), passing NCLEX-RN, and state licensure are mandatory. BLS and ACLS are often preferred by employers.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

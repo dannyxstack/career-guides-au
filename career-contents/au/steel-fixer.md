@@ -1,71 +1,97 @@
-# 钢筋工（Steel Fixer）职业分析 · 澳大利亚
+# Steel Fixer — career analysis · Australia
 
-**职业代码：821713 – Steel Fixer。**
+**Occupation code: 821713 (ANZSCO)**
 
-钢筋工（Steel Fixer）负责在混凝土结构中放置、绑扎和固定钢筋，适用于住宅、桥梁、隧道、大坝等各类工程。在澳大利亚，钢筋工属于技工短缺职业，住宅建设繁荣与基建投资双线驱动需求持续增长。
+A Steel Fixer places, ties, and secures steel reinforcement within concrete structures, applicable to residential buildings, bridges, tunnels, dams, and other projects. In Australia, steel fixing is a trade in shortage, with demand driven by both the residential construction boom and infrastructure investment.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含TAFE课程 CPC32320） | 42~48个月（约3.5~4年） | —（各州差异：NSW/QLD 补贴后几乎免费；WA约$800~$2,000；书本工具费$500~$1,000） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（TRA评估费、补考、实习期行政费） |
-| WHS建筑业入职白卡（Construction Induction） | 1天 | $50~$150（全国强制，在工地开工前必须持有） |
+| Apprenticeship (including TAFE course CPC32320) | 42–48 months (approximately 3.5–4 years) | $0~$2,000 (State variations: NSW/QLD almost free after subsidies; WA approximately $800–$2,000; textbooks and tools $500–$1,000) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (TRA assessment fee, re-assessment fees, and administrative fees during the internship period) |
+| WHS Construction Induction (White Card) | 1 day | $50~$150 (Nationally mandatory; must be held before commencing work on any construction site) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Concreting (CPC30820) 或 Certificate III in Formwork/Falsework | TAFE / RTO | 必备 | 全国统一课程，钢筋绑扎与混凝土施工核心资质 |
-| White Card（WHS建筑业入职卡） | SafeWork NSW / WorkSafe 各州 | 必备 | 工地开工前强制持有 |
-| Basic Rigging Licence（RB） | SafeWork / WorkSafe 各州 | 可选 | 矿业和大型工程现场常要求，提升薪资竞争力 |
-| TRA Skills Assessment | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，澳洲学徒豁免 |
+| Certificate III in Concreting (CPC30820) or Certificate III in Formwork/Falsework | TAFE / RTO | Required | Nationally standardised curriculum, core qualification in rebar tying and concrete construction |
+| White Card (WHS construction industry entry card) | SafeWork NSW / WorkSafe (varies by state) | Required | Mandatory to hold before site work commences |
+| Basic Rigging Licence（RB） | SafeWork / WorkSafe (varies by state) | Optional | Commonly required in mining and major engineering sites; improves salary competitiveness |
+| TRA Skills Assessment | Trades Recognition Australia (TRA) | Optional | Mandatory for overseas-trained applicants; exempt for Australian apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 22,000。Jobs and Skills Australia 将建筑技工类列为持续短缺职业，技工类（Skill Level 3/4）岗位填补率仅54.3%（2025）。联邦政府「住宅未来基金」计划至2029年新建120万套住宅，将进一步拉动钢筋工需求。
+**Job demand: very high (★★★★★).** National workforce approx. 22,000. Jobs and Skills Australia lists construction trades as persistently in shortage, with a fill rate of only 54.3% for trades (Skill Level 3/4) in 2025. The federal government's 'Housing Future Fund' plans to build 1.2 million new homes by 2029, further boosting demand for steel fixers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~700 个 | 全国，含矿业FIFO和住宅工程岗 |
-| Indeed | 200~450 个 | 含承包商和劳务外包岗位 |
-| LinkedIn | 80~200 个 | 偏大型工程及矿业直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $28,000~$55,000 | Fair Work Award，按年级递增 |
-| 初级钢筋工（持证后 1~3年） | $70,000~$88,000 | Seek AU 2026，住宅与商业工程 |
-| 中级钢筋工（3~8年） | $88,000~$110,000 | Indeed 全国均值约 $45.47/hr；含EBA加班津贴 |
-| 资深钢筋工 / 带班（8年+） | $110,000~$135,000 | Vic EBA 2026 Grade 2 = $58.46/hr×2080h≈$121k；含津贴更高 |
-| 矿业 FIFO 钢筋工（WA/QLD） | $130,000~$180,000 | 含FIFO津贴、轮班费，WA矿区顶端可达$180k+ |
+| Median salary | $151,320 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $28,000~$55,000 | Fair Work Award, with incremental increases by grade |
+| Junior Reinforcing Worker (1–3 years post-registration) | $70,000~$88,000 | Seek AU 2026, residential and commercial engineering |
+| Mid-level steel fixer (3–8 years) | $88,000~$110,000 | Indeed national average approximately $45.47/hr; inclusive of EBA overtime allowances |
+| Senior Rigger / Leading Hand (8+ years) | $110,000~$135,000 | Vic EBA 2026 Grade 2 = $58.46/hr × 2,080h ≈ $121k; higher with allowances included |
+| Mining FIFO steel fixer (WA/QLD) | $130,000~$180,000 | Includes FIFO allowances and shift penalties; top WA mining roles can reach $180k+ |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 大型基建（地铁、隧道、桥梁）和风电场建设带动需求稳定增长。机械辅助（钢筋弯折机、绑扎机器人）在大型项目应用增加，但现场人工作业仍不可替代。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
+
+Large infrastructure projects (metro, tunnels, bridges) and wind farm construction are driving steady demand growth. Machine-assisted tools (rebar benders, tying robots) are increasingly used on major projects, but on-site manual work remains irreplaceable.
+
+**Tasks most exposed to AI:**
+
+- AI-assisted automatic rebar cutting and bending
+- BIM-based automatic layout and setting out
+- Automatic rechecking of rebar positions before concrete pouring
+- Standardized Binding Robotics Operations
+
+**Where AI augments the role:**
+
+- BIM models available 24/7 to aid understanding of complex nodes
+- AR glasses overlay rebar placement drawings, reducing drawing reading errors
+- Auto stirrup bender parameters optimized by AI reduce material waste
+- On-site quality inspection using AI vision for rapid anomaly feedback
+
+**Human moat:**
+
+- Flexible tying and adjustment in complex/irregular structures
+- Adaptability to severe weather and field conditions
+- Team collaboration and problem-solving in unexpected situations.
+- Safety compliance enforcement and risk assessment
+
+**Skills to build:**
+
+- Proficiency in BIM model viewing software (e.g., Tekla, Revit)
+- Learn automated rebar processing equipment operation
+- Basic data analysis and mobile quality inspection tool usage
+- Simple AR/VR device operation and maintenance
+- Continuous learning of new standards and digital processes
+
+**Key growth areas:**
 
 - Residential & High-Rise Construction
 - Civil Infrastructure (Roads, Bridges, Tunnels)
@@ -74,92 +100,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，中期技能流最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永久居留，TRT流需持482满2年 |
-| Subclass 190（Skilled Nominated） | 州政府提名，加5分，永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，临居转PR，适合189分数不够者 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, mid-term skilled stream, up to 4 years, eligible to transition to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; TRT stream requires 2 years on a 482 visa |
+| Subclass 190 (Skilled Nominated) | State government nomination, 5 bonus points, permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residence to PR pathway; suitable for applicants whose 189 points are insufficient |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学钢筋工？**
-- 有建筑、土木施工背景，希望通过技能移民来澳
-- 接受重体力户外劳动，不抵触高温、噪音、泥泞工地环境
-- 目标是矿业FIFO高薪或长期定居澳洲
-- 年龄25~40岁，有充裕时间完成TRA评估
-
-**谁不适合学钢筋工？**
-- 不愿意从事重体力劳动，或有腰背部慢性伤病
-- 期望坐办公室、从事技术/管理类工作
-- 英语基础极弱且无意改善（工地沟通和安全培训均需英语）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in architecture or civil construction, seeking skilled migration to Australia
+- Open to heavy physical outdoor work and comfortable in high-temperature, noisy, and muddy site environments
+- Targeting high-paying mining FIFO roles or long-term settlement in Australia
+- Aged 25–40, with sufficient time to complete the TRA assessment
+
+**Who is not suited**
+- Unwilling to perform heavy physical labour, or has a chronic back or spinal injury
+- Expecting an office-based, technical or managerial role
+- Very limited English with no intention to improve (site communication and safety training both require English)
+
+---
+
+## 8. FAQ
+
+**Q: What are the wages for steel fixers in Australia?**
+A: Mid-level steel fixers earn approximately $88,000–$110,000 per year (AUD), with a national average of around $45/hr (Indeed 2026). Mining FIFO roles can reach $130,000–$180,000+. During apprenticeship, earnings are approximately $28,000–$55,000.
+
+**Q: Is it easy for steel fixers to find work in Australia?**
+A: Easy. The construction industry faces ongoing shortages, with Seek consistently listing 400–700 positions. Licensed steel fixers can typically start within 1–2 weeks; mining FIFO roles are slightly more competitive but offer double the salary.
+
+**Q: Are overseas rebar worker qualifications recognised in Australia?**
+A: Not directly recognised. Assessment must be completed through the TRA Job Ready Program, which takes approximately 12–18 months and costs around $2,000–$5,000. After completing the assessment, a White Card from the relevant state is also required before working on site.
+
+**Q: Will steel fixers be replaced by AI or robots?**
+A: Unlikely in the near term. Rebar-tying robots (e.g. TyBot) are only trialled on specific large-scale projects; complex structures and confined spaces still require human labour. The risk of AI replacement is very low.
+
+**Q: Are there age restrictions for reinforcing iron workers in Australia?**
+A: No legal upper age limit. Apprenticeship entry is preferred under 35; those over 40 can use TRA mutual recognition to bypass the apprenticeship. Skilled migration points are not awarded above age 45.
+
+**Q: Is a university degree required?**
+A: Not required. A Certificate III is sufficient to practise — equivalent to secondary school plus vocational training. Physical fitness and construction experience are what matter most.
+
+**Q: Is it hard to learn reinforcing?**
+A: Moderate difficulty. The technical core lies in reading structural drawings, accurately calculating rebar specifications and tying sequences, and maintaining safety awareness. The role is physically demanding, and gaining proficiency typically requires six months to a year of on-site practical experience.
+
+**Q: Which is better for migrating to Australia – steel fixer or scaffolder?**
+A: Both are on the CSOL; PR pathways are similar. Demand for steel fixers is slightly higher, with easier access to residential and mining markets; riggers earn comparable wages but overall job volume is lower. See the 'Steel Fixer vs Rigger' career comparison section (coming soon).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 821713 Steel Fixer 职业短缺数据 |
-| CFMEU Victoria EBA 2026 | 建筑行业工资协议 Grade 2 = $58.46/hr |
-| Seek AU | 钢筋工职位挂牌量及薪资数据（2026） |
-| Indeed AU | Steel Fixer 平均时薪 $45.47（2025-2026） |
-| Department of Home Affairs | CSOL / MLTSSL 职业清单 |
-| TRA | 海外技工互认 Job Ready Program |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-钢筋工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲钢筋工工资多少？**
-答：中级钢筋工年薪（AUD）约 $88,000~$110,000，全国均值约 $45/hr（Indeed 2026）。矿业FIFO可达 $130,000~$180,000+。学徒期间约 $28,000~$55,000。
-
-**问：澳洲钢筋工容易找工作吗？**
-答：容易。建筑行业持续短缺，Seek常年挂牌400~700个职位。持证钢筋工通常1~2周内可入职，矿业FIFO岗竞争略高但薪资翻倍。
-
-**问：国内钢筋工资质澳洲认可吗？**
-答：不直接认可。需通过TRA Job Ready Program评估，周期约12~18个月，费用约$2,000~$5,000。完成评估后还需取得各州White Card方可上工地。
-
-**问：钢筋工会被AI或机器人替代吗？**
-答：短期内几乎不会。钢筋绑扎机器人（如TyBot）仅在特定大型工程试用，复杂结构和空间受限区域仍需人工。AI替代风险极低。
-
-**问：澳洲钢筋工有年龄限制吗？**
-答：法律无上限。学徒入学偏好35岁以下；40岁以上可走TRA互认跳过学徒期。技术移民打分45岁以上无加分。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III（职业技术证书）即可执业，相当于高中+职校水平。重要的是体力素质和施工经验。
-
-**问：钢筋工难学吗？**
-答：难度中等。技术核心在于看懂结构图纸、精准计算钢筋规格和绑扎顺序，以及安全意识。体力要求高，上手需半年到一年现场实操经验。
-
-**问：钢筋工和脚手架工（Scaffolder）哪个更适合移民澳洲？**
-答：两者均在CSOL列表，PR路径相近。钢筋工需求量略大，更易进入住宅和矿业市场；脚手架工薪资相当但岗位总量较少。详见「钢筋工 vs 脚手架工」职业比较板块（即将上线）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

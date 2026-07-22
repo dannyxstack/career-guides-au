@@ -1,60 +1,93 @@
-# Visual merchandisers and related occupations（Visual merchandisers and related occupations）职业分析 · UK
+# Visual merchandisers and related occupations — career analysis · United Kingdom
 
-**职业代码：7125 – Visual merchandisers and related occupations。**
+**Occupation code: 7125 (SOC)**
 
-Visual merchandisers develop and communicate visual concepts and strategies to promote brands, products and services in-store, in catalogues or online, and create merchandise displays.
+Visual merchandisers are responsible for developing and implementing visual concepts and strategies for retail stores, catalogs, or online platforms to promote brand, product, and service displays.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 无需或短期培训 | —（通常要求GCSE英语和数学） |
-| 本科学位 | 3-4年 | $9,000~$12,000（学费（国际学生更高）） |
+| High school diploma | No or short-term training required | $0~$0 (Usually requires GCSE English and mathematics) |
+| Bachelor's degree | 3-4 years | $9,000~$12,000 (Tuition fees (higher for international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | — | 可选 | 雇主更看重经验和作品集 |
-| 零售视觉陈列认证 | British Display Society | 可选 | 可选，提升竞争力 |
+| No mandatory certificate | — | Optional | Employers value experience and portfolio more |
+| Retail visual merchandising certification | British Display Society | Optional | Optional, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 28,000。英国零售业竞争激烈，视觉陈列师需求稳定，尤其在线零售商注重实体店体验，预计就业增速与行业平均水平持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 28,000. The UK retail industry is highly competitive, with stable demand for visual merchandisers, especially as online retailers focus on in-store experiences; employment growth is expected to be in line with the industry average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 助理或初级陈列师 |
-| 中级（3-7年） | $25,000~$35,000 | 资深陈列师或区域经理 |
-| 高级（7年以上） | $35,000~$50,000 | 视觉陈列经理或总监 |
+| Median salary | $25,845 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Assistant or junior visual merchandiser |
+| Mid-level (3–7 years) | $25,000~$35,000 | Senior visual merchandiser or regional manager |
+| Senior (7+ years) | $35,000~$50,000 | Visual Merchandising Manager or Director |
+| average salary | $26,178 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级陈列助理可晋升为区域视觉经理，继而成为品牌视觉总监，或转向零售管理、市场营销等跨领域职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Visual merchandisers face automation risks from AI, but also gain creative enhancement opportunities. Entry-level positions may become more competitive due to AI tools, but senior roles still have a moat.
+
+Junior display assistants can advance to regional visual managers, then to brand visual directors, or transition to cross-functional roles such as retail management or marketing.
+
+**Tasks most exposed to AI:**
+
+- Generate initial display plans: AI can automatically generate multiple layout sketches based on sales data and customer preferences.
+- Color Matching and Trend Analysis: AI tools can quickly analyze fashion trends and recommend color schemes
+- Inventory visualization: AI automatically creates virtual shelf maps, replacing manual photography and layout
+- Seasonal display planning: AI automatically adjusts display plans based on historical sales data
+
+**Where AI augments the role:**
+
+- Creative ideation: AI provides inspiration boards and style references to assist designers in rapidly iterating ideas
+- Personalized display design: AI analyzes customer behavior to customize differentiated displays for different stores
+- Effect simulation: AI real-time rendering of 3D display effects to reduce physical construction costs
+- Performance tracking: AI automatically links display changes with sales data, quantifying design effectiveness
+
+**Human moat:**
+
+- Brand storytelling: deep integration of visual merchandising with brand culture and emotional experience.
+- Cross-departmental coordination: communicate with procurement, marketing, and operations teams to balance commercial and aesthetic aspects
+- On-site fine-tuning: real-time adjustments based on unpredictable factors such as actual lighting and pedestrian flow.
+- Creative leadership: Propose disruptive visual concepts, lead rather than follow trends
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Midjourney, Canva AI)
+- Basic data analysis (Python or Excel, interpreting retail data)
+- 3D modeling and rendering (Blender, SketchUp)
+- User Experience (UX) design principles
+- Digital marketing fundamentals (SEO, social media visual strategy)
+- Project management (Agile/Scrum)
+
+**Key growth areas:**
 
 - Retail Innovation
 - E-commerce Integration
@@ -63,62 +96,64 @@ Visual merchandisers develop and communicate visual concepts and strategies to p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业不通常在英国技术工人签证的eligible occupations列表中，属于低技能职业，一般无法担保。 |
-| Subclass Graduate（Graduate Visa） | 若毕业于英国大学，可申请Graduate Visa工作2年（博士3年）。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is not typically on the list of eligible occupations for the UK Skilled Worker visa, as it is considered low-skilled and generally cannot be sponsored. |
+| Subclass Graduate (Graduate Visa) | If you graduate from a UK university, you can apply for a Graduate Visa to work for 2 years (3 years for PhDs). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Visual merchandisers and related occupations？**
-- 有艺术眼光和审美能力者
-- 喜欢零售和时尚行业者
-- 善于沟通和团队协作
+**Who is suited**
+- Those with artistic vision and aesthetic ability
+- Those who like retail and fashion
+- Good communication and teamwork skills
 
-**谁不适合学Visual merchandisers and related occupations？**
-- 不注重细节或缺乏创意者
-- 希望快速获得高薪者
+**Who is not suited**
+- Those who are not detail-oriented or lack creativity
+- Those seeking quick high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a visual merchandiser?**
+A: Junior approx £18,000-24,000, mid-level £25,000-35,000, senior up to £50,000.
+
+**Q: Can a visual merchandiser apply for a UK work visa?**
+A: Generally does not meet the Skilled Worker Visa sponsorship requirements, as this occupation is not on the eligible occupations list. Possible via Graduate Visa (limited to recent graduates) or other high-skilled pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Visual merchandisers and related occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for visual merchandisers?**
-答：Entry-level: £18,000-£24,000; Mid-level: £25,000-£35,000; Senior: up to £50,000.
-
-**问：Can visual merchandisers apply for a UK work visa?**
-答：Usually not eligible for Skilled Worker sponsorship. Consider Graduate Visa (for recent graduates) or other high-skill routes.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

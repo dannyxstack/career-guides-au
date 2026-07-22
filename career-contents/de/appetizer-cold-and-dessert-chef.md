@@ -1,61 +1,97 @@
-# Appetizer, Cold And Dessert Chef（Appetizer, Cold And Dessert Chef）职业分析 · DE
+# Appetizer, Cold And Dessert Chef — career analysis · Germany
 
-**职业代码：2931 – Appetizer, Cold And Dessert Chef。**
+**Occupation code: 2931 (KldB)**
 
-Specializes in preparing appetizers, cold dishes, salads, and desserts. Stable demand in German upscale restaurants and hotels. Tasks include ingredient preparation, plating, and menu innovation.
+This occupation focuses on making appetizers, cold dishes, salads, and desserts, with consistent demand in German high-end restaurants and hotels. Tasks include food preparation, plating, and menu innovation.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，公立职业学校免学费） |
-| 进修大师级厨师（Kochmeister） | 1-2年 | $3,000~$8,000（可申请联邦教育培训补助（Aufstiegs-BAföG）） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowances provided during training; public vocational schools are tuition-free) |
+| Advanced training as a master chef (Kochmeister) | 1-2 years | $3,000~$8,000 (Can apply for federal education and training grant (Aufstiegs-BAföG)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国厨师职业培训毕业证书 | 工商业协会（IHK） | 必备 | 双元制培训后通过结业考试取得，为从业基本要求 |
-| 外国学历资质认证（Anerkennung） | IHK FOSA | 必备 | 若在第三国完成厨师培训，需申请等同性认证 |
-| 食品卫生证书（Belehrung nach §43 IfSG） | 卫生局（Gesundheitsamt） | 必备 | 首次入职前必须参加 |
+| German chef vocational training graduation certificate | Chamber of Industry and Commerce (IHK) | Required | Obtained by passing the final exam after dual-system training; a basic requirement for the profession. |
+| Recognition of foreign qualifications (Anerkennung) | IHK FOSA | Required | If you completed chef training in a third country, you need to apply for equivalence certification |
+| Food hygiene certificate (Belehrung nach §43 IfSG) | Health Authority (Gesundheitsamt) | Required | Must attend before first employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。德国餐饮业对专业厨师需求持续，尤其在旅游城市和高端酒店。人口老龄化导致资深厨师短缺，岗位空缺较多。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 15,000. The German catering industry has ongoing demand for professional chefs, especially in tourist cities and high-end hotels. An aging population leads to a shortage of senior chefs, resulting in many job vacancies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，基于德国各州餐饮行业集体工资协议 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，通常包括奖金和小费 |
-| 高级（7年以上，部门主管） | $42,000~$55,000 | 税前年薪，高端餐厅或酒店可能更高 |
+| Median salary | $35,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary based on German federal state collective wage agreements for the hospitality industry |
+| Mid-level (3–7 years) | $32,000~$40,000 | Pre-tax annual salary, usually including bonuses and tips |
+| Senior (7+ years, Department Head) | $42,000~$55,000 | Annual pre-tax salary, possibly higher in high-end restaurants or hotels |
+| average salary | $37,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒（Auszubildender）起步，成长为部门主管（Chef de Partie）或行政副主厨（Sous Chef），可继续晋升为行政主厨（Executive Chef）或酒店餐饮总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The chef profession faces mixed AI impact: repetitive prep tasks risk automation, but creative, quality control, and team management roles are amplified by AI assistance, with the entry barrier slightly raised.
+
+Start as an apprentice (Auszubildender), progress to section head (Chef de Partie) or assistant chef (Sous Chef), then advance to Executive Chef or hotel F&B director.
+
+**Tasks most exposed to AI:**
+
+- Using AI recipe generation and ingredient ratio optimization to replace manual recipe writing
+- Automated cooking equipment (e.g., smart ovens, cooking robots) replaces standardized dish preparation
+- AI scheduling system replacing manual kitchen schedule management
+- Smart inventory management system replaces manual food inventory and purchasing
+- AI dish recognition and plating inspection replace some quality checks
+
+**Where AI augments the role:**
+
+- AI-assisted menu innovation: predicting popular flavors and ingredient combinations through data analysis
+- AI-driven precision cooking control improves dish consistency and quality
+- Nutrition and allergen intelligent computing enhances customized food services
+- AI customer preference analysis optimises menu design and promotions
+- Smart kitchen monitoring system assists in food safety and hygiene inspections.
+
+**Human moat:**
+
+- Creative dish development: unique flavor creation blending culture, art, and sensibility
+- Complex food handling and manual skills (e.g., carving, advanced plating).
+- Real-time interpersonal interaction: adjust taste and service instantly based on customer feedback
+- Crisis Management Skills: handling kitchen emergencies (equipment failure, ingredient issues)
+- Team leadership and training: Motivate chef team, pass on craft and experience
+
+**Skills to build:**
+
+- AI tool application: learn to use smart cooking equipment, menu optimization software
+- Data analysis: methods for analyzing ingredient costs and customer preference trends
+- Creative cooking: advanced techniques such as molecular gastronomy and fusion cuisine
+- Nutrition and food safety certification (e.g., HACCP)
+- Digital management: use kitchen management systems and inventory automation platforms
+- Social media and brand marketing: use AI content tools to promote personal brands
+
+**Key growth areas:**
 
 - Culinary Tourism
 - Fine Dining
@@ -64,69 +100,68 @@ Specializes in preparing appetizers, cold dishes, salads, and desserts. Stable d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker Visa（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 若资质认证通过，可凭德国雇主合同申请技术移民签证 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统，允许未找到工作前入境求职，适合有资质认证者 |
-| Subclass Job Seeker Visa（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明语言能力和生活资金 |
+| Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | If qualifications are certified, can apply for a skilled migration visa with a German employer contract. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing entry to seek employment before finding a job, suitable for those with qualifications |
+| Subclass Job Seeker Visa (Job Seeker Visa) | Allows a 6-month stay in Germany for job searching; requires proof of language skills and living funds. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Appetizer, Cold And Dessert Chef？**
-- 热爱烹饪、有创造力的人
-- 能承受厨房高压力和工作时间不规律的人
-- 希望在德国餐饮业长期发展的人
-
-**谁不适合学Appetizer, Cold And Dessert Chef？**
-- 不擅长团队协作的人
-- 对卫生标准要求不严的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love cooking and are creative
+- Able to withstand the high pressure and irregular working hours of a kitchen
+- Those hoping to develop long-term careers in the German catering industry
+
+**Who is not suited**
+- People who are not good at teamwork
+- For those not strict about hygiene standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Germany?**
+A: Junior chefs earn approximately €24,000-30,000 per year, experienced chefs can earn over €40,000, with higher salaries for department heads or executive chefs.
+
+**Q: How Can Chinese Chefs Migrate to Germany?**
+A: Must first pass the IHK qualification certification to confirm that the personal chef's education is equivalent to the German standard. After certification, can apply for a skilled migration visa with an employer contract; German must be at least B1 level.
+
+**Q: What are the career prospects for this occupation?**
+A: Can be promoted to Chef de Partie, Sous Chef, or Executive Chef, or further study to become a Kochmeister or pursue food management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Appetizer, Cold And Dessert Chef为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this profession in Germany?**
-答：Entry-level chefs earn around €24,000-30,000 annually, experienced chefs can exceed €40,000, and department heads or executive chefs earn higher.
-
-**问：How can a foreign chef immigrate to Germany?**
-答：First obtain recognition (Anerkennung) from IHK to prove equivalence of training. Then secure an employer contract and apply for a skilled worker visa. German language at least B1 is required.
-
-**问：What are the career prospects?**
-答：Advancement to Chef de Partie, Sous Chef, or Executive Chef. Further training as Kochmeister (Master Chef) or in restaurant management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

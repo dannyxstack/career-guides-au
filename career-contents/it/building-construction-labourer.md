@@ -1,60 +1,96 @@
-# Building Construction Labourer（Building Construction Labourer）职业分析 · IT
+# Building Construction Labourer — career analysis · Italy
 
-**职业代码：9313 – Building Construction Labourer。**
+**Occupation code: 9313 (ISCO08)**
 
-Building construction labourers perform physical tasks on construction sites in Italy, including material handling, excavation, cleaning, and assisting skilled tradespeople.
+Construction workers perform manual labour on Italian construction sites, including carrying materials, digging, cleaning, and assisting skilled workers.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 8年（初中毕业） | —（公立学校免费） |
-| 职业培训 | 1-2年 | $500~$3,000（地区职业中心或私人机构） |
+| Compulsory education | 8 years (junior high school graduation) | $0~$0 (Free public schools.) |
+| Vocational training | 1-2 years | $500~$3,000 (Regional career center or private institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全培训证书 | 各地区卫生局 | 必备 | 强制性的基础安全课程 |
-| 职业资格认证 | 各地区职业培训中心 | 可选 | 可选的技能认证，有助于晋升 |
+| Safety training certificate | Regional health bureaus | Required | Compulsory basic safety course |
+| Professional certification | Regional vocational training centers | Optional | Optional skill certifications for career advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 120,000。意大利建筑业复苏缓慢，但公共基础设施投资和能源改造项目带来稳定需求，就业前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Italy's construction sector recovery is slow, but public infrastructure investment and energy renovation projects bring stable demand, with steady employment prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 税前年薪，按13个月发放 |
-| 中级（3-8年） | $20,000~$28,000 | 税前年薪，含加班补贴 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，通常为工头或熟练技工 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$20,000 | Annual salary before tax, paid over 13 months |
+| Mid-level (3–8 years) | $20,000~$28,000 | Annual salary before tax, including overtime allowances |
+| Senior (8+ years) | $28,000~$35,000 | Annual pre-tax salary, typically for foreman or skilled tradesperson |
+| average salary | $24,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可晋升为熟练技工（如砌砖工、木工）或工头，需积累经验并考取相关认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Physically demanding, repetitive tasks for construction workers (e.g., carrying, digging) will be greatly reduced by automated construction equipment (e.g., automatic bricklaying robots, drone inspections). Demand for entry-level positions will shrink, but technical maintenance jobs will increase.
+
+Can advance to skilled trades (e.g., bricklayer, carpenter) or foreman, requiring experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Moving construction materials (replaced by AGVs/drones).
+- Basic excavation and earthworks (replaced by unmanned excavators)
+- On-site cleaning and debris sorting (replaced by cleaning robots)
+- Simple bricklaying and plastering (replaced by automatic brick-laying machines/spraying machines)
+- Repetitive rebar tying (replaced by tying robots)
+
+**Where AI augments the role:**
+
+- Use AR glasses to read construction drawings, improving accuracy.
+- Operate semi-automated tools (e.g., electric screwdrivers, laser levels)
+- Maintenance and debugging of automated equipment (e.g., drones, robots)
+- Report progress and receive instructions via digital platforms
+- Using BIM software for collaborative work and problem-solving
+
+**Human moat:**
+
+- Judgment in unstructured environments (e.g., complex terrain, unexpected situations)
+- Fine hand-eye coordination (e.g., installing irregular components).
+- Team on-site communication and emergency coordination
+- Experience in safety supervision and accident prevention
+- Mastery of traditional crafts (e.g., stonemasonry, special plastering)
+
+**Skills to build:**
+
+- Operating automated construction equipment (e.g., drones, robots)
+- Reading digital drawings and BIM basics
+- Basic programming or equipment debugging skills
+- Enhanced safety and quality management knowledge
+- Knowledge of electrical/hydraulic system maintenance
+- English or digital tools usage
+
+**Key growth areas:**
 
 - Renovation
 - Public infrastructure
@@ -63,69 +99,68 @@ Building construction labourers perform physical tasks on construction sites in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 通过年度配额申请非技术工种工作签证，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用于建筑工人，因为薪资门槛较高。 |
-| Subclass 季节性工作签证（Seasonal Work Visa） | 短期季节性建筑工作，有效期最长9个月。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Apply for a non-technical work visa through annual quota, requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Generally not applicable to construction workers due to the high salary threshold. |
+| Subclass Seasonal Work Visa (Seasonal Work Visa) | Short-term seasonal construction work, valid for up to 9 months. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Construction Labourer？**
-- 体力好、能适应户外和重体力劳动的人
-- 愿意从基层做起、积累经验后晋升的人
-- 接受短期合同和季节性工作的人
-
-**谁不适合学Building Construction Labourer？**
-- 追求高收入和稳定职业保障的人
-- 不擅长体力劳动或恐高的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness who can adapt to outdoor and heavy physical work
+- Those willing to start from entry-level roles and gain experience before advancing
+- People who accept short-term contracts and seasonal work
+
+**Who is not suited**
+- People seeking high income and stable career security
+- People not good at physical labor or afraid of heights
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a construction worker?**
+A: Junior approx. 15,000-20,000 EUR/year, intermediate 20,000-28,000 EUR, senior foreman up to 35,000 EUR.
+
+**Q: How can non-EU citizens get a work visa as a construction worker in Italy?**
+A: Primarily via Decreto Flussi annual quota, requires employer sponsorship, limited spots, highly competitive.
+
+**Q: Are there promotion opportunities for construction workers?**
+A: Yes, through accumulating experience and obtaining skill certifications you can advance to skilled tradesperson or foreman, but promotion opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Building Construction Labourer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for building construction labourers?**
-答：Entry-level around €15,000-20,000, mid-level €20,000-28,000, senior foreman up to €35,000 per year.
-
-**问：How can non-EU citizens get a work visa for construction labour in Italy?**
-答：Mainly through the Decreto Flussi annual quota, requiring employer sponsorship, with limited spots and high competition.
-
-**问：Are there promotion opportunities for construction labourers?**
-答：Yes, through experience and certifications you can become a skilled tradesperson or foreman, but advancement is limited.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

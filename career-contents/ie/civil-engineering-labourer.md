@@ -1,61 +1,96 @@
-# Civil Engineering Labourer（Civil Engineering Labourer）职业分析 · IE
+# Civil Engineering Labourer — career analysis · Ireland
 
-**职业代码：9312 – Civil Engineering Labourer。**
+**Occupation code: 9312 (ISCO08)**
 
-Assist civil engineers and skilled tradespeople on construction sites, performing manual tasks such as excavation, material handling, and site cleaning.
+Assists civil engineers and tradespeople on construction sites, performing physical tasks such as excavation, material handling, and cleaning.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无要求 | 无 | —（通常不需要正规教育，在职培训为主） |
-| 职业教育证书 | 6个月（课程） | $500~$2,000（安全培训如Safe Pass等） |
+| No requirements | None | $0~$0 (Formal education usually not required, on-the-job training is primary) |
+| Vocational education certificate | 6 months (course) | $500~$2,000 (Safety training such as Safe Pass, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Safe Pass | SOLAS | 必备 | 基本工地安全培训，通常雇主要求 |
-| Manual Handling Certificate | Various | 可选 | 手动搬运安全证书，许多雇主需要 |
-| CSCS Card | Construction Skills Register | 可选 | 建筑技能认证卡，部分大型项目要求 |
+| Safe Pass | SOLAS | Required | Basic construction safety training, usually required by employers |
+| Manual Handling Certificate | Various | Optional | Manual handling safety certificate, required by many employers |
+| CSCS Card | Construction Skills Register | Optional | Construction Skills Certification Card, required for some large projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。爱尔兰政府计划大幅增加基础设施投资，包括住房、交通和可再生能源项目，预计未来十年对土木工程劳工的需求将持续增长。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The Irish government plans to significantly increase infrastructure investment, including housing, transport, and renewable energy projects, with demand for civil engineering labour expected to grow over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $25,000~$32,000 | 税前年薪，通常按小时计薪 |
-| 中级（2-5年） | $32,000~$42,000 | 有经验后薪资提升 |
-| 高级（5年以上） | $42,000~$52,000 | 工头或专业技能岗位 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $25,000~$32,000 | Annual salary before tax, usually paid hourly |
+| Intermediate (2-5 years) | $32,000~$42,000 | Salary increases with experience |
+| Senior (5+ years) | $42,000~$52,000 | Foreman or skilled trade position |
+| average salary | $37,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从普通劳工起步，积累经验后可晋升为高级劳工、工头或转向专业技能岗位如混凝土工、钢筋工等，少数通过培训成为技术员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Civil engineering laborers are significantly threatened by AI and automation; physical work is easily replaced by robots, but on-site unpredictability still leaves room for humans.
+
+Usually start as general labourers and can progress to senior workers, foremen, or move into skilled roles such as concreter, reinforcement worker, or a few become technicians through training.
+
+**Tasks most exposed to AI:**
+
+- Automated excavators and bulldozers replace manual digging.
+- AI scheduling system automatically assigns material and tool transport
+- GPS-guided automatic compactors replace manual leveling
+- Smart monitoring systems automatically check safety compliance, replacing manual inspections
+
+**Where AI augments the role:**
+
+- AI-assisted positioning and measurement improves excavation accuracy
+- Wearable devices monitor worker health status to enhance safety
+- AR glasses overlay construction blueprints onto real-world equipment to guide complex operations
+- Drone inspections reduce risks of manual inspections
+- AI predictive maintenance tools remind equipment servicing to extend lifespan
+
+**Human moat:**
+
+- Ability to respond quickly to on-site emergencies
+- Human judgment and coordination in complex terrains
+- Physical adaptability and sustained high-intensity labor
+- Non-verbal communication synergy in teamwork
+- Experience with older or non-standard tools
+
+**Skills to build:**
+
+- Operate semi-automated construction equipment (e.g., GPS-equipped excavators)
+- Basic digital literacy (using a tablet to read drawings)
+- Security monitoring system operation and alarm response
+- Basic understanding of simple programming logic (e.g., setting robot work paths)
+- Basic data analysis (interpreting equipment efficiency reports)
+- Communication and coordination (working with AI dispatcher)
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Housing Demand
@@ -64,69 +99,68 @@ Assist civil engineers and skilled tradespeople on construction sites, performin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，雇主需通过劳动力市场测试，薪资门槛约30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，但劳工不属于此列，通常不适用。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 土木工程劳工不在紧缺职业清单上，通常不符合条件。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in shortage, employers must pass a labor market test, salary threshold approximately €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, but laborers are excluded and typically not eligible. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Civil engineering labourers are not on the shortage occupation list and generally do not qualify. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering Labourer？**
-- 体力好、能适应户外工作
-- 愿意学习安全规范
-- 寻求建筑业入门机会
-
-**谁不适合学Civil Engineering Labourer？**
-- 不能长时间从事高强度体力劳动
-- 对安全要求不敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, able to work outdoors
+- Willingness to learn safety regulations
+- Seeking entry-level opportunities in the construction industry
+
+**Who is not suited**
+- Cannot engage in high-intensity physical labor for long periods
+- Not sensitive to safety requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for civil engineering labourers?**
+A: Entry-level approx. 25,000-32,000 euros, mid-level 32,000-42,000 euros, senior up to 52,000 euros.
+
+**Q: How can overseas workers obtain an Irish work visa?**
+A: A general work permit requiring employer sponsorship is needed, with the employer needing to prove no suitable local workers are available.
+
+**Q: What educational background is required?**
+A: Typically no formal education required, but safety training certificates such as Safe Pass are needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil Engineering Labourer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for civil engineering labourers?**
-答：Entry-level around €25,000-€32,000, mid-level €32,000-€42,000, senior up to €52,000.
-
-**问：How can overseas workers get an Irish work visa?**
-答：Require a General Employment Permit with employer sponsorship, showing no suitable local candidate.
-
-**问：What education is required?**
-答：No formal education typically needed, but safety certificates like Safe Pass are required.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

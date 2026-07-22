@@ -1,60 +1,95 @@
-# Physical scientists（Physical scientists）职业分析 · UK
+# Physical scientists — career analysis · United Kingdom
 
-**职业代码：2114 – Physical scientists。**
+**Occupation code: 2114 (SOC)**
 
-Physical scientists study relationships between matter, energy and other physical phenomena, the nature, composition and structure of the Earth and other planetary bodies and forecast weather conditions and electrical, magnetic, seismic and thermal activity.
+Physicists study the relationships between matter, energy, and other physical phenomena, including the nature, composition, and structure of Earth and other planets, as well as weather forecasting and electrical, magnetic, seismic, and thermal activity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$15,000（英格兰本科学费，国际生另计） |
-| 硕士 | 1年 | $12,000~$25,000（授课型硕士学费，国际生可达30000英镑） |
-| 博士 | 3-4年 | —（通常有奖学金或研究资助覆盖学费和生活费） |
+| Bachelor's degree | 3 years | $9,250~$15,000 (England undergraduate tuition fees, international students extra) |
+| Master's degree | 1 year | $12,000~$25,000 (Tuition for taught master's programs, international students up to £30,000) |
+| Doctorate | 3-4 years | $0~$0 (Usually covered by scholarships or research grants for tuition and living expenses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学学士学位 | 英国大学 | 必备 | 通常要求2:1以上学位 |
-| 博士学历 | 英国大学 | 可选 | 研究岗位通常要求博士 |
-| 特许科学家（CSci） | 英国科学协会 | 可选 | 专业认证，提升职业发展 |
+| Bachelor's degree in Physics | UK universities | Required | Typically requires a degree with 2:1 or above |
+| PhD degree | UK universities | Optional | Research positions typically require a Ph.D. |
+| Chartered Scientist (CSci) | British Science Association | Optional | Professional certification to enhance career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。英国物理科学领域就业前景稳定，受政府科研投资和清洁能源转型推动。学术和研究岗位竞争激烈，但工业应用（如材料科学、气象学）需求增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. Employment prospects in the UK physical sciences are stable, driven by government research investment and the clean energy transition. Competition is fierce for academic and research positions, but demand is growing in industrial applications (e.g., materials science, meteorology).
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 研究助理或毕业生职位 |
-| 中级（3-8年） | $35,000~$55,000 | 高级研究员或工业科学家 |
-| 高级（8年以上） | $55,000~$80,000 | 首席科学家或部门主管 |
+| Median salary | $55,518 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Research assistant or graduate positions |
+| Mid-level (3–8 years) | $35,000~$55,000 | Senior researcher or industrial scientist |
+| Senior (8+ years) | $55,000~$80,000 | Chief scientist or department head |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级研究助理或实验室技术员起步，晋升为高级科学家、首席研究员或项目经理。可转入学术、政府研究机构或私营企业研发部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical scientists face both automation compression risks (data collection, routine analysis) and enhanced capabilities through AI for modeling, prediction, and experimental design. Entry-level positions are narrowing due to automated screening, but demand for high-value research roles remains strong.
+
+Start as a junior research assistant or laboratory technician, advance to senior scientist, principal investigator, or project manager. May transition to academia, government research institutions, or private sector R&D departments.
+
+**Tasks most exposed to AI:**
+
+- Routine experimental data collection and recording
+- Basic statistical analysis and report generation
+- Literature search and preliminary review.
+- Parameter scanning for simple physical simulations
+- Routine calibration checks of experimental equipment
+
+**Where AI augments the role:**
+
+- AI simulation and prediction for complex physical systems
+- Automated analysis and pattern recognition of large-scale experimental data
+- AI-assisted theoretical derivation and model optimization
+- Automated experiment design and parameter optimization
+- Interdisciplinary knowledge integration and hypothesis generation
+
+**Human moat:**
+
+- Pose original scientific questions and hypotheses
+- Design novel experimental verification strategies
+- Cross-disciplinary knowledge integration and innovation
+- Scientific ethics and safety judgment
+- Collaboration, communication, and teaching with peers
+
+**Skills to build:**
+
+- Python/R with scientific computing libraries (NumPy, SciPy)
+- Machine learning frameworks (TensorFlow, PyTorch)
+- Automated experimentation platforms (e.g., LabVIEW + AI)
+- High-Performance Computing (HPC) and Cloud Computing
+- Data visualization and communication (Tableau, Matplotlib).
+- Scientific writing and project management
+
+**Key growth areas:**
 
 - renewable energy
 - data science
@@ -63,68 +98,67 @@ Physical scientists study relationships between matter, energy and other physica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适合受雇于英国认可雇主的研究或开发岗位 |
-| Subclass Global Talent（Global Talent visa） | 适合在物理科学领域有杰出成就或潜力的研究人员 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可留英工作2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for research or development roles with an approved UK employer |
+| Subclass Global Talent (Global Talent visa) | For researchers with outstanding achievements or potential in the physical sciences |
+| Subclass Graduate (Graduate visa) | UK graduates can stay and work in the UK for 2 years (3 years for PhD holders) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physical scientists？**
-- 对基础科学研究有浓厚兴趣
-- 具备出色数学和数据分析能力
-- 愿意从事学术或工业研发工作
-
-**谁不适合学Physical scientists？**
-- 不喜欢长期实验和理论工作
-- 寻求高薪快速回报
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in basic scientific research.
+- Excellent mathematical and data analysis skills
+- Willing to engage in academic or industrial R&D work
+
+**Who is not suited**
+- Dislikes long-term experiments and theoretical work
+- Seeking high pay and quick returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a physicist?**
+A: Junior salary approx. £25,000-35,000 per year, mid-level £35,000-55,000, senior up to £80,000+. Industry salaries are usually higher than academia.
+
+**Q: Conditions for physical scientists to immigrate to the UK via the Skilled Worker visa?**
+A: Must obtain a job offer from a UK recognised sponsor, and the position must be at least RQF Level 3. Salary typically needs to meet £26,200/year or industry-specific standards. Can bring dependents.
+
+**Q: Is physicist a shortage occupation in the UK?**
+A: Not on the Immigration Salary List, but specific fields like geophysics and meteorology have high demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Physical scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physical scientists?**
-答：Entry-level salaries range from £25,000 to £35,000, mid-level from £35,000 to £55,000, and senior roles can exceed £80,000. Industry salaries are generally higher than academia.
-
-**问：What are the conditions for physical scientists to migrate to the UK via Skilled Worker visa?**
-答：You need a job offer from a UK Home Office approved employer, with a role at RQF level 3 or above. Salary typically must meet £26,200/year or the going rate for the occupation. Dependents can be included.
-
-**问：Are physical scientists on the UK shortage occupation list?**
-答：They are not on the Immigration Salary List, but specific fields like geophysics and meteorology are in high demand.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

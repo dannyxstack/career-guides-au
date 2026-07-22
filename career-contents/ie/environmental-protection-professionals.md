@@ -1,59 +1,95 @@
-# Environmental Protection Professionals（Environmental Protection Professionals）职业分析 · IE
+# Environmental Protection Professionals — career analysis · Ireland
 
-**职业代码：2133 – Environmental Protection Professionals。**
+**Occupation code: 2133 (ISCO08)**
 
-Environmental protection professionals assess and manage the impact of human activities on the environment, develop pollution control strategies, conduct environmental audits and impact assessments, ensuring regulatory compliance. They work in government, consulting firms, and NGOs.
+Environmental protection professionals assess and manage the impact of human activities on the environment, develop pollution control strategies, conduct environmental audits and impact assessments, and ensure regulatory compliance. They work in government, consulting firms, and non-profit organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（爱尔兰/欧盟学生学费） |
-| 硕士 | 1-2年 | $12,000~$22,000（爱尔兰/欧盟学生学费） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Irish/EU student tuition fees) |
+| Master's degree | 1-2 years | $12,000~$22,000 (Irish/EU student tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境科学/工程学士 | 爱尔兰大学（如都柏林大学、科克大学） | 必备 | 相关学科是本行业典型要求 |
-| 特许环境师（CEnv） | 环境科学学会（IES） | 可选 | 非强制但有助于职业发展 |
-| LEED绿色关联专业人士 | 美国绿色建筑委员会 | 可选 | 特定领域加分 |
+| Bachelor of Environmental Science/Engineering | Irish universities (e.g., University College Dublin, University College Cork) | Required | Related disciplines are typical requirements for this industry |
+| Chartered Environmentalist (CEnv) | Institute of Environmental Sciences (IES) | Optional | Not mandatory but beneficial for career development |
+| LEED Green Associate | U.S. Green Building Council | Optional | Additional points for specific fields |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。爱尔兰绿色经济转型推动需求增长，预计2023-2030年就业增长约10%。政府气候变化行动计划创造更多岗位，竞争中等，毕业生仍需积累经验。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Ireland's green economy transition is driving demand growth, with employment expected to increase by about 10% from 2023-2030. The government's Climate Action Plan creates more roles. Competition is moderate; graduates still need to gain experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Annual pre-tax salary |
+| average salary | $54,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级环境顾问或技术员起步，可晋升为高级顾问、项目经理或政策专家。部分人转向可持续发展管理或咨询角色，考取特许环境师（CEnv）提升职业前景。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
+
+Start as a junior environmental consultant or technician, progress to senior consultant, project manager, or policy specialist. Some move into sustainability management or consulting roles, and obtaining Chartered Environmentalist (CEnv) status can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft routine environmental impact assessment reports
+- Template-based data organization and statistical analysis
+- Document compliance checking (e.g., regulatory clause matching)
+- Basic environmental monitoring data recording and anomaly alerts
+- Literature review and preliminary database screening
+
+**Where AI augments the role:**
+
+- High-precision environmental modeling and pollution dispersion simulation
+- Automatic interpretation of remote sensing images and change detection
+- Real-time environmental impact prediction and scenario analysis
+- AI-assisted regulatory tracking and compliance recommendations
+- Intelligent summaries and visualizations of client reports.
+
+**Human moat:**
+
+- Making judgments and interpretations in complex policies and regulations
+- On-site field sampling and equipment operation
+- Communication and coordination with communities, government, and businesses
+- Develop innovative environmental management strategies
+- Take on professional responsibility and legal endorsement
+
+**Skills to build:**
+
+- Geographic information systems and remote sensing analysis (QGIS, Google Earth Engine)
+- Python/R programming and data science (pandas, scikit-learn)
+- Environmental modeling software (e.g., AERMOD, SWMM)
+- AI tool applications (e.g., ChatGPT for report writing, Copilot for code assistance)
+- Environmental Policy Interpretation and Strategic Consulting
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Climate Change Policy
 - Circular Economy
@@ -62,68 +98,67 @@ Environmental protection professionals assess and manage the impact of human act
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业列表中的角色，年薪至少30,000欧元（学位），2年后可申请Stamp 4居留。 |
-| Subclass General Employment P（General Employment Permit） | 适用于未列在关键技能清单上的职位，需劳动力市场测试，年薪至少27,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约33,000欧元，可带家属，21个月后申请EU长期居留。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to roles on the Skilled Occupation List, annual salary at least €30,000 (degree), eligible for Stamp 4 residence after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions not listed on the key skills list, requiring labor market testing, with an annual salary of at least €27,000. |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, salary threshold around €33,000/year, can bring family, apply for EU long-term residence after 21 months. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Protection Professionals？**
-- 对环境问题有热情，关注可持续发展
-- 具备科学分析和问题解决能力
-- 善于沟通，能向非专业人士解释复杂环境问题
-
-**谁不适合学Environmental Protection Professionals？**
-- 不喜欢户外工作和现场调查
-- 不适应严格监管和合规工作
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about environmental issues, focused on sustainability
+- Possess scientific analysis and problem-solving skills
+- Strong communication skills, able to explain complex environmental issues to non-specialists
+
+**Who is not suited**
+- Dislike for outdoor work and field investigations
+- Not suited to strict regulation and compliance work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for environmental protection professionals in Ireland?**
+A: Entry-level positions: approximately €32,000-€40,000 per year; mid-level: €45,000-€60,000; senior: up to €65,000-€85,000.
+
+**Q: How can non-EU citizens immigrate to Ireland for environmental protection work?**
+A: Can apply through the Critical Skills Employment Permit, requiring a job offer in an occupation with a salary of at least €30,000 per year. After 2 years, eligible for Stamp 4 residence permit.
+
+**Q: What are the career prospects for this occupation?**
+A: With Ireland's growing emphasis on climate change and sustainable development, employment prospects are good. You can advance from technical roles to management or policy roles; holding a Chartered Environmentalist qualification is advantageous.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Environmental Protection Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for environmental protection professionals in Ireland?**
-答：Entry-level salaries range from €32,000 to €40,000 per year, mid-level from €45,000 to €60,000, and senior positions from €65,000 to €85,000.
-
-**问：How can non-EU citizens immigrate to work as environmental protection professionals in Ireland?**
-答：Apply for a Critical Skills Employment Permit, requiring a job offer in a shortage occupation with a salary of at least €30,000. After 2 years, you can apply for Stamp 4 residence.
-
-**问：What are the career prospects for this profession?**
-答：With Ireland's focus on climate change and sustainability, job prospects are strong. Career progression from technical roles to management or policy, with Chartered Environmentalist (CEnv) status being advantageous.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Shoemaker and Related Worker（Shoemaker and Related Worker）职业分析 · IT
+# Shoemaker and Related Worker — career analysis · Italy
 
-**职业代码：7536 – Shoemaker and Related Worker。**
+**Occupation code: 7536 (ISCO08)**
 
-Shoemakers and related workers produce, repair, and modify footwear by hand or machine, playing a key role in Italy's traditional footwear industry.
+Shoemakers and related workers manufacture, repair, and modify footwear products by hand or machine, holding an important position in Italy's traditional shoemaking industry.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年 | —（公立职业培训中心可能免费或低收费） |
-| 学徒制 | 3-4年 | $500~$2,000（学徒期间可获工资，培训费用较低） |
+| Vocational training | 2 years | $0~$3,000 (Public vocational training centers may be free or low-cost) |
+| Apprenticeship | 3-4 years | $500~$2,000 (Apprentices receive wages during training, with low training costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制鞋工职业资格证书 | 各地区职业培训中心 | 可选 | 证明具备基本制鞋技能，非强制但受雇主青睐 |
-| 高中毕业证书 | 意大利教育部 | 可选 | 完成高中学业是进入高级培训的前提 |
+| Occupational qualification certificate for shoemakers | Regional vocational training centers | Optional | Prove basic shoemaking skills; not mandatory but favored by employers |
+| High school graduation certificate | Italian Ministry of Education | Optional | completing secondary education is a prerequisite for advanced training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。意大利制鞋业以高端手工定制闻名，但面临年轻劳动力短缺和自动化趋势。预计就业岗位缓慢下降，但高端市场仍有稳定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The Italian footwear industry is famous for high-end handmade customisation but faces a shortage of young workers and automation trends. Employment is expected to slowly decline, but the high-end market still has stable demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或初级工薪资较低 |
-| 中级（3-7年） | $23,000~$28,000 | 熟练工匠可获更高薪资 |
-| 高级（7年以上） | $29,000~$35,000 | 高级工匠或定制工坊负责人 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprentice or entry-level workers earn lower wages. |
+| Mid-level (3–7 years) | $23,000~$28,000 | Skilled craftspeople can earn higher salaries. |
+| Senior (7+ years) | $29,000~$35,000 | Senior artisan or custom workshop manager |
+| average salary | $25,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒起步，可晋升为高级制鞋工匠或车间主管；经验丰富者可自立门户，开设定制工坊或进入奢侈品品牌担任技术顾问。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Shoe makers face dual impacts from automation and AI; repetitive manual tasks and machine operations are at high risk of replacement, but in custom workshops, design, repair, and client communication skills are amplified by AI, showing a polarized industry.
+
+Start as an apprentice, progress to senior shoemaker or workshop supervisor; experienced individuals can set up their own custom workshops or become technical consultants for luxury brands.
+
+**Tasks most exposed to AI:**
+
+- repetitive manual operations such as shoe upper sewing and sole bonding
+- Routine machine operations such as leather cutting and component sorting
+- Visual inspection in quality checks (replaced by computer vision).
+- Inventory Management and Order Processing (ERP System Automation)
+- Last replication and scaling (3D scanning and digitization alternatives).
+
+**Where AI augments the role:**
+
+- Use AI design software to generate creative shoe sketches and color schemes
+- Using 3D modeling and virtual try-on to reduce physical sample shoe production
+- Optimizing leather cutting layouts through data analysis to reduce waste
+- Customized customer communication and foot measurement via digital platforms.
+- using augmented reality (AR) to assist complex repairs and renovations
+
+**Human moat:**
+
+- Intuitive judgment of leather texture and defects in hand-finishing and restoration
+- Deep communication and aesthetic co-creation with clients in high-end custom products
+- Inheritance and innovation of traditional shoemaking techniques (e.g., Goodyear welt structure)
+- Comprehensive craftsmanship flexibly addressing unconventional issues in small workshops
+
+**Skills to build:**
+
+- Proficient in CAD/CAM footwear design software (e.g., Shoemaster)
+- Learn 3D modeling and rapid prototyping (RP technology)
+- Familiar with automated cutting and sewing robot operation
+- Knowledge of leather material science and sustainable processes
+- Develop skills in client needs analysis and customised design
+- Use e-commerce and social media for brand marketing
+
+**Key growth areas:**
 
 - Luxury footwear
 - Handcrafted shoes
@@ -63,65 +98,67 @@ Shoemakers and related workers produce, repair, and modify footwear by hand or m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民通过年度配额申请意大利工作签证，需雇主担保。制鞋工不在高技能清单中，竞争激烈。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，但制鞋工通常不符合薪资门槛（年收入需高于约24,000欧元）。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU citizens applying for an Italian work visa through annual quotas, requiring employer sponsorship. Shoemakers are not on the high-skilled list, making competition fierce. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but shoemakers usually do not meet the salary threshold (annual income must be above approximately 24,000 euros). |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoemaker and Related Worker？**
-- 对传统手工艺有热情，注重细节
-- 愿意从学徒做起，积累实际经验
-- 耐心且动手能力强，适应重复性工作
+**Who is suited**
+- Passionate about traditional handicrafts, attention to detail
+- Willing to start as an apprentice to gain practical experience
+- Patient and hands-on, adaptable to repetitive tasks
 
-**谁不适合学Shoemaker and Related Worker？**
-- 追求高薪或快速晋升的人
-- 不愿从事体力劳动或长时间站立工作
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- Not willing to do physical labor or stand for long periods
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of Italian shoemakers?**
+A: Junior shoemakers earn about €18,000-22,000 annually, while senior artisans can earn up to €35,000. Salaries are below the Italian average, but higher in high-end custom shoemaking.
+
+**Q: Can non-EU citizens immigrate to Italy through the shoemaker position?**
+A: Shoemakers are not high-skilled occupations and cannot apply for the EU Blue Card. Work visas can be applied for through the Decreto Flussi annual quota, but spots are limited and require employer sponsorship.
+
+**Q: What are the career development paths for a shoemaker?**
+A: Start as apprentice or junior tradesperson, advance to senior craftsman, workshop supervisor, or start own custom workshop. Also possible to develop into technical consultant for luxury brands.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Shoemaker and Related Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for shoemakers in Italy?**
-答：Entry-level shoemakers earn around €18,000-22,000 per year, while senior craftsmen can reach €35,000. Salaries are below the national average, but high-end custom work pays more.
-
-**问：Can non-EU citizens immigrate to Italy as shoemakers?**
-答：Shoemakers are not high-skilled, so EU Blue Card is not an option. Work visa through Decreto Flussi annual quota is possible but limited and requires employer sponsorship.
-
-**问：What are the career paths for shoemakers?**
-答：Start as an apprentice or entry-level worker, then advance to senior craftsman, workshop supervisor, or start your own custom workshop. Also possible to become a technical consultant for luxury brands.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

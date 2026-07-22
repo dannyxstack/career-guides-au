@@ -1,61 +1,96 @@
-# Diver（Diver）职业分析 · ES
+# Diver — career analysis · Spain
 
-**职业代码：7891 – Diver。**
+**Occupation code: 7891 (CNO)**
 
-Divers perform underwater work including construction, inspection, repair, salvage, and marine engineering, using specialized diving equipment under safety regulations.
+Divers engage in underwater operations, including construction, inspection, maintenance, salvage, and marine engineering, using specialized diving equipment under safe regulations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 商业潜水培训 | 6个月至1年 | $8,000~$15,000（主要包括理论和实践课程，不含生活费用） |
-| 职业培训（FP） | 2年（FP Grado Superior） | $1,000~$3,000（公立学校学费较低，海洋或水下相关专业） |
+| Commercial diving training | 6 months to 1 year | $8,000~$15,000 (Mainly includes theoretical and practical courses, excluding living expenses) |
+| Vocational Training (FP) | 2 years (FP Grado Superior) | $1,000~$3,000 (Public schools offer lower tuition fees for marine or underwater-related majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业潜水员证书 | 西班牙劳动与社会保障部认可的培训机构 | 必备 | 强制性，需通过理论和实践考试 |
-| 潜水医疗证书 | 西班牙劳动与社会保障部认可 | 必备 | 证明身体健康符合潜水要求，需定期更新 |
-| 水下焊接或相关技术资格 | 专业协会或培训机构 | 可选 | 非强制，但提高专业竞争力 |
+| Commercial diver certificate | A training institution recognized by the Spanish Ministry of Labor and Social Security | Required | It is mandatory and requires passing both theoretical and practical exams |
+| Diving medical certificate | Recognized by the Spanish Ministry of Labor and Social Security | Required | Proof of physical fitness meeting diving requirements and regular updates |
+| Underwater welding or related technical qualifications | Professional associations or training institutions | Optional | Non-mandatory, but it enhances professional competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。西班牙海岸线长，海洋工程和旅游业对潜水员有稳定需求。海上风电、港口建设和水产养殖推动就业增长，但受经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Spain has a long coastline, and marine engineering and tourism have a stable demand for divers. Offshore wind power, port construction, and aquaculture drive job growth, but are affected by economic cycles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，包括基础工资和潜水补贴 |
-| 中级（3-10年） | $35,000~$50,000 | 税前年薪，包括加班和特殊作业补贴 |
-| 高级（10年以上） | $50,000~$70,000 | 税前年薪，含管理或专业资质附加 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$35,000 | Pre-tax annual salary, including base salary and diving allowance |
+| Intermediate (3-10 years) | $35,000~$50,000 | Pre-tax annual salary, including overtime and special assignment allowances |
+| Senior (10+ years) | $50,000~$70,000 | Pre-tax annual salary, including management or professional qualification surcharges |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级潜水员晋升为监督员、潜水技师或项目管理。取得高级商业潜水认证后可转向水下焊接、水下勘探等专业领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Divers' work is affected by AI automation: underwater inspections and data recording can be partially replaced by ROVs and AI analysis, but complex repairs, emergency decision-making, and on-site safety monitoring still require human judgment and operation, raising concerns about the narrowing of entry-level positions and pressure to upgrade skills.
+
+You can be promoted from junior diver to supervisor, dive technician, or project manager. After obtaining advanced commercial diving certification, you can transition to specialized fields such as underwater welding and underwater exploration.
+
+**Tasks most exposed to AI:**
+
+- Visual inspection of underwater structures and image recording (AI image recognition and automatic defect analysis)
+- Underwater environmental parameter collection (automatic transmission from sensors for temperature, depth, etc.)
+- Simple salvage and object positioning (ROV combined with AI path planning)
+- Diving log and report generation (automatic transcription and analysis)
+
+**Where AI augments the role:**
+
+- Complex underwater welding and cutting (AI-assisted precise parameter control)
+- Underwater Equipment Maintenance Plan Planning (AI Fault Simulation and Recommended Steps)
+- Diving safety monitoring (AI real-time physiological data analysis to warn of decompression sickness)
+- Underwater Archaeology and Biological Research (AI-Enhanced Image Recognition and Cultural Layer Analysis)
+- Underwater Communication and Navigation (AI Noise Reduction and Path Optimization)
+
+**Human moat:**
+
+- On-site emergency decision-making and intuitive judgment in high-risk environments
+- Complex unstructured manual operations (such as rusty bolt disassembly and flexible material repair)
+- Coordinate and communicate in real time with other trades (welders, engineers).
+- Responsibility, ethics, and legal obligation for underwater life and the environment
+- Psychological resilience in overcoming harsh natural conditions (strong currents, low temperatures, low visibility).
+
+**Skills to build:**
+
+- ROV/AUV operation and maintenance skills
+- Underwater sensors and IoT data analysis
+- Digital twin and simulation software (for diving program simulation)
+- Use of AI-assisted diagnostic tools (such as defect identification software)
+- Mixed Reality (MR) navigation and communication in emergency situations
+- Interdisciplinary collaboration and project management skills
+
+**Key growth areas:**
 
 - Offshore wind
 - Underwater inspection
@@ -64,61 +99,63 @@ Divers perform underwater work including construction, inspection, repair, salva
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 由西班牙雇主担保的工作居留，需证明岗位无法在当地招到合格员工。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | For work residency sponsored by a Spanish employer, it must prove that the position does not recruit qualified local employees. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Diver？**
-- 身体健康、适应水下高压环境的人
-- 喜欢户外和动手操作、不惧危险的人
-- 有工程或海洋科学背景者为佳
+**Who is suited**
+- Healthy individuals who can adapt to high-pressure underwater environments
+- People who enjoy outdoor activities and hands-on activities, and are not afraid of danger
+- Candidates with an engineering or marine science background are preferred
 
-**谁不适合学Diver？**
-- 有恐水或幽闭恐惧症的人
-- 需要稳定规律作息、不喜欢高风险工作的人
+**Who is not suited**
+- People with hydrophobia or claustrophobia
+- People who need a stable and regular routine and dislike high-risk work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for divers?**
+A: Beginner level is about 25,000-35,000 euros, intermediate level 35,000-50,000 euros, and advanced level can reach 50,000-70,000 euros, with diving subsidies increasing income.
+
+**Q: Can foreigners immigrate to Spain through the diver profession?**
+A: The chances are very low. This occupation is not considered in short supply and is usually only available through employer sponsorship, and requires proof that local staff cannot be recruited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较难（★★★½☆） |
-| 考证难度 | 较难（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较不友好（★½☆☆☆） |
-| PR难度 | 较难（★★★½☆） |
-
-Diver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for divers?**
-答：Entry level: €25,000-35,000; mid-level: €35,000-50,000; senior: €50,000-70,000, plus diving allowances.
-
-**问：Can foreigners immigrate to Spain as divers?**
-答：Very unlikely. It is not a shortage occupation; only employer-sponsored work permits are possible, with labor market test.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

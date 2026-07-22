@@ -1,61 +1,94 @@
-# Artistic Metalworker（Artistic Metalworker）职业分析 · DE
+# Artistic Metalworker — career analysis · Germany
 
-**职业代码：9351 – Artistic Metalworker。**
+**Occupation code: 9351 (KldB)**
 
-Artistic metalworkers handcraft metal objects such as sculptures, furniture, doors, and jewelry, combining traditional forging and welding techniques with modern design.
+Art metal craftspeople shape and decorate metal by hand, creating sculptures, furniture, doors, windows, jewelry, and other metal products, combining traditional forging and welding techniques with modern design concepts.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3-3.5年 | —（双元制期间每月津贴约600-1000欧元，学校学费极低） |
-| 大师级培训（Meister） | 2年（兼职） | $3,000~$10,000（视地区和学校而异，部分可获政府补贴） |
+| Dual vocational training (Ausbildung) | 3-3.5 years | $0~$500 (Monthly allowance during the dual system is about 600-1000 euros, with very low tuition fees.) |
+| Master-level training (Meister) | 2 years (part-time) | $3,000~$10,000 (Varies by region and institution, some may receive government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制毕业证书（Gesellenbrief） | 德国工商业协会（IHK）或手工业协会（HWK） | 必备 | 完成3-3.5年双元制培训并通过结业考试 |
-| 大师证书（Meisterbrief） | 德国手工业协会（HWK） | 可选 | 通过大师考试，可独立开业和带徒 |
-| 境外资质认证（Anerkennung） | 德国手工业协会（HWK） | 必备 | 评估海外学历/经验，部分需补修课程或考试 |
+| Dual System Certificate (Gesellenbrief) | German Chamber of Commerce and Industry (IHK) or German Crafts Association (HWK) | Required | Complete a 3-3.5 year dual vocational training program and pass the final examination |
+| Recognition of overseas qualifications (Anerkennung) | German Chamber of Crafts (HWK) | Required | Assessment of overseas qualifications/experience; some may require bridging courses or exams |
+| Master craftsman certificate (Meisterbrief) | German Chamber of Crafts (HWK) | Optional | After passing the master examination, can independently practice and take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国对高端手工定制金属制品的需求稳定，尤其在建筑装饰、修复和艺术领域。但数字化生产冲击低端市场，从业者需具备独特设计能力。总体就业前景中等偏上。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. Germany has a stable demand for high-end handcrafted custom metal products, especially in architectural decoration, restoration, and art fields. However, digital production impacts the low-end market, and practitioners need unique design skills. Overall employment prospects are moderately good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，东德较低 |
-| 中级（3-10年） | $32,000~$45,000 | 视为熟练工匠 |
-| 高级（10年以上/大师级） | $45,000~$60,000 | 自营工作室或大师级工匠收入更高 |
+| Median salary | $38,532 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, lower in East Germany |
+| Intermediate (3-10 years) | $32,000~$45,000 | Considered a skilled tradesperson |
+| Senior (10+ years/Master level) | $45,000~$60,000 | Self-employed studio or master craftsman earn higher income |
+| average salary | $42,252 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从熟练工匠晋升为工坊主管或自营工作室，也可通过进修（如Meister）成为培训师或大师级工匠。部分人可转向珠宝设计或工业金属设计。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Artistic metal craftsmen are at a bittersweet crossroads with AI: generative AI can assist in design creativity and structural optimization, but manual forging and welding are hard to replace. Entry-level roles are shrinking due to AI-assisted design tools, while high-end custom work remains secure.
+
+Career progression can go from skilled craftsman to workshop supervisor or self-employed studio owner. Further training (e.g., Meister) can lead to trainer or master craftsman roles. Some may transition to jewelry design or industrial metal design.
+
+**Tasks most exposed to AI:**
+
+- Using AI to generate concept sketches and 3D modeling for metal products
+- Automatically calculate material usage and generate cutting paths
+- Using AI to optimize welding sequence and thermal deformation prediction
+- Automated size matching and quote generation for custom customer orders.
+
+**Where AI augments the role:**
+
+- AI-assisted design exploration of complex curves and organic forms
+- Real-time quality inspection and AI visual recognition of welding defects
+- Use generative design tools to optimise structural strength and material utilisation
+- Automated personalized recommendations based on customer preferences
+
+**Human moat:**
+
+- Irreproducible texture of hand forging and free hammering
+- Deep understanding of unique artistic styles and client aesthetic preferences
+- Experience-based judgment for on-site restoration and modification of antique metalwork
+- Flexible operation and safety intuition in hazardous environments like high heat.
+
+**Skills to build:**
+
+- Rhino 3D/Grasshopper parametric modeling
+- AI design tools (e.g., DALL·E for inspiration images, Midjourney for concept rendering)
+- CNC programming and operation
+- Metal 3D printing (additive manufacturing) technology
+- Python scripting for automated quoting and project management
+- Use of Augmented Reality (AR) construction assistance systems
+
+**Key growth areas:**
 
 - Artisan revival
 - Custom metalwork
@@ -64,70 +97,69 @@ Artistic metalworkers handcraft metal objects such as sculptures, furniture, doo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker (Blue（EU Blue Card (qualification-based)） | 需德国认可的大学学历或等同资格，通常与紧缺职业相关。艺术金属工匠若持有大师证书或等同资质，可尝试申请。 |
-| Subclass Skilled Worker (non-（Skilled Worker Visa (Section 18b AufenthG)） | 适用于有德国认可的职业资格（如双元制培训或大师证书）的申请人。需雇主担保。 |
-| Subclass Opportunity Card (Ch（Opportunity Card (based on points system)） | 2024年新路径，凭积分申请，适合有职业经验但尚未获雇主担保的候选人。 |
-| Subclass Recognition Visa（Recognition Visa (Section 16d AufenthG)） | 用于赴德完成资质认证程序，最长18个月。 |
+| Subclass Skilled Worker (Blue (EU Blue Card (qualification-based)) | Requires a German-recognized university degree or equivalent qualification, usually related to shortage occupations. Artistic metal craftsmen with a master craftsman certificate or equivalent may apply. |
+| Subclass Skilled Worker (non- (Skilled Worker Visa (Section 18b AufenthG)) | Applicable to those with German-recognized vocational qualifications (e.g., dual training or master craftsman certificate). Requires employer sponsorship. |
+| Subclass Opportunity Card (Ch (Opportunity Card (based on points system)) | A new pathway in 2024, based on a points system, suitable for candidates with professional experience but without a job offer yet. |
+| Subclass Recognition Visa (Recognition Visa (Section 16d AufenthG)) | Used for completing qualification recognition procedures in Germany, up to 18 months. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Artistic Metalworker？**
-- 对手工艺术和金属创作有热情的动手能力强的人
-- 愿意接受较长时间双元制培训并考取大师证书的人
-- 喜欢独立工作和个性化设计的人
-
-**谁不适合学Artistic Metalworker？**
-- 追求高薪和快速职业发展的人
-- 对体力劳动和金属加工环境不适应的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for handicrafts and metal creation who are hands-on
+- Those willing to undergo a longer dual training program and obtain a master craftsman certificate.
+- People who enjoy independent work and personalized design
+
+**Who is not suited**
+- People pursuing high salary and fast career development
+- People who are not suited to physical labor and metalworking environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an artistic metal craftsman in Germany?**
+A: Pre-tax annual salary approx. EUR 28,000-45,000, self-employed master craftsmen can earn over EUR 60,000.
+
+**Q: How can third-country nationals immigrate to Germany to become artistic metal craftsmen?**
+A: Typically requires a qualification recognition process comparing overseas experience with German standards, possibly requiring additional courses or exams. Then can apply for a Skilled Worker Visa.
+
+**Q: What are the career progression paths for an artistic metal worker?**
+A: Can progress from apprentice to skilled artisan, workshop supervisor, or become a master craftsman/self-employed via the Meister exam. Also can move into art education or restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Artistic Metalworker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an artistic metalworker in Germany?**
-答：Annual pre-tax salary ranges from EUR 28,000 to EUR 45,000, with master craftsmen earning up to EUR 60,000 or more.
-
-**问：How can third-country nationals immigrate to Germany as artistic metalworkers?**
-答：Typically need to undergo a recognition procedure to compare overseas qualifications with German standards, possibly requiring additional courses or exams. Then can apply for a skilled worker visa.
-
-**问：What are the career progression paths for an artistic metalworker?**
-答：Can advance from apprentice to skilled worker, workshop supervisor, or become a master craftsman/self-employed via the Meister exam. Also possible to move into art education or restoration.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

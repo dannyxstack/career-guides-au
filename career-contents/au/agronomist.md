@@ -1,59 +1,95 @@
-# Agronomist（Agronomist）职业分析 · 澳大利亚
+# Agronomist — career analysis · Australia
 
-**职业代码：234115 – Agronomist。**
+**Occupation code: 234115 (ANZSCO)**
 
 Agronomists study crops, soil, and climate to optimize agricultural production and sustainability. They advise farmers on planting, fertilization, and pest management to improve yield and quality.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（澳洲大学农学学士学费年约3-4.5万澳元） |
-| 硕士 | 2年 | $35,000~$50,000（研究型或授课型硕士，年学费3.5-5万澳元） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Australian university bachelor of agriculture tuition approx. AUD $30,000-45,000 per year.) |
+| Master's degree | 2 years | $35,000~$50,000 (Master's (research or coursework): annual tuition AUD 35,000-50,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农学学士 | 澳洲大学 | 必备 | 主流学历要求 |
-| VETASSESS职业评估 | VETASSESS | 必备 | 技术移民必备，需相关学历和工作经验 |
-| 澳洲农业研究所会员 | Australian Institute of Agricultural Science | 可选 | 非强制，但有利于职业发展 |
+| Bachelor of Agricultural Science | Australian universities | Required | Mainstream educational requirements |
+| VETASSESS skills assessment | VETASSESS | Required | Essential for skilled migration; requires relevant qualifications and work experience. |
+| Member of the Australian Agricultural Institute | Australian Institute of Agricultural Science | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,200。澳洲农业持续发展，对农学家需求稳定。人口增长和出口需求推动技术创新，预计未来五年就业增长中等。
+**Job demand: high (★★★★☆).** National workforce approx. 2,200. Australia's agricultural sector continues to grow, with steady demand for agronomists. Population growth and export demand drive technological innovation, with moderate employment growth expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 全职，含super |
-| 中级（3-6年） | $70,000~$90,000 | 全职，含super |
-| 高级（6年以上） | $90,000~$120,000 | 全职，含super，管理或专家角色 |
+| Median salary | $107,848 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Full-time, including superannuation |
+| Mid-level (3–6 years) | $70,000~$90,000 | Full-time, including superannuation |
+| Senior (6+ years) | $90,000~$120,000 | Full-time, including super, management or specialist role |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级农学家可晋升为高级农学家或农业经理，也可转向研究、咨询或农业企业管理。积累经验后，可成为独立顾问或农场主。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Most of an agronomist's tasks in data analysis, report generation, and knowledge retrieval will be automated by AI, but on-site decision-making and farmer communication still rely on human experience, increasing competition for entry-level positions.
+
+Junior agronomists can advance to senior agronomist or agricultural manager, or move into research, consulting, or agribusiness management. With experience, can become independent consultant or farm owner.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate soil fertility analysis reports and fertilization recommendations
+- Smart system predicts pest outbreaks based on meteorological data
+- AI-assisted crop rotation planning and yield prediction
+- Automatically records and parses farmland sensor data
+- General knowledge retrieval (e.g., pesticide dosage inquiry)
+
+**Where AI augments the role:**
+
+- Using AI to quickly integrate multi-source data (remote sensing, meteorology, soil) for comprehensive diagnosis
+- Optimize variety selection and planting density using machine learning models
+- Uses digital twin technology to simulate farmland scenarios under different management measures
+- Using generative AI to automatically write technical promotion materials and training manuals.
+- AI-assisted decision support system improves solution quality for complex issues (e.g., climate change adaptation strategies)
+
+**Human moat:**
+
+- Build trust and personalized communication with farmers.
+- Cross-disciplinary integration (agronomy, economics, ecology) for overall judgment
+- On-site diagnosis and emergency response for sudden field issues
+- Intuition and experience for unstructured, ambiguous situations (e.g., new diseases)
+- Ethical decision-making (e.g., balancing pesticide use vs. ecological protection)
+
+**Skills to build:**
+
+- Operation of agricultural AI tools (e.g., CropX, Climate FieldView)
+- Basic data analysis and visualization (Python/R/Power BI)
+- Precision agriculture technology (drones, sensor networks) management
+- Machine Learning Basics (understanding the application of regression and classification models in agriculture)
+- Digital communication and visual reporting skills
+- Systems thinking and cross-disciplinary collaboration
+
+**Key growth areas:**
 
 - Sustainable Agriculture
 - Precision Agriculture
@@ -62,69 +98,68 @@ Agronomists study crops, soil, and climate to optimize agricultural production a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，农学家在MLTSSL上，可申请189签证，无需雇主担保 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，多数州担保农学家，加分获邀 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区担保签证，适合在偏远地区工作 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需雇主提名，可转186永居 |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled migration: agricultural scientists are on the MLTSSL, eligible for a subclass 189 visa without employer sponsorship. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, with most states sponsoring agronomists, gaining points to receive an invitation |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional sponsored visa, suitable for working in regional areas |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination, can transition to 186 permanent residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agronomist？**
-- 农业科学或相关专业毕业生
-- 对作物和土壤有浓厚兴趣的人
-- 愿意在乡村或偏远地区工作的人
-
-**谁不适合学Agronomist？**
-- 不喜欢户外和田间工作的人
-- 对科研数据敏感度低的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates in agricultural science or related fields
+- People with strong interest in crops and soil
+- Those willing to work in rural or remote areas
+
+**Who is not suited**
+- People who dislike outdoor and fieldwork
+- People with low sensitivity to research data
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural scientists in Australia?**
+A: Entry-level about AUD 55,000-70,000, mid-level 70,000-90,000, senior 90,000-120,000, management or specialist roles higher.
+
+**Q: How can agronomists migrate to Australia?**
+A: Agriculturist is on the MLTSSL and can migrate via 189, 190, 491, or 482/186 visas. Requires VETASSESS skills assessment and meeting English and points requirements.
+
+**Q: What is the career development path for an agronomist?**
+A: From assistant agronomist to senior agronomist, can advance to farm manager, research scientist, or independent consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agronomist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agronomists in Australia?**
-答：Junior: AUD55k-70k, Mid: AUD70k-90k, Senior: AUD90k-120k; higher for management or specialist roles.
-
-**问：How can agronomists migrate to Australia?**
-答：Agronomists are on MLTSSL, eligible for 189, 190, 491, or 482/186 visas. Need VETASSESS assessment, English, and points.
-
-**问：What is the career path for agronomists?**
-答：From assistant agronomist to senior, then to farm manager, research scientist, or independent consultant.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

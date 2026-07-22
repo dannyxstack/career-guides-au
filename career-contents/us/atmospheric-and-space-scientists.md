@@ -1,59 +1,95 @@
-# Atmospheric and Space Scientists（Atmospheric and Space Scientists）职业分析 · 美国
+# Atmospheric and Space Scientists — career analysis · United States
 
-**职业代码：19-2021 – Atmospheric and Space Scientists。**
+**Occupation code: 19-2021 (SOC)**
 
-Investigate atmospheric phenomena and interpret meteorological data to prepare reports and forecasts for public and other uses. Includes weather analysts and forecasters requiring detailed knowledge of meteorology.
+Research atmospheric phenomena, interpret meteorological data, and prepare forecasts and reports for the public and other uses. Includes weather analysts and forecasters requiring detailed knowledge of meteorology.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年学费） |
-| 硕士学位 | 2年 | $30,000~$60,000（年学费，研究型常提供资助） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Annual tuition at public universities) |
+| Master's degree | 2 years | $30,000~$60,000 (Annual tuition fee, research programs often provide funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 气象学或相关领域学士学位 | 大学 | 必备 | 通常需气象学、大气科学或相关专业 |
-| 美国气象学会认证 | 美国气象学会 | 可选 | 非强制，但提升就业竞争力 |
-| 工程师培训（如适用） | 国家气象局 | 可选 | 政府职位可能需要额外培训 |
+| Bachelor's degree in meteorology or related field. | University | Required | Typically requires meteorology, atmospheric science, or related field |
+| American Meteorological Society certification | American Meteorological Society. | Optional | Not mandatory, but enhances employment competitiveness |
+| Engineer training (if applicable) | National Weather Service | Optional | Government positions may require additional training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 10,800。美国就业前景积极，受气候变化和极端天气事件频发影响，气象服务需求增长。政府机构、私营气象公司、媒体和航空航天领域均有需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 10,800. US employment outlook is positive; demand for meteorological services is growing due to climate change and frequent extreme weather events. Demand exists in government agencies, private weather companies, media, and aerospace.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 入门级气象分析师 |
-| 中级（4-9年） | $75,000~$100,000 | 有经验的气象学家 |
-| 高级（10年以上） | $100,000~$130,000 | 首席气象学家或研究主管 |
+| Median salary | $99,070 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Entry-level meteorological analyst |
+| Intermediate (4-9 years) | $75,000~$100,000 | Experienced meteorologist |
+| Senior (10+ years) | $100,000~$130,000 | Chief meteorologist or research director. |
+| average salary | $106,110 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业发展路径：初级气象分析师/预报员→高级气象学家→首席气象学家或研究主管。可转向气候研究、灾害预警、环境咨询等领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+For atmospheric and space scientists, AI automation will replace data analysis and basic forecasting tasks but enhance complex pattern recognition and decision support. This occupation faces a mixed outlook in the AI era, with increased demand for high-skilled roles and compression of entry-level positions.
+
+Career path: Junior weather analyst/forecaster → Senior meteorologist → Chief meteorologist or research director. Can transition to climate research, disaster warning, environmental consulting, etc.
+
+**Tasks most exposed to AI:**
+
+- Preliminary review of automatic observation data calibration and quality control
+- Daily forecast generation based on numerical weather prediction models
+- Automated generation of standardized weather reports and aviation weather briefings
+- Routine statistical analysis of some climate model data
+- Preliminary automatic generation and distribution of severe weather warnings
+
+**Where AI augments the role:**
+
+- Using AI to analyze historical data and ensemble forecasts to improve extreme weather event prediction accuracy
+- Using computer vision and deep learning to process satellite and radar images to identify subtle atmospheric features
+- Optimizing air quality and climate model parameters through machine learning to reduce uncertainty
+- Using natural language processing to automatically generate customized weather forecast text and impact assessments
+- Proposing optimal observation layout and sensor scheduling scheme based on reinforcement learning
+
+**Human moat:**
+
+- Deep understanding of physical mechanisms and atmospheric processes with interdisciplinary judgment
+- Effectively communicating risks and response measures to decision-makers and the public under conditions of uncertainty
+- Creative interpretation of novel sensors or abnormal data and instrument fault diagnosis
+- Responsible for compliance with meteorological service regulations and signing official forecasts or warnings.
+- Unstructured decision-making in high-impact scenarios (e.g., space launches, aviation safety)
+
+**Skills to build:**
+
+- Python/R data science and machine learning frameworks (TensorFlow, PyTorch)
+- Deep learning skills in remote sensing and satellite data analysis
+- Statistics and explainable AI applied to weather uncertainty quantification
+- Cloud computing and big data processing (AWS/GCP, Spark).
+- Weather data visualization and interactive dashboard creation (D3.js, Power BI)
+- Data assimilation and ensemble forecast application of numerical weather prediction models
+
+**Key growth areas:**
 
 - Climate change analysis
 - Weather forecasting
@@ -62,66 +98,65 @@ Investigate atmospheric phenomena and interpret meteorological data to prepare r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见工作签证，需雇主担保且符合专业职业要求 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有高等学位或特殊能力的专业人士，需PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于技术工人、专业人士等，需PERM劳工证 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大和墨西哥公民，属专业职业 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common work visa requiring employer sponsorship and meeting professional occupation requirements |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For professionals with advanced degrees or exceptional abilities, requires PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to skilled workers, professionals, etc.; requires PERM labor certification |
+| Subclass TN (TN Status (USMCA)) | Applicable to Canadian and Mexican citizens, in professional occupations. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Atmospheric and Space Scientists？**
-- 对天气和气候有浓厚兴趣的人
-- 具备良好数学和物理基础的人
-- 喜欢分析数据和预测趋势的人
-
-**谁不适合学Atmospheric and Space Scientists？**
-- 不善于处理复杂数据的人
-- 对户外工作或非传统时间不灵活的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in weather and climate
+- People with good math and physics foundations
+- People who like analyzing data and predicting trends
+
+**Who is not suited**
+- People who are not good at handling complex data
+- People who are not flexible with outdoor work or non-traditional hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an atmospheric and space scientist in the US?**
+A: According to BLS data, median annual salary in 2022 is about USD 92,000, range USD 55,000-130,000, depending on experience and employer.
+
+**Q: Is this occupation viable for immigration to the US?**
+A: Possible via H-1B work visa or EB-2/EB-3 green card. Requires employer sponsorship and usually a bachelor's degree or higher. Government positions may have citizenship requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Atmospheric and Space Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for atmospheric and space scientists in the US?**
-答：According to BLS, median annual wage is about $92,000 in 2022, ranging from $55,000 to $130,000 depending on experience and employer.
-
-**问：Is immigration to the US feasible for this occupation?**
-答：Yes, via H-1B visa or EB-2/EB-3 green card. Requires employer sponsorship and typically a bachelor's degree or higher. Government positions may have citizenship requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

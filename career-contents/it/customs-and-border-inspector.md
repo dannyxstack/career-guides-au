@@ -1,59 +1,95 @@
-# Customs and Border Inspector（Customs and Border Inspector）职业分析 · IT
+# Customs and Border Inspector — career analysis · Italy
 
-**职业代码：3351 – Customs and Border Inspector。**
+**Occupation code: 3351 (ISCO08)**
 
-Customs and border inspectors examine people and goods at entry points, enforce customs, immigration, and agricultural regulations, and prevent smuggling and illegal entry.
+Customs and border inspection officers inspect people and goods at entry points, enforce customs, immigration, and agricultural regulations, and prevent smuggling and illegal entry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 大学本科（推荐） | 3年（本科） | $1,000~$4,000（公立大学年学费含注册费） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Bachelor's degree (recommended) | 3 years (bachelor's) | $1,000~$4,000 (Annual tuition fees including registration fee at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利国籍或欧盟公民身份 | 意大利政府 | 必备 | 通常要求 |
-| 通过公开竞争考试 | 意大利公共行政部 | 必备 | 进入海关需通过考试 |
-| 无犯罪记录证明 | 司法部门 | 必备 | 背景审查 |
+| Italian nationality or EU citizenship | Italian government | Required | Usually required |
+| Through open competitive examinations | Italian Ministry of Public Administration | Required | Entry into customs requires passing an exam. |
+| Police clearance certificate | Judicial sector | Required | Background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。意大利边境检查需求稳定，受欧盟边境管控政策影响，预计未来五年就业人数基本持平，岗位竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Demand for border control in Italy is stable, influenced by EU border control policies; employment numbers are expected to remain largely unchanged over the next five years, with moderate competition for positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪 |
-| 中级（3-10年） | $30,000~$36,000 | 税前年薪 |
-| 高级（10年以上） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary |
+| Intermediate (3-10 years) | $30,000~$36,000 | Annual pre-tax salary |
+| Senior (10+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $33,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业晋升路径：从检查员可晋升为高级检查员、主管，或转入海关调查、风险管理等专业岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of customs and border inspection officers is being reshaped by AI tools: automated document review and image recognition will take over some routine inspections, but human judgment and enforcement discretion remain core, with both risks and opportunities.
+
+Career progression: from inspector to senior inspector, supervisor, or into specialized roles such as customs investigation and risk management.
+
+**Tasks most exposed to AI:**
+
+- Automatically scan passports and verify visa authenticity
+- Automated verification and risk assessment of standard cargo declarations
+- Automated matching of basic biometric information (e.g., fingerprints, facial features)
+- Routine passenger information entry and system updates
+- Automated processing for template-based document filling
+
+**Where AI augments the role:**
+
+- AI-assisted risk analysis systems help identify high-suspicion passengers or cargo
+- Real-time translation tools enhance communication efficiency with multilingual travelers
+- Database-linked early warning system enhances smuggling pattern recognition capabilities
+- Automated report generation tools save time on paperwork
+- AI-assisted decision support system providing compliance advice
+
+**Human moat:**
+
+- Exercise discretion to handle complex or exceptional situations
+- Micro-expression and behavior recognition based on experience and intuition
+- Decision-making authority bearing enforcement responsibilities and legal consequences
+- Handling cases involving national security and diplomatic sensitivity
+- Balancing humanity and dignity in direct interaction with passengers
+
+**Skills to build:**
+
+- Application of machine learning and AI tools (e.g., operating risk scoring systems)
+- Data analysis and anomaly pattern recognition
+- Advanced language skills (especially less common languages)
+- Cross-cultural communication and conflict mediation skills
+- Basic cybersecurity knowledge
+- Ability to track legal and regulatory updates.
+
+**Key growth areas:**
 
 - Stable
 - Border Security
@@ -62,68 +98,67 @@ Customs and border inspectors examine people and goods at entry points, enforce 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，但边境检查员通常为公务员，优先招募欧盟公民，需满足特定条件 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 年度配额工作签证，非欧盟公民可能适用，但边境检查员岗位通常不纳入配额 |
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可直接申请；非欧盟公民需先获得长期居留或公民身份 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talent, but border inspectors are usually civil servants, give priority to EU citizens, and need to meet specific conditions. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota work visa; may apply to non-EU citizens, but border inspector positions are usually not included in the quota. |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can apply directly; non-EU citizens need to obtain long-term residence or citizenship first |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Customs and Border Inspector？**
-- 具有耐心和细致观察力的人
-- 喜欢稳定工作和公共服务的人
-- 能适应轮班和户外工作环境的人
-
-**谁不适合学Customs and Border Inspector？**
-- 不喜欢重复性工作和严格规则的人
-- 寻求高收入或快速晋升的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and keen observation
+- People who like stable work and public service
+- Individuals who can adapt to shift work and outdoor environments
+
+**Who is not suited**
+- People who dislike repetitive work and strict rules
+- Someone seeking high income or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary of customs and border inspection officers?**
+A: Italian customs inspector starting salary approx. €24,000-28,000, senior up to €45,000, standard public sector salary.
+
+**Q: How can non-EU citizens become Italian customs inspectors?**
+A: EU citizenship or long-term residence is usually required; non-EU citizens can take special paths such as naturalization or holding an EU Blue Card, but opportunities are limited.
+
+**Q: What educational background is required?**
+A: Minimum high school graduation; university bachelor's degree (law, economics, etc.) recommended, and passing a public competitive exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Customs and Border Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of customs and border inspectors?**
-答：Salaries start at about €24,000-28,000, reaching up to €45,000 for senior roles, standard for public sector.
-
-**问：How can non-EU citizens become customs inspectors in Italy?**
-答：EU citizenship or long-term residence is typically required; non-EU may naturalize or hold EU Blue Card, but opportunities are limited.
-
-**问：What education is required?**
-答：Minimum high school diploma; bachelor's degree recommended (law, economics); must pass public competition exam.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

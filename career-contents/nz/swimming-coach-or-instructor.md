@@ -1,133 +1,163 @@
-# Swimming Coach or Instructor（Swimming Coach or Instructor）职业分析 · 新西兰
+# Swimming Coach or Instructor — career analysis · New Zealand
 
-**职业代码：452315 – Swimming Coach or Instructor。**
+**Occupation code: 452316 (ANZSCO)**
 
-Swimming coaches or instructors, classified under the shared ANZSCO for Australia and New Zealand, belong to the Education and Community category. In New Zealand, this occupation is eligible for employment via Accredited Employer Work Visa (AEWV) but not listed on the Skilled Migrant Category (SMC) or Green List, limiting skilled migration pathways. Practitioners must obtain relevant swimming teaching certifications.
+Swimming instructors teach swimming skills and water safety at pools, swimming schools or clubs, covering children's beginners, adult training and competitive coaching. In New Zealand, this occupation can access job opportunities through Accredited Employer Work Visa (AEWV), eligible for Skilled Migrant Category (SMC) if conditions met, but not on the Green List; immigration requires comprehensive points.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 游泳教学认证课程（基础级） | 3个月 | $1,500~$2,500（包含理论学习和实践教学评估） |
-| 高级游泳教练认证课程 | 6-12个月 | $3,000~$5,000（针对有经验者，提升技术分析和训练计划设计能力） |
+| Swim coach certification course (e.g., Swim Coach Certificate) | 1-2 years | $1,500~$5,000 (Course fees vary by institution; some online courses are cheaper) |
+| Relevant associate degree (e.g., sports and recreation) | 2 years | $12,000~$25,000 (e.g., New Zealand Institute of Technology (ITP) courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰游泳教练协会（Swimming NZ）的游泳教师认证 | Swimming New Zealand | 必备 | 包含理论模块和实践评估，是多数雇主要求 |
-| 水上安全资格（如RLSSA的Pool Lifeguard） | Royal Life Saving Society Australia (RLSSA) | 可选 | 泳池救生员资格，部分岗位要求 |
-| 儿童工作安全检查（Police Vetting） | 新西兰警方 | 必备 | 与未成年人工作必须通过 |
-| 国际游泳教练协会（ASCA）教练认证 | American Swimming Coaches Association | 可选 | 非强制，但提升竞争力 |
+| Swim Coach Certificate | Swim Coach New Zealand / Swimming NZ | Required | Industry recognized, tiered, requires renewal |
+| First Aid Certificate | New Zealand emergency services (e.g., St John) | Required | Requires renewal every 2 years |
+| Pool Lifeguard qualification | Swim Coach New Zealand / AUSTSWIM | Required | Required by many employers, especially public pools |
+| Police vetting for child worker | New Zealand Police. | Required | Work involves contact with children; must pass background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰游泳教练需求稳定，受本地水上安全教育和社区游泳推广支撑。就业机会集中在城市泳池、健身中心和学校，季节性明显，夏季需求较高。薪资增长温和，全职岗位有限，兼职普遍。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. New Zealand's demand for swimming instructors is stable, benefiting from increased public water safety awareness and the popularization of children's swimming. Job opportunities are mainly concentrated in urban public pools and chain swimming schools, with some positions being seasonal (full-time in summer, part-time in winter). In the long term, with population growth and the promotion of healthy lifestyles, there is some room for job growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26纽元，多为兼职 |
-| 中级（3-7年） | $55,000~$70,000 | 全职教练，含教学和监督职责 |
-| 高级（7年以上） | $70,000~$90,000 | 主管或俱乐部经理，含管理津贴 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Mostly part-time or hourly, $25-30 NZD/hour |
+| Mid-level (3–6 years) | $45,000~$65,000 | Includes full-time and managerial duties |
+| Senior (6+ years) | $65,000~$90,000 | Competitive coach or manager level |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级教练可在指导下积累教学小时，考取更高教练资格（如Swim Coach 3）后晋升为高级教练或主管，部分人转向俱乐部管理或自主创业。路径清晰但需持续进修。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Swimming coaches' core skills (water safety, stroke correction, motivation) are hard to replace by AI, but AI tools can enhance video analysis, lesson planning, etc. Entry-level jobs face more competition due to AI-assisted teaching software.
 
-- Leisure and Recreation
-- Community Sport
-- Seasonal Demand
-- AEWV Eligible
+Starting as a part-time assistant coach, one can advance to head coach or program director with experience. Those with competitive training credentials can enter clubs or professional teams. Some coaches transition to swim school management or start their own training centers. Holding lifesaving and first aid certificates can broaden employment opportunities.
+
+**Tasks most exposed to AI:**
+
+- Using AI video analysis to automatically assess swimming strokes and generate reports
+- AI chatbot answering common swimming questions (e.g., pool schedules)
+- AI-generated personalized training plans and progress tracking
+- Automated scheduling and membership management system
+
+**Where AI augments the role:**
+
+- Use AI video analysis to accurately identify swimming stroke defects and provide improvement suggestions
+- AI-assisted design of personalized training plans, adjusting in real-time based on progress
+- AI-generated teaching animations or virtual demos to help beginners understand movements
+- AI analyses student data to optimise lesson scheduling and teaching quality
+
+**Human moat:**
+
+- Real-time judgment in water safety supervision and emergency rescue
+- Psychological motivation and personalised communication with students
+- Live demonstration and manual correction of complex movements
+- Experience handling emergencies (e.g., student panic, drowning)
+- Customer service focused on building trust and long-term relationships
+
+**Skills to build:**
+
+- AI video analysis tools (e.g., Hudl, Dartfish)
+- Data analysis and student progress visualisation
+- Online teaching platforms and virtual course design
+- Basic programming (Python) for custom analysis scripts
+- Marketing and social media management (personal branding)
+- Sports science knowledge (biomechanics, physiology)
+
+**Key growth areas:**
+
+- Skilled Migrant Category
+- AEWV
+- Water Safety Promotion
+- Seasonal Work
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：困难（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于有认证雇主担保的游泳教练，需满足薪资要求（目前中位数工资约29.66纽元/小时）。不能直接转为居留，需另寻技术移民路径。 |
-| Subclass SMC（Skilled Migrant Category） | 游泳教练不属于技术移民认可的职业列表，仅有持有高薪或高学历者可能通过其他方式申请，但成功率低。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 游泳教练不在绿色清单中，无法通过此路径申请居留。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Applicable for swimming instructor positions with accredited employer sponsorship, meeting salary requirements and skill match. |
+| Subclass SMC (Skilled Migrant Category) | If salary meets median ($29.66/hr) with sufficient work experience, can apply via 6-point system, but must meet ANZSCO skill level requirement (usually level 4 or above). |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Swimming Coach or Instructor？**
-- 热爱水上运动和教学的人
-- 有耐心、善于与儿童沟通的人
-- 追求工作生活平衡、愿意适应季节性时间表的人
-
-**谁不适合学Swimming Coach or Instructor？**
-- 寻求快速技术移民路径的人
-- 对水安全不敏感、体力较弱的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love water sports, have an outgoing personality, patience, and teaching enthusiasm
+- Possess good swimming skills and lifeguarding experience, willing to continuously learn coaching techniques
+- Adapt to flexible scheduling (weekends, early shifts) and seasonal employment changes
+
+**Who is not suited**
+- Dislike children or beginners, lack patience for teaching
+- Reluctant to get certifications (e.g., first aid, lifeguarding)
+- People seeking stable high salary and fixed weekends off.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for swimming instructors in New Zealand?**
+A: Junior part-time swimming instructor hourly rate approx NZD 25-30, annual income approx NZD 35,000-45,000; mid-level full-time instructor can earn NZD 45,000-65,000; senior competitive coach or manager can earn NZD 65,000-90,000. Income affected by season and class volume.
+
+**Q: Can swimming instructors migrate to New Zealand under skilled migration?**
+A: Swimming coaches can apply for skilled migration (SMC) but need to pass a 6-point system, and the occupation must meet ANZSCO skill level (mostly level 4 or above), with salary at the median ($29.66/hr). This occupation is not on the Green List, making immigration moderately difficult.
+
+**Q: What are the career development paths for swimming instructors in New Zealand?**
+A: Can start as a part-time assistant instructor, accumulate experience, then advance to head coach, course director, or pool manager. Those with competitive training qualifications can enter clubs or professional teams. Some coaches become swim school founders or training assessors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 困难（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Swimming Coach or Instructor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for swimming coaches in New Zealand?**
-答：Entry-level salary ranges from NZD 45,000 to 55,000, mid-level NZD 55,000 to 70,000, and senior NZD 70,000 to 90,000. Part-time roles are common.
-
-**问：Can a swimming coach immigrate to New Zealand?**
-答：Swimming coach is not on the SMC or Green List. The main pathway is the AEWV. Immigration opportunities are limited; alternative routes like partner sponsorship or transitioning to management may be needed.
-
-**问：What certifications are required to become a swimming coach?**
-答：You need the Swimming New Zealand swim teacher certification, police vetting, and some employers require a lifeguard qualification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

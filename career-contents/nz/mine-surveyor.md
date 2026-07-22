@@ -1,59 +1,95 @@
-# Mine Surveyor（Mine Surveyor）职业分析 · 新西兰
+# Mine Surveyor — career analysis · New Zealand
 
-**职业代码：232612 – Mine Surveyor。**
+**Occupation code: 232612 (ANZSCO)**
 
-Mine Surveyors in New Zealand provide precise surface and underground measurements for mines, including blast calibration, progress surveys, and ore body modeling. This occupation is on the Green List Tier 1, enabling direct residence, and benefits from the Skilled Migrant Category 6-point system.
+Mine surveyors in New Zealand conduct precise surface and underground surveys, including blast marking, progress measurements, and ore body modeling. This occupation is on the Green List Tier 1, allowing direct residence applications, with a 6-point system advantage for skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$40,000（新西兰大学测量学或工程学学士，国际学生年学费约3-4万NZD） |
-| 研究生文凭 | 1年 | $35,000~$45,000（如奥塔哥大学测量学研究生文凭，适合跨专业申请） |
+| Bachelor's degree | 3 years | $30,000~$40,000 (Bachelor's degree in Surveying or Engineering from a New Zealand university, international student annual tuition approx. NZD 30,000-40,000) |
+| Graduate diploma | 1 year | $35,000~$45,000 (Such as the University of Otago Graduate Diploma in Surveying, suitable for cross-disciplinary applicants) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册测量师 | 新西兰测量师学会 (S+SNZ) | 必备 | 需完成认证学位+2年实践+专业考试，注册后可独立执业 |
-| 测量师牌照 | 新西兰土地信息局 (LINZ) | 可选 | 部分矿山测量工作需持有牌照，尤其涉及地表边界测量 |
-| 驾照 | 新西兰交通局 | 必备 | 矿山场地通常偏远，需有效驾照 |
+| New Zealand Registered Surveyor | Survey and Spatial New Zealand (S+SNZ) | Required | Must complete accredited degree + 2 years of practice + professional exam, can practice independently after registration |
+| Driver's license | New Zealand Transport Agency. | Required | Mine sites are often remote; valid driver's license required |
+| Surveyor license | Land Information New Zealand (LINZ) | Optional | Some mine surveying tasks require licenses, especially involving surface boundary measurement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 200。新西兰矿业持续发展，尤其是南岛金矿和北岛煤矿，矿山测量师需求稳定。技能短缺导致雇主积极招聘国际人才，未来五年就业前景良好，薪资高于普通测量师。
+**Job demand: high (★★★★☆).** National workforce approx. 200. New Zealand's mining industry continues to grow, especially gold mines in the South Island and coal mines in the North Island, with stable demand for mine surveyors. Skill shortages lead employers to actively recruit international talent, with good employment prospects over the next five years and salaries higher than average surveyors.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 应届毕业生或经验较少者 |
-| 中级（3-7年） | $85,000~$110,000 | 具备独立项目能力 |
-| 高级（7年以上） | $110,000~$150,000 | 主管或专家级 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Fresh graduates or those with little experience |
+| Mid-level (3–7 years) | $85,000~$110,000 | Has independent project capability |
+| Senior (7+ years) | $110,000~$150,000 | Supervisor or expert level |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★★☆）。** 初级矿山测量师可晋升为高级测量师、测量主管或矿山规划工程师。具备数据分析或无人机测量技能者，可转向数字化矿山管理岗位。注册资格和项目管理经验是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mine surveyors' core tasks of surveying, modeling, and blast marking will be deeply enhanced by AI and automation tools, but the hard constraint of legal liability and the unpredictability of underground on-site work mean the role will not disappear. Entry-level positions may narrow slightly due to lower technical barriers, but skilled surveyors will become more competitive.
+
+Junior mine surveyors can advance to senior surveyor, survey supervisor, or mine planning engineer. Those with skills in data analysis or drone surveying can transition to digital mine management roles. Registration and project management experience are key for advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatic target recognition and reading in conventional surface and underground control surveys
+- Automatic Registration and Classification of Point Cloud Data from UAVs and Vehicle-Mounted Scans
+- Automatic calculation of blast hole positioning and calibration map generation in blasting design
+- Automated report generation for periodic mining progress measurement
+- Statistical calculation and basic 3D modeling for ore grade estimation
+
+**Where AI augments the role:**
+
+- AI-driven multi-source data fusion (LiDAR, geological models, production data) enables real-time mine updates
+- AI-assisted blasting optimization suggestions to improve fragmentation and reduce vibration risk
+- Automated compliance report generation, reducing paperwork time to focus on anomaly analysis
+- Machine Learning-Based Settlement Monitoring and Early Warning for Collapse Risk Identification
+- AR/VR-assisted remote collaborative measuring to reduce personnel underground exposure time
+
+**Human moat:**
+
+- Legal signing responsibility (licensing) for measurement results
+- Fault diagnosis and emergency judgment in complex underground environments
+- On-site collaboration communication with mining engineers and blasters
+- Deep understanding of measurement standards and health & safety regulations
+- Adaptive operations in unstructured environments (e.g., ultra-deep, high-temperature, high-gas conditions)
+
+**Skills to build:**
+
+- UAV Photogrammetry and Point Cloud Processing (Pix4D, ContextCapture)
+- Automated data processing and report generation with Python or R
+- 3D geological modeling software (Vulcan, Surpac, Datamine)
+- GIS and spatial database management
+- Application of sensors and IoT devices (auto total stations, LiDAR)
+- Data visualization and dashboard development (Power BI, Tableau)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Mine Surveyors in New Zealand provide precise surface and underground measuremen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单Tier 1直接居留签证，需持有认证雇主工作offer且满足薪资中位数要求，无工作经验额外要求 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，新西兰注册测量师资格可获3分，硕士学历加3分，或工作经验加分，无需漫长等待 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡路径，积累经验后申请居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 Direct Residence visa; requires a job offer from an accredited employer meeting median wage requirements, no additional work experience needed |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration; NZ registered surveyor qualification earns 3 points, plus 3 for master's degree or work experience, without long wait. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional path, gaining experience then apply for residency |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mine Surveyor？**
-- 具备测量学、地质学或工程学背景者
-- 适应户外工作和偏远矿山环境
-- 希望快速获得新西兰居留身份的技术人才
-
-**谁不适合学Mine Surveyor？**
-- 不喜欢物理劳动和恶劣天气者
-- 无法适应偏远地区工作和轮班制
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in surveying, geology, or engineering preferred
+- Adapt to outdoor work and remote mining environments
+- Skilled professionals wishing to quickly obtain New Zealand residency
+
+**Who is not suited**
+- Those who dislike physical labor and bad weather
+- Unable to adapt to remote area work and shift work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of mine surveyors in New Zealand?**
+A: Entry-level approx. NZD 65,000–85,000, mid-level NZD 85,000–110,000, senior NZD 110,000–150,000, well above average surveyor and increases with experience.
+
+**Q: Is it easy for mine surveyors to immigrate to New Zealand?**
+A: Easy. On Green List Tier 1, can directly apply for residence; under Skilled Migrant Category 6-point system, registration and qualifications earn high points, no waiting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 积极（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Mine Surveyor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Mine Surveyors in New Zealand?**
-答：Entry-level: NZD 65,000-85,000; mid-level: NZD 85,000-110,000; senior: NZD 110,000-150,000, significantly higher than general surveyors.
-
-**问：Is it easy for Mine Surveyors to migrate to New Zealand?**
-答：Yes. It's on Green List Tier 1 for direct residence; under the 6-point SMC system, registration and qualifications can achieve high points without delay.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

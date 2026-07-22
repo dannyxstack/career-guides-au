@@ -1,60 +1,96 @@
-# Midwife（Midwife）职业分析 · DE
+# Midwife — career analysis · Germany
 
-**职业代码：8135 – Midwife。**
+**Occupation code: 8135 (KldB)**
 
-Midwives provide prenatal, childbirth, and postnatal care, including examinations, delivery assistance, newborn care, and breastfeeding support. In Germany, the profession is strictly regulated by state law.
+Midwives provide care during pregnancy, childbirth, and postpartum, including prenatal checks, delivery, newborn care, and breastfeeding guidance. In Germany, this occupation is strictly regulated by state law and is a protected job title.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（公立职业学校通常免学费，仅需教材和杂费。） |
-| 本科（Bachelor） | 3-4年 | —（公立大学本科通常免学费，每学期仅交注册费。） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Public vocational schools are typically tuition-free, only requiring fees for textbooks and materials.) |
+| Bachelor's degree | 3-4 years | $0~$1,500 (Public university undergraduate programs are usually tuition-free, with only registration fees per semester.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 助产士执业许可证（Hebammenerlaubnis） | 各州卫生局 | 必备 | 必须完成国家认可的培训并通过州考试，方可获得。 |
-| 资质认证（Anerkennung） | 德国联邦卫生部或各州主管部门 | 必备 | 外国学历需通过资质认证程序，包括语言考试（B2/C1）和专业知识考试。 |
+| Midwife Practice License (Hebammenerlaubnis) | State health departments | Required | It must be obtained by completing nationally recognised training and passing the state exam. |
+| Qualification recognition (Anerkennung) | German Federal Ministry of Health or relevant state authorities | Required | Foreign qualifications require a credential assessment process, including language tests (B2/C1) and professional knowledge exams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 23,000。德国助产士长期紧缺，尤其在农村和东部地区。人口老龄化和生育率稳定导致需求持续增长。联邦政府已推出多项措施增加培训名额和改善工作条件。
+**Job demand: very high (★★★★½).** National workforce approx. 23,000. There is a long-term shortage of midwives in Germany, especially in rural and eastern regions. Aging population and stable birth rates lead to sustained demand. The federal government has introduced several measures to increase training positions and improve working conditions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 公立医院全职，税前年薪，按TVöD-P或AKV标准。 |
-| 中级（4-9年） | $40,000~$50,000 | 含职业经历津贴和夜班/周末补贴。 |
-| 高级（10年以上/管理岗） | $50,000~$65,000 | 含主管津贴或自主执业收入。 |
+| Median salary | $52,272 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Full-time at public hospitals, pre-tax salary, according to TVöD-P or AKV standards. |
+| Intermediate (4-9 years) | $40,000~$50,000 | Including career experience allowance and night shift/weekend allowances. |
+| Senior (10+ years/management) | $50,000~$65,000 | Including supervisor allowances or income from self-employment. |
+| average salary | $53,532 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径：从临床助产士可晋升为高级助产士、科室主管或教学助产士。也可自主开设助产诊所或转为学术研究/讲师岗位。部分人进入健康管理或政策领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
+
+Career development path: can advance from clinical midwife to senior midwife, department head, or teaching midwife. Can also open an independent midwifery clinic or transition to academic research/lecturer roles. Some enter health management or policy fields.
+
+**Tasks most exposed to AI:**
+
+- Automatic entry and organization of routine prenatal electronic records
+- Guideline-based routine pregnancy risk assessment report generation
+- Automatic Analysis of Birth Monitoring Data and Anomaly Alerts
+- AI voice automated outbound calls and basic screening for postpartum follow-up
+- Automatic Filling and Coding of Standardized Descriptions in Medical Records
+
+**Where AI augments the role:**
+
+- AI assisted fetal monitoring interpretation to improve anomaly recognition accuracy
+- AI-assisted measurement and preliminary diagnosis of prenatal ultrasound images
+- AI recommendation for personalized birth plans based on historical data
+- AI-driven continuous obstetric education simulation training and skill assessment
+- Real-time AI translation and information integration in telemedicine consultations
+
+**Human moat:**
+
+- Manual assistance maneuvers and emergency judgment in complex deliveries
+- Emotional communication, psychological comfort, and education with mothers and families
+- Clinical Leadership and Decision-Making in Cross-Disciplinary Team Collaboration
+- Rapid clinical reasoning in unpredictable obstetric emergencies
+- Sensitive understanding of maternal cultural background and personal preferences
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools in obstetrics (e.g., smart monitors)
+- Clinical data analysis and information system management
+- Telehealth consultation and digital health education skills
+- Interventional prenatal examination techniques (e.g., ultrasound-guided)
+- Cross-cultural communication and psychological support skills
+- Simulation training for maternal and infant emergencies and team collaboration
+
+**Key growth areas:**
 
 - High demand
 - Aging population
@@ -63,66 +99,65 @@ Midwives provide prenatal, childbirth, and postnatal care, including examination
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于具备本科或以上学历的助产士，年薪门槛通常较低（因紧缺职业），可快速获得永居。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于完成德国职业培训或资质认证的助产士，需获得雇主合同。 |
-| Subclass Recognition（Recognition of Foreign Qualifications） | 必须先申请助产士资质认证，通过后方可从事该职业。认证期间可持求职签证入境。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to midwives with a bachelor's degree or higher; the salary threshold is usually lower (due to occupation shortage), allowing fast permanent residency. |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to midwives who have completed German vocational training or obtained qualification recognition, and need an employment contract. |
+| Subclass Recognition (Recognition of Foreign Qualifications) | Must first apply for midwifery qualification certification before engaging in the profession. During the certification period, you can enter the country with a job-seeking visa. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Midwife？**
-- 喜欢与人打交道，具备同理心和沟通能力的人
-- 能承受轮班、夜班和高强度工作压力的人
-- 追求职业稳定性和社会贡献感的人
-
-**谁不适合学Midwife？**
-- 不擅长应对紧急情况和突发压力的人
-- 无法适应灵活排班和体力要求的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who enjoys interacting with people and has empathy and communication skills
+- People who can handle shifts, night shifts, and high-intensity work
+- People seeking career stability and a sense of social contribution
+
+**Who is not suited**
+- Those not good at handling emergency situations and acute stress.
+- People unable to adapt to flexible shifts and physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for midwives in Germany?**
+A: Annual full-time pre-tax salary in public hospitals is approximately €32,000-65,000; self-employed income can be higher. Salary varies with experience, region, and work mode.
+
+**Q: How can foreign midwives immigrate to Germany?**
+A: Need to first obtain qualification recognition (Anerkennung), then get a job contract to apply for EU Blue Card or skilled migration visa. Recognition requires German B2/C1.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Midwife为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a midwife in Germany?**
-答：Gross annual salary at public hospitals ranges from EUR 32,000 to 65,000; self-employed midwives can earn more. Salary depends on experience, location, and employment type.
-
-**问：How can a foreign midwife immigrate to Germany?**
-答：First, obtain recognition of qualifications (Anerkennung), then secure a job offer to apply for EU Blue Card or skilled immigration visa. German at B2/C1 level is required.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

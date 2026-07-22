@@ -1,60 +1,94 @@
-# Horticultural trades（Horticultural trades）职业分析 · UK
+# Horticultural trades — career analysis · United Kingdom
 
-**职业代码：5112 – Horticultural trades。**
+**Occupation code: 5112 (SOC)**
 
-Horticultural trades workers intensively cultivate vegetables, plants, fruit, shrubs, trees and flowers in greenhouses, market gardens, nurseries and orchards.
+Horticultural workers engage in intensive cultivation of vegetables, plants, fruits, shrubs, trees, and flowers in greenhouses, market gardens, nurseries, and orchards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中 | 2年 | —（义务教育） |
-| 学徒制 | 2-4年 | —（带薪培训） |
-| 专科文凭 | 1-2年 | $5,000~$10,000（部分课程有资助） |
+| High school | 2 years | $0~$0 (Compulsory education) |
+| Apprenticeship | 2-4 years | $0~$0 (paid training) |
+| Diploma | 1-2 years | $5,000~$10,000 (Some courses are subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺或相关学科高级文凭 | 大学或继续教育学院 | 可选 | 非必需，但有助于晋升 |
-| 英国园艺协会会员资格 | 英国园艺协会 | 可选 | 专业认证 |
-| 农药使用证书 | 国家认证机构 | 必备 | 使用农药时需持有 |
+| Pesticide use certificate | National accreditation body | Required | Must hold when using pesticides |
+| Advanced diploma in horticulture or related discipline | University or further education college | Optional | Not mandatory, but beneficial for promotion |
+| Membership of the Royal Horticultural Society (UK). | Royal Horticultural Society | Optional | Professional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。英国园艺行业面临劳动力短缺，尤其是季节性工人需求大。随着可持续农业和本地食品需求增长，预计就业机会稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The UK horticulture industry faces labor shortages, especially for seasonal workers. With growing demand for sustainable agriculture and local food, employment opportunities are expected to remain stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 入门薪资 |
-| 中级（3-7年） | $25,000~$35,000 | 有经验 |
-| 高级（7年以上） | $35,000~$50,000 | 管理或专业园艺师 |
+| Median salary | $27,262 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Entry-level salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Experienced |
+| Senior (7+ years) | $35,000~$50,000 | Management or professional horticulturist |
+| average salary | $27,439 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级工人可晋升为高级园艺师、团队主管或苗圃经理，也可专攻有机种植、植物病理或景观设计。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
+
+Junior workers can advance to senior horticulturists, team supervisors, or nursery managers, or specialize in organic cultivation, plant pathology, or landscape design.
+
+**Tasks most exposed to AI:**
+
+- Routine crop health monitoring and data collection via drones and remote sensing
+- Generate standardized planting and fertilization plans based on historical data and models
+- Scheduling and adjustment of automated irrigation systems
+- Standard Pest and Disease Identification and Basic Control Recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyse multi-source data such as soil sensors and satellite imagery to optimise irrigation and fertilisation decisions
+- Using predictive models to provide early warning of pests, diseases, and weather risks, and formulate precise intervention plans
+- Using intelligent decision support systems to simulate different planting strategies, improving yield and sustainability
+- Crop growth full-cycle simulation and management using digital twin technology
+
+**Human moat:**
+
+- Hands-on Operations like On-site Soil Sampling, Equipment Repair, and Emergency Response
+- Interpersonal communication and collaboration with farmers, local governments, and research institutions
+- Strategic planting planning integrating multiple factors (market, regulations, ecology)
+- Flexible judgment and problem-solving for non-standard, sudden farm issues
+- Sustainable agriculture, organic certification, etc., requiring expert manual review for professional judgment
+
+**Skills to build:**
+
+- Precision agriculture technology (drone operation, GPS navigation, variable rate fertilization)
+- Agricultural data analysis and visualization (Python/R, GIS)
+- Smart irrigation and IoT platform management
+- Agricultural AI tools (crop models, prediction algorithms)
+- Sustainable agriculture practices and carbon accounting
+- Project management and farm advisory communication skills
+
+**Key growth areas:**
 
 - Sustainable Agriculture
 - Local Food
@@ -63,68 +97,67 @@ Horticultural trades workers intensively cultivate vegetables, plants, fruit, sh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的园艺行业工人，需满足薪资要求（通常年薪至少 £26,200 或行业标准）。 |
-| Subclass Seasonal Worker（Seasonal Worker visa） | 适用于临时季节性园艺工作，通常为期6个月，无需雇主担保。 |
-| Subclass Graduate（Graduate visa） | 适用于英国高校毕业生，可留在英国工作2年（博士3年），积累经验后转换工作签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | For horticulture workers eligible for employer-sponsored visas, must meet salary requirements (usually at least £26,200 per year or industry standard). |
+| Subclass Seasonal Worker (Seasonal Worker visa) | For temporary seasonal gardening work, usually 6 months, no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | Applicable to UK university graduates, allowing them to stay and work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Horticultural trades？**
-- 喜爱户外工作的人
-- 注重细节和动手能力的人
-- 对植物和自然有热情的人
-
-**谁不适合学Horticultural trades？**
-- 不喜欢体力劳动的人
-- 无法应对季节性和不规律工作节奏的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work
+- People who are detail-oriented and hands-on
+- People with a passion for plants and nature.
+
+**Who is not suited**
+- People who dislike physical labor.
+- People who cannot handle seasonal and irregular work rhythms
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for horticultural workers?**
+A: Junior workers earn approx. £18,000-£25,000 per year, while senior gardeners or managers can reach £35,000-£50,000. Salaries vary by location, experience, and employer.
+
+**Q: Are there immigration pathways for horticultural workers?**
+A: You can apply for a Skilled Worker visa or Seasonal Worker visa. The Skilled Worker visa requires employer sponsorship and meeting salary requirements, while the Seasonal Worker visa is suitable for temporary work.
+
+**Q: What training is needed to become a horticulturist?**
+A: Usually enter through apprenticeships or vocational courses, such as BTEC or City & Guilds horticulture certificates. Advanced roles may require a diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Horticultural trades的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for horticultural trades workers?**
-答：Entry-level salaries range from £18,000 to £25,000 per year, while senior horticulturists or managers can earn £35,000 to £50,000. Salaries vary by location, experience, and employer.
-
-**问：Are there migration routes for horticultural trades workers?**
-答：Yes, they can apply for a Skilled Worker visa (requires employer sponsorship and meeting salary thresholds) or a Seasonal Worker visa (for temporary seasonal work).
-
-**问：What training is required to become a horticultural trades worker?**
-答：Usually through apprenticeships or vocational courses such as BTEC or City & Guilds certificates in horticulture. Advanced roles may require a diploma.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

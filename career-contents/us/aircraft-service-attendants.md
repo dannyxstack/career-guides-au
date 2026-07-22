@@ -1,61 +1,97 @@
-# Aircraft Service Attendants（Aircraft Service Attendants）职业分析 · 美国
+# Aircraft Service Attendants — career analysis · United States
 
-**职业代码：53-6032 – Aircraft Service Attendants。**
+**Occupation code: 53-6032 (SOC)**
 
-Service aircraft with fuel, de-ice, refill water and cooling agents, empty sewage tanks, service air and oxygen systems, and clean or polish exterior to ensure flight readiness.
+Responsible for refueling aircraft, de-icing, replenishing water and coolant, cleaning waste tanks, maintaining air and oxygen systems, and cleaning/polishing aircraft exteriors to ensure flight readiness.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 职业培训/证书 | 6个月 | $2,000~$8,000（社区学院或航空技术学校） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| Vocational training/certificate | 6 months. | $2,000~$8,000 (Community college or aviation technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高压加油操作培训 | 雇主或航空培训中心 | 必备 | 通常入职后提供 |
-| 危险品操作认证 | FAA或等效机构 | 必备 | 处理燃油和化学品必需 |
-| 商业驾驶执照（CDL） | 州DMV | 可选 | 若需驾驶加油车，部分雇主要求 |
+| High-pressure refueling operation training | Employer or aviation training center | Required | Usually provided upon employment |
+| Hazardous Materials Handling Certification | FAA or equivalent | Required | Required for handling fuel and chemicals |
+| Commercial Driver's License (CDL) | State DMV | Optional | Some employers require a driver's license if driving a fuel truck. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 16,500。美国航空运输业稳步增长，带动飞机服务岗位需求；预计2023-2033年就业增长约8%，与行业平均水平持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 16,500. Steady growth in US air transport industry drives demand for aircraft service roles; projected employment growth of about 8% from 2023-2033, on par with industry average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起薪约$15/小时 |
-| 中级（3-7年） | $35,000~$45,000 | 含加班可达$45,000 |
-| 高级（7年以上） | $45,000~$55,000 | 主管级或高技能岗位 |
+| Median salary | $40,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary about $15/hour |
+| Mid-level (3–7 years) | $35,000~$45,000 | Up to $45,000 including overtime |
+| Senior (7+ years) | $45,000~$55,000 | Supervisory or high-skill positions |
+| average salary | $43,330 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 入门级岗位积累经验后可晋升为高级技师或团队主管；部分转向航空维修或地勤管理，需额外考证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers rely heavily on physical inspections, manual repairs, and on-site decisions; AI is difficult to fully replace but will take over tasks like documentation, preliminary fault diagnosis, and predictive maintenance planning, making the overall risk moderately low.
+
+After gaining experience in entry-level roles, can advance to senior technician or team supervisor; some transition to aviation maintenance or ground management, requiring additional certification.
+
+**Tasks most exposed to AI:**
+
+- automatically generates maintenance work cards and compliance reports
+- Preliminary fault diagnosis (via AI analysis of flight data)
+- Predictive maintenance scheduling (based on sensor data)
+- Parts inventory management and automatic ordering
+- Flight and maintenance history data entry
+
+**Where AI augments the role:**
+
+- Enhances fault location accuracy (AI-assisted analysis of instrument data).
+- Optimize maintenance plan suggestions (based on historical case library)
+- Virtual reality-assisted training (for new aircraft and complex systems)
+- Real-time monitoring of aircraft health status (predicting component lifespan)
+- automatically generates maintenance work cards and compliance reports
+
+**Human moat:**
+
+- Physical maintenance and operation (disassembly, installation, commissioning)
+- Unstructured troubleshooting (on-site flexible response to anomalies)
+- Safety responsibility and regulatory compliance judgment
+- On-site communication and coordination with crew and ground staff
+- Hands-on learning ability for new aircraft systems
+
+**Skills to build:**
+
+- Learn to use aircraft diagnostic AI platforms (e.g., Airbus Skywise)
+- Master data analysis basics (Python/SQL for data maintenance)
+- Obtain certification for drone or electric aircraft maintenance.
+- Enhance automated tool operation skills (e.g., 3D printing for parts repair)
+- Reinforced composite and advanced materials repair techniques.
+- Learn cybersecurity basics (for airborne system threats)
+
+**Key growth areas:**
 
 - Air Travel Growth
 - Fleet Expansion
@@ -64,65 +100,67 @@ Service aircraft with fuel, de-ice, refill water and cooling agents, empty sewag
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用；该职业不属专业职业 |
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 季节性雇主可能申请，但配额紧张 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable; this occupation is not a professional occupation |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Seasonal employers may apply, but quotas are tight |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aircraft Service Attendants？**
-- 喜欢户外和体力工作
-- 注重安全规范
-- 愿意倒班和周末工作
+**Who is suited**
+- Likes outdoor and physical work
+- Focus on safety regulations.
+- Willing to work shifts and weekends
 
-**谁不适合学Aircraft Service Attendants？**
-- 不愿接触燃油或化学品
-- 追求高薪和职业晋升
+**Who is not suited**
+- Unwilling to handle fuel or chemicals
+- Pursuing high salary and career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for aircraft service technicians?**
+A: Entry-level annual income about $28,000-$35,000, senior up to $55,000, overtime can increase earnings.
+
+**Q: Are there skilled migration pathways for this occupation?**
+A: Basically none. This occupation is not a professional field, H-1B does not apply, H-2B quota is limited and not a permanent residency path.
+
+**Q: How to improve career prospects?**
+A: Obtaining an aircraft maintenance certificate or transitioning to an aircraft mechanic can significantly increase income and stability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Aircraft Service Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Aircraft Service Attendants?**
-答：Entry-level earns $28,000-$35,000; experienced up to $55,000 with overtime.
-
-**问：Are there immigration pathways for this occupation?**
-答：No. Not a specialty occupation; H-2B is limited and not a permanent route.
-
-**问：How to advance career?**
-答：Obtain A&P mechanic certification to transition to aircraft mechanic roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

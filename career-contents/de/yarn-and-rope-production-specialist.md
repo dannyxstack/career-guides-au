@@ -1,62 +1,98 @@
-# Yarn and Rope Production Specialist（Yarn and Rope Production Specialist）职业分析 · DE
+# Yarn and Rope Production Specialist — career analysis · Germany
 
-**职业代码：2813 – Yarn and Rope Production Specialist。**
+**Occupation code: 2813 (KldB)**
 
-Operates spinning, twisting, and winding machinery to process fibers into yarn, twine, or rope, ensuring product quality and production efficiency.
+Responsible for processing fibers into yarn, cable, or rope; operating spinning, twisting, and winding machinery to ensure product quality meets standards.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（双元制培训期间有津贴，学费极低） |
-| 中级技术学校 | 2年 | $2,000~$8,000（部分州免学费，仅收注册费） |
-| 本科（纺织工程） | 3-4年 | $500~$1,500（公立大学基本免学费，仅收学期费） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$500 (Dual vocational training provides an allowance with very low tuition fees) |
+| Intermediate technical school | 2 years | $2,000~$8,000 (Tuition-free in some states, only registration fees apply) |
+| Bachelor's degree (Textile Engineering) | 3-4 years | $500~$1,500 (Public universities are basically tuition-free, only a semester fee is charged.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织技术员资质（Annerkennung） | 德国联邦劳工局/行业协会 | 可选 | 第三国学历需通过德语B1及专业考试 |
-| 双元制职业培训证书 | 工商业行会（IHK） | 必备 | 完成3年培训并结业考试 |
-| 职业安全培训 | 德国法定事故保险机构 | 必备 | 基本安全认证 |
+| Dual vocational training certificate. | Chamber of Industry and Commerce (IHK) | Required | Complete 3 years of training and final exam |
+| Occupational safety training | German statutory accident insurance institution | Required | Basic safety certification |
+| Textile technician qualification (Annerkennung) | German Federal Employment Agency / Industry associations | Optional | Qualifications from third countries require German B1 and professional exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。德国纺织业持续向高技术、特种材料转型，但基础纱线制造岗位需求稳定，自动化可能减少低技能岗位，总体就业前景稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The German textile industry is continuously transitioning to high-tech and specialty materials, but demand for basic yarn manufacturing positions is stable; automation may reduce low-skilled jobs, overall employment outlook stable.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含津贴 |
-| 中级（4-7年） | $32,000~$40,000 | 税前年薪，含加班 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪，含班组长津贴 |
+| Median salary | $36,264 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, including allowances |
+| Mid-level (4-7 years) | $32,000~$40,000 | Annual pre-tax salary, including overtime |
+| Senior (8+ years) | $40,000~$50,000 | Annual pre-tax salary including team leader allowance |
+| average salary | $39,492 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 职业路径：从操作员晋升为技术员、班组长，或通过进修成为纺织品质量工程师、生产主管。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Yarn and rope manufacturing workers face moderate automation risk, but AI is more of an assistive tool than complete replacement. Repetitive tasks are easily automated, but process adjustments and quality control still require human judgment.
+
+Career path: progress from operator to technician, team leader, or through further study become textile quality engineer or production supervisor.
+
+**Tasks most exposed to AI:**
+
+- Visual appearance inspection in yarn quality testing
+- Setting and adjustment of standard production parameters
+- Simple fault alarm response and restart
+- Recording and basic statistics of production data
+- Routine daily cleaning and maintenance of equipment
+
+**Where AI augments the role:**
+
+- Uses AI vision system for real-time monitoring of yarn evenness and defects.
+- Predict equipment failures and optimize maintenance cycles using sensor data
+- Using digital twins to simulate spinning effects with different raw material ratios
+- Automatically adjusts twist and tension parameters based on order requirements.
+- Optimize scrap rate during batch changeovers by leveraging historical data
+
+**Human moat:**
+
+- Experience in troubleshooting abnormal breakages, fiber tangling, and other sudden issues
+- Feel for adjusting special fibers (e.g., high-performance composite materials)
+- Process design and small-batch trials for customised products
+- Overall efficiency optimization for multi-device coordination
+- Implementation of safety regulations and orderly workplace management
+
+**Skills to build:**
+
+- Industrial Internet of Things and sensor data interpretation
+- Basic Programming for PLC and Automation Systems
+- Operation of AI-assisted quality analysis software (e.g., visual inspection systems)
+- Lean production and continuous improvement methods
+- Composite materials process knowledge
+- Use of fault diagnosis and remote assistance tools
+
+**Key growth areas:**
 
 - Textile machinery
 - Specialty fibers
@@ -65,66 +101,68 @@ Operates spinning, twisting, and winding machinery to process fibers into yarn, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 需德国认可的职业教育学历，德语B1，雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国求职一年，需语言A2及职业资格 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用，因非 academic 职业，但若薪资达门槛可尝试 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Requires a vocational education qualification recognized by Germany, German B1, employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking in Germany for up to one year, requiring language level A2 and vocational qualifications |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable as it is a non-academic occupation, but may be attempted if salary threshold is met |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Yarn and Rope Production Specialist？**
-- 喜欢机械操作和动手工作的人
-- 注重生产质量和细节的人
-- 愿意接受双元制培训的年轻人
+**Who is suited**
+- People who enjoy mechanical operations and hands-on work
+- Someone who focuses on production quality and detail
+- Young people willing to undergo dual-system training
 
-**谁不适合学Yarn and Rope Production Specialist？**
-- 追求高薪和快速发展的人
-- 对重复性工作敏感的人
+**Who is not suited**
+- Those pursuing high salary and rapid development
+- People sensitive to repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for this occupation?**
+A: Average gross annual salary for German yarn manufacturing workers is about €30,000-40,000, senior up to €50,000.
+
+**Q: How can foreigners immigrate to Germany to work in this occupation?**
+A: Need a recognized German vocational qualification (through dual system or credential assessment), German B1 or above, and employer sponsorship.
+
+**Q: Is a university degree required?**
+A: Not required; typically entry is through 3-year dual vocational training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Yarn and Rope Production Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary?**
-答：The average gross annual salary in Germany is around EUR 30,000-40,000, up to EUR 50,000 for senior positions.
-
-**问：How can foreigners immigrate for this job?**
-答：Requires a recognized vocational qualification (via dual training or credential evaluation), German B1+, and employer sponsorship.
-
-**问：Is a university degree required?**
-答：No, a 3-year dual vocational training is the standard entry path.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

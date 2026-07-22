@@ -1,59 +1,92 @@
-# Careers advisers and vocational guidance specialists（Careers advisers and vocational guidance specialists）职业分析 · UK
+# Careers advisers and vocational guidance specialists — career analysis · United Kingdom
 
-**职业代码：3572 – Careers advisers and vocational guidance specialists。**
+**Occupation code: 3572 (SOC)**
 
-Offer career guidance and vocational advice to individuals, helping them make informed decisions about their career paths and employment opportunities.
+Provides career planning advice to help students and job seekers choose career paths and assist with employment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（国际学生学费） |
-| 硕士（相关专业） | 1年 | $15,000~$30,000（国际学生学费） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (International student tuition) |
+| Master's degree (relevant field) | 1 year | $15,000~$30,000 (International student tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业指导研究生文凭 | CDI（职业发展研究所） | 必备 | 认可的资格，部分职位要求 |
-| 心理学或相关学科学位 | 大学 | 可选 | 常见入门要求 |
-| 注册职业发展从业者 | CDI | 可选 | 专业注册，增强就业竞争力 |
+| Graduate Diploma in Career Development | CDI (Career Development Institute) | Required | Recognized qualifications; some positions require specific credentials. |
+| Degree in psychology or related discipline | University | Optional | Common Entry Requirements |
+| Registered career development practitioner. | CDI | Optional | Professional registration enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。英国就业服务需求稳定，受政府就业政策和教育改革推动，预计未来几年就业机会保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for employment services in the UK is stable, driven by government employment policies and education reforms; job opportunities are expected to remain steady in the coming years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 入门级薪资 |
-| 中级（3-7年） | $26,000~$35,000 | 有经验职业顾问 |
-| 高级（7年以上） | $35,000~$50,000 | 高级顾问或管理岗 |
+| Median salary | $32,418 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Entry-level salary |
+| Mid-level (3–7 years) | $26,000~$35,000 | Experienced career advisor |
+| Senior (7+ years) | $35,000~$50,000 | Senior Consultant or Management Role |
+| average salary | $37,472 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理职业顾问晋升为高级顾问、团队负责人或项目经理，部分人员转向人力资源或教育培训领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Career advisors' time-consuming information gathering and initial matching can be replaced by AI, but deep one-on-one consulting, emotional support, and personalized strategy design still require human experts, so the role is a mixed blessing.
+
+Can progress from assistant career consultant to senior consultant, team leader or project manager; some move into HR or education/training
+
+**Tasks most exposed to AI:**
+
+- Collect and organize publicly available information on career prospects, salary data, etc.
+- Quickly match job vacancies based on resume keywords
+- Generate standardised cover letter or interview question templates
+- Preliminary screening and categorisation of job seeker profiles
+
+**Where AI augments the role:**
+
+- Using AI analysis tools to identify labor market trends and skill gaps
+- Preliminary consultation booking and FAQ handling through chatbots
+- Using AI interview simulation systems to help job seekers practice
+- Personalize career development paths with big data platforms
+
+**Human moat:**
+
+- Deep empathy and trust relationship building
+- Ethical and legal responsibilities in complex career decisions
+- Personalized one-on-one guidance for unstructured, long-term career planning
+- Precise advice combining corporate culture and industry tacit knowledge
+
+**Skills to build:**
+
+- Use of AI tools (e.g., labor market analysis platforms, chatbot setup)
+- Psychological counseling and coaching techniques (e.g., motivational interviewing)
+- Data analysis and visualization.
+- Cross-industry knowledge accumulation and career network building
+- Digital content creation (e.g., career guidance videos/AI courseware).
+- Critical thinking and ethical judgment
+
+**Key growth areas:**
 
 - career guidance
 - skills development
@@ -62,68 +95,67 @@ Offer career guidance and vocational advice to individuals, helping them make in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 可担保，满足薪资和技能要求，职业在合格职业列表中 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme） | 18-30岁特定国家公民可申请，允许工作两年 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请，留英工作两年（博士三年） |
+| Subclass Skilled Worker (Skilled Worker Visa) | Sponsorship available, meeting salary and skills requirements, occupation on eligible list |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme) | Citizens of specific countries aged 18-30 can apply, allowing work for two years |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply, allowing two years of work in the UK (three years for PhD) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Careers advisers and vocational guidance specialists？**
-- 善于倾听和沟通，对帮助他人有热情
-- 具备良好的人际交往和组织能力
-- 对劳动力市场和职业发展有兴趣
-
-**谁不适合学Careers advisers and vocational guidance specialists？**
-- 缺乏耐心和同理心的人
-- 不喜欢与人打交道、偏向独立工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at listening and communicating, passionate about helping others
+- Possesses good interpersonal and organizational skills
+- Interested in labor market and career development
+
+**Who is not suited**
+- Those lacking patience and empathy
+- Dislikes dealing with people; prefers independent work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a career advisor?**
+A: Entry-level approx £20,000-£26,000, mid-level £26,000-£35,000, senior £35,000-£50,000.
+
+**Q: Can career advisors apply for skilled worker visas?**
+A: Yes, this occupation is on the eligible occupations list and can lead to immigration via a Skilled Worker visa.
+
+**Q: What certifications do you need to become a career counsellor?**
+A: Typically requires a Postgraduate Diploma in Career Guidance (CDI certification); some positions accept a relevant degree plus experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Careers advisers and vocational guidance specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for careers advisers?**
-答：Entry-level: £20,000-£26,000; Intermediate: £26,000-£35,000; Senior: £35,000-£50,000.
-
-**问：Can careers advisers apply for a Skilled Worker visa?**
-答：Yes, the occupation is eligible for the Skilled Worker visa, subject to meeting salary and skill requirements.
-
-**问：What qualifications are needed to become a careers adviser?**
-答：Typically a postgraduate diploma in career guidance (CDI accredited), sometimes a relevant degree with experience.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

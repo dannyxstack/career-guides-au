@@ -1,59 +1,94 @@
-# Roofer（Roofer）职业分析 · IE
+# Roofer — career analysis · Ireland
 
-**职业代码：7121 – Roofer。**
+**Occupation code: 7121 (ISCO08)**
 
-Roofers install, repair, and replace roofs on buildings using materials like tiles, metal sheets, and asphalt. The job is physically demanding and involves working at heights.
+Roofers install, repair, and replace building roofs, covering materials such as tiles, metal sheets, and asphalt. The work is physically demanding and requires working at heights.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（学徒期间有工资，培训费低） |
-| 短期课程 | 6个月 | $2,000~$5,000（职业培训中心提供） |
+| Apprenticeship | 4 years | $0~$1,000 (Paid during apprenticeship, low training costs) |
+| Short-term courses | 6 months. | $2,000~$5,000 (Provided by vocational training centres) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 屋顶工资格证书 | SOLAS | 必备 | 完成学徒制后获得 |
-| 安全资格证书 | Safe Pass | 必备 | 建筑工地必备 |
-| 高空作业培训 | FETAC/QQI | 可选 | 推荐，提升就业竞争力 |
+| Roof plumbing certificate | SOLAS | Required | Obtained after completing an apprenticeship |
+| Safety qualification certificate. | Safe Pass | Required | Essential for construction sites |
+| High-altitude work training | FETAC/QQI | Optional | Recommended to enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰建筑业持续增长，住房需求旺盛，屋顶工需求稳定。但受经济周期影响，就业机会随项目波动。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Ireland's construction industry continues to grow, with strong housing demand and steady demand for roofers. However, job opportunities fluctuate with economic cycles and projects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，自营者更高 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Higher pre-tax annual salary for self-employed |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 学徒后可晋升为工头或项目经理，部分经验丰富的屋顶工自营创业。持续培训可掌握绿色屋顶等新技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
+
+After apprenticeship, can advance to foreman or project manager; some experienced roofers start their own businesses. Ongoing training can lead to new technologies like green roofs.
+
+**Tasks most exposed to AI:**
+
+- Roof area measurement and material quantity calculation (AI vision + drone)
+- Automated cutting and positioning of standard roof panels or tiles (robot-assisted)
+- Initial roof condition inspection report generation (AI image recognition)
+- Security monitoring and compliance documentation (AI-automated recording)
+
+**Where AI augments the role:**
+
+- Drone roof inspection and thermal imaging (AI-assisted leak detection)
+- AR (Augmented Reality) overlays installation guides, reducing blueprint reading errors.
+- AI optimizes material cutting layouts to reduce waste
+- Real-time weather and project timeline prediction to assist work scheduling
+- Digital twin model simulates roof waterproofing layer performance
+
+**Human moat:**
+
+- Custom installation of complex roof structures (spires, curves, historic buildings)
+- Waterproofing detail work and manual tasks (e.g., shingle overlapping, sealant application)
+- On-site problem assessment (e.g., damage extent, hidden structures)
+- Direct communication with clients and on-site decision-making
+- Safety Awareness and Emergency Response for Working at Heights
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- BIM (Building Information Modeling) fundamentals and digital tools
+- Solar roof installation and waterproofing integration
+- Basic data analysis (material optimization, cost estimation)
+- Green roof (vegetated roof) construction techniques
+- Safety regulations and use of smart equipment for high-altitude operations.
+
+**Key growth areas:**
 
 - Construction boom
 - Housing demand
@@ -62,68 +97,67 @@ Roofers install, repair, and replace roofs on buildings using materials like til
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 屋顶工不在紧缺职业列表，通常不适用。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职业，屋顶工不符合要求。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, with an annual salary of no less than 30,000 euros. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Roofer is not on the skilled occupation list, so it typically does not apply. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled occupations; roofers do not qualify. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roofer？**
-- 体力好、不恐高，喜欢户外工作
-- 动手能力强，注重安全
-- 愿意通过学徒制积累经验
-
-**谁不适合学Roofer？**
-- 不适于高空或恶劣天气工作
-- 不喜欢重复性体力劳动
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, no fear of heights, enjoys outdoor work
+- Hands-on skills, safety-conscious
+- Willing to gain experience through an apprenticeship.
+
+**Who is not suited**
+- Not suitable for work at heights or in harsh weather
+- Dislikes repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for roofers in Ireland?**
+A: Entry-level roofers earn about €28,000–35,000 per year, experienced ones can earn over €45,000.
+
+**Q: Can roofers immigrate to Ireland through a work visa?**
+A: Roofers are not on the Critical Skills list but can apply via a General Employment Permit, requiring employer sponsorship and meeting the salary threshold.
+
+**Q: Is there high demand for roofers in Ireland?**
+A: Due to construction growth and housing shortages, demand for roofers is high, but employment is affected by economic cycles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Roofer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a roofer in Ireland?**
-答：Entry-level roofers earn around €28,000-€35,000 per year, rising to over €45,000 with experience.
-
-**问：Can roofers immigrate to Ireland via a work visa?**
-答：Roofers are not on the Critical Skills list but can apply for a General Employment Permit with employer sponsorship and meeting salary thresholds.
-
-**问：Is there high demand for roofers in Ireland?**
-答：Due to construction growth and housing shortage, demand for roofers is high, though job availability fluctuates with economic cycles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

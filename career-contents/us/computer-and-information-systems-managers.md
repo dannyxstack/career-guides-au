@@ -1,59 +1,95 @@
-# Computer and Information Systems Managers（Computer and Information Systems Managers）职业分析 · 美国
+# Computer and Information Systems Managers — career analysis · United States
 
-**职业代码：11-3021 – Computer and Information Systems Managers。**
+**Occupation code: 11-3021 (SOC)**
 
-Computer and Information Systems Managers plan, direct, or coordinate activities in electronic data processing, information systems, system analysis, and computer programming. They bridge technology and management to ensure IT systems support organizational goals.
+Computer and Information Systems Managers plan, direct, or coordinate electronic data processing, information systems, systems analysis, and computer programming activities. This role bridges technology and management, ensuring IT systems support organisational goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（计算机科学或信息系统学士学位总费用） |
-| 硕士 | 2年 | $30,000~$100,000（MBA或管理信息系统硕士总费用） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Total cost of Bachelor's degree in Computer Science or Information Systems) |
+| Master's degree | 2 years | $30,000~$100,000 (Total cost for MBA or Master's in Management Information Systems) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PMP认证 | PMI | 可选 | 项目管理专业人士认证，非强制但常见 |
-| CISSP认证 | ISC² | 可选 | 信息系统安全认证，适合网络安全方向 |
-| 学士学位 | 大学 | 必备 | 计算机科学或相关领域学位通常要求 |
+| Bachelor's degree | University | Required | Degree in Computer Science or related field usually required |
+| PMP certification | PMI | Optional | Project management professional certification, not mandatory but common |
+| CISSP certification | ISC² | Optional | Information System Security Certification, suitable for cybersecurity direction |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 466,000。美国劳工统计局预测2022-2032年该职业就业增长15%，远高于平均水平，主要由于云计算、大数据和网络安全需求增加。
+**Job demand: very high (★★★★½).** National workforce approx. 466,000. The US Bureau of Labor Statistics projects 15% employment growth for this occupation from 2022 to 2032, much faster than average, mainly due to increased demand for cloud computing, big data, and cybersecurity.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 初级IT经理或项目经理 |
-| 中级（3-7年） | $110,000~$150,000 | 典型计算机与信息系统经理 |
-| 高级（7年以上） | $150,000~$200,000 | 高级经理或IT总监 |
+| Median salary | $175,140 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $80,000~$110,000 | Junior IT manager or project manager |
+| Mid-level (3–7 years) | $110,000~$150,000 | Typical computer and information systems manager |
+| Senior (7+ years) | $150,000~$200,000 | Senior manager or IT director |
+| average salary | $192,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 常见晋升路径：从IT项目经理或系统分析师晋升为此职位，再升为首席技术官（CTO）或IT副总裁。需积累管理经验并持续学习新技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
+
+Common career path: from IT project manager or systems analyst to this role, then to Chief Technology Officer (CTO) or VP of IT. Requires accumulating management experience and continuous learning of new technologies.
+
+**Tasks most exposed to AI:**
+
+- Automated project progress tracking and status report generation
+- AI-assisted code review and automated test case generation
+- standardized IT operations tasks (e.g., server monitoring, log analysis)
+- Automatically generate technical documentation and user manuals
+- Data-Driven Decision Support Reports (e.g., Cost Analysis, Resource Optimization Recommendations)
+
+**Where AI augments the role:**
+
+- Using AI to predict project risks and adjust resource allocation in advance
+- Improving team communication and problem-solving efficiency through AI chatbots
+- Use AI tools for technology selection evaluation and architecture comparison
+- Automated budget tracking and compliance checks, allowing managers to focus on strategic decisions
+- AI-driven market trend analysis to assist IT strategic planning
+
+**Human moat:**
+
+- High-level strategic decision-making and vision setting
+- Cross-departmental interest coordination and conflict resolution
+- Critical judgment and accountability for AI outputs
+- Team culture building and talent development
+- Creative solutions to complex systemic problems
+
+**Skills to build:**
+
+- AI project management tools (e.g., Jira+AI plugins, Asana smart features)
+- Basic data analysis and visualization (Python/Power BI)
+- Machine learning workflow understanding (MLOps basics)
+- AI ethics and compliance knowledge
+- Practices of Agile and DevOps combined with AI
+- Communication and change management skills
+
+**Key growth areas:**
 
 - Cloud Computing
 - Big Data
@@ -62,69 +98,68 @@ Computer and Information Systems Managers plan, direct, or coordinate activities
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见的工作签证，要求学士学位以上，需抽签，配额有限。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于拥有高等学位或特殊能力的专业人士，需PERM劳工证。 |
-| Subclass L-1A（Intracompany Transferee Executive or Manager） | 适用于跨国公司高管或经理，可转绿卡。 |
-| Subclass O-1（Extraordinary Ability） | 适用于在科学、艺术等领域有杰出能力者，需证明成就。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Most common work visa, requires bachelor's degree or above, needs lottery, limited quota. |
+| Subclass EB-2 (Employment-Based Second Preference) | For professionals with advanced degrees or exceptional skills, requires a PERM labor certification. |
+| Subclass L-1A (Intracompany Transferee Executive or Manager) | Applicable to executives or managers of multinational companies; can convert to green card. |
+| Subclass O-1 (Extraordinary Ability) | Applies to individuals with extraordinary ability in sciences, arts, etc., requiring demonstration of achievements. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer and Information Systems Managers？**
-- 具备技术背景和管理能力者
-- 善于沟通和团队协作的人
-- 对快速变化的IT环境有热情的人
-
-**谁不适合学Computer and Information Systems Managers？**
-- 偏好纯粹技术工作而不愿管理团队的人
-- 厌恶压力和决策责任的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with technical background and management skills
+- People who are good at communication and teamwork
+- People passionate about fast-changing IT environments
+
+**Who is not suited**
+- Those preferring purely technical work rather than managing a team
+- Those who dislike pressure and decision-making responsibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for computer and information systems managers?**
+A: According to BLS 2023 data, median annual salary is about USD 164,070, but varies by industry and region. Entry-level around 80,000-110,000, senior can exceed 200,000.
+
+**Q: How to immigrate to the United States through the Computer and Information Systems Manager position?**
+A: Common path: H-1B work visa (via lottery), then apply for green card through EB-2 or EB-3 (requires PERM). Those with multinational company experience can use L-1A. Outstanding individuals may choose O-1.
+
+**Q: What qualifications are needed to become a Computer and Information Systems Manager?**
+A: Typically requires a bachelor's in computer science or information systems; many employers prefer an MBA or related master's. Relevant certifications like PMP are a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 很高（★★★★½） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer and Information Systems Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Computer and Information Systems Managers?**
-答：According to BLS 2023 data, the median annual wage is approximately $164,070, but varies by industry and location. Entry-level around $80k-$110k, senior can exceed $200k.
-
-**问：How to immigrate to the US as a Computer and Information Systems Manager?**
-答：Common paths: H-1B visa (lottery), then EB-2 or EB-3 green card (PERM required). Those with multinational experience can use L-1A. Extraordinary individuals may qualify for O-1.
-
-**问：What education is needed to become a Computer and Information Systems Manager?**
-答：Typically a bachelor's degree in computer science or information systems is required; many employers prefer an MBA or related master's. Relevant certifications like PMP are a plus.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

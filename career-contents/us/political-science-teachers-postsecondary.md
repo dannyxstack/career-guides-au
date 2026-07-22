@@ -1,60 +1,96 @@
-# Political Science Teachers, Postsecondary（Political Science Teachers, Postsecondary）职业分析 · 美国
+# Political Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1065 – Political Science Teachers, Postsecondary。**
+**Occupation code: 25-1065 (SOC)**
 
-Teach courses in political science, international affairs, and international relations at postsecondary institutions, combining teaching and research.
+Teach political science, international affairs, and international relations courses at higher education institutions, balancing teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | —（全奖博士通常免学费并获津贴，自费博士可能需花费20-40万美元） |
-| 硕士学位（可作过渡） | 2年 | $30,000~$80,000（部分硕士项目提供助教奖学金） |
-| 本科学位 | 4年 | $40,000~$160,000（公立大学费用较低，私立较高） |
+| Doctoral degree (PhD) | 5-7 years | $0~$60,000 (Fully funded PhDs typically have tuition waived and receive stipends; self-funded PhDs may cost 200,000-400,000 USD) |
+| Master's degree (can serve as transitional) | 2 years | $30,000~$80,000 (Some master's programs offer teaching assistantships) |
+| Bachelor's degree | 4 years | $40,000~$160,000 (Public university fees are lower, private ones higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 政治学或相关领域博士学位是终身教职的必备条件 |
-| 教学经验 | 大学 | 可选 | 通常需要助教或独立教学经历 |
-| 学术发表 | 学术期刊/出版社 | 可选 | 同行评审的论文或专著是晋升的关键 |
+| Doctoral degree (PhD) | University | Required | A PhD in political science or a related field is essential for tenure-track positions |
+| Teaching experience | University | Optional | Usually requires teaching assistant or independent teaching experience |
+| Academic publishing | Academic journals/publishers | Optional | Peer-reviewed papers or monographs are key to promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 13,500。美国劳工统计局预测2023-2033年该职业就业增长约4%，与平均水平相当。高等教育入学人数波动及政府资助变化可能影响需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 13,500. The U.S. Bureau of Labor Statistics projects employment growth of about 4% for this occupation from 2023-2033, about as fast as the average. Fluctuations in higher education enrollment and changes in government funding may affect demand.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$72,000 | 助理教授薪资范围 |
-| 中级（4-9年） | $70,000~$90,000 | 副教授薪资范围 |
-| 高级（10年以上） | $85,000~$120,000 | 正教授薪资范围，顶尖大学可能更高 |
+| Median salary | $98,070 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$72,000 | Assistant professor salary range |
+| Intermediate (4-9 years) | $70,000~$90,000 | Associate professor salary range |
+| Senior (10+ years) | $85,000~$120,000 | Salary range for full professor, may be higher at top universities |
+| average salary | $108,100 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从助理教授起步，经过6-7年取得终身教职后晋升为副教授、正教授。部分转向学术行政或智库研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on political science professors is mixed: tasks like literature reviews and data analysis can be automated, but deep critical thinking, ethical judgment, and teaching interactions remain human strengths.
+
+Usually start as assistant professors, gain tenure after 6-7 years, then advance to associate and full professors. Some transition to academic administration or think tank research.
+
+**Tasks most exposed to AI:**
+
+- Basic literature search and review generation
+- Standardized test grading and scoring
+- Basic course online Q&A (chatbot)
+- Preliminary statistical analysis of research data
+- Automatic generation of course outlines and lecture notes
+
+**Where AI augments the role:**
+
+- Large-scale text mining and policy trend analysis using AI
+- AI-assisted personalized instructional design (adaptive learning platform)
+- AI simulates diplomatic negotiations or political game scenarios.
+- Automatically generate research hypotheses and visual reports
+- Using Natural Language Processing to quickly grasp students' comprehension difficulties
+
+**Human moat:**
+
+- Deep theoretical critique and conceptual innovation
+- Ethics and value judgments (e.g., policy recommendations)
+- Face-to-face heuristic teaching and debate guidance
+- Academic insights integrating multi-source information
+- Cross-cultural sensitivity and historical context understanding
+
+**Skills to build:**
+
+- Data science and statistical analysis (Python/R)
+- Natural language processing fundamentals and applications
+- AI ethics and governance framework
+- Digital instructional design in higher education
+- Policy simulation and predictive modeling
+- Interdisciplinary research skills (combining AI and sociology)
+
+**Key growth areas:**
 
 - postsecondary education
 - research
@@ -63,69 +99,68 @@ Teach courses in political science, international affairs, and international rel
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学为H-1B豁免雇主，名额不受限制，可直接申请 |
-| Subclass EB-2（EB-2 Advanced Degree） | 博士学位通常符合EB-2国家利益豁免(NIW)或PERM要求 |
-| Subclass O-1（O-1 Extraordinary Ability） | 若研究成果突出，可申请O-1签证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM劳工证申请EB-2或EB-3绿卡 |
+| Subclass H-1B (H-1B Specialty Occupation) | University is an H-1B cap-exempt employer, with no quota limits, can apply directly |
+| Subclass EB-2 (EB-2 Advanced Degree) | A doctoral degree usually meets EB-2 National Interest Waiver (NIW) or PERM requirements |
+| Subclass O-1 (O-1 Extraordinary Ability) | If research achievements are outstanding, can apply for O-1 visa |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for EB-2 or EB-3 green card through PERM labor certification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Political Science Teachers, Postsecondary？**
-- 对政治学有深厚学术热情的研究型人才
-- 擅长教学与沟通，能激发学生兴趣
-- 能承受终身教职前期的压力
-
-**谁不适合学Political Science Teachers, Postsecondary？**
-- 追求高薪或快速回报者
-- 不喜欢学术写作或公开发表
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research-oriented individuals with deep academic passion for political science
+- Good at teaching and communication, can inspire student interest
+- Can handle the pressure before achieving tenure.
+
+**Who is not suited**
+- Those seeking high salary or quick returns
+- People who dislike academic writing or public publication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for political science teachers?**
+A: Annual salary for US political science assistant professors is about $55,000-$72,000 USD; full professors can reach over $120,000 USD. Salaries vary significantly by institution type (public/private) and geographic location.
+
+**Q: How can international graduates become political science professors in the US?**
+A: Usually requires completing a PhD, then applying for a faculty position via H-1B visa (universities are cap-exempt). Afterwards, apply for a green card through EB-2 or EB-1 (extraordinary ability).
+
+**Q: Is this occupation competitive?**
+A: Very competitive. Each year, many political science PhD graduates compete for limited tenured positions, especially at prestigious universities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Political Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of political science teachers?**
-答：Assistant professors earn around $55,000-$72,000; full professors can exceed $120,000. Salaries vary by institution type and location.
-
-**问：How can international graduates become political science professors in the US?**
-答：Complete a PhD, then apply for a faculty position via H-1B (cap-exempt for universities). Later, pursue a green card through EB-2 or EB-1.
-
-**问：Is competition fierce for this occupation?**
-答：Extremely competitive. Many PhD graduates vie for limited tenure-track positions, especially at top universities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

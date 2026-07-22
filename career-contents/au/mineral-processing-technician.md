@@ -1,65 +1,93 @@
-# 选矿技术员（Mineral Processing Technician）职业分析 · 澳大利亚
+# Mineral Processing Technician — career analysis · Australia
 
-**职业代码：311411 – Mineral Processing Technician。**
+**Occupation code: 311411 (ANZSCO)**
 
-选矿技术员（Mineral Processing Technician）在矿物加工厂监控和优化选矿流程，包括浮选、浸出、过滤和冶金作业。澳洲关键矿产加工（锂/镍/稀土）快速扩张，选矿技术员严重短缺，FIFO薪资极具吸引力。
+Mineral Processing Technicians monitor and optimise processing circuits at mineral processing plants, including flotation, leaching, filtration and metallurgical operations. Rapid expansion in Australian critical minerals processing (lithium/nickel/rare earths) has created a serious shortage of mineral processing technicians, with highly attractive FIFO salaries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV in Process Plant Technology | 12~18个月 | $3,000~$8,000（RTO，矿业公司常赞助） |
-| Diploma in Metallurgy or Mineral Processing | 18~24个月 | $8,000~$20,000（进阶路径） |
-| 海外化工/冶金学历评估 | 6~12个月 | $1,000~$3,000（Engineers Australia评估） |
+| Certificate IV in Process Plant Technology | 12–18 months | $3,000~$8,000 (RTO, often sponsored by mining companies) |
+| Diploma in Metallurgy or Mineral Processing | 18–24 months | $8,000~$20,000 (Progression pathways) |
+| Overseas chemical/metallurgical qualification assessment | 6–12 months | $1,000~$3,000 (Engineers Australia assessment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV in Process Plant Technology | RTO | 必备 | 核心入行资质 |
-| White Card + Site Safety Induction | 矿山 | 必备 | 现场必备 |
+| Certificate IV in Process Plant Technology | RTO | Required | Core entry-level qualification |
+| White Card + Site Safety Induction | Mining | Required | Required on site |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 12,000。澳洲锂电池原料加工（皮尔斯巴拉锂矿/卡尔古利选矿厂）扩产，镍湿法冶金项目激增，对有加工工艺背景的技术员需求大增。
+**Job demand: very high (★★★★★).** National workforce approx. 12,000. Expansion of lithium battery raw material processing in Australia (Pilbara lithium mines / Kalgoorlie processing plants) and a surge in nickel hydrometallurgy projects have significantly increased demand for technicians with processing and metallurgical backgrounds.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 150~400 个 | WA/QLD矿山加工厂集中 |
-| Indeed | 80~200 个 | 选矿和冶金方向 |
-| LinkedIn | 40~100 个 | 大型矿业集团 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级技术员（0~3年） | $80,000~$105,000 | Mining Industry Award |
-| 中级（3~8年）FIFO | $105,000~$145,000 | 工艺专科溢价 |
-| 高级工艺工程师（8年+） | $140,000~$190,000 | 锂/镍加工专家 |
+| Median salary | $93,288 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Technician (0–3 years) | $80,000~$105,000 | Mining Industry Award |
+| Mid-level (3–8 years) FIFO | $105,000~$145,000 | Trade Specialty Premium |
+| Senior Process Engineer (8+ years) | $140,000~$190,000 | Lithium/nickel processing specialist |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 过程控制自动化提升效率，但工艺优化和故障排查仍需专业人员。化工/冶金+矿产背景组合是最高竞争力。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Mineral processing technicians face mixed impacts from AI/automation: tasks like process monitoring and data analysis are enhanced by AI, but manual operations and experience-based decisions have lower automation risk, resulting in moderate job stability.
+
+Process control automation improves efficiency, but process optimisation and troubleshooting still require specialist expertise. A combined background in chemical/metallurgical engineering and minerals is the most competitive combination.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and alarm handling (AI vision systems can automatically identify anomalies)
+- Basic data recording and report generation (AI auto-summarizes analysis)
+- Simple adjustment of chemical dosage (AI model-based optimization)
+- Equipment operation status inspection (replaced by drones and sensors)
+
+**Where AI augments the role:**
+
+- Optimize flotation/leaching parameters using AI models to improve recovery rates
+- Using predictive maintenance algorithms to reduce equipment downtime
+- Digital twin simulates process scenarios under different ore conditions
+- Remote collaboration and AR-assisted maintenance and repair
+- Real-Time Prediction of Mineral Grades Based on Machine Learning
+
+**Human moat:**
+
+- On-site judgment for complex, unforeseen ore changes
+- Safety handling and personnel dispatch in emergencies
+- Cross-departmental coordination and communication (management, geology, maintenance)
+- Hands-on Skills in Equipment Repair and Mechanical Handling
+
+**Skills to build:**
+
+- Basic data analysis with Python or R
+- SCADA/PLC system operation and maintenance
+- Digital twin and simulation software (e.g., METSIM)
+- Statistical process control (SPC) methods
+- Predictive maintenance and IoT sensor integration
+- Automation Process Optimization (e.g., AI Parameter Tuning)
+
+**Key growth areas:**
 
 - Lithium Processing Plants
 - Nickel Hydrometallurgy
@@ -68,65 +96,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 矿业雇主担保 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
-| Subclass 189（Skilled Independent） | 积分制，CSOL在列 |
+| Subclass 482 (Skills in Demand) | Mining employer sponsorship |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
+| Subclass 189 (Skilled Independent) | Points-based system, listed on CSOL |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学选矿技术员？**
-- 有化工、冶金或矿物加工工艺背景，目标澳洲关键矿产加工业
-- 接受FIFO连续生产环境，追求矿业高薪
-
-**谁不适合学选矿技术员？**
-- 无任何化工或工艺背景
-- 不接受FIFO和24小时连续生产班制
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in chemical, metallurgical or mineral processing, targeting Australia's critical minerals processing industry
+- Open to FIFO and continuous production environments, seeking high mining sector salaries
+
+**Who is not suited**
+- No background in chemicals or process industries
+- Not willing to work FIFO rosters or 24-hour continuous production shifts
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a mineral processing technician in Australia?**
+A: Mid-level FIFO mineral processing technician annual salary approx. $105,000–$145,000. Lithium/nickel processing specialists can reach $140,000–$190,000.
+
+**Q: Why is the mining technician occupation so short in supply?**
+A: Australia's lithium/nickel critical minerals processing sector is expanding rapidly, but talent with mineral processing backgrounds is extremely scarce, creating a severe supply-demand imbalance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 311411 数据 |
-| Seek AU | Mineral Processing Technician 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-选矿技术员的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲选矿技术员工资多少？**
-答：中级FIFO选矿技术员年薪约 $105,000~$145,000。锂/镍加工专家可达 $140,000~$190,000。
-
-**问：为什么选矿技术员这么短缺？**
-答：澳洲锂/镍关键矿产加工厂快速扩张，但有矿物加工工艺背景的人才极少，供需严重失衡。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

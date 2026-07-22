@@ -1,59 +1,95 @@
-# Hairdressers and Estheticians（Hairdressers and Estheticians）职业分析 · 加拿大
+# Hairdressers and Estheticians — career analysis · Canada
 
-**职业代码：63210 – Hairdressers and Estheticians。**
+**Occupation code: 63210 (NOC)**
 
-In Canada, hairdressers and estheticians provide hair cutting, styling, skincare, nail and beauty services. This occupation is eligible for provincial nominee or employer-sponsored immigration, but provincial licensing is required.
+In Canada, hairdressers and estheticians provide haircuts, hair care, styling, skin care, manicures, beauty services, etc. This occupation can immigrate through provincial nomination or employer sponsorship, but must meet provincial licensing requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 美发/美容证书或大专 | 1-2年 | $10,000~$25,000（公立学院或私立培训学校费用，私立可能更高） |
-| 学徒制（美发） | 2-4年 | —（学徒期间有工资，培训费用较低） |
+| Hair/beauty certificate or diploma | 1-2 years | $10,000~$25,000 (Public college or private training school fees; private may be higher) |
+| Apprenticeship (hairdressing) | 2-4 years | $0~$5,000 (Apprentices receive wages and training costs are low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级美发师/美容师执照 | 各省美容行业协会 | 必备 | 大多数省份要求完成指定培训并通过技术考试，才能独立执业 |
-| ECA学历认证 | IQAS或WES等 | 可选 | 境外学历需认证，以支持Express Entry或PNP申请 |
-| 语言考试（IELTS/CELPIP） | IELTS或CELPIP | 可选 | 技术移民需要CLB 4-7级 |
+| Provincial hairdresser/beautician license | Provincial beauty industry associations | Required | Most provinces require completion of specified training and passing a technical exam to practice independently |
+| ECA (Educational Credential Assessment). | IQAS or WES, etc. | Optional | Overseas credentials need assessment to support Express Entry or PNP applications |
+| Language tests (IELTS/CELPIP) | IELTS or CELPIP | Optional | Skilled migration requires CLB 4-7. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 78,000。加拿大美发美容行业持续增长，尤其是大城市需求旺盛。预计2023-2028年就业增长中等，但受经济周期影响。持有省级牌照的从业者就业前景较好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 78,000. The Canadian hairdressing and beauty industry continues to grow, especially in major cities with high demand. Employment growth is expected to be moderate from 2023 to 2028, but is affected by economic cycles. Practitioners with provincial licenses have better employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 含小费，独立执业收入可能更高 |
-| 中级（3-7年） | $38,000~$50,000 | 含小费，有稳定客户群 |
-| 高级（7年以上） | $50,000~$70,000 | 含小费，可经营沙龙或高级定制服务 |
+| Median salary | $41,350 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$38,000 | Including tips, self-employed income may be higher |
+| Mid-level (3–7 years) | $38,000~$50,000 | Includes tips, with a stable client base |
+| Senior (7+ years) | $50,000~$70,000 | Includes tips; can operate salon or high-end custom services |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级理发师/美容师可通过积累客户和考取高级牌照晋升为资深技师；部分从业者开设自己的沙龙，或进入产品营销、培训领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hairdressers and beauticians' personalized services and manual skills are less affected by AI, but AI tools can enhance consultation, recommendation, and marketing; entry-level competition is moderate due to online booking and tool prevalence.
+
+Junior hairdressers/beauticians can advance to senior technicians by building clientele and obtaining higher licenses; some open their own salons or move into product marketing or training.
+
+**Tasks most exposed to AI:**
+
+- Appointment management and reminders (AI chatbot replaces manual calls)
+- Basic hairstyle recommendations and color matching (based on AI image analysis)
+- Customer records and preference tracking (automated CRM system)
+- Inventory management (automatic counting and replenishment)
+- Simple skin analysis report generation (AI camera + algorithm)
+
+**Where AI augments the role:**
+
+- Use AI tools for hairstyle simulation and 3D previews, improving customer communication efficiency.
+- AI recommends personalized hair/skincare regimens, increasing average order value
+- Optimizing service pricing and promotion strategies through data analysis
+- AI-assisted social media content creation (auto photo editing, copywriting)
+- Online education platforms to learn new technologies and trends
+
+**Human moat:**
+
+- Precision and artistry of manual operations (e.g., cutting, perming, dyeing)
+- Face-to-face trust and emotional connection with clients
+- Instant creative adjustments (real-time changes based on client feedback)
+- Health, Safety and Compliance Operations (requires on-site supervision)
+- Complex service combinations (e.g., wedding styling, special effects makeup)
+
+**Skills to build:**
+
+- AI hair/makeup simulation software operation (e.g., YouCam Makeup)
+- Basics of Customer Relationship Management (CRM) and Data Analysis
+- Social media marketing and content creation
+- Knowledge of sustainable/green beauty products
+- Accessibility services and cross-cultural communication
+- Operation of advanced aesthetic devices (e.g., laser, microneedling)
+
+**Key growth areas:**
 
 - Beauty services
 - Self-employed
@@ -62,68 +98,67 @@ In Canada, hairdressers and estheticians provide hair cutting, styling, skincare
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省提名项目（如安省、BC省、萨省）可能开放美发/美容类别，通常需当地雇主offer |
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 理论可行，但需满足年度工作经验及语言要求，且因Skill Level B，CRS分数可能较低 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保项目，需指定雇主offer |
+| Subclass PNP (Provincial Nominee Program) | Some provincial nomination programs (e.g., Ontario, BC, Saskatchewan) may open hairdressing/beauty categories, usually requiring a local employer offer |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Theoretically possible, but requires meeting annual work experience and language requirements, and CRS scores may be low due to Skill Level B |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program requires a designated employer offer. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hairdressers and Estheticians？**
-- 有美发/美容相关学历及工作经验者
-- 愿意考取省级执照并精进技术者
-- 能够适应灵活工作时间和小费收入模式者
-
-**谁不适合学Hairdressers and Estheticians？**
-- 期望高固定薪水和稳定工作者
-- 不愿通过考试获取执照或学习法语/英语者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with hairdressing/beauty related qualifications and work experience
+- Those willing to obtain provincial licenses and refine technical skills
+- Able to adapt to flexible working hours and tip-based income model
+
+**Who is not suited**
+- Those expecting high fixed salary and stable work
+- Those unwilling to obtain licenses through exams or learn French/English
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for hairdressers/estheticians in Canada?**
+A: According to Job Bank data, mid-level hairdresser/beautician annual salary is approximately CAD 38,000-50,000 (including tips), entry-level 28,000-38,000, senior up to 50,000-70,000. Self-employment income varies significantly.
+
+**Q: Can hairdressers/beauticians immigrate to Canada through Express Entry?**
+A: Yes, but difficult. This occupation is Skill Level B, CRS score is usually low unless you have high education or French bonus. More common through PNP or AIP with employer sponsorship.
+
+**Q: What certificates are needed to become a hairdresser in Canada?**
+A: Requirements vary by province, but typically involve completing a designated training course and passing a provincial technical exam to obtain a license. For example, Ontario requires certification through the College of Trades, while BC uses the Beauty Council.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hairdressers and Estheticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hairdressers/estheticians in Canada?**
-答：According to Job Bank data, median salary for hairdressers/estheticians is about CAD 38,000-50,000 per year (including tips), with entry-level at 28,000-38,000 and experienced up to 50,000-70,000. Self-employment income varies.
-
-**问：Can hairdressers/estheticians immigrate through Express Entry?**
-答：Yes, but it's challenging. This occupation is Skill Level B, leading to lower CRS scores unless you have high education or French. Provincial Nominee Programs (PNP) or Atlantic Immigration Program (AIP) with employer sponsorship are more common.
-
-**问：What certifications are required to work as a hairdresser in Canada?**
-答：Requirements vary by province, but generally you must complete a training program and pass a provincial technical exam to obtain a license. For example, Ontario requires certification from College of Trades, while BC requires Beauty Council certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

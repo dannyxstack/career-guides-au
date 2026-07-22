@@ -1,59 +1,91 @@
-# Other Cleaning Personnel（Other Cleaning Personnel）职业分析 · ES
+# Other Cleaning Personnel — career analysis · Spain
 
-**职业代码：9229 – Other Cleaning Personnel。**
+**Occupation code: 9229 (CNO)**
 
-Responsible for cleaning and maintaining hygiene in buildings, public spaces, or facilities, including window cleaning, sweeping, and waste collection, among other basic service tasks.
+Responsible for cleaning and maintaining the sanitary environment of buildings, public places, or facilities, including window cleaning, sweeping, garbage collection, etc., which belong to basic service industry positions.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式学历 | 无 | —（通常在职培训） |
-| 职业培训（FP Básico） | 1-2年 | —（公立学校免学费） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
+| Vocational Training (FP Básico) | 1-2 years | $0~$2,000 (Public schools are free of tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 一般雇主提供培训 |
+| No mandatory certification | None | Optional | Typical employers provide training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 350,000。西班牙清洁行业需求稳定，受旅游和商业活动推动，但岗位多为兼职或轮班制，自动化影响较低。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 350,000. Demand in Spain's cleaning industry is stable, driven by tourism and commercial activities, but most positions are part-time or shift-based, with less impact from automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $16,000~$18,000 | 税前年薪，含部分兼职 |
-| 中级（2-5年） | $18,000~$21,000 | 全职，可能有夜班补贴 |
-| 高级（5年以上） | $21,000~$25,000 | 含主管或专业清洁岗位 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $16,000~$18,000 | Pre-tax annual salary, including some part-time positions |
+| Intermediate (2-5 years) | $18,000~$21,000 | Full-time, with possible night shift allowance |
+| Senior (5+ years) | $21,000~$25,000 | Including supervisory or professional cleaning positions |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为清洁主管或物业管理人员，也可通过培训转向专业清洁（如工业清洁）或创业。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The cleaning industry is significantly affected by AI automation. Due to the widespread adoption of robotic cleaning and IoT scheduling systems, many simple repetitive tasks will be replaced, and low-skilled positions face the risk of shrinkage.
+
+You can be promoted to cleaning supervisor or property manager, or through training, transition to professional cleaning (such as industrial cleaning) or start a business.
+
+**Tasks most exposed to AI:**
+
+- Robots are used to vacuum and mop floors
+- Automatic waste collection and sorting
+- Sensor-based scheduled cleaning scheduling
+- Simple window cleaning (high-rise exterior windows replaced by drones)
+
+**Where AI augments the role:**
+
+- Use smart devices to monitor cleaning quality and generate reports
+- Use mobile apps to receive task instructions and customer feedback
+- Operate professional cleaning robots for efficient disinfection
+- Optimize cleaning routes and frequency through data analysis
+
+**Human moat:**
+
+- Handling unpredictable stains and unexpected situations
+- Communicate personalized cleaning needs with customers
+- Perform fine cleaning in narrow or complex spaces
+- Professional cleaning of special materials (such as antiques and precision instruments).
+
+**Skills to build:**
+
+- Operate and maintain automated cleaning equipment
+- Basic digital literacy (managing tasks using tablets/mobile phones)
+- Knowledge of eco-friendly cleaning agents
+- Customer service and communication skills
+- Time management and task planning skills
+
+**Key growth areas:**
 
 - Hygiene Services
 - Facility Management
@@ -62,64 +94,66 @@ Responsible for cleaning and maintaining hygiene in buildings, public spaces, or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需雇主担保，通过国家就业局证明职位空缺，门槛较低但名额有限。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Requires employer sponsorship; job vacancy verified by national employment office; lower threshold but limited quotas. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Cleaning Personnel？**
-- 寻求快速入职、无需高学历的人群
-- 体力良好、适应灵活排班者
-- 希望积累经验后转向管理岗位的人
+**Who is suited**
+- People seeking quick onboarding without high education required
+- Good physical fitness and flexible scheduling
+- Those who hope to gain experience and then transition to management roles
 
-**谁不适合学Other Cleaning Personnel？**
-- 追求高薪资或专业认可度的人
-- 对重复性体力劳动不耐受者
+**Who is not suited**
+- People who seek high salaries or professional recognition
+- For those intolerant of repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for cleaners in Spain?**
+A: Based on experience, the annual pre-tax salary is about 16,000-25,000 euros, with entry-level positions usually at the minimum wage standard (about 15,876 euros per year).
+
+**Q: Can foreign cleaners immigrate to Spain?**
+A: It is more difficult; cleaners are not on the shortage occupation list, employers must prove they cannot recruit locally, and their wages are too low to meet residency income requirements.
+
+**Q: Is there a promotion path for cleaners?**
+A: You can be promoted to cleaning supervisor, property manager, or transition to professional cleaning fields (such as industrial and medical cleaning) through training, or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other Cleaning Personnel属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cleaning personnel in Spain?**
-答：Depending on experience, gross annual salary ranges from €16,000 to €25,000; entry-level positions typically pay the minimum wage (approx. €15,876/year).
-
-**问：Can foreign cleaning workers immigrate to Spain?**
-答：It is difficult; cleaning is not on the shortage occupation list, employers must prove inability to hire locally, and low wages make it hard to meet residency income requirements.
-
-**问：Is there a career progression for cleaners?**
-答：Yes, can advance to cleaning supervisor, facility manager, or through training into specialized cleaning (e.g., industrial, medical), or start one's own business.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

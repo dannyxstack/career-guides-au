@@ -1,62 +1,96 @@
-# Artistic And Functional Glass Object Maker（Artistic And Functional Glass Object Maker）职业分析 · FR
+# Artistic And Functional Glass Object Maker — career analysis · France
 
-**职业代码：B1602 – Artistic And Functional Glass Object Maker。**
+**Occupation code: B1602 (ROME)**
 
-Creates artistic and functional glass objects using techniques such as blowing, casting, and engraving, producing decorative items, vessels, and architectural glass.
+Engaged in the production of artistic glass and functional glass products, including blowing, casting, and carving techniques, involving decorative items, utensils, architectural glass, and more.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP艺术玻璃技术 | 2年（CAP） | —（公立学校免学费，仅注册费；学徒制有收入） |
-| BMA玻璃工艺 | 2年（BMA） | —（公立学校免学费，材料费自付） |
-| DNMADE玻璃设计 | 3年（DNMADE） | —（公立学校免学费，私立较高） |
+| CAP Art Glass Technology | 2 years (CAP) | $0~$5,000 (Public schools offer tuition waiver, only registration fees; Apprenticeships have income) |
+| BMA glass craftsmanship | 2 years (BMA) | $0~$5,000 (Public schools offer tuition-free fees; materials are self-paid) |
+| DNMADE glass design | 3 years (DNMADE) | $0~$8,000 (Public schools offer tuition waiver, while private schools offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP艺术玻璃技术 | 法国教育部 | 可选 | 基础从业文凭 |
-| BMA玻璃工艺 | 法国教育部 | 可选 | 高级工艺文凭 |
-| DNMADE玻璃设计 | 法国文化部 | 可选 | 设计类国家文凭 |
+| CAP Art Glass Technology | French Ministry of Education | Optional | Basic professional diploma |
+| BMA glass craftsmanship | French Ministry of Education | Optional | Advanced Diploma in Crafts |
+| DNMADE glass design | French Ministry of Culture | Optional | National diploma in design |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,000。法国玻璃工艺行业规模较小但稳定，高端定制和修复需求存在，受进口和自动化影响有限。学徒制是主要入行途径。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,000. France's glass craft industry is small but stable, with demand for high-end customization and restoration, limited by imports and automation. Apprenticeship is the main entry point.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常按SMIC或略高 |
-| 中级（4-8年） | $28,000~$35,000 | 税前年薪，含提成或计件 |
-| 高级（9年以上） | $35,000~$45,000 | 税前年薪，工作室主理人或知名工匠 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, usually based on SMIC or slightly higher |
+| Mid-level (4–8 years) | $28,000~$35,000 | Pre-tax annual salary, including commission or piecework payment |
+| Senior (9+ years) | $35,000~$45,000 | Pre-tax annual salary, studio manager or well-known craftsman |
+| average salary | $28,776 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展可从初级工匠晋升至高级工艺师或工作室主管，部分人开设个人工作室或转向教学、修复领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Artistic glassmaking faces challenges from AI-assisted design tools, but craftsmanship and personalized creation remain core moats, with overall risks and opportunities coexisting.
+
+Career development can progress from junior craftsmen to senior craftsmen or studio supervisors, with some opening personal studios or shifting to teaching and restoration.
+
+**Tasks most exposed to AI:**
+
+- Hand-drawn repetitive patterns and textures
+- 3D modeling and structural calculations of basic glass products
+- Customer requirements are transformed into standard design sketches
+- A rough estimate of firing temperature and time
+
+**Where AI augments the role:**
+
+- AI generates complex organic morphologies or bubble distribution designs inside glass
+- Stress and deformation during glass cooling are predicted using simulation software
+- AI-assisted color matching and optical effect simulation
+- Quickly generate multiple design options for customers to choose from during personalized customization
+
+**Human moat:**
+
+- Blowing, casting, and other high-precision manual operations require hand-eye coordination and muscle memory
+- Intuition and empirical judgment of the thermodynamic properties of materials
+- The ability to communicate deeply with clients and uncover hidden aesthetic needs
+- Multi-component collaborative production and on-site installation for large or complex installations
+- Establishment of original artistic styles and design philosophy
+
+**Skills to build:**
+
+- 3D modeling software (such as Blender, Rhino) and parametric design
+- Generative AI tools (such as Midjourney, DALL· E) Prompt Project
+- Basic knowledge of thermodynamic simulation software (such as ANSYS Polyflow).
+- Data-driven customer demand analysis
+- Digital manufacturing technologies (such as CNC mold processing, 3D printed prototypes)
+- Commercial photography and visualization rendering
+
+**Key growth areas:**
 
 - artisanal
 - luxury goods
@@ -65,66 +99,68 @@ Creates artistic and functional glass objects using techniques such as blowing, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Residence Permit） | 受雇于法国企业，需雇主担保，薪酬不低于SMIC，非紧缺职业，获批难度中等。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如艺术家或拥有杰出成就者，需提供作品集及法国机构邀请。 |
-| Subclass Recherche emploi（Job Search Permit） | 毕业后可申请找工作居留，有效期1年，不可续，找到工作可转Salarié。 |
+| Subclass Salarié (Employee Residence Permit) | Employed by a French company with employer sponsorship, salary not less than SMIC; non-occupier on shortage list; moderate approval difficulty. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as artists or individuals with outstanding achievements, who must provide portfolios and invitations from French institutions. |
+| Subclass Recherche emploi (Job Search Permit) | After graduation, you can apply for job-seeking residence for one year, non-renewable. If you find a job, you can transfer to Salarié. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Artistic And Functional Glass Object Maker？**
-- 对玻璃艺术有热情，追求手工艺和创造力的人
-- 喜欢动手、注重细节、能承受高温和体力劳动的人
-- 愿意接受长期学徒或低薪起步，逐步积累技术的人
+**Who is suited**
+- People passionate about glass art and pursuing craftsmanship and creativity
+- People who enjoy hands-on work, pay attention to detail, and can withstand high temperatures and physical labor
+- Those willing to accept long-term apprenticeships or start with low pay and gradually build up their skills
 
-**谁不适合学Artistic And Functional Glass Object Maker？**
-- 追求高薪或快速晋升的人
-- 对高温工作环境敏感或缺乏耐心的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who are sensitive to high-temperature work environments or lack patience
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for glassmakers?**
+A: Entry-level salaries are about 22,000-28,000 euros per year, and mid-level can reach 35,000-45,000 euros, but income fluctuates greatly, while independent craftsmen may be higher but less stable.
+
+**Q: Is it easy for foreigners to immigrate to France through this profession?**
+A: This profession is not in short supply and mainly relies on employer sponsorship (Salarié) or Passeport Talent passports. It requires proof of artistic achievement or that employers cannot find local workers, which is quite challenging.
+
+**Q: What professional training is needed to enter the industry?**
+A: Typically, a CAP (2 years) or BMA (2 years) Glass Craft Diploma, or a DNMADE (3 years) Design Diploma is required. Apprenticeship is a common path, where you learn and earn as you go.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Artistic And Functional Glass Object Maker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass object makers?**
-答：Entry-level salary is about €22,000-€28,000 per year, mid-career €28,000-€35,000, senior up to €45,000. Self-employed artists may earn more but with instability.
-
-**问：Is it easy for foreigners to immigrate to France through this occupation?**
-答：This is not a shortage occupation. Immigration is possible via employer sponsorship (Salarié) or Talent Passport, requiring proof of artistic merit or difficulty filling the position, making it challenging.
-
-**问：What training is needed to enter this field?**
-答：Typically requires a CAP (2 years) or BMA (2 years) in glassworking, or a DNMADE (3 years) in design. Apprenticeship is common, combining study with paid work.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

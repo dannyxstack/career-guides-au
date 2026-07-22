@@ -1,161 +1,188 @@
-# 航空乘务员（Flight Attendant）职业分析 · 澳大利亚
+# Flight Attendant — career analysis · Australia
 
-**职业代码：451711 – Flight Attendant。**
+**Occupation code: 451711 (ANZSCO)**
 
-航空乘务员负责航班客舱安全管理、旅客服务和应急响应，是民用航空运营的关键角色。澳洲航空业（Qantas/Virgin Australia/Jetstar等）全面复苏，亚太国际航线旅客量持续增长，具备普通话/粤语服务能力的华语乘务员在亚太航线上需求特别旺盛。
+Cabin crew are responsible for in-flight safety management, passenger service and emergency response, and are a critical part of civil aviation operations. Australia's aviation industry (Qantas / Virgin Australia / Jetstar and others) has fully recovered, and passenger volumes on Asia-Pacific international routes continue to grow.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中或以上学历（必须） | — | —（各大航空公司要求高中毕业（Year 12）以上） |
-| 航空公司内部乘务员培训（约6~8周） | 6~8周 | —（通过航空公司招募后由公司提供，无需自费） |
-| Certificate III in Aviation（Cabin Crew，可选） | 6~12个月 | $3,000~$10,000（部分私立航空学院提供，可提升求职竞争力，但非硬性要求） |
-| 急救证书（First Aid/CPR） | 1~2天 | $100~$300（航空公司招募的实际前提条件） |
+| Year 12 or above (required) | — | $0~$0 (All major airlines require Year 12 or above) |
+| In-house cabin crew training by the airline (approximately 6–8 weeks) | 6–8 weeks | $0~$0 (Provided by the airline after recruitment — no personal expense required) |
+| Certificate III in Aviation (Cabin Crew, optional) | 6–12 months | $3,000~$10,000 (Offered by some private aviation colleges; improves employability but is not a mandatory requirement) |
+| First Aid/CPR Certificate | 1–2 days | $100~$300 (Practical prerequisites for airline recruitment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CASA 认可的乘务员资格（Cabin Crew Attestation） | 民用航空安全局（CASA） | 必备 | 澳洲乘务员上岗前必须持有CASA颁发的资质 |
-| 急救证书（First Aid / CPR） | St John Ambulance等认可机构 | 必备 | 所有航空公司的硬性要求 |
-| 有效护照（国际航线） | — | 必备 | 国际航线乘务员的硬性要求 |
-| 背景调查无犯罪记录（ASIC航空安全证件） | Department of Home Affairs | 必备 | 澳洲所有机场工作人员的硬性安全要求 |
+| CASA-approved Cabin Crew Attestation | Civil Aviation Safety Authority (CASA) | Required | Flight attendants in Australia must hold a CASA-issued qualification before starting work |
+| First Aid / CPR certificate | St John Ambulance and other recognised providers | Required | Hard requirement for all airlines |
+| Valid passport (international routes) | — | Required | Mandatory requirements for international flight cabin crew |
+| Clear background check with no criminal record (ASIC Aviation Security Identification Card) | Department of Home Affairs | Required | A mandatory security requirement for all airport staff in Australia |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。JSA预测航空乘务员就业至2030年增长约8%。澳洲-中国直航复苏和东南亚航线扩张是最大需求驱动力，Qantas旗舰远程航线（Project Sunrise悉尼-伦敦直飞）将创造更多高端乘务员需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. JSA projects aviation cabin crew employment to grow by approximately 8% by 2030. The recovery of Australia–China direct routes and expansion of Southeast Asian routes are the largest demand drivers, while Qantas's flagship ultra-long-haul routes (Project Sunrise Sydney–London non-stop) will create further demand for premium cabin crew.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~600 个 | 全国，Qantas/Virgin/Jetstar/Regional Express等航空公司 |
-| Indeed | 150~400 个 | 含航空公司官网直招和乘务员代理公司 |
-| LinkedIn | 100~300 个 | 国际航空公司和商务航空公司招募 |
-
-**竞争度：较高（★★★★☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级乘务员（0~2年） | $58,000~$68,000 | SEEK 起薪约 $60k~$70k；Indeed 全国均值 $63,669（2026） |
-| 有经验乘务员（2~8年） | $65,000~$82,000 | 含飞行津贴和过夜补贴；Qantas中级乘务员年薪约 $75k~$85k |
-| 高级/乘务长（Purser，8年+） | $80,000~$110,000 | Qantas乘务长（Senior Cabin Crew）年薪约 $85k~$105k |
-| 商务航空/私人包机乘务员 | $90,000~$140,000 | 商务包机乘务员薪资显著高于商业航空，含高端服务奖金 |
+| Median salary | $78,208 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior flight attendant (0–2 years) | $58,000~$68,000 | SEEK starting salary approximately $60k–$70k; Indeed national average $63,669 (2026) |
+| Experienced cabin crew (2–8 years) | $65,000~$82,000 | Includes flight allowances and overnight allowances; Qantas mid-level cabin crew annual salary approximately $75k–$85k |
+| Senior Cabin Crew / Purser (8+ years) | $80,000~$110,000 | Qantas Senior Cabin Crew earn approximately $85k–$105k per year |
+| Business aviation / private charter cabin crew | $90,000~$140,000 | Corporate charter flight attendant salaries are significantly higher than commercial aviation, including premium service bonuses |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲国际航空市场COVID后强劲复苏，2026年旅客量超越2019年历史高点。Qantas、Virgin Australia持续扩大舰队规模，高峰期招募需求旺盛。亚太航线（日本/韩国/中国/东南亚）华语服务能力成为加分项，商务航空（私人包机）乘务员薪资显著高于商业航空。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will handle large volumes of documentation, scheduling, and inquiries, but onboard personal safety, emotional support, complex conflict resolution, and multilingual communication still require humans; demand on Asia-Pacific routes may even increase due to Chinese language service needs.
 
-- 国际航线乘务员（亚太航线复苏）
-- 商务舱/头等舱高端服务
-- 私人包机乘务员（商务航空）
-- 航空安全培训师
-- 华语乘务员（亚太航线需求旺盛）
+Australia's international aviation market has made a strong post-COVID recovery, with 2026 passenger numbers surpassing the 2019 record high. Qantas and Virgin Australia continue to expand their fleets, driving strong recruitment demand during peak periods. Multilingual service capability on Asia-Pacific routes (Japan/Korea/China/Southeast Asia) is a valued asset, and business aviation (private charter) cabin crew salaries are significantly higher than those in commercial aviation.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates flight briefings and safety demonstration videos
+- AI chatbots handle routine passenger inquiries and ticket changes
+- AI analyzes passenger emotions in real time and pushes personalized service suggestions
+- AI-driven automated scheduling and fatigue management optimization
+- AI conducts crew training assessments and compliance checks
+
+**Where AI augments the role:**
+
+- AI provides real-time multilingual translation assistance to enhance communication efficiency with foreign travelers
+- AI enhances emergency drill quality by simulating unexpected situations through cockpit sensors
+- AI analysis of passenger feedback data to assist in optimising service processes
+- AI automatically records service operations, reducing paperwork burden
+- AI providing personalized passenger profiles for more precise care services
+
+**Human moat:**
+
+- Human judgment and handling of in-flight emergencies such as illness, fire, hijacking
+- Emotional reassurance and conflict resolution for anxious, intoxicated, or non-compliant passengers
+- Command capability to organize orderly passenger evacuation during emergencies
+- Discerning subtle needs and providing value-added services with a personal touch in multicultural contexts.
+- Mandated safety duties (e.g., closing doors, checking equipment)
+
+**Skills to build:**
+
+- Proficient in AI cabin management systems (e.g., SkyPro, AeroCRS)
+- Learning basic data analysis to interpret passenger satisfaction reports
+- Advanced first aid and crisis management skills (e.g., CFTE advanced training)
+- Enhancing cross-cultural communication and multilingual service skills (e.g., Mandarin + Cantonese)
+- Learn digital emergency simulation tools (VR/AR evacuation drills)
+- Obtain in-flight health care certification (such as Flight Attendant First Aider)
+
+**Key growth areas:**
+
+- International Flight Attendant (Asia-Pacific Route Recovery)
+- Business/First Class Premium Service
+- Private Charter Flight Attendant (Business Aviation)
+- Aviation Safety Trainer
+- Mandarin-Speaking Cabin Crew (Asia-Pacific Route Demand)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，航空公司可担保；华语乘务员最常见路径 |
-| Subclass 186（ENS） | 雇主担保永居，在澳洲工作满3年后可申请 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要Vetassess技能评估，邀请分数要求高 |
-| Subclass 190（Skilled Nominated） | 州提名通道，昆士兰等州有提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, airlines can sponsor; most common path for Chinese-speaking flight attendants |
+| Subclass 186 (ENS) | Employer-sponsored permanent residence, available after 3 years of working in Australia |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, requires Vetassess skills assessment, high invitation score required |
+| Subclass 190 (Skilled Nominated) | State nomination pathway; states such as Queensland offer nominations |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学航空乘务员？**
-- 英语沟通流利，有服务业或酒店业工作经验，形象气质良好
-- 普通话/粤语流利，有意向在亚太航线（中国/东南亚方向）任职
-- 身体健康，满足航空公司身高/体重要求，能适应不规律作息和长途飞行
-- 具备急救资质（First Aid/CPR）或愿意在就职前取得
-- 有在澳洲合法工作的签证状态（公民/PR/雇主担保类签证）
-
-**谁不适合学航空乘务员？**
-- 不能适应高频倒时差、长途夜间飞行和周末节假日不规律工作安排
-- 期望通过乘务员职业快速获得技术移民（非MLTSSL，移民难度中等）
-- 身体或健康状况不符合CASA和航空公司的医疗适航要求
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Fluent English communication skills, experience in service or hospitality industries, and a professional presentation
+- Fluent in Mandarin/Cantonese, interested in roles on Asia-Pacific routes (China/Southeast Asia)
+- Physically fit, meeting airline height/weight requirements, able to adapt to irregular schedules and long-haul flights
+- Holds a First Aid/CPR qualification or is willing to obtain one prior to commencing employment
+- Holds a valid visa permitting legal work in Australia (citizen/PR/employer-sponsored visa)
+
+**Who is not suited**
+- Unable to adapt to frequent time-zone changes, long overnight flights, and irregular weekend and public holiday schedules
+- Expecting to use a cabin crew career as a fast track to skilled migration (not on the MLTSSL; migration is moderately difficult)
+- Physical or health condition does not meet CASA and airline aeromedical fitness requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a flight attendant in Australia?**
+A: Junior cabin crew approximately $58,000–$68,000 (SEEK $60k–$70k; Indeed $63,669); experienced cabin crew approximately $65k–$82k; Qantas Flight Purser approximately $85k–$105k; private charter cabin crew $90k–$140k. Salaries include flight allowances and overnight allowances.
+
+**Q: Is it easy for flight attendants to find work in Australia?**
+A: Competition is fierce. Airline recovery boosts recruitment, but each recruitment attracts many applicants. Chinese (Mandarin/Cantonese) speakers have relatively easier opportunities on Asia-Pacific routes, especially after the recovery of direct flights from mainland China.
+
+**Q: Is cabin crew experience from overseas recognised in Australia?**
+A: Domestic experience is helpful (service standards from large airlines are similar), but Australian CASA qualifications and local airline training are required. English communication skills are the main assessment criterion; Chinese language skills are an additional advantage for Asia-Pacific routes.
+
+**Q: Will flight attendants be replaced by AI?**
+A: Risk is very low. Cabin safety management, emergency evacuation, first aid response, and passenger care are roles AI cannot replace. Automation mainly affects airport ground services (check-in/baggage), not cabin crew positions.
+
+**Q: Is there an age limit for cabin crew in Australia?**
+A: Major airlines such as Qantas have no explicit upper age limit, but applicants must be 18 or older. Business aviation (private charter) sometimes prefers experienced, mature cabin crew. Physical fitness requirements (handling emergency equipment) must be met at any age.
+
+**Q: What qualifications do you need to become a flight attendant in Australia?**
+A: Major airlines require Year 12 completion; a university degree is not required. The most important requirements are a CASA qualification, fluent English, a service mindset and good health. A Certificate III in Aviation (Cabin Crew) can improve competitiveness but is not mandatory.
+
+**Q: Is it difficult to migrate to Australia as a flight attendant?**
+A: Crew not on MLTSSL; skilled migration medium difficulty. Employer-sponsored 482 is the most feasible path; Mandarin-speaking crew have relatively higher sponsorship opportunities. Recommended to enter Australia on another legal visa, apply directly to airlines, and get company sponsorship after hiring.
+
+**Q: Which offers better career prospects in Australia — flight attendant or hotel hospitality?**
+A: Salaries are comparable (flight attendant $65k–$82k vs hotel front office manager $65k–$82k), but flight attendants typically earn more in practice due to flight allowances. Lifestyle differences are significant: flight attendants travel frequently but have irregular schedules, while hotel roles are comparatively stable. Those with a passion for travel and language skills should consider the flight attendant path; those preferring stability should consider hotel management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 乘务员薪资 $60k~$70k（2026） |
-| Indeed AU | 乘务员均值 $63,669（2026） |
-| Qantas Careers | Qantas乘务员招募信息和薪资（2026） |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-航空乘务员的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲航空乘务员工资多少？**
-答：初级乘务员约 $58,000~$68,000（SEEK $60k~$70k；Indeed $63,669）；有经验乘务员约 $65k~$82k；Qantas乘务长约 $85k~$105k；商务包机乘务员 $90k~$140k。薪资含飞行津贴和过夜补贴。
-
-**问：澳洲航空乘务员容易找工作吗？**
-答：竞争激烈。航空业复苏推动招募需求，但每次招募吸引大量申请者。华语（普通话/粤语）乘务员在亚太航线上相对容易获得机会，特别是中国大陆直航复苏后需求增加。
-
-**问：中国航空乘务经验澳洲认可吗？**
-答：国内经验对求职有帮助（大型航空公司服务标准相通），但需要满足澳洲CASA资质要求并通过航空公司的本地培训。英语沟通能力是主要评估维度，中文能力是亚太航线的额外优势。
-
-**问：航空乘务员会被AI替代吗？**
-答：风险极低。客舱安全管理、应急疏散、医疗急救处置和人性化乘客服务是AI无法替代的。自动化主要影响机场地面服务（值机/行李托运），不影响客舱乘务岗位。
-
-**问：澳洲航空乘务员有年龄限制吗？**
-答：Qantas等主要航空公司无明确年龄上限，但18岁以上方可申请。商务航空（私人包机）有时偏好有经验的成熟乘务员。体能要求（搬运应急设备）在任何年龄段都需满足。
-
-**问：澳洲航空乘务员需要什么学历？**
-答：主要航空公司要求高中毕业（Year 12），无需大学学历。最重要的要求是CASA资质、流利英语、服务意识和健康状况。Certificate III in Aviation（Cabin Crew）可提升竞争力但非硬性要求。
-
-**问：澳洲航空乘务员移民难吗？**
-答：乘务员不在MLTSSL，技术移民难度中等。雇主担保482是最可行路径，华语乘务员被担保机会相对更高。建议先以其他合法签证入境澳洲，直接向航空公司申请，获得录用后由公司担保。
-
-**问：航空乘务员和酒店服务业哪个澳洲发展更好？**
-答：薪资相近（乘务员 $65k~$82k vs 酒店前台经理 $65k~$82k），但乘务员含飞行津贴实际收入通常更高。生活方式差异大：乘务员经常出行旅行但作息不规律；酒店服务相对稳定。有旅行爱好和语言优势的人选乘务员；偏好稳定工作的选酒店管理路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

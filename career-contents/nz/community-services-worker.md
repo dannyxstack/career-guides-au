@@ -1,59 +1,92 @@
-# Community Services Worker（Community Services Worker）职业分析 · 新西兰
+# Community Services Worker — career analysis · New Zealand
 
-**职业代码：411215 – Community Services Worker。**
+**Occupation code: 411215 (ANZSCO)**
 
-Community Services Workers in New Zealand enjoy steady demand in social welfare, family services, and rehabilitation, with pathways to residence via Skilled Migrant Category or Green List, offering a reliable entry into the social services sector.
+Community service workers have stable demand in New Zealand, supporting social welfare, family services, rehabilitation, etc., and can apply for residency through skilled migration or Green List, making it a reliable entry into the social service industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 社会服务本科文凭 | 2-3年 | $25,000~$35,000（约2.5-3.5万纽元/年，境外预科或桥梁课程另计） |
-| 社区服务工作证书 | 1年 | $8,000~$12,000（适合转行或提升技能，费用约0.8-1.2万纽元） |
+| Social services bachelor's diploma | 2-3 years | $25,000~$35,000 (Approximately NZD 25,000-35,000 per year; overseas foundation or bridging courses are extra) |
+| Community service work certificate | 1 year | $8,000~$12,000 (Suitable for career change or skill upgrade, cost approx. NZ$8,000-12,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰社会服务注册 | 社会服务工作者注册委员会（SWRB） | 可选 | 部分雇主要求注册，非强制但受认可 |
-| 1级急救证书 | 新西兰急救理事会 | 可选 | 部分岗位基本要求，需每年更新 |
-| 雅思6.5分 | IDP或British Council | 可选 | 移民或注册需要，单项不低于6.0 |
+| New Zealand Social Work Registration | Social Work Registration Board (SWRB) | Optional | Registration required by some employers, not mandatory but recognized |
+| Level 1 First Aid certificate | New Zealand Resuscitation Council | Optional | Basic requirement for some positions, needs annual renewal |
+| IELTS 6.5 | IDP or British Council | Optional | Required for immigration or registration, no band below 6.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。新西兰社会服务行业持续增长，老龄化人口和多元化需求推动岗位增多。政府加大心理健康、残疾人服务投入，就业前景良好，但偏远地区机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. New Zealand's social services sector is growing steadily, driven by an aging population and diverse needs. Government investment in mental health and disability services is increasing, offering good job prospects, but more opportunities exist in remote areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$58,000 | 通常需完成相关证书或文凭 |
-| 中级（3-6年） | $58,000~$72,000 | 有经验及部分注册 |
-| 高级（6年以上） | $72,000~$90,000 | 含管理或专业角色 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$58,000 | Usually requires completion of a relevant certificate or diploma |
+| Mid-level (3–6 years) | $58,000~$72,000 | Experienced and partially registered |
+| Senior (6+ years) | $72,000~$90,000 | Including management or professional roles |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级岗位可成长为个案经理、团队领导或项目协调员。取得社会服务文凭后可晋升为高级从业者，部分可转至心理咨询、政策制定等岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Community service worker roles face complex AI impact: administrative documents, scheduling, and initial client needs sorting are easily automated, but core skills like emotional support, crisis intervention, and personalized service planning are hard to replace, overall risk and opportunity coexist.
+
+Entry-level roles can grow into case managers, team leaders, or project coordinators. With a social services diploma, can advance to senior practitioner, or move into counseling, policy making, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate service records, case reports, and compliance documents
+- Using chatbots for initial customer need screening and FAQ
+- Automated scheduling, resource allocation, and appointment reminders
+- Data entry, sorting, and analysis (e.g., service volume statistics)
+
+**Where AI augments the role:**
+
+- Analyze customer history data with AI to suggest personalized service plans
+- Use natural language processing tools to quickly identify customers' potential needs or emotional states
+- Predictive models to warn of high-risk cases, aiding preventive interventions
+- Automatically generate multilingual promotional materials and community education content
+
+**Human moat:**
+
+- Face-to-face emotional support and empathy and trust building in crisis intervention
+- Multi-dimensional assessment and resource coordination for complex family/community issues
+- Cultural sensitivity judgment and ethical decision-making (e.g., balancing privacy and security)
+- Flexibility to handle unstructured, unexpected situations
+
+**Skills to build:**
+
+- Basic data analysis and visualisation (e.g., Excel, Power BI).
+- Customer relationship management (CRM) system operation
+- Use of AI-assisted assessment tools (e.g., sentiment analysis, risk scoring)
+- Digital communication tools (remote consultation platforms, chatbot management)
+- Cross-cultural communication and cultural safety practices
+- Basic project management (coordinating multiple resources)
+
+**Key growth areas:**
 
 - Social Services Growth
 - Aging Population
@@ -62,65 +95,64 @@ Community Services Workers in New Zealand enjoy steady demand in social welfare,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制要求，例如本科文凭（3分）+新西兰工作（3分），可申请技术移民。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 社区服务工作者目前不在T1，但符合T2条件，工作2年后可转居留。实际需确认最新绿色清单。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 大多数海外申请人首选，雇主担保，工作3年后可申请居留（需满足工资中位数等）。 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meet the 6-point system requirements, e.g., bachelor's degree (3 points) + New Zealand work (3 points), you can apply for skilled migration. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Community service workers are currently not on Tier 1 but meet Tier 2 conditions; can transition to residence after 2 years. Actual Green List should be checked for updates. |
+| Subclass AEWV (Accredited Employer Work Visa) | Preferred by most overseas applicants, employer-sponsored, can apply for residency after 3 years of work (must meet median wage etc.). |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Community Services Worker？**
-- 有耐心、责任心和同理心的人
-- 愿意服务社区、促进社会公平的人
-- 具备良好沟通和组织能力的人
-
-**谁不适合学Community Services Worker？**
-- 不愿意经常与弱势群体打交道的人
-- 对情感压力承受能力较差的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience, responsibility, and empathy
+- People willing to serve the community and promote social justice
+- Those with good communication and organizational skills
+
+**Who is not suited**
+- Those unwilling to frequently interact with vulnerable groups
+- People with low tolerance for emotional pressure
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary for community service workers?**
+A: Graduate annual salary is about NZD 48,000-58,000, intermediate NZD 58,000-72,000, senior NZD 72,000-90,000. Salary growth is slow but stable.
+
+**Q: Can community service workers immigrate via the Green List?**
+A: Currently this occupation is not on Green List Tier 1, but is on Tier 2 (work to residence) pathway; check latest policy. SMC skilled migration is also possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Community Services Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for community services workers?**
-答：Entry-level salary is around NZD 48,000–58,000, mid-level NZD 58,000–72,000, and senior NZD 72,000–90,000 per year. Growth is steady but moderate.
-
-**问：Can community services workers immigrate through the Green List?**
-答：Currently not on Tier 1 but on Tier 2 (Work to Residence) path; check the latest list. SMC is also an option.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

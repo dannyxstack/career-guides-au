@@ -1,59 +1,91 @@
-# Sales Workers Not Elsewhere Classified（Sales Workers Not Elsewhere Classified）职业分析 · IE
+# Sales Workers Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：5249 – Sales Workers Not Elsewhere Classified。**
+**Occupation code: 5249 (ISCO08)**
 
-Includes various sales roles such as street vendors, telemarketers, and door-to-door sales; low entry barriers but variable income.
+Includes a variety of retail and direct sales roles, such as street vendors, telemarketing, etc. Work nature is diverse, with low entry barriers.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常无需高等教育） |
-| 短期培训 | 数周至数月 | $500~$2,000（如销售技巧或客户服务课程） |
+| High school graduation | None | $0~$0 (Usually no higher education required) |
+| Short-term training | A few weeks to several months | $500~$2,000 (e.g., a course in sales techniques or customer service) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主通常提供在岗培训 |
+| No mandatory qualification requirements | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 15,000。爱尔兰零售业稳定，但自动化和电商发展可能减少传统岗位需求，总体就业增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Ireland's retail sector is stable, but automation and e-commerce development may reduce demand for traditional positions, with overall slow employment growth.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 多为基本工资加佣金 |
-| 中级（3-7年） | $30,000~$40,000 | 含佣金和奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 高级销售或管理岗位 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$30,000 | Mostly base salary plus commission |
+| Mid-level (3–7 years) | $30,000~$40,000 | Includes commission and bonuses |
+| Senior (7+ years) | $40,000~$55,000 | Senior sales or management positions |
+| average salary | $36,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从基层销售晋升为销售主管或店长，或转向其他服务业岗位，但晋升空间有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Many repetitive communication, information retrieval, and transaction processing tasks in this occupation will be automated by AI, significantly narrowing entry-level positions, but skills such as interpersonal sales and complex negotiation remain valuable.
+
+Can advance from entry-level sales to sales supervisor or store manager, or transition to other service roles, but promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Auto-dialing and initial screening (replaced by AI phone systems)
+- Product information introduction and FAQ handling (handled by chatbot)
+- Order entry and transaction processing (replaced by self-checkout and online systems)
+- Customer data organization and follow-up (automated by CRM)
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer preferences to tailor sales pitches
+- Generate personalized recommendations and promotions using AI tools
+- Uses data analysis tools to track sales performance and trends.
+
+**Human moat:**
+
+- Building long-term client relationships and trust
+- Handling complex objections and customized solutions
+- Cross-cultural communication and emotional insight.
+- Live demonstrations and product experience creation
+
+**Skills to build:**
+
+- Customer Relationship Management (CRM) tools are used
+- Basic data analysis and visualization
+- AI chatbot configuration and monitoring.
+- Digital Marketing and Social Media Sales
+- Advanced negotiation and persuasion skills.
+- Cross-channel sales integration ability
+
+**Key growth areas:**
 
 - Retail
 - E-commerce
@@ -62,62 +94,64 @@ Includes various sales roles such as street vendors, telemarketers, and door-to-
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3万欧元的非紧缺岗位，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪超过欧盟门槛（约4.3万欧元），通常不适用于此职业。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage positions with an annual salary below 30,000 euros, requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary above the EU threshold (approx. €43,000), typically not applicable to this occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Workers Not Elsewhere Classified？**
-- 适应灵活工作时间的求职者
-- 擅长沟通和销售的人
-- 寻求入门级工作的人
+**Who is suited**
+- Job seekers adaptable to flexible working hours
+- People who are good at communication and sales
+- People looking for entry-level jobs
 
-**谁不适合学Sales Workers Not Elsewhere Classified？**
-- 期望稳定高收入的人
-- 不擅长应对拒绝或压力的人
+**Who is not suited**
+- People seeking stable high income
+- People who are not good at handling rejection or pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this job?**
+A: Entry-level sales annual salary about €22,000-30,000, senior sales up to €40,000-55,000, but income depends on commission.
+
+**Q: Can I immigrate to Ireland through this job?**
+A: This occupation usually does not qualify for a critical skills permit but may apply for a general employment permit, requiring employer sponsorship and an annual salary of at least €30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this job?**
-答：Entry-level sales earn about €22,000-30,000 per year; senior roles can reach €40,000-55,000, but income depends on commission.
-
-**问：Can I immigrate to Ireland through this job?**
-答：This occupation usually does not qualify for the Critical Skills Permit, but a General Employment Permit is possible with employer sponsorship and a salary above €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

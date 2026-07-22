@@ -1,61 +1,94 @@
-# Social Welfare Manager（Social Welfare Manager）职业分析 · NL
+# Social Welfare Manager — career analysis · Netherlands
 
-**职业代码：1344 – Social Welfare Manager。**
+**Occupation code: 1344 (ISCO08)**
 
-Social welfare managers plan, organize, direct, and control the operations of social welfare programs, typically in public or private institutions.
+Social Welfare Managers plan, organize, direct, and control the operations of social welfare programs, typically working in public or private agencies.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $2,000~$8,000（每年学费，欧盟学生较低，非欧盟较高） |
-| 硕士 | 1-2年（硕士） | $10,000~$18,000（硕士课程，如社会管理或公共管理） |
+| Bachelor's degree | 4 years (bachelor's degree) | $2,000~$8,000 (Annual tuition: lower for EU students, higher for non-EU students) |
+| Master's degree | 1-2 years (Master's) | $10,000~$18,000 (Master's programs, such as Social Management or Public Administration.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作或相关领域学士学位 | 荷兰应用科学大学（HBO）或研究型大学（WO） | 必备 | 通常要求社会工作、社会政策或相关专业 |
-| 管理经验 | 雇主 | 可选 | 多数职位要求数年社会工作经验及管理经验 |
-| 注册社会工作者（可选） | 荷兰社会工作注册机构（SKJ） | 可选 | 虽非法定，但有助于职业发展 |
+| Bachelor's degree in social work or a related field | Dutch universities of applied sciences (HBO) or research universities (WO) | Required | Typically requires a degree in social work, social policy, or a related field |
+| Management experience | Employer | Optional | Most positions require several years of social work experience and management experience |
+| Registered Social Worker (optional) | Dutch Social Work Registration Body (SKJ) | Optional | Not legally required but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。随着荷兰老龄化加剧和对社会服务需求增加，该职业就业前景稳定，预计未来十年有中等增长。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. With Netherlands' aging population and increasing demand for social services, job prospects are stable, with moderate growth expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（4-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（8+年） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $50,981 | Median salary (official: CBS median hourly wage €25.8/hour × 1976h annualized, BRC group 1041 Sociaal werkers, groeps- en woon...; P25–P75 €43,670–€57,897, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从一线社会工作者晋升至团队主管、项目主任，最终成为机构高层管理者；需积累管理经验和继续教育。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will reshape the role of social welfare managers, automating administrative and data processing tasks while enhancing core responsibilities like strategic decision-making, stakeholder coordination, and personalized service delivery.
+
+Can progress from frontline social worker to team leader, program director, and eventually senior management; requires accumulated management experience and continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automated welfare eligibility assessment and data processing
+- Automatically generate standardized reports and budget monitoring
+- AI-driven initial customer needs assessment and triage
+- Compliance documentation writing and regulatory update tracking
+
+**Where AI augments the role:**
+
+- Using AI to analyze social issue trends to optimize project design
+- AI-assisted personalized customer service plan development.
+- Initial Customer Communication and Education Using Chatbots
+- AI-driven resource allocation and performance prediction
+
+**Human moat:**
+
+- Ethical judgment and decision-making in complex situations
+- Building cross-institutional trust and cooperative relationships
+- Empathy and human care for vulnerable groups
+- Crisis management and emergency intervention
+
+**Skills to build:**
+
+- Data Analysis and Interpretation (Python, SQL)
+- Application of AI tools (e.g., ChatGPT, machine learning platforms)
+- Digital project management (e.g., Jira, Asana)
+- Knowledge of data privacy and ethical compliance
+- Cross-cultural communication and change management
+- Basic programming mindset (automated workflows)
+
+**Key growth areas:**
 
 - aging population
 - increased social spending
@@ -64,69 +97,68 @@ Social welfare managers plan, organize, direct, and control the operations of so
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能工人，需与认可雇主签约；年薪门槛约€5,314/月（30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，要求高等教育和工作合同；年薪门槛约€5,331/月 |
-| Subclass Orientation Year（Orientation Year） | 适用于荷兰或世界排名前200高校毕业生，可在荷兰自由工作一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled workers, must be with an approved employer; annual salary threshold approx. €5,314/month (over 30 years old) |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requiring higher education and work contract; annual salary threshold approx. €5,331/month. |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates from Dutch or world top 200 universities, allowing a free one-year work period in the Netherlands |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Welfare Manager？**
-- 具有社会责任感、善于人际沟通和组织协调的人
-- 有志于在公共或非营利领域从事管理工作的人
-- 具备解决问题和决策能力，能应对复杂社会问题的人
-
-**谁不适合学Social Welfare Manager？**
-- 不习惯行政和文书工作、偏好直接一线服务的人
-- 对预算和人力资源管理缺乏兴趣的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a sense of social responsibility, strong interpersonal and organizational skills
+- Individuals aspiring to work in management roles in the public or non-profit sectors.
+- People with problem-solving and decision-making skills to handle complex societal issues
+
+**Who is not suited**
+- People who are not accustomed to administrative and clerical work and prefer direct front-line service
+- People not interested in budget and human resource management.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a social welfare manager in the Netherlands?**
+A: Entry-level annual salary approx. €35,000-45,000, mid-level €45,000-60,000, senior €60,000-80,000 (pre-tax). Salary varies by institution type and region.
+
+**Q: How can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: May apply for highly skilled migrant (kennismigrant) or EU Blue Card, must sign with recognized employer and meet salary threshold. The Netherlands shortage list includes social workers, which aids application.
+
+**Q: What education background is needed to become a Social Welfare Manager?**
+A: Typically requires a bachelor's degree in social work or a related field (HBO or WO), with some positions requiring a master's degree. Fluency in Dutch is essential.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Social Welfare Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for social welfare managers in the Netherlands?**
-答：Entry-level salary ranges from €35,000 to €45,000, mid-level €45,000-€60,000, senior €60,000-€80,000 (gross per year). Varies by organization type and region.
-
-**问：How can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Apply for the Highly Skilled Migrant (kennismigrant) or EU Blue Card, requiring a job offer from a recognized sponsor and meeting salary thresholds. Social worker shortage facilitates application.
-
-**问：What education is required to become a social welfare manager?**
-答：Typically a bachelor's degree in social work or related field (HBO or WO), some positions require a master's. Dutch fluency is mandatory.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

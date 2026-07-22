@@ -1,59 +1,95 @@
-# Metal Fitters and Machinists nec（Metal Fitters and Machinists nec）职业分析 · 新西兰
+# Metal Fitters and Machinists nec — career analysis · New Zealand
 
-**职业代码：323299 – Metal Fitters and Machinists nec。**
+**Occupation code: 323299 (ANZSCO)**
 
-This occupation is on New Zealand's long-term skill shortage list, involving metal part fabrication, assembly, and maintenance. Eligible for Green List direct residence or Skilled Migrant Category, with stable demand.
+This occupation is on New Zealand's Long Term Skill Shortage List, mainly responsible for processing, assembling, and repairing metal parts. It can be applied for directly through the Green List or through the Skilled Migrant Category, with stable demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰四级证书（National Certificate in Mechanical Engineering Level 4） | 4年 | $5,000~$15,000（包括学徒期间学费和材料费，雇主常资助） |
-| 新西兰文凭（New Zealand Diploma in Engineering - Mechanical） | 2年 | $20,000~$35,000（全日制学费，可申请学生贷款） |
+| New Zealand National Certificate in Mechanical Engineering Level 4 | 4 years | $5,000~$15,000 (Includes tuition and material fees during apprenticeship, often subsidized by employer) |
+| New Zealand Diploma in Engineering - Mechanical | 2 years | $20,000~$35,000 (Full-time tuition fee, eligible for student loans) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家证书（机械工程四级） | 新西兰资格认证局 (NZQA) | 必备 | 完成学徒制或等效培训后获得，行业标准资质 |
-| 安全培训证书 (Site Safe Passport) | Site Safe New Zealand | 可选 | 基本安全培训，多数雇主要求 |
-| 焊接认证（如需） | 新西兰焊接中心 (HERA) | 可选 | 从事焊接工作需额外认证 |
+| New Zealand National Certificate (Mechanical Engineering Level 4) | New Zealand Qualifications Authority (NZQA) | Required | Obtained after completing apprenticeship or equivalent training, industry standard qualification |
+| Safety Training Certificate (Site Safe Passport) | Site Safe New Zealand | Optional | Basic safety training, required by most employers |
+| Welding certification (if required) | New Zealand Welding Centre (HERA) | Optional | Additional certification is required for welding work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。新西兰制造业和工程行业持续发展，尤其坎特伯雷、怀卡托地区对熟练技工需求旺盛。未来5年岗位增长稳健，退休潮将带来更多空缺。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. New Zealand's manufacturing and engineering industries continue to develop, especially in Canterbury and Waikato regions with strong demand for skilled tradespeople. Steady job growth expected over the next 5 years, with retirements creating more vacancies.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 刚完成学徒或培训 |
-| 中级（3-7年） | $65,000~$85,000 | 拥有独立工作能力 |
-| 高级（7年以上） | $85,000~$105,000 | 包括主管或专业机械师 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Just completed apprenticeship or training |
+| Mid-level (3–7 years) | $65,000~$85,000 | Ability to work independently |
+| Senior (7+ years) | $85,000~$105,000 | Includes supervisor or specialist mechanic |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级技工可晋升为高级机械师或工头，再发展为车间主管或技术专家。部分人选择创业开设机械加工车间，或转入工程咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Traditional metalworking tasks face automation risks, but AI enhances precision programming and complex repair skills, making the occupation a mixed bag overall.
+
+Junior mechanics can advance to senior mechanics or foremen, then develop into workshop supervisors or technical experts. Some choose to start their own machining workshops or move into engineering consulting.
+
+**Tasks most exposed to AI:**
+
+- Routine operation of manual lathes and milling machines
+- Manual measurement and inspection of simple parts
+- Repetitive drilling and grinding processes
+- Manual planning of standard metal cutting paths
+- Basic fault diagnosis (non-precision components)
+
+**Where AI augments the role:**
+
+- AI pre-programming and path optimisation for CNC machines.
+- Digital twin-based processing simulation and predictive maintenance
+- Precision dimensional inspection using computer vision
+- AI-assisted complex fault diagnosis and repair solutions.
+- Optimize machining parameters and tool life through data analysis
+
+**Human moat:**
+
+- Customized processing and adjustment of non-standard, single-piece, high-precision parts
+- Involves high-stakes regulation in aerospace/medical certification-level repairs.
+- Flexible judgment and physical adaptability in on-site emergency repairs
+- Process innovation and problem-solving in multi-material composite parts.
+- Tacit operational knowledge passed down through mentorship (e.g., precision machining feel)
+
+**Skills to build:**
+
+- CNC/G-code programming and CAD/CAM software application
+- Industrial robot operation and programming
+- Basic Python or VBA for automated data collection and work order management.
+- Computer-aided inspection (CAI) and 3D scanning technology
+- Principles and operation of additive manufacturing (3D metal printing)
+- Lean Production and Industry 4.0 tools (e.g., MES systems)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ This occupation is on New Zealand's long-term skill shortage list, involving met
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，职业在绿色清单T1，无工作年限要求，可直接申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制（如学历+工作经验+新西兰工作offer）可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可在持签证期间积累经验以申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, occupation on Green List Tier 1, no work experience requirement, can apply for residence directly. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting the 6-point system (e.g., qualifications + work experience + New Zealand job offer) is required to apply. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa allows accumulating experience during visa period to apply for permanent residence. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Fitters and Machinists nec？**
-- 动手能力强，对机械加工有热情
-- 耐心细致，能处理精密零件
-- 愿意学习并长期从事技术工种
-
-**谁不适合学Metal Fitters and Machinists nec？**
-- 不喜欢体力劳动或车间环境
-- 希望快速获得高薪、低技能要求的工作
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and passion for machining
+- Patient and meticulous, capable of handling precision parts
+- Willing to learn and engage in long-term skilled trades
+
+**Who is not suited**
+- Dislike physical labor or workshop environment.
+- Those who want to quickly obtain a high-paying, low-skill job.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for metal fitters and machinists in New Zealand?**
+A: Entry-level annual salary approx. NZD 50,000-65,000, mid-level NZD 65,000-85,000, senior up to NZD 100,000+. Overtime and specialized skills can increase income.
+
+**Q: Is it easy to immigrate to New Zealand in this occupation?**
+A: Relatively easy: the occupation is on the Green List Tier 1, eligible for direct residence visa; also meets the 6-point skilled migration requirement. Key is having NZ-recognized qualifications or work experience.
+
+**Q: How long does it take to become a qualified metal fitter or machinist?**
+A: Usually requires completing a 4-year apprenticeship and obtaining a Certificate IV, or a 2-year full-time diploma. Practical work experience must be accumulated.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Metal Fitters and Machinists nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metal fitters and machinists in New Zealand?**
-答：Entry-level annual salary ranges from NZD 50,000 to 65,000; mid-level 65,000 to 85,000; senior up to 105,000. Overtime and special skills can add extra income.
-
-**问：Is it easy to immigrate to New Zealand in this occupation?**
-答：Relatively easy: the occupation is on Green List Tier 1, eligible for direct residence visa; also meets Skilled Migrant Category 6-point system. Key is having NZ-recognized qualification or work experience.
-
-**问：How long does it take to become a qualified metal fitter or machinist?**
-答：Typically requires completing a 4-year apprenticeship with a National Certificate Level 4, or a 2-year full-time diploma. Practical work experience is also needed.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

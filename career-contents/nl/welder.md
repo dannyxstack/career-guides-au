@@ -1,59 +1,93 @@
-# Welder（Welder）职业分析 · NL
+# Welder — career analysis · Netherlands
 
-**职业代码：7212 – Welder。**
+**Occupation code: 7212 (ISCO08)**
 
-Welders join metal parts using arc, gas, or laser techniques, employed in manufacturing, shipbuilding, construction, and pipeline industries.
+Welders use techniques such as arc, gas, or laser welding to join metal components, widely applied in manufacturing, shipbuilding, construction, and pipeline engineering.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年（MBO） | —（MBO课程学费约每年€1,200，可能有补贴。） |
-| 学徒制 | 2-4年（BBL） | —（学徒工资低，学费部分由雇主承担。） |
+| Secondary vocational education | 2-3 years (MBO) | $0~$2,000 (MBO course tuition is approximately €1,200 per year, with possible subsidies.) |
+| Apprenticeship | 2-4 years (BBL) | $0~$1,000 (Apprentice wages are low; tuition fees are partially covered by the employer.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NIL 焊接证书 | Nederlands Instituut voor Lastechniek (NIL) | 必备 | 荷兰焊接协会颁发的技能证书，分不同级别。 |
-| 国际焊接技师 (IWT) | International Institute of Welding (IIW) | 可选 | 高级认证，利于晋升和更高薪资。 |
-| VCA 安全证书 | VCA | 必备 | 基础安全证书，许多雇主要求。 |
+| NIL Welding Certificate | Nederlands Instituut voor Lastechniek (NIL) | Required | Skills certificate issued by the Dutch Welding Association, with different levels. |
+| VCA safety certificate | VCA | Required | Basic safety certificate, required by many employers. |
+| International Welding Technician (IWT) | International Institute of Welding (IIW) | Optional | Advanced certification, beneficial for promotion and higher salary. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰面临技术工人短缺，焊工需求稳定，尤其在金属加工和可再生能源领域。自动化可能影响低端岗位，但高技能焊工仍受青睐。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The Netherlands faces a shortage of skilled workers, with stable demand for welders, especially in metal processing and renewable energy. Automation may affect low-skilled positions, but high-skilled welders remain favored.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含假期津贴。 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，持有NIL证书者更高。 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含专业认证和主管职责。 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, including holiday allowance. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, higher for holders of NIL certificate. |
+| Senior (7+ years) | $45,000~$55,000 | Annual salary before tax, including professional certifications and supervisory duties. |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 从初级焊工可晋升为高级焊工、焊接检验员或焊接工程师；获得国际认证（如IWE）可提升职业发展空间。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+From entry-level welder, you can advance to senior welder, welding inspector, or welding engineer; obtaining international certifications (such as IWE) can enhance career progression opportunities.
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - Metal Fabrication
 - Renewable Energy
@@ -62,68 +96,67 @@ Welders join metal parts using arc, gas, or laser techniques, employed in manufa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪高于门槛（2024年约€5,331/月）的技术工人，雇主需为认可担保人。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪要求高于€5,600/月（2024年），可带家属。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰高校毕业生或世界前200大学毕业生可申请1年求职签证，找到工作后转为工作签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled workers with an annual salary above the threshold (approx. €5,331/month in 2024), employer must be an approved sponsor. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, with an annual salary requirement above €5,600/month (2024), eligible to bring family. |
+| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or the world's top 200 universities can apply for a one-year job-seeking visa, which can be converted to a work visa upon finding employment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welder？**
-- 喜欢动手、技术操作的人
-- 能适应户外或车间工作环境
-- 愿意通过持续学习提升技能
-
-**谁不适合学Welder？**
-- 对烟雾、噪音敏感者
-- 寻求办公室静坐工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on, technical work
+- Able to adapt to outdoor or workshop work environments
+- Willing to improve skills through continuous learning
+
+**Who is not suited**
+- Sensitive to smoke and noise
+- People seeking a sedentary office job
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a welder in the Netherlands?**
+A: Entry-level welders earn approximately €28,000–€35,000 per year, while senior welders can reach €45,000–€55,000.
+
+**Q: How can foreign welders immigrate to the Netherlands?**
+A: Available via highly skilled migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting annual salary thresholds.
+
+**Q: Is there a shortage of welders in the Netherlands?**
+A: Yes, the Netherlands faces a shortage of skilled workers, and welders are in high demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Welder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a welder in the Netherlands?**
-答：Entry-level welders earn €28,000-€35,000, while senior welders can earn €45,000-€55,000 annually.
-
-**问：How can foreign welders immigrate to the Netherlands?**
-答：Via the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds.
-
-**问：Are welders in shortage in the Netherlands?**
-答：Yes, the Netherlands faces a shortage of skilled tradespeople, including welders.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

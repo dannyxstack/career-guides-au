@@ -1,58 +1,91 @@
-# First-Line Supervisors of Office and Administrative Support Workers（First-Line Supervisors of Office and Administrative Support Workers）职业分析 · 美国
+# First-Line Supervisors of Office and Administrative Support Workers — career analysis · United States
 
-**职业代码：43-1011 – First-Line Supervisors of Office and Administrative Support Workers。**
+**Occupation code: 43-1011 (SOC)**
 
-Directly supervise and coordinate the activities of clerical and administrative support workers, ensuring efficient office operations.
+Directly supervise and coordinate the activities of clerical and administrative support workers to ensure efficient office workflows.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（公立高中免费；私立高中学费不等） |
-| 副学士学位 | 2年 | $5,000~$15,000（社区学院学费；可能获得转学机会） |
+| High school graduation | 4 years | $0~$10,000 (Public high school is free; private high school tuition varies) |
+| Associate degree | 2 years | $5,000~$15,000 (Community college tuition; possible transfer opportunities available.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 州教育委员会 | 必备 | 通常最低要求 |
-| 管理经验 | 雇主 | 可选 | 多数雇主要求1-3年相关经验 |
+| High school diploma | State Board of Education | Required | Typically minimum requirements |
+| Management experience | Employer | Optional | Most employers require 1–3 years of relevant experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 1,435,500。预计2023-2033年就业增长约5%，与所有职业平均水平相近。数字化转型将创造新岗位，但自动化可能减少部分文书工作。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,435,500. Expected employment growth of about 5% from 2023-2033, similar to the average for all occupations. Digital transformation will create new roles, but automation may reduce some clerical work.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 小公司或非营利组织 |
-| 中级（3-7年） | $45,000~$60,000 | 中型企业 |
-| 高级（7年以上） | $60,000~$80,000 | 大型企业或政府机构 |
+| Median salary | $69,500 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Small companies or non-profit organizations. |
+| Mid-level (3–7 years) | $45,000~$60,000 | Medium-sized enterprises. |
+| Senior (7+ years) | $60,000~$80,000 | Large corporations or government agencies |
+| average salary | $73,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级行政职位晋升至主管，再晋升至办公室经理或行政服务经理。部分主管可转向人力资源或运营管理领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Roles supervising administrative support workers face medium automation risk: routine scheduling and document processing will be taken over by AI, but demand for personnel management and unstructured decision-making rises, with job content transitioning from process supervision to team empowerment.
+
+Can progress from entry-level administrative positions to supervisor, then to office manager or administrative services manager. Some supervisors may move into HR or operations management.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and attendance calculation: AI scheduling systems can generate shift schedules and handle exception adjustments
+- Routine reporting and data aggregation: generating reports, calculating attendance rates, and other repetitive tasks are automated by AI.
+- Office supplies procurement process: AI automatically triggers purchase orders based on consumption and compares prices
+- Basic question answering: AI chatbot handles common policy and process enquiries
+
+**Where AI augments the role:**
+
+- Team performance analysis and personalized coaching: AI provides data insights, supervisors offer targeted guidance
+- Complex employee relations handling: AI-assisted recording and sentiment analysis, with supervisors focusing on mediation and decision-making
+- Cross-department resource coordination: AI integrates information from multiple sources, enabling managers to allocate resources more efficiently
+- Process optimization and improvement: AI simulates effects of different options, supervisor selects optimal path
+
+**Human moat:**
+
+- Employee motivation and team morale management
+- Non-routine conflict mediation and emotional awareness
+- Temporary, cross-role task assignment and adaptation
+- High-level strategic communication and corporate culture transmission
+
+**Skills to build:**
+
+- Basic data analysis and visualization (Excel/Tableau)
+- AI scheduling and collaboration tool operation (e.g., Workday, Slack AI)
+- Change Management and Coaching Techniques
+- Basic programming mindset (Python or RPA logic)
+- Advanced communication and emotional intelligence training.
+- Project management methodologies (Agile/Lean)
+
+**Key growth areas:**
 
 - stable demand
 - office automation
@@ -61,68 +94,67 @@ Directly supervise and coordinate the activities of clerical and administrative 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等学历；主管职位通常符合条件，但需证明专业性。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需至少2年培训或经验；可通过PERM劳工认证申请绿卡。 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国企业内部调派，需在海外公司工作满一年。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent; supervisory positions typically qualify but must demonstrate specialization. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience; can apply for green card via PERM labor certification. |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within multinational enterprises, requiring at least one year of work in an overseas company. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学First-Line Supervisors of Office and Administrative Support Workers？**
-- 有组织协调能力者
-- 注重细节且善于沟通者
-- 希望在稳定环境中从事管理工作者
-
-**谁不适合学First-Line Supervisors of Office and Administrative Support Workers？**
-- 厌恶行政细节和重复性工作者
-- 追求高薪和快速晋升者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with organizational and coordination skills
+- Detail-oriented and good communicator
+- Someone who wants stable work in management
+
+**Who is not suited**
+- Those who dislike administrative details and repetitive work
+- Those pursuing high salary and rapid advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for office and administrative support supervisors?**
+A: According to BLS data, the 2023 median annual salary is approximately USD 58,000, but entry-level positions can be as low as USD 35,000, and senior supervisors can reach over USD 80,000.
+
+**Q: Can this occupation immigrate to the US via an H-1B visa?**
+A: Yes, but requires employer sponsorship and meeting professional job requirements. Usually requires a related bachelor's degree, and job duties must reflect professionalism. Small to medium-sized enterprises may be more willing to provide sponsorship.
+
+**Q: What are the career prospects for this occupation?**
+A: Employment growth is steady, but advancement opportunities are limited. Can transition to office manager or administrative services manager by gaining experience, or move to related fields like human resources.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-First-Line Supervisors of Office and Administrative Support Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for First-Line Supervisors of Office and Administrative Support Workers?**
-答：According to BLS data, the median annual wage in 2023 was about $58,000, with entry-level positions as low as $35,000 and senior roles exceeding $80,000.
-
-**问：Can this occupation immigrate to the US via H-1B visa?**
-答：Yes, with employer sponsorship and meeting specialty occupation requirements. A relevant bachelor's degree is typically needed, and duties must be specialized. Small and medium enterprises may be more willing to sponsor.
-
-**问：What is the career outlook for this occupation?**
-答：Employment growth is stable, but advancement opportunities are limited. With experience, one can move to office manager or administrative services manager roles, or pivot to HR and related fields.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

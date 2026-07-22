@@ -1,58 +1,93 @@
-# Actuaries（Actuaries）职业分析 · 美国
+# Actuaries — career analysis · United States
 
-**职业代码：15-2011 – Actuaries。**
+**Occupation code: 15-2011 (SOC)**
 
-Actuaries analyze statistical data such as mortality, accident, sickness, disability, and retirement rates to construct probability tables and forecast risk and liability for future benefit payments, determining insurance rates and cash reserves.
+Actuaries analyze statistical data such as mortality, accidents, illness, disability, and retirement rates to build probability tables predicting future benefit payment risks and liabilities, determining insurance premium rates and required cash reserves.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学与私立大学差异大） |
-| 硕士 | 2年 | $30,000~$80,000（精算或相关领域硕士可选） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Significant differences between public and private universities) |
+| Master's degree | 2 years | $30,000~$80,000 (actuarial or related master's degree optional) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算师认证（SOA/CAS） | 美国精算师协会/意外险精算协会 | 必备 | 通过系列考试和培训获得准精算师/正精算师资格 |
-| 精算学相关本科学位 | 大学 | 必备 | 数学、统计学或精算学学位 |
+| Actuary certification (SOA/CAS) | Society of Actuaries / Casualty Actuarial Society | Required | Obtain associate or fellow actuary status through a series of exams and training |
+| Bachelor's degree in actuarial science or related field | University | Required | Degree in Mathematics, Statistics or Actuarial Science |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★½）。** 全国从业人数约 37,800。预计2023-2033年就业增长22%，远高于所有职业平均水平，主要受人口老龄化和医疗成本上升推动，保险和金融行业需求强劲。
+**Job demand: very high (★★★★½).** National workforce approx. 37,800. Projected employment growth of 22% from 2023-2033, much faster than average for all occupations, primarily driven by an aging population and rising healthcare costs, with strong demand from insurance and financial industries.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$90,000 | 尚未获得正精算师资格 |
-| 中级（3-7年） | $95,000~$130,000 | 已获得准精算师或部分认证 |
-| 高级（7年以上） | $140,000~$200,000 | 正精算师或管理层，不含奖金 |
+| Median salary | $130,000 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$90,000 | Not yet qualified as a fully accredited actuary |
+| Mid-level (3–7 years) | $95,000~$130,000 | already holds associate or partial certification in actuarial science |
+| Senior (7+ years) | $140,000~$200,000 | Qualified actuary or management, excluding bonuses |
+| average salary | $141,480 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从初级分析师起步，通过考取精算师协会认证（如SOA/CAS）逐步晋升为精算师、高级精算师、精算经理，最终可担任首席精算师或高管。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
+
+Usually starts as a junior analyst, progresses to actuary, senior actuary, actuary manager by obtaining actuarial certifications (e.g., SOA/CAS), and can eventually become chief actuary or executive.
+
+**Tasks most exposed to AI:**
+
+- Manual data cleaning and preprocessing, e.g., extracting and standardizing insurance data from legacy systems
+- Generating first drafts of standard actuarial reports and regulatory filings
+- Recurring rate calculations and simple reserve assessments
+- Maintain and run parametric tasks for traditional actuarial models
+
+**Where AI augments the role:**
+
+- Leveraging AI simulations and machine learning models for more precise risk modeling and forecasting
+- Automated sensitivity analysis and scenario testing to quickly assess multivariate impacts
+- Analyzing claims text and contract clauses via natural language processing to improve risk assessment
+- Dynamic pricing models: AI updates pricing strategies in real time, actuaries set rules and boundaries
+- Client and regulatory communication: AI generates visual dashboards; actuary interprets and provides advice
+
+**Human moat:**
+
+- Deep industry knowledge and regulatory compliance understanding of financial products such as insurance and superannuation
+- Professional judgment and ethical decision-making in complex, non-linear risk situations
+- Ability to communicate strategically and explain results to senior management and regulators
+- Creativity and business insight needed when designing innovative insurance products
+- Holistic thinking for interdisciplinary integration (e.g., climate risk, longevity risk)
+
+**Skills to build:**
+
+- Python or R programming for building and deploying AI models
+- Machine learning and statistical modeling (e.g., gradient boosting, neural networks)
+- AI governance and explainability (XAI), ensuring models are compliant and interpretable
+- Data engineering basics (SQL, ETL, cloud platforms like AWS/Azure)
+- Communication and visualization (Tableau/Power BI) and business report writing.
+- Knowledge of actuarial software (e.g., Prophet, AXIS) integration with AI
+
+**Key growth areas:**
 
 - insurance
 - risk management
@@ -61,65 +96,64 @@ Actuaries analyze statistical data such as mortality, accident, sickness, disabi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于精算师职位，需本科学历以上，每年抽签竞争。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士学位或学士加5年经验，通过PERM劳工认证。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主证明无法招到合格美国工人后申请绿卡。 |
+| Subclass H-1B (H-1B Specialty Occupations) | For actuary positions, requires bachelor's degree or above, annual lottery competition. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or bachelor's plus 5 years of experience, with PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer proves inability to hire qualified US workers before applying for green card. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Actuaries？**
-- 数学能力强、善于统计分析的人
-- 愿意投入多年考取专业认证的人
-- 对保险、金融风险管理感兴趣的人
-
-**谁不适合学Actuaries？**
-- 不喜欢长时间考试和持续学习的人
-- 更偏好创造性而非分析性工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong mathematical skills and good at statistical analysis
+- Those willing to spend years obtaining professional certifications.
+- Those interested in insurance and financial risk management
+
+**Who is not suited**
+- Those who dislike long exams and continuous learning
+- People who prefer creative over analytical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for actuaries?**
+A: Actuary salaries are high: entry-level around $65,000-$90,000, mid-level $95,000-$130,000, senior up to $140,000-$200,000, excluding bonuses and stock options.
+
+**Q: Is it easy for actuaries to immigrate to the United States?**
+A: Actuary is a professional occupation; H-1B visa and EB-2/EB-3 green card paths are feasible, but H-1B requires lottery, and PERM process is cumbersome. Already passed actuarial exams, stronger competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 极高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Actuaries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for actuaries?**
-答：Actuaries earn high salaries: entry-level around $65,000-$90,000, mid-level $95,000-$130,000, and senior $140,000-$200,000, excluding bonuses and stock options.
-
-**问：Is it easy for actuaries to immigrate to the US?**
-答：Actuaries are eligible for H-1B visas and EB-2/EB-3 green cards, but H-1B lottery and PERM process can be challenging. Strong exam credentials improve chances.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

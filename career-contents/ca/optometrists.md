@@ -1,59 +1,95 @@
-# Optometrists（Optometrists）职业分析 · 加拿大
+# Optometrists — career analysis · Canada
 
-**职业代码：31111 – Optometrists。**
+**Occupation code: 31111 (NOC)**
 
-Optometrists examine eyes for vision problems and diseases, prescribe corrective lenses or treatments, and require a professional degree and provincial licensure.
+Optometrists examine vision, diagnose eye diseases and visual abnormalities, and prescribe corrective lenses or provide treatment advice. Requires a professional degree and provincial registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（预科） | 3-4年 | $40,000~$80,000（需完成科学类学士课程） |
-| 视光学博士（OD） | 4年 | $80,000~$160,000（加拿大仅滑铁卢大学等少数院校开设） |
+| Undergraduate (foundation) | 3-4 years | $40,000~$80,000 (Must complete a bachelor's degree in science) |
+| Doctor of Optometry (OD) | 4 years | $80,000~$160,000 (Only offered by a few institutions like the University of Waterloo in Canada) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视光学博士学位 | 认证视光学院 | 必备 | 必须从ACOE认证院校获得 |
-| 省级执业执照 | 各省视光学院 | 必备 | 通过国家委员会考试及省考 |
-| 加拿大视光学考试委员会（CACO）考试 | CACO | 必备 | 全国统一准入考试 |
+| Doctor of Optometry | Accredited optometry school | Required | Must be obtained from an ACOE-accredited institution |
+| Provincial practice license | Provincial colleges of optometry | Required | Pass the national board exam and provincial exam |
+| Canadian Association of Optometry Examiners (CAO) exam | CACO | Required | National standardized entrance exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大人口老龄化推动视力保健需求增长，Job Bank预测至2031年就业前景良好，尤其偏远地区需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada's aging population is driving growth in vision care demand; Job Bank forecasts good employment prospects until 2031, especially in remote areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | 受雇于诊所或连锁店 |
-| 中级（4-9年） | $95,000~$130,000 | 经验丰富或持有专科证书 |
-| 高级（10年以上） | $130,000~$180,000 | 诊所所有者或合伙人 |
+| Median salary | $81,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $75,000~$95,000 | Employed by clinics or chains |
+| Intermediate (4-9 years) | $95,000~$130,000 | Experienced or holding a diploma/certificate |
+| Senior (10+ years) | $130,000~$180,000 | Clinic owner or partner |
+| average salary | $89,300 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从助理验光师或实习岗位起步，积累临床经验后可开设私人诊所或担任高级临床顾问，也可转向眼科研究或教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
+
+Start as an optometry assistant or intern, gain clinical experience, then open a private practice or become a senior clinical consultant, or move into ophthalmic research or teaching.
+
+**Tasks most exposed to AI:**
+
+- Objective refraction data collection in routine refractive exams (auto-refractor result interpretation)
+- Basic retinal image screening and grading (AI automatically labels abnormalities)
+- Patient appointment, medical record entry and other administrative paperwork (chatbots and NLP)
+- Generation of preliminary diagnostic reports for common eye diseases (AI-assisted diagnostic system)
+- Calculation and optimization of eyeglass/contact lens prescription parameters
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of OCT, visual field and other imaging data in complex case diagnosis to improve accuracy
+- Remote refraction and electronic prescription transfer to expand service scope and efficiency
+- Patient education: AI generates personalized visual health reports and follow-up reminders
+- Medication management: AI supports prescription interaction checks and efficacy predictions for eye drops
+- Clinical research: using AI to mine epidemiological trends from electronic medical records
+
+**Human moat:**
+
+- Final prescribing authority and legal responsibility (regulated by AHPRA)
+- Doctor-patient communication and trust building (complex empathy and education)
+- Clinical decision-making and experience-based judgment for atypical/multimorbidity cases
+- Surgical/therapeutic procedures (e.g., orthokeratology fitting, low vision rehabilitation)
+- Interdisciplinary collaboration (referral decisions with GPs and ophthalmologists)
+
+**Skills to build:**
+
+- Operation and interpretation of AI eye diagnosis tools (e.g., IDx-DR, Topcon AI)
+- Use of telemedicine platforms and electronic health record management
+- Statistical data analysis (Python/R) for clinical quality assessment
+- Doctor-patient communication and digital patient education skills
+- Basic programming (automated reporting and workflow optimization)
+- Regulatory updates tracking (expansion of therapeutic optometry prescribing rights in Australia)
+
+**Key growth areas:**
 
 - Aging population
 - Increased screen time
@@ -62,68 +98,67 @@ Optometrists examine eyes for vision problems and diseases, prescribe corrective
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类获得永久居留权，需满足学历、语言及工作经验要求。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略、BC省有定向医疗职业提名，可加速移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招聘本地员工，适用于持offer的申请人。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Obtain permanent residency through Federal Skilled Worker or Canadian Experience Class, meeting education, language, and work experience requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and BC have targeted healthcare occupation nominations, which can expedite immigration. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local workers can be recruited, applicable to applicants with a job offer. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optometrists？**
-- 对眼健康有热情，注重细节和精准性
-- 喜欢与人沟通，具备同理心和耐心
-- 愿意持续学习前沿眼科技术
-
-**谁不适合学Optometrists？**
-- 无法完成博士级别高强度学术训练
-- 不擅长处理精细操作或长时间专注工作
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about eye health, attention to detail and accuracy
+- Enjoys communicating with people, with empathy and patience
+- Willing to continuously learn cutting-edge ophthalmology techniques
+
+**Who is not suited**
+- Unable to complete high-intensity academic training at doctoral level
+- Not good at handling fine operations or long periods of focused work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an optometrist in Canada?**
+A: According to Job Bank, median annual salary approx. CAD 100,000, entry-level approx. CAD 75,000, senior up to CAD 180,000; self-employed clinics may earn more.
+
+**Q: How can overseas optometrists immigrate to Canada?**
+A: Must first pass certification by the Optometry Board (CACO) and provincial licensing exam, then apply for Express Entry or PNP. Some provinces like Manitoba have a healthcare worker fast track.
+
+**Q: What license is required for an optometrist in Canada?**
+A: Must complete an ACOE-accredited Doctor of Optometry (OD) degree, pass the Canadian Optometry Exam (CACO), and obtain a registration license in the province of practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Optometrists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for optometrists in Canada?**
-答：According to Job Bank, median annual salary is about CAD 100,000, with entry-level around CAD 75,000 and experienced up to CAD 180,000.
-
-**问：How can foreign optometrists immigrate to Canada?**
-答：First obtain certification via CACO and provincial license, then apply through Express Entry or PNP. Some provinces like Manitoba have fast-track for healthcare workers.
-
-**问：What licenses are required for optometrists in Canada?**
-答：A Doctor of Optometry (OD) from an ACOE-accredited school, passing the Canadian Assessment of Competence (CACO) exam, and provincial registration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

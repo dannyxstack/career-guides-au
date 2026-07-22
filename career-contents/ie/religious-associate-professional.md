@@ -1,60 +1,93 @@
-# Religious Associate Professional（Religious Associate Professional）职业分析 · IE
+# Religious Associate Professional — career analysis · Ireland
 
-**职业代码：3413 – Religious Associate Professional。**
+**Occupation code: 3413 (ISCO08)**
 
-Religious associate professionals assist religious leaders in worship, education, community outreach, and administration, typically in churches, mosques, temples, and other places of worship.
+Religious assistant professionals assist religious leaders in worship, education, community outreach, and administrative tasks, typically working in churches, mosques, temples, etc.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 2年（证书课程） | $2,000~$5,000（部分宗教机构提供内部培训） |
-| 学士学位（神学/宗教研究） | 3-4年（本科） | $10,000~$20,000（年均学费，公立大学） |
+| High school diploma | 2 years (certificate course) | $2,000~$5,000 (Some religious institutions provide internal training) |
+| Bachelor's degree (Theology/Religious Studies) | 3-4 years (Bachelor's degree) | $10,000~$20,000 (Average annual tuition, public university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学或宗教研究证书 | 爱尔兰大学或宗教机构 | 可选 | 非强制但有助于就业 |
-| 牧灵关怀培训 | 宗教组织 | 可选 | 部分雇主要求 |
+| Certificate in Theology or Religious Studies | Irish universities or religious institutions | Optional | Not mandatory but helpful for employment |
+| Pastoral care training | Religious organization | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 800。爱尔兰宗教助理专业人员的就业前景稳定，受宗教社区需求和人口老龄化影响。因多元文化社会的发展，需求略有增长，但总体规模较小。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. Employment prospects for religious assistant professionals in Ireland are stable, influenced by religious community needs and an aging population. Demand has grown slightly due to the development of a multicultural society, but the overall scale is small.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $34,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径可从助理晋升为主管宗教教育或社区服务协调员，部分人可进一步成为正式神职人员或宗教领袖。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+For religious assistant professionals, administrative and content production tasks are easily automated by AI, but core faith transmission, emotional support, and human care are hard to replace, creating a 'mixed blessing' situation.
+
+Career progression can move from assistant to supervisor of religious education or community service coordinator, with some becoming full-time clergy or religious leaders
+
+**Tasks most exposed to AI:**
+
+- Writing weekly announcements, newsletters, and other administrative documents
+- Manage congregation database and donation records
+- Designing event posters and social media content
+- Scheduling and coordinating meeting rooms
+
+**Where AI augments the role:**
+
+- Creating multilingual religious education materials using AI translation tools
+- Use AI to assist in editing and polishing sermon drafts
+- Track community participation trends through data analytics
+- Use AI to generate activity ideas and outlines
+
+**Human moat:**
+
+- Conducting religious ceremonies and providing spiritual guidance
+- Conduct grief counseling and crisis intervention
+- Organize offline community events and face-to-face care.
+- Make judgments on complex ethical issues
+
+**Skills to build:**
+
+- Basic data analysis (community engagement tracking)
+- Multimedia content production and AI tool application
+- Cross-cultural/multilingual communication skills
+- Project management (volunteer coordination)
+- Basics of psychology or social work
+- Integration of AI ethics and religious values
+
+**Key growth areas:**
 
 - Stable
 - Community Service
@@ -63,65 +96,67 @@ Religious associate professionals assist religious leaders in worship, education
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪通常不低于30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，年薪需超过一般门槛（约33,000欧元），但此职业通常不满足条件 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requiring employer sponsorship, annual salary usually no less than 30,000 euros |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, salary must exceed the general threshold (approx. €33,000), but this occupation typically does not meet the conditions |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Religious Associate Professional？**
-- 有强烈宗教信仰和社区服务热情的人
-- 善于沟通和团队协作的人
-- 愿意从事行政和教育工作的人
+**Who is suited**
+- People with strong religious beliefs and a passion for community service
+- People who are good at communication and teamwork
+- People willing to work in administration and education
 
-**谁不适合学Religious Associate Professional？**
-- 对宗教事务不感兴趣的人
-- 追求高薪和快速职业发展的人
+**Who is not suited**
+- People not interested in religious affairs
+- People pursuing high salary and fast career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for religious assistant professionals?**
+A: Entry-level annual salary approx. €25,000-€30,000, senior up to €38,000-€45,000, below the Irish average.
+
+**Q: Is this occupation suitable for immigrating to Ireland?**
+A: Not suitable. This occupation is not on the shortage list, the salary is low, it is difficult to meet work permit requirements, and migration pathways are limited.
+
+**Q: What qualifications are needed for this occupation?**
+A: A degree in theology or religious studies, either a bachelor's or certificate course, is usually required but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Religious Associate Professional属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for religious associate professionals?**
-答：Entry-level annual salary is around EUR 25,000-30,000, senior up to EUR 38,000-45,000, below the national average.
-
-**问：Is this occupation suitable for migrating to Ireland?**
-答：No. It is not on the shortage list, low salary makes work permit difficult, and migration paths are limited.
-
-**问：What education is required for this occupation?**
-答：Typically a degree in theology or religious studies, bachelor's or certificate, but not mandatory.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

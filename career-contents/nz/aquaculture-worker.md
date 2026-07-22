@@ -1,61 +1,96 @@
-# Aquaculture Worker（Aquaculture Worker）职业分析 · 新西兰
+# Aquaculture Worker — career analysis · New Zealand
 
-**职业代码：841211 – Aquaculture Worker。**
+**Occupation code: 841211 (ANZSCO)**
 
-Aquaculture workers in NZ culture and harvest fish, shellfish, etc. This lower-skilled occupation is eligible for AEWV, with progression to skilled migration pathways via Green List when advancing to supervisor or technician roles.
+Aquaculture workers in New Zealand engage in farming and harvesting fish, shellfish, and other aquatic products; it is a lower-skilled occupation. Due to the growing aquaculture industry in New Zealand, this occupation can be entered via the AEWV work visa, and after gaining experience, can transition to a skilled migration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 三级证书（水产养殖） | 1年 | $8,000~$15,000（NZQA认可课程，部分免费政策） |
-| 短期培训课程 | 3-6个月 | $2,000~$5,000（行业短期证书或岗位培训） |
-| 学徒制 | 2-3年 | —（在职培训，收入保障） |
+| Certificate III in Aquaculture | 1 year | $8,000~$15,000 (NZQA-recognized courses, some free policies) |
+| Short-term training course | 3-6 months | $2,000~$5,000 (Short-term industry certificates or job training) |
+| Apprenticeship | 2-3 years | $0~$3,000 (On-the-job training, income protection) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰证书（水产养殖-初级） | NZQA认可教育机构 | 可选 | 建议持有 |
-| 水产养殖操作证书 | 行业内部认证 | 必备 | 部分雇主强制要求 |
-| 健康与安全证书 | WorkSafe | 必备 | 基础安全培训 |
-| （如需晋升）水产养殖三级/四级证书 | NZQA | 可选 | 用于技术移民资质 |
+| Aquaculture operation certificate | Industry-specific internal certification | Required | Required by some employers |
+| Health and safety certificate | WorkSafe | Required | Basic safety training |
+| New Zealand Certificate (Aquaculture - Entry Level) | NZQA-recognized institutions | Optional | Recommended to hold |
+| (For advancement) Certificate III/IV in Aquaculture | NZQA | Optional | Used for skilled migration qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。新西兰水产养殖产值稳步增长，尤其三文鱼、青口贝等出口强劲。就业机会集中在马尔堡、斯图尔特岛及南岛其他区域。未来5年预计新增职位率约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. New Zealand aquaculture output value is steadily growing, especially for salmon and green-lipped mussels. Employment opportunities are concentrated in Marlborough, Stewart Island, and other South Island regions. Expected job growth rate of about 15% over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $47,000~$55,000 | 基于最低工资加补贴 |
-| 中级（3-6年） | $55,000~$70,000 | 持有证书或技能提升 |
-| 高级（6年以上/主管） | $70,000~$90,000 | 含管理职责或特种养殖 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $47,000~$55,000 | Based on minimum wage plus subsidies |
+| Mid-level (3–6 years) | $55,000~$70,000 | Hold a certificate or skill upgrade |
+| Senior (6+ years/supervisor) | $70,000~$90,000 | Includes management duties or specialized breeding |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从普通养殖工可晋升为养殖技术员、主管或助理经理。积累新西兰本地经验后，可申请绿名单Tier 2（如养殖技术员）或通过SMC打分移民。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
+
+Career progression from general farm worker to farming technician, supervisor, or assistant manager. After accumulating local experience in New Zealand, may apply for Green List Tier 2 (e.g., farming technician) or immigrate through SMC points system.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems take over scheduled and quantitative feeding tasks
+- Water quality sensors automatically monitor and record parameters like pH and dissolved oxygen.
+- Drones or underwater robots automatically inspect fish cages, replacing manual visual inspection
+- AI video analysis automatically counts fish schools and detects diseases or abnormal behavior
+- Environmental control systems (e.g., aerators) automatically start/stop based on sensor data
+
+**Where AI augments the role:**
+
+- AI-assisted water quality data analysis to predict algal blooms or disease outbreaks, guiding preventive measures
+- Automated feeding systems optimize feeding strategies based on fish activity data to improve feed conversion rates
+- Digital twin models simulate different breeding scenarios to assist production planning
+- Wearable devices monitor worker health to prevent heatstroke or fatigue
+- AI document assistant automatically generates farming logs and compliance reports
+
+**Human moat:**
+
+- On-site response capability for sudden equipment failures, extreme weather, and other abnormal conditions
+- Manual experience-based judgement of fish and shrimp behaviour and health (e.g., abnormal swimming, colour changes)
+- Interpersonal and negotiation skills in coordinating with suppliers, veterinarians, and regulatory bodies
+- On-site safety judgment and emergency rescue (e.g., drowning, electric shock)
+
+**Skills to build:**
+
+- Learn to use mainstream smart aquaculture platforms (e.g., AquaManager, eFishery)
+- Basic data processing and analysis skills (Excel or simple BI tools)
+- Basic skills in operating and maintaining automatic feeding systems, drones, and ROVs.
+- Understand working principles of aquaculture Internet of Things (IoT) sensors
+- Sustainable farming principles (e.g., antibiotic reduction, carbon footprint accounting)
+- English communication skills to suit international companies or export requirements
+
+**Key growth areas:**
 
 - Green List Tier 2
 - AEWV
@@ -64,69 +99,68 @@ Aquaculture workers in NZ culture and harvest fish, shellfish, etc. This lower-s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 初级工签，需认证雇主担保，技能等级可能为ANZSCO 4-5级，最长3年 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 适用于水产养殖技术员或主管，工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制要求，学历、收入或注册可加分，适合高级职位 |
-| Subclass SWV/Partnership（Specific Purpose Work Visa / Family） | 特定项目或配偶工签，作为补充途径 |
+| Subclass AEWV (Accredited Employer Work Visa) | Entry-level work visa, requires accredited employer sponsorship, skill level likely ANZSCO 4-5, up to 3 years |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Applicable to aquaculture technicians or supervisors; can apply for residence after 2 years of work |
+| Subclass SMC (Skilled Migrant Category) | Must meet a 6-point system, with points from qualifications, income, or registration, suitable for senior positions |
+| Subclass SWV/Partnership (Specific Purpose Work Visa / Family) | Specific projects or spousal work visas as supplementary pathways |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture Worker？**
-- 偏好户外体力劳动、不介意海上/偏远环境的人
-- 希望以低学历门槛进入新西兰、积累移民时间的人
-- 对水产养殖或海洋生物有兴趣、愿意扎根南岛或区域的人
-
-**谁不适合学Aquaculture Worker？**
-- 追求高薪或办公室舒适环境的人
-- 不能接受高体力消耗或季节性波动的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prefer outdoor physical work and don't mind offshore/remote environments
+- Those seeking to enter New Zealand with low education threshold and accumulate time for immigration
+- Interest in aquaculture or marine biology; willing to settle in the South Island or regional areas
+
+**Who is not suited**
+- People seeking high salary or comfortable office environment
+- Those who cannot accept high physical exertion or seasonal fluctuations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aquaculture workers in New Zealand?**
+A: Junior NZD 47,000-55,000, mid-level NZD 55,000-70,000, senior managers NZD 70,000-90,000. Overtime or seasonal work adds extra income.
+
+**Q: Can aquaculture workers directly immigrate to New Zealand?**
+A: General farm worker (ANZSCO 4-5) cannot directly apply for SMC, but can work via AEWV, then transition to Green List Tier 2 (e.g., technician) or accumulate high points for SMC.
+
+**Q: What are the career prospects for this occupation in New Zealand?**
+A: Good prospects. The New Zealand government encourages aquaculture expansion, requiring a large workforce. Promotion to technician or manager significantly increases salary and immigration opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aquaculture Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an aquaculture worker in NZ?**
-答：Entry-level: NZD 47,000-55,000; mid-level: NZD 55,000-70,000; senior/supervisor: NZD 70,000-90,000. Overtime and seasonal bonuses may apply.
-
-**问：Can an aquaculture worker directly immigrate to NZ?**
-答：General workers (ANZSCO 4-5) cannot directly apply for SMC. They can enter via AEWV, then transition to Green List Tier 2 (e.g., technician) or gain enough points for SMC.
-
-**问：What are the career prospects in NZ?**
-答：Positive. The government promotes aquaculture expansion, increasing demand. Promotion to technician or manager offers higher pay and migration pathways.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

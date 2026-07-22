@@ -1,60 +1,96 @@
-# Product and Garment Designer（Product and Garment Designer）职业分析 · IE
+# Product and Garment Designer — career analysis · Ireland
 
-**职业代码：2163 – Product and Garment Designer。**
+**Occupation code: 2163 (ISCO08)**
 
-Product and Garment Designers design clothing, accessories, and consumer products, from concept sketches to final samples. They work in fashion, industrial design, and retail, blending aesthetics with functionality.
+Product and fashion designers are responsible for designing clothing, accessories, and consumer products, covering the entire process from concept sketches to final samples. They work in fashion, industrial design, and retail, combining aesthetics with functionality.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $12,000~$20,000（学费因大学而异，欧盟学生约€12,000/年） |
-| 硕士 | 1-2年 | $10,000~$18,000（硕士课程通常€10,000-€18,000/年） |
+| Bachelor's degree | 4 years | $12,000~$20,000 (Tuition varies by university; for EU students approximately €12,000/year) |
+| Master's degree | 1-2 years | $10,000~$18,000 (Master's programs typically €10,000–€18,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 设计学位 | 爱尔兰国立大学或理工学院 | 可选 | 如都柏林理工大学、利默里克大学 |
-| 专业认证 | 爱尔兰设计协会 | 可选 | 非强制但增强竞争力 |
+| Design degree | Irish national university or institute of technology | Optional | e.g., Technological University Dublin, University of Limerick |
+| Professional certification | Design Institute of Ireland | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰时尚与设计产业持续增长，尤其是可持续和数字设计领域。都柏林和科克为主要就业中心，初创品牌和跨国公司都有需求。岗位竞争中等，但高技能设计师短缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. Ireland's fashion and design industry continues to grow, especially in sustainable and digital design. Dublin and Cork are main employment hubs, with demand from startups and multinationals. Competition is moderate, but there is a shortage of highly skilled designers.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，通常€25k-€35k |
-| 中级（3-7年） | $35,000~$55,000 | 税前年薪，€35k-€55k |
-| 高级（7年以上） | $55,000~$80,000 | 税前年薪，€55k-€80k |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Pre-tax annual salary, typically €25k-€35k |
+| Mid-level (3–7 years) | $35,000~$55,000 | Annual pre-tax salary, €35k-€55k |
+| Senior (7+ years) | $55,000~$80,000 | Annual pre-tax salary, €55k-€80k |
+| average salary | $47,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级设计师可从助理或样板师起步，积累经验后晋升为高级设计师、创意总监。部分转向自由职业或创立个人品牌。数字技能（如3D建模）可加速职业发展。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI has mixed impact on product and fashion designers: repetitive drafting and pattern-making tasks are reduced, but creative concepts and trend forecasting are amplified; beware of shrinking entry-level positions.
+
+Junior designers can start as assistants or sample makers, gain experience, and advance to senior designer or creative director. Some may freelance or start their own brand. Digital skills (e.g., 3D modelling) can accelerate career progression.
+
+**Tasks most exposed to AI:**
+
+- Pattern making and basic technical drawing
+- Fabric pattern repeat design
+- Basic sample size adjustment
+- Simple color scheme generation
+- Market trend data compilation
+
+**Where AI augments the role:**
+
+- Rapid iteration and visualization of inspiration sketches
+- Simulating fabric drape and cutting effects through AI
+- Smart trend forecasting based on sales data.
+- Personalized custom design plan generation
+- Automated garment modification and pattern optimization
+
+**Human moat:**
+
+- Brand aesthetic and narrative ability
+- Intuitive judgment of ergonomics and wearing experience
+- Cross-cultural fashion insights and original creativity.
+- Customer emotional needs and customized communication
+- Hand stitching and special technique innovation
+
+**Skills to build:**
+
+- Proficient in generative AI design tools (e.g., Midjourney, DALL·E)
+- Parametric pattern making and 3D modeling (e.g., CLO 3D)
+- Supply chain and sustainable materials knowledge
+- Data-driven user research and trend analysis
+- Cross-disciplinary collaboration and project management
+- Digital twin and virtual try-on technology
+
+**Key growth areas:**
 
 - Sustainable fashion
 - Digital design
@@ -63,68 +99,67 @@ Product and Garment Designers design clothing, accessories, and consumer product
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非欧盟公民，需雇主担保且年薪≥€30,000（非紧缺职业） |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥€33,600（一般职业）或≥€47,472（管理/专业职位） |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-EU citizens, requires employer sponsorship and annual salary ≥€30,000 (non-shortage occupation) |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥€33,600 (general occupations) or ≥€47,472 (managerial/professional positions) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product and Garment Designer？**
-- 有创意和审美眼光的人
-- 注重细节且擅长手绘与数字工具
-- 对时尚或产品趋势敏感的人
-
-**谁不适合学Product and Garment Designer？**
-- 不适应频繁修改设计的人
-- 不喜欢跨部门协作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and aesthetic vision
+- Detail-oriented and skilled in hand drawing and digital tools
+- People sensitive to fashion or product trends
+
+**Who is not suited**
+- Those not suited to frequent design changes
+- People who dislike cross-departmental collaboration
+
+---
+
+## 8. FAQ
+
+**Q: What are salary levels for product and fashion designers in Ireland?**
+A: Entry-level around €25k-€35k, mid-level €35k-€55k, senior up to €80k, but overall lower than IT fields.
+
+**Q: Can non-EU citizens immigrate to Ireland through this occupation?**
+A: Can apply for a General Employment Permit or EU Blue Card, but requires employer sponsorship and meeting salary thresholds. This occupation is not in shortage and is competitive.
+
+**Q: What qualifications are needed to become a product and fashion designer?**
+A: Typically requires a relevant bachelor's degree in design, such as fashion design or product design; a master's degree can enhance competitiveness. Some positions accept relevant work experience in lieu of a degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Product and Garment Designer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Product and Garment Designers in Ireland?**
-答：Entry-level around €25k-€35k, mid-level €35k-€55k, senior up to €80k, generally lower than IT sectors.
-
-**问：Can non-EU citizens immigrate to Ireland through this occupation?**
-答：Yes, via General Employment Permit or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Not on shortage list, so competition is higher.
-
-**问：What education is needed to become a Product and Garment Designer?**
-答：Typically a bachelor's degree in design (e.g., fashion or product design); a master's degree can boost competitiveness. Some roles accept relevant work experience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

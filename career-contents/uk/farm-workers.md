@@ -1,60 +1,96 @@
-# Farm workers（Farm workers）职业分析 · UK
+# Farm workers — career analysis · United Kingdom
 
-**职业代码：9111 – Farm workers。**
+**Occupation code: 9111 (SOC)**
 
-Farm workers perform a variety of tasks, by hand and machine, to produce and harvest crops and to breed and rear cattle, sheep, pigs and poultry.
+Farm workers perform manual and mechanical tasks to plant, cultivate, and harvest crops, and to raise cattle, sheep, pigs, and poultry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（多数岗位无需正规学历） |
-| 中等教育 | 2年 | —（GCSE或同等学历） |
-| 职业培训 | 1年 | $1,000~$3,000（农业职业课程如City & Guilds） |
+| No education requirement | 0 years | $0~$0 (Most jobs do not require formal qualifications) |
+| Secondary Education | 2 years | $0~$0 (GCSE or equivalent) |
+| Vocational training | 1 year | $1,000~$3,000 (agricultural vocational courses such as City & Guilds) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 拖拉机驾驶证书 | City & Guilds | 可选 | 部分农场要求 |
-| 农药使用证书 | NPTC | 必备 | 使用农药必备 |
-| 急救证书 | Red Cross | 可选 | 推荐持有 |
+| Pesticide use certificate | NPTC | Required | Essential for using pesticides. |
+| Tractor driving certificate | City & Guilds | Optional | Required by some farms |
+| First aid certificate | Red Cross | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 250,000。英国农业劳动力老龄化严重，年轻劳动力不足，预计未来十年需求稳定。季节性用工需求大，但受移民政策影响，劳动力供应可能趋紧。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. UK agriculture has an aging workforce and a shortage of young labor; demand is expected to remain stable over the next decade. Seasonal labor demand is high, but immigration policies may tighten labor supply.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 按国家最低工资计算 |
-| 中级（3-5年） | $22,000~$26,000 | 含技能奖金 |
-| 高级（5年以上） | $26,000~$30,000 | 主管或经理级别 |
+| Median salary | $30,101 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Calculated at the national minimum wage |
+| Mid-level (3–5 years) | $22,000~$26,000 | Including skill bonus |
+| Senior (5+ years) | $26,000~$30,000 | Supervisor or manager level |
+| average salary | $31,902 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级农场工人可晋升为高级工人、主管，甚至农场经理。部分工人通过培训转向农业机械操作或畜牧技术岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Farm workers' daily physical labor (e.g., harvesting, weeding, milking) will be largely replaced by AI and robots, with job numbers sharply declining; surviving roles will require higher technical skills.
+
+Junior farm workers can advance to senior workers, supervisors, or even farm managers. Some workers transition to agricultural machinery operation or livestock technology roles through training.
+
+**Tasks most exposed to AI:**
+
+- Harvesting crops using automatic harvesters
+- Use smart monitoring systems to identify pests and diseases and automatically apply pesticides
+- Manage livestock using robotic milking and feeding systems
+- GPS-guided unmanned tractors for farming
+- AI yield prediction software replaces manual planting planning
+
+**Where AI augments the role:**
+
+- AI-assisted decisions: optimize planting density, irrigation timing, and nutrient allocation
+- UAV inspection: rapid detection of crop growth conditions and abnormal areas
+- Smart sensors: real-time monitoring of soil moisture and nutrients with automatic adjustment
+- Digital traceability: blockchain records full-chain data of crops from sowing to sale
+- Machine Learning Analysis: Predicting Market Supply and Demand to Guide Crop Rotation and Variety Selection
+
+**Human moat:**
+
+- Ability to respond to emergencies (e.g., storms, pandemics)
+- Intuitive judgment in animal welfare and health management
+- Fine manipulation in complex unstructured environments (e.g., manual grafting)
+- Local knowledge of long-term ecological maintenance of land
+- Flexibility of manual harvesting for high-value crops (e.g., organic strawberries)
+
+**Skills to build:**
+
+- Smart agricultural machinery operation and maintenance
+- Agricultural data analysis and sensor technology
+- Drone piloting and image interpretation
+- Basic programming and use of automation tools.
+- Precision agriculture system management
+- Sustainable agriculture practices and biodiversity knowledge
+
+**Key growth areas:**
 
 - Seasonal labour
 - Automation
@@ -63,68 +99,67 @@ Farm workers perform a variety of tasks, by hand and machine, to produce and har
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的农场工人，需达到一般薪资门槛 |
-| Subclass Seasonal Worker（Seasonal Worker visa） | 短期季节性农场工作，最长6个月 |
-| Subclass Graduate（Graduate visa） | 毕业生可在英国工作2年，不限行业 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to farm workers with employer sponsorship, must meet general salary threshold |
+| Subclass Seasonal Worker (Seasonal Worker visa) | Short-term seasonal farm work, up to 6 months |
+| Subclass Graduate (Graduate visa) | Graduates can work in the UK for 2 years, in any industry. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farm workers？**
-- 能适应户外体力劳动
-- 对农业有兴趣，愿意学习机械操作
-- 接受季节性工作模式
-
-**谁不适合学Farm workers？**
-- 偏好办公室或稳定环境
-- 无法承受高强度体力劳动
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to adapt to outdoor physical labor
+- Interested in agriculture and willing to learn machinery operation
+- Accepts seasonal work patterns
+
+**Who is not suited**
+- Preference for office or stable environment
+- Unable to endure high-intensity physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for farm workers?**
+A: Junior: approximately £18,000–22,000; mid-level: £22,000–26,000; senior: up to £30,000.
+
+**Q: How can farm workers immigrate to the UK?**
+A: Short-term work possible through Skilled Worker visa (requiring employer sponsorship) or Seasonal Worker visa, but permanent residency is more difficult.
+
+**Q: Are farm workers on the UK's shortage occupation list?**
+A: Yes, there is a persistent shortage of agricultural labor, especially seasonal roles, but wages are relatively low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Farm workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for farm workers?**
-答：Entry-level: £18,000-£22,000; mid-level: £22,000-£26,000; senior: up to £30,000.
-
-**问：How can farm workers migrate to the UK?**
-答：Via Skilled Worker visa (with employer sponsorship) or Seasonal Worker visa for short-term, but permanent residence is challenging.
-
-**问：Is farm worker a shortage occupation in the UK?**
-答：Yes, there is a persistent shortage of agricultural labor, especially seasonal roles, though wages are relatively low.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,93 @@
-# IT项目协调员（IT Project Coordinator）职业分析 · 澳大利亚
+# IT Project Coordinator — career analysis · Australia
 
-**职业代码：224211 – IT Project Coordinator。**
+**Occupation code: 224211 (ANZSCO)**
 
-IT项目协调员负责协调信息技术项目的进度、资源和沟通，是项目团队与各部门之间的关键联络人。澳洲大规模数字化转型项目持续推进，对具备IT背景和项目管理技能的协调人才需求旺盛，是从IT技术支持晋升的热门路径。
+An IT Project Coordinator is responsible for coordinating the schedule, resources and communications of information technology projects, serving as a key liaison between the project team and various departments. Australia's large-scale digital transformation initiatives continue to expand, driving strong demand for coordinators with IT backgrounds and project management skills — making this a popular career path for those advancing from IT technical support roles.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of IT / Business / Management | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| CAPM / PMP Project Management Certification | 3~6个月备考 | $600~$2,500（项目管理核心认证） |
-| Scrum Master / Agile Practitioner Certification | 1~2个月 | $400~$1,500（敏捷加分项） |
+| Bachelor of IT / Business / Management | 3 years | $25,000~$45,000 (International students approx. $100k–$140k total fees) |
+| CAPM / PMP Project Management Certification | 3–6 months of exam preparation | $600~$2,500 (Core project management certifications) |
+| Scrum Master / Agile Practitioner Certification | 1–2 months | $400~$1,500 (Agile is a bonus) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of IT / Business | 认可大学 | 可选 | 入行基础 |
-| PMP / CAPM | PMI | 可选 | 项目管理核心认证 |
-| Certified Scrum Master (CSM) | Scrum Alliance | 可选 | 敏捷方法论认证 |
+| Bachelor of IT / Business | Recognised university | Optional | Foundation for entering the industry |
+| PMP / CAPM | PMI | Optional | Core project management certifications |
+| Certified Scrum Master (CSM) | Scrum Alliance | Optional | Agile methodology certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 18,000。澳洲政府和企业数字化转型项目规模持续扩大，2025-2030年IT项目协调和PMO（项目管理办公室）职位需求稳步增长。PMP或PRINCE2认证结合IT背景是晋升为项目经理的标准路径。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Australian government and enterprise digital transformation projects continue to expand, with steady growth in IT project coordination and PMO (Project Management Office) roles projected from 2025 to 2030. PMP or PRINCE2 certification combined with an IT background is the standard pathway to becoming a project manager.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 250~450 个 | 2025年均值 |
-| Indeed | 160~300 个 | 2025年均值 |
-| LinkedIn | 200~380 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $62,000~$82,000 | Junior IT Coordinator |
-| 中级（3-8年） | $85,000~$118,000 | IT Project Coordinator |
-| 高级（8年+） | $120,000~$160,000 | Senior Coordinator / PM |
+| Median salary | $118,508 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $62,000~$82,000 | Junior IT Coordinator |
+| Mid-level (3–8 years) | $85,000~$118,000 | IT Project Coordinator |
+| Senior (8+ years) | $120,000~$160,000 | Senior Coordinator / PM |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** Agile（Scrum/Kanban）项目管理方法已成为IT行业主流，项目协调员须熟悉敏捷工具（Jira、Confluence）。混合项目管理模式（Agile+Waterfall）在大型政府项目中广泛应用，PMP认证仍是重要加分项。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+IT project coordinators face dual impact of AI automation and augmentation. Routine tasks like scheduling and report generation will be replaced, but AI cannot replace interpersonal communication and complex decision-making, so overall risk is manageable.
+
+Agile (Scrum/Kanban) project management methodologies have become mainstream in the IT industry, and project coordinators must be familiar with agile tools (Jira, Confluence). Hybrid project management approaches (Agile + Waterfall) are widely used in large government projects, and PMP certification remains a valuable asset.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate project status reports and meeting minutes
+- AI-driven tools automatically update project schedules and resource allocation
+- Basic Issue Categorization and Ticket Routing (e.g., Jira Automation)
+- Querying databases for routine data using natural language
+
+**Where AI augments the role:**
+
+- AI-assisted generation of project plan drafts and risk predictions
+- Smart reminders and priority sorting to improve multi-project coordination efficiency
+- Automated testing and deployment monitoring, freeing up human effort for high-value communication
+- Natural language queries to quickly retrieve historical project data
+
+**Human moat:**
+
+- Cross-department stakeholder communication and conflict resolution
+- Handle non-structured decisions like project scope changes and risk management
+- Understand business context and make trade-offs (e.g., balancing budget and time)
+- Interpersonal relationship maintenance to build trust and team morale
+
+**Skills to build:**
+
+- AI project management tools (e.g. Asana smart features, Jira Automation)
+- Basic data analysis (SQL, Power BI)
+- Agile/Scrum methodology and project management certification (PMP)
+- AI Prompt Engineering
+- Basic programming concepts (Python scripting)
+- Advanced communication and negotiation skills
+
+**Key growth areas:**
 
 - Digital Transformation Programs
 - Cloud Migration Coordination
@@ -69,66 +96,64 @@ IT项目协调员负责协调信息技术项目的进度、资源和沟通，是
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，IT管理类 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, IT management roles |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学IT项目协调员？**
-- 有IT背景并希望转向项目管理的技术人员
-- 具备强沟通协调能力的IT从业者
-- 希望进入大型数字化转型项目工作者
-
-**谁不适合学IT项目协调员？**
-- 纯技术开发偏好者
-- 不擅长跨部门沟通和项目协调者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- IT professionals with a technical background looking to transition into project management
+- IT professional with strong communication and coordination skills
+- Suited to those seeking to work on large-scale digital transformation projects
+
+**Who is not suited**
+- Those who prefer purely technical development
+- Not suited to cross-departmental communication and project coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an IT project coordinator in Australia?**
+A: Junior approximately AUD 62,000-82,000, mid-level A$85,000-118,000, senior coordinator/junior project manager A$120,000-160,000. Government projects are stable with competitive salaries.
+
+**Q: Is it easy to find work as an IT project coordinator in Australia?**
+A: Demand is stable and strong, with 250–450 active positions consistently listed on Seek; government and large enterprise IT departments are the primary employers, and PMP certification noticeably improves competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 224211 IT项目协调员数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-IT项目协调员的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：IT项目协调员在澳洲薪资如何？**
-答：初级约AUD 6.2万~8.2万，中级8.5万~11.8万，高级协调员/初级项目经理12万~16万，政府项目稳定且薪资有竞争力。
-
-**问：澳洲IT项目协调员好找工作吗？**
-答：需求稳定旺盛，Seek常年有250~450个活跃职位，政府和大型企业IT部门是主要雇主，PMP认证明显提升竞争力。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

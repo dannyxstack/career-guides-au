@@ -1,58 +1,92 @@
-# Mining, Metallurgical and Related Technical Engineers（Mining, Metallurgical and Related Technical Engineers）职业分析 · ES
+# Mining, Metallurgical and Related Technical Engineers — career analysis · Spain
 
-**职业代码：2466 – Mining, Metallurgical and Related Technical Engineers。**
+**Occupation code: 2466 (CNO)**
 
-Responsible for mine design, mineral processing, metallurgical process optimization and safety management, core technical role in mining and metal industries.
+Responsible for mine design, mineral processing, optimization of metallurgical processes, and safety management, serving as a core technical position in the mining and metals industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado en Ingeniería de Minas y Energía） | $1,000~$3,000（公立大学学费，每年约1000-3000欧元） |
-| 硕士（Máster） | 1-2年（Máster en Ingeniería de Minas o Metalurgia） | $1,500~$5,000（公立大学硕士费用，视学校而定） |
+| Undergraduate (Grado) | 4 years (Grado en Ingeniería de Minas y Energía) | $1,000~$3,000 (Tuition at public universities is about 1,000–3,000 euros per year) |
+| Máster | 1-2 years (Máster en Ingeniería de Minas o Metalurgia) | $1,500~$5,000 (The cost of a master's degree at a public university depends on the school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士/硕士学位（Grado/Máster） | 西班牙认可的大学 | 必备 | 需通过学历认证homologación（非欧盟学历） |
-| 西班牙专业工程师协会会员（Colegio de Ingenieros） | 相应工程师协会 | 可选 | 非强制，但有利执业和签章权 |
+| Bachelor's/Master's degree in Engineering (Grado/Máster) | A university recognized by Spain | Required | Homologación (non-EU qualifications) must be certified |
+| Member of the Spanish Professional Engineers' Association (Colegio de Ingenieros) | Corresponding engineering associations | Optional | Non-mandatory, but beneficial for practice and the right to sign and seal |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。西班牙拥有丰富的矿业资源（如铜、锌、钾盐），北部阿斯图里亚斯、安达卢西亚等地区有持续需求。能源转型和关键原材料战略推动行业增长，岗位稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. Spain is rich in mineral resources (such as copper, zinc, and potash), with sustained demand in northern regions such as Asturias and Andalusia. Energy transition and critical raw material strategies are driving industry growth and job stability.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，采矿或冶金行业标准 |
-| 中级（4-7年） | $36,000~$48,000 | 包括工程师或初级项目经理 |
-| 高级（8年以上） | $50,000~$70,000 | 技术经理或矿区主管 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, mining or metallurgy industry standards |
+| Mid-level (4-7 years) | $36,000~$48,000 | Including engineers or junior project managers |
+| Senior (8+ years) | $50,000~$70,000 | Technical manager or mining area supervisor |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：正面（★★★½☆）。** 可从初级工程师晋升为项目主管、技术经理或矿区负责人。积累经验后可转向咨询、监管或海外项目。部分人深造后进入研发领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mining engineers are affected by both AI automation and augmentation: repetitive design and monitoring are easily replaced, but strategic decisions and compliance responsibilities still require humans. The overall impact tends to task reorganization rather than job elimination.
+
+Junior engineers can be promoted to project supervisor, technical manager, or mining area manager. After gaining experience, you can move on to consulting, regulatory, or overseas projects. Some enter the research and development field after further study.
+
+**Tasks most exposed to AI:**
+
+- Ore reserve estimation and geological modeling; AI can automatically process data and generate 3D models
+- Mine production scheduling optimization: AI algorithms adjust mining plans in real-time
+- For routine geotechnical stability analysis, AI can quickly calculate safety factors
+- Environmental monitoring report generation: AI can automatically summarize sensor data and draft initial reports
+
+**Where AI augments the role:**
+
+- Mine design and cost optimization, AI provides multi-scenario simulation, allowing engineers to choose the optimal solution
+- Risk assessment and emergency plans, AI predicts accident probability based on historical data to assist decision-making
+- Remote monitoring and predictive maintenance of mining equipment, AI fault alerts reducing downtime
+- Safety compliance review: AI scans regulatory updates and flags potential violations
+- Team collaboration and interdisciplinary communication, AI translation of technical documents, fostering consensus
+
+**Human moat:**
+
+- Overall mine development strategy formulation and feasibility study decisions
+- Multi-stakeholder coordination with regulatory bodies, communities, and investors
+- Innovative solutions under complex geological conditions (e.g., deep wells, high stress)
+- Final safety responsibility and legal compliance sign-off for AI output
+
+**Skills to build:**
+
+- AI/Machine learning basics, especially geostatistics and optimization algorithms
+- Data Science & Python/R Programming, Handling Sensor & Geological Data
+- Digital Twin and 3D Modeling Software (e.g., Deswik, Surpac)
+- Automated mining system integration and remote operation platforms (e.g., MineStar)
+- Project management and ESG (environmental, social, governance) assessment skills
+- Human-machine collaboration and AI result validation methodologies.
+
+**Key growth areas:**
 
 - Mining
 - Metallurgy
@@ -61,65 +95,64 @@ Responsible for mine design, mineral processing, metallurgical process optimizat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合大学本科以上学历、年薪约34,000欧元以上的技术岗位，快速获得欧盟居留。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高技能专业人士，学历与合同要求，审批较快。 |
-| Subclass Cuenta ajena（Employed Work Permit） | 常规受雇工作居留，需雇主担保，适用于普通工程师。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for technical positions with a bachelor's degree or above, annual salary of about 34,000 euros or more, enabling quick EU residency. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly skilled professionals, with educational and contract requirements, and approval is relatively fast. |
+| Subclass Cuenta ajena (Employed Work Permit) | Regular employment residence requires employer sponsorship and applies to ordinary engineers. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining, Metallurgical and Related Technical Engineers？**
-- 喜欢户外或工业环境，对采矿、能源行业有兴趣的工程类毕业生
-- 愿意在偏远矿区工作，适应倒班和现场作业
-- 具备西班牙语沟通能力，寻求稳定技术职业
-
-**谁不适合学Mining, Metallurgical and Related Technical Engineers？**
-- 偏好办公室、城市工作，无法接受矿区生活
-- 对体力或高风险工作不适应
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineering graduates who enjoy outdoor or industrial environments and are interested in mining and the energy industry
+- Willing to work in remote mining areas, adapting to shift and on-site operations
+- Possess Spanish communication skills and seek stable technical careers
+
+**Who is not suited**
+- Prefers office and city work and cannot accept life in mining areas
+- Not suitable for physically demanding or high-risk work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for mining engineers in Spain?**
+A: Entry-level salaries are about 28,000-35,000 euros per year, intermediate salaries 36,000-48,000 euros, and seniors up to 50,000-70,000 euros, depending on experience, region, and company.
+
+**Q: How can a non-EU degree apply for immigration for a Spanish mining engineer?**
+A: You must first complete academic certification (homologación), confirming that the degree is equivalent to Spain's Grado. You can then apply for work residence through the EU Blue Card (Tarjeta azul UE) or the Highly Skilled Professional visa (Ley 14/2013).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 正面（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Mining, Metallurgical and Related Technical Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining engineers in Spain?**
-答：Entry-level around €28,000-35,000 per year, mid-level €36,000-48,000, senior up to €50,000-70,000, depending on experience, region and company.
-
-**问：How can non-EU nationals migrate as mining engineers in Spain?**
-答：First get your degree recognized (homologación) to equate to Spanish Grado. Then apply for EU Blue Card or Highly Qualified Professional visa (Ley 14/2013) with a job offer.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

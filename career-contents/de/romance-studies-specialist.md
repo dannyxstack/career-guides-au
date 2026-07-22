@@ -1,60 +1,96 @@
-# Romance Studies Specialist（Romance Studies Specialist）职业分析 · DE
+# Romance Studies Specialist — career analysis · Germany
 
-**职业代码：9113 – Romance Studies Specialist。**
+**Occupation code: 9113 (KldB)**
 
-Studies Romance languages (e.g., French, Spanish, Italian), literature, and culture, working in teaching, translation, or research.
+Study the languages, literature, and cultures of Romance languages (e.g., French, Spanish, Italian), engaging in teaching, translation, or research.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（大学） | —（公立大学免学费，仅学期费约150-400欧/学期） |
-| 硕士 | 2年（大学） | —（公立大学硕士通常免学费） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,500 (Public universities with free tuition, only semester fees of about 150-400 euros/semester) |
+| Master's degree | 2 years (university) | $0~$1,500 (Public university master's programs are typically tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 语言学或文学硕士学位 | 德国大学 | 必备 | 通常要求硕士学历，博士学历更有利于学术职位 |
-| 翻译认证 | 德国翻译协会(BDÜ) | 可选 | 非强制，但有助于翻译职业发展 |
+| Master's degree in linguistics or literature. | German university | Required | Usually requires a master's degree; a doctoral degree is more advantageous for academic positions |
+| Translation Certification | German Association of Translators and Interpreters (BDÜ) | Optional | Not mandatory, but beneficial for translation career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 5,000。德国高校对罗曼语文学的需求稳定，但就业竞争激烈，非紧缺职业。毕业生常从事教育、出版或文化机构工作。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 5,000. Demand for Romance language studies at German universities is stable, but competition for jobs is intense and it is not a shortage occupation. Graduates often work in education, publishing or cultural institutions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 高校或文化机构助理职位 |
-| 中级（4-7年） | $42,000~$55,000 | 讲师或资深翻译 |
-| 高级（8年以上） | $55,000~$75,000 | 教授或高级管理职位 |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Assistant positions at universities or cultural institutions |
+| Mid-level (4-7 years) | $42,000~$55,000 | Lecturer or senior translator |
+| Senior (8+ years) | $55,000~$75,000 | Professor or senior management position |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径：从研究助理或讲师晋升为教授，或在出版、翻译领域成为资深专家。需持续发表学术成果。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of Romance literature experts (literary criticism, cultural interpretation) are hard for AI to fully replace, but basic translation, text proofreading, and corpus analysis will be significantly automated by AI, leading to structural adjustments in job demand.
+
+Career path: From research assistant or lecturer to professor, or become a senior expert in publishing/translation. Requires continuous publication of academic achievements.
+
+**Tasks most exposed to AI:**
+
+- Basic translation and word-for-word translation tasks
+- Corpus retrieval and basic statistical analysis
+- Standardised text proofreading and grammar correction
+- Stylistic feature statistics of simple literary works
+- Basic question-and-answer language teaching tutoring
+
+**Where AI augments the role:**
+
+- Large-scale comparative literary research using corpora and AI
+- Using machine translation to assist in rapid multilingual translation and review
+- Use visualization tools to enhance literary history and genre analysis
+- Personalized language teaching using AI-generated learning materials
+- Discover new research topics based on text mining
+
+**Human moat:**
+
+- Cross-cultural deep understanding and sensitivity
+- Contextualized and historicized interpretation of literary works.
+- Original theoretical and critical framework construction
+- Highly difficult and creative literary translation
+- Interpersonal communication and teaching skills as a cultural bridge
+
+**Skills to build:**
+
+- Digital humanities tools (e.g., text mining, network analysis)
+- Advanced machine translation post-editing techniques
+- Data visualization and statistics basics
+- At least one programming language (Python or R)
+- Interdisciplinary research methods (e.g., cultural studies, media studies)
+- AI-assisted instructional design and learning analytics
+
+**Key growth areas:**
 
 - Academic research
 - Language teaching
@@ -63,61 +99,63 @@ Studies Romance languages (e.g., French, Spanish, Italian), literature, and cult
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明经济能力 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国雇主合同，且职位与学历相关 |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a stay of 6 months in Germany to seek employment, requiring proof of financial means |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must have a German employer contract, and the position must be related to the qualification. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Romance Studies Specialist？**
-- 对罗曼语言和文化有浓厚兴趣的人
-- 愿意从事学术研究或教育行业
+**Who is suited**
+- For those with a strong interest in Romance languages and cultures
+- Willing to engage in academic research or the education industry
 
-**谁不适合学Romance Studies Specialist？**
-- 希望快速就业且高薪的人
-- 不愿接受长期学术训练的人
+**Who is not suited**
+- People seeking quick employment and high salary
+- People unwilling to undergo long-term academic training
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Romance literature specialists?**
+A: Entry-level positions pay about 35,000-42,000 euros per year, while senior roles can reach 75,000 euros, depending on industry and experience.
+
+**Q: How can foreigners immigrate to Germany as Romance language specialists?**
+A: The main pathway is to find relevant work through a job-seeking visa, then apply for a skilled migration visa. This occupation is not in shortage; language proficiency must be demonstrated.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Romance Studies Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Romance Studies specialists?**
-答：Entry-level salary is around €35,000-42,000 per year, senior positions up to €75,000, depending on industry and experience.
-
-**问：How can foreigners immigrate to Germany as Romance Studies specialists?**
-答：Mainly through a job seeker visa to find employment, then apply for a skilled worker visa. The occupation is not in shortage, language proof required.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

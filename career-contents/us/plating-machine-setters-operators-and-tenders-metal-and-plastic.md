@@ -1,60 +1,91 @@
-# Plating Machine Setters, Operators, and Tenders, Metal and Plastic（Plating Machine Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Plating Machine Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4193 – Plating Machine Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4193 (SOC)**
 
-Set up, operate, or tend plating machines to coat metal or plastic products with metals like chromium, zinc, copper, or nickel for corrosion protection or decoration.
+Set up, operate, or monitor electroplating equipment to coat metal or plastic products with layers of chromium, zinc, copper, nickel, etc., for corrosion protection or decoration.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 在职培训（短期） | 1-3个月 | —（通常由雇主提供，无需自费） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| On-the-job training (short-term) | 1-3 months. | $0~$1,000 (Usually provided by the employer, no self-funding needed) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 美国各州教育部 | 必备 | 多数雇主要求高中毕业或GED |
-| 在职培训 | 雇主 | 必备 | 通常需要短期在职培训，学习安全规程和操作步骤 |
+| High school diploma or equivalent | U.S. State Education Departments | Required | Most employers require high school diploma or GED |
+| On-the-job training | Employer | Required | Typically requires short-term on-the-job training to learn safety procedures and operational steps |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 13,700。美国劳工统计局预计该职业就业人数将从2022年的14,200人下降至2032年的13,400人，降幅约5.6%，主要由于自动化替代和制造业外包。每年约1,400个岗位空缺主要来自退休人员补充。
+**Job demand: low (★½☆☆☆).** National workforce approx. 13,700. The US Bureau of Labor Statistics projects that employment in this occupation will decline from 14,200 in 2022 to 13,400 in 2032, a decrease of about 5.6%, mainly due to automation and manufacturing outsourcing. About 1,400 annual job openings mainly come from replacing retirees.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 时薪约13.5-17.3美元 |
-| 中级（3-8年） | $36,000~$45,000 | 时薪约17.3-21.6美元 |
-| 高级（8年以上） | $45,000~$55,000 | 时薪约21.6-26.4美元，少数可达6万 |
+| Median salary | $43,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Hourly wage approximately $13.50-$17.30 |
+| Mid-level (3–8 years) | $36,000~$45,000 | Hourly wage approx. USD 17.3-21.6 |
+| Senior (8+ years) | $45,000~$55,000 | Hourly wage about 21.6-26.4 USD; a few can reach 60,000 |
+| average salary | $45,100 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级操作工可晋升为高级操作工或班组长，之后可转向工艺技术员或质量检验岗位。具备经验者可担任电镀工程师或车间主管，但晋升空间有限，因行业规模较小。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Electroplating operators face high automation risk; AI and robots can handle most monitoring, adjustment, and repetitive operations, leaving only maintenance and anomaly handling for humans. Job demand will be greatly reduced.
+
+Entry-level operators can advance to senior operator or team leader, then to process technician or quality inspection roles. Experienced workers can become plating engineers or workshop supervisors, but advancement is limited due to the small industry scale.
+
+**Tasks most exposed to AI:**
+
+- Monitor electroplating bath level, temperature, current and other parameters, and adjust automatically
+- Select preset plating programs based on workpiece type
+- Regularly adding chemicals and replenishing metal anodes
+- Record production batches and process parameter reports.
+
+**Where AI augments the role:**
+
+- Using digital twin simulation to optimize electroplating process parameters
+- Automated detection of coating quality through AI vision system with timely adjustments
+- Use predictive maintenance systems to detect equipment anomalies early
+
+**Human moat:**
+
+- Handle complex process issues such as coating defects.
+- On-site diagnosis and repair of sudden equipment failures
+- Testing and debugging of new electroplating processes
+- Collaborate with engineers to optimize production line layout
+
+**Skills to build:**
+
+- Basic programming and debugging of Programmable Logic Controllers (PLCs)
+- Industrial robot operation and maintenance
+- Chemical analysis and electroplating solution management
+- Data analysis and reporting tools (e.g., Excel, SQL)
+- Electrical and mechanical maintenance skills
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,65 +94,67 @@ Set up, operate, or tend plating machines to coat metal or plastic products with
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性临时工签证，但电镀操作工通常不符条件，因非季节性行业。 |
-| Subclass H-1B（Specialty Occupations） | 该职业通常不满足H-1B专业职位要求，极少申请。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal temporary worker visa, but electroplating operators usually do not qualify as it is not a seasonal industry. |
+| Subclass H-1B (Specialty Occupations) | This occupation typically does not meet H-1B specialty occupation requirements and is rarely applied for. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Plating Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 愿意从事重复性体力劳动的人
-- 不需要高学历、希望快速就业的人
-- 对化学或制造业基础操作感兴趣的人
+**Who is suited**
+- Willing to perform repetitive physical labor
+- People who don't need high education and want quick employment
+- Individuals interested in basic chemistry or manufacturing operations
 
-**谁不适合学Plating Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 追求高薪和职业发展空间的人
-- 对化学气味或长时间站立工作敏感的人
+**Who is not suited**
+- People pursuing high salary and career development opportunities.
+- People sensitive to chemical odors or long periods of standing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for electroplating operators?**
+A: US electroplating operator median annual salary about $37,000, entry-level about $28,000-$36,000, senior up to $55,000, below manufacturing average.
+
+**Q: Can electroplating operators immigrate to the US through work visas?**
+A: Almost impossible. This occupation typically does not meet H-1B specialty occupation requirements and is not a skilled trade; employer-sponsored green cards (EB-2/EB-3) are highly unrealistic.
+
+**Q: What is the future outlook for this occupation?**
+A: Poor employment outlook; employment is projected to decline by about 5.6% over the next ten years, mainly due to automation and manufacturing offshoring, though retirements may create some openings.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Plating Machine Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of plating machine operators?**
-答：The median annual wage for plating machine operators in the US is about $37,000, with entry-level around $28,000-$36,000, and experienced up to $55,000, below the manufacturing average.
-
-**问：Can plating machine operators immigrate to the US via work visa?**
-答：Highly unlikely. The occupation does not qualify for H-1B specialty occupation, nor is it a skilled trade in shortage. Employer-sponsored green cards (EB-2/EB-3) are not realistic.
-
-**问：What is the job outlook for this occupation?**
-答：Poor outlook; employment is projected to decline about 5.6% over the next decade due to automation and offshoring, though retirements may create some openings.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Financial Analyst（Financial Analyst）职业分析 · ES
+# Financial Analyst — career analysis · Spain
 
-**职业代码：2613 – Financial Analyst。**
+**Occupation code: 2613 (CNO)**
 
-Financial analysts evaluate market trends, investment opportunities, and financial data to advise businesses and investors. They work in banks, investment firms, or corporate finance, using quantitative and qualitative methods to assess financial assets and strategies.
+Financial analysts are responsible for analyzing market trends, investment opportunities, and financial data, providing decision-making advice to companies and investors. They work in banks, investment firms, or corporate finance departments, using both quantitative and qualitative methods to assess financial assets and strategies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$6,000（公立大学学费约1000-2000欧元/年，私立大学约5000-6000欧元/年） |
-| 硕士（Máster） | 1-2年（Máster） | $3,000~$15,000（商学院硕士学费较高，约10000-15000欧元/年） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$6,000 (Tuition at public universities is about 1,000-2,000 euros per year, while private universities are about 5,000-6,000 euros per year) |
+| Máster | 1-2 years (Máster) | $3,000~$15,000 (Master's tuition fees for business schools are relatively high, about 10,000-15,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学或金融学学士学位 | 西班牙大学 | 必备 | 通常要求经济学、金融学或相关领域学士学位 |
-| CFA（特许金融分析师） | CFA Institute | 可选 | 国际认可，提升竞争力，非强制但强烈推荐 |
+| Bachelor's degree in Economics or Finance | Spanish University | Required | Bachelor's degrees in economics, finance, or a related field are usually required |
+| CFA (Chartered Financial Analyst) | CFA Institute | Optional | Internationally recognized, enhancing competitiveness, not mandatory but strongly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙金融分析师需求稳定，随着经济复苏和数字化转型，对数据分析能力的要求提高。马德里和巴塞罗那是主要就业中心，但竞争激烈。拥有硕士学历或国际认证（如CFA）者更具优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for financial analysts in Spain remains stable, and with economic recovery and digital transformation, the demand for data analysis skills is rising. Madrid and Barcelona are major employment hubs, but competition is fierce. Having a master's degree or international certification (such as CFA) is an advantage.
 
-**竞争度：较激烈（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，马德里/巴塞罗那略高 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪，视公司规模和业绩 |
-| 高级（7年以上） | $70,000~$100,000 | 税前年薪，投资经理或研究主管级别 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary: Madrid/Barcelona is slightly higher |
+| Mid-level (3–7 years) | $45,000~$65,000 | Pre-tax annual salary depends on the company's size and performance |
+| Senior (7+ years) | $70,000~$100,000 | Pre-tax annual salary, investment manager or research supervisor level |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级分析师（0-3年）可晋升为高级分析师（3-7年），再至投资经理或研究主管。部分人转向私募股权、风险投资或金融科技领域。CFA资格认证对晋升至关重要。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Junior analysts (0-3 years) can be promoted to senior analysts (3-7 years), then to investment managers or research supervisors. Some have turned to private equity, venture capital, or fintech. CFA qualification is crucial for promotion.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Fintech
 - ESG Investing
@@ -61,65 +97,64 @@ Financial analysts evaluate market trends, investment opportunities, and financi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟专业人士，需大学学历和至少西班牙平均工资1.5倍的工作合同（金融分析师通常符合）。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需雇主担保。公司需证明职位无法由本地或欧盟公民填补，但金融分析师不属紧缺职业，难度中等。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于高技能专业人士（Ley 14/2013），要求大学学历或3年工作经验，且年薪超过一定门槛（约4万欧元）。流程较快。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU professionals who require a university degree and a work contract at least 1.5 times the Spanish average salary (usually met by financial analysts). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship. Companies must prove that the position cannot be filled by local or EU citizens, but financial analysts are not in short supply and are of moderate difficulty. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Applies to highly skilled professionals (Ley 14/2013), requiring a university degree or 3 years of work experience, and an annual salary above a certain threshold (around 40,000 EUR). Faster process. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Analyst？**
-- 对金融市场有浓厚兴趣，具备分析和定量能力
-- 喜欢处理复杂数据并做出决策
-- 愿意持续学习，适应快速变化的金融环境
-
-**谁不适合学Financial Analyst？**
-- 不喜欢高压和长时间工作
-- 对数字不敏感，缺乏逻辑思维
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in financial markets, with analytical and quantitative abilities
+- Enjoy handling complex data and making decisions
+- Be willing to keep learning and adapt to the rapidly changing financial environment
+
+**Who is not suited**
+- Dislikes high pressure and long working hours
+- Not numerically inclined, lacking logical thinking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for financial analysts in Spain?**
+A: Entry-level approx. EUR 30,000-40,000, mid-level EUR 45,000-65,000, senior EUR 70,000-100,000 (pre-tax annual salary). Salary affected by region, company size, and industry.
+
+**Q: How can non-EU citizens immigrate to Spain as financial analysts?**
+A: Immigration is possible through the EU Blue Card (requiring a high-salary contract) or the Highly Skilled Professional visa (Ley 14/2013). University degree and job offer required. Financial analysts are not in short supply; employers must prove they cannot find local candidates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较难（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较激烈（★★★½☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Financial Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a financial analyst in Spain?**
-答：Junior: €30-40k, mid-level: €45-65k, senior: €70-100k (gross annual). Salaries vary by location, company size, and sector.
-
-**问：How can non-EU citizens immigrate to Spain as a financial analyst?**
-答：Via EU Blue Card (requires high salary contract) or Highly Qualified Professional visa (Ley 14/2013). University degree and job offer needed. Not a shortage occupation, so employers must prove no local candidates.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

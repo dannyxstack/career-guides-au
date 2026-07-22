@@ -1,56 +1,92 @@
-# Cleaners and Helpers in Offices, Hotels and Other Establishments（Cleaners and Helpers in Offices, Hotels and Other Establishments）职业分析 · IE
+# Cleaners and Helpers in Offices, Hotels and Other Establishments — career analysis · Ireland
 
-**职业代码：9112 – Cleaners and Helpers in Offices, Hotels and Other Establishments。**
+**Occupation code: 9112 (ISCO08)**
 
-Responsible for cleaning offices, hotels, restaurants and other establishments, including sweeping, vacuuming, mopping, and sanitizing restrooms to ensure a hygienic environment.
+Responsible for cleaning in offices, hotels, restaurants, etc., including sweeping, vacuuming, mopping, and cleaning restrooms to ensure a tidy and hygienic environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常不需要学历，在职培训即可） |
+| No formal education required | None | $0~$0 (Usually no qualifications required, on-the-job training available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础卫生培训 | 雇主 | 可选 | 多数雇主提供岗位培训 |
+| Basic Hygiene Training | Employer | Optional | Most employers provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 25,000。爱尔兰清洁工需求稳定，因旅游业和服务业持续发展，但薪资较低，工作流动性大，预计未来十年就业量持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Stable demand for cleaners in Ireland due to ongoing development of tourism and service industries, but low wages and high job mobility; employment levels expected to remain flat over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 最低工资标准，约22,000-24,000欧元起 |
-| 中级（3-7年） | $26,000~$30,000 | 或有经验或特殊技能 |
-| 高级（7年以上/主管） | $30,000~$36,000 | 主管岗位，负责团队管理 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Minimum wage standard, starting from approximately €22,000-€24,000 |
+| Mid-level (3–7 years) | $26,000~$30,000 | or with experience or special skills |
+| Senior (7+ years/supervisor) | $30,000~$36,000 | Supervisor role, responsible for team management |
+| average salary | $28,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★☆☆☆）。** 通常从初级清洁工起步，可晋升至清洁主管或经理，或转向其他服务业岗位。部分人通过培训获得专业清洁技能（如地毯清洁）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation faces a high risk of automation, with repetitive cleaning tasks being taken over by robots, but interpersonal interaction and adaptability to complex environments remain irreplaceable.
+
+Usually start as entry-level cleaners and can advance to cleaning supervisor or manager, or move to other service roles. Some gain specialised cleaning skills (e.g., carpet cleaning) through training.
+
+**Tasks most exposed to AI:**
+
+- Automatic vacuuming and mopping
+- Regular deep cleaning work (e.g., carpet cleaning)
+- Standardized bathroom cleaning process
+- Garbage collection and sorting
+- Sensor-based environmental monitoring and reporting
+
+**Where AI augments the role:**
+
+- Use AI scheduling system to optimize cleaning routes and times
+- Use robots to assist in large-area cleaning
+- Real-time monitoring of cleaning quality via smart sensors
+- Use data reports to identify high-soil areas
+- Automation tools to improve efficiency in handling special stains
+
+**Human moat:**
+
+- Handle sudden contamination incidents (e.g., vomit, chemical spills)
+- Areas Requiring Manual Fine Cleaning (e.g., Artworks, Precision Equipment)
+- Customer service and complaint handling
+- multi-task coordination and decision-making in complex environments
+- Team management and training new staff
+
+**Skills to build:**
+
+- Operation and maintenance of smart cleaning equipment
+- Basic data analysis and report interpretation
+- Knowledge and application of eco-friendly cleaning agents
+- Customer Communication and Complaint Handling Skills
+- Multi-skill integration (e.g., simple repairs)
+- Time Management and Priority Planning
+
+**Key growth areas:**
 
 - stable demand
 - tourism-driven
@@ -59,67 +95,66 @@ Responsible for cleaning offices, hotels, restaurants and other establishments, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元（2023标准）。 |
-| Subclass EU自由流动（EU Free Movement） | 欧盟/EEA公民可自由工作，无需许可。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation shortage roles, requires employer sponsorship, annual salary no less than €30,000 (2023 standard). |
+| Subclass EU free movement (EU Free Movement) | EU/EEA citizens can work freely without a permit. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cleaners and Helpers in Offices, Hotels and Other Establishments？**
-- 体力好、注重细节的人
-- 希望在服务业稳定就业的人
-- 不追求高薪但希望工作稳定的人
-
-**谁不适合学Cleaners and Helpers in Offices, Hotels and Other Establishments？**
-- 希望高收入和职业晋升的人
-- 不喜欢重复性体力劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are physically fit and detail-oriented
+- Those wishing to secure stable employment in the service industry
+- Those who do not seek high salary but desire stable work
+
+**Who is not suited**
+- People seeking high income and career advancement
+- People who dislike repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of cleaners?**
+A: In Ireland, cleaner annual salaries typically range from €22,000-36,000; entry-level roles around €22,000-26,000, and supervisors can earn over €30,000.
+
+**Q: Can cleaners apply for a work visa?**
+A: Can apply for a General Employment Permit, but requires annual salary of at least €30,000 and employer sponsorship. This occupation is not on the shortage list, making visa approval more difficult.
+
+**Q: What qualifications are needed for cleaning work?**
+A: Formal qualifications are usually not required; on-the-job training provided by employers is sufficient to start working.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 平稳（★★☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cleaners and Helpers in Offices, Hotels and Other Establishments的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for cleaners?**
-答：In Ireland, cleaners earn between €22,000 and €36,000 annually, with entry-level around €22,000-€26,000 and supervisors up to €36,000.
-
-**问：Can cleaners apply for a work visa?**
-答：Yes, via General Employment Permit, but requires salary ≥€30,000 and employer sponsorship. It's not a shortage occupation, so visa approval can be challenging.
-
-**问：What education is needed for cleaning work?**
-答：No formal education is required; on-the-job training is provided by employers.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

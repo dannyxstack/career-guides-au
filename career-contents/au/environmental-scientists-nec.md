@@ -1,59 +1,95 @@
-# Environmental Scientists nec（Environmental Scientists nec）职业分析 · 澳大利亚
+# Environmental Scientists nec — career analysis · Australia
 
-**职业代码：234399 – Environmental Scientists nec。**
+**Occupation code: 234399 (ANZSCO)**
 
-Environmental Scientists nec study environmental issues including pollution control, resource management, and ecological conservation, providing scientific advice for sustainable development and policy.
+Research environmental issues, including pollution control, resource management, and ecological protection, providing scientific advice to support sustainable development and government decision-making.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$50,000（澳洲大学本科国际学生学费年约AUD30,000-50,000） |
-| 硕士 | 1.5-2年 | $35,000~$55,000（硕士课程学费年约AUD35,000-55,000） |
+| Bachelor's degree | 3-4 years | $30,000~$50,000 (International undergraduate tuition fees at Australian universities are approximately AUD 30,000-50,000 per year.) |
+| Master's degree | 1.5-2 years | $35,000~$55,000 (Master's tuition fees approx. AUD 35,000-55,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境科学或相关领域学士学位 | 澳洲大学 | 必备 | 通常要求 |
-| 职业评估（VETASSESS） | VETASSESS | 必备 | 技术移民必需 |
-| 环境管理或可持续发展硕士 | 澳洲大学 | 可选 | 可增强竞争力 |
+| Bachelor's degree in environmental science or related field | Australian universities | Required | Usually required |
+| Skills assessment (VETASSESS). | VETASSESS | Required | Essential for skilled migration |
+| Master's degree in environmental management or sustainable development | Australian universities | Optional | Can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。澳洲对环境和可持续发展日益重视，该职业需求稳步增长。联邦和州政府、矿业、咨询公司等均有较多岗位，未来五年就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 18,000. Growing demand due to Australia's increasing focus on environment and sustainability. Many roles in federal/state governments, mining, and consulting firms; good employment prospects over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 入门级，通常在政府或咨询公司 |
-| 中级（3-7年） | $75,000~$95,000 | 具有项目经验，可独立工作 |
-| 高级（7年以上） | $100,000~$130,000 | 担任项目经理或资深顾问 |
+| Median salary | $101,556 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Entry-level, typically in government or consulting firms |
+| Mid-level (3–7 years) | $75,000~$95,000 | Has project experience and can work independently |
+| Senior (7+ years) | $100,000~$130,000 | Work as a project manager or senior consultant |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 通常从初级环境科学家或顾问起步，积累经验后可晋升为高级科学家、团队主管或项目负责人。部分人转向政策制定或学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
+
+Typically start as junior environmental scientist or consultant, then advance to senior scientist, team leader, or project manager. Some move into policy or academia.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft routine environmental impact assessment reports
+- Template-based data organization and statistical analysis
+- Document compliance checking (e.g., regulatory clause matching)
+- Basic environmental monitoring data recording and anomaly alerts
+- Literature review and preliminary database screening
+
+**Where AI augments the role:**
+
+- High-precision environmental modeling and pollution dispersion simulation
+- Automatic interpretation of remote sensing images and change detection
+- Real-time environmental impact prediction and scenario analysis
+- AI-assisted regulatory tracking and compliance recommendations
+- Intelligent summaries and visualizations of client reports.
+
+**Human moat:**
+
+- Making judgments and interpretations in complex policies and regulations
+- On-site field sampling and equipment operation
+- Communication and coordination with communities, government, and businesses
+- Develop innovative environmental management strategies
+- Take on professional responsibility and legal endorsement
+
+**Skills to build:**
+
+- Geographic information systems and remote sensing analysis (QGIS, Google Earth Engine)
+- Python/R programming and data science (pandas, scikit-learn)
+- Environmental modeling software (e.g., AERMOD, SWMM)
+- AI tool applications (e.g., ChatGPT for report writing, Copilot for code assistance)
+- Environmental Policy Interpretation and Strategic Consulting
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Environmental consulting
 - Climate change adaptation
@@ -62,65 +98,64 @@ Environmental Scientists nec study environmental issues including pollution cont
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 基于分数，无需担保，可在澳洲任何地区工作 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，获额外5分，需在担保州工作至少2年 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保或亲属担保，临时签证，需在偏远地区工作生活3年转PR |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，短中长期职业均可，可转186永居 |
+| Subclass 189 (Skilled Independent Visa) | Points-based, no sponsorship required, can work anywhere in Australia |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination, gets an additional 5 points, must work in the nominating state for at least 2 years. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional state nomination or family sponsorship, temporary visa, requires 3 years of living and working in a regional area to transition to PR |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, valid for short, medium, and long-term occupations, can transition to 186 permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Scientists nec？**
-- 热爱自然与环境，具备科学分析能力和解决复杂问题的兴趣
-- 具备良好沟通技巧，能够与政府、企业和社区合作
-
-**谁不适合学Environmental Scientists nec？**
-- 不喜欢户外工作或实地考察
-- 对长时间报告撰写和数据分析缺乏耐心
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and the environment, with scientific analysis skills and interest in solving complex problems
+- Possess good communication skills to collaborate with government, businesses, and communities
+
+**Who is not suited**
+- Dislike outdoor work or field trips.
+- Impatient with lengthy report writing and data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for environmental scientists?**
+A: Junior: about AUD 60,000-75,000; mid-level: about AUD 75,000-95,000; senior: up to AUD 100,000+ depending on industry and experience.
+
+**Q: How can environmental scientists migrate to Australia through skilled migration?**
+A: This occupation is on the MLTSSL and STSOL, eligible for 189 Skilled Independent, 190 State Nominated, 491 Regional, or 482 Employer Sponsored visas, and requires a VETASSESS skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Environmental Scientists nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for environmental scientists?**
-答：Entry-level around AUD60,000-75,000, mid-level AUD75,000-95,000, senior can exceed AUD100,000, depending on industry and experience.
-
-**问：How can environmental scientists migrate to Australia via skilled migration?**
-答：This occupation is on MLTSSL and STSOL, eligible for 189, 190, 491, or 482 visas, requiring a positive VETASSESS skills assessment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

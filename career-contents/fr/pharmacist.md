@@ -1,61 +1,97 @@
-# Pharmacist（Pharmacist）职业分析 · FR
+# Pharmacist — career analysis · France
 
-**职业代码：J1202 – Pharmacist。**
+**Occupation code: J1202 (ROME)**
 
-Dispenses medications, provides patient counseling, manages drug inventory, and ensures pharmaceutical safety. Works in pharmacies, hospitals, or the pharmaceutical industry.
+Responsible for dispensing medications, providing medication guidance to patients, managing drug inventory, and supervising drug safety. Working in pharmacies, hospitals, or the pharmaceutical industry.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业→预备班+6年制药学院 | 6年（D Pharm） | $5,000~$12,000（公立大学学费，含实习费用） |
-| 学徒制药剂师文凭 | 3年（CAP+BAC Pro） | $1,000~$5,000（学徒制学费低，有工资） |
+| High school graduation → preparatory class + 6 years of pharmaceutical college | 6 years (D Pharm) | $5,000~$12,000 (Public university tuition, including internship fees) |
+| Apprentice Pharmacist diploma | 3 years (CAP+BAC Pro) | $1,000~$5,000 (Apprenticeship tuition is low and there is a salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家药学文凭 | 法国高等教育和研究部 | 必备 | 必须持有药学博士学位（Diplôme d'État de docteur en pharmacie）才能执业。 |
-| 药师资格注册 | 法国药剂师公会 | 必备 | 需在药剂师公会注册，获得执业资格。 |
-| 继续教育学分 | 法国药剂师协会 | 必备 | 每年需完成特定继续教育学分以维持注册。 |
+| National Pharmacy Diploma | French Ministry of Higher Education and Research | Required | A Doctor of Pharmacy degree (Diplôme d'État de docteur en pharmacie) is required to practice. |
+| Pharmacist qualification registration | French Pharmacists Association | Required | Must register with the Pharmacists Association to obtain a professional qualification. |
+| Continuing education credits | French Pharmacists Association | Required | Specific continuing education credits must be completed each year to maintain enrollment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 74,000。法国药剂师行业受人口老龄化和药品需求增长驱动，就业稳定。新药研发和社区药房扩张提供机会，但公立医院岗位竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 74,000. The pharmacist industry in France is driven by population aging and growing demand for pharmaceuticals, resulting in stable employment. New drug development and community pharmacy expansion offer opportunities, but competition for public hospital positions is moderate.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，社区药房助理药剂师 |
-| 中级（4-10年） | $45,000~$60,000 | 税前年薪，药房经理或医院药剂师 |
-| 高级（10年以上） | $65,000~$90,000 | 税前年薪，区域主管或制药企业高管 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary, community pharmacy assistant pharmacist |
+| Mid-level (4-10 years). | $45,000~$60,000 | Pre-tax annual salary, pharmacy manager, or hospital pharmacist |
+| Senior (10+ years) | $65,000~$90,000 | Pre-tax annual salary, regional supervisor or pharmaceutical company executive |
+| average salary | $48,288 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业生涯可从社区药房助理药剂师起步，晋升至药房经理或区域药剂师主管，也可转向医院药学或制药企业监管岗位，需持续教育。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Impact of Pharmacist Work: Automated dispensing improves efficiency, but clinical consultation and complex drug management cannot replace it. Competition for entry-level positions intensifies, yet high-value tasks still rely on human expertise.
+
+Careers can start as assistant pharmacists in community pharmacies, advance to pharmacy managers or regional pharmacist supervisors, or transition to hospital pharmacy or pharmaceutical company regulatory roles, requiring ongoing education.
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks (automatically completed by AI drug knowledge base)
+- Pharmaceutical Inventory Management and Automatic Replenishment (Intelligent Inventory System)
+- Standard dose calculation and label printing (algorithm-generated automatically)
+- Drug information inquiry and basic medication guidance (chatbot answers frequently asked questions)
+- Prescription Distribution and Logistics Tracking (Automated System)
+
+**Where AI augments the role:**
+
+- Optimizing personalized drug delivery plans (such as genetic testing and drug matching) using AI big data analysis
+- Rapidly identify complex drug interactions through intelligent decision support systems
+- Using remote monitoring platforms to track medication adherence among chronic disease patients
+- AI-Assisted Drug Development and Clinical Trial Management (in pharmaceutical enterprise scenarios)
+- Using natural language processing to extract the latest medical literature knowledge for clinical practice
+
+**Human moat:**
+
+- Clinical judgment and multi-drug coordination decision-making in complex cases
+- Build trust with patients and provide emotional support
+- Handling unstructured clinical issues (such as rare diseases)
+- Assume legal responsibility (prescription issuance and final safety check)
+- Cross-disciplinary collaboration and communication (doctors, nurses, patients)
+
+**Skills to build:**
+
+- Clinical pharmacogenomics interpretation and application
+- Data-driven patient health management (analyzing compliance metrics)
+- Fundamentals of AI and Machine Learning (Understanding Algorithm Limitations)
+- Telemedicine and digital health tool operation
+- Management of complex chronic diseases (such as diabetes and cardiovascular diseases)
+- Communication and consultation skills (dealing with interpersonal interactions that AI cannot replace)
+
+**Key growth areas:**
 
 - Aging Population
 - Pharmaceutical Innovation
@@ -64,69 +100,68 @@ Dispenses medications, provides patient counseling, manages drug inventory, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高级技术人才，如持有硕士以上学历并有工作合同，可获4年居留。 |
-| Subclass Salarié（Salaried Employee Visa） | 常规工作签证，需获得法国雇主工作合同，并满足薪资和学历要求。 |
-| Subclass Carte bleue européen（EU Blue Card） | 适用于高技能非欧盟公民，需至少1年工作合同和高于平均薪资水平。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to senior technical talents; those holding a master's degree or above and having a work contract can obtain a 4-year residence permit. |
+| Subclass Salarié (Salaried Employee Visa) | For a regular work visa, you must obtain a work contract from a French employer and meet salary and education requirements. |
+| Subclass Carte bleue européen (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring at least a one-year work contract and salary above the average. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacist？**
-- 对药物和化学有浓厚兴趣的人
-- 注重细节、责任心强的人
-- 希望从事稳定医疗职业的人
-
-**谁不适合学Pharmacist？**
-- 不善于与人沟通的人
-- 无法适应长时间站立工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in medicine and chemistry
+- Detail-oriented and responsible individuals
+- Those who wish to pursue stable medical careers
+
+**Who is not suited**
+- People who are not good at communicating with others
+- People who cannot adapt to standing for long periods at work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of pharmacists in France?**
+A: Junior pharmacists earn about 35,000-42,000 euros per year, intermediate pharmacists 45,000-60,000 euros per year, and senior pharmacists up to 65,000-90,000 euros per year.
+
+**Q: How can non-EU pharmacists immigrate to France?**
+A: Requires recognition of qualifications by the French National Agency for Medicines, completion of equivalence procedures, then moving to France via a work visa (e.g., Passeport Talent or Salarié).
+
+**Q: Is pharmacist a regulated profession in France?**
+A: Yes, pharmacists must hold a national pharmacy diploma and be registered with the Pharmacy Board; it is a regulated occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Pharmacist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a pharmacist in France?**
-答：Entry-level pharmacists earn around €35,000-42,000/year, mid-level €45,000-60,000/year, and senior up to €65,000-90,000/year.
-
-**问：How can non-EU pharmacists migrate to France?**
-答：Their degree must be recognized by the French Pharmacy Authority, complete qualification equivalence, then obtain a work visa (e.g., Talent Passport or Salarié).
-
-**问：Is pharmacist a regulated profession in France?**
-答：Yes, pharmacists must hold a state pharmacy diploma and register with the Order of Pharmacists.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Software Engineer（Software Engineer）职业分析 · 新西兰
+# Software Engineer — career analysis · New Zealand
 
-**职业代码：261312 – Software Engineer。**
+**Occupation code: 261312 (ANZSCO)**
 
-Software engineers design, develop, and maintain software systems in New Zealand, a top choice for skilled migration via Green List Tier 1 direct residence or SMC 6-point system, with stable demand and competitive salaries.
+Software engineers design, develop, and maintain software systems in New Zealand. It is one of the top occupations for skilled migration, eligible for direct residence via the Green List or SMC 6-point system, with stable employment demand and competitive salaries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$45,000（新西兰8所国立大学学费，国际生约3万-4.5万NZD/年） |
-| 硕士 | 1.5-2年 | $40,000~$60,000（硕士课程费用高，但加速移民加分） |
+| Bachelor's degree | 3-4 years | $30,000~$45,000 (Tuition fees at New Zealand's 8 national universities: international students approximately NZD 30,000-45,000/year.) |
+| Master's degree | 1.5-2 years | $40,000~$60,000 (Master's program costs are high but accelerate immigration points) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 本科学位 (计算机科学) | 大学 | 必备 | 通常需要，雇主认可度最高 |
-| ITPNZ 认证 | IT Professionals New Zealand | 可选 | 专业协会认证，提升竞争力 |
-| 雅思6.5 | IELTS | 必备 | 技术移民语言要求，或同等PTE/OET |
+| Bachelor's degree (Computer Science) | University | Required | Usually required, highest employer recognition |
+| IELTS 6.5 | IELTS | Required | English requirement for skilled migration, or equivalent PTE/OET |
+| ITPNZ accreditation | IT Professionals New Zealand | Optional | Professional association certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 35,000。新西兰IT行业持续增长，尤其云服务、AI和数据科学领域，惠灵顿和奥克兰需求最旺。数字经济投资和远程工作趋势保障长期就业前景，2025年预计新增岗位5000+。
+**Job demand: very high (★★★★½).** National workforce approx. 35,000. New Zealand's IT industry continues to grow, especially in cloud services, AI, and data science, with highest demand in Wellington and Auckland. Digital economy investment and remote work trends ensure long-term employment prospects, with over 5,000 new jobs expected in 2025.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 奥克兰/惠灵顿略高 |
-| 中级（3-7年） | $90,000~$130,000 | 含全栈、DevOps等专长 |
-| 高级（7年以上） | $130,000~$180,000 | 架构师或主管级别可达20万+ |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Slightly higher in Auckland/Wellington |
+| Mid-level (3–7 years) | $90,000~$130,000 | Including specialisations such as full-stack, DevOps, etc. |
+| Senior (7+ years) | $130,000~$180,000 | Architect or director level can reach 200k+ |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级开发可晋升至高级工程师、架构师或技术经理，也可转向DevOps、AI/ML专家，或成为独立顾问。大公司有清晰技术或管理双轨道。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+From junior development, can advance to senior engineer, architect, or technical manager, or pivot to DevOps, AI/ML specialist, or become an independent consultant. Large companies have clear dual tracks in technology or management.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Software engineers design, develop, and maintain software systems in New Zealand
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色列表直接居留路径，无工作年限要求，需有认证雇主担保 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，本科3分+工作3年3分即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工作签证，可后续转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets the Green List Straight to Residence pathway with no work experience requirement; must have certified employer sponsorship |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: bachelor 3 points + 3 years work 3 points, can apply |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, with potential to transition to residence |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Engineer？**
-- 有计算机相关本科及以上学历的应届或毕业生
-- 有3年以上开发经验、擅长英语沟通的技术人员
-- 希望快速获取新西兰永久居留权的技术移民申请者
-
-**谁不适合学Software Engineer？**
-- 不愿持续学习新技术或框架的人
-- 无法适应远程协作或灵活工时的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Recent graduates or graduates with a bachelor's degree or higher in computer-related fields
+- Technical personnel with over 3 years of development experience and strong English communication skills
+- Skilled migration applicants seeking fast-track New Zealand permanent residency
+
+**Who is not suited**
+- People unwilling to continuously learn new technologies or frameworks
+- Those unable to adapt to remote collaboration or flexible hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of software engineers in New Zealand?**
+A: Entry-level annual salary approx. NZD 65,000–85,000, intermediate NZD 90,000–130,000, senior NZD 130,000–180,000. Auckland and Wellington slightly higher, but cost of living is also high.
+
+**Q: How can software engineers immigrate to New Zealand through skilled migration?**
+A: Software engineer is on Green List T1 and can apply for direct residency visa. For SMC 6-point system: bachelor's 3 points + 3 years work is enough. Requires accredited employer and IELTS 6.5.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Software Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a software engineer in NZ?**
-答：Junior: NZD 65k-85k; Intermediate: NZD 90k-130k; Senior: NZD 130k-180k. Auckland and Wellington pay slightly more.
-
-**问：How can a software engineer migrate to NZ?**
-答：Software engineer is on Green List Tier 1, eligible for Straight to Residence. SMC 6-point: bachelor's 3 points + 3 years work. Requires accredited employer, IELTS 6.5.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,91 @@
-# Mobile Farm and Forestry Plant Operator（Mobile Farm and Forestry Plant Operator）职业分析 · IE
+# Mobile Farm and Forestry Plant Operator — career analysis · Ireland
 
-**职业代码：8341 – Mobile Farm and Forestry Plant Operator。**
+**Occupation code: 8341 (ISCO08)**
 
-Operate mobile farm and forestry plant machinery such as tractors and harvesters for plowing, planting, harvesting, and forestry operations.
+Operate mobile agricultural and forestry machinery such as tractors and harvesters for plowing, planting, harvesting, and forestry operations
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育后培训 | 1-2年（证书或高级证书） | $3,000~$8,000（私立培训机构或农业学院费用） |
-| 学徒制 | 2-4年 | —（雇主资助，部分课程费用自理） |
+| Post-secondary training | 1-2 years (certificate or advanced certificate) | $3,000~$8,000 (Costs for private training institutions or agricultural colleges) |
+| Apprenticeship | 2-4 years | $0~$2,000 (Employer-sponsored, some course fees to be paid by self) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 拖拉机驾驶执照（类别W） | 道路安全局（RSA） | 必备 | 操作特定农用车辆可能需要 |
-| 农药使用证书 | 农业、食品和海洋部 | 可选 | 涉及农药喷洒作业时必需 |
-| 急救证书 | 爱尔兰红十字会等 | 可选 | 农场安全推荐 |
+| Tractor driving licence (Class W) | Road Safety Authority (RSA) | Required | Operating certain agricultural vehicles may require |
+| Pesticide use certificate | Department of Agriculture, Food and the Marine | Optional | Mandatory when involving pesticide spraying operations |
+| First aid certificate | Irish Red Cross, etc. | Optional | Farm safety recommendations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰农业和林业部门对机械化操作员有稳定需求，尤其是随着精准农业推广，技能要求提升，就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. The Irish agriculture and forestry sectors have stable demand for machinery operators, especially with precision agriculture adoption, skill requirements rising, and good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，含管理层或特殊技能 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Pre-tax annual salary, including management or special skills |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级操作员晋升为高级机械操作员或农场经理，也可通过培训成为农业技术顾问或设备销售专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will partially replace driving and monitoring tasks but enhance decision support and precision operations. Operators must transition to hybrid technical-management roles.
+
+Can progress from entry-level operator to senior machinery operator or farm manager, and also become an agricultural technology consultant or equipment sales specialist through training.
+
+**Tasks most exposed to AI:**
+
+- GPS-based automatic navigation driving (e.g., tractor autopilot)
+- Real-time sensor data monitoring and alerts (e.g., soil moisture, crop maturity)
+- Routine path planning and work area calculation
+
+**Where AI augments the role:**
+
+- Use AI to analyze satellite/drone imagery for precision fertilization and spraying decisions.
+- Smart agricultural machinery data platform integrates yield, soil, and weather information to optimize work plans
+- Remote monitoring and fault prediction reduce downtime
+
+**Human moat:**
+
+- Emergency judgment and handling under complex field conditions (e.g., mechanical failure, animal intrusion)
+- On-site coordination and team collaboration for multi-device operations
+- Experiential understanding of local crop characteristics, soil texture, and climate
+
+**Skills to build:**
+
+- Smart agricultural machinery operation and maintenance
+- Geographic Information System (GIS) and remote sensing data analysis
+- Basic programming and data analysis (Python/R)
+- Application of precision agriculture technology
+- Digital communication and remote collaboration tools
+- Mechanical and electrical fault diagnosis
+
+**Key growth areas:**
 
 - Precision Agriculture
 - Mechanization
@@ -64,63 +94,65 @@ Operate mobile farm and forestry plant machinery such as tractors and harvesters
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪通常不低于30000欧元。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand, requires employer sponsorship, annual salary usually not less than 30,000 euros. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mobile Farm and Forestry Plant Operator？**
-- 喜欢户外工作和动手操作机械的人
-- 对农业和林业有热情，能适应季节性强度工作
+**Who is suited**
+- People who enjoy outdoor work and hands-on mechanical operations
+- Passionate about agriculture and forestry, able to adapt to seasonal intensity
 
-**谁不适合学Mobile Farm and Forestry Plant Operator？**
-- 偏好固定室内办公环境的人
-- 无法适应体力劳动和长时间户外作业的人
+**Who is not suited**
+- People who prefer a fixed indoor office environment
+- Those unable to adapt to physical labor and long hours of outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for mobile farm and forestry equipment operators in Ireland?**
+A: Entry-level annual salary approximately €25,000-32,000, rising to €32,000-40,000 with experience, and up to €50,000 for senior operators.
+
+**Q: Is it easy to immigrate to Ireland for this occupation?**
+A: This occupation is not on the Ireland Critical Skills Occupations List, requiring a General Employment Permit application with higher thresholds, typically needing employer sponsorship and meeting salary requirements.
+
+**Q: What are the promotion paths for this profession?**
+A: Can advance to senior operator, farm manager, or through further training become an agricultural technology consultant or equipment sales representative.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mobile Farm and Forestry Plant Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mobile farm and forestry plant operators in Ireland?**
-答：Entry-level salaries range from €25,000 to €32,000, experienced operators earn €32,000-€40,000, and senior operators can earn up to €50,000 per year.
-
-**问：Is it easy to immigrate to Ireland as a mobile farm and forestry plant operator?**
-答：This occupation is not on the Critical Skills list; migration requires a General Employment Permit with employer sponsorship and meeting salary thresholds.
-
-**问：What are the career progression paths for this occupation?**
-答：You can progress to senior operator, farm manager, or move into agri-tech consulting or equipment sales with additional training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

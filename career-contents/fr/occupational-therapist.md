@@ -1,60 +1,92 @@
-# Occupational Therapist（Occupational Therapist）职业分析 · FR
+# Occupational Therapist — career analysis · France
 
-**职业代码：J1403 – Occupational Therapist。**
+**Occupation code: J1403 (ROME)**
 
-Helps individuals with physical, mental, or social disabilities due to illness, injury, or accident regain independence in daily life through activity training, environmental adaptations, and assistive devices.
+Helping people with physical, psychological, or social dysfunction caused by illness, disability, or accidents regain independent living ability by providing personalized rehabilitation programs through daily activity training, environmental modification, and assistive devices.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（职业治疗文凭） | 3年 | $5,000~$15,000（公立大学约5000€/年，私立高商约15000€/年） |
-| 硕士（继续教育或专科） | 2年 | $8,000~$20,000（部分大学提供，学费8000-20000€/年） |
+| Bachelor's degree (Diploma in Occupational Therapy) | 3 years | $5,000~$15,000 (Public universities approx. €5,000/year, private business schools approx. €15,000/year) |
+| Master's (Continuing Education or Associate Degree) | 2 years | $8,000~$20,000 (Some universities offer tuition fees, with tuition ranging from 8,000 to 20,000 € per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家职业治疗文凭（DE ergothérapeute） | 法国卫生与体育部 | 必备 | 唯一合法执业资格，需完成认可课程并通过国家考试 |
-| 职业治疗注册证书 | ARS（地区卫生局） | 必备 | 需向ARS注册后方可执业 |
+| National Diploma in Occupational Therapy (DE ergothérapeute) | French Ministry of Health and Sport | Required | The only legal professional qualification, requiring completion of accredited courses and passing national exams |
+| Occupational therapy registration certificate | ARS (Regional Health Bureau) | Required | You must register with ARS before you can practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,000。法国老龄化加剧及残疾人融入政策推动需求增长，就业前景良好。医院、康复中心、养老院及社区均有岗位，且与全科医生协作密切。
+**Job demand: high (★★★★☆).** National workforce approx. 13,000. France's aging population and policies to accommodate people with disabilities are driving demand growth and promising employment prospects. Hospitals, rehabilitation centers, nursing homes, and communities all have positions, and they work closely with general practitioners.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公立医院起薪约28000€，私立机构略高 |
-| 中级（4-10年） | $36,000~$45,000 | 含专科经验或管理职责 |
-| 高级（10年以上） | $46,000~$58,000 | 诊所负责人、教学或研究岗位 |
+| Median salary | $40,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Public hospitals have a starting salary of about €28,000, while private institutions offer slightly higher salaries |
+| Mid-level (4-10 years). | $36,000~$45,000 | Include associate degree experience or management responsibilities |
+| Senior (10+ years) | $46,000~$58,000 | Clinic heads, teaching, or research positions |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级治疗师晋升为团队负责人、专科治疗师（如手部治疗、儿科），或转向教学、研究、管理岗位。也可开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance occupational therapists' capabilities, improving efficiency through intelligent assessments, virtual training, and personalized program design, but core human empathy and adaptive interventions are difficult to replace, making career prospects optimistic.
+
+Therapists can be promoted from junior therapists to team leaders, specialist therapists (such as hand therapy, pediatrics), or transition to teaching, research, or management roles. Private clinics can also be opened.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and organization of routine assessment reports
+- Patient progress tracking and document recording are completed through AI systems
+- Recommendation and matching of standardized treatment regimens
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of patient functional data provides personalized intervention recommendations
+- Use virtual reality or gamification tools to enhance training effectiveness and patient engagement
+- Remote monitoring of patients' home training status allows timely adjustment of plans
+- Automated medical record summaries and insurance reimbursement documents through natural language processing
+
+**Human moat:**
+
+- Build therapeutic relationships and emotional support
+- Flexible adjustment of treatment strategies based on real-time patient feedback
+- Assess the feasibility and safety of environmental modifications
+- Dealing with complex psychosocial factors and family dynamics
+
+**Skills to build:**
+
+- Data analysis and interpretation (such as patient data trend analysis)
+- Operation and integration of digital therapy tools (such as VR and wearable devices).
+- AI tool selection and validation (evaluating the reliability of AI recommendations)
+- Telemedicine and communication skills
+- Interdisciplinary collaboration (working with engineers and data scientists)
+- Ability to continuously learn new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Disability inclusion
@@ -63,69 +95,68 @@ Helps individuals with physical, mental, or social disabilities due to illness, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能职业治疗师，需获得法国雇主聘用且年薪超过30000€，可获4年居留 |
-| Subclass Salarié（Salaried Employee） | 传统受雇工作居留，需工作许可和雇主担保，长期合同 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于管理或高技能岗位，年薪至少40000€，职业治疗师一般难达标 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled occupational therapists, who must be employed by a French employer and earn an annual salary exceeding €30,000, eligible for 4 years of residency |
+| Subclass Salarié (Salaried Employee) | Traditional employed work residence requires a work permit and employer sponsorship, as well as a long-term contract |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to management or high-skilled positions with annual salary at least €40,000; occupational therapists generally find it hard to meet this |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Therapist？**
-- 有耐心和同理心，乐于帮助他人恢复生活能力
-- 善于解决问题，能创造性设计个性化治疗方案
-- 对医学、心理学和人体工学感兴趣
-
-**谁不适合学Occupational Therapist？**
-- 不擅长与患者沟通或面对情绪波动
-- 希望快速获得高薪或完全避免文书工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, willing to help others regain their ability to live
+- Skilled at problem-solving and creatively designing personalized treatment plans
+- Interested in medicine, psychology, and ergonomics
+
+**Who is not suited**
+- Poor at communicating with patients or dealing with emotional fluctuations
+- Hope to quickly secure high salary or completely avoid paperwork.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an occupational therapist?**
+A: Entry-level approx €28,000-35,000, mid-level €36,000-45,000, senior €46,000-58,000, little difference between public and private hospitals.
+
+**Q: How can third-country occupational therapists immigrate to France?**
+A: You must first obtain a French-recognized occupational therapy diploma or pass the reconnaissance des qualifications, then find an employer to apply for a Salarié or Passeport Talent visa. French must be at B2 level.
+
+**Q: Is occupational therapy a regulated occupation?**
+A: Yes, France strictly regulates occupational therapists; they must hold a national diploma and be registered with the ARS, otherwise they cannot practice legally.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Occupational Therapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for occupational therapists?**
-答：Entry-level around €28,000-35,000, mid-level €36,000-45,000, senior €46,000-58,000, with little difference between public and private sectors.
-
-**问：How can a third-country occupational therapist immigrate to France?**
-答：Must first obtain an approved French degree or pass qualification recognition, then find an employer for a Salarié or Talent Passport visa. French proficiency at B2 is required.
-
-**问：Is occupational therapy a regulated profession?**
-答：Yes, it is strictly regulated in France, requiring a national diploma and registration with the ARS to practice legally.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Electoral Officer（Electoral Officer）职业分析 · 新西兰
+# Electoral Officer — career analysis · New Zealand
 
-**职业代码：599616 – Electoral Officer。**
+**Occupation code: 599616 (ANZSCO)**
 
-Electoral officers in New Zealand work for the Electoral Commission and local councils, organizing elections, managing voter rolls, vetting candidates, and overseeing polling stations. While listed in ANZSCO under Government & Public Sector, this occupation has limited immigration pathways, generally requiring Accredited Employer or specific skill alignment.
+Election officials work in the New Zealand Electoral Commission and local councils, responsible for election organization, voter registration, candidate eligibility checks, and polling station management. Although the occupation is in the government and public sector under ANZSCO, New Zealand's skilled migration policy usually does not directly target this role; migration pathways are limited, generally through accredited employers or special skill matching.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（公共管理/政治学/法律） | 3年 | $22,000~$35,000（新西兰大学国际学生年均学费，本地学生约$6,000-8,000） |
-| 研究生文凭（选举管理或公共政策） | 1年 | $25,000~$40,000（国际学生，可选维多利亚大学等） |
+| Bachelor's degree (Public Administration/Political Science/Law). | 3 years | $22,000~$35,000 (Average annual international student tuition at New Zealand universities; domestic students pay about $6,000-8,000) |
+| Postgraduate diploma (election management or public policy) | 1 year | $25,000~$40,000 (International students, options like Victoria University) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 选举管理证书（Certificate in Electoral Administration） | 新西兰选举委员会与高校联合提供 | 可选 | 在线课程，非强制但有利于就业 |
-| 无特定注册要求 | — | 必备 | 但需通过背景调查（Police Vetting） |
+| No specific registration requirements | — | Required | But requires passing a background check (Police Vetting) |
+| Certificate in Electoral Administration | Jointly provided by the New Zealand Electoral Commission and universities | Optional | Online course, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 150。新西兰选举周期稳定，每三年一次大选及地方选举，常设岗位少但关键。就业机会主要集中于选举年，临时岗位需求大。预计未来就业保持平稳，无显著增长，竞争中等。
+**Job demand: low (★½☆☆☆).** National workforce approx. 150. New Zealand's election cycle is stable, with general and local elections every three years; permanent positions are few but key. Employment opportunities concentrate in election years, with high demand for temporary roles. Future employment is expected to remain stable with no significant growth, medium competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 临时岗位或助理级别 |
-| 中级（3-6年） | $70,000~$90,000 | 常设选举官员或团队负责人 |
-| 高级（6年以上） | $90,000~$110,000 | 选举经理或区域主任 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Temporary position or assistant level |
+| Mid-level (3–6 years) | $70,000~$90,000 | Permanent election official or team leader |
+| Senior (6+ years) | $90,000~$110,000 | Campaign Manager or Regional Director |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业晋升路径：从初级选举官员或选区助理起步，可晋升为高级选举官员、选举经理或区域主任，最终有机会进入政策或管理岗位。需积累项目管理和法规知识。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will largely automate election officials' data processing and compliance checks, but core voter interaction, adjudication responsibility, and sensitive data protection still rely on humans, entry-level roles decrease due to AI tools, but professional roles remain stable.
+
+Career progression path: start as a junior election official or constituency assistant, advance to senior election official, election manager, or regional director, and eventually move into policy or management roles. Requires project management and regulatory knowledge.
+
+**Tasks most exposed to AI:**
+
+- Automated data extraction and entry from voter registration forms
+- Election material compliance checks (e.g., candidate file formats, signature verification)
+- Rule-based vote counting verification and anomaly marking
+- Automated replies for standard email/phone inquiries (AI customer service)
+- Election location allocation and resource scheduling optimization (AI planning)
+
+**Where AI augments the role:**
+
+- AI-assisted voter identity verification and fraud detection to enhance security
+- Real-time data dashboards and predictive models to support election-day decision-making
+- Automatically generate voter education content (multilingual, accessible)
+- Intelligently analyze voting trends to optimize site resource allocation
+- Cross-system automatic data synchronization to reduce manual verification
+
+**Human moat:**
+
+- Handling voter complaints, dispute arbitration requiring judgment and empathy
+- Election law interpretation and on-the-spot rulings (e.g., boundary disputes)
+- Privacy protection and ethical decision-making for sensitive voter data
+- Relationship maintenance and trust building with local communities and political parties
+- Ensuring physical service delivery for special groups (people with disabilities, remote electorates)
+
+**Skills to build:**
+
+- Proficiency in Election Management Systems (e.g., EVE) and Data Integration Tools
+- Learning AI/ML basics for fraud detection and predictive analytics
+- Enhance cross-cultural communication and conflict resolution skills
+- Proficiency in privacy regulations (e.g., Australian Privacy Act) and cybersecurity basics
+- Familiarity with Python/SQL for Automated Report Generation
+- Project management (PMP certification) to coordinate AI tool deployment during election cycles
+
+**Key growth areas:**
 
 - Limited
 - Stable
@@ -63,66 +99,68 @@ Electoral officers in New Zealand work for the Electoral Commission and local co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 仅当雇主获得认证且证明无法招到本地人时，可担保工签，但此职业非短缺，获批难度大 |
-| Subclass SMC（Skilled Migrant Category） | 此职业不在绿名单，需满足六分制且工资远高于中位数，通常不适用 |
-| Subclass Other（Specific Purpose Work Visa (Election)） | 选举期间临时工签，有效期短，不可续签 |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsorship possible only if employer is accredited and proves no local worker available; this occupation is not in shortage so approval is difficult |
+| Subclass SMC (Skilled Migrant Category) | This occupation is not on the Green List; it requires the six-point system and a salary well above the median, usually not applicable |
+| Subclass Other (Specific Purpose Work Visa (Election)) | Temporary work visa during election period, short validity, non-renewable |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Electoral Officer？**
-- 对政治和公共管理有浓厚兴趣的人
-- 希望从事稳定公职、享受福利者
-- 具备组织协调和法规知识的人
+**Who is suited**
+- People with a strong interest in politics and public administration
+- Those hoping for stable public sector jobs with benefits
+- People with organizational coordination skills and knowledge of regulations
 
-**谁不适合学Electoral Officer？**
-- 追求高薪或快速职业发展者
-- 希望轻松移民新西兰的人
+**Who is not suited**
+- Those seeking high salary or rapid career development
+- People hoping for easy immigration to New Zealand
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do election officials earn?**
+A: Junior: approximately NZ$55,000-70,000; intermediate: NZ$70,000-90,000; senior: up to NZ$110,000; temporary roles are usually paid weekly.
+
+**Q: Can an election official immigrate to New Zealand through skilled migration?**
+A: Very difficult. This occupation is not on the Green List and is not a shortage skill. Typically need an Accredited Employer Work Visa (AEWV) first, but employer must prove they cannot hire locals. Temporary election work visa non-renewable, migration pathways extremely narrow.
+
+**Q: What are the main duties of an election official?**
+A: Includes managing electoral roll, reviewing candidate nominations, operating polling stations, supervising vote counting, handling complaints, and conducting election compliance checks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Electoral Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for electoral officers?**
-答：Entry-level: NZD 55,000-70,000; mid-level: NZD 70,000-90,000; senior: up to NZD 110,000. Temporary roles are often paid weekly.
-
-**问：Can electoral officers migrate to New Zealand through skilled migration?**
-答：Very difficult. The occupation is not on the Green List nor a shortage skill. You'd typically need an AEWV, but employers must prove no locals available. Election-specific temporary visas are non-renewable and offer no permanent residency path.
-
-**问：What are the main duties of an electoral officer?**
-答：Managing voter rolls, vetting candidate nominations, overseeing polling stations, supervising vote counting, handling complaints, and ensuring election compliance.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

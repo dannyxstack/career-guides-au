@@ -1,61 +1,94 @@
-# Cooks, Private Household（Cooks, Private Household）职业分析 · 美国
+# Cooks, Private Household — career analysis · United States
 
-**职业代码：35-2013 – Cooks, Private Household。**
+**Occupation code: 35-2013 (SOC)**
 
-Prepare meals in private homes for employers, including personal chefs. Duties involve menu planning, grocery shopping, cooking, and kitchen cleanup, typically serving high-income households or individuals with special dietary needs.
+Prepare meals for employers in private residences, including personal chefs. Tasks involve menu planning, grocery shopping, cooking, and kitchen cleaning, typically serving high-income families or those with special dietary needs.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无需特定年限 | —（通常只需高中毕业或同等学历） |
-| 烹饪证书 | 1-2年 | $5,000~$20,000（社区学院或烹饪学校证书课程） |
-| 副学士学位（烹饪艺术） | 2年 | $15,000~$40,000（部分雇主偏好学位，但非必需） |
+| High school diploma | No specific years required | $0~$0 (Typically only requires high school diploma or equivalent) |
+| Cooking certificate | 1-2 years | $5,000~$20,000 (Certificate program at a community college or culinary school) |
+| Associate degree (Culinary Arts) | 2 years | $15,000~$40,000 (Some employers prefer a degree but it's not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | ServSafe 或当地卫生部门 | 必备 | 部分州要求食品安全培训证书 |
-| 烹饪证书/文凭 | 烹饪学校或社区学院 | 可选 | 非必需但有助于就业 |
+| Food safety certification | ServSafe or local health department | Required | Some states require food safety training certificates |
+| Cooking certificate/diploma | Culinary school or community college | Optional | Not required but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 5,000。美国私人家庭厨师就业需求稳定，但总体规模较小。随着高净值人群增长和对定制化餐饮服务的偏好增加，预计岗位数将缓慢增长。受经济波动影响，富裕家庭可能削减此类开支。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 5,000. Demand for private household chefs in the US is stable but the overall market is small. With growth in high-net-worth individuals and preference for customized dining services, positions are expected to grow slowly. Economic fluctuations may lead wealthy families to cut such expenses.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 部分兼职或低薪岗位 |
-| 中级（3-7年） | $35,000~$50,000 | 全职私人厨师常见薪资 |
-| 高级（7年以上） | $50,000~$80,000 | 服务高端家庭或名人的资深厨师 |
+| Median salary | $47,940 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Some part-time or low-paid positions |
+| Mid-level (3–7 years) | $35,000~$50,000 | Common Salary for Full-Time Private Chef |
+| Senior (7+ years) | $50,000~$80,000 | Senior chef serving high-end families or celebrities |
+| average salary | $53,680 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业发展路径可从初级家庭厨师晋升为高级私人厨师，或转向餐饮管理、私人宴会策划等方向。具备营养学或国际料理技能者可提升竞争力，部分厨师可能自主创业开设私人餐饮服务公司。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on private family chefs is mixed: AI can assist with menu planning, ingredient sourcing, and cooking execution, but personalized service, taste judgment, and trust relationships are hard to replace.
+
+Career progression can advance from junior home cook to senior private chef, or shift into catering management, private event planning, etc. Skills in nutrition or international cuisine enhance competitiveness, and some chefs may start their own private catering service companies.
+
+**Tasks most exposed to AI:**
+
+- Recipe generation and menu planning (AI creates custom recipes based on dietary needs)
+- Ingredient procurement list generation and online ordering (AI analyzes inventory and preferences to automatically place orders).
+- Standardization of cooking processes (smart kitchen appliances execute basic cooking according to AI programs)
+- Kitchen cleaning and inventory management (robot floor cleaning, AI inventory monitoring)
+
+**Where AI augments the role:**
+
+- Personalised menu design (AI analyses client health data to recommend nutritional plans)
+- Creative pairing of international ingredients (AI provides global recipe inspiration and flavor combinations)
+- Food safety monitoring (AI sensors detect ingredient freshness and allergens)
+- Multi-client coordination (AI managing meal schedules and preferences for multiple households)
+
+**Human moat:**
+
+- Advanced taste and creativity (innovative fusion cuisine, artisanal skills).
+- Customer trust and intimate relationships (understanding personal taboos, emotional needs).
+- On-site flexibility (adjust to ad hoc client requests)
+- high-end ingredient tasting and procurement (e.g., truffles, caviar)
+
+**Skills to build:**
+
+- AI-powered food service software operation (e.g., menu planning, nutrition analysis tools)
+- Data-driven customer preference analysis
+- Smart kitchen equipment maintenance and programming
+- Advanced culinary techniques (molecular gastronomy, fermentation)
+- Cross-cultural dietary knowledge (adapting to different nationalities' households)
+- Digitalisation of food safety and allergen management
+
+**Key growth areas:**
 
 - low demand
 - niche market
@@ -64,63 +97,68 @@ Prepare meals in private homes for employers, including personal chefs. Duties i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 私人厨师通常不符合H-1B专业职业要求，极少申请 |
-| Subclass O-1（O-1 Extraordinary Ability） | 极少数具有杰出成就的名厨可能通过O-1签证受雇于私人家庭 |
-| Subclass EB-2/EB-3（Employment-Based Green Card） | 雇主需要证明无法找到合格美国工人，通过PERM劳工认证，但此类岗位极少获批 |
+| Subclass H-1B (H-1B Specialty Occupation) | Private chefs typically do not meet H-1B specialty occupation requirements and rarely apply |
+| Subclass O-1 (O-1 Extraordinary Ability) | Very few exceptionally accomplished chefs may be employed by private households via O-1 visa |
+| Subclass EB-2/EB-3 (Employment-Based Green Card) | Employers must prove they cannot find qualified U.S. workers through PERM labor certification, but such positions are rarely approved. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cooks, Private Household？**
-- 热爱烹饪并喜欢为他人准备餐食的人
-- 适应灵活工作时间和私人家庭环境的人
-- 具备良好沟通和服务意识的人
+**Who is suited**
+- People who love cooking and enjoy preparing meals for others.
+- People who can adapt to flexible working hours and private home environments
+- Those with strong communication and service awareness
 
-**谁不适合学Cooks, Private Household？**
-- 追求高薪和稳定职业晋升的人
-- 不喜独立工作或频繁与雇主互动的人
+**Who is not suited**
+- People seeking high salary and stable career advancement
+- People who dislike independent work or frequent interaction with employers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Private Family Chefs?**
+A: Salary is typically between AUD 25,000 and 80,000 per year depending on experience and employer, with most full-time positions ranging from AUD 35,000 to 50,000. Senior chefs or those working for wealthy families may earn more.
+
+**Q: Can private family chefs immigrate to the U.S. through work visas?**
+A: Very difficult. This occupation usually does not meet H-1B specialty occupation requirements, and green card applicants must prove no qualified US workers are available, with very low approval rates. Only a few exceptional chefs may qualify for O-1 visa.
+
+**Q: Is there career growth for private household chefs?**
+A: Yes, but limited. Can advance from junior chef to senior chef or private head chef, or move into catering management, private event planning, or starting a business. However, overall progression is less clear than in restaurant kitchens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Cooks, Private Household属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a private household cook?**
-答：Depending on experience and employer, annual salary typically ranges from $25,000 to $80,000, with most full-time positions between $35,000 and $50,000. Senior cooks or those serving wealthy families may earn more.
-
-**问：Can a private household cook immigrate to the US via work visa?**
-答：Very difficult. This occupation generally does not qualify for H-1B specialty occupations, and green card applications require proving no qualified US workers are available, with very low approval rates. Only exceptional chefs might use O-1 visas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

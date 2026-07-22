@@ -1,60 +1,90 @@
-# Underwater Diver（Underwater Diver）职业分析 · IE
+# Underwater Diver — career analysis · Ireland
 
-**职业代码：7541 – Underwater Diver。**
+**Occupation code: 7541 (ISCO08)**
 
-Professionals performing underwater tasks such as inspection, repair, construction, and salvage. In Ireland, divers primarily work in offshore energy, fisheries, and infrastructure.
+Professionals performing underwater tasks including inspection, repair, construction, and salvage. In Ireland, divers mostly work in offshore energy, fisheries, and infrastructure sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 商业潜水培训 | 6-12个月（培训课程） | $15,000~$25,000（包括理论、实操和潜水实习费用） |
-| 高级/专业培训 | 1-2年 | $10,000~$20,000（专攻水下焊接、NDT等方向） |
+| Commercial diving training | 6-12 months (training course) | $15,000~$25,000 (Includes theoretical, practical, and diving internship fees) |
+| Advanced/professional training | 1-2 years | $10,000~$20,000 (Specializing in underwater welding, NDT, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HSE商业潜水员认证 | 英国健康与安全执行局 | 必备 | 爱尔兰广泛认可的初级商业潜水资质 |
-| IMCA潜水员认证 | 国际海事承包商协会 | 必备 | 行业通用认证，适用于海上项目 |
-| 水下焊接认证 | 国际焊接学会 | 可选 | 特定焊接作业必备 |
-| NDT检测认证 | 英国无损检测学会 | 可选 | 用于水下结构检测 |
+| HSE Commercial Diver Certification | UK Health and Safety Executive | Required | A widely recognized entry-level commercial diving qualification in Ireland |
+| IMCA Diver Certification | International Marine Contractors Association | Required | Industry-recognized certification for offshore projects |
+| Underwater welding certification | International Institute of Welding | Optional | Essential for specific welding operations |
+| NDT testing certification | British Institute of Non-Destructive Testing | Optional | Used for underwater structure inspection |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 500。爱尔兰海上风能和油气产业扩张带动潜水员需求增长，但竞争激烈。从业者需持有国际认可资质，并具备丰富的现场经验。
+**Job demand: medium (★★½☆☆).** National workforce approx. 500. Expansion of offshore wind and oil & gas industries in Ireland drives demand for divers, but competition is fierce. Practitioners must hold internationally recognized qualifications and have extensive field experience.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 海上作业通常有额外津贴 |
-| 中级（3-7年） | $45,000~$65,000 | 具备多次潜水经验及特定技能 |
-| 高级（7年以上） | $65,000~$90,000 | 担任监督员或高级技术员，海上工作天数多 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$45,000 | Offshore work usually includes additional allowances |
+| Mid-level (3–7 years) | $45,000~$65,000 | Possess multiple diving experiences and specific skills |
+| Senior (7+ years) | $65,000~$90,000 | Work as a supervisor or senior technician, with many days at sea. |
+| average salary | $56,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级潜水员可逐步晋升为监督员或项目主管，也可专攻水下焊接、NDT检测等高技能方向。经验丰富者有机会转向培训或咨询岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on divers is mixed: underwater inspection and data analysis are likely to be automated, but complex operations, safety monitoring, and emergency judgment still rely on human experience.
+
+Entry-level divers can progress to supervisor or project manager roles, or specialize in high-skill areas like underwater welding or NDT inspection. Experienced individuals may transition to training or consulting positions.
+
+**Tasks most exposed to AI:**
+
+- Routine inspection and video collection tasks for underwater structures are being replaced by Autonomous Underwater Vehicles (AUVs)
+- Dive log and report generation automated by AI
+- Real-time monitoring and simple anomaly alerts for underwater environmental parameters (water temperature, flow rate, turbidity)
+
+**Where AI augments the role:**
+
+- AI-enhanced underwater 3D modeling and virtual reality assistance to improve repair precision
+- AI analyzes sonar/optical images to quickly identify defects and biofouling
+- AI predicts tides and currents to optimize diving windows and operational safety
+
+**Human moat:**
+
+- Emergency rescue and urgent decision-making involving personal safety.
+- High-precision welding, cutting and other manual skills with process judgment
+- High-risk coordination and communication with underwater clients, crew, and engineering teams
+- Certification requirements and legal responsibilities (e.g., sensitive environments like nuclear facilities, oil and gas platforms)
+
+**Skills to build:**
+
+- Underwater robot (ROV/AUV) operation and collaborative work
+- AI-assisted data analysis and visualization tools (e.g., Python, GIS).
+- AI interpretation of underwater sonar and optical imaging
+- Digital twin and 3D modelling software (e.g. RealityCapture)
+- Advanced commercial diving qualifications (e.g., IMCA certification, saturation diving)
+
+**Key growth areas:**
 
 - Offshore Wind
 - Underwater Inspection
@@ -63,68 +93,67 @@ Professionals performing underwater tasks such as inspection, repair, constructi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于需要高级技能的潜水监督或专业工程师岗位，需年薪32,000欧元以上 |
-| Subclass General Employment P（General Employment Permit） | 适用于一般商业潜水员，需劳动力市场测试，年薪不低于30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能专业人才，如水下工程专家，年薪需达到33,000欧元以上 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to diving supervisor or professional engineer roles requiring advanced skills, with a minimum annual salary of €32,000 |
+| Subclass General Employment P (General Employment Permit) | Applicable to general commercial divers, requires labor market testing, annual salary not less than 30,000 euros |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled professionals, such as underwater engineering experts, with annual salary over €33,000 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Underwater Diver？**
-- 身体条件优秀，热爱水下工作
-- 具有工程或技术背景，适应高风险环境
-- 愿意接受严格培训和海上工作节奏
-
-**谁不适合学Underwater Diver？**
-- 恐水或不能适应高压环境
-- 不喜欢频繁出差和远离家庭
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Excellent physical condition, passionate about underwater work
+- Engineering or technical background, adaptable to high-risk environments
+- Willingness to undergo rigorous training and adapt to offshore work pace
+
+**Who is not suited**
+- Fear of water or inability to adapt to high-pressure environments
+- Dislikes frequent travel and being away from family.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for divers in Ireland?**
+A: Entry-level annual salary about €30,000-45,000, mid-level €45,000-65,000, senior up to €65,000-90,000, with daily allowances for offshore work.
+
+**Q: How can divers immigrate to Ireland?**
+A: You can apply for a General Employment Permit, requiring employer sponsorship and a labor market test. Supervisory roles under a Critical Skills Permit are more likely to be approved.
+
+**Q: What diving certifications are required in Ireland?**
+A: Required HSE commercial diver certification and IMCA certification. Professional certifications such as underwater welding or NDT inspection can increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Underwater Diver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for underwater divers in Ireland?**
-答：Entry-level annual salary is around €30,000-€45,000, mid-level €45,000-€65,000, and senior €65,000-€90,000, with additional daily allowances for offshore work.
-
-**问：How can divers immigrate to Ireland?**
-答：Apply for a General Employment Permit with employer sponsorship and labor market test. Supervisory roles may qualify for Critical Skills Employment Permit.
-
-**问：What certifications are required for divers in Ireland?**
-答：Mandatory HSE Commercial Diver and IMCA certifications. Specialized certifications like underwater welding or NDT enhance competitiveness.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

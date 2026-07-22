@@ -1,60 +1,96 @@
-# Vocational Education Teacher（Vocational Education Teacher）职业分析 · IE
+# Vocational Education Teacher — career analysis · Ireland
 
-**职业代码：2320 – Vocational Education Teacher。**
+**Occupation code: 2320 (ISCO08)**
 
-Vocational Education Teachers in Ireland deliver practical skills and theoretical knowledge in further education colleges and institutes of technology, covering fields like engineering, business, and healthcare.
+Vocational education teachers in Irish institutions (such as institutes of technology and further education colleges) teach practical skills and theoretical knowledge in fields like engineering, business, and healthcare.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $20,000~$30,000（公立大学学费，欧盟学生可能较低） |
-| 硕士 | 1-2年（硕士） | $15,000~$25,000（教育或相关专业硕士） |
-| 职业教育教师资格证书 | 1年 | $5,000~$10,000（如PGCE或同等资格） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $20,000~$30,000 (Public university tuition fees, possibly lower for EU students) |
+| Master's degree | 1-2 years (Master's) | $15,000~$25,000 (Master's degree in education or related field) |
+| Vocational education teacher qualification certificate | 1 year | $5,000~$10,000 (Such as PGCE or equivalent qualification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教学资格（如PGCE） | 爱尔兰教学委员会 | 必备 | 注册为教师必需 |
-| 相关领域学位 | 高等教育机构 | 必备 | 至少本科以上 |
-| 行业经验 | 无特定机构 | 可选 | 通常要求若干年相关工作经验 |
+| Teaching qualifications (e.g., PGCE) | Teaching Council of Ireland | Required | Required to register as a teacher |
+| Degree in a related field | Higher education institutions | Required | Bachelor's degree or above |
+| Industry experience | No specific institution | Optional | Typically requires several years of relevant work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。爱尔兰职业教育教师需求稳定，政府持续投资继续教育和培训领域，以支持劳动力技能提升。预计未来五年就业增长温和，尤其在绿色经济和数字技能培训方向。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand for vocational education teachers in Ireland is stable, with ongoing government investment in further education and training to support workforce skill development. Moderate employment growth is expected over the next five years, especially in green economy and digital skills training.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 起薪视机构类型和地点而定 |
-| 中级（3-10年） | $45,000~$60,000 | 包含公立和私立机构 |
-| 高级（10年以上） | $60,000~$80,000 | 高级讲师或课程主管 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary varies by institution type and location. |
+| Intermediate (3-10 years) | $45,000~$60,000 | Includes public and private institutions |
+| Senior (10+ years) | $60,000~$80,000 | Senior lecturer or course director |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径包括从讲师晋升为高级讲师、课程主管或培训经理。部分教师可转向教育政策制定、企业培训或职业教育研究岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
+
+Career progression includes moving from instructor to senior instructor, course director, or training manager. Some teachers may transition to education policy development, corporate training, or vocational education research roles.
+
+**Tasks most exposed to AI:**
+
+- Producing standardised training courseware and handouts
+- Teach foundational theory and process knowledge
+- Grading objective tests and recording attendance
+- Organizing training feedback and collating training data
+- Design simple training evaluation questionnaires
+
+**Where AI augments the role:**
+
+- Using AI to generate personalized training plans and learning paths
+- Using AI simulators to create immersive skills training scenarios
+- Real-time analysis of learner data to adjust teaching strategies
+- Automatically translate and cross-culturally adapt training content
+- One-on-one tutoring with AI-assisted tutors
+
+**Human moat:**
+
+- On-site atmosphere activation and emotional connection with trainees
+- Hands-on guidance and immediate error correction for complex skills.
+- Handling classroom emergencies and special student needs
+- Case-based teaching combined with industry practical experience
+- Building long-term trust relationships and career development coaching
+
+**Skills to build:**
+
+- AI course development tools (e.g., Articulate Storyline, Adobe Captivate)
+- Learning Management System (LMS) advanced configuration and data analysis
+- Virtual Reality (VR)/Augmented Reality (AR) Training Design
+- Data-driven instructional design (learning analytics)
+- Cross-cultural communication and remote training skills
+- Industry certification standards and compliance knowledge
+
+**Key growth areas:**
 
 - Green skills training
 - Digital upskilling
@@ -63,68 +99,67 @@ Vocational Education Teachers in Ireland deliver practical skills and theoretica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育工作者，年薪需达到一定门槛（约33,000欧元），需工作合同。 |
-| Subclass Stamp 4（Stamp 4 (Long Term Residency)） | 工作5年后可申请长期居留，允许自由换雇主。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, with an annual salary of no less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for higher education workers, annual salary must meet a certain threshold (approx. €33,000), requires an employment contract. |
+| Subclass Stamp 4 (Stamp 4 (Long Term Residency)) | After 5 years of work, eligible to apply for long-term residence, allowing free employer changes. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vocational Education Teacher？**
-- 热爱教学和与人沟通
-- 拥有相关行业经验并希望分享知识
-- 适应力强，能教授不同背景的学生
-
-**谁不适合学Vocational Education Teacher？**
-- 不喜欢公开演讲或课堂管理
-- 缺乏耐心或不愿持续学习新技能
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for teaching and communication
+- Have relevant industry experience and wish to share knowledge
+- Adaptable, able to teach students from diverse backgrounds
+
+**Who is not suited**
+- Dislike public speaking or classroom management
+- Lack of patience or unwillingness to continuously learn new skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of vocational education teachers in Ireland?**
+A: Junior teacher annual salary approximately 35,000-45,000 euros, intermediate 45,000-60,000 euros, senior up to 80,000 euros. Salary is influenced by institution type, location, and experience.
+
+**Q: How can overseas teachers obtain an Irish work visa?**
+A: Must first obtain a job offer, then apply for a General Employment Permit (annual salary no less than €30,000) or an EU Blue Card (for high-skilled positions). Teaching qualifications must be recognized by the Teaching Council of Ireland.
+
+**Q: What is the career progression path for vocational education teachers?**
+A: Can be promoted from lecturer to senior lecturer, course coordinator, training manager, or education consultant, and can also transition to corporate training or education policy roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vocational Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for vocational education teachers in Ireland?**
-答：Entry-level teachers earn €35,000-€45,000, mid-level €45,000-€60,000, and senior up to €80,000 annually, depending on institution, location, and experience.
-
-**问：How can overseas teachers obtain a work visa for Ireland?**
-答：You need a job offer, then apply for a General Employment Permit (salary ≥€30,000) or EU Blue Card (for high-skilled roles). Teaching qualifications must be recognized by the Teaching Council of Ireland.
-
-**问：What is the career progression for vocational education teachers?**
-答：Progression from lecturer to senior lecturer, course coordinator, training manager, or education consultant, with opportunities in corporate training or education policy.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

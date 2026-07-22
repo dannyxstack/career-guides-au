@@ -1,61 +1,97 @@
-# Cash Van Salesperson（Cash Van Salesperson）职业分析 · 澳大利亚
+# Cash Van Salesperson — career analysis · Australia
 
-**职业代码：621711 – Cash Van Salesperson。**
+**Occupation code: 621711 (ANZSCO)**
 
-Cash Van Salesperson drives a van along a designated route to sell goods and collect cash payments directly from customers, typically in the distribution of bread, drinks, and daily necessities.
+Cash van salesperson drives a van along a designated route to sell goods, collecting cash directly from customers, common in industries such as bread and beverage distribution.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立学校免费） |
-| 在职培训 | 1-3个月 | —（企业提供培训） |
+| High school graduation | 12 years | $0~$0 (Free public schools.) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Company provides training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 有效澳洲驾照（C类或以上） | 各州交通管理局 | 必备 | 必须持有，无严重违规记录 |
-| 食品处理证书 | 注册培训机构 | 可选 | 若销售食品，需持有 |
-| 安全驾驶记录 | 雇主背景调查 | 可选 | 雇主通常要求 |
+| Valid Australian driver's license (Class C or above) | State transport authorities | Required | Must hold, with no serious violation records. |
+| Food handling certificate | Registered Training Organisation | Optional | Required if selling food |
+| Safe driving record | Employer background check | Optional | Employers typically require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 3,500。澳洲现金货车销售员需求稳定，主要受零售配送行业驱动。随着电子支付普及，现金交易减少，岗位增长缓慢，但偏远地区仍有一定需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,500. Demand for cash van salespeople in Australia is stable, mainly driven by the retail distribution industry. With the popularity of electronic payments, cash transactions have decreased, leading to slow job growth, but there is still some demand in remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 含基本工资加提成 |
-| 中级（2-5年） | $55,000~$65,000 | 有稳定客户群及提成 |
-| 高级（5年以上） | $65,000~$80,000 | 资深销售员或路线经理 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $45,000~$55,000 | Base salary plus commission |
+| Intermediate (2-5 years) | $55,000~$65,000 | Have a stable customer base and commission |
+| Senior (5+ years) | $65,000~$80,000 | Senior salesperson or route manager |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级销售员可晋升为销售主管或路线经理，或转岗至仓库管理、批发销售等岗位。积累客户资源后可独立承包路线。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cash van salespeople face significant replacement risk due to AI-driven autonomous delivery vehicles and electronic payment systems, leading to reduced demand in the short to medium term.
+
+Entry-level salespeople can advance to sales supervisor or route manager, or transfer to warehouse management, wholesale sales, etc. After accumulating client resources, they can independently contract routes.
+
+**Tasks most exposed to AI:**
+
+- Route planning taken over by AI-optimized route system
+- Cash handling and change-giving replaced by electronic payments and unmanned checkout
+- Manual inventory counting is replaced by automated replenishment systems
+- Customer order records processed by AI voice or mobile applications
+- Standardised sales pitches are being replaced by AI customer service and recommendation algorithms
+
+**Where AI augments the role:**
+
+- Analyze customer preferences through CRM system to improve sales efficiency
+- Dynamically adjust inventory and replenishment strategies using real-time sales data
+- Collaborate with AI to handle complex customer complaints and personalized services
+- Reduce accounting errors using mobile payments and data analysis
+- Use onboard sensors and diagnostic tools to optimize vehicle maintenance
+
+**Human moat:**
+
+- Building long-term client relationships and trust
+- Handling on-site emergencies and customer emotions
+- Creative promotion of new products or campaigns
+- Providing personalized services in remote areas
+- Maintain trucks and respond to mechanical failures
+
+**Skills to build:**
+
+- Digital payment system operation
+- Use of Customer Relationship Management (CRM) software
+- Basic Data Analysis and Sales Report Generation
+- Electric vehicle maintenance and fault diagnosis
+- Social media and online marketing skills
+- Multilingual communication skills (serving diverse communities)
+
+**Key growth areas:**
 
 - Stable demand
 - Cashless payment impact
@@ -64,62 +100,64 @@ Cash Van Salesperson drives a van along a designated route to sell goods and col
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 该职业不在核心技能职业清单（CSOL）上，通常无法获得482签证。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 仅极少数偏远地区DAMA可能涵盖此类岗位，门槛高，机会极少。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | This occupation is not on the Core Skills Occupation List (CSOL) and generally cannot obtain a 482 visa. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Only very few remote area DAMAs may cover such roles, with high thresholds and very few opportunities. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cash Van Salesperson？**
-- 喜欢开车和户外工作的人
-- 善于人际沟通和简单销售的人
-- 能接受现金管理和体力劳动的人
+**Who is suited**
+- People who enjoy driving and outdoor work
+- People good at interpersonal communication and simple sales
+- Those who can handle cash management and physical work
 
-**谁不适合学Cash Van Salesperson？**
-- 不接受低起薪和体力工作的人
-- 希望快速获得技术移民身份的人
+**Who is not suited**
+- Not suitable for those who cannot accept low starting pay and physical work.
+- People seeking fast-track skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a cash van salesman?**
+A: Entry-level annual salary around A$45,000–55,000, mid-level A$55,000–65,000, senior up to A$80,000, usually including commissions.
+
+**Q: Can a cash delivery van salesman apply for skilled migration?**
+A: This occupation is not on Australia's skilled migration occupation list, cannot immigrate via 189, 190, or 482 visas. Only very remote DAMA regions may offer employer sponsorship, with very limited opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Cash Van Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Cash Van Salesperson?**
-答：Entry-level annual salary is around AUD 45,000-55,000, mid-level AUD 55,000-65,000, senior up to AUD 80,000, usually including commissions.
-
-**问：Can a Cash Van Salesperson apply for skilled migration?**
-答：This occupation is not on Australia's skilled occupation list, so it cannot apply for visas like 189, 190, or 482. Only very remote DAMA schemes may offer employer sponsorship, but opportunities are extremely limited.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

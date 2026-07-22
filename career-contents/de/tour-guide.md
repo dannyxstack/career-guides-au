@@ -1,59 +1,94 @@
-# Tour Guide（Tour Guide）职业分析 · DE
+# Tour Guide — career analysis · Germany
 
-**职业代码：6314 – Tour Guide。**
+**Occupation code: 6314 (KldB)**
 
-Tour guides lead groups of visitors through attractions, providing commentary on history and culture, and ensuring a smooth travel experience. The profession is stable in Germany, especially in major cities and tourist hotspots.
+Tour guides are responsible for leading tourists to visit attractions, explaining history and culture, and ensuring smooth travel. This occupation has stable demand in Germany's tourism industry, especially in large cities and tourist hotspots.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（旅游与休闲服务） | 3年 | —（双元制培训通常免学费，企业提供津贴） |
-| 短期导游培训课程 | 3-6个月 | $500~$2,000（由IHK或私立机构提供，含考试费） |
+| Dual system training (Tourism and Leisure Services) | 3 years | $0~$500 (Dual system training is usually tuition-free, with companies providing allowances) |
+| Short-term tour guide training course | 3-6 months | $500~$2,000 (Provided by IHK or private institutions, including exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IHK导游证（Geprüfter Reiseleiter） | 德国工商会（IHK） | 可选 | 非强制，但持证可提升就业竞争力 |
-| 特定景点导游许可证 | 当地旅游局或景点管理机构 | 必备 | 如博物馆、城堡等可能需要额外许可 |
-| 职业资格认证（如国外学历） | 德国认证机构（如Anabin） | 必备 | 若学历非欧盟，需认证后方可从事受规管导游活动 |
+| Specific attraction tour guide license | Local tourism bureau or attraction management agency | Required | May require additional permits, e.g. for museums, castles |
+| Professional qualification certification (e.g., foreign academic credentials) | German credential recognition bodies (e.g., Anabin) | Required | If your qualification is non-EU, you need accreditation to engage in regulated tour guide activities |
+| IHK tourist guide license (Geprüfter Reiseleiter) | German Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but certification can enhance job competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。德国旅游业持续复苏，预计未来几年导游需求将温和增长。季节性波动明显，但多语言能力者可获得更多工作机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Germany's tourism industry continues to recover, with moderate growth in demand for tour guides expected in the coming years. Seasonal fluctuations are significant, but multilingual individuals can find more job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 兼职为主，收入受季节影响 |
-| 中级（3-7年） | $28,000~$38,000 | 全职，含小费 |
-| 高级（7年以上） | $35,000~$48,000 | 资深导游或团队主管 |
+| Median salary | $40,440 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | Mainly part-time; income affected by seasonality |
+| Mid-level (3–7 years) | $28,000~$38,000 | Full-time, including tips |
+| Senior (7+ years) | $35,000~$48,000 | Senior Tour Guide or Team Leader |
+| average salary | $43,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 导游可从兼职转为全职，或晋升为团队主管、旅行社产品经理。部分导游通过继续教育成为旅游顾问或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Guide work has mixed prospects: AI can handle voice narration, translation and route planning, but interpersonal interaction, emotional connection and on-site adaptability remain irreplaceable.
+
+Tour guides can transition from part-time to full-time, or be promoted to team leader or travel agency product manager. Some guides become travel consultants or trainers through continuing education.
+
+**Tasks most exposed to AI:**
+
+- standard attraction audio commentary and guide script generation
+- Multilingual instant translation (simple Q&A)
+- Basic itinerary planning and transport route recommendations
+- Common FAQ auto-answers (e.g., opening hours, ticket prices)
+- Historical data-driven tourist preference analysis report
+
+**Where AI augments the role:**
+
+- Immersive historical scene recreation using AR/VR
+- Real-time visitor flow heatmap helps adjust tour pace
+- AI generates personalized storylines to enhance experience depth
+- Automatically translates complex cultural concepts, reducing communication barriers
+- Data-driven recommendations for nearby dining/shopping to boost conversion
+
+**Human moat:**
+
+- Flexibly handle emergencies (e.g., weather, tourist emotions)
+- Establish deep emotional resonance and trust relationships
+- Cross-cultural sensitivity and sense of humor, with real-time adjustment of explanation style
+- Non-standard, improvisational experience design skills
+
+**Skills to build:**
+
+- Operation and customization of AI tour guide tools (e.g., speech synthesis, AR applications)
+- Data analysis and tourist profile interpretation
+- Digital content creation (short videos, interactive maps)
+- Crisis Management and Emergency Response (including multilingual)
+- Cross-cultural communication and experience design
+- Basic programming/scripting knowledge (for customizing AI assistants)
+
+**Key growth areas:**
 
 - Tourism recovery
 - Multilingual demand
@@ -62,68 +97,67 @@ Tour guides lead groups of visitors through attractions, providing commentary on
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学位且年薪达标（2023年约43,800欧元），但导游薪资通常低于该门槛，较少使用 |
-| Subclass Skilled Worker（Skilled Residence Permit for Qualified Professionals） | 需德国认可的职业资格（如IHK证）及雇主担保，适用于双元制培训毕业生 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许求职者来德国寻找工作，适合有导游经验或语言能力者 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree and annual salary meeting threshold (around 43,800 euros in 2023), but tour guide salaries are usually below this threshold, rarely used |
+| Subclass Skilled Worker (Skilled Residence Permit for Qualified Professionals) | Requires German-recognised qualifications (e.g., IHK certificate) and employer sponsorship, suitable for dual system graduates |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to come to Germany to find work, suitable for those with tour guide experience or language skills |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tour Guide？**
-- 擅长沟通、热爱历史文化的人
-- 多语言能力者（如德语+英语+中文）
-- 适应灵活工作时间及户外工作的人
-
-**谁不适合学Tour Guide？**
-- 偏好稳定办公室工作的人
-- 不喜欢频繁人际互动的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in communication who love history and culture
+- Multilingual skills (e.g., German + English + Chinese)
+- People who can adapt to flexible working hours and outdoor work
+
+**Who is not suited**
+- People who prefer stable office work
+- People who dislike frequent interpersonal interaction
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a tour guide in Germany?**
+A: Full-time tour guides earn around €28,000 to €38,000 per year; junior or part-time earn less, while senior guides can reach €48,000. Tips are an important supplementary income.
+
+**Q: How can foreigners become tour guides in Germany?**
+A: Non-EU citizens need to obtain a work visa first, usually requiring employer sponsorship. Can pursue skilled migration pathway (requires German recognized professional qualifications) or opportunity card (points-based). Chinese-language tour guides have some advantage due to high market demand.
+
+**Q: What certificates do tour guides need?**
+A: German tour guides do not require a mandatory national certificate, but the IHK tour guide certificate can improve employment opportunities. Some attractions (e.g., museums, castles) require specific tour guide licenses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Tour Guide的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a tour guide in Germany?**
-答：Full-time tour guides earn between €28,000 and €38,000 annually, with entry-level or part-time positions lower, and senior guides up to €48,000. Tips are a significant supplement.
-
-**问：How can a foreigner become a tour guide in Germany?**
-答：Non-EU citizens need a work visa with employer sponsorship. Options include the skilled worker route (with recognized qualification) or the Opportunity Card (points-based). Chinese-speaking guides have advantages due to demand.
-
-**问：What certifications are required for tour guides?**
-答：No mandatory national certification, but an IHK guide certificate boosts employability. Certain attractions (e.g., museums, castles) require specific permits.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

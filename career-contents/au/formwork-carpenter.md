@@ -1,69 +1,99 @@
-# 模板木工（Formwork Carpenter）职业分析 · 澳大利亚
+# Formwork Carpenter — career analysis · Australia
 
-**职业代码：331212 – Formwork Carpenter。**
+**Occupation code: 331212 (ANZSCO)**
 
-模板木工（Formwork Carpenter）负责搭建和拆卸混凝土浇筑用的临时模板结构，是高层建筑和大型基建项目的核心技工。澳大利亚城市核心区高密度建设持续旺盛，模板工供不应求，薪资在技工类中属于较高水平。
+Formwork Carpenters build and dismantle temporary formwork structures used for concrete pours, and are essential tradespeople on high-rise and major infrastructure projects. With sustained high-density construction in Australia's urban centres, formwork carpenters are in short supply and earn among the higher wages in the trades sector.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Carpentry (CPC30220) — Formwork Stream（学徒） | 36~42个月 | —（各州差异；工具费约$500~$1,000） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| Working at Heights + EWP Licence | 2~3天 | $200~$600（高层模板必备） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Carpentry (CPC30220) — Formwork Stream (apprenticeship) | 36–42 months | $0~$2,000 (Varies by state; tool costs approximately $500–$1,000) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| Working at Heights + EWP Licence | 2–3 days | $200~$600 (Essential for senior-level applications) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Carpentry (Formwork Stream) | TAFE / RTO | 必备 | 执业核心资质 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| Working at Heights | 各州 | 必备 | 高层作业必备 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Carpentry (Formwork Stream) | TAFE / RTO | Required | Core practising qualifications |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| Working at Heights | All states | Required | Essential for working at heights |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 22,000。城市高层住宅和商业开发带动混凝土结构施工量。基建大型项目（隧道、桥梁、高铁预研）增加专项模板需求。JSA确认短缺（2025）。
+**Job demand: very high (★★★★★).** National workforce approx. 22,000. High-rise residential and commercial development is driving concrete structural construction volumes. Large-scale infrastructure projects (tunnels, bridges, and high-speed rail feasibility work) are increasing demand for specialised formwork. JSA has confirmed a shortage (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~800 个 | 全国，高层住宅和基建均有 |
-| Indeed | 200~450 个 | 含劳务公司外包 |
-| LinkedIn | 60~150 个 | 偏大型商业项目 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：极高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~3年） | $30,000~$58,000 | Fair Work Award |
-| 初级模板工（1~3年） | $70,000~$90,000 | 住宅高层项目 |
-| 中级模板工（3~8年） | $90,000~$120,000 | Seek均值约$45~$55/hr；EBA项目更高 |
-| 资深 / 高层专家（8年+） | $120,000~$160,000 | CBD高层+轮班津贴；FIFO基建项目$170k+ |
+| Median salary | $91,520 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–3 years) | $30,000~$58,000 | Fair Work Award |
+| Junior formworker (1–3 years) | $70,000~$90,000 | High-rise residential projects |
+| Mid-level formwork carpenter (3–8 years) | $90,000~$120,000 | Seek average approximately $45–$55/hr; higher under EBA projects |
+| Senior / specialist (8+ years) | $120,000~$160,000 | CBD high-rise with shift allowances; FIFO infrastructure projects $170k+ |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 铝合金模板系统（Aluma/Doka等）普及提升效率，但搭设和监控仍需大量人工。高层项目工期紧，轮班加班收入远超普通技工。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI cannot fully replace the physical labor and on-site judgment of formwork carpenters, but automated measurement, BIM, and prefabricated design will reduce high-skill tasks like layout and cutting. The role lies between 'augmented' and 'reduced.'
+
+The widespread adoption of aluminium formwork systems (Aluma/Doka, etc.) has improved efficiency, but erection and monitoring still require significant manual labour. Tight schedules on high-rise projects mean shift and overtime earnings far exceed those of general tradespeople.
+
+**Tasks most exposed to AI:**
+
+- Manual setting out: AI-assisted total station automatic setting out replaces tape measurement and string lines
+- Template cutting: CNC sawing center automatically cuts panels based on BIM model
+- Material calculation: AI material calculation software automatically generates material lists
+- Safety inspections: AI cameras automatically identify violations and danger zones
+- Progress reports: AI analyzes site images to auto-generate daily reports
+
+**Where AI augments the role:**
+
+- BIM model visualization: AR glasses overlay 3D positions of formwork to improve installation accuracy
+- Automated measurement: Laser scanners verify formwork verticality and flatness in real time
+- Smart scheduling: AI coordinates material delivery to reduce waiting time
+- Defect detection: AI analyzes formwork marks after concrete pouring to predict quality issues
+- Knowledge base: quick query of specifications and node details via voice assistant
+
+**Human moat:**
+
+- Manual formwork for complex nodes
+- Rapid judgment and adjustment of abnormal site conditions
+- Coordination with Other Trades (Steel Fixing, Concreting)
+- Human-robot collaboration in high-altitude, confined spaces
+- Individual responsibility for quality liability and safety risks
+
+**Skills to build:**
+
+- BIM modeling and drawing interpretation (Revit/Tekla)
+- Operating total stations and laser scanners
+- CNC template cutting programming
+- AR/VR-assisted construction wearables
+- Basic operation of security monitoring AI systems
+- Lightweight material (aluminum/plastic formwork) construction
+
+**Key growth areas:**
 
 - High-Rise Concrete Structure
 - Civil Infrastructure (Bridges/Tunnels)
@@ -72,79 +102,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学模板木工？**
-- 有模板、木工或混凝土施工背景，目标技能移民来澳
-- 体能好，不惧高空和轮班作业，追求高薪
-- 目标通过190/491获PR，建筑技工类路径清晰
-
-**谁不适合学模板木工？**
-- 体力较弱或有恐高症
-- 不接受轮班和加班制度
-- 期望稳定室内工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in formwork, carpentry or concrete construction, targeting skilled migration to Australia
+- Good physical fitness, comfortable with working at heights and shift work, seeking high pay
+- Targeting PR via 190/491 – clear pathway for construction tradespeople
+
+**Who is not suited**
+- Limited physical fitness or fear of heights
+- Not willing to accept shift work or overtime arrangements
+- Preference for stable, indoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a carpenter/formwork carpenter in Australia?**
+A: Mid-level formwork carpenters earn approximately $90,000–$120,000 per year (approx. $45–$55/hr). CBD high-rise projects with EBA allowances and shift penalties can reach $120,000–$160,000.
+
+**Q: Is it easy for formwork carpenters to find work in Australia?**
+A: Very easy. High-rise construction is booming, with 400–800 positions advertised on Seek; successful candidates typically start within 1–2 weeks of obtaining their licence.
+
+**Q: Is domestic formwork experience recognised in Australia?**
+A: Not directly recognised. TRA assessment required (12–18 months).
+
+**Q: Will formwork workers be replaced by robots?**
+A: Extremely low. On-site rigging, safety monitoring, and judgement calls for elevated work cannot be automated.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III is sufficient; TAFE entry is available to high school graduates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 331212 数据 |
-| Seek AU | Formwork Carpenter 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-模板木工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲模板木工工资多少？**
-答：中级模板工年薪约 $90,000~$120,000（约$45~$55/hr）。CBD高层项目含EBA津贴和轮班费可达 $120,000~$160,000。
-
-**问：澳洲模板工容易找工作吗？**
-答：非常容易。高层建设旺盛，Seek挂牌400~800个职位，持证后通常1~2周内入职。
-
-**问：国内模板工经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）。
-
-**问：模板工会被机器人替代吗？**
-答：极低。现场搭设、安全监控和高层作业判断无法自动化。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III即可，高中毕业可入读TAFE。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

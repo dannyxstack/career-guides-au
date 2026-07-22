@@ -1,59 +1,94 @@
-# ICT Support Technician（ICT Support Technician）职业分析 · 新西兰
+# ICT Support Technician — career analysis · New Zealand
 
-**职业代码：313113 – ICT Support Technician。**
+**Occupation code: 313113 (ANZSCO)**
 
-ICT Support Technicians in New Zealand diagnose and resolve hardware, software, and network issues for businesses and individuals. Under the ANZSCO shared by Australia and NZ, this role is eligible for Skilled Migrant Category or AEWV, and is on Green List Tier 2 (work-to-residence after 2 years).
+IT Support Technicians in New Zealand diagnose and resolve hardware, software, and network issues for businesses and individual users. This occupation falls under the Trans-Tasman occupation classification and can lead to Skilled Migration or Accredited Employer Work Visa; it is on the Green List Tier 2, requiring two years of work before residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭 | 1-2年 | $12,000~$25,000（私立或理工学院） |
-| 学士学位 | 3年 | $30,000~$50,000（国立大学或理工学院） |
+| Diploma | 1-2 years | $12,000~$25,000 (Private or polytechnic institutions) |
+| Bachelor's degree | 3 years | $30,000~$50,000 (National university or polytechnic) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CompTIA A+ | CompTIA | 可选 | 国际认证，非强制但雇主看重 |
-| Microsoft 365 Certified: Modern Desktop Administrator Associate | Microsoft | 可选 | 提升Windows支持竞争力 |
-| Cisco Certified Network Associate (CCNA) | Cisco | 可选 | 网络方向首选认证 |
+| CompTIA A+ | CompTIA | Optional | International certification, not mandatory but valued by employers |
+| Microsoft 365 Certified: Modern Desktop Administrator Associate | Microsoft | Optional | Enhancing Windows support competitiveness |
+| Cisco Certified Network Associate (CCNA) | Cisco | Optional | Preferred certification for networking direction |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。新西兰IT支持需求稳定，尤其是奥克兰和惠灵顿。新冠疫情后远程办公推动了更多技术支持岗位，但竞争仍激烈。预计未来5年增长率为中等，年薪资涨幅约2%-4%。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. New Zealand IT support demand is stable, especially in Auckland and Wellington. Remote work post-COVID has boosted more technical support roles, but competition remains fierce. Expected moderate growth over next 5 years, annual salary increase about 2%-4%.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$58,000 | helpdesk或现场支持 |
-| 中级（3-7年） | $60,000~$80,000 | 高级技术支持或团队主管 |
-| 高级（7年以上） | $85,000~$110,000 | IT经理或架构师（需额外认证/学位） |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$58,000 | Helpdesk or on-site support |
+| Mid-level (3–7 years) | $60,000~$80,000 | Senior technical support or team leader |
+| Senior (7+ years) | $85,000~$110,000 | IT manager or architect (requires additional certification/degree) |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级IT支持可从Helpdesk起步，积累经验后晋升为系统管理员、网络工程师或网络安全分析师。亦可考取微软、思科等认证加速晋升，部分人转向云计算或项目管理。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
+
+Entry-level IT support can start at a helpdesk, gain experience, and advance to system administrator, network engineer, or cybersecurity analyst. You can also obtain certifications like Microsoft or Cisco to accelerate advancement, with some transitioning to cloud computing or project management.
+
+**Tasks most exposed to AI:**
+
+- Automate common IT issues (e.g., password resets, network connection resets) via AI chatbots
+- AI auto-diagnosing hardware faults and recommending replacement parts
+- Automated script writing and execution (e.g., system log analysis, patch installation)
+- Knowledge base retrieval and answer delivery (AI replaces manual document searching)
+
+**Where AI augments the role:**
+
+- AI-assisted root cause analysis for complex problems (providing fault trees, log correlation suggestions)
+- AI-driven monitoring and early warning system to proactively detect potential system failures
+- Automatically generate customer reports and technical documents to improve communication efficiency
+- AI tools accelerate new employee training (simulating fault scenarios)
+- Real-time multilingual translation support to expand service scope
+
+**Human moat:**
+
+- Diagnosis and debugging of cross-system integration issues (involving legacy systems, cloud services, etc.).
+- Empathetic communication and conflict resolution with clients under high pressure
+- Creative problem-solving for non-standard, undocumented faults
+- Decision-making in safety-sensitive scenarios (e.g., disconnecting network vs. restoring data)
+- Deep adaptation and optimization of software and hardware for specific business scenarios
+
+**Skills to build:**
+
+- Cloud infrastructure (AWS/Azure/GCP) management and troubleshooting
+- Automation operation tools (Ansible, Terraform, PowerShell)
+- AI/ML fundamentals (able to understand model outputs, fine-tune prompts)
+- Cybersecurity basics (e.g., vulnerability patching, auditing)
+- Data analysis and visualization (SQL, Python, Power BI)
+- Advanced client management and project management certifications (ITIL, PMP)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ ICT Support Technicians in New Zealand diagnose and resolve hardware, software, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主的工作offer后可申请，通常为3年，可续签。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 在绿色清单职业中工作满24个月后申请居留，要求薪资中位数以上。 |
-| Subclass SMC（Skilled Migrant Category） | 依据EOI综合打分，满足6分制要求（学历+工作+收入），无需绿名单。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Can apply after receiving a job offer from an accredited employer; typically valid for 3 years, renewable. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Apply for residence after working 24 months in a Green List occupation, requiring above median wage. |
+| Subclass SMC (Skilled Migrant Category) | Based on EOI comprehensive scoring, meeting the 6-point system requirements (qualifications + work + income), no Green List required. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Support Technician？**
-- 喜欢动手解决技术问题且善于沟通的人
-- 愿意从基础岗位积累经验，逐步晋升的IT新人
-- 具备耐心和抗压能力，能应对多任务并行
-
-**谁不适合学ICT Support Technician？**
-- 不愿面对客户/用户频繁沟通的人
-- 对重复性故障排查感到厌倦的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on technical problem-solving and have good communication skills
+- IT newcomers willing to gain experience from basic positions and gradually advance
+- Has patience and resilience, able to handle multiple tasks simultaneously
+
+**Who is not suited**
+- People unwilling to frequently communicate with clients/users
+- Those bored with repetitive troubleshooting
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for IT support engineers in New Zealand?**
+A: Junior approx. 45,000-58,000 NZD, intermediate 60,000-80,000, senior 85,000-110,000 (annual salary). Salary affected by region, certification, and industry; Auckland slightly higher.
+
+**Q: Can IT support immigrate to New Zealand? What are the requirements?**
+A: Yes. This occupation is on the Green List Tier 2; you need a job offer from an accredited employer first, then apply for residency after two years of work. Alternatively, under the Skilled Migrant Category (SMC), you need to meet the 6-point system (qualifications + work + income).
+
+**Q: Do I need to obtain certifications? Which certifications are most useful?**
+A: Not mandatory but highly recommended. CompTIA A+ is foundational; Microsoft Modern Desktop or Cisco CCNA can significantly boost competitiveness, especially for skills assessment in immigration applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
-
-ICT Support Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for ICT Support Technicians in NZ?**
-答：Junior: NZD 45,000-58,000; Mid: NZD 60,000-80,000; Senior: NZD 85,000-110,000 annually. Salaries vary by location, certifications, and industry, with Auckland being slightly higher.
-
-**问：Can ICT Support Technicians immigrate to New Zealand? What are the requirements?**
-答：Yes. This occupation is on Green List Tier 2, requiring an accredited employer job offer and two years of work before residency, or via SMC under the 6-point system (qualifications + work + income).
-
-**问：Are certifications required? Which are most useful?**
-答：Not mandatory but highly recommended. CompTIA A+ is a good start; Microsoft Modern Desktop or Cisco CCNA can significantly boost competitiveness, especially for skill assessment in migration applications.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

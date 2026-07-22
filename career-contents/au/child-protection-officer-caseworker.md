@@ -1,65 +1,95 @@
-# 儿童保护官员（Child Protection Officer / Caseworker）职业分析 · 澳大利亚
+# Child Protection Officer / Caseworker — career analysis · Australia
 
-**职业代码：411713 – Child Protection Officer / Caseworker。**
+**Occupation code: 411713 (ANZSCO)**
 
-儿童保护官员/个案工作者在州政府儿童安全部门负责风险评估、家庭介入与法定个案管理，工作意义大但压力高，州政府按专门 Award 定级、薪资较高，长期紧缺，非技术移民职业。
+Child Protection Officer/Case Worker in state government child safety departments handles risk assessment, family intervention, and statutory case management. The work is meaningful but stressful, with state government grading under specific awards, relatively high salaries, long-term demand, and not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 社工/心理/相关本科（多数州要求） | 3~4年 | $20,000~$45,000（法定岗位要求） |
-| Working with Children Check + Police Check | 数周 | $100~$300（强制） |
+| Social work/psychology/relevant bachelor's degree (required in most states) | 3–4 years | $20,000~$45,000 (Mandatory job requirements) |
+| Working with Children Check + Police Check | Several weeks | $100~$300 (Mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关本科学历(社工等) | 认可大学 | 必备 | 法定岗位要求 |
-| Working with Children Check | 各州 | 必备 | 强制 |
+| Relevant bachelor's degree (social work, etc.) | Recognised university | Required | Mandatory job requirements |
+| Working with Children Check | All states | Required | Mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 25,000。人手长期紧缺使州政府持续大量招聘，社工/心理/相关学位者优先，留存率与抗压能力是关键。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Chronic staff shortages lead state governments to continuously hire; social work/psychology/relevant degree holders are preferred, with retention and stress tolerance being key.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| I work for NSW / 各州 | 1,500~3,000 个 | 州政府 |
-| Seek | 1,200~2,500 个 | 全国 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 / 毕业生（0-2年） | $75,000~$85,000 | Graduate |
-| 中级（2-6年） | $85,000~$103,000 | Caseworker |
-| 资深 / 牵头 | $103,000~$120,000 | Senior |
+| Median salary | $95,888 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior / Graduate (0-2 years) | $75,000~$85,000 | Graduate |
+| Mid-level (2–6 years) | $85,000~$103,000 | Caseworker |
+| Senior / Lead | $103,000~$120,000 | Senior |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：个案工作者→高级/牵头个案工作者→主管；社工学历与法定个案经验决定发展。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core functions of child protection officers (risk assessment, interviews, court statements) are hard to replace by AI, but tasks like documentation, data entry, and initial screening will be largely automated, freeing time for high-value interventions—a typical AI-enhanced occupation.
+
+Path: Caseworker → Senior/Lead Caseworker → Supervisor; social work qualifications and statutory casework experience determine progression.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardised home visit reports and case notes
+- Automated risk scoring and initial screening based on historical data
+- Handling routine phone inquiries and information collection via chatbots
+- Automated scheduling, reminders, and document filing for administrative tasks
+
+**Where AI augments the role:**
+
+- AI-assisted risk prediction model for more accurate identification of high-risk families
+- Real-time translation tools support communication with multicultural families
+- Virtual reality simulation training to enhance interviewing and crisis intervention skills
+- Smart knowledge base for quick retrieval of policies and regulations to assist decision-making
+- Automatically generate draft court reports for manual review before submission
+
+**Human moat:**
+
+- Empathy and communication in building trust with abused children
+- On-site Crisis Negotiation and Emotional Management with Irrational Parents
+- Cross-agency (police, school, medical) coordination and interest trade-offs
+- Risk judgment based on intuition and experience when information is incomplete
+- Oral agility and professional authority when cross-examined in court
+
+**Skills to build:**
+
+- Data literacy: Ability to interpret AI risk scores and statistical reports
+- Advanced negotiation and conflict mediation skills
+- Trauma-Informed Practice
+- Multicultural sensitivity and cross-language communication tool use
+- Digital case management systems (e.g. Child Protection Information System)
+- Basic command line/scripting skills for automating repetitive queries
+
+**Key growth areas:**
 
 - Child Safety
 - Out-of-home Care
@@ -68,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学儿童保护官员？**
-- 社工/心理背景、抗压能力强者
-- 有使命感、愿处理复杂家庭个案者
-
-**谁不适合学儿童保护官员？**
-- 难以承受高情绪压力与风险者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with social work/psychology background and strong resilience
+- Those with a sense of purpose and willingness to handle complex family cases
+
+**Who is not suited**
+- Those unable to tolerate high emotional pressure and risk
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a child protection officer?**
+A: Approximately AUD $75,000-$120,000, with higher Caseworker salaries in NSW and other states.
+
+**Q: Can child protection officers apply for skilled migration?**
+A: This role does not qualify for skilled migration on its own; if you hold registered social work qualifications, you may be assessed as a Social Worker.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★★） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-儿童保护官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：儿童保护官员薪资多少？**
-答：约 AUD $7.5万~$12万，NSW 等州 Caseworker 薪资偏高。
-
-**问：儿童保护官员能技术移民吗？**
-答：本职位不单独走技术移民；若持注册社工资格可按社工(Social Worker)评估。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

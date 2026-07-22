@@ -1,128 +1,161 @@
-# Records Manager（Records Manager）职业分析 · 新西兰
+# Records Manager — career analysis · New Zealand
 
-**职业代码：224214 – Records Manager。**
+**Occupation code: 224311 (ANZSCO)**
 
-Records Managers design, implement and manage organizational record and information systems to ensure compliant, efficient and secure document storage and retrieval. This occupation is eligible for New Zealand skilled migration via Skilled Migrant Category or Green List, particularly for those with digital record management experience.
+Archivists organize, store, and retrieve records for institutions or organizations, ensuring information compliance and security. This occupation in New Zealand can apply for residence through Skilled Migrant or Green List pathways, with stable demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $35,000~$60,000（如梅西大学信息管理学士，年均学费约$35,000-$60,000） |
-| 研究生文凭 | 1年 | $25,000~$40,000（如惠灵顿维多利亚大学信息研究PGDip，总学费约$25,000-$40,000） |
+| Bachelor's degree | 3 years | $24,000~$30,000 (Annual tuition (New Zealand universities)) |
+| Master's degree | 1.5 years | $30,000~$40,000 (Annual tuition fee (relevant discipline)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 记录与信息管理专业认证（CRM） | 国际信息管理协会（iRMA） | 可选 | 非强制但雇主偏爱 |
-| 信息管理学士学位 | 新西兰认可大学 | 可选 | 常见入门要求 |
+| IELTS 6.5 | IELTS | Required | English language requirements for skilled migration |
+| Diploma in Records and Information Management | Open Polytechnic of New Zealand | Optional | Common entry qualifications |
+| Registered Management Accountant (RMA) | Archives and Records Association of New Zealand (ARANZ) | Optional | Voluntary certification to enhance employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 800。随着数据保护法规（如《隐私法》）和数字化转型的推进，新西兰对记录管理员需求稳定。政府、医疗、法律和金融行业为核心雇主，预计未来5年岗位增长10-15%，尤其在奥克兰和惠灵顿。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Archives management roles in New Zealand are expected to grow modestly, driven by compliance requirements and digital transformation. Public sector and large enterprises are main employers, with more opportunities in Auckland and Wellington.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 记录助理或初级管理员 |
-| 中级（3-7年） | $75,000~$95,000 | 经验记录管理员 |
-| 高级（7年以上） | $100,000~$130,000 | 高级经理或信息治理专家 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual salary |
+| Mid-level (3–7 years) | $55,000~$70,000 | Annual salary |
+| Senior (7+ years) | $70,000~$90,000 | Annual salary |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级记录助理→记录管理员→高级经理/信息治理专家。可向信息管理、数据治理或合规总监晋升，持有专业认证（如CRM）可加速发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+A day-to-day tasks like document processing, classification, and retrieval for archivists are highly automatable; AI is rapidly shrinking traditional entry-level roles, but advanced functions like strategy development, compliance review, and digital transformation consulting still require human wisdom.
 
-- Information Management
-- Data Governance
-- Green List T2 eligible
-- Skilled Migrant Category
+Junior records managers can advance to senior records manager or archive supervisor, further developing into information governance manager or chief archivist. Digital skills (e.g., electronic records management systems) will increase advancement opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automatic classification and tag generation: AI can automatically identify document content and assign tags using natural language processing.
+- Document retrieval and search: AI-powered search engines can quickly extract relevant information from massive archives, eliminating the need for manual page-by-page searching.
+- Record retention period management: AI can automatically calculate and trigger deletion or archiving processes based on regulations.
+- Data entry and transcription: AI speech-to-text and OCR tech auto-digitize paper or audio files.
+
+**Where AI augments the role:**
+
+- Compliance auditing: AI-assisted scanning of archives to flag potential violation risks, improving audit efficiency and accuracy.
+- Archival analysis reports: AI-generated charts on archival usage patterns, storage costs, etc., to support management decisions.
+- Smart archive classification system design: use AI clustering analysis to optimize classification schemes and adapt to business changes.
+- Digital migration planning: AI assesses archive value and migration priority to develop strategies.
+
+**Human moat:**
+
+- Develop archival governance strategies: define organizational archival principles, risk tolerance, and compliance framework.
+- Cross-departmental coordination and training: training staff on records management standards, promoting best practices.
+- Legal and regulatory interpretation: assess the impact of ambiguous regulations on archival retention and make professional judgments.
+- Crisis response: quickly locate and protect critical records during emergencies (e.g., lawsuits, data breaches).
+
+**Skills to build:**
+
+- Data governance and management (understanding regulations like GDPR)
+- AI/ML tool applications (e.g., automated classification, natural language processing)
+- Digital project management (archives migration, system implementation)
+- Analytical skills (data insights and reporting)
+- Change management (driving organizational adoption of new technologies)
+- Information security and compliance auditing
+
+**Key growth areas:**
+
+- Digital Transformation
+- Compliance
+- Public Sector
+- Records Management
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+工作经验）可申请技术移民，需ANZSCO 2级技能匹配。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 在认证雇主工作2年后可申请居留，符合条件可获额外加分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，最长3年，满足薪资要求可转居留路径。 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires meeting the 6-point system (qualifications + work experience). |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work-to-residence visa, requiring 2 years of relevant work |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, applicable for applicants with employer sponsorship |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Records Manager？**
-- 具备组织与细节管理能力者
-- 对合规与信息治理感兴趣的人
-- 寻求稳定白领职业且愿意考取专业证书者
-
-**谁不适合学Records Manager？**
-- 偏好快速晋升或高薪职业者
-- 不擅长法规遵循或结构化文件处理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals with organizational and categorization skills
+- Those interested in information management and compliance work
+- Professionals with a background seeking stable office work
+
+**Who is not suited**
+- People who dislike repetitive clerical work
+- People lacking patience and organization
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an archivist in New Zealand?**
+A: Entry-level annual salary about 45,000-55,000 NZD; intermediate 55,000-70,000 NZD; senior up to 80,000-90,000 NZD. Public sector usually offers good benefits.
+
+**Q: Can archivists immigrate to New Zealand via the Green List?**
+A: this occupation is on the Green List Tier 2 (work to residence), requiring a job with an accredited employer and two years of work before applying for residence. it can also be applied through the skilled migrant category (6-point system).
+
+**Q: What education is needed to become an archivist?**
+A: Typically requires a bachelor's degree or diploma in a related field such as archives management, information management, or library science. Open Polytechnic New Zealand offers accredited programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（3年本科+1年实习）（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Records Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Records Manager in New Zealand?**
-答：Entry level NZD $55,000-$70,000, mid NZD $75,000-$95,000, senior NZD $100,000-$130,000.
-
-**问：Can Records Managers immigrate via the Green List?**
-答：Yes, under Green List Tier 2 (Work to Residence), requiring 2 years with an accredited employer and median wage.
-
-**问：What qualifications are needed to become a Records Manager?**
-答：Typically a bachelor's in information management or related field, some employers accept equivalent experience plus professional certification (e.g., CRM).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

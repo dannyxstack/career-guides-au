@@ -1,58 +1,89 @@
-# Building Frame and Related Trades Worker（Building Frame and Related Trades Worker）职业分析 · IE
+# Building Frame and Related Trades Worker — career analysis · Ireland
 
-**职业代码：7119 – Building Frame and Related Trades Worker。**
+**Occupation code: 7119 (ISCO08)**
 
-Building frame and related trades workers perform tasks such as erecting steel or timber frames, installing scaffolding, and constructing formwork for concrete structures.
+Skilled workers engaged in building framework construction, scaffolding installation, and formwork engineering, critical roles in the construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职前培训或学徒 | 2-4年 | —（SOLAS学徒项目通常带薪学习） |
-| 高等职业教育 | 1-2年（证书/文凭） | $3,000~$8,000（部分院校提供兼职课程，费用较低） |
+| Pre-employment training or apprenticeship. | 2-4 years | $0~$2,000 (SOLAS apprenticeship programs are typically paid learning.) |
+| Higher vocational education | 1-2 years (Certificate/Diploma) | $3,000~$8,000 (Some institutions offer part-time courses at lower costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑行业安全证书（Safe Pass） | SOLAS | 必备 | 所有工地工人必须持有 |
-| 脚手架搭设证书 | FAS/SOLAS | 可选 | 特定岗位要求 |
+| Construction industry safety certificate (Safe Pass) | SOLAS | Required | All construction site workers must hold |
+| Scaffolding erection certificate | FAS/SOLAS | Optional | Specific job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,500。爱尔兰建筑业持续繁荣，住房和基础设施项目需求强劲，推动该职业就业增长。未来十年预计稳步上升，劳动力短缺明显。
+**Job demand: high (★★★★☆).** National workforce approx. 12,500. Ireland's construction industry continues to boom, with strong demand for housing and infrastructure projects driving employment growth in this occupation. Steady increase expected over the next decade, with notable labor shortages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒完成后起薪 |
-| 中级（3-7年） | $38,000~$48,000 | 熟练工人平均薪资 |
-| 高级（7年以上） | $50,000~$65,000 | 主管或工头薪资 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary after apprenticeship completion. |
+| Mid-level (3–7 years) | $38,000~$48,000 | Average salary for skilled workers |
+| Senior (7+ years) | $50,000~$65,000 | Supervisor or foreman salary |
+| average salary | $44,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从学徒到熟练工人，可晋升为工地主管、项目经理，或转向自主经营承包业务。经验丰富者可向估算师、质检员等岗位发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Daily tasks of construction framework and related industry workers (e.g., measuring, cutting, assembly) are easily replaced by automated tools and prefabricated modules; entry-level positions decrease, but on-site supervision and problem-solving skills remain valuable.
+
+From apprentice to skilled worker, can advance to site supervisor, project manager, or shift to self-employed contracting. Experienced individuals can develop into roles such as estimator or quality inspector.
+
+**Tasks most exposed to AI:**
+
+- Manual measurement and marking of material positions (replaced by laser distance meters and BIM)
+- Repetitive cutting and drilling (CNC, robotic cutting machine automation)
+- Standardised connections in scaffolding (modular, pre-assembled components reduce manual labour)
+- Template making and assembly (replaced by CNC template systems)
+
+**Where AI augments the role:**
+
+- Use BIM and augmented reality (AR) for on-site installation guidance and verification
+- High-altitude structure monitoring using drones and sensors
+- Use digital twins to simulate different construction plans, optimizing the framework layout.
+
+**Human moat:**
+
+- Handling non-standard site conditions (e.g., complex terrain, old structure renovations)
+- Coordination and communication across multiple trades (collaboration with electricians, plumbers, etc.)
+- Safety supervision and emergency judgment (identifying structural instability risks)
+
+**Skills to build:**
+
+- BIM software operation (e.g., Autodesk Revit, Tekla).
+- Drone operation and data analysis
+- Robot system control and maintenance
+- CNC machining and CNC template design
+- Fundamentals of structural mechanics and materials science
+- Basic electrical and plumbing knowledge (for coordination)
+
+**Key growth areas:**
 
 - Construction boom
 - Housing demand
@@ -61,68 +92,67 @@ Building frame and related trades workers perform tasks such as erecting steel o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛一般不低于30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于榜单上紧缺职业，目前建筑框架工不在列表，但可关注政策更新。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技术岗位，年薪需达约60,000欧元及以上，该类技术工人通常不适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, annual salary threshold generally not less than 30,000 euros. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to occupations on the shortage list; currently, construction frame workers are not listed, but policy updates can be monitored. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions with an annual salary of approx. 60,000 EUR and above; such skilled workers are generally not eligible. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Frame and Related Trades Worker？**
-- 喜欢动手实践、户外工作的人
-- 注重安全规范、踏实肯干的工人
-- 愿意通过学徒积累经验、追求稳定收入者
-
-**谁不适合学Building Frame and Related Trades Worker？**
-- 不习惯体力劳动和恶劣天气者
-- 追求办公室白领工作或高灵活度者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on, outdoor work
+- Workers who follow safety regulations and are hardworking and practical
+- Those willing to gain experience through apprenticeships and seek stable income
+
+**Who is not suited**
+- Those unaccustomed to physical labor and inclement weather
+- Those seeking white-collar office jobs or high flexibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Ireland?**
+A: Entry-level salary around 28,000-35,000 euros, senior skilled workers can earn 50,000-65,000 euros, overtime and bonuses are common.
+
+**Q: How can EU citizens and non-EU citizens pursue this occupation?**
+A: EU citizens can freely move and work; non-EU citizens usually need employer sponsorship for a General Employment Permit, and a Critical Skills Permit may be considered for shortage occupations.
+
+**Q: What is the work environment like?**
+A: mainly on construction sites, outdoor work, requiring adaptation to heights, noise, and dust environments, with strict safety requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Building Frame and Related Trades Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level salaries range from €28,000 to €35,000, while highly skilled workers can earn €50,000 to €65,000, with overtime and bonuses common.
-
-**问：How can EU and non-EU nationals work in this occupation?**
-答：EU nationals can work freely; non-EU nationals typically need employer sponsorship for a General Employment Permit, or a Critical Skills Permit if on the shortage list.
-
-**问：What is the working environment like?**
-答：Work is mainly on construction sites outdoors, involving heights, noise, and dust, with strict safety requirements.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

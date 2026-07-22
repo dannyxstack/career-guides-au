@@ -1,60 +1,96 @@
-# Computer Network and Systems Engineer（Computer Network and Systems Engineer）职业分析 · 新西兰
+# Computer Network and Systems Engineer — career analysis · New Zealand
 
-**职业代码：263111 – Computer Network and Systems Engineer。**
+**Occupation code: 263111 (ANZSCO)**
 
-Cloud computing engineers design, deploy and manage cloud infrastructure on AWS, Azure, GCP. The role is on Green List Tier 1, eligible for direct residence, with strong job demand.
+Cloud engineers in New Zealand design, deploy, and manage cloud infrastructure, including AWS, Azure, and GCP. This occupation is on the Green List Tier 1, allowing direct application for skilled migration, with strong employment demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $60,000~$90,000（计算机科学或信息技术学士，国际学生年平均学费约20,000-30,000 NZD） |
-| 研究生文凭 | 1年 | $40,000~$50,000（适用于已有本科背景者，强化云技能） |
-| 硕士学位 | 1.5-2年 | $70,000~$100,000（奥克兰大学或惠灵顿维多利亚大学的计算机硕士） |
+| Bachelor's degree | 3 years | $60,000~$90,000 (Bachelor's degree in Computer Science or Information Technology, average annual tuition for international students is about 20,000-30,000 NZD) |
+| Graduate diploma | 1 year | $40,000~$50,000 (Suitable for those with a bachelor's background, focusing on cloud skills) |
+| Master's degree | 1.5-2 years | $70,000~$100,000 (Master's in computer science from the University of Auckland or Victoria University of Wellington) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| AWS认证解决方案架构师 | Amazon Web Services | 可选 | 雇主重视，但非强制 |
-| Microsoft Azure管理员 | Microsoft | 可选 | 政府项目常用Azure |
-| IELTS雅思 | IDP/British Council | 可选 | 技术移民需总分6.5，单项不低于6.0 |
+| AWS Certified Solutions Architect | Amazon Web Services | Optional | Valued by employers, but not mandatory |
+| Microsoft Azure administrator | Microsoft | Optional | Azure is commonly used in government projects |
+| IELTS | IDP/British Council | Optional | Skilled migration requires overall IELTS 6.5, no band below 6.0. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。新西兰政府推动数字化转型，企业上云需求持续增长。奥克兰、惠灵顿和基督城是主要就业中心。预计未来5年就业增长率超过20%，尤其缺乏资深架构师。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. The New Zealand government is promoting digital transformation, and enterprise cloud adoption continues to grow. Auckland, Wellington, and Christchurch are the main employment centers. Employment growth is expected to exceed 20% over the next 5 years, especially with a shortage of senior architects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | 需要1-2年云经验，持有认证可增加谈判筹码 |
-| 中级（3-6年） | $95,000~$130,000 | 独立架构设计，熟悉DevOps |
-| 高级（6年以上） | $130,000~$180,000 | 技术领导或架构专家，收入可达200k+ |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $75,000~$95,000 | Requires 1-2 years of cloud experience; certification strengthens negotiation leverage |
+| Mid-level (3–6 years) | $95,000~$130,000 | Independent architecture design, familiar with DevOps |
+| Senior (6+ years) | $130,000~$180,000 | Technical lead or architecture expert, with income up to 200k+ |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业发展路径：初级工程师 → 云架构师 → 首席技术官（CTO）。积累容器化（Kubernetes）和自动化（Terraform）技能可快速晋升，薪资涨幅达50%以上。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+Career progression: Junior Engineer → Cloud Architect → Chief Technology Officer (CTO). Gaining skills in containerization (Kubernetes) and automation (Terraform) can lead to rapid promotion with salary increases of over 50%.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Cloud computing engineers design, deploy and manage cloud infrastructure on AWS,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足薪资中位数两倍（2024年约59.32 NZD/小时或123,386 NZD年薪）且获得认证雇主offer即可申请 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制下硕士学历（5分）+工作或高薪可达标 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡路径，工作2年后可申请居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, eligible if meeting twice the median wage (about NZD 59.32/hour or NZD 123,386 annually in 2024) and having a job offer from an accredited employer |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category: under the 6-point system, a master's degree (5 points) + work or high salary can meet the requirement |
+| Subclass AEWV (Accredited Employer Work Visa) | Certified employer work visa as a transitional path; eligible for residency after working for 2 years |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network and Systems Engineer？**
-- 有云平台（AWS/Azure/GCP）实际部署经验者
-- 喜欢持续学习新技术，如容器化和自动化
-- 愿意在奥克兰或惠灵顿发展
-
-**谁不适合学Computer Network and Systems Engineer？**
-- 对持续认证考试和快速技术迭代感到厌倦
-- 偏好稳定工作，不愿接受运维值班
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with practical deployment experience on cloud platforms (AWS/Azure/GCP)
+- Enjoys continuously learning new technologies, such as containerization and automation
+- Willing to develop in Auckland or Wellington
+
+**Who is not suited**
+- Tired of continuous certification exams and rapid technological iterations
+- Prefer stable work, unwilling to accept operation and maintenance shifts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a cloud engineer in New Zealand?**
+A: Entry-level approx. $75k-95k, mid-level $95k-130k, senior $130k-180k+. Salary depends on experience, certifications, and city.
+
+**Q: Is it easy for cloud engineers to immigrate to New Zealand?**
+A: Easy, this occupation is on Green List Tier 1, meeting twice the median salary allows direct residence application, no waiting.
+
+**Q: How to find a job without local experience?**
+A: Obtain AWS/Azure certifications, connect with recruiters on LinkedIn, attend local meetups. Can apply for AEWV work visa first to gain experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Computer Network and Systems Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cloud computing engineer in NZ?**
-答：Entry level $75k-95k, mid $95k-130k, senior $130k-180k+. Varies with experience, certifications and location.
-
-**问：Is it easy for cloud computing engineers to migrate to NZ?**
-答：Yes, the role is on Green List Tier 1. Meet the median wage double threshold (~$123k) and apply for direct residence.
-
-**问：How to find a job without local experience?**
-答：Get AWS/Azure certifications, network on LinkedIn, attend local meetups. Consider AEWV to gain experience.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

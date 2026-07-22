@@ -1,60 +1,96 @@
-# Housing Officer（Housing Officer）职业分析 · 新西兰
+# Housing Officer — career analysis · New Zealand
 
-**职业代码：599614 – Housing Officer。**
+**Occupation code: 599614 (ANZSCO)**
 
-Housing Officers manage social housing tenancies, allocations, maintenance coordination, and tenant support in government and community housing organizations. In New Zealand, these roles are typically filled by locals, with limited migration pathways.
+Housing officers manage social housing leases, allocations, maintenance coordination, and tenant support in government and community housing agencies. In New Zealand, these roles are mostly with local governments or non-profits, often prioritizing local residents, with limited skilled migration opportunities.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 文凭或学士学位 | 1-3年 | $8,000~$30,000（社区服务、社会科学或相关领域文凭/学位） |
+| Diploma or bachelor's degree | 1-3 years | $8,000~$30,000 (Diploma/degree in community services, social science, or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰社区住房证书 | Community Housing Aotearoa | 可选 | 非强制，但提升就业竞争力 |
-| 公共服务执照（如适用） | 相关政府机构 | 可选 | 某些职位需背景审查 |
-| 驾照 | NZ Transport Agency | 可选 | 因需实地走访租户，建议持有 |
+| New Zealand Certificate in Community Housing | Community Housing Aotearoa | Optional | Not mandatory, but enhances employment competitiveness |
+| Public service license (if applicable). | Relevant government agencies | Optional | Some positions require background check |
+| Driver's license | NZ Transport Agency | Optional | Recommended to hold due to need for on-site tenant visits |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 1,500。新西兰住房需求持续增长，政府加大社会住房投入，预计未来5年岗位数量稳步增加，但竞争中等。主要在奥克兰、惠灵顿等大城市。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. New Zealand's housing demand continues to grow, with increased government investment in social housing. Job numbers are expected to rise steadily over the next 5 years, but competition is moderate. Main opportunities in major cities like Auckland and Wellington.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 年薪范围 |
-| 中级（3-7年） | $65,000~$80,000 | 年薪范围 |
-| 高级（7年以上） | $80,000~$100,000 | 年薪范围 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Annual salary range |
+| Mid-level (3–7 years) | $65,000~$80,000 | Annual salary range |
+| Senior (7+ years) | $80,000~$100,000 | Annual salary range |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级住房官员可晋升为高级住房官员、区域经理或政策顾问。也有机会转向社区发展或项目管理，但需积累经验及考取相关证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core duties of housing officers (lease management, tenant support) rely on interpersonal communication and legal compliance, making them less amenable to full automation, but data entry, report generation, and other administrative tasks will be significantly taken over by AI; overall job numbers remain stable but entry barriers rise as tools replace some junior tasks.
+
+Junior housing officers can progress to senior housing officer, regional manager, or policy advisor. Opportunities also exist to move into community development or project management, but require experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate standard lease contracts, rent adjustment notices, and maintenance work orders
+- Rule-based Subsidy Eligibility Checks and Waitlist Sorting
+- Automated data entry and report organization (e.g., vacancy rate, arrears statistics)
+- Chatbot responses for common tenant inquiries (e.g., application status queries)
+- Automate generation of periodic financial reconciliation and budget reports
+
+**Where AI augments the role:**
+
+- AI-assisted evaluation of complex tenant requests, recommending personalized solutions
+- Predictive analytics to identify high-risk tenants (e.g., late payments, dispute tendencies) and intervene early.
+- Automatically analyzing policy and regulation changes to remind compliance points
+- Smart scheduling systems optimizing house inspection and repair coordination
+- Case-based training simulators to improve newcomers' handling of complex scenarios
+
+**Human moat:**
+
+- Face-to-face handling of tenant crises (e.g., domestic violence, mental health issues) with human care
+- Making judgments under ambiguous policy boundaries (e.g., special hardship case approvals)
+- Negotiation and coordination with multiple parties such as community agencies and legal representatives
+- Deep experience-based understanding of local housing markets and community needs
+- Applying empathy and persuasion in tenant complaints and conflict mediation
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation and data analysis
+- Basic legal knowledge and policy interpretation skills
+- Negotiation and conflict resolution skills
+- Use of AI collaboration tools (e.g., smart document generation, chatbot management)
+- Data visualization and report interpretation skills
+- Project management and multitasking priority management
+
+**Key growth areas:**
 
 - Government sector growth
 - Social housing expansion
@@ -63,65 +99,67 @@ Housing Officers manage social housing tenancies, allocations, maintenance coord
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 仅当雇主为认证雇主且无法招到本地人时，可能申请，但机会极少。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合技术移民要求，除非职位被认定为技能短缺且高薪。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Only applicable if the employer is an accredited employer and cannot hire locally, but opportunities are very rare. |
+| Subclass SMC (Skilled Migrant Category) | Usually does not meet skilled migration requirements unless the position is recognized as skill-shortage and high-paying. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Housing Officer？**
-- 对社会福利和住房政策有热情的人
-- 喜欢与人沟通、解决问题的人
-- 可持续发展和社会公平感兴趣的毕业生
+**Who is suited**
+- Those passionate about social welfare and housing policy
+- People who enjoy communicating and problem-solving
+- Graduates interested in sustainability and social equity
 
-**谁不适合学Housing Officer？**
-- 追求高薪或快速移民的人
-- 不愿处理复杂租户关系或行政工作的人
+**Who is not suited**
+- Those seeking high salary or fast immigration.
+- People unwilling to handle complex tenant relationships or administrative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a New Zealand housing officer?**
+A: Entry-level approx. $55,000-65,000, mid-level $65,000-80,000, senior up to $100,000.
+
+**Q: Can housing officers immigrate to New Zealand?**
+A: Generally not, as this occupation is not on the Green List; skilled migration requires high salary or special skills, and local supply is sufficient.
+
+**Q: What advancement opportunities do housing officers have?**
+A: Can advance to team leader, regional manager, policy advisor, or transition to community development or project management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中低（★½☆☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Housing Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Housing Officer in New Zealand?**
-答：Entry level NZD 55,000-65,000, mid-level NZD 65,000-80,000, senior up to NZD 100,000.
-
-**问：Can a Housing Officer migrate to New Zealand?**
-答：Generally no, as it is not on the Green List and local supply is sufficient.
-
-**问：What are the career advancement opportunities for a Housing Officer?**
-答：Promotion to team leader, regional manager, policy advisor, or transition to community development, project management.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

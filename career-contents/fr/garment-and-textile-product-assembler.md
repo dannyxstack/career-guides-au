@@ -1,60 +1,93 @@
-# Garment and Textile Product Assembler（Garment and Textile Product Assembler）职业分析 · FR
+# Garment and Textile Product Assembler — career analysis · France
 
-**职业代码：H2402 – Garment and Textile Product Assembler。**
+**Occupation code: H2402 (ROME)**
 
-Performs cutting, sewing, joining, and pressing operations in garment and textile product assembly, common in apparel, home textiles, and industrial fabrics; requires proficiency with industrial sewing machines.
+Responsible for the cutting and sewing, splicing, and ironing processes of garments and textiles, commonly found in garment manufacturing, home textiles, and industrial textiles, requiring proficiency in operating industrial sewing machines and related equipment.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 缝制专业 | 2年 | —（公立学校免费，私立学校约500-1000欧/年；可通过学徒制获报酬） |
-| BTS 时装与纺织品 | 2年 | —（公立免费，私立约500-1500欧/年） |
+| CAP sewing specialty | 2 years | $0~$12,000 (Public schools are free, private schools about 500-1000 euros per year; You can earn compensation through apprenticeships) |
+| BTS Fashion & Textiles | 2 years | $0~$15,000 (Public schools are free, private ones about 500-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Métiers de la mode - vêtement flou | 法国教育部 | 必备 | 基础入门文凭，通常要求完成2年学习 |
-| CQP 工业缝制技工 | 纺织行业职业认证委员会（CPNEFP Textile） | 可选 | 行业认证，部分企业要求 |
+| CAP Métiers de la mode - vêtement flou | French Ministry of Education | Required | The introductory diploma usually requires two years of study |
+| CQP Industrial Sewing Technician | Textile Industry Vocational Certification Board (CPNEFP Textile) | Optional | Industry certification, required by some companies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 45,000。法国纺织制造业持续外迁，低技能装配岗位需求下降，但高端定制、技术纺织品及环保再生领域有小幅增长，就业竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 45,000. France's textile manufacturing continues to relocate outward, leading to a decline in demand for low-skilled assembly positions, but there has been slight growth in high-end customization, technical textiles, and eco-friendly recycling, with fierce job competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按SMIC或略高 |
-| 中级（3-7年） | $27,000~$32,000 | 税前年薪，含技能津贴 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，组长或质检员 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually based on SMIC or slightly higher |
+| Mid-level (3–7 years) | $27,000~$32,000 | Pre-tax annual salary, including skills allowance |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, team leader or quality inspector |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可从初级装配工晋升为高级技工、生产线组长或质检员；部分通过培训转向样板师、时装技师等更高技能岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Assemblers of apparel and textile products face a high risk of automated substitution. Standardized cutting and sewing tasks are easily replaced by intelligent sewing robots and automated assembly lines, but manual customization, complex fabric handling, and equipment maintenance still require human skills.
+
+Candidates can be promoted from junior assembler to senior technician, production line leader, or quality inspector; Some have shifted to higher-skilled positions such as model designers and fashion technicians through training.
+
+**Tasks most exposed to AI:**
+
+- Standardized cutting and splicing: The AI-guided automatic cutting system can precisely cut fabrics without manual marking
+- Repetitive sewing processes: Industrial sewing robots (such as Sewbo) can automatically complete straight sewing and simple curves
+- Quality Inspection: AI visual inspection systems can identify defects in real time, replacing manual visual inspection
+- Shaping and Straightening: Automatic ironing equipment uses sensors to control temperature and pressure, reducing manual intervention
+
+**Where AI augments the role:**
+
+- Handling complex fabrics: AI analyzes fabric characteristics and guides operators to adjust sewing parameters (such as tension and needle spacing)
+- Predictive equipment maintenance: AI monitors machine operation data, provides early fault warnings, and improves efficiency
+- Personalized Customization: AI automatically generates templates based on the customer's body shape and design, with operators focusing on manual details
+- Inventory and order management: AI optimizes production scheduling, with operators prioritizing tasks based on data
+
+**Human moat:**
+
+- Handmade haute couture and decorative sewing: Crafts such as embroidery and beadwork, which require artistic judgment
+- Handling rare or elastic fabrics: such as silk and Lycra, requires experienced adjustment of machine parameters
+- Troubleshooting complex equipment issues: involves comprehensive mechanical and electrical issues, relying on intuitive experience
+- Team coordination and training: Guide new employees to use smart devices and communicate production issues
+
+**Skills to build:**
+
+- Operation and programming of intelligent sewing equipment
+- Basic applications and troubleshooting of AI vision systems
+- Data analysis and production optimization
+- Digital pattern design and CAD software
+- Cross-disciplinary collaboration and problem-solving
+- Lightweight robot maintenance
+
+**Key growth areas:**
 
 - slow decline
 - technical textiles
@@ -63,62 +96,64 @@ Performs cutting, sewing, joining, and pressing operations in garment and textil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主工作合同，并证明职位无法由本地人填补，通常需要至少BTS学历。 |
-| Subclass Recherche emploi（Job-Seeker Visa (Talent)） | 适用于在法国完成学业的外国毕业生，可留法寻找工作，但装配工岗位竞争力低。 |
+| Subclass Salarié (Employee Work Permit) | You must obtain a work contract from a French employer and prove that the position cannot be filled by a local person; usually, at least a BTS degree is required. |
+| Subclass Recherche emploi (Job-Seeker Visa (Talent)) | This is suitable for foreign graduates who have completed their studies in France and can look for jobs in France, but the assembly position is less competitive. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Garment and Textile Product Assembler？**
-- 喜欢动手操作、对服装制造有热情的人
-- 愿意从基层做起、接受重复性工作的人
-- 希望在法国通过快速培训进入就业市场的人
+**Who is suited**
+- People who enjoy hands-on activities and are passionate about clothing manufacturing
+- People willing to start from the grassroots and accept repetitive work
+- Those hoping to enter the job market in France through rapid training
 
-**谁不适合学Garment and Textile Product Assembler？**
-- 追求高薪和高职业发展空间的人
-- 不喜欢机械重复劳动或对纺织行业无兴趣的人
+**Who is not suited**
+- People who pursue high salaries and strong career development opportunities
+- People who dislike repetitive mechanical labor or have no interest in the textile industry
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a garment fitter in France?**
+A: Entry-level salaries range from about 22,000 to 26,000 euros before tax, intermediate salaries range from 27,000 to 32,000 euros, and seniors up to 33,000 to 40,000 euros.
+
+**Q: Can garment fitters apply for skilled immigration in France?**
+A: It's very difficult. This occupation is not in short supply and requires a low educational background, making it difficult to obtain a guarantee through Salarié residency. It is more suitable for those who already hold legal residence in France.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Garment and Textile Product Assembler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for garment assemblers in France?**
-答：Entry-level: €22,000-€26,000 gross annually; mid-level: €27,000-€32,000; senior: €33,000-€40,000.
-
-**问：Can a garment assembler apply for French skilled migration?**
-答：Very difficult. The occupation is not in shortage and low-skilled, making employer sponsorship unlikely; better suited for those already in France.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

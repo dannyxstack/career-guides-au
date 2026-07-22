@@ -1,58 +1,93 @@
-# Research in Human and Social Sciences（Research in Human and Social Sciences）职业分析 · FR
+# Research in Human and Social Sciences — career analysis · France
 
-**职业代码：K2401 – Research in Human and Social Sciences。**
+**Occupation code: K2401 (ROME)**
 
-Researchers in human and social sciences conduct studies in sociology, anthropology, history and related fields, typically in universities, research institutes or think tanks, designing projects, collecting and analyzing data, writing reports and publishing academic papers.
+Researchers in the humanities and social sciences engage in research in fields such as sociology, anthropology, and history, typically working at universities, research institutions, or think tanks, responsible for designing research projects, collecting and analyzing data, writing reports, and publishing academic papers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（Master） | $500~$6,000（公立大学学费约500-3000欧元/年，高商或私立学院可达6000欧元/年） |
-| 博士 | 3年（Doctorat） | $500~$5,000（公立大学博士学费约500-1500欧元/年，部分项目免学费） |
+| Master's degree | 2 years (Master) | $500~$6,000 (Public university tuition is about 500-3000 euros per year, while commercial or private colleges can cost up to 6000 euros per year) |
+| Doctorate | 3 years (Doctorat) | $500~$5,000 (Public university doctoral tuition is about 500-1500 euros per year, with some programs exempt from tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位（Doctorat） | 大学 | 必备 | 研究岗位通常要求博士学历，尤其是CNRS等公立研究机构 |
-| HDR（指导研究资格） | 大学 | 可选 | 晋升教授或研究主任通常需要HDR，需5年以上研究经验 |
+| Doctorat | University | Required | Research positions usually require a doctoral degree, especially at public research institutions like CNRS |
+| HDR (Research Guidance Qualification) | University | Optional | Promotion to professor or research director usually requires HDR and requires more than 5 years of research experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。法国人文社科研究岗位竞争激烈，但数字化转型、公共政策评估、社会创新等领域需求增长。博士学历是基本门槛，需具备定量与定性分析能力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. Competition for positions in French humanities and social sciences is fierce, but demand is growing in areas such as digital transformation, public policy evaluation, and social innovation. A doctoral degree is the basic threshold, requiring both quantitative and qualitative analytical skills.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 博士后或青年研究员，税前年薪 |
-| 中级（4-10年） | $35,000~$50,000 | 研究工程师或助理教授，税前年薪 |
-| 高级（10年以上） | $50,000~$75,000 | 研究主任或教授，税前年薪 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Postdoctoral or young researcher, pre-tax annual salary |
+| Mid-level (4-10 years). | $35,000~$50,000 | Research engineer or assistant professor, pre-tax annual salary |
+| Senior (10+ years) | $50,000~$75,000 | Research directors or professors, pre-tax annual salary |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径通常从博士后研究员开始，逐步晋升至研究工程师、项目负责人，最终可成为研究主任或教授。也可转向公共政策咨询、市场研究等应用领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is unlikely to replace social housing policy development and tenant case management, but can amplify data analysis and automate administrative tasks; overall low risk, requiring strengthened interpersonal and compliance skills.
+
+The career path usually starts as a postdoctoral researcher and gradually advances to research engineer, project leader, and eventually becomes a research director or professor. It can also be applied in areas such as public policy consulting and market research.
+
+**Tasks most exposed to AI:**
+
+- Automated review and compliance check of rental applications
+- Social housing demand forecast report generation
+- Automated entry and update of tenant income and eligibility data
+- Policy document summaries and keyword extraction.
+- Automated sending of standardized reply emails
+
+**Where AI augments the role:**
+
+- Use AI to analyze community needs and optimize housing project design
+- AI-Assisted Policy Proposal and Impact Assessment Report Writing
+- Use predictive models to identify tenant default risk and intervene early.
+- Automatically generating housing market trend visualization dashboards
+- AI chatbots handle common tenant inquiries, reducing workload
+
+**Human moat:**
+
+- Humanistic care and communication negotiation for sensitive cases
+- Cross-departmental policy coordination and multi-stakeholder balance
+- Decision-making involving privacy and ethical considerations
+- On-site community visits and service resource connection
+- Complex Tenant Dispute Mediation & Relocation Plan Design
+
+**Skills to build:**
+
+- Proficient in data analysis and visualization tools (e.g., Power BI, Python).
+- learn AI-assisted policy simulation software (e.g., social policy simulation platforms)
+- Understand basic machine learning concepts to interpret prediction tools
+- Enhancing conflict mediation and cross-cultural communication skills
+- Learning project management and agile methodologies
+- Understanding AI ethics and privacy regulations
+
+**Key growth areas:**
 
 - Digital transformation
 - Public policy evaluation
@@ -61,65 +96,64 @@ Researchers in human and social sciences conduct studies in sociology, anthropol
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于研究人员、高技能人才，有效期4年，可携带家属，需提供工作合同或研究协议 |
-| Subclass Salarié（Employee Visa） | 适用于受雇于法国机构的研究人员，需工作许可，有效期与合同一致 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，需年薪达1.5倍法国平均工资（约53,000欧元），有效期4年 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to researchers and highly skilled talents, valid for 4 years, allowed to bring family members, and requires a work contract or research agreement |
+| Subclass Salarié (Employee Visa) | Applicable to researchers employed by French institutions, requiring a work permit valid for the contract period |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring an annual salary of 1.5 times the French average wage (about 53,000 euros), valid for 4 years |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Research in Human and Social Sciences？**
-- 对社会科学有浓厚兴趣，具备批判性思维和分析能力的人
-- 愿意长期投入学术研究，追求博士学历的人
-- 希望从事公共政策、社会创新等应用领域研究的人
-
-**谁不适合学Research in Human and Social Sciences？**
-- 期望快速高薪或职业稳定性强的人
-- 不擅长独立研究、写作和长期项目规划的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in social sciences and possessing critical thinking and analytical skills
+- Those willing to devote themselves to long-term academic research and pursue a doctoral degree
+- Those who wish to engage in research in applied fields such as public policy and social innovation
+
+**Who is not suited**
+- People who expect quick high salaries or strong career stability
+- People who are not good at independent research, writing, or long-term project planning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for researchers in the humanities and social sciences?**
+A: Junior researchers earn about 28,000-35,000 euros annually, intermediate researchers 35,000-50,000 euros, and senior researchers up to 75,000 euros. Public institutions offer lower salaries but stable benefits.
+
+**Q: How can non-EU residents apply for a humanities and social sciences research position in France?**
+A: Applications can be made through talent passports or EU Blue cards. A work contract or invitation letter from a French research institution is required, and a doctoral degree is usually required. Language requirements: Proficiency in French or English.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较高（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Research in Human and Social Sciences的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for researchers in human and social sciences?**
-答：Entry-level researchers earn around €28,000-35,000 gross per year, mid-level €35,000-50,000, and senior up to €75,000. Public institutions offer lower pay but stable benefits.
-
-**问：How can non-EU residents apply for research positions in human and social sciences in France?**
-答：Apply via Talent Passport or EU Blue Card. A work contract or invitation from a French research institution is required, along with a PhD. Proficiency in French or English is necessary.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

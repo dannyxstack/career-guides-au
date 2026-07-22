@@ -1,60 +1,96 @@
-# Craft Artists（Craft Artists）职业分析 · 美国
+# Craft Artists — career analysis · United States
 
-**职业代码：27-1012 – Craft Artists。**
+**Occupation code: 27-1012 (SOC)**
 
-Create or reproduce handmade objects for sale and exhibition using techniques like welding, weaving, pottery, and needlecraft.
+Use various techniques such as welding, weaving, pottery, and needlework to handcraft or reproduce items for sale and exhibition.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公共教育免费） |
-| 学士学位（美术/工艺设计） | 4年 | $40,000~$120,000（公立/私立大学差异大） |
+| High school diploma | 12 years | $0~$0 (Public education is free) |
+| Bachelor's degree (Fine Arts/Craft Design) | 4 years | $40,000~$120,000 (Large differences between public/private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | N/A | 可选 | 通常以作品集和技艺评估为主 |
-| 艺术学士学位 |  accredited college/university | 可选 | 非必需但有助于就业 |
+| No mandatory certification | N/A | Optional | Usually based on portfolio and skills assessment |
+| Bachelor of Arts |  accredited college/university | Optional | Not required but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 4,500。美国工艺艺术家就业预计增长缓慢（2022-2032年约1%），竞争激烈。多数为自雇或小型工作室，受经济周期影响较大。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,500. Employment of fine artists in the US is projected to grow slowly (about 1% from 2022-2032), with keen competition. Most are self-employed or work in small studios, heavily influenced by economic cycles.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 多自雇或兼职 |
-| 中级（4-9年） | $35,000~$60,000 | 稳定客户或画廊合作 |
-| 高级（10年以上） | $50,000~$90,000 | 知名艺术家或工作室主理人 |
+| Median salary | $46,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$40,000 | Mostly self-employed or part-time |
+| Intermediate (4-9 years) | $35,000~$60,000 | Stable clients or gallery partnerships |
+| Senior (10+ years) | $50,000~$90,000 | Well-known artist or studio director |
+| average salary | $49,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从助理工艺师起步，积累经验后可晋升为独立艺术家、工作室主管或开设个人品牌。少数人转为艺术教师或画廊策展人。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on craft artists is mixed: some design conception, pattern generation, and process documentation can be done by AI, but handcrafting, material handling, and creative expression still heavily rely on human skills; low-end mass production positions face reduction, while high-end custom positions increase in value.
+
+Start as an assistant craftsman, gain experience to become an independent artist, studio supervisor, or start a personal brand. A few transition to art teachers or gallery curators.
+
+**Tasks most exposed to AI:**
+
+- Automatic pattern and motif generation: AI can quickly generate embroidery, ceramic, and metal decoration patterns based on descriptions.
+- Standardized process documentation writing: AI generates production steps and material lists automatically from design drawings
+- Preliminary custom solution draft: AI analyzes user preferences to generate initial design concepts
+- Basic 3D models and rendering: AI tools quickly visualize craftwork effects
+- Stock photos and inspiration collection: AI automatically filters and categorizes reference images
+
+**Where AI augments the role:**
+
+- Complex design optimization: AI provides feasibility feedback and material parameter suggestions
+- Creative exploration acceleration: AI generates numerous variants for artists to select and adapt
+- Mass customization: AI-assisted low-cost, multi-version customized design
+- Skill inheritance and teaching: AI analyzes master works to aid learning traditional techniques
+- Market trend analysis: AI predicts popular elements to help artists adjust direction
+
+**Human moat:**
+
+- Handcraft skills and material tactile feel: physical experience that cannot be replicated by AI
+- Original artistic concepts and narrative: deep expression of personal emotions and cultural background
+- Intuitive judgment of complex materials and processes: e.g., clay moisture, metal stress
+- Customer relations and on-site collaboration: flexible response with direct communication and adjustments
+- Art world reputation and connections: social recognition from exhibitions, awards, etc. is irreplaceable
+
+**Skills to build:**
+
+- AI design tool application: Midjourney, Adobe Firefly and other pattern generation tools
+- Digital modeling and 3D printing: combining traditional craftsmanship with digital manufacturing
+- Social media and e-commerce operations: direct-to-consumer promotion
+- Project management and quoting system: using AI to optimize processes
+- Materials science and sustainable processes: adapting to environmental trends
+- Cross-disciplinary collaboration: work with designers and engineers
+
+**Key growth areas:**
 
 - self-employed
 - handmade
@@ -63,65 +99,67 @@ Create or reproduce handmade objects for sale and exhibition using techniques li
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出能力，如获奖、展览等，适合知名工艺艺术家。 |
-| Subclass EB-2（EB-2 NIW） | 国家利益豁免，需证明其工作对美国艺术文化有重大价值。 |
+| Subclass O-1 (O-1 Extraordinary Ability) | Requires evidence of extraordinary ability, such as awards, exhibitions, suitable for renowned craft artists. |
+| Subclass EB-2 (EB-2 NIW) | National Interest Waiver, need to prove that their work has significant value to U.S. art and culture. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Craft Artists？**
-- 热爱手工制作，有耐心和创造力
-- 能接受不稳定收入，适合自由职业者
-- 愿意持续学习多种工艺技术
+**Who is suited**
+- Loves handcrafting, patient and creative.
+- Accepts irregular income; suitable for freelancers
+- Willing to continuously learn multiple craft techniques
 
-**谁不适合学Craft Artists？**
-- 追求稳定高薪者
-- 不喜欢孤独工作或缺乏商业意识
+**Who is not suited**
+- Those seeking stable, high salaries
+- Disliking solitary work or lacking business awareness
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a craft artist?**
+A: According to BLS, in 2023 the median annual salary for furniture makers and related occupations in the US was about $35,000, but fine artist incomes vary widely, and self-employed may earn less.
+
+**Q: Can craft artists immigrate to the US through work visas?**
+A: Very difficult. Typically requires an O-1 visa demonstrating international recognition. Regular H-1B is not applicable as the occupation does not require a bachelor's degree.
+
+**Q: What are the career development paths for craft artists?**
+A: Starting as an assistant, can progress to independent artist, studio manager, art teacher, or gallery curator. A few gain recognition through their work.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Craft Artists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for craft artists?**
-答：According to BLS, the median annual wage for related occupations like fine artists was about $52,000 in 2023, but craft artists often earn less due to self-employment.
-
-**问：Can craft artists immigrate to the US via work visa?**
-答：Very difficult. Usually requires O-1 visa with evidence of extraordinary ability. Standard H-1B is not applicable as it doesn't require a bachelor's degree.
-
-**问：What are the career paths for craft artists?**
-答：Starting as assistant, can become independent artist, studio manager, art teacher, or gallery curator. A few achieve fame through their work.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

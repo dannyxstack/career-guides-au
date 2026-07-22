@@ -1,60 +1,96 @@
-# Salaried Truck Drivers（Salaried Truck Drivers）职业分析 · ES
+# Salaried Truck Drivers — career analysis · Spain
 
-**职业代码：8432 – Salaried Truck Drivers。**
+**Occupation code: 8432 (CNO)**
 
-Drive heavy trucks to transport goods over long or short distances; require appropriate driving license, high work intensity, and flexible hours.
+Driving heavy trucks to transport goods, responsible for long-distance or short-distance deliveries, requires the appropriate driver's license, requires high work intensity, and needs to adapt to flexible working hours.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育+职业培训 | 约2年（FP Grado Medio） | $500~$3,000（公立学校费用较低，私立较高） |
+| Secondary education + vocational training | About 2 years (FP Grado Medio) | $500~$3,000 (Public schools have lower fees, while private ones are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 重型卡车驾驶执照（C+E） | 西班牙交通局（DGT） | 必备 | 需通过理论和驾驶考试 |
-| 专业驾驶员资格认证（CAP） | 西班牙交通局（DGT） | 必备 | 需每5年更新 |
-| 危险品运输培训（ADR） | 官方认可培训机构 | 可选 | 特定岗位必备 |
+| Heavy Truck Driver's License (C+E) | Spanish Transport Authority (DGT) | Required | Requires passing both theoretical and driving tests |
+| Professional Driver Qualification Certification (CAP) | Spanish Transport Authority (DGT) | Required | It must be updated every 5 years |
+| Dangerous Goods Transport Training (ADR) | Officially recognized training institutions | Optional | Essential for specific positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。西班牙卡车司机短缺持续，老龄化严重，新司机需求旺盛，尤其冷链、危险品运输领域，就业机会稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. Spain's shortage of truck drivers persists, with a severe aging population and strong demand for new drivers, especially in cold chain and hazardous goods transport sectors, where employment opportunities remain stable.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-10年） | $28,000~$35,000 | 税前年薪 |
-| 高级（10年以上） | $35,000~$45,000 | 税前年薪，含危险品津贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Intermediate (3-10 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (10+ years) | $35,000~$45,000 | Pre-tax annual salary, including hazardous materials allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从轻型卡车司机晋升至重型卡车司机、危险品运输司机，或转向物流调度、车队管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+They can be promoted from light truck drivers to heavy truck drivers, hazardous materials transport drivers, or shift to logistics dispatch and fleet management positions.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - Shortage occupation
 - Aging workforce
@@ -63,64 +99,66 @@ Drive heavy trucks to transport goods over long or short distances; require appr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 需雇主担保，证明职位难以填补，对非欧盟申请人较难获批。 |
+| Subclass Cuenta ajena (Work permit (employed)) | Employer sponsorship is required, proving the position is difficult to fill, and non-EU applicants are harder to be approved. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Salaried Truck Drivers？**
-- 能适应长时间驾驶和灵活工时的人
-- 注重职业稳定性、不追求高学历者
-- 对物流行业有热情的人
+**Who is suited**
+- People who can adapt to long driving sessions and flexible working hours
+- Those who value career stability and do not pursue higher academic qualifications
+- People passionate about the logistics industry
 
-**谁不适合学Salaried Truck Drivers？**
-- 不能忍受长时间坐姿和单调工作的人
-- 希望快速获得西班牙居留权的非欧盟申请人
+**Who is not suited**
+- People who cannot tolerate long periods of sitting and monotonous work
+- Non-EU applicants who wish to obtain Spanish residency quickly
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a truck driver?**
+A: Spanish truck drivers earn about 25,000-35,000 euros before tax, about 22,000 euros for entry-level drivers, and up to 45,000 euros (including allowances) for senior drivers.
+
+**Q: Can non-EU citizens immigrate to Spain through truck driver work?**
+A: It is quite difficult; the employer must pass a labor market test to prove the position cannot be filled by a local, and there is no special concession visa.
+
+**Q: What is the shortage of truck drivers in Spain?**
+A: As a scarce occupation, due to aging workers and a shortage of young drivers, demand remains strong.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Salaried Truck Drivers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for truck drivers?**
-答：Salaried truck drivers in Spain earn around €25,000-€35,000 gross annually, entry-level from €22,000, senior up to €45,000 with allowances.
-
-**问：Can non-EU citizens immigrate to Spain as truck drivers?**
-答：It is difficult; employers must pass a labor market test and no specific favorable visa exists.
-
-**问：How is the shortage of truck drivers in Spain?**
-答：It is a shortage occupation due to aging workforce and lack of young drivers, demand remains high.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

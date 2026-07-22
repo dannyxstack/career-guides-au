@@ -1,58 +1,93 @@
-# Market research interviewers（Market research interviewers）职业分析 · UK
+# Market research interviewers — career analysis · United Kingdom
 
-**职业代码：7214 – Market research interviewers。**
+**Occupation code: 7214 (SOC)**
 
-Market research interviewers collect data on opinions and preferences of consumers, businesses, and other groups via face-to-face, telephone, or online interviews, supporting market analysis and decision-making.
+Market research interviewers collect opinions, preferences, and market data from consumers, businesses, voters etc. via face-to-face, phone, or online methods, providing decision-making basis for market research agencies, governments, or companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 无固定年限 | —（多数雇主对学历无硬性要求，高中毕业即可） |
-| 大学本科（社会科学、市场学等） | 3年 | $9,000~$15,000（年学费，国际生更高） |
+| High school diploma | No fixed duration | $0~$0 (Most employers have no strict educational requirements; high school diploma is sufficient) |
+| Bachelor's degree (Social Sciences, Marketing, etc.) | 3 years | $9,000~$15,000 (Annual tuition fees, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场研究学会（MRS）认证 | 市场研究学会（MRS） | 可选 | 行业认可的专业资格，非强制但利于职业发展 |
-| 面试技巧培训证书 | 雇主或培训机构 | 可选 | 许多雇主提供内部培训 |
+| Market Research Society (MRS) Certification | Market Research Society (MRS) | Optional | Industry-recognized professional qualifications, not mandatory but beneficial for career development |
+| Interview skills training certificate | Employer or training provider | Optional | Many employers provide in-house training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。英国市场调研行业稳定增长，数字化转型推动线上调查需求，但传统访问员岗位增长缓慢，预计未来五年从业人数保持平稳或小幅下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The UK market research industry is growing steadily, with digital transformation driving demand for online surveys, but traditional interviewer roles are growing slowly, with employment numbers expected to remain stable or slightly decline over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 时薪制常见，约£10-£12/小时 |
-| 中级（3-7年） | $24,000~$30,000 | 含固定岗位或高级访问员 |
-| 高级（7年以上） | $30,000~$38,000 | 含项目主管或调研经理 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Hourly rate common, about £10-£12/hour |
+| Mid-level (3–7 years) | $24,000~$30,000 | Includes permanent positions or senior interviewers |
+| Senior (7+ years) | $30,000~$38,000 | Involving project supervisor or research manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级访问员晋升为高级访问员、项目协调员或调研经理，部分转向数据分析、客户管理或市场研究顾问岗位，需积累项目经验和行业知识。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Can progress from junior interviewer to senior interviewer, project coordinator, or research manager; some transition to data analysis, account management, or market research consultant roles, requiring project experience and industry knowledge.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Research
 - Consumer Insights
@@ -61,67 +96,66 @@ Market research interviewers collect data on opinions and preferences of consume
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 此职业在可担保清单上，需雇主担保且薪资不低于£26,200或行业特定标准 |
-| Subclass Graduate（Graduate Visa） | 适合英国应届毕业生，可在毕业后留英工作2年（博士3年），积累经验后转换工签 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible list, requires employer sponsorship and salary not less than £26,200 or industry-specific standards |
+| Subclass Graduate (Graduate Visa) | Suitable for UK fresh graduates, allows working in the UK for 2 years after graduation (3 years for PhD), then switch to a work visa after gaining experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Market research interviewers？**
-- 善于沟通、有耐心的人
-- 喜欢与人打交道、对市场趋势敏感的人
-- 希望灵活工作、可接受兼职或临时岗位的人
-
-**谁不适合学Market research interviewers？**
-- 不喜欢重复性工作、厌恶拒绝的人
-- 追求高薪且稳定职业发展的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communication and patience
+- People who enjoy interacting with others and are sensitive to market trends
+- People seeking flexible work, part-time or temporary positions
+
+**Who is not suited**
+- People who dislike repetitive work and dislike rejection
+- People seeking high salary and stable career development
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for market research interviewers?**
+A: Entry-level annual salary around £18,000-£24,000, hourly pay common. Senior roles can reach £30,000+, but overall income is low, suitable for entry or part-time.
+
+**Q: Can a market research interviewer immigrate to the UK on a skilled worker visa?**
+A: Yes, this occupation is on the eligible visa list, but requires employer sponsorship and meeting salary requirements (usually over £26,200). Competitive; it's recommended to gain experience before applying.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, interviewers can advance to senior interviewer, project coordinator, research manager, or pivot to market analysis, client management, etc., requiring project experience and relevant qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Market research interviewers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for market research interviewers?**
-答：Entry-level positions earn around £18,000-£24,000 per year, often paid hourly. Senior roles can reach over £30,000, but overall income is modest, suitable for entry or part-time work.
-
-**问：Can market research interviewers migrate to the UK via a Skilled Worker visa?**
-答：Yes, the occupation is on the eligible list, but requires employer sponsorship and meeting salary thresholds (typically £26,200+). Competition is moderate; gaining experience is recommended.
-
-**问：Is there room for career progression?**
-答：Yes, progression to senior interviewer, project coordinator, research manager, or roles in data analysis and client management is possible with experience and qualifications.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

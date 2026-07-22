@@ -1,61 +1,96 @@
-# Travel Agents（Travel Agents）职业分析 · 美国
+# Travel Agents — career analysis · United States
 
-**职业代码：41-3041 – Travel Agents。**
+**Occupation code: 41-3041 (SOC)**
 
-Plan and sell transportation and accommodations for customers, determine destinations, modes of transport, travel dates, costs, and accommodations, arrange itineraries, sell tour packages, and assist in resolving travel problems.
+Plan and sell transportation and accommodation for clients, determine destinations, transport modes, travel dates, costs, and required lodging; may describe, plan, and arrange itineraries, sell travel packages, and assist with client travel issues.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无固定年限 | —（高中毕业即可入门，部分雇主提供在职培训） |
-| 副学士学位 | 2年 | $10,000~$30,000（旅游管理或相关领域副学士学位有助于职业发展） |
-| 学士学位 | 4年 | $40,000~$120,000（酒店管理、旅游或工商管理学士学位提升竞争力） |
+| High school diploma | No fixed duration | $0~$0 (High school diploma sufficient for entry; some employers provide on-the-job training) |
+| Associate degree | 2 years | $10,000~$30,000 (An associate degree in tourism management or a related field can help career development) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Bachelor's degree in hotel management, tourism, or business administration enhances competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 旅游顾问认证 | 旅游学院（The Travel Institute） | 可选 | 获得CTC或CTA认证可增强专业信誉 |
-| 国际航空运输协会（IATA）认证 | 国际航空运输协会 | 可选 | 销售机票可能需要IATA认证 |
+| Travel consultant certification | The Travel Institute | Optional | Obtaining CTC or CTA certification can enhance professional credibility |
+| International Air Transport Association (IATA) certification | International Air Transport Association | Optional | Selling airline tickets may require IATA certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 67,000。美国劳工统计局预计2023-2033年就业增长约2%，低于平均水平，主要受在线预订平台竞争影响，但注重个性化服务和复杂行程的旅行顾问仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 67,000. US Bureau of Labor Statistics projects about 2% employment growth from 2023 to 2033, below average, mainly affected by competition from online booking platforms, but travel advisors focusing on personalized service and complex itineraries still in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 入门级薪资较低，通常包含佣金 |
-| 中级（3-7年） | $40,000~$55,000 | 有经验的顾问薪资包含较高佣金 |
-| 高级（7年以上） | $55,000~$80,000 | 资深顾问或管理层薪资含丰厚佣金分成 |
+| Median salary | $50,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$40,000 | Entry-level salary is low, usually includes commission |
+| Mid-level (3–7 years) | $40,000~$55,000 | Experienced consultant salary includes higher commission |
+| Senior (7+ years) | $55,000~$80,000 | Senior consultant or management salary includes substantial commission |
+| average salary | $54,660 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级旅行顾问可晋升为资深顾问，进而担任团队主管或区域经理，部分转向旅游产品开发或供应商关系管理，也可自主创业开设旅行社。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
+
+Entry-level travel advisors can advance to senior advisors, then team leaders or regional managers; some transition to tourism product development or supplier relationship management, or start their own travel agencies.
+
+**Tasks most exposed to AI:**
+
+- Handle price comparison and booking for transportation (airline tickets, train tickets) and accommodation
+- Generate standard travel itineraries and quotes
+- Answering common travel policy questions (e.g., visas, baggage rules)
+- Maintain client travel files and preference records
+- Sell standardized tourism packages
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer historical data and proactively recommend personalized destinations and experiences
+- Using real-time exchange rates and price prediction tools to optimize client travel budgets
+- Providing immersive travel advice through AI translation and local information aggregation platforms
+- Use virtual reality (VR) preview tools to sell high-end travel products
+- Automates generation of alternative solutions for emergencies (e.g., flight cancellations)
+
+**Human moat:**
+
+- Ability to handle complex emergencies involving multi-country visas, special routes, health risks, etc.
+- Build high-trust relationships with clients, understand their unspoken preferences
+- Sales skills to deliver compelling travel narratives and value propositions
+- Negotiation skills for coordinating multiple suppliers and local resources to address non-standard needs
+
+**Skills to build:**
+
+- Proficiency in mainstream AI travel tools (e.g., Hopper, Tripadvisor integration platforms)
+- Learn the basics of data analysis (e.g., Python/pandas) to interpret customer insights
+- Strengthen high-end customer service and crisis management communication skills
+- Familiarity with VR/AR travel demonstration tools.
+- Learn social media marketing and content creation (e.g., Xiaohongshu, Instagram) to attract clients.
+- Obtain professional travel certifications (e.g., CTC, Certified Travel Counselor)
+
+**Key growth areas:**
 
 - Online booking competition
 - Personalized travel
@@ -64,67 +99,69 @@ Plan and sell transportation and accommodations for customers, determine destina
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因旅行顾问通常不满足专业职业要求，但大型旅游公司有时可为管理层申请 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 极少见，需雇主担保且证明职位无法找到美国工人 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国公司内部调派管理人员或专业知识员工，大型旅行社有机会 |
-| Subclass O-1（O-1 Extraordinary Ability） | 极少数杰出旅行顾问可能符合 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable as travel consultants typically do not meet professional occupation requirements, but large travel companies may sometimes apply for management positions |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Very rare, requires employer sponsorship and proof that no US worker can fill the position |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer managers or specialized knowledge employees; opportunities in large travel agencies |
+| Subclass O-1 (O-1 Extraordinary Ability) | Very few exceptional travel advisors may qualify |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Travel Agents？**
-- 喜欢旅行和规划行程的人
-- 擅长沟通和客户服务的人
-- 具备销售技巧和自我驱动力的人
+**Who is suited**
+- People who like to travel and plan itineraries
+- People skilled in communication and customer service
+- People with sales skills and self-motivation
 
-**谁不适合学Travel Agents？**
-- 不擅长细节和预算管理的人
-- 习惯稳定朝九晚五工作的人
+**Who is not suited**
+- People not good with details and budget management
+- People accustomed to stable 9-to-5 work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Do travel advisors earn mainly from base salary or commission?**
+A: Most travel advisors' income includes base salary plus commission, but entry-level positions have lower base pay with a high commission share; senior advisors typically earn more from commissions.
+
+**Q: Can Travel Consultants immigrate to the US via H-1B visa?**
+A: Very difficult, as this occupation typically does not meet H-1B professional position requirements (needs at least a bachelor's degree and a professional occupation), except in management or analytical roles at large travel companies
+
+**Q: What are the career advancement paths for travel advisors?**
+A: Can advance from junior consultant to senior consultant, then to team leader, regional manager, or move to backend roles like tourism product development, supplier relationship management, or start their own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Travel Agents属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do travel agents earn mainly salary or commission?**
-答：Most travel agents earn a base salary plus commission; entry-level base pay is low and heavily reliant on commissions, while senior agents derive more from commissions.
-
-**问：Can travel agents immigrate to the US via H-1B visa?**
-答：Very difficult; the occupation typically does not qualify as a specialty occupation for H-1B (requires at least a bachelor's degree in a specific field), unless in managerial or analytical roles at large travel companies.
-
-**问：What are the career advancement paths for travel agents?**
-答：From entry-level to senior agent, then to team leader, regional manager, or transition to product development, supplier relations, or start their own agency.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

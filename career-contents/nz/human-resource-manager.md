@@ -1,128 +1,160 @@
-# Human Resource Manager（Human Resource Manager）职业分析 · 新西兰
+# Human Resource Manager — career analysis · New Zealand
 
-**职业代码：132311 – Human Resource Manager。**
+**Occupation code: 223111 (ANZSCO)**
 
-Human Resource Managers oversee recruitment, compensation, performance, and employee relations. This ANZSCO Level 1 occupation is eligible for Skilled Migrant Category (SMC) and Green List Tier 2 (work to residence) pathways, requiring employer sponsorship.
+Human resources managers oversee recruitment, employee relations, performance management, compensation and benefits, and compliance, acting as strategic partners. Skilled migration to New Zealand is feasible, typically via SMC or AEWV pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（通常3年） | 3年 | $45,000~$65,000（国际学生年均学费约1.5-2.2万NZD，3年总计） |
-| 硕士（1-2年） | 1.5年 | $45,000~$65,000（如奥大Master of Management（HR），MBA更贵） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (NZ university international student annual tuition) |
+| Master's degree (Human Resources) | 1.5 years | $40,000~$55,000 (Total international student tuition approximately AUD 60,000-80,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 人力资源管理硕士或相关学位 | 新西兰大学（如奥大、坎大） | 可选 | 非必须但强烈推荐，尤其对移民加分 |
-| NZIRH注册或CIPD认证 | NZ Human Resources Institute (NZIRH) | 可选 | 非强制但提升竞争力 |
+| HRNZ registration (optional) | Human Resources Institute of New Zealand | Optional | Not mandatory but helpful for employment |
+| CIPD (internationally recognized) | Chartered Institute of Personnel and Development | Optional | Also recognized by New Zealand employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 10,000。新西兰人力资源经理岗位需求稳定，年增长率约2-3%。奥克兰、惠灵顿和基督城就业机会较多，企业合规和数字化人力资源管理带来新需求。竞争中等，高级职位供不应求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,800. Demand for HR managers in New Zealand is stable, especially in major cities like Auckland and Wellington. With labor law updates and digital transformation, managers with HRIS and data analysis skills are more sought after. Employment growth expected to be moderate over next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 人力资源协调员或助理经理 |
-| 中级（3-7年） | $85,000~$110,000 | 人力资源经理或高级顾问 |
-| 高级（7年以上） | $120,000~$160,000 | 人力资源总监或大型企业HR经理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$80,000 | Usually assistant or coordinator |
+| Mid-level (3–7 years) | $85,000~$110,000 | HR manager position |
+| Senior (7+ years) | $120,000~$160,000 | Senior manager or director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从人力资源专员或顾问晋升至经理，可向人力资源总监或首席人力资源官发展。持有MCIPD或NZIRH认证可加速晋升，跨行业经验（如IT、建筑业）薪资更高。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
 
-- Green List Tier 2
+Career progression can go from HR specialist to manager, senior manager, and then HR director or Chief Human Resources Officer. Can also transition to consulting or talent development specialized fields.
+
+**Tasks most exposed to AI:**
+
+- Automatically screen large volumes of resumes and pre-schedule interview candidates
+- Automatically generate compensation reports and performance data analysis
+- Handle basic employee inquiries (e.g., leave balances, policy questions)
+- Automate attendance and shift management
+
+**Where AI augments the role:**
+
+- Use AI for talent profile matching and candidate recommendations
+- Use sentiment analysis tools to assist employee satisfaction surveys
+- Use AI to generate personalised training plans and learning paths
+- Predict employee turnover risk based on data analysis and intervene early
+
+**Human moat:**
+
+- Complex Employee Relations Mediation and Conflict Resolution
+- Corporate culture and values building
+- Labor law compliance judgment and risk decisions
+- Strategic talent planning and leadership development
+
+**Skills to build:**
+
+- HR data analysis and visualization (Power BI/Tableau)
+- AI recruitment tools (e.g., HireVue, Pymetrics)
+- Employee experience platform design (e.g., Workday, SAP SuccessFactors)
+- Labour law compliance and risk management
+- Change management and project leadership
+- Digital human resource management knowledge
+
+**Key growth areas:**
+
 - Skilled Migrant Category
-- Auckland Demand
-- Digital HR
+- AEWV
+- Digital Transformation
+- HR Analytics
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制，需新西兰技能工作或学历加分，职业在ANZSCO Level 1，无绿色清单直通，但可申请 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 职业在Tier 2列表，需工作2年后转居留，雇主需认证 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可作为移民跳板，需时薪中位数以上 |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system; qualifications and work experience earn points; hourly wage must be above median (approx. NZD 29.66/hr) |
+| Subclass AEWV (Accredited Employer Work Visa) | Through accredited employer sponsorship, hourly wage must meet median or above; visa can be renewed and transition to residence. |
+| Subclass Green List T2 (Green List Tier 2) | HR manager is not on the Green List, but some related positions may apply |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Human Resource Manager？**
-- 擅长沟通和人际关系管理，具有领导力
-- 熟悉新西兰劳动法，接受持续学习
-- 有人力资源或商科本科以上学历
-
-**谁不适合学Human Resource Manager？**
-- 不喜欢处理冲突和复杂人际关系
-- 不愿学习新西兰本地法律和文化
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interpersonal and organisational coordination skills
+- Familiar with labor laws and compliance awareness
+- Willingness to learn HR technology and data analysis
+
+**Who is not suited**
+- Dislikes handling employee disputes
+- Lack of strategic thinking
+
+---
+
+## 8. FAQ
+
+**Q: Salary range for human resources managers in New Zealand?**
+A: Depending on experience, entry-level about 60,000-80,000 NZD, mid-level 85,000-110,000, senior 120,000-160,000. Specifics depend on industry and region.
+
+**Q: How can a human resources manager immigrate to New Zealand?**
+A: Usually via the Skilled Migrant Category or AEWV (Accredited Employer Work Visa) pathway. Requires a bachelor's degree and relevant work experience, with an hourly wage above the median.
+
+**Q: Is a New Zealand local qualification required?**
+A: No mandatory registration in New Zealand, but HRNZ membership or CIPD certification can increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Human Resource Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the entry-level salary for HR Manager in NZ?**
-答：Entry-level HR Manager or coordinator earns NZD 60,000-80,000 annually, experienced 85,000-110,000, senior 120,000-160,000, depending on industry and company size.
-
-**问：Is HR Manager eligible for Green List immigration?**
-答：Yes, HR Manager is on Green List Tier 2 (Work to Residence), requiring 2 years of work for an accredited employer. SMC 6-point system also applies.
-
-**问：What is the job outlook for HR Manager in NZ?**
-答：Stable, with growing demand in digital HR and compliance. Opportunities concentrated in Auckland and major cities. Competition moderate; local qualifications and experience help.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

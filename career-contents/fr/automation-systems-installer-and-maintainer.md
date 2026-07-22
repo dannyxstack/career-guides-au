@@ -1,59 +1,94 @@
-# Automation Systems Installer and Maintainer（Automation Systems Installer and Maintainer）职业分析 · FR
+# Automation Systems Installer and Maintainer — career analysis · France
 
-**职业代码：I1302 – Automation Systems Installer and Maintainer。**
+**Occupation code: I1302 (ROME)**
 
-Installs, configures, maintains and troubleshoots industrial automation equipment (PLCs, robots, sensors) to ensure efficient production line operations.
+Responsible for installation, commissioning, maintenance, and troubleshooting of industrial automation equipment (PLCs, robots, sensors, etc.) to ensure efficient operation of production lines.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年 | 2年（BTS） | —（公立学校免费或低学费；学徒制可获薪资） |
-| 大学本科 | 3年（Licence pro） | —（公立大学学费低，私立约3000-5000欧元/年） |
+| Two years after high school | 2 Years (BTS) | $0~$3,000 (Free or low tuition at public schools; Apprenticeships are available for wages) |
+| University bachelor's degree | 3 years (Licence pro) | $0~$5,000 (Public universities have low tuition fees, while private ones cost about 3,000-5,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS 自动化系统维护 | 法国教育部 | 必备 | 最相关文凭，学徒制常见 |
-| Licence pro 自动化与工业信息技术 | 公立大学 | 可选 | 更高级别，部分岗位要求 |
-| 职业资格证书（CQP） | 行业委员会 | 可选 | 非强制但有助于就业 |
+| BTS automation system maintenance | French Ministry of Education | Required | Most relevant diplomas and apprenticeships are common |
+| Licence pro Automation and Industrial Information Technology | Public university | Optional | Higher levels, some job requirements |
+| Professional Qualification Certificate (CQP) | Industry committee | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国工业4.0转型推动自动化需求持续增长，尤其汽车、食品、制药行业。预计未来5年岗位增加约8%，且大量老员工退休，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's Industry 4.0 transformation is driving sustained growth in automation demand, especially in the automotive, food, and pharmaceutical sectors. It is expected that job openings will increase by about 8% over the next five years, with a large number of veteran employees retiring, indicating a promising employment outlook.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，含奖金 |
-| 中级（4-8年） | $33,000~$42,000 | 税前年薪，含奖金 |
-| 高级（9年以上） | $43,000~$55,000 | 税前年薪，含奖金 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4–8 years) | $33,000~$42,000 | Annual pre-tax salary, including bonuses |
+| Senior (9+ years) | $43,000~$55,000 | Annual pre-tax salary, including bonuses |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术员晋升为高级自动化工程师、团队负责人或项目经理。通过继续教育获得工程师文凭（Bac+5）可转向设计或项目管理岗位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+You can advance from technician to senior automation engineer, team leader, or project manager. Obtaining the Engineering Diploma (BAC+5) through continuing education can lead to roles in design or project management.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industry 4.0
 - PLCs
@@ -62,68 +97,67 @@ Installs, configures, maintains and troubleshoots industrial automation equipmen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，如工程师或专家，有效期4年，可续签，家属可随行。 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高薪技术岗位（年薪≥年薪1.5倍），快速获得居留，可在欧盟内流动。 |
-| Subclass Salarié（Salaried Employee） | 受雇于法国公司，需工作许可，通常为1年可再生居留。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents such as engineers or experts, valid for 4 years, renewable with the option to accompany family members. |
+| Subclass Carte bleue UE (EU Blue Card) | For high-skilled technical positions (annual salary ≥1.5 times the average), fast-track residence, can move within the EU. |
+| Subclass Salarié (Salaried Employee) | Employed by a French company requires a work permit, usually a one-year renewable residence permit. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Automation Systems Installer and Maintainer？**
-- 喜欢动手操作和技术工作的人
-- 对自动化、编程和机械感兴趣
-- 愿意现场工作并处理突发故障
-
-**谁不适合学Automation Systems Installer and Maintainer？**
-- 偏好纯办公室工作或远程工作
-- 不善于在压力下快速排故
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and technical work
+- Interested in automation, programming, and mechanical engineering
+- Willing to work on-site and handle unexpected faults
+
+**Who is not suited**
+- Preference for pure office work or remote work
+- Not good at quickly eliminating problems under pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate starting salary for automation system installation and maintenance technicians?**
+A: The pre-tax annual salary for junior technicians is about 26,000-32,000 euros, and with experience, it can exceed 40,000 euros.
+
+**Q: How can foreigners obtain a work visa for French automation technicians?**
+A: You can obtain the EU Blue Card (a high-salary requirement) or a talent passport visa. It is recommended to obtain a French diploma or find employer sponsorship first.
+
+**Q: What career development paths are available for automation technicians?**
+A: You can be promoted to senior technician, team leader, or through continuing education to become an automation engineer or project manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Automation Systems Installer and Maintainer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for an automation systems installer and maintainer?**
-答：Entry-level technicians earn around 26,000-32,000 EUR gross per year, rising to over 40,000 EUR with experience.
-
-**问：How can a foreigner get a work visa as an automation technician in France?**
-答：Options include the EU Blue Card (high salary threshold) or the Talent Passport. It is advisable to obtain a French diploma or secure employer sponsorship.
-
-**问：What are the career progression paths for an automation technician?**
-答：Possible paths include senior technician, team leader, or further education to become an automation engineer or project manager.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

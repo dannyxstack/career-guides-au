@@ -1,59 +1,90 @@
-# Bungy Jump Master（Bungy Jump Master）职业分析 · 新西兰
+# Bungy Jump Master — career analysis · New Zealand
 
-**职业代码：452211 – Bungy Jump Master。**
+**Occupation code: 452211 (ANZSCO)**
 
-Bungy Jump Masters operate equipment, ensure safety, and guide jumps. In NZ, steady tourism demand but limited migration pathways; typically via AEWV.
+Bungee masters operate bungee equipment, ensure participant safety, and guide jumping procedures. The occupation has steady demand in New Zealand's tourism industry but limited immigration pathways, typically requiring an AEWV work visa.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训 | 3-6个月 | $500~$2,000（雇主提供在职培训，费用较低） |
+| On-the-job training | 3-6 months | $500~$2,000 (Employer provides on-the-job training at low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| First Aid Certificate | New Zealand Red Cross等 | 必备 | 强制要求，课程约1-2天 |
-| Adventure Activity Operator认证 | 新西兰工作安全局(WorkSafe) | 可选 | 非强制但雇主倾向优先 |
+| First Aid Certificate | New Zealand Red Cross, etc. | Required | Mandatory, course about 1-2 days |
+| Adventure Activity Operator certification | WorkSafe New Zealand | Optional | Not mandatory but employers tend to prefer it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 200。新西兰蹦极产业集中在皇后镇等旅游热点。疫情后游客恢复，就业机会稳定但竞争激烈。预计未来5年从业人数缓慢增长，约200人。
+**Job demand: medium (★★½☆☆).** National workforce approx. 200. New Zealand's bungee jumping industry is concentrated in tourist hotspots like Queenstown. After the pandemic, tourist numbers have recovered, job opportunities are stable but competitive. The workforce is expected to grow slowly over the next 5 years, to about 200 people.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 通常时薪20-25纽元 |
-| 中级（3-6年） | $50,000~$60,000 | 时薪25-30纽元 |
-| 高级（6年以上） | $60,000~$70,000 | 主管级别时薪30-35纽元 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Typically NZD 20-25 per hour |
+| Mid-level (3–6 years) | $50,000~$60,000 | Hourly wage of NZD 25-30 |
+| Senior (6+ years) | $60,000~$70,000 | Supervisor level: hourly rate NZD 30-35 |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级助手积累经验后可晋升为主操作员或安全主管。少数人开设小型蹦极公司，但需高额投资和许可证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core safety responsibilities and on-site interactions of a bungee master are difficult to replace by AI, but administrative and record-keeping tasks will be automated. AI enhances monitoring and marketing capabilities, resulting in low overall risk, though entry-level positions may decrease due to automation.
+
+Junior assistants can accumulate experience and advance to lead operator or safety supervisor. A few start small bungee companies, but require high investment and permits.
+
+**Tasks most exposed to AI:**
+
+- Administrative processes for client appointments, registration, and waiver completion
+- Text records of safety briefings and generation of standardized training materials
+- Automatic recording of simple equipment inspection logs and abnormal alarms
+
+**Where AI augments the role:**
+
+- AI analyzes jumpers' physiological data (heart rate, blood pressure) to assist safety assessments
+- AR/VR simulation training enhances coach training effectiveness
+- Automated generation and marketing of social media content
+- Real-time monitoring cameras automatically identify abnormal behaviors and issue alerts.
+
+**Human moat:**
+
+- Judgment and rapid response in on-site emergencies
+- Soft skills for building customer trust and calming anxiety
+- Manual skills for equipment maintenance and complex fault troubleshooting
+- Intuitive experience with natural environment and weather changes
+
+**Skills to build:**
+
+- Basic data analysis and visualization skills
+- Social media operations and content creation
+- First aid and emergency response certification upgrade
+- Basic equipment electronic monitoring system operation
+- Multilingual communication skills (serving international tourists)
+
+**Key growth areas:**
 
 - Tourism rebound
 - Adventure sector
@@ -62,68 +93,67 @@ Bungy Jump Masters operate equipment, ensure safety, and guide jumps. In NZ, ste
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：非常低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见路径，需获得认证雇主的工作offer，工资需达中位数（约29.66纽元/小时） |
-| Subclass SMC（Skilled Migrant Category） | 极难，因蹦极大师不属于ANZSCO技能等级1-3职业，通常无法满足技能移民要求 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common pathway; requires a job offer from an accredited employer, with salary meeting the median (approx. NZ$29.66 per hour). |
+| Subclass SMC (Skilled Migrant Category) | Extremely difficult. Bungee master is not an ANZSCO skill level 1-3 occupation, so it generally cannot meet skilled migration requirements. |
 
-**PR难度：非常高（★★★★★）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bungy Jump Master？**
-- 热爱极限运动和户外工作者
-- 有较强责任心和风险意识者
-- 善于沟通和服务游客者
-
-**谁不适合学Bungy Jump Master？**
-- 追求高收入和稳定职业发展者
-- 不适应季节性工作和波动环境者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves extreme sports and outdoor work
+- Candidates with strong sense of responsibility and risk awareness
+- Good communication skills and service orientation towards tourists.
+
+**Who is not suited**
+- For those seeking high income and stable career development
+- Not suitable for those who cannot adapt to seasonal work and fluctuating environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bungee masters in New Zealand?**
+A: Entry-level annual salary about NZD 40,000-50,000, experienced supervisors can reach NZD 60,000-70,000. Income is heavily affected by seasons, with more overtime during peak periods.
+
+**Q: Can bungee masters migrate to New Zealand under a skilled visa?**
+A: Very difficult. This occupation does not meet ANZSCO skill level 1-3, cannot apply for skilled immigration, usually only eligible for AEWV work visa, and cannot obtain residency.
+
+**Q: What career advancement opportunities are there for this occupation in New Zealand?**
+A: Can advance from assistant to main operator or safety supervisor; a few start their own bungee jumping companies. However, starting a business requires significant capital and permits.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Bungy Jump Master为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Bungy Jump Master in NZ?**
-答：Entry-level earns NZD 40,000-50,000 per year; experienced supervisors up to NZD 60,000-70,000. Pay varies with season.
-
-**问：Can Bungy Jump Masters migrate to NZ?**
-答：Very difficult. The occupation is not ANZSCO skill level 1-3, so SMC is not viable. Only AEWV work visa possible, no residence pathway.
-
-**问：What career progression exists in NZ?**
-答：From assistant to senior operator or safety supervisor. Few start their own bungy business, which requires significant capital and permits.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

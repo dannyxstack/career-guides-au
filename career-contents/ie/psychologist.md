@@ -1,60 +1,94 @@
-# Psychologist（Psychologist）职业分析 · IE
+# Psychologist — career analysis · Ireland
 
-**职业代码：2634 – Psychologist。**
+**Occupation code: 2634 (ISCO08)**
 
-Psychologists study human behavior and mental processes, helping individuals cope with mental health issues through assessment, diagnosis, and therapy.
+Psychologists study human behavior and mental processes, helping individuals cope with mental health issues through assessment, diagnosis, and treatment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $8,000~$25,000（欧盟学生约€8,000-12,000/年，非欧盟约€20,000-25,000/年） |
-| 硕士 | 1-2年 | $10,000~$20,000（非欧盟学生约€10,000-20,000/年） |
-| 博士 | 3-4年 | $12,000~$25,000（研究型博士可能有奖学金） |
+| Bachelor's degree | 4 years | $8,000~$25,000 (EU students approximately €8,000-12,000/year, non-EU approximately €20,000-25,000/year) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Non-EU students: approximately €10,000-20,000/year) |
+| Doctorate | 3-4 years | $12,000~$25,000 (Doctoral research students may have scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学学士学位 | 爱尔兰大学 | 必备 | 获得心理学学位认证委员会（PSI）认可 |
-| 临床或咨询心理学硕士 | 爱尔兰大学 | 必备 | 完成相关硕士课程并获得PSI认证 |
-| 心理学家注册 | 爱尔兰心理学家注册局（CORU） | 必备 | 必须在CORU注册才能执业 |
+| Bachelor's degree in Psychology | Irish universities | Required | Accredited by the Psychology Board (PSI) |
+| Master's degree in clinical or counselling psychology | Irish universities | Required | Complete a relevant master's program and obtain PSI certification |
+| Psychologist registration | Irish Psychologists Registration Board (CORU) | Required | Must be registered with CORU to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰对心理学家的需求持续增长，特别是在临床和教育领域。政府加大对心理健康的投入，预计未来十年就业增长约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Demand for psychologists in Ireland continues to grow, especially in clinical and educational fields. The government has increased investment in mental health, with employment expected to grow by about 15% over the next decade.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 初级心理学家，多在公共部门 |
-| 中级（3-7年） | $45,000~$65,000 | 有经验的心理学家，可能担任高级职位 |
-| 高级（7年以上） | $65,000~$95,000 | 高级或首席心理学家，或私人执业 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level psychologist, mainly in the public sector |
+| Mid-level (3–7 years) | $45,000~$65,000 | Experienced psychologist, possibly holding a senior position |
+| Senior (7+ years) | $65,000~$95,000 | Senior or principal psychologist, or private practice |
+| average salary | $58,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 心理学家可从初级职位晋升为高级心理学家、团队领导或独立执业。进一步深造可成为临床或咨询心理学专家。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on psychologists is mixed: automation changes data collection and reporting, but core diagnosis, treatment, and ethical judgments still require humans; AI is more of an enhancement than a replacement.
+
+Psychologists can progress from junior roles to senior psychologist, team leader, or independent practice. Further study can lead to clinical or counseling psychology specialization.
+
+**Tasks most exposed to AI:**
+
+- Scoring and preliminary interpretation of standardized psychological tests
+- Automated generation of medical records and treatment notes
+- Preliminary symptom screening for common mental health issues
+- Writing efficacy analysis reports based on evidence-based data
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: using machine learning to analyze patient language patterns to improve diagnostic accuracy
+- Personalized treatment plans: recommend the most effective interventions based on big data
+- Remote monitoring and early warning: real-time patient status tracking via wearable device data
+- Treatment process recording and analysis: automatically analyze session content and provide insights.
+
+**Human moat:**
+
+- Building therapeutic relationships based on trust and empathy
+- Comprehensive assessment and ethical decision-making for complex psychological issues
+- Personalized, creative treatment strategy design
+- Immediate response and humane care in crisis intervention
+- Collaboration and leadership in interdisciplinary teams
+
+**Skills to build:**
+
+- Data science and analytics: proficiency in Python/R and machine learning fundamentals
+- AI tool application: proficient in using mental health AI platforms (e.g., Woebot)
+- Remote therapy techniques: learning online counseling and digital health tools
+- Ethics and Regulations: Understanding AI ethics and privacy issues in mental health
+- Cross-cultural skills: addressing the needs of diverse patients
+- Deepening interpersonal communication and empathy: Strengthening irreplaceable human traits
+
+**Key growth areas:**
 
 - Clinical psychology
 - Educational psychology
@@ -63,65 +97,64 @@ Psychologists study human behavior and mental processes, helping individuals cop
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业，心理学家在列。需有工作offer，年薪≥€32,000（或€64,000可转长期居留） |
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺职业或年薪不足€32,000的情况，但心理学家通常可申请Critical Skills |
-| Subclass EU Blue Card（EU Blue Card） | 需高技能工作offer，年薪≥€32,000（或€64,000）。利于长期居留 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, psychologists included. Requires a job offer with annual salary ≥€32,000 (or €64,000 to transition to long-term residency) |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations or annual salaries below €32,000, but psychologists can usually apply for Critical Skills |
+| Subclass EU Blue Card (EU Blue Card) | Requires a high-skilled job offer with an annual salary of ≥€32,000 (or €64,000). Favorable for long-term residence. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Psychologist？**
-- 对人类行为和心理有浓厚兴趣
-- 具备同理心和沟通能力
-- 愿意接受长期教育和培训
-
-**谁不适合学Psychologist？**
-- 缺乏耐心
-- 对高强度情绪压力敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in human behavior and psychology
+- Demonstrates empathy and communication skills
+- Willing to undertake long-term education and training
+
+**Who is not suited**
+- Lack of patience.
+- Sensitive to high emotional stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a psychologist?**
+A: Entry-level approx. €35,000-45,000, mid-level €45,000-65,000, senior €65,000-95,000. Self-employed may earn more.
+
+**Q: How can foreign psychologists work in Ireland?**
+A: CORU registration required, usually needing qualifications equivalent to Irish standards. Eligible for Critical Skills Employment Permit, annual salary over €32,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Psychologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for psychologists?**
-答：Entry-level around €35,000-45,000, mid-level €45,000-65,000, senior €65,000-95,000. Private practice may earn more.
-
-**问：How can foreign psychologists work in Ireland?**
-答：You need CORU registration, usually requiring equivalent qualifications. Critical Skills Employment Permit is available with salary over €32,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

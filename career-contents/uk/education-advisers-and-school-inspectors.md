@@ -1,59 +1,94 @@
-# Education advisers and school inspectors（Education advisers and school inspectors）职业分析 · UK
+# Education advisers and school inspectors — career analysis · United Kingdom
 
-**职业代码：2323 – Education advisers and school inspectors。**
+**Occupation code: 2323 (SOC)**
 
-Education advisers and school inspectors plan, organize and direct educational activities in local authority areas, and conduct inspections of schools and training establishments (excluding universities).
+Education Advisors and School Inspectors plan, organize, and manage educational activities in local education districts, and supervise and inspect schools and other training institutions (excluding universities).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（教育/相关专业） | 3年 | $9,250~$15,000（英国本科每年学费约£9,250-£15,000） |
-| PGCE或教师资格证 | 1年 | $9,250~$12,000（PGCE课程学费约£9,250-£12,000） |
+| Bachelor's degree (Education/related field) | 3 years | $9,250~$15,000 (UK undergraduate tuition fees are approximately £9,250-£15,000 per year.) |
+| PGCE or teaching qualification | 1 year | $9,250~$12,000 (PGCE course fees approximately £9,250-£12,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格（QTS） | 英国教育部 | 必备 | 通常要求持有QTS以证明教学能力 |
-| 教育学学士学位 | 大学 | 可选 | 相关专业如教育研究、课程开发等优先 |
-| 高级教育领导力证书 | 国家教育领导力学院 | 可选 | 如NPQH等，有助于晋升 |
+| Qualified Teacher Status (QTS) | UK Department for Education | Required | Usually requires holding QTS to demonstrate teaching ability |
+| Bachelor of Education degree | University | Optional | Related majors such as education studies, curriculum development, etc., preferred. |
+| Advanced Certificate in Educational Leadership | National Institute for Educational Leadership | Optional | Such as NPQH, beneficial for career advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。英国对教育质量监控日益重视，预计该职位需求稳定。政府持续改革学校评估体系，为从业者提供一定机会。但地方教育预算紧张可能影响聘用规模。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. The UK’s increasing focus on education quality monitoring suggests stable demand for this role. Ongoing government reforms to school assessment systems provide opportunities for practitioners. However, local education budget constraints may affect hiring volumes.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 助理教育顾问或初级督察员 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验的教育顾问或地区督察 |
-| 高级（7年以上） | $45,000~$60,000 | 首席教育顾问、高级督察或管理层 |
+| Median salary | $44,549 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Assistant education consultant or junior inspector. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced education consultant or regional inspector |
+| Senior (7+ years) | $45,000~$60,000 | Chief Education Advisor, Senior Inspector or Management |
+| average salary | $46,883 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从教师或学校管理者起步，积累经验后晋升为高级教育顾问、首席督察或教育政策官员。部分转至教育咨询公司或独立督学。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Education consultants and school inspectors face moderate AI risk: low-value paperwork will be automated, but deep interpersonal mentoring and policy judgment remain human core strengths.
+
+Usually start as a teacher or school administrator, gain experience, and advance to senior education consultant, chief inspector, or education policy officer. Some move to education consulting firms or become independent inspectors.
+
+**Tasks most exposed to AI:**
+
+- Draft initial reports for standardized school assessments
+- Organizing and analyzing student performance data
+- Generate routine policy compliance documents
+- Reply to common parent inquiry emails
+
+**Where AI augments the role:**
+
+- Using AI to analyze school operational data and identify improvement opportunities
+- Using AI to simulate different policy impacts and assist strategic advice
+- Using NLP tools to quickly review large volumes of policy documents
+- Recommends personalized teacher training plans using AI
+- Use AI dashboards to monitor school performance indicators in real time
+
+**Human moat:**
+
+- Observe teaching in the field and build trust relationships with teachers
+- Handle complex and sensitive parent-school conflicts and complaints
+- Making educational policy judgments based on ethics and context
+- Provide empathetic personalized guidance
+- Decision-making and communication in crisis situations (e.g., school safety incidents)
+
+**Skills to build:**
+
+- Data interpretation and AI analysis tool usage (e.g., Power BI)
+- Educational ethics and data privacy regulations
+- Change management and coaching leadership
+- Interpersonal communication and conflict mediation
+- Systems thinking and policy design
+- Review and customization of AI-generated reports
+
+**Key growth areas:**
 
 - School inspection reform
 - Educational quality assurance
@@ -62,68 +97,67 @@ Education advisers and school inspectors plan, organize and direct educational a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的教育顾问或督察职位，需满足技能和薪资要求。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在教育领域有杰出成就或潜力的申请者，无需雇主担保。 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生居留2年（博士3年）寻找工作，积累经验后可转为Skilled Worker。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to education consultant or inspector positions with employer sponsorship, meeting skill and salary requirements. |
+| Subclass Global Talent (Global Talent visa) | Suitable for applicants with outstanding achievements or potential in the education field; no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to stay for 2 years (PhD 3 years) to find work, can switch to Skilled Worker after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education advisers and school inspectors？**
-- 热爱教育事业，有教学或教育管理经验
-- 善于分析和沟通，能够客观评估学校质量
-- 追求稳定职业，希望在教育政策领域发展
-
-**谁不适合学Education advisers and school inspectors？**
-- 不喜欢频繁出差和学校现场工作
-- 对行政和文书工作缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about education, with teaching or educational management experience
+- Good at analysis and communication, able to objectively assess school quality
+- Seeking a stable career, aiming to develop in education policy
+
+**Who is not suited**
+- Those who dislike frequent travel and on-site school work
+- Lack of patience for administrative and clerical work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for education consultants and school inspectors?**
+A: Entry-level annual salary around £28,000-£35,000, mid-level around £35,000-£45,000, senior up to £45,000-£60,000+. Salaries vary by region and employer.
+
+**Q: Can overseas workers become education consultants in the UK via a work visa?**
+A: Yes. The occupation is on the Skilled Worker visa occupation list, requiring employer sponsorship and meeting salary requirements. The Global Talent visa (which requires demonstrating exceptional ability) may also be considered.
+
+**Q: What core skills are needed to become an education consultant?**
+A: Requires teaching experience, policy understanding, analytical and assessment skills, communication skills, and report writing ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Education advisers and school inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for education advisers and school inspectors?**
-答：Entry-level salaries range from £28,000 to £35,000, mid-level from £35,000 to £45,000, and senior roles can reach £45,000 to £60,000 or more, depending on location and employer.
-
-**问：Can overseas professionals become education advisers in the UK via work visa?**
-答：Yes. The occupation is eligible for Skilled Worker visa with employer sponsorship and salary requirements. Global Talent visa is also an option for those with exceptional talent.
-
-**问：What core skills are needed to become an education adviser?**
-答：Teaching experience, policy understanding, analytical and evaluation skills, communication skills, and report writing ability.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

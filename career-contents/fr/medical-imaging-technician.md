@@ -1,58 +1,93 @@
-# Medical Imaging Technician（Medical Imaging Technician）职业分析 · FR
+# Medical Imaging Technician — career analysis · France
 
-**职业代码：J1306 – Medical Imaging Technician。**
+**Occupation code: J1306 (ROME)**
 
-Medical imaging technicians operate MRI, CT, X-ray, and other equipment to produce diagnostic images, playing a vital role in healthcare.
+Medical imaging technicians operate MRI, CT, X-ray, and other equipment, providing imaging data for diagnosis and are indispensable technical talents in the medical team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 放射技师文凭（Diplôme de manipulateur en électroradiologie médicale） | 3年 | $500~$2,000（公立大学学费约500欧/年，私立院校较高） |
-| BTS放射医学与影像技术（BTS imagerie médicale et radiologie thérapeutique） | 2年 | $500~$1,000（公立院校学费低廉，可申请学徒制） |
+| Diploma of Radiologic Technologist (Diplôme de manipulur en électroradiologie médicale) | 3 years | $500~$2,000 (Tuition at public universities is about 500 euros per year, while private institutions are higher) |
+| BTS Radiomedicine and Imaging Technology (BTS imagerie médicale et radiologie thérapeutique) | 2 years | $500~$1,000 (Public institutions offer low tuition fees and allow apprenticeship applications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 放射技师国家文凭（Diplôme d'État de manipulateur en électroradiologie médicale） | 法国卫生部 | 必备 | 从事该职业的法定资格，需通过国家考试 |
-| 辐射防护认证（Certification en radioprotection） | 核安全局（ASN） | 必备 | 使用电离辐射设备的强制要求 |
+| National Diploma of Radiologic Technologist (Diplôme d'État de manipulur en électroradiologie médicale) | French Ministry of Health | Required | To qualify for this profession, one must pass a national exam |
+| Certification en radioprotection | Nuclear Safety Administration (ASN) | Required | Mandatory requirements for the use of ionizing radiation equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 30,000。法国老龄化加剧，医疗影像需求持续增长，就业前景良好。公立医院和私立诊所均需大量影像技师。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. France's aging population is intensifying, medical imaging demand continues to grow, and employment prospects are promising. Both public hospitals and private clinics require a large number of imaging technicians.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 公立医院约25000-28000欧，私立诊所略高 |
-| 中级（4-10年） | $32,000~$38,000 | 含经验提升和夜班补贴 |
-| 高级（10年以上） | $40,000~$48,000 | 科室主管或专家级别 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Public hospitals cost about 25,000-28,000 euros, while private clinics are slightly higher |
+| Mid-level (4-10 years). | $32,000~$38,000 | Including experience enhancement and night shift allowances |
+| Senior (10+ years) | $40,000~$48,000 | Department head or expert level |
+| average salary | $27,714 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级技师晋升为高级技师或科室主管，也可转向放射治疗、超声等专业方向，或进入设备公司从事技术支持和培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Although AI can automate image screening and preliminary analysis, equipment operation, patient communication, and clinical judgment still rely on human technicians, resulting in mixed job structures.
+
+You can be promoted from junior technician to senior technician or department head, or switch to specialties such as radiotherapy or ultrasound, or join equipment companies for technical support and training.
+
+**Tasks most exposed to AI:**
+
+- Automatic image quality evaluation and repeated scan judgment
+- Preliminary Anomaly Annotation and Sorting Based on AI
+- Automatic positioning of standard areas and optimization of scanning parameters
+- Image archive management and format conversion
+
+**Where AI augments the role:**
+
+- AI-assisted detection software improves lesion detection rates and efficiency
+- AI-optimized scan sequences reduce radiation dose and scanning time
+- Using AI to predict equipment failures and perform preventive maintenance
+- Improve image collection processes through AI data analysis
+- AI-generated draft reports are available for technician review, reducing paperwork
+
+**Human moat:**
+
+- Patient positioning and soothing are especially important for children or those with anxiety
+- Equipment adjustments and decision-making in non-standard or emergency situations
+- Close collaboration with radiologists and clinical judgment
+- Manual verification of quality control and equipment calibration
+- Medical ethics and professional responsibility for radiation safety
+
+**Skills to build:**
+
+- Operation and result verification of AI imaging diagnostic tools
+- Skills in multimodal imaging equipment (MRI/CT/PET)
+- Data analysis and process optimization for radiological information systems
+- Interdisciplinary communication and patient communication skills
+- Basic programming and troubleshooting of medical equipment
+- Evaluation of medical imaging deep learning models
+
+**Key growth areas:**
 
 - Aging population
 - Advanced imaging technologies
@@ -61,68 +96,67 @@ Medical imaging technicians operate MRI, CT, X-ray, and other equipment to produ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于拥有硕士学历或5年以上经验的高技能人才，可申请人才护照，有效期4年，可带家属 |
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主工作合同，并进行劳动许可审核，适用于常规受雇 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪岗位（年薪需达一定门槛），流程较快，可转永居 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents with a master's degree or more than 5 years of experience, eligible to apply for a talent passport, valid for 4 years, and allowed to bring family members |
+| Subclass Salarié (Employee Work Permit) | A work contract from a French employer must be obtained, along with a labor permit review, applicable to regular employment |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary must meet a certain threshold), with a relatively fast process, allowing for permanent residency conversion |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Imaging Technician？**
-- 对医学影像技术有浓厚兴趣，乐于学习新设备
-- 注重细节，能在高压环境下保持专注
-- 愿意长期在法国医疗系统工作
-
-**谁不适合学Medical Imaging Technician？**
-- 对辐射环境感到不安
-- 不擅长与患者沟通
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in medical imaging technology and eager to learn new equipment
+- Attention to detail allows them to stay focused even under high pressure
+- Willing to work long-term in the French healthcare system
+
+**Who is not suited**
+- Feeling uneasy about the radiation environment
+- Poor at communicating with patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a medical imaging technician in France?**
+A: Entry-level annual salary approximately EUR 25,000-30,000, mid-level 32,000-38,000, senior 40,000-48,000, possibly higher in private institutions.
+
+**Q: How can international students or foreign practitioners obtain a French Medical Imaging Technician work visa?**
+A: You can use Passeport Talent or Salarié work visas. Must obtain a national diploma for radiologic technologists recognized by France, with B2 level in English or French. EU citizens can move freely.
+
+**Q: What licenses must French medical imaging technicians hold?**
+A: You must hold the National Diploma of Radiological Technologist (Diplôme d'État) and the Radiation Protection certification, both issued by the state.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Medical Imaging Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a medical imaging technician in France?**
-答：Entry-level salary is around €25,000-30,000; mid-level €32,000-38,000; senior €40,000-48,000 per year gross.
-
-**问：How can international students or foreign professionals obtain a work visa as a medical imaging technician in France?**
-答：They can apply for a Talent Passport or Salarié visa. Requirements include a French State diploma and at least B2 level French or English. EU citizens have free movement.
-
-**问：What licenses are mandatory for medical imaging technicians in France?**
-答：A State Diploma in medical electroradiology and a Radiation Protection certification are both mandatory.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

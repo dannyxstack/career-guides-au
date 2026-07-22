@@ -1,59 +1,95 @@
-# Policy and Planning Manager（Policy and Planning Manager）职业分析 · 澳大利亚
+# Policy and Planning Manager — career analysis · Australia
 
-**职业代码：132411 – Policy and Planning Manager。**
+**Occupation code: 132411 (ANZSCO)**
 
-Policy and Planning Managers develop, implement, and evaluate policies and strategic plans for organizations or government departments, ensuring regulatory compliance and long-term goals. They analyze socio-economic data, coordinate stakeholders, and drive policy changes.
+Policy and Planning Managers are responsible for developing, implementing, and evaluating policies and strategic plans for organizations or government departments, ensuring compliance with regulations and achieving long-term goals. This role requires analyzing social and economic data, coordinating stakeholders, and driving policy change.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（学士学位） | 3-4年 | $30,000~$50,000（公立大学学费（国际学生）） |
-| 硕士（研究生文凭或硕士） | 1-2年 | $35,000~$55,000（如公共政策硕士） |
+| Bachelor's degree | 3-4 years | $30,000~$50,000 (Public university fees (international students)) |
+| Master's degree (postgraduate diploma or master's) | 1-2 years | $35,000~$55,000 (Such as Master of Public Policy) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共政策学士或相关领域学士 | 澳洲大学 | 必备 | 如政治学、经济学、法律或商业 |
-| VETASSESS 技能评估 | VETASSESS | 可选 | 用于移民申请，需相关学历+工作年限 |
-| 项目管理认证（如PMP） | PMI | 可选 | 非强制但有益 |
+| Bachelor's degree in Public Policy or related field | Australian universities | Required | Such as political science, economics, law, or business. |
+| VETASSESS skills assessment | VETASSESS | Optional | For immigration applications, requires relevant qualifications + work experience |
+| Project management certification (e.g., PMP) | PMI | Optional | Not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。澳洲政策与规划经理的就业前景稳定，预计2024-2034年增长约10%，受政府基础设施投资、环境政策及数字化转型推动。公共部门和大型咨询公司需求持续，但竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Employment prospects for Australian policy and planning managers are stable, with an estimated growth of about 10% from 2024 to 2034, driven by government infrastructure investment, environmental policies, and digital transformation. Demand in the public sector and large consulting firms is sustained, but competition is fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$100,000 | 政策分析师或助理经理 |
-| 中级（4-7年） | $110,000~$140,000 | 政策与规划经理 |
-| 高级（8年以上） | $150,000~$200,000 | 高级经理或总监 |
+| Median salary | $153,140 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $80,000~$100,000 | Policy analyst or assistant manager |
+| Mid-level (4-7 years) | $110,000~$140,000 | Policy and Planning Manager |
+| Senior (8+ years) | $150,000~$200,000 | Senior manager or director |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业发展路径：从政策分析师或项目经理起步，积累行业经验后晋升为政策与规划经理，再向执行总监、首席运营官或公共部门高级主管发展。可转向战略咨询或跨部门管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI enhances core analytical, advisory, and communication tasks for policy and planning managers, but routine work like data collection and report generation will be automated. Overall risk is moderate, requiring proactive skill upgrading.
+
+Career development path: start as a policy analyst or project manager, accumulate industry experience to advance to policy and planning manager, then progress to executive director, chief operating officer, or senior public sector executive. Can pivot to strategic consulting or cross-departmental management.
+
+**Tasks most exposed to AI:**
+
+- Literature and data collection: automated crawling and summary generation replace manual retrieval
+- Drafting initial reports: AI-generated policy briefs and template reports
+- Compliance check: automated verification of policy and regulatory consistency
+- Basic statistical analysis: AI quickly processes data trends and visualization
+- Meeting minutes and distribution: speech-to-text + automatic summarization
+
+**Where AI augments the role:**
+
+- Policy scenario simulation: AI-assisted generation of multi-scenario impact predictions.
+- Stakeholder analysis: AI automatically identifies key groups and sentiments
+- Data storytelling and visualization: enhancing persuasiveness of policy recommendations
+- Track policy effectiveness: AI real-time monitoring of indicators and alerts
+- Cross-language policy research: AI translates and integrates international cases
+
+**Human moat:**
+
+- Political sensitivity and ethical judgment: balancing multiple interests
+- Complex policy design and innovation: creating policy frameworks from scratch
+- High-level negotiation and consensus building: coordinating conflicting stakeholders.
+- Crisis decision-making and responsibility: making decisions under uncertainty
+- Industry insights and long-term strategy: integrating information across sectors
+
+**Skills to build:**
+
+- Policy analysis AI tools (e.g., PolicyMap, machine learning predictions)
+- Data storytelling and visualization (Tableau/PowerBI)
+- Natural Language Processing basics (text mining, summarisation)
+- Stakeholder management platform (CRM + AI insights)
+- Agile project management (Scrum/Kanban)
+- Ethics and AI governance frameworks
+
+**Key growth areas:**
 
 - Government Policy
 - Infrastructure Planning
@@ -62,66 +98,65 @@ Policy and Planning Managers develop, implement, and evaluate policies and strat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa (Skills in Demand)） | 雇主担保临时签证，需职业在CSOL上，担保后工作3-4年可转186。 |
-| Subclass 186（Employer Nomination Scheme (ENS)） | 雇主担保永居签证，需职业在MLTSSL或CSOL上，通过雇主提名。 |
-| Subclass 190（Skilled Nominated Visa (Subclass 190)） | 州担保永居签证，需职业在州担保清单上，获州邀请后可申请。 |
-| Subclass 189（Skilled Independent Visa (Subclass 189)） | 独立技术移民永居签证，需职业在MLTSSL上，通过EOI打分获邀。 |
+| Subclass 482 (Temporary Skill Shortage Visa (Skills in Demand)) | Employer-sponsored temporary visa requiring the occupation to be on the CSOL; after 3-4 years of sponsorship, can transfer to 186. |
+| Subclass 186 (Employer Nomination Scheme (ENS)) | Employer-sponsored permanent residence visa requires occupation on MLTSSL or CSOL, through employer nomination. |
+| Subclass 190 (Skilled Nominated Visa (Subclass 190)) | State-sponsored permanent residency visa, requires the occupation to be on the state sponsorship list, and can apply after receiving a state invitation. |
+| Subclass 189 (Skilled Independent Visa (Subclass 189)) | Independent skilled migration permanent visa, requires occupation on MLTSSL, and an invitation via EOI points test. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Policy and Planning Manager？**
-- 善于分析数据、政策研究与战略思维的人
-- 有良好沟通、协调与项目管理能力的人
-- 对公共事务、政府运作或社会问题有浓厚兴趣的人
-
-**谁不适合学Policy and Planning Manager？**
-- 不喜欢公文写作和严格流程的人
-- 难以应对多方利益冲突与缓慢变革节奏的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at analyzing data, policy research, and strategic thinking
+- People with good communication, coordination, and project management skills
+- People with a strong interest in public affairs, government operations, or social issues
+
+**Who is not suited**
+- People who dislike official document writing and strict procedures
+- Those who struggle with conflicting stakeholder interests and slow pace of change
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Policy and Planning Managers?**
+A: Junior approximately AUD 80,000-100,000, intermediate 110,000-140,000, senior 150,000-200,000. Little difference between government and private sector, but consulting firms may pay more.
+
+**Q: How can policy and planning managers migrate to Australia?**
+A: This occupation is on the CSOL list and can apply for the 482 employer-sponsored temporary visa, later transitioning to the 186 permanent residence; also possible through state nomination (190) or skilled independent migration (189) (if approved on MLTSSL). VETASSESS skills assessment is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Policy and Planning Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Policy and Planning Manager?**
-答：Entry-level: AUD 80,000-100,000; Mid-level: AUD 110,000-140,000; Senior: AUD 150,000-200,000. Government and private sectors are similar, but consulting firms may pay more.
-
-**问：How can a Policy and Planning Manager migrate to Australia?**
-答：The occupation is on the CSOL, eligible for 482 employer-sponsored visa leading to 186 PR; also 190 state nomination or 189 independent skilled migration (if on MLTSSL). VETASSESS skills assessment is required.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

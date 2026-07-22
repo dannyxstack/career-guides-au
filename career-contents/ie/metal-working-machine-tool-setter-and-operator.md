@@ -1,60 +1,93 @@
-# Metal Working Machine Tool Setter and Operator（Metal Working Machine Tool Setter and Operator）职业分析 · IE
+# Metal Working Machine Tool Setter and Operator — career analysis · Ireland
 
-**职业代码：7223 – Metal Working Machine Tool Setter and Operator。**
+**Occupation code: 7223 (ISCO08)**
 
-Set up and operate metal working machine tools such as lathes, milling machines, and grinders to produce metal parts. Common in Ireland's manufacturing sector, including aerospace and automotive components.
+Responsible for setting up and operating metalworking machines, such as lathes, milling machines, grinders, for processing metal parts. This occupation is common in Irish manufacturing, involving aerospace, automotive parts, and other industries.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育后职业培训 | 2年（高级证书） | $1,000~$3,000（学徒制或继续教育学院课程） |
-| 学徒制 | 4年 | —（工资补贴，无学费） |
+| Post-secondary vocational training | 2 years (Advanced Certificate) | $1,000~$3,000 (Apprenticeship or continuing education courses) |
+| Apprenticeship | 4 years | $0~$0 (Wage subsidy, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属加工高级证书 | 爱尔兰继续教育与培训委员会 (QQI) | 可选 | 常见入门资格 |
-| 学徒制认证（机械操作与维护） | SOLAS | 必备 | 行业认可标准 |
+| Apprenticeship certification (machinery operation and maintenance) | SOLAS | Required | Industry-recognized standards |
+| Advanced Certificate in Metal Fabrication | QQI (Quality and Qualifications Ireland) | Optional | Common entry qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰制造业保持稳定，但自动化趋势可能减少部分低技能岗位。高精度加工领域需求持续。预计未来五年就业增长约5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Ireland's manufacturing sector remains stable, but automation trends may reduce some low-skilled jobs. Demand continues in high-precision machining. Expected employment growth of about 5% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $36,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作员可晋升为高级技术员或编程师，进而成为车间主管或生产经理。获取高级数控认证可提升职业前景。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Metalworking machine tool setters and operators face high automation risk; AI and robots will replace many repetitive tasks, but complex setup and maintenance still require human intervention.
+
+Junior operators can advance to senior technicians or programmers, and further to workshop supervisors or production managers. Obtaining advanced CNC certifications can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Workpiece loading and securing
+- Conventional machine operation and feed control
+- Simple dimension checks and tolerance judgments.
+- Tool replacement and adjustment
+
+**Where AI augments the role:**
+
+- CNC program debugging and optimization
+- Production Data Collection and Analysis
+- Developing predictive maintenance plans
+- Multi-machine collaborative workflow orchestration
+
+**Human moat:**
+
+- Programming and debugging of non-standard parts
+- Machine fault diagnosis and repair
+- Client communication and customized solutions
+- On-site safety and quality control supervision
+
+**Skills to build:**
+
+- CNC programming (G-code/M-code)
+- CAD/CAM software operation
+- Robotics and Automation System Integration
+- Data Analysis Fundamentals
+- Equipment maintenance and troubleshooting
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Automation
 - CNC programming
@@ -63,65 +96,64 @@ Set up and operate metal working machine tools such as lathes, milling machines,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于一般技能职位，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺高技能职位，但该职业通常不在紧缺名单上。 |
+| Subclass General Employment P (General Employment Permit) | Applies to general skilled positions, requires employer sponsorship, with annual salary not less than €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to high-skilled positions in shortage, but this occupation is usually not on the shortage list. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Working Machine Tool Setter and Operator？**
-- 喜欢动手操作，对机械加工有耐心和细致的人
-- 愿意接受技术培训并持续学习新技术的人
-- 在制造业或工程领域寻求稳定就业的人
-
-**谁不适合学Metal Working Machine Tool Setter and Operator？**
-- 不喜重复性体力劳动或噪声环境的人
-- 缺乏机械敏感度或不愿学习编程的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who enjoys hands-on work and has patience and attention to detail in machining
+- People willing to undergo technical training and continuously learn new technologies
+- People seeking stable employment in the manufacturing or engineering sector
+
+**Who is not suited**
+- People who dislike repetitive physical labor or noisy environments
+- People who lack mechanical sensitivity or are unwilling to learn programming
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary level for this occupation in Ireland?**
+A: Entry-level approximately €25,000-30,000, mid-level €32,000-40,000, senior up to €50,000.
+
+**Q: What visa can foreigners use to work in this occupation in Ireland?**
+A: Typically requires a General Employment Permit, employer must demonstrate inability to find a suitable EU candidate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Metal Working Machine Tool Setter and Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Ireland?**
-答：Entry-level around €25,000-30,000, mid-level €32,000-40,000, senior up to €50,000.
-
-**问：Which visa can a foreigner use to work in this occupation in Ireland?**
-答：Generally a General Employment Permit, requiring employer to prove no suitable EU candidate.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

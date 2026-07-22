@@ -1,58 +1,94 @@
-# Mechanical Engineer（Mechanical Engineer）职业分析 · IE
+# Mechanical Engineer — career analysis · Ireland
 
-**职业代码：2144 – Mechanical Engineer。**
+**Occupation code: 2144 (ISCO08)**
 
-Mechanical engineers design, analyze, manufacture, and maintain mechanical systems and equipment, working across industries such as energy, manufacturing, and construction. In Ireland, demand is steady, particularly in pharmaceuticals, medical devices, and renewable energy.
+Mechanical engineers are responsible for designing, analyzing, manufacturing, and maintaining mechanical systems and equipment, spanning industries such as energy, manufacturing, and construction. In Ireland, demand for this profession is stable, particularly in pharmaceuticals, medical devices, and renewable energy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $15,000~$25,000（欧盟学生约€1,500-€3,000/年，非欧盟更高） |
-| 硕士 | 1-2年 | $12,000~$20,000（非欧盟学费较高，约€12,000-€20,000/年） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $15,000~$25,000 (EU students approximately EUR 1,500-3,000/year, non-EU higher) |
+| Master's degree | 1-2 years | $12,000~$20,000 (Higher non-EU tuition fees, approximately €12,000-€20,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许工程师（CEng） | 爱尔兰工程师协会（Engineers Ireland） | 可选 | 受国际认可，需3-5年工作经验并通过专业评审 |
-| 注册工程师（IEng） | 爱尔兰工程师协会 | 可选 | 较CEng要求稍低，适合技术角色 |
+| Chartered Engineer (CEng) | Engineers Ireland | Optional | Internationally recognized, requires 3-5 years of work experience and professional assessment |
+| Incorporated Engineer (IEng) | Engineers Ireland | Optional | Slightly lower requirement than CEng, suitable for technical roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。爱尔兰机械工程师就业前景良好，受制药、医疗技术和可再生能源投资驱动。预计未来十年就业增长约10%，高于平均水平。绿色能源转型和制造业升级将持续创造岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Job prospects for mechanical engineers in Ireland are good, driven by investments in pharmaceuticals, medical technology, and renewable energy. Employment is expected to grow by about 10% over the next decade, above average. The green energy transition and manufacturing upgrades will continue to create jobs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，视行业和地点而定 |
-| 中级（4-8年） | $45,000~$60,000 | 税前年薪，具备专业经验 |
-| 高级（9年以上） | $65,000~$90,000 | 税前年薪，含管理职责 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary, varies by industry and location |
+| Mid-level (4–8 years) | $45,000~$60,000 | Gross annual salary with professional experience. |
+| Senior (9+ years) | $65,000~$90,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $55,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径通常从初级设计或项目工程师起步，积累5-10年经验后可晋升为高级工程师或项目经理，再进一步成为工程经理、技术总监或独立顾问。继续教育（如硕士或特许工程师资格）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mechanical engineers in Ireland face mixed impacts from AI: some repetitive design tasks are automated, but AI enhances core capabilities like simulation and optimization. Career prospects are stable but require skill upgrades.
+
+Career path typically starts from junior design or project engineer, progressing to senior engineer or project manager after 5-10 years of experience, then further to engineering manager, technical director, or independent consultant. Continuing education (e.g., master's degree or chartered engineer status) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Perform routine stress analysis and dimensional calculations using standard formulas
+- Create and modify simple 3D models and 2D engineering drawings.
+- Generate standard design documents and bill of materials based on preset parameters
+- Perform repetitive simulation setups and post-processing of results
+- Write and test simple automated test scripts
+
+**Where AI augments the role:**
+
+- Using AI generative design to explore better structural solutions
+- Use machine learning to predict material fatigue life and failure modes
+- Real-time system performance optimization via digital twin technology
+- Use natural language processing to quickly search technical literature and patents
+- Using computer vision to automatically detect manufacturing defects
+
+**Human moat:**
+
+- Cross-disciplinary system integration and innovative solution design
+- Dealing with unstructured problems and engineering judgment
+- Physical prototype testing and reliability verification
+- Communication with clients and stakeholders and translation of needs
+- Ethical and legal responsibility for safety-critical systems
+
+**Skills to build:**
+
+- AI/Machine Learning fundamentals and applications (e.g., TensorFlow, PyTorch)
+- Generative design software (e.g., Fusion 360, nTopology)
+- Digital Twin and IoT Data Analysis
+- Advanced simulation and multi-physics coupling analysis
+- Python/R programming and automation scripts
+- Project management and agile development methods.
+
+**Key growth areas:**
 
 - Pharmaceutical
 - Medical Devices
@@ -61,68 +97,67 @@ Mechanical engineers design, analyze, manufacture, and maintain mechanical syste
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 面向高技能职业，包括机械工程师。无需劳动力市场测试，2年后可申请永居。 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，适用于非紧缺岗位，但机械工程通常符合条件。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高薪职位，薪资门槛约€36,000（2024年），提供欧盟内流动便利。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For high-skilled occupations, including mechanical engineers. No labor market test required, eligible for permanent residency after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Requires labor market test, applicable for non-shortage occupations, but mechanical engineering usually meets conditions. |
+| Subclass EU Blue Card (EU Blue Card) | For high-paying jobs, salary threshold approx. €36,000 (2024), offering mobility within the EU. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineer？**
-- 喜欢解决实际问题、动手能力强的人
-- 具备良好数学和物理基础，对机械系统有浓厚兴趣
-- 愿意在制药、医疗设备或可再生能源行业发展
-
-**谁不适合学Mechanical Engineer？**
-- 不喜欢持续学习和更新技能的人
-- 不愿从事需要现场工作或偶尔加班的角色
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy solving practical problems and have strong hands-on skills
+- Strong foundation in math and physics, keen interest in mechanical systems
+- Willing to develop in the pharmaceutical, medical device, or renewable energy industry
+
+**Who is not suited**
+- Those who dislike continuous learning and skill updating
+- Unwilling to take roles requiring on-site work or occasional overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a mechanical engineer in Ireland?**
+A: Entry-level engineer annual salary approx. €32,000-40,000, mid-level approx. €45,000-60,000, senior up to €65,000-90,000. Salary varies by industry, experience, and location; pharmaceutical and medical device sectors are typically higher.
+
+**Q: How can mechanical engineers immigrate to Ireland through work visas?**
+A: The most direct path is to apply for a Critical Skills Employment Permit, which does not require a labor market test, and you can apply for permanent residence after 2 years. You can also use the General Employment Permit or the EU Blue Card. The key is to obtain employer sponsorship.
+
+**Q: What are the career prospects for mechanical engineers?**
+A: Mechanical engineers can advance to senior engineer, project manager, engineering manager, or technical director. Obtaining Chartered Engineer (CEng) status helps career progression. They can also transition to consulting, R&D, or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Mechanical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a mechanical engineer in Ireland?**
-答：Entry-level salaries range from €32,000 to €40,000 per year, mid-level from €45,000 to €60,000, and senior roles from €65,000 to €90,000. Salaries vary by industry, experience, and location; pharmaceutical and medical device sectors tend to pay higher.
-
-**问：How can a mechanical engineer immigrate to Ireland via work visa?**
-答：The most direct route is through the Critical Skills Employment Permit, which does not require a labor market test and allows applying for permanent residency after 2 years. Other options include the General Employment Permit or EU Blue Card. Securing a job offer from an Irish employer is essential.
-
-**问：What are the career prospects for mechanical engineers?**
-答：Mechanical engineers can advance to senior engineer, project manager, engineering manager, or technical director. Achieving Chartered Engineer (CEng) status enhances career prospects. Transition to consulting, R&D, or management roles is also possible.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

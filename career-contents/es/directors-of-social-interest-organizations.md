@@ -1,60 +1,95 @@
-# Directors of Social Interest Organizations（Directors of Social Interest Organizations）职业分析 · ES
+# Directors of Social Interest Organizations — career analysis · Spain
 
-**职业代码：1113 – Directors of Social Interest Organizations。**
+**Occupation code: 1113 (CNO)**
 
-Top managers of non-profit organizations, foundations, and associations, responsible for strategic planning, fundraising, program oversight, team management, and external relations to fulfill the social mission.
+The top managers of social interest organizations (such as non-profit organizations, foundations, associations) are responsible for strategic planning, fundraising, project supervision, team management, and external relations, ensuring the organization fulfills its social mission.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士（Grado） | 4年 | $800~$4,000（公立大学约800-1500€/年，私立3000-4000€/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（非营利管理或社会创新方向，公立2000-4000€，私立8000-12000€） |
+| Grado | 4 years | $800~$4,000 (Public universities about 800-1,500 EUR/year, private 3,000-4,000 EUR/year) |
+| Máster | 1-2 years | $2,000~$12,000 (Non-profit management or social innovation tracks: public 2000-4000€, private 8000-12000€) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会学/企业管理/公共管理学位 | 西班牙大学 | 可选 | 学士或硕士（Grado/Máster） |
-| 非营利管理认证 | AENOR等机构 | 可选 | 如行业协会或基金会提供的管理课程 |
+| Sociology/Business Administration/Public Administration degree | Spanish University | Optional | Bachelor's or Master's (Grado/Máster) |
+| Nonprofit management certification | AENOR and other institutions | Optional | For example, management courses offered by industry associations or foundations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。西班牙社会利益组织（ONG、基金会等）就业稳定但竞争较大，受公共预算和捐赠影响。数字化转型和社会影响力评估需求增长，但传统管理岗位增速平缓。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Spanish social interest organizations (such as ONG, foundations, etc.) have stable employment but high competition, influenced by public budgets and donations. Digital transformation and social impact assessment demand is growing, but traditional management positions are experiencing slower growth.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 小型组织，税前年薪 |
-| 中级（4-8年） | $32,000~$45,000 | 中型组织/部门负责人 |
-| 高级（8年+） | $45,000~$65,000 | 大型基金会/执行董事 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Small organization, pre-tax annual salary |
+| Mid-level (4–8 years) | $32,000~$45,000 | Medium-sized organization/department head |
+| Senior (8+ years) | $45,000~$65,000 | Large foundations/executive directors |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从项目协调员、部门经理晋升至执行董事或秘书长。可转任政府公共管理、企业社会责任岗位或咨询顾问，或创办新的社会企业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will profoundly change the work paradigm of leaders in social interest organizations: automating and compressing administrative and reporting tasks while amplifying strategic decision-making and impact assessment capabilities, transforming professional roles into human-machine collaborative leaders.
+
+Typically, they are promoted from project coordinator or department manager to executive director or secretary-general. They can transition to government public administration, corporate social responsibility positions, consulting roles, or start new social enterprises.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of donor reports, project progress reports, and financial summaries
+- Use AI to assist in drafting funding applications and compliance documents
+- AI-analyzed donation data automatically optimizes email marketing and communication strategies
+- Automatically coordinate internal and external meeting schedules through intelligent scheduling tools
+
+**Where AI augments the role:**
+
+- Using predictive models to analyze social issue trends and optimize project design and social impact assessment
+- Quickly analyze social policy news, beneficiary feedback, and public opinion using natural language processing tools
+- Enhance fundraising accuracy and personalized communication through an AI-driven donor profiling system
+- AI simulation tools are used for organizational strategic scenario planning and resource allocation optimization
+- Use data analytics dashboards to monitor key performance indicators in real time, supporting rapid decision-making
+
+**Human moat:**
+
+- Empathy and ethical judgment for vulnerable groups, balancing efficiency and fairness
+- Building and negotiating trust through cross-departmental collaboration (government, enterprises, communities).
+- Qualitative decision-making ability on unstructured issues (such as culturally sensitive topics).
+- Vision-driven and team motivation in uncertain environments
+- Deeply understand the values of organizational purpose and social mission
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R/Tableau)
+- AI tool applications (ChatGPT, predictive models, NLP)
+- Digital fundraising and impact assessment methods
+- Human-Machine Collaboration Leadership and Change Management
+- Knowledge of data privacy and AI ethics governance
+- Social media strategy and automated communication management
+
+**Key growth areas:**
 
 - digitalization
 - impact measurement
@@ -63,62 +98,64 @@ Top managers of non-profit organizations, foundations, and associations, respons
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于西班牙非营利组织的工作居留，需雇主担保并提供劳动合同。 |
-| Subclass Busqueda empleo（Job Search Visa） | 毕业后求职签证（最长12个月），适用于在西班牙完成学位的毕业生。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency employed by a Spanish non-profit organization requires employer sponsorship and a labor contract. |
+| Subclass Busqueda empleo (Job Search Visa) | Post-graduation job search visa (up to 12 months) is available to graduates who completed their degree in Spain. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Directors of Social Interest Organizations？**
-- 对社会使命有热情，具备领导力和筹款能力的人
-- 有项目管理或非营利组织工作经验者
-- 希望在公共或第三部门担任管理职位的人
+**Who is suited**
+- Passionate about social missions, with leadership and fundraising skills
+- Experience in project management or nonprofit organizations
+- People who wish to hold managerial positions in the public or third sector
 
-**谁不适合学Directors of Social Interest Organizations？**
-- 追求高薪或快速晋升的人
-- 不适应依赖捐赠、公共资金的不稳定环境的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who struggle to adapt to the unstable environment dependent on donations and public funds
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for leaders of social interest organizations in Spain?**
+A: Pre-tax annual salary about €25,000 to €65,000, depending on organization size and experience. Typically lower than equivalent management positions in private companies.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: Quite difficult. This occupation is not on Spain's shortage occupation list; employer-sponsored work residence is the main pathway, but nonprofits have limited sponsorship capacity. EU citizens have freedom of movement advantages.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Directors of Social Interest Organizations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for directors of social interest organizations in Spain?**
-答：Gross annual salary ranges from €25,000 to €65,000, depending on organization size and experience. Generally lower than equivalent management roles in the private sector.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult. This occupation is not a shortage occupation in Spain. Employer-sponsored work permit is possible, but non-profits have limited capacity to sponsor. EU citizens benefit from free movement.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,97 @@
-# Music Teacher (Private Tuition)（Music Teacher (Private Tuition)）职业分析 · 澳大利亚
+# Music Teacher (Private Tuition) — career analysis · Australia
 
-**职业代码：249214 – Music Teacher (Private Tuition)。**
+**Occupation code: 249214 (ANZSCO)**
 
-Music teachers in private tuition provide one-on-one instruction in musical instruments, voice, or theory in Australia, often self-employed or at music schools. No mandatory degree is required, but advanced performance skills and teaching ability are essential.
+Music teachers (private lessons) in Australia provide one-on-one instruction in instruments, voice, or music theory, typically self-employed or working in music schools. This occupation does not require a university degree but requires proficient performance/singing skills and teaching ability.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中后文凭/学士学位（非强制） | 3-4年 | $20,000~$60,000（音乐表演或教育学士学位费用，私立大学更贵） |
-| 音乐考级/文凭（如AMEB） | 1-5年 | $500~$5,000（考级费用按等级递增，高级文凭价格较高） |
-| 短期教学培训/certificate | 1-6个月 | $1,000~$5,000（如Suzuki教学法培训等） |
+| Post-high school diploma/bachelor's degree (not mandatory) | 3-4 years | $20,000~$60,000 (Cost of a bachelor's degree in music performance or education; private universities are more expensive.) |
+| Music Grading/Diploma (e.g., AMEB) | 1-5 years | $500~$5,000 (Exam fees increase with level, with higher diplomas being more expensive) |
+| Short-term teaching training/certificate | 1-6 months | $1,000~$5,000 (Such as Suzuki method training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 音乐学位（非强制但加分） | 澳大利亚大学/TAFE | 可选 | 提升专业水平与信誉，非强制 |
-| 国家警察证明（Working with Children Check） | 各州政府 | 必备 | 教授未成年人必须持有 |
-| AMEB高级证书/文凭 | Australian Music Examinations Board | 可选 | 常见于钢琴、小提琴等教学 |
+| National police check (Working with Children Check) | State governments | Required | Must hold to teach minors |
+| Music degree (not mandatory but a plus) | Australian universities/TAFE | Optional | Enhance professional skills and reputation, not mandatory |
+| AMEB Advanced Certificate/Diploma | Australian Music Examinations Board | Optional | Commonly found in teaching piano, violin, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。澳大利亚对私人音乐教师的需求稳定，受益于家长重视子女艺术教育及成人兴趣学习。预计未来五年行业温和增长，但竞争在热门城市较为激烈。偏远地区可能更容易获得生源。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for private music teachers in Australia is stable, driven by parents' emphasis on children's arts education and adult hobby learning. Moderate industry growth is expected over the next five years, but competition is fierce in popular cities. Regional areas may find it easier to attract students.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$55,000 | 兼职为主，时薪约40-70澳元 |
-| 中级（3-7年） | $55,000~$85,000 | 全职教师或拥有固定学生群 |
-| 高级（7年以上） | $85,000~$120,000 | 知名教师、工作室主理人或高收费专家 |
+| Median salary | $130,936 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $30,000~$55,000 | Part-time mainly, hourly wage about 40-70 AUD |
+| Mid-level (3–7 years) | $55,000~$85,000 | Full-time teacher or with a stable student base |
+| Senior (7+ years) | $85,000~$120,000 | Well-known teachers, studio owners or high-fee specialists |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括：从兼职独立教师起步，逐步建立客户群，可扩展至开设个人音乐工作室或受聘于私立音乐学校。部分教师通过进修教育文凭转入中小学音乐教学，但需另行取得教师注册。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the teaching efficiency and personalized experience of private music teachers, but core artistic expression and interpersonal interaction remain hard to replace, overall risk is low.
+
+Career progression paths include: starting as a part-time independent teacher, gradually building a client base, and expanding to opening a personal music studio or working for a private music school. Some teachers transition to primary/secondary school music teaching by obtaining an education diploma, but must register as a teacher separately.
+
+**Tasks most exposed to AI:**
+
+- Standardized explanation of basic music theory knowledge
+- Automatic generation and feedback of simple ear training exercises.
+- Student progress records and course schedule management
+- Identification of common error patterns and recommendations for correction
+
+**Where AI augments the role:**
+
+- Use AI tools to real-time analyze student performances and provide precise technical feedback
+- Provide personalised practice accompaniment using smart accompaniment software
+- Generate customized practice pieces and sight-singing materials via AI
+- Use data analytics to track student progress and adjust teaching plans.
+- Use AI-assisted composition and arrangement tools to enrich teaching content
+
+**Human moat:**
+
+- Spontaneous emotional interaction and motivation in face-to-face teaching
+- Subtle aesthetic judgment of musical expressiveness
+- Flexibly adjust teaching style according to student personality
+- Communicate with parents to build long-term trust relationships.
+- Infectiousness and authority of live performance demonstration.
+
+**Skills to build:**
+
+- Proficient in mainstream AI music tools (e.g., SmartMusic, Yousician)
+- Data analysis basics: interpreting student practice data to optimize teaching
+- Digital content creation: producing and sharing online courses
+- Basic programming skills: customize AI scripts to assist teaching
+- Psychological counseling techniques: enhancing students' intrinsic motivation
+- Cross-platform marketing: acquiring students through social media
+
+**Key growth areas:**
 
 - Lifelong learning
 - Arts education
@@ -65,65 +100,67 @@ Music teachers in private tuition provide one-on-one instruction in musical inst
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage visa） | 极少数情况：若受聘于音乐学校且职位在CSOL上，可申请，但私人教师通常不满足 |
-| Subclass 190（Skilled Nominated visa） | 不在MLTSSL/STSOL上，无法技术移民 |
+| Subclass 482 (Temporary Skill Shortage visa) | Rare cases: if employed by a music school and the position is on CSOL, can apply, but private teachers usually do not qualify. |
+| Subclass 190 (Skilled Nominated visa) | Not on MLTSSL/STSOL, not eligible for skilled migration |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Music Teacher (Private Tuition)？**
-- 有较强演奏/演唱能力且善于教学的音乐专业人士
-- 希望灵活自雇、自主安排时间的人
-- 热爱音乐并乐于与不同年龄段学生互动的人
+**Who is suited**
+- Music professionals with strong performance/teaching skills
+- Those seeking flexible self-employment and to manage their own time
+- Someone who loves music and enjoys interacting with students of all ages
 
-**谁不适合学Music Teacher (Private Tuition)？**
-- 期望稳定全职雇佣和固定高薪的人
-- 需要通过技术移民获得澳洲永居的人
+**Who is not suited**
+- People seeking stable full-time employment and fixed high salaries.
+- For those seeking Australian permanent residency through skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do private music teachers earn in Australia?**
+A: Income varies greatly: part-time teachers earn AUD 30,000-50,000 per year, full-time experienced teachers can earn AUD 80,000-120,000, but competition is high and student numbers are unstable.
+
+**Q: Can private music teachers migrate to Australia via skilled migration?**
+A: Generally not possible. This occupation is not on any skilled occupation list, so 189/190/491 visas are not available. Only very few employer-sponsored options may exist, but it is extremely difficult.
+
+**Q: What qualifications are needed to become a private music teacher?**
+A: No statutory educational requirements, but music degree, AMEB advanced diploma, etc. significantly enhance competitiveness. Must hold a Working with Children Check to teach minors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Music Teacher (Private Tuition)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for private music teachers in Australia?**
-答：Earnings vary widely: part-time teachers earn AUD 30k-50k, while experienced full-time teachers can reach AUD 80k-120k, but competition is high and client base can be unstable.
-
-**问：Can private music teachers migrate to Australia via skilled visa?**
-答：Generally no. The occupation is not on any skilled occupation list, making 189/190/491 visas impossible. Employer sponsorship is extremely rare.
-
-**问：What qualifications are needed to become a private music teacher?**
-答：No mandatory degree, but a music degree or AMEB diploma boosts credibility. A Working with Children Check is required when teaching minors.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

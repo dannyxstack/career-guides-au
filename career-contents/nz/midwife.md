@@ -1,58 +1,94 @@
-# Midwife（Midwife）职业分析 · 新西兰
+# Midwife — career analysis · New Zealand
 
-**职业代码：254111 – Midwife。**
+**Occupation code: 254111 (ANZSCO)**
 
-Midwives provide antenatal, intrapartum, and postnatal care in public/private hospitals or community settings. New Zealand faces a persistent shortage, Green List Tier 1 offers direct residence, very migration-friendly.
+Midwives provide antenatal, childbirth, and postnatal care in public hospitals, private hospitals, or community settings. New Zealand has a persistent shortage, with direct residence on Green List Tier 1, immigrant-friendly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（包括学费及实习费用，国际学生较高） |
-| 硕士（转换课程） | 2年 | $35,000~$50,000（适用于已有护理/健康科学学位者） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Includes tuition and internship fees, higher for international students) |
+| Master's (Conversion) | 2 years | $35,000~$50,000 (Suitable for those with a nursing/health science degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰助产士注册 | Midwifery Council of New Zealand | 必备 | 完成批准课程并通过国家注册考试，强制注册 |
-| IELTS/英语语言能力 | IDP/British Council | 必备 | 注册要求总分7.0，单项不低于7.0 |
+| New Zealand midwife registration | Midwifery Council of New Zealand | Required | Complete an approved course and pass national registration exam, mandatory registration |
+| IELTS/English language proficiency | IDP/British Council | Required | Registration requires overall IELTS 7.0, no band below 7.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 3,500。新西兰出生率稳定但助产士老龄化严重，预计未来十年需求旺盛。政府资助更多培训名额，就业机会集中在主要城市及偏远地区。
+**Job demand: very high (★★★★½).** National workforce approx. 3,500. New Zealand's birth rate is stable but midwife aging is severe; demand is expected to be high over the next decade. Government funds more training places, with job opportunities concentrated in major cities and remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$78,000 | 公立医院起薪根据DHB协议 |
-| 中级（4-9年） | $80,000~$98,000 | 含经验补贴及夜班津贴 |
-| 高级（10年+） | $100,000~$125,000 | 独立执业或临床专家角色 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$78,000 | Starting salary in public hospitals according to DHB agreement. |
+| Intermediate (4-9 years) | $80,000~$98,000 | Including experience allowance and night shift allowance |
+| Senior (10+ years) | $100,000~$125,000 | Independent practice or clinical specialist role |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从注册助产士可晋升为临床专家、团队领导或助产顾问。也可攻读硕士从事研究或教育，或开设独立助产诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
+
+Registered midwives can advance to clinical specialist, team leader, or midwifery consultant. They can also pursue a master's degree for research or education, or open their own independent midwifery practice.
+
+**Tasks most exposed to AI:**
+
+- Automatic entry and organization of routine prenatal electronic records
+- Guideline-based routine pregnancy risk assessment report generation
+- Automatic Analysis of Birth Monitoring Data and Anomaly Alerts
+- AI voice automated outbound calls and basic screening for postpartum follow-up
+- Automatic Filling and Coding of Standardized Descriptions in Medical Records
+
+**Where AI augments the role:**
+
+- AI assisted fetal monitoring interpretation to improve anomaly recognition accuracy
+- AI-assisted measurement and preliminary diagnosis of prenatal ultrasound images
+- AI recommendation for personalized birth plans based on historical data
+- AI-driven continuous obstetric education simulation training and skill assessment
+- Real-time AI translation and information integration in telemedicine consultations
+
+**Human moat:**
+
+- Manual assistance maneuvers and emergency judgment in complex deliveries
+- Emotional communication, psychological comfort, and education with mothers and families
+- Clinical Leadership and Decision-Making in Cross-Disciplinary Team Collaboration
+- Rapid clinical reasoning in unpredictable obstetric emergencies
+- Sensitive understanding of maternal cultural background and personal preferences
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools in obstetrics (e.g., smart monitors)
+- Clinical data analysis and information system management
+- Telehealth consultation and digital health education skills
+- Interventional prenatal examination techniques (e.g., ultrasound-guided)
+- Cross-cultural communication and psychological support skills
+- Simulation training for maternal and infant emergencies and team collaboration
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,67 +97,66 @@ Midwives provide antenatal, intrapartum, and postnatal care in public/private ho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足注册和工作要求后可立即申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，助产士通常获高学历及注册加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可作为过渡性工作签证 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, eligible to apply for residence immediately after meeting registration and work requirements |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration; midwives typically receive high qualification and registration bonus points |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can serve as a transitional work visa |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Midwife？**
-- 富有同情心、抗压能力强、喜欢与人交流的医护背景人士
-- 希望在海外稳定发展且快速移民的女性或男性
-
-**谁不适合学Midwife？**
-- 不耐夜班及高强度工作节奏者
-- 不喜欢独立决策和承担医疗责任者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Compassionate, strong stress tolerance, enjoys interacting with people, with a medical background.
+- Women or men seeking stable development overseas and fast immigration
+
+**Who is not suited**
+- Those who cannot tolerate night shifts and high-intensity work pace
+- Those who dislike independent decision-making and bearing medical responsibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of midwives in New Zealand?**
+A: Entry-level around NZD 65,000-78,000, increasing to over NZD 100,000 with experience. Independent practice or management roles can reach NZD 125,000.
+
+**Q: Is it difficult for midwives to immigrate to New Zealand?**
+A: Listed as Green List Tier 1 occupation; upon registration, can directly apply for residence, very favorable.
+
+**Q: How to obtain midwife registration in New Zealand?**
+A: Must complete an approved course in New Zealand or pass an overseas qualification assessment, and meet national exam and English requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Midwife的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for midwives in NZ?**
-答：Entry-level NZD 65,000-78,000, experienced up to NZD 100,000+, senior/self-employed up to NZD 125,000.
-
-**问：Is it difficult for midwives to immigrate to NZ?**
-答：It's on Green List Tier 1; once registered, you can apply for residence directly. Very favorable.
-
-**问：How to get NZ midwife registration?**
-答：Complete an approved NZ programme or pass overseas qualification assessment, plus national exam and English requirement.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

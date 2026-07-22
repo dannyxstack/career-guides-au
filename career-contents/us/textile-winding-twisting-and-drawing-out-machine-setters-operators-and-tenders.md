@@ -1,60 +1,93 @@
-# Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders（Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders）职业分析 · 美国
+# Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders — career analysis · United States
 
-**职业代码：51-6064 – Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders。**
+**Occupation code: 51-6064 (SOC)**
 
-Set up, operate, or tend machines that wind or twist textiles or draw out and combine sliver for yarn production; includes slubber and drawing frame operators.
+Operate or monitor textile machinery to wind, twist, or stretch fibers (e.g., wool, synthetic fibers) into yarn or thread, including roving frame and drawing frame operators.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 数月至1年 | —（雇主提供培训，可能需自费购买工具或安全鞋） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | Several months to 1 year | $0~$1,000 (Employer provides training, may need to self-fund tools or safety shoes) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 高中 | 必备 | 多数雇主要求 |
-| 在职培训 | 雇主 | 必备 | 学习机器操作和安全规程 |
+| High school diploma | High school | Required | Most employers require |
+| On-the-job training | Employer | Required | Learning machine operation and safety procedures |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 12,000。美国纺织业就业预计下降，自动化和海外竞争导致岗位减少。该职业年增长率约-3%，实际需求主要来自替换退休工人。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 12,000. US textile employment is expected to decline due to automation and overseas competition. This occupation has an annual growth rate of about -3%, with actual demand mainly from replacing retiring workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 时薪约$12-15 |
-| 中级（3-7年） | $32,000~$40,000 | 时薪约$15-19 |
-| 高级（7年以上） | $40,000~$48,000 | 时薪约$19-23 |
+| Median salary | $38,670 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly wage approximately $12-15 |
+| Mid-level (3–7 years) | $32,000~$40,000 | Hourly wage about $15-19 |
+| Senior (7+ years) | $40,000~$48,000 | Hourly wage approximately $19-23 |
+| average salary | $40,120 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从操作员起步，积累经验后可晋升为高级操作员、班组长或生产主管。少数人转向质量控制或设备维护岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Textile winding, twisting, and drawing machine operators face high automation risk; AI and robots will take over most repetitive tasks, with job demand continuously shrinking.
+
+Typically start as operators, and with experience can advance to senior operator, team leader, or production supervisor. A few move into quality control or equipment maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine running status and adjust parameters; AI vision and sensors enable real-time monitoring and automatic adjustment
+- perform yarn splicing and broken yarn handling; robotic arms can now automatically complete splicing tasks
+- Record production data and output; IoT devices automatically collect and upload to the system
+- Perform simple quality checks; AI visual inspection can replace manual visual inspection
+
+**Where AI augments the role:**
+
+- Optimize process flow through AI analysis of production data to improve efficiency
+- Remote assistance for complex troubleshooting using AR glasses
+- Use digital twins for virtual commissioning to reduce downtime
+- Use AI predictive maintenance systems to schedule servicing and extend equipment life
+
+**Human moat:**
+
+- Experiential intuition when handling new fiber materials
+- Ability to diagnose equipment anomalies and perform emergency repairs
+- Ability to flexibly switch between multiple varieties and small batch production
+- Cross-process coordination and communication skills
+
+**Skills to build:**
+
+- Industrial robot operation and programming
+- PLC and SCADA system basics
+- Data analysis and statistical process control
+- Predictive maintenance technology
+- Digital twin simulation tools
+- Lean production and Six Sigma methodology
+
+**Key growth areas:**
 
 - Automation
 - Offshoring
@@ -63,65 +96,67 @@ Set up, operate, or tend machines that wind or twist textiles or draw out and co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 临时季节性工人签证，但该职业常被归类为制造业而非临时需求，雇主很少申请。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference (EB-3)） | 技术工人类别，但该职业通常不满足技能要求，且PERM审批困难。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary seasonal worker visa, but this occupation is often classified as manufacturing rather than temporary need; employers rarely apply. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Skilled worker category, but this occupation usually does not meet skill requirements, and PERM approval is difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders？**
-- 喜欢重复性机械操作、动手能力强的人
-- 愿意上夜班或轮班、适应工厂环境的人
-- 需要快速入门获得稳定收入、不追求高薪的人
+**Who is suited**
+- People who enjoy repetitive mechanical tasks and have strong hands-on skills
+- People willing to work night shifts or rotating shifts and adapt to factory environments
+- Those who need quick entry for stable income and do not seek high salary
 
-**谁不适合学Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders？**
-- 追求高收入和职业发展空间的人
-- 不喜欢枯燥重复工作或对噪音、灰尘敏感的人
+**Who is not suited**
+- Those seeking high income and career development space
+- Not suitable for those who dislike repetitive work or are sensitive to noise and dust.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a textile machine operator?**
+A: According to BLS 2023 data, median annual salary for this occupation is about $32,000 USD, with an hourly wage of about $15. Entry-level around $25,000, senior up to $48,000.
+
+**Q: Can textile machine operators immigrate to the USA through work?**
+A: Very difficult. This occupation is not skilled, H-1B requires a specialty occupation, EB-3 needs at least a bachelor's degree or experience proof, and PERM labor certification is very hard to pass. Usually only L-1 intra-company transfers or investment immigration from overseas companies.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Limited. Can advance from operator to team leader, production supervisor; a few transfer to quality inspection or equipment maintenance. Lack of formal career ladder, many eventually change careers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for textile winding machine operators?**
-答：According to BLS 2023 data, median annual wage is about $32,000, or $15 per hour. Entry-level around $25,000, experienced up to $48,000.
-
-**问：Can textile machine operators immigrate to the US through work?**
-答：Very difficult. The job is not considered skilled. H-1B requires specialty occupation, EB-3 needs degree or exceptional experience, and PERM is unlikely. L-1 intracompany transfer or investment immigration may be options.
-
-**问：Are there advancement opportunities?**
-答：Limited. Operators may become shift supervisors or production leads, few move to quality or maintenance. Lack of formal career ladder; many switch occupations.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

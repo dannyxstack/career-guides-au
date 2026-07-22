@@ -1,62 +1,97 @@
-# Shopkeeper（Shopkeeper）职业分析 · IE
+# Shopkeeper — career analysis · Ireland
 
-**职业代码：5221 – Shopkeeper。**
+**Occupation code: 5221 (ISCO08)**
 
-Shopkeepers manage daily operations of retail stores, including sales, inventory, and customer service, typically in small independent shops or chains.
+Shopkeepers manage the daily operations of retail stores, including sales, inventory management and customer service, commonly found in small independent stores or chain stores.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 无要求 | —（通常无需正式学历，在职培训为主） |
-| 商业或零售管理证书 | 6个月（证书） | $1,000~$3,000（可选，有助于提升管理技能） |
-| 商业管理学士 | 3-4年（本科） | $10,000~$20,000（对开设大型商店或连锁店有帮助） |
+| High school diploma | No requirements | $0~$0 (Usually no formal qualifications required; on-the-job training is primary) |
+| Certificate in Business or Retail Management | 6 months (certificate) | $1,000~$3,000 (Optional, helps improve management skills) |
+| Bachelor of Business Administration | 3-4 years (Bachelor's degree) | $10,000~$20,000 (Helpful for opening large stores or chain stores) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售管理证书 | 爱尔兰零售业协会 | 可选 | 可选，但有利于职业发展 |
-| 健康与安全证书 | 健康与安全局 | 可选 | 如有雇员需遵守规定 |
-| 食品卫生证书 | 食品安全局 | 必备 | 如销售食品则强制要求 |
+| Food hygiene certificate | Food Safety Authority | Required | Mandatory if selling food |
+| Retail Management Certificate | Retail Ireland | Optional | Optional, but beneficial for career development |
+| Health and safety certificate | Health and Safety Authority | Optional | If you have employees, you must comply with regulations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。爱尔兰零售业就业稳定但增长缓慢，受电商影响实体店压力增大，但社区商店仍有一定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Retail employment in Ireland is stable but growing slowly, with online commerce increasing pressure on physical stores, though community shops still have some demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 小型商店店员或助理店主 |
-| 中级（3-7年） | $25,000~$35,000 | 独立经营小型店铺 |
-| 高级（7年以上） | $30,000~$50,000 | 盈利较好的店铺或多店经营者 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Small shop assistant or assistant store manager |
+| Mid-level (3–7 years) | $25,000~$35,000 | Independently operating a small shop |
+| Senior (7+ years) | $30,000~$50,000 | Profitable stores or multi-store operators. |
+| average salary | $30,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 店主通常从店员做起，积累经验后可晋升为区域经理或开设多家门店，发展路径依赖商业头脑和资金。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI's impact on store owners is mixed: automated inventory management and customer analytics will compress traditional functions, but AI-enhanced personalized services and marketing capabilities can amplify the value of store owners, requiring proactive transformation.
+
+Store owners typically start as shop assistants and can advance to regional manager or open multiple stores with experience; career path depends on business acumen and capital.
+
+**Tasks most exposed to AI:**
+
+- Processing transactions and cashiering using POS systems.
+- Manual inventory counting and generating replenishment orders
+- Handles routine customer inquiries (e.g., business hours, product locations)
+- Creating manual sales reports and simple data analysis
+
+**Where AI augments the role:**
+
+- Use AI customer analysis tools to optimize product displays and promotional strategies
+- Provide 24/7 customer service via AI chatbots to enhance the customer experience
+- Uses AI to predict demand, automatically adjust inventory and supplier orders
+- Plan targeted marketing campaigns with AI social media tools
+- Utilize AI pricing tools for dynamic pricing to boost profits
+
+**Human moat:**
+
+- Building and maintaining community client relationships
+- Personalized, empathetic customer service and problem solving
+- Store atmosphere creation and brand culture transmission
+- Complex negotiation and supplier relationship management.
+- Incident response and on-site management decision-making
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- E-commerce and social media marketing (e.g., SEO, ad placements)
+- Inventory management systems (e.g., QuickBooks, Zoho)
+- Basic programming or low-code automation (e.g., Zapier)
+- Digital Customer Relationship Management (CRM) Operations
+- Financial and profitability analysis skills
+
+**Key growth areas:**
 
 - stagnant
 - e-commerce impact
@@ -65,69 +100,68 @@ Shopkeepers manage daily operations of retail stores, including sales, inventory
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于零售店经理职位，需雇主担保且年薪不低于30000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用于店主职业，因其无需高等教育。 |
-| Subclass Start-up Entrepreneu（Start-up Entrepreneur Programme） | 如计划开设新店，可申请此签证，需投资5万欧元。 |
+| Subclass General Employment P (General Employment Permit) | Applies to retail store manager positions, requires employer sponsorship with an annual salary of at least 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Not usually applicable to shopkeeper occupations as they do not require higher education. |
+| Subclass Start-up Entrepreneu (Start-up Entrepreneur Programme) | If planning to open a new store, you can apply for this visa, requiring an investment of 50,000 euros. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shopkeeper？**
-- 有创业精神和经营头脑的人
-- 喜欢与顾客互动、提供个性化服务
-- 能适应长时间站立和灵活工作时段
-
-**谁不适合学Shopkeeper？**
-- 不愿承担经营风险和财务压力的人
-- 偏好固定朝九晚五工作模式的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with entrepreneurial spirit and business acumen.
+- Enjoys interacting with customers and providing personalized service
+- Able to stand for long periods and work flexible hours
+
+**Who is not suited**
+- People who are unwilling to bear business risks and financial pressures.
+- People who prefer a fixed 9-to-5 work pattern
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a shopkeeper in Ireland?**
+A: Salary varies widely: entry-level shop staff about €20,000-25,000, independent shop owner about €25,000-35,000, successful multi-store operators can reach over €50,000.
+
+**Q: Can foreigners become shopkeepers in Ireland?**
+A: Yes, but through a work visa or start-up visa, such as the General Employment Permit (requires employer sponsorship) or the Start-up Entrepreneur Programme (requires a 50,000 euro investment).
+
+**Q: How competitive is the Irish retail sector?**
+A: Highly competitive, especially against large chains and e-commerce, but small community shops still have opportunities through personalized service and convenience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Shopkeeper为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a shopkeeper in Ireland?**
-答：Salaries vary widely; entry-level assistants earn around €20k-25k, independent shopkeepers €25k-35k, and multi-store operators can exceed €50k.
-
-**问：Can foreigners become shopkeepers in Ireland?**
-答：Yes, via work visas like the General Employment Permit (employer-sponsored) or the Start-up Entrepreneur Programme (€50k investment).
-
-**问：How competitive is retail in Ireland?**
-答：Highly competitive due to large chains and e-commerce, but local community shops can thrive through personalized service and convenience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Orthopedic and Rehabilitation Technician（Orthopedic and Rehabilitation Technician）职业分析 · DE
+# Orthopedic and Rehabilitation Technician — career analysis · Germany
 
-**职业代码：8251 – Orthopedic and Rehabilitation Technician。**
+**Occupation code: 8251 (KldB)**
 
-Orthopedic and rehabilitation technicians manufacture, fit, and repair orthoses, prostheses, and rehabilitation aids, collaborating with physicians and therapists to restore patient mobility.
+Orthopaedic and rehabilitation technicians manufacture, fit, and repair orthoses, prostheses, and rehabilitation aids, collaborating with doctors and therapists to help patients regain mobility.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期间有津贴，学校通常免费） |
-| 深造：矫形外科技术大师 | 1-2年（全职） | $2,000~$8,000（需通过手工业行会考试） |
+| Dual vocational training | 3.5 years | $0~$500 (Allowance provided during training, school usually free) |
+| Further study: Master in Orthopaedic Technology | 1-2 years (full-time) | $2,000~$8,000 (Must pass the trade guild examination.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矫形外科技术员职业资格证书 | 德国手工业行会（HWK） | 必备 | 完成双元制培训并通过结业考试 |
-| 第三国学历认证（Anerkennung） | 德国联邦职业教育与培训研究所（BIBB）或HWK | 必备 | 国外学历需认证，可能需部分补修 |
-| 矫形外科技术大师证书 | HWK | 可选 | 非强制，但利于晋升和管理岗位 |
+| Orthopaedic Technician Qualification Certificate | German Chamber of Crafts (HWK) | Required | Complete dual vocational training and pass the final exam. |
+| Third-country degree recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) or HWK. | Required | Overseas qualifications need assessment; may require supplementary courses |
+| Master craftsman certificate in orthopaedic technology | HWK | Optional | Not mandatory, but beneficial for promotion and management roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。德国老龄化加剧导致骨科疾病和康复需求持续增长，该职业就业前景稳定且良好，尤其在康复中心和专科诊所需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Germany's aging population is leading to sustained growth in orthopedic diseases and rehabilitation needs. The employment outlook for this occupation is stable and favorable, especially in rehabilitation centers and specialist clinics.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，随经验增长 |
-| 中级（4-7年） | $35,000~$45,000 | 包括专业水平和职责扩展 |
-| 高级（8年以上/大师） | $45,000~$58,000 | 含管理或自雇收入潜力 |
+| Median salary | $44,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, increases with experience |
+| Mid-level (4-7 years) | $35,000~$45,000 | Including professional level and scope expansion |
+| Senior (8+ years / master) | $45,000~$58,000 | Includes management or self-employment income potential |
+| average salary | $49,008 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级技术员可通过深造成为矫形外科技术大师（Orthopädiemeister），或向假肢矫形师（Prosthetist/Orthotist）方向发展，也可进入销售管理或培训岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Orthopedic and rehabilitation technicians face dual impacts of AI-assisted design enhancement and manufacturing automation replacement, but customization, patient communication, and legal liability form a core moat, making overall prospects mixed.
+
+Junior technicians can advance to become Orthopedic Technology Master (Orthopädiemeister) or move into Prosthetist/Orthotist roles, or enter sales management or training positions.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for initial parametric design of prosthetics/orthotics
+- Automatically adjust morphology and generate preliminary models based on scan data
+- Automatically optimize structural strength and material distribution using AI algorithms
+- Automatically generate standardized reports and patient record files
+
+**Where AI augments the role:**
+
+- Use AI to simulate the mechanical properties of orthoses under different movement conditions to assist design decisions
+- AI recommends personalized rehabilitation plans based on patient gait analysis data
+- Predict post-fitting complication risks through machine learning and intervene early
+- Using AR/VR technology for virtual fitting and adjustments to improve efficiency
+- AI-driven remote patient monitoring and rehabilitation progress tracking
+
+**Human moat:**
+
+- Requires on-site measurement and assessment of patient body shape, motor function, and other physical interaction tasks.
+- Clinical judgment in handling unexpected situations (e.g., patient skin sensitivity, abnormal bony prominences)
+- Multi-party communication and coordination with doctors, therapists, patients and their families.
+- Legal responsibilities and compliance for modifications and adaptations of medical devices
+- Artisan skills for manual finishing and tuning to pursue optimal comfort and functionality
+
+**Skills to build:**
+
+- AI-assisted design software (e.g., generative design tools for prosthetic modelling)
+- 3D scanning and printing technology operation and maintenance
+- Basic programming and data analysis skills (Python, MATLAB)
+- Digital patient management systems (EHR, CAD/CAM)
+- Basics of ergonomics and rehabilitation engineering
+- Knowledge of AI tools in clinical decision support
+
+**Key growth areas:**
 
 - aging population
 - rehabilitation demand
@@ -64,69 +99,68 @@ Orthopedic and rehabilitation technicians manufacture, fit, and repair orthoses,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于持有德国认可职业资格的技术移民，需雇主担保和资质认证 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统的求职签证，允许来德寻找工作，需符合资格要求 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许来德6个月寻找工作，需证明经济能力和资质 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled migrants holding German-recognized professional qualifications, requires employer sponsorship and credential assessment |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing you to come to Germany to look for work, subject to eligibility requirements. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to look for work, must prove financial means and qualifications |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthopedic and Rehabilitation Technician？**
-- 注重手工技能与细节的人
-- 对医疗康复领域有热情的人
-- 希望稳定就业且受老龄化趋势支撑的人
-
-**谁不适合学Orthopedic and Rehabilitation Technician？**
-- 厌恶机械或手工操作的人
-- 希望高收入快速回报的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who focus on manual skills and attention to detail.
+- People passionate about the medical rehabilitation field
+- Those seeking stable employment supported by aging trends
+
+**Who is not suited**
+- People who dislike mechanical or manual work
+- Those seeking high income and fast returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for orthopaedic and rehabilitation technicians?**
+A: Entry-level annual salary about 28,000-35,000 euros, intermediate about 35,000-45,000 euros, senior or master technician up to 45,000-58,000 euros.
+
+**Q: As a third-country national, how to immigrate to Germany for this occupation?**
+A: Must first pass qualification recognition (Anerkennung), then be sponsored by a German employer to apply for a Skilled Worker Visa or Opportunity Card (Chancenkarte) to work in Germany.
+
+**Q: What is the future outlook for this occupation?**
+A: Germany's aging population drives sustained growth in orthopedics and rehabilitation needs; skilled worker shortage ensures good job prospects, with ample opportunities for advancement to master craftsman or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Orthopedic and Rehabilitation Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for orthopedic and rehabilitation technicians?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €35,000-45,000, and senior or master level reaches €45,000-58,000.
-
-**问：How can a third-country national immigrate to Germany for this profession?**
-答：You need to first obtain qualification recognition (Anerkennung), then have a German employer sponsor a Skilled Worker Visa or use the Opportunity Card (Chancenkarte) to find a job.
-
-**问：What are the future prospects for this profession?**
-答：Germany's aging population drives growing demand for orthopedics and rehabilitation. Skilled worker shortages ensure good job prospects, with opportunities to become a master or self-employed.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Applications Programmer（Applications Programmer）职业分析 · IE
+# Applications Programmer — career analysis · Ireland
 
-**职业代码：2514 – Applications Programmer。**
+**Occupation code: 2514 (ISCO08)**
 
-Develop, test, and maintain software applications using various programming languages and development tools to meet user requirements.
+Develop, test, and maintain software applications using multiple programming languages and development tools to meet user needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $15,000~$25,000（欧盟学生约€1,500-€3,000/年） |
-| 硕士 | 1-2年 | $12,000~$20,000（欧盟学生约€4,000-€10,000/年） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $15,000~$25,000 (EU students approx. €1,500-€3,000/year) |
+| Master's degree | 1-2 years | $12,000~$20,000 (EU students approximately €4,000-€10,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士 | 爱尔兰大学 | 可选 | 常用入门资格 |
-| 软件工程硕士 | 爱尔兰大学 | 可选 | 提升职业前景 |
+| Bachelor's in Computer Science | Irish universities | Optional | Common entry qualification |
+| Master of Software Engineering | Irish universities | Optional | Enhance career prospects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。爱尔兰作为欧洲科技中心，应用程序员需求强劲，尤其在都柏林等城市。数字化转型推动持续增长，就业前景乐观。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. As a European tech hub, Ireland has strong demand for application programmers, especially in cities like Dublin. Digital transformation drives sustained growth, and employment prospects are optimistic.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$70,000 | 税前年薪 |
-| 高级（7年以上） | $75,000~$100,000 | 税前年薪 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$70,000 | Annual pre-tax salary |
+| Senior (7+ years) | $75,000~$100,000 | Annual pre-tax salary |
+| average salary | $62,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级程序员可晋升为高级程序员、架构师或技术经理，也可转向项目管理或专业领域如数据科学。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Application programmers face dual AI impacts: low-level coding and testing tasks are automated and compressed, but system design, architectural decisions, and AI integration capabilities are amplified, requiring a shift to high-value work to stay competitive.
+
+Junior programmers can advance to senior programmer, architect, or technical manager, or transition to project management or specialized fields like data science.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate template code and CRUD interfaces
+- Run and debug unit test cases
+- Extract specifications from design documents and generate code
+- Fix grammatical errors and simple logic errors
+- Generate API documentation and comments
+
+**Where AI augments the role:**
+
+- Using AI code completion to accelerate the coding process
+- Perform code review and vulnerability detection via AI.
+- Use AI tools to automatically refactor and optimize performance
+- Using AI to generate test cases and simulated data
+- Quickly learn new technologies and frameworks with AI assistance
+
+**Human moat:**
+
+- Skilled in complex system architecture and distributed design
+- Understand business needs and translate them into technical solutions.
+- Non-functional requirements such as security and scalability trade-offs
+- Cross-team collaboration and project management skills
+- Innovative solutions and algorithmic breakthroughs
+
+**Skills to build:**
+
+- Use of AI-assisted development tools (e.g., GitHub Copilot)
+- Large Model Fine-Tuning and Prompt Engineering
+- Cloud-native and microservices architecture design
+- DevOps and CI/CD automation
+- Data Science and AI Fundamentals
+- System security and compliance knowledge
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -61,65 +97,64 @@ Develop, test, and maintain software applications using various programming lang
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 面向ICT紧缺职业，年薪需超过€32,000且学历达标，快速通道至永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪€30,000以上的职位，需劳动市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 面向高技能非EU公民，年薪需超过€35,000（或€70,000加特殊条件）。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For ICT skills in demand, annual salary must exceed €32,000 and meet educational requirements, fast-track to permanent residency. |
+| Subclass General Employment P (General Employment Permit) | Applicable for positions with an annual salary of €30,000 or more, requiring a labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary must exceed €35,000 (or €70,000 with special conditions). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Applications Programmer？**
-- 喜欢解决逻辑问题和编程的人
-- 具备耐心和持续学习能力者
-- 有团队协作精神者
-
-**谁不适合学Applications Programmer？**
-- 不喜欢长时间面对电脑者
-- 缺乏解决问题耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy solving logic problems and programming
+- Those with patience and a continuous learning ability
+- Those with a team collaboration spirit.
+
+**Who is not suited**
+- Those who dislike prolonged screen time
+- Those lacking patience for problem-solving
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an application programmer?**
+A: Junior annual salary €35k-€45k, intermediate €50k-€70k, senior can reach over €100k.
+
+**Q: How can non-EU citizens immigrate to Ireland as application programmers?**
+A: Eligible via a Critical Skills Employment Permit, with an annual salary of at least €32k and a relevant qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Applications Programmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for applications programmers?**
-答：Junior: €35k-€45k, mid-level: €50k-€70k, senior: up to €100k+.
-
-**问：How can non-EU citizens immigrate as applications programmers?**
-答：Apply for Critical Skills Employment Permit, requiring salary ≥€32k and relevant degree.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

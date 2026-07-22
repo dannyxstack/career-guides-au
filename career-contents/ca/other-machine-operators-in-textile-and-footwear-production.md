@@ -1,61 +1,92 @@
-# Other machine operators in textile and footwear production（Other machine operators in textile and footwear production）职业分析 · 加拿大
+# Other machine operators in textile and footwear production — career analysis · Canada
 
-**职业代码：94129 – Other machine operators in textile and footwear production。**
+**Occupation code: 94129 (NOC)**
 
-In Canada, this occupation operates textile or footwear production machines such as knitting, stitching, cutting, and finishing equipment. It is a blue-collar manufacturing role, typically requiring high school diploma and on-the-job training. Migration feasibility is low, mainly relying on provincial nominations or employer sponsorship, and not a priority for skilled immigration.
+In Canada, this occupation involves operating textile or footwear production machines, such as weaving, stitching, and cutting equipment. It is a blue-collar manufacturing role, typically requiring a high school diploma and on-the-job training. Immigration feasibility is low, mainly relying on provincial nomination or employer sponsorship, but it is not a preferred skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（加拿大公立高中免费） |
-| 职业培训证书 | 6个月至1年 | $2,000~$8,000（社区学院或职业培训中心费用） |
+| High school diploma | 4 years | $0~$0 (Canadian public high schools are free) |
+| Vocational training certificate | 6 months to 1 year | $2,000~$8,000 (Community college or vocational training center fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 省教育部 | 必备 | 基础入职要求 |
-| 在职培训 | 雇主 | 可选 | 通常由雇主提供 |
-| 语言能力 | IELTS/TEF | 可选 | 如需移民，需CLB 4以上 |
+| High school diploma | Provincial Ministry of Education | Required | Basic entry requirements. |
+| On-the-job training | Employer | Optional | Typically provided by employer |
+| Language ability | IELTS/TEF | Optional | If immigrating, need CLB 4 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,300。加拿大制造业就业前景稳定，纺织和鞋类生产集中在魁北克、安大略和 BC 省。自动化趋势可能减少部分岗位，但对熟练操作员仍有需求。整体就业增长缓慢，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,300. Employment prospects in Canada's manufacturing sector are stable, with textile and footwear production concentrated in Quebec, Ontario, and BC. Automation trends may reduce some positions but demand for skilled operators remains. Overall employment growth is slow with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 按最低工资至中间水平 |
-| 中级（4-7年） | $35,000~$44,000 | 熟练操作员 |
-| 高级（8年以上） | $44,000~$55,000 | 含班组长或技术专家 |
+| Median salary | $53,498 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | From minimum wage to median level |
+| Mid-level (4-7 years) | $35,000~$44,000 | Skilled operator |
+| Senior (8+ years) | $44,000~$55,000 | Includes team leader or technical specialist |
+| average salary | $54,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但有限（★★☆☆☆）。** 职业发展路径有限，可从初级操作员晋升为高级操作员、班组长或质检员。通过积累经验或学习自动化技术可提升竞争力，但转向管理岗位需额外培训。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Textile and footwear machine operator roles face significant automation compression risk. AI-driven visual inspection, robotic sewing, and material handling will replace many repetitive tasks, lowering entry barriers but reducing high-paying positions, shrinking overall career prospects.
+
+Career advancement paths are limited; you can progress from junior operator to senior operator, team leader, or quality inspector. Gaining experience or learning automation technology can improve competitiveness, but transitioning to management requires additional training.
+
+**Tasks most exposed to AI:**
+
+- Quality inspection: AI vision system automatically identifies fabric defects and stitching faults
+- Material handling: automated forklifts and AGVs transport raw materials and finished products
+- Basic sewing: robot sewing machines can independently complete standard stitching processes
+- Data recording: production data and equipment status automatically collected and reported by IoT system
+
+**Where AI augments the role:**
+
+- Machine programming: operators need to set parameters and process routes for automated equipment
+- Exception handling: after an AI system alarm, operators analyze the cause of failure and restore production
+- Process optimization: Using data analysis to adjust machine speed, temperature and other parameters to improve efficiency
+
+**Human moat:**
+
+- Complex textile handling: fine fabrics or irregular cutting still require manual judgment
+- Machine setup and maintenance: fault diagnosis requires mechanical and electrical knowledge
+- Customized production: quick changeover for small-batch, multi-variety orders relies on experience.
+
+**Skills to build:**
+
+- robot programming and operation
+- Automation Equipment Maintenance Basics
+- Data analysis and process optimization
+- Computer Numerical Control (CNC) operation
+- Industrial IoT Knowledge
+- Lean production and quality management
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -64,66 +95,68 @@ In Canada, this occupation operates textile or footwear production machines such
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能通过省提名邀请该职业，需雇主担保，名额有限。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省可能试点，但需求不高。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地人，流程复杂。 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may invite this occupation through provincial nomination, employer sponsorship required, limited quotas. |
+| Subclass AIP (Atlantic Immigration Program) | Possible pilot in Atlantic provinces, but demand is low. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must prove they cannot hire locally, a complex process. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other machine operators in textile and footwear production？**
-- 已在加拿大且有工签，希望快速就业的体力劳动者
-- 愿意接受蓝领工作，不追求高薪但求稳定
-- 有相关经验且能通过雇主担保移民
+**Who is suited**
+- Manual workers already in Canada with work visas seeking quick employment.
+- Willing to take blue-collar jobs, not pursuing high salary but stability
+- Has relevant experience and can immigrate through employer sponsorship
 
-**谁不适合学Other machine operators in textile and footwear production？**
-- 追求高薪或高技术移民
-- 不愿从事重复性体力劳动
+**Who is not suited**
+- Pursuing high salary or skilled migration
+- Unwilling to engage in repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for textile and footwear machine operators in Canada?**
+A: Entry-level approximately CAD 28,000-35,000 per year, mid-level 35,000-44,000, senior 44,000-55,000. Salary varies by region and experience, overall below Canadian average.
+
+**Q: Can this occupation immigrate to Canada through Express Entry?**
+A: Generally not. The NOC code 94129 falls under TEER 4 (low skill) and does not meet the requirements for Federal Skilled Worker (FSW) or Canadian Experience Class (CEC). Only possible through Provincial Nominee Program (PNP) or employer sponsorship (LMIA), but with limited opportunities.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually only a high school diploma is required. Some employers may require vocational training certificates, such as textile technology certification, but it's not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 稳定但有限（★★☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other machine operators in textile and footwear production属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for textile and footwear machine operators in Canada?**
-答：Entry-level is about CAD 28,000-35,000 per year, mid-level CAD 35,000-44,000, and senior CAD 44,000-55,000. Salaries vary by region and experience, generally below the Canadian average.
-
-**问：Can this occupation immigrate to Canada through Express Entry?**
-答：Generally no. The NOC code 94129 is TEER 4 (low-skilled) and does not qualify for FSW or CEC. Only possible via PNP or employer sponsorship (LMIA), with limited opportunities.
-
-**问：What education is required for this occupation?**
-答：Usually a high school diploma. Some employers may prefer a vocational certificate in textile technology, but it is not mandatory.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

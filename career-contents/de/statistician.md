@@ -1,59 +1,95 @@
-# Statistician（Statistician）职业分析 · DE
+# Statistician — career analysis · Germany
 
-**职业代码：4111 – Statistician。**
+**Occupation code: 4111 (KldB)**
 
-Statisticians collect, analyze, and interpret data to support decision-making in business, government, and research. They design surveys, experiments, and statistical models, ensuring data quality and extracting actionable insights.
+Statisticians collect, analyze, and interpret data to support decision-making in business, government, and research. They design surveys, experiments, and statistical models to ensure data quality and extract actionable insights.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 3年（学士） | —（公立大学仅收学期杂费（约150-300欧元/学期）） |
-| 大学硕士 | 2年（硕士） | —（多数公立大学硕士无学费） |
-| 双元制培训 | 3年（双元制） | —（双元制培训无学费，每月有津贴） |
+| University bachelor's degree | 3 years (bachelor's degree) | $0~$1,500 (Public universities only charge semester fees (approx. 150-300 euros per semester)) |
+| University master's degree | 2 years (Master's) | $0~$1,500 (Most public universities have no tuition fees for master's programs) |
+| Dual system training | 3 years (dual system) | $0~$0 (Dual system training has no tuition fees, with monthly stipend) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计学或相关专业学士/硕士学位 | 大学 | 必备 | 数学、经济学、数据科学等专业也可 |
-| 资质认证（如必要） | 德国联邦统计局或专业协会 | 可选 | 仅在公务员或特定职位需要 |
+| Bachelor's/Master's degree in statistics or a related field | University | Required | Mathematics, economics, data science, etc. are also acceptable |
+| Qualification certification (if required) | German Federal Statistical Office or professional associations | Optional | Only required for public service or specific positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。德国数字化推进和大数据应用日益广泛，统计学家需求稳定增长。尤其在保险、金融、市场研究和公共部门，具备数据分析能力的专家长期紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. With Germany's digitalization and widespread big data application, demand for statisticians is steadily growing. Specialists with data analysis skills are in chronic shortage, especially in insurance, finance, market research, and the public sector.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪，视行业和地区而定 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪，含管理职责 |
+| Median salary | $74,736 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary, depending on industry and region |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $65,000~$85,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $79,368 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展通常从初级数据分析师或统计助理开始，中级可晋升为资深统计师或团队负责人，高级可担任首席数据科学家或统计部门主管；也可向数据科学、机器学习方向转型。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Career development typically starts as a junior data analyst or statistical assistant, progressing to senior statistician or team leader at the mid-level, and advancing to chief data scientist or head of statistics at the senior level; it can also pivot toward data science or machine learning.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Big Data
 - Data Analytics
@@ -62,68 +98,67 @@ Statisticians collect, analyze, and interpret data to support decision-making in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且年薪达到阈值（2023年约43,800欧元，紧缺职业约39,682欧元）的申请人。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于具有德国认可学历或资质的统计专业人才，需获得工作合同。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许未获得工作合同的求职者在德国寻找工作（2023年计划推出）。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to applicants with a high degree and annual salary reaching the threshold (approximately €43,800 in 2023, approximately €39,682 for shortage occupations). |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to statistical professionals with German-recognized qualifications or credentials, requiring a job contract. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing job seekers without a work contract to find work in Germany (planned for 2023). |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statistician？**
-- 对数据敏感、逻辑思维强的人
-- 喜欢用数学和统计方法解决实际问题的人
-- 希望有稳定就业前景和良好薪资的求职者
-
-**谁不适合学Statistician？**
-- 不喜欢与数字打交道或缺乏耐心的人
-- 希望工作节奏慢、压力小的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are data-sensitive and have strong logical thinking
+- People who enjoy solving practical problems using mathematical and statistical methods
+- Job seekers looking for stable employment prospects and good salary
+
+**Who is not suited**
+- People who dislike working with numbers or lack patience.
+- Someone wanting a slow-paced, low-stress job
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for statisticians in Germany?**
+A: Junior statistician annual salary is about EUR 40,000-50,000, mid-level about EUR 50,000-65,000, senior (7+ years) up to EUR 65,000-85,000. Salary varies with experience, industry, and region (e.g., Bavaria, Baden-Württemberg are higher).
+
+**Q: Can statisticians immigrate to Germany through skilled migration?**
+A: Yes. Applicants with a bachelor's or master's degree in statistics or a related field, whose annual salary reaches the EU Blue Card threshold (for shortage occupations, approx. EUR 39,682 in 2023), can apply for the EU Blue Card. They may also obtain a work visa under the Skilled Immigration Act (Fachkräfteeinwanderungsgesetz), which is easier if their qualification is recognized in Germany.
+
+**Q: Which industries employ statisticians in Germany?**
+A: Primarily employed in insurance and finance (risk analysis), market research (consumer behavior analysis), public health (epidemiological statistics), government statistics departments (e.g., Australian Bureau of Statistics), and tech companies (data science departments).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Statistician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for statisticians in Germany?**
-答：Entry-level statisticians earn around €40,000-€50,000 gross annually, mid-level €50,000-€65,000, and senior (7+ years) up to €65,000-€85,000. Salaries vary by experience, industry, and region (e.g., Bavaria and Baden-Württemberg pay higher).
-
-**问：Can statisticians immigrate to Germany as skilled workers?**
-答：Yes. Holders of a bachelor's or master's degree in statistics or related fields can apply for an EU Blue Card if the annual salary meets the threshold (approx. €39,682 for shortage occupations in 2023). They can also obtain a work visa under the Skilled Immigration Act (Fachkräfteeinwanderungsgesetz), facilitated by recognized qualifications.
-
-**问：Which industries employ statisticians in Germany?**
-答：Key sectors include insurance and finance (risk analysis), market research (consumer behavior), public health (epidemiological statistics), government statistical offices (e.g., Destatis), and tech companies (data science roles).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

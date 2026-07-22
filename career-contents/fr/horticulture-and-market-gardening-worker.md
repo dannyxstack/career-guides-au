@@ -1,61 +1,96 @@
-# Horticulture And Market Gardening Worker（Horticulture And Market Gardening Worker）职业分析 · FR
+# Horticulture And Market Gardening Worker — career analysis · France
 
-**职业代码：A1414 – Horticulture And Market Gardening Worker。**
+**Occupation code: A1414 (ROME)**
 
-Involved in planting, cultivating, harvesting, and initial processing of vegetables, fruits, flowers, and other horticultural crops, possibly in organic farming or greenhouse settings.
+Engaged in the planting, maintenance, harvesting, and primary processing of horticultural crops such as vegetables, fruits, and flowers, which may involve organic agriculture or greenhouse cultivation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年职业培训 | 2年（CAP） | —（公立CAP通常免费，注册费约100-500欧元/年；学徒制可获报酬） |
-| 高中毕业+3年 | 2年（BTS） | —（BTS Agricole在公立学校约0-2000欧元/年，私立可达5000欧元/年） |
-| 本科及以上 | 3年（Licence） | —（公立大学Licence约0-4000欧元/年，私立或工程师学校更高） |
+| High school graduation + 2 years of vocational training | 2 years (CAP) | $0~$3,000 (Public CAPs are usually free, with registration fees of about 100-500 euros per year; Apprenticeships are paid) |
+| High school graduation + 3 years | 2 Years (BTS) | $0~$5,000 (BTS Agricole costs about 0-2000 euros per year at public schools, and up to 5000 euros per year at private schools) |
+| Bachelor's degree or above | 3 years (Licence) | $0~$10,000 (Public university licences cost about 0-4000 euros per year, while private or engineering schools cost even more) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Agricole（农业职业证书） | 法国教育部 | 可选 | 最低入门资质，可从事基础种植工作 |
-| BTS Agricole（农业高级技师证书） | 法国教育部 | 可选 | 可担任主管或技术员 |
-| Certiphyto（植物保护产品使用证书） | 法国农业与食品部 | 必备 | 使用农药必须持有 |
-| 驾驶执照（拖拉机等农业机械） | 法国交管局 | 必备 | 操作大型农机需相应类别驾照 |
+| Certiphyto (Plant Protection Product Usage Certificate) | French Ministry of Agriculture and Food | Required | Pesticides must be used |
+| Driver's license (for tractors and other agricultural machinery) | French traffic authority | Required | Operating large agricultural machinery requires a corresponding category of driver's license |
+| CAP Agricole (Agricultural Vocational Certificate) | French Ministry of Education | Optional | Minimum entry-level qualifications, capable of basic planting work |
+| BTS Agricole (Advanced Agricultural Technician Certificate) | French Ministry of Education | Optional | Can serve as supervisor or technician |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。法国园艺与蔬菜种植行业面临劳动力短缺，尤其是有机农业和短供应链（AMAP）领域。政府推动农业现代化和生态转型，就业前景稳定。季节性用工需求大。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. France's horticulture and vegetable cultivation industry faces labor shortages, especially in organic farming and short supply chain (AMAP) sectors. The government promotes agricultural modernization and ecological transformation, and employment prospects remain stable. Seasonal labor demand is high.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，通常按SMIC（最低工资）起薪 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪，视技能和职责 |
-| 高级/主管（7年以上） | $30,000~$38,000 | 税前年薪，农场经理或技术主管 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, usually starting at SMIC (Minimum Wage). |
+| Mid-level (3–7 years) | $24,000~$30,000 | Pre-tax annual salary, depending on skills and responsibilities |
+| Senior/Supervisor (7+ years) | $30,000~$38,000 | Pre-tax annual salary, farm manager or technical supervisor |
+| average salary | $19,740 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从普通种植工晋升为团队主管、温室负责人或农场经理。通过培训可转向农业技术顾问、质量控制或有机农业认证等岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on horticulture and vegetable growers is mixed: routine physical tasks like irrigation and weeding can be automated, but detailed decisions like pest and disease diagnosis and organic certification still rely on manual labor.
+
+You can be promoted from an ordinary grower to a team supervisor, greenhouse manager, or farm manager. Through training, you can transition to positions such as agricultural technical consultant, quality control, or organic farming certification.
+
+**Tasks most exposed to AI:**
+
+- Operation and monitoring of automated irrigation and fertilization systems
+- Weed identification and mechanical weeding
+- Sensor-based environmental monitoring (temperature, humidity) data recording
+- Simple and repetitive harvesting tasks (such as strawberries and tomatoes)
+
+**Where AI augments the role:**
+
+- Using AI cameras to analyze crop growth status and abnormalities (early detection of pests and diseases)
+- Planting planning optimization based on historical data and weather forecasts
+- Field patrols and image analysis are conducted using drones
+- Utilizing AI-assisted soil detection and management decision-making
+- Digital Record and Traceability Systems (Organic Certification, Compliance)
+
+**Human moat:**
+
+- Diagnosis and on-site treatment of complex pests and diseases
+- The ecological balance management capability of organic agriculture
+- Emergency judgment during sudden climate events
+- The impact of handcrafted techniques (such as grafting and pruning) on quality
+- Trust relationships with farmers and retailers
+
+**Skills to build:**
+
+- Operation of intelligent greenhouse control systems (such as Priva, Ridder)
+- Basic programming (Python) is used for data analysis
+- Drone operation and image analysis
+- Precision agriculture software (such as FieldView, Climate FieldView)
+- Knowledge of soil science and plant physiology
+- Data-driven decision-making skills
+
+**Key growth areas:**
 
 - Organic farming
 - Short supply chains
@@ -64,68 +99,67 @@ Involved in planting, cultivating, harvesting, and initial processing of vegetab
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 获得法国雇主工作合同后申请，需符合薪资门槛，适合长期雇员。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 针对高技能人才，如农业领域专家，年薪需达约2倍SMIC，可获多年居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求高学历（Bac+5）或同等经验，薪酬门槛较高，园艺领域较少见。 |
+| Subclass Salarié (Salarié (Employee)) | After obtaining a work contract from a French employer, applicants must meet the salary threshold and are suitable for long-term employees. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled professionals, such as agricultural experts, the annual salary must be approximately 2 times the SMIC, and multiple-year residency can be obtained. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires higher education (BAC+5) or equivalent experience, with a higher salary threshold and is less common in horticulture. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Horticulture And Market Gardening Worker？**
-- 热爱户外体力劳动，不怕风吹日晒
-- 对植物生长和农业技术有兴趣
-- 接受季节性工作及可能的非固定工时
-
-**谁不适合学Horticulture And Market Gardening Worker？**
-- 偏好办公室环境和规律工时
-- 对农药或粉尘过敏者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor physical labor and unafraid of wind and sun
+- Interested in plant growth and agricultural technology
+- Accept seasonal work and possible non-fixed hours
+
+**Who is not suited**
+- Preference for office environments and regular working hours
+- Those allergic to pesticides or dust
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for horticulturists?**
+A: Entry-level about €20,000-24,000/year gross, mid-level €24,000-30,000, senior supervisor €30,000-38,000. Some seasonal workers paid at SMIC hourly rate.
+
+**Q: What routes can foreign horticulturists take to immigrate to France?**
+A: Main route: After obtaining the employer contract, apply for the Salarié work visa; Those with high academic qualifications or high salaries can apply for Passeport Talent. This industry is a scarce occupation and easier to obtain labor permits.
+
+**Q: What educational qualifications are required to work in horticulture?**
+A: Minimum CAP Agricole (2 years), BTS Agricole (2 years) for management roles. Practical experience important; some employers accept training without diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Horticulture And Market Gardening Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for horticulture workers?**
-答：Entry-level: €20,000-24,000/year gross; mid-level: €24,000-30,000; senior: €30,000-38,000. Seasonal workers are paid at SMIC hourly rate.
-
-**问：What migration pathways are available for foreign horticulture workers?**
-答：Main pathway: obtain a job offer and apply for a Salarié work visa. If highly qualified or high salary, you can apply for Passeport Talent. The sector is in shortage, facilitating work permits.
-
-**问：What education is needed for horticulture work?**
-答：Minimum CAP Agricole (2 years), BTS Agricole (2 years) for management. Practical experience is valued; some employers accept on-the-job training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

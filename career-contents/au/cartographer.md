@@ -1,59 +1,95 @@
-# Cartographer（Cartographer）职业分析 · 澳大利亚
+# Cartographer — career analysis · Australia
 
-**职业代码：232213 – Cartographer。**
+**Occupation code: 232213 (ANZSCO)**
 
-Cartographers collect, analyze, and interpret geographic data to create and update digital or paper maps for urban planning, navigation, environmental management, and more.
+Cartographers collect, analyze, and interpret geographic data to create and update digital or paper maps for urban planning, navigation, environmental management, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（澳洲大学年均学费，本地生较低） |
-| 硕士 | 1.5-2年 | $35,000~$50,000（GIS或地理学硕士，部分大学提供奖学金） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Average annual tuition fees at Australian universities, lower for domestic students) |
+| Master's degree | 1.5-2 years | $35,000~$50,000 (Master's degree in GIS or geography; some universities offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地理学或测绘学学士 | 澳洲大学 | 必备 | 通常需要相关学位 |
-| 职业评估（VETASSESS） | VETASSESS | 必备 | 技术移民必备 |
-| GIS认证 | 澳大利亚和新西兰GIS协会 | 可选 | 非强制但利于就业 |
+| Bachelor's degree in geography or surveying | Australian universities | Required | Usually requires a relevant degree |
+| Skills assessment (VETASSESS). | VETASSESS | Required | Essential for skilled migration |
+| GIS certification | Geospatial Information Systems Association of Australia and New Zealand | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。随着地理信息系统（GIS）和遥感技术的发展，地图制图师的需求稳定增长。基础设施项目、城市规划及环境监测领域提供较多就业机会。未来五年预计增长率为中等水平。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,500. With the development of Geographic Information Systems (GIS) and remote sensing technology, demand for cartographers is steadily growing. Infrastructure projects, urban planning, and environmental monitoring offer many job opportunities. Growth rate is expected to be moderate over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 取决于雇主和地区 |
-| 中级（3-7年） | $85,000~$105,000 | 具备GIS技能者薪资较高 |
-| 高级（7年以上） | $110,000~$140,000 | 管理或专家职位 |
+| Median salary | $119,600 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Depends on employer and region |
+| Mid-level (3–7 years) | $85,000~$105,000 | Higher salary for those with GIS skills |
+| Senior (7+ years) | $110,000~$140,000 | Management or specialist positions |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 初级制图师可晋升为高级制图师、GIS分析师或项目经理。拥有GIS或遥感硕士学位的专业人士可向技术专家或管理层发展，也可转向测绘、地理信息科学等相关领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
+
+Junior drafters can advance to senior drafter, GIS analyst, or project manager. Professionals with a master's degree in GIS or remote sensing can move into technical specialist or management roles, or transition into related fields like surveying and geographic information science.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized maps (e.g., road and administrative division maps)
+- Automatically extract features (buildings, vegetation, etc.) from satellite imagery or LiDAR point clouds
+- Automatically classify and label geographic features using machine learning models.
+- Routine map quality checks and updates (version comparison, attribute validation)
+- Automatically generate templated elements like map legends and scale bars.
+
+**Where AI augments the role:**
+
+- Using AI to rapidly process vast amounts of remote sensing data and identify changed areas (e.g., urban expansion, deforestation)
+- Using generative AI to assist in designing 3D city models or thematic map styles
+- AI-driven spatial data analysis (e.g., optimal paths, heat maps) to enhance decision support
+- Combine natural language processing to auto-generate map description text and reports
+- AI-assisted spatial data quality control and anomaly detection to improve data reliability
+
+**Human moat:**
+
+- Establishing data collection standards and quality control processes (to ensure credible AI outputs)
+- Design cartographic algorithms and spatial analysis models for specific application scenarios
+- Cross-departmental coordination and communication (e.g., geographic information needs in urban planning and emergency response)
+- Humanistic and aesthetic judgment in map expression (colors and symbols must align with user cognition)
+- Legal and ethical responsibilities (e.g., map accuracy related to national security)
+
+**Skills to build:**
+
+- AI/ML fundamentals (especially computer vision and natural language processing applied to geographic data).
+- Python/R programming and GIS libraries (e.g., ArcPy, GDAL, Fiona)
+- Deep learning frameworks (TensorFlow/PyTorch) for remote sensing image segmentation and classification
+- Cloud Computing and Big Data Processing (e.g. AWS Earth on AWS, Google Earth Engine)
+- 3D modeling and visualization (Blender, Unity for digital twins)
+- Project management and data governance (ensuring AI project delivery)
+
+**Key growth areas:**
 
 - GIS
 - Remote Sensing
@@ -62,69 +98,68 @@ Cartographers collect, analyze, and interpret geographic data to create and upda
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立签证，需在MLTSSL清单上，通过职业评估，65分起 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需州担保，额外5分 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需有雇主提名 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需雇主提名和职业评估 |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent visa, requires occupation on the MLTSSL, skills assessment, minimum 65 points. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state nomination, extra 5 points |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires employer nomination |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa requiring employer nomination and skills assessment |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cartographer？**
-- 喜欢地理、制图和数据分析
-- 注重细节且有空间想象力
-- 希望在技术移民中有稳定路径
-
-**谁不适合学Cartographer？**
-- 不喜欢长时间使用电脑软件
-- 不善于处理复杂数据
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys geography, cartography, and data analysis
+- Detail-oriented with spatial imagination
+- Desiring a stable pathway in skilled migration
+
+**Who is not suited**
+- Dislikes prolonged use of computer software
+- Not good at handling complex data
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a cartographer?**
+A: Junior: approx. AU$65,000-80,000 per year; intermediate: AU$85,000-105,000; senior: AU$110,000-140,000. Government roles are slightly lower but have better benefits.
+
+**Q: Is it easy for cartographers to immigrate to Australia?**
+A: This occupation is on the MLTSSL, eligible for immigration via visas 189/190/482/186. Requires VETASSESS skills assessment, typically a relevant degree, and a minimum EOI score of 65.
+
+**Q: What skills does a cartographer need?**
+A: Requires GIS software (e.g., ArcGIS, QGIS), remote sensing technology, data analysis, map design, and good communication skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Cartographer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cartographers?**
-答：Entry-level salary is around AUD 65,000-80,000; mid-level AUD 85,000-105,000; senior AUD 110,000-140,000. Government roles pay slightly less but offer better benefits.
-
-**问：Is it easy for cartographers to migrate to Australia?**
-答：The occupation is on the MLTSSL, eligible for 189/190/482/186 visas. A VETASSESS assessment is required, typically needing a relevant degree. EOI score starts at 65.
-
-**问：What skills are required for cartographers?**
-答：Proficiency in GIS software (e.g., ArcGIS, QGIS), remote sensing, data analysis, map design, and good communication skills.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

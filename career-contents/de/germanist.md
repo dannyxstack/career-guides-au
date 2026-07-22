@@ -1,62 +1,97 @@
-# Germanist（Germanist）职业分析 · DE
+# Germanist — career analysis · Germany
 
-**职业代码：9111 – Germanist。**
+**Occupation code: 9111 (KldB)**
 
-A Germanist specializes in German linguistics, literature, and cultural studies, working in academia, research, publishing, or cultural institutions, focusing on text analysis, teaching, or translation.
+German language and literature experts engage in the study of German linguistics, literature, and culture, and can work in universities, research institutions, publishers, or cultural organizations, focusing on German text analysis, teaching, or translation.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（大学） | —（德国公立大学每学期仅收注册费（约150-400欧元）） |
-| 硕士 | 2年（大学） | —（通常需本科学位，部分大学免学费） |
-| 博士 | 3-5年 | —（博士阶段通常有奖学金或职位，学费极低） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,500 (German public universities charge only a registration fee per semester (approx. 150-400 euros).) |
+| Master's degree | 2 years (university) | $0~$1,500 (Usually requires a bachelor's degree, some universities offer free tuition) |
+| Doctorate | 3-5 years | $0~$500 (Doctoral programs usually have scholarships or positions, with very low tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德语语言文学硕士学位 | 德国大学 | 必备 | 通常需完成德国大学认可的相关专业硕士 |
-| 博士学位 | 德国大学 | 可选 | 高校教授职位通常要求博士 |
-| 翻译认证 | 联邦翻译协会（BDÜ） | 可选 | 非必须，但有助于从事翻译工作 |
+| Master's degree in German language and literature | German university | Required | Usually requires a master's degree in a relevant field recognized by a German university |
+| Doctoral degree (PhD) | German university | Optional | University professor positions usually require a PhD |
+| Translation Certification | Federal Association of Interpreters and Translators (BDÜ) | Optional | Not mandatory, but helpful for translation work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。德国对德语语言文学专家的需求稳定，但岗位多集中在高校和科研机构，竞争激烈。由于数字化和跨学科趋势，具备数字人文或应用语言学技能者机会更多。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. Demand for German language and literature specialists in Germany is stable, but positions are mostly in universities and research institutions, with fierce competition. Due to digitalization and interdisciplinary trends, those with digital humanities or applied linguistics skills have more opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 科研助理或初级讲师 |
-| 中级（4-8年） | $45,000~$60,000 | 资深研究员或副教授 |
-| 高级（9年以上） | $60,000~$80,000 | 教授或高级管理职位 |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research assistant or junior lecturer |
+| Mid-level (4–8 years) | $45,000~$60,000 | Senior researcher or associate professor |
+| Senior (9+ years) | $60,000~$80,000 | Professor or senior management position |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业晋升路径通常从科研助理或讲师开始，通过教授资格（Habilitation）或取得博士学位后成为教授。也可转向出版业、文化管理或自由职业。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on artists is mixed: generative AI can quickly produce visual content, reducing entry-level jobs in commercial illustration and design; but it also amplifies creative exploration and digital art capabilities, spawning new tools and expressions.
+
+Career progression typically starts as a research assistant or lecturer, becoming a professor through habilitation or after obtaining a PhD. Alternatively, can move into publishing, cultural management or freelance work.
+
+**Tasks most exposed to AI:**
+
+- Generate commercial illustration drafts and assets
+- Perform standardized background and texture painting.
+- Produce decorative patterns in bulk according to specified style
+- Basic photo restoration and colour correction
+
+**Where AI augments the role:**
+
+- Use AI to quickly generate inspiration sketches and mood boards
+- Using AI tools to explore different artistic styles and color schemes
+- Combines AI enhancement and restoration of details in historical paintings.
+- Generate variants through AI to iterate creative directions
+- Using AI to assist in creating surreal or abstract artworks
+
+**Human moat:**
+
+- Original artistic concepts and unique aesthetic judgment
+- Emotional expression and narrative depth
+- Craftsmanship and material texture control
+- Interpersonal communication and understanding with clients/curators
+- Art criticism and cultural interpretation skills
+
+**Skills to build:**
+
+- Proficient in using AI generation tools like Midjourney, DALL·E
+- AI prompt engineering and style control
+- Digital painting and 3D modeling software (e.g., Procreate, Blender)
+- Art history and contemporary art theory
+- Project management and client communication
+- Basic programming (e.g., Python automation workflows).
+
+**Key growth areas:**
 
 - Digital Humanities
 - Applied Linguistics
@@ -65,62 +100,64 @@ A Germanist specializes in German linguistics, literature, and cultural studies,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需获得德国大学相关专业学位，并有符合年薪标准的工作合同。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 通过积分制获得，可在德国找工作时间一年，适合尚未找到工作的毕业生。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must obtain a degree in a relevant field from a German university and have a job contract meeting the annual salary standard. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Obtained through a points system, allowing one year to find a job in Germany, suitable for graduates who have not yet found employment. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Germanist？**
-- 对德语语言文学有深厚兴趣和学术热情
-- 喜欢独立研究与文本分析工作
-- 愿意接受学术竞争和不稳定职位
+**Who is suited**
+- A strong interest and academic passion for German language and literature
+- People who enjoy independent research and text analysis work
+- Willing to accept academic competition and unstable positions
 
-**谁不适合学Germanist？**
-- 追求高薪和稳定职业前景
-- 对跨学科或非学术应用领域不感兴趣
+**Who is not suited**
+- Seeking high salary and stable career prospects
+- Not interested in interdisciplinary or non-academic applications
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for German language and literature specialists?**
+A: Entry-level annual salary is approximately EUR 35,000-45,000, professors can reach EUR 80,000, but academic positions are competitive with limited income growth.
+
+**Q: How can foreigners immigrate to Germany with a German language and literature degree?**
+A: Requires a master's degree from a German university; after securing a relevant job, a work visa can be applied for via the skilled migration law. However, it is not a shortage occupation, making immigration more difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Germanist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Germanists?**
-答：Entry-level salaries range from €35,000-45,000, with professors earning up to €80,000, but academic positions face intense competition.
-
-**问：How can foreigners migrate to Germany through German studies?**
-答：You need a master's degree from a German university and a job offer, then apply via the Skilled Worker Act. However, it's not a shortage occupation, making migration difficult.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

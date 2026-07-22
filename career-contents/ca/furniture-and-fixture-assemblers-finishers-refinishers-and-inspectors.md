@@ -1,59 +1,94 @@
-# Furniture and fixture assemblers, finishers, refinishers and inspectors（Furniture and fixture assemblers, finishers, refinishers and inspectors）职业分析 · 加拿大
+# Furniture and fixture assemblers, finishers, refinishers and inspectors — career analysis · Canada
 
-**职业代码：94210 – Furniture and fixture assemblers, finishers, refinishers and inspectors。**
+**Occupation code: 94210 (NOC)**
 
-Assemble, finish, refinish, and inspect furniture and fixtures to ensure quality and appearance meet standards.
+Responsible for assembly, finishing, renovation, and inspection of furniture and fixtures to ensure product quality and appearance meet standards.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（通常无需高等教育） |
-| 在职培训 | 3-12个月 | —（雇主提供的在职培训） |
+| High school diploma | 4 years | $0~$0 (Usually no higher education required) |
+| On-the-job training | 3-12 months | $0~$1,000 (Employer-provided on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 通常不需要特定认证，但雇主可能偏好有经验者 |
+| No mandatory certification | None | Optional | Usually no specific certification required, but employers may prefer experienced candidates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。加拿大住房和商业装修需求稳定，但自动化可能影响低技能岗位。预计未来十年就业增长缓慢，部分岗位因制造业外包而减少。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Demand for housing and commercial renovation in Canada is stable, but automation may affect low-skilled jobs. Employment growth is expected to be slow over the next decade, with some positions decreasing due to manufacturing outsourcing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 入门级薪资 |
-| 中级（3-6年） | $38,000~$48,000 | 有经验技工 |
-| 高级（6年以上） | $48,000~$60,000 | 高级技工或检验员 |
+| Median salary | $47,403 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$38,000 | Entry-level salary |
+| Mid-level (3–6 years) | $38,000~$48,000 | Experienced tradesperson |
+| Senior (6+ years) | $48,000~$60,000 | Senior technician or inspector |
+| average salary | $47,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从组装工晋升为高级技工或检验员，或转向定制家具制造、家具修复等细分领域。积累经验后可自雇或创业。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Furniture finishers face dual impacts from automation and AI assistance: standardized spraying can be automated, but high-precision manual finishing, color matching, and artistic restoration rely on experience and aesthetics and are currently safe; overall workload is reduced but skill requirements increase.
+
+Can advance from assembler to senior technician or inspector, or move into niche areas such as custom furniture manufacturing or furniture restoration. With experience, can become self-employed or start a business.
+
+**Tasks most exposed to AI:**
+
+- Uses automated spray painting machines for uniform primer and topcoat application
+- Automatically detect furniture surface defects and record them using AI vision system
+- Use computer color matching software to replace manual mixing of standard color paints
+- Operate CNC grinding machines for standardized surface finishing
+
+**Where AI augments the role:**
+
+- AI-assisted color matching system helps quickly match complex color formulations
+- AR try-on tools let customers preview modifications, reducing rework
+- Automated spraying combined with manual fine painting for high efficiency and quality
+- Digital archive management platforms record restoration techniques, aiding in preserving craftsmanship
+- AI analyzes wood grain to recommend optimal finishing solutions
+
+**Human moat:**
+
+- Complex hand-carved detailing and antique finishing artistic treatments
+- Restoration assessment and material identification of valuable antique furniture
+- Insight into customer needs and aesthetic decisions in client communication
+- Flexibility to adapt to irregular surface conditions during on-site repairs.
+- Mixes multiple media to create unique surface effects
+
+**Skills to build:**
+
+- Proficient in programming and operating automated spraying equipment
+- Learn AI color matching software and color management tools
+- Strengthened hand carving and fine finishing techniques
+- Mastering AR/VR presentation tools for client communication.
+- Learn digital archive management and process documentation methods
+- Enhance knowledge of furniture restoration and materials science
+
+**Key growth areas:**
 
 - Moderate demand
 - Residential construction
@@ -62,68 +97,67 @@ Assemble, finish, refinish, and inspect furniture and fixtures to ensure quality
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地工人，通过LMIA获得工签 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能提名该职业，但机会有限 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must prove inability to hire local workers, obtain work permit via LMIA |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may nominate this occupation, but opportunities are limited |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Furniture and fixture assemblers, finishers, refinishers and inspectors？**
-- 动手能力强、注重细节的人
-- 喜欢手工制作和家具修复的人
-- 愿意从事制造业或建筑行业蓝领工作的人
-
-**谁不适合学Furniture and fixture assemblers, finishers, refinishers and inspectors？**
-- 追求高薪和快速晋升的人
-- 希望从事办公室或专业技术工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, detail-oriented people
+- People who enjoy handicrafts and furniture restoration.
+- People willing to work in blue-collar jobs in manufacturing or construction
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who wish to work in office or professional technical roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for furniture assemblers in Canada?**
+A: Junior: approximately CAD 30,000-38,000; mid-level: CAD 38,000-48,000; senior: up to CAD 60,000.
+
+**Q: Can furniture assemblers immigrate to Canada?**
+A: This occupation usually does not meet Express Entry requirements, but may be possible through LMIA employer sponsorship or some provincial nominations, though difficult.
+
+**Q: What certificates are needed for furniture assembly?**
+A: In Canada, no mandatory certification is usually required, but employers may prefer candidates with experience or completed apprenticeship training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Furniture and fixture assemblers, finishers, refinishers and inspectors为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for furniture assemblers in Canada?**
-答：Entry-level CAD 30,000-38,000; mid-level CAD 38,000-48,000; senior up to CAD 60,000.
-
-**问：Can furniture assemblers immigrate to Canada?**
-答：Usually not eligible for Express Entry, but possible via LMIA or some PNP streams, though difficult.
-
-**问：What certification is required for furniture assemblers?**
-答：No mandatory certification in Canada, but employers may prefer experience or apprenticeship.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

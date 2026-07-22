@@ -1,60 +1,96 @@
-# Mining and Quarrying Operations Director and Engineer（Mining and Quarrying Operations Director and Engineer）职业分析 · FR
+# Mining and Quarrying Operations Director and Engineer — career analysis · France
 
-**职业代码：F1203 – Mining and Quarrying Operations Director and Engineer。**
+**Occupation code: F1203 (ROME)**
 
-Plans, organizes, and manages mining or quarrying operations, ensuring safe, efficient production and compliance with environmental regulations.
+Responsible for planning, organizing, and managing mineral or quarry mining projects to ensure production safety, efficiency, and compliance with environmental regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 工程师文凭 (Ingénieur) 或硕士 (Master) | 5年（工程师学校） | $8,000~$25,000（学费因学校而异，公立大学约8000欧元/年，工程师学校约15000欧元/年） |
-| BTS地质学/矿业 | 2年 | $3,000~$8,000（公立学校学费低，私立约8000欧元/年） |
-| 职业学士 (Licence Pro) | 3年 | $3,000~$10,000（公立大学约3000欧元/年） |
+| Ingénieur (Engineer Diploma) or Master's | 5 years (engineering school) | $8,000~$25,000 (Tuition varies by institution; public universities around EUR 8,000/year, engineering schools around EUR 15,000/year) |
+| BTS Geology/Mining | 2 years | $3,000~$8,000 (Public school tuition is low, with private tuition around 8,000 euros per year) |
+| Bachelor of Vocational (Licence Pro) | 3 years | $3,000~$10,000 (Public universities cost about 3,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师文凭 (CTI认证) | CTI认证工程师学校 | 必备 | 必备资质，证明工程能力 |
-| 安全资格 (CARSAT/INRS) | CARSAT/INRS | 必备 | 部分岗位需特定安全培训证书 |
-| 法国资质认证 (Reconnaissance de qualification) | 法国工程师协会 | 可选 | 对外国工程师进行资质对等认证，非强制但有助于就业 |
+| Engineer Diploma (CTI Certification) | CTI Certified Engineering School | Required | Essential qualifications to prove engineering capability |
+| Safety Qualification (CARSAT/INRS) | CARSAT/INRS | Required | Some positions require specific safety training certificates |
+| French Qualification Certification (Reconnaissance de qualification) | French Engineers Association | Optional | Equivalence certification for foreign engineers is not mandatory but helps with employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 4,500。法国矿业和采石业就业前景稳定，受资源需求和绿色转型驱动。自动化技术应用增加，但对高级工程师需求持续。
+**Job demand: medium (★★★☆☆).** National workforce approx. 4,500. Employment prospects in France's mining and quarrying industries are stable, driven by resource demand and green transition. The application of automation technology is increasing, but the demand for senior engineers remains strong.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪，视公司规模而定 |
-| 中级（4-10年） | $55,000~$75,000 | 项目经理或资深工程师 |
-| 高级（10年以上） | $75,000~$100,000 | 运营总监级别 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Annual pre-tax salary, depending on company size |
+| Mid-level (4-10 years). | $55,000~$75,000 | Project managers or senior engineers |
+| Senior (10+ years) | $75,000~$100,000 | Operations Director level |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从现场工程师晋升为项目经理、运营总监，再到区域总监或公司高管。需积累技术和管理经验。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation will have mixed impacts on mining and geological engineers: data analysis and monitoring tasks are replaced, but on-site decision-making, safety management, and compliance responsibilities increase, jobs won't disappear but require continuous learning.
+
+Promoted from field engineer to project manager, operations director, then regional director, or company executive. Technical and management experience must be accumulated.
+
+**Tasks most exposed to AI:**
+
+- Automated entry, organization, and preliminary analysis of geological data
+- Conventional geological modeling and reserve estimation
+- Automated monitoring and early warning report generation based on sensor data
+- Completion of standard safety checklists and automated generation of compliance documents
+- Routine mine map updates and data synchronization
+
+**Where AI augments the role:**
+
+- AI-assisted geological modeling improves exploration efficiency and prediction accuracy.
+- Intelligent early warning and decision support based on real-time monitoring data
+- Automated drone inspection and image analysis enhance on-site monitoring
+- AI optimizes mining plans and resource scheduling
+- Virtual reality/augmented reality for training and safety simulation
+
+**Human moat:**
+
+- On-site judgment and emergency decision-making under complex geological conditions
+- Interpretation of mine safety regulations and compliance responsibilities
+- Interdisciplinary team coordination and multi-stakeholder communication
+- Innovative mining solution design (e.g., green mining)
+- Field survey and abnormal situation handling
+
+**Skills to build:**
+
+- Geological data science and machine learning basics
+- Python/R programming and GIS automation
+- Digital mine and IoT platform operation
+- 3D modeling and visualization tools (e.g., Leapfrog)
+- Human-machine collaboration and AI-assisted decision-making skills
+- Knowledge of sustainable mining and environmental management
+
+**Key growth areas:**
 
 - Automation
 - Green transition
@@ -63,68 +99,67 @@ Plans, organizes, and manages mining or quarrying operations, ensuring safe, eff
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，包括工程师，有效期4年，可续签 |
-| Subclass Carte bleue européen（EU Blue Card） | 针对高薪技术人才，薪资需达法国平均年薪1.5倍，约57,000欧元/年 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，有效期1-4年，取决于合同 |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled professionals, including engineers, valid for 4 years, renewable |
+| Subclass Carte bleue européen (EU Blue Card) | For high-paying technical talent, the salary must reach 1.5 times the French average annual salary, about 57,000 euros per year |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, valid for 1-4 years, depending on the contract |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining and Quarrying Operations Director and Engineer？**
-- 有矿业或土木工程背景的工程师
-- 喜欢户外和现场工作
-- 能在偏远地区工作
-
-**谁不适合学Mining and Quarrying Operations Director and Engineer？**
-- 偏好城市办公环境
-- 不愿长期出差
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineers with a background in mining or civil engineering
+- Enjoy outdoor and on-site work
+- Able to work in remote areas
+
+**Who is not suited**
+- Prefer urban office environment
+- Unwilling to travel for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mining engineers?**
+A: Junior annual salary around €40,000-55,000, senior up to €100,000+, with significant variation by industry and company size.
+
+**Q: How can foreigners obtain a work visa for French mining engineers?**
+A: Eligible for Talent Passport or EU Blue Card. Requires a job contract with a French employer and meeting salary thresholds. Engineering qualifications must be assessed by the French engineering council.
+
+**Q: What are the main career progression paths for this occupation?**
+A: Promoted from site engineer to project manager, operations director, and then regional director. Technical and management experience must be accumulated.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Mining and Quarrying Operations Director and Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining engineers?**
-答：Entry-level annual salary is around €40,000-55,000, senior can reach over €100,000, depending on industry and company size.
-
-**问：How can foreigners get a work visa for mining engineer in France?**
-答：Apply for Talent Passport or EU Blue Card. Requires a job offer from a French employer with sufficient salary. Engineering qualifications must be assessed by the French engineering council.
-
-**问：What is the main career progression for this occupation?**
-答：From field engineer to project manager, operations director, then regional director. Requires technical and management experience.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

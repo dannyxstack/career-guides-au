@@ -1,59 +1,92 @@
-# Driver of Animal-drawn Vehicles and Machinery（Driver of Animal-drawn Vehicles and Machinery）职业分析 · IE
+# Driver of Animal-drawn Vehicles and Machinery — career analysis · Ireland
 
-**职业代码：9332 – Driver of Animal-drawn Vehicles and Machinery。**
+**Occupation code: 9332 (ISCO08)**
 
-Drivers of animal-drawn vehicles and machinery in Ireland operate horse-drawn carts or agricultural equipment, often found in rural areas, farms, and tourist attractions like carriage rides, requiring physical stamina and outdoor work.
+Irish animal-drawn vehicle and machinery drivers operate animal-drawn vehicles or simple agricultural machinery, commonly found in rural areas, farms, and tourist attractions (e.g., carriage tours). Work environment is mainly outdoors with high physical demands.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中及以下 | 无特定要求 | —（通常在职学习，无正式教育费用） |
+| Junior High School and Below | No specific requirements | $0~$0 (Usually on-the-job learning with no formal education costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需认证（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物驾驶操作证书 | 爱尔兰农业、食品和海洋部 | 可选 | 建议但非强制，用于农场及旅游安全 |
-| 急救证书 | 爱尔兰红十字会 | 可选 | 部分雇主要求 |
+| Animal driving operation certificate | Irish Department of Agriculture, Food and the Marine | Optional | Recommended but not mandatory, for farm and tourism safety |
+| First aid certificate | Irish Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 200。爱尔兰该职业就业规模极小，受农业机械化及旅游业季节性影响，需求稳定但有限。欧盟劳动力自由流动对该职业影响不大，本地从业者为主。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 200. Employment in this occupation in Ireland is very small; affected by agricultural mechanization and seasonal tourism, demand is stable but limited. Free movement of EU labor has little impact, with local workers dominating.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 时薪约10-12欧元 |
-| 中级（2-5年） | $22,000~$28,000 | 含经验补贴 |
-| 高级（5年以上） | $28,000~$35,000 | 主管或特殊技能岗位 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $18,000~$22,000 | Hourly wage approximately 10-12 EUR. |
+| Intermediate (2-5 years) | $22,000~$28,000 | Including experience allowance |
+| Senior (5+ years) | $28,000~$35,000 | Supervisor or special skill position |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展路径有限，通常由农场学徒或旅游服务人员晋升而来，可向农场主管或旅游运营管理方向转型，但晋升空间较小。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Animal-drawn vehicle and machinery drivers face automation risks in Ireland, but demand remains due to rural tourism and traditional events; AI mainly assists with route planning and maintenance. Job opportunities will shrink but not disappear.
+
+Career progression is limited, typically advancing from farm apprentice or tourism service staff, with possible transition to farm supervisor or tourism operations management, but with limited upward mobility.
+
+**Tasks most exposed to AI:**
+
+- GPS navigation and route planning tasks replaced by AI
+- Simple agricultural machinery operation (e.g., tractors) is being replaced by automation
+- Basic vehicle fault diagnosis taken over by AI systems
+- Scheduling and task allocation are done by algorithms
+
+**Where AI augments the role:**
+
+- AI-assisted livestock health monitoring improves work efficiency
+- Augmented reality (AR) for route and environment cues
+- AI analyzes weather and soil conditions to optimize travel plans
+- Automated report generation and log recording reduce paperwork.
+
+**Human moat:**
+
+- Ability to understand, calm, and handle emergencies with animals
+- Decision-making and judgment in complex, unstructured environments
+- Interpersonal interaction and customer service in traditional horse-drawn carriage tours.
+- Sensitivity to the health and condition of livestock
+
+**Skills to build:**
+
+- Basic mechanical and electric vehicle repair skills
+- Digital scheduling and GPS system operation
+- Knowledge of animal behavior and health management
+- Customer Service and Tour Guidance Skills
+- Basic data entry and reporting skills
+- Knowledge of environmental protection and sustainable development
+
+**Key growth areas:**
 
 - Stable demand
 - Rural tourism
@@ -62,64 +95,66 @@ Drivers of animal-drawn vehicles and machinery in Ireland operate horse-drawn ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪须高于30,000欧元，该职业通常不满足薪资要求。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in shortage, requires employer sponsorship, annual salary must exceed €30,000, and this occupation typically does not meet salary requirements. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Driver of Animal-drawn Vehicles and Machinery？**
-- 热爱户外工作及动物
-- 居住在爱尔兰农村地区
-- 能适应季节性工作
+**Who is suited**
+- Enjoys outdoor work and animals
+- Living in rural areas of Ireland
+- Able to adapt to seasonal work
 
-**谁不适合学Driver of Animal-drawn Vehicles and Machinery？**
-- 寻求高收入者
-- 希望移民爱尔兰者
+**Who is not suited**
+- Seeking high earners
+- Those wishing to immigrate to Ireland
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of animal-powered vehicle drivers in Ireland?**
+A: Salaries are relatively low; entry-level annual salary is about 18,000-22,000 euros, senior positions do not exceed 35,000 euros, and most roles are part-time or seasonal.
+
+**Q: Is this occupation suitable for immigrating to Ireland?**
+A: Not suitable. This occupation is not in shortage, the salary is below the work permit threshold, and you cannot obtain a key skills employment permit. Immigration pathways are virtually non-existent.
+
+**Q: Does this career have prospects for development in Ireland?**
+A: Limited prospects. Mechanized farming reduces demand, but tourism carriage projects offer few opportunities; advancement is narrow, so consider transitioning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无需认证（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Driver of Animal-drawn Vehicles and Machinery属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for drivers of animal-drawn vehicles in Ireland?**
-答：Salaries are low, with entry-level annual wages around €18,000-22,000 and senior roles up to €35,000, often part-time or seasonal.
-
-**问：Is this occupation suitable for migrating to Ireland?**
-答：No. The occupation is not on the shortage list, salaries fall below work permit thresholds, and no critical skills path exists, making migration virtually impossible.
-
-**问：Does this occupation have career prospects in Ireland?**
-答：Limited. Mechanization reduces demand, though tourism carriage rides offer some opportunities; upward mobility is narrow, and transitioning to other roles is advised.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

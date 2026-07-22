@@ -1,59 +1,94 @@
-# Actor（Actor）职业分析 · IE
+# Actor — career analysis · Ireland
 
-**职业代码：2655 – Actor。**
+**Occupation code: 2655 (ISCO08)**
 
-Actors portray roles in theatre, film, television, or radio, interpreting scripts to entertain audiences. The profession is highly competitive with irregular employment, often project-based.
+Actors portray characters on stage, in film, or on television, interpreting scripts to entertain audiences. This career is competitive with unstable employment, usually working on a project basis.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后培训 | 1-2年（证书） | $3,000~$10,000（戏剧学校或演技课程） |
-| 本科 | 3-4年（本科） | $12,000~$20,000（国立艺术设计学院等） |
+| Post-high school training | 1-2 years (certificate) | $3,000~$10,000 (Drama school or acting program) |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $12,000~$20,000 (National Art and Design School, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格 | 无 | 可选 | 经验比证书更重要 |
+| No mandatory qualifications | None | Optional | Experience Matters More Than Certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。爱尔兰影视业持续增长，但演员岗位有限，兼职普遍。政府支持本土制作，但多数演员需从事其他工作维持生计。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. Ireland's film industry continues to grow, but acting roles are limited and part-time work is common. Government supports local productions, but most actors need other jobs to make a living.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 多数兼职，收入不稳定 |
-| 中级（3-10年） | $25,000~$50,000 | 定期角色或领衔 |
-| 高级（10年以上） | $50,000~$120,000 | 知名演员或主要角色 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Mostly part-time, unstable income |
+| Intermediate (3-10 years) | $25,000~$50,000 | Regular role or lead |
+| Senior (10+ years) | $50,000~$120,000 | Famous actor or lead role |
+| average salary | $47,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从龙套角色起步，逐步积累经验和人脉，可晋升至配角、主角。部分演员转型导演、编剧或戏剧教育。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Starting from minor roles, gradually gaining experience and connections, can advance to supporting and leading roles. Some actors transition to directing, screenwriting, or drama education.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - Film production
 - Television series
@@ -62,62 +97,64 @@ Actors portray roles in theatre, film, television, or radio, interpreting script
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于高技能工作，但演员通常不符合条件。 |
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，通常要求年薪≥30,000欧元。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to high-skilled jobs, but actors usually do not meet the conditions. |
+| Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, typically an annual salary of at least €30,000. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Actor？**
-- 擅长表演与模仿
-- 能接受不稳定收入
-- 有强韧心理素质
+**Who is suited**
+- Good at performance and imitation
+- Can accept unstable income
+- Strong mental resilience
 
-**谁不适合学Actor？**
-- 追求稳定经济保障者
-- 不愿频繁试镜或拒绝者
+**Who is not suited**
+- Those seeking stable financial security
+- Those unwilling to frequently audition or who decline roles
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income for actors in Ireland?**
+A: Very unstable, most part-time annual salary below 25,000 euros, a few famous actors can reach six figures.
+
+**Q: Can non-EU actors come to work in Ireland?**
+A: Very difficult, requiring employer sponsorship and meeting minimum salary thresholds, unless internationally renowned as an actor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Actor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for actors in Ireland?**
-答：Highly variable; many earn less than €25,000 annually part-time, while a few well-known actors earn six figures.
-
-**问：Can non-EU actors work in Ireland?**
-答：Very difficult; requires employer sponsorship and meeting salary thresholds, except for internationally recognized actors.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

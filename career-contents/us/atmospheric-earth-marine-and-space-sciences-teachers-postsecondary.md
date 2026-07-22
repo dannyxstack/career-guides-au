@@ -1,59 +1,95 @@
-# Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary（Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary）职业分析 · 美国
+# Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1051 – Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary。**
+**Occupation code: 25-1051 (SOC)**
 
-Teach courses in atmospheric, earth, marine, and space sciences at postsecondary institutions, combining teaching and research.
+Teach atmospheric, earth, ocean, and space science courses at universities or colleges, combining teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $100,000~$200,000（含学费和生活费） |
-| 硕士学位 | 2-3年 | $50,000~$100,000（通常为博士前阶段） |
+| Doctoral degree (PhD) | 5-7 years | $100,000~$200,000 (Including tuition and living expenses) |
+| Master's degree | 2-3 years | $50,000~$100,000 (Typically pre-doctoral stage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 地球科学、大气科学等相关领域 |
-| 博士后研究经验 | 研究机构 | 可选 | 通常需要2-3年 |
-| 教学经验 | 大学 | 可选 | 助教或讲师经历 |
+| Doctoral degree (PhD) | University | Required | Earth sciences, atmospheric sciences, or related fields |
+| Postdoctoral research experience | Research institutions | Optional | Typically requires 2-3 years |
+| Teaching experience | University | Optional | Teaching assistant or lecturer experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。美国劳工统计局预计该职业就业增长约5%，与平均水平相当。职位依赖大学预算和研究经费，竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The U.S. Bureau of Labor Statistics projects about 5% job growth for this occupation, average for all occupations. Positions depend on university budgets and research funding, competition is intense.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 讲师或助理教授 |
-| 中级（4-7年） | $70,000~$100,000 | 副教授 |
-| 高级（8年+） | $90,000~$150,000 | 正教授 |
+| Median salary | $103,170 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Lecturer or assistant professor |
+| Mid-level (4-7 years) | $70,000~$100,000 | associate professor |
+| Senior (8+ years) | $90,000~$150,000 | Full professor |
+| average salary | $116,020 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 常见路径：讲师→助理教授→副教授→正教授。需发表研究成果，获得终身教职后职业稳定。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Common path: lecturer → assistant professor → associate professor → full professor. Requires research publications; career stability after achieving tenure.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - steady demand
 - research funding dependent
@@ -62,68 +98,67 @@ Teach courses in atmospheric, earth, marine, and space sciences at postsecondary
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学通常为教授职位申请H-1B签证，无配额限制（cap-exempt）。 |
-| Subclass EB-2（EB-2 Advanced Degree） | 博士学位可申请EB-2职业移民绿卡，需PERM或国家利益豁免(NIW)。 |
-| Subclass Green Card (PERM)（EB-2/EB-3 PERM） | 大学为终身教职教授申请PERM劳工证，流程较长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Universities typically apply for H-1B visas for professor positions, which are cap-exempt. |
+| Subclass EB-2 (EB-2 Advanced Degree) | PhD can apply for EB-2 employment-based green card, requires PERM or National Interest Waiver (NIW). |
+| Subclass Green Card (PERM) (EB-2/EB-3 PERM) | University applies for PERM labor certification for tenured professors; process is lengthy |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary？**
-- 热爱教学与研究
-- 具备博士学位和科研能力
-- 能适应学术竞争
-
-**谁不适合学Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary？**
-- 偏好高薪行业
-- 不愿长期深造
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and research
+- Hold a doctoral degree and have research capabilities
+- Able to adapt to academic competition
+
+**Who is not suited**
+- Prefer high-paying industries
+- Unwilling to pursue long-term further education
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for atmospheric science professors?**
+A: Junior annual salary approximately $55,000-75,000; senior professor up to $90,000-150,000, depending on institution type and region.
+
+**Q: How can foreign professors stay in the US through work visas?**
+A: Typically apply for H-1B visa first (universities are cap-exempt), then transition to permanent residency via EB-2 green card (requires PERM or NIW).
+
+**Q: Is the job competition intense for this occupation?**
+A: Highly competitive, especially for positions at prestigious universities. Requires a PhD, publications, and teaching experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for atmospheric science professors?**
-答：Entry-level salaries range from $55,000 to $75,000; senior professors earn $90,000 to $150,000, varying by institution and location.
-
-**问：How can foreign professors obtain a work visa in the US?**
-答：Typically, apply for an H-1B visa (universities are cap-exempt), then pursue an EB-2 green card via PERM or NIW.
-
-**问：Is the job market competitive for this profession?**
-答：Highly competitive, especially at top universities. Requires a PhD, publications, and teaching experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

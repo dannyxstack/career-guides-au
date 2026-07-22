@@ -1,60 +1,94 @@
-# Legal Collaboration Officer（Legal Collaboration Officer）职业分析 · FR
+# Legal Collaboration Officer — career analysis · France
 
-**职业代码：K1902 – Legal Collaboration Officer。**
+**Occupation code: K1902 (ROME)**
 
-Legal collaboration officers assist lawyers or legal managers in law firms or corporate legal departments with case preparation, contract drafting, and legal research.
+Legal collaborators work in law firms or corporate legal departments, participating in case preparation, contract drafting, and legal research, assisting lawyers or legal managers in daily work.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+法律预科 | 1年（Prépa Droit） | $2,000~$5,000（公立预科费用较低） |
-| 法律学士 | 3年（Licence en Droit） | $3,000~$15,000（公立大学约3000欧元/年，私立高等商学院更高） |
-| 法律职业硕士 | 2年（Master en Droit） | $4,000~$20,000（专业方向如商法、劳动法） |
+| High school graduation + law preparatory course | 1 year (Prépa Droit) | $2,000~$5,000 (Public foundation courses are relatively low) |
+| Bachelor of Laws | 3 years (Licence en Droit) | $3,000~$15,000 (Public universities cost about 3,000 euros per year, while private business schools offer even higher fees) |
+| Master of Legal Professions | 2 years (Master en Droit) | $4,000~$20,000 (Specializations include commercial law and labor law) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律学士文凭 | 法国公立大学 | 可选 | 基础准入要求 |
-| 法律硕士文凭 | 法国大学 | 可选 | 多数雇主期望至少硕士水平 |
-| 律师执业资格（CAPA） | 律师公会 | 可选 | 仅当计划成为执业律师时需要 |
+| Bachelor of Laws diploma | A public university in France | Optional | Basic access requirements |
+| Master of Laws diploma | French universities | Optional | Most employers expect at least a master's degree |
+| Qualification to Practice Lawyers (CAPA) | Bar Association | Optional | Only when planning to become a practicing lawyer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国法律行业就业稳定，巴黎及大城市需求较高。中小企业外包法律事务增多，推动此类岗位增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. France's legal industry has stable employment, with high demand in Paris and major cities. The increase in SMEs outsourcing legal affairs is driving growth in such positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $64,032 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为高级法律协作者或转岗至律师助理、法务经理，部分人通过继续教育成为执业律师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will greatly enhance the capabilities of legal collaborators, rather than replace them; Tasks such as contract review and legal research are much more efficient, but caution is needed regarding the shrinkage of junior clerical positions.
+
+Individuals can be promoted to senior legal collaborators or transferred to legal assistants or legal managers, with some becoming practicing lawyers through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Legal document format organization and basic error checking
+- Preliminary legal information retrieval and summary generation
+- Filling and proofreading standard contract templates
+- Automated arrangement of case timelines and evidence catalogs
+
+**Where AI augments the role:**
+
+- AI-assisted analysis and compliance checks of contract terms
+- Intelligent search and association recommendations for case law databases
+- Real-time legal dictionary and citation verification when drafting legal memoranda
+- Preliminary AI-generated draft responses to customer communications
+- Machine translation and terminology unification for multilingual legal documents
+
+**Human moat:**
+
+- Building trust between lawyers and clients
+- Creative design of complex legal strategies and litigation decisions
+- Handling of classified information and judgment of professional ethics
+- Negotiation skills for cross-departmental coordination and dispute resolution
+
+**Skills to build:**
+
+- AI legal tools (such as Kira Systems, Ross Intelligence) are being used
+- Data analysis and visualization
+- RPA automation process design
+- Basic programming (Python or SQL)
+- Project management and cross-team collaboration
+- Legal technology ethics and compliance knowledge
+
+**Key growth areas:**
 
 - Legal Tech
 - Corporate Compliance
@@ -63,68 +97,67 @@ Legal collaboration officers assist lawyers or legal managers in law firms or co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 由法国雇主担保的工作居留，需证明岗位无法由欧盟公民胜任。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如持有硕士以上学历且年薪超过42,052欧元。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪至少53,836.50欧元（2024年标准），适合高级职位。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Work residency sponsored by a French employer requires proof that the position cannot be held by an EU citizen. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as those with a master's degree or above and an annual salary exceeding 42,052 euros. |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual salary of at least 53,836.50 euros (2024 standard), suitable for senior positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal Collaboration Officer？**
-- 法律专业毕业生，希望从事辅助律师工作的人
-- 具备组织能力和细致耐心的文书处理者
-- 计划未来成为律师，需积累实践经验者
-
-**谁不适合学Legal Collaboration Officer？**
-- 希望高薪且快速晋升的人
-- 厌恶案头工作和法律文本处理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Law graduates seeking roles as paralegals
+- A document handler with organizational skills and meticulous patience
+- Those planning to become lawyers in the future need to accumulate practical experience
+
+**Who is not suited**
+- People seeking high pay and fast promotion
+- People who dislike desk work and legal text handling
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for legal collaborators?**
+A: Entry-level salaries are about 28,000-35,000 euros per year, intermediate salaries about 35,000-45,000 euros, and seniors up to 60,000 euros.
+
+**Q: How can a third-country citizen immigrate to France to work as a legal collaborator?**
+A: Talent passports can be applied for through employer-sponsored Salarié residency or Passeport Talent, with an annual salary of 42,052 euros.
+
+**Q: Do legal collaborators have room for promotion?**
+A: You can be promoted to Senior Collaborator, Legal Manager, or become a practicing lawyer by studying for CAPA.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Legal Collaboration Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for legal collaboration officers?**
-答：Entry-level annual salary is about EUR 28,000-35,000, mid-level EUR 35,000-45,000, and senior up to EUR 60,000.
-
-**问：How can third-country nationals immigrate to France as legal collaboration officers?**
-答：They can apply for a Salarié work permit sponsored by an employer, or a Passeport Talent if the salary meets EUR 42,052 per year.
-
-**问：Is there career progression for legal collaboration officers?**
-答：Yes, to senior collaborator, legal manager, or becoming a practicing lawyer by obtaining CAPA.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

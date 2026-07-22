@@ -1,62 +1,97 @@
-# Green Space Maintenance and Development Worker（Green Space Maintenance and Development Worker）职业分析 · FR
+# Green Space Maintenance and Development Worker — career analysis · France
 
-**职业代码：A1203 – Green Space Maintenance and Development Worker。**
+**Occupation code: A1203 (ROME)**
 
-Plans, plants, maintains, and restores green spaces such as parks, gardens, and roadside vegetation. Uses horticultural tools and machinery to ensure aesthetic appeal and ecological balance.
+Responsible for planning, planting, maintaining, and restoring urban and rural green spaces, including parks, gardens, and road greening, using gardening tools and machinery to ensure environmental beauty and ecological balance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 培训 | 1年（CAP） | —（可通过学徒制免费学习并获得报酬） |
-| 高级培训 | 2年（BTS） | —（公立学校免学费，仅注册费） |
-| 本科 | 3年（Licence专业） | —（公立大学免学费，私立院校费用较高） |
+| Training | 1 year (CAP) | $0~$5,000 (You can study for free and receive compensation through apprenticeships) |
+| Advanced training | 2 Years (BTS) | $0~$8,000 (Public schools offer no tuition, only a registration fee) |
+| Bachelor's degree | 3 years (Licence major) | $0~$10,000 (Public universities offer tuition-free tuition, while private institutions charge higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAPA 园艺文凭 | 法国教育部 | 可选 | 入门级职业文凭，从事基本维护工作 |
-| BTSA 风景园林管理 | 法国农业部 | 可选 | 中级文凭，可担任技术员或团队负责人 |
-| 使用 phytosanitaires 产品的认证 | 法国农业部 | 必备 | 若涉及农药使用，需持有 Certiphyto |
+| Certification for using phytosanitaires products | French Ministry of Agriculture | Required | If pesticide use is involved, a Certiphyto must be held |
+| CAPA Diploma in Horticulture | French Ministry of Education | Optional | Entry-level vocational diploma, engaged in basic maintenance work |
+| BTSA Landscape Management | French Ministry of Agriculture | Optional | Intermediate diploma, which allows you to serve as a technician or team leader |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 150,000。法国持续推动城市绿化和生态转型，该岗位需求稳定。老龄化导致退休人员增多，预计未来十年每年需补充约5000名新员工。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. France continues to promote urban greening and ecological transformation, with stable demand for this position. Aging has led to an increase in retirees, and it is expected that about 5,000 new employees will need to be added each year over the next decade.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按 SMIC 增长 |
-| 中级（3-7年） | $26,000~$32,000 | 含技术员或小型团队负责人 |
-| 高级（7年以上） | $32,000~$40,000 | 含项目经理或园林设计师 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually increasing at SMIC |
+| Mid-level (3–7 years) | $26,000~$32,000 | Including technicians or small team leaders |
+| Senior (7+ years) | $32,000~$40,000 | Including project managers or landscape designers |
+| average salary | $20,004 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级工人晋升为团队负责人或技术员，通过获取CAP或BTS文凭可从事设计或管理工作，也可转向生态修复或城市农业等细分领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed benefits for green space maintenance and development workers: repetitive maintenance tasks may be replaced by automated tools, but planning, ecological restoration, and complex decision-making still require human judgment and creativity.
+
+You can be promoted from a junior worker to a team leader or technician, and by obtaining a CAP or BTS diploma, you can work in design or management, or transition to niche fields such as ecological restoration or urban agriculture.
+
+**Tasks most exposed to AI:**
+
+- Automatic lawn mowers and mower robots take over routine lawn mowing
+- The AI irrigation system optimizes watering plans based on sensor data
+- Drones replace manual patrols and pest and disease detection
+- Automated fertilization and spraying systems reduce manual operation
+
+**Where AI augments the role:**
+
+- AI-assisted design software optimizes park layout and plant selection
+- Data analysis tools predict plant growth trends and maintenance needs
+- Ecological restoration projects use AI to simulate the ecological succession process
+- Augmented reality (AR) technology assists in on-site construction staking out
+- The intelligent monitoring system provides real-time environmental data to support decision-making
+
+**Human moat:**
+
+- Complex ecological restoration and biodiversity conservation planning
+- Emergency green space restoration decisions in response to sudden natural disasters
+- Artistic landscape design based on aesthetic and community needs
+- Communication and coordination with stakeholders (residents, government).
+- It is difficult to standardize empirical judgments in the diagnosis of plant pests and diseases
+
+**Skills to build:**
+
+- Operation and maintenance of intelligent irrigation and automated horticultural equipment
+- Application of GIS and remote sensing technology in green space management
+- Principles of ecological restoration and sustainable landscape design
+- Data analysis and visualization tools (such as Python, Tableau)
+- Drone operation and image processing skills
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Urban greening
 - Ecological restoration
@@ -65,65 +100,67 @@ Plans, plants, maintains, and restores green spaces such as parks, gardens, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主担保，提供无差别劳动合同，适用于非紧缺职业。 |
-| Subclass Talent Professionnel（Passeport Talent - Professionnel） | 适用于专业人士，需证明项目对法国经济或文化有益，要求较高。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Requires a French employer sponsorship, provides a non-differential labor contract, and applies to non-urgent occupations. |
+| Subclass Talent Professionnel (Passeport Talent - Professionnel) | Suitable for professionals, requiring proof that the project benefits the French economy or culture, with high requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Green Space Maintenance and Development Worker？**
-- 喜欢户外工作、动手能力和体力劳动者
-- 对园艺和生态保护有热情的人
-- 愿意接受学徒培训并长期扎根法国的人
+**Who is suited**
+- Those who enjoy outdoor work, hands-on skills, and manual labor
+- People passionate about horticulture and ecological conservation
+- Those willing to undertake apprenticeship training and stay rooted in France for a long time
 
-**谁不适合学Green Space Maintenance and Development Worker？**
-- 不习惯户外恶劣天气或体力消耗者
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- For those who are not used to harsh outdoor weather or physical exertion
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for this profession?**
+A: Entry-level positions have a pre-tax annual salary of about 22,000-26,000 euros, basically based on the minimum wage standard.
+
+**Q: Is it easy for foreigners to obtain a French landscape work visa?**
+A: It is more difficult, the profession is not in short supply, requires employers to prove they cannot recruit EU citizens, and usually requires fluency in French.
+
+**Q: What diploma is required?**
+A: A minimum CAP Diploma in Horticulture is sufficient, and BTS can hold higher positions. Apprenticeships are a common pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Green Space Maintenance and Development Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for this occupation?**
-答：Entry-level salary is about €22,000-26,000 gross per year, close to the minimum wage.
-
-**问：Is it easy for foreigners to get a work visa for green space maintenance in France?**
-答：Difficult. The occupation is not in shortage; employers must prove no EU candidate available, and fluent French is typically required.
-
-**问：What qualifications are needed?**
-答：A minimum CAP in horticulture is sufficient; BTS allows for higher roles. Apprenticeship is common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

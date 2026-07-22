@@ -1,60 +1,96 @@
-# Draughtsperson（Draughtsperson）职业分析 · IT
+# Draughtsperson — career analysis · Italy
 
-**职业代码：3118 – Draughtsperson。**
+**Occupation code: 3118 (ISCO08)**
 
-Draughtspersons use computer-aided design (CAD) software to create technical drawings and blueprints for construction, engineering, and manufacturing projects, ensuring compliance with standards.
+Drafters use computer-aided design (CAD) software to create technical drawings and blueprints for construction, engineering, and manufacturing projects. They ensure drawings meet specifications and standards, and collaborate with other professionals.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后职业教育 | 2-3年（职业文凭） | —（公立职业学校免费或低学费） |
-| 本科 | 3年 | $500~$4,000（公立大学学费基于家庭收入） |
+| Post-secondary vocational education | 2-3 years (vocational diploma) | $0~$3,000 (Free or low tuition at public vocational schools) |
+| Bachelor's degree | 3 years | $500~$4,000 (Public university tuition fees based on household income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAD认证 | Autodesk或AICA | 可选 | 非强制但受雇主青睐 |
-| 技术制图员职业资格 | 意大利教育与荣誉部 | 必备 | 公立学校毕业时获得 |
+| Technical drafting qualification | Italian Ministry of Education and Merit | Required | Obtained upon graduation from a public school |
+| CAD certification. | Autodesk or AICA | Optional | Not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利建筑业和制造业对制图员的需求稳定，尤其是在基础设施更新和可再生能源项目中。拥有BIM技能的专业人才更具竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for draftspersons in Italy's construction and manufacturing sectors is stable, especially in infrastructure renewal and renewable energy projects. Professionals with BIM skills are more competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$38,000 | 税前年薪 |
-| 高级（8年以上） | $38,000~$50,000 | 税前年薪 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$38,000 | Annual pre-tax salary |
+| Senior (8+ years) | $38,000~$50,000 | Annual pre-tax salary |
+| average salary | $33,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 制图员可晋升为高级设计师、项目协调员或技术经理，也可通过培训转向BIM专家或建筑信息模型经理。持续学习新技术是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core task of a drafter—generating precise CAD drawings from sketches—is being rapidly automated by AI design tools. Entry-level job demand will significantly decrease, but senior drafters still need to collaborate with AI on complex projects.
+
+Draftspersons can advance to senior designer, project coordinator, or technical manager, or transition through training to BIM specialist or building information model manager. Continuous learning of new technologies is key.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software to create standard 2D technical drawings
+- Convert hand-drawn sketches or scanned drawings into digital drawings.
+- Check drawing dimensions, annotations, etc., for compliance with industry standards
+- Generating repetitive design variants with standard parts libraries
+- Basic 3D model to 2D projection views
+
+**Where AI augments the role:**
+
+- Use AI design assistants to quickly generate preliminary plans, focusing on creative adjustments
+- Use AI simulation analysis to identify structural conflicts in drawings early
+- Quickly Modify Drawing Parameters Using Natural Language Commands
+- Integrate Building Information Modeling (BIM) with AI to check collision issues
+- Automatically generate multiple design options for client or engineer evaluation
+
+**Human moat:**
+
+- Understand design intent and engineering constraints, making creative trade-offs
+- Interpersonal communication and negotiation skills when collaborating with engineers, architects, etc.
+- Handling non-standard, highly customized special structures.
+- Perform quality audit and reliability assessment on AI output
+- Tasks requiring physical presence, such as site inspections and coordination with construction parties.
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit) and AI design plugins
+- Grasp basic programming (Python, Dynamo) to customize automated workflows
+- Learning AI-assisted generative design (Generative Design)
+- Strengthen engineering mechanics and materials knowledge to review AI solutions
+- Enhance cross-departmental communication and project management skills
+- Familiar with point cloud scanning and reverse engineering tools
+
+**Key growth areas:**
 
 - BIM
 - CAD
@@ -63,65 +99,67 @@ Draughtspersons use computer-aided design (CAD) software to create technical dra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，年薪门槛约28,000欧元（2025年），需有工作合同和学历。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟工作者年度配额制，需雇主担保，通常针对技术工人。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled workers, with an annual salary threshold of approximately €28,000 (2025), requiring an employment contract and qualifications. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system for non-EU workers, requiring employer sponsorship, typically for skilled workers. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Draughtsperson？**
-- 注重细节、有条理的人
-- 对CAD和建筑/工程感兴趣的技术型人才
-- 愿意持续学习新软件和技术的人
+**Who is suited**
+- Detail-oriented, organized person
+- Tech-oriented individuals interested in CAD and architecture/engineering
+- people willing to continuously learn new software and technologies
 
-**谁不适合学Draughtsperson？**
-- 不习惯长时间面对电脑和重复性工作的人
-- 缺乏团队协作和沟通能力的人
+**Who is not suited**
+- People not accustomed to long hours in front of a computer and repetitive work
+- People lacking teamwork and communication skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a cartographer in Italy?**
+A: Entry-level cartographer salary is about 26,000 euros per year, senior can reach 50,000 euros, depending on experience and region.
+
+**Q: How can non-EU citizens obtain a work visa for a cartographer in Italy?**
+A: Possible via EU Blue Card (requires high salary) or Decreto Flussi annual quota work visa, requiring employer sponsorship and work contract.
+
+**Q: What qualifications are needed to become a cartographer in Italy?**
+A: Usually requires a vocational diploma or bachelor's degree; CAD certification (e.g., Autodesk) can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Draughtsperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a draughtsperson in Italy?**
-答：Entry-level draughtspersons earn around €26,000 annually, while senior ones can earn up to €50,000, depending on experience and location.
-
-**问：How can a non-EU citizen obtain a work visa as a draughtsperson in Italy?**
-答：Through the EU Blue Card (requires high salary) or the Decreto Flussi annual quota work visa, with employer sponsorship and a job contract.
-
-**问：What qualifications are needed to become a draughtsperson in Italy?**
-答：A vocational diploma or bachelor's degree is typical; CAD certifications (e.g., Autodesk) improve competitiveness.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

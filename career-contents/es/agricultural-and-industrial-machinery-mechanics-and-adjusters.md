@@ -1,60 +1,94 @@
-# Agricultural and Industrial Machinery Mechanics and Adjusters（Agricultural and Industrial Machinery Mechanics and Adjusters）职业分析 · ES
+# Agricultural and Industrial Machinery Mechanics and Adjusters — career analysis · Spain
 
-**职业代码：7403 – Agricultural and Industrial Machinery Mechanics and Adjusters。**
+**Occupation code: 7403 (CNO)**
 
-Install, maintain, repair and adjust agricultural and industrial machinery to ensure efficient operation; essential technical trade in manufacturing and agriculture.
+Responsible for installation, maintenance, repair, and calibration of agricultural and industrial machinery, ensuring efficient equipment operation, and is an indispensable technical profession in manufacturing and agriculture.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP中级（Técnico en Mecanización） | 2年 | —（公立学校免费或少量注册费） |
-| FP高级（Técnico Superior en Mecatrónica） | 2年 | —（公立学校免费或少量注册费） |
+| FP Intermediate (Técnico en Mecanización) | 2 years | $0~$1,000 (Public schools offer free or a small registration fee) |
+| FP Superior (Técnico Superior en Mecatrónica) | 2 years | $0~$1,500 (Public schools offer free or a small registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP中级毕业证（Técnico en Mecanización） | 西班牙教育部 | 必备 | 基础职业资格，可从事维修工作 |
-| 驾照B类 | 交通部 | 可选 | 部分维修工作需要驾驶服务车辆 |
+| FP Intermediate Diploma (Técnico en Mecanización) | Spanish Ministry of Education | Required | Basic professional qualifications, capable of engaging in maintenance work |
+| Category B driver's license | Department of Transport | Optional | Some maintenance work requires driving service vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 85,000。西班牙制造业和农业持续自动化，机械维修需求稳定。工业4.0推动智能设备维护需求增长，但受经济周期影响。预计未来十年就业人数小幅增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 85,000. Spain's manufacturing and agriculture sectors continue to automate, with stable demand for machinery maintenance. Industry 4.0 drives growth in demand for smart device maintenance, but is affected by economic cycles. Employment is expected to grow slightly over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，通常按14个月支付 |
-| 中级（3-7年） | $24,000~$30,000 | 含加班和绩效奖金 |
-| 高级（7年以上） | $30,000~$38,000 | 含主管职责或专门技能 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, usually paid for 14 months |
+| Mid-level (3–7 years) | $24,000~$30,000 | Includes overtime and performance bonuses |
+| Senior (7+ years) | $30,000~$38,000 | Including supervisory responsibilities or specialized skills |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从学徒或FP中级升至高级技师、团队主管，也可通过进修成为设备工程师或自主创业开设维修车间。经验积累后可转向设备销售或培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
+
+You can advance from apprenticeship or FP intermediate to senior technician or team leader, or through further training to become an equipment engineer or start your own repair workshop. After gaining experience, you can move on to equipment sales or training.
+
+**Tasks most exposed to AI:**
+
+- Routine crop health monitoring and data collection via drones and remote sensing
+- Generate standardized planting and fertilization plans based on historical data and models
+- Scheduling and adjustment of automated irrigation systems
+- Standard Pest and Disease Identification and Basic Control Recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyse multi-source data such as soil sensors and satellite imagery to optimise irrigation and fertilisation decisions
+- Using predictive models to provide early warning of pests, diseases, and weather risks, and formulate precise intervention plans
+- Using intelligent decision support systems to simulate different planting strategies, improving yield and sustainability
+- Crop growth full-cycle simulation and management using digital twin technology
+
+**Human moat:**
+
+- Hands-on Operations like On-site Soil Sampling, Equipment Repair, and Emergency Response
+- Interpersonal communication and collaboration with farmers, local governments, and research institutions
+- Strategic planting planning integrating multiple factors (market, regulations, ecology)
+- Flexible judgment and problem-solving for non-standard, sudden farm issues
+- Sustainable agriculture, organic certification, etc., requiring expert manual review for professional judgment
+
+**Skills to build:**
+
+- Precision agriculture technology (drone operation, GPS navigation, variable rate fertilization)
+- Agricultural data analysis and visualization (Python/R, GIS)
+- Smart irrigation and IoT platform management
+- Agricultural AI tools (crop models, prediction algorithms)
+- Sustainable agriculture practices and carbon accounting
+- Project management and farm advisory communication skills
+
+**Key growth areas:**
 
 - Industrial automation
 - Agricultural mechanization
@@ -63,65 +97,67 @@ Install, maintain, repair and adjust agricultural and industrial machinery to en
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需雇主担保，提供工作合同，通过劳动力市场测试（劳工局审批）。 |
-| Subclass Busqueda empleo（Job Search Visa） | 适用于高学历人才，可在西班牙停留6个月寻找工作。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Requires employer sponsorship, a work contract, and passing the labor market test (approved by the labor bureau). |
+| Subclass Busqueda empleo (Job Search Visa) | Suitable for highly educated talents who can stay in Spain for 6 months looking for work. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Agricultural and Industrial Machinery Mechanics and Adjusters？**
-- 喜欢动手操作和解决机械问题的人
-- 愿意在工厂或田间工作，适应体力劳动
-- 希望获得稳定蓝领职业，无需大学学历
+**Who is suited**
+- People who enjoy hands-on work and solving mechanical problems
+- Willing to work in factories or fields, adapting to manual labor
+- Seeking a stable blue-collar career without needing a university degree
 
-**谁不适合学Agricultural and Industrial Machinery Mechanics and Adjusters？**
-- 偏好办公室工作或理论分析
-- 无法适应嘈杂、油污或户外工作环境
+**Who is not suited**
+- Preference for office work or theoretical analysis
+- Unable to adapt to noisy, oily, or outdoor work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for agricultural machinery repairers in Spain?**
+A: Entry-level salaries are about 18,000-24,000 euros, intermediate salaries 24,000-30,000 euros, and senior salaries 30,000-38,000 euros (before tax). Salaries are influenced by region, experience, and company size.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: The difficulty is relatively high. This occupation is not in short supply and requires employer sponsorship and proof that local workers cannot be recruited. It is recommended to first obtain a Spanish degree or job opportunity.
+
+**Q: What certifications are required to work in this profession in Spain?**
+A: At minimum, an FP intermediate diploma (Técnico en Mecanización) is required; non-EU degrees require homologación certification. Some employers may require additional certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Agricultural and Industrial Machinery Mechanics and Adjusters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural machinery mechanics in Spain?**
-答：Entry-level annual salary is about €18,000-24,000, mid-level €24,000-30,000, and senior €30,000-38,000 (gross). Salary varies by region, experience and company size.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult. The occupation is not on the shortage list, requires employer sponsorship and labor market test. It is advisable to obtain Spanish qualifications or job offer first.
-
-**问：What certification is needed to work in this occupation in Spain?**
-答：At least a Mid-Level FP degree (Técnico en Mecanización). Non-EU qualifications require homologación. Some employers may require additional certificates.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

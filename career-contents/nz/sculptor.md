@@ -1,59 +1,95 @@
-# Sculptor（Sculptor）职业分析 · 新西兰
+# Sculptor — career analysis · New Zealand
 
-**职业代码：211413 – Sculptor。**
+**Occupation code: 211413 (ANZSCO)**
 
-Sculptors in New Zealand create three-dimensional artworks using materials such as stone, metal, wood, and clay, engaging in public art projects, gallery exhibitions, and private commissions. This occupation is not on the Green List or long-term skill shortage list but may qualify for Skilled Migrant Category (SMC) visa if meeting ANZSCO skill level and salary thresholds.
+Sculptors in New Zealand create three-dimensional artworks using materials such as stone, metal, and wood, and can participate in public art projects, gallery exhibitions, and private commissions. This occupation is not on the Green List or long-term skill shortage list, but can apply through SMC skilled migration, meeting ANZSCO skill level and salary requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$40,000（奥克兰大学或惠灵顿维多利亚大学，国际生学费） |
-| 文凭/证书 | 1-2年 | $15,000~$25,000（理工学院或私立院校） |
+| Bachelor's degree | 3 years | $30,000~$40,000 (University of Auckland or Victoria University of Wellington, international student tuition fees) |
+| Diploma/Certificate | 1-2 years | $15,000~$25,000 (Polytechnic or private institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美术学士（雕塑方向） | 大学 | 可选 | 常见学历要求 |
-| 英语能力（雅思6.5） | IDP或British Council | 可选 | 移民签证要求 |
-| 作品集 | 个人 | 可选 | 非正式但重要 |
+| Bachelor of Fine Arts (Sculpture) | University | Optional | Common educational requirements |
+| English proficiency (IELTS 6.5) | IDP or British Council | Optional | Immigration visa requirements. |
+| Portfolio | Personal | Optional | Informal but important |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 500。新西兰雕塑家就业市场较小，需求量稳定但有限。根据Stats NZ数据，视觉艺术家（含雕塑家）从业人数约3000人，年增长率缓慢。主要就业机会集中在奥克兰、惠灵顿等主要城市，竞争较为激烈。移民申请需关注SMC 6分制及中位数工资要求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. The employment market for sculptors in New Zealand is small, with stable but limited demand. According to Stats NZ, the number of visual artists (including sculptors) is around 3,000, with slow annual growth. Main job opportunities are in major cities like Auckland and Wellington, with intense competition. Immigration applications need to consider the SMC 6-point system and median wage requirements.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 多为兼职或合同制 |
-| 中级（3-8年） | $50,000~$75,000 | 含公共艺术项目 |
-| 高级（8年以上） | $75,000~$100,000 | 知名艺术家或自雇 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$50,000 | Mostly part-time or contract-based |
+| Mid-level (3–8 years) | $50,000~$75,000 | Includes public art projects. |
+| Senior (8+ years) | $75,000~$100,000 | Established artist or self-employed |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 雕塑家通常从助理或工作室技术人员起步，积累作品集后可独立接单或参加展览。晋升路径包括成为高级雕塑家、艺术总监或开设个人工作室，部分人转向艺术教育或公共艺术项目管理。新西兰艺术基金或政府项目提供部分资助机会。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on sculptors is mixed: 3D modeling and digital rendering replace some sketching and design work, but physical material shaping and artistic originality still rely on humans; entry-level positions have slightly shrunk due to digital barriers.
+
+Sculptors usually start as assistants or studio technicians, build a portfolio, then take on independent commissions or participate in exhibitions. Career progression includes becoming a senior sculptor, art director, or opening a personal studio; some move into art education or public art project management. New Zealand arts funds or government programs offer some funding opportunities.
+
+**Tasks most exposed to AI:**
+
+- Initial concept sketch and design generation (AI drawing tools)
+- 3D Modeling and Digital Rendering (Replacing Handmade Models)
+- Simple mold making and stone cutting (CNC and 3D printing)
+- High volume of repetitive surface treatment and grinding (robotic automation)
+- Basic client communication and project proposals (AI text generation)
+
+**Where AI augments the role:**
+
+- Rapid generation of multiple design solutions and inspiration exploration (AI drawing and generative design)
+- Structural Analysis and Optimization of Complex Structures (AI Simulation Tool)
+- Precise 3D scanning and digital restoration (AI-assisted restoration techniques)
+- Art market trend analysis and pricing recommendations (AI data analysis)
+- Virtual Showroom and Social Media Content Creation (AI Video and Image Processing)
+
+**Human moat:**
+
+- Unique artistic perspective and original creativity (irreplicable aesthetic decisions)
+- Intuitive grasp of material physical properties (touch and strain of mud, stone, metal)
+- Environmental adaptation and impromptu adjustments for on-site public art projects.
+- Cultural narratives and emotional resonance behind works (human experience)
+- Ability to deeply communicate with clients and interpret abstract requirements.
+
+**Skills to build:**
+
+- 3D modeling software (Blender, ZBrush) and digital sculpting
+- CNC/3D printing operation and design-manufacturing process
+- AI-assisted design tools (Midjourney, DALL-E)
+- Augmented Reality/Virtual Reality display technology (AR/VR)
+- Project management and digital marketing (social media, websites)
+- Knowledge of sustainable materials and recycling processes
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Arts and Culture
@@ -62,64 +98,63 @@ Sculptors in New Zealand create three-dimensional artworks using materials such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制，需有认可雇主offer及中位数工资（目前29.66纽币/小时） |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，非直接移民路径 |
+| Subclass SMC (Skilled Migrant Category) | Satisfy the 6-point system, require a recognized employer offer and median wage (currently NZD 29.66/hour) |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, not a direct migration pathway |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sculptor？**
-- 有浓厚艺术创作热情和独立工作能力
-- 具备良好作品集及展览经验者
-- 能适应不稳定收入并擅长自我推广
-
-**谁不适合学Sculptor？**
-- 追求高薪及稳定职业路径者
-- 不擅长自由职业或项目管理
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong passion for artistic creation and ability to work independently
+- With a strong portfolio and exhibition experience
+- Ability to adapt to unstable income and good at self-promotion
+
+**Who is not suited**
+- Those pursuing high salary and stable career paths
+- Not good at freelancing or project management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Sculptor in New Zealand?**
+A: Entry-level sculptors earn about NZ$35,000-50,000 annually, mid-level NZ$50,000-75,000, and senior up to NZ$75,000-100,000. Most are self-employed or on contracts, with fluctuating income.
+
+**Q: Can sculptors apply for New Zealand residence through the skilled migration category?**
+A: Yes, but must meet SMC 6-point requirements, including an accredited employer offer, median wage (currently ~29.66 NZD/hour), and ANZSCO skill level assessment. This occupation is not on the Green List and has no direct residence pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Sculptor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sculptors in New Zealand?**
-答：Entry-level sculptors earn around NZD 35,000-50,000, mid-level NZD 50,000-75,000, and senior NZD 75,000-100,000. Most are self-employed or contract-based with fluctuating income.
-
-**问：Can sculptors apply for New Zealand residency through the Skilled Migrant Category?**
-答：Yes, but must meet SMC 6-point system requirements, including a job offer from an accredited employer, median wage (currently ~NZD 29.66/hour), and ANZSCO skill level assessment. This occupation is not on the Green List, so no direct residence pathway.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

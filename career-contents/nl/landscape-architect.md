@@ -1,58 +1,94 @@
-# Landscape Architect（Landscape Architect）职业分析 · NL
+# Landscape Architect — career analysis · Netherlands
 
-**职业代码：2162 – Landscape Architect。**
+**Occupation code: 2162 (ISCO08)**
 
-Landscape architects design, plan, and supervise outdoor spaces such as parks, gardens, urban plazas, and recreational areas. They integrate ecology, aesthetics, and engineering to create functional and sustainable environments.
+Landscape architects design, plan, and oversee outdoor spaces, including parks, gardens, urban squares, and recreational areas. They integrate ecology, aesthetics, and engineering to create functional and sustainable environments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$15,000（欧盟学生学费约€2,000-4,000/年，非欧盟约€10,000-15,000/年） |
-| 硕士 | 1-2年（硕士） | $15,000~$20,000（非欧盟学生学费约€15,000-20,000/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (EU student tuition is about €2,000-4,000/year, non-EU about €10,000-15,000/year) |
+| Master's degree | 1-2 years (Master's) | $15,000~$20,000 (Tuition for non-EU students: approx. €15,000–20,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰注册景观建筑师 | 荷兰景观建筑师协会 (NVTL) | 必备 | 需完成经认证的学术课程并通过专业经验评估 |
-| 欧盟景观建筑师注册 | 欧盟景观建筑师委员会 (ECLAS) | 可选 | 有助于跨境执业 |
+| Registered Landscape Architect in the Netherlands | Netherlands Association of Landscape Architects (NVTL) | Required | Requires completion of an accredited academic program and passing a professional experience assessment. |
+| EU Landscape Architect Registration | European Council of Landscape Architecture Schools (ECLAS) | Optional | Facilitates cross-border practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 6,000。荷兰在可持续城市发展和绿色基础设施方面投入巨大，景观建筑师需求稳定。受气候变化适应项目和城市更新推动，就业前景良好，尤其是在公共部门和咨询公司。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 6,000. The Netherlands invests heavily in sustainable urban development and green infrastructure, creating stable demand for landscape architects. Driven by climate adaptation projects and urban renewal, job prospects are favourable, especially in the public sector and consulting firms.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，通常包含假期津贴 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，项目经理或首席设计师可达更高 |
+| Median salary | $65,406 | Median salary (official: CBS employee median hourly wage €33.1/hour × 1976h annualized, BRC group 0714 Architecten; P25–P75 €51,178–€84,178, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary, usually including holiday allowance |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salary, project manager or chief designer can reach higher |
+| average salary | $49,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业发展可从初级设计助理晋升至项目经理、首席设计师或合伙人。也可专攻特定领域如生态修复、城市设计或景观规划。部分资深从业者进入学术或研究岗位。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+AI will significantly improve efficiency, but core design decisions and creativity still require human leadership, making it a mixed blessing.
+
+Career progression can range from junior design assistant to project manager, lead designer, or partner. Specialization in areas such as ecological restoration, urban design, or landscape planning is also possible. Some senior practitioners move into academic or research roles.
+
+**Tasks most exposed to AI:**
+
+- Site condition survey and data collection (automatically generated using AI satellite image analysis)
+- Initial concept sketches and project renderings
+- Standard library recommendations for plant arrangement and material selection
+- Detailed drawing and annotation of construction blueprints
+- Partial standard review and conflict detection
+
+**Where AI augments the role:**
+
+- Using generative AI to quickly explore multiple design options and layout options
+- Optimize site hydrology, sunlight and microclimate analysis through simulation software
+- Using AI for ecological sensitivity and biodiversity assessment
+- Automatically generate client reports and presentation materials
+- Predicting project costs and maintenance needs based on historical project data
+
+**Human moat:**
+
+- Communicate deeply with clients to understand their underlying needs and values
+- Creatively integrate local culture, history, and aesthetic elements
+- Handle complex multi-stakeholder conflicts and reach consensus
+- Strategic decisions based on long-term ecological and community impact
+- On-site construction supervision and collaborative adjustments with craftsmen
+
+**Skills to build:**
+
+- Proficiency in AI design tools (e.g., Midjourney, DALL-E, SketchUp AI plugins)
+- Learn GIS and remote sensing data analysis techniques
+- Enhanced knowledge of ecology and sustainable design (e.g., sponge cities, biodiversity)
+- Enhance project management and client collaboration skills (e.g., BIM, VR communication)
+- Learn basic programming (Python) to customize automated workflows
+- Knowledge of green building certification standards (e.g., LEED, BREEAM)
+
+**Key growth areas:**
 
 - Sustainable design
 - Green infrastructure
@@ -61,68 +97,67 @@ Landscape architects design, plan, and supervise outdoor spaces such as parks, g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 针对高技能工人，需有雇佣合同且工资达到门槛（2023年 €5,008/月30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 针对非欧盟高技能专业人士，需有至少一年合同且工资达€5,008/月（2023年） |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 在荷兰或世界前200高校毕业的非欧盟学生可在1年内求职，不设工资门槛 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled workers, an employment contract is required and the salary must meet the threshold (2023: €5,008/month for those over 30). |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled professionals, requires at least a one-year contract and a salary of €5,008/month (2023) |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Non-EU graduates from universities ranked in the top 200 in the Netherlands or worldwide can seek employment within one year without a salary threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscape Architect？**
-- 热爱自然与设计，有艺术和生态学基础
-- 善于沟通和团队协作，能处理多学科项目
-- 有耐心和解决问题的能力，适应项目周期长
-
-**谁不适合学Landscape Architect？**
-- 不喜欢户外工作和现场协调
-- 缺乏创造性思维或细节关注
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and design, with a foundation in art and ecology
+- Good communication and teamwork skills, able to handle multidisciplinary projects
+- Patient and able to solve problems, adaptable to long project cycles.
+
+**Who is not suited**
+- Dislikes outdoor work and on-site coordination
+- Lack of creative thinking or attention to detail
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for landscape architects in the Netherlands?**
+A: Junior: approx. €30,000–€40,000; mid-level: approx. €40,000–€55,000; senior: up to €75,000+. Salary depends on experience, location, and employer type.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as landscape architects?**
+A: Eligible through highly skilled migrant (kennismigrant) or EU Blue Card pathways, requiring a Dutch employer offer and meeting salary requirements. Graduates from top global universities may also use the Orientation Year visa.
+
+**Q: What are the career development paths for landscape architects?**
+A: Can advance to project manager, chief designer, partner, or specialize in ecological restoration, urban design. May also enter academia or start a personal studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Landscape Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a landscape architect in the Netherlands?**
-答：Entry level €30,000-€40,000, mid-level €40,000-€55,000, senior up to €75,000+ annually. Salary varies by experience, region, and employer.
-
-**问：How can non-EU citizens immigrate as a landscape architect to the Netherlands?**
-答：Via Highly Skilled Migrant or EU Blue Card route, requiring a job offer meeting salary thresholds. Graduates from top global universities can use the Orientation Year visa.
-
-**问：What career paths can landscape architects take?**
-答：Advance to project manager, lead designer, partner, or specialize in ecological restoration, urban design. Also possible to enter academia or start own practice.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

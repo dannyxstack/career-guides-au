@@ -1,59 +1,88 @@
-# School midday and crossing patrol occupations（School midday and crossing patrol occupations）职业分析 · UK
+# School midday and crossing patrol occupations — career analysis · United Kingdom
 
-**职业代码：9232 – School midday and crossing patrol occupations。**
+**Occupation code: 9232 (SOC)**
 
-Supervise school children during breaks and meals, and assist them to cross roads near schools. Usually part-time or term-time work.
+Responsible for supervising students during recess and lunch, and assisting children to cross roads safely near school. Usually part-time or seasonal work.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无需正规教育 | 0年 | —（通常要求中学学历，培训由雇主提供） |
+| No formal education required | 0 years | $0~$0 (Typically requires secondary education; training provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全检查培训 | 雇主 | 必备 | 入职前由学校或地方议会提供 |
-| 儿童保护意识培训 | 雇主或地方议会 | 必备 | 多数雇主要求完成 |
+| Basic safety inspection training | Employer | Required | Provided by the school or local council before employment |
+| Child protection awareness training. | Employer or local council | Required | Most employers require completion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。该职业需求稳定，但受地方政府预算影响。人口增长和交通安全重视维持基本需求，但全职岗位有限，多为兼职。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. This occupation has stable demand but is affected by local government budgets. Population growth and emphasis on road safety maintain basic demand, but full-time positions are limited, with many part-time roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$18,000 | 兼职年薪，按小时计算 |
-| 中级（3-5年） | $18,000~$20,000 | 基于时薪约10-11英镑 |
-| 高级（5年以上） | $20,000~$22,000 | 含通胀调整 |
+| Median salary | $21,678 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $16,000~$18,000 | Part-time annual salary, calculated hourly |
+| Mid-level (3–5 years) | $18,000~$20,000 | Based on an hourly rate of approximately £10-11 |
+| Senior (5+ years) | $20,000~$22,000 | Including inflation adjustment |
+| average salary | $24,862 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常为入门级职位，晋升空间有限。可转向学校行政助理、儿童保育或社区安全相关岗位，但需额外培训。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+This occupation involves highly repetitive tasks based on physical locations; AI automation will significantly reduce demand for patrol and monitoring roles, but schools will still retain some human staff.
+
+Typically an entry-level position with limited promotion opportunities. May transition to school administrative assistant, childcare, or community safety roles, but additional training is required.
+
+**Tasks most exposed to AI:**
+
+- Use AI cameras and sensors to automatically monitor student activities, replacing human patrols.
+- Automatically record attendance and abnormal behavior, generate electronic reports
+- App-based electronic check-in and access management, replacing manual attendance
+- AI scheduling systems optimize patrol routes, reducing manpower needs
+
+**Where AI augments the role:**
+
+- AI provides real-time hazard warnings (e.g., traffic accidents, student conflicts), assisting patrol officers in rapid response
+- Access student health and safety data via mobile devices to improve care precision.
+- AI analyzes historical data to help optimize patrol times and intersection deployment
+
+**Human moat:**
+
+- Human judgment and flexible handling in emergencies
+- Emotional support and communication with young students
+- On-site response under complex weather or sudden road conditions
+
+**Skills to build:**
+
+- Basic First Aid and Emergency Response
+- Knowledge of child development and behaviour management
+- Use mobile security applications
+- Simple data analysis and report writing
+
+**Key growth areas:**
 
 - Part-time
 - Term-time
@@ -62,65 +91,67 @@ Supervise school children during breaks and meals, and assist them to cross road
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 通常不符合资格，因该职业不在 eligible occupations 列表中 |
-| Subclass Graduate（Graduate visa） | 适用于毕业生，但该职业薪资低且非技能型，不建议 |
+| Subclass Skilled Worker (Skilled Worker visa) | Usually ineligible, as the occupation is not on the eligible occupations list |
+| Subclass Graduate (Graduate visa) | Suitable for graduates, but this occupation has low pay and is non-skilled; not recommended |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学School midday and crossing patrol occupations？**
-- 喜欢与儿童相处的人
-- 寻求兼职或学期工作的人
-- 希望在社区工作的人
+**Who is suited**
+- People who enjoy working with children
+- Someone seeking part-time or term work
+- People who want to work in the community.
 
-**谁不适合学School midday and crossing patrol occupations？**
-- 需要全职稳定收入的人
-- 希望有职业晋升空间的人
+**Who is not suited**
+- For those needing full-time stable income.
+- People seeking career advancement opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for school midday and intersection crossing guards?**
+A: This position is usually part-time and paid per semester, with an annual salary of approximately £16,000-22,000 and an hourly wage of £10-12.
+
+**Q: Can this occupation immigrate to the UK through a work visa?**
+A: Almost impossible. This occupation is not on the eligible occupations list for skilled worker visas, and the salary is low, making it unsuitable for immigration pathways.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Limited promotion prospects. Can move to school administrative assistant, child care or community safety roles, but usually require additional training or qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 简单（½☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-School midday and crossing patrol occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for school midday and crossing patrol occupations?**
-答：These roles are typically part-time and term-time only, with annual salaries around £16,000-£22,000, equivalent to £10-12 per hour.
-
-**问：Can this occupation lead to a work visa for immigration to the UK?**
-答：Almost impossible. This occupation is not on the eligible occupations list for Skilled Worker visa, and the low salary makes it unsuitable for immigration.
-
-**问：Are there advancement opportunities in this occupation?**
-答：Promotion opportunities are limited. Possible moves include school administrative assistant, childcare, or community safety roles, but often require additional training or qualifications.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

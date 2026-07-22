@@ -1,61 +1,97 @@
-# Pharmacist（Pharmacist）职业分析 · DE
+# Pharmacist — career analysis · Germany
 
-**职业代码：8180 – Pharmacist。**
+**Occupation code: 8180 (KldB)**
 
-Pharmacists prepare, dispense, and counsel on medications to ensure safe use. In Germany, the role requires a university degree and state examination.
+Pharmacists are responsible for the preparation, dispensing, and consultation of medications to ensure safe use. In Germany, this profession requires a university degree and passing a state examination.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（药学） | 4年 | —（公立大学学费全免，仅学期注册费（每学期约150-300欧元）） |
-| 实习年（Pharmazeutisches Praktikum） | 1年 | —（带薪实习，通常月薪约1,500-2,500欧元） |
+| Bachelor's degree (Pharmacy) | 4 years | $0~$6,000 (Full tuition fee waiver at public universities, only semester registration fee (approx. 150-300 euros per semester)) |
+| Internship year (Pharmazeutisches Praktikum) | 1 year | $0~$0 (Paid internship, typically around 1,500-2,500 euros per month) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药学国家考试（Staatsexamen Pharmazie） | 各州卫生局 | 必备 | 通过大学课程后参加国家考试，包括笔试和口试 |
-| 执业许可（Approbation） | 各州卫生局 | 必备 | 完成实习年后申请，允许独立执业 |
-| 学位认证（Anerkennung） | 各州药剂师协会 | 必备 | 外国学历需通过资质认证，可能需补修课程或考试 |
+| German National Pharmacy Examination (Staatsexamen Pharmazie) | State health departments | Required | Complete university courses then take national exams, including written and oral |
+| Practicing license (Approbation) | State health departments | Required | Apply after completing internship year, allows independent practice |
+| Degree recognition (Anerkennung) | State pharmacy associations | Required | Foreign qualifications need recognition; may require supplementary courses or exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 71,000。德国人口老龄化推动药品需求持续增长，药剂师就业前景稳定。社区和医院药房岗位充足，尤其在乡村地区存在短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 71,000. Germany's aging population drives sustained demand for pharmaceuticals, ensuring stable employment prospects for pharmacists. Community and hospital pharmacy positions are abundant, especially in rural areas where shortages exist.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$48,000 | 社区药房起薪，税前年薪 |
-| 中级（4-9年） | $50,000~$62,000 | 药房经理或医院药剂师 |
-| 高级（10年以上） | $65,000~$85,000 | 制药工业或药房主 |
+| Median salary | $61,368 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $42,000~$48,000 | Community pharmacy starting salary, pre-tax annual |
+| Intermediate (4-9 years) | $50,000~$62,000 | Pharmacy manager or hospital pharmacist. |
+| Senior (10+ years) | $65,000~$85,000 | Pharmaceutical manufacturer or pharmacy owner |
+| average salary | $68,736 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径包括药房经理、医院药剂科主任、制药工业研发或质量管控岗位，也可通过继续教育成为专业药剂师（如临床药学）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
+
+Career paths include pharmacy manager, hospital pharmacy director, pharmaceutical industry R&D or quality control positions, or further education to become a specialist pharmacist (e.g., clinical pharmacy).
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks
+- Standardized drug dispensing and dose calculation
+- Inventory management and automatic replenishment
+- Drug information retrieval and simple medication consultation
+- Automatic bill reconciliation with insurance systems
+
+**Where AI augments the role:**
+
+- Use AI to predict individual drug responses and adverse reaction risks
+- Personalized medication regimen optimization based on clinical data
+- Smart triage and remote patient medication follow-up
+- Improved Vaccine Management and Promotion Efficiency
+- Pharmacoeconomic analysis and real-world evidence generation
+
+**Human moat:**
+
+- Medication management and clinical decision-making for complex cases.
+- Face-to-face patient consultation and medication adherence intervention
+- Coordination and communication within multidisciplinary healthcare teams
+- Ethical decision-making and pharmaceutical legal compliance judgment
+- Patient education on emerging therapies (e.g., gene therapy)
+
+**Skills to build:**
+
+- AI-driven clinical decision support system operation
+- Pharmacogenomics and precision medication analysis
+- Telemedicine and digital health tool application
+- Statistical data analysis and real-world research skills
+- Medical ethics and privacy protection compliance knowledge
+- Vaccine management and public health skills
+
+**Key growth areas:**
 
 - Aging population
 - Pharmaceutical care
@@ -64,69 +100,68 @@ Pharmacists prepare, dispense, and counsel on medications to ensure safe use. In
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 若年薪不低于43,800欧元（2024年标准），可申请欧盟蓝卡，配偶可工作。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 通过学历认证后，可获得技术移民签证，需雇主offer。 |
-| Subclass Recognition Visa（Recognition Visa (§16d AufenthG)） | 用于在德国完成资质认证程序，最长可居留18个月。 |
+| Subclass EU Blue Card (EU Blue Card) | If annual salary is not less than €43,800 (2024 standard), can apply for EU Blue Card; spouse can work. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | After academic qualification assessment, a skilled migration visa is possible, requiring a job offer. |
+| Subclass Recognition Visa (Recognition Visa (§16d AufenthG)) | Used to complete the qualification recognition process in Germany, with a maximum stay of 18 months. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacist？**
-- 对化学和生物有兴趣，细致严谨者
-- 愿意服务患者，沟通能力强
-- 能适应高强度学习和考试
-
-**谁不适合学Pharmacist？**
-- 不善于与人交流者
-- 无法投入长时间专业教育者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Interested in chemistry and biology, meticulous and disciplined
+- Willing to serve patients, strong communication skills
+- Able to handle intensive study and exams
+
+**Who is not suited**
+- Those not good at interpersonal communication.
+- Those unable to commit to long-term professional education
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a pharmacist?**
+A: Entry-level approximately 42,000 - 48,000 Euros/year, senior up to 85,000 Euros/year. Higher in industrial positions.
+
+**Q: How can overseas pharmacists immigrate to Germany?**
+A: Degree verification may be required, with possible supplementary courses; afterwards, you can apply for an EU Blue Card or skilled migration visa.
+
+**Q: What is the work environment like for pharmacists?**
+A: Mainly in community pharmacies or hospital pharmacies, stable work but requires shift work. Team collaboration and patient consultation are daily tasks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Pharmacist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pharmacists?**
-答：Entry-level about 42,000-48,000 EUR/year, senior up to 85,000 EUR/year. Industry roles pay more.
-
-**问：How can foreign pharmacists immigrate to Germany?**
-答：Requires degree recognition, possibly bridging courses; then can apply for EU Blue Card or skilled worker visa.
-
-**问：What is the work environment like for pharmacists?**
-答：Mainly in community pharmacies or hospital pharmacies, stable but requires shift work. Team collaboration and patient counseling are daily tasks.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

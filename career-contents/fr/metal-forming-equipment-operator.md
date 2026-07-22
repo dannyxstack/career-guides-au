@@ -1,61 +1,94 @@
-# Metal Forming Equipment Operator（Metal Forming Equipment Operator）职业分析 · FR
+# Metal Forming Equipment Operator — career analysis · France
 
-**职业代码：H2904 – Metal Forming Equipment Operator。**
+**Occupation code: H2904 (ROME)**
 
-Operates metal forming equipment such as presses, bending machines, and forging hammers to shape metal sheets or profiles, including setting parameters, monitoring production, quality control, and basic maintenance.
+Operate metal forming equipment (such as stamping machines, press brakes, forging machines) for plastic processing of metal sheets or profiles, including setting parameters, monitoring production, quality control, and equipment maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP至Bac pro | 2-3年（CAP/Bac Pro） | —（公立学校免费或低学费；可通过学徒制（apprentissage）获得薪酬） |
-| BTS或Licence pro | 2-3年（BTS/Licence） | —（公立院校低学费，私立工程师学校可能更高） |
-| 职业培训（AFPA等） | 6-12个月（短期培训） | —（可通过Pôle emploi资助，或公司内部培训） |
+| CAP to Bac Pro | 2-3 years (CAP/Bac Pro) | $0~$10,000 (Free or low tuition at public schools; Compensation can be obtained through apprenticeships) |
+| BTS or Licence Pro | 2-3 years (BTS/Licence) | $0~$15,000 (Public institutions offer lower tuition, while private engineering schools may offer even higher fees) |
+| Vocational training (AFPA, etc.) | 6-12 months (short-term training) | $0~$5,000 (This can be funded through Pôle emploi or internal company training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQPM（职业资格证书） | UIMM（冶金行业联盟） | 可选 | 非强制但优先，证明操作特定金属成型设备的能力 |
-| CAP/Bac Pro专业文凭 | 法国教育部 | 可选 | 常见入门要求，尤其Recherche emploi优先考虑 |
-| SST（安全急救证书） | INRS（国家研究安全研究所） | 必备 | 某些企业强制要求基本安全培训 |
-| CACES（起重设备操作证书） | 认证机构 | 可选 | 如需操作桥式起重机等辅助设备则强制 |
+| SST (Emergency First Aid Certificate) | INRS (National Institute for Research Security) | Required | Some companies require basic safety training |
+| CQPM (Professional Qualification Certificate) | UIMM (Metallurgical Industry Alliance) | Optional | Non-mandatory but preferred, demonstrating the ability to operate specific metal forming equipment |
+| CAP/Bac Pro professional diploma | French Ministry of Education | Optional | Common entry requirements, especially priority for Recherche emploi |
+| CACES (Lifting Equipment Operation Certificate) | Certification bodies | Optional | If auxiliary equipment such as overhead cranes need to be operated, it is mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国工业领域对金属成型操作员需求稳定，尤其在汽车、航空航天和建筑业。自动化和数控技术普及提升效率，但熟练操作员仍稀缺。预计未来五年就业机会保持平稳。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Demand for metal forming operators in France's industrial sector remains stable, especially in the automotive, aerospace, and construction sectors. The widespread adoption of automation and CNC technology improves efficiency, but skilled operators remain scarce. Employment opportunities are expected to remain stable over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金津贴 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，含加班及绩效 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，含团队管理津贴 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, including bonuses and allowances |
+| Mid-level (3–7 years) | $30,000~$36,000 | Pre-tax annual salary, including overtime and performance |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary, including team management allowance |
+| average salary | $27,198 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级操作员晋升为高级操作员或团队负责人，学习编程和调试可转向数控技术员或生产主管。部分经验者可转为模具工或质量检验员。继续教育可升级为工业技术员。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Many tasks for metal forming equipment operators (such as parameter settings and quality inspection) can be optimized or automated by AI, but equipment maintenance and fault response partially rely on physical perception and on-site judgment, resulting in mixed outcomes.
+
+Junior operators can be promoted to senior operators or team leaders, and those learning programming and debugging can transition to CNC technicians or production supervisors. Some experienced candidates may transition to mold workers or quality inspectors. Continuing education can be upgraded to industrial technician.
+
+**Tasks most exposed to AI:**
+
+- Parameter setting and adjustment based on preset rules
+- Recording and simple analysis of production line quality data
+- Material feeding under standardized production cycles
+- Standardized handling of alarms for conventional equipment
+
+**Where AI augments the role:**
+
+- Use AI visual inspection systems to monitor product defects in real time
+- Bending/stamping parameters are optimized through digital twin simulation
+- Schedule equipment maintenance cycles with predictive maintenance systems
+- Using AR glasses, remote expert guidance is provided for debugging complex molds
+
+**Human moat:**
+
+- On-site debugging and troubleshooting of complex molds
+- Fast mold change and process optimization in small-batch production of multiple varieties
+- Physical sensing and emergency shutdown judgment during equipment abnormalities
+- Cross-process collaboration and on-site safety management responsibilities
+
+**Skills to build:**
+
+- Basic Python/PLC programming (for automated data acquisition)
+- Digital twin or CAD/CAM software operation
+- Fundamentals of Industrial Vision Systems and Data Analysis
+- Predictive maintenance and IoT device management
+- Lean production and quick changeover methods
+- Cross-functional communication and problem-solving
+
+**Key growth areas:**
 
 - Metal forming
 - CNC machinery
@@ -64,68 +97,67 @@ Operates metal forming equipment such as presses, bending machines, and forging 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié Visa (Employee)） | 适用于获得法国雇主工作合同的技术工人，需满足薪资门槛（通常≥SMIC） |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 针对高技能人才或创新项目，可简化流程，配偶可工作 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于年薪≥法国平均工资1.5倍（约53,000欧元），金属成型操作员通常难以达到 |
+| Subclass Salarié (Salarié Visa (Employee)) | Suitable for skilled workers who have obtained a contract with a French employer and must meet the salary threshold (usually ≥ SMIC) |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled talent or innovative projects, processes can be streamlined so spouses can work |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to annual salaries≥ 1.5 times the French average wage (about 53,000 euros), which metal forming operators usually find difficult to achieve |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Forming Equipment Operator？**
-- 喜欢动手操作机械、对金属加工有兴趣的人
-- 注重工作稳定性、愿意在工业环境中工作的人
-- 愿意通过学徒制或职业培训快速入行者
-
-**谁不适合学Metal Forming Equipment Operator？**
-- 追求高薪但缺乏技术积累的人
-- 不适应轮班制或噪音/粉尘环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy operating machinery manually and are interested in metalworking
+- People who value job stability and are willing to work in industrial environments
+- Willing to quickly enter through apprenticeships or vocational training
+
+**Who is not suited**
+- People who pursue high salaries but lack technical expertise
+- People who are not suited to shift work or noise/dust environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for metal forming equipment operators in France?**
+A: Junior operators earn about 24,000-30,000 euros before tax, intermediate operators 30,000-36,000 euros, and senior operators up to 45,000 euros. Overtime and night shift subsidies can increase income.
+
+**Q: How can foreigners immigrate to France to work as a metal forming operator?**
+A: You can apply for a Salarié work visa by obtaining a French employer contract, which can expedite processing for shortage occupations. Passeport Talent is suitable for high-skilled or innovative projects. When salaries are low, it is difficult to meet the requirements for the EU Blue Card.
+
+**Q: What is the demand for metal forming operators in France?**
+A: This profession is in short demand in France, especially in industrial-dense areas such as Auvergne-Rhône-Alpes and Hauts-de-France. There is a shortage of skilled workers, making it difficult for companies to recruit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Metal Forming Equipment Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a metal forming equipment operator in France?**
-答：Entry-level salaries range €24,000-€30,000 gross annually, mid-level €30,000-€36,000, and senior up to €45,000, with overtime and shift bonuses.
-
-**问：How can foreigners immigrate to France as a metal forming operator?**
-答：By obtaining a job offer and applying for a Salarié visa; shortage occupations may expedite process. Passeport Talent for high-skilled roles; EU Blue Card generally requires higher salary.
-
-**问：What is the demand for metal forming operators in France?**
-答：It is a shortage occupation, especially in industrial regions like Auvergne-Rhône-Alpes and Hauts-de-France. Employers face recruitment difficulties.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

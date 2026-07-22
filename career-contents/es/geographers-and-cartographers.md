@@ -1,62 +1,98 @@
-# Geographers and Cartographers（Geographers and Cartographers）职业分析 · ES
+# Geographers and Cartographers — career analysis · Spain
 
-**职业代码：2454 – Geographers and Cartographers。**
+**Occupation code: 2454 (CNO)**
 
-Professionals engaged in geographic information collection, processing, analysis, and mapping, using remote sensing, GIS, and other technologies to support spatial data in urban planning, environmental management, and land registry.
+Professionals engaged in geographic information collection, processing, analysis, and mapping use technologies such as remote sensing and GIS to provide spatial data support for urban planning, environmental management, land registration, and other fields.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $680~$1,500（公立大学年均学费，因自治区而异） |
-| 硕士（Máster） | 1-2年（Máster） | $1,200~$3,500（地理信息或相关领域硕士） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $300~$800（公立FP中心课程，如'Cartografía y Sistemas de Información Geográfica'） |
+| Undergraduate (Grado) | 4 years (Grado) | $680~$1,500 (The average annual tuition fees for public universities vary by region) |
+| Máster | 1-2 years (Máster) | $1,200~$3,500 (Master's degree in geographic information or related fields) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $300~$800 (Public FP Center courses, such as 'Cartografía y Sistemas de Información Geográfica') |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地理学或测绘工程本科学位 | 西班牙大学 | 必备 | 必要学历，部分岗位要求工学或理学背景 |
-| 学历认证（Homologación） | 西班牙教育部（MEFP） | 必备 | 第三国学位需通过学历认证，受规管职业 |
-| ESRI/GIS软件认证 | ESRI或Autodesk | 可选 | 非强制但显著提升竞争力 |
+| Bachelor's degree in Geography or Surveying Engineering | Spanish University | Required | Required academic qualifications; some positions require an engineering or science background |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education (MEFP) | Required | Third-country degrees require academic recognition and regulated occupations |
+| ESRI/GIS software certification | ESRI or Autodesk | Optional | Not mandatory but significantly boosts competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。西班牙地理与制图行业因智慧城市、环境监测和领土规划需求持续增长。公共部门（如国家地理研究所）和私营测绘公司均有稳定招聘，但竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Spain's geography and cartography industry continues to grow due to demand for smart cities, environmental monitoring, and territorial planning. Both the public sector (such as the National Geographic Institute) and private surveying companies have stable hiring, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，公立机构可能略低 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，具有一定项目管理经验 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪，技术总监或资深专家 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary may be slightly lower at public institutions |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, with some project management experience |
+| Senior (8+ years) | $42,000~$55,000 | Pre-tax annual salary, Technical Director or Senior Expert |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 起点为地理信息技师或初级制图员，积累经验后可晋升项目主管或GIS分析师，资深者可担任技术总监或自主成立测绘公司。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
+
+Starting positions are geographic information technicians or junior cartographers. After accumulating experience, they can be promoted to project supervisor or GIS analyst. Senior candidates may serve as technical directors or establish their own surveying companies.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized maps (e.g., road and administrative division maps)
+- Automatically extract features (buildings, vegetation, etc.) from satellite imagery or LiDAR point clouds
+- Automatically classify and label geographic features using machine learning models.
+- Routine map quality checks and updates (version comparison, attribute validation)
+- Automatically generate templated elements like map legends and scale bars.
+
+**Where AI augments the role:**
+
+- Using AI to rapidly process vast amounts of remote sensing data and identify changed areas (e.g., urban expansion, deforestation)
+- Using generative AI to assist in designing 3D city models or thematic map styles
+- AI-driven spatial data analysis (e.g., optimal paths, heat maps) to enhance decision support
+- Combine natural language processing to auto-generate map description text and reports
+- AI-assisted spatial data quality control and anomaly detection to improve data reliability
+
+**Human moat:**
+
+- Establishing data collection standards and quality control processes (to ensure credible AI outputs)
+- Design cartographic algorithms and spatial analysis models for specific application scenarios
+- Cross-departmental coordination and communication (e.g., geographic information needs in urban planning and emergency response)
+- Humanistic and aesthetic judgment in map expression (colors and symbols must align with user cognition)
+- Legal and ethical responsibilities (e.g., map accuracy related to national security)
+
+**Skills to build:**
+
+- AI/ML fundamentals (especially computer vision and natural language processing applied to geographic data).
+- Python/R programming and GIS libraries (e.g., ArcPy, GDAL, Fiona)
+- Deep learning frameworks (TensorFlow/PyTorch) for remote sensing image segmentation and classification
+- Cloud Computing and Big Data Processing (e.g. AWS Earth on AWS, Google Earth Engine)
+- 3D modeling and visualization (Blender, Unity for digital twins)
+- Project management and data governance (ensuring AI project delivery)
+
+**Key growth areas:**
 
 - GIS
 - Remote Sensing
@@ -65,69 +101,68 @@ Professionals engaged in geographic information collection, processing, analysis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于拥有本科以上学历、年薪不低于西班牙平均工资1.5倍（约38,000欧元）的第三国高技术人才。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 针对高技能专业人才的居留许可，需获得西班牙公司聘用，满足学历和薪资要求。 |
-| Subclass Cuenta ajena（Work Contract） | 标准受雇工作居留，可通过公司担保申请，需证明职位的必要性。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for high-tech professionals from third countries with a bachelor's degree or higher and an annual salary not less than 1.5 times the Spanish average (about 38,000 euros). |
+| Subclass Altamente cualificad (Highly Qualified Professional) | For highly skilled professionals, residence permits require employment by a Spanish company and meeting educational and salary requirements. |
+| Subclass Cuenta ajena (Work Contract) | Standard employed work residence can be applied for through company sponsorship, and the necessity of the position must be proven. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geographers and Cartographers？**
-- 喜欢户外和空间数据的地理爱好者
-- 擅长使用GIS、遥感软件的技术型人才
-- 希望在环境、城市规划领域发展的专业人才
-
-**谁不适合学Geographers and Cartographers？**
-- 不喜欢野外作业或频繁出差的人
-- 对数据分析和编程缺乏兴趣的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Geography enthusiasts who enjoy outdoor and spatial data
+- Technical professionals skilled in using GIS and remote sensing software
+- Professionals who wish to develop in the fields of environment and urban planning
+
+**Who is not suited**
+- Those who dislike field work or frequent travel
+- People who lack interest in data analysis and programming
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for geographers and cartographers in Spain?**
+A: Entry-level salaries range from about 22,000 to 28,000 euros annually, intermediate salaries around 30,000 to 40,000 euros, and seniors can earn over 42,000 euros. Public institutions offer stable but relatively low salaries, while private companies may offer higher bonuses.
+
+**Q: How can third-country citizens immigrate to Spain to become geographers or cartographers?**
+A: First obtain a Spanish-recognised bachelor's degree (homologación required), then find an employer with a work contract to apply for 'Cuenta ajena' work residence or meet high salary requirements for EU Blue Card. This is a regulated profession; credential recognition is mandatory.
+
+**Q: What are the prospects for this profession?**
+A: With the development of smart cities, environmental monitoring, and digital land management, the demand for geographic information talent is rising. You can advance to GIS analyst, remote sensing expert, project manager, or enter academia or establish a surveying company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Geographers and Cartographers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geographers and cartographers in Spain?**
-答：Entry-level salaries range from €22,000 to €28,000, mid-level from €30,000 to €40,000, and senior can exceed €42,000 gross per year. Public sector offers stability but lower pay, while private sector may have higher bonuses.
-
-**问：How can third-country nationals migrate to Spain as geographers or cartographers?**
-答：They need a recognized bachelor's degree (requires homologación), then secure a job offer to apply for a Cuenta ajena work permit or EU Blue Card if meeting salary thresholds. The profession is regulated, making degree validation mandatory.
-
-**问：What are the career prospects for this profession?**
-答：Demand is rising with smart cities, environmental monitoring, and digital land management. Career paths include GIS analyst, remote sensing specialist, project manager, academia, or starting a surveying company.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

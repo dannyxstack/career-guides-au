@@ -1,61 +1,94 @@
-# Podiatrist（Podiatrist）职业分析 · ES
+# Podiatrist — career analysis · Spain
 
-**职业代码：2157 – Podiatrist。**
+**Occupation code: 2157 (CNO)**
 
-Podiatrists are healthcare professionals specializing in diagnosing, treating, and preventing foot disorders, providing surgical, physical, and pharmacological care.
+Podiatrists are medical professionals specializing in the diagnosis, treatment, and prevention of foot diseases, providing surgeries, physical therapy, and prescription medications.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$2,500（公立大学每学分约35欧元，总240ECTS；私立大学更高） |
-| 硕士（Máster） | 1-2年 | $2,000~$5,000（足部手术或运动足病学等专业方向） |
+| Undergraduate (Grado) | 4 years | $1,000~$2,500 (Public universities cost about 35 euros per credit, totaling 240 ECTS; Private universities are even higher) |
+| Máster | 1-2 years | $2,000~$5,000 (Specializations such as foot surgery or sports podiatry) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 足病学学士学位 | 西班牙大学 | 必备 | 需完成4年Grado en Podología |
-| 专业学院注册 | Colegio Oficial de Podólogos | 必备 | 必须加入相应自治区的足病医生协会方可执业 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证，过程可能需1-2年 |
+| Bachelor's degree in Podiatry | Spanish University | Required | Four years of Grado en Podología must be completed |
+| Register with professional colleges | Colegio Oficial de Podólogos | Required | You must join the podiatry association of the corresponding autonomous region to practice |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require certification, and the process may take 1-2 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 8,000。西班牙足病医生需求稳定，受老龄化人口和糖尿病足等慢性病增加推动。公共医疗体系就业机会有限，私人诊所为主要雇用渠道。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. The demand for podiatry doctors in Spain remains stable, driven by an aging population and the rise in chronic diseases such as diabetic foot. Employment opportunities in the public healthcare system are limited, with private clinics being the main employment channel.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 受雇于私人诊所或公共医疗体系 |
-| 中级（3-7年） | $32,000~$45,000 | 经验丰富者可独立接诊 |
-| 高级（7年以上） | $45,000~$60,000 | 开设私人诊所或担任足科主任 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Employed by a private clinic or public healthcare system |
+| Mid-level (3–7 years) | $32,000~$45,000 | Experienced individuals may receive consultations independently |
+| Senior (7+ years) | $45,000~$60,000 | Opening a private clinic or serving as a podiatrist |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初始可在资深足病医生指导下工作，积累经验后开设私人诊所或晋升为医院足科部门主管。持续进修（如足部手术硕士）可拓宽执业范围。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Podiatrists' core diagnostic and surgical responsibilities are legally protected and hard to replace by AI; however, tasks like image analysis, referral reports, and medical record sorting are being enhanced by AI tools, putting entry-level positions under automation pressure.
+
+Initially, you can work under the guidance of experienced podiatrists, and after gaining experience, open a private clinic or be promoted to head of the hospital's podiatry department. Continuing education (such as a master's degree in foot surgery) can broaden the scope of practice.
+
+**Tasks most exposed to AI:**
+
+- Preliminary reading and reporting of foot X-ray/ultrasound images
+- Electronic medical record entry and structured organization of medical history
+- Automated generation and scoring of routine foot health assessment questionnaires
+- Patient follow-up appointment reminders and automatic archiving of follow-up results
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems quickly identify abnormalities like foot ulcers and fractures, improving diagnostic accuracy
+- Customize orthotic insole solutions using 3D foot scanning and AI gait analysis
+- Optimizing diabetic foot care plans with AI-analyzed remote patient monitoring data
+- Automated referral letter generation including medical summaries and key clinical findings
+
+**Human moat:**
+
+- Intraoperative Judgment and Manual Operations in Complex Foot Surgery
+- Direct patient communication for history taking, condition explanation, and trust building
+- Handling cases of rare diseases, complications with insufficient AI training data
+- Comprehensive clinical judgment of patient overall health (e.g., diabetes, circulatory system)
+
+**Skills to build:**
+
+- Operate AI image analysis tools (e.g., foot X-ray/ultrasound AI software)
+- Telemedicine platforms and wearable device data interpretation
+- Data literacy - ability to evaluate the reliability of AI diagnostic recommendations
+- Using digital health records and AI-assisted clinical decision systems
+- Orthosis 3D modelling and printing technology
+- AI monitoring tools for chronic wound management
+
+**Key growth areas:**
 
 - Aging population
 - Diabetes care
@@ -64,69 +97,68 @@ Podiatrists are healthcare professionals specializing in diagnosing, treating, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 受雇于西班牙医疗机构的足病医生，需获得工作合同并通过劳动市场测试（如适用） |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适合高薪职位（年薪通常需超4万欧元），可快速获得居留，但需学历认证 |
-| Subclass Cuenta propia（Self-Employment Visa） | 开设私人诊所需提交商业计划，证明投资和专业资质，需学历认证 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Podiatrists employed by Spanish medical institutions must obtain a work contract and pass a labor market test (if applicable) |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for high-paying positions (annual salary usually over €40,000), can obtain residence quickly, but requires qualification authentication. |
+| Subclass Cuenta propia (Self-Employment Visa) | To open a private clinic, you need to submit a business plan, prove investment and professional qualifications, and verify academic qualifications |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Podiatrist？**
-- 对足部健康有浓厚兴趣的医学爱好者
-- 自主创业意愿强、希望开私人诊所的人
-- 具备良好手工技巧和耐心细致的性格
-
-**谁不适合学Podiatrist？**
-- 不愿接受长期学历认证流程的非欧盟人士
-- 对高工作强度和患者沟通压力敏感者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical enthusiasts with a strong interest in foot health
+- People with a strong desire to start their own businesses and hope to open a private clinic
+- Strong handicraft skills and patient, meticulous character
+
+**Who is not suited**
+- Non-EU individuals unwilling to undergo the long-term academic credential verification process
+- Sensitive to high work intensity and patient communication pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of podiatrists in Spain?**
+A: Entry-level annual salary about 24,000-32,000 euros, senior up to 60,000 euros; private clinics pay more but income fluctuates.
+
+**Q: How can non-EU podiatry doctors immigrate to Spain?**
+A: You must complete academic certification (Homologación) and join an industry association, after which you can apply for residency through a work contract (Cuenta ajena) or a high-skilled visa (Altamente cualificado).
+
+**Q: Are Spanish podiatrist a regulated profession?**
+A: Yes, podiatrists are a regulated profession; must hold a Spanish-recognized degree and register with the Colegio Oficial de Podólogos.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Podiatrist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for podiatrists in Spain?**
-答：Entry-level annual salary is around €24,000-32,000, while senior podiatrists can earn up to €60,000. Private practice income varies.
-
-**问：How can non-EU podiatrists migrate to Spain?**
-答：They must obtain homologation of their degree and register with the professional college, then apply for a work contract or highly skilled visa.
-
-**问：Is podiatry a regulated profession in Spain?**
-答：Yes, podiatrists must hold a recognized degree and be registered with the Official College of Podiatrists.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

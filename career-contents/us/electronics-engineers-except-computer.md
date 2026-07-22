@@ -1,58 +1,90 @@
-# Electronics Engineers, Except Computer（Electronics Engineers, Except Computer）职业分析 · 美国
+# Electronics Engineers, Except Computer — career analysis · United States
 
-**职业代码：17-2072 – Electronics Engineers, Except Computer。**
+**Occupation code: 17-2072 (SOC)**
 
-Research, design, develop, or test electronic components and systems for commercial, industrial, military, or scientific use.
+Research, design, and test electronic components and systems for applications in communications, aerospace, defense, instrumentation, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$150,000（公立大学学费较低，私立较高） |
-| 硕士 | 2年 | $30,000~$80,000（可选专注方向如通信或集成电路） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities have lower tuition, private universities higher) |
+| Master's degree | 2 years | $30,000~$80,000 (Optional specializations such as telecommunications or integrated circuits) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | ABET认证大学 | 必备 | 通常要求ABET认证 |
-| 专业工程师执照 | 各州工程委员会 | 可选 | 某些行业或高级职位需要 |
+| Bachelor's degree in engineering | ABET-accredited university. | Required | Usually requires ABET accreditation |
+| Professional Engineer License | State engineering boards | Optional | Required for certain industries or senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 110,000。预计2023-2033年就业增长约5%，受通信、国防电子和自动化推动，但部分岗位外包至海外。
+**Job demand: high (★★★★☆).** National workforce approx. 110,000. Projected employment growth of about 5% from 2023-2033, driven by telecommunications, defense electronics, and automation, but some roles are outsourced overseas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $72,000~$92,000 | 中位约82000 |
-| 中级（3-7年） | $92,000~$120,000 | 中位约105000 |
-| 高级（7年以上） | $120,000~$160,000 | 中位约140000 |
+| Median salary | $130,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $72,000~$92,000 | Median around 82,000 |
+| Mid-level (3–7 years) | $92,000~$120,000 | Median approximately 105,000 |
+| Senior (7+ years) | $120,000~$160,000 | Median approximately 140,000 |
+| average salary | $137,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级设计工程师晋升为高级工程师、技术主管或项目经理，也可转向系统架构或研发管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Hardware design and testing tasks for electronic engineers face automation pressure, but system integration, innovative design, and cross-disciplinary collaboration are significantly amplified by AI, presenting both risks and opportunities.
+
+Can advance from junior design engineer to senior engineer, technical lead, or project manager, or transition to system architecture or R&D management.
+
+**Tasks most exposed to AI:**
+
+- Use EDA software for schematic and PCB layout design and verification.
+- Perform standardized electronic component testing and parameter verification
+- Generate engineering documents and reports that meet standards
+- Simple troubleshooting and repetitive debugging
+
+**Where AI augments the role:**
+
+- Use AI simulation tools to quickly optimize circuit design parameters
+- Predict product reliability based on ML analysis of test data
+- Collaborates with digital twin systems for virtual prototype validation.
+- Assisted technical literature search and patent analysis via NLP tools
+
+**Human moat:**
+
+- Innovative system architecture design and high-complexity mixed-signal circuit design
+- Interdisciplinary integration (e.g., synergy between RF and embedded systems)
+- Engineering judgment and trade-offs in extreme environments or reliability requirements
+- High-level technical negotiations and decision-making with clients, suppliers, and regulators
+
+**Skills to build:**
+
+- Advanced simulation tools (e.g., ANSYS HFSS, Keysight ADS)
+- Python scripts and AI models applied to design optimization
+- Digital twin and system modeling methods
+- Electromagnetic compatibility (EMC) and signal integrity design knowledge
+- Project Management and Agile Development Practices
+
+**Key growth areas:**
 
 - Telecommunications
 - Defense Electronics
@@ -61,65 +93,64 @@ Research, design, develop, or test electronic components and systems for commerc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见签证，需学士学位，雇主担保，抽签配额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或本科+5年经验，通常需PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合学士学位，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出人才，需证明显著成就 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common visa, requires bachelor's degree, employer sponsorship, limited lottery quota |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's or bachelor's plus 5 years of experience; usually needs PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree, long waiting period |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable for distinguished talent, requires proof of significant achievements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronics Engineers, Except Computer？**
-- 对电子电路和系统有浓厚兴趣者
-- 喜欢动手实验和解决复杂技术问题的人
-
-**谁不适合学Electronics Engineers, Except Computer？**
-- 不喜欢持续学习新技术者
-- 不擅长数学和物理分析的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong interest in electronic circuits and systems
+- People who enjoy hands-on experiments and solving complex technical problems
+
+**Who is not suited**
+- Those who dislike continuous learning of new technologies
+- People who are not good at math and physical analysis
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for electronics engineers?**
+A: According to BLS data, the 2023 median annual salary is approximately $109,000 USD, higher than the average for all occupations.
+
+**Q: How can international students immigrate to the US through electronic engineering careers?**
+A: Typical path: F-1 graduation → OPT → apply for H-1B work visa → employer files PERM labor certification and EB-2/EB-3 green card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electronics Engineers, Except Computer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for electronics engineers?**
-答：According to BLS, median annual wage was about $109,000 in 2023, above average for all occupations.
-
-**问：How can international students immigrate to the US as electronics engineers?**
-答：Typical path: F-1 to OPT, then H-1B visa, followed by PERM labor certification and EB-2/EB-3 green card.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

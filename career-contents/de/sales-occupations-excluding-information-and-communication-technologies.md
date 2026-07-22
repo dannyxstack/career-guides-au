@@ -1,58 +1,94 @@
-# Sales Occupations (excluding Information and Communication Technologies)（Sales Occupations (excluding Information and Communication Technologies)）职业分析 · DE
+# Sales Occupations (excluding Information and Communication Technologies) — career analysis · Germany
 
-**职业代码：6112 – Sales Occupations (excluding Information and Communication Technologies)。**
+**Occupation code: 6112 (KldB)**
 
-Responsible for product sales, customer relationship management, and market development, covering various fields from retail to industrial sales.
+Responsible for product sales, customer relationship maintenance, and market development, covering areas from retail to industrial sales.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（双元制培训通常免学费，企业发放津贴） |
-| 本科（商科/市场营销） | 3-4年 | —（公立大学免学费，仅收学期费） |
+| Vocational training (dual system) | 3 years | $0~$10,000 (Dual training is usually tuition-free with company allowances) |
+| Bachelor's degree (Business/Marketing) | 3-4 years | $0~$12,000 (Tuition-free at public universities, only semester fees apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制销售培训证书 | 工商会（IHK） | 可选 | 需完成3年双元制培训并通过考试 |
-| 本科学位（商科） | 大学 | 可选 | 非强制但提升竞争力 |
+| Dual-system Sales Training Certificate | Chamber of Commerce and Industry (IHK) | Optional | Must complete a 3-year dual training program and pass the exam |
+| Bachelor degree (Business) | University | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,800,000。德国销售岗位需求稳定，尤其B2B和外贸销售因数字化转型和全球化而增长。竞争中等，经验丰富者更受青睐。
+**Job demand: high (★★★★☆).** National workforce approx. 2,800,000. Demand for sales positions in Germany is stable, especially in B2B and foreign trade sales due to digital transformation and globalization. Competition is moderate; experienced candidates are preferred.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 税前年薪，含提成可能更高 |
-| 中级（4-7年） | $45,000~$65,000 | 含提成及奖金 |
-| 高级（8年以上） | $65,000~$90,000 | 销售经理级别 |
+| Median salary | $64,968 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$45,000 | Annual salary before tax, including commissions which may be higher |
+| Mid-level (4-7 years) | $45,000~$65,000 | Including commission and bonuses |
+| Senior (8+ years) | $65,000~$90,000 | Sales manager level |
+| average salary | $72,672 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：正面（★★★★☆）。** 可从初级销售代表晋升至销售经理、区域总监，甚至销售副总裁。需持续提升沟通和谈判技能。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
+
+Can advance from junior sales representative to sales manager, regional director, or even VP of Sales. Requires continuous improvement of communication and negotiation skills.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate customer quotes and product specifications
+- Use CRM automation for customer information collection and initial screening
+- Automatically generate sales reports and performance analysis.
+- Basic customer email responses and FAQ replies
+- Automated query for product inventory and pricing data
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of customer historical data to predict purchase intent and optimal contact timing
+- Intelligent recommendation of personalized product combinations and cross-selling opportunities
+- Provides real-time negotiation advice and script optimization via natural language processing
+- Automatically record and analyze meeting content, extracting key action items
+- Using virtual presentation tools to improve remote product demonstrations
+
+**Human moat:**
+
+- Complex negotiations and relationship management for building long-term trust
+- Creative solutions for handling customer complaints and exceptional situations
+- Cross-departmental coordination and integration of customised solutions
+- In-depth industry knowledge and professional judgment
+- Emotional resonance and real-time response to unexpressed customer needs.
+
+**Skills to build:**
+
+- CRM and sales automation tool operation (e.g., Salesforce, HubSpot)
+- Data analysis and visualization (Tableau, Power BI, SQL)
+- Use of AI-assisted sales tools (e.g., Conversica, Gong)
+- Digital communication and virtual presentation skills
+- Basic programming logic (to understand AI output).
+- Industry-specific technical knowledge (e.g., materials science, supply chain)
+
+**Key growth areas:**
 
 - Digital Transformation
 - B2B Sales
@@ -61,68 +97,67 @@ Responsible for product sales, customer relationship management, and market deve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有大学学历且年薪达到门槛的销售经理或专家 |
-| Subclass Skilled Worker（Skilled Worker Visa (§18a AufenthG)） | 适合有职业培训或大学学历的销售人才 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许来德找工作一年 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for sales managers or specialists with a university degree and meeting the salary threshold |
+| Subclass Skilled Worker (Skilled Worker Visa (§18a AufenthG)) | Suitable for sales talent with vocational training or a university degree |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing one year to seek employment in Germany |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Occupations (excluding Information and Communication Technologies)？**
-- 善于沟通和谈判的人
-- 目标导向、抗压能力强的人
-- 愿意出差和接触不同客户的人
-
-**谁不适合学Sales Occupations (excluding Information and Communication Technologies)？**
-- 不擅长人际交往的人
-- 追求朝九晚五固定工作节奏的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People good at communication and negotiation
+- Goal-oriented, resilient individuals
+- People willing to travel and engage with different clients
+
+**Who is not suited**
+- People not good at interpersonal interactions
+- Those seeking a fixed 9-to-5 work schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of sales occupations in Germany?**
+A: Junior sales annual salary approx. 30,000-45,000 euros; mid-level 45,000-65,000 euros; senior manager can reach 65,000-90,000 euros, depending on industry and commission structure.
+
+**Q: How can foreigners immigrate to Germany through a sales career?**
+A: After obtaining a university degree or completing recognised vocational education, you can apply for an EU Blue Card or skilled worker visa. An Opportunity Card can also be used for job seeking.
+
+**Q: What are the career progression paths for sales professionals?**
+A: From sales representative to sales manager, regional sales director, then to vice president of sales. Need to accumulate client resources and management skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 正面（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Sales Occupations (excluding Information and Communication Technologies)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sales occupations in Germany?**
-答：Entry-level sales earn about 30,000-45,000 EUR annually, mid-level 45,000-65,000 EUR, and senior managers 65,000-90,000 EUR, depending on industry and commission structure.
-
-**问：How can foreigners immigrate to Germany through sales occupations?**
-答：With a university degree or completed recognized vocational training, you can apply for an EU Blue Card or Skilled Worker Visa. The Opportunity Card can also be used for job seeking.
-
-**问：What are the career progression paths for sales occupations?**
-答：From sales representative to sales manager, regional sales director, and vice president of sales. Requires building client base and management skills.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

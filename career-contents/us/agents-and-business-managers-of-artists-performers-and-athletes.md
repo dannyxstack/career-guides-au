@@ -1,59 +1,95 @@
-# Agents and Business Managers of Artists, Performers, and Athletes（Agents and Business Managers of Artists, Performers, and Athletes）职业分析 · 美国
+# Agents and Business Managers of Artists, Performers, and Athletes — career analysis · United States
 
-**职业代码：13-1011 – Agents and Business Managers of Artists, Performers, and Athletes。**
+**Occupation code: 13-1011 (SOC)**
 
-Represent and promote artists, performers, and athletes in dealings with current or prospective employers; handle contract negotiation and other business matters.
+Represents artists, performers, and athletes in dealings with potential employers, handling contract negotiations and other business matters; a core business role in the entertainment and sports sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $50,000~$150,000（商科、法律或传媒专业，公立与私立大学差异大） |
-| 硕士学位（可选） | 1-2年 | $30,000~$80,000（MBA或娱乐/体育管理硕士可增强竞争力） |
+| Bachelor's degree | 4 years | $50,000~$150,000 (Majors in business, law, or media, with significant differences between public and private universities) |
+| Master's degree (optional) | 1-2 years | $30,000~$80,000 (An MBA or entertainment/sports management master's degree can enhance competitiveness.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 大学 | 必备 | 商科、市场营销、法律或相关领域 |
-| 经纪人牌照（部分州） | 州政府 | 可选 | 如加利福尼亚州要求艺人经纪人执照 |
-| 行业认证（如SAG-AFTRA会员） | 演员工会 | 可选 | 非强制但有利于建立信誉 |
+| Bachelor's degree | University | Required | Business, marketing, law, or related fields |
+| Broker license (some states) | State government | Optional | Such as California requires an artist manager license |
+| Industry certification (e.g., SAG-AFTRA membership) | Actors' union | Optional | Not mandatory but helpful for building credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 20,800。美国劳工统计局预测，2022-2032年该职业就业增长率约9%（快于平均水平），受娱乐和体育产业持续扩张推动。
+**Job demand: medium (★★★☆☆).** National workforce approx. 20,800. The US Bureau of Labor Statistics projects about 9% employment growth (faster than average) for this occupation from 2022-2032, driven by continued expansion of the entertainment and sports industries.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 助理或小型经纪公司 |
-| 中级（3-7年） | $65,000~$110,000 | 独立经纪人，部分收入来自佣金 |
-| 高级（7年以上） | $110,000~$200,000 | 知名经纪人，顶级客户带来高佣金 |
+| Median salary | $82,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Assistant or small brokerage firm |
+| Mid-level (3–7 years) | $65,000~$110,000 | Independent broker, with income partly from commission |
+| Senior (7+ years) | $110,000~$200,000 | Famous agent, top clients bring high commissions |
+| average salary | $141,580 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级多从助理做起，积累人脉后可升为独立经纪人，进一步可创办经纪公司或进入娱乐体育管理高层。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Broker work will be augmented by AI, not replaced: tasks like contract analysis, market matching, and data-driven negotiation strategies are efficiently handled by AI, freeing up human focus on relationship maintenance and creative decisions.
+
+Entry-level often starts as an assistant; building networks allows promotion to independent broker, then to founding a brokerage firm or entering senior entertainment/sports management.
+
+**Tasks most exposed to AI:**
+
+- Basic contract clause review and compliance checks
+- Automated coordination and conflict detection for artist/athlete schedules
+- Market data collection and preliminary quotation analysis
+- Standardized social media promotional copy generation
+- Auto-reply to simple customer consultation emails
+
+**Where AI augments the role:**
+
+- Uses AI to analyze artist social media data to optimize brand partnership strategies
+- AI-assisted negotiation simulation, predicting optimal offers and concession plans
+- Use machine learning models to predict event/performance box office and commercial value
+- Automatically generate personalized investment attraction plans and business reports
+- Using natural language processing to monitor industry trends and competitor activities.
+
+**Human moat:**
+
+- Build deep trust and personal relationships with artists/athletes
+- Immediate judgment and emotional support in crisis PR
+- Balancing complex multi-stakeholder interests (e.g., agencies, brands, artist teams)
+- On-the-spot adaptation in high-difficulty negotiations based on intuition and experience
+- Unstructured insights into emerging culture/niche markets
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/SQL/Tableau)
+- Use and tuning of AI tools (e.g., ChatGPT, contract analysis software)
+- Digital negotiation and remote collaboration tools
+- Basic programming skills (automation scripts)
+- Social media algorithms and content strategy
+- Cross-cultural communication and legal knowledge (IP/contracts)
+
+**Key growth areas:**
 
 - Entertainment Industry
 - Sports Management
@@ -62,68 +98,67 @@ Represent and promote artists, performers, and athletes in dealings with current
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于受雇于经纪公司的专业职位，需满足学位要求 |
-| Subclass O-1（O-1 Extraordinary Ability） | 若经纪人在领域内有杰出成就，可申请O-1签证 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 通过PERM劳工证申请绿卡，要求高级学位或非凡能力 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to professional positions employed by brokerage firms, must meet degree requirements |
+| Subclass O-1 (O-1 Extraordinary Ability) | If the agent has outstanding achievements in their field, they may apply for an O-1 visa. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Apply for a green card through PERM labor certification, requiring an advanced degree or exceptional ability |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agents and Business Managers of Artists, Performers, and Athletes？**
-- 善于人际沟通和谈判的人
-- 对娱乐或体育行业有热情的人
-- 能承受高压工作环境的人
-
-**谁不适合学Agents and Business Managers of Artists, Performers, and Athletes？**
-- 不适应频繁出差和不定时工作的人
-- 不喜欢销售和客户争夺的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at interpersonal communication and negotiation
+- People passionate about the entertainment or sports industry
+- Those who can handle high-pressure work environments
+
+**Who is not suited**
+- People who are not suited to frequent travel and irregular working hours
+- people who dislike sales and customer competition
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of talent agents?**
+A: Salaries vary widely, entry-level about US$45-65k, mid-level US$65-110k, senior US$110-200k+, top brokers can earn millions.
+
+**Q: How can foreign brokers work in the US?**
+A: Common path is H-1B visa (requires bachelor's degree) or O-1 visa (extraordinary ability), then can apply for EB-2 green card.
+
+**Q: What educational background is required?**
+A: Typically requires a bachelor's degree, with business, law, or communications majors advantageous; an MBA or master's in entertainment management can boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Agents and Business Managers of Artists, Performers, and Athletes的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for talent agents?**
-答：Entry-level $45k-$65k, mid-level $65k-$110k, senior $110k-$200k+, top agents earn millions.
-
-**问：Can foreign agents work in the US?**
-答：Possible via H-1B visa (requires bachelor's) or O-1 visa (extraordinary ability), then EB-2 green card.
-
-**问：What education is required?**
-答：Typically a bachelor's degree in business, law, or communications; MBA or sports management master's helps.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

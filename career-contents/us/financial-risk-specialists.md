@@ -1,59 +1,95 @@
-# Financial Risk Specialists（Financial Risk Specialists）职业分析 · 美国
+# Financial Risk Specialists — career analysis · United States
 
-**职业代码：13-2054 – Financial Risk Specialists。**
+**Occupation code: 13-2054 (SOC)**
 
-Analyze and measure exposure to credit and market risk threatening assets, earnings, or economic state of an organization; may recommend risk limits.
+Analyze and measure threats to an organization's assets, profitability, or economic status from credit and market risks, may propose risk limit recommendations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$80,000（学费因公立/私立差异大） |
-| 硕士（可选） | 1-2年 | $30,000~$60,000（金融、风险管理或MBA） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Tuition fees vary greatly between public and private institutions) |
+| Master's degree (optional) | 1-2 years | $30,000~$60,000 (Finance, risk management, or MBA.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融风险经理（FRM） | GARP | 可选 | 全球认可的风险管理认证 |
-| 特许金融分析师（CFA） | CFA Institute | 可选 | 投资领域高级认证 |
-| 职业风险经理（PRM） | PRMIA | 可选 | 专业风险管理认证 |
+| Financial Risk Manager (FRM) | GARP | Optional | Globally recognized risk management certification |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Advanced Certification in Investment Field |
+| Professional Risk Manager (PRM) | PRMIA | Optional | Professional risk management certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 38,000。随着金融监管加强和市场波动，金融机构对风险管理的需求持续增长，预计2023-2033年就业增长约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 38,000. With increasing financial regulation and market volatility, financial institutions' demand for risk management continues to grow, with employment projected to increase about 15% from 2023 to 2033.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 典型起薪 |
-| 中级（3-7年） | $80,000~$110,000 | 具备经验后提升 |
-| 高级（7年以上） | $120,000~$160,000 | 含管理层职位 |
+| Median salary | $117,330 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Typical starting salary |
+| Mid-level (3–7 years) | $80,000~$110,000 | Salary increase with experience |
+| Senior (7+ years) | $120,000~$160,000 | Includes management positions. |
+| average salary | $124,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径：初级风险分析师→高级风险专家→风险管理经理→首席风险官（CRO）。可向量化分析、合规等方向转型。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Career path: Junior Risk Analyst → Senior Risk Specialist → Risk Management Manager → Chief Risk Officer (CRO). Can pivot to quantitative analysis, compliance, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Risk Management
 - Regulatory Compliance
@@ -62,68 +98,67 @@ Analyze and measure exposure to credit and market risk threatening assets, earni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需雇主担保，配额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上学历或特殊能力，通常需PERM |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于本科及以下，流程较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa, requires employer sponsorship, limited quotas. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or higher, or exceptional ability; usually requires PERM |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or below; process is relatively long. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Risk Specialists？**
-- 数学和统计能力强，喜欢分析数据
-- 对金融市场和风险管理有浓厚兴趣
-- 注重细节，能承受压力
-
-**谁不适合学Financial Risk Specialists？**
-- 不喜欢数字和定量分析
-- 不擅长在高压环境下工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong in mathematics and statistics, enjoys analyzing data
+- Strong interest in financial markets and risk management
+- Detail-oriented, able to work under pressure
+
+**Who is not suited**
+- Dislikes numbers and quantitative analysis
+- Not good at working under high pressure.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for financial risk experts?**
+A: Entry-level approx $55,000-75,000, mid-level $80,000-110,000, senior $120,000-160,000; certification can increase salary.
+
+**Q: How can a financial risk expert immigrate to the US?**
+A: The main pathway is H-1B work visa to EB-2/EB-3 green card, requiring employer sponsorship. FRM/CFA certification aids the application.
+
+**Q: Which certifications are most helpful for financial risk experts?**
+A: FRM (Financial Risk Manager) is most directly relevant; CFA and PRM are also recognized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较难（★★★½☆） |
-| 考证难度 | 较难（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Financial Risk Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Financial Risk Specialists?**
-答：Entry-level $55k-$75k, mid-level $80k-$110k, senior $120k-$160k; certifications can boost pay.
-
-**问：How can Financial Risk Specialists immigrate to the US?**
-答：Main path: H-1B visa then EB-2/EB-3 green card, employer-sponsored. FRM/CFA certifications help.
-
-**问：Which certifications are most helpful for Financial Risk Specialists?**
-答：FRM (Financial Risk Manager) is most relevant; CFA and PRM are also recognized.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

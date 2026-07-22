@@ -1,63 +1,94 @@
-# 工程经理（Engineering Manager）职业分析 · 澳大利亚
+# Engineering Manager — career analysis · Australia
 
-**职业代码：133211 – Engineering Manager。**
+**Occupation code: 133211 (ANZSCO)**
 
-工程经理统筹工程项目的技术、团队、预算和交付，是高薪管理职业，在MLTSSL上（需EA或相关评估），基建与能源方向需求强。
+Engineering managers oversee the technical, team, budget and delivery aspects of engineering projects. It is a high-paying management role listed on the MLTSSL (requiring EA or equivalent assessment), with strong demand in infrastructure and energy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Engineering | 4年 | $28,000~$48,000（—） |
-| MBA / Master（加分） | 1~2年 | $40,000~$80,000（管理晋升） |
+| Bachelor of Engineering | 4 years | $28,000~$48,000 (—) |
+| MBA / Master's degree (advantageous) | 1–2 years | $40,000~$80,000 (Advancement into management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Engineers Australia 评估 / CPEng | Engineers Australia | 可选 | 移民与执业加分 |
-| 相关工程本科 | 认可大学 | 可选 | 入行基础 |
+| Engineers Australia assessment / CPEng | Engineers Australia | Optional | Immigration and Licensing Advantages |
+| Relevant engineering undergraduate degree | Recognised university | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 35,000。基建、可再生能源和制造升级推动工程管理需求，经验丰富者薪资很高。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Infrastructure, renewable energy and manufacturing upgrades are driving demand for engineering managers, with high salaries for experienced professionals.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~2,800 个 | 全国 |
-| LinkedIn | 1,800~3,200 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级工程经理 | $130,000~$160,000 | — |
-| 中级 | $160,000~$200,000 | — |
-| 资深/总监 | $200,000~$260,000 | 大型项目 |
+| Median salary | $182,988 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Engineering Manager | $130,000~$160,000 | — |
+| Intermediate | $160,000~$200,000 | — |
+| Senior/Director | $200,000~$260,000 | Large-scale projects |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需工程背景+管理经验；路径向项目总监、运营总监发展。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation risk for engineering managers is moderate: repetitive reporting, resource scheduling, and compliance checks will be taken over by AI, but strategic decision-making, cross-team coordination, and emergency management needs will actually increase. Overall job numbers are stable, but core responsibilities shift to higher value-add.
+
+Requires an engineering background plus management experience; pathway leads to Project Director or Operations Director roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating project progress reports and KPI dashboards
+- AI-optimized resource allocation and budget forecasting
+- Standardized compliance documents (e.g., safety audit forms)
+- Automated screening for preliminary risk assessment
+- Routine meeting minutes and task tracking
+
+**Where AI augments the role:**
+
+- AI-assisted complex schedule simulation and bottleneck prediction
+- Real-time cost-schedule variance analysis and corrective suggestions
+- Automated supplier performance evaluation reports
+- Visualization and conflict detection of cross-project dependencies
+- AI-driven team sentiment analysis and conflict early warning
+
+**Human moat:**
+
+- Strategic decision-making and priority trade-offs under uncertainty
+- Conflict mediation and motivation in cross-cultural, cross-functional teams
+- Handling on-site accidents and customer crisis public relations
+- Intuitive judgment of project hidden risks (e.g., political, interpersonal)
+- Integrate AI outputs into actionable plans through tacit knowledge
+
+**Skills to build:**
+
+- Project management AI tools (e.g., Asana Smart, MS Project Copilot)
+- Basic Python/R for customized data analysis
+- Lean/Agile and AI integration methodology
+- Data-driven decision-making and KPI system design
+- Digital twin and BIM platform management
+- AI ethics and AI tool acceptance evaluation
+
+**Key growth areas:**
 
 - Infrastructure Projects
 - Renewables/Energy
@@ -66,65 +97,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称TSS），按具体职责匹配ANZSCO |
-| Subclass 186（ENS） | 雇主担保永居，需相关评估 |
-| Subclass 190（Skilled Nominated） | 州提名，按各州清单 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS), matched to ANZSCO based on specific duties |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学工程经理？**
-- 工程背景想走管理高薪+移民者
-- 擅长项目与团队管理者
-
-**谁不适合学工程经理？**
-- 不愿承担交付与预算压力者
-- 排斥跨部门协调者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an engineering background seeking management, high salary, and a migration pathway
+- Strong in project and team management
+
+**Who is not suited**
+- Those unwilling to take on delivery and budget pressures
+- Not suited to those who dislike cross-departmental coordination
+
+---
+
+## 8. FAQ
+
+**Q: How much do engineering managers earn in Australia?**
+A: Approximately AUD $130,000-$260,000, higher for large project directors.
+
+**Q: Can engineering managers migrate to Australia on a skilled visa?**
+A: Yes. Engineering Manager (133211) is on the MLTSSL, requires an Engineers Australia assessment, and is eligible for 189/190/186 visas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 高（★★★★★） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-工程经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲工程经理工资多少？**
-答：约AUD $13万~$26万，大型项目总监更高。
-
-**问：工程经理能技术移民吗？**
-答：可以。Engineering Manager（133211）在MLTSSL上，需Engineers Australia评估，189/190/186均可。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

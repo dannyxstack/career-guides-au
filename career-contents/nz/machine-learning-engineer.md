@@ -1,58 +1,94 @@
-# Machine Learning Engineer（Machine Learning Engineer）职业分析 · 新西兰
+# Machine Learning Engineer — career analysis · New Zealand
 
-**职业代码：262114 – Machine Learning Engineer。**
+**Occupation code: 262114 (ANZSCO)**
 
-Machine learning engineers are in high demand in New Zealand, especially in AI startups in Christchurch and Wellington. Eligible for Green List Tier 1 direct residence, with median salary around 120,000 NZD.
+Machine learning engineers are in high demand in New Zealand, especially in AI startups in Christchurch and Wellington. Eligible for Green List Tier 1 direct residence pathway; median salary can reach 120,000 NZD.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $40,000~$60,000（新西兰本土学费，国际生更高） |
-| 硕士学位 | 1-2年 | $30,000~$50,000（本科完成后申请） |
+| Bachelor's degree | 3 years | $40,000~$60,000 (Domestic tuition for New Zealanders, higher for international students) |
+| Master's degree | 1-2 years | $30,000~$50,000 (Apply after completing bachelor's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学士 | 新西兰大学 | 必备 | 主流学历要求 |
-| 编程英语能力证明 | 新西兰移民局 | 必备 | 雅思6.5或同等 |
+| Bachelor's degree in computer science or related field. | New Zealand universities | Required | Mainstream educational requirements |
+| Proof of programming English proficiency | New Zealand Immigration Service | Required | IELTS 6.5 or equivalent. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。新西兰政府投资AI和数字技术，预计2025-2030年ML工程师增长30%。奥克兰和惠灵顿职位最多，但基督城因AI研究集群成为新热点。
+**Job demand: high (★★★★☆).** National workforce approx. 800. New Zealand government is investing in AI and digital technology, with ML engineer growth projected at 30% from 2025-2030. Most jobs are in Auckland and Wellington, but Christchurch is emerging as a new hotspot due to AI research clusters.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$100,000 | 需硕士学历或同等经验 |
-| 中级（3-6年） | $100,000~$140,000 | 常见中位数 |
-| 高级（6年+） | $140,000~$180,000 | 含奖金或股权 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $75,000~$100,000 | Requires master's degree or equivalent experience |
+| Mid-level (3–6 years) | $100,000~$140,000 | Common median |
+| Senior (6+ years) | $140,000~$180,000 | Includes bonus or equity |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很高（★★★★½）。** 初级工程师可向高级专家、团队负责人或AI架构师发展。经验丰富者常转向首席科学家或创业方向。薪资年增约10%。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Machine learning engineer is a core role directly created by AI, with demand surging alongside AI investment, currently in short supply; however, entry barriers are rising, requiring continuous learning of cutting-edge technologies, otherwise basic modelling roles may be automated.
+
+Junior engineers can advance to senior experts, team leads, or AI architects. Experienced ones often move toward chief scientist roles or entrepreneurship. Salary increases by about 10% annually.
+
+**Tasks most exposed to AI:**
+
+- Repetitive hyperparameter tuning and model selection (autoML can automate)
+- Basic feature engineering (replaced by automated feature generation tools)
+- Simple model deployment and monitoring (platform-hosted tools)
+- Data annotation and preprocessing (semi-automated cleaning tools)
+- Traditional algorithm implementation (library function encapsulation)
+
+**Where AI augments the role:**
+
+- Large-scale data preprocessing and feature engineering (AI automatically discovers complex features)
+- Model Interpretability Analysis (AI-generated attribution maps)
+- Domain-specific model fine-tuning (fast adaptation to business scenarios)
+- Real-time model monitoring and anomaly detection (AI early warning)
+- Cross-model ensemble and distillation (automatic combination of optimal models)
+
+**Human moat:**
+
+- Complex system architecture design and distributed training optimization
+- Ability to translate business problems into mathematical models
+- Model fairness, privacy, and compliance governance
+- Full lifecycle management and team collaboration for AI projects
+- Understanding cutting-edge research and creative application
+
+**Skills to build:**
+
+- Fine-tuning and deployment of large language models (LLMs) (e.g., LangChain)
+- Edge AI and hardware acceleration (TFLite, ONNX)
+- MLOps full stack (Kubeflow, MLflow)
+- Generative AI application development (Stable Diffusion, RAG)
+- Causal inference and reinforcement learning
+- AI ethics and explainability tools (SHAP, LIME)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,65 +97,64 @@ Machine learning engineers are in high demand in New Zealand, especially in AI s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Direct Residence） | 符合条件可直接申请居民签证，无需先工作 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，硕士+工作可获6分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可衔接居留 |
+| Subclass Green List T1 (Direct Residence) | Eligible applicants can directly apply for a resident visa without needing to work first |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: master's degree plus work can achieve 6 points |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa with pathway to residency |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Machine Learning Engineer？**
-- 数学或计算机背景，热爱算法与数据
-- 喜欢编程和模型调优，有实验精神
-- 希望在新西兰快速移民的科技人才
-
-**谁不适合学Machine Learning Engineer？**
-- 对数学或统计不感兴趣，偏好纯软件开发
-- 不喜欢技术快速迭代，无法应对高压学习
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Mathematics or computer science background, passionate about algorithms and data
+- Enjoys programming and model tuning, with an experimental spirit
+- Tech talent seeking fast immigration to New Zealand
+
+**Who is not suited**
+- Not interested in math or statistics, prefer pure software development
+- Dislike rapid technology changes, unable to cope with high-pressure learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for machine learning engineers in New Zealand?**
+A: Entry-level approx. NZD 75,000-100,000, mid-level 100,000-140,000, senior 140,000-180,000.
+
+**Q: Can I immigrate to New Zealand through this job?**
+A: Yes. Machine learning engineers are on the Green List Tier 1; meeting salary requirements allows direct residence application.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较难（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很高（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Machine Learning Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for machine learning engineers in NZ?**
-答：Junior: 75k-100k NZD, mid: 100k-140k, senior: 140k-180k.
-
-**问：Can I immigrate through this job in NZ?**
-答：Yes, it's on Green List Tier 1, allowing direct residence if salary threshold met.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

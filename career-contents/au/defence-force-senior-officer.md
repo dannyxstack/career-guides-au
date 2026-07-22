@@ -1,60 +1,96 @@
-# Defence Force Senior Officer（Defence Force Senior Officer）职业分析 · 澳大利亚
+# Defence Force Senior Officer — career analysis · Australia
 
-**职业代码：111212 – Defence Force Senior Officer。**
+**Occupation code: 111212 (ANZSCO)**
 
-Senior officer responsible for command, management and strategic planning of the Australian Defence Force, including Army, Navy and Air Force.
+Senior officials responsible for commanding, managing, and strategically planning the Australian Defence Force, covering the Army, Navy, and Air Force.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 军事院校本科 | 3-4年 | —（ADFA或RMC等军事院校提供全薪培训） |
+| Bachelor's degree from a military academy. | 3-4 years | $0~$50,000 (Full-salary training is provided at military institutions like ADFA or RMC.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军官任命（Commission） | 澳大利亚国防军 | 必备 | 必须完成军官培训课程并获得任命 |
-| 高级指挥与参谋课程 | 澳大利亚国防学院 | 可选 | 升任高级军官通常需要 |
-| 安全审查（Positive Vetting） | 澳大利亚政府 | 必备 | 必须获得最高级别安全许可 |
+| Officer Commission | Australian Defence Force. | Required | Must complete officer training course and receive appointment |
+| Security clearance (Positive Vetting) | Australian Government | Required | Must obtain the highest level of security clearance |
+| Advanced Command and Staff Course | Australian Defence Force Academy | Optional | Advancement to senior officer typically requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 1,000。澳洲国防军高级军官需求稳定，受国防政策与预算影响。国防能力持续投资保障就业前景，但竞争激烈。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,000. Demand for Australian Defence Force senior officers is stable, influenced by defence policy and budget. Sustained investment in defence capability ensures employment prospects, but competition is high.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 少尉/中尉级别 |
-| 中级（4-10年） | $100,000~$150,000 | 上尉/少校级别 |
-| 高级（10年以上） | $160,000~$250,000 | 中校及以上级别 |
+| Median salary | $125,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $70,000~$90,000 | Second Lieutenant/Lieutenant level |
+| Mid-level (4-10 years). | $100,000~$150,000 | Captain/Major level |
+| Senior (10+ years) | $160,000~$250,000 | Lieutenant Colonel and above |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径明确：从初级军官逐步晋升至上校、准将、少将等；需通过军事院校培训、实战经验及高级指挥课程。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has an amplifying effect on command decision roles for senior defense force officers—smart systems optimize situational awareness, staff analysis, and logistics coordination, enabling faster decisions; but core responsibilities like strategic judgment, moral accountability, and on-site command remain human, so roles are augmented rather than replaced by AI.
+
+Clear career progression path: from junior officer step by step to colonel, brigadier, major general, etc.; requires military academy training, practical experience, and advanced command courses.
+
+**Tasks most exposed to AI:**
+
+- Basic intelligence fusion and report writing
+- Routine logistics material scheduling planning
+- Drafting initial standardized exercise plans
+- Personnel file management and simple data analysis.
+- Daily communication content filtering and classification
+
+**Where AI augments the role:**
+
+- Optimize tactical decisions using AI real-time wargaming
+- Quickly identify threats and opportunities through intelligent situational awareness systems
+- Automatically summarize multi-source intelligence summaries using natural language processing tools
+- Use data analytics platforms to predict equipment maintenance needs and manpower allocation
+- Accelerating joint exercise design and effectiveness evaluation using simulation systems
+
+**Human moat:**
+
+- Strategic decision-making and ethical judgment: ultimate responsibility in ambiguous and complex battlefield environments
+- Interpersonal leadership and morale boosting: rallying unit cohesion face-to-face
+- Cross-service diplomacy and political communication: high-level coordination with governments and allies
+- On-site intuition and adaptability: unstructured decision-making based on long-term experience
+- Security confidentiality and professional ethics: handling classified information and compliance oversight
+
+**Skills to build:**
+
+- Data-driven decision-making and key indicator interpretation
+- Understanding of AI/ML fundamentals and military applications
+- Operation of human-machine interfaces for collaboration with AI systems
+- Use of advanced wargaming and simulation tools
+- Cybersecurity basics and information warfare awareness
+- Cross-domain systems thinking (integrating politics, economics, technology)
+
+**Key growth areas:**
 
 - Stable
 - Defence-driven
@@ -63,62 +99,64 @@ Senior officer responsible for command, management and strategic planning of the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent） | 不在技术职业清单上，无法申请。 |
-| Subclass 482（Temporary Skill Shortage） | 不适用，国防军职位仅限澳大利亚公民或永久居民。 |
+| Subclass 189 (Skilled Independent) | Cannot apply, not on the skills list. |
+| Subclass 482 (Temporary Skill Shortage) | Not applicable; defence force positions are limited to Australian citizens or permanent residents. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Defence Force Senior Officer？**
-- 具有强烈爱国情怀及领导力的人
-- 适应高强度训练和纪律生活的人
-- 追求稳定职业和明确晋升路径的人
+**Who is suited**
+- Individuals with strong patriotic sentiment and leadership skills.
+- Those suited to high-intensity training and disciplined life
+- Those seeking stable careers and clear promotion paths
 
-**谁不适合学Defence Force Senior Officer？**
-- 期望灵活工作时间和低压力的人
-- 无法通过严格体检和背景审查的人
+**Who is not suited**
+- People expecting flexible hours and low stress
+- Individuals who cannot pass strict medical exams and background checks.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of senior officers in the defense forces?**
+A: Junior officer annual salary approx. AUD 70,000-90,000; senior officer up to AUD 160,000-250,000, plus housing, medical and other benefits.
+
+**Q: Is there a skilled migration pathway for senior defense force officers?**
+A: No. Defence Force positions are only open to Australian citizens or permanent residents and do not accept overseas skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Defence Force Senior Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a Defence Force Senior Officer?**
-答：Junior officers earn AUD 70,000-90,000, senior officers up to AUD 160,000-250,000, plus benefits like housing and healthcare.
-
-**问：Is there a skilled migration pathway for Defence Force Senior Officers?**
-答：No. These positions are restricted to Australian citizens or permanent residents and are not open to skilled migrants.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

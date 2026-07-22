@@ -1,60 +1,96 @@
-# Supervisors and Managers - Technical Production Planning and Control（Supervisors and Managers - Technical Production Planning and Control）职业分析 · DE
+# Supervisors and Managers - Technical Production Planning and Control — career analysis · Germany
 
-**职业代码：2739 – Supervisors and Managers - Technical Production Planning and Control。**
+**Occupation code: 2739 (KldB)**
 
-Oversees production planning, scheduling, and control to ensure manufacturing efficiency and quality. Common in manufacturing industries, leading production planning teams.
+Responsible for production process planning, scheduling, and control to ensure manufacturing efficiency and quality. Common in manufacturing, leading production planning teams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制大学（DH） | 3年 | —（双元制学习期间有津贴） |
-| 本科（FH/Uni） | 3-4年 | $300~$1,500（学期费，部分州不收学费） |
-| 技术员进修（Techniker） | 2年（部分时间） | $5,000~$12,000（进修费用，可能获资助） |
+| Dual university (DH) | 3 years | $0~$3,000 (Dual system training provides a stipend during the study period) |
+| Bachelor's (FH/Uni). | 3-4 years | $300~$1,500 (Semester fee, some states charge no tuition) |
+| Advanced training for technicians (Techniker) | 2 years (part-time) | $5,000~$12,000 (Training costs, may be subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生产计划与物流管理学士/硕士 | 大学或应用技术大学 | 可选 | 相关学位，如Wirtschaftsingenieurwesen |
-| 技术员（Techniker） | 工商业协会（IHK） | 可选 | 机械/电气技术员方向，可取代学位 |
-| 资质认证（Anerkennung） | 德国联邦外国职业资格认证局 | 必备 | 外国学历需认证 |
+| Qualification recognition (Anerkennung) | German Federal Office for Foreign Professional Qualifications Recognition | Required | Foreign qualifications need accreditation |
+| Bachelor's/Master's in Production Planning and Logistics Management | University or University of Applied Sciences | Optional | Related degree, such as Wirtschaftsingenieurwesen |
+| Techniker | Chamber of Industry and Commerce (IHK) | Optional | Mechanical/Electrical Technician pathway, can substitute for a degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。德国工业4.0推动数字化生产，该职位需求稳定，尤其在汽车、机械制造领域。未来五年预计增长5%。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Germany's Industry 4.0 drives digital production, and demand for this position is stable, especially in automotive and mechanical engineering. Expected growth of 5% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 税前年薪，中型企业 |
-| 中级（4-7年） | $52,000~$65,000 | 税前年薪，含绩效奖金 |
-| 高级（8年以上） | $65,000~$85,000 | 税前年薪，大型企业或主管职位 |
+| Median salary | $63,732 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $42,000~$52,000 | Annual pre-tax salary, medium-sized enterprise |
+| Mid-level (4-7 years) | $52,000~$65,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (8+ years) | $65,000~$85,000 | Annual pre-tax salary, for large enterprises or managerial positions |
+| average salary | $69,084 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 晋升路径：生产计划员→生产主管→生产经理/厂长。可转向供应链管理或项目管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Production managers and manufacturing supervisors see some duties replaced by AI, but core management, decision-making, and interpersonal coordination remain hard to automate; overall impact is mixed.
+
+Career path: Production Planner → Production Supervisor → Production Manager / Factory Manager. Can transition to supply chain management or project management.
+
+**Tasks most exposed to AI:**
+
+- Production Planning and Scheduling Optimization (AI algorithm auto-scheduling)
+- Real-time production line monitoring and anomaly alerts (AI vision + IoT).
+- Quality inspection data recording and basic analysis (AI image recognition)
+- Inventory management and material demand forecasting (AI prediction models)
+- Equipment maintenance scheduling and fault diagnosis (AI predictive maintenance)
+
+**Where AI augments the role:**
+
+- Using digital twins to simulate production processes to optimize efficiency
+- Monitor KPIs in real time and make quick decisions via an AI dashboard
+- Use AI-driven root cause analysis to solve quality issues
+- Automated report generation using natural language processing
+- Deploy collaborative robots to enhance production line flexibility
+
+**Human moat:**
+
+- Cross-department coordination and conflict resolution
+- On-site judgment and decision-making in emergencies
+- Managing and motivating production teams
+- Negotiation and alternative solution design during sudden supply chain disruptions
+- Human accountability in compliance and safety oversight
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/PowerBI).
+- AI/Machine learning basics and production application scenarios
+- Digital twin and simulation software operation
+- Lean production and Six Sigma methodology
+- Industrial Internet of Things (IIoT) and equipment integration
+- Change management and digital leadership
+
+**Key growth areas:**
 
 - Industry 4.0
 - Digitalization
@@ -63,68 +99,67 @@ Oversees production planning, scheduling, and control to ensure manufacturing ef
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历者，年薪门槛约43,800欧元（2024），紧缺职业可降低 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需大学学历或德国认可的职业教育，雇主担保 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，有效期一年，可找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated individuals; annual salary threshold about €43,800 (2024), can be lower for shortage occupations |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a university degree or recognized vocational education in Germany, employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, valid for one year, can be used to look for work |
 
-**PR难度：低-中（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors and Managers - Technical Production Planning and Control？**
-- 有工程或生产管理背景者
-- 善于协调和解决问题者
-- 希望在制造业稳定发展者
-
-**谁不适合学Supervisors and Managers - Technical Production Planning and Control？**
-- 不适应高压生产环境者
-- 缺乏数据分析能力者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an engineering or production management background
+- Those skilled in coordination and problem-solving
+- Those seeking stable development in the manufacturing industry
+
+**Who is not suited**
+- Not suited for high-pressure production environments
+- Those lacking data analysis skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary approx. €42,000–52,000, mid-level €52,000–65,000, senior up to €85,000. Salaries vary by region, industry, and company size.
+
+**Q: How can foreigners immigrate to Germany to work in this occupation?**
+A: Requires a German-recognized degree or 3+ years of relevant experience; possible via EU Blue Card or skilled migration visa. Foreign qualifications must be recognized by Anabin or IHK.
+
+**Q: Is University a Must?**
+A: Not necessarily. Entry is possible via a dual university program or technician training (Techniker), where the latter focuses more on practical experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低-中（★★☆☆☆） |
-
-Supervisors and Managers - Technical Production Planning and Control的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is about €42,000-€52,000, mid-level €52,000-€65,000, senior up to €85,000. Varies by region, industry, and company size.
-
-**问：How can foreigners immigrate to Germany for this occupation?**
-答：Require German-recognized degree or 3+ years of experience. Options: EU Blue Card or Skilled Worker Visa. Foreign degrees need recognition via Anabin or IHK.
-
-**问：Is a university degree required?**
-答：Not necessarily. Dual study program or technician qualification (Techniker) with practical focus are viable alternatives.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

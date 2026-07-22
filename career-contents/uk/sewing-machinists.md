@@ -1,60 +1,92 @@
-# Sewing machinists（Sewing machinists）职业分析 · UK
+# Sewing machinists — career analysis · United Kingdom
 
-**职业代码：8146 – Sewing machinists。**
+**Occupation code: 8146 (SOC)**
 
-Sewing machinists sew and finish garments by hand or machine, rectify faults in manufactured textile goods, and repair worn and damaged garments, playing a key role in garment manufacturing and textile repair.
+Sewing machine operators are skilled technical workers in the garment manufacturing and textile repair industry, responsible for sewing garments by hand or machine, mending textile defects, and repairing damaged clothing.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育 | 无固定年限 | —（通常无需正规教育，在职培训为主） |
-| 职业培训 | 6个月 | $1,000~$3,000（缝纫技术课程，如City & Guilds证书） |
+| Secondary Education | No fixed duration | $0~$0 (Typically no formal education required, on-the-job training) |
+| Vocational training | 6 months. | $1,000~$3,000 (Sewing technique courses, such as City & Guilds certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| City & Guilds缝纫技能证书 | City & Guilds | 可选 | 非强制，但有助于就业 |
-| NVQ在服装生产领域 | 多家培训机构 | 可选 | 职业资格，提升竞争力 |
+| City & Guilds Sewing Skills Certificate | City & Guilds | Optional | Not mandatory, but helpful for employment |
+| NVQ in Garment Production | Multiple training institutions. | Optional | Professional qualifications enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。英国缝纫机操作工就业前景稳定但增长缓慢，受服装制造业外移影响，岗位数量略有下降，但定制服装、皮革制品和维修行业仍有需求。预计2023-2033年就业人数轻微减少。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The employment outlook for sewing machine operators in the UK is stable but with slow growth. Due to the outsourcing of garment manufacturing, job numbers have slightly declined, but demand remains in custom clothing, leather goods, and repair sectors. Employment is expected to decrease slightly from 2023 to 2033.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 约每小时9-11英镑 |
-| 中级（3-8年） | $22,000~$27,000 | 约每小时11-13.5英镑 |
-| 高级（8年以上） | $27,000~$32,000 | 含技能津贴，可达每小时16英镑 |
+| Median salary | $24,813 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Approximately £9-11 per hour |
+| Mid-level (3–8 years) | $22,000~$27,000 | Approximately £11-13.5 per hour |
+| Senior (8+ years) | $27,000~$32,000 | Including skill allowance, up to £16 per hour |
+| average salary | $25,552 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 职业发展路径包括从初级缝纫工晋升为高级缝纫技师、样板师或生产主管。可通过学习时装设计或纺织技术课程提升技能，转向质量控制或服装打版岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Sewing machine operator roles are heavily affected by automation; entry-level tasks have been largely replaced by automated equipment, but high-precision, customized, and small-batch production still require manual labor, and job numbers will continue to shrink.
+
+Career progression paths include advancing from junior sewer to senior sewing technician, pattern maker, or production supervisor. Upgrade skills through fashion design or textile technology courses, transitioning to quality control or garment pattern making roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive flat seam and overlocking operations are completed by automated sewing machines
+- Simple cutting and fabric positioning using automatic cutting machines and feeding systems
+- Standard-sized sewing procedures are executed under computer control
+- Quality inspection uses vision systems to automatically detect stitches and defects
+
+**Where AI augments the role:**
+
+- AI-assisted design software helps adjust patterns and sewing plans
+- Smart sewing machine fault alerts and maintenance suggestions
+- Automated nesting system optimizing fabric utilization
+- Remote diagnostic tools assist with complex fault handling
+
+**Human moat:**
+
+- Skill in handling special materials such as stretch fabrics and leather
+- Complex styling and craftsmanship of custom garments
+- Creative judgement in repair and alteration
+- Machine debugging and process parameter optimization
+
+**Skills to build:**
+
+- Programming and operating automated sewing equipment
+- Basic mechanical maintenance and electronic fault troubleshooting
+- Digital Pattern Design and Layout Software
+- Data analysis and quality management methods
+- Custom and small-batch production process optimization
+
+**Key growth areas:**
 
 - Garment manufacturing
 - Textile repair
@@ -63,62 +95,64 @@ Sewing machinists sew and finish garments by hand or machine, rectify faults in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，但缝纫机操作工通常不在可担保职业清单上，极少获批 |
-| Subclass Graduate（Graduate visa） | 仅适用于在英完成学位的毕业生，可工作2年，但该职业不在高技能列表中 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, but sewing machine operators are typically not on the eligible occupation list, so approvals are rare |
+| Subclass Graduate (Graduate visa) | Only applicable to graduates who completed a degree in the UK; can work for 2 years, but this occupation is not on the high-skilled list |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sewing machinists？**
-- 喜欢手工操作和细节工作的人
-- 对服装制作和纺织品修复感兴趣的人
-- 寻求稳定在职培训岗位的人
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People interested in garment making and textile restoration
+- People seeking stable on-the-job training positions
 
-**谁不适合学Sewing machinists？**
-- 追求高薪和快速晋升的人
-- 希望从事高技能移民职业的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People aiming for high-skilled migration occupations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a sewing machine operator in the UK?**
+A: Average annual salary is around £22,000-25,000, entry-level about £18,000, senior up to £32,000. Salary is significantly affected by region and experience.
+
+**Q: Can a sewing machine operator migrate to the UK through skilled migration pathways?**
+A: Very difficult. This occupation is typically not on the Skilled Worker eligible occupation list, and salary levels rarely meet the immigration threshold. Only a very few highly skilled custom roles may be exceptions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sewing machinists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sewing machinists in the UK?**
-答：The average annual salary is around £22,000-£25,000, with entry-level around £18,000 and experienced up to £32,000, varying by region and experience.
-
-**问：Can sewing machinists migrate to the UK via skilled work routes?**
-答：Very difficult. This occupation is generally not on the Skilled Worker eligible list, and salary levels rarely meet the threshold. Only rare high-skilled custom roles might qualify.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

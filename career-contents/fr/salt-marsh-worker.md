@@ -1,60 +1,96 @@
-# Salt Marsh Worker（Salt Marsh Worker）职业分析 · FR
+# Salt Marsh Worker — career analysis · France
 
-**职业代码：A1417 – Salt Marsh Worker。**
+**Occupation code: A1417 (ROME)**
 
-Performs manual or mechanical salt harvesting, salt pan maintenance, and water quality management in French coastal salt marshes, blending tradition with ecological conservation.
+An agricultural environment occupation involving manual or mechanical salt extraction, salt pond maintenance, and water quality regulation in the French coastal salt fields, combining tradition with ecological protection.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求，通常在职培训 | 数月（在职培训） | —（通常由雇主提供培训） |
-| CAP Agricole（农业职业证书） | 2年（CAP） | —（公立学校免费或低学费，apprentissage有报酬） |
+| No specific educational requirements; usually on-the-job training | Several months (on-the-job training) | $0~$0 (Usually provided by the employer) |
+| CAP Agricole (Agricultural Vocational Certificate) | 2 years (CAP) | $0~$10,000 (Public schools offer free or low tuition, and apprentissage is paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需认证（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 法国盐田工作无需特定国家认证 |
-| CAP Agricole（可选） | 法国农业部 | 可选 | 非强制，但有助于就业 |
+| No mandatory license | None | Optional | Working in French salt fields does not require specific national certification |
+| CAP Agricole (optional) | French Ministry of Agriculture | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。法国盐田多为手工传统产区，受气候与生态保护政策影响，就业稳定但规模较小。有机盐和手工盐需求增长带来少量机会，但整体从业人数有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. Most of the French salt fields are traditional handicraft production areas, and due to climate and ecological protection policies, employment is stable but relatively small in scale. Growing demand for organic and artisanal salt brings limited opportunities, but overall employment is limited.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，以SMIC为基础 |
-| 中级（3-7年） | $25,000~$30,000 | 税前年薪，视经验与产区 |
-| 高级（7年以上或领班） | $30,000~$35,000 | 税前年薪，管理岗位 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, based on SMIC |
+| Mid-level (3–7 years) | $25,000~$30,000 | Pre-tax annual salary depends on experience and production area |
+| Senior (7+ years or team leader) | $30,000~$35,000 | Pre-tax annual salary, management position |
+| average salary | $25,224 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从采盐工做起，可晋升为盐田领班或盐田经理，也可转向盐产品质检或生态旅游导览。需多年经验积累。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on salt field workers is mixed: traditional manual salt extraction and water quality monitoring tasks can be replaced by automation, but areas that rely on human judgment, such as ecological protection and fine regulation, are instead enhanced by AI, resulting in polarized job demands.
+
+Usually, starting as a salt miner, one can be promoted to salt field supervisor or manager, or move to salt product quality inspection or ecotourism guide. Requires years of experience.
+
+**Tasks most exposed to AI:**
+
+- Artificial visual inspection of salt crystalline states
+- Manual adjustment of salt pool water level and salinity
+- Daily patrols and data recording of salt fields
+- Simple salt pond maintenance (such as dredging)
+- Traditional manual salt harvesting
+
+**Where AI augments the role:**
+
+- Optimizing water quality regulation of salt pools using sensor data
+- Drone patrols detect salt crystalline status
+- AI models predict weather and salt production
+- The automation system remotely controls Yantian equipment
+- Data-driven decision-making for ecological restoration solutions
+
+**Human moat:**
+
+- Experience in comprehensive management of Yantian ecosystems
+- Ability to respond to sudden natural events
+- Coordination with local communities and environmental organizations
+- Inheritance and innovation of traditional salt-making techniques
+- Long-term cross-season planning and judgment
+
+**Skills to build:**
+
+- Operation and maintenance of sensor IoT devices
+- Basic data analysis and visualization
+- Drone inspection operations.
+- Use of environmental monitoring software
+- Basic knowledge of ecological restoration
+- Basics of automated control systems
+
+**Key growth areas:**
 
 - organic salt demand
 - eco-tourism
@@ -63,68 +99,67 @@ Performs manual or mechanical salt harvesting, salt pan maintenance, and water q
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需雇主提供工作合同，并证明无法招到欧盟居民。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，但盐田工人通常不符合条件。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employers must provide employment contracts and prove that EU residents cannot be recruited. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to highly skilled talent, but salt pan workers usually do not qualify. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Salt Marsh Worker？**
-- 热爱户外体力劳动和传统工艺
-- 能适应盐田潮湿、日照强的环境
-- 对生态保护和可持续农业感兴趣
-
-**谁不适合学Salt Marsh Worker？**
-- 追求高薪和快速晋升者
-- 无法承受高强度体力劳动
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor physical labor and traditional crafts
+- It can adapt to the humid and sunny environment of the salt fields
+- Interested in ecological protection and sustainable agriculture
+
+**Who is not suited**
+- Those pursuing high salary and rapid advancement
+- Unable to endure high-intensity physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Yantian workers?**
+A: Junior salaries are about 20-25k euros, intermediate salaries 25-30k, and senior or foremen 30-35k euros, which is below the French average.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: The difficulty is relatively high. This occupation is not in short supply; employers must prove they cannot recruit EU residents and usually require French language skills.
+
+**Q: What career development opportunities are available for Yantian workers?**
+A: Can advance to salt pan foreman or manager, or transition to salt product quality inspection, ecotourism guiding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无需认证（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Salt Marsh Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for salt marsh workers?**
-答：Entry-level annual salary is around €20-25k, mid-level €25-30k, senior or supervisor €30-35k, below the French average.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：It is difficult. The occupation is not in shortage, employers must prove inability to hire EU nationals, and French language skills are usually required.
-
-**问：What career development opportunities exist for salt marsh workers?**
-答：Can advance to salt pan supervisor or manager, or transition to salt product quality control or eco-tourism guiding.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Computer Network Analyst（Computer Network Analyst）职业分析 · ES
+# Computer Network Analyst — career analysis · Spain
 
-**职业代码：2723 – Computer Network Analyst。**
+**Occupation code: 2723 (CNO)**
 
-Computer network analysts design, configure, maintain, and optimize computer networks for organizations, ensuring performance, security, and reliability. They analyze traffic, diagnose issues, and implement solutions to improve efficiency.
+Computer network analysts are responsible for designing, configuring, maintaining, and optimizing the computer network systems of enterprises or organizations to ensure network performance, security, and reliability. They analyze network traffic, diagnose faults, and implement solutions to improve efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 计算机工程学士（Grado en Ingeniería Informática） | 4年（Grado） | $800~$15,000（公立大学约800-2000欧/年，私立约6000-15000欧/年） |
-| 高级职业培训（FP Grado Superior）网络管理 | 2年（FP Grado Superior） | —（公立免费或低学费，私立约2000-4000欧/年） |
+| Bachelor of Computer Engineering (Grado en Ingeniería Informática) | 4 years (Grado) | $800~$15,000 (Public universities about €800-€2,000/year; private about €6,000-€15,000/year.) |
+| Advanced Vocational Training (FP Grado Superior) Network Management | 2 years (FP Grado Superior) | $0~$4,000 (Public schools offer free or low tuition, while private ones pay about 2000-4000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（Grado或Máster） | 西班牙大学 | 可选 | 计算机科学、电信工程等相关专业 |
-| 思科CCNA认证 | Cisco | 可选 | 行业认可度高，增强求职竞争力 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证，过程数月 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require certification, and the process takes several months |
+| University degree (Grado or Máster) | Spanish University | Optional | Majors related to computer science, telecommunications engineering, etc |
+| Cisco CCNA certification | Cisco | Optional | High industry recognition, enhancing job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。西班牙数字化转型和网络安全需求持续增长，企业依赖稳定高效的网络基础设施，因此计算机网络分析师的就业前景良好。尤其在马德里、巴塞罗那等科技中心，需求更为旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Spain's digital transformation and cybersecurity demand continue to grow, and businesses rely on stable and efficient network infrastructure, making the job prospects for computer network analysts very promising. Demand is especially strong in tech hubs like Madrid and Barcelona.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级分析师可晋升为高级网络工程师、网络安全专家或IT基础设施经理。通过获取Cisco CCNA/CCNP等认证，能加速职业发展。具备项目管理经验后，可担任技术主管或首席信息官。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
+
+Junior analysts can be promoted to senior network engineers, cybersecurity specialists, or IT infrastructure managers. Obtaining certifications such as Cisco CCNA/CCNP can accelerate career development. With project management experience, you can serve as a technical lead or Chief Information Officer.
+
+**Tasks most exposed to AI:**
+
+- Routine network device configuration changes (e.g., VLAN, ACL additions)
+- Template-based network monitoring alarm analysis and preliminary diagnosis
+- Automatic detection of network faults and execution of standard recovery procedures
+- Compliance baseline checks and configuration audit report generation
+
+**Where AI augments the role:**
+
+- Using AI to predict network traffic peaks and automatically adjust bandwidth strategies
+- Designing multi-layer cloud network architectures and optimizing costs with AI assistance
+- Quickly identify abnormal traffic and threats using AI-driven security analysis tools
+- Using large language models to accelerate technical documentation and knowledge base building
+
+**Human moat:**
+
+- Ability to design hybrid networking architectures spanning internal networks and public cloud across regions
+- Customized network solutions based on deep understanding of business needs
+- Emergency decision-making and coordination/public relations skills during large network failures
+- Network audit responsibility under regulatory compliance (e.g., APRA, ISO 27001)
+
+**Skills to build:**
+
+- Python network automation (Netmiko/Nornir)
+- Cloud network certifications (AWS Advanced Networking / Azure Network Engineer)
+- AI/ML fundamentals and network data analysis
+- DevOps-related tools (Ansible, Terraform)
+- Cybersecurity situational awareness and zero-trust architecture
+- Use of AI-assisted network diagnostic tools.
+
+**Key growth areas:**
 
 - Network Security
 - Cloud Computing
@@ -62,68 +95,67 @@ Computer network analysts design, configure, maintain, and optimize computer net
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能工作者，需大学学历或5年经验，合同薪资至少达西班牙平均工资1.5倍（约4万欧/年）。 |
-| Subclass Altamente cualificad（High-Skilled Professional (Ley 14/2013)） | 适用于高级专业人员，要求大学学历或3年经验，合同不低于平均工资一定比例，流程较快。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 标准工作居留，需雇主担保，合同符合市场薪资水平。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled workers, requires a university degree or 5 years of experience, with a contract salary at least 1.5 times the Spanish average wage (approx. €40,000/year). |
+| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Suitable for senior professionals, requiring a university degree or 3 years of experience, with contracts not less than a certain percentage of average salary, and a relatively fast process. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Standard work residency, employer sponsorship required, contract aligns with market salary levels. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network Analyst？**
-- 对计算机网络有浓厚兴趣，喜欢动手配置设备
-- 具备逻辑思维和问题解决能力
-- 愿意持续学习新技术和认证
-
-**谁不适合学Computer Network Analyst？**
-- 不喜欢团队协作和沟通
-- 不擅长应对紧急故障和压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in computer networks and enjoys hands-on device configuration
+- Possess logical thinking and problem-solving skills
+- Willingness to continuously learn new technologies and certifications
+
+**Who is not suited**
+- Dislikes teamwork and communication
+- Not good at handling emergency faults and stress
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for computer network analysts in Spain?**
+A: Junior approximately €24,000-32,000/year, intermediate €32,000-45,000/year, senior €45,000-60,000/year. Madrid and Barcelona are slightly higher, but living costs are also higher.
+
+**Q: How can non-EU citizens immigrate to Spain to work as a computer network analyst?**
+A: You can obtain the EU Blue Card (requiring university degree + high-salary contract) or the Highly Skilled Professional visa (Ley 14/2013). Academic qualifications must be certified by the Spanish Ministry of Education (homologación).
+
+**Q: What educational background is required to become a computer network analyst in Spain?**
+A: Bachelor's degree in Computer Engineering or Advanced Vocational Training (FP Network Management) is both acceptable. Industry certifications such as CCNA are a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Computer Network Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for computer network analysts in Spain?**
-答：Entry-level around €24k-32k gross/year, mid-level €32k-45k, senior €45k-60k. Madrid and Barcelona offer higher pay but also higher living costs.
-
-**问：How can non-EU citizens migrate to Spain as a computer network analyst?**
-答：Via EU Blue Card (requires degree+high salary) or High-Skilled Professional visa (Ley 14/2013). Academic credentials must be homologated by Spanish Ministry of Education.
-
-**问：What education is needed to become a computer network analyst in Spain?**
-答：A bachelor's in computer engineering or higher vocational training (FP in network administration). Industry certifications like CCNA are beneficial.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

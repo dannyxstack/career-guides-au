@@ -1,62 +1,98 @@
-# Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic（Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4034 – Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4034 (SOC)**
 
-Set up, operate, or tend lathe and turning machines to turn, bore, thread, form, or face metal or plastic materials like wire, rod, or bar stock.
+Set up, operate, or tend lathes and turret lathes to perform turning, boring, threading, forming, or facing operations on metal or plastic materials.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业技术证书 | 1年 | $2,000~$8,000（社区学院或技术学校学费） |
-| 副学士学位（可选） | 2年 | $5,000~$20,000（社区学院学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational technical certificate | 1 year | $2,000~$8,000 (Community college or technical school tuition) |
+| Associate degree (optional) | 2 years | $5,000~$20,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械加工技术证书 | 社区学院/技术学校 | 可选 | 常包含CNC编程与操作 |
-| NIMS认证 | 国家金属加工技能协会 | 可选 | 行业认可的技能认证 |
-| 职业技术认可 | 雇主/行业协会 | 可选 | 在职培训通常持续数月 |
+| Machining technology certificate | Community college/technical school | Optional | Often includes CNC programming and operation |
+| NIMS certification | National Institute for Metalworking Skills | Optional | Industry-recognized skill certification |
+| Vocational qualification recognition | Employer/industry association | Optional | On-the-job training typically lasts several months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,900。美国制造业逐步复苏，但自动化与CNC技术发展使传统车床操作岗位增长有限，预计2023-2033年就业变化为-4%至0%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,900. The US manufacturing sector is gradually recovering, but automation and CNC technology development have limited growth in traditional lathe operator positions; employment change is expected to be -4% to 0% from 2023 to 2033.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级学徒或操作员 |
-| 中级（3-7年） | $40,000~$55,000 | 具备独立设置与编程能力 |
-| 高级（7年以上） | $55,000~$70,000 | 高级技师或团队领导 |
+| Median salary | $50,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level apprentice or operator |
+| Mid-level (3–7 years) | $40,000~$55,000 | Capable of independent setup and programming |
+| Senior (7+ years) | $55,000~$70,000 | Senior technician or team leader |
+| average salary | $52,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从操作员晋升为编程员、团队主管或质量控制技术员；掌握多轴CNC编程可转向精密加工或模具制造类岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Lathe operators face high risk of automation replacement; AI combined with CNC technology can take over programming, tool setting, and quality inspection; entry-level positions are sharply reduced, but physical debugging and exception handling still depend on humans.
+
+Can advance from operator to programmer, team leader, or quality control technician; mastering multi-axis CNC programming can lead to precision machining or mold manufacturing roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate G-code and toolpaths from CAD drawings
+- Use machine vision to monitor cutting status in real-time and automatically adjust feed rate
+- Automatically measure workpiece dimensions and perform closed-loop compensation calibration
+- Predict tool wear via IoT sensors and trigger replacement
+- Automatically load and unload workpieces in batch production (with robotic arm)
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of cutting parameters (e.g., speed, depth of cut) to improve efficiency and surface quality
+- Digital twin simulates machining process, reducing trial-cut waste
+- AI scheduling system dynamically dispatches multiple machine tools to maximize OEE
+- Augmented reality (AR) overlays real-time data to assist complex workpiece setup
+- Natural language interface allows operators to query process advice via voice
+
+**Human moat:**
+
+- Experience in processing parameter debugging for special materials (e.g., titanium alloys, superalloys)
+- Fault diagnosis and rapid handling of abnormal conditions (e.g., vibration, tool burning).
+- Process design and fixture design for multi-variety small-batch workpieces
+- Maintenance judgment on machine tool structure (spindle accuracy, guide rail wear)
+- Process innovation for special surface requirements (e.g., mirror finish, non-standard threads)
+
+**Skills to build:**
+
+- CNC programming and CAM software (e.g., Mastercam, Fusion 360)
+- AI/Machine Learning Fundamentals (for process optimization)
+- Industrial Robotics and Automation Integration
+- Digital twin and simulation software (e.g., Siemens NX)
+- Data analysis and IoT sensor application
+- Advanced metrology and CMM measurement
+
+**Key growth areas:**
 
 - Declining
 - CNC Automation
@@ -65,66 +101,68 @@ Set up, operate, or tend lathe and turning machines to turn, bore, thread, form,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职业要求，极少申请 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 需PERM劳工证，但雇主担保意愿低 |
-| Subclass EB-2（Employment-Based Second Preference (Advanced Degree)） | 通常需要硕士以上学位，不适合 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not meeting professional occupation requirements, rarely applied |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | PERM labor certification required, but employer sponsorship willingness is low |
+| Subclass EB-2 (Employment-Based Second Preference (Advanced Degree)) | Usually requires master's degree or higher, not suitable |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic？**
-- 喜欢动手操作机械设备
-- 能接受工厂环境与重复性工作
-- 愿意通过在职培训提升技能
+**Who is suited**
+- Enjoys hands-on operation of mechanical equipment
+- Able to accept factory environment and repetitive work
+- Willing to improve skills through on-the-job training
 
-**谁不适合学Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic？**
-- 追求高薪或快速晋升
-- 偏好办公室或创造型工作
+**Who is not suited**
+- Seeking high salary or rapid promotion
+- Prefer office or creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a lathe operator?**
+A: According to BLS data, the median annual salary for US lathe operators in 2023 was about $44,000, experienced workers could reach over $60,000, but below manufacturing average.
+
+**Q: Can a lathe operator apply for a US work visa?**
+A: Very difficult. This occupation is generally not considered a specialty occupation, H-1B approval rates are very low; EB-3 green card requires PERM, but employers are rarely willing to sponsor.
+
+**Q: Will it be replaced by automation in the future?**
+A: Automation (e.g., CNC) has largely replaced traditional operations, but complex parts still require manual setup and monitoring; future employment may decline, but advanced skilled workers are still in demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for lathe operators?**
-答：According to BLS, the median annual wage for lathe operators in the US was about $44,000 in 2023, with experienced workers earning over $60,000, but below manufacturing average.
-
-**问：Can lathe operators get a US work visa?**
-答：Very difficult. The occupation is not typically considered a specialty occupation, making H-1B approval unlikely; EB-3 green card requires PERM but employer sponsorship is rare.
-
-**问：Will this job be automated?**
-答：Automation like CNC has replaced many positions, but complex parts still require manual setup and monitoring; employment may decline but skilled workers remain in demand.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

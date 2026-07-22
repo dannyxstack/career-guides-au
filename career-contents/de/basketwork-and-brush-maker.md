@@ -1,60 +1,96 @@
-# Basketwork and Brush Maker（Basketwork and Brush Maker）职业分析 · DE
+# Basketwork and Brush Maker — career analysis · Germany
 
-**职业代码：2235 – Basketwork and Brush Maker。**
+**Occupation code: 2235 (KldB)**
 
-This profession involves designing and handcrafting basketwork, brushes, and paintbrushes, combining traditional craftsmanship with creative design, typically found in the artisan sector.
+This occupation involves designing and handcrafting woven goods, brushes, and brooms, blending traditional techniques with creative design, commonly found in the handicraft industry.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（培训期间通常有津贴，学费低） |
-| 职业学校进修 | 1-2年 | $1,000~$5,000（针对高级技艺或设计方向） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Usually receive an allowance during training, low tuition fees) |
+| Vocational school further training | 1-2 years | $1,000~$5,000 (For advanced skills or design direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 毕业证书（Ausbildungsabschluss） | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，为从业基本要求 |
-| 资质认证（Anerkennung） | 德国联邦职业教育与培训办公室（BIBB） | 可选 | 海外学历需认证，非强制但利于就业 |
+| Graduation certificate (Ausbildungsabschluss) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training; basic requirement for practice. |
+| Qualification recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) | Optional | Overseas qualifications need accreditation; not mandatory but beneficial for employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 1,200。德国对手工艺品的需求稳定，但受自动化影响较小。就业机会主要集中于小型作坊和定制生产，整体增长平稳，竞争中等。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,200. Demand for handicrafts in Germany is stable but less affected by automation. Job opportunities are mainly in small workshops and custom production, with overall steady growth and moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 培训后起薪 |
-| 中级（3-7年） | $30,000~$36,000 | 熟练工匠水平 |
-| 高级（7年以上） | $36,000~$42,000 | 工坊主管或自主创业 |
+| Median salary | $38,928 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary after training |
+| Mid-level (3–7 years) | $30,000~$36,000 | Skilled craftsman level |
+| Senior (7+ years) | $36,000~$42,000 | Workshop supervisor or self-employment |
+| average salary | $40,872 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径包括从学徒到熟练工匠，进而成为工坊主管或自主创业。部分从业者可转向艺术或设计领域，但晋升空间有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Traditional weaving and brush design and production are heavily affected by AI. Standard pattern generation, cost estimation, and other tasks can be automated, but high-end customization and handcraft skills still retain some value.
+
+Career development paths include from apprentice to skilled craftsman, then to workshop supervisor or self-employment. Some practitioners may transition to art or design fields, but promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate knitting patterns and brush design drafts based on fashion trends
+- Use generative AI to write product descriptions, marketing copy, and customer communication templates
+- Raw material cost estimation and inventory management using AI tools
+- Automated layout and printing of product labels and packaging design
+- Use image recognition technology for finished product quality inspection (e.g., bristle alignment, weave density)
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple design variations, rapidly iterate creative solutions
+- Virtually showcase the final effect of woven products and brushes to customers through AR/VR tools
+- Using AI to analyze customer preference data to assist in personalized custom designs
+- Use machine learning to optimise material cutting and weaving paths to reduce waste
+- Use AI to create instructional videos or interactive tutorials to expand manual training services
+
+**Human moat:**
+
+- Practical skills in complex manual techniques (e.g., asymmetric weaving, special knotting)
+- Tactile perception and material selection experience with natural materials (rattan, palm, animal hair)
+- Face-to-face communication with clients to understand personalized needs and adjust designs on-site
+- Traditional craft knowledge of repairing and restoring antique woven items or brushes
+- Originality of brand story and handcrafting process, cultural heritage value
+
+**Skills to build:**
+
+- Mastering AI design tools (e.g., Midjourney, Stable Diffusion) to assist pattern generation
+- Learning CAD/CAM software for knitting structure modeling and brush 3D prototyping
+- Enhance digital marketing and social media content creation abilities
+- Basic Python or scripting for automating repetitive design tasks
+- Knowledge of materials science and sustainable design to align with environmental trends
+- Customer experience management and personalised service design skills
+
+**Key growth areas:**
 
 - Artisanal demand
 - Custom production
@@ -63,68 +99,67 @@ This profession involves designing and handcrafting basketwork, brushes, and pai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Employment)） | 需获得德国雇主合同且职业资格被认可，适用于非紧缺职业。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许未获得工作合同的求职者来德寻找机会。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Employment)) | Requires a German employer contract and recognized qualifications, applicable to non-shortage occupations. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing job seekers without a work contract to come to Germany for opportunities. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Basketwork and Brush Maker？**
-- 对手工艺有热情且注重细节的人
-- 喜欢独立工作和创意设计的人
-- 愿意接受传统技能培训的人
-
-**谁不适合学Basketwork and Brush Maker？**
-- 追求高薪和快速晋升的人
-- 不喜重复性手工劳动的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals passionate about craftsmanship and detail-oriented
+- People who enjoy independent work and creative design
+- Those willing to receive traditional skills training
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike repetitive manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Germany?**
+A: Pre-tax annual salary around 24,000 to 42,000 EUR, starting around 27,000 EUR, senior can exceed 40,000 EUR.
+
+**Q: How can overseas applicants immigrate to Germany for this occupation?**
+A: Must complete recognized vocational training in Germany or obtain overseas qualification certification, then apply for a work visa under the Skilled Immigration Act, or come to Germany with a Chancenkarte to seek employment.
+
+**Q: Does this occupation have good career prospects?**
+A: Although the market is small, demand for handmade custom products is stable. Career paths include workshop management or self-employment, but promotion opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Basketwork and Brush Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this profession in Germany?**
-答：Gross annual salary ranges from €24,000 to €42,000, with entry-level around €27,000 and senior over €40,000.
-
-**问：How can overseas applicants immigrate to Germany for this profession?**
-答：They need to complete recognized vocational training or obtain credential recognition, then apply for a work visa under the Skilled Immigration Act, or use the Opportunity Card to seek a job.
-
-**问：Does this profession have future prospects?**
-答：The market is niche but stable due to demand for handmade goods. Career progression includes workshop management or self-employment, though limited.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

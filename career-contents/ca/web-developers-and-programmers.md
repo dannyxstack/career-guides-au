@@ -1,59 +1,94 @@
-# Web developers and programmers（Web developers and programmers）职业分析 · 加拿大
+# Web developers and programmers — career analysis · Canada
 
-**职业代码：21234 – Web developers and programmers。**
+**Occupation code: 21234 (NOC)**
 
-In Canada, web developers design, build, and maintain websites and web applications, covering front-end, back-end, and performance optimization. Tech immigration pathways are well-established, suitable for obtaining permanent residence via Express Entry or Provincial Nominee Programs.
+In Canada, web developers design, build, and maintain websites and web applications, covering front-end, back-end, and performance optimization. The tech immigration pathway is mature, suitable for obtaining permanent residence through Express Entry or provincial nomination.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（计算机或相关专业） | 4年 | $20,000~$60,000（加拿大本地学费，国际生更高） |
-| 学院文凭（网页开发/编程） | 2年 | $15,000~$40,000（公立学院学费） |
+| Bachelor's degree (Computer Science or related field). | 4 years | $20,000~$60,000 (Canadian local tuition, international students pay more) |
+| College diploma (web development/programming) | 2 years | $15,000~$40,000 (Public college tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES / IQAS / ICAS等 | 必备 | 用于移民申请，评估海外学历等同于加拿大学历 |
-| 语言考试 | IELTS或CELPIP | 必备 | 魁省需TEF Canada |
-| 省提名证书（如适用） | 各省移民局 | 可选 | 部分省提名需要雇主担保或工作offer |
+| ECA (Educational Credential Assessment). | WES / IQAS / ICAS, etc. | Required | Used for immigration applications, assessing foreign credentials as equivalent to Canadian education |
+| Language test | IELTS or CELPIP | Required | Quebec requires TEF Canada |
+| Provincial nomination certificate (if applicable) | Provincial immigration authorities | Optional | Some provincial nominations require employer sponsorship or a job offer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 105,000。加拿大数字经济持续增长，企业对在线服务需求旺盛，网页开发就业前景良好。尤其在大温哥华、多伦多和蒙特利尔等科技中心，岗位增长率高于全国平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 105,000. Canada's digital economy continues to grow, with strong enterprise demand for online services, web development job prospects are good. Especially in tech hubs like Greater Vancouver, Toronto, and Montreal, job growth rates are above the national average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 根据城市和公司规模不同 |
-| 中级（3-7年） | $65,000~$95,000 | 温哥华/多伦多偏高 |
-| 高级（7年以上） | $95,000~$140,000 | 技术主管或架构师可达更高 |
+| Median salary | $79,997 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$65,000 | Varies by city and company size |
+| Mid-level (3–7 years) | $65,000~$95,000 | Vancouver/Toronto higher |
+| Senior (7+ years) | $95,000~$140,000 | Technical lead or architect can reach higher |
+| average salary | $83,200 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级开发者积累经验后可晋升为高级开发、技术主管或全栈架构师。也可向云服务、DevOps 或产品管理方向发展，路径灵活且薪资提升明显。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI has compressed coding and debugging tasks in web development, but complex architecture design and client communication skills are amplified, with mixed overall results.
+
+Junior developers can advance to senior developer, tech lead, or full-stack architect with experience. They can also move into cloud services, DevOps, or product management, with flexible paths and significant salary growth.
+
+**Tasks most exposed to AI:**
+
+- Routine web page layout and style writing (CSS code generation).
+- Simple backend API endpoint development (CRUD operations)
+- Basic performance optimization (image compression, cache configuration)
+- Cross-browser compatibility testing (replaced by automated tools)
+- Syntax checking and format correction before code submission
+
+**Where AI augments the role:**
+
+- Complex business logic understanding and architecture design (AI-assisted generation of architecture diagrams)
+- Client needs communication and prototype validation (AI-generated interactive prototypes)
+- Code review and security vulnerability analysis (AI detects anomalies).
+- Multilingual international adaptation (AI translation and localization suggestions)
+- Automated test script writing (AI-generated test cases)
+
+**Human moat:**
+
+- Large system architecture decisions (microservices, database selection)
+- Cross-team collaboration and project management skills
+- User experience intuition and creative interaction design
+- Handling unstructured, ambiguous, or incomplete requirements
+
+**Skills to build:**
+
+- Advanced use of AI-assisted development tools (e.g., GitHub Copilot)
+- Cloud-native technologies (AWS/Azure/GCP containerization)
+- Full-stack architecture capability (deep front-end and back-end integration)
+- DevOps and CI/CD automation pipeline design
+- Data security and privacy compliance knowledge
+- Product thinking and user research methods.
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee Tech
@@ -62,68 +97,67 @@ In Canada, web developers design, build, and maintain websites and web applicati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 联邦快速通道，基于CRS分数邀请，适合年轻、高学历、语言好的申请人 |
-| Subclass PNP（Provincial Nominee Program (Tech)） | 各省针对科技职业的提名项目，如BC PNP Tech、Ontario Tech Draw等，通常要求雇主offer |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保移民，适合有雇主offer的申请人 |
+| Subclass EE (Express Entry (FSW/CEC)) | Federal Express Entry, inviting based on CRS scores, suitable for young, highly educated applicants with good language skills |
+| Subclass PNP (Provincial Nominee Program (Tech)) | Provincial nomination programs for tech occupations, such as BC PNP Tech, Ontario Tech Draw, etc., usually require employer offer |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web developers and programmers？**
-- 喜欢创造和解决问题，对编程有热情的人
-- 追求技术移民，希望在北美获得IT职业发展的技术人才
-- 适应快速学习新框架和工具的人
-
-**谁不适合学Web developers and programmers？**
-- 不习惯持续学习和更新技术栈的人
-- 不喜欢在屏幕前长时间工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy creating and problem-solving, passionate about programming
+- Tech talents seeking skilled migration and IT career development in North America
+- Suitable for those who adapt quickly to learning new frameworks and tools
+
+**Who is not suited**
+- People not accustomed to continuous learning and updating their tech stack
+- People who dislike working long hours in front of screens.
+
+---
+
+## 8. FAQ
+
+**Q: What are salary levels for web development in Canada?**
+A: Entry-level: approx. CAD 45k-65k, mid-level: CAD 65k-95k, senior: CAD 95k-140k+. Higher in Greater Vancouver and Toronto, slightly lower in other cities.
+
+**Q: What are the pathways to immigrate to Canada via web development?**
+A: Mainly through Express Entry (FSW/CEC) and provincial PNP tech categories. Some programs require a job offer; it is recommended to accumulate at least 1 year of work experience before applying.
+
+**Q: What is the demand for web developers in Canada?**
+A: Strong demand, especially for full-stack development, front-end frameworks (e.g., React), and cloud-related skills. Job Bank predicts continued growth in coming years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Web developers and programmers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for web developers in Canada?**
-答：Entry-level: CAD$45k-65k; mid-level: $65k-95k; senior: $95k-140k+. Higher in Vancouver and Toronto.
-
-**问：What are the immigration pathways for web developers to Canada?**
-答：Mainly through Express Entry (FSW/CEC) and provincial tech PNPs. Some require employer job offer; it's advisable to have at least 1 year of work experience.
-
-**问：What is the demand for web developers in Canada?**
-答：Strong demand, especially for full-stack, front-end frameworks (e.g., React), and cloud skills. Job Bank projects continuous growth.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

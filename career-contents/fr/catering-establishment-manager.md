@@ -1,60 +1,96 @@
-# Catering Establishment Manager（Catering Establishment Manager）职业分析 · FR
+# Catering Establishment Manager — career analysis · France
 
-**职业代码：G1404 – Catering Establishment Manager。**
+**Occupation code: G1404 (ROME)**
 
-Responsible for the overall management of institutional catering facilities (e.g., school, corporate, hospital canteens), including menu planning, procurement, cost control, team leadership, and food safety compliance.
+Responsible for the overall management of collective catering institutions (such as schools, enterprises, hospital canteens), including menu planning, procurement, cost control, team leadership, and food safety compliance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS或DUT（2年） | 2年（BTS） | $3,000~$8,000（公立学校学费低，私立学校较高） |
-| Licence professionnelle（3年） | 3年（licence） | $5,000~$10,000（大学学费约5000-10000欧元/年） |
-| Master（5年） | 2年（Master） | $8,000~$15,000（私立商学院学费较高） |
+| BTS or DUT (2 years) | 2 Years (BTS) | $3,000~$8,000 (Public schools have lower tuition fees, while private schools have higher fees) |
+| Licence professionnelle (3 years) | 3 years (licence) | $5,000~$10,000 (University tuition is about 5,000-10,000 euros per year) |
+| Master (5 years) | 2 years (Master) | $8,000~$15,000 (Private business school tuition fees are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HACCP认证 | 法国农业与食品部 | 必备 | 食品安全强制培训，有效期5年 |
-| CAP或BTS烹饪/餐饮管理 | 法国教育部 | 可选 | 常见入门文凭 |
-| 营养学文凭（BTS Diététique） | 法国卫生与教育部 | 可选 | 有助于具体方向，非强制 |
+| HACCP certification | French Ministry of Agriculture and Food | Required | Mandatory food safety training, valid for 5 years |
+| CAP or BTS Cooking/Food Management | French Ministry of Education | Optional | Entry diplomas are common |
+| Diploma in Nutrition (BTS Diététique) | French Ministry of Health and Education | Optional | It helps with specific directions and is not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 75,000。法国集体餐饮业稳步发展，受学校、医院及企业需求驱动。就业前景良好，尤其是具备成本管理和营养知识的人才。数字化转型（如智能点餐）带来新挑战。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. The French collective catering industry is steadily developing, driven by demand from schools, hospitals, and businesses. Job prospects are promising, especially for talent with knowledge of cost management and nutrition. Digital transformation (such as smart ordering) brings new challenges.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，视规模 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，区域经理级别 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $32,000~$40,000 | Pre-tax annual salary, depending on scale |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, regional manager level |
+| average salary | $37,320 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初期可担任餐饮主管或助理经理，积累经验后可晋升为区域经理或运营总监。也可转向咨询、供应链管理或创业开设餐饮公司。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Initially, you can serve as a food and beverage supervisor or assistant manager, and after gaining experience, you can be promoted to regional manager or operations director. You can also turn to consulting, supply chain management, or starting a restaurant business.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Digital transformation
 - Sustainability
@@ -63,68 +99,67 @@ Responsible for the overall management of institutional catering facilities (e.g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能管理人员，需合同年薪≥53,000欧元或符合紧缺职业 |
-| Subclass Salarié（Employee Work Permit） | 常规工作居留，需雇主提供CDI/CDD合同及劳工许可 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于年薪≥53,000欧元的高技能职位，可自由流动 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled managers, requiring a contract annual salary of ≥53,000 euros or eligible for a shortage occupation |
+| Subclass Salarié (Employee Work Permit) | For regular work residence, the employer must provide a CDI/CDD contract and a labor permit |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions with an annual salary of ≥ 53,000 euros, allowing free mobility |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Catering Establishment Manager？**
-- 具备领导力和团队管理能力的人
-- 对餐饮成本和营养搭配有敏锐触觉的人
-- 适应快节奏、多任务工作环境的人
-
-**谁不适合学Catering Establishment Manager？**
-- 不擅长处理食品安全和合规细节的人
-- 反感高强度、高压力的餐饮管理工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with leadership and team management skills
+- Those with a keen sense of food cost and nutritional balance
+- People who adapt to fast-paced, multitasking work environments
+
+**Who is not suited**
+- People who are not good at handling food safety and compliance details
+- People who dislike the high-intensity, high-pressure work of restaurant management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for collective catering managers in France?**
+A: Entry-level salaries are about 25,000-30,000 euros, intermediate salaries 32,000-40,000 euros, and seniors can exceed 55,000 euros, depending on the size and experience of the institution.
+
+**Q: How can third-country citizens immigrate to France through this occupation?**
+A: You can use the Salarié work residence (employer's labor permit required) or the Passeport Talent Passport (annual salary ≥ 53,000 euros or priority for in-demand occupations). The EU Blue Card is also applicable.
+
+**Q: What is the future career outlook for this occupation?**
+A: Digital transformation (smart food ordering) and sustainable development trends bring new opportunities, and increased attention to nutrition and health will increase job demand. But competition also exists.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Catering Establishment Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a catering establishment manager in France?**
-答：Entry-level annual salary is around €25,000-€30,000, mid-level €32,000-€40,000, and senior can exceed €55,000, depending on institution size and experience.
-
-**问：How can third-country nationals immigrate through this occupation?**
-答：Via the Salarié work permit (requires employer's labor authorization) or the Passeport Talent (minimum salary €53,000 or shortage occupation priority). EU Blue Card also applicable.
-
-**问：What are the future prospects for this occupation?**
-答：Digital transformation (smart ordering) and sustainability trends create opportunities; growing focus on nutrition and health will increase demand. However, competition exists.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

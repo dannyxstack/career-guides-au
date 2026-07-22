@@ -1,60 +1,96 @@
-# Insurance Sales Agents（Insurance Sales Agents）职业分析 · 美国
+# Insurance Sales Agents — career analysis · United States
 
-**职业代码：41-3021 – Insurance Sales Agents。**
+**Occupation code: 41-3021 (SOC)**
 
-Sell life, property, casualty, health, automotive, or other types of insurance, working independently or for an insurance company.
+Sells various insurance products like life, property, accident, health, and auto; can work independently or for an insurance company; provides risk assessment and policy recommendations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中 | 4年 | —（公立高中免费） |
-| 本科学位（可选） | 4年 | $20,000~$50,000（商科或金融专业，私立大学费用较高） |
+| High school | 4 years | $0~$0 (Public high schools are free) |
+| Bachelor's degree (optional) | 4 years | $20,000~$50,000 (Business or finance majors, private universities have higher costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州保险执照 | 州保险监管局 | 必备 | 通过考试并完成背景调查，各州要求不同 |
-| 继续教育学分 | 州保险监管局 | 必备 | 每年需完成一定学时的继续教育以维持执照 |
+| State insurance license | State insurance regulatory authority | Required | Pass exams and complete background checks; requirements vary by state. |
+| Continuing education credits | State insurance regulatory authority | Required | Must complete a certain number of continuing education hours each year to maintain license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 449,000。预计2022-2032年就业增长8%，高于平均水平。人口老龄化和风险意识提升推动需求，但在线销售竞争加剧。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 449,000. Employment projected to grow 8% from 2022-2032, faster than average. Demand driven by aging population and increased risk awareness, but competition from online sales intensifies.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$50,000 | 基本薪资加佣金，收入波动大 |
-| 中级（3-10年） | $50,000~$80,000 | 稳定客户群带来更高佣金收入 |
-| 高级（10年以上） | $80,000~$120,000 | 资深代理或团队管理者收入可达六位数 |
+| Median salary | $62,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$50,000 | Base salary plus commission, income fluctuates significantly |
+| Intermediate (3-10 years) | $50,000~$80,000 | Stable client base leads to higher commission income |
+| Senior (10+ years) | $80,000~$120,000 | Senior agents or team managers can earn six-figure incomes. |
+| average salary | $81,480 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级代理可通过业绩晋升为高级代理、团队主管或区域经理，部分转向保险经纪或金融规划领域。持续学习与客户积累是关键。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
+
+Junior agents can advance to senior agent, team supervisor, or regional manager through performance, some moving into insurance brokerage or financial planning. Continuous learning and client accumulation are key.
+
+**Tasks most exposed to AI:**
+
+- Scrape product terms and rates from insurance company websites to generate comparison tables
+- Automatically generate risk assessment reports based on basic client input
+- Check and verify the accuracy of policy data (e.g., names, dates)
+- Generate standardized insurance proposal letters and renewal reminders.
+- Chatbot conversations for initial handling of common customer issues
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer historical data and accurately recommend personalized insurance packages
+- Use natural language processing tools to extract key risk information from customer conversations
+- Use AI prediction models to assess industry risk trends and optimize strategies
+- Automatically generate compliance checklists to improve regulatory reporting efficiency
+- Use AI tools to create complex insurance scheme visualization charts.
+
+**Human moat:**
+
+- Qualitative judgment and ethical decision-making in complex risk scenarios
+- Build deep trust with clients and handle emotionally sensitive issues
+- Cross-industry, cross-product comprehensive insurance planning
+- Negotiation and coordination skills for handling unexpected large claims
+- Ultimate authority over regulatory compliance and legal liability
+
+**Skills to build:**
+
+- Operation of AI insurance tools (e.g., Zywave, EIS)
+- Data analysis and visualization (Python/Power BI)
+- Advanced applications of Customer Relationship Management (CRM) systems
+- InsurTech trend awareness
+- Professional certifications (CIP, CRM)
+- Communication and negotiation psychology
+
+**Key growth areas:**
 
 - Aging Population
 - Risk Awareness
@@ -63,65 +99,67 @@ Sell life, property, casualty, health, automotive, or other types of insurance, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需证明职位专业性，保险销售通常不被视为专业职位，获批困难 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需雇主担保并通过PERM，但职位通常不符合技术工人标准 |
+| Subclass H-1B (H-1B Specialty Occupation) | Need to prove the position is specialized; insurance sales are generally not considered professional positions, approval is difficult. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires employer sponsorship and PERM, but the position usually does not meet skilled worker criteria |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Insurance Sales Agents？**
-- 善于沟通、有说服力的人
-- 自我驱动、业绩导向的人
-- 乐于学习金融产品知识的人
+**Who is suited**
+- Good communicator, persuasive
+- Self-driven, results-oriented individuals
+- People who are eager to learn about financial products
 
-**谁不适合学Insurance Sales Agents？**
-- 不喜销售压力的人
-- 对不稳定收入敏感的人
+**Who is not suited**
+- Those who dislike sales pressure
+- People sensitive to unstable income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary structure for insurance sales agents?**
+A: Usually includes base salary plus commission; entry-level annual salary about 30,000-50,000 USD, mid-level 50,000-80,000, senior can exceed 120,000, income tied to performance.
+
+**Q: Can insurance sales agents immigrate to the U.S. via H-1B visa?**
+A: Difficult because this position is usually not considered a professional occupation, H-1B approval rate is low. EB-3 green card also requires employer to prove the position is professional, success rate is not high.
+
+**Q: What is the career development path for insurance sales agents?**
+A: Can advance from entry-level agent to senior agent, team supervisor, regional manager, or transition to insurance brokerage, financial planning, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Insurance Sales Agents属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for insurance sales agents?**
-答：Typically base salary plus commission. Entry-level earns $30k-$50k, mid-level $50k-$80k, senior $80k-$120k+, depending on sales performance.
-
-**问：Can insurance sales agents immigrate to the US via H-1B visa?**
-答：Difficult, as the role is not typically considered a specialty occupation. H-1B approval rates are low, and EB-3 green cards also face challenges.
-
-**问：What is the career path for insurance sales agents?**
-答：Progression from junior to senior agent, team leader, or regional manager, or transition to insurance brokering or financial planning.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

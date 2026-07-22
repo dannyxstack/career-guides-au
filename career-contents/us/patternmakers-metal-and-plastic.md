@@ -1,60 +1,96 @@
-# Patternmakers, Metal and Plastic（Patternmakers, Metal and Plastic）职业分析 · 美国
+# Patternmakers, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4062 – Patternmakers, Metal and Plastic。**
+**Occupation code: 51-4062 (SOC)**
 
-Lay out, machine, fit, and assemble metal or plastic foundry patterns, core boxes, or match plates for casting production.
+Responsible for laying out, machining, and assembling metal or plastic casting molds, core boxes, or patterns to ensure casting accuracy and production efficiency.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒期 | 4年 | —（在职培训，可能收取少量教材费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship period | 4 years | $0~$5,000 (On-the-job training; small material fee may apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育委员会 | 必备 | 基本入学要求 |
-| 国家金属加工技能证书 | NIMS (National Institute for Metalworking Skills) | 可选 | 非强制但有助于就业 |
+| High school diploma or equivalent | State Board of Education | Required | Basic admission requirements |
+| National Metalworking Skills Certificate | NIMS (National Institute for Metalworking Skills) | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,600。美国制造业回流趋势下，模具工需求稳定，但受自动化影响，就业增长缓慢，预计2023-2033年就业变化为-2%至+2%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,600. Under the trend of US manufacturing reshoring, demand for mold makers is stable, but affected by automation, employment growth is slow, with projected change of -2% to +2% from 2023-2033.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 学徒期或入门岗位 |
-| 中级（4-10年） | $45,000~$60,000 | 熟练模具工 |
-| 高级（10年以上） | $60,000~$78,000 | 高级技师或主管 |
+| Median salary | $58,000 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Apprenticeship or entry-level position |
+| Mid-level (4-10 years). | $45,000~$60,000 | Experienced mold maker |
+| Senior (10+ years) | $60,000~$78,000 | Senior technician or supervisor |
+| average salary | $60,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从学徒晋升为熟练模具工，再发展为模具设计技师或生产主管，部分人可转向数控编程或工艺工程。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Metal and plastic mold makers face automation compression risk: CAM software, 3D printing, and robotic machining will gradually replace manual mold making, adjustment, and refurbishment; but complex casting adjustment and mold repair still require manual experience.
+
+Can advance from apprentice to skilled mold maker, then to mold design technician or production supervisor; some may move into CNC programming or process engineering.
+
+**Tasks most exposed to AI:**
+
+- Generate tool paths using CAM software
+- Operating CNC machine tools for blank processing
+- Manual grinding and polishing of mold surfaces
+- Measure and record mold dimensional accuracy
+- Maintain and refurbish used moulds
+
+**Where AI augments the role:**
+
+- Using AI mold design software to quickly generate solutions
+- Use simulation software to predict casting defects and optimize processes
+- Mold assembly and debugging assisted by AR
+- Using data analysis platforms to monitor mold life and quality
+- Use 3D scanning and reverse engineering to quickly replicate molds.
+
+**Human moat:**
+
+- Experience in designing and commissioning gating systems for complex castings
+- On-site diagnosis of mold failure causes (e.g., thermal cracking, deformation)
+- Collaborate with foundry engineers to solve process problems
+- Flexibility to handle non-standard, small-batch urgent orders
+- Deep understanding of material properties (shrinkage, thermal expansion)
+
+**Skills to build:**
+
+- CAD/CAM 3D modeling and programming (e.g., SolidWorks, Mastercam)
+- Operation and setup of multi-axis CNC machining centers
+- Additive manufacturing (3D printing molds)
+- Mold flow simulation analysis (e.g., ProCAST, Moldflow)
+- Industrial robot-assisted grinding and assembly
+- Data-driven preventive equipment maintenance
+
+**Key growth areas:**
 
 - Automation
 - CNC Integration
@@ -63,65 +99,67 @@ Lay out, machine, fit, and assemble metal or plastic foundry patterns, core boxe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求学士学位，模具工岗位较少符合，雇主赞助困难 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需多年经验且雇主担保，但模具工职位稀缺，PERM劳工证获批率低 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically requires a bachelor's degree; mold maker positions rarely qualify; employer sponsorship is difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires years of experience and employer sponsorship, but toolmaker positions are scarce, and PERM labor certification approval rate is low |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Patternmakers, Metal and Plastic？**
-- 喜欢动手操作机械工具
-- 注重细节和精确度
-- 愿意接受长期在职培训
+**Who is suited**
+- Enjoys hands-on operation of mechanical tools
+- Attention to detail and precision
+- Willing to accept long-term on-the-job training
 
-**谁不适合学Patternmakers, Metal and Plastic？**
-- 不适应体力劳动和车间环境
-- 希望快速晋升或高薪资
+**Who is not suited**
+- Not suited for physical labor and workshop environments
+- Those hoping for fast promotion or high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for metal and plastic mold makers?**
+A: According to BLS OEWS data, the average annual salary in 2023 was about $52,000, with senior technicians reaching $78,000.
+
+**Q: How difficult is it to immigrate in this occupation?**
+A: Extremely difficult. This occupation rarely meets H-1B requirements, and EB-3 green card requires employer sponsorship and difficult PERM approval; generally not recommended as an immigration occupation.
+
+**Q: What are the career development paths?**
+A: Can advance to mold design technician, production supervisor, or move into emerging fields like CNC programming and additive manufacturing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Patternmakers, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for patternmakers, metal and plastic?**
-答：According to BLS OEWS data, the average annual wage is about $52,000 in 2023, with senior technicians earning up to $78,000.
-
-**问：How difficult is immigration for this occupation?**
-答：Extremely difficult. Rarely meets H-1B requirements; EB-3 green card requires employer sponsorship and PERM approval is challenging. Not recommended as a migration path.
-
-**问：What are the career advancement paths?**
-答：Can advance to mold design technician, production supervisor, or transition to CNC programming, additive manufacturing.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

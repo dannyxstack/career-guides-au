@@ -1,59 +1,92 @@
-# Recreational Therapists（Recreational Therapists）职业分析 · 美国
+# Recreational Therapists — career analysis · United States
 
-**职业代码：29-1125 – Recreational Therapists。**
+**Occupation code: 29-1125 (SOC)**
 
-Recreational therapists plan, direct, or coordinate medically-approved recreation programs for patients in hospitals, nursing homes, or other institutions to improve physical and mental well-being.
+Recreational therapists plan, direct, or coordinate medically approved recreation activities for patients in hospitals, nursing homes, and other facilities, including sports, travel, drama, social events, and crafts, to promote physical and mental recovery.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$120,000（公立大学学费范围，含生活费） |
-| 硕士学位（可选） | 2年 | $30,000~$80,000（部分高级职位或教育岗位要求） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition range, including living expenses) |
+| Master's degree (optional) | 2 years | $30,000~$80,000 (Required for some senior or educational positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NCTRC认证 | 国家治疗性娱乐认证委员会 | 必备 | 多数雇主和州监管要求，需通过考试 |
-| 州执业执照 | 各州卫生部门 | 必备 | 部分州要求，通常与NCTRC认证关联 |
-| 心肺复苏和急救认证 | 美国红十字会等 | 可选 | 临床工作必备 |
+| NCTRC certification | National Therapeutic Recreation Certification Council | Required | Required by most employers and state regulations, must pass an exam |
+| State occupational license. | State health departments | Required | Required by some states, usually associated with NCTRC certification |
+| CPR and First Aid certification | American Red Cross, etc. | Optional | Essential for clinical work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 22,500。美国康复治疗师就业预计增长约8%（2022-2032），快于平均水平，受老龄化人口和心理健康需求增加推动。就业机会主要在医疗和社区护理机构。
+**Job demand: high (★★★★☆).** National workforce approx. 22,500. Employment of physical therapists in the US is projected to grow about 8% (2022-2032), faster than average, driven by aging population and increased demand for mental health services. Opportunities mainly in hospitals and community care facilities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 医院或疗养院初级职位 |
-| 中级（3-8年） | $48,000~$60,000 | 有经验治疗师，可能承担协调职责 |
-| 高级（8年以上） | $60,000~$80,000 | 主管或临床专家，部分可达9万 |
+| Median salary | $61,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Entry-level position in hospitals or nursing homes. |
+| Mid-level (3–8 years) | $48,000~$60,000 | Experienced therapists may take on coordination duties |
+| Senior (8+ years) | $60,000~$80,000 | Supervisors or clinical specialists, some can reach $90,000 |
+| average salary | $67,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级治疗师可晋升为高级治疗师、项目协调员或部门主管。资深者可转向临床管理、咨询或教育岗位。部分通过硕士学历进入研究或大学教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate administrative tasks like event arrangement and documentation, but also enhance personalized event design and evaluation abilities; the career outlook is mixed.
+
+Junior therapists can advance to senior therapist, program coordinator, or department head. Experienced professionals can move into clinical management, consulting, or education. Some enter research or university teaching with a master's degree.
+
+**Tasks most exposed to AI:**
+
+- Use AI to automatically generate initial drafts of patient activity plans
+- Automatically record patient interaction summaries through natural language processing
+- Using AI to analyze patient data and recommend standardized activities
+- Use AI tools to automatically print and distribute event schedules.
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient history and preferences for personalized activity plans
+- Adjust activity intensity and type in real-time using wearable device data
+- Use AI to simulate activity effects and implement after safety assessment
+- Provide 24/7 activity support and reminders via AI chatbot
+
+**Human moat:**
+
+- Face-to-face emotional support and motivation skills
+- Ability to flexibly adjust activities based on the patient's condition on site
+- Clinical judgment for handling emergency medical situations
+- Communication skills to build trust relationships
+
+**Skills to build:**
+
+- Learn to use electronic health records and data analysis tools
+- Master basic Python for customised activity recommendation systems
+- Familiar with the human review process after AI-generated activity plans.
+- Understand wearable device data interpretation
+- Develop interdisciplinary collaboration skills
+- Take continuing education courses on AI applications in rehabilitation.
+
+**Key growth areas:**
 
 - Aging population
 - Mental health awareness
@@ -62,68 +95,67 @@ Recreational therapists plan, direct, or coordinate medically-approved recreatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用需学士学位的职位，由雇主赞助，有年度配额限制。 |
-| Subclass EB-2（EB-2 Advanced Degree） | 硕士或学士加5年经验可申请，需PERM劳工证。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 学士学位及2年经验，需PERM劳工证，排期较长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to positions requiring a bachelor's degree, sponsored by employers, with annual quota limits. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Master's or bachelor's plus 5 years of experience can apply; requires PERM labor certification. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Bachelor's degree and 2 years of experience; requires PERM labor certification with a long waiting period. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Recreational Therapists？**
-- 喜欢与人互动、有同理心，愿意在医疗环境工作
-- 具备创造性活动策划能力，能适应团队合作
-- 对康复和心理健康有热情，愿意接受持续教育
-
-**谁不适合学Recreational Therapists？**
-- 不喜欢身体接触或护理环境，对疾病/衰老感到不适
-- 偏好高薪或独立工作，缺乏耐心面对慢性病患者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys interacting with people, has empathy, and is willing to work in a medical environment.
+- Creative event planning skills, able to work in teams
+- Passion for rehabilitation and mental health, willingness to pursue continuing education
+
+**Who is not suited**
+- Dislikes physical contact or caregiving environments, feels uncomfortable with illness/aging
+- Prefers high salary or independent work; lacks patience with chronic disease patients
+
+---
+
+## 8. FAQ
+
+**Q: How are the salary levels for rehabilitation therapists in the United States?**
+A: According to BLS, median annual salary in 2023 is about $48,000, with low end around $35,000 and high end over $75,000. Salary varies by experience, region, and institution type.
+
+**Q: How difficult is it for rehabilitation therapists to apply for US work visas and green cards?**
+A: Moderate difficulty. Must first obtain NCTRC certification and state license, find employer sponsorship for H-1B (annual April lottery). EB-2/EB-3 green cards require PERM labor certification, with a wait of about 1-3 years.
+
+**Q: What are the employment prospects for rehabilitation therapists in the next ten years?**
+A: BLS projects 8% employment growth from 2022 to 2032, faster than the average for all occupations. Aging population and increased mental health awareness drive demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Recreational Therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of recreational therapists in the US?**
-答：According to BLS, the median annual wage in 2023 was about $48,000, with low end around $35,000 and high end over $75,000, varying by experience, location, and employer.
-
-**问：How difficult is it for recreational therapists to get a US work visa and green card?**
-答：Moderate. You need NCTRC certification and state license. H-1B requires employer sponsorship with annual lottery. EB-2/EB-3 green card requires PERM labor certification with 1-3 year wait.
-
-**问：What is the job outlook for recreational therapists over the next decade?**
-答：BLS projects 8% growth from 2022 to 2032, faster than average, driven by aging population and increased focus on mental health.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Welder（Welder）职业分析 · IE
+# Welder — career analysis · Ireland
 
-**职业代码：7212 – Welder。**
+**Occupation code: 7212 (ISCO08)**
 
-Welders join metal parts using welding equipment, widely employed in manufacturing, construction, and repair. They need skills in various techniques and safety awareness.
+Welders use welding equipment to join metal components, widely applied in manufacturing, construction, and maintenance industries. They need to master various welding techniques and have safety awareness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $1,000~$5,000（通常雇主资助，培训费低） |
-| 职业教育证书 | 1-2年 | $2,000~$8,000（爱尔兰SOLAS认证课程） |
+| Apprenticeship | 3-4 years | $1,000~$5,000 (Usually employer-sponsored, low training costs) |
+| Vocational education certificate | 1-2 years | $2,000~$8,000 (Ireland SOLAS accredited course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接证书 | City & Guilds / SOLAS | 必备 | 通常需通过实操考试 |
-| 健康与安全培训 | 雇主或培训机构 | 必备 | 如Safe Pass证书 |
+| Welding certificate | City & Guilds / SOLAS | Required | Usually requires passing a practical exam |
+| Health and safety training | Employer or training provider | Required | Such as Safe Pass certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,000。爱尔兰建筑业和制造业持续发展，对焊工需求稳定。可再生能源项目（如风电）增长带来新机会。劳动力老龄化导致新人补充需求大。
+**Job demand: high (★★★★☆).** National workforce approx. 6,000. Ireland's construction and manufacturing industries continue to develop, with stable demand for welders. Growth in renewable energy projects (e.g., wind power) brings new opportunities. Aging workforce leads to high demand for new recruits.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒期或刚合格 |
-| 中级（3-7年） | $35,000~$45,000 | 独立操作 |
-| 高级（7年以上） | $45,000~$60,000 | 主管或特种焊接 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | During apprenticeship or just qualified |
+| Mid-level (3–7 years) | $35,000~$45,000 | Independent operation |
+| Senior (7+ years) | $45,000~$60,000 | Supervisor or specialized welding |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可晋升为焊接主管、检验员或技术培训师。积累经验后可创业或专攻高精度焊接（如管道、航空航天）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Welding automation will replace a large number of repetitive welding tasks, but complex structure welding, on-site repair, and quality inspection still require manual work. AI-assisted design, programming, and inspection will improve efficiency. Entry-level positions will shrink due to automation, but demand for high-skilled talent remains stable.
+
+Can advance to welding supervisor, inspector, or technical trainer. With experience, one can start a business or specialize in high-precision welding (e.g., pipelines, aerospace).
+
+**Tasks most exposed to AI:**
+
+- Robotic spot welding of standardized parts like car bodies.
+- Automated trajectory welding of pipes and plates (e.g., MIG welding)
+- Automated visual inspection of weld quality (replacing manual inspection)
+- AI-optimized setting of welding parameters (current, voltage, speed).
+- Automation of auxiliary processes such as material preparation, cutting, and beveling
+
+**Where AI augments the role:**
+
+- AI-assisted welding process design: recommends optimal parameters based on material and thickness
+- Using AR/VR for welding simulation training to reduce material waste and safety risks
+- Real-time welding monitoring system provides defect feedback to guide manual correction.
+- AI-driven welding quality prediction reduces the need for destructive testing
+- Robot welding programming: manually programmed paths, robots perform high-precision repetitive tasks
+
+**Human moat:**
+
+- Manual skills for welding in complex spatial positions (e.g., pressure vessels, ship curves)
+- On-site repair/flexible welding capability for non-standard workpieces
+- Independently determine causes of welding defects and formulate repair plans
+- Experience with multi-material (aluminum, stainless steel, dissimilar metals) welding
+- Welding Safety Supervision and Emergency Response
+
+**Skills to build:**
+
+- Master robotic welding programming (e.g., FANUC, ABB)
+- Learning digital welder parameter adjustment and AI-assisted system usage
+- Obtain international welding certifications (e.g., AWS, IIW)
+- Learn welding simulation software (e.g., Siemens Simufact Welding)
+- Improve weld defect analysis and non-destructive testing (RT/UT) skills
+- Basic English reading ability to operate imported automated equipment
+
+**Key growth areas:**
 
 - Renewable energy
 - Construction boom
@@ -61,67 +97,66 @@ Welders join metal parts using welding equipment, widely employed in manufacturi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需年薪至少30,000欧元，雇主提供工作合同 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪至少64,000欧元（2024年标准），适合高级焊工 |
+| Subclass General Employment P (General Employment Permit) | Requires annual salary of at least 30,000 euros, employer provides work contract |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of at least €64,000 (2024 standard), suitable for senior welders |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welder？**
-- 动手能力强
-- 注重安全规范
-- 能适应体力劳动及户外工作
-
-**谁不适合学Welder？**
-- 不喜体力和重复性工作
-- 对烟尘和噪音敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability
+- Focus on safety regulations.
+- Able to handle physical labor and outdoor work
+
+**Who is not suited**
+- Dislikes physical labor and repetitive work
+- Sensitive to dust and noise.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for welders?**
+A: Entry-level: approximately €28,000-35,000; senior: up to €60,000; higher with overtime and specialized welding.
+
+**Q: Is it difficult for welders to immigrate to Ireland?**
+A: Welders are in demand and can apply for a general work permit. Requires employer sponsorship and relevant certifications.
+
+**Q: What certifications are needed?**
+A: Typically requires City & Guilds or SOLAS welding certificate, plus Safe Pass safety training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Welder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for welders?**
-答：Entry-level €28,000-€35,000, senior up to €60,000, with overtime and specialized welding.
-
-**问：Is it difficult for welders to immigrate to Ireland?**
-答：Welders are in shortage; General Employment Permit possible with employer sponsorship and qualifications.
-
-**问：What certifications are needed?**
-答：Typically City & Guilds or SOLAS welding certificate plus Safe Pass safety training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

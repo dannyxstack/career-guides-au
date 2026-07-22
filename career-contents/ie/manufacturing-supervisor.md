@@ -1,59 +1,94 @@
-# Manufacturing Supervisor（Manufacturing Supervisor）职业分析 · IE
+# Manufacturing Supervisor — career analysis · Ireland
 
-**职业代码：3122 – Manufacturing Supervisor。**
+**Occupation code: 3122 (ISCO08)**
 
-Manufacturing supervisors oversee production lines and teams, ensuring efficiency, quality, and safety. They are key middle management roles in manufacturing operations.
+A manufacturing supervisor oversees production lines and teams, ensuring production efficiency, quality, and safety; this is a key middle management role in manufacturing enterprises.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭或学士学位 | 2-3年（文凭）或4年（本科） | $10,000~$25,000（每年学费，欧盟学生较低） |
-| 高级文凭（制造工程或运营管理） | 1年 | $5,000~$15,000（短期课程或继续教育） |
+| Higher education diploma or bachelor's degree | 2-3 years (diploma) or 4 years (bachelor) | $10,000~$25,000 (Annual tuition fee, lower for EU students) |
+| Advanced Diploma (Manufacturing Engineering or Operations Management) | 1 year | $5,000~$15,000 (Short courses or continuing education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家制造管理证书 | 爱尔兰国家培训与就业局 (SOLAS) | 可选 | 常见行业认可资格 |
-| 安全与健康管理培训 | 健康与安全管理局 (HSA) | 必备 | 强制性要求 |
-| 精益六西格玛绿带/黑带 | 国际认证机构 | 可选 | 提升竞争力 |
+| Safety and Health Management Training | Health and Safety Authority (HSA) | Required | Mandatory requirements |
+| National Manufacturing Management Certificate | National Training and Employment Authority of Ireland (SOLAS) | Optional | Common industry-recognized qualifications |
+| Lean Six Sigma Green/Black Belt | International accreditation bodies | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。爱尔兰制造业持续发展，尤其在制药、医疗器械和食品饮料领域。数字化转型和自动化升级带来对主管的需求，预计未来五年就业平稳增长。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Ireland's manufacturing sector continues to grow, particularly in pharmaceuticals, medical devices, and food and beverage. Digital transformation and automation upgrades drive demand for supervisors, with steady employment growth expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 起薪范围，含加班 |
-| 中级（3-7年） | $45,000~$60,000 | 具备经验后薪资上升 |
-| 高级（7年以上） | $60,000~$80,000 | 高级主管或运营经理级别 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary range, including overtime |
+| Mid-level (3–7 years) | $45,000~$60,000 | Salary increases with experience |
+| Senior (7+ years) | $60,000~$80,000 | Senior manager or operations manager level |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术员晋升为主管，再向生产经理、工厂经理发展。积累精益生产和质量管理经验有助于晋升至运营总监。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Daily scheduling and reporting tasks for manufacturing supervisors face automation compression, but AI enhances their data-driven decision-making and anomaly response capabilities, evolving the role toward a blend of technical coordination and interpersonal leadership.
+
+Can progress from technician to supervisor, then to production manager, factory manager. Accumulating lean production and quality management experience helps advance to operations director.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and progress tracking: AI optimization algorithms automatically generate and adjust schedules.
+- Quality data recording and preliminary analysis: visual inspection systems and statistical software replace manual aggregation.
+- Daily report writing: natural language generation automatically outputs production daily reports and KPI statements.
+- Material requirement calculation and reminders: ERP system intelligent replenishment reduces manual checking.
+
+**Where AI augments the role:**
+
+- Root cause analysis of anomalies: AI assists in quickly identifying causes of yield drops or equipment downtime.
+- Human resource allocation: optimize staff scheduling and skill matching through workforce analysis models.
+- Lean improvement decisions: AI simulates the impact of different improvement plans on output and cost, aiding in selecting the optimal solution.
+- Safety and compliance monitoring: computer vision identifies violations in real time and alerts supervisors, who can respond remotely.
+- Employee training and knowledge transfer: AI generates personalised training materials and operation SOPs to accelerate onboarding.
+
+**Human moat:**
+
+- Cross-departmental conflict mediation and resource coordination skills
+- Non-standardized decision-making in emergency situations (e.g., safety incident handling)
+- Team morale boosting and personalized employee management
+- Intuition and experience in identifying hidden production bottlenecks
+- Emergency procurement and scheduling strategies during supply chain disruptions
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/SQL/Tableau)
+- Advanced configuration and report development in MES/ERP systems
+- Lean Six Sigma methodology and project leadership skills
+- Basic AI/machine learning concepts and tool applications
+- Cross-cultural communication and remote team management
+- Human-machine collaborative workstation design and optimization
+
+**Key growth areas:**
 
 - Pharmaceutical manufacturing
 - Medical devices
@@ -62,68 +97,67 @@ Manufacturing supervisors oversee production lines and teams, ensuring efficienc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪30,000欧元以上的非紧缺职业，需劳动市场测试。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如果职位在紧缺职业清单上，年薪需至少32,000欧元，简化流程。目前制造业主管通常不符合，但可申请。 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能非欧盟公民，年薪需达到全国平均工资的1.5倍（约65,000欧元），制造业主管通常达不到。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in shortage with an annual salary above €30,000 and requires a labor market test. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the shortage occupation list, the annual salary must be at least €32,000 for streamlined processing. Currently, manufacturing supervisors usually do not qualify, but can apply. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens; annual salary must reach 1.5 times the national average (approx. €65,000). Manufacturing supervisors typically do not meet this threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manufacturing Supervisor？**
-- 具备领导力和沟通能力的人
-- 喜欢动手解决问题和优化流程的人
-- 愿意在工厂环境下工作并能承受压力的人
-
-**谁不适合学Manufacturing Supervisor？**
-- 不擅长人际协调和团队管理的人
-- 希望完全脱离一线操作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has leadership and communication skills
+- People who enjoy solving problems and optimizing processes
+- Individuals willing to work in a factory environment and handle pressure
+
+**Who is not suited**
+- Those not good at interpersonal coordination and team management
+- Those wishing to completely move away from hands-on operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for manufacturing managers in Ireland?**
+A: Entry-level approximately €35,000-45,000, mid-level €45,000-60,000, senior level up to €60,000-80,000, depending on industry and company size.
+
+**Q: How can overseas people immigrate to Ireland through a manufacturing supervisor position?**
+A: A work permit is generally required. If the occupation is not on the shortage list, a general work permit must be applied for, with an annual salary of at least €30,000 and passing a labor market test.
+
+**Q: What are the career development prospects for a manufacturing supervisor?**
+A: Can advance to production manager, factory manager, or operations director, especially in high-value-added sectors like pharmaceuticals and medical devices.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Manufacturing Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for manufacturing supervisors in Ireland?**
-答：Entry-level: €35,000-€45,000; mid-level: €45,000-€60,000; senior: €60,000-€80,000, depending on industry and company size.
-
-**问：How can overseas professionals immigrate to Ireland as a manufacturing supervisor?**
-答：Usually need a work permit. If not on the critical skills list, apply for a General Employment Permit with a salary of at least €30,000 and pass a labor market test.
-
-**问：What are the career prospects for manufacturing supervisors?**
-答：Can advance to production manager, plant manager, or operations director, especially in high-value sectors like pharmaceuticals and medical devices.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

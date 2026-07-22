@@ -1,59 +1,91 @@
-# Street cleaners（Street cleaners）职业分析 · UK
+# Street cleaners — career analysis · United Kingdom
 
-**职业代码：9222 – Street cleaners。**
+**Occupation code: 9222 (SOC)**
 
-Street cleaners sweep and remove refuse from public thoroughfares, maintaining cleanliness in urban areas. The role involves outdoor physical labor and basic safety awareness.
+Street cleaners are responsible for cleaning public areas, collecting garbage, and keeping streets tidy. Work is usually outdoors, requiring physical labor and basic safety awareness.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无特定教育要求 | 无 | —（通常仅需在职培训） |
+| No specific educational requirements | None | $0~$0 (Usually only on-the-job training required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照（如需要驾驶车辆） | DVLA | 可选 | 部分岗位要求B类驾驶执照 |
-| 安全培训证书 | 雇主或培训机构 | 可选 | 如COSHH、Manual Handling证书 |
+| Driver's license (if driving is required) | DVLA | Optional | Some positions require a Class B driver's license |
+| Safety training certificate | Employer or training provider | Optional | Such as COSHH, Manual Handling certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 40,000。受地方政府预算影响，就业增长平稳。环保意识提升带来一定需求，但自动化和机械化可能减少部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 40,000. Employment growth is stable, affected by local government budgets. Increased environmental awareness brings some demand, but automation and mechanization may reduce some positions.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 通常按最低工资标准发放 |
-| 中级（3-5年） | $22,000~$26,000 | 可能包含夜班或加班补贴 |
-| 高级（5年以上） | $25,000~$30,000 | 团队主管或特殊设备操作员可达此水平 |
+| Median salary | $27,633 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Usually paid at the minimum wage rate |
+| Mid-level (3–5 years) | $22,000~$26,000 | May include night shift or overtime allowances. |
+| Senior (5+ years) | $25,000~$30,000 | Team supervisor or special equipment operator can reach this level |
+| average salary | $28,309 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从初级保洁员起步，可晋升为团队主管或环卫设备操作员，部分经验者可转入废物管理或环境服务领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Street cleaners' repetitive sweeping tasks are highly automatable; AI and robots will take over most physical work, significantly reducing entry-level positions, but supervision and technical maintenance roles may emerge.
+
+Typically start as junior cleaners, can advance to team supervisor or sanitation equipment operator; some experienced workers may transition to waste management or environmental services.
+
+**Tasks most exposed to AI:**
+
+- Daily street garbage sweeping and collection
+- Inspection and emptying of garbage bins
+- Route-based Repetitive Cleaning Operations
+- Simple waste sorting and disposal
+
+**Where AI augments the role:**
+
+- Using an AI scheduling system to optimize cleaning routes and frequency
+- Real-time monitoring of bin fill levels via IoT sensors and prioritized response
+- AI visual recognition assists in detecting unusual litter or illegal dumping
+- Use mobile apps to receive resident complaints and accurately dispatch handling.
+
+**Human moat:**
+
+- Flexibility in handling unexpected hygiene incidents (e.g., oil spills, vomit)
+- Maintaining complex urban facilities (e.g., dead corners under sculptures) with fine operations
+- Engaging with community residents and providing humanistic care
+
+**Skills to build:**
+
+- Operate and maintain automated cleaning equipment (e.g., floor-cleaning robots)
+- Task planning using intelligent scheduling platforms
+- Basic data analysis (waste volume statistics and trend forecasting)
+- Communicate and negotiate with people to resolve complaints
+- Environmental Safety and Emergency Response
+- Learn the basics of IoT devices
+
+**Key growth areas:**
 
 - Automation
 - Recycling
@@ -62,62 +94,64 @@ Street cleaners sweep and remove refuse from public thoroughfares, maintaining c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 不可申请，因缺技能要求且薪资低于一般门槛。 |
-| Subclass Graduate（Graduate Visa） | 不适用，通常不招聘该职业毕业生。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Not eligible, as it lacks skill requirements and salary is below general threshold. |
+| Subclass Graduate (Graduate Visa) | Not applicable; graduates for this occupation are not typically recruited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street cleaners？**
-- 寻求稳定体力劳动者
-- 偏好户外工作与灵活排班者
-- 无需高学历背景者
+**Who is suited**
+- Seeking stable manual workers
+- Prefer outdoor work and flexible scheduling
+- No need for high educational background
 
-**谁不适合学Street cleaners？**
-- 追求高薪职业者
-- 难以适应恶劣天气和体力劳动强度者
+**Who is not suited**
+- Those seeking high-paying careers
+- Those who struggle to adapt to harsh weather and intense physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a street cleaner?**
+A: Entry-level annual salary approximately £18,000-22,000, senior or supervisor up to £30,000. Salary influenced by employer (local government or private company).
+
+**Q: Can a street cleaner apply for a UK work visa?**
+A: Generally no. This occupation does not meet the skill and salary requirements for skilled worker visas due to being low-skilled, with limited immigration pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Street cleaners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for street cleaners?**
-答：Entry level salary is around £18,000-£22,000, while senior or supervisory roles may reach £30,000. Salary varies by employer (local authority vs private contractor).
-
-**问：Can street cleaners apply for a UK work visa?**
-答：Generally no. This occupation does not meet the skill and salary thresholds for a Skilled Worker visa, and is considered low-skilled with limited immigration routes.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

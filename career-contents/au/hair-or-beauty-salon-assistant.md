@@ -1,58 +1,94 @@
-# Hair or Beauty Salon Assistant（Hair or Beauty Salon Assistant）职业分析 · 澳大利亚
+# Hair or Beauty Salon Assistant — career analysis · Australia
 
-**职业代码：451812 – Hair or Beauty Salon Assistant。**
+**Occupation code: 451812 (ANZSCO)**
 
-Hair or Beauty Salon Assistants support hairdressers and beauticians with shampooing, blow-drying, coloring, and salon cleaning, requiring no advanced skills but good communication and service orientation.
+Hairdressing or beauty assistants help stylists and beauticians in salons with shampooing, blow-drying, coloring, cleaning, etc. It is an entry-level role in the beauty industry, requiring no advanced skills but good communication and service awareness.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期证书 | 6-12个月 | $3,000~$8,000（TAFE或私立学院的美容/美发证书课程） |
+| Short-term certificate | 6–12 months | $3,000~$8,000 (TAFE or private college beauty/hairdressing certificate course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美容服务三级证书 (Certificate III in Beauty Services) | TAFE/认可培训机构 | 可选 | 非强制但提升就业竞争力 |
+| Certificate III in Beauty Services | TAFE/accredited training provider | Optional | Not mandatory but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 12,000。随着澳洲美容美发行业持续增长，对助理的需求稳定，但职位竞争激烈，薪资较低，适合作为进入行业的起点。未来五年就业预计小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. As the Australian beauty and hairdressing industry continues to grow, demand for assistants is stable, but competition for positions is fierce and salaries are low, making it suitable as an entry point into the industry. Employment is expected to grow slightly over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒或兼职水平 |
-| 中级（3-5年） | $45,000~$55,000 | 全职助理或初级发型师 |
-| 高级（5年以上） | $50,000~$65,000 | 资深助理或转向理发师 |
+| Median salary | $50,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprentice or part-time level |
+| Mid-level (3–5 years) | $45,000~$55,000 | Full-time assistant or junior hairstylist. |
+| Senior (5+ years) | $50,000~$65,000 | senior assistant or transitioning to hairdresser |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从助理做起，积累经验后可晋升为发型师或美容师，进一步可成为高级技师、沙龙经理或自主创业开店。短期培训即可入门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
+
+Typically start as an assistant, gain experience to become a hairstylist or beautician, then advance to senior technician, salon manager, or start your own business. Short-term training provides entry.
+
+**Tasks most exposed to AI:**
+
+- Hair dye formula calculation and color matching (AI automatically recommends formula based on hair type and skin tone)
+- Customer appointment, reminder, and follow-up (handled by AI chatbots)
+- Basic scalp analysis and care recommendations (AI camera diagnosis)
+- Inventory management and consumables ordering (AI-based forecasting system)
+- Social media content generation (AI one-click design of hairstyle display images)
+
+**Where AI augments the role:**
+
+- Hairstyle design inspiration generation (AI generates personalized plans based on face shape and trends)
+- Virtual try-on enhancing client communication (AR real-time display of hair dyeing/haircut effects)
+- Customer Relationship Management (AI analyzes preferences, accurately recommends services and products)
+- Cost accounting and pricing optimization (AI suggests prices based on market data)
+- Online Teaching and Skill Enhancement (AI voice guidance for complex techniques)
+
+**Human moat:**
+
+- Precision and artistry of manual techniques (e.g., haircut layering, blow-dry styling)
+- On-site customer communication and emotional interaction (understanding non-verbal cues)
+- Intuitive judgment of individual aesthetic preferences (aesthetic that AI cannot replicate)
+- Managing physical contact comfort (e.g., shampooing, massage with tactile experience)
+- Ability to adjust plans on the fly (based on real-time feedback)
+
+**Skills to build:**
+
+- Master AI hairstyle recommendation tools (e.g., StyleMyHair, YouCam)
+- Learning basic data analysis (customer preferences and inventory optimization)
+- Enhance social media operations (AI-assisted content creation)
+- Obtain higher-level certifications (such as Color Master, Scalp Therapist)
+- Learning AR/VR virtual try-on software operation
+- Communication and sales psychology (enhancing personalized service premium)
+
+**Key growth areas:**
 
 - beauty industry
 - hairdressing
@@ -61,63 +97,65 @@ Hair or Beauty Salon Assistants support hairdressers and beauticians with shampo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 此职业通常不符合482签证要求，因为不在职业清单上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | This occupation usually does not meet 482 visa requirements as it is not on the occupation list |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hair or Beauty Salon Assistant？**
-- 对美发美容行业感兴趣，愿意从基层做起的人
-- 沟通能力强、服务意识好，喜欢与人打交道的人
+**Who is suited**
+- People interested in the hairdressing and beauty industry, willing to start from the basics
+- People with strong communication skills, a good service attitude, and who enjoy interacting with others
 
-**谁不适合学Hair or Beauty Salon Assistant？**
-- 寻求高薪或快速晋升的人
-- 不喜欢站立工作、接触化学品的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Those who dislike standing work or contact with chemicals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a hairdressing and beauty assistant?**
+A: Entry-level assistant salary approx. 35,000-45,000 AUD, rising to 50,000-65,000 AUD with experience, but overall low.
+
+**Q: Can hairdressing and beauty assistants migrate to Australia through skilled migration?**
+A: Almost impossible; this occupation is not on the skilled occupation list, no 190/189 immigration pathways, only possible via employer sponsorship but with high thresholds.
+
+**Q: How long does it take to go from assistant to hairdresser?**
+A: Typically requires 1-2 years of experience and completion of a relevant certificate course (e.g., Certificate III in Hairdressing), after which can transition to hairstylist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Hair or Beauty Salon Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Hair or Beauty Salon Assistant?**
-答：Entry-level assistants earn around AUD 35,000-45,000 per year, increasing to AUD 50,000-65,000 with experience, but overall low.
-
-**问：Can a Hair or Beauty Salon Assistant migrate to Australia via skilled migration?**
-答：Almost impossible; the occupation is not on the skilled occupation list, with no 190/189 pathways and limited employer sponsorship.
-
-**问：How long to become a hairdresser from an assistant?**
-答：Usually 1-2 years of experience plus a relevant certificate (e.g., Certificate III in Hairdressing) to transition to hairdresser.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

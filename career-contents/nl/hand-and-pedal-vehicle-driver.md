@@ -1,60 +1,93 @@
-# Hand and Pedal Vehicle Driver（Hand and Pedal Vehicle Driver）职业分析 · NL
+# Hand and Pedal Vehicle Driver — career analysis · Netherlands
 
-**职业代码：9331 – Hand and Pedal Vehicle Driver。**
+**Occupation code: 9331 (ISCO08)**
 
-Includes bicycle couriers, tricycle drivers, etc., playing a key role in urban last-mile delivery and passenger transport, especially in bike-friendly cities like Amsterdam.
+Includes bicycle couriers, rickshaw drivers, etc., playing a key role in urban short-distance logistics and passenger transport, with stable demand especially in bike-friendly cities like Amsterdam.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常仅需短期培训或上岗指导） |
-| 载货自行车培训课程 | 1-4周 | $200~$600（部分雇主提供免费培训） |
+| No formal education required | None | $0~$0 (Usually requires only short-term training or on-the-job guidance) |
+| Cargo bicycle training course | 1-4 weeks | $200~$600 (Some employers offer free training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机动车驾驶执照（可选项） | 荷兰车辆管理局 (RDW) | 可选 | 若驾驶电动货运自行车或三轮车，可能需Am驾照 |
-| 货运自行车操作证书 | 雇主或培训机构 | 可选 | 部分物流公司要求完成内部安全培训 |
+| Motor vehicle driver licence (optional) | Netherlands Vehicle Authority (RDW) | Optional | If driving an electric cargo bike or tricycle, an Am license may be required |
+| Cargo Bike Operation Certificate | Employer or training provider | Optional | Some logistics companies require completion of internal safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。荷兰自行车文化深厚，加上电商和外卖行业增长，手推车及脚踏车驾驶员需求持续稳定。但自动化配送技术和电动自行车可能改变部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The Netherlands has a deep cycling culture, coupled with the growth of e-commerce and food delivery industries, leading to continued steady demand for handcart and pedal vehicle drivers. However, automated delivery technology and electric bicycles may change some roles.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 全职，税前年薪 |
-| 中级（2-5年） | $28,000~$35,000 | 含经验及绩效奖金 |
-| 高级（5年以上） | $35,000~$42,000 | 含团队领导或自营业务收入 |
+| Median salary | $22,131 | Median salary (official: CBS median hourly wage €11.2/hour × 1976 hours annualized, BRC group 1221 Loaders, unloaders and shelf fillers; P25–P75 €13,634–€33,790, CBS 2024) |
+| Entry level (0–2 years) | $22,000~$28,000 | Full-time, pre-tax annual salary |
+| Intermediate (2-5 years) | $28,000~$35,000 | Includes experience and performance bonus |
+| Senior (5+ years) | $35,000~$42,000 | Includes team leadership or self-employment income |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常无明确晋升路径，可发展为车队主管或自营快递业务。部分驾驶员转向物流调度或配送管理岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Handcart and pedicab drivers face high automation substitution risk, especially as autonomous delivery robots and drones are being piloted in the Netherlands; entry-level positions will significantly narrow in the next 5 years. However, human traits such as flexible response to complex road conditions and interpersonal interaction still provide a protective moat.
+
+Usually no clear career progression path; may develop into fleet supervisor or self-operated courier business. Some drivers shift to logistics dispatch or delivery management roles.
+
+**Tasks most exposed to AI:**
+
+- Short-distance delivery of regular small parcels (being replaced by automated delivery robots)
+- Fixed-route freight delivery (replaced by autonomous tricycles/drones)
+- Simple navigation and route planning (completed autonomously by real-time optimal route algorithms)
+- Waiting parking and simple loading/unloading (replaced by automated loading/unloading systems)
+
+**Where AI augments the role:**
+
+- Using AI navigation apps (e.g., optimal routes, traffic prediction) to improve delivery efficiency
+- Use vehicle sensors and cameras to assist in detecting obstacles and pedestrians
+- Using AI scheduling systems to dynamically accept orders and optimize multi-task sequencing
+- Quickly handle customer communication and exceptions via mobile AI customer service
+
+**Human moat:**
+
+- Navigate flexibly and respond to unexpected situations in complex urban environments like congestion, narrow lanes, and pedestrian zones
+- Face-to-face human interaction with customers (e.g. personalised greetings during food delivery)
+- Careful handling and judgment when processing non-standard parcels (fresh food, fragile items)
+- Resilience to reliably complete tasks in harsh weather (rain, snow, high heat).
+
+**Skills to build:**
+
+- Basic maintenance and battery management for e-bikes/tricycles
+- Proficient in using AI scheduling and navigation apps (e.g., Google Maps, Route4Me)
+- Basic digital customer service and anomaly reporting capabilities
+- Multilingual communication (serving tourists and diverse communities)
+- Time management and multitasking coordination skills
+- Learn to operate driver assistance/adaptive cruise control systems
+
+**Key growth areas:**
 
 - Last-mile delivery
 - E-commerce
@@ -63,66 +96,68 @@ Includes bicycle couriers, tricycle drivers, etc., playing a key role in urban l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，但此职业通常不符合高技能标准，除非担任管理岗。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业生的求职年签证，可从事任何工作包括此职业。 |
-| Subclass Freelance visa（Freelance visa） | 自雇驾驶员可申请，需证明在荷有持续业务。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled migration, but this occupation usually does not meet the high-skilled criteria unless in a management role. |
+| Subclass Orientation Year (Orientation Year) | The graduate job-seeking visa for the Netherlands allows any work, including this occupation. |
+| Subclass Freelance visa (Freelance visa) | Self-employed drivers can apply, needing to demonstrate ongoing business in the Netherlands. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hand and Pedal Vehicle Driver？**
-- 热爱户外骑行和体力活动
-- 熟悉城市路况并有良好方向感
-- 寻求灵活工作时间或兼职机会
+**Who is suited**
+- Enjoys outdoor cycling and physical activities
+- Familiar with urban road conditions and have a good sense of direction
+- Seeking flexible working hours or part-time opportunities
 
-**谁不适合学Hand and Pedal Vehicle Driver？**
-- 无法适应全天候户外工作
-- 追求高收入和明确职业晋升路径
+**Who is not suited**
+- Unable to adapt to all-weather outdoor work
+- Pursuit of high income and clear career progression paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for handcart and bicycle drivers?**
+A: Entry-level annual salary approximately 22,000-28,000 euros, mid-level up to 35,000 euros, senior or self-employed may exceed 40,000 euros.
+
+**Q: How can non-EU residents obtain a work permit for this type of job in the Netherlands?**
+A: Typically requires employer-sponsored work permit (GVVA), but this occupation does not meet high-skilled immigration standards. Options include EU free movement or the Netherlands graduate job search year visa.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Limited promotion opportunities, can advance to fleet supervisor or self-operated courier business, or shift to logistics scheduling or distribution management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hand and Pedal Vehicle Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hand and pedal vehicle drivers?**
-答：Entry-level annual salary ranges from €22,000 to €28,000, mid-level up to €35,000, and senior or self-employed roles may exceed €40,000.
-
-**问：How can non-EU residents get a work permit for this job in the Netherlands?**
-答：Typically requires employer-sponsored combined permit (GVVA), but this occupation does not qualify for highly skilled migrant rules. Options include EU free movement or Orientation Year visa for graduates.
-
-**问：Is there career advancement for this job?**
-答：Limited; potential to become fleet supervisor or start own delivery business, or transition to logistics coordination and delivery management.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

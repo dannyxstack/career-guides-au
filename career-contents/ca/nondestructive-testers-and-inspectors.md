@@ -1,58 +1,92 @@
-# Non-destructive testers and inspectors（Non-destructive testers and inspectors）职业分析 · 加拿大
+# Non-destructive testers and inspectors — career analysis · Canada
 
-**职业代码：22230 – Non-destructive testers and inspectors。**
+**Occupation code: 22230 (NOC)**
 
-Non-destructive testers inspect materials using ultrasonic, radiographic, magnetic particle methods to detect defects, ensuring industrial safety and quality.
+Non-destructive testing inspectors use ultrasonic, radiographic, magnetic particle, and other techniques to detect material defects, ensuring industrial equipment safety, and are key in quality control.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $10,000~$20,000（学院无损检测技术专业） |
-| 本科 | 4年 | $40,000~$80,000（工程或材料科学相关） |
+| Diploma | 2 years | $10,000~$20,000 (College Nondestructive Testing Technology Program) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Engineering or materials science related) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CGSB无损检测认证 | 加拿大通用标准委员会 | 必备 | 需通过理论和实践考试 |
-| 省级安全许可证 | 各省安全机构 | 必备 | 如BC省的安全证书 |
+| CGSB nondestructive testing certification | Canadian General Standards Board | Required | Must pass theoretical and practical exams |
+| Provincial safety license. | Provincial security agencies | Required | e.g., a safety certificate from BC |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大油气管道、航空航天及制造业对无损检测需求稳定。退休潮带来岗位空缺，但新人需认证。就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. In Canada, the oil and gas pipeline, aerospace, and manufacturing industries have steady demand for non-destructive testing. Retirement waves create job openings, but newcomers need certification. Good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 需CGSB 1级认证 |
-| 中级（4-7年） | $65,000~$85,000 | CGSB 2级认证 |
-| 高级（8年以上） | $85,000~$110,000 | CGSB 3级认证或主管 |
+| Median salary | $74,880 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Requires CGSB Level 1 certification |
+| Mid-level (4-7 years) | $65,000~$85,000 | CGSB Level 2 certification |
+| Senior (8+ years) | $85,000~$110,000 | CGSB Level 3 certification or supervisor |
+| average salary | $74,880 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级检测员可晋升为高级技师、团队主管或成为CGSB认证专家。还可转向质量工程或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+NDT inspectors and testers are mixedly affected by AI: automation can handle data collection and analysis, but on-site operations, regulatory responsibilities, and complex defect judgment still rely on humans; roles are transforming rather than disappearing.
+
+Junior inspectors can progress to senior technician, team supervisor, or become CGSB certified specialist. They can also move into quality engineering or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyze inspection data such as ultrasound and X-ray and generate standard reports
+- Automatically marks common defects (cracks, pores) based on AI image recognition
+- Automation of repetitive batch testing processes
+- Automatic comparison of test results with standard databases
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of complex signals to improve defect detection rates
+- Augmented Reality (AR) overlays inspection data to guide on-site operations
+- Machine learning models predict equipment aging trends, optimizing inspection schedules.
+- Real-time remote expert support system, improving on-site decision efficiency
+
+**Human moat:**
+
+- On-site commissioning and operation of non-standard and old equipment
+- Regulatory personnel qualification authorisation (e.g., CGSB certification)
+- Expert-level judgment on ambiguous or incomplete signals
+- Communication and responsibility with clients and regulators
+- Flexible response in harsh environments (heights, confined spaces).
+
+**Skills to build:**
+
+- Proficient in AI-assisted inspection software (e.g., data analysis platforms)
+- Enhance data interpretation and anomaly judgment skills
+- Learn additive manufacturing and new material testing techniques
+- Obtain advanced certifications (e.g., NACE/API levels)
+- Develop communication and teamwork skills
+- Basic programming (Python/scripting) for automated reporting
+
+**Key growth areas:**
 
 - Oil & Gas
 - Aerospace
@@ -61,68 +95,67 @@ Non-destructive testers inspect materials using ultrasonic, radiographic, magnet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 通过FSW类别，需1年相关工作经验 |
-| Subclass PNP（Provincial Nominee Program） | 阿尔伯塔、萨省等省提名项目紧缺 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适合有工作offer |
+| Subclass Express Entry (Federal Skilled Worker) | Through FSW category, need 1 year relevant work experience |
+| Subclass PNP (Provincial Nominee Program) | Shortage occupations under Alberta, Saskatchewan and other provincial nominee programs |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, suitable for those with a job offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-destructive testers and inspectors？**
-- 注重细节、有耐心的人
-- 喜欢技术操作和现场工作的人
-- 追求稳定职业的工程背景人士
-
-**谁不适合学Non-destructive testers and inspectors？**
-- 不喜欢户外或工业环境的人
-- 对重复性检查工作感到枯燥的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient people
+- People who enjoy technical work and on-site operations
+- Engineering background individuals seeking stable careers
+
+**Who is not suited**
+- Not suitable for those who dislike outdoor or industrial environments
+- People who find repetitive inspection work tedious
+
+---
+
+## 8. FAQ
+
+**Q: How much do nondestructive testing technicians earn in Canada?**
+A: Entry-level about C$50,000-65,000, mid-level C$65,000-85,000, senior C$85,000-110,000. Higher pay in oil and gas industry.
+
+**Q: How can nondestructive testing technicians immigrate to Canada?**
+A: Eligible via Express Entry (FSW) or Provincial Nominee Program. Requires CGSB certification and 1+ year work experience.
+
+**Q: How is the career development of a non-destructive testing technician?**
+A: Progress from junior to senior, can become supervisor or trainer. Can also transition to quality engineering or professional consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Non-destructive testers and inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How much do NDT testers earn in Canada?**
-答：Entry-level CAD 50,000-65,000, mid-level 65,000-85,000, senior 85,000-110,000. Oil & gas pays more.
-
-**问：How can NDT testers immigrate to Canada?**
-答：Via Express Entry (FSW) or PNP. Requires CGSB certification and 1+ year experience.
-
-**问：What is the career path for NDT testers?**
-答：From junior to senior, then supervisor or trainer. Can shift to quality engineering or consulting.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

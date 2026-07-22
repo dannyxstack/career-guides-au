@@ -1,59 +1,92 @@
-# Sales Demonstrator（Sales Demonstrator）职业分析 · IT
+# Sales Demonstrator — career analysis · Italy
 
-**职业代码：5242 – Sales Demonstrator。**
+**Occupation code: 5242 (ISCO08)**
 
-Sales demonstrators showcase products in retail stores or events, using live demonstrations to attract customers and drive sales.
+Sales demonstrators showcase products in retail stores or exhibitions, attracting customers through live demonstrations and explanations.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 12年（高中毕业） | —（公立教育免费） |
-| 短期培训课程 | 3个月-1年 | $500~$3,000（私立培训机构） |
+| High school diploma | 12 years (high school graduation) | $0~$0 (Public education is free) |
+| Short-term training course | 3 months - 1 year | $500~$3,000 (Private training provider) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制资格 | — | 可选 | 雇主通常要求高中毕业及沟通能力 |
+| No specific mandatory qualifications | — | Optional | Employers usually require high school graduation and communication skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。意大利零售业就业稳定，但销售演示员岗位受电商冲击，预计缓慢增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Retail employment in Italy is stable, but sales demonstrator roles are affected by e-commerce and are expected to grow slowly.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，兼职或全职 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$40,000 | 税前年薪，含主管职位 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual gross salary, part-time or full-time |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$40,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $27,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为销售主管、品牌代表或区域经理，需积累沟通与行业经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sales demonstrator roles rely heavily on human-machine interaction and live engagement, but AI-driven virtual demos, self-service inquiries, and automated sales tools are compressing entry-level demand—pure presentation roles will significantly decrease.
+
+Can advance to sales supervisor, brand representative, or regional manager, requiring communication and industry experience.
+
+**Tasks most exposed to AI:**
+
+- Repeated on-site demonstrations of product standard functions
+- Using pre-recorded videos or AI-generated content to replace on-site explanations
+- Frequently asked customer questions; replaced by chatbots
+- Product parameter query and comparison, replaced by self-service terminals or AR applications
+
+**Where AI augments the role:**
+
+- AI analyzes customer data to assist in customizing personalized presentation scripts
+- Real-time speech transcription and translation, supporting multilingual audiences
+- AR/VR technology enhances the immersion and interactivity of product displays
+- Sales data dashboard helps presenters adjust strategies in real time
+
+**Human moat:**
+
+- On-site engagement and improvisation skills
+- Soft skills for building emotional trust and client relationships
+- Creativity and narrative skills in complex product experiences
+- Flexible adaptation for cross-cultural and non-standard scenarios
+
+**Skills to build:**
+
+- Digital storytelling and multimedia content production
+- AR/VR demonstration tool operation
+- Basic data analysis and CRM tool usage
+- Customer Psychology and Advanced Communication Skills
+- Multilingual communication skills (particularly for the IT market)
+- Live streaming and online interaction skills
+
+**Key growth areas:**
 
 - Retail
 - Customer Engagement
@@ -62,62 +95,64 @@ Sales demonstrators showcase products in retail stores or events, using live dem
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 仅适用于高技能职位，销售演示员通常不符合薪资门槛。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 非欧盟公民可通过年度配额申请，需雇主担保。 |
+| Subclass EU Blue Card (EU Blue Card) | Only applies to high-skilled positions; sales demonstrators generally do not meet the salary threshold. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU citizens can apply through annual quotas, requiring employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Demonstrator？**
-- 善于沟通和表演，喜欢与人互动
-- 对产品有热情，能快速学习新知识
-- 能适应灵活排班和站立工作
+**Who is suited**
+- Good at communication and performance, enjoys interacting with people
+- Passionate about products, able to quickly learn new knowledge
+- Able to adapt to flexible scheduling and standing work
 
-**谁不适合学Sales Demonstrator？**
-- 不喜欢频繁出差或周末工作
-- 不擅长即兴演讲或面对拒绝
+**Who is not suited**
+- Dislikes frequent travel or weekend work
+- Not skilled at impromptu speaking or handling rejection
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a sales demonstrator?**
+A: Entry-level annual salary approximately €18,000–24,000, senior up to €30,000–40,000.
+
+**Q: Can non-EU citizens immigrate to Italy through this occupation?**
+A: Sales demonstrator is not a shortage occupation; the immigration threshold is high and usually requires employers to apply for work permits through the Decreto Flussi quota.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Demonstrator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for sales demonstrators?**
-答：Entry-level salary ranges from €18,000 to €24,000 per year, senior up to €30,000-€40,000.
-
-**问：Can non-EU citizens immigrate to Italy through this occupation?**
-答：Sales demonstrators are not in shortage; migration is difficult and usually requires employer sponsorship via Decreto Flussi quota.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,93 @@
-# Aircraft Pilot（Aircraft Pilot）职业分析 · IT
+# Aircraft Pilot — career analysis · Italy
 
-**职业代码：3153 – Aircraft Pilot。**
+**Occupation code: 3153 (ISCO08)**
 
-Operate aircraft to transport passengers or cargo, ensuring safety and efficiency.
+Responsible for flying aircraft to transport passengers or cargo, ensuring flight safety and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 飞行培训（ATPL） | 18-24个月 | $60,000~$100,000（自费飞行学校，包含租赁与小时费） |
-| 航空学院本科 | 3年（本科） | $50,000~$80,000（公立大学航空工程或飞行专业） |
+| Flight training (ATPL) | 18-24 months | $60,000~$100,000 (Self-funded flight school, includes rental and hourly fees) |
+| Aviation College Bachelor's | 3 years (bachelor's) | $50,000~$80,000 (Public university aerospace engineering or flight majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航线运输飞行员执照（ATPL） | 意大利民航局（ENAC）或EASA | 必备 | 需通过理论与飞行考试 |
-| 仪表等级（IR） | 认证培训机构 | 必备 | 允许仪表条件下飞行 |
-| 机型等级 | 航空公司或EASA | 必备 | 针对具体机型培训 |
+| Airline Transport Pilot License (ATPL) | Italian Civil Aviation Authority (ENAC) or EASA | Required | Must pass theoretical and flight exams |
+| Instrument Rating (IR) | Accredited training organization | Required | Allows flight under instrument conditions |
+| Aircraft rating | Airline or EASA | Required | Specific aircraft model training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。意大利航空运输业稳步恢复，飞行员需求稳定，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Italy's aviation transport industry is steadily recovering, with stable demand for pilots but intense competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$50,000 | 副驾驶（First Officer） |
-| 中级（5-15年） | $60,000~$90,000 | 副驾驶或初级机长 |
-| 高级（15年以上） | $95,000~$150,000 | 机长（Captain） |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $35,000~$50,000 | First Officer |
+| Intermediate (5-15 years) | $60,000~$90,000 | First officer or junior captain |
+| Senior (15+ years) | $95,000~$150,000 | Captain (Pilot in command) |
+| average salary | $80,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从副驾驶晋升到机长需积累飞行小时和经验，可转至航空公司管理或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+To advance from first officer to captain, you need to accumulate flight hours and experience; you can transition to airline management or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Air travel recovery
 - Pilot retirements
@@ -62,68 +96,67 @@ Operate aircraft to transport passengers or cargo, ensuring safety and efficienc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技术移民，需雇佣合同及符合工资门槛（2024年约€30,496） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟飞行员需通过年度配额申请，由雇主发起 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需申请无异议证明，获批后可办理工作签证 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled immigration, requires an employment contract and meeting the salary threshold (2024 approx. €30,496) |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU pilots must apply through annual quota, employer-sponsored |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers need to apply for a no-objection certificate; once approved, they can process the work visa. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Pilot？**
-- 具备良好身体和心理健康的人
-- 能承受高压和倒班工作
-- 对飞行有强烈热情
-
-**谁不适合学Aircraft Pilot？**
-- 恐高或对飞行有焦虑
-- 无法接受频繁出差和不规律作息
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Person with good physical and mental health
+- Able to handle high pressure and shift work
+- Strong Passion for Flying
+
+**Who is not suited**
+- Fear of heights or anxiety about flying
+- Unable to accept frequent travel and irregular schedules
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pilots in Italy?**
+A: Annual salary for junior first officer is approximately 35,000-50,000 euros, while captains can earn 95,000-150,000 euros.
+
+**Q: How can non-EU pilots immigrate to Italy?**
+A: Available through EU Blue Card or Decreto Flussi work visa, requiring employer sponsorship and meeting language or license conversion requirements.
+
+**Q: How long does it take to progress from co-pilot to captain?**
+A: Usually takes 5-10 years, depending on the airline and accumulation of flight hours.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aircraft Pilot的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pilots in Italy?**
-答：Entry-level First Officers earn €35,000-50,000; Captains earn €95,000-150,000.
-
-**问：How can non-EU pilots immigrate to Italy?**
-答：Via EU Blue Card or Decreto Flussi work visa, requiring employer sponsorship and license conversion.
-
-**问：How long does it take to progress from First Officer to Captain?**
-答：Typically 5-10 years, depending on airline and flight hours.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Farrier（Farrier）职业分析 · DE
+# Farrier — career analysis · Germany
 
-**职业代码：1133 – Farrier。**
+**Occupation code: 1133 (KldB)**
 
-Farriers are skilled craftspeople who care for horses' hooves and forge and fit horseshoes, ensuring equine health and performance.
+A farrier is responsible for the care of horses' hooves and the forging and fitting of horseshoes, ensuring horse health and performance, a specialized trade in traditional handicraft.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（双元制培训期间企业发放工资，通常无学费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (During the dual education program, companies pay wages; usually no tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 蹄铁匠职业资格证书 | 德国手工业协会（HWK） | 必备 | 完成双元制培训并通过结业考试获得，是从事该职业的必要条件 |
-| 师傅证书（Meisterbrief） | 德国手工业协会（HWK） | 可选 | 通过师傅考试后可获得，允许独立开业和带徒 |
+| Farrier certification | German Chamber of Crafts (HWK) | Required | Obtained after completing dual-system training and passing the final examination, it is a prerequisite for this occupation |
+| Master craftsman certificate (Meisterbrief) | German Chamber of Crafts (HWK) | Optional | Can be obtained after passing the master craftsman exam, allowing independent practice and training apprentices. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。随着马术运动和休闲骑乘的持续发展，德国对蹄铁匠的需求稳定，尤其是在乡村和马术俱乐部集中区域。由于培训周期长且从业人数较少，熟练师傅供不应求。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. With the continued development of equestrian sports and recreational riding, demand for farriers in Germany remains stable, especially in rural areas and equestrian club hubs. Due to long training periods and a small workforce, skilled masters are in short supply.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 双元制培训后入职起薪 |
-| 中级（3-10年） | $30,000~$42,000 | 有经验的蹄铁匠 |
-| 高级（10年以上/师傅） | $42,000~$55,000 | 师傅级，可自主定价 |
+| Median salary | $28,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary after dual system training |
+| Intermediate (3-10 years) | $30,000~$42,000 | Experienced farrier |
+| Advanced (10+ years/Master) | $42,000~$55,000 | Master level, can set own prices |
+| average salary | $33,240 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 完成双元制培训后可从助手晋升为专业蹄铁匠，积累经验后可通过师傅考试成为大师傅（Meister），进而开设自己的蹄铁作坊或从事培训教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core manual skills of a farrier are hard to replace by AI in the short term, but AI will improve efficiency in hoof health monitoring, shoe design optimization, and remote consultation; entry-level positions are slightly narrowing due to increased technical requirements
+
+After completing dual vocational training, you can advance from assistant to professional farrier; after gaining experience, you can pass the master exam to become a Meister, then open your own farriery or engage in training and teaching.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and analysis of horse hoof health data (e.g., gait sensors, thermal imaging), AI-generated reports
+- AI optimization of horseshoe design, recommending the most suitable horseshoe type based on model database
+- Remote hoof care and consultation, AI-assisted diagnosis of common diseases
+- Inventory management and order processing, with AI predicting demand and auto-replenishing stock
+- Automation of client communication and appointment scheduling (chatbots)
+
+**Where AI augments the role:**
+
+- AI-assisted design of customised horseshoes, providing stress distribution and wear prediction to improve fitting accuracy
+- Digital horse health record management tracks each horse's history data to optimize care plans.
+- Use AR/VR to simulate the inlaying process for training apprentices and client presentations
+- AI-driven marketing tools to help farriers expand client bases and promote services
+- Automation tool management, such as smart forge temperature control and 3D printing model validation.
+
+**Human moat:**
+
+- Fine hand-feel and experience in manual forging and setting, which AI cannot simulate.
+- Animal behavior understanding and trust-building required for direct interaction with horses
+- On-site decision-making and manual repair skills for urgent hoof injuries
+- Customer trust in traditional craftsmanship and demand for personalized services
+- Ability in equipment maintenance and flexible adaptation in complex farm environments
+
+**Skills to build:**
+
+- Basic digital literacy: using hoof diagnosis apps and cloud-based record systems
+- Data Analysis: Interpreting Gait Sensors and Hoof Health Data Reports
+- 3D modeling and printing basics: assisting with custom horseshoes
+- Digital marketing: using social media and online platforms to promote services
+- Customer Relationship Management (CRM) software operation
+- AR/VR tool applications: for training and presentation
+
+**Key growth areas:**
 
 - Animal Care
 - Equestrian Sports
@@ -62,69 +98,68 @@ Farriers are skilled craftspeople who care for horses' hooves and forge and fit 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act - Employment with Vocational Training） | 需持有德国认可的职业教育学历并获得雇主担保，适合完成资格认证的第三国申请人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许未获具体工作合同的求职者入境寻找工作，需证明相关资质。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许入境6个月寻找工作，需具备职业教育学历或资质认证。 |
+| Subclass Skilled Worker (Skilled Immigration Act - Employment with Vocational Training) | Requires a recognised vocational education qualification from Germany and employer sponsorship, suitable for third-country nationals who have completed qualification recognition. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows applicants without a specific job offer to enter the country to seek work, requiring proof of relevant qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to enter the country for 6 months to seek employment, requiring vocational education qualifications or credential recognition. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farrier？**
-- 喜欢动物尤其是马匹
-- 愿意从事体力工作
-- 对传统手工艺有热情
-
-**谁不适合学Farrier？**
-- 对马毛或动物过敏
-- 无法承受户外及体力劳动
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes animals, especially horses
+- Willing to do physical work
+- Passionate about traditional crafts
+
+**Who is not suited**
+- Allergic to horse hair or animals
+- Cannot tolerate outdoor and physical labor.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a farrier?**
+A: Entry-level annual salary approx. €24,000-€30,000, mid-level approx. €30,000-€42,000, master level up to €42,000-€55,000. Self-employed masters have higher but less stable income.
+
+**Q: How can foreign farriers immigrate to Germany?**
+A: You can apply via the Skilled Worker visa, requiring qualification recognition (Anerkennung) and employer sponsorship. Alternatively, you can enter with a Chancenkarte to seek a job.
+
+**Q: What is the career progression path for a farrier?**
+A: After completing dual training, become a certified farrier, then can obtain a master certificate (Meister) to operate independently or engage in training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Farrier为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a farrier?**
-答：Starting salary is around 24,000-30,000 EUR, experienced 30,000-42,000 EUR, master farriers 42,000-55,000 EUR annually. Self-employed farriers may earn more but less stable.
-
-**问：How can a foreign farrier migrate to Germany?**
-答：Via the Skilled Immigration Act with recognized vocational training and job offer, or via the Opportunity Card for job search.
-
-**问：What is the career path for a farrier?**
-答：After completing apprenticeship, become a certified farrier. Later, obtain Master title (Meister) to run own business or train apprentices.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

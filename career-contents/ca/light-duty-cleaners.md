@@ -1,132 +1,164 @@
-# Light Duty Cleaners（Light Duty Cleaners）职业分析 · 加拿大
+# Light Duty Cleaners — career analysis · Canada
 
-**职业代码：65310 – Light Duty Cleaners。**
+**Occupation code: 65312 (NOC)**
 
-Light duty cleaners perform routine cleaning and maintenance in commercial settings such as offices, hotels, and malls, including vacuuming, mopping, scrubbing, and waste disposal. This NOC 2021 TEER 4 occupation typically does not meet Express Entry requirements but may be eligible via Provincial Nominee Programs (PNP) or employer sponsorship.
+Responsible for daily cleaning and hygiene maintenance in office buildings, shopping malls, hospitals, etc. This is an entry-level labor occupation in Canada and typically does not directly qualify for skilled immigration, but may be possible through employer sponsorship or certain low-skilled streams under provincial nominations.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 无正式学历要求 | 0年 | —（雇主通常仅要求基本语言能力与体力） |
-| 高中文凭 | 4年 | —（非必需，但有助于提升就业机会） |
+| No requirement/on-the-job training | None | $0~$0 (Usually no formal education required; employers provide short-term on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 语言能力（英语或法语） | IELTS/TEF/CLB | 必备 | 移民需CLB 4-5，实际工作需基本沟通 |
-| ECA学历认证 | WES/ICES等 | 可选 | 用于移民CRS评分，但并非清洁工作必需 |
-| 职业健康安全证书 | 各省安全机构 | 可选 | 如WHMIS，部分雇主要求 |
+| No mandatory certificate | None | Optional | Most provinces do not require formal certification, but some employers may require WHMIS or safety training |
+| ECA credential assessment (e.g., for immigration purposes) | WES / ICAS / IQAS | Optional | If used for Express Entry or PNP, ECA assessment is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 600,000。加拿大清洁工需求稳定，尤其在服务业持续增长背景下。2021-2031年预计新增约4万个岗位，但竞争中等，因为低门槛吸引大量求职者。移民者可通过雇主担保或PNP低技能类别进入，但需要LMIA或省提名支持。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 375,000. Driven by aging population and service industry expansion, demand for cleaners in Canada is stable, with employment growth rate on par with average. Estimated 50,000 job openings from 2023-2033, but competition is moderate; many jobs are part-time or unstable.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约$14-17 |
-| 中级（3-7年） | $35,000~$42,000 | 时薪约$17-21 |
-| 高级（7年以上/主管） | $42,000~$50,000 | 时薪约$21-24 |
+| Median salary | $44,242 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$34,000 | Mostly at minimum wage or slightly higher, annual salary around 28,000-34,000 CAD |
+| Mid-level (3–5 years) | $34,000~$40,000 | With experience, may reach CAD 34,000-40,000 |
+| Senior (5+ years / supervisor) | $40,000~$50,000 | Supervisor or specialized cleaning areas can reach CAD 40,000-50,000 |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升路径有限，可从初级清洁工晋升为清洁主管或领班，或转向专业清洁（如地毯清洁、高压水洗）。部分人积累经验后承包清洁业务，自雇创业。长期发展需学习管理或专业技能。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will cause cleaning work to diverge: routine cleaning tasks in standardized areas (e.g., corridors, restrooms) are highly automatable, but complex, unstructured scenarios (e.g., hospital disinfection, special stain treatment) still require human judgment. Entry-level competition intensifies, but demand for technical cleaners rises.
 
-- Employer Sponsorship
-- Provincial Nominee
-- Low-Skilled PNP
-- LMIA
+Usually start as general cleaners, can advance to supervisor or specialize in areas like medical or industrial cleaning; some become property managers or start cleaning companies after training.
+
+**Tasks most exposed to AI:**
+
+- Use automatic floor scrubbers/sweeping robots for large-area floor cleaning.
+- Sensor-based automatic toilet cleaning and disinfection
+- Complete routine inspections and garbage collection via AI scheduling system
+- Window cleaning replaced by drones or automatic window cleaning robots
+
+**Where AI augments the role:**
+
+- Use AI planning systems to optimize cleaning routes and schedules
+- Use computer vision to identify areas needing focused cleaning
+- Use IoT sensors to monitor equipment status and provide warnings
+- Learn chemical mixture ratios and safety procedures through an AI training simulator.
+- Use voice assistants or tablets to submit work orders and inspection reports.
+
+**Human moat:**
+
+- Handle sudden contamination incidents (e.g., chemical spills, vomit)
+- Disinfection and infection control in hospital/laboratory environments
+- Communicate temporary cleaning needs with clients/supervisors
+- Operating and maintaining complex cleaning equipment
+- Perform fine cleaning in tight/complex spaces
+
+**Skills to build:**
+
+- Operation and basic programming of automatic cleaning equipment
+- Computer vision recognition and cleaning route optimization
+- Knowledge and safety management of green cleaning chemicals
+- Basic English communication and customer service skills
+- Digital work orders and data recording skills
+- Time management and multitasking coordination skills
+
+**Key growth areas:**
+
+- Service sector
+- Aging population
+- Entry-level labor
+- Employer-driven
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如萨省、曼省）有低技能PNP通道，要求雇主offer及语言CLB 4。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，需全职offer及语言CLB 4，适合清洁工。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主获得LMIA后可支持工签，作为移民跳板，但流程较长。 |
+| Subclass PNP Low-Skill Stream (Provincial Nominee Program (Low Skilled)) | Some provinces (e.g., BC, Saskatchewan, Alberta) have PNP for low-skilled occupations requiring employer sponsorship, usually need CLB 4-5. |
+| Subclass TFW (Temporary Foreign Worker) | Obtain a work visa through Labour Market Impact Assessment (LMIA), then may transition to permanent residence through experience after working for a period |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, cleaners can apply but employers must be designated. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Light Duty Cleaners？**
-- 无高学历但愿意体力工作，希望通过雇主担保移民的人士
-- 有基础英语能力，适应重复性劳动，计划先从临时工过渡到永久居民的人
-- 希望在服务行业积累经验，未来转向清洁管理或创业的人
-
-**谁不适合学Light Duty Cleaners？**
-- 追求高薪资和职业快速晋升的人
-- 无法接受体力劳动和低语言要求但需要高CRS分的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People willing to do manual labor and accept night shifts or flexible hours
+- People who need quick employment and local experience in early immigration
+- Those already in Canada via spouse or family reunification accompaniment.
+
+**Who is not suited**
+- Professionals seeking high salary or fast career advancement
+- Those who want to obtain permanent residency directly through Express Entry
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a commercial cleaner in Canada?**
+A: Entry-level cleaner annual salary approximately CAD 28,000-34,000, experienced up to CAD 40,000 or more, but heavily region-dependent; Ontario and BC pay slightly higher.
+
+**Q: Can a cleaner immigrate to Canada through skilled migration?**
+A: Usually cannot directly apply through Express Entry Federal Skilled Worker due to low NOC skill level. However, it can be achieved through Provincial Nominee Programs (e.g., PNP low-skilled streams) or employer sponsorship (LMIA), requiring employer cooperation.
+
+**Q: What qualifications or license does a Canadian cleaner need?**
+A: Most provinces do not require a formal license, but special venues (e.g., hospitals) may need disinfection certification or WHMIS training. Employers often provide on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Light Duty Cleaners为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for commercial housekeepers in Canada?**
-答：According to Canada's Job Bank, the average hourly wage for light duty cleaners in 2024 is about $18 CAD, ranging from $14 to $24 depending on province and employer.
-
-**问：Can a cleaner immigrate to Canada through Express Entry?**
-答：Generally no, because Express Entry requires TEER 0/1/2/3 occupations, while light duty cleaners are TEER 4. However, they may qualify for employer-sponsored programs like Provincial Nominee (e.g., Manitoba, Saskatchewan low-skill streams) or the Atlantic Immigration Program (AIP).
-
-**问：What certificates or qualifications are needed for a commercial housekeeper?**
-答：Most employers do not require specific certificates, but basic English proficiency (CLB 4) is usually needed. Some employers may require safety training like WHMIS. For immigration purposes, language test results and ECA (if applicable) are required.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

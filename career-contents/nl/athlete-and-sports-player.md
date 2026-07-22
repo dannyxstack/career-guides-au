@@ -1,60 +1,94 @@
-# Athlete and Sports Player（Athlete and Sports Player）职业分析 · NL
+# Athlete and Sports Player — career analysis · Netherlands
 
-**职业代码：3421 – Athlete and Sports Player。**
+**Occupation code: 3421 (ISCO08)**
 
-Professional sports persons who train and compete in sporting events, including both professional athletes and high-level amateurs participating in national and international competitions.
+Professionals engaged in sports training and competition, including professional athletes and high-level amateur players, participating in domestic and international events.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中及体育专科 | 4年（中学） | —（公立中学免费，体育专科额外费用约1万欧） |
-| 体育科学学士 | 3年（本科） | $2,000~$15,000（公立大学学费约2000-15000欧/年） |
+| High school and sports specialty | 4 years (secondary school) | $0~$10,000 (Public secondary schools are free; additional costs for sports specialties are about 10,000 euros.) |
+| Bachelor of Sports Science | 3 years (bachelor's) | $2,000~$15,000 (Public university tuition fees approx. 2000-15000 EUR/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育执照或注册 | 荷兰奥委会/体育联合会 | 必备 | 参与特定联赛或赛事需注册 |
-| 反兴奋剂培训证书 | 荷兰反兴奋剂机构 | 必备 | 顶级运动员须完成反兴奋剂教育 |
+| Sports licence or registration | Dutch Olympic Committee/National Sports Federation | Required | Registration required to participate in specific leagues or events |
+| Anti-Doping Training Certificate | Netherlands Anti-Doping Authority | Required | Top athletes must complete anti-doping education |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 15,000。荷兰体育产业稳步发展，职业运动员机会集中于足球、自行车、曲棍球等热门项目。薪资两极分化，顶级运动员收入高，多数基层选手收入有限。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. The Dutch sports industry is steadily developing, with professional athlete opportunities concentrated in popular sports such as football, cycling, and hockey. Salaries are polarized, with top athletes earning high incomes while most grassroots players have limited earnings.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 业余或半职业水平 |
-| 中级（3-7年） | $40,000~$80,000 | 国内联赛职业运动员 |
-| 高级（7年以上） | $80,000~$500,000 | 国家队/国际赛事顶级运动员 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 0121 Beroepsgroep sportinstructeurs; P25–P75 €30,233–€47,226, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$40,000 | Amateur or semi-professional level |
+| Mid-level (3–7 years) | $40,000~$80,000 | Professional league athlete |
+| Senior (7+ years) | $80,000~$500,000 | Top athletes at national/international events |
+| average salary | $127,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者从青少年俱乐部起步，逐步进入职业梯队或国家队。部分退役后转型教练、体育管理或体育科学相关职业。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
+
+Practitioners start from youth clubs and gradually progress to professional teams or national squads. Some transition post-retirement to coaching, sports management, or sports science careers.
+
+**Tasks most exposed to AI:**
+
+- Manual collection and analysis of game data
+- Basic training plan development and adjustment
+- Manual editing and annotation of tactical footage
+- Traditional monitoring and recording of athlete physiological indicators
+
+**Where AI augments the role:**
+
+- Uses AI video analysis to optimize personal technique and tactical decisions
+- Personalized injury prevention using wearable sensors and AI
+- Improve pre-game preparation efficiency through AI simulation of opponent strategies
+- Use AI to generate customized nutrition and recovery plans
+
+**Human moat:**
+
+- High-intensity physical fitness, speed, and skill performance
+- Intuitive judgment for on-the-spot response and teamwork
+- Competitive spirit and mental resilience
+- Perseverance and self-discipline from long-term training
+- Breaking human limits and creative race strategies
+
+**Skills to build:**
+
+- Sports data analysis and interpretation
+- Use of AI video analysis tools
+- Wearable devices and biosensor data applications
+- Personalized training programming (AI-assisted)
+- Sports Psychology and Stress Management
+- Digital media and personal brand management
+
+**Key growth areas:**
 
 - Elite sports
 - Sports science
@@ -63,61 +97,63 @@ Professional sports persons who train and compete in sporting events, including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于被荷兰体育俱乐部或机构聘用的高水平运动员，需满足薪资门槛（2024年约5,000欧/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高薪运动员，需年薪不低于约5.8万欧（2024年标准），且合同至少一年。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-level athletes employed by a Dutch sports club or institution, must meet salary threshold (approx. €5,000/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | For high-paid athletes, the annual salary must be no less than approximately €58,000 (2024 standard) and the contract at least one year. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Athlete and Sports Player？**
-- 具备顶尖体育天赋且愿意投入高强度训练的人
-- 从小参与竞技体育并有职业规划的人
+**Who is suited**
+- Individuals with top athletic talent and willingness to undergo intensive training
+- People involved in competitive sports from a young age with career plans
 
-**谁不适合学Athlete and Sports Player？**
-- 追求稳定收入和低竞争压力的人
-- 对身体极限训练有顾虑的人
+**Who is not suited**
+- people seeking stable income and low competition pressure
+- Those concerned about extreme physical training
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of athletes in the Netherlands?**
+A: Salary Polarization: Grassroots athletes earn approx. €25,000-40,000 per year, while top athletes can earn hundreds of thousands or even millions of euros.
+
+**Q: How can non-EU athletes immigrate to the Netherlands?**
+A: Eligible for high-skilled migration visa, requires sponsorship by a Dutch sports club and meeting the salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Athlete and Sports Player属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for athletes in the Netherlands?**
-答：Salaries are polarized: grassroots athletes earn €25k-40k annually, while top athletes can reach hundreds of thousands or millions.
-
-**问：How can non-EU athletes immigrate to the Netherlands?**
-答：Via the Highly Skilled Migrant visa, requiring sponsorship by a Dutch sports club and meeting salary thresholds.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

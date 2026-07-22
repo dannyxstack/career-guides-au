@@ -1,59 +1,95 @@
-# Ships' Engineer（Ships' Engineer）职业分析 · IT
+# Ships' Engineer — career analysis · Italy
 
-**职业代码：3151 – Ships' Engineer。**
+**Occupation code: 3151 (ISCO08)**
 
-Ships' engineers operate and maintain mechanical equipment on vessels, ensuring safe navigation. In Italy, they work on merchant ships, cruise liners, and navy vessels.
+Marine engineers are responsible for operating and maintaining ship machinery to ensure navigational safety. In Italy, this profession is mainly employed in merchant ships, cruise ships, and the navy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3年（专科） | —（公立航海学院） |
-| 大学本科 | 3年（本科） | $500~$4,000（学费因校而异） |
+| Vocational training | 3 years (diploma). | $0~$2,000 (Public maritime college) |
+| University bachelor's degree | 3 years (bachelor's) | $500~$4,000 (Tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 轮机员适任证书（STCW） | 意大利海事局 | 必备 | 国际公约要求 |
-| 航海英语证书 | 海事认可机构 | 可选 | 提升就业竞争力 |
-| 高级消防证书 | 海事培训机构 | 必备 | 安全培训 |
+| Marine Engineer Certificate of Competency (STCW) | Italian Maritime Authority | Required | Required by international conventions. |
+| Advanced Firefighting Certificate | Maritime training institutions | Required | Safety training |
+| Maritime English Certificate | Maritime Recognized Organization | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。意大利航运业稳定，商船和游轮领域有持续需求。但受自动化影响，初级岗位竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. The Italian shipping industry is stable, with ongoing demand in merchant navy and cruise sectors. However, automation makes entry-level positions competitive.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 船上工作 |
-| 中级（4-10年） | $45,000~$60,000 | 含加班补贴 |
-| 高级（10年以上） | $65,000~$90,000 | 轮机长或大型船舶 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Work on board ships |
+| Mid-level (4-10 years). | $45,000~$60,000 | Including overtime allowance |
+| Senior (10+ years) | $65,000~$90,000 | Chief engineer or large vessel |
+| average salary | $55,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从轮机员晋升为轮机长，或转向岸基管理、船舶检验等职位，需积累海上资历并考取高级证书。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Can advance from marine engineer to chief engineer, or transition to shore-based management, ship survey and other positions, requiring accumulated sea service and advanced certifications
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Shipping
 - Cruise tourism
@@ -62,68 +98,67 @@ Ships' engineers operate and maintain mechanical equipment on vessels, ensuring 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历和年薪门槛（约≥30,000欧元）。 |
-| Subclass Decreto Flussi（Decreto Flussi Work Visa） | 年度配额工作签证，针对非欧盟工人，雇主需申请Nulla Osta。 |
-| Subclass Autonomous Work Visa（Self-Employment Visa） | 适用于自雇船舶工程师，需商业计划书和最低投资。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, requiring university degree and annual salary threshold (approx. ≥€30,000). |
+| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers; employers must apply for Nulla Osta. |
+| Subclass Autonomous Work Visa (Self-Employment Visa) | Applicable to self-employed marine engineers, requires a business plan and minimum investment. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ships' Engineer？**
-- 热爱海洋与航海技术
-- 适应长时间船上生活
-- 善于机械维修与故障排除
-
-**谁不适合学Ships' Engineer？**
-- 不习惯长期远离家人
-- 不能接受不规律作息
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the ocean and maritime technology
+- Adaptation to long periods of life aboard a ship
+- Skilled in mechanical repair and troubleshooting
+
+**Who is not suited**
+- Not used to being away from family for long periods
+- Cannot tolerate irregular schedules
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for marine engineers in Italy?**
+A: Junior approx. €30,000-40,000/year, mid-level €45,000-60,000, senior can reach €65,000-90,000, with additional allowances for onboard work.
+
+**Q: How can non-EU citizens obtain a work visa for Italy?**
+A: Eligible via EU Blue Card (requires university degree and salary threshold) or Decreto Flussi quota work visa.
+
+**Q: What certificates are needed to work in Italy?**
+A: Must hold an STCW Marine Engineer Certificate of Competency, and it is recommended to obtain a Maritime English and Advanced Firefighting certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Ships' Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a ships' engineer in Italy?**
-答：Entry-level around €30,000-€40,000/year, mid-level €45,000-€60,000, senior €65,000-€90,000, with sea allowances.
-
-**问：How can non-EU citizens get a work visa for Italy?**
-答：Via EU Blue Card (requires degree and salary threshold) or Decreto Flussi quota work visa.
-
-**问：What certifications are needed to work in Italy?**
-答：STCW engineer certificate is mandatory. Maritime English and advanced firefighting are recommended.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

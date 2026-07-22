@@ -1,60 +1,94 @@
-# Other performers（Other performers）职业分析 · 加拿大
+# Other performers — career analysis · Canada
 
-**职业代码：55109 – Other performers。**
+**Occupation code: 55109 (NOC)**
 
-Other performers include street artists, circus performers, comedians, and various live entertainers who perform in theaters, festivals, or public spaces.
+Other performers include street performers, circus artists, comedians, and various live performers, usually performing in theatres, festivals, or public spaces.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（无正式教育要求） |
-| 表演艺术证书/文凭 | 1-2年 | $10,000~$30,000（社区学院或私立学校） |
+| High school graduation | None | $0~$0 (No formal education requirements) |
+| Performing arts certificate/diploma | 1-2 years | $10,000~$30,000 (Community college or private institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 表演者通常无需官方认证 |
-| 工会会员 | 加拿大演员权益协会（ACTRA） | 可选 | 加入工会可增加工作机会 |
+| No mandatory license | None | Optional | Performers typically do not need official certification |
+| Union membership | ACTRA (Alliance of Canadian Cinema, Television and Radio Artists) | Optional | Joining a union can increase job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 13,500。加拿大表演艺术行业受经济波动影响较大，但大型城市如多伦多、温哥华需求相对稳定。预计未来5年就业岗位增长缓慢，竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 13,500. The Canadian performing arts industry is significantly affected by economic fluctuations, but demand is relatively stable in large cities like Toronto and Vancouver. Job growth is expected to be slow over the next five years, with intense competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 收入不稳定，多兼职 |
-| 中级（3-7年） | $30,000~$60,000 | 有稳定演出机会 |
-| 高级（7年以上） | $60,000~$100,000 | 知名表演者或定期合同 |
+| Median salary | $59,238 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $15,000~$30,000 | Unstable income, mostly part-time |
+| Mid-level (3–7 years) | $30,000~$60,000 | Stable performance opportunities |
+| Senior (7+ years) | $60,000~$100,000 | Well-known performers or regular contracts |
+| average salary | $66,560 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径有限，部分表演者可能转向教学、导演或艺术管理。积累经验和口碑后，可提升演出机会和收入。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on 'other performers' is mixed: text generation and audio synthesis can replace comedy skit writing and basic music composition (compression), but real-time interaction, improvisation, and emotional connection are amplified by AI (enhancement). Overall structure changes but core value increases.
+
+Career progression paths are limited; some performers may transition to teaching, directing, or arts management. Accumulating experience and building a reputation can lead to more performance opportunities and higher income.
+
+**Tasks most exposed to AI:**
+
+- Basic comedy sketch and script writing (AI-generated draft)
+- Simple patterns for music improvisation accompaniment (AI-automatically generated harmony and rhythm)
+- Standardized circus action choreography (AI simulation optimization)
+- Automated social media content generation (video editing, captions)
+
+**Where AI augments the role:**
+
+- Real-time audience emotion analysis (AI adjusts performance pace)
+- Personalized interactive design (AI generates exclusive segments based on audience reactions)
+- Multilingual real-time translation (interacting with audiences in different languages during performances)
+- Immersive virtual backgrounds and effects (AI-generated real-time stage effects)
+
+**Human moat:**
+
+- Live improvisational creativity and audience empathy
+- Non-verbal communication and physical comedy talent.
+- Risk assessment for high-risk actions (circus)
+- Original expression of cultural symbols and metaphors
+- Performer's personal brand and fan trust
+
+**Skills to build:**
+
+- AI screenwriting assistant tool applications (e.g. ChatGPT creative prompts)
+- Real-time interactive system operation (e.g., VR/AR stage control)
+- Data analysis to interpret audience feedback
+- Digital Content Marketing and Personal Brand Building
+- Cross-modal performance design (incorporating AI-generated elements)
+- Improv performance and crisis response training
+
+**Key growth areas:**
 
 - Live Events
 - Independent Artists
@@ -63,66 +97,65 @@ Other performers include street artists, circus performers, comedians, and vario
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法找到本地人，获批后申请工签 |
-| Subclass Self-Employed Person（Self-Employed Persons Program） | 适用于文化艺术领域自雇人士，需有相关经验 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份有文艺类别提名，但机会较少 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must demonstrate inability to find local candidates; apply for a work visa after approval |
+| Subclass Self-Employed Person (Self-Employed Persons Program) | For self-employed individuals in the arts and culture field, relevant experience required |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have arts category nominations, but opportunities are limited |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other performers？**
-- 有表演天赋和热情的人
-- 能接受收入不稳定者
-- 愿意自我营销和建立人脉
-
-**谁不适合学Other performers？**
-- 追求稳定收入和高福利的人
-- 不喜欢频繁流动和不确定工作环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with performance talent and passion
+- Those who can accept unstable income
+- Willing to self-market and build a network
+
+**Who is not suited**
+- People seeking stable income and high benefits
+- People who dislike frequent movement and uncertain work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income for performers?**
+A: Entry-level performers earn about CAD 15,000-30,000 annually, while advanced performers can earn CAD 60,000-100,000, but most need part-time jobs.
+
+**Q: Can performers immigrate to Canada?**
+A: Migration pathways are limited, mainly suitable for self-employed persons or obtaining a work visa through LMIA. EE and PNP usually do not apply.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other performers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for performers?**
-答：Entry-level performers earn about CAD 15,000-30,000 annually, while experienced ones may earn CAD 60,000-100,000, but many work part-time.
-
-**问：Can performers immigrate to Canada?**
-答：Immigration options are limited, mainly through the Self-Employed Persons Program or LMIA work permits. EE and PNP are generally not suitable.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

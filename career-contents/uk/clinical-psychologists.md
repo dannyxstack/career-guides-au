@@ -1,59 +1,93 @@
-# Clinical psychologists（Clinical psychologists）职业分析 · UK
+# Clinical psychologists — career analysis · United Kingdom
 
-**职业代码：2225 – Clinical psychologists。**
+**Occupation code: 2225 (SOC)**
 
-Clinical psychologists assess, diagnose, and treat individuals experiencing emotional, psychological, or behavioral distress to improve mental wellbeing.
+Clinical psychologist helps individuals cope with emotional, psychological or behavioral issues through assessment, diagnosis, and treatment, improving mental health.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $27,000~$40,000（心理学学士，需BPS认证） |
-| 博士学位 | 3年 | $15,000~$30,000（临床心理学博士，含实习） |
+| Bachelor's degree | 3 years | $27,000~$40,000 (Bachelor's degree in psychology, BPS accredited) |
+| Doctoral degree (PhD) | 3 years | $15,000~$30,000 (PhD in Clinical Psychology, including internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BPS认证心理学学士 | 英国心理学会 | 必备 | 本科阶段需获得BPS特许会员资格 |
-| 临床心理学博士学位 | 大学 | 必备 | 通常为DClinPsy，含NHS实习 |
-| HCPC注册 | 健康与护理专业委员会 | 必备 | 必须在HCPC注册才能执业 |
+| BPS-accredited Bachelor of Psychology | British Psychological Society | Required | A BPS Chartered Membership is required at the undergraduate level. |
+| Doctor of Clinical Psychology | University | Required | Usually a DClinPsy, including an NHS internship. |
+| HCPC registration | Health and Care Professions Council | Required | Must be registered with HCPC to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 25,000。随着公众心理健康意识提升和NHS投入增加，英国对临床心理学家的需求持续增长，预计未来十年岗位将显著增加。
+**Job demand: very high (★★★★½).** National workforce approx. 25,000. With increasing public awareness of mental health and NHS investment, demand for clinical psychologists in the UK continues to grow, with significant job growth expected over the next decade.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $37,000~$48,000 | NHS Agenda for Change Band 7 |
-| 中级（4-8年） | $48,000~$60,000 | NHS Band 8a-8b |
-| 高级（9年以上） | $60,000~$90,000 | NHS Band 8c及以上或私人执业 |
+| Median salary | $58,366 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $37,000~$48,000 | NHS Agenda for Change Band 7 |
+| Mid-level (4–8 years) | $48,000~$60,000 | NHS Band 8a-8b |
+| Senior (9+ years) | $60,000~$90,000 | NHS Band 8c or above or private practice |
+| average salary | $55,180 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级临床心理学家通常从NHS或慈善机构起步，积累经验后可晋升为高级心理学家、 consultant 或团队领导，部分转向私人执业或学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on clinical psychologists is mixed: AI assists with diagnosis and assessment tasks, but core work like therapeutic relationships and ethical judgment remains difficult to replace. Overall risk is manageable, requiring proactive adaptation.
+
+Junior clinical psychologists usually start in the NHS or charities, gain experience to become senior psychologists, consultants, or team leaders; some move into private practice or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automated scoring and preliminary interpretation of standardized psychological assessment questionnaires
+- Automatic transcription and summarization of clinical interview recordings
+- Symptom pattern recognition and diagnostic suggestions based on big data
+- Automated content generation for routine mental health education
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems help accurately identify subtypes of psychological disorders.
+- Natural language processing tools analyze patient speech patterns to monitor treatment progress
+- Virtual reality exposure therapy enhances anxiety disorder treatment effectiveness
+- Data-driven models predict patient relapse risk, guiding preventive interventions
+- Personalized treatment recommendation system integrating the latest research evidence.
+
+**Human moat:**
+
+- Establishing deep therapeutic alliances and empathy
+- Complex ethical decision-making and accountability
+- Flexible judgment in unstructured clinical situations
+- Immediate interpersonal responses in crisis intervention
+- Cultural sensitivity and personalized assessment
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools (e.g., IBI, Compass)
+- Design and implementation of digital therapy platforms (e.g., VRET, CBT apps)
+- Fundamentals of natural language processing and data analysis for clinical applications
+- Communication techniques and ethical norms in remote psychological services
+- Cross-disciplinary collaboration skills (with AI engineers, data scientists)
+
+**Key growth areas:**
 
 - Mental health demand
 - NHS expansion
@@ -62,68 +96,67 @@ Clinical psychologists assess, diagnose, and treat individuals experiencing emot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker visa） | 针对医疗专业人员，可快速获得签证并享受较低申请费 |
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的临床心理学家，满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent visa） | 适合在心理健康领域有杰出成就或潜力的专业人士 |
+| Subclass Health & Care Worker (Health and Care Worker visa) | For medical professionals, fast-track visa with lower application fees available |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to clinical psychologists with employer sponsorship, meeting salary and skill requirements. |
+| Subclass Global Talent (Global Talent visa) | Suitable for professionals with outstanding achievements or potential in the mental health field |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clinical psychologists？**
-- 对心理健康有浓厚兴趣且具备同理心的人
-- 喜欢深入分析问题并制定长期干预方案的人
-- 能够承受情感压力并持续学习的人
-
-**谁不适合学Clinical psychologists？**
-- 不喜欢长时间与人深度接触的人
-- 对学术研究和高度结构化培训感到排斥的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in mental health and empathy
+- People who enjoy in-depth problem analysis and developing long-term intervention plans
+- People who can handle emotional stress and keep learning.
+
+**Who is not suited**
+- People who dislike prolonged deep interpersonal contact
+- People who are averse to academic research and highly structured training
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of clinical psychologists in the UK?**
+A: Entry-level approx £37,000-48,000, mid-level £48,000-60,000, senior up to £90,000+.
+
+**Q: How can overseas clinical psychologists immigrate to the UK?**
+A: Eligible through Health and Care Worker visa or Skilled Worker visa, requiring NHS or approved employer sponsorship and meeting HCPC registration requirements.
+
+**Q: What qualifications are required to become a clinical psychologist in the UK?**
+A: Must complete a BPS-accredited psychology undergraduate degree, a clinical psychology doctorate (DClinPsy), and register with HCPC.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 好（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Clinical psychologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for clinical psychologists in the UK?**
-答：Entry-level earn £37,000-£48,000, mid-level £48,000-£60,000, and senior roles can exceed £90,000.
-
-**问：How can overseas clinical psychologists migrate to the UK?**
-答：Through the Health and Care Worker or Skilled Worker visa, requiring a job offer from NHS or approved employer and HCPC registration.
-
-**问：What qualifications are needed to become a clinical psychologist in the UK?**
-答：A BPS-accredited psychology degree, a Doctorate in Clinical Psychology (DClinPsy), and HCPC registration.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

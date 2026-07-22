@@ -1,58 +1,94 @@
-# Engineering Professionals Not Elsewhere Classified（Engineering Professionals Not Elsewhere Classified）职业分析 · NL
+# Engineering Professionals Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：2149 – Engineering Professionals Not Elsewhere Classified。**
+**Occupation code: 2149 (ISCO08)**
 
-Covers engineering professionals in fields not elsewhere classified, including biomedical, environmental, transport, and other specialized engineers.
+Covers engineering professionals not classified elsewhere, including biomedical, environmental, transport, and other engineers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$20,000（欧盟学生学费较低，非欧盟学生较高） |
-| 硕士 | 2年（硕士） | $15,000~$30,000（部分领域（如生物医学工程）硕士学历更受青睐） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$20,000 (Tuition is lower for EU students, higher for non-EU students) |
+| Master's degree | 2 years (Master's) | $15,000~$30,000 (Master's degrees are more preferred in some fields (e.g., biomedical engineering)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册工程师 (Ingenieur) | 荷兰工程师协会 (KIVI) | 可选 | 非强制，但有助于职业发展 |
-| 欧洲工程师 (EUR ING) | 欧洲国家工程协会联合会 (FEANI) | 可选 | 国际认可，提升竞争力 |
+| Registered Engineer (Ingenieur) | Royal Netherlands Society of Engineers (KIVI) | Optional | Not mandatory, but beneficial for career development |
+| European Engineer (EUR ING) | European Federation of National Engineering Associations (FEANI) | Optional | Internationally recognized, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰工程领域整体需求强劲，尤其在可持续能源、智慧城市和高科技制造方面。该职业类别就业机会稳定，但竞争可能因细分领域而异。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Overall demand in the Dutch engineering sector is strong, especially in sustainable energy, smart cities, and high-tech manufacturing. Employment opportunities in this occupation are stable, but competition may vary by sub-field.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（4-7年） | $45,000~$65,000 | 税前年薪 |
-| 高级（8年以上） | $65,000~$90,000 | 税前年薪 |
+| Median salary | $64,615 | Median salary (official: CBS median hourly wage €32.7/hour × 1976 hours annualized, BRC group 0712 Engineers (excluding electrical engineering); P25–P75 €49,202–€83,190, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $45,000~$65,000 | Annual pre-tax salary |
+| Senior (8+ years) | $65,000~$90,000 | Annual pre-tax salary |
+| average salary | $57,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从初级工程师起步，逐步晋升为高级工程师、项目经理或技术专家。持续学习新技术和获取认证（如注册工程师）有助于职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance engineering design efficiency and data analysis capabilities, but will also replace some repetitive tasks; due to the broad scope of the occupation, the overall impact is mixed, requiring attention to specific specializations.
+
+Typically start as a junior engineer and progress to senior engineer, project manager, or technical expert. Continuous learning of new technologies and obtaining certifications (such as registered engineer) aids career development.
+
+**Tasks most exposed to AI:**
+
+- Perform standard engineering design calculations and simulations (e.g., basic finite element analysis)
+- Technical document and specification compliance review
+- Generation of routine performance test reports
+- Data collection and preliminary analysis (e.g., organizing environmental monitoring data)
+- Auto-fill and update project management documents
+
+**Where AI augments the role:**
+
+- Modeling and optimization of complex systems (e.g., traffic flow simulation, biomedical signal processing)
+- AI-based design generation and rapid iteration
+- Use machine learning to uncover new insights from experimental data
+- Automated fault diagnosis and predictive maintenance
+- Real-time translation and knowledge retrieval in cross-disciplinary collaboration
+
+**Human moat:**
+
+- Creatively solving poorly defined engineering problems
+- Cross-system integration and lifecycle decision-making.
+- High-risk communication with clients and regulatory bodies
+- Ethical judgment and safety-critical decision-making
+- Hands-on experimentation and field-verified anomaly resolution
+
+**Skills to build:**
+
+- Machine learning and data analytics (e.g., TensorFlow, Python)
+- Digital twin and simulation tools (e.g., ANSYS, COMSOL)
+- Automated testing and CI/CD tools (e.g., Jenkins, Selenium)
+- AI-assisted design software (e.g., generative design, AutoCAD AI plugins)
+- Systems thinking and interdisciplinary collaboration skills
+- Project management and agile development methodologies
+
+**Key growth areas:**
 
 - sustainability
 - energy transition
@@ -61,64 +97,63 @@ Covers engineering professionals in fields not elsewhere classified, including b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，需获得认可雇主担保，年薪门槛约3,900欧元/月（2023年） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历非欧盟公民，需工作合同且年薪高于一定门槛（约58,000欧元/年），可通往永久居留 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled migrants; requires recognized sponsor; annual salary threshold approx. €3,900/month (2023) |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated non-EU citizens; requires a work contract and annual salary above a certain threshold (approx. €58,000/year), can lead to permanent residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Professionals Not Elsewhere Classified？**
-- 拥有工程学位的毕业生
-- 喜欢解决复杂技术问题的人
-- 愿意在多学科团队工作的人
-
-**谁不适合学Engineering Professionals Not Elsewhere Classified？**
-- 不喜欢持续学习和更新技能的人
-- 偏好常规重复性工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with an engineering degree
+- People who enjoy solving complex technical problems
+- People willing to work in multidisciplinary teams
+
+**Who is not suited**
+- Those who dislike continuous learning and skill updating
+- People who prefer routine and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for engineering professionals in the Netherlands?**
+A: Entry-level engineer annual salary approx. €35,000-45,000, mid-level €45,000-65,000, senior up to €90,000. Salary affected by industry, experience, and location.
+
+**Q: How can non-EU citizens immigrate to the Netherlands through engineering occupations?**
+A: Common pathways include highly skilled migrant (requiring recognised employer sponsorship) and EU Blue Card. Must meet education and salary thresholds, employers are mostly tech companies or engineering firms.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Engineering Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for engineering professionals in the Netherlands?**
-答：Entry-level engineers earn €35,000-45,000, mid-level €45,000-65,000, and senior up to €90,000 per year, depending on industry and experience.
-
-**问：How can non-EU citizens migrate to the Netherlands as an engineering professional?**
-答：Common paths are the Highly Skilled Migrant scheme (requires a recognized sponsor) and the EU Blue Card. You need a relevant degree and a job offer meeting salary thresholds.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

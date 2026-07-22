@@ -1,60 +1,93 @@
-# Fabric and Apparel Patternmakers（Fabric and Apparel Patternmakers）职业分析 · 美国
+# Fabric and Apparel Patternmakers — career analysis · United States
 
-**职业代码：51-6092 – Fabric and Apparel Patternmakers。**
+**Occupation code: 51-6092 (SOC)**
 
-Draw and construct sets of precision master fabric patterns or layouts, and may also mark and cut fabrics and apparel.
+Drafts and constructs accurate complex fabric master patterns or layouts, and may mark and cut fabrics and garments.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 专科/副学士学位 | 2年 | $10,000~$30,000（社区学院或技术学院） |
-| 学徒或短期培训 | 1-2年 | $5,000~$15,000（行业协会或企业培训） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college or technical college) |
+| Apprenticeship or short-term training | 1-2 years | $5,000~$15,000 (Industry associations or corporate training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制版师认证 | 美国时装设计师协会（CFDA） | 可选 | 非强制但提升竞争力 |
-| 服装制版文凭 | 技术学院 | 可选 | 许多雇主优先考虑 |
+| Patternmaker certification. | Council of Fashion Designers of America (CFDA) | Optional | Not mandatory but enhances competitiveness |
+| Garment pattern making diploma | Technical college | Optional | Many employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 2,500。美国服装制造业持续萎缩，但高级定制和设计师服装仍需要熟练制版师，就业岗位有限，竞争激烈。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 2,500. US apparel manufacturing continues to shrink, but high-end custom and designer clothing still need skilled pattern makers; job opportunities are limited and competition is fierce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 多为助理或制版员 |
-| 中级（3-7年） | $40,000~$55,000 | 独立制版师 |
-| 高级（7年以上） | $55,000~$75,000 | 首席制版师或版型经理 |
+| Median salary | $62,750 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$40,000 | Mostly assistant or pattern maker roles |
+| Mid-level (3–7 years) | $40,000~$55,000 | Independent Pattern Maker |
+| Senior (7+ years) | $55,000~$75,000 | Chief pattern maker or pattern manager |
+| average salary | $71,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从初级制版师开始，经验丰富后可晋升为首席制版师或版型设计师，部分转向技术设计或生产管理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Pattern makers' tasks rely heavily on precise drafting and manual adjustment; AI can automate pattern generation and layout, but human judgment on fabric properties, fit, and complex styles is needed, a mixed blessing.
+
+Start as junior pattern maker, advance to chief pattern maker or pattern designer, some shift to technical design or production management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate basic patterns based on size data
+- Automatic nesting to optimize fabric utilization
+- Repetitive marking and trimming tasks
+- Predict pattern modification solutions based on historical data
+
+**Where AI augments the role:**
+
+- AI provides fit analysis and virtual try-on feedback
+- Automatically recommend fabric combinations and cutting plans
+- Quick iteration of multi-size patterns (e.g., plus size, children's wear)
+- Use generative AI to explore creative style designs
+
+**Human moat:**
+
+- Tactile experience with complex fabrics (elasticity, drape)
+- Personalized adjustments and fitting corrections for high-end custom clothing
+- Coordination skills for cross-departmental communication (designers, production)
+- Creativity and artistic aesthetics (non-standard styles)
+
+**Skills to build:**
+
+- 3D garment modeling software (CLO 3D, Browzwear)
+- AI-assisted pattern design tools (e.g., Optitex)
+- Fundamentals of data analysis and algorithms
+- Digital twin and virtual sample technology
+- Knowledge of sustainable fabrics and smart textiles
+- Human-Machine Collaborative Workflow Management
+
+**Key growth areas:**
 
 - Precision
 - Artisanal
@@ -63,66 +96,68 @@ Draw and construct sets of precision master fabric patterns or layouts, and may 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需要学士学位且职位为专业职业，但制版师通常不满足要求，极少获批。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于极少数有杰出成就的制版师，如曾参与知名品牌或获奖。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 雇主需证明无法找到合格美国工人，但岗位规模小，PERM不易通过。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree and a professional occupation, but pattern makers usually do not meet requirements; approval is extremely rare. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to very few plate makers with outstanding achievements, such as involvement with well-known brands or awards. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Employers must demonstrate inability to find qualified US workers, but the positions are small-scale, making PERM difficult to pass. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fabric and Apparel Patternmakers？**
-- 对服装版型有极高精度追求的人
-- 喜欢手工艺和细节控制的人
-- 愿意在时装行业深耕不追求高薪的人
+**Who is suited**
+- Someone with extremely high precision requirements for garment patterns
+- People who enjoy handcrafts and attention to detail
+- People willing to deeply cultivate in the fashion industry without pursuing high salaries
 
-**谁不适合学Fabric and Apparel Patternmakers？**
-- 追求高薪和高增长前景的人
-- 希望快速移民美国的人
+**Who is not suited**
+- Those pursuing high salary and growth prospects
+- People hoping to immigrate to the US quickly
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for fabric and apparel patternmakers?**
+A: This occupation has low pay: entry-level annual salary approx. 28,000-40,000 USD, senior approx. 55,000-75,000 USD, well below the US average.
+
+**Q: Are there pathways for this occupation to immigrate to the US?**
+A: Almost none. This occupation is typically not considered a professional occupation (H-1B difficult), and employers are small, making PERM labor certification extremely hard to obtain.
+
+**Q: What is the employment outlook for this occupation in the US?**
+A: The garment manufacturing industry continues to decline, leading to a reduction in jobs. Employment is expected to fall over the next decade, with intense competition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fabric and Apparel Patternmakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fabric and apparel patternmakers?**
-答：The salary is relatively low, with entry-level earning about $28,000-$40,000 and senior positions up to $75,000, well below the US average.
-
-**问：Are there technical immigration pathways to the US for this occupation?**
-答：Very limited. The occupation is rarely considered a specialty occupation for H-1B, and PERM certification is extremely difficult due to small employer size.
-
-**问：What is the job outlook for this occupation in the US?**
-答：The apparel manufacturing industry is declining, leading to decreasing employment. The occupation is expected to experience decline over the next decade with high competition.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

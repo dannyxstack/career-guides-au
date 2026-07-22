@@ -1,62 +1,93 @@
-# Kitchenhand（Kitchenhand）职业分析 · 新西兰
+# Kitchenhand — career analysis · New Zealand
 
-**职业代码：851311 – Kitchenhand。**
+**Occupation code: 851311 (ANZSCO)**
 
-Kitchenhands assist with food preparation, cleaning, and kitchen duties in restaurants and hotels. This is an entry-level role in the hospitality industry, not eligible for skilled migration or Green List in New Zealand. Work visa options are limited to AEWV; long-term residency requires transitioning to a skilled occupation.
+Kitchen hands assist with food preparation, cleaning, and kitchen duties in restaurants, hotels, and similar settings. This is an entry-level role in the hospitality industry. This occupation is not on New Zealand's Skilled Migrant or Green List categories, and typically only qualifies for an Accredited Employer Work Visa (AEWV). Long-term residence usually requires transitioning to another skilled position.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无学历要求 | 0 | —（入职通常不需要正式教育） |
-| 新西兰厨师证书（4级） | 1年 | $5,000~$15,000（私立或理工学院，学费差异大） |
-| 新西兰厨师文凭（5级） | 2年 | $12,000~$25,000（公立理工学院或私立院校） |
+| No education requirement | 0 | $0~$0 (No formal education typically required to enter) |
+| New Zealand Cookery Certificate (Level 4) | 1 year | $5,000~$15,000 (Private or polytechnic institutions, tuition fees vary widely) |
+| New Zealand Cookery Diploma (Level 5) | 2 years | $12,000~$25,000 (Public polytechnics or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰厨师证书（4级） | 新西兰资格认证局（NZQA）认可的培训机构 | 可选 | 有助于晋升为厨师 |
-| 食品安全证书 | 培训机构或在线课程 | 可选 | 部分雇主要求 |
-| 急救证书 | 新西兰急救机构 | 可选 | 部分工作场所要求 |
+| New Zealand Cookery Certificate (Level 4) | Training providers recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Helpful for promotion to chef |
+| Food safety certificate | Training institutions or online courses. | Optional | Some employers require |
+| First aid certificate | New Zealand emergency services organization | Optional | Required by some workplaces |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。新西兰餐饮业持续增长，尤其在旅游城市和奥克兰，厨房帮工需求稳定。但岗位流动性大，竞争激烈，且依赖雇主担保。自动化和预制食品可能减少部分需求，但基础岗位仍有机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. New Zealand's hospitality industry is growing steadily, especially in tourist cities and Auckland, with stable demand for kitchen hands. However, high turnover, intense competition, and reliance on employer sponsorship exist. Automation and pre-prepared foods may reduce some demand, but entry-level opportunities remain.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 多数为最低工资或稍高 |
-| 中级（3-5年） | $35,000~$42,000 | 经验丰富或酒店大型餐厅 |
-| 高级（5年以上） | $42,000~$50,000 | 管理杂务或兼任主管 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Mostly minimum wage or slightly higher |
+| Mid-level (3–5 years) | $35,000~$42,000 | Experienced or in large hotel restaurants |
+| Senior (5+ years) | $42,000~$50,000 | Manage miscellaneous affairs or serve as supervisor concurrently |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 厨房帮工通常先积累经验，然后晋升为厨师或厨房主管。也可通过培训获得新西兰厨师证书（NZ Certificate in Cookery），转向更资深的烹饪职位，进而申请技术移民。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Kitchen hand is a high-risk automation role; AI and robots will significantly replace repetitive tasks like food prep and washing, reducing entry-level positions, but humans still have advantages in complex kitchen coordination and quality control.
+
+Kitchen hands typically gain experience first, then advance to chef or kitchen supervisor. They can also obtain the New Zealand Certificate in Cookery through training to transition to more senior cooking roles, then apply for skilled migration.
+
+**Tasks most exposed to AI:**
+
+- Using an automatic dishwasher to clean dishes and kitchen utensils
+- Intelligent food preparation robot chopping vegetables and portioning ingredients
+- AI inventory system automatically manages ingredient purchasing and stocktaking
+- Robots complete floor cleaning and waste disposal
+
+**Where AI augments the role:**
+
+- AI recipe recommendation system helps design seasonal menus
+- Smart scheduling tools optimize personnel allocation and shift rotations
+- Digital quality control records for kitchen hygiene and temperature
+
+**Human moat:**
+
+- Flexible response to complex kitchen emergencies
+- Sensory evaluation of food freshness and quality
+- Efficient and tacit collaboration with chef teams
+- Strict enforcement of hygiene standards and on-site management
+
+**Skills to build:**
+
+- Basic digital literacy and operation of tablet ordering systems
+- Basic food hygiene and safety certification (e.g., SITXFSA005)
+- Time management and multitasking coordination skills
+- Team communication and conflict resolution skills
+- Learning to use simple automated equipment maintenance
+
+**Key growth areas:**
 
 - AEWV
 - Entry-level
@@ -65,63 +96,65 @@ Kitchenhands assist with food preparation, cleaning, and kitchen duties in resta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，岗位须为真实空缺且工资不低于中位数（2025年约29.66纽币/小时）。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，厨房帮工不符合技能要求，无法直接申请。 |
-| Subclass Green List T2（Green List Tier 2） | 绿色清单第二梯队，厨房帮工不在清单上，需转为厨师（如ANZSCO 3514）才能申请。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, position must be genuine and salary not below median (2025 about 29.66 NZD/hour). |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category; kitchen hand does not meet skill requirements and cannot apply directly. |
+| Subclass Green List T2 (Green List Tier 2) | Green List Tier 2, kitchen hand is not on the list; need to become a chef (e.g., ANZSCO 3514) to apply. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kitchenhand？**
-- 想在餐饮业快速就业的新移民或学生
-- 以厨房帮工为跳板，计划未来学习厨师技能的人群
-- 适应体力劳动和快节奏工作环境的人
+**Who is suited**
+- New immigrants or students seeking quick employment in the catering industry
+- Those using kitchen hand roles as a stepping stone to plan to learn chef skills in the future.
+- Suitable for people who adapt to physical labor and fast-paced work environment.
 
-**谁不适合学Kitchenhand？**
-- 希望直接获得新西兰居留权的技术移民申请人
-- 对重复性体力工作不感兴趣的人
+**Who is not suited**
+- Skilled migration applicants wishing to obtain New Zealand residence directly
+- Not interested in repetitive manual work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for kitchen hands?**
+A: Kitchen hands typically earn minimum wage or slightly higher; in 2025, the minimum hourly wage is approx. NZ$23.15, with full-time annual income around NZ$28,000–35,000. Senior positions can reach NZ$42,000–50,000.
+
+**Q: Can kitchen hands immigrate to New Zealand?**
+A: Kitchen hands are not classified as skilled migration or Green List occupations and cannot gain direct residency. However, through accumulating experience and obtaining chef qualifications (e.g., NZ Certificate in Cookery Level 4), you can transition to a chef and then apply for skilled migration or Green List Tier 2.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Kitchenhand属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for kitchenhands?**
-答：Kitchenhands usually earn minimum wage or slightly higher. As of 2025, the minimum hourly wage is about NZD 23.15, and full-time annual income ranges from NZD 28,000 to 35,000. Senior positions can reach NZD 42,000 to 50,000.
-
-**问：Can kitchenhands migrate to New Zealand?**
-答：Kitchenhands are not eligible for skilled migration or Green List occupations. However, they can gain experience, obtain a chef qualification (e.g., NZ Certificate in Cookery Level 4), and then apply for skilled migration or Green List Tier 2 as a chef.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

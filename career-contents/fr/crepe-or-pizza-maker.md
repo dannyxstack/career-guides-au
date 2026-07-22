@@ -1,60 +1,96 @@
-# Crepe or Pizza Maker（Crepe or Pizza Maker）职业分析 · FR
+# Crepe or Pizza Maker — career analysis · France
 
-**职业代码：G1604 – Crepe or Pizza Maker。**
+**Occupation code: G1604 (ROME)**
 
-Prepares and cooks crepes or pizzas, including dough preparation, ingredient assembly, baking, and serving, typically in food stalls, fast-food outlets, or traditional French creperies.
+Engaged in the making and cooking of crepes or pizzas, including dough preparation, ingredient pairing, baking, and serving, commonly found in food stalls, fast food restaurants, or traditional French crepe shops.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 烹饪 | 2年（CAP Cuisine） | —（公立学校免学费，私立约2000-5000欧元；可通过学徒制（apprentissage）获得报酬） |
-| BTS 餐饮与酒店管理 | 2年（BTS MHR） | —（公立学校低学费，私立约3000-8000欧元；学徒制常见） |
+| CAP cooking | 2 years (CAP Cuisine) | $0~$5,000 (Public schools are tuition-free, private ones about 2000-5000 euros; Compensation can be obtained through apprenticeships) |
+| BTS Catering and Hotel Management | 2 years (BTS MHR) | $0~$8,000 (Public schools have low tuition, private ones about 3000-8000 euros; Apprenticeships are common) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Cuisine 或同等学历 | 法国教育部 | 可选 | 非强制，但雇主通常要求 |
-| 食品卫生与安全培训 | 地区卫生机构 | 必备 | 经营食品业务必须持有HACCP培训证书 |
+| Food hygiene and safety training | Regional health institutions | Required | To operate a food business, you must hold a HACCP training certificate |
+| CAP Cuisine or an equivalent degree | French Ministry of Education | Optional | Not mandatory, but employers usually require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。法国餐饮业持续复苏，街头美食和快餐需求稳定，但该职业入门门槛低，竞争激烈。就业机会主要在旅游区和城市中心，季节性波动明显。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. The French restaurant industry continues to recover, with stable demand for street food and fast food, but the entry barrier to entry is low and competition is fierce. Employment opportunities are mainly in tourist areas and city centers, with significant seasonal fluctuations.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 税前年薪，SMIC起薪约19170欧元 |
-| 中级（3-7年） | $22,000~$26,000 | 视经验与雇主规模 |
-| 高级（7年以上或主厨） | $26,000~$32,000 | 高级厨师或主管级别 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,000~$22,000 | Before tax, SMIC starts at about 19,170 euros |
+| Mid-level (3–7 years) | $22,000~$26,000 | Depending on experience and employer size |
+| Senior (over 7 years or chef) | $26,000~$32,000 | Senior chef or supervisor level |
+| average salary | $19,824 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 职业发展路径有限，可从学徒或初级厨师做起，积累经验后晋升为厨房主管或餐厅经理。部分从业者通过积累客户后自主创业开设流动餐车或小店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall job for crepe/pizza chefs is mixed: standardized tasks (such as dough preparation and baking timing) are easily automated, but manual creativity (such as ingredient plating) and on-site interaction (such as customer customization) are enhanced by AI, requiring composite skills in the future. Competition for entry-level positions will intensify.
+
+Career development paths are limited; you can start as an apprentice or junior chef, and after gaining experience, be promoted to kitchen supervisor or restaurant manager. Some practitioners start their own businesses after accumulating customers, opening mobile food trucks or small shops.
+
+**Tasks most exposed to AI:**
+
+- Automatic dough preparation: AI-controlled dough mixers precisely mix ingredients according to the recipe
+- Baking timing and flipping: Automatic cooking machines operate precisely according to temperature and time
+- Standardized sauce application: Robotic arm automatically applies evenly
+- Order entry and checkout: self-service ordering machine AI voice ordering
+- Inventory Management: AI predicts ingredient demand and automatically restocks
+
+**Where AI augments the role:**
+
+- Creative Recipe Design: AI analyzes trends to assist in developing new flavor combinations
+- Personalized Customization: AI records ingredient recommendations based on customer preferences and adjusts cooking parameters
+- Quality Monitoring: AI vision system detects the appearance of finished products in real time and prompts for adjustments
+- Marketing and customer interaction: AI-generated promotional copy, reviews analyzed to improve services
+- Supply chain optimization: AI forecasts sales volumes to reduce waste
+
+**Human moat:**
+
+- The artistic touch of handmade crafts on site and interactive experiences with customers
+- Sharp insight into customers' personalized needs and real-time adjustments
+- Creative and aesthetic judgment in complex ingredient combinations
+- Multitasking coordination and peak efficiency management
+- A sensory inspection of the freshness and quality of ingredients
+
+**Skills to build:**
+
+- The ability to operate and maintain automated cooking equipment
+- Basic data analysis (such as sales trend forecasting)
+- Digital menu and ordering system management
+- Simple programming (such as adjusting recipe parameters)
+- Social media marketing and customer relationship management
+- Food safety and HACCP knowledge
+
+**Key growth areas:**
 
 - Street food
 - Fast-casual dining
@@ -63,62 +99,64 @@ Prepares and cooks crepes or pizzas, including dough preparation, ingredient ass
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主工作合同，雇主证明该职位无法找到合适欧盟候选人。非紧缺职业，获批难度较高。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或高学历人才，但烹饪类通常不符条件，除非是知名厨师或有突出成就。 |
+| Subclass Salarié (Employee Work Permit) | A work contract from a French employer must be obtained, and the employer must prove that suitable EU candidates cannot be found for the position. Non-urgently needed occupations have higher approval difficulties. |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled or highly educated talents, but culinary professions usually do not meet the criteria, unless the chef is well-known or has outstanding achievements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crepe or Pizza Maker？**
-- 喜欢烹饪和快节奏工作的初学者
-- 计划在法国短期工作或体验生活的人
-- 希望以低门槛进入餐饮业积累经验者
+**Who is suited**
+- Beginners who enjoy cooking and fast-paced work
+- For those planning to work or experience life in France for a short period
+- Those hoping to enter the restaurant industry with a low entry barrier and gain experience
 
-**谁不适合学Crepe or Pizza Maker？**
-- 寻求高收入或职业晋升空间者
-- 无法适应长时间站立和高温工作环境者
+**Who is not suited**
+- Those seeking high income or career advancement
+- Those who cannot tolerate long periods of standing or high-temperature work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a crepe chef?**
+A: Beginner salaries are about 19,000–22,000 euros per year before tax, while senior masters can earn up to 32,000 euros. Salaries are lower than the average in France.
+
+**Q: Can foreigners become crepe chefs and immigrate to France?**
+A: It's very difficult. This occupation is not in urgent demand; employers must prove that there are no suitable local candidates and that the salary is low and it is difficult to meet the residency threshold. Usually, only EU citizens are recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Crepe or Pizza Maker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a crepe maker?**
-答：Entry-level: €19,000-22,000 gross/year; experienced: up to €32,000. Below national average.
-
-**问：Can a foreigner become a crepe maker and immigrate to France?**
-答：Difficult. Not a shortage occupation; low salary makes work permit hard. Generally only feasible for EU citizens.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

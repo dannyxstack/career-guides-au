@@ -1,59 +1,95 @@
-# Vehicle and parts salespersons and advisers（Vehicle and parts salespersons and advisers）职业分析 · UK
+# Vehicle and parts salespersons and advisers — career analysis · United Kingdom
 
-**职业代码：7115 – Vehicle and parts salespersons and advisers。**
+**Occupation code: 7115 (SOC)**
 
-Vehicle and parts salespersons and advisers sell new and used vehicles to the public and vehicle accessories/parts to garages and dealerships, requiring sales skills and product knowledge.
+Vehicle and parts salespersons and advisors sell new and used cars to the public and sell vehicle parts and accessories to garages, dealers, and the public, requiring sales skills and product knowledge.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/职高 | 2年 | —（雇主通常提供在职培训） |
-| 销售/汽车相关课程 | 6-12个月 | $500~$2,000（可选，有助提升竞争力） |
+| High school / vocational high school | 2 years | $0~$0 (Employers usually provide on-the-job training) |
+| Sales/Automotive related courses | 6–12 months | $500~$2,000 (Optional, helps enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 通常无需特定执照，但需有效驾驶执照 |
-| IMI 职业资格 | 汽车工业协会 (IMI) | 可选 | 车辆销售与售后服务资格，有助于职业发展 |
-| 驾驶执照 | DVLA | 必备 | 必备，用于试驾 |
+| Driver's license | DVLA | Required | Mandatory for test drives |
+| No mandatory license | None | Optional | Usually no specific license required, but a valid driver's license is needed |
+| IMI vocational qualification | Institute of the Motor Industry (IMI) | Optional | Vehicle sales and after-sales service qualification helps career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。英国汽车销售行业受经济周期影响，但电动汽车转型和在线销售增长带来新机会。就业预计稳定，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The UK car sales sector is affected by economic cycles, but the electric vehicle transition and online sales growth bring new opportunities. Employment is expected to be stable, with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 基础工资加佣金 |
-| 中级（3-7年） | $25,000~$40,000 | 包括销售奖金 |
-| 高级（7年以上） | $40,000~$60,000 | 资深销售或团队主管 |
+| Median salary | $31,851 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $25,000~$40,000 | Including sales bonuses |
+| Senior (7+ years) | $40,000~$60,000 | Senior salesperson or team leader |
+| average salary | $33,708 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级销售顾问晋升为高级销售顾问、销售经理或品牌经理。也可转向配件销售、售后服务或二手车采购等岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI on vehicle and parts salespeople and consultants is mixed: routine product inquiries, document processing, and initial customer screening can be automated, but high-value sales rely on interpersonal trust and complex negotiations, which are less replaceable, overall showing structural adjustment rather than replacement.
+
+Can advance from junior sales consultant to senior sales consultant, sales manager, or brand manager. Also can transition to parts sales, after-sales service, or used car procurement roles.
+
+**Tasks most exposed to AI:**
+
+- Automated replies to customer initial inquiries and product specification queries (chatbot).
+- Automation of inventory management and order processing (ERP system)
+- Automatic generation of quotes and contract templates (document automation tools)
+- Entry and organization of customer data and sales data (CRM automation)
+- AI customer service answering basic after-sales issues (e.g., warranty inquiries)
+
+**Where AI augments the role:**
+
+- AI analyzes customer historical data to provide personalized recommendations and cross-selling suggestions
+- Virtual test drives and AR displays enhance customer experience and assist product demonstrations
+- Emotion recognition systems help sales consultants adjust communication strategies in real time
+- Automatically generate sales reports and forecasts to aid decision-making
+- AI voice assistant records key points of customer conversations to improve follow-up efficiency
+
+**Human moat:**
+
+- Ability to build trust and maintain long-term client relationships.
+- Complex negotiation and bargaining skills (e.g., vehicle trade-in, financial plan customization)
+- Soft skills for handling customer complaints and after-sales disputes
+- Non-quantitative judgment on local market preferences and vehicle condition
+- Cross-departmental coordination skills (e.g., with maintenance departments, financial companies)
+
+**Skills to build:**
+
+- CRM and sales automation tool operation (e.g., Salesforce, HubSpot)
+- Digital marketing and social media customer acquisition techniques
+- Data analysis and customer segmentation capability
+- Knowledge of electric vehicles and connected intelligent vehicles
+- Virtual presentation and AR tool usage
+- Emotional intelligence and communication skills (handling complex clients)
+
+**Key growth areas:**
 
 - Electric vehicle adoption
 - Online car sales
@@ -62,68 +98,67 @@ Vehicle and parts salespersons and advisers sell new and used vehicles to the pu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业在可担保职业清单上，可申请技术工人签证，薪资需达到一般门槛£26,200或现行工资率 |
-| Subclass Graduate（Graduate visa） | 适合应届毕业生，可在英国工作2年（博士3年），积累经验后转为技术工人签证 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长公司招聘，需满足薪资要求，适合该职业 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is on the eligible skilled occupation list, can apply for a Skilled Worker visa. Salary must meet general threshold of £26,200 or prevailing wage rate. |
+| Subclass Graduate (Graduate visa) | Suitable for recent graduates, can work in the UK for 2 years (3 years for PhD), then transition to a skilled worker visa after gaining experience |
+| Subclass Scale-up (Scale-up visa) | Suitable for high-growth company recruitment, must meet salary requirements, suitable for this occupation. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle and parts salespersons and advisers？**
-- 喜欢与人沟通、具有销售热情的人
-- 对汽车有浓厚兴趣，了解车辆性能
-- 能承受业绩压力、灵活适应变化
-
-**谁不适合学Vehicle and parts salespersons and advisers？**
-- 不擅长人际互动或不喜欢推销产品
-- 对机械知识完全无兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communicating with others and have a passion for sales
+- Strong interest in cars and understanding of vehicle performance
+- Able to withstand performance pressure and adapt flexibly to changes
+
+**Who is not suited**
+- Not good at interpersonal interaction or dislikes selling products
+- Has no interest in mechanical knowledge at all
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for vehicle salespersons?**
+A: Base salary is usually low, but commission and bonuses make up a large portion. Junior annual salary around £18k-£25k, senior up to £40k-£60k.
+
+**Q: How to come to the UK for vehicle sales through a skilled worker visa?**
+A: This occupation is on the eligible skilled occupation list. Requires employer sponsorship, salary at least £26,200 or the going rate, and meeting English language requirements.
+
+**Q: What are the career development paths in vehicle sales?**
+A: Can advance to senior sales consultant, sales manager, brand manager, or transition to parts sales, after-sales service, and used car procurement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle and parts salespersons and advisers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for vehicle salespersons?**
-答：Base salary is typically low, but commission and bonuses form a large part. Entry-level earns £18k-£25k, senior can reach £40k-£60k.
-
-**问：How to work as a vehicle salesperson in the UK via Skilled Worker visa?**
-答：This occupation is on the eligible list. You need a sponsor, meet the salary threshold of £26,200 or the going rate, and satisfy English requirements.
-
-**问：What are the career progression paths for vehicle sales?**
-答：You can progress to senior sales consultant, sales manager, brand manager, or move into parts sales, after-sales service, and used car purchasing.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

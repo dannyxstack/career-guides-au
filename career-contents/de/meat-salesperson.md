@@ -1,60 +1,96 @@
-# Meat Salesperson（Meat Salesperson）职业分析 · DE
+# Meat Salesperson — career analysis · Germany
 
-**职业代码：6232 – Meat Salesperson。**
+**Occupation code: 6232 (KldB)**
 
-Sells meat products in butcher shops, supermarkets or wholesale markets, including cutting, weighing, packaging and customer consulting, usually requiring dual vocational training.
+Sell meat products in butcher shops, supermarkets, or wholesale markets, including cutting, weighing, packaging, and customer consultation, usually requiring completion of dual-system training.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（培训期间有津贴，部分州免学费） |
-| 短期课程 | 1-6个月 | $500~$2,000（针对无培训经历的转行人员） |
+| Dual system training | 3 years | $0~$500 (Allowance during training, tuition-free in some states) |
+| Short-term courses | 1-6 months | $500~$2,000 (For career changers without training experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 肉制品销售员资格证书 | 德国工商会 (IHK) | 可选 | 通过双元制培训获得 |
-| 卫生许可证 | 当地卫生局 | 必备 | 基本食品卫生培训 |
+| Health permit | Local health authority | Required | Basic food hygiene training |
+| Meat salesperson qualification certificate | German Chamber of Commerce and Industry (IHK) | Optional | Obtained through dual vocational training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。德国肉制品销售岗位需求稳定，受食品零售业持续影响，但自动化结账和中央屠宰可能减少部分岗位，实际就业前景一般。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Demand for meat products sales positions in Germany is stable, influenced by the food retail industry, but automated checkout and central slaughter may reduce some positions; actual employment prospects are average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，取决于地区和公司规模 |
-| 中级（3-7年） | $28,000~$36,000 | 包括专业经验 |
-| 高级（7年以上） | $32,000~$40,000 | 如担任主管或专家 |
+| Median salary | $32,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, depending on region and company size |
+| Mid-level (3–7 years) | $28,000~$36,000 | Including professional experience |
+| Senior (7+ years) | $32,000~$40,000 | If serving as a supervisor or specialist |
+| average salary | $33,804 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可晋升为店长或肉类部门主管，或转向批发采购、质量控制等岗位。通过进修成为肉类技术员或培训师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Meat product salespeople face dual impacts from AI and automation: self-checkout and online ordering replace some transactional tasks, but AI can optimize inventory and personalized recommendations, while physical skills like cutting and customer trust remain irreplaceable.
+
+Can advance to store manager or meat department supervisor, or move into wholesale purchasing, quality control, etc. Further study can lead to meat technician or trainer roles.
+
+**Tasks most exposed to AI:**
+
+- Automated weighing and pricing system replaces manual weighing and price calculation
+- AI chatbot handles routine product inquiries and order queries
+- Self-checkout machines reduce the need for cashiers and packing
+- Inventory management AI auto-replenishes, reducing manual counting
+- Online ordering platforms replace some face-to-face sales
+
+**Where AI augments the role:**
+
+- AI recommendation engines assist in cross-selling and personalized promotions
+- Demand forecasting tools to optimise stock levels and reduce waste
+- Digital recording and traceability systems enhance food safety management.
+- AR training simulates cutting techniques, accelerating learning for beginners.
+- Customer Relationship Management (CRM) systems enhance targeted marketing
+
+**Human moat:**
+
+- Fine physical skills such as hand cutting and deboning
+- Sensory assessment of meat quality (freshness, texture)
+- Building client trust and providing personalized consultation.
+- Flexibility in handling complaints and special orders
+- Expertise in complying with health regulations
+
+**Skills to build:**
+
+- AI tool use: inventory management, recommendation systems, data analysis
+- Digital Customer Relationship Management (CRM)
+- Operation of food safety and traceability systems
+- Basic data analysis and report interpretation
+- Moat skill enhancement: advanced cutting and aging techniques
+- Knowledge of sustainable and ethical meat products
+
+**Key growth areas:**
 
 - Stable demand
 - Retail sales
@@ -63,62 +99,64 @@ Sells meat products in butcher shops, supermarkets or wholesale markets, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker | 在德国找到工作后可申请，需具备相关职业资格 |
-| Subclass Chancenkarte | 基于积分制，允许寻找工作，但需满足条件 |
+| Subclass Skilled Worker | Can apply after finding a job in Germany, relevant professional qualifications required |
+| Subclass Chancenkarte | Points-based, allows job seeking, but conditions must be met |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Meat Salesperson？**
-- 喜欢与客户交流，有服务意识
-- 对肉类产品有兴趣，愿意学习切割技巧
-- 能适应站立工作和早班
+**Who is suited**
+- Enjoys interacting with customers, has a service-oriented attitude
+- Interested in meat products, willing to learn cutting techniques
+- Able to handle standing work and early shifts
 
-**谁不适合学Meat Salesperson？**
-- 反感处理生肉或血腥环境
-- 希望高薪资或快速晋升
+**Who is not suited**
+- Dislikes handling raw meat or bloody environments
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a meat product salesperson?**
+A: Junior positions annual salary approx €24,000-€30,000 (pre-tax), senior managers up to €40,000. Salaries vary by region, company size, and experience.
+
+**Q: How can non-EU citizens work in this occupation?**
+A: Requires completing a recognized German vocational training (dual system), then working under a skilled worker visa. This occupation is not in shortage, so immigration prospects are low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Meat Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for meat salespersons?**
-答：Entry-level annual salary is about 24,000-30,000 EUR (gross), senior supervisors can reach 40,000 EUR. Salary varies by region, company size and experience.
-
-**问：How can non-EU citizens work in this occupation?**
-答：Must complete a recognized vocational training (dual system) in Germany, then obtain a skilled worker visa. The occupation is not in shortage, migration chances are low.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

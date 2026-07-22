@@ -1,60 +1,96 @@
-# Lawyers（Lawyers）职业分析 · 美国
+# Lawyers — career analysis · United States
 
-**职业代码：23-1011 – Lawyers。**
+**Occupation code: 23-1011 (SOC)**
 
-Represent clients in criminal and civil litigation, draft legal documents, and advise on legal matters. May specialize or practice broadly.
+Represents clients in criminal and civil litigation, drafts legal documents, provides legal advice. Can specialize or practice broadly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（学士） | 4年 | $40,000~$150,000（公立大学约4-5万美元/年，私立更高） |
-| 法学院（JD） | 3年 | $60,000~$200,000（私立法学院学费高，奖学金有限） |
-| 律师资格考试准备 | 0.5年 | $2,000~$10,000（考试费及辅导班费用） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities about $40,000-$50,000 per year, private higher) |
+| Law School (JD) | 3 years | $60,000~$200,000 (Private law school tuition is high, with limited scholarships) |
+| Bar exam preparation | 0.5 years | $2,000~$10,000 (Exam fees and tutoring course costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学博士（JD） | 美国律师协会（ABA）认可法学院 | 必备 | 必须获得；在线或非ABA认证学位通常不符合资格 |
-| 州律师执业资格（Bar License） | 各州最高法院 | 必备 | 通过州律师资格考试及道德审查；部分州允许跨州执业 |
-| 可选专业认证 | 专业组织（如知识产权法） | 可选 | 如注册专利律师需通过USPTO考试 |
+| Juris Doctor (JD) | American Bar Association (ABA)-accredited law school | Required | Must obtain; online or non-ABA accredited degrees are usually not eligible |
+| State Bar License | State Supreme Courts | Required | Pass state bar exam and character review; some states allow interstate practice. |
+| Optional professional certifications | Professional organizations (e.g., intellectual property law) | Optional | e.g., to become a registered patent attorney, must pass the USPTO exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 804,200。美国律师就业预计增长4%（2022-2032），受法律需求推动，但竞争激烈。大型律所集中于都市，公共部门机会稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 804,200. US lawyer employment is projected to grow 4% (2022-2032), driven by legal demand, but competition is fierce. Large firms are concentrated in urban areas, while public sector opportunities are stable.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$120,000 | 小型律所或公共部门较低，大型律所更高 |
-| 中级（4-9年） | $120,000~$200,000 | 中型律所或企业法务 |
-| 高级（10年以上） | $180,000~$400,000 | 合伙人或资深专家，顶尖律所更高 |
+| Median salary | $159,670 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$120,000 | Lower in small law firms or public sector, higher in large law firms |
+| Intermediate (4-9 years) | $120,000~$200,000 | Medium-sized law firm or corporate legal department |
+| Senior (10+ years) | $180,000~$400,000 | Partner or senior expert, higher at top law firms |
+| average salary | $185,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级律师（助理）→ 合伙人或独立执业，也可转向公司法务、政府或非营利组织。高级路径需积累案源和行业声誉。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
+
+Junior lawyer (assistant) → Partner or solo practice; can also move to corporate legal, government, or non-profit. Senior paths require building a client base and industry reputation.
+
+**Tasks most exposed to AI:**
+
+- Automated review and keyword extraction of contracts and legal documents
+- Automatic generation of legal case search and precedent summaries.
+- Drafting standardized legal documents (e.g., wills, contract templates)
+- Classification and initial analysis of large volumes of electronic documents during the forensic phase.
+- Automatic summarization of factual sections in legal memos
+
+**Where AI augments the role:**
+
+- AI-based case prediction and litigation strategy optimization
+- Intelligent contract review system assists in identifying hidden risk clauses
+- AI-driven mock court and debate training
+- Legal knowledge graph assists in quickly cross-referencing regulations across fields
+- AI chatbot screening initial legal needs in customer service
+
+**Human moat:**
+
+- On-the-spot adaptability and persuasion skills in courtroom argument and negotiation
+- Comprehensive judgment and ethical decision-making for complex cross-disciplinary legal issues
+- Empathy to build trust with clients and understand deep needs
+- Maintaining lawyer-client privilege in the public interest
+- Unstructured, high-uncertainty exploration of emerging legal fields.
+
+**Skills to build:**
+
+- AI legal tools (e.g., Relativity, Kira Systems) operation
+- Data analysis and visualization (for predictive legal analysis)
+- Algorithm bias identification and compliance review
+- Human-machine collaborative workflow design (legal tech project management)
+- Knowledge of cybersecurity and privacy regulations
+- Advanced negotiation and complex dispute resolution
+
+**Key growth areas:**
 
 - Litigation
 - Corporate Law
@@ -63,68 +99,67 @@ Represent clients in criminal and civil litigation, draft legal documents, and a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 最常见工作签证，需雇主担保，有配额限制（每年65,000+20,000硕士豁免） |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需PERM劳工证，要求先进学位或特殊能力；长期绿卡途径 |
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适用于杰出律师，需证明在领域内卓越成就，无配额限制 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Most common work visa, requires employer sponsorship, subject to quota (65,000 + 20,000 master's exemption annually) |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires PERM labor certification, advanced degree or exceptional ability; long-term green card pathway |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | Applies to outstanding lawyers, requires proven exceptional achievements in the field, no quota limit |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lawyers？**
-- 逻辑思维强、善于辩论和写作
-- 抗压能力强，能处理长时间工作和紧迫截止日期
-- 对法律有浓厚兴趣，愿意不断学习
-
-**谁不适合学Lawyers？**
-- 对高压工作环境不适应
-- 不喜欢频繁与客户沟通或法庭对抗
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong logical thinking, good at debate and writing
+- Strong ability to handle stress, able to manage long hours and tight deadlines
+- Strong interest in law and willingness to keep learning
+
+**Who is not suited**
+- Not suited to high-pressure work environments
+- Dislikes frequent communication with clients or courtroom confrontation.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a lawyer in the US?**
+A: BLS data for 2022 shows median annual salary about 135k USD, but varies widely: top law firms start at 200k, public sector only 60-80k.
+
+**Q: How can foreign lawyers immigrate to the US via EB-2 green card?**
+A: Must first work in a U.S. law firm via an H-1B work visa, then the employer files PERM labor certification and EB-2 petition. Requires a U.S. JD degree or foreign equivalent plus credential evaluation.
+
+**Q: What educational background is required to become a US lawyer?**
+A: Typically requires a 4-year bachelor's degree + 3-year law school (JD), then passing the state bar exam. Some states allow graduates from foreign law schools, but additional evaluation is needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Lawyers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for lawyers in the US?**
-答：BLS 2022 median annual wage is ~$135,000; top law firms start at $200,000, public sector $60k-80k.
-
-**问：How can foreign lawyers get an EB-2 green card?**
-答：Work on H-1B at a US law firm, then employer files PERM and EB-2. Requires US JD or equivalent foreign degree.
-
-**问：What education is required to become a US lawyer?**
-答：Typically a 4-year bachelor's degree + 3-year JD from ABA-accredited law school, plus passing the bar exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

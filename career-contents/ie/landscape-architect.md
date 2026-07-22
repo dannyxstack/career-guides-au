@@ -1,58 +1,91 @@
-# Landscape Architect（Landscape Architect）职业分析 · IE
+# Landscape Architect — career analysis · Ireland
 
-**职业代码：2162 – Landscape Architect。**
+**Occupation code: 2162 (ISCO08)**
 
-Landscape architects design outdoor spaces like parks, gardens and civic plazas, integrating ecology, aesthetics and functionality. They work on project planning, construction drawings and plant selection.
+Landscape architects design outdoor spaces such as parks, gardens, and urban plazas, integrating ecology, aesthetics, and functionality. They participate in project planning, construction drawings, and plant selection.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（爱尔兰本科年均学费（欧盟生）） |
-| 硕士 | 1-2年 | $12,000~$20,000（硕士年均学费） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Average annual undergraduate tuition in Ireland (EU students)) |
+| Master's degree | 1-2 years | $12,000~$20,000 (Average annual tuition for master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰注册景观建筑师 | 爱尔兰景观学会 | 必备 | 需完成认可学历并积累实践经验后申请 |
-| 欧洲景观建筑师注册 | 欧洲景观建筑师委员会 | 可选 | 可在欧盟内互认 |
+| Registered Landscape Architect in Ireland | Irish Landscape Institute | Required | Must complete a recognized qualification and accumulate practical experience before applying |
+| European Landscape Architect registration | European Landscape Architects Council | Optional | Mutually recognized within the EU |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。受城市化、可持续发展和公共空间改造驱动，爱尔兰景观建筑师需求稳定。绿色基础设施和气候适应项目带来新机会，但竞争仍存在。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Driven by urbanization, sustainable development, and public space renewal, demand for landscape architects in Ireland remains stable. Green infrastructure and climate adaptation projects bring new opportunities, but competition persists.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$75,000 | Annual pre-tax salary |
+| average salary | $48,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级职位起步后，可晋升为项目经理、团队负责人或合伙人。资深者可专攻生态修复或城市设计，也可自主创业。持续专业发展是常态。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Starting from entry-level, can advance to project manager, team leader, or partner. Senior professionals can specialize in ecological restoration or urban design, or start their own business. Continuous professional development is the norm.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Urban regeneration
 - Green infrastructure
@@ -61,68 +94,67 @@ Landscape architects design outdoor spaces like parks, gardens and civic plazas,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，需有Job Offer，年薪至少32000欧元，可带家属，2年后可申请Stamp 4 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需有Job Offer，通常年薪不低于30000欧元，需通过劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人士，年薪需达一般水平的1.5倍（约40000欧元以上） |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, requires a job offer, annual salary at least €32,000, can bring family, eligible for Stamp 4 after 2 years |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-shortage occupations, requires a job offer, usually with an annual salary of at least €30,000, and must pass a labor market test |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU individuals, with an annual salary of at least 1.5 times the general level (approx. €40,000) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscape Architect？**
-- 热爱自然与设计的人
-- 有生态意识、注重可持续的人
-- 擅长沟通与项目协调的人
-
-**谁不适合学Landscape Architect？**
-- 不喜欢户外工作的人
-- 不愿接受长期培训认证的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about nature and design
+- Eco-conscious and sustainability-minded people
+- People skilled in communication and project coordination.
+
+**Who is not suited**
+- People who dislike outdoor work
+- Those unwilling to undergo long-term training and certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for landscape architects?**
+A: Entry-level approx. €30,000-38,000, mid-level €40,000-55,000, senior €55,000-75,000, all figures are pre-tax annual salary.
+
+**Q: How can non-EU citizens immigrate to Ireland to work as a landscape architect?**
+A: Can apply via Critical Skills Employment Permit, but landscape architects are usually not in shortage; requires employer-supported labour market test.
+
+**Q: What certifications are needed to practice in Ireland?**
+A: Must be registered as a Chartered Landscape Architect with the Irish Landscape Institute, typically requiring an accredited degree plus practical experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Landscape Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for landscape architects?**
-答：Entry-level around €30-38k, mid-level €40-55k, senior €55-75k, all gross per year.
-
-**问：How can non-EU citizens immigrate to Ireland as a landscape architect?**
-答：Apply via Critical Skills Employment Permit if eligible (though not on shortage list), or General Employment Permit with employer's labor market test.
-
-**问：What certifications are needed to practice in Ireland?**
-答：Registration with the Irish Landscape Institute as a Registered Landscape Architect is mandatory, requiring an accredited degree and practical experience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

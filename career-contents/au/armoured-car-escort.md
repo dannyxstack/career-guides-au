@@ -1,61 +1,91 @@
-# Armoured Car Escort（Armoured Car Escort）职业分析 · 澳大利亚
+# Armoured Car Escort — career analysis · Australia
 
-**职业代码：442212 – Armoured Car Escort。**
+**Occupation code: 442212 (ANZSCO)**
 
-Armed escort for cash and valuables, ensuring secure transport, operating armored vehicles, and following strict safety protocols.
+Responsible for armed escort of cash and valuables, ensuring transport safety, operating armored vehicles, and adhering to strict security procedures.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中文凭 | 1年 | —（无强制学历要求） |
-| 安全培训课程 | 2周 | $500~$1,500（如持枪证及押运安全课程） |
+| High school diploma | 1 year | $0~$0 (No mandatory education requirement) |
+| Safety training courses | 2 weeks | $500~$1,500 (E.g., firearm license and escort safety course.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保安执照 (SEC01) | 各州警察厅 | 必备 | 需通过背景审查及培训 |
-| 持枪证 (Firearms Licence) | 各州武器管理部门 | 必备 | 需心理评估及射击测试 |
-| 重型车辆驾照 (HR Licence) | 各州交通局 | 必备 | 操作装甲车必备 |
+| Security Licence (SEC01) | State police departments | Required | Requires background check and training |
+| Firearms Licence | State weapons management authorities | Required | Requires psychological assessment and shooting test. |
+| Heavy vehicle licence (HR Licence) | State transport departments | Required | Essential for operating armored vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 2,800。澳洲现金流通减少但高端贵重物品运输需求稳定，预计未来五年就业缓慢增长。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,800. Cash circulation in Australia is decreasing, but demand for high-end valuables transportation remains stable, with slow employment growth expected over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 含加班补贴 |
-| 中级（3-7年） | $65,000~$80,000 | 含危险津贴 |
-| 高级（7年以上） | $80,000~$95,000 | 主管级 |
+| Median salary | $94,536 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$65,000 | Including overtime allowance |
+| Mid-level (3–7 years) | $65,000~$80,000 | Including danger allowance |
+| Senior (7+ years) | $80,000~$95,000 | Supervisor level |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 可从普通押运员晋升为车队主管或安全运营经理，需积累经验并通过额外安全培训。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Armored escorts face automation compression, but physical security and legal liability requirements make them difficult to be fully replaced; AI will enhance monitoring and dispatching.
+
+Can be promoted from regular escort to fleet supervisor or safety operations manager, requiring experience and additional safety training.
+
+**Tasks most exposed to AI:**
+
+- Route planning and vehicle scheduling: AI algorithms dynamically optimize to avoid risks
+- Real-time monitoring and anomaly detection: computer vision automatically identifies suspicious behavior
+- Paper records and reports: automatically generate escort logs and incident reports
+
+**Where AI augments the role:**
+
+- Threat prediction: AI analyzes historical data and real-time intelligence to give early warnings of robbery hotspots
+- Coordinated response: AI automatically connects police and back-office command centers to speed up emergency coordination.
+- Armed patrol route optimization: recommend best routes based on traffic and security data
+
+**Human moat:**
+
+- Legal use of lethal force: armed standby and shooting decisions require human judgment
+- Responsibility attribution and legal accountability: the escort bears ultimate responsibility for major losses
+- On-site deterrence and psychological assessment: human eye recognition of criminal intent outperforms current AI
+- Complex emergency response: flexible handling of non-standard scenarios such as vehicle breakdowns and traffic accidents
+
+**Skills to build:**
+
+- AI-assisted monitoring system operation and maintenance
+- Data analysis basics (interpreting route optimization suggestions)
+- Cybersecurity awareness (preventing electronic hijacking)
+- Non-lethal tactics and negotiation skills
+- Basic drone operation (reconnaissance support)
+
+**Key growth areas:**
 
 - Stable demand
 - Cash handling
@@ -64,62 +94,64 @@ Armed escort for cash and valuables, ensuring secure transport, operating armore
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 仅极少数情况雇主担保，需证明技能短缺 |
-| Subclass 186（Employer Nomination Scheme） | 通常不适用，因职业不在技能清单 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship only in very rare cases, requiring proven skill shortage |
+| Subclass 186 (Employer Nomination Scheme) | Typically not applicable, as the occupation is not on the skills list |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armoured Car Escort？**
-- 注重安全、纪律性强、能承受高压工作环境者
-- 有保安或军事背景、熟悉武器操作者
-- 愿意从事非办公时间轮班工作的人
+**Who is suited**
+- Focus on safety, strong discipline, able to work under high pressure
+- Those with a security or military background and familiarity with weapon operation
+- People willing to work non-office hour shifts
 
-**谁不适合学Armoured Car Escort？**
-- 厌恶高风险或接触武器者
-- 不擅长严格遵循流程与制度者
+**Who is not suited**
+- Those who dislike high risk or exposure to weapons
+- Those not adept at strictly following processes and procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an armored car crew member?**
+A: Entry-level approx. A$55,000-65,000, mid-level A$65,000-80,000, senior A$80,000-95,000. Salaries affected by experience and danger pay.
+
+**Q: Can armored guards immigrate to Australia through skilled migration?**
+A: Almost impossible. This occupation is not on the skilled migration list, and Australia's local labor supply is sufficient, making employer sponsorship very difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Armoured Car Escort属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for armoured car escorts?**
-答：Entry level A$55k-65k, mid A$65k-80k, senior A$80k-95k, influenced by experience and danger allowances.
-
-**问：Can armoured car escorts migrate to Australia via skilled visas?**
-答：Very unlikely. The occupation is not on skilled occupation lists, and local supply is sufficient. Employer sponsorship is extremely rare.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

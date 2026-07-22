@@ -1,58 +1,91 @@
-# Geological Studies（Geological Studies）职业分析 · FR
+# Geological Studies — career analysis · France
 
-**职业代码：F1105 – Geological Studies。**
+**Occupation code: F1105 (ROME)**
 
-Conducts geological surveys, resource exploration, and hazard assessments to support civil engineering, mining, and energy sectors.
+Engaged in geological surveys, resource exploration, and geological disaster assessment, providing geological data support for the civil engineering, mining, and energy industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士 | 3年（Licence） | $200~$2,000（公立大学注册费约170-2000欧元/年） |
-| 硕士 | 2年（Master） | $250~$4,000（公立大学注册费约250-4000欧元/年） |
+| Bachelor's degree | 3 years (Licence) | $200~$2,000 (The registration fee for public universities is about 170-2000 euros per year) |
+| Master's degree | 2 years (Master) | $250~$4,000 (The registration fee for public universities is about 250-4000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地质学硕士文凭 | 法国公立大学 | 必备 | 通常要求硕士水平，从事地质研究的基础资质 |
-| 法国专业地质学家认证 | CFPG（法国地质学家专业委员会） | 可选 | 部分职位要求，如矿业和咨询公司 |
+| Master's degree in Geology | A public university in France | Required | Usually, master's level is required, with basic qualifications for geological research |
+| Certified professional geologist in France | CFPG (French Committee of Geologists) | Optional | Some positions require it, such as mining and consulting firms |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,000。法国地质研究行业受益于能源转型和基础设施建设需求，就业稳定。政府加大对地热、碳封存等绿色项目的投入，推动专业人才需求。但岗位集中在地质工程和咨询公司，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,000. The French geological research industry benefits from energy transition and infrastructure development needs, with stable employment. The government is increasing investment in green projects such as geothermal and carbon sequestration to promote the demand for professional talent. However, the positions are concentrated in geological engineering and consulting firms, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$48,000 | 税前年薪 |
-| 高级（7年以上） | $48,000~$65,000 | 税前年薪 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$48,000 | Annual pre-tax salary |
+| Senior (7+ years) | $48,000~$65,000 | Annual pre-tax salary |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级地质学家晋升为项目负责人、首席地质学家，或转向咨询、研究管理岗位。在矿业和油气领域可发展为勘探总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+You can be promoted from junior geologist to project leader, chief geologist, or transition to consulting or research management roles. In the mining and oil & gas sectors, you can develop into an exploration director.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Geothermal energy
 - Civil engineering projects
@@ -61,64 +94,63 @@ Conducts geological surveys, resource exploration, and hazard assessments to sup
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，硕士学历或3年经验，可获4年居留 |
-| Subclass Salarié（Employee） | 工作合同+劳工许可，需雇主担保，薪资需达标 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents; with a master's degree or 3 years of experience, 4 years of residence can be granted |
+| Subclass Salarié (Employee) | Work contract + labor permit, employer sponsorship required, salary must meet standards |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geological Studies？**
-- 对地质科学有浓厚兴趣，愿意进行野外工作
-- 具备数据分析能力和团队协作精神
-- 希望从事稳定性较高的技术岗位
-
-**谁不适合学Geological Studies？**
-- 不适应户外和恶劣环境工作
-- 追求高薪快速回报
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- He has a strong interest in geological science and is willing to engage in fieldwork
+- Possess data analysis skills and team spirit
+- Those who hope to work in highly stable technical positions
+
+**Who is not suited**
+- Not suitable for working outdoors or in harsh environments
+- Pursuing high salary and quick returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geological research?**
+A: Junior geologists earn about 28,000-35,000 euros annually, intermediate geologists 35,000-48,000 euros, and senior geologists up to 65,000 euros, depending on region and industry.
+
+**Q: How can foreigners conduct geological research in France?**
+A: You need a master's degree or above, and after finding an employer, you can apply for a work visa (Salarié) or a talent passport (Passeport Talent). Some positions require French geologist certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Geological Studies的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geological studies?**
-答：Entry-level geologists earn €28,000-35,000, mid-level €35,000-48,000, senior up to €65,000, depending on region and sector.
-
-**问：How can foreigners work in geological studies in France?**
-答：A master's degree or higher is required. After securing a job offer, apply for an employee visa (Salarié) or Talent Passport. Some roles require French geologist certification.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

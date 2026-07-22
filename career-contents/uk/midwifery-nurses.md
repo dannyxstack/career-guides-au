@@ -1,60 +1,96 @@
-# Midwifery nurses（Midwifery nurses）职业分析 · UK
+# Midwifery nurses — career analysis · United Kingdom
 
-**职业代码：2231 – Midwifery nurses。**
+**Occupation code: 2231 (SOC)**
 
-Midwifery nurses deliver or assist in childbirth, provide antenatal and postnatal care, advise on baby care, and collaborate with healthcare professionals to teach midwifery practice.
+Midwives attend childbirth, provide antenatal and postnatal care, guide infant care, and collaborate with medical teams to advance midwifery practice teaching.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科预科 | 1年 | $9,000~$15,000（国际学生学费） |
-| 本科（助产士） | 3年 | $35,000~$45,000（国际学生年费，含临床实习） |
-| 硕士（进阶） | 1-2年 | $18,000~$30,000（国际学生年费） |
+| Undergraduate foundation / Pre-university | 1 year | $9,000~$15,000 (International student tuition) |
+| Bachelor's degree (midwifery) | 3 years | $35,000~$45,000 (Annual fee for international students, including clinical placement) |
+| Master's (Advanced) | 1-2 years | $18,000~$30,000 (Annual fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理和助产士委员会注册 | Nursing and Midwifery Council (NMC) | 必备 | 必须持有，通过认可课程后申请 |
-| 助产士学士学位 | 英国大学 | 必备 | NMC认可课程，含临床实践 |
-| 高级生命支持证书 | Resuscitation Council UK | 可选 | 部分雇主要求，提升竞争力 |
+| Nursing and Midwifery Council registration | Nursing and Midwifery Council (NMC) | Required | Must hold, apply after completing an accredited course |
+| Bachelor of Midwifery | UK universities | Required | NMC-recognized course, including clinical practice |
+| Advanced life support certificate | Resuscitation Council UK | Optional | Required by some employers to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 45,000。英国对助产士需求持续旺盛，NHS长期招聘，老龄化及生育政策推动岗位增长，就业前景稳定。
+**Job demand: very high (★★★★½).** National workforce approx. 45,000. Demand for midwives in the UK remains strong, with the NHS recruiting continuously. Aging population and fertility policies drive job growth, ensuring stable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | NHS Band 5，伦敦加权后更高 |
-| 中级（3-7年） | $35,000~$43,000 | NHS Band 6，含经验津贴 |
-| 高级（7年以上） | $44,000~$55,000 | NHS Band 7，顾问/经理级别 |
+| Median salary | $46,990 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | NHS Band 5, higher with London weighting |
+| Mid-level (3–7 years) | $35,000~$43,000 | NHS Band 6, including experience allowance |
+| Senior (7+ years) | $44,000~$55,000 | NHS Band 7, consultant/manager level |
+| average salary | $48,988 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从注册助产士可晋升为高级助产顾问、临床导师、护理经理或进入研究/教育领域，需积累经验并攻读硕士。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on midwives is mixed: documentation and monitoring tasks can be automated, but core clinical judgment and emotional support are hard to replace; overall demand for the profession is stable.
+
+Progress from a registered midwife to senior midwifery consultant, clinical educator, nursing manager, or research/education roles requires gaining experience and completing a master's degree.
+
+**Tasks most exposed to AI:**
+
+- Antenatal electronic medical record documentation and data entry
+- Preliminary analysis of routine fetal heart rate monitoring curves
+- Generation and distribution of patient education materials.
+- Automatic monitoring and alerting of basic vital signs in the delivery room
+- Automated reminders and questionnaire collection for postpartum follow-up calls
+
+**Where AI augments the role:**
+
+- Improving fetal anomaly detection rates through AI-assisted ultrasound image analysis
+- Using natural language processing to automatically summarize key information from medical records
+- Predict high-risk pregnancy based on historical data and intervene early
+- Home-based management of low-risk pregnant women via remote monitoring platforms
+- Use virtual reality simulation to practice complex delivery scenarios
+
+**Human moat:**
+
+- On-the-spot decision-making and manual maneuvers in emergency childbirth
+- Emotional support and psychological guidance for mothers and their families
+- Communication and leadership in multidisciplinary collaboration
+- Personalized care decisions based on clinical experience
+- Independent professional responsibility under legal and ethical frameworks
+
+**Skills to build:**
+
+- Advanced use of electronic health record systems
+- Use and review of AI-assisted diagnostic tools
+- Data-driven decision making and statistics fundamentals
+- Remote monitoring and virtual care communication skills
+- Professional ethics and boundary awareness in human-machine collaboration
+- Ability for continuous learning and quickly mastering new technologies
+
+**Key growth areas:**
 
 - Aging population
 - NHS recruitment drive
@@ -63,68 +99,67 @@ Midwifery nurses deliver or assist in childbirth, provide antenatal and postnata
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health and Care Work（Health and Care Worker visa） | 适用于医疗专业人员，降低签证费，免除移民健康附加费 |
-| Subclass Skilled Worker（Skilled Worker visa） | 助产士符合技能工种，需雇主担保，年薪不低于£26,200 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可留英工作2年，积累经验后再转技术签证 |
+| Subclass Health and Care Work (Health and Care Worker visa) | Available for medical professionals, reduced visa fees, exempt from Immigration Health Surcharge |
+| Subclass Skilled Worker (Skilled Worker visa) | Midwives are eligible as skilled workers, requiring employer sponsorship, with an annual salary of no less than £26,200 |
+| Subclass Graduate (Graduate visa) | UK graduates can stay in the UK for 2 years to gain experience before switching to a skilled visa |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Midwifery nurses？**
-- 富有同情心且抗压能力强
-- 有志于妇幼健康事业
-- 适应轮班制工作
-
-**谁不适合学Midwifery nurses？**
-- 对血腥场景不适
-- 无法承受高压工作环境
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Compassionate and resilient under pressure
+- Committed to maternal and child health
+- Ability to adapt to shift work
+
+**Who is not suited**
+- Uncomfortable with bloody scenes
+- Unable to handle high-pressure work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth outlook for midwives?**
+A: With increasing experience, can progress from NHS Band 5 to Band 7, with annual salary up to £55,000; higher earnings in private clinics or as senior consultants.
+
+**Q: How can overseas midwives immigrate to the UK?**
+A: Must pass NMC registration, hold a recognized degree, IELTS 7.0. Usually use Health and Care Worker visa, employer sponsorship, salary threshold £26,200.
+
+**Q: Is midwifery a shortage occupation in the UK?**
+A: Yes, the UK has a long-term shortage of midwives, listed on the migration shortage occupation list, some positions can have reduced salary thresholds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Midwifery nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary progression for midwives?**
-答：With experience, midwives can progress from NHS Band 5 to Band 7, reaching up to £55,000; private practice or consultancy roles offer higher pay.
-
-**问：How can overseas midwives migrate to the UK?**
-答：Requires NMC registration, recognized degree, IELTS 7.0. Typically via Health and Care Worker visa with employer sponsorship and salary threshold £26,200.
-
-**问：Is midwifery a shortage occupation in the UK?**
-答：Yes, midwifery is on the UK's shortage occupation list, with reduced salary thresholds for some roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

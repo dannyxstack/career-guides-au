@@ -1,59 +1,94 @@
-# Industrial Painter（Industrial Painter）职业分析 · FR
+# Industrial Painter — career analysis · France
 
-**职业代码：H3404 – Industrial Painter。**
+**Occupation code: H3404 (ROME)**
 
-Applies protective and decorative coatings to industrial equipment, metal structures, and machinery using spray guns, brushes, and rollers. Requires skills in surface preparation, paint mixing, and safety regulations.
+Engaged in surface treatment and painting of industrial equipment, metal structures, and mechanical components, using spray guns, brushes, and other tools for anti-corrosion and decorative painting. It is necessary to master surface pretreatment, paint mixing, and safety regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 工业涂装 | 2年 | —（公立学校免费，注册费约2000欧元；可学徒制（薪酬补贴）） |
-| Bac pro 工业涂装 | 3年 | —（公立学校免费，注册费约3000欧元；学徒制常见） |
+| CAP industrial coating | 2 years | $0~$2,000 (Public schools are free, with a registration fee of about 2000 euros; Apprenticeship (salary subsidy) available) |
+| Bac Pro industrial coating | 3 years | $0~$3,000 (Public schools are free, with registration fees around 3,000 euros; Apprenticeships are common) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Peintre industriel | 法国教育部 | 必备 | 初级职业文凭，需通过理论和实操考试 |
-| CQP Peintre industriel | 法国行业协会 | 可选 | 职业资格认证，受企业认可 |
-| 气体/粉尘安全证书 | 法国劳动局 | 必备 | 从事密闭空间或有害物质涂装时需持有 |
+| CAP Peintre industriel | French Ministry of Education | Required | The junior vocational diploma requires passing both theoretical and practical exams |
+| Gas/dust safety certificate | French Labor Bureau | Required | Required for painting in confined spaces or hazardous substances |
+| CQP Peintre industriel | French Industry Association | Optional | Professional qualification certification, recognized by enterprises |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国工业涂装行业需求稳定，尤其在航空航天、汽车制造、造船等领域。随着环保法规趋严，水性漆和粉末涂料技术工人需求上升。但外包趋势可能影响部分岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Demand in France's industrial coating industry remains stable, especially in aerospace, automotive manufacturing, and shipbuilding. With stricter environmental regulations, the demand for technical workers in water-based paints and powder coatings is rising. However, the outsourcing trend may affect some positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，包括奖金 |
-| 中级（3-7年） | $27,000~$32,000 | 税前年薪，含加班补贴 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，团队负责人或专家 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $27,000~$32,000 | Annual salary before tax, including overtime allowances |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, team leader or expert |
+| average salary | $28,068 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级油漆工可晋升为高级技师、团队领班或质检员。也可转向喷丸、表面处理等专业方向，或进入涂料销售、技术支持领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+Junior painters can be promoted to senior technician, team leader, or quality inspector. They can also shift to professional directions such as shot peening and surface treatment, or enter the fields of coating sales and technical support.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industrial coatings
 - Aerospace painting
@@ -62,68 +97,67 @@ Applies protective and decorative coatings to industrial equipment, metal struct
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，需提供工作合同（年薪≥法定最低工资1.5倍），有效期4年，可续签 |
-| Subclass Salarié（Employee Visa） | 受雇工作签证，需工作许可和雇主担保，有效期1年可续 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，年薪需高于法国平均水平1.5倍（约53,000欧元），适用高技能岗位 |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, a work contract (annual salary ≥ 1.5 times the statutory minimum wage) must be provided, valid for 4 years, and can be renewed |
+| Subclass Salarié (Employee Visa) | Employment work visa requires work permit and employer sponsorship, valid for 1 year and renewable |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary 1.5 times above the French average (about 53,000 euros), applicable to high-skilled positions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Painter？**
-- 喜欢动手操作、注重细节的人
-- 能适应户外或车间环境，不介意粉尘和气味
-- 有耐心进行表面准备和涂层修补工作
-
-**谁不适合学Industrial Painter？**
-- 对化学溶剂和涂料过敏者
-- 追求高薪且不从事体力劳动的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Able to adapt to outdoor or workshop environments, not bothered by dust and odors
+- Patient in surface preparation and coating repairs
+
+**Who is not suited**
+- For those allergic to chemical solvents and coatings
+- People who pursue high salaries and do not engage in manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of industrial painters in France?**
+A: Entry-level about €22,000-26,000/year, mid-level €27,000-32,000/year, senior can reach €40,000/year. Overtime and night shifts have allowances.
+
+**Q: Can foreign industrial painters immigrate to France through skilled work?**
+A: Yes. In-demand occupations can immigrate via the Passeport Talent visa (requires a work contract) or the Salarié visa. French language ability is required, and some employers are willing to assist with the process.
+
+**Q: What educational qualifications are required to become an industrial painter?**
+A: A CAP (2 years) or Bac Pro (3 years) industrial coating diploma is usually required. Apprenticeships are a common path, allowing you to earn a salary while learning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial Painter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an industrial painter in France?**
-答：Entry-level: €22,000-26,000/year; mid-level: €27,000-32,000/year; senior: up to €40,000/year. Overtime and night shifts are compensated.
-
-**问：Can a foreign industrial painter migrate to France as a skilled worker?**
-答：Yes. It is a shortage occupation. Options include the Talent Passport (with a job contract) or Employee visa. French language skills may be required.
-
-**问：What qualifications are needed to become an industrial painter?**
-答：Typically a CAP (2 years) or Bac pro (3 years) in industrial painting. Apprenticeship is common, allowing you to earn while you learn.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

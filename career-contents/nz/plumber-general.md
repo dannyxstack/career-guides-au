@@ -1,132 +1,161 @@
-# Plumber (General)（Plumber (General)）职业分析 · 新西兰
+# Plumber (General) — career analysis · New Zealand
 
-**职业代码：334116 – Plumber (General)。**
+**Occupation code: 334111 (ANZSCO)**
 
-Plumbers in New Zealand are in high demand, listed on the Green List, and can achieve skilled migration via direct residence or work-to-residence pathways. They install, repair, and maintain water, drainage, gas, and heating systems, ensuring compliance with building codes.
+Plumbers install, maintain, and repair water, drainage, gas, and fire piping systems, with demand in residential, commercial, and industrial sectors. This occupation is in long-term shortage in New Zealand, offering a direct residence pathway via the Green List for fast immigration, with above-average pay among trades.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 4年 | —（在职学徒，雇主承担大部分培训费用，个人花费主要为工具和教材） |
-| 预科证书 | 1年 | $5,000~$12,000（提供入门技能，非强制但有利于学徒申请） |
-| 国家证书（5级） | 4年（含学徒） | $10,000~$20,000（新西兰水管工、煤气工和排水工委员会（PGDB）要求的资格） |
+| Apprenticeship training | 4 years | $0~$5,000 (Through employer-sponsored apprenticeship (new apprentice subsidy up to $5,000), some free training) |
+| Diploma | 1-2 years | $5,000~$15,000 (New Zealand polytechnics (e.g., Unitec) offer Certificate or Diploma courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家水管工证书（5级） | 新西兰水管工、煤气工和排水工委员会（PGDB） | 必备 | 注册成为持牌水管工的必要条件，需完成学徒并通过考试 |
-| 持牌水管工注册 | PGDB | 必备 | 所有从事水管工作的人员必须注册，分学徒、技工和持牌等级 |
-| 工人安全证书（Site Safe） | Site Safe New Zealand | 可选 | 工地安全培训，许多雇主强制要求 |
-| 英语能力（雅思6.5） | 移民局认可机构 | 可选 | 技术移民签证要求，若母语非英语需提供 |
+| Licensed Plumber | New Zealand Plumbers, Gasfitters and Drainlayers Board (Plimmerton) | Required | Must pass theory and practical exams and complete at least 4 years of apprenticeship to apply for registration |
+| New Zealand Certificate in Plumbing | Industry Training Organization (BCITO) | Required | Completed during apprenticeship, usually a prerequisite for Registered Plumber |
+| Site Safe Passport | Site Safe | Optional | Basic safety requirements on construction sites; mandatory for some employers or projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 25,000。新西兰建筑业持续增长，加上现有管道老化，水管工需求强劲。预计未来5年岗位增长率约10%，尤其在奥克兰、基督城等城市，持牌水管工供不应求。
+**Job demand: very high (★★★★★).** National workforce approx. 25,000. New Zealand's housing construction continues to grow, coupled with demand for old pipeline upgrades, plumber positions are expected to remain high. The industry is aging, so young tradespeople entering the field have stable job opportunities, and it is listed as a priority migration occupation in many areas.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒期或刚获注册的新手 |
-| 中级（3-7年） | $75,000~$95,000 | 持牌技工，能独立工作 |
-| 高级（7年以上） | $100,000~$130,000 | 经验丰富或担任主管/自雇 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Apprentices and unregistered newcomers |
+| Mid-level (3–6 years) | $65,000~$85,000 | Already registered and with some experience |
+| Senior (6+ years) | $90,000~$120,000 | Certified senior worker, supervisor, or self-employed |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从学徒起步，获得国家证书后成为持牌水管工。可晋升为高级技工、项目主管，或自营承包商。经验丰富者可进入建筑管理或专业技术领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
+
+Usually start as a plumber's apprentice; after obtaining a license, can advance to supervisor, project manager, or self-employed contractor. With experience, can also transition to building inspector, pipe designer, or start a company, with flexible income.
+
+**Tasks most exposed to AI:**
+
+- Standard pipe layout design: AI automatically generates optimized pipe routes based on building blueprints
+- Document and compliance checks: AI reviews drawings and specs, auto-generates compliance reports
+- Inventory and logistics scheduling: AI predicts parts demand and arranges delivery
+- Remote fault preliminary diagnosis: AI identifies common blockages or leaks via sensor data
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AR overlays AI analysis of thermal imaging/sonic data to pinpoint hidden leaks
+- Construction planning and collaboration: real-time update of pipe conflict detection and process optimization using AI+BIM models
+- Customer communication and quoting: AI chatbots record requirements and generate 3D visual quotes
+- Continuous learning and compliance: AI personalizes recommendations for new regulations and training videos
+
+**Human moat:**
+
+- On-site manual operations: performing fine physical work like welding and cutting in confined spaces
+- Safety and compliance responsibility: Legally liable for statutory safety acceptance of water and gas pipelines
+- Non-standard problem solving: improvisational modification skills for old houses and non-standard materials
+- On-site customer trust: direct communication with clients, calming emotions, providing reliable service
+
+**Skills to build:**
+
+- BIM and building modeling software operation (e.g., Revit)
+- Use and data interpretation of AR-assisted maintenance equipment
+- Pipeline intelligent monitoring system debugging and maintenance
+- Basic data analysis and collaboration with AI tools
+- Cross-functional communication and project coordination skills
+- Installation of renewable energy plumbing systems (e.g., solar hot water, heat pumps)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
 - Construction Boom
-- Aging Infrastructure
+- Chronic Shortage
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单Tier1职业，可直接申请居留，无需先工作。需持PGDB注册且工资达到中位数。 |
-| Subclass Green List T2（Work to Residence Visa） | 工作2年后可申请居留。需持PGDB注册且工资达到中位数。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，根据职业、学历、收入等打分。水管工属注册职业，可获额外加分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未达绿色清单标准，可通过认证雇主获得工签，工作3年后可申请居留。 |
+| Subclass Green List T1 (Straight to Residence) | Meets Green List Tier 1 occupation; after 24 months of full-time work, directly apply for a resident visa with no median wage requirement (but must be working for an accredited employer). |
+| Subclass SMC (Skilled Migrant Category) | Through the 6-point system: occupational registration can earn 3 points, plus work experience and qualifications, full 6 points to apply. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a transitional work visa, it allows working for an accredited employer for 3 years, after which one may apply for residency. |
 
-**PR难度：较低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumber (General)？**
-- 动手能力强、喜欢户外体力工作的人
-- 有志通过职业技能移民新西兰的人
-- 能应对复杂技术规范和考取证照压力的人
-
-**谁不适合学Plumber (General)？**
-- 不喜欢身体劳累或恶劣天气者
-- 英语能力弱、难以通过注册考试者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, enjoys outdoor and construction site work
+- Individuals seeking to settle in New Zealand quickly through skilled migration.
+- Able to handle physical labor and irregular overtime.
+
+**Who is not suited**
+- Dislike physical labor or fear of heights
+- Those pursuing office white-collar jobs or highly regular schedules
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a New Zealand plumber?**
+A: Depending on position and experience, licensed plumber salary approx. NZD 65,000-85,000, senior practitioners up to NZD 90,000-120,000, above the New Zealand median wage (approx. NZD 53,000).
+
+**Q: How can plumbers immigrate via the Green List?**
+A: This occupation is on the Green List Tier 1; after 24 months of work, you can directly apply for a resident visa without meeting the median salary requirement, provided you hold a New Zealand registered plumber license and your employer is an accredited employer.
+
+**Q: What steps are required to become a registered plumber in New Zealand?**
+A: Typically requires completion of a 4-year apprenticeship, obtaining the New Zealand Plumber Certificate (Level 4), passing theoretical and practical exams, and registering with the Plimmerton Board. Overseas qualifications must be assessed, possibly requiring bridging courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 较低（★☆☆☆☆） |
-
-Plumber (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a plumber in New Zealand?**
-答：Entry-level around NZD 55,000-70,000, mid-level NZD 75,000-95,000, senior NZD 100,000-130,000. Self-employed can earn over NZD 150,000.
-
-**问：Is it easy for plumbers to immigrate to New Zealand?**
-答：Relatively easy. It's on Green List Tier 1, allowing direct residence if registered and meeting salary threshold. Immigration also recognizes apprenticeship experience.
-
-**问：How to become a licensed plumber in New Zealand?**
-答：Complete a 4-year apprenticeship, obtain NZ National Certificate in Plumbing Level 5, and register with PGDB after exams. Overseas qualifications need assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

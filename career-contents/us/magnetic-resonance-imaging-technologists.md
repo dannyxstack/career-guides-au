@@ -1,59 +1,92 @@
-# Magnetic Resonance Imaging Technologists（Magnetic Resonance Imaging Technologists）职业分析 · 美国
+# Magnetic Resonance Imaging Technologists — career analysis · United States
 
-**职业代码：29-2035 – Magnetic Resonance Imaging Technologists。**
+**Occupation code: 29-2035 (SOC)**
 
-Magnetic Resonance Imaging Technologists operate MRI scanners, ensure patient safety and image quality, may administer contrast intravenously, and record patient data.
+Magnetic resonance imaging technologists operate MRI scanners, ensure patient safety and image quality, may intravenously inject contrast agents, and record patient data.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院费用） |
-| 学士学位 | 4年 | $40,000~$80,000（公立大学费用） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college costs) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Public university costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国放射技师注册（ARRT）MRI认证 | 美国放射技师注册协会 | 必备 | 需完成认可教育并通过考试 |
-| 州执照 | 各州放射卫生机构 | 必备 | 多数州要求持有执照 |
-| CPR/BLS认证 | 美国心脏协会等 | 可选 | 确保急救能力 |
+| American Registry of Radiologic Technologists (ARRT) MRI certification | American Registry of Radiologic Technologists | Required | Must complete accredited education and pass exams. |
+| State license | State radiation health authorities | Required | Most states require a license |
+| CPR/BLS certification | American Heart Association, etc. | Optional | Ensuring first aid capability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 39,800。美国劳工统计局预计2022-2032年就业增长约10%，远高于平均水平，受老龄化人口和影像需求增加驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 39,800. The US Bureau of Labor Statistics projects employment growth of about 10% from 2022 to 2032, much faster than average, driven by an aging population and increased imaging demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪因地区和设施而异 |
-| 中级（4-7年） | $70,000~$90,000 | 经验增加薪资提升 |
-| 高级（8年及以上） | $90,000~$110,000 | 高级技师或主管薪资 |
+| Median salary | $95,480 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary varies by location and facility |
+| Mid-level (4-7 years) | $70,000~$90,000 | Salary increases with experience |
+| Senior (8+ years) | $90,000~$110,000 | Salary for senior technician or supervisor |
+| average salary | $96,120 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括高级技师、影像主管、MRI教育者或医学影像管理岗位，通常需积累经验并获取额外认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially take over MRI scan parameter optimization and image processing, but patient positioning, communication, and clinical judgment remain highly human-dependent, with mixed overall impact.
+
+Career development paths include senior technician, imaging supervisor, MRI educator, or medical imaging management role, usually requiring accumulated experience and additional certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically optimizes scanning parameters (e.g., TR/TE, flip angle), reducing manual trial and error
+- Automatically detects patient motion artifacts and triggers a rescan.
+- Standard sequence image reconstruction and post-processing (e.g., denoising, registration).
+- Generate initial imaging report drafts for radiologist review
+
+**Where AI augments the role:**
+
+- AI assists in identifying abnormal anatomical structures, improving early lesion detection rates.
+- Automatically recommend the optimal scanning protocol based on patient history and scan purpose
+- Monitor patients' vital signs in real time and alert to potential risks
+- Accelerate functional MRI (fMRI) data analysis through deep learning models
+
+**Human moat:**
+
+- Physical manipulation and reassurance for complex patient positioning (e.g., obese, pediatric, claustrophobic patients)
+- Communicates across disciplines with radiologists and clinicians to interpret clinical needs.
+- Rapid clinical decision-making in emergencies (e.g., contrast agent allergy)
+- Maintenance and quality control of new MRI equipment (e.g., 7T)
+
+**Skills to build:**
+
+- Operation and validation of AI-assisted diagnostic tools
+- Multimodal imaging (PET/MRI, CT/MRI) fusion skills
+- Basic Python programming (for automated DICOM management)
+- MRI cloud platform and remote image archiving and communication system management.
+- Patient communication and multilingual service skills
+- Research capability (involved in clinical trials for AI algorithm validation)
+
+**Key growth areas:**
 
 - Aging population
 - Increased imaging use
@@ -62,68 +95,67 @@ Magnetic Resonance Imaging Technologists operate MRI scanners, ensure patient sa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等学历，雇主担保，配额有限 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工认证，绿卡申请，排期较长 |
-| Subclass TN（TN NAFTA Professionals） | 仅限加拿大和墨西哥公民，需相关职业资格 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or equivalent, employer sponsorship, limited quota |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, Green Card application, long wait times |
+| Subclass TN (TN NAFTA Professionals) | Open only to Canadian and Mexican citizens, relevant professional qualifications required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Magnetic Resonance Imaging Technologists？**
-- 对医学影像技术感兴趣，注重细节且耐心的人
-- 偏好稳定医疗岗位，具备良好沟通能力的人
-- 愿意持续学习和考取认证的人
-
-**谁不适合学Magnetic Resonance Imaging Technologists？**
-- 不喜欢长时间站立或接触病人的人员
-- 对辐射或医疗环境敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in medical imaging technology, detail-oriented, and patient
+- Those who prefer stable medical positions and have good communication skills
+- Those willing to continuously learn and obtain certifications
+
+**Who is not suited**
+- People who dislike long periods of standing or patient contact
+- Those sensitive to radiation or medical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an MRI technologist?**
+A: The median annual salary for MRI technologists in the US is approximately $77,000; entry-level ranges from $55,000 to $70,000, while senior positions can exceed $110,000.
+
+**Q: How can foreign MRI technologists immigrate to the U.S.?**
+A: Common pathways include H-1B work visa (requires bachelor's degree and employer sponsorship), EB-3 employment-based green card (PERM labor certification), but subject to waiting periods.
+
+**Q: What education is required to become an MRI technologist?**
+A: Usually requires an associate or bachelor's degree, completion of an accredited radiologic technology program, and passing the ARRT MRI certification exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Magnetic Resonance Imaging Technologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for MRI technologists?**
-答：The median annual salary for MRI technologists in the US is around $77,000, with entry-level ranging from $55,000 to $70,000 and senior roles exceeding $110,000.
-
-**问：How can foreign MRI technologists immigrate to the US?**
-答：Common paths include H-1B visa (bachelor's degree and employer sponsorship) and EB-3 green card (PERM labor certification), but with waiting periods.
-
-**问：What education is required to become an MRI technologist?**
-答：Typically an associate or bachelor's degree in radiologic technology, followed by ARRT MRI certification exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

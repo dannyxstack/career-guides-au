@@ -1,59 +1,95 @@
-# Insurance Broker（Insurance Broker）职业分析 · FR
+# Insurance Broker — career analysis · France
 
-**职业代码：C1103 – Insurance Broker。**
+**Occupation code: C1103 (ROME)**
 
-Insurance brokers act as intermediaries to find the best insurance contracts for clients (individuals or businesses) and assist with claims. Regulated by the French Insurance Code, requiring professional certification or qualification recognition.
+Insurance brokers act as intermediaries, helping clients (individuals or businesses) find the most suitable insurance contracts and assist with claims processing. This profession is regulated by the Insurance Code in France and requires professional competency certificates or qualification certifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年（BTS） | 2年（BTS Assurance） | $5,000~$10,000（公立院校学费低，私立约5000-10000欧元/年） |
-| 本科/硕士 | 3-5年（Licence/Master en Assurance） | $3,000~$12,000（公立大学学费约3000欧元/年；高商约8000-12000欧元/年） |
-| 学徒制（Alternance） | 2年 | —（学徒制学费由企业承担，且学徒获得工资） |
+| 2 Years After High School (BTS) | 2 years (BTS Assurance) | $5,000~$10,000 (Public institutions have low tuition fees, while private ones cost about 5,000-10,000 euros per year) |
+| Bachelor/Master | 3-5 years (Licence/Master en Assurance) | $3,000~$12,000 (Public university tuition is about 3,000 euros per year; The high commercial average is about 8,000-12,000 euros per year) |
+| Apprenticeship (Alternance) | 2 years | $0~$0 (The apprenticeship tuition is covered by the company, and apprentices receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保险中介个人资质证书（CAPI） | 法国保险中介监管局（ORIAS） | 必备 | 所有保险中介必须注册ORIAS并满足能力要求（通过考试或持相关文凭） |
-| 能力证明（Attestation de capacité） | 法国经济财政部认可的组织 | 必备 | 无相关文凭者需通过能力考试获得证明 |
+| Certificate of Qualification for Insurance Intermediary (CAPI) | French Insurance Intermediary Regulatory Authority (ORIAS) | Required | All insurance brokers must be registered with ORIAS and meet competency requirements (passing exams or holding relevant diplomas) |
+| Attestation de capacité | An organization recognized by the French Ministry of Economy and Finance | Required | Those without a relevant diploma must obtain proof through a proficiency test |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国保险经纪行业稳定，数字化转型（比价平台、远程签约）带来新挑战但也增加效率。2023年行业缺口约3000人，退休潮推动招聘，新人入行需具备商业意识与合规知识。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The French insurance brokerage industry is stable, and digital transformation (price comparison platforms, remote contract signing) brings new challenges but also increases efficiency. In 2023, the industry shortage was about 3,000 people, and the retirement wave drives recruitment. Newcomers need business awareness and compliance knowledge to join.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 含奖金，税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 独立经纪人收入更高 |
-| 高级（7年以上/团队负责人） | $65,000~$90,000 | 合伙人或专精领域可达更高 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Including bonuses and pre-tax annual salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Independent brokers earn more |
+| Senior (7 years or more / Team Leader) | $65,000~$90,000 | Partners or specializations can reach even higher |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★★☆）。** 职业发展路径：保险顾问→独立经纪人/团队负责人→经纪公司合伙人或创办自己的经纪行。也可向专精领域（如航空、海事保险）或再保险发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
+
+Career development paths: insurance advisor→ independent broker/team leader→ brokerage partner, or founder of your own brokerage firm. It can also develop into specialized fields (such as aviation and marine insurance) or reinsurance.
+
+**Tasks most exposed to AI:**
+
+- Scrape product terms and rates from insurance company websites to generate comparison tables
+- Automatically generate risk assessment reports based on basic client input
+- Check and verify the accuracy of policy data (e.g., names, dates)
+- Generate standardized insurance proposal letters and renewal reminders.
+- Chatbot conversations for initial handling of common customer issues
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer historical data and accurately recommend personalized insurance packages
+- Use natural language processing tools to extract key risk information from customer conversations
+- Use AI prediction models to assess industry risk trends and optimize strategies
+- Automatically generate compliance checklists to improve regulatory reporting efficiency
+- Use AI tools to create complex insurance scheme visualization charts.
+
+**Human moat:**
+
+- Qualitative judgment and ethical decision-making in complex risk scenarios
+- Build deep trust with clients and handle emotionally sensitive issues
+- Cross-industry, cross-product comprehensive insurance planning
+- Negotiation and coordination skills for handling unexpected large claims
+- Ultimate authority over regulatory compliance and legal liability
+
+**Skills to build:**
+
+- Operation of AI insurance tools (e.g., Zywave, EIS)
+- Data analysis and visualization (Python/Power BI)
+- Advanced applications of Customer Relationship Management (CRM) systems
+- InsurTech trend awareness
+- Professional certifications (CIP, CRM)
+- Communication and negotiation psychology
+
+**Key growth areas:**
 
 - Digitalization
 - Regulatory Compliance
@@ -62,65 +98,67 @@ Insurance brokers act as intermediaries to find the best insurance contracts for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才或初创企业员工，需有符合资格的工作合同，有效期4年，可续签。 |
-| Subclass Salarié（Salarié (Employee)） | 适用于受雇于法国公司的保险经纪人，需获得劳工许可，签证有效期1-4年。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高级专业人才，要求年薪至少约53,000欧元（2023年标准），有效期4年。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents or startup employees, requiring a qualified employment contract valid for 4 years with renewable renewal. |
+| Subclass Salarié (Salarié (Employee)) | Applicable to insurance brokers employed by French companies, requiring a labor permit, with a visa valid for 1-4 years. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to senior professionals, requiring an annual salary of at least about 53,000 euros (2023 standard), valid for 4 years. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Broker？**
-- 具备良好沟通和销售技巧的人
-- 对保险产品和风险管理感兴趣的人
-- 希望从事稳定且有发展潜力的金融行业的人
-
-**谁不适合学Insurance Broker？**
-- 不善数字和合规细节的人
-- 厌恶销售目标压力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good communication and sales skills
+- People interested in insurance products and risk management
+- People who wish to work in a stable and promising financial industry
+
+**Who is not suited**
+- People who are not good with numbers and compliance details
+- People who dislike the pressure of sales targets
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary composition of insurance brokers?**
+A: Salary usually consists of a fixed base plus performance commission/bonus. Entry-level annual salary approx. €30,000–40,000, experienced agents up to €60,000–90,000; independent agents earn more but tied to performance.
+
+**Q: How can foreigners (non-EU) become French insurance brokers?**
+A: Non-EU applicants must first obtain a French work visa (such as Passeport Talent or Salarié) and ensure compliance with ORIAS registration requirements (an insurance-related diploma or a competency exam). French usually requires a B2 level.
+
+**Q: What are the career prospects for insurance brokers?**
+A: Promising outlook: The French insurance market is mature, and the retirement wave has created a large number of job vacancies. Digital transformation requires brokers to master new tools, but it also improves efficiency. Demand for specialized fields (such as cyber risk and environmental insurance) is growing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 适中（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 积极（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Insurance Broker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is the salary of an insurance broker structured?**
-答：Salary typically consists of a base salary plus performance commissions/bonuses. Entry-level annual salary is around €30,000-40,000, while senior brokers can earn €65,000-90,000. Independent brokers earn more but it's performance-based.
-
-**问：How can a non-EU foreigner become an insurance broker in France?**
-答：Non-EU applicants need to obtain a French work visa (e.g., Talent Passport or Salarié) and meet ORIAS registration requirements (insurance-related diploma or passing a competence exam). French language proficiency at B2 level is generally required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

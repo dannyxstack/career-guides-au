@@ -1,61 +1,93 @@
-# Fence Erectors（Fence Erectors）职业分析 · 美国
+# Fence Erectors — career analysis · United States
 
-**职业代码：47-4031 – Fence Erectors。**
+**Occupation code: 47-4031 (SOC)**
 
-Erect and repair fences and fence gates using hand and power tools; a fundamental trade in the construction industry.
+Installing and repairing fences and gates using manual and power tools; one of the basic trades in the construction industry.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒培训（在职+课堂） | 3-4年 | $1,000~$5,000（学徒期间可获薪水，部分费用由雇主承担） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| apprenticeship training (on-the-job + classroom) | 3-4 years | $1,000~$5,000 (Paid during apprenticeship, some costs covered by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 通常要求 |
-| 学徒证书 | 美国劳工部或州学徒机构 | 可选 | 完成注册学徒项目后颁发，非强制但有利于就业 |
-| 商业驾驶执照（CDL） | 州机动车管理局 | 可选 | 如需驾驶重型卡车运输材料 |
+| High school diploma or equivalent | School | Required | Usually required |
+| Apprenticeship certificate | US Department of Labor or state apprenticeship agencies | Optional | Issued after completing a registered apprenticeship program; not mandatory but beneficial for employment |
+| Commercial Driver's License (CDL) | State motor vehicle department | Optional | If required to drive heavy trucks for material transport |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 54,000。美国建筑行业持续发展，围栏安装需求稳定增长。新住宅和商业项目增加，以及旧围栏维修更换，为该职业提供稳定就业机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 54,000. The US construction industry continues to develop, with steady demand for fence installation. New residential and commercial projects, along with repair and replacement of old fences, provide stable employment opportunities for this occupation.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 取决于地区和雇主 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验可获更高工资 |
-| 高级（7年以上） | $45,000~$60,000 | 工头或承包商收入更高 |
+| Median salary | $47,980 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Depends on region and employer |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experience leads to higher pay |
+| Senior (7+ years) | $45,000~$60,000 | Foremen or contractors earn higher incomes |
+| average salary | $50,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或助手做起，积累经验后晋升为熟练工、工头或承包商。也可通过参加培训获得更多技能，如焊接或装饰性围栏安装，提升收入。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fencing installers' tasks heavily depend on on-site measurement, cutting, and physical installation; AI can hardly replace physical labor and hand-eye coordination, but automated design tools and digital measurement may reduce entry-level drafting and measurement roles, overall risk moderately low.
+
+Can start as an apprentice or assistant, gain experience, and advance to skilled worker, foreman, or contractor. Or gain more skills through training, such as welding or decorative fencing installation, to increase income.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate fence layout plans and material lists
+- Conduct site surveys and marking using drones/laser scanning
+- Automatic quotation system processes customer needs and orders
+- AI-assisted inventory management and logistics scheduling.
+
+**Where AI augments the role:**
+
+- AI design tools optimize fence structure and material selection
+- Augmented Reality (AR) Assisted Installation Positioning and Setting Out
+- Smart tools provide real-time feedback on parameters such as torque and depth
+- Virtual customer interface enables remote solution demonstrations
+
+**Human moat:**
+
+- Manual adjustment and adaptive installation in complex terrain
+- Communicating customized requirements with clients on-site
+- Manual craftsmanship for removing and repairing old fences
+- Team collaboration and on-site safety management
+
+**Skills to build:**
+
+- Digital measurement and laser scanner operation
+- Basic CAD or fencing design software use
+- Power tool and smart tool maintenance
+- Customer communication and project quoting skills
+- Knowledge of sustainable materials and eco-friendly installation
+
+**Key growth areas:**
 
 - Residential construction
 - Commercial projects
@@ -64,65 +96,67 @@ Erect and repair fences and fence gates using hand and power tools; a fundamenta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Worker） | 用于临时性非农业工作，雇主需证明美国工人不足。围栏安装工常通过此签证短期赴美工作。 |
-| Subclass TN（Trade NAFTA (USMCA) Professional） | 仅适用于加拿大和墨西哥公民，且职业需符合专业类别。围栏安装工通常不符合，仅限特定管理或技术岗位。 |
+| Subclass H-2B (Temporary Non-Agricultural Worker) | Used for temporary non-agricultural work; employer must prove shortage of US workers. Fence installers often use this visa for short-term work in the US. |
+| Subclass TN (Trade NAFTA (USMCA) Professional) | Only applies to Canadian and Mexican citizens, and the occupation must fall under professional categories. Fence installers typically do not qualify, only specific management or technical roles. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fence Erectors？**
-- 喜欢户外体力工作、动手能力强的人
-- 不介意天气变化、能吃苦耐劳
-- 寻求直接就业、无需长时间学术教育的人
+**Who is suited**
+- Likes outdoor physical work and has strong hands-on skills
+- Those who don't mind weather changes and can endure hardship
+- Those seeking direct employment without lengthy academic education
 
-**谁不适合学Fence Erectors？**
-- 偏好室内办公室工作或脑力劳动
-- 无法承受高强度体力劳动和户外作业
+**Who is not suited**
+- Prefer indoor office work or mental tasks
+- Cannot withstand high-intensity physical labor and outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a fencing installer?**
+A: Junior salary about $28,000-35,000, mid-level $35,000-45,000, senior up to $45,000-60,000. Foremen or self-employed contractors earn more.
+
+**Q: Can fence installers immigrate to the US?**
+A: Generally difficult. This occupation is not in the high-skilled immigration category, mainly working on H-2B temporary work visas, but H-2B has quotas and does not directly lead to a green card. The EB-3 category requires labor certification and employer sponsorship is difficult.
+
+**Q: What education is needed to become a fence installer?**
+A: Typically requires only a high school diploma, then learning skills through on-the-job training or a 3-4 year apprenticeship. Apprentices receive pay during training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fence Erectors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for fence erectors?**
-答：Entry-level salary is around $28,000-$35,000, mid-level $35,000-$45,000, senior $45,000-$60,000. Foremen or self-employed contractors earn more.
-
-**问：Can fence erectors immigrate to the US?**
-答：Generally difficult. This occupation is not high-skilled; mainly via H-2B temporary visa which has caps and does not lead to green card. EB-3 requires PERM and employer sponsorship is rare.
-
-**问：What education is required to become a fence erector?**
-答：Typically a high school diploma, followed by on-the-job training or a 3-4 year apprenticeship. Apprentices earn wages during training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

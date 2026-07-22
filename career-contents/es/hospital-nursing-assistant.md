@@ -1,59 +1,95 @@
-# Hospital Nursing Assistant（Hospital Nursing Assistant）职业分析 · ES
+# Hospital Nursing Assistant — career analysis · Spain
 
-**职业代码：5611 – Hospital Nursing Assistant。**
+**Occupation code: 5611 (CNO)**
 
-Hospital nursing assistants provide basic care and daily living assistance to inpatients under the guidance of doctors and registered nurses, including turning, feeding, cleaning, and monitoring vital signs.
+Hospital nursing assistants, under the guidance of doctors and registered nurses, provide basic care and daily living assistance to inpatients, such as turning over, feeding, cleaning, and monitoring vital signs.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio (中等职业培训) | 2年（Técnico en Cuidados Auxiliares de Enfermería） | $500~$3,000（公立学校学费低，私立较高。） |
+| FP Grado Medio (Secondary Vocational Training) | 2 years (Técnico en Cuidados Auxiliares de Enfermería) | $500~$3,000 (Public schools have lower tuition fees, while private schools have higher tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理助理职业资格 | 西班牙教育部门（FP Técnico） | 必备 | 需完成FP Grado Medio课程并取得Técnico en Cuidados Auxiliares de Enfermería证书。 |
-| 基本生命支持（BLS）认证 | 红十字会或认可的培训机构 | 可选 | 多数医院要求具备急救与心肺复苏认证。 |
+| Professional qualification for nursing assistants | Spanish Ministry of Education (FP Técnico) | Required | Completion of the FP Grado Medio course and the Técnico en Cuidados Auxiliares de Enfermería certificate are required. |
+| Basic Life Support (BLS) certification | Red Cross or accredited training institutions | Optional | Most hospitals require certification in emergency care and CPR. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。西班牙社会老龄化加剧，护理助理需求持续增长。根据INE预测，未来十年医护类岗位将增长约15%，但公立医院岗位竞争激烈，私立机构机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. With the aging population intensifying in Spain, the demand for nursing assistants continues to grow. According to INE forecasts, healthcare positions will grow by about 15% over the next decade, but public hospital positions are highly competitive, and private institutions offer more opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 公立医院起薪约€18,000，私立略低。 |
-| 中级（3-7年） | $22,000~$26,000 | 公立医院含夜班补贴可达€26,000。 |
-| 高级（7年以上） | $26,000~$30,000 | 高级护理助理或专科领域薪资上限约€30,000。 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salaries at public hospitals are about €18,000, while private hospitals are slightly lower. |
+| Mid-level (3–7 years) | $22,000~$26,000 | Public hospitals can receive up to €26,000 including night shift subsidies. |
+| Senior (7+ years) | $26,000~$30,000 | The salary cap for senior nursing assistants or specialists is about €30,000. |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 积累经验后可晋升为高级护理助理或转向专科护理领域。部分人通过进修FP Grado Superior成为注册护士，或进入护理管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI automation on hospital nursing assistants is mixed: repetitive tasks are taken over, but emotional support and complex nursing decisions still depend on humans; the overall number of positions may stabilize, but responsibilities will be reshaped.
+
+After gaining experience, you can be promoted to Senior Nursing Assistant or move into the specialist nursing field. Some become registered nurses through further study with FP Grado Superior, or enter nursing management positions.
+
+**Tasks most exposed to AI:**
+
+- Automated monitoring and recording of vital signs (such as AI analysis of electronic sensor data)
+- Patient positioning and turning reminders (automatic warning system based on pressure sensors)
+- Routine cleaning and disinfection process (robot-assisted cleaning)
+- Electronic tracking and alerts for patient dietary intake
+- Basic data entry and document organization (such as automatic extraction of electronic medical records)
+
+**Where AI augments the role:**
+
+- AI-assisted patient status assessment: Real-time analysis of vital sign trends to alert assistants to focus on abnormal patients
+- Enhanced communication: Natural language processing helps assistants communicate with patients with speech disorders or their families
+- Task scheduling optimization: AI-powered automatic scheduling and priority management reduce assistants' administrative burden
+- Risk Prediction: Predicting events such as falls and pressure ulcers based on patient data, guiding preventive care
+- Learning and Training: AI scenario-simulated assistants enhance first aid and emergency response capabilities
+
+**Human moat:**
+
+- Humanized interactions that provide emotional support and psychological comfort
+- Handling unstructured judgments in unexpected situations (such as patient emotional agitation)
+- Care procedures requiring physical contact (such as assisting with getting out of bed and personal hygiene)
+- Observation of complex illnesses based on intuition and experience (such as subtle behavioral changes)
+- Flexible communication and coordination in cross-team collaboration
+
+**Skills to build:**
+
+- Proficient in operating hospital information systems (such as electronic health records)
+- Basic data analysis capabilities (interpreting AI-generated trend reports)
+- Human-computer collaboration and AI tool usage skills
+- Patient communication and psychological counseling skills
+- Independent judgment and rapid response in emergency situations
+- Cross-cultural nursing awareness (for diverse patient groups)
+
+**Key growth areas:**
 
 - Aging population
 - Chronic care demand
@@ -62,64 +98,66 @@ Hospital nursing assistants provide basic care and daily living assistance to in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，职业通常不属于高技能短缺清单，移民门槛高。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, occupations are usually not on the high-skilled shortage list, and immigration thresholds are high. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hospital Nursing Assistant？**
-- 耐心细致、有爱心，愿意从事基础护理工作的人
-- 喜欢稳定工作环境、能适应轮班制的人
-- 希望通过短期培训快速进入医疗行业的人
+**Who is suited**
+- Patient, detail-oriented, caring, and willing to engage in basic nursing work
+- People who prefer a stable work environment and can adapt to shift work
+- Those who wish to quickly enter the medical industry through short-term training
 
-**谁不适合学Hospital Nursing Assistant？**
-- 无法承受高强度体力劳动和情绪压力的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People who cannot endure high-intensity physical labor and emotional stress
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for nursing assistants in Spain?**
+A: The junior salary is about €18,000-22,000 per year, and the senior can reach up to €30,000. Public hospitals offer stable benefits but limited room for growth.
+
+**Q: Can foreigners immigrate to Spain through the care assistant occupation?**
+A: It is more challenging; this occupation is not on the High-Skilled Shortage List, requires employer sponsorship, and is subject to the EU priority principle.
+
+**Q: How to become a nursing assistant in a Spanish hospital?**
+A: You must complete a 2-year FP Grado Medio nursing assistant program and obtain the Técnico certificate; some schools also require internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hospital Nursing Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of nursing assistants in Spain?**
-答：Entry-level annual salary is around €18,000-22,000, senior up to €30,000. Public hospitals offer stable but limited growth.
-
-**问：Can foreigners immigrate to Spain as nursing assistants?**
-答：It is difficult as the occupation is not on the high-skill shortage list, requiring employer sponsorship and facing EU preference.
-
-**问：How to become a hospital nursing assistant in Spain?**
-答：Complete a 2-year FP Grado Medio program in nursing care and obtain the Técnico certificate; some schools require internships.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

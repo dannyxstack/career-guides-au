@@ -1,60 +1,95 @@
-# Plant Salesperson（Plant Salesperson）职业分析 · FR
+# Plant Salesperson — career analysis · France
 
-**职业代码：D1209 – Plant Salesperson。**
+**Occupation code: D1209 (ROME)**
 
-Plant salespersons sell plants and related products in garden centers, nurseries, or farms, handling customer inquiries, inventory management, and order processing, with knowledge of plant care and planting advice.
+Plant sales staff sell plants and related products at horticultural centers, nurseries, or farms, and are responsible for customer inquiries, inventory management, and order processing. It is necessary to master plant care knowledge and provide planting advice.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAPA园艺 | 2年 | $1,000~$5,000（公立学校学费低，可通过学徒制减免） |
-| BTSA园艺或商业 | 2年 | $2,000~$8,000（BTSA技术文凭，可申请学徒合同） |
-| Licence专业 | 3年 | $3,000~$12,000（大学本科，如Licence pro horticulture） |
+| CAPA Horticulture | 2 years | $1,000~$5,000 (Public school tuition is low and can be waived through apprenticeships) |
+| BTSA Gardening or Business | 2 years | $2,000~$8,000 (BTSA technical diploma, apprenticeship contract available for application) |
+| Licence Professional | 3 years | $3,000~$12,000 (Undergraduate studies, such as Licence pro horticulture) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES推高机/叉车证 | CNAM或授权机构 | 可选 | 如需操作叉车搬运大型植物 |
-| Certificat phytosanitaire | DRAAF | 必备 | 销售农药产品时需持有 |
-| BTSA或CAP园艺文凭 | 教育部 | 可选 | 非强制但雇主优先考虑 |
+| Certificat phytosanitaire | DRAAF | Required | Pesticide products must be held when selling |
+| CACES forklift/forklift certificate | CNAM or authorized institutions | Optional | If you need to operate a forklift to transport large plants, |
+| BTSA or CAP Diploma in Horticulture | Ministry of Education | Optional | Not mandatory but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国园艺市场需求稳定，绿色消费趋势推动植物销售岗位增长。城市绿化项目（如Villes et villages fleuris）和家庭园艺流行利好就业。预计未来5年就业平稳，但零售竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand in the French horticultural market is stable, and the trend toward green consumption is driving growth in plant sales positions. Urban greening projects (such as Villes et villages fleuris) and home gardening are popular and promote employment. Employment is expected to remain stable over the next five years, but retail competition remains fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | 税前年薪，包含奖金 |
-| 中级（3-7年） | $25,000~$30,000 | 视公司规模及业绩 |
-| 高级（7年以上） | $30,000~$38,000 | 店长或区域经理级别 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$24,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $25,000~$30,000 | Depending on the company's size and performance |
+| Senior (7+ years) | $30,000~$38,000 | Store manager or regional manager level. |
+| average salary | $22,701 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从销售助理可晋升为店长或区域销售经理，也可转向园艺顾问或采购专员。积累经验后可自主创业开设园艺店或苗圃。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Florists have a low risk of being automated by AI because core creativity and manual skills are hard to replace; instead, AI can assist with design, inventory management, and customer service, improving efficiency and creativity, acting as career amplification rather than compression.
+
+Sales assistants can be promoted to store managers or regional sales managers, or to horticultural consultants or purchasing specialists. After accumulating experience, you can start your own gardening shop or nursery.
+
+**Tasks most exposed to AI:**
+
+- Use AI design software to auto-generate bouquet layouts and color schemes
+- Handle common customer inquiries and order queries via chatbots
+- Using algorithms to forecast flower demand and optimise inventory management
+- Automatically inspect flower freshness and grading using computer vision
+
+**Where AI augments the role:**
+
+- AI recommendation tools help florists design unique bouquets based on client preferences and occasions
+- 3D modeling and AR technology allow clients to preview floral arrangement designs
+- Social media analysis and trend forecasting guide seasonal floral styles
+- Automated pricing and promotion strategies adjust in real time based on market data
+- Supply chain optimization systems reduce waste and ensure timely supply
+
+**Human moat:**
+
+- Creative design and aesthetic judgment, integrating themes and emotions into floral art
+- Manual skills and on-site setup dexterity and attention to detail
+- Build trust and emotional connection with clients, understand personalized needs
+- Sensitivity to fresh flowers and experience in quality assessment
+- Flexibility and problem-solving skills to handle unexpected situations
+
+**Skills to build:**
+
+- Learn to use floral design software (e.g., Floral Design Tools or Canva)
+- Master basic data analysis to interpret customer trends and inventory data
+- Familiar with social media marketing and content creation tools.
+- Enhance customer communication and personalized service capabilities
+- Knowledge of sustainable floristry and local supply chain management
+- Attend AI-assisted design workshops or online courses
+
+**Key growth areas:**
 
 - Green cities
 - Urban gardening
@@ -63,68 +98,67 @@ Plant salespersons sell plants and related products in garden centers, nurseries
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主提供CDI合同，工资需达到法定最低工资以上，适合有园艺背景的申请者。 |
-| Subclass Passeport Talent（Talent Passport (Qualified Employee)） | 年薪需达到约42000欧元以上，适合管理岗或高技能销售专家。 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪需达约50000欧元以上，门槛较高，通常适用于高管职位。 |
+| Subclass Salarié (Employee Work Permit) | Employers must provide CDI contracts, with salaries at least the statutory minimum wage, suitable for applicants with horticulture backgrounds. |
+| Subclass Passeport Talent (Talent Passport (Qualified Employee)) | Annual salary must be above approximately 42,000 euros, suitable for management positions or highly skilled sales specialists. |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary of about 50,000 euros or more is required, which is a relatively high threshold and is usually suitable for executive positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plant Salesperson？**
-- 对植物和园艺有热情的人
-- 喜欢与人交流、提供建议的销售型人才
-- 愿意通过学徒制积累经验的学生
-
-**谁不适合学Plant Salesperson？**
-- 不习惯户外或温室工作环境的人
-- 对季节性销售压力敏感者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about plants and gardening
+- Sales talents who enjoy communicating and offering advice
+- Students willing to gain experience through apprenticeships
+
+**Who is not suited**
+- People who are not used to outdoor or greenhouse work environments
+- Those sensitive to seasonal sales pressures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plant salespeople?**
+A: Entry-level: around €21,000–€24,000; mid-to-senior: €30,000–€38,000, comparable to retail industry averages.
+
+**Q: Can foreigners immigrate to France through the plant salesperson profession?**
+A: Yes, but an employer-sponsored Salarié work visa is required. Passeport Talent or EU Blue Card requires a higher annual salary. Language (French) has high requirements.
+
+**Q: What certificates are needed?**
+A: CAP or BTSA Horticultural Diploma is not mandatory but is a bonus; Pesticide sales require certificat phytosanitaire; Operating forklifts requires a CACES certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plant Salesperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for plant salespersons?**
-答：Entry-level around €21,000-€24,000, mid-senior up to €30,000-€38,000 per year, comparable to retail average.
-
-**问：Can foreigners immigrate to France as plant salespersons?**
-答：Yes, via employer-sponsored Salarié visa. Talent Passport or EU Blue Card require higher salary. French language proficiency is essential.
-
-**问：What certifications are needed?**
-答：CAP or BTSA in horticulture is preferred; phytosanitary certificate required for pesticide sales; CACES for forklift operation.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Stage and Costume Design Supervisor, Properties（Stage and Costume Design Supervisor, Properties）职业分析 · DE
+# Stage and Costume Design Supervisor, Properties — career analysis · Germany
 
-**职业代码：9469 – Stage and Costume Design Supervisor, Properties。**
+**Occupation code: 9469 (KldB)**
 
-Oversees stage and costume design, properties management, coordinating creative teams to achieve artistic vision within budget and schedule.
+Responsible for supervising stage and costume design, and prop management, coordinating the design team to ensure artistic effect while controlling budget and schedule.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制 Ausbildung（舞台技术/化妆服装技术） | 3年 | —（带薪培训，学费极低） |
-| 本科（舞台设计/服装设计） | 4年 | $1,500~$2,000（学期费含交通票） |
-| 硕士（舞台设计/艺术管理） | 2年 | $1,500~$2,000（部分学校免学费） |
+| Dual system Ausbildung (stage technology/makeup and costume technology) | 3 years | $0~$500 (Paid training, very low tuition fees) |
+| Bachelor's degree (Stage Design / Costume Design) | 4 years | $1,500~$2,000 (Semester fee includes transport ticket) |
+| Master's (Stage Design/Arts Management) | 2 years | $1,500~$2,000 (Some schools offer tuition-free programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞台技术人员资质认证（IHK） | IHK | 必备 | 双元制毕业后获得，行业认可 |
-| 舞台设计学位 | 公立艺术学院 | 可选 | 非强制但普遍要求 |
+| Stage technician qualification certification (IHK) | IHK | Required | Obtained after dual-system graduation, industry-recognized |
+| Stage design degree | Public art college | Optional | Not mandatory but commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。德国文化产业稳定发展，大型剧院和制作公司对资深设计监督有持续需求。数字化转型和沉浸式演出带来新机遇，但岗位竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Germany's cultural industry is stable, with ongoing demand for senior design supervisors in large theatres and production companies. Digital transformation and immersive performances bring new opportunities, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 淡旺季影响大 |
-| 中级（3-7年） | $40,000~$50,000 | 含加班和项目奖金 |
-| 高级（7年以上） | $52,000~$65,000 | 主管或大型制作 |
+| Median salary | $47,100 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$38,000 | Significant impact from peak and off-peak seasons |
+| Mid-level (3–7 years) | $40,000~$50,000 | Including overtime and project bonuses |
+| Senior (7+ years) | $52,000~$65,000 | Supervisor or large-scale production |
+| average salary | $52,104 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从设计师晋升为设计总监，再发展到艺术总监或制作经理。也可专精于高科技舞台技术或可持续设计领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stage and costume design directors and prop managers face mixed impacts from AI: AI can speed up design processes and resource management, but core creative decisions, handmade prop production, and cross-team coordination still rely on humans, with overall moderate risk.
+
+Can advance from designer to design director, then to art director or production manager. Can also specialize in high-tech stage technology or sustainable design.
+
+**Tasks most exposed to AI:**
+
+- Initial prop list and inventory management (AI automatic tracking and replenishment)
+- Fashion and stage effect simulation (AI-generated virtual preview)
+- Budget tracking and progress reporting (automated dashboard)
+- Repetitive design modifications (e.g., batch color scheme adjustments)
+- Data retrieval and reference image collection (AI image search and classification)
+
+**Where AI augments the role:**
+
+- Concept design and visualization (AI-generated drafts and mood boards)
+- Budget and resource optimization (AI analysis of cost and material efficiency)
+- Collaborative communication (AI translation, meeting summaries, task assignment)
+- Virtual fitting and stage movement (AI simulating different scenarios)
+- Sustainability assessment (AI recommends eco-friendly materials and reuse solutions)
+
+**Human moat:**
+
+- Creative leadership and artistic direction decisions (understanding dramatic narrative and emotion)
+- Manual prop making and fine finishing (irreplaceable craftsmanship)
+- Cross-team leadership and emergency coordination (interpersonal communication and crisis management)
+- Cultural and historical sensitivity (ensuring designs align with the era)
+- On-site experience and aesthetic judgment (real-time adjustment of lighting, color, materials)
+
+**Skills to build:**
+
+- Proficient in using AI design tools (e.g., Midjourney, DALL-E)
+- Digital visualization and 3D modeling (Blender, SketchUp)
+- Data analysis and budget management (Excel, Power BI)
+- AI-assisted project management (Jira, Notion AI)
+- Knowledge of sustainable materials and processes
+- Cross-cultural communication and teamwork
+
+**Key growth areas:**
 
 - Digital Stage Design
 - Immersive Experiences
@@ -64,66 +100,65 @@ Oversees stage and costume design, properties management, coordinating creative 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有本科及以上学历、年薪至少43,056欧元（2025年标准）的申请人，但该职业薪资通常不达标 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 需大学学历或职业培训资质认可，获得工作合同后申请 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，可来德找工作一年，适合有经验的设计师 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with a bachelor's degree or higher and an annual salary of at least €43,056 (2025 standard), but salaries for this occupation usually do not meet this threshold |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires university degree or vocational training qualification recognized, apply after obtaining a work contract |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year for job seeking in Germany, suitable for experienced designers |
 
-**PR难度：高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stage and Costume Design Supervisor, Properties？**
-- 热爱艺术与创意，有设计天赋的人
-- 能承受高压和 Deadline 的人
-- 善于团队协作和沟通的人
-
-**谁不适合学Stage and Costume Design Supervisor, Properties？**
-- 不喜欢不规律工作时间的人
-- 追求高薪稳定职业的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about art and creativity, with a talent for design
+- People who can handle high pressure and deadlines
+- People who are good at teamwork and communication
+
+**Who is not suited**
+- Those who dislike irregular working hours
+- People seeking high-paying and stable careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for this occupation in Germany?**
+A: Junior approx. €30,000-38,000, mid-level €40,000-50,000, senior €52,000-65,000 per year (pre-tax).
+
+**Q: How can non-EU citizens immigrate to Germany for this occupation?**
+A: Usually requires qualification recognition (Anerkennung); after obtaining a work contract, can apply for a skilled migration visa (§18b AufenthG).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★☆☆） |
-
-Stage and Costume Design Supervisor, Properties为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for this occupation in Germany?**
-答：Entry-level: €30,000-€38,000; Mid-level: €40,000-€50,000; Senior: €52,000-€65,000 (gross).
-
-**问：How can non-EU nationals immigrate to Germany for this occupation?**
-答：Typically require recognition of qualifications (Anerkennung), then apply for a skilled worker visa (§18b AufenthG) with a job offer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

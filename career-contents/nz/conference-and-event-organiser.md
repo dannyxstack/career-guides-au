@@ -1,60 +1,96 @@
-# Conference and Event Organiser（Conference and Event Organiser）职业分析 · 新西兰
+# Conference and Event Organiser — career analysis · New Zealand
 
-**职业代码：149211 – Conference and Event Organiser。**
+**Occupation code: 149211 (ANZSCO)**
 
-Conference and Event Organisers manage end-to-end planning, budgeting, and coordination of corporate events, exhibitions, weddings, and sports events. New Zealand's tourism and MICE industry recovery offers strong migration pathways via Skilled Migrant Category or Green List.
+Event planners are responsible for the full-cycle planning and execution of corporate meetings, exhibitions, weddings, and sports events. New Zealand's tourism and MICE industry is recovering strongly; this occupation can apply for residency through skilled migration or green list pathways, requiring relevant qualifications and experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（活动管理/旅游管理相关） | 3年 | $25,000~$35,000（新西兰大学/理工学院学费（国际学生），以奥塔哥理工学院或怀卡托大学为例） |
-| 研究生文凭/硕士（活动管理） | 1-2年 | $30,000~$45,000（如奥克兰理工大学或林肯大学，总学费约NZD 30,000-45,000） |
-| 职业培训课程（Level 4-6） | 6个月-1年 | $10,000~$15,000（如新西兰管理学院或私立培训机构，费用较低） |
+| Bachelor's degree (Event Management / Tourism Management related) | 3 years | $25,000~$35,000 (New Zealand university/polytechnic tuition fees (international students), e.g. Otago Polytechnic or University of Waikato) |
+| Postgraduate Diploma/Master's (Event Management) | 1-2 years | $30,000~$45,000 (e.g., Auckland University of Technology or Lincoln University, total tuition about NZD 30,000-45,000) |
+| Vocational training course (Level 4-6) | 6 months to 1 year | $10,000~$15,000 (Such as New Zealand institutes of management or private training providers, lower cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 活动管理文凭（Level 5-6） | 新西兰资格认证局（NZQA）认可的院校 | 可选 | 常见入门资格，核心课程包括项目管理和市场营销 |
-| 项目管理专业证书（如PMP或PRINCE2） | Project Management Institute (PMI)或AXELOS | 可选 | 部分雇主看重，尤其大型活动 |
-| IELTS 6.5分（移民或雇主要求） | IDP或British Council | 可选 | 技术移民需要雅思总分6.5，若雇主担保可能要求相应证明 |
+| Diploma in Event Management (Level 5-6) | Institutions accredited by the New Zealand Qualifications Authority (NZQA) | Optional | Common entry qualification, core courses include project management and marketing |
+| Project management professional certification (e.g., PMP or PRINCE2) | Project Management Institute (PMI) or AXELOS | Optional | Viewed favorably by some employers, especially for large events |
+| IELTS 6.5 (for immigration or employer requirements) | IDP or British Council | Optional | Skilled migration requires IELTS overall 6.5; employer sponsorship may require appropriate proof |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 5,200。随着国际边境全面开放和商务旅行复苏，新西兰活动行业需求持续增长。主要就业市场在奥克兰、基督城和惠灵顿，大型会展中心（如奥克兰会展中心）推动岗位增加。预计未来5年从业人数年均增长2-3%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 5,200. With full international border reopening and business travel recovery, demand in New Zealand's events industry continues to grow. Major employment markets in Auckland, Christchurch, and Wellington, with large convention centers (e.g., Auckland Convention Centre) driving job growth. Expected annual employment growth of 2-3% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 根据careers.govt.nz，助理协调员起薪约NZD 45,000-55,000 |
-| 中级（3-5年） | $60,000~$75,000 | 独立策划师或项目经理，年薪NZD 60,000-75,000 |
-| 高级/经理（5年以上） | $75,000~$100,000 | 活动经理或总监，大型活动公司可达NZD 75,000-100,000以上 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | According to careers.govt.nz, assistant coordinators earn a starting salary of about NZD 45,000-55,000 |
+| Mid-level (3–5 years) | $60,000~$75,000 | Independent planner or project manager, salary NZD 60,000-75,000 |
+| Senior/Manager (5+ years) | $75,000~$100,000 | Event manager or director, at large event companies can reach NZD 75,000-100,000+ |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级可从活动协调员或助理做起，积累经验后晋升为活动经理或高级策划师。具备数字活动技术（如混合活动平台）和预算管理能力可更快升职。部分资深人才可转向咨询、会展管理或自主创业。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
+
+Entry-level can start as event coordinator or assistant, then advance to event manager or senior planner. Skills in digital event technology (e.g., hybrid event platforms) and budget management can accelerate promotion. Some senior professionals may move into consulting, exhibition management, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate templated copy such as event invitations and schedules
+- Automatically collect participant information from forms and generate check-in lists
+- Use AI Budget Tools to Automatically Track and Adjust Budget Items
+- Automatically answering common attendee inquiries via chatbots
+- Basic data statistics for automatically generating post-event satisfaction reports
+
+**Where AI augments the role:**
+
+- AI analyzes historical data to recommend optimal event dates, venues, and agendas
+- Using AI tools to monitor social media sentiment in real time and adjust campaign promotion strategies
+- Use AI to quickly generate multiple creative theme proposals for client selection
+- AI-assisted real-time translation and speech recognition enhances multilingual hybrid event experience
+- AI predicting on-site foot traffic and optimizing check-in and booth layout
+
+**Human moat:**
+
+- Complex supplier negotiations and relationship management (involving trust and emotion)
+- Event idea generation and thematic storytelling
+- On-site crisis management (e.g., audio failures, guest delays)
+- Cross-cultural communication and customized services for high-end clients
+- Team leadership and volunteer on-site coordination (non-standardized decisions)
+
+**Skills to build:**
+
+- Advanced operation of hybrid event platforms (e.g., Hopin, Zoom Webinar)
+- Data analysis and visualization (Excel, Tableau, Power BI)
+- AI prompt engineering and automation tools (ChatGPT, Zapier integration)
+- Crisis management and improvisation skills
+- Cross-cultural communication and content creative planning
+- Basic budgeting and project management software (e.g., Asana, Monday.com)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -63,69 +99,68 @@ Conference and Event Organisers manage end-to-end planning, budgeting, and coord
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（学历+工作经验），薪资达到中位数（目前NZD 29.66/小时）可申请技术移民。活动策划师ANZSCO技能等级3，需至少3年经验搭配学历。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 若雇主获得认证，从事绿色清单匹配职业可申请。活动策划师不在绿色清单上，但可能通过高薪或地区紧缺获得特殊通道。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见工签路径，需找认证雇主，工资达到中位数。工作2年后可能申请居留。 |
-| Subclass PSWV（Post-study Work Visa） | 在NZ获得Level 7及以上学位后，可申请1-3年开放工签积累经验，再转技术移民。 |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (qualifications + work experience), with salary at median (currently NZD 29.66/hour) to apply for skilled migration. Event planner ANZSCO skill level 3, requires at least 3 years experience combined with qualifications. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If the employer is accredited, you can apply by working in a Green List matching occupation. Event planner is not on the Green List, but may qualify through high salary or regional shortage special pathways. |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common work visa route, requires a job with an accredited employer and meeting the median wage. May apply for residency after 2 years. |
+| Subclass PSWV (Post-study Work Visa) | After obtaining a Level 7 or higher degree in NZ, you can apply for a 1-3 year open work visa to gain experience, then transition to skilled migration. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Conference and Event Organiser？**
-- 具备优秀的沟通与组织能力，喜欢统筹策划，能同时处理多项任务。
-- 对旅游、会展或营销行业有热情，能适应弹性工作时间和频繁沟通。
-- 希望在较为稳定的职业中获得技术移民机会，且愿意从初级岗位积累经验。
-
-**谁不适合学Conference and Event Organiser？**
-- 对重复性行政工作缺乏耐心，或无法接受周末/节假日加班安排。
-- 压力承受能力较弱，不习惯频繁与客户或供应商协调解决问题。
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong communication and organizational skills, enjoys coordination and planning, and can handle multiple tasks simultaneously.
+- Passionate about tourism, events, or marketing; able to adapt to flexible working hours and frequent communication.
+- Looking for skilled migration opportunities in a relatively stable career, willing to start from junior roles.
+
+**Who is not suited**
+- Lack of patience for repetitive administrative tasks or inability to accept weekend/holiday overtime schedules.
+- Weak stress tolerance, not accustomed to frequent coordination with clients or suppliers to resolve issues.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an event planner in New Zealand?**
+A: Junior planner annual salary approx NZD 45,000-55,000, mid-level NZD 60,000-75,000, senior manager up to NZD 75,000-100,000+. Higher salaries in large events or conference centers.
+
+**Q: Can event planners immigrate to New Zealand through skilled migration?**
+A: Yes, but must meet SMC 6-point system requirements, e.g., a bachelor's degree + 3 years of experience earns 5 points, with additional points from wages. Although not on the Green List, finding an accredited employer and reaching the median wage allows application for AEWV or residency.
+
+**Q: What is the employment outlook for New Zealand's event industry?**
+A: Strong industry recovery, especially major exhibition projects in Auckland and Christchurch. Hybrid event technologies (online + offline) also create new jobs. However, competition is moderate; experienced planners find jobs more easily.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Conference and Event Organiser的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Conference and Event Organisers in New Zealand?**
-答：Entry-level organisers earn around NZD 45,000-55,000 per year, mid-level NZD 60,000-75,000, and senior managers can earn NZD 75,000-100,000+. Large venues or corporate events offer higher pay.
-
-**问：Can Conference and Event Organisers migrate to New Zealand through skilled migration?**
-答：Yes, under Skilled Migrant Category (6-point system). For example, a bachelor's degree plus 3 years of experience gives 5 points, and you can add wage points. Although not on Green List, you can apply for AEWV or residence with an accredited employer and median wage.
-
-**问：What are the job prospects for event organisers in New Zealand?**
-答：Strong recovery, especially in Auckland and Christchurch with major convention projects. Hybrid event skills create new roles. Competition is moderate, but experienced organisers have an edge.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

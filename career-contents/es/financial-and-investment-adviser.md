@@ -1,59 +1,95 @@
-# Financial and Investment Adviser（Financial and Investment Adviser）职业分析 · ES
+# Financial and Investment Adviser — career analysis · Spain
 
-**职业代码：2612 – Financial and Investment Adviser。**
+**Occupation code: 2612 (CNO)**
 
-Financial and investment advisers provide portfolio management, financial planning, and risk assessment advice to clients, helping individuals and businesses achieve financial goals, with stable demand in Spanish banks, independent advisory firms, and insurance companies.
+Financial and investment advisors provide clients with advice on portfolio management, financial planning, and risk assessment, assisting individuals and businesses in achieving financial goals, with stable demand among Spanish banks, independent consulting firms, and insurance institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学每年约1000-2000欧元，私立大学约5000-15000欧元） |
-| 官方硕士（Máster） | 1年（Máster） | $2,000~$12,000（公立大学约2000-5000欧元，私立大学约6000-12000欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (Public universities: approx. EUR 1,000-2,000 per year; private universities: approx. EUR 5,000-15,000) |
+| Official Máster | Year 1 (Máster) | $2,000~$12,000 (Public universities cost about 2,000-5,000 euros, while private universities about 6,000-12,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学/金融学学士 | 西班牙大学 | 必备 | 必备基础学历，需通过学历认证（homologación）或对等 |
-| CNMV注册顾问 | 西班牙国家证券市场委员会（CNMV） | 必备 | 从事受监管投资建议业务必须注册，需通过EIA或EFA考试 |
-| CFA特许金融分析师 | CFA Institute | 可选 | 国际高含金量证书，非强制但显著提升竞争力 |
+| Bachelor of Economics/Finance | Spanish University | Required | Required basic academic qualifications, either through homologación or equivalent |
+| CNMV Registration Consultant | Spanish National Securities Market Commission (CNMV) | Required | Engaging in regulated investment advisory business requires registration and passing the EIA or EFA exam |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | International high-value certificates, non-mandatory but significantly enhancing competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。西班牙金融顾问行业受益于人口老龄化和投资产品复杂化，预计未来五年岗位增长约8%。巴塞罗那和马德里是主要就业中心，但数字化和机器人顾问（robo-advisors）可能对低端岗位形成压力。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. The Spanish financial advisor industry is benefiting from an aging population and the increasing complexity of investment products, with job growth expected to be about 8% over the next five years. Barcelona and Madrid are major employment centers, but digital and robo-advisors may put pressure on lower-end positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 税前，含基本工资和少量佣金 |
-| 中级（4-7年） | $40,000~$60,000 | 税前，含绩效奖金 |
-| 高级（8年以上） | $65,000~$100,000 | 税前，私人银行家或团队主管可能更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$38,000 | Pre-tax, including base salary and a small commission |
+| Mid-level (4-7 years) | $40,000~$60,000 | Pre-tax, including performance bonuses |
+| Senior (8+ years) | $65,000~$100,000 | Before tax, private bankers or team leaders may have higher rates |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径通常从初级分析师或客户经理起步，积累经验后可晋升为高级顾问、团队主管或私人银行家；部分人考取CFA或CIIA后转向资产管理或对冲基金等更高端领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Career paths typically start as junior analysts or relationship managers, and after gaining experience, can be promoted to senior consultant, team leader, or private banker; Some people pursue higher-end fields such as asset management or hedge funds after obtaining the CFA or CIIA.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Financial Planning
 - Wealth Management
@@ -62,65 +98,64 @@ Financial and investment advisers provide portfolio management, financial planni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高学历（本科以上）且年薪超过西班牙平均工资1.5倍（约34,000欧元）的岗位，需工作合同 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人士，年薪要求通常不低于40,000欧元，审批快速（20天），可携带家属 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 常规受雇工作居留，需雇主担保，年薪需达行业标准，有配额限制 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to positions requiring higher education (bachelor's or above) with annual salary exceeding 1.5 times the Spanish average wage (approx. 34,000 EUR); requires work contract. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, the annual salary requirement is usually no less than 40,000 euros, approval is quick (20 days), and family members are allowed |
+| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment residency requires employer sponsorship, annual salary must meet industry standards, and there are quota restrictions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial and Investment Adviser？**
-- 具备定量分析和沟通能力的商科/经济毕业生
-- 对金融市场有浓厚兴趣，能承受业绩压力
-- 希望在欧洲金融行业发展的国际人士
-
-**谁不适合学Financial and Investment Adviser？**
-- 厌恶销售性质或业绩考核的工作
-- 不适应快节奏和高压工作环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Business/economics graduates with quantitative analysis and communication skills
+- Strong interest in financial markets and able to withstand performance pressures
+- International individuals hoping to develop in the European financial industry
+
+**Who is not suited**
+- Dislikes jobs that are sales-oriented or performance-based evaluations
+- People who are not suited to fast-paced and high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for financial investment advisors in Spain?**
+A: Junior consultant annual salary approx. €28,000–€38,000, mid-level €40,000–€60,000, senior €65,000–€100,000+, private bankers may earn more, with a large commission component.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: Applicable via EU Blue Card (annual salary ≥ EUR 34,000) or highly skilled visa (annual salary ≥ EUR 40,000), requiring a bachelor's degree and employment contract, can bring family.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Financial and Investment Adviser的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salary levels for financial investment advisers in Spain?**
-答：Junior advisers earn around €28,000-38,000 annually, mid-level €40,000-60,000, senior €65,000-100,000+, with private bankers potentially higher; commissions play a significant role.
-
-**问：How can foreigners migrate to Spain through this occupation?**
-答：Apply via EU Blue Card (salary≥€34,000) or Highly Qualified Professional visa (salary≥€40,000), requiring a bachelor's degree and employment contract, with family reunification possible.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

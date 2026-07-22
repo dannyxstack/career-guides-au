@@ -1,61 +1,93 @@
-# Public Administration Tax Support Professionals（Public Administration Tax Support Professionals）职业分析 · ES
+# Public Administration Tax Support Professionals — career analysis · Spain
 
-**职业代码：3621 – Public Administration Tax Support Professionals。**
+**Occupation code: 3621 (CNO)**
 
-Professionals who provide tax-related support within Spanish public administration, assisting with tax collection, taxpayer inquiries, and document verification, essential for the functioning of the tax system.
+In Spain's public administration, professionals who provide tax-related support assist in tax collection, taxpayer consultation, and tax document review, serving as an important pillar for the operation of the tax system.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业培训（FP Grado Superior） | 2年 | —（公立FP学费低，约0-2000欧元/年；私立更高） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年；私立约5000-6000欧元/年） |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public FP tuition is low, about 0-2000 euros per year; Private schools are even higher) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public universities about 1,000-2,000 EUR/year; private about 5,000-6,000 EUR/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行政法或税务相关学位 | 西班牙大学或FP中心 | 可选 | 公共行政管理、法律或经济学位优先 |
-| 公务员考试（Oposición） | 西班牙公共行政机构 | 必备 | 进入公共部门需通过竞争性考试 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证方可报考公务员 |
+| Civil Service Examination (Oposición) | Spanish public administration | Required | Entering the public sector requires passing a competitive exam |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign academic qualifications must be verified before applying for civil service positions |
+| Degree in administrative law or taxation | Spanish universities or FP centers | Optional | Degrees in Public Administration, Law, or Economics are preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。西班牙税务管理持续数字化，但税务辅助岗位需求稳定。随着税收政策复杂化，需专业人员协助征管与合规。就业机会集中在税务局及地方政府，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Tax management in Spain continues to digitize, but demand for tax support positions remains stable. As tax policies become more complex, professionals are needed to assist with tax administration and compliance. Job opportunities are concentrated in the tax authorities and local governments, with moderate competition.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，公共部门固定薪资 |
-| 中级（3-7年） | $24,000~$32,000 | 含加薪及职级晋升 |
-| 高级（7年以上） | $32,000~$42,000 | 含管理职责或专业高级岗位 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, fixed salary in the public sector |
+| Mid-level (3–7 years) | $24,000~$32,000 | Including salary increases and rank promotions |
+| Senior (7+ years) | $32,000~$42,000 | Including management responsibilities or senior professional positions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级税务助理晋升至税务技术员或税务督察，需通过内部考试及培训积累经验。部分可转向私营税务顾问或财务领域，但公共部门路径更清晰。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance tax assistance work efficiency, but due to limitations in public sector regulations and data security requirements, the likelihood of complete replacement is low, and job responsibilities are shifted toward high-value analysis.
+
+You can be promoted from junior tax assistant to tax technician or tax inspector, with experience gained through internal exams and training. Some can turn to private tax advisors or the financial sector, but the public sector path is clearer.
+
+**Tasks most exposed to AI:**
+
+- Taxpayer FAQs and Consultations
+- Tax form data entry and basic verification
+- Automatic notifications and reminders for overdue taxes
+- Standardized tax document format review
+
+**Where AI augments the role:**
+
+- Identification of tax anomalies and suspected tax evasion
+- Tax policy impact simulation and predictive analysis
+- In-depth verification and reporting of tax declaration data
+- Personalized taxpayer service optimization
+
+**Human moat:**
+
+- Interpreting complex tax law provisions and case law
+- Handling tax-related disputes and communicating with taxpayers
+- Make compliance judgments amid regulatory ambiguity
+- Supervise the operation of AI systems and adjudicate disputes
+
+**Skills to build:**
+
+- Tax data analysis and visualization (such as Python, Power BI)
+- Operation and configuration of AI tax tools (such as RPA, intelligent audit systems)
+- Tax law interpretation and administrative procedure knowledge
+- Digital project management for the public sector
+- Data privacy and security compliance knowledge
+
+**Key growth areas:**
 
 - Tax digitalization
 - Public sector stability
@@ -64,68 +96,67 @@ Professionals who provide tax-related support within Spanish public administrati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：很低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 需获得公共部门工作合同，但外国人进入西班牙公共部门极难，通常要求欧盟国籍或长期居留。 |
-| Subclass Busqueda empleo（Job Search Visa） | 高技能人才可先寻工，但公共部门岗位不适用。 |
+| Subclass Cuenta ajena (Work Contract) | A public sector work contract is required, but it is extremely difficult for foreigners to enter Spain's public sector, usually requiring EU citizenship or long-term residency. |
+| Subclass Busqueda empleo (Job Search Visa) | Highly skilled talents can first seek jobs, but public sector positions are not suitable. |
 
-**PR难度：很高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Administration Tax Support Professionals？**
-- 西班牙语流利、熟悉行政程序者
-- 追求稳定公共部门工作、不排斥考试竞争的人
-- 具有法律/经济/税务背景者
-
-**谁不适合学Public Administration Tax Support Professionals？**
-- 非欧盟公民或无长期居留者（难以进入公共部门）
-- 追求高薪或快速晋升者
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Fluent in Spanish and familiar with administrative procedures
+- Those who seek stable public sector work and do not reject exam competition
+- Candidates with legal, economic, or tax backgrounds
+
+**Who is not suited**
+- Non-EU citizens or those without long-term residence (difficulty accessing the public sector)
+- Those seeking high salaries or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for tax support staff?**
+A: Entry-level salaries are about 18,000-24,000 euros, intermediate salaries 24,000-32,000 euros, and seniors 32,000-42,000 euros. Public sector salaries are fixed and benefits are relatively good.
+
+**Q: Can foreigners engage in this occupation through skilled migration?**
+A: extremely difficult. Public sector positions typically require Spanish nationality, EU citizenship, or long-term residency, and must pass civil service exams with credentials verified.
+
+**Q: What educational background is required?**
+A: Higher education is usually required: FP Grado Superior (2 years) or a bachelor's degree (4 years), mostly in law, economics, or public administration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Public Administration Tax Support Professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tax support professionals?**
-答：Entry-level annual salary is about €18,000-€24,000, mid-level €24,000-€32,000, senior €32,000-€42,000, with public sector stability and benefits.
-
-**问：Can foreigners work in this occupation via skilled migration?**
-答：Very difficult. Public sector jobs typically require Spanish/EU citizenship or long-term residency, plus competitive exams and degree homologation.
-
-**问：What education is required?**
-答：Typically higher education: FP Grado Superior (2 years) or university degree (4 years) in law, economics, or public administration.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

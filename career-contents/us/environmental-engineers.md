@@ -1,60 +1,96 @@
-# Environmental Engineers（Environmental Engineers）职业分析 · 美国
+# Environmental Engineers — career analysis · United States
 
-**职业代码：17-2081 – Environmental Engineers。**
+**Occupation code: 17-2081 (SOC)**
 
-Environmental engineers apply engineering principles to design, plan, and execute pollution control, waste treatment, and site remediation projects to protect human health and the environment.
+Environmental engineers apply engineering principles to design, plan, and implement projects for pollution control, waste treatment, and site remediation to protect human health and the environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$150,000（公立大学年均学费约1-4万美元，私立可达6万美元） |
-| 硕士学位 | 2年 | $30,000~$100,000（部分雇主支持在职深造） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public university average tuition: about $10,000-$40,000/year; private up to $60,000.) |
+| Master's degree | 2 years | $30,000~$100,000 (Some employers support on-the-job further study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业工程师执照（PE） | 各州工程委员会 | 必备 | 通过FE和PE考试，4年经验后申请；需继续教育维持 |
-| 美国ABET认证学位 | 工程与技术认证委员会 | 必备 | 多数州要求毕业于ABET认证项目 |
-| 项目管理认证（PMP） | 项目管理协会 | 可选 | 非强制，但有利于晋升管理岗 |
-| 危险废物管理认证 | 美国危险材料协会等 | 可选 | 特定领域如修复项目可加分 |
+| Professional Engineer License (PE) | State engineering boards | Required | Pass FE and PE exams, apply after 4 years of experience; requires continuing education to maintain |
+| US ABET-accredited degree | Engineering and Technology Accreditation Board | Required | Most states require graduation from an ABET-accredited program |
+| Project Management Professional (PMP) certification | Project Management Institute | Optional | Not mandatory, but beneficial for advancement to management |
+| Hazardous Waste Management Certification | American Society of Hazardous Materials, etc. | Optional | Specific areas like restoration projects can be a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,000。美国劳工统计局预测2022-2032年就业增长6%，快于平均水平。需求源于环境法规趋严、气候变化应对以及基础设施老化更新。
+**Job demand: high (★★★★☆).** National workforce approx. 52,000. The U.S. Bureau of Labor Statistics projects 6% employment growth from 2022 to 2032, faster than average. Demand driven by stricter environmental regulations, climate change response, and aging infrastructure upgrades.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 中位数约7.2万，视地区和行业 |
-| 中级（4-9年） | $80,000~$110,000 | 中位数约9.5万 |
-| 高级（10年以上） | $110,000~$150,000 | 中位数约13万，管理层可达16万以上 |
+| Median salary | $107,110 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Median around $72,000, varies by region and industry. |
+| Intermediate (4-9 years) | $80,000~$110,000 | Median about $95,000 |
+| Senior (10+ years) | $110,000~$150,000 | Median around 130,000, management can reach over 160,000 |
+| average salary | $112,910 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级职位可积累设计/现场经验，晋升为项目经理或技术专家；也可转向管理层或咨询领域，或考取专业工程师执照以提升资历。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
+
+Entry-level roles can build design/field experience and advance to project manager or technical specialist; also transition to management or consulting, or obtain professional engineer license to enhance credentials.
+
+**Tasks most exposed to AI:**
+
+- Environmental monitoring data collection and preliminary analysis
+- Standard chapter writing for environmental impact assessment reports
+- Routine document generation for environmental compliance inspections
+- Parameter Tuning and Running of Pollution Dispersion Models
+- Progress tracking and report updates in project management
+
+**Where AI augments the role:**
+
+- Using AI for pollutant dispersion simulation and risk assessment
+- Optimizing water treatment process parameters using machine learning
+- Using natural language processing for rapid review of regulations and environmental impact reports
+- Combine remote sensing AI for ecological impact monitoring and early warning
+- Testing field planning solutions using AI-powered digital twins
+
+**Human moat:**
+
+- On-site field inspection and pollution source identification
+- Communication and negotiation with stakeholders (government, community)
+- Cross-disciplinary solution design for complex environmental issues
+- Take responsibility for signing environmental impact reports (registered engineer)
+- Development and application of innovative repair technologies
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning basics
+- GIS and remote sensing AI (e.g., ArcGIS Pro, Google Earth Engine).
+- AI integration of environmental modeling software (EFDC, MODFLOW)
+- Integration of project management with AI tools (e.g., Asana, Jira)
+- Reading environmental regulations and AI-assisted compliance tools
+- Digital twin and IoT data platform operation
+
+**Key growth areas:**
 
 - Environmental Remediation
 - Climate Change Adaptation
@@ -63,69 +99,68 @@ Environmental engineers apply engineering principles to design, plan, and execut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于拥有学士学位的环境工程师，需雇主担保并抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 要求硕士或学士+5年经验，需PERM劳工证，适合高级职位 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位者，通过PERM申请，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合在环境工程领域有突出成就的少数专家，无需抽签 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common for environmental engineers with a bachelor's degree; requires employer sponsorship and lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's or bachelor's degree plus 5 years experience, needs PERM labor certification, suitable for senior positions. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree holders, applied through PERM, with long waiting times |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for a few experts with outstanding achievements in environmental engineering; no lottery required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Engineers？**
-- 对环境保护有热情，愿意解决复杂环境问题的人
-- 具备扎实的工程基础和分析能力，能适应多学科协作
-- 喜欢户外与现场工作，能接受一定比例的出差或实地考察
-
-**谁不适合学Environmental Engineers？**
-- 不喜欢频繁学习法规和政策变化的人
-- 对化学、生物或物理等基础科学不感兴趣的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about environmental protection and willing to solve complex environmental problems
+- Possess solid engineering foundation and analytical skills, able to work in multidisciplinary teams
+- Enjoys outdoor and fieldwork, able to accept a certain proportion of travel or field visits
+
+**Who is not suited**
+- People who dislike frequent learning of regulations and policy changes
+- Those not interested in basic sciences like chemistry, biology, or physics
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for environmental engineers in the U.S.?**
+A: According to BLS 2023 data, median annual salary about USD 99,040; lowest 10% approx. USD 63,000; highest 10% approx. USD 155,000.
+
+**Q: What are the main pathways for environmental engineers to immigrate to the US?**
+A: Most common is H-1B work visa, then apply for green card via EB-2 or EB-3. Requires employer sponsorship; EB-2 typically requires a master's degree or 5+ years experience.
+
+**Q: What is the career progression path for an environmental engineer?**
+A: Usually starts as a junior engineer, gains 4-5 years of experience, obtains a PE license, and can advance to project manager or senior engineer, then to management, consulting, or technical expert roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Environmental Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for environmental engineers in the US?**
-答：According to BLS 2023 data, median annual wage is about $99,040, with bottom 10% around $63,000 and top 10% around $155,000.
-
-**问：What are the main migration paths for environmental engineers to the US?**
-答：Most common is H-1B visa followed by EB-2 or EB-3 green card. Requires employer sponsorship; EB-2 typically needs a master's degree or 5+ years experience.
-
-**问：What is the career progression for environmental engineers?**
-答：Start as junior engineer, after 4-5 years obtain PE license, then advance to project manager or senior engineer. Further paths include management, consulting, or technical specialist.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

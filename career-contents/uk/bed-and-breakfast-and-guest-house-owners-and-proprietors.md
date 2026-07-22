@@ -1,61 +1,96 @@
-# Bed and breakfast and guest house owners and proprietors（Bed and breakfast and guest house owners and proprietors）职业分析 · UK
+# Bed and breakfast and guest house owners and proprietors — career analysis · United Kingdom
 
-**职业代码：6250 – Bed and breakfast and guest house owners and proprietors。**
+**Occupation code: 6250 (SOC)**
 
-Plan, organise, direct and co-ordinate the activities and resources of bed and breakfasts and guest houses, including guest reception, booking management, facility maintenance, and customer satisfaction.
+Responsible for planning, organizing, coordinating, and managing the daily operations of a B&B or hotel, including guest reception, managing reservations, maintaining facilities, and ensuring customer satisfaction.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中 | 无要求 | —（通常无正式学历要求，经验更重要。） |
-| 职业培训 | 6个月 | $1,000~$3,000（酒店管理或旅游相关课程，如BTEC或City & Guilds证书。） |
+| High school | No requirements | $0~$0 (Usually no formal academic requirements, experience is more important.) |
+| Vocational training | 6 months. | $1,000~$3,000 (Hotel management or tourism-related courses, such as BTEC or City & Guilds certificates.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | — | 可选 | 行业经验和个人技能比证书更重要。 |
-| 酒店管理证书 | City & Guilds / BTEC | 可选 | 有助于提升运营和管理能力。 |
-| 食物卫生证书 | Chartered Institute of Environmental Health | 必备 | 如提供餐饮服务则需要。 |
+| Food Safety Certificate | Chartered Institute of Environmental Health | Required | Required if food services are provided. |
+| No mandatory requirements | — | Optional | Industry experience and personal skills matter more than certificates. |
+| Hotel management certificate | City & Guilds / BTEC | Optional | Helps improve operational and management capabilities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。随着英国国内旅游和休闲住宿需求增长，民宿行业稳定发展。但受季节性影响，部分岗位为兼职或季节性用工。预计未来5年就业人数小幅增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. With the growth in domestic tourism and leisure accommodation demand in the UK, the homestay industry is steadily developing. However, due to seasonal effects, some positions are part-time or seasonal. Employment is expected to grow slightly over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 小型民宿员工或助手。 |
-| 中级（3-7年） | $25,000~$35,000 | 经验丰富的经营者或中型旅馆经理。 |
-| 高级（7年以上） | $40,000~$60,000 | 成功经营的业主或连锁旅馆经理。 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Small B&B staff or assistants. |
+| Mid-level (3–7 years) | $25,000~$35,000 | Experienced operator or medium-sized hotel manager. |
+| Senior (7+ years) | $40,000~$60,000 | Owner-operators or managers of successful chain hotels. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初期可从前台或客房服务做起，积累经验后晋升为所有者或经理。部分经营者通过购买现有物业或加盟品牌扩大业务。也可转向酒店管理或旅游服务领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Bed and breakfast and inn operators' work will be partially reduced by AI tools (e.g., smart booking systems, automated customer service), but core personalized service, on-site management, and emotional interaction are hard to replace; overall, risks and opportunities coexist.
+
+Start in front desk or housekeeping, gain experience, then progress to owner or manager. Some operators expand by purchasing existing properties or franchising brands. Can also move into hotel management or tourism services.
+
+**Tasks most exposed to AI:**
+
+- Booking management and inventory updates (AI auto-fill and price optimization)
+- Common guest inquiries (handled by chatbots)
+- Room cleaning scheduling and basic maintenance reminders (IoT+AI)
+- Reconciliation of invoices and bills (automated accounting)
+- Online Marketing Copywriting (Generative AI)
+
+**Where AI augments the role:**
+
+- Dynamic pricing strategy (AI analysis of market trends)
+- Personalized customer experience (AI-recommended activities, dining)
+- Multilingual communication (real-time translation tools)
+- Operational efficiency analysis (AI reporting occupancy, revenue)
+- Online reputation management (AI monitors reviews and generates responses)
+
+**Human moat:**
+
+- Face-to-face reception and emotional interaction (e.g., welcome ceremonies, resolving unexpected complaints)
+- On-site facility inspection and manual repair (diagnosing minor issues)
+- In-depth local knowledge and customized recommendations (non-standardized)
+- Handcrafted breakfast or specialty services (requiring human creativity)
+- Crisis management (on-site response to customer illness, equipment failure, etc.)
+
+**Skills to build:**
+
+- Digital marketing and social media management
+- Use AI booking and CRM systems
+- Data analysis fundamentals (revenue reports, customer preferences)
+- Financial process automation tools
+- Manual skills (e.g., cooking, repairs)
+- Multilingual communication skills.
+
+**Key growth areas:**
 
 - Domestic Tourism
 - Small Business
@@ -64,66 +99,68 @@ Plan, organise, direct and co-ordinate the activities and resources of bed and b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 职业通常不在技术工人担保清单上，但若职位符合管理级别且薪资达标，可尝试申请。 |
-| Subclass Innovator Founder（Innovator Founder Visa） | 适合有创新商业计划并投资开办民宿的创业者。 |
-| Subclass Graduate（Graduate Visa） | 英国高校毕业生可尝试，但该职位担保难度较大。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Occupation is usually not on the skilled worker sponsorship list, but if the role is at management level and salary meets requirements, an application can be attempted. |
+| Subclass Innovator Founder (Innovator Founder Visa) | Suitable for entrepreneurs with innovative business plans who invest in setting up a B&B. |
+| Subclass Graduate (Graduate Visa) | UK graduates can try, but visa sponsorship for this position is difficult. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bed and breakfast and guest house owners and proprietors？**
-- 喜欢与人打交道的服务导向型人才
-- 希望经营自有小生意、有创业精神的人
-- 适应灵活工时和季节性工作节奏者
+**Who is suited**
+- Service-oriented talent who enjoys interacting with people
+- Individuals who aspire to run their own small business and have an entrepreneurial spirit
+- Suitable for those adaptable to flexible hours and seasonal work rhythms.
 
-**谁不适合学Bed and breakfast and guest house owners and proprietors？**
-- 寻求高薪或高职业地位者
-- 不喜欢周末或节假日工作的人
+**Who is not suited**
+- Those seeking high salary or high occupational status
+- People who dislike working on weekends or public holidays
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of bed and breakfast operators?**
+A: Income fluctuates; small B&B owners annual income approx GBP 25,000-40,000, but costs must be deducted. Significantly affected by season and location.
+
+**Q: Can foreigners immigrate to the UK through this occupation?**
+A: Very difficult. Usually does not meet the sponsorship requirements for a skilled worker visa, unless it can be proven to be a high-skilled management role or self-employment. Consider the Innovator Founder visa.
+
+**Q: What qualifications are needed to run a homestay?**
+A: No mandatory academic requirements, but hotel management or business courses are helpful. If providing food services, a food hygiene certificate is required. Practical experience is crucial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bed and breakfast and guest house owners and proprietors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for guest house owners?**
-答：Income varies widely; small bed and breakfast owners earn around £25,000 to £40,000 annually before costs. Heavily influenced by season and location.
-
-**问：Can foreigners immigrate to the UK through this occupation?**
-答：Very difficult. Usually does not meet Skilled Worker visa sponsorship requirements unless it is a senior managerial role or self-employment. Innovator Founder visa may be an option.
-
-**问：What qualifications are needed to run a guest house?**
-答：No formal education required, but hospitality or business courses help. Food hygiene certificate needed if serving food. Practical experience is key.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Veterinarian（Veterinarian）职业分析 · IE
+# Veterinarian — career analysis · Ireland
 
-**职业代码：2250 – Veterinarian。**
+**Occupation code: 2250 (ISCO08)**
 
-Veterinarians diagnose, treat, and prevent diseases in animals, and contribute to public health. In Ireland, they primarily work with companion animals, livestock, and wildlife.
+Veterinarians are responsible for the diagnosis, treatment, and prevention of animal diseases, as well as public health safety. In Ireland, veterinarians primarily serve companion animals, farm livestock, and wildlife.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 兽医学本科 | 5年 | $10,000~$25,000（欧盟学生学费约€10,000-€25,000/年） |
-| 实习/预注册 | 1年 | —（带薪实习，年收入约€25,000） |
+| Bachelor of Veterinary Science | 5 years | $10,000~$25,000 (Tuition fees for EU students are approximately €10,000–€25,000 per year.) |
+| Internship/pre-registration | 1 year | $0~$0 (Paid internship, annual income approx. €25,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医执业资格 | 爱尔兰兽医委员会 (VCI) | 必备 | 完成认证学位后注册 |
-| 欧盟执业资格 | 欧盟指令2005/36/EC | 可选 | 欧盟资格自动认可 |
+| Veterinary practice qualification | Veterinary Council of Ireland (VCI) | Required | Register after completing an accredited degree |
+| EU professional qualifications | EU Directive 2005/36/EC | Optional | Automatic recognition of EU qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。爱尔兰兽医短缺持续存在，尤其在农村和大型动物领域。未来十年需求稳定增长，受宠物消费升级和农业可持续性政策推动。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. The veterinary shortage in Ireland persists, especially in rural areas and large animal sectors. Demand will grow steadily over the next decade, driven by pet consumption upgrades and agricultural sustainability policies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 助理兽医或实习期 |
-| 中级（4-9年） | $50,000~$75,000 | 经验兽医或小型诊所合伙人 |
-| 高级（10年+） | $80,000~$120,000 | 专科兽医或大型诊所所有者 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant veterinarian or internship period |
+| Intermediate (4-9 years) | $50,000~$75,000 | Experienced veterinarian or small clinic partner |
+| Senior (10+ years) | $80,000~$120,000 | Specialist veterinarians or owners of large clinics |
+| average salary | $67,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从临床兽医可转向兽医公共卫生、食品检验、研究或管理岗位。获得注册后可开设私人诊所或进入制药行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
+
+Clinical veterinarians can transition to veterinary public health, food inspection, research, or management roles. After registration, they can open a private clinic or enter the pharmaceutical industry.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of imaging (X-ray/ultrasound) assisted by AI
+- Standardized medical record entry and prescription generation
+- Automated appointment management for routine vaccinations and deworming
+- Automated interpretation of lab sample analysis (blood count/chemistry)
+- Simple symptom consultation in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide reference for rare case identification
+- Robot-assisted surgery improves precision in minimally invasive procedures
+- Continuous monitoring of patient rehabilitation data via smart wearable devices
+- Big data analytics to predict disease outbreaks and medication trends
+- Personalized medical plan generation (based on genetics and medical history)
+
+**Human moat:**
+
+- Manual dexterity and adaptability in complex surgeries
+- Empathetic communication and trust-building with pet owners.
+- Cross-species clinical judgment (especially for large animals)
+- Ethical decisions (e.g., timing of euthanasia)
+- On-site handling ability in emergency situations
+
+**Skills to build:**
+
+- Operating AI diagnostic imaging tools and verifying results
+- Telemedicine platform usage and data analysis
+- Genomics and precision medicine knowledge
+- Basics of animal behavior and psychology
+- Advanced management of digital health records (EHR)
+- Surgical Robot Collaboration Skills
+
+**Key growth areas:**
 
 - Pet ownership growth
 - Livestock health demand
@@ -61,68 +97,67 @@ Veterinarians diagnose, treat, and prevent diseases in animals, and contribute t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，两年后可直接申请永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺但薪资达标的职位，需劳工市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪职位，年薪门槛约€64,000，可带家属 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, eligible for permanent residency after two years |
+| Subclass General Employment P (General Employment Permit) | For positions not in shortage but meeting salary threshold, requires labour market test |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-paid positions, with an annual salary threshold of approximately €64,000, allowing family accompaniment |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian？**
-- 热爱动物且能承受情感压力
-- 具备较强解决问题和沟通能力
-- 愿意在农村或一线工作
-
-**谁不适合学Veterinarian？**
-- 对动物痛苦或血液敏感
-- 不喜户外或体力工作
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves animals and can handle emotional stress
+- Strong problem-solving and communication skills
+- Willing to work in rural or frontline areas
+
+**Who is not suited**
+- Sensitive to animal pain or blood
+- Dislike outdoor or physical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a veterinarian in Ireland?**
+A: Entry-level veterinarians earn about €35,000-€45,000, mid-level about €50,000-€75,000, senior or specialist can reach €80,000-€120,000.
+
+**Q: How can non-EU veterinarians immigrate to Ireland?**
+A: Can be applied for via Critical Skills Employment Permit (for skills shortages) or General Employment Permit (requires labor market test). EU qualifications are automatically recognized.
+
+**Q: What are the requirements for veterinary education in Ireland?**
+A: Need to complete a 5-year accredited veterinary medicine bachelor's degree and register with VCI. Non-EU degrees require evaluation by VCI.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Veterinarian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinarians in Ireland?**
-答：Entry-level veterinarians earn around €35,000-€45,000, mid-level €50,000-€75,000, and senior/specialist up to €80,000-€120,000.
-
-**问：How can non-EU veterinarians migrate to Ireland?**
-答：They can apply for a Critical Skills Employment Permit (shortage occupation) or General Employment Permit (requires labor market test). EU qualifications are automatically recognized.
-
-**问：What are the educational requirements for veterinarians in Ireland?**
-答：Completion of a 5-year accredited veterinary medicine degree and VCI registration. Non-EU degrees require VCI assessment.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

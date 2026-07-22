@@ -1,57 +1,93 @@
-# Mining and Quarrying Labourer（Mining and Quarrying Labourer）职业分析 · NL
+# Mining and Quarrying Labourer — career analysis · Netherlands
 
-**职业代码：9311 – Mining and Quarrying Labourer。**
+**Occupation code: 9311 (ISCO08)**
 
-Mining and Quarrying Labourers perform manual tasks in extracting minerals, stone, and other materials, including loading and transporting.
+Mining and quarrying laborers assist in extracting, loading, and transporting ores and stone; it is a physically intensive occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 1-2年 | $2,000~$6,000（VMBO或MBO相关课程，学费较低） |
+| Secondary vocational education | 1-2 years | $2,000~$6,000 (VMBO or MBO related courses, low tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 通常雇主提供在职培训 |
-| VCA安全证书 | 荷兰安全协会 | 可选 | 部分雇主要求基本安全认证 |
+| No mandatory certificate | None | Optional | Usually employer provides on-the-job training. |
+| VCA safety certificate | Dutch Safety Association | Optional | Some employers require basic security certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。荷兰采矿与采石行业规模较小，受环保政策影响，就业机会有限。预计未来十年需求平稳但偏低，依赖天然气开采和砂石采集。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. The Dutch mining and quarrying industry is relatively small, affected by environmental policies, with limited employment opportunities. Demand is expected to be stable but low over the next decade, relying on natural gas extraction and sand and gravel collection.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，基于行业平均水平 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含加班补贴 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含经验津贴 |
+| Median salary | $32,011 | Median salary (Official: CBS median hourly wage €16.2/hour × 1976h annualized, BRC group 0781 Hulpkrachten bouw en industrie; P25–P75 €30,035–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary based on industry averages |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual salary before tax, including overtime allowances |
+| Senior (7+ years) | $32,000~$40,000 | Annual salary before tax, including experience allowances |
+| average salary | $30,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 此类岗位晋升路径有限，通常可向操作工或班组长发展，但需额外培训和经验。多数劳工长期从事一线体力工作。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Physically demanding tasks in mining and quarrying (e.g., loading, transport) will be significantly reduced by automation systems, leading to a sharp decline in demand for these roles, though high-risk tasks like blasting still require human supervision.
+
+Career advancement for such roles is limited; typically, one can progress to operator or team leader but requires additional training and experience. Most workers remain in front-line manual jobs long-term.
+
+**Tasks most exposed to AI:**
+
+- Manual loading and unloading of ores and stone
+- Driving and dispatching of transport vehicles
+- Manual crushing and screening of ore
+- Regular inspections and record-keeping
+- Operation of simple tools (e.g., shovels, picks)
+
+**Where AI augments the role:**
+
+- AI-assisted blasting design and monitoring
+- Remote monitoring and troubleshooting of automated equipment
+- Data analysis optimizing mining routes and efficiency
+- Virtual reality training enhances safety and operational skills
+- Drone surveying and terrain modeling
+
+**Human moat:**
+
+- Safety judgment and emergency response in complex environments.
+- Flexible handling of unstructured tasks (e.g., equipment lag, abnormal conditions)
+- High-risk operations (e.g., blasting, underground rescue)
+- Teamwork and communication skills
+- Experience and knowledge of local geological conditions
+
+**Skills to build:**
+
+- Automated equipment operation and maintenance
+- Basic programming and automation system debugging
+- Data Analysis and Reporting Tools (e.g., Excel, Google Sheets)
+- Safety and emergency management certification
+- Drone operation and image analysis.
+- Virtual reality simulation training
+
+**Key growth areas:**
 
 - low demand
 - manual labor
@@ -60,67 +96,66 @@ Mining and Quarrying Labourers perform manual tasks in extracting minerals, ston
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于高技能移民，但劳工类职位通常不符合薪资门槛 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高薪，不适用于体力劳工 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 仅限荷兰毕业的留学生，可自由工作一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Suitable for high-skilled migration, but labor-type positions usually do not meet the salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | High salary demands, not applicable for manual labor. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Only for international graduates from the Netherlands, allowing one year of free work |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining and Quarrying Labourer？**
-- 体力好、能适应户外和恶劣天气的人
-- 不介意重复性体力劳动的人
-
-**谁不适合学Mining and Quarrying Labourer？**
-- 希望高薪或职业发展的人
-- 对工作环境安全要求极高的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness who can adapt to outdoor and harsh weather conditions
+- Those who do not mind repetitive physical labor
+
+**Who is not suited**
+- Individuals seeking high salary or career advancement
+- For those who demand extremely high workplace safety standards
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for Mining and Quarrying Labourers?**
+A: Entry-level annual salary around €22,000–€28,000, senior up to €40,000, below the Dutch average wage
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: This occupation does not fall under high-skilled migration categories and is not eligible for an EU Blue Card or high-skilled migration visa; it may only be possible through family reunification or other non-work visas.
+
+**Q: What is the employment outlook for this occupation in the Netherlands?**
+A: Due to environmental policies and industry contraction, job opportunities are limited; demand is stable but very low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mining and Quarrying Labourer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining and quarrying labourers?**
-答：Entry-level annual salary ranges from €22,000 to €28,000, senior up to €40,000, below Dutch average.
-
-**问：Can non-EU nationals immigrate to the Netherlands through this occupation?**
-答：This occupation does not qualify for highly skilled migration or EU Blue Card; only possible via family reunification or other non-work visas.
-
-**问：What is the job outlook for this occupation in the Netherlands?**
-答：Due to environmental policies and industry contraction, job opportunities are limited with very low but stable demand.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

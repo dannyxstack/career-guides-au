@@ -1,62 +1,98 @@
-# Vocational Training Teacher (Specific Subjects)（Vocational Training Teacher (Specific Subjects)）职业分析 · ES
+# Vocational Training Teacher (Specific Subjects) — career analysis · Spain
 
-**职业代码：2220 – Vocational Training Teacher (Specific Subjects)。**
+**Occupation code: 2220 (CNO)**
 
-Teaches specific vocational subjects (e.g., mechanics, electronics, nursing) in Spain's vocational training system, combining theory and practice to develop students' job skills.
+In Spain's vocational training system, specific specialized subjects (such as mechanical, electrical, nursing, etc.) are taught, combining theory and practice to cultivate students' professional skills.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$3,000（公立大学学费，每年约1000-3000欧元） |
-| 硕士（Máster） | 1年 | $1,500~$4,000（教学硕士（Máster de Profesorado），公立大学费用） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Tuition at public universities is about 1,000–3,000 euros per year) |
+| Máster | 1 year | $1,500~$4,000 (Master of Teaching (Máster de Profesorado), public university fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（Grado） | 西班牙大学 | 必备 | 相关专业本科学位 |
-| 教学硕士（Máster de Profesorado） | 西班牙大学 | 必备 | 完成教育学和教学法培训 |
-| 官方硕士（Máster Oficial） | 西班牙大学 | 可选 | 某些高级FP教师可能需要 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证，过程约6-12个月 |
+| University Degree (Grado) | Spanish University | Required | Relevant undergraduate degree |
+| Master of Teaching (Máster de Profesorado) | Spanish University | Required | Complete training in pedagogy and pedagogy |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees require authentication, and the process takes about 6-12 months |
+| Official Master's (Máster Oficial) | Spanish University | Optional | Some advanced FP teachers may need it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。西班牙大力推广职业教育，FP教师需求稳定增长，尤其在技术领域和紧缺行业。老龄化教师队伍带来替换需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Spain is vigorously promoting vocational education, and the demand for FP teachers is steadily growing, especially in technical fields and scarce industries. An aging teaching workforce brings a replacement demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，公立学校按等级 |
-| 中级（4-10年） | $32,000~$40,000 | 税前年薪，含资历补贴 |
-| 高级（10年以上） | $40,000~$50,000 | 税前年薪，含职位补贴或管理职 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, public schools are based on grade |
+| Mid-level (4-10 years). | $32,000~$40,000 | Pre-tax annual salary, including seniority allowances |
+| Senior (10+ years) | $40,000~$50,000 | Pre-tax annual salary, including position allowance or management positions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从FP教师晋升为系主任、教学协调员，或进入教育管理部门。也可通过攻读博士学位转向大学教学或教育研究。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
+
+You can be promoted from FP teacher to department head, teaching coordinator, or enter the education administration department. Alternatively, pursuing a PhD can lead to university teaching or educational research.
+
+**Tasks most exposed to AI:**
+
+- Producing standardised training courseware and handouts
+- Teach foundational theory and process knowledge
+- Grading objective tests and recording attendance
+- Organizing training feedback and collating training data
+- Design simple training evaluation questionnaires
+
+**Where AI augments the role:**
+
+- Using AI to generate personalized training plans and learning paths
+- Using AI simulators to create immersive skills training scenarios
+- Real-time analysis of learner data to adjust teaching strategies
+- Automatically translate and cross-culturally adapt training content
+- One-on-one tutoring with AI-assisted tutors
+
+**Human moat:**
+
+- On-site atmosphere activation and emotional connection with trainees
+- Hands-on guidance and immediate error correction for complex skills.
+- Handling classroom emergencies and special student needs
+- Case-based teaching combined with industry practical experience
+- Building long-term trust relationships and career development coaching
+
+**Skills to build:**
+
+- AI course development tools (e.g., Articulate Storyline, Adobe Captivate)
+- Learning Management System (LMS) advanced configuration and data analysis
+- Virtual Reality (VR)/Augmented Reality (AR) Training Design
+- Data-driven instructional design (learning analytics)
+- Cross-cultural communication and remote training skills
+- Industry certification standards and compliance knowledge
+
+**Key growth areas:**
 
 - Vocational education reform
 - Teacher shortage
@@ -65,69 +101,68 @@ Teaches specific vocational subjects (e.g., mechanics, electronics, nursing) in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需高学历和高于1.5倍平均工资的工作合同。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高级专业人员，流程较快，需大学学历和符合工资要求的工作合同。 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 常规受雇工作居留，需企业担保，通过紧缺职业或劳动力市场测试。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring higher education and a job contract with salary 1.5 times the average wage. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For senior professionals, the process is relatively fast, requiring a university degree and a work contract that meets salary requirements. |
+| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment-based residence requires employer sponsorship, through a shortage occupation or a labor market test. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vocational Training Teacher (Specific Subjects)？**
-- 热爱教学且拥有某个技术或专业领域知识的人
-- 寻求稳定职业和公立教育系统工作的人
-- 愿意持续学习和更新职业技能的人
-
-**谁不适合学Vocational Training Teacher (Specific Subjects)？**
-- 不喜欢与学生互动或缺乏耐心的人
-- 不愿接受学历认证和额外培训的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who loves teaching and possesses knowledge in a particular technical or professional field
+- Those seeking stable careers and work in the public education system
+- People who are willing to continuously learn and update their professional skills
+
+**Who is not suited**
+- Dislikes interacting with students or lacks patience
+- Those unwilling to undergo academic credentials and additional training
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for vocational training teachers in Spain?**
+A: Public FP teachers are paid by grade and seniority; junior approx. 25,000-32,000 euros/year, senior up to 40,000-50,000 euros/year. Private schools may pay slightly less.
+
+**Q: How can foreign teachers immigrate to Spain to work as vocational training teachers?**
+A: You must complete academic certification (homologación), obtain a Master of Teaching (Máster de Profesorado), and apply for a work visa through a shortage occupation or enterprise sponsorship. The EU Blue Card is suitable for highly educated and high-paying individuals.
+
+**Q: What educational background is required to become a vocational training teacher?**
+A: A relevant bachelor's degree (Grado) and a Master of Teaching (Máster de Profesorado) are required. Certain fields may require additional master's degrees or work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Vocational Training Teacher (Specific Subjects)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of vocational training teachers in Spain?**
-答：Public FP teachers' salaries are based on rank and seniority, ranging from €25,000-32,000 for entry-level to €40,000-50,000 for senior. Private schools may pay slightly less.
-
-**问：How can foreign teachers migrate to Spain to work as vocational training teachers?**
-答：They need to obtain homologation of their degree, complete the Máster de Profesorado, and apply for a work visa through shortage occupation or employer sponsorship. EU Blue Card is for highly qualified with higher salary.
-
-**问：What educational background is needed to become a vocational training teacher?**
-答：A bachelor's degree (Grado) in a relevant field and the teaching master's (Máster de Profesorado) are required. Some fields may require additional master's or work experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

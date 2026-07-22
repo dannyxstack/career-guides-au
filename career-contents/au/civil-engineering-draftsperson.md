@@ -1,60 +1,96 @@
-# Civil Engineering Draftsperson（Civil Engineering Draftsperson）职业分析 · 澳大利亚
+# Civil Engineering Draftsperson — career analysis · Australia
 
-**职业代码：312211 – Civil Engineering Draftsperson。**
+**Occupation code: 312211 (ANZSCO)**
 
-Civil Engineering Draftspersons create detailed technical drawings and construction plans for infrastructure projects such as roads, bridges, and water systems using CAD software, serving as a key link between engineers and construction teams.
+Civil engineering drafters use CAD software to create detailed technical drawings and construction plans for infrastructure projects such as roads, bridges and water supply/drainage, serving as a key link between engineering teams and on-site construction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma of Civil Engineering | 2年 | $15,000~$30,000（公立TAFE学费约1.5-3万澳元；私立院校可能更高） |
-| Advanced Diploma of Civil Engineering | 3年 | $25,000~$45,000（包含更多设计与管理课程，学费因院校而异） |
+| Diploma of Civil Engineering | 2 years | $15,000~$30,000 (Public TAFE tuition approx. AUD 15,000-30,000; private institutions may be higher.) |
+| Advanced Diploma of Civil Engineering | 3 years | $25,000~$45,000 (Includes more design and management courses; tuition varies by institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Diploma of Civil Engineering | TAFE或注册培训机构 (RTO) | 必备 | 必备学历，课程涵盖CAD、结构原理、材料等 |
-| CPC50220 Diploma of Civil Construction Design | TAFE | 可选 | 更侧重设计应用，受雇主认可 |
-| 技能评估 (VETASSESS或Engineers Australia) | VETASSESS / Engineers Australia | 可选 | 技术移民要求，评估为ANZSCO 312211 |
-| White Card (通用建筑行业安全卡) | SafeWork NSW等州机构 | 必备 | 上工地必备，短期课程 |
+| Diploma of Civil Engineering | TAFE or Registered Training Organisation (RTO) | Required | Essential qualifications, covering CAD, structural principles, materials, etc. |
+| White Card (General Construction Induction Card) | State agencies such as SafeWork NSW | Required | Essential for construction sites, short course |
+| CPC50220 Diploma of Civil Construction Design | TAFE | Optional | More focused on design application, recognized by employers |
+| Skills Assessment (VETASSESS or Engineers Australia) | VETASSESS / Engineers Australia | Optional | Skilled migration requirement: assessed as ANZSCO 312211 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 14,700。随着澳大利亚基础设施投资持续增长（如公路、铁路和水利项目），土木工程绘图员需求保持稳定。预计未来五年就业增长中等，尤其在偏远和城郊地区机会较多。
+**Job demand: very high (★★★★½).** National workforce approx. 14,700. With ongoing infrastructure investment in Australia (e.g., road, rail, and water projects), demand for civil engineering drafters remains stable. Employment growth is expected to be moderate over the next five years, with more opportunities in remote and regional areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪约5.5-7万澳元，视地区和公司规模 |
-| 中级（3-7年） | $70,000~$90,000 | 经验丰富后可至7-9万澳元 |
-| 高级/团队领导（7年以上） | $90,000~$120,000 | 高级职位可达9-12万澳元，包括BIM经理等 |
+| Median salary | $89,960 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary approx. AUD 55,000-70,000, depending on region and company size. |
+| Mid-level (3–7 years) | $70,000~$90,000 | With experience, can reach 70,000-90,000 AUD |
+| Senior/Team Leader (7+ years) | $90,000~$120,000 | Senior roles can reach AUD 90,000-120,000, including BIM Manager etc. |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级绘图员起步，积累经验后可晋升为高级绘图员或设计团队负责人；部分人进一步学习取得工程学位后转为土木工程师，或专注于BIM协调、项目管理等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
+
+Starting as a junior drafter, gaining experience to advance to senior drafter or design team leader; some further study to obtain an engineering degree and transition to civil engineer, or specialize in BIM coordination, project management, etc.
+
+**Tasks most exposed to AI:**
+
+- Draw standard architectural floor plans, elevations, and sections according to engineer requirements
+- Generate material lists, annotate dimensions and notes, and other repetitive documentation
+- Check consistency between drawings and preliminary compliance
+- Convert hand-drawn sketches into CAD digital drawings
+- Perform routine pipeline and routing layout and conflict detection
+
+**Where AI augments the role:**
+
+- Use AI generative design to quickly explore structural optimization solutions and select the best options
+- Automatically generate construction progress simulations and collision detection reports via BIM and AI
+- Collaborates with AI for automatic specification review, improving drawing compliance.
+- Uses AI to assist in estimating material costs and green building performance
+- Quickly generate preliminary drawing skeletons from design specifications using natural language interfaces
+
+**Human moat:**
+
+- Understanding building codes and the deeper intent and exception clauses of local regulations
+- Make creative design judgments on non-standard, complex, or heritage buildings
+- Cross-disciplinary coordination and problem-solving with architects, engineers, and contractors
+- Field survey, handling abnormal conditions, and application decisions for special materials
+- Comprehensive assessment of aesthetic, functional, and constructability aspects of design proposals
+
+**Skills to build:**
+
+- Proficient in BIM software (e.g., Revit) for automated modeling and family creation
+- Learn generative design tools (e.g., Autodesk Generative Design)
+- Enhance ability to operate AI compliance review tools (e.g., Autodesk Insight)
+- Develop data analysis skills for cost estimation and performance simulation
+- Learn basic programming (Python/Ruby) to customize workflows and plugins
+- Enhance communication, project coordination, and on-site problem-solving skills
+
+**Key growth areas:**
 
 - Infrastructure boom
 - BIM adoption
@@ -63,69 +99,68 @@ Civil Engineering Draftspersons create detailed technical drawings and construct
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 190（Skilled Nominated Visa (State Sponsored)） | 州担保技术移民，需在CSOL上且获得州提名，职业需求较高 |
-| Subclass 482（Skills in Demand Visa (TSS)） | 雇主担保临时签证，需在CSOL上，工作3年后可转186 |
-| Subclass 186（Employer Nomination Scheme (ENS)） | 雇主担保永居签证，直接申请或从482转 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保/亲属担保，需在CSOL上，转191永居 |
+| Subclass 190 (Skilled Nominated Visa (State Sponsored)) | State-sponsored skilled migration, requires occupation on CSOL and state nomination, with high demand |
+| Subclass 482 (Skills in Demand Visa (TSS)) | Employer-sponsored temporary visa, must be on CSOL, can transfer to 186 after 3 years of work |
+| Subclass 186 (Employer Nomination Scheme (ENS)) | Employer-sponsored permanent residence visa, apply directly or switch from 482 |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Remote area state/territory nomination or family sponsorship, must be on CSOL, leading to 191 permanent residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering Draftsperson？**
-- 喜欢工程图纸和CAD设计的技术型人才
-- 注重细节、有条理，能理解工程规范
-- 希望在基础设施建设领域获得稳定就业和移民机会者
-
-**谁不适合学Civil Engineering Draftsperson？**
-- 不喜欢长时间面对电脑屏幕和重复性绘图工作
-- 希望快速晋升到高薪管理岗位，而非技术岗位
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technically-minded individuals who enjoy engineering drawings and CAD design.
+- Detail-oriented and organized, able to understand engineering specifications
+- For those seeking stable employment and immigration opportunities in infrastructure construction
+
+**Who is not suited**
+- Dislike long hours in front of a computer screen and repetitive drafting work
+- Prefer rapid promotion to high-paying management roles rather than technical roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a civil engineering drafter?**
+A: Entry-level about AUD 55,000-70,000, mid-level 70,000-90,000, senior up to 90,000-120,000. Salary varies by region (remote areas may be higher), industry (mining projects pay more), and experience.
+
+**Q: What are the requirements for migration to Australia in this occupation?**
+A: Must be on the CSOL, pass VETASSESS skills assessment (Diploma-level qualification + 1 year experience), meet EOI points requirement, eligible for visas 189/190/491/482 etc.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Drafters can advance to senior drafter, design team leader, or BIM coordinator; they can also study for an engineering degree to become a civil engineer, or move into project management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil Engineering Draftsperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Civil Engineering Draftsperson?**
-答：Entry level AUD 55k-70k, mid-level AUD 70k-90k, senior up to AUD 90k-120k. Pay varies by region, industry (mining pays more), and experience.
-
-**问：What are the requirements to migrate as a Civil Engineering Draftsperson?**
-答：Must be on CSOL, obtain positive skills assessment from VETASSESS (Diploma + 1 year work), meet EOI points, and apply for visas like 189/190/491/482.
-
-**问：Is there career progression for a Civil Engineering Draftsperson?**
-答：Yes, to senior drafter, design team lead, BIM coordinator, or transition to civil engineer after further study, or move into project management.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

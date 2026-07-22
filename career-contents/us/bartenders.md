@@ -1,61 +1,92 @@
-# Bartenders（Bartenders）职业分析 · 美国
+# Bartenders — career analysis · United States
 
-**职业代码：35-3011 – Bartenders。**
+**Occupation code: 35-3011 (SOC)**
 
-Bartenders mix and serve drinks to patrons, either directly or through waitstaff. They need knowledge of drink recipes, mixing techniques, and strong customer interaction skills.
+Bartenders mix and serve alcoholic beverages to customers, sometimes through waitstaff. They need to know drink recipes, master mixing techniques, and interact effectively with guests.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 短期培训课程 | 1-6个月 | $500~$2,000（调酒学校或社区课程） |
-| 在线调酒课程 | 自定进度 | $50~$300（低成本入门） |
+| Short-term training course | 1-6 months | $500~$2,000 (Bartending school or community courses) |
+| Online bartending course | Self-paced | $50~$300 (Low-cost entry) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 调酒师证书 | 美国调酒协会(USBG)等 | 可选 | 非强制但提升竞争力 |
-| 酒精饮品服务培训(如TIPS、ServSafe酒精) | TIPS、ServSafe等 | 必备 | 许多州要求持有 |
-| 当地酒类销售许可证 | 所在州或地方政府 | 必备 | 部分州需要年满21岁并完成申请 |
+| Alcohol beverage service training (e.g. TIPS, ServSafe Alcohol) | TIPS, ServSafe, etc. | Required | Many states require holding |
+| Local alcohol sales license | State or local government | Required | Some states require being at least 21 years old and completing an application. |
+| Bartender certificate | United States Bartenders' Guild (USBG) etc. | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 600,000。美国调酒师的就业预计从2022年到2032年增长约4%，与所有职业平均水平相当。每年约有数万个职位空缺，许多来自替换退休工人。餐饮行业持续发展，但自动化可能减少部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 600,000. Employment of bartenders in the US is projected to grow about 4% from 2022 to 2032, about as fast as the average for all occupations. Several thousand job openings are projected each year, many from replacing workers who retire. The food service industry continues to grow, but automation may reduce some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$32,000 | 包括小费，收入波动大 |
-| 中级（3-7年） | $30,000~$45,000 | 含小费，可能还有底薪 |
-| 高级（7年以上） | $40,000~$60,000 | 含小费，高端场所更高 |
+| Median salary | $34,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$32,000 | Includes tips, income fluctuates |
+| Mid-level (3–7 years) | $30,000~$45,000 | Includes tips, may also have a base salary |
+| Senior (7+ years) | $40,000~$60,000 | Includes tips, higher at upscale venues |
+| average salary | $40,790 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 调酒师通常从初级调酒师或酒吧助手起步，积累经验后可晋升为高级调酒师、酒吧主管或酒吧经理。一些调酒师可能转向调酒学校讲师、饮品顾问或品牌大使等角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for bartenders is clearly divided: recipe lookup and inventory management can be automated by AI, but interpersonal interaction and creative cocktail making reinforce human value, resulting in mixed impact overall.
+
+Bartenders usually start as junior bartenders or bar assistants, gain experience, and can advance to senior bartender, bar supervisor, or bar manager. Some may move to roles such as bartending school instructor, beverage consultant, or brand ambassador.
+
+**Tasks most exposed to AI:**
+
+- AI recipe system recommends drinks based on inventory and generates preparation steps
+- Self-service kiosks and tablet systems replace some order entry.
+- Inventory management system automatically forecasts usage and generates purchase orders
+- Beverage robot automatically mixes standard cocktails
+
+**Where AI augments the role:**
+
+- AI analyzes customer preference data in real time to assist in recommending personalized specialty drinks
+- AR/VR tools can simulate beverage effects, enhancing creative development
+- Voice assistants handle common inquiries during busy periods, freeing up staff
+
+**Human moat:**
+
+- On-site guest interaction, spontaneous communication, and emotional resonance
+- Quickly adjust flavors or create exclusive drinks based on customer feedback
+- Experience in handling complex social scenarios such as intoxicated patrons
+- Stage presence to host bar performances and create atmosphere
+
+**Skills to build:**
+
+- Learn to use bar management systems and inventory AI tools.
+- Mastering data-driven customer preference analysis basics
+- Develop impromptu communication and customer psychology knowledge
+- Enhancing cocktail creativity and personalized service skills
+- Take elective tourism management courses to enhance overall operational perspective
+
+**Key growth areas:**
 
 - Hospitality growth
 - Craft cocktail trend
@@ -64,66 +95,68 @@ Bartenders mix and serve drinks to patrons, either directly or through waitstaff
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 调酒师通常不符合专业职业要求，H-1B不适用。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅限极少数有杰出成就的调酒师（如国际比赛获奖）。 |
-| Subclass Green Card (PERM)（EB-2/EB-3 Green Card） | 调酒师职业通常无法通过PERM劳工证获得绿卡，因为技能要求低。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Bartenders usually do not meet professional occupation requirements, H-1B is not applicable. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only for extremely few bartenders with outstanding achievements (e.g., winning international competitions). |
+| Subclass Green Card (PERM) (EB-2/EB-3 Green Card) | Bartender occupation typically cannot get a green card through PERM labor certification due to low skill requirements. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bartenders？**
-- 喜欢社交、与人互动的人
-- 能在快节奏环境中工作的人
-- 对饮品和调酒有热情的人
+**Who is suited**
+- People who enjoy socializing and interacting with others
+- People who can work in a fast-paced environment
+- People passionate about beverages and bartending
 
-**谁不适合学Bartenders？**
-- 不喜欢夜晚和周末工作的人
-- 无法长期站立或负重的人
+**Who is not suited**
+- People who dislike working nights and weekends
+- People who cannot stand or carry weight for long periods.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Do bartenders' earnings mainly come from tips?**
+A: Yes, a large portion of a bartender's income comes from tips; base salary is usually low. In busy bars or high-end venues, tips may exceed base salary.
+
+**Q: Can a bartender immigrate to the US through a work visa?**
+A: Usually difficult, as the bartender occupation does not meet H-1B specialty occupation requirements and has low skill demands; employers struggle to prove inability to find US workers via PERM labor certification. Only exceptional bartenders may qualify for O-1 visa.
+
+**Q: Does becoming a bartender require formal education?**
+A: No university degree required, but many bartenders learn skills through short training courses or online courses. Some employers provide on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Bartenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do bartenders earn most of their income from tips?**
-答：Yes, a large portion of a bartender's income comes from tips, with base wages often low. In busy bars or high-end venues, tips can exceed base pay.
-
-**问：Can bartenders immigrate to the US via work visa?**
-答：Generally difficult, as bartending does not meet H-1B specialty occupation requirements, and employers struggle to prove lack of available US workers for PERM. Only exceptionally distinguished bartenders may qualify for O-1 visa.
-
-**问：Is formal education required to become a bartender?**
-答：No college degree is required, but many bartenders learn through short training courses or online programs. Some employers provide on-the-job training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

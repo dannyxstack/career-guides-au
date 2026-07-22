@@ -1,60 +1,95 @@
-# Fishing and Hunting Workers（Fishing and Hunting Workers）职业分析 · 美国
+# Fishing and Hunting Workers — career analysis · United States
 
-**职业代码：45-3031 – Fishing and Hunting Workers。**
+**Occupation code: 45-3031 (SOC)**
 
-Hunt, trap, catch, or gather wild animals or aquatic animals and plants using nets, traps, or other equipment. May haul catch onto vessels. Includes aquaculture laborers.
+Captures and collects wild fish, aquatic animals or plants using nets, traps, etc., or assists in hauling nets and handling catch on fishing vessels. Includes aquaculture farm laborers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 职业培训/学徒 | 1-2年 | $2,000~$5,000（社区学院或行业协会培训） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| Vocational training/apprenticeship | 1-2 years | $2,000~$5,000 (Community college or industry association training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| USCG商船海员证书（MMC） | 美国海岸警卫队 | 必备 | 若在商业渔船上工作需持有，含基本安全培训 |
-| 船长执照（Operator of Uninspected Passenger Vessel） | USCG | 可选 | 晋升船长或经营私人渔船时需考取 |
+| USCG Merchant Mariner Credential (MMC) | United States Coast Guard | Required | Required if working on a commercial fishing vessel, includes basic safety training |
+| Captain's license (Operator of Uninspected Passenger Vessel) | USCG | Optional | Required when advancing to captain or operating private fishing vessels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,800。美国劳工统计局预测2023-2033年该职业就业将下降9%，主要受渔业资源萎缩、自动化捕捞及严格捕捞配额影响。近海渔业机会减少，但水产养殖劳工需求略有增长。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,800. The US Bureau of Labor Statistics projects a 9% decline in employment for this occupation from 2023 to 2033, mainly due to shrinking fishery resources, automated fishing, and strict fishing quotas. Near-shore fishing opportunities are decreasing, but labor demand in aquaculture is slightly increasing.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 多为季节性兼职，收入波动大 |
-| 中级（3-7年） | $35,000~$50,000 | 全职稳定，含提成 |
-| 高级（7年以上/船长） | $50,000~$70,000 | 船长或领队，收入与渔获挂钩 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Mostly seasonal part-time, income fluctuates greatly |
+| Mid-level (3–7 years) | $35,000~$50,000 | Full-time stable, includes commission |
+| Senior (7+ years/Ship Captain) | $50,000~$70,000 | Captain or skipper, income linked to catch |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从普通渔工可晋升为渔船船长或捕捞队长，需积累海上经验并取得船长执照。部分经验者可转向水产养殖管理、渔业巡查或设备维护岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fishing and hunting workers are at high risk of automation replacement, as AI and automation technology (e.g., drones, autonomous fishing vessels, smart nets) can efficiently complete fishing and monitoring tasks, significantly reducing job demand.
+
+General fishery workers can advance to fishing vessel captain or fishing team leader, requiring sea experience and a captain's license. Some experienced workers may transition to aquaculture management, fishery inspection, or equipment maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Manual operation using fishing nets, traps, etc.
+- Assist with repetitive tasks such as hauling nets and handling catches on a fishing vessel
+- Monitor fish migration activities by visual observation or simple instruments
+- Manual data recording of catch species, quantity, and size
+- Routine tasks in aquaculture farms such as feeding and cleaning
+
+**Where AI augments the role:**
+
+- Uses AI to predict fish migration paths and densities, optimizing fishing locations and times
+- Remotely monitor fish farms and equipment using drones or underwater robots
+- Optimize fish processing through data analysis and machine learning to reduce waste
+- Improve catch grading and packaging efficiency with automated sorting systems.
+- Using AI for resource sustainability assessment and compliance report generation.
+
+**Human moat:**
+
+- Handle emergencies in adverse weather or breakdowns (e.g., equipment repair, rescue)
+- Intuitive judgment and response to complex marine environments (e.g., tides, reefs)
+- Perform fine manual operations, such as live capture to avoid injury
+- Decision-making responsibility for complying with environmental regulations, such as releasing protected species.
+- Communication and collaboration with fishing communities and regulatory agencies
+
+**Skills to build:**
+
+- Unmanned vessel/underwater robot operation and maintenance
+- Fisheries IoT and sensor data analysis
+- Use of AI-assisted decision-making systems (e.g., fish school prediction software)
+- Basic programming and automation equipment debugging
+- Knowledge of environmental regulations and sustainable fisheries certification.
+- Multi-skilled (e.g., mechanical repair + data analysis)
+
+**Key growth areas:**
 
 - Automation
 - Quota reduction
@@ -63,62 +98,64 @@ Hunt, trap, catch, or gather wild animals or aquatic animals and plants using ne
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 可用于季节性渔工，但名额有限，雇主需证明劳工短缺 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 极少使用，因职业非技术类且无长期需求 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Available for seasonal fish workers but limited slots; employers must demonstrate labor shortage |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Rarely used, as the occupation is non-technical and has no long-term need |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fishing and Hunting Workers？**
-- 热爱户外和水上作业、不惧恶劣天气
-- 能承受体力劳动和长时间海上工作
-- 愿意接受季节性、不稳定收入的人群
+**Who is suited**
+- Love outdoor and water work, not afraid of bad weather
+- Able to withstand physical labor and long periods at sea
+- Individuals willing to accept seasonal, unstable income
 
-**谁不适合学Fishing and Hunting Workers？**
-- 寻求稳定收入和固定工时者
-- 对海洋环境不适应或易晕船者
+**Who is not suited**
+- Those seeking stable income and fixed hours
+- Unsuitable for marine environments or prone to seasickness
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a fishing worker?**
+A: According to BLS 2023 data, median hourly wage is about $16.50, annual salary about $34,320, but income is highly variable due to seasonality and catch volume.
+
+**Q: Are there pathways for fishing and hunting workers to immigrate to the US through skilled migration?**
+A: Almost none. This occupation is not under skilled migration; only short-term H-2B seasonal visa, with tight quotas, and conversion to green card is extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Fishing and Hunting Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for fishing and hunting workers?**
-答：According to BLS 2023, median hourly wage is about $16.50, annual salary around $34,320, but heavily influenced by season and catch.
-
-**问：Is there a skilled migration path for fishing and hunting workers to the US?**
-答：Almost none. This is not a skilled occupation. Only H-2B seasonal visa is possible, but quota limited and green card extremely rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

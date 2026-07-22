@@ -1,59 +1,93 @@
-# Appraisers and Assessors of Real Estate（Appraisers and Assessors of Real Estate）职业分析 · 美国
+# Appraisers and Assessors of Real Estate — career analysis · United States
 
-**职业代码：13-2023 – Appraisers and Assessors of Real Estate。**
+**Occupation code: 13-2023 (SOC)**
 
-Appraise real estate, including residential, commercial, and industrial properties, for purchase, sale, lending, taxation, or insurance purposes. May assess taxes according to prescribed schedules.
+Assess real estate value, including residential, commercial, and industrial properties, for sale, loan, tax, or insurance purposes. May assess property tax based on statutory rates.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（学费因学校类型（公立/私立）和州内/外差异大） |
-| 副学士学位或相关课程 | 2年 | $10,000~$30,000（部分社区学院提供相关课程，成本较低） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Tuition varies greatly by school type (public/private) and in-state/out-of-state status.) |
+| Associate degree or related coursework | 2 years | $10,000~$30,000 (Some community colleges offer related courses at low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州估价师执照 | 各州房地产评估委员会 | 必备 | 多数州要求完成指定课程、工作经验并通过考试；分实习级、有证住宅级、有证一般级等 |
-| 学士学位 | 认可的高等教育机构 | 必备 | 通常需要，专业不限，但商科、金融、房地产专业优先 |
-| 继续教育 | 各州评估委员会 | 必备 | 维持执照需定期完成继续教育学分 |
+| State appraiser license. | State real estate appraisal boards | Required | Most states require completing designated courses, work experience, and passing an exam; levels include trainee, licensed residential, licensed general, etc. |
+| Bachelor's degree | Accredited higher education institution | Required | Typically required, but any major is acceptable, though business, finance, or real estate majors are preferred |
+| Continuing education | State assessment boards | Required | Maintaining a license requires periodic completion of continuing education credits |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 76,000。美国劳工统计局预计2023-2033年就业增长约5%，与所有职业平均水平相当。房地产交易和贷款需求推动岗位稳定，但经济波动可能影响短期需求。
+**Job demand: medium (★★★☆☆).** National workforce approx. 76,000. U.S. Bureau of Labor Statistics projects about 5% employment growth from 2023-2033, about as fast as average. Real estate transactions and loan demand drive stable positions, but economic fluctuations may affect short-term demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 实习或助理级，需在持证估价师指导下工作 |
-| 中级（3-7年） | $65,000~$95,000 | 独立完成常规住宅评估，持有有证住宅级或一般级执照 |
-| 高级（7年以上） | $95,000~$130,000 | 资深估价师，负责复杂商业/工业地产评估，或担任管理职位 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$65,000 | Intern or assistant level, required to work under a licensed appraiser |
+| Mid-level (3–7 years) | $65,000~$95,000 | Independently complete routine residential valuations, holding a licensed residential or general level license |
+| Senior (7+ years) | $95,000~$130,000 | Senior appraiser, responsible for complex commercial/industrial property valuations, or in management positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级估价师通常从助理做起，积累经验后可成为独立估价师或高级评估师。也可晋升为评估公司经理、首席估价师，或转向房地产投资、资产管理等领域。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Land and property valuers' tasks heavily rely on site inspections and comprehensive data judgement; automation can handle data collection and simple model analysis, but core valuation, market insight, and legal compliance still require human professional judgement. Entry-level positions are slightly compressed due to basic automation, but AI-enhanced senior roles become more efficient.
+
+Junior valuers typically start as assistants and with experience can become independent valuers or senior assessors. They may also advance to manager of a valuation firm, chief valuer, or move into real estate investment, asset management, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically scrape comparable sales case data from public databases
+- Generating preliminary valuation report drafts (template-based)
+- Automatically adjust model parameters based on historical data for basic valuation
+- Regularly monitoring market trends and automatically generating market briefs
+
+**Where AI augments the role:**
+
+- AI providing real-time market data and trend predictions to aid accurate valuation
+- Automated documentation and compliance checks to reduce manual errors
+- Enhancing report visualization capabilities for client communication
+- Support rapid scenario simulation (e.g., impact of interest rate changes on housing prices)
+- Integrate geographic information (GIS) with AI analysis to improve location assessment accuracy
+
+**Human moat:**
+
+- Deep insights into non-quantitative factors of the local property market (e.g., community reputation, future plans)
+- Customer negotiation and trust-building skills
+- Interpretation and judgment of complex property boundaries and legal clauses
+- Responsibility attribution and professional ethics decisions in valuation reports
+- On-site visual inspection for building defects and subtle area changes
+
+**Skills to build:**
+
+- Data analysis and interpretation (Python/R, SQL)
+- Valuation automation software (e.g., ValEx, API integration)
+- GIS and spatial analysis tools (e.g., ArcGIS)
+- AI model interpretability (explainable AI report generation)
+- Advanced communication and client consultation skills
+- Continuously updated regulatory and compliance knowledge
+
+**Key growth areas:**
 
 - Real estate market fluctuations
 - Automated valuation models
@@ -62,69 +96,68 @@ Appraise real estate, including residential, commercial, and industrial properti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于大型房地产公司或评估机构，要求学士学位；每年配额有限，竞争激烈 |
-| Subclass EB-2（EB-2 Employment-Based Green Card (Advanced Degree)） | 需硕士以上学位或本科加5年经验，通过PERM劳工认证 |
-| Subclass EB-3（EB-3 Employment-Based Green Card (Skilled Workers)） | 适合本科或同等经验者，需PERM和雇主担保 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招聘到美国合格工人，流程耗时较长 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common in large real estate companies or appraisal firms, requiring a bachelor's degree; limited annual quotas, highly competitive |
+| Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | Requires a master's degree or higher, or a bachelor's plus 5 years experience, through PERM labor certification |
+| Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Workers)) | Suitable for bachelor's degree or equivalent experience, requires PERM and employer sponsorship. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate inability to hire qualified U.S. workers; process is time-consuming |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Appraisers and Assessors of Real Estate？**
-- 具备细致分析能力和数字敏感度，喜欢独立工作的人
-- 拥有金融、房地产或经济学背景，对房地产市场有浓厚兴趣
-- 愿意通过持续学习和考取执照提升专业水平
-
-**谁不适合学Appraisers and Assessors of Real Estate？**
-- 不愿意频繁出差或实地考察房产的人
-- 对计算机自动化评估模型感到不安或抗拒技术的使用者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone with strong analytical skills and numerical sensitivity, who enjoys working independently
+- Have a background in finance, real estate or economics with a keen interest in the real estate market
+- Willing to continuously learn and obtain licenses to improve professional level
+
+**Who is not suited**
+- Unwilling to travel frequently or conduct property site visits
+- Users who feel uneasy or resistant to technology regarding automated assessment models
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Real Estate Valuers?**
+A: According to the U.S. Bureau of Labor Statistics, the median annual salary in 2023 was about $61,000. Entry-level around $45,000, senior or management roles can reach over $130,000. Salaries vary by location, experience, license level, and assessment type (residential vs. commercial).
+
+**Q: How difficult is it for real estate appraisers to apply for U.S. skilled migration?**
+A: Quite difficult. H-1B visa requires a bachelor's degree or higher, and the employer must prove the position is specialized. Green card requires PERM labor certification to show no qualified US workers. Since demand for this occupation is moderate and many small employers are unwilling to sponsor immigration, large appraisal firms or real estate consulting companies are generally recommended.
+
+**Q: What are the requirements to become a property valuer?**
+A: Typically requires a bachelor's degree, then completing state-mandated training programs, a certain number of internship hours (e.g., 2000 hours), and passing state exams to obtain a license. Licenses have levels, beginners must start at intern level and gradually upgrade. Continuing education maintains license validity.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Appraisers and Assessors of Real Estate的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for real estate appraisers?**
-答：According to the BLS, the median annual wage in 2023 was about $61,000. Entry-level appraisers earn around $45,000, while senior or managerial roles can exceed $130,000. Salary varies by location, experience, license level, and type of appraisal (residential vs commercial).
-
-**问：How difficult is it for a real estate appraiser to apply for US skilled migration?**
-答：It is relatively difficult. H-1B requires at least a bachelor's degree and the job must qualify as a specialty occupation. Green cards require PERM labor certification. Since demand is moderate and many small employers do not sponsor, working for large appraisal firms or real estate consultancies is advisable.
-
-**问：What are the requirements to become a real estate appraiser?**
-答：Typically need a bachelor's degree, complete state-mandated courses, accumulate supervised experience (e.g., 2,000 hours), and pass a state exam. Licenses are tiered, starting from trainee to certified general. Continuing education is required to maintain the license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

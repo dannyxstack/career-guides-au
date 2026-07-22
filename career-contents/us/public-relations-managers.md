@@ -1,59 +1,95 @@
-# Public Relations Managers（Public Relations Managers）职业分析 · 美国
+# Public Relations Managers — career analysis · United States
 
-**职业代码：11-2032 – Public Relations Managers。**
+**Occupation code: 11-2032 (SOC)**
 
-Public relations managers plan, direct, or coordinate activities to create or maintain a favorable public image or raise issue awareness for their organization or client, managing media relations and brand reputation.
+Public relations managers plan, direct, and coordinate activities to create or maintain a favorable public image for organizations or clients, managing media relations, crisis communication, and brand reputation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$120,000（公立大学学费较低，私立较高） |
-| 硕士学位 | 2年 | $30,000~$80,000（MBA或传播学硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities have lower tuition, private universities higher) |
+| Master's degree | 2 years | $30,000~$80,000 (MBA or Master's in Communication) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公关认证 | PRSA | 可选 | APR认证，非强制但提升竞争力 |
-| 本科学位 | 大学 | 必备 | 公关、新闻、传播或相关领域 |
-| 管理经验 | 雇主 | 必备 | 通常需要5年以上公关经验 |
+| Bachelor's degree | University | Required | Public relations, journalism, communications, or related field |
+| Management experience | Employer | Required | Usually requires more than 5 years of public relations experience |
+| Public relations certification | PRSA | Optional | APR certification, not mandatory but enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 75,000。美国劳工统计局预计2023-2033年该职业就业增长约6%，快于平均水平。数字化转型和社交媒体重要性提升增加了对PR经理的需求，但竞争激烈。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 75,000. The US Bureau of Labor Statistics projects about 6% employment growth for this occupation from 2023 to 2033, faster than average. Digital transformation and increased social media importance boost demand for PR managers, but competition is strong.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$75,000 | 助理或协调员 |
-| 中级（3-7年） | $75,000~$120,000 | 经理 |
-| 高级（7年以上） | $120,000~$200,000 | 高级经理或总监 |
+| Median salary | $146,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$75,000 | Assistant or coordinator |
+| Mid-level (3–7 years) | $75,000~$120,000 | Manager |
+| Senior (7+ years) | $120,000~$200,000 | Senior manager or director |
+| average salary | $164,760 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从公关专员或媒体关系助理起步，积累经验后可升任高级经理、总监，进而晋升为副总裁或首席传播官( CCO )，也可转向咨询或创业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI has mixed effects on public relations manager roles: automation will handle administrative tasks like media monitoring and report generation, but strategic planning, crisis communication, and interpersonal relationships are amplified in value, requiring data analysis and AI tool proficiency to stay competitive.
+
+Usually start as a PR specialist or media relations assistant, gain experience to advance to senior manager, director, then to vice president or chief communications officer (CCO), or move to consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically monitor and aggregate media reports, social media mentions, and industry trends
+- Automatically generate routine PR reports, such as media coverage analysis and KPI dashboards
+- Handling common media inquiries via chatbots or automated response systems
+- Use AI to optimize press release drafts and basic content distribution
+- Automates administrative tasks like scheduling and meeting coordination
+
+**Where AI augments the role:**
+
+- Use AI to analyze large datasets to gauge public sentiment, identify key opinion leaders, and predict crises
+- Using AI to write personalised media invitations and customised communication strategies
+- Simulate effects of different PR strategies using AI to optimize campaign plans
+- Use AI tools to monitor crisis developments in real time and suggest response plans.
+- Efficiently manage multilingual PR campaigns using AI translation and localization tools
+
+**Human moat:**
+
+- Quick judgment and decision-making in crisis situations
+- Build and maintain key media relationships and trust.
+- Creative strategic planning and brand storytelling
+- Empathy and emotional intelligence for managing complex stakeholder relationships
+- Ethical judgment and compliance responsibility (e.g., information authenticity verification).
+
+**Skills to build:**
+
+- Data analysis and visualization tools (e.g., Tableau, Google Analytics)
+- AI-driven media monitoring platforms (e.g., Meltwater, Cision)
+- Natural Language Processing fundamentals and prompt engineering
+- Digital Marketing and Social Media Management (Including AI Content Generation Tools)
+- Crisis simulation and AI-assisted decision systems
+- Cross-cultural communication and application of multilingual AI tools.
+
+**Key growth areas:**
 
 - Digital media
 - Crisis management
@@ -62,69 +98,68 @@ Public relations managers plan, direct, or coordinate activities to create or ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需本科学位的职位，公司赞助，每年抽签 |
-| Subclass EB-2（EB-2 Advanced Degree） | 需硕士以上学位或特殊才能，通过PERM劳工认证 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国公司内部调动，需在海外公司工作一年以上 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在公关领域有杰出成就者 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to positions requiring a bachelor's degree, company sponsorship, annual lottery |
+| Subclass EB-2 (EB-2 Advanced Degree) | Requires master's degree or higher or exceptional ability, through PERM labor certification |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer, requires one year or more working overseas in the company |
+| Subclass O-1 (O-1 Extraordinary Ability) | For those with outstanding achievements in public relations |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Managers？**
-- 擅长沟通与写作
-- 有危机处理能力
-- 对媒体和社交媒体敏感
-
-**谁不适合学Public Relations Managers？**
-- 不喜欢快节奏与高压
-- 不擅长多任务协调
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and writing.
+- Has crisis management skills
+- Sensitive to media and social media
+
+**Who is not suited**
+- Dislike fast-paced and high-pressure environments
+- Not good at multitasking coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a PR manager in the US?**
+A: According to BLS 2023 data, median annual salary is about $130,000; entry-level around $50,000-$75,000; senior can exceed $200,000.
+
+**Q: How can foreign citizens obtain a PR manager green card through EB-2?**
+A: Usually requires employer to offer permanent position and pass PERM labor certification proving no qualified US workers. PR manager typically requires bachelor's degree + 5 years experience considered equivalent to master's.
+
+**Q: What core skills does a PR Manager need?**
+A: Excellent verbal and written communication skills, media relations, crisis management, social media strategy, project management, and the ability to analyze and measure PR effectiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Public Relations Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for public relations managers in the US?**
-答：According to BLS 2023 data, the median annual salary is about $130,000, entry-level $50,000-$75,000, and senior over $200,000.
-
-**问：How can a foreign national obtain a green card for PR manager through EB-2?**
-答：Usually requires employer sponsorship, PERM labor certification, and a bachelor's degree plus 5 years experience to be considered equivalent to a master's.
-
-**问：What core skills are needed for PR managers?**
-答：Excellent verbal and written communication, media relations, crisis management, social media strategy, project management, and analytics for measuring PR effectiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

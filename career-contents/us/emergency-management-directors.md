@@ -1,59 +1,92 @@
-# Emergency Management Directors（Emergency Management Directors）职业分析 · 美国
+# Emergency Management Directors — career analysis · United States
 
-**职业代码：11-9161 – Emergency Management Directors。**
+**Occupation code: 11-9161 (SOC)**
 
-Plan and direct disaster response or crisis management activities, provide disaster preparedness training, and prepare emergency plans and procedures for natural, wartime, or technological disasters.
+Plans and directs disaster response or crisis management activities, provides preparedness training, and develops emergency plans and procedures for natural disasters, war, or technological disasters.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立/私立大学学费差异较大） |
-| 硕士学位 | 2年 | $30,000~$80,000（应急管理或公共管理硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Tuition fees vary significantly between public and private universities) |
+| Master's degree | 2 years | $30,000~$80,000 (Master's degree in emergency management or public administration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 应急管理学士或硕士学位 | 认证大学 | 必备 | 通常要求相关专业如应急管理、公共安全等 |
-| 注册应急管理师（CEM） | 国际应急管理协会（IAEM） | 可选 | 非强制但能显著提升竞争力 |
-| FEMA专业发展系列证书 | 联邦应急管理局（FEMA） | 可选 | 针对联邦岗位的加分项 |
+| Bachelor's or master's degree in emergency management. | Accredited university | Required | Typically requires a related major such as emergency management, public safety, etc. |
+| Certified Emergency Manager (CEM) | International Association of Emergency Managers (IAEM) | Optional | Not mandatory but can significantly enhance competitiveness |
+| FEMA Professional Development Series certificate | Federal Emergency Management Agency (FEMA) | Optional | Bonus points for federal positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,700。受气候变化和极端天气事件增加的影响，美国应急管理岗位需求持续增长。联邦、州和地方政府以及私营部门均需配备专业人员，预计2023-2033年就业增长约6%，高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 12,700. Driven by climate change and increased extreme weather events, demand for emergency management roles in the US continues to grow. Federal, state, local governments and private sector need professionals, with employment projected to grow about 6% from 2023-2033, above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 多为协调员或助理岗位 |
-| 中级（3-7年） | $75,000~$100,000 | 担任主任或副主任 |
-| 高级（7年以上） | $100,000~$130,000 | 大型机构或政府高层岗位 |
+| Median salary | $93,330 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Mostly coordinator or assistant roles |
+| Mid-level (3–7 years) | $75,000~$100,000 | Serve as director or deputy director |
+| Senior (7+ years) | $100,000~$130,000 | Senior positions in large institutions or government. |
+| average salary | $102,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从应急管理专员或协调员起步，积累经验后可晋升为助理主任或副主任，最终成为应急管理主任。部分人员可通过继续教育和认证（如CEM）提升至区域或国家级管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core work of an emergency management director (decision-making, coordination, trust) is less impacted by AI, but tasks like data collection and report generation can be automated. The role will evolve into an 'AI-enhanced commander', and entry-level positions are slightly narrowing due to standardized tools.
+
+Typically start as an emergency management specialist or coordinator, with experience can advance to assistant director or deputy director, and eventually become emergency management director. Some can move to regional or national management roles through further education and certification (e.g., CEM).
+
+**Tasks most exposed to AI:**
+
+- Disaster data collection and preliminary analysis (e.g., affected population statistics)
+- Drafting and formatting standard emergency response plans
+- Creation and distribution of training materials (online modular)
+- Cross-departmental routine communication summary and status report generation
+
+**Where AI augments the role:**
+
+- AI simulates multiple disaster scenarios to optimize resource prepositioning plans
+- Real-time data analysis (satellite, social media) aids situational awareness
+- Auto-generate multilingual emergency announcements and instructions
+- Intelligent scheduling system optimizes emergency response team assignments
+
+**Human moat:**
+
+- Humanitarian decision-making and priority judgment under high pressure
+- Build and maintain trust relationships with communities and rescue organizations.
+- Creative problem-solving skills for handling unexpected changes
+- Legal responsibility and ethical accountability (such as mandatory evacuation orders)
+
+**Skills to build:**
+
+- AI emergency management tools (e.g., One Concern, Palantir)
+- Geographic Information System (GIS) basics
+- Big data analysis (Python/R basics)
+- Crisis communication and AI-assisted communication strategies
+- AI Model Output Bias Identification and Ethical Review
+- Agile cross-departmental collaboration (including AI teams)
+
+**Key growth areas:**
 
 - Climate change
 - Natural disasters
@@ -62,68 +95,67 @@ Plan and direct disaster response or crisis management activities, provide disas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适合大学或研究机构等非营利雇主，私营企业需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上学位或学士加5年经验，需PERM劳工证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无合适美国工人，流程漫长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for non-profit employers like universities or research institutions; private sector requires lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or bachelor's plus 5 years of experience, needs PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate no suitable US workers available; process is lengthy |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Emergency Management Directors？**
-- 善于在高压环境下保持冷静并快速决策
-- 具备跨部门协调和领导能力
-- 对公共安全有强烈责任感
-
-**谁不适合学Emergency Management Directors？**
-- 厌恶混乱和不确定性
-- 缺乏组织能力和沟通技巧
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at staying calm and making quick decisions under high pressure
+- Possess cross-departmental coordination and leadership skills
+- Strong sense of responsibility for public safety
+
+**Who is not suited**
+- Dislikes chaos and uncertainty
+- Lack of organizational skills and communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for emergency management directors?**
+A: According to BLS OEWS data, the median annual salary for Emergency Management Directors in 2023 was approximately $98,000, entry-level around $55,000-75,000, and senior can exceed $130,000.
+
+**Q: Can emergency management directors immigrate to the US via H-1B visa?**
+A: Yes, but typically requires sponsorship from an organization exempt from the cap, such as a university or government agency. Private employers must participate in the H-1B lottery, and due to the specialized nature of the role, it must be proven to be a specialty occupation.
+
+**Q: Will this occupation be significantly affected by AI in the future?**
+A: AI impact is low. This role requires complex decision-making, interpersonal coordination, and on-site adaptability, which AI cannot easily replace.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Emergency Management Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an Emergency Management Director?**
-答：According to BLS OEWS, the median annual wage for Emergency Management Directors in 2023 is about $98,000, with entry-level ranging from $55,000 to $75,000 and senior positions exceeding $130,000.
-
-**问：Can an Emergency Management Director immigrate to the U.S. via H-1B visa?**
-答：Yes, but typically requires an exempt employer like a university or government agency. For private employers, the H-1B lottery applies, and the job must be shown as a specialty occupation.
-
-**问：Is this career at risk from AI?**
-答：Low risk. The role requires complex decision-making, coordination, and on-site response, which AI cannot easily replace.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

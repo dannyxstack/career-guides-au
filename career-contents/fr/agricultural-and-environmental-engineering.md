@@ -1,60 +1,95 @@
-# Agricultural and Environmental Engineering（Agricultural and Environmental Engineering）职业分析 · FR
+# Agricultural and Environmental Engineering — career analysis · France
 
-**职业代码：A1303 – Agricultural and Environmental Engineering。**
+**Occupation code: A1303 (ROME)**
 
-Agricultural and environmental engineers design and manage sustainable agricultural systems and environmental projects, integrating soil, water, air quality, and ecosystem conservation.
+Agricultural and environmental engineers are responsible for designing and managing sustainable agricultural systems, natural resources, and environmental protection projects, including integration of soil, water, air quality, and ecosystems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士（Licence） | 3年 | —（公立大学学费约170欧元/年，私立或工程师学校约3000-5000欧元/年） |
-| 工程师文凭（Diplôme d'Ingénieur） | 5年 | —（公立工程师学校学费约600-1000欧元/年，私立可达10000欧元/年） |
-| 硕士（Master） | 2年（Licence后） | —（公立大学学费约243欧元/年，私立或专业硕士约3000-5000欧元/年） |
+| Licence | 3 years | $0~$5,000 (Public university tuition is about 170 euros per year, while private or engineering schools are about 3000-5000 euros per year) |
+| Diplôme d'Ingénieur (Engineer Diploma) | 5 years | $0~$10,000 (Public engineering school tuition about EUR 600-1,000 per year, private up to EUR 10,000 per year) |
+| Master's Degree (Master) | 2 years (after licence) | $0~$5,000 (Public university tuition is about 243 euros per year, while private or professional master's degrees are about 3,000-5,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师头衔（Titre d'Ingénieur） | CTI认证的工程师学校 | 必备 | 受国家承认的工程师文凭，是从事工程职业的主要资格 |
-| 环境管理相关认证（如ISO 14001） | 专业机构或AFNOR | 可选 | 非强制但有助于就业 |
-| 农艺师资格（Diplôme d'Agronome） | AgroParisTech等农业院校 | 可选 | 针对农业方向，非强制但受青睐 |
+| Engineer Title (Titre d'Ingénieur) | CTI-accredited engineering school | Required | The nationally recognized engineer diploma is the main qualification for working in the engineering profession |
+| Environmental management-related certifications (such as ISO 14001) | Professional institutions or AFNOR | Optional | Not mandatory but helpful for employment |
+| Agronomist Qualification (Diplôme d'Agronome) | AgroParisTech and other agricultural colleges | Optional | For agriculture, it is not mandatory but favored |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国农业与环境工程领域因生态转型和可持续农业政策推动，需求稳定增长。尤其在精准农业、水处理和可再生能源方面有较多岗位，但就业竞争中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Demand in France's agricultural and environmental engineering sector is steadily growing, driven by ecological transition and sustainable agricultural policies. There are especially many positions in precision agriculture, water treatment, and renewable energy, but competition for employment is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（4-8年） | $38,000~$50,000 | 税前年薪 |
-| 高级（9年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (4–8 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (9+ years) | $50,000~$70,000 | Annual pre-tax salary |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级工程师可从事项目助理或技术员，积累经验后晋升为项目经理或专家，高级可担任技术总监或独立顾问，也可向研究与教学方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
+
+Junior engineers can work as project assistants or technicians, and after gaining experience, can be promoted to project manager or expert. Senior engineers can serve as technical directors or independent consultants, or develop into research and teaching directions.
+
+**Tasks most exposed to AI:**
+
+- Manual drafting of mine design and construction drawings
+- Resource reserve estimation based on experience
+- Manually write routine mining plans and progress reports
+- Manual monitoring of equipment status and energy consumption
+- On-site Inspections for Hazard Identification
+
+**Where AI augments the role:**
+
+- Use AI for 3D modeling of ore deposits and resource assessment
+- Optimizing autonomous truck routes and blasting plans using AI
+- Using machine learning to predict rock mass stability and support requirements
+- Integrating digital twin technology for real-time monitoring and adjustment of mining operations
+- Quickly parse geological reports and compliance documents using natural language processing
+
+**Human moat:**
+
+- Decision-making under complex geological conditions
+- Communication and coordination with government/community/Indigenous peoples
+- Safety regulation enforcement and emergency incident command
+- Multidisciplinary team collaboration integrating AI recommendations
+- Comprehensive assessment of ethics and environmental impact
+
+**Skills to build:**
+
+- Geostatistics and machine learning applied to resource modeling
+- Operation and configuration of automated scheduling systems (e.g., Minestar)
+- Python/R data analysis and digital twin platform usage
+- Mine simulation software (e.g., Vulcan, Surpac) with AI plugins
+- Project Management and Cross-Departmental AI Solution Integration
+- Data visualization and report automation tools
+
+**Key growth areas:**
 
 - Agroecology
 - Precision agriculture
@@ -63,68 +98,67 @@ Agricultural and environmental engineers design and manage sustainable agricultu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达法国门槛（约53685欧元，2024年），持工程师文凭或同等学历。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于人才，包括工程师、科研人员，持有硕士或同等学历，无需劳工许可，有效期4年。 |
-| Subclass Salarié（Employee Work Permit） | 适用于有法国雇主担保的普通工作，需通过劳动局审查，年薪无硬性门槛但需满足最低工资。 |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens who must meet the French annual threshold (approximately 53,685 euros, 2024) and hold an engineering diploma or equivalent qualification. |
+| Subclass Passeport Talent (Talent Passport) | Applicable to talents, including engineers and researchers, holding a master's degree or equivalent without labor permits, valid for 4 years. |
+| Subclass Salarié (Employee Work Permit) | Applicable to ordinary jobs sponsored by French employers, subject to review by the Labor Bureau, with no strict annual salary threshold but must meet minimum wage. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Environmental Engineering？**
-- 对农业和环保有热情，愿意从事户外和现场工作的工科背景人士
-- 具有系统思维和跨学科能力，能整合工程、生态和政策的人
-- 希望从事有社会和环境影响力职业的人
-
-**谁不适合学Agricultural and Environmental Engineering？**
-- 不喜欢户外工作和田间作业的人
-- 对缓慢的政府项目或农业周期缺乏耐心的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about agriculture and environmental protection, and willing to work outdoors and on-site, with an engineering background
+- People with systematic thinking and interdisciplinary abilities who can integrate engineering, ecology, and policy
+- Those who wish to pursue careers with social and environmental impact
+
+**Who is not suited**
+- People who dislike outdoor work and fieldwork
+- People who lack patience for slow government projects or agricultural cycles
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for agricultural and environmental engineers in France?**
+A: Entry-level engineer annual salary about €30,000-38,000, mid-level €40,000-50,000, senior can reach €50,000-70,000. Salary is affected by region and industry (agriculture vs environmental consulting), with environmental consulting usually slightly higher.
+
+**Q: How can non-EU citizens immigrate to France to work in this profession?**
+A: Applications can be made through the EU Blue Card (requiring annual salary requirements) or the Talent Passport (for those holding a master's or engineering diploma). Employer sponsorship is key, and scarce industries help speed up the process.
+
+**Q: Is this profession regulated? What qualifications are required?**
+A: Agricultural and environmental engineers are not strictly regulated in France, but the engineer title is CTI-certified, and holding this title helps with employment. Some positions may require environmental management certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Agricultural and Environmental Engineering的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for agricultural/environmental engineers in France?**
-答：Entry-level engineers earn around €30,000–38,000, mid-level €38,000–50,000, and senior roles €50,000–70,000 gross annually. Salaries vary by region and sector (agriculture vs environmental consulting).
-
-**问：How can non-EU citizens migrate to France for this occupation?**
-答：Options include the EU Blue Card (requires minimum salary) or Talent Passport (with Master's or engineering degree). Employer sponsorship is crucial, and shortage occupation status may facilitate the process.
-
-**问：Is this occupation regulated? What qualifications are needed?**
-答：It is not strictly regulated, but holding a CTI-accredited engineering degree is highly recommended. Some positions may require environmental management certifications (e.g., ISO 14001).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Typist and Word Processing Operator（Typist and Word Processing Operator）职业分析 · IE
+# Typist and Word Processing Operator — career analysis · Ireland
 
-**职业代码：4131 – Typist and Word Processing Operator。**
+**Occupation code: 4131 (ISCO08)**
 
-Typists and word processing operators are responsible for fast and accurate typing, editing texts, and handling documents and spreadsheets to support daily office operations.
+Typists and word processing operators quickly and accurately enter and edit text, process documents and spreadsheets, supporting daily office operations.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 无固定时长 | —（通常高中毕业即可，部分雇主提供在职培训） |
-| 职业培训证书 | 6个月 | $1,000~$3,000（如打字或办公技能课程） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Typically requires high school graduation; some employers provide on-the-job training) |
+| Vocational training certificate | 6 months. | $1,000~$3,000 (Courses such as typing or office skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 打字速度测试证书 | 培训机构 | 可选 | 非强制，但部分雇主要求每分钟60词以上 |
-| 计算机素养证书 | ECDL/ICDL | 可选 | 证明基本办公软件操作能力 |
+| Typing speed test certificate | Training institution | Optional | Not mandatory, but some employers require over 60 words per minute |
+| Computer literacy certificate | ECDL/ICDL | Optional | Prove basic proficiency in office software |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,400。随着数字化办公普及，传统打字员需求持续下降，但具备高端语言处理和数据录入技能的人员在特定行业仍有需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,400. With the popularisation of digital offices, demand for traditional typists continues to decline, but those with advanced language processing and data entry skills are still in demand in specific industries.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 试用期或新手 |
-| 中级（2-5年） | $28,000~$35,000 | 有经验并掌握多项技能 |
-| 高级（5年以上） | $35,000~$42,000 | 承担更多行政职责 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$28,000 | Probation period or newcomer |
+| Intermediate (2-5 years) | $28,000~$35,000 | Experienced and skilled in multiple areas |
+| Senior (5+ years) | $35,000~$42,000 | Assume more administrative responsibilities |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可从初级打字员晋升为高级文字处理员或行政助理，需掌握更多办公软件技能和行业知识。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI-driven speech-to-text, automatic document generation and intelligent proofreading systems will significantly reduce demand for pure keyboard typing, greatly compressing typist positions.
+
+Can progress from junior typist to senior word processor or administrative assistant, requiring more office software skills and industry knowledge.
+
+**Tasks most exposed to AI:**
+
+- Transcribe verbatim from audio recordings or dictation
+- Entering handwritten or printed texts
+- Basic formatting and template document generation.
+- Proofreading and basic error correction
+- Creating repetitive correspondence and reports
+
+**Where AI augments the role:**
+
+- Use AI drafting tools to quickly generate document drafts
+- Use speech-to-text to increase text input speed
+- Enhance document quality with AI proofreading and grammar checkers
+- Simplifying formatting through template automation.
+- Use AI search and citation functions to assist in document content creation.
+
+**Human moat:**
+
+- Comprehend oral content with complex, ambiguous, or specialized terminology
+- Handle complex documents with special formatting, charts, or non-standard layouts
+- Ensure data security and privacy in highly confidential scenarios
+- Provide personalized document editing services tailored to specific styles
+- Engage in judgmental negotiation with customers or colleagues over document content
+
+**Skills to build:**
+
+- Proficient in using speech-to-text tools and optimizing accuracy
+- Learn AI document automation platforms (e.g., Google Docs AI, Microsoft Copilot)
+- Master basic data processing and analysis to transition into a data entry administrator
+- Improves document design and visual layout skills
+- Learn project management software (e.g., Asana, Trello) to support team collaboration
+- Develop customer communication and needs understanding skills
+
+**Key growth areas:**
 
 - declining demand
 - office automation
@@ -63,65 +99,67 @@ Typists and word processing operators are responsible for fast and accurate typi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，薪资不低于每年30,000欧元。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司派遣员工，需在原公司工作至少6个月。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in shortage, requiring employer sponsorship, with a salary of at least €30,000 per year. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Transferred employees by multinational companies must have worked for the original company for at least 6 months. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Typist and Word Processing Operator？**
-- 细心且打字速度快
-- 熟悉办公软件
-- 能在重复性工作中保持专注
+**Who is suited**
+- Detail-oriented with fast typing speed
+- Proficiency in Office Software
+- Able to maintain focus during repetitive tasks
 
-**谁不适合学Typist and Word Processing Operator？**
-- 追求高薪和晋升机会
-- 希望从事创造性工作
+**Who is not suited**
+- Pursuing high salary and promotion opportunities
+- Seeking creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a typist in Ireland?**
+A: Entry-level around €25,000, senior up to €42,000, but overall low.
+
+**Q: Can a typist apply for a work visa to immigrate to Ireland?**
+A: Can apply for a general work permit, but it is not a shortage occupation; requires employer sponsorship and meeting the salary threshold.
+
+**Q: What is the career outlook for typists?**
+A: Automation is causing a decline in demand; it is recommended to learn data processing or administrative skills for transition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Typist and Word Processing Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for typists in Ireland?**
-答：Entry-level around €25,000, senior up to €42,000, but generally low.
-
-**问：Can typists apply for a work visa to immigrate to Ireland?**
-答：Yes, a General Employment Permit is possible but the occupation is not on the shortage list.
-
-**问：What is the career outlook for typists?**
-答：Declining due to automation; upskilling in data processing or administration is advised.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

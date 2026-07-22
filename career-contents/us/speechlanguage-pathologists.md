@@ -1,59 +1,95 @@
-# Speech-Language Pathologists（Speech-Language Pathologists）职业分析 · 美国
+# Speech-Language Pathologists — career analysis · United States
 
-**职业代码：29-1127 – Speech-Language Pathologists。**
+**Occupation code: 29-1127 (SOC)**
 
-Assess and treat persons with speech, language, voice, and fluency disorders. May select alternative communication systems and teach their use. May perform research related to speech and language problems.
+Assess and treat patients with speech, language, voice, and fluency disorders; select alternative communication systems and teach their use; may conduct research on speech-language issues.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士（专业学位） | 2年 | $40,000~$80,000（公立大学学费，私立更高） |
-| 本科（言语语言病理学相关） | 4年 | $30,000~$60,000（本科为前置要求） |
+| Master's (Professional Degree) | 2 years | $40,000~$80,000 (Public university tuition; private is higher) |
+| Bachelor's (speech-language pathology related) | 4 years | $30,000~$60,000 (Undergraduate degree is a prerequisite) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 临床胜任能力证书（CCC-SLP） | 美国言语语言听力协会（ASHA） | 必备 | 通过Praxis考试并完成临床实习 |
-| 州执业执照 | 各州执业委员会 | 必备 | 需持有CCC-SLP或等同 |
-| 州教师认证 | 州教育部门 | 可选 | 在学校工作需额外认证 |
+| Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) | American Speech-Language-Hearing Association (ASHA) | Required | Pass the Praxis exam and complete clinical internship |
+| State occupational license. | State licensing boards | Required | Must hold CCC-SLP or equivalent |
+| State teacher certification | State education department | Optional | Additional certification required to work in schools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 216,900。美国劳工统计局预测2022-2032年就业增长19%，远高于平均水平，主要受老龄化人口对中风、失智症等康复服务需求增加推动。
+**Job demand: high (★★★★☆).** National workforce approx. 216,900. The U.S. Bureau of Labor Statistics projects 19% employment growth from 2022 to 2032, much faster than average, driven by aging population increasing demand for rehabilitation services like stroke and dementia care.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 学校或康复机构 |
-| 中级（4-9年） | $80,000~$105,000 | 医院或私人诊所 |
-| 高级（10年以上） | $100,000~$130,000 | 临床主管或私人执业 |
+| Median salary | $97,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$80,000 | School or rehabilitation facility |
+| Intermediate (4-9 years) | $80,000~$105,000 | Hospital or private clinic |
+| Senior (10+ years) | $100,000~$130,000 | Clinical supervisor or private practice |
+| average salary | $98,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级临床医生→临床主管/高级治疗师→部门主任/私人执业者；也可转向研究、教学或医疗管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
+
+Junior clinician → Clinical supervisor/Senior therapist → Department director/Private practitioner; can also transition to research, teaching, or medical management.
+
+**Tasks most exposed to AI:**
+
+- Automated speech recognition and natural language processing for initial screening and standardized test scoring
+- AI generates basic treatment plans and exercise materials
+- Automatic transcription and document filling of electronic health records
+- Automatic detection of speech disorder features through voice analysis
+- Basic interactive Q&A in remote therapy is handled by chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyzing large amounts of voice data to identify subtle patterns
+- Personalised treatment: using machine learning to optimise treatment plans and provide real-time feedback
+- Telemedicine: expanding service scope through AI-driven platforms.
+- Effect tracking: automatically analyzes patient progress data and adjusts plans
+- Research acceleration: AI processes large-scale corpora to discover new treatments
+
+**Human moat:**
+
+- Clinical judgment and empathetic communication for complex cases
+- Interdisciplinary team collaboration and patient education
+- Design and implement alternative communication systems (e.g., AAC)
+- Handling ethical and legal issues (e.g., informed consent)
+- Humanistic care and therapeutic relationship building.
+
+**Skills to build:**
+
+- Use and interpretation of AI-assisted diagnostic tools
+- Data analysis and statistics (Python/R)
+- Remote therapy platform operation and optimization
+- Natural language processing basics
+- Human-computer interaction design (for therapeutic tools)
+- Agility for continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Rehabilitation services
@@ -62,68 +98,67 @@ Assess and treat persons with speech, language, voice, and fluency disorders. Ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需硕士或以上学位，每年配额竞争 |
-| Subclass EB-2（Employment-Based Second Preference） | 硕士以上职业移民绿卡，需PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 本科或以上职业移民绿卡，需PERM劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa requiring master's degree or higher; annual quota competition |
+| Subclass EB-2 (Employment-Based Second Preference) | Green card for occupations requiring a master's degree or above, needs PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Green card for bachelor's or higher occupation, requires PERM labor certification |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Speech-Language Pathologists？**
-- 有耐心和同理心
-- 善于沟通和人际交往
-- 有志于医疗健康领域的长年职业
-
-**谁不适合学Speech-Language Pathologists？**
-- 厌恶长时间与患者直接接触
-- 不愿接受持续教育和认证更新
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic
+- Good communication and interpersonal skills
+- Long-term career aspiration in healthcare
+
+**Who is not suited**
+- Dislikes prolonged direct contact with patients
+- Unwilling to pursue ongoing education and certification updates
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of speech-language pathologists?**
+A: US Bureau of Labor Statistics 2023 median annual wage about $84,140, top 10% over $130,000.
+
+**Q: How to become a speech-language pathologist in the US with a non-US degree?**
+A: Requires ASHA International Services certification, education equivalency evaluation, clinical internship, and Praxis exam, then apply for H-1B or green card.
+
+**Q: Is a PhD required?**
+A: Usually not required; a master's degree (including clinical internship) is the entry requirement; a PhD is mostly used for research or university faculty positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Speech-Language Pathologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for speech-language pathologists?**
-答：According to BLS 2023, median annual wage is about $84,140, top 10% earn over $130,000.
-
-**问：How to become an SLP in the US with foreign degree?**
-答：Obtain ASHA international certification, have your degree evaluated, complete clinical fellowship and Praxis exam, then apply for H-1B or green card.
-
-**问：Is a PhD required?**
-答：No, a master's degree (including clinical practicum) is the entry-level requirement; PhD is for research or academia.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

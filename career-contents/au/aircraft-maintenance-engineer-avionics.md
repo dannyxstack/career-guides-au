@@ -1,60 +1,96 @@
-# Aircraft Maintenance Engineer (Avionics)（Aircraft Maintenance Engineer (Avionics)）职业分析 · 澳大利亚
+# Aircraft Maintenance Engineer (Avionics) — career analysis · Australia
 
-**职业代码：323111 – Aircraft Maintenance Engineer (Avionics)。**
+**Occupation code: 323111 (ANZSCO)**
 
-Aircraft Maintenance Engineer (Avionics) inspects, maintains, troubleshoots, and repairs aircraft avionics systems including navigation, communication, radar, and flight controls to ensure airworthiness and flight safety.
+Aircraft maintenance engineer (avionics) inspects, maintains, troubleshoots, and repairs aircraft avionics systems, including navigation, communication, radar, and flight control systems, ensuring flight safety and airworthiness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 四级证书（Certificate IV） | 1-2年 | $8,000~$20,000（TAFE或私人培训机构费用） |
-| 大专文凭（Diploma） | 2-3年 | $15,000~$35,000（可替代部分经验要求） |
+| Certificate IV | 1-2 years | $8,000~$20,000 (TAFE or private training provider fees) |
+| Diploma (TAFE diploma). | 2-3 years | $15,000~$35,000 (Can substitute part of the experience requirement) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航空维修执照（Avionics） | CASA（澳洲民航安全局） | 必备 | 持证必备，需通过理论和实践考试 |
-| 相关四级证书或大专 | TAFE或注册培训机构 | 必备 | 通常为入职门槛 |
-| 英语能力证明 | 雅思/PTE等 | 可选 | 移民签证要求 |
-| 技能评估 | Trades Recognition Australia (TRA) | 必备 | 移民必需步骤 |
+| Aviation Maintenance License (Avionics) | CASA (Civil Aviation Safety Authority of Australia) | Required | Certification mandatory, must pass theoretical and practical exams |
+| Relevant Certificate IV or diploma | TAFE or registered training organizations | Required | Usually an entry-level requirement |
+| Skills assessment | Trades Recognition Australia (TRA) | Required | Essential steps for immigration |
+| English proficiency proof | IELTS/PTE etc. | Optional | Immigration visa requirements. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,500。澳洲航空业持续复苏，航空公司扩张和国防项目推动对航空电子维修工程师的稳定需求。JSA预测未来5年该职业就业增长较快，尤其在西澳和昆士兰。
+**Job demand: high (★★★★☆).** National workforce approx. 6,500. Australia's aviation industry continues to recover, with airline expansion and defense projects driving steady demand for avionics maintenance engineers. JSA predicts rapid employment growth in this occupation over the next 5 years, especially in Western Australia and Queensland.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 持有执照后薪资增长明显 |
-| 中级（3-7年） | $75,000~$100,000 | 可独立执业的经验工程师 |
-| 高级（7年以上） | $100,000~$130,000 | 主管或专家角色 |
+| Median salary | $102,960 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Salary increases significantly after obtaining a license |
+| Mid-level (3–7 years) | $75,000~$100,000 | Experienced engineer eligible for independent practice |
+| Senior (7+ years) | $100,000~$130,000 | Supervisor or Specialist Role |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从学徒/持照工程师起步，可晋升为高级工程师、团队主管或质量审计员。积累经验后也可转向航空管理、适航认证或航空电子设计等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Starting as an apprentice or licensed engineer, can progress to senior engineer, team leader, or quality auditor. With experience, can also move into specialized fields like aviation management, airworthiness certification, or avionics design.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aviation Recovery
 - Defence Projects
@@ -63,69 +99,68 @@ Aircraft Maintenance Engineer (Avionics) inspects, maintains, troubleshoots, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有雇主提名，可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久移民，需通过技能评估和英语要求 |
-| Subclass 189（Skilled Independent Visa） | 技术移民独立签证，需EOI打分获邀，职业在MLTSSL上 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州政府提名，职业在州担保清单上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored Temporary Visa, Requires Employer Nomination, Can Transfer to 186 |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent migration, requires skills assessment and English language requirements |
+| Subclass 189 (Skilled Independent Visa) | Skilled migration independent visa requires EOI points; occupation must be on the MLTSSL. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination, occupation on state sponsorship list. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Maintenance Engineer (Avionics)？**
-- 善于动手和解决复杂技术问题的机械/电子爱好者
-- 能适应轮班工作和严格安全合规要求的人
-- 愿意持续学习新航空电子技术及法规更新
-
-**谁不适合学Aircraft Maintenance Engineer (Avionics)？**
-- 不喜欢高空作业或密闭空间工作环境
-- 不能接受严格纪律和零失误要求
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on mechanical/electronics enthusiasts skilled at solving complex technical problems
+- Individuals who can adapt to shift work and strict safety compliance requirements
+- Willing to continuously learn new avionics technologies and regulation updates
+
+**Who is not suited**
+- Dislike of working at heights or in confined spaces
+- Cannot accept strict discipline and zero-error requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an Australian aviation electronics maintenance engineer?**
+A: Junior annual salary approximately AUD 55,000-75,000, mid-level AUD 75,000-100,000, senior up to AUD 100,000-130,000. Engineers with CASA license and experience earn more; overtime and shift allowances add extra income.
+
+**Q: Is it easy for avionics maintenance engineers to migrate to Australia?**
+A: This occupation is on the MLTSSL list and eligible for 189/190/482/186 visas. Key is TRA skills assessment and obtaining a CASA license. Currently in shortage in Australia with good immigration prospects, but requires English and financial preparation.
+
+**Q: What is the career path for an avionics maintenance engineer?**
+A: Can progress from licensed engineer to senior engineer, team supervisor, or quality manager. Can also move into aviation management, airworthiness certification, or system design. Some engineers enter the defense or aircraft manufacturing sector.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中高（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aircraft Maintenance Engineer (Avionics)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an Avionics Maintenance Engineer in Australia?**
-答：Entry-level salary ranges from AUD 55,000 to 75,000; mid-level from AUD 75,000 to 100,000; senior can reach AUD 100,000 to 130,000. CASA licensed and experienced engineers earn more, with overtime and shift allowances.
-
-**问：Is it easy to migrate to Australia as an Avionics Maintenance Engineer?**
-答：The occupation is on the MLTSSL, eligible for 189/190/482/186 visas. Key steps include passing TRA skills assessment and obtaining a CASA license. Current shortage makes migration favorable, requiring English proficiency and financial preparation.
-
-**问：What is the career progression for an Avionics Maintenance Engineer?**
-答：From licensed engineer to senior engineer, team leader, or quality manager. Can also move into aviation management, airworthiness certification, or system design. Some enter defense or aircraft manufacturing.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

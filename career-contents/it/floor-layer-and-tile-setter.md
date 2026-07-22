@@ -1,61 +1,94 @@
-# Floor Layer and Tile Setter（Floor Layer and Tile Setter）职业分析 · IT
+# Floor Layer and Tile Setter — career analysis · Italy
 
-**职业代码：7122 – Floor Layer and Tile Setter。**
+**Occupation code: 7122 (ISCO08)**
 
-Install tiles, marble, wood flooring and other floor coverings, including surface preparation, cutting and laying, commonly employed in residential and commercial construction.
+Responsible for laying floor materials such as tiles, marble, and wooden flooring, including preparation, cutting, and installation, commonly in residential and commercial building projects.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（学徒制） | 3-4年 | —（学徒期间有工资，培训费用较低） |
-| 职业教育文凭 | 2年（Istituto Professionale） | —（公立学校基本免费） |
+| Vocational training (apprenticeship) | 3-4 years | $0~$2,000 (Apprentices receive wages and training costs are low) |
+| Vocational education diploma | 2 years (Istituto Professionale) | $0~$1,500 (Public schools are basically free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证 | Regione / Provincia Autonoma | 可选 | 部分地区要求持证上岗 |
-| 安全培训证书 | INAIL授权机构 | 必备 | 建筑工地必备 |
-| 脚手架操作证（可选） | Regione | 可选 | 如需高空作业 |
+| Safety training certificate | INAIL-authorized body | Required | Essential for construction sites |
+| Professional qualification certificate | Regione / Provincia Autonoma | Optional | Some regions require certification to work |
+| Scaffolding operation certificate (optional) | Regione | Optional | If working at heights is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 52,000。意大利建筑行业复苏及旧房翻新需求推动地板铺设工需求稳定，但受经济波动影响较大，北部地区机会更多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 52,000. Demand for flooring installers in Italy remains stable, driven by construction recovery and old-home renovations, but is heavily affected by economic fluctuations, with more opportunities in the north.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，学徒期可能更低 |
-| 中级（3-8年） | $24,000~$32,000 | 税前年薪，含加班可能更高 |
-| 高级（8年以上或工头） | $30,000~$40,000 | 税前年薪，自主创业收入可更高 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual salary before tax, may be lower during apprenticeship |
+| Mid-level (3–8 years) | $24,000~$32,000 | Pre-tax annual salary, including overtime, may be higher |
+| Senior (8+ years or foreman) | $30,000~$40,000 | Pre-tax annual salary; self-employment income can be higher |
+| average salary | $28,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒成长为熟练工、工头或自主创业，部分人转向瓷砖设计或项目管理，但晋升空间有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Floor layers and tile setters' work will be partially replaced by AI tools (e.g., cutting and layout optimization), but physical installation, leveling, and finishing still require human skills; the job remains stable overall, with little change in entry requirements.
+
+Can progress from apprentice to skilled worker, foreman, or self-employment; some transition to tile design or project management, but promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Automatic measurement of room dimensions and material quantity calculation, AI can quickly generate optimal layout plans
+- Automatic cutting of tiles/stone, CNC waterjet or laser cutting replaces manual cutting
+- Automatic detection and adjustment solution generation for ground flatness, reducing manual trial laying
+- Inventory management and material ordering processes, AI analyzes project requirements to automatically place orders
+
+**Where AI augments the role:**
+
+- Use AR glasses to view tiling blueprints and level indicators in real time, improving accuracy
+- AI-assisted design of complex patterns and parquet, generating diverse options for clients
+- Work collaboratively with automatic mortar mixing and plastering robots to improve efficiency
+- AI-driven project progress prediction and scheduling to optimize multi-trade collaboration
+
+**Human moat:**
+
+- Manual cutting and fine placement in irregular areas and corners
+- Removal of old flooring, base treatment, and leveling judgment for uneven floors.
+- Communicate design preferences with clients and provide personalized advice
+- Flexible problem-solving ability for on-site unexpected issues.
+
+**Skills to build:**
+
+- Digital Measurement Tools and BIM Software Operations
+- CNC cutting machine programming and maintenance
+- Use of augmented reality (AR) tools for construction assistance.
+- Project management and client communication skills
+- Knowledge of sustainable materials and environmentally friendly construction methods
+- Basic electrical and mechanical troubleshooting
+
+**Key growth areas:**
 
 - Construction recovery
 - Renovation demand
@@ -64,66 +97,65 @@ Install tiles, marble, wood flooring and other floor coverings, including surfac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，但地坪工属于建筑业，需等待年度配额且优先意大利公民。 |
-| Subclass EU Blue Card（EU Blue Card） | 仅适用于高技能职业，地板工不符合要求。 |
-| Subclass 自由职业者签证（Freelance Visa (Lavoro Autonomo)） | 需证明高收入及行业经验，门槛较高。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, but floor layers are in the construction industry, subject to annual quotas and priority for Italian citizens. |
+| Subclass EU Blue Card (EU Blue Card) | Only applies to high-skilled occupations; floor layers do not qualify. |
+| Subclass Freelance Visa (Freelance Visa (Lavoro Autonomo)) | Requires proof of high income and industry experience; threshold is relatively high. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floor Layer and Tile Setter？**
-- 注重细节、有手工技能的人
-- 能承受体力劳动和粉尘工作环境
-- 希望在建筑行业稳定就业的人
-
-**谁不适合学Floor Layer and Tile Setter？**
-- 不能久站或弯腰工作的人
-- 寻求快速高薪或轻松工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are detail-oriented and have manual skills.
+- Able to withstand physical labor and dusty work environments.
+- Those seeking stable employment in the construction industry
+
+**Who is not suited**
+- People unable to stand or bend for long periods
+- People seeking fast high pay or easy work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Italian floor layer?**
+A: Junior: approximately €18,000-24,000/year, intermediate: €24,000-32,000/year, senior or foreman: €30,000-40,000/year.
+
+**Q: Can non-EU citizens immigrate to Italy through this occupation?**
+A: More difficult, requires quota work visa through Decreto Flussi, with limited annual quotas, and employer must prove inability to find an Italian citizen.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Floor Layer and Tile Setter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for floor layers and tile setters in Italy?**
-答：Entry-level around €18,000-24,000/year, experienced €24,000-32,000/year, senior or foreman €30,000-40,000/year.
-
-**问：Can non-EU citizens immigrate to Italy through this occupation?**
-答：Difficult; requires Decreto Flussi quota work visa, with limited annual spots, and employer must prove no Italian citizen available.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

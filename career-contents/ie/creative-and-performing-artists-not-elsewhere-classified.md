@@ -1,60 +1,96 @@
-# Creative and Performing Artists Not Elsewhere Classified（Creative and Performing Artists Not Elsewhere Classified）职业分析 · IE
+# Creative and Performing Artists Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：2659 – Creative and Performing Artists Not Elsewhere Classified。**
+**Occupation code: 2659 (ISCO08)**
 
-Includes various creative performers not elsewhere classified, such as circus artists, magicians, and stand-up comedians.
+Includes various creative performers other than dancers, musicians, and actors, such as circus performers, magicians, and stand-up comedians.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 1-2年（职业课程） | $500~$5,000（职业培训课程费用） |
-| 本科（表演艺术） | 3-4年（本科） | $12,000~$18,000（年均学费（欧盟学生）） |
+| High school graduation + vocational training | 1-2 years (vocational courses) | $500~$5,000 (Vocational training course fees) |
+| Bachelor's (Performing Arts) | 3-4 years (Bachelor's degree) | $12,000~$18,000 (Average annual tuition fee (EU students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演艺术文凭 | 爱尔兰国立艺术设计学院等 | 可选 | 非强制，但有助于提升竞争力 |
-| 行业认证（如舞台表演安全证书） | 健康与安全局 | 可选 | 特定演出可能需要 |
+| Diploma of Performing Arts | National College of Art and Design, Ireland, etc. | Optional | Not mandatory, but helps improve competitiveness. |
+| Industry certifications (e.g., stage performance safety certificate) | Health and Safety Authority | Optional | May be required for specific performances. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。受数字化转型和体验经济推动，现场表演需求稳步增长。兼职/自由职业比例高，收入波动大。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,000. Driven by digital transformation and the experience economy, demand for live performances is steadily growing. Part-time/freelance work accounts for a high proportion, with fluctuating income.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$35,000 | 兼职或小型演出 |
-| 中级（3-7年） | $35,000~$55,000 | 稳定演出合同 |
-| 高级（7年以上） | $50,000~$80,000 | 知名表演者或领衔角色 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$35,000 | Part-time or small performances |
+| Mid-level (3–7 years) | $35,000~$55,000 | Stable performance contract |
+| Senior (7+ years) | $50,000~$80,000 | Renowned performers or leading roles. |
+| average salary | $45,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初期多为兼职或临时表演，逐步积累口碑后可晋升为领衔演员或导演，部分转向艺术管理或教学。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+AI's impact on creative and performing artists is mixed: some tasks (e.g., routine performances, data sorting) can be automated, but creative ideation, live interaction, and personalized expression still rely on humans, presenting a mixed outlook overall.
+
+Initially often part-time or temporary performances, gradually building reputation to become lead performer or director, some shift to arts management or teaching.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate background music or sound effects for performance assistance
+- Orchestrating standardized circus or acrobatic sequences via AI
+- Auto-proofreading and formatting of performance scripts or promotional copy
+- Digital simulation and teaching of simple magic tricks
+- Automated generation and posting of social media content
+
+**Where AI augments the role:**
+
+- Uses AI to generate creative inspiration and storyboards
+- Use AI to adjust lighting, sound, and visual effects in real time to enhance live performances
+- Optimizing performance rhythm and interaction by analyzing audience reactions with AI
+- Use AI tools to quickly create promotional posters and trailers
+- Using language models to improve stand-up comedy jokes and scripts.
+
+**Human moat:**
+
+- Live improvisation performance and audience emotional interaction
+- Unique creative concepts and artistic style
+- Highly personalized custom performances
+- Traditional handcraft skills such as acrobatics and magic techniques
+- Ability to combine cultural heritage with innovation
+
+**Skills to build:**
+
+- AI performance assistance tools (e.g., generative audio, video)
+- Basics of Data Analysis (Understanding Audience Preferences)
+- Digital content creation (social media management)
+- Augmented/Virtual Reality Performance Design
+- Cross-media art integration skills.
+- Project management and self-marketing
+
+**Key growth areas:**
 
 - Digital Performance
 - Live Events
@@ -63,65 +99,67 @@ Includes various creative performers not elsewhere classified, such as circus ar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于有雇主担保的表演合同，需满足薪资门槛（一般不低于€30,000）。 |
-| Subclass Stamp 4 - Critical S（Critical Skills Employment Permit） | 仅限少数高技能表演岗位，如知名艺术总监，需通过劳工市场测试。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to employer-sponsored performance contracts, must meet salary threshold (generally not less than €30,000). |
+| Subclass Stamp 4 - Critical S (Critical Skills Employment Permit) | Limited to a few high-skilled performance roles, such as renowned artistic directors, requiring a labor market test. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Creative and Performing Artists Not Elsewhere Classified？**
-- 有艺术天赋且能接受收入不稳定者
-- 自我驱动、适应自由职业节奏的人
-- 愿意持续创作和演出的艺术从业者
+**Who is suited**
+- For those with artistic talent who can accept unstable income
+- Self-driven individuals who adapt to the freelance lifestyle
+- art practitioners willing to create and perform continuously
 
-**谁不适合学Creative and Performing Artists Not Elsewhere Classified？**
-- 追求稳定薪水和固定工作时间者
-- 抗压能力弱、不擅长自我营销的人
+**Who is not suited**
+- Those seeking a stable salary and fixed working hours.
+- People with weak stress tolerance and poor self-marketing skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a creative performing artist?**
+A: Entry-level approx. €20k-€35k, mid-level €35k-€55k, senior up to €80k. Mostly part-time, actual income varies significantly.
+
+**Q: Can non-EU citizens immigrate to Ireland through this occupation?**
+A: Relatively difficult. Typically requires employer-sponsored General Employment Permit with annual salary no less than €30,000. Immigration pathways are limited unless exceptionally highly skilled.
+
+**Q: What are typical career progression paths for this occupation?**
+A: From temporary performers to fixed-term actors, then becoming directors or artistic directors. Some shift to arts education or event planning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Creative and Performing Artists Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for creative and performing artists?**
-答：Entry-level around €20k-€35k, mid-level €35k-€55k, senior up to €80k. Most work part-time, income varies.
-
-**问：Can non-EU citizens immigrate to Ireland through this occupation?**
-答：It's difficult. Typically requires a General Employment Permit with salary ≥€30,000. Limited migration path except for highly skilled talent.
-
-**问：What are typical career advancement paths?**
-答：From ad-hoc performer to contracted artist, then director or artistic director. Some move to arts education or event planning.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Health and Safety Engineers, Except Mining Safety Engineers and Inspectors（Health and Safety Engineers, Except Mining Safety Engineers and Inspectors）职业分析 · 美国
+# Health and Safety Engineers, Except Mining Safety Engineers and Inspectors — career analysis · United States
 
-**职业代码：17-2111 – Health and Safety Engineers, Except Mining Safety Engineers and Inspectors。**
+**Occupation code: 17-2111 (SOC)**
 
-Health and Safety Engineers promote worksite or product safety by applying knowledge of industrial processes, mechanics, chemistry, psychology, and industrial health and safety laws, including industrial product safety engineers.
+Health and Safety Engineers promote workplace or product safety by applying knowledge of industrial processes, mechanics, chemistry, psychology, and industrial health and safety regulations, including industrial product safety engineers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均约1万美金，私立大学约3万美金） |
-| 硕士学位 | 2年 | $30,000~$80,000（可选，有助于晋升或专攻） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities average about $10,000/year, private about $30,000) |
+| Master's degree | 2 years | $30,000~$80,000 (Optional, helpful for advancement or specialization) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位（工程或相关领域） | 大学 | 必备 | 通常为安全工程、机械工程或工业工程 |
-| 注册安全专业人员（CSP） | BCSP | 可选 | 广泛认可，需工作经验并通过考试 |
-| 职业健康与安全技术员（OHST） | BCSP | 可选 | 辅助性认证 |
-| 工业卫生师（CIH） | ABIH | 可选 | 专攻工业卫生 |
+| Bachelor's degree (engineering or related field) | University | Required | Typically safety engineering, mechanical engineering, or industrial engineering |
+| Certified Safety Professional (CSP) | BCSP | Optional | Widely recognized, requires work experience and passing exams. |
+| Occupational Health and Safety Technician (OHST) | BCSP | Optional | Auxiliary certification |
+| Certified Industrial Hygienist (CIH) | ABIH | Optional | Specializing in industrial hygiene |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 26,000。预计2023-2033年就业增长约4%，与所有职业平均持平。随着法规加强和职场安全意识提升，需求稳定。制造业、建筑业和政府部门为主要雇主。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 26,000. Expected employment growth of about 4% from 2023-2033, on par with the average for all occupations. Demand is stable as regulations tighten and workplace safety awareness increases. Manufacturing, construction, and government are major employers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 近年毕业的学士学位持有者 |
-| 中级（4-9年） | $85,000~$110,000 | 有CSP认证者薪资更高 |
-| 高级（10年以上） | $110,000~$150,000 | 安全经理或总监级别 |
+| Median salary | $115,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Bachelor's degree holders who graduated in recent years |
+| Intermediate (4-9 years) | $85,000~$110,000 | Those with CSP certification earn higher salaries |
+| Senior (10+ years) | $110,000~$150,000 | Safety manager or director level |
+| average salary | $119,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 初级工程师通常需3-5年经验晋升为高级工程师或安全经理；可通过获得CSP等认证转向管理岗位，或专攻特定领域如工业卫生或产品安全，最终可担任安全总监或副总裁。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
+
+Junior engineers typically need 3-5 years of experience to advance to senior engineer or safety manager; can move into management by obtaining certifications like CSP, or specialize in areas such as industrial hygiene or product safety, eventually becoming safety director or vice president.
+
+**Tasks most exposed to AI:**
+
+- Environmental monitoring data collection and preliminary analysis
+- Standard chapter writing for environmental impact assessment reports
+- Routine document generation for environmental compliance inspections
+- Parameter Tuning and Running of Pollution Dispersion Models
+- Progress tracking and report updates in project management
+
+**Where AI augments the role:**
+
+- Using AI for pollutant dispersion simulation and risk assessment
+- Optimizing water treatment process parameters using machine learning
+- Using natural language processing for rapid review of regulations and environmental impact reports
+- Combine remote sensing AI for ecological impact monitoring and early warning
+- Testing field planning solutions using AI-powered digital twins
+
+**Human moat:**
+
+- On-site field inspection and pollution source identification
+- Communication and negotiation with stakeholders (government, community)
+- Cross-disciplinary solution design for complex environmental issues
+- Take responsibility for signing environmental impact reports (registered engineer)
+- Development and application of innovative repair technologies
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning basics
+- GIS and remote sensing AI (e.g., ArcGIS Pro, Google Earth Engine).
+- AI integration of environmental modeling software (EFDC, MODFLOW)
+- Integration of project management with AI tools (e.g., Asana, Jira)
+- Reading environmental regulations and AI-assisted compliance tools
+- Digital twin and IoT data platform operation
+
+**Key growth areas:**
 
 - Safety Regulations
 - Industrial Hygiene
@@ -63,69 +99,68 @@ Health and Safety Engineers promote worksite or product safety by applying knowl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于拥有学士学位及以上且职位为专业职业的申请人，需抽签。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card (Advanced Degree)） | 适用于持有硕士及以上学历或特殊能力的申请人，需PERM劳工证。 |
-| Subclass EB-3（EB-3 Employment-Based Green Card (Skilled Workers)） | 适用于本科及以上学历的熟练工人，需PERM劳工证。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification (PERM)） | 雇主担保绿卡流程，需证明无法找到合适美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to applicants with a bachelor's degree or higher and a professional occupation, requiring lottery. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | For applicants with a master's degree or higher, or exceptional ability; requires PERM labor certification. |
+| Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Workers)) | For skilled workers with a bachelor's degree or higher, requires PERM labor certification. |
+| Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Employer-sponsored green card process, requires proving inability to find suitable US workers. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health and Safety Engineers, Except Mining Safety Engineers and Inspectors？**
-- 注重细节且对法规敏感的人
-- 喜欢跨学科解决问题的人
-- 希望在职场中发挥保护作用的人
-
-**谁不适合学Health and Safety Engineers, Except Mining Safety Engineers and Inspectors？**
-- 不喜欢频繁现场检查和出差的人
-- 对重复性行政工作缺乏耐心的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and sensitive to regulations
+- People who like solving problems across disciplines
+- People who want to play a protective role in the workplace
+
+**Who is not suited**
+- People who dislike frequent on-site inspections and travel
+- People who lack patience for repetitive administrative tasks
+
+---
+
+## 8. FAQ
+
+**Q: Does the salary of health and safety engineers vary significantly by industry?**
+A: Yes. For example, the oil and gas extraction industry has higher salaries (median about $120,000), while local government salaries are lower (about $80,000). Manufacturing and construction are in between.
+
+**Q: What are the main pathways for a safety engineer to apply for a US green card?**
+A: Common route is through EB-2 or EB-3 categories, employer-sponsored with PERM labor certification. Typically requires bachelor's or master's degree and at least 3-5 years of experience.
+
+**Q: How helpful is CSP certification for career development?**
+A: CSP is one of the most recognized certifications in the industry, aiding promotion and salary increase. Many senior positions require or prefer CSP. Requires at least 3 years of safety work experience and passing an exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Health and Safety Engineers, Except Mining Safety Engineers and Inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do salaries for health and safety engineers vary significantly by industry?**
-答：Yes. For instance, the oil and gas extraction industry offers higher salaries (median around $120,000), while local government offers lower pay (around $80,000). Manufacturing and construction fall in between.
-
-**问：What is the main pathway for safety engineers to obtain a US green card?**
-答：Common pathways are EB-2 or EB-3 categories, requiring employer sponsorship and PERM labor certification. Typically, a bachelor's or master's degree and 3-5 years of experience are needed.
-
-**问：How helpful is the CSP certification for career advancement?**
-答：CSP is one of the most recognized certifications in the field, aiding promotion and salary increase. Many senior positions require or prefer CSP. It requires at least 3 years of safety experience and passing an exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

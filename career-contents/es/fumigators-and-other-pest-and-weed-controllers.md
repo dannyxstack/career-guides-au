@@ -1,60 +1,95 @@
-# Fumigators and Other Pest and Weed Controllers（Fumigators and Other Pest and Weed Controllers）职业分析 · ES
+# Fumigators and Other Pest and Weed Controllers — career analysis · Spain
 
-**职业代码：7894 – Fumigators and Other Pest and Weed Controllers。**
+**Occupation code: 7894 (CNO)**
 
-Identify, prevent and eliminate pests, weeds and pathogens using chemical, biological or physical methods to protect crops, buildings and public health.
+Engage in identification, prevention, and elimination of harmful organisms (pests, weeds, pathogens), and use chemical, biological, or physical methods to protect crops, buildings, and public health.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校几乎免费，仅少量杂费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立学校免学费，私立约€2000-5000/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are almost free, with only a small amount of fees) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$2,500 (Public schools are free of tuition, while private ones pay about €2000-5000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 官方熏蒸操作员执照（Carné de Fumigador） | 西班牙农业、渔业和食品部（MAPA）及自治区 | 必备 | 法律要求，必须通过官方培训和考试获得 |
-| 职业培训学位（Técnico en Sanidad Ambiental） | 西班牙教育部认可的职业学校 | 可选 | FP Grado Superior，涵盖虫害防治与环境卫生 |
+| Official Fumigador Operator License (Carné de Fumigador) | The Spanish Ministry of Agriculture, Fisheries and Food (MAPA) and its autonomous communities | Required | Legal requirements must be obtained through official training and examinations |
+| Vocational Training Degree (Técnico en Sanidad Ambiental) | Vocational schools recognized by the Spanish Ministry of Education | Optional | FP Grado Superior, covering pest control and environmental hygiene |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。受农业现代化、城市卫生要求提高及生态保护政策推动，西班牙对专业虫害防治人员的需求稳定增长，尤其在地中海沿岸农业区和旅游城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Driven by agricultural modernization, increased urban sanitation requirements, and ecological protection policies, Spain's demand for professional pest control personnel has steadily increased, especially in agricultural regions along the Mediterranean coast and tourist cities.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，多为受雇于虫害防治公司 |
-| 中级（3-7年） | $22,000~$28,000 | 含经验补贴和绩效奖金 |
-| 高级（7年以上） | $28,000~$35,000 | 团队主管或自雇者收入可达更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, mostly employed by pest control companies |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including experience allowance and performance bonus |
+| Senior (7+ years) | $28,000~$35,000 | Team leaders or self-employed individuals can earn even more |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级操作员晋升为团队主管或区域经理，也可通过考取高级执照向综合虫害管理（IPM）顾问或自营企业主发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly improve fumigation operators' monitoring and data analysis efficiency, but physical operations, safety compliance, and emergency judgment still heavily rely on manual labor, resulting in a mixed industry trend.
+
+You can advance from junior operator to team leader or regional manager, or develop into Integrated Pest Management (IPM) consultants or proprietorships by obtaining advanced licenses.
+
+**Tasks most exposed to AI:**
+
+- Automatic monitoring of pest species and densities based on image recognition
+- Pesticide application plans are automatically generated based on historical data and meteorological models
+- Standard chemical fumigation dosage calculation and automatic formulation ratio
+- Automated execution of routine spraying routes and dosages (such as robotic application)
+
+**Where AI augments the role:**
+
+- Large-scale rapid pest investigations are conducted using drones and image recognition
+- Using big data analysis to predict pest and disease outbreak risks and optimal control timing
+- Simulating the environmental and economic impacts of different application regimens using digital twins
+- Use smart wearable devices to monitor safety indicators in the operating environment in real time
+- Automatically generate compliance reports and medication records, improving document management efficiency
+
+**Human moat:**
+
+- On-site emergency decision-making and handling of unexpected situations (such as leaks and poisoning incidents)
+- Flexible pesticide application and equipment adjustment in complex environments (such as non-standard buildings and mixed crops).
+- Communicate with farmers and managers to develop customized comprehensive prevention and control plans
+- Identification and special treatment methods for new or rare pests and diseases
+- Final judgment on safety supervision responsibilities and legal compliance
+
+**Skills to build:**
+
+- Drone operation and route planning (including certificate)
+- Agricultural Internet of Things (IoT) and sensor data analysis
+- Application of GIS (Geographic Information System) in pest monitoring
+- Basic machine learning and image recognition tools (such as apps like Plantix)
+- Digital records and compliance management software (such as AgriWebb)
+- Advanced Integrated Pest Management (IPM) course and ecological knowledge
+
+**Key growth areas:**
 
 - Integrated Pest Management
 - Organic farming
@@ -63,64 +98,66 @@ Identify, prevent and eliminate pests, weeds and pathogens using chemical, biolo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 由西班牙公司担保的工作居留，需证明职位无法由本地人填补，职业非高技能通常难度较大。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Work residence sponsored by a Spanish company requires proof that the position cannot be filled locally; occupations that are not high‑skilled are generally more difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fumigators and Other Pest and Weed Controllers？**
-- 喜欢户外工作、动手操作及环境管理的人
-- 愿意接受专业培训并遵守安全规范的人
-- 希望在农业、公共卫生或环保领域稳定就业的人
+**Who is suited**
+- People who enjoy outdoor work, hands-on operations, and environmental management
+- Individuals willing to receive professional training and comply with safety regulations
+- People who hope to find stable employment in agriculture, public health, or environmental protection
 
-**谁不适合学Fumigators and Other Pest and Weed Controllers？**
-- 对化学药剂敏感或厌恶户外体力劳动的人
-- 追求高收入或快速晋升路径的人
+**Who is not suited**
+- People who are sensitive to chemicals or dislike outdoor physical labor
+- People pursuing high income or rapid promotion paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for fumigators in Spain?**
+A: Entry-level about €18,000-22,000 gross annual salary, mid-level €22,000-28,000, senior up to €35,000, but overall below Spanish average.
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: It's very difficult. This occupation is not classified as a high-skilled shortage occupation, and Spain prioritizes hiring local or EU citizens, with a very low approval rate for third-country job sponsorship.
+
+**Q: What certificates are required to work in pest control in Spain?**
+A: You must hold a fumigation operator license (Carné de Fumigador) issued by the autonomous region, and pass official training courses and exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fumigators and Other Pest and Weed Controllers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of fumigators in Spain?**
-答：Entry-level around €18,000-22,000 gross per year, mid-level €22,000-28,000, senior up to €35,000, below national average.
-
-**问：Can non-EU citizens immigrate to Spain through this occupation?**
-答：Very difficult. It is not a high-skilled shortage occupation and local/EU priority makes third-country work permits rarely approved.
-
-**问：What certificates are required for pest control in Spain?**
-答：A mandatory Fumigator Operator License (Carné de Fumigador) issued by the autonomous community, obtained through official training and exam.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Waiters and waitresses（Waiters and waitresses）职业分析 · UK
+# Waiters and waitresses — career analysis · United Kingdom
 
-**职业代码：9264 – Waiters and waitresses。**
+**Occupation code: 9264 (SOC)**
 
-Waiters and waitresses serve food and beverages in hotels, clubs, restaurants and other establishments, including taking orders, serving, and handling payments.
+Waiters provide food and beverage services in hotels, bars, restaurants and other venues, including taking orders, serving and billing.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 不适用 | —（通常无需正式学历，在职培训为主） |
+| High school graduation | Not applicable | $0~$0 (Usually no formal qualifications required; on-the-job training is primary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | CIEH/Chartered Institute of Environmental Health | 可选 | 部分雇主要求，非强制 |
+| Food safety certificate | CIEH/Chartered Institute of Environmental Health | Optional | Required by some employers, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。英国餐饮业持续复苏，但服务员岗位受季节性影响较大，就业前景稳定但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. The UK hospitality industry continues to recover, but waiter positions are significantly affected by seasonality. Employment prospects are stable but competition is intense.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $17,000~$21,000 | 含小费，年龄相关最低工资 |
-| 中级（3-5年） | $21,000~$25,000 | 含小费，知名餐厅更高 |
-| 高级（5年以上） | $25,000~$35,000 | 含小费，主管或高级餐厅 |
+| Median salary | $22,936 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $17,000~$21,000 | Includes tips; age-related minimum wage |
+| Mid-level (3–5 years) | $21,000~$25,000 | Includes tips, higher at well-known restaurants |
+| Senior (5+ years) | $25,000~$35,000 | Including tips, supervisor or high-end restaurant |
+| average salary | $22,787 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级服务员可晋升为领班、主管或餐厅经理，部分可转向调酒或厨房管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on waitstaff is mixed: repetitive tasks like taking orders and billing will be automated, but AI can also enhance personalized service and efficiency; human emotional interaction and flexibility remain core strengths.
+
+Junior waitstaff can advance to head waiter, supervisor, or restaurant manager, some may transition to bartending or kitchen management.
+
+**Tasks most exposed to AI:**
+
+- Place orders via self-service ordering systems or mobile apps
+- Process payments using mobile payment or self-checkout machines
+- Handle common customer inquiries via AI chatbot
+- Using electronic menus and recommendation algorithms to provide dish information
+
+**Where AI augments the role:**
+
+- AI analyzes customer preferences and allergy information to recommend personalized dishes
+- AI optimizes work schedules and serving times to improve service efficiency.
+- AI-assisted inventory management, automatically predicting ingredient demand and restocking
+- AI provides multilingual translation to assist in servicing international customers.
+- AI records customer history for personalized reception and follow-up
+
+**Human moat:**
+
+- Flexible problem-solving and creative adaptability in complex scenarios
+- Emotional connection and empathy in real human interactions
+- On-the-spot judgment in handling emergencies (e.g., complaints, allergic reactions)
+- The artistry of creating atmosphere and personalized service
+- Close trust-based relationships with customers and word-of-mouth recommendations
+
+**Skills to build:**
+
+- Learning to use AI ordering and POS systems
+- Mastery of basic customer data analysis tools
+- Improve cross-cultural communication and service skills
+- Learn emotional management and conflict resolution skills
+- Knowledge of catering hygiene regulations and food safety standards
+- Learning basic multilingual service phrases
+
+**Key growth areas:**
 
 - Customer service
 - Seasonal employment
@@ -61,62 +96,64 @@ Waiters and waitresses serve food and beverages in hotels, clubs, restaurants an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 薪资门槛高，通常不符合要求；但在高档餐厅如服务员兼管理岗可能合格 |
-| Subclass Graduate（Graduate Visa） | 毕业生可工作2年，不限工作类型，但服务员非技术岗位 |
+| Subclass Skilled Worker (Skilled Worker Visa) | High salary threshold, usually not met; but may qualify for upscale restaurant roles like waiter/management combo |
+| Subclass Graduate (Graduate Visa) | Graduates can work for 2 years, any job type, but waiter is a non-skilled role |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Waiters and waitresses？**
-- 善于沟通、能承受快节奏工作的人
-- 希望灵活就业或兼职的学生
-- 有志于餐饮管理职业的人
+**Who is suited**
+- Good communication skills and able to work under fast-paced conditions
+- Students seeking flexible employment or part-time work
+- Those aspiring to a career in catering management
 
-**谁不适合学Waiters and waitresses？**
-- 不善于与人打交道或不喜欢站立工作的人
-- 需要稳定高收入或职业晋升明确的人
+**Who is not suited**
+- People who are not good at interacting with others or dislike standing work
+- People needing stable high income or clear career progression
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of a waiter?**
+A: Annual salary about £17,000-£35,000, with a significant portion from tips; higher in fine dining or for supervisors.
+
+**Q: Can waiters apply for a work visa?**
+A: Typically does not meet skilled visa requirements due to insufficient salary and skill thresholds. Only management and service levels may qualify.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Waiters and waitresses属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for waiters?**
-答：Annual salary ranges from £17,000 to £35,000, with tips included; higher in upscale restaurants.
-
-**问：Can waiters get a work visa?**
-答：Generally not eligible for Skilled Worker visa due to low salary and skill level; only management roles may qualify.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

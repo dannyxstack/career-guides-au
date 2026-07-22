@@ -1,61 +1,94 @@
-# Waste Collectors（Waste Collectors）职业分析 · ES
+# Waste Collectors — career analysis · Spain
 
-**职业代码：9441 – Waste Collectors。**
+**Occupation code: 9441 (CNO)**
 
-Waste collectors gather and transport municipal solid waste and recyclables, operate garbage trucks, and maintain public sanitation. The job is mostly outdoors and physically demanding.
+Garbage collectors are responsible for collecting and transporting urban household waste and recyclables, operating garbage trucks, and ensuring environmental hygiene. Most work takes place outdoors, requiring physical labor.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无需正规学历 | —（通常接受初中教育即可） |
-| 职业培训 FP | 1-2年 | $100~$500（可选废物管理或相关FP课程） |
+| Compulsory education | No formal education required | $0~$0 (Usually, junior high school education is sufficient) |
+| Vocational Training FP | 1-2 years | $100~$500 (Optional waste management or related FP courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾照（C类或C+E） | 西班牙交通总局DGT | 必备 | 驾驶垃圾车需货车驾照 |
-| 垃圾处理操作证书 | SEPE或工会培训 | 可选 | 非强制但有助于就业 |
-| 危险废物处理培训 | 劳工部 | 必备 | 若接触有害废物则需此认证 |
+| Driver's license (Class C or C+E) | Spanish Directorate General of Transport (DGT). | Required | Driving a garbage truck requires a truck driver's license |
+| Hazardous waste handling training | Ministry of Labor | Required | This certification is required if exposed to hazardous waste |
+| Garbage disposal operation certificate | SEPE or union training | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙城市化推进与环保法规趋严，垃圾收集岗位需求稳定，但自动化可能减少部分人力需求。预计2025-2030年从业人数小幅增长。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. With urbanization and stricter environmental regulations in Spain, demand for waste collection positions remains stable, but automation may reduce some labor needs. The number of employees is expected to grow slightly from 2025 to 2030.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $16,000~$20,000 | 税前年薪，含夜班补贴 |
-| 中级（2-5年） | $20,000~$25,000 | 税前年薪，含加班费 |
-| 高级（5年以上） | $25,000~$30,000 | 税前年薪，含主管津贴 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $16,000~$20,000 | Pre-tax annual salary, including night shift allowance |
+| Intermediate (2-5 years) | $20,000~$25,000 | Annual salary before tax, including overtime pay |
+| Senior (5+ years) | $25,000~$30,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为垃圾车驾驶员、车队主管，或通过培训转向废物处理技术员、环境监督员等职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on waste collectors is mixed: route planning and sorting will be automated, but manual labor, safety judgment, and customer interaction will still rely on humans.
+
+You can be promoted to garbage truck driver, fleet supervisor, or through training to positions such as waste treatment technician or environmental supervisor.
+
+**Tasks most exposed to AI:**
+
+- Automatically plan garbage truck routes through AI route optimization
+- Automatically sort recyclables using computer vision and robotic arms
+- Onboard sensors monitor the overflow level of trash bins, reducing manual inspections
+- Automatically recording and reporting collected data (weight, location, time)
+
+**Where AI augments the role:**
+
+- AI-assisted waste classification certification improves recycling accuracy
+- Real-time traffic and meteorological data analysis optimizes daily work schedules
+- Wearable devices monitor workers' health and safety to prevent heatstroke or accidents
+- Digital twin simulation drills train workers in operating in complex scenarios
+
+**Human moat:**
+
+- Flexible response to emergencies (such as hazardous waste leaks and illegal disposal).
+- Communication and negotiation with residents and merchants (such as complaints about littering)
+- Manual driving and handling judgments in adverse weather or complex terrain
+- Sorting, moving, and manual handling of large waste (such as furniture and appliances).
+
+**Skills to build:**
+
+- Operate and maintain autonomous garbage trucks and their assistance systems
+- Basic diagnostic and maintenance skills (sensors, robotic arms, GPS)
+- Data analysis and report generation (using Excel or simple BI tools)
+- Safety procedures and chemical knowledge (especially hazardous waste handling)
+- Customer Service and Communication Skills (Handling Public Complaints and Interpreting Classification Rules)
+- Team coordination and emergency management (manual take over when automation systems fail)
+
+**Key growth areas:**
 
 - Stable demand
 - Urbanization
@@ -64,65 +97,67 @@ Waste collectors gather and transport municipal solid waste and recyclables, ope
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主提供工作合同，劳工市场测试优先考虑本地人，外籍劳工获批难度大。 |
-| Subclass Busqueda empleo（Job Search Visa） | 持有此签证可在西班牙寻找工作，但垃圾收集工非高技能职业，获批率低。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A work contract from a Spanish employer is required, and labor market testing prioritizes local workers; foreign workers are more difficult to approve. |
+| Subclass Busqueda empleo (Job Search Visa) | Holding this visa allows you to find work in Spain, but garbage collectors are not highly skilled occupations and have a low approval rate. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Waste Collectors？**
-- 体力好、不介意户外工作者
-- 希望尽快就业、不需要高学历者
-- 能接受轮班和早班的工作者
+**Who is suited**
+- Those with good stamina who don't mind outdoor work
+- For those seeking quick employment and not requiring high qualifications.
+- Workers who can accept shift and early shifts
 
-**谁不适合学Waste Collectors？**
-- 畏惧脏污或气味者
-- 偏好办公室或技术性工作的人
+**Who is not suited**
+- Those who fear dirt or odors
+- People who prefer office or technical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for garbage collectors in Spain?**
+A: Gross annual salary approx EUR 18,000-28,000, depending on experience and region. Major cities like Madrid and Barcelona pay higher.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: Extremely difficult. This occupation is not considered high-skilled or in shortage; employers must prove that no suitable candidate can be recruited within the EU, and salary levels are unlikely to meet Blue Card requirements.
+
+**Q: Is there room for promotion for garbage collectors?**
+A: Yes. You can be promoted to garbage truck driver, fleet supervisor, or through training to positions such as waste treatment technician or environmental supervision.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 难（★★★★½） |
-
-Waste Collectors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a waste collector in Spain?**
-答：Gross annual salary ranges from €18,000 to €28,000, depending on experience and location, with higher pay in big cities like Madrid and Barcelona.
-
-**问：Can a foreigner immigrate to Spain through this occupation?**
-答：Very difficult. This occupation is not high-skilled or in shortage; employers must prove inability to hire within the EU, and salary rarely meets Blue Card thresholds.
-
-**问：Is there room for advancement as a waste collector?**
-答：Yes. You can advance to garbage truck driver, fleet supervisor, or move into waste treatment technician or environmental inspector roles with additional training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

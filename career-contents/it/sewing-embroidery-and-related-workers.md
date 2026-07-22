@@ -1,60 +1,92 @@
-# Sewing, Embroidery and Related Workers（Sewing, Embroidery and Related Workers）职业分析 · IT
+# Sewing, Embroidery and Related Workers — career analysis · Italy
 
-**职业代码：7533 – Sewing, Embroidery and Related Workers。**
+**Occupation code: 7533 (ISCO08)**
 
-Sew, embroider, repair or decorate garments, textiles and other articles, operating industrial sewing machines or doing handcraft work.
+Engage in sewing, embroidery, mending, or decorating of clothing, textiles, etc., including operating industrial sewing machines and handcrafting
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 3年（高中） | —（公立学校免费，可能需教材费） |
-| 职业培训 | 1-2年（职业证书） | $500~$3,000（地区职业培训中心费用） |
+| Secondary Education | 3 years (high school) | $0~$500 (Public schools are free, but may require textbook fees) |
+| Vocational training | 1–2 years (vocational certificate) | $500~$3,000 (Regional vocational training center fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缝纫工职业技能证书 | 各地区职业培训中心 | 可选 | 证明基础缝纫操作能力，非强制但受雇主青睐 |
-| 高级刺绣或服装修复专项证书 | 私立时装学校或行业协会 | 可选 | 针对高端市场，提升竞争力 |
+| Sewing worker vocational skill certificate | Regional vocational training centers | Optional | Ability to demonstrate basic sewing operations, not mandatory but favored by employers. |
+| Specialized certificate in advanced embroidery or garment repair | Private fashion schools or industry associations | Optional | Targeting the high-end market to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 50,000。意大利缝纫业面临劳动力老龄化和技能短缺，尤其是高端定制和修复领域。自动化对低端岗位有冲击，但手工技艺需求稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. Italy's sewing industry faces labor aging and skills shortages, especially in high-end customization and restoration. Automation impacts low-end positions, but demand for manual skills remains stable.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，小型工坊或工厂 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪，经验丰富者 |
-| 高级（7年以上） | $26,000~$35,000 | 税前年薪，高级技师或自主经营者 |
+| Median salary | $23,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$20,000 | Annual salary before tax, small workshop or factory. |
+| Mid-level (3–7 years) | $20,000~$26,000 | Pre-tax annual salary, experienced |
+| Senior (7+ years) | $26,000~$35,000 | Pre-tax annual salary, senior technician or self-employed |
+| average salary | $23,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从缝纫工晋升为样版师、生产主管或自主创业开设裁缝店。掌握高级刺绣或修复技能可进入奢侈品或影视服装行业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Sewing, embroidery, and related workers face mixed impacts from AI and automation: repetitive sewing tasks are easily automated, but high-end tailoring, creative design, and manual craftsmanship still have human moats.
+
+Can progress from sewing machinist to pattern maker, production supervisor, or start own tailoring business. Mastering advanced embroidery or restoration skills can lead to work in luxury fashion or film costume industries.
+
+**Tasks most exposed to AI:**
+
+- Automated sewing machines perform standardized straight stitching and overlocking.
+- AI layout systems automatically arrange embroidery patterns and generate machine instructions.
+- Computer vision detects stitch defects and automatically adjusts parameters
+
+**Where AI augments the role:**
+
+- AI-assisted design software quickly generates embroidery patterns and previews them.
+- Smart sewing machine automatically adjusts tension based on fabric elasticity
+- Using AR technology to overlay virtual samples to assist hand sewing
+- Data analysis optimizes production scheduling to reduce changeover time
+
+**Human moat:**
+
+- Aesthetic and tactile qualities of complex techniques such as hand embroidery and seed stitch
+- Expertise in three-dimensional tailoring and creative design for custom clothing.
+- Exclusive handling experience with non-standard fabrics (silk, leather)
+- Communicate face-to-face with clients to understand personalized needs
+
+**Skills to build:**
+
+- Digital embroidery design software (e.g., Wilcom, Tajima)
+- Industrial sewing machine programming and automated tuning
+- Fabric properties and sustainable materials knowledge
+- Basic CAD pattern making and 3D garment simulation
+- Customer communication and customized service skills
+- Lean production and quality control methods
+
+**Key growth areas:**
 
 - Handcraft revival
 - Luxury fashion repair
@@ -63,62 +95,64 @@ Sew, embroider, repair or decorate garments, textiles and other articles, operat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi（Decreto Flussi Quota Work Visa） | 非欧盟配额工作签证，需雇主担保，缝纫工通常不在优先列表中。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，缝纫工薪资通常不满足门槛。 |
+| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Non-EU quota work visa, requiring employer sponsorship; sewing machinists are usually not on the priority list. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions; seamstress salaries typically do not meet the threshold. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sewing, Embroidery and Related Workers？**
-- 喜欢手工制作、注重细节的人
-- 愿意在传统行业深耕、学习高级技艺的人
-- 对时尚或修复行业有热情的人
+**Who is suited**
+- Enjoys handcrafting and pays attention to detail
+- Willing to stay in a traditional industry and develop advanced skills
+- People with a passion for the fashion or restoration industry
 
-**谁不适合学Sewing, Embroidery and Related Workers？**
-- 希望高薪或快速晋升的人
-- 不习惯重复性手工劳动的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who are not used to repetitive manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a seamstress in Italy?**
+A: Entry-level annual salary approx. €16,000-20,000, mid-level €20,000-26,000, senior up to €35,000.
+
+**Q: Can foreigners immigrate to Italy through the sewing machinist occupation?**
+A: Relatively difficult. Sewing machine operators are generally not in high demand; quota-based work visas (Decreto Flussi) have limited slots, and the Blue Card salary threshold is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sewing, Embroidery and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sewing workers in Italy?**
-答：Entry-level annual salary is about 16,000-20,000 EUR, mid-level 20,000-26,000 EUR, senior up to 35,000 EUR.
-
-**问：Can foreigners immigrate to Italy as sewing workers?**
-答：It is difficult. Sewing workers are not typically in shortage, Decreto Flussi quotas are limited, and EU Blue Card salary threshold is high.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

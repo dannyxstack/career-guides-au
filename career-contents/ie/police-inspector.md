@@ -1,61 +1,96 @@
-# Police Inspector（Police Inspector）职业分析 · IE
+# Police Inspector — career analysis · Ireland
 
-**职业代码：3355 – Police Inspector。**
+**Occupation code: 3355 (ISCO08)**
 
-Police Inspectors oversee criminal investigations, manage teams of officers, and ensure law enforcement complies with legal procedures, serving as senior ranks in the Irish police force.
+A Police Inspector oversees criminal investigations and manages teams of police officers, ensuring law enforcement complies with legal procedures. This is a senior position in the Irish police force.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（警务培训） | —（带薪培训，无需学费） |
-| 本科（社会或法律相关） | 3-4年 | $12,000~$20,000（爱尔兰公立大学年学费） |
+| High school graduation | 4 years (police training) | $0~$0 (Paid training with no tuition fees) |
+| Bachelor's degree (social sciences or law related) | 3-4 years | $12,000~$20,000 (Annual tuition at Irish public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 警务学士学位（可选） | 爱尔兰国立大学 | 可选 | 非强制，但有助于晋升 |
-| 警员资格认证 | 爱尔兰警察学院 | 必备 | 完成培训并通过考试 |
-| 内部晋升考试 | 爱尔兰警队 | 必备 | 通过笔试和面试 |
+| Police officer certification | Irish Police College | Required | Complete training and pass the exam |
+| Internal promotion exam | Irish police force | Required | Through written exam and interview |
+| Bachelor's degree in Policing (optional) | National University of Ireland | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。爱尔兰政府持续增加警力预算以应对复杂的犯罪活动，督察职位需求稳定，竞争激烈但晋升机会明确。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. The Irish government continues to increase police budgets to address complex criminal activities, inspector roles have steady demand, competition is intense but promotion opportunities are clear.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 警员起薪，含津贴 |
-| 中级（3-10年） | $65,000~$80,000 | 警长级别 |
-| 高级（10年以上） | $85,000~$100,000 | 督察级别 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Police officer starting salary, including allowances |
+| Intermediate (3-10 years) | $65,000~$80,000 | Sheriff level |
+| Senior (10+ years) | $85,000~$100,000 | Inspector level |
+| average salary | $71,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从警员起步，经过多年经验晋升至警长，再通过选拔和培训成为督察，之后可升任总监等高级管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core duties such as policy decision-making, community relations, and accountability for police committee officers are difficult to replace with AI, but tasks like administration, data analysis, and report generation can be automated, resulting in mixed overall impact.
+
+Usually start as a police officer, advance to sergeant after years of experience, then become inspector through selection and training, and later rise to senior management positions such as superintendent.
+
+**Tasks most exposed to AI:**
+
+- Automatic license plate recognition and violation detection in routine patrols and traffic enforcement
+- Preliminary case report generation and data entry.
+- Data analysis in resource allocation and budgeting
+- Basic database search and matching of suspect and incident information
+
+**Where AI augments the role:**
+
+- AI-assisted crime prediction analysis to optimize police deployment
+- AI enhances internal audit and compliance monitoring, improving management transparency
+- AI-supported training simulation systems to improve leadership and decision-making training outcomes
+- Automated report generation tool saves administrative time for strategic planning.
+- AI-driven community sentiment analysis to improve public relations
+
+**Human moat:**
+
+- Major policy formulation and strategic decision-making, involving ethical and public value trade-offs
+- On-site command and leadership during crisis events (e.g., large-scale riots, natural disasters)
+- Build and maintain community trust and cross-agency partnerships
+- Performance evaluation and career coaching for subordinate police officers.
+- Legal liability and public accountability
+
+**Skills to build:**
+
+- Data-driven decision-making and policing analysis tools (e.g., PredPol)
+- AI project management and supplier evaluation capabilities
+- Change management and digital leadership
+- Foundations of cybercrime and digital forensics
+- Public Communication & Media Handling Skills (AI-generated content verification)
+- Ethical AI and bias audit knowledge
+
+**Key growth areas:**
 
 - Public safety
 - Cyber crime
@@ -64,65 +99,67 @@ Police Inspectors oversee criminal investigations, manage teams of officers, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于高级职业，但警察职位通常仅限欧盟公民，非欧盟申请人极难获得。 |
-| Subclass General Employment P（General Employment Permit） | 不适用于警察职位，因非欧盟公民通常不能加入爱尔兰警队。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to high-skilled occupations, but police positions are usually limited to EU citizens, extremely difficult for non-EU applicants. |
+| Subclass General Employment P (General Employment Permit) | Not applicable for police positions, as non-EU citizens generally cannot join the Irish police force. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Police Inspector？**
-- 有强烈正义感和执法热情
-- 适应高压和轮班工作
-- 具备领导力和沟通能力
+**Who is suited**
+- Strong sense of justice and passion for law enforcement
+- Able to work under pressure and shift work
+- Possess leadership and communication skills
 
-**谁不适合学Police Inspector？**
-- 不喜严格等级制度
-- 无法承受高强度心理压力
+**Who is not suited**
+- Dislike strict hierarchy.
+- Unable to withstand high-intensity psychological stress
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a police inspector?**
+A: Junior inspector annual salary approx. €85,000-€100,000, excluding overtime and special allowances.
+
+**Q: Can non-EU citizens become police officers in Ireland?**
+A: EU citizenship is usually required; non-EU citizens find it very difficult to obtain police force positions.
+
+**Q: How to Become a Police Inspector?**
+A: Start as a police officer, progress through internal exams and assessments, and advance with experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Police Inspector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a police inspector?**
-答：A starting inspector earns around €85,000 to €100,000 annually, excluding overtime and allowances.
-
-**问：Can non-EU citizens become Irish police officers?**
-答：Typically requires EU citizenship; non-EU applicants rarely succeed.
-
-**问：How to become a police inspector?**
-答：Start as a officer, pass internal exams and assessments, and gain experience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Travel Agency Employees（Travel Agency Employees）职业分析 · ES
+# Travel Agency Employees — career analysis · Spain
 
-**职业代码：4421 – Travel Agency Employees。**
+**Occupation code: 4421 (CNO)**
 
-Travel agency employees provide travel advice, book flights, hotels, car rentals, and tour packages, handle itineraries and customer relations, serving as key frontline staff in the tourism industry.
+Travel agency staff are responsible for providing clients with travel consultation, booking flights, hotels, car rentals, and travel packages, handling itinerary arrangements and client relationships, and are key frontline positions in the tourism industry.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或职业教育 | 2年（FP Grado Medio） | —（公立FP几乎免费） |
-| 旅游管理专科或本科 | 3-4年（Grado） | $1,500~$5,000（公立大学年均学费） |
+| High school or vocational education | 2 years (FP Grado Medio) | $0~$1,000 (Public FPs are almost free) |
+| Associate degree or bachelor's degree in Tourism Management | 3-4 years (Grado) | $1,500~$5,000 (Average annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 旅游管理学位或FP文凭 | 西班牙教育部认可的大学或职教中心 | 可选 | 非强制但大幅提升竞争力 |
-| 语言能力证书（英语及其他外语） | 剑桥、托福、DELE等 | 可选 | 旅行社普遍要求流利外语 |
-| IATA/UFTAA旅游证书 | 国际航空运输协会 | 可选 | 在航空票务方面有优势 |
+| Degree in Tourism Management or FP diploma | Universities or vocational education centers recognized by the Spanish Ministry of Education | Optional | Non-mandatory but significantly enhancing competitiveness |
+| Language Proficiency Certificate (English and other foreign languages) | Cambridge, TOEFL, DELE, etc | Optional | Travel agencies generally require fluency in foreign languages |
+| IATA/UFTAA travel certificate | International Air Transport Association | Optional | There is an advantage in airline ticketing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙旅游业发达，每年吸引大量国际游客，但受季节性影响明显。数字化和在线预订平台的兴起对传统旅行社岗位形成冲击，但高端定制旅游和商务旅行咨询需求仍存，就业前景相对稳定，增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spain's tourism industry is well developed, attracting a large number of international visitors each year, but it is clearly affected by seasonal fluctuations. The rise of digitalization and online booking platforms has impacted traditional travel agency jobs, but demand for high-end customized travel and business travel consulting remains, with relatively stable job prospects and slow growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，含提成可能性 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪，含提成 |
-| 高级（7年以上） | $26,000~$34,000 | 税前年薪，主管或专家级 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, including commission potential |
+| Mid-level (3–7 years) | $20,000~$26,000 | Pre-tax annual salary, including commission |
+| Senior (7+ years) | $26,000~$34,000 | Pre-tax annual salary, supervisor or expert level |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 助理或初级咨询员起步，积累经验后可晋升为高级旅行顾问、团队主管或店长，也可转向旅游产品策划、目的地营销或会展管理等专业领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Travel agency staff face the high risk of AI automation replacing them, especially in tasks like booking and consulting, but at the same time, AI can enhance their personalized service capabilities, transforming them into travel consultants or planners.
+
+Starting as an assistant or junior consultant, you can gain experience and advance to senior travel consultant, team leader, or store manager, or you can also move into professional fields such as travel product planning, destination marketing, or exhibition management.
+
+**Tasks most exposed to AI:**
+
+- Standardized operations for booking flights, hotels, car rentals, and more
+- Handling simple client inquiries (such as flight schedules and visa requirements)
+- Generate standard itinerary and receipts
+- Conduct price comparisons and recommendations for tourism products
+
+**Where AI augments the role:**
+
+- Leverage AI to analyze customer historical data and provide personalized travel advice
+- Use AI tools to optimize your itinerary and budget planning
+- Handle routine inquiries through AI chatbots, freeing up time to focus on complex client needs
+- Use AI to generate multilingual marketing content and expand customer channels
+
+**Human moat:**
+
+- Emergency coordination capability to handle complex and unexpected situations (such as weather or strikes).
+- Deep customer relationship management to build trust and emotional connections
+- Creative planning and negotiation of high-end customized travel packages
+- Field knowledge and experience of the destination culture and customs
+
+**Skills to build:**
+
+- Use of AI tools (such as chatbots, data analysis platforms)
+- Digital marketing and social media management
+- Advanced applications of Customer Relationship Management (CRM) systems
+- Crisis management and response communication
+- Cross-cultural communication and foreign language skills
+- Data analysis and customer segmentation skills
+
+**Key growth areas:**
 
 - Stable
 - Seasonal
@@ -64,61 +97,63 @@ Travel agency employees provide travel advice, book flights, hotels, car rentals
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙雇主工作合同，该岗位不属于高技能短缺职业，获批难度较大，需满足市场劳动力测试。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 仅适用于管理或专业技术职位，旅行社普通职员通常不符合高学历高薪要求。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A Spanish employer work contract is required; this position is not classified as a high-skilled shortage occupation, making approval difficult and requiring compliance with market labor testing. |
+| Subclass Tarjeta azul UE (EU Blue Card) | This applies only to management or professional technical positions; ordinary travel agency staff usually do not meet the requirements for high education and high salary. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Travel Agency Employees？**
-- 善于沟通、服务意识强的外向型人才
-- 热爱旅游、熟悉多国文化且有多语言能力的人
+**Who is suited**
+- Extroverted talents who are good communicators and have a strong sense of service
+- People who love traveling, are familiar with multiple cultures, and have multiple language skills
 
-**谁不适合学Travel Agency Employees？**
-- 不喜欢频繁与客户面对面交流的人
-- 抗压能力弱、不耐受旺季高强度工作的人
+**Who is not suited**
+- People who dislike frequent face-to-face interactions with customers
+- People with weak stress tolerance and who cannot tolerate high-intensity work during peak seasons
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for travel agency staff?**
+A: Entry-level salary is about EUR 16,000-20,000, senior or supervisor can reach EUR 26,000-34,000, some include sales commissions; overall salary is relatively low.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: Travel agency staff are not in short supply in Spain; employer-sponsored work residency requires passing a labor market test, making non-EU immigration more challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Travel Agency Employees属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for travel agency employees?**
-答：Entry-level salary is around €16,000-20,000, senior or supervisor level can reach €26,000-34,000, some include commissions, overall low.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Travel agency employees are not on the shortage occupation list; employer-sponsored work permits require labor market tests, making it difficult for non-EU immigrants.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

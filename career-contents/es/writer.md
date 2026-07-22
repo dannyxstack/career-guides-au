@@ -1,60 +1,96 @@
-# Writer（Writer）职业分析 · ES
+# Writer — career analysis · Spain
 
-**职业代码：2921 – Writer。**
+**Occupation code: 2921 (CNO)**
 
-Writers create literary works such as novels, poetry, and scripts, or produce non-fiction content like biographies, histories, and criticism. They work for publishers, media, film/TV, or as freelancers, playing a key role in Spain's creative and cultural industries.
+Writers are responsible for creating literary works such as novels, poetry, scripts, or nonfiction content (such as biographies, histories, reviews), which may involve publishers, media, the film industry, or freelancing, playing a central role in Spain's cultural and creative industries.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 文学/新闻大学本科（Grado） | 4年 | $1,000~$3,500（公立大学学费区间，视自治区而定） |
-| 创意写作硕士（Máster） | 1年 | $2,000~$6,000（私立或公立大学专门课程） |
+| Undergraduate Degree in Literature/Journalism (Grado) | 4 years | $1,000~$3,500 (The tuition range for public universities varies depending on the autonomous region) |
+| Master of Creative Writing (Máster) | 1 year | $2,000~$6,000 (Specialized courses at private or public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 本科学位（文学/新闻/人文） | 西班牙公立/私立大学 | 可选 | 非强制但有助于出版机会 |
-| 西班牙语写作能力证明 | 专业机构或出版社 | 可选 | 作品集和出版纪录更关键 |
+| Bachelor's degree (Literature/Journalism/Humanities) | Spanish, public/private universities | Optional | Non-mandatory but helpful for publishing opportunities |
+| Proof of Spanish writing proficiency | Professional institutions or publishers | Optional | Portfolios and publication records are even more crucial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 25,000。西班牙文化市场活跃，但传统出版业因数字化和阅读下降面临挑战。自由作家竞争激烈，收入不稳定；内容创作需求向数字媒体和影视脚本倾斜。掌握西班牙语及加泰罗尼亚语等地区语言可拓宽机会。尚无明确紧缺信号。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,000. Spain's cultural market is active, but traditional publishing faces challenges due to digitalization and declining reading rates. Freelance writers face fierce competition and unstable income; Content creation demand is shifting toward digital media and film scripts. Mastering regional languages such as Spanish and Catalan can broaden your opportunities. There are no clear signals of shortage yet.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$20,000 | 自由作家或兼职，收入不稳定 |
-| 中级（3-8年） | $20,000~$35,000 | 签约作者或出版社编辑 |
-| 高级（8年以上） | $35,000~$60,000 | 知名作家，含版税和影视改编 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$20,000 | Freelance writers or part-time jobs with unstable income |
+| Mid-level (3–8 years) | $20,000~$35,000 | Contracted authors or publisher editors |
+| Senior (8+ years) | $35,000~$60,000 | A well-known author, including royalties and film adaptations |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径：自由作家→签约出版社作者→知名作家；或从助理编辑、内容策划起步。大型出版集团或影视公司提供有限全职岗位。部分作家兼授创意写作课程或从事翻译。成功依赖作品市场认可度与个人品牌。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The writer profession faces huge opportunities in AI-assisted creation, but the entry barrier has been lowered due to the widespread adoption of AI tools, intensifying competition, and overall risks and opportunities coexist.
+
+Promotion path: Freelance writer→ contracted publisher→ well-known author; Or start as assistant editor or content planner. Large publishing groups or film companies offer limited full-time positions. Some writers also teach creative writing courses or engage in translation. Success depends on market recognition of works and personal branding.
+
+**Tasks most exposed to AI:**
+
+- Generate structured content such as standard news reports and product descriptions
+- Write simple social media posts and marketing copy
+- Automatically generate a novel draft or story outline
+- Proofreading and basic grammar correction
+- Generate contract or technical document templates
+
+**Where AI augments the role:**
+
+- AI-assisted background research, data organization, and fact-checking
+- Generate creative inspiration and story frameworks through AI tools
+- Utilizing AI for multilingual translation and cross-cultural adaptation
+- AI-assisted editing optimizes writing style, rhythm, and readability
+- Use AI to analyze reader feedback and adjust content strategies
+
+**Human moat:**
+
+- A unique literary style and personal voice
+- Profound empathy and insight into human nature
+- Complex narrative structure design and thematic innovation
+- Multi-sensory, cross-media creative integration capabilities
+- Build long-term trust relationships with editors and readers
+
+**Skills to build:**
+
+- Master AI writing tools (such as ChatGPT and Claude) to assist in creation and iteration
+- Learn to use AI for data-driven audience analysis and content strategy
+- Enhance multimedia storytelling capabilities by combining AI-generated images and audio
+- Learn basic programming (such as Python) to customize your AI writing workflow
+- Strengthen copyright and ethical awareness, and make good use of AI without infringement
+- Enhance project management and self-marketing capabilities
+
+**Key growth areas:**
 
 - Digital content
 - Self-publishing
@@ -63,65 +99,67 @@ Writers create literary works such as novels, poetry, and scripts, or produce no
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需西班牙出版社或媒体提供全职合同，但行业稀缺，雇主难担保 |
-| Subclass Cuenta propia（Self-employed work permit） | 自由作家可申请，需证明稳定收入和客户，门槛高 |
+| Subclass Cuenta ajena (Work permit for employed workers) | A full-time contract is required from a Spanish publisher or media outlet, but the industry is scarce and employers find it difficult to guarantee it |
+| Subclass Cuenta propia (Self-employed work permit) | Freelance writers can apply, but must prove stable income and clients, with high entry requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Writer？**
-- 有强烈写作热情和原创力的母语级西班牙语使用者
-- 能承受不稳定收入和自由职业压力的人
-- 擅长自我营销和建立行业人脉的创意人才
+**Who is suited**
+- Native Spanish speakers with strong passion for writing and originality
+- People who can handle unstable income and freelance pressure
+- Creative talents skilled in self-marketing and building industry connections
 
-**谁不适合学Writer？**
-- 需要固定高收入和职业保障的人
-- 希望快速通过工作签证移民西班牙的第三国公民
+**Who is not suited**
+- People who need a fixed high income and job security
+- Third-country citizens who wish to quickly immigrate to Spain through a work visa
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for writers in Spain?**
+A: Entry-level freelance writer annual income: EUR 12,000-20,000; contracted authors or editors: EUR 20,000-35,000; well-known authors may earn over EUR 60,000, but income is highly variable and unstable.
+
+**Q: Can writers immigrate to Spain through work?**
+A: It's very difficult. Writers are not in short supply, and employers in Spain have low willingness to sponsor. You can reside through self-employment, but you must prove stable Spanish clients and income, which is highly demanding. EU citizens are free to practice.
+
+**Q: What are the prospects for a writer's career?**
+A: Traditional publishing has slowed growth, but demand for digital content, self-media, and film scripts is rising. AI writing tools bring competition, but high-quality creative content still has a market. It is recommended to master various writing styles and build a personal brand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Writer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for writers in Spain?**
-答：Entry-level freelance writers earn around €12,000-20,000 per year; contracted authors or editors earn €20,000-35,000; established writers can exceed €60,000, but income is highly variable.
-
-**问：Can writers immigrate to Spain through work?**
-答：Very difficult. Writers are not in shortage, and employer sponsorship is rare. Self-employed work permit is possible but requires proof of stable Spanish clients and income. EU citizens can work freely.
-
-**问：What are the career prospects for writers?**
-答：Traditional publishing is slowing, but demand for digital content, self-media, and screenwriting is rising. AI tools pose competition, but high-quality creative content remains valuable. Diversifying writing forms and building a personal brand are recommended.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

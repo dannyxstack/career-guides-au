@@ -1,60 +1,96 @@
-# Rental Service Clerks (except Money and Pawnbroking)（Rental Service Clerks (except Money and Pawnbroking)）职业分析 · DE
+# Rental Service Clerks (except Money and Pawnbroking) — career analysis · Germany
 
-**职业代码：6116 – Rental Service Clerks (except Money and Pawnbroking)。**
+**Occupation code: 6116 (KldB)**
 
-Rental service clerks handle the renting out of items such as tools, equipment, vehicles, and costumes, including check-in/out, inspection, contract processing, and customer inquiries.
+Rental Service Officers handle receipt, inspection, contract processing, and customer inquiries for rented items such as tools, equipment, vehicles, and clothing.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（租赁及服务行业） | 3年（双元制） | —（培训期间通常有津贴，无学费） |
-| 无需正式学历，在职培训 | 3-6个月在职培训 | —（部分雇主提供内部培训） |
+| Dual vocational training (rental and service industry) | 3 years (dual system) | $0~$0 (Training period usually includes a stipend, no tuition fees) |
+| No formal qualifications required, on-the-job training | 3-6 months on-the-job training | $0~$0 (Some employers provide in-house training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 租赁及服务行业助理培训证书 | 德国工商会（IHK） | 可选 | 完成双元制培训后获得 |
-| 无强制资格要求 | — | 可选 | 通常无需特定执照或认证 |
+| Rental and service industry assistant training certificate | German Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing dual system training |
+| No mandatory qualification requirements | — | Optional | Usually no specific license or certification required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国租赁行业需求稳定，尤其在大城市和工业区。随着共享经济和灵活消费增长，租赁业务有发展潜力。就业机会较好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for leasing services in Germany is stable, especially in large cities and industrial areas. With the growth of the sharing economy and flexible consumption, the leasing business has development potential. Job opportunities are good.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含管理职责 |
+| Median salary | $64,968 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $72,672 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级职员晋升为资深租赁顾问、分店主管或区域经理。也可通过进修转向物流、销售或客户管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace clerical work and inventory management, but physical inspection, client negotiation, and complex handling still require humans; overall role risk is medium.
+
+Career progression from junior to senior leasing consultant, branch manager, or regional manager. Further study can lead to roles in logistics, sales, or customer management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate lease contracts and invoices
+- Automated inventory counting and restocking reminders
+- Customer identity verification and payment processing
+- Standardized Q&A on lease terms
+- Automatic billing and fine calculation for equipment return
+
+**Where AI augments the role:**
+
+- AI analyzes customer history to recommend personalized leasing plans
+- Using AI to predict equipment failures for proactive maintenance
+- AI assists in checking equipment damage and generating repair orders
+- Multilingual AI translation assists international client communication
+- AI analyzes market data to optimize pricing strategies
+
+**Human moat:**
+
+- Handle complex disputes and compensation negotiations for equipment damage
+- Assess rental feasibility for non-standard items
+- Provide humane service to clients with disabilities or special needs
+- On-site safety inspection and emergency response.
+- Maintain local client relationships and long-term trust
+
+**Skills to build:**
+
+- Operate rental management software (e.g., MCS Rental Software)
+- Basic data analysis and report interpretation
+- Use of customer relationship management (CRM) systems
+- Basic equipment inspection and repair knowledge
+- Cross-cultural communication and negotiation skills
+- Simple applications of AI tools (e.g., chatbot configuration)
+
+**Key growth areas:**
 
 - sharing economy
 - equipment rental
@@ -63,62 +99,64 @@ Rental service clerks handle the renting out of items such as tools, equipment, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 适用于有德国学历或双元制培训的外国求职者 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职机会卡，可用于寻找任何职业 |
+| Subclass Job Seeker (Job Seeker Visa) | Available for foreign job seekers with German degrees or dual-system training |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job search card that can be used for any occupation |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Rental Service Clerks (except Money and Pawnbroking)？**
-- 喜欢与人打交道、善于沟通者
-- 细心有条理、适应灵活工作时间者
-- 对共享经济或租赁行业有兴趣者
+**Who is suited**
+- People who enjoy interacting with others and are good communicators
+- Those who are detail-oriented, organized, and adaptable to flexible working hours
+- Those interested in the sharing economy or rental industry
 
-**谁不适合学Rental Service Clerks (except Money and Pawnbroking)？**
-- 追求高薪和快速晋升者
-- 不喜欢重复性文书工作和客户服务者
+**Who is not suited**
+- Those pursuing high salary and rapid advancement
+- Those who dislike repetitive paperwork and customer service
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of rental service clerks in Germany?**
+A: Junior employee annual salary approx. €24,000-30,000, intermediate €30,000-38,000, senior up to €45,000 (pre-tax). Salary varies by region, company size, and experience.
+
+**Q: How can Chinese applicants apply for rental service positions in Germany?**
+A: This occupation is not on Germany's shortage list and typically requires German B2 or higher. It is advisable to first secure a dual training opportunity (requires German residency) or enter the German job market via the Opportunity Card points system.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Rental Service Clerks (except Money and Pawnbroking)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of rental service clerks in Germany?**
-答：Entry-level annual salary is about EUR 24,000-30,000, mid-level EUR 30,000-38,000, and senior up to EUR 45,000 (gross). Salaries vary by region, company size, and experience.
-
-**问：How can Chinese applicants apply for rental service positions in Germany?**
-答：This occupation is not on the shortage list and usually requires German language B2 or higher. It is recommended to obtain a dual training position (requires residence permit) or use the Opportunity Card to enter Germany for job seeking.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

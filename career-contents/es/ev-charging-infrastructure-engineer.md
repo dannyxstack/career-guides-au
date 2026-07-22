@@ -1,145 +1,173 @@
-# 电动车充电基础设施工程师（EV Charging Infrastructure Engineer）职业分析 · ES
+# EV Charging Infrastructure Engineer — career analysis · Spain
 
-**职业代码：2441 – EV Charging Infrastructure Engineer。**
+**Occupation code: 2441-EVCI (CNO)**
 
-电动车充电基础设施工程师负责公共/商用充电站的电气设计、配电接入、并网与合规，涵盖直流快充(DCFC)、负荷管理、OCPP 通信与场站储能集成，随 EV 保有量上升而快速分化。
+EV charging infrastructure engineers are responsible for electrical design, distribution access, grid connection, and compliance at public/commercial charging stations, covering DC fast charging (DCFC), load management, OCPP communication, and on-site energy storage integration, rapidly diverging as EV ownership increases.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 认可电气/电力/机电工程学位 | 4~6 年 | $20,000~$200,000（本地生较低，国际生较高） |
-| 专业方向进阶（仿真/RTL/验证/储能等） | 6~24 个月 | $2,000~$40,000（岗位核心工具链与方法学实操） |
-| 学历认证/职业评估（学历认证（homologación）） | 2~6 个月 | $500~$3,000（技术移民与执业所需） |
+| Recognized degrees in electrical/electrical/electromechanical engineering | 4~6 years | $20,000~$200,000 (Local students are relatively low, while international students are higher) |
+| Advanced professional directions (simulation/RTL/verification/energy storage, etc.) | 6~24 months | $2,000~$40,000 (Core Toolchain and Methodology Practical Practice for Positions) |
+| Academic Credentials / Career Assessment (Homologación) | 2~6 months | $500~$3,000 (Skilled Immigration and Practice Requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可工程学位 / 学历认证（学历认证（homologación）） | 学历认证（homologación） | 必备 | 执业与技术移民评估基础 |
-| 岗位核心工具/方法学能力 | 项目实践 | 可选 | 如并网仿真、RTL/时序、UVM 验证、储能标准等 |
+| Recognized Engineering Degrees / Academic Credentials (Homologación) | Homologación | Required | Basics of Assessment for Practice and Skilled Migration |
+| Core tools/methodological competencies for the position | Project practice | Optional | Such as grid-connected simulation, RTL/timing, UVM verification, energy storage standards, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。在西班牙，电动车渗透与充电网络铺设推动需求上行，电动车充电基础设施工程师绑定电气工程紧缺趋势，前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. In Spain, the penetration of electric vehicles and the deployment of charging networks are driving demand upward, and EV charging infrastructure engineers are tied to the shortage trend in electrical engineering, with a promising outlook.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| InfoJobs | 150~500 个 | 电动车充电基础设施工程师及相邻岗位（西班牙） |
-| Indeed ES | 100~350 个 | 电动车充电基础设施工程师及相邻岗位（西班牙） |
-| LinkedIn | 200~600 个 | 电动车充电基础设施工程师及相邻岗位（西班牙） |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（EUR） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $26,000~$35,000 | 起薪，随雇主与地区（€26,000~€35,000） |
-| 中级（3~7 年） | $35,000~$48,000 | 行业中位区间（€35,000~€48,000） |
-| 资深/主任（8 年+） | $48,000~$62,000 | 资深/专家，含项目津贴（€48,000~€62,000） |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Beginner (0~3 years) | $26,000~$35,000 | Starting salary, depending on employer and region (€26,000~€35,000) |
+| Intermediate Level (3~7 years) | $35,000~$48,000 | Industry median range (€35,000~€48,000) |
+| Senior/Director (8+) | $48,000~$62,000 | Senior/Expert, including project allowance (€48,000~€62,000) |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 西班牙超快充与车队充电成为热点，站点常需配电升级与储能削峰；AI 辅助选址与负荷预测，核心电气设计与合规由工程师完成。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
 
-- 公共快充/超充站电气设计与并网
-- 充电网络负荷管理与配电升级
-- 充电桩标准与合规(OCPP)
-- 车网互动(V2G)与站点储能集成
-- 车队与商用充电基础设施规划
+In Spain, ultra-fast charging and fleet charging have become hotspots, with stations often needing power distribution upgrades and energy storage peak shaving sessions; AI-assisted site selection and load forecasting, core electrical design and compliance are handled by engineers.
+
+**Tasks most exposed to AI:**
+
+- Preliminary electrical load calculation and cable selection report generation
+- OCPP communication message debugging and log analysis
+- Templated completion of compliance documents (such as grid access applications).
+- Automatic aggregation of charging station performance data and anomaly detection
+- Preliminary analysis of charging station site selection based on historical data
+
+**Where AI augments the role:**
+
+- Using AI simulation tools to optimize load allocation and energy storage strategies for DC fast charging stations (DCFC).
+- Quickly generate multiple power distribution schemes and compare costs and efficiencies using AI-assisted design tools
+- Use an AI-driven grid interaction platform to predict connection times and capacity costs
+- With AI visual inspection, safety hazards at the installation site are automatically identified
+- Use LLMs to automatically analyze new regulations (such as updates to Australia's EV charging standards) and extract key requirements
+
+**Human moat:**
+
+- Coordination and negotiations with grid operators, electrical contractors, and government departments
+- On-site installation supervision, commissioning, and troubleshooting hands-on skills
+- In-depth understanding of grid access regulations and compliance reviews across Australian states
+- Practical experience and certification in high-voltage electrical safety (HV Safety).
+- The ability to communicate with clients and stakeholders and customize non-standard solutions
+
+**Skills to build:**
+
+- Proficient in using AI-assisted electrical design tools (such as ETAP AI plugins or similar platforms)
+- Proficient in OCPP and ISO 15118 protocols, as well as AI log analysis tools
+- Learn the basics of data science (Python, Pandas) to customize charging data analysis scripts
+- Understand Battery Energy Storage Systems (BESS) and participate in AI optimized scheduling training
+- Familiar with the Australian National Electricity Market (NEM) and AI forecasting tools
+- Learn how to operate the on-site augmented reality (AR) maintenance assistance system
+
+**Key growth areas:**
+
+- Public Fast/Ultra-Fast Charging Electrical Design & Grid Integration
+- Charging Network Load Management & Distribution Upgrades
+- Charging Standards & Compliance (OCPP)
+- Vehicle-to-Grid (V2G) & Site Storage Integration
+- Fleet & Commercial Charging Infrastructure Planning
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PAC Ley 14/2013（高技能专业人才） | Profesional Altamente Cualificado（Ley 14/2013）高技能专业人才居留 |
-| Subclass Tarjeta Azul UE（欧盟蓝卡） | EU Blue Card：高薪+学历工程师通道 |
-| Subclass Cuenta ajena（受雇工作） | 受雇工作居留许可 |
+| Subclass PAC Ley 14/2013 (Highly skilled professionals) | Highly Qualified Professional (Ley 14/2013) residence permit |
+| Subclass Tarjeta Azul UE (EU Blue Card) | EU Blue Card: high salary + degree engineer pathway. |
+| Subclass Cuenta ajena (Employed work) | Employed work residence permit |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电动车充电基础设施工程师？**
-- 相关工程背景，愿深耕能源/半导体新兴方向
-- 掌握或愿学岗位核心工具与方法学
-- 希望进入长期增长赛道并考虑技术移民
-- 细致、责任心强，能承担工程判断
-
-**谁不适合学电动车充电基础设施工程师？**
-- 数理/工程基础薄弱且不愿长期投入
-- 排斥标准、合规与安全为核心的工程工作
-- 期望短期速成、不接受多年经验积累
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Relevant engineering background, willing to focus on emerging energy/semiconductor fields.
+- Master or wish to learn core tools and methodologies for the position
+- Those hoping to enter the long-term growth track and considering skilled migration
+- Meticulous, highly responsible, able to make engineering judgments
+
+**Who is not suited**
+- Weak mathematical or engineering foundations and unwillingness to invest long-term
+- Engineering work centered on standards, compliance, and safety
+- Expect short-term quick success, not years of accumulated experience
+
+---
+
+## 8. FAQ
+
+**Q: How much do electric vehicle charging infrastructure engineers in Spain earn?**
+A: Entry-level is about €26,000~€35,000; Senior is about €48,000~€62,000 (EUR). Salaries vary by region, industry, and project; see the pay schedule for details.
+
+**Q: What is the demand for electric vehicle charging infrastructure engineers in Spain?**
+A: In Spain, the penetration of electric vehicles and the deployment of charging networks are driving demand upward, and EV charging infrastructure engineers are tied to the shortage trend in electrical engineering, with a promising outlook.
+
+**Q: Is overseas experience recognized in Spain?**
+A: Overseas degrees require homologación certification/evaluation; Core tools and project experience for the position are direct bonuses.
+
+**Q: Will electric vehicle charging infrastructure engineers be replaced by AI?**
+A: Low risk. AI-assisted analysis and generation, but engineering design, safety compliance, and responsibility judgment are handled by certified engineers, making it an AI-enhanced position.
+
+**Q: Can electric vehicle charging infrastructure engineers immigrate to Spain with skilled migration?**
+A: Yes. Classified as a shortage engineering profession, you can follow Spain's corresponding skilled migration/employer-sponsored pathway; Specific thresholds are shown on the visa form.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| talent.com / Indeed ES | 电子工程师约 €38k；系统工程师约 €46k；电气 €26k~€32k |
-| Indeed ES | 资深半导体/FPGA 在 Indra/Minsait 等高于均值 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-电动车充电基础设施工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：西班牙电动车充电基础设施工程师工资多少？**
-答：初级约 €26,000~€35,000；资深约 €48,000~€62,000（EUR）。薪资随地区、行业与项目而定，具体见薪资表。
-
-**问：电动车充电基础设施工程师在西班牙需求怎样？**
-答：在西班牙，电动车渗透与充电网络铺设推动需求上行，电动车充电基础设施工程师绑定电气工程紧缺趋势，前景良好。
-
-**问：海外经验在西班牙认可吗？**
-答：海外学历需经学历认证（homologación）认证/评估；岗位核心工具与项目经验是直接加分项。
-
-**问：电动车充电基础设施工程师会被 AI 替代吗？**
-答：风险低。AI 辅助分析与生成，但工程设计、安全合规与责任判断由持证工程师承担，属 AI 增强型岗位。
-
-**问：电动车充电基础设施工程师能在西班牙技术移民吗？**
-答：能。归入紧缺工程职业，可走西班牙对应的技术移民/雇主担保通道；具体门槛见签证表。
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

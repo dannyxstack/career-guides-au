@@ -1,58 +1,94 @@
-# Toolmaker（Toolmaker）职业分析 · IE
+# Toolmaker — career analysis · Ireland
 
-**职业代码：7222 – Toolmaker。**
+**Occupation code: 7222 (ISCO08)**
 
-Toolmakers and related workers design, manufacture, and maintain molds, dies, tools, and fixtures for metal or plastic processing, essential in manufacturing.
+Tool and die makers design, manufacture, and maintain dies, tools, and jigs for metal or plastic processing, an indispensable skilled trade in manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年（含在职培训） | —（多数学徒项目由政府资助，可能仅收少量注册费） |
-| 高等证书/文凭 | 1-2年 | $3,000~$8,000（如FETAC Level 6 证书或Higher Certificate in Engineering Technology） |
+| Apprenticeship | 4 years (including on-the-job training). | $0~$1,000 (Most apprenticeship programs are government-funded, with only a small registration fee.) |
+| Advanced Certificate/Diploma | 1-2 years | $3,000~$8,000 (e.g. FETAC Level 6 certificate or Higher Certificate in Engineering Technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家工具制造学徒证书 | SOLAS (爱尔兰继续教育与培训局) | 必备 | 完成4年学徒制后颁发，行业认可 |
-| CNC编程与操作证书 | 私人培训机构或技术大学 | 可选 | 非强制但有利于就业 |
+| National Toolmaking Apprenticeship Certificate | SOLAS (Further Education and Training Authority, Ireland) | Required | Awarded after completing a 4-year apprenticeship, industry-recognized |
+| CNC Programming and Operations Certificate | Private training institution or TAFE | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。爱尔兰制造业持续发展，对工具模具工需求稳定，尤其在医疗设备、航空航天和汽车零部件领域。预计未来十年就业增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Ireland's manufacturing sector is growing steadily with stable demand for toolmakers, especially in medical devices, aerospace, and automotive components. Employment growth of about 5% is expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 通常从学徒毕业后起薪 |
-| 中级（3-7年） | $35,000~$45,000 | 熟练掌握多种加工技术 |
-| 高级（7年以上） | $45,000~$55,000 | 包括主管或技术专家职位 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Typically starting salary after apprenticeship graduation |
+| Mid-level (3–7 years) | $35,000~$45,000 | Proficient in multiple processing techniques |
+| Senior (7+ years) | $45,000~$55,000 | Includes supervisor or technical expert positions |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径从学徒制开始，可晋升为高级技工、生产主管或技术专家，也可转向模具设计、质量控制或创业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
+
+Career paths start with an apprenticeship and can progress to senior technician, production supervisor, or technical specialist, or move into mold design, quality control, or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Manual CNC programming and tool path generation
+- Simple repetitive machine operations (e.g., loading/unloading workpieces, starting machining cycles)
+- Routine dimensional measurement and quality recording (manual measurement with calipers and micrometers)
+- Paper-based drawing management and document archiving
+- Basic troubleshooting (based on fixed diagnostic procedures)
+
+**Where AI augments the role:**
+
+- AI-assisted tool path optimization (automatic collision avoidance, improved machining efficiency)
+- Machine learning-based online quality inspection (real-time prediction of dimensional deviations)
+- Digital twin simulation of machining processes (pre-validate fixture designs)
+- Smart production scheduling system integration (automatic assignment of machine tasks)
+- Augmented reality-assisted assembly and debugging (overlaying virtual guidance)
+
+**Human moat:**
+
+- Intuitive judgment in complex fixture design and debugging
+- On-site diagnosis and repair of multi-process integration issues.
+- Ability to communicate non-standard requirements with clients/engineers
+- Safety responsibility and process innovation decisions
+- Precision manual finishing and assembly touch
+
+**Skills to build:**
+
+- Advanced CAD/CAM applications (e.g., Mastercam, NX machining modules)
+- Robot-assisted loading/unloading programming and integration
+- Python or MATLAB for machining data analysis
+- Basics of additive manufacturing (3D printing molds)
+- Industrial Internet of Things (IIoT) and smart tool management
+- Quality control data visualization (e.g., Power BI)
+
+**Key growth areas:**
 
 - Precision Engineering
 - Medical Device Manufacturing
@@ -61,68 +97,67 @@ Toolmakers and related workers design, manufacture, and maintain molds, dies, to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元的工作，需雇主担保。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪不低于60,000欧元的高技能职位，但工具工通常达不到此门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪至少为全国平均工资1.5倍（约54,000欧元）的高技能职位，对工具工来说门槛较高。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for jobs with annual salary not less than 30,000 euros, requiring employer sponsorship. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to high-skilled positions with an annual salary of at least €60,000, but toolmakers typically do not meet this threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions with an annual salary at least 1.5 times the national average (approx. €54,000), which is a high threshold for toolmakers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Toolmaker？**
-- 动手能力强，喜欢精密加工的人
-- 有耐心和注重细节的人
-- 愿意在制造业长期发展的人
-
-**谁不适合学Toolmaker？**
-- 不喜欢重复性工作的人
-- 对机械和工程不感兴趣的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who have strong hands-on skills and enjoy precision machining.
+- Patient and detail-oriented individuals
+- Those willing to develop long-term in manufacturing.
+
+**Who is not suited**
+- People who dislike repetitive work
+- People not interested in machinery and engineering
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for tool and die makers?**
+A: Entry-level annual salary about 28,000-35,000 euros, mid-level 35,000-45,000 euros, senior 45,000-55,000 euros. Overtime and bonuses can increase income.
+
+**Q: How can a tool and die maker immigrate to Ireland?**
+A: Primarily through the General Employment Permit, requiring a job offer with an annual salary of at least €30,000. Since this occupation is on the shortage list, applications are relatively easy.
+
+**Q: What educational background is needed to become a tool and die maker?**
+A: Typically requires completing a 4-year apprenticeship or obtaining a relevant certificate/diploma from a technical college. Apprenticeship is the main pathway, combining on-the-job training and classroom learning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Toolmaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for toolmakers?**
-答：Entry-level annual salary ranges from €28,000 to €35,000, mid-level €35,000 to €45,000, and senior €45,000 to €55,000. Overtime and bonuses can increase income.
-
-**问：How can toolmakers migrate to Ireland?**
-答：Mainly through a General Employment Permit, requiring a job offer with an annual salary of at least €30,000. As the occupation is on the shortage list, applications are relatively straightforward.
-
-**问：What education is required to become a toolmaker?**
-答：Typically a 4-year apprenticeship or a related certificate/diploma from a technical college. Apprenticeship is the main path, combining on-the-job training and classroom learning.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

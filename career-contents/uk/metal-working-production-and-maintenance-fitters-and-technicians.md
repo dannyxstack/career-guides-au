@@ -1,58 +1,91 @@
-# Metal working production and maintenance fitters and technicians（Metal working production and maintenance fitters and technicians）职业分析 · UK
+# Metal working production and maintenance fitters and technicians — career analysis · United Kingdom
 
-**职业代码：5223 – Metal working production and maintenance fitters and technicians。**
+**Occupation code: 5223 (SOC)**
 
-Metal working production and maintenance fitters and technicians erect, install and repair electrical and mechanical plant and industrial machinery, fit and assemble parts in metal product manufacture, and test new motor vehicles and engines.
+This role involves installing, commissioning, and repairing electrical and mechanical equipment, industrial machinery, assembling metal product parts, and testing new cars and engines.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中后职业培训（BTEC/学徒） | 2-3年 | —（学徒期间有薪资，培训免费或公司资助） |
-| 高级国家文凭（HND）或基础学位 | 2年 | $6,000~$12,000（学费因院校而异，可申请学生贷款） |
+| Post-secondary vocational training (BTEC/apprenticeship) | 2-3 years | $0~$15,000 (Paid during apprenticeship, training free or company-sponsored) |
+| Higher National Diploma (HND) or Foundation Degree | 2 years | $6,000~$12,000 (Tuition fees vary by institution; student loans may be available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 3级或同等学徒证书 | 英国学徒制机构 | 必备 | 完成高级学徒计划获得，实际操作技能认证 |
-| 工程技师（EngTech）认证 | 工程理事会（ECUK） | 可选 | 非必须但提升职业前景 |
+| NVQ Level 3 or equivalent apprenticeship certificate | UK apprenticeship bodies | Required | Obtained through completing an advanced apprenticeship program, certification of practical skills |
+| Engineering Technician (EngTech) certification | Engineering Council UK (ECUK) | Optional | Not mandatory but improves career prospects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。受英国制造业回迁和基础设施更新推动，未来十年需求稳定。自动化趋势下，高级维修技能将更受重视，毕业生补充有限。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Driven by the relocation of UK manufacturing and infrastructure renewal, demand will remain stable over the next decade. Under automation trends, advanced maintenance skills will be more valued, with limited graduate supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒出师起薪 |
-| 中级（3-8年） | $28,000~$36,000 | 可独立操作 |
-| 高级（8年以上） | $36,000~$46,000 | 主管或高级技师 |
+| Median salary | $40,760 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprentice starting salary upon completion |
+| Mid-level (3–8 years) | $28,000~$36,000 | Can operate independently |
+| Senior (8+ years) | $36,000~$46,000 | Supervisor or senior technician. |
+| average salary | $43,217 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级装配工/技工发展至高级维修技师或主管，可考取工程技师（EngTech）认证，或转向自动化、机器人领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+This occupation heavily relies on repetitive machining and inspection tasks; AI and automation will significantly replace these parts, sharply reducing demand, but complex work like repair and debugging remains irreplaceable.
+
+Progress from assembly worker/technician to advanced maintenance technician or supervisor, obtain Engineering Technician (EngTech) certification, or transition to automation and robotics.
+
+**Tasks most exposed to AI:**
+
+- Routine product dimension and surface quality inspection using measuring instruments
+- Manual assembly and fastening of repetitive metal parts
+- Operate traditional non-CNC machine tools according to fixed procedures
+- Troubleshooting and Repair of Simple Mechanical Faults
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools to quickly locate complex mechanical faults
+- Equipment commissioning and optimisation via digital twin
+- Leverage CMMS for predictive maintenance to reduce downtime
+- Collaborative robot programming and maintenance
+
+**Human moat:**
+
+- Manual adjustment and precision assembly of non-standard equipment
+- Flexible decision-making in on-site fault diagnosis and repair strategies
+- Reverse engineering and repair of old equipment or equipment without drawings
+- Cross-system integration debugging and troubleshooting
+
+**Skills to build:**
+
+- PLC programming and industrial robot operation
+- Use of digital twins and CMMS systems
+- Sensor and IoT device debugging
+- Operation and maintenance of additive manufacturing equipment
+- Knowledge of electrical and hydraulic systems integration
+- Data analysis and fault prediction methods
+
+**Key growth areas:**
 
 - Advanced Manufacturing
 - Automation
@@ -61,65 +94,64 @@ Metal working production and maintenance fitters and technicians erect, install 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于此职业，年薪需满足最低薪资要求（通常£26,200或going rate）。 |
-| Subclass Scale-up（Scale-up visa） | 若受雇于符合条件的快速增长企业，可申请。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可先获得2年工作权，积累经验后转换工签。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to this occupation; annual salary must meet the minimum salary requirement (typically £26,200 or the going rate). |
+| Subclass Scale-up (Scale-up visa) | Can apply if employed by a qualifying high-growth enterprise. |
+| Subclass Graduate (Graduate visa) | UK university graduates can first obtain a 2-year work right, then switch to a work visa after gaining experience. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal working production and maintenance fitters and technicians？**
-- 喜欢动手操作和机械维修
-- 能够独立解决问题
-- 愿意接受持续技术培训
-
-**谁不适合学Metal working production and maintenance fitters and technicians？**
-- 不喜欢体力劳动和车间环境
-- 对单调重复工作缺乏耐心
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work and mechanical repair
+- able to solve problems independently
+- Willing to undergo continuous technical training
+
+**Who is not suited**
+- Dislikes physical labor and workshop environments.
+- Lack of patience for monotonous and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary ceiling for this occupation?**
+A: Senior technicians can earn over £46,000 annually, but usually cap at around £50,000 unless promoted to management.
+
+**Q: Is it easy for international applicants to get employer sponsorship?**
+A: This occupation is on the skilled migration shortage list, making employer sponsorship easier, but you need to meet a minimum salary of £26,200.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Metal working production and maintenance fitters and technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for this occupation?**
-答：Senior technicians can earn up to £46,000 per year, typically capped around £50,000 unless moving into management.
-
-**问：Is it easy for international applicants to get employer sponsorship?**
-答：This occupation is on the shortage list, making sponsorship easier, but must meet minimum salary of £26,200.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

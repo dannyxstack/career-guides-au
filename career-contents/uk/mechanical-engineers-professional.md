@@ -1,59 +1,95 @@
-# Mechanical engineers (professional)（Mechanical engineers (professional)）职业分析 · UK
+# Mechanical engineers (professional) — career analysis · United Kingdom
 
-**职业代码：2122 – Mechanical engineers (professional)。**
+**Occupation code: 2122 (SOC)**
 
-Mechanical engineers research, design, develop, manufacture, operate, and maintain engines, machines, vehicles, ship structures, building services, and other mechanical items, serving as core professionals in the engineering industry.
+Mechanical engineers research, design, develop, manufacture, operate, and maintain engines, machines, vehicles, ship structures, building services, and other mechanical products, making them core professionals in the engineering industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 机械工程学士 | 3年 | $9,000~$25,000（英格兰本科国际学生学费，不包含生活费） |
-| 机械工程硕士 | 1年 | $12,000~$35,000（硕士课程学费，部分院校提供奖学金） |
+| Bachelor of Mechanical Engineering | 3 years | $9,000~$25,000 (Undergraduate international student tuition fees in England, excluding living expenses) |
+| Master of Mechanical Engineering | 1 year | $12,000~$35,000 (Master's program tuition, some institutions offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许工程师（CEng） | 英国工程委员会（Engineering Council） | 可选 | 通常需硕士学历加4年工作经验后申请，不是强制但雇主高度看重 |
-| 注册工程师（IEng） | 英国工程委员会 | 可选 | 需学士学历加2年工作经验，对职业初期有帮助 |
-| 机械工程学士学位 | 英国大学 | 必备 | 工程师职位通常要求 |
+| Bachelor's degree in Mechanical Engineering | UK universities | Required | Engineering positions typically require |
+| Chartered Engineer (CEng) | Engineering Council (UK) | Optional | Typically requires a master's degree and 4 years of work experience before applying; not mandatory but highly valued by employers. |
+| Incorporated Engineer (IEng) | Engineering Council UK | Optional | A bachelor's degree plus 2 years of experience is required, helpful for early career stages. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。英国机械工程行业预计未来十年保持稳定增长，受益于基础设施更新、绿色能源转型和制造业复苏。目前市场对资深工程师需求旺盛，但初级岗位竞争相对激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. The UK mechanical engineering industry is expected to maintain steady growth over the next decade, driven by infrastructure upgrades, green energy transition, and manufacturing recovery. Demand for senior engineers is high, but competition for entry-level positions is relatively intense.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 接近英国机械工程毕业生平均起薪 |
-| 中级（4-7年） | $38,000~$52,000 | 具备专业认证后薪资提升明显 |
-| 高级（8年以上） | $55,000~$80,000 | 高级工程师或管理岗可达更高 |
+| Median salary | $51,110 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Close to the average starting salary for UK mechanical engineering graduates |
+| Mid-level (4-7 years) | $38,000~$52,000 | Salary increases significantly after obtaining professional certification |
+| Senior (8+ years) | $55,000~$80,000 | Senior Engineer or management positions can achieve higher |
+| average salary | $55,148 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展通常从初级设计工程师起步，逐步晋升为高级工程师、首席工程师或工程经理。也可向项目管理、技术专家或研发总监方向转型。注册为特许工程师（CEng）有助于加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
+
+Career development typically starts as a junior design engineer, progressing to senior engineer, principal engineer, or engineering manager. It can also pivot to project management, technical specialist, or R&D director. Becoming a Chartered Engineer (CEng) can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Generates standard 3D models and 2D engineering drawings (AI can automatically generate from parameters)
+- Topology optimization prescreening of part structures (AI rapidly iterates hundreds of designs).
+- Review design code compliance (e.g., automatic ASME standard checks)
+- Writing routine technical documentation and BOMs (AI can auto-generate)
+- Basic thermal/flow/structure simulation setup and post-processing (AI automatic parameter tuning)
+
+**Where AI augments the role:**
+
+- AI-assisted generative design explores unconventional structural solutions, sparking innovation
+- AI real-time digital twin predicts fatigue life and maintenance windows
+- AI clustering analysis of historical failure data to accelerate fault diagnosis
+- Quick retrieval of technical literature and standards via AI natural language interface
+- AI automatically generates initial design space for multiphysics coupled optimization.
+
+**Human moat:**
+
+- Systematic physical intuition and multi-constraint coupled decision-making (safety/cost/manufacturing process)
+- Cross-disciplinary needs communication and project risk assessment
+- Human brain association and roundabout solutions to unexpected problems on site
+- Quantitative trade-off of conservatism for uncertainty (e.g., material batch variation).
+- Ethical/environmental responsibility attribution (e.g., legal consequences of mechanical failure)
+
+**Skills to build:**
+
+- Generative design software (e.g., Fusion 360 Generative Design)
+- Digital twin platform (e.g., ANSYS Twin Builder) operation.
+- Python/R script automation for simulation workflows
+- AI/ML basics (regression, clustering for fault prediction).
+- Systematic approach to fault diagnosis and root cause analysis
+- Project management and cross-cultural communication (collaboration with CA engineering teams)
+
+**Key growth areas:**
 
 - Infrastructure renewal
 - Green energy
@@ -62,68 +98,67 @@ Mechanical engineers research, design, develop, manufacture, operate, and mainta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 满足年薪约£26,200（具体随政策调整），雇主需持有担保资质。机械工程师在技术工人职业列表上，可申请。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在工程领域有杰出成就或潜力的人才，无需雇主担保，但需通过英国研究与创新署（UKRI）或皇家工程院评估。 |
-| Subclass Graduate（Graduate visa） | 在英国完成学士或硕士学位的毕业生可申请，允许在英国工作2年（博士3年），作为过渡到技术工人签证的途径。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Must meet an annual salary of approximately £26,200 (specific adjustments follow policy), and the employer must hold sponsorship accreditation. Mechanical engineers are on the skilled worker occupation list and can apply. |
+| Subclass Global Talent (Global Talent visa) | Suitable for individuals with outstanding achievements or potential in engineering; no employer sponsorship required, but must pass assessment by UKRI or the Royal Academy of Engineering. |
+| Subclass Graduate (Graduate visa) | Graduates who have completed a bachelor's or master's degree in the UK can apply, allowing them to work in the UK for 2 years (3 years for PhDs) as a pathway to a skilled worker visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical engineers (professional)？**
-- 对机械系统和设计有浓厚兴趣，具备扎实数学和物理基础的人
-- 喜欢解决实际工程问题，注重细节和精确性的人
-- 愿意在制造业、能源、交通等领域从事技术开发工作的人
-
-**谁不适合学Mechanical engineers (professional)？**
-- 不喜欢抽象思维和复杂计算的人
-- 对动手操作和现场工作缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in mechanical systems and design, and solid math and physics foundations
+- People who enjoy solving practical engineering problems and have an eye for detail and precision
+- Individuals willing to engage in technical development in manufacturing, energy, transportation, and other fields
+
+**Who is not suited**
+- People who dislike abstract thinking and complex calculations
+- People who lack patience for hands-on work and on-site tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a mechanical engineer in the UK?**
+A: Entry-level approx. £28,000-£35,000, mid-level £38,000-£52,000, senior £55,000-£80,000, experienced or management roles can reach £100,000+.
+
+**Q: How can mechanical engineers immigrate to the UK via a skilled worker visa?**
+A: Need a job offer from a UK employer that holds a sponsorship license, with a salary meeting the minimum threshold set by immigration (usually around £26,200). Mechanical engineers are on the eligible occupation list, with a high application success rate.
+
+**Q: Do mechanical engineers need to obtain Chartered Engineer (CEng) status?**
+A: CEng is not mandatory but significantly aids career advancement, salary increase, and immigration applications. Many senior and project management positions prefer candidates with CEng.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical engineers (professional)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a mechanical engineer in the UK?**
-答：Entry-level around £28,000-£35,000, mid-level £38,000-£52,000, senior £55,000-£80,000, and senior management can exceed £100,000.
-
-**问：How can a mechanical engineer migrate to the UK via a Skilled Worker visa?**
-答：You need a job offer from a UK employer with a sponsor license, and the salary must meet the minimum threshold (typically around £26,200). Mechanical engineers are on the eligible occupations list, so the application success rate is relatively high.
-
-**问：Do mechanical engineers need to obtain Chartered Engineer (CEng) status?**
-答：CEng is not mandatory but significantly helps career progression, salary increase, and immigration applications. Many senior and project management roles prefer candidates with CEng.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

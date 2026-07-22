@@ -1,67 +1,96 @@
-# 电力线工（Electrical Linesperson）职业分析 · 澳大利亚
+# Electrical Linesperson — career analysis · Australia
 
-**职业代码：341112 – Electrical Linesperson。**
+**Occupation code: 341112 (ANZSCO)**
 
-电力线工（Electrical Linesperson）负责架空和地下输配电线路的建设、维护和修复。澳大利亚电网升级以支持可再生能源接入，加上老化基础设施更新，使电力线工处于极度短缺状态，是技工类中薪资最高的职业之一。
+Electrical linespersons construct, maintain and repair overhead and underground power transmission and distribution lines. Grid upgrades to support renewable energy integration, combined with ageing infrastructure renewal, have placed electrical linespersons in critical shortage – making this one of the highest-paying trades in Australia.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in ESI (Power Systems - Distribution Overhead) | 42~48个月（学徒） | —（各州差异；工具费约$1,500~$2,500） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| Underground Cable Jointing（地下电缆接头，加分） | 2~4周 | $1,000~$3,000（厂商认证；城市地下方向必备） |
+| Certificate III in ESI (Power Systems - Distribution Overhead) | 42–48 months (apprenticeship) | $0~$3,000 (Varies by state; tool costs approx. $1,500–$2,500) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| Underground Cable Jointing (advantageous) | 2–4 weeks | $1,000~$3,000 (Vendor certification; essential for urban underground work) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in ESI Power Systems | TAFE / RTO | 必备 | 执业核心资质 |
-| Electrical Linesperson Licence | 各州电气监管机构 | 必备 | 强制持证执业 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in ESI Power Systems | TAFE / RTO | Required | Core practising qualifications |
+| Electrical Linesperson Licence | State electrical regulators | Required | Mandatory licensed practice |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 20,000。联邦电网现代化计划（Transmission Infrastructure，$650亿+）带动大量线路建设需求。可再生能源（风电/太阳能）并网需要大量新建和升级输电线路。各州电网老化更新周期加快。
+**Job demand: very high (★★★★★).** National workforce approx. 20,000. The federal grid modernisation programme (Transmission Infrastructure, $65 billion+) is driving strong demand for new line construction. Connecting renewable energy (wind/solar) to the grid requires significant new and upgraded transmission lines. State electricity networks are entering accelerated ageing-replacement cycles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~600 个 | 全国，网络公司和承包商均有 |
-| Indeed | 150~350 个 | 含应急恢复职位 |
-| LinkedIn | 80~200 个 | 偏输电大型项目 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $35,000~$65,000 | ESI Award |
-| 初级线工（0~3年） | $80,000~$105,000 | 配电网络公司 |
-| 中级线工（3~8年） | $105,000~$140,000 | Seek均值约$50~$65/hr（2026） |
-| 资深 / 输电专家（8年+） | $135,000~$180,000 | 输电大项目；风暴恢复加倍 |
+| Median salary | $113,932 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $35,000~$65,000 | ESI Award |
+| Junior lineworker (0–3 years) | $80,000~$105,000 | Electricity distribution network companies |
+| Mid-level linesperson (3–8 years) | $105,000~$140,000 | Seek average approx. $50–$65/hr (2026) |
+| Senior / Transmission Specialist (8+ years) | $135,000~$180,000 | Major transmission projects; storm restoration rates double |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 地下电缆（Underground Cable）替代架空线路成为城市趋势，技术要求和薪资更高。紧急风暴恢复（Storm Restoration）跨州应急部署薪资可达普通工资的3~4倍。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
+
+Underground Cable is replacing overhead lines as an urban trend, with higher technical requirements and salaries. Emergency Storm Restoration cross-state deployments can pay 3–4 times the standard rate.
+
+**Tasks most exposed to AI:**
+
+- Use drones for automatic inspection of overhead lines, replacing manual visual checks
+- AI analyzes historical data to predict equipment failures, replacing periodic manual inspections
+- GIS system automatically generates optimal maintenance routes, reducing manual route planning
+- Online monitoring sensors transmit data in real time, no need for manual periodic recording
+
+**Where AI augments the role:**
+
+- AR glasses overlaying circuit diagrams and real-time parameters to enhance live-line work safety and efficiency
+- AI fault diagnosis system assists in identifying abnormal signals, speeding up troubleshooting
+- Use digital twin simulations for grid load to optimize construction and maintenance plans
+- Wearable Devices Monitor Vital Signs to Warn of Fatigue or Hazardous Conditions
+- UAV and Robot-Assisted High-Altitude Cable Connection to Reduce Fall Risk
+
+**Human moat:**
+
+- Comprehensive assessment of physical environment (weather, terrain, load) during live-line repairs
+- Practical ability to flexibly adjust construction steps in complex wiring scenarios
+- Creative problem-solving for non-standard faults (e.g., lightning strikes, animal damage)
+- Physical coordination and risk management for working at heights or in confined spaces
+- Responsibility for real-time communication and coordination with dispatch centers and field teams
+
+**Skills to build:**
+
+- Drone operation and flight planning (CASA certified)
+- GIS and digital grid platforms (e.g., ArcGIS) application
+- Basic Python scripts for data organization
+- Operation and maintenance of AR/VR-assisted tools
+- Interpreting Smart Sensor Data Dashboards
+- Human-machine collaboration communication and safety procedures in high-pressure environments
+
+**Key growth areas:**
 
 - Renewable Energy Grid Connection
 - Transmission Line Upgrades
@@ -70,79 +99,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远输电线路加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | Regional power transmission lines, +15 points |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电力线工？**
-- 有电力线路、配电网络或电气施工背景，目标技能移民来澳
-- 不惧全天候高空作业和紧急应急响应，追求顶级技工薪资
-- 有意在电网基础设施行业长期发展，职业路径清晰
-
-**谁不适合学电力线工？**
-- 恐高或对高压作业有心理障碍
-- 不接受全天候紧急值班模式
-- 期望稳定规律的室内工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in power lines, electricity distribution networks or electrical construction, targeting skilled migration to Australia
+- Comfortable working at heights in all weather conditions and responding to emergencies, seeking top-tier tradesperson wages
+- Clear long-term career path for those looking to build a career in the electricity grid infrastructure sector
+
+**Who is not suited**
+- Fear of heights or psychological barriers to working at height
+- Not willing to be on 24/7 emergency on-call rotations
+- Seeking stable, regular indoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an electrician (power lines) in Australia?**
+A: Mid-level linespeople earn approx. $105,000–$140,000 per year (approx. $50–$65/hr). Major transmission projects and storm recovery emergency work can reach $135,000–$180,000+. It is one of the highest-paid trade occupations.
+
+**Q: Is it easy to find work as a powerline worker in Australia?**
+A: Very easy. A decade-long grid modernisation program with 300–600 positions listed on Seek, licensed linespeople in extreme shortage and near-zero unemployment.
+
+**Q: Is domestic powerline experience recognised in Australia?**
+A: TRA assessment (12–18 months) is required before applying for a state licence. Candidates with high-voltage experience and NPTC/relevant qualifications will have a smoother assessment process.
+
+**Q: Will power line workers be replaced by robots?**
+A: Very low. High-voltage on-site operations, overhead line judgement and emergency response require licensed personnel on-site and cannot be automated.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III plus state licensing is sufficient; TAFE apprenticeships are open to secondary school leavers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 341112 数据 |
-| Seek AU | Electrical Linesperson 薪资（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中高（★★★★☆） |
-
-电力线工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电力线工工资多少？**
-答：中级线工年薪约 $105,000~$140,000（约$50~$65/hr）。输电大项目和风暴恢复应急可达 $135,000~$180,000+。是技工类薪资最高的职业之一。
-
-**问：澳洲电力线工容易找工作吗？**
-答：非常容易。电网现代化十年规划，Seek挂牌300~600个职位，持证线工极度稀缺，几乎零失业。
-
-**问：国内输电线路工经验澳洲认可吗？**
-答：需TRA评估（12~18个月）后申请各州持证。有高压作业经验和NPTC/相关资质者评估更顺利。
-
-**问：电力线工会被机器人替代吗？**
-答：极低。高压现场作业、架线判断和紧急应急响应需要持证人员现场负责，无法自动化。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III+州持证即可，高中毕业可入读TAFE学徒。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Wool Handler（Wool Handler）职业分析 · 澳大利亚
+# Wool Handler — career analysis · Australia
 
-**职业代码：842321 – Wool Handler。**
+**Occupation code: 842321 (ANZSCO)**
 
-Responsible for handling wool in shearing sheds, including classing, pressing, and recording; ensures wool quality meets export standards.
+Responsible for handling wool in the shearing shed, including grading, baling, and recording; ensuring wool quality meets export standards.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期职业培训 | 6个月内 | $500~$2,000（TAFE或培训机构提供的羊毛分级课程） |
-| 在岗培训 | 1-2年 | —（雇主提供带薪培训，无直接学费） |
+| Short-term vocational training | Within 6 months | $500~$2,000 (Wool grading courses offered by TAFE or training providers) |
+| On-the-job training | 1-2 years | $0~$0 (Employer-provided paid training with no direct tuition costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 通常雇主提供在岗培训，经验优先 |
-| 羊毛分级证书 | TAFE或行业认证机构 | 可选 | 提升就业竞争力 |
+| No mandatory requirements | None | Optional | Employers usually provide on-the-job training; experience is preferred. |
+| Wool grading certificate | TAFE or industry certification body | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。澳洲是羊毛出口大国，该职业在偏远地区需求稳定，受全球羊毛价格波动影响。自动化技术正在引入，但人工处理仍不可替代。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Australia is a major wool exporter, and this occupation has stable demand in regional areas, influenced by global wool price fluctuations. Automation technology is being introduced, but manual handling remains irreplaceable.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 计件或时薪制，取决于季节 |
-| 中级（2-5年） | $55,000~$70,000 | 可独立分级，旺季收入更高 |
-| 高级（5年以上） | $70,000~$90,000 | 担任主管或高级分级员 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $45,000~$55,000 | Piece-rate or hourly wage, depending on season |
+| Intermediate (2-5 years) | $55,000~$70,000 | Independent grading possible, higher income during peak season |
+| Senior (5+ years) | $70,000~$90,000 | Serve as supervisor or senior grader |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级羊毛处理员晋升为高级分级员或剪毛棚主管；经验丰富者可转向农业管理或出口检验领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI improves efficiency and consistency of wool handlers through automated grading, recording, and IoT monitoring, but retains core needs for manual handling and on-site judgment.
+
+Can advance from junior wool handler to senior grader or shearing shed supervisor; experienced workers can move into agricultural management or export inspection areas.
+
+**Tasks most exposed to AI:**
+
+- Automated processing of wool grading records.
+- Preliminary assessment of wool quality based on image recognition
+- Inventory data entry and statistical report generation
+- Pattern recognition in routine quality inspection
+- Automatic integration of supply chain tracking information
+
+**Where AI augments the role:**
+
+- AI-assisted real-time quality grading suggestions
+- IoT sensors monitor wool moisture, impurity levels and other parameters to enhance decision-making
+- Intelligent packaging system optimizes compression ratio and cost
+- Data-driven yield prediction and market matching
+- Augmented reality training system enhances new employee skills
+
+**Human moat:**
+
+- Fine tactile skills for manual operations like shearing and packing
+- On-site handling of unforeseen situations (e.g., sheep stress)
+- Communication and coordination with herders and shearers
+- On-site judgment of export standard compliance
+- Mechanical maintenance and troubleshooting
+
+**Skills to build:**
+
+- Basic data analysis and visualization
+- Operation of AI-assisted tools (e.g., grading software)
+- IoT device maintenance and data interpretation
+- Digital understanding of wool quality standards
+- Use of supply chain digitalization platform
+- Safety regulations and machinery operation
+
+**Key growth areas:**
 
 - Agricultural Workers
 - Rural Employment
@@ -63,63 +99,65 @@ Responsible for handling wool in shearing sheds, including classing, pressing, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 需雇主担保，该职业不在核心技能清单上，申请难度大 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 仅限偏远地区，需州担保，职业需在相关清单上 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，需满足特定条件 |
+| Subclass 482 (Temporary Skill Shortage) | Requires employer sponsorship, occupation not on the Core Skills Occupation List, high application difficulty |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Regional only, requires state nomination, occupation must be on the relevant list |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship, subject to specific conditions |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wool Handler？**
-- 喜欢户外体力工作的人
-- 愿意在偏远地区生活的人
-- 对羊毛产业有热情的人
+**Who is suited**
+- People who enjoy outdoor physical work
+- People willing to live in remote areas
+- People passionate about the wool industry
 
-**谁不适合学Wool Handler？**
-- 无法适应高强度体力劳动的人
-- 寻求快速移民途径的人
+**Who is not suited**
+- People unable to adapt to high-intensity physical labor
+- People seeking a fast immigration pathway
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of a wool handler?**
+A: Income varies with season and wool prices; junior approx AUD 45k-55k, senior up to AUD 70k-90k.
+
+**Q: Are there skilled migration opportunities for wool handlers?**
+A: Currently this occupation is not on the CSOL/MLTSSL, skilled migration pathways are very limited, but regional employer sponsorship (e.g., 494 visa) may apply.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Wool Handler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a wool handler?**
-答：Income varies by season and wool price; entry-level earns around AUD 45,000-55,000, senior up to AUD 70,000-90,000.
-
-**问：Are there skilled migration opportunities for wool handlers?**
-答：Currently not on CSOL/MLTSSL, so skilled migration is very limited; regional employer sponsorship (e.g., subclass 494) may be an option.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

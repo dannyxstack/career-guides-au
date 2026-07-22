@@ -1,61 +1,93 @@
-# Railway Track Worker（Railway Track Worker）职业分析 · FR
+# Railway Track Worker — career analysis · France
 
-**职业代码：N4403 – Railway Track Worker。**
+**Occupation code: N4403 (ROME)**
 
-Responsible for laying, maintaining, repairing and inspecting railway tracks to ensure safe rail transport.
+Responsible for the laying, maintenance, repair, and inspection of railway tracks to ensure the safety of railway transportation.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中毕业 (CAP) | 2年 | —（可通过学徒制免费学习） |
-| 职业文凭 (Bac Pro) | 3年 | —（公立学校免费，私立少量费用） |
+| Vocational High School Graduation (CAP) | 2 years | $0~$1,000 (You can study for free through an apprenticeship) |
+| Professional Diploma (Bac Pro) | 3 years | $0~$2,000 (Public schools are free, private schools have minimal fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 铁路线路工 | 法国教育部 | 必备 | 国家职业文凭，必备 |
-| Bac Pro 铁路维护 | 法国教育部 | 可选 | 更高级别文凭，提升竞争力 |
-| CACES 工程机械操作证 | CNAM | 必备 | 操作轨道维护机械所需 |
+| CAP railway line operator | French Ministry of Education | Required | National vocational diploma, essential |
+| CACES construction machinery operation certificate | CNAM | Required | Required for operating track maintenance machinery |
+| Bac Pro railway maintenance | French Ministry of Education | Optional | Higher-level diplomas enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国铁路网络老化，需大量维护工人，预计未来十年岗位稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France's railway network is aging, requiring a large number of maintenance workers, with stable jobs expected over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（4-10年） | $30,000~$36,000 | 税前年薪 |
-| 高级（10年以上） | $36,000~$45,000 | 税前年薪 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-10 years). | $30,000~$36,000 | Annual pre-tax salary |
+| Senior (10+ years) | $36,000~$45,000 | Annual pre-tax salary |
+| average salary | $29,652 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级工人晋升为团队负责人或技术专家，再向工程师或管理层发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Rail track workers face mixed impacts from AI automation: unmanned inspection vehicles and AI track geometry detection systems are replacing manual inspections and simple measurements, but complex repairs and emergency judgments still require human experience; entry-level positions are narrowing due to automation, but increased technical skill requirements enhance job value.
+
+You can be promoted from a junior worker to a team leader or technical expert, and then advance to an engineer or management position.
+
+**Tasks most exposed to AI:**
+
+- Automated measurement and data recording of track geometry by AI-powered track inspection vehicles
+- Vision-based rail defect detection (e.g., cracks, loose bolts) via drones or vehicle cameras + AI analysis
+- Regular rail wear detection and report generation, handled automatically by remote sensors and algorithms
+- Ballast condition assessment and track maintenance plan development, optimized by AI model predictions
+
+**Where AI augments the role:**
+
+- AR smart glasses assist complex repair operations with real-time technical diagrams superimposed.
+- AI predictive maintenance systems help optimize repair scheduling and spare parts management.
+- Digital twin technology assists in simulating track renovation solutions, improving decision-making efficiency
+
+**Human moat:**
+
+- Unstructured work in emergencies: e.g., on-site judgment needed for emergency repair of derailed trains on arrival lines
+- Field operations in extreme environments (heavy rain, high heat, nighttime)
+- Coordination and communication skills with other trades (e.g., signal workers, electrical workers)
+- Tacit knowledge of local infrastructure history (e.g., deformation patterns of century-old bridges)
+
+**Skills to build:**
+
+- Track inspection data analysis software (e.g., Trimble Railworks)
+- Drone operation and image interpretation skills (CASA Remote Pilot Licence)
+- Basic programming and automation tool usage (Python/Excel VBA)
+- Digital twin platform operation (e.g., Bentley iTwin)
+- Stress resistance and emergency decision-making skills
+- Basic mechanical maintenance (welding, hydraulic systems)
+
+**Key growth areas:**
 
 - Rail
 - Infrastructure
@@ -64,61 +96,63 @@ Responsible for laying, maintaining, repairing and inspecting railway tracks to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 受雇于法国雇主，需获得工作许可，非紧缺职业移民难度大。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employed by a French employer; requires work permit; non-shortage occupations face high immigration difficulty. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Railway Track Worker？**
-- 喜欢户外体力劳动
-- 注重安全规范
-- 愿意在偏远地区工作
+**Who is suited**
+- Enjoys outdoor physical work
+- Focus on safety regulations.
+- Willing to work in remote areas.
 
-**谁不适合学Railway Track Worker？**
-- 不喜体力劳动
-- 无法适应不规律作息
+**Who is not suited**
+- Dislikes physical labour
+- Unable to adapt to irregular routines
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for railway line workers?**
+A: Junior approx. 24,000-30,000 EUR/year, senior up to 45,000 EUR/year, pre-tax.
+
+**Q: Can foreigners apply for railway line workers in France?**
+A: EU citizens can move freely; Non-EU citizens need employer sponsorship, as it is not urgent and requires French language skills, making immigration more difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Railway Track Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a railway track worker?**
-答：Entry-level around €24,000-30,000/year, senior up to €45,000/year, gross.
-
-**问：Can foreigners apply for railway track worker jobs in France?**
-答：EU citizens can move freely; non-EU citizens need employer sponsorship, difficult due to language and non-shortage status.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

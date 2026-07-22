@@ -1,60 +1,96 @@
-# Garden and Horticultural Labourer（Garden and Horticultural Labourer）职业分析 · IE
+# Garden and Horticultural Labourer — career analysis · Ireland
 
-**职业代码：9214 – Garden and Horticultural Labourer。**
+**Occupation code: 9214 (ISCO08)**
 
-Performs manual tasks in nurseries, greenhouses, and landscape sites including planting, pruning, watering, and fertilizing, supporting Ireland's horticultural industry.
+Perform physical gardening tasks such as planting, pruning, watering, and fertilising in nurseries, greenhouses, and landscape sites; forms the foundational labour force of Ireland's horticulture industry.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（通常在职培训） |
-| 园艺相关证书 | 1年（FETAC Level 5） | $1,000~$3,000（部分课程可申请补助） |
+| No formal education requirements | None | $0~$0 (Usually on-the-job training) |
+| Horticulture-related certificate | 1 year (FETAC Level 5) | $1,000~$3,000 (Some courses are eligible for subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Safe Pass 安全卡 | SOLAS | 必备 | 建筑业必备，多数园艺雇主要求 |
-| 手动操作培训 | 雇主或培训机构 | 可选 | 常见要求 |
+| Safe Pass Safety Card | SOLAS | Required | Essential for the construction industry, required by most gardening employers |
+| Manual handling training | Employer or training provider | Optional | Common requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 12,000。随着爱尔兰对绿色空间和本地食品需求增长，园艺劳动力持续短缺，就业稳定，但受季节影响。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. With growing demand for green spaces and local food in Ireland, there is a sustained shortage of horticultural labor; employment is stable but subject to seasonal effects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 通常按小时计薪，时薪约12-15欧元 |
-| 中级（2-5年） | $28,000~$35,000 | 经验丰富者时薪可达15-18欧元 |
-| 高级（5年以上） | $35,000~$45,000 | 主管或技术员职位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$28,000 | Usually paid hourly, about 12-15 euros per hour |
+| Intermediate (2-5 years) | $28,000~$35,000 | Experienced workers can earn 15-18 euros per hour |
+| Senior (5+ years) | $35,000~$45,000 | Supervisor or technician positions. |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可晋升为园艺主管或园艺师，需积累经验并获取额外证书；少数人创业开设园艺服务公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The manual labor of horticultural workers is not easily fully replaced by AI, but AI will significantly enhance work efficiency in monitoring, planning, and management tasks; entry-level positions are moderately narrowing due to the spread of automation tools.
+
+Can be promoted to horticulture supervisor or horticulturist, requires experience and additional certifications; a few start their own horticulture service companies.
+
+**Tasks most exposed to AI:**
+
+- Automated irrigation systems take over watering tasks
+- Drone inspections replace manual crop monitoring
+- Smart greenhouse climate control replaces manual adjustment
+- Robotic weeding replacing some weeding tasks
+- Data analysis tools replace manual recording of growth logs
+
+**Where AI augments the role:**
+
+- AI-powered crop health diagnosis assists precise fertilization and pesticide application
+- Predictive models optimize planting plans and yield forecasts
+- VR training improves new employees' skill acquisition efficiency
+- Real-time feedback from smart devices improves labor quality
+- Automated tools reduce repetitive tasks, allowing focus on meticulous work
+
+**Human moat:**
+
+- intuitive judgment and on-site response to abnormal plant growth
+- Flexible operation in complex terrain and unpredictable weather.
+- Aesthetic sense and feel for fine pruning and artistic shaping
+- Trust relationship with clients for customized gardening solutions.
+- Integration of ecological knowledge for multi-species mixed planting
+
+**Skills to build:**
+
+- Operating and maintaining automated equipment such as smart irrigation and drones
+- Basic data analysis and agricultural software usage
+- Learn to collaborate with plant pathology and AI diagnostic tools
+- Master precision agriculture techniques (e.g., soil sensors)
+- Enhance customer service and project management skills
+- Knowledge of sustainable gardening practices (e.g., ecological restoration)
+
+**Key growth areas:**
 
 - Green Infrastructure
 - Organic Horticulture
@@ -63,65 +99,67 @@ Performs manual tasks in nurseries, greenhouses, and landscape sites including p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 用于非紧缺职业，需雇主担保，年薪需达3万欧元以上（2024年标准） |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可自由工作，无需签证 |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in demand, requires employer sponsorship, annual salary must be above €30,000 (2024 standard) |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can work freely without a visa |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Garden and Horticultural Labourer？**
-- 喜欢户外体力劳动，能适应各种天气
-- 对园艺有热情，愿意从基层做起
-- 希望快速进入职场，无需高学历
+**Who is suited**
+- Enjoys outdoor physical labor and can adapt to various weather conditions
+- Passionate about gardening, willing to start from the basics
+- Hope to quickly enter the workforce without a high degree
 
-**谁不适合学Garden and Horticultural Labourer？**
-- 不喜体力劳动或重复性工作
-- 追求高薪或快速晋升
+**Who is not suited**
+- Dislikes physical labor or repetitive work
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for horticultural workers?**
+A: Entry-level annual salary approx. €22,000–28,000; senior up to €45,000, usually paid hourly.
+
+**Q: How can non-EU citizens obtain a work visa as a horticultural worker?**
+A: Requires employer to provide a General Employment Permit, annual salary usually at least 30,000 euros, and proof that the position cannot be filled by a local.
+
+**Q: What career advancement opportunities are available for horticultural workers?**
+A: Can advance to horticulture supervisor, horticulturist, or start own business; requires advanced certification such as FETAC Level 6.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Garden and Horticultural Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for garden labourers?**
-答：Entry-level annual salary is around €22,000–€28,000, senior roles up to €45,000, typically paid hourly.
-
-**问：How can non-EU citizens get a work visa for garden labourer?**
-答：Employer must sponsor a General Employment Permit, salary usually needs to be €30,000+, and labor market test applies.
-
-**问：What are the career advancement opportunities?**
-答：Can advance to supervisor, horticulturist, or start own business with certifications like FETAC Level 6.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

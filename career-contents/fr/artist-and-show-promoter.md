@@ -1,60 +1,95 @@
-# Artist and Show Promoter（Artist and Show Promoter）职业分析 · FR
+# Artist and Show Promoter — career analysis · France
 
-**职业代码：L1303 – Artist and Show Promoter。**
+**Occupation code: L1303 (ROME)**
 
-Responsible for planning, organizing, and promoting artists' shows, exhibitions, and cultural events, including contract negotiation, media promotion, and ticketing management, collaborating with venues, sponsors, and media.
+Responsible for planning, organizing, and promoting artists' performances, exhibitions, and cultural activities, including contract negotiations, media publicity, and ticket management, as well as collaborating with venues, sponsors, and media.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后两年培训（BTS） | 2年（BTS） | $3,000~$8,000（公立院校学费低，私立商校较高） |
-| 本科（Licence） | 3年（Licence） | $200~$10,000（公立大学约200欧/年，私立高商可达1万欧/年） |
+| Second Two Years of High School Training (BTS) | 2 Years (BTS) | $3,000~$8,000 (Public institutions have lower tuition fees, while private business schools offer higher tuition) |
+| Licence | 3 years (Licence) | $200~$10,000 (Public universities around €200 per year, private business schools up to €10,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 文化项目管理文凭 | 法国文化部认可院校 | 可选 | 非强制，但有助于职业发展 |
-| 娱乐行业许可（Licence d'entrepreneur de spectacles） | 法国文化部（DRAC） | 必备 | 从事演出推广必须持有，分为1类（组织）和2类（制作）。需通过考试或培训 |
+| Entertainment Industry Licensing (Licence d'entrepreneur de spectacles) | French Ministry of Culture (DRAC) | Required | Participation in performance promotion is mandatory, divided into Category 1 (Organization) and Category 2 (Production). Passing exams or training is required |
+| Diploma in Cultural Project Management | Recognized by the French Ministry of Culture | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国文化产业发达，演出市场活跃，但竞争激烈。随着数字媒体和现场体验需求增长，该职业前景稳定，但受经济周期影响较大。自由职业者比例高，收入波动明显。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France has a developed cultural industry and a vibrant performance market, but competition is fierce. With growing demand for digital media and live experiences, the career outlook is stable but heavily affected by economic cycles. The proportion of freelancers is high, and income fluctuates significantly.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，自由职业者收入波动大 |
-| 中级（4-7年） | $32,000~$45,000 | 稳定机构或成功独立推广人 |
-| 高级（8年以上） | $45,000~$70,000 | 总监或公司创始人，含奖金 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary: freelancers' income fluctuates greatly |
+| Mid-level (4-7 years) | $32,000~$45,000 | Stable institutions or successful independent promoters |
+| Senior (8+ years) | $45,000~$70,000 | Director or company founder, with bonus |
+| average salary | $53,160 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从助理或经纪人开始，逐步独立管理项目，晋升为高级推广人或公司总监。也可向娱乐管理、音乐产业经理等方向发展，或成立自己的推广公司。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the media planning, client matching, and data analysis tasks of performance promoters, but automation cannot replace the core responsibilities of interpersonal negotiation, creative curation, and on-site response, and overall job roles are expanding rapidly.
+
+Typically, they start as assistants or brokers, gradually managing projects independently and advancing to senior promoters or company directors. You can also develop into entertainment management, music industry management, or establish your own promotion company.
+
+**Tasks most exposed to AI:**
+
+- Ticket inventory management and real-time updates are handled by an AI dynamic pricing system
+- The initial drafting and layout of media promotional materials are replaced by content generation tools
+- Scheduling conflict detection and basic coordination in the performance calendar are handled by scheduling algorithms
+- Regular social media posts and basic interactive replies are handled by chatbots
+- The initial screening and classification of sponsor profiles is completed by matching algorithms
+
+**Where AI augments the role:**
+
+- Using AI to analyze historical box office and social media trends to accurately predict attendance rates and pricing strategies
+- Automatically generate multilingual promotional copy and optimize title testing through natural language processing
+- Using AI tools to mine target audience profiles and optimize precise ad placements
+- Use virtual reality to preview venue layouts, assisting stage design and audience flow planning
+- Manage artist relationships through an AI-driven CRM system, automatically reminding you of communication nodes and contract renewals
+
+**Human moat:**
+
+- High-EQ negotiations and long-term relationship maintenance with artists, venue organizers, and sponsors
+- Intuition and taste in creative planning, such as choosing unique performance themes or cross-disciplinary collaborations
+- Emergency response to on-site emergencies and multi-party coordination capabilities
+- A deep understanding of cultural trends and localized event design
+
+**Skills to build:**
+
+- Master digital marketing platforms (such as Meta Ads, Google Ads) and their AI optimization features
+- Learn basic data analysis (Excel, SQL, or BI tools) to interpret box office and audience data
+- Familiarize yourself with AI copywriting tools (ChatGPT, Jasper) and train them to generate content that matches your brand's tone
+- Understand the basic integration of ticketing with CRM systems (such as Ticketmaster API and Salesforce).
+- Develop advanced usage of project management tools (such as Asana and Trello) to improve cross-team collaboration efficiency
+- Enhance cross-cultural communication and foreign language skills to meet the needs of international tours and collaborations
+
+**Key growth areas:**
 
 - Cultural Events
 - Digital Promotion
@@ -63,63 +98,65 @@ Responsible for planning, organizing, and promoting artists' shows, exhibitions,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如文化、艺术领域。需证明项目对法国文化有贡献，有效期4年 |
-| Subclass Salarié（Employee (Salaried Worker)） | 受雇于法国公司，需工作许可。雇主须证明无法在欧盟内找到合适人选 |
-| Subclass Recherche emploi（Job Seeker） | 持有法国硕士文凭后可申请，临时居留1年，用于找工作 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those in culture and the arts. You must prove that the project contributes to French culture, and the validity period is four years |
+| Subclass Salarié (Employee (Salaried Worker)) | Employed by a French company, work permit required. Employers must prove that suitable candidates cannot be found within the EU |
+| Subclass Recherche emploi (Job Seeker) | After holding a French master's degree, you can apply for a one-year temporary residence to find a job |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Artist and Show Promoter？**
-- 对文化艺术有热情，善于社交和谈判
-- 具备项目管理能力，能同时处理多场活动
-- 适应自由职业和不规律工作时间
+**Who is suited**
+- Passionate about culture and the arts, good at socializing and negotiation
+- Possess project management skills and be able to handle multiple events simultaneously
+- Adapt to freelance and irregular working hours
 
-**谁不适合学Artist and Show Promoter？**
-- 追求稳定收入和固定工作时间者
-- 不擅长处理复杂人际关系和压力者
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- Not good at handling complex interpersonal relationships and stressors
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for artist promoters?**
+A: Entry-level is about 25,000-32,000 euros per year before tax, intermediate is 32,000-45,000 euros, and advanced can reach up to 70,000 euros. Freelancers' income fluctuates greatly and they must pay social insurance themselves.
+
+**Q: How can foreign artist promoters immigrate to France?**
+A: Can apply for a Talent Passport (Passeport Talent), applicable in the cultural field. Need to prove the project contributes to French culture, such as collaboration with French artists or institutions. Employment by a French company also allows application for a work residence permit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Artist and Show Promoter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for artist promoters?**
-答：Entry-level: €25,000–€32,000 gross/year; mid-level: €32,000–€45,000; senior: up to €70,000. Freelancers face income volatility and must pay social contributions themselves.
-
-**问：How can foreign artist promoters migrate to France?**
-答：Apply for a Talent Passport (Passeport Talent) for cultural fields. Must demonstrate contribution to French culture, e.g., collaborating with French artists. Employment by a French company is also possible via a work permit.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

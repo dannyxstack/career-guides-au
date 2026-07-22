@@ -1,60 +1,95 @@
-# Painter (Visual Arts)（Painter (Visual Arts)）职业分析 · 新西兰
+# Painter (Visual Arts) — career analysis · New Zealand
 
-**职业代码：211411 – Painter (Visual Arts)。**
+**Occupation code: 211411 (ANZSCO)**
 
-Visual artists create and sell original artworks, often self-employed or part-time with volatile incomes. This occupation is not on the Skilled Migrant Category or Green List for direct residence, but may be possible via Accredited Employer Work Visa (AEWV) or other pathways.
+Visual arts painters focus on original art creation and sales, often self-employed or part-time, with fluctuating income. This occupation is not on New Zealand's Skilled Migrant or Green List direct residence pathways, but can be attempted via Accredited Employer Work Visa (AEWV) or Long Term Skill Shortage List routes.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（视觉艺术） | 3年 | $60,000~$90,000（学费因院校和课程而异） |
-| 研究生文凭/硕士 | 1-2年 | $40,000~$70,000（通常为专业发展或教学职位需要） |
+| Bachelor's degree (Visual Arts) | 3 years | $60,000~$90,000 (Tuition varies by institution and program) |
+| Postgraduate diploma/master's | 1-2 years | $40,000~$70,000 (Typically required for professional development or teaching positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视觉艺术学士 | 惠灵顿维多利亚大学、奥克兰大学等 | 可选 | 常见学历，非强制 |
-| 艺术专业人士认证 | 新西兰艺术家协会等 | 可选 | 可提升信誉，非法律要求 |
+| Bachelor of Visual Arts | Victoria University of Wellington, University of Auckland, etc. | Optional | Common qualification, not mandatory |
+| Art Professionals certification. | Artists Association of New Zealand, etc. | Optional | Can enhance credibility, not a legal requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,200。视觉艺术市场受经济周期和旅游影响较大，但数字艺术和在线销售带来新机会。预计就业增长平稳，竞争激烈，大多数从业者需多样化收入来源。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,200. The visual art market is affected by economic cycles and tourism, but digital art and online sales bring new opportunities. Employment growth is expected to be steady with strong competition; most practitioners need diverse income sources.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 基于兼职或自雇收入，波动大 |
-| 中级（3-7年） | $40,000~$60,000 | 含销售和教学收入 |
-| 高级（8年以上） | $60,000~$100,000 | 含知名艺术家、画廊代理等 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $25,000~$40,000 | Based on part-time or self-employment income, fluctuates greatly |
+| Mid-level (3–7 years) | $40,000~$60,000 | Includes sales and teaching income |
+| Senior (8+ years) | $60,000~$100,000 | Including well-known artists, gallery representation, etc. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展依赖个人声誉和作品网络。初级画家可积累作品和参展经验，中级画家可通过画廊代理和委托提高收入，高级画家可能获得国际声誉，同时可转向艺术教学、策展或艺术管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools can generate images, optimise colour and composition, but the artist's core creative intent, artistic expression, and emotional resonance are difficult to replace; entry-level competition intensifies, freelance survival pressure increases, but AI assistance can improve efficiency and experimental range.
+
+Career development relies on personal reputation and network of works. Junior painters can accumulate portfolio and exhibition experience; mid-level painters can increase income through gallery representation and commissions; senior painters may gain international recognition, while also transitioning to art teaching, curation, or art management.
+
+**Tasks most exposed to AI:**
+
+- Commercial illustration (e.g., book covers, advertising posters for quick needs)
+- Portrait and realistic painting (AI can generate realistic works from photos)
+- Color scheme suggestions and composition experiments (AI can quickly generate variations)
+- Digital art reproduction (style transfer, batch generation)
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly generate idea sketches and mood boards, speeding up the pre-production phase
+- Use AI to analyze color matching, composition rules, and optimize visual effects of works
+- Generate multiple versions via AI to assist client negotiation and customization
+- Use AI for artwork display simulation, making curation and setup more efficient
+- Social media content generation (descriptions, tags, thumbnails) to promote work
+
+**Human moat:**
+
+- Unique personal style and artistic expression, cannot be fully imitated by algorithms
+- Emotional injection and storytelling ability during creation
+- Cross-media experimentation and material innovation (e.g., mixed media, installation art)
+- Understanding of art criticism, social observation, and cultural context
+- Interpersonal relationships and negotiation with clients, galleries, and collectors
+
+**Skills to build:**
+
+- Proficient in using AI image tools (e.g., Midjourney, DALL·E, Stable Diffusion)
+- Digital painting and software skills (Procreate, Photoshop, Blender)
+- Art Market and Brand Marketing (personal IP operation, social media promotion)
+- Project management and client communication (ability to deliver custom work)
+- Cross-media creation (e.g., combining 3D printing, VR/AR technology)
+- Continuously learn new technologies and integrate into traditional creation
+
+**Key growth areas:**
 
 - Digital Art
 - Online Sales
@@ -63,65 +98,67 @@ Visual artists create and sell original artworks, often self-employed or part-ti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，从事与资格相关的工作 |
-| Subclass SMC（Skilled Migrant Category） | 需满足技能要求，通常需本科和较高收入，画家职位非典型路径 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer and work in a role related to qualifications |
+| Subclass SMC (Skilled Migrant Category) | Must meet skill requirements, typically a bachelor's degree and high income; painter is not a typical pathway |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Painter (Visual Arts)？**
-- 具有强烈艺术创作热情和自主创业精神的人
-- 愿意多渠道销售作品（线上线下、画廊）
-- 能接受收入不稳定并愿意从事相关兼职工作
+**Who is suited**
+- People with strong artistic creative passion and entrepreneurial spirit
+- Willing to sell works through multiple channels (online/offline, galleries)
+- Able to accept unstable income and willing to take related part-time jobs
 
-**谁不适合学Painter (Visual Arts)？**
-- 追求稳定收入和职业保障的人
-- 不愿销售和推广自己作品的人
+**Who is not suited**
+- People seeking stable income and job security
+- People unwilling to sell and promote their own work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for a painter in New Zealand?**
+A: Entry-level about NZD 25,000-40,000, mid-level NZD 40,000-60,000, senior NZD 60,000-100,000. Most painters have unstable income and need supplementary work.
+
+**Q: Can painters immigrate to New Zealand through skilled migration?**
+A: Painters are not on the Green List or typical SMC occupation list; direct skilled migration is difficult, but can try via AEWV or long-term skill shortage list, subject to qualification and income requirements.
+
+**Q: What qualifications are needed to become a professional painter?**
+A: Usually requires a bachelor's degree or higher in visual arts, but not mandatory. Portfolio and exhibition experience are more important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Painter (Visual Arts)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for painters in New Zealand?**
-答：Entry-level NZD 25,000-40,000; mid-level NZD 40,000-60,000; senior NZD 60,000-100,000. Most painters have variable income and rely on other jobs.
-
-**问：Can painters migrate to New Zealand via skilled migration?**
-答：Painters are not on the Green List or typical SMC occupations, making direct residence difficult. However, they may explore AEWV or Long Term Skill Shortage List pathways, subject to qualifications and income thresholds.
-
-**问：What qualifications are needed to become a professional painter?**
-答：A bachelor's degree in visual arts or higher is common but not mandatory. Portfolio and exhibition experience are more important.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

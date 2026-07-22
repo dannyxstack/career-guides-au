@@ -1,60 +1,93 @@
-# Nursing Associate Professional（Nursing Associate Professional）职业分析 · IE
+# Nursing Associate Professional — career analysis · Ireland
 
-**职业代码：3221 – Nursing Associate Professional。**
+**Occupation code: 3221 (ISCO08)**
 
-Nursing associate professionals provide routine nursing care and support under the supervision of registered nurses or doctors, including monitoring vital signs, assisting with personal care, administering medications, and patient education, typically in hospitals, community care centers, and nursing homes.
+Enrolled nurses provide daily care and support under the direction of registered nurses or doctors, including monitoring vital signs, assisting with personal care, administering medications, and patient education, typically working in hospitals, community care centers, and nursing homes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等证书/文凭 | 2年 | $5,000~$10,000（公立护理高等证书课程学费） |
-| 学士学位（护理） | 4年 | $15,000~$25,000（护理学士年度学费，国际生更高） |
+| Advanced Certificate/Diploma | 2 years | $5,000~$10,000 (Tuition fees for the public nursing higher certificate course) |
+| Bachelor's degree (Nursing) | 4 years | $15,000~$25,000 (Annual tuition fee for Bachelor of Nursing, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理准专业文凭 | 爱尔兰护理与助产委员会（NMBI） | 必备 | 完成NMBI认可课程后注册 |
-| 急救证书 | 爱尔兰红十字会等 | 可选 | 部分雇主要求，通常需每年更新 |
-| 手动搬抬证书 | 培训机构 | 可选 | 大多数医疗机构要求 |
-| 免疫接种证书 | 相关卫生机构 | 必备 | 从业必需，证明完成系列疫苗接种 |
+| Diploma of Nursing (Enrolled/Division 2 Nursing) | Irish Nursing and Midwifery Board (NMBI) | Required | Register after completing a NMBI-accredited course |
+| Immunisation certificate | Relevant health agency | Required | Mandatory for practice; proof of completed series of vaccinations |
+| First aid certificate | Irish Red Cross, etc. | Optional | Required by some employers, usually needs annual renewal |
+| Manual handling certificate | Training institution | Optional | Required by most medical institutions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。爱尔兰老龄化加剧和医疗需求增长推动护理准专业人员需求持续上升。政府近年扩大招聘，但人员短缺依然严重，预计未来十年岗位增长超过15%。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Ireland's aging population and growing healthcare needs are driving continued demand for nursing associate professionals. The government has expanded recruitment in recent years, but staff shortages remain severe, with job growth expected to exceed 15% over the next decade.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | 公共部门起薪，私营略低 |
-| 中级（3-7年） | $33,000~$40,000 | 含经验及夜班补贴 |
-| 高级（7年以上） | $40,000~$50,000 | 团队主管或专科护理角色 |
+| Median salary | $36,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$33,000 | Public sector starting salary, private sector slightly lower |
+| Mid-level (3–7 years) | $33,000~$40,000 | Includes experience and night shift allowances |
+| Senior (7+ years) | $40,000~$50,000 | Team leader or specialist nursing role |
+| average salary | $37,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从初级护理助手晋升为高级护理准专业人员、团队主管，或通过进修成为注册护士（需完成学士学位课程）。部分人转向社区护理、养老管理或专科护理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on nursing associate professionals is mixed: some clerical and monitoring tasks will be automated, but core care, patient communication, and clinical judgment remain highly human-dependent, with demand rising due to an aging population.
+
+Can advance from entry-level care assistant to senior care paraprofessional, team supervisor, or become a registered nurse through further study (requiring a bachelor's degree). Some transition to community care, aged care management, or specialist care.
+
+**Tasks most exposed to AI:**
+
+- Medical Record Documentation & Data Entry; AI voice and natural language processing can auto-generate electronic medical records.
+- Routine monitoring and alarming of vital signs, AI can analyze and send abnormal alerts in real time
+- Drug interaction checks; AI pharmacy systems can automatically verify interactions and dosages
+- Preparation of patient health education materials; AI-generated customised text and graphics
+
+**Where AI augments the role:**
+
+- Clinical decision support: AI analyzes patient data to provide care suggestions, improving diagnostic accuracy
+- Remote patient monitoring: AI-assisted remote tracking of chronic disease indicators for early warning of deterioration
+- Personalized Care Plans: AI recommends optimal care plans based on big data
+- Training and simulation: VR/AI scenarios enhance practical and emergency response skills
+
+**Human moat:**
+
+- Empathy and emotional support: uniquely human abilities to comfort and show empathy
+- Complex clinical judgment: flexible decision-making in multi-variable situations
+- Non-standardised care: handling patient individual differences and unexpected situations
+- Teamwork and communication: coordinating roles in cross-disciplinary teams.
+
+**Skills to build:**
+
+- Operation of AI-assisted care tools (e.g. smart monitoring systems)
+- Data analysis basics: interpreting AI reports and translating them into nursing actions
+- digital health record management
+- telemedicine communication skills
+- Continuous learning ability: keeping up with new nursing technologies
+- Ability to use AI-generated materials in patient education
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare expansion
@@ -63,68 +96,67 @@ Nursing associate professionals provide routine nursing care and support under t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺技能职业，护理准专业在列。需获得工作offer，年薪≥32,000欧元，可通往永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用非紧缺职业，但需劳动力市场测试。年薪一般需≥30,000欧元，可延期。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历且年薪≥39,508欧元（2024年标准），护理准专业通常较难达到此薪资。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For skills in demand occupations, including nursing associate professionals. Requires a job offer with annual salary ≥€32,000, leading to permanent residency. |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations but requires a labour market test. Annual salary generally needs to be ≥30,000 euros, with possible extension. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to higher education degrees with an annual salary ≥ €39,508 (2024 standard); nursing paraprofessionals often find it difficult to reach this salary. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nursing Associate Professional？**
-- 有耐心和同理心的人
-- 能在压力下工作并有团队精神的人
-- 寻求稳定就业且愿意轮班工作的人
-
-**谁不适合学Nursing Associate Professional？**
-- 无法承受长期体力劳动和情绪压力的人
-- 不喜欢与人密切接触和脏活的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy
+- Able to work under pressure and have team spirit
+- Seeking stable employment and willing to work shift work
+
+**Who is not suited**
+- Those who cannot endure long-term physical labor and emotional stress
+- People who dislike close contact with others and dirty work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for nursing paraprofessionals?**
+A: Junior annual salary is about €28,000–33,000; mid-level €33,000–40,000; senior up to €50,000. Overtime and night shifts attract additional allowances.
+
+**Q: How can nursing associate professionals immigrate to Ireland?**
+A: Can apply via Critical Skills Employment Permit, requiring NMBI-recognized qualification and job offer. After holding this permit for two years, permanent residency can be applied for.
+
+**Q: Is there room for advancement for nursing associate professionals?**
+A: Yes. You can become a registered nurse, specialist nurse, or nursing manager through further study. Some move into community care, nursing home management, or education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Nursing Associate Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for nursing associate professionals?**
-答：Entry-level annual salary is around €28,000-€33,000, mid-level €33,000-€40,000, and senior up to €50,000. Overtime and night shifts attract additional allowances.
-
-**问：How can nursing associate professionals immigrate to Ireland?**
-答：Apply through the Critical Skills Employment Permit, requiring NMBI-recognized qualifications and a job offer. After two years, you can apply for permanent residence.
-
-**问：Is there career progression for nursing associate professionals?**
-答：Yes. Through further study, you can become a registered nurse, specialist nurse, or nursing manager. Some move into community care, nursing home management, or education.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

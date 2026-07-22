@@ -1,60 +1,95 @@
-# Bullfighting Professionals（Bullfighting Professionals）职业分析 · ES
+# Bullfighting Professionals — career analysis · Spain
 
-**职业代码：2937 – Bullfighting Professionals。**
+**Occupation code: 2937 (CNO)**
 
-Includes matadors, banderilleros, picadores, and other professionals involved in traditional Spanish bullfighting performances, requiring high skill and courage in the bullring.
+Traditional Spanish bullfighting performers such as matadors, matador assistants, and spearmen require superb skills and courage to perform in the bullring.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 斗牛学校培训 | 2-4年 | $3,000~$15,000（需自费培训，无官方学历要求） |
-| 学徒实践 | 1-3年 | —（作为助手积累经验） |
+| Bullfighting school training | 2-4 years | $3,000~$15,000 (Self-paid training required, no official academic requirement) |
+| Apprenticeship practice | 1-3 years | $0~$0 (Gain experience as an assistant) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 斗牛专业人员注册 | 西班牙文化部（斗牛相关机构） | 必备 | 需在斗牛协会注册，获得执业许可 |
-| 斗牛学校毕业证书 | 各地斗牛学校 | 可选 | 完成培训并考核通过 |
+| Register as a bullfighting professional | Spanish Ministry of Culture (bullfighting-related institution) | Required | Must register with the Bullfighting Association and obtain a practice license |
+| Bullfighting School graduation certificate | Bullfighting schools across various regions | Optional | Complete training and pass the assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（★☆☆☆☆）。** 全国从业人数约 800。西班牙斗牛业近年面临动物保护运动和文化争议，从业人数下降，就业前景受限，仅在部分地区有稳定需求。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 800. In recent years, Spain's bullfighting industry has faced controversies over animal protection movements and culture, leading to a decline in the number of workers and limited employment prospects, with stable demand only in certain regions.
 
-**竞争度：很高（★★★★☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 收入不稳定，依赖演出场次 |
-| 中级（3-10年） | $30,000~$80,000 | 知名斗牛士收入较高 |
-| 高级（10年以上） | $80,000~$300,000 | 明星斗牛士收入极高，但极少 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$30,000 | Unstable income depends on performances |
+| Intermediate (3-10 years) | $30,000~$80,000 | Famous matadors earn higher incomes |
+| Senior (10+ years) | $80,000~$300,000 | Celebrity matadors earn extremely high incomes, but very little |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径通常从助手（如斗牛士助手）开始，积累经验后可成为主力斗牛士，顶尖者可达明星地位，但竞争激烈且生涯短暂。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Promotion usually starts as an assistant (such as a matador's assistant). After accumulating experience, one can become a main matador, and top players can reach star status, but competition is fierce and career time is short.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - Declining
 - Cultural niche
@@ -63,62 +98,64 @@ Includes matadors, banderilleros, picadores, and other professionals involved in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙斗牛场雇主担保，证明独特技能，审批严格 |
-| Subclass Busqueda empleo（Job Search Visa） | 可申请找工作居留，但机会极少 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Requires sponsorship by a Spanish bullring employer, proof of unique skills, strict approval. |
+| Subclass Busqueda empleo (Job Search Visa) | You can apply for job-seeking residency, but opportunities are very limited |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bullfighting Professionals？**
-- 极富冒险精神和身体协调性的人
-- 对西班牙传统斗牛文化有强烈认同者
-- 能承受高受伤风险和公众压力
+**Who is suited**
+- A person full of adventurous spirit and physical coordination
+- Those with a strong identification with traditional Spanish bullfighting culture
+- Able to withstand high injury risks and public pressure
 
-**谁不适合学Bullfighting Professionals？**
-- 反对动物虐待或尊重动物权利的人
-- 追求稳定职业和收入的人
+**Who is not suited**
+- People who oppose animal cruelty or respect animal rights
+- People seeking stable careers and income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a matador?**
+A: Entry-level matadors earn around EUR 15,000-30,000 per year, but income fluctuates significantly; star matadors can earn over EUR 300,000.
+
+**Q: Can foreign matadors immigrate to Spain?**
+A: It's almost impossible. Bullfighting is not a highly sought-after profession in Spain, and outsourcing employers have strict requirements, but in theory, you can apply for work residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 极低（★☆☆☆☆） |
-| 竞争度 | 很高（★★★★☆） |
-| 收入水平 | 波动大（★★½☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Bullfighting Professionals属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of a bullfighter?**
-答：Junior matadors earn around €15,000-30,000, fluctuating with shows; star matadors can exceed €300,000.
-
-**问：Can foreign bullfighters immigrate to Spain?**
-答：Almost impossible; bullfighting is not in shortage, but a work permit via employer sponsorship may be theoretically possible.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

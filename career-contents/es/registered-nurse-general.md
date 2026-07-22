@@ -1,59 +1,93 @@
-# Registered Nurse (General)（Registered Nurse (General)）职业分析 · ES
+# Registered Nurse (General) — career analysis · Spain
 
-**职业代码：2121 – Registered Nurse (General)。**
+**Occupation code: 2121 (CNO)**
 
-Provides general nursing care, including patient monitoring, medication administration, wound care, and health education, working in various healthcare settings across Spain.
+Provides general nursing services, including patient monitoring, medication management, wound care, and health education, working in medical institutions at all levels in Spain.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado en Enfermería） | 4年 | $1,000~$6,000（公立大学学费每年约1000-3000欧元，私立大学约6000欧元以上） |
-| 硕士（Máster Universitario） | 1-2年 | $2,000~$8,000（专科护理硕士，如重症监护、老年护理等） |
+| Undergraduate Degree (Grado en Enfermería) | 4 years | $1,000~$6,000 (Tuition at public universities is about 1,000-3,000 euros per year, while private universities are over 6,000 euros) |
+| Master's (Máster Universitario) | 1-2 years | $2,000~$8,000 (Specialist Master of Nursing, such as intensive care and geriatric nursing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理学学士学位（Grado en Enfermería） | 西班牙大学 | 必备 | 需完成4年大学课程并通过实习 |
-| 西班牙护士执业资格（Diploma de Enfermería） | 西班牙卫生部和各自治区 | 必备 | 需通过国家考试并在自治区注册 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行学历认证，确认等同于西班牙Grado |
+| Bachelor of Nursing Degree (Grado en Enfermería) | Spanish University | Required | Completion of a 4-year university program and passing an internship are required |
+| Spanish Nurse Practice Qualification (Diploma de Enfermería) | The Spanish Ministry of Health and the autonomous communities | Required | You must pass the national exam and register in the autonomous region |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require credential verification, which is confirmed to be equivalent to Spain's Grado |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 310,000。西班牙面临护士短缺，尤其在老龄化加剧和公共医疗需求增长的背景下，就业前景稳定，公立医院和养老院需求旺盛。
+**Job demand: very high (★★★★½).** National workforce approx. 310,000. Spain faces a shortage of nurses, especially amid intensifying aging populations and rising public healthcare demand. Employment prospects remain stable, with strong demand for public hospitals and nursing homes.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公立医院起薪约24000欧元，私立略低 |
-| 中级（4-9年） | $30,000~$38,000 | 含加班和夜班补贴 |
-| 高级（10年以上） | $38,000~$48,000 | 专科护士或管理岗位可达更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salaries at public hospitals are about 24,000 euros, while private hospitals are slightly lower |
+| Intermediate (4-9 years) | $30,000~$38,000 | Includes overtime and night shift allowances |
+| Senior (10+ years) | $38,000~$48,000 | Specialist nurses or management positions can reach even higher levels |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级护士晋升为专科护士（如急救、重症监护），或转向护理管理、护理教育岗位，也可通过硕士深造成为护理专家。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Nurses can be promoted from junior nurses to specialist nurses (such as emergency care and intensive care), or transition to nursing management and nursing education positions, or become nursing specialists through master's degree studies.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Aging population
 - Increased healthcare demand
@@ -62,68 +96,67 @@ Provides general nursing care, including patient monitoring, medication administ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历和至少1年合同，薪资门槛约33,000欧元（2023年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于护士等紧缺职业，要求学历和劳动合同，可快速获得居留。 |
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 常见路径，需雇主担保，通过劳动市场测试（紧缺职业可能豁免）。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a university degree and at least one year contract, with a salary threshold of about 33,000 euros (2023). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for urgently needed professions such as nurses, requiring academic qualifications and labor contracts, allowing quick residency eligibility. |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Common pathway, requires employer sponsorship, passes labor market tests (shortage occupations may be exempted). |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered Nurse (General)？**
-- 有耐心、同理心和沟通能力的人
-- 对医学和健康护理有强烈兴趣，能承受工作压力
-- 希望获得稳定就业和移民机会的人
-
-**谁不适合学Registered Nurse (General)？**
-- 不适应轮班和高强度工作压力的人
-- 对血液、伤口等医疗场景感到不适的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are patient, empathetic, and have good communication skills
+- Strong interest in medicine and healthcare, able to handle work pressure
+- People seeking stable employment and migration opportunities
+
+**Who is not suited**
+- People who are not comfortable with shift work and high-intensity work pressure
+- People who are uncomfortable with medical scenes such as blood and wounds
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for registered nurses in Spain?**
+A: Junior nurse salary: approx. 24,000–30,000 EUR, mid-level: 30,000–38,000, senior: up to 48,000+. Public hospitals are usually higher and include allowances.
+
+**Q: How do foreign nurses work in Spain?**
+A: You must first complete academic qualification verification (Homologación), then apply for work residency (Cuenta ajena) or EU Blue Card (Tarjeta azul UE) through employer sponsorship. Spain has listed nurses as a scarce occupation, with some processes simplified.
+
+**Q: How can registered nurses develop their careers in Spain?**
+A: Through master's studies, students can become specialist nurses (such as intensive care or geriatric nursing), or be promoted to nursing supervisors or head nurses, or transition to nursing education or research positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中高（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Registered Nurse (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for registered nurses in Spain?**
-答：Entry-level nurses earn €24,000-30,000 per year, mid-level €30,000-38,000, and senior nurses up to €48,000+, with public hospitals offering higher pay and allowances.
-
-**问：How can foreign nurses work in Spain?**
-答：They need to get their degree recognized (Homologación), then apply for a work permit (Cuenta ajena) or EU Blue Card (Tarjeta azul UE). Nurses are in shortage, so some procedures are streamlined.
-
-**问：What are the career progression opportunities for registered nurses in Spain?**
-答：They can pursue a Master's degree to become a specialist nurse (e.g., intensive care, geriatrics), move into management roles like nursing supervisor, or shift to education and research.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

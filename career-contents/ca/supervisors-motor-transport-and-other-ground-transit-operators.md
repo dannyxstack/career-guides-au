@@ -1,61 +1,94 @@
-# Supervisors, motor transport and other ground transit operators（Supervisors, motor transport and other ground transit operators）职业分析 · 加拿大
+# Supervisors, motor transport and other ground transit operators — career analysis · Canada
 
-**职业代码：72024 – Supervisors, motor transport and other ground transit operators。**
+**Occupation code: 72024 (NOC)**
 
-Supervise and coordinate activities of motor transport, bus, taxi, rail, and other ground transit operations to ensure efficient and safe transportation services.
+Responsible for supervising and coordinating ground transport operations such as car transport, buses, taxis, and railways to ensure efficient and safe transport services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立教育免费） |
-| 大专文凭（运输管理） | 2年 | $6,000~$15,000（学费因省份和学校而异） |
-| 本科学位（物流或供应链管理） | 4年 | $20,000~$40,000（国际学生学费更高） |
+| High school diploma | 12 years | $0~$0 (Public education is free) |
+| Diploma (Transport Management) | 2 years | $6,000~$15,000 (Tuition varies by province and school.) |
+| Bachelor's degree (Logistics or Supply Chain Management) | 4 years | $20,000~$40,000 (International students pay higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾照（如Class 1或3） | 各省交通厅 | 可选 | 对于需要驾驶的主管 |
-| 运输管理证书（如CITT） | 加拿大运输与物流协会 | 可选 | 提升专业能力 |
-| 危险品运输培训（TDG） | 运输部 | 可选 | 如涉及危险品运输 |
-| 健康与安全认证（如OH&S） | 省级安全机构 | 必备 | 部分省份强制要求 |
+| Health and safety certifications (e.g., OH&S) | Provincial safety authority | Required | Mandatory in some provinces |
+| Commercial driver's license (e.g., Class 1 or 3) | Provincial transportation departments | Optional | For supervisors who need to drive |
+| Transportation management certificate (e.g., CITT) | Canadian Transportation and Logistics Association | Optional | Enhances professional skills. |
+| Transportation of Dangerous Goods (TDG) training | Department of Transportation | Optional | For example, involving the transport of dangerous goods |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。加拿大物流和运输行业持续增长，电商发展推动货运需求上升。未来几年该职业就业前景良好，尤其在多伦多、温哥华等物流枢纽地区。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Canada's logistics and transportation industry continues to grow, with e-commerce driving increased freight demand. The job outlook is favorable in the coming years, especially in logistics hubs like Toronto and Vancouver.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 多为调度或助理主管 |
-| 中级（3-7年） | $55,000~$70,000 | 独立负责车队或路线管理 |
-| 高级（7年以上） | $70,000~$90,000 | 大型企业或区域主管 |
+| Median salary | $68,640 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Mostly dispatchers or assistant supervisors |
+| Mid-level (3–7 years) | $55,000~$70,000 | Independently manage fleet or route operations |
+| Senior (7+ years) | $70,000~$90,000 | Large enterprise or regional director |
+| average salary | $74,880 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从基层调度员或司机晋升为主管，再升至运营经理或区域运输总监。积累经验后也可转向物流规划或安全管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core decision-making and coordination tasks of automobile transport operations supervisors are less affected by AI, but some routine scheduling and paperwork tasks can be automated, while AI significantly enhances route optimization and real-time monitoring capabilities, a mixed outcome.
+
+Can advance from entry-level dispatcher or driver to supervisor, then to operations manager or regional transport director. Experience can also lead to logistics planning or safety management roles.
+
+**Tasks most exposed to AI:**
+
+- Scheduling vehicles and drivers based on fixed rules can be replaced by AI scheduling algorithms
+- Manual collection and compilation of transport records and attendance data, which can be automated by digital systems.
+- Routine inventory counting and material requirement report generation can be replaced by IoT and AI predictions.
+- Manual monitoring of vehicle positions and notification of delays can be replaced by real-time GPS and automatic notification systems
+
+**Where AI augments the role:**
+
+- AI real-time traffic data analysis helps optimize routes and reduce delays
+- Driver behavior monitoring system assists supervisors in assessing safety risks and developing training
+- Predictive maintenance alerts, reducing operational disruptions due to vehicle breakdowns
+- Automated sentiment analysis of customer feedback text to assist in service quality improvement
+
+**Human moat:**
+
+- Crisis management and on-site decision-making in emergencies
+- Cross-departmental coordination, employee motivation, and conflict mediation
+- Understanding and compliance assessment of complex regulations (e.g., safety, labor law)
+- Long-term strategic planning and carrier relationship management
+
+**Skills to build:**
+
+- Operation of Transport Management System and Fleet Management Software
+- Data analysis and visualization (e.g., Excel, Tableau)
+- Basic programming and automation scripts (e.g., Python, RPA)
+- Understanding the principles of AI scheduling and optimization algorithms.
+- Leadership and change management
+- Knowledge in supply chain and logistics
+
+**Key growth areas:**
 
 - Logistics growth
 - E-commerce demand
@@ -64,68 +97,67 @@ Supervise and coordinate activities of motor transport, bus, taxi, rail, and oth
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Federal Skilled Worker / Canadian Experience Class） | 满足工作经验、语言、学历要求即可申请，获得CRS分数。 |
-| Subclass PNP（Provincial Nominee Program） | 各省有运输行业提名项目，如安省、BC省、阿尔伯塔省等。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，为后续移民加分。 |
+| Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | Applicants can apply by meeting work experience, language, and education requirements, and obtain CRS points. |
+| Subclass PNP (Provincial Nominee Program) | Provinces have transportation industry nomination programs, such as Ontario, British Columbia, Alberta, etc. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA-supported work visas, adding points for subsequent immigration. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, motor transport and other ground transit operators？**
-- 有管理能力且熟悉运输行业的人
-- 愿意接受轮班和户外工作的人
-- 有物流或供应链背景的人
-
-**谁不适合学Supervisors, motor transport and other ground transit operators？**
-- 不善于处理突发状况和压力的人
-- 倾向于朝九晚五固定工作模式的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with management skills and familiarity with the transport industry
+- Those willing to accept shift work and outdoor work
+- People with logistics or supply chain background
+
+**Who is not suited**
+- Not good at handling unexpected situations and pressure
+- People who prefer a fixed 9-to-5 work schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an automotive transport supervisor in Canada?**
+A: According to Job Bank, the median annual salary is around CAD 65,000, entry-level about CAD 45,000-55,000, and senior up to CAD 90,000.
+
+**Q: What are the pathways for a motor vehicle transport supervisor to immigrate to Canada?**
+A: Can apply via Express Entry (FSW/CEC) or Provincial Nominee Program (e.g., Ontario, BC). With employer sponsorship, an LMIA work permit can also add points.
+
+**Q: What work experience is required for this occupation?**
+A: Typically requires several years of ground transportation-related experience, such as driver, dispatcher, or logistics coordinator, and demonstrates management ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Supervisors, motor transport and other ground transit operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a motor transport supervisor in Canada?**
-答：According to Job Bank, the median annual salary is around CAD 65,000, with entry-level at CAD 45,000-55,000 and senior up to CAD 90,000.
-
-**问：What migration pathways are available for motor transport supervisors to Canada?**
-答：Options include Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., Ontario, BC). LMIA-based work permits with employer sponsorship also add points.
-
-**问：What work experience is required for this occupation?**
-答：Typically several years of experience in ground transit operations as a driver, dispatcher, or logistics coordinator, with demonstrated supervisory skills.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

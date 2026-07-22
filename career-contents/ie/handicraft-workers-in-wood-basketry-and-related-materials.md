@@ -1,59 +1,95 @@
-# Handicraft Workers in Wood, Basketry and Related Materials（Handicraft Workers in Wood, Basketry and Related Materials）职业分析 · IE
+# Handicraft Workers in Wood, Basketry and Related Materials — career analysis · Ireland
 
-**职业代码：7317 – Handicraft Workers in Wood, Basketry and Related Materials。**
+**Occupation code: 7317 (ISCO08)**
 
-Handicraft workers in wood, basketry and related materials create furniture, baskets, and decorative items using traditional techniques. In Ireland, this occupation includes wood carving and willow weaving, often in small workshops or self-employment.
+Wood, basketry, and related materials artisans use traditional techniques to craft furniture, baskets, ornaments, and other handmade products. In Ireland, this occupation includes wood carving, willow weaving, and other crafts, commonly found in small workshops, art studios, or self-employment.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学后职业培训 | 1-2年 | $2,000~$5,000（包括材料费和学费） |
-| 本科（艺术/工艺相关） | 3-4年 | $8,000~$15,000（爱尔兰国立大学学费） |
+| Post-secondary vocational training | 1-2 years | $2,000~$5,000 (Including material fees and tuition fees) |
+| Bachelor's degree (arts/crafts related) | 3-4 years | $8,000~$15,000 (Tuition fees at Irish National University) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰手工艺认证 | 爱尔兰工艺委员会 (Design & Crafts Council Ireland) | 可选 | 非强制但能提升竞争力 |
+| Irish Craft Certificate | Design & Crafts Council Ireland | Optional | Not mandatory but can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 800。爱尔兰手工艺行业规模较小但稳定，受旅游和文化遗产需求支撑。预计未来5年就业机会温和增长，主要来自替代退休人员和个性化定制需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 800. Ireland's craft industry is small but stable, supported by tourism and cultural heritage demand. Moderate job growth is expected over the next five years, mainly from replacement of retirees and personalized custom orders.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪，多为兼职或自雇 |
-| 中级（3-7年） | $28,000~$38,000 | 税前年薪，含稳定订单收入 |
-| 高级（7年以上） | $38,000~$50,000 | 税前年薪，知名工匠可达更高 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Pre-tax annual salary, mostly part-time or self-employed |
+| Mid-level (3–7 years) | $28,000~$38,000 | Pre-tax annual salary, including stable order income |
+| Senior (7+ years) | $38,000~$50,000 | Pre-tax annual salary; renowned artisans can achieve higher |
+| average salary | $33,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可从学徒或初级手工艺人起步，积累经验后晋升为高级工匠或工坊主管。部分人通过开设个人工作室或参与展览实现职业发展，也可向修复或教学领域拓展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of traditional artisans (e.g., hand carving, weaving, assembly) are being gradually replaced by CNC machines, laser cutting, and automated weaving equipment. Entry-level positions are shrinking significantly, but high-end custom and restoration work still have a moat.
+
+Practitioners can start as apprentices or junior craftspeople, gain experience, and advance to senior artisans or workshop supervisors. Some pursue career development by opening their own studios or participating in exhibitions, and can also expand into restoration or teaching fields.
+
+**Tasks most exposed to AI:**
+
+- Repetitive manual engraving and cutting (e.g., standardized furniture parts).
+- Simple Basket Weaving (done by automatic weaving machine)
+- Traditional mortise and tenon joint construction (replaced by CNC machining centers)
+- Surface sanding and polishing (automated sanders are more efficient)
+- Batch product pattern drawing (replaced by CNC plotters)
+
+**Where AI augments the role:**
+
+- Use CAD software for complex pattern design and modification
+- Quickly obtain original data of repair parts via 3D scanning
+- Using CNC equipment to accurately cut irregular free-form surfaces
+- Leverage digital platforms for personalised customisation services and marketing.
+- Use smart tools to detect material defects and optimize material usage
+
+**Human moat:**
+
+- Artistic design and hand finishing of high-end custom furniture
+- Unique craftsmanship and empirical judgment in historical artifact restoration
+- Ability to hand-shape unique materials (e.g., rare woods)
+- Ability to deeply communicate with clients to achieve personalized needs
+- Heritage craft mentorship and innovation integration in traditional crafts
+
+**Skills to build:**
+
+- CAD/CAM software (such as Fusion 360, Rhino)
+- CNC Programming & Operation (Woodworking Machinery)
+- 3D scanning and digital restoration techniques
+- E-commerce and social media marketing (e.g., Etsy, Instagram)
+- Knowledge of sustainable materials and eco-friendly processes.
+- Customer needs analysis and customization service capabilities.
+
+**Key growth areas:**
 
 - Craft revival
 - Sustainable products
@@ -62,68 +98,67 @@ Handicraft workers in wood, basketry and related materials create furniture, bas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪30,000欧元以上的非关键技能职业，雇主需提供工作合同并满足劳动力市场测试。 |
-| Subclass Stamp 4 (EU Family M（EU Family Member Residence Card） | 欧盟公民家属可自由工作，无需工作许可。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-critical skill occupations with annual salary over €30,000; employer must provide a work contract and meet labor market testing. |
+| Subclass Stamp 4 (EU Family M (EU Family Member Residence Card) | Family members of EU citizens can work freely without a work permit. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Handicraft Workers in Wood, Basketry and Related Materials？**
-- 热爱传统手工艺和创意设计
-- 有耐心并能接受不稳定收入
-- 愿意学习并传承文化遗产
-
-**谁不适合学Handicraft Workers in Wood, Basketry and Related Materials？**
-- 追求高薪和稳定职业发展
-- 不喜欢重复性手工劳动
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about traditional crafts and creative design
+- Those who are patient and can accept unstable income
+- Willing to learn and pass on cultural heritage
+
+**Who is not suited**
+- Pursue high salaries and stable career development
+- Dislikes repetitive manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of artisans in Ireland?**
+A: Entry-level artisans earn about €20,000-28,000 annually, intermediate €28,000-38,000, senior €38,000-50,000, but most are self-employed with fluctuating income.
+
+**Q: How can foreigners obtain an Irish craftsperson work visa?**
+A: A General Employment Permit (annual salary ≥ €30,000) sponsored by an employer is required, or a Stamp 4 as a family member of an EU citizen. This occupation is not in shortage, so the visa threshold is relatively high.
+
+**Q: What are the prospects for the handicraft industry in Ireland?**
+A: Outlook stable but slow growth, relying on tourism and cultural heritage demand. Sustainable and customization trends may bring opportunities, but market competition is limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Workers in Wood, Basketry and Related Materials为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of handicraft workers in Ireland?**
-答：Entry-level workers earn around €20,000-€28,000, mid-level €28,000-€38,000, and senior €38,000-€50,000 annually, though many are self-employed with variable income.
-
-**问：How can foreigners get a work visa as a handicraft worker in Ireland?**
-答：You need a job offer and a General Employment Permit (salary ≥€30,000) or an EU Family Member card. The occupation is not on shortage lists, making visas harder.
-
-**问：What are the prospects for the handicraft industry in Ireland?**
-答：Prospects are stable but slow-growing, relying on tourism and heritage demand. Sustainability and customization trends may create opportunities, but competition is limited.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,93 @@
-# Cable Car Operator（Cable Car Operator）职业分析 · FR
+# Cable Car Operator — career analysis · France
 
-**职业代码：N4402 – Cable Car Operator。**
+**Occupation code: N4402 (ROME)**
 
-Operates and monitors cable cars, chairlifts, and other mechanical uplift systems, ensuring safe transport of passengers and handling emergencies.
+Responsible for the daily operation, monitoring, and safe operation of mechanical lifting equipment such as cable cars and cableways, ensuring passengers board and alighting smoothly and handling emergencies.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或同等学历 | CAP（2年） | —（公立职业高中免学费，仅注册费及材料费；也可通过学徒制带薪培训。） |
-| Bac Pro相关领域 | Bac Pro（3年） | —（公立学校免学费，私立约3000-4000欧元/年。） |
+| CAP or equivalent academic qualifications | CAP (2 years) | $0~$3,000 (Public vocational high schools offer tuition waiver, only registration and material fees; Paid training through apprenticeships is also available.) |
+| Bac Pro-related fields | Bac Pro (3 years) | $0~$4,000 (Public schools are free of tuition, while private ones pay about 3,000-4,000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缆车操作员培训证书 | 法国国家滑雪与登山学校（ENSA）或区域培训机构 | 可选 | 由雇主提供或参加培训后获得，非强制但普遍要求。 |
-| CACES（工程机械操作证书） | 认证培训机构 | 可选 | 部分缆车类型需使用工程机械，CACES证书为附加优势。 |
-| 电力操作资质（如适用） | 工作单位 | 可选 | 若涉及电气系统操作，需通过内部安全培训。 |
+| Cable car operator training certificate | The French National School of Ski and Mountaineering (ENSA) or regional training institutions | Optional | Provided by employers or obtained after training, not mandatory but generally required. |
+| CACES (Construction Machinery Operation Certificate) | Accredited training organization | Optional | Some cable car types require construction machinery, with the CACES certificate as an additional advantage. |
+| Power operation qualification (if applicable) | Work unit | Optional | If electrical system operations are involved, internal safety training is required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,200。法国阿尔卑斯山区和比利牛斯山区滑雪场对缆车操作员需求稳定，但岗位受季节性强影响。冬季滑雪季为就业高峰，夏季山地旅游也有一定需求。整体就业机会有限，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. Ski resorts in the French Alps and Pyrenees have stable demand for lift operators, but positions are strongly affected by seasonality. The winter ski season is the peak employment season, and summer mountain tourism also has a certain demand. Overall employment opportunities are limited, and competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$25,000 | 按SMIC最低工资标准，约月薪1800欧元(税前)。 |
-| 中级（3-5年） | $26,000~$30,000 | 含奖金和季节性补贴。 |
-| 高级（5年以上/主管） | $30,000~$36,000 | 主管级或有维修技能者。 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$25,000 | According to SMIC's minimum wage standard, the monthly salary is about 1800 euros (before tax). |
+| Mid-level (3–5 years) | $26,000~$30,000 | Includes bonuses and seasonal subsidies. |
+| Senior (5+ years / supervisor) | $30,000~$36,000 | Supervisor-level or those with maintenance skills. |
+| average salary | $30,120 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级操作员可晋升为高级操作员或团队主管，再发展为区域运营经理。部分人通过培训转向维修或安全管理岗位。需积累多年操作经验和安全记录。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on cable car operator jobs is mixed: automated monitoring and dispatch systems can take over some safety inspections and passenger management, but decisions and passenger services during sudden mechanical failures and adverse weather still require human judgment, and entry-level positions may be reduced due to automation.
+
+Junior operators can be promoted to senior operators or team leaders, and then develop into regional operations managers. Some have shifted to maintenance or safety management positions through training. Accumulate years of operational experience and safety records.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of cable car operation status and automatic anomalies detected through an AI early warning system
+- Automated passenger boarding and alighting guidance and turnstile management
+- Generate and record timely safety reports
+- AI-based scheduling optimization, such as adjusting departure intervals and speeds
+
+**Where AI augments the role:**
+
+- AI-assisted fault diagnosis and predictive maintenance can identify potential mechanical issues in advance
+- Optimize cable car energy consumption and operational efficiency using real-time data analysis
+- AI-driven emergency response systems provide optimal evacuation and rescue solutions
+- In terms of customer service, AI translation and voice assistants help facilitate multilingual communication
+
+**Human moat:**
+
+- On-site emergency judgment and manual intervention for complex mechanical faults
+- Comprehensive evaluation and decision-making regarding cable car operation safety under adverse weather conditions
+- Care and personalized services for passengers' special needs (such as fear and disabilities).
+- Collaborating with maintenance teams to perform non-standardized repair operations
+
+**Skills to build:**
+
+- Master basic mechanical maintenance and electrical fault troubleshooting skills
+- Learn to operate remote monitoring systems and automated control platforms
+- Enhance emergency management capabilities, including disaster response and evacuation drills
+- Learning AI tools for data analysis and predictive maintenance
+- Strengthen customer service and communication skills, especially in cross-cultural settings
+
+**Key growth areas:**
 
 - Seasonal employment
 - Mountain tourism
@@ -64,65 +96,67 @@ Operates and monitors cable cars, chairlifts, and other mechanical uplift system
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 适用于获得法国雇主工作合同的第三国公民，需申请受雇工作居留。该职业非紧缺，需证明法方无法填补。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于具备高技能或特殊才能者，但该职业门槛较低，不易符合。 |
+| Subclass Salarié (Salarié (Work Permit)) | This applies to third-country nationals who have obtained a work contract with a French employer and must apply for employment residence. This occupation is not in urgent need and must prove that the French party cannot fill the gap. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to those with high skills or exceptional talent, but the occupation's low threshold makes it difficult to qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cable Car Operator？**
-- 喜爱户外工作，适应寒冷气候和山地环境
-- 动手能力强，注重安全规范
-- 愿意接受季节性合同和灵活排班
+**Who is suited**
+- Loves working outdoors and adapts to cold climates and mountainous environments
+- Strong hands-on skills with focus on safety regulations
+- Willing to accept seasonal contracts and flexible scheduling
 
-**谁不适合学Cable Car Operator？**
-- 追求稳定全年工作和固定收入者
-- 对高度或机械操作有恐惧的人
+**Who is not suited**
+- Those seeking stable year-round employment and fixed income
+- People who fear heights or mechanical operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for cable car operators?**
+A: The entry-level annual salary is about 22,000-25,000 euros before tax, and can increase to 30,000-36,000 euros with experience. However, seasonal work may result in annual income lower than regular positions.
+
+**Q: Do foreigners have pathways to immigrate to France to pursue this profession?**
+A: It's very difficult. This occupation is not in short supply; employer-sponsored immigration requires proof that the French side cannot recruit suitable personnel. Typically, only the free movement of EU citizens is predominant.
+
+**Q: What training or certification is required?**
+A: Typically, you need to complete vocational training related to CAP or Bac Pro, and receive cable car operation training provided by your employer. Some positions require CACES certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cable Car Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a cable car operator?**
-答：Entry-level annual gross salary is around €22,000-25,000, rising to €30,000-36,000 with experience. Seasonal nature may reduce annual income.
-
-**问：Is there a migration path for foreigners?**
-答：Difficult. The occupation is not in shortage; employer sponsorship requires proving no suitable French candidate. Mainly open to EU citizens.
-
-**问：What training or certification is required?**
-答：Usually a CAP or Bac Pro in a related field, plus employer-provided cable car operation training. Some roles require a CACES certificate.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

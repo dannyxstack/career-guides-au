@@ -1,62 +1,95 @@
-# Metal Window and Door Installers and Metal Carpenters（Metal Window and Door Installers and Metal Carpenters）职业分析 · ES
+# Metal Window and Door Installers and Metal Carpenters — career analysis · Spain
 
-**职业代码：7132 – Metal Window and Door Installers and Metal Carpenters。**
+**Occupation code: 7132 (CNO)**
 
-Install metal windows, doors, curtain walls and metal components; involve cutting, assembling, sealing and adjusting; common in renovation and new construction.
+Responsible for installing metal doors and windows, curtain walls, and metal components, involving cutting, assembly, sealing, and commissioning, commonly used in building renovation and new construction projects.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立免费或低学费） |
-| 职业培训（FP Grado Superior） | 2年 | —（公立免费或低学费，可选Carpintería Metálica） |
-| 学徒制（Formación Profesional Dual） | 2-3年 | —（带薪培训，成本极低） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$2,500 (Public schools offer free or low tuition, with Carpintería Metálica as an option) |
+| Apprenticeship (Formación Profesional Dual) | 2-3 years | $0~$500 (Paid training with extremely low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属木工职业资格证书（Certificado de Profesionalidad en Carpintería Metálica） | SEPE (国家就业局) | 可选 | 全国通用，需通过理论实操考核 |
-| 高空作业安全证（Curso de Trabajo en Altura） | 劳工部认可培训机构 | 必备 | 从事高空安装必备，每2年更新 |
-| FP Grado Medio文凭 | 教育部 | 可选 | 非强制但提升竞争力 |
+| Aerial Work Safety Certificate (Curso de Trabajo en Altura) | Training institutions recognized by the Ministry of Labor | Required | Essential for high-altitude installation, updated every two years |
+| Metalworking Professional Qualification Certificate (Certificado de Profesionalidad en Carpintería Metálica) | SEPE (National Employment Administration) | Optional | Valid nationwide, requires passing a theoretical and practical assessment |
+| FP Grado Medio diploma | Ministry of Education | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。受西班牙建筑复苏与节能改造政策推动，金属安装需求稳定。老龄化劳动力带来替换需求，但新入行人数不足，预计未来5年就业增长5%-10%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Driven by Spain's building recovery and energy-saving retrofit policies, demand for metal installations remains stable. An aging workforce brings replacement demand, but the number of new entrants is insufficient, and employment is expected to grow by 5%-10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 含学徒或新手安装工 |
-| 中级（3-8年） | $22,000~$30,000 | 熟练工可独立接活 |
-| 高级（8年以上） | $30,000~$40,000 | 工长或自雇收入更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Including apprentices or novice installers |
+| Mid-level (3–8 years) | $22,000~$30,000 | Skilled workers can take on jobs independently |
+| Senior (8+ years) | $30,000~$40,000 | Foremen or self-employed have higher incomes |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒或FP中级晋升为工长、项目主管，或自营安装公司。积累经验后可转向建筑技术员或质检岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on metal door and window installers is mixed: design optimization and measurement automation enhance efficiency, but complex installation and on-site commissioning still rely on humans, and entry-level positions have narrowed due to the widespread adoption of BIM and automation tools.
+
+You can advance from apprentice or intermediate FP to foreman, project supervisor, or run your own installation company. After gaining experience, you can move on to positions such as construction technician or quality inspector.
+
+**Tasks most exposed to AI:**
+
+- Automatic cutting and cutting of standard-size doors and windows (CNC programming executed according to AI-generated schemes)
+- Automatically generates installation drawings and material lists based on the BIM model
+- Repeatable sealant application and screw fixing (assisted by collaborative robots)
+- On-site Dimensional Measurement and Digital Modeling (Laser Scanning + AI Automatic Installation Plan)
+
+**Where AI augments the role:**
+
+- AI-driven structural mechanics analysis assists in designing complex curtain wall installation schemes
+- AR glasses with installation guidance reduce trial and error and rework
+- AI predictive maintenance reminder tool for maintenance and troubleshooting
+- Real-time quality inspection (visual AI identifying sealing and joint defects)
+
+**Human moat:**
+
+- On-site cutting and adjustment of non-standard/special-shaped metal components
+- Fine sealing and waterproofing of multi-material combinations (glass, stone, metal).
+- Human-machine collaboration and intuitive judgment in the confined spaces of existing buildings
+- Customer communication, on-site emergency plan formulation, and safety monitoring responsibilities
+
+**Skills to build:**
+
+- BIM modeling and construction simulation software (such as Revit, Tekla)
+- CNC programming and operation
+- On-site laser scanning and point cloud data processing
+- Use of AR/VR assisted construction tools
+- Knowledge of engineering project management and safety regulations
+- Collaborative robot commissioning and maintenance
+
+**Key growth areas:**
 
 - Construction
 - Energy efficiency
@@ -65,65 +98,67 @@ Install metal windows, doors, curtain walls and metal components; involve cuttin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需雇主提供工作合同，证明岗位无法在欧盟招聘。西班牙建筑行业一般需求量不足，且职业非紧缺，移民困难。 |
-| Subclass Busqueda empleo（Job-Seeker Visa） | 可入境6个月找工作，但需有足够资金，且需找到雇主担保转换工作居留。 |
-| Subclass Ley 14/2013 (Altamen（Highly Skilled Professional Visa） | 通常要求大学学历或高薪，金属安装工不符合一般要求。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | The employer must provide a work contract proving the position cannot be recruited within the EU. Spain's construction industry generally lacks demand, and occupations are not in short supply, making immigration difficult. |
+| Subclass Busqueda empleo (Job-Seeker Visa) | You can enter the country for 6 months to find a job, but you must have sufficient funds and find an employer-sponsored job change residence permit. |
+| Subclass Ley 14/2013 (Altamen (Highly Skilled Professional Visa) | Usually, a university degree or high salary is required; metal installers do not meet the general requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Metal Window and Door Installers and Metal Carpenters？**
-- 喜欢动手、吃苦耐劳、不恐高的人
-- 追求稳定职业、不介意体力劳动的人
+**Who is suited**
+- People who like to work hard, are hardworking, and are not afraid of heights
+- Those who pursue stable careers and don't mind manual labor
 
-**谁不适合学Metal Window and Door Installers and Metal Carpenters？**
-- 偏好办公室工作或高薪的人
-- 没有技术背景或不愿接受职业培训的人
+**Who is not suited**
+- People who prefer office jobs or high salaries
+- People without technical backgrounds or unwilling to undergo vocational training
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for metal installers in Spain?**
+A: Depending on experience: entry-level approx. €18,000-22,000; mid-level €22,000-30,000; senior €30,000-40,000. Self-employed income may be higher.
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: Difficult. This occupation is not listed as a shortage occupation, requires employer sponsorship and proof that recruitment within the EU is not possible. Generally not recommended as an independent migration pathway.
+
+**Q: What educational background is required?**
+A: Common paths include completing FP Grado Medio (2 years) or Grado Superior (2 years) vocational training, or gaining experience through apprenticeships. Non-mandatory but with certificates makes employment easier.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Metal Window and Door Installers and Metal Carpenters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of metal installers in Spain?**
-答：Entry-level: €18,000-22,000; mid-level: €22,000-30,000; senior: €30,000-40,000. Self-employed can earn more.
-
-**问：Can non-EU citizens immigrate to Spain through this occupation?**
-答：It is difficult. This occupation is not on the shortage list, requiring employer sponsorship and proof of no EU candidates. Not recommended as a sole migration route.
-
-**问：What educational background is needed?**
-答：Common paths: 2-year FP Grado Medio or Grado Superior, or apprenticeship. Certificates are not mandatory but improve employability.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

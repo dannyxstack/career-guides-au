@@ -1,60 +1,96 @@
-# Public Relations Professional（Public Relations Professional）职业分析 · ES
+# Public Relations Professional — career analysis · Spain
 
-**职业代码：2652 – Public Relations Professional。**
+**Occupation code: 2652 (CNO)**
 
-Public relations professionals manage communication between organizations and the public, develop communication strategies, maintain brand image, and handle media relations and crisis management.
+The Public Relations Officer manages communication between the company and the public, formulates communication strategies, maintains brand image, and handles media relations and crisis management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $800~$3,000（公立大学每年学费约800-2000欧元，私立大学更高） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$8,000（公立硕士约2000-4000欧元，私立可达12000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $300~$1,000（公立职业教育学费低廉） |
+| Undergraduate (Grado) | 4 years (Grado) | $800~$3,000 (Public university tuition fees about €800-2,000/year, private universities higher) |
+| Máster | 1-2 years (Máster) | $2,000~$8,000 (Public master's degrees cost about 2,000-4,000 euros, while private master's can reach up to 12,000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $300~$1,000 (Public vocational education offers low tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 传播学、广告与公共关系学士/硕士 | 西班牙公立或私立大学 | 必备 | 通常要求相关学历 |
-| 专业认证（如APRC） | 西班牙公共关系协会（Asociación de Directivos de Comunicación） | 可选 | 虽非强制，但提升竞争力 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
+| Bachelor's/Master's degrees in Communication, Advertising and Public Relations | Public or private universities in Spain | Required | Usually requires relevant qualifications |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
+| Professional certifications (such as APRC) | Spanish Public Relations Association (Asociación de Directivos de Comunicación) | Optional | Although not mandatory, it enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。西班牙公共关系领域就业前景稳定，数字化和社交媒体需求增长带动岗位增加。马德里和巴塞罗那机会最多，但竞争激烈。预计未来五年就业增长率约5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Job prospects in Spain's public relations sector are stable, with growing demand for digitalization and social media driving job openings. Madrid and Barcelona have the most opportunities, but the competition is fierce. Employment growth is expected to be about 5% over the next five years.
 
-**竞争度：中等偏高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 初级岗位税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 经验丰富者税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 总监级税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary for junior positions |
+| Mid-level (3–7 years) | $30,000~$40,000 | Experienced candidates earn a pre-tax annual salary |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary for directors |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级助理可晋升为公关经理、传播总监，或转向数字营销、品牌管理。积累客户资源后可独立创业或成为自由顾问。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI is taking over basic PR tasks like copywriting and media monitoring on a large scale, but core functions like strategic communication, crisis management, and relationship maintenance are amplified, requiring practitioners to upgrade from executors to strategists.
+
+Junior assistants can be promoted to PR manager, communications director, or transition to digital marketing or brand management. After accumulating client resources, you can start your own business or become a freelance consultant.
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting basic press releases and media statements
+- Media monitoring and influence report generation
+- Social media content scheduling and automatic posting
+- Standardized responses to common media inquiries
+- Batch sending of event invitation letters and follow-up emails
+
+**Where AI augments the role:**
+
+- Using AI for media sentiment analysis and trend prediction
+- Optimizing social media ad placement and audience targeting through AI
+- Use AI to generate multiple versions of copy and conduct A/B testing
+- Quickly generate crisis simulation scenarios and response plans using AI tools
+- Develop personalized communication strategies through AI analysis of audience data.
+
+**Human moat:**
+
+- Complex stakeholder relationship management and trust building
+- On-the-spot judgment and impromptu expression in crisis communication
+- Long-term brand strategy planning and cross-department coordination
+- Design creative communication solutions for ambiguous problems
+- Internal communications requiring confidentiality or high sensitivity
+
+**Skills to build:**
+
+- Proficient in using tools like GPTs for copy editing and generating multiple versions
+- Learn basics of natural language processing to understand AI reports
+- Proficient in social media analytics tools (e.g., Brandwatch)
+- Develop data interpretation and visualization skills
+- Improve cross-cultural communication and strategic thinking
+- Familiar with AI-driven public opinion monitoring platforms
+
+**Key growth areas:**
 
 - Digital Communication
 - Social Media Management
@@ -63,68 +99,67 @@ Public relations professionals manage communication between organizations and th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适用于高技能专业人士，需有工作合同且年薪达标（约33,908欧元） |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 高技能专业人才居留，适用于从事管理或技术岗位，年薪要求较高 |
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 受雇工作居留，需雇主担保，适用于普通技术岗位 |
+| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card, for highly skilled professionals, requires a work contract and meets annual salary requirements (approximately €33,908) |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | High-skilled professionals reside, suitable for management or technical positions, with relatively high annual salary requirements |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Employed work residence requires employer sponsorship and applies to general technical positions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Professional？**
-- 创意丰富、擅长写作和社交的人
-- 对品牌传播和媒体互动有兴趣的人
-- 具有危机处理能力和抗压能力的人
-
-**谁不适合学Public Relations Professional？**
-- 不喜欢频繁与人沟通或公开演讲的人
-- 追求稳定、朝九晚五工作节奏的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative individuals who excel at writing and socializing
+- People interested in brand communication and media interaction
+- People with crisis management skills and resilience
+
+**Who is not suited**
+- People who dislike frequent communication or public speaking
+- People who pursue a stable, nine-to-five work rhythm
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for PR specialists in Spain?**
+A: Entry-level pre-tax annual salary is about 22,000-28,000 euros, intermediate salary 30,000-40,000 euros, and seniors can earn over 45,000 euros. Madrid and Barcelona offer higher salaries.
+
+**Q: How can foreign PR professionals immigrate to Spain?**
+A: Applications can be made through the EU Blue Card (requiring a qualified annual salary) or the Highly Skilled Person Residence (Ley 14/2013). A work contract is required, and the academic qualification must be certified (Homologación).
+
+**Q: What are the career paths for public relations?**
+A: You can be promoted from junior assistant to PR manager or communications director, or move into digital marketing, brand management, or corporate social responsibility.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Public Relations Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for PR professionals in Spain?**
-答：Entry-level annual gross salary ranges from €22,000 to €28,000, mid-level €30,000 to €40,000, and senior positions can exceed €45,000. Salaries are higher in Madrid and Barcelona.
-
-**问：How can foreign PR professionals migrate to Spain?**
-答：They can apply for an EU Blue Card (meeting salary threshold) or a Highly Qualified Professional visa (Ley 14/2013). A job offer is required, and qualifications must be validated (Homologación).
-
-**问：What are the career progression paths for PR professionals?**
-答：From entry-level assistant to PR manager, communications director, or transition to digital marketing, brand management, or corporate social responsibility.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Veterinary Technologists and Technicians（Veterinary Technologists and Technicians）职业分析 · 美国
+# Veterinary Technologists and Technicians — career analysis · United States
 
-**职业代码：29-2056 – Veterinary Technologists and Technicians。**
+**Occupation code: 29-2056 (SOC)**
 
-Veterinary technologists and technicians perform medical tests on animals, assisting veterinarians in diagnosing and treating diseases by collecting samples, conducting lab tests, and maintaining equipment.
+Veterinary technologists perform medical tests on animals in a laboratory environment, assisting veterinarians in diagnosing and treating diseases, including collecting samples, running tests, and cleaning and disinfecting equipment.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$40,000（社区学院或技术学院，学费范围） |
-| 学士学位 | 4年 | $40,000~$80,000（四年制大学，学费差异大） |
+| Associate degree | 2 years | $15,000~$40,000 (Community college or technical college, tuition fee range) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Four-year university, tuition varies widely) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医技师认证 (CVT / RVT / LVT) | 美国兽医技师协会 (NAVTA) 或州许可委员会 | 必备 | 通过VTNE考试，各州要求不同 |
-| 副学士学位或学士学位 | AVMA认可的兽医技术教育项目 | 必备 | 大部分州要求 |
+| Veterinary technician certification (CVT / RVT / LVT) | National Association of Veterinary Technicians in America (NAVTA) or state licensing board | Required | Pass the VTNE exam; requirements vary by state. |
+| Associate degree or bachelor's degree | AVMA accredited veterinary technology education program | Required | Required in most states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 112,000。美国劳工统计局预计2023-2033年该职业就业增长约20%，远高于平均水平。宠物支出增加和兽医服务需求扩大是主要驱动因素。
+**Job demand: high (★★★★☆).** National workforce approx. 112,000. The US Bureau of Labor Statistics projects about 20% employment growth for this occupation from 2023 to 2033, much faster than average. Increased pet spending and demand for veterinary services are key drivers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 实习或初入行 |
-| 中级（3-7年） | $40,000~$50,000 | 有经验的技术员 |
-| 高级（7年以上） | $50,000~$65,000 | 主管或专科认证 |
+| Median salary | $47,380 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Intern or Entry-level |
+| Mid-level (3–7 years) | $40,000~$50,000 | Experienced technician |
+| Senior (7+ years) | $50,000~$65,000 | Supervisor or Specialist Certification |
+| average salary | $49,120 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 晋升路径包括：获得专业认证（如兽医急诊护理、麻醉技术员）后转向专科领域，或晋升为主任技师、兽医技术主管、兽医诊所经理等管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
+
+Career advancement includes obtaining professional certifications (e.g., veterinary emergency care, anesthesia technician) to specialize, or promotion to head technician, veterinary technical supervisor, veterinary clinic manager, etc.
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation and report generation of routine imaging (X-ray, ultrasound)
+- Data analysis for basic laboratory tests (blood, urine analysis)
+- Standardized administrative tasks like vaccination reminders and client follow-ups
+- Routine symptom recognition and classification in pet health monitoring.
+
+**Where AI augments the role:**
+
+- Using AI image analysis to improve diagnostic accuracy in complex cases
+- Remote monitoring and wearable devices enable continuous chronic disease management
+- Personalized treatment plans based on big data analysis (e.g., dose optimization)
+- AI-assisted surgical navigation and robotic operations improve surgical precision
+
+**Human moat:**
+
+- On-the-spot judgment and hand-eye coordination in complex surgeries
+- Cross-species clinical reasoning and comprehensive diagnosis of rare cases
+- Client communication requiring empathy, end-of-life care, and psychological support.
+- Practitioner responsibility: bear ultimate decision-making and legal consequences for treatment plans
+- Ergonomic adjustment and real-time titration of drugs and anesthetics.
+
+**Skills to build:**
+
+- Use and result verification of AI imaging diagnostic tools
+- Telehealth platform operation and data analysis
+- Basic data science (Python/R) integrated with clinical data
+- Animal welfare and ethical decision-making skills
+- Advanced cross-species pathophysiology knowledge
+- Customer relationship management (CRM) and digital communication skills
+
+**Key growth areas:**
 
 - Pet Ownership
 - Veterinary Services Expansion
@@ -63,65 +97,67 @@ Veterinary technologists and technicians perform medical tests on animals, assis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 兽医技师通常需要学士学位，但H-1B难度大，因为职业通常要求副学士学位而非学士，且雇主担保较少。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 可能通过EB-3绿卡申请，但需PERM劳工证，且雇主需证明无法找到美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Vet technicians typically need a bachelor's degree, but H-1B is difficult because the occupation usually requires an associate's degree rather than a bachelor's, and employer sponsorship is scarce. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | May apply through EB-3 green card, but requires PERM labor certification and employer proof of inability to find US workers. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Veterinary Technologists and Technicians？**
-- 热爱动物，有同情心
-- 细心且动手能力强
-- 能承受一定生理压力（如处理动物、站立工作）
+**Who is suited**
+- Animal lovers, compassionate
+- Detail-oriented and strong hands-on ability
+- Able to handle certain physical demands (e.g., handling animals, standing work).
 
-**谁不适合学Veterinary Technologists and Technicians？**
-- 对血液、手术场景不适
-- 无法应对紧急或高强度工作
+**Who is not suited**
+- Uncomfortable with blood or surgical scenes
+- Unable to handle emergencies or high-stress situations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a veterinary technician?**
+A: According to BLS 2023 data, median annual salary about $42,000. Experienced specialist technicians or supervisors can reach over $60,000.
+
+**Q: Is it easy for veterinary technicians to immigrate to the US?**
+A: Difficult. This occupation typically does not require a bachelor's degree, making H-1B applications challenging, and employer-sponsored green cards are rare. Consider other countries like Canada or Australia.
+
+**Q: What certifications are needed to become a veterinary technician?**
+A: Must pass the Veterinary Technician National Exam (VTNE) for state certification and graduate from an AVMA-accredited program. Some states require continuing education to maintain license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Veterinary Technologists and Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for veterinary technicians?**
-答：According to BLS 2023 data, the median annual wage is about $42,000. Experienced or specialized technicians can earn over $60,000.
-
-**问：Is it easy to immigrate to the US as a veterinary technician?**
-答：Difficult. The occupation typically requires an associate degree, making H-1B challenging, and employer-sponsored green cards are rare. Consider other countries like Canada or Australia.
-
-**问：What certifications are needed to become a veterinary technician?**
-答：Must pass the VTNE exam for state credentialing and graduate from an AVMA-accredited program. Some states require continuing education.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

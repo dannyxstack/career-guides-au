@@ -1,62 +1,96 @@
-# Osteopath and Chiropractor（Osteopath and Chiropractor）职业分析 · FR
+# Osteopath and Chiropractor — career analysis · France
 
-**职业代码：J1408 – Osteopath and Chiropractor。**
+**Occupation code: J1408 (ROME)**
 
-Manual therapy professionals who treat musculoskeletal conditions through manipulation and adjustment, regulated as paramedical professions in France.
+Manual therapy adjusts the musculoskeletal system, relieves pain, and improves function, making it a regulated profession in alternative medicine.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 整骨学文凭（全日制） | 5-6年 | $35,000~$60,000（私立整骨学校学费） |
-| 脊椎按摩学文凭 | 5年 | $40,000~$70,000（法国仅两所私立院校，需注册于ACO） |
-| 医学博士+专科 | 10-11年 | $10,000~$20,000（公立大学低学费，但时间漫长） |
+| Diploma in Osteopathy (Full-time) | 5-6 years. | $35,000~$60,000 (Private chiropractic school tuition fees) |
+| Diploma in Chiropractic | 5 years | $40,000~$70,000 (France has only two private institutions that require registration with the ACO) |
+| Doctor of Medicine + specialist | 10-11 years | $10,000~$20,000 (Public universities have low tuition fees but long durations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 整骨师国家注册 | ARS (Agence Régionale de Santé) | 必备 | 需毕业于认可整骨学校并注册 |
-| 脊椎按摩师注册 | ACO (Association Chiropratique de France) | 必备 | 通过国家级考试后注册 |
-| 欧盟学历认证 | ENIC-NARIC | 可选 | 第三国学历需认证等效性 |
+| Nationally registered osteopath | ARS (Agence Régionale de Santé) | Required | Must graduate from a recognized chiropractic school and be registered |
+| Chiropractor registration | ACO (Association Chiropratique de France) | Required | Register after passing the national-level exam |
+| EU Academic Credential Certification | ENIC-NARIC | Optional | Third-country qualifications need equivalence verification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国人口老龄化及对非药物治疗需求上升，整骨/脊椎按摩师就业稳步增长，但城市竞争激烈，乡村机会更多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. France's aging population and rising demand for non-pharmacological treatments have steadily increased employment for osteopaths/chiropractic, but competition in cities is fierce, and opportunities are more abundant in rural areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 多为合作诊所分成制 |
-| 中级（3-7年） | $40,000~$55,000 | 自雇客户稳定后 |
-| 高级（7年以上） | $55,000~$80,000 | 个人诊所或运动队顾问 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Most are based on a revenue-sharing system for partner clinics |
+| Mid-level (3–7 years) | $40,000~$55,000 | After self-employed clients stabilize, |
+| Senior (7+ years) | $55,000~$80,000 | Personal clinic or sports team consultant |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初期多为合作或自雇诊所，积累经验后可开设个人诊所，或向教学、运动医学领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bone set and chiropractors are affected by AI: automation has compressed some records and initial screening positions, but AI amplified assessment and treatment plan design capabilities, while its high-contact nature and legal protections made core diagnosis and treatment irreplaceable.
+
+Initially, these are mostly cooperative or self-employed clinics; after gaining experience, they can open personal clinics or develop into teaching or sports medicine.
+
+**Tasks most exposed to AI:**
+
+- Electronic entry and organization of patient basic information and medical history
+- Extraction and classification of keywords for initial symptoms
+- Automated generation of standardized treatment reports
+- Automated handling of administrative processes such as appointments and billing
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis (such as X-rays and MRI) to identify spinal or joint abnormalities
+- Personalized treatment plan recommendations based on big data and patient data
+- Real-time motion capture and mechanical analysis optimize technique adjustment accuracy
+- Automation of remote patient follow-up and rehabilitation guidance
+
+**Human moat:**
+
+- Manual skills that detect subtle musculoskeletal abnormalities through palpation
+- Build trust and patient-patient communication skills to soothe anxiety
+- Dynamically adjust technique and intensity based on real-time patient feedback
+- Legal Independent Diagnosis and Treatment Rights (Strictly Regulated in FR)
+- Handling clinical judgment of complex, non-standard cases
+
+**Skills to build:**
+
+- Operation and interpretation of AI imaging diagnostic tools (such as BoneView).
+- Biomechanics and motion capture data analysis
+- Use of electronic health records and automated reporting software
+- Telemedicine platforms and patient communication skills
+- Continuously learn the latest osteopathic research and AI clinical decision-making systems
+- Basic programming (Python/R) and data literacy
+
+**Key growth areas:**
 
 - aging population
 - non-pharmacological treatment
@@ -65,69 +99,68 @@ Manual therapy professionals who treat musculoskeletal conditions through manipu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Profession Artistique et Culturelle, Scientifique, etc.)） | 适用于高技能人才，需提供项目或雇主合同 |
-| Subclass Salarié（Salarié (Employee)） | 需法国雇主担保，整骨诊所可雇佣 |
-| Subclass Profession Réglement（Reconnaissance des Qualifications (Regulated Profession)） | 需通过资质认证程序，耗时较长 |
+| Subclass Passeport Talent (Passeport Talent (Profession Artistique et Culturelle, Scientifique, etc.)) | Suitable for highly skilled talents, requiring a project or employer contract |
+| Subclass Salarié (Salarié (Employee)) | Requires a French employer sponsor; osteopathic clinics can employ you |
+| Subclass Profession Réglement (Reconnaissance des Qualifications (Regulated Profession)) | Qualification certification procedures are required, which takes a long time |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Osteopath and Chiropractor？**
-- 对人体解剖和手法治疗有浓厚兴趣
-- 善于沟通和建立客户信任
-- 愿意自雇或小型诊所工作
-
-**谁不适合学Osteopath and Chiropractor？**
-- 无法接受长期严格培训
-- 偏好医院体制内就业
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in human anatomy and manual therapy
+- Good at communication and building customer trust
+- Willing to work self-employed or in a small clinic
+
+**Who is not suited**
+- Unable to undergo long-term, rigorous training
+- Preference for hospital-level employment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an osteopath in France?**
+A: Entry-level around EUR 25,000-35,000/year, experienced can reach EUR 50,000-80,000/year, self-employed income fluctuates greatly.
+
+**Q: How can a third-country osteopathic immigrate to France?**
+A: You must pass diploma certification (ENIC-NARIC) before applying for registration with ARS. You can apply for Passeport Talent or Salarié visas.
+
+**Q: Do osteopaths need national certification in France?**
+A: Yes, must graduate from an accredited osteopathic school and register with ARS; otherwise it is illegal.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Osteopath and Chiropractor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an osteopath in France?**
-答：Entry-level €25,000-35,000 gross annually, experienced €55,000-80,000, with self-employment income variability.
-
-**问：How can a third-country osteopath migrate to France?**
-答：Obtain diploma recognition via ENIC-NARIC, then register with ARS. Possible visas: Passeport Talent or Salarié.
-
-**问：Is national certification required for osteopaths in France?**
-答：Yes, must graduate from approved osteopathy schools and register with ARS to practice legally.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

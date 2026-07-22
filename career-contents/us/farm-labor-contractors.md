@@ -1,60 +1,96 @@
-# Farm Labor Contractors（Farm Labor Contractors）职业分析 · 美国
+# Farm Labor Contractors — career analysis · United States
 
-**职业代码：13-1074 – Farm Labor Contractors。**
+**Occupation code: 13-1074 (SOC)**
 
-Recruit and hire seasonal or temporary agricultural laborers, and may transport, house, and provide meals for workers. Plays a key role in US agriculture.
+Responsible for recruiting and hiring seasonal agricultural workers, and arranging transportation, accommodation, and meals. This occupation plays a key role in the US agricultural sector, ensuring labor supply.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（农业相关） | 2年 | $5,000~$20,000（社区学院学费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (agriculture related) | 2 years | $5,000~$20,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾照 | 州机动车管理局 | 必备 | 必须，用于运输工人 |
-| H-2A合规培训 | 美国劳工部 | 可选 | 建议，处理外籍劳工合同 |
+| Driver's license | State motor vehicle department | Required | Mandatory, for transporting workers |
+| H-2A compliance training | U.S. Department of Labor | Optional | Advising, handling foreign labor contracts |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。美国农业对季节性劳动力的需求稳定，但受移民政策影响较大。预计就业机会温和增长，H-2A签证计划扩大可能增加需求。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. US agriculture has stable demand for seasonal labor, but significantly affected by immigration policy. Moderate job growth expected; expansion of H-2A visa program may increase demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 小型农场或季节性工作 |
-| 中级（4-7年） | $45,000~$65,000 | 中型农业企业 |
-| 高级（8年以上） | $65,000~$90,000 | 大型农业公司或长期合同 |
+| Median salary | $58,460 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Small farms or seasonal work |
+| Mid-level (4-7 years) | $45,000~$65,000 | medium-sized agricultural enterprise |
+| Senior (8+ years) | $65,000~$90,000 | Large agricultural companies or long-term contracts |
+| average salary | $58,470 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级监管员晋升为区域承包商或公司管理层。掌握多语种和劳动力管理技能有助于职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core recruitment and management functions of agricultural labor contractors face AI automation threats, but on-site coordination and interpersonal trust still rely on humans; the overall outlook is mixed.
+
+Can advance from junior supervisor to regional contractor or company management. Multilingual skills and workforce management skills aid career development.
+
+**Tasks most exposed to AI:**
+
+- Resume screening and initial interviews (AI resume parsing and chatbot interviews)
+- Batch sending of offer letters and onboarding materials (automated process)
+- Maintain worker database and attendance records (RPA replacing manual entry)
+- Generate workforce demand reports (automated via natural language generation)
+- Calculate payroll and reimbursements (machine learning model processing)
+
+**Where AI augments the role:**
+
+- Predict optimal hiring times and locations (AI analyzes historical data and weather forecasts)
+- Optimize worker allocation plan (operations research algorithm matching skills and demand)
+- Automated compliance checks (scanning regulatory databases and flagging risks)
+- Personalized benefit recommendations (tailored to worker preferences)
+- Real-time labor market intelligence (AI scraping salary trends and competition data)
+
+**Human moat:**
+
+- Long-term trust relationship with farmers and workers
+- Handle emergencies (e.g., worker strikes, weather disasters)
+- Negotiate contract terms and compensation packages
+- Cross-cultural communication and site leadership
+- Deep understanding of agricultural labor law
+
+**Skills to build:**
+
+- Use of AI recruitment tools (e.g., HireVue, Pymetrics)
+- Data analysis and visualization (Python/R, Power BI)
+- Agricultural technology platform operation (e.g., labor management SaaS)
+- Labor law compliance automation software
+- Basic operations research and scheduling algorithms
+- Human-machine collaboration workflow design
+
+**Key growth areas:**
 
 - Seasonal demand
 - H-2A visa usage
@@ -63,66 +99,65 @@ Recruit and hire seasonal or temporary agricultural laborers, and may transport,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（Temporary Agricultural Workers） | 最常见签证，用于季节性农业劳工，承包商需申请劳工证明 |
-| Subclass H-1B（Specialty Occupations） | 极少使用，仅限行政或管理岗位 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 通过PERM劳工认证申请，但需证明无法招聘到美国工人 |
+| Subclass H-2A (Temporary Agricultural Workers) | Most common visa for seasonal agricultural workers; contractors need to apply for labor certification |
+| Subclass H-1B (Specialty Occupations) | Rarely used, only for administrative or management roles. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Apply through PERM labor certification, but need to prove inability to hire US workers |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farm Labor Contractors？**
-- 喜欢户外工作和农业环境
-- 具备组织协调和人员管理能力
-- 能适应季节性工作节奏和压力
-
-**谁不适合学Farm Labor Contractors？**
-- 偏好稳定办公室工作
-- 不擅长应对复杂移民法规
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work and agricultural environments
+- Possesses organizational coordination and people management skills
+- Must be able to adapt to seasonal work rhythms and pressure.
+
+**Who is not suited**
+- Prefers stable office work
+- Not adept at handling complex immigration regulations
+
+---
+
+## 8. FAQ
+
+**Q: Can agricultural labour contractors immigrate to the US through H-2A visa?**
+A: H-2A is a temporary work visa that does not directly lead to immigration. However, a PERM green card application is possible, but it requires proving inability to hire US workers, a complex process.
+
+**Q: What is the salary level of an agricultural labor contractor?**
+A: Entry-level annual salary approx. USD 35,000-45,000, mid-level USD 45,000-65,000, senior up to USD 90,000. Income is significantly affected by seasonality and contract size.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Farm Labor Contractors为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can farm labor contractors immigrate via H-2A visa?**
-答：H-2A is temporary and does not lead to permanent residency directly. PERM green card process is possible but complex requiring labor market test.
-
-**问：What is the salary range for farm labor contractors?**
-答：Entry-level: $35,000-$45,000; Mid-level: $45,000-$65,000; Senior: up to $90,000. Income varies with seasonality and contract size.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

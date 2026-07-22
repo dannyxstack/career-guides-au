@@ -1,60 +1,96 @@
-# Construction Quantity Surveyor（Construction Quantity Surveyor）职业分析 · FR
+# Construction Quantity Surveyor — career analysis · France
 
-**职业代码：F1108 – Construction Quantity Surveyor。**
+**Occupation code: F1108 (ROME)**
 
-Responsible for quantity surveying, cost estimation, and budget control in construction projects, ensuring projects stay within budget; a key technical role in the construction industry.
+Responsible for quantity calculation, cost estimation, and budget control for construction projects, ensuring projects are completed within budget. This is a key technical position in the construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS在建筑经济与测量 | 2年（BTS） | $2,000~$6,000（公立学校免学费，私立约2000-6000欧元/年） |
-| 建筑测量专业 licence professionnelle | 3年（Licence） | $500~$5,000（公立大学约500欧元/年，私立约3000-5000欧元/年） |
-| 建筑测量硕士或工程师文凭 | 5年（Master/Ingénieur） | $500~$8,000（公立约500欧元/年，工程师学校约5000-8000欧元/年） |
+| BTS in Building Economics and Measurement | 2 Years (BTS) | $2,000~$6,000 (Public schools are tuition-free, while private ones pay about 2,000-6,000 euros per year) |
+| Building surveying profession licence professionnelle | 3 years (Licence) | $500~$5,000 (Public universities cost about 500 euros per year, private universities about 3000-5000 euros per year) |
+| Master's degree in Building Surveying or Engineer's Diploma | 5 years (Master/Ingénieur) | $500~$8,000 (Public schools cost about 500 euros per year, engineering schools about 5000-8000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS在建筑经济与测量 | 教育部 | 可选 | 国家文凭，入门要求 |
-| 专业测量师证书（如OPQIBI） | OPQIBI | 可选 | 行业推荐，非强制但提升竞争力 |
-| Chartered Surveyor（RICS认证） | RICS | 可选 | 国际认可，大型项目优先 |
+| BTS in Building Economics and Measurement | Ministry of Education | Optional | National diploma, entry requirements |
+| Professional Surveyor Certificate (such as OPQIBI) | OPQIBI | Optional | Industry recommended, not mandatory but enhances competitiveness |
+| Chartered Surveyor (RICS Certified) | RICS | Optional | Internationally recognized, priority given to large projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。法国建筑行业持续复苏，绿色建筑和翻新工程推动需求。该岗位受数字化转型影响，BIM技能成为加分项，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. France's construction industry continues to recover, driven by green buildings and renovation projects. This position is affected by digital transformation, with BIM skills becoming a plus, and the employment prospects are stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，包括奖金 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，项目经理更高 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Pre-tax annual salary, project manager salary is higher |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：初级测量师 → 高级测量师 → 项目成本经理 → 公司合伙人。可转向项目管理或造价咨询，资质认证（如Chartered Surveyor）提升专业地位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on quantity surveyors is mixed: automation tools handle quantity surveying, cost database analysis, and standard report generation quickly, but contract negotiation, dispute resolution, and on-site judgment still rely on human experience and responsibility; the core moat lies in legal compliance and stakeholder coordination.
+
+Career development path: Junior Surveyor → Senior Surveyor → Project Cost Manager → Corporate Partner. You can switch to project management or cost consulting, and qualification certifications (such as Chartered Surveyor) can enhance your professional status.
+
+**Tasks most exposed to AI:**
+
+- Extracting, calculating, and verifying quantity and cost data using automation software
+- Generate standardized cost budgets, cash flow forecasts, and draft final reports
+- Analog estimation and parametric cost analysis based on historical databases
+- Automated review of cost-related compliance in contract terms
+- Process automation of change orders and payment applications via RPA tools
+
+**Where AI augments the role:**
+
+- AI-assisted cost comparison and optimization suggestions for multiple design options
+- Real-time monitoring of project cost variances with early warnings and root cause analysis
+- Smart contract management platform supports clause search, risk identification, and negotiation strategy suggestions
+- Use predictive models to assess the impact of material price fluctuations on total project cost
+- Automatically generate visual cost dashboards to improve communication efficiency with clients and teams
+
+**Human moat:**
+
+- Strategy formulation and communication in complex contract negotiations, claims, and dispute resolution
+- Comprehensive judgment of non-standard project risks (e.g., geology, policy, supply chain disruptions)
+- Acting as the core coordinator and trusted intermediary among owners, contractors, and designers
+- Legal liability and professional stamp certification obligations for estimation results
+- Flexible decision-making for handling non-standard situations like site changes and rework
+
+**Skills to build:**
+
+- Integration of BIM Software (e.g., Navisworks, Revit) with Cost Data
+- Data analysis and predictive modeling (Python/R + machine learning)
+- Operation and tuning of AI contract review tools (e.g., Kira, LexisNexis)
+- Project digital delivery and integrated cost management platforms (e.g., Oracle Aconex)
+- Sustainable building and green cost assessment methods (e.g., LCC, LCA)
+- Stakeholder management and cross-cultural communication skills
+
+**Key growth areas:**
 
 - Green Building
 - BIM Integration
@@ -63,68 +99,67 @@ Responsible for quantity surveying, cost estimation, and budget control in const
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 受雇工作居留，需雇主担保，适用于找到法国公司聘用的情况。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 人才护照，适用于高技能人才，如工程师或硕士以上，简化手续。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需年薪达1.5倍法国平均工资（约53,000欧元），适合高级岗位。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employment-based residence requiring employer sponsorship, suitable for those who have a job offer from a French company. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passport, suitable for highly skilled professionals such as engineers or master's degree holders or above, simplifying procedures. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary of 1.5 times the French average (about 53,000 euros), suitable for senior positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Quantity Surveyor？**
-- 对数字敏感且注重细节的人
-- 喜欢在建筑行业从事技术和经济分析的人
-- 愿意持续学习新软件（如BIM）和国际标准的人
-
-**谁不适合学Construction Quantity Surveyor？**
-- 不喜欢户外或工地环境的人
-- 不擅长沟通和团队协作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are sensitive to numbers and pay attention to detail
+- People who enjoy technical and economic analysis in the construction industry
+- People willing to continuously learn new software (such as BIM) and international standards
+
+**Who is not suited**
+- People who dislike outdoor or construction environments
+- Individuals who are not adept at communication and teamwork.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for building surveyors?**
+A: Entry-level salaries are about 30,000-38,000 euros per year, intermediate salaries 38,000-50,000 euros per year, senior salaries 50,000-70,000 euros per year, and project managers are even higher.
+
+**Q: How can Chinese citizens apply for a French Architectural Surveyor Work Visa?**
+A: Usually, a French employer is required to provide a work contract and apply for a Salarié visa or Passeport Talent. Academic credentials (such as BTS/Licence) required, French B2 or above, advantageous in urgent industries.
+
+**Q: What certifications are required to work in building surveying in France?**
+A: At least a BTS or Licence diploma, OPQIBI certification recommendation, and RICS international certification are helpful for promotion and large projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Construction Quantity Surveyor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a construction quantity surveyor?**
-答：Entry level around €30,000-38,000/year, mid-level €38,000-50,000/year, senior €50,000-70,000/year, higher for project managers.
-
-**问：How can Chinese citizens apply for a French work visa as a construction quantity surveyor?**
-答：Usually require a job offer from a French employer, apply for Salarié visa or Passeport Talent. Need degree recognition (e.g., BTS/Licence), French B2 or higher, shortage occupation helps.
-
-**问：What certifications are needed to work as a quantity surveyor in France?**
-答：At least BTS or Licence degree; OPQIBI certification recommended; RICS international certification helpful for career advancement and large projects.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

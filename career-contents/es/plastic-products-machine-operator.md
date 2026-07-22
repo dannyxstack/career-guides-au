@@ -1,60 +1,95 @@
-# Plastic Products Machine Operator（Plastic Products Machine Operator）职业分析 · ES
+# Plastic Products Machine Operator — career analysis · Spain
 
-**职业代码：8142 – Plastic Products Machine Operator。**
+**Occupation code: 8142 (CNO)**
 
-Operate plastic processing machines such as injection molders, blow molders, and extruders to produce plastic products like packaging, containers, pipes, and components. Duties include machine setup, monitoring production, and basic maintenance.
+Operate plastic processing machines such as injection molding machines, blow molding machines, extruders, etc., to produce various plastic products, including packaging, containers, pipes, and components. It is necessary to be familiar with machine setup, monitoring the production process, and basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP 中级（CFGM） | 2年 | $500~$2,000（公立学校学费低，私立或材料费约1000-2000欧） |
-| 在职培训/内部晋升 | 6-12个月 | —（企业提供培训，或自费短期课程） |
+| FP Intermediate (CFGM) | 2 years | $500~$2,000 (Public schools have low tuition fees, while private or material fees are about 1000-2000 euros) |
+| On-the-job training / internal promotion | 6–12 months | $0~$500 (Companies provide training or self-funded short-term courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 塑料加工FP中级（CFGM） | 教育部门认可的FP学校 | 可选 | 通常为‘Plásticos y transformación’相关专业 |
-| 职业健康安全培训 | 企业或官方机构 | 必备 | 工作中必需，如使用机器安全守则 |
+| Occupational health and safety training | Enterprises or official institutions | Required | Essential for work, such as using machine safety protocols |
+| Intermediate Plastic Processing FP (CFGM) | FP schools recognized by the education department | Optional | Usually related to 'Plásticos y transformación' |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙塑料制造业稳定，但自动化程度提高可能减少低技能岗位需求。回收和环保塑料领域略有增长。整体就业机会一般，依赖制造业周期。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. Spain's plastics manufacturing industry is stable, but increased automation may reduce demand for low-skilled jobs. There was slight growth in the recycled and eco-friendly plastics sectors. Overall employment opportunities are average, relying on manufacturing cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，包含12个月薪资和2次额外支付 |
-| 中级（3-7年） | $22,000~$27,000 | 有经验，可能包括轮班补贴 |
-| 高级（7年以上） | $27,000~$32,000 | 含主管或特殊技能岗位 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including 12 months' salary and 2 additional payments |
+| Mid-level (3–7 years) | $22,000~$27,000 | Experience required, possibly including shift allowance |
+| Senior (7+ years) | $27,000~$32,000 | Including supervisory or special skill positions |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：负面（★½☆☆☆）。** 初级操作员可晋升为高级操作员、班组长或生产主管。通过进修FP可转向机器维修或模具制造岗位。少数经验丰富者可进入质量控制或生产规划。
-**AI替代风险：高风险（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Plastic welding and manufacturing work is mixed in its impact from AI: repetitive cutting and welding tasks face high automation pressure, but on-site customization, complex repairs, and multi-material adaptation still require human judgment; AI tools can serve as technical aids to improve efficiency.
+
+Junior operators can be promoted to senior operators, team leaders, or production supervisors. Through advanced FP training, students can move on to positions in machine maintenance or mold manufacturing. A few experienced individuals can enter quality control or production planning.
+
+**Tasks most exposed to AI:**
+
+- Repetitive CNC cutting and edge trimming of plastic sheets
+- Automatic hot melt welding of standard pipe fittings
+- Simple assembly and quality checks in batch production
+- Automatic tube bending and forming based on CAD drawings
+- Material identification and classification in inventory management.
+
+**Where AI augments the role:**
+
+- View welding parameters and defect warnings in real time using AR glasses
+- Using AI quality inspection systems to analyze weld porosity and strength
+- AI-generated visual process guidance handles complex geometric shapes.
+- Optimize welding sequence of large storage tanks using digital twin simulation
+- Automatically generate CNC programs for customized plastic parts
+
+**Human moat:**
+
+- Manual repair and modification capabilities for non-standard on-site structures.
+- Experience in process parameter debugging for specialty plastics (e.g., PVDF, ECTFE)
+- Responsibility judgment for welding in confined/hazardous spaces (e.g., chemical plant pipes)
+- Communicate customization needs with clients and quickly create prototypes
+
+**Skills to build:**
+
+- Programming and operation of mainstream CNC welding equipment (e.g., Leister, Mecal)
+- Basic Python script for automated path generation
+- 3D scanning and reverse modeling (Geomagic, Fusion 360)
+- Application of AI visual inspection tools (such as Industrial AI cloud platform).
+- Use of welding simulation software (Simufact Welding)
+- Safety code interpretation and on-site risk assessment (WHS standards)
+
+**Key growth areas:**
 
 - plastic processing
 - automation
@@ -63,65 +98,67 @@ Operate plastic processing machines such as injection molders, blow molders, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 需西班牙公司提供工作合同，通过劳动力市场测试（如果非短缺职业）。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，但需有足够资金支持。 |
+| Subclass Cuenta ajena (Employed Work Permit) | A work contract must be provided by a Spanish company that passes the labor market test (if not in shortage occupation). |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must have sufficient financial support. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Plastic Products Machine Operator？**
-- 喜欢动手操作机器、机械维修兴趣者
-- 愿意接受轮班工作，能适应工厂环境
-- 追求稳定、非高薪的蓝领工作
+**Who is suited**
+- Interested in hands-on machine operation and mechanical repair
+- Willing to work in shifts and able to adapt to the factory environment
+- Seeking stable, non-high-paying blue-collar jobs
 
-**谁不适合学Plastic Products Machine Operator？**
-- 希望高薪或快速晋升者
-- 厌恶噪音、重复性劳动或化学气味
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Dislike noise, repetitive labor, or chemical odors
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a plastic machinery operator?**
+A: In Spain, the pre-tax annual salary for plastic machine operators is about 18,000-32,000 euros, entry-level salaries about 18,000-22,000 euros, and senior salaries up to 32,000 euros, depending on experience and shifts.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: Difficult. This occupation is not highly skilled and does not qualify for the EU Blue Card or High Skilled Talent visa. A company sponsorship is required to apply for ordinary work residence (Cuenta ajena), and it must be proven that the position cannot be filled by a local resident.
+
+**Q: What educational qualifications are required to become a plastic machinery operator?**
+A: Typically, an FP Intermediate (CFGM) degree or equivalent experience is required. You can also get started through in-house corporate training. No degree is required, but having an FP certificate makes it easier to find stable employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 负面（★½☆☆☆） |
-| AI替代风险 | 高风险（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Plastic Products Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plastic machine operator?**
-答：The average gross annual salary in Spain ranges from €18,000 to €32,000, with entry-level around €18,000-€22,000 and senior roles up to €32,000, depending on experience and shift work.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Difficult. It is not high-skilled, so EU Blue Card or Highly Qualified Professional visa do not apply. A standard work permit (Cuenta ajena) requires employer sponsorship and proof that the position cannot be filled locally.
-
-**问：What education is needed to become a plastic machine operator?**
-答：Usually a Vocational Training qualification (CFGM) or equivalent experience. On-the-job training is also common. While no formal degree is mandatory, a certificate improves job prospects.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

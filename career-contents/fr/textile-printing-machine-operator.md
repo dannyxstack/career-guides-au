@@ -1,60 +1,93 @@
-# Textile Printing Machine Operator（Textile Printing Machine Operator）职业分析 · FR
+# Textile Printing Machine Operator — career analysis · France
 
-**职业代码：H2408 – Textile Printing Machine Operator。**
+**Occupation code: H2408 (ROME)**
 
-Operates textile printing machines (screen, digital) to apply patterns on fabric. Tasks include color mixing, registration, machine maintenance, and quality control.
+Operate textile printing equipment (such as screen printing and digital printing), complete fabric pattern printing, including color matching, pattern matching, equipment maintenance, and quality inspection.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 纺织品印花 | 2年 | —（公立学校免学费，私立约€5k-15k/年） |
-| BTS 纺织与印染 | 2年 | —（公立学校免学费，私立约€4k-12k/年） |
+| CAP textile printing | 2 years | $0~$15,000 (Public schools are tuition-free, private ones about €5k-15k per year) |
+| BTS Textile and Dyeing | 2 years | $0~$12,000 (Free tuition at public schools, private schools about €4k-12k/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 纺织品印花 | 法国教育部 | 可选 | 基础入门文凭，非强制但雇主优先 |
-| BTS 纺织与印染 | 法国教育部 | 可选 | 中级技术文凭，利于晋升 |
+| CAP textile printing | French Ministry of Education | Optional | Basic introductory diploma, not mandatory but employer priority |
+| BTS Textile and Dyeing | French Ministry of Education | Optional | Intermediate technical diploma, which is beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国纺织业向自动化与数字化转型，数码印花需求增长，但传统岗位减少。2025-2030年就业机会集中在高端印花与快速反应生产领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France's textile industry is transitioning to automation and digitalization, with demand for digital printing growing, but traditional positions decreasing. From 2025 to 2030, job opportunities will be concentrated in high-end printing and rapid response production.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含学徒补贴较低 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，经验丰富可至€32k |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含主管或调色师津贴 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, including apprentice allowances, is relatively low |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary, with experience up to €32k |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including supervisor or colorist allowances |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从操作员可晋升为印花技术员、生产主管或质量控制员。经验丰富者可转向调色师或设备销售支持，也可自营小型印花工作室。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Textile printing machine operators will undergo a job reshuffle: digital printing and automated color management will replace some tasks, but operators will need more complex skills in color matching, quality control, and human-machine collaboration, with their work evolving toward technicians.
+
+Operators can be promoted to printing technicians, production supervisors, or quality controllers. Experienced professionals can turn to colorists or equipment sales support, or run their own small printing studios.
+
+**Tasks most exposed to AI:**
+
+- Manual pattern matching and color calibration: The AI vision system can automatically complete pattern alignment and color matching
+- Repetitive printing operations: Digital printing machines can achieve unattended continuous printing, requiring only abnormal monitoring
+- Basic Quality Inspection: AI image recognition automatically detects printing defects such as color differences and pattern deviations
+- Daily equipment maintenance records: IoT sensors automatically record operational data and predict maintenance needs
+
+**Where AI augments the role:**
+
+- Complex color management and special effects implementation: AI-assisted generation of color schemes and simulation previews
+- Personalized small-batch order processing: Quickly adjust design parameters to achieve customized production
+- Production scheduling optimization: AI analyzes orders and equipment status to recommend the optimal production sequence
+- Customer communication and design collaboration: Use VR/AR tools to jointly confirm print effects with clients
+
+**Human moat:**
+
+- Experience in manual debugging of special fabrics and complex patterns
+- Customers' subjective evaluations of unique texture and feel
+- Rapid diagnosis and emergency response in case of equipment failure
+- Innovative design proposals that incorporate current trends
+
+**Skills to build:**
+
+- Operation and maintenance of digital printing machines
+- Color management software and color separation technology
+- Basic programming (Python/RPA) is used for data recording in production
+- AI image processing tools (Photoshop AI plugins, etc.)
+- Fabric characteristics and ink chemistry knowledge
+- Customer communication and design collaboration
+
+**Key growth areas:**
 
 - Digital Printing
 - Automation
@@ -63,65 +96,67 @@ Operates textile printing machines (screen, digital) to apply patterns on fabric
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主提供CDI合同，薪资不低于SMIC（€21,203/年），配额取决于行业 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或创新项目，需薪资≥€53,945/年或资质证明，纺织业较少用 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | A CDI contract must be provided by a French employer, with a salary not less than SMIC (€21,203/year), and the quota depends on the industry |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable for high-skilled or innovative projects, requires salary ≥€53,945/year or qualification proof, rarely used in the textile industry. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Printing Machine Operator？**
-- 动手能力强，喜欢操作机器
-- 对纺织图案和色彩敏感
-- 愿意在工厂环境工作
+**Who is suited**
+- Strong hands-on ability and enjoys operating machines
+- Sensitive to textile patterns and colors
+- Willing to work in a factory environment
 
-**谁不适合学Textile Printing Machine Operator？**
-- 追求高薪和高社会地位
-- 无法接受重复性体力劳动
+**Who is not suited**
+- Pursuing high salaries and high social status
+- Repetitive physical labor is unacceptable
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for textile printing machine operators?**
+A: Entry-level annual salary approx €22k-26k, mid-level €26k-32k, senior up to €40k (pre-tax). Including overtime and bonuses may be higher.
+
+**Q: Can non-EU residents immigrate to France through this employment?**
+A: It is more difficult. This occupation is not in short supply and offers low wages, so employers must prove they cannot recruit local workers. You can apply for residence through Salarié, but you must have a CDI contract.
+
+**Q: What certifications are required to work in this profession?**
+A: CAP textile printing is suitable for beginners, while BTS textiles and dyeing are beneficial for advancement. No compulsory license, but employers prefer licensed holders.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile Printing Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a textile printing machine operator?**
-答：Entry-level: €22k-26k; mid-level: €26k-32k; senior: up to €40k (gross annual). Extra for overtime/bonuses.
-
-**问：Can non-EU residents immigrate through this occupation?**
-答：Difficult. Not a shortage occupation; low salary. Possible via Salarié permit with CDI, but labor market test required.
-
-**问：What certifications are required?**
-答：CAP Textile Printing for entry; BTS Textile & Dyeing for advancement. No mandatory license, but employer preference.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

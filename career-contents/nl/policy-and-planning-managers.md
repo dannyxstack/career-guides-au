@@ -1,58 +1,94 @@
-# Policy and Planning Managers（Policy and Planning Managers）职业分析 · NL
+# Policy and Planning Managers — career analysis · Netherlands
 
-**职业代码：1213 – Policy and Planning Managers。**
+**Occupation code: 1213 (ISCO08)**
 
-Policy and Planning Managers develop, implement, and evaluate public policies and strategic plans, coordinating cross-departmental projects in government, non-profits, or private sectors to ensure compliance and drive social progress.
+Policy and planning managers develop, implement, and evaluate public policies and strategic plans, coordinating cross-departmental projects in government, non-profits, or private sectors to ensure compliance and drive social development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $8,000~$15,000（公立大学学费） |
-| 硕士 | 1年 | $15,000~$25,000（公立大学硕士学费） |
+| Bachelor's degree | 3 years | $8,000~$15,000 (Public university tuition) |
+| Master's degree | 1 year | $15,000~$25,000 (Master's tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学士学位 | 荷兰大学 | 必备 | 公共管理、政治学、经济学等 |
-| 相关硕士学位 | 荷兰大学 | 可选 | 通常要求硕士学历 |
+| Relevant bachelor's degree | Netherlands universities | Required | Public administration, political science, economics, etc. |
+| relevant master's degree | Netherlands universities | Optional | Typically requires a master's degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。荷兰政府持续关注可持续发展、数字化和社会福利等领域，政策与规划经理需求稳定。预计未来五年就业增长约5%，竞争中等，但资深职位有良好前景。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The Dutch government continues to focus on sustainability, digitalization, and social welfare, with stable demand for policy and planning managers. Employment is expected to grow by about 5% over the next five years, with moderate competition but good prospects for senior roles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $70,000~$90,000 | 税前年薪 |
+| Median salary | $77,854 | Median salary (official: CBS employee median hourly wage €39.4/hour × 1976 hours annualized, BRC group 0414 Beleidsadviseurs; P25–P75 €65,010–€92,477, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $70,000~$90,000 | Annual pre-tax salary |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级岗位常见为政策分析师或顾问，积累经验后可晋升为政策经理或部门主管，最终可担任高级管理职务或公共部门高管。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Policy and Planning Manager role has mixed prospects: routine report writing and data aggregation are easily automated by AI, but strategic decisions, stakeholder consultations, and regulatory interpretation still require human judgment; overall risk is moderate.
+
+Entry-level positions are often policy analysts or consultants. With experience, one can advance to policy manager or department head, and eventually to senior management or public sector executive roles.
+
+**Tasks most exposed to AI:**
+
+- automatically generates policy document drafts and summaries
+- Aggregate and preliminary analysis of statistical data to support decision-making
+- Maintain policy database and update regulatory change records
+- Automatically check policy compliance and flag inconsistencies
+- Generate periodic progress reports and visual charts
+
+**Where AI augments the role:**
+
+- Use AI simulation to model policy impacts and outcomes
+- Rapidly scan large volumes of literature and public opinion using natural language processing
+- AI-assisted drafting and revising policy texts to improve efficiency
+- AI-driven risk assessment tools support decision-making
+- AI automates initial responses and categorization in stakeholder communications
+
+**Human moat:**
+
+- Set strategic direction and balance multiple stakeholder interests
+- Handle highly politicized and sensitive issues
+- Build trust and coordinate cross-departmental collaboration
+- Interpreting ambiguous regulations and making ethical judgments
+- Responding to sudden crises and dynamically adjusting policies
+
+**Skills to build:**
+
+- Data analysis and statistical modeling
+- Using AI tools (such as ChatGPT) to assist with writing and summarization
+- Project management and agile methodologies
+- Regulation interpretation and compliance assessment.
+- Cross-cultural communication and stakeholder management
+- Ethics and AI governance knowledge.
+
+**Key growth areas:**
 
 - Public Policy
 - Sustainability
@@ -61,64 +97,63 @@ Policy and Planning Managers develop, implement, and evaluate public policies an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 需获得认证雇主工作合同，年薪门槛约5000欧元/月（2024年） |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育学历及工作合同，年薪门槛约57000欧元（2024年） |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires a job offer from an accredited employer with an annual salary threshold of approx €5,000/month (2024) |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education degree and employment contract, annual salary threshold around €57,000 (2024) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Policy and Planning Managers？**
-- 具有分析思维和战略眼光的人
-- 对公共事务和决策有热情的人
-- 善于跨部门协作和沟通的人
-
-**谁不适合学Policy and Planning Managers？**
-- 偏好重复性工作的人
-- 不喜欢压力和政治环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with analytical thinking and strategic vision
+- People passionate about public affairs and decision-making
+- People skilled in cross-departmental collaboration and communication
+
+**Who is not suited**
+- People who prefer repetitive work
+- People who dislike stress and political environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Policy and Planning Managers?**
+A: Junior: approx. €35–45k, mid-level: approx. €50–65k, senior: up to €70–90k annual salary before tax.
+
+**Q: How to immigrate to the Netherlands for this occupation via a work visa?**
+A: Available through Highly Skilled Migrant or EU Blue Card, requiring accredited employer and corresponding annual salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Policy and Planning Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Policy and Planning Managers?**
-答：Entry-level around 35-45k EUR, mid-level 50-65k EUR, senior 70-90k EUR annual gross.
-
-**问：How to immigrate to the Netherlands for this occupation via work visa?**
-答：Via Highly Skilled Migrant or EU Blue Card, requiring accredited employer and salary thresholds.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

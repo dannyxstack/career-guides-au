@@ -1,60 +1,94 @@
-# Private Security and Surveillance Officer（Private Security and Surveillance Officer）职业分析 · FR
+# Private Security and Surveillance Officer — career analysis · France
 
-**职业代码：K2503 – Private Security and Surveillance Officer。**
+**Occupation code: K2503 (ROME)**
 
-Responsible for security monitoring, patrol, access control, and emergency response in commercial or residential premises to ensure safety of people and property.
+Responsible for security monitoring, patrol, access management, and emergency response for commercial or residential premises to ensure the safety of personnel and property.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭+短期培训 | 1个月至1年（CQP APS） | $500~$3,000（通过法国国家认证的私人安保培训课程，部分由Pôle Emploi资助） |
-| BAC专业文凭 | 2年（Bac Pro Métiers de la sécurité） | —（公立学校免费或低学费，私立学校收费） |
-| 大专/本科 | 2-3年（BTS / Licence Pro Sécurité） | $3,000~$10,000（公立大学学费较低，私立商学院较高） |
+| High school diploma + short-term training | 1 month to 1 year (CQP APS) | $500~$3,000 (Passed the French national certified private security training course, partially funded by Pôle Emploi) |
+| BAC Professional Diploma | 2 years (Bac Pro Métiers de la sécurité) | $0~$2,000 (Public schools offer free or low tuition, while private schools charge fees) |
+| Diploma/Bachelor's degree | 2-3 years (BTS / Licence Pro Sécurité) | $3,000~$10,000 (Public universities have lower tuition fees, while private business schools have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP APS (Certificat de Qualification Professionnelle Agent de Prévention et de Sécurité) | CNPP / 法国安保行业联合委员会 | 必备 | 必备入门资格，包含理论及实操培训 |
-| Carte Professionnelle (专业许可证) | CNAPS (Conseil National des Activités Privées de Sécurité) | 必备 | 从业必须持有，每5年更新，需无犯罪记录 |
-| SSIAP (消防安全负责人) 等级证书 | APAVE / 消防培训机构 | 可选 | 从事消防监控岗位需SSIAP 1/2/3级 |
+| CQP APS (Certificat de Qualification Professionnelle Agent de Prévention et de Sécurité) | CNPP / French Security Industry Joint Committee | Required | Essential entry qualifications, including both theoretical and practical training |
+| Carte Professionnelle (Professional License) | CNAPS (Conseil National des Activités Privées de Sécurité) | Required | Practitioners must hold the certificate, renew every 5 years, and have no criminal record |
+| SSIAP (Fire Safety Officer) certification | APAVE / Fire training institution | Optional | Positions in fire monitoring require SSIAP Level 1/2/3 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。法国私人安保行业持续增长，受恐怖威胁和大型活动增多推动，岗位需求稳定，尤其在巴黎及大型城市。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. The French private security industry continues to grow, driven by terrorist threats and an increase in large-scale events, with stable job demand, especially in Paris and major cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$25,000 | 税前年薪，含奖金及夜班补贴 |
-| 中级（3-7年） | $26,000~$32,000 | 含团队管理或监控中心职责 |
-| 高级（7年以上） | $33,000~$45,000 | 区域经理或安全顾问级别 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$25,000 | Pre-tax annual salary, including bonuses and night shift allowance |
+| Mid-level (3–7 years) | $26,000~$32,000 | Including team management or monitoring center responsibilities |
+| Senior (7+ years) | $33,000~$45,000 | Regional Manager or Security Advisor level |
+| average salary | $26,460 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级安保员晋升为团队负责人、监控中心主管，或转向风险管理、内部调查等专业岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Automation and AI will significantly transform private security and surveillance over the next 5-10 years: fixed monitoring and reporting tasks will be taken over, but job demands relying on human judgment, communication, and on-site emergency response will persist. Embracing technology can enhance efficiency and competitiveness.
+
+You can be promoted from junior security officer to team leader, supervisor of the monitoring center, or shift to specialized roles such as risk management or internal investigations.
+
+**Tasks most exposed to AI:**
+
+- Manual review of conventional video surveillance footage is automatically performed by the AI anomaly detection system
+- Manual attendance at entrance gates and visitor registration has been replaced by automated access control and biometric systems
+- Scheduled check-ins for fixed patrol routes are completed by drones or robots along preset routes
+- Manual writing of written reports and logs is done by the system, with the system automatically generating event summaries
+
+**Where AI augments the role:**
+
+- Utilize AI to analyze massive monitoring data to quickly identify suspicious behaviors and patterns, improving alert accuracy
+- Optimize patrol routes and personnel deployment through intelligent dispatch systems to improve response efficiency
+- With facial recognition and behavioral analysis, precise crowd management is achieved at large events or in high-security areas
+- Using mobile AI-assisted tools, quickly obtain background information and contingency plans on site
+
+**Human moat:**
+
+- On-site judgment and emergency decision-making for complex emergencies
+- High-EQ communication and conflict mediation with clients, visitors, and law enforcement agencies
+- Security system design and compliance advice require legal knowledge and understanding of local policies
+- Interpersonal intuition and potential risk assessment of abnormal behavior among insiders and visitors
+- Multi-task coordination and on-the-spot command capabilities
+
+**Skills to build:**
+
+- Operation and configuration of video analysis software and AI monitoring platforms
+- Cybersecurity Fundamentals (Protection of Cameras and Access Control Systems)
+- Data analysis and reporting capabilities (interpreting AI alerts and forming action plans)
+- Crisis communication and negotiation skills
+- Basic Python or scripts are used for automation tool customization
+- Knowledge of relevant laws and privacy regulations (such as GDPR).
+
+**Key growth areas:**
 
 - Urban Security
 - Event Security
@@ -63,68 +97,67 @@ Responsible for security monitoring, patrol, access control, and emergency respo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需雇主担保，提供CDI合同及CNAPS许可，薪资需达到最低标准 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或管理岗位，如安全经理，需年薪≥36,500€ |
-| Subclass Recherche d'emploi（Job Search / Entrepreneur） | 毕业后可申请居留寻找工作，需与专业相关 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employer sponsorship required, CDI contract and CNAPS permit provided, and salary must meet minimum standards |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled or management positions, such as safety managers, with an annual salary of ≥36,500€ |
+| Subclass Recherche d'emploi (Job Search / Entrepreneur) | After graduation, you can apply for residence and look for work, provided it is related to your major |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Private Security and Surveillance Officer？**
-- 责任心强、警觉性高，能处理突发状况的人
-- 喜欢稳定工作环境，适应轮班制的人员
-- 有意从事安全领域并逐步晋升管理岗的人
-
-**谁不适合学Private Security and Surveillance Officer？**
-- 无法接受长时间站立或夜间工作的人
-- 希望高薪资或快速晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Highly responsible, highly alert, and able to handle emergencies
+- Prefer a stable work environment and adapt to shift work
+- Those interested in working in the security field and gradually advancing to management positions
+
+**Who is not suited**
+- People who cannot stand for long periods or work at night
+- Those seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for private security personnel in France?**
+A: The pre-tax annual salary for junior security personnel is about 21,000-25,000 euros, with additional allowances for night shifts and holidays.
+
+**Q: What are the requirements for foreigners to work in security in France?**
+A: You must obtain a Carte Professionnelle (professional license), have a clean criminal record, and pass the training; EU citizens can work directly, while third-country citizens require an employer-sponsored work visa.
+
+**Q: What are the promotion paths for private security?**
+A: You can be promoted from junior security to team supervisor, monitoring center manager, or move to specialized roles such as internal investigations or security consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Private Security and Surveillance Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for private security in France?**
-答：Entry-level security officers earn approximately €21,000-€25,000 gross annually, with extra pay for night shifts and holidays.
-
-**问：What are the conditions for foreigners to work in security in France?**
-答：Must obtain a Carte Professionnelle, requiring a clean criminal record and training; EU citizens can work directly, while third-country nationals need employer-sponsored work visa.
-
-**问：What are the career progression paths in private security?**
-答：From entry-level to team supervisor, control room manager, or specialize in internal investigation or security consulting.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

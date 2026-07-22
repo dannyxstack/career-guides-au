@@ -1,59 +1,95 @@
-# Project support officers（Project support officers）职业分析 · UK
+# Project support officers — career analysis · United Kingdom
 
-**职业代码：3543 – Project support officers。**
+**Occupation code: 3543 (SOC)**
 
-Project support officers assist in organising, planning, monitoring and directing a project, ensuring it is adequately resourced and on schedule.
+Project support officers assist in organizing, planning, monitoring and directing projects to ensure adequate resources and progress as planned.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$15,000（国际生学费约£15,000/年） |
-| 文凭/证书 | 1年 | $3,000~$6,000（例如项目管理基础证书） |
+| Bachelor's degree | 3 years | $9,000~$15,000 (International student tuition approx. £15,000/year) |
+| Diploma/Certificate | 1 year | $3,000~$6,000 (e.g., Project Management Foundation Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理专业资格（如PRINCE2） | Axelos | 可选 | 非强制但受雇主青睐 |
-| 项目管理学士学位 | 大学 | 可选 | 相关领域如商业、管理 |
-| APM项目管理基础证书 | Association for Project Management | 可选 | 入门级证书 |
+| Project management qualifications (e.g., PRINCE2) | Axelos | Optional | Not mandatory but favored by employers |
+| Bachelor's degree in project management | University | Optional | Related fields such as business, management |
+| APM Project Management Basic Certificate | Association for Project Management | Optional | Entry-level certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。英国项目支持官需求稳定，尤其在IT、建筑和公共部门。随着项目化管理普及，预计就业将温和增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for project support officers in the UK is stable, especially in IT, construction, and the public sector. With the spread of project management, employment is expected to grow moderately.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 包括应届毕业生 |
-| 中级（3-5年） | $30,000~$40,000 | 有经验者 |
-| 高级（5年以上） | $42,000~$55,000 | 资深或PMO经理 |
+| Median salary | $35,751 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–2 years) | $22,000~$28,000 | Including recent graduates |
+| Mid-level (3–5 years) | $30,000~$40,000 | Experienced individuals |
+| Senior (5+ years) | $42,000~$55,000 | Senior or PMO manager |
+| average salary | $38,266 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 通常从项目助理开始，积累经验后可晋升为项目经理、项目总监或PMO经理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The risk for Project Support Officers is mixed: AI can automate administrative tasks like data tracking and report generation, but decision-making collaboration and stakeholder communication still heavily rely on human judgment.
+
+Starting as a project assistant, you can advance to project manager, project director, or PMO manager after gaining experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically update project progress dashboards and generate weekly status reports
+- Automated calculation of resource allocation and budget tracking
+- Automatic reminders for key milestones and task deadlines
+- Organize meeting minutes and extract action items
+- Drafting and version control of standard project documents
+
+**Where AI augments the role:**
+
+- AI analyzes historical project data to predict risks and delays
+- AI recommends the optimal resource allocation plan.
+- Auto-generate draft project presentations
+- Monitor project health in real-time and warn of deviations
+- Quickly retrieving project files via natural language interface
+
+**Human moat:**
+
+- Conflict mediation among cross-departmental stakeholders
+- Make judgments under uncertainty
+- Human trade-offs in project prioritization
+- Building team trust and morale
+- Flexibility to handle unstructured and unexpected issues
+
+**Skills to build:**
+
+- AI project management tools (e.g., Asana AI, Jira Automation)
+- Data analysis and visualization (Tableau, Power BI)
+- Basic data processing using Python or SQL
+- Agile and Scrum methodologies
+- Stakeholder management and communication
+- Risk management and decision analysis
+
+**Key growth areas:**
 
 - Project Management
 - Business Support
@@ -62,65 +98,64 @@ Project support officers assist in organising, planning, monitoring and directin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的项目支持官，年薪通常需≥£26,200 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生工作2年，积累经验后转工签 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速增长公司的高技能职位 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to project support officers with employer sponsorship; annual salary typically ≥ £26,200 |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2 years, then switch to a work visa after gaining experience |
+| Subclass Scale-up (Scale-up visa) | High-skilled positions suitable for fast-growing companies |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Project support officers？**
-- 注重细节、有条理的人
-- 善于沟通和协调多方
-- 希望在项目管理领域发展的人
-
-**谁不适合学Project support officers？**
-- 不喜欢文书工作和行政任务的人
-- 希望独立工作、较少团队协作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized person
+- Good at communicating and coordinating with multiple parties
+- People Looking to Develop in Project Management
+
+**Who is not suited**
+- People who dislike paperwork and administrative tasks
+- People who prefer to work independently with minimal teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Project Support Officer?**
+A: Entry level approximately £22,000-£28,000, mid-level approximately £30,000-£40,000, senior up to £55,000.
+
+**Q: What UK work visas can a project support officer apply for?**
+A: Mainly through Skilled Worker visa (requires employer sponsorship) or Graduate visa as a transition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Project support officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Project Support Officer?**
-答：Entry-level: £22,000-£28,000, mid-level: £30,000-£40,000, senior: up to £55,000.
-
-**问：What UK work visas can a Project Support Officer apply for?**
-答：Mainly Skilled Worker visa (requires employer sponsorship) or Graduate visa as a transition.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

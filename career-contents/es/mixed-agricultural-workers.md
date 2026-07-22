@@ -1,60 +1,94 @@
-# Mixed Agricultural Workers（Mixed Agricultural Workers）职业分析 · ES
+# Mixed Agricultural Workers — career analysis · Spain
 
-**职业代码：6300 – Mixed Agricultural Workers。**
+**Occupation code: 6300 (CNO)**
 
-Mixed agricultural workers perform a variety of tasks in crop cultivation and livestock raising, including sowing, harvesting, feeding, and milking, typically on small family farms or diversified agricultural holdings.
+Mixed agricultural workers engage in comprehensive agricultural labor such as crop planting and livestock raising, including sowing, harvesting, feeding, milking, and other tasks, commonly found on small family farms or multi-operation farms.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2年（FP Grado Medio） | —（公立FP免学费，仅教材和注册费） |
-| 高等职业教育 | 2年（FP Grado Superior） | —（公立FP免学费，部分专业有实习） |
+| Secondary vocational education | 2 years (FP Grado Medio) | $0~$1,000 (Public FP tuition is free, except for textbooks and registration fees) |
+| Higher vocational education | 2 years (FP Grado Superior) | $0~$1,500 (Public FP tuition is waived, and some majors offer internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业培训证书 | 各自治区教育部门 | 可选 | 非强制，但有助于就业 |
-| 农药使用许可证 | 农业部门 | 必备 | 进行植物保护作业必须持有 |
+| Pesticide use permit | Agricultural sector | Required | Plant protection operations are mandatory |
+| Agricultural vocational training certificate | Education departments of all autonomous regions | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。西班牙农业面临劳动力老龄化和季节性用工短缺，尤其是果蔬采摘和畜牧环节。数字化和机械化的推进将减少低技能需求，但有机农业和本地食品需求带来新机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. Spanish agriculture faces an aging workforce and seasonal labor shortages, especially in fruit and vegetable picking and livestock farming. The advancement of digitalization and mechanization will reduce the demand for low-skilled skills, but organic farming and local food demand will bring new opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，季节工按实际工作时间折算 |
-| 中级（3-5年） | $20,000~$25,000 | 税前年薪，全年稳定工作 |
-| 高级（5年以上） | $25,000~$30,000 | 税前年薪，包括领班或技术岗位 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, seasonal work is calculated based on actual working hours |
+| Mid-level (3–5 years) | $20,000~$25,000 | Pre-tax annual salary, stable work throughout the year |
+| Senior (5+ years) | $25,000~$30,000 | Pre-tax annual salary, including foreman or technical positions |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 初级工人可积累经验成为农业技术员或农场领班；也可通过培训转向生态农业、农业旅游或农产品加工。少数人可晋升为农场经理或自主经营。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hybrid farmworkers face a mixed reality for AI: some physical and monitoring tasks can be automated, but integrated decision-making and animal care still require human experience.
+
+Junior workers can gain experience and become agricultural technicians or farm foremen; It can also be transformed into ecological agriculture, agritourism, or agricultural product processing through training. A few can be promoted to farm manager or run independently.
+
+**Tasks most exposed to AI:**
+
+- The automatic milking system takes over and repeats the milking operation
+- GPS-navigated autonomous tractors complete sowing and harvesting
+- Sensors monitor soil moisture and automatically irrigate automatically
+- Drones inspect crop pests and diseases and automatically apply pesticides
+
+**Where AI augments the role:**
+
+- AI analyzes livestock health data to assist disease early warning
+- Precision agriculture big data optimizes crop rotation and fertilization plans
+- Automated record systems simplify farm management ledgers
+- The intelligent feeding system adjusts feed formulas according to individual needs
+- VR training simulates emergencies to enhance emergency response capabilities
+
+**Human moat:**
+
+- Multi-variety comprehensive management capabilities spanning crops and livestock
+- On-site assessment of abnormal animal behavior and diseases
+- Manual handling is difficult to mechanize (such as delivery and pruning)
+- Customer relationships with direct sales in small markets
+
+**Skills to build:**
+
+- Precision Agriculture Software Operations (such as FarmERP)
+- Unmanned agricultural machinery monitoring and simple troubleshooting
+- Fundamentals of Data Analysis (Basic Excel/R Applications)
+- Programmable logic logic controllers (PLCs) are easy to program
+- Use of animal behavior and intelligent health monitoring systems
+- Farm digital bookkeeping and supply chain management
+
+**Key growth areas:**
 
 - Seasonal labor
 - Organic farming
@@ -63,61 +97,63 @@ Mixed agricultural workers perform a variety of tasks in crop cultivation and li
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employee)） | 需获得雇主工作合同，通过劳工局审批，适合已找到西班牙雇主的外籍工人。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留并寻找工作，但农业季节性岗位成功率较低。 |
+| Subclass Cuenta ajena (Work Contract (Employee)) | An employer employment contract must be obtained, approved by the Labor Bureau, and suitable for foreign workers who have already found a Spanish employer. |
+| Subclass Busqueda empleo (Job Search Visa) | Residency and job hunting in Spain are allowed, but the success rate for agricultural seasonal positions is lower. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mixed Agricultural Workers？**
-- 喜欢户外体力劳动和自然环境
-- 愿意接受季节性工作安排
+**Who is suited**
+- They enjoy outdoor physical labor and natural environments
+- Willing to accept seasonal work arrangements
 
-**谁不适合学Mixed Agricultural Workers？**
-- 追求高收入和稳定办公环境
-- 对体力劳动和天气条件敏感
+**Who is not suited**
+- Pursue high income and a stable working environment
+- Sensitive to physical labor and weather conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the wage outlook for mixed agriculture workers?**
+A: Salary is low, entry-level approx. €16,000–20,000, senior up to €30,000, but high work intensity and seasonal.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It is very difficult, the occupation is not classified as a high-skilled, scarce occupation, immigration pathways are limited, and it mainly relies on employer-sponsored seasonal work contracts.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Mixed Agricultural Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary prospect for mixed agricultural workers?**
-答：Salaries are low, with entry-level around €16,000-20,000 and senior up to €30,000, but work is physically demanding and seasonal.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is very difficult as this is not a high-skilled shortage occupation; immigration options are limited to seasonal work contracts sponsored by employers.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

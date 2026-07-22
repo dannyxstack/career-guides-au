@@ -1,60 +1,95 @@
-# Baker - Pastry Chef（Baker - Pastry Chef）职业分析 · FR
+# Baker - Pastry Chef — career analysis · France
 
-**职业代码：D1102 – Baker - Pastry Chef。**
+**Occupation code: D1102 (ROME)**
 
-Baker-pastry chef prepares breads, viennoiseries, cakes and pastries, working in bakeries, patisseries, hotels or supermarkets. Requires skills in dough fermentation, shaping, baking and decoration.
+Bakers - Pastry chefs are responsible for making baked goods such as bread, puff pastries, and cakes, mainly working in bakeries, pastry shops, hotels, or supermarkets. It requires mastering dough fermentation, shaping, baking, and decorating techniques.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 面包师 | 2年（CAP） | —（公立学校学费低，可申请学徒制，工资抵扣学费） |
-| BM 或 BTM 面包师 | 2年（BM/BTM） | —（高级文凭，可通过继续教育或学徒获得） |
-| BTS 烘焙技术 | 2年（BTS） | $500~$10,000（部分学校收费，学徒制可减免） |
+| CAP bakers | 2 years (CAP) | $0~$5,000 (Public schools have low tuition fees, and apprenticeships can be applied for, with salary deducted from tuition) |
+| BM or BTM bakers | 2 years (BM/BTM) | $0~$8,000 (Higher diplomas, which can be obtained through continuing education or apprenticeships) |
+| BTS baking technology | 2 Years (BTS) | $500~$10,000 (Some schools charge fees, and apprenticeships can be waived) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 面包师 | 法国教育部 | 必备 | 基础职业文凭，行业入门必备 |
-| 卫生与食品安全培训 | 法国劳工部 | 必备 | 从事食品加工必需的卫生认证 |
-| BM 面包师-甜点师 | 法国教育部 | 可选 | 高级职业文凭，提升技能与管理能力 |
+| CAP bakers | French Ministry of Education | Required | Basic vocational diploma, essential for industry entry |
+| Hygiene and food safety training | French Ministry of Labor | Required | Hygiene certifications necessary for food processing |
+| BM baker - pastry chef | French Ministry of Education | Optional | Advanced Professional Diploma to enhance skills and management capabilities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国面包师-甜点师持续紧缺，尤其在手工面包店和酒店行业。传统烘焙业稳定，但受工业化竞争影响。有机、无麸质及创新产品需求增长。预计未来十年岗位略有增加。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. French bakers and pastry chefs remain in short supply, especially in artisanal bakeries and the hospitality industry. The traditional baking industry is stable but affected by industrial competition. Growing demand for organic, gluten-free, and innovative products. Positions are expected to increase slightly over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，可担任领班 |
-| 高级（7年以上） | $35,000~$50,000 | 税前年薪，主面包师或店主 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, can serve as a foreman |
+| Senior (7+ years) | $35,000~$50,000 | Pre-tax annual salary, head baker or shop owner |
+| average salary | $23,388 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级面包师可晋升为领班或主面包师，积累经验后开设自己的面包店。也可向巧克力师、糖果师或餐厅甜点主管发展。持有CAP或BTS文凭更有晋升优势。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
+
+Junior bakers can be promoted to head chef or head baker, gaining experience to open their own bakery. You can also develop into chocolatier, confectioner, or restaurant dessert supervisor. Holding a CAP or BTS diploma offers a higher advantage in promotion.
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+**Key growth areas:**
 
 - artisan bread
 - organic bakery
@@ -63,68 +98,67 @@ Baker-pastry chef prepares breads, viennoiseries, cakes and pastries, working in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇工作居留，需获得雇主合同并通过劳工市场测试（紧缺职业可豁免部分条件） |
-| Subclass Passeport Talent（Passeport Talent） | 人才护照，适用于高技能或创业面包师，简化行政程序 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需年薪达到特定门槛（通常高于行业平均），面包师较少使用 |
+| Subclass Salarié (Salarié) | For employed work residence, you must obtain an employer contract and pass a labor market test (some conditions may be waived for shortage occupations). |
+| Subclass Passeport Talent (Passeport Talent) | Talent passport, suitable for highly skilled or entrepreneurial bakers, simplifying administrative procedures |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary threshold (usually above the industry average), and bakers use it less frequently |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Baker - Pastry Chef？**
-- 喜欢手工艺制作，对烘焙有热情的人
-- 愿意早起工作，适应体力劳动环境
-- 希望创业开店，掌握一技之长的人
-
-**谁不适合学Baker - Pastry Chef？**
-- 不习惯清晨工作（通常凌晨开始）
-- 对重复性高、压力大的厨房工作反感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handicrafts and are passionate about baking
+- Willing to get up early to work and adapt to physical labor conditions
+- Those who hope to start a business and open a store and master a skill
+
+**Who is not suited**
+- Not used to early morning work (often starting before dawn).
+- Dislike of repetitive and stressful kitchen work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for bakers in France?**
+A: Junior bakers earn about 22,000-28,000 euros before tax, intermediate bakers about 28,000-35,000 euros, senior or head bakers up to 35,000-50,000 euros, and shop owners may earn even more.
+
+**Q: How do foreign bakers immigrate to France?**
+A: It can be simplified through employment residence (Salarié), which, if you have obtained an employer contract and are in urgent need of occupation, can simplify the process. The Passeport Talent Passport is suitable for high-skilled or entrepreneurial situations. CAP or equivalent academic qualifications are required.
+
+**Q: Are there career advancement paths for bakers-pastry chefs?**
+A: You can be promoted from junior baker to head chef or head baker, and then open your own bakery. You can also switch to chocolate, candy, or restaurant desserts. Continuing education and obtaining a BM or BTS diploma can help with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Baker - Pastry Chef的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a baker in France?**
-答：Entry-level bakers earn €22,000-€28,000 gross annually, mid-level €28,000-€35,000, and senior/head bakers €35,000-€50,000. Shop owners can earn more.
-
-**问：How can a foreign baker migrate to France?**
-答：Through a Salarié work permit with employer contract (shortage occupation may simplify). Passeport Talent is for high-skilled or entrepreneurial bakers. CAP or equivalent required.
-
-**问：Is there a career path for baker-pastry chefs?**
-答：Yes, from junior to team leader, head baker, then opening own shop. Alternatively, move into chocolate, confectionery or restaurant pastry. Advanced diplomas like BM or BTS help.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

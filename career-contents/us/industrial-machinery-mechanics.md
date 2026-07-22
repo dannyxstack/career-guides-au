@@ -1,59 +1,94 @@
-# Industrial Machinery Mechanics（Industrial Machinery Mechanics）职业分析 · 美国
+# Industrial Machinery Mechanics — career analysis · United States
 
-**职业代码：49-9041 – Industrial Machinery Mechanics。**
+**Occupation code: 49-9041 (SOC)**
 
-Industrial machinery mechanics install, maintain, and repair industrial production and processing machinery, as well as refinery and pipeline distribution systems to ensure equipment operates efficiently.
+Industrial mechanics install, maintain, and repair industrial production and processing machinery, as well as refinery and pipeline distribution systems, to ensure production equipment operates properly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定时长 | —（通常为入职最低要求） |
-| 社区大学或技校证书 | 2年 | $5,000~$20,000（常见途径，含机械维修课程） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Usually the minimum requirement for entry) |
+| Community college or technical school certificate | 2 years | $5,000~$20,000 (Common pathway, includes mechanical repair courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 高中或同等学历机构 | 必备 | 基本入职要求 |
-| 在职培训（OJT） | 雇主 | 可选 | 通常为期1-2年的学徒或培训 |
-| 自愿认证（如ICML MLA） | 国际机器润滑协会 | 可选 | 提升就业竞争力 |
+| High school diploma or GED | High school or equivalent institution | Required | Basic entry requirements |
+| On-the-job training (OJT) | Employer | Optional | Typically 1-2 year apprenticeship or training |
+| Voluntary certification (e.g., ICML MLA) | International Council for Machinery Lubrication | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 121,200。美国劳工统计局（BLS）预计2023-2033年该职业就业增长约14%，远高于所有职业平均水平。随着制造业自动化和设备更新，对熟练机械师的需求持续增加。
+**Job demand: high (★★★★☆).** National workforce approx. 121,200. US Bureau of Labor Statistics (BLS) projects employment for this occupation to grow about 14% from 2023 to 2033, much faster than the average for all occupations. With manufacturing automation and equipment updates, demand for skilled machinists continues to increase.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$52,000 | 入门级工资 |
-| 中级（4-7年） | $52,000~$68,000 | 中等经验水平 |
-| 高级（8年以上） | $68,000~$85,000 | 高级技工或主管级别 |
+| Median salary | $64,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$52,000 | Entry-level salary |
+| Mid-level (4-7 years) | $52,000~$68,000 | Mid-experience level. |
+| Senior (8+ years) | $68,000~$85,000 | Senior technician or supervisor level |
+| average salary | $68,460 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级机械师可通过在职培训和认证成为高级技工或主管，也可向设备销售、技术服务或工厂管理方向发展。取得认证（如ICML或STLE）可提升薪资和晋升机会。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+Entry-level mechanics can become senior technicians or supervisors through on-the-job training and certification, or move into equipment sales, technical service, or plant management. Obtaining certifications (e.g., ICML or STLE) can boost salary and advancement opportunities.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -62,68 +97,67 @@ Industrial machinery mechanics install, maintain, and repair industrial producti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需要理论或技术专长的职位，需雇主担保。工业机械师通常需证明技能特殊性。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 绿卡申请类别，需至少2年培训或经验，通过PERM劳工认证。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主要为外籍员工申请绿卡，需证明无法招到美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for positions requiring theoretical or technical expertise, needs employer sponsorship. Industrial mechanics often must demonstrate skill specialization. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card application category requiring at least 2 years of training or experience, via PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must sponsor green card for foreign workers; must prove unable to hire US workers |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Machinery Mechanics？**
-- 喜欢动手维修机械、故障排查的人
-- 愿意在工厂或工业环境中工作，适应轮班和体力劳动
-- 对机械和自动化系统有浓厚兴趣
-
-**谁不适合学Industrial Machinery Mechanics？**
-- 不喜欢体力劳动或脏乱环境的人
-- 无法适应倒班或长时间站立工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on mechanical repair and troubleshooting.
+- Willing to work in a factory or industrial environment, adaptable to shifts and physical labor
+- Strong interest in mechanical and automation systems
+
+**Who is not suited**
+- Those who dislike physical labor or dirty environments
+- Cannot adapt to shift work or prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an industrial mechanic?**
+A: According to BLS 2023 data, the median annual salary for US industrial mechanics is about $60,000, entry-level around $40,000, and senior can reach $85,000.
+
+**Q: How can foreigners immigrate to the US as industrial mechanics?**
+A: Common pathways include H-1B visa (requires proof of specialty occupation) and EB-3 green card (via PERM labor certification). Employer sponsorship is required, and the position typically needs 2+ years of experience.
+
+**Q: What education is needed to become an industrial mechanic?**
+A: Usually only a high school diploma is required, followed by on-the-job training or a trade school certificate. A 2-year mechanical repair certificate from a community college is a common choice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial Machinery Mechanics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for industrial machinery mechanics?**
-答：According to BLS 2023 data, median annual wage is about $60,000, with entry-level around $40,000 and experienced up to $85,000.
-
-**问：How can foreigners immigrate to the US as industrial machinery mechanics?**
-答：Common paths include H-1B visa (requires specialty occupation) and EB-3 green card via PERM labor certification. Employer sponsorship and at least 2 years of experience are typically needed.
-
-**问：What education is needed to become an industrial machinery mechanic?**
-答：Typically a high school diploma is sufficient, followed by on-the-job training or a vocational certificate. A 2-year community college certificate in mechanical maintenance is common.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

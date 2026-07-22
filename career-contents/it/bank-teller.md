@@ -1,60 +1,92 @@
-# Bank Teller（Bank Teller）职业分析 · IT
+# Bank Teller — career analysis · Italy
 
-**职业代码：4211 – Bank Teller。**
+**Occupation code: 4211 (ISCO08)**
 
-Bank tellers handle customer transactions including deposits, withdrawals, and remittances, serving as the primary point of contact between customers and the bank. In Italy, this role is declining due to digital transformation.
+Bank tellers handle customer transactions such as deposits, withdrawals, and remittances, serving as the main point of contact between the bank and customers. In Italy, this occupation is experiencing declining demand due to digital transformation.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年（高中） | —（公立学校免费） |
-| 职业培训证书 | 6个月 | $500~$2,000（私人培训机构） |
+| High school graduation | 12 years (high school). | $0~$0 (Free public schools.) |
+| Vocational training certificate | 6 months. | $500~$2,000 (Private training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 银行操作培训 | 意大利银行协会 | 可选 | 多数银行提供内部培训 |
-| 反洗钱证书 | 意大利金融情报局 | 可选 | 部分银行要求 |
+| Bank operations training | Italian Banking Association | Optional | Most banks offer internal training |
+| Anti-Money Laundering Certificate | Italian Financial Intelligence Unit | Optional | Required by some banks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 42,000。意大利银行柜员就业前景负面，自动化与在线银行减少了对柜员的需求。未来十年预计岗位减少10-15%，主要集中在小型分行。
+**Job demand: low (★½☆☆☆).** National workforce approx. 42,000. Negative employment outlook for Italian bank tellers; automation and online banking reduce demand for tellers. Jobs expected to decline 10-15% over the next decade, mainly in small branches.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 银行柜员可晋升为高级柜员、客服经理或分行主管。部分转岗至后台运营、合规或私人银行。需持续学习金融产品与数字工具。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Bank tellers in Italy face severe automation disruption; AI and self-service terminals will significantly reduce job demand, with entry-level opportunities markedly decreasing.
+
+Bank tellers can advance to senior teller, customer service manager, or branch manager. Some move to back-office operations, compliance, or private banking, requiring continuous learning of financial products and digital tools.
+
+**Tasks most exposed to AI:**
+
+- Standard transaction processing such as cash deposits, withdrawals, and transfers
+- Account inquiry and balance reconciliation
+- Transaction record entry and simple report generation
+- Customer identity verification and basic anti-money laundering screening
+
+**Where AI augments the role:**
+
+- analyze customer transaction history via AI to provide personalized financial advice
+- Leveraging intelligent quality inspection systems to improve compliance and risk control efficiency
+- Collaborate with AI customer service to handle complex customer complaints and disputes
+- Automate daily report compilation with RPA to focus on high-value customer service.
+
+**Human moat:**
+
+- Understanding complex customer needs and maintaining deep relationships
+- Non-standard business judgment (e.g., special problem solving)
+- Interpersonal communication skills for emotional perception and trust building.
+- On-the-spot flexibility to handle emergencies
+
+**Skills to build:**
+
+- Digital banking and mobile sales skills
+- Basic programming and RPA tool application.
+- Knowledge of financial products (investment, insurance, loans)
+- Data analysis and customer insights.
+- Complex communication and conflict resolution
+
+**Key growth areas:**
 
 - Digital banking
 - Automation
@@ -63,65 +95,67 @@ Bank tellers handle customer transactions including deposits, withdrawals, and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达约30,000欧元（2023标准）。银行柜员通常不符合要求。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 适用于非欧盟低技能劳工，每年配额有限。银行柜员通常不在紧缺列表中。 |
+| Subclass EU Blue Card (EU Blue Card) | Available for highly skilled non-EU citizens; annual salary must be approximately €30,000 (2023 standard). Bank tellers typically do not qualify. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | For non-EU low-skilled workers, annual quotas limited. Bank tellers are usually not on the shortage list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bank Teller？**
-- 喜欢与人打交道、注重细节的求职者
-- 寻求稳定但接受薪资增长有限的从业者
-- 适合作为金融行业入门岗位
+**Who is suited**
+- Job seekers who enjoy interacting with people and pay attention to detail
+- Seekers of stability but accepting limited salary growth
+- Suitable as an entry-level position in the finance industry
 
-**谁不适合学Bank Teller？**
-- 追求高薪和快速晋升的人
-- 抗拒重复性工作或希望避开人工智能替代风险的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those who resist repetitive work or wish to avoid the risk of being replaced by AI
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an Italian bank teller?**
+A: Junior approx. €25,000, mid-level approx. €31,000, senior approx. €40,000 (annual pre-tax salary).
+
+**Q: Can non-EU citizens apply for a bank teller work visa?**
+A: Difficult. Bank tellers are not on Italy's shortage occupation list, and usually cannot immigrate via a regular work visa unless meeting the EU Blue Card high salary threshold (around €30,000).
+
+**Q: Will bank tellers be replaced by artificial intelligence?**
+A: High likelihood. Online banking, self-service tellers, and AI customer service have already significantly reduced demand for tellers, and positions are expected to continue declining.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bank Teller属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bank teller in Italy?**
-答：Entry-level around EUR 25,000, mid-level around EUR 31,000, senior around EUR 40,000 (gross annual).
-
-**问：Can non-EU citizens apply for a bank teller work visa?**
-答：It is difficult. Bank teller is not on Italy's shortage occupation list and usually does not qualify for standard work visas unless the salary meets the EU Blue Card threshold (around EUR 30,000).
-
-**问：Will bank tellers be replaced by AI?**
-答：Very likely. Online banking, ATMs, and AI customer service have significantly reduced demand for tellers, and the trend is expected to continue.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

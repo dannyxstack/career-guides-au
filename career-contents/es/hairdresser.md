@@ -1,60 +1,94 @@
-# Hairdresser（Hairdresser）职业分析 · ES
+# Hairdresser — career analysis · Spain
 
-**职业代码：5811 – Hairdresser。**
+**Occupation code: 5811 (CNO)**
 
-Provides haircutting, coloring, styling, and scalp care services. It is a core occupation in Spain's beauty industry with a large workforce.
+It offers personal image services such as haircuts, coloring, styling, and scalp care, making it a core profession in Spain's beauty industry with a large number of practitioners.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年（约1600学时） | $500~$3,000（公立学校免费或低学费，私立学校费用较高） |
-| 高级职业培训（FP Grado Superior） | 2年（约2000学时） | $1,000~$5,000（部分学校含实践，费用视学校而定） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years (approximately 1600 class hours) | $500~$3,000 (Public schools offer free or low tuition, while private schools charge higher fees) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (approximately 2,000 class hours) | $1,000~$5,000 (Some schools include practical courses, with fees depending on the school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Medio en Peluquería y Cosmética Capilar | 西班牙教育部 | 可选 | 从事理发师工作的最低学历要求，全国通用 |
-| 高级美容理发技师认证 | 各自治区政府 | 可选 | 部分自治区要求注册或执照，非全国强制 |
+| FP Medio en Peluquería y Cosmética Capilar | Spanish Ministry of Education | Optional | The minimum educational requirement for barbers is valid nationwide |
+| Certified Advanced Beauty Barber Technician | Governments of all autonomous regions | Optional | Some autonomous regions require registration or licenses, which are not nationwide mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。西班牙理发行业需求稳定，受人口老龄化和个人形象意识提升驱动，预计未来5年增速约5-8%。但自雇比例高，竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Demand for the barbering industry in Spain is stable, driven by an aging population and increased awareness of personal image, with an expected growth rate of about 5-8% over the next five years. However, the proportion of self-employed is high, and competition is fierce.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 多作为助理或学徒，薪资较低 |
-| 中级（3-7年） | $20,000~$28,000 | 可独立接单，底薪加提成 |
-| 高级（7年以上） | $28,000~$40,000 | 高级技师或店长，含客户提成 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$20,000 | Most work as assistants or apprentices, with lower salaries |
+| Mid-level (3–7 years) | $20,000~$28,000 | Can take orders independently, base salary plus commission |
+| Senior (7+ years) | $28,000~$40,000 | Senior technicians or store managers, including customer commissions |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从助理理发师→正式理发师→高级理发师→店长/连锁店区域经理→开设自有品牌沙龙。也可向染发师、造型师等细分领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly reduce demand for hairdressers and beauticians, as clients can use virtual try-ons, AI hairstyle recommendations, and other self-service tools for part of the consultation, while automated equipment (e.g., smart hair dye machines, nail printers) can replace basic operations, reducing reliance on entry-level practitioners.
+
+Career path: From assistant barber → formal barber → senior barber → store manager/chain regional manager→ to running a private label salon. You can also develop into specialized fields such as hair coloring or styling.
+
+**Tasks most exposed to AI:**
+
+- AI hair and makeup virtual try-on, customers preview effects via APP, reducing in-person consultation time
+- Automated hair dyeing devices (e.g., intelligent hair dye machines) precisely apply dye, replacing manual brushing.
+- Nail printers can automatically print complex patterns, replacing hand-painted nail artists
+- AI customer management system automatically schedules appointments, follow-ups, and promotions, replacing some administrative work of shop owners
+- Smart shampoo robot performs standard shampooing process, replacing basic shampooing positions
+
+**Where AI augments the role:**
+
+- AI analyzes client face shape, hair texture, and trends to assist designers in proposing personalized solutions
+- Virtual reality (VR) simulates final outcomes, reducing communication gaps and improving satisfaction.
+- After automation tools handle repetitive tasks, hairstylists can focus more on creative design and client relationship maintenance
+- AI inventory and appointment optimization systems improve salon operational efficiency, freeing up energy for high-value services.
+
+**Human moat:**
+
+- Complex hairstyle design and fine trimming require manual dexterity and creativity, difficult for AI to replicate
+- Client trust and emotional connection: providing psychological support, social companionship, and other irreplaceable interpersonal interactions
+- On-site real-time adjustment ability: flexible modification of styling based on client feedback, relying on human intuition and experience
+- Ethical responsibility: professional judgment on safety issues such as chemical use and scalp health
+
+**Skills to build:**
+
+- Operation and parameter adjustment of AI hairstyling tools (e.g., HairByAI, Style My Hair)
+- Basic programming and data analysis: using Python/Excel to optimize customer segmentation and marketing
+- Creative design and artistic appreciation ability: strengthen the uniqueness of non-standardized shapes
+- Customer psychology and communication skills: improve consultation conversion and customer loyalty
+- Social media and content creation: Use AI to generate short video tutorials to attract online customers
+- Cross-disciplinary knowledge: combine beauty and health (e.g., scalp care, nutrition) to provide comprehensive solutions
+
+**Key growth areas:**
 
 - Beauty Services
 - Personal Image
@@ -63,65 +97,67 @@ Provides haircutting, coloring, styling, and scalp care services. It is a core o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需雇主提供工作合同，且职位需满足劳动力市场测试，通常较难。 |
-| Subclass Cuenta propia（Self-Employment Visa） | 可自雇开设理发店，需提交商业计划书并证明投资能力。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Requires a job contract from the employer, and the position must meet the labour market test, which is usually difficult. |
+| Subclass Cuenta propia (Self-Employment Visa) | You can self-employ yourself to open a barbershop, but you need to submit a business plan and prove your investment capability. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hairdresser？**
-- 动手能力强，有创意和审美意识
-- 善于沟通，喜欢与人打交道
-- 能承受长时间站立和重复性工作
+**Who is suited**
+- Strong hands-on skills, creativity, and aesthetic awareness
+- Good at communication and enjoys interacting with people
+- Able to withstand long periods of standing and repetitive work
 
-**谁不适合学Hairdresser？**
-- 期望高薪或快速晋升者
-- 不喜直接面对客户或应对投诉者
+**Who is not suited**
+- Those expecting high salary or fast promotion
+- Dislikes directly facing customers or dealing with complaints
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for barbers in Spain?**
+A: Entry-level salary is about €15,000-20,000, intermediate salary about €20,000-28,000, and seniors up to €40,000, with commissions included.
+
+**Q: Can third-country citizens immigrate to Spain through barber careers?**
+A: It's very difficult. This occupation is not in short supply; employers must pass labor market tests to prove that they cannot recruit locals, and the academic qualifications must be certified (homologación). Self-employed immigration is another pathway, but requires sufficient funding.
+
+**Q: What career promotion paths are available for barbers?**
+A: You can rise from assistant to technician, then to store manager or develop specialties (such as hair dyeing and styling), or open branches or transition to trainer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Hairdresser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a hairdresser in Spain?**
-答：Entry-level annual salary is around €15,000-20,000, mid-level €20,000-28,000, senior up to €40,000, including commissions.
-
-**问：Can third-country nationals migrate to Spain as hairdressers?**
-答：Very difficult. The occupation is not in shortage, employers must pass a labor market test, and qualifications must be homologated. Self-employment visa is an alternative but requires sufficient funds.
-
-**问：What are the career advancement paths for hairdressers?**
-答：From assistant to stylist, then salon manager or specialist (color, styling). Can also open own branches or become a trainer.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

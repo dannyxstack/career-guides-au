@@ -1,60 +1,96 @@
-# Elected officers and representatives（Elected officers and representatives）职业分析 · UK
+# Elected officers and representatives — career analysis · United Kingdom
 
-**职业代码：1112 – Elected officers and representatives。**
+**Occupation code: 1112 (SOC)**
 
-Elected representatives in national and local government formulate and ratify legislation and policy, act as representatives in Parliament or local councils, and oversee government execution.
+Develop legislation and policy in national and local governments as an elected representative in parliament or local council, participate in regulation approval and enforcement, and represent voter interests.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$45,000（英国本地学费约9,250英镑/年，国际学生约30,000英镑/年） |
-| 研究生（政治学/公共政策） | 1年 | $12,000~$50,000（硕士学费本地约12,000-25,000，国际约20,000-50,000） |
+| Bachelor's degree | 3 years | $9,000~$45,000 (UK domestic tuition approximately £9,250/year, international students about £30,000/year) |
+| Postgraduate (political science/public policy) | 1 year | $12,000~$50,000 (Master's tuition: local approx. €12,000–25,000, international approx. €20,000–50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 政治学学士学位 | 英国大学 | 可选 | 常见背景，非强制 |
-| 刑法记录审查 | 英国背景核查服务 | 必备 | 部分职位要求正式无犯罪记录 |
+| Criminal record check | UK background check services | Required | Some positions require a formal police clearance certificate |
+| Bachelor's degree in Political Science | UK universities | Optional | Common background, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。英国政治体系稳定，但民选职位受选举周期影响，需求波动较大。未来十年老龄化社会可能增加政策制定需求，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The UK political system is stable, but elected positions are affected by election cycles, leading to significant demand fluctuations. An aging society over the next decade may increase demand for policymaking, but competition is fierce.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（地方议员） | $20,000~$35,000 | 地方议员津贴通常为实际薪资的补充，全职议员可达此范围 |
-| 中级（议员/下院议员） | $50,000~$80,000 | 英国下院议员基本年薪约84,000英镑（2024年） |
-| 高级（大臣/党派领袖） | $100,000~$200,000 | 内阁大臣年薪约150,000英镑，首相约200,000 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (local council member) | $20,000~$35,000 | Local councillor allowances are typically supplementary to actual salary, full-time councillors can reach this range |
+| Mid-level (Member of Parliament / Member of the House of Representatives). | $50,000~$80,000 | UK member of parliament basic annual salary approximately £84,000 (2024) |
+| Senior (Minister/Party Leader) | $100,000~$200,000 | Cabinet minister annual salary approx. £150,000, Prime Minister approx. £200,000 |
+| average salary | $37,420 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从地方议员晋升至议会或内阁职位，也可转向公共政策咨询、政府部门高级职务或国际组织。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The core of an elected official's work—policy-making, voter communication, and multi-party mediation—relies heavily on human judgment and trust, making it difficult for AI to replace; however, AI can greatly enhance efficiency in information analysis, policy simulation, and constituent relationship management, allowing officials to focus more on strategic decision-making.
+
+Can progress from local councillor to parliament or cabinet positions, or transition to public policy consulting, senior government roles, or international organizations.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard policy briefs and draft bills
+- Automated FAQ responses and data queries in voter communication
+- Automatic extraction of meeting minutes and key points
+- Initial generation of policy impact simulation reports
+- Social media content management and analysis
+
+**Where AI augments the role:**
+
+- Using AI to analyze voter data, pinpoint key issues and district needs
+- Quickly obtain policy research summaries and cross-domain knowledge via natural language processing
+- Using simulation tools to evaluate economic and social impacts of policy proposals
+- Use automated systems to track legislative progress and key voting records
+- Utilizing AI translation and multilingual assistants to serve diverse voter groups
+
+**Human moat:**
+
+- Make decisions on complex issues based on ethics and value judgments
+- Build trust and emotional connection with constituents
+- Mediate and build consensus among diverse stakeholder groups
+- Bears ultimate political responsibility for policy consequences
+- Demonstrate leadership and empathy in times of crisis
+
+**Skills to build:**
+
+- Data-driven policy analysis and visualization (e.g., Python/R, Tableau)
+- Application of AI tools in public administration (e.g., policy simulation software)
+- Voter Relationship Management (CRM) Systems and Digital Communication
+- Basic programming skills (e.g., Python automation)
+- Media literacy and ability to discern AI-generated content.
+- Public speaking and cross-cultural communication
+
+**Key growth areas:**
 
 - Policy development
 - Legislative process
@@ -63,65 +99,67 @@ Elected representatives in national and local government formulate and ratify le
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Global Talent（Global Talent Visa） | 适用于在政治或公共服务领域有杰出成就或潜力的申请人，需获得背书 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 理论上可担保，但民选职位不常见，需雇主担保并满足薪资要求 |
+| Subclass Global Talent (Global Talent Visa) | For applicants with outstanding achievements or potential in politics or public service, must obtain endorsement |
+| Subclass Skilled Worker (Skilled Worker Visa) | Theoretically possible to sponsor, but elected positions are uncommon; requires employer sponsorship and meeting salary requirements |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Elected officers and representatives？**
-- 有强烈公共政策兴趣和领导力的人
-- 擅长沟通和辩论的人
-- 愿为公众利益服务并能承受政治压力的人
+**Who is suited**
+- For those with strong interest in public policy and leadership
+- People who are good at communication and debate
+- Those willing to serve the public interest and can withstand political pressure
 
-**谁不适合学Elected officers and representatives？**
-- 不愿频繁竞选或面对公众批评的人
-- 追求高私密性工作的人
+**Who is not suited**
+- Those unwilling to frequently campaign or face public criticism.
+- People seeking high-privacy work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do elected officials earn?**
+A: Local councillor allowances are low (approx. £20,000-35,000); MP basic annual salary approx. £84,000; ministers can reach £150,000-200,000.
+
+**Q: Can foreigners become elected officials in the UK?**
+A: Non-British citizens cannot serve as MPs or local councillors but can work in political analysis or policy consulting via the Global Talent visa.
+
+**Q: How to enter politics?**
+A: Typically progress through party activities, serving as an assistant or local councillor; political science background helps but is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Elected officers and representatives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salaries for elected officers?**
-答：Local councillors receive allowances of around £20-35k, while MPs earn a base salary of ~£84k, and ministers can earn £100-200k.
-
-**问：Can foreigners become elected officers in the UK?**
-答：Non-UK citizens cannot be MPs or councillors, but may work in policy analysis or political research via Global Talent visa.
-
-**问：How to enter politics?**
-答：Typically through party activism, working as a staffer, or becoming a local councillor, with a political science background helpful but not required.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

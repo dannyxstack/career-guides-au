@@ -1,60 +1,96 @@
-# Ship's Officer（Ship's Officer）职业分析 · 澳大利亚
+# Ship's Officer — career analysis · Australia
 
-**职业代码：231214 – Ship's Officer。**
+**Occupation code: 231214 (ANZSCO)**
 
-Ship's Officers navigate vessels on sea or inland waters, ensuring safe passage, cargo handling, and crew management. They require skills in navigation, meteorology, communication, and ship operations, typically holding maritime certifications.
+Ship pilots are responsible for driving vessels in sea or inland waterways, ensuring navigation safety, cargo handling, and crew management. They need skills in navigation, meteorology, communication, and ship operation, typically holding maritime qualifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 海事学院专科或本科 | 3-4年 | $30,000~$60,000（包括学费、实习和考试费；政府可提供贷款） |
-| 船长/大副进阶课程 | 1-2年 | $15,000~$30,000（需持有低级证书并积累海上资历） |
+| Maritime college diploma or bachelor's degree | 3-4 years | $30,000~$60,000 (Includes tuition, internship, and exam fees; government loans may be available.) |
+| Ship Captain/Chief Mate Advanced Course | 1-2 years | $15,000~$30,000 (Requires holding a lower-level certificate and accumulating sea service) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 澳大利亚海事安全局（AMSA）适任证书 | AMSA | 必备 | 需完成认可课程并通过考试，分三副、二副、大副、船长等级 |
-| STCW 基本安全培训证书 | 认可培训机构 | 必备 | 包括个人求生、消防、急救等 |
-| 澳大利亚学历资格框架（AQF）海事文凭或学位 | TAFE或大学 | 可选 | 如Diploma of Maritime Operations或Bachelor of Maritime Studies |
-| AMSLA海事劳工公约培训 | AMSA | 必备 | 办理海员证所需 |
+| Australian Maritime Safety Authority (AMSA) Certificate of Competency | AMSA | Required | Must complete accredited course and pass exam, with levels: Third Officer, Second Officer, Chief Officer, Captain |
+| STCW Basic Safety Training Certificate | Registered Training Organisation (RTO) | Required | Including personal survival, firefighting, first aid, etc. |
+| AMSA Maritime Labour Convention training | AMSA | Required | Required for applying for a seafarer's certificate. |
+| Australian Qualifications Framework (AQF) Maritime Diploma or Degree. | TAFE or university | Optional | Such as Diploma of Maritime Operations or Bachelor of Maritime Studies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。澳大利亚航运业稳定发展，沿海贸易和资源出口需求支撑就业。偏远地区（如西澳、昆士兰）机会较多，但资历要求高。预计未来五年岗位小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Australia's shipping industry is stable, with coastal trade and resource exports supporting employment. More opportunities in remote areas (e.g., Western Australia, Queensland), but high qualification requirements. Expect slight job growth over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 通常为三副职位 |
-| 中级（4-9年） | $85,000~$110,000 | 二副或大副 |
-| 高级（10年+） | $120,000~$180,000 | 船长或大型船舶驾驶员 |
+| Median salary | $174,980 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$85,000 | Typically a Third Mate position |
+| Intermediate (4-9 years) | $85,000~$110,000 | Second officer or chief officer |
+| Senior (10+ years) | $120,000~$180,000 | Ship captain or large vessel operator |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级三副（Third Mate）逐步晋升为二副、大副，最终可考取船长（Master）资格。也可转向港口管理、海事安全或航运公司管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Progress from Junior Third Mate to Second Officer, Chief Officer, and eventually qualify as Master. Also possible to transition to port management, maritime safety, or shipping company management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Maritime trade
 - Coastal shipping
@@ -63,69 +99,68 @@ Ship's Officers navigate vessels on sea or inland waters, ensuring safe passage,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，提名职业在CSOL上，适用于有经验的船员 |
-| Subclass 186（Employer Nomination Scheme） | 雇主直接担保永居，需三年经验及职业评估 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居，需在CSOL上且获得州提名（如西澳、昆士兰） |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担临时签证，转191永居，适合愿意在偏远港口工作的人 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, nominated occupation on the CSOL, suitable for experienced crew members |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requires three years of experience and a skills assessment |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residence, must be on CSOL and nominated by a state (e.g., Western Australia, Queensland) |
+| Subclass 491 (Skilled Work Regional Visa) | Regional state nominated temporary visa, transition to 191 permanent; suitable for those willing to work in remote ports. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ship's Officer？**
-- 喜欢海上生活、能适应长时间离家的人
-- 动手能力强、重视安全规范的人
-- 想通过技术移民且愿意在偏远地区工作的人
-
-**谁不适合学Ship's Officer？**
-- 晕船或无法适应海上颠簸的人
-- 追求朝九晚五固定作息的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy life at sea and can adapt to long periods away from home
+- People with strong hands-on skills and respect for safety standards
+- People who want to migrate through skilled migration and are willing to work in regional areas
+
+**Who is not suited**
+- People prone to seasickness or unable to adapt to ocean motion
+- People seeking a fixed 9-to-5 routine
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for ship operators?**
+A: Entry-level (Third Mate) annual salary approx. $65,000–$85,000 AUD, mid-level (Second Mate/Chief Mate) $85,000–$110,000 AUD, senior (Captain) up to $120,000–$180,000 AUD. Deep-sea routes typically pay more than coastal.
+
+**Q: How can a ship's pilot settle in Australia through skilled migration?**
+A: Can pursue 482 employer sponsorship (need to find an Australian shipping company) or 190/491 state nomination (ship's officer on CSOL). Must pass AMSA skills assessment, hold a certificate of competency, and have IELTS 4 x 6.0 or above. More opportunities in regional areas like Western Australia.
+
+**Q: What certifications are needed to become a ship's pilot?**
+A: Must hold an AMSA-issued Certificate of Competency (at levels of Third Mate, Second Mate, Chief Mate, Master), and STCW Basic Safety Training certificate. Also need to complete maritime academy courses and accumulate sea service.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Ship's Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Ship's Officer?**
-答：Entry-level (Third Mate) earns AUD 65,000-85,000, mid-level (Second/Chief Mate) AUD 85,000-110,000, and senior (Master) AUD 120,000-180,000. Deep-sea routes pay more than coastal.
-
-**问：How can a Ship's Officer migrate to Australia?**
-答：Options include 482 employer sponsorship (need an Australian shipping company) or 190/491 state nomination (the occupation is on CSOL). Must pass AMSA skills assessment, hold a certificate of competency, and score IELTS 6.0. Regional areas like WA offer more opportunities.
-
-**问：What certifications are required to become a Ship's Officer?**
-答：You need an AMSA Certificate of Competency (various levels), STCW basic safety training, and a maritime qualification from a recognized institute. Sea service is also required.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

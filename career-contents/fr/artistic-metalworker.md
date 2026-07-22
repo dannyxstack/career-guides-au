@@ -1,60 +1,92 @@
-# Artistic Metalworker（Artistic Metalworker）职业分析 · FR
+# Artistic Metalworker — career analysis · France
 
-**职业代码：B1601 – Artistic Metalworker。**
+**Occupation code: B1601 (ROME)**
 
-Creates and restores artistic metalwork using forging, welding, and casting techniques to produce decorative items such as wrought iron gates, sculptures, and furniture.
+Engaged in metal art creation and restoration, including forging, welding, casting, and other crafts, and producing decorative metal products (such as wrought iron doors and windows, sculptures, furniture).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP艺术金属加工 | 2年（CAP） | —（公立学校免费，材料费约每年0-1500欧元） |
-| BTS艺术金属设计 | 2年（BTS） | —（公立学校免费，材料费约每年0-2000欧元） |
-| 学徒制（Apprentissage） | 2-3年 | —（带薪学习，学费由企业承担） |
+| CAP Art Metalworking | 2 years (CAP) | $0~$1,500 (Public schools are free, with material fees ranging from 0 to 1500 euros per year) |
+| BTS Art Metal Design | 2 Years (BTS) | $0~$2,000 (Public schools are free, with material fees ranging from 0 to 2000 euros per year) |
+| Apprentissage | 2-3 years | $0~$0 (Paid learning, with tuition covered by the company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP艺术金属加工 | 法国教育部 | 必备 | 基础从业资格，必备学历 |
-| BTS艺术金属设计 | 法国教育部 | 可选 | 高级文凭，提升设计与管理能力 |
-| 法国手工业者资格认证（CMA） | 法国手工业商会 | 必备 | 独立开业或成为工匠必备 |
+| CAP Art Metalworking | French Ministry of Education | Required | Basic professional qualifications, with academic qualifications required |
+| French Certified Artisans (CMA) | French Chamber of Crafts | Required | Essential for starting your own business or becoming a craftsman |
+| BTS Art Metal Design | French Ministry of Education | Optional | Advanced diplomas to enhance design and management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏高（★★★½☆）。** 全国从业人数约 6,000。法国建筑与文化遗产修复市场稳定，对高端定制金属艺术品需求持续。受限于手工技能稀缺，岗位竞争中等，但专业工匠缺口明显。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 6,000. The French architecture and cultural heritage restoration market is stable, with sustained demand for high-end custom metal artworks. Due to the scarcity of handicraft skills, competition for positions is moderate, but there is a significant shortage of skilled craftsmen.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒补贴 |
-| 中级（4-8年） | $30,000~$38,000 | 税前年薪，熟练工匠 |
-| 高级（9年以上） | $40,000~$55,000 | 税前年薪，包括大师级或工作室主理人 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprentice subsidies |
+| Mid-level (4–8 years) | $30,000~$38,000 | Pre-tax annual salary, skilled craftsman |
+| Senior (9+ years) | $40,000~$55,000 | Pre-tax annual salary, including master-level or studio owners |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定有增长（★★★½☆）。** 从学徒成长为独立工匠，可晋升为工作室主管或创办个人品牌。部分转向文化遗产修复、高级定制或教学培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace manual design, marketing, and documentation tasks in handcrafting, but also enhances creative exploration and personalized customization capabilities, requiring artisans to shift toward high-creativity and high-tactile fields.
+
+Growing from apprenticeship to independent craftsmanship can lead to promotion to studio supervisor or to start a personal brand. Some shifted toward cultural heritage restoration, haute changing, or teaching training.
+
+**Tasks most exposed to AI:**
+
+- Use software to generate standardized product or pattern design drafts
+- Write product descriptions, marketing copy, and social media content.
+- Clerical work managing inventory, orders, and customer records
+- Conduct basic market trend analysis to guide creative direction
+
+**Where AI augments the role:**
+
+- Using generative AI to explore new materials, shapes, and process combinations.
+- Achieve highly personalized customization by analyzing customer preference data through AI
+- Use AI-assisted tools to optimize mathematical models for intricate carving or inlay work
+
+**Human moat:**
+
+- High-level craftsmanship and tactile material experience
+- Original artistic aesthetics and cultural narrative ability
+- Impromptu customer communication and understanding of customised needs
+- Deep restoration and heritage skills for traditional crafts
+
+**Skills to build:**
+
+- Using AI design tools (e.g., Midjourney, Stable Diffusion) for creative iteration
+- Learn digital modeling and 3D printing-assisted production techniques
+- Social media and personal branding management skills
+- Customer experience design and personalized service capability
+- Knowledge of composite materials and sustainable processes
+- Basic data analysis and pricing strategy
+
+**Key growth areas:**
 
 - Artisan
 - Heritage Restoration
@@ -63,68 +95,67 @@ Creates and restores artistic metalwork using forging, welding, and casting tech
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如艺术家、工匠，需提供项目计划或雇主担保，有效期4年。 |
-| Subclass Salarié（Work Permit (Salarié)） | 受雇于法国企业的工作居留，需公司担保，年薪不低于法国最低工资1.5倍。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需高薪（通常≥53,000欧元）及合同，适合高级工匠。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents such as artists and craftsmen, requiring a project plan or employer sponsorship, valid for 4 years. |
+| Subclass Salarié (Work Permit (Salarié)) | For work residence employed by a French company, a company guarantee is required, and the annual salary must be no less than 1.5 times the French minimum wage. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires a high salary (usually ≥€53,000) and a contract, suitable for senior craftsmen. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Artistic Metalworker？**
-- 喜欢手工艺术，有耐心和创造力的人
-- 有志于从事文化遗产修复或高端定制行业
-- 愿意通过学徒制学习并深耕某一技能
-
-**谁不适合学Artistic Metalworker？**
-- 追求快速高薪或办公室工作
-- 对重复性体力劳动不耐受
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handicrafts, are patient, and creative
+- Aspiring to engage in cultural heritage restoration or high-end customization industries
+- Willing to learn and deeply develop a particular skill through apprenticeships
+
+**Who is not suited**
+- Seeking fast, high-paying jobs or office jobs
+- Intolerant of repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an art metal craftsman in France?**
+A: Junior craftsmen earn about 22,000-28,000 euros annually, intermediate workers 30,000-38,000 euros, and senior craftsmen up to 55,000 euros. Independent craftsmen's income fluctuates greatly.
+
+**Q: How do foreign art metal craftsmen immigrate to France?**
+A: You can use the Passeport Talent visa (project/employer required) or Salarié work residence (company sponsorship). EU citizens are visa-free.
+
+**Q: Does this occupation have promotion opportunities?**
+A: You can be promoted to studio director, independent master, or move to cultural heritage restoration. You can also start a business and set up your own workshop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定有增长（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Artistic Metalworker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an artistic metalworker in France?**
-答：Entry-level annual salary ranges from €22,000 to €28,000, mid-level from €30,000 to €38,000, and senior up to €55,000. Self-employed income varies.
-
-**问：How can a foreign artistic metalworker immigrate to France?**
-答：Via the Talent Passport (requires project/employer) or Salarié work permit (company sponsor). EU citizens need no visa.
-
-**问：Is there room for career advancement?**
-答：Yes, you can advance to workshop supervisor, master craftsman, heritage restoration specialist, or start your own workshop.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

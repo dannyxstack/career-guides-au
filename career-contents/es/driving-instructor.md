@@ -1,61 +1,97 @@
-# Driving Instructor（Driving Instructor）职业分析 · ES
+# Driving Instructor — career analysis · Spain
 
-**职业代码：5894 – Driving Instructor。**
+**Occupation code: 5894 (CNO)**
 
-Teaches students the theoretical knowledge and practical driving skills for motor vehicles, preparing them to pass driving tests and obtain a driving license.
+Responsible for teaching students theoretical knowledge and practical driving skills for driving automobiles, motorcycles, and other motor vehicles, helping students pass the driving test and obtain their driver's license.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 无特定学历要求 | —（需完成驾驶教练官方课程（约500-1000欧元）） |
-| FP（职业培训）中级/高级 | 1-2年 | $500~$2,000（部分驾校提供相关培训） |
+| High school graduation or equivalent | No specific educational requirements | $0~$0 (Completion of official driving instructor courses (approximately 500-1000 euros) is required.) |
+| FP (Vocational Training) Intermediate/Advanced | 1-2 years | $500~$2,000 (Some driving schools offer related training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶教练证书（C.A.P.） | 交通总局（DGT） | 必备 | 必须通过官方考试获得 |
-| 驾驶执照（B类及以上） | DGT | 必备 | 至少持有2年以上 |
-| 无犯罪记录证明 | 司法部 | 必备 | 用于背景审查 |
+| Driving Instructor Certificate (C.A.P.) | Directorate General of Transportation (DGT) | Required | You must pass an official exam |
+| Driver's license (Class B and above) | DGT | Required | Hold at least 2 years |
+| Police clearance certificate | Department of Justice. | Required | Used for background checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙驾校教练需求稳定，随着人口老龄化与新驾驶员培训需求常态化，就业机会保持平稳。但该职业受到交通法规变化和自动驾驶技术发展的长期影响，未来增长空间有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand for Spanish driving school instructors remains stable, and with an aging population and normalized need for new driver training, employment opportunities remain stable. However, this profession is subject to long-term impacts from changes in traffic regulations and the development of autonomous driving technology, with limited room for future growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 多为兼职或按课时计酬 |
-| 中级（3-7年） | $20,000~$26,000 | 全职，含提成 |
-| 高级（7年以上） | $26,000~$35,000 | 驾校主管或自营驾校 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Mostly part-time or paid by class hours |
+| Mid-level (3–7 years) | $20,000~$26,000 | Full-time, including commission |
+| Senior (7+ years) | $26,000~$35,000 | Driving school supervisors or self-operated driving schools |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 通常从获得高级驾驶执照和教学经验开始，可晋升为驾校主管或自营驾校。也可转向驾驶员安全培训、物流运输培训等相关领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI is not a threat but a magnifying glass: the core value of driving instructors (safety judgment, emotional guidance, risk assessment) will not be automated. Instead, AI simulators, student data analysis, and smart scheduling systems can greatly improve teaching efficiency, freeing instructors from repetitive tasks to focus on high-value guidance.
+
+Typically, you start by obtaining a senior driver's license and gaining teaching experience, and can be promoted to driving school supervisor or self-operated driving school. It can also be expanded into driver safety training, logistics and transportation training, and related fields.
+
+**Tasks most exposed to AI:**
+
+- Basic traffic rules explanation and question bank practice
+- Simple driving operation demonstrations (AI simulators can fully replace)
+- Lesson booking and schedule management
+- Student progress tracking and report generation
+- Road test route memorization and standard demonstration
+
+**Where AI augments the role:**
+
+- Using AI Simulators to Teach High-Risk Scenarios in a Safe Environment (e.g. Emergency Braking, Wet Roads)
+- Use student error data analysis to personalize training plans
+- Real-time feedback via cameras and sensors to precisely correct student movements
+- Use VR/AR technology to provide immersive traffic simulation, improving judgment
+- AI-assisted marketing and client management to enhance self-employed coach business efficiency
+
+**Human moat:**
+
+- Real-time judgment and teaching adjustment in dangerous situations (e.g., student sudden panic)
+- Calming students' nerves, building trust and confidence
+- Personalized teaching style and communication skills
+- Tacit knowledge of local driving culture and examiner preferences
+- Legal liability and safety monitoring (instructors responsible for vehicle and student safety)
+
+**Skills to build:**
+
+- Operation and course design of AI driving simulators
+- Data analysis basics (interpreting student performance data and optimizing training)
+- Digital marketing and social media client acquisition skills
+- Application and development of VR/AR teaching tools
+- Emotional intelligence and risk communication enhancement
+- Small business management (finance, scheduling software)
+
+**Key growth areas:**
 
 - Demand stable
 - Aging population
@@ -64,65 +100,67 @@ Teaches students the theoretical knowledge and practical driving skills for moto
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需有西班牙雇主担保，证明职位无法由本地人填补，通过劳动市场测试。 |
-| Subclass Cuenta propia（Self-Employed Work Permit） | 自营驾校需证明投资计划及经济能力，难度较大。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Requires a Spanish employer sponsor; must prove the position cannot be filled by a local candidate, and pass a labor market test. |
+| Subclass Cuenta propia (Self-Employed Work Permit) | Self-operated driving schools require proof of investment plans and financial capability, which is quite challenging. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Driving Instructor？**
-- 喜欢与人沟通、有耐心、善于教学的人
-- 对驾驶技术有自信且安全驾驶记录良好的人
-- 希望工作时间灵活、不追求高薪的从业者
+**Who is suited**
+- People who enjoy communicating, are patient, and good at teaching
+- Confident in driving skills and with a good record of safe driving
+- Professionals who want flexible working hours and do not pursue high salaries
 
-**谁不适合学Driving Instructor？**
-- 英语或其他外语水平较低，无法应对移民审核的求职者
-- 对收入增长有较高期望的人
+**Who is not suited**
+- Applicants with lower English or other foreign language proficiency who cannot handle immigration screening
+- People with higher expectations for income growth
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of Spanish driving school instructors?**
+A: Entry-level coach annual salary approx. €16,000-20,000, senior or self-employed can reach €35,000, income directly related to teaching hours.
+
+**Q: Can a foreign driver's license be directly exchanged for a Spanish driver's license?**
+A: EU driver's licenses can be directly swapped; Non-EU driver's licenses require passing both theoretical and practical exams; some countries may exempt certain subjects.
+
+**Q: What immigration pathways are available for foreigners to become driving school instructors in Spain?**
+A: Mainly through Employed Work Residency (Cuenta ajena), which requires employer sponsorship and passes labor market tests. Self-employed immigration is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Driving Instructor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of driving instructors in Spain?**
-答：Entry-level instructors earn around €16,000-20,000 per year, while experienced or self-employed instructors can earn up to €35,000, depending on teaching hours.
-
-**问：Can a foreign driving license be exchanged for a Spanish one?**
-答：EU licenses are exchangeable; non-EU licenses require passing theory and practical tests, with some exemptions for certain countries.
-
-**问：What migration pathways are available for foreigners to become driving instructors in Spain?**
-答：The main pathway is an employed work permit (Cuenta ajena) requiring a job offer and labor market test. Self-employment is more difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

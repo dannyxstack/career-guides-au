@@ -1,60 +1,94 @@
-# Practitioner of Natural Medicine and Homeopathy（Practitioner of Natural Medicine and Homeopathy）职业分析 · DE
+# Practitioner of Natural Medicine and Homeopathy — career analysis · Germany
 
-**职业代码：8175 – Practitioner of Natural Medicine and Homeopathy。**
+**Occupation code: 8175 (KldB)**
 
-A regulated profession in Germany involving diagnosis, treatment, and prevention of diseases using natural remedies and homeopathy, governed by the Heilpraktikergesetz.
+Professional occupation in naturopathy and homeopathy in Germany, including diagnosis, treatment, and disease prevention using natural remedies and homeopathy, regulated by the Naturopath Act.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制（双元制） | 3-4年 | —（部分学校收费，双元制企业承担部分费用） |
-| 继续教育课程 | 2-3年 | $5,000~$20,000（私立学校，费用差异大） |
+| Apprenticeship (dual system) | 3-4 years | $0~$5,000 (Some schools charge fees, dual-system companies bear part of the costs) |
+| Continuing education courses | 2-3 years | $5,000~$20,000 (Private schools, fees vary widely.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自然疗法师执业许可 | 各州卫生局 | 必备 | 通过 Heilpraktikerprüfung 考试后颁发，受规管职业 |
-| 顺势疗法认证 | 德国顺势疗法医师协会 (DZVhÄ) | 可选 | 专业认证，非强制但利于执业 |
+| Naturopath practice license | State health departments | Required | Issued after passing the Heilpraktikerprüfung, regulated profession |
+| Homeopathy Certification | German Association of Homeopathic Physicians (DZVhÄ) | Optional | Professional certification, not mandatory but beneficial for practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。德国对自然疗法的需求持续增长，尤其在替代医学和预防保健领域。该职业从业者相对稀缺，但需通过严格的州级考试（Heilpraktikerprüfung）获得执业许可。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand for naturopathy in Germany continues to grow, especially in alternative medicine and preventive healthcare. Practitioners in this field are relatively scarce, but must pass a stringent state exam (Heilpraktikerprüfung) to obtain a license.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 多为自雇，收入不稳定 |
-| 中级（4-10年） | $35,000~$50,000 | 自雇或诊所工作 |
-| 高级（10年以上） | $50,000~$80,000 | 资深自雇或经营多家诊所 |
+| Median salary | $42,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Mostly self-employed, unstable income |
+| Mid-level (4-10 years). | $35,000~$50,000 | Self-employment or clinic work. |
+| Senior (10+ years) | $50,000~$80,000 | Senior self-employed or running multiple clinics |
+| average salary | $44,076 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者通常先完成 Ausbildung 或相关学位，通过国家考试后独立执业。经验丰富者可开设诊所、教学或担任顾问，部分进入研究机构。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Naturopaths face moderate replacement risk from AI-assisted diagnostic tools, but core personalised treatment, palpation, and trust relationships are hard to automate, with a mixed overall impact.
+
+Practitioners typically complete an Ausbildung or relevant degree, pass state exams, then practice independently. Experienced individuals may open clinics, teach, or serve as consultants, with some entering research institutions.
+
+**Tasks most exposed to AI:**
+
+- Initial consultation and triage based on symptom databases.
+- Homeopathic remedy compounding and dosage calculation
+- Patient health records and case document management
+- Basic nutrition and lifestyle advice generation
+- Common herbal interaction check
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient biomarkers and symptom patterns to assist precise personalized prescriptions
+- Quickly search latest clinical research using NLP tools to enhance evidence-based naturopathy practice
+- Monitor treatment effects using wearable device data and dynamically adjust treatment plans
+- AI-driven generation of patient education materials to enhance compliance
+
+**Human moat:**
+
+- Building long-term trust and empathy (therapeutic touch and listening)
+- Holistic assessment of mind, body, and spirit combining intuition and clinical judgment
+- Prescription rights and independent diagnostic authority granted by law (Germany: Heilpraktiker)
+- Address psychosocial factors in complex chronic diseases
+
+**Skills to build:**
+
+- Basic natural language processing tool applications (e.g. ChatGPT-assisted medical diagnosis)
+- Biomedical data interpretation (e.g., wearable device reports)
+- Operation and validation of AI-assisted diagnostic systems
+- Integrative medical knowledge (cutting-edge research in evidence-based naturopathy)
+- Digital health ethics and patient privacy protection.
+- Basic statistical analysis to evaluate the reliability of AI recommendations.
+
+**Key growth areas:**
 
 - Alternative Medicine
 - Preventive Healthcare
@@ -63,70 +97,69 @@ A regulated profession in Germany involving diagnosis, treatment, and prevention
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且薪资达阈值的从业者，但该职业通常不满足条件 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需联邦劳工局批准，可能受限 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，可来德寻找工作或资格认证 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月签证，用于寻找工作并完成资质认证 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to practitioners with high education and salary meeting the threshold, but this occupation usually does not meet the conditions. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires approval from the Federal Labor Office, may be restricted |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allows coming to Germany for job search or qualification recognition |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month visa to search for work and complete qualification certification. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Practitioner of Natural Medicine and Homeopathy？**
-- 对自然医学和替代疗法有浓厚兴趣者
-- 能够通过严格国家考试者
-- 愿意自雇并管理业务者
-
-**谁不适合学Practitioner of Natural Medicine and Homeopathy？**
-- 偏好稳定薪水和工作安排者
-- 对严苛考试准备不足者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in natural medicine and alternative therapies
+- Those able to pass rigorous national examinations
+- Those willing to be self-employed and manage a business
+
+**Who is not suited**
+- Those who prefer stable salary and work arrangements
+- Those not prepared for rigorous exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of naturopaths in Germany?**
+A: Entry-level pre-tax annual salary approx. EUR 25,000–35,000, senior experienced can exceed EUR 50,000, but self-employment costs and volatility must be considered.
+
+**Q: How can foreigners become naturopaths in Germany?**
+A: Requires strict qualification recognition, recognition of overseas degree or extra training, and passing national exam (Heilpraktikerprüfung). Visa can be via skilled migration or opportunity card.
+
+**Q: How difficult is the naturopath exam?**
+A: The exam is rigorous, with a pass rate of about 50%, covering medical, legal, and ethical knowledge. Systematic preparation is required, typically taking 2-3 years of study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Practitioner of Natural Medicine and Homeopathy为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a natural medicine practitioner in Germany?**
-答：Entry-level earns around €25,000–35,000 gross annually, while experienced practitioners can exceed €50,000, but income may fluctuate due to self-employment.
-
-**问：How can a foreigner become a natural medicine practitioner in Germany?**
-答：Foreign qualifications must be recognized, followed by additional training and passing the state exam (Heilpraktikerprüfung). Visa options include Skilled Worker or Opportunity Card.
-
-**问：How difficult is the Heilpraktiker exam?**
-答：The exam is rigorous with a pass rate of about 50%, covering medical, legal, and ethical knowledge. Systematic preparation over 2–3 years is typical.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

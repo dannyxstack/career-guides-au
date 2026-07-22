@@ -1,60 +1,96 @@
-# Hotel or Motel Receptionist（Hotel or Motel Receptionist）职业分析 · 澳大利亚
+# Hotel or Motel Receptionist — career analysis · Australia
 
-**职业代码：542113 – Hotel or Motel Receptionist。**
+**Occupation code: 542113 (ANZSCO)**
 
-Greet guests, check in/out, handle reservations, and provide information at hotel or motel reception desks.
+Greet guests at the front desk of a hotel or motel, handle check-in and check-out, provide information and reservation services.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常无需高等教育） |
-| 酒店管理证书 | 6个月 | $2,000~$5,000（可选证书提升竞争力） |
+| High school graduation | 0 years | $0~$0 (Usually no higher education required) |
+| Hotel management certificate | 6 months. | $2,000~$5,000 (Optional certifications to enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| SIT30622 酒店管理三级证书 | TAFE或注册培训机构 | 可选 | 提升求职优势 |
-| 在职培训 | 雇主 | 可选 | 常见入职培训 |
+| SIT30622 Certificate III in Hospitality | TAFE or registered training organizations | Optional | Enhance job-seeking advantage |
+| On-the-job training | Employer | Optional | Common Onboarding Training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 42,000。旅游业复苏带动就业增长，但岗位竞争中等。预计未来5年增长约5%，主要依赖酒店业需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 42,000. Tourism recovery drives job growth, but competition is moderate. Expected growth of about 5% over the next 5 years, mainly depending on hotel demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 按 award 薪酬 |
-| 中级（3-5年） | $55,000~$65,000 | 含经验加成 |
-| 高级（5年以上/主管） | $65,000~$75,000 | 管理岗位 |
+| Median salary | $63,908 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Award wages |
+| Mid-level (3–5 years) | $55,000~$65,000 | Includes experience bonuses. |
+| Senior (5+ years / supervisor) | $65,000~$75,000 | Management positions |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从接待员晋升为前台主管、值班经理，或转向预订、销售部门。需积累客户服务和管理经验。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Can progress from receptionist to front desk supervisor, duty manager, or move to reservations or sales departments. Requires accumulating customer service and management experience.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Tourism recovery
 - Hotel expansion
@@ -63,65 +99,67 @@ Greet guests, check in/out, handle reservations, and provide information at hote
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 通常不符合，除非高级管理岗 |
-| Subclass 190（Skilled Nominated） | 仅特定州担保酒店经理，接待员不行 |
+| Subclass 482 (Temporary Skill Shortage) | Usually not eligible, unless a senior management position. |
+| Subclass 190 (Skilled Nominated) | Only specific states sponsor hotel managers, not receptionists |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hotel or Motel Receptionist？**
-- 热情友善，善于沟通者
-- 喜欢旅游行业和与人打交道者
-- 愿意从基础岗位做起并逐步晋升者
+**Who is suited**
+- Warm, friendly, and good at communication
+- People who like the tourism industry and interacting with others
+- Willing to start from entry-level positions and gradually advance
 
-**谁不适合学Hotel or Motel Receptionist？**
-- 不喜欢夜班或周末工作的人
-- 追求高薪或快速移民的人
+**Who is not suited**
+- People who dislike night shifts or weekend work
+- Those seeking high salary or fast immigration.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a hotel front desk receptionist?**
+A: Entry-level annual salary approx. A$45,000-55,000, intermediate approx. A$55,000-65,000, senior supervisor up to A$75,000. Typically paid according to industry award.
+
+**Q: Can a hotel front desk receptionist immigrate to Australia?**
+A: This occupation is not on the skilled occupation list and can hardly obtain permanent residence through skilled migration pathways. Only promotion to management roles like hotel manager may make it possible.
+
+**Q: What are the promotion prospects for this occupation?**
+A: Can advance from receptionist to front desk supervisor, duty manager, or transfer to reservations/sales. Typically requires 2-3 years of experience and additional training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hotel or Motel Receptionist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a hotel receptionist?**
-答：Entry-level salary is around AUD 45,000-55,000, mid-level AUD 55,000-65,000, and senior/supervisor up to AUD 75,000, typically under industry award.
-
-**问：Can a hotel receptionist immigrate to Australia?**
-答：This occupation is not on the skilled occupation list, so skilled migration is nearly impossible. Only after promotion to management roles like hotel manager may it become possible.
-
-**问：What are the career prospects?**
-答：You can advance to front desk supervisor, duty manager, or move to reservations/sales. Usually requires 2-3 years experience and additional training.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

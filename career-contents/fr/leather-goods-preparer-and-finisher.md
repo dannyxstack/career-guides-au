@@ -1,60 +1,96 @@
-# Leather Goods Preparer and Finisher（Leather Goods Preparer and Finisher）职业分析 · FR
+# Leather Goods Preparer and Finisher — career analysis · France
 
-**职业代码：H2414 – Leather Goods Preparer and Finisher。**
+**Occupation code: H2414 (ROME)**
 
-Professionals cut, sew, sand, color, and finish leather goods such as bags, shoes, and belts. Work is done in workshops or factories, requiring manual skills and knowledge of materials.
+Professionals are engaged in cutting, sewing, sanding, coloring, and fine processing of leather products, including bags, shoes, belts, and other products. Work is done in workshops or factories and requires manual skills and knowledge of materials.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中学历后 | 2年（CAP） | —（公立学校免学费，仅注册费） |
-| 高中后 | 2年（Bac Pro） | —（公立学校免学费，可申请学徒制有收入） |
+| After finishing junior high school | 2 years (CAP) | $0~$500 (Public schools offer no tuition, only a registration fee) |
+| Post-high school | 2 years (Bac Pro) | $0~$1,000 (Public schools offer tuition-free admission, and apprenticeships can be applied for with income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 皮革制品 | 法国教育部 | 必备 | 基础职业文凭，必备 |
-| Bac Pro 皮革制品 | 法国教育部 | 可选 | 高级职业文凭，可替代CAP |
+| CAP leather goods | French Ministry of Education | Required | Basic vocational diploma, essential |
+| Bac Pro leather goods | French Ministry of Education | Optional | Advanced Professional Diploma, which can replace CAP |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国皮革制品行业受到高端品牌和手工艺复兴的支撑，就业稳定。岗位多集中在中小企业，但自动化威胁较低，手工技能需求持续。巴黎和卢瓦尔地区有较多机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The French leather goods industry is supported by a revival of high-end brands and craftsmanship, with stable employment. Most positions are concentrated in small and medium-sized enterprises, but automation threats are low, and demand for manual skills remains strong. There are more opportunities in Paris and the Loire region.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Annual pre-tax salary |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从小工或学徒起步，晋升为高级技师、工坊主管，或自主创业开设定制皮革工坊。需持续学习新技术，参加职业培训（如CFA）提升等级。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The job structure of leather product preparation and finishing technicians is mixed: standardized cutting and polishing processes are easily replaced by automation, but capabilities in customized craftsmanship, quality control, and creative restoration still have strong advantages; AI tools can assist in design, inspection, and training, improving efficiency and accuracy.
+
+You can start as a novice worker or apprentice, advance to senior technician, workshop supervisor, or start your own custom leather workshop. Continuous learning of new technologies and participation in vocational training (such as CFA) to improve their ranks are required.
+
+**Tasks most exposed to AI:**
+
+- Uses CNC equipment to automatically cut leather, reducing manual marking and cutting
+- Automated sanding and polishing of leather edges, replacing manual sandpaper sanding
+- AI vision systems detect surface defects in leather, replacing manual visual inspection
+- Automated spraying and coloring equipment provides uniform coating, replacing manual brushing
+- Standardized sewing processes such as edging and straight stitching are completed by robots
+
+**Where AI augments the role:**
+
+- AI-assisted design software optimizes leather layout, reducing waste and increasing yield
+- AR/VR technology simulates dyeing effects and sewing, reducing trial and error costs
+- Smart sensors monitor leather moisture and tension, assisting in adjusting processing techniques
+- The AI quality analysis system provides real-time feedback on defect types and guides on refine operations
+- Digital twin simulates workshop workflows, assisting technicians in planning multi-process collaboration
+
+**Human moat:**
+
+- Creative design and hand-carved and embossed art of high-value custom products
+- Empirical judgment and remedies for handling rare or naturally defective leather
+- Three-dimensional shaping and assembly feel for complex irregular parts
+- The ability to communicate directly with high-end brand clients and understand their aesthetic needs
+- Knowledge of traditional handicrafts (such as vegetable tanning care, antique restoration)
+
+**Skills to build:**
+
+- Operate and program CNC cutting machines and automatic spraying equipment
+- Using AI typesetting and CAD design software (such as Optitex, Lectra)
+- Data interpretation and quality analysis (defect pattern recognition, process parameter optimization)
+- Basic programming (Python) is designed to customize simple automated scripts
+- Learn about sustainable leather production and the characteristics of new materials (such as mycelium leather).
+- Cross-media communication (AR displays, digital brochure production)
+
+**Key growth areas:**
 
 - Handcraft revival
 - Luxury goods
@@ -63,65 +99,67 @@ Professionals cut, sew, sand, color, and finish leather goods such as bags, shoe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明岗位无法找到合适欧盟候选人。 |
-| Subclass Passeport Talent（Talent Passport） | 如具备卓越技能或高学历，可通过人才护照申请。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that no suitable EU candidate can be found for the position. |
+| Subclass Passeport Talent (Talent Passport) | Those with outstanding skills or high academic qualifications can apply through the Talent Passport. |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leather Goods Preparer and Finisher？**
-- 喜欢手工制作、注重细节的人
-- 愿意通过学徒制积累经验的人
-- 对时尚和奢侈品行业有兴趣的人
+**Who is suited**
+- Enjoys handcrafting and pays attention to detail
+- Those willing to gain experience through apprenticeships
+- People interested in the fashion and luxury industries
 
-**谁不适合学Leather Goods Preparer and Finisher？**
-- 对重复性手工工作缺乏耐心的人
-- 期望快速获得高收入的人
+**Who is not suited**
+- Those impatient with repetitive manual work
+- People who expect to earn a high income quickly
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for leather goods technicians?**
+A: The pre-tax annual salary for junior technicians is about 22,000-26,000 euros, while senior technicians can reach 32,000-40,000 euros. Salary depends on skills, experience, and the size of the business.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: It is more challenging because this profession is not in short supply and requires a French-speaking working environment. Salarié residency can be applied for through employers, but it must prove that EU citizens are not being recruited. The talent passport is available for highly skilled individuals.
+
+**Q: What diplomas or certifications are required?**
+A: Typically, a CAP diploma in leather goods or Bac Pro is required. Apprenticeships are a common pathway. There is no mandatory professional certification, but diplomas are crucial for employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Leather Goods Preparer and Finisher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for leather goods preparers?**
-答：Entry-level gross annual salary is about €22,000-26,000, while senior technicians can reach €32,000-40,000. Salary depends on skills, experience, and company size.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：It is difficult because this occupation is not in shortage and requires French language. Employer-sponsored Salarié permit is possible if no EU candidate is available. Talent Passport is for high-skilled workers.
-
-**问：What diplomas or certifications are required?**
-答：Usually CAP in leather goods or Bac Pro. Apprenticeship is common. No mandatory professional certification, but a diploma is crucial for employment.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

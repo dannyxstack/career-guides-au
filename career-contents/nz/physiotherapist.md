@@ -1,59 +1,95 @@
-# Physiotherapist（Physiotherapist）职业分析 · 新西兰
+# Physiotherapist — career analysis · New Zealand
 
-**职业代码：252511 – Physiotherapist。**
+**Occupation code: 252511 (ANZSCO)**
 
-Physiotherapist in New Zealand is a shortage occupation, ANZSCO 252511, eligible for Green List Tier 2 work-to-residence and Skilled Migrant Category. Requires a recognized 4-year bachelor or master degree, registration with the Physiotherapy Board of New Zealand, and English proficiency. Median salary around NZD 75,000, with high demand driven by aging population.
+Physiotherapist is a shortage occupation in New Zealand, ANZSCO 252511, eligible for residency via Green List T2 or Skilled Migrant Category (SMC). Requires a NZ-recognized 4-year bachelor's or master's degree, registration with the Physiotherapy Board of New Zealand, and meeting English requirements. Median salary approx. 75,000 NZD, demand driven by aging population.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $55,000~$65,000（奥塔哥大学、奥克兰理工大学等学费） |
-| 研究生文凭/硕士（适合转行） | 2年 | $60,000~$70,000（需先修相关科学背景） |
+| Bachelor's degree | 4 years | $55,000~$65,000 (Tuition fees at University of Otago, Auckland University of Technology, etc.) |
+| Graduate diploma/master's (suitable for career changers). | 2 years | $60,000~$70,000 (Must complete relevant science background prerequisites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰物理治疗委员会注册 | Physiotherapy Board of New Zealand | 必备 | 必须注册才能执业 |
-| 英语考试（雅思4个7或等同） | IELTS/OET/PTE/托福 | 必备 | 非英语国家学历需提供 |
-| APC考试（针对海外学历） | Physiotherapy Board | 必备 | 海外学历需通过能力评估 |
+| Registration with the Physiotherapy Board of New Zealand | Physiotherapy Board of New Zealand | Required | Must be registered to practice |
+| English test (IELTS 4x7 or equivalent) | IELTS/OET/PTE/TOEFL | Required | Non-English country qualifications need to be provided |
+| APC examination (for overseas qualifications) | Physiotherapy Board | Required | Overseas qualifications require skills assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,000。政府预测未来十年物理治疗师需求持续增长，因老龄化人口增加、慢性病管理及运动康复需求上升。工作机会主要在大城市和区域医院，社区和私人诊所需求也旺。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. Government forecasts continued growth in demand for physical therapists over the next decade due to aging population, chronic disease management, and sports rehabilitation needs. Job opportunities mainly in large cities and regional hospitals, with strong demand in community and private clinics as well.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 公立医院系统标准 |
-| 中级（3-7年） | $70,000~$85,000 | 有经验私人诊所或医院 |
-| 高级/专科（7年以上） | $90,000~$110,000 | 专家或管理岗位，私人执业更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Public hospital system standards |
+| Mid-level (3–7 years) | $70,000~$85,000 | Experienced private clinics or hospitals |
+| Advanced/Specialist (7+ years) | $90,000~$110,000 | Specialist or management roles, higher in private practice |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级物理治疗师可在医院、诊所积累经验，3-5年后可升为高级治疗师或专科（如神经、骨科康复）。也可转向管理、教育或私人执业，收入随经验增加。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
+
+Entry-level physiotherapists can gain experience in hospitals and clinics, advancing to senior therapist or specialist (e.g., neuro, orthopedic rehabilitation) in 3-5 years. They may also move into management, education, or private practice, with income increasing with experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating patient assessment reports and progress records
+- AI-based initial screening and anomaly marking of images (e.g., X-ray, MRI)
+- Use rehabilitation robots and VR systems to perform standardized repetitive training movements
+- Collecting and analyzing patient activity data automatically via wearable devices
+- AI front desk system handling administrative tasks like insurance and appointments
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient movement pattern data to optimize personalized treatment plans
+- Expanding service coverage through remote rehabilitation platforms and AI real-time feedback
+- AI-assisted diagnostic tools improve clinical reasoning accuracy and speed
+- Using natural language processing to quickly retrieve latest research and treatment plans
+- Using VR/AR devices to create immersive rehabilitation training environments
+
+**Human moat:**
+
+- Clinical comprehensive judgment and multi-system interaction assessment for complex cases
+- Face-to-face communication and empathy skills for building trust
+- Fine tactile sense and feel in manual therapy
+- Professional advice and team leadership in interdisciplinary collaboration
+- Motivational techniques for addressing patient fear, motivation, and other psychological factors
+
+**Skills to build:**
+
+- Using AI-assisted diagnostic tools (e.g., musculoskeletal ultrasound AI)
+- Remote rehabilitation platform operation and data analysis
+- Integration of digital health records with clinical decision support systems
+- Sports biomechanics and sensor data analysis
+- Basic Python or R programming for rehabilitation data analysis
+- Human-computer interaction and VR rehabilitation content design
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Physiotherapist in New Zealand is a shortage occupation, ANZSCO 252511, eligible
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 工作满2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求，有offer及工作经验加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，最长3年，可衔接移民 |
+| Subclass Green List T2 (Green List Work to Residence) | Eligible to apply for residency after 2 years of work |
+| Subclass SMC (Skilled Migrant Category) | Meet 6-point system requirements, with offer and work experience bonus points |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years, can lead to permanent residency |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 对人体解剖和康复有浓厚兴趣者
-- 有耐心、善于沟通和团队合作者
-- 愿意在健康领域持续学习并适应新研究
-
-**谁不适合学Physiotherapist？**
-- 不喜欢与病人直接、频繁接触者
-- 无法承受体力劳动（如长时间站立、手法治疗）者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in human anatomy and rehabilitation
+- Patient, good communicator, and team player
+- Willingness to continuously learn and adapt to new research in health fields
+
+**Who is not suited**
+- Those who dislike direct and frequent contact with patients
+- Those unable to handle physical labor (e.g., prolonged standing, manual therapy)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physiotherapists in New Zealand?**
+A: Junior approx. NZD 55,000-70,000, intermediate NZD 70,000-85,000, senior NZD 90,000-110,000, private practice can be higher.
+
+**Q: What conditions are needed for physiotherapists to immigrate to New Zealand?**
+A: Requires New Zealand accredited degree, registration, English IELTS 4 bands of 7 or equivalent, work via Green List T2 for 2 years or SMC 6-point system for immigration.
+
+**Q: Are physiotherapists in demand in New Zealand?**
+A: High demand, especially in aged care, sports rehabilitation, and community health, but competition exists in popular cities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Physiotherapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physiotherapists in New Zealand?**
-答：Entry-level 55k-70k NZD, mid-level 70k-85k, senior 90k-110k, higher in private practice.
-
-**问：What are the requirements for a physiotherapist to migrate to New Zealand?**
-答：Requires a New Zealand-recognized degree, registration, IELTS 7.0 each band or equivalent, then Green List T2 (2 years work) or SMC 6-point system.
-
-**问：Is it easy for a physiotherapist to find a job in New Zealand?**
-答：High demand, especially in aged care, sports rehab, and community health, but competition in major cities.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

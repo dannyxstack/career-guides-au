@@ -1,58 +1,93 @@
-# Tailor（Tailor）职业分析 · NL
+# Tailor — career analysis · Netherlands
 
-**职业代码：7531 – Tailor。**
+**Occupation code: 7531 (ISCO08)**
 
-Tailors make, alter, and repair garments such as suits, dresses, and fur items to customer specifications, emphasizing craftsmanship and fit.
+Tailors customize, alter, and sew garments according to client requests, including suits, gowns, and fur products, focusing on detail and craftsmanship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | —（荷兰公立学校学费低廉，每年约1,000欧元；部分课程免费。） |
-| 学徒制 | 2-4年 | —（在职培训，学费低，同时获得工资。） |
+| Secondary vocational education | 2-3 years | $0~$3,000 (Public schools in the Netherlands have low tuition fees, about 1,000 euros per year; some courses are free.) |
+| Apprenticeship | 2-4 years | $0~$1,000 (On-the-job training, low tuition fees, while earning a salary.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 裁缝职业文凭 | 荷兰职业教育机构（ROC） | 可选 | 完成中等职业教育课程后获得，涵盖制版、缝纫、面料知识。 |
-| 荷兰语能力 | 荷兰移民局（IND） | 可选 | 与客户沟通和职业融入需要，非强制但建议达到A2以上。 |
+| Diploma of Tailoring | Netherlands vocational education institutions (ROC) | Optional | Obtained after completing secondary vocational education, covering pattern making, sewing, and fabric knowledge |
+| Dutch language proficiency | Immigration and Naturalisation Service (IND) of the Netherlands | Optional | A1 level or above is recommended, but not mandatory, for client communication and workplace integration. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,500。荷兰裁缝行业面临技能短缺，传统手工需求稳定，但受快时尚冲击，就业增长缓慢。高级定制和修复服务仍有市场。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,500. The Dutch tailoring industry faces skill shortages; demand for traditional craftsmanship remains stable but is impacted by fast fashion, leading to slow employment growth. High-end custom tailoring and repair services still have a market.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 助理裁缝或雇佣工人，税前年薪。 |
-| 中级（3-7年） | $28,000~$36,000 | 有经验裁缝，可独立完成定制服装。 |
-| 高级（7年以上） | $36,000~$45,000 | 资深裁缝或工作室老板，收入波动大。 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Assistant tailor or hired worker, pre-tax annual salary. |
+| Mid-level (3–7 years) | $28,000~$36,000 | Experienced tailor, able to independently complete custom clothing. |
+| Senior (7+ years) | $36,000~$45,000 | Veteran tailors or studio owners, income fluctuates significantly. |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从学徒或助手起步，积累经验后可成为独立裁缝或开设工作室。部分裁缝转向高级定制、影视服装或服装修复领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI poses low automation risk for tailors, but can significantly enhance design, customer communication, and production processes. Tailors should actively leverage AI tools to improve efficiency and creativity, expanding service scope.
+
+Starting as an apprentice or assistant, you can become an independent tailor or open your own studio after gaining experience. Some tailors move into high-end couture, film costumes, or garment restoration.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation and optimization of garment patterns
+- Automated recording and analysis of customer size and preference data
+- Automation of fabric procurement and inventory management
+- Robot replacement for some sewing processes (e.g., simple stitching)
+
+**Where AI augments the role:**
+
+- AI-assisted design and virtual fitting for fast generation of design mockups
+- Use AI to analyze trends and customer data for personalized design recommendations.
+- AI-optimized automatic cutting solutions to reduce fabric waste
+- AI-driven smart sewing machines improve stitching precision and speed
+- Generate marketing copy and social media content using AI to expand customer reach
+
+**Human moat:**
+
+- Complex customization and high-level manual craftsmanship (e.g., hand embroidery, draping cutting)
+- Customer communication and understanding of personalized needs
+- Creative design and artistic aesthetic ability
+- Deep knowledge of traditional techniques and fabrics
+- Real-time on-site adjustment and problem-solving skills
+
+**Skills to build:**
+
+- AI design tools (e.g., CLO 3D, Adobe Illustrator with AI)
+- Data analysis and customer relationship management (CRM)
+- Operation of digital cutting and sewing equipment
+- Basic programming and automation process design
+- Sustainable Fashion and Eco-Friendly Fabric Knowledge
+- Marketing and Personal Branding
+
+**Key growth areas:**
 
 - slow decline
 - fast fashion impact
@@ -61,68 +96,67 @@ Tailors make, alter, and repair garments such as suits, dresses, and fur items t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于高技能移民，需获得荷兰认可雇主的工作合同，年薪需达到门槛（2023年约5,008欧元/月）。裁缝职位可能需证明为高技能。 |
-| Subclass Orientation Year (Zo（Orientation Year (Zoekjaar)） | 在荷兰完成硕士或博士学位的毕业生可申请一年找工作签证，工作不受限制。适用于熟练裁缝。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对非欧盟高技能工作者，需大学学位和至少5,008欧元/月年薪。裁缝通常不符合学历要求。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable for highly skilled migrants, requires a job contract with a recognized Dutch employer, and annual salary must meet the threshold (approximately €5,008/month in 2023). Tailor positions may need to prove high skill level. |
+| Subclass Orientation Year (Zo (Orientation Year (Zoekjaar)) | Graduates who have completed a master's or doctoral degree in the Netherlands can apply for a one-year job-seeking visa with unrestricted work. Applicable to skilled tailors. |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, requires a university degree and an annual salary of at least €5,008/month. Tailors typically do not meet the educational requirement. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tailor？**
-- 注重手工细节、有耐心的人
-- 对时尚和服装定制有热情的人
-- 愿意接受学徒或职业培训的动手能力强者
-
-**谁不适合学Tailor？**
-- 追求快速高薪的人
-- 不喜欢重复性手工劳动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who focus on manual details and are patient
+- People passionate about fashion and custom clothing
+- Hands-on individuals willing to take on apprenticeships or vocational training
+
+**Who is not suited**
+- People pursuing fast and high income
+- People who dislike repetitive manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a tailor in the Netherlands?**
+A: Junior tailor pre-tax annual salary around 22,000-28,000 euros, experienced can reach over 36,000 euros. Senior tailors or studio owners may earn more, but income fluctuates.
+
+**Q: Can a tailor immigrate to the Netherlands via the EU Blue Card?**
+A: The EU Blue Card requires a university degree and a high salary (approx. €60,000 per year), which tailors usually do not meet. However, they may come to the Netherlands through highly skilled migration (kennismigrant) or a job search year visa.
+
+**Q: Are there career development opportunities for tailors in the Netherlands?**
+A: The market is small but stable, with niche demand in high-end tailoring, film costumes, and garment restoration. Independent tailors or setting up a studio can increase income.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tailor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a tailor in the Netherlands?**
-答：Entry-level tailors earn €22,000–€28,000 gross annually, experienced ones up to €36,000. Senior tailors or shop owners may earn more, but income varies.
-
-**问：Can a tailor immigrate to the Netherlands via the EU Blue Card?**
-答：The EU Blue Card requires a university degree and high salary (≈€60,000/year), which tailors usually don't meet. Options include the Highly Skilled Migrant scheme or Orientation Year visa.
-
-**问：Are there career growth opportunities for tailors in the Netherlands?**
-答：The market is small but stable, with niche demand in haute couture, film costumes, and restoration. Self-employment or opening a workshop can boost income.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

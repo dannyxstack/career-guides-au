@@ -1,61 +1,97 @@
-# Construction Project Manager（Construction Project Manager）职业分析 · 新西兰
+# Construction Project Manager — career analysis · New Zealand
 
-**职业代码：133111 – Construction Project Manager。**
+**Occupation code: 133111 (ANZSCO)**
 
-Construction project managers oversee the full lifecycle of building projects, including budgeting, scheduling, subcontractor coordination, and safety compliance. This role is on New Zealand's Green List Tier 1, offering a clear pathway to residency with strong demand and high salaries.
+Construction project managers oversee the full lifecycle of construction projects, including budget, schedule, subcontractor coordination, and safety compliance. This occupation is on New Zealand's Green List for direct residence, with clear skilled migration pathways, high salary levels, and strong market demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（建筑管理/土木工程） | 4年 | $40,000~$60,000（公立大学国际生学费，约25,000-35,000 NZD/年） |
-| 硕士学位（项目管理） | 1-2年 | $50,000~$70,000（如奥克兰大学Master of Engineering Project Management） |
-| 职业资格培训（NZ Diploma in Construction） | 2年 | $15,000~$25,000（适用于有经验但无学位者，理工学院提供） |
+| Bachelor's degree (Construction Management/Civil Engineering) | 4 years | $40,000~$60,000 (International student tuition at public universities, approximately 25,000-35,000 NZD/year) |
+| Master's degree (Project Management) | 1-2 years | $50,000~$70,000 (e.g., University of Auckland Master of Engineering Project Management) |
+| Vocational qualification training (NZ Diploma in Construction) | 2 years | $15,000~$25,000 (Suitable for experienced individuals without a degree, offered by polytechnics.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰建筑协会注册（NZIOB） | 新西兰建筑协会（NZIOB） | 可选 | 非强制但强烈推荐，提升就业竞争力 |
-| 项目管理专业认证（PMP） | 项目管理协会（PMI） | 可选 | 国际认可，对大型项目雇主有吸引力 |
-| 工料测量师/认证（NZIQS） | 新西兰工料测量师协会 | 可选 | 若涉及预算与合同管理有用 |
-| 英语语言能力（IELTS 6.5） | IDP/BC | 必备 | 技术移民及注册要求，各单项不低于6.0 |
+| English language proficiency (IELTS 6.5). | IDP/BC | Required | Skilled migration and registration requirements, no band less than 6.0 |
+| New Zealand Institute of Building (NZIOB) registration | New Zealand Institute of Building (NZIOB) | Optional | Not mandatory but strongly recommended to boost job competitiveness |
+| Project Management Professional (PMP) | Project Management Institute (PMI) | Optional | Internationally recognized, attractive to employers for large projects |
+| Quantity surveyor certification (NZIQS) | New Zealand Institute of Quantity Surveyors | Optional | Useful if involving budget and contract management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 12,000。新西兰建设行业持续增长，奥克兰和基督城等城市有大量住房和基础设施项目。2024年预算增加住房拨款，预计未来五年建筑项目经理需求稳步上升，就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 12,000. New Zealand's construction industry continues to grow, with significant housing and infrastructure projects in cities like Auckland and Christchurch. The 2024 budget increased housing funding, projecting steady demand for construction project managers over the next five years, with good job prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$100,000 | 通常为项目协调员或助理项目经理 |
-| 中级（3-7年） | $100,000~$140,000 | 独立管理中型项目 |
-| 高级（7年以上） | $140,000~$200,000 | 管理大型项目或多项目组合，含奖金 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $75,000~$100,000 | Typically a project coordinator or assistant project manager |
+| Mid-level (3–7 years) | $100,000~$140,000 | Independently manage medium-sized projects |
+| Senior (7+ years) | $140,000~$200,000 | Manage large projects or multiple project portfolios, including bonuses |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径从项目协调员或现场工程师起步，积累经验后可晋升为高级项目经理、项目总监或公司合伙人。持证（如NZIOB认证）和项目管理专业资格（如PMP）可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Career progression starts as project coordinator or field engineer; with experience, can advance to senior project manager, project director, or company partner. Certifications (e.g., NZIOB) and project management qualifications (e.g., PMP) can accelerate promotion
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Construction project managers oversee the full lifecycle of building projects, i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 建筑项目经理直接符合绿色清单第一梯队，可申请直接居留签证，无需工作转居留。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制要求（学历+工作经验），也可申请技术移民。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为过渡工签，可在获得认证雇主工作后积累经验，再申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Construction Project Manager directly qualifies for Green List Tier 1, can apply for direct residence visa without work-to-residence transition. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meets the 6-point requirement (qualifications + work experience); can also apply for skilled migration. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a transition visa, allows gaining experience with an accredited employer before applying for residency. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Project Manager？**
-- 具备工程或建筑背景，有施工现场管理经验者
-- 善于多任务协调和团队沟通，能承受项目压力
-- 希望快速获得新西兰居留权，并追求高薪职业
-
-**谁不适合学Construction Project Manager？**
-- 不习惯户外现场工作和频繁出差
-- 无法应对工期紧张和多方冲突的日常
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with engineering or construction background and site management experience
+- Good at multitasking coordination and team communication; able to handle project pressure
+- Looking to quickly obtain New Zealand residency and pursue a high-paying career
+
+**Who is not suited**
+- Not accustomed to outdoor on-site work and frequent travel
+- Unable to cope with tight deadlines and daily conflicts among multiple parties
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a construction project manager in New Zealand?**
+A: Based on experience, entry-level about NZD 75,000-100,000, mid-level NZD 100,000-140,000, senior up to NZD 140,000-200,000.
+
+**Q: How can construction project managers obtain New Zealand residency through immigration?**
+A: This occupation is on the Green List Tier 1, eligible for direct application for Straight to Residence Visa; also eligible through SMC skilled migration (6-point system). Must meet English requirements and have a job with an accredited employer.
+
+**Q: What qualifications are needed to become a construction project manager in New Zealand?**
+A: Usually requires a bachelor's degree in construction management or civil engineering; relevant experience can substitute. NZIOB registration, PMP certification are not mandatory but beneficial. Language requirement IELTS 6.5.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Construction Project Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for construction project managers in New Zealand?**
-答：Entry-level: NZD 75,000-100,000; mid-level: NZD 100,000-140,000; senior: NZD 140,000-200,000.
-
-**问：How can a construction project manager obtain residence in New Zealand?**
-答：This role is on Green List Tier 1, eligible for the Straight to Residence Visa. Alternatively, the Skilled Migrant Category (6-point system) is available. English language requirement and a job with an accredited employer are needed.
-
-**问：What qualifications are needed to become a construction project manager in New Zealand?**
-答：Typically a bachelor's degree in construction management or civil engineering; relevant experience may substitute. NZIOB registration and PMP certification are beneficial but not mandatory. IELTS 6.5 is required for migration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

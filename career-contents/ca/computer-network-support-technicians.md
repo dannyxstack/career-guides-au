@@ -1,59 +1,91 @@
-# Computer network support technicians（Computer network support technicians）职业分析 · 加拿大
+# Computer network support technicians — career analysis · Canada
 
-**职业代码：22221 – Computer network support technicians。**
+**Occupation code: 22221 (NOC)**
 
-In Canada, ICT support technicians (Computer network support technicians) diagnose and resolve hardware, software, and network issues for businesses and individuals. This occupation is eligible for Express Entry/PNP immigration, ideal for IT beginners to gain experience.
+In Canada, IT support (computer network technical support technicians) provide hardware, software, and network issue diagnosis and maintenance services to businesses and individuals. This occupation is a technical role that can apply for immigration via Express Entry or PNP, suitable for IT beginners to gain experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专 | 2年 | $15,000~$30,000（公立学院学费，如Seneca College） |
-| 本科 | 4年 | $30,000~$60,000（大学学费，如University of Toronto） |
+| Diploma | 2 years | $15,000~$30,000 (Public college tuition, e.g., Seneca College) |
+| Bachelor's degree | 4 years | $30,000~$60,000 (University tuition, e.g., University of Toronto.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | IQAS / WES | 必备 | 移民必要条件，认证海外学历相当于加拿大学历 |
-| CompTIA A+认证 | CompTIA | 可选 | 非必须但有助于求职 |
-| IELTS 6.0 | IELTS | 必备 | 移民语言要求，CLB 7 |
+| ECA (Educational Credential Assessment). | IQAS / WES | Required | Immigration requirement: assess overseas qualifications equivalent to Canadian qualifications |
+| IELTS 6.0 | IELTS | Required | Immigration language requirement: CLB 7 |
+| CompTIA A+ certification | CompTIA | Optional | Not mandatory but helpful for job seeking |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。加拿大IT支持岗位需求稳定，尤其在多伦多、温哥华等科技中心。随着数字化转型和远程办公普及，预计未来十年就业增长良好。但初级岗位竞争中等，需持续学习新技能。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. IT support jobs in Canada are stable, especially in tech hubs like Toronto and Vancouver. With digital transformation and remote work, employment is expected to grow well over the next decade. However, junior roles face moderate competition, requiring continuous learning.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$48,000 | Help desk or junior technician |
-| 中级（3-7年） | $48,000~$65,000 | Network support specialist |
-| 高级（7年以上） | $65,000~$85,000 | Senior support engineer or team lead |
+| Median salary | $65,458 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$48,000 | Help desk or junior technician |
+| Mid-level (3–7 years) | $48,000~$65,000 | Network support specialist |
+| Senior (7+ years) | $65,000~$85,000 | Senior support engineer or team lead |
+| average salary | $70,720 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业晋升路径：可发展为系统管理员、网络工程师、IT项目经理或信息安全分析师。积累经验后，转向云计算、网络安全等高薪领域，或考取CISSP、CCNP认证提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
+
+Career progression path: can develop into system administrator, network engineer, IT project manager, or information security analyst. After gaining experience, transition to high-paying fields like cloud computing or cybersecurity, or obtain certifications such as CISSP or CCNP to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically diagnose common network issues and provide solutions
+- Automatically generate network configuration and patch scripts
+- Record work orders and categorize/escalate to senior teams
+- User password reset and account management
+
+**Where AI augments the role:**
+
+- Use AI log analysis to quickly locate fault root causes
+- Using network simulation tools to predict change impact.
+- Early detection of anomalies through AI-driven monitoring.
+- Using natural language queries to accelerate knowledge base resolution
+
+**Human moat:**
+
+- Root cause analysis and manual repair of complex faults
+- Network architecture design and security policy formulation
+- Effective communication with non-technical users
+- Prioritizing urgent matters under pressure
+
+**Skills to build:**
+
+- Cloud network management (AWS/Azure/GCP)
+- Cybersecurity certifications (CISSP/CEH)
+- Automation scripts (Python/Ansible)
+- AI/ML basics and network analysis tools
+- Hybrid network architecture design
+
+**Key growth areas:**
 
 - Digital transformation
 - Cloud computing
@@ -62,68 +94,67 @@ In Canada, ICT support technicians (Computer network support technicians) diagno
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 联邦快速通道，适合1年以上加拿大工作经验或海外经验+语言高分 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名，如安省、BC省，需雇主担保或技能优先 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋移民计划，适合在海洋四省找到雇主 |
+| Subclass EE (Express Entry (FSW/CEC)) | Federal Express Entry, suitable for over 1 year of Canadian work experience or overseas experience with high language scores |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations such as Ontario and BC, requiring employer sponsorship or skills priority |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for those who find an employer in the four Atlantic provinces |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer network support technicians？**
-- 刚入行的IT新人，希望积累经验并移民
-- 有IT基础但无学历，愿意通过证书和语言提升
-- 适应客户服务、解决问题能力强的沟通者
-
-**谁不适合学Computer network support technicians？**
-- 希望快速高薪的资深开发者
-- 不喜欢与人沟通、处理繁琐问题者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- New IT entrants hoping to gain experience and immigrate
+- Has IT background but no degree, willing to improve through certificates and language skills.
+- Adaptable communicators with strong customer service and problem-solving skills
+
+**Who is not suited**
+- For senior developers seeking fast track and high pay.
+- Those who dislike communicating with people or handling tedious issues.
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary level for IT support in Canada?**
+A: Entry-level positions earn about CAD 35,000-48,000 per year, mid-level CAD 48,000-65,000, senior up to CAD 85,000. Salaries are higher in major cities like Toronto and Vancouver, but cost of living is also high.
+
+**Q: Can IT support immigrate through Express Entry?**
+A: Yes. This occupation, NOC code 22221, falls under TEER 2 and is eligible under the Federal Skilled Worker (FSW) or Canadian Experience Class (CEC) programs. Requires CLB 7 in language and 1 year of work experience.
+
+**Q: What certifications are needed for IT support in Canada?**
+A: No mandatory certification, but CompTIA A+, Network+, Microsoft/Cisco basic certifications help with job hunting. Immigration does not require certification, but ECA degree credential assessment is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer network support technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for IT support in Canada?**
-答：Entry-level salary ranges from CAD 35,000 to 48,000, mid-level CAD 48,000 to 65,000, and senior up to CAD 85,000. Higher in cities like Toronto and Vancouver.
-
-**问：Can ICT support technicians immigrate via Express Entry?**
-答：Yes. NOC 22221 is TEER 2, eligible for FSW or CEC. Requires CLB 7 and 1 year of work experience.
-
-**问：What certifications are needed for IT support in Canada?**
-答：No mandatory certification, but CompTIA A+, Network+, Microsoft/Cisco basics help. ECA is required for immigration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

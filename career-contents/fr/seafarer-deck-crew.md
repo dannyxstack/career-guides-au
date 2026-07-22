@@ -1,63 +1,98 @@
-# Seafarer (Deck Crew)（Seafarer (Deck Crew)）职业分析 · FR
+# Seafarer (Deck Crew) — career analysis · France
 
-**职业代码：N3102 – Seafarer (Deck Crew)。**
+**Occupation code: N3102 (ROME)**
 
-Seafarers handle deck operations, navigation watches, cargo handling, and vessel maintenance, playing a key role in maritime transport with extended periods at sea.
+Seafarers are responsible for deck operations, maintenance, navigation watch, and cargo handling. They are core positions in the maritime industry and often require long-term work at sea.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 水手培训（CAP Matelot） | 2年 | —（公立学校免费，仅注册费和材料费） |
-| 航海职业文凭（Bac Pro Conduite et gestion des entreprises maritimes） | 3年 | —（公立学校免费，可能需自费STCW培训） |
-| 高级船员培训（BTS/Bac+2 Maritime） | 2年 | —（公立免费，私立法商学院约3000€/年） |
+| Seaman Training (CAP Matelot) | 2 years | $0~$1,000 (Public schools are free, with only registration and material fees) |
+| Maritime Professional Diploma (Bac Pro Conduite et gestion des entrapments maritimes) | 3 years | $0~$1,500 (Public schools are free, but STCW training may be self-paid) |
+| Advanced Crew Training (BTS/Bac+2 Maritime) | 2 years | $0~$2,000 (Public schools are free; private law/business schools cost about €3,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW基本安全培训 | 法国海事局（Direction des affaires maritimes） | 必备 | 国际公约强制要求，含海上生存、消防、急救等 |
-| 船舶适任证书（Certificat de capacité） | 法国海事局 | 必备 | 根据岗位和航区要求获得，如500总吨以上需高级证书 |
-| 海事体检合格证 | 认可的海事医生 | 必备 | 需每年更新，包括听力、视力、心肺功能等 |
-| 进修证书（如雷达观测、GMDSS） | 认可培训中心 | 可选 | 非强制但利于晋升 |
+| STCW Basic Safety Training | French Maritime Authority (Direction des affaires maritimes) | Required | International conventions mandate it, including marine survival, firefighting, first aid, and more |
+| Certificate of Competency for Ships (Certificat de capacité) | French Maritime Authority | Required | Obtained according to position and flight area requirements; for shipments over 500 gross tons, a senior certificate is required |
+| Maritime medical examination qualification certificate | Certified maritime doctors | Required | It must be updated annually, including hearing, vision, cardiopulmonary function, and more |
+| Advanced training certificates (such as radar observation, GMDSS) | Recognized training center | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国海运业稳定，但船员流动性大，持适任证书的合格船员供不应求。商船、渔船和客船均有需求，预计未来十年保持基本稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France's shipping industry is stable, but crew turnover is high, and qualified seafarers holding certificates of competency are in short supply. There is demand for merchant ships, fishing vessels, and passenger vessels, and it is expected to remain basically stable over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 实习或初级水手，含海上津贴 |
-| 中级（3-7年） | $30,000~$42,000 | 高级水手或水手长，取决于船型和航线 |
-| 高级（7年以上） | $42,000~$60,000 | 船长或大副，远洋船可达更高 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Trainee or junior seaman, including maritime allowance |
+| Mid-level (3–7 years) | $30,000~$42,000 | Senior Seaman or Chief Boatswain, depending on the type of ship and route |
+| Senior (7+ years) | $42,000~$60,000 | Captain or chief mate, and ocean-going vessels can reach even higher heights |
+| average salary | $65,952 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通水手（Matelot）晋升为高级水手（Quartier-maître）、水手长（Bosco），通过考取STCW证书和高级培训可成为驾驶台值班员或船长。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core operational tasks for seafarers (deck sections) (such as navigation, lookout, cargo handling) are being rapidly replaced by AI and automation systems. In particular, autonomous vessel technology will significantly reduce crew demand, but legal and safety responsibilities remain
+
+Matelots can be promoted from ordinary sailors to senior sailors (Quartier-maître) or Bosco, and by obtaining the STCW certificate and advanced training, they can become bridge watchmen or captains.
+
+**Tasks most exposed to AI:**
+
+- Route Planning and Navigation Duty (AI Autonomous Navigation System)
+- Cargo Securing and Monitoring (Automated Sensors and CCTV)
+- Chart Updates and Navigation Documents (Digital Maritime System)
+- Daily Deck Inspections (Drones and Robots)
+- Communication and Distress Alarm (GMDSS Automation)
+
+**Where AI augments the role:**
+
+- Optimize routes and fuel efficiency through AI-assisted decision-making systems
+- Predictive maintenance systems are used to monitor the status of deck machinery
+- Use AR/VR for remote training and simulation drills
+- Enhance cargo stacking and stability calculations through real-time data analysis
+
+**Human moat:**
+
+- Crisis assessment and decision-making in emergency situations
+- Cross-cultural team management and leadership
+- Physical strength and adaptability in unstructured environments
+- Legal Liability (The Captain Is Ultimately Responsible for Vessel Safety)
+- Legal and collaborative communication with ports and pilots
+
+**Skills to build:**
+
+- Operation and monitoring of autonomous ship systems
+- Data analysis and predictive maintenance software
+- Drones and robotic deck operations
+- Cybersecurity basics (ship system protection)
+- English and multilingual communication skills
+- Cross-deck/engine integrated skills
+
+**Key growth areas:**
 
 - Maritime transport
 - STCW certification
@@ -66,69 +101,68 @@ Seafarers handle deck operations, navigation watches, cargo handling, and vessel
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Pass)） | 需雇主提供CDI合同及劳工许可，适合有资质的船员直接受雇 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如持有高级适任证书的船长 |
-| Subclass Carte bleue UE（EU Blue Card） | 需高学历及较高工资，适合培养为高级船员的毕业生 |
+| Subclass Salarié (Salarié (Employee Pass)) | Employers must provide CDI contracts and labor permits, suitable for qualified crew members to be employed directly |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled personnel, such as captains holding advanced competency certificates |
+| Subclass Carte bleue UE (EU Blue Card) | High education and high salaries are required, making it suitable for graduates to become senior seafarers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Seafarer (Deck Crew)？**
-- 喜欢航海、适应长期海上生活的人
-- 具备体力与团队合作能力的年轻人
-- 愿意通过持续培训和认证提升职业等级者
-
-**谁不适合学Seafarer (Deck Crew)？**
-- 容易晕船或对海上封闭环境感到不适者
-- 希望规律作息和家庭团聚生活的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy sailing and adapt to long-term life at sea
+- Young people with physical strength and teamwork skills
+- Those willing to advance their professional level through ongoing training and certification
+
+**Who is not suited**
+- Those prone to seasickness or feeling uncomfortable in enclosed environments at sea
+- Those who want a regular routine and family reunion
+
+---
+
+## 8. FAQ
+
+**Q: How much is the salary for a seafarer?**
+A: Junior seaman starting salary approx. €24,000, senior seaman or boatswain up to €42,000, captain and first mate higher. Deep-sea routes and oil/gas platform vessels pay better.
+
+**Q: How can foreign seafarers legally work in France?**
+A: You can use the Salarié work residence (employer sponsorship required), Passeport Talent passport (for senior seafarers), or EU Blue Card (requiring high education and salary). The STCW certificate is a mandatory requirement.
+
+**Q: What promotion opportunities are available for seafarers?**
+A: He was promoted step by step from sailor to chief boatswain, third mate, second mate, first mate, and finally captain. Candidates must accumulate maritime service qualifications and pass a competency certificate examination.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Seafarer (Deck Crew)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for seafarers?**
-答：Entry-level seafarers earn around €24,000 per year, experienced ones up to €42,000, while masters and chief officers earn significantly more, especially on deep-sea vessels.
-
-**问：How can foreign seafarers work legally in France?**
-答：They can obtain a Salarié visa (employer-sponsored), Passeport Talent (for highly skilled crew), or EU Blue Card (requiring higher education and salary). STCW certification is mandatory.
-
-**问：What are the career progression opportunities for seafarers?**
-答：Seafarers can advance from deckhand to bosun, third officer, second officer, chief officer, and captain, requiring sea service and passing certification exams.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

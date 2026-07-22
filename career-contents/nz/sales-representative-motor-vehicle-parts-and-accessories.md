@@ -1,61 +1,97 @@
-# Sales Representative (Motor Vehicle Parts and Accessories)（Sales Representative (Motor Vehicle Parts and Accessories)）职业分析 · 新西兰
+# Sales Representative (Motor Vehicle Parts and Accessories) — career analysis · New Zealand
 
-**职业代码：611313 – Sales Representative (Motor Vehicle Parts and Accessories)。**
+**Occupation code: 611313 (ANZSCO)**
 
-This occupation is at ANZSCO Skill Level 5, generally ineligible for Skilled Migrant Category. It can be pursued via Accredited Employer Work Visa (AEWV), with possible residence pathways under sector agreements for automotive roles.
+This occupation is at Skill Level 5 in ANZSCO and typically cannot directly apply for skilled migration. Work opportunities may be obtained through an Accredited Employer Work Visa (AEWV). After meeting salary and conditions, some positions may qualify for residence through the Construction and Infrastructure or Automotive Sector Agreements.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 职业资格证书（Level 3-4） | 6个月-1年 | $3,000~$6,000（如新西兰汽车贸易协会提供的短期证书） |
-| 大专文凭（商业/零售管理） | 1-2年 | $12,000~$25,000（有助于晋升管理岗位） |
+| Vocational qualification (Level 3-4) | 6 months to 1 year | $3,000~$6,000 (Such as short-term certificates from the New Zealand Motor Trade Association) |
+| Diploma (Business/Retail Management) | 1-2 years | $12,000~$25,000 (Helps with advancement to management positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性注册要求 | 无 | 可选 | 该职业无需特定执照或注册 |
-| 驾驶证（Class 1） | 新西兰交通局 | 可选 | 许多雇主要求持有有效驾照以便外勤销售 |
-| 雅思成绩（AEWV可能要求） | 雅思考试局 | 可选 | 认证雇主工签通常要求雅思4.0或同等水平 |
+| No mandatory registration requirements | None | Optional | No specific license or registration required for this occupation |
+| Driver's license (Class 1) | New Zealand Transport Agency. | Optional | Many employers require a valid driver's license for field sales |
+| IELTS score (may be required for AEWV) | IELTS test authority | Optional | The sponsored employer work visa usually requires IELTS 4.0 or equivalent. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,400。新西兰汽车零售业稳定，但近年来线上零售增长对实体销售有影响，就业增长平稳。奥克兰、基督城等大城市机会较多，区域性差异较大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,400. New Zealand's automotive retail industry is stable, but recent online retail growth has impacted physical sales, with steady employment growth. Major cities like Auckland and Christchurch have more opportunities, with significant regional differences.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常为底薪加提成 |
-| 中级（3-7年） | $55,000~$70,000 | 有稳定客户群和经验 |
-| 高级（7年以上） | $70,000~$90,000 | 高级销售或团队管理角色 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Usually a base salary plus commission |
+| Mid-level (3–7 years) | $55,000~$70,000 | Have a stable client base and experience |
+| Senior (7+ years) | $70,000~$90,000 | Senior sales or team management role |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级销售代表可晋升为高级销售、区域经理或批发团队负责人。部分人转向采购、库存管理或开设自己的零部件零售店。持续学习产品知识及客户关系管理技能有助于职业发展。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Junior sales representatives can advance to senior sales, regional manager, or wholesale team leader. Some transition to purchasing, inventory management, or start their own auto parts retail store. Continuous learning of product knowledge and customer relationship management skills aids career development.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -64,69 +100,68 @@ This occupation is at ANZSCO Skill Level 5, generally ineligible for Skilled Mig
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见路径，需获得认证雇主的工作邀请，薪资不低于中位数（目前29.66纽元/小时），可续签并有机会申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合要求，因为ANZSCO Skill Level 5，只有薪资达到中位数2倍（约120,000纽元/年）才可能申请，但该职位难以达到此水平。 |
-| Subclass Sector Agreement（Sector Agreement (Automotive)） | 如满足行业协议条件，如薪资和技能要求，可通过AEWV工作后申请特定居留路径。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common pathway: requires a job offer from an accredited employer, salary not below the median (currently NZD 29.66/hour), renewable with opportunity to apply for residency. |
+| Subclass SMC (Skilled Migrant Category) | Typically does not meet requirements because ANZSCO Skill Level 5; only possible if salary reaches twice the median (approx. NZD 120,000/year), but this role is unlikely to reach that level. |
+| Subclass Sector Agreement (Sector Agreement (Automotive)) | If meeting industry agreement conditions, such as salary and skill requirements, can apply for specific residence pathway after working on AEWV. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representative (Motor Vehicle Parts and Accessories)？**
-- 善于与人沟通、有销售热情的人
-- 对汽车和零部件有兴趣，愿意学习产品知识的人
-- 能承受销售目标和业绩压力的人
-
-**谁不适合学Sales Representative (Motor Vehicle Parts and Accessories)？**
-- 不擅长主动推销和客户关系维护的人
-- 追求高薪资快速移民，但不愿从基础岗位做起的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication and have a passion for sales
+- Interest in cars and parts, willing to learn product knowledge
+- People who can withstand sales targets and performance pressure
+
+**Who is not suited**
+- Those not skilled in proactive sales and customer relationship maintenance
+- Those pursuing high salary and fast immigration but unwilling to start from entry-level positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for automotive parts sales representatives?**
+A: Annual salary for this position in New Zealand is typically between NZ$45,000 and NZ$70,000, with senior sales reaching NZ$90,000, but income largely depends on commissions and bonuses.
+
+**Q: Is this occupation easy to immigrate to New Zealand?**
+A: Not easy. This occupation is Skill Level 5 and generally cannot directly apply for skilled migration. Only possible through an AEWV work visa, and later may need industry agreements or higher salary to qualify for residency.
+
+**Q: Does this occupation have career development prospects?**
+A: Yes. Can progress from junior sales to senior sales or management roles such as regional manager. By accumulating client resources and product knowledge, can also transition to procurement or start a retail store.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Representative (Motor Vehicle Parts and Accessories)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a motor vehicle parts sales representative?**
-答：Salaries range from NZ$45,000 to NZ$70,000 per year, with senior roles up to NZ$90,000, heavily dependent on commissions.
-
-**问：Is it easy to immigrate to New Zealand in this occupation?**
-答：No. As a Skill Level 5 occupation, it typically does not qualify for Skilled Migrant Category. The pathway is via AEWV work visa, with possible residence through sector agreements or high salary thresholds.
-
-**问：What are the career prospects for this occupation?**
-答：Yes. Advancement from junior to senior sales or management roles like area manager. With client base and product knowledge, one can move into procurement or start own business.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

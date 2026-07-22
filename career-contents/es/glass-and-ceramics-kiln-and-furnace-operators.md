@@ -1,61 +1,94 @@
-# Glass and Ceramics Kiln and Furnace Operators（Glass and Ceramics Kiln and Furnace Operators）职业分析 · ES
+# Glass and Ceramics Kiln and Furnace Operators — career analysis · Spain
 
-**职业代码：8191 – Glass and Ceramics Kiln and Furnace Operators。**
+**Occupation code: 8191 (CNO)**
 
-Operate kilns and auxiliary equipment for melting, firing and heat-treating glass and ceramics, monitor temperature curves and ensure product quality.
+Responsible for operating kilns and auxiliary equipment for melting, firing, and heat treatment of glass and ceramic materials, monitoring temperature profiles, and ensuring product quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费或低学费） |
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约4000-8000欧元/年） |
-| 大学本科（Grado） | 4年 | $1,000~$20,000（公立大学学费约1000-1500欧元/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$6,000 (Public schools offer free or low tuition) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$8,000 (Public schools are free, while private ones pay about 4,000-8,000 euros per year) |
+| Undergraduate (Grado) | 4 years | $1,000~$20,000 (Tuition at public universities is about 1000-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio en Fabricación de Productos Cerámicos | 西班牙教育部 | 可选 | 陶瓷制品制造中级职业教育证书 |
-| FP Grado Superior en Fabricación de Vidrio y Productos Cerámicos | 西班牙教育部 | 可选 | 玻璃与陶瓷制品制造高级职业教育证书 |
-| 操作窑炉许可（企业内部认证） | 企业 | 可选 | 部分企业要求内部培训合格 |
-| PRL职业风险预防基础训练 | 认可的培训机构 | 必备 | 西班牙法律要求所有员工接受基本风险预防培训 |
+| PRL Basic Training on Occupational Risk Prevention | Accredited training institutions | Required | Spanish law requires all employees to undergo basic risk prevention training |
+| FP Grado Medio en Fabricación de Productos Cerámicos | Spanish Ministry of Education | Optional | Intermediate Vocational Education Certificate in Ceramic Product Manufacturing |
+| FP Grado Superior en Fabricación de Vidrio y Productos Cerámicos | Spanish Ministry of Education | Optional | Advanced Vocational Education Certificate in Glass and Ceramic Product Manufacturing |
+| Kiln operation license (internal company certification) | Corporate | Optional | Some companies require passing internal training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙陶瓷与玻璃行业集中在Castellón和La Rioja，受建筑和出口需求影响。自动化程度提高使对初级操作员需求稳定略有下降，但对有经验的操作技师仍有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Spain's ceramics and glass industry is concentrated in Castellón and La Rioja, driven by construction and export demand. Increased automation has steadily reduced demand for junior operators, but there is still demand for experienced operators.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，视企业规模 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含班组长补贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, depending on company size |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including team leader allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级操作员可晋升为班组长、工艺控制技师或质量控制专员，也可向陶瓷/玻璃工艺工程师发展，需进修FP Grado Superior或相关工学学位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Glass processing tools have clear automation replacement risks (CNC cutting, grinding), but on-site installation, custom processing, and quality inspection still require manual work, making it a mixed bag.
+
+Junior operators can be promoted to team leader, process control technician, or quality control specialist, or may develop into ceramic/glass process engineers, requiring further study for FP Grado Superior or a related engineering degree.
+
+**Tasks most exposed to AI:**
+
+- AI vision-guided automatic cutting path planning replaces manual measurement and marking
+- CNC edge grinding machines replace manual edge grinding
+- drilling positioning and parameter optimization are automated by AI
+- Quality defect identification (bubbles, cracks) using machine vision instead of visual inspection
+
+**Where AI augments the role:**
+
+- AI-assisted generation of optimal layout plans to improve raw material utilisation
+- AR glasses overlay drawings and tolerance prompts to improve installation accuracy.
+- Predictive maintenance of equipment reduces downtime and extends lifespan
+- Real-time feedback from AI quality control systems to adjust processing parameters
+
+**Human moat:**
+
+- Manual handling and positioning of irregular/oversized glass
+- Artisan judgment for adjusting gaps with building structures during on-site installation
+- Custom artistic glass creative processing.
+- Emergency maintenance for handling automation anomalies
+
+**Skills to build:**
+
+- CNC/Laser Cutting Programming and Operation
+- Smart device fault diagnosis and maintenance
+- 3D modeling and layout optimization software
+- Machine vision quality inspection system basics
+- On-site installation communication and coordination skills
+- Basic English reading (equipment manuals)
+
+**Key growth areas:**
 
 - Industrial automation
 - Energy efficiency
@@ -64,68 +97,67 @@ Operate kilns and auxiliary equipment for melting, firing and heat-treating glas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 西班牙受雇工作居留，需雇主提供合同，符合最低薪资要求，非紧缺职业但可申请。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，要求高技术岗位（一般要求本科学历），薪资需高于平均1.5倍，此职业通常不符合。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 求职签证，有效期1年，允许在西班牙寻找工作，找到后可转换工作居留。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | For employed residence in Spain, employers must provide a contract, meet minimum wage requirements, and are not in urgent demand but can apply. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires high-tech positions (generally a bachelor's degree), with salaries at least 1.5 times the average, which is usually not met. |
+| Subclass Búsqueda de empleo (Job Search Visa) | Job seeker visa, valid for 1 year, allows job hunting in Spain, and allows for change of work residence after finding one. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass and Ceramics Kiln and Furnace Operators？**
-- 喜欢动手操作、适应高温环境的人
-- 对制造业工艺流程感兴趣的人
-- 愿意在工业区（如Castellón）工作的人
-
-**谁不适合学Glass and Ceramics Kiln and Furnace Operators？**
-- 对高温、粉尘等环境敏感的人
-- 追求高薪资或快速晋升的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and are adapted to high-temperature environments
+- People interested in manufacturing processes
+- Willing to work in industrial areas (e.g., Castellón).
+
+**Who is not suited**
+- People sensitive to high temperatures, dust, and other environments
+- Those seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for glass and ceramic kiln operators in Spain?**
+A: The junior salary is about 18,000-22,000 euros per year, the intermediate salary is about 22,000-28,000 euros, and the senior can reach up to 35,000 euros, usually including overtime pay.
+
+**Q: Can third-country citizens immigrate to Spain through this occupation?**
+A: This occupation is not in short supply, but it can be immigrated through Employment-Based Residence (Cuenta ajena), requires employer sponsorship, or you can apply for a job-seeking visa first. EU Blue cards are generally not applicable.
+
+**Q: What educational background is required to operate a kiln?**
+A: Commonly FP Grado Medio or FP Grado Superior related majors; some companies accept in-house training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（1-2年）（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Glass and Ceramics Kiln and Furnace Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass and ceramics kiln operators in Spain?**
-答：Entry-level salary is around €18,000-22,000 per year, mid-level €22,000-28,000, and senior up to €35,000, usually including overtime.
-
-**问：Can third-country nationals immigrate to Spain through this occupation?**
-答：This occupation is not in shortage, but work permit (Cuenta ajena) with employer sponsorship is possible. A job search visa is also an option. EU Blue Card usually not applicable.
-
-**问：What education is needed to operate kilns?**
-答：Typically FP Grado Medio or Grado Superior in ceramic or glass manufacturing; some employers accept in-house training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

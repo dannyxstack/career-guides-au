@@ -1,59 +1,92 @@
-# Tapers（Tapers）职业分析 · 美国
+# Tapers — career analysis · United States
 
-**职业代码：47-2082 – Tapers。**
+**Occupation code: 47-2082 (SOC)**
 
-Seal joints between plasterboard or other wallboard to prepare wall surface for painting or papering.
+Responsible for sealing joints between drywall or wallboard, preparing walls for painting or wallpapering.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（通常无直接费用） |
-| 学徒期 | 3-4年 | —（在职培训为主，部分社区学院课程有费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Usually no direct fees) |
+| Apprenticeship period | 3-4 years | $0~$5,000 (On-the-job training mainly, some community college courses have fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 多数州无需特定执照，但需工作经验 |
+| No mandatory license | None | Optional | Most states do not require a specific license, but work experience is needed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 11,200。美国建筑业持续增长，新房建设和翻新需求稳定，预计就业岗位保持稳定增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 11,200. US construction industry continues to grow; new home building and renovation demand is stable. Employment is expected to grow steadily.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 学徒或入门级 |
-| 中级（3-8年） | $42,000~$55,000 | 熟练技工 |
-| 高级（8年以上） | $55,000~$70,000 | 高级技工或工头 |
+| Median salary | $68,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Apprentice or entry-level |
+| Mid-level (3–8 years) | $42,000~$55,000 | Skilled tradesperson |
+| Senior (8+ years) | $55,000~$70,000 | Senior technician or foreman |
+| average salary | $72,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从学徒做起，可晋升为高级技工、工头或自主创业，也可转向干墙安装等相关工种。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Plasterer is a physically demanding, on-site dependent occupation with medium AI substitution risk, but new smart construction equipment and BIM deepening are changing traditional work. Entry-level plastering roles are squeezed by standardized plasterboard fast-installation technology, yet high-value areas like finished quality control, irregular finishes, and old building restoration are amplified by tool enablement.
+
+Start as an apprentice, progress to senior tradesperson, foreperson, or self-employment, or transition to related trades like drywall installation.
+
+**Tasks most exposed to AI:**
+
+- Mechanical plastering and automatic sanding of large-area interior gypsum board
+- Slotting, base coating, and leveling of standard external wall mortar (robotic mortar spraying)
+- Automatic generation of plastering task sheets and material lists based on BIM models
+
+**Where AI augments the role:**
+
+- Using 3D laser scanners to quickly recheck wall flatness and generate deviation reports
+- Use AR glasses to view concealed pipeline locations and accurately reserve connection holes
+- Using mobile apps (e.g., PlanGrid) to receive change orders in real time and adjust procedures
+- Using drone aerial photography and orthophotos to analyze exterior wall hollowing/crack areas
+- Optimizing alternating interior-exterior wall construction sequence for multi-story buildings using BIM 4D simulation
+
+**Human moat:**
+
+- Adaptability and experience-based intuition for humid, low-temperature, high-dust environments
+- Manual techniques and aesthetic judgment for non-standard shapes (curved surfaces, reliefs, artistic plaster)
+- Ability to coordinate and resolve conflicts with other trades (electricians/plumbers) on site
+- Professional identification for safety regulation and reinforcement of deteriorated structures (asbestos/carbonized wood)
+
+**Skills to build:**
+
+- Operation and debugging of intelligent plastering robots (e.g., Monument/Q-Bot)
+- Lightweight BIM model viewing and issue marking (Navisworks/BIM 360)
+- Data acquisition and processing with laser scanners (FARO/Leica RTC360)
+- Digital measurement software (e.g., Planswift/Bluebeam) for quantity takeoffs
+- Additional qualifications for scaffolds and elevated work platforms (e.g., EWP categories)
+- Communication and client explanation skills (for quotation negotiations in ancient building restoration)
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -62,62 +95,64 @@ Seal joints between plasterboard or other wallboard to prepare wall surface for 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 用于临时性非农业工作，但雇主要证明劳动力短缺 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年经验或培训，但雇主担保困难 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | For temporary non-agricultural work, but employer must prove labor shortage |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of experience or training, but employer sponsorship is difficult |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tapers？**
-- 喜欢动手和体力工作
-- 耐心细致，注重细节
-- 希望在建筑行业稳定就业
+**Who is suited**
+- Enjoys hands-on and physical work
+- Patient, meticulous, and detail-oriented
+- Looking for stable employment in the construction industry
 
-**谁不适合学Tapers？**
-- 无法承受重复性体力劳动
-- 追求高薪或快速移民
+**Who is not suited**
+- Unable to endure repetitive physical labor
+- Seeking high salary or fast immigration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a wall plasterer?**
+A: According to U.S. BLS data, the average annual salary in 2023 was about $47,000, but beginners may earn less than $35,000.
+
+**Q: Can a plasterer apply for a US work visa or green card?**
+A: Very difficult. This occupation is not a high-skilled trade, does not meet H-1B requirements; EB-3 requires employer sponsorship and proof of labor shortage, rarely approved in practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Tapers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for tapers?**
-答：According to BLS, the average annual wage is about $47,000 in 2023, but entry-level may be below $35,000.
-
-**问：Can tapers obtain US work visa or green card?**
-答：Very difficult. It is not a skilled occupation for H-1B; EB-3 requires employer sponsorship and labor certification, rarely successful.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

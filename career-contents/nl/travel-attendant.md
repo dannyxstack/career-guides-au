@@ -1,62 +1,95 @@
-# Travel Attendant（Travel Attendant）职业分析 · NL
+# Travel Attendant — career analysis · Netherlands
 
-**职业代码：5111 – Travel Attendant。**
+**Occupation code: 5111 (ISCO08)**
 
-Travel attendants ensure passenger safety and comfort on trains, ships, or aircraft, including welcoming passengers, assisting with luggage, conducting safety demonstrations, providing catering, and handling emergencies.
+Travel attendants ensure passenger safety and comfort on trains, ships, or aircraft, including greeting passengers, assisting with luggage, conducting safety demonstrations, providing meals, and handling emergencies.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年（MBO） | $1,000~$5,000（部分学校免费或低学费） |
-| 短期培训 | 3-6个月 | $1,500~$4,000（航空公司或培训机构提供） |
-| 学士学位（相关领域） | 4年（HBO） | —（旅游管理相关专业，学费因机构而异） |
+| Secondary vocational education | 3 years (MBO) | $1,000~$5,000 (Free or low tuition fees at some schools) |
+| Short-term training | 3-6 months | $1,500~$4,000 (Provided by airline or training institution) |
+| Bachelor's degree (related field) | 4 years (HBO) | $0~$10,000 (Tourism management related majors; tuition varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 红十字会或等效机构 | 必备 | 通常为雇主强制要求 |
-| 安全培训证书 | 航空公司或运输公司 | 必备 | 包括紧急程序、消防等 |
-| 语言能力证明 | IELTS或类似 | 可选 | 要求英语流利，荷兰语加分 |
+| First aid certificate | Red Cross or equivalent organization | Required | Usually mandatory for employers |
+| Safety training certificate | Airline or transportation company | Required | Includes emergency procedures, fire safety, etc. |
+| Language proficiency proof | IELTS or equivalent | Optional | Fluent English required, Dutch a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。荷兰旅游与运输业持续发展，旅行乘务员需求稳定。随着铁路和航空客运增长，预计岗位保持平稳增长，但竞争较激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. The Dutch tourism and transport industry continues to grow, with stable demand for travel attendants. With the increase in rail and air passenger numbers, the role is expected to maintain steady growth, though competition is intense.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含津贴 |
-| 中级（3-6年） | $32,000~$40,000 | 税前年薪，含津贴 |
-| 高级（6年以上） | $40,000~$50,000 | 税前年薪，含津贴 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–6 years) | $32,000~$40,000 | Annual pre-tax salary, including allowances |
+| Senior (6+ years) | $40,000~$50,000 | Annual pre-tax salary, including allowances |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级乘务员可通过经验积累晋升为高级乘务员或乘务长，部分转向地面管理或培训岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Travel attendants have a high proportion of automatable tasks and demand is impacted by high-speed rail and remote meetings, with significant risk of entry-level job contraction.
+
+Junior cabin crew can progress to senior cabin crew or purser through experience, some move to ground management or training roles.
+
+**Tasks most exposed to AI:**
+
+- Use self-service check-in systems and QR codes to process passenger boarding.
+- Play safety demonstration videos via voice assistant and screen
+- Replace paper-based ordering processes with AI restaurant ordering systems
+- Automated voice announcements of station information and travel tips
+- Simple luggage handling completed by robots or self-service equipment
+
+**Where AI augments the role:**
+
+- Using AI emotion analysis systems to identify anxious passengers and proactively provide care
+- Communicate with foreign passengers using real-time multilingual translation earphones
+- Using prediction models to optimize catering replenishment and seat allocation
+- Provide immersive safety demonstrations using AR-assisted devices
+
+**Human moat:**
+
+- Handling unstructured emergency events such as medical emergencies and passenger conflicts
+- Provide personalized care for special needs passengers (e.g., disabled, unaccompanied minors).
+- Provide empathetic emotional support and communication during unforeseen delays or cancellations
+
+**Skills to build:**
+
+- Master AI service terminals (self-check-in, chatbot maintenance) operations
+- Learning basic data analysis and passenger sentiment recognition tools
+- developing multilingual communication skills (with AI translation tools)
+- Attend advanced service training such as first aid and crisis intervention
+- Understand accessibility service regulations and special passenger assistance techniques
+- Familiar with social media monitoring and response
+
+**Key growth areas:**
 
 - stable demand
 - tourism growth
@@ -65,69 +98,68 @@ Travel attendants ensure passenger safety and comfort on trains, ships, or aircr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需与认可雇主签订合同，满足薪资门槛（2023年约€5,008/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需大学学位及高薪工作（2023年约€5,668/月） |
-| Subclass Orientation Year（Orientation Year） | 适用于荷兰大学毕业或世界排名前200高校的毕业生，可自由求职一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled migrants, requires an employment contract with an approved employer, meeting a salary threshold (~€5,008/month in 2023) |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, requires a university degree and a high-salary job (approx. €5,668/month in 2023). |
+| Subclass Orientation Year (Orientation Year) | Available to graduates of Dutch universities or top 200 global universities, allows one year of free job seeking |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Travel Attendant？**
-- 喜欢与人打交道、服务意识强的人
-- 适应不规律作息和差旅的人
-- 具备良好沟通和应急处理能力的人
-
-**谁不适合学Travel Attendant？**
-- 无法适应轮班和长时间站立工作的人
-- 追求高薪和稳定职业路径的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working with others and have a strong service orientation
+- Suitable for those who can adapt to irregular schedules and travel
+- Those with good communication and emergency response skills
+
+**Who is not suited**
+- Those unable to adapt to shift work and prolonged standing
+- People pursuing high salary and stable career paths
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for travel attendants in the Netherlands?**
+A: Junior crew annual salary around €25,000-€32,000, mid-level €32,000-€40,000, senior €40,000-€50,000.
+
+**Q: How can non-EU residents obtain a Netherlands travel attendant work visa?**
+A: Can be accessed via highly skilled migrant (kennismigrant) or EU Blue Card route, but thresholds are high, usually requiring employer sponsorship and meeting salary requirements (2023 Blue Card approx. €5,668/month).
+
+**Q: What are the career advancement opportunities for flight attendants?**
+A: Can advance to senior flight attendant, purser, or transition to ground operations, training, or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Travel Attendant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for travel attendants in the Netherlands?**
-答：Entry-level attendants earn €25,000-€32,000 annually, mid-level €32,000-€40,000, and senior up to €50,000.
-
-**问：How can non-EU nationals obtain a work visa for travel attendant in the Netherlands?**
-答：Options include the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds (€5,668/month for Blue Card in 2023).
-
-**问：What career advancement opportunities exist for travel attendants?**
-答：Attendants can advance to senior roles, purser, or transition to ground operations, training, or management.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Hotel or Motel Manager（Hotel or Motel Manager）职业分析 · 新西兰
+# Hotel or Motel Manager — career analysis · New Zealand
 
-**职业代码：141311 – Hotel or Motel Manager。**
+**Occupation code: 141311 (ANZSCO)**
 
-Hotel managers oversee all hotel operations; strong tourism recovery in NZ boosts demand. Eligible for Green List Tier 1 direct residence or skilled migrant category.
+Hotel managers oversee overall hotel operations. Strong recovery of New Zealand's tourism industry drives demand growth. Eligible for Green List direct residence or skilled migration, a high-demand occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| Diploma in Hospitality Management | 2年 | $25,000~$35,000（新西兰理工学院或私立院校，如Ara Institute of Canterbury） |
-| Bachelor in Hospitality Management | 3年 | $40,000~$55,000（大学本科，如AUT或怀卡托大学） |
+| Diploma in Hospitality Management | 2 years | $25,000~$35,000 (New Zealand Institutes of Technology or private institutions, e.g. Ara Institute of Canterbury) |
+| Bachelor in Hospitality Management | 3 years | $40,000~$55,000 (University bachelor's degree, e.g., from AUT or University of Waikato) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰酒店管理文凭 (NZ Diploma in Hospitality Management Level 5/6) | NZQA认可院校 | 可选 | 常见入门要求 |
-| 无强制性注册 | 无 | 可选 | 工作经验比学历更重要，但大型酒店偏好相关学位 |
-| 酒类执照管理证书 (LCQ) | 新西兰酒店业协会 | 可选 | 如酒店有酒吧则需持有 |
+| New Zealand Diploma in Hospitality Management (Level 5/6) | NZQA-recognised institution | Optional | Common Entry Requirements |
+| No mandatory registration | None | Optional | Work experience is more important than academic qualifications, but large hotels prefer relevant degrees |
+| License Controller Qualification (LCQ) | New Zealand Hospitality Association | Optional | Required if the hotel has a bar |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。新西兰旅游业持续复苏，国际游客数量恢复至疫情前80%以上，酒店行业用工需求旺盛，预计2024-2028年岗位年增长率约3%。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. New Zealand's tourism industry continues to recover, with international visitor numbers recovering to over 80% of pre-pandemic levels. The hotel industry has strong labor demand, with estimated annual job growth of about 3% from 2024 to 2028.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 中小型汽车旅馆或连锁酒店副经理 |
-| 中级（3-7年） | $70,000~$90,000 | 中型酒店经理或大型酒店部门经理 |
-| 高级（7年以上） | $90,000~$120,000 | 大型五星酒店总经理或区域经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Deputy manager of a small to medium-sized motel or chain hotel |
+| Mid-level (3–7 years) | $70,000~$90,000 | Mid-sized hotel manager or department manager at large hotels |
+| Senior (7+ years) | $90,000~$120,000 | General manager or regional manager of a large five-star hotel. |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 从初级主管晋升为部门经理再到酒店总经理，需积累日常运营、客户关系和财务管理经验，大型连锁酒店提供跨品牌晋升机会。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Progress from junior supervisor to department manager to hotel general manager, requiring experience in daily operations, client relations, and financial management; large hotel chains offer cross-brand promotion opportunities.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Hotel managers oversee all hotel operations; strong tourism recovery in NZ boost
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence (Tier 2)） | 工作2年后可申请居留，需Job Offer且薪资达标（目前中位数工资以上） |
-| Subclass SMC（Skilled Migrant Category (6-point system)） | 根据学历、注册薪资等打分，需Job Offer且薪资不低于中位数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，最长3年，适合积累经验后转其他路径 |
+| Subclass Green List T2 (Green List Work to Residence (Tier 2)) | Can apply for residency after 2 years of work, requires a job offer and salary meeting the threshold (currently above median wage) |
+| Subclass SMC (Skilled Migrant Category (6-point system)) | Score based on qualifications, registered salary, etc., requires job offer with salary not below median |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by accredited employer, up to 3 years; suitable for gaining experience before switching to other pathways |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel or Motel Manager？**
-- 具有2年以上酒店管理经验，良好的沟通和领导力
-- 适应轮班工作，包括周末和节假日
-- 有意在新西兰长期发展并移民的人
-
-**谁不适合学Hotel or Motel Manager？**
-- 不喜欢快节奏、高压工作环境的人
-- 缺乏耐心和人际交往能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Over 2 years of hotel management experience, good communication and leadership skills
+- Adapt to shift work, including weekends and public holidays
+- Those intending to develop long-term and immigrate to New Zealand
+
+**Who is not suited**
+- People who dislike fast-paced, high-pressure work environments
+- People lacking patience and interpersonal skills.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a hotel manager in New Zealand?**
+A: Entry-level hotel manager annual salary about NZ$55,000-70,000, experienced can exceed NZ$90,000, five-star hotel general manager can reach over NZ$120,000.
+
+**Q: Can a hotel manager immigrate to New Zealand through the Green List?**
+A: Yes, hotel manager is on the Green List Tier 2, eligible for residence after 2 years of work, provided you hold a Job Offer and salary is above the median.
+
+**Q: What are the employment prospects in the New Zealand hotel industry?**
+A: Tourism recovery drives demand for hotel jobs; annual growth of about 3% in recent years, especially in tourist hotspots like Auckland and Queenstown.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Hotel or Motel Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a hotel manager in New Zealand?**
-答：Entry-level hotel managers earn about NZD 55,000–70,000; experienced ones can exceed NZD 90,000, and GMs at five-star hotels can earn over NZD 120,000.
-
-**问：Can a hotel manager immigrate to NZ via the Green List?**
-答：Yes, hotel managers are on Green List Tier 2; after 2 years of work, you can apply for residence with a job offer and salary above median.
-
-**问：What is the job outlook for hotel managers in New Zealand?**
-答：Tourism recovery drives demand, with around 3% annual job growth; opportunities are abundant in hotspots like Auckland and Queenstown.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

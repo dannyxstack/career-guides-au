@@ -1,60 +1,96 @@
-# Event and Stage Technology Specialist（Event and Stage Technology Specialist）职业分析 · DE
+# Event and Stage Technology Specialist — career analysis · Germany
 
-**职业代码：9451 – Event and Stage Technology Specialist。**
+**Occupation code: 9451 (KldB)**
 
-Event and stage technology specialists plan, install, and operate audio, video, lighting, and stage equipment to ensure smooth execution of events, performances, and conferences.
+Event and stage technology experts plan, install, and operate audio-visual, lighting, and stage equipment to ensure smooth performances, conferences, and other events.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有津贴） |
-| 本科（舞台技术/活动技术管理） | 3-4年 | —（公立大学免学费，仅需学期杂费） |
+| Dual vocational training | 3 years | $0~$0 (Allowance during training) |
+| Bachelor's (Stage Technology/Event Technical Management) | 3-4 years | $0~$1,500 (Public universities are tuition-free, only semester fees apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞台技术员资格认证 | 德国工商会 | 必备 | 双元制培训后通过结业考试获得 |
-| 电气安全培训 | 德国职业安全机构 | 必备 | 从事电气相关工作必需 |
+| Stage technician qualification | German Chamber of Commerce and Industry | Required | Obtained through passing the final examination after dual-system training |
+| Electrical safety training | German Occupational Safety Institution | Required | Essential for electrical-related work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。德国文化活动与娱乐产业持续增长，对舞台技术人才需求稳定。大型场馆、剧院及巡回演出项目增多，预计未来5年就业岗位将温和增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Germany's cultural events and entertainment industry continues to grow, with stable demand for stage technology professionals. Large venues, theatres, and touring productions are increasing, with moderate job growth expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，根据地区和公司规模 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，技术总监级别更高 |
+| Median salary | $47,856 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, varies by region and company size |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual salary before tax, higher for technical director level |
+| average salary | $53,232 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从业者可从技术员晋升为技术主管、技术总监或项目经理。通过进修可向系统集成、活动策划或专业培训师方向发展，部分人自主创业成立技术服务公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate basic tasks like lighting/sound programming, but on-site project management and creative coordination skills are amplified; the role will not disappear but entry paths will narrow.
+
+Practitioners can advance from technician to technical supervisor, technical director, or project manager. Through further education, they can move towards system integration, event planning, or professional training, and some start their own technical service companies.
+
+**Tasks most exposed to AI:**
+
+- Automatic Programming and Preset Calibration of Lighting and Sound Systems
+- Template-based stage visual effects generation.
+- Automated parameter adjustments during performance rehearsals.
+- AI diagnosis and remote recovery of equipment faults
+- Automated processing of audio noise reduction and mixing
+
+**Where AI augments the role:**
+
+- Using AI to simulate stage effects to accelerate creative iteration
+- Real-time sensor data drives dynamic lighting and sound responses.
+- Optimize performance emotional curve by analyzing audience feedback via AI
+- Natural language commands for collaborative control of stage equipment.
+- Digital twin technology assists full-process rehearsal of large events
+
+**Human moat:**
+
+- Quick decision-making on on-site emergencies (e.g., equipment hardware failures)
+- Empathy and negotiation skills for communicating creatively with directors/artists
+- Flexible scheduling and risk management in multi-team collaboration
+- Adaptability to unstructured environments (outdoor, temporary venues)
+- Personalized balance between artistic aesthetics and safety regulations
+
+**Skills to build:**
+
+- Master AI stage control platforms (e.g., d3/disguise + AI plugins)
+- Learning Python scripts for automated workflow customization
+- Basics of immersive technology (AR/VR/MR) content creation
+- Data visualization and sensor network configuration
+- Edge computing and low-latency live streaming technology
+- Basic project management (Agile/Scrum)
+
+**Key growth areas:**
 
 - Events Industry
 - Live Entertainment
@@ -63,69 +99,68 @@ Event and stage technology specialists plan, install, and operate audio, video, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于有本科及以上学历且年薪达门槛的技术移民，但该职业通常学历要求可放宽，需具体审核。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 德国技术移民法路径，需获得认证的职业资格（如双元制证书）且找到雇主。 |
-| Subclass Chancenkarte（Opportunity Card） | 机会卡允许尚未找到工作的申请人来德国求职，需满足积分标准（语言、职业资质、年龄等）。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to skilled migrants with a bachelor's degree or higher and meeting the salary threshold; however, educational requirements for this occupation may be relaxed; subject to specific assessment. |
+| Subclass Skilled Worker (Skilled Worker Visa) | German skilled immigration law pathway, requires recognised vocational qualification (e.g., dual system certificate) and a job offer. |
+| Subclass Chancenkarte (Opportunity Card) | The Opportunity Card allows applicants who have not yet found a job to seek employment in Germany; points criteria (language, professional qualifications, age, etc.) must be met. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Event and Stage Technology Specialist？**
-- 对舞台灯光、音响、视频技术有浓厚兴趣
-- 动手能力强，能适应快节奏和不规律工作时间
-- 乐于团队协作，有创意和问题解决能力
-
-**谁不适合学Event and Stage Technology Specialist？**
-- 不适应频繁出差或夜间工作
-- 对高空作业或重物搬运感到不适
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in stage lighting, sound, and video technology
+- Hands-on ability, able to adapt to fast-paced and irregular working hours.
+- Enjoys teamwork, creative and problem-solving skills
+
+**Who is not suited**
+- Not suited to frequent travel or night work
+- feeling uncomfortable with working at heights or lifting heavy objects
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level for stage technology specialists?**
+A: Junior pre-tax annual salary is about 28,000-35,000 euros, rising to 45,000-60,000 euros with experience, but work intensity and project cycles should be considered.
+
+**Q: How can non-EU citizens immigrate to Germany for stage technology work?**
+A: Usually requires completing a German-recognized dual-system training and passing certification. Can apply for a skilled migration visa (requires employer), or come to Germany first via an Opportunity Card for job seeking.
+
+**Q: What are the career advancement paths for stage technology experts?**
+A: Can be promoted to technical supervisor, technical director, or project manager; can also transition to system integration, event planning, or trainer through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Event and Stage Technology Specialist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stage technology specialists?**
-答：Entry-level gross annual salary is about 28,000-35,000 EUR, rising to 45,000-60,000 EUR with experience, depending on workload and project cycles.
-
-**问：How can non-EU citizens migrate to Germany for stage technology jobs?**
-答：Usually need to complete a recognized German dual vocational training and obtain certification. Apply for a skilled worker visa (with employer) or use the Opportunity Card to search for jobs.
-
-**问：What are the career advancement opportunities for stage technology specialists?**
-答：Can advance to technical supervisor, technical director, or project manager, or move into system integration, event planning, or training through further education.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

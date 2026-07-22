@@ -1,61 +1,95 @@
-# Pre-press technicians（Pre-press technicians）职业分析 · UK
+# Pre-press technicians — career analysis · United Kingdom
 
-**职业代码：5421 – Pre-press technicians。**
+**Occupation code: 5421 (SOC)**
 
-Pre-press technicians prepare, format and compose text and graphics for use in various print processes, using specialized software for image processing, color management, and layout design.
+Prepress technicians prepare, lay out, and assemble text and graphics for various printing processes. They use professional software for image processing, color management, and layout design to ensure print quality.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育后证书/文凭 | 6-12个月 | $3,000~$6,000（如City & Guilds或BTEC文凭） |
-| 学徒制（高级） | 18-24个月 | —（带薪培训，政府资助） |
+| Post-secondary certificate/diploma | 6–12 months | $3,000~$6,000 (Such as City & Guilds or BTEC diplomas) |
+| Apprenticeship (Advanced) | 18-24 months | $0~$0 (Paid training, government funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印刷与印前操作高级学徒证书 | 英国印刷行业协会（BPIF） | 可选 | 涵盖印前技术、色彩管理、软件操作 |
-| Adobe认证专家（ACE） | Adobe | 可选 | Photoshop、InDesign等软件技能认证 |
-| City & Guilds 印前技术文凭 | City & Guilds | 可选 | 行业认可的职业资格 |
+| Advanced Apprenticeship Certificate in Printing and Pre-press Operations | British Printing Industries Federation (BPIF) | Optional | Covers pre-press technology, colour management, software operation |
+| Adobe Certified Expert (ACE) | Adobe | Optional | Certification in skills such as Photoshop, InDesign |
+| City & Guilds Pre-press Technology Diploma | City & Guilds | Optional | Industry-recognized professional qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 9,600。随着数字印刷和自动化技术的普及，传统印前岗位需求下降，但包装印刷和高端商业印刷仍有一定需求。预计未来5年就业岗位将缓慢减少，年均变化率约-1%至-2%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 9,600. With the spread of digital printing and automation technology, demand for traditional pre-press roles is declining, but packaging printing and high-end commercial printing still have some demand. Jobs are expected to slowly decrease over the next 5 years, with an average annual change of about -1% to -2%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或新入行者 |
-| 中级（3-7年） | $24,000~$32,000 | 有经验的技术员 |
-| 高级（7年以上） | $32,000~$40,000 | 资深技师或主管 |
+| Median salary | $27,497 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or new entrant |
+| Mid-level (3–7 years) | $24,000~$32,000 | Experienced technician |
+| Senior (7+ years) | $32,000~$40,000 | Senior technician or supervisor |
+| average salary | $29,080 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 初级印前技师可通过积累经验晋升为高级技师或印前主管，也可转向数字媒体设计、色彩管理专家或印刷生产经理等岗位。持续学习最新软件和自动化工具是关键。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Pre-press technicians face significant risk of automation: AI-driven image processing, auto-layout, and color management tools are taking over traditional pre-press tasks. Entry-level jobs are decreasing, but high-level color control and creative layout still require human input.
+
+Junior pre-press technicians can advance to senior technicians or pre-press supervisors through experience, or transition to digital media design, color management specialist, or print production manager. Continuous learning of latest software and automation tools is key.
+
+**Tasks most exposed to AI:**
+
+- Automatic color correction and separation: AI algorithms can precisely adjust CMYK values, replacing manual color adjustment.
+- Basic layout and imposition: smart software automatically arranges multi-page documents and performs imposition.
+- Image defect detection: AI automatically identifies and repairs spots, scratches, and other defects in scanned documents.
+- File checking and preflight: automated tools check font, image resolution, bleed, and other parameters.
+
+**Where AI augments the role:**
+
+- Complex color management and spot color matching: AI provides data references, but final adjustments rely on experience.
+- Image Creative Editing: AI generates initial drafts, pre-press technicians perform artistic re-creation.
+- Print process simulation: AI predicts effects of different paper/ink combinations to aid decision-making.
+- Automated script writing: use AI to assist in generating batch scripts to improve batch task efficiency.
+- Client communication and needs analysis: AI analyzes customer historical preferences, and technicians optimize solutions accordingly.
+
+**Human moat:**
+
+- Advanced color perception and calibration skills (e.g., high-fidelity printing).
+- Cross-process coordination and problem-solving (resolving anomalies in printing operations).
+- Understanding and realizing creative design intent (translating design drafts to print-ready files).
+- Material and process experience (judging characteristics of different substrates).
+
+**Skills to build:**
+
+- Proficient in AI image processing scripts (e.g., Python+PIL).
+- Learn digital printing and variable data printing (VDP) workflows.
+- Proficient in professional pre-press software (such as Adobe InDesign, Esko).
+- Learn advanced colour management techniques (ICC Profile customisation).
+- Familiarity with AI-driven automation tools (e.g., Prinergy, Apogee).
+- Develop communication and project management skills (liaising with clients and printing plants).
+
+**Key growth areas:**
 
 - Automation
 - Digital Printing
@@ -64,65 +98,67 @@ Pre-press technicians prepare, format and compose text and graphics for use in v
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 理论上可申请，但印前技师通常不在可担保职业清单上，且薪资需满足一般门槛（通常£26,200或以上），雇主需提供担保。 |
-| Subclass Graduate（Graduate Visa） | 适合在英国完成本科或硕士学位的毕业生，可留在英国工作2-3年，之后需转换为其他签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Theoretically possible to apply, but pre-press technicians are usually not on the eligible occupation lists, and the salary must meet the general threshold (usually £26,200 or above), and the employer needs to provide sponsorship. |
+| Subclass Graduate (Graduate Visa) | Suitable for graduates who have completed a bachelor's or master's degree in the UK; they can stay and work for 2-3 years, after which they must switch to another visa. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pre-press technicians？**
-- 对印刷和图形设计有浓厚兴趣的人
-- 注重细节、耐心细致的人
-- 愿意持续学习新技术的人
+**Who is suited**
+- People with a strong interest in printing and graphic design.
+- Detail-oriented, patient, and careful people
+- People willing to continuously learn new technologies.
 
-**谁不适合学Pre-press technicians？**
-- 追求高薪和高增长前景的人
-- 不喜欢重复性工作和屏幕前操作的人
+**Who is not suited**
+- Those pursuing high salary and growth prospects
+- People who dislike repetitive work and screen-based operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pre-press technicians?**
+A: Starting salary around £18,000-24,000; mid-level £24,000-32,000; senior up to £40,000. Salary growth is limited, but senior or management roles may pay slightly more.
+
+**Q: Is it easy to immigrate to the UK as an overseas pre-press technician?**
+A: Relatively difficult. This occupation is usually not on shortage lists; employer-sponsored visas require meeting salary thresholds, and demand is limited. Consider other high-demand career paths.
+
+**Q: What are the promotion paths for a pre-press technician?**
+A: Can advance to pre-press supervisor, color management specialist, or transition to roles such as digital media designer or printing production manager. Continuous learning of automation software and digital printing technology supports career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Pre-press technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pre-press technicians?**
-答：Entry-level salary is around £18,000-£24,000, mid-level £24,000-£32,000, and senior up to £40,000. Salary growth is limited, but senior or management roles may earn slightly more.
-
-**问：Is it easy to migrate to the UK as a pre-press technician?**
-答：It is difficult. This occupation is usually not on the shortage list, and employer sponsorship requires meeting salary thresholds with limited demand. Consider other high-demand career paths.
-
-**问：What are the career progression paths for pre-press technicians?**
-答：Can advance to pre-press supervisor, color management specialist, or move into digital media design, print production manager roles. Continuous learning of automation software and digital printing technologies helps career development.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

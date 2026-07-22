@@ -1,58 +1,93 @@
-# Conservators and curators（Conservators and curators）职业分析 · 加拿大
+# Conservators and curators — career analysis · Canada
 
-**职业代码：51101 – Conservators and curators。**
+**Occupation code: 51101 (NOC)**
 
-Conservators and curators protect, manage, and exhibit collections in museums, galleries, and other cultural institutions, including artworks, historical artifacts, and scientific specimens.
+Protects, manages, and exhibits collections in museums, galleries, and other cultural institutions, including artworks, historical artifacts, and scientific specimens.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $18,000~$35,000（学费范围（加元/年），因省份和院校而异） |
-| 硕士 | 2年 | $20,000~$40,000（硕士学费通常更高，部分项目提供助学金） |
+| Bachelor's degree | 4 years | $18,000~$35,000 (Tuition range (CAD/year) varies by province and institution.) |
+| Master's degree | 2 years | $20,000~$40,000 (Master's tuition is usually higher, some programs offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博物馆学或相关领域硕士 | 大学 | 必备 | 策展人通常要求硕士学历，文物保护员需专门培训 |
-| 加拿大文化遗产专业人员认证 | 加拿大博物馆协会 | 可选 | 自愿认证，但有助于职业发展 |
+| Master's degree in Museum Studies or related field | University | Required | Curators typically require a master's degree, while conservators need specialized training. |
+| Canadian Heritage Professional Certification | Canadian Museums Association | Optional | Voluntary certification, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,300。加拿大文化机构持续投资遗产保护，预计2023-2031年岗位增长约5%，主要职位集中在安大略、魁北克和不列颠哥伦比亚等省。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,300. Canadian cultural institutions continue to invest in heritage preservation, with an estimated 5% job growth from 2023 to 2031, mainly in Ontario, Quebec, and British Columbia.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 助理或技术员职位 |
-| 中级（4-7年） | $50,000~$70,000 | 策展人或文物保护员 |
-| 高级（8年以上） | $75,000~$100,000 | 高级策展人、部门主管或大型机构负责人 |
+| Median salary | $75,629 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $38,000~$48,000 | Assistant or technician positions |
+| Mid-level (4-7 years) | $50,000~$70,000 | Curator or cultural heritage conservator |
+| Senior (8+ years) | $75,000~$100,000 | Senior curator, department head or manager of a large institution |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从助理或技术员起步，积累经验后可晋升为高级策展人或部门主管，部分人转向艺术管理或学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will disrupt curators' document sorting and digitization processes, but the core of curation—artistic judgment, narrative construction, and public interaction—is nearly impossible to automate and will instead be amplified by AI tools. Entry-level positions will narrow due to reduced repetitive tasks, but the value of experienced curators will increase.
+
+Start as assistant or technician, gain experience to advance to senior curator or department head; some move into arts management or academia.
+
+**Tasks most exposed to AI:**
+
+- Digital cataloging of collections and metadata annotation
+- Draft generation for exhibition descriptive text
+- Exhibition information retrieval and literature review
+- Audience data statistics and visit pattern analysis
+- Producing basic copy for brand activities
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple exhibition theme proposals and compare them
+- Use AI to analyse historical correlations of exhibit combinations
+- Simulating exhibition space layout and visitor flow through AI
+- Use natural language processing to uncover cross-cultural connections in collections
+- Use AI tools to quickly create interactive guided tours and digital replicas
+
+**Human moat:**
+
+- Unique creativity in curatorial narrative and exhibition themes
+- Relationship management with artists, collectors, and sponsors
+- Subjective judgment of the authenticity/condition of cultural relics/artworks and restoration decisions
+- On-site interaction and emotional connection in public education events
+- Long-term management of cross-institutional cooperation and industry influence
+
+**Skills to build:**
+
+- Mastery of AI curation and exhibition design tools (e.g., MuseNet, LuminAi)
+- Learn basic data analysis and visualization skills
+- Enhance cross-media storytelling and digital content creation skills
+- Familiar with digital collectibles (NFTs) and virtual exhibition technologies
+- Enhance soft skills in project management and multi-party collaboration.
+- Learn ethics and legal knowledge to address copyright and compliance issues with AI-generated content
+
+**Key growth areas:**
 
 - Heritage preservation
 - Digital curation
@@ -61,65 +96,64 @@ Conservators and curators protect, manage, and exhibit collections in museums, g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry / FSW（Federal Skilled Worker） | 适用于具有硕士及以上学历和相关工作经验的申请人，满足语言和资金要求。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略、不列颠哥伦比亚有文化类省提名项目，需符合省提名要求。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但竞争激烈。 |
+| Subclass Express Entry / FSW (Federal Skilled Worker) | Applicable to applicants with a master's degree or higher and relevant work experience, meeting language and financial requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have cultural provincial nominee programs, requiring meeting provincial nomination criteria. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, but competition is fierce. |
 
-**PR难度：中等偏难（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Conservators and curators？**
-- 热爱文化遗产和历史，注重细节
-- 具有艺术史、考古或相关学科背景
-- 擅长研究和写作，能处理多任务
-
-**谁不适合学Conservators and curators？**
-- 不善于与公众沟通
-- 无法适应室内办公和较少的晋升机会
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cultural heritage and history, with attention to detail
+- Background in art history, archaeology, or related fields
+- Proficient in research and writing, able to handle multiple tasks
+
+**Who is not suited**
+- Poor at communicating with the public
+- Cannot adapt to indoor office work and limited promotion opportunities
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for conservation officers and curators?**
+A: Entry-level approx CAD 38,000-48,000, mid-level 50,000-70,000, senior up to CAD 75,000-100,000. Government institutions offer relatively stable pay, but private galleries may pay more.
+
+**Q: Can this occupation immigrate to Canada through skilled migration?**
+A: Yes, but requires a master's degree or higher and relevant work experience. Express Entry, Provincial Nominee Programs (e.g., Ontario) are main pathways; LMIA employer sponsorship is possible but competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等偏难（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等偏难（★★★☆☆） |
-
-Conservators and curators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for conservators and curators?**
-答：Entry-level positions earn around CAD 38,000-48,000, mid-level CAD 50,000-70,000, and senior roles CAD 75,000-100,000. Government institutions offer stability, while private galleries may pay more.
-
-**问：Can this occupation immigrate to Canada through skilled worker programs?**
-答：Yes, but a master's degree and relevant experience are required. Express Entry and PNP (e.g., Ontario) are main routes; LMIA is also possible but competitive.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

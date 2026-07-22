@@ -1,59 +1,94 @@
-# Derrick Operators, Oil and Gas（Derrick Operators, Oil and Gas）职业分析 · 美国
+# Derrick Operators, Oil and Gas — career analysis · United States
 
-**职业代码：47-5011 – Derrick Operators, Oil and Gas。**
+**Occupation code: 47-5011 (SOC)**
 
-Operate derrick equipment and pump mud or fluid through drill holes to facilitate oil and gas drilling operations.
+Responsible for operating rig equipment and pumping mud or fluids into boreholes to maintain smooth drilling operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常仅需高中文凭，部分雇主要求GED。） |
-| 在职培训 | 数月至1年 | —（雇主提供在职培训，可能产生少量证书费用。） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually only a high school diploma required; some employers require GED.) |
+| On-the-job training | Several months to 1 year | $0~$5,000 (Employer provides on-the-job training; may incur minor costs for certifications.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 高中或同等学历机构 | 必备 | 基本教育要求。 |
-| 商业驾驶执照（CDL） | 各州机动车辆管理局 | 可选 | 部分岗位需CDL以操作重型车辆。 |
-| 安全意识培训（如OSHA） | 职业安全与健康管理局 | 必备 | 许多雇主要求完成OSHA安全培训。 |
+| High school diploma or GED | High school or equivalent institution | Required | Basic educational requirement. |
+| Safety awareness training (e.g., OSHA) | Occupational Safety and Health Administration | Required | Many employers require completion of OSHA safety training. |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | Some positions require a CDL to operate heavy vehicles. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。美国石油和天然气行业就业受能源价格波动影响较大，预计未来十年就业增长缓慢。技术创新可能减少人力需求，但新钻井项目仍提供一定岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Employment in the US oil and gas industry is highly sensitive to energy price fluctuations, with slow job growth expected over the next decade. Technological innovation may reduce labor demand, but new drilling projects still provide some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$58,000 | 入门级薪资，随经验增长而提高。 |
-| 中级（3-7年） | $58,000~$75,000 | 有经验的操作员薪资范围。 |
-| 高级（7年以上） | $75,000~$95,000 | 资深操作员或主管级别。 |
+| Median salary | $58,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $42,000~$58,000 | Entry-level salary, increases with experience. |
+| Mid-level (3–7 years) | $58,000~$75,000 | Salary range for experienced operators. |
+| Senior (7+ years) | $75,000~$95,000 | Senior operator or supervisor level. |
+| average salary | $60,210 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 从初级操作员起步，可晋升为高级钻塔操作员或钻井队长，进一步可成为钻井主管或油田经理。积累经验后也可转向设备维护或培训岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Oil rig operators are highly dependent on physical site operations and emergency response. Current AI has limited substitution for core drilling tasks, but automated monitoring systems will compress support roles, making overall risk moderately high.
+
+Start as a junior operator, can advance to senior derrick operator or drilling team leader, then to drilling supervisor or oilfield manager. With experience, may also move into equipment maintenance or training roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of drilling parameters and alarms.
+- Record drilling logs and reports
+- Basic mud performance testing
+- Operate partially automated drilling equipment
+
+**Where AI augments the role:**
+
+- AI drilling optimization suggestions improve efficiency
+- Predictive maintenance reduces downtime
+- Remote expert system-assisted fault diagnosis
+- Virtual reality training improves safety skills
+- Automated data integration for decision support
+
+**Human moat:**
+
+- Emergency judgment in underground mine accidents
+- Operational adjustments under complex geological conditions
+- Team coordination and safety supervision
+- Non-standard handling of equipment anomalies.
+- Physical perception and adaptation to the environment
+
+**Skills to build:**
+
+- Drilling automation system operation
+- Data analysis and interpretation
+- Remote monitoring and diagnostic tools
+- Basic programming (PLC/SCADA)
+- Safety regulations and environmental knowledge
+- Cross-cultural communication
+
+**Key growth areas:**
 
 - Stable
 - Oil Price Dependent
@@ -62,68 +97,67 @@ Operate derrick equipment and pump mud or fluid through drill holes to facilitat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要专业职位资格，通常要求相关学历和经验，雇主担保。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 通过PERM劳工认证申请职业移民绿卡，适用于熟练工人。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 雇主为外籍工人申请绿卡的第一步，证明无合适美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires professional position qualifications, typically relevant education and experience, employer sponsorship. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Apply for employment-based green card through PERM labor certification, for skilled workers. |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | The first step for an employer to sponsor a foreign worker for a green card, proving no qualified US workers are available. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Derrick Operators, Oil and Gas？**
-- 能适应户外艰苦环境及轮班工作
-- 动手能力强，对机械操作感兴趣
-- 愿意在偏远地区工作，如油田现场
-
-**谁不适合学Derrick Operators, Oil and Gas？**
-- 不适应高风险工作环境和体力劳动
-- 不喜欢不规律的工作时间及离家工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to adapt to harsh outdoor environments and shift work
+- Hands-on skills and interest in mechanical operations
+- Willing to work in remote areas, such as oil field sites
+
+**Who is not suited**
+- Not suited for high-risk work environments and physical labor
+- Dislike irregular working hours and working away from home
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of oil derrick operators?**
+A: According to BLS data, the median annual salary for this occupation in 2023 was about $62,000. Entry-level about $42,000-$58,000, senior can exceed $85,000. Salary is significantly affected by oil prices and geographic location.
+
+**Q: Is it easy for oil rig operators to immigrate to the US through work visas?**
+A: Relatively difficult, as this occupation typically does not require a bachelor's degree, and H-1B visas require a specialty occupation. However, it is still possible through the EB-3 green card pathway (with PERM), especially for skilled workers with employer sponsorship.
+
+**Q: What educational background is needed for this occupation?**
+A: Usually requires only a high school diploma or equivalent. Most skills are acquired through on-the-job training. Some community colleges offer certificate courses in petroleum technology, but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Derrick Operators, Oil and Gas的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for derrick operators?**
-答：According to BLS, the median annual wage in 2023 is about $62,000. Entry-level positions range from $42,000 to $58,000, while senior operators can exceed $85,000. Salaries are highly influenced by oil prices and location.
-
-**问：Is it easy for derrick operators to immigrate to the US via work visa?**
-答：It is relatively difficult because the occupation typically does not require a bachelor's degree, which is a key requirement for H-1B. However, EB-3 green card through PERM is possible for skilled workers with employer sponsorship.
-
-**问：What education is needed for this occupation?**
-答：Typically only a high school diploma or GED is required. Most skills are learned through on-the-job training. Some community colleges offer certificate programs in petroleum technology, but they are not mandatory.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Restaurant Manager（Restaurant Manager）职业分析 · NL
+# Restaurant Manager — career analysis · Netherlands
 
-**职业代码：1412 – Restaurant Manager。**
+**Occupation code: 1412 (ISCO08)**
 
 Restaurant managers oversee daily operations including staff management, customer service, inventory control, and financial performance.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏易（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-4年 | $2,000~$6,000（MBO学费约2000-6000欧元/年） |
-| 高等职业教育 (HBO) | 4年（本科） | $9,000~$15,000（HBO学士课程学费约9000-15000欧元/年） |
+| Secondary vocational education (MBO) | 2-4 years | $2,000~$6,000 (MBO tuition approximately 2,000–6,000 euros/year) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $9,000~$15,000 (HBO bachelor's degree tuition is approximately 9,000-15,000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| SVH 餐饮管理文凭 | SVH (Stichting Vakbekwaaming Horeca) | 可选 | 荷兰餐饮业广泛认可的管理资格 |
-| HACCP 食品安全证书 | 认证培训机构 | 必备 | 食品安全法规要求 |
+| HACCP food safety certificate | Accredited training organization | Required | Food safety regulatory requirements |
+| SVH Diploma in Hospitality Management | SVH (Stichting Vakbekwaaming Horeca) | Optional | Management qualifications widely recognized in the Dutch hospitality industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 48,000。荷兰餐饮业稳步增长，旅游业繁荣带来持续需求，但劳动力短缺使得合格经理竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. The Dutch catering industry is growing steadily, with tourism driving continuous demand, but labor shortages make competition for qualified managers intense.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-5年） | $35,000~$45,000 | 税前年薪 |
-| 高级（5年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (5+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级经理晋升为高级管理或区域总监，也可创业开设独立餐厅。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on restaurant manager roles is mixed: tasks like scheduling, shift planning, and inventory forecasting will be automated, but people management, customer experience, and crisis handling still require human judgment, and AI tools can enhance data-driven decision-making.
+
+Can progress from junior manager to senior management or regional director, or start a business by opening an independent restaurant.
+
+**Tasks most exposed to AI:**
+
+- AI auto-generates employee shift schedules based on footfall forecasting
+- Automated inventory management and purchase order generation (AI predicts demand)
+- Customer feedback sentiment analysis and report generation
+- Automated summarization of basic financial statements and KPIs
+- Booking system and seat optimization
+
+**Where AI augments the role:**
+
+- AI-driven sales forecasting assists pricing and marketing decisions
+- Real-time operational dashboards improve performance monitoring efficiency
+- AI-assisted menu design (dish combination recommendation)
+- Automated email/SMS marketing to boost customer repurchase
+- AI Simulation Training System Accelerates New Employee Onboarding
+
+**Human moat:**
+
+- Crisis management (customer complaints, emergencies)
+- Team motivation and culture building
+- Deep client relationship maintenance (VIP personalized service)
+- Strategic decisions (brand positioning, innovative dishes)
+- Cross-departmental collaboration and negotiation (supplier relations)
+
+**Skills to build:**
+
+- Data analytics (Python/SQL + BI tools such as Tableau)
+- Application of AI tools (ChatGPT, Copilot, predictive models)
+- Digital marketing (social media advertising)
+- Supply chain management software (e.g., BlueCart)
+- Leadership and Emotional Intelligence Management
+- Financial analysis basics (income statement, cash flow)
+
+**Key growth areas:**
 
 - Increasing tourism
 - Staff shortage
@@ -61,65 +97,64 @@ Restaurant managers oversee daily operations including staff management, custome
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 适用于年收入达标的高技能员工，雇主需为认可担保人。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对大学学历且薪资门槛较高的专业人士，提供欧盟内工作与居留便利。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 在荷兰毕业的外国学生可申请一年求职签证，找到工作后转为工作居留。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applicable to high-skilled employees meeting annual income thresholds; employer must be an approved sponsor. |
+| Subclass EU Blue Card (EU Blue Card) | Provides work and residence convenience within the EU for professionals with a university degree and high salary threshold. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | International students who graduate in the Netherlands can apply for a one-year job-seeking visa and switch to a work residence permit after finding a job. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Restaurant Manager？**
-- 善于团队管理和客户服务
-- 能在快节奏环境中灵活应对
-- 对餐饮业有热情和商业头脑
-
-**谁不适合学Restaurant Manager？**
-- 不喜欢处理琐碎日常运营
-- 不适应加班和不规律工作时间
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in team management and customer service
+- Able to adapt flexibly in a fast-paced environment
+- Passion for the food and beverage industry and business acumen
+
+**Who is not suited**
+- Dislikes handling trivial daily operations
+- Not adaptable to overtime and irregular working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a restaurant manager in the Netherlands?**
+A: Entry-level annual salary approx. €28,000-35,000, mid-level €35,000-45,000, senior up to €60,000.
+
+**Q: How can foreigners move to the Netherlands as a restaurant manager?**
+A: Can be done via highly skilled migration or EU Blue Card, requiring finding an employer and meeting the salary threshold, or using a job-seeking year visa to find work after graduation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏易（★★☆☆☆） |
-| 考证难度 | 较易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Restaurant Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for restaurant managers in the Netherlands?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €35,000-45,000, and senior up to €60,000.
-
-**问：How can a foreigner migrate as a restaurant manager to the Netherlands?**
-答：Via the Highly Skilled Migrant scheme or EU Blue Card, requiring a job offer meeting salary thresholds, or using the Orientation Year visa after graduation.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Miners and Quarriers（Miners and Quarriers）职业分析 · IT
+# Miners and Quarriers — career analysis · Italy
 
-**职业代码：8111 – Miners and Quarriers。**
+**Occupation code: 8111 (ISCO08)**
 
-Workers in underground or open-pit mining and quarrying operations in Italy, extracting ores, stone, sand, and gravel (non-energy minerals).
+Engaging in underground or open-cut mining and quarrying operations, including the extraction of non-energy minerals such as ores, stone, and gravel.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年 | —（地区职业培训中心，部分免费） |
-| 高中文凭 | 3年 | —（公立学校免费） |
+| Vocational training | 2 years | $0~$2,000 (Regional vocational training centres, some free of charge) |
+| High school diploma | 3 years | $0~$500 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矿山安全证书 | 国家劳动监察局 | 必备 | 强制，需通过安全培训考试 |
-| 爆破作业许可证 | 省级采矿办公室 | 可选 | 从事爆破作业必备 |
+| Mine safety certificate | National Labour Inspectorate | Required | Mandatory, requires passing a safety training exam |
+| Blasting operation permit | Provincial mining office | Optional | Essential for blasting operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。意大利矿业规模较小，采石业相对稳定。受环保法规和能源转型影响，传统采矿岗位有限，但建筑石材需求维持一定就业。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. Italy's mining sector is small, while quarrying is relatively stable. Due to environmental regulations and energy transition, traditional mining jobs are limited, but demand for construction stone maintains some employment.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含夜班/危险津贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual salary before tax, including night shift/danger allowance |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级矿工可晋升为钻机操作员或爆破专家，进一步可成为工长或矿山主管。部分人转向建筑或土木工程。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Jobs for miners and quarry workers in Italy are heavily impacted by AI and automation; the adoption of autonomous mining equipment will greatly reduce low-skilled positions, but regulatory and safety roles will remain human.
+
+Junior miners can advance to drill operators or blasting specialists, and further to foremen or mine supervisors. Some transition to construction or civil engineering.
+
+**Tasks most exposed to AI:**
+
+- Operating mining equipment such as drills and excavators (automated remote control replaces manual driving)
+- Ore transport and loading (autonomous trucks and conveyor belt systems).
+- Mine site environmental monitoring and safety inspection (drones and sensor networks)
+- Basic ore crushing and sorting (AI vision system automatic classification)
+- Daily equipment inspection and simple maintenance (predictive maintenance system)
+
+**Where AI augments the role:**
+
+- Drilling path planning and blasting scheme optimization (assisted by AI geological modeling)
+- Decision support under complex geological conditions (real-time data analysis)
+- Equipment fault diagnosis and remote maintenance guidance (AR collaboration)
+- Safety training and accident simulation (VR immersive training)
+- Production scheduling and resource allocation (AI optimization algorithm)
+
+**Human moat:**
+
+- On-site assessment and handling of emergencies (e.g., collapses, gas leaks)
+- Adaptive operation for abnormal geological conditions (unstructured environment)
+- Team safety management and communication coordination
+- Mining regulation compliance and government reporting responsibilities
+- Complex repairs and equipment modifications (requiring physical hands-on skills)
+
+**Skills to build:**
+
+- Operate automated mining systems and remote-control equipment
+- Data analysis and use of mining software (e.g., Surpac, Datamine)
+- Skills in drone and sensor maintenance
+- Basic programming and automation scripting (Python)
+- Safety regulations and emergency response training
+- Hazardous environment work skills (e.g., confined space entry)
+
+**Key growth areas:**
 
 - Stone quarrying
 - Marble extraction
@@ -63,66 +99,68 @@ Workers in underground or open-pit mining and quarrying operations in Italy, ext
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保，每年配额限制。矿业通常不属于优先职业。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，但矿工通常不符合薪资门槛（年薪需≥欧盟平均1.5倍）。 |
-| Subclass 季节性工作签证（Seasonal Work Visa） | 仅适用于短期季节性采石作业，有效期最长9个月。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers and requires employer sponsorship, with an annual quota. Mining is generally not a priority occupation. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but miners usually do not meet the salary threshold (annual salary must be at least 1.5 times the EU average). |
+| Subclass Seasonal Work Visa (Seasonal Work Visa) | Only applicable for short-term seasonal quarrying operations, with a maximum validity of 9 months. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Miners and Quarriers？**
-- 体力好、适应户外艰苦环境
-- 愿意在偏远地区工作
-- 对矿业有热情，不介意粉尘噪音
+**Who is suited**
+- Good physical fitness, able to adapt to harsh outdoor environments.
+- Willing to work in remote areas.
+- Passionate about mining, not bothered by dust or noise
 
-**谁不适合学Miners and Quarriers？**
-- 追求高薪和晋升空间
-- 对安全风险敏感
+**Who is not suited**
+- Pursue high salary and promotion opportunities
+- Sensitive to safety risks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for miners in Italy?**
+A: Junior miner annual salary approx. €22,000-28,000, senior miner up to €35,000-45,000, including allowances but overall lower than Northern EU countries.
+
+**Q: Can non-EU citizens immigrate to Italy through mining work?**
+A: Low likelihood. Mining is not on the skills shortage list, and the Decreto Flussi quota prioritizes other industries. Employer sponsorship is required, but the probability of employers obtaining a quota is small.
+
+**Q: Do miners in Italy require formal qualifications?**
+A: Formal degree not required, but vocational training certificates and high school diploma advantageous. Safety certificate mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Miners and Quarriers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for miners in Italy?**
-答：Entry-level miners earn €22,000-28,000 per year, while senior miners can reach €35,000-45,000 including allowances, but overall lower than Northern EU countries.
-
-**问：Can non-EU citizens immigrate to Italy through mining work?**
-答：Very unlikely. Mining is not on the shortage list, and Decreto Flussi quotas prioritize other sectors. Employer sponsorship is possible but quotas are rarely allocated.
-
-**问：Do miners in Italy need formal education?**
-答：Formal education is not mandatory, but vocational training and high school diploma are advantageous. Safety certification is compulsory.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

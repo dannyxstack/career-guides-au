@@ -1,61 +1,97 @@
-# Hairdressers and barbers（Hairdressers and barbers）职业分析 · UK
+# Hairdressers and barbers — career analysis · United Kingdom
 
-**职业代码：6221 – Hairdressers and barbers。**
+**Occupation code: 6221 (SOC)**
 
-Hairdressers and barbers shampoo, cut, colour, style and treat hair, working primarily in salons and barbershops.
+Hairdressers and barbers are responsible for shampooing, cutting, colouring, styling, and hair care, mainly working in hair salons and barbershops.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| NVQ Level 2 美发证书 | 6个月 | $1,000~$3,000（通常在职学习，费用因机构而异） |
-| NVQ Level 3 美发高级证书 | 1年 | $3,000~$6,000（部分课程可申请贷款） |
+| NVQ Level 2 Hairdressing Certificate | 6 months. | $1,000~$3,000 (Usually on-the-job training; costs vary by institution) |
+| NVQ Level 3 in Hairdressing Advanced Certificate. | 1 year | $3,000~$6,000 (Some courses can apply for loans) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ Level 2 美发 | City & Guilds / VTCT | 必备 | 行业基础资格，多数雇主要求 |
-| NVQ Level 3 美发 | City & Guilds / VTCT | 可选 | 高级资格，晋升必备 |
-| 理发师从业执照 | 当地政府 | 可选 | 部分城市要求理发师注册，非全国强制 |
+| NVQ Level 2 Hairdressing | City & Guilds / VTCT | Required | Industry-level qualification, required by most employers |
+| NVQ Level 3 Hairdressing | City & Guilds / VTCT | Optional | Advanced qualification, essential for promotion |
+| Barber practitioner license | Local government | Optional | Some cities require hairdresser registration, not nationally mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 56,000。英国美容美发行业稳步发展，预计未来五年就业增长约5.8%，对熟练发型师需求稳定。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 56,000. The UK hairdressing and beauty industry is steadily growing, with an expected employment growth of about 5.8% over the next five years, and stable demand for skilled hairstylists.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 学徒或初级发型师 |
-| 中级（3-7年） | $20,000~$28,000 | 经验丰富的发型师 |
-| 高级（7年以上） | $28,000~$40,000 | 高级发型师或沙龙经理，含小费 |
+| Median salary | $24,279 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $16,000~$20,000 | Apprentice or junior hairdresser |
+| Mid-level (3–7 years) | $20,000~$28,000 | Experienced hairdressers |
+| Senior (7+ years) | $28,000~$40,000 | Senior hairstylist or salon manager, including tips |
+| average salary | $24,075 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级发型师可晋升为高级发型师、创意总监或沙龙经理，也可创业开设自己的店铺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
+
+Junior hairstylists can advance to senior hairstylist, creative director, or salon manager, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Hair dye formula calculation and color matching (AI automatically recommends formula based on hair type and skin tone)
+- Customer appointment, reminder, and follow-up (handled by AI chatbots)
+- Basic scalp analysis and care recommendations (AI camera diagnosis)
+- Inventory management and consumables ordering (AI-based forecasting system)
+- Social media content generation (AI one-click design of hairstyle display images)
+
+**Where AI augments the role:**
+
+- Hairstyle design inspiration generation (AI generates personalized plans based on face shape and trends)
+- Virtual try-on enhancing client communication (AR real-time display of hair dyeing/haircut effects)
+- Customer Relationship Management (AI analyzes preferences, accurately recommends services and products)
+- Cost accounting and pricing optimization (AI suggests prices based on market data)
+- Online Teaching and Skill Enhancement (AI voice guidance for complex techniques)
+
+**Human moat:**
+
+- Precision and artistry of manual techniques (e.g., haircut layering, blow-dry styling)
+- On-site customer communication and emotional interaction (understanding non-verbal cues)
+- Intuitive judgment of individual aesthetic preferences (aesthetic that AI cannot replicate)
+- Managing physical contact comfort (e.g., shampooing, massage with tactile experience)
+- Ability to adjust plans on the fly (based on real-time feedback)
+
+**Skills to build:**
+
+- Master AI hairstyle recommendation tools (e.g., StyleMyHair, YouCam)
+- Learning basic data analysis (customer preferences and inventory optimization)
+- Enhance social media operations (AI-assisted content creation)
+- Obtain higher-level certifications (such as Color Master, Scalp Therapist)
+- Learning AR/VR virtual try-on software operation
+- Communication and sales psychology (enhancing personalized service premium)
+
+**Key growth areas:**
 
 - Personal care
 - Salon services
@@ -64,62 +100,67 @@ Hairdressers and barbers shampoo, cut, colour, style and treat hair, working pri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Graduate（Graduate Visa） | 适合在英国完成学位的毕业生，可留英工作2年（博士3年），但该职业通常不提供担保 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 理论上可担保，但薪资门槛通常高于行业水平，极少雇主使用 |
+| Subclass Graduate (Graduate Visa) | Suitable for graduates who completed their degree in the UK; allows working in the UK for 2 years (3 years for PhD), but this occupation typically does not offer sponsorship |
+| Subclass Skilled Worker (Skilled Worker Visa) | Theoretically can sponsor, but the salary threshold is usually higher than industry levels; very few employers use it. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hairdressers and barbers？**
-- 喜欢与人交流、有创意和审美能力的人
-- 愿意通过学徒制积累经验并考取资格的人
-- 能接受站立工作和周末工作的人
+**Who is suited**
+- People who enjoy communication, creativity, and have aesthetic sense
+- Willing to gain experience through apprenticeships and obtain qualifications
+- People who can tolerate standing work and weekend work
 
-**谁不适合学Hairdressers and barbers？**
-- 期望高薪资或快速晋升的人
-- 不喜欢客户服务或重复性工作的人
+**Who is not suited**
+- Those expecting high salary or rapid promotion
+- People who dislike customer service or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for this occupation in the UK?**
+A: Junior annual salary around GBP 16,000-20,000, senior can reach GBP 40,000, but income largely depends on tips and client base.
+
+**Q: Can foreign barbers come to the UK on a work visa?**
+A: Although this occupation is on the sponsorship list, the salary threshold (£26,200) far exceeds the industry average, making employer sponsorship extremely difficult. Common immigration pathways are family visas or the Global Talent visa (non-artist route).
+
+**Q: What are the career progression paths?**
+A: From apprentice to junior hairdresser, then senior hairdresser, creative director, or salon manager; with experience, you can open your own salon.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hairdressers and barbers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for this occupation in the UK?**
-答：Entry-level salary is around £16,000-20,000, rising to £28,000-40,000 for senior roles, with tips and commission significantly increasing income.
-
-**问：Can foreign hairdressers come to the UK on a work visa?**
-答：While on the eligible list, the salary threshold (£26,200) is far above typical earnings, making sponsorship rare. Common routes are family visas or Global Talent (unlikely).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

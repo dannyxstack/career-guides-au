@@ -1,60 +1,96 @@
-# Sales Specialist for Garden, DIY, Pet and Zoo Supplies（Sales Specialist for Garden, DIY, Pet and Zoo Supplies）职业分析 · DE
+# Sales Specialist for Garden, DIY, Pet and Zoo Supplies — career analysis · Germany
 
-**职业代码：6226 – Sales Specialist for Garden, DIY, Pet and Zoo Supplies。**
+**Occupation code: 6226 (KldB)**
 
-Advises and sells gardening, DIY, pet and zoo products in retail stores, handles customer service, merchandising, and cashier duties.
+Provide product advice, sales, and customer service in garden centers, DIY hardware stores, or pet shops, handling product display, inventory management, and checkout.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（销售专员） | 2年（双元制） | —（培训期间有津贴，仅需少量教材费） |
-| 双元制职业培训（零售销售员） | 3年（双元制） | —（培训期间有津贴，仅需少量教材费） |
+| Dual vocational training (sales specialist) | 2 years (dual system) | $0~$500 (Stipend during training, only small costs for materials) |
+| Dual vocational training (retail salesperson) | 3 years (dual system) | $0~$500 (Stipend during training, only small costs for materials) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训毕业证书 | 德国工商业行会（IHK） | 必备 | 完成双元制培训后获得，行业认可 |
-| 德语B2证书 | 歌德学院等 | 可选 | 非强制但雇主通常要求 |
+| Vocational training graduation certificate | German Chamber of Commerce and Industry (IHK) | Required | Awarded after completing dual vocational training, recognized by the industry |
+| German B2 certificate | Goethe-Institut, etc. | Optional | Not mandatory but usually required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。德国零售业持续数字化转型，但线下专业咨询仍有需求。园艺与宠物市场稳定增长，整体就业机会平稳，大城市需求略高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Germany's retail sector continues digital transformation, but demand for in-person expert advice remains. Gardening and pet markets grow steadily; overall job opportunities are stable, with slightly higher demand in large cities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，根据州和公司规模略有差异 |
-| 中级（3-7年） | $30,000~$38,000 | 含绩效奖金可能更高 |
-| 高级（7年以上/主管） | $38,000~$48,000 | 部门主管或专业采购岗位 |
+| Median salary | $39,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, varies slightly by state and company size |
+| Mid-level (3–7 years) | $30,000~$38,000 | May be higher with performance bonuses |
+| Senior (7+ years/supervisor) | $38,000~$48,000 | Department manager or professional procurement role |
+| average salary | $48,612 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从销售员晋升为部门主管、店长，或转向采购、市场营销等专业岗位。具备产品知识与销售技能后可兼任培训师。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
+
+May advance from salesperson to department manager, store manager, or transition to roles such as procurement and marketing. With product knowledge and sales skills, one can also serve as a trainer.
+
+**Tasks most exposed to AI:**
+
+- Self-checkout machines replace cashier and scanning tasks
+- AI chatbots handling common product inquiries and returns
+- Automated inventory counting and replenishment in inventory management systems.
+- Electronic price tag updates replace manual label changes
+- Intelligent recommendation systems replace some sales guidance
+
+**Where AI augments the role:**
+
+- AI-assisted customer demand forecasting boosts cross-selling efficiency
+- Real-time inventory data analysis helps proactively recommend products
+- Virtual fitting rooms enhance customer experience and reduce return rates
+- Personalized marketing tools to support customer relationship maintenance
+- Smart Scheduling System optimizes staffing and reduces idle time
+
+**Human moat:**
+
+- Complex emotional communication and complaint handling skills
+- Personalized solutions based on unstructured requirements
+- Sensory interactions like touch and try-on in physical product experiences
+- Ability to build long-term trusting relationships with regular customers
+- Flexible response to emergencies (e.g., security incidents, sudden passenger flow)
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic data analysis and sales forecasting tools
+- Social media and online marketing skills
+- Multilingual communication skills (serving international customers)
+- Inventory management and visual merchandising basics
+- Tech Literacy for Hybrid Retail (online + offline)
+
+**Key growth areas:**
 
 - green retailing
 - DIY boom
@@ -63,65 +99,67 @@ Advises and sells gardening, DIY, pet and zoo products in retail stores, handles
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于有德国认可的职业资格或大学学历者，需获得雇主offer。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德找工，需具备基本德语能力。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | For those with a German-recognised vocational qualification or university degree; a job offer from an employer is required. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa allowing entry to Germany for job hunting, requiring basic German language skills. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Specialist for Garden, DIY, Pet and Zoo Supplies？**
-- 喜欢与人打交道、乐于提供咨询的人
-- 对园艺、DIY或宠物有浓厚兴趣者
-- 能适应站立工作和周末轮班的人
+**Who is suited**
+- People who enjoy interacting with others and providing advice.
+- Those with strong interest in gardening, DIY, or pets
+- Able to tolerate standing work and weekend shifts
 
-**谁不适合学Sales Specialist for Garden, DIY, Pet and Zoo Supplies？**
-- 不擅长销售或沟通者
-- 追求高薪或快速晋升者
+**Who is not suited**
+- Those not skilled in sales or communication
+- Those seeking high salaries or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation in Germany?**
+A: Junior pre-tax annual approx. 2.4-3k EUR, intermediate 3-3.8k, senior supervisor up to 4.8k EUR.
+
+**Q: Can third-country nationals immigrate to Germany through this occupation?**
+A: Challenging. This occupation is not in shortage and does not require a university degree; mainly applicable under the Skilled Immigration Act or Opportunity Card. Must first obtain recognized professional qualifications in Germany.
+
+**Q: What training or qualifications are required?**
+A: Typically requires completion of German dual vocational training (2-3 years), such as retail salesperson or sales specialist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Specialist for Garden, DIY, Pet and Zoo Supplies属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Germany?**
-答：Entry-level around €24,000-30,000 gross/year, mid-level €30,000-38,000, senior/supervisor up to €48,000.
-
-**问：Can third-country nationals immigrate to Germany through this occupation?**
-答：It's difficult. This is not a shortage occupation and does not require a degree. Options include the Skilled Immigration Act or Opportunity Card, but you need a recognized vocational qualification.
-
-**问：What training or education is required?**
-答：Typically a 2-3 year dual vocational training (e.g., retail salesperson or sales specialist).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Hotel Multiskilled Worker（Hotel Multiskilled Worker）职业分析 · FR
+# Hotel Multiskilled Worker — career analysis · France
 
-**职业代码：G1502 – Hotel Multiskilled Worker。**
+**Occupation code: G1502 (ROME)**
 
-Performs multiple service tasks in hotels, including room cleaning, reception, breakfast preparation, and public area maintenance, typical of flexible staffing.
+Engaged in various service tasks within the hotel, including room cleaning, reception, breakfast preparation, and maintenance of public areas, this is a flexible employment position.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学毕业+学徒制 | 1年（CAP） | —（公立CFA免费，部分私立每年约10000欧元） |
-| 职业高中+学徒制 | 2年（Bac Pro） | —（公立学校免学费，仅注册费约500欧元/年） |
+| Secondary school graduation + apprenticeship | 1 year (CAP) | $0~$10,000 (Public CFA free, some private institutions approx. €10,000 per year) |
+| Vocational high school + apprenticeship | 2 years (Bac Pro) | $0~$5,000 (Public schools are tuition-free, with only a registration fee of about 500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店服务CAP证书 | 法国教育部 | 可选 | 提供多技能基础培训，非强制但优先 |
-| 卫生与安全培训 | 就业机构或雇主 | 可选 | HACCP等食品卫生证书，雇主常要求 |
+| Hotel Service CAP Certificate | French Ministry of Education | Optional | Multi-skill foundational training is provided, not mandatory but preferred |
+| Health and safety training | Employment agencies or employers | Optional | HACCP and other food hygiene certificates are often required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 250,000。法国旅游与酒店业持续复苏，2024年后对多技能员工需求稳定，尤其在中小型酒店和季节性度假地。但自动化（如自助入住）可能影响部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. France's tourism and hospitality industry continues to recover, with stable demand for multiskilled workers after 2024, especially in small and medium-sized hotels and seasonal resorts. However, automation (such as self-check-in) may affect some positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $19,000~$22,000 | SMIC水平，约2024年最低年薪19800欧元 |
-| 中级（3-5年） | $22,000~$26,000 | 含小费或奖金 |
-| 高级（5年以上/主管） | $26,000~$32,000 | 多为楼层主管或前台主管 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $19,000~$22,000 | At SMIC level, the minimum annual salary for 2024 is about 19,800 euros |
+| Mid-level (3–5 years) | $22,000~$26,000 | Includes tips or bonuses |
+| Senior (5+ years / supervisor) | $26,000~$32,000 | Most are floor supervisors or front desk supervisors |
+| average salary | $22,326 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中低（★★☆☆☆）。** 可从客房服务员或综合员工起步，晋升为楼层主管、前台经理或酒店部门主管；需积累经验及考取酒店管理BTS文凭（2年）。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Multi-skilled employees are affected by AI, which is a mixed responsibility: repetitive cleaning and tidying tasks are easily replaced by automation, but human-machine collaboration, flexible responses, and personalized services still require humans, and future positions will move toward multi-skilled skill upgrades.
+
+You can start as a housekeeping staff or general staff member and be promoted to floor supervisor, front desk manager, or hotel department supervisor; Experience and a BTS diploma in hotel management (2 years) are required.
+
+**Tasks most exposed to AI:**
+
+- The automatic cleaning robot performs room cleaning and floor maintenance
+- The AI scheduling system optimizes room service scheduling and material resupply
+- The smart front desk completes check-in check-in and basic inquiries
+- The automatic breakfast machine completes food preparation and serving
+- Predictive maintenance systems monitor the status of public area facilities
+
+**Where AI augments the role:**
+
+- AI-assisted room inspection and quality monitoring (image recognition)
+- Multilingual real-time translation tools improve communication efficiency with customers
+- Smart terminals quickly handle customer complaints and requests
+- Data analysis optimizes multitasking prioritization and time management
+- Collaborative robots assist with heavy lifting and inventory management
+
+**Human moat:**
+
+- Flexible adaptation to unexpected situations (such as special guest needs).
+- A personalized understanding of hotel culture and service details
+- Overall workflow coordination enabled by cross-skill crossing
+- Emotional support and empathy in interpersonal interactions
+
+**Skills to build:**
+
+- Digital literacy: Use hotel management systems and mobile terminals
+- Basic Data Analysis: Understanding operational metrics and optimization recommendations
+- Human-machine collaboration: Collaboration with cleaning robots and self-service devices
+- Emergency handling: Manual handling capability in case of machine failure
+- Multilingual communication: Enhance language services with AI tools
+- Proactive learning: Continuously adapt to new tools and processes
+
+**Key growth areas:**
 
 - hospitality recovery
 - seasonal demand
@@ -63,58 +98,66 @@ Performs multiple service tasks in hotels, including room cleaning, reception, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Residence Permit)） | 需雇主担保，年薪需达到SMIC以上，本地优先原则下难获批 |
+| Subclass Salarié (Salarié (Employee Residence Permit)) | Employer sponsorship required; annual salary must be above the SMIC; difficult to obtain due to local preference. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hotel Multiskilled Worker？**
-- 喜欢灵活多变的工作内容，不愿局限于单一任务
-- 愿意在酒店业从基层做起，积累经验
-- 对薪资要求不高，重视人际交流和服务体验
+**Who is suited**
+- They enjoy flexible and varied work content and are unwilling to be confined to a single task
+- Willing to start from the ground up in the hotel industry and accumulate experience
+- Low salary requirements, emphasizing interpersonal communication and service experience
 
-**谁不适合学Hotel Multiskilled Worker？**
-- 追求高薪或稳定、规律的工作节奏
-- 不善于应对高强度体力劳动和轮班制
+**Who is not suited**
+- Pursue high salaries or stable, regular work routines
+- They are not adept at handling high-intensity physical labor and shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for multi-skilled hotel employees?**
+A: Starting salaries are usually at the French minimum wage (SMIC) level, about 19,800 euros per year; Intermediate employees earn about 22,000-26,000 euros; Supervisors can earn up to 32,000 euros. Tips and peak season bonuses are common.
+
+**Q: Can non-EU individuals immigrate to France through this employment?**
+A: This occupation is a low-skilled occupation, making it difficult to obtain a work visa. France prioritizes hiring locals and EU citizens; employer-sponsored Salarié residency requires proof that suitable local employees cannot be found.
+
+**Q: What are the career progression paths for this occupation?**
+A: Promotion can be made to housekeeping supervisor, front desk manager, or food and beverage department supervisor; You can also enter management positions through continuing education (such as BTS in Hotel Management), with salaries rising above 35,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中低（★★☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hotel Multiskilled Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hotel multiskilled workers?**
-答：Entry-level is typically at SMIC, around €19,800/year; mid-level €22,000-26,000; supervisor up to €32,000. Tips and seasonal bonuses are common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

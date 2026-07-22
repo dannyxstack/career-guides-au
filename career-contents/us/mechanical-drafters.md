@@ -1,58 +1,94 @@
-# Mechanical Drafters（Mechanical Drafters）职业分析 · 美国
+# Mechanical Drafters — career analysis · United States
 
-**职业代码：17-3013 – Mechanical Drafters。**
+**Occupation code: 17-3013 (SOC)**
 
-Mechanical drafters prepare detailed working diagrams of machinery and mechanical devices, including dimensions, fastening methods, and other engineering information, serving as a bridge between engineering design and manufacturing.
+Mechanical drafters prepare detailed working drawings of machinery and mechanical devices, including dimensions, fastening methods, and other engineering information, bridging engineering design and manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院费用） |
-| 技术证书 | 1年 | $5,000~$15,000（职业技术学校） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college costs) |
+| Technical certificate | 1 year | $5,000~$15,000 (Vocational technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程制图副学士学位 | 社区学院 | 必备 | 通常为最低要求 |
-| CAD认证 | Autodesk | 可选 | 如AutoCAD认证，提升竞争力 |
+| Associate degree in engineering drafting | Community college | Required | Usually the minimum requirement |
+| CAD certification. | Autodesk | Optional | e.g., AutoCAD certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 46,200。美国劳工统计局预计2023-2033年机械绘图员就业将下降约2%，主要由于CAD软件自动化，但建筑和制造业的复苏仍提供一定岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 46,200. U.S. Bureau of Labor Statistics projects a decline of about 2% in mechanical drafter employment from 2023 to 2033, mainly due to CAD software automation, but recovery in construction and manufacturing still provides some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级 |
-| 中级（3-7年） | $55,000~$75,000 | 有经验 |
-| 高级（7年以上） | $75,000~$95,000 | 高级或主管 |
+| Median salary | $71,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level |
+| Mid-level (3–7 years) | $55,000~$75,000 | Experienced |
+| Senior (7+ years) | $75,000~$95,000 | Senior or supervisor |
+| average salary | $75,060 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 初级绘图员可通过积累经验晋升为高级绘图员或设计工程师，也可转至项目管理或技术销售岗位。继续教育如获得工程学位可拓宽职业道路。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Mechanical drafting work is highly structured, with many drawing and dimensioning tasks likely to be replaced by AI; entry-level positions are shrinking rapidly, requiring upgrades toward design/engineering.
+
+Junior draftspersons can advance to senior draftspersons or design engineers by gaining experience, or transition to project management or technical sales roles. Continuing education, such as obtaining an engineering degree, can broaden career pathways.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate 2D/3D part drawings based on engineering specifications
+- Automatically dimension, tolerance, and annotate
+- Exporting standard three views and section views directly from 3D models
+- Automatically update drawing revision versions based on design parameters
+- Drawing compliance checks (e.g., meeting GB/ISO standards)
+
+**Where AI augments the role:**
+
+- AI quickly generates multiple design options for designers to compare and select
+- Real-time comparison of drawings with simulation results for consistency
+- Quickly retrieve historical drawings and engineering changes via natural language
+- AI-assisted optimization of material usage and manufacturing processes
+- Automatically generate bill of materials and processing instructions
+
+**Human moat:**
+
+- Understanding design intent and functional requirements, making sound engineering judgments
+- Handle non-standard, complex, or innovative mechanical structure design
+- Cross-departmental communication and coordination (with engineers, manufacturing, quality inspection)
+- On-site problem diagnosis and design rework decisions
+- Overall trade-offs among regulations, safety, and costs
+
+**Skills to build:**
+
+- Mastering generative CAD tools (e.g., Autodesk Fusion 360 Generative Design)
+- Learn basic programming (Python, API calls) to customize automated workflows
+- Understand manufacturing processes (CNC, 3D printing, sheet metal)
+- Improve knowledge of engineering mechanics and materials
+- Training in drawing review and systematic design thinking
+- Learn BIM or PLM platform management
+
+**Key growth areas:**
 
 - CAD
 - BIM
@@ -61,68 +97,67 @@ Mechanical drafters prepare detailed working diagrams of machinery and mechanica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等经验，配额有限 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需PERM劳工证，排期较长 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大和墨西哥公民，需符合相关职业清单 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or equivalent experience, limited quota. |
+| Subclass EB-3 (EB-3 Skilled Worker) | PERM labor certification required, long wait times |
+| Subclass TN (TN NAFTA Professional) | Only for Canadian and Mexican citizens, must meet relevant occupation list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Drafters？**
-- 喜欢精确制图和细节工作的人
-- 具备空间想象力和技术思维者
-- 愿意在工程或制造行业稳定发展者
-
-**谁不适合学Mechanical Drafters？**
-- 不擅长使用计算机软件者
-- 追求高薪资和高增长前景者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy precise drawing and detail-oriented work
+- Those with spatial imagination and technical thinking
+- Those willing to develop steadily in engineering or manufacturing industries
+
+**Who is not suited**
+- Those not proficient in using computer software
+- Those seeking high salaries and high growth prospects
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mechanical drafters?**
+A: Median annual salary for US mechanical drafters is about US$60,000, entry-level about US$45,000, senior can exceed US$90,000, varying by industry and location.
+
+**Q: Is it easy for mechanical drafters to immigrate to the US?**
+A: It is a skilled occupation, eligible for immigration via H-1B or EB-3 green card, but requires employer sponsorship with long wait times and limited quotas.
+
+**Q: Will mechanical drafters be replaced by AI?**
+A: CAD automation will reduce low-end drafting jobs, but complex design and engineering understanding still require human input; skills need to shift toward design or management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Drafters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mechanical drafters?**
-答：The median annual wage for mechanical drafters in the U.S. is around $60,000, with entry-level around $45,000 and senior roles over $90,000, varying by industry and location.
-
-**问：Is it easy for mechanical drafters to immigrate to the U.S.?**
-答：It is a skilled occupation eligible for H-1B and EB-3 green cards, but requires employer sponsorship and faces long waits due to quotas.
-
-**问：Will mechanical drafters be replaced by AI?**
-答：CAD automation may reduce low-end drafting jobs, but complex design and engineering understanding still require humans; upskilling towards design or management is advisable.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

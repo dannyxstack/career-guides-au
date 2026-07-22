@@ -1,60 +1,95 @@
-# Ambulance Worker（Ambulance Worker）职业分析 · NL
+# Ambulance Worker — career analysis · Netherlands
 
-**职业代码：3258 – Ambulance Worker。**
+**Occupation code: 3258 (ISCO08)**
 
-Ambulance workers provide emergency medical care and transport patients to medical facilities, playing a crucial role in the pre-hospital emergency system.
+Paramedics provide emergency medical care and transport patients to medical facilities, forming a key part of the pre-hospital emergency system.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年（MBO） | —（荷兰政府资助，学费低，可能需自付书本费） |
-| 在职培训 | 1-2年 | $1,000~$5,000（雇主提供培训，部分费用自理） |
+| Secondary vocational education | 3 years (MBO) | $0~$2,000 (Funded by the Dutch government with low tuition fees; may need to pay for books yourself) |
+| On-the-job training | 1-2 years | $1,000~$5,000 (Employer provides training, partially self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 救护员执业证书 | 荷兰急救护理基金会 | 必备 | 完成培训并通过国家考试后获得 |
-| 急救证书（BHV） | 注册培训机构 | 可选 | 基本急救技能认证，部分雇主要求 |
+| Paramedic practice certificate | Netherlands Emergency Care Foundation | Required | Awarded upon completion of training and passing national exams |
+| First aid certificate (BHV). | Registered Training Organisation | Optional | Basic first aid certification, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰人口老龄化持续，紧急医疗需求增长，预计对救护员的需求将保持稳定，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The aging population in the Netherlands continues, and the demand for emergency medical care is growing. The demand for paramedics is expected to remain stable, with good job prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$34,000 | 税前年薪，含基本工资和补贴 |
-| 中级（3-7年） | $34,000~$42,000 | 税前年薪，包含夜班和周末津贴 |
-| 高级（7年以上） | $42,000~$50,000 | 税前年薪，含管理职责津贴 |
+| Median salary | $57,502 | Median salary (official: CBS median hourly wage €29.1/hour × 1976 hours annualised, BRC group 0632 Politie en brandweer; P25–P75 €46,238–€67,777, CBS 2024) |
+| Entry level (0–3 years) | $26,000~$34,000 | Pre-tax annual salary, including base salary and subsidies |
+| Mid-level (3–7 years) | $34,000~$42,000 | Annual salary before tax, including night and weekend allowances |
+| Senior (7+ years) | $42,000~$50,000 | Gross annual salary, including management duty allowance. |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可晋升为高级救护员、团队领导或急救调度员，也可通过进修成为护理人员或急救医学专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some non-clinical tasks of ambulance officers (e.g., record keeping, dispatch communication) are easily assisted or replaced by AI, but core emergency assessment and care operations rely on human judgment and tactile skills; AI enhances rather than replaces. Overall risk is manageable, but entry-level positions may decrease due to AI streamlining processes.
+
+Practitioners can advance to senior paramedic, team leader, or emergency dispatcher, and can also become nurses or emergency medicine specialists through further study.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate accident reports and patient records via speech-to-text
+- Optimize dispatch routes based on GPS and real-time traffic data.
+- Automatically cross-check medication lists with allergy information
+- Use chatbots to answer non-emergency helpline calls
+- Automatically organize and upload medical data to hospital systems.
+
+**Where AI augments the role:**
+
+- AI-assisted real-time vital sign monitoring and anomaly alerts
+- AR headset provides on-site first aid guidance (e.g., CPR compression depth)
+- Disease prediction based on historical data to help prioritize high-risk patients
+- Translation tools support communication with patients who have language barriers.
+- Virtual reality simulation training to enhance emergency response ability
+
+**Human moat:**
+
+- On-site rapid assessment and decision-making (e.g., whether to transport, maintain site stability)
+- Ability to handle complex trauma and provide emotional comfort
+- Coordinate with patients, families, and emergency services like fire and police in harsh environments
+- Legal and ethical responsibilities (e.g., patient will, medication authority)
+- Intuition and experience-driven abnormal situation handling
+
+**Skills to build:**
+
+- Using electronic medical records and mobile medical apps
+- Basic data analysis and interpretation of AI early warning systems
+- Cross-cultural communication and health literacy education.
+- Integration of technology tools for emergency scenarios (e.g., drones, telemedicine)
+- Continuous learning of new guidelines and medical AI tools
+
+**Key growth areas:**
 
 - Aging Population
 - Emergency Care Demand
@@ -63,69 +98,68 @@ Ambulance workers provide emergency medical care and transport patients to medic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需满足薪资门槛（2024年约€4,500/月） |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有雇主担保的非欧盟技术移民，薪资门槛约€3,672/月（30岁以下） |
-| Subclass Orientation Year（Orientation Year） | 荷兰大学毕业或全球前200高校毕业生可申请，有效期一年，用于寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talents, must meet the salary threshold (approximately €4,500/month in 2024). |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to non-EU skilled migrants with employer sponsorship, salary threshold approximately €3,672/month (under 30 years old) |
+| Subclass Orientation Year (Orientation Year) | Open to graduates of Dutch universities or global top 200 universities; valid for one year for job seeking. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ambulance Worker？**
-- 能够在高压环境下冷静应对紧急情况的个人
-- 具备团队合作精神和良好沟通能力的人
-- 对医疗急救有热情，愿意轮班工作的人
-
-**谁不适合学Ambulance Worker？**
-- 无法承受高强度体力工作和情绪压力的人
-- 不适应不规律作息和频繁夜班工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals who can remain calm in high-pressure emergencies
+- People with teamwork spirit and good communication skills.
+- People passionate about medical emergency response and willing to work shifts
+
+**Who is not suited**
+- People unable to handle high-intensity physical work and emotional stress
+- People who cannot adapt to irregular schedules and frequent night shifts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Dutch ambulance worker?**
+A: The average pre-tax annual salary for ambulance officers in the Netherlands is about €34,000, ranging from €26,000–€34,000 for junior roles to up to €50,000 for senior positions.
+
+**Q: How can non-EU citizens become ambulance officers in the Netherlands?**
+A: Can be via EU Blue Card or highly skilled migrant visa, requires employer sponsorship and meeting salary threshold; Dutch is a basic requirement.
+
+**Q: What educational background is required?**
+A: Usually requires completing MBO-level ambulance attendant training (3 years), or obtaining professional qualifications through on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Ambulance Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an ambulance worker in the Netherlands?**
-答：The average gross annual salary for an ambulance worker is around €34,000, with entry-level from €26,000-€34,000 and senior up to €50,000.
-
-**问：How can a non-EU citizen become an ambulance worker in the Netherlands?**
-答：Through the EU Blue Card or Highly Skilled Migrant visa, requiring a job offer and meeting salary thresholds; Dutch language proficiency is mandatory.
-
-**问：What educational background is required?**
-答：Typically a 3-year MBO-level ambulance worker training or on-the-job training leading to certification.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

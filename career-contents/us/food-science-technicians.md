@@ -1,58 +1,94 @@
-# Food Science Technicians（Food Science Technicians）职业分析 · 美国
+# Food Science Technicians — career analysis · United States
 
-**职业代码：19-4013 – Food Science Technicians。**
+**Occupation code: 19-4013 (SOC)**
 
-Assist food scientists in performing standardized tests to determine physical or chemical properties of food or beverage products.
+Assist food scientists in physical and chemical testing of food or beverages to ensure product quality and safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$30,000（社区学院或技术学院） |
-| 学士学位 | 4年 | $40,000~$120,000（州立大学或私立大学） |
+| Associate degree | 2 years | $15,000~$30,000 (Community college or technical college) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (State university or private university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位或学士学位 | 认证院校 | 必备 | 食品科学、化学或相关领域 |
-| HACCP认证 | 国际HACCP联盟 | 可选 | 食品安全管理体系 |
+| Associate degree or bachelor's degree | Accredited institution | Required | Food science, chemistry, or related fields. |
+| HACCP certification | International HACCP Alliance. | Optional | Food safety management system |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。随着食品安全法规趋严和消费者对高品质食品需求增长，食品技术员就业前景稳定，预计2023-2033年岗位增长约4%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. With tightening food safety regulations and growing consumer demand for high-quality food, employment prospects for food technicians are stable, with projected job growth of about 4% from 2023-2033.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 实验室助理或技术员 |
-| 中级（4-7年） | $42,000~$55,000 | 有经验的技术员 |
-| 高级（8年以上） | $55,000~$70,000 | 高级技术员或主管 |
+| Median salary | $52,130 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Laboratory assistant or technician |
+| Mid-level (4-7 years) | $42,000~$55,000 | Experienced technician |
+| Senior (8+ years) | $55,000~$70,000 | Senior technician or supervisor |
+| average salary | $56,660 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级技术员可晋升为高级技术员、实验室主管或质量控制经理，部分转向研发或食品安全管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation are significantly enhancing food technologists' capabilities, enabling faster and more accurate quality testing, data analysis, and report generation, but physical sampling and on-site operations still rely on humans.
+
+Junior technicians can advance to senior technician, lab supervisor, or quality control manager, with some moving into R&D or food safety management roles.
+
+**Tasks most exposed to AI:**
+
+- Automate repetitive physical and chemical tests (e.g., pH, moisture determination)
+- Use AI for data recording, organization, and preliminary analysis
+- Generate standardized quality reports and compliance documents
+- Automated visual inspection of product appearance through vision systems
+- Using machine learning to predict shelf life and microbial risks
+
+**Where AI augments the role:**
+
+- AI-assisted design of experimental plans, optimizing testing processes
+- Leverage big data analytics to identify quality trends and anomalies
+- Conducting multiple tests simultaneously using automated instruments
+- Remotely monitor and adjust production process parameters.
+- Use AR to guide complex instrument operation and maintenance
+
+**Human moat:**
+
+- Judgment and root cause analysis of abnormal situations
+- Collaborative communication with production and R&D teams
+- Develop and adjust testing standards and SOPs
+- Unstructured tasks such as field sampling and sensory evaluation
+- Regulatory compliance interpretation and audit response
+
+**Skills to build:**
+
+- Data analysis and statistics (Python/R)
+- AI/Machine learning basic applications
+- Automated laboratory instrument operation
+- Food regulation and compliance knowledge (e.g., HACCP)
+- Cross-team communication and project management
+- Use of digital tools (LIMS, ERP)
+
+**Key growth areas:**
 
 - Food Safety
 - Quality Control
@@ -61,65 +97,64 @@ Assist food scientists in performing standardized tests to determine physical or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于学士及以上学位，需要雇主担保，年度配额竞争激烈。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于技术工人，需PERM劳工证，排期较长。 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大或墨西哥公民，食品技术员在NAFTA职业列表内。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to bachelor's degree and above, requires employer sponsorship, annual quota competitive. |
+| Subclass EB-3 (Employment-Based Third Preference) | For skilled workers, requires PERM labor certification, long backlog. |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens; food technologist is on the NAFTA professional list. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Food Science Technicians？**
-- 注重细节、有条理的人
-- 对食品科学与安全感兴趣的人
-- 喜欢实验室工作环境的人
-
-**谁不适合学Food Science Technicians？**
-- 不擅长重复性实验操作的人
-- 对化学试剂敏感或容易过敏的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized person
+- People interested in food science and safety
+- People who enjoy laboratory work environments
+
+**Who is not suited**
+- People who dislike repetitive experimental operations
+- People sensitive or allergic to chemical reagents
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a food technician?**
+A: Entry-level technician annual salary approximately $32,000-$42,000 USD, mid-level $42,000-$55,000, senior up to $55,000-$70,000. Salaries vary by region, experience, and employer.
+
+**Q: Can food technicians immigrate to the US on an H-1B visa?**
+A: Yes, but you need a bachelor's degree and the position must be classified as a specialty occupation. H-1B quotas are limited with low success rates. EB-3 green card application is possible but has long wait times.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Food Science Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for food science technicians?**
-答：Entry-level technicians earn $32,000-$42,000, mid-level $42,000-$55,000, and senior $55,000-$70,000 annually, depending on location and experience.
-
-**问：Can food science technicians immigrate to the US via H-1B visa?**
-答：Yes, but requires a bachelor's degree and the job to be a specialty occupation. H-1B has limited quotas and low lottery odds. EB-3 green card is also possible but with long backlogs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

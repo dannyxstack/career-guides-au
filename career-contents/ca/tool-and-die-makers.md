@@ -1,61 +1,94 @@
-# Tool and die makers（Tool and die makers）职业分析 · 加拿大
+# Tool and die makers — career analysis · Canada
 
-**职业代码：72100 – Tool and die makers。**
+**Occupation code: 72100 (NOC)**
 
-Tool and die makers in Canada are skilled tradespeople who manufacture, maintain, and repair metal molds, dies, jigs, and precision tooling, essential in automotive, aerospace, and medical device industries. They can immigrate via PNP or Express Entry.
+Mold makers are a trade occupation in Canada, mainly responsible for manufacturing, maintaining, and repairing metal molds, fixtures, and precision tooling, widely used in automotive, aerospace, medical devices, and other industries. Immigration through Provincial Nominee Program (PNP) or Express Entry is possible.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学徒制 | 4年 | $1,000~$5,000（学徒期间通常有薪资，培训费低） |
-| 学院证书/大专 | 2年 | $10,000~$20,000（加拿大公立学院2年制） |
-| 高中毕业 | 0年 | —（入读学徒或学院的基础要求） |
+| Apprenticeship | 4 years | $1,000~$5,000 (Apprentices usually earn wages with low training costs) |
+| College certificate/diploma | 2 years | $10,000~$20,000 (Canadian public college 2-year program) |
+| High school graduation | 0 years | $0~$0 (Basic requirements for apprenticeship or college enrollment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省技工资格认证 | 各省学徒与行业认证局（如Ontario College of Trades） | 必备 | 通常需通过资格考试，部分省份强制 |
-| 红印背书 | 加拿大红印项目（Red Seal Program） | 可选 | 跨省承认的证书，移民后建议考取 |
-| ECA学历认证 | WES / ICAS / IQAS | 可选 | 用于Express Entry学历加分 |
-| 雅思/G类CLB 5 | IELTS / CELPIP | 可选 | 技工移民一般要求CLB 5，Express Entry需更高 |
+| Provincial trade qualification certification. | Provincial apprenticeship and trade certification authorities (e.g., Ontario College of Trades) | Required | Usually requires passing a qualification exam; mandatory in some provinces |
+| Red Seal endorsement | Canadian Red Seal Program | Optional | Interprovincially recognized certificate; recommended to obtain after immigration |
+| ECA (Educational Credential Assessment). | WES / ICAS / IQAS | Optional | Used for Express Entry education points |
+| IELTS/G CLB 5 | IELTS / CELPIP | Optional | Skilled migration generally requires CLB 5, Express Entry requires higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大制造业持续需要高精度模具人才，尤其在安大略省和魁北克省。随着制造业复苏和新能源转型，预计未来5年就业稳定增长，但需注意区域性岗位分布。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada's manufacturing sector continues to need high-precision mold and die talent, especially in Ontario and Quebec. With manufacturing recovery and the new energy transition, stable employment growth is expected over the next 5 years, but regional job distribution should be noted.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 学徒或刚获证 |
-| 中级（3-8年） | $50,000~$70,000 | 红印技工 |
-| 高级（8年以上） | $65,000~$85,000 | 主管或专家 |
+| Median salary | $62,400 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$50,000 | Apprentice or newly certified. |
+| Mid-level (3–8 years) | $50,000~$70,000 | Red Seal tradesperson |
+| Senior (8+ years) | $65,000~$85,000 | Supervisor or specialist |
+| average salary | $64,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从学徒制起步，逐步成为独立模具制造工；经验积累后可升任主管、质量控制专家或开设工装车间。高级技工可转型为技术专家或生产经理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation are gradually replacing routine design and CAM programming tasks in mold making, but hands-on skills like on-site debugging and complex mold repair remain hard to replace. Entry-level positions have shrunk.
+
+Starting as an apprentice, you become an independent mold maker; with experience, you can advance to supervisor, quality control specialist, or open a tooling workshop. Senior technicians can transition to technical experts or production managers.
+
+**Tasks most exposed to AI:**
+
+- Generate CNC tool paths using CAM software
+- Generate standard mold design drawings using AI
+- Regular maintenance planning based on sensor data
+- Simple tolerance calculation and verification.
+
+**Where AI augments the role:**
+
+- AI-assisted stress analysis and thermal simulation for complex molds.
+- Use augmented reality (AR) to guide on-site assembly and commissioning
+- Use predictive maintenance algorithms to optimize mold life management
+- Remote fault diagnosis using digital twin technology
+
+**Human moat:**
+
+- On-site mold testing and intuitive diagnosis of abnormal issues
+- Flexible adjustment capability for multi-model small-batch molds
+- Process experience in communicating modifications with clients
+- Precision manual fitting (assembly, grinding).
+
+**Skills to build:**
+
+- AI-assisted manufacturing (e.g., adaptive machining in CAM software)
+- Additive Manufacturing (3D Printing Mold Parts)
+- Operation of IoT and predictive maintenance systems
+- Data analysis and statistical process control
+- 5-axis CNC programming for complex surfaces.
+- Mixed reality tools (HoloLens, etc.) in assembly
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Skilled Trades
@@ -64,68 +97,67 @@ Tool and die makers in Canada are skilled tradespeople who manufacture, maintain
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 多数省份有技工类优先项目，如安省技工类（Employer Job Offer: In-Demand Skills） |
-| Subclass EE（Express Entry） | 通过FSW或CEC入池，技工经验可获加分，但需满足语言要求 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有雇主offer的技工 |
+| Subclass PNP (Provincial Nominee Program) | Most provinces have skilled trades priority programs, such as Ontario's Skilled Trades stream (Employer Job Offer: In-Demand Skills) |
+| Subclass EE (Express Entry) | Enter the pool via FSW or CEC; skilled trade experience can earn points, but language requirements must be met |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled workers with employer offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tool and die makers？**
-- 有多年模具制造经验的技工，渴望移民加拿大
-- 愿意通过学徒制或学院提升技能者
-- 适应工厂环境、动手能力强的人
-
-**谁不适合学Tool and die makers？**
-- 偏好办公室工作、不愿从事体力劳动的人
-- 英语水平低、不计划考取语言成绩的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experienced toolmaker with years of experience, eager to immigrate to Canada
+- Willing to upskill through apprenticeships or college courses
+- Those who adapt to factory environments and are hands-on
+
+**Who is not suited**
+- People who prefer office work and are unwilling to do physical labor
+- People with low English proficiency who do not plan to take a language test
+
+---
+
+## 8. FAQ
+
+**Q: What are the pathways for mold makers to immigrate to Canada?**
+A: Main pathways are Provincial Nominee Program (PNP) Skilled Trades category and Express Entry. Most provinces list mold makers as priority occupations, such as Ontario's Skilled Trades stream. Having a job offer increases success rates.
+
+**Q: What is the salary level for mold makers in Canada?**
+A: Junior: about 35,000-50,000 CAD, mid: 50,000-70,000, senior: 65,000-85,000. Experienced tradespeople may exceed 100,000. Salaries vary by province and industry.
+
+**Q: What certificates are needed to work in Canada?**
+A: It is recommended to obtain Red Seal certification, which is nationally recognized. Some provinces require provincial trade qualification exams. Educational credentials need ECA certification for immigration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tool and die makers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the immigration pathways for toolmakers to Canada?**
-答：Main pathways are PNP skilled trades streams and Express Entry. Most provinces prioritize toolmakers; e.g., Ontario's In-Demand Skills stream. A job offer boosts chances.
-
-**问：What is the salary range for tool and die makers in Canada?**
-答：Entry-level: CAD 35k-50k, mid-level: 50k-70k, senior: 65k-85k. Experienced may exceed CAD 100k. Varies by province and industry.
-
-**问：What certifications are required to work in Canada?**
-答：Red Seal endorsement is recommended for national mobility. Some provinces mandate provincial trade exams. ECA is needed for immigration points.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

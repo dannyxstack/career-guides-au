@@ -1,60 +1,93 @@
-# Recreation and Entertainment Activity Monitors（Recreation and Entertainment Activity Monitors）职业分析 · ES
+# Recreation and Entertainment Activity Monitors — career analysis · Spain
 
-**职业代码：3724 – Recreation and Entertainment Activity Monitors。**
+**Occupation code: 3724 (CNO)**
 
-Organize, supervise, and guide recreational and entertainment activities such as sports, games, crafts, and outdoor adventures, ensuring safety and enjoyment for participants.
+Responsible for organizing, supervising, and guiding various leisure and entertainment activities, such as sports competitions, games, crafts, and outdoor adventures, ensuring participants are safe and enjoying themselves.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育或高中毕业 | 无强制要求 | —（通常只需高中文凭，短期课程费用低） |
-| FP中等职业培训（Técnico en Animación de Actividades Físicas y Deportivas） | 2年（FP Grado Medio） | $300~$800（公立FP学费低，私立稍高） |
+| Secondary education or high school graduation | No mandatory requirements | $0~$500 (Usually, only a high school diploma is required, and short-term courses are inexpensive) |
+| FP Secondary Vocational Training (Técnico en Animación de Actividades Físicas y Deportivas) | 2 years (FP Grado Medio) | $300~$800 (Public FP tuition is low, private is slightly higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 西班牙红十字会或认可培训机构 | 必备 | 通常持证上岗，部分雇主强制要求 |
-| 户外领导力或体育指导员证书 | 西班牙各自治区体育机构 | 可选 | 提升竞争力，非强制 |
+| First aid certificate | Spanish Red Cross or accredited training institutions | Required | Usually requires a certificate, but some employers require it |
+| Outdoor leadership or sports instructor certificate | Sports organizations in various autonomous communities of Spain | Optional | Increases competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。西班牙旅游业和休闲产业持续增长，带动该岗位需求，尤其在海滨和旅游区。季节性明显，但数字化和定制化活动创造新机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spain's tourism and leisure industries continue to grow, driving demand for these positions, especially along the coasts and tourist areas. Seasonality is distinct, but digital and customized activities create new opportunities.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 多为兼职或季节合同，税前年薪 |
-| 中级（3-6年） | $20,000~$25,000 | 稳定雇主或全年岗位，含奖金 |
-| 高级（6年以上或主管） | $25,000~$32,000 | 副主管或项目经理，福利较好 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Most are part-time or seasonal contracts, with pre-tax annual salary |
+| Mid-level (3–6 years) | $20,000~$25,000 | Stable employer or year-round position, including bonuses |
+| Senior (6+ years or supervisory) | $25,000~$32,000 | Deputy Supervisor or Project Manager, with better benefits |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从助理升至主管或活动协调员，考取急救或户外领导力证书提升竞争力，部分转向体育教练或旅游管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The tasks of recreation activity workers are both creative and interpersonal, making them hard to fully replace by AI, but administrative and repetitive tasks (e.g., scheduling, event registration) can be automated, reducing entry-level positions.
+
+You can advance from assistant to supervisor or event coordinator, earn first aid or outdoor leadership certificates to boost competitiveness, and some may transition to sports coaching or tourism management.
+
+**Tasks most exposed to AI:**
+
+- Event schedule planning and reminders (AI voice assistant or automated system)
+- Participant registration and check-in process (self-service kiosk or online form)
+- Basic safety rule explanation (pre-recorded video or AI Q&A chatbot)
+- Data collection and simple reporting of event outcomes (via automated analysis tools).
+
+**Where AI augments the role:**
+
+- Personalized activity recommendations (AI analysis based on participant preferences and past records)
+- Creative activity design (AI-assisted generation of event themes, game rules, or artistic plans)
+- On-site coordination and emergency response (AI real-time monitoring of site safety and providing suggestions)
+- Multilingual communication support (AI translation tool assists non-native participants)
+
+**Human moat:**
+
+- Improvise to handle participant emotions and emergencies (e.g., conflict mediation, team motivation)
+- Creating unique and engaging event experiences (requires empathy and live interaction skills)
+- Build long-term trust and community belonging (interpersonal bonds hard to replace by algorithms)
+- Multitasking coordination and leadership in complex activities (involving multiple roles and unforeseen factors)
+
+**Skills to build:**
+
+- Proficient in event management software (e.g., Eventbrite, Bizzabo)
+- Basic data analysis skills (interpreting participant feedback and optimizing activities)
+- Proficient in mainstream AI content generation tools (e.g., ChatGPT for copywriting, DALL·E for creative assets)
+- Enhanced communication and improvisation skills (core of human interaction)
+- Basic project management and teamwork skills
+- Emergency response and safety knowledge (AI-enhanced decision support)
+
+**Key growth areas:**
 
 - Tourism
 - Seasonal Employment
@@ -63,64 +96,66 @@ Organize, supervise, and guide recreational and entertainment activities such as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的受雇工作居留，需证明岗位无法由本地人填补。该职业非高技能，获批率较低。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employer-sponsored employment-based residence, it must be proven that the position cannot be filled by a local resident. This profession is not highly skilled and has a relatively low approval rate. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Recreation and Entertainment Activity Monitors？**
-- 喜欢户外活动、与人互动、有创意策划能力的人
-- 热爱运动、游戏和娱乐，性格开朗外向
-- 希望在旅游或休闲行业从事初级管理岗位者
+**Who is suited**
+- People who enjoy outdoor activities, interact with people, and have creative planning skills
+- Loves sports, gaming, and entertainment, and has a cheerful and outgoing personality
+- Those who wish to work in junior management positions in the tourism or leisure industry
 
-**谁不适合学Recreation and Entertainment Activity Monitors？**
-- 偏好稳定办公室工作或高薪职业者
-- 不喜欢不规律工时、季节性或体力劳动的人
+**Who is not suited**
+- Preference for stable office jobs or high-paying professionals
+- People who dislike irregular working hours, seasonal or physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for leisure and entertainment activity monitors in Spain?**
+A: Entry level annual salary around €16,000-20,000, mid-level €20,000-25,000, senior supervisor up to €32,000. Highly seasonal with a high proportion of part-time work.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: It is quite difficult; this occupation is not a high-skilled or scarce occupation, requires employer sponsorship, and it must be proven that the position cannot be filled by a local resident. It is recommended to first obtain relevant training or work experience.
+
+**Q: What are the promotion or development directions?**
+A: You can move from assistant to event supervisor, or move on to event coordinator, sports coach, or tourism manager. Obtaining certificates in first aid, outdoor leadership, and other skills can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Recreation and Entertainment Activity Monitors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for recreation activity monitors in Spain?**
-答：Entry-level positions earn around €16,000–€20,000, mid-level €20,000–€25,000, and senior supervisors up to €32,000. Seasonal and part-time roles are common.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult as it is not a high-skilled or shortage occupation. It requires employer sponsorship and proof of no local candidates. Prior training or experience is advisable.
-
-**问：What are the career advancement paths?**
-答：From assistant to activity supervisor, or move into event coordination, sports coaching, or tourism management. Certifications in first aid or outdoor leadership boost prospects.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

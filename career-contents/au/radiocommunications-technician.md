@@ -1,59 +1,95 @@
-# Radiocommunications Technician（Radiocommunications Technician）职业分析 · 澳大利亚
+# Radiocommunications Technician — career analysis · Australia
 
-**职业代码：313211 – Radiocommunications Technician。**
+**Occupation code: 313211 (ANZSCO)**
 
-Radiocommunications Technicians install, maintain, and repair radio communication equipment for broadcast, TV, mobile networks, and satellite systems. They test signals, diagnose faults, and ensure efficient communication system operation.
+Radio communication technicians install, maintain, and repair radio communication equipment, including broadcast, television, mobile networks, and satellite systems. They test signals, diagnose faults, and ensure communication systems operate efficiently.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育文凭 (Certificate IV) | 1-2年 | $5,000~$15,000（公立TAFE学费，国际学生费用更高） |
-| 高级文凭 (Diploma) | 1.5-2年 | $10,000~$25,000（包含更多实践和理论课程） |
+| Certificate IV in Vocational Education | 1-2 years | $5,000~$15,000 (Public TAFE tuition; international students pay more) |
+| Advanced Diploma (Diploma) | 1.5-2 years | $10,000~$25,000 (Includes more practical and theoretical courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| UEE30820 三级证书 - 电子与通信 | TAFE或注册培训机构 | 必备 | 包含无线电通信模块，核心资格 |
-| 高级无线电操作员执照 | 澳大利亚通信与媒体管理局 (ACMA) | 必备 | 操作发射设备必需 |
-| 安全工作培训 (White Card) | 各州认可培训机构 | 可选 | 建筑工地工作必需 |
+| UEE30820 Certificate III in Electronics and Communications | TAFE or registered training organizations | Required | Includes radio communication module, core qualification |
+| Advanced Radio Operator License | Australian Communications and Media Authority (ACMA) | Required | Required for operating transmission equipment |
+| White Card (Safety Training) | Registered training organisations in each state | Optional | Essential for construction site work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,200。澳大利亚对无线电通信技术员的需求稳定，受电信基础设施扩建和5G网络部署推动。偏远地区对通信维护需求高，就业机会集中在电信公司和政府机构。
+**Job demand: high (★★★★☆).** National workforce approx. 5,200. Demand for radio communications technicians in Australia is stable, driven by telecommunications infrastructure expansion and 5G network deployment. Remote areas have high demand for communication maintenance, with employment opportunities concentrated in telecom companies and government agencies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 实习或入门级职位 |
-| 中级（3-5年） | $70,000~$90,000 | 有经验的技术员 |
-| 高级（5年以上） | $90,000~$110,000 | 高级或主管级 |
+| Median salary | $118,872 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Internship or entry-level positions |
+| Mid-level (3–5 years) | $70,000~$90,000 | Experienced technician |
+| Senior (5+ years) | $90,000~$110,000 | Senior or supervisory level |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 职业晋升路径：从初级技术员到高级技术员、团队主管，再到通信工程师或项目经理。需持续学习新技术以保持竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
+
+Career progression path: from junior technician to senior technician, team leader, then to communications engineer or project manager. Requires continuous learning of new technologies to stay competitive.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically generate network configuration scripts and parameter optimisation solutions
+- Use AI Monitoring Systems to Automatically Detect and Locate Root Causes of Network Faults
+- Automated Generation of Standardized Network Performance Reports and Compliance Documents
+- Automatically perform spectrum planning and interference analysis using AI algorithms
+- Handle common user inquiries and ticket assignments using chatbots
+
+**Where AI augments the role:**
+
+- Using AI simulators to quickly validate 5G/fibre optic network designs
+- Proactively optimizing network capacity and coverage with AI predictive analytics
+- Improving complex link budget accuracy using AI-assisted engineering calculations
+- Use AI-driven digital twin platforms for iterative network planning
+- Using AI Tools to Automatically Generate Project Documents and Test Reports
+
+**Human moat:**
+
+- Cross-vendor heterogeneous network integration architecture design decisions
+- Client needs analysis and customized solution design
+- Handling operator compliance certifications and safety audits
+- Innovative network optimization strategies (non-standard scenarios)
+- High-Level Technical Communication with Clients and Team Members
+
+**Skills to build:**
+
+- AI/machine learning basics (for network optimization prediction)
+- Python or MATLAB script automation
+- Digital twin and network simulation tools (e.g., NS-3)
+- Cloud computing and SDN/NFV technologies
+- Data analysis (Pandas, TensorFlow)
+- Project management and requirements analysis (Agile)
+
+**Key growth areas:**
 
 - 5G Deployment
 - Telecom Infrastructure
@@ -62,69 +98,68 @@ Radiocommunications Technicians install, maintain, and repair radio communicatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保，需在CSOL上 |
-| Subclass 186（Employer Nomination Scheme） | 雇主提名永居签证，需482过渡 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民永居签证 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区临时签证，可转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, must be on the CSOL |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requires 482 transition |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration permanent residence visa. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa, can transition to 191 permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Radiocommunications Technician？**
-- 喜欢动手操作、解决技术问题的人
-- 注重细节、有耐心进行信号测试和故障诊断
-- 愿意在户外或偏远地区工作
-
-**谁不适合学Radiocommunications Technician？**
-- 不喜欢体力劳动或户外工作
-- 对持续学习新技术缺乏兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving technical problems
+- Detail-oriented, patient with signal testing and fault diagnosis
+- Willing to work outdoors or in remote areas.
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Lack of interest in continuous learning of new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a radio communications technician?**
+A: Entry-level about 55,000-70,000 AUD, mid-level 70,000-90,000, senior 90,000-110,000. Regional areas or overtime may be higher.
+
+**Q: What are the pathways for immigrating to Australia under this occupation?**
+A: This occupation is on the CSOL and can lead to migration via the 482 Employer-Sponsored, 186 Employer Nomination, 190 State-Nominated, or 491 Regional Visas.
+
+**Q: What qualifications are needed to become a radiocommunications technician?**
+A: Requires completion of a Certificate III in Electronics and Communications (e.g., UEE30820) and obtaining an ACMA Advanced Radio Operator Licence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Radiocommunications Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Radiocommunications Technicians?**
-答：Entry-level: AUD 55,000-70,000; Mid-level: AUD 70,000-90,000; Senior: AUD 90,000-110,000. Regional areas or overtime may yield higher.
-
-**问：What are the migration pathways for this occupation?**
-答：This occupation is on CSOL. Pathways include 482 TSS, 186 ENS, 190 State Nominated, and 491 Regional visas.
-
-**问：What qualifications are needed to become a Radiocommunications Technician?**
-答：A Certificate III in Electronics and Communications (e.g., UEE30820) and an ACMA Advanced Radiocommunications Licence are required.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

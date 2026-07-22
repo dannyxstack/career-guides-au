@@ -1,59 +1,90 @@
-# Formworkers And Concrete Operatives（Formworkers And Concrete Operatives）职业分析 · ES
+# Formworkers And Concrete Operatives — career analysis · Spain
 
-**职业代码：7111 – Formworkers And Concrete Operatives。**
+**Occupation code: 7111 (CNO)**
 
-Formworkers and concrete operatives build formwork, pour and finish concrete on construction sites, forming a key skilled trade in Spain's construction teams. The work is physically demanding but offers stable employment.
+Formwork and concrete workers are responsible for assembling formwork, pouring, and leveling concrete on construction sites. They are core technical skills in Spanish construction teams, with heavy workloads but stable employment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训中级（FP Grado Medio） | 2年 | $200~$800（公立FP学费低廉，约200-800欧元/年；私立约2000-4000欧元/年） |
-| 职业培训高级（FP Grado Superior） | 2年 | $300~$1,000（高级FP侧重管理技能，学费略高于中级） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $200~$800 (Public FP tuition is low, about 200-800 euros per year; Private ones pay about 2000-4000 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $300~$1,000 (Advanced FP focuses on management skills, with tuition slightly higher than the intermediate level) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训毕业证（FP Grado Medio/Superior） | 西班牙教育部认可的职业教育中心 | 可选 | 完成Conformado y Soldadura或类似专业课程获得 |
-| 高空作业证 | 经认可的培训机构 | 必备 | 从事模板搭设等高危作业需持有 |
-| 预防职业风险基础培训 | 西班牙劳动与社会经济部认可机构 | 必备 | 建筑行业强制要求，涵盖安全规范 |
+| Working at heights certificate | Accredited training institutions | Required | Required for high-risk operations such as formwork erection |
+| Basic training on occupational risk prevention | Recognized by the Spanish Ministry of Labor and Social Economy | Required | Mandatory requirements in the construction industry, covering safety codes |
+| Vocational Training Diploma (FP Grado Medio/Superior) | A vocational education center recognized by the Spanish Ministry of Education | Optional | Obtain a Conformado y Soldadura or a similar specialized course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。西班牙建筑业复苏及基础设施投资增加推动需求持续增长，尤其在马德里、巴塞罗那等大城市。预计未来5年岗位增长约10%，但易受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. The recovery of Spain's construction industry and increased infrastructure investment are driving sustained demand growth, especially in major cities like Madrid and Barcelona. Job growth is expected to be about 10% over the next five years, but it is vulnerable to economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，含加班费 |
-| 中级（3-7年） | $26,000~$34,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $34,000~$45,000 | 税前年薪，工长或领班级别 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual salary before tax, including overtime pay |
+| Mid-level (3–7 years) | $26,000~$34,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $34,000~$45,000 | Pre-tax annual salary, stage manager or foreman level |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★☆☆）。** 可从学徒或辅助工起步，积累经验后晋升为工长或模板工领班，也可专攻工业混凝土或装饰混凝土，或自主创业承接分包项目。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Formwork and concrete workers face pressure from automation, but some tasks (such as formwork design) can be enhanced by AI, resulting in stable overall employment and a need for skill improvement.
+
+You can start as an apprentice or assistant, and after accumulating experience, be promoted to foreman or formwork foreman. You can also specialize in industrial concrete or decorative concrete, or start your own business to undertake subcontracting projects.
+
+**Tasks most exposed to AI:**
+
+- Concrete pouring volume calculation and mix optimization
+- Automated planning for formwork cutting and layout
+- Concrete quality inspection and recording at construction sites
+
+**Where AI augments the role:**
+
+- Use AI software to optimize template design and reduce material waste
+- Real-time monitoring of the concrete curing process via drones or sensors
+- Use BIM and AI for construction progress forecasting and adjustment
+- AI-assisted quality inspection improves defect identification accuracy
+
+**Human moat:**
+
+- On-site adjustment and customized construction of complex formwork
+- On-site experience and judgment coordinated with other trades
+- Tactile skills in concrete surface leveling and finishing
+- Safe operation and decision-making in hazardous environments
+
+**Skills to build:**
+
+- BIM modeling and digital twin technology
+- Concrete mix design and AI optimization tools
+- Automated formwork system operation and maintenance
+- Data analysis and construction progress forecasting
+- Safety standards and emergency response capabilities
+
+**Key growth areas:**
 
 - Construction recovery
 - Infrastructure investment
@@ -62,68 +93,67 @@ Formworkers and concrete operatives build formwork, pour and finish concrete on 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit as employed worker） | 由西班牙雇主担保的受雇工作居留，需证明职位无法在欧盟内填补，适用于建筑工人岗位。 |
-| Subclass Altamente cualificad（Highly qualified professional） | 适用于高级工长或技术主管，需大学或FP高级学历，薪资达一定门槛。 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙停留6个月寻找工作，需证明经济能力，适用于已有FP学历的求职者。 |
+| Subclass Cuenta ajena (Work permit as employed worker) | Employed work residence sponsored by a Spanish employer requires proof that the position cannot be filled within the EU, applicable to construction worker positions. |
+| Subclass Altamente cualificad (Highly qualified professional) | Applicable to senior foreman or technical supervisor, requires university or advanced vocational diploma, salary meeting a certain threshold. |
+| Subclass Busqueda empleo (Job search visa) | Allow a 6-month stay in Spain to look for work, requiring proof of financial capability. This applies to applicants who already have an FP degree. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Formworkers And Concrete Operatives？**
-- 喜欢体力劳动、动手能力强的人
-- 希望快速进入职场、无需长期学历的人
-- 愿意在建筑业发展且有良好安全意识的人
-
-**谁不适合学Formworkers And Concrete Operatives？**
-- 偏好办公室工作、不喜户外体力劳动的人
-- 希望低工作强度或高薪资起点的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical labor and strong hands-on skills
+- Those who want to enter the workforce quickly without long-term academic requirements
+- Individuals willing to develop in the construction industry and have good safety awareness
+
+**Who is not suited**
+- People who prefer office work and dislike outdoor physical labor
+- Those who want low work intensity or high salary starting points
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for formwork workers?**
+A: Template worker pre-tax annual salary is about €20,000-€45,000, junior about €20,000-€26,000, senior foreman up to €34,000-€45,000, including overtime and bonuses.
+
+**Q: How can foreign workers immigrate to Spain through template workers?**
+A: You must first obtain an FP vocational training qualification, then the employer can apply for a Cuenta ajena work residence or pass through the high-skilled talent pathway (senior positions), with priority given to in-demand occupations.
+
+**Q: What educational qualifications are required to work as a formwork worker?**
+A: A vocational education diploma from FP Grado Medio or Superior is usually required, and experience can be gained through apprenticeships. You must also hold a work permit for working at heights and a safety training certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定增长（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Formworkers And Concrete Operatives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for formworkers?**
-答：Formworkers earn a gross annual salary of €20,000-€45,000, with entry-level at €20,000-€26,000 and senior foremen up to €34,000-€45,000 including overtime and bonuses.
-
-**问：How can foreign workers migrate to Spain as formworkers?**
-答：They need to obtain an FP vocational qualification, then have an employer sponsor a Cuenta ajena work permit, or use the highly skilled professional route for senior roles. Shortage occupations are prioritized.
-
-**问：What education is required to become a formworker?**
-答：Typically a FP Grado Medio or Superior vocational diploma, or apprenticeship experience, plus mandatory certificates for working at height and occupational safety.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

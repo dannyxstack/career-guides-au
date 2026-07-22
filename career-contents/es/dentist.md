@@ -1,61 +1,97 @@
-# Dentist（Dentist）职业分析 · ES
+# Dentist — career analysis · Spain
 
-**职业代码：2151 – Dentist。**
+**Occupation code: 2151 (CNO)**
 
-Dentists diagnose, prevent, and treat oral diseases and dental abnormalities, performing surgeries, restorations, and implants. A highly regulated, well-paid healthcare profession in Spain.
+Dentists are responsible for diagnosing, preventing, and treating oral diseases and dental deformities, performing dental surgeries, restorations, implants, and other procedures. It is a highly paid and strictly regulated medical profession in Spain.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 5年（Grado en Odontología） | $4,000~$12,000（公立大学年学费约4000-8000欧，私立10000-20000欧） |
-| 硕士（Máster） | 2-3年（Máster en Ortodoncia, Implantología等） | $6,000~$15,000（专科方向硕士，年学费视公私立而定） |
+| Undergraduate (Grado) | 5 years (Grado en Odontología) | $4,000~$12,000 (Annual tuition at public universities is about 4,000-8,000 euros, while private tuition is about 10,000-20,000 euros) |
+| Máster | 2-3 years (Máster en Ortodoncia, Implantología, etc.) | $6,000~$15,000 (For master's degrees in the junior college track, annual tuition varies depending on whether the university is public or private) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙医学位（Grado en Odontología） | 西班牙大学 | 必备 | 必须从认可的西班牙大学或经学历认证(homologación)的国外学位获得 |
-| 专业资格认证（MIR Odontológico） | 西班牙卫生部 | 可选 | 非必需，但影响公立系统就业和专科执业 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国学历需经过homologación方可执业，周期6-18个月 |
+| Dental Degree (Grado en Odontología) | Spanish University | Required | It must be obtained from a recognized Spanish university or a foreign degree with homologación accreditation |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country diplomas require homologación certification before practicing, with a duration of 6-18 months |
+| Professional Qualification Certification (MIR Odontológico) | Spanish Ministry of Health | Optional | Non-essential, but affecting employment in the public system and vocational practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙老龄化加剧及口腔健康意识提升，牙医需求持续增长。公立系统岗位有限，但私立诊所市场需求旺盛，尤其在老龄化区域和大城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Spain's aging population and growing oral health awareness have led to a continued growth in dentist demand. Public system positions are limited, but private clinics have strong market demand, especially in aging areas and large cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 公立医院或私立诊所助理，税前年薪 |
-| 中级（4-10年） | $45,000~$65,000 | 私立诊所执业牙医，有稳定患者群 |
-| 高级（10年以上） | $70,000~$120,000 | 自营诊所或知名专科牙医，税前年薪可达更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$40,000 | Assistant at public hospitals or private clinics, pre-tax annual salary |
+| Mid-level (4-10 years). | $45,000~$65,000 | A practicing dentist in a private clinic with a stable patient base |
+| Senior (10+ years) | $70,000~$120,000 | Self-operated clinics or well-known specialist dentists can earn even higher pre-tax annual salaries |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 初级牙医可在综合诊所或公立医院工作；积累经验后可开设私立诊所或成为专科牙医（如正畸、种植）。高资质者还可从事教学或科研。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core clinical procedures for dentists are protected by law and physically restricted, making it difficult for AI to replace; However, diagnostics, image analysis, and administrative tasks will be heavily automated, and entry-level positions will become more competitive due to the widespread adoption of AI-assisted tools.
+
+Junior dentists can work in general clinics or public hospitals; After gaining experience, you can open a private clinic or become a specialist dentist (such as orthodontics or implants). Highly qualified individuals can also engage in teaching or research.
+
+**Tasks most exposed to AI:**
+
+- Preliminary analysis of conventional X-rays and images
+- Administrative paperwork such as patient appointments and medical record keeping
+- Basic risk screening and recommendations (such as cavity risk assessment)
+- Automatic processing and repair design of digital impressions
+- Automated processes for insurance claims and bill generation
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis improves disease detection accuracy and reduces missed diagnoses
+- 3D printing and CAD/CAM technologies enhance restoration design efficiency
+- Robot-assisted surgery improves implant implant placement accuracy
+- Intelligently analyze patient data to develop personalized treatment plans
+- Virtual reality and AR-assisted training in complex surgical techniques
+
+**Human moat:**
+
+- Physical operation skills: manual flexibility and surgical experience are difficult for machines to replicate
+- Clinical judgment and decision-making: Professional judgment when handling unforeseen situations
+- Patient trust and communication: Establish long-term doctor-patient relationships and psychological comfort
+- Legal liability: The right to sign the surgery and the ultimate responsibility for medical malpractice do not lie with AI
+- Personalized treatment: Tailoring plans according to patients' specific needs
+
+**Skills to build:**
+
+- Digital dental tool operation (intraoral scanning, CAD/CAM)
+- AI image analysis and diagnostic assistant software
+- Operation and maintenance of robotic surgery systems
+- Data analysis and health informatics
+- Interdisciplinary Collaboration (Working with Digital Technicians and Engineers)
+- Continuous Learning Capability: Keeps track of AI healthcare regulations and best practices
+
+**Key growth areas:**
 
 - Aging population
 - Cosmetic dentistry
@@ -64,69 +100,68 @@ Dentists diagnose, prevent, and treat oral diseases and dental abnormalities, pe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed professionals） | 受雇于西班牙诊所或医院，通过公司担保获得工作居留。 |
-| Subclass Altamente cualificad（EU Blue Card / Highly Skilled Professional (Ley 14/2013)） | 高技能专业人员签证，需学历认证且年收入不低于约33,908欧（2024标准）。 |
-| Subclass Busqueda empleo（Job search visa for graduates） | 在西班牙完成学历后可申请最长1年求职签证，便于寻找正式工作。 |
+| Subclass Cuenta ajena (Work permit for employed professionals) | Employed by a clinic or hospital in Spain, obtaining work residency through company sponsorship. |
+| Subclass Altamente cualificad (EU Blue Card / Highly Skilled Professional (Ley 14/2013)) | High-skilled professional visa, requires academic qualification assessment and annual income of at least approximately 33,908 euros (2024 standard). |
+| Subclass Busqueda empleo (Job search visa for graduates) | After completing your diploma in Spain, you can apply for a job search visa for up to one year, making it easier to find a formal job. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentist？**
-- 对口腔医学有强烈兴趣，能承受长时间精细操作的人
-- 希望获得高收入且愿意投入长期学习者
-- 具备良好沟通能力，能管理患者关系
-
-**谁不适合学Dentist？**
-- 无法接受长时间站着操作或高度集中注意力者
-- 对高度受规管的执业环境和持续教育要求感到厌烦者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in dental medicine who can endure long-term meticulous procedures
+- Those who want to earn a high income and are willing to invest in long-term learning
+- Possess good communication skills and be able to manage patient relationships
+
+**Who is not suited**
+- Not suitable for those unable to stand for long periods or maintain high concentration
+- Those who are tired of highly regulated professional environments and ongoing education requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for dentists in Spain?**
+A: Junior dentists: approx. €30,000-€40,000/yr; Mid: €45,000-€65,000; Senior dentists with own practice: €70,000-€120,000+.
+
+**Q: How can dentists in third countries immigrate to Spain?**
+A: You must first complete the homologación (academic qualification), then you can pass through the Employed Work Residence (Cuenta ajena) or EU Blue Card (Tarjeta azul UE) pathway. Language requirement: Spanish B2 or above.
+
+**Q: What certifications are required for dental practice?**
+A: You must hold a Spanish recognized dental degree (or a foreign degree through homologación), with no additional licensing exams required, but registration as a practitioner requires registration with the official medical association.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 难（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Dentist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dentists in Spain?**
-答：Entry-level dentists earn around €30,000-40,000 annually, mid-level €45,000-65,000, and experienced self-employed dentists can earn over €70,000-120,000.
-
-**问：How can a third-country dentist migrate to Spain?**
-答：You must first obtain degree recognition (homologación), then apply for a work permit (Cuenta ajena) or EU Blue Card. Spanish language proficiency at B2 or higher is required.
-
-**问：What qualifications are needed to practice as a dentist in Spain?**
-答：A recognized dentistry degree (or homologated foreign degree) is mandatory. No additional licensing exam is required, but registration with the official dental college is necessary.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

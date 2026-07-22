@@ -1,61 +1,97 @@
-# Rigger（Rigger）职业分析 · IE
+# Rigger — career analysis · Ireland
 
-**职业代码：7215 – Rigger。**
+**Occupation code: 7215 (ISCO08)**
 
-Riggers install and adjust lifting equipment, ropes, cables, and pulley systems to move heavy machinery or goods, commonly in construction, manufacturing, and energy sectors.
+Riggers are mainly responsible for installing and adjusting lifting equipment, ropes, cables, and pulley systems for moving heavy equipment or goods, commonly found in construction, manufacturing, and energy industries.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职高/学徒 | 2-4年 | —（学徒期间有工资，学费较低） |
-| 职业培训证书 | 6-12个月 | $2,000~$5,000（非全日制课程） |
+| Vocational high school / apprenticeship | 2-4 years | $0~$1,000 (Paid during apprenticeship, lower tuition fees) |
+| Vocational training certificate | 6–12 months | $2,000~$5,000 (Part-time course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 索具工学徒证书 | SOLAS | 必备 | 爱尔兰继续教育与培训管理局颁发的学徒认证 |
-| 安全通行证（Safe Pass） | SOLAS | 必备 | 建筑行业基础安全培训 |
-| 高空作业培训 | FAS/SOLAS | 可选 | 推荐持有 |
+| Apprenticeship certificate for rigger | SOLAS | Required | Apprenticeship certification issued by SOLAS |
+| Safe Pass | SOLAS | Required | Basic safety training for the construction industry |
+| High-altitude work training | FAS/SOLAS | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,500。爱尔兰建筑和可再生能源项目（如风能）持续增长，带动索具工需求。预计未来五年就业稳定，但受经济周期影响。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,500. Ireland's construction and renewable energy projects (e.g., wind energy) continue to grow, driving demand for riggers. Employment expected to be stable in the next five years, but subject to economic cycles.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（4-7年） | $40,000~$50,000 | 税前年薪 |
-| 高级（8年以上） | $50,000~$65,000 | 税前年薪，含加班 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Senior (8+ years) | $50,000~$65,000 | Annual pre-tax salary, including overtime |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从学徒或助手起步，积累经验后可晋升为高级索具工、主管或安全监督员。也可转向重型设备操作或项目管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Riggers face risk of AI-assisted tools enhancing rather than fully replacing them; physical operations and on-site judgment remain core, but task planning and documentation can be automated, requiring vigilance over increased competition for entry-level positions.
+
+Career path: Start as an apprentice or assistant, gain experience, and advance to senior rigger, supervisor, or safety officer. You can also transition to heavy equipment operation or project management.
+
+**Tasks most exposed to AI:**
+
+- Calculation and design of lifting plans (AI can automatically calculate loads, angles and other parameters)
+- Equipment inspection and maintenance record generation (AI automatically generates reports)
+- Inventory management and rigging tracking (AI-optimized inventory levels).
+- Basic load distance calculation (AI-precise calculation)
+- Compliance document completion (AI auto-fill)
+
+**Where AI augments the role:**
+
+- Complex lifting solution rehearsal (AI risk simulation)
+- On-site real-time monitoring and alerting (AI analysis of sensor data)
+- Predictive maintenance for equipment faults (AI analyzes historical data)
+- Safety Training and Knowledge Retrieval (AI Quickly Provides Information)
+- Multi-task coordination and scheduling (AI-optimized team allocation)
+
+**Human moat:**
+
+- Physical strength and fine manipulation ability.
+- On-site risk assessment and rapid decision-making
+- Team communication and command coordination.
+- Adaptability to unpredictable environments.
+- Safety responsibilities and regulatory compliance
+
+**Skills to build:**
+
+- AI lifting planning software (e.g., Crane Planner)
+- Sensor and IoT device operation
+- Data analysis basics (Excel/Tableau)
+- Digital twin simulation tool
+- Augmented reality (AR)-assisted operations
+- Safety regulation updates and compliance knowledge
+
+**Key growth areas:**
 
 - Construction
 - Renewable Energy
@@ -64,69 +100,68 @@ Riggers install and adjust lifting equipment, ropes, cables, and pulley systems 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于紧缺职业，需年薪至少30,000欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若职业列入紧缺清单，年薪需达32,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能工人，年薪需至少达爱尔兰平均工资的1.5倍 |
+| Subclass General Employment P (General Employment Permit) | Applicable to occupation in demand, requires an annual salary of at least 30,000 euros |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list, annual salary must reach €32,000 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for skilled workers, with an annual salary at least 1.5 times the average Irish wage |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Rigger？**
-- 喜欢体力劳动和户外工作的人
-- 注重安全规范的人
-- 愿意接受培训并考取证书的人
-
-**谁不适合学Rigger？**
-- 不擅长高空作业或体力较差的人
-- 追求办公室工作环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical labor and outdoor work
+- People who prioritise safety compliance
+- People willing to undergo training and obtain certification.
+
+**Who is not suited**
+- Those not good at working at heights or physically demanding tasks
+- People who prefer an office work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a rigger in Ireland?**
+A: Junior about €30,000-38,000, mid-level €40,000-50,000, senior up to €65,000+, overtime paid separately.
+
+**Q: How can overseas workers obtain a work visa for rigging in Ireland?**
+A: Can apply through a General Employment Permit (annual salary ≥ €30,000) or a Critical Skills Employment Permit (if occupation is on the shortage list). A job offer from an employer is required first.
+
+**Q: Are there opportunities for advancement as a rigger?**
+A: Yes, can advance to supervisor, safety manager, or project manager, or transition to heavy equipment operation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Rigger为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for riggers in Ireland?**
-答：Entry-level around €30,000-€38,000, mid-level €40,000-€50,000, senior up to €65,000+ excluding overtime.
-
-**问：How can overseas workers obtain a work visa for riggers in Ireland?**
-答：Via General Employment Permit (salary ≥€30,000) or Critical Skills Employment Permit (if on shortage list). Employer sponsorship required.
-
-**问：Are there promotion opportunities for riggers?**
-答：Yes, to supervisor, safety manager, or project manager, or transition to heavy equipment operation.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

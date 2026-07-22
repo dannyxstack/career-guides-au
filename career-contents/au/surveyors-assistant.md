@@ -1,61 +1,96 @@
-# Surveyor's Assistant（Surveyor's Assistant）职业分析 · 澳大利亚
+# Surveyor's Assistant — career analysis · Australia
 
-**职业代码：821915 – Surveyor's Assistant。**
+**Occupation code: 821915 (ANZSCO)**
 
-Surveyor's Assistants support licensed surveyors in land surveying tasks, including operating instruments, recording data, setting markers, and maintaining equipment. Work is outdoor-based, often on construction sites, roads, and mines.
+Surveyor assistants assist surveyors in land surveying and measurement work, including operating surveying instruments, recording data, setting up markers, and maintaining equipment. This often involves outdoor work in environments such as construction sites, roads, and mines.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书（Certificate III in Surveying and Spatial Information Services） | 1年 | $5,000~$12,000（公立TAFE费用，国际学生另付） |
-| 在职培训（学徒制） | 2-3年 | —（雇主资助培训，部分课程费用自理） |
+| Certificate III in Surveying and Spatial Information Services. | 1 year | $5,000~$12,000 (Public TAFE fees, international students pay extra) |
+| On-the-job training (apprenticeship) | 2-3 years | $0~$5,000 (Employer-sponsored training, some course fees self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业教育证书（Certificate III/IV in Surveying and Spatial Information Services） | TAFE或私立培训机构 | 必备 | 入门资格，通常要求完成 |
-| 白卡（White Card） | 澳洲各州监管机构 | 必备 | 进入建筑工地必需的安全认证 |
-| 驾驶执照（C类） | 澳洲各州交通局 | 必备 | 因工作需要驾驶车辆至现场 |
+| Certificate III/IV in Surveying and Spatial Information Services | TAFE or private training institution | Required | Entry-level qualification, usually requires completion of |
+| White Card | Regulatory bodies in each Australian state | Required | Mandatory safety certification for entering construction sites |
+| Driver's License (Class C) | State transport authorities in Australia | Required | Requires driving a vehicle to the site for work. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 6,000。澳洲建筑和基础设施行业持续增长，带动对测量员助理的需求。偏远地区和矿业项目尤其需要该岗位，但自动化测量技术可能影响部分传统工作。总体就业前景稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,000. Australia's construction and infrastructure sector continues to grow, driving demand for surveyor assistants. Remote areas and mining projects particularly need this role, but automated surveying technology may impact some traditional tasks. Overall employment outlook is stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $55,000~$65,000 | 全职，含养老金 |
-| 中级（2-5年） | $65,000~$80,000 | 含加班和野外津贴 |
-| 高级（5年以上） | $80,000~$100,000 | 含管理职责或晋升至技术员 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $55,000~$65,000 | Full-time, including superannuation. |
+| Intermediate (2-5 years) | $65,000~$80,000 | Including overtime and field allowance |
+| Senior (5+ years) | $80,000~$100,000 | Includes management duties or promotion to technician |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理做起，积累经验后可晋升为高级测量员助理或测量技术员。如需进一步提升，可攻读大学学位成为注册测量员（Licensed Surveyor），获得更高薪资和职业自主性。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Survey assistant work involves outdoor physical work and data recording; AI cannot fully replace on-site operations, but data collation and report generation will be significantly automated, shifting the role towards technical support and client communication.
+
+Usually start as an assistant, gain experience to advance to senior surveyor assistant or surveying technician. To further progress, can pursue a university degree to become a Licensed Surveyor, with higher salary and career autonomy.
+
+**Tasks most exposed to AI:**
+
+- Data recording and manual entry (AI automatically recognizes and records measurement data)
+- Generate standard measurement reports (AI automatically creates sketches and generates reports)
+- Simple calculations for measurement marking (AI automatically calculates coordinates and directions)
+- Equipment calibration checks (AI sensor self-calibration and predictive maintenance)
+
+**Where AI augments the role:**
+
+- Use AI total stations/drones for rapid terrain mapping
+- Use AR glasses to overlay real-time measurement data to guide on-site work
+- Predicting measurement errors and real-time correction through AI data analysis
+- Use digital twin technology to simulate on-site construction progress and measurement points
+- Share real-time data with clients and engineers to improve collaboration efficiency.
+
+**Human moat:**
+
+- Human judgment and instrument operation in complex terrain
+- On-site communication and coordination with clients and engineers
+- Intuitive and empirical checks on measurement data quality
+- Handling emergency safety situations and adaptability to outdoor environments
+- Legal and compliance responsibilities (e.g., signing off on measurement data)
+
+**Skills to build:**
+
+- Operate total stations, GPS, drones, and other surveying equipment
+- Using modeling software such as AutoCAD, Revit
+- Basic GIS applications (e.g., ArcGIS, QGIS)
+- Data analysis and visualization (familiar with Excel, basic Python)
+- Digital tool integration (e.g., cloud collaboration, mobile data collection)
+- Communication and project coordination skills
+
+**Key growth areas:**
 
 - infrastructure boom
 - construction demand
@@ -64,66 +99,68 @@ Surveyor's Assistants support licensed surveyors in land surveying tasks, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需要雇主担保，但该职业不在核心技能职业清单上，适用性有限。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主可能担保，但需证明无法本地招聘。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA协议可能涵盖该职业，条件灵活。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship required, but the occupation is not on the core skills occupation list, limiting applicability. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Employers in remote areas may sponsor, but must prove inability to recruit locally. |
+| Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements may cover this occupation with flexible conditions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Surveyor's Assistant？**
-- 喜欢户外体力工作
-- 注重细节且有耐心
-- 愿意在建筑或矿业行业发展
+**Who is suited**
+- Enjoys outdoor physical work
+- Detail-oriented and patient
+- Willingness to work in construction or mining industries
 
-**谁不适合学Surveyor's Assistant？**
-- 无法适应极端天气户外作业
-- 对精确数据记录缺乏兴趣
+**Who is not suited**
+- Cannot adapt to extreme weather outdoor work
+- Lack of interest in precise data recording
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a surveyor assistant?**
+A: Entry-level annual salary approx. $55,000-$65,000, mid-level $65,000-$80,000, senior up to $100,000. Regional or mining projects often offer additional allowances.
+
+**Q: Is there a pathway to immigrate to Australia as a survey assistant?**
+A: This occupation is not on the CSOL/MLTSSL and generally cannot apply for a 189 or 190 visa. Some regional employers may sponsor through 494 or DAMA, but the threshold is high.
+
+**Q: How to advance from surveyor assistant to registered surveyor?**
+A: Usually requires a 4-year university-accredited bachelor's degree in surveying and passing the state surveying board exam to become a Licensed Surveyor. It is recommended to gain assistant experience before further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Surveyor's Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Surveyor's Assistant?**
-答：Entry-level: AUD 55,000-65,000; Mid-level: AUD 65,000-80,000; Senior: up to AUD 100,000. Remote or mining roles may include allowances.
-
-**问：Are there migration pathways for Surveyor's Assistant to Australia?**
-答：This occupation is not on CSOL/MLTSSL, so 189/190 visas are unavailable. Some regional employers may sponsor through 494 visa or DAMA, but it's challenging.
-
-**问：How to progress from Surveyor's Assistant to Licensed Surveyor?**
-答：Typically requires a university degree in surveying (4 years) and state licensing exams. Practical experience as an assistant is beneficial before further study.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

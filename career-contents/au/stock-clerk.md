@@ -1,60 +1,90 @@
-# Stock Clerk（Stock Clerk）职业分析 · 澳大利亚
+# Stock Clerk — career analysis · Australia
 
-**职业代码：591115 – Stock Clerk。**
+**Occupation code: 591115 (ANZSCO)**
 
-Stock Clerks manage inventory records, monitor stock movements, conduct cycle counts, and ensure accurate warehouse systems. They are vital in retail, manufacturing, and logistics, coordinating with warehouse teams and purchasing departments.
+Inventory managers maintain inventory records, monitor goods in/out, conduct stocktakes, and ensure warehouse system accuracy. This role is vital in retail, manufacturing, and logistics, daily collaborating with warehouse teams and procurement departments.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无需 | —（可在职培训） |
-| 职业教育证书（如仓储物流） | 6个月-1年 | $3,000~$10,000（TAFE或私立机构） |
+| High school graduation | None | $0~$0 (On-the-job training available) |
+| Vocational education certificate (e.g., warehouse and logistics) | 6 months to 1 year | $3,000~$10,000 (TAFE or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车执照 | SafeWork NSW等 | 可选 | 部分雇主要求 |
-| 供应链管理证书 | ASCIS或TAFE | 可选 | 提升竞争力 |
+| Forklift licence | SafeWork NSW, etc. | Optional | Some employers require |
+| Supply chain management certificate | ASCIS or TAFE | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 82,000。随着电子商务和供应链复杂性增加，库存管理员需求保持稳定。自动化仓储可能减少初级岗位，但数据分析和管理技能将提升就业机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 82,000. With the increase in e-commerce and supply chain complexity, demand for inventory managers remains stable. Automated warehousing may reduce entry-level positions, but data analysis and management skills will enhance job opportunities.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 全职 |
-| 中级（3-6年） | $55,000~$70,000 | 含奖金 |
-| 高级（6年以上） | $70,000~$90,000 | 主管级 |
+| Median salary | $80,756 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Full-time |
+| Mid-level (3–6 years) | $55,000~$70,000 | Including bonus |
+| Senior (6+ years) | $70,000~$90,000 | Supervisor level |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级库存文员晋升为高级库存分析师、仓库主管或供应链协调员。获取ERP系统认证或物流管理学位可加速晋升。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Inventory clerks face moderate automation risk; AI and robots will take over core tasks like inventory records and stocktaking, but complex exception handling and system maintenance still require human intervention.
+
+Can progress from junior inventory clerk to senior inventory analyst, warehouse supervisor, or supply chain coordinator. ERP system certification or logistics degree can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Manual inventory data entry is replaced by AI barcode scanning and automatic identification systems
+- Regular inventory checks, replaced by automated drone and robot inventory
+- Inventory level monitoring and restocking alerts automatically triggered by predictive analytics AI
+- Basic report generation, automated by BI dashboards
+
+**Where AI augments the role:**
+
+- Use AI inventory forecasting tools to optimize ordering decisions
+- Monitor cargo status in real-time via automated systems, focusing on handling exceptions
+- Using data analysis dashboards to improve inventory turnover
+
+**Human moat:**
+
+- Inventory management for non-standard items (e.g., fragile, hazardous goods)
+- Coordinate inventory strategies with procurement and sales teams
+- Resolve system errors or equipment faults on-site.
+
+**Skills to build:**
+
+- Warehouse Management System (WMS) operation and configuration
+- Basic data analysis and advanced Excel functions
+- Use of Robotic Process Automation (RPA) tools
+- Supply chain management knowledge
+- Problem-solving and anomaly handling skills
+
+**Key growth areas:**
 
 - Logistics
 - E-commerce
@@ -63,63 +93,65 @@ Stock Clerks manage inventory records, monitor stock movements, conduct cycle co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时签证，通常不适用于此职业，清单未列 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，此职业不在州担保常见列表 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区临时签证，极少数州可能担保，但门槛高 |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, typically not applicable to this occupation, not listed on the occupation list |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency visa; this occupation is not on the common state sponsorship list. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional temporary visa, very few states may sponsor, but requirements are high |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stock Clerk？**
-- 注重细节且有条理的人
-- 喜欢在仓储环境中工作
-- 愿意从事重复性记录工作
+**Who is suited**
+- Detail-oriented and organized person
+- Enjoy working in a warehouse environment
+- Willingness to perform repetitive record-keeping tasks
 
-**谁不适合学Stock Clerk？**
-- 寻求高薪或快速晋升者
-- 不喜欢体力劳动或枯燥工作
+**Who is not suited**
+- Those seeking high salaries or rapid promotion
+- Dislike physical labour or monotonous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for inventory managers?**
+A: Entry-level annual salary about AUD 45,000-55,000, with experience can reach AUD 70,000-90,000. Salary is significantly affected by industry and location.
+
+**Q: Can an inventory manager migrate to Australia?**
+A: Almost no skilled migration pathway. This occupation is not on the priority skill list or common skilled migration occupation lists, and employer sponsorship is also extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stock Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stock clerks?**
-答：Entry-level salary is around AUD 45,000-55,000 annually; experienced clerks can earn AUD 70,000-90,000. Salary varies by industry and location.
-
-**问：Is migration to Australia possible for stock clerks?**
-答：Very unlikely. This occupation is not on the Skills Priority List or common skilled migration lists, and employer sponsorship is extremely rare.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

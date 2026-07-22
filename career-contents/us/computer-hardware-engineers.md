@@ -1,58 +1,94 @@
-# Computer Hardware Engineers（Computer Hardware Engineers）职业分析 · 美国
+# Computer Hardware Engineers — career analysis · United States
 
-**职业代码：17-2061 – Computer Hardware Engineers。**
+**Occupation code: 17-2061 (SOC)**
 
-Computer hardware engineers research, design, develop, or test computer or computer-related equipment for commercial, industrial, military, or scientific use. They may supervise manufacturing and installation.
+Computer hardware engineers research, design, develop, or test computers and related equipment for commercial, industrial, military, or scientific use. They may oversee manufacturing and installation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$60,000（公立大学年均学费约2-4万美元，私立大学4-6万美元） |
-| 硕士 | 2年 | $30,000~$80,000（学费因学校而异，通常高于本科） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Public universities annual tuition approx. USD 20,000-40,000, private universities USD 40,000-60,000.) |
+| Master's degree | 2 years | $30,000~$80,000 (Tuition varies by school, usually higher than undergraduate programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | ABET认证大学 | 必备 | 计算机工程或电子工程专业通常要求 |
-| 专业工程师执照 | 各州工程委员会 | 可选 | 从事公共安全相关工作可能需要，需通过NCEES考试 |
+| Bachelor's degree in engineering | ABET-accredited university. | Required | Computer engineering or electronic engineering majors are usually required |
+| Professional Engineer License | State engineering boards | Optional | May be required for public safety-related jobs; must pass NCEES exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 71,500。美国劳工统计局预计2022-2032年该职业就业增长约5%，与平均水平相当。人工智能、云计算和物联网的发展将持续推动硬件创新需求。
+**Job demand: high (★★★★☆).** National workforce approx. 71,500. The US Bureau of Labor Statistics projects about 5% employment growth for this occupation from 2022-2032, about average. The growth of AI, cloud computing, and IoT will continue to drive hardware innovation demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 起薪因地区和公司而异 |
-| 中级（3-7年） | $95,000~$130,000 | 有经验后薪资快速增长 |
-| 高级（7年以上） | $130,000~$180,000 | 高级工程师或管理层薪资更高 |
+| Median salary | $161,740 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$95,000 | Starting salary varies by region and company |
+| Mid-level (3–7 years) | $95,000~$130,000 | Salary increases rapidly with experience |
+| Senior (7+ years) | $130,000~$180,000 | Higher salaries for senior engineers or management |
+| average salary | $162,670 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级硬件工程师可晋升为高级工程师或项目经理；也可转向芯片设计、系统架构或研发管理。获得专业认证（如PE）有助于职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Computer hardware engineer jobs are mixed: automation tools speed up design and testing, but physical hardware debugging and prototyping are harder for AI to fully replace. Entry barriers may lower slightly, but senior engineers need to master AI-assisted design tools.
+
+Junior hardware engineers can advance to senior engineer or project manager; may also move into chip design, system architecture, or R&D management. Professional certification (e.g., PE) helps career development.
+
+**Tasks most exposed to AI:**
+
+- Conventional circuit simulation and verification; AI can automatically generate test cases and analyze results
+- Optimizing trace routing in PCB layout; AI algorithms can auto-route
+- Standardization of part parameters and design rule checking, can be automated by AI
+- Initial classification and diagnosis of hardware fault logs; AI can quickly identify patterns.
+- Document generation (e.g., specifications, test reports), AI can assist in writing
+
+**Where AI augments the role:**
+
+- Create design proposals; AI can provide multiple circuit topologies for engineers to choose from
+- Weigh power/performance/cost; AI can quickly simulate different architecture parameters
+- Hardware testing automation: AI can schedule test processes and analyze anomalies in real time
+- Hardware and software collaborative optimization, AI can analyze bottlenecks across layers
+- Supply chain management, AI can predict component delivery cycles and recommend alternative materials.
+
+**Human moat:**
+
+- Innovative architecture design under ambiguous requirements
+- System integration and commissioning decisions under multi-person collaboration
+- Intuitive judgment of factors like electromagnetic compatibility and heat dissipation in the physical world
+- Interdisciplinary knowledge integration (e.g., mechanics, materials, firmware)
+- Ability to quickly locate and communicate issues at client sites
+
+**Skills to build:**
+
+- Proficient in AI-assisted design tools (e.g., machine learning plugins in EDA)
+- Familiarity with hardware description languages and high-level synthesis (HLS)
+- Learn data analysis and machine learning basics for fault prediction and optimization
+- Strengthen system-level cost/energy modeling skills
+- Participate in open-source hardware projects to gain agile development experience
+- Understanding cloud computing/IoT platform interaction with hardware
+
+**Key growth areas:**
 
 - Cloud Computing
 - IoT
@@ -61,69 +97,68 @@ Computer hardware engineers research, design, develop, or test computer or compu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见的工作签证，需本科学位以上，有年度配额和抽签限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于硕士以上或杰出能力人才，需PERM劳工证，排期较长 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或经验丰富的技术工人，需PERM，排期更长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在硬件领域有杰出成就的人士，无配额限制但门槛高 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common work visa, requires bachelor's degree or higher, subject to annual quotas and lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to master's degree holders or exceptional talents, requires PERM labor certification, long waiting period. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or experienced skilled workers, requires PERM, longer waiting period |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to individuals with outstanding achievements in the hardware field; no quota limit but high threshold |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Hardware Engineers？**
-- 对硬件底层原理有浓厚兴趣的工程背景人士
-- 喜欢动手实验和解决复杂技术问题的人
-- 愿意持续学习新技术以保持竞争力的人
-
-**谁不适合学Computer Hardware Engineers？**
-- 不喜欢硬件调试和繁琐测试工作的人
-- 倾向于纯软件或纯理论工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- engineering background individuals with strong interest in underlying hardware principles
+- People who enjoy hands-on experiments and solving complex technical problems
+- People willing to continuously learn new technologies to stay competitive
+
+**Who is not suited**
+- Those who dislike hardware debugging and tedious testing work
+- Those who prefer pure software or pure theoretical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Computer Hardware Engineers?**
+A: US computer hardware engineer median salary about $130,000/year, entry-level $70,000-$95,000, senior up to $180,000+.
+
+**Q: Is it easy for computer hardware engineers to immigrate to the US?**
+A: This occupation commonly uses H-1B visas and EB-2/EB-3 green cards, but H-1B requires a lottery and green cards have backlogs, making it overall challenging.
+
+**Q: What are the development pathways?**
+A: Can advance from junior engineer to senior engineer, technical supervisor, or architect, or move into project management or R&D management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Computer Hardware Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for computer hardware engineers?**
-答：The median annual wage for computer hardware engineers in the US is about $130,000, with entry-level around $70,000-$95,000 and senior above $130,000.
-
-**问：Is it easy for computer hardware engineers to immigrate to the US?**
-答：Common visas include H-1B and EB-2/EB-3 green cards, but H-1B requires lottery and green cards have backlogs, so it's moderately challenging.
-
-**问：What are the career paths?**
-答：Career progression includes senior engineer, technical lead, architect, or transition to project management and R&D management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Nursing Professional（Nursing Professional）职业分析 · IE
+# Nursing Professional — career analysis · Ireland
 
-**职业代码：2221 – Nursing Professional。**
+**Occupation code: 2221 (ISCO08)**
 
-Registered nurses provide patient care, health education, and treatment support, forming the backbone of Ireland's healthcare system.
+Registered nurses provide patient care, health education, and treatment support, forming the core of Ireland's healthcare system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（包括学费和注册费（欧盟学生较低）） |
-| 研究生文凭 | 1年 | $10,000~$15,000（适合已持有学位的学生） |
-| 硕士 | 1-2年 | $12,000~$20,000（可专攻高级实践） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Includes tuition and registration fees (lower for EU students)) |
+| Graduate diploma | 1 year | $10,000~$15,000 (Suitable for students who already hold a degree) |
+| Master's degree | 1-2 years | $12,000~$20,000 (Can specialize in advanced practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册护士资格 | 爱尔兰护理与助产委员会 | 必备 | 必须完成认可的护理课程并注册 |
-| 实习评估 | 临床实习机构 | 必备 | 需在规定医疗机构完成实习 |
-| 英语语言能力 | 雅思/职业英语考试 | 必备 | 非欧盟申请人需证明英语能力 |
+| Registered Nurse qualification | Nursing and Midwifery Board of Ireland | Required | Must complete an accredited nursing course and obtain registration. |
+| Internship evaluation | Clinical Internship Provider | Required | Must complete internship at designated medical institution |
+| English language proficiency | IELTS/Occupational English Test | Required | Non-EU applicants must demonstrate English ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 65,000。爱尔兰面临护士短缺，尤其在老年护理和社区健康领域。政府计划招聘更多护士以应对人口老龄化。
+**Job demand: very high (★★★★½).** National workforce approx. 65,000. Ireland faces a shortage of nurses, especially in aged care and community health. The government plans to recruit more nurses to address the aging population.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 薪资等级为公共健康服务执行委员会薪资表 |
-| 中级（4-7年） | $38,000~$45,000 | 包括专科护士薪资 |
-| 高级（8年以上） | $45,000~$60,000 | 包括临床护士管理者 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$38,000 | Salary level as per the Public Health Service Executive Committee salary scale |
+| Mid-level (4-7 years) | $38,000~$45,000 | Including specialist nurse salaries |
+| Senior (8+ years) | $45,000~$60,000 | Includes clinical nurse managers |
+| average salary | $43,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从注册护士晋升为临床护士专家或护理管理者，也可进入教育、研究或政策岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Nursing faces mixed impacts from AI: automation will take over documentation and monitoring tasks, but AI enhances clinical decision-making and patient education, requiring improved technical literacy to seize opportunities.
+
+Can progress from registered nurse to clinical nurse specialist or nursing manager, or move into education, research, or policy roles.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and recording of vital signs
+- Medical documentation and medical records management
+- Medication management and dispensing reminders
+- Patient scheduling and resource allocation
+- Basic health education Q&A (e.g., diet and exercise advice)
+
+**Where AI augments the role:**
+
+- Clinical decision support: AI analyzes patient data to assist diagnosis
+- Remote patient monitoring: wearable device data integration and alerts
+- Personalized care plans: AI optimizes plans based on medical history and genetic data
+- Patient education: AI-generated customized health materials
+- Workflow optimization: AI predicts admission rates and allocates resources
+
+**Human moat:**
+
+- Compassionate communication and empathy in complex medical cases
+- Clinical judgment and rapid decision-making in emergency situations.
+- Multidisciplinary coordination and patient trust building
+- Intuitive assessment of non-quantifiable symptoms
+- Value balance and decision-making in ethical dilemmas.
+
+**Skills to build:**
+
+- Health informatics and electronic medical record system operation
+- Use and evaluation of AI-assisted diagnostic tools
+- Skills in telemedicine and digital health platforms
+- Data literacy: interpreting AI-generated reports and trends
+- Interdisciplinary collaboration and AI project participation
+- Human-computer interaction and patient technology education skills.
+
+**Key growth areas:**
 
 - Ageing population
 - Chronic disease management
@@ -63,68 +99,67 @@ Registered nurses provide patient care, health education, and treatment support,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于护理专业人员，无劳动力市场测试，2年后可申请永久居留 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，但护理职业通常作为例外处理 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作，需满足薪资门槛（约年薪34,000欧元） |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to nursing professionals, no labor market test, can apply for permanent residency after 2 years |
+| Subclass General Employment P (General Employment Permit) | Labor market testing required, but nursing occupations are usually treated as an exception |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled work, must meet salary threshold (approx. €34,000 annual) |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nursing Professional？**
-- 有耐心、同理心和抗压能力的人
-- 对医疗保健有热情的人
-- 适应轮班工作的人
-
-**谁不适合学Nursing Professional？**
-- 无法承受高强度压力的人
-- 不擅长与人沟通的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience, empathy, and resilience to stress
+- People with a passion for healthcare
+- People who can adapt to shift work
+
+**Who is not suited**
+- People unable to handle high-intensity pressure
+- People who are not good at communicating with others
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a registered nurse in Ireland?**
+A: Junior nurses earn around €32,000–38,000 per year, senior nurses can reach over €60,000.
+
+**Q: Is it easy to immigrate to Ireland as a nurse?**
+A: Nursing is an occupation in shortage; you can apply for the Skills in Demand visa, making the migration pathway relatively easy.
+
+**Q: How can overseas nurses register in Ireland?**
+A: Must pass assessment by the Nursing and Midwifery Board of Ireland, including language exams and adaptation training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Nursing Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for registered nurses in Ireland?**
-答：Entry-level nurses earn around €32,000–€38,000 per year, while senior roles can exceed €60,000.
-
-**问：Is it easy to immigrate as a nurse to Ireland?**
-答：Nursing is on the shortage list, allowing for Critical Skills Employment Permits, making immigration relatively straightforward.
-
-**问：How can overseas nurses register in Ireland?**
-答：Overseas nurses must undergo assessment by the Nursing and Midwifery Board of Ireland, including language exams and adaptation training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Bookkeeper（Bookkeeper）职业分析 · 新西兰
+# Bookkeeper — career analysis · New Zealand
 
-**职业代码：551211 – Bookkeeper。**
+**Occupation code: 551211 (ANZSCO)**
 
-Bookkeepers handle daily accounting, reconciliations, invoicing, payroll, and BAS statements, serving primarily SMEs. Cloud accounting software (Xero/MYOB) is essential. This occupation is not on the Green List, making skilled migration challenging; entry is typically via Accredited Employer Work Visa (AEWV).
+Bookkeepers handle daily accounts, reconciliations, invoices, payroll, and BAS reporting, widely serving small and medium businesses. Cloud accounting software (Xero/MYOB) is essential. This occupation is not on the Green List, making skilled migration difficult; typically entry is via an Accredited Employer Work Visa (AEWV).
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家会计证书（Level 4） | 1年 | $5,000~$15,000（理工学院或私立院校，短期课程） |
-| 新西兰会计文凭（Level 5/6） | 2年 | $20,000~$35,000（公立理工学院，含实习） |
+| New Zealand National Certificate in Accounting (Level 4) | 1 year | $5,000~$15,000 (Institute of Technology or private institution, short course) |
+| New Zealand Diploma in Accounting (Level 5/6) | 2 years | $20,000~$35,000 (Public polytechnic institutes, including internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家会计证书（Level 4） | NZQA认可院校 | 可选 | 基础记账资格，常见培训 |
-| 注册会计师（CA ANZ）或注册会计技师（CPA） | 新西兰注册会计师协会 | 可选 | 高级职位或晋升需要，非强制 |
+| New Zealand National Certificate in Accounting (Level 4) | NZQA-recognised institution | Optional | Basic bookkeeping qualification, common training. |
+| Chartered Accountant (CA ANZ) or Certified Public Accountant (CPA) | New Zealand Institute of Chartered Accountants | Optional | Required for senior positions or promotion, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。新西兰记账员需求稳中有升，中小企业雇主持续需要财务支持，但市场受自动化（AI记账软件）冲击，低端岗位减少。就业机会主要集中于奥克兰、基督城等城市，需具备本地税务知识。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand for bookkeepers in New Zealand is steadily rising; small and medium enterprises continue to need financial support, but the market is impacted by automation (AI bookkeeping software), reducing low-end positions. Job opportunities are mainly in cities like Auckland and Christchurch, requiring local tax knowledge.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 中小企业实习或助理 |
-| 中级（3-6年） | $55,000~$70,000 | 独立处理全套账务 |
-| 高级（6年以上） | $70,000~$90,000 | 主管级别，管理团队 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Internship or assistant in small to medium enterprises |
+| Mid-level (3–6 years) | $55,000~$70,000 | Handle full set of accounts independently |
+| Senior (6+ years) | $70,000~$90,000 | Supervisor level, managing a team |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级记账员可晋升为高级记账员或会计文员，再进一步发展需考取新西兰注册会计师（CA ANZ）或注册会计技师（CPA），转型为会计师。积累中小企业经验后也可自主创业或从事财务咨询。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Bookkeeper roles face significant automation pressure: AI can already handle core tasks like invoice entry, reconciliation, and BAS reporting, reducing demand for entry-level positions. Need to transition to financial advisor
+
+Junior bookkeepers can advance to senior bookkeeper or accounting clerk; further development requires obtaining NZ Chartered Accountant (CA ANZ) or Certified Accounting Technician (CPA), transitioning to accountant. After gaining SME experience, they can also start their own business or engage in financial consulting.
+
+**Tasks most exposed to AI:**
+
+- Invoice scanning and data entry
+- Automated bank reconciliation
+- BAS and GST return generation
+- Basic payroll calculation and disbursement.
+- Accounts receivable and payable reconciliation
+
+**Where AI augments the role:**
+
+- Anomaly transaction identification and alerts (manual review after AI flagging)
+- Cash flow forecasting and budget analysis
+- Client bill explanation and tax optimisation advice
+- Multi-entity consolidated report analysis
+- Internal Process Automation Scripting
+
+**Human moat:**
+
+- Face-to-face financial advice communication with clients
+- Complex tax dispute resolution and compliance judgment
+- Financial impact assessment of unstructured data (e.g., contracts)
+- Management decision support and strategic advice
+- Ethical and legal risk judgment
+
+**Skills to build:**
+
+- Master Xero/MYOB advanced functions and API integration
+- Learn Python or R for financial data analysis.
+- Master Power BI/Tableau data visualization
+- Obtain CPA/CA certification
+- In-depth knowledge of tax law (GST/Payroll Tax)
+- Develop client consultation and communication skills
+
+**Key growth areas:**
 
 - Moderate demand
 - SME sector
@@ -63,68 +99,67 @@ Bookkeepers handle daily accounting, reconciliations, invoicing, payroll, and BA
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 通过认证雇主担保，获得3年工签，适合有雇主Offer的申请人，但移民路径有限。 |
-| Subclass SMC（Skilled Migrant Category） | 理论可行，但非绿色清单职业，需满足6分制（学历+工作经验），如本科学历+3年经验，竞争激烈。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Through accredited employer sponsorship, get a 3-year work visa, suitable for applicants with a job offer, but limited migration paths. |
+| Subclass SMC (Skilled Migrant Category) | Theoretically possible, but it is not on the Green List occupation; must meet the six-point system (qualifications + work experience), e.g., bachelor's degree plus 3 years of experience, highly competitive. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bookkeeper？**
-- 细心、有条理，喜欢处理数字和账务
-- 希望快速就业，接受从基层工作开始
-- 愿意学习本地税务软件（Xero/MYOB）
-
-**谁不适合学Bookkeeper？**
-- 追求高薪和快速移民的人
-- 不喜欢重复性、常规办公工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous, organized, enjoys working with numbers and accounts
+- Wants quick employment and is open to starting at entry-level positions
+- Willing to learn local tax software (Xero/MYOB)
+
+**Who is not suited**
+- Those seeking high salary and fast immigration
+- Dislikes repetitive, routine office work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a bookkeeper in New Zealand?**
+A: According to job sites, bookkeeper annual salary approx. NZ$55,000-70,000, entry-level approx. NZ$45,000, senior up to NZ$90,000, but lower than accounting profession.
+
+**Q: Can a bookkeeper migrate to New Zealand through skilled migration?**
+A: Very difficult. Bookkeepers are not on the Green List, must use SMC 6-point system, requiring a bachelor's degree plus 3 years of experience, highly competitive, and employer must support; usually recommended to first apply for AEWV work visa to gain local experience.
+
+**Q: What are the career prospects for bookkeepers in New Zealand?**
+A: Demand is stable, but automation (e.g., Xero AI) reduces low-end work; recommends mastering tax filing and financial analysis, transitioning to accountant or financial advisor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bookkeeper为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bookkeeper in NZ?**
-答：According to job sites, bookkeepers earn NZD 55k-70k annually, with entry-level around NZD 45k and senior up to NZD 90k, lower than accountants.
-
-**问：Can a bookkeeper migrate to NZ via Skilled Migrant Category?**
-答：It's difficult. The role is not on the Green List; under SMC 6-point system, requires bachelor's degree + 3 years experience, highly competitive. Typically, start with an AEWV work visa to gain local experience.
-
-**问：What is the career outlook for bookkeepers in NZ?**
-答：Demand is stable, but automation (e.g., Xero AI) reduces low-end tasks. Recommended to acquire tax and analysis skills, transitioning to accountant or financial advisor.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Hospital porters（Hospital porters）职业分析 · UK
+# Hospital porters — career analysis · United Kingdom
 
-**职业代码：9262 – Hospital porters。**
+**Occupation code: 9262 (SOC)**
 
-Hospital porters perform manual tasks such as moving patients, equipment, linen, and supplies within hospitals, assisting nursing and domestic staff to ensure smooth operations in wards, theatres, and other areas.
+Hospital porters transport patients, equipment, linens, medical supplies, etc., within the hospital, assisting nursing and logistics staff to ensure smooth material flow in wards, operating rooms, and other areas, making them an essential support role in hospital operations.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 基础教育 | 无 | —（无特定学历要求，通常只需中学毕业） |
-| 职业培训 | 1-2周 | $100~$300（雇主提供岗前培训，包括安全搬运、感染控制等） |
+| Basic education. | None | $0~$0 (No specific educational requirements, usually only secondary school completion) |
+| Vocational training | 1-2 weeks | $100~$300 (Employers provide pre-job training, including safe handling, infection control, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 无需特定资格证书，雇主提供在职培训 |
-| NVQ 医疗保健支持 | City & Guilds | 可选 | 可选，有助于晋升 |
+| No mandatory certificate | None | Optional | No specific qualifications required; employers provide on-the-job training |
+| NVQ in Healthcare Support | City & Guilds | Optional | Optional, helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 25,000。随着英国人口老龄化和医疗需求增长，NHS及私立医院对搬运工的需求保持稳定。虽然自动化有一定影响，但人工搬运在复杂环境中仍不可替代，就业前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. With UK's aging population and growing healthcare demand, demand for porters in NHS and private hospitals remains stable. While automation has some impact, manual handling is still irreplaceable in complex environments; employment outlook is stable.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 基于NHS薪资等级标准Agenda for Change第2级 |
-| 中级（3-5年） | $22,000~$25,000 | 第3级，含经验加成 |
-| 高级（5年以上） | $25,000~$28,000 | 主管级或第4级 |
+| Median salary | $29,409 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$22,000 | Based on NHS Agenda for Change pay scale, Band 2 |
+| Mid-level (3–5 years) | $22,000~$25,000 | Level 3, including experience bonus |
+| Senior (5+ years) | $25,000~$28,000 | Supervisory level or Level 4 |
+| average salary | $30,430 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从初级搬运工做起，积累经验后可晋升为高级搬运工或搬运主管，也可转向医疗辅助角色如护理助理或医疗设备操作员，部分人通过进修成为医疗保健相关从业人员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hospital porters face high automation risk; indoor logistics automation (AGVs, robots) can handle most item transport, and AI will complete administrative scheduling and route optimization, significantly reducing job demand.
+
+Typically start as junior movers, gain experience to become senior movers or moving supervisors, or transition to medical support roles like nursing assistant or medical equipment operator; some advance to healthcare professionals through further study.
+
+**Tasks most exposed to AI:**
+
+- Use automated guided vehicles (AGVs) to transport linens, medical supplies, and samples within hospitals
+- Optimizing transport routes and task allocation through AI scheduling systems to reduce manual scheduling
+- Using robots to clean and disinfect wards, replacing some manual handling and cleaning tasks
+- Transport emergency medications and test specimens via drones or pneumatic tube systems
+- Automatically remind consumables replenishment through digital inventory management system, reducing manual counts
+
+**Where AI augments the role:**
+
+- AI-powered tablets provide real-time task lists and navigation, improving work efficiency.
+- Wearable devices monitor labourers' physical condition to prevent overwork and injury
+- AI voice assistant helps movers quickly check destinations and task details
+- Identifies and moves items using cameras and AI, automatically recording and tracking inventory
+- Integrates with the operating room AI system to predict surgery end times in advance, optimizing transport waiting times.
+
+**Human moat:**
+
+- Emotional support and communication during rapid response in critical situations (e.g., emergency transport)
+- Ability to flexibly avoid obstacles and make decisions in complex environments (e.g., crowded corridors)
+- Patient comfort and human care, especially during bed transfer
+- Unstructured ad-hoc tasks, such as assisting nurses with emergency transportation of special equipment
+- Multi-task coordination, responding simultaneously to urgent needs from different departments
+
+**Skills to build:**
+
+- Operate and monitor automated guided vehicles
+- Basic medical equipment usage knowledge (e.g., oxygen cylinders, monitors)
+- Logistics and inventory management software operation
+- First aid and patient transport safety skills
+- Data entry and use of digital communication tools
+- Teamwork and communication skills
+
+**Key growth areas:**
 
 - Stable demand
 - Entry-level
@@ -63,66 +99,68 @@ Hospital porters perform manual tasks such as moving patients, equipment, linen,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 通常不符合，因职业不在技术工签短缺职业列表中且薪资门槛较低 |
-| Subclass Health & Care（Health and Care Worker visa） | 搬运工通常不包含在内，仅注册医疗职业可申请 |
-| Subclass Graduate（Graduate visa） | 持有毕业生签证者可从事此工作，但无法直接转为永久居留 |
+| Subclass Skilled Worker (Skilled Worker visa) | Generally not eligible, as the occupation is not on the skilled work visa shortage list and the salary threshold is low |
+| Subclass Health & Care (Health and Care Worker visa) | Laborers are usually not included; only registered medical professions can apply |
+| Subclass Graduate (Graduate visa) | Graduate visa holders can do this job, but it does not lead directly to permanent residency |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hospital porters？**
-- 体力好、能适应站立工作的人
-- 希望从事医疗行业但无专业背景的入门者
-- 喜欢团队协作、服务他人的人
+**Who is suited**
+- Someone physically fit and able to stand for long periods
+- Beginners who want to enter the healthcare industry without a professional background
+- People who enjoy teamwork and serving others
 
-**谁不适合学Hospital porters？**
-- 对体力要求敏感或身体条件有限者
-- 寻求高收入或快速职业晋升的人
+**Who is not suited**
+- Those sensitive to physical demands or with physical limitations
+- People seeking high income or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hospital orderlies?**
+A: Salary is lower: junior approximately 19,000-22,000 pounds, intermediate up to 25,000 pounds, senior supervisor around 28,000 pounds. Typically follows NHS salary scales.
+
+**Q: Is it easy to apply for a UK work visa as a hospital orderly?**
+A: Very difficult, this occupation is not on the eligible occupation list for skilled work visas, nor does it fall under health and care visa categories, and the salary threshold is low, making employer sponsorship generally unavailable.
+
+**Q: What are the promotion opportunities for hospital porters?**
+A: Can advance to moving supervisor, assist with nursing care, or become a medical assistant through training, etc. But career ceiling is low; additional study needed for higher-paying positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hospital porters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hospital porters?**
-答：Pay is relatively low: entry-level around £19,000-£22,000, experienced up to £25,000, and senior supervisors around £28,000, typically based on NHS Agenda for Change.
-
-**问：Is it easy to get a UK work visa as a hospital porter?**
-答：Very difficult. The role is not eligible for Skilled Worker or Health and Care Worker visas due to low skill level and salary threshold, and employers rarely sponsor.
-
-**问：What are the career advancement opportunities for hospital porters?**
-答：Can progress to supervisor roles, assist in nursing, or train as healthcare assistants. However, career ceiling is low and further education is needed for higher-paid positions.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

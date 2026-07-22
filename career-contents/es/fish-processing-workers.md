@@ -1,60 +1,92 @@
-# Fish Processing Workers（Fish Processing Workers）职业分析 · ES
+# Fish Processing Workers — career analysis · Spain
 
-**职业代码：7702 – Fish Processing Workers。**
+**Occupation code: 7702 (CNO)**
 
-Workers in fish processing plants performing cleaning, cutting, deboning, freezing, and packaging tasks in production lines, essential to Spain's coastal fishing industry.
+Workers engaged in assembly line operations such as fish cleaning, cutting, deboning, freezing, and packaging in fish processing plants are a crucial link in Spain's coastal fisheries industry chain.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求（在职培训） | 1-3个月 | —（企业提供培训，或参加短期卫生安全课程） |
-| FP Básico（基础职业培训） | 2年 | $1,000~$3,000（公立学校免费，私立约1000-3000欧元/年） |
+| No education requirements (on-the-job training) | 1-3 months. | $0~$500 (Companies provide training or participate in short-term health and safety courses) |
+| FP Básico (Basic Vocational Training) | 2 years | $1,000~$3,000 (Public schools are free, private schools about 1000-3000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品处理安全认证 | 各自治区卫生部门 | 必备 | 从事食品加工须持有食品安全培训证明 |
-| 危险分析与关键控制点（HACCP）认证 | 认证培训机构 | 可选 | 部分企业要求，提升就业竞争力 |
+| Food handling safety certification | Health departments of all autonomous regions | Required | Those engaged in food processing must hold a food safety training certificate |
+| Hazard Analysis and Critical Control Point (HACCP) certification | Accredited training organization | Optional | Some companies are calling for enhanced employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。西班牙是欧盟最大渔业国之一，鱼类加工业集中在加利西亚、安达卢西亚等沿海地区。受欧盟配额和进口竞争影响，就业稳定但增长空间有限。老龄化从业人员多，未来5年有部分替换需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. Spain is one of the largest fisheries countries in the European Union, with fish processing concentrated in coastal regions such as Galicia and Andalusia. Due to EU quotas and import competition, employment remains stable but has limited room for growth. There is a large number of aging workers, and there will be partial replacement demand in the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $17,000~$21,000 | 税前年薪，含加班和季节性补贴 |
-| 中级（2-5年） | $21,000~$26,000 | 税前年薪，含夜间或节假日加班 |
-| 高级（5年以上/组长） | $26,000~$32,000 | 税前年薪，含责任津贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $17,000~$21,000 | Pre-tax annual salary, including overtime and seasonal subsidies |
+| Intermediate (2-5 years) | $21,000~$26,000 | Pre-tax annual salary, including night or holiday overtime |
+| Senior (5 years or more / Team Leader) | $26,000~$32,000 | Pre-tax annual salary, including responsibility allowance |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 可从普通工人晋升为流水线组长或质检员，部分经验者可转岗至冷库管理或设备维护。少数人通过长期积累开办小型加工厂。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive assembly line tasks for fish processing workers (such as cleaning, cutting, freezing) are easily replaced by visual recognition robotic arms and automated sorting systems, and demand for these positions will shrink significantly over the next five years.
+
+Employees can be promoted from ordinary workers to assembly line leader or quality inspector, with some experienced candidates able to transfer to cold storage management or equipment maintenance. A small number of people have established small processing plants through long-term accumulation.
+
+**Tasks most exposed to AI:**
+
+- Automatic Vision-Guided Cutting: The AI vision system can accurately identify fish contours and perform cuts, replacing manual deboning and slicing
+- Intelligent sorting and grading: computer vision combined with robotic arms automatically classifies fish by size and quality
+- Automated packaging and palletizing: packaging machines, carton sealers, and collaborative robots complete repeated packaging and stacking
+- Freezing and temperature monitoring: AI system automatically adjusts freezing parameters and records data, replacing manual inspections
+
+**Where AI augments the role:**
+
+- AI-Assisted Quality Inspection: Workers use hyperspectral cameras and AI analysis to quickly detect fish freshness and defects
+- Predictive equipment maintenance: AI monitors mechanical vibration and temperature, providing early warnings of faults, allowing workers to perform maintenance as needed
+- Production scheduling optimization: AI dynamically adjusts production line rhythm based on orders and raw material conditions, with workers executing scheduling
+
+**Human moat:**
+
+- Handling complex abnormalities: such as fish body deformities or sudden material jams in equipment require on-site judgment and manual intervention
+- Health and Safety Regulation: Ensuring operations comply with HACCP standards, involving subjective inspections and immediate decision-making
+- Fine manual operation: advanced deboning, special fish processing, and other steps that require touch and experience
+- Team coordination and emergency management: Quickly respond to unexpected events such as assembly line interruptions and personnel deployments
+
+**Skills to build:**
+
+- Collaborative robot programming and operation (such as UR, Fanuc)
+- Fundamentals of Industrial Vision Systems (Camera Selection, Image Annotation)
+- Data Analysis and Reporting (Excel, Power BI)
+- Maintenance of automated food processing equipment (PLC basics)
+- Deepening HACCP and quality systems
+- English or Spanish (for equipment manufacturer communication)
+
+**Key growth areas:**
 
 - Food Processing Automation
 - Seafood Sustainability
@@ -63,64 +95,66 @@ Workers in fish processing plants performing cleaning, cutting, deboning, freezi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇工作居留：需雇主提供合同，证明该岗位无法由欧盟公民填补，通常要求当地工作经验。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employed Work Residence: The employer must provide a contract proving that the position cannot be filled by an EU citizen, usually requiring local work experience. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fish Processing Workers？**
-- 体力好、耐寒、适应流水线重复劳动的人群
-- 沿海地区居民，希望就近稳定就业的人群
-- 对食品加工安全感兴趣，愿意学习基础技能的人群
+**Who is suited**
+- People who are physically strong, cold-resistant, and able to handle repetitive assembly line labor
+- Coastal residents who want stable employment nearby
+- People interested in food processing safety and willing to learn basic skills
 
-**谁不适合学Fish Processing Workers？**
-- 对海鲜过敏或无法适应冷湿环境的人群
-- 寻求高薪、高技术含量或快速晋升路径的人群
+**Who is not suited**
+- People allergic to seafood or who cannot adapt to cold and humid environments
+- People seeking high salaries, high-tech content, or rapid promotion paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average wage of fish processing workers?**
+A: Junior workers earn about 17,000-21,000 euros before tax, intermediate workers about 21,000-26,000 euros, and senior team leaders can earn 26,000-32,000 euros.
+
+**Q: Can foreigners immigrate to Spain through fish processing work?**
+A: It's very difficult. This occupation is a low-skill, non-urgently needed position. Employers must prove they cannot recruit suitable candidates in the EU, and the salaries are low, making it difficult to obtain work permits.
+
+**Q: Are there promotion opportunities for fish processing workers?**
+A: They can be promoted to production line leader, quality inspector, or cold storage supervisor, but promotion opportunities are limited, and most workers have long been engaged in basic operations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fish Processing Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of fish processing workers?**
-答：Entry-level workers earn approximately €17,000-€21,000 gross annually, mid-level €21,000-€26,000, and senior team leaders up to €26,000-€32,000.
-
-**问：Can foreigners immigrate to Spain through fish processing jobs?**
-答：Very difficult. This is a low-skilled, non-shortage occupation; employers must prove inability to hire within the EU, and the low salary makes work permit approval unlikely.
-
-**问：Are there promotion opportunities for fish processing workers?**
-答：Yes, possible to become team leader, quality inspector, or cold storage supervisor, but limited upward mobility; most workers remain in basic roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Hairdresser / Beauty Therapist（Hairdresser / Beauty Therapist）职业分析 · 新西兰
+# Hairdresser / Beauty Therapist — career analysis · New Zealand
 
-**职业代码：391111 – Hairdresser / Beauty Therapist。**
+**Occupation code: 391111 (ANZSCO)**
 
-Provides haircutting, styling, coloring, skincare, manicure, and lash services. Eligible for AEWV and Green List Tier 2 residence pathway in New Zealand, requiring NZ qualification or equivalent certification.
+Provide services such as haircuts, coloring, styling, skin care, nail care, eyelash extensions, etc. Can immigrate to New Zealand via Accredited Employer Work Visa (AEWV) or Green List Tier 2 pathway, requiring New Zealand qualifications or relevant certification.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家证书（4级） | 2年 | $15,000~$25,000（公立理工学院或私立学校，含材料费） |
-| 美发/美容大专（5-6级） | 1年 | $10,000~$20,000（部分院校提供，强化管理技能） |
+| New Zealand National Certificate (Level 4) | 2 years | $15,000~$25,000 (Public polytechnics or private schools, including material fees) |
+| Hair / Beauty Diploma (Level 5-6) | 1 year | $10,000~$20,000 (Offered by some institutions, strengthening management skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰美发国家证书（4级） | NZQA认可学校 | 必备 | 核心资质，部分需先获得3级证书 |
-| 美容治疗证书（4级） | NZQA认可学校 | 必备 | 美容方向必备，含理论考试 |
-| 英语能力证明（如IELTS 6.0） | IELTS/PTE | 必备 | 移民申请要求 |
+| New Zealand National Certificate in Hairdressing (Level 4) | NZQA-recognized school | Required | Core qualifications; some require obtaining a Level 3 certificate first. |
+| Certificate IV in Beauty Therapy | NZQA-recognized school | Required | Essential for beauty industry, includes theoretical exam |
+| English proficiency proof (e.g., IELTS 6.0) | IELTS/PTE | Required | Immigration application requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。新西兰美容美发行业持续增长，尤其奥克兰、惠灵顿等城市需求旺盛。2020-2025年预计年均增长2.5%，但兼职比例高。移民需关注雇主担保和ANZSCO等级要求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. New Zealand beauty and hair industry continues to grow, especially in Auckland, Wellington, etc. Expected annual growth of 2.5% from 2020-2025, but high part-time ratio. Immigrants need to consider employer sponsorship and ANZSCO level requirements.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 多为计时工资，约NZ$18-22/小时 |
-| 中级（3-5年） | $45,000~$60,000 | 有经验技师，部分含小费 |
-| 高级（5年以上）或店主 | $60,000~$80,000 | 老板或管理岗，收入波动大 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Mostly hourly wages, about NZ$18-22/hour |
+| Mid-level (3–5 years) | $45,000~$60,000 | Experienced technician, some with tips |
+| Senior (5+ years) or shop owner | $60,000~$80,000 | Boss or management role, income fluctuates significantly |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理升为高级理发师/美容师，或开设个人沙龙。行业强调技术更新，如接发、微整形等。移民路径通常需积累3年工作经验并取得NZQF 4级学历。
-**AI替代风险：低风险（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
+
+Can advance from assistant to senior hairdresser/beautician or open a personal salon. The industry emphasizes skill updates, such as hair extensions, micro-fillers, etc. Immigration pathways usually require 3 years of work experience and an NZQF Level 4 qualification.
+
+**Tasks most exposed to AI:**
+
+- Hair dye formula calculation and color matching (AI automatically recommends formula based on hair type and skin tone)
+- Customer appointment, reminder, and follow-up (handled by AI chatbots)
+- Basic scalp analysis and care recommendations (AI camera diagnosis)
+- Inventory management and consumables ordering (AI-based forecasting system)
+- Social media content generation (AI one-click design of hairstyle display images)
+
+**Where AI augments the role:**
+
+- Hairstyle design inspiration generation (AI generates personalized plans based on face shape and trends)
+- Virtual try-on enhancing client communication (AR real-time display of hair dyeing/haircut effects)
+- Customer Relationship Management (AI analyzes preferences, accurately recommends services and products)
+- Cost accounting and pricing optimization (AI suggests prices based on market data)
+- Online Teaching and Skill Enhancement (AI voice guidance for complex techniques)
+
+**Human moat:**
+
+- Precision and artistry of manual techniques (e.g., haircut layering, blow-dry styling)
+- On-site customer communication and emotional interaction (understanding non-verbal cues)
+- Intuitive judgment of individual aesthetic preferences (aesthetic that AI cannot replicate)
+- Managing physical contact comfort (e.g., shampooing, massage with tactile experience)
+- Ability to adjust plans on the fly (based on real-time feedback)
+
+**Skills to build:**
+
+- Master AI hairstyle recommendation tools (e.g., StyleMyHair, YouCam)
+- Learning basic data analysis (customer preferences and inventory optimization)
+- Enhance social media operations (AI-assisted content creation)
+- Obtain higher-level certifications (such as Color Master, Scalp Therapist)
+- Learning AR/VR virtual try-on software operation
+- Communication and sales psychology (enhancing personalized service premium)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - AEWV
@@ -62,68 +98,67 @@ Provides haircutting, styling, coloring, skincare, manicure, and lash services. 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主担保，工作3年后可申请居留 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事ANZSCO 391111或391211职业，工作2年后申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制，但美发师通常缺学历和薪资积分 |
+| Subclass AEWV (Accredited Employer Work Visa) | Obtain accredited employer sponsorship and apply for residence after working for 3 years |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work in ANZSCO 391111 or 391211 for 2 years, then apply for residence |
+| Subclass SMC (Skilled Migrant Category) | Must meet the six-point system, but hairdressers often lack points for education and salary |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hairdresser / Beauty Therapist？**
-- 喜欢与人沟通、有耐心的人
-- 有技术基础或学习能力强的初学者
-- 愿意在美容美发行业长期发展的人
-
-**谁不适合学Hairdresser / Beauty Therapist？**
-- 不喜重复性工作或站立服务的人
-- 寻求高薪和快速晋升者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys communicating with people and is patient
+- Beginners with technical foundation or strong learning ability
+- People willing to develop long-term in the beauty and hairstyling industry
+
+**Who is not suited**
+- People who dislike repetitive work or standing service
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a hairdresser/beautician in New Zealand?**
+A: Junior approx. NZ$35,000-45,000, mid-level NZ$45,000-60,000, senior or shop owner up to NZ$60,000-80,000. Tips and commissions extra.
+
+**Q: Can I, as a foreign barber, immigrate to New Zealand?**
+A: Yes, mainly through AEWV work visa or Green List Tier 2 path. Need NZQA-recognized qualification (at least Level 4 certificate) and 3 years of work experience, and find an accredited employer.
+
+**Q: What are the specific requirements for hairdressers under the Green List Tier 2?**
+A: The position must be in ANZSCO 391111 (Hairdresser) or 391211 (Beauty Therapist), with 2 years of work experience before applying for residency. Hourly wage must be no less than NZ$29.66, and the employer must be an accredited employer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低风险（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hairdresser / Beauty Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hairdressers/beauty therapists in NZ?**
-答：Entry-level NZ$35,000-45,000; mid-level NZ$45,000-60,000; senior/owner NZ$60,000-80,000 plus tips and commission.
-
-**问：Can I immigrate to NZ as a foreign hairdresser?**
-答：Yes, via AEWV work visa or Green List Tier 2. Requires NZQA-approved qualification (Level 4 certificate) and 3 years' experience with an accredited employer.
-
-**问：What are Green List Tier 2 requirements for hairdressers?**
-答：Occupation must be ANZSCO 391111 or 391211, work for 2 years on AEWV, then apply for residence. Hourly wage ≥ NZ$29.66 and employer must be accredited.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Teachers for Vocational Subjects（Teachers for Vocational Subjects）职业分析 · DE
+# Teachers for Vocational Subjects — career analysis · Germany
 
-**职业代码：8421 – Teachers for Vocational Subjects。**
+**Occupation code: 8421 (KldB)**
 
-Teachers for vocational subjects in Germany deliver both theoretical and practical training in specialized fields, preparing students for technical or commercial careers. Demand is steady, especially in engineering, IT, and healthcare.
+Vocational education teachers teach professional theory and practical skills at German vocational schools, preparing students for technical or commercial careers. This profession has stable demand, especially in high-demand fields such as engineering, IT, and healthcare.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学毕业（师范类） | 4-5年 | —（公立大学免学费，仅注册费） |
-| 专业硕士（非师范背景） | 2年 | —（需补修教育模块，公立大学免学费） |
-| 职业培训（双元制）后再教育 | 3年+进修 | —（双元制培训期间有津贴） |
+| University degree (Teacher Training) | 4-5 years | $0~$3,000 (Free tuition at public universities, registration fee only) |
+| Professional Master's (non-teaching background) | 2 years | $0~$3,000 (Need to take supplementary education modules, public universities are tuition-free) |
+| Post-vocational training (dual system) further education | 3 years + further study | $0~$1,000 (Dual system training includes an allowance.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学硕士学位（职业教育方向） | 大学 | 必备 | 通常需要，部分联邦州接受工程硕士加教学资格 |
-| 国家教师资格认证（Zweites Staatsexamen） | 联邦州学校管理部门 | 必备 | 通过见习期（Referendariat）后获得 |
-| 资质认证（海外学历） | 德国学历认证中心（ZAB） | 可选 | 非欧盟学历需认证，可能需补修 |
-| 专业领域工作经验 | 雇主 | 必备 | 通常要求至少3年相关职业经验 |
+| Master of Education (Vocational Education stream) | University | Required | Usually required; some federal states accept a Master of Engineering plus teaching qualification |
+| National Teacher Certification (Zweites Staatsexamen) | State school administration department | Required | Obtained after completing the Referendariat (clerkship) |
+| Professional field work experience | Employer | Required | Typically requires at least 3 years of relevant professional experience |
+| Qualifications recognition (overseas degrees) | Central Office for Foreign Education (ZAB) | Optional | Non-EU degrees require recognition, may need supplementary courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。德国面临职业教育教师短缺，尤其在各联邦州的职业学校和部分企业培训中。数字化转型和能源转型创造新教学需求，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Germany faces a shortage of vocational education teachers, especially in state-run vocational schools and some corporate training programs. Digital transformation and energy transition create new teaching demands, offering good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 按公务员薪级表（A12-A13）或TV-L E13 |
-| 中级（4-9年） | $55,000~$68,000 | 随工龄和绩效提升 |
-| 高级（10年以上） | $68,000~$85,000 | 高级教师或管理岗位可达A14-A15 |
+| Median salary | $57,360 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | According to civil service salary scale (A12-A13) or TV-L E13 |
+| Intermediate (4-9 years) | $55,000~$68,000 | Increase with years of service and performance |
+| Senior (10+ years) | $68,000~$85,000 | Senior teacher or management positions can reach A14-A15 |
+| average salary | $60,792 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可晋升为高级教师、教学主任或学校管理层。也可转向教育行政部门、课程开发或企业培训。持续进修（如教育硕士）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
+
+Can advance to senior teacher, teaching director, or school management. Also transition to education administration, curriculum development, or corporate training. Further study (e.g., Master of Education) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Producing standardised training courseware and handouts
+- Teach foundational theory and process knowledge
+- Grading objective tests and recording attendance
+- Organizing training feedback and collating training data
+- Design simple training evaluation questionnaires
+
+**Where AI augments the role:**
+
+- Using AI to generate personalized training plans and learning paths
+- Using AI simulators to create immersive skills training scenarios
+- Real-time analysis of learner data to adjust teaching strategies
+- Automatically translate and cross-culturally adapt training content
+- One-on-one tutoring with AI-assisted tutors
+
+**Human moat:**
+
+- On-site atmosphere activation and emotional connection with trainees
+- Hands-on guidance and immediate error correction for complex skills.
+- Handling classroom emergencies and special student needs
+- Case-based teaching combined with industry practical experience
+- Building long-term trust relationships and career development coaching
+
+**Skills to build:**
+
+- AI course development tools (e.g., Articulate Storyline, Adobe Captivate)
+- Learning Management System (LMS) advanced configuration and data analysis
+- Virtual Reality (VR)/Augmented Reality (AR) Training Design
+- Data-driven instructional design (learning analytics)
+- Cross-cultural communication and remote training skills
+- Industry certification standards and compliance knowledge
+
+**Key growth areas:**
 
 - Digitalization in vocational training
 - Energy transition skills
@@ -64,69 +100,68 @@ Teachers for vocational subjects in Germany deliver both theoretical and practic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟公民，需大学学历且工作年薪至少45,300欧元（2025年紧缺职业）。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于有资质认证的专业人才，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统的求职签证，允许找工作一年。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需相关学历和语言能力。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU citizens, requires a university degree and an annual salary of at least €45,300 (for shortage occupations in 2025). |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to qualified professionals requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, allowing one year to find work. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment, requiring relevant qualifications and language skills. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Teachers for Vocational Subjects？**
-- 喜欢教学且具备专业技术背景的人
-- 希望获得稳定公务员或类似职位的人
-- 愿意通过德语考试并获取德国教师资格的人
-
-**谁不适合学Teachers for Vocational Subjects？**
-- 不喜欢与学生互动或讲授重复内容的人
-- 无法通过严格的教师资格认证程序的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy teaching and have a professional technical background
+- For those seeking stable public service or similar positions
+- People willing to pass German language exams and obtain German teaching qualification
+
+**Who is not suited**
+- Those who dislike interacting with students or teaching repetitive content
+- People who cannot pass strict teacher certification programs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of vocational education teachers?**
+A: Entry-level annual salary around 45,000–55,000 EUR, mid-level up to 68,000 EUR, senior over 85,000 EUR (pre-tax). Varies by federal state and pay grade.
+
+**Q: How to become a vocational education teacher in Germany with a non-EU degree?**
+A: Degree must be recognized by ZAB; usually requires supplementary education credits and passing the state teacher examination. Some federal states offer adaptation courses.
+
+**Q: What are the career prospects for vocational education teachers?**
+A: Can advance to senior teacher, school leader, or education officer. Digital transformation creates new teaching demands, good career prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Teachers for Vocational Subjects的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for vocational teachers?**
-答：Entry-level annual salary is about 45,000-55,000 EUR, mid-level up to 68,000 EUR, and senior over 85,000 EUR (gross), depending on the state and pay grade.
-
-**问：How to become a vocational teacher in Germany with a non-EU degree?**
-答：Your degree must be recognized by ZAB. You usually need to complete additional pedagogical modules and pass the state teaching exam. Some states offer adaptation courses.
-
-**问：What are the career prospects for vocational teachers?**
-答：Opportunities include promotion to senior teacher, school principal, or education official. Digitalization creates new teaching fields, ensuring good prospects.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Arboriculture and Viticulture Worker（Arboriculture and Viticulture Worker）职业分析 · FR
+# Arboriculture and Viticulture Worker — career analysis · France
 
-**职业代码：A1405 – Arboriculture and Viticulture Worker。**
+**Occupation code: A1405 (ROME)**
 
-Performs planting, pruning, pest control and harvesting of fruit trees and grapevines for fresh consumption or wine production.
+Engaged in planting, pruning, pest and disease control, and harvesting of fruit and grapevine trees, used for fresh fruit and winemaking.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 农业/葡萄种植 | 2年 | —（公立学校免费，注册费约100-500欧元/年） |
-| BTS 葡萄种植与酿酒学 | 2年（BTS） | —（公立学校免费，私立约2000-6000欧元/年） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒期间由企业支付工资，无学费） |
+| CAP agriculture/viticulture | 2 years | $0~$1,500 (Public schools are free, with registration fees of about 100-500 euros per year) |
+| BTS Viticulture and Oenology | 2 Years (BTS) | $0~$3,000 (Public schools are free; private schools cost about EUR 2,000-6,000 per year.) |
+| Apprentissage | 1-2 years | $0~$0 (During the apprenticeship period, the company pays the salary and there is no tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Agricole (Arboriculture/Viticulture) | 法国农业部 | 可选 | 基础职业证书，证明具备果树/葡萄栽培技能 |
-| BTS Viticulture-Œnologie | 法国农业部 | 可选 | 高级技术文凭，葡萄种植与酿酒方向 |
-| Certiphyto (植物保护产品使用认证) | 法国DRAAF/SRPV | 必备 | 使用农药必须持有，需通过培训考试 |
+| Certiphyto (Plant Protection Product Certification) | France DRAAF/SRPV | Required | Pesticides must be used and must pass training exams |
+| CAP Agricole (Arboriculture/Viticulture) | French Ministry of Agriculture | Optional | Basic vocational certificates proving skills in fruit tree and grape cultivation |
+| BTS Viticulture-Œnologie | French Ministry of Agriculture | Optional | Advanced Technical Diploma, Viticulture and Winemaking Specialization |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国葡萄酒和果业是重要农业支柱，受有机农业和本地消费增长推动。岗位受季节性影响，但经验丰富的工人常年需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. France's wine and fruit industry is a vital agricultural pillar, driven by organic farming and local consumption growth. Positions are affected by seasonality, but experienced workers have stable demand year-round.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，按SMIC（最低工资）起，约18000-22000欧元 |
-| 中级（3-7年） | $22,000~$28,000 | 包括熟练工人或团队负责人 |
-| 高级（7年以上） | $28,000~$35,000 | 葡萄园经理或技术顾问，可能另有提成 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, starting at SMIC (minimum wage), is about 18,000–22,000 euros |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including skilled workers or team leaders |
+| Senior (7+ years) | $28,000~$35,000 | Vineyard managers or technical consultants may receive additional commissions |
+| average salary | $23,916 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从普通工人可晋升为团队主管或葡萄园经理；积累经验后可自主经营小型果园或通过培训成为技术顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
+
+Ordinary workers can be promoted to team supervisor or vineyard manager; After accumulating experience, you can independently run a small orchard or become a technical consultant through training.
+
+**Tasks most exposed to AI:**
+
+- Automated recording and report generation of tree health data (e.g., growth model predictions)
+- AI-optimized scheduling of routine pruning plans
+- Automatic counting and classification of tree numbers based on drone imagery
+- Automation of seedling inventory management and ordering
+
+**Where AI augments the role:**
+
+- Use AI image recognition to assist in diagnosing tree pests and diseases
+- Use drones and LiDAR to efficiently assess tree canopy structure and risk
+- Using GIS and AI to predict tree growth trends and optimize long-term maintenance plans
+- AI-assisted formulation of optimal pruning plans to minimize tree damage
+- Using wearable devices to monitor worker health and safety
+
+**Human moat:**
+
+- Safety judgment and precise operation in high-risk physical tasks like climbing and pruning
+- On-site emergency response (such as rescue decisions after tree collapse in storms)
+- Human communication with clients and communities on tree value and risk
+- Holistic assessment and trade-offs for complex ecosystems (e.g., protecting endangered species habitats)
+- Professional responsibility in line with local regulations and ethical standards (e.g., legal validity of arborist reports)
+
+**Skills to build:**
+
+- Drone operation and data analysis (surveying, image processing)
+- GIS and remote sensing technology application
+- AI image recognition tools (e.g., tree disease diagnosis software)
+- Project management and client communication (especially explaining technical reports to non-professional clients)
+- Data recording and analysis basics (Excel, Python/automation scripts)
+- Knowledge of biosafety and occupational health regulations
+
+**Key growth areas:**
 
 - Organic farming
 - Wine tourism
@@ -63,68 +98,67 @@ Performs planting, pruning, pest control and harvesting of fruit trees and grape
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 适用于有法国雇主担保的长期工作岗位，可续签，满5年可申请永居 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或对企业发展有贡献的外国员工，简化流程，有效期4年 |
-| Subclass Carte bleue UE（EU Blue Card） | 年收入需达1.5倍法国平均工资（约52500欧元），但农业岗位通常不满足此薪资门槛 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | Applicable to long-term jobs sponsored by French employers, renewable visas, and after 5 years, permanent residency can be applied for |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled foreign employees or those who contribute to the company's development, streamlined process, valid for 4 years |
+| Subclass Carte bleue UE (EU Blue Card) | An annual income must reach 1.5 times the French average wage (about 52,500 euros), but agricultural jobs usually do not meet this salary threshold |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Arboriculture and Viticulture Worker？**
-- 热爱户外体力劳动，不介意季节性失业
-- 有意在法国农业深耕，能适应乡村生活
-- 愿意学习法语及法国农业法规（如农药使用）
-
-**谁不适合学Arboriculture and Viticulture Worker？**
-- 不耐受长时间弯腰、日晒等体力劳作
-- 追求高薪或快速技术移民者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor physical labor and unconcerned about seasonal unemployment
+- Interested in deep engagement in French agriculture, able to adapt to rural life
+- Willing to learn French and French agricultural regulations (such as pesticide use)
+
+**Who is not suited**
+- Unable to tolerate prolonged bending, sun exposure and other physical labor
+- Those seeking high salary or fast skilled migration.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a grape grower in France?**
+A: Beginners earn about 18,000-22,000 euros per year before tax, skilled workers up to 28,000 euros, and managers 28,000-35,000 euros. Seasonal harvesting is usually measured by SMIC hours.
+
+**Q: How can foreigners immigrate to France through agricultural work?**
+A: Must first obtain a job offer from a French employer, apply for Salarié residence (work permit) or Passeport Talent (talent passport). Agriculture is a shortage occupation, sponsorship is relatively easy, but must prove inability to find local workers. EU citizens have free movement.
+
+**Q: What career development paths for fruit cultivation/grape growers?**
+A: Starting as a grassroots worker, after passing the CAP or BTS exam, you can be promoted to team leader, vineyard manager, or transition to winemaking, agricultural technology consultant, and other positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Arboriculture and Viticulture Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a viticulture worker in France?**
-答：Entry-level: €18,000-22,000/year gross; experienced: up to €28,000; manager: €28,000-35,000. Seasonal harvest is often paid at SMIC hourly rate.
-
-**问：How can a foreigner immigrate to France through agricultural work?**
-答：Obtain a job offer from a French employer, then apply for a Salarié work permit or Passeport Talent. Agriculture is a shortage sector, making sponsorship easier, but must prove no local candidate available. EU citizens have free movement.
-
-**问：What is the career progression for arboriculture/viticulture workers?**
-答：Start as a labourer, obtain CAP or BTS to become team leader, vineyard manager, or move into winemaking, agricultural consultancy.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

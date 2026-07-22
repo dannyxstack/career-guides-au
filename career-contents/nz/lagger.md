@@ -1,60 +1,93 @@
-# Lagger（Lagger）职业分析 · 新西兰
+# Lagger — career analysis · New Zealand
 
-**职业代码：821913 – Lagger。**
+**Occupation code: 821913 (ANZSCO)**
 
-Install insulation materials on pipes, boilers, and refrigeration equipment to control temperature, save energy, and prevent condensation. This occupation is eligible for skilled migration and Green List in New Zealand, suitable for experienced tradespeople.
+Install insulation materials on surfaces such as pipes, boilers, and refrigeration equipment to control temperature, save energy, and prevent condensation. This occupation is eligible for skilled migration and Green List in New Zealand, suitable for experienced tradespeople.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 预学徒培训 | 6个月 | $2,000~$5,000（如BCITO提供的短期课程） |
-| 学徒制 | 3-4年 | —（边工作边学习，费用由雇主或政府补贴） |
+| Pre-apprenticeship training | 6 months. | $2,000~$5,000 (Short courses offered by organizations like BCITO) |
+| Apprenticeship | 3-4 years | $0~$2,000 (Work and study simultaneously, with costs subsidized by employer or government) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家建筑行业证书（隔热）Level 4 | BCITO | 必备 | 必考，通常通过学徒制完成 |
-| 工地安全卡（Site Safe） | Site Safe | 必备 | 必须持有 |
-| 新西兰驾照（Class 1） | NZTA | 可选 | 常需自驾驶至工地 |
-| 英语雅思6.0或其他认可考试 | 多家机构 | 必备 | 技术移民要求 |
+| New Zealand National Certificate in Construction (Insulation) Level 4 | BCITO | Required | Mandatory, usually completed through apprenticeship |
+| Site Safe card | Site Safe | Required | Must hold |
+| IELTS 6.0 in English or other recognized test | Multiple institutions | Required | Skilled migration requirements |
+| New Zealand driver's license (Class 1). | NZTA | Optional | Often requires driving to construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰建筑业持续增长，节能法规趋严，隔热工需求稳定。预计未来5年就业人数小幅增长，尤其在商业和工业项目领域。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. New Zealand's construction industry continues to grow, with tightening energy efficiency regulations and stable demand for insulation workers. Employment is expected to increase slightly over the next 5 years, especially in commercial and industrial projects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 学徒或刚毕业 |
-| 中级（3-6年） | $65,000~$80,000 | 合格证持有者 |
-| 高级（6年以上） | $85,000~$100,000 | 领班或自雇 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$60,000 | Apprentice or recent graduate |
+| Mid-level (3–6 years) | $65,000~$80,000 | Certificate holder |
+| Senior (6+ years) | $85,000~$100,000 | Foreperson or self-employed |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级隔热工成长为高级技工或领班，也可转向能源审计或隔热系统设计等专业岗位。积累经验后可自雇承包。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of insulation workers is between high repetition and low control: AI-assisted design software and automated cutting equipment are replacing traditional manual layout and cutting, but on-site installation, bonding, sealing, and other fine operations still rely on human labor. Overall, entry-level positions may shrink due to digital tools, but senior workers gain higher added value by mastering smart tools.
+
+Can progress from junior insulator to senior technician or foreman, or transition to specialized roles such as energy auditor or insulation system designer. With experience, can become self-employed.
+
+**Tasks most exposed to AI:**
+
+- Manual measuring and marking: AI vision scanning + BIM automatically generates cutting diagrams, traditional tape measuring is replaced
+- Material cutting: automatic cutting machines cut tube shells and plates based on digital drawings, reducing manual cutting
+- Material quantity calculation: AI modeling precisely calculates materials, manual estimation is obsolete.
+- Document and compliance review: AI automatically compares construction standards with drawings, generates inspection checklist
+
+**Where AI augments the role:**
+
+- Irregular surface bonding solution: AI provides optimal layout and cutting paths to assist technician decision-making.
+- Safety and quality inspection: AI thermal imaging analyzes insulation airtightness, timely warning of defects
+- Construction site progress management: AI scheduling software optimizes multi-worker collaboration and material delivery
+- Client communication and quoting: AI tools quickly generate visual proposals and accurate quotes
+
+**Human moat:**
+
+- On-site adaptability: manual application and sealing of irregular pipelines and tight spaces
+- Material diagnosis: identify substrate corrosion, moisture issues and decide treatment plan
+- Accountability: responsible for key quality aspects like insulation effectiveness and fire safety
+- Team collaboration: coordinate on-site with electricians, plumbers, etc., not replaceable by AI
+
+**Skills to build:**
+
+- BIM and digital modelling software (e.g., Autodesk BIM 360)
+- Operation and programming of automatic cutting equipment
+- Use of Thermal Imagers and Leak Detection Tools
+- Basic data analysis and construction scheduling software
+- Updated knowledge of fire-resistant and environmentally friendly materials
+- Communication and project management basics
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -63,68 +96,67 @@ Install insulation materials on pipes, boilers, and refrigeration equipment to c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence (Construction)） | 工作满24个月后可申请居留，需有AEWV雇主担保 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（如学历+新西兰工作经验）可申请 |
+| Subclass Green List T2 (Work to Residence (Construction)) | After completing 24 months of work, you can apply for residence, must have AEWV employer sponsorship |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsored job with an approved employer; after 3 years of work, can apply for residency. |
+| Subclass SMC (Skilled Migrant Category) | Eligible for the 6-point system (e.g., qualification + New Zealand work experience) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lagger？**
-- 动手能力强、喜欢户外工作的人
-- 有建筑行业经验或学习能力的技工
-- 愿意通过学徒制逐步提升技能的人
-
-**谁不适合学Lagger？**
-- 不喜欢体力劳动或高空作业的人
-- 对室内固定办公有强烈偏好的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are hands-on and enjoy outdoor work.
+- Tradespersons with construction industry experience or learning ability
+- Those willing to gradually improve skills through apprenticeships
+
+**Who is not suited**
+- People who dislike physical labour or working at heights
+- Those with a strong preference for fixed indoor office work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a thermal insulation worker in New Zealand?**
+A: Entry-level insulation worker salary about NZ $50,000-$60,000 per year, mid-level about $65,000-$80,000, senior team leader or self-employed can reach $85,000-$100,000+. Higher income with overtime.
+
+**Q: Can insulation workers immigrate to New Zealand via the Green List?**
+A: Yes. Insulation workers are on the Green List Tier 2 (construction industry). You can apply for residence after working for 2 years on an AEWV. Alternatively, you can use the SMC 6-point system, which requires meeting qualification and salary requirements.
+
+**Q: What qualifications are needed to become an insulation worker?**
+A: Usually complete a 3-4 year apprenticeship through BCITO, obtaining a National Certificate in Construction (Level 4). Also need a site safety card and driver's license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Lagger的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for laggers in New Zealand?**
-答：Entry-level laggers earn around NZD 50,000-60,000 per year, mid-level 65,000-80,000, and senior/foreman 85,000-100,000+. Overtime can increase earnings.
-
-**问：Can a lagger migrate to New Zealand through the Green List?**
-答：Yes. Laggers are on Green List Tier 2 (Construction). They need to work on an AEWV for 2 years then apply for residence. SMC 6-point system also applicable with qualifications and salary.
-
-**问：What qualifications are needed to become a lagger?**
-答：Typically a 3-4 year apprenticeship with BCITO leading to NZ National Certificate in Construction (Insulation) Level 4. Also need Site Safe card and driver's license.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

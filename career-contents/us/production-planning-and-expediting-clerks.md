@@ -1,58 +1,94 @@
-# Production, Planning, and Expediting Clerks（Production, Planning, and Expediting Clerks）职业分析 · 美国
+# Production, Planning, and Expediting Clerks — career analysis · United States
 
-**职业代码：43-5061 – Production, Planning, and Expediting Clerks。**
+**Occupation code: 43-5061 (SOC)**
 
-Coordinate and expedite work and material flow within or between departments, review and distribute production and shipment schedules, confer with supervisors on progress, and compile reports on inventory, costs, and production.
+Responsible for coordinating and expediting the flow of work and materials, ensuring production schedules are met, involving reviewing production, work, and shipping plans, communicating progress with department heads, and preparing inventory, cost, and output reports.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费（每年）） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition (per year)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育部门 | 必备 | 通常最低要求 |
-| APICS CPIM认证（可选） | APICS | 可选 | 供应链和生产库存管理认证，有助晋升 |
+| High school diploma or equivalent | State education department | Required | Typically minimum requirements |
+| APICS CPIM certification (optional) | APICS | Optional | Supply chain and production inventory management certification, aids promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 511,000。美国劳工统计局预计该职业未来十年就业增长约为3%，与所有职业平均水平持平。制造业和物流业的稳定需求将继续支持岗位，但自动化可能减缓增速。
+**Job demand: medium (★★½☆☆).** National workforce approx. 511,000. The U.S. Bureau of Labor Statistics projects about 3% employment growth for this occupation over the next decade, on par with the average for all occupations. Steady demand from manufacturing and logistics will continue to support jobs, but automation may slow growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级薪资，取决于地区和公司规模 |
-| 中级（3-7年） | $45,000~$60,000 | 经验丰富者薪资中位数 |
-| 高级（7年以上） | $60,000~$80,000 | 高级调度员或主管薪资 |
+| Median salary | $59,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level salary, depending on region and company size |
+| Mid-level (3–7 years) | $45,000~$60,000 | Median salary for experienced workers |
+| Senior (7+ years) | $60,000~$80,000 | Senior dispatcher or supervisor salary |
+| average salary | $62,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级调度员起步，可晋升为高级调度员、生产主管或供应链经理。积累行业经验后，可转向更广泛的运营管理岗位，如物流经理或工厂经理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+In procurement agents and officers, data-driven tasks (e.g., supplier search, price analysis) are easily automated by AI, while negotiation, relationship maintenance, and complex contract evaluation rely on human judgment; overall role impact is mixed.
+
+Starting as a junior dispatcher, you can advance to senior dispatcher, production supervisor, or supply chain manager. With industry experience, you can move into broader operations management roles such as logistics manager or plant manager.
+
+**Tasks most exposed to AI:**
+
+- Supplier information search and preliminary screening
+- Price history data analysis and trend report generation
+- Automated Generation and Tracking of Purchase Orders
+- Compliance check of standard contract clauses
+- Inventory level monitoring and automatic replenishment alerts
+
+**Where AI augments the role:**
+
+- Supplier negotiation strategy optimization (AI provides data support)
+- Supply chain risk prediction and mitigation plan development
+- AI-assisted review and drafting of complex contract clauses.
+- Real-time analysis of market conditions and supplier performance
+- Procurement process automation and anomaly alerts
+
+**Human moat:**
+
+- Establish and maintain long-term relationships with suppliers.
+- Crisis management for handling sudden supply chain disruptions
+- Complex negotiations and trade-off decisions involving strategic judgment
+- Cross-departmental coordination and understanding of internal needs.
+- Manual audit for ethical sourcing and compliance
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Tableau, Power BI)
+- Use of AI procurement tools (e.g., SAP Ariba, Coupa AI)
+- Supply chain risk management and predictive modeling
+- Negotiation and communication skills (advanced interpersonal skills)
+- Contract management and legal basics
+- Basic Python or SQL for data manipulation
+
+**Key growth areas:**
 
 - manufacturing
 - logistics
@@ -61,67 +97,66 @@ Coordinate and expedite work and material flow within or between departments, re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 如果雇主认定该职位需要专业学位（如副学士以上），可申请H-1B，但需抽签。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 通过PERM劳工认证，可申请EB-3职业移民绿卡，要求至少2年培训或经验。 |
+| Subclass H-1B (H-1B Specialty Occupation) | If the employer determines the position requires a professional degree (e.g., associate degree or higher), an H-1B can be applied for, but a lottery is required. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Through PERM labor certification, eligible for EB-3 employment-based green card, requires at least 2 years of training or experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production, Planning, and Expediting Clerks？**
-- 注重细节、有条理、善于多任务处理的人
-- 对制造业和物流行业有浓厚兴趣的人
-- 具备良好沟通和协调能力的人
-
-**谁不适合学Production, Planning, and Expediting Clerks？**
-- 不喜欢快节奏、高压工作环境的人
-- 讨厌重复性文书工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized, good at multitasking
+- People with strong interest in manufacturing and logistics industries
+- People with good communication and coordination skills
+
+**Who is not suited**
+- People who dislike fast-paced, high-pressure work environments
+- People who dislike repetitive paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for production planners and schedulers?**
+A: Entry-level annual salary approx. $35,000-45,000, mid-level $45,000-60,000, senior up to $60,000-80,000, varies by region, experience, and industry.
+
+**Q: What are the immigration pathways for this occupation?**
+A: Common pathway is via H-1B work visa or EB-3 employment-based green card. H-1B requires lottery, EB-3 requires PERM labor certification and at least 2 years of experience.
+
+**Q: What is the future outlook for this occupation?**
+A: Employment growth expected to be about average, around 3%. Automation may replace some clerical work, but supply chain and manufacturing complexity still require human coordination.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Production, Planning, and Expediting Clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of production, planning, and expediting clerks?**
-答：Entry-level salary is about $35,000-$45,000 per year, mid-level $45,000-$60,000, and senior $60,000-$80,000, varying by location, experience, and industry.
-
-**问：What are the immigration pathways for this occupation?**
-答：Common paths include H-1B visa (lottery-based) or EB-3 green card (requires PERM labor certification and at least 2 years of experience).
-
-**问：What is the future outlook for this occupation?**
-答：Employment growth is projected at about 3%, similar to average. Automation may replace some clerical tasks, but complexity in supply chain still requires human coordination.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

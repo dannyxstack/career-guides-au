@@ -1,60 +1,95 @@
-# Sales Representative (Medical and Pharmaceutical Products)（Sales Representative (Medical and Pharmaceutical Products)）职业分析 · 澳大利亚
+# Sales Representative (Medical and Pharmaceutical Products) — career analysis · Australia
 
-**职业代码：225412 – Sales Representative (Medical and Pharmaceutical Products)。**
+**Occupation code: 225412 (ANZSCO)**
 
-Sales Representatives in medical and pharmaceutical products promote and sell drugs and medical supplies to healthcare professionals, building relationships with doctors and pharmacists to achieve sales targets.
+Pharmaceutical sales representatives promote and sell pharmaceutical and medical products to healthcare institutions, build relationships with doctors and pharmacists, and achieve sales targets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$50,000（澳洲大学科学或商业相关学士学位年均学费） |
-| 硕士文凭 | 1年 | $20,000~$35,000（研究生文凭提升竞争力） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Average annual tuition for Australian university science or business-related bachelor's degrees) |
+| Master's degree | 1 year | $20,000~$35,000 (A postgraduate diploma enhances competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生命科学或商业学士学位 | 澳洲大学 | 必备 | 常见要求，药理学、生物化学或市场营销优先 |
-| 销售证书 | 澳大利亚销售协会 | 可选 | 非强制，但有助于职业发展 |
-| 疫苗培训（如有） | 各州卫生部门 | 可选 | 部分销售需了解疫苗知识 |
-| 驾驶执照 | 各州交通局 | 必备 | 通常需要出差拜访客户 |
+| Bachelor's degree in life sciences or business | Australian universities | Required | Common requirements: pharmacology, biochemistry or marketing preferred |
+| Driver's license | State transport departments | Required | Usually requires travel to visit clients |
+| Sales certificate | Sales Institute Australia | Optional | Not mandatory, but beneficial for career development |
+| Vaccination training (if applicable) | State health departments | Optional | Some sales roles require knowledge of vaccines |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。澳洲医药行业持续增长，老龄化人口推动药品需求，未来五年就业前景稳定，但竞争激烈，重点在专业销售技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Australia's pharmaceutical industry is growing steadily, with an aging population driving demand for medicines. Employment outlook over the next five years is stable, but competition is intense, with focus on professional sales skills.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 基本工资加提成 |
-| 中级（3-7年） | $75,000~$110,000 | 含奖金和佣金 |
-| 高级（7年以上） | $110,000~$160,000 | 高级代表或区域经理 |
+| Median salary | $134,992 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $75,000~$110,000 | Including bonuses and commissions |
+| Senior (7+ years) | $110,000~$160,000 | Senior Representative or Regional Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级销售代表可晋升为高级代表、区域经理或全国销售经理，部分转向市场或产品管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
+
+Can advance from junior sales representative to senior representative, regional manager, or national sales manager; some move to marketing or product management roles.
+
+**Tasks most exposed to AI:**
+
+- Use CRM and AI tools to automatically dial calls, screen potential clients, and send standardized follow-up emails
+- Handle common service inquiries, product introductions, and initial needs confirmation via chatbot
+- Use AI to analyze customer historical data, generating personalized sales suggestions and quotation templates.
+- Automates routine contract clause explanation, service level descriptions, and FAQ responses
+- AI-driven sales forecasting and report generation, replacing manual data collation and trend analysis
+
+**Where AI augments the role:**
+
+- AI provides customer behavior insights and real-time recommendations, helping sales reps tailor solutions and increase closing rates
+- Uses Natural Language Processing (NLP) to analyze customer call recordings, identify emotions and purchase intent, and guide communication strategies
+- Automatically records call notes, updates CRM fields, freeing up energy to focus on high-value interactions
+- AI simulates customer roles for sales practice, enhancing salespeople's ability to handle objections and negotiate
+
+**Human moat:**
+
+- Complex needs diagnosis and cross-domain solution integration, requiring understanding of customer business scenarios and pain points
+- Build long-term trust relationships and maintain connections with key decision-makers at senior levels
+- Creative negotiation, flexible pricing decisions, and contract term customization
+- Cross-team coordination (e.g., technical, legal) to deliver complex service solutions
+- Demonstrate emotional intelligence and empathy when handling unexpected client crises and complaints
+
+**Skills to build:**
+
+- Proficiency in operating and configuring mainstream CRM (e.g., Salesforce) and AI sales assistants (e.g., Gong, Clari)
+- Data analysis basics: use Python or BI tools (e.g., Tableau) to analyze sales funnel and customer profiles
+- Customer success and complex project management skills to ensure renewals and expansion sales
+- Short video script creation and social media sales skills, using AI to generate content for customer acquisition
+- Prompt engineering for AI tools, optimizing chatbot scripts and sales email generation quality
+- Cross-cultural communication and remote collaboration skills, for global service sales
+
+**Key growth areas:**
 
 - Pharmaceutical Sales
 - Healthcare Demand
@@ -63,69 +98,68 @@ Sales Representatives in medical and pharmaceutical products promote and sell dr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 若雇主担保，可申请482签证，工作3年后转186永居。 |
-| Subclass 186（Employer Nomination Scheme） | 直接申请雇主担保永居签证，需通过职业评估。 |
-| Subclass 190（Skilled Nominated Visa） | 该职业在CSOL上，可通过州担保技术移民申请。 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区担保临时签证，转191永居。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | If employer-sponsored, can apply for a 482 visa and transition to 186 permanent residence after 3 years. |
+| Subclass 186 (Employer Nomination Scheme) | Direct application for employer-sponsored permanent visa, requiring a skills assessment. |
+| Subclass 190 (Skilled Nominated Visa) | This occupation is on the CSOL and is eligible for state-nominated skilled migration applications. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional Sponsored Provisional Visa, then transition to 191 permanent residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representative (Medical and Pharmaceutical Products)？**
-- 擅长人际沟通和说服的人
-- 有销售热情且能承受业绩压力的人
-- 具备医药或科学背景且愿意出差的人
-
-**谁不适合学Sales Representative (Medical and Pharmaceutical Products)？**
-- 不喜欢频繁出差或应酬的人
-- 对高压力销售指标感到焦虑的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in interpersonal communication and persuasion
+- Someone with sales enthusiasm who can handle performance pressure.
+- People with medical or science background and willing to travel
+
+**Who is not suited**
+- People who dislike frequent travel or business entertainment
+- People anxious about high-pressure sales targets
+
+---
+
+## 8. FAQ
+
+**Q: What is the income structure of pharmaceutical sales representatives?**
+A: Base salary plus commission and bonuses, junior annual salary about A$55,000-75,000, senior up to A$110,000-160,000.
+
+**Q: Can pharmaceutical sales representatives migrate to Australia through skilled migration?**
+A: Yes, this occupation is on the CSOL and meets visa requirements for 482, 186, 190, 491, but employer or state nomination is required.
+
+**Q: How to advance from junior sales representative to management position?**
+A: Progress to senior representative or regional manager through consistent performance, training, and building client base.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales Representative (Medical and Pharmaceutical Products)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for a medical sales representative?**
-答：Base salary plus commission and bonuses; entry-level AUD 55k-75k, senior AUD 110k-160k.
-
-**问：Can a medical sales representative migrate to Australia via skilled migration?**
-答：Yes, on CSOL; eligible for visas 482, 186, 190, 491, requiring employer or state nomination.
-
-**问：How to advance from entry-level to management?**
-答：Consistently hit targets, attend training, build client base; progress to senior rep or regional manager.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

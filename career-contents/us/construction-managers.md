@@ -1,60 +1,96 @@
-# Construction Managers（Construction Managers）职业分析 · 美国
+# Construction Managers — career analysis · United States
 
-**职业代码：11-9021 – Construction Managers。**
+**Occupation code: 11-9021 (SOC)**
 
-Construction Managers plan, direct, and coordinate construction projects, overseeing budgeting, scheduling, and implementation to ensure timely completion.
+Construction managers plan, direct, and coordinate building projects, including schedules, budgets, and implementation, ensuring projects are completed on time and to quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费） |
-| 硕士学位 | 2年 | $30,000~$80,000（顶尖私立大学学费） |
+| Associate degree | 2 years | $15,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition) |
+| Master's degree | 2 years | $30,000~$80,000 (Top private university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑管理学士 | 美国大学 | 可选 | 常见专业要求 |
-| 施工经理认证（CCM） | 美国建筑管理协会（CMAA） | 可选 | 提升竞争力 |
-| 职业安全健康管理局30小时卡 | OSHA | 必备 | 部分雇主强制 |
+| Occupational Safety and Health Administration 30-hour card | OSHA | Required | Mandatory for some employers |
+| Bachelor of Construction Management | U.S. universities | Optional | Common major requirements |
+| Construction Manager Certification (CCM) | Construction Management Association of America (CMAA) | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 530,000。美国建筑业持续增长，预计2023-2033年就业增长5%，高于平均水平。基础设施投资和绿色建筑需求推动岗位增加。
+**Job demand: high (★★★★☆).** National workforce approx. 530,000. US construction industry continues to grow, with 5% employment growth projected from 2023 to 2033, above average. Infrastructure investment and green building demand drive job increases.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理施工经理 |
-| 中级（4-10年） | $80,000~$110,000 | 施工经理 |
-| 高级（10年以上） | $120,000~$160,000 | 高级施工经理/总监 |
+| Median salary | $114,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Assistant construction manager |
+| Mid-level (4-10 years). | $80,000~$110,000 | Construction Manager |
+| Senior (10+ years) | $120,000~$160,000 | Senior Construction Manager/Director |
+| average salary | $124,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 通常从监理或工长晋升，积累经验后可升任项目总监、区域经理或副总裁。部分转向咨询或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Usually promoted from supervisor or foreman, with experience can become project director, regional manager, or VP. Some transition to consulting or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - infrastructure investment
 - green building
@@ -63,68 +99,67 @@ Construction Managers plan, direct, and coordinate construction projects, overse
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适合学士学位以上，需雇主担保，竞争激烈 |
-| Subclass EB-3（Employment-Based Third Preference） | 技术工人绿卡，需PERM劳工证 |
-| Subclass L-1A（Intracompany Transferee Executive or Manager） | 跨国公司经理调派，需海外关联公司工作一年 |
+| Subclass H-1B (H-1B Specialty Occupations) | Suitable for those with a bachelor's degree or above, requiring employer sponsorship, highly competitive |
+| Subclass EB-3 (Employment-Based Third Preference) | Skilled worker green card, requires PERM labor certification |
+| Subclass L-1A (Intracompany Transferee Executive or Manager) | Multinational company manager transfer, requires one year of work at an overseas affiliate |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Managers？**
-- 具备领导力和沟通能力，能协调多方团队
-- 适应户外工作，能承受工期压力
-- 对建筑技术和项目管理有浓厚兴趣
-
-**谁不适合学Construction Managers？**
-- 不喜欢现场监督和体力劳动
-- 无法处理多任务和突发问题
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess leadership and communication skills to coordinate multiple teams.
+- Able to work outdoors and handle project deadlines
+- Strong interest in construction technology and project management
+
+**Who is not suited**
+- People who dislike on-site supervision and physical labor.
+- Unable to handle multitasking and unexpected issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for construction managers?**
+A: Junior construction manager annual salary approx. 55,000-75,000 USD; mid-to-senior can reach 120,000-160,000 USD, depending on region, experience, and company size.
+
+**Q: How can a construction manager stay in the US through immigration pathways?**
+A: Common pathways include H-1B work visa (requires bachelor's degree) and EB-3 skilled worker green card. L-1A intracompany transferee visa for managers is also possible. Requires employer sponsorship and limited quota.
+
+**Q: What qualifications are needed for a construction manager?**
+A: Typically requires a bachelor's degree in construction management or a related field, or extensive field experience. Professional certifications such as CCM can improve job prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Construction Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for construction managers?**
-答：Entry-level construction managers earn $55,000–$75,000 annually, while senior roles can reach $120,000–$160,000, depending on location, experience, and company size.
-
-**问：What are the immigration pathways for construction managers?**
-答：Common pathways include H-1B visas (bachelor's degree required) and EB-3 green cards. L-1A visas for multinational managers are also an option. All require employer sponsorship and are subject to quotas.
-
-**问：What qualifications are needed for construction managers?**
-答：Typically, a bachelor's degree in construction management or related field, or substantial field experience. Professional certifications like CCM can enhance job prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

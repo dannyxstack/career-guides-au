@@ -1,60 +1,96 @@
-# Houseparents and residential wardens（Houseparents and residential wardens）职业分析 · UK
+# Houseparents and residential wardens — career analysis · United Kingdom
 
-**职业代码：6134 – Houseparents and residential wardens。**
+**Occupation code: 6134 (SOC)**
 
-Responsible for the care and supervision of children, young people or the elderly in residential homes, schools or own homes; essential requirement to live with those supported.
+Responsible for caring for and supervising children, adolescents, or elderly in boarding schools, children's homes, or aged care facilities, and must live with the care recipients.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 0年 | —（通常不要求高等教育） |
-| 本科（如社会工作、心理学、教育学） | 3年 | $9,000~$27,000（学费每年£9,000-£9,250（英国学生）） |
+| High school diploma or equivalent | 0 years | $0~$0 (Higher education usually not required) |
+| Bachelor's degree (e.g., social work, psychology, education) | 3 years | $9,000~$27,000 (Tuition fees £9,000-£9,250 per year (UK students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会关怀或儿童保育职业资格 | City & Guilds / BTEC | 可选 | 雇主通常要求或支持获得相关职业资格 |
-| 强制基本披露与禁止服务检查（DBS） | 英国披露与禁止服务局 | 必备 | 必须通过无犯罪记录检查 |
+| Mandatory Basic Disclosure and Barring Service (DBS) check | UK Disclosure and Barring Service | Required | Must pass a criminal record check |
+| Vocational qualification in social care or childcare | City & Guilds / BTEC | Optional | Employers often require or support obtaining relevant professional qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。随着社会对特殊儿童照料和老年护理需求增长，该职业需求稳定。但受公共部门预算限制，岗位增长温和。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. With growing societal demand for special needs care and aged care, this occupation has stable demand. However, job growth is moderate due to public sector budget constraints.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$23,000 | 起始工资通常接近全国最低工资 |
-| 中级（3-7年） | $23,000~$29,000 | 包括更多责任和经验 |
-| 高级（7年以上） | $29,000~$36,000 | 包括管理或专业角色，如经理或高级主管 |
+| Median salary | $31,871 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$23,000 | Starting salary is usually close to the national minimum wage |
+| Mid-level (3–7 years) | $23,000~$29,000 | Includes more responsibility and experience |
+| Senior (7+ years) | $29,000~$36,000 | Includes management or professional roles, such as manager or senior supervisor |
+| average salary | $30,946 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理住宿管理员晋升为高级住宿管理员或经理，部分人转向更专业的社会工作或护理管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core care duties of accommodation managers and live-in guardians are hard to fully replace by AI, but tasks like administration, monitoring, and basic reporting will be automated, potentially reducing the number of positions and shifting work toward higher emotional engagement and supervisory roles.
+
+Can advance from assistant accommodation manager to senior accommodation manager or manager, with some moving to more specialized social work or care management roles.
+
+**Tasks most exposed to AI:**
+
+- Daily patrol records and event log writing; AI can automatically generate reports
+- Rule-based scheduling and attendance management; AI can optimize scheduling
+- Preliminary anomaly detection in surveillance camera footage; AI can perform real-time analysis
+- Basic medical information recording (e.g., temperature, blood pressure); AI can automatically collect and upload
+- Booking visit times and notifying families; AI can manage schedules
+
+**Where AI augments the role:**
+
+- Use AI to analyze residents' behavior and emotional changes, providing early warnings of potential conflicts or health issues
+- AI personalised activity recommendation systems help plan social and rehabilitation activities.
+- Automatically generates data reports, allowing caregivers more time for direct interaction
+- Smart environment monitoring (fall detection, emergency call) enhances safety
+- AI translation tools improve communication with multilingual residents/family members
+
+**Human moat:**
+
+- Ability to Build Deep Trust and Emotional Connection
+- Human judgment and empathy in crisis situations (e.g., violent conflict, bereavement)
+- Unstructured family-style parenting decisions (e.g. when to give rewards, how to mediate conflicts)
+- Hands-on role model and daily companion
+- Handle complex situations involving privacy, ethics, and cultural sensitivity
+
+**Skills to build:**
+
+- Basic data analysis and AI tools (e.g., Beacon, ShiftMed)
+- Adolescent/geriatric psychology and trauma-informed care
+- Conflict mediation and crisis intervention techniques
+- Digital record management and privacy regulations (GDPR, etc.)
+- Multicultural communication skills and multilingual skills
+- Smart home and assistive technology (e.g., fall detection devices) operation
+
+**Key growth areas:**
 
 - Social care demand
 - Residential care
@@ -63,65 +99,67 @@ Responsible for the care and supervision of children, young people or the elderl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，但该职业不符合一般技术签证的薪资门槛，通常无法申请。 |
-| Subclass Health and Care Work（Health and Care Worker visa） | 仅适用于医疗和社会护理专业人员，住宿管理员通常不符合。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, but since the occupation does not meet the general skilled visa salary threshold, it is usually not possible to apply. |
+| Subclass Health and Care Work (Health and Care Worker visa) | Applies only to medical and social care professionals; accommodation managers usually do not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Houseparents and residential wardens？**
-- 喜欢与人相处、富有耐心和同理心的人
-- 愿意住在工作场所并提供24/7支持的人
-- 寻求稳定但非高薪职业、重视工作意义的人
+**Who is suited**
+- People who enjoy interacting with others, are patient and empathetic
+- People willing to live on-site and provide 24/7 support
+- Seeking stable but not high-paying careers, valuing meaningful work
 
-**谁不适合学Houseparents and residential wardens？**
-- 追求高薪和快速职业晋升的人
-- 需要严格工作与生活界限、不愿住校/住院的人
+**Who is not suited**
+- People seeking high salary and fast career advancement
+- Those who require strict work-life boundaries and are unwilling to live on campus or in a hospital
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for accommodation managers?**
+A: Entry-level positions pay approximately £18,000-£23,000 per year; senior positions can reach £36,000. Some positions provide free accommodation, so actual income may be higher than cash salary.
+
+**Q: Can overseas individuals obtain a work visa to work in this occupation in the UK?**
+A: Very difficult. This occupation typically does not meet the salary threshold for skilled worker visas and is not on the shortage occupation list, making employer sponsorship challenging.
+
+**Q: What career development opportunities are available in this occupation?**
+A: Can be promoted from assistant to senior accommodation administrator or accommodation services manager, with some transitioning to social work or care management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Houseparents and residential wardens属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for houseparents and residential wardens?**
-答：Entry-level positions pay around £18,000-£23,000 per year, while senior roles can reach £36,000. Some employers provide free accommodation, increasing the effective income.
-
-**问：Can overseas workers obtain a work visa for this occupation?**
-答：Highly unlikely. The salary typically falls below the Skilled Worker visa threshold, and it is not on the immigration salary list, making sponsorship difficult.
-
-**问：What career progression opportunities exist?**
-答：Promotion from assistant to senior warden or residential manager is possible, with some moving into social work or care management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

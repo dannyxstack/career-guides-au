@@ -1,59 +1,95 @@
-# Sociologists, Anthropologists and Related Professionals（Sociologists, Anthropologists and Related Professionals）职业分析 · IE
+# Sociologists, Anthropologists and Related Professionals — career analysis · Ireland
 
-**职业代码：2632 – Sociologists, Anthropologists and Related Professionals。**
+**Occupation code: 2632 (ISCO08)**
 
-Professionals studying social structures, cultures and human behavior, employed in academia, research institutes, government or NGOs, engaged in social surveys, policy evaluation and cultural analysis.
+Professionals who study the structure, culture, and behavior patterns of human societies, often employed in universities, research institutions, or government/non-profit organizations, conducting social surveys, policy evaluation, and cultural analysis.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $12,000~$25,000（爱尔兰/欧盟学生学费较低，非欧盟较高） |
-| 硕士 | 1-2年 | $10,000~$20,000（研究型硕士通常1年，授课型2年） |
-| 博士 | 3-4年 | $5,000~$15,000（部分有奖学金或无学费） |
+| Bachelor's degree | 4 years | $12,000~$25,000 (Lower tuition fees for Irish/EU students, higher for non-EU.) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Research master's typically 1 year, coursework master's 2 years) |
+| Doctorate | 3-4 years | $5,000~$15,000 (Some with scholarships or tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会科学学位 | 大学 | 必备 | 社会学、人类学等相关专业学士及以上 |
-| 研究伦理证书 | 机构内部或专业学会 | 可选 | 进行人类受试者研究需要 |
+| Social science degree | University | Required | Bachelor's degree or higher in sociology, anthropology, or related fields. |
+| Research ethics certificate | Within institutions or professional associations | Optional | Conducting human subject research requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。爱尔兰社会科学领域就业稳定，主要需求来自高校、智库及公共部门。近年政策分析、社会包容研究岗位增长。竞争较大，博士学历有利。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Employment in the social sciences sector in Ireland is stable, with demand mainly from universities, think tanks, and the public sector. In recent years, positions in policy analysis and social inclusion research have grown. Competition is strong; a PhD is advantageous.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 研究助理或初级分析师 |
-| 中级（3-7年） | $45,000~$60,000 | 高级研究员或讲师 |
-| 高级（7年以上） | $65,000~$85,000 | 教授或高级政策顾问 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Research assistant or junior analyst |
+| Mid-level (3–7 years) | $45,000~$60,000 | Senior Researcher or Lecturer |
+| Senior (7+ years) | $65,000~$85,000 | Professor or Senior Policy Advisor |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级研究员或研究助理起步，积累经验后晋升为高级研究员、项目主管；博士学位可担任大学讲师/教授，或进入政府/非营利组织担任政策顾问。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core analytical abilities of sociologists/anthropologists are difficult to fully replace by AI, but tasks like data collection and basic statistical analysis are easily automated, leading to a polarizing occupation: low-end roles shrink, while high-skilled roles amplify output using AI tools.
+
+Start as a junior researcher or research assistant, accumulate experience, then advance to senior researcher or project supervisor. With a PhD, become a university lecturer/professor, or enter government/non-profit organizations as a policy advisor.
+
+**Tasks most exposed to AI:**
+
+- Data entry and basic statistical analysis of standardized questionnaires.
+- Automatic retrieval and summary generation in literature reviews
+- Automated coding of qualitative data (e.g., topic modeling)
+- Chart generation and templated descriptions in basic reports
+- Voice-to-text transcription and organization of field notes drafts
+
+**Where AI augments the role:**
+
+- Large-scale social network analysis and dynamic modeling
+- Multilingual text mining in cross-cultural comparative studies
+- Simulation and causal inference of policy impacts
+- Social media data scraping and sentiment analysis in virtual ethnography
+- Visual presentation and interactive narrative of research reports
+
+**Human moat:**
+
+- Research on ethical judgment and protection of human subjects
+- Cultural sensitivity and contextual interpretation skills
+- Field techniques for building trust with interviewees
+- Integration of interdisciplinary theories and critical thinking
+- Value trade-offs and moral responsibility in policy recommendations
+
+**Skills to build:**
+
+- Basic Python/R programming and data analysis
+- Natural language processing tools (such as NLTK or GPT API)
+- Causal inference methods in social sciences (e.g., DID, RDD)
+- Geographic Information System (GIS) spatial analysis
+- Research ethics review and AI compliance knowledge
+- Data visualization (Tableau or D3.js)
+
+**Key growth areas:**
 
 - policy analysis
 - social research
@@ -62,65 +98,64 @@ Professionals studying social structures, cultures and human behavior, employed 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪30,000欧元以上职位，需要劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超50,000欧元的高技能岗位，需3年以上经验 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不在此紧缺职业清单上，通常不适用 |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary above 30,000 euros, requires labor market test |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled positions with annual salary over €50,000, requires 3+ years experience |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not on this skills shortage list, generally not applicable |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sociologists, Anthropologists and Related Professionals？**
-- 对社会现象有浓厚兴趣，喜欢研究分析
-- 具备批判性思维和写作能力
-- 愿意在学术或公共部门长期发展
-
-**谁不适合学Sociologists, Anthropologists and Related Professionals？**
-- 追求高薪或快速晋升
-- 不喜欢长时间阅读和写作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in social phenomena, enjoys research and analysis
+- Possess critical thinking and writing skills
+- Willing to develop long-term in academic or public sectors
+
+**Who is not suited**
+- Seeking high salary or rapid promotion
+- Dislikes extensive reading and writing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sociologists in Ireland?**
+A: Entry-level around 30,000-40,000 euros, mid-level 45,000-60,000, senior 65,000-85,000, academic positions may be higher.
+
+**Q: Is it easy for foreigners to immigrate to Ireland as sociologists?**
+A: This occupation is not on the shortage list; general employment permits are required, and employers must prove local unavailability. Competition is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sociologists, Anthropologists and Related Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sociologists in Ireland?**
-答：Entry-level around €30k-40k, mid-level €45k-60k, senior €65k-85k, academic positions may be higher.
-
-**问：Is it easy for foreigners to migrate as sociologists to Ireland?**
-答：This occupation is not on the shortage list; General Employment Permit required with labor market test. Competition is high.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

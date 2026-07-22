@@ -1,61 +1,95 @@
-# Auctioneer（Auctioneer）职业分析 · 澳大利亚
+# Auctioneer — career analysis · Australia
 
-**职业代码：611111 – Auctioneer。**
+**Occupation code: 611111 (ANZSCO)**
 
-Auctioneers conduct auctions, assess item values, guide bidding processes, and ensure legal compliance.
+Auctioneers preside over auctions, evaluate item values, guide bidding processes, and ensure legal compliance.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 中学后证书或文凭 | 6个月 | $2,000~$5,000（拍卖或房地产相关课程） |
-| 学士学位（非必需） | 3年 | $30,000~$40,000（商业、市场营销等相关专业） |
+| Post-secondary certificate or diploma | 6 months. | $2,000~$5,000 (Auction or real estate related courses) |
+| Bachelor's degree (not mandatory) | 3 years | $30,000~$40,000 (Business, marketing, or related fields) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 拍卖师注册 | 各州公平交易办公室 | 必备 | 完成认可课程并通过背景调查 |
-| 房地产代理执照 | 各州房地产监管机构 | 可选 | 如从事房地产拍卖则需 |
-| 职业技能评估 | VETASSESS | 可选 | 用于移民申请 |
+| Auctioneer registration | Fair Trading offices in each state | Required | Complete an accredited course and pass a background check |
+| Real estate agent license | State real estate regulatory bodies | Optional | Required if engaging in real estate auctions |
+| Skills assessment | VETASSESS | Optional | Used for immigration applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,000。澳洲房地产市场和艺术品拍卖活跃，拍卖师需求稳定，但受经济周期影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,000. Australia's real estate market and art auctions are active, with stable demand for auctioneers, though affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 培训中或助理拍卖师 |
-| 中级（3-7年） | $60,000~$100,000 | 独立主持拍卖 |
-| 高级（7年以上） | $100,000~$150,000 | 知名拍卖师或管理岗位 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Trainee or assistant auctioneer |
+| Mid-level (3–7 years) | $60,000~$100,000 | Independently conduct auctions |
+| Senior (7+ years) | $100,000~$150,000 | Renowned auctioneer or management position |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级拍卖助理晋升为资深拍卖师，或进入房地产管理、估价等领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on auctioneers is mixed: automation tools can handle valuations and bidding optimization, but creating on-site atmosphere, interpersonal negotiation, and legal judgment still rely on humans.
+
+Can progress from junior auction assistant to senior auctioneer, or move into real estate management, valuation, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatic estimation of item base prices based on historical data
+- Algorithm optimization for real-time bidding models and pricing strategies
+- Automated generation of auction item display and descriptions (e.g., copywriting, image annotations)
+- Automated review and archiving of compliance documents
+
+**Where AI augments the role:**
+
+- AI-driven market analysis and valuation models improve pricing accuracy.
+- Real-time data dashboards assist on-site bidding strategy adjustments.
+- Virtual auction platform to expand bidder reach
+- Batch notification of potential buyers via smart calling systems
+- Automated transaction recording and financial settlement
+
+**Human moat:**
+
+- Rhythm Control and Emergency Response at Live Auctions
+- Building emotional trust and negotiating with clients and buyers
+- Human discretion in legal compliance (e.g., dispute arbitration)
+- Expert-level appraisal of the authenticity of artworks/collectibles
+
+**Skills to build:**
+
+- proficiency in AI valuation tools (e.g., auction price prediction models)
+- Learn virtual auction platform operations and live streaming techniques
+- Improve data analysis skills to interpret buyer behavior data
+- Strengthen Legal and Compliance Knowledge (especially digital asset auctions)
+- Develop cross-platform marketing and social media customer acquisition skills
+- Learn basic programming (e.g., Python) to customize tools
+
+**Key growth areas:**
 
 - Auction
 - Real Estate
@@ -64,63 +98,65 @@ Auctioneers conduct auctions, assess item values, guide bidding processes, and e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时签证，但职业不在核心职业清单上，难度大 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居，要求职业在MLTSSL或ROL，拍卖师不在其中 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，可能适用于某些DAMA地区 |
+| Subclass 482 (Temporary Skill Shortage) | Employer sponsored temporary visa, but the occupation is not on the core skills list, making it difficult. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency requires the occupation to be on MLTSSL or ROL, auctioneer not included |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship may apply to certain DAMA regions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Auctioneer？**
-- 口才出色、善于说服他人的人
-- 对房地产、艺术品等市场有热情的人
-- 抗压能力强、能应对快节奏竞价环境的人
+**Who is suited**
+- People with excellent eloquence and persuasive skills
+- People passionate about markets such as real estate and art
+- For those who are resilient and can handle a fast-paced bidding environment
 
-**谁不适合学Auctioneer？**
-- 不擅长公开演讲或社交的人
-- 对销售和谈判缺乏兴趣的人
+**Who is not suited**
+- People who are not good at public speaking or socializing
+- Individuals with little interest in sales and negotiation.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do auctioneers earn?**
+A: Junior about 45,000-60,000 AUD, intermediate 60,000-100,000, senior can reach over 150,000, with a large commission component.
+
+**Q: Can auctioneers immigrate to Australia?**
+A: Very difficult. Auctioneer is not on the skilled migration occupation list, and only some regional DAMA agreements may sponsor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Auctioneer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How much do auctioneers earn?**
-答：Entry level AUD 45,000-60,000; mid-level AUD 60,000-100,000; senior up to AUD 150,000+ with commissions.
-
-**问：Can auctioneers migrate to Australia?**
-答：Very difficult. Auctioneer is not on skilled occupation lists; only possible through some DAMA agreements.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

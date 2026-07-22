@@ -1,58 +1,94 @@
-# Economists and economic policy researchers and analysts（Economists and economic policy researchers and analysts）职业分析 · 加拿大
+# Economists and economic policy researchers and analysts — career analysis · Canada
 
-**职业代码：41401 – Economists and economic policy researchers and analysts。**
+**Occupation code: 41401 (NOC)**
 
-Economists and economic policy researchers and analysts study and analyze economic issues to provide policy recommendations and decision support for governments, businesses, and organizations.
+Economists and economic policy researchers and analysts study and analyze economic issues, providing policy advice and decision support to governments, businesses, and organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（经济学学士） | 4年 | $60,000~$120,000（加拿大公立大学国际生学费） |
-| 硕士（经济学硕士） | 2年 | $30,000~$80,000（硕士学费范围） |
+| Bachelor's degree (Economics) | 4 years | $60,000~$120,000 (International student tuition fees at Canadian public universities) |
+| Master's degree (Master of Economics) | 2 years | $30,000~$80,000 (Master's tuition range) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学学士或硕士学位 | 大学 | 必备 | 通常需要本科或硕士学历 |
-| 加拿大经济协会会员 | 加拿大经济协会 | 可选 | 非强制但有利于职业发展 |
+| Bachelor's or master's degree in economics | University | Required | Usually requires a bachelor's or master's degree |
+| Member of the Canadian Economics Association | Canadian Economics Association | Optional | Not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大对经济学家的需求稳定，主要集中在政府、金融和咨询行业。随着数据驱动决策的普及，就业机会在政策分析和预测领域持续增长。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Demand for economists in Canada is stable, mainly in government, finance, and consulting. With the rise of data-driven decision-making, employment opportunities continue to grow in policy analysis and forecasting.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 入门级分析师薪资 |
-| 中级（3-7年） | $70,000~$95,000 | 有经验的经济学家薪资 |
-| 高级（7年以上） | $95,000~$130,000 | 高级经济学家或主管薪资 |
+| Median salary | $100,006 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$70,000 | Entry-level analyst salary |
+| Mid-level (3–7 years) | $70,000~$95,000 | Experienced economist salary |
+| Senior (7+ years) | $95,000~$130,000 | Senior economist or director salary |
+| average salary | $108,160 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级经济学家通常从事数据收集和分析工作，晋升为高级分析师或政策顾问，进而成为首席经济学家或部门主管。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Junior economists typically engage in data collection and analysis; progress to senior analyst or policy advisor, then to chief economist or department head.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Data analytics
 - Policy analysis
@@ -61,68 +97,67 @@ Economists and economic policy researchers and analysts study and analyze econom
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 通过快速通道联邦技术移民，满足经济类移民基本条件。 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名计划，适合有雇主offer或目标省份的申请人。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳动力市场影响评估，支持工签和移民。 |
+| Subclass Express Entry (Federal Skilled Worker) | Meet basic economic migration requirements through Express Entry Federal Skilled Worker program. |
+| Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs, suitable for applicants with a job offer or target province. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support work permits and immigration. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economists and economic policy researchers and analysts？**
-- 具备分析和定量思维能力的人
-- 对经济政策和公共事务有浓厚兴趣的人
-- 希望在政府、金融或咨询行业发展的人
-
-**谁不适合学Economists and economic policy researchers and analysts？**
-- 不喜欢数据分析或抽象理论的人
-- 希望快速获得高薪但缺乏耐心学习的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with analytical and quantitative thinking skills
+- People interested in economic policy and public affairs
+- People wishing to develop a career in government, finance, or consulting
+
+**Who is not suited**
+- Dislike data analysis or abstract theory
+- Those who want to quickly earn high income but lack patience for learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for economists?**
+A: Salaries for economists in Canada range from approximately CAD 50,000 to CAD 130,000, depending on experience and industry.
+
+**Q: What immigration pathways are available for economists?**
+A: Can immigrate to Canada through Federal Express Entry (FSW/CEC), Provincial Nominee Program (PNP), or LMIA employer sponsorship.
+
+**Q: What are the career advancement prospects for economists?**
+A: With growing demand for data analysis and policy, economists have good career prospects, with advancement to senior analyst or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Economists and economic policy researchers and analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for economists?**
-答：Salaries for economists in Canada range from CAD 50,000 to CAD 130,000 annually, depending on experience and sector.
-
-**问：What immigration pathways are available for economists?**
-答：Economists can immigrate via Express Entry (FSW/CEC), Provincial Nominee Programs (PNP), or LMIA-based employer sponsorship.
-
-**问：What are the career prospects for economists?**
-答：With growing demand for data analysis and policy expertise, economists have good job prospects and can advance to senior analyst or management roles.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Metal Processing Plant Operator（Metal Processing Plant Operator）职业分析 · ES
+# Metal Processing Plant Operator — career analysis · Spain
 
-**职业代码：8121 – Metal Processing Plant Operator。**
+**Occupation code: 8121 (CNO)**
 
-Operates machinery for smelting, rolling, heat treating, and transforming metals into semi-finished or finished products. Works in industrial plants with strict safety protocols.
+Responsible for operating metal smelting, rolling, heat treatment, and other equipment to convert ore or scrap metal into semi-finished or finished products. The work environment is a factory, and strict safety procedures must be followed.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费，仅教材费） |
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约2000欧元/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free, only the textbook fee is required) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属加工操作员职业资格证书 | 西班牙劳动与社会经济部 | 可选 | 通过FP或培训获得，非强制但有利就业 |
-| 高空作业或危险品操作许可 | 企业或自治大区 | 可选 | 部分岗位要求额外安全培训 |
+| Metal Processing Operator Professional Qualification Certificate | Spanish Ministry of Labor and Social Economy | Optional | Obtained through FP or training, non-mandatory but employment-friendly |
+| Permits for working at heights or handling hazardous materials | Enterprises or autonomous regions | Optional | Some positions require additional safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,500。西班牙钢铁和有色金属行业岗位稳定，但自动化趋势可能减少低技能操作岗位。需适应轮班制，部分岗位受环保政策影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,500. Jobs in Spain's steel and non-ferrous metals industry remain stable, but automation trends may reduce low-skilled jobs. Must adapt to shift work; some positions are affected by environmental protection policies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含轮班补贴 |
-| 中级（3-7年） | $23,000~$28,000 | 税前年薪，含加班费 |
-| 高级（7年以上） | $29,000~$35,000 | 税前年薪，含班组长津贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including shift allowances |
+| Mid-level (3–7 years) | $23,000~$28,000 | Annual salary before tax, including overtime pay |
+| Senior (7+ years) | $29,000~$35,000 | Annual pre-tax salary including team leader allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为生产线组长或工段长，也可通过培训转向设备维护或质量控制岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Parts of the work of metalworking equipment operators can be automated (such as parameter monitoring), but AI amplifies human capabilities in process optimization and fault prediction, resulting in mixed outcomes.
+
+You can be promoted from junior operator to production line leader or section leader, or through training, you can move to equipment maintenance or quality control positions.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of furnace temperature, pressure, and other parameters, with alarms
+- Automatically adjusts equipment operating parameters according to production plans
+- Record production logs and basic quality inspection data
+- Perform standardized equipment start-stop operations
+
+**Where AI augments the role:**
+
+- AI analyzes historical data to optimize smelting formulas and improve yield rates
+- Predictive maintenance systems reduce unexpected downtime failures
+- Augmented reality (AR) assists in displaying complex piping and operating instructions
+- AI visual inspection identifies and classifies product surface defects
+- Digital twins simulate the impact of different process parameters on output
+
+**Human moat:**
+
+- Decision-making capabilities for emergency incidents such as furnace leaks and crystallizer blockages
+- Intuitive judgment of abnormal conditions and experience with manual intervention
+- Customized processing and adjustment of complex non-standard parts
+- Teamwork and on-site safety supervision responsibilities
+
+**Skills to build:**
+
+- Industrial data analysis and basic statistical process control
+- Operate the Industrial Internet of Things (IIoT) monitoring platform
+- Learn the basic use of predictive maintenance software
+- Master safety procedures and emergency response processes
+- Understand the fundamentals of metallurgical materials science and process optimization principles
+- Basic programming skills (such as Python scripts for data extraction)
+
+**Key growth areas:**
 
 - Industrial automation
 - Steel production
@@ -63,64 +97,66 @@ Operates machinery for smelting, rolling, heat treating, and transforming metals
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，非紧缺职业，获批难度较大 |
-| Subclass Busqueda empleo（Job search visa） | 适用于高学历或西班牙毕业生，操作员岗位通常不符合条件 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, non-urgently needed occupations, and approval is relatively difficult |
+| Subclass Busqueda empleo (Job search visa) | Applicable to highly educated or Spanish graduates; operator roles usually do not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Metal Processing Plant Operator？**
-- 适应轮班和体力劳动的求职者
-- 希望快速进入工业领域的中等学历者
+**Who is suited**
+- Job seekers who are suited to shift work and manual labor
+- Those with a secondary education who wish to quickly enter the industrial sector
 
-**谁不适合学Metal Processing Plant Operator？**
-- 对高温、噪声环境敏感者
-- 追求高薪或办公室工作的人
+**Who is not suited**
+- Those sensitive to high temperatures and noisy environments
+- Those seeking high salary or office jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for metalworking operators?**
+A: Entry-level annual salary approx. €18,000-€22,000, mid-level €23,000-€28,000, senior up to €35,000, including shift and overtime allowances.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: The difficulty is relatively high; this occupation is not urgently needed and requires employer sponsorship. Usually requires EU citizens or those who already have legal residency.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically, FP Grado Medio (2 years of vocational education) or Grado Superior (2 years of higher vocational education) is required, and public schools are free of charge.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Metal Processing Plant Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metal processing plant operators?**
-答：Entry-level annual salary ranges from €18,000 to €22,000, mid-level €23,000-€28,000, and senior up to €35,000 including shift and overtime allowances.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult; this occupation is not in shortage and requires employer sponsorship. Generally limited to EU citizens or those with existing residency.
-
-**问：What education is required for this occupation?**
-答：Typically requires FP Grado Medio (2-year vocational training) or Grado Superior (2-year advanced training), free at public schools.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

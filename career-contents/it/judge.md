@@ -1,61 +1,93 @@
-# Judge（Judge）职业分析 · IT
+# Judge — career analysis · Italy
 
-**职业代码：2612 – Judge。**
+**Occupation code: 2612 (ISCO08)**
 
-Judges preside over court proceedings in the Italian judicial system, ensuring the correct application of law and adjudicating criminal and civil cases.
+Judges preside over court hearings in the Italian judicial system, ensuring the correct application of law, and adjudicating criminal and civil cases.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法律本科 | 5年（本硕连读） | $5,000~$15,000（公立大学学费） |
-| 法官学院培训 | 18个月 | —（由司法部资助，培训期间有津贴） |
+| Bachelor of Laws | 5 years (integrated bachelor's and master's) | $5,000~$15,000 (Public university tuition) |
+| Judge Academy training | 18 months | $0~$0 (Funded by the Ministry of Justice with a stipend during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律学位（Laurea Magistrale in Giurisprudenza） | 意大利大学 | 必备 | 完成5年法律课程 |
-| 律师资格或司法考试 | 司法部 | 必备 | 通过国家考试进入法官培训 |
-| 法官培训课程 | 高等司法学校（SSM） | 必备 | 18个月培训 |
+| Law degree (Laurea Magistrale in Giurisprudenza) | Italian universities | Required | Complete a 5-year law course |
+| Legal qualification or bar exam | Department of Justice. | Required | Enter judge training through national examinations |
+| Judge Training Course | Superior School of Judiciary (SSM) | Required | 18 months of training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 9,500。意大利法官职位竞争激烈，但近年司法系统有现代化改革，预计招聘稳定，主要替代退休人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 9,500. Competition is fierce for judge positions in Italy, but recent modernization reforms in the judicial system are expected to lead to stable recruitment, primarily to replace retirees.
 
-**竞争度：非常高（★★★★½）。**
-**工作强度：高（★★★½☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $45,000~$60,000 | 税前年薪，含补贴 |
-| 中级（5-15年） | $65,000~$90,000 | 税前年薪 |
-| 高级（15年以上） | $100,000~$150,000 | 最高法院法官或管理职 |
+| Median salary | $77,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $45,000~$60,000 | Annual salary before tax, including allowances |
+| Intermediate (5-15 years) | $65,000~$90,000 | Annual pre-tax salary |
+| Senior (15+ years) | $100,000~$150,000 | Supreme Court judge or management position |
+| average salary | $85,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从实习法官（uditore giudiziario）逐步晋升，通过资历和考核可升至最高法院或担任管理职务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Judges' core adjudicative responsibilities are difficult to automate, but AI will significantly enhance efficiency in legal research, document drafting, and evidence analysis, reducing entry-level legal assistant roles while requiring judges to master AI tool usage and interpretation.
+
+Advance from trainee judge (uditore giudiziario) through seniority and assessments to the Supreme Court or management positions.
+
+**Tasks most exposed to AI:**
+
+- Legal clauses and case law retrieval
+- Drafting standardized legal documents (e.g., judgment templates)
+- Evidence classification and initial fact sorting
+- Court transcript transcription and summary generation
+
+**Where AI augments the role:**
+
+- Using AI for complex legal reasoning and case comparison
+- Improve trial advocacy skills through moot court AI training
+- Use an AI judge assistant to get real-time legal interpretations and procedural reminders.
+- Analyzing case law trends through data analysis to assist sentencing decisions
+
+**Human moat:**
+
+- Final decision-making authority and responsibility assumption
+- Value judgment and moral trade-offs
+- Courtroom scene management and order maintenance
+- Intuition and Experience-Based Judgment for Unstructured Evidence
+
+**Skills to build:**
+
+- Use of AI legal tools (e.g., ROSS Intelligence)
+- Data literacy and statistical analysis
+- Algorithmic bias identification and ethical review.
+- Complex dispute resolution and mediation
+- Interdisciplinary knowledge (technology law, data privacy).
+
+**Key growth areas:**
 
 - Judicial modernization
 - EU legal harmonization
@@ -64,66 +96,68 @@ Judges preside over court proceedings in the Italian judicial system, ensuring t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 针对高技能非欧盟公民，需高薪工作合同，但法官职位通常要求意大利国籍。 |
-| Subclass Lavoro Autonomo（Self-Employment Visa） | 自雇签证不适用于法官，因该职位为国家公务员。 |
-| Subclass Ricongiungimento Fam（Family Reunification Visa） | 若已持有居留许可的家庭成员可申请团聚，但法官职位本身不开放给非欧盟公民。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU citizens, a high-salary work contract is required, but judge positions usually require Italian nationality. |
+| Subclass Lavoro Autonomo (Self-Employment Visa) | Self-employment visa not applicable for judges as the position is a national civil servant. |
+| Subclass Ricongiungimento Fam (Family Reunification Visa) | If family members already hold a residence permit, they can apply for family reunion, but judge positions are not open to non-EU citizens. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Judge？**
-- 对法律有深刻理解和热情，愿意长期学习
-- 具备高度公正性和决策能力
-- 能承受高压工作环境
+**Who is suited**
+- Has a deep understanding and passion for law, willing to engage in lifelong learning
+- Possesses high impartiality and decision-making ability
+- Able to work under high-pressure environments
 
-**谁不适合学Judge？**
-- 不愿接受长时间培训和严格考试
-- 希望灵活工作或海外发展机会
+**Who is not suited**
+- Unwilling to undergo long training and strict examinations
+- Desire for flexible work or overseas opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an Italian judge?**
+A: The annual salary for a junior judge is about 45,000 to 60,000 euros (pre-tax), increasing with experience, and senior judges can earn over 100,000 euros.
+
+**Q: Can a non-EU citizen become a judge in Italy?**
+A: Usually requires Italian citizenship, but EU citizens can apply under certain conditions. Non-EU citizens are almost impossible, as the position requires EU citizenship.
+
+**Q: How many years does it take to become a judge in Italy?**
+A: Requires at least 5 years of integrated law bachelor's and master's degrees, plus 18 months of judge training, totaling about 7 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 非常高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Judge属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a judge in Italy?**
-答：Entry-level judges earn around €45,000-€60,000 gross per year, increasing with experience; senior judges can earn over €100,000.
-
-**问：Can non-EU citizens become judges in Italy?**
-答：Generally requires Italian citizenship; EU citizens may be eligible in some cases. Non-EU citizens face extremely high barriers.
-
-**问：How many years does it take to become a judge in Italy?**
-答：At least 5 years of law studies plus 18 months of judicial training, totaling around 7 years.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

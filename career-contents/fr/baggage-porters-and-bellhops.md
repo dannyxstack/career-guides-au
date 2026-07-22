@@ -1,60 +1,93 @@
-# Baggage Porters and Bellhops（Baggage Porters and Bellhops）职业分析 · FR
+# Baggage Porters and Bellhops — career analysis · France
 
-**职业代码：G1702 – Baggage Porters and Bellhops。**
+**Occupation code: G1702 (ROME)**
 
-Responsible for handling luggage, greeting guests, and providing assistance in hotels, train stations, airports, etc. An entry-level role in tourism and hospitality.
+Responsible for handling luggage, guest reception, and assistance in hotels, train stations, airports, and other venues, forming a fundamental position in the tourism and hospitality industry.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（酒店服务方向） | 2年 | —（公立学校免费，私立学校约3000欧/年；常见通过学徒制（apprentissage）带薪学习） |
-| 无要求，在职培训 | 数周至数月 | —（部分企业提供内部培训，无需文凭） |
+| CAP (Hotel Service Direction) | 2 years | $0~$3,000 (Public schools are free, private schools about 3,000 euros per year; Paid learning is commonly achieved through apprenticeships) |
+| No requirements, on-the-job training | A few weeks to several months | $0~$0 (Some companies offer in-house training without requiring a diploma) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Agent d'hôtellerie | Ministère de l'Éducation nationale | 可选 | 酒店业基础文凭，非强制但利于求职 |
-| Carte professionnelle (某些城市) | Préfecture | 可选 | 部分城市要求酒店行李员持证（如需通过背景调查） |
+| CAP Agent d'hôtellerie | Ministère de l'Éducation nationale | Optional | A basic diploma in the hotel industry, not mandatory, but beneficial for job hunting |
+| Carte professionnelle (certain cities) | Préfecture | Optional | Some cities require hotel porters to have a certificate (if background checks are required). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 25,000。法国旅游与酒店业持续复苏，但AI自动化（如自助行李寄存）及机器人可能部分替代。整体需求平稳，大城市机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. France's tourism and hospitality industry continues to recover, but AI automation (such as self-service luggage storage) and robots may partially replace it. Overall demand remains stable, with many opportunities in major cities.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | SMIC起薪，小费另计 |
-| 中级（3-7年） | $24,000~$28,000 | 含经验及小费，部分高端酒店更高 |
-| 高级（7年以上/主管） | $28,000~$35,000 | 含奖金，五星级酒店或礼宾部主管 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | SMIC starts salary, tips are extra |
+| Mid-level (3–7 years) | $24,000~$28,000 | Experience and tips included, some high-end hotels offer even higher prices |
+| Senior (7+ years/supervisor) | $28,000~$35,000 | Including bonuses, five-star hotel or concierge supervisor |
+| average salary | $22,326 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从行李员晋升为门童领班、礼宾部主管，也可横向转入前厅接待。需提升外语和客户服务技能。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Baggage handlers and bellhops, involving physical handling and basic greeting services, are significantly impacted by AI and automation; online self-service baggage tags and smart handling equipment gradually replace manual work, narrowing entry-level positions, but high-touch service and emergency response needs retain limited human value.
+
+They can be promoted from porter to gatekeeper and concierge supervisor, or can transfer horizontally to the front hall reception. Needs to improve foreign language and customer service skills.
+
+**Tasks most exposed to AI:**
+
+- Print baggage tags and check luggage via self-service kiosks and mobile apps
+- Use automatic transport robots or conveyor belt systems to deliver luggage to guest rooms or the luggage room.
+- Use smart access control and navigation systems to replace manual guiding and greeting
+- Provide standardized services like taxi booking and luggage storage via hotel apps or voice assistants
+
+**Where AI augments the role:**
+
+- AI translation tools assist in reception of foreign guests, improving communication efficiency
+- Smart scheduling system plans luggage transport routes to reduce waiting time
+- Personal mobile devices (e.g., tablets) for real-time guest preference queries and personalized service
+- Predictive analytics tools optimize peak-hour staffing
+- Augmented reality (AR) glasses help quickly identify guest information
+
+**Human moat:**
+
+- Empathy and adaptability when handling emergencies (e.g., damaged luggage, special guest requests)
+- Provide emotional interaction and high-star etiquette service (e.g., smiles, greetings, anniversary surprises)
+- Requires physical strength and fine operation (e.g., moving luggage racks, safely stacking fragile items)
+- Maintain brand image and guest relations in high-end venues
+
+**Skills to build:**
+
+- Use hotel management software and smart luggage systems.
+- Basic English and multilingual communication skills
+- Customer service and problem-solving skills
+- Learn to operate automated material handling equipment and perform simple troubleshooting
+- Proficient in hotel CRM tools to analyze guest preference data
+
+**Key growth areas:**
 
 - Tourism recovery
 - Automation risk
@@ -63,65 +96,67 @@ Responsible for handling luggage, greeting guests, and providing assistance in h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Travailleur temporaire / Salarié） | 需雇主提供工作合同，但岗位非紧缺，外籍申请难度大 |
-| Subclass Recherche emploi（Recherche d'emploi / création d'entreprise） | 仅限已在法完成学业的毕业生申请，12个月找工期 |
+| Subclass Salarié (Travailleur temporaire / Salarié) | Requires employer to provide work contract, but the occupation is not in shortage; high difficulty for foreign applicants. |
+| Subclass Recherche emploi (Recherche d'emploi / création d'entreprise) | Open only to graduates who have completed their studies in France; 12-month job search period. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Baggage Porters and Bellhops？**
-- 体力好、喜欢与人打交道的入门求职者
-- 希望在酒店业从基层做起、逐步晋升者
-- 短期打工或季节性工作者
+**Who is suited**
+- Entry-level job seekers who are physically fit and enjoy interacting with people
+- Those hoping to start from the ground up in the hotel industry and gradually advance through the ranks
+- Short-term workers or seasonal workers
 
-**谁不适合学Baggage Porters and Bellhops？**
-- 追求高薪或长期职业发展者
-- 不喜体力劳动或频繁站立者
+**Who is not suited**
+- Those seeking high salaries or long-term career development
+- Those who dislike physical labor or stand frequently
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for porters?**
+A: Junior EUR 20,000-24,000/year pre-tax, including tips. High-end hotels or supervisors can reach EUR 35,000.
+
+**Q: Can foreigners immigrate to France through this occupation?**
+A: Almost impossible, as the positions are not in short supply and France prioritizes hiring local or EU citizens.
+
+**Q: Does a porter have room for promotion?**
+A: Can advance to positions such as door supervisor, concierge assistant, or front desk receptionist; requires improved foreign language and service skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Baggage Porters and Bellhops属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for baggage porters?**
-答：Entry-level around €20-24k gross/year including tips. Luxury hotels or supervisors can reach €35k.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：Very unlikely, as it is not a shortage occupation and priority is given to local/EU workers.
-
-**问：Is there career progression for baggage porters?**
-答：Yes, to bell captain, concierge assistant or front desk, requiring language and service skills.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

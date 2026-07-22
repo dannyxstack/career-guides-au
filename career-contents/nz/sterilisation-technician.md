@@ -1,59 +1,94 @@
-# Sterilisation Technician（Sterilisation Technician）职业分析 · 新西兰
+# Sterilisation Technician — career analysis · New Zealand
 
-**职业代码：711914 – Sterilisation Technician。**
+**Occupation code: 711914 (ANZSCO)**
 
-Sterilisation Technicians clean, disinfect and sterilise medical instruments and equipment using autoclaves and chemical disinfectants to ensure sterility. New Zealand's healthcare sector growth offers pathways via AEWV or skilled migration.
+Sterilisation technicians clean, disinfect, and sterilise medical instruments and equipment using autoclaves and chemical disinfectants to ensure sterility. New Zealand's healthcare sector is growing; this occupation offers residency through Accredited Employer Work Visa (AEWV) or Skilled Migrant Category.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 相关证书或大专 | 1-2年 | $5,000~$15,000（如新西兰健康学院灭菌操作证书） |
-| 在职培训 | 0.5-1年 | $1,000~$5,000（雇主提供内部培训） |
+| Relevant certificate or diploma | 1-2 years | $5,000~$15,000 (New Zealand Health College Sterilisation Certificate) |
+| On-the-job training | 0.5-1 year | $1,000~$5,000 (Employer provides internal training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 灭菌操作证书 (CSSD) | 新西兰健康学院或ITAB | 可选 | 行业标准证书，非强制但雇主青睐 |
-| 新西兰国家证书 (健康支持一级) | NZQA | 可选 | 相关学历 |
-| 雅思6.0或同等英语 | IELTS/OET | 必备 | 移民及注册要求 |
+| IELTS 6.0 or equivalent English | IELTS/OET | Required | Immigration and Registration Requirements |
+| Sterilization Certificate (CSSD) | New Zealand Institute of Health or ITAB | Optional | Industry-standard certification, not mandatory but preferred by employers |
+| New Zealand Certificate (Health Support Level 1) | NZQA | Optional | Related qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,200。新西兰人口老龄化推动医疗需求上升，医院和日间手术对灭菌技师需求稳定。受认证雇主工签政策支持，就业前景中上。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. New Zealand's aging population drives healthcare demand, with steady demand for sterilization technicians in hospitals and day surgeries. Supported by accredited employer work visa policy, employment prospects are above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | Entry-level |
-| 中级（3-6年） | $60,000~$75,000 | — |
-| 高级（6年以上） | $75,000~$90,000 | 包括主管岗位 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$60,000 | Entry-level |
+| Mid-level (3–6 years) | $60,000~$75,000 | — |
+| Senior (6+ years) | $75,000~$90,000 | Including supervisory roles |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：初级灭菌技师 → 高级灭菌技师 → 灭菌主管/协调员。可晋级至感染控制或质量管理岗位，或转至手术室支持。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
+
+Career progression: Junior Sterilisation Technician → Senior Sterilisation Technician → Sterilisation Supervisor/Coordinator. Can advance to infection control or quality management roles, or transition to operating room support.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for standard orthotic design
+- 3D scan patient limbs to obtain basic measurements.
+- Automated sanding and finishing of prosthetic components
+- Generate standardized production reports and inventory records
+
+**Where AI augments the role:**
+
+- AI-driven biomechanical analysis optimizes orthotic design.
+- Machine learning-assisted prediction of prosthetic fit outcomes
+- Using AR/VR to simulate patient walking for plan adjustment
+- Intelligent material parameter recommendations improve component durability
+- Remotely monitor patient wearable data to guide maintenance
+
+**Human moat:**
+
+- Manual fine-tuning of prosthetic alignment to suit individual gait
+- In-depth communication with patients to obtain comfort feedback
+- Handle irregular shapes of complex amputations or deformities
+- Field testing and real-time adjustment of adaptation plans
+- Creative repairs for sudden mechanical failures
+
+**Skills to build:**
+
+- 3D modeling and scanning software (e.g., Meshmixer, Blender)
+- Basic programming and data processing (Python, R)
+- Use of AI biomechanical analysis tools.
+- Materials science knowledge (smart materials, composites)
+- Telemedicine and digital health record management
+- Customer relationship management and communication skills
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Aged Care Demand
@@ -61,68 +96,67 @@ Sterilisation Technicians clean, disinfect and sterilise medical instruments and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，工作满3年可申请居留 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事护士助理、健康服务助理等岗位满2年可申请居留，灭菌技师可能通过关联岗位申请 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，需满足薪资中位数及学历/工作经验加分 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires sponsorship by an accredited employer; can apply for residency after 3 years of work |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Working as a nursing assistant or health service assistant for 2 years may allow applying for residence; sterilization technicians may apply through related positions. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration using a 6-point system, must meet median salary and education/work experience points |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sterilisation Technician？**
-- 注重细节、有耐心的人员
-- 希望在医疗领域稳定就业，愿意轮班工作者
-- 寻求通过工签移民新西兰的候选人
-
-**谁不适合学Sterilisation Technician？**
-- 厌恶重复性工作或对消毒剂气味敏感者
-- 希望快速获得高薪者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and patient individuals
+- Seeking stable employment in the medical field, willing to work shifts
+- Seeking candidates who want to immigrate to New Zealand via work visa
+
+**Who is not suited**
+- Those who dislike repetitive work or are sensitive to disinfectant smells
+- Those seeking quick high income
+
+---
+
+## 8. FAQ
+
+**Q: Salary range for sterilisation technicians in New Zealand?**
+A: Entry-level approx. NZD 50,000-60,000, mid-level NZD 60,000-75,000, senior NZD 75,000-90,000.
+
+**Q: How can sterilization technicians immigrate to New Zealand?**
+A: You can apply for residency after working for 3 years on an Accredited Employer Work Visa (AEWV), or after 2 years on a Green List T2 pathway (requires employer support). Alternatively, you can apply through the Skilled Migrant 6-point system (must meet median wage and points).
+
+**Q: Is this occupation in shortage in New Zealand?**
+A: Listed as health support shortage occupation, Green List T2 covers relevant roles, demand is stable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sterilisation Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Sterilisation Technicians in NZ?**
-答：Entry-level NZD 50,000-60,000; mid-level NZD 60,000-75,000; senior NZD 75,000-90,000.
-
-**问：How can Sterilisation Technicians immigrate to NZ?**
-答：Via AEWV (3 years then residence), Green List Tier 2 (2 years then residence with employer support), or Skilled Migrant Category (6-point system).
-
-**问：Is this occupation in shortage in NZ?**
-答：Yes, related roles are on Green List Tier 2, indicating steady demand in healthcare support.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

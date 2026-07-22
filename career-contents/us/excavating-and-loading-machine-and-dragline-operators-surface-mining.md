@@ -1,60 +1,96 @@
-# Excavating and Loading Machine and Dragline Operators, Surface Mining（Excavating and Loading Machine and Dragline Operators, Surface Mining）职业分析 · 美国
+# Excavating and Loading Machine and Dragline Operators, Surface Mining — career analysis · United States
 
-**职业代码：47-5022 – Excavating and Loading Machine and Dragline Operators, Surface Mining。**
+**Occupation code: 47-5022 (SOC)**
 
-Operate or tend machinery at surface mining sites, using scoops, shovels, or buckets to excavate and load loose materials.
+Operate or oversee excavation loading machinery at surface mining sites, using buckets, shovels, or scoops to dig and load loose materials.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 职业培训证书 | 6个月 | $5,000~$15,000（社区学院或技术学校） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training certificate | 6 months. | $5,000~$15,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 各州机动车辆管理局 | 必备 | 部分采矿设备需在公共道路行驶时须持有 |
-| 矿山安全与健康管理局（MSHA）培训证书 | MSHA | 必备 | 所有矿工必须完成培训 |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Required | Required for some mining equipment when driving on public roads. |
+| Mine Safety and Health Administration (MSHA) training certificate | MSHA | Required | All miners must complete training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。美国采矿行业就业预计未来十年小幅下滑，因自动化替代部分人力，但退休人员补充仍带来一定岗位需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Employment in the US mining industry is expected to decline slightly over the next decade as automation replaces some labor, but replacement of retirees will still create some job demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 按地区不同 |
-| 中级（3-7年） | $48,000~$60,000 | 含技能证书加成 |
-| 高级（7年以上） | $60,000~$75,000 | 含工头或特殊设备操作 |
+| Median salary | $57,430 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Varies by region |
+| Mid-level (3–7 years) | $48,000~$60,000 | Including skills certificate bonus |
+| Senior (7+ years) | $60,000~$75,000 | Includes foreman or special equipment operation |
+| average salary | $59,930 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从设备操作助手起步，积累经验后晋升为高级操作员或工头，部分可转向设备维修或采矿管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Some tasks for heavy equipment operators (e.g., scheduling, documentation) can be automated by AI, but core operations involve on-site perception and physical control; AI is more of an assistant than a replacement, overall risk is moderate.
+
+Typically start as equipment operation assistants, gain experience to advance to senior operator or foreman; some may transition to equipment maintenance or mining management roles.
+
+**Tasks most exposed to AI:**
+
+- Equipment condition monitoring and diagnostic report generation (AI analyzes sensor data for automatic output)
+- Basic scheduling and route planning (automated systems optimize routes)
+- Paper records and compliance document filling (NLP automatic sorting)
+- Fuel consumption and maintenance forecasting (machine learning model prediction)
+- Simple environmental scanning and obstacle recognition (with computer vision assistance)
+
+**Where AI augments the role:**
+
+- Precise operational control (AI-assisted real-time feedback improves digging accuracy)
+- Safety alerts and risk avoidance (AI identifies dangerous areas and provides warnings)
+- Remote assistance and training (AR/VR combined with expert guidance)
+- Multi-device collaborative operation (AI coordinates multiple machines to improve efficiency)
+- Work condition adaptive recommendations (AI suggests operating parameters based on soil/weather data)
+
+**Human moat:**
+
+- Complex on-site judgment (unstructured perception like soil quality, structural stability)
+- Emergency response and equipment repair (physical intervention and experience-based reasoning)
+- Real-time coordination and communication with field teams, engineers, and supervisors
+- Operational compliance and safety responsibility (legal and safety consequences)
+- Adaptability to harsh environments (mud, noise, temperature, etc.)
+
+**Skills to build:**
+
+- Basic digital literacy (using tablets/vehicle AI systems)
+- Automated equipment maintenance and fault diagnosis
+- Data analysis and report interpretation (understanding AI output)
+- Remote operation and collaboration skills
+- Continuous learning and certification updates (e.g., new technical licenses)
+- Basic programming or scripting knowledge (for customizing automation processes)
+
+**Key growth areas:**
 
 - Automation
 - Coal mining decline
@@ -63,65 +99,67 @@ Operate or tend machinery at surface mining sites, using scoops, shovels, or buc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 季节性采矿岗位可用，但需雇主证明劳工短缺，且有名额限制。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference (EB-3)） | 理论上有技术劳工绿卡路径，但需通过PERM劳工证，雇主证明无法招到美国人，很少用于该职业。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Seasonal mining positions are available but require employer proof of labor shortage and have quota limits. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Theoretically, there is a skilled worker green card path, but it requires PERM labor certification where the employer proves no qualified US workers; rarely used for this occupation. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Excavating and Loading Machine and Dragline Operators, Surface Mining？**
-- 喜欢户外体力工作的人
-- 能适应偏远矿区生活的人
-- 对机械操作有热情的人
+**Who is suited**
+- People who enjoy outdoor physical work
+- People who can adapt to remote mining life
+- People passionate about mechanical operations.
 
-**谁不适合学Excavating and Loading Machine and Dragline Operators, Surface Mining？**
-- 倾向办公室工作的文职型人才
-- 不愿在尘土和噪音环境下工作的人
+**Who is not suited**
+- Clerical type who prefers office work
+- Those who dislike working in dusty and noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation in the United States?**
+A: According to BLS data, median annual salary in 2022 was around 50,000 USD, entry-level around 38,000 USD, senior up to 75,000 USD, depending on location and experience.
+
+**Q: Is it easy to immigrate to the US for this occupation?**
+A: Very difficult. Typically only applies to H-2B seasonal visas with limited numbers; EB-3 green card path requires employer sponsorship and PERM, rarely supported by employers, generally not suitable for immigration.
+
+**Q: What education is needed to become a mining equipment operator?**
+A: Usually only requires high school diploma, but must complete MSHA safety training; some employers prefer vocational training or CDL license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Excavating and Loading Machine and Dragline Operators, Surface Mining属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in the US?**
-答：According to BLS data, the median annual wage in 2022 was about $50,000, with entry-level around $38,000 and experienced up to $75,000, varying by location and experience.
-
-**问：Is it easy to immigrate to the US for this occupation?**
-答：Very difficult. Typically only H-2B seasonal visa applies with limited quotas; EB-3 green card requires employer sponsorship and PERM, rarely offered, making it unsuitable for immigration.
-
-**问：What education is needed to become a mining equipment operator?**
-答：Typically only a high school diploma is required, plus MSHA safety training; some employers prefer vocational training or a CDL license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

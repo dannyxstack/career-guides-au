@@ -1,60 +1,93 @@
-# Animal Producer (Not Elsewhere Classified)（Animal Producer (Not Elsewhere Classified)）职业分析 · NL
+# Animal Producer (Not Elsewhere Classified) — career analysis · Netherlands
 
-**职业代码：6129 – Animal Producer (Not Elsewhere Classified)。**
+**Occupation code: 6129 (ISCO08)**
 
-Animal producers in the Netherlands raise livestock, poultry, or other animals for meat, dairy, eggs, or other products, managing feeding, breeding, health, and production.
+Engaging in livestock production in the Netherlands, including raising livestock, poultry, or other animals, responsible for feeding, breeding, health management, and product collection.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | $2,000~$6,000（每年学费约2000-6000欧元，视学校和课程而定） |
-| 高等职业教育 (HBO) | 4年（本科） | $8,000~$12,000（每年学费约8000-12000欧元，非欧盟学生更高） |
+| Secondary vocational education (MBO) | 3-4 years | $2,000~$6,000 (Annual tuition approximately 2000–6000 euros, depending on the school and program) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $8,000~$12,000 (Annual tuition is about 8000-12000 EUR, higher for non-EU students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医助理或动物健康证书 | 荷兰兽医协会 (KNMvD) 或相关教育机构 | 可选 | 并非强制，但有助于提升竞争力 |
-| 农场管理证书 | 荷兰农业商会 (LTO) 或职业教育机构 | 可选 | 自愿认证，显示管理能力 |
+| Veterinary assistant or animal health certificate | Dutch Veterinary Association (KNMvD) or relevant educational institutions | Optional | Not mandatory, but helps improve competitiveness. |
+| Farm management certificate | Dutch agricultural trade association (LTO) or vocational education institution | Optional | Voluntary certification demonstrating management ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰畜牧业面临集约化与环保压力，小型农场减少，但有机和可持续养殖需求增长；就业机会稳定，对技术和管理能力要求提高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Dutch livestock farming faces pressure from intensification and environmental concerns; small farms are declining, but demand for organic and sustainable farming is growing. Employment is stable, with increased requirements for technical and management skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，取决于农场规模和效率 |
-| 中级（3-7年） | $32,000~$42,000 | 经验丰富者可能包括奖金 |
-| 高级（7年以上） | $42,000~$55,000 | 农场经理或所有者收入更高 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, depending on farm size and efficiency |
+| Mid-level (3–7 years) | $32,000~$42,000 | Experienced candidates may include bonuses |
+| Senior (7+ years) | $42,000~$55,000 | Farm managers or owners earn higher incomes |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可从农场工人晋升为农场经理或自主经营农场；部分转向畜牧技术顾问、动物营养师或食品安全检查等专业岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Dutch livestock producers face a high risk of automation replacement; routine tasks like feeding, health monitoring, and product collection can be replaced by robots, intelligent systems, and drones, significantly reducing job numbers.
+
+Practitioners can progress from farm worker to farm manager or run their own farm; some transition to specialized roles such as livestock technology consultant, animal nutritionist, or food safety inspector.
+
+**Tasks most exposed to AI:**
+
+- Automatic milking robots replace manual milking.
+- Smart sensors and cameras replace daily animal health observation
+- Drones and robots replace pasture patrol and fence inspections
+- Automated feeding systems replace manual feeding and water management
+- Product collection (e.g., egg collection belts, automatic slaughter lines) replacing manual labor
+
+**Where AI augments the role:**
+
+- Data analysis platforms enhance breeding programs and genetic selection capabilities
+- Precision livestock farming (PLF) systems enhance individual animal health management
+- Robotic assistance improves fecal cleaning and sanitation efficiency
+- ERP software enhances inventory, feed procurement, and financial record management
+
+**Human moat:**
+
+- Decision-making and hands-on skills for handling emergencies such as sudden animal diseases and dystocia
+- Animal welfare and ethical judgment (e.g., euthanasia, group stress intervention)
+- management ability to adjust production strategies based on market dynamics
+- Interpersonal coordination and communication skills with veterinarians, consultants, and regulatory bodies
+
+**Skills to build:**
+
+- Precision Livestock Farming (PLF) operation and data analysis
+- Maintenance and troubleshooting of automated equipment (robotic milking, feeding systems).
+- Animal Health Data Management and Biosecurity Planning
+- Sustainable farming practices and carbon footprint accounting
+- Basic business management and financial analysis
+
+**Key growth areas:**
 
 - organic farming
 - sustainable livestock
@@ -63,70 +96,69 @@ Animal producers in the Netherlands raise livestock, poultry, or other animals f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于高技能移民，需获得担保雇主且年薪超过最低门槛（2024年约€5,100/月） |
-| Subclass EU Blue Card（EU Blue Card） | 针对非欧盟高技能工作者，需有大学学历或5年经验，薪资门槛较高（2024年约€5,712/月） |
-| Subclass Self-Employed Person（Residence Permit as Self-Employed Person） | 适用于自主创业的农场主，需通过荷兰商会评估并展示足够收入 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 在荷兰毕业或世界前200大学毕业生可申请，有效期1年找工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable for highly skilled migrants, requiring a sponsoring employer and an annual salary above the minimum threshold (approximately €5,100/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers: requires university degree or 5 years experience, higher salary threshold (approx. €5,712/month in 2024) |
+| Subclass Self-Employed Person (Residence Permit as Self-Employed Person) | Suitable for self-employed farm owners, who must pass an assessment by the Netherlands Chamber of Commerce and demonstrate sufficient income. |
+| Subclass Orientation Year (Orientation Year for Graduates) | Graduates in the Netherlands or from top 200 global universities can apply for a 1-year job-seeking visa |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animal Producer (Not Elsewhere Classified)？**
-- 对动物福利和可持续农业有热情的人
-- 愿意从事体力劳动并适应户外工作的人
-- 有创业精神并愿意经营农场的人
-
-**谁不适合学Animal Producer (Not Elsewhere Classified)？**
-- 不喜欢体力劳动和农场环境的人
-- 追求高薪和办公室工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about animal welfare and sustainable agriculture
+- People willing to do physical work and adapt to outdoor work
+- Individuals with an entrepreneurial spirit and willingness to operate a farm
+
+**Who is not suited**
+- People who dislike physical labor and farm environments.
+- People seeking high salary and office jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of animal producers in the Netherlands?**
+A: Junior annual salary approx. €25,000–32,000, mid-level €32,000–42,000, senior €42,000–55,000 (before tax).
+
+**Q: How can non-EU citizens immigrate to the Netherlands as animal producers?**
+A: Can be obtained through skilled migration (requires sponsoring employer and salary threshold), EU Blue Card (requires qualifications/experience), self-employment visa (requires business plan), or graduate job-seeking year.
+
+**Q: What are the career progression paths for this role?**
+A: From Farm Worker to Team Supervisor, to Farm Manager or Self-employment; also can transition into Specialized Fields like Animal Nutrition, Technical Consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Animal Producer (Not Elsewhere Classified)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal producers in the Netherlands?**
-答：Entry-level salaries range from €25,000 to €32,000, mid-level from €32,000 to €42,000, and senior from €42,000 to €55,000 (annual gross).
-
-**问：How can non-EU citizens immigrate to the Netherlands as animal producers?**
-答：Options include the Highly Skilled Migrant scheme (sponsored employer, salary threshold), EU Blue Card (degree/experience, higher salary), self-employment visa (business plan), or Orientation Year for graduates.
-
-**问：What are the career advancement paths for this role?**
-答：From farm worker to team leader, farm manager, or self-employed owner; or transition to animal nutrition, technical advisory, or related fields.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

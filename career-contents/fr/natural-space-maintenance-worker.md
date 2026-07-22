@@ -1,60 +1,92 @@
-# Natural Space Maintenance Worker（Natural Space Maintenance Worker）职业分析 · FR
+# Natural Space Maintenance Worker — career analysis · France
 
-**职业代码：A1202 – Natural Space Maintenance Worker。**
+**Occupation code: A1202 (ROME)**
 
-Maintains natural spaces including forests, moors, and wetlands through vegetation management, trail upkeep, and biodiversity conservation tasks.
+Responsible for the maintenance, ecological restoration, and biodiversity protection of natural spaces (forests, wilderness, wetlands, etc.), as well as carrying out field work such as vegetation management and trail maintenance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年 | —（公立学校免费，学徒制有津贴） |
-| BTS（高级技师文凭） | 2年 | $200~$5,000（公立学校学费低，私立较高） |
+| CAP (Professional Competency Certificate) | 2 years | $0~$2,000 (Public schools are free of charge, and apprenticeships receive subsidies) |
+| BTS (Advanced Technician Diploma) | 2 years | $200~$5,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Agricole: Entretien des espaces naturels | 法国教育部 | 可选 | 基础从业文凭，非强制但雇主偏好 |
-| BTS Gestion et protection de la nature | 法国教育部 | 可选 | 高级文凭，有利于晋升 |
+| CAP Agricole: Entretien des espaces naturels | French Ministry of Education | Optional | Basic professional diploma, not mandatory but employer-paid |
+| BTS Gestion et protection de la nature | French Ministry of Education | Optional | Advanced diplomas are beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国对生态修复和绿色空间维护需求持续增长，受国家生物多样性战略推动，就业前景稳定，但多为季节性合同。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. France's demand for ecological restoration and green space maintenance continues to grow, driven by the national biodiversity strategy, with stable employment prospects, though most contracts are seasonal.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，含季节性补贴 |
-| 中级（3-7年） | $24,000~$28,000 | 税前年薪，视经验与雇主 |
-| 高级（7年以上） | $28,000~$32,000 | 税前年薪，含管理职责 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, including seasonal subsidies |
+| Mid-level (3–7 years) | $24,000~$28,000 | Pre-tax annual salary depends on experience and employer |
+| Senior (7+ years) | $28,000~$32,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $20,004 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从基层维护员晋升为团队主管或技术专家，也可通过继续教育转向生态工程或自然保护管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will replace some data recording and monitoring tasks, but field physical labor and ecological assessment work are difficult to replace. Overall risk is moderate, and after skill upgrades, AI can be used to improve efficiency.
+
+You can be promoted from a grassroots maintenance staff to a team leader or technical expert, or transition to ecological engineering or nature conservation management positions through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automated sensors replace manual monitoring of plant and animal quantities and water quality regularly
+- AI image recognition automatically classifies species in field camera photos
+- Drone automatic patrols replace manual trail patrols and garbage removal
+- The digital log system automatically generates maintenance reports
+
+**Where AI augments the role:**
+
+- AI-assisted ecological data analysis optimizes vegetation management plans
+- Drones and satellite imagery enhance large-scale ecological change monitoring capabilities
+- Intelligent tools assist in identifying invasive species and diseases, improving control efficiency
+- Natural language processing automatically organizes policy documents and research literature
+
+**Human moat:**
+
+- Physical work and operations in complex terrain
+- Empirical ecological judgment (such as habitat restoration decisions)
+- On-site emergency response (such as wildlife rescue and early fire control)
+- Emotional interaction in public education and communication
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- GIS and Remote Sensing Basics
+- Ecological data statistical analysis
+- Application of AI tools in ecological monitoring
+- Nonprofit project management and report writing
+
+**Key growth areas:**
 
 - Biodiversity conservation
 - Ecological restoration
@@ -63,65 +95,67 @@ Maintains natural spaces including forests, moors, and wetlands through vegetati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，适合中期合同 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适合高技能或特殊项目，但本职业较少适用 |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, suitable for mid-term contracts |
+| Subclass Passeport Talent (Talent Passport) | Talent passport, suitable for high-skilled or specialized projects, but less applicable for this profession |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Natural Space Maintenance Worker？**
-- 热爱户外工作和自然环境
-- 能适应体力劳动和野外条件
-- 接受季节性、非稳定合同
+**Who is suited**
+- Passionate about outdoor work and the natural environment
+- Able to adapt to physical labor and outdoor conditions
+- Accept seasonal and non-stable contracts
 
-**谁不适合学Natural Space Maintenance Worker？**
-- 偏好固定办公室工作
-- 对体力要求高或户外环境不耐受
+**Who is not suited**
+- Preference for fixed office work
+- Unable to tolerate high physical demands or outdoor environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How does this profession earn in France?**
+A: Entry-level position pre-tax annual salary about €20,000 to €24,000, senior up to €32,000, income level relatively low.
+
+**Q: Is it easy for foreigners to immigrate to France through this profession?**
+A: It's harder. This occupation is not in urgent demand and mostly consists of short-term contracts, with low employer sponsorship and limited pathways for skilled migration.
+
+**Q: What qualifications are required?**
+A: Typically, a CAP or BTS-related diploma is required, and apprenticeship is a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Natural Space Maintenance Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for this occupation in France?**
-答：Entry-level gross annual salary ranges from €20,000 to €24,000, and senior positions up to €32,000, which is relatively low.
-
-**问：Is it easy for foreigners to immigrate to France through this occupation?**
-答：It is difficult. The occupation is not in shortage, mostly seasonal contracts, and employer sponsorship is low, limiting migration pathways.
-
-**问：What education is required?**
-答：Typically a CAP or BTS diploma in natural space management, with apprenticeship being common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

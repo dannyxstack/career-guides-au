@@ -1,67 +1,94 @@
-# 建筑绘图师（Architectural Draftsperson）职业分析 · 澳大利亚
+# Architectural Draftsperson — career analysis · Australia
 
-**职业代码：312111 – Architectural Draftsperson。**
+**Occupation code: 312111 (ANZSCO)**
 
-建筑绘图师（Architectural Draftsperson）负责使用CAD和BIM软件绘制建筑施工图和设计文件。澳大利亚住宅建设繁荣和商业开发旺盛带动持续需求，BIM技能成为核心竞争力，移民背景申请者因设计制图经验丰富而受欢迎。
+An Architectural Draftsperson is responsible for producing construction drawings and design documentation using CAD and BIM software. Sustained demand is driven by Australia's residential construction boom and strong commercial development activity. BIM skills are a core competitive advantage, and applicants with extensive drafting experience from overseas backgrounds are well regarded.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma in Architectural Technology / Cert IV in Building Design | 12~24个月 | $3,000~$15,000（TAFE国际学生约$12,000~$15,000；本地补贴后更低） |
-| Revit / ArchiCAD / AutoCAD 认证培训 | 3~6个月（自学+考试） | $500~$2,000（软件培训费；Autodesk认证考试约$200） |
-| Vetassess Skills Assessment（移民评估） | 3~6个月 | $800~$1,500（Vetassess评估费） |
+| Diploma in Architectural Technology / Cert IV in Building Design | 12–24 months | $3,000~$15,000 (International students at TAFE: approximately $12,000–$15,000; lower after domestic subsidies) |
+| Revit / ArchiCAD / AutoCAD certification training | 3–6 months (self-study + exam) | $500~$2,000 (Software training costs; Autodesk certification exam approximately $200) |
+| Vetassess Skills Assessment (migration assessment) | 3–6 months | $800~$1,500 (VETASSESS assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV / Diploma in Architectural Technology | TAFE / RTO | 必备 | 主流入行资质 |
-| Autodesk Revit Certified User/Professional | Autodesk | 可选 | BIM市场标准证书 |
-| Vetassess Skills Assessment | Vetassess | 可选 | 技能移民评估 |
+| Certificate IV / Diploma in Architectural Technology | TAFE / RTO | Required | Mainstream entry-level qualification |
+| Autodesk Revit Certified User/Professional | Autodesk | Optional | BIM industry-standard certificate |
+| Vetassess Skills Assessment | Vetassess | Optional | Skills migration assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 16,000。联邦「住宅未来基金」新建计划（至2029年120万套）带动设计文件需求。BIM平台（Revit/ArchiCAD）技能成为招聘标准配置。JSA列为短缺职业（2025）。
+**Job demand: high (★★★★☆).** National workforce approx. 16,000. The federal 'Housing Future Fund' new construction plan (1.2 million homes by 2029) is driving demand for design documents. BIM platform (Revit/ArchiCAD) skills have become a standard hiring requirement. JSA lists it as a shortage occupation (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~600 个 | 全国，住宅和商业均有 |
-| Indeed | 150~350 个 | 含BIM协调员 |
-| LinkedIn | 100~250 个 | 偏商业和大型项目 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级绘图师（0~2年） | $55,000~$70,000 | 住宅设计公司 |
-| 中级绘图师（2~5年） | $70,000~$90,000 | Seek AU 均值约$35~$45/hr（2026） |
-| 资深绘图师 / BIM协调员（5年+） | $90,000~$115,000 | BIM+项目协调；大型事务所溢价 |
-| BIM经理 / 技术负责人 | $110,000~$140,000 | 大型商业和基建项目 |
+| Median salary | $118,560 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior drafter (0–2 years) | $55,000~$70,000 | Residential design firms |
+| Intermediate drafter (2–5 years) | $70,000~$90,000 | Seek AU average approximately $35–$45/hr (2026) |
+| Senior Drafter / BIM Coordinator (5+ years) | $90,000~$115,000 | BIM + project coordination; premium at large firms |
+| BIM Manager / Technical Lead | $110,000~$140,000 | Large commercial and infrastructure projects |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：佳（★★★★☆）。** BIM协调和3D建模逐步替代2D AutoCAD，但设计文件审核和客户沟通仍需人工。有BIM技能的绘图师薪资溢价明显。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Architectural drafters face mixed impacts from AI: simple drafting tasks are replaced by automation tools, but BIM, parametric design, and sustainability needs actually increase demand for creative, collaborative senior drafters.
+
+BIM coordination and 3D modelling are gradually replacing 2D AutoCAD, but design document review and client communication still require human input. Drafters with BIM skills command a clear salary premium.
+
+**Tasks most exposed to AI:**
+
+- Generate standard architectural construction drawings (plans, elevations, sections)
+- Automatic dimensioning and bill of materials
+- Compliance checking and correction of 2D drawings
+- Automatically extracting drawings and quantities from BIM models
+
+**Where AI augments the role:**
+
+- Using generative AI to quickly create design drafts and iterate solutions
+- Clash detection and automatic coordination in BIM models
+- AI-assisted energy analysis, daylight analysis, and other performance optimizations
+- Machine learning-based material selection and cost estimation
+
+**Human moat:**
+
+- Collaboration skills to communicate design intent with architects and engineers
+- Deep understanding of building codes and local regulations
+- Creative problem-solving in complex spatial design
+- On-site inspection and flexible adaptation to actual conditions
+
+**Skills to build:**
+
+- Proficient use of advanced BIM software (Revit, ArchiCAD)
+- Parametric design (Grasshopper, Dynamo)
+- Applying AI tools (e.g., Midjourney for concept design assistance)
+- Sustainable building design and analysis
+- Interdisciplinary collaboration and project management
+- Programming basics (Python automation scripts)
+
+**Key growth areas:**
 
 - Residential Design Documentation
 - Commercial & Mixed-Use Development
@@ -70,79 +97,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 189（Skilled Independent） | 积分制独立移民 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 189 (Skilled Independent) | Points-tested independent migration |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学建筑绘图师？**
-- 有建筑设计、施工图绘制或AutoCAD背景，目标技能移民来澳
-- 愿意学习BIM（Revit/ArchiCAD），提升职业竞争力
-- 希望在建筑行业深耕，未来向建筑师或BIM经理发展
-
-**谁不适合学建筑绘图师？**
-- 完全没有设计或技术制图经验（起点太低）
-- 不愿意持续更新软件技能（BIM平台每年升级）
-- 期望完全脱离电脑的户外工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an architectural design, construction documentation or AutoCAD background targeting a skilled migration pathway to Australia
+- Willing to learn BIM (Revit/ArchiCAD) to enhance career competitiveness
+- Looking to build a long-term career in the construction industry, with future progression towards architect or BIM Manager roles
+
+**Who is not suited**
+- No design or technical drafting experience whatsoever (starting point too low)
+- Not suited to those unwilling to continuously update software skills (BIM platforms upgrade annually)
+- Expecting work that is entirely outdoors and computer-free
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a drafting technician in Australia?**
+A: Mid-level drafters earn approximately $70,000–$90,000 per year (around $35–$45/hr). BIM coordinators/managers can earn $90,000–$140,000.
+
+**Q: Is it easy to find work as an architectural draftsperson in Australia?**
+A: Relatively straightforward, especially for those with BIM skills. Demand exists across residential and commercial projects, with 300–600 positions listed on Seek.
+
+**Q: Is overseas architectural design experience recognised in Australia?**
+A: Skills assessment via Vetassess required (3–6 months). Applicants with AutoCAD/Revit experience have a higher assessment pass rate.
+
+**Q: Will architectural drafters be replaced by AI?**
+A: Some basic drafting tasks may be AI-assisted, but document review, client communication and regulatory compliance judgement still require human input. Learning BIM can improve career stability.
+
+**Q: Is an architecture degree required?**
+A: Not required. A Diploma or Certificate IV is sufficient to enter the field; those with an overseas architecture degree can apply directly through Vetassess.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 312111 数据 |
-| Seek AU | Draftsperson 薪资及挂牌量（2026） |
-| Vetassess | 技能评估 |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 佳（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-建筑绘图师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲建筑绘图师工资多少？**
-答：中级绘图师年薪约 $70,000~$90,000（约$35~$45/hr）。BIM协调员/经理可达 $90,000~$140,000。
-
-**问：澳洲建筑绘图师容易找工作吗？**
-答：比较容易，尤其有BIM技能者。住宅和商业项目均有需求，Seek挂牌300~600个职位。
-
-**问：国内建筑设计经验澳洲认可吗？**
-答：需通过Vetassess技能评估（3~6个月）。有AutoCAD/Revit经验者评估通过率较高。
-
-**问：建筑绘图师会被AI取代吗？**
-答：部分基础绘图可能被AI辅助，但文件审核、客户沟通和规范合规判断仍需人工。学BIM可以提高职业稳定性。
-
-**问：需要建筑学学位吗？**
-答：不需要。Diploma/Certificate IV即可入行，有海外建筑学位者可直接申请Vetassess。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

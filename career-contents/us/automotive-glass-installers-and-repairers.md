@@ -1,60 +1,92 @@
-# Automotive Glass Installers and Repairers（Automotive Glass Installers and Repairers）职业分析 · 美国
+# Automotive Glass Installers and Repairers — career analysis · United States
 
-**职业代码：49-3022 – Automotive Glass Installers and Repairers。**
+**Occupation code: 49-3022 (SOC)**
 
-Replace or repair broken windshields and window glass in motor vehicles.
+Technician specializing in replacing or repairing automotive windshields and window glass.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 0年 | —（通常要求高中文凭） |
-| 在职培训或学徒制 | 1-2年 | $1,000~$5,000（培训费和工具费） |
+| High school graduation or equivalent | 0 years | $0~$0 (Usually requires a high school diploma) |
+| On-the-job training or apprenticeship | 1-2 years | $1,000~$5,000 (Training fees and tool costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 州机动车辆管理局 | 必备 | 通常需要有效的州驾驶执照 |
-| 无相关强制性认证 | 无 | 可选 | 雇主通常提供在职培训，认证非强制但有利于就业 |
+| Driver's license | State motor vehicle department | Required | Typically requires a valid state driver's license |
+| No relevant mandatory certification | None | Optional | Employers usually provide on-the-job training; certification is not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 23,200。美国汽车保有量持续增长，事故维修需求稳定，就业前景良好。预计2023-2033年就业增长约6%，接近平均水平。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 23,200. U.S. vehicle ownership continues to grow, accident repair demand is stable, and employment outlook is favorable. Employment is projected to grow about 6% from 2023-2033, near the average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 新手起薪较低 |
-| 中级（3-7年） | $36,000~$45,000 | 经验丰富后薪资提升 |
-| 高级（7年以上） | $48,000~$60,000 | 高级技师或主管可达此范围 |
+| Median salary | $47,630 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Low starting salary for beginners |
+| Mid-level (3–7 years) | $36,000~$45,000 | Salary increases with experience |
+| Senior (7+ years) | $48,000~$60,000 | Senior technicians or supervisors can reach this range |
+| average salary | $50,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒做起，积累经验后可晋升为高级技师或团队主管，也可自主开店创业。部分技术人员转向汽车玻璃销售或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
+
+Start as apprentice, gain experience to advance to senior technician or team leader, or start own business. Some technicians move into automotive glass sales or training roles.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
 
 - Automotive
 - Glass Replacement
@@ -63,66 +95,68 @@ Replace or repair broken windshields and window glass in motor vehicles.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为该职业通常不要求学士学位 |
-| Subclass EB-3（Employment-Based Third Preference） | 可能通过EB-3技术工人类别申请，但需证明劳动力短缺 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需进行PERM劳工认证，证明无法招聘到美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable, as this occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (Employment-Based Third Preference) | May apply through EB-3 skilled worker category, but need to prove labor shortage |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must undergo PERM labor certification to prove they cannot hire US workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Automotive Glass Installers and Repairers？**
-- 喜欢动手操作、有耐心和细心的人
-- 愿意学习技术技能并追求稳定工作的人
-- 不介意体力劳动和户外工作环境的人
+**Who is suited**
+- People who enjoy hands-on work, are patient and detail-oriented
+- People willing to learn technical skills and pursue stable work
+- People who don't mind physical labor and outdoor working environments.
 
-**谁不适合学Automotive Glass Installers and Repairers？**
-- 对化学物质（如胶水）过敏或不耐受者
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- Those allergic or intolerant to chemicals (e.g., glue)
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for an auto glass installer?**
+A: Junior worker annual salary approx. USD 28,000-35,000, after experience USD 48,000-60,000, but salary growth is limited.
+
+**Q: Is auto glass installer suitable for skilled migration to the US?**
+A: Not suitable. This occupation typically does not meet the H-1B bachelor's degree requirement, the EB-3 green card path is difficult, and employer sponsorship willingness is low.
+
+**Q: What education is needed to become an auto glass installer?**
+A: Usually requires only a high school diploma, then learn skills through on-the-job training or apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 非常低（½☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Automotive Glass Installers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for automotive glass installers?**
-答：Entry-level workers earn about $28K-$35K annually, while experienced workers can reach $48K-$60K, but salary growth is limited.
-
-**问：Is automotive glass installer suitable for skilled migration to the US?**
-答：No. The occupation typically does not meet H-1B degree requirements, EB-3 green card is difficult, and employer sponsorship is rare.
-
-**问：What education is needed to become an automotive glass installer?**
-答：Usually only a high school diploma is required, followed by on-the-job training or apprenticeship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

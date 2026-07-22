@@ -1,59 +1,95 @@
-# Computer and Information Research Scientists（Computer and Information Research Scientists）职业分析 · 美国
+# Computer and Information Research Scientists — career analysis · United States
 
-**职业代码：15-1221 – Computer and Information Research Scientists。**
+**Occupation code: 15-1221 (SOC)**
 
-Conduct research into fundamental computer and information science as theorists, designers, or inventors, developing solutions to problems in computer hardware and software.
+As a theorist, designer, or inventor, research computer and information science fundamentals, develop hardware and software solutions, and drive innovation in frontier fields such as AI and cybersecurity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$160,000（公立大学年均约1万-2.5万美元，私立约3万-6万美元） |
-| 硕士学位 | 2年 | $30,000~$120,000（公立大学年均约1.5万-3万美元，私立约3万-6万美元） |
-| 博士学位 | 5年 | —（多数博士项目提供全额奖学金，自费则年均约2万-5万美元） |
+| Bachelor's degree | 4 years | $40,000~$160,000 (Public universities average approximately USD 10,000-25,000 per year, private approximately USD 30,000-60,000.) |
+| Master's degree | 2 years | $30,000~$120,000 (Public universities: approximately $15,000–$30,000 per year; private: approximately $30,000–$60,000 per year.) |
+| Doctoral degree (PhD) | 5 years | $0~$100,000 (Most PhD programs offer full scholarships; self-funded average about 20,000-50,000 USD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域博士 | 认证大学 | 可选 | 许多研究职位要求博士学位 |
-| 相关行业认证 | 如AWS/Azure/GCP | 可选 | 云计算认证可增强竞争力 |
+| PhD in computer science or related field | Accredited university | Optional | Many research positions require a doctoral degree. |
+| Relevant industry certifications | e.g., AWS/Azure/GCP | Optional | Cloud certifications can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 33,600。美国劳工统计局预计2023-2033年该职业就业增长约23%，远高于所有职业平均水平，受人工智能、大数据和网络安全需求驱动。
+**Job demand: very high (★★★★½).** National workforce approx. 33,600. The U.S. Bureau of Labor Statistics projects about 23% employment growth for this occupation from 2023-2033, much faster than the average for all occupations, driven by demand for AI, big data, and cybersecurity.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $90,000~$130,000 | 刚毕业博士或硕士+经验 |
-| 中级（3-7年） | $130,000~$180,000 | 有项目经验的研究员 |
-| 高级（7年以上） | $170,000~$250,000 | 首席科学家或研究主管 |
+| Median salary | $140,300 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $90,000~$130,000 | Newly graduated PhD or Master + experience |
+| Mid-level (3–7 years) | $130,000~$180,000 | Researchers with project experience |
+| Senior (7+ years) | $170,000~$250,000 | Chief Scientist or Research Director |
+| average salary | $153,930 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★½）。** 通常从研究助理或初级研究员起步，可晋升为高级研究员、首席科学家或研究主管，部分转向学术领域成为教授或进入企业研发管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
+
+Typically start as research assistant or junior researcher, can advance to senior researcher, principal scientist, or research director; some transition to academia as professors or into corporate R&D management.
+
+**Tasks most exposed to AI:**
+
+- Automated project progress tracking and status report generation
+- AI-assisted code review and automated test case generation
+- standardized IT operations tasks (e.g., server monitoring, log analysis)
+- Automatically generate technical documentation and user manuals
+- Data-Driven Decision Support Reports (e.g., Cost Analysis, Resource Optimization Recommendations)
+
+**Where AI augments the role:**
+
+- Using AI to predict project risks and adjust resource allocation in advance
+- Improving team communication and problem-solving efficiency through AI chatbots
+- Use AI tools for technology selection evaluation and architecture comparison
+- Automated budget tracking and compliance checks, allowing managers to focus on strategic decisions
+- AI-driven market trend analysis to assist IT strategic planning
+
+**Human moat:**
+
+- High-level strategic decision-making and vision setting
+- Cross-departmental interest coordination and conflict resolution
+- Critical judgment and accountability for AI outputs
+- Team culture building and talent development
+- Creative solutions to complex systemic problems
+
+**Skills to build:**
+
+- AI project management tools (e.g., Jira+AI plugins, Asana smart features)
+- Basic data analysis and visualization (Python/Power BI)
+- Machine learning workflow understanding (MLOps basics)
+- AI ethics and compliance knowledge
+- Practices of Agile and DevOps combined with AI
+- Communication and change management skills
+
+**Key growth areas:**
 
 - Artificial Intelligence
 - Machine Learning
@@ -62,68 +98,67 @@ Conduct research into fundamental computer and information science as theorists,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见的非移民工作签证，需雇主担保，配额有限，每年4月抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 针对高学历或杰出能力者，需PERM劳工证或国家利益豁免(NIW) |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在科学领域具有杰出能力的研究人员，无需抽签 |
+| Subclass H-1B (H-1B Specialty Occupations) | The most common non-immigrant work visa, requires employer sponsorship, limited quota, lottery in April each year |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For highly educated or outstanding individuals, requires PERM labor certification or National Interest Waiver (NIW) |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to researchers with outstanding abilities in scientific fields; no lottery required |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer and Information Research Scientists？**
-- 对计算机科学基础研究有浓厚兴趣，乐于解决复杂问题
-- 具备较强的数学和编程能力，喜欢创新与实验
-- 追求高学历和学术/工业界研究岗位
-
-**谁不适合学Computer and Information Research Scientists？**
-- 偏好应用开发而非理论研究
-- 不愿投入多年攻读博士学位
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in basic computer science research, enjoys solving complex problems
+- Strong math and programming skills, enjoy innovation and experimentation
+- Pursuing advanced degrees and research positions in academia/industry
+
+**Who is not suited**
+- Prefer application development over theoretical research
+- Unwilling to invest years pursuing a PhD
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Computer and Information Research Scientists?**
+A: According to BLS data, the median annual salary for this occupation in 2023 was about $145,000, but top scientists at leading tech companies and research institutions can exceed $200,000.
+
+**Q: How can overseas researchers immigrate to the U.S.?**
+A: Common pathways include H-1B work visa (requires employer sponsorship, lottery) and EB-2 green card (can apply for National Interest Waiver, no employer sponsorship needed). O-1 visa is for top researchers.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically requires a master's or doctoral degree in computer science or a related field; PhD preferred by research institutions. A few positions accept a bachelor's degree with extensive experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Computer and Information Research Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for computer and information research scientists?**
-答：According to BLS, the median annual wage was about $145,000 in 2023, but senior scientists at top tech companies and research institutes can earn over $200,000.
-
-**问：How can overseas researchers immigrate to the US?**
-答：Common paths include H-1B visa (employer-sponsored, lottery) and EB-2 green card (National Interest Waiver available). O-1 visa for extraordinary ability researchers.
-
-**问：What education is required for this occupation?**
-答：Typically a master's or PhD in computer science or related field; PhD is preferred for research positions. Bachelor's with significant experience may suffice for some roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

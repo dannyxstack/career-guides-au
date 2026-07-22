@@ -1,60 +1,95 @@
-# Signwriters, Decorative Painters, Engravers and Etchers（Signwriters, Decorative Painters, Engravers and Etchers）职业分析 · IE
+# Signwriters, Decorative Painters, Engravers and Etchers — career analysis · Ireland
 
-**职业代码：7316 – Signwriters, Decorative Painters, Engravers and Etchers。**
+**Occupation code: 7316 (ISCO08)**
 
-In Ireland, this occupation involves signwriting, decorative painting, engraving, and etching, serving advertising, retail, and art sectors.
+In Ireland, this occupation involves sign making, decorative painting, engraving and etching for advertising, retail and art sectors.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（带薪学徒，可能需支付少量材料和考试费） |
-| 职业培训证书 | 1年（全日制） | $2,000~$5,000（如FETAC/QQI证书课程） |
+| Apprenticeship | 4 years | $0~$1,000 (Paid apprenticeship, may require paying minor materials and exam fees) |
+| Vocational training certificate | 1 year (full-time) | $2,000~$5,000 (e.g., FETAC/QQI certificate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家手工艺证书（Signwriting） | SOLAS | 必备 | 完成学徒后获得 |
-| QQI 5级艺术与设计证书 | QQI | 可选 | 非必需但有助于就业 |
+| National Certificate in Signwriting | SOLAS | Required | Obtained after completing apprenticeship |
+| QQI Level 5 Certificate in Art and Design | QQI | Optional | Not required but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 800。爱尔兰对传统手工艺的需求稳定，主要来自小型企业、商店和文化遗产项目。就业增长缓慢，但定制和高端服务有一定市场。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. Demand for traditional crafts in Ireland is stable, mainly from small businesses, shops and cultural heritage projects. Employment growth is slow, but there is a market for custom and high-end services.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$30,000 | 税前年薪 |
-| 中级（4-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (8+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $35,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可从学徒成长为熟练工匠，或创办个人工作室。部分人可转向数字设计与制作，但传统技能仍受重视。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI tools can auto-generate fonts and basic carving, but hand-drawing, fine carving, and custom decorative design still rely on human creativity, leading to polarized job demand.
+
+Practitioners can progress from apprentices to skilled craftsmen, or start their own studios. Some may transition to digital design and manufacturing, but traditional skills remain valued.
+
+**Tasks most exposed to AI:**
+
+- Digital generation and typesetting of standard fonts and logos
+- Engraving and etching of repetitive patterns
+- Template-based design for basic decorative painting.
+- Proofreading and simple typesetting
+- Automatically generate carving paths from photos or sketches
+
+**Where AI augments the role:**
+
+- Use AI design software to quickly generate multiple fonts and layout options to accelerate concept creativity
+- AI-assisted CNC carving machines achieve high-precision complex carving, improving efficiency
+- Optimize decoration painting color matching and composition using AI color analysis tools
+- Use AI customer feedback analysis to precisely adjust design direction
+
+**Human moat:**
+
+- Artistic aesthetic and craftsmanship in hand drawing and fine carving.
+- Creative conceptualisation for custom, non-standard designs
+- The ability to communicate with clients and understand personalized needs
+- Hands-on experience with multi-material decorative techniques (e.g., gold leaf, lacquer painting).
+- In-depth interpretation of cultural symbols and brand stories
+
+**Skills to build:**
+
+- Master AI design tools (e.g., Adobe Illustrator, AI font generators)
+- Learn the operation and programming of CNC engraving machines and laser cutters.
+- Enhance digital modeling and 3D design skills (e.g., Blender, Rhino)
+- Strengthen knowledge of colour theory and materials science
+- Develop project management and client communication skills
+- Learn basic programming (e.g., Python script automation)
+
+**Key growth areas:**
 
 - Custom signage
 - Heritage restoration
@@ -63,65 +98,67 @@ In Ireland, this occupation involves signwriting, decorative painting, engraving
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪至少30,000欧元（2024年标准）。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 该职业一般不在此列，除非有特殊技能。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requiring an annual salary of at least €30,000 (2024 standard). |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is generally not listed unless special skills are present. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Signwriters, Decorative Painters, Engravers and Etchers？**
-- 对传统手工艺有热情的人
-- 有耐心且注重细节的人
-- 希望独立创业的艺术家
+**Who is suited**
+- People passionate about traditional handicrafts
+- Patient and detail-oriented individuals
+- Artists wishing to start their own business
 
-**谁不适合学Signwriters, Decorative Painters, Engravers and Etchers？**
-- 追求高薪和快速晋升的人
-- 不耐重复性精细工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those intolerant of repetitive, meticulous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for signwriters in Ireland?**
+A: Entry-level annual salary approx. €23,000-30,000, senior up to €40,000-50,000, depending on experience and client type.
+
+**Q: Can overseas signwriters migrate to Ireland?**
+A: This occupation is not on the critical skills list and requires a general employment permit for immigration, with a minimum annual salary of 30,000 euros and the employer must pass a labor market test.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Can progress from apprentice to skilled worker, or become a studio supervisor or self-employed. Some transition to digital artwork or heritage restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Signwriters, Decorative Painters, Engravers and Etchers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for signwriters in Ireland?**
-答：Entry-level annual salary ranges from €23,000 to €30,000, while senior roles can reach €40,000 to €50,000, depending on experience and client base.
-
-**问：Can overseas signwriters migrate to Ireland?**
-答：This occupation is not on the Critical Skills list; migration requires a General Employment Permit with a minimum salary of €30,000 and a labor market test.
-
-**问：Is there career progression in this occupation?**
-答：Progression from apprentice to skilled craftsman, studio supervisor, or self-employed. Some transition to digital art or heritage restoration.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

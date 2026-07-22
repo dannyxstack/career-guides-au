@@ -1,59 +1,95 @@
-# Mechanical Engineer（Mechanical Engineer）职业分析 · ES
+# Mechanical Engineer — career analysis · Spain
 
-**职业代码：2433 – Mechanical Engineer。**
+**Occupation code: 2433 (CNO)**
 
-Mechanical engineers design, analyze, manufacture, and maintain mechanical systems and thermal devices, covering automotive, aerospace, energy, and manufacturing sectors. In Spain, it is a regulated profession requiring an accredited degree and registration with the professional association (colegio profesional).
+Mechanical engineers are responsible for designing, analyzing, manufacturing, and maintaining mechanical systems and thermal equipment, covering fields such as automotive, aviation, energy, and manufacturing. In Spain, this profession is a regulated engineering profession that requires completing an officially recognized academic qualification and registering through the Colegio Profesional.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado en Ingeniería Mecánica） | 4年 | $1,000~$7,000（公立大学每年约 1000-2000 欧元，私立大学约 6000-12000 欧元。） |
-| 硕士（Máster en Ingeniería Industrial 或相关） | 1-2年 | $1,500~$12,000（公立大学约 1500-3000 欧元/年，私立大学约 8000-15000 欧元。） |
+| Family (Grado en Ingeniería Mecánica) | 4 years | $1,000~$7,000 (Public universities: approx. €1,000-2,000 per year; private universities: approx. €6,000-12,000 per year.) |
+| Master's (Máster en Ingeniería Industrial or related) | 1-2 years | $1,500~$12,000 (Public universities cost about 1,500-3,000 euros per year, while private universities about 8,000-15,000 euros.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 官方认可的机械工程学士学位（Grado） | 西班牙教育部认可大学 | 必备 | 必须为官方学位（Título Oficial），用于注册行业协会。 |
-| 注册专业工程师（Ingeniero Técnico / Ingeniero） | 相应 Colegio Profesional de Ingenieros | 必备 | 需完成学位并满足工作经验要求，注册后方可签署项目文件。 |
-| 学历认证（Homologación 或 Convalidación） | 西班牙教育部（MEFP） | 可选 | 非欧盟学历需进行学历认证，过程耗时 6-12 个月。 |
+| Officially recognized Bachelor of Mechanical Engineering (Grado) | The Spanish Ministry of Education accredits the university | Required | It must be an official degree (Título Oficial) for registration with industry associations. |
+| Registered Professional Engineer (Ingeniero Técnico / Ingeniero) | Correspondingly, Colegio Profesional de Ingenieros | Required | You must complete your degree and meet the work experience requirements before signing the project documents after registration. |
+| Academic Credentials (Homologación or Convalidación) | Spanish Ministry of Education (MEFP) | Optional | Non-EU degrees require degree verification, which takes 6-12 months. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。西班牙机械工程师就业前景稳定，尤其在可再生能源、汽车制造（如 SEAT 供应链）和工业自动化领域有持续需求。根据 SEPE，该职业属于中等需求，受经济周期影响，但数字化转型和绿色能源转型带来新机会。马德里、加泰罗尼亚和巴斯克地区是主要就业区域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. Employment prospects for mechanical engineers in Spain are stable, with sustained demand especially in renewable energy, automotive manufacturing (such as the SEAT supply chain), and industrial automation. According to SEPE, this profession is in medium demand, affected by economic cycles, but new opportunities are brought by digital transformation and the green energy transition. Madrid, Catalonia, and the Basque region are the main employment areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 起薪通常在 24,000-28,000 欧元，取决于公司规模和地区。 |
-| 中级（3-7年） | $32,000~$45,000 | 拥有 5 年经验后可达到 35,000-45,000 欧元。 |
-| 高级（7年以上） | $45,000~$65,000 | 高级工程师或项目经理年薪可达 55,000-65,000 欧元。 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Starting salaries typically range from 24,000 to 28,000 euros, depending on company size and region. |
+| Mid-level (3–7 years) | $32,000~$45,000 | With 5 years of experience, the salary can reach 35,000-45,000 euros. |
+| Senior (7+ years) | $45,000~$65,000 | Senior engineers or project managers can earn an annual salary of 55,000-65,000 euros. |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径通常从初级设计工程师或项目工程师起步，逐步晋升为高级工程师、技术经理或项目经理。积累经验后可转向研发（R&D）或咨询领域，也可通过 Máster 深造进入管理岗位或成为独立顾问（autónomo）。注册为 Ingeniero Industrial 有助于提升资质。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
+
+Career development usually starts as a junior design engineer or project engineer, gradually advancing to senior engineer, technical manager, or project manager. After gaining experience, you can move into research and development (R&D) or consulting, or pursue management roles through Máster or become an independent consultant (autónomo). Registering as Ingeniero Industrial helps enhance qualifications.
+
+**Tasks most exposed to AI:**
+
+- Generates standard 3D models and 2D engineering drawings (AI can automatically generate from parameters)
+- Topology optimization prescreening of part structures (AI rapidly iterates hundreds of designs).
+- Review design code compliance (e.g., automatic ASME standard checks)
+- Writing routine technical documentation and BOMs (AI can auto-generate)
+- Basic thermal/flow/structure simulation setup and post-processing (AI automatic parameter tuning)
+
+**Where AI augments the role:**
+
+- AI-assisted generative design explores unconventional structural solutions, sparking innovation
+- AI real-time digital twin predicts fatigue life and maintenance windows
+- AI clustering analysis of historical failure data to accelerate fault diagnosis
+- Quick retrieval of technical literature and standards via AI natural language interface
+- AI automatically generates initial design space for multiphysics coupled optimization.
+
+**Human moat:**
+
+- Systematic physical intuition and multi-constraint coupled decision-making (safety/cost/manufacturing process)
+- Cross-disciplinary needs communication and project risk assessment
+- Human brain association and roundabout solutions to unexpected problems on site
+- Quantitative trade-off of conservatism for uncertainty (e.g., material batch variation).
+- Ethical/environmental responsibility attribution (e.g., legal consequences of mechanical failure)
+
+**Skills to build:**
+
+- Generative design software (e.g., Fusion 360 Generative Design)
+- Digital twin platform (e.g., ANSYS Twin Builder) operation.
+- Python/R script automation for simulation workflows
+- AI/ML basics (regression, clustering for fault prediction).
+- Systematic approach to fault diagnosis and root cause analysis
+- Project management and cross-cultural communication (collaboration with CA engineering teams)
+
+**Key growth areas:**
 
 - Renewable Energy
 - Automation
@@ -62,68 +98,67 @@ Mechanical engineers design, analyze, manufacture, and maintain mechanical syste
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能技术移民，需有 job offer 且年薪达到门槛（约 33,900 欧元），可快速获得工作居留。 |
-| Subclass Altamente cualificad（Highly Qualified Professional Visa (Ley 14/2013)） | 针对高学历或紧缺职业，办理速度快，可携带家属。 |
-| Subclass Cuenta ajena（Work Contract Visa (Employed)） | 标准受雇工作签证，适用于有西班牙企业合同的技术人员，需证明职位不可替代。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled skilled migration, you need a job offer and an annual salary threshold (about 33,900 euros) to quickly obtain work residency. |
+| Subclass Altamente cualificad (Highly Qualified Professional Visa (Ley 14/2013)) | For highly educated or in-demand occupations, the process is fast and family members can be brought along. |
+| Subclass Cuenta ajena (Work Contract Visa (Employed)) | The standard employment work visa is for technical personnel with contracts with Spanish companies, requiring proof that the position is non-substitutive. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineer？**
-- 喜欢解决复杂技术问题，具备扎实的物理和数学基础。
-- 追求稳定职业且愿意接受长期学习和专业认证。
-- 对工业设计、制造过程或能源系统有浓厚兴趣。
-
-**谁不适合学Mechanical Engineer？**
-- 不善于团队协作或与客户沟通的纯技术性格。
-- 希望快速进入职场、不想经历长期学历认证或注册流程的人。
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy solving complex technical problems and have a solid foundation in physics and mathematics.
+- Pursue stable careers and be willing to accept long-term study and professional certifications.
+- Strong interest in industrial design, manufacturing processes, or energy systems.
+
+**Who is not suited**
+- A purely technical personality that is not good at teamwork or customer communication.
+- Those who want to enter the workforce quickly and do not want to go through lengthy academic certification or registration processes.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for mechanical engineers in Spain?**
+A: Beginner is about 24,000-32,000 euros, intermediate is 32,000-45,000 euros, and advanced can reach up to 65,000 euros. Madrid and Barcelona offer higher salaries, but the cost of living is also higher.
+
+**Q: What are the main pathways for overseas mechanical engineers to immigrate to Spain?**
+A: The most effective approach is to apply for the EU Blue Card or High-Skilled Talent Visa after receiving a job offer from a Spanish company. Non-EU qualifications require prior certification (homologación), and registering with an industry association helps with signing company contracts.
+
+**Q: Is it necessary to register with an industry association to work as a mechanical engineer in Spain?**
+A: For signed project documents (such as engineering drawings and safety certifications), the corresponding colegio profesional must be registered. Registration is not mandatory, but it will affect career development and the scope of practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a mechanical engineer in Spain?**
-答：Entry-level around €24,000-32,000, mid-level €32,000-45,000, and senior up to €65,000 gross per year. Salaries are higher in Madrid and Barcelona but with higher living costs.
-
-**问：What are the main migration routes for foreign mechanical engineers to Spain?**
-答：The most effective is obtaining a job offer from a Spanish company and applying for an EU Blue Card or Highly Qualified Professional visa. Non-EU degrees require homologación, and registration with the professional association facilitates employment.
-
-**问：Is it mandatory to register with a professional association to work as a mechanical engineer in Spain?**
-答：For signing off on project documents (e.g., engineering drawings, safety certifications), registration with the relevant colegio profesional is mandatory. It is not required for all roles but affects career progression and scope of practice.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

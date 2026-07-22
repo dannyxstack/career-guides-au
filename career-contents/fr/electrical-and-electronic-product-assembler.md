@@ -1,60 +1,96 @@
-# Electrical and Electronic Product Assembler（Electrical and Electronic Product Assembler）职业分析 · FR
+# Electrical and Electronic Product Assembler — career analysis · France
 
-**职业代码：H2604 – Electrical and Electronic Product Assembler。**
+**Occupation code: H2604 (ROME)**
 
-Assembles, solders, tests, and inspects electrical and electronic components on production lines, following technical drawings and safety standards to ensure product quality.
+Responsible for the assembly, welding, testing, and inspection of electrical and electronic components, commonly found on manufacturing production lines. Technical drawings and safety standards must be followed to ensure product quality.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年（CAP） | —（公立职业高中免费，材料费约200-500欧元/年） |
-| Bac Pro（职业高中文凭） | 3年（Bac Pro） | —（公立教育免费，部分学徒制有补贴） |
+| CAP (Professional Competency Certificate) | 2 years (CAP) | $0~$1,500 (Public vocational high schools are free, with material fees of about 200-500 euros per year) |
+| Bac Pro (Vocational High School Diploma) | 3 years (Bac Pro) | $0~$2,000 (Public education is free, with some apprenticeships receiving subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Préparation et réalisation d'ouvrages électriques | 法国教育部 | 可选 | 基础组装资质，非强制但为入职门槛 |
-| CACES（驾驶与安全操作证书） | CARSAT / INRS | 可选 | 如需操作叉车或升降设备，需此类证书 |
+| CAP Préparation et réalisation d'ouvrages électriques | French Ministry of Education | Optional | Basic assembly qualifications, not mandatory but a threshold for entry |
+| CACES (Certificate of Driving and Safety Operation) | CARSAT / INRS | Optional | If you need to operate forklifts or lifting equipment, such certificates are required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。法国电子制造业稳定，受工业自动化和绿色能源转型驱动，岗位需求平稳。部分低技能组装可能外包，但高精度装配岗位仍存缺口。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. France's electronics manufacturing sector is stable, driven by industrial automation and green energy transition, with stable job demand. Some low-skilled assembly may be outsourced, but there is still a gap in high-precision assembly positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（4-8年） | $26,000~$32,000 | 税前年薪，含加班费 |
-| 高级（9年以上） | $32,000~$38,000 | 税前年薪，含团队管理津贴 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4–8 years) | $26,000~$32,000 | Annual salary before tax, including overtime pay |
+| Senior (9+ years) | $32,000~$38,000 | Pre-tax annual salary, including team management allowance |
+| average salary | $27,252 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为生产线主管、质量控制技术员或转向更专业的电子维修、自动化设备调试岗位。通过继续教育或学徒可提升至技术员级别。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Electrical and electronic product assemblers face high automation risks, as AI and robotics will replace repetitive assembly, welding, and testing tasks, resulting in fewer positions, lower entry barriers, and shrinking demand.
+
+You can be promoted to production line supervisor, quality control technician, or move to more specialized positions in electronic maintenance or automation equipment commissioning. Further education or apprenticeships can be promoted to technician level.
+
+**Tasks most exposed to AI:**
+
+- Manual soldering and insertion of repetitive electronic components
+- PCB appearance inspection and defect identification based on vision systems
+- Standardized assembly and crimping of electrical wiring harnesses
+- Simple functional tests (such as on/off, voltage) and data recording
+- Generate daily production reports and inventory materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted vision systems for complex defect inspection
+- Get real-time assembly guidance and remote expert support through AR glasses
+- Operate intelligent collaborative robots to complete precise assembly
+- Optimize production scheduling and quality forecasting using machine learning
+- Maintenance and commissioning of automated assembly equipment
+
+**Human moat:**
+
+- Handling assembly processes for non-standard, flexible, or small-batch products
+- Cross-station coordination and root cause analysis of quality abnormalities
+- Rapid response and manual adjustments to customers' customized needs
+- Emergency repairs and preventive maintenance in case of equipment failure
+- Training new employees and continuous improvement of automation systems
+
+**Skills to build:**
+
+- Industrial robot programming and collaborative robot operation
+- Python or PLC basics are used for data acquisition and device control
+- Debugging and maintenance of AI visual inspection systems
+- Lean production and Six Sigma methodology
+- Reading technical documents and understanding English manuals
+- Troubleshooting and repair of basic electronic circuits
+
+**Key growth areas:**
 
 - Electronics manufacturing
 - Industrial automation
@@ -63,62 +99,64 @@ Assembles, solders, tests, and inspects electrical and electronic components on 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主担保，证明岗位无法招聘欧盟公民。年薪需达法定最低工资1.5倍以上通常更具优势。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，需年薪达SMIC1.5倍（约28,000欧元）。需提供工作合同和资质证明。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | A French employer sponsor is required, proving that the position cannot recruit EU citizens. An annual salary at least 1.5 times the statutory minimum wage is usually advantageous. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, requiring an annual salary of 1.5 times SMIC (about 28,000 euros). A work contract and qualification certificates must be provided. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Electrical and Electronic Product Assembler？**
-- 动手能力强，喜欢细致重复工作
-- 愿意从事制造业生产环境
-- 希望低学历要求快速就业的人
+**Who is suited**
+- Strong hands-on ability and enjoys detailed and repetitive work
+- Willing to work in manufacturing production environments
+- Those seeking quick employment with low education requirements
 
-**谁不适合学Electrical and Electronic Product Assembler？**
-- 不喜欢重复性流水线作业
-- 追求高薪或快速晋升者
+**Who is not suited**
+- Dislikes repetitive assembly line operations
+- Those seeking high salaries or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for electrical assemblers in France?**
+A: Entry-level salaries are about 22,000-26,000 euros before tax, with experience reaching over 32,000 euros, and senior or supervisor salaries up to 38,000 euros.
+
+**Q: How can foreigners obtain a work visa for French electrical assemblers?**
+A: A work contract from a French employer is required to apply for the Salarié visa. If your annual salary exceeds 28,000 euros, you can apply for Passeport Talent. This position is not a shortage occupation, and immigration is quite difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Electrical and Electronic Product Assembler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for electrical assemblers in France?**
-答：Entry-level: €22,000-€26,000 gross annually; experienced: up to €32,000; senior/supervisor: up to €38,000.
-
-**问：How can a foreigner obtain a work visa as an electrical assembler in France?**
-答：You need a job offer from a French employer. Apply for a Salarié visa, or a Passeport Talent if salary exceeds €28,000. This occupation is not in shortage, making immigration challenging.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

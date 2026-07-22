@@ -1,61 +1,94 @@
-# Horticulturist (General)（Horticulturist (General)）职业分析 · DE
+# Horticulturist (General) — career analysis · Germany
 
-**职业代码：1210 – Horticulturist (General)。**
+**Occupation code: 1210 (KldB)**
 
-Horticulturists cultivate and maintain plants, design landscapes, and manage green spaces in areas such as vegetables, flowers, fruit trees, and nurseries, playing a key role in German agriculture and urban greening.
+Horticulturists engage in plant cultivation, maintenance, landscape design, and green space management, covering vegetables, flowers, fruit trees, and nurseries, making it an important profession in German agriculture and urban greening.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，部分学校收取少量材料费） |
-| 园艺大师（Meister） | 1-2年（在职） | $3,000~$10,000（通过IHK考试，费用因地区而异） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowances are provided during training; some schools charge a small material fee) |
+| Horticultural Master (Meister) | 1-2 years (on-the-job) | $3,000~$10,000 (Passing the IHK exam, fees vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺师职业资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 园艺大师证书 | IHK | 可选 | 可自主创业或担任管理职位 |
-| 学历认证（Anerkennung） | 德国认证机构（如BA） | 必备 | 海外学历需经认证，可能需补修课程 |
+| Horticulturist qualification certificate. | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Credential recognition (Anerkennung) | German certification body (e.g., BA) | Required | Overseas qualifications need to be accredited, and supplementary courses may be required |
+| Horticulture Master Certificate | IHK | Optional | Can start a business or hold a management position |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 230,000。德国园艺业面临劳动力短缺，特别是专业园艺师。城市绿化、有机农业和可再生能源原料种植需求增长，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 230,000. Germany's horticulture industry faces labor shortages, especially for professional gardeners. Demand is growing for urban greening, organic agriculture, and renewable raw material cultivation, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，因地区和雇主而异 |
-| 中级（3-7年） | $34,000~$42,000 | 包括晋升为领班或技术员 |
-| 高级（7年以上/大师） | $42,000~$55,000 | 园艺大师或管理层薪资 |
+| Median salary | $37,260 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, varies by region and employer |
+| Mid-level (3–7 years) | $34,000~$42,000 | Includes promotion to team leader or technician |
+| Advanced (7+ years / Expert) | $42,000~$55,000 | Horticulture master or management salary |
+| average salary | $39,144 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可通过继续教育成为园艺大师（Gärtnermeister），进而担任管理职位或自主创业。也可向景观建筑、农业技术等方向转型。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on gardeners is mixed: automation will replace basic tasks (e.g., planting, irrigation), but AI enhances creativity and planning ability; the moat lies in on-site judgment, client communication, and biological knowledge.
+
+Practitioners can become master horticulturists (Gärtnermeister) through continuing education, then take on management roles or start their own business. They can also transition into landscape architecture, agricultural technology, etc.
+
+**Tasks most exposed to AI:**
+
+- Automated irrigation and fertilization systems replace manual labor
+- drone inspections and AI image recognition replacing manual pest monitoring
+- Smart greenhouse environmental control replaces manual adjustment
+- AI-generated basic planting plans replace initial planning
+
+**Where AI augments the role:**
+
+- AI-assisted plant disease diagnosis and control recommendations
+- Using generative design tools to quickly create landscape plans
+- Optimizing plant growth conditions based on data monitoring
+- AI provides personalised plant care knowledge during customer interactions
+
+**Human moat:**
+
+- On-site ability to judge subtle soil and plant conditions
+- Understanding Client Needs and Communicating Creative Solutions
+- Comprehensive knowledge of biological ecosystems
+- Emergency response to sudden natural events (e.g., pest outbreaks, extreme weather)
+
+**Skills to build:**
+
+- AI-assisted design software (e.g., Land F/X, generative tools)
+- Basic Programming (Python/Data Analysis)
+- Machine learning applications in agriculture
+- Precision agriculture technologies (sensors, automation systems)
+- Sustainable development and ecological design
+- Project management and client communication
+
+**Key growth areas:**
 
 - Urban greening
 - Organic farming
@@ -64,66 +97,68 @@ Horticulturists cultivate and maintain plants, design landscapes, and manage gre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 需获得雇主担保，职业资格认证为必须前提 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，可用于寻找园艺相关职位 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Requires employer sponsorship, occupational qualification certification is a prerequisite. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, can be used to find horticulture-related positions |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Horticulturist (General)？**
-- 热爱植物和户外工作的人
-- 愿意接受实践性职业培训的人
-- 希望从事环境友好型职业的人
-
-**谁不适合学Horticulturist (General)？**
-- 不喜体力劳动或长时间户外工作的人
-- 追求高薪职业的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love plants and outdoor work
+- People willing to undergo practical vocational training
+- People who want an environmentally friendly career
+
+**Who is not suited**
+- People who dislike manual labor or prolonged outdoor work
+- People pursuing high-paying careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a gardener?**
+A: Starting salary for German horticulturists is approx. €28,000-34,000/year, intermediate €34,000-42,000, senior or master level up to €55,000. Salary varies by region, experience, and employer.
+
+**Q: How can overseas horticulturists immigrate to Germany?**
+A: Non-EU applicants must first have their qualifications or vocational credentials recognized (Anerkennung), then obtain a work visa under the Skilled Immigration Act. The Opportunity Card (Chancenkarte) can also be used for job seeking.
+
+**Q: What are the career development prospects for a gardener?**
+A: Can advance to management or start a business by obtaining a Master Gardener certificate, or transition to landscape design, agricultural technology, or sustainable horticulture.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Horticulturist (General)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for horticulturists?**
-答：Starting salary is around €28,000-34,000/year, mid-level €34,000-42,000, and senior/meister up to €55,000, varying by region, experience, and employer.
-
-**问：How can foreign horticulturists immigrate to Germany?**
-答：Non-EU applicants need credential recognition (Anerkennung) first, then obtain a work visa via the Skilled Immigration Act. The Opportunity Card (Chancenkarte) can also be used for job seeking.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

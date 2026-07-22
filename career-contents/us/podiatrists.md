@@ -1,60 +1,93 @@
-# Podiatrists（Podiatrists）职业分析 · 美国
+# Podiatrists — career analysis · United States
 
-**职业代码：29-1081 – Podiatrists。**
+**Occupation code: 29-1081 (SOC)**
 
-Diagnose and treat diseases and deformities of the human foot, including surgical, medical, and physical methods.
+Diagnose and treat diseases and deformities of the human foot and ankle, including surgery, medication, and physical therapy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科预科 | 4年 | $50,000~$150,000（需完成生物学等预科课程） |
-| 足病医学博士 | 4年 | $150,000~$250,000（足病医学院学费） |
-| 住院医师培训 | 3年 | —（医院带薪培训） |
+| Undergraduate foundation / Pre-university | 4 years | $50,000~$150,000 (Must complete prerequisite courses such as biology) |
+| Doctor of Podiatric Medicine | 4 years | $150,000~$250,000 (Podiatry school tuition fees) |
+| Residency training | 3 years | $0~$0 (Hospital paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 足病医学博士(DP/DMPM) | 足病医学院 | 必备 | 需从认可的足病医学院毕业 |
-| 州执业执照 | 州医疗委员会 | 必备 | 通过美国足病医学执照考试(APMLE) |
-| 美国足病外科委员会认证 | 美国足病外科委员会 | 可选 | 可选但提升竞争力 |
+| Doctor of Podiatric Medicine (DPM) | Podiatric medical school | Required | Must graduate from an accredited podiatric medical school |
+| State occupational license. | State medical board | Required | Pass the American Podiatric Medical Licensing Exam (APMLE) |
+| American Board of Foot and Ankle Surgery certification | American Board of Podiatric Surgery | Optional | Optional but enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 10,600。美国足病医生需求稳定增长，受老龄化人口和糖尿病足病增加驱动，预计2023-2033年就业增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 10,600. Demand for podiatrists in the US is steadily growing, driven by aging population and increasing diabetic foot conditions; employment projected to grow about 10% from 2023 to 2033
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$100,000 | 住院医师后就业 |
-| 中级（4-9年） | $100,000~$150,000 | 经验丰富 |
-| 高级（10年以上） | $150,000~$200,000 | 资深或私人执业 |
+| Median salary | $160,300 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$100,000 | Employment after residency |
+| Intermediate (4-9 years) | $100,000~$150,000 | Experienced |
+| Senior (10+ years) | $150,000~$200,000 | Senior or private practice |
+| average salary | $175,480 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从住院医师培训后可进入私人诊所、医院或足病外科中心，可晋升为资深医生、科室主任或开设诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Podiatrists' core diagnostic and surgical responsibilities are legally protected and hard to replace by AI; however, tasks like image analysis, referral reports, and medical record sorting are being enhanced by AI tools, putting entry-level positions under automation pressure.
+
+After residency training, can enter private clinics, hospitals, or podiatric surgical centers, with advancement to senior physician, department head, or clinic owner.
+
+**Tasks most exposed to AI:**
+
+- Preliminary reading and reporting of foot X-ray/ultrasound images
+- Electronic medical record entry and structured organization of medical history
+- Automated generation and scoring of routine foot health assessment questionnaires
+- Patient follow-up appointment reminders and automatic archiving of follow-up results
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems quickly identify abnormalities like foot ulcers and fractures, improving diagnostic accuracy
+- Customize orthotic insole solutions using 3D foot scanning and AI gait analysis
+- Optimizing diabetic foot care plans with AI-analyzed remote patient monitoring data
+- Automated referral letter generation including medical summaries and key clinical findings
+
+**Human moat:**
+
+- Intraoperative Judgment and Manual Operations in Complex Foot Surgery
+- Direct patient communication for history taking, condition explanation, and trust building
+- Handling cases of rare diseases, complications with insufficient AI training data
+- Comprehensive clinical judgment of patient overall health (e.g., diabetes, circulatory system)
+
+**Skills to build:**
+
+- Operate AI image analysis tools (e.g., foot X-ray/ultrasound AI software)
+- Telemedicine platforms and wearable device data interpretation
+- Data literacy - ability to evaluate the reliability of AI diagnostic recommendations
+- Using digital health records and AI-assisted clinical decision systems
+- Orthosis 3D modelling and printing technology
+- AI monitoring tools for chronic wound management
+
+**Key growth areas:**
 
 - Aging population
 - Diabetes prevalence
@@ -63,68 +96,67 @@ Diagnose and treat diseases and deformities of the human foot, including surgica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 常见工作签证，需学士以上学位，每年配额竞争 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 高等学位或特殊能力职业移民绿卡，需PERM劳工证 |
-| Subclass EB-3（EB-3 Employment-Based Green Card） | 专业技术移民绿卡，需PERM劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Common work visa, requires bachelor's degree or higher, annual quota competition. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Green card for advanced degree or special ability occupations, requires PERM labor certification |
+| Subclass EB-3 (EB-3 Employment-Based Green Card) | Skilled immigration green card, requires PERM labor certification |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Podiatrists？**
-- 对足部疾病有浓厚兴趣
-- 具备手术操作能力
-- 希望稳定高收入医疗职业
-
-**谁不适合学Podiatrists？**
-- 对生物医学不感兴趣
-- 无法承受多年高强度教育
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in foot diseases
+- Has surgical operation skills
+- Desires a stable, high-income medical career
+
+**Who is not suited**
+- Not interested in biomedical fields
+- Cannot withstand years of intensive education
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for podiatrists?**
+A: Entry-level annual salary approximately 70,000-100,000 USD, rising to 150,000-200,000 USD with experience.
+
+**Q: Is it difficult for podiatrists to apply for a US green card?**
+A: Feasible through H-1B work visa and EB-2/EB-3 employment-based green card, but requires employer support and complex PERM process.
+
+**Q: How many years of education are required to become a podiatrist?**
+A: 4-year bachelor's + 4-year podiatric medical school + 3-year residency, approximately 11 years total.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Podiatrists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for podiatrists?**
-答：Entry-level podiatrists earn $70,000-$100,000 annually; experienced can earn $150,000-$200,000.
-
-**问：Is it difficult for podiatrists to get a US green card?**
-答：It's feasible via H-1B visa and EB-2/EB-3 green card, but requires employer sponsorship and complex PERM process.
-
-**问：How many years of education are required to become a podiatrist?**
-答：About 11 years: 4-year bachelor's + 4-year podiatric medical school + 3-year residency.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

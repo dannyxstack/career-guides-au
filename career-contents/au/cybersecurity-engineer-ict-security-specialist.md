@@ -1,70 +1,99 @@
-# 网络安全工程师（ICT Security Specialist）职业分析 · 澳大利亚
+# Cybersecurity Engineer / ICT Security Specialist — career analysis · Australia
 
-**职业代码：262112 – ICT Security Specialist。**
+**Occupation code: 262112 (ANZSCO)**
 
-网络安全工程师保护政府、企业和关键基础设施免受网络攻击，负责渗透测试、安全架构、事件响应和合规管理。AUKUS国防协议和澳洲关键基础设施保护法（SOCI）大幅推高需求，是IT类薪资增速最快的职业。
+Cybersecurity engineers protect government, businesses and critical infrastructure from cyber attacks, covering penetration testing, security architecture, incident response and compliance management. The AUKUS defence agreement and Australia's Security of Critical Infrastructure Act (SOCI) have significantly increased demand, making this the fastest-growing IT occupation in terms of salary growth.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Cybersecurity / IT Security（3~4年） | 3~4年（全日制） | $28,000~$160,000（或 Bachelor of Computer Science + 安全专业方向） |
-| 安全认证（CISSP / CISM / CEH / OSCP） | 3~12个月备考 | $2,000~$8,000（CISSP 约 $699 考试费；OSCP 约 $1,499；是高级岗位的重要敲门砖） |
-| 政府安全许可（Security Clearance NV1/NV2） | 3~18个月申请 | —（雇主承担费用；持有安全许可薪资溢价 $20k~$40k+） |
+| Bachelor of Cybersecurity / IT Security (3–4 years) | 3–4 years (full-time) | $28,000~$160,000 (Or Bachelor of Computer Science + cybersecurity specialisation) |
+| Security certifications (CISSP / CISM / CEH / OSCP) | 3–12 months of exam preparation | $2,000~$8,000 (CISSP exam fee approximately $699; OSCP approximately $1,499 — both are important credentials for senior-level roles) |
+| Government Security Clearance (NV1/NV2) | 3–18 months application | $0~$0 (Costs covered by employer; security clearance holders earn a salary premium of $20k–$40k+) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Cybersecurity / Computer Science | 认可大学 | 可选 | 行业通用基础学历 |
-| CISSP（Certified Information Systems Security Professional） | ISC² | 可选 | 行业最高认可认证，要求5年从业经验，持有者薪资溢价显著 |
-| OSCP（Offensive Security Certified Professional） | Offensive Security | 可选 | 渗透测试黄金标准认证，是红队/渗透岗的强烈推荐 |
-| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
-| Australian Government Security Clearance（NV1/NV2） | AGSVA | 可选 | 政府和国防网络安全岗必须，持有者供不应求 |
+| Bachelor of Cybersecurity / Computer Science | Recognised university | Optional | Foundational qualification accepted across the industry |
+| CISSP（Certified Information Systems Security Professional） | ISC² | Optional | The highest recognised certification in the industry, requiring 5 years of professional experience; holders command a significant salary premium |
+| OSCP（Offensive Security Certified Professional） | Offensive Security | Optional | The gold-standard certification for penetration testing, strongly recommended for red team/penetration testing roles |
+| ACS Skills Assessment | Australian Computer Society | Optional | Required for skilled migration via 189/190 visa |
+| Australian Government Security Clearance（NV1/NV2） | AGSVA | Optional | Mandatory for government and defence cybersecurity roles; supply of qualified holders falls well short of demand |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 70,900。ABS 数据显示网络安全从业人数同比增长 4.8%（年增3,300人），至2025年已达70,900人，增速是全行业平均的两倍。2030年预测缺口达17,000人。
+**Job demand: very high (★★★★★).** National workforce approx. 70,900. ABS data shows the number of cybersecurity professionals grew 4.8% year-on-year (an increase of 3,300 per year), reaching 70,900 by 2025 — twice the growth rate of the overall industry. The projected shortfall by 2030 is 17,000.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,800~3,500 个 | 全国，含SOC分析师、渗透测试、安全架构和政府岗 |
-| Indeed | 1,200~2,500 个 | 含合同工和安全顾问 |
-| LinkedIn | 2,000~4,000 个 | 企业和政府直招，猎头活跃度极高 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级安全分析师（0~3年） | $80,000~$100,000 | SOC Tier 1/2，SIEM操作，ABS数据约 $119k年化（含各级别） |
-| 中级网络安全工程师（3~8年） | $110,000~$145,000 | SEEK 平均 $120k；行业市场 $127k~$148k（Terratern 2026） |
-| 高级/渗透测试工程师（OSCP+） | $145,000~$195,000 | 红队/渗透测试专家，ERI 平均 $176,485（顶端） |
-| 安全架构师 / CISO（10年+） | $190,000~$300,000 | 企业级CISO和政府安全架构薪资可超 $250k |
-| 政府/国防（持安全许可） | $140,000~$250,000 | NV1/NV2安全许可溢价 $20k~$40k，Canberra岗位密集 |
+| Median salary | $127,972 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Security Analyst (0–3 years) | $80,000~$100,000 | SOC Tier 1/2, SIEM operations; ABS data indicates approximately $119k annualised (across all levels) |
+| Mid-level cybersecurity engineer (3–8 years) | $110,000~$145,000 | SEEK average $120k; industry market $127k–$148k (Terratern 2026) |
+| Senior / Penetration Testing Engineer (OSCP+) | $145,000~$195,000 | Red team / penetration testing specialist, ERI average $176,485 (top end) |
+| Security Architect / CISO (10+ years) | $190,000~$300,000 | Enterprise-level CISO and government security architect salaries can exceed $250k |
+| Government / Defence (with security clearance) | $140,000~$250,000 | NV1/NV2 security clearance premium of $20k–$40k; high concentration of roles in Canberra |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧增加。AI安全（防御LLM攻击/提示注入）是2025-2030年薪资溢价最高的新兴方向。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
+
+The AUKUS defence agreement (AU$36.8 billion nuclear submarine programme) has sharply increased demand for security-cleared professionals. AI security (defending against LLM attacks/prompt injection) is the highest-premium emerging specialisation for 2025–2030.
+
+**Tasks most exposed to AI:**
+
+- Automated penetration testing tools perform routine vulnerability scanning and report generation
+- AI-driven log analysis and anomaly detection replacing junior SOC monitoring
+- Automated compliance checks (e.g., SOC Act baseline) replace manual audits
+- Automated deployment of security configuration baselines (e.g., firewall rules, IAM policies)
+
+**Where AI augments the role:**
+
+- AI-assisted threat intelligence aggregation and attack pattern prediction
+- Automatically generate incident response playbooks (SOAR integrated with LLM)
+- AI-driven phishing email analysis and social engineering defense simulations
+- Accelerated secure code review (AI detects logic vulnerabilities and zero-days)
+- AI for attack tracing and correlation of digital forensics fragments
+
+**Human moat:**
+
+- Enterprise-level security architecture design and risk decisions (cost-security trade-offs)
+- Original discovery of zero-day vulnerabilities/APT attacks (not pattern matching)
+- Legal compliance (SOCI, Privacy Act) and business context interpretation
+- Human intervention in crisis moments (e.g., offline decisions, negotiations)
+- Deep understanding of multi-domain systems (OT/IT convergence security)
+
+**Skills to build:**
+
+- AI security (adversarial machine learning, model validation)
+- AI Prompt Engineering (for threat hunting playbooks)
+- Cloud Security (AWS/Azure Security Architecture and IaC)
+- OT security (industrial control systems and AUKUS defense requirements)
+- Incident response automation (SOAR platform and playbook development)
+- Security compliance automation (e.g., OpenSCAP, Rego policies)
+
+**Key growth areas:**
 
 - Cloud Security & Zero Trust
 - Government & Defence Cyber
@@ -74,92 +103,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，网络安全为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，ACT（堪培拉政府岗密集）优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区IT，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; cybersecurity is a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, with priority given to ACT (Canberra government positions are concentrated there) |
+| Subclass 491 (Skilled Work Regional) | Remote area IT, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学网络安全工程师？**
-- 有网络安全/IT安全工作经验（2年以上）
-- 有CISSP/CEH/OSCP等安全认证，或正在备考
-- 英语能力达到 IELTS 6.5+（政府安全岗有沟通要求）
-- 愿意在堪培拉或其他政府机构所在地工作（国防岗）
-- 目标是政府安全许可岗（薪资溢价最高路径）
-
-**谁不适合学网络安全工程师？**
-- 无任何安全从业背景，仅有普通IT经验
-- 英语能力极弱，无法通过政府背景调查
-- 无法适应随叫随到的事件响应工作节奏
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has cybersecurity/IT security work experience (2+ years)
+- Hold security certifications such as CISSP/CEH/OSCP, or currently preparing for them
+- English proficiency of IELTS 6.5 or above (government security roles have communication requirements)
+- Willingness to work in Canberra or other government locations (defence roles)
+- Target: government security-cleared roles (highest salary premium pathway)
+
+**Who is not suited**
+- No security industry background whatsoever, only general IT experience
+- Very poor English ability, unable to pass government background check
+- Unable to adapt to the on-call pace of incident response work
+
+---
+
+## 8. FAQ
+
+**Q: How much do cybersecurity engineers earn in Australia?**
+A: Market average salary $127,000–$148,000; mid-level engineers approx. $110k–$145k; penetration testers with OSCP approx. $145k–$195k; CISOs can exceed $250k. Government/defence security clearance roles attract a premium of $20k–$40k.
+
+**Q: Is it easy to find work as a cybersecurity engineer in Australia?**
+A: Extremely easy. A projected shortfall of 17,000 by 2030, licensed engineers are proactively headhunted, and AUKUS defence roles are recruiting security professionals in large numbers.
+
+**Q: Is Chinese cybersecurity experience recognised in Australia?**
+A: Skills assessment via ACS (qualification review); internationally recognised certifications (CISSP/CEH/OSCP) are fully accepted in Australia. Government security roles require Australian citizenship to obtain security clearance; non-citizens can only work in certain private sector positions.
+
+**Q: Will cybersecurity engineers be replaced by AI?**
+A: Risk is low. AI security tools assist with threat detection, but the creativity of offensive and defensive security (red teaming), complex incident response decision-making and security architecture design are core values that AI cannot replace. AI actually increases security demand, as AI systems themselves require protection.
+
+**Q: Is there an age limit for cybersecurity engineers in Australia?**
+A: None. Experienced security specialists aged 40–50 are highly sought after in the market, particularly senior professionals with government or financial sector backgrounds.
+
+**Q: What qualifications are required to become a cybersecurity engineer in Australia?**
+A: A bachelor's degree in CS or cybersecurity is the mainstream pathway, but candidates without a CS background who hold advanced certifications such as CISSP and OSCP with substantial experience are also welcomed. ACS skills assessments recognise a relatively broad range of related disciplines.
+
+**Q: Is it difficult to obtain a cybersecurity engineer certification in Australia?**
+A: OSCP is a hands-on penetration testing exam — challenging but widely respected by industry; CISSP requires 5 years of experience and broad knowledge domains, with a pass rate of around 75%. The ACS technical assessment itself is not particularly difficult.
+
+**Q: Which is more suitable for migrating to Australia — cybersecurity or software engineering?**
+A: Cybersecurity offers higher salaries ($127k–$148k vs $105k–$125k) and a larger skills gap (17,000 shortfall by 2030); Software Engineers have greater employment volume (approximately 3–4 times more positions). Those with a security background should choose Cybersecurity; those with a development background should choose Software Engineer — both are PR-friendly pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 网络安全工程师薪资 $100k~$120k（2026） |
-| Australian Cyber Security Centre (ACSC) | 澳洲网络安全战略和需求 |
-| ABS 劳动力数据 | 网络安全从业人数70,900（2025），增速是全行业均值两倍 |
-| Terratern 2026 | 网络安全薪资市场 $127k~$148k（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 很高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-网络安全工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲网络安全工程师工资多少？**
-答：市场均薪 $127,000~$148,000；中级工程师约 $110k~$145k；持OSCP的渗透测试工程师约 $145k~$195k；CISO可超 $250k。政府/国防安全许可岗溢价 $20k~$40k。
-
-**问：澳洲网络安全工程师容易找工作吗？**
-答：极容易。2030年预测缺口17,000人，持证工程师主动被猎头联系，AUKUS国防岗大量招募安全人才。
-
-**问：中国网络安全经验澳洲认可吗？**
-答：通过 ACS 技能评估（学历审核），国际通用认证（CISSP/CEH/OSCP）在澳洲完全认可。政府安全岗需要澳洲公民身份申请安全许可，非公民只能在部分私企岗就职。
-
-**问：网络安全工程师会被AI替代吗？**
-答：风险较低。AI安全工具辅助威胁检测，但攻防对抗创造性（红队）、复杂事件响应决策和安全架构设计是AI无法替代的核心价值。AI反而增加了安全需求（AI系统本身需要防护）。
-
-**问：澳洲网络安全工程师有年龄限制吗？**
-答：无。经验丰富的40~50岁安全专家在市场上备受青睐，特别是有政府/金融从业背景的资深专家。
-
-**问：澳洲网络安全工程师需要什么学历？**
-答：本科学历（CS/网络安全相关）是主流，但持有 CISSP+OSCP 等高端认证且有丰富经验的非CS学历者也受欢迎。ACS技能评估对部分相关学科的学历认可范围较广。
-
-**问：澳洲网络安全工程师认证难吗？**
-答：OSCP 是实操渗透考试，难度较高但被业界认可；CISSP 需要5年经验+广泛知识域，通过率约75%。ACS技术评估本身不难。
-
-**问：网络安全和软件工程师哪个更适合移民澳洲？**
-答：网络安全薪资更高（$127k~$148k vs $105k~$125k），缺口更大（2030年缺17000人）；软件工程师就业量更大（职位数多约3~4倍）。有安全背景者选网络安全，有开发背景者选软件工程师，两者均PR友好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

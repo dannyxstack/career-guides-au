@@ -1,61 +1,97 @@
-# General Medical Practitioner（General Medical Practitioner）职业分析 · 新西兰
+# General Medical Practitioner — career analysis · New Zealand
 
-**职业代码：253111 – General Medical Practitioner。**
+**Occupation code: 253111 (ANZSCO)**
 
-General Practitioners in New Zealand provide primary healthcare including diagnosis, treatment and prevention. The occupation is on Green List Tier 1, offering direct residence pathway with strong demand.
+General practitioners provide primary healthcare in New Zealand, including diagnosis, treatment, and preventive care. This occupation is on the Green List Tier 1, allowing direct residence application with a clear immigration pathway and high demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 医学本科学位 | 5-6年 | $200,000~$350,000（新西兰国内医学生学费约每年4-6万NZD，国际学生更高。） |
-| 住院医师培训 | 2年 | —（带薪培训，年薪约7-10万NZD。） |
-| 全科医学专科培训 | 3-4年 | —（注册后带薪培训，年薪约10-15万NZD。） |
+| Bachelor's degree in medicine | 5-6 years. | $200,000~$350,000 (Domestic medical student tuition in New Zealand is about 40,000-60,000 NZD per year, higher for international students.) |
+| Residency training | 2 years | $0~$0 (Paid training, salary around NZD 70,000–100,000 per year.) |
+| Specialized training in general practice | 3-4 years | $0~$0 (Paid training after registration, annual salary around NZD 100,000-150,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学士与外科学士 | 新西兰医学院校（如奥塔哥大学、奥克兰大学） | 必备 | 需完成认可的医学学位。 |
-| 新西兰医学委员会注册 | Medical Council of New Zealand | 必备 | 通过新西兰注册考试（NZREX）或澳洲AMC同等资格。 |
-| 全科医学专科资格 | Royal New Zealand College of General Practitioners | 必备 | 完成RNZCGP培训并成为Fellow。 |
-| 英语能力考试 | IELTS/OET | 必备 | IELTS总分7.5（单项不低于7）或OET B级。 |
+| Bachelor of Medicine and Bachelor of Surgery | New Zealand medical schools (e.g., University of Otago, University of Auckland) | Required | Must complete an accredited medical degree. |
+| Medical Council of New Zealand registration | Medical Council of New Zealand | Required | Pass the New Zealand Registration Exam (NZREX) or equivalent Australian AMC qualification. |
+| General Practice Specialist Qualification | Royal New Zealand College of General Practitioners | Required | Complete RNZCGP training and become a Fellow. |
+| English proficiency test | IELTS/OET | Required | IELTS overall score of 7.5 (no band below 7) or OET Grade B. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 4,500。新西兰全科医生长期短缺，尤其在农村和偏远地区。政府优先吸引海外医生，就业率持续增长，预计未来十年需求保持高位。
+**Job demand: very high (★★★★½).** National workforce approx. 4,500. There is a long-term shortage of general practitioners in New Zealand, especially in rural and remote areas. The government prioritizes attracting overseas doctors, with sustained employment growth and high demand expected over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $100,000~$130,000 | 刚完成培训的全科医生。 |
-| 中级（4-9年） | $140,000~$180,000 | 经验丰富的全科医生。 |
-| 高级（10年以上） | $200,000~$300,000 | 高级合伙人或诊所所有者。 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $100,000~$130,000 | A general practitioner who has just completed training. |
+| Intermediate (4-9 years) | $140,000~$180,000 | Experienced general practitioner (GP). |
+| Senior (10+ years) | $200,000~$300,000 | Senior partner or clinic owner. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★½）。** 从初级全科医生起步，可晋升为高级合伙人或专科医生。也可转向医疗管理、学术研究或公共卫生领域，职业发展路径多样。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
+
+Starting as a junior GP, you can advance to senior partner or specialist. You can also move into medical management, academic research, or public health, offering diverse career paths.
+
+**Tasks most exposed to AI:**
+
+- Automated recording of medical records and prescriptions
+- Preliminary analysis of routine imaging (e.g., X-rays)
+- Rule-based health consultation and triage
+- Appointment management and patient follow-up reminders
+- Automatic summarization of follow-up data for some chronic diseases.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic suggestion systems improve diagnostic accuracy
+- AI-supported personalized treatment plan recommendations
+- Real-time analysis of patient health data to predict risks
+- Smart reminders for drug interactions and side effects
+- AI-assisted telemedicine consultation and documentation
+
+**Human moat:**
+
+- Complex clinical reasoning and decision-making under uncertainty
+- Empathy and trust building in doctor-patient consultations
+- Synthesizing multi-source information for comprehensive judgment
+- Intuition and Experience for Rare Diseases or Atypical Presentations
+- Ultimate assumption of ethics and legal responsibility
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools (e.g., large model-based clinical decision support systems)
+- Learning data analysis and basic statistics to interpret AI reports
+- Enhance digital health and telehealth platform operation skills
+- Enhancing Patient Communication Combined with Digital Tools
+- Familiarity with basic programming (e.g., Python) for custom analysis or automation
+- Learning medical AI ethics and data privacy regulations
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Direct Residence
@@ -64,68 +100,67 @@ General Practitioners in New Zealand provide primary healthcare including diagno
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 全科医生在绿色名单第一级，可直接申请居留，无需工作满两年。 |
-| Subclass SMC（Skilled Migrant Category） | 可通过6分制申请，全科医生通常满足高学历或注册要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 可作为过渡工签，但直接居留路径更优先。 |
+| Subclass Green List T1 (Straight to Residence Visa) | General practitioners are on Tier 1 of the Green List and can directly apply for residence without needing to work for two years. |
+| Subclass SMC (Skilled Migrant Category) | Can apply via the 6-point system; general practitioners usually meet the higher education or registration requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | Can be used as a transitional work visa, but direct residence pathway is more preferred. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General Medical Practitioner？**
-- 已完成医学学位并具备全科培训经验的海外医生
-- 愿意在新西兰农村或偏远地区工作的医疗从业者
-- 追求稳定高薪和明确移民路径的医学人才
-
-**谁不适合学General Medical Practitioner？**
-- 无法投入至少7年医学教育与培训的人士
-- 不愿通过严格注册和英语考试的人士
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Overseas doctors who have completed a medical degree and have general practice training experience
+- Medical practitioners willing to work in rural or remote areas of New Zealand
+- Medical talents seeking stable high salaries and clear immigration pathways
+
+**Who is not suited**
+- Those who cannot invest at least 7 years in medical education and training
+- Individuals unwilling to undergo strict registration and English exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the median annual salary for GPs in New Zealand?**
+A: Median around NZD 150,000, experienced professionals can exceed NZD 200,000.
+
+**Q: How long does it take for a general practitioner to immigrate to New Zealand?**
+A: If already holding overseas medical qualifications and registration, through the Green List direct residence visa, processing time about 6-12 months.
+
+**Q: How can overseas general practitioners register in New Zealand?**
+A: Must obtain provisional registration with the Medical Council of New Zealand, complete 3-6 months of graded supervision, and then pass the general practice specialty assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 很高（★★★★½） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-General Medical Practitioner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the median annual salary for GPs in New Zealand?**
-答：The median salary is around NZD 150,000, with experienced GPs earning over NZD 200,000.
-
-**问：How long does it take for a GP to migrate to New Zealand?**
-答：If you already hold overseas medical qualifications and registration, the Straight to Residence Visa processing takes about 6-12 months.
-
-**问：How can overseas GPs register in New Zealand?**
-答：You need provisional registration from MCNZ, complete 3-6 months of supervised practice, then pass specialist assessment by RNZCGP.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

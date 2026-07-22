@@ -1,59 +1,95 @@
-# Maintenance Planner（Maintenance Planner）职业分析 · 澳大利亚
+# Maintenance Planner — career analysis · Australia
 
-**职业代码：312911 – Maintenance Planner。**
+**Occupation code: 312911 (ANZSCO)**
 
-Maintenance Planners coordinate maintenance schedules for industrial equipment, machinery, and facilities, arranging inspections, repairs, and overhauls to minimize downtime and ensure operational efficiency.
+A maintenance planner coordinates maintenance plans for industrial equipment, machinery, and facilities, scheduling regular inspections, repairs, and overhauls to minimize downtime and ensure operational efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书（Certificate III/IV） | 1-2年 | $4,000~$12,000（TAFE课程费用） |
-| 副学士学位或大专文凭 | 2年 | $15,000~$30,000（私立或公立学院） |
+| Vocational Education Certificate (Certificate III/IV) | 1-2 years | $4,000~$12,000 (TAFE course fees) |
+| Associate degree or diploma | 2 years | $15,000~$30,000 (Private or public colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行业经验（如机械或电气背景） | 雇主评估 | 必备 | 通常需要3-5年维护工作经验 |
-| 维护规划相关证书 | TAFE或注册培训机构 | 可选 | 如Certificate IV in Maintenance Management |
-| VETASSESS技能评估 | VETASSESS | 必备 | 移民所需，评估工作经验 |
+| Industry experience (e.g., mechanical or electrical background) | Employer assessment | Required | Typically requires 3-5 years of maintenance work experience |
+| VETASSESS skills assessment | VETASSESS | Required | Required for immigration, assessment of work experience |
+| Maintenance planning related certificates | TAFE or registered training organizations | Optional | Such as Certificate IV in Maintenance Management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,200。澳洲矿业、制造业和能源领域持续投资，维护计划员需求稳定。随着自动化设备增多，预防性维护重要性上升，就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,200. Ongoing investment in Australian mining, manufacturing, and energy sectors ensures steady demand for maintenance planners. With increasing automation, preventive maintenance importance rises, offering good job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 含养老金 |
-| 中级（3-7年） | $80,000~$100,000 | 含养老金 |
-| 高级（7年以上） | $100,000~$130,000 | 含养老金，矿业或油气行业更高 |
+| Median salary | $153,608 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Including superannuation |
+| Mid-level (3–7 years) | $80,000~$100,000 | Including superannuation |
+| Senior (7+ years) | $100,000~$130,000 | Includes superannuation, higher in mining or oil and gas industries |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从维护技工或调度员起步，积累经验后晋升为高级计划员或维护经理，也可转向资产管理和可靠性工程岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will take over some diagnostic and predictive maintenance tasks, but field operations, complex troubleshooting, and safety compliance responsibilities still rely on humans. Overall outlook is mixed.
+
+Can start as a maintenance technician or scheduler, then advance to senior planner or maintenance manager with experience, or transition to asset management and reliability engineering roles.
+
+**Tasks most exposed to AI:**
+
+- Fault prediction and alarm generation based on sensor data
+- Automatic scheduling and recording of routine lubrication plans
+- Automatic spare parts inventory counting and ordering
+- Automatic recording and analysis of equipment operation logs
+- Automated documentation generation for standard maintenance processes.
+
+**Where AI augments the role:**
+
+- Access maintenance step instructions overlaid on equipment via AR glasses
+- AI-assisted diagnosis of complex mechanical faults, providing lists of possible causes
+- Using digital twins to simulate maintenance plan effectiveness
+- Automatically generate maintenance reports linked to historical data.
+- Mobile terminal receives real-time remote expert guidance
+
+**Human moat:**
+
+- On-site safety judgment and emergency response skills
+- Multi-sensory (tactile, auditory, olfactory) anomaly detection
+- Flexible problem-solving in unstructured environments
+- Interpersonal communication and coordination with operators and engineers
+- Compliance record and quality audit responsibilities
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Augmented Reality (AR) maintenance tool operation
+- Basic programming and automation scripting (e.g., Python)
+- Use of digital twin and simulation software
+- Predictive maintenance system management
+- Cross-department technical communication and project management
+
+**Key growth areas:**
 
 - Predictive Maintenance
 - IoT Integration
@@ -62,65 +98,64 @@ Maintenance Planners coordinate maintenance schedules for industrial equipment, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (TSS)） | 需雇主担保，从事维护计划员工作，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居，需通过职业评估和3年工作经验 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区州担保，可转191永居 |
+| Subclass 482 (Skills in Demand (TSS)) | Requires employer sponsorship, working as a maintenance planner, eligible for 186 permanent residency |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency requires a skills assessment and 3 years of work experience |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Regional state sponsorship, can transfer to 191 permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Maintenance Planner？**
-- 善于组织和规划，注重细节的人士
-- 具备机械或电气背景，希望转向管理岗位的技术人员
-- 喜欢稳定性及预防性维护工作的人
-
-**谁不适合学Maintenance Planner？**
-- 不愿进行文书和计算机工作的人
-- 希望完全脱离一线技术环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals who are organized, detail-oriented, and good at planning
+- Technicians with mechanical or electrical background seeking to move into management roles
+- For those who enjoy stability and preventive maintenance work
+
+**Who is not suited**
+- People unwilling to do clerical and computer work
+- Those who want to completely leave the front-line technical environment
+
+---
+
+## 8. FAQ
+
+**Q: Is the salary gap for maintenance planners large in mining and manufacturing?**
+A: Mining typically pays higher, senior maintenance planner annual salary up to AUD 130,000+, while manufacturing approx. AUD 100,000-110,000.
+
+**Q: How can a maintenance planner migrate to Australia via skilled migration?**
+A: This occupation is on CSOL, can migrate via 186 employer sponsorship or 491 regional visa, requires VETASSESS assessment and relevant work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Maintenance Planner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there a large salary gap for maintenance planners between mining and manufacturing?**
-答：Mining generally pays higher, with senior planners earning over AUD 130,000, while manufacturing ranges around AUD 100,000–110,000.
-
-**问：How can a maintenance planner migrate to Australia via skilled migration?**
-答：This occupation is on CSOL, eligible for employer-sponsored 186 visa or regional 491 visa, requiring VETASSESS assessment and relevant experience.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

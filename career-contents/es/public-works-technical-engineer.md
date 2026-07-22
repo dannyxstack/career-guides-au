@@ -1,61 +1,97 @@
-# Public Works Technical Engineer（Public Works Technical Engineer）职业分析 · ES
+# Public Works Technical Engineer — career analysis · Spain
 
-**职业代码：2462 – Public Works Technical Engineer。**
+**Occupation code: 2462 (CNO)**
 
-Public Works Technical Engineers design, supervise, and maintain infrastructure projects such as roads, bridges, and water systems, serving as key technical professionals in Spain's civil engineering sector.
+Public works technical engineers are responsible for the design, construction, supervision, and maintenance of infrastructure projects such as highways, bridges, and water conservancies, and are the backbone of Spain's civil engineering field.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育（FP Grado Superior） | 2年 | $400~$2,000（公立学校每年约400-600欧元；私立学校约1500-2000欧元） |
-| 大学本科（Grado en Ingeniería de Obras Públicas） | 4年（Grado） | $1,000~$6,000（公立大学每年约1000-2000欧元；私立大学约4000-6000欧元） |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $400~$2,000 (Public schools cost around 400-600 euros per year; private schools around 1,500-2,000 euros.) |
+| Undergraduate Degree (Grado en Ingeniería de Obras Públicas) | 4 years (Grado) | $1,000~$6,000 (Public universities: approximately €1,000–2,000 per year; private universities: approximately €4,000–6,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共工程技术学位（Grado en Ingeniería de Obras Públicas） | 西班牙大学 | 必备 | 注册为技术工程师所需的基本学历 |
-| 专业工程师协会注册（Colegio de Ingenieros Técnicos de Obras Públicas） | 西班牙专业工程师协会 | 必备 | 签署项目和技术报告的法律要求 |
-| 硕士或专业资格 | 西班牙大学或认证机构 | 可选 | 非强制，但有助于晋升和专业化 |
+| Public Engineering Technology Degree (Grado en Ingeniería de Obras Públicas) | Spanish University | Required | Basic academic qualifications required to register as a technical engineer |
+| Registered with Professional Engineers' Association (Colegio de Ingenieros Técnicos de Obras Públicas) | Spanish Professional Engineers Association | Required | Legal requirements for signing project and technical reports |
+| Master's or professional qualifications | Spanish universities or accrediting bodies | Optional | Non-mandatory, but helpful for promotion and specialization |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 28,000。西班牙在欧盟基金资助下持续投资交通、水利和城市更新项目，公共工程技术工程师需求稳定。2024-2026年预计年均岗位增长约2-3%，尤其可再生能源基础设施领域机会增多。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 28,000. Spain continues to invest in transportation, water conservancy, and urban renewal projects funded by EU funds, maintaining stable demand for public engineering engineers. From 2024 to 2026, the average annual job growth is expected to be about 2-3%, with increasing opportunities in the renewable energy infrastructure sector.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 应届毕业生或初级技术工程师，税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 有经验的项目工程师或主管，税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 技术经理、项目经理或总监，税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Fresh graduates or junior technical engineers, pre-tax annual salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Experienced project engineers or supervisors, pre-tax annual salary |
+| Senior (7+ years) | $45,000~$60,000 | Technical Manager, Project Manager, or Director, pre-tax annual salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：初级工程师→项目主管→技术经理→公共工程总监。可通过深造（如土木工程硕士）晋升为高级工程师或转入大型承包商管理层。也可转向绿色基础设施或数字化建模（BIM）方向。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+Career development path: junior engineer→ project supervisor→ technical manager→ public works director. You can advance to senior engineer or transfer to management at large contractors through further study (such as a master's in civil engineering). It can also shift toward green infrastructure or digital modeling (BIM).
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Infrastructure
 - Renewable Energy
@@ -64,69 +100,68 @@ Public Works Technical Engineers design, supervise, and maintain infrastructure 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高学历且工资达门槛（2024年约33,908欧元）的工程师，需雇主合同。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人才，要求相关学历和至少1年工作经验，薪资门槛较低。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保和劳工市场测试，对非欧盟公民限制较多。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated engineers with salaries reaching the threshold (approximately €33,908 in 2024), employer contracts are required. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, relevant academic qualifications and at least one year of work experience are required, with a relatively low salary threshold. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residency requires employer sponsorship and labor market testing, with many restrictions for non-EU citizens. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Works Technical Engineer？**
-- 喜欢户外工作和实地项目的人
-- 具备工程绘图和计算能力，注重细节的人
-- 希望在基础设施领域获得稳定职业发展的技术人才
-
-**谁不适合学Public Works Technical Engineer？**
-- 不喜欢频繁出差和施工现场环境的人
-- 缺乏耐心和团队协作能力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and field projects
+- Someone with engineering drawing and calculation skills, detail-oriented
+- Technical talents seeking stable career development in the infrastructure sector
+
+**Who is not suited**
+- People who dislike frequent business trips and construction site environments
+- People who lack patience and teamwork skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a public works technical engineer in Spain?**
+A: Junior engineers earn about 24,000-32,000 euros annually, intermediate engineers about 32,000-45,000 euros, and senior engineers can earn over 60,000 euros. Salaries are influenced by region, company size, and experience.
+
+**Q: How can foreigners become public engineering engineers in Spain through skilled migration?**
+A: Non-EU citizens must first obtain an engineering degree recognized by Spain (or complete homologación credentials), then apply for work through the EU Blue Card or Highly Skilled Professional visa. Degree verification takes a long time, so it is recommended to prepare in advance.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes. Promotion to project manager, technical director, or independent consultant. Learning BIM (Building Information Modeling) or green infrastructure knowledge can significantly enhance career prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Public Works Technical Engineer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Public Works Technical Engineer in Spain?**
-答：Entry-level engineers earn around €24,000–€32,000 annually; mid-level €32,000–€45,000; senior up to €60,000+. Salaries vary by region, company size, and experience.
-
-**问：How can foreigners migrate to Spain as a Public Works Technical Engineer?**
-答：Non-EU citizens need an engineering degree recognized in Spain (or homologación), then apply via EU Blue Card or Highly Qualified Professional visa. Homologation is time-consuming, so start early.
-
-**问：Are there career advancement opportunities?**
-答：Yes. You can progress to project manager, technical director, or independent consultant. Training in BIM or green infrastructure can boost prospects.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

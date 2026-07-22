@@ -1,61 +1,94 @@
-# Driving Instructor（Driving Instructor）职业分析 · IT
+# Driving Instructor — career analysis · Italy
 
-**职业代码：5165 – Driving Instructor。**
+**Occupation code: 5165 (ISCO08)**
 
-Driving instructors teach students driving skills and traffic rules, helping them pass license tests, emphasizing safety and defensive driving.
+Driving instructors teach students driving skills and traffic rules, helping them pass the driving test, emphasizing safe driving and defensive driving techniques.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无 | —（仅需高中文凭） |
-| 驾驶教练认证课程 | 6个月 | $1,500~$3,000（包括理论和实践培训） |
+| High school graduation | None | $0~$0 (Only requires a high school diploma) |
+| Driving Instructor Certification Course | 6 months. | $1,500~$3,000 (Includes theoretical and practical training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶教练资格证书 | 意大利基础设施与交通部 | 必备 | 必须通过理论和实践考试，包括教学方法 |
-| 驾驶执照（B类及以上） | 意大利机动车管理局 | 必备 | 持有至少3年且无重大违章记录 |
-| 医疗证明 | 授权医疗机构 | 必备 | 证明无妨碍安全驾驶的疾病 |
+| Driving instructor qualification certificate | Italian Ministry of Infrastructure and Transport | Required | Must pass both theoretical and practical exams, including teaching methods |
+| Driver's license (Class B and above) | Italian Vehicle Registration Authority | Required | Hold a license for at least 3 years with no major violation record |
+| Medical Certificate | Authorized medical institutions | Required | Evidence of no diseases that hinder safe driving |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。意大利驾驶教练需求稳定，随着交通法规更新和老龄化社会对再培训的需求，就业机会略有增长，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Demand for Italian driving instructors is stable; with updates to traffic regulations and retraining needs from an aging society, employment opportunities are slightly growing, but competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 含基本工资和部分课时费 |
-| 中级（3-7年） | $25,000~$32,000 | 经验丰富，可独立招生 |
-| 高级（7年以上） | $32,000~$40,000 | 含管理或培训其他教练的收入 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Includes base salary and partial teaching hours |
+| Mid-level (3–7 years) | $25,000~$32,000 | Experienced and able to recruit students independently |
+| Senior (7+ years) | $32,000~$40,000 | Includes income from managing or training other coaches |
+| average salary | $29,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级教练可通过积累经验和获取高级认证晋升为高级教练或驾校管理者，也可转向驾驶安全顾问或驾驶员培训课程开发。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not completely replace driving instructors, but will significantly change teaching methods. Autonomous driving reduces the demand for driving skills, while AI-assisted teaching tools (such as simulators and evaluation systems) will compress traditional roles, enhancing personalized teaching and data analysis. Instructors will need to shift to advanced safety training and adaptive teaching.
+
+Junior coaches can advance to senior coaches or driving school managers by accumulating experience and obtaining higher-level certifications, or transition to driving safety consultants or driver training course developers.
+
+**Tasks most exposed to AI:**
+
+- Basic driving operation instruction (e.g., starting, gear shifting) is automated by simulators.
+- Theoretical exam question bank explanations replaced by AI interactive system
+- Basic assessment of student performance (e.g., speed control) generates reports automatically via sensors and algorithms.
+- Standard driving test route teaching is covered by GPS and virtual environments
+
+**Where AI augments the role:**
+
+- Using AI to analyse learner driving data, providing personalised weak spot training plans
+- Using augmented reality (AR) to simulate complex road conditions (e.g., rain, snow, night) for safety training
+- AI-assisted real-time feedback system to enhance trainees' perception and reaction training
+- Optimize teaching processes with big data, predict student pass rates and adjust strategies
+
+**Human moat:**
+
+- Non-verbal communication and emotional guidance to alleviate student anxiety and build trust
+- Immediate judgment and intervention in emergencies (e.g., sudden operational errors by trainees)
+- Teaching defensive driving and ethical decision-making (e.g., accident avoidance ethics)
+- Unpredictable interactive training in real road environments (e.g., pedestrians, animals)
+
+**Skills to build:**
+
+- AI teaching platforms and data interpretation skills
+- Operating virtual reality (VR/AR) teaching tools
+- Behavioral psychology and personalized instructional design
+- Advanced driving safety certification (e.g., defensive driving expert)
+- Digital content creation (creating interactive tutorials)
+- Remote teaching and online instruction techniques.
+
+**Key growth areas:**
 
 - Stable demand
 - Aging population
@@ -64,66 +97,68 @@ Driving instructors teach students driving skills and traffic rules, helping the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需有大学学历或5年相关经验，但驾驶教练通常不满足高技能要求，需雇主证明 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟工人的年度配额签证，需雇主担保，驾驶教练不在常见紧缺职业列表中，申请难度较大 |
-| Subclass Autonomous Work Visa（Self-Employment Visa） | 若作为自由职业教练，需投资至少5万欧元并提交商业计划，适合有创业意愿的教练 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree or 5 years of relevant experience, but driving instructors usually do not meet the high-skilled requirement; employer must demonstrate |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | An annual quota visa for non-EU workers requiring employer sponsorship; driving instructors are not on the common skilled occupation list, making applications more difficult. |
+| Subclass Autonomous Work Visa (Self-Employment Visa) | If working as a freelance coach, you need to invest at least €50,000 and submit a business plan, suitable for coaches with entrepreneurial intentions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Driving Instructor？**
-- 喜欢与人沟通、教学，有耐心的个人
-- 对驾驶和交通安全有热情的人
-- 寻求稳定职业且能接受中等收入的人
+**Who is suited**
+- Individuals who enjoy communication and teaching and are patient.
+- People passionate about driving and road safety
+- Those seeking stable careers and willing to accept moderate income
 
-**谁不适合学Driving Instructor？**
-- 缺乏耐心、易怒的人
-- 不喜欢重复性教学或长时间驾驶的人
+**Who is not suited**
+- People who lack patience and are easily angered
+- People who dislike repetitive teaching or long hours of driving
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a driving instructor in Italy?**
+A: Approx. EUR 20,000-25,000/year for entry-level, EUR 25,000-32,000 for mid-level, EUR 32,000-40,000 for senior; income depends on teaching hours and self-employment level.
+
+**Q: Can non-EU citizens immigrate to Italy through the driving instructor occupation?**
+A: Low likelihood. This occupation is not in shortage and visa quotas are limited. Employer sponsorship required, and EU citizens are typically prioritized.
+
+**Q: What qualifications are needed to become a driving instructor in Italy?**
+A: Requires at least a high school diploma, a Class B driver's license held for over 3 years, completion of an accredited coaching course and passing an exam, plus medical certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Driving Instructor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a driving instructor in Italy?**
-答：Entry-level salary is around €20,000-€25,000, mid-level €25,000-€32,000, senior €32,000-€40,000, influenced by hours and self-employment.
-
-**问：Can non-EU citizens immigrate to Italy as a driving instructor?**
-答：Unlikely. The occupation is not in shortage, visa quotas are limited, employer sponsorship needed, and EU citizens are prioritized.
-
-**问：What qualifications are needed to become a driving instructor in Italy?**
-答：Requires high school diploma, valid B license for 3+ years, completion of accredited instructor course and exam, plus medical certificate.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

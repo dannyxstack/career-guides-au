@@ -1,58 +1,94 @@
-# Urban and Traffic Engineer（Urban and Traffic Engineer）职业分析 · ES
+# Urban and Traffic Engineer — career analysis · Spain
 
-**职业代码：2453 – Urban and Traffic Engineer。**
+**Occupation code: 2453 (CNO)**
 
-Urban and traffic engineers design, plan, and manage urban transportation systems, including roads, public transit, and traffic flow optimization, to ensure safe, efficient, and sustainable urban mobility.
+Urban and Transportation Engineers are responsible for designing, planning, and managing urban transportation systems, including roads, public transit, and traffic flow optimization, to ensure safe, efficient, and sustainable urban mobility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado en Ingeniería Civil o similar） | $1,000~$4,000（公立大学学费较低，私立较高） |
-| 硕士（Máster） | 1-2年（Máster en Ingeniería de Tráfico o Transporte） | $2,000~$8,000（公立大学每年约2000-4000欧元） |
+| Undergraduate (Grado) | 4 years (Grado en Ingeniería Civil o similar) | $1,000~$4,000 (Public universities have lower tuition, private universities higher) |
+| Máster | 1-2 years (Máster en Ingeniería de Tráfico o Transporte) | $2,000~$8,000 (Public universities: approx. 2000-4000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程或相关学位 | 西班牙大学 | 必备 | 需完成Grado en Ingeniería Civil o Ingeniería de Caminos |
-| 专业工程师资格（opcional） | Colegio de Ingenieros de Caminos | 可选 | 非强制，但有助于职业发展 |
+| Degree in civil engineering or related fields | Spanish University | Required | You must complete Grado en Ingeniería Civil or Ingeniería de Caminos |
+| Professional Engineer Qualification (Opcional) | Colegio de Ingenieros de Caminos | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。西班牙城市化进程加速和可持续交通需求增长，推动该职业需求上升。政府投资智能交通和绿色出行项目，预计未来五年岗位增长约8%。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Accelerated urbanization in Spain and growing demand for sustainable transportation are driving up demand for this profession. Government investment in smart transportation and green mobility projects is expected to increase by about 8% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，大城市可能更高 |
-| 中级（4-7年） | $36,000~$45,000 | 税前年薪，含项目奖金 |
-| 高级（8年以上） | $46,000~$60,000 | 税前年薪，管理岗位可超70000欧 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salaries may be higher in big cities |
+| Mid-level (4-7 years) | $36,000~$45,000 | Pre-tax annual salary, including project bonuses |
+| Senior (8+ years) | $46,000~$60,000 | Pre-tax annual salary: management positions can earn over 70,000 euros |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级工程师可晋升为项目主管或技术经理，积累经验后可转向交通规划咨询或政府部门高级职位。继续深造（如Máster）可提升竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
+
+Junior engineers can be promoted to project supervisors or technical managers, and after gaining experience, can move on to senior positions in transportation planning consulting or government departments. Further studies (such as Máster) can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary land use analysis report
+- Performing standardized traffic flow simulations.
+- Batch process geospatial data and create basic maps
+- Compile routine regulatory compliance checklists
+- Automatically generate meeting minutes and preliminary public opinion summaries
+
+**Where AI augments the role:**
+
+- Use AI to simulate multiple planning scenarios and assess environmental impacts.
+- Analyzing public opinion and extracting key demands using natural language processing
+- Predict urban growth trends and infrastructure needs based on machine learning
+- Automatically identify land use changes in satellite imagery
+- Optimize transport network design to reduce commute time and carbon emissions
+
+**Human moat:**
+
+- Political judgment and negotiation skills to balance multiple stakeholders' interests
+- Handling conflicting public opinions and reaching consensus
+- Deep understanding and intuition of local socioeconomic context
+- planning decisions bearing legal and ethical responsibilities
+- Creative ability to design unique community spaces
+
+**Skills to build:**
+
+- Master advanced GIS analysis and automation (ArcPy, QGIS)
+- Learn machine learning fundamentals and urban analysis applications (Scikit-learn, TensorFlow)
+- Improve data visualization and communication skills (Tableau, D3.js)
+- Keep up with updates to urban planning related laws and regulations
+- Develops public participation and conflict mediation skills
+- Learn sustainable infrastructure design principles
+
+**Key growth areas:**
 
 - Sustainable Mobility
 - Smart Cities
@@ -61,68 +97,67 @@ Urban and traffic engineers design, plan, and manage urban transportation system
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：有利（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能工作者，需至少3年工作经验或高等教育学历，薪资需达到西班牙平均工资的1.5倍（约40000欧元/年）。 |
-| Subclass Cuenta ajena（Work Contract (employed)） | 雇主担保工作居留，需证明职位无法由西班牙或欧盟公民担任。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历或高管，流程简化，可快速获得居留。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled workers, requiring at least 3 years of work experience or higher education education, with a salary at least 1.5 times the average Spanish salary (about 40,000 euros per year). |
+| Subclass Cuenta ajena (Work Contract (employed)) | Employer-sponsored work residency requires proof that the position cannot be held by a Spanish or EU citizen. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or executives, with a simplified process that allows for quick residency acquisition. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Urban and Traffic Engineer？**
-- 对城市规划和交通系统有浓厚兴趣的人
-- 具备工程分析能力，喜欢解决复杂问题
-- 希望在可持续发展和智慧城市领域发展的人
-
-**谁不适合学Urban and Traffic Engineer？**
-- 不喜欢户外工作或现场考察的人
-- 对公共政策和政府流程缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in urban planning and transportation systems
+- Possess engineering analysis skills and enjoy solving complex problems
+- Those who wish to develop in the fields of sustainable development and smart cities
+
+**Who is not suited**
+- People who dislike outdoor work or field visits
+- People who lack patience with public policy and government processes
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for urban and transportation engineers?**
+A: Junior engineers earn about 28,000-35,000 euros annually, intermediate engineers 36,000-45,000 euros, senior engineers up to 46,000-60,000 euros, and management positions are even higher.
+
+**Q: How can Chinese engineers work in Spain through skilled migration?**
+A: You can obtain the EU Blue Card (Tarjeta azul UE) or the Highly Skilled Professional Visa (Ley 14/2013), which requires degree certification (homologación) and a work contract with a Spanish employer.
+
+**Q: What are the employment prospects for this profession in Spain?**
+A: Outlook is good, with increasing urbanization and sustainable transport projects, expected employment growth of about 8% over the next five years, especially in major cities like Barcelona and Madrid.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 有利（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Urban and Traffic Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for urban and traffic engineers?**
-答：Entry-level engineers earn around €28,000-€35,000 per year, mid-level €36,000-€45,000, and senior engineers €46,000-€60,000, with management positions higher.
-
-**问：How can a Chinese engineer migrate to Spain for this profession?**
-答：Apply for an EU Blue Card or Highly Skilled Professional visa (Ley 14/2013), requiring degree recognition (homologación) and a job offer from a Spanish employer.
-
-**问：What is the job outlook for this profession in Spain?**
-答：Outlook is positive due to urbanization and sustainable transport projects, with an estimated 8% growth over five years, especially in large cities like Barcelona and Madrid.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

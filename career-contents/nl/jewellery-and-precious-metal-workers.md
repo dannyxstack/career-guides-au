@@ -1,58 +1,94 @@
-# Jewellery and Precious Metal Workers（Jewellery and Precious Metal Workers）职业分析 · NL
+# Jewellery and Precious Metal Workers — career analysis · Netherlands
 
-**职业代码：7313 – Jewellery and Precious Metal Workers。**
+**Occupation code: 7313 (ISCO08)**
 
-Craft and repair jewelry and precious metal items, working in workshops or small businesses with a focus on design and quality.
+A skilled artisan who designs, creates, repairs, and evaluates jewelry and precious metals and gems, commonly found in workshops or small jewelry businesses.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | $2,000~$6,000（每年学费约2000-6000欧元，因学校和课程而异） |
-| 高等职业教育 (HBO) | 4年（本科） | $8,000~$15,000（每年学费约8000-15000欧元） |
+| Secondary vocational education (MBO) | 3-4 years | $2,000~$6,000 (Annual tuition approximately 2000-6000 euros, depending on the school and course) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $8,000~$15,000 (Annual tuition fee approximately 8,000–15,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 珠宝工匠文凭 (Goudsmid) | ROC (Regional Training Centre) | 必备 | MBO级别，需完成3-4年课程 |
-| 珠宝设计学士 | HBO大学如Utrecht University of the Arts | 可选 | 可选，有助于提升设计能力 |
+| Diploma in Jewellery Craftsmanship (Goudsmid) | ROC (Regional Training Centre) | Required | MBO level, need to complete 3-4 year course |
+| Bachelor of Jewellery Design | HBO universities such as Utrecht University of the Arts | Optional | Optional, helps improve design skills. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 1,200。荷兰珠宝行业规模较小，但定制和修复需求稳定。数字化设计工具普及带来新机会，但自动化对低端制造有影响。总体就业平稳。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,200. The Dutch jewellery industry is relatively small, but demand for customisation and repair is stable. The spread of digital design tools brings new opportunities, but automation impacts low-end manufacturing. Overall employment is stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，可能根据雇主和地区浮动 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，经验和技术熟练度影响薪资 |
-| 高级（7年以上） | $38,000~$48,000 | 税前年薪，资深工匠或工作室主管 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, may vary by employer and region |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual salary before tax; experience and skill level affect pay |
+| Senior (7+ years) | $38,000~$48,000 | Pre-tax annual salary for senior craftspeople or workshop supervisors |
+| average salary | $34,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从学徒或珠宝设计专业毕业起步，可晋升为资深工匠、工作室主管，或自主创业开设珠宝店。少数进入拍卖行或鉴定机构。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Jewellery and precious metal workers belong to creative manual occupations. AI enhances design assistance and customer customisation, but core manual skills are hard to replace. Entry-level positions have been somewhat reduced due to the proliferation of design tools, but repair and custom work remains stable.
+
+Typically start as an apprentice or graduate from jewellery design, then advance to senior craftsman, studio supervisor, or start your own jewellery business. A few enter auction houses or appraisal agencies.
+
+**Tasks most exposed to AI:**
+
+- Standardized operations in gem cutting and polishing (e.g. round brilliant cut)
+- Simple repetitive precious metal casting and mold making
+- Image recognition-based gemstone grading and appraisal report generation
+- CAD modeling and rendering of basic styles
+- Inventory management and order processing
+
+**Where AI augments the role:**
+
+- AI-assisted personalized jewelry design (generated based on customer photos and preferences)
+- 3D visual preview and modification of custom customer designs
+- Use AI to generate new process solutions (e.g., metal surface textures)
+- Automation tools reduce prototyping time
+- Digital twin technology simulates how jewelry looks when worn.
+
+**Human moat:**
+
+- Advanced manual skills (e.g., inlay, carving, enameling)
+- Expertise in appraising and restoring rare gemstones and antique jewelry
+- Communicating with clients face-to-face and understanding emotional needs
+- Creative original design (non-parametric)
+- Hand feel and fine-tuning judgment in physical operations
+
+**Skills to build:**
+
+- AI-aided design tools (such as Midjourney, Rhino+Grasshopper)
+- 3D modeling and printing technology
+- Digital gemstone identification technology
+- Online personal branding and social media marketing.
+- Knowledge of sustainable materials and ethical sourcing
+- Customer experience design and consulting skills
+
+**Key growth areas:**
 
 - Handcrafted jewelry
 - Luxury goods
@@ -61,68 +97,67 @@ Craft and repair jewelry and precious metal items, working in workshops or small
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需年薪至少€56,000（2024标准），珠宝行业通常较难达到。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受雇于认可担保人的高技能移民，薪资门槛约€3,909/月（30岁以上）或€2,865/月（30岁以下）。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于在荷兰毕业的留学生或研究型硕士/博士，可在一年内自由求职。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, requires annual salary of at least €56,000 (2024 standard), usually difficult to achieve in the jewelry industry. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants employed by a recognized sponsor; salary threshold approx. €3,909/month (age 30+) or €2,865/month (under 30). |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applicable to graduates in the Netherlands or research masters/PhD, allowing free job search within one year. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Jewellery and Precious Metal Workers？**
-- 对手工制作和精细工艺有热情的人
-- 具备耐心、细心和创造力的艺术型人才
-- 希望从事小型工作室或自主创业的人
-
-**谁不适合学Jewellery and Precious Metal Workers？**
-- 追求高薪和快速晋升的人
-- 对重复性手工工作缺乏耐心的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about handcrafting and fine craftsmanship
+- Artistic individuals with patience, attention to detail, and creativity.
+- Those hoping to work in small studios or be self-employed.
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those impatient with repetitive manual work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a jewellery worker in the Netherlands?**
+A: Entry-level approx. €24,000-€30,000, mid-level €30,000-€38,000, senior €38,000-€48,000 (annual pre-tax salary).
+
+**Q: What visa can foreigners use to work in jewelry in the Netherlands?**
+A: If employed by a sponsor, you can apply for a Highly Skilled Migrant visa (kennismigrant) or an EU Blue Card (subject to salary threshold). Alternatively, you can seek work via the Orientation Year visa.
+
+**Q: What are the career development paths for jewellery workers in the Netherlands?**
+A: Can start as an apprentice or junior artisan, progress to senior artisan, studio supervisor, or launch your own jewelry store. Can also pivot to jewelry appraisal, auction houses, or restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Jewellery and Precious Metal Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for jewellery workers in the Netherlands?**
-答：Entry-level €24,000-€30,000, mid-level €30,000-€38,000, senior €38,000-€48,000 (gross annual).
-
-**问：What visa options are available for foreign jewellery workers in the Netherlands?**
-答：Options include the Highly Skilled Migrant visa (kennismigrant) or EU Blue Card if employed by a recognised sponsor and meeting salary thresholds. Also the Orientation Year visa for graduates.
-
-**问：What are the career progression paths for jewellery workers in the Netherlands?**
-答：Start as an apprentice or junior artisan, progress to senior artisan, workshop manager, or start your own business. Also possible to move into appraisal, auction houses, or restoration.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Meteorologist（Meteorologist）职业分析 · ES
+# Meteorologist — career analysis · Spain
 
-**职业代码：2412 – Meteorologist。**
+**Occupation code: 2412 (CNO)**
 
-Meteorologists study atmospheric phenomena, analyze weather and climate data, and provide forecasts to support decision-making in disaster prevention, aviation, agriculture, and other sectors.
+Meteorologists study atmospheric phenomena, analyze weather and climate data, provide forecasts, and support decision-making in industries such as disaster prevention, aviation, and agriculture.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（Grado） | $1,000~$4,000（公立大学学费，视大区而定） |
-| 硕士 | 1-2年（Máster） | $1,500~$6,000（专业方向如气象学、气候学） |
+| Bachelor's degree | 4 years (Grado) | $1,000~$4,000 (Tuition fees at public universities vary by region) |
+| Master's degree | 1-2 years (Máster) | $1,500~$6,000 (Specializations include meteorology and climatology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学/环境科学学位 | 西班牙大学 | 必备 | 需包含大气科学课程 |
-| 官方硕士学位 | 西班牙大学 | 可选 | 气象学或相关领域 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
+| Degree in Physics/Environmental Science | Spanish University | Required | Must include atmospheric science courses |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
+| Official master's degree | Spanish University | Optional | Meteorology or related fields |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 1,200。西班牙气象服务主要受国家气象局（AEMET）及研究机构雇佣。数字化转型与气候变化推动需求，但岗位数量有限，竞争激烈。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. Spanish meteorological services are mainly employed by the National Meteorological Agency (AEMET) and research institutions. Digital transformation and climate change are driving demand, but the number of positions is limited and competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 公共部门起薪 |
-| 中级（3-8年） | $32,000~$45,000 | AEMET或其他机构 |
-| 高级（8年以上） | $45,000~$60,000 | 高级预报员或管理层 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Public sector salaries |
+| Mid-level (3–8 years) | $32,000~$45,000 | AEMET or other institutions |
+| Senior (8+ years) | $45,000~$60,000 | Senior forecasters or management |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从助理气象学家晋升为高级预报员或研究组长。进一步深造可进入大学教职或气候研究领域，部分转向私营气象咨询公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+For atmospheric and space scientists, AI automation will replace data analysis and basic forecasting tasks but enhance complex pattern recognition and decision support. This occupation faces a mixed outlook in the AI era, with increased demand for high-skilled roles and compression of entry-level positions.
+
+Assistant meteorologists can be promoted to senior forecasters or research team leaders. Further studies can lead to university teaching or climate research, with some moving to private meteorological consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Preliminary review of automatic observation data calibration and quality control
+- Daily forecast generation based on numerical weather prediction models
+- Automated generation of standardized weather reports and aviation weather briefings
+- Routine statistical analysis of some climate model data
+- Preliminary automatic generation and distribution of severe weather warnings
+
+**Where AI augments the role:**
+
+- Using AI to analyze historical data and ensemble forecasts to improve extreme weather event prediction accuracy
+- Using computer vision and deep learning to process satellite and radar images to identify subtle atmospheric features
+- Optimizing air quality and climate model parameters through machine learning to reduce uncertainty
+- Using natural language processing to automatically generate customized weather forecast text and impact assessments
+- Proposing optimal observation layout and sensor scheduling scheme based on reinforcement learning
+
+**Human moat:**
+
+- Deep understanding of physical mechanisms and atmospheric processes with interdisciplinary judgment
+- Effectively communicating risks and response measures to decision-makers and the public under conditions of uncertainty
+- Creative interpretation of novel sensors or abnormal data and instrument fault diagnosis
+- Responsible for compliance with meteorological service regulations and signing official forecasts or warnings.
+- Unstructured decision-making in high-impact scenarios (e.g., space launches, aviation safety)
+
+**Skills to build:**
+
+- Python/R data science and machine learning frameworks (TensorFlow, PyTorch)
+- Deep learning skills in remote sensing and satellite data analysis
+- Statistics and explainable AI applied to weather uncertainty quantification
+- Cloud computing and big data processing (AWS/GCP, Spark).
+- Weather data visualization and interactive dashboard creation (D3.js, Power BI)
+- Data assimilation and ensemble forecast application of numerical weather prediction models
+
+**Key growth areas:**
 
 - Climate Change
 - Digitalization
@@ -62,68 +98,67 @@ Meteorologists study atmospheric phenomena, analyze weather and climate data, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历及工作合同，年薪门槛约3.4万欧元。 |
-| Subclass Cuenta ajena（Work Permit for Employed Persons） | 受雇工作居留，需雇主担保，合同符合最低工资要求。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | Ley 14/2013框架，适用于紧缺职业，流程较快。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree and work contract, annual salary threshold around €34,000. |
+| Subclass Cuenta ajena (Work Permit for Employed Persons) | Employed work residence requires employer sponsorship, and the contract meets minimum wage requirements. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | The Ley 14/2013 framework is suitable for in-demand occupations and has a faster process. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meteorologist？**
-- 对大气科学有浓厚兴趣的物理学或数学毕业生
-- 喜欢数据分析与建模，适应倒班预报工作
-- 有志于公共事业或环境研究的人
-
-**谁不适合学Meteorologist？**
-- 不喜欢频繁倒班和压力环境
-- 只想追求高薪者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physics or mathematics graduates with a strong interest in atmospheric science
+- Enjoys data analysis and modeling, adapts to shift forecasting work
+- People who are committed to public service or environmental research
+
+**Who is not suited**
+- Dislikes frequent shifts and stressful environments
+- Those who only want to pursue high salaries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of meteorologists in Spain?**
+A: Public sector entry-level approx. EUR 25,000-32,000, senior up to 60,000. Private consulting firms may pay more, but positions are fewer.
+
+**Q: How can a non-EU citizen become a Spanish meteorologist?**
+A: Academic credentials must be completed and a work contract must be obtained. You can apply for the EU Blue Card or the Highly Skilled Professional Visa.
+
+**Q: What educational qualifications are required to become a meteorologist?**
+A: Usually, a bachelor's degree in physics, environmental science, etc., plus a master's degree in meteorology. The annual tuition fee for public universities is about 1,000–4,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Meteorologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for meteorologists in Spain?**
-答：Public sector entry-level is around €25,000-€32,000, senior up to €60,000. Private consulting may offer more but fewer positions.
-
-**问：How can non-EU citizens become meteorologists in Spain?**
-答：They need to have their degree homologated and obtain a job contract. They can apply for EU Blue Card or Highly Qualified Professional visa.
-
-**问：What education is required to become a meteorologist?**
-答：A bachelor's in physics or environmental science, plus a master's in meteorology. Public university tuition is about €1,000-€4,000 per year.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

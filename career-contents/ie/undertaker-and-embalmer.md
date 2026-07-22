@@ -1,61 +1,97 @@
-# Undertaker and Embalmer（Undertaker and Embalmer）职业分析 · IE
+# Undertaker and Embalmer — career analysis · Ireland
 
-**职业代码：5163 – Undertaker and Embalmer。**
+**Occupation code: 5163 (ISCO08)**
 
-Responsible for funeral arrangements, embalming and body preparation, and funeral home operations. Requires empathy, attention to detail, and knowledge of regulations.
+Responsible for funeral service arrangements, embalming and body handling, and funeral home operations management. Requires empathy, attention to detail, and regulatory knowledge.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭 | 2年 | $8,000~$15,000（例如都柏林理工学院的殡葬服务文凭） |
-| 在职培训 | 1-2年 | $3,000~$8,000（由殡仪馆提供的学徒制） |
+| Higher education diploma | 2 years | $8,000~$15,000 (For example, the Funeral Services diploma at Technological University Dublin.) |
+| On-the-job training | 1-2 years | $3,000~$8,000 (Apprenticeship provided by the funeral home) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬服务文凭 | 爱尔兰高等教育机构 | 可选 | 如都柏林理工学院提供 |
-| 防腐师认证 | 爱尔兰殡葬协会 | 可选 | 需通过考试 |
-| 驾驶执照 | 爱尔兰交通部 | 必备 | 需B类驾照驾驶灵车 |
+| Driver's license | Irish Department of Transport | Required | Requires a B-class driver's license to drive a hearse |
+| Funeral Services Diploma | Irish higher education institutions | Optional | Offered by institutions such as Dublin Institute of Technology |
+| Embalmer certification | Irish Association of Funeral Directors | Optional | Requires passing an exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,800。爱尔兰殡葬业相对稳定，老龄化社会带来持续需求，但岗位增长平稳，竞争适中。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,800. The Irish funeral industry is relatively stable, with an aging society generating ongoing demand, but job growth is steady and competition moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$55,000 | Annual pre-tax salary |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助手晋升为防腐师或殡仪总监，拥有经验后可自主创业开办殡仪馆。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
+
+Can progress from assistant to embalmer or funeral director; with experience, can start their own funeral home.
+
+**Tasks most exposed to AI:**
+
+- Write and edit draft eulogies and obituaries
+- Administrative tasks for scheduling funerals, booking venues, and coordinating suppliers
+- Creating and managing digital memorial pages or videos for the deceased
+- Basic customer inquiries and FAQ responses
+- Filing and records management
+
+**Where AI augments the role:**
+
+- Personalise funeral ceremonies with AI tools (e.g., music, image generation)
+- Optimize communication strategies with families using sentiment analysis
+- Utilizing VR/AR technology to create immersive farewell experiences
+- Automatically generate compliance documents and reports, reducing paperwork burden
+- Data-driven prediction of service demand to optimize resource scheduling
+
+**Human moat:**
+
+- In-person emotional support and empathetic communication
+- On-the-spot adaptability to handle emergencies
+- Deep understanding of cultural, religious, and family traditions
+- Authority in leading ceremonies and organizing on-site processes
+- Ability to build long-term trust relationships
+
+**Skills to build:**
+
+- Learn to use AI-assisted writing and design tools (e.g., ChatGPT, Canva)
+- Master basic data analysis (e.g., Excel, Power BI) to optimize operations
+- Enhance digital marketing skills (social media, SEO)
+- Learning VR/AR content creation tools
+- Enhanced qualifications in psychological counseling and grief therapy
+- Familiarity with Australian funeral regulations and compliance automation software
+
+**Key growth areas:**
 
 - Stable demand
 - Aging population
@@ -64,65 +100,67 @@ Responsible for funeral arrangements, embalming and body preparation, and funera
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达一般水平1.5倍，此职业通常不符合 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires employer sponsorship, annual salary threshold approximately 30,000 euros |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with annual salary at least 1.5 times the average; this occupation typically does not qualify |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Undertaker and Embalmer？**
-- 注重细节、有同理心的人
-- 希望在稳定行业工作的人
-- 愿意处理敏感事务的人
+**Who is suited**
+- Detail-oriented and empathetic people
+- Those who want to work in a stable industry
+- people willing to handle sensitive matters
 
-**谁不适合学Undertaker and Embalmer？**
-- 对死亡和体液感到不适的人
-- 抗压能力弱的人
+**Who is not suited**
+- People uncomfortable with death and bodily fluids.
+- People with low stress tolerance
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an Irish funeral director?**
+A: Junior: approximately 24,000–30,000 euros; intermediate: 30,000–40,000 euros; senior: 40,000–55,000 euros.
+
+**Q: Can foreigners immigrate to Ireland through this occupation?**
+A: This occupation is not on the critical skills occupation list and requires a general employment permit; employers must prove they cannot find local workers.
+
+**Q: What training is required to become a funeral director?**
+A: Usually requires a funeral service diploma or apprenticeship plus embalmer certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Undertaker and Embalmer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for undertakers in Ireland?**
-答：Entry-level around €24,000-€30,000, mid-level €30,000-€40,000, senior €40,000-€55,000.
-
-**问：Can foreigners immigrate through this occupation?**
-答：This occupation is not on the Critical Skills list; a General Employment Permit requires labor market test.
-
-**问：What training is required to become an undertaker?**
-答：Typically a diploma in funeral services or apprenticeship, plus embalming certification.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Health Professionals Not Elsewhere Classified（Health Professionals Not Elsewhere Classified）职业分析 · IT
+# Health Professionals Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：2269 – Health Professionals Not Elsewhere Classified。**
+**Occupation code: 2269 (ISCO08)**
 
-Covers health professionals not elsewhere classified, including dietitians, audiologists, speech therapists, etc., primarily working in Italian healthcare facilities, clinics, and rehabilitation centers.
+Covers health professionals not classified elsewhere, including dietitians, audiologists, speech therapists, etc., mainly working in Italian healthcare facilities, clinics, and rehabilitation centers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $500~$3,000（公立大学学费低，私立较高） |
-| 硕士 | 2年 | $1,000~$6,000（ specialization required for some roles） |
+| Bachelor's degree | 3 years | $500~$3,000 (Public universities have low tuition; private ones are higher) |
+| Master's degree | 2 years | $1,000~$6,000 ( specialization required for some roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册健康专业资格 | 意大利卫生部 | 必备 | 通过国家考试后注册 |
-| 特定专业认证 | 相关专业协会 | 可选 | 如营养师协会（ANDID） |
+| Registered health professional qualification. | Italian Ministry of Health | Required | Register after passing national exams |
+| Specific professional certification | Relevant professional associations | Optional | such as Dietitians Australia (ANDID) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 50,000。意大利老龄化社会推动健康服务需求增长，政府持续增加医疗预算，预计就业稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 50,000. Italy's aging population drives growth in health service demand, with the government continuously increasing healthcare budgets, and employment is expected to rise steadily.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公立医院起薪 |
-| 中级（4-7年） | $30,000~$40,000 | 含专科经验 |
-| 高级（8年以上） | $40,000~$55,000 | 主管或专家级 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary in public hospitals. |
+| Mid-level (4-7 years) | $30,000~$40,000 | Including associate degree experience |
+| Senior (8+ years) | $40,000~$55,000 | Supervisor or expert level |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可通过继续教育专精领域（如老年康复、儿科营养）晋升为高级专家或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation has a complex impact on this occupation: some diagnostic and clerical tasks can be replaced, but human judgment, communication, and complex treatments remain a moat; opportunities and risks coexist.
+
+Can advance to senior expert or management roles through continuing education specialisations (e.g., geriatric rehabilitation, paediatric nutrition).
+
+**Tasks most exposed to AI:**
+
+- Automatically generate nutrition assessment reports and meal plans
+- Preliminary analysis and classification of hearing test results
+- Standard pronunciation practice and feedback in speech therapy
+- Medical documentation organisation and medical summary generation
+- Preliminary screening and sorting of some diagnostic information
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve accuracy of hearing and speech disorder identification
+- Smart nutrition analysis platform optimizes personalized dietary plans
+- Voice synthesis and recognition technology enhances language therapy interaction.
+- AI-driven dynamic adjustment of rehabilitation plans
+- Big data analytics supports epidemiology and efficacy studies
+
+**Human moat:**
+
+- Clinical judgment and comprehensive decision-making for complex cases
+- Patient Emotional Support and Human Care
+- Multidisciplinary team coordination and communication
+- Personalized adjustment of treatment plans and ethical judgment
+- Flexibility to handle unexpected situations
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Health data analysis and statistics
+- Digital health platforms and telemedicine applications
+- Interdisciplinary Collaboration and Communication Skills
+- Ethics and privacy protection knowledge
+- Continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Home care expansion
@@ -61,68 +97,67 @@ Covers health professionals not elsewhere classified, including dietitians, audi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟专业人员，年薪门槛约24,000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于紧缺职业。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可，需雇主担保并经劳工部批准。 |
+| Subclass EU Blue Card (EU Blue Card) | For skilled non-EU professionals, with an annual salary threshold of approximately 24,000 euros. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for skilled occupations. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit requires employer sponsorship and approval from the labor department. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health Professionals Not Elsewhere Classified？**
-- 有医疗健康背景者
-- 善于沟通和患者关怀者
-- 想在意大利定居者
-
-**谁不适合学Health Professionals Not Elsewhere Classified？**
-- 不喜欢直接患者接触者
-- 抗压能力弱者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a healthcare/medical background
+- Strong communication and patient care skills
+- Those wishing to settle in Italy
+
+**Who is not suited**
+- Those who dislike direct patient contact
+- Those with low stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for health professionals in Italy?**
+A: Entry-level annual salary approx. €24,000-30,000, senior up to €55,000; stable in public hospitals but higher in private.
+
+**Q: How can non-EU nationals obtain an Italian work visa?**
+A: It is possible through the EU Blue Card (high salary) or Decreto Flussi quota visa, requiring employer sponsorship.
+
+**Q: What qualifications are required?**
+A: Must pass national examinations and register with the Ministry of Health; specific fields require additional professional certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Health Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for health professionals in Italy?**
-答：Entry-level annual salary is about 24,000-30,000 EUR, senior up to 55,000 EUR; public hospitals are stable while private ones pay more.
-
-**问：How can non-EU nationals obtain a work visa for Italy?**
-答：Via EU Blue Card (high salary) or Decreto Flussi quota visa, requiring employer sponsorship.
-
-**问：What qualifications are required?**
-答：Must pass a national exam and register with the Ministry of Health; additional professional certifications may be needed for specific fields.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

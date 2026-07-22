@@ -1,59 +1,95 @@
-# Technical and Medical Sales Professionals (except ICT)（Technical and Medical Sales Professionals (except ICT)）职业分析 · ES
+# Technical and Medical Sales Professionals (except ICT) — career analysis · Spain
 
-**职业代码：2640 – Technical and Medical Sales Professionals (except ICT)。**
+**Occupation code: 2640 (CNO)**
 
-Promote and sell technical equipment, medical products, and pharmaceuticals to hospitals, clinics, and industrial clients, combining product expertise with commercial negotiation.
+Responsible for promoting and selling technical equipment, medical products, and pharmaceuticals, and establishing long-term cooperative relationships with hospitals, clinics, and industrial clients. You need to understand both product knowledge and business negotiation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,500~$6,000（公立大学年均学费） |
-| 职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立FP年均学费） |
+| Undergraduate (Grado) | 4 years | $1,500~$6,000 (Average annual tuition at public universities) |
+| Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Annual tuition for public FPs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药学/生物医学/工程学位 | 西班牙教育部认可大学 | 可选 | 通常要求相关领域本科学位 |
-| 销售培训或认证 | 如ESIC/IE等商学院 | 可选 | 非强制，但显著提升竞争力 |
-| 驾驶执照（B类） | 交通局DGT | 必备 | 因频繁出差，基本要求 |
+| Driver's license (Class B) | Transportation Department DGT | Required | Due to frequent business trips, basic requirements are required |
+| Degrees in Pharmacy/Biomedical/Engineering | The Spanish Ministry of Education accredits the university | Optional | A bachelor's degree in a relevant field is usually required |
+| Sales training or certification | Such as ESIC/IE business schools | Optional | Not mandatory, but significantly enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙医药与技术销售受人口老龄化和医疗创新驱动，需求稳定。2024年就业预计增长约3%，制药和医疗器械领域尤强。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Sales of Spain's pharmaceuticals and technology are driven by population aging and medical innovation, with stable demand. Employment is expected to grow by about 3% in 2024, especially in the pharmaceutical and medical device sectors.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 含佣金 |
-| 中级（3-8年） | $35,000~$50,000 | 含佣金 |
-| 高级（8年以上） | $50,000~$80,000 | 含佣金及奖金 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Including commission |
+| Mid-level (3–8 years) | $35,000~$50,000 | Including commission |
+| Senior (8+ years) | $50,000~$80,000 | Includes commission and bonuses |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 常见晋升路径：区域销售经理→全国销售经理→销售总监。也可转向产品管理或市场营销。持续培训与行业认证（如MBA）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Common promotion paths: Regional Sales Manager→ National Sales Manager→ Sales Director. It can also be shifted to product management or marketing. Ongoing training and industry certifications (such as an MBA) help with promotion.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - Pharmaceutical sales
 - Medical devices
@@ -62,68 +98,67 @@ Promote and sell technical equipment, medical products, and pharmaceuticals to h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，年薪门槛约€33,908（2024），需本科+工作合同，快速家庭团聚。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高学历/高年薪专业人才，简化流程，年薪通常≥€40,000，可转永居。 |
-| Subclass Cuenta ajena（Work Permit for Employed Persons） | 常规受雇工作居留，需雇主担保，劳动市场测试豁免于紧缺职业。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, with an annual salary threshold of about €33,908 (2024), requires a bachelor's degree + work contract, and allows for quick family reunification. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly educated/high-salary professionals, the process is simplified, with annual salaries usually ≥ €40,000, allowing for permanent residency conversion. |
+| Subclass Cuenta ajena (Work Permit for Employed Persons) | Regular employment residency requires employer sponsorship, and labor market tests exempt from shortage occupations. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical and Medical Sales Professionals (except ICT)？**
-- 具有良好的沟通与谈判能力的人
-- 对技术或医疗产品有浓厚兴趣，乐于学习产品知识
-- 能适应频繁出差与业绩压力
-
-**谁不适合学Technical and Medical Sales Professionals (except ICT)？**
-- 不擅长社交或独立工作的人
-- 对销售指标压力敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with good communication and negotiation skills
+- Strong interest in technology or medical products and eager to learn about them
+- Able to adapt to frequent business trips and performance pressures
+
+**Who is not suited**
+- People who are not good at socializing or working independently
+- People sensitive to sales target pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for technical and medical sales?**
+A: Entry-level is about €28k-35k, intermediate €35k-50k, and advanced can exceed €80k, including commission.
+
+**Q: Can foreigners engage in this profession? What visa is required?**
+A: Yes, you can. Shortage occupations can be applied for through the EU Blue Card (annual salary ≥€33,908) or the Skilled Worker visa (annual salary ≥€40k). Bachelor's degree + Spanish employer contract required.
+
+**Q: What qualifications are required?**
+A: Typically, a bachelor's degree in a related field (pharmacy, engineering, etc.) is required, but FP (Advanced Vocational Training) combined with experience can also be used to enter the field.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Technical and Medical Sales Professionals (except ICT)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for technical and medical sales?**
-答：Entry-level ranges €28k-35k, mid-level €35k-50k, senior can exceed €80k, including commissions.
-
-**问：Can foreigners work in this occupation? What visa is needed?**
-答：Yes, it is a shortage occupation. Eligible for EU Blue Card (salary ≥€33,908) or Highly Qualified Professional visa (salary ≥€40k). Requires bachelor's degree and Spanish job offer.
-
-**问：What education is required?**
-答：Typically a bachelor's degree in a relevant field (pharmacy, engineering, etc.), but FP (advanced vocational training) with experience may suffice.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

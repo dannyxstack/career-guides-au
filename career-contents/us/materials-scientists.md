@@ -1,58 +1,92 @@
-# Materials Scientists（Materials Scientists）职业分析 · 美国
+# Materials Scientists — career analysis · United States
 
-**职业代码：19-2032 – Materials Scientists。**
+**Occupation code: 19-2032 (SOC)**
 
-Materials scientists research the structure and properties of natural and synthetic materials, developing new materials for electronics, aerospace, medical devices, and more.
+Materials scientists study the structure and properties of natural and synthetic materials, developing new materials for applications in electronics, aerospace, medical devices, and more.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$150,000（公立大学学费约4-5万/年；私立大学最高约15万/年） |
-| 博士 | 5-6年 | —（通常全额奖学金覆盖学费并发放生活津贴） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities tuition approx AUD 40,000-50,000/year; private universities up to AUD 150,000/year.) |
+| Doctorate | 5-6 years. | $0~$0 (Typically full scholarships cover tuition and provide a living stipend) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 材料科学或相关领域博士学位 | 大学 | 必备 | 多数研发岗位要求博士学历 |
-| 工程师执照 (可选) | 州工程委员会 | 可选 | 工业界某些高级职位可能需要PE执照 |
+| PhD in materials science or related field | University | Required | most R&D positions require a PhD |
+| Engineer license (optional) | State engineering board | Optional | Some senior positions in industry may require a PE license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,500。美国材料科学家就业预计增长7%（2022-2032），受先进制造业、纳米技术和可再生能源研发推动。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 6,500. U.S. materials scientist employment projected to grow 7% (2022-2032), driven by advanced manufacturing, nanotechnology, and renewable energy R&D.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 博士后或初级研发科学家 |
-| 中级（3-10年） | $85,000~$120,000 | 研究科学家/项目经理 |
-| 高级（10年以上） | $120,000~$160,000 | 首席科学家/研发总监 |
+| Median salary | $117,790 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Postdoctoral or entry-level R&D scientist |
+| Intermediate (3-10 years) | $85,000~$120,000 | Research Scientist/Project Manager |
+| Senior (10+ years) | $120,000~$160,000 | Chief Scientist/R&D Director |
+| average salary | $126,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★★☆）。** 职业晋升路径：研究科学家→高级研究员→首席科学家/研发总监；或转向项目管理、技术咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on materials scientists is mixed: data analysis and simulation predictions will be automated, but experimental design, interdisciplinary innovation, and physical intuition remain core human strengths.
+
+Career progression path: Research Scientist → Senior Researcher → Chief Scientist/R&D Director; or transition to project management, technical consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatic search and matching of material property databases
+- Performance prediction based on known data (e.g., density functional theory calculations)
+- Automatic generation of lab reports and anomaly detection
+- Literature review and knowledge graph construction
+- Automated execution of standard repetitive tests (e.g., tensile, hardness testing)
+
+**Where AI augments the role:**
+
+- AI accelerates materials discovery: generative models design new alloy/polymer candidates
+- Machine learning optimizes experimental parameters (e.g., temperature, pressure, ratio)
+- Self-driving labs assist high-throughput screening
+- Natural language processing tools assist cross-field literature interpretation and patent analysis
+- Computer vision analysis of microstructure images (SEM/TEM)
+
+**Human moat:**
+
+- Establish new theoretical models to explain anomalous experimental phenomena
+- Creatively combining material properties with end-use application needs (e.g., biodegradable medical devices)
+- Processing unstructured, small-sample, or noisy experimental data
+- Communication and systems thinking in interdisciplinary collaboration (with biology, electronics, mechanical engineering)
+
+**Skills to build:**
+
+- Python/R data science and machine learning (scikit-learn, PyTorch)
+- Density functional theory (DFT) and molecular dynamics simulations (VASP, LAMMPS)
+- Lab automation and robotic operation (e.g., Chemputer platform)
+- Materials informatics and databases (Materials Project)
+- Generative AI (e.g., GPT-4 for experiment design, generative models for new material prediction)
+
+**Key growth areas:**
 
 - Advanced materials
 - Nanotechnology
@@ -61,68 +95,67 @@ Materials scientists research the structure and properties of natural and synthe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 最常见工作签证，需本科学位及以上，有配额限制和抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士及以上或学士+5年经验，通常需PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适用于杰出人才，无配额限制，需证明非凡能力 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Most common work visa, requires bachelor's degree or higher, with quota limits and lottery |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or bachelor's + 5 years experience; usually needs PERM labor certification. |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | Applicable to individuals with extraordinary ability, no quota limits, must demonstrate exceptional competence |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Materials Scientists？**
-- 对材料微观结构和性能有好奇心的人
-- 喜欢实验室研究和跨学科合作的人
-- 愿意攻读博士学位并从事研发工作的人
-
-**谁不适合学Materials Scientists？**
-- 不喜欢长时间实验和数据分析的人
-- 不愿接受多年学术训练的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People curious about material microstructure and properties.
+- Those who enjoy laboratory research and interdisciplinary collaboration
+- People willing to pursue a PhD and engage in R&D work
+
+**Who is not suited**
+- Those who dislike long hours of experimentation and data analysis
+- Those unwilling to undergo years of academic training
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a materials scientist?**
+A: According to BLS, the median annual salary in 2023 was about USD 100,000, varying by experience, industry (e.g., semiconductors, aerospace), and location.
+
+**Q: What are the main pathways for a materials scientist to immigrate to the US?**
+A: Common pathway: H-1B work visa (requires employer sponsorship) → EB-2/EB-3 green card (PERM labor certification). Also can apply for O-1 extraordinary ability visa.
+
+**Q: What education background does a materials scientist need?**
+A: Most R&D roles require a PhD in materials science or related engineering field; bachelor's or master's degrees usually only lead to technician or assistant positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 积极（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Materials Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for materials scientists?**
-答：According to BLS, median annual salary in 2023 is about $100,000, varying by experience, industry (e.g., semiconductors, aerospace), and location.
-
-**问：What are the main immigration pathways for materials scientists to the US?**
-答：Common path: H-1B visa (employer sponsorship) → EB-2/EB-3 green card (PERM). O-1 visa for extraordinary ability is also an option.
-
-**问：What education is required to become a materials scientist?**
-答：Most R&D positions require a PhD in materials science or related engineering field; bachelor's or master's typically lead to technician or assistant roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

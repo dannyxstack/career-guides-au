@@ -1,60 +1,93 @@
-# Coil Winders, Tapers, and Finishers（Coil Winders, Tapers, and Finishers）职业分析 · 美国
+# Coil Winders, Tapers, and Finishers — career analysis · United States
 
-**职业代码：51-2021 – Coil Winders, Tapers, and Finishers。**
+**Occupation code: 51-2021 (SOC)**
 
-Wind wire coils used in electrical components such as resistors and transformers, and in electrical equipment like motors and generators, including insulating and finishing.
+Operate winding machines or manually wind wire coils for electrical equipment such as resistors, transformers, motors, and perform insulation treatment or finishing.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中或同等学历 | 4年 | —（公立高中免费） |
-| 职业培训或学徒 | 1-2年 | $5,000~$15,000（社区学院或技术学校费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training or apprenticeship | 1-2 years | $5,000~$15,000 (Community college or technical school fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 高中 | 必备 | 基本要求 |
-| 在职培训证书 | 雇主 | 可选 | 通常由雇主提供 |
+| High school diploma | High school | Required | Basic requirements |
+| On-the-job training certificate | Employer | Optional | Typically provided by employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。美国就业前景稳定，年均增长约1%，受制造业回流和电气设备需求支撑。自动化和外包可能限制岗位增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. US employment outlook stable, with average annual growth of about 1%, supported by manufacturing reshoring and demand for electrical equipment. Automation and outsourcing may limit job growth.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级薪资 |
-| 中级（3-6年） | $36,000~$45,000 | 有经验技工薪资 |
-| 高级（6年以上） | $45,000~$55,000 | 资深技工或主管薪资 |
+| Median salary | $48,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level salary |
+| Mid-level (3–6 years) | $36,000~$45,000 | Experienced tradesperson salary |
+| Senior (6+ years) | $45,000~$55,000 | Senior technician or supervisor salary |
+| average salary | $50,470 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 可从初级绕线工晋升为高级技工或班组长；积累经验后可转向技术员或质量控制岗位；部分进入工程支持领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Coil winders face high automation risk; AI and robots will replace most repetitive winding and inspection tasks, but complex customization, fault diagnosis, and on-site repair still offer human opportunities.
+
+Can advance from entry-level winder to senior technician or team leader; with experience, can transition to technician or quality control roles; some enter engineering support fields.
+
+**Tasks most exposed to AI:**
+
+- Automatically routes and winds coils to specifications, no manual operation needed
+- Use vision systems to automatically detect coil turns, resistance, and insulation integrity
+- Automatic spraying, dipping, drying and other insulation treatment processes.
+- Repetitive tasks like cutting, stripping, and terminal crimping of coils
+
+**Where AI augments the role:**
+
+- AI-assisted design optimizes coil parameters to improve efficiency and quality
+- Machine vision for real-time monitoring of winding quality to reduce defect rates
+- Automatic production scheduling system intelligently schedules production based on order priority and material inventory.
+- Predictive maintenance system analyzes winding machine operational data to predict faults early
+
+**Human moat:**
+
+- Handling process adjustments and fine-tuning for non-standard, small-batch, complex coils
+- On-site diagnosis and repair of automated winding equipment, troubleshooting sudden failures
+- Requires hand-finished winding of irregular coils or special materials.
+- Comprehensive service skills including communicating technical solutions with clients, on-site installation and debugging
+
+**Skills to build:**
+
+- Programming and operation of automated winding equipment
+- Basic industrial robot maintenance and debugging
+- PLC and basic electrical control knowledge.
+- Ability to use Manufacturing Execution Systems (MES)
+- Quality data analysis and SPC tool application.
+- Communication and customer service skills (B2B)
+
+**Key growth areas:**
 
 - Manufacturing
 - Electrical equipment
@@ -63,66 +96,68 @@ Wind wire coils used in electrical components such as resistors and transformers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不要求学士学位，但特殊情况下可申请 |
-| Subclass EB-3（EB-3 Skilled Workers） | 较少见，需雇主担保且证明劳工短缺 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需雇主申请劳工证，但该类职业通常无法通过 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable as this occupation does not require a bachelor's degree, but may apply in special cases |
+| Subclass EB-3 (EB-3 Skilled Workers) | Rare, requires employer sponsorship and proof of labour shortage |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must apply for labor certification, but this occupation is typically not available |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coil Winders, Tapers, and Finishers？**
-- 喜欢动手操作和重复性工作的人
-- 注重细节和精度的人
-- 寻求稳定制造业工作的人
+**Who is suited**
+- people who enjoy hands-on and repetitive work
+- Detail-oriented and precise individuals
+- People seeking stable manufacturing jobs
 
-**谁不适合学Coil Winders, Tapers, and Finishers？**
-- 不喜欢重复劳动的人
-- 期望高薪或快速发展的人
+**Who is not suited**
+- People who dislike repetitive work
+- Those seeking high salary or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of coil winders in the US?**
+A: Median annual salary approx. $38,000; entry-level approx. $28,000; senior up to $55,000; varies significantly by region.
+
+**Q: Can coil winders immigrate to the US with a work visa?**
+A: Very difficult; this occupation usually does not meet H-1B education requirements, and employer-sponsored green cards require proof of labor shortage, with very few success cases.
+
+**Q: What is the future demand for this occupation?**
+A: Demand stable but slow growth, affected by automation and outsourcing, with limited positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Coil Winders, Tapers, and Finishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of coil winders in the US?**
-答：Median annual wage is about $38,000; entry-level around $28,000; experienced up to $55,000, varying by region.
-
-**问：Can coil winders immigrate to the US via work visa?**
-答：Very difficult; the occupation usually does not meet H-1B degree requirements, and employer-sponsored green cards require labor certification, with few success cases.
-
-**问：What is the future demand for this occupation?**
-答：Stable but slow growth, affected by automation and outsourcing, with limited job openings.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Behaviour Support Practitioner（Behaviour Support Practitioner）职业分析 · 新西兰
+# Behaviour Support Practitioner — career analysis · New Zealand
 
-**职业代码：272615 – Behaviour Support Practitioner。**
+**Occupation code: 272615 (ANZSCO)**
 
-Behaviour Support Practitioners design and implement positive behaviour support plans for individuals with disabilities. In NZ, demand is growing but it's not a core skilled migration occupation, typically accessible via Accredited Employer Work Visa (AEWV).
+Behavior support practitioners develop and implement positive behavior support plans for people with disabilities, belonging to the healthcare field. Demand for this occupation is growing in New Zealand, but it is not a core occupation for skilled migration; typically only accessible through the Accredited Employer Work Visa (AEWV) pathway.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 心理学或相关领域本科 | 3年 | $30,000~$50,000（大学学费，国际学生更高） |
-| 行为支持研究生文凭 | 1年 | $15,000~$30,000（理工学院或大学课程） |
+| Bachelor's degree in psychology or related field | 3 years | $30,000~$50,000 (University tuition, higher for international students) |
+| Graduate Diploma in Behaviour Support | 1 year | $15,000~$30,000 (Polytechnic or university courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册行为分析师（BCBA） | 行为分析师认证委员会（BACB） | 可选 | 非强制但提升竞争力 |
-| 新西兰残障支持从业者登记 | 新西兰残障支持认证机构 | 必备 | 雇主通常要求 |
+| New Zealand Disability Support Practitioner Register | New Zealand Disability Support Certification Body | Required | Employers typically require |
+| Board Certified Behavior Analyst (BCBA) | Behavior Analyst Certification Board (BACB) | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。随着新西兰对残障服务需求增加，行为支持师就业前景良好，尤其在社区和家庭支持领域。政府推动的残障战略可能带来更多岗位，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. As demand for disability services increases in New Zealand, the job outlook for behavioral support practitioners is strong, especially in community and home support. The government's disability strategy may create more positions, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪约$55k-$70k |
-| 中级（3-6年） | $70,000~$90,000 | 经验增加，薪资上升 |
-| 高级（6年以上） | $90,000~$110,000 | 管理或独立执业可达$110k以上 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary approximately $55k-$70k |
+| Mid-level (3–6 years) | $70,000~$90,000 | Experience increases, salary rises |
+| Senior (6+ years) | $90,000~$110,000 | Management or independent practice can reach over $110,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级行为支持师可成长为高级从业者或团队领导，也可转向管理、培训或独立执业。注册行为分析师证书（BCBA）可提升专业地位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of behavior support practitioners (case assessment and plan development) rely on human judgment and are hard to automate; however, documentation, data analysis, and training material generation are being efficiently taken over by AI, potentially reducing demand for junior roles. Overall outlook is mixed.
+
+Junior behavior support practitioners can advance to senior practitioners or team leaders, or transition to management, training, or independent practice. The Board Certified Behavior Analyst (BCBA) credential can enhance professional status.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating initial drafts of behavior support plans and progress reports
+- AI analyzing behavioral data and identifying trigger patterns
+- Automated Reminders for Intervention Execution via Smart Systems
+- AI-assisted NDIS billing and compliance form completion
+- Chatbot handling routine family inquiries
+
+**Where AI augments the role:**
+
+- AI analyzes patient behavior data in real time and provides intervention recommendations
+- Natural language processing assists in writing case reports and therapy notes
+- Machine learning identifies high-risk behavior patterns for early warning
+- Virtual reality simulation of behavioral scenarios for employee training
+- AI-recommended personalized intervention strategies and community resources
+
+**Human moat:**
+
+- Comprehensive assessment and diagnosis of complex behavioral cases
+- Build trust with patients, families, and multidisciplinary teams
+- Flexibly adjust interventions based on unpredictable on-site responses
+- Ethical decision-making and regulatory compliance responsibilities
+- On-the-spot judgment in empathetic communication and crisis intervention
+
+**Skills to build:**
+
+- Proficient in NDIS regulations and PBS framework
+- Data analysis and behavioral pattern recognition
+- Using AI-assisted report generation tools (e.g., customized ChatGPT)
+- Evidence-based intervention strategy research and practice
+- Cross-cultural communication and family system counseling
+- Project management and team collaboration
+
+**Key growth areas:**
 
 - Disability Support
 - Community Care
@@ -63,66 +99,68 @@ Behaviour Support Practitioners design and implement positive behaviour support 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需有认证雇主提供工作合同，并非自动移民路径。 |
-| Subclass SMC（Skilled Migrant Category） | 理论上可申请但非绿色清单，需满足6分制要求，通常需要高薪或更高学历。 |
-| Subclass Resident Visa（Resident Visa (via SMC)） | 长期居留可通过SMC，但难度较高。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an accredited employer; not an automatic immigration pathway. |
+| Subclass SMC (Skilled Migrant Category) | Theoretically eligible but not on the Green List; must meet the 6-point system, usually requiring a high salary or higher qualification. |
+| Subclass Resident Visa (Resident Visa (via SMC)) | Long-term residence is possible via SMC, but is challenging. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Behaviour Support Practitioner？**
-- 有耐心和同理心，善于沟通
-- 能应对行为挑战，抗压能力强
-- 对残障领域有热情，注重细节
+**Who is suited**
+- Patient and empathetic, good communication skills
+- Able to handle behavioral challenges and strong stress tolerance
+- Passionate about the disability field, detail-oriented.
 
-**谁不适合学Behaviour Support Practitioner？**
-- 不愿从事人际服务或面对行为问题
-- 追求快速高薪或轻松工作
+**Who is not suited**
+- Unwilling to engage in interpersonal services or face behavioral issues
+- Pursuing rapid high salary or easy work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary level for behavior support specialists in New Zealand?**
+A: Entry-level: approx. NZD 55k-70k, mid-level: 70k-90k, senior: up to 110k+. Slightly lower than Australia, but cost of living also differs.
+
+**Q: Can behavioral support workers immigrate to New Zealand?**
+A: This occupation is not on the Green List, making immigration more difficult. Main pathway is through an AEWV work visa, then attempt SMC skilled migration, but requires high salary (2x median or more) or higher qualification.
+
+**Q: What qualifications are required?**
+A: Board Certified Behavior Analyst (BCBA) recommended but not mandatory. Employers often require New Zealand disability support worker registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Behaviour Support Practitioner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Behaviour Support Practitioner in NZ?**
-答：Entry-level around NZ$55k-70k, mid NZ$70k-90k, senior up to NZ$110k+. Lower than Australia but living costs differ.
-
-**问：Can Behaviour Support Practitioners migrate to NZ?**
-答：Not on Green List, migration is difficult. Usually via AEWV, then SMC requires high salary (2x median) or advanced degree.
-
-**问：What qualifications are needed?**
-答：Board Certified Behavior Analyst (BCBA) is beneficial but not mandatory. NZ Disability Support Worker Registry often required by employers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

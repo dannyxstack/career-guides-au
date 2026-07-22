@@ -1,61 +1,97 @@
-# Model Maker（Model Maker）职业分析 · DE
+# Model Maker — career analysis · Germany
 
-**职业代码：2723 – Model Maker。**
+**Occupation code: 2723 (KldB)**
 
-Model makers create scale models, prototypes, and exhibition models from materials like wood, plastic, and metal, using hand tools or CNC machines, serving industries such as automotive, aerospace, architecture, and industrial design.
+Model makers create scale models, prototypes, or exhibition models using various materials (such as wood, plastic, metal) by hand or CNC machines based on design drawings and specifications, widely used in automotive, aerospace, architecture, and industrial design.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（职业学校+企业实习） | 3年 | —（双元制培训期间通常由企业支付津贴，学费全免，仅需少量教材费） |
-| 继续教育/技术员培训 | 2年（全职） | $5,000~$10,000（可通过IHK考试获得高级技术员资格，费用自理） |
+| Dual system training (vocational school + company internship) | 3 years | $0~$500 (During dual system training, the company typically pays an allowance, tuition is free, only a small amount is needed for materials.) |
+| Continuing education/technician training | 2 years (full-time) | $5,000~$10,000 (Can obtain senior technician qualification through IHK exam, cost borne by oneself) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 模型制作师职业培训（Ausbildung zum Modellbauer） | 德国工商会（IHK） | 必备 | 完成双元制培训并通过IHK结业考试 |
-| 高级技师证书（Meisterbrief） | IHK | 可选 | 报考高级技师需至少2年工作经验，通过考试后享有更高薪酬和带徒资格 |
-| 资质认证（Anerkennung） | 德国IHK国际化办公室 | 可选 | 海外学历/职业资格需经认证，非强制但有助于求职 |
+| Model maker vocational training (Ausbildung zum Modellbauer) | German Chamber of Commerce and Industry (IHK) | Required | Complete dual system training and pass the IHK final exam |
+| Master Craftsman Certificate (Meisterbrief) | IHK | Optional | To apply for senior technician, at least 2 years of work experience required; after passing the exam, higher salary and mentoring qualifications are available. |
+| Qualification recognition (Anerkennung) | German Chamber of Commerce (IHK) International Office | Optional | Overseas qualifications/professional certifications require assessment; not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。德国模型制作师就业前景稳定，受制造业、研发及建筑行业需求支撑。近年来3D打印和数字化技术带来新挑战，但传统手工技能在精细模型领域仍不可或缺。岗位主要集中于中小企业，大企业如车企和设计公司也有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. The employment outlook for German model makers is stable, supported by demand from manufacturing, R&D, and construction industries. Recent developments in 3D printing and digital technology bring new challenges, but traditional manual skills remain indispensable in fine model fields. Positions are mainly in SMEs, with demand also from large companies like automotive firms and design studios.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 新手入职薪资，按企业规模略有差异 |
-| 中级（4-7年） | $36,000~$45,000 | 有一定经验后薪资增长，可担任项目负责人 |
-| 高级（8年以上/技师） | $46,000~$55,000 | 高级技师或技术主管，含奖金 |
+| Median salary | $54,156 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level salary, varies slightly by company size |
+| Mid-level (4-7 years) | $36,000~$45,000 | Salary increases with experience; can serve as project lead. |
+| Senior (8+ years / technician) | $46,000~$55,000 | Senior technician or technical supervisor, including bonus |
+| average salary | $58,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级模型制作师可通过双元制培训或学徒期入门，积累经验后晋升为高级技师或项目主管。进一步可转向工业设计、原型开发或技术管理岗位。部分优秀技师可成为自雇专业人士，承接高端模型制作项目。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Model makers face a dual impact from AI and automation tools: CNC and 3D printing have compressed traditional manual positions, but AI's ability to generate rapid prototypes and optimize designs also amplifies the value of highly skilled model makers, leading to mixed career prospects.
+
+Junior model makers can enter through dual training or apprenticeships, and after gaining experience, advance to senior technician or project supervisor. Further progression can move into industrial design, prototype development, or technical management. Some top craftspeople may become self-employed professionals undertaking high-end model making projects.
+
+**Tasks most exposed to AI:**
+
+- Manual measurement and marking (AI vision + CNC machine automatic positioning)
+- Polishing and refining repetitive parts (completed by robotic automation)
+- Traditional woodworking/plastic handcrafting (rapidly replaced by 3D printing)
+- Manually draft sketches (AI generates 3D models for direct machining).
+- Simple assembly and bonding (automated assembly line)
+
+**Where AI augments the role:**
+
+- Quickly explore multiple design options using generative AI
+- AI-optimized model structure to reduce weight and save materials
+- Real-time simulation model performance in wind tunnels or stress tests.
+- Auto-generate CNC machine G-code using AI
+- AI-assisted quality inspection: automatic detection of dimensional deviations and surface defects
+
+**Human moat:**
+
+- Deep experience with material properties and processing techniques
+- Manual fine-tuning ability for complex surfaces and artistic shapes
+- Client communication and precise understanding of design intent
+- Cross-disciplinary Problem Solving (e.g., Mechatronics Integration)
+- Innovative design and non-standard prototype development
+
+**Skills to build:**
+
+- CNC Programming (G-code)
+- 3D modeling software (SolidWorks, Fusion 360)
+- 3D printing operation and post-processing
+- AI-assisted design tools (e.g., Midjourney, DALL-E)
+- Fundamentals of Materials Science (Composites, Metal Properties)
+- Python script automation (e.g., parametric modeling)
+
+**Key growth areas:**
 
 - Prototyping
 - 3D Printing
@@ -64,69 +100,68 @@ Model makers create scale models, prototypes, and exhibition models from materia
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于已完成德国认可的职业培训并与雇主签订合同的专业人士 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需证明有足够经济能力 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的机会卡，允许来德国求职（预计2024年实施） |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for Professionals Who Have Completed German Recognized Vocational Training and Have a Contract with an Employer |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment, requiring proof of sufficient financial means |
+| Subclass Chancenkarte (Opportunity Card) | A points-based opportunity card allowing job seeking in Germany (expected implementation in 2024) |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Model Maker？**
-- 对精密手工和机械操作有耐心的人
-- 注重细节并具备空间想象力的人
-- 希望在制造业或设计领域稳定就业的技术人才
-
-**谁不适合学Model Maker？**
-- 讨厌重复性工作或不喜欢体力劳动的人
-- 不擅长3D建模或CAD软件的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those patient with precision manual and mechanical operations
+- Detail-oriented with spatial imagination
+- Technical talents seeking stable employment in manufacturing or design
+
+**Who is not suited**
+- People who dislike repetitive work or physical labor
+- People not skilled in 3D modeling or CAD software
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for model makers?**
+A: The annual pre-tax salary for a model maker in Germany is about EUR 28,000 to 55,000, entry-level around EUR 30,000, senior technicians can reach over EUR 50,000. Salary is influenced by region and company size, higher in southern Germany.
+
+**Q: How can foreigners immigrate to Germany as model makers?**
+A: Must first complete a recognized vocational training in Germany (such as the dual system Ausbildung) or obtain qualification certification. Then you can apply for a skilled worker visa (Skilled Worker Visa) or an opportunity card (Chancenkarte).
+
+**Q: What education background is needed for model making?**
+A: Usually requires completing a German dual vocational training (3 years) covering woodworking, metalworking, plastic processing, etc. Alternatively, university degrees in industrial design or precision engineering can provide entry, but employers value practical experience more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Model Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for model makers?**
-答：In Germany, model makers earn an annual gross salary between €28,000 and €55,000, with entry-level around €30,000 and senior masters over €50,000. Salaries vary by region and company size, higher in southern Germany.
-
-**问：How can foreigners immigrate to Germany as a model maker?**
-答：You need to complete a recognized German vocational training (e.g., dual Ausbildung) or obtain recognition of your foreign qualification. Then apply for a Skilled Worker Visa or the Opportunity Card.
-
-**问：What educational background is needed for model making?**
-答：Typically, a German dual vocational training (3 years) in model making, covering wood, metal, and plastic working. University degrees in industrial design or precision engineering are also possible, but practical experience is key.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

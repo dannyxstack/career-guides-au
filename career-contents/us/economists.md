@@ -1,59 +1,95 @@
-# Economists（Economists）职业分析 · 美国
+# Economists — career analysis · United States
 
-**职业代码：19-3011 – Economists。**
+**Occupation code: 19-3011 (SOC)**
 
-Economists conduct research, prepare reports, or formulate plans to address economic problems related to production and distribution of goods and services or monetary and fiscal policy, using sampling techniques and econometric methods.
+Economists study economic issues related to the production and distribution of goods and services, using sampling techniques and econometric methods to collect and process economic and statistical data, providing a basis for policy making and business decisions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士学位 | 2年 | $30,000~$80,000（公立大学约3-5万，私立大学约6-8万，部分有助学金） |
-| 博士学位 | 5-6年 | —（通常全额奖学金覆盖学费+生活费） |
+| Master's degree | 2 years | $30,000~$80,000 (Public universities approximately €30,000-50,000, private universities around €60,000-80,000, some with scholarships.) |
+| Doctoral degree (PhD) | 5-6 years. | $0~$20,000 (Usually full scholarship covering tuition and living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位（经济学或相关领域） | 大学 | 必备 | 通常要求硕士或博士，尤其政府职位 |
-| 分析技能与统计软件能力 | 不适用 | 可选 | 熟练使用STATA、R、Python等 |
-| 注册（极少州要求） | 州政府 | 可选 | 少数州如俄勒冈要求经济学家注册，但通常不强制 |
+| Master's degree (economics or related field) | University | Required | Usually requires master's or PhD, especially for government positions |
+| Analytical skills and statistical software proficiency | Not applicable | Optional | Proficient in STATA, R, Python, etc. |
+| Registration (very few states require) | State government | Optional | A few states like Oregon require economists to register, but it's usually not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 17,000。美国劳工统计局预测2022-2032年就业增长约6%，与平均水平相当。需求来自公共政策、金融和咨询行业，但对硕士或博士学位的偏好限制部分入门级职位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 17,000. The US Bureau of Labor Statistics projects employment growth of about 6% from 2022 to 2032, about average. Demand comes from public policy, finance, and consulting industries, but a preference for master's or doctoral degrees limits some entry-level positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$90,000 | 硕士毕业，政府或研究机构起薪 |
-| 中级（3-7年） | $90,000~$130,000 | 有经验后进入咨询或金融行业 |
-| 高级（7年以上） | $130,000~$200,000 | 首席经济学家或高级政策顾问 |
+| Median salary | $124,720 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$90,000 | Starting salary for master's graduates in government or research institutions |
+| Mid-level (3–7 years) | $90,000~$130,000 | Move into consulting or finance after gaining experience. |
+| Senior (7+ years) | $130,000~$200,000 | Chief Economist or Senior Policy Advisor |
+| average salary | $142,130 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级职位通常需要硕士或博士学位，晋升路径包括高级经济学家、首席经济学家或经济顾问。也可转向政府机构、研究机构或金融行业的管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Entry-level positions typically require a master's or PhD. Career progression includes senior economist, chief economist, or economic advisor. May also transition to management roles in government, research, or financial sector.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Data Analysis
 - Policy Research
@@ -62,68 +98,67 @@ Economists conduct research, prepare reports, or formulate plans to address econ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 雇主担保，需硕士学位或同等经验，每年配额有限，常见于咨询和金融公司 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需要硕士学位或本科+5年经验，可通过PERM劳工认证，适合有工作经验的经济学家 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需要证明杰出能力，如著名奖项、高薪等，极少适用 |
+| Subclass H-1B (H-1B Specialty Occupations) | Employer sponsorship, requires master's degree or equivalent experience, limited annual quota, common in consulting and finance firms. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or bachelor's + 5 years of experience, eligible for PERM labor certification, suitable for experienced economists. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Requires demonstrating extraordinary ability, such as major awards or high salary, rarely applicable |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economists？**
-- 喜欢数据分析与定量研究的人
-- 对宏观/微观经济政策有浓厚兴趣的人
-- 希望在政府、金融或咨询行业发展的分析型人才
-
-**谁不适合学Economists？**
-- 不喜欢长时间处理数据和复杂模型的人
-- 追求快速晋升和短期回报的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy data analysis and quantitative research.
+- People with strong interest in macro/microeconomic policy
+- Analytical talent seeking careers in government, finance, or consulting
+
+**Who is not suited**
+- Those who dislike long hours of data processing and complex models
+- People seeking fast promotion and short-term returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for economists?**
+A: According to BLS, median annual salary in 2022 was approx. 113,940 USD. Entry-level: 60,000-90,000, mid-level: 90,000-130,000, senior: 130,000-200,000 or higher. Federal government median approx. 120,000 USD.
+
+**Q: Is it easy for economists to apply for US work visas or green cards?**
+A: Relatively easy, common H-1B and EB-2 green card paths. Requires master's degree or bachelor's + 5 years experience. Employer sponsorship is prerequisite, consulting and finance companies sponsor more.
+
+**Q: Is the job of an economist competitive?**
+A: Moderate competition. Master's degree or higher requirement filters some candidates, but top universities and PhDs still have advantages. Government positions are more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Economists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for economists?**
-答：According to BLS, median annual wage was about $113,940 in 2022. Entry-level $60k-90k, mid-level $90k-130k, senior $130k-200k+. Federal government median around $120,000.
-
-**问：Is it easy for economists to get a US work visa or green card?**
-答：Relatively easy, common H-1B and EB-2 green card paths. Requires master's degree or bachelor's + 5 years experience. Employer sponsorship is key, common in consulting and finance.
-
-**问：Is the job market competitive for economists?**
-答：Moderate competition. Master's or higher requirement filters some candidates, but advanced degrees from top schools still advantageous. Government positions more competitive.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

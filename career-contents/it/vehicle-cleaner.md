@@ -1,60 +1,96 @@
-# Vehicle Cleaner（Vehicle Cleaner）职业分析 · IT
+# Vehicle Cleaner — career analysis · Italy
 
-**职业代码：9122 – Vehicle Cleaner。**
+**Occupation code: 9122 (ISCO08)**
 
-Vehicle cleaners wash, wipe, and maintain the cleanliness of cars, trucks, buses, and other vehicles, performing interior cleaning and exterior washing using cleaning tools and equipment.
+Vehicle cleaners are responsible for washing, wiping, and maintaining vehicles such as cars, trucks, and buses, including interior cleaning and exterior washing, using cleaning tools and equipment.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训） |
-| 职业培训课程 | 数月 | $500~$2,000（如汽车清洁与美容短期课程） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
+| Vocational training courses | Several months | $500~$2,000 (e.g., short-term courses in car cleaning and detailing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 意大利交通部 | 可选 | 可能需要驾驶待清洁车辆 |
-| 健康证明 | 地方卫生局 | 必备 | 证明无传染病 |
+| Health certificate | Local Health District | Required | Proof of no infectious diseases |
+| Driver's license | Italian Ministry of Transport | Optional | May require driving the vehicle to be cleaned |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。意大利汽车保有量高，车辆清洁服务需求稳定。随着旅游业复苏和汽车租赁市场增长，预计该职业就业机会平稳，但竞争较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Italy has a high car ownership rate, with stable demand for vehicle cleaning services. With the recovery of tourism and growth in the car rental market, this occupation is expected to have stable employment opportunities but high competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪 |
-| 中级（3-7年） | $20,000~$25,000 | 税前年薪 |
-| 高级（7年以上或主管） | $25,000~$30,000 | 税前年薪 |
+| Median salary | $22,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$20,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Senior (7+ years or supervisor) | $25,000~$30,000 | Annual pre-tax salary |
+| average salary | $22,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 该职业晋升路径有限，通常从初级清洁工做起，可晋升为团队主管或自有清洁业务。积累经验后也可转向汽车美容等专业服务。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Vehicle cleaner work is highly repetitive and physically demanding; AI and automation technology (e.g., automatic car wash systems) will rapidly shrink demand for this role. Entry barriers are low but job opportunities are significantly decreasing.
+
+This occupation has limited career progression, typically starting as a junior cleaner, with potential to advance to team supervisor or start own cleaning business. With experience, one can also transition to specialized services like car detailing.
+
+**Tasks most exposed to AI:**
+
+- External cleaning: automatic car wash can complete the full process of spraying, brushing, and air drying
+- Vacuuming and garbage disposal: robot vacuums can automatically handle debris inside the car
+- Window and wheel hub cleaning: automated equipment can precisely spray cleaning agents and scrub
+- Drying and wiping: hot air drying system replaces manual wiping
+- Basic disinfection: UV or spray robots can complete carriage disinfection
+
+**Where AI augments the role:**
+
+- AI-assisted quality inspection: automatically identify uncleaned areas to improve cleaning accuracy
+- Intelligent scheduling system: optimizes cleaning schedules and workflows
+- Personalised cleaning plans: AI analyses vehicle usage records to recommend custom cleaning services
+- Remote monitoring and reporting: AI generates vehicle cleanliness status reports to enhance customer trust
+- Tool and consumable management: AI predicts demand for cleaning agents and accessories, reducing waste.
+
+**Human moat:**
+
+- Fine interior cleaning: handling special materials such as leather, fabric, and electronic screens
+- Odor treatment: requires experience to identify pollution source and choose appropriate method
+- Client communication and service: understand personalized needs and adjust cleaning methods
+- Safety and compliance: correct ratio of chemical use and waste disposal
+- Complex stain treatment: such as paint, asphalt, bloodstains, requires professional skills
+
+**Skills to build:**
+
+- Automatic car wash system operation and maintenance
+- Eco-friendly cleaning technologies (such as steam cleaning, nano-coatings)
+- Basic vehicle maintenance knowledge (e.g., checking tires, fluid levels)
+- Customer service and communication skills
+- Use of AI tools (e.g., smart detection equipment, scheduling software)
+- Time management and multitasking
+
+**Key growth areas:**
 
 - stable demand
 - car rental growth
@@ -63,61 +99,63 @@ Vehicle cleaners wash, wipe, and maintain the cleanliness of cars, trucks, buses
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟低技能工人，每年有限额，需雇主担保。 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 如开办清洁公司，需满足投资和商业计划要求。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU low-skilled workers, subject to annual caps and requires employer sponsorship. |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | To run a cleaning company, investment and business plan requirements must be met. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Vehicle Cleaner？**
-- 注重细节，有耐心，能重复劳动的人
-- 喜欢动手，不介意户外和潮湿环境的人
+**Who is suited**
+- Detail-oriented, patient, able to perform repetitive tasks
+- People who like hands-on work and don't mind outdoor and humid environments
 
-**谁不适合学Vehicle Cleaner？**
-- 希望高收入或快速晋升的人
-- 厌恶体力劳动或化学清洁剂气味的人
+**Who is not suited**
+- Those seeking high income or rapid promotion
+- People averse to physical labour or the smell of chemical cleaners
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a vehicle cleaner?**
+A: Junior annual salary approx. €16,000-20,000, mid-level €20,000-25,000, senior supervisor up to €30,000, considered low income in Italy.
+
+**Q: How can non-EU citizens immigrate to Italy through this occupation?**
+A: Typically requires employer sponsorship through the Decreto Flussi quota work visa, which has annual caps and intense competition for low-skilled positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Vehicle Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for vehicle cleaners?**
-答：Entry-level annual salary is around €16,000-20,000, mid-level €20,000-25,000, and senior supervisors up to €30,000, making it a low-income occupation in Italy.
-
-**问：How can non-EU citizens immigrate to Italy through this occupation?**
-答：Typically requires employer sponsorship via the Decreto Flussi quota work visa, which has annual caps and high competition for low-skilled positions.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Library Assistants, Clerical（Library Assistants, Clerical）职业分析 · 美国
+# Library Assistants, Clerical — career analysis · United States
 
-**职业代码：43-4121 – Library Assistants, Clerical。**
+**Occupation code: 43-4121 (SOC)**
 
-Compile records, sort, shelve, issue, and receive library materials; register patrons and assist in locating library resources.
+Responsible for daily clerical work such as cataloging, organizing, shelving, and circulation of library materials, assisting readers in finding books and electronic resources.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中或GED考试机构 | 必备 | 最低学历要求 |
-| 图书馆学副学士学位 | 社区学院 | 可选 | 部分雇主优先考虑 |
+| High school diploma or equivalent | High school or GED testing agency | Required | Minimum Education Requirement |
+| Associate degree in library science | Community college | Optional | Some employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 95,200。美国图书馆助理岗位预计增长4%，主要受公共图书馆和学校图书馆需求驱动。数字化转型可能减缓就业增速，但实体图书馆仍需要基础工作人员。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 95,200. US library assistant positions are projected to grow 4%, mainly driven by public and school library demand. Digital transformation may slow employment growth, but physical libraries still need basic staff.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$31,000 | 时薪约12-15美元 |
-| 中级（3-6年） | $31,000~$38,000 | 时薪约15-18美元 |
-| 高级（6年以上） | $38,000~$46,000 | 时薪约18-22美元 |
+| Median salary | $36,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$31,000 | Hourly wage about 12-15 USD |
+| Mid-level (3–6 years) | $31,000~$38,000 | Hourly wage about $15-$18 |
+| Senior (6+ years) | $38,000~$46,000 | Hourly wage about 18-22 USD |
+| average salary | $39,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从初级助理晋升为图书馆技术员，或通过进修获得图书馆学学位成为专业图书馆员。部分人员转向档案管理或信息管理岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Can advance from junior assistant to library technician, or pursue a library science degree to become a professional librarian. Some transition to archives management or information management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Moderate growth
 - Public libraries
@@ -63,65 +99,67 @@ Compile records, sort, shelve, issue, and receive library materials; register pa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation Worker） | 理论上可用，但此职业通常不符合H-1B专业职位要求，极少获批 |
-| Subclass EB-3（Employment-Based Third Preference） | 可尝试通过PERM申请绿卡，但需证明无法找到美国工人，成功率极低 |
+| Subclass H-1B (Specialty Occupation Worker) | Theoretically possible, but this occupation usually does not qualify for H-1B professional positions and approvals are rare |
+| Subclass EB-3 (Employment-Based Third Preference) | Can attempt to apply for a green card through PERM, but must prove inability to find US workers; success rate is extremely low |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Library Assistants, Clerical？**
-- 喜欢安静工作环境的人
-- 对图书馆服务有热情的人
-- 注重细节和组织能力的人
+**Who is suited**
+- People who prefer a quiet work environment
+- People passionate about library services
+- Detail-oriented and organized individuals.
 
-**谁不适合学Library Assistants, Clerical？**
-- 追求高收入和职业晋升的人
-- 喜欢高强度快节奏工作的人
+**Who is not suited**
+- Those pursuing high income and career advancement
+- People who enjoy high-intensity, fast-paced work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for library assistants?**
+A: Annual salary about $24,000-46,000 USD, hourly wage $12-22, considered a low-paying occupation.
+
+**Q: Can a library assistant migrate to the US through skilled migration?**
+A: Almost impossible. This occupation is not a professional H-1B role; employer-sponsored green card is extremely difficult.
+
+**Q: Does this career have growth prospects?**
+A: Limited advancement; usually need a library science degree to become a librarian.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Library Assistants, Clerical属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for library assistants?**
-答：Annual salary ranges from approximately $24,000 to $46,000, with hourly wages between $12 and $22.
-
-**问：Can library assistants immigrate to the US through skilled migration?**
-答：Nearly impossible. The occupation does not qualify as a specialty occupation for H-1B and employer-sponsored green card is extremely difficult.
-
-**问：Does this career have good prospects?**
-答：Limited advancement; typically requires a library science degree to become a librarian.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

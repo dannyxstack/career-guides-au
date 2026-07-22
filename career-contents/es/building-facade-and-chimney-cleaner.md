@@ -1,60 +1,93 @@
-# Building Facade and Chimney Cleaner（Building Facade and Chimney Cleaner）职业分析 · ES
+# Building Facade and Chimney Cleaner — career analysis · Spain
 
-**职业代码：7295 – Building Facade and Chimney Cleaner。**
+**Occupation code: 7295 (CNO)**
 
-Specializes in cleaning high-rise building facades, chimneys, and industrial facilities using high-pressure water, chemicals, and aerial work equipment.
+Specializing in cleaning and maintenance of exterior walls, chimneys, and industrial facilities of high-rise buildings, using high-pressure water guns, chemicals, and aerial work equipment.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 2年（FP Básica 或 Grado Medio） | —（公立学校免费，私人课程约600欧元） |
-| 职业培训证书 | 6个月至1年 | $200~$1,500（专门高空作业培训） |
+| Secondary Education | 2 years (FP Básica or Grado Medio) | $0~$600 (Public schools are free, and private lessons cost about 600 euros) |
+| Vocational training certificate | 6 months to 1 year | $200~$1,500 (Specialized training for high-altitude operations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业安全证书 | 私营培训机构或行业协会 | 必备 | 法律要求，涵盖绳索技术及设备使用 |
-| 工作许可证（Permiso de Trabajo） | 西班牙政府 | 必备 | 非欧盟公民必须持有 |
+| Safety certificate for working at heights | Private training institutions or industry associations | Required | Legal requirements covering rope technology and equipment usage |
+| Work permit (Permiso de Trabajo) | Spanish government | Required | Non-EU citizens must hold one |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,200。西班牙旅游业和建筑业复苏带动清洁需求增长，但高空作业岗位有限，竞争中等。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,200. The recovery of Spain's tourism and construction industries has driven increased demand for cleaning, but aerial work positions are limited and competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，含加班可能更高 |
-| 中级（3-6年） | $24,000~$28,000 | 持有专业证书者薪资偏高 |
-| 高级（6年以上） | $28,000~$35,000 | 团队领导或自雇承包商收入更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, including overtime, may be higher |
+| Mid-level (3–6 years) | $24,000~$28,000 | Professional certificate holders earn higher salaries |
+| Senior (6+ years) | $28,000~$35,000 | Team leaders or self-employed contractors earn higher incomes |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助手晋升为团队组长或独立承包商，也可转型至建筑维护或特种清洁领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not directly replace high-altitude work, but will use intelligent dispatch, automated inspection tools, and remote monitoring systems to compress the demand for low-skilled cleaners, retaining only high-value positions such as complex facade maintenance.
+
+You can be promoted from assistant to team leader or independent contractor, or transition to building maintenance or specialized cleaning.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition automatically detects stains and cracks, replacing manual visual inspection
+- The AI scheduling system automatically plans cleaning routes and optimizes the high-pressure water jet operation sequence
+- Remote monitoring and diagnostic systems replace some on-site safety monitoring personnel
+- Robots or drones automatically perform simple facade washing tasks
+
+**Where AI augments the role:**
+
+- AI-assisted risk assessment in high-risk areas enhances worker safety assurance
+- AR glasses overlay architectural structural information, improving cleaning accuracy for complex chimney interiors
+- AI analyzes chemical reagent ratios and spray angles to improve cleaning efficiency
+- Real-time sensors monitor rope tension and equipment status to prevent fall accidents
+
+**Human moat:**
+
+- Physical balance and psychological resilience during high-altitude work
+- Tactile experience judgment for special materials (such as stone and glass curtain walls).
+- On-site safety emergency decision-making and interpersonal communication
+- Flexible adaptability for handling unstructured, irregular chimneys or historic building facades
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- Building Information Modeling (BIM) basics
+- Intelligent security monitoring system is used
+- Knowledge of chemical cleaning agents and environmental compliance
+- Basic data analysis and report writing
+- Client communication and project coordination
+
+**Key growth areas:**
 
 - Urban maintenance
 - Tourism recovery
@@ -63,65 +96,67 @@ Specializes in cleaning high-rise building facades, chimneys, and industrial fac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-sponsored)） | 需西班牙雇主担保，证明本地无合适劳动力，外籍工人需符合紧缺职业条件 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6个月寻找工作，但需具备资金证明 |
+| Subclass Cuenta ajena (Work Permit (Employer-sponsored)) | A Spanish employer sponsor is required, proving that there is no suitable local labor force, and foreign workers must meet the requirements for a shortage occupation |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find work, but you must provide proof of funds |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Building Facade and Chimney Cleaner？**
-- 不恐高且身体强壮的人
-- 喜欢户外体力工作的人
-- 愿意接受短期培训快速就业的人
+**Who is suited**
+- People who are not afraid of heights and are physically strong
+- People who enjoy outdoor physical work
+- People willing to undergo short-term training and get jobs quickly
 
-**谁不适合学Building Facade and Chimney Cleaner？**
-- 有严重恐高症或身体限制的人
-- 追求高薪或稳定白领职业的人
+**Who is not suited**
+- People with severe acrophobia or physical limitations
+- Those pursuing high-paying or stable white-collar careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for building exterior wall cleaners?**
+A: Entry-level approx. €18,000-€24,000, mid-level €24,000-€28,000, senior up to €35,000, with overtime and qualifications affecting income.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: Very difficult. This occupation is not considered in short supply and does not qualify for the EU Blue Card; employer sponsorship must prove that there are no available local employees.
+
+**Q: Is official academic certification required?**
+A: No university degree certification is required, but a certificate in aerial work training is required, which is usually issued by private institutions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Building Facade and Chimney Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for building facade cleaners?**
-答：Entry-level: €18k-€24k; mid-level: €24k-€28k; senior: up to €35k. Overtime and certifications affect income.
-
-**问：Can foreigners immigrate through this occupation?**
-答：Very difficult. It's not a shortage occupation; EU Blue Card not applicable. Employer must prove no local workers available.
-
-**问：Is official degree validation required?**
-答：No university degree validation needed, but a high-altitude work training certificate from a private institution is mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

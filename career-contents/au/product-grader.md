@@ -1,61 +1,93 @@
-# Product Grader（Product Grader）职业分析 · 澳大利亚
+# Product Grader — career analysis · Australia
 
-**职业代码：839312 – Product Grader。**
+**Occupation code: 839312 (ANZSCO)**
 
-Product graders inspect and sort raw materials or finished goods by size, quality, purity, or other criteria using visual checks and equipment, ensuring compliance with export or processing standards in mining, agriculture, and manufacturing sectors.
+Product graders perform visual and mechanical inspections of raw materials or finished products in mining, agriculture, and manufacturing, sorting by size, quality, purity, etc., ensuring products meet export or processing standards—a key role in supply chain quality control.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无固定年限 | —（多数雇主提供在职培训） |
-| 职业证书（三级证书） | 6个月至1年 | $3,000~$8,000（如资源加工操作三级证书） |
+| High school graduation | No fixed duration | $0~$0 (Most employers provide on-the-job training) |
+| Vocational Certificate (Certificate III) | 6 months to 1 year | $3,000~$8,000 (Such as Certificate III in Resource Processing Operations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 资源加工操作三级证书 | TAFE或注册培训机构 | 可选 | 提升就业竞争力 |
-| 安全工作执照（白卡） | 各州安全工作机构 | 必备 | 进入矿场必备 |
-| 操作设备许可证（如叉车） | 各州安全工作机构 | 可选 | 部分岗位要求 |
+| Safety work license (White Card). | State workplace safety authorities | Required | Essential for entering a mine site |
+| Certificate III in Resource Processing | TAFE or registered training organizations | Optional | Enhance employment competitiveness |
+| Operator license for equipment (e.g., forklift) | State workplace safety authorities | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。澳大利亚资源出口（如铁矿石、煤炭）和农产品出口持续增长，带动分级岗位需求。自动化虽减少部分低端分级岗位，但高精度分级仍需人工监督。偏远矿区就业机会多，流动性大。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Australia's resource exports (e.g., iron ore, coal) and agricultural exports continue to grow, driving demand for grading roles. Automation reduces some low-end grading jobs, but high-precision grading still requires human supervision. Remote mining areas offer many job opportunities with high mobility.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 含矿区津贴 |
-| 中级（3-6年） | $70,000~$90,000 | 含加班和轮班补贴 |
-| 高级（6年以上） | $90,000~$110,000 | 含主管津贴 |
+| Median salary | $73,008 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Including mine site allowance |
+| Mid-level (3–6 years) | $70,000~$90,000 | Including overtime and shift allowances |
+| Senior (6+ years) | $90,000~$110,000 | Including supervisor allowance |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从操作员做起，积累经验后可升为高级分级员、班组长或质量控制主管，也可转向实验室技术员或生产管理岗位。需掌握特定行业标准（如矿石品级、谷物等级）。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+The work of product graders will be deeply reshaped by AI visual inspection and data analysis; routine grading will be automated, but professional judgment and complex scenarios still require humans. Total positions may shrink, but demand for high-skilled talent will increase.
+
+Usually start as operators, with experience can be promoted to senior grader, team leader, or quality control supervisor, or move to lab technician or production management roles. Need to master specific industry standards (e.g., ore grades, grain grades).
+
+**Tasks most exposed to AI:**
+
+- Automatically identify product dimensions, color, surface defects, and other standard grading tasks via cameras and AI vision models
+- Using automated weighing and sorting machines to replace manual mechanical inspection
+- Automated quality scoring and statistical report generation based on historical data
+- Repetitive, standardized inspection processes, such as grading agricultural products by size
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of abnormal products, prompting manual review, improving detection accuracy
+- Real-time data feedback optimizes grading parameters, aiding human decision-making.
+- Remotely monitor multi-line grading equipment, AI warns of faults, reducing downtime
+- Integrate supply chain data; AI suggests optimal grading strategies to enhance product value
+
+**Human moat:**
+
+- Professional judgment for non-standard, complex defects, such as internal cracks or mixed blemishes
+- Flexible graded decision-making and communication under regulations and special client requirements
+- Troubleshooting and emergency response when handling automation system anomalies
+- Cross-departmental coordination to ensure grading standards align with downstream processing or export requirements
+
+**Skills to build:**
+
+- Operate and maintain automated grading equipment (sensors, vision systems)
+- Basics of data analysis, interpreting AI-generated statistical reports to improve processes
+- Quality Management System (QMS) and supply chain software use
+- Anomaly judgment and on-site decision-making ability
+- Basic knowledge of Robotic Process Automation (RPA) or the Internet of Things
+
+**Key growth areas:**
 
 - Resource sector
 - Export quality control
@@ -64,70 +96,69 @@ Product graders inspect and sort raw materials or finished goods by size, qualit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有资质的雇主提名，岗位需在相关职业清单上（如ANZSCO组别841）。 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，需获得州/领地担保，在指定偏远区域工作和生活。 |
-| Subclass 186（Employer Nomination Scheme Visa） | 雇主担保永久签证，需持有482签证并满足3年工作经验等要求。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 偏远地区指定移民协议，某些地区对分级员提供更宽松的担保要求。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires a qualified employer nomination, and the position must be on the relevant occupation list (e.g., ANZSCO group 841). |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state-sponsored temporary visa, requires nomination by a state/territory, work and live in a designated regional area. |
+| Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent visa, requires holding a 482 visa and meeting 3 years of work experience requirements. |
+| Subclass DAMA (Designated Area Migration Agreement) | Designated Area Migration Agreement, some regions offer more relaxed sponsorship requirements for graders. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product Grader？**
-- 细心、有耐心且能适应户外或矿区工作环境的人
-- 愿意在偏远地区工作和生活的人
-- 追求稳定就业且不介意重复性工作的人
-
-**谁不适合学Product Grader？**
-- 不喜欢体力劳动或户外作业的人
-- 追求高薪或快速职业晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful, patient, and able to adapt to outdoor or mining environments
+- Willing to live and work in remote areas
+- People seeking stable employment and not minding repetitive work
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- People pursuing high salary or fast career promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for product graders?**
+A: Entry-level annual salary is approximately AUD 55,000-70,000, mid-level AUD 70,000-90,000, and senior can reach AUD 90,000-110,000 (including mine allowances and overtime). Mining positions are generally higher than in cities.
+
+**Q: Can product graders apply for skilled migration?**
+A: This occupation is not common on the MLTSSL or CSOL, limiting skilled migration options. Migration is typically through employer sponsorship (482/186) or a remote area DAMA pathway, requiring employer support.
+
+**Q: What qualifications are needed to become a product grader?**
+A: Usually requires only high school graduation; most employers provide on-the-job training. Having a Certificate III in Resource Processing or a White Card for safety can increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Product Grader为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for product graders?**
-答：Entry-level salaries range from AUD 55,000 to 70,000; mid-level from 70,000 to 90,000; senior graders can earn up to 110,000 including remote area allowances and overtime.
-
-**问：Can a product grader apply for skilled migration?**
-答：This occupation is rarely on the MLTSSL or CSOL, limiting points-based migration. Employer sponsorship (482/186) or DAMA in regional areas are more feasible.
-
-**问：What qualifications are needed to become a product grader?**
-答：A high school diploma is usually sufficient, with on-the-job training. A Certificate III in Resource Processing or a White Card (safety) boosts employability.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

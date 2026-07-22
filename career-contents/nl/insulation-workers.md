@@ -1,61 +1,91 @@
-# Insulation Workers（Insulation Workers）职业分析 · NL
+# Insulation Workers — career analysis · Netherlands
 
-**职业代码：7124 – Insulation Workers。**
+**Occupation code: 7124 (ISCO08)**
 
-Install insulation materials in buildings and equipment to improve energy efficiency, reduce heat loss, and control noise.
+Responsible for installing insulation materials in buildings and equipment to improve energy efficiency and reduce heat loss and noise.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 | 2年（MBO） | $1,000~$5,000（荷兰公立MBO学费约每年€2,000，欧盟/EEA学生较低） |
-| 学徒制 | 3-4年 | —（通常带薪培训，可能需支付少量材料费） |
+| Vocational education | 2 years (MBO) | $1,000~$5,000 (Public MBO tuition in the Netherlands is around €2,000 per year, lower for EU/EEA students.) |
+| Apprenticeship | 3-4 years | $0~$1,000 (Usually includes paid training; small material fee may apply.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 绝缘工人国家认证 | SBB (Stichting Beroepsonderwijs Bedrijfsleven) | 必备 | 完成MBO课程后通过实践考试获得 |
-| VCA安全证书 | 多家认证机构 | 必备 | 建筑工地必备安全培训证书 |
-| 高空作业证 | 多家认证机构 | 可选 | 若涉及高空安装绝缘材料 |
+| National Insulation Worker Certification | SBB (Stichting Beroepsonderwijs Bedrijfsleven) | Required | Obtained through a practical exam after completing MBO courses |
+| VCA safety certificate | Multiple certification bodies | Required | Mandatory safety training certificate for construction sites |
+| Working at heights certificate | Multiple certification bodies | Optional | If involving installation of insulating materials at heights. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 8,000。荷兰建筑业稳定发展，能源改造项目增加，对绝缘工人需求持续存在。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. The Dutch construction industry is developing steadily, with increased energy retrofit projects, sustaining demand for insulation workers.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $26,000~$32,000 | 税前年薪，含假期津贴 |
-| 中级（3-5年） | $32,000~$40,000 | 税前年薪 |
-| 高级（6年以上） | $40,000~$50,000 | 税前年薪，可成为工头或专家 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $26,000~$32,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–5 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (6+ years) | $40,000~$50,000 | Pre-tax annual salary, can become a supervisor or specialist |
+| average salary | $36,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从学徒做起，积累经验后晋升为工头或项目经理，也可专注于能效咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Insulation workers face automation compression risk; AI-driven design tools and prefabricated materials will reduce on-site measurement and cutting needs, but physical tasks like installation and inspection remain hard to replace.
+
+Can start as an apprentice, progress to foreman or project manager with experience, or specialise in energy efficiency consulting.
+
+**Tasks most exposed to AI:**
+
+- Using computer-aided design (CAD) software to calculate insulation material dimensions and layout
+- material cutting by automated cutters or robots
+- Inspecting insulation layer defects using AI image recognition
+- Using drones for preliminary inspections at heights or in hazardous areas
+
+**Where AI augments the role:**
+
+- Using thermal imaging AI to quickly locate thermal bridges and air leaks in buildings, improving diagnostic efficiency.
+- Use augmented reality (AR) helmets to view hidden pipes and structures in real time to guide installation.
+- Use project management AI to optimize material procurement and construction progress.
+
+**Human moat:**
+
+- Carry out fine manual installation and sealing in complex irregular spaces (such as pipe elbows)
+- Assess on-site safety risks and adjust construction plans
+- Communicate with customers and provide customized energy-saving advice
+
+**Skills to build:**
+
+- Learn BIM (Building Information Modeling) software and CAD operations.
+- Proficiency in programming and maintenance of automated cutting equipment
+- Obtain energy audit and green building certification.
+- Participate in drone operation and thermal imaging analysis training
+- improving safety standards and scaffolding skills
+
+**Key growth areas:**
 
 - Energy efficiency
 - Renovation projects
@@ -64,69 +94,68 @@ Install insulation materials in buildings and equipment to improve energy effici
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，要求年薪门槛约€56,000（2024年），不适合此职业 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 基于工作合同，年薪需达到一定门槛（30岁以上约€5,369/月），通常不适合低技能职业 |
-| Subclass Orientation Year（Orientation Year） | 针对在荷兰完成学位的毕业生，可在一年内自由找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires an annual salary threshold of approx. €56,000 (2024), not suitable for this occupation |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Based on a work contract, annual salary must meet a certain threshold (over 30 years old approx. €5,369/month), usually not suitable for low-skilled occupations |
+| Subclass Orientation Year (Orientation Year) | Graduates who have completed a degree in the Netherlands can freely look for work within one year |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insulation Workers？**
-- 喜欢动手、体魄强健的人
-- 对建筑节能和环保有兴趣的人
-- 愿意接受户外工作和不同天气条件的人
-
-**谁不适合学Insulation Workers？**
-- 不喜欢体力劳动或高空作业的人
-- 对建筑行业缺乏兴趣的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For people who enjoy hands-on work and are physically strong
+- Those interested in building energy efficiency and environmental protection
+- Willing to work outdoors and in various weather conditions
+
+**Who is not suited**
+- People who dislike physical labour or working at heights
+- People who lack interest in the construction industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of insulation workers in the Netherlands?**
+A: Entry-level annual salary approximately €26,000-€32,000, intermediate €32,000-€40,000, senior up to €50,000, plus holiday allowance.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as insulation workers?**
+A: This occupation is not part of the high-skilled immigration category and is not eligible for the EU Blue Card or high-skilled migrant visa. Options may include an orientation year (e.g., for Dutch graduates) or family reunification.
+
+**Q: What are the promotion opportunities for insulation workers?**
+A: Can advance to foreman, project manager, or specialise in energy efficiency consulting and energy auditing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Insulation Workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for insulation workers in the Netherlands?**
-答：Entry-level annual salary approximately €26,000-€32,000, mid-level €32,000-€40,000, experienced up to €50,000, plus holiday allowance.
-
-**问：How can non-EU citizens migrate to the Netherlands as an insulation worker?**
-答：This occupation is not eligible for the EU Blue Card or Highly Skilled Migrant scheme. Possible routes include the Orientation Year (if graduated in the Netherlands) or family reunification.
-
-**问：What career advancement opportunities exist for insulation workers?**
-答：Opportunities include promotion to foreman, project manager, or specializing in energy efficiency consulting and auditing.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

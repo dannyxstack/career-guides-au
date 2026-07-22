@@ -1,59 +1,95 @@
-# Health Specialties Teachers, Postsecondary（Health Specialties Teachers, Postsecondary）职业分析 · 美国
+# Health Specialties Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1071 – Health Specialties Teachers, Postsecondary。**
+**Occupation code: 25-1071 (SOC)**
 
-Teach courses in health specialties at postsecondary institutions, such as dentistry, pharmacy, public health, and veterinary medicine, while also conducting research.
+Teach health professional courses at universities or colleges, such as dentistry, pharmacy, public health, veterinary medicine, while conducting academic research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $60,000~$120,000（含学费、生活费，公立大学平均每年3万美元，私立5万美元。） |
-| 硕士学位（需临床领域） | 2-3年 | $40,000~$80,000（部分临床健康专业教师可仅硕士加临床经验。） |
+| Doctoral degree (PhD) | 5-7 years | $60,000~$120,000 (Includes tuition and living expenses, averaging $30,000/year at public universities and $50,000/year at private ones.) |
+| Master's degree (clinical field required) | 2-3 years | $40,000~$80,000 (Some clinical health professional teachers may only need a master's degree plus clinical experience.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 美国认可大学 | 必备 | 多数岗位要求博士，如PhD、EdD或临床博士。 |
-| 专业执照（如医师执照） | 各州医学委员会 | 必备 | 教授临床课程通常需持有相应专业执照。 |
-| 教学经验 | 学术界 | 可选 | 通常要求2年以上教学或博士后经验。 |
+| Doctoral degree (PhD) | U.S. accredited universities | Required | Most positions require a doctorate, such as PhD, EdD, or clinical doctorate. |
+| Professional license (e.g., medical license) | State Medical Boards | Required | Teaching clinical courses usually requires holding a relevant professional license. |
+| Teaching experience | Academia | Optional | Typically requires 2+ years of teaching or postdoctoral experience. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 193,400。美国劳工统计局预计2023-2033年该职业就业增长约12%，快于平均水平，受健康领域扩张和退休人员更替驱动。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 193,400. The U.S. Bureau of Labor Statistics projects about 12% employment growth for this occupation from 2023-2033, faster than average, driven by health sector expansion and replacement of retirees.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授，0-5年） | $65,000~$90,000 | 9个月合同，暑期可额外收入。 |
-| 中级（副教授，5-15年） | $90,000~$130,000 | 包括研究资助和临床收入。 |
-| 高级（正教授，15年以上） | $130,000~$200,000 | 顶尖医学院可达25万以上。 |
+| Median salary | $107,310 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (Assistant Professor, 0-5 years). | $65,000~$90,000 | 9-month contract, with additional income possible in summer. |
+| Intermediate (Associate Professor, 5-15 years) | $90,000~$130,000 | Includes research grants and clinical income. |
+| Senior (full professor, 15+ years) | $130,000~$200,000 | Top medical schools can exceed 250,000. |
+| average salary | $147,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从助理教授开始，逐步晋升为副教授、正教授，最终可能成为系主任或院长。需持续发表研究、争取资助。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Typically starts as assistant professor, then progresses to associate professor, full professor, and eventually department chair or dean. Requires continuous research and grant funding.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare expansion
@@ -62,69 +98,68 @@ Teach courses in health specialties at postsecondary institutions, such as denti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见的工作签证，需雇主担保，有配额限制，大学免抽签。 |
-| Subclass EB-2（Employment-Based Second Preference） | 针对高等学位或杰出能力，通常需PERM劳工证，大学可申请国家利益豁免。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合杰出研究人员，无需抽签，需证明国际认可。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 用于EB-2/EB-3，需证明无合适美国工人，大学通常支持。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common work visa, requires employer sponsorship, has quota limits, universities exempt from lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | For advanced degrees or exceptional ability, usually requires PERM labor certification; universities can apply for National Interest Waiver. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for outstanding researchers; no lottery required; must demonstrate international recognition. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Used for EB-2/EB-3, requires proof that no qualified US workers are available, universities usually support. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health Specialties Teachers, Postsecondary？**
-- 拥有健康领域博士学位的学术人才
-- 热爱教学与研究，愿意从事终身教职
-- 能够平衡临床、教学与科研的多面手
-
-**谁不适合学Health Specialties Teachers, Postsecondary？**
-- 只愿做临床应用而非教学研究者
-- 不喜欢学术出版与资金申请压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Academic talent with a PhD in health fields
+- Passionate about teaching and research, willing to pursue a tenure-track position
+- Able to balance clinical, teaching, and research duties as a multifaceted professional.
+
+**Who is not suited**
+- Only interested in clinical application, not academic research or teaching
+- Dislike the pressure of academic publishing and grant applications
+
+---
+
+## 8. FAQ
+
+**Q: Does health professional teacher salary include clinical practice income?**
+A: Some medical school faculty can earn additional income from clinical practice, but teaching contracts typically cover only 9 months of salary.
+
+**Q: How can foreigners become health specialty teachers in the U.S.?**
+A: Usually requires H-1B visa to work at universities, which are cap-exempt. Then apply for green card through EB-2 (National Interest Waiver) or PERM.
+
+**Q: Is a PhD required?**
+A: Most research universities require a PhD, but community colleges or clinical programs may accept a master's plus extensive experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Health Specialties Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does the salary include clinical practice income?**
-答：Some medical faculty may earn additional income from clinical practice, but teaching contracts typically cover 9-month salary only.
-
-**问：How can a foreigner become a health specialties teacher in the US?**
-答：Typically via H-1B visa (cap-exempt for universities), then EB-2 NIW or PERM for green card.
-
-**问：Is a PhD mandatory?**
-答：Most research universities require a PhD, but community colleges or clinical programs may accept a master's with experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

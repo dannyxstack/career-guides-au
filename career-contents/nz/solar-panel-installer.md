@@ -1,59 +1,93 @@
-# Solar Panel Installer（Solar Panel Installer）职业分析 · 新西兰
+# Solar Panel Installer — career analysis · New Zealand
 
-**职业代码：342113 – Solar Panel Installer。**
+**Occupation code: 342113 (ANZSCO)**
 
-Solar panel installers in NZ handle installation, wiring, and commissioning of rooftop PV systems for residential and commercial sites. With NZ's 2030 100% renewable energy target, demand surges; this role qualifies for Green List Tier 1 direct residence visa, offering strong immigration prospects.
+Solar installers in New Zealand are responsible for installing, wiring, and commissioning residential and commercial rooftop photovoltaic systems. The New Zealand government has set a 2030 target of 100% renewable energy, driving strong demand for photovoltaics. This occupation qualifies for the Green List direct residence visa, offering good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰NZQF四级证书（学徒） | 4年 | $6,000~$15,000（学徒期间学费约6,000-15,000纽元，外加工具和注册费） |
-| 电气工程文凭（Level 6） | 2年 | $20,000~$35,000（私立或公立理工学院全日制，包含实践课程） |
+| New Zealand NZQF Level 4 Certificate (Apprenticeship) | 4 years | $6,000~$15,000 (Apprenticeship tuition about NZD 6,000-15,000, plus tools and registration fees) |
+| Diploma in Electrical Engineering (Level 6) | 2 years | $20,000~$35,000 (Full-time at private or public polytechnics, includes practical courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰电工注册（EWRB Electrical Registration） | Electrical Workers Registration Board (EWRB) | 必备 | 从事电气工作必须持有，包括通过理论和实践考试 |
-| 光伏安装认证（CEC认证或类似） | Clean Energy Council (CEC)或新西兰本地机构 | 可选 | 虽非强制，但多数雇主和项目要求，可提升就业竞争力 |
-| 高空作业证（Working at Height） | 培训机构如Site Safe | 必备 | 屋顶作业必备安全证书 |
+| New Zealand Electrical Registration (EWRB Electrical Registration) | Electrical Workers Registration Board (EWRB) | Required | Must be held to work in electrical jobs, includes passing theory and practical exams |
+| Working at Height certificate | Training providers such as Site Safe | Required | Safety certification required for roof work. |
+| Photovoltaic installation certification (CEC certification or similar) | Clean Energy Council (CEC) or local New Zealand body | Optional | Although not mandatory, most employers and projects require it; can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。新西兰太阳能市场年均增长20%以上，到2025年预计新增3000个岗位。政府补助和电力成本上升推动安装量，尤其奥克兰和坎特伯雷地区短缺严重。持证安装工需求持续高企，就业稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. New Zealand's solar market is growing at over 20% annually, with an expected 3,000 new jobs by 2025. Government subsidies and rising electricity costs drive installations, especially in Auckland and Canterbury where shortages are severe. Demand for licensed installers remains high, and employment is stable.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒或新入行，通常包含培训期 |
-| 中级（3-5年） | $70,000~$90,000 | 持电工注册，能独立完成安装 |
-| 高级（5年以上） | $90,000~$120,000 | 项目经理或主管，涉及大型商业项目 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Apprentice or new entrant, usually includes training period |
+| Mid-level (3–5 years) | $70,000~$90,000 | Hold electrician registration, able to independently complete installations |
+| Senior (5+ years) | $90,000~$120,000 | Project manager or supervisor, involving large commercial projects |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 太阳能安装工可从学徒起步，获得电气注册后晋升为领班或项目主管。积累经验后可成立自己的安装公司，或转型为太阳能系统设计师、培训讲师。新西兰电工注册局（EWRB）的认证可进一步提升职业竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Solar installers face mixed AI impact: design optimization and customer communication are enhanced by AI, but core tasks like on-site installation, wiring, and commissioning are hard to automate due to physical and regulatory requirements.
+
+Solar installers can start as apprentices, gain electrical registration, and advance to foreman or project supervisor. With experience, they can start their own installation company or transition to solar system designer or training instructor. Certification from the Electrical Workers Registration Board (EWRB) in New Zealand can further enhance career competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Using AI to automatically generate rooftop solar layout designs and tilt optimization
+- Handle customer inquiries and preliminary quotes via AI chatbots
+- Use AI to predict weather and power generation, plan installation schedules
+- Automatically generating acceptance reports and compliance documents
+
+**Where AI augments the role:**
+
+- AI-driven drones for rapid roof structure survey and shading analysis, improving pre-installation assessment efficiency
+- AI-assisted real-time detection of electrical wiring errors to improve safety and first-pass yield
+- AI tools providing personalized training (e.g., AR simulation for wiring), accelerating novice learning
+- AI-Optimized Inventory Management and Logistics Scheduling to Reduce Material Wait Times
+
+**Human moat:**
+
+- Manual handling and positioning of solar panels on roofs (fine physical labor)
+- On-site electrical wiring and fault troubleshooting (requires hands-on skills and experience)
+- Face-to-face client communication, persuasion, and customized solutions (interpersonal trust)
+- Compliance judgment and safe operation in accordance with Australian electrical regulations (AS/NZS 3000)
+- Safety supervision and emergency response for high-altitude work
+
+**Skills to build:**
+
+- Operation of photovoltaic design software (such as Helioscope, PVsyst)
+- Basics of drone operation and image analysis
+- Updated knowledge of electrical safety and compliance (AS/NZS 3000)
+- Basic data analysis (power generation forecasting, system monitoring)
+- Client communication and project management (using online tools)
+- AR/VR assisted maintenance skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Renewable Energy
@@ -62,68 +96,67 @@ Solar panel installers in NZ handle installation, wiring, and commissioning of r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 太阳能安装工在绿色清单Tier 1，满足30小时/周工作即直接申请居留，无薪资门槛 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，工资不低于中位数（$29.66/小时），3年后可转居留 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民，需6分制（例如学历+工作经验），通常需时较长，可作为备选 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Solar installer is on Green List Tier 1, meeting 30 hours/week work leads to direct residency application, no salary threshold |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, salary not below median ($29.66/hour), can transition to residence after 3 years. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration requires 6-point system (e.g., qualification + work experience), typically takes longer, can be used as a backup. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Solar Panel Installer？**
-- 喜欢户外和动手工作，不恐高，能适应屋顶作业
-- 有意通过技术移民定居新西兰，接受为期4年的学徒培训
-- 对可再生能源和电气系统有浓厚兴趣，愿意持续学习新技术
-
-**谁不适合学Solar Panel Installer？**
-- 不擅长体力劳动或无法长时间在户外（如极端天气）工作
-- 希望快速获得高收入，不愿经历较长的学徒和注册周期
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and hands-on work, not afraid of heights, can adapt to roof work
+- Those intending to settle in New Zealand through skilled migration and willing to undergo a 4-year apprenticeship
+- Strong interest in renewable energy and electrical systems, willing to continuously learn new technologies
+
+**Who is not suited**
+- Not good at physical labor or unable to work outdoors for long periods (e.g., extreme weather)
+- Those wanting quick high income and unwilling to undergo long apprenticeships and registration cycles
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary for a Solar Installer in New Zealand?**
+A: Junior approx NZ$55,000-70,000, intermediate (with electrician license) NZ$70,000-90,000, senior supervisor up to NZ$120,000. Self-employed earn more but need to cover tools and insurance.
+
+**Q: How can a solar installer immigrate to New Zealand?**
+A: Most recommended: Green List Tier 1 direct residence: find an accredited employer and apply without salary threshold. Alternatively, apply for an AEWV work visa and transition to residence after 3 years. Must first register with EWRB or start as an apprentice.
+
+**Q: What certifications are needed to work as a solar installer in New Zealand?**
+A: Must hold EWRB electrical registration (pass theory and practical exams). Recommended to also obtain photovoltaic installation certification (e.g., CEC) and working at heights certificate. Apprentices need to complete NZQF Level 4 certificate (typically 4 years).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Solar Panel Installer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a solar panel installer in New Zealand?**
-答：Entry-level: NZ$55,000-70,000; mid-level (with electrical registration): $70,000-90,000; senior/project manager: up to $120,000. Self-employed can earn more but cover own tools and insurance.
-
-**问：How can a solar panel installer immigrate to New Zealand?**
-答：Best is Green List Tier 1 direct residence: find a job with an accredited employer and apply directly, no salary threshold. Alternative: AEWV work visa, then residence after 3 years. Requires EWRB registration or starting as an apprentice.
-
-**问：What qualifications are required to work as a solar panel installer in New Zealand?**
-答：Mandatory: EWRB electrical registration (pass theory and practical exams). Recommended: PV installation certification (e.g., CEC) and working at height certificate. Apprentices need NZQF Level 4 certificate (4 years).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

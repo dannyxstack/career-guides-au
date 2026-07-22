@@ -1,59 +1,95 @@
-# Interior Designers（Interior Designers）职业分析 · 美国
+# Interior Designers — career analysis · United States
 
-**职业代码：27-1025 – Interior Designers。**
+**Occupation code: 27-1025 (SOC)**
 
-Interior designers plan, design, and furnish interior spaces, creating practical, aesthetic, and functional environments. They may specialize in a particular field or style.
+Interior designers plan, design, and arrange interior spaces to create functional, aesthetically pleasing, and functional environments. They may specialize in specific areas or styles, excluding merchandise displayers and window trimmers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1万-3万美元） |
-| 副学士学位 | 2年 | $20,000~$60,000（社区学院总费用约2万-6万美元） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities charge an average annual tuition of about $10,000-$30,000 USD.) |
+| Associate degree | 2 years | $20,000~$60,000 (Community college total cost: approx. $20K-$60K.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NCIDQ认证 | 室内设计资格委员会（CIDQ） | 必备 | 许多州要求持证执业，需通过考试 |
-| 学士学位 | 认证院校 | 可选 | 通常为室内设计或相关领域 |
-| 州执照 | 各州政府 | 必备 | 部分州如加利福尼亚、佛罗里达等要求执照 |
+| NCIDQ certification | Council for Interior Design Qualification (CIDQ) | Required | Many states require licensing, which involves passing an exam |
+| State license | State governments | Required | Some states such as California, Florida require a license |
+| Bachelor's degree | Accredited institution | Optional | Typically in interior design or related field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 90,200。美国劳工统计局（BLS）预计2023-2033年室内设计师岗位增长约4%，略低于所有职业平均水平。建筑和装修活动将推动需求，但竞争激烈，需具备创意和技术能力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 90,200. The US Bureau of Labor Statistics (BLS) projects interior designer positions to grow about 4% from 2023-2033, slightly below the average for all occupations. Construction and renovation activity will drive demand, but competition is fierce; creativity and technical skills are needed.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 入门级职位，助理设计师 |
-| 中级（3-7年） | $50,000~$75,000 | 独立设计师，经验丰富 |
-| 高级（7年以上） | $75,000~$100,000 | 设计总监或资深专家 |
+| Median salary | $67,190 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Entry-level position, assistant designer |
+| Mid-level (3–7 years) | $50,000~$75,000 | Independent designer with extensive experience |
+| Senior (7+ years) | $75,000~$100,000 | design director or senior expert |
+| average salary | $74,540 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径包括初级设计师、高级设计师、设计总监或自主创业。可升级为项目经理、室内设计专家或开设个人工作室。持续学习CAD和可持续设计趋势有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+Career path includes junior designer, senior designer, design director, or self-employment. Can upgrade to project manager, interior design specialist, or open personal studio. Continuous learning of CAD and sustainable design trends aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - Sustainable design
 - Technology integration
@@ -62,69 +98,68 @@ Interior designers plan, design, and furnish interior spaces, creating practical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需要学士学位，雇主赞助，有配额限制。室内设计职位通常符合条件。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在室内设计领域有杰出成就的人士，无需配额。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需要高级学位或特殊才能，通常需PERM劳工证。 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大和墨西哥公民，室内设计师需符合专业要求。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, employer sponsorship, and has quota limits. Interior design positions usually qualify. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to individuals with outstanding achievements in interior design, no quota required. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires advanced degree or exceptional ability, usually needs PERM labor certification. |
+| Subclass TN (TN NAFTA Professional) | Only for Canadian and Mexican citizens, interior designers must meet professional requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Designers？**
-- 具有审美和创意天赋，热爱空间设计的人
-- 擅长沟通，能理解客户需求并转化为设计方案的人
-- 注重细节，掌握CAD等设计软件的人
-
-**谁不适合学Interior Designers？**
-- 不喜欢与人沟通，难以理解客户需求的人
-- 缺乏耐心，无法应对项目修改和细节调整的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with aesthetic and creative talent who love spatial design
+- People who are good at communication and can understand client needs to translate into design solutions
+- detail-oriented individuals proficient in CAD and other design software
+
+**Who is not suited**
+- Individuals who dislike communication and struggle to understand client needs
+- People lacking patience, unable to handle project changes and detail adjustments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary for interior designers in the US?**
+A: According to BLS 2023 data, average annual salary is about $61,000, but beginners may be as low as $35,000, and senior designers can exceed $100,000.
+
+**Q: What are the paths for interior designers to immigrate to the US?**
+A: Common pathways include the H-1B work visa (requires bachelor's degree and employer sponsorship), O-1 visa for extraordinary ability, and EB-2/EB-3 employment-based green cards. NCIDQ certification and state license are helpful for applications.
+
+**Q: What qualifications are needed to become an interior designer?**
+A: Usually requires a bachelor's degree in interior design or related field, but an associate degree can also be a starting point. Some states require NCIDQ certification or state license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interior Designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary of an interior designer in the US?**
-答：According to BLS 2023 data, the average annual salary is around $61,000, with entry-level positions starting at $35,000 and senior designers earning over $100,000.
-
-**问：What are the immigration pathways for interior designers to the US?**
-答：Common pathways include H-1B visa (requires bachelor's degree and employer sponsorship), O-1 extraordinary ability visa, and EB-2/EB-3 employment-based green cards. NCIDQ certification and state license are helpful.
-
-**问：What education is needed to become an interior designer?**
-答：A bachelor's degree in interior design or a related field is typically required, though an associate degree may be sufficient for entry-level positions. Some states require NCIDQ certification or a state license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

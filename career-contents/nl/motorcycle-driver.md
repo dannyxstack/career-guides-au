@@ -1,60 +1,96 @@
-# Motorcycle Driver（Motorcycle Driver）职业分析 · NL
+# Motorcycle Driver — career analysis · Netherlands
 
-**职业代码：8321 – Motorcycle Driver。**
+**Occupation code: 8321 (ISCO08)**
 
-Operates motorcycles to transport goods or passengers, commonly in courier and food delivery services.
+Deliver goods or passengers via motorcycle, commonly used for courier and food delivery services.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 不需要 | —（通常只需摩托车驾照和基本培训） |
-| 职业培训 | 数周 | $500~$2,000（如安全驾驶课程） |
+| No specific educational requirements | Not required | $0~$0 (Usually only requires a motorcycle license and basic training) |
+| Vocational training | Several weeks | $500~$2,000 (E.g., safe driving courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摩托车驾照（A类） | 荷兰车辆管理局（RDW） | 必备 | 必须持有A类摩托车驾照 |
-| 基本安全培训 | 雇主或培训机构 | 可选 | 部分公司要求完成安全驾驶课程 |
+| Motorcycle license (Class A) | Netherlands Vehicle Authority (RDW) | Required | Must hold a Class A motorcycle license |
+| Basic safety training | Employer or training provider | Optional | Some companies require completion of a safe driving course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。随着电商和外卖行业增长，摩托车驾驶员需求稳定，但受自动驾驶技术影响较小。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. With the growth of e-commerce and food delivery industries, demand for motorcycle drivers remains stable but is less affected by autonomous driving technology.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（3-5年） | $28,000~$35,000 | 税前年薪 |
-| 高级（5年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $34,185 | Median salary (official: CBS median hourly wage €17.3/hr × 1976h annualised; BRC group 1212 Chauffeurs auto's, taxi's en bes...; P25–P75 €31,418–€37,544, CBS 2024) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (5+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升为车队主管或物流协调员，部分转行至运输管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Motorcycle drivers face automation compression risks, especially as delivery route optimization and autonomous driving technology may reduce demand for human labor, but real-time decision-making and flexible operations remain difficult to fully replace.
+
+Can be promoted to fleet supervisor or logistics coordinator, with some transitioning to transport management roles.
+
+**Tasks most exposed to AI:**
+
+- Route planning and optimization following GPS navigation
+- Simple point-to-point cargo transport tasks
+- Algorithm-based delivery order allocation and scheduling
+- Traffic flow prediction and speed recommendations
+- Vehicle condition monitoring and basic maintenance reminders
+
+**Where AI augments the role:**
+
+- AI-assisted real-time traffic obstacle avoidance and collision warning
+- Smart Helmet Enhanced Communication and Navigation Display
+- Delivery efficiency analysis and optimization based on big data
+- automatic emergency braking and stability assist systems
+- In-car voice assistant handles order changes and customer communication
+
+**Human moat:**
+
+- Flexible response and judgment in complex traffic environments
+- On-site decision-making for handling emergencies (e.g., road closures, traffic accidents)
+- Interpersonal communication and service attitude through direct interaction with clients
+- Manual sensing and emergency repair of motorcycle mechanical conditions.
+- Driving skills in extreme weather or narrow streets
+
+**Skills to build:**
+
+- Proficiency in AI navigation and vehicle assistance system operation
+- Learn basic vehicle electronic system maintenance
+- Improve customer service and conflict resolution skills
+- Familiar with multimodal transport coordination (e.g., relay delivery)
+- Obtain advanced driving safety certifications (e.g. defensive driving)
+- Basic knowledge of logistics and supply chain management
+
+**Key growth areas:**
 
 - Last-mile delivery
 - Food delivery
@@ -63,69 +99,68 @@ Operates motorcycles to transport goods or passengers, commonly in courier and f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能移民，但摩托车驾驶员通常不符合条件。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 需达到薪资门槛，摩托车驾驶员一般无法满足。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于在荷兰毕业的国际学生，可自由工作，但职业门槛较低。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled migration, but motorcycle drivers usually do not meet the requirements. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Must meet the salary threshold, which motorcycle drivers generally cannot satisfy. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For international students graduating in the Netherlands, allows free work but with lower career threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motorcycle Driver？**
-- 喜欢户外工作且适应天气变化的人
-- 追求灵活工作时间的人
-- 熟悉城市路线并能高效导航者
-
-**谁不适合学Motorcycle Driver？**
-- 不适应长时间骑行或交通拥堵的人
-- 希望高收入或稳定职业发展的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and can adapt to weather changes
+- Those seeking flexible working hours
+- Those familiar with city routes and able to navigate efficiently
+
+**Who is not suited**
+- Not suitable for people who cannot handle long cycling or traffic congestion
+- People seeking high income or stable career development
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a motorcycle driver?**
+A: Entry-level annual salary approx. 20,000-28,000 euros; intermediate 28,000-35,000 euros; senior up to 42,000 euros.
+
+**Q: Can motorcycle drivers immigrate to the Netherlands through a work visa?**
+A: This occupation is classified as low-skilled and generally does not meet the salary requirements for high-skilled migration or EU Blue Card. You can work through the Orientation Year or EU free movement (if you already have residency rights).
+
+**Q: What are the promotion opportunities for motorcycle drivers?**
+A: Can advance to fleet supervisor, logistics coordinator, or transport manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Motorcycle Driver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for motorcycle drivers?**
-答：Entry-level: €20,000-€28,000; mid-level: €28,000-€35,000; senior: up to €42,000.
-
-**问：Can motorcycle drivers immigrate to the Netherlands via work visa?**
-答：This low-skilled occupation generally doesn't meet the salary threshold for Highly Skilled Migrant or EU Blue Card. Options include Orientation Year or EU free movement.
-
-**问：What are the career advancement opportunities for motorcycle drivers?**
-答：Can advance to fleet supervisor, logistics coordinator, or transport manager.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

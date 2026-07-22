@@ -1,58 +1,94 @@
-# Economist（Economist）职业分析 · DE
+# Economist — career analysis · Germany
 
-**职业代码：9140 – Economist。**
+**Occupation code: 9140 (KldB)**
 
-Economists analyze economic data, forecast trends, and advise businesses and governments. In Germany, the role typically requires a university degree and is found in research institutes, banks, or consulting firms.
+Economists analyze economic data, predict trends, and provide decision-making advice to businesses and governments. In Germany, this occupation typically requires a university degree and employment in research institutes, banks, or consulting firms.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（经济学） | 3年 | —（公立大学学费低，仅学期费） |
-| 硕士（经济学） | 2年 | —（公立大学学费低，仅学期费） |
+| Bachelor's degree (Economics) | 3 years | $0~$1,500 (Public universities have low tuition, only semester fees) |
+| Master's (Economics) | 2 years | $0~$1,500 (Public universities have low tuition, only semester fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学硕士学位 | 德国大学 | 必备 | 通常为入职基本要求 |
-| 博士学历 | 德国大学 | 可选 | 在学术界或研究机构普遍要求 |
+| Master's degree in Economics. | German university | Required | Usually an entry-level requirement |
+| PhD degree | German university | Optional | Generally required in academia or research institutions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。德国经济学家就业前景稳定，尤其在能源转型、数字化和宏观经济政策领域。大型企业、经济研究所和公共部门需求持续。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. German economists have stable career prospects, especially in energy transition, digitalization, and macroeconomic policy. Demand remains strong in large enterprises, economic research institutes, and the public sector.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪 |
-| 中级（4-7年） | $50,000~$70,000 | 税前年薪 |
-| 高级（8年以上） | $70,000~$100,000 | 税前年薪 |
+| Median salary | $83,844 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $50,000~$70,000 | Annual pre-tax salary |
+| Senior (8+ years) | $70,000~$100,000 | Annual pre-tax salary |
+| average salary | $93,156 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级研究助理到高级经济学家或部门主管，可晋升至首席经济学家或管理职位。也可转向金融、咨询或数据分析领域。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+From junior research assistant to senior economist or department head, can advance to chief economist or management roles. Also possible to transition into finance, consulting, or data analysis.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Digital Economy
 - Energy Transition
@@ -61,65 +97,64 @@ Economists analyze economic data, forecast trends, and advise businesses and gov
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高校毕业生，年薪门槛约43,800欧元（2023） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国工作合同，学历认证 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for university graduates, with an annual salary threshold of approximately 43,800 euros (2023) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German work contract and credential recognition |
+| Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economist？**
-- 对经济数据和分析有浓厚兴趣者
-- 具备数学和统计背景者
-- 愿意在德企或研究机构工作
-
-**谁不适合学Economist？**
-- 不喜欢长时间数据分析者
-- 对政策制定不感兴趣者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong interest in economic data and analysis
+- Those with a background in mathematics and statistics
+- Willing to work in German companies or research institutions
+
+**Who is not suited**
+- Those who dislike long hours of data analysis
+- Those not interested in policy making
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an economist in Germany?**
+A: Entry-level approx. €40,000-€50,000, mid-level €50,000-€70,000, senior €70,000-€100,000 gross annual salary.
+
+**Q: How can foreigners become economists in Germany?**
+A: Requires a university degree, usually a master's in economics, via EU Blue Card or skilled migration visa, needs credential evaluation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Economist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for economists in Germany?**
-答：Entry-level around 40,000-50,000 EUR, mid-level 50,000-70,000, senior 70,000-100,000 EUR gross annually.
-
-**问：How can foreigners become economists in Germany?**
-答：Require a university degree, typically a Master's in economics. Obtain an EU Blue Card or skilled worker visa; degree recognition is necessary.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

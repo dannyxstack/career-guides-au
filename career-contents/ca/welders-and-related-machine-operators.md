@@ -1,59 +1,94 @@
-# Welders and related machine operators（Welders and related machine operators）职业分析 · 加拿大
+# Welders and related machine operators — career analysis · Canada
 
-**职业代码：72106 – Welders and related machine operators。**
+**Occupation code: 72106 (NOC)**
 
-Canadian welders cut, shape, weld, and repair metal components across construction, manufacturing, mining, and pipeline industries. This occupation is popular under the Federal Skilled Trades Program (FSTP) and Provincial Nominee Programs (PNPs), offering good immigration prospects.
+Canadian welders cut, shape, weld and repair metal components, widely used in construction, manufacturing, mining and pipeline engineering. In Canada, welding is a popular occupation under the Federal Skilled Trades Program (FSTP) and Provincial Nominee Program (PNP), with high immigration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（加拿大公立高中免费） |
-| 焊工学徒（含课堂培训） | 3年 | $5,000~$15,000（学费因省份和院校而异，通常需注册为学徒） |
+| High school diploma | 12 years | $0~$0 (Canadian public high schools are free) |
+| Welder apprentice (including classroom training). | 3 years | $5,000~$15,000 (Tuition fees vary by province and institution; generally requires enrollment as an apprentice.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级焊工认证或红印（Red Seal） | 各省学徒及行业认证机构 | 必备 | 红印可跨省执业，通常需通过资格考试；省级认证为强制要求 |
-| 焊接测试（如CWB焊接认证） | 加拿大焊接局（CWB） | 可选 | 非强制但雇主常要求，提升竞争力 |
-| 语言能力（英语或法语） | IRCC认可的语言考试 | 必备 | 技术移民通常需CLB 4-5，省提名可能要求更高 |
+| Provincial welder certification or Red Seal | Provincial apprenticeship and industry certification bodies | Required | Red Seal allows interprovincial practice, usually requires passing a qualification exam; provincial certification is mandatory. |
+| Language ability (English or French). | IRCC-recognized language tests | Required | Skilled immigration usually requires CLB 4-5; provincial nominations may require higher |
+| Welding tests (e.g., CWB welding certification) | Canadian Welding Bureau (CWB) | Optional | Not mandatory but often required by employers to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。加拿大焊工需求稳定，尤其在阿尔伯塔、安大略和BC省的建筑、能源及基础设施项目中。未来十年预计有大量退休岗位空缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Demand for welders in Canada is stable, especially in construction, energy, and infrastructure projects in Alberta, Ontario, and BC. Many retirements are expected over the next decade, leading to good job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 取决于省份和雇主，阿尔伯塔较高 |
-| 中级（3-7年） | $50,000~$75,000 | 持有红印或专业认证后薪资提升 |
-| 高级（7年以上） | $75,000~$100,000 | 主管、检验员或管道焊接专家可达更高 |
+| Median salary | $62,400 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$50,000 | Varies by province and employer; Alberta tends to be higher |
+| Mid-level (3–7 years) | $50,000~$75,000 | Salary increases after obtaining Red Seal or professional certification |
+| Senior (7+ years) | $75,000~$100,000 | Supervisors, inspectors, or pipe welding specialists can earn more |
+| average salary | $68,640 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级焊工可晋升为高级焊工、主管或焊接检验员。持有红印认证（Red Seal）可提升跨省就业机会，也可专攻管道焊接、结构焊接等高薪领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
+
+Junior welders can advance to senior welders, supervisors, or welding inspectors. Holding Red Seal certification improves interprovincial job opportunities; can also specialize in high-paying areas like pipe welding or structural welding.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and optimization of complex part paths
+- Robotic automated welding for repetitive welds.
+- Automatic cutting and layout based on CAD models
+- Offline programming and monitoring of batch welding of standard parts
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection and X-ray image interpretation
+- Real-time welding parameter recommendations (current/speed/wire feed).
+- Digital twin simulation to predict deformation and stress
+- Collaborative robots perform welding in high-altitude or hazardous environments.
+- AI-driven cloud database query for welding parameters
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning for on-site welding of complex structures
+- Decision-making for abnormal conditions (irregular parts/material defects)
+- Communication and safety supervision in multi-trade collaboration
+- Tactile control for non-standard hand grinding and restoration
+- Comprehensive assessment of long-term fatigue life of welded structures
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (Fanuc/ABB)
+- Use of digital welding simulation software
+- AI image recognition assists weld inspection
+- Industrial IoT and sensor data analysis
+- Project management and quality systems (CWB).
+- Knowledge of environmentally friendly welding processes and materials
+
+**Key growth areas:**
 
 - Federal Skilled Trades
 - Provincial Nominee
@@ -62,65 +97,67 @@ Canadian welders cut, shape, weld, and repair metal components across constructi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass FSTP（Federal Skilled Trades Program） | 联邦技工移民，要求满足语言、学徒经历或工作Offer，适合持证焊工。 |
-| Subclass PNP（Provincial Nominee Program） | 多数省份有技工类省提名，如阿省、萨省、安省等，通常需雇主担保。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有雇主Offer的焊工。 |
+| Subclass FSTP (Federal Skilled Trades Program) | Skilled migration visa for tradespeople, requiring language ability, apprenticeship experience, or a job offer, suitable for certified welders. |
+| Subclass PNP (Provincial Nominee Program) | Most provinces have trade-specific Provincial Nominee Programs, such as Alberta, Saskatchewan, Ontario, etc., usually requiring employer sponsorship. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for welders with a job offer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welders and related machine operators？**
-- 喜欢动手操作、动手能力强的人
-- 愿意在建筑、能源等行业从事体力工作的人
-- 有焊接经验或学徒背景的海外技工
-
-**谁不适合学Welders and related machine operators？**
-- 不愿从事户外或高风险环境工作的人
-- 对长期体力劳动不耐受的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and have strong practical skills
+- People willing to do physical work in construction, energy, etc.
+- Overseas skilled workers with welding experience or apprenticeship background
+
+**Who is not suited**
+- Those unwilling to work outdoors or in high-risk environments
+- Those intolerant to long-term physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a welder in Canada?**
+A: According to Job Bank, median annual salary for Canadian welders is about CAD 55,000; entry-level CAD 35,000-50,000, mid-level CAD 50,000-75,000, senior up to CAD 100,000+, depending on province and industry.
+
+**Q: How to immigrate to Canada as a welder?**
+A: The most direct route is the Federal Skilled Trades Program (FSTP), requiring language CLB 4-5, apprenticeship experience, or a job offer. Additionally, many provinces have trade streams under PNP (e.g., Alberta, Saskatchewan, Ontario), typically requiring employer sponsorship.
+
+**Q: What certificates do Canadian welders need?**
+A: Mandatory provincial certification or Red Seal certificate. Red Seal allows interprovincial work; typically requires passing a qualification exam. Non-mandatory but recommended certifications include Canadian Welding Bureau (CWB) certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Welders and related machine operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for welders in Canada?**
-答：According to Job Bank, the median annual wage for welders in Canada is around CAD 55,000. Entry-level earns CAD 35,000-50,000, mid-level CAD 50,000-75,000, and senior welders can exceed CAD 100,000, varying by province and industry.
-
-**问：How can I immigrate to Canada as a welder?**
-答：The most direct route is the Federal Skilled Trades Program (FSTP), requiring CLB 4-5, apprenticeship experience, or a job offer. Many provinces also have PNP streams for trades, often requiring employer sponsorship.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

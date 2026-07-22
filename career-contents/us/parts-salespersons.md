@@ -1,60 +1,96 @@
-# Parts Salespersons（Parts Salespersons）职业分析 · 美国
+# Parts Salespersons — career analysis · United States
 
-**职业代码：41-2022 – Parts Salespersons。**
+**Occupation code: 41-2022 (SOC)**
 
-Sell spare and replacement parts and equipment in repair shops or parts stores, providing product information and inventory inquiries to customers.
+Sell spare parts and replacement parts and equipment at repair or parts stores, provide product information and inventory inquiries to customers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 无需 | —（通常仅需高中文凭或同等学历） |
-| 职业培训证书 | 6个月 | $1,000~$5,000（可选汽车零件或零售管理短期课程） |
+| High school graduation | None | $0~$0 (Typically only requires a high school diploma or equivalent) |
+| Vocational training certificate | 6 months. | $1,000~$5,000 (Optional short courses in auto parts or retail management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 高中 | 必备 | 基本要求 |
-| 驾照 | 州交通管理局 | 可选 | 部分岗位需要驾驶公司车辆送货 |
+| High school diploma | High school | Required | Basic requirements |
+| Driver's license | State Department of Transportation | Optional | Some positions require driving company vehicles for delivery |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 135,000。美国零件销售员就业预计未来十年基本持平，受电商冲击，但对专业零件需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 135,000. Employment for parts salespersons in the US is expected to be flat over the next decade, impacted by e-commerce, but demand for specialized parts remains stable.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 小时制，约$12-15/小时 |
-| 中级（3-7年） | $32,000~$42,000 | 可获佣金或绩效奖金 |
-| 高级（7年以上） | $42,000~$55,000 | 资深销售或主管职位 |
+| Median salary | $38,630 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly, approximately $12-15/hour |
+| Mid-level (3–7 years) | $32,000~$42,000 | May receive commission or performance bonus |
+| Senior (7+ years) | $42,000~$55,000 | Senior sales or supervisory positions |
+| average salary | $43,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从初级销售员起步，可晋升为高级销售员、部门主管或采购专员，需积累产品知识和客户关系。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The role of parts salesperson will be partially reduced by AI, but AI also enhances their information retrieval and customer service capabilities. Key humanized communication and complex transaction processing remain human advantages.
+
+Starts as junior salesperson, can advance to senior salesperson, department manager, or purchasing specialist; requires product knowledge and customer relationships.
+
+**Tasks most exposed to AI:**
+
+- Automate routine inventory inquiries and order entry
+- AI-generated product specifications and compatibility information
+- Automatically complete price comparison and quote generation.
+- Chatbots handle standard customer inquiries
+- AI predicts inventory demand and automatically replenishes
+
+**Where AI augments the role:**
+
+- AI-assisted quick lookup of parts compatibility and alternatives
+- AI analyzes customer historical data to provide personalized recommendations
+- Augmented Reality (AR)-assisted demonstration of parts installation methods
+- AI tools generate sales scripts and follow-up reminders
+- AI analyzes market trends to optimize inventory and pricing strategies.
+
+**Human moat:**
+
+- Ability to understand client real needs and solve complex problems
+- Build long-term client trust and relationship maintenance
+- Handling non-standard situations like returns and complaints.
+- Provide professional installation advice and technical guidance
+- Multi-product joint sales and cross-selling strategies
+
+**Skills to build:**
+
+- Use of Customer Relationship Management (CRM) software
+- Data analysis basics (Excel/BI tools)
+- AI-assisted sales tool operation (e.g., ChatGPT prompt engineering)
+- Deepening product technical knowledge (e.g., vehicle/equipment systems)
+- Digital inventory management system operation
+- Advanced communication and negotiation skills
+
+**Key growth areas:**
 
 - E-commerce impact
 - Automotive specialization
@@ -63,65 +99,67 @@ Sell spare and replacement parts and equipment in repair shops or parts stores, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少数情况，通常需要本科学位关联，不常见。 |
-| Subclass Green Card (PERM)（EB-3 Skilled Worker） | 雇主担保绿卡路径，但非专业职业，成功率低。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Very rare, typically requires a bachelor's degree connection, not common. |
+| Subclass Green Card (PERM) (EB-3 Skilled Worker) | Employer-sponsored green card pathway, but non-professional occupation, low success rate. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Parts Salespersons？**
-- 擅长沟通和客户服务的人
-- 对汽车或机械零件感兴趣的人
-- 喜欢在零售或仓库环境工作的人
+**Who is suited**
+- People skilled in communication and customer service
+- Those interested in cars or mechanical parts
+- People who enjoy working in retail or warehouse environments
 
-**谁不适合学Parts Salespersons？**
-- 追求高薪和职业快速成长的人
-- 不擅长记忆产品细节的人
+**Who is not suited**
+- People pursuing high salary and rapid career growth.
+- People not good at memorizing product details
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary cap for parts salespersons?**
+A: Most annual salaries range from $30,000 to $45,000; senior or supervisor roles can reach $55,000, plus commission may increase earnings.
+
+**Q: Can a parts salesperson apply for US skilled migration?**
+A: Difficult, as it is not typically considered a professional occupation, and H-1B or green card pathways are rare.
+
+**Q: How to advance from a parts salesperson?**
+A: Can transition to procurement, inventory management, or store management roles through accumulating experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Parts Salespersons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for parts salespersons?**
-答：Most earn between $30,000 and $45,000 annually, senior or supervisors up to $55,000 plus commission.
-
-**问：Can a parts salesperson apply for US skilled migration?**
-答：Difficult, as it is not considered a specialty occupation; H-1B or green card pathways are rare.
-
-**问：How to advance from parts salesperson?**
-答：Gain experience and transition to purchasing, inventory management, or store management roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

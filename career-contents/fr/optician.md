@@ -1,58 +1,91 @@
-# Optician（Optician）职业分析 · FR
+# Optician — career analysis · France
 
-**职业代码：J1405 – Optician。**
+**Occupation code: J1405 (ROME)**
 
-Performs vision tests, dispenses and fits eyeglasses and contact lenses, and advises clients on visual correction.
+Responsible for eye exams, fitting glasses, sales and adjustment of glasses/contact lenses, and providing vision correction solutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS光学-眼镜制作 | 2年（BTS） | $500~$5,000（公立学校免费，学费主要为注册费） |
-| Licence专业光学 | 3年（Licence） | $500~$6,000（公立大学学费低，私立约3000-6000欧/年） |
+| BTS Optics - Glasses Production | 2 Years (BTS) | $500~$5,000 (Public schools are free, with tuition mainly being the registration fee) |
+| Licence specializes in optics | 3 years (Licence) | $500~$6,000 (Public universities have low tuition fees, while private ones cost about 3,000-6,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS光学-眼镜制作（BTS Opticien-Lunetier） | 法国教育部 | 必备 | 必备文凭，可通过学徒制获得 |
-| 法国眼镜店营业许可证（Autorisation d'exploitation） | ARS（地区卫生局） | 可选 | 开设独立眼镜店需额外申请 |
+| BTS Opticien-Lunetier | French Ministry of Education | Required | A mandatory diploma, which can be obtained through apprenticeships |
+| French optical shop business license (Autorisation d'exploitation) | ARS (Regional Health Bureau) | Optional | Opening an independent eyewear store requires an additional application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 38,000。法国人口老龄化及数字设备使用增加推动视力保健需求，就业前景稳定。眼镜店和光学连锁持续招聘，尤其在老龄化地区。
+**Job demand: high (★★★★☆).** National workforce approx. 38,000. France's aging population and increased use of digital devices are driving demand for vision care, with stable employment prospects. Optical stores and optical chains continue to recruit, especially in aging regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，包含奖金 |
-| 中级（3-8年） | $30,000~$40,000 | 税前年薪，视门店规模和地区 |
-| 高级（8年以上/店长） | $40,000~$55,000 | 税前年薪，不含自雇收入 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–8 years) | $30,000~$40,000 | Pre-tax annual salary depends on store size and region |
+| Senior (8 years or more / Store Manager) | $40,000~$55,000 | Pre-tax annual salary, excluding self-employment income |
+| average salary | $29,718 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级配镜顾问晋升为资深验光师、店长或区域经理，也可选择开设独立眼镜店或专攻隐形眼镜/低视力辅助。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate some eyeglass dispensing and inventory tasks, but optometry tests, customer communication, and compliance requirements still depend on human professional judgment, resulting in mixed outcomes.
+
+You can advance from junior optician consultant to senior optometrist, store manager, or regional manager, or choose to open an independent optical shop or specialize in contact lens/low vision assistance.
+
+**Tasks most exposed to AI:**
+
+- The automatic refraction device obtains objective prescriptions and replaces some subjective refractions
+- AI prescription analysis software generates lens recommendations
+- The online virtual try-on system reduces the need for real-world try-on experiences
+- Automated inventory management and order processing
+
+**Where AI augments the role:**
+
+- AI refraction data analysis assists in diagnosing complex visual problems
+- Digital lens design tools optimize personalized lens parameters
+- Customer relationship management AI provides after-sales reminders and care advice
+- The telemetry platform expands its service scope
+
+**Human moat:**
+
+- The ability to communicate symptoms, lifestyles, and needs with clients
+- Manage the clinical judgment of irregular eyes or special needs
+- Legal obligations to ensure prescription accuracy and compliance
+- Delicate manual operations for adjusting frames and repairing glasses
+
+**Skills to build:**
+
+- AI optometry software operation and data analysis
+- Digital lens design and 3D printing applications
+- Telemedicine communication skills
+- Customer experience management and loyalty development
+- Basic knowledge of eye disease screening
+- Compliance and data security knowledge
+
+**Key growth areas:**
 
 - aging population
 - digital eye strain
@@ -61,65 +94,64 @@ Performs vision tests, dispenses and fits eyeglasses and contact lenses, and adv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (Profession artistique et culturelle / Scientifique / etc.)） | 适用于具有BTS以上学历的紧缺光学技师，需获得法国雇主合同 |
-| Subclass Salarié（Employee (Salarié) visa） | 经典工作签证，需法国公司提供CDI合同及劳工许可 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合高薪offer（年薪≥53,837欧），满足学历要求 |
+| Subclass Passeport Talent (Talent Passport (Profession artistique et culturelle / Scientifique / etc.)) | Suitable for in-demand optical technicians with a BTS degree or above, requiring a French employer contract |
+| Subclass Salarié (Employee (Salarié) visa) | The classic work visa requires a CDI contract and labor permit provided by the French company |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-salary offers (annual salary ≥ 53,837 EUR), meeting educational requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optician？**
-- 注重细节、喜欢与人交流的人
-- 对光学和视力科学有兴趣，乐于学习技术知识
-- 希望从事稳定、需求稳定的医疗相关职业的人
-
-**谁不适合学Optician？**
-- 不擅长销售和客户服务的人
-- 对长时间站立工作或重复性配镜流程感到厌倦的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Attention to detail and people who enjoy communicating
+- Interested in optics and vision science, and eager to learn technical knowledge
+- People who wish to pursue a stable and in-demand medical-related career
+
+**Who is not suited**
+- People who are not good at sales and customer service
+- People who are tired of long hours of standing or repetitive glasses fitting procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an optometrist in France?**
+A: Junior approx. €25,000-30,000/year, mid-level €30,000-40,000/year, senior or store manager up to €40,000-55,000/year.
+
+**Q: How can foreign optometrists immigrate to France?**
+A: You need to obtain a French-recognized BTS optics diploma (available through apprenticeship), then apply for a Passeport Talent or Salarié work visa. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较难（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Optician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for opticians in France?**
-答：Entry-level 25-30k EUR; mid-level 30-40k EUR; senior/manager 40-55k EUR gross annually.
-
-**问：How can foreign opticians migrate to France?**
-答：Obtain a recognized French BTS in optics (e.g., via apprenticeship), then apply for a Talent Passport or Salarié visa. EU citizens have free movement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

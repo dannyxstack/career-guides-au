@@ -1,60 +1,91 @@
-# Barbers（Barbers）职业分析 · 美国
+# Barbers — career analysis · United States
 
-**职业代码：39-5011 – Barbers。**
+**Occupation code: 39-5011 (SOC)**
 
-Barbers provide haircutting, trimming, shampooing, styling, beard trimming, and shaving services, typically working in barbershops or salons.
+Barbers provide personal care services including haircuts, trimming, shampooing, styling, beard trimming, and shaving, typically working in barbershops or salons.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 理发学徒项目 | 1-2年 | $3,000~$15,000（包含学费及工具费用） |
-| 副学士学位 | 2年 | $8,000~$30,000（可选，提升管理技能） |
+| Barber apprenticeship program | 1-2 years | $3,000~$15,000 (Includes tuition and tool fees) |
+| Associate degree | 2 years | $8,000~$30,000 (Optional, improves management skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州理发师执照 | 各州理发委员会 | 必备 | 需完成认证培训并通过笔试和实践考试 |
-| 高中文凭或同等学历 | 高中 | 必备 | 大多数州要求作为入学条件 |
+| State Barber License | State cosmetology board | Required | Must complete accredited training and pass written and practical exams |
+| High school diploma or equivalent | High school | Required | Most states require this as a condition of entry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 66,000。根据BLS预测，2023-2033年理发师就业增长约8%，快于所有职业平均水平。人口增长和个人护理需求持续推动岗位增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 66,000. According to BLS projections, barber employment is expected to grow 8% from 2023 to 2033, faster than the average for all occupations. Population growth and demand for personal care continue to drive job increases.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 含小费 |
-| 中级（3-7年） | $35,000~$50,000 | 熟练后客户基础稳定 |
-| 高级（7年以上） | $50,000~$75,000 | 高声誉或自雇者收入更高 |
+| Median salary | $38,210 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Includes tips |
+| Mid-level (3–7 years) | $35,000~$50,000 | Stable client base after proficiency |
+| Senior (7+ years) | $50,000~$75,000 | Higher income for those with high reputation or self-employed |
+| average salary | $47,070 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 理发师可从学徒晋升为高级理发师，积累客户后自主创业开理发店，或转型为美容教育者。部分理发师走向影视造型等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Barbers' jobs will generally be enhanced by AI tools rather than replaced. While some consultation, booking, and design assistance can be automated, core manual skills and interpersonal interaction are hard to replace; instead, AI can improve efficiency and creativity.
+
+Barbers can progress from apprentice to senior barber, then open their own shop or become beauty educators. Some move into specialized fields like film styling.
+
+**Tasks most exposed to AI:**
+
+- Client consultation and hairstyle recommendations: AI can recommend hairstyles based on face shape, hair texture, and other data
+- Appointment management and customer relationship maintenance: AI chatbots handle scheduling, reminders, and feedback
+- Basic shampoo services: automated shampoo equipment may replace some manual work
+
+**Where AI augments the role:**
+
+- Hair design: AI generates 3D hair simulations to assist designers in previewing effects.
+- Personalized service: AI analyzes customer historical preferences to provide customized recommendations
+- Skills training: AI simulator helps beginners practice cutting techniques
+- Tool maintenance: AI monitors tool wear and automatically reminds for sharpening or replacement
+
+**Human moat:**
+
+- Fine touch and skill of manual haircutting and shaving
+- Ability to build trust and interpersonal connection with clients
+- Flexibility to handle urgent needs and complex hair
+- Creative hairstyling and sharp aesthetic sense
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., 3D hair simulation software)
+- Customer data analysis and personalized service skills
+- New media marketing and personal branding.
+- Cross-border collaboration skills (e.g., joint development with hair product brands).
+- Habit of continuous learning of new technologies and tools
+
+**Key growth areas:**
 
 - Personal care services
 - Self-employment
@@ -63,65 +94,67 @@ Barbers provide haircutting, trimming, shampooing, styling, beard trimming, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 理发师通常不符合专业职业要求，极难获得H-1B |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要雇主担保，且证明劳工短缺，但理发师行业通常不被视为技术移民职业 |
+| Subclass H-1B (H-1B Specialty Occupations) | Barbers usually do not meet professional occupation requirements, very difficult to get H-1B |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires employer sponsorship and proof of labor shortage, but hairdressing is generally not considered a skilled migration occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Barbers？**
-- 喜欢与人交流、注重外观细节的人
-- 有耐心、善于倾听顾客需求的人
-- 愿意通过学徒制手把手学习的人
+**Who is suited**
+- People who enjoy interacting with others and pay attention to appearance details
+- People who are patient and good at listening to customer needs
+- People willing to learn hands-on through an apprenticeship
 
-**谁不适合学Barbers？**
-- 不善于人际互动或不喜欢长时间站立工作的人
-- 追求高薪但不愿投入长期客户积累的人
+**Who is not suited**
+- People not good at interpersonal interaction or who dislike long periods of standing
+- Those pursuing high salary but unwilling to invest in long-term client building
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a barber in the US?**
+A: According to BLS, the median annual wage for barbers in 2023 was about $35,000, including tips. Top barbers can earn over $70,000.
+
+**Q: Can hairdressers immigrate to the U.S. through skilled migration?**
+A: Very difficult. Barbers typically do not qualify for H-1B professional occupations, and EB-3 requires employer sponsorship, which is rarely offered in the industry.
+
+**Q: What licenses do barbers need to obtain?**
+A: Almost all states require a barber license, which involves completing a state-approved training program (typically 1000-1500 hours) and passing written and practical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Barbers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for barbers in the US?**
-答：According to BLS, the median annual wage for barbers in 2023 was about $35,000, including tips. Top earners can exceed $70,000.
-
-**问：Can barbers immigrate to the US through skilled migration?**
-答：Very difficult. Barbers typically do not qualify for H-1B specialty occupations, and EB-3 requires employer sponsorship rarely offered in this field.
-
-**问：What licenses do barbers need?**
-答：Almost all states require a barber license, which involves completing an approved training program (usually 1,000-1,500 hours) and passing written and practical exams.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

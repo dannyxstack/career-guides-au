@@ -1,59 +1,94 @@
-# Vegetable or Crop Production Agricultural Worker（Vegetable or Crop Production Agricultural Worker）职业分析 · FR
+# Vegetable or Crop Production Agricultural Worker — career analysis · France
 
-**职业代码：A1402 – Vegetable or Crop Production Agricultural Worker。**
+**Occupation code: A1402 (ROME)**
 
-Performs planting, maintenance, and harvesting of vegetables or crops in France; often seasonal or permanent employee, forming the basic workforce in agricultural production.
+In France, those engaged in the planting, maintenance, and harvesting of vegetables or crops in the field are mostly seasonal or long-term laborers, serving as grassroots laborers in agricultural production.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求或短期培训 | 0-1年 | —（部分农场提供在职培训） |
-| CAP agricole（农业职业证书） | 2年 | $500~$3,000（可通过 apprentissage 免费学习） |
+| No academic requirements or short-term training | 0-1 year | $0~$1,000 (Some farms offer on-the-job training) |
+| CAP Agricole (Agricultural Vocational Certificate) | 2 years | $500~$3,000 (You can study for free through Apprentissage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP agricole 农产品生产 | 法国农业部/国家教育 | 可选 | 国家认证，促进晋升 |
-| BTSA 农业技术文凭 | 法国农业部/国家教育 | 可选 | 高级文凭，可选 |
-| 驾驶证（B类） | Préfecture | 必备 | 为农机操作和通勤所需 |
+| Driver's license (Class B) | Préfecture | Required | Used for agricultural machinery operation and commuting |
+| CAP agricole agricultural product production | French Ministry of Agriculture / National Education | Optional | National certification to promote promotion |
+| BTSA Diploma in Agricultural Technology | French Ministry of Agriculture / National Education | Optional | Higher diploma, optional |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。法国农业面临劳动力老龄化与季节性短缺，该岗位需求稳定，尤其在有组织的大型农场或合作社中较易就业。但收入较低，体力消耗大。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. French agriculture faces an aging workforce and seasonal shortages, with stable demand for these positions, especially in organized large farms or cooperatives. But the income is low and physical consumption is high.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | SMIC 水平，约 18000-20000 欧元税前 |
-| 中级（3-7年） | $22,000~$26,000 | 具有经验或 CAP |
-| 高级（7年以上或主管） | $26,000~$30,000 | 团队负责人或技术员 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,000~$22,000 | SMIC level, about €18,000–20,000 before tax |
+| Mid-level (3–7 years) | $22,000~$26,000 | Experience or CAP |
+| Senior (7+ years or supervisor) | $26,000~$30,000 | Team leader or technician |
+| average salary | $19,740 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通农业工人晋升为团队负责人、农场主管，或通过进修获得CAP/BTS农业文凭后转为技术员或农场经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Vegetable Planting Agricultural Workers: Physically demanding, AI automation partially monitors, records, and assists decision-making tasks, but field operations rely on human dexterity, resulting in mixed job performance.
+
+You can be promoted from ordinary agricultural worker to team leader or farm supervisor, or after earning a CAP/BTS agricultural diploma through further study, transition to technician or farm manager.
+
+**Tasks most exposed to AI:**
+
+- Crop health monitoring is conducted using sensors and satellite imagery
+- Automatically scheduling irrigation based on weather and soil data
+- Autonomous tractors carry out planting and cultivation
+- Drones spray pesticides and fertilize
+
+**Where AI augments the role:**
+
+- AI-assisted pest and disease identification and precise pesticide application decisions
+- Yield forecasting models guide harvest planning
+- Smart wearable devices enhance worker safety and efficiency
+- Augmented reality (AR) trains new workers to operate machinery
+- Data analysis optimizes crop rotation and planting strategies
+
+**Human moat:**
+
+- Delicate manual operations in complex terrain (such as weeding and planting)
+- An intuitive understanding of the local climate and soil
+- Emergency judgment in unstructured environments
+- Client/cooperative relations and negotiations
+- Machine maintenance and emergency handling
+
+**Skills to build:**
+
+- Intelligent agricultural machinery operation and basic maintenance
+- Agricultural data analysis tools (such as Python/R)
+- Drone operation and image interpretation
+- Precision agriculture software use
+- Basic programming and IoT device management
+- Knowledge of sustainable agricultural practices
+
+**Key growth areas:**
 
 - Sustainable agriculture
 - Organic farming
@@ -62,65 +97,64 @@ Performs planting, maintenance, and harvesting of vegetables or crops in France;
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 持有工作合同即可申请，需获得法国劳动局授权。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若具有高级技能或高薪，可申请人才护照。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后可申请一年期找工作居留。 |
+| Subclass Salarié (Salarié (Employee)) | You can apply with a work contract, but you must obtain authorization from the French Labor Bureau. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with advanced skills or high salaries can apply for a talent passport. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for a one-year job residency period. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vegetable or Crop Production Agricultural Worker？**
-- 喜欢户外体力劳动，能适应季节性与不规律工时
-- 愿意从基础岗位积累农业经验，目标成为农场管理者
-- 对可持续农业或生态种植有兴趣
-
-**谁不适合学Vegetable or Crop Production Agricultural Worker？**
-- 无法承受高强度体力劳动或恶劣天气条件
-- 追求高薪或快速职业晋升者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy outdoor physical labor and can adapt to seasonal and irregular working hours
+- Willing to accumulate agricultural experience from basic positions, aiming to become a farm manager
+- Interest in sustainable agriculture or ecological planting
+
+**Who is not suited**
+- Unable to endure high-intensity physical labor or harsh weather conditions
+- Those seeking high salary or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What are the wage levels for agricultural workers?**
+A: Entry-level positions have a pre-tax annual salary of about 19,000-22,000 euros, usually paid at SMIC, with overtime or seasonal work potentially increasing income.
+
+**Q: Is it easy for foreigners to obtain a work visa for agricultural workers?**
+A: France's agriculture faces labor shortages; employers can apply for work permits but must prove they cannot recruit locals. Seasonal work can apply for a seasonal visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vegetable or Crop Production Agricultural Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural workers?**
-答：Entry-level positions offer around €19,000-22,000 gross per year, typically at SMIC; overtime or seasonal work may increase earnings.
-
-**问：Is it easy for foreigners to obtain a work visa as an agricultural worker?**
-答：Agriculture faces labor shortages; employers can apply for work permits but must prove no local candidates. Seasonal work visas are available.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

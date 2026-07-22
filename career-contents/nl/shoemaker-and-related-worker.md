@@ -1,60 +1,96 @@
-# Shoemaker and Related Worker（Shoemaker and Related Worker）职业分析 · NL
+# Shoemaker and Related Worker — career analysis · Netherlands
 
-**职业代码：7536 – Shoemaker and Related Worker。**
+**Occupation code: 7536 (ISCO08)**
 
-Shoemakers and related workers make, repair, and modify footwear by hand or machine, including leather shoes and sneakers. In the Netherlands, the trade is concentrated in small workshops and some industrial settings.
+Shoemaking and related workers make, repair, and modify footwear by hand or machine, including leather shoes, sports shoes, etc. This occupation is dominated by small to medium workshops in the Netherlands, with some involvement in industrial production lines.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（荷兰政府资助，学费低廉，每年约€0-2000） |
-| 在职学徒培训 | 2-4年 | —（企业培训，可能获得津贴） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Government-funded, low tuition fees in the Netherlands, approx. €0-2000 per year) |
+| On-the-job apprenticeship training | 2-4 years | $0~$500 (Corporate training, may receive an allowance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制鞋工MBO文凭 | ROC职业学校 | 必备 | 荷兰中等职业教育文凭，含理论与实操 |
-| 行业认证（可选） | Shoemakers Association | 可选 | 非强制，但提升就业竞争力 |
+| Shoe maker MBO diploma | ROC Vocational School | Required | Dutch intermediate vocational education diploma, including theory and practice |
+| Industry certification (optional) | Shoemakers Association | Optional | Not mandatory, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。荷兰制鞋业规模较小，但定制和修理市场稳定。受自动化影响，大规模生产线岗位减少，但高端定制和修复技能需求持续，就业前景平稳。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. The Dutch footwear industry is relatively small, but the custom and repair market is stable. Automation has reduced large-scale production line jobs, but demand for high-end customisation and repair skills persists, with stable employment prospects.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，学徒期可能更低 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，熟练工 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含自主创业者 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, may be lower during apprenticeship |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, skilled worker |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary, including self-employed individuals |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒制鞋工起步，可晋升为高级工匠、工坊主管或自主创业开设修鞋店。部分工人转向鞋类设计或质量控制岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Shoe manufacturing jobs are declining due to automated production lines and AI design software, but custom repair and design roles may see slight growth.
+
+Starting as an apprentice shoemaker, can advance to senior craftsman, workshop supervisor, or start your own shoe repair shop. Some workers move into shoe design or quality control.
+
+**Tasks most exposed to AI:**
+
+- Automatic cutting machines replace manual cutting of shoe uppers and soles.
+- AI layout optimizes material utilization, replacing manual planning
+- Robotic sewing completes standardized shoe upper stitching
+- Robotic arm gluing and assembly, replacing manual bonding
+- 3D scanning and printing replace traditional mold making and repair
+
+**Where AI augments the role:**
+
+- AI-assisted design software accelerates footwear concept and sample creation
+- Digital twin simulates footwear performance, reducing physical prototyping
+- 3D scanning of customer feet enables precise customization and comfort optimization
+- Smart management system optimizes work order scheduling and inventory control
+- Online customization platforms connect directly with clients, reducing intermediaries
+
+**Human moat:**
+
+- Designer aesthetic and craft skills for high-end customization
+- Human judgment and innovative solutions in complex restorations
+- The ability to communicate with clients and understand personalized needs
+- Flexible manual skills for small-batch production
+- Brand heritage handcraft culture value and trust
+
+**Skills to build:**
+
+- Learning CAD/CAM footwear design software (e.g., Rhino, iCAD)
+- Master 3D printing operations and post-processing processes
+- Understanding of new material properties (sustainable leather, 3D-printed materials)
+- Learn basic data analysis and inventory management software
+- Enhancing customer communication and custom service capabilities
+- Participating in shoemaking workshop AI tool application training
+
+**Key growth areas:**
 
 - Custom Footwear
 - Leather Craftsmanship
@@ -63,69 +99,68 @@ Shoemakers and related workers make, repair, and modify footwear by hand or mach
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于获得荷兰雇主担保的高技能移民，需满足薪资门槛（2024年约€5,331/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工作者，需拥有高等教育学历且薪资达标准（约€5,667/月）。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的留学生，提供一年找工作时间，找到工作后可转其他居留。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants with a Dutch employer sponsor, must meet the salary threshold (approx. €5,331/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, requires higher education and salary meeting the threshold (approx. €5,667/month). |
+| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated in the Netherlands, providing one year for job seeking; can switch to other residence permits upon finding a job. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shoemaker and Related Worker？**
-- 对手工制作和皮革工艺有热情的人
-- 注重细节、耐心且动手能力强
-- 愿意通过长期学徒积累经验的人
-
-**谁不适合学Shoemaker and Related Worker？**
-- 追求高薪和快速晋升的人
-- 不喜欢重复性手工劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about handmade crafts and leatherwork
+- Detail-oriented, patient, and practical
+- Willing to gain experience through long-term apprenticeships
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike repetitive manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for shoemakers in the Netherlands?**
+A: Entry-level shoemakers earn approximately €22,000-28,000 per year, mid-level €28,000-35,000, and senior up to €45,000. Self-employment income is unstable but can be higher.
+
+**Q: Can foreigners immigrate to the Netherlands through the shoemaker occupation?**
+A: Difficult. This occupation is not on the shortage list; immigration to the Netherlands is mainly through the highly skilled migrant scheme (requiring a minimum salary) or EU free movement channels. Independent shoemakers need to prove skills and obtain employer sponsorship.
+
+**Q: What are the career progression paths for a shoe maker?**
+A: Can advance to senior artisan, workshop supervisor, or start own shoe repair/custom shop. Also can transition to footwear design, quality control, or related training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shoemaker and Related Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for shoemakers in the Netherlands?**
-答：Entry-level shoemakers earn around €22,000-28,000 per year, mid-level €28,000-35,000, and senior up to €45,000. Self-employed earnings vary.
-
-**问：Can foreigners immigrate to the Netherlands as a shoemaker?**
-答：It is difficult. The occupation is not in shortage. Migration is possible via Highly Skilled Migrant (income threshold) or EU free movement. Independent shoemakers need a job offer.
-
-**问：What are the career advancement paths for shoemakers?**
-答：Advance to master craftsman, workshop supervisor, or start your own repair/custom shop. Alternatively, move into shoe design, quality control, or training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

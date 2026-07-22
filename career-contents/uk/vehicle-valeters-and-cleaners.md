@@ -1,59 +1,93 @@
-# Vehicle valeters and cleaners（Vehicle valeters and cleaners）职业分析 · UK
+# Vehicle valeters and cleaners — career analysis · United Kingdom
 
-**职业代码：9226 – Vehicle valeters and cleaners。**
+**Occupation code: 9226 (SOC)**
 
-Vehicle valeters and cleaners clean, wash and polish the interiors and exteriors of ships, aircraft, trains and road vehicles, using hand tools and machinery to ensure a spotless finish.
+Vehicle cleaners and polishers clean and polish the interior and exterior of ships, aircraft, trains, and road vehicles, using manual and mechanical methods to ensure appearance.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无要求 | 无 | —（通常无需正规教育） |
-| 短期培训 | 1-2周 | $200~$500（汽车美容或洗车技术培训） |
+| No requirements | None | $0~$0 (Usually no formal education required) |
+| Short-term training | 1-2 weeks | $200~$500 (Auto detailing or car wash technical training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础健康安全认证 | 雇主 | 可选 | 通常为在职培训，非强制 |
+| Basic health and safety certification | Employer | Optional | Typically on-the-job training, not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 30,000。随着汽车保有量和车辆租赁市场的扩大，车辆清洁服务需求稳定。英国该职业就业人数预计保持平稳，但自动洗车技术可能减少部分低技能岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 30,000. With the expansion of car ownership and vehicle rental markets, demand for vehicle cleaning services remains stable. Employment in this occupation in the UK is expected to remain steady, but automated car wash technology may reduce some low-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $17,000~$20,000 | 全职工资，时薪约8.50-10.00英镑 |
-| 中级（3-5年） | $20,000~$24,000 | 通常包括夜间或周末加班 |
-| 高级（5年以上） | $24,000~$28,000 | 可晋升为团队主管或专业抛光师 |
+| Median salary | $26,598 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $17,000~$20,000 | Full-time wage, hourly rate approximately £8.50-10.00 |
+| Mid-level (3–5 years) | $20,000~$24,000 | Often includes night or weekend overtime |
+| Senior (5+ years) | $24,000~$28,000 | Can advance to team leader or professional polisher |
+| average salary | $27,385 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级清洁工可通过经验积累晋升为高级抛光师或团队主管，部分可转向汽车美容或二手车准备等更专业岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vehicle cleaning work is highly routine; AI and automation will significantly reduce positions, especially with the spread of large car wash equipment, but fine polishing and deep cleaning still require manual labor.
+
+Junior cleaners can advance to senior polishers or team supervisors through experience, and some can move to more specialized roles like auto detailing or used car preparation.
+
+**Tasks most exposed to AI:**
+
+- Automatic car wash completes external rinse and foam cleaning, replacing manual high-pressure water gun operations
+- AI visual inspection systems identify residue stains, replacing manual inspection steps
+- Automatic vacuuming and disinfecting robots clean interior car surfaces
+- Automated polishing robot for large regular surface treatment
+- License plate recognition and payment systems replacing manual toll collection and recording
+
+**Where AI augments the role:**
+
+- AI detection tools assist in identifying paint surface defects and corrosion points, improving polishing accuracy
+- Smart scheduling systems optimize cleaning routes and customer appointments, improving efficiency
+- AR glasses provide interior cleaning step guidance, reducing training costs.
+- Data analysis predicts high-demand periods, helping to arrange manpower and equipment efficiently
+
+**Human moat:**
+
+- Fine manual polishing and scratch repair require experience and feel
+- Cleaning and care of special interior materials like leather and solid wood
+- Direct communication with clients to understand custom requirements
+- Ability to handle sudden dirty or non-standard vehicles
+
+**Skills to build:**
+
+- Familiarity with automatic car wash system operation and basic maintenance
+- Learn paint inspection and repair techniques (e.g., scratch touch-up)
+- Using scheduling and customer management software (e.g., booking platforms)
+- Improving customer service and communication skills
+- Learn basic electrical and mechanical knowledge to maintain cleaning equipment.
+- Understanding environmentally friendly cleaning agents and waste disposal regulations
+
+**Key growth areas:**
 
 - Stable demand
 - Hand car wash
@@ -62,65 +96,67 @@ Vehicle valeters and cleaners clean, wash and polish the interiors and exteriors
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker） | 该职业通常不符合技术工人签证资格，因其技能水平较低。极少雇主能提供担保。 |
-| Subclass Graduate（Graduate） | 毕业生签证允许国际学生在英国工作两年，但该职业薪资较低，可能难以满足生活成本。 |
+| Subclass Skilled Worker (Skilled Worker) | This occupation typically does not qualify for skilled worker visas due to its low skill level. Very few employers can provide sponsorship. |
+| Subclass Graduate (Graduate) | The Graduate Visa allows international students to work in the UK for two years, but the low salary in this occupation may make it difficult to cover living costs. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Vehicle valeters and cleaners？**
-- 喜欢户外工作且动手能力强的人
-- 注重细节，追求车辆外观整洁
-- 愿意从事体力和重复性劳动
+**Who is suited**
+- Suitable for people who enjoy outdoor work and are hands-on
+- Detail-oriented, pursuit of vehicle exterior cleanliness
+- Willing to do physical and repetitive work
 
-**谁不适合学Vehicle valeters and cleaners？**
-- 希望高薪或快速职业晋升的人
-- 对化学清洁剂敏感或有呼吸疾病的人
+**Who is not suited**
+- People seeking high salary or rapid career advancement
+- People sensitive to chemical cleaners or with respiratory conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a vehicle cleaner?**
+A: Entry-level salary approx. £17,000-20,000, senior can reach £28,000, but overall low with limited growth potential.
+
+**Q: Can vehicle cleaners apply for a UK work visa?**
+A: Generally not, this occupation is not on the eligible skilled occupation list for skilled worker visas, and the salary is too low to meet visa requirements.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Limited promotion opportunities, but can become a senior polisher or team supervisor, or move into other areas such as car detailing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Vehicle valeters and cleaners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for vehicle valeters?**
-答：Entry-level salary is around £17,000-£20,000, senior up to £28,000, but generally low with limited growth.
-
-**问：Can vehicle valeters apply for a UK work visa?**
-答：Generally no, as the role is not eligible for Skilled Worker visa due to low skill level and salary.
-
-**问：Are there promotion opportunities?**
-答：Limited, but can progress to senior detailer or team leader, or move into auto detailing.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

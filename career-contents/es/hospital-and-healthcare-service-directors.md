@@ -1,61 +1,97 @@
-# Hospital and Healthcare Service Directors（Hospital and Healthcare Service Directors）职业分析 · ES
+# Hospital and Healthcare Service Directors — career analysis · Spain
 
-**职业代码：1323 – Hospital and Healthcare Service Directors。**
+**Occupation code: 1323 (CNO)**
 
-Direct and manage the operations of hospitals, clinics, or healthcare centers, including strategic planning, finance, HR, quality control, and regulatory compliance. Senior management role in the health system.
+Responsible for managing the overall operations of hospitals, clinics, or medical centers, including strategic planning, finance, human resources, quality control, and ensuring compliance. It is a senior management position within the healthcare system.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$3,000（公立大学学费，视大区而定） |
-| 硕士（Máster） | 1-2年 | $3,000~$15,000（卫生管理或MBA方向） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Tuition fees at public universities vary by region) |
+| Máster | 1-2 years | $3,000~$15,000 (Health Management or MBA direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生管理硕士 | 西班牙大学 | 可选 | 推荐但非强制，显著提升竞争力 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学位需认证，过程耗时数月 |
-| 官方执业执照（如适用） | 各自治区卫生部 | 可选 | 若为医生出身，需注册 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees require authentication, and the process takes several months |
+| Master of Health Management | Spanish University | Optional | Recommended but not mandatory, significantly enhancing competitiveness |
+| Official practice license (if applicable) | Health Ministries of all autonomous regions | Optional | If you are a doctor, registration is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。西班牙人口老龄化持续推高医疗服务需求，公共与私营医疗领域均需高级管理人才。数字化转型和效率提升要求专业管理技能。该职位就业稳定，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Spain's aging population continues to drive up demand for medical services, and both public and private healthcare sectors require senior management talent. Digital transformation and efficiency improvements require professional management skills. The job offers stable employment but fierce competition.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $40,000~$55,000 | 私营小型诊所或公立医院副职 |
-| 中级（5-10年） | $55,000~$75,000 | 中型医院或部门主任 |
-| 高级（10年以上） | $75,000~$120,000 | 大型医院总监或连锁医疗集团区域经理 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $40,000~$55,000 | Deputy positions in private small clinics or public hospitals |
+| Intermediate (5-10 years) | $55,000~$75,000 | Medium-sized hospital or department head |
+| Senior (10+ years) | $75,000~$120,000 | Director of a large hospital or regional manager of a chain medical group |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从医疗专业（医生、护士）或管理岗位起步，逐步晋升为科室主任、副院长，最终至总监。也可通过MBA或卫生管理硕士加速晋升。私营集团内跨机构调任常见。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Healthcare manager roles in the AI era are mixed: task planning, scheduling, and data analysis will be enhanced by automation, but core responsibilities like clinical decisions, personnel management, and regulatory compliance still rely on humans; overall demand stable but content changing profoundly.
+
+Typically, they start in medical professions (doctors, nurses) or management positions, gradually rising to department head, deputy director, and finally to director. You can also accelerate your advancement through an MBA or a Master of Health Management. Cross-institutional transfers within private groups are common.
+
+**Tasks most exposed to AI:**
+
+- Routine scheduling and shift optimization based on historical data
+- Preliminary review and reminders for medical regulatory compliance documents.
+- Automatic generation and anomaly annotation of budgets and financial reports
+- Automated analysis and summarization of patient satisfaction surveys
+- Automated processing of simple HR processes (e.g. leave requests, training records)
+
+**Where AI augments the role:**
+
+- Using AI to analyze operational data to optimize resource allocation and process efficiency
+- Use NLP tools to quickly review policy documents and compliance requirements.
+- Assess population health trends via predictive models to guide service planning
+- Using AI-assisted decision support systems for strategic investment and cost control
+- Using AI communication tools to improve cross-departmental collaboration and information flow
+
+**Human moat:**
+
+- Balancing clinical quality, patient experience, and financial goals in complex decisions
+- Leadership and team motivation, handling interpersonal conflict and change management
+- Emergency response and resource coordination for public health incidents
+- interprofessional communication and negotiation with physicians, nurses, and administrative staff
+- Ethical judgment: balancing AI recommendations with actual circumstances
+
+**Skills to build:**
+
+- Medical data analysis and business intelligence tools (e.g., Tableau, Power BI)
+- Basic AI/machine learning concepts and applications in medical operations
+- Advanced configuration and optimization of electronic health record (EHR) systems
+- Change management and digital transformation leadership
+- Healthcare policy and compliance knowledge (e.g., HIPAA, provincial health regulations)
+- Basic financial management and predictive modeling
+
+**Key growth areas:**
 
 - Aging population
 - Digital transformation
@@ -64,69 +100,68 @@ Direct and manage the operations of hospitals, clinics, or healthcare centers, i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需西班牙雇主提供工作合同，并证明职位无法由本地人填补。适用于受雇于医疗机构的非欧盟公民。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人士，需大学学历和高薪（年薪约33,908欧元以上）。适合有管理经验的申请者。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 面向高管或高级技术人才，审批更快，可携带家属。需高学历及高级管理岗位合同。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by a local resident. Applicable to non-EU citizens employed by medical institutions. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, university education and a high salary are required (annual salary of about 33,908 euros or more). Suitable for applicants with management experience. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Targeted at executives or senior technical talent, faster approval, and family members can be brought along. Requires high academic qualifications and a contract for a senior management position. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hospital and Healthcare Service Directors？**
-- 拥有医疗背景（医学、护理等）并希望转管理的人员
-- 具有卫生管理或MBA学位的经验丰富的管理者
-- 具备战略思维、领导力和财务知识的专业人士
-
-**谁不适合学Hospital and Healthcare Service Directors？**
-- 不善于人际沟通和团队协调者
-- 偏好一线临床工作而非行政决策者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a medical background (medical, nursing, etc.) who wish to transition to management
+- Experienced managers with a degree in health management or an MBA
+- Professionals with strategic thinking, leadership, and financial knowledge
+
+**Who is not suited**
+- Those who struggle with interpersonal communication and team coordination
+- Preference for frontline clinical work over administrative decision-makers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this position in Spain?**
+A: Salary depends on institution size and experience. Entry-level around €40,000-€55,000, mid-level €55,000-€75,000, senior up to €75,000-€120,000. Profit-oriented private institutions may offer higher salaries.
+
+**Q: How can non-EU citizens immigrate to Spain to work in this profession?**
+A: Usually, a Spanish employer must provide a work contract and apply for work residence (Cuenta ajena). Those with high education and high salaries can also apply for the EU Blue Card or the Highly Skilled Professional visa. Foreign degrees require Homologación certification.
+
+**Q: Is a local Spanish degree or license required?**
+A: Local degrees are not mandatory, but foreign degrees must be accredited by Homologación. If you are a doctor, you must register with the relevant autonomous region medical association. Although the Master of Health Management is not mandatory, it greatly increases employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Hospital and Healthcare Service Directors为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this role in Spain?**
-答：Salary depends on institution size and experience. Entry-level: €40,000-55,000; mid-level: €55,000-75,000; senior: €75,000-120,000. Private profit-oriented organizations may pay more.
-
-**问：How can non-EU citizens immigrate to Spain for this occupation?**
-答：Typically need a job offer from a Spanish employer and apply for a work permit (Cuenta ajena). Highly educated and well-paid individuals may also qualify for EU Blue Card or Highly Skilled Professional visa. Foreign degrees require Homologación.
-
-**问：Are Spanish local qualifications or licenses required?**
-答：Local degree is not mandatory, but foreign degrees require Homologación. If you are a physician, you must register with the corresponding regional medical college. A master's in health management is highly recommended though not mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

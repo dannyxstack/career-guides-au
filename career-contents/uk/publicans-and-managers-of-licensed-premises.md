@@ -1,60 +1,96 @@
-# Publicans and managers of licensed premises（Publicans and managers of licensed premises）职业分析 · UK
+# Publicans and managers of licensed premises — career analysis · United Kingdom
 
-**职业代码：1223 – Publicans and managers of licensed premises。**
+**Occupation code: 1223 (SOC)**
 
-Organise, direct and coordinate the activities and resources of public houses, bar and catering facilities in non-residential clubs, ensuring compliance, profitability and service standards.
+Organizing, directing, and coordinating the daily operations of bars, licensed clubs, and non-residential catering facilities to ensure compliance, profitability, and service standards.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中 | 2年 | —（无强制学历要求） |
-| 酒店管理NVQ/文凭 | 1-2年 | $2,000~$8,000（部分雇主资助） |
+| High school | 2 years | $0~$0 (No mandatory education requirement) |
+| NVQ/Diploma in Hospitality Management | 1-2 years | $2,000~$8,000 (Partial employer sponsorship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 持牌人许可（Personal Licence） | 当地政府（Licensing Authority） | 必备 | 管理持牌场所必需 |
-| 酒精服务资格（如BIIAB Level 2 Award） | BIIAB等 | 可选 | 行业证书 |
+| Personal Licence | Local government (Licensing Authority) | Required | Essential for managing licensed premises |
+| Alcohol service qualification (e.g., BIIAB Level 2 Award) | BIIAB, etc. | Optional | Industry certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 52,000。英国酒店业复苏带动需求，但竞争激烈，预计2024-2034年岗位增长率约5%，低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 52,000. Recovery in the UK hospitality industry is driving demand, but competition is fierce. The expected job growth rate from 2024 to 2034 is around 5%, below average.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 助理经理或小型酒吧 |
-| 中级（3-7年） | $26,000~$35,000 | 独立管理酒吧 |
-| 高级（7年以上） | $36,000~$50,000 | 多店经理或高端场所 |
+| Median salary | $38,043 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$25,000 | Assistant Manager or Small Bar |
+| Mid-level (3–7 years) | $26,000~$35,000 | Independent management of a bar |
+| Senior (7+ years) | $36,000~$50,000 | Multi-store manager or high-end venue |
+| average salary | $41,971 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从酒吧服务员晋升为助理经理，再至经理；高级经理可管理多店或区域运营，少部分转向自有创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of bar and licensed venue manager will not only avoid being reduced by AI but will actually be amplified: AI automates administrative, inventory, and compliance processes, allowing managers to focus more on customer experience, team motivation, and community relationships, shifting the core competency from 'managing the venue' to 'building relationships'.
+
+Can progress from bar attendant to assistant manager, then to manager; senior managers may oversee multi-store or regional operations, and a few may start their own businesses.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and automatic replenishment (AI analyses sales data and generates orders)
+- Compliance reports and logs (AI automatically generates health, safety, and alcohol sales compliance documents)
+- Basic shift scheduling and work hour optimization (AI auto-schedules based on visitor flow forecasts)
+- Electronic ordering and payment processing (AI-driven self-service ordering systems)
+- Routine financial reconciliation and reporting (AI automatically integrates bank and sales data)
+
+**Where AI augments the role:**
+
+- Customer relationship management (AI analyzes regular customer preferences to assist personalized recommendations and promotions)
+- Sales forecasting and pricing strategy (AI model optimizes drink menu pricing and inventory turnover)
+- Social media marketing and online reputation management (AI-generated content drafts, monitoring reviews)
+- Employee training and performance analysis (AI tracks skill gaps and recommends training modules)
+- Assisted decision-making in emergencies (AI provides conflict resolution scripts or safety plans)
+
+**Human moat:**
+
+- Complex interpersonal interactions: handling drunk customers, mediating disputes, creating atmosphere
+- On-site response and crisis management: sudden power outages, staff conflicts, customer health issues
+- Team Culture and Leadership: Cultivate employee loyalty, maintain bar morale
+- Local community resources: long-term relationships with suppliers, venues, and festivals
+- Tasting and mixology expertise: sensory evaluation, menu creativity, handcrafted cocktails
+
+**Skills to build:**
+
+- Financial analysis of bar/restaurant operations (using AI-generated profit and loss statements for decision-making).
+- Basic data tools (Excel/BI dashboards to understand sales and inventory trends)
+- AI marketing tools (Canva AI for flyers, ChatGPT for posts)
+- Customer Relationship Management (CRM system operation and AI recommendation interpretation)
+- Emotional intelligence and conflict resolution (advanced interpersonal skills)
+- Digital scheduling and inventory management software (e.g., 7shifts, MarketMan)
+
+**Key growth areas:**
 
 - Hospitality recovery
 - Craft beer trend
@@ -63,66 +99,68 @@ Organise, direct and coordinate the activities and resources of public houses, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保，薪资门槛26,200英镑，但该职业薪资偏低，通常不满足。 |
-| Subclass Graduate（Graduate Visa） | 适合本科及以上毕业生，可工作2年（博士3年），但无担保。 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme） | 18-30岁特定国家青年可来英工作2年，无需担保。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship, salary threshold of £26,200, but this occupation has low pay and usually does not meet it. |
+| Subclass Graduate (Graduate Visa) | Suitable for bachelor's degree or higher graduates, can work for 2 years (PhD 3 years), but no sponsorship. |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme) | Youth aged 18-30 from specific countries can work in the UK for 2 years without sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Publicans and managers of licensed premises？**
-- 喜欢社交和服务他人
-- 能适应不规律工时与快节奏环境
-- 有责任心和合规意识
+**Who is suited**
+- Enjoys socializing and serving others.
+- Able to adapt to irregular hours and a fast-paced environment
+- Responsible and compliance-conscious
 
-**谁不适合学Publicans and managers of licensed premises？**
-- 偏好朝九晚五规律工作
-- 不擅长处理醉客冲突
+**Who is not suited**
+- Prefer regular 9-to-5 work
+- Not good at handling drunk customer conflicts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a bar manager?**
+A: Average annual salary of approximately 28,000-32,000 GBP, with senior managers reaching over 45,000 GBP.
+
+**Q: Can overseas workers become bar managers under the Skilled Worker visa?**
+A: Difficult. The salary threshold is £26,200, and most positions in this occupation fall below this amount, and it is not on the shortage occupation list.
+
+**Q: What licenses are required?**
+A: Must hold a Personal Licence, and it is recommended to obtain an alcohol service qualification (BIIAB Level 2).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Publicans and managers of licensed premises属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a pub manager?**
-答：Average salary is around £28,000-£32,000, with senior managers earning over £45,000.
-
-**问：Can overseas workers become pub managers via Skilled Worker visa?**
-答：Rarely. Salary threshold £26,200, most positions pay less and it's not a shortage occupation.
-
-**问：What licenses are required?**
-答：You must hold a Personal Licence; a BIIAB Level 2 Award in alcohol service is recommended.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Archivist and Curator（Archivist and Curator）职业分析 · NL
+# Archivist and Curator — career analysis · Netherlands
 
-**职业代码：2621 – Archivist and Curator。**
+**Occupation code: 2621 (ISCO08)**
 
-Manage, preserve, study, and exhibit collections in archives, museums, and galleries.
+Responsible for collection management, preservation, research, and exhibition planning in archives, museums, and galleries.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $2,000~$15,000（公立大学学费，欧盟学生约€2,000，非欧盟约€10,000-15,000） |
-| 硕士 | 1-2年（硕士） | $2,000~$20,000（研究型硕士学费与本科类似，部分院校更高） |
+| Bachelor's degree | 4 years (bachelor's degree) | $2,000~$15,000 (Public university tuition: EU students approx. €2,000, non-EU approx. €10,000-15,000) |
+| Master's degree | 1-2 years (Master's) | $2,000~$20,000 (Tuition for research master's degrees is similar to undergraduate, higher at some institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 档案学或相关领域硕士 | 荷兰大学（如阿姆斯特丹大学） | 必备 | 通常要求硕士学历 |
-| 实习经验 | 博物馆或档案馆 | 可选 | 多数职位要求实习或工作经验 |
+| Master's degree in archival science or related field | Dutch universities (e.g., University of Amsterdam) | Required | Typically requires a master's degree |
+| Internship experience | Museum or archive | Optional | Most positions require internships or work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。荷兰文化机构众多，但职位增长缓慢，竞争激烈。数字化转型带来新机会，如数字档案管理。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. The Netherlands has many cultural institutions, but job growth is slow and competition is fierce. Digital transformation brings new opportunities, such as digital archive management.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，公共部门按CAO标准 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含博物馆、档案馆 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，部门主管或资深策展人 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, public sector follows CAO standards |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, including museums and archives |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, department head or senior curator |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理 curator 晋升至部门主管或馆长。多需硕士学历及实习经验，继续教育提升竞争力。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly change the work of archivists and curators: automating metadata extraction, cataloging, and digital preservation, but curatorial narrative, collection interpretation, and ethical judgment still rely on humans.
+
+Can be promoted from assistant curator to department head or museum director. Usually requires a master's degree and internship experience; continuing education enhances competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automated metadata extraction and cataloging
+- Automatic classification and tagging of digital documents
+- Basic digital format conversion and backup for preservation
+- Rule-based information retrieval assistance
+- Routine report generation
+
+**Where AI augments the role:**
+
+- Discover hidden correlations and trends in vast collections using AI tools.
+- Using natural language processing to improve metadata richness and searchability
+- automated layout and personalized recommendations for virtual exhibitions
+- AI-driven audience data analysis to optimize curation strategies
+- Automatically generate multilingual exhibition commentary texts
+
+**Human moat:**
+
+- Curatorial narrative and exhibition concept creative design
+- In-depth interpretation of the historical, cultural, and social value of collections
+- Ethical decision-making (e.g., repatriating disputed artefacts, privacy and representation)
+- Relationship management with artists, donors, and the community
+- Original academic research and interdisciplinary knowledge integration
+
+**Skills to build:**
+
+- Data management and digital curation tools (e.g., Omeka, CollectionSpace)
+- AI/ML fundamentals (e.g., image recognition, NLP in archives)
+- Metadata standards (e.g., Dublin Core, EAD) and Linked Data
+- Digital preservation techniques (OAIS model, format migration)
+- Audience data analysis and visualization
+- Project management and stakeholder communication
+
+**Key growth areas:**
 
 - Digital archiving
 - Cultural heritage
@@ -63,66 +99,68 @@ Manage, preserve, study, and exhibit collections in archives, museums, and galle
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于获得荷兰雇主offer且薪资达门槛的专业人士，需有学位 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历非欧盟公民，需有雇主且薪资较高 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰或世界排名前200高校毕业生可申请，寻职期宽松 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to professionals who have a job offer from a Dutch employer and meet the salary threshold, must have a degree |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated non-EU citizens, requiring an employer and a relatively high salary. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from top 200 universities in the Netherlands or globally can apply; flexible job-seeking period |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Archivist and Curator？**
-- 热爱文化遗产保护，有细致工作态度
-- 具备研究能力和沟通技能
-- 能够适应项目制工作，有策展创意
+**Who is suited**
+- Passionate about cultural heritage preservation, with a meticulous work attitude
+- Possessing research ability and communication skills
+- Ability to adapt to project-based work, with curatorial creativity
 
-**谁不适合学Archivist and Curator？**
-- 追求高薪或快速晋升者
-- 不喜欢静态办公或重复性整理工作
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Dislikes static office work or repetitive organising tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for archivists in the Netherlands?**
+A: Entry-level approximately €28,000-35,000, mid-level €35,000-45,000, senior-level €45,000-60,000; public sector salaries are subject to CAO regulations.
+
+**Q: What are the immigration pathways for foreigners to work in this occupation?**
+A: Main pathways are the Highly Skilled Migrant visa (requires employer sponsorship) and EU Blue Card; Orientation Year provides a job-seeking period for graduates.
+
+**Q: Which Dutch universities offer courses in archival science or curation?**
+A: Universities such as the University of Amsterdam (UvA), Leiden University, and Utrecht University offer relevant master's programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Archivist and Curator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for archivists in the Netherlands?**
-答：Entry-level around €28,000-35,000, mid-level €35,000-45,000, senior €45,000-60,000; public sector follows CAO agreements.
-
-**问：What migration paths exist for foreigners in this occupation?**
-答：Main paths are Highly Skilled Migrant visa (employer-sponsored) and EU Blue Card; Orientation Year allows graduates to search for a job.
-
-**问：Which universities in the Netherlands offer archival or curatorial programs?**
-答：University of Amsterdam (UvA), Leiden University, Utrecht University offer relevant master's programs.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

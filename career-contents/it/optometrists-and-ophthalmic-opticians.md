@@ -1,59 +1,90 @@
-# Optometrists and Ophthalmic Opticians（Optometrists and Ophthalmic Opticians）职业分析 · IT
+# Optometrists and Ophthalmic Opticians — career analysis · Italy
 
-**职业代码：2267 – Optometrists and Ophthalmic Opticians。**
+**Occupation code: 2267 (ISCO08)**
 
-In Italy, optometrists and ophthalmic opticians perform eye exams, prescribe and fit eyeglasses and contact lenses. The profession is regulated, requiring a degree and registration, with stable demand.
+In Italy, optometrists and dispensing opticians are responsible for vision tests, eyeglass fitting, and contact lens adaptation. This profession is regulated, requires relevant degree and registration, with stable market demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $900~$4,000（公立大学学费低，私立较高） |
-| 硕士（专业学位） | 2年 | $3,000~$12,000（部分大学提供） |
+| Bachelor's degree | 3 years | $900~$4,000 (Public universities have low tuition; private ones are higher) |
+| Master's (Professional Degree) | 2 years | $3,000~$12,000 (Offered by some universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视力矫正技师文凭 | 意大利大学 | 必备 | 本科或硕士学历 |
-| 国家注册 | 意大利卫生部 | 必备 | 需通过国家考试 |
-| 继续教育学分 | 专业协会 | 必备 | 每五年更新注册 |
+| Vision Correction Technician Diploma | Italian universities | Required | Bachelor's or master's degree |
+| National Registration | Italian Ministry of Health | Required | Must pass national exam |
+| Continuing education credits | Professional association | Required | Renew registration every five years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。意大利人口老龄化推动视力保健需求增长，就业前景良好。预计未来十年就业增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Italy's aging population drives vision care demand growth, with good employment prospects. Expected employment growth of about 10% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 公立或私立诊所 |
-| 中级（4-7年） | $30,000~$40,000 | 有经验者 |
-| 高级（8年以上） | $40,000~$55,000 | 资深或诊所经理 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$30,000 | Public or private clinic |
+| Mid-level (4-7 years) | $30,000~$40,000 | Experienced individuals |
+| Senior (8+ years) | $40,000~$55,000 | Senior or clinic manager |
+| average salary | $36,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：从助理或初级验光师起步，可晋升为高级验光师、诊所经理或开设私人诊所。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will partially automate optometric data analysis and lens parameter calculations, but regulations require optometrists to take diagnostic responsibility, manually fit complex lenses, and provide personalized services. Technical substitution is limited, and the role remains generally stable.
+
+Career path: start as an assistant or junior optometrist, can advance to senior optometrist, clinic manager, or open a private practice.
+
+**Tasks most exposed to AI:**
+
+- Use auto-refractor for objective refraction measurement
+- AI analyzes corneal topography data to generate preliminary lens fitting plans.
+- Inventory lens parameter matching and automated order processing
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of eye abnormalities (e.g., diabetic retinopathy screening)
+- Optimize patient examination and glasses dispensing workflows through digital processes
+- Virtual try-on technology improves contact lens fitting efficiency
+
+**Human moat:**
+
+- Requires clinical license, responsible for diagnosis and prescription
+- Clinical judgment when managing patients with complex strabismus, amblyopia, etc.
+- Skills such as manually adjusting frames and edging lenses
+- Building long-term patient trust and personalized service
+
+**Skills to build:**
+
+- Learning to operate digital optometric equipment and AI-assisted diagnostic systems
+- Master the use of remote eye testing platforms
+- Improve communication and customer management skills
+- Learn basic data analysis to interpret AI reports
+- Track new eye health technologies (e.g., OCT interpretation).
+- Strengthen personalized eyewear fitting and problem-solving skills.
+
+**Key growth areas:**
 
 - Aging population
 - Increased awareness of eye health
@@ -62,69 +93,68 @@ In Italy, optometrists and ophthalmic opticians perform eye exams, prescribe and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，要求工作合同和学历，年薪需高于意大利平均工资1.5倍。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保，配额有限。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳动局申请工作许可，证明无法在欧盟内招聘到合适人员。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民可自由在意大利工作，无需签证，但需注册和认证。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a work contract and degree, annual salary must be 1.5 times the Italian average wage. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship, limited quotas |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the labor office, proving that suitable personnel cannot be recruited within the EU. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely work in Italy without a visa, but need registration and accreditation. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optometrists and Ophthalmic Opticians？**
-- 细致耐心，注重细节
-- 对视力保健有热情
-- 具备良好的沟通能力
-
-**谁不适合学Optometrists and Ophthalmic Opticians？**
-- 对医疗环境不适应者
-- 不擅长与患者沟通者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous and patient, with attention to detail
+- Passion for eye care
+- Good communication skills
+
+**Who is not suited**
+- Unsuitable for the medical environment
+- Those who are not good at communicating with patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an optometrist in Italy?**
+A: Junior approx. €22,000-30,000, mid-level €30,000-40,000, senior €40,000-55,000 (pre-tax annual salary).
+
+**Q: How can non-EU citizens become optometrists in Italy?**
+A: Requires recognised Italian degree, passing national exam, and registration. Work visa can be applied via EU Blue Card or Decreto Flussi.
+
+**Q: What qualifications do optometrists need in Italy?**
+A: Requires at least 3 years of bachelor's degree (vision correction technician) or 2 years of master's degree, and completion of internship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Optometrists and Ophthalmic Opticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for optometrists in Italy?**
-答：Entry-level: €22,000-30,000, mid-level: €30,000-40,000, senior: €40,000-55,000 (gross annual).
-
-**问：How can non-EU citizens become optometrists in Italy?**
-答：Obtain an Italian-recognized degree, pass national exam, and register. Work visas via EU Blue Card or Decreto Flussi.
-
-**问：What education is required to become an optometrist in Italy?**
-答：At least a 3-year bachelor's degree in orthoptics or a 2-year master's, plus internship.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

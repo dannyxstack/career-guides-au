@@ -1,58 +1,94 @@
-# Medical and Dental Prosthetic Technicians（Medical and Dental Prosthetic Technicians）职业分析 · NL
+# Medical and Dental Prosthetic Technicians — career analysis · Netherlands
 
-**职业代码：3214 – Medical and Dental Prosthetic Technicians。**
+**Occupation code: 3214 (ISCO08)**
 
-Medical and dental prosthetic technicians fabricate, repair, and customize dentures, crowns, bridges, and other oral prosthetics.
+Medical and dental prosthesis technicians make, repair, and customize dentures, crowns, bridges, and other oral prostheses.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年（MBO） | $2,000~$6,000（公立MBO每年学费约2000-6000欧元，因学校和课程而异。） |
-| 应用科学大学 | 4年（HBO） | $7,000~$15,000（HBO每年学费7000-15000欧元，非欧盟学生更高。） |
+| Secondary vocational education | 3 years (MBO) | $2,000~$6,000 (Public MBO tuition fees are approximately €2,000–€6,000 per year, depending on the school and program.) |
+| University of Applied Sciences | 4 years (HBO) | $7,000~$15,000 (HBO tuition fees range from €7,000 to €15,000 per year, higher for non-EU students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科技术员认证 | 荷兰牙科技术协会 (NVT) | 可选 | 完成MBO或HBO课程后可申请，非强制但有助于就业。 |
-| 注册假体技师 | 荷兰质量注册中心 (Kwaliteitsregister) | 可选 | 自愿注册，提升专业可信度。 |
+| Dental Technician Certification | Dutch Dental Technology Association (NVT) | Optional | Can apply after completing MBO or HBO courses, not mandatory but helpful for employment. |
+| Registered Prosthetist | Dutch Quality Register (Kwaliteitsregister) | Optional | Voluntary registration enhances professional credibility. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。荷兰老龄化人口对牙科修复需求持续增加，该职业就业前景稳定，预计未来十年需求增长约5%。技术熟练者就业机会多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. The aging Dutch population keeps demand for dental prosthetics growing; the occupation has stable employment prospects, with expected growth of about 5% over the next decade. Skilled workers have many job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含基本工资和津贴。 |
-| 中级（4-7年） | $32,000~$42,000 | 税前年薪，经验丰富者可更高。 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪，包含高级职位或实验室主管。 |
+| Median salary | $60,466 | Median salary (Official: CBS median hourly wage €30.6/hour × 1976 hours annualized; BRC group 1035 Medisch vakspecialisten; P25–P75 €45,646–€76,471, CBS 2024). |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, including base salary and allowances. |
+| Mid-level (4-7 years) | $32,000~$42,000 | Annual salary before tax, experienced candidates can earn more. |
+| Senior (8+ years) | $42,000~$55,000 | Annual salary before tax, includes senior positions or lab supervisors. |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级技师开始，积累经验后可晋升为高级技师或实验室主管，也可专攻数字化牙科技术（CAD/CAM）或开设自己的实验室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on dental technicians is mixed: digital design (CAD) and automated manufacturing (3D printing) will streamline repetitive tasks, but fine manual work, customized adjustments, and patient communication still require human judgment; jobs won't disappear but skill requirements will upgrade.
+
+Starting as a junior technician, you can advance to senior technician or lab supervisor with experience, or specialize in digital dental technology (CAD/CAM) or open your own lab.
+
+**Tasks most exposed to AI:**
+
+- Using traditional wax patterns or hand carving to create crown shapes
+- Fabricating metal brackets through stamping or casting
+- Manual adjustment and polishing of denture occlusion
+- Record and organize patient model data
+- Fabricate standardized temporary restorations
+
+**Where AI augments the role:**
+
+- Use CAD software for precise digital design of dental prosthetics
+- Rapidly fabricate dental crowns and bridges via 3D printing or CNC machining
+- Using AI-assisted scanning and comparison techniques to improve model accuracy
+- Simulate and optimize occlusal relationships using virtual articulators
+- Collaborate remotely with dentists via digital platforms with real-time feedback
+
+**Human moat:**
+
+- Personalized aesthetic judgment when handling complex cases
+- Intuitive perception and communication of patients' oral conditions
+- Manual fine adjustments to accommodate individual anatomical variations
+- Experience-based decisions in material selection and processing
+- Building trust relationships with dentists and patients
+
+**Skills to build:**
+
+- CAD/CAM software operation (e.g., Exocad, 3Shape)
+- 3D printing and additive manufacturing technology
+- Digital scanning and model analysis tools
+- Knowledge of biocompatible materials science
+- Data management and digital workflow
+- Interdisciplinary collaboration and remote communication skills
+
+**Key growth areas:**
 
 - Dental technology
 - CAD/CAM
@@ -61,68 +97,67 @@ Medical and dental prosthetic technicians fabricate, repair, and customize dentu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达门槛的高技能移民，雇主担保，30% ruling可能适用。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技术人才，要求工作合同和特定薪资标准，可带家属。 |
-| Subclass Orientation Year (Or（Orientation Year） | 荷兰毕业或在世界前200大学毕业生可申请1年求职签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigrants meeting the annual salary threshold, employer-sponsored, 30% ruling may apply. |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled talent, requires work contract and specific salary criteria, can bring family. |
+| Subclass Orientation Year (Or (Orientation Year) | Graduates from the Netherlands or from the world's top 200 universities can apply for a 1-year job-seeking visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical and Dental Prosthetic Technicians？**
-- 注重细节和手工艺的人群
-- 对牙科和医疗技术感兴趣者
-- 独立工作且具备耐心的人
-
-**谁不适合学Medical and Dental Prosthetic Technicians？**
-- 不喜欢重复性精细工作者
-- 不擅长与人沟通者（需与牙医和患者协作）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who pay attention to detail and craftsmanship
+- For those interested in dentistry and medical technology
+- Independent workers with patience
+
+**Who is not suited**
+- Dislikes repetitive fine-detail tasks
+- Not suitable for those poor at communication (needs to collaborate with dentists and patients)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for dental technicians in the Netherlands?**
+A: Entry-level approx. 25,000-32,000 EUR, senior up to 42,000-55,000 EUR (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to the Netherlands as dental technicians?**
+A: It can be obtained through high-skilled migration (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting the relevant salary threshold.
+
+**Q: What educational background is needed to become a dental technician?**
+A: Typically requires MBO (3 years) or HBO (4 years) dental technology courses; some employers offer on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Medical and Dental Prosthetic Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dental technicians in the Netherlands?**
-答：Entry-level €25,000-€32,000, senior €42,000-€55,000 (gross annual).
-
-**问：How can non-EU citizens immigrate as dental technicians?**
-答：Via Highly Skilled Migrant or EU Blue Card, requiring employer sponsorship and salary threshold.
-
-**问：What education is needed to become a dental technician?**
-答：Typically MBO (3 years) or HBO (4 years) in dental technology; some employers offer on-the-job training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

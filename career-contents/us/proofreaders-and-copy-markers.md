@@ -1,60 +1,96 @@
-# Proofreaders and Copy Markers（Proofreaders and Copy Markers）职业分析 · 美国
+# Proofreaders and Copy Markers — career analysis · United States
 
-**职业代码：43-9081 – Proofreaders and Copy Markers。**
+**Occupation code: 43-9081 (SOC)**
 
-Proofreaders and copy markers read transcripts or proof type setup to detect and mark grammatical, typographical, or compositional errors, ensuring text accuracy.
+Proofreaders read manuscripts or layout proofs, check and mark grammar, typesetting, or spelling errors to ensure text accuracy.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（英语、新闻或相关专业学费） |
-| 职业证书 | 6个月 | $1,000~$5,000（在线校对课程费用） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Tuition for English, journalism, or related majors) |
+| Professional certificate | 6 months. | $1,000~$5,000 (Online proofreading course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 校对证书 | 美国编辑协会 | 可选 | 非强制但提升竞争力 |
-| 英语学士学位 | 大学 | 可选 | 常见入职要求 |
+| Proofreading certificate | American Editorial Association | Optional | Not mandatory but enhances competitiveness |
+| Bachelor's degree in English | University | Optional | Common entry requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 11,000。美国校对员岗位预计缓慢增长，受自动化工具影响，但出版、法律和医疗领域仍需要人工校对。
+**Job demand: low (★½☆☆☆).** National workforce approx. 11,000. Proofreader positions in the US are expected to grow slowly, affected by automation tools, but publishing, legal, and medical fields still require human proofreading.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 入门级校对员薪资 |
-| 中级（3-7年） | $40,000~$55,000 | 有经验校对员薪资 |
-| 高级（7年以上） | $55,000~$75,000 | 高级校对或主管薪资 |
+| Median salary | $51,120 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$40,000 | Entry-level proofreader salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Salary of Experienced Proofreader |
+| Senior (7+ years) | $55,000~$75,000 | Senior proofreader or supervisor salary |
+| average salary | $54,800 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级校对员可晋升为高级校对员、编辑或内容经理，也可靠自由职业经验积累。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Proofreaders face significant risk of replacement by AI tools (e.g., grammar checkers, auto-proofreading software), entry-level demand shrinks, but advanced proofreading still requires human judgment of context and stylistic consistency.
+
+Junior proofreaders can advance to senior proofreader, editor, or content manager, also can build experience through freelancing.
+
+**Tasks most exposed to AI:**
+
+- Basic spelling and grammar error checking
+- Repetitive formatting consistency checks
+- Common punctuation and format corrections
+- Simple fact-checking (e.g., dates, numbers)
+- Proofreading standard template content
+
+**Where AI augments the role:**
+
+- Uses AI for rapid full-text scanning to pinpoint potential error areas.
+- Ensure brand tone consistency with AI style guide tools
+- Use AI-assisted multilingual proofreading
+- Analyze proofreading history via AI to optimize workflow
+- AI-assisted generation of proofreading reports to improve communication efficiency
+
+**Human moat:**
+
+- Understand context and author intent, discern rhetorical nuances
+- Handles complex texts that are creative, literary, or highly technical
+- Subjective judgment of style, tone, and emotional color
+- Negotiate revisions directly with authors/editors.
+- Review domain-specific terminology and industry practices that AI cannot recognize
+
+**Skills to build:**
+
+- Advanced editing and writing skills
+- Content management and digital publishing tools usage
+- AI proofreading tool configuration and tuning
+- Data analysis and report generation.
+- Project management and cross-team collaboration
+- Domain expertise (e.g., law, medicine, academia)
+
+**Key growth areas:**
 
 - Slow growth
 - Automation impact
@@ -63,61 +99,63 @@ Proofreaders and copy markers read transcripts or proof type setup to detect and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要学士学位，但校对员不属于专业职业，签证获批困难。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 雇主证明无法招聘到美国工人，路径困难。 |
+| Subclass H-1B (H-1B Specialty Occupations) | A bachelor's degree is usually required, but proofreader is not a professional occupation, making visa applications difficult. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Employer must prove inability to recruit US workers - pathway is difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Proofreaders and Copy Markers？**
-- 细致耐心，擅长发现错误的人群。
-- 对语言和文字敏感，追求准确性的毕业生。
+**Who is suited**
+- People who are meticulous, patient, and good at finding errors.
+- Graduates sensitive to language and text, pursuing accuracy.
 
-**谁不适合学Proofreaders and Copy Markers？**
-- 追求高薪和快速职业晋升的人群。
-- 对重复性工作缺乏耐心的人。
+**Who is not suited**
+- Those seeking high salary and rapid career advancement.
+- Those impatient with repetitive work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a proofreader?**
+A: Entry-level proofreader salary approximately USD 28,000-40,000 per year; senior can reach USD 55,000-75,000.
+
+**Q: Is it easy for proofreaders to immigrate to the US through work visas?**
+A: Proofreaders are not considered professional occupations; H-1B visa approval is difficult, and the green card path is equally challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Proofreaders and Copy Markers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for proofreaders?**
-答：Entry-level proofreaders earn $28,000-$40,000, while senior proofreaders can earn $55,000-$75,000.
-
-**问：Is it easy for proofreaders to immigrate to the US via work visa?**
-答：Proofreaders are not considered specialty occupations, making H-1B and green card paths difficult.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

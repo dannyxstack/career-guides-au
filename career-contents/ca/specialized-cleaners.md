@@ -1,61 +1,97 @@
-# Specialized cleaners（Specialized cleaners）职业分析 · 加拿大
+# Specialized cleaners — career analysis · Canada
 
-**职业代码：65311 – Specialized cleaners。**
+**Occupation code: 65311 (NOC)**
 
-Specialized cleaners use professional equipment and chemicals to clean buildings, carpets, windows, ventilation systems, etc., common in commercial and residential settings.
+Professional cleaners use specialized equipment and chemicals to clean buildings, carpets, windows, ventilation systems, etc., commonly in commercial and residential settings.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（通常无正式教育要求） |
-| 短期职业培训 | 数周 | $500~$2,000（可选） |
+| High school diploma | 4 years | $0~$0 (Typically no formal education requirements) |
+| Short-term vocational training | Several weeks | $500~$2,000 (Optional) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 雇主培训 | 雇主 | 必备 | 多数雇主提供在职培训 |
-| WHMIS认证 | 加拿大标准协会 | 必备 | 工作场所危险材料信息系统认证，处理化学品时需 |
-| 高空作业培训 | 省级安全机构 | 可选 | 如窗户清洁等高空作业需要 |
+| Employer-provided training | Employer | Required | Most employers provide on-the-job training |
+| WHMIS certification | Canadian Standards Association | Required | Workplace Hazardous Materials Information System certification, required when handling chemicals |
+| High-altitude work training | Provincial safety authority | Optional | Required for jobs like window cleaning at heights |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 67,000。加拿大就业前景稳定，由于商业和住宅维护需求持续，尤其在人口增长区域。Job Bank评级为中等需求，部分省份有短缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 67,000. Stable employment outlook in Canada due to ongoing demand for commercial and residential maintenance, especially in population growth areas. Job Bank rates it as moderate demand, with shortages in some provinces.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 根据省份和雇主不同 |
-| 中级（3-6年） | $35,000~$45,000 | 有经验后薪资提升 |
-| 高级（6年以上） | $45,000~$55,000 | 主管或自雇可达更高 |
+| Median salary | $39,998 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Varies by province and employer |
+| Mid-level (3–6 years) | $35,000~$45,000 | Salary increases with experience |
+| Senior (6+ years) | $45,000~$55,000 | Supervisors or self-employed can achieve higher |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径有限，可升为清洁主管或自主创业。需积累经验并可能获得额外认证，如危险品处理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Professional cleaners face high risk of automation replacement; AI and robots will take over most standard cleaning tasks, entry-level jobs decrease sharply, but demand remains for AI-enhanced cleaning solutions and specialized site cleaning.
+
+Limited career progression; can advance to cleaning supervisor or start their own business. Requires experience and possibly additional certifications, such as hazardous materials handling.
+
+**Tasks most exposed to AI:**
+
+- General floor cleaning (sweeping, mopping, vacuuming) is done by autonomous cleaning robots
+- Window cleaning replaced by drones or automatic window cleaning robots
+- Ventilation systems and duct cleaning performed by remote-controlled robots
+- Carpet deep cleaning is done by automated steam cleaning equipment
+- Disinfection and hygiene inspections are automatically monitored by AI vision systems
+
+**Where AI augments the role:**
+
+- Using AI to plan cleaning routes and schedules to improve efficiency
+- Predict high-pollution areas through sensor data analysis and prioritize cleaning
+- Use augmented reality (AR) technology to train cleaners on complex equipment
+- Use AI voice assistants to obtain real-time chemical safety information and operating guidelines
+- Receiving customer feedback via mobile app and automatically adjusting cleaning plans
+
+**Human moat:**
+
+- Handle emergencies involving pollution or hazardous materials (e.g., biochemical spills)
+- Communicate with clients about special cleaning requirements and provide customized solutions
+- Delicate handling when cleaning art treasures or high-value collectibles
+- Adaptive cleaning in complex dynamic environments (e.g., construction sites)
+- Manage cleaning team and maintain robotic equipment
+
+**Skills to build:**
+
+- Cleaning robot operation and maintenance skills
+- Using AI scheduling and data analysis software
+- Professional chemical safety and environmental knowledge
+- Customer communication and problem-solving skills
+- Basic mechanical and electronic maintenance skills
+- Team management and training ability
+
+**Key growth areas:**
 
 - Commercial Cleaning
 - Eco-Friendly Cleaning
@@ -64,66 +100,65 @@ Specialized cleaners use professional equipment and chemicals to clean buildings
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地工人，方可担保工签 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份的低技能类别可能接受 |
-| Subclass Temporary Foreign Wo（Temporary Foreign Worker Program） | 低技能职位需LMIA，工签限制较多 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to hire local workers before sponsoring a work visa |
+| Subclass PNP (Provincial Nominee Program) | Low-skilled categories in some provinces may accept |
+| Subclass Temporary Foreign Wo (Temporary Foreign Worker Program) | Low-skilled positions require LMIA, work visa restrictions apply |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialized cleaners？**
-- 愿意从事体力劳动和清洁工作
-- 注重细节，能独立工作
-- 愿意接受灵活的工作时间
-
-**谁不适合学Specialized cleaners？**
-- 不喜欢使用化学品或接触污垢
-- 希望快速获得加拿大永久居民身份者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to do manual labor and cleaning work
+- Detail-oriented, able to work independently
+- Willing to accept flexible working hours
+
+**Who is not suited**
+- Dislikes using chemicals or coming into contact with dirt
+- Those seeking to quickly obtain Canadian permanent residence
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a professional cleaner in Canada?**
+A: Average annual salary approx CAD 35,000-45,000, depending on experience and province. Senior cleaners or supervisors can reach CAD 50,000+.
+
+**Q: Can professional cleaners immigrate to Canada?**
+A: This occupation is generally not classified as high-skilled, making direct immigration via Federal Express Entry difficult. However, it can be attempted through LMIA work permits or low-skilled PNP streams in some provinces, but pathways are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Specialized cleaners为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for specialized cleaners in Canada?**
-答：The average annual salary is around CAD 35,000 to 45,000, depending on experience and province. Senior cleaners or supervisors can earn over CAD 50,000.
-
-**问：Can specialized cleaners immigrate to Canada?**
-答：This occupation is generally not high-skilled, making direct Express Entry immigration difficult. However, pathways via LMIA work permits or some PNP low-skill streams may be possible, though limited.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

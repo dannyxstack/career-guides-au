@@ -1,62 +1,96 @@
-# Air Traffic Controller（Air Traffic Controller）职业分析 · ES
+# Air Traffic Controller — career analysis · Spain
 
-**职业代码：3154 – Air Traffic Controller。**
+**Occupation code: 3154 (CNO)**
 
-Air traffic controllers in Spain manage aircraft movements in airspace and at airports, using radar and communication systems to guide pilots, prevent collisions, and ensure safe and efficient air traffic flow.
+Air traffic controllers are responsible for safely and efficiently directing aircraft takeoffs, landings, and flights within Spanish airspace and airport control zones, using radar and communication equipment to guide pilots, prevent collisions, and ensure safe and smooth air traffic.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学学费，私立更贵） |
-| 官方空中交通管制培训课程 | 1-2年 | $6,000~$30,000（由ENAIRE认可的培训机构提供） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (Public university tuition fees are more expensive, while private ones are more expensive) |
+| Official air traffic control training courses | 1-2 years | $6,000~$30,000 (Provided by ENAIRE-accredited training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（任意专业） | 西班牙大学 | 必备 | 通常是入门要求，航空、工程或相关领域优先 |
-| EEA空中交通管制员执照 | ENAIRE / AESA | 必备 | 通过EUROCONTROL能力考试获取，强制要求 |
-| ICAO英语能力4级或以上 | ICAO认可机构 | 必备 | 国际通信语言要求 |
-| 体检合格证（Class 3 Medical） | 航空医疗机构 | 必备 | 每2-3年复审 |
+| University Degree (Any Major) | Spanish University | Required | Usually entry-level requirements, with priority given to aerospace, engineering, or related fields |
+| EEA Air Traffic Controller License | ENAIRE / AESA | Required | Passed through the EUROCONTROL proficiency exam, mandatory requirements |
+| ICAO English proficiency level 4 or above | ICAO-accredited body | Required | International communication language requirements |
+| Class 3 Medical Certificate | Aviation medical institutions | Required | Re-examination every 2-3 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,800。随着空中交通量持续增长和机场扩建，西班牙对空中交通管制员的需求稳定。老龄化导致部分岗位空缺，但招聘受严格名额控制。数字化和新技术可能带来新挑战，但职业安全性较高。
+**Job demand: high (★★★★☆).** National workforce approx. 2,800. With continued growth in air traffic and airport expansions, Spain's demand for air traffic controllers remains stable. Aging has led to some job vacancies, but recruitment is subject to strict quota controls. Digitalization and new technologies may bring new challenges, but occupational safety is relatively high.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：极高（★★★★★）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: very high (★★★★★).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 培训后初始薪资 |
-| 中级（4-9年） | $70,000~$100,000 | 中等经验水平 |
-| 高级（10年以上） | $110,000~$150,000 | 主管或高复杂度管制员 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Starting salary after training |
+| Intermediate (4-9 years) | $70,000~$100,000 | Mid-experience level. |
+| Senior (10+ years) | $110,000~$150,000 | Supervisors or high-complexity controllers |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 起点为培训学员，通过内部晋升可成为雷达管制员、进近管制员或区域管制员。资深者可担任主管、监督员或培训教员，少数晋升至管理岗位如运营经理或国家控制中心领导职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+The starting point is training trainees, and through internal promotion, they can become Radar Controllers, Approach Controllers, or Area Controllers. Senior staff may serve as supervisors, supervisors, or trainers, with a few promoted to management positions such as operations managers or leadership positions at the National Control Center.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Air traffic growth
 - Airport expansion
@@ -65,68 +99,67 @@ Air traffic controllers in Spain manage aircraft movements in airspace and at ai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于高技能人才，需大学学位或硕士，工作合同符合薪资门槛（通常年薪超过33,908欧元）。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需西班牙雇主担保工作合同，证明职位无法由本地或欧盟公民填补，通过职业短缺清单或劳动力市场测试。 |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for highly skilled talents requiring a university degree or master's degree, with a work contract meeting the salary threshold (usually annual salary above 33,908 euros). |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A Spanish employer-sponsored work contract is required, proving the position cannot be filled by a local or EU citizen, and passing the occupational shortage list or labor market test. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Air Traffic Controller？**
-- 抗压能力强、能同时处理多项任务的冷静型人格
-- 对航空有浓厚兴趣，愿意接受严格培训和终身学习
-- 优秀的空间思维和快速决策能力
-
-**谁不适合学Air Traffic Controller？**
-- 无法承受高压力或轮班工作的人
-- 不愿频繁迁移工作地点（机场分布各地）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Calm personality with strong stress tolerance and ability to handle multiple tasks simultaneously.
+- Strong interest in aviation, willing to undergo rigorous training and lifelong learning
+- Excellent spatial thinking and quick decision-making skills
+
+**Who is not suited**
+- People who cannot handle high pressure or shift work
+- Unwilling to frequently relocate workplaces (airports are distributed across various locations)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for air traffic controllers in Spain?**
+A: Entry-level about 45,000-60,000 EUR, mid-level 70,000-100,000, senior 110,000-150,000 per year (pre-tax). Including allowances, overall among the higher levels in Europe.
+
+**Q: Can non-EU citizens become Spanish air traffic controllers?**
+A: Yes, but it's quite challenging. Spanish employer sponsorship is required, and candidates must pass rigorous selection processes, as well as meet language and educational requirements. Academic credential verification and controller license conversion are the main obstacles. EU citizens are advised to take priority.
+
+**Q: What educational background is required to become an air traffic controller?**
+A: A university degree (any major) is usually required, followed by attending an ENAIRE-recognized regulatory training course and obtaining a license. ICAO Level 4 English and a medical certificate are essential.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 困难（★★★★★） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Air Traffic Controller为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for air traffic controllers in Spain?**
-答：Entry-level: 45,000-60,000 EUR; mid-level: 70,000-100,000 EUR; senior: 110,000-150,000 EUR gross per year, including allowances.
-
-**问：Can non-EU citizens become air traffic controllers in Spain?**
-答：Yes, but challenging. Requires employer sponsorship, passing strict selection, and meeting language/education requirements. License conversion and recognition are major hurdles.
-
-**问：What education is needed to become an air traffic controller?**
-答：Typically a university degree (any field), followed by an ENAIRE-approved training program and obtaining a license. ICAO English Level 4 and medical certificate are mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

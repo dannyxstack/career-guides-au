@@ -1,59 +1,94 @@
-# Boilermaker（Boilermaker）职业分析 · 新西兰
+# Boilermaker — career analysis · New Zealand
 
-**职业代码：322111 – Boilermaker。**
+**Occupation code: 322111 (ANZSCO)**
 
-Boilermakers fabricate, install, and maintain boilers, pressure vessels, and structural steel components, playing a key role in New Zealand's construction, manufacturing, and infrastructure projects. This occupation is on the Green List Tier 1, offering a direct pathway to residence.
+Boilermakers manufacture, install, and repair boilers, pressure vessels, and structural steel components. They are key tradespeople in New Zealand's construction, manufacturing, and infrastructure projects. This occupation is on the Green List Tier 1, allowing for direct residence application with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 4年 | $5,000~$10,000（新西兰工务局批准学徒项目，雇主资助，个人承担部分工具和教材费） |
-| 新西兰学历认证框架5级证书 | 1-2年 | $8,000~$15,000（理工学院或私立培训提供，含实习） |
+| Apprenticeship | 4 years | $5,000~$10,000 (New Zealand Apprenticeships approved by the Tertiary Education Commission, employer-funded, individual pays for some tools and materials) |
+| New Zealand Qualifications Framework Level 5 certificate | 1-2 years | $8,000~$15,000 (Offered by polytechnics or private training, includes internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰锅炉工证书（New Zealand Certificate in Engineering Fabrication - Boilermaking） | 新西兰工务局（BCITO） | 必备 | 完成学徒制后获得，行业标准资质 |
-| 焊接资质（如ISO 9606） | 新西兰焊接协会 | 可选 | 特定焊接工艺要求，提升就业竞争力 |
-| 压力容器检验员证书 | 新西兰标准局 | 可选 | 涉及压力容器工作所需 |
+| New Zealand Certificate in Engineering Fabrication - Boilermaking | BCITO | Required | Obtained after completing apprenticeship, industry standard qualification |
+| Welding certification (e.g., ISO 9606) | New Zealand Welding Association | Optional | Specific welding process requirements to enhance employment competitiveness |
+| Pressure vessel inspector certificate | Standards New Zealand | Optional | Required for work involving pressure vessels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰基建投资持续增长，特别是管道、能源和制造业领域，锅炉工需求稳定。Skills NZ预测未来5年每年约有50-100个职位空缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Ongoing infrastructure investment in New Zealand, particularly in pipeline, energy, and manufacturing sectors, drives steady demand for boilermakers. Skills NZ projects about 50-100 job openings annually over the next 5 years, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒期或刚取得证书的薪资 |
-| 中级（3-5年） | $60,000~$80,000 | 持证并有经验的熟练工 |
-| 高级（5年以上） | $80,000~$100,000 | 领班或持高级证书者 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Salary during apprenticeship or just after certification |
+| Mid-level (3–5 years) | $60,000~$80,000 | Certified and experienced skilled workers |
+| Senior (5+ years) | $80,000~$100,000 | Foreman or holder of advanced certification |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级锅炉工可晋升为高级技工、领班或项目监理，部分人通过考取焊接或压力容器检验证书进入质检或培训岗位。积累经验后还可自雇或创办工程公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Boilermakers' core manual welding and assembly are difficult to fully replace by AI in the short term, but AI-driven design optimization, non-destructive testing, and automated welding will significantly change task structures. Entry-level competition intensifies, while experienced tradespeople gain value in complex projects.
+
+Junior boiler makers can advance to senior technician, foreman, or project supervisor. Some obtain certifications in welding or pressure vessel inspection to move into quality control or training roles. With experience, can also become self-employed or start an engineering company.
+
+**Tasks most exposed to AI:**
+
+- Automated welding of repetitive seams (AI-guided welding robots)
+- Standard tank and pipeline modeling and nesting layout (AI-generated cutting paths)
+- Routine non-destructive testing report generation (AI analyzes X-ray/ultrasound data)
+- Inventory management and material ordering (AI predicts demand)
+
+**Where AI augments the role:**
+
+- Path planning and parameter optimization for complex curved surface welding (AI simulates optimal angles)
+- Remote expert assistance (AR overlay for welding guidance)
+- Quality prediction and defect prevention (real-time sensors + AI alerts)
+- Project management and schedule optimization (AI Gantt charts)
+- Safety risk assessment (AI analyzes construction data)
+
+**Human moat:**
+
+- On-site inspection and modification of non-standard, high-pressure vessels (unpredictable environments)
+- High-precision manual welding (e.g., titanium alloys, composite materials)
+- Cross-trade coordination and safety supervision responsibilities
+- Customer communication and custom solution design
+- Physical flexibility and ability to work in confined spaces
+
+**Skills to build:**
+
+- Automated welding and robot programming (e.g., FANUC, ABB)
+- 3D modeling and CAD/CAM (SolidWorks, AutoCAD)
+- Data Analysis Basics (Python/Excel)
+- Use of digital twin/AR maintenance assistance tools
+- Project management certification (e.g., PMP)
+- Safety and quality standards (ASME, AWS)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Boilermakers fabricate, install, and maintain boilers, pressure vessels, and str
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 锅炉工在绿色清单第一类，满足职业和工资要求可直接申请居留，无需先工作满2年 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，持认可雇主offer可获3分，新西兰学历或工作经验再累积 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未直接满足居留条件，可通过认证雇主工作签证先工作，后续转居民 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Boilermakers are on the Green List Tier 1; meeting occupation and salary requirements allows direct residence application without needing to work for 2 years first |
+| Subclass SMC (Skilled Migrant Category) | Through a 6-point skilled immigration system, getting a recognized employer offer earns 3 points, and New Zealand qualifications or work experience accumulate more. |
+| Subclass AEWV (Accredited Employer Work Visa) | If not directly meeting residence conditions, can work via Accredited Employer Work Visa first, then later transition to residence |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Boilermaker？**
-- 喜欢动手操作、对金属加工和焊接有兴趣的人
-- 适应体力劳动和户外/车间环境的人
-- 寻求清晰移民路径的技术工人
-
-**谁不适合学Boilermaker？**
-- 不愿从事高强度体力或接触高温/噪音环境的人
-- 希望快速取得高薪且无学徒期的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and have an interest in metalworking and welding
+- Those suited to physical labor and outdoor/workshop environments
+- Skilled workers seeking clear migration pathways
+
+**Who is not suited**
+- People unwilling to engage in high-intensity physical labour or exposure to heat/noise environments
+- Those hoping to quickly achieve high pay without an apprenticeship period
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a boiler maker in New Zealand?**
+A: Junior boiler operators (0-3 years experience) earn approximately NZD 45,000-60,000 annually, intermediate up to NZD 60,000-80,000, advanced or supervisors above NZD 80,000.
+
+**Q: How can a boiler operator immigrate to New Zealand via the Green List?**
+A: Boilermakers are on the Green List Tier 1: if you have a job offer from an accredited employer and wages reach the median (about $29.66 NZD/hour), you can directly apply for residence without working for 2 years first.
+
+**Q: How to certify overseas boiler qualifications in New Zealand?**
+A: Requires qualification assessment through the Building and Construction Industry Training Organisation (BCITO), may need supplementary courses or exams. Australian equivalent certificates are usually directly recognized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Boilermaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a boilermaker in New Zealand?**
-答：Entry-level boilermakers (0-3 years experience) earn around NZ$45,000 to NZ$60,000 per year, mid-level NZ$60,000 to NZ$80,000, and senior/fitters over NZ$80,000.
-
-**问：How can a boilermaker migrate to New Zealand via the Green List?**
-答：Boilermakers are on Green List Tier 1. If you have a job offer from an accredited employer and meet the median wage (approx. NZ$29.66/hour), you can apply for residence directly without first working for 2 years.
-
-**问：How are overseas boilermaker qualifications recognized in New Zealand?**
-答：You need to have your qualifications assessed by BCITO. You may need to complete bridging courses or exams. Australian qualifications are usually directly recognized.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

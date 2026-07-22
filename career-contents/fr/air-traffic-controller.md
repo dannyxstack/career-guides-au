@@ -1,60 +1,94 @@
-# Air Traffic Controller（Air Traffic Controller）职业分析 · FR
+# Air Traffic Controller — career analysis · France
 
-**职业代码：N2202 – Air Traffic Controller。**
+**Occupation code: N2202 (ROME)**
 
-Responsible for monitoring and directing aircraft to ensure safe and orderly flight in airspace and airports, using radar and radio communication to manage takeoffs, landings, and en-route separation.
+Responsible for monitoring and commanding the safe and orderly flight of aircraft at airports and airspaces, ensuring takeoff and landing, route spacing, and navigation efficiency through radar and radio communications.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 预科+专门培训 | 3年（École nationale de l'aviation civile） | —（ENAC招生通过竞赛，录取后为带薪培训（月薪约1000-1500€）） |
+| Foundation + specialized training | 3 years (École nationale de l'aviation civile) | $0~$0 (ENAC recruits through competitions, and after admission, paid training is available (monthly salary about €1000-1500).) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 空中交通管制员执照（Licence de contrôleur de la navigation aérienne） | DSNA（Direction des services de la navigation aérienne） | 必备 | 通过ENAC培训及实习后由DSNA颁发，强制性 |
-| 管制员医学体检认证 | 法国航空医学委员会 | 必备 | 每2-3年复查，必须维持 |
-| 英语语言能力证明（ICAO Level 4以上） | DSNA或认证测试中心 | 必备 | 强制要求，必须达到ICAO 4级或以上 |
+| Air traffic controller license (Licence de contrôleur de la navigation aérienne) | DSNA（Direction des services de la navigation aérienne） | Required | After completing ENAC training and internships, the certificate is mandatory by DSNA |
+| Controller medical examination certification | French Aviation Medical Committee | Required | Checked every 2-3 years and must be maintained |
+| Proof of English language proficiency (ICAO Level 4 or above) | DSNA or Certification Testing Center | Required | Mandatory requirement: must reach ICAO Level 4 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★½☆☆）。** 全国从业人数约 4,000。法国空中交通管理持续现代化（如SESAR项目），但自然退休率高，招聘稳定。需通过严苛选拔和培训，就业竞争中等但岗位稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,000. France's air traffic management continues to modernize (such as the SESAR project), but naturally has a high retirement rate and stable hiring. Candidates must undergo rigorous selection and training, with moderate competition but stable job positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $45,000~$65,000 | 税前年薪，含津贴和倒班补贴 |
-| 中级（5-15年） | $65,000~$95,000 | 税前年薪，资深管制员或区域管制 |
-| 高级（15年以上或主管） | $95,000~$140,000 | 税前年薪，含管理职责和绩效奖金 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $45,000~$65,000 | Pre-tax annual salary, including allowances and shift allowances |
+| Intermediate (5-15 years) | $65,000~$95,000 | Pre-tax annual salary, senior controllers or regional controllers |
+| Senior (over 15 years or supervisor) | $95,000~$140,000 | Pre-tax annual salary, including management responsibilities and performance bonuses |
+| average salary | $52,632 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 晋升路径：从机场管制员到区域管制中心主管，再到管理层（如DSNA高级职务）。也可转向航空安全或咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Promotion path: from airport controller to regional control center supervisor, then to management (such as senior DSNA positions). It can also be expanded into aviation safety or consulting fields.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Air traffic management modernization
 - SESAR program
@@ -63,69 +97,68 @@ Responsible for monitoring and directing aircraft to ensure safe and orderly fli
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：不友好（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue européen（EU Blue Card） | 若来自第三国，需受雇于法国空管机构且年薪满足门槛（约53k€），但岗位通常内招，极少对外籍开放。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能专业人员，但该职业受法国国籍或欧盟国籍偏好，外国申请者极难获批。 |
-| Subclass Salarié（Work Residence Permit） | 常规工作居留，但需雇主证明无法在欧盟内招聘到合适人选，实际通路极窄。 |
+| Subclass Carte bleue européen (EU Blue Card) | If coming from a third country, you must be employed by a French air traffic control agency and meet the annual salary threshold (about €53k), but the position is usually recruited internally and rarely open to foreigners. |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled professionals, but this profession is preferred by French or EU nationality, making it extremely difficult for foreign applicants to be approved. |
+| Subclass Salarié (Work Residence Permit) | Regular work residency, but employers must prove that suitable candidates cannot be recruited within the EU, resulting in very limited actual channels. |
 
-**PR难度：极高（★★★★★）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Air Traffic Controller？**
-- 抗压能力强、能长时间集中注意力的候选人
-- 喜欢结构化、程序化工作且对航空有热情的人
-- 愿意接受长期严格培训并适应倒班工作的人才
-
-**谁不适合学Air Traffic Controller？**
-- 无法适应昼夜轮班或高压力环境的人
-- 对英语和法语非母语者，语言要求极高
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Candidates with strong stress tolerance and the ability to concentrate for long periods
+- People who enjoy structured, procedural work and are passionate about aviation
+- Talents willing to undergo long-term, rigorous training and adapt to shift work
+
+**Who is not suited**
+- People who cannot adapt to shifts around the clock or high-pressure environments
+- For non-native speakers of English and French, the language requirements are extremely high
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for air traffic controllers in France?**
+A: Junior controllers earn about €45-65k per year, intermediate staff €65-95k, and senior or supervisor salaries can reach €95-140k (before tax), including various allowances.
+
+**Q: Can third-country citizens become French air traffic controllers through skilled migration?**
+A: extremely difficult. This profession usually only recruits French or EU citizens due to national security and language requirements. Third-country citizens must pass the ENAC competition and obtain employer sponsorship, but in practice, this is almost impossible.
+
+**Q: What is the promotion path for air traffic controllers?**
+A: Starting as an airport controller, you can be promoted to regional controller, chief controller, chief controller, then operations supervisor or DSNA management, and can also transition to trainer or security expert.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中等偏低（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Air Traffic Controller为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of air traffic controllers in France?**
-答：Entry-level controllers earn around €45-65k gross annually, mid-level €65-95k, and senior or supervisors up to €95-140k, including allowances.
-
-**问：Can a third-country national become an air traffic controller in France via skilled migration?**
-答：Extremely difficult. The profession is generally restricted to French/EU citizens due to national security and language requirements. Third-country nationals would need to pass ENAC exams and obtain sponsorship, but it is nearly impossible in practice.
-
-**问：What is the career progression for an air traffic controller?**
-答：Start as an airport controller, advance to area controller, supervisor, chief controller, then operations manager or DSNA management, or move to training or safety roles.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

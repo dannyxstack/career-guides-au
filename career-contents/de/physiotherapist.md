@@ -1,61 +1,96 @@
-# Physiotherapist（Physiotherapist）职业分析 · DE
+# Physiotherapist — career analysis · Germany
 
-**职业代码：8171 – Physiotherapist。**
+**Occupation code: 8171 (KldB)**
 
-Physiotherapists in Germany assess and treat patients with movement dysfunctions using exercise, manual therapy, and physical modalities. It is a regulated healthcare profession requiring state certification.
+Physiotherapists in Germany assess and treat patients with movement dysfunction through exercise, manual therapy, and physical modalities. This is a regulated healthcare profession requiring state certification.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制 Ausbildung | 3年 | —（通常免学费，部分州有少量材料费） |
-| 本科（应用科学大学） | 3-4年 | —（公立大学基本免学费，仅注册费） |
+| Dual system Ausbildung (Vocational Training) | 3 years | $0~$500 (Usually tuition-free, with some states having small material fees) |
+| Bachelor's degree (University of Applied Sciences) | 3-4 years | $0~$1,500 (Public universities are basically tuition-free, only registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家执业许可（Approbation） | 各州卫生局 | 必备 | 所有从业者必须持有，需通过国家考试或学历认证 |
-| 物理治疗学位或职业培训证书 | 学校或大学 | 必备 | 双元制或本科均可 |
-| 境外学历资质认证 | 联邦认可机构（如BQ-Portal） | 必备 | 非欧盟学历需通过等效性审核，可能需补修课程 |
+| State professional license (Approbation) | State health departments | Required | All practitioners must hold, requires passing national exam or qualification recognition |
+| Physiotherapy degree or vocational training certificate | School or university | Required | Either dual system or bachelor's degree acceptable |
+| Overseas qualification credential evaluation | Federally recognized bodies (such as BQ-Portal). | Required | Non-EU qualifications require equivalence review, possibly requiring supplementary courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。德国物理治疗师长期紧缺，尤其在农村和东部地区。老龄化社会推高需求，岗位增长持续。预计2025-2030年需求增长15%以上。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. Physiotherapists are in chronic shortage in Germany, especially in rural and eastern areas. Aging society drives demand, with job growth continuing. Demand is expected to rise by over 15% from 2025-2030.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $31,000~$38,000 | 公立医院TVöD P8起薪 |
-| 中级（3-7年） | $38,000~$48,000 | 包含经验加成与绩效 |
-| 高级（7年以上/专科） | $48,000~$60,000 | 专科或管理岗可达更高 |
+| Median salary | $42,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $31,000~$38,000 | Starting salary at TVöD P8 in public hospitals |
+| Mid-level (3–7 years) | $38,000~$48,000 | Includes experience bonuses and performance pay |
+| Senior (7+ years / diploma) | $48,000~$60,000 | Specialist or managerial roles can be higher |
+| average salary | $44,076 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径：从临床物理治疗师起步，可升任高级治疗师、科室主管或专科治疗师（如神经、骨科）。也可转向教学、科研或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
+
+Career path: Starting as a clinical physiotherapist, can progress to senior therapist, department head, or specialist therapist (e.g., neurological, orthopedic). Also possible to move into teaching, research, or opening a private practice.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patient assessment reports and rehabilitation progress records
+- Automatically adjust basic training plans using AI analysis of sports data.
+- Replaces measurement work in routine posture analysis and gait assessment
+- Automating patient appointments, follow-ups, and insurance coding entry.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient biomechanical data to provide precise rehabilitation advice
+- Use virtual reality and wearable devices to monitor and optimize patient training in real time
+- Quickly retrieve latest research and practice guidelines through natural language processing.
+- AI-assisted image recognition helps quickly locate musculoskeletal abnormalities.
+- Remote rehabilitation platforms support patient home training and progress tracking
+
+**Human moat:**
+
+- Manual manipulation skills (joint mobilization, soft tissue release, etc.)
+- Clinical reasoning and comprehensive judgment of complex cases
+- Patient psychological support and behavior change motivation
+- Interdisciplinary team collaboration and individualized treatment plan customization
+- Final decision-making authority involving medical liability and patient safety
+
+**Skills to build:**
+
+- Proficiency in electronic health record systems and clinical decision support tools
+- Learn biomechanical data analysis and wearable device interpretation.
+- Familiar with remote rehabilitation platforms and virtual reality rehabilitation technology
+- Improve communication skills for patient education and health behavior coaching
+- understand AI ethics and privacy regulations in rehabilitation
+- Participating in interdisciplinary digital health project practice
+
+**Key growth areas:**
 
 - aging population
 - rising rehabilitation demand
@@ -64,69 +99,68 @@ Physiotherapists in Germany assess and treat patients with movement dysfunctions
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于学历达标的物理治疗师，需找到雇主且年收入超阈值（2024年约45,300欧元）。 |
-| Subclass Skilled Worker (Fach（Skilled Worker Visa） | 对紧缺职业物理治疗师无收入门槛限制，但需持有德国认可的职业资格。 |
-| Subclass Recognition Partners（Recognition Partnership） | 允许在资质认证期间先赴德工作，雇主支持认证过程。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to physiotherapists who meet educational requirements: need to find an employer and earn above the threshold (approx. EUR 45,300 in 2024). |
+| Subclass Skilled Worker (Fach (Skilled Worker Visa) | No income threshold for physiotherapists in shortage occupation, but must hold German-recognized professional qualifications. |
+| Subclass Recognition Partners (Recognition Partnership) | Allows working in Germany first during qualification certification, with employer supporting the certification process. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 对运动康复有热情的医学背景人士
-- 愿意学习德语并通过国家考试者
-- 寻求稳定且社会需求大的职业者
-
-**谁不适合学Physiotherapist？**
-- 不喜欢高强度体力劳动和直接患者接触者
-- 缺乏耐心和沟通技巧者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical professionals with a passion for sports rehabilitation
+- Willing to learn German and pass the state examination
+- Seeking job seekers who want stability and high social demand
+
+**Who is not suited**
+- Those who dislike high-intensity physical labor and direct patient contact
+- Those lacking patience and communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a physiotherapist in Germany?**
+A: German physiotherapist annual salary approx. €35,000-€60,000, junior approx. €31,000-€38,000, senior up to €60,000. Public hospitals offer good benefits, private clinics may pay more.
+
+**Q: Is it difficult to immigrate to Germany as a physiotherapist from outside the EU?**
+A: Moderately difficult, as qualifications recognized in Germany are required. You can apply for a work visa after completing the qualification recognition process (Anerkennung). Shortage occupations have faster approval.
+
+**Q: What are the education pathways for a physiotherapist?**
+A: Mainly dual-system training (3 years, tuition-free) and bachelor's degree (3-4 years, low tuition at public universities). Both require passing a national exam for licensure.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physiotherapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a physiotherapist in Germany?**
-答：Physiotherapists in Germany earn about €35,000-€60,000 annually, entry-level €31,000-€38,000, senior up to €60,000. Public hospitals offer good benefits.
-
-**问：Is it difficult to immigrate as a physiotherapist from outside the EU?**
-答：It is moderately difficult due to required credential recognition. After recognition, skilled worker visas are available, with fast-track for shortage occupations.
-
-**问：What education paths are there for physiotherapists?**
-答：Main paths: 3-year dual training (tuition-free) and 3-4 year bachelor's (low tuition). Both require state exam for licensure.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

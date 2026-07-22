@@ -1,124 +1,160 @@
-# Tour and travel guides（Tour and travel guides）职业分析 · 加拿大
+# Tour and travel guides — career analysis · Canada
 
-**职业代码：64320 – Tour and travel guides。**
+**Occupation code: 64314 (NOC)**
 
-Tour and travel guides lead groups or individuals on tours of attractions, museums, or cities, providing commentary on history, culture, or natural scenery. They may plan itineraries, arrange transportation and accommodation, and ensure visitor safety and satisfaction.
+Provides guided tours, itinerary planning, and travel product bookings for tourists, covering city sightseeing, nature, and cultural heritage. Canada's tourism sector is recovering, and demand for Chinese-speaking guides is rising due to increased Chinese tourists. Immigration options include provincial nominations (e.g., PNP) or Express Entry, subject to language and licensing requirements.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（基础要求，多数雇主提供在职培训） |
-| 旅游管理大专或证书 | 1-2年 | $5,000~$15,000（部分雇主偏好相关教育背景） |
+| High school graduation | 12 years | $0~$0 (Basic requirements) |
+| Diploma in Tourism Management | 2 years | $15,000~$35,000 (Colleges or universities, such as VCC, Seneca) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级导游执照 | 各省旅游局或旅游行业协会 | 必备 | 部分省份（如魁北克、卑诗省）要求导游持有执照 |
-| 急救证书 | 红十字会或圣约翰急救 | 可选 | 雇主常要求或推荐 |
+| ECA (Educational Credential Assessment). | WES/IQAS | Required | Overseas qualifications need credential assessment for immigration points |
+| English language test | IELTS/CELPIP | Required | CLB 7+ for EE, CLB 5+ for PNP |
+| Provincial tour guide license | Provincial tourism boards (e.g., OnTourism) | Optional | Required in BC and Quebec, optional but recommended in other provinces. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 21,000。加拿大旅游业复苏强劲，导游需求逐渐回升。大城市和热门旅游区机会较多，但季节性明显。预计未来十年该职业增长稳定，但竞争因季节性波动而变化。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Canada tourism is expected to fully recover to pre-pandemic levels by 2025, with international tourist growth driving demand for guides, especially French and Chinese-speaking guides. Seasonal (mainly summer) with more opportunities in provinces like BC, Ontario, Quebec, but full-time positions are limited.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 兼职常见，实际收入可能更低 |
-| 中级（3-7年） | $35,000~$45,000 | 全职，含小费收入 |
-| 高级（7年以上） | $45,000~$55,000 | 资深导游或主管级别 |
+| Median salary | $39,520 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $25,000~$35,000 | Part-time primarily, with overtime during peak season |
+| Mid-level (3–7 years) | $35,000~$50,000 | Full-time tour guide or consultant, including tips |
+| Senior (7+ years) | $45,000~$65,000 | Senior guide/manager, generous tips |
+| average salary | $41,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 导游可从兼职起步，积累经验后晋升为高级导游或团队主管，也可转向旅游协调、活动策划或旅游管理岗位。部分导游通过考取省级导游执照提升职业前景。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The tour guide industry will see significant impact from AI tools: audio guides, translation AI, and itinerary planners will replace some narration and booking work, but human emotional connection, flexibility, and deep cultural interpretation remain irreplaceable. Entry-level competition increases, but demand for high-end custom tours rises.
 
-- Seasonal demand
+Entry-level guides can advance to senior guides or travel consultants (customizing high-end routes) with experience. Also can move into tour operations management, destination marketing, or start a travel agency, or obtain a guide certificate (e.g., CITC certification) to increase competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Standard sightseeing narration: AI voice guides provide multilingual, unbiased attraction introductions
+- Basic travel booking: online platforms and AI assistants automatically complete flight, hotel, and ticket bookings
+- Simple inquiry responses: chatbots handle common questions such as opening hours and directions.
+- Multilingual translation: real-time translation devices or apps replace some human translation needs
+
+**Where AI augments the role:**
+
+- Personalized itinerary design: AI analyzes tourist preference data to assist guides in creating unique routes
+- Real-time information integration: AR overlays historical info, weather, crowd data to enrich onsite commentary
+- Smart emergency support: AI quickly provides local emergency numbers, medical translation, route alternatives
+- Customer relationship management: AI records tourist feedback, helping guides optimize service details
+
+**Human moat:**
+
+- Deep cultural interpretation: ability to combine historical events, local legends with on-site context to evoke emotional resonance
+- Flexibility: handling emergencies (e.g., weather changes, tourist health issues) requires human judgment
+- Interpersonal interaction and trust: building emotional connections with visitors, handling sensitive topics and special needs
+- Non-standardized creativity: designing unique activities like themed experiences or interactive games that cannot be replicated by AI
+
+**Skills to build:**
+
+- Use of AI tour guide and planning tools (e.g., Tripadvisor, GetYourGuide backend)
+- Multicultural sensitivity and cross-cultural communication skills (especially for Chinese-speaking tourists)
+- Crisis management and first aid certification (e.g., Red Cross)
+- Content creation skills (producing personalized tour videos, social media marketing)
+- Data analysis basics (interpreting visitor preference data to optimise services)
+- Second language (e.g., French, Spanish) to enhance competitiveness
+
+**Key growth areas:**
+
+- Provincial Nominee
+- Mandarin demand
 - Tourism recovery
-- Eco-tourism
-- Cultural tourism
+- Seasonal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA雇佣外国导游，但除非特殊技能或语言需求，获批难度较大 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份旅游旺季存在临时劳工短缺，可能通过省提名支持申请 |
+| Subclass EE (Express Entry (FSW/CEC)) | Requires 1 year Canadian experience (CEC) or overseas experience (FSW), CLB 7 or above, and CRS scoring. Guide position NOC B class, eligible for points. |
+| Subclass PNP (Provincial Nominee Program) | BC PNP (tourism stream), Ontario, Alberta have relevant programs. Requires employer offer or provincial labour market requirements, some require French. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tour and travel guides？**
-- 热爱与人交流，善于讲解和沟通
-- 对历史、文化或自然有浓厚兴趣
-- 适应灵活工作时间，能应对旺季高强度
+**Who is suited**
+- Those with strong language skills, native Chinese and fluent English
+- Love for travel, strong communication skills, and adaptability
+- Those hoping to accumulate local experience in tourism before switching to other careers
 
-**谁不适合学Tour and travel guides？**
-- 不喜欢户外工作或长时间站立行走
-- 不愿处理游客投诉或突发状况
+**Who is not suited**
+- People seeking high-paying stable careers (income fluctuating)
+- Those who dislike outdoor work or cannot adapt to seasonal restrictions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual salary of a tour guide in Canada?**
+A: Entry-level about CAD 25,000–35,000, mid-level 35,000–50,000, senior 45,000–65,000. Tips account for 10–30% of income. Highly seasonal, with possible unemployment in winter.
+
+**Q: Can a tour guide immigrate to Canada through Express Entry?**
+A: Yes, it falls under NOC 64314 (B class), meeting FSW or CEC requirements. However, CRS score needs to be high (usually 470+), so it's recommended to gain Canadian work experience first or go through PNP.
+
+**Q: What license do I need to become a tour guide in Canada?**
+A: Some provinces like BC require a tour guide licence (issued by Tourism BC), and Quebec also requires it. Ontario and others don't mandate it, but having a licence improves employability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tour and travel guides属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the main source of income for tour guides?**
-答：Base salary is usually low; tips are a significant supplement. Peak season can be lucrative, but annual income fluctuates.
-
-**问：Can foreign nationals immigrate to Canada as a tour guide?**
-答：Tour guides are low-skilled (TEER 4) and generally ineligible for Express Entry. Provincial nominations are limited; LMIA work permit is the main route, but difficult to obtain.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

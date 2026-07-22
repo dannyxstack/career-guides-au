@@ -1,59 +1,92 @@
-# Geographers（Geographers）职业分析 · 美国
+# Geographers — career analysis · United States
 
-**职业代码：19-3092 – Geographers。**
+**Occupation code: 19-3092 (SOC)**
 
-Study the nature and use of Earth's surface areas, interpreting interactions of physical and cultural phenomena; conduct research on landforms, climates, soils, and human spatial activities.
+Study the properties and use of areas on the Earth's surface, analyze the interaction of natural and cultural phenomena, conduct research on terrain, climate, soil, and spatial impacts of human activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$60,000（公立大学年学费约1-2万美元，私立更贵） |
-| 硕士 | 2年 | $30,000~$50,000（年学费约1.5-2.5万美元） |
-| 博士 | 5年 | $20,000~$40,000（通常有助学金或奖学金覆盖） |
+| Bachelor's degree | 4 years | $40,000~$60,000 (Annual tuition at public universities is about USD 10,000-20,000; private universities are more expensive.) |
+| Master's degree | 2 years | $30,000~$50,000 (Annual tuition approx. $15,000-25,000 USD.) |
+| Doctorate | 5 years | $20,000~$40,000 (Usually covered by grants or scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地理学或相关领域学士学位 | 大学 | 必备 | 基础要求，硕士/博士更利于高级职位 |
-| 地理信息系统(GIS)认证 | GIS认证机构 | 可选 | 如ESRI技术认证，提升就业竞争力 |
+| Bachelor's degree in geography or a related field | University | Required | Basic requirement; master's/PhD preferred for senior positions |
+| Geographic Information System (GIS) certification | GIS certification body | Optional | Such as ESRI technical certification to enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。地理学家就业增长平稳，预计2022-2032年增长约5%，受气候变化、城市规划及环境分析需求驱动，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. Geographer employment growth is steady, projected to grow about 5% from 2022 to 2032, driven by climate change, urban planning, and environmental analysis, but competition is fierce.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 入门级分析师或助理职位 |
-| 中级（3-7年） | $60,000~$85,000 | 有经验的地理学家或项目协调员 |
-| 高级（7年以上） | $85,000~$110,000 | 高级研究员、项目经理或学术职位 |
+| Median salary | $102,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Entry-level analyst or assistant position |
+| Mid-level (3–7 years) | $60,000~$85,000 | Experienced geographer or project coordinator |
+| Senior (7+ years) | $85,000~$110,000 | Senior researcher, project manager, or academic position |
+| average salary | $102,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级研究员或分析师起步，可晋升为高级研究员、项目负责人，或转向城市规划、GIS专家等方向，博士学位利于学术界发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Geographer's task structure is being reshaped by AI: data analysis and map production are highly automated, but field surveys and policy advice rely on human judgment. Entry-level competition intensifies, requiring GIS and remote sensing skills while strengthening human-machine collaboration.
+
+Start as junior researcher or analyst, can advance to senior researcher, project leader, or transition to urban planning, GIS specialist; PhD beneficial for academia.
+
+**Tasks most exposed to AI:**
+
+- Basic map making and spatial data management replaced by GIS automation tools
+- Remote sensing image classification and feature extraction, deep learning models more efficient
+- Statistical mapping and data visualization, AI tools for one-click generation
+- Repetitive geographic data collection and cleaning, automated via scripts
+
+**Where AI augments the role:**
+
+- Utilizes machine learning models to automatically identify land use changes from remote sensing images
+- analyze text geographic information using natural language processing to extract spatiotemporal patterns
+- AI-assisted climate simulation and spatial statistical analysis to accelerate research hypothesis validation
+- Automatically generates initial drafts of geographical research reports, saving writing time
+- Virtual Reality (VR) combined with GIS to create immersive geography teaching environments
+
+**Human moat:**
+
+- Field-based survey and data validation skills, reliant on senses and experience
+- Interdisciplinary comprehensive analysis and policy recommendations, requiring human value judgment
+- Community engagement and stakeholder communication, requires trust-building.
+- Creative theory building and hypothesis generation, AI cannot autonomously produce
+
+**Skills to build:**
+
+- Advanced GIS analysis (e.g., spatial statistics, network analysis)
+- Remote sensing and machine learning (deep learning libraries in Python/R)
+- Data science (data cleaning, visualization, cloud computing)
+- Natural Language Processing (for parsing unstructured geographic text)
+- Human-machine collaboration and AI tool management
+
+**Key growth areas:**
 
 - Climate Change
 - GIS Technology
@@ -62,69 +95,68 @@ Study the nature and use of Earth's surface areas, interpreting interactions of 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于学士及以上学位的地理学家，每年配额有限，需抽签。 |
-| Subclass EB-2（Employment-Based Immigration: Second Preference） | 适用于硕士及以上或特殊能力者，需PERM劳工证。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference） | 适用于学士学位或技工，需PERM劳工证。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在领域内有杰出成就的地理学家。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to geographers with a bachelor's degree or higher, with an annual quota limit and lottery system. |
+| Subclass EB-2 (Employment-Based Immigration: Second Preference) | For master's degree or higher or special ability, requires PERM labor certification. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference) | Applicable for bachelor's degrees or trades, requiring PERM labor certification. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For geographers with outstanding achievements in their field. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geographers？**
-- 对自然与社会空间关系有浓厚兴趣的研究型人才
-- 擅长GIS和数据分析的技术型人才
-- 希望在环境、城市规划领域发展的跨学科人才
-
-**谁不适合学Geographers？**
-- 不喜欢户外或实地考察工作的人
-- 追求高薪且快速回报的职业道路的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research-oriented individuals with a strong interest in the spatial relationships between nature and society
+- Technical talent skilled in GIS and data analysis
+- Interdisciplinary talent aspiring to work in environment and urban planning
+
+**Who is not suited**
+- People who dislike outdoor or field work
+- Those seeking high-paying and fast-return career paths
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a geographer?**
+A: According to BLS data, the median annual salary for geographers is about US$85,000, entry-level about US$50,000, and senior can exceed US$110,000.
+
+**Q: Can geographers immigrate to the US via H-1B visa?**
+A: Yes, geographers belong to professional occupations, requiring employer sponsorship and lottery participation, but quota is tight. EB-2/EB-3 green card path is feasible, requiring PERM.
+
+**Q: What are the career development paths for a geographer?**
+A: Can enter government agencies, environmental consulting firms, or universities; progress from analyst to senior researcher or project manager; PhD can enter academia.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Geographers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for geographers?**
-答：According to BLS, median annual wage is about $85,000, entry-level around $50,000, senior over $110,000.
-
-**问：Can geographers immigrate to the US via H-1B visa?**
-答：Yes, as a specialty occupation, but subject to lottery. EB-2/EB-3 green card paths are feasible with PERM.
-
-**问：What are the career progression paths for geographers?**
-答：Careers in government, environmental consulting, or academia, advancing from analyst to senior researcher, project manager, or professor.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,96 @@
-# 网页开发（Web Developer）职业分析 · 澳大利亚
+# Web Developer — career analysis · Australia
 
-**职业代码：261212 – Web Developer。**
+**Occupation code: 261212 (ANZSCO)**
 
-网页开发负责设计、构建和维护网站与 Web 应用，涵盖前端界面、后端逻辑与性能优化。澳洲各行业数字化对 Web 技能需求稳定，且属于 IT 技术移民职业，是较友好的入行与移民方向之一。
+Web development involves designing, building and maintaining websites and web applications, covering front-end interfaces, back-end logic and performance optimisation. Demand for web skills is stable across Australian industries, and it is a recognised IT skilled migration occupation, making it one of the more accessible pathways for both career entry and migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of IT / Computer Science | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| Diploma of IT / Web Development | 1~2年 | $8,000~$20,000（TAFE 路径） |
-| Coding Bootcamp / 自学作品集 | 3~9个月 | —（需作品集支撑） |
+| Bachelor of IT / Computer Science | 3 years | $25,000~$45,000 (International students approx. $100k–$140k total fees) |
+| Diploma of IT / Web Development | 1–2 years | $8,000~$20,000 (TAFE pathway) |
+| Coding bootcamp / self-taught portfolio | 3–9 months | $0~$15,000 (Portfolio required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of IT / Computer Science | 认可大学 | 可选 | 技术移民 ACS 评估首选 |
-| ACS Skills Assessment | Australian Computer Society | 可选 | 技术移民必备 |
-| AWS / Azure 云认证（可选） | Amazon / Microsoft | 可选 | 全栈/部署加分 |
+| Bachelor of IT / Computer Science | Recognised university | Optional | First choice for skilled migration ACS assessment |
+| ACS Skills Assessment | Australian Computer Society | Optional | Essential for skilled migration |
+| AWS / Azure cloud certification (optional) | Amazon / Microsoft | Optional | Full-stack / deployment experience is a bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 28,000。澳洲企业持续投入数字渠道，前端框架（React/Vue）、全栈和电商方向需求旺盛；初级岗位竞争加剧，具备全栈、云部署和无障碍/性能经验者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Australian businesses continue to invest in digital channels, driving strong demand for front-end frameworks (React/Vue), full-stack and e-commerce roles; competition for junior positions is intensifying, with candidates who have full-stack, cloud deployment, and accessibility/performance experience being more sought after.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,200 个 | 全国，含全栈/前端 |
-| Indeed | 900~1,600 个 | 全国 |
-| LinkedIn | 1,000~1,800 个 | 偏企业直招 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $65,000~$82,000 | Junior/Front-end Dev |
-| 中级（3-7年） | $85,000~$115,000 | Mid / Full-stack |
-| 高级（7年+） | $115,000~$145,000 | Senior / Lead |
+| Median salary | $128,752 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$82,000 | Junior/Front-end Dev |
+| Mid-level (3–7 years) | $85,000~$115,000 | Mid / Full-stack |
+| Senior (7+ years) | $115,000~$145,000 | Senior / Lead |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显。职业路径可向全栈工程师、前端架构师或软件工程师延伸。技术移民需通过 ACS 技能评估。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
+
+React/Next.js is the mainstream front-end stack, with Node.js full-stack and headless CMS adoption growing significantly. Career paths can extend to full-stack engineer, front-end architect, or software engineer. Skilled migrants are required to pass an ACS skills assessment.
+
+**Tasks most exposed to AI:**
+
+- Repetitive UI component writing and style debugging
+- CRUD code generation for standard REST APIs
+- Building static pages based on templates
+- Writing and executing basic test cases
+- Simple database queries and data migration scripts
+
+**Where AI augments the role:**
+
+- AI-assisted rapid prototyping and code snippet generation to accelerate development iteration
+- AI-driven automated testing and error detection to improve code quality
+- Using AI code review tools to detect potential security vulnerabilities and performance bottlenecks
+- AI-generated documentation and API descriptions to reduce writing time
+- AI-assisted project schedule estimation and technical solution selection
+
+**Human moat:**
+
+- System architecture design and technology selection decisions
+- Understanding of complex business logic and implementation of non-standard requirements
+- Empathy and creativity in user research and experience optimization
+- Cross-Team Communication and Project Management Skills
+- System security, compliance, and operational assurance
+
+**Skills to build:**
+
+- Master advanced usage of AI code assistants (e.g., Copilot, Cody)
+- Learning system architecture design and cloud-native technologies (AWS/Azure/GCP)
+- Strengthen full-stack development skills (frontend + backend + database)
+- Improve knowledge of UX design and accessibility standards
+- Learning AI model integration and API calls (e.g., LangChain, OpenAI API)
+- Cultivating project management and agile methodology (e.g., Scrum, SAFe)
+
+**Key growth areas:**
 
 - React / Next.js Front-end
 - Headless CMS & JAMstack
@@ -70,70 +100,68 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称TSS），按职责匹配ANZSCO |
-| Subclass 186（ENS） | 雇主担保永居，需ACS评估 |
-| Subclass 190（Skilled Nominated） | 州提名，按各州清单 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS), matched to ANZSCO by job duties |
+| Subclass 186 (ENS) | Employer-sponsored permanent residence, requires ACS assessment |
+| Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学网页开发？**
-- 喜欢做产品界面与交互的人
-- 自学能力强、能积累作品集者
-- 希望走IT技术移民通道的转行者
-
-**谁不适合学网页开发？**
-- 不愿持续学习新框架者
-- 偏好稳定流程化工作的人
-- 排斥与设计/产品频繁沟通者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy product UI and interaction design
+- Strong self-learners who can build a portfolio
+- Career changers looking to pursue skilled migration through the IT pathway
+
+**Who is not suited**
+- Those unwilling to continuously learn new frameworks
+- People who prefer stable, process-driven work
+- Uncomfortable with frequent communication with design and product teams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for web developers in Australia?**
+A: Entry-level: approx. AUD $65k–$82k, mid-level full-stack: $85k–$115k, senior: $115k–$145k; cloud and full-stack skills command a premium.
+
+**Q: Can web development lead to a skilled migration visa?**
+A: Yes. Web Developer (261212) is an IT skilled migration occupation. Pathways include the 482 Skills in Demand employer sponsorship, 186 permanent residency, and 190 state nomination. An ACS skills assessment is required, with duties matched to the relevant ANZSCO code.
+
+**Q: Is it easy to find work as a web developer in Australia?**
+A: Demand is steady; Seek consistently lists 1,200–2,200 positions, but competition at entry level is fierce — having a portfolio and full-stack experience significantly improves employment prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 261212 Web Developers 数据 |
-| Seek AU | 薪资与岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-网页开发的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲网页开发工资多少？**
-答：初级约AUD $6.5万~$8.2万，中级全栈$8.5万~$11.5万，高级$11.5万~$14.5万，云和全栈技能有溢价。
-
-**问：网页开发能技术移民吗？**
-答：可以。Web Developer（261212）是IT技术移民职业，可走482 Skills in Demand雇主担保、186永居、190州提名，需通过ACS技能评估，并按具体职责匹配ANZSCO。
-
-**问：澳洲网页开发好找工作吗？**
-答：需求稳定，Seek常年有1200~2200个职位，但初级竞争激烈，有作品集和全栈经验更易就业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

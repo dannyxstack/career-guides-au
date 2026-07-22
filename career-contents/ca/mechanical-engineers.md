@@ -1,59 +1,95 @@
-# Mechanical engineers（Mechanical engineers）职业分析 · 加拿大
+# Mechanical engineers — career analysis · Canada
 
-**职业代码：21301 – Mechanical engineers。**
+**Occupation code: 21301 (NOC)**
 
-Mechanical engineers in Canada design, analyze, and test mechanical systems for manufacturing, mining, energy, and construction. This occupation is eligible for Express Entry and PNP immigration, with high demand in Alberta, Ontario, and BC.
+Mechanical engineers in Canada design, analyze, and test mechanical systems for manufacturing, mining, energy, construction, etc. This occupation is eligible for Express Entry or PNP skilled migration, with high demand in Alberta, Ontario, and BC.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（工程学士） | 4年 | $20,000~$50,000（国际学生学费，年均5000-12500 CAD） |
-| 硕士（工程硕士） | 1-2年 | $15,000~$40,000（国际学生总学费，视学校而定） |
+| Bachelor's degree (Engineering) | 4 years | $20,000~$50,000 (International student tuition, average CAD 5,000-12,500 per year) |
+| Master's (Master of Engineering) | 1-2 years | $15,000~$40,000 (Total international student tuition fees, depending on the school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES / IQAS等 | 必备 | 移民必需，用于证明海外学历等同加拿大本科 |
-| 专业工程师执照（P.Eng.） | 各省工程师协会 | 可选 | 从业2年后可申请，非移民必需但就业推荐 |
-| 英语/法语语言考试 | IELTS / TEF等 | 必备 | 移民必需，CLB 7以上 |
+| Educational credential assessment (ECA) | WES / IQAS etc. | Required | Required for immigration to prove overseas degree equivalent to Canadian bachelor's |
+| English/French language test | IELTS / TEF etc. | Required | Required for immigration, CLB 7 or above |
+| Professional Engineer license (P.Eng.) | Provincial engineering associations | Optional | Can be applied for after 2 years of work; not mandatory for immigration but recommended for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。加拿大机械工程师就业前景良好，预计到2031年将有约15,500个职位空缺。需求主要来自制造业、清洁技术、石油天然气和建筑服务。持工程认证（P.Eng.）者更具竞争力。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Job prospects for mechanical engineers in Canada are good, with about 15,500 job openings expected by 2031. Demand mainly from manufacturing, clean technology, oil and gas, and building services. Those with P.Eng. certification are more competitive.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 中位数约65000 CAD |
-| 中级（4-7年） | $75,000~$100,000 | 中位数约87000 CAD |
-| 高级（8年+） | $100,000~$135,000 | 中位数约115000 CAD |
+| Median salary | $94,994 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Median approx. CAD 65,000 |
+| Mid-level (4-7 years) | $75,000~$100,000 | Median around 87,000 CAD |
+| Senior (8+ years) | $100,000~$135,000 | Median approximately 115,000 CAD |
+| average salary | $104,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级机械工程师可从设计或现场支持起步，积累经验后可晋升为高级工程师、项目经理或技术专家。获得P.Eng.执照后，可独立执业并承担更大职责，部分人转向管理或咨询岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
+
+Junior mechanical engineers can start in design or on-site support, gain experience to advance to senior engineer, project manager, or technical expert. After obtaining P.Eng. license, they can practice independently and take on greater responsibilities; some transition to management or consulting roles.
+
+**Tasks most exposed to AI:**
+
+- Generates standard 3D models and 2D engineering drawings (AI can automatically generate from parameters)
+- Topology optimization prescreening of part structures (AI rapidly iterates hundreds of designs).
+- Review design code compliance (e.g., automatic ASME standard checks)
+- Writing routine technical documentation and BOMs (AI can auto-generate)
+- Basic thermal/flow/structure simulation setup and post-processing (AI automatic parameter tuning)
+
+**Where AI augments the role:**
+
+- AI-assisted generative design explores unconventional structural solutions, sparking innovation
+- AI real-time digital twin predicts fatigue life and maintenance windows
+- AI clustering analysis of historical failure data to accelerate fault diagnosis
+- Quick retrieval of technical literature and standards via AI natural language interface
+- AI automatically generates initial design space for multiphysics coupled optimization.
+
+**Human moat:**
+
+- Systematic physical intuition and multi-constraint coupled decision-making (safety/cost/manufacturing process)
+- Cross-disciplinary needs communication and project risk assessment
+- Human brain association and roundabout solutions to unexpected problems on site
+- Quantitative trade-off of conservatism for uncertainty (e.g., material batch variation).
+- Ethical/environmental responsibility attribution (e.g., legal consequences of mechanical failure)
+
+**Skills to build:**
+
+- Generative design software (e.g., Fusion 360 Generative Design)
+- Digital twin platform (e.g., ANSYS Twin Builder) operation.
+- Python/R script automation for simulation workflows
+- AI/ML basics (regression, clustering for fault prediction).
+- Systematic approach to fault diagnosis and root cause analysis
+- Project management and cross-cultural communication (collaboration with CA engineering teams)
+
+**Key growth areas:**
 
 - Clean Energy
 - Automation
@@ -62,68 +98,67 @@ Mechanical engineers in Canada design, analyze, and test mechanical systems for 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 联邦快速通道，基于CRS评分，适合年轻、高学历、英语好的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 省提名，如安省、阿尔伯塔、BC省，需有雇主offer或当地经验 |
-| Subclass TFW（Temporary Foreign Worker） | 临时外国工人计划，通过LMIA获得工签，后转PR |
+| Subclass EE (Express Entry (FSW/CEC)) | Federal Express Entry, based on CRS score, suitable for young, highly educated, English-proficient applicants |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination, e.g. Ontario, Alberta, British Columbia, requires a job offer or local experience |
+| Subclass TFW (Temporary Foreign Worker) | Temporary Foreign Worker Program: obtain work permit via LMIA, then transition to PR. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical engineers？**
-- 具有工科本科或以上学历，英语良好者
-- 有制造业、能源或汽车行业经验者
-- 愿意在阿尔伯塔、安大略等省份工作的人
-
-**谁不适合学Mechanical engineers？**
-- 不愿考取专业工程师执照者
-- 对高强度工程分析和现场工作排斥的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an engineering bachelor's degree or higher and good English skills
+- Those with experience in manufacturing, energy, or automotive industries
+- Those willing to work in Alberta, Ontario, and other provinces
+
+**Who is not suited**
+- Those unwilling to obtain a professional engineer license
+- Not suitable for those averse to intensive engineering analysis and fieldwork
+
+---
+
+## 8. FAQ
+
+**Q: what are the salary levels for mechanical engineers in Canada?**
+A: Entry-level is about 55,000-75,000 CAD, intermediate 75,000-100,000, senior 100,000-135,000. Mining and oil & gas industries have higher salaries.
+
+**Q: What are the pathways for overseas mechanical engineers to immigrate to Canada?**
+A: Mainly through Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Requires Educational Credential Assessment (ECA), language test (CLB7+), and work experience. Some PNP streams require a job offer.
+
+**Q: Do mechanical engineers need to obtain a P.Eng. license?**
+A: Not mandatory for immigration, but obtaining P.Eng. can significantly boost job opportunities and salary, especially in positions requiring signing authority such as consultant or project manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等偏难（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for mechanical engineers in Canada?**
-答：Entry level: CAD 55k-75k; Mid: 75k-100k; Senior: 100k-135k. Mining and oil & gas sectors pay higher.
-
-**问：What are the immigration pathways for overseas mechanical engineers to Canada?**
-答：Mainly via Express Entry (FSW/CEC) or PNP. Required: ECA, language test (CLB7+), work experience. Some PNPs require a job offer.
-
-**问：Is P.Eng. license mandatory for mechanical engineers?**
-答：Not mandatory for immigration, but highly recommended for career advancement and higher pay, especially for roles requiring signing authority.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

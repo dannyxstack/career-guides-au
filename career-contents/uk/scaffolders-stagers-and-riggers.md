@@ -1,59 +1,93 @@
-# Scaffolders, stagers and riggers（Scaffolders, stagers and riggers）职业分析 · UK
+# Scaffolders, stagers and riggers — career analysis · United Kingdom
 
-**职业代码：8151 – Scaffolders, stagers and riggers。**
+**Occupation code: 8151 (SOC)**
 
-Erect and dismantle scaffolding and working platforms, set up lifting equipment and ships' rigging, maintain and repair steeples, industrial chimneys and other tall structures, and install, maintain and repair ropes, wires and cables.
+Assemble and dismantle scaffolding and work platforms, install lifting equipment and ship rigging, maintain and repair spires, industrial chimneys and other tall structures, and install, maintain and repair ropes, wires and cables
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（学徒期间由雇主支付工资，培训费用通常由政府或雇主承担） |
-| NVQ/SVQ 2-3级 | 1-2年 | $2,000~$5,000（可通过在职培训或培训中心完成） |
+| Apprenticeship | 2-4 years | $0~$1,000 (Apprentices are paid by the employer, and training costs are usually covered by the government or employer) |
+| NVQ/SVQ Level 2-3 | 1-2 years | $2,000~$5,000 (Can be completed through on-the-job training or at a training centre) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 2/3级脚手架作业 | City & Guilds / CITB | 必备 | 国家职业资格，行业认可 |
-| CISRS 脚手架工卡 | CISRS (Construction Industry Scaffolders Record Scheme) | 必备 | 行业注册，安全检查必备 |
-| 高空作业安全证书 | CITB或培训机构 | 可选 | 如IPAF或PASMA证书 |
+| NVQ Level 2/3 Scaffolding Operations | City & Guilds / CITB | Required | National vocational qualification, industry recognized |
+| CISRS Scaffolder Card | CISRS (Construction Industry Scaffolders Record Scheme) | Required | Industry registration, essential for safety inspections |
+| Safety certificate for working at heights | CITB or training provider | Optional | Such as IPAF or PASMA certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。英国建筑行业持续增长，大型基础设施项目（如HS2、核电站）推动对脚手架工和索具工的需求。预计未来十年就业增长稳定，但受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The UK construction industry continues to grow, with large infrastructure projects (e.g., HS2, nuclear power plants) driving demand for scaffolders and riggers. Stable employment growth is expected over the next decade, but subject to economic cycles.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒或初级工，取决于地区 |
-| 中级（3-8年） | $28,000~$38,000 | 持有NVQ3并有现场经验 |
-| 高级（8年以上） | $38,000~$50,000 | 主管、高级工或特殊项目经验 |
+| Median salary | $41,548 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprentice or entry-level, depends on region |
+| Mid-level (3–8 years) | $28,000~$38,000 | Hold NVQ3 with field experience |
+| Senior (8+ years) | $38,000~$50,000 | Supervisor, senior, or special project experience |
+| average salary | $43,899 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从学徒或劳工开始，积累经验后可晋升为高级脚手架工、主管或项目协调员。部分人员可转向培训或安全管理岗位，或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Scaffolders are relatively less affected by AI overall, but design planning may be optimized; on-site physical work and safety judgment remain core, with stable demand.
+
+Typically start as an apprentice or laborer, and with experience can advance to senior scaffolder, supervisor, or project coordinator. Some can move into training or safety management roles, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Preliminary calculation and design of scaffolding structures (AI-assisted software can auto-generate plans)
+- Bill of materials statistics and inventory management (AI inventory system optimisation)
+- Basic safety training and testing (AI virtual reality training module)
+- Some documentation and report writing (AI text generation tools)
+
+**Where AI augments the role:**
+
+- AI design software provides optimized building solutions to reduce material waste
+- AR glasses display construction drawings and safety tips in real-time, improving efficiency
+- Drone inspection of scaffold structural integrity to assist safety monitoring
+- AI predicts weather and fatigue risks, dynamically adjusting work schedules
+
+**Human moat:**
+
+- Physical Strength, Balance, and Coordination for High-Altitude Work
+- On-site safety risk assessment and emergency response decision-making
+- Manual adjustment and problem fixing for complex structures
+- Team communication and on-site management skills
+- Compliance responsibilities for legal and industry standards
+
+**Skills to build:**
+
+- Basic BIM (Building Information Modeling) operations
+- Drone operation and image analysis
+- AR/VR device usage and maintenance
+- Basic data analysis (material and schedule optimization)
+- Advanced safety certifications (e.g., specialized training for working at heights)
+- Digital document management and collaboration tools
+
+**Key growth areas:**
 
 - Construction boom
 - Infrastructure projects
@@ -62,68 +96,67 @@ Erect and dismantle scaffolding and working platforms, set up lifting equipment 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 脚手架工在可担保职业清单上，薪资需达到一般门槛（£26,200）或紧缺职业折衷薪资（£20,960）。 |
-| Subclass Scale-up（Scale-up Worker Visa） | 适合在快速成长企业任职的工人，但餐饮业脚手架工岗位较少。 |
-| Subclass Graduate（Graduate Visa） | 完成合格课程的国际毕业生可通过此路径工作2年（博士3年），无需担保。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Scaffolders are on the eligible occupations list. The salary must meet the general threshold (£26,200) or the shortage occupation compromise salary (£20,960). |
+| Subclass Scale-up (Scale-up Worker Visa) | Suitable for workers in fast-growing companies, but scaffolding jobs in food service are limited. |
+| Subclass Graduate (Graduate Visa) | International graduates who complete a qualifying course can work for 2 years (3 years for PhD) via this pathway, without sponsorship. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Scaffolders, stagers and riggers？**
-- 不恐高，能适应户外高空作业
-- 身体健壮，有团队合作精神
-- 注重安全，愿意接受培训
-
-**谁不适合学Scaffolders, stagers and riggers？**
-- 恐高或身体状况不佳
-- 不喜欢体力劳动或严格安全规程
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- No fear of heights, able to work outdoors at heights
+- Physically fit with a team spirit
+- Safety-conscious and willing to undergo training
+
+**Who is not suited**
+- Fear of heights or poor physical condition
+- Dislike for physical labor or strict safety protocols
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a scaffolder in the UK?**
+A: The average annual salary for scaffolders in the UK is approx £35,000, entry-level around £25,000, senior can reach over £45,000. London and the South East have higher salaries.
+
+**Q: Can scaffolders immigrate to the UK via the skilled worker visa?**
+A: Yes. Scaffolders are on the skilled worker visa eligible occupation list. If salary requirements (generally £26,200 or shortage occupation concession £20,960) are met and the employer has sponsorship license, they can apply.
+
+**Q: What is the career progression path for scaffolders?**
+A: Usually start as apprentice or labourer, obtain NVQ2/3 to become qualified scaffolder. With experience, can progress to supervisor, site manager, safety trainer, or start own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Scaffolders, stagers and riggers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a scaffolder in the UK?**
-答：The average salary for a scaffolder in the UK is around £35,000, with entry-level at £25,000 and senior roles exceeding £45,000. London and the South East offer higher pay.
-
-**问：Can a scaffolder migrate to the UK via a Skilled Worker visa?**
-答：Yes. Scaffolders are on the eligible occupations list for the Skilled Worker visa. You need a job offer from a licensed sponsor and meet the salary threshold (£26,200 general or £20,960 shortage occupation rate).
-
-**问：What is the career progression for a scaffolder?**
-答：Start as an apprentice or labourer, gain NVQ2/3 to become a qualified scaffolder. With experience, move up to supervisor, site manager, safety trainer, or start your own business.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

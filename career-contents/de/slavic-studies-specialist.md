@@ -1,61 +1,94 @@
-# Slavic Studies Specialist（Slavic Studies Specialist）职业分析 · DE
+# Slavic Studies Specialist — career analysis · Germany
 
-**职业代码：9114 – Slavic Studies Specialist。**
+**Occupation code: 9114 (KldB)**
 
-Slavic studies specialists research and teach Slavic languages, literatures, and cultures, often working in universities, research institutes, or cultural institutions.
+Slavic studies specialists research, teach, and translate Slavic languages, literature, and culture, mostly working in universities, research institutes, or cultural institutions.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（大学） | —（公立大学每学期仅需少量注册费） |
-| 硕士 | 2年（大学） | —（公立大学基本免学费） |
+| Bachelor's degree | 3-4 years (university) | $0~$30,000 (Public universities only charge a small registration fee per semester) |
+| Master's degree | 2 years (university) | $0~$30,000 (Public universities are essentially tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 大学 | 必备 | 必备 |
-| 博士学位 | 大学 | 可选 | 学术岗位通常要求 |
-| 翻译认证 | 联邦翻译协会 | 可选 | 非必需但有利于从事翻译 |
+| Master's degree | University | Required | Essential |
+| Doctoral degree (PhD) | University | Optional | Academic positions usually require |
+| Translation Certification | Federal Translators Association | Optional | Not required but beneficial for translation work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,000。德国高校人文学科岗位竞争激烈，但精通东欧语言的专业人才在企业界（如贸易、外交）也有需求，就业前景整体一般。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,000. Humanities positions at German universities are highly competitive, but professionals proficient in Eastern European languages are in demand in sectors like trade and diplomacy. Overall employment prospects are moderate.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 高校科研助理或企业初级翻译 |
-| 中级（4-7年） | $45,000~$60,000 | 博士后或项目经理 |
-| 高级（8年+） | $60,000~$80,000 | 教授或部门主管 |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | University research assistant or entry-level corporate translator |
+| Mid-level (4-7 years) | $45,000~$60,000 | Postdoctoral fellow or project manager |
+| Senior (8+ years) | $60,000~$80,000 | Professor or department head |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业发展通常从博士阶段开始，经博士后、讲师晋升至教授；也可转向翻译、国际关系或文化管理等应用领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will greatly improve translation and data analysis efficiency, but core human understanding, cultural context interpretation, and interpersonal teaching are difficult to replace. Jobs will remain stable, requiring proactive adoption of technology tools.
+
+Career development typically starts with a PhD, progressing through postdoctoral researcher, lecturer to professor; can also pivot to applied fields such as translation, international relations, or cultural management.
+
+**Tasks most exposed to AI:**
+
+- Basic text translation and terminology extraction
+- Literature retrieval and summary generation
+- Automatic annotation and statistics of corpora
+- Grammar exercise correction in basic language teaching
+
+**Where AI augments the role:**
+
+- Rapid reading and comparative analysis of multilingual documents
+- Visual presentation of cultural data
+- Personalized language learning path design
+- Real-time translation assistance in cross-cultural communication
+
+**Human moat:**
+
+- Interpretation of deep metaphors and cultural symbols in Slavic literature
+- Fostering critical thinking and cross-cultural empathy in classroom teaching
+- Question formulation and theoretical construction in original academic research
+- Building trust with local communities and conducting fieldwork
+
+**Skills to build:**
+
+- Python programming and fundamentals of natural language processing.
+- Advanced tuning of AI translation tools (e.g., DeepL, ChatGPT)
+- Corpus linguistics and computational text analysis
+- Digital humanities methods (text mining, network analysis)
+- Interdisciplinary research skills (e.g., combined with political science, economics)
+- Blended learning design (with AI teaching assistant)
+
+**Key growth areas:**
 
 - stable
 - academic
@@ -64,68 +97,67 @@ Slavic studies specialists research and teach Slavic languages, literatures, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且年薪达43,800欧元（2024年）的岗位，学术岗位通常达标 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 需获得认可的学历及德国雇主合同 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德寻找工作6个月，需自谋生计 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to roles requiring higher education and an annual salary of 43,800 euros (2024); academic roles usually meet this threshold. |
+| Subclass Skilled Worker (Skilled Immigration Act) | Must have a recognized qualification and a German employer contract |
+| Subclass Job Seeker (Job Seeker Visa) | Allows job-seeking in Germany for 6 months, must support oneself financially |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Slavic Studies Specialist？**
-- 热爱语言文化、希望从事学术研究或文化交流的人
-- 具备东欧语言能力，有志于在外贸或国际组织工作的人
-
-**谁不适合学Slavic Studies Specialist？**
-- 追求高薪且希望快速就业的人
-- 不喜欢学术竞争或长期学习周期的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who love language and culture and wish to pursue academic research or cultural exchange
+- Those with Eastern European language skills and a desire to work in foreign trade or international organizations
+
+**Who is not suited**
+- People seeking high salary and quick employment.
+- Those who dislike academic competition or long study periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Slavic studies specialists in Germany?**
+A: Entry-level annual salary approx. 35,000-45,000 euros, mid-level 45,000-60,000 euros, senior 60,000-80,000 euros. University positions usually follow TV-L pay scale; corporate positions may be higher.
+
+**Q: How can foreigners immigrate to Germany as Slavic studies experts?**
+A: Can be obtained via EU Blue Card (annual salary threshold €43,800 in 2024) or a skilled migration visa. Requires a German-recognized master's degree and a German employer contract. A doctoral degree helps with the application.
+
+**Q: What are the career development paths for Slavic studies specialists?**
+A: Typical path is from PhD to postdoc to professor at universities; alternatively, transition to fields such as translation, international relations, cultural management, or Eastern European trade.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Slavic Studies Specialist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Slavic studies specialists in Germany?**
-答：Entry-level positions earn about €35,000–45,000, mid-level €45,000–60,000, and senior €60,000–80,000 annually. University salaries follow TV-L scales; corporate roles may pay higher.
-
-**问：How can a foreigner immigrate to Germany as a Slavic studies specialist?**
-答：Apply for an EU Blue Card (salary threshold €43,800 in 2024) or a skilled worker visa. A recognized master's degree and a German job offer are required; a PhD improves chances.
-
-**问：What are the career development paths for Slavic studies specialists?**
-答：Typical path: PhD, postdoc, then professor in academia. Alternatively, transition to translation, international relations, cultural management, or East European trade.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

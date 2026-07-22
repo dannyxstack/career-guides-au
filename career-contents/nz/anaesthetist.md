@@ -1,59 +1,95 @@
-# Anaesthetist（Anaesthetist）职业分析 · 新西兰
+# Anaesthetist — career analysis · New Zealand
 
-**职业代码：253211 – Anaesthetist。**
+**Occupation code: 253211 (ANZSCO)**
 
-Anaesthetists are specialist doctors providing anaesthesia, analgesia, and life support during surgery, childbirth, and pain management. New Zealand has high demand for this role, with a clear migration pathway via Green List Tier 1 direct residence.
+Anaesthetists are specialist doctors responsible for anaesthesia and life support during surgery, childbirth, and pain treatment. Demand is high in New Zealand, with direct residency applications via the Green List Tier 1, offering a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 医学本科学位 | 5-6年 | $50,000~$200,000（国际学生学费较高，奥克兰大学或奥塔哥大学；国内学生受补贴。） |
-| 专科麻醉培训（FANZCA） | 5年 | —（受训期间有带薪职位，培训费用低。） |
+| Bachelor's degree in medicine | 5-6 years. | $50,000~$200,000 (International student tuition fees are higher; University of Auckland or University of Otago; domestic students receive subsidies.) |
+| Specialist anaesthesia training (FANZCA) | 5 years | $0~$50,000 (Paid position during training with low training costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学本科学位（MBChB或同等） | 新西兰医学院校（如奥克兰大学） | 必备 | 需从新西兰或认可的海外医学院毕业。 |
-| 麻醉专科医师资格（FANZCA） | 澳大利亚和新西兰麻醉师学院（ANZCA） | 必备 | 完成5年培训并通过考试获颁。 |
-| 新西兰医疗委员会注册（MCNZ） | 新西兰医疗委员会 | 必备 | 需通过临时注册、实习评估及语言考试（如IELTS 7.5）。 |
+| Medical bachelor's degree (MBChB or equivalent) | New Zealand medical schools (e.g., University of Auckland) | Required | Must graduate from a medical school in New Zealand or an approved overseas institution. |
+| Specialist Anaesthetist qualification (FANZCA) | Australian and New Zealand College of Anaesthetists (ANZCA) | Required | Awarded after completing 5 years of training and passing exams. |
+| Medical Council of New Zealand (MCNZ) registration | Medical Council of New Zealand | Required | Requires provisional registration, internship assessment, and language exams (e.g., IELTS 7.5). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 660。新西兰人口老龄化及医疗需求增长推动麻醉师持续紧缺。预计未来5年就业人数将保持增长，尤其在公立医院和地区卫生局（DHB）有大量职位空缺。
+**Job demand: very high (★★★★½).** National workforce approx. 660. New Zealand's aging population and growing healthcare demand drive a persistent shortage of anaesthetists. Employment is expected to grow over the next five years, with many vacancies in public hospitals and District Health Boards (DHBs).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $150,000~$200,000 | 受训阶段非独立行医，此为专科医师起步薪资。 |
-| 中级（4-8年） | $200,000~$280,000 | 多数麻醉师在公立医院或私立机构担任顾问。 |
-| 高级（8年以上） | $280,000~$400,000 | 资深顾问医师或私立执业者。 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $150,000~$200,000 | During the training period, you do not practice independently; this is the starting salary for specialist physicians. |
+| Mid-level (4–8 years) | $200,000~$280,000 | Most anaesthetists work as consultants in public hospitals or private facilities. |
+| Senior (8+ years) | $280,000~$400,000 | Senior consultant physician or private practitioner. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 初级麻醉师通常需完成专科培训后任职于医院，后期可升为高级顾问医师，或转入私立医院、疼痛管理、重症监护等领域，也可从事教学与科研工作。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI mainly plays a supporting role in monitoring and data analysis for anesthesiologists, but core operations and complex decisions still require human control, overall risk is moderate to low.
+
+Junior anaesthetists typically undergo specialist training before working in hospitals. Later, they can advance to senior consultant roles or transition to private hospitals, pain management, intensive care, etc., and also engage in teaching and research.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and anomaly alerts for intraoperative vital signs (AI vision + sensor fusion)
+- Anesthesia dose adjustment in standardized, low-risk surgeries (based on pharmacokinetic models)
+- Basic postoperative analgesia plan formulation and automated pump management
+- Automatic generation and compliance check of anesthesia records and medical documents
+- Data collection and preliminary analysis for preoperative risk assessment (e.g., comorbidity models).
+
+**Where AI augments the role:**
+
+- AI-assisted personalized anesthesia planning (integrating genomics, pharmacology, and medical history)
+- Intraoperative decision support system (suggesting optimal drug combinations and dose adjustments)
+- Big data-driven complication prediction and prevention strategies
+- Virtual reality simulation training and surgical rehearsal (enhances complex case readiness)
+- Remote consultation and cross-team collaboration (AI real-time translation and information summarization)
+
+**Human moat:**
+
+- Improvisation and manual intervention in emergencies (e.g., airway management, circulation resuscitation)
+- High-risk communication and trust-building with surgical teams, patients, and families
+- Clinical decision-making based on interdisciplinary expert consensus (balancing, ethics, law)
+- Clinical translation and standard setting for new drugs/technologies
+- Personalized anesthesia management for patients with complex comorbidities (e.g., organ transplant, pediatric, elderly)
+
+**Skills to build:**
+
+- AI-assisted decision system operation and result interpretation (e.g., anesthesia depth monitoring AI)
+- Data science and statistics basics (for interpreting pharmacogenomic data).
+- Human-machine collaborative workflow design (e.g., automated recording + manual review)
+- Critical thinking and handling anomalies (dealing with AI false alarms or system failures)
+- Basic programming and automation scripts (custom AI/robot-assisted tools)
+- Use of telehealth and digital health tools (e.g., remote monitoring platforms)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Anaesthetists are specialist doctors providing anaesthesia, analgesia, and life 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 麻醉师在绿色清单T1上，可直接申请居留，无需先工作。 |
-| Subclass SMC（Skilled Migrant Category） | 如满足6分制，可申请技术移民。通常需雇主担保。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如暂未满足移民条件，可先持AEWV工作，积累经验后转居留。 |
+| Subclass Green List T1 (Straight to Residence) | Anesthetists are on the Green List Tier 1 and can directly apply for residency without needing to work first. |
+| Subclass SMC (Skilled Migrant Category) | If meeting the 6-point system, can apply for skilled migration. Usually requires employer sponsorship. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you do not yet meet immigration conditions, you can first work on an AEWV, then transition to residency after gaining experience. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Anaesthetist？**
-- 具有医学背景并已完成基础培训的医生
-- 能承受高压、长时间专注工作的人群
-- 寻求清晰快速新西兰移民路径的专业人士
-
-**谁不适合学Anaesthetist？**
-- 对高强度、昼夜不规律工作不耐受者
-- 不喜欢持续学习和高责任风险者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Doctors with a medical background who have completed basic training.
+- People who can withstand high pressure and maintain long periods of focused attention.
+- Professionals seeking a clear and fast New Zealand immigration pathway
+
+**Who is not suited**
+- Not suitable for those intolerant of high-intensity, irregular day-and-night work
+- Those who dislike continuous learning and high responsibility risk
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for anesthetists in New Zealand?**
+A: Junior anaesthetist about NZ$150,000-200,000, intermediate consultant $200,000-280,000, senior experienced can exceed $400,000.
+
+**Q: How can anesthetists migrate to New Zealand through skilled migration?**
+A: Directly apply for resident visa via Green List Tier 1 without work experience; or use SMC six-point system requiring NZ registration and employer offer.
+
+**Q: How can overseas anesthesiologists obtain New Zealand practicing qualifications?**
+A: Requires provisional registration with the Medical Council of New Zealand, completion of internship assessment, and passing ANZCA equivalent qualification or exam; English must meet IELTS 7.5 (no band below 7).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★½） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 非常高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★★） |
-| PR难度 | 低（★½☆☆☆） |
-
-Anaesthetist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for anaesthetists in New Zealand?**
-答：Junior anaesthetists earn NZD 150,000–200,000; consultants NZD 200,000–280,000; senior specialists over NZD 400,000.
-
-**问：How can anaesthetists migrate to New Zealand?**
-答：Apply directly for Straight to Residence via Green List Tier 1, or through Skilled Migrant Category 6-point system requiring NZ registration and a job offer.
-
-**问：How do overseas anaesthetists obtain NZ practice rights?**
-答：Provisional registration with Medical Council, internship assessment, ANZCA equivalency or exams, and English proficiency (IELTS 7.5, no band <7).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

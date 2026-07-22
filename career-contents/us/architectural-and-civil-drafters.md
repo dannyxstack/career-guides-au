@@ -1,58 +1,94 @@
-# Architectural and Civil Drafters（Architectural and Civil Drafters）职业分析 · 美国
+# Architectural and Civil Drafters — career analysis · United States
 
-**职业代码：17-3011 – Architectural and Civil Drafters。**
+**Occupation code: 17-3011 (SOC)**
 
-Architectural and Civil Drafters prepare detailed drawings of buildings, highways, bridges, and other structures using CAD software, following specifications from engineers and architects.
+Architectural and civil drafters use computer-aided design software to produce detailed drawings of buildings, bridges, roads, and other projects based on instructions from engineers and architects, ensuring compliance with building codes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 证书课程 | 1年 | $5,000~$15,000（技术学院或职业培训） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Certificate course | 1 year | $5,000~$15,000 (Technical college or vocational training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位 | 社区学院或技术学院 | 必备 | 通常要求，专业如CAD或制图 |
-| AutoCAD认证 | Autodesk | 可选 | 非强制但强烈推荐 |
+| Associate degree | Community college or technical college | Required | Typically required, major such as CAD or drafting |
+| AutoCAD certification | Autodesk | Optional | Not mandatory but strongly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 98,300。美国劳工统计局预计2023-2033年就业增长约5%，与平均水平相当。建筑活动和基础设施投资驱动需求，但自动化和外包可能限制增速。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 98,300. US Bureau of Labor Statistics projects 5% employment growth from 2023-2033, about average. Construction activity and infrastructure investment drive demand, but automation and outsourcing may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级薪资 |
-| 中级（3-8年） | $55,000~$75,000 | 经验增加薪资提升 |
-| 高级（8年以上） | $75,000~$95,000 | 高级或管理岗位 |
+| Median salary | $66,150 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level salary |
+| Mid-level (3–8 years) | $55,000~$75,000 | Salary increases with experience |
+| Senior (8+ years) | $75,000~$95,000 | Senior or management positions |
+| average salary | $70,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 初级绘图员可晋升为高级绘图员、项目协调员或CAD经理；积累经验后也可转岗至建筑或工程领域，如建筑设计师或土木工程师。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
+
+Junior drafters can advance to senior drafter, project coordinator, or CAD manager; with experience, they can also transition to architecture or engineering roles such as architectural designer or civil engineer.
+
+**Tasks most exposed to AI:**
+
+- Draw standard architectural floor plans, elevations, and sections according to engineer requirements
+- Generate material lists, annotate dimensions and notes, and other repetitive documentation
+- Check consistency between drawings and preliminary compliance
+- Convert hand-drawn sketches into CAD digital drawings
+- Perform routine pipeline and routing layout and conflict detection
+
+**Where AI augments the role:**
+
+- Use AI generative design to quickly explore structural optimization solutions and select the best options
+- Automatically generate construction progress simulations and collision detection reports via BIM and AI
+- Collaborates with AI for automatic specification review, improving drawing compliance.
+- Uses AI to assist in estimating material costs and green building performance
+- Quickly generate preliminary drawing skeletons from design specifications using natural language interfaces
+
+**Human moat:**
+
+- Understanding building codes and the deeper intent and exception clauses of local regulations
+- Make creative design judgments on non-standard, complex, or heritage buildings
+- Cross-disciplinary coordination and problem-solving with architects, engineers, and contractors
+- Field survey, handling abnormal conditions, and application decisions for special materials
+- Comprehensive assessment of aesthetic, functional, and constructability aspects of design proposals
+
+**Skills to build:**
+
+- Proficient in BIM software (e.g., Revit) for automated modeling and family creation
+- Learn generative design tools (e.g., Autodesk Generative Design)
+- Enhance ability to operate AI compliance review tools (e.g., Autodesk Insight)
+- Develop data analysis skills for cost estimation and performance simulation
+- Learn basic programming (Python/Ruby) to customize workflows and plugins
+- Enhance communication, project coordination, and on-site problem-solving skills
+
+**Key growth areas:**
 
 - CAD software
 - BIM
@@ -61,67 +97,66 @@ Architectural and Civil Drafters prepare detailed drawings of buildings, highway
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于具有学士学位或同等学历的绘图员，需雇主担保，配额有限。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 职业移民绿卡第三优先，需PERM劳工证，适合有2年以上经验或学位者。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to draftspersons with a bachelor's degree or equivalent, requiring employer sponsorship with limited quotas. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Employment-based green card third preference, requires PERM labor certification, suitable for those with 2+ years experience or degree. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architectural and Civil Drafters？**
-- 注重细节、喜欢技术和绘图的人
-- 愿意学习CAD和BIM软件的人
-- 喜欢在工程和建筑领域工作的人
-
-**谁不适合学Architectural and Civil Drafters？**
-- 不满足于辅助性角色的人
-- 不愿接受重复性绘图任务的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are detail-oriented, like technology and drawing
+- People willing to learn CAD and BIM software
+- People who enjoy working in engineering and construction fields
+
+**Who is not suited**
+- Those not satisfied with a supporting role
+- Those unwilling to take on repetitive drafting tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for architectural and civil drafters?**
+A: Per BLS, 2023 median annual salary about $59,000; entry-level $40,000-$55,000; senior above $75,000.
+
+**Q: What is the main pathway to immigrate to the U.S. for this occupation?**
+A: Primarily via H-1B work visa or EB-3 employment green card, requiring employer sponsorship. H-1B requires a bachelor's degree, EB-3 requires a PERM labor certification.
+
+**Q: What is the future outlook for this occupation?**
+A: Steady growth but heavily impacted by automation. Building Information Modeling (BIM) and sustainable design are growth areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Architectural and Civil Drafters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Architectural and Civil Drafters?**
-答：According to BLS, median annual wage in 2023 was about $59,000; entry-level $40,000-$55,000, senior over $75,000.
-
-**问：What are the main immigration pathways for this occupation to the US?**
-答：Mainly through H-1B visa or EB-3 green card, requiring employer sponsorship. H-1B needs bachelor's degree, EB-3 needs PERM labor certification.
-
-**问：What is the future outlook for this occupation?**
-答：Steady growth but impacted by automation. BIM and sustainable design are growth areas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

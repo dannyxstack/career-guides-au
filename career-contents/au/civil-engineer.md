@@ -1,68 +1,98 @@
-# 土木工程师（Civil Engineer）职业分析 · 澳大利亚
+# Civil Engineer — career analysis · Australia
 
-**职业代码：233211 – Civil Engineer。**
+**Occupation code: 233211 (ANZSCO)**
 
-土木工程师规划、设计和监督建造道路、桥梁、隧道、水利设施和城市基础设施。澳洲联邦和州政府历史性基础设施投资（交通、能源、水务）和AUKUS国防设施建设推动需求持续旺盛，是工程类就业量最大的职业。
+Civil engineers plan, design and supervise the construction of roads, bridges, tunnels, water infrastructure and urban facilities. Ongoing strong demand is driven by historic federal and state government infrastructure investment (transport, energy, water) and AUKUS defence facility construction, making it the largest employer among engineering occupations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Civil Engineering（荣誉，4年） | 4年（全日制） | $30,000~$180,000（澳洲工程师资质要求4年荣誉学位；国际生约 $38,000~$48,000/年） |
-| Engineers Australia（EA）技能评估 | 3~12个月 | $800~$3,000（海外工程学历评估机构，是189/190签证的必要步骤；约 $770 申请费） |
-| CPEng（Chartered Professional Engineer）认证 | 4~7年工作经验后申请 | $1,500~$5,000（专业注册工程师认证，显著提升薪资和项目管理机会） |
+| Bachelor of Civil Engineering (Honours, 4 years) | 4 years (full-time) | $30,000~$180,000 (Australian engineers require a 4-year honours degree; international students approximately $38,000–$48,000/year) |
+| Engineers Australia (EA) skills assessment | 3–12 months | $800~$3,000 (Overseas engineering qualification assessment body; a required step for the 189/190 visa; application fee approximately $770) |
+| CPEng (Chartered Professional Engineer) certification | Apply after 4–7 years of work experience | $1,500~$5,000 (Professional registered engineer certification, significantly enhancing salary and project management opportunities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Civil Engineering (Honours) | 认可大学（EA认证） | 必备 | 行业基础学历，EA认证的大学学位是移民评估的关键 |
-| Engineers Australia（EA）技能评估 | Engineers Australia | 可选 | 海外工程学历的189/190签证评估机构，是技术移民必须步骤 |
-| CPEng（Chartered Professional Engineer） | Engineers Australia | 可选 | 专业注册工程师认证，提升薪资天花板约 $20k~$40k |
-| RPEQ（Queensland）/ RPEQ同等州注册 | 各州工程师委员会 | 可选 | 部分州的公共基础设施项目要求注册工程师签名 |
+| Bachelor of Civil Engineering (Honours) | Accredited university (EA-accredited) | Required | Foundational industry qualification; an EA-assessed university degree is the key requirement for migration assessment |
+| Engineers Australia (EA) skills assessment | Engineers Australia | Optional | The assessment body for overseas engineering qualifications for 189/190 visas — a mandatory step for skilled migration |
+| CPEng（Chartered Professional Engineer） | Engineers Australia | Optional | Registered professional engineer certification, raises the salary ceiling by approximately $20k–$40k |
+| RPEQ (Queensland) / equivalent state registration | State engineering boards | Optional | Some state public infrastructure projects require a registered engineer's sign-off |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 95,000。JSA 预测土木工程师至2035年就业增长约12%。联邦《澳洲未来基金》（AU$800亿）基础设施投资和州政府交通项目是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 95,000. JSA projects civil engineer employment growth of approximately 12% by 2035. The federal Future Fund (AU$80 billion) infrastructure investment and state government transport projects are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~5,000 个 | 全国，含土木工程师、结构工程师、基础设施项目工程师岗 |
-| Indeed | 1,500~3,500 个 | 含政府、建筑公司和顾问工程师岗 |
-| LinkedIn | 2,000~4,000 个 | 大型基础设施公司（AECOM/WSP/Jacobs）直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生土木工程师（0~2年） | $68,000~$80,000 | 应届生起薪，联邦政府岗略高 |
-| 中级土木工程师（2~7年） | $85,000~$115,000 | SEEK 区间 $95k~$115k；Indeed 平均 $101,707（2026） |
-| 高级土木工程师（7~15年，含CPEng） | $115,000~$160,000 | CPEng持有者薪资溢价 $20k~$40k |
-| 工程总监 / 项目总监（15年+） | $160,000~$250,000 | 大型基础设施公司总监级别，含分红 |
+| Median salary | $115,284 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate Civil Engineer (0–2 years) | $68,000~$80,000 | Graduate starting salary; Commonwealth Government roles pay slightly more |
+| Mid-level Civil Engineer (2–7 years) | $85,000~$115,000 | SEEK range $95k–$115k; Indeed average $101,707 (2026) |
+| Senior Civil Engineer (7–15 years, including CPEng) | $115,000~$160,000 | CPEng holders receive a salary premium of $20k–$40k |
+| Engineering Director / Project Director (15+ years) | $160,000~$250,000 | Director level at a large infrastructure company, including profit share |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 绿色基础设施（Green Infrastructure）和可再生能源配套土建（太阳能/风电场土建）是2025-2030年增长最快的子领域。BIM（建筑信息模型）技能是高薪资溢价方向。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Civil engineering sees mixed AI impact: back-office tasks like design calculations and document generation will be significantly automated, but human roles such as site supervision, regulatory compliance, and complex coordination remain solid; competition for entry-level jobs intensifies, while senior engineers become more efficient with AI tools.
+
+Green Infrastructure and civil construction supporting renewable energy (solar and wind farm civil works) are the fastest-growing sub-sectors from 2025 to 2030. BIM (Building Information Modelling) skills command a significant salary premium.
+
+**Tasks most exposed to AI:**
+
+- Conventional structural analysis and design calculations (e.g., finite element modeling parameter adjustments)
+- Automated generation and standard compliance checking of civil drawings
+- Drafting and formatting of engineering reports and documents
+- Automatic scheduling and conflict detection of project timelines
+- Automatic classification and preliminary interpretation of geological survey data
+
+**Where AI augments the role:**
+
+- AI-optimized structural solutions: rapidly iterate thousands of design options to improve structural efficiency and cost-effectiveness
+- Real-time construction monitoring based on BIM and IoT: AI predicting schedule deviations and material waste
+- Natural language query of regulatory libraries: quickly locate complex legal clauses and obtain explanations
+- Automatically generate risk assessment matrix: integrate geological, hydrological, traffic, and other multi-source data
+- Enhanced collaboration platform: AI translates conflicts across multiple discipline drawings in real-time and suggests coordination solutions
+
+**Human moat:**
+
+- On-site construction coordination and safety supervision, handling unforeseen conditions
+- Cross-disciplinary (architectural, structural, MEP) design conflict arbitration and decision-making
+- Communicate with Clients and Government Agencies, Explain Technical Solutions, and Obtain Permits
+- Assume legal responsibility for AI outputs, sign engineering documents
+- Design innovative foundation treatment solutions under complex geological conditions
+
+**Skills to build:**
+
+- Python/R programming and civil data analysis (e.g., OpenSees, Pandas)
+- Advanced BIM applications (Revit API, Navisworks automation)
+- AI/machine learning basics (for structural optimization and failure prediction)
+- Generative design tools (e.g., GenerativeComponents, Dynamo)
+- Project management and agile methods (for AI-collaborative workflows)
+- Digital twin and IoT integration (for infrastructure operations and maintenance)
+
+**Key growth areas:**
 
 - Transport Infrastructure (Roads/Rail/Bridges)
 - Water Infrastructure & Treatment Plants
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，土木工程师为核心短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，QLD/SA/WA基础设施项目多 |
-| Subclass 491（Skilled Work Regional） | 偏远地区工程项目，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship — civil engineers are a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, with QLD/SA/WA offering numerous infrastructure projects |
+| Subclass 491 (Skilled Work Regional) | Remote area engineering projects, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学土木工程师？**
-- 有土木/结构工程学位（4年），理工科基础扎实
-- 有实际工程项目经验（2年以上）
-- 英语能力达到 IELTS 6.0+（EA评估和工程报告要求）
-- 有BIM/AutoCAD/Civil 3D等设计软件实操经验
-- 愿意接受工程师助理阶段（前2年）薪资较低的过渡期
-
-**谁不适合学土木工程师？**
-- 非工程学位，无法通过EA技能评估
-- 仅有施工管理经验，无设计或分析背景
-- 完全排斥现场工作（工程项目不可避免有现场监督工作）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a civil/structural engineering degree (4 years) with a solid foundation in science and engineering
+- Practical engineering project experience (2+ years)
+- English proficiency of IELTS 6.0+ (required for EA assessment and engineering reports)
+- Hands-on experience with design software such as BIM/AutoCAD/Civil 3D
+- Willingness to accept a transitional period of lower pay during the engineering assistant stage (first 2 years)
+
+**Who is not suited**
+- Non-engineering degree — unable to pass EA skills assessment
+- Only has construction management experience, with no design or analytical background
+- Unwilling to take on site-based work (engineering projects inevitably involve on-site supervision)
+
+---
+
+## 8. FAQ
+
+**Q: How much do civil engineers earn in Australia?**
+A: Mid-level civil engineer approximately $85,000–$115,000 (Indeed average $101,707); senior engineers holding CPEng approximately $115k–$160k; engineering directors can exceed $200k.
+
+**Q: Is it easy for civil engineers to find work in Australia?**
+A: Straightforward. Seek lists approximately 2,000–5,000 positions, with the federal government's $80 billion infrastructure investment and state transport projects driving sustained high demand; CPEng holders are actively headhunted by consulting firms.
+
+**Q: Is a Chinese engineering degree recognised in Australia?**
+A: Skills assessment through Engineers Australia (EA) (approximately $770 application fee, 3–12 month processing time). Engineering degrees from most leading Australian-equivalent Chinese universities generally pass EA assessment without issue, though course-content alignment may need to be verified for some disciplines.
+
+**Q: Will civil engineers be replaced by AI?**
+A: Automation risk is relatively low. AI assists with structural optimisation and design automation, but engineering judgement, site management, safety supervision, and regulatory compliance (RPEQ sign-off) remain irreplaceable.
+
+**Q: Is there an age limit for civil engineers in Australia?**
+A: None. Experienced civil engineers aged 40–55 are highly valued on large infrastructure projects, especially those with project director experience.
+
+**Q: What qualifications do civil engineers need in Australia?**
+A: You must hold a four-year honours civil engineering degree (Bachelor of Civil Engineering (Honours)) — this is a fundamental requirement for EA skills assessment and engineering registration in Australia.
+
+**Q: Is it difficult to get Australian civil engineering certification (for immigration)?**
+A: Moderate difficulty. EA assessment can take 3–12 months but has a high pass rate; CPEng is an optional pathway for career advancement. 189/190 EOI scores are favourable for experienced applicants.
+
+**Q: Which is better for migrating to Australia — civil engineering or mechanical engineering?**
+A: Civil engineers have a larger job market (Seek ~3,000+ vs. mechanical ~1,500) with more stable demand due to long infrastructure project cycles. Mechanical engineers have slightly higher salary potential in high-paying resources/mining roles. Both are on the MLTSSL list, with comparable PR-friendliness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 土木工程师薪资 $95k~$115k（2026） |
-| Indeed AU | 土木工程师平均薪资 $101,707（2026） |
-| Engineers Australia | EA技能评估和CPEng认证 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-土木工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲土木工程师工资多少？**
-答：中级土木工程师约 $85,000~$115,000（Indeed均值 $101,707）；持CPEng高级工程师约 $115k~$160k；工程总监可超 $200k。
-
-**问：澳洲土木工程师容易找工作吗？**
-答：容易。Seek 挂牌约 2000~5000 个职位，联邦$800亿基础设施投资和各州交通项目驱动持续高需求，持CPEng者主动被顾问公司猎头。
-
-**问：中国工程学位澳洲认可吗？**
-答：通过 Engineers Australia（EA）技能评估（约 $770 申请费，3~12个月周期）。大多数中国985/211大学的工程学位通过EA评估问题不大，但部分专业课程匹配度需要验证。
-
-**问：土木工程师会被AI替代吗？**
-答：风险较低。AI辅助结构优化和设计自动化，但工程判断、现场管理、安全监督和政府监管合规（RPEQ签名）不可替代。
-
-**问：澳洲土木工程师有年龄限制吗？**
-答：无。经验丰富的40~55岁土木工程师在大型基础设施项目中备受重视，特别是有项目总监经验者。
-
-**问：澳洲土木工程师需要什么学历？**
-答：必须持有4年荣誉土木工程学位（Bachelor of Civil Engineering (Honours)），这是EA技能评估和澳洲工程师注册的基本要求。
-
-**问：澳洲土木工程师认证（移民）难吗？**
-答：难度中等。EA评估周期较长（3~12个月），但通过率较高；CPEng是可选晋升路径。189/190 EOI分数对有经验者友好。
-
-**问：土木工程师和机械工程师哪个更适合移民澳洲？**
-答：土木工程师就业量更大（Seek ~3000+ vs 机械 ~1500），需求更稳定（基础设施项目周期长）；机械工程师薪资潜力略高（资源/采矿行业高薪岗）。两者均在MLTSSL列表，PR友好度相当。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Clinical Coder（Clinical Coder）职业分析 · 新西兰
+# Clinical Coder — career analysis · New Zealand
 
-**职业代码：599915 – Clinical Coder。**
+**Occupation code: 599915 (ANZSCO)**
 
-Responsible for translating patient diagnoses and procedures into standard codes (ICD-10-AM) for records, statistics, and reimbursement. This occupation is eligible for AEWV or Green List skilled migration in New Zealand, requiring relevant qualifications and experience.
+Responsible for converting patient diagnoses and surgical procedures into standard codes (ICD-10-AM) for recording, statistics, and reimbursement. This occupation in New Zealand can apply for residence through an Accredited Employer Work Visa (AEWV) or the Green List skilled migration, but relevant qualifications and experience are required.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| Certificate in Clinical Coding | 1年 | $3,000~$5,000（私立培训（如NZMA、EIT）） |
-| Diploma in Health Information Management | 2年 | $15,000~$25,000（公立理工学院（如惠灵顿理工学院）） |
+| Certificate in Clinical Coding | 1 year | $3,000~$5,000 (Private training (e.g. NZMA, EIT)) |
+| Diploma in Health Information Management | 2 years | $15,000~$25,000 (Public polytechnics (e.g., Wellington Institute of Technology)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 证书/文凭 | 新西兰健康信息管理学院（HINZ） | 可选 | 建议获得HINZ认可的临床编码课程。 |
-| ICD-10-AM认证 | 新西兰卫生部 | 可选 | 部分雇主要求通过编码能力测试。 |
-| 英语能力 | IELTS | 必备 | 移民要求雅思总分6.5，单项不低于6.0。 |
+| English proficiency | IELTS | Required | Immigration requires an overall IELTS score of 6.5, with no band below 6.0. |
+| Certificate/diploma | Health Informatics New Zealand (HINZ) | Optional | Completion of an HINZ-recognized clinical coding course is recommended. |
+| ICD-10-AM certification | New Zealand Ministry of Health | Optional | Some employers require passing a coding ability test. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。随着新西兰人口老龄化和医疗数字化，临床编码需求稳定增长。尤其在公共卫生系统和私人医疗机构中，熟练编码员持续短缺。预计未来5年就业岗位将增长约10-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 800. With New Zealand's aging population and healthcare digitalization, demand for clinical coders is steadily growing. Especially in public health systems and private medical institutions, there is a persistent shortage of skilled coders. Employment is expected to grow by about 10-15% over the next 5 years.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 公立医院入门级。 |
-| 中级（3-7年） | $65,000~$85,000 | 私营机构或高级编码。 |
-| 高级（7年以上） | $85,000~$110,000 | 管理或专家岗位。 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Entry-level at public hospitals. |
+| Mid-level (3–7 years) | $65,000~$85,000 | Private institutions or advanced coding. |
+| Senior (7+ years) | $85,000~$110,000 | Management or specialist roles. |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级临床编码员可晋升为高级编码员、编码团队负责人或临床信息分析师。积累经验后，可转向医疗数据管理、质量改进或健康信息管理等领域。职业路径清晰，收入随经验递增。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Clinical coders face mixed impacts from AI: automated coding tools can handle routine tasks, but reviewing complex cases and maintaining coding quality still require human judgment, and policies and accountability limit full automation.
+
+Junior clinical coders can advance to senior coder, coding team leader, or clinical information analyst. With experience, they can move into areas such as medical data management, quality improvement, or health information management. The career path is clear, and income increases with experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate preliminary standard codes from medical text
+- Code common and simple diagnoses and procedures
+- Coded data entry and format standardization
+- Coding error checking and automated compliance verification
+
+**Where AI augments the role:**
+
+- AI-assisted prompts for candidate coding to improve coding efficiency
+- Automatically analyze medical record summaries and extract key information for coders' reference.
+- Real-time verification of coding consistency to reduce manual review workload
+- Intelligent recommendation of coding rule changes and best practices
+- Provides coding quality scores and improvement suggestions
+
+**Human moat:**
+
+- Coding decisions and clinical interpretation for complex or rare cases
+- Communicate with doctors to clarify vague or conflicting information in medical records
+- Ensure coding complies with local policies, laws, and audit requirements
+- Assume legal responsibility and risks for coding errors
+- Continuing education and updating coding knowledge systems
+
+**Skills to build:**
+
+- Proficient in mainstream AI-assisted coding tools (e.g., 3M™ 360 Encompass)
+- Basic Medical Terminology and Pathophysiology
+- Data analysis and coding quality audit
+- Medical reimbursement and compliance knowledge
+- Communication and clinical collaboration skills
+- Continuous learning of AI tool updates and coding rule evolution
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Responsible for translating patient diagnoses and procedures into standard codes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主offer后可申请，最长3年，可续签。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 职业在绿色清单Tier 2，工作2年后可申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+工作经验）可申请，职业在ANZSCO技能等级1-3。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Can apply after receiving a job offer from an approved employer, valid for up to 3 years, renewable. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Occupation on the Green List Tier 2, eligible for residency after 2 years of work. |
+| Subclass SMC (Skilled Migrant Category) | Meeting the 6-point system (qualifications + work experience) is required to apply, with the occupation in ANZSCO skill level 1-3. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clinical Coder？**
-- 细心、有条理、能长时间专注编码工作的人
-- 对医疗术语和健康信息管理感兴趣者
-- 希望在新西兰获得稳定工作并移民的人
-
-**谁不适合学Clinical Coder？**
-- 不喜重复性文书工作的人
-- 对医学知识缺乏兴趣的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- A person who is meticulous, organized, and able to focus on coding for long periods
+- Those interested in medical terminology and health information management.
+- People seeking stable employment and immigration to New Zealand
+
+**Who is not suited**
+- People who dislike repetitive paperwork
+- People lacking interest in medical knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for clinical coders in New Zealand?**
+A: Junior approx. NZ$50,000-65,000, mid-level approx. NZ$65,000-85,000, senior up to $85,000-110,000.
+
+**Q: Can clinical coders immigrate to New Zealand via the Green List?**
+A: This occupation is on the Tier 2 Green List, can apply for residency after 2 years of work; also can use SMC or AEWV pathway.
+
+**Q: What qualifications are needed to become a clinical coder?**
+A: Usually requires completion of a 1-year certificate or 2-year diploma course and proficiency in the ICD-10-AM coding system.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Clinical Coder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for clinical coders in New Zealand?**
-答：Junior: NZD 50,000-65,000; Intermediate: NZD 65,000-85,000; Senior: NZD 85,000-110,000.
-
-**问：Can clinical coders immigrate to New Zealand via the Green List?**
-答：Yes, it is on Green List Tier 2, allowing work-to-residence after 2 years. Also eligible for SMC and AEWV.
-
-**问：What qualifications are needed to become a clinical coder?**
-答：Typically a 1-year certificate or 2-year diploma in clinical coding, with knowledge of ICD-10-AM.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

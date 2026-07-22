@@ -1,60 +1,96 @@
-# Real Estate Agency Principal / Real Estate Agency Licensee（Real Estate Agency Principal / Real Estate Agency Licensee）职业分析 · 新西兰
+# Real Estate Agency Principal / Real Estate Agency Licensee — career analysis · New Zealand
 
-**职业代码：612113 – Real Estate Agency Principal / Real Estate Agency Licensee。**
+**Occupation code: 612113 (ANZSCO)**
 
-Manages daily operations of a real estate agency, develops business strategies, ensures compliance, and leads the team to achieve sales targets. This occupation is eligible for Skilled Migrant Category and Green List Tier 1 direct residence, suitable for those with management experience and industry qualifications.
+Responsible for managing the daily operations of a real estate agency, formulating business strategies, ensuring compliance, and leading the team to achieve sales targets. This occupation can apply directly for residence through New Zealand Skilled Migrant Category (SMC) or Green List Tier 1, suitable for those with management experience and industry qualifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰高中毕业（NCEA Level 2或以上） | 3年 | —（公立学校免费） |
-| 房地产经纪执照课程（如Unit Standards-based training） | 6个月 | $2,000~$5,000（课程费用因培训机构而异） |
-| 商科或管理类大专/本科（推荐） | 2-3年 | $20,000~$40,000（国际生学费较高） |
+| New Zealand high school graduation (NCEA Level 2 or above) | 3 years | $0~$0 (Free public schools.) |
+| Real estate agent licensing courses (e.g., Unit Standards-based training) | 6 months. | $2,000~$5,000 (Course fees vary by training institution) |
+| Diploma or bachelor's degree in business or management (recommended) | 2-3 years | $20,000~$40,000 (International student tuition is higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰房地产执照（Real Estate Salesperson Licence） | 新西兰房地产协会（REINZ） | 必备 | 必须持有该执照才能从事房地产销售工作，公司负责人通常需持有更高级别的牌照 |
-| 全国房地产中介考试（National Certificate in Real Estate） | 新西兰资格认证局（NZQA） | 必备 | 通常作为执照的前提条件 |
-| 国际英语语言测试系统（IELTS）总分6.5分 | IELTS | 可选 | 用于技术移民申请，非硬性要求但常见 |
+| New Zealand Real Estate Salesperson Licence | Real Estate Institute of New Zealand (REINZ) | Required | Must hold this license to work in real estate sales; company principals usually need a higher-level license. |
+| National Certificate in Real Estate | New Zealand Qualifications Authority (NZQA) | Required | Usually a prerequisite for licensing |
+| International English Language Testing System (IELTS) overall score 6.5 | IELTS | Optional | Used for skilled migration applications, not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰房地产市场活跃，尤其是奥克兰、基督城等城市。随着人口增长和住房需求，房地产代理公司负责人需求稳定。预计未来5年就业增长率为中等水平，但竞争激烈，需要具备较强的销售和管理能力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. The New Zealand real estate market is active, especially in cities like Auckland and Christchurch. With population growth and housing demand, demand for real estate agency directors is stable. Employment growth over the next 5 years is expected to be moderate, but competition is intense, requiring strong sales and management skills.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 多为小型代理公司的初级管理岗位 |
-| 中级（3-5年） | $80,000~$120,000 | 中型代理公司负责人 |
-| 高级（5年以上） | $120,000~$200,000 | 大型连锁代理公司负责人，可含绩效奖金 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$80,000 | Mostly entry-level management roles in small agencies |
+| Mid-level (3–5 years) | $80,000~$120,000 | Head of a mid-sized agency |
+| Senior (5+ years) | $120,000~$200,000 | Head of large chain agency, may include performance bonus |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从房地产销售代表晋升为团队领导，再升至分公司经理或区域总监，最终成为公司负责人。也可通过考取更高级别的房地产牌照（如持牌代理人）来提升职业层级。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
+
+Can progress from real estate sales representative to team leader, then to branch manager or regional director, and eventually to company head. Can also advance by obtaining higher-level real estate licenses (e.g., licensed agent).
+
+**Tasks most exposed to AI:**
+
+- Automated generation of property descriptions/ad copy
+- AI chatbot handles tenant common questions and schedules property viewings
+- Smart matching system auto-pushes properties to potential clients
+- Automated Generation of Lease Contracts and Property Management Reports
+- AI analyzes market data to generate automated valuation reports
+
+**Where AI augments the role:**
+
+- AI-assisted precision analysis of customer needs and market trends to improve recommendation matching rates
+- Virtual property tours and AI video guides to enhance remote marketing effectiveness
+- AI predicts tenant default risk, optimizing property portfolio strategies
+- Automated CRM systems capture customer behavior data to support personalized services
+- AI chatbot-assisted multilingual communication (e.g., Chinese) to expand service scope
+
+**Human moat:**
+
+- High-value negotiation, complex contract clause interpretation, and legal dispute resolution
+- Building deep personal relationships and client trust (especially Chinese-speaking community)
+- On-site property inspections, maintenance quality assessment, and supplier management
+- Personalized home buying/rental strategy recommendations integrating emotional and financial considerations
+- Interpersonal glue for multi-stakeholder coordination (owners, tenants, strata committees)
+
+**Skills to build:**
+
+- Master real estate CRM software (e.g., Salesforce, PropertyMe)
+- Basic data analysis (advanced Excel or Python/Pandas)
+- AI marketing tools (CANVA AI, ChatGPT copy optimization)
+- Virtual property viewing technology (3D scanning, VR tour operation)
+- Bilingual communication and cross-cultural negotiation skills
+- Digital compliance awareness (privacy laws, legal validity of e-contracts)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Manages daily operations of a real estate agency, develops business strategies, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 (Direct Residence)） | 如果职业在绿色清单第一梯队且满足要求，可直接申请居留。本职业尚未列入绿色清单，但可通过其他途径移民。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，通过6分制打分（学历+工作经验+收入等），可申请居留。本职业通常需ANZSCO Level 1技能等级。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于持有工作邀请的申请人，满足条件后可申请居留。 |
+| Subclass Green List T1 (Green List Tier 1 (Direct Residence)) | If the occupation is on the Green List Tier 1 and meets requirements, you can apply for residence directly. This occupation is not yet on the Green List, but other immigration pathways are available. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, using a 6-point system (qualifications + work experience + income, etc.), eligible for residency. This occupation usually requires ANZSCO Level 1 skill level. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable to applicants with a job offer; can apply for residence after meeting conditions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Real Estate Agency Principal / Real Estate Agency Licensee？**
-- 有房地产销售经验并具备管理能力的人士
-- 熟悉新西兰房地产市场法规的投资者或从业者
-- 希望通过商业管理技能移民新西兰的申请者
-
-**谁不适合学Real Estate Agency Principal / Real Estate Agency Licensee？**
-- 缺乏销售经验和人际沟通能力的申请者
-- 无法适应高压工作环境和竞争氛围的人士
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with real estate sales experience and management skills
+- Investors or practitioners familiar with New Zealand real estate market regulations
+- Applicants wishing to migrate to New Zealand with business management skills
+
+**Who is not suited**
+- Applicants lacking sales experience and interpersonal communication skills
+- Those who cannot adapt to a high-pressure work environment and competitive atmosphere
+
+---
+
+## 8. FAQ
+
+**Q: Can the position of head of a real estate agency apply for skilled migration?**
+A: Yes. This occupation is ANZSCO Level 1, meeting skill level requirements. Through the SMC or AEWV pathway, with a job offer and meeting salary (hourly rate at least $29.66, 2024 standard) and English conditions, you can apply for residence.
+
+**Q: What is the average salary for a real estate agency manager in New Zealand?**
+A: Annual salary ranges from NZD 60,000 to 200,000 depending on region. Cities like Auckland offer higher pay; entry-level average around NZD 80,000, senior management can exceed NZD 150,000.
+
+**Q: What license is required to be the head of a real estate agency?**
+A: Must hold a New Zealand Real Estate Salesperson Licence and complete relevant training and exams accredited by the REA (Real Estate Authority). Business owners typically also need an Agency Licence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Real Estate Agency Principal / Real Estate Agency Licensee的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can a Real Estate Agency Principal apply for skilled migration?**
-答：Yes. This occupation is ANZSCO Level 1. Through SMC or AEWV pathways, with a job offer and meeting salary (hourly at least NZD 29.66 in 2024) and English requirements, you can apply for residence.
-
-**问：What is the average salary for a Real Estate Agency Principal in New Zealand?**
-答：Salaries range from NZD 60,000 to NZD 200,000 per year depending on region. In Auckland, entry-level averages around NZD 80,000 and senior management can exceed NZD 150,000.
-
-**问：What license is required to be a Real Estate Agency Principal?**
-答：You must hold a New Zealand Real Estate Salesperson Licence, requiring training and exams approved by the Real Estate Authority (REA). Agency Principals also typically need an Agency Licence.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

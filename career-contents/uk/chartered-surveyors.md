@@ -1,58 +1,91 @@
-# Chartered surveyors（Chartered surveyors）职业分析 · UK
+# Chartered surveyors — career analysis · United Kingdom
 
-**职业代码：2454 – Chartered surveyors。**
+**Occupation code: 2454 (SOC)**
 
-Chartered surveyors conduct surveys related to the measurement, management, valuation and development of land, natural resources, buildings, other types of property, and infrastructure such as harbours, roads and railway lines.
+Chartered surveyors are responsible for the measurement, management, valuation, and development of land, natural resources, buildings, and other types of property and infrastructure (such as ports, roads, and railways).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $27,000~$40,000（国际学生年均学费） |
-| 硕士 | 1年 | $30,000~$45,000（国际学生年均学费） |
+| Bachelor's degree | 3 years | $27,000~$40,000 (Average annual tuition fees for international students) |
+| Master's degree | 1 year | $30,000~$45,000 (Average annual tuition fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RICS特许测量师资质 | 皇家特许测量师学会 | 必备 | 需通过APC（Assessment of Professional Competence）评估 |
-| 测量学学士学位 | 英国大学 | 可选 | RICS认可学位可加速认证 |
+| RICS chartered surveyor qualification | Royal Institution of Chartered Surveyors | Required | must pass the APC (Assessment of Professional Competence) evaluation |
+| Bachelor of Surveying | UK universities | Optional | RICS-accredited degrees can accelerate certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。英国基础设施建设和房地产市场需求持续增长，绿色建筑和可持续发展为行业带来新机遇。特许测量师在规划、开发和资产管理方面角色关键，就业前景稳定向好。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Growing demand in the UK infrastructure construction and real estate market, with green building and sustainable development bringing new opportunities. Chartered surveyors play key roles in planning, development, and asset management, with stable and positive employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 取决于地区和公司规模 |
-| 中级（3-7年） | $40,000~$60,000 | RICS认证后可显著提升 |
-| 高级（7年以上） | $60,000~$90,000 | 合伙人或高级顾问可达更高 |
+| Median salary | $46,184 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$40,000 | Depends on region and company size. |
+| Mid-level (3–7 years) | $40,000~$60,000 | Significant improvement after RICS certification |
+| Senior (7+ years) | $60,000~$90,000 | Partners or senior consultants can earn higher |
+| average salary | $49,741 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★★☆）。** 初级测量师可通过积累经验、获取皇家特许测量师学会（RICS）认证晋升为高级测量师、合伙人或独立顾问。也可向专业领域深化，如商业地产、基础设施或环境评估。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
+
+Junior surveyors can advance to senior surveyor, partner, or independent consultant by gaining experience and obtaining Royal Institution of Chartered Surveyors (RICS) certification. They can also specialize in areas such as commercial property, infrastructure, or environmental assessment.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation of land boundary coordinates and drawing generation (AI+GPS+remote sensing)
+- Automated building code compliance review (NLP comparing regulatory databases)
+- Automated bill of quantities extraction and cost estimation (AI parsing BIM models)
+- Automated as-built scanning and deviation report generation (drones + point cloud processing)
+
+**Where AI augments the role:**
+
+- AI-assisted field survey: real-time 3D terrain generation from LiDAR point clouds for improved efficiency
+- Smart contract management: AI analyzes historical dispute data to flag risky clauses
+- Automated regulatory updates and impact assessment: AI tracks legislative changes and links them to projects under review
+- Building material price prediction: machine learning models optimize cost estimation accuracy
+
+**Human moat:**
+
+- On-site signing and legal liability (registered surveyor regulatory requirements)
+- Multi-party interest coordination and arbitration (communication with developers, government, community)
+- On-Site Judgment of Complex Boundary/Property Disputes (Relying on Experience and Legal Interpretation)
+- Adaptability to Unforeseen On-Site Conditions (e.g., Underground Obstacles)
+
+**Skills to build:**
+
+- Drone aerial survey and LiDAR data processing
+- BIM and automated modeling tools (e.g., Revit, Civil 3D)
+- Python/R programming for automated reporting and data analysis
+- Application of AI compliance review tools (e.g., automatic building code checks)
+- Digital twin platform integration and management
+- Contract management and dispute mediation skills
+
+**Key growth areas:**
 
 - Infrastructure projects
 - Sustainability
@@ -61,65 +94,64 @@ Chartered surveyors conduct surveys related to the measurement, management, valu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需获得雇主担保，职业在eligible occupations清单上，薪资达到一般门槛（通常£26,200）或短缺职业较低门槛。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在测量及相关领域有杰出成就或潜力的专业人士，无需雇主担保。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，允许在英国工作2年（博士3年），为获取Skilled Worker签证积累经验。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Must obtain employer sponsorship, occupation on eligible occupations list, salary meets general threshold (usually £26,200) or lower threshold for shortage occupations. |
+| Subclass Global Talent (Global Talent visa) | For professionals with outstanding achievements or potential in surveying and related fields, no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | UK graduates can apply, allowed to work in the UK for 2 years (3 years for PhDs), gaining experience for Skilled Worker visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chartered surveyors？**
-- 对土地、房产和基础设施建设有浓厚兴趣，擅长分析和谈判的人
-- 喜欢户外与办公室结合工作环境，注重细节和准确性
-- 有志于获得国际认可专业资质（RICS）并在全球发展的职业人士
-
-**谁不适合学Chartered surveyors？**
-- 不喜欢频繁出差或户外工作的人
-- 对数学和数据分析有畏难情绪者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in land, real estate, and infrastructure construction, skilled in analysis and negotiation
+- Enjoys a mix of outdoor and office work, detail-oriented and accurate
+- Professionals aspiring to obtain internationally recognised professional qualification (RICS) and develop globally.
+
+**Who is not suited**
+- People who dislike frequent travel or outdoor work
+- Those intimidated by mathematics and data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary ceiling for Chartered Surveyors?**
+A: Senior Chartered Surveyor or Partner annual salary can exceed £100,000, especially in London and large international firms.
+
+**Q: How can overseas applicants get a UK Chartered Surveyor work visa?**
+A: The common pathway is the Skilled Worker visa, which requires employer sponsorship and the occupation to be on the eligible list. RICS accreditation can improve competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 积极（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chartered surveyors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for chartered surveyors?**
-答：Senior chartered surveyors or partners can earn over £100,000 per year, especially in London and large international firms.
-
-**问：How can overseas applicants get a UK work visa as a chartered surveyor?**
-答：The common route is the Skilled Worker visa, requiring employer sponsorship and the occupation being on the eligible list. RICS accreditation enhances competitiveness.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

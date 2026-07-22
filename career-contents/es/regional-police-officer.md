@@ -1,62 +1,98 @@
-# Regional Police Officer（Regional Police Officer）职业分析 · ES
+# Regional Police Officer — career analysis · Spain
 
-**职业代码：5922 – Regional Police Officer。**
+**Occupation code: 5922 (CNO)**
 
-Regional police officers serve in Spain's autonomous communities (e.g., Catalonia, Basque Country, Navarre), performing public safety, traffic enforcement, criminal investigation, and counter-terrorism duties.
+The autonomous community police are the independent force of each Spanish autonomous community (such as Catalonia, the Basque Country, and Navarre), responsible for public safety, traffic enforcement, criminal investigation, and counter-terrorism functions.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中学历（Bachillerato）或同等学历 | 2年（Bachillerato） | —（公立教育免费或低费用） |
-| 警察学院培训（如加泰罗尼亚警察学院） | 9-12个月 | —（通常由自治区政府资助） |
+| High school diploma (Bachillerato) or equivalent | 2nd year (Bachillerato) | $0~$3,000 (Public education is free or low-cost) |
+| Police Academy Training (such as Catalonia Police Academy) | 9-12 months | $0~$5,000 (It is usually funded by the autonomous region government) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 西班牙国籍 | 西班牙政府 | 必备 | 多数自治区警察岗位要求西班牙国籍，部分对外籍开放但受限。 |
-| 高中或同等学历证书 | 教育部 | 必备 | 需通过学历认证（homologación）如为外国学历。 |
-| 驾驶执照B类 | 交通总局（DGT） | 必备 | 必备，部分岗位需更高类别。 |
-| 无犯罪记录证明 | 司法部 | 必备 | 国内外无犯罪记录。 |
+| Spanish nationality | Spanish government | Required | Most police positions in the autonomous region require Spanish nationality, while some are open but restricted to foreigners. |
+| High school diploma or equivalent | Ministry of Education | Required | Academic credentials must be certified (homologación) if foreign qualifications are required. |
+| Category B driver's license | Directorate General of Transportation (DGT) | Required | Essential, some positions require higher categories. |
+| Police clearance certificate | Department of Justice. | Required | No criminal record domestically or internationally. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 45,000。西班牙自治区警察需求相对稳定，因各自治区政府持续投入治安力量。未来招聘数量有限，竞争激烈，需通过严格体能、心理和学术考试。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. The demand for police in Spain's autonomous communities remains relatively stable as governments continue to invest in law enforcement. Future recruitment is limited and competition fierce, requiring rigorous physical, psychological, and academic exams.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 含基本工资及补贴（夜班、危险等） |
-| 中级（4-10年） | $35,000~$45,000 | 含工龄津贴、加班费 |
-| 高级（10年以上/指挥官） | $45,000~$60,000 | 督察及以上级别，含职位津贴 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Includes base salary and allowances (night shifts, hazardous shifts, etc.) |
+| Mid-level (4-10 years). | $35,000~$45,000 | Includes seniority allowance and overtime pay |
+| Senior (10 years or more / Commander) | $45,000~$60,000 | Supervisor level and above, including position allowance |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业晋升从警员（Agente）开始，后可升至少尉（Subinspector）、督察（Inspector）、总督察（Intendente）等指挥职位。需积累年限、绩效和内部考试。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will optimize policing processes and data analysis, but law enforcement authority, on-site response, and moral judgment still depend on humans, and overall police positions in the autonomous region face moderate risks.
+
+Career promotion starts as Agente and can later advance to command positions such as Subinspector, Inspector, and Intendente. Accumulate years, performance, and internal examinations.
+
+**Tasks most exposed to AI:**
+
+- Automatic violation identification and fine generation during traffic monitoring
+- Planning and scheduling optimization of routine patrol routes
+- Automatic generation and preliminary organization of report texts
+- Video surveillance detects abnormal behavior in real time and provides alerts
+- Archive retrieval and rapid information matching
+
+**Where AI augments the role:**
+
+- Using predictive analytics to locate high-incidence crime areas and optimize police deployment
+- Quickly review case files and evidence through natural language processing
+- Using drones and robots for hazardous environment scouting
+- AI-assisted interrogation strategy recommendations and suspect risk assessment
+- Real-time multilingual translation enhances cross-cultural law enforcement efficiency
+
+**Human moat:**
+
+- On-the-spot judgment and use of force in critical situations
+- Ethical decisions involving human rights, privacy, and legal procedures
+- Interpersonal communication and trust building in community policing
+- Investigative intuition and empirical reasoning in complex cases
+- Exercise compulsory enforcement power and discretionary power according to law
+
+**Skills to build:**
+
+- Operation of police data analysis and forecasting tools
+- Fundamentals of AI Evidence Review and Digital Forensics
+- Drones and robots operate in tandem
+- Conflict mediation and mental health first aid
+- Multilingual communication (especially English and Catalan/Basque)
+- Basic programming and automation script writing
+
+**Key growth areas:**
 
 - Public Safety
 - Counter-Terrorism
@@ -65,64 +101,66 @@ Regional police officers serve in Spain's autonomous communities (e.g., Cataloni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 理论上可通过雇主担保申请工作居留，但自治区警察岗位通常仅对欧盟公民或西班牙人开放，非欧盟移民路径极窄。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | In theory, it is possible to apply for work residency through employer sponsorship, but police positions in the autonomous region are usually only open to EU citizens or Spaniards, with very limited non-EU immigration pathways. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Regional Police Officer？**
-- 具有西班牙国籍或欧盟国籍的年轻人
-- 追求稳定职业、愿意接受严格体能和心理训练者
-- 对公共安全和执法有强烈使命感者
+**Who is suited**
+- Young people with Spanish or EU citizenship
+- Those seeking stable careers and willing to undergo rigorous physical and psychological training
+- Those with a strong sense of mission in public safety and law enforcement
 
-**谁不适合学Regional Police Officer？**
-- 非欧盟公民因居留路径几乎不存在
-- 不适应轮班制、高压力和工作危险者
+**Who is not suited**
+- Non-EU citizens have almost no residency path
+- Those who are not suited to shift work, high pressure, or work hazards
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for the autonomous region police?**
+A: Junior police officer annual salary approximately €28,000-35,000 including allowances; experienced officers can earn €40,000-45,000; senior command positions can reach €60,000.
+
+**Q: Can non-EU citizens immigrate to Spain through the Autonomous Community Police?**
+A: Almost impossible. The vast majority of positions require Spanish nationality or EU citizenship, with only a few skilled positions in the autonomous region being exceptions, but opportunities are very limited.
+
+**Q: How can foreign degrees meet the application requirements?**
+A: It is necessary to officially certify foreign high school or university degrees (homologación), a process that takes several months. You also need to pass a Spanish proficiency test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Regional Police Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a regional police officer?**
-答：Entry-level officers earn €28,000–35,000 annually; experienced officers €35,000–45,000; senior commanders up to €60,000.
-
-**问：Can non-EU citizens immigrate to Spain as regional police?**
-答：Almost impossible. Most positions require Spanish or EU citizenship; only a few technical roles may consider non-EU, but opportunities are extremely limited.
-
-**问：How can foreign qualifications meet the requirements?**
-答：Foreign high school or university degrees must undergo official recognition (homologación), a process that can take months. Spanish language proficiency tests are also required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

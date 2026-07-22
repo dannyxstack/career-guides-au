@@ -1,61 +1,97 @@
-# Physiotherapist（Physiotherapist）职业分析 · FR
+# Physiotherapist — career analysis · France
 
-**职业代码：J1404 – Physiotherapist。**
+**Occupation code: J1404 (ROME)**
 
-Physiotherapists use manual therapy, exercise, and physical agents to help patients restore movement, relieve pain, and improve quality of life. In France, it is a regulated profession requiring a state diploma.
+Physical therapists (Kinésithérapeute) help patients restore motor function, relieve pain, and improve quality of life through manual therapy, exercise therapy, and physical factors. In France, this profession is strictly regulated and requires a national diploma.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 物理治疗国家文凭（DE Kiné） | 5年（包括一年PASS/LAS + 4年专业） | $20,000~$50,000（公立大学学费约2000-5000欧元/年，私立学校可达10000欧元/年） |
-| 物理治疗专科证书（如运动物理治疗） | 1-2年 | $3,000~$10,000（部分由专业协会提供，费用不等） |
+| National Diploma in Physiotherapy (DE Kiné) | 5 years (including one year PASS/LAS + 4 years of professional training) | $20,000~$50,000 (Public university tuition is about 2,000-5,000 euros per year, while private schools can pay up to 10,000 euros per year) |
+| Physical Therapy Specialist Certificate (such as Sports Physical Therapy) | 1-2 years | $3,000~$10,000 (Some are provided by professional associations, with varying fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理治疗国家文凭（Diplôme d'État de Masseur-Kinésithérapeute） | 法国高等教育与研究部 | 必备 | 必须持有方可在法国执业 |
-| 欧盟/欧洲经济区学历认可（Reconnaissance des qualifications） | 法国卫生与预防部 | 必备 | 非欧盟学历需通过资质认证程序 |
-| 执业注册（Ordre des Masseurs-Kinésithérapeutes） | 法国物理治疗师协会 | 必备 | 每年需注册更新 |
+| National Diploma in Physiotherapy (Diplôme d'État de Masseur-Kinésithérapeute) | French Ministry of Higher Education and Research | Required | Only those who hold the property can practice in France |
+| Recognition of Academic Qualifications in the EU/EEA (Reconnaissance des qualifications) | French Ministry of Health and Prevention | Required | Non-EU qualifications must undergo a credential assessment process |
+| Practice Registration (Ordre des Masseurs-Kinésithérapeutes) | French Association of Physiotherapists | Required | Registration and renewal are required annually |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 95,000。法国人口老龄化及慢性病增多推动物理治疗需求持续增长。政府鼓励在乡村和医疗荒漠地区开设诊所，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 95,000. France's aging population and increasing chronic diseases are driving sustained demand for physical therapy. The government encourages clinics to open in rural and medical desert areas, offering promising employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 受薪于公立医院或私立机构 |
-| 中级（4-10年） | $35,000~$50,000 | 经验丰富或部分自主开业 |
-| 高级（10年以上或独立开业） | $50,000~$80,000 | 独立开业收入更高，可达10万欧元以上 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Paid by public hospitals or private institutions |
+| Mid-level (4-10 years). | $35,000~$50,000 | Experienced or partially self-operated |
+| Senior (over 10 years or independent practice) | $50,000~$80,000 | Self-employed income can be higher, over €100,000. |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升可从受薪员工转为独立开业，或专攻某一领域（如运动物理治疗、神经康复），也可进入教学或研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The clinical reasoning and manual skills of physical therapists are difficult to replace by AI, but AI will greatly improve diagnostic assistance, treatment planning optimization, and remote monitoring efficiency, enabling therapists to focus on personalized rehabilitation and patient care.
+
+Career advancement can be from a salaried employee to a private practice, specializing in a specific field (such as sports physical therapy or neurorehabilitation), or entering teaching or research positions.
+
+**Tasks most exposed to AI:**
+
+- AI automatically analyzes patient gait videos and movement data and generates a preliminary assessment report
+- AI-assisted generation of standardized treatment plan templates based on evidence-based medicine
+- AI-driven chatbots handle common rehabilitation knowledge, consultations, and appointment management
+- AI automates patient progress recording and medical insurance reimbursement document filling
+- AI monitors patients' home training movements in real time and provides automatic feedback
+
+**Where AI augments the role:**
+
+- AI-assisted precise quantification of joint mobility, muscle strength, and other indicators improves assessment accuracy
+- Using AI to predict rehabilitation outcomes, helping therapists dynamically adjust treatment intensity
+- AI integrates multimodal patient data (imaging, wearables) to provide comprehensive insights
+- AI generates personalized home training programs and automatically tracks adherence
+- An AI-assisted remote rehabilitation platform that allows therapists to supervise multiple patients simultaneously
+
+**Human moat:**
+
+- Tactile feedback ability for manual therapy techniques and postural adjustment
+- Communication skills that build trust, empathy, and emotional support with patients
+- Clinical reasoning and intuitive decision-making when handling complex cases
+- Comprehensive responsibility for medical regulations, ethics, and medical team collaboration
+- Adjust the suitability of treatment plans flexibly based on immediate patient feedback
+
+**Skills to build:**
+
+- Digital health tools and remote rehabilitation platform operation
+- Movement analysis and biomechanical data interpretation
+- AI rehabilitation software application and result interpretation
+- Patient data privacy (such as RGPD) compliance knowledge
+- Basic programming or scripting automation to improve document efficiency
+- Evidence-based medicine research methods and AI-assisted literature retrieval
+
+**Key growth areas:**
 
 - aging population
 - chronic diseases
@@ -64,70 +100,69 @@ Physiotherapists use manual therapy, exercise, and physical agents to help patie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如持有硕士文凭且有工作合同，可获4年居留 |
-| Subclass Salarié（Salaried Employee） | 需获得法国雇主工作合同，且通过资质认证 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪高于法国平均工资1.5倍（约53,000欧元），且持有受认可文凭 |
-| Subclass Recherche emploi（Job Search Permit） | 毕业后可申请12个月找工作签证，找到工作后可转工签 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents; those holding a master's degree and having a work contract can obtain a 4-year residence permit |
+| Subclass Salarié (Salaried Employee) | Must obtain a work contract from a French employer and pass qualification certification |
+| Subclass Carte bleue UE (EU Blue Card) | Must have an annual salary 1.5 times higher than the French average (about 53,000 euros) and hold a recognized diploma |
+| Subclass Recherche emploi (Job Search Permit) | After graduation, you can apply for a 12-month work visa, and after finding a job, you can switch to a work visa |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 对医学和人体运动有兴趣的人
-- 具备良好沟通和动手能力的人
-- 希望获得稳定职业且社会需求大的人
-
-**谁不适合学Physiotherapist？**
-- 不适应长时间体力劳动的人
-- 对持续学习和严格认证感到压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in medicine and human movement
+- People with good communication and hands-on skills
+- People who want stable jobs and high social demand
+
+**Who is not suited**
+- People who are not suited to long periods of physical labor
+- People who feel pressured by continuous learning and rigorous certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a physiotherapist in France?**
+A: Salaried physiotherapists initially earn an annual salary of about 28,000-35,000 euros, with 10 years of experience exceeding 50,000 euros; Independent business starts have higher income, but must bear operational risks.
+
+**Q: How can non-EU physiotherapists immigrate to France?**
+A: You must pass academic certification (Reconnaissance des qualifications) to prove that the diploma is equivalent to the French national diploma, then apply for a work visa or Passeport Talent from an employer.
+
+**Q: What licenses are required to practice in France?**
+A: Must hold a French National Diploma in Physiotherapy and be registered with the Ordre Association of Physiotherapists, with annual renewal of practice qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Physiotherapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a physiotherapist in France?**
-答：Salaried physiotherapists earn about €28,000-35,000 at entry, up to €50,000 after 10 years; self-employed earn more but with business risks.
-
-**问：How can a non-EU physiotherapist immigrate to France?**
-答：You need to get your diploma recognized as equivalent to the French state diploma, find an employer, and apply for a work visa or Talent Passport.
-
-**问：What licenses are required to practice in France?**
-答：You must hold the French State Diploma of Physiotherapy and register with the Ordre des Masseurs-Kinésithérapeutes, renewing annually.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

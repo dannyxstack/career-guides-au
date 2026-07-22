@@ -1,59 +1,95 @@
-# Mining and quarry workers and related operatives（Mining and quarry workers and related operatives）职业分析 · UK
+# Mining and quarry workers and related operatives — career analysis · United Kingdom
 
-**职业代码：8132 – Mining and quarry workers and related operatives。**
+**Occupation code: 8132 (SOC)**
 
-Mining and quarry workers erect supports in underground workings, set and detonate explosives, operate drilling equipment to extract minerals, and run machinery to wash, crush, or separate stone and ores.
+This occupation involves erecting supports in underground mines, setting and detonating explosives, operating drilling equipment to extract coal and other minerals, and operating machinery for ore washing, crushing, or separation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 无需 | —（通常要求GCSE或同等学历） |
-| 学徒制 | 2-4年 | —（带薪培训，无学费） |
+| High school diploma | None | $0~$0 (Usually requires GCSE or equivalent) |
+| Apprenticeship | 2-4 years | $0~$0 (Paid Training, No Tuition Fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业健康与安全证书 | 国家认可机构 | 必备 | 如IOSH或NEBOSH |
-| 爆破执照 | 健康与安全执行局（HSE） | 必备 | 从事爆破作业必需 |
-| 机械操作证书 | 认证培训机构 | 可选 | 如CPCS或NPORS |
+| Occupational health and safety certificate | National accreditation bodies | Required | Such as IOSH or NEBOSH |
+| Blasting licence | Health and Safety Executive (HSE) | Required | Mandatory for blasting work |
+| Mechanical operation certificate | Accredited training organization | Optional | Such as CPCS or NPORS |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 5,500。英国采矿业就业稳定，但随着向绿色能源转型，对金属和工业矿物的需求可能增长，但煤炭开采岗位继续下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,500. Employment in the UK mining industry is stable, but demand for metals and industrial minerals may grow as it transitions to green energy, while coal mining jobs continue to decline.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 培训期间薪资较低 |
-| 中级（3-7年） | $32,000~$42,000 | 包括钻机操作员和爆破工 |
-| 高级（7年以上） | $42,000~$55,000 | 主管或监督岗位 |
+| Median salary | $38,301 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Low pay during training |
+| Mid-level (3–7 years) | $32,000~$42,000 | Includes drill operators and blasters |
+| Senior (7+ years) | $42,000~$55,000 | Supervisory or managerial position |
+| average salary | $39,714 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从普通操作员晋升为钻机操作员、爆破主管或矿井监督，部分人通过培训成为采矿工程师或安全官员。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Work for mining and quarrying workers and related operators is polarized: repetitive monitoring and operational tasks face automation risk, but roles in complex geological decisions, equipment maintenance, and safety management increase in value with AI assistance; overall mixed outlook.
+
+Can progress from operator to driller, blasting supervisor, or mine supervisor; some become mining engineers or safety officers through training.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor equipment status via sensors and AI vision systems, replacing manual inspections
+- Use automated drilling systems to perform precise drilling according to preset parameters, reducing manual operation
+- AI algorithms optimize blasting design and ore sorting, replacing manual calculations and hand sorting
+- Autonomous transport vehicles replace underground mine truck drivers.
+- Automatically generate production reports based on real-time data, replacing manual entry
+
+**Where AI augments the role:**
+
+- AI geological modeling assists engineers in analyzing ore distribution, improving efficiency of mining plan design.
+- AR headsets overlay downhole sensor data to help operators quickly locate equipment faults
+- Predictive maintenance systems provide early warnings of equipment anomalies, reducing unplanned downtime
+- Digital twin simulates different mining strategies to optimize production scheduling
+- Remote control technology allows operators to manage multiple machines from a safe area
+
+**Human moat:**
+
+- Emergency decision-making ability to handle sudden geological disasters (e.g., landslides, gas outbursts)
+- Ability to assess complex and variable ore body structures on-site and flexibly adjust processes
+- Repair, modification, and innovation of old equipment and non-standard parts
+- Collaboration and communication skills working with multidisciplinary teams such as geology, safety, and equipment
+- Authority in enforcing safety regulations and correcting on-site violations
+
+**Skills to build:**
+
+- Industrial robot and automation system operation and basic programming (e.g., PLC)
+- Data Collection and Analysis Tools (e.g., Python, Tableau)
+- Use of remote monitoring and digital twin platforms
+- Predictive maintenance and equipment diagnostic technology
+- Decision-making ability in collaboration with AI systems (e.g., evaluating AI-recommended blasting plans)
+- Project management related to digital transformation in energy and mining
+
+**Key growth areas:**
 
 - Automation
 - Green mining
@@ -62,64 +98,63 @@ Mining and quarry workers erect supports in underground workings, set and detona
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于雇主担保的技术工人，需满足薪资和技能要求 |
-| Subclass Graduate（Graduate Visa） | 适用于在英国完成学位的毕业生，可工作2-3年 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled workers sponsored by employers, meeting salary and skill requirements |
+| Subclass Graduate (Graduate Visa) | Applicable to graduates who have completed a degree in the UK, allowing 2-3 years of work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining and quarry workers and related operatives？**
-- 喜欢户外和体力工作
-- 适应地下或偏远环境
-- 注重安全操作规程
-
-**谁不适合学Mining and quarry workers and related operatives？**
-- 对高度或密闭空间不适
-- 无法适应轮班工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes outdoor and physical work
+- Adaptation to underground or remote environments
+- Emphasis on safety operating procedures
+
+**Who is not suited**
+- Not comfortable with heights or confined spaces.
+- Unable to adapt to shift work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for mining workers?**
+A: Junior salary approx £25,000-32,000, senior up to £55,000, blasting and other specialist skills can command higher pay.
+
+**Q: Can miners migrate to the UK via skilled worker visas?**
+A: Yes, this occupation is on the eligible sponsorship list, subject to salary thresholds and employer sponsorship requirements, but it is not on the shortage occupation list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mining and quarry workers and related operatives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining workers?**
-答：Entry-level salaries range from £25,000 to £32,000, while senior roles can reach up to £55,000, with additional pay for specialist skills like blasting.
-
-**问：Can mining workers migrate to the UK via the Skilled Worker visa?**
-答：Yes, the occupation is eligible for sponsorship, but it is not on the shortage list. You need a job offer meeting the salary threshold.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

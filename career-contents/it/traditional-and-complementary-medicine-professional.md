@@ -1,61 +1,93 @@
-# Traditional and Complementary Medicine Professional（Traditional and Complementary Medicine Professional）职业分析 · IT
+# Traditional and Complementary Medicine Professional — career analysis · Italy
 
-**职业代码：2230 – Traditional and Complementary Medicine Professional。**
+**Occupation code: 2230 (ISCO08)**
 
-In Italy, Traditional and Complementary Medicine Professionals include acupuncturists, herbalists, and TCM practitioners, requiring state registration and offering non-conventional healthcare.
+In Italy, Traditional and Complementary Medicine specialists include TCM practitioners, acupuncturists, herbalists, etc., who must register through state examinations and provide non-mainstream healthcare services.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专科或本科学位 | 3年（本科） | $5,000~$20,000（公立大学学费低，私立培训课程费用高） |
-| 专业培训课程 | 2-3年 | $3,000~$15,000（包括针灸、植物疗法等，部分由私人机构提供） |
+| Diploma or bachelor's degree | 3 years (bachelor's) | $5,000~$20,000 (Low tuition fees at public universities, high costs for private training courses) |
+| Professional training courses | 2-3 years | $3,000~$15,000 (Includes acupuncture, herbal therapies, etc., some provided by private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家注册传统医学从业者 | 意大利卫生部 | 必备 | 需通过国家考试并在专业名册注册 |
-| 补充医学从业者认证 | 各大区卫生局 | 可选 | 部分大区要求额外认证 |
-| 医学或相关学位 | 大学 | 必备 | 基础医学学位是注册前提 |
+| Nationally registered traditional medicine practitioner | Italian Ministry of Health | Required | Must pass national exams and be registered on a professional roster |
+| Medical or related degree | University | Required | A basic medical degree is a prerequisite for registration |
+| Complementary medicine practitioner certification | Local health authorities (ASL) | Optional | Some regions require additional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。意大利对补充医学认可度逐步提高，但公立体系岗位有限，多数为自雇或私立机构工作。老龄化推动慢病管理需求，但整体市场增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Italy's recognition of complementary medicine is gradually increasing, but public system positions are limited; most work is self-employed or in private institutions. An aging population drives demand for chronic disease management, but overall market growth is slow.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 多为自雇或兼职，收入不稳定 |
-| 中级（3-10年） | $30,000~$45,000 | 有稳定客户群后收入提升 |
-| 高级（10年以上） | $45,000~$70,000 | 知名专家或拥有诊所可达更高 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$30,000 | Mostly self-employed or part-time, with unstable income |
+| Intermediate (3-10 years) | $30,000~$45,000 | Income increases after building a stable client base |
+| Senior (10+ years) | $45,000~$70,000 | Renowned experts or those with their own clinics can earn more |
+| average salary | $40,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径：先获得基础医学或相关学位，再完成专门培训（如针灸或植物疗法），通过国家考试注册。可发展为独立执业或开设诊所，少数进入研究或教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on traditional and complementary medicine specialists is mixed: standardized tasks like diagnosis and treatment recommendations are easily replaceable, but personalized diagnosis and manual operations remain a moat.
+
+Career path: Obtain a foundational medical or related degree, then complete specialized training (e.g., acupuncture or phytotherapy), and register through national exams. Can develop into independent practice or open a clinic, with a few entering research or teaching.
+
+**Tasks most exposed to AI:**
+
+- Generating preliminary diagnostic suggestions based on symptoms and tongue/pulse images.
+- Automatic recommendation of commonly used herbal formulas or acupuncture prescriptions
+- Organizing and basic analysis of patient health records
+- Automated responses for appointment management and patient inquiries
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: Use image recognition to analyze tongue coating, complexion, etc., to assist in syndrome differentiation.
+- Personalized treatment plans: recommend optimized herbal combinations or acupuncture plans based on big data.
+- Knowledge retrieval: quickly obtain the latest research literature and classic cases
+- Patient education: auto-generate illustrated wellness advice and rehabilitation plans
+
+**Human moat:**
+
+- Manual skills (e.g., acupuncture techniques, massage force)
+- Interpersonal communication skills to build trust and empathy with patients
+- Holistic differentiation and individualized adjustment for complex cases.
+- Ethical Judgment and Treatment Responsibility in Cross-Cultural Contexts
+
+**Skills to build:**
+
+- Big data analysis of Traditional Chinese Medicine (TCM) and AI tool operation
+- use of digital diagnostic devices such as tongue and pulse diagnosis
+- Application of telemedicine platforms and patient management
+- Continuously learn the latest developments in AI-assisted diagnosis and treatment.
+- Multimedia production for patient communication and health education
+
+**Key growth areas:**
 
 - Aging population
 - Wellness tourism
@@ -64,66 +96,68 @@ In Italy, Traditional and Complementary Medicine Professionals include acupunctu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位及工作合同，年薪门槛约€35,000 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，需雇主担保，对非紧缺职业名额有限 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 适用于计划开设独立诊所的从业者，需详细商业计划 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens; requires a university degree and a work contract; annual salary threshold around €35,000. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, limited places for non-occupation in demand |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | For practitioners planning to set up independent clinics, a detailed business plan is required. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Traditional and Complementary Medicine Professional？**
-- 对自然疗法有热情的人
-- 希望自主执业的人
-- 有医学或生物学背景的人
+**Who is suited**
+- People passionate about naturopathy
+- Those who wish to work independently
+- People with a medical or biology background
 
-**谁不适合学Traditional and Complementary Medicine Professional？**
-- 追求高收入稳定工作的人
-- 不愿长期学习考试的人
+**Who is not suited**
+- People seeking high-income stable jobs
+- People who are unwilling to engage in long-term study and exams
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of traditional Italian medicine specialists?**
+A: Entry-level annual salary approx. €20,000-30,000, mid-level €30,000-45,000, senior up to €70,000, but most are self-employed with fluctuating income.
+
+**Q: How can non-EU citizens become traditional medicine practitioners in Italy?**
+A: Must first obtain a residence permit, then pass the national registration exam. Common visas include the EU Blue Card (requires skilled work) or self-employment visa.
+
+**Q: How recognized are traditional complementary medicine practices in Italy?**
+A: Recognition is gradually increasing, but it is not part of mainstream healthcare; most patients pay out-of-pocket. Some regions include it in medical insurance coverage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Traditional and Complementary Medicine Professional属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for traditional medicine professionals in Italy?**
-答：Entry-level annual salary is around €20,000-30,000, mid-level €30,000-45,000, senior up to €70,000, but most are self-employed with variable income.
-
-**问：How can non-EU citizens become traditional medicine practitioners in Italy?**
-答：They need a residence permit and pass the national registration exam. Common visas include EU Blue Card (for high-skilled jobs) or self-employment visa.
-
-**问：How is traditional and complementary medicine recognized in Italy?**
-答：Recognition is growing but not mainstream; most patients pay out-of-pocket. Some regions include it in public health coverage.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Engineering technicians（Engineering technicians）职业分析 · UK
+# Engineering technicians — career analysis · United Kingdom
 
-**职业代码：3113 – Engineering technicians。**
+**Occupation code: 3113 (SOC)**
 
-Engineering technicians provide technical support to engineers, involving design, development, installation, and maintenance of engineering systems across mechanical, electrical, civil, and other fields.
+Engineering technicians provide technical support to engineers, participate in the design, development, installation, and maintenance of engineering systems, covering mechanical, electrical, civil, and other fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| BTEC/HND 文凭 | 2年 | $6,000~$12,000（英国本土学费） |
-| 学士学位 | 3-4年 | $9,250~$38,000（国际学生学费更高） |
-| 学徒制 | 2-4年 | —（在职培训，无学费） |
+| BTEC/HND diploma | 2 years | $6,000~$12,000 (UK domestic tuition fees.) |
+| Bachelor's degree | 3-4 years | $9,250~$38,000 (International students pay higher tuition fees) |
+| Apprenticeship | 2-4 years | $0~$0 (On-the-job training, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTEC 国家文凭 | Pearson | 可选 | 工程相关领域 |
-| HND | 多种机构 | 可选 | 工程或技术学科 |
-| 工程学会会员 | 如 IET, IMechE | 可选 | 非必须，但有助于晋升 |
+| BTEC National Diploma | Pearson | Optional | Engineering-related fields |
+| HND | Multiple institutions | Optional | Engineering or technical discipline |
+| Member of an Engineering Society | e.g., IET, IMechE | Optional | Not mandatory, but helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 180,000。英国工程技术员需求稳定，尤其在制造业、能源和基础设施领域。随着绿色能源和数字化转型，预计未来十年岗位增长约5%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 180,000. Demand for engineering technicians in the UK is stable, especially in manufacturing, energy, and infrastructure. With green energy and digital transformation, job growth is expected to be around 5% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入职薪资 |
-| 中级（3-7年） | $28,000~$38,000 | 经验丰富的技术员 |
-| 高级（7年以上） | $38,000~$50,000 | 高级/专家级 |
+| Median salary | $44,843 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Starting salary |
+| Mid-level (3–7 years) | $28,000~$38,000 | Experienced technician |
+| Senior (7+ years) | $38,000~$50,000 | Senior/Expert level |
+| average salary | $47,714 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级工程技术员可晋升为高级技术员或技术专家，也可通过进修成为工程师。部分人转向项目管理或质量控制岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will take over routine drafting, data recording, and basic troubleshooting for engineering technicians, but complex system integration, on-site issues, and cross-disciplinary coordination still rely on human experience. Job roles will be reshaped rather than eliminated.
+
+Junior engineering technicians can advance to senior technicians or technical specialists, or become engineers through further study. Some transition to project management or quality control positions.
+
+**Tasks most exposed to AI:**
+
+- Creating and modifying standardized drawings using CAD software
+- Collect and record routine operational data from equipment sensors
+- Diagnose common mechanical/electrical faults according to standard procedures
+- Generating routine technical reports and maintenance records
+
+**Where AI augments the role:**
+
+- Use AI to analyze historical data to predict equipment failures and develop preventive maintenance plans
+- Quickly verify design solutions through AI simulation, reducing physical prototype iterations
+- Use natural language to query technical documentation, accelerating on-site troubleshooting.
+- Uses AI to optimise process parameters, improving production line efficiency
+- AI-assisted quality inspection to precisely locate product defects
+
+**Human moat:**
+
+- Creative problem-solving skills for handling unstructured faults on-site
+- Integrated understanding and debugging experience across mechanical/electrical/software systems
+- Communication and coordination with engineers, operators, and clients for requirement clarification
+- critical evaluation and decision-making on AI outputs in safety-critical environments
+- Maintenance experience and manual repair skills for old, non-standard equipment
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., generative design in Autodesk Fusion 360)
+- Data Analysis and Visualization (Python/Pandas with Sensor Data)
+- Digital Twin and Simulation Platform Operation
+- Industrial IoT edge computing device configuration
+- Basic programming (automation scripts, API calls)
+- Methodology for human-machine collaboration and AI result verification
+
+**Key growth areas:**
 
 - Renewable Energy
 - Digital Transformation
@@ -63,65 +98,64 @@ Engineering technicians provide technical support to engineers, involving design
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得英国雇主担保的合格技术工人。 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业的技术人才，需满足薪资要求。 |
-| Subclass Graduate（Graduate visa） | 英国毕业生工作签证，允许留英工作2年（博士3年）。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to skilled workers who obtain a UK employer sponsor. |
+| Subclass Scale-up (Scale-up visa) | For skilled talent in high-growth enterprises, must meet salary requirements. |
+| Subclass Graduate (Graduate visa) | UK Graduate visa, allows staying to work for 2 years (3 years for PhD). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering technicians？**
-- 喜欢动手操作和解决技术问题的人
-- 希望在工程领域取得实践经验的人
-- 愿意通过学徒制或文凭课程进入职场的人
-
-**谁不适合学Engineering technicians？**
-- 对纯理论工作感兴趣的人
-- 不喜欢在车间或现场工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving technical problems.
+- People seeking hands-on experience in engineering
+- People willing to enter the workforce through apprenticeships or diploma programs
+
+**Who is not suited**
+- People interested in purely theoretical work
+- People who dislike working in workshops or on-site
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for engineering technicians?**
+A: Junior annual salary approx. £22,000-28,000, intermediate £28,000-38,000, senior up to £50,000.
+
+**Q: How can overseas individuals immigrate to the UK as engineering technicians?**
+A: Can obtain employer sponsorship through the Skilled Worker visa or work in high-growth companies via the Scale-up visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Engineering technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for engineering technicians?**
-答：Entry-level: £22,000-£28,000; mid-level: £28,000-£38,000; senior: up to £50,000.
-
-**问：How can overseas individuals immigrate to the UK as engineering technicians?**
-答：Via Skilled Worker visa with employer sponsorship, or Scale-up visa working for a qualifying company.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

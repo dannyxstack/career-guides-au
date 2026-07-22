@@ -1,60 +1,93 @@
-# Locomotive Engine Driver（Locomotive Engine Driver）职业分析 · IE
+# Locomotive Engine Driver — career analysis · Ireland
 
-**职业代码：8311 – Locomotive Engine Driver。**
+**Occupation code: 8311 (ISCO08)**
 
-In Ireland, locomotive engine drivers operate freight or passenger trains, ensuring safe and punctual service. The role requires high concentration, technical skill, and rigorous training and certification.
+In Ireland, train drivers operate freight or passenger trains, ensuring safe and punctual operation. This occupation requires high concentration, technical skill, and strict training and certification.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无固定学制 | —（基础教育免费） |
-| 培训课程 | 1-2年 | $5,000~$15,000（由铁路公司提供，可能付费） |
+| High school graduation | There is no fixed academic system | $0~$0 (Free basic education) |
+| Training course | 1-2 years | $5,000~$15,000 (Provided by the railway company, may be paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机车司机执照 | Railway Safety Commission | 必备 | 强制要求，通过理论和实践考试 |
-| CPD培训 | 雇主（Iarnród Éireann） | 必备 | 定期复训，保持技能 |
+| Train driver license | Railway Safety Commission | Required | Mandatory requirement, passing theoretical and practical exams |
+| CPD training | Employer (Iarnród Éireann) | Required | Regular refresher training to maintain skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。爱尔兰铁路网持续投资，货运量增长与通勤需求稳定，未来五年预计就业缓慢增长。退休人员补充提供机会，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Irish rail network continues to invest, with freight volume growth and stable commuter demand; employment is expected to grow slowly over the next five years. Retiree replacement provides opportunities, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 含基本工资和津贴 |
-| 中级（3-10年） | $45,000~$60,000 | 含绩效和加班 |
-| 高级（10年以上） | $60,000~$75,000 | 含资深岗位补贴 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Includes base salary and allowances |
+| Intermediate (3-10 years) | $45,000~$60,000 | includes performance pay and overtime |
+| Senior (10+ years) | $60,000~$75,000 | including senior position allowances |
+| average salary | $53,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理司机或铁路运营岗位起步，积累经验后晋升为资深司机，可能转向培训或管理职位。Iarnród Éireann提供内部晋升路径。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Train drivers face high automation risk; autonomous driving tech may take over some tasks, but safety responsibility and complex emergency handling still require humans, potentially reducing overall job demand.
+
+Typically start as assistant drivers or railway operations staff, gain experience, and progress to senior drivers, with potential to move into training or management roles. Iarnród Éireann offers internal advancement pathways.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving operations on regular routes, such as accelerating, decelerating, and stopping.
+- Real-time monitoring of train status and automated analysis of operational data.
+- Automatic obstacle avoidance and emergency braking based on sensors and prediction algorithms
+- Automatic reception and execution of standardized dispatch instructions
+
+**Where AI augments the role:**
+
+- Enhance situational awareness of road conditions and signals ahead through AR/VR systems
+- AI-assisted decision support to optimize energy-efficient driving strategies
+- Use real-time data analysis to provide early warning of mechanical failures
+- Enhance emergency response capabilities through digital twin simulation training.
+
+**Human moat:**
+
+- Complex decision-making and emergency response in non-standard emergencies
+- Cross-role communication and coordination with dispatchers, station staff, and others
+- Deep understanding and implementation of railway regulations and professional ethics
+- Judgment in edge cases such as extreme weather, equipment failures
+
+**Skills to build:**
+
+- Operation and monitoring of railway automatic train operation systems
+- Foundations of data analysis and fault diagnosis
+- Human-robot collaboration and abnormal situation handling skills
+- Experience with digital twins and simulators
+- Relevant programming or electronic engineering knowledge (e.g., Python, sensors)
+- Continuous learning and adaptability
+
+**Key growth areas:**
 
 - infrastructure investment
 - rail expansion
@@ -63,62 +96,64 @@ In Ireland, locomotive engine drivers operate freight or passenger trains, ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于有雇主担保的火车司机，需证明劳动力市场测试。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 该职业通常不在紧缺清单，不适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to train drivers with employer sponsorship, requiring demonstration of labor market testing. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on the shortage list and is not applicable. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Locomotive Engine Driver？**
-- 注重安全与纪律
-- 能适应轮班和不规律作息
-- 喜欢独立工作
+**Who is suited**
+- Focus on safety and discipline
+- Able to adapt to shift work and irregular schedules
+- Enjoys working independently.
 
-**谁不适合学Locomotive Engine Driver？**
-- 无法集中注意力长时间
-- 对复杂程序不耐烦
+**Who is not suited**
+- Unable to concentrate for long periods
+- Impatient with complex procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an Irish train driver?**
+A: Average annual salary around 45,000-60,000 euros, depending on experience and company.
+
+**Q: Can foreigners apply for train driver jobs in Ireland?**
+A: Yes, but need a General Employment Permit and the employer may need to conduct a labour market test. This occupation is not on the Critical Skills List.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Locomotive Engine Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a locomotive engine driver in Ireland?**
-答：Average annual salary ranges from €45,000 to €60,000, depending on experience and company.
-
-**问：Can foreigners apply for locomotive engine driver jobs in Ireland?**
-答：Yes, via a General Employment Permit with employer sponsorship and likely a labor market test. The occupation is not on the Critical Skills list.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

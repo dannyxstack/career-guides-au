@@ -1,60 +1,94 @@
-# Door-to-door Salesperson（Door-to-door Salesperson）职业分析 · IT
+# Door-to-door Salesperson — career analysis · Italy
 
-**职业代码：5243 – Door-to-door Salesperson。**
+**Occupation code: 5243 (ISCO08)**
 
-Door-to-door salespersons in Italy typically work for energy, telecom, or charity organizations, promoting products or services door-to-door. The role requires strong communication and persuasion skills, with income primarily based on commission.
+Door-to-door salespeople in Italy typically work for energy, telecom, or non-profit organizations, promoting products or services door-to-door. This occupation requires high communication and persuasion skills, with income mainly based on commission.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年（义务教育） | —（公立学校免费） |
-| 职业培训证书 | 6个月-1年 | $500~$2,000（销售技巧培训课程） |
+| High school graduation | 12 years (compulsory education) | $0~$0 (Free public schools.) |
+| Vocational training certificate | 6 months to 1 year | $500~$2,000 (Sales skills training course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定资质要求 | 无 | 可选 | 雇主通常要求高中文凭，提供在职培训 |
-| 销售经验 | 雇主 | 可选 | 相关经验优先，非强制 |
+| No specific qualification requirements | None | Optional | Employers typically require a high school diploma and provide on-the-job training |
+| Sales experience | Employer | Optional | Related experience preferred, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。意大利上门推销员就业前景一般，数字化营销兴起使需求下降，但能源和电信领域仍有短期机会。工作不稳定，流动率高。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. Employment prospects for door-to-door salespeople in Italy are average; demand has decreased due to the rise of digital marketing, but there are still short-term opportunities in energy and telecommunications. Jobs are unstable with high turnover.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 底薪加佣金，总收入波动大 |
-| 中级（3-7年） | $25,000~$35,000 | 含较高佣金 |
-| 高级（7年以上） | $35,000~$50,000 | 团队主管或资深销售，佣金为主 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Base salary plus commission, total income fluctuates significantly |
+| Mid-level (3–7 years) | $25,000~$35,000 | Includes high commission |
+| Senior (7+ years) | $35,000~$50,000 | Team leader or senior sales, commission-based |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业晋升路径有限，可升为销售主管或区域经理，部分人转向电话销售或数字营销。积累客户资源后可能自主创业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Door-to-door salespeople face high automation risk in Italy: phone/video sales and AI-driven marketing automation are gradually replacing traditional door-to-door sales, with entry-level positions shrinking rapidly.
+
+Career advancement paths are limited; one can become a sales supervisor or regional manager, and some transition to telemarketing or digital marketing. Accumulating client resources may lead to starting one's own business.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of potential client lists (AI automatically generates from data analysis)
+- Standard product demonstration (chatbot or video alternative)
+- Order collection and data entry (automated forms and CRM)
+- Common Q&A in objection handling (AI knowledge base auto-reply)
+- Follow-up and re-engagement (automated email/SMS sequences)
+
+**Where AI augments the role:**
+
+- Use AI-personalized conversation scripts (real-time adjustments based on customer profiles)
+- Optimize communication rhythm in real-time using emotion recognition tools
+- Customer Relationship Data Analysis for Precision Recommendations and Upselling
+- AI-assisted note-taking and summary generation to reduce paperwork
+
+**Human moat:**
+
+- Build deep trust relationships and emotional connections
+- Complex negotiation and customized solutions
+- Creativity & improv performance (humour, empathy)
+- Handling non-standard, highly emotional rejection scenarios
+
+**Skills to build:**
+
+- CRM and sales automation tools (e.g., Salesforce)
+- Data analysis and customer insight basics
+- Video sales and remote communication skills
+- AI conversation scripting tools (e.g., Gong, Chorus)
+- Introduction to digital marketing
+- Emotional intelligence and resilience training
+
+**Key growth areas:**
 
 - Declining due to digital shift
 - Commission-based income
@@ -63,65 +97,67 @@ Door-to-door salespersons in Italy typically work for energy, telecom, or charit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 适用于非欧盟工人，需雇主担保，受年度配额限制，通常针对低技能岗位，但意大利对此类工作配额极少。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职业，但上门推销员通常不符合高技能要求，难以获得。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU workers, requires employer sponsorship, subject to annual quotas, typically for low-skilled positions, but Italy has very few quotas for such work. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled occupations, but door-to-door salespeople usually do not meet high-skilled requirements, making it difficult to obtain. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Door-to-door Salesperson？**
-- 喜欢与人沟通、有说服力的人
-- 能接受不固定收入和户外工作的人
-- 寻求快速入门销售领域的人
+**Who is suited**
+- Suitable for people who enjoy communication and are persuasive
+- People who can accept irregular income and outdoor work
+- Seeking quick entry into the sales field
 
-**谁不适合学Door-to-door Salesperson？**
-- 追求稳定收入和职业保障的人
-- 不喜欢被频繁拒绝或户外工作的人
+**Who is not suited**
+- People seeking stable income and job security
+- People who dislike frequent rejection or outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of Italian door-to-door salespeople?**
+A: Income primarily dependent on commission; junior annual income about €18,000-25,000, senior can reach €35,000-50,000. Base salary is low and income is unstable.
+
+**Q: Can foreigners immigrate to Italy through a door-to-door salesperson job?**
+A: Very difficult. This occupation is not on the skilled occupation list, Decreto Flussi quotas are minimal, and the EU Blue Card is not applicable. Usually only feasible for EU citizens or those with family reunion visas.
+
+**Q: What are the career development paths for door-to-door salespeople?**
+A: Can be promoted to sales supervisor, regional manager, or transition to telemarketing, digital marketing. After building a client base, may start own business, but promotion opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Door-to-door Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for door-to-door salespersons in Italy?**
-答：Income mainly depends on commission; junior annual salary is around €18,000-€25,000, while senior can reach €35,000-€50,000. Base salary is low and income unstable.
-
-**问：Can foreigners immigrate to Italy as door-to-door salespersons?**
-答：Very difficult. The occupation is not in shortage, Decreto Flussi quotas are minimal, and EU Blue Card is not applicable. Only EU citizens or those with family reunion visas may work.
-
-**问：What are the career development paths for door-to-door salespersons?**
-答：Can advance to sales supervisor, regional manager, or transition to telemarketing or digital marketing. Entrepreneurship possible with client base, but limited upward mobility.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

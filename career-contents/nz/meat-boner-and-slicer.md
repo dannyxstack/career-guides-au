@@ -1,59 +1,92 @@
-# Meat Boner and Slicer（Meat Boner and Slicer）职业分析 · 新西兰
+# Meat Boner and Slicer — career analysis · New Zealand
 
-**职业代码：831211 – Meat Boner and Slicer。**
+**Occupation code: 831211 (ANZSCO)**
 
-Meat boners and slicers work in red meat processing plants, using knives to debone and slice carcasses of cattle, sheep, and pigs in cold, wet conditions. This occupation is on New Zealand's Green List Tier 2, offering a pathway to residence after two years of work.
+Use knives in red meat processing plants to bone, debone, and slice cattle, sheep, pigs, etc. Work environment is cold and damp, requiring physical strength and skilled knife techniques. This occupation is on New Zealand's Green List Tier 2, with a pathway to residency after two years of work, offering a clear immigration route.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训 | 2-4周 | $3,000~$5,000（新西兰职业培训机构（如Primary ITO）提供的肉品加工课程） |
-| 在职培训 | 6-12个月 | —（雇主提供带薪培训，无直接学费） |
+| Short-term training | 2-4 weeks | $3,000~$5,000 (Meat processing courses offered by New Zealand vocational training providers (e.g., Primary ITO)) |
+| On-the-job training | 6–12 months | $0~$0 (Employer-provided paid training with no direct tuition costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家肉类加工证书（Level 3或4） | 新西兰技能组织（NZQA） | 可选 | 行业认可，非强制但有利就业 |
-| 食品安全证书 | 新西兰初级产业部（MPI） | 必备 | 上岗前需获得，证明符合卫生标准 |
-| 基础体格检查 | 指定医疗诊所 | 必备 | 证明体力适合重复性重体力劳动 |
+| Food safety certificate | New Zealand Ministry for Primary Industries (MPI) | Required | Must be obtained before starting work, proving compliance with hygiene standards |
+| Basic physical examination | Designated medical clinic | Required | Proof of physical fitness for repetitive heavy manual labor |
+| New Zealand National Certificate in Meat Processing (Level 3 or 4) | New Zealand Qualifications Authority (NZQA) | Optional | Industry recognized, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰红肉加工业是出口支柱，北岛和南岛主要产区对剔骨工需求稳定。随着全球肉类消费增长，该职位长期紧缺，尤其是熟练工。未来五年就业前景看好，但受季节性影响。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. The New Zealand red meat processing industry is an export pillar; demand for boners is stable in major regions of the North and South Islands. With global meat consumption growth, this occupation is in chronic shortage, especially skilled workers. The employment outlook over the next five years is positive, but subject to seasonality.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 入门级，时薪约22-26纽元 |
-| 中级（2-5年） | $55,000~$70,000 | 熟练工，时薪约27-34纽元 |
-| 高级（5年以上） | $70,000~$85,000 | 资深或主管级，时薪约34-41纽元 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Entry-level, hourly rate approximately 22-26 NZD |
+| Intermediate (2-5 years) | $55,000~$70,000 | Skilled worker, hourly rate approx. NZD 27-34 |
+| Senior (5+ years) | $70,000~$85,000 | Senior or supervisory level, hourly rate approximately NZ$34-41 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展：从初级剔骨工（学习基本刀法）到高级切片工（专精特殊切割），可晋升为生产线主管或质检员。部分经验者通过评估后可直接获得新西兰工作签证，实现移民。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
+
+Career progression: from junior boner (learning basic knife skills) to senior slicer (specializing in specific cuts), with potential to advance to production line supervisor or quality inspector. Those with experience may obtain a New Zealand work visa directly after assessment, enabling migration.
+
+**Tasks most exposed to AI:**
+
+- Batch cutting and segmentation of standard parts
+- Repetitive motions in deboning and skinning processes
+- Basic processing like meat grinding and sausage stuffing
+- Weighing, labeling, and packaging line operations
+
+**Where AI augments the role:**
+
+- Using AI vision systems for meat grading and defect detection
+- Optimizing cutting plans through data analysis to reduce waste
+- Manage meat preservation and turnover using smart inventory systems
+- Using augmented reality (AR) to assist training new employees in cutting techniques
+
+**Human moat:**
+
+- Hand-finishing special parts and custom cutting according to client requirements
+- Sensory judgment of meat freshness, texture, and abnormalities
+- Flexibility in handling unexpected orders and personalized needs.
+- Provide cooking advice and demonstrate cutting techniques to customers
+
+**Skills to build:**
+
+- Operation and maintenance of automated cutting equipment
+- Food quality and safety management systems (e.g., HACCP)
+- Basic data analysis and inventory management software
+- Customer service and communication skills
+- Fine hand cutting (for high-end customisation)
+- Food safety regulations and traceability knowledge
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skill Shortage
@@ -62,64 +95,63 @@ Meat boners and slicers work in red meat processing plants, using knives to debo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 在绿色清单职业工作2年，满足薪资条件（时薪至少29.66纽元）后申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，最多可签3年，可转Green List T2 |
+| Subclass Green List T2 (Green List Work to Residence) | Apply for residence after working 2 years in a Green List occupation and meeting the salary requirement (at least NZD 29.66 per hour) |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by accredited employer, can sign up to 3 years, can transfer to Green List Tier 2. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meat Boner and Slicer？**
-- 体力好、适应寒冷潮湿环境的人
-- 有屠宰或肉类加工经验者
-- 希望通过劳技术移民新西兰、追求稳定收入的人
-
-**谁不适合学Meat Boner and Slicer？**
-- 对血腥或肉类敏感者
-- 体力较差、无法承受重复性高强度劳动的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, adaptable to cold and humid environments
+- Experience in slaughtering or meat processing
+- People seeking stable income through skilled migration to New Zealand
+
+**Who is not suited**
+- Sensitive to blood or meat.
+- Individuals with lower physical stamina who cannot handle repetitive high-intensity labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary of a boner?**
+A: Junior: approx. NZD 45,000-55,000; skilled: NZD 55,000-70,000; senior or supervisor: NZD 70,000-85,000. Salary influenced by location, factory size, and experience.
+
+**Q: Is it difficult to immigrate to New Zealand as a boner/slicer?**
+A: Not difficult. This occupation is on the Green List Tier 2; find an accredited employer, work for 2 years, and meet the hourly wage threshold to apply for residency. Currently, there is a large industry gap, and the immigration pathway is direct.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Meat Boner and Slicer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a meat boner?**
-答：Entry-level: NZ$45,000-$55,000 per year; experienced: NZ$55,000-$70,000; senior: NZ$70,000-$85,000, depending on location and employer.
-
-**问：Is it difficult to immigrate as a meat boner?**
-答：Not difficult. It's on the Green List Tier 2: work for 2 years for an accredited employer at the required pay rate, then apply for residence. Demand is high.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

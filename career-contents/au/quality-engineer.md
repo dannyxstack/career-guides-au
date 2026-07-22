@@ -1,66 +1,95 @@
-# 质量工程师（Quality Engineer）职业分析 · 澳大利亚
+# Quality Engineer — career analysis · Australia
 
-**职业代码：233917 – Quality Engineer。**
+**Occupation code: 233917 (ANZSCO)**
 
-质量工程师负责建立和维护质量管理体系，确保工程项目、制造产品和服务符合标准规范。澳洲建筑行业、国防制造和食品医疗等行业均有持续需求，ISO认证和AS/NZS标准知识是核心竞争力。
+Quality engineers establish and maintain quality management systems to ensure engineering projects, manufactured products and services meet specified standards. There is sustained demand across Australia's construction, defence manufacturing, food and medical industries, with ISO certification and AS/NZS standards knowledge being core competencies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Engineering (Mech/Civil/Industrial) | 4年 | $30,000~$55,000（国际生约$150k总费） |
-| ISO 9001 Lead Auditor / Six Sigma Certification | 1~3个月 | $1,000~$4,000（在职可完成） |
-| Sector-Specific QA Training (AS9100/ISO 13485) | 数周至数月 | $500~$3,000（行业加分项） |
+| Bachelor of Engineering (Mech/Civil/Industrial) | 4 years | $30,000~$55,000 (Approximately $150k total fees for international students) |
+| ISO 9001 Lead Auditor / Six Sigma Certification | 1–3 months | $1,000~$4,000 (Can be completed while employed) |
+| Sector-Specific QA Training (AS9100/ISO 13485) | A few weeks to several months | $500~$3,000 (Industry bonus points) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Engineering | 认可大学 | 必备 | 入行基础 |
-| ISO 9001 Lead Auditor | BSI / SAI Global | 可选 | 质量管理核心认证 |
-| Six Sigma Green/Black Belt | ASQ / IASSC | 可选 | 流程改善加分 |
+| Bachelor of Engineering | Recognised university | Required | Foundation for entering the industry |
+| ISO 9001 Lead Auditor | BSI / SAI Global | Optional | Core quality management certification |
+| Six Sigma Green/Black Belt | ASQ / IASSC | Optional | Process improvement is a bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 12,000。澳洲国防制造本地化战略（AUKUS）和大型基础设施项目对质量保证专业人员需求2025-2030年稳步增长。食品安全法规收紧和医疗器械质量监管升级也推动相关行业质量工程师需求上升。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Australia's defence manufacturing localisation strategy (AUKUS) and major infrastructure projects are driving steady growth in demand for quality assurance professionals from 2025–2030. Tightening food safety regulations and increased medical device quality oversight are also boosting demand for quality engineers in relevant industries.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 180~320 个 | 2025年均值 |
-| Indeed | 100~200 个 | 2025年均值 |
-| LinkedIn | 130~250 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | Quality Officer/Graduate |
-| 中级（3-8年） | $92,000~$125,000 | Quality Engineer |
-| 高级（8年+） | $128,000~$170,000 | Senior QA/Quality Manager |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $70,000~$90,000 | Quality Officer/Graduate |
+| Mid-level (3–8 years) | $92,000~$125,000 | Quality Engineer |
+| Senior (8+ years) | $128,000~$170,000 | Senior QA/Quality Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** ISO 9001质量管理体系和Six Sigma方法论在澳洲制造和工程行业广泛应用，数字化质量平台提升检测效率。具备行业特定认证（AS9100航空/ISO 13485医疗）的质量工程师薪资溢价明显。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Quality engineers face medium automation risk in Australia, but AI enhancement potential is high. Routine document review and basic statistical analysis are easily replaceable, but system decisions and client communication still rely on human judgment—the career outlook is mixed.
+
+ISO 9001 quality management systems and Six Sigma methodologies are widely applied in Australian manufacturing and engineering; digital quality platforms improve inspection efficiency. Quality engineers holding industry-specific certifications (AS9100 aerospace / ISO 13485 medical) command a notable salary premium.
+
+**Tasks most exposed to AI:**
+
+- Automated document review and compliance checks: AI quickly scans standards, drawings, and procedure documents to identify non-conformities
+- Basic statistical analysis: AI automatically generates control charts, calculates CPK, etc., reducing manual calculations
+- Defect image recognition: AI vision systems automatically detect product surface defects
+- Report generation: AI extracts data from databases and generates standard quality reports
+
+**Where AI augments the role:**
+
+- Root cause analysis assistance: AI clusters historical defect data to provide root cause hypotheses and validation suggestions
+- Supplier review optimization: AI analyzes supplier performance data, recommends review priorities and risk levels
+- Intelligent maintenance of system documents: AI-assisted updating of quality manuals and process documents to maintain version consistency
+- Customer complaint trend early warning: AI analyzes complaint texts to forecast systemic quality issues
+- Customized training: AI recommends personalized quality training content based on employee role and performance data
+
+**Human moat:**
+
+- Quality system design and improvement decisions (e.g., ISO 9001 transition strategy)
+- Cross-departmental coordination and driving quality culture change
+- Manage major customer complaints and recall events
+- Regulatory interpretation and approval in high-risk industries (e.g., defense, healthcare)
+- Complex root cause analysis and verification of corrective action effectiveness
+
+**Skills to build:**
+
+- Latest versions of ISO 9001:2015 and AS/NZS related standards
+- AI-assisted quality analysis tools (e.g., Minitab AI module, JMP)
+- Process mining and robotic process automation basics
+- Data visualization and communication (Tableau, Power BI)
+- Supply chain and project management fundamentals
+- Knowledge of specific industry regulations in Australia
+
+**Key growth areas:**
 
 - Construction Quality Assurance
 - Manufacturing Quality Systems
@@ -69,66 +98,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学质量工程师？**
-- 注重流程和规范、对细节要求高者
-- 希望在多行业横向发展者
-- 有工程背景但偏好系统管理工作者
-
-**谁不适合学质量工程师？**
-- 偏好纯设计或现场施工者
-- 不耐繁琐文档和审查工作者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who value process and compliance and have high attention to detail
+- Those seeking lateral career development across multiple industries
+- Has an engineering background but prefers systems management work
+
+**Who is not suited**
+- Preference for pure design or on-site construction roles
+- Those who are intolerant of detailed documentation and compliance review work
+
+---
+
+## 8. FAQ
+
+**Q: How are quality engineer salaries in Australia?**
+A: Junior: AUD 70,000-90,000, mid-level: 92,000-125,000, senior/quality manager: 128,000-170,000, with premiums in defence and medical device industries.
+
+**Q: Is it easy to find work as a quality engineer in Australia?**
+A: Demand is stable; there is demand across all industries. Defense manufacturing, construction, and food/medical are the main employment directions. Seek consistently has 180-320 active positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 233917 质量工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-质量工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：质量工程师在澳洲薪资如何？**
-答：初级约AUD 7万~9万，中级9.2万~12.5万，高级/质量经理12.8万~17万，国防和医疗器械行业有溢价。
-
-**问：澳洲质量工程师好找工作吗？**
-答：需求稳定，各行业均有需求，国防制造、建筑和食品医疗是最主要的就业方向，Seek常年有180~320个活跃职位。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

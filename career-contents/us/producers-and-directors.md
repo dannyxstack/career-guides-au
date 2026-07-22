@@ -1,59 +1,93 @@
-# Producers and Directors（Producers and Directors）职业分析 · 美国
+# Producers and Directors — career analysis · United States
 
-**职业代码：27-2012 – Producers and Directors。**
+**Occupation code: 27-2012 (SOC)**
 
-Produce or direct stage, television, radio, video, or film productions, making creative decisions on script interpretation, casting, set design, sound, special effects, and choreography.
+Responsible for creative decisions in stage, television, radio, video, or film production, including script interpretation, actor selection, set design, sound effects, special effects, and choreography.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$160,000（公立大学约4万美元，私立大学高达16万美元） |
-| 硕士学位 | 2年 | $30,000~$120,000（电影或媒体硕士学费范围） |
+| Bachelor's degree | 4 years | $40,000~$160,000 (Public universities about $40,000, private universities up to $160,000.) |
+| Master's degree | 2 years | $30,000~$120,000 (Film or media master's tuition range) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认证大学 | 必备 | 电影、电视、传媒或相关领域 |
-| 作品集 | 个人 | 必备 | 展示过往作品和经验 |
-| 行业认证 | 如PGA或DGA | 可选 | 非强制但有助于职业发展 |
+| Bachelor's degree | Accredited university | Required | Film, television, media, or related fields |
+| Portfolio | Personal | Required | Showcase previous work and experience |
+| Industry certifications | Such as PGA or DGA | Optional | Not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 183,000。美国劳工统计局预计2023-2033年该职业就业增长约8%，快于平均水平。流媒体内容需求增长，但传统媒体岗位竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 183,000. The U.S. Bureau of Labor Statistics projects about 8% employment growth for this occupation from 2023 to 2033, faster than average. Demand for streaming content is growing, but competition for traditional media roles is intense.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 制作助理或助理导演 |
-| 中级（4-10年） | $60,000~$100,000 | 制片人或导演 |
-| 高级（10年以上） | $100,000~$200,000 | 资深制片人或执行制片人 |
+| Median salary | $90,360 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$60,000 | Production assistant or assistant director |
+| Mid-level (4-10 years). | $60,000~$100,000 | Producer or director |
+| Senior (10+ years) | $100,000~$200,000 | Senior producer or executive producer |
+| average salary | $113,300 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级职位如制作助理或助理导演起步，积累经验后可晋升为制片人或导演。资深者可能成为执行制片人或创意总监，或独立成立制作公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
+
+Entry-level roles like production assistant or assistant director, then gain experience to become producer or director. Senior roles may include executive producer or creative director, or starting own production company.
+
+**Tasks most exposed to AI:**
+
+- Use AI for script sentiment analysis, scene matching, and automatic shooting plan generation
+- AI-assisted budget preparation, scheduling optimisation, and cost forecasting.
+- Automatically generate shooting permit applications, contract drafts, and other paperwork
+- AI editing tools automatically select best shots, rough cut, and color correction
+- AI-generated temporary visual effects and background music demos
+
+**Where AI augments the role:**
+
+- AI tools quickly generate multiple script variants, aiding creative decision-making.
+- AI audience analysis tools help predict market response to different casting choices and endings
+- AI monitors footage in real time, automatically flagging technical issues (e.g., focus, exposure).
+- Tedious tasks like automatic rotoscoping and face replacement in AI-assisted post-production.
+- AI-driven virtual production (real-time rendering on LED walls), reducing location costs
+
+**Human moat:**
+
+- team leadership and cross-departmental communication skills
+- Artistic intuition and original creative decision-making
+- Flexible handling of on-site emergencies (e.g., weather, actor emotions)
+- Interpretation of deep emotional and social connotations of scripts
+
+**Skills to build:**
+
+- AI script analysis and screenwriting tools (e.g., ChatGPT, Final Draft AI plugins)
+- Virtual production technology (Unreal Engine, real-time rendering)
+- Data analysis basics (audience preferences, box office prediction models)
+- AI video editing software (e.g., DaVinci Resolve AI features, Adobe Premiere Pro Sensei)
+- Project management and remote collaboration tools (Asana, Frame.io)
+
+**Key growth areas:**
 
 - digital content
 - streaming services
@@ -62,68 +96,67 @@ Produce or direct stage, television, radio, video, or film productions, making c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于学士学位以上岗位，需抽签 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于具有杰出能力或成就的影视人才 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 通常需PERM劳工证，适合高学历或杰出人才 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to positions requiring bachelor's degree or higher; subject to lottery |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to film and TV talents with outstanding ability or achievement. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Typically requires PERM labor certification, suitable for highly educated or exceptional talent |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Producers and Directors？**
-- 有创意和艺术天赋的人
-- 善于团队合作和领导
-- 能承受高压工作环境
-
-**谁不适合学Producers and Directors？**
-- 不喜欢不规则工作时间
-- 缺乏抗压能力
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and artistically talented individuals
+- Good at teamwork and leadership
+- Able to work under high-pressure environments
+
+**Who is not suited**
+- Dislike irregular working hours
+- Lack of stress resilience.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for producers and directors?**
+A: Entry-level approx. USD 40,000–60,000, mid-level USD 60,000–100,000, senior above USD 100,000; but income is volatile, affected by project scale and region.
+
+**Q: How can a foreign producer/director immigrate to the US?**
+A: Common pathways include H-1B work visa (subject to lottery) and O-1 visa for extraordinary ability; long-term via EB-2 or EB-3 green card. Requires employer sponsorship.
+
+**Q: What qualifications are required to become a producer/director?**
+A: Typically requires a bachelor's degree in film, media, or related field, but practical experience is also important. A portfolio is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Producers and Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for producers and directors?**
-答：Entry-level around $40k-$60k, mid-level $60k-$100k, senior $100k+; income varies by project and location.
-
-**问：How can foreign producers/directors immigrate to the US?**
-答：Common paths include H-1B visa (lottery) and O-1 extraordinary ability visa; permanent residency via EB-2/EB-3 green card, requiring employer sponsorship.
-
-**问：What education is needed to become a producer/director?**
-答：Typically a bachelor's degree in film, media, or related field; practical experience and portfolio are crucial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

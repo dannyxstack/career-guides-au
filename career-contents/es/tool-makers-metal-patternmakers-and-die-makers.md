@@ -1,60 +1,96 @@
-# Tool Makers, Metal Patternmakers, and Die Makers（Tool Makers, Metal Patternmakers, and Die Makers）职业分析 · ES
+# Tool Makers, Metal Patternmakers, and Die Makers — career analysis · Spain
 
-**职业代码：7322 – Tool Makers, Metal Patternmakers, and Die Makers。**
+**Occupation code: 7322 (CNO)**
 
-Manufacture, repair, and adjust metal dies, tools, jigs, and patterns for industrial production. Work in machinery, automotive, and aerospace sectors, requiring precision machining and manual skills.
+Responsible for manufacturing, repairing, and adjusting metal molds, tools, fixtures, and molds for industrial production. Most work in machinery manufacturing, automotive, and aerospace sectors, requiring precise machine tool operation and manual skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年（FP Grado Medio） | $500~$2,000（公立学校学费低，约500-2000欧元/年；私立较高。） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $600~$2,500（更高级的机械制造课程，含实习。） |
-| 学士学位（Grado） | 4年（Grado） | $1,000~$4,000（机械工程或相关领域，公立大学费用。） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years (FP Grado Medio) | $500~$2,000 (Public school tuition is low, about 500-2000 euros per year; Private schools have higher rates.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $600~$2,500 (More advanced mechanical manufacturing courses, including internships.) |
+| Bachelor's Degree (Grado) | 4 years (Grado) | $1,000~$4,000 (Mechanical engineering or related fields, public university fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书（FP Título） | 西班牙教育部（MEFP） | 必备 | 完成FP中级或高级课程后获得，行业认可。 |
-| 学历认证（Homologación） | 西班牙教育部（MEFP） | 必备 | 外国学历需经Homologación认证为等效西班牙学位或FP。 |
-| 职业风险评估认证 | 劳动与社会保障部 | 可选 | 部分企业要求，证明掌握安全操作机床知识。 |
+| Professional Qualification Certificate (FP Título) | Spanish Ministry of Education (MEFP) | Required | Obtained after completing intermediate or advanced FP courses, recognized by the industry. |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education (MEFP) | Required | Foreign degrees must be certified by Homologación as equivalent to a Spanish degree or FP. |
+| Occupational risk assessment certification | Ministry of Labor and Social Security | Optional | Some companies require proof of mastery of safe machine tool operation knowledge. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,000。西班牙工业4.0转型推动高精度工具需求，但传统岗位受自动化影响。预计未来五年就业平稳，有经验的高级技工仍紧缺，尤其是数控和精密模具领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. Spain's Industry 4.0 transformation is driving demand for high-precision tools, but traditional jobs are affected by automation. Employment is expected to remain stable over the next five years, but experienced senior technicians remain in short supply, especially in the CNC and precision mold fields.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，通常为学徒或初级技工。 |
-| 中级（3-7年） | $24,000~$32,000 | 独立操作机床，有一定经验。 |
-| 高级（7年以上） | $32,000~$42,000 | 高级技工或主管，可编程和设计模具。 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, usually for apprentices or junior technicians. |
+| Mid-level (3–7 years) | $24,000~$32,000 | Operate machine tools independently with some experience. |
+| Senior (7+ years) | $32,000~$42,000 | Senior technicians or supervisors who can program and design molds. |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或FP中级升至高级技工、生产主管或自营工作室。部分转向CAD/CAM编程或技术销售。持续学习数控加工和3D打印可提升竞争力。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
+
+You can advance from apprenticeship or intermediate FP to senior technician, production supervisor, or self-operated studio. Some shifted to CAD/CAM programming or technical sales. Continuous learning about CNC machining and 3D printing can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Manual CNC programming and tool path generation
+- Simple repetitive machine operations (e.g., loading/unloading workpieces, starting machining cycles)
+- Routine dimensional measurement and quality recording (manual measurement with calipers and micrometers)
+- Paper-based drawing management and document archiving
+- Basic troubleshooting (based on fixed diagnostic procedures)
+
+**Where AI augments the role:**
+
+- AI-assisted tool path optimization (automatic collision avoidance, improved machining efficiency)
+- Machine learning-based online quality inspection (real-time prediction of dimensional deviations)
+- Digital twin simulation of machining processes (pre-validate fixture designs)
+- Smart production scheduling system integration (automatic assignment of machine tasks)
+- Augmented reality-assisted assembly and debugging (overlaying virtual guidance)
+
+**Human moat:**
+
+- Intuitive judgment in complex fixture design and debugging
+- On-site diagnosis and repair of multi-process integration issues.
+- Ability to communicate non-standard requirements with clients/engineers
+- Safety responsibility and process innovation decisions
+- Precision manual finishing and assembly touch
+
+**Skills to build:**
+
+- Advanced CAD/CAM applications (e.g., Mastercam, NX machining modules)
+- Robot-assisted loading/unloading programming and integration
+- Python or MATLAB for machining data analysis
+- Basics of additive manufacturing (3D printing molds)
+- Industrial Internet of Things (IIoT) and smart tool management
+- Quality control data visualization (e.g., Power BI)
+
+**Key growth areas:**
 
 - Precision machining
 - CNC programming
@@ -63,68 +99,67 @@ Manufacture, repair, and adjust metal dies, tools, jigs, and patterns for indust
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需获得西班牙雇主工作合同，并证明职位无法由本地人填补。适用于长期受雇。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能人才，需至少3年相关经验或高等学历，年薪门槛约33,908欧元（2024年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高管、研发人员或紧缺技术人才，流程较快，需公司担保。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | You must obtain a work contract from a Spanish employer and prove that the position cannot be filled by a local resident. Suitable for long-term employment. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled talents, requiring at least 3 years of relevant experience or higher education, with an annual salary threshold of approximately 33,908 euros (2024). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For senior executives, R&D personnel, or urgently needed technical talent, the process is relatively fast and requires company guarantees. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tool Makers, Metal Patternmakers, and Die Makers？**
-- 喜欢动手操作、注重细节、有耐心的人
-- 对机械和金属加工有浓厚兴趣，愿意从学徒做起
-- 能适应车间环境，具备空间想象力和数学基础
-
-**谁不适合学Tool Makers, Metal Patternmakers, and Die Makers？**
-- 不擅长精细手工或重复性体力劳动
-- 希望快速晋升或完全避免体力工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, pay attention to details, and are patient
+- He has a strong interest in machinery and metalworking, and is willing to start as an apprentice
+- Able to adapt to workshop environments, possess spatial imagination and a foundation in mathematics
+
+**Who is not suited**
+- Not good at fine handicrafts or repetitive physical labor
+- Hope for a quick promotion or to completely avoid manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for tool makers in Spain?**
+A: Entry-level tradesperson salary around €18,000-24,000, mid-level €24,000-32,000, senior up to €42,000+. Varies by region, industry, and experience.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: The main ways are to obtain an employer work contract (Cuenta ajena) or to obtain an EU Blue Card (which requires a high salary). Homologación must be completed and meet skill requirements. This profession is in short supply and has certain advantages.
+
+**Q: What are the career prospects for this occupation?**
+A: With increased demand for manufacturing automation and precision machining, skilled technicians remain in demand. However, simple operation jobs may be automated. Learning CNC programming and CAD/CAM design is recommended to stay competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Tool Makers, Metal Patternmakers, and Die Makers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tool makers in Spain?**
-答：Entry-level earns around €18,000-€24,000, mid-level €24,000-€32,000, and senior up to €42,000+, depending on region, sector, and experience.
-
-**问：How can foreigners immigrate to Spain through this occupation?**
-答：Main routes are employer-sponsored work permit (Cuenta ajena) or EU Blue Card (requires high salary). Foreign qualifications must be homologated. This occupation is in shortage, giving some advantage.
-
-**问：What are the career prospects for tool makers?**
-答：Demand for skilled workers remains high due to automation and precision needs. Entry-level manual jobs may decline. Learning CNC programming and CAD/CAM design is recommended.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

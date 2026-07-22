@@ -1,127 +1,159 @@
-# Swimming Coach or Instructor（Swimming Coach or Instructor）职业分析 · 澳大利亚
+# Swimming Coach or Instructor — career analysis · Australia
 
-**职业代码：452315 – Swimming Coach or Instructor。**
+**Occupation code: 452316 (ANZSCO)**
 
-Swimming coaches or instructors teach individuals or groups swimming skills, ensure water safety, and design training programs to improve techniques and fitness.
+Swimming instructors teach swimming skills and water safety, covering children's beginner classes, adult training, and competitive training, working at pools, swimming schools, or clubs. Require instructor and lifesaving certifications, mostly part-time/seasonal, with higher income for senior competitive coaches.
+
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（高中文凭通常为最低要求） |
-| 职业培训证书 | 6个月 | $1,000~$3,000（包括游泳教练证书、水上安全证书等） |
+| AUSTSWIM / Swim Australia Instructor Qualification | Days to weeks | $300~$1,200 (Industry qualification for teaching swimming) |
+| Lifesaving and CPR certifications + WWCC | A few days | $200~$600 (Legal requirements for water safety and teaching minors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 游泳教练证书 | 澳大利亚游泳协会 | 必备 | 必备证书，含急救和CPR |
-| 水上安全证书 | Royal Life Saving Australia | 必备 | 证明水上安全知识 |
-| 儿童工作审查 | 州政府 | 必备 | 与儿童工作的必要背景审查 |
+| AUSTSWIM Teacher of Swimming and Water Safety | AUSTSWIM | Required | Industry-standard teaching qualification |
+| Working with Children Check + First Aid/CPR | Each State / Accrediting Body | Required | Teaching minors and water safety requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。澳洲游泳教练需求稳定，受青少年体育参与和健康意识推动，预计未来5年就业增长中等。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,000. Australia's water culture and mandatory water safety education drive stable demand; children's swimming training is a long-term necessity, with a general shortage of qualified coaches industry-wide. Competitive and rehabilitation paths offer advancement opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 兼职或初级全职教练 |
-| 中级（3-7年） | $55,000~$70,000 | 全职教练或小型俱乐部主管 |
-| 高级（7年以上） | $70,000~$90,000 | 高级教练、经理或自营 |
+| Median salary | $74,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Part-time/junior swimming instructor | $35,000~$55,000 | $28~$45/hour, seasonal |
+| Full-time swimming instructor | $55,000~$72,000 | Stable class scheduling + squad |
+| Competitive/advanced coach | $72,000~$110,000 | Club Competitive Team/High-Level Training |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 职业晋升路径包括从初级教练到高级教练、游泳俱乐部经理或水上运动中心主任，也可转向体育管理或培训其他教练。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Swimming coaches' core skills (water safety, stroke correction, motivation) are hard to replace by AI, but AI tools can enhance video analysis, lesson planning, etc. Entry-level jobs face more competition due to AI-assisted teaching software.
 
-- Health & Fitness
-- Youth Sports
-- Water Safety
-- Sports Coaching
+Learn to Swim children's training is a core demand market; shortage of qualified coaches ensures full scheduling.
+
+**Tasks most exposed to AI:**
+
+- Using AI video analysis to automatically assess swimming strokes and generate reports
+- AI chatbot answering common swimming questions (e.g., pool schedules)
+- AI-generated personalized training plans and progress tracking
+- Automated scheduling and membership management system
+
+**Where AI augments the role:**
+
+- Use AI video analysis to accurately identify swimming stroke defects and provide improvement suggestions
+- AI-assisted design of personalized training plans, adjusting in real-time based on progress
+- AI-generated teaching animations or virtual demos to help beginners understand movements
+- AI analyses student data to optimise lesson scheduling and teaching quality
+
+**Human moat:**
+
+- Real-time judgment in water safety supervision and emergency rescue
+- Psychological motivation and personalised communication with students
+- Live demonstration and manual correction of complex movements
+- Experience handling emergencies (e.g., student panic, drowning)
+- Customer service focused on building trust and long-term relationships
+
+**Skills to build:**
+
+- AI video analysis tools (e.g., Hudl, Dartfish)
+- Data analysis and student progress visualisation
+- Online teaching platforms and virtual course design
+- Basic programming (Python) for custom analysis scripts
+- Marketing and social media management (personal branding)
+- Sports science knowledge (biomechanics, physiology)
+
+**Key growth areas:**
+
+- Swim Lessons for Kids (Learn to Swim)
+- Competitive Swim Coach
+- Aquatic Rehabilitation/Spa
+- Lifesaving & Water Safety Training
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
+
+---
+
+## 7. Who is / isn't suited
+
+**Who is suited**
+- Good at swimming and enjoy interacting with children/students
+- Willing to schedule early morning, evening, and weekend classes
+- Can obtain AUSTSWIM + lifeguard qualification
+
+**Who is not suited**
+- Unwillingness to get in the water or spend long periods in a pool environment
+- Primarily targeting immigration
+- Seek fixed white-collar office-based work
+
+---
+
+## 8. FAQ
+
+**Q: How much do swimming coaches earn in Australia?**
+A: Part-time/Entry Level: Approx. $35k~$55k ($28~$45/hr, Seasonal); Full-time: Approx. $55k~$72k; Competitive/Advanced Coach: Approx. $72k~$110k.
+
+**Q: Is it easy to find a job as a swimming coach in Australia?**
+A: Good. Mandatory water safety education and water culture support stable demand; the Learn to Swim market for children has long-term shortage of qualified instructors, and scheduling is usually sufficient.
+
+**Q: Can a Swimming Coach Migrate via Skilled Migration?**
+A: Cannot directly apply for skilled migration. Swimming Coach or Instructor (452316) is not on the CSOL or GSM skilled occupation list (note: general Sports Coach 452317 is on the CSOL and eligible for employer sponsorship).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于有雇主担保的游泳教练，需在CSOL上 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久签证，需通过技能评估 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需在州担保职业列表 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区临时签证，需在偏远地区工作3年转永居 |
-
-**PR难度：中等（★★½☆☆）。**
-
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Swimming Coach or Instructor？**
-- 热爱水上运动，善于与儿童沟通
-- 有耐心，注重安全
-- 希望从事体育教育行业
-
-**谁不适合学Swimming Coach or Instructor？**
-- 不擅长游泳或畏水
-- 缺乏耐心与安全意识
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 8. 数据来源
+## Data sources
 
-| 来源 | 内容 |
-|---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
-
----
-
-## 快速结论
-
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Swimming Coach or Instructor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a swimming coach?**
-答：Entry-level coaches earn AUD 45,000-55,000 per year, while senior coaches can earn AUD 70,000-90,000.
-
-**问：Can a swimming coach obtain Australian permanent residency through skilled migration?**
-答：Yes. The occupation is on CSOL, allowing pathways via 482 to 186, or 190/491 state nomination.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

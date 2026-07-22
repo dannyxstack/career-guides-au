@@ -1,59 +1,95 @@
-# Mechanical Engineer（Mechanical Engineer）职业分析 · 新西兰
+# Mechanical Engineer — career analysis · New Zealand
 
-**职业代码：233512 – Mechanical Engineer。**
+**Occupation code: 233512 (ANZSCO)**
 
-Mechanical Engineers in New Zealand design, analyze, and test mechanical systems for manufacturing, renewable energy, and building services. They can apply for residence directly via Green List Tier 1, offering a clear migration pathway.
+Mechanical engineers in New Zealand design, analyze, and test mechanical systems widely used in manufacturing, renewable energy, building services, etc. Skilled migrants can directly apply for residence via Green List Tier 1, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 工程学士（荣誉） | 4年 | $35,000~$50,000（新西兰大学每年国际生学费约35000-50000 NZD，本地生约8000-10000 NZD） |
-| 工程研究生文凭或硕士 | 1-2年 | $40,000~$60,000（硕士课程每年学费约40000-60000 NZD，可提升竞争力） |
+| Bachelor of Engineering (Honours) | 4 years | $35,000~$50,000 (International student tuition at New Zealand universities is approximately 35,000-50,000 NZD per year, while domestic students pay about 8,000-10,000 NZD.) |
+| Graduate Diploma or Master's in Engineering | 1-2 years | $40,000~$60,000 (Annual tuition for master's programs is approximately 40,000-60,000 NZD, can enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许专业工程师（CPEng） | 新西兰工程学会（Engineering New Zealand） | 可选 | 非强制但强烈推荐，可增加晋升和薪资机会 |
-| 华盛顿协议认可的工程学位 | 新西兰大学（如奥克兰大学、坎特伯雷大学） | 必备 | 通常为4年制工程荣誉学士，是注册工程师的基础 |
-| VIQ/EOI英语要求 | 移民局认可的语言考试（IELTS/PTE/TOEFL） | 可选 | 技术移民需达到雅思6.5或同等水平 |
+| Engineering degree accredited by the Washington Accord | New Zealand universities (e.g., University of Auckland, University of Canterbury) | Required | Usually a 4-year engineering honors bachelor's degree, basis for chartered engineer |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Not mandatory but strongly recommended, can increase promotion and salary opportunities. |
+| VIQ/EOI English requirements. | Language tests accepted by immigration authorities (IELTS/PTE/TOEFL) | Optional | Skilled migration requires IELTS 6.5 or equivalent. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,500。新西兰制造业和可再生能源（如地热、水电）持续增长，带动机械工程师需求。建筑服务和基础设施项目也提供稳定岗位，尤其在奥克兰和基督城。预计未来5年就业人数将中速增长。
+**Job demand: high (★★★★☆).** National workforce approx. 5,500. New Zealand's manufacturing and renewable energy sectors (e.g., geothermal, hydro) are growing steadily, driving demand for mechanical engineers. Building services and infrastructure projects also provide stable roles, especially in Auckland and Christchurch. Employment is expected to grow moderately over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 毕业生起薪 |
-| 中级（3-6年） | $85,000~$110,000 | 项目工程师或设计工程师 |
-| 高级（6年以上） | $110,000~$150,000 | 首席工程师或技术经理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Graduate starting salary |
+| Mid-level (3–6 years) | $85,000~$110,000 | Project engineer or design engineer |
+| Senior (6+ years) | $110,000~$150,000 | Chief Engineer or Technical Manager |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级工程师通常从设计/测试岗位起步，积累3-5年经验后可晋升为高级工程师或项目经理。取得特许专业工程师资格（CPEng）可显著提升薪资和晋升至技术总监或首席工程师的机会。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mechanical engineer's job is a mixed bag with AI: design analysis tasks are enhanced, but complex system integration and on-site responsibility still rely on human judgment, intensifying competition for entry-level roles.
+
+Junior engineers typically start in design/testing roles and advance to senior engineer or project manager after 3-5 years. Obtaining CPEng can significantly boost salary and promotion to Technical Director or Chief Engineer.
+
+**Tasks most exposed to AI:**
+
+- Parametric design and optimization of standard mechanical parts
+- Generate fault pattern analysis reports based on historical data
+- Meshing and initial solving in routine finite element analysis
+- Drafting initial versions of technical documents and annotating drawings
+- Kinematic simulation of simple mechanical systems
+
+**Where AI augments the role:**
+
+- AI-driven generative design rapidly explores multiple solutions
+- Using machine learning to predict equipment remaining useful life and optimize maintenance schedules
+- AI-assisted fluid dynamics simulation accelerates iteration
+- Real-time monitoring system performance and early warning via digital twins.
+- Natural Language Processing Rapid Retrieval: Technical Specifications and Patents
+
+**Human moat:**
+
+- Complex integration and debugging across systems (mechanical, electrical, hydraulic, thermal)
+- Experience-based intuitive judgment in on-site fault diagnosis.
+- Communication and negotiation with clients, contractors, and regulators
+- Risk assessment and compliance decisions for safety-critical systems
+- Physical intuition and creativity in innovative conceptual design
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Autodesk Fusion 360 generative design)
+- Python/Matlab script automation and data processing
+- Machine learning basics and predictive maintenance applications
+- Digital Twin and Simulation Tools (e.g., Ansys Twin Builder)
+- Design for Additive Manufacturing (DfAM) and topology optimization
+- Project management and cross-disciplinary collaboration skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Mechanical Engineers in New Zealand design, analyze, and test mechanical systems
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Straight to Residence） | 机械工程师在绿名单Tier 1中，可直接申请居留，无需先工作两年 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，学历+工作经验+新西兰工作可凑足6分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如不符合直接移民条件，可先由认证雇主担保工签，积累经验后再申请居留 |
+| Subclass Green List T1 (Green List Straight to Residence) | Mechanical engineer is on Green List Tier 1, eligible to apply directly for residence without needing to work for two years first |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration system: qualifications + work experience + New Zealand work can accumulate 6 points |
+| Subclass AEWV (Accredited Employer Work Visa) | If not eligible for direct immigration, can first obtain a work visa from an accredited employer sponsor, gain experience, then apply for residency |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineer？**
-- 喜欢动手、解决复杂技术问题，并有扎实的数学和物理基础
-- 愿意在制造业、能源或建筑行业工作，适应工程现场与办公室结合
-- 计划通过技术移民新西兰，并满足英语要求
-
-**谁不适合学Mechanical Engineer？**
-- 不喜欢大量计算、绘图和工程分析
-- 希望快速移民，但不具备工程学位或相关工作经验
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, solving complex technical problems, and have a solid foundation in mathematics and physics
+- Willing to work in manufacturing, energy, or construction industries, adaptable to a mix of engineering field and office work
+- Plan to immigrate to New Zealand through skilled migration and meet English requirements.
+
+**Who is not suited**
+- Dislikes extensive calculations, drafting, and engineering analysis
+- Those who want to immigrate quickly but lack engineering degree or relevant work experience
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a mechanical engineer in New Zealand?**
+A: According to Stats NZ and careers.govt.nz, the median annual salary for mechanical engineers is about NZD 95,000. Entry-level ranges from NZD 65,000 to 85,000, while senior positions can reach NZD 110,000 to 150,000.
+
+**Q: What are the requirements for mechanical engineers to immigrate to New Zealand?**
+A: Main pathway: Green List Tier 1 direct residence (requires a job offer from an accredited employer), SMC 6-point system (qualifications + experience + job). Requires a bachelor's degree in engineering and IELTS 6.5.
+
+**Q: What are the employment prospects for mechanical engineers in New Zealand?**
+A: Good. Renewable energy, infrastructure, and manufacturing continue to need mechanical engineers. More opportunities in Auckland and Canterbury.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Mechanical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mechanical engineers in New Zealand?**
-答：According to Stats NZ and careers.govt.nz, the median annual salary is about 95,000 NZD. Entry-level salaries range from 65,000 to 85,000, while senior roles can earn 110,000-150,000.
-
-**问：What are the requirements for a mechanical engineer to migrate to New Zealand?**
-答：Main pathways: Green List Tier 1 Straight to Residence (requires a job offer from an accredited employer) or SMC 6-point system (degree + experience + job). Need a bachelor's in engineering and IELTS 6.5.
-
-**问：What is the job market for mechanical engineers in New Zealand?**
-答：Good. Renewable energy, infrastructure, and manufacturing sectors consistently demand mechanical engineers. Opportunities are higher in Auckland and Canterbury.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

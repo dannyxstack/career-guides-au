@@ -1,59 +1,95 @@
-# Heavy and large goods vehicle drivers（Heavy and large goods vehicle drivers）职业分析 · UK
+# Heavy and large goods vehicle drivers — career analysis · United Kingdom
 
-**职业代码：8211 – Heavy and large goods vehicle drivers。**
+**Occupation code: 8211 (SOC)**
 
-Drive rigid vehicles over 7.5 tonnes, articulated lorries, or lorries pulling trailers to collect, transport, and deliver goods across the UK.
+Drive heavy trucks or articulated lorries with a total weight exceeding 7.5 tonnes for the collection, transportation and delivery of domestic goods.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 职业培训 | 3-6个月 | $1,500~$3,000（HGV培训课程费用，含理论和实践） |
-| 驾照获取 | 1-2个月 | $1,000~$2,500（C+E驾照考试及体检费用） |
+| Vocational training | 3-6 months | $1,500~$3,000 (HGV training course fees, including theory and practical) |
+| Obtaining a driver's license | 1-2 months | $1,000~$2,500 (C+E driver's license exam and medical fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HGV驾照（Category C+E） | DVSA（Driver and Vehicle Standards Agency） | 必备 | 驾驶超过7.5吨重型货车的法定要求 |
-| 职业司机CPC（Certificate of Professional Competence） | DVSA | 必备 | 35小时定期培训，每5年更新 |
-| 数字行车记录仪卡 | DVSA | 必备 | 记录驾驶时长的必备卡 |
+| HGV Licence (Category C+E) | DVSA（Driver and Vehicle Standards Agency） | Required | Legal requirements for driving heavy goods vehicles over 7.5 tonnes |
+| CPC (Certificate of Professional Competence) for professional drivers | DVSA | Required | 35 hours of regular training, renewed every 5 years |
+| Digital tachograph card | DVSA | Required | Essential card for recording driving hours |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 270,000。英国物流业持续增长，电商推动货物运输需求旺盛，重型货车司机长期短缺，就业前景稳定。
+**Job demand: very high (★★★★½).** National workforce approx. 270,000. The UK logistics industry continues to grow, e-commerce driving strong demand for freight transport, long-term shortage of heavy truck drivers, stable employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 新司机起薪，通常包含加班费 |
-| 中级（3-10年） | $33,000~$42,000 | 经验司机，可接长途或特殊货物 |
-| 高级（10年以上） | $43,000~$55,000 | 资深司机或团队领导，含奖金 |
+| Median salary | $39,905 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Starting salary for new drivers, usually includes overtime pay. |
+| Intermediate (3-10 years) | $33,000~$42,000 | Experienced Driver Available for Long-Distance or Special Cargo |
+| Senior (10+ years) | $43,000~$55,000 | Senior driver or team leader, including bonuses. |
+| average salary | $40,136 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从新手司机起步，积累经验后晋升为高级司机、团队领导或运输调度员，也可转向培训或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+Can start as a novice driver, then advance to senior driver, team leader, or transport dispatcher, or transition to training or management roles.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - Driver shortage
 - E-commerce logistics
@@ -62,67 +98,66 @@ Drive rigid vehicles over 7.5 tonnes, articulated lorries, or lorries pulling tr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 若雇主担保且职业在可担保清单上，可申请；HGV司机在短缺职业列表，年薪门槛较低（£25,600或£20,960） |
-| Subclass Graduate（Graduate Visa） | 适合英国高校毕业生，允许2年工作，但需找到雇主担保转工签 |
+| Subclass Skilled Worker (Skilled Worker Visa) | If employer-sponsored and the occupation is on the eligible list, can apply; HGV drivers are on the shortage occupation list with a lower salary threshold (£25,600 or £20,960) |
+| Subclass Graduate (Graduate Visa) | Suitable for UK university graduates, allowing 2 years of work, but requires finding an employer sponsor to switch to a work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heavy and large goods vehicle drivers？**
-- 喜欢独自驾驶和长途旅行的人
-- 注重安全、有耐心和责任感的人
-- 愿意灵活排班（含夜间和周末）的人
-
-**谁不适合学Heavy and large goods vehicle drivers？**
-- 不喜欢长时间坐姿或久坐的人
-- 难以适应不规律作息和孤独工作环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving alone and long-distance travel
+- People who prioritize safety, are patient, and have a sense of responsibility
+- Those willing to work flexible shifts (including nights and weekends)
+
+**Who is not suited**
+- People who dislike long sitting or sedentary work
+- Difficult for those who cannot adapt to irregular schedules and solitary work environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary of a heavy truck driver?**
+A: Junior driver approximately £26,000-32,000, mid-level £33,000-42,000, senior up to £43,000-55,000, overtime pay is common.
+
+**Q: Can heavy truck drivers apply for a skilled worker visa?**
+A: Yes, this occupation is on the immigration salary list. The minimum annual salary threshold for employer sponsorship is £25,600 or £20,960 (new entrant).
+
+**Q: Will this occupation be replaced by automation?**
+A: Short-term automation impact is limited, but long-term may partially replace; demand remains strong currently.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Heavy and large goods vehicle drivers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for HGV drivers?**
-答：Entry-level: £26k-£32k; mid-experience: £33k-£42k; senior: £43k-£55k, with overtime common.
-
-**问：Can HGV drivers apply for a Skilled Worker visa?**
-答：Yes, it's on the Immigration Salary List; minimum salary threshold is £25,600 or £20,960 for new entrants.
-
-**问：Will this job be automated?**
-答：Limited in short term, but partial automation possible long term; demand remains high.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

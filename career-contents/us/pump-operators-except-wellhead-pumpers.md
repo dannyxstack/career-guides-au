@@ -1,61 +1,97 @@
-# Pump Operators, Except Wellhead Pumpers（Pump Operators, Except Wellhead Pumpers）职业分析 · 美国
+# Pump Operators, Except Wellhead Pumpers — career analysis · United States
 
-**职业代码：53-7072 – Pump Operators, Except Wellhead Pumpers。**
+**Occupation code: 53-7072 (SOC)**
 
-Tend, control, or operate power-driven stationary or portable pumps and manifold systems to transfer gases, oil, liquids, or powdered materials.
+Operate and monitor fixed or mobile pumps and manifold systems to transfer gases, oil, liquids or powdered materials to different containers and processes.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 3-6个月 | —（雇主提供） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 3-6 months | $0~$500 (Provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 公立学校 | 必备 | 基本要求 |
-| 商业驾驶执照（CDL） | 州机动车管理局 | 可选 | 可能需要运送设备 |
-| 焊接或机械技能证书 | 社区学院 | 可选 | 提升竞争力 |
+| High school diploma or equivalent | Public school | Required | Basic requirements |
+| Commercial Driver's License (CDL) | State motor vehicle department | Optional | May require transporting equipment |
+| Welding or mechanical skills certificate | Community college | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 29,000。美国就业市场对泵操作员的需求相对稳定，受能源和制造业周期影响。自动化可能减少部分岗位，但基础设施维护保障基本需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 29,000. The US job market for pump operators is relatively stable, affected by energy and manufacturing cycles. Automation may reduce some positions, but infrastructure maintenance ensures basic demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 时薪约17-22美元 |
-| 中级（3-6年） | $45,000~$55,000 | 时薪约22-26美元 |
-| 高级（6年以上） | $55,000~$65,000 | 时薪约26-31美元；主管可达7万美元 |
+| Median salary | $61,770 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage about USD 17-22 |
+| Mid-level (3–6 years) | $45,000~$55,000 | Hourly rate approximately $22-26 USD |
+| Senior (6+ years) | $55,000~$65,000 | Hourly wage around $26-31; supervisors may earn up to $70,000 annually. |
+| average salary | $63,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 典型晋升路径：高级泵操作员 → 主管/领班 → 区域运营经理。部分可转向工业机械师或设备技师。
-**AI替代风险：低风险（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The tasks of pump operators have parts replaced by automation and parts enhanced by AI: data monitoring and fault diagnosis can be taken over by AI, but physical operations and emergency response rely on human experience, overall risk is moderate.
+
+Typical career path: Senior pump operator → Supervisor/Foreman → Regional Operations Manager. Some can transition to industrial mechanic or equipment technician.
+
+**Tasks most exposed to AI:**
+
+- Monitor pump station operating parameters (e.g., pressure, flow, temperature) in real time, automatically collected and analyzed by AI system
+- Predict equipment failure through sensor data, replacing manual inspections and periodic checks
+- Standardized start-up and shutdown procedures, automatically executed by PLC or DCS system
+- Simple fault alarm processing; AI can automatically diagnose and perform reset operations
+- Generate daily reports and logs, automatically compiled and distributed by AI
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to optimize pump operation and maintenance schedules, improving equipment lifespan
+- Assist operators in formulating optimal pumping plans by simulating different working conditions through digital twins
+- AI-assisted remote monitoring center supports simultaneous management of multiple sites, expanding operator control range
+- Learns optimal operating parameters recommended by AI to reduce energy consumption and improve efficiency
+- Use augmented reality (AR) headsets to display real-time data for on-site inspection and repair
+
+**Human moat:**
+
+- Emergency decision-making and manual intervention in handling sudden anomalies such as pipeline leaks or pump ruptures
+- Ability to adapt to and experience in unstructured environments (e.g., temporary construction sites, remote well sites)
+- Effective communication and coordination skills with on-site workers and maintenance teams
+- Experience in operating and maintaining old equipment and non-standard systems
+- Compliance judgment for legal liability and safety regulatory requirements
+
+**Skills to build:**
+
+- Basic PLC/DCS operation and programming
+- Data analysis and visualization tools (e.g., Python, Power BI)
+- Use of predictive maintenance software (e.g., IBM Maximo)
+- Industrial Internet of Things (IIoT) device configuration
+- Safety regulations and emergency response training
+- Digital twin simulation fundamentals
+
+**Key growth areas:**
 
 - Manual labor
 - Energy sector
@@ -64,65 +100,67 @@ Tend, control, or operate power-driven stationary or portable pumps and manifold
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因教育要求低。 |
-| Subclass EB-3（Employment-Based Third Preference） | 理论上可能，但雇主支持罕见。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable due to low education requirements. |
+| Subclass EB-3 (Employment-Based Third Preference) | Theoretically possible, but employer sponsorship is rare. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pump Operators, Except Wellhead Pumpers？**
-- 喜欢动手操作和户外工作者
-- 能适应轮班和体力劳动者
-- 寻求稳定低收入但无需高学历者
+**Who is suited**
+- Enjoys hands-on work and outdoor activities.
+- Able to adapt to shift work and physical labor
+- Those seeking stable low income without requiring high education
 
-**谁不适合学Pump Operators, Except Wellhead Pumpers？**
-- 追求高薪或快速晋升者
-- 偏好办公室工作和规律作息者
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Those who prefer office work and regular hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for pump operators?**
+A: Junior salary: approximately $35,000-45,000 per year; senior can reach $65,000.
+
+**Q: Can a pump operator immigrate to the US through a work visa?**
+A: Very rare. This occupation usually does not meet H-1B specialty occupation requirements, and employer-sponsored green cards are also rare.
+
+**Q: Are there advancement opportunities for pump operators?**
+A: Yes. Can advance to supervisor or transition to mechanical maintenance, equipment management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低风险（★☆☆☆☆） |
-| PR友好度 | 困难（½☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Pump Operators, Except Wellhead Pumpers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pump operators?**
-答：Entry-level annual salary is about $35,000-$45,000, experienced up to $65,000.
-
-**问：Can pump operators immigrate to the US via work visa?**
-答：Rarely. The occupation typically does not meet H-1B specialty occupation criteria, and employer-sponsored green cards are uncommon.
-
-**问：Is there career advancement for pump operators?**
-答：Yes. May advance to supervisor or transition to mechanical repair, equipment management, etc.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

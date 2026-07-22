@@ -1,61 +1,94 @@
-# Pool Lifeguard（Pool Lifeguard）职业分析 · DE
+# Pool Lifeguard — career analysis · Germany
 
-**职业代码：5314 – Pool Lifeguard。**
+**Occupation code: 5314 (KldB)**
 
-Pool lifeguards monitor swimming pools to prevent accidents, perform rescues, and administer first aid. Demand is stable in public and private pools like leisure centers, hotels, and schools.
+Pool lifeguards are responsible for monitoring pool safety, preventing drowning incidents, and performing rescues and first aid in emergencies. This occupation has stable demand in public and private pools in Germany, such as leisure centers, hotels, and school pools.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 救生员培训课程 | 数周至数月 | $500~$1,500（费用因课程提供方和级别而异，通常包括急救证书） |
-| 泳池救生员考试（如DLRG/DRK/ASB） | 约120小时 | $300~$800（德国主要救生组织提供的标准培训） |
+| Lifeguard training course | A few weeks to several months | $500~$1,500 (Fees vary by course provider and level, usually including first aid certificate) |
+| Pool lifeguard exams (e.g., DLRG/DRK/ASB) | Approximately 120 hours | $300~$800 (Standard training provided by major German rescue organizations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国救生员证（Deutsches Rettungsschwimmabzeichen） | DLRG / DRK / ASB | 必备 | 必须持有至少银级或金级救生证；银级为基础，金级需要更长时间和更高标准 |
-| 急救证书（Erste-Hilfe-Schein） | DLRG / DRK / ASB | 必备 | 通常与救生培训捆绑，需定期更新 |
-| 游泳教练证（可选） | 德国游泳协会 | 可选 | 有助于晋升或拓宽就业范围 |
+| German Lifesaving Badge (Deutsches Rettungsschwimmabzeichen) | DLRG / DRK / ASB | Required | Must hold at least a Silver or Gold lifesaving certificate; Silver is basic, Gold requires longer time and higher standards |
+| First Aid Certificate | DLRG / DRK / ASB | Required | Usually bundled with lifeguard training, requires periodic renewal |
+| Swimming instructor certification (optional) | German Swimming Association | Optional | Helps with promotion or broadening employment scope |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。德国因人口老龄化和水上安全法规加强，持证救生员需求持续存在。全职岗位较少，多为兼职或季节性用工。靠近大城市和旅游区的泳池机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Due to an aging population and strengthened water safety regulations, there is ongoing demand for certified lifeguards in Germany. Full-time positions are rare, mostly part-time or seasonal. Pools near major cities and tourist areas offer more opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 兼职为主，按小时计薪；全职年薪约为22-28k欧元 |
-| 中高级（3-10年） | $28,000~$35,000 | 全职主管或培训师职位 |
-| 高级（10年以上） | $32,000~$40,000 | 泳池经理或资深培训师 |
+| Median salary | $47,376 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Mainly part-time, paid hourly; full-time annual salary around 22-28k euros |
+| Mid to senior level (3-10 years) | $28,000~$35,000 | Full-time supervisor or trainer position |
+| Senior (10+ years) | $32,000~$40,000 | Pool Manager or Senior Trainer |
+| average salary | $51,552 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级救生员可积累经验后晋升为泳池主管或救生培训师。部分人可通过进修成为游泳教练、水上安全教官或进入急救服务领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core monitoring and warning tasks of pool lifeguards are being partially replaced by AI vision systems, but actual water rescues and complex first aid still require human judgment and physical effort. The role shows a trend of 'compressed monitoring tasks, intensified rescue responsibilities'.
+
+Junior lifeguards can progress to pool supervisor or lifeguard trainer after gaining experience. Some move into swimming coaching, water safety instruction, or emergency services through further study.
+
+**Tasks most exposed to AI:**
+
+- Use cameras and sensors to monitor pool surface anomalies (e.g., signs of drowning) in real time, replacing manual surveillance
+- Using AI to analyze historical data to predict high-risk times and areas, reducing the need for fixed patrol routes.
+- Automatically record and report violations (e.g., diving, running), generating electronic logs to replace manual entry
+- Use voice or push notifications to replace lifeguard whistles or shouts for routine safety reminders
+
+**Where AI augments the role:**
+
+- AI-assisted drowning detection systems can monitor multiple pool areas simultaneously, allowing lifeguards to focus on more complex patrols and interventions
+- Smart wearable devices monitor lifeguards' physiological status (e.g., fatigue, attention) in real time, prompting rotation rest
+- VR Simulator Training for Emergency Response Reaction Skills to Boost Rescue Success Rates
+- AI analyzes historical accident data to optimize pool layout and lifeguard positioning.
+
+**Human moat:**
+
+- Actual water rescue: towing, CPR, spinal immobilization, etc., complex operations requiring physical strength and experience
+- Uncertainty judgment for pool environment: true/false alarm discrimination under lighting changes and crowd congestion
+- Communication and conflict resolution with parents and swimmers, especially comforting children
+- Assume legal responsibility: rescue decision errors may lead to lawsuits, AI cannot replace the responsible entity
+
+**Skills to build:**
+
+- Operate and maintain AI drowning detection systems, including configuring camera parameters and handling false alarms
+- Learn first aid data recording and analysis tools to improve accident report quality
+- Using VR/AR simulators for high-frequency emergency drills
+- Learn basic programming (e.g., Python) to customize AI alarm rules
+- Enhance team coordination and command skills, managing multiple lifeguard stations with AI assistance
+- Learn data privacy regulations to ensure AI monitoring compliance
+
+**Key growth areas:**
 
 - Public safety
 - Seasonal employment
@@ -64,69 +97,68 @@ Pool lifeguards monitor swimming pools to prevent accidents, perform rescues, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月找工作的签证，需学历或职业资格、足够资金及德语B1。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需已获得德国认可的救生员资格（Anerkennung），且获得雇主offer，德语通常要求B1。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许无工作offer来德找工作的居留许可，积分包括学历、语言、年龄等。 |
+| Subclass Job Seeker (Job Seeker Visa) | Visa allowing a 6-month stay in Germany to find a job, requiring a degree or professional qualification, sufficient funds, and German B1. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must already hold a German-recognized lifeguard qualification (Anerkennung) and have a job offer; German usually required at B1 level. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based residence permit allowing job seeking without a job offer in Germany; points include education, language, age, etc. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pool Lifeguard？**
-- 有良好游泳技能和体能的人
-- 有耐心和责任感的人
-- 希望从事兼职或季节性工作的人
-
-**谁不适合学Pool Lifeguard？**
-- 不擅长户外或水边工作的人
-- 对压力环境不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good swimming skills and physical fitness
+- People with patience and a sense of responsibility
+- People seeking part-time or seasonal work
+
+**Who is not suited**
+- People who are not suited for outdoor or waterside work.
+- People who are not suited to stressful environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a pool lifeguard in Germany?**
+A: Full-time pool lifeguard average annual pre-tax income about €25,000-€30,000; part-time about €12-15 per hour.
+
+**Q: Can third-country nationals become German pool lifeguards through skilled migration?**
+A: Yes, but requires qualification recognition (Anerkennung) process to prove possession of a German-recognized lifeguard qualification. Non-EU citizens usually need German B1 or higher.
+
+**Q: What key skills are needed to become a pool lifeguard?**
+A: Excellent swimming skills (usually 500 meters in 15 minutes), first aid knowledge, observation and decision-making, good physical fitness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 中（★★☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Pool Lifeguard为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a pool lifeguard in Germany?**
-答：Full-time lifeguards earn about EUR 25,000-30,000 gross annually, while part-time pays EUR 12-15 per hour.
-
-**问：Can third-country nationals immigrate as pool lifeguards in Germany?**
-答：Yes, but they need to undergo qualification recognition (Anerkennung) to verify their lifeguard certification is equivalent to German standards. German language at B1 level is typically required.
-
-**问：What key skills are needed to become a pool lifeguard?**
-答：Excellent swimming skills (e.g., 500m in 15 min), first aid knowledge, strong observation and decision-making, and good physical fitness.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

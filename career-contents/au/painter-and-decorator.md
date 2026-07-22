@@ -1,69 +1,99 @@
-# 油漆工（Painter and Decorator）职业分析 · 澳大利亚
+# Painter and Decorator — career analysis · Australia
 
-**职业代码：332211 – Painter and Decorator。**
+**Occupation code: 332211 (ANZSCO)**
 
-油漆工负责内外墙面、天花、木材和金属表面的涂装与装饰，广泛服务于住宅、商业建筑和基础设施领域。在澳大利亚，油漆工需持 Certificate III 执业，列入技术短缺清单，住宅翻新和新建市场需求旺盛。
+Painters apply coatings and decorative finishes to interior and exterior walls, ceilings, timber and metal surfaces across residential, commercial and infrastructure projects. In Australia, painters are required to hold a Certificate III to practise, are listed on the skills shortage list, and are in strong demand across the residential renovation and new construction markets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 CPC30620 Certificate III in Painting and Decorating） | 42~48个月 | —（各州补贴，NSW 大部分免费，WA 上限 $1,200） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含TRA评估费及实习期费用） |
+| Apprenticeship (including CPC30620 Certificate III in Painting and Decorating) | 42–48 months | $0~$1,200 (State government subsidies — mostly free in NSW, capped at $1,200 in WA) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fees and internship costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Painting and Decorating (CPC30620) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质 |
-| White Card (CPCCWHS1001) | 认可RTO | 必备 | 建筑工地安全强制持卡 |
-| Working at Heights Certificate | 各州SafeWork认可RTO | 可选 | 高空作业强制安全资质 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Painting and Decorating (CPC30620) | TAFE / RTO | Required | Nationally consistent curriculum, foundational qualification for practice |
+| White Card (CPCCWHS1001) | Approved RTO | Required | White card mandatory on construction sites |
+| Working at Heights Certificate | SafeWork-recognised RTO in each state | Optional | Mandatory safety qualifications for working at heights |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 40,000。JSA 预测建筑类技工至2035年新增约195,800个岗位（+9.8%）。住宅翻新热潮和老旧建筑维护持续驱动油漆工需求。
+**Job demand: high (★★★★☆).** National workforce approx. 40,000. JSA projects approximately 195,800 new jobs for trade workers in the construction sector by 2035 (+9.8%). The residential renovation boom and ongoing maintenance of ageing buildings continue to drive demand for painters.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~1,500 个 | 全国，含住宅、商业和工业防腐岗 |
-| Indeed | 500~900 个 | 含学徒岗和兼职 |
-| LinkedIn | 200~500 个 | 偏工业防腐和项目管理岗 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $20,000~$27,000 | Fair Work Award 最低工资 |
-| 学徒 2~4年级 | $27,000~$44,000 | 约 $22~$28/hr |
-| 初级油漆工（持证后 1~3年） | $60,000~$74,000 | Indeed 25th percentile |
-| 中级油漆工（3~8年） | $74,000~$90,000 | Indeed 平均 $77,858；$34.39/hr |
-| 资深油漆工 / 承包商（8年+） | $90,000~$115,000 | 含承包商利润；工业防腐涂层薪资溢价明显 |
-| 工业防腐 / 矿业 FIFO | $110,000~$150,000 | 矿业高空防腐岗薪资显著高于住宅油漆 |
+| Median salary | $71,708 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $20,000~$27,000 | Fair Work Award minimum wage |
+| Apprentice Years 2–4 | $27,000~$44,000 | Approx. $22–$28/hr |
+| Junior painter (1–3 years after obtaining licence) | $60,000~$74,000 | Indeed 25th percentile |
+| Intermediate painter (3–8 years) | $74,000~$90,000 | Indeed average $77,858; $34.39/hr |
+| Senior painter / contractor (8+ years) | $90,000~$115,000 | Includes contractor profit margin; significant salary premium for industrial anti-corrosion coatings |
+| Industrial corrosion protection / Mining FIFO | $110,000~$150,000 | Mining and high-rise corrosion protection roles offer significantly higher pay than residential painting |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较佳（★★★★☆）。** 住宅建设热潮、商业翻新和政府基础设施维护是三大需求来源。工业防腐涂层（矿业/桥梁/管道）是高薪增长方向。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
+
+Residential construction growth, commercial renovation, and government infrastructure maintenance are the three main sources of demand. Industrial protective coatings (mining/bridges/pipelines) represent a high-paying growth segment.
+
+**Tasks most exposed to AI:**
+
+- Color matching and formula calculation (AI visual matching)
+- On-site measurement and material quantity estimation (BIM automated calculation)
+- Paint selection and quote generation (online tool)
+- Quality inspection (AI visual recognition of runs, color differences)
+- Work logs and client communication (automated report generation)
+
+**Where AI augments the role:**
+
+- AR-assisted preview of final painting effects to improve client communication efficiency
+- AI defect detection ensures coating quality and reduces rework
+- Robotic spraying aids high-altitude or large-area operations, improving efficiency and safety.
+- Smart devices automatically record construction parameters and optimize processes
+- Drones or wall-climbing robots for hazardous area pre-treatment
+
+**Human moat:**
+
+- Hand-painting of complex curves, irregular shapes, or fine decorations
+- On-site flexible judgement for unexpected situations (e.g. uneven walls, substrate treatment)
+- Custom artistic coatings (antique, texture effects)
+- Safety supervision and environmental compliance responsibilities (e.g., handling hazardous materials)
+- On-site experience and communication skills in multi-trade collaboration
+
+**Skills to build:**
+
+- Proficiency in Digital Color Matching Software and Electronic Color Systems
+- Learn basic BIM operations and construction collaboration platforms
+- Master the programming and maintenance of automated spraying equipment
+- Learning about eco-friendly coating materials and green processes
+- Enhance project management and customer communication skills
+- Understanding basic data analysis and quoting tools
+
+**Key growth areas:**
 
 - Residential New Build & Renovation
 - Commercial & Industrial Painting
@@ -73,90 +103,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学油漆工？**
-- 有建筑装修/涂装背景，希望技能移民来澳
-- 不排斥溶剂气味和高空作业，能接受住宅/商业涂装环境
-- 目标是自建涂装承包公司或转向工业防腐高薪方向
-- 年龄28~42岁，有时间完成TRA评估
-
-**谁不适合学油漆工？**
-- 对溶剂或油漆气味有化学过敏或呼吸系统问题
-- 期望高薪快速入职（油漆工起薪是技工类最低之一）
-- 完全无涂装或装修基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have a background in building fit-out/painting and are looking to migrate to Australia through skills migration
+- Comfortable with solvent odours and working at heights, able to work in residential and commercial painting environments
+- Goal is to establish an independent painting contracting business or move into high-paying industrial corrosion protection work
+- Aged 28–42, with time to complete a TRA assessment
+
+**Who is not suited**
+- Chemical sensitivity to solvents or paint fumes, or respiratory conditions
+- Expecting high pay and fast employment (painting is one of the lowest-starting trade occupations)
+- No painting or decorating background whatsoever
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a painter in Australia?**
+A: Mid-level painter annual salary approximately $74,000–$90,000, Indeed average $77,858 (2026). Industrial corrosion protection roles can reach $110k–$150k; apprentices approximately $20k–$44k.
+
+**Q: Is it easy to find work as a painter in Australia?**
+A: Relatively easy. Listed on the MLTSSL, Seek consistently shows 800–1,500 job postings, and the residential renovation and new construction market remains active.
+
+**Q: Is overseas painting experience recognised in Australia?**
+A: Not directly recognised; assessment through the TRA Job Ready Program is required, with a process of approximately 12–18 months.
+
+**Q: Will painters be replaced by robots?**
+A: Automation risk is very low. Automated spray robots are used to some extent in standardised large-scale industrial settings, but residential fine finishing and irregular surfaces remain highly dependent on skilled tradespeople.
+
+**Q: Is there an age limit for painters in Australia?**
+A: No legal cap. Those over 35 can use the TRA mutual recognition pathway to skip apprenticeship; no points for age over 45 in immigration scoring.
+
+**Q: Do painters in Australia need a university degree?**
+A: No. Completing a Certificate III (CPC30620) is sufficient to practise; applicants can enter an apprenticeship directly after finishing secondary school.
+
+**Q: Is it difficult to become a painter in Australia?**
+A: Relatively low difficulty. Residential painting is one of the fastest trades to pick up; those with prior painting and decorating experience can gain a foothold within 1–3 months.
+
+**Q: Which is more suitable for migrating to Australia — painting or carpentry?**
+A: Carpentry has a higher volume of job openings (Seek ~3,000 vs painting ~1,200) and slightly higher wages. Painting has a lower barrier to entry and suits those without a trade background who have experience in decorating or coating work.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 332211 职业档案与短缺清单 |
-| Indeed AU | 油漆工平均年薪 $77,858；$34.39/hr（2026） |
-| TRA | 海外油漆工技能评估 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-油漆工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲油漆工工资多少？**
-答：中级油漆工年薪约 $74,000~$90,000，Indeed 平均 $77,858（2026）。工业防腐方向可达 $110k~$150k，学徒约 $20k~$44k。
-
-**问：澳洲油漆工容易找工作吗？**
-答：较容易。MLTSSL在列，Seek 常年挂牌 800~1,500 个职位，住宅翻新和新建市场持续活跃。
-
-**问：中国涂装经验澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，周期约12~18个月。
-
-**问：油漆工会被机器人替代吗？**
-答：替代风险极低。自动喷涂机器人在标准化大型工业场所有一定应用，但住宅精细涂装和不规则表面仍高度依赖人工。
-
-**问：澳洲油漆工有年龄限制吗？**
-答：无法律上限。35岁以上可走TRA互认路径跳过学徒期，移民打分45岁以上无加分。
-
-**问：澳洲油漆工需要大学学历吗？**
-答：不需要。完成 Certificate III（CPC30620）即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲油漆工难学吗？**
-答：难度较低。基础住宅油漆是技工类中上手最快的职业之一，有国内装修涂装经验者1~3个月可入门。
-
-**问：油漆工和木工哪个更适合移民澳洲？**
-答：木工就业量更大（Seek ~3,000个 vs 油漆工 ~1,200个），薪资略高。油漆工学习难度更低，适合无技术背景但有装修涂装经验者。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

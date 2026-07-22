@@ -1,61 +1,97 @@
-# Driving Instructor（Driving Instructor）职业分析 · DE
+# Driving Instructor — career analysis · Germany
 
-**职业代码：8451 – Driving Instructor。**
+**Occupation code: 8451 (KldB)**
 
-Driving instructors teach students driving skills, traffic rules, and safe driving practices at driving schools, preparing them for driving tests.
+A driving instructor teaches students driving skills, traffic rules, and safe driving knowledge at a driving school, helping them pass the driving test.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（部分可缩短） | —（培训费用因州而异，部分由联邦劳工局资助） |
-| 驾驶教练资格认证 | 1-2年 | $3,000~$8,000（包括理论和实践课程及考试费用） |
+| Vocational training (dual system) | 3 years (some may be shortened) | $0~$5,000 (Training costs vary by state, partly funded by the Federal Employment Agency) |
+| Driving instructor certification | 1-2 years | $3,000~$8,000 (Includes costs for theoretical and practical courses and exams) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶教练执照（Fahrlehrerlaubnis） | 各州交通管理局 | 必备 | 必须持有德国驾驶执照至少3年，并通过理论和实践考试 |
-| 驾驶教练培训证书 | 德国驾驶教练协会（BVF） | 必备 | 完成职业培训后获得 |
-| 资质认证（国际驾照转换） | 德国交通部（KBA） | 可选 | 外国驾照需转换，可能需额外考试 |
+| Driving instructor license (Fahrlehrerlaubnis) | State transport authorities | Required | Must hold a German driving license for at least 3 years and pass theoretical and practical tests |
+| Driving instructor training certificate | German Driver Instructor Association (BVF) | Required | Obtained after completing vocational training. |
+| Credential assessment (international license conversion) | German Federal Motor Transport Authority (KBA) | Optional | Foreign driver's license needs conversion; may require additional tests |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。德国对驾驶教练的需求稳定，尤其是在大城市。随着汽车保有量增加和老龄化驾驶者增多，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Demand for driving instructors in Germany is stable, especially in large cities. With increasing car ownership and aging drivers, job prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于驾校和地区 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含高级教练或管理职位 |
+| Median salary | $45,360 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, depends on driving school and region |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, including senior coach or management positions |
+| average salary | $50,052 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级教练可积累经验后晋升为高级教练或驾校经理，也可考取更高级别教练证书（如摩托车、卡车培训）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is not a threat but a magnifying glass: the core value of driving instructors (safety judgment, emotional guidance, risk assessment) will not be automated. Instead, AI simulators, student data analysis, and smart scheduling systems can greatly improve teaching efficiency, freeing instructors from repetitive tasks to focus on high-value guidance.
+
+Junior instructors can accumulate experience to advance to senior instructors or driving school managers, and can also obtain higher-level instructor certificates (e.g., motorcycle, truck training).
+
+**Tasks most exposed to AI:**
+
+- Basic traffic rules explanation and question bank practice
+- Simple driving operation demonstrations (AI simulators can fully replace)
+- Lesson booking and schedule management
+- Student progress tracking and report generation
+- Road test route memorization and standard demonstration
+
+**Where AI augments the role:**
+
+- Using AI Simulators to Teach High-Risk Scenarios in a Safe Environment (e.g. Emergency Braking, Wet Roads)
+- Use student error data analysis to personalize training plans
+- Real-time feedback via cameras and sensors to precisely correct student movements
+- Use VR/AR technology to provide immersive traffic simulation, improving judgment
+- AI-assisted marketing and client management to enhance self-employed coach business efficiency
+
+**Human moat:**
+
+- Real-time judgment and teaching adjustment in dangerous situations (e.g., student sudden panic)
+- Calming students' nerves, building trust and confidence
+- Personalized teaching style and communication skills
+- Tacit knowledge of local driving culture and examiner preferences
+- Legal liability and safety monitoring (instructors responsible for vehicle and student safety)
+
+**Skills to build:**
+
+- Operation and course design of AI driving simulators
+- Data analysis basics (interpreting student performance data and optimizing training)
+- Digital marketing and social media client acquisition skills
+- Application and development of VR/AR teaching tools
+- Emotional intelligence and risk communication enhancement
+- Small business management (finance, scheduling software)
+
+**Key growth areas:**
 
 - Stable demand
 - Aging drivers
@@ -64,69 +100,68 @@ Driving instructors teach students driving skills, traffic rules, and safe drivi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 如果拥有德国认可的驾驶教练资格，可申请技术移民签证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的找工作签证，适合有相关资质的申请人 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | If you have a German-recognized driving instructor qualification, you can apply for a skilled migration visa |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa, suitable for applicants with relevant qualifications |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Driving Instructor？**
-- 耐心且善于沟通的人
-- 热爱驾驶并重视安全的人
-- 喜欢教学和帮助他人进步的人
-
-**谁不适合学Driving Instructor？**
-- 不善于应对压力和批评的人
-- 缺乏耐心或不喜欢与人打交道的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and good communicator
+- People who love driving and value safety
+- People who enjoy teaching and helping others improve
+
+**Who is not suited**
+- People who are not good at handling stress and criticism
+- Those lacking patience or who dislike interacting with people
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a driving instructor in Germany?**
+A: Junior coach annual salary approx. 28,000-35,000 euros; experienced can exceed 45,000 euros.
+
+**Q: How can foreigners become driving instructors in Germany?**
+A: Must first convert foreign driver's license and pass German driving instructor qualification exam before applying for work visa.
+
+**Q: What certifications are required for driving instructors?**
+A: Must hold a German driving instructor license (Fahrlehrerlaubnis) and pass theoretical and practical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Driving Instructor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a driving instructor in Germany?**
-答：Entry-level instructors earn around €28,000-€35,000, rising to over €45,000 with experience.
-
-**问：How can a foreigner become a driving instructor in Germany?**
-答：You need to convert your foreign driving license and pass the instructor exam, then apply for a work visa.
-
-**问：What certifications are required for a driving instructor?**
-答：A German driving instructor license (Fahrlehrerlaubnis) is mandatory, requiring theory and practical exams.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

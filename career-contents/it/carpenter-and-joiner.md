@@ -1,61 +1,97 @@
-# Carpenter and Joiner（Carpenter and Joiner）职业分析 · IT
+# Carpenter and Joiner — career analysis · Italy
 
-**职业代码：7115 – Carpenter and Joiner。**
+**Occupation code: 7115 (ISCO08)**
 
-Responsible for woodworking, installation, and repair in construction and renovation, including framing, doors, windows, and furniture. Steady demand in Italy's construction sector, especially for renovations and energy efficiency upgrades.
+Responsible for woodworking, installation, and repair in construction and decoration, including framing, doors, windows, furniture, etc. The Italian construction industry continuously needs skilled carpenters, especially in renovation and energy-efficiency upgrades.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3-5年 | —（公立职业培训免费，私立短期课程约3,000欧元） |
-| 学徒制 | 3-4年 | —（学徒期间有工资，培训费用低） |
+| Secondary vocational education | 3-5 years | $0~$3,000 (Public vocational training is free; private short courses cost around €3,000) |
+| Apprenticeship | 3-4 years | $0~$1,000 (Wages during apprenticeship, low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家职业资格（Qualifica Professionale） | 地区培训中心或职业学校 | 必备 | 木工基本资格，需通过理论和实践考试 |
-| 专业木工认证（如CNC操作） | 行业协会或私人机构 | 可选 | 提升就业竞争力，非强制 |
-| 安全证书（如CSCS） | 认可培训机构 | 必备 | 建筑工地必备 |
+| National Professional Qualification (Qualifica Professionale) | Regional training center or vocational school | Required | Basic carpentry qualification, requires passing theory and practical exams. |
+| Safety certificate (e.g. CSCS) | Registered Training Organisation (RTO) | Required | Essential for construction sites |
+| Professional carpentry certification (e.g., CNC operation) | Industry associations or private institutions | Optional | Enhance employment competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 220,000。意大利建筑行业复苏和节能改造政策推动木工需求增长，但劳动力短缺明显。预计未来五年就业机会稳定，熟练木工尤其受欢迎。
+**Job demand: high (★★★★☆).** National workforce approx. 220,000. Italy's construction industry recovery and energy-saving renovation policies drive demand for woodworkers, but labor shortage is significant. Stable employment opportunities expected in the next five years, with skilled woodworkers particularly sought after.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒或入门级木工 |
-| 中级（3-8年） | $26,000~$35,000 | 有经验的合格木工 |
-| 高级（8年以上） | $35,000~$50,000 | 工头、自雇或专业领域 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Apprentice or entry-level carpenter |
+| Mid-level (3–8 years) | $26,000~$35,000 | Experienced and qualified carpenter |
+| Senior (8+ years) | $35,000~$50,000 | Foreman, self-employed, or specialist field |
+| average salary | $32,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 晋升路径包括成为工头、项目经理或自雇承包商。也可通过继续教育转向建筑管理或专业木工领域（如古建修复）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
+
+Career progression includes becoming a foreman, project manager, or self-employed contractor. Further education can lead to construction management or specialized carpentry fields (such as heritage restoration).
+
+**Tasks most exposed to AI:**
+
+- Use BIM software for formwork design optimization (AI replaces manual calculation)
+- Automatic inspection of template dimensions and position accuracy through AI image recognition
+- Use drones or laser scanning to automatically measure field data
+- AI-generated cutting lists and material optimization plans
+- Automated template layout linked with CNC cutting.
+
+**Where AI augments the role:**
+
+- AI-assisted augmented reality (AR) headsets provide real-time template installation guidance
+- AI-driven project management tools optimize processes and resource scheduling
+- Digital twin simulates template forces to improve safety and quality
+- AI voice assistant for on-site documentation and reporting
+- Automatically generate construction progress reports and cost estimates
+
+**Human moat:**
+
+- On-site adjustment and manual fabrication of complex irregular formwork
+- Multi-trade coordination and on-site problem-solving skills
+- Experiential judgment of material properties (wood defects, humidity, etc.)
+- Client communication and understanding of customized needs
+- Physical adaptability for working at heights and heavy manual labor
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- Use of AR/VR construction assistance tools
+- CNC woodworking equipment programming and operation.
+- Basic data analysis (e.g., material utilization optimization)
+- Sustainable materials and green building practices.
+- Communication and teamwork (with AI tool assistance)
+
+**Key growth areas:**
 
 - Sustainable construction
 - Energy renovation
@@ -64,68 +100,67 @@ Responsible for woodworking, installation, and repair in construction and renova
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟技术工人，每年有配额。需雇主担保，符合特定职业清单。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工人，但木工薪资通常不达标。更适用于管理或专业木工。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU skilled workers with an annual quota. Requires employer sponsorship and meets a specific occupation list. |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, but carpentry wages typically do not meet the threshold. More applicable to managerial or specialized carpentry. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Carpenter and Joiner？**
-- 喜欢动手操作和体力工作的人
-- 对建筑和木工工艺有热情者
-- 愿意接受学徒培训并逐步提升技能
-
-**谁不适合学Carpenter and Joiner？**
-- 不适应户外和体力劳动
-- 对精确测量和细节缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and physical work
+- For those passionate about construction and carpentry
+- Willing to undergo apprenticeship training and gradually improve skills.
+
+**Who is not suited**
+- Not suited for outdoor and physical labor
+- Lack of patience for precise measurement and detail
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Italian carpenter?**
+A: Junior carpenter annual salary around €20,000-€26,000, experienced can reach over €35,000. Self-employed carpenters may earn higher but with instability.
+
+**Q: How can a foreign carpenter obtain an Italian work visa?**
+A: Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship. The shortage occupation list includes carpentry, but quotas are limited, so early application is recommended.
+
+**Q: Are there opportunities for advancement for carpenters in Italy?**
+A: Yes. You can advance to foreman or project manager through experience, or start your own business. You can also specialize in high-value areas such as heritage restoration or custom furniture.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Carpenter and Joiner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a carpenter in Italy?**
-答：Entry-level carpenters earn around €20,000-26,000 per year, experienced ones up to €35,000 or more. Self-employed carpenters may earn more but with less stability.
-
-**问：How can a foreign carpenter get a work visa for Italy?**
-答：Mainly through the Decreto Flussi quota-based work visa, requiring employer sponsorship. Carpentry is on the shortage list, but quotas are limited.
-
-**问：Is there career progression for carpenters in Italy?**
-答：Yes. Experienced carpenters can become foremen, project managers, or start their own business. Specialization in historic restoration or custom furniture offers higher earnings.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

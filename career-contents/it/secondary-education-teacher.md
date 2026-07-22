@@ -1,60 +1,95 @@
-# Secondary Education Teacher（Secondary Education Teacher）职业分析 · IT
+# Secondary Education Teacher — career analysis · Italy
 
-**职业代码：2330 – Secondary Education Teacher。**
+**Occupation code: 2330 (ISCO08)**
 
-Secondary education teachers instruct students aged 14-19 in specific subjects, design curricula, assess performance, and support personal development.
+Secondary school teachers teach specific subjects to students aged 14-19, design curricula, assess student performance, and support students' personal development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士 | 3年（本科） | $1,500~$3,000（公立大学学费，视家庭收入而定） |
-| 硕士 | 2年（硕士） | $1,500~$3,000（教师需完成特定硕士课程（LM-85 bis等）） |
-| 教师培训 | 1年（实习） | $2,000~$5,000（包括24学分（CFU）培训课程和实习） |
+| Bachelor's degree | 3 years (bachelor's) | $1,500~$3,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years (Master's) | $1,500~$3,000 (Teachers must complete specific master's programs (e.g., LM-85 bis)) |
+| Teacher Training | 1 year (internship) | $2,000~$5,000 (Includes 24 CFU (credits) training courses and internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学硕士（LM-85 bis） | 意大利大学 | 必备 | 中学教师必备学历资格 |
-| 教师资格考试（Concorso） | 意大利教育部 | 必备 | 通过全国性考试才能获得正式职位 |
-| 教学实习证明（24 CFU） | 大学或授权机构 | 必备 | 教学方法和实习学分要求 |
+| Master of Education (LM-85 bis) | Italian universities | Required | Essential academic qualifications for secondary school teachers |
+| Teacher Qualification Exam (Concorso) | Italian Ministry of Education | Required | A formal position can only be obtained through a national examination |
+| Teaching internship certificate (24 CFU) | University or authorized institution | Required | Teaching methods and internship credit requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 520,000。意大利面临教师老龄化与短缺问题，尤其在STEM学科和南部地区。政府计划招聘更多教师，未来几年就业机会稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 520,000. Italy faces teacher aging and shortage, especially in STEM subjects and southern regions. The government plans to recruit more teachers, with stable job opportunities in coming years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$26,000 | 税前年薪，根据地区有差异 |
-| 中级（3-10年） | $26,000~$32,000 | 税前年薪，包括资历增长 |
-| 高级（10年以上） | $32,000~$40,000 | 税前年薪，含额外职责津贴 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$26,000 | Pre-tax annual salary, varies by region |
+| Intermediate (3-10 years) | $26,000~$32,000 | annual salary before tax, including seniority increases |
+| Senior (10+ years) | $32,000~$40,000 | Annual pre-tax salary, including additional duty allowances |
+| average salary | $29,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 教师可通过继续教育晋升为学科带头人、副校长或校长，也可转向教育政策或培训领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on secondary school teachers is mixed: repetitive administrative tasks will be automated, but core teaching, emotional care, and complex classroom management are hard to replace. Teachers need to adapt to tech-assisted teaching and improve AI literacy to stay competitive.
+
+Teachers can progress through further education to become subject leaders, deputy principals, or principals, or move into education policy or training fields.
+
+**Tasks most exposed to AI:**
+
+- Automated grading of standardized assignments and multiple-choice questions
+- Generate basic lesson plans and course draft materials
+- handling student attendance and grade records
+- Provide standardized FAQ services
+
+**Where AI augments the role:**
+
+- Analyze student learning data with AI to achieve personalized teaching
+- Using AI to generate differentiated practice problems and extension materials
+- Enhance classroom interaction and lab simulation with AI virtual assistants
+- Using natural language processing tools to quickly search teaching materials
+- Use AI to monitor student participation and adjust teaching strategies in a timely manner.
+
+**Human moat:**
+
+- Classroom management and student behavior guidance
+- Emotional support and psychological counseling
+- Complex teaching decisions and curriculum design
+- In-depth communication with parents and the community
+- Cultivate students' critical thinking and creativity
+
+**Skills to build:**
+
+- Data analysis and learning situation diagnosis.
+- AI teaching tool applications (e.g., Knewton, Carnegie Learning)
+- Digital content creation and multimedia teaching
+- Programming and STEM education basics
+- Online teaching and blended learning design
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - STEM shortage
 - aging workforce
@@ -63,65 +98,64 @@ Secondary education teachers instruct students aged 14-19 in specific subjects, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card Italy） | 适用于非欧盟高学历教师，需工作合同和最低薪资门槛（约24,000欧元） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟教师，需雇主担保 |
-| Subclass 自由流动者（EU Freedom of Movement） | 欧盟公民可自由在意大利工作，无需签证 |
+| Subclass EU Blue Card (EU Blue Card Italy) | Applicable to non-EU highly educated teachers, requiring an employment contract and a minimum salary threshold (approximately €24,000) |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, for non-EU teachers, employer sponsorship required |
+| Subclass Freelancer (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary Education Teacher？**
-- 热爱教学并愿意投身于公共教育体系的人
-- 具备良好沟通能力和耐心的跨学科人才
-- 愿意在南部或农村地区长期任教的人
-
-**谁不适合学Secondary Education Teacher？**
-- 追求高薪或快速晋升的人
-- 不适应教育官僚体制和课堂纪律挑战的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love teaching and are willing to dedicate themselves to the public education system
+- Interdisciplinary talent with good communication skills and patience
+- Individuals willing to teach long-term in southern or rural areas
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who are not suited to the educational bureaucracy and classroom discipline challenges
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Italian secondary school teachers?**
+A: Junior teachers earn about 23,000-26,000 euros annually, senior teachers up to 40,000 euros, but overall below EU average.
+
+**Q: How can non-EU citizens become secondary school teachers in Italy?**
+A: Common paths include: holding an EU Blue Card (requires contract and minimum salary), via Decreto Flussi quota work visa, or studying first then working. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Secondary Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for secondary education teachers in Italy?**
-答：Entry-level teachers earn about €23,000-26,000 per year, while senior teachers can reach €40,000, though below EU average.
-
-**问：How can non-EU citizens become secondary teachers in Italy?**
-答：Common paths include EU Blue Card (with contract and minimum salary), Decreto Flussi quota work visa, or study then work. EU citizens have free movement.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

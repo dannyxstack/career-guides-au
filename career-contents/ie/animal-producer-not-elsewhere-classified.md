@@ -1,60 +1,96 @@
-# Animal Producer Not Elsewhere Classified（Animal Producer Not Elsewhere Classified）职业分析 · IE
+# Animal Producer Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：6129 – Animal Producer Not Elsewhere Classified。**
+**Occupation code: 6129 (ISCO08)**
 
-Raises, breeds, and cares for animals not elsewhere classified, such as deer, ostriches, and crocodiles, for meat, hides, fur, or other products.
+Engage in breeding, raising, and caring for animals not elsewhere classified, such as deer, ostriches, crocodiles, etc., for meat, hides, wool, or other products.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（高中文凭） | —（公立免费教育） |
-| 农业职业证书 | 1-2年 | $2,000~$5,000（Teagasc等机构提供） |
+| High school graduation | 4 years (high school diploma) | $0~$0 (Free public education) |
+| Agricultural vocational certificate | 1-2 years | $2,000~$5,000 (provided by institutions such as Teagasc) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业证书 | Teagasc | 可选 | 涵盖动物科学、牧场管理等 |
-| 动物健康与福利证书 | 爱尔兰农业部 | 可选 | 部分农场要求 |
+| Agricultural vocational certificate | Teagasc | Optional | Covers animal science, pasture management, etc. |
+| Certificate in Animal Health and Welfare | Irish Department of Agriculture | Optional | Required by some farms |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500。爱尔兰畜牧业以牛、羊为主，特种动物养殖规模较小但呈增长趋势，受有机和特色食品需求推动。就业前景稳定，但受政策和市场波动影响。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. Ireland's livestock industry is dominated by cattle and sheep, with specialty animal farming being small in scale but showing growth trends, driven by demand for organic and specialty foods. Employment prospects are stable but affected by policy and market fluctuations.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可从农场助手晋升至主管或农场经理，或创业开设特色养殖场。需持续学习动物健康、繁殖技术和市场营销知识。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly replace basic monitoring, recording, and feeding tasks in specialty animal breeding; entry-level roles are rapidly shrinking, but high-value decisions and veterinary judgment still rely on humans.
+
+Practitioners can progress from farm assistant to supervisor or farm manager, or start their own specialised farm. Continuous learning in animal health, breeding technology, and marketing knowledge is required.
+
+**Tasks most exposed to AI:**
+
+- automatically monitor animal health signs and record data
+- Scheduled feeding and clean water system
+- Determine estrus based on sensor data and match for breeding
+- Automatically sort and classify products (e.g., deer antlers, ostrich feathers).
+- Generate standard production reports and inventory management.
+
+**Where AI augments the role:**
+
+- Utilize AI image recognition to assist early disease diagnosis.
+- Combine meteorological data to optimize grazing and housing environments.
+- Optimizing feed formulas and growth cycles through big data analysis
+- Uses machine learning to predict market demand and adjust population structure.
+- Automated IoT platform integration manages multi-species farming
+
+**Human moat:**
+
+- Emergency medical intervention and complex wound treatment
+- Non-standardized judgment of abnormal animal behavior
+- Breeding parent selection and genetic improvement decisions
+- Regulatory compliance and animal ethics dispute resolution
+- Cross-disciplinary collaboration with veterinarians and research institutions
+
+**Skills to build:**
+
+- Animal health data sensing and IoT device operation
+- Basic data analysis and visualization
+- Use of precision livestock farming software (e.g., Herdsman)
+- animal welfare and biosecurity best practices
+- Drone mustering and remote monitoring technology
+- Sustainable farming and carbon footprint accounting.
+
+**Key growth areas:**
 
 - Specialty animal farming
 - Organic produce
@@ -63,65 +99,67 @@ Raises, breeds, and cares for animals not elsewhere classified, such as deer, os
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达一般就业许可1.5倍，约45000欧元。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, with an annual salary threshold of approximately €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens; annual salary must reach 1.5 times the general employment permit, approximately €45,000. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Producer Not Elsewhere Classified？**
-- 热爱动物和户外工作的人
-- 愿意在乡村地区生活的人
-- 有创业精神的人
+**Who is suited**
+- People who love animals and outdoor work
+- People willing to live in rural areas
+- People with an entrepreneurial spirit
 
-**谁不适合学Animal Producer Not Elsewhere Classified？**
-- 不喜欢体力劳动的人
-- 期望高薪和城市生活的人
+**Who is not suited**
+- People who dislike physical labor.
+- Those seeking high salary and city life
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are salary levels for animal producers in Ireland?**
+A: Junior annual salary approximately €22,000-28,000, senior can reach €45,000, below the national average.
+
+**Q: Can this profession immigrate to Ireland through a work visa?**
+A: Yes, but it is a non-occupation in demand, requires a general employment permit, and sponsorship requirements are relatively high.
+
+**Q: What educational background is required?**
+A: A high school diploma is sufficient; a Teagasc agricultural vocational certificate can help with employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Animal Producer Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal producers in Ireland?**
-答：Entry-level annual salary is about €22,000-€28,000, senior up to €45,000, below national average.
-
-**问：Can one immigrate to Ireland through this occupation via work visa?**
-答：Yes, but it's not a shortage occupation, requiring a General Employment Permit with higher sponsorship requirements.
-
-**问：What educational background is needed?**
-答：High school diploma suffices; Teagasc agricultural certificates enhance employability.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

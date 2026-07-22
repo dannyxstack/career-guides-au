@@ -1,59 +1,91 @@
-# Painters in Manufacturing Industries（Painters in Manufacturing Industries）职业分析 · ES
+# Painters in Manufacturing Industries — career analysis · Spain
 
-**职业代码：7232 – Painters in Manufacturing Industries。**
+**Occupation code: 7232 (CNO)**
 
-Painters in manufacturing industries apply paint, powder coatings, or varnish to manufactured products such as metals, plastics, and wood. They prepare surfaces, mix paints, operate spray equipment, and ensure quality finish, playing a key role in production lines.
+Manufacturing painters are responsible for spraying, brushing, or powder coating the surfaces of metal, plastic, and other products in industrial environments to ensure aesthetics and corrosion resistance. This position requires mastering coating mixing, operation of spraying equipment, and safety standards, making it a key link in the manufacturing production chain.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立学校每年约500-1000欧元，私立可能更高） |
-| 高级职业教育（FP Grado Superior） | 2年 | $1,000~$3,000（侧重自动化涂装与管理） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public schools cost about 500-1000 euros per year, while private schools may be even higher) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $1,000~$3,000 (Emphasis on automated coating and management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio en Pintura Industrial | 西班牙教育部认可的职业教育中心 | 必备 | 必备入门学历，包含涂装理论与实操 |
-| 预防职业风险认证（PRL） | 西班牙劳动与社会经济部授权的培训机构 | 必备 | 化学防护、通风及应急处理培训 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国学历需认证至FP同级，过程约6-12个月 |
+| FP Grado Medio en Pintura Industrial | A vocational education center recognized by the Spanish Ministry of Education | Required | Essential entry-level education, including painting theory and practical application |
+| Occupational Risk Prevention Certification (PRL) | A training institution authorized by the Spanish Ministry of Labor and Social Economy | Required | Training in chemical protection, ventilation, and emergency handling |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country diplomas must be certified to the equivalent of FP, and the process takes about 6-12 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。西班牙制造业油漆工就业前景稳定，受汽车、机械及家具制造行业需求支撑。2023年该职业短缺指数为中等，自动化替代风险较低（约30%），但需关注环保涂料技术更新。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. Employment prospects for Spanish manufacturing painters are stable, supported by demand from the automotive, machinery, and furniture manufacturing sectors. In 2023, the occupational shortage index is moderate, with a low risk of automation replacement (about 30%), but attention should be paid to updates in environmentally friendly coating technologies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或助理岗位，税前年收入 |
-| 中级（4-8年） | $23,000~$28,000 | 可独立操作各类涂装设备 |
-| 高级（8年以上） | $29,000~$35,000 | 包含主管或质量控制角色 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprenticeship or assistant positions, annual income before tax |
+| Mid-level (4–8 years) | $23,000~$28,000 | Capable of independently operating various coating equipment |
+| Senior (8+ years) | $29,000~$35,000 | Include supervisory or quality control roles |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从学徒（FP Grado Medio）起步，积累经验后晋升为高级涂装师或生产线主管，部分可转向质量检验或涂料销售。持续学习水性涂料等新技术可增强竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+The impact of AI and automation on manufacturing painters is mixed: painting processes may be replaced by robots, but tasks like quality control and defect handling still rely on human experience, and demand remains stable.
+
+Career path: Start as an apprentice (FP Grado Medio), gain experience, and be promoted to senior painter or production line supervisor, with some options to move into quality inspection or paint sales. Continuous learning of new technologies such as water-based coatings can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- The automatic spraying robot performs standard coating operations
+- The AI vision system automatically detects coating thickness and uniformity
+- Automated paint supply system adjusts paint color and viscosity
+- The robot completes large-area, repetitive spraying tasks
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection improves quality consistency
+- Digital twin simulates spraying parameters to optimize processes
+- Wearable devices provide real-time safety and operational guidance
+- Predictive maintenance reduces equipment downtime.
+
+**Human moat:**
+
+- Fine spraying of complex curved surfaces and special-shaped parts
+- On-site color mixing and special effects handicraftsmanship
+- Visual assessment and repair of coating defects
+- Flexible response to changes in small-batch, multi-variety production
+
+**Skills to build:**
+
+- Robot programming and maintenance (such as ABB, FANUC)
+- Knowledge of powder coatings and eco-friendly coatings
+- Data analysis and process control
+- 3D scanning and reverse engineering fundamentals
+- Safety and environmental regulatory compliance
+
+**Key growth areas:**
 
 - automation adaptation
 - eco-friendly coatings
@@ -62,65 +94,64 @@ Painters in manufacturing industries apply paint, powder coatings, or varnish to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Persons） | 由西班牙雇主担保的工作居留，需证明职业短缺或无法在欧盟内招募到合适人员 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能职业，年薪需达约34,000欧元（2024年门槛），制造业油漆工通常不满足高薪要求，少数高级岗位可尝试 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 针对管理或技术专家，普通油漆工较少获批，但具备多项认证者有可能 |
+| Subclass Cuenta ajena (Work Permit for Employed Persons) | Work residency sponsored by a Spanish employer requires proof of occupational shortages or inability to recruit suitable personnel within the EU |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled occupations; annual salary must reach approximately €34,000 (2024 threshold). Manufacturing painters typically do not meet high salary requirements; a few senior positions may try. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | For management or technical specialists, ordinary painters are less likely to be approved, but those with multiple certifications may be successful |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Painters in Manufacturing Industries？**
-- 喜欢动手操作、对颜色和表面处理有耐心的人
-- 愿意接受职业教育培训、注重安全规范的人
-- 希望在制造业中获得稳定就业、不追求高薪但求安稳的人
-
-**谁不适合学Painters in Manufacturing Industries？**
-- 对化学气味和涂料粉尘敏感或过敏的人
-- 追求快速晋升和高收入，不愿从头学起的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are patient with color and surface treatment
+- Those willing to receive vocational education and training, who pay attention to safety and regulations
+- Those who hope to secure stable employment in manufacturing, not seeking high salaries but seeking stability
+
+**Who is not suited**
+- People sensitive or allergic to chemical odors and paint dust
+- People who pursue rapid promotion and high income and are unwilling to start from scratch
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for manufacturing painters in Spain?**
+A: Entry-level salaries are about 18,000-22,000 euros per year, intermediate 23,000-28,000 euros per year, and seniors up to 35,000 euros per year, depending on experience and industry.
+
+**Q: How can third-country citizens immigrate to Spain through this employment?**
+A: The most common pathway is employer-sponsored work residency (Cuenta ajena), which requires obtaining a job offer and passing a labor market test. Homologación is a necessary step. The EU Blue Card requires high salaries, which is quite challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Painters in Manufacturing Industries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for painters in manufacturing in Spain?**
-答：Entry-level: €18,000-€22,000/year; mid: €23,000-€28,000/year; senior: up to €35,000/year, depending on experience and industry.
-
-**问：How can a third-country national immigrate to Spain through this occupation?**
-答：The most common path is a work permit (Cuenta ajena) with a job offer and labor market test. Degree homologation is mandatory. EU Blue Card is unlikely due to salary requirements.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

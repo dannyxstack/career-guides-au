@@ -1,59 +1,95 @@
-# Sheet Metal Workers and Boilermakers（Sheet Metal Workers and Boilermakers）职业分析 · ES
+# Sheet Metal Workers and Boilermakers — career analysis · Spain
 
-**职业代码：7313 – Sheet Metal Workers and Boilermakers。**
+**Occupation code: 7313 (CNO)**
 
-Skilled tradespeople who shape, cut, and join sheet metal and fabricate or repair boilers, tanks, and pressure vessels, working in shipbuilding, energy, and construction sectors.
+Skilled workers engaged in metal sheet forming, boiler and pressure vessel manufacturing and maintenance, using shearing, bending, welding, and other processes, serving industries such as shipbuilding, energy, and construction, are key craftsmen in industrial manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立中心几乎免费，仅注册费约400-800€/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约3000-5000€/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$800 (Public centers are almost free, with registration fees of about €400-800 per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$1,000 (Public schools are free, private ones about €3000-5000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接认证（ISO 9606 / EN 287） | 经认可的培训中心（如CESOL） | 必备 | 对锅炉制造必考，分板材/管道焊接位置；需定期复证 |
-| 钣金工职业资格证（Certificado de Profesionalidad） | SEPE（国家就业局） | 必备 | FMEC0108或FMEM0109等；受规管职业，企业招标必备 |
-| 压力容器操作证 | 工业安全与质量总局 | 必备 | 涉及锅炉安装/维修时需持有，通常由雇主安排培训 |
+| Welding Certification (ISO 9606 / EN 287) | Accredited training centers (such as CESOL) | Required | Essential tests for boiler manufacturing, divided by plate/pipeline welding position; Regular re-certification is required |
+| Sheet Metal Worker Professional Qualification Certificate (Certificado de Profesionalidad) | SEPE (National Employment Administration) | Required | FMEC0108 or FMEM0109, etc.; Regulated professions, essential for enterprise bidding |
+| Pressure vessel operation certificate | General Administration of Industrial Safety and Quality | Required | Required for boiler installation/maintenance, usually trained by the employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。西班牙钣金与锅炉制造工人面临老龄化严重，年轻学徒不足，岗位需求稳定。能源转型和工业维护项目带来持续就业机会，但受经济周期影响较大，熟练技工尤其紧俏。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Spanish sheet metal and boiler manufacturing workers face severe aging, with a shortage of young apprentices and stable job demand. Energy transition and industrial maintenance projects create ongoing employment opportunities, but are heavily affected by economic cycles, with skilled workers in particular being in short supply.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 含加班可达30000€ |
-| 中级（3-7年） | $28,000~$36,000 | 持多项焊接认证者更高 |
-| 高级（7年以上/工长） | $34,000~$45,000 | 车间主管或自营可达50000€+ |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Including overtime, the salary can reach €30,000 |
+| Mid-level (3–7 years) | $28,000~$36,000 | Those with multiple welding certifications have higher rates |
+| Senior (7+ years/foreman) | $34,000~$45,000 | Workshop supervisors or self-employed can earn up to €50,000+ |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级钣金工或焊工起步，通过学徒项目积累经验，考取焊接认证（如ISO 9606），晋升为工长、车间主管或质量检验员，也可自营钣金加工店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
+
+You can start as a junior sheet metal worker or welder, gain experience through apprenticeship programs, obtain welding certifications (such as ISO 9606), and be promoted to foreman, workshop supervisor, or quality inspector. You can also run your own sheet metal processing shop.
+
+**Tasks most exposed to AI:**
+
+- Automatic nesting and CNC cutting of metal sheets
+- Simple defect identification and classification through AI visual inspection
+- Repeated bending and punching in bulk forming of standard ventilation ducts
+- Automatic unfolding and blanking calculation based on 3D models
+- AI-driven automatic inventory counting and replenishment in warehouses
+
+**Where AI augments the role:**
+
+- AI-assisted unfolding and forming process optimization for complex geometric shapes
+- AR glasses project installation guides to improve on-site positioning and assembly accuracy
+- AI load calculation optimizes material utilization and reduces waste
+- Digital twin simulation of sheet metal part stress performance in assemblies
+- AI-Driven Robots Collaborate on Repetitive Welding and Handling
+
+**Human moat:**
+
+- On-site measurement and manual finishing of non-standard, irregular metal parts
+- Installation and sealing of ventilation ducts and roofs in confined spaces or at heights
+- Experienced judgment of hidden defects such as metal fatigue and weld quality
+- Ability to communicate on-site with clients and designers and adjust plans
+- Safety assurance: handling hazardous environments like heat, sharp edges, toxic coatings
+
+**Skills to build:**
+
+- Learn CAD/CAM software (e.g., SolidWorks, AutoCAD Inventor)
+- Master CNC punching and laser cutting machine programming and operation
+- Understanding collaborative programming of industrial robots with sheet metal bending and welding cells
+- Apply digital measurement tools (e.g., 3D scanners) for reverse engineering
+- Basic data analysis skills to optimise material layout and process parameters
+- Learning connection techniques for lightweight materials (aluminum-magnesium alloys, composites)
+
+**Key growth areas:**
 
 - Industrial Maintenance
 - Renewable Energy
@@ -62,68 +98,67 @@ Skilled tradespeople who shape, cut, and join sheet metal and fabricate or repai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 获得西班牙企业工作合同后申请；需证明岗位无法被本地人填补（紧缺职业优先审批） |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学学历或同等经验（FP高级可视为满足）；年薪门槛约34000€（2025年） |
-| Subclass Busqueda empleo（Job Search Visa） | 高技能人才可先申请6个月求职签证，找到工作后转工作居留；需学历/经验证明 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Apply after obtaining a job contract with a Spanish company; Proof that the position cannot be filled by locals (priority approval for shortage occupations) |
+| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or equivalent experience is required (FP senior is considered sufficient); Annual salary threshold: approximately €34,000 (2025) |
+| Subclass Busqueda empleo (Job Search Visa) | Highly skilled talents can first apply for a 6-month job-seeking visa, then transfer to work and stay after finding a job; Proof of education/experience is required |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sheet Metal Workers and Boilermakers？**
-- 喜欢动手操作、对金属加工有耐心的人
-- 愿意接受体力劳动和户外工作环境
-- 追求稳定就业、对工业制造有热情的技术型人才
-
-**谁不适合学Sheet Metal Workers and Boilermakers？**
-- 无法适应噪声、粉尘和高温工作环境者
-- 期望完全办公室工作或低体力消耗职业者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are patient with metalworking
+- Willing to accept physical labor and outdoor work environments
+- Skilled professionals who pursue stable employment and are passionate about industrial manufacturing
+
+**Who is not suited**
+- Those who cannot adapt to noise, dust, and high-temperature working environments
+- Those expecting fully office‑based or low‑physical‑demand jobs.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for sheet metal workers in Spain?**
+A: Entry-level salaries are about €22,000-28,000 per year, intermediate salaries €28,000-35,000 per year, senior foremen or boiler manufacturing specialists can earn over €45,000 per year, and overtime and project bonuses are common.
+
+**Q: How can Chinese sheet metal workers immigrate to Spain?**
+A: Immigration is possible through a work contract (Cuenta ajena) or an EU Blue Card. Jobs in high demand help with obtaining work permits; it is recommended to first obtain international welding certification and apply through Spanish company sponsorship.
+
+**Q: What educational qualifications are required to become a sheet metal worker?**
+A: Typically, completing two years of intermediate vocational training (FP Grado Medio) is sufficient, with some positions offering apprenticeships. High-pressure vessel boiler manufacturing requires additional welding certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（2年FP）（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sheet Metal Workers and Boilermakers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sheet metal workers in Spain?**
-答：Entry-level €22k-28k, mid-level €28k-35k, senior/fitter-up to €45k+ per year, with overtime and project bonuses common.
-
-**问：How can a Chinese sheet metal worker immigrate to Spain?**
-答：Through a work contract (Cuenta ajena) or EU Blue Card. The shortage occupation status helps. International welding certifications and employer sponsorship are key.
-
-**问：What education is needed to become a sheet metal worker?**
-答：A 2-year intermediate vocational training (FP Grado Medio) is typical. Some roles accept apprenticeships. Boilermaking requires additional welding certificates.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

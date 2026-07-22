@@ -1,60 +1,94 @@
-# Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified（Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified）职业分析 · NL
+# Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：8159 – Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified。**
+**Occupation code: 8159 (ISCO08)**
 
-Operate textile, fur and leather processing machines including cutting, sewing and finishing. This occupation is a basic manufacturing role in the Netherlands with moderate automation.
+Operate textile, fur, and leather processing machinery, including cutting, stitching, finishing, and other processes. This occupation is a basic manufacturing role in the Netherlands with moderate automation.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-3年 | $2,000~$6,000（MBO课程年学费约€1,000-€2,000，加上书本材料费） |
-| 在岗培训 | 6个月至1年 | —（雇主提供培训，通常无学费） |
+| Secondary vocational education (MBO) | 2-3 years | $2,000~$6,000 (Annual MBO course tuition is approximately €1,000-€2,000, plus book and material costs) |
+| On-the-job training | 6 months to 1 year | $0~$0 (Employer provides training, usually tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织品操作员证书 | 荷兰职业教育机构 (ROC) | 可选 | MBO文凭，非强制但有助于就业 |
-| 健康与安全证书 | 荷兰安全机构 | 可选 | 部分雇主要求 |
+| Textile Operator Certificate | Dutch vocational education institutions (ROC) | Optional | MBO diploma, not mandatory but helpful for employment |
+| Health and safety certificate | Dutch Security Agency | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 1,200。荷兰纺织和皮革制造业规模较小且持续缩减，受海外竞争影响就业岗位有限。预计未来十年从业人数缓慢下降，但机器操作仍有一定需求，尤其是技术维护岗位。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,200. The Dutch textile and leather manufacturing industry is small and declining, with limited employment due to overseas competition. The number of workers is expected to slowly decrease over the next decade, but machine operation still has some demand, especially for technical maintenance roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，按40小时/周计算 |
-| 中级（3-7年） | $28,000~$33,000 | 税前年薪，含经验津贴 |
-| 高级（7年以上） | $33,000~$38,000 | 税前年薪，可晋升为主管或技术员 |
+| Median salary | $44,262 | Median salary (official: CBS median hourly wage €22.4/hr × 1976h annualized, BRC group 0771 Productiemachinebedieners; P25–P75 €35,568–€53,352, CBS 2024) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, based on 40 hours/week |
+| Mid-level (3–7 years) | $28,000~$33,000 | Annual salary before tax, including experience allowances |
+| Senior (7+ years) | $33,000~$38,000 | Pre-tax annual salary, with promotion to supervisor or technician possible |
+| average salary | $30,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级操作员可晋升为高级操作员或生产主管，也可转向质量控制或设备维护。部分经验者可通过培训转型为纺织技术员或工业缝纫机维修师。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+In this occupation, repetitive cutting, sewing, and quality inspection tasks are easily replaced by AI and automation, but handling complex materials, custom tailoring, and equipment debugging still rely on human experience. Entry-level positions may decrease, but job quality improves after upskilling.
+
+Entry-level operators can advance to senior operator or production supervisor, or move into quality control or equipment maintenance. Some with experience can transition to textile technician or industrial sewing machine repairer through training.
+
+**Tasks most exposed to AI:**
+
+- Repetitive cutting and sewing operations
+- Standardized quality inspection based on fixed templates.
+- Sorting and grading of leather and fur.
+- Production scheduling and progress tracking for simple orders
+
+**Where AI augments the role:**
+
+- Use AI vision systems to assist quality inspection and improve defect detection rates
+- Optimize cutting paths and material utilization using digital twin technology
+- Use machine learning models to predict equipment failures and reduce downtime
+- Use AR glasses for remote expert guidance to handle complex sewing problems.
+
+**Human moat:**
+
+- Experience in handling and judging the feel of special materials such as genuine leather and rare fur.
+- Customization, high-precision sewing process adjustment and innovation
+- Emergency repair and debugging skills for equipment failures
+- Process capability to develop new products collaboratively with the design team
+- Flexibility in handling small-batch, multi-variety orders
+
+**Skills to build:**
+
+- Programming and debugging automated equipment (e.g., PLC, robots)
+- Data analysis tools (such as Python, SQL) for production optimisation
+- Operation and maintenance of AI quality inspection systems
+- Fundamentals of materials science (new textile, leather properties)
+- Lean production and problem-solving methodologies
+- Digital twin or CAD software applications
+
+**Key growth areas:**
 
 - Stable
 - Automation
@@ -63,66 +97,68 @@ Operate textile, fur and leather processing machines including cutting, sewing a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达到门槛的高技能移民，2025年门槛约€5,000/月。此职业通常达不到要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪约为€58,000（2025年），此职业通常不符合。 |
-| Subclass Orientation Year（Orientation Year） | 在荷兰毕业的留学生可获一年找工作签证，但此职业机会有限。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migrants whose annual salary meets the threshold, estimated around €5,000/month in 2025. This occupation usually does not meet the requirement. |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of approximately €58,000 (2025), this occupation typically does not qualify. |
+| Subclass Orientation Year (Orientation Year) | International graduates in the Netherlands can get a one-year job-seeking visa, but job opportunities in this field are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified？**
-- 愿意从事重复性体力工作的人
-- 寻求低门槛进入劳动力市场的人
-- 对制造业有兴趣且能接受轮班制的人
+**Who is suited**
+- People willing to engage in repetitive physical work.
+- People seeking low-barrier entry into the labor market
+- People interested in manufacturing and able to work shifts
 
-**谁不适合学Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified？**
-- 期望高薪或快速晋升的人
-- 对自动化带来的失业风险敏感的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People sensitive to unemployment risks from automation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for textile machine operators in the Netherlands?**
+A: Pre-tax annual salary approximately €24,000-€38,000, depending on experience and skills. Starting salary about €24,000, senior up to €38,000.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: Difficult. This occupation usually does not meet the high-skilled immigration threshold and is not on the shortage list. EU citizens can move freely, but opportunities for non-EU citizens are extremely limited.
+
+**Q: What educational background is needed to become a textile machine operator?**
+A: Typically requires MBO secondary vocational education (2-3 years) or on-the-job training. Related fields like textile technology or fashion design are helpful but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for textile machine operators in Netherlands?**
-答：Gross annual salary ranges from €24,000 to €38,000, depending on experience and skills. Entry-level starts around €24,000, senior can reach €38,000.
-
-**问：Can foreigners immigrate to Netherlands through this occupation?**
-答：Difficult. This occupation typically does not meet the salary threshold for highly skilled migrants and is not a shortage occupation. EU citizens can move freely, but non-EU opportunities are very limited.
-
-**问：What education is required to become a textile machine operator?**
-答：Typically MBO vocational education (2-3 years) or on-the-job training. Related fields like textile technology or fashion design are helpful but not required.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

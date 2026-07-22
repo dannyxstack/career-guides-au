@@ -1,61 +1,94 @@
-# Supervisor in Plumbing, Sanitary, Heating and Air Conditioning（Supervisor in Plumbing, Sanitary, Heating and Air Conditioning）职业分析 · DE
+# Supervisor in Plumbing, Sanitary, Heating and Air Conditioning — career analysis · Germany
 
-**职业代码：3429 – Supervisor in Plumbing, Sanitary, Heating and Air Conditioning。**
+**Occupation code: 3429 (KldB)**
 
-Supervises installation and maintenance teams in plumbing, sanitary, heating and air conditioning, ensuring compliance with technical standards and customer requirements.
+Responsible for overseeing installation and maintenance teams in the fields of piping, sanitation, heating, and air conditioning technology, ensuring projects meet technical specifications and client requirements.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期间有津贴） |
-| 技术员进修 | 2年（全日制） | $4,000~$15,000（部分州有学费资助） |
+| Dual vocational training | 3.5 years | $0~$500 (Allowance during training) |
+| Technician further training | 2 years (full-time) | $4,000~$15,000 (Some states offer tuition assistance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制职业毕业证书 | 德国工商业协会（IHK） | 必备 | 基础要求，需完成3.5年培训并通过考试 |
-| 技术员（Handwerksmeister或Techniker） | 德国手工业协会（HWK）或国家认可机构 | 可选 | 主管职位通常要求此资质 |
-| 资质认证（Anerkennung） | 德国各联邦州主管机构 | 必备 | 第三国学历需通过等效性评估 |
+| Dual vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Basic requirement: complete 3.5 years of training and pass the exam |
+| Qualification recognition (Anerkennung) | Competent authorities of the German federal states | Required | Qualifications from third countries require equivalence assessment. |
+| Technician (Handwerksmeister or Techniker) | German Chamber of Crafts (HWK) or nationally recognized body | Optional | Supervisory positions usually require this qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 50,000。德国能源转型推动供暖系统更新，加之建筑节能法规趋严，该职业需求持续增长。老龄化导致技术工人短缺，主管岗位缺口明显。
+**Job demand: very high (★★★★½).** National workforce approx. 50,000. Germany's energy transition is driving heating system updates, coupled with stricter building energy efficiency regulations, leading to continued demand for this occupation. Aging population results in a shortage of skilled workers, with notable gaps in supervisory roles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 取决于地区和公司规模 |
-| 中级（3-7年） | $43,000~$52,000 | 通常已取得主管职位 |
-| 高级（7年以上） | $53,000~$65,000 | 包括大型项目负责人或技术经理 |
+| Median salary | $46,332 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Depends on region and company size. |
+| Mid-level (3–7 years) | $43,000~$52,000 | Usually already holds a supervisory position |
+| Senior (7+ years) | $53,000~$65,000 | Including large project leaders or technical managers |
+| average salary | $49,272 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从熟练技工晋升为项目主管，再至技术经理或自营企业主。继续教育如能源顾问或技术员资质可拓宽晋升路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
+
+Can progress from skilled tradesperson to project supervisor, then to technical manager or self-employed business owner. Continuing education such as energy consultant or technician qualifications can broaden career paths.
+
+**Tasks most exposed to AI:**
+
+- Standard pipe layout design: AI automatically generates optimized pipe routes based on building blueprints
+- Document and compliance checks: AI reviews drawings and specs, auto-generates compliance reports
+- Inventory and logistics scheduling: AI predicts parts demand and arranges delivery
+- Remote fault preliminary diagnosis: AI identifies common blockages or leaks via sensor data
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AR overlays AI analysis of thermal imaging/sonic data to pinpoint hidden leaks
+- Construction planning and collaboration: real-time update of pipe conflict detection and process optimization using AI+BIM models
+- Customer communication and quoting: AI chatbots record requirements and generate 3D visual quotes
+- Continuous learning and compliance: AI personalizes recommendations for new regulations and training videos
+
+**Human moat:**
+
+- On-site manual operations: performing fine physical work like welding and cutting in confined spaces
+- Safety and compliance responsibility: Legally liable for statutory safety acceptance of water and gas pipelines
+- Non-standard problem solving: improvisational modification skills for old houses and non-standard materials
+- On-site customer trust: direct communication with clients, calming emotions, providing reliable service
+
+**Skills to build:**
+
+- BIM and building modeling software operation (e.g., Revit)
+- Use and data interpretation of AR-assisted maintenance equipment
+- Pipeline intelligent monitoring system debugging and maintenance
+- Basic data analysis and collaboration with AI tools
+- Cross-functional communication and project coordination skills
+- Installation of renewable energy plumbing systems (e.g., solar hot water, heat pumps)
+
+**Key growth areas:**
 
 - Energy transition
 - Green building
@@ -64,69 +97,68 @@ Supervises installation and maintenance teams in plumbing, sanitary, heating and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历或同等资质，年薪门槛约43,800欧元（2024年） |
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于双元制培训合格者，需德国认可的职业资格 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职者签证，2024年实施 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree or equivalent qualification, salary threshold about 43,800 euros (2024) |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to qualified dual-system trainees, requires German-recognized vocational qualifications |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based visa for job seekers, implemented in 2024 |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor in Plumbing, Sanitary, Heating and Air Conditioning？**
-- 动手能力强，喜欢技术工作
-- 有团队管理经验或潜力
-- 愿意接受继续教育以提升资质
-
-**谁不适合学Supervisor in Plumbing, Sanitary, Heating and Air Conditioning？**
-- 不喜欢户外或现场工作
-- 对行政和文件工作无兴趣
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on and enjoys technical work
+- Team management experience or potential
+- Willing to pursue continuing education to enhance qualifications
+
+**Who is not suited**
+- Dislikes outdoor or on-site work
+- No interest in administrative and paperwork tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Junior supervisor annual salary is about 35,000-42,000 euros, senior can reach 65,000 euros. Salary varies by region and company size, with southern states such as Bavaria typically higher.
+
+**Q: How can foreigners enter this occupation?**
+A: Must undergo German professional qualification recognition (Anerkennung) to certify equivalence of degree or training. If holding a university degree, can apply for EU Blue Card; those completing dual-system training can use the skilled immigration path.
+
+**Q: What are the career development opportunities?**
+A: Can advance to technical manager, self-employed business owner, or become an energy consultant, technician, etc. through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Supervisor in Plumbing, Sanitary, Heating and Air Conditioning为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level supervisors earn around €35,000-42,000 annually, while senior positions can reach €65,000. Salaries vary by region and company size.
-
-**问：How can foreigners enter this occupation?**
-答：You need to have your qualifications recognized (Anerkennung). University graduates can apply for EU Blue Card; those with dual vocational training can use the Skilled Immigration Act.
-
-**问：What are the career advancement opportunities?**
-答：You can advance to technical manager, self-employed business owner, or further train as energy consultant or technician.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

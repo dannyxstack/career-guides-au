@@ -1,60 +1,94 @@
-# Airline Pilot（Airline Pilot）职业分析 · 新西兰
+# Airline Pilot — career analysis · New Zealand
 
-**职业代码：231111 – Airline Pilot。**
+**Occupation code: 231111 (ANZSCO)**
 
-Pilots operate commercial, cargo or private aircraft. NZ faces pilot shortage, offering Green List and SMC migration routes.
+Operate commercial, cargo, or private aircraft to perform tasks; it is a high-tech/high-entry-barrier occupation. There is a clear shortage of pilots in New Zealand, and immigration is possible through the Green List and SMC skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 航线运输飞行员执照（ATPL）课程 | 2年 | $80,000~$120,000（全自费，含飞行小时费） |
-| 航空管理本科文凭 | 3年 | $50,000~$80,000（大学学费，不含飞行训练） |
+| Airline Transport Pilot License (ATPL) course | 2 years | $80,000~$120,000 (Fully self-funded, including flight hour fees) |
+| Aviation management undergraduate diploma | 3 years | $50,000~$80,000 (University tuition, excludes flight training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商用飞行员执照（CPL） | 新西兰民航局（CAA） | 必备 | 必须持有，含多发仪表等级 |
-| 航线运输飞行员执照（ATPL） | 新西兰民航局（CAA） | 必备 | 担任机长必需 |
-| 一级体检合格证 | CAA指定航空体检医生 | 必备 | 每年更新 |
-| ICAO 4级英语水平 | CAA认可机构 | 必备 | 口语与理解 |
+| Commercial pilot license (CPL) | Civil Aviation Authority of New Zealand (CAA) | Required | Must hold, including multi-engine instrument rating |
+| Airline Transport Pilot License (ATPL) | Civil Aviation Authority of New Zealand (CAA) | Required | Required for Airline Captain |
+| First-class medical certificate | CAA Designated Aviation Medical Examiner | Required | Updated annually |
+| ICAO Level 4 English proficiency | CAA recognized institution | Required | Speaking and comprehension |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,500。新西兰航空业持续增长，国内及国际航线恢复带动飞行员需求旺盛，尤其是区域航线和包机服务。老龄化导致退休增加，新人补充不足，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. New Zealand's aviation industry continues to grow; domestic and international route recovery drives strong demand for pilots, especially for regional routes and charter services. Aging leads to increased retirements and insufficient new recruits, resulting in good employment prospects.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（副驾驶，0-3年） | $45,000~$70,000 | 区域航空公司 |
-| 中级（副驾驶/机长，4-10年） | $80,000~$140,000 | 国内主要航线 |
-| 高级（机长/教员，10年以上） | $150,000~$250,000 | 国际航线及包机公司 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Junior (Co-pilot, 0-3 years) | $45,000~$70,000 | Regional airline |
+| Mid-level (co-pilot/captain, 4-10 years) | $80,000~$140,000 | Major domestic routes |
+| Senior (captain/instructor, 10+ years) | $150,000~$250,000 | International airlines and charter companies |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初始为副驾驶（First Officer），积累小时数后可晋升机长（Captain），再可担任检查员或管理职务。也可向航空培训或监管方向转型，职业路径比较明确。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Start as First Officer, progress to Captain after accumulating hours, then become Check Pilot or management. Also possible to transition to aviation training or regulation roles—career path is clear.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +97,67 @@ Pilots operate commercial, cargo or private aircraft. NZ faces pilot shortage, o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 符合绿色清单第一类要求，获得认证雇主offer后可立即申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，注册职业加3分，工作经验等累积，满足6分可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，最长3年，满足条件可转居留 |
+| Subclass Green List T1 (Straight to Residence) | Meets Green List first-tier requirements; can apply for residence immediately after receiving a job offer from an accredited employer |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation adds 3 points, work experience accumulated; meeting 6 points allows application |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years, can transition to residence if conditions met |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airline Pilot？**
-- 具有商业航空执照或ATPL培训背景者
-- 热爱飞行并愿投入高昂培训费用者
-- 能适应不规律作息与严格身体标准者
-
-**谁不适合学Airline Pilot？**
-- 恐高或身体不达标者
-- 不愿承担高昂培训资金风险者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with commercial aviation license or ATPL training background
+- Those who love flying and are willing to invest high training costs
+- Those who can adapt to irregular schedules and strict physical standards
+
+**Who is not suited**
+- People with fear of heights or physical limitations
+- People unwilling to bear high training costs and risks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for pilots in New Zealand?**
+A: Entry-level first officer about NZD 50,000-70,000, mid-level 80,000-140,000, senior captain 150,000-250,000+. Salary varies significantly by airline, aircraft type, and experience; regional airlines are lower, international routes higher.
+
+**Q: Is it difficult for pilots to apply for skilled migration to New Zealand?**
+A: Relatively easy. Pilots are on Green List Tier 1; with a certified employer offer, can directly apply for residence. But must hold CAA-recognized license and Class 1 medical certificate, language requirement IELTS 6.5.
+
+**Q: Does New Zealand recognize overseas flight licenses?**
+A: Partial recognition. Licenses from ICAO member states (e.g., China) require conversion exams and flight tests through New Zealand CAA, a cumbersome process. It's recommended to first obtain an ATPL or CPL conversion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 很高（★★★★★） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Airline Pilot的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pilots in NZ?**
-答：First officers earn NZD 50k-70k, senior captains NZD 150k-250k+. Varies by airline and experience.
-
-**问：Is it difficult for pilots to migrate to NZ?**
-答：Relatively easy: pilots are on Green List Tier 1; with an accredited employer job offer, you can apply for residence. Must hold CAA license and Class 1 medical.
-
-**问：Does NZ recognise overseas pilot licences?**
-答：Partially. Licences from ICAO states need conversion exams and flight tests with CAA. Recommend to obtain ATPL or CPL conversion.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

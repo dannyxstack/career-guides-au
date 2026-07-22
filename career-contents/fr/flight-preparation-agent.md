@@ -1,59 +1,95 @@
-# Flight Preparation Agent（Flight Preparation Agent）职业分析 · FR
+# Flight Preparation Agent — career analysis · France
 
-**职业代码：N2204 – Flight Preparation Agent。**
+**Occupation code: N2204 (ROME)**
 
-Responsible for pre-flight preparations including flight planning, load and balance calculation, fuel and catering arrangement, ensuring flight safety and efficiency.
+Responsible for all pre-departure preparations, including flight planning, load balance calculations, fuel and meal arrangements, ensuring flight safety and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业后 | 2年（BTS） | $500~$2,000（公立学校学费低，私校约2000-5000欧元/年） |
-| 大学本科 | 3年（Licence） | $500~$3,000（公立大学学费约170欧元/年，私立商学院较高） |
+| After graduating from high school | 2 Years (BTS) | $500~$2,000 (Public school tuition is low; private schools about EUR 2,000-5,000 per year) |
+| University bachelor's degree | 3 years (Licence) | $500~$3,000 (Tuition at public universities is about 170 euros per year, while private business schools are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Aéronautique（航空技术文凭） | 法国教育部 | 必备 | 常见入门文凭，含飞行准备模块 |
-| CQP Agent d'exploitation aéroportuaire（机场运营资格证） | 专业认证机构 | 可选 | 部分岗位要求 |
-| Licence professionnelle Métiers de l'aéronautique（航空职业本科） | 大学 | 可选 | 可提升竞争力 |
+| BTS Aéronautique (Aviation Technology Diploma) | French Ministry of Education | Required | Common introductory diplomas with flight preparation modules |
+| CQP Agent d'exploitation aéroportuaire (Airport Operation Qualification Certificate) | Professional certification bodies | Optional | Some positions require |
+| Licence professionnelle Métiers de l'aéronautique (Aviation Undergraduate) | University | Optional | Can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。法国航空运输业稳步增长，航班准备员需求稳定。受航空旅行复苏及新航线开通影响，预计未来几年就业机会小幅增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. France's air transport industry is steadily growing, with stable demand for flight preparers. Driven by the recovery of air travel and the opening of new routes, employment opportunities are expected to increase slightly in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含主管岗位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual salary before tax, including supervisor positions |
+| average salary | $34,266 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级航班准备员晋升为高级准备员、团队主管或调度经理。积累经验后可转向航空公司运营控制中心或机场管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of flight preparers involves extensive data processing and coordination tasks. AI can significantly improve efficiency, but its core responsibilities involve security, compliance, and real-time decision-making, making full automation difficult in the short term. The overall risk for the position is moderate to low, and the entry threshold may be slightly raised.
+
+Advance from junior flight preparer to senior preparer, team leader, or dispatch manager. After gaining experience, you can move on to positions in airline operations control centers or airport management.
+
+**Tasks most exposed to AI:**
+
+- Basic data entry and formatting for flight plans
+- Routine load balancing calculations and trimming operations
+- Standardized fuel demand calculation and order generation
+- Automatic ordering and verification of logistics supplies such as meals
+- Automatic generation and distribution of routine reports and documents
+
+**Where AI augments the role:**
+
+- Optimize flight plans (such as weather routes) with AI predictive models
+- AI-assisted real-time load balance adjustment and abnormal alerts
+- AI analyzes historical data to optimize fuel capacity
+- AI coordinates multi-department tasks (such as ground staff, fueling, meal preparation)
+- AI-generated flight preparation summaries and risk alerts
+
+**Human moat:**
+
+- Decision-making ability to handle non-standard situations (such as mechanical failures or temporary route changes).
+- Communication and coordination with stakeholders such as pilots, controllers, and ground staff
+- In-depth understanding of safety regulations and compliance assessments
+- Under time pressure, weigh and decide on multiple options
+- Assume legal responsibility and ultimate responsibility for safety audits
+
+**Skills to build:**
+
+- Advanced analysis of aircraft performance data and load balance
+- Operation and validation of AI tools (such as predictive models and automatic scheduling systems).
+- Data visualization and anomaly detection skills
+- Updated knowledge of aviation safety regulations and emergency procedures
+- Cross-departmental communication and conflict resolution skills
+- Basic programming skills (such as automating repetitive tasks with Python scripts)
+
+**Key growth areas:**
 
 - Air travel growth
 - Flight safety regulations
@@ -62,68 +98,67 @@ Responsible for pre-flight preparations including flight planning, load and bala
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国航空相关公司，由雇主担保的工作居留 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适合高技能人才，如持有硕士以上学历或高级职位 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪≥53,836.50欧元（2024年标准），通常高级岗位达标 |
+| Subclass Salarié (Salarié (Employee)) | Employer-sponsored work residency employed by Air France-related companies |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as those with a master's degree or above, or senior positions |
+| Subclass Carte bleue UE (EU Blue Card) | Requires annual salary ≥ €53,836.50 (2024 standard), usually met by senior positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Flight Preparation Agent？**
-- 注重细节、有条理的人
-- 对航空业有热情，能适应轮班工作
-- 具备良好沟通能力和团队协作精神
-
-**谁不适合学Flight Preparation Agent？**
-- 不喜欢重复性、规律性工作的人
-- 无法承受夜间或节假日轮班压力者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized person
+- Passionate about the aviation industry and able to adapt to shift work
+- Possess good communication skills and team spirit
+
+**Who is not suited**
+- People who dislike repetitive or regular work
+- Those who cannot handle the pressure of night or holiday shifts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for flight attendants in France?**
+A: Entry-level is about 22,000-28,000 euros per year, intermediate 28,000-35,000 euros per year, and advanced up to 45,000 euros per year.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: You can apply for Salarié work residence through employer sponsorship, or apply for an EU Blue Card or Talent Passport if you meet the high salary requirements. French must be at least B1 level.
+
+**Q: What educational background is required to become a flight attendant?**
+A: Usually, a BTS Aéronautique or a relevant aviation diploma is required. Some employers accept Licence professional undergraduate programs. Apprenticeship is also a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Flight Preparation Agent的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for flight preparation agents in France?**
-答：Entry-level around €22,000-28,000/year, mid-level €28,000-35,000/year, senior up to €45,000/year.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Apply for a Salarié work permit with employer sponsorship, or EU Blue Card/Talent Passport if meeting salary thresholds. French B1 level required.
-
-**问：What education is needed to become a flight preparation agent?**
-答：Typically a BTS Aéronautique or related aviation diploma. Some employers accept a Licence professionnelle. Apprenticeship is also common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

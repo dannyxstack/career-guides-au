@@ -1,61 +1,97 @@
-# Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers（Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers）职业分析 · ES
+# Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers — career analysis · Spain
 
-**职业代码：7705 – Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers。**
+**Occupation code: 7705 (CNO)**
 
-Workers involved in preserving fruits and vegetables and producing non-alcoholic beverages, performing tasks like washing, cutting, canning, sterilizing, and packaging.
+Workers engaged in processing canned fruits and vegetables and producing non-alcoholic beverages (such as juices and soft drinks) are involved in cleaning, cutting, canning, sterilization, packaging, and other operations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育（ESO） | 4年（ESO） | —（公立学校免费） |
-| 中级职业培训（FP Grado Medio） | 2年 | $300~$1,000（公立FP学费较低，私立稍高） |
-| 高级职业培训（FP Grado Superior） | 2年 | $400~$1,200（可选食品技术方向） |
+| Secondary Education (ESO) | 4 years (ESO) | $0~$0 (Free public schools.) |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $300~$1,000 (Public FP tuition is lower, while private schools are slightly higher) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $400~$1,200 (Optional food technology direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品处理操作员证书 | 西班牙职业培训机构（FP） | 可选 | 非强制，但有助于就业 |
-| 食品卫生与安全课程 | 各自治区卫生部门 | 可选 | 部分企业要求 |
+| Food Handling Operator Certificate | Spanish Vocational Training Institution (FP) | Optional | Not mandatory, but helpful for employment |
+| Food hygiene and safety courses | Health departments of all autonomous regions | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 35,000。西班牙农业食品工业是经济重要支柱，该职业需求相对稳定，但受季节和自动化影响。未来趋势偏向技术升级，传统岗位可能减少。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Spain's agri-food industry is a key pillar of the economy, with relatively stable demand but influenced by seasonality and automation. The future trend is toward technological upgrades, with traditional positions possibly decreasing.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 按14薪计算 |
-| 中级（3-7年） | $19,000~$23,000 | 含技能津贴 |
-| 高级（7年以上/主管） | $23,000~$28,000 | 主管或技术员级别 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Calculated at 14 months' salary |
+| Mid-level (3–7 years) | $19,000~$23,000 | Including skill allowance |
+| Senior (7+ years/supervisor) | $23,000~$28,000 | Supervisor or technician level |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级操作员晋升为生产线组长、质量控制员或生产主管。通过参加FP相关课程（如食品加工技术）可提升技能，转向管理或技术岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI automation will significantly reduce the job demand for processing workers in fruit and vegetable cans and non-alcoholic beverages. Repetitive assembly line operations (such as grading, bottling, packaging) are most easily replaced, but equipment maintenance and quality control still require manpower.
+
+Promotion from junior operator to production line leader, quality controller, or production supervisor. By taking FP-related courses (such as food processing technology), you can enhance your skills and transition into management or technical positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic optical sorting systems replace manual visual grading and defect inspection
+- Intelligent can filling robots replace manual filling and sealing operations
+- Automated continuous sterilization lines replace traditional batch sterilization monitoring
+- AGV automatic handling replaces the warehouse handling of raw materials and finished products
+- The visual label system automatically completes labeling and date printing
+
+**Where AI augments the role:**
+
+- The AI quality inspection system assists workers in quickly locating abnormal batches and improving sampling efficiency
+- The digital twin platform helps employees predict equipment failures and reduce downtime
+- The MES system displays real-time production data, empowering workers to perform precise process optimization
+- Collaborative robots handle heavy loads, reducing worker labor intensity and improving safety
+- AI formula optimization tools assist R&D staff in debugging new product flavors and shelf life
+
+**Human moat:**
+
+- Rapid diagnosis of equipment abnormalities and on-site emergency response capabilities
+- Hands-on ability to coordinate across equipment and temporarily renovate production lines
+- In-depth understanding of food safety regulations and compliance assessments
+- Teamwork and on-site command of unexpected issues (such as batch spoilage of raw materials).
+- Flexible scheduling experience during seasonal raw material fluctuations
+
+**Skills to build:**
+
+- Basic programming of automatic control and PLC
+- Industrial robot operation and fault code interpretation
+- Use of food production management software (such as SAP and MES).
+- Knowledge of food safety standards and HACCP systems
+- Basic data analysis (such as advanced Excel applications, Python data processing)
+- Lean production and process optimization methods
+
+**Key growth areas:**
 
 - Food processing
 - Automation
@@ -64,65 +100,67 @@ Workers involved in preserving fruits and vegetables and producing non-alcoholic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (employed)） | 需雇主提供工作合同，并证明职位无法在欧盟市场填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙寻找工作，但该职业移民难度大，不推荐。 |
+| Subclass Cuenta ajena (Work Permit (employed)) | The employer must provide a work contract and prove that the position cannot be filled in the EU market. |
+| Subclass Busqueda empleo (Job Search Visa) | Allowed to seek employment in Spain, but this occupation is difficult for immigration and not recommended. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers？**
-- 愿意从事体力劳动且不介意重复性工作的人
-- 希望快速进入劳动力市场、无需高等教育背景的人
-- 居住在农业食品工业发达地区（如穆尔西亚、安达卢西亚）的人
+**Who is suited**
+- People willing to do physical labor and don't mind repetitive work
+- Those who want to quickly enter the workforce without a higher education background
+- People living in regions with developed agri-food industries (such as Murcia, Andalusia).
 
-**谁不适合学Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers？**
-- 希望高薪或职业晋升空间大的人
-- 担心工作受自动化影响的人
+**Who is not suited**
+- Those who want high salaries or significant career advancement opportunities
+- People worried about their jobs being affected by automation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of this occupation?**
+A: Entry-level annual salary about €16,000-19,000, mid-level €19,000-23,000, senior supervisor up to €28,000. Salary paid over 14 months.
+
+**Q: Can non-EU immigrants obtain Spanish residency through this occupation?**
+A: It's very difficult. This occupation is not considered high-skilled or in short supply; immigration requires employer sponsorship and proof that the position cannot be filled by EU citizens. It is recommended to consider other, higher-skilled professions.
+
+**Q: What educational background is needed for this occupation?**
+A: Usually only compulsory education (ESO) required, but completing FP vocational training (intermediate or advanced) in food processing boosts job opportunities and advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fruit and Vegetable Preservers and Non-Alcoholic Beverage Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is about €16,000-19,000, mid-level €19,000-23,000, and senior supervisors up to €28,000, paid in 14 installments.
-
-**问：Can non-EU immigrants obtain Spanish residency through this occupation?**
-答：Very difficult. This occupation is not considered high-skilled or in shortage. Migration requires employer sponsorship and proof that no EU citizen can fill the position. Consider other more skilled occupations.
-
-**问：What educational background is needed?**
-答：Usually only compulsory education (ESO) is required, but completing FP vocational training in food processing (intermediate or advanced) can improve job prospects and promotion opportunities.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

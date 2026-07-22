@@ -1,61 +1,97 @@
-# Home-based Personal Care Worker（Home-based Personal Care Worker）职业分析 · IE
+# Home-based Personal Care Worker — career analysis · Ireland
 
-**职业代码：5322 – Home-based Personal Care Worker。**
+**Occupation code: 5322 (ISCO08)**
 
-Home-based Personal Care Workers provide daily living assistance to elderly, disabled or chronically ill individuals, including personal hygiene, medication reminders and companionship, forming the backbone of Ireland's long-term care system.
+In-home personal carers provide daily living care for the elderly, disabled, or chronically ill, including personal hygiene, medication reminders, and companionship, and are a core force in Ireland's long-term care system.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 3年（高中） | —（公立教育免费） |
-| 护理相关短期培训证书 | 3-6个月 | $500~$1,500（由FETAC或QQI认证） |
+| High school diploma or equivalent | 3 years (high school) | $0~$0 (Public education is free) |
+| Nursing-related short-term training certificate | 3-6 months | $500~$1,500 (Certified by FETAC or QQI) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| QQI护理技能证书（5级） | QQI（Quality and Qualifications Ireland） | 必备 | 大部分雇主要求持有此证书 |
-| 急救证书 | 爱尔兰红十字会或类似机构 | 必备 | 通常为雇佣条件之一 |
-| 手动处理培训 | 雇主或培训机构 | 必备 | 法规要求，保护护理员与客户安全 |
+| QQI Care Skills Certificate (Level 5) | QQI（Quality and Qualifications Ireland） | Required | Most employers require this certificate |
+| First aid certificate | Irish Red Cross or similar organization | Required | Usually a condition of employment |
+| Manual handling training | Employer or training provider | Required | Regulatory requirements protect the safety of caregivers and clients |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。爱尔兰人口老龄化加剧，居家护理需求持续增长。政府推出的“Fair Deal”计划和社区支持计划推动岗位增加。预计未来五年就业增长20%以上。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Ireland's aging population is intensifying, with growing demand for home care. Government 'Fair Deal' and community support schemes are driving job growth. Employment is expected to increase by over 20% in the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，时薪约€11-13 |
-| 中级（3-6年） | $26,000~$30,000 | 税前年薪，含经验补贴 |
-| 高级（6年以上或主管） | $30,000~$35,000 | 税前年薪，可能包括管理职责或夜班补贴 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, hourly wage approx. €11-13 |
+| Mid-level (3–6 years) | $26,000~$30,000 | Annual salary before tax, including experience allowance |
+| Senior (6+ years or supervisory) | $30,000~$35,000 | Pre-tax annual salary, may include management duties or night shift allowances |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级护理员可通过积累经验晋升为高级护理员或团队主管；部分可考取健康护理助理证书后进入医院或养老院，或深造成为社会护理员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of home personal care workers such as bathing and emotional companionship are hard to replace, but documentation, medication reminders and scheduling will be greatly enhanced by AI tools, shifting the role towards technology-assisted care.
+
+Entry-level care workers can progress to senior care workers or team leaders through experience; some may obtain a healthcare assistant certificate to enter hospitals or nursing homes, or further study to become social care workers.
+
+**Tasks most exposed to AI:**
+
+- Paper-based nursing records and electronic spreadsheet entry
+- Basic medication time reminders and dosage checks
+- Care scheduling and daily optimization
+- Text analysis of customer emotional states
+- Generation of simple health data trend reports
+
+**Where AI augments the role:**
+
+- Personalized medication reminders and health Q&A via AI voice assistant
+- Use wearable devices to monitor vital signs in real-time and alert abnormalities
+- AI assists in formulating personalized daily activity and cognitive training plans
+- Smart home sensor linked automatic emergency call service
+- AI-driven remote doctor collaboration and automatic summary of records
+
+**Human moat:**
+
+- Offering emotional comfort and companionship
+- Handle sudden behavioral abnormalities (e.g., agitation in dementia patients).
+- Identifying subtle needs in personal hygiene care
+- Build long-term trusting relationships
+- Flexibly handling unstructured scenarios on-site
+
+**Skills to build:**
+
+- Basic data analysis and health report interpretation
+- Using nursing management software and AI assistants
+- Operation of remote medical collaboration tools
+- Communication and emotional intelligence enhancement
+- Smart Home Health Device Commissioning and Maintenance
+- Mental health first aid techniques.
+
+**Key growth areas:**
 
 - aging population
 - home care expansion
@@ -64,65 +100,67 @@ Home-based Personal Care Workers provide daily living assistance to elderly, dis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit (GEP)） | 适用于年薪低于€64,000的非EEA护理员，需雇主担保，配额有限。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit (CSEP)） | 仅适用于高级或管理岗位，年薪€64,000以上，可获得快速居留。 |
+| Subclass General Employment P (General Employment Permit (GEP)) | Applicable to non-EEA carers earning less than €64,000 per year, requires employer sponsorship, limited quota. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit (CSEP)) | Applicable only to senior or management positions with an annual salary above €64,000, eligible for fast-track residence. |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Home-based Personal Care Worker？**
-- 有耐心、喜欢与人打交道，尤其是老年人或弱势群体
-- 愿意接受灵活排班（包括周末和夜班）
-- 具备基本护理技能或愿意接受培训者
+**Who is suited**
+- Patient, enjoys interacting with people, especially the elderly or vulnerable groups
+- Willing to work flexible shifts (including weekends and night shifts)
+- Those with basic caregiving skills or willingness to undergo training
 
-**谁不适合学Home-based Personal Care Worker？**
-- 对体力劳动或处理个人卫生事宜有抵触
-- 追求高薪或快速职业晋升者
+**Who is not suited**
+- Reluctance to engage in manual labor or handle personal hygiene tasks
+- Those seeking high salary or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for home care workers?**
+A: Junior caregiver annual salary approximately €22,000-26,000; senior or supervisor can reach €30,000-35,000. Hourly wage typically €11-13, with public subsidies providing additional support.
+
+**Q: Can non-EU citizens immigrate to Ireland through this occupation?**
+A: Yes, but the main pathway is the General Employment Permit, which requires meeting a minimum salary threshold and has limited quotas. The Critical Skills Permit is only for senior roles. Care workers are not on the critical skills list.
+
+**Q: What certificates are required to work in this occupation?**
+A: Typically requires QQI Level 5 Care Certificate, First Aid certificate, and manual handling training. Some employers provide in-house training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Home-based Personal Care Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for home care workers?**
-答：Entry-level carers earn around €22,000-26,000 annually; senior roles reach €30,000-35,000. Hourly wages are €11-13, with public subsidies available.
-
-**问：Can non-EU citizens immigrate through this occupation?**
-答：Yes, mainly via General Employment Permit with salary threshold and quota limits. Critical Skills Permit is for senior roles only. Carer is not on the Critical Skills list.
-
-**问：What certifications are required for this job?**
-答：Usually QQI Level 5 Care Skills, First Aid, and Manual Handling training. Some employers offer in-house training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

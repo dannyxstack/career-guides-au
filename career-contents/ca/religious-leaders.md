@@ -1,59 +1,91 @@
-# Religious leaders（Religious leaders）职业分析 · 加拿大
+# Religious leaders — career analysis · Canada
 
-**职业代码：41302 – Religious leaders。**
+**Occupation code: 41302 (NOC)**
 
-Religious leaders conduct worship services, provide spiritual guidance, administer religious organizations, and play a moral and spiritual leadership role in the community.
+Religious leaders are responsible for conducting religious ceremonies, providing spiritual guidance, managing religious group affairs, and serving as moral and spiritual leaders in the community.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 神学本科 | 4年 | $40,000~$80,000（学费因院校和省份差异较大） |
-| 神学硕士 | 2-3年 | $30,000~$60,000（部分宗派要求硕士学历） |
+| Bachelor of Theology | 4 years | $40,000~$80,000 (Tuition fees vary significantly by institution and province.) |
+| Master of Divinity | 2-3 years | $30,000~$60,000 (Some denominations require a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位 | 认可神学院或大学 | 必备 | 一般职位要求本科，高级职位需硕士 |
-| 宗派按立/认证 | 所属宗教团体 | 必备 | 特定宗派要求完成按立程序 |
-| 省级注册（魁北克） | 魁北克省政府 | 可选 | 魁省要求宗教领袖在指定机构注册 |
+| Theology degree | Accredited seminary or university | Required | Bachelor's degree generally required for positions; master's for senior roles |
+| Denominational ordination/certification | Religious affiliation. | Required | Specific denominations require completion of ordination procedures |
+| Provincial registration (Quebec) | Government of Quebec | Optional | Quebec requires religious leaders to register with designated bodies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。加拿大宗教领袖岗位需求相对稳定，但受信众规模影响较大。大城市多元宗教社区需求较多，乡村地区机会有限。整体就业竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Demand for religious leader roles in Canada is relatively stable but heavily influenced by congregation size. Large cities have more demand from diverse religious communities, while rural areas have limited opportunities. Overall job competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$50,000 | 小团体或助理职位 |
-| 中级（5-15年） | $50,000~$75,000 | 中型团体或资深助理 |
-| 高级（15年以上） | $75,000~$100,000 | 大型团体或全国性领导 |
+| Median salary | $57,262 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry-level (0-5 years) | $35,000~$50,000 | Small group or assistant positions |
+| Intermediate (5-15 years) | $50,000~$75,000 | Medium-sized group or senior assistant |
+| Senior (15+ years) | $75,000~$100,000 | Large group or national-level leadership. |
+| average salary | $64,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 晋升路径通常从助理/实习神职人员开始，逐步成为独立主持或大型宗教团体负责人。部分可进入宗教教育或行政岗位，少数晋升至全国性领导职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core functions of religious leaders—empathy, spiritual guidance, and trust-building—are hard for AI to replace, but AI can assist with paperwork and research; entry-level roles may shrink due to AI streamlining administration.
+
+Career path typically starts from assistant/trainee clergy, gradually becoming an independent minister or head of a large religious organization. Some move into religious education or administrative roles, with a few advancing to national leadership positions.
+
+**Tasks most exposed to AI:**
+
+- Write standard sermon scripts and religious education materials
+- Organize congregation files and event schedules
+- Basic consultation Q&A (e.g., explanation of religious rituals)
+- Data entry and statistical analysis
+
+**Where AI augments the role:**
+
+- Using AI to assist in researching scriptures and historical contexts to enhance sermon depth
+- Serving a broader congregation through multilingual translation tools
+- Use AI to generate personalized spiritual materials, enhancing congregation engagement.
+- Analyze community needs using AI to optimize outreach and charity activities.
+
+**Human moat:**
+
+- Deep empathy and emotional connection in crisis intervention.
+- Provide personalized spiritual guidance in complex moral dilemmas
+- Hosting activities with symbolic and traditional ceremonial significance
+- Building long-term trust relationships and community cohesion
+
+**Skills to build:**
+
+- Learn to use AI content creation tools (e.g., ChatGPT-assisted writing)
+- Master data analysis tools to gain insights into congregational needs (e.g., Excel/Tableau)
+- Enhancing multimedia ministry skills (video production, virtual event planning)
+- Learn online community management and digital shepherding.
+- Enhancing mental health and crisis support capabilities
+
+**Key growth areas:**
 
 - Spiritual care
 - Community service
@@ -62,68 +94,67 @@ Religious leaders conduct worship services, provide spiritual guidance, administ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 需满足工作经验、语言等要求，职业在NOC TEER 2可申请 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份省提名可能包含宗教领袖，需有雇主担保或宗教团体支持 |
-| Subclass LMIA（Labour Market Impact Assessment） | 若雇主能证明无法找到本地人，可申请LMIA工签 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Must meet work experience and language requirements; occupation in NOC TEER 2 is eligible |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations in some provinces may include religious leaders; must have employer sponsorship or religious group support. |
+| Subclass LMIA (Labour Market Impact Assessment) | If the employer can prove that no local workers are available, an LMIA work permit can be applied for. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Religious leaders？**
-- 有强烈宗教信仰和使命感的人
-- 善于沟通和公众演讲的人
-- 愿意服务社区、组织活动的人
-
-**谁不适合学Religious leaders？**
-- 对宗教缺乏兴趣或信仰不坚定的人
-- 不擅长人际交往和团队合作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong religious beliefs and sense of mission
+- People who are good at communication and public speaking.
+- People willing to serve the community and organize activities
+
+**Who is not suited**
+- People with little interest or weak faith in religion
+- People who are not good at interpersonal communication and teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for religious leaders?**
+A: Salary ranges from CAD 35,000 for entry-level to CAD 100,000 for senior roles, influenced by team size, location, and experience.
+
+**Q: Can overseas religious leaders immigrate to Canada?**
+A: Yes, but typically requires employer sponsorship or religious organization support; common through provincial nomination or LMIA work permit pathways.
+
+**Q: What qualifications do religious leaders need in Canada?**
+A: Generally requires a theology degree (Bachelor's or Master's), and some denominations require ordination. Quebec also requires provincial registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Religious leaders的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for religious leaders?**
-答：Salaries range from CAD 35,000 for entry-level to CAD 100,000 for senior positions, depending on congregation size, location, and experience.
-
-**问：Can foreign religious leaders immigrate to Canada?**
-答：Yes, but typically require employer sponsorship or religious organization support, often through PNP or LMIA work permit pathways.
-
-**问：What qualifications are needed for religious leaders in Canada?**
-答：A theology degree (bachelor's or master's) is generally required, and some denominations require ordination. Quebec also requires provincial registration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

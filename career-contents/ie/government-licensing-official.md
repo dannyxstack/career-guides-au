@@ -1,61 +1,97 @@
-# Government Licensing Official（Government Licensing Official）职业分析 · IE
+# Government Licensing Official — career analysis · Ireland
 
-**职业代码：3354 – Government Licensing Official。**
+**Occupation code: 3354 (ISCO08)**
 
-Government Licensing Officials assess and issue various permits and licenses, ensuring compliance with regulations in areas such as driving, alcohol sales, and construction.
+Government licensing officers review and issue various permits and licenses to ensure compliance, covering areas such as driving, alcohol sales, and construction.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中及以上 | 无硬性要求 | —（通常通过在职培训，部分职位要求相关文凭） |
-| 公共管理或法律文凭 | 1-2年 | $3,000~$10,000（继续教育或理工学院课程，可提升竞争力） |
+| High school diploma or above | No hard requirements. | $0~$0 (Usually through on-the-job training, some positions require relevant diplomas) |
+| Diploma in public administration or law | 1-2 years | $3,000~$10,000 (Continuing education or polytechnic courses can enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公务员资格考试 | Public Appointments Service | 必备 | 部分职位需通过公务员选拔考试 |
-| 在职培训证书 | 政府部门内部 | 必备 | 完成特定法规和流程培训 |
-| 专业认证（如环境许可） | 相关监管机构 | 可选 | 专项领域可能要求额外认证 |
+| Civil service exam | Public Appointments Service | Required | Some positions require passing the civil service selection exam |
+| On-the-job training certificate | Within government departments | Required | Complete training on specific regulations and procedures |
+| Professional Certification (e.g., environmental permits) | Relevant regulatory authorities | Optional | Specialized fields may require additional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。爱尔兰公共服务就业稳定，预计未来5年岗位需求持平。受数字化和自动化影响，部分流程可能简化，但专业审核岗位仍具韧性。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Irish public service employment is stable, demand expected to remain flat over next 5 years. Digitalisation and automation may simplify some processes, but professional audit roles remain resilient.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视具体部门和地点调整 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，主管或高级官员级别 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, adjusted by specific department and location |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, supervisor or senior official level |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从基层行政职位起步，积累法规知识和审核经验后可晋升为高级官员或主管，部分转向政策制定或专项领域（如环境许可）。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will greatly enhance efficiency in risk analysis and document processing, but law enforcement discretion, physical inspection, and public safety responsibility remain core human barriers. Customs officer roles won't disappear, but entry-level paperwork may shrink.
+
+Usually start from junior administrative roles, accumulate regulatory knowledge and auditing experience to advance to senior officer or supervisor, with some transitioning to policy development or specialised areas (e.g., environmental permits).
+
+**Tasks most exposed to AI:**
+
+- Automated data entry and preliminary customs declaration review
+- Intelligent preliminary screening of passenger X-ray images
+- Automatic release of routine cargo declarations
+- Automatic Assignment and Tracking of Risk Scoring Models
+- Automated document compliance checking
+
+**Where AI augments the role:**
+
+- AI-assisted risk analysis for quickly identifying suspicious cargo/passengers
+- Natural language processing accelerates multilingual passenger inquiries and document verification
+- Computer vision assists in identifying prohibited items (animal/plant products, drugs, etc.)
+- Intelligent prediction of invasive species risk pathways to optimize inspection strategies
+- Mobile AI tools improve on-site law enforcement information retrieval efficiency
+
+**Human moat:**
+
+- Involving discretionary powers in law enforcement such as body searches and arrests.
+- Communication and crisis management when dealing with highly emotional passengers
+- Sensory inspection of goods/passengers in physical environments (smell, touch, sight)
+- Complex legal interpretation and case-by-case discretion
+- Requires multilingual and cross-cultural understanding skills
+
+**Skills to build:**
+
+- Master AI-assisted risk analysis software (e.g., CBP Automated Targeting System)
+- Digital forensics and electronic evidence analysis
+- Cross-cultural communication and conflict mediation
+- Basic data analysis and visualization
+- Automate data processing with Python or R scripts
+- Biosafety rapid testing equipment operation
+
+**Key growth areas:**
 
 - Stable demand
 - Digital transformation
@@ -64,63 +100,65 @@ Government Licensing Officials assess and issue various permits and licenses, en
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，薪资门槛约30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育学历，年薪门槛约33,000欧元，仅适用于高技能岗位，但此类通常不满足 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 此职业通常不在紧缺清单上，一般不适用 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand, requires employer sponsorship, salary threshold around €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education degree, annual salary threshold of approximately 33,000 euros, only applicable to high-skilled positions, but such positions usually do not qualify |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on the shortage list and generally not applicable |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Government Licensing Official？**
-- 注重公共服务和法规执行者
-- 有条理、注重细节的人
-- 希望在政府机构获得稳定就业者
+**Who is suited**
+- Focus on public service and regulation enforcement
+- Organized, detail-oriented person
+- Those seeking stable employment in government agencies
 
-**谁不适合学Government Licensing Official？**
-- 追求高薪和快速晋升者
-- 偏好创新和高自由度工作者
+**Who is not suited**
+- Those pursuing high salary and rapid advancement
+- Individuals who prefer innovation and high autonomy
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for government licensing officers?**
+A: Entry-level annual income is around 28,000-35,000 euros, mid-level 35,000-45,000 euros, and senior can reach 55,000 euros. It is lower than the private sector but with good benefits.
+
+**Q: Is it easy for foreigners to immigrate to Ireland through this occupation?**
+A: Not easy. This occupation is not on the Critical Skills list; requires a General Employment Permit, employer sponsorship, and is highly competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Government Licensing Official属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Government Licensing Officials?**
-答：Entry-level annual income is about €28,000-35,000, mid-level €35,000-45,000, and senior up to €55,000. Lower than private sector but with good benefits.
-
-**问：Is it easy for foreigners to immigrate to Ireland through this occupation?**
-答：Not easy. It is not on the Critical Skills list, requires a General Employment Permit with employer sponsorship, and competition is high.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

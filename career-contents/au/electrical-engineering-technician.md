@@ -1,59 +1,95 @@
-# Electrical Engineering Technician（Electrical Engineering Technician）职业分析 · 澳大利亚
+# Electrical Engineering Technician — career analysis · Australia
 
-**职业代码：312312 – Electrical Engineering Technician。**
+**Occupation code: 312312 (ANZSCO)**
 
-Electrical Engineering Technicians assist electrical engineers in designing, testing, installing, and maintaining electrical systems and equipment, working in power distribution, control systems, and industrial automation. Steady demand in Australian construction, manufacturing, and energy sectors.
+Electrical engineering technicians assist electrical engineers in designing, testing, installing, and repairing electrical systems and equipment, covering power distribution, control systems, industrial automation, etc. Demand is stable in Australia's construction, manufacturing, and energy sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 进阶文凭/副学士学位 | 2年 | $20,000~$30,000（TAFE或私立学院，国际生学费约AUD20,000-30,000/年） |
-| 本科（电气工程） | 4年 | $35,000~$45,000（大学本科，国际生学费约AUD35,000-45,000/年） |
+| Advanced diploma/associate degree | 2 years | $20,000~$30,000 (TAFE or private college, international student tuition approximately AUD 20,000-30,000/year) |
+| Bachelor's degree (Electrical Engineering) | 4 years | $35,000~$45,000 (Bachelor's degree, international tuition approximately AUD 35,000-45,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气工程技术进阶文凭 | TAFE NSW / Box Hill Institute等 | 必备 | 大部分雇主要求；可通过TAFE获得 |
-| 澳洲技能评估（Engineers Australia） | Engineers Australia | 必备 | 移民必须通过EA技能评估，需符合工程助理职业要求 |
-| 电工执照（部分岗位要求） | 各州监管机构（如NSW Fair Trading） | 可选 | 如涉及实际接线，可能需要电工执照 |
+| Advanced Diploma of Electrical Engineering Technology | TAFE NSW / Box Hill Institute, etc. | Required | Required by most employers; can be obtained through TAFE |
+| Australian Skills Assessment (Engineers Australia) | Engineers Australia | Required | Migrants must pass an EA skills assessment and meet the occupational requirements for Engineering Associate |
+| Electrician license (required for some positions) | State regulatory bodies (e.g., NSW Fair Trading) | Optional | May require an electrician license if involving actual wiring |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,200。澳洲电气工程技术员就业前景稳定，受可再生能源和基础设施项目驱动。未来五年全国预计年增长约 2%，新州、维州和昆州需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 13,200. The employment outlook for electrical engineering technicians in Australia is stable, driven by renewable energy and infrastructure projects. National growth is estimated at about 2% annually over the next five years, with strong demand in NSW, VIC, and QLD.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 含养老金前，取决于地区和雇主 |
-| 中级（3-6年） | $75,000~$95,000 | 含养老金前，经验丰富者可达更高 |
-| 高级（6年以上） | $95,000~$120,000 | 含养老金前，主管或专家岗位更高 |
+| Median salary | $148,408 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Before superannuation, depends on region and employer |
+| Mid-level (3–6 years) | $75,000~$95,000 | Before superannuation, experienced professionals can earn higher |
+| Senior (6+ years) | $95,000~$120,000 | Before pension, higher for supervisor or expert positions |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从助理技术员开始，积累经验后可晋升为高级技术员、团队主管；也可转向电气工程设计或项目管理岗位，或进一步深造成为电气工程师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of electrical engineering technician has mixed prospects: AI and automation will take over some design calculations, test data analysis, etc., but demand for on-site installation and commissioning, fault diagnosis, and interpersonal coordination increases, shifting responsibilities to higher value.
+
+Typically start as assistant technician, progress to senior technician or team lead with experience; can also transition to electrical engineering design or project management, or further study to become an electrical engineer.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to draw electrical schematics and wiring diagrams
+- Electrical load calculations and wire sizing according to standard formulas
+- Generate test reports and compliance documents
+- Preliminary screening and classification of fault data
+- Repetitive instrument calibration and simple parameter adjustments.
+
+**Where AI augments the role:**
+
+- Quickly generate and optimize electrical control plans using AI tools
+- Using digital twins for system simulation and fault prediction
+- Using natural language processing to quickly retrieve fault codes from technical manuals
+- Using computer vision to assist in verifying wiring correctness and device status
+- High-precision wiring tasks performed by collaborative robots
+
+**Human moat:**
+
+- Intuitive judgment and multi-factor comprehensive diagnosis for complex on-site faults
+- Cross-role coordination and communication with clients, engineers, construction workers, etc.
+- Handling non-standard, temporary, or outdated system modifications and maintenance
+- Make final decisions within safety regulations and ethical frameworks
+- Creative problem-solving for compatibility issues in new integrated systems
+
+**Skills to build:**
+
+- PLC and SCADA programming and commissioning
+- Basic data analysis and automation scripts in Python/R
+- Power system simulation software (e.g., ETAP, DIgSILENT)
+- Read and apply Australian electrical safety standards (e.g., AS/NZS 3000)
+- Industrial IoT device configuration and basic network security
+- AI-assisted design tools (such as AutoCAD AI plugins)
+
+**Key growth areas:**
 
 - Renewable Energy
 - Infrastructure
@@ -62,69 +98,68 @@ Electrical Engineering Technicians assist electrical engineers in designing, tes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Subclass 482)） | 雇主担保签证，需有符合条件的雇主和职业在CSOL上，可转186永居 |
-| Subclass 186（Employer Nomination Scheme (Subclass 186)） | 雇主直接担保永居，需职业在MLTSSL或CSOL上 |
-| Subclass 189（Skilled Independent (Subclass 189)） | 技术独立移民，需职业在MLTSSL上，通过SkillSelect打分 |
-| Subclass 190（Skilled Nominated (Subclass 190)） | 州担保技术移民，获得州提名后加5分，职业需在州担保清单 |
+| Subclass 482 (Skills in Demand (Subclass 482)) | Employer-sponsored visa, requires a qualifying employer and occupation on the CSOL, can transition to 186 permanent residence |
+| Subclass 186 (Employer Nomination Scheme (Subclass 186)) | Employer directly sponsors permanent residency, requires occupation on MLTSSL or CSOL. |
+| Subclass 189 (Skilled Independent (Subclass 189)) | Skilled independent migration, occupation must be on MLTSSL, points tested via SkillSelect |
+| Subclass 190 (Skilled Nominated (Subclass 190)) | State-sponsored skilled migration; get 5 extra points after state nomination; occupation must be on state sponsorship list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Engineering Technician？**
-- 喜欢动手解决电气问题的技术型人才
-- 有耐心、注重安全，能在工地或工厂环境工作
-- 希望走技术移民且专业对口的人士
-
-**谁不适合学Electrical Engineering Technician？**
-- 不喜欢户外或现场工作，偏好纯办公环境
-- 对电气安全要求严格不适应者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technically-minded individuals who enjoy solving electrical problems
+- Patient, safety-conscious, able to work in construction or factory environments.
+- Those aiming for skilled migration with a relevant background
+
+**Who is not suited**
+- Prefers pure office environment, dislikes outdoor or on-site work
+- Those who cannot adapt to strict electrical safety requirements.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an electrical engineering technician in Australia?**
+A: Depending on the industry and region, intermediate technicians earn approximately AUD 75,000-95,000 per year (excluding superannuation). Junior level around AUD 60,000-75,000, and senior up to AUD 95,000-120,000.
+
+**Q: Can electrical engineering technicians migrate to Australia via subclass 189 or 190?**
+A: Yes. This occupation is on the MLTSSL and meets requirements for visa subclasses 189, 190, and 491. It requires a skill assessment through Engineers Australia and meeting English (IELTS 4x6) and EOI score requirements.
+
+**Q: How can an Electrical Engineering Technician advance to become an Electrical Engineer?**
+A: Typically requires first obtaining a Bachelor's degree in Electrical Engineering, then accumulating experience and obtaining certification as a Professional Engineer through Engineers Australia. Some technicians transition gradually through on-the-job learning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electrical Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Electrical Engineering Technician in Australia?**
-答：Mid-level technicians earn AUD 75,000-95,000 per year (excl. super). Entry-level: AUD 60,000-75,000; senior: AUD 95,000-120,000.
-
-**问：Can Electrical Engineering Technicians migrate to Australia via 189 or 190?**
-答：Yes. The occupation is on MLTSSL, eligible for subclasses 189, 190, and 491. You need a positive skills assessment from Engineers Australia, meet English requirements (IELTS 6.0 each band), and achieve sufficient EOI points.
-
-**问：How can an Electrical Engineering Technician become an Electrical Engineer?**
-答：Typically requires completing a Bachelor's degree in Electrical Engineering, gaining experience, and obtaining Chartered status via Engineers Australia. Some transition through part-time study.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

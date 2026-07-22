@@ -1,59 +1,94 @@
-# Vineyard Worker（Vineyard Worker）职业分析 · 新西兰
+# Vineyard Worker — career analysis · New Zealand
 
-**职业代码：842222 – Vineyard Worker。**
+**Occupation code: 842222 (ANZSCO)**
 
-Vineyard workers handle vine planting, pruning, irrigation, pest control, and harvesting, forming the backbone of New Zealand's wine industry. The role is on the Green List Tier 2, allowing work-to-residence pathways.
+Vineyard workers are responsible for viticulture, pruning, irrigation, pest and disease control, and harvesting, forming the foundation of New Zealand's wine industry. Immigration New Zealand has listed this occupation on the Green List Tier 2, eligible for work-to-residence applications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训（非必需） | 2-4周 | $500~$1,500（如葡萄栽培短期课程） |
-| 证书/文凭 | 1-2年 | $5,000~$20,000（新西兰葡萄栽培与酿酒证书或文凭） |
+| Short-term training (not mandatory) | 2-4 weeks | $500~$1,500 (Short course in viticulture) |
+| Certificate/diploma | 1-2 years | $5,000~$20,000 (New Zealand Certificate or Diploma in Viticulture and Winemaking) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无/低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰危险货物证书（喷洒农药需持有） | NZ EPA / 培训机构 | 可选 | 若从事喷洒工作，需持有 approved handler certificate |
-| 新西兰驾照（至少Class 1） | NZ Transport Agency | 可选 | 驾驶拖拉机或运输葡萄常用 |
-| 葡萄栽培国家证书（Level 3 或 4） | NZ Qualifications Authority | 可选 | 非强制，但提升就业竞争力 |
+| New Zealand Dangerous Goods Certificate (required for spraying pesticides) | NZ EPA / Training Provider | Optional | If engaged in spraying work, must hold an approved handler certificate |
+| New Zealand driver's license (minimum Class 1) | NZ Transport Agency | Optional | Commonly used for driving tractors or transporting grapes |
+| National Certificate in Viticulture (Level 3 or 4) | NZ Qualifications Authority | Optional | Not mandatory, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。新西兰葡萄酒产业持续增长，尤其是马尔堡、霍克湾和中奥塔哥产区，对葡萄园工人的需求稳定。季节性高峰（采收季）用工缺口大，有经验者更易获雇主担保。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. New Zealand's wine industry continues to grow, especially in Marlborough, Hawke's Bay, and Central Otago, with stable demand for vineyard workers. Seasonal peaks (harvest season) have large labor gaps, and experienced workers are more likely to get employer sponsorship.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 时薪约$23-26，取决于产区 |
-| 中级（3-5年） | $55,000~$65,000 | 可任团队主管，时薪$27-31 |
-| 高级（5年以上） | $65,000~$80,000 | 资深工人或主管，可达年薪$80k |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Hourly wage approx. $23-26, depending on the region |
+| Mid-level (3–5 years) | $55,000~$65,000 | Can serve as team leader, hourly rate $27-31 |
+| Senior (5+ years) | $65,000~$80,000 | Senior worker or supervisor, up to $80k salary |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可晋升至高级葡萄园工人、团队主管或 vineyard manager，部分人转向酿酒技术或葡萄园管理。积累经验后可通过绿色清单申请居留。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
+
+Progression to senior vineyard worker, team leader, or vineyard manager; some transition to winemaking or vineyard management. After gaining experience, you can apply for residency through the Green List.
+
+**Tasks most exposed to AI:**
+
+- Manually recording temperature, rainfall, and pest data
+- Routine grapevine pruning pattern recognition and decision-making
+- Calculation and adjustment of irrigation schedules
+- Yield prediction and harvest time estimation
+
+**Where AI augments the role:**
+
+- Using AI vision systems to quickly identify pests, diseases, and nutrient deficiency symptoms
+- Optimize irrigation and fertilization plans using sensors and algorithms
+- Use drones or robots for large vineyard inspection
+- Predict yield, disease risks, and optimal harvest time based on historical data
+- Automated recording and generation of compliance reports
+
+**Human moat:**
+
+- Intuition and hands-on experience with soil and plant physiology
+- Handle complex environmental variables (e.g., microclimate, soil heterogeneity)
+- Fine manual tasks such as pruning and harvesting
+- On-site communication and coordination with farm teams and suppliers
+- Response to emergencies (e.g., equipment failure, extreme weather)
+
+**Skills to build:**
+
+- Operation and maintenance of agricultural IoT devices
+- Basic data analysis (Excel, Python, or specialized agricultural software)
+- Drone operation and image analysis
+- Sustainable agriculture management practices
+- Basic mechanical maintenance and troubleshooting of automation systems
+- Digital record keeping and compliance report generation
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Seasonal Labor
@@ -62,68 +97,67 @@ Vineyard workers handle vine planting, pruning, irrigation, pest control, and ha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，时薪需达到$29.66（2024中位数）或行业协议工资，可工作3年 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事葡萄园工人满24个月，时薪达$29.66，可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制：学历+工作经验，若时薪达$39.29（3倍中位数）可加分 |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, hourly wage must reach $29.66 (2024 median) or industry agreement wage, can work for 3 years |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After working as a vineyard worker for 24 months with an hourly wage of $29.66, can apply for residency |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: qualifications + work experience, with extra points if hourly wage reaches $39.29 (3x median). |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vineyard Worker？**
-- 愿意从事户外体力劳动，适应季节性工作节奏
-- 对酿酒葡萄种植有浓厚兴趣，愿意长期在产区发展
-- 希望通过工作积累经验进而实现新西兰居留的移民申请人
-
-**谁不适合学Vineyard Worker？**
-- 不喜欢户外高强度体力工作
-- 追求办公室或白领工作环境
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to engage in outdoor physical labor, adaptable to seasonal work rhythms
+- Strong interest in viticulture (wine grape growing) and willingness to develop long-term in the wine region.
+- Immigration applicants who aim to gain residency in New Zealand through work experience
+
+**Who is not suited**
+- Dislikes high-intensity outdoor physical work
+- Prefers an office or white-collar work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate hourly wage for a vineyard worker?**
+A: Junior workers earn approximately $23-26 per hour, mid-level $27-31, senior workers or supervisors can reach $35 or more. Employment must meet New Zealand median wage requirements.
+
+**Q: How can vineyard workers immigrate via the Green List?**
+A: This occupation is on the Green List Tier 2. After working for an accredited employer for 24 months with a pay rate of at least $29.66 per hour (2024 standard), you can apply for a Work to Residence visa.
+
+**Q: What key skills are needed for vineyard workers?**
+A: Requires physical strength, teamwork, basic mechanical operation (e.g., tractors); some positions require pesticide application certificates. Higher education is not required, but relevant training is an advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无/低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Vineyard Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the hourly wage for vineyard workers?**
-答：Entry-level workers earn approximately NZD $23-26 per hour, experienced workers $27-31, and senior roles may exceed $35. Employment must meet the median wage threshold.
-
-**问：How can vineyard workers immigrate via the Green List?**
-答：This occupation is on Green List Tier 2. You need to work for an accredited employer for 24 months at a wage of at least NZD $29.66 per hour (2024 threshold) to apply for a work-to-residence visa.
-
-**问：What key skills are required for vineyard workers?**
-答：Physical fitness, teamwork, basic machinery operation (e.g., tractors), and for spray roles, an approved handler certificate. No tertiary education needed, but relevant training helps.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

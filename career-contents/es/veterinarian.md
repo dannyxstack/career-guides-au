@@ -1,61 +1,97 @@
-# Veterinarian（Veterinarian）职业分析 · ES
+# Veterinarian — career analysis · Spain
 
-**职业代码：2130 – Veterinarian。**
+**Occupation code: 2130 (CNO)**
 
-Veterinarians diagnose, treat, and prevent diseases and injuries in animals, including pets, livestock, and wildlife. They perform clinical exams, surgeries, vaccinations, and oversee public health and food safety.
+Veterinarians are responsible for diagnosing, treating, and preventing animal diseases and injuries, covering pets, livestock, and wildlife. The work includes clinical examinations, surgeries, vaccinations, public health supervision, and food safety inspections.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 5年（Grado en Veterinaria） | $800~$3,000（公立大学学费，私立较高） |
-| 硕士（Máster） | 1-2年（Máster） | $1,500~$6,000（可选，用于专科深造） |
+| Undergraduate (Grado) | 5 years (Grado en Veterinaria) | $800~$3,000 (Public university tuition is higher, while private universities are higher) |
+| Máster | 1-2 years (Máster) | $1,500~$6,000 (Optional, for specialized study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医学位 | 西班牙大学 | 必备 | 须为官方认可学位（Grado en Veterinaria） |
-| 官方认证（homologación） | 西班牙教育部 | 必备 | 外国学历需认证，用于行医 |
-| 入会专业协会 | Colegio de Veterinarios | 必备 | 须注册各自治区兽医协会 |
+| Degree in Veterinary Medicine | Spanish University | Required | Must be an officially recognized degree (Grado en Veterinaria) |
+| Official Certification (homologación) | Spanish Ministry of Education | Required | Foreign academic qualifications must be certified for medical practice |
+| Join professional associations | Colegio de Veterinarios | Required | Registration with the veterinary associations of each autonomous region is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 30,000。西班牙兽医需求稳定，宠物护理和食品安全意识提升推动就业。受规管职业，需大学学位和官方认证。公共部门和私人诊所均有岗位，乡村地区相对紧缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 30,000. Stable demand for veterinarians in Spain, and increased awareness of pet care and food safety are driving employment. Regulated occupations require a university degree and official certification. Both public and private clinics have positions, while rural areas are relatively scarce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，公立/私立诊所 |
-| 中级（4-7年） | $30,000~$40,000 | 税前年薪，专科或管理岗 |
-| 高级（8年以上） | $40,000~$55,000 | 税前年薪，合伙人或资深专科 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, public/private clinics |
+| Mid-level (4-7 years) | $30,000~$40,000 | Pre-tax annual salary, associate degree or management position |
+| Senior (8+ years) | $40,000~$55,000 | Pre-tax annual salary, partner or senior specialist |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 初级兽医可从诊所助理或住院医师做起，积累经验后成为主治兽医。可晋升为诊所主管、专科兽医（如外科、眼科），或转向研究、教学、食品安全监管等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The veterinary profession is affected by AI: tasks like imaging diagnosis and data analysis are being automated, but core responsibilities like clinical decision-making and surgical operations require human judgment. Entry-level positions are increasingly competitive due to the widespread adoption of AI tools.
+
+Junior veterinarians can start as clinic assistants or residents, gaining experience to become attending veterinarians. You can be promoted to clinic supervisor, specialist veterinarian (such as surgery, ophthalmology), or move into research, teaching, or food safety supervision.
+
+**Tasks most exposed to AI:**
+
+- Automated imaging diagnostics (such as X-ray and preliminary ultrasound interpretation)
+- Laboratory sample analysis and result interpretation
+- Appointment management, medical record recording, and archiving
+- Vaccination reminders and public health data entry
+- Screening for basic symptoms in remote consultations
+
+**Where AI augments the role:**
+
+- AI image analysis improves diagnostic accuracy and efficiency
+- Predict disease outbreaks and epidemic trends with machine learning
+- Remotely monitor vital signs of critically ill animals using smart devices
+- Quickly retrieve the latest veterinary literature through natural language processing
+- Automated generation of surgical plans and medication recommendations
+
+**Human moat:**
+
+- Complex surgical procedures and clinical decision-making
+- Animal behavior understands communication with its owner
+- Ethical judgment and hospice care
+- Comprehensive diagnosis of multisystem diseases
+- On-site emergency response capability
+
+**Skills to build:**
+
+- Veterinary imaging AI tools (such as AI-X-ray analysis software)
+- Fundamentals of Data Science (Statistical Analysis, Python/R)
+- Telemedicine and IoT device operation
+- Cutting-edge knowledge in animal nutrition and behavior
+- Advanced applications of electronic medical record systems
+- Human-machine collaboration and clinical decision support
+
+**Key growth areas:**
 
 - Pet care
 - Food safety
@@ -64,67 +100,66 @@ Veterinarians diagnose, treat, and prevent diseases and injuries in animals, inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高技能专业人士，需工作合同且年薪达门槛（约3.4万欧元） |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通受雇工作居留，由雇主担保，需满足劳动市场测试 |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | For highly skilled professionals, requires a work contract and annual salary meeting the threshold (approx €34,000). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary employed work residence, sponsored by employer, must meet labor market test requirements |
 
-**PR难度：难（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian？**
-- 热爱动物、有耐心和同理心的人
-- 具备科学基础和动手能力，能承受工作压力
-
-**谁不适合学Veterinarian？**
-- 对动物血液或手术敏感者
-- 不愿长期学习或接受严格监管者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love animals, are patient, and empathetic
+- Possess a scientific foundation and hands-on skills, and be able to handle work pressure
+
+**Who is not suited**
+- Those sensitive to animal blood or surgery
+- Those unwilling to undertake long-term study or accept strict supervision.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a veterinarian in Spain?**
+A: Junior: about EUR 24,000-30,000, intermediate EUR 30,000-40,000, senior up to EUR 55,000 (pre-tax annual salary).
+
+**Q: How can Chinese veterinarians immigrate to Spain?**
+A: You must first complete the homologación (academic qualification certification), then seek employer sponsorship to apply for a high-skilled visa or work residence permit. This profession is regulated, with a certification period of about 1-2 years.
+
+**Q: What educational qualifications are required to be a veterinarian in Spain?**
+A: You must complete a five-year official veterinary degree (Grado en Veterinaria) and register with the Autonomous Veterinary Association.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 难（★★★★☆） |
-
-Veterinarian为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinarians in Spain?**
-答：Entry-level about €24,000-€30,000, mid-level €30,000-€40,000, senior up to €55,000 (gross annual).
-
-**问：How can a Chinese veterinarian immigrate to Spain?**
-答：You need to get your degree homologated, then find an employer to sponsor a highly skilled visa or work permit. The profession is regulated; homologation takes 1-2 years.
-
-**问：What education is required to be a veterinarian in Spain?**
-答：A 5-year official degree in Veterinary Medicine (Grado en Veterinaria) and registration with the regional veterinary college.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

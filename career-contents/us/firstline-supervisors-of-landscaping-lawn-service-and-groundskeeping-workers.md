@@ -1,59 +1,92 @@
-# First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers（First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers）职业分析 · 美国
+# First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers — career analysis · United States
 
-**职业代码：37-1012 – First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers。**
+**Occupation code: 37-1012 (SOC)**
 
-Directly supervise and coordinate activities of workers in landscaping or groundskeeping, including contract review, customer inquiries, and cost estimation.
+Directly supervise and coordinate workers engaged in landscaping or grounds maintenance, including contract review, client consultation, and cost estimation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立学校免费） |
-| 园艺或相关领域副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma | 4 years | $0~$0 (Free public schools.) |
+| Associate degree in horticulture or related field | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 各州机动车辆管理局 | 可选 | 操作大型绿化设备可能需要 |
-| 农药施用许可证 | 各州农业部门 | 必备 | 使用化学药剂时必需 |
-| 园林绿化认证 | 国家园林绿化专业人员协会（NALP） | 可选 | 提升专业认可度 |
+| Pesticide Applicator License | State departments of agriculture | Required | Required when using chemical agents |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | Operating large landscaping equipment may require |
+| Landscaping certification | National Association of Landscape Professionals (NALP) | Optional | Enhance professional recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 149,500。美国绿化服务需求持续增长，预计2023-2033年就业增长约5%，与平均水平持平。城市化推动商业和住宅绿化维护需求，但自动化可能影响部分低技能岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 149,500. Demand for lawn care services in the US continues to grow, with projected employment growth of about 5% from 2023 to 2033, on par with the average. Urbanization drives commercial and residential lawn maintenance needs, but automation may impact some low-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级主管薪资 |
-| 中级（3-7年） | $45,000~$60,000 | 经验丰富的主管 |
-| 高级（7年以上） | $60,000~$80,000 | 大型项目或高级管理职位 |
+| Median salary | $58,430 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level supervisor salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced supervisor |
+| Senior (7+ years) | $60,000~$80,000 | Large-scale projects or senior management positions |
+| average salary | $60,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从园艺工或场地维护工人晋升而来，积累经验后可升任绿化经理或运营总监，或自主创业开设绿化公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Usually progress from gardener or groundskeeper roles; with experience, can advance to landscaping manager or operations director, or start their own landscaping company.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Urbanization
 - Green infrastructure
@@ -62,68 +95,67 @@ Directly supervise and coordinate activities of workers in landscaping or ground
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需证明职位需要专业学士学位，通常在管理岗位可能适用。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于技术工人或专业人士，需PERM劳工证。 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民特定职业可用，但主管职位不太常见。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Need to prove that the position requires a professional bachelor's degree, usually applicable to management roles. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applies to skilled workers or professionals, requires PERM labor certification. |
+| Subclass TN (TN NAFTA Professional) | Available for certain occupations for Canadian or Mexican citizens, but supervisory roles are less common. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers？**
-- 喜欢户外工作、具备领导能力和沟通技巧的人
-- 对园林绿化有热情且愿意从事体力劳动的人
-- 希望积累经验后自主创业的人
-
-**谁不适合学First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers？**
-- 不适应户外工作或恶劣天气的人
-- 不喜欢体力劳动或现场管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work, have leadership skills and communication abilities
+- people passionate about landscaping and willing to do physical work
+- People who want to start their own business after gaining experience
+
+**Who is not suited**
+- People not suited to outdoor work or bad weather
+- Those who dislike manual labor or on-site management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a landscape supervisor in the US?**
+A: U.S. Bureau of Labor Statistics reports 2023 average annual salary about $54,000, entry-level about $35,000-$45,000, senior can reach over $80,000.
+
+**Q: Can a landscaping supervisor apply for a US work visa or green card?**
+A: Yes. Typically applies through EB-3 Skilled Worker green card or H-1B (requires managerial position to demonstrate professional requirements), but needs employer sponsorship and PERM labor certification. TN visa may not apply.
+
+**Q: What education is needed to become a landscaping supervisor?**
+A: Usually a high school diploma is sufficient, but an associate degree or relevant certification can increase promotion opportunities. Employers value practical experience more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of landscaping supervisors in the US?**
-答：According to BLS, median annual wage in 2023 was about $54,000; entry-level $35,000-$45,000, senior up to $80,000+.
-
-**问：Can landscaping supervisors apply for US work visas or green cards?**
-答：Yes, typically via EB-3 skilled worker green card or H-1B (if managerial role requires degree). Requires employer sponsorship and PERM labor certification. TN may not apply.
-
-**问：What education is needed to become a landscaping supervisor?**
-答：Usually high school diploma, but associate degree or certifications can help. Practical experience is highly valued.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

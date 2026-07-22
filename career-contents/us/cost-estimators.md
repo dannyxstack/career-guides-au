@@ -1,58 +1,91 @@
-# Cost Estimators（Cost Estimators）职业分析 · 美国
+# Cost Estimators — career analysis · United States
 
-**职业代码：13-1051 – Cost Estimators。**
+**Occupation code: 13-1051 (SOC)**
 
-Cost Estimators prepare cost estimates for product manufacturing, construction projects, or services to aid management in bidding on or determining price. They may specialize by service or product type.
+Cost estimators prepare cost estimates for product manufacturing, construction projects, or services, helping management bid or set prices. They specialize based on the specific service or product type.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费，含食宿） |
-| 硕士学位 | 2年 | $30,000~$70,000（MBA或工程管理硕士，部分雇主资助） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities, including room and board) |
+| Master's degree | 2 years | $30,000~$70,000 (MBA or Master of Engineering Management, some employers sponsor.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认证成本估算师（CCE） | 美国成本估算工程师协会（AACE） | 可选 | 需工作经验并通过考试 |
-| 认证成本技师（CCT） | AACE | 可选 | 入门级认证，适合应届生 |
+| Certified Cost Estimator (CCE) | American Association of Cost Engineers (AACE) | Optional | Requires work experience and passing an exam |
+| Certified Cost Technician (CCT) | AACE | Optional | Entry-level certification, suitable for recent graduates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 86,500。美国劳工统计局预计2022-2032年就业增长约2%，增速低于平均水平。建筑和制造业的持续需求将提供稳定岗位，但自动化工具可能抑制增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 86,500. The U.S. Bureau of Labor Statistics projects about 2% employment growth from 2022 to 2032, slower than average. Ongoing demand in construction and manufacturing will provide stable jobs, but automation tools may curb growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 学士学位起点，建筑行业 |
-| 中级（4-9年） | $65,000~$90,000 | 持认证者薪资偏高 |
-| 高级（10年以上） | $90,000~$130,000 | 管理岗位或专家角色 |
+| Median salary | $78,740 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Bachelor's degree starting point, construction industry |
+| Intermediate (4-9 years) | $65,000~$90,000 | Salary is higher for certified holders |
+| Senior (10+ years) | $90,000~$130,000 | Management positions or specialist roles. |
+| average salary | $85,390 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级成本估算师可晋升为高级估算师、项目经理或估算部门主管。获得认证（如CCT或CCE）有助于职业发展，经验丰富者还可转向咨询或独立承包。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Core duties of quantity surveyors (cost estimation and budget management) will be greatly enhanced by AI, but entry-level repetitive tasks face automation risk. Overall risk is manageable; proactive learning of AI tools is needed to stay competitive.
+
+Junior cost estimators can advance to senior estimator, project manager, or estimation department head. Obtaining certification (e.g., CCT or CCE) aids career development; experienced ones can also shift to consulting or independent contracting.
+
+**Tasks most exposed to AI:**
+
+- Automated extraction of engineering quantity data from historical databases and drawings
+- Generate standardized preliminary cost estimation reports
+- Automated comparison and price verification of supplier quotes
+- Automatically update bills of materials and cost breakdowns
+
+**Where AI augments the role:**
+
+- Using AI prediction models for more accurate cost risk analysis and solution optimization
+- Quickly access project specifications, regulations, and historical cases via natural language interface
+- AI-assisted generation of multi-dimensional cost visualization reports to improve communication efficiency
+- Real-time monitoring of market price fluctuations and automatic adjustment of estimates.
+
+**Human moat:**
+
+- Negotiate with clients and contractors, handle complex contract terms
+- Creative cost allocation and value engineering decisions for non-standard projects
+- Integrate multi-source information and make final estimation judgments based on experience
+- Reviewing, explaining, and being accountable for AI-generated estimates
+
+**Skills to build:**
+
+- Master Python or R for cost data analysis and modeling
+- Developing predictive models using machine learning frameworks (e.g., Scikit-learn)
+- Proficient in using BIM 5D cost management software
+- Learn to use SQL to extract and clean data from databases
+- Proficiency in data visualization tools (e.g., Power BI)
+- Basic natural language processing knowledge for automated reporting
+
+**Key growth areas:**
 
 - Construction
 - Manufacturing
@@ -61,69 +94,68 @@ Cost Estimators prepare cost estimates for product manufacturing, construction p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于大型工程公司，需学士学位，配额竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或以上学历，通过PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合学士学位持有者，需PERM |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的永久绿卡路径 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common in large engineering companies, requires bachelor's degree, quota competition is fierce. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or higher, through PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree holders, requires PERM. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residency pathway |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cost Estimators？**
-- 擅长数学和数据分析，注重细节的人
-- 对建筑或制造流程有浓厚兴趣的人
-- 喜欢在团队中协作并做出决策的人
-
-**谁不适合学Cost Estimators？**
-- 不喜欢频繁与数字打交道的人
-- 无法承受项目截止日期压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at math and data analysis, and are detail-oriented
+- People with strong interest in construction or manufacturing processes
+- People who enjoy collaborating in a team and making decisions
+
+**Who is not suited**
+- Those who dislike frequent dealings with numbers
+- Those unable to handle project deadline pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for cost estimators?**
+A: According to BLS 2023 data, median annual salary about USD 72,000, entry-level about USD 45,000-65,000, senior up to USD 130,000, depending on industry and location.
+
+**Q: Is it easy for cost estimators to immigrate to the US?**
+A: H-1B common but highly competitive. EB-2/EB-3 green cards require employer sponsorship and complex PERM process. Generally feasible but time-consuming.
+
+**Q: How to become a cost estimator?**
+A: Typically requires a bachelor's degree (construction management, engineering, or related field), and after 2-3 years of experience, can obtain AACE certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Cost Estimators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Cost Estimators?**
-答：According to BLS 2023, median annual wage is around $72,000, entry-level $45,000-$65,000, senior up to $130,000, depending on industry and location.
-
-**问：Is it easy for Cost Estimators to immigrate to the US?**
-答：H-1B is common but competitive. EB-2/EB-3 green cards require employer sponsorship and complex PERM process. Feasible but time-consuming.
-
-**问：How to become a Cost Estimator?**
-答：Typically a bachelor's degree (construction management, engineering, or related), 2-3 years experience, then AACE certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

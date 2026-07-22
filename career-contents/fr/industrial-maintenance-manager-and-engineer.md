@@ -1,60 +1,96 @@
-# Industrial Maintenance Manager and Engineer（Industrial Maintenance Manager and Engineer）职业分析 · FR
+# Industrial Maintenance Manager and Engineer — career analysis · France
 
-**职业代码：I1102 – Industrial Maintenance Manager and Engineer。**
+**Occupation code: I1102 (ROME)**
 
-Responsible for developing and implementing industrial equipment maintenance strategies, managing maintenance teams, optimizing equipment reliability and production efficiency, covering preventive maintenance, fault diagnosis, and improvement projects.
+Responsible for formulating and implementing industrial equipment maintenance strategies, managing maintenance teams, optimizing equipment reliability and production efficiency, covering preventive maintenance, fault diagnosis, and improvement projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级技师文凭（BTS） | 2年 | $500~$5,000（公立学校学费低，私立约5000欧元/年；可通过学徒制免学费。） |
-| 职业学士（Licence Pro） | 3年 | —（公立大学约170-500欧元/年；学徒制由企业承担。） |
-| 工程师文凭（Diplôme d'Ingénieur） | 5年 | —（公立工程师学院约600欧元/年；私立约8000欧元/年。） |
+| Advanced Technician Diploma (BTS) | 2 years | $500~$5,000 (Public schools have low tuition, with private ones about 5,000 euros per year; Tuition can be waived through the apprenticeship system.) |
+| Bachelor of Vocational (Licence Pro) | 3 years | $0~$5,000 (Public universities cost about 170-500 euros per year; Apprenticeships are undertaken by enterprises.) |
+| Diplôme d'Ingénieur (Engineer Diploma) | 5 years | $0~$8,000 (Public engineering schools: approx. 600 euros/year; private: approx. 8000 euros/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业维护管理工程师文凭 | CTI认证工程师学院 | 必备 | 工程师文凭（Diplôme d'Ingénieur）为行业标准，受CTI认证。 |
-| CQP（职业资格证书） | 法国维护协会AFIM | 可选 | 可选认证，用于证明维护管理能力。 |
-| 电工资质认证 | 劳动部 | 必备 | 需持有B2V/H2V等资质，涉及高压设备时必备。 |
+| Diploma in Industrial Maintenance Management Engineer | CTI Certified Engineer Academy | Required | The Diplôme d'Ingénieur (Engineer Diploma) is an industry standard and is accredited by CTI. |
+| Electrical quality certification | Ministry of Labor | Required | Requires B2V/H2V and other qualifications, which are essential for high-voltage equipment. |
+| CQP (Professional Qualification Certificate) | French Maintenance Association AFIM | Optional | Optional certification to demonstrate maintenance management capability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国工业4.0转型推动对维护工程师的需求增长，尤其在自动化、机器人和物联网领域。法国就业局（France Travail）列为中等紧缺职业，预计未来5年保持稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's Industry 4.0 transformation is driving increased demand for maintenance engineers, especially in automation, robotics, and the Internet of Things. France Travail lists these occupations as in short supply and expects steady growth over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 本科或工程师文凭起薪 |
-| 中级（4-7年） | $40,000~$50,000 | 含团队管理经验 |
-| 高级（8年以上） | $52,000~$70,000 | 维护经理或区域负责人 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$38,000 | Starting salary for bachelor's or engineering diplomas |
+| Mid-level (4-7 years) | $40,000~$50,000 | Includes team management experience |
+| Senior (8+ years) | $52,000~$70,000 | Maintenance managers or regional heads |
+| average salary | $48,330 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从维护技术员晋升为维护经理，再至工业工程总监。也可转向工厂管理、项目管理或咨询领域。持续学习数字技能（如预测性维护、数据分析）可加速晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial maintenance management and engineering roles will not be completely replaced, but AI will significantly change the structure of tasks: data analytics and predictive maintenance will be enhanced, while routine scheduling and fault diagnosis will be automated, requiring maintenance engineers to shift toward higher-value strategies and complex problem-solving.
+
+You can be promoted from maintenance technician to maintenance manager, and then to industrial engineering director. It can also be expanded into factory management, project management, or consulting. Continuous learning of digital skills (such as predictive maintenance, data analysis) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Maintenance scheduling and planning based on historical data
+- Preliminary troubleshooting and alarm analysis for routine fault diagnosis
+- Automatic replenishment and optimization of spare parts inventory
+- Automatic generation and distribution of equipment status reports
+- Routine adjustments to preventive maintenance plans
+
+**Where AI augments the role:**
+
+- Optimize maintenance strategies using AI predictive maintenance models
+- Fault simulation and root cause analysis are conducted through digital twin and AI simulation
+- AI-assisted complex fault diagnosis and repair recommendations
+- Machine learning-based equipment reliability optimization and lifespan assessment
+- AI-driven maintenance team performance analysis and resource allocation
+
+**Human moat:**
+
+- Physical diagnosis of complex on-site faults and resolution of unstructured problems
+- Cross-system (mechanical, electrical, software) integration and coordinated decision-making
+- Responsibility and compliance assessment for key safety links
+- Design and implementation of innovative renovation projects
+- Leadership and experiential intuition in team management and emergency response
+
+**Skills to build:**
+
+- Data analysis and statistical modeling (Python/R)
+- Predictive maintenance algorithms and tools (such as IBM Maximo AI)
+- Integration of the Internet of Things (IoT) with sensor data
+- Digital twin and simulation software operation
+- AI project management and delivery methodology
+- Continuous learning and cross-disciplinary technology integration capabilities
+
+**Key growth areas:**
 
 - Industry 4.0
 - Predictive Maintenance
@@ -63,68 +99,67 @@ Responsible for developing and implementing industrial equipment maintenance str
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合拥有硕士或工程师文凭，且年薪≥36,500欧元的人士，有效期4年，可带家属。 |
-| Subclass Salarié（Employee Work Permit） | 需要雇主担保，工作合同1年以上，需经过劳动局审查（OPCO）。维护工程师紧缺，审批较快。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能员工，年薪≥53,000欧元，有1年工作合同，可带家属，欧盟流动便利。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for those holding a master's or engineering diploma with an annual salary of ≥ 36,500 euros, valid for 4 years, and eligible to bring family members. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, employment contracts are over one year, and must be reviewed by the Labor Bureau (OPCO). Maintenance engineers are in short supply, and approvals are relatively fast. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled employees, annual salary ≥ 53,000 euros, with a one-year work contract, family members allowed, and convenient EU mobility. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Maintenance Manager and Engineer？**
-- 喜欢动手解决技术问题的人
-- 擅长团队管理和项目管理的人
-- 对工业自动化和数字化转型感兴趣的人
-
-**谁不适合学Industrial Maintenance Manager and Engineer？**
-- 不喜欢现场工作和频繁出差的人
-- 对机械电子维修没有兴趣的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on technical problem solving
+- Skilled in team management and project management
+- People interested in industrial automation and digital transformation
+
+**Who is not suited**
+- People who dislike on-site work and frequent business trips
+- People who have no interest in mechatronic repair
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for industrial maintenance engineers in France?**
+A: Entry-level approximately EUR 32,000-38,000 per year, mid-level EUR 40,000-50,000, senior EUR 52,000-70,000. Salary is affected by industry, region, and company size.
+
+**Q: How can foreign engineers immigrate to France through this profession?**
+A: Options: Talent Passport (Passeport Talent) requiring master's/engineering degree and annual salary ≥36,500 EUR; or EU Blue Card requiring annual salary ≥53,000 EUR. Employer sponsorship needed; French B2 level helpful.
+
+**Q: What qualifications are required for this profession in France?**
+A: Usually requires an engineer diploma with CTI accreditation; Concerns the electrical requirements for high-voltage equipment (B2V/H2V). In addition, AFIM's CQP certificate can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial Maintenance Manager and Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an industrial maintenance engineer in France?**
-答：Entry-level €32,000-38,000/year, mid-level €40,000-50,000/year, senior €52,000-70,000/year, influenced by industry, region, and company size.
-
-**问：How can foreign engineers immigrate to France through this occupation?**
-答：Via Talent Passport (master's/engineering degree, salary ≥€36,500) or EU Blue Card (salary ≥€53,000). Employer sponsorship required, French B2 is helpful.
-
-**问：What certifications are required for this occupation in France?**
-答：Typically a CTI-accredited engineering diploma; for high-voltage equipment, electrical certification (B2V/H2V) is mandatory. Optional CQP from AFIM can boost competitiveness.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

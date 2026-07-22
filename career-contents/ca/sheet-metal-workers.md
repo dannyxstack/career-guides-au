@@ -1,129 +1,165 @@
-# Sheet metal workers（Sheet metal workers）职业分析 · 加拿大
+# Sheet metal workers — career analysis · Canada
 
-**职业代码：72102 – Sheet metal workers。**
+**Occupation code: 72101 (NOC)**
 
-Sheet metal workers fabricate, install, and repair metal products like ductwork, roofing, and siding. This role requires precise measuring, cutting, and shaping skills, with demand in construction, manufacturing, and HVAC sectors.
+In Canada, sheet metal workers fabricate, assemble, install, and repair sheet metal products such as ventilation ducts, roofing, siding, and industrial equipment. This occupation is a skilled trade eligible for immigration through Provincial Nominee Programs (PNP) or the Skilled Trades category of Express Entry, suitable for experienced overseas tradespeople.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒制（含在职培训） | 4-5年 | $500~$2,000（注册费及教材，在职培训期间有工资） |
+| High school graduation or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| Apprenticeship training (including on-the-job and classroom) | 4 years | $1,000~$5,000 (Apprenticeship tuition at provincial colleges is partially funded by employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级钣金工认证（红印认证） | 各省学徒培训机构 | 必备 | 完成学徒制和考试后获得，允许跨省流动 |
-| OSSA 安全证书 | 省级安全机构 | 可选 | 部分雇主要求，强化工作场所安全意识 |
-| 高空作业证书 | 省级培训机构 | 可选 | 涉及屋顶或高层安装时需持有 |
+| Red Seal Trade Qualification Certificate | Apprenticeship training institutions in Canadian provinces | Required | Recognized across provinces, obtained through interprovincial exams |
+| Language test scores (e.g., IELTS) | IELTS and similar organizations | Required | Immigration requires CLB 5 (Listening 4.0, Others 5.0) or higher |
+| Provincial licence or certificate | Provincial trade regulatory authorities | Required | Some provinces require additional exams or registration. |
+| Work experience credential assessment | IRCC/third-party agency | Optional | Overseas experience must be assessed through ECA or trade certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 22,000。加拿大建筑行业持续增长，绿色建筑和 HVAC 系统升级推动需求。Job Bank 预测该职业未来几年就业前景良好，尤其在阿尔伯塔和安大略省。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 22,000. Canada's construction industry continues to grow, especially major infrastructure and residential projects in Ontario, British Columbia, and Alberta, driving demand for sheet metal workers. Adverse weather cycles increase demand for roofing and siding replacements. Employment outlook is good over the next decade, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$50,000 | 学徒期间薪资较低，随年限增长 |
-| 中级（3-6年） | $50,000~$70,000 | 熟练工水平，加班费常见 |
-| 高级（6年以上） | $70,000~$90,000 | 主管或承包收入更高 |
+| Median salary | $70,720 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprentice wages increase progressively |
+| Mid-level (4-7 years) | $50,000~$65,000 | Salary increase after obtaining Red Seal |
+| Senior (8+ years) | $70,000~$85,000 | Supervisors or self-employed may earn more. |
+| average salary | $68,640 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级钣金工人可通过学徒制晋升为熟练工，进而成为主管或项目经理。部分经验丰富者可选择自雇或创办钣金承包公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face mixed impacts from AI/automation: repetitive cutting and bending tasks are easily automated, but on-site installation, complex repairs, and customer communication still require human judgment; overall employment is stable but entry requirements increase.
 
-- Green construction
-- HVAC modernization
-- Infrastructure renewal
-- Energy efficiency
+Junior sheet metal workers can advance to skilled tradespeople through apprenticeships, obtain the Red Seal certificate, and become supervisors or self-employed. Experienced workers can move into project management, estimating, or training. Some start their own sheet metal companies.
+
+**Tasks most exposed to AI:**
+
+- Using CAD/CAM software to generate CNC cutting paths for automatic metal sheet cutting
+- Repetitive bending and punching operations done by robots
+- Automated welding systems take over standard joint welding
+- AI vision inspection systems replace manual surface defect inspection
+- Nesting optimization algorithms automatically calculate the most material-efficient cutting layout.
+
+**Where AI augments the role:**
+
+- Complete complex installations with remote technical expert guidance using AR headsets
+- AI-assisted design tools quickly generate ventilation duct layout plans
+- Digital twin simulates installation outcomes to reduce onsite rework
+- Real-time feedback on fastening torque and angle accuracy via smart handheld tools
+- Predictive maintenance systems based on historical data optimize repair schedules.
+
+**Human moat:**
+
+- Adaptability to handle non-standard, irregular structures during on-site installation
+- Expertise in diagnosing and manually repairing complex system faults
+- Ability to communicate with clients to clarify needs and provide customized solutions
+- Physical skills for flexible operation in confined or hazardous environments
+- Intuitive understanding of material properties (e.g., ductility of different metals)
+
+**Skills to build:**
+
+- CNC machine programming (e.g., CNC press brakes, laser cutters)
+- 3D CAD/CAM software (e.g., SolidWorks, AutoCAD)
+- Industrial robot operation and maintenance basics
+- Post-processing Techniques for Additive Manufacturing (Metal 3D Printing)
+- Data analysis and digital twin tool application.
+- Green building standards (e.g., LEED) and knowledge of energy-efficient materials
+
+**Key growth areas:**
+
+- Red Seal trades
+- Construction boom
+- Green building
+- Immigration target
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 需满足工作经验（NOC TEER 2）、语言及教育要求，可获永久居民身份 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对技工类有优先提名，如安省技工类别、阿省快速通道等 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地人后可担保工签，通常为临时工作路径 |
+| Subclass EE-Skilled Workers (Federal Skilled Trades Program (FSTP)) | Suitable for applicants with skilled trade work experience and English proficiency, processed under fast track, requiring employer letter or provincial certificate. |
+| Subclass PNP (Provincial Nominee Program (e.g. Ontario, BC, Alberta)) | Provincial skilled trade nominations, usually with an Employer Job Offer category; after provincial nomination, add 600 points to EE. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot becomes permanent program, suitable for skilled workers with a job offer from a local employer. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sheet metal workers？**
-- 喜欢动手操作和户外工作的人
-- 具备数学和空间思维能力的人
-- 愿意从事建筑行业并持续学习新技能的人
-
-**谁不适合学Sheet metal workers？**
-- 偏好办公室固定工作环境的人
-- 对体力要求高或高空作业有恐惧的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Tradesperson with mechanical repair or manufacturing background
+- People willing to do physical labor and outdoor work
+- Seeking immigration to Canada and willing to upgrade skills through apprenticeship
+
+**Who is not suited**
+- Sensitive to dust, noise, or working at heights
+- Those unwilling to spend time obtaining the provincial red stamp certificate
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a sheet metal worker in Canada?**
+A: According to Canada's Job Bank data, the median annual salary for sheet metal workers is about CAD 55,000, entry-level around CAD 35,000–45,000, and senior up to CAD 80,000+. Overtime and remote area allowances can increase income.
+
+**Q: How can overseas sheet metal workers immigrate to Canada?**
+A: Can apply through the Federal Skilled Trades Program (FSTP), Provincial Nominee Program (PNP), or Atlantic Immigration Program (AIP). Typically need a job offer from a Canadian employer, relevant English test scores (around CLB 5), and a provincial trade certificate. Overseas experience must be assessed by a third party.
+
+**Q: How long does it take to get a Canadian Red Seal certificate?**
+A: The standard apprenticeship term is 4 years, including on-the-job training and classroom learning. After completing the apprenticeship, passing the interprovincial exam grants a Red Seal. Experienced overseas tradespeople may shorten the process through challenge exams, depending on provincial assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sheet metal workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for sheet metal workers in Canada?**
-答：Entry-level ranges from CAD 38,000 to 50,000, mid-level CAD 50,000 to 70,000, and senior CAD 70,000 to 90,000. Overtime and self-employment can boost earnings.
-
-**问：What immigration pathways are available for sheet metal workers to Canada?**
-答：Options include Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP) for permanent residency, or LMIA work permit for temporary work leading to PR.
-
-**问：What are the career advancement prospects for sheet metal workers?**
-答：Advancement from apprentice to journeyman, then to supervisor or project manager. Self-employment or business ownership is also common. Demand remains steady.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

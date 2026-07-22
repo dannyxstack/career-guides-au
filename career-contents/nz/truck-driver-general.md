@@ -1,60 +1,96 @@
-# Truck Driver (General)（Truck Driver (General)）职业分析 · 新西兰
+# Truck Driver (General) — career analysis · New Zealand
 
-**职业代码：733111 – Truck Driver (General)。**
+**Occupation code: 733111 (ANZSCO)**
 
-Truck drivers in New Zealand operate heavy vehicles (Class 2-5) for urban delivery, long-haul transport, or specialized goods (e.g., refrigerated, dangerous goods). The occupation is on the Green List, offering direct residence or work-to-residence pathways, and is a long-term skilled shortage.
+Truck drivers in New Zealand drive heavy vehicles (Class 2–5) for urban delivery, long-distance transport, or special cargo (e.g., refrigerated, dangerous goods). This occupation is on the green list and can immigrate through direct residence or work-to-residence pathways; it is a long-term shortage trade occupation in New Zealand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 预科/培训课程 | 4-6周 | $2,000~$5,000（基础卡车驾驶课程费用） |
-| 学徒/在职培训 | 1年 | —（部分企业承担晋升驾照费用） |
+| Foundation/training courses | 4-6 weeks | $2,000~$5,000 (Basic truck driving course cost) |
+| Apprenticeship / on-the-job training | 1 year | $0~$3,000 (some companies cover the cost of upgrading driver's license) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰全驾照（Class 1） | NZ Transport Agency (NZTA) | 必备 | 必备基础驾照 |
-| 重型机动车驾照（Class 2-5） | NZTA | 必备 | 按车辆类型分级要求 |
-| 危险品背书（Dangerous Goods Endorsement） | NZTA | 可选 | 运输危险品必需 |
-| 道路货物运输操作员许可证（ROPO） | Ministry of Transport | 可选 | 部分重型运输需要 |
+| New Zealand Full Driver Licence (Class 1) | NZ Transport Agency (NZTA) | Required | Essential basic driver's license |
+| Heavy vehicle driver's license (Class 2-5) | NZTA | Required | Graduated requirements based on vehicle type |
+| Dangerous Goods Endorsement | NZTA | Optional | Required for transporting dangerous goods |
+| Road Freight Transport Operator Permit (ROPO). | Ministry of Transport | Optional | Required for some heavy transport |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。新西兰物流业持续增长，电子商务和基建推动需求，卡车司机长期短缺。预计2025-2030年年均增长约2-3%，尤其是奥克兰、基督城等中心城市。政府已将其列入绿色清单，鼓励移民填补缺口。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. New Zealand's logistics industry continues to grow, driven by e-commerce and infrastructure, with a long-term shortage of truck drivers. Expected annual growth of about 2-3% from 2025-2030, especially in central cities like Auckland and Christchurch. The government has placed it on the Green List to encourage immigrants to fill gaps.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常为Class 2配送司机 |
-| 中级（3-8年） | $55,000~$75,000 | Class 4/5长途或特殊货物 |
-| 高级（8年以上/专业领域） | $75,000~$95,000 | 危险品/重型拖车/自雇 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Usually Class 2 delivery driver |
+| Mid-level (3–8 years) | $55,000~$75,000 | Class 4/5 long-distance or special cargo |
+| Senior (8+ years / specialized field) | $75,000~$95,000 | Hazardous materials/heavy haul/self-employed |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级司机可逐步升级驾照（Class 2→4→5），积累经验后进入专业领域（如危险品、冷藏运输或重型拖车）。部分司机晋升为车队主管、调度员或自雇运营小型车队。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+Entry-level drivers can progressively upgrade licenses (Class 2→4→5), gain experience, then enter specialized fields (e.g., dangerous goods, refrigerated transport, heavy towing). Some drivers advance to fleet supervisor, dispatcher, or self-employed operating small fleets.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Green List Tier 2
@@ -63,69 +99,68 @@ Truck drivers in New Zealand operate heavy vehicles (Class 2-5) for urban delive
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 (Direct Residence)） | 持有Class 4或5驾照，有至少2年相关经验，可直接申请居留。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事卡车司机工作2年后可申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa (AEWV)） | 通过认证雇主获得临时工签，之后可转入居留路径。 |
-| Subclass SMC（Skilled Migrant Category (SMC)） | 满足6分制要求（如学历+经验）可申请，但绿色列表更快捷。 |
+| Subclass Green List T1 (Green List Tier 1 (Direct Residence)) | Hold a Class 4 or 5 license, with at least 2 years of relevant experience, can directly apply for residency. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Can apply for residency after 2 years of work as a truck driver. |
+| Subclass AEWV (Accredited Employer Work Visa (AEWV)) | Obtain temporary work visa via accredited employer, then transition to residence pathway. |
+| Subclass SMC (Skilled Migrant Category (SMC)) | Meeting the 6-point system requirements (e.g., qualifications + experience) allows application, but the Green List is faster. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Truck Driver (General)？**
-- 喜欢驾驶和长途旅行，能适应不规律作息。
-- 具备机械常识，能进行简单车辆检查与故障处理。
-- 计划通过技术移民定居新西兰的工科/物流背景人士。
-
-**谁不适合学Truck Driver (General)？**
-- 无法承受长时间坐姿、孤独驾驶。
-- 希望朝九晚五固定工作节奏。
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys driving and long-distance travel, adaptable to irregular schedules.
+- Possess mechanical knowledge, able to perform basic vehicle inspections and fault handling.
+- Individuals with engineering/logistics backgrounds planning to settle in New Zealand through skilled migration.
+
+**Who is not suited**
+- Unable to tolerate long sitting hours and solitary driving.
+- Prefers a fixed 9-to-5 work schedule.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a truck driver in New Zealand?**
+A: Entry-level about NZD 45,000-55,000, mid-level 55,000-75,000, specialized fields can exceed 95,000. Market rates depend on region, cargo type, and license class.
+
+**Q: Is it easy for truck drivers to immigrate to New Zealand? What are the requirements?**
+A: Easy, due to Green List Tier 1 direct residence. Requires a Class 4/5 driver's license, at least 2 years of experience, and accredited employer sponsorship.
+
+**Q: What are the career development paths for truck drivers in New Zealand?**
+A: Upgrade license (Class 2→5), transition to specialized transport like hazardous materials or refrigerated goods, or advance to fleet manager, dispatcher, or self-employed operator.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Truck Driver (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of a truck driver in New Zealand?**
-答：Entry-level NZ$45,000-55,000; mid-level NZ$55,000-75,000; specialized roles can exceed NZ$95,000. Rates vary by region, cargo type, and license class.
-
-**问：Is it easy to immigrate as a truck driver? What are the requirements?**
-答：Yes, through Green List Tier 1 direct residence. Requires Class 4/5 license, at least 2 years of experience, and a job from an accredited employer.
-
-**问：What career development paths are available for truck drivers in New Zealand?**
-答：Upskill license classes (2→5), specialize in dangerous goods/refrigerated transport, become fleet manager/dispatcher, or become self-employed.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

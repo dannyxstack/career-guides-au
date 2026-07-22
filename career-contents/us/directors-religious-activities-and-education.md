@@ -1,60 +1,95 @@
-# Directors, Religious Activities and Education（Directors, Religious Activities and Education）职业分析 · 美国
+# Directors, Religious Activities and Education — career analysis · United States
 
-**职业代码：21-2021 – Directors, Religious Activities and Education。**
+**Occupation code: 21-2021 (SOC)**
 
-Coordinate or design programs and conduct outreach to promote religious education or activities of a denominational group, while providing counseling on marital, health, financial, and religious issues.
+Coordinate or design religious education programs, conduct outreach activities, promote religious education or activities for faith groups, and provide counseling on marriage, health, finance, and religious issues.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 相关领域学士学位 | 4年 | $40,000~$150,000（如神学、宗教学、教育学，公立大学年均1-3万美元，私立大学4-5万美元） |
-| 神学或相关领域硕士学位 | 2-3年 | $30,000~$100,000（神学院或大学硕士项目，部分学校提供奖学金） |
+| Bachelor's degree in a related field | 4 years | $40,000~$150,000 (For fields like theology, religious studies, and education, public universities cost $10,000-$30,000 per year, private universities $40,000-$50,000.) |
+| Master's degree in theology or related field | 2-3 years | $30,000~$100,000 (Seminary or university master's programs, some schools offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学或宗教学学位 | 认可大学或神学院 | 必备 | 通常要求本科或硕士学历 |
-| 戒律或教派认证 | 所属教派或宗教组织 | 可选 | 某些教派要求完成特定培训或认证 |
+| Degree in theology or religious studies | Accredited university or theological seminary | Required | Typically requires a bachelor's or master's degree |
+| Denominational or sectarian certification | Denomination or religious organization. | Optional | Some religious denominations require completion of specific training or certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 28,500。美国宗教活动与教育总监的就业前景总体稳定，需求受宗教组织资金和社区参与度影响。预计2023-2033年就业增长率约4%，略低于所有职业平均水平。主要雇主为教堂、寺庙、宗教学校和社区组织，部分职位可能因资金限制而有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 28,500. Employment outlook for US religious activities and education directors is generally stable, demand influenced by religious organization funding and community engagement. Projected employment growth of about 4% from 2023-2033, slightly below average for all occupations. Main employers are churches, temples, religious schools, and community organizations, some positions may be limited by funding constraints.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $28,000~$42,000 | 小型宗教组织或助理职位 |
-| 中级（5-10年） | $38,000~$58,000 | 中型教会或宗教学校 |
-| 高级（10年以上） | $50,000~$80,000 | 大型教会或宗教组织主管 |
+| Median salary | $52,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $28,000~$42,000 | Small religious organizations or assistant roles |
+| Intermediate (5-10 years) | $38,000~$58,000 | Medium-sized church or religious school |
+| Senior (10+ years) | $50,000~$80,000 | Director of a large church or religious organization |
+| average salary | $62,100 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 职业路径通常从宗教教育协调员或助理开始，积累经验后晋升为总监。进一步发展可成为高级牧师、区域宗教教育主管或宗教组织行政领导。部分人转向非营利管理或社区服务领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will assist religious education directors with information organization and content generation, but core tasks like spiritual care, value transmission, and community cohesion still require human leadership; this is a mixed-impact occupation.
+
+Career path usually begins as a religious education coordinator or assistant, advancing to director after gaining experience. Further development can lead to senior pastor, regional religious education supervisor, or religious organization administrative leadership. Some transition to nonprofit management or community service roles.
+
+**Tasks most exposed to AI:**
+
+- Data retrieval and classification: sorting religious texts, course materials, and event references.
+- Basic consultation scripts: provide standard Q&A templates for common issues like marriage and finances
+- Draft event promotional materials: write promotional copy, press releases, and social media content
+- Education curriculum draft: generate structured teaching plans based on doctrine
+
+**Where AI augments the role:**
+
+- Personalized education design: using AI to analyze student feedback and customize religious education courses and activities
+- Community needs analysis: Use natural language processing to analyze congregant discussions and identify key concerns
+- Multilingual content dissemination: leveraging AI translation and localization to expand cross-cultural religious education influence
+- Event optimization: use data analysis to evaluate participation rates and effectiveness, adjust promotion strategies
+- Virtual counseling assistance: use chatbots before consultations to gather information, improving human counselor efficiency
+
+**Human moat:**
+
+- Deep spiritual care and face-to-face comfort.
+- Judgment and trade-offs of ethics and values
+- Unstructured leadership affecting community cohesion
+- Wisdom in handling sensitive or ethically challenging consultations
+- Sense of sacred presence and symbolic role in religious rituals.
+
+**Skills to build:**
+
+- Ethical use and customization of AI content generation tools (e.g., ChatGPT)
+- Basic data analysis skills (e.g., engagement statistics)
+- Digital skills in social media management and community operations
+- Cross-cultural communication and inclusive digital design
+- Basic counseling skills, especially for AI-assisted counseling
+- Project management tools (e.g., Asana, Trello) to coordinate online and offline events
+
+**Key growth areas:**
 
 - Stable
 - Nonprofit Sector
@@ -63,62 +98,64 @@ Coordinate or design programs and conduct outreach to promote religious educatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 理论上可用，但通常宗教职位不被视为专业职业，申请难度大 |
-| Subclass EB-4（EB-4 Religious Worker Visa） | 宗教工作者特殊移民签证，适用于牧师及宗教专业人员 |
+| Subclass H-1B (H-1B Specialty Occupation) | Theoretically possible, but religious positions are usually not considered professional occupations, making application difficult. |
+| Subclass EB-4 (EB-4 Religious Worker Visa) | Special immigrant visa for religious workers, applicable to ministers and religious professionals |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Directors, Religious Activities and Education？**
-- 有宗教信仰且愿意从事宗教教育工作的人
-- 擅长沟通、咨询和活动策划的人
-- 对社区服务和精神指导有热情的人
+**Who is suited**
+- People with religious beliefs willing to engage in religious education work
+- People skilled in communication, consulting, and event planning
+- Passionate about community service and spiritual guidance
 
-**谁不适合学Directors, Religious Activities and Education？**
-- 对宗教活动无兴趣或持怀疑态度的人
-- 追求高薪和快速增长职业的人
+**Who is not suited**
+- People with no interest or skeptical attitude towards religious activities
+- People seeking high salaries and rapid career growth
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a Director of Religious Activities and Education?**
+A: Salary range varies widely: entry-level about $28,000-42,000, mid-level $38,000-58,000, senior $50,000-80,000. Generally lower than other management roles, but affected by organisation size and region.
+
+**Q: Can religious activities and education directors immigrate to the US for work?**
+A: Limited immigration pathways, mainly dependent on EB-4 religious worker visa, but requires employment by a religious organization in a religious occupation. H-1B typically not applicable. Not a typical immigrant occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Directors, Religious Activities and Education属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Directors of Religious Activities and Education?**
-答：Salaries vary widely: entry-level $28,000-$42,000, mid-level $38,000-$58,000, senior $50,000-$80,000. Generally lower than other management roles, depending on organization size and location.
-
-**问：Can Directors of Religious Activities and Education immigrate to the US for work?**
-答：Limited options via EB-4 Religious Worker visa, requiring employment by a religious organization in a religious occupation. H-1B is generally not applicable. Not a typical migration occupation.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

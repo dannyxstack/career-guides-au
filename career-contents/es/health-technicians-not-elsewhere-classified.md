@@ -1,63 +1,96 @@
-# Health Technicians Not Elsewhere Classified（Health Technicians Not Elsewhere Classified）职业分析 · ES
+# Health Technicians Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：3329 – Health Technicians Not Elsewhere Classified。**
+**Occupation code: 3329 (CNO)**
 
-Includes dental hygienists, optometrists, dietitians and other allied health professionals providing technical health services in clinics, hospitals or community settings.
+This includes dental hygienists, optometrists, nutritionists, and other auxiliary medical professionals providing technical health services in clinics, hospitals, or communities.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $2,000~$4,000（公立学校学费约2000-4000欧元） |
-| 大学本科（Grado） | 4年 | $6,000~$12,000（公立大学每年学费约1500-3000欧元） |
-| 硕士（Máster） | 1-2年 | $3,000~$8,000（私立大学或特殊课程费用较高） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $2,000~$4,000 (Public school tuition is about 2,000–4,000 euros) |
+| Undergraduate (Grado) | 4 years | $6,000~$12,000 (The annual tuition fee for public universities is about 1,500–3,000 euros) |
+| Máster | 1-2 years | $3,000~$8,000 (Private universities or special courses have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行官方学位认证 |
-| 注册执业证书 | 各自治区卫生部门 | 必备 | 例如验光师需在相应行业协会注册 |
-| FP Grado Superior学位 | 公立或私立职业教育中心 | 可选 | 部分职业如牙科卫生员需此学历 |
-| 西班牙语B2水平证明 | 塞万提斯学院或DELE考试 | 必备 | 与患者沟通及工作必备 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require official degree recognition |
+| Registered practice certificate | Health departments of all autonomous regions | Required | For example, optometrists must register with the relevant industry association |
+| Spanish B2 level certification | Cervantes Institute or DELE exam | Required | Essential for communication with patients and for work |
+| FP Grado Superior degree | Public or private vocational education centers | Optional | Some professions, such as dental hygienists, require this degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 120,000。西班牙人口老龄化和健康意识提升推动就业增长，初级保健和预防服务需求增加，预计未来十年岗位稳定增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 120,000. Spain's aging population and increased health awareness are driving job growth, increasing demand for primary care and preventive services, and stable job growth is expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，公立机构起薪较低 |
-| 中级（4-7年） | $24,000~$32,000 | 含加班和补贴 |
-| 高级（8年以上） | $32,000~$45,000 | 主管或专科职位薪资更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary: starting salaries at public institutions are relatively low |
+| Mid-level (4-7 years) | $24,000~$32,000 | Including overtime and subsidies |
+| Senior (8+ years) | $32,000~$45,000 | Supervisory or specialized positions offer higher salaries |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术人员晋升为科室主管或专科顾问，通过继续教育获得更高学位后转为更高级别的医疗专业人员。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on unclassified health technicians is mixed: some diagnostic and paperwork tasks will be automated, but critical judgment and interpersonal communication skills remain irreplaceable, and AI can enhance existing service capabilities.
+
+Technicians can be promoted from technical staff to department heads or specialist consultants, and after earning higher degrees through continuing education, they can become higher-level medical professionals.
+
+**Tasks most exposed to AI:**
+
+- Automatically records patient health data and medical history
+- Analyze dental X-rays or refraction images with image recognition assistance
+- Automatically generate nutrition assessment reports
+- Manage appointments and basic patient communication inquiries
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve the accuracy of disease screening
+- Automated data integration helps develop personalized treatment plans
+- The virtual assistant optimizes patient follow-up and health education
+- AI prediction models are used for disease risk warning
+
+**Human moat:**
+
+- Clinical assessment and comprehensive assessment of complex cases
+- Build trust and empathetic communication with patients
+- Decisions involving ethics and privacy
+- Hands-on technical processes (such as dental cleaning)
+
+**Skills to build:**
+
+- Data analysis and interpretation skills
+- AI-assisted diagnostic tool operation
+- Telemedicine skills
+- Interdisciplinary collaboration skills
+- Patient education and behavioral guidance
+- Continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - aging population
 - preventive care
@@ -66,69 +99,68 @@ Includes dental hygienists, optometrists, dietitians and other allied health pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 需有大学学历或5年相关经验，工作合同年薪不低于西班牙平均工资1.5倍（约33,000欧元） |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 针对高技能人才，要求本科以上学历且工作与学历匹配，年薪至少30,000欧元 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的工作居留，需证明招聘该职位无法在欧盟找到合适人选 |
-| Subclass Homologación（Degree Recognition Process） | 部分职业需先完成学历认证，才能申请工作许可 |
+| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or 5 years of relevant experience is required; the annual salary under the contract is no less than 1.5 times the Spanish average salary (about 33,000 euros). |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | For highly skilled talent, a bachelor's degree or above is required, with a matching job and academic background, and an annual salary of at least 30,000 euros |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residence must prove that suitable candidates cannot be found in the EU for the position |
+| Subclass Homologación (Degree Recognition Process) | Some occupations require completion of academic certification before applying for a work permit |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health Technicians Not Elsewhere Classified？**
-- 对健康护理有热情、希望与人打交道的细心人士
-- 愿意完成西班牙职业培训或学历认证的求职者
-
-**谁不适合学Health Technicians Not Elsewhere Classified？**
-- 不喜欢直接接触患者或处理医疗设备的人
-- 无法投入时间和金钱进行学历认证和语言考试的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about healthcare and attentive individuals eager to interact with others
+- Job seekers willing to complete vocational training or academic credentials in Spain
+
+**Who is not suited**
+- People who dislike direct contact with patients or handling medical equipment
+- People who cannot invest time and money in academic certification and language exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for health technicians in Spain?**
+A: Junior technicians earn about €18,000–24,000 before tax annually, intermediate salaries around €24,000–32,000, and senior positions up to €45,000, with differences between public and private institutions.
+
+**Q: How can non-EU personnel obtain work permits for Spanish health technicians?**
+A: Common pathways include the EU Blue Card (requiring a high-paying contract and academic qualifications), the Highly Skilled Professional Visa (Ley 14/2013), or employer-sponsored work residence (Cuenta ajena). Usually, you need to complete the academic credential certification (Homologación) first.
+
+**Q: What educational background is required to become a health technician?**
+A: Most positions require advanced vocational training (FP Grado Superior, 2 years) or a related bachelor's degree (4 years), with some requiring a master's degree. Non-Spanish degrees must be certified by the Ministry of Education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Health Technicians Not Elsewhere Classified为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for health technicians in Spain?**
-答：Entry-level technicians earn about €18,000-€24,000 gross per year, mid-level €24,000-€32,000, and senior positions up to €45,000, with differences between public and private sectors.
-
-**问：How can non-EU nationals obtain a work permit as a health technician in Spain?**
-答：Common routes include the EU Blue Card (requires high salary and degree), Highly Skilled Professional Visa (Ley 14/2013), or employer-sponsored work permit (Cuenta ajena). Degree recognition (Homologación) is usually required.
-
-**问：What education is needed to become a health technician?**
-答：Most positions require advanced vocational training (FP Grado Superior, 2 years) or a related bachelor's degree (4 years), some require a master's. Non-Spanish degrees need recognition by the Ministry of Education.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

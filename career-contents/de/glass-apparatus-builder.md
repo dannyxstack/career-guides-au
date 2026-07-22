@@ -1,61 +1,96 @@
-# Glass Apparatus Builder（Glass Apparatus Builder）职业分析 · DE
+# Glass Apparatus Builder — career analysis · Germany
 
-**职业代码：2132 – Glass Apparatus Builder。**
+**Occupation code: 2132 (KldB)**
 
-Glass apparatus builders design, fabricate, and repair glass instruments for laboratory, chemical, and industrial use, such as flasks, condensers, and reactors. Work involves glassblowing, cutting, joining, and annealing, requiring manual skill and material knowledge.
+Glass apparatus maker designs, creates, and repairs laboratory, chemical, and industrial glassware such as flasks, condensers, and reactors. Work includes glass blowing, cutting, joining, and annealing, requiring manual skill and material knowledge.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间通常有津贴，费用主要为教材和工具） |
-| 继续教育-大师（Meister） | 1-2年（在职或全日制） | $3,000~$8,000（需通过结业考试，可获政府资助） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Training usually includes allowances; costs are mainly for materials and tools) |
+| Continuing Education - Master (Meister) | 1-2 years (on-the-job or full-time) | $3,000~$8,000 (Must pass a final exam; may receive government funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 结业证书（Ausbildungszeugnis） | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，证明职业资格 |
-| 大师证书（Meisterbrief） | IHK | 可选 | 可选，用于晋升管理层或自主创业 |
-| 资质认证（Anerkennung） | IHK或主管机构 | 必备 | 第三国学历需认证，通常需证明实际技能 |
+| Completion certificate (Ausbildungszeugnis) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training, certifying professional qualifications |
+| Qualification recognition (Anerkennung) | IHK or competent authority | Required | Qualifications from third countries need verification, usually requiring proof of actual skills |
+| Master craftsman certificate (Meisterbrief) | IHK | Optional | Optional, for advancement to management or starting a business |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。德国玻璃仪器制造工需求稳定，尤其在化工、制药和科研领域。由于手工技艺传承困难，技术工人短缺，岗位竞争较小。数字化和自动化影响有限，但环保法规可能推动工艺改进。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. Demand for glass apparatus makers in Germany is stable, especially in chemical, pharmaceutical, and research fields. Due to difficulty in passing on manual skills, there is a shortage of skilled workers, and competition is low. Digitalization and automation have limited impact, but environmental regulations may drive process improvements.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 培训后起薪 |
-| 中级（3-8年） | $35,000~$44,000 | 含经验加成 |
-| 高级（8年以上或大师） | $45,000~$55,000 | 大师或管理职位 |
+| Median salary | $40,704 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Starting salary after training |
+| Mid-level (3–8 years) | $35,000~$44,000 | Includes experience bonuses. |
+| Senior (8+ years or master) | $45,000~$55,000 | Master or managerial position |
+| average salary | $43,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业发展路径包括从初级工到高级技师，也可转向质量控制、技术管理或自主创业。通过继续教育可成为玻璃工艺大师（Meister），或进入研发领域参与新型玻璃仪器设计。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Glass apparatus makers face mixed AI impact: automated CNC glass processing equipment can take over standardized cutting and grinding tasks, but high-precision glass blowing, custom design and repair still rely on manual skills; AI-assisted design tools can improve efficiency, but core craftsmanship is hard to fully replace.
+
+Career development paths include from junior technician to senior technician, and can also move into quality control, technical management, or self-employment. Through continuing education, one can become a Master Glass Craftsman (Meister) or enter R&D to design new glass instruments.
+
+**Tasks most exposed to AI:**
+
+- Mechanical cutting and grinding of standardised glass tubes
+- Fully automated CNC glass processing based on CAD models
+- Automation of temperature control and annealing processes in batch production
+- Quality inspection and dimensional calibration of conventional glassware
+
+**Where AI augments the role:**
+
+- AI-assisted design of complex glass instrument structures (e.g., optimization of reactor cavities)
+- Simulating glass thermal stress distribution through digital twins to reduce trial and error
+- AI vision system monitors glass-blowing process in real-time and provides process parameter suggestions.
+- Using machine learning to predict glass formula performance, accelerating new material development
+- AR glasses assist manual work, overlaying design drawings and real-time data
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning techniques for high-precision glass blowing
+- On-site judgment and improvisational creativity for non-standard custom requirements
+- Deep understanding of thermal properties and chemical stability of glass materials
+- Experience in troubleshooting and repairing complex faults (e.g., branch pipe welding)
+- Customer communication and custom solution design skills
+
+**Skills to build:**
+
+- Advanced training in glass hot working and annealing processes
+- Operation of CAD (e.g., SolidWorks) and digital twin tools
+- AI-assisted design (e.g., generative design software)
+- Glass material science (including new heat-resistant glass formulas)
+- Fundamentals of sensors and automation control systems
+- Data analysis basics (for process optimization)
+
+**Key growth areas:**
 
 - Skilled trades shortage
 - Laboratory equipment
@@ -64,69 +99,68 @@ Glass apparatus builders design, fabricate, and repair glass instruments for lab
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于拥有德国认可职业资格或同等学历的技术工人。需雇主合同，年薪门槛较低。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪技术工人，2024年薪门槛约43,800欧元。可能不适用此职业，因平均薪资较低。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统，允许求职者在德居留一年寻找工作，需证明基本语言和技能。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers with recognized German vocational qualifications or equivalent degrees. Requires an employer contract and a lower annual salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled technical workers; 2024 salary threshold around €43,800. May not apply to this occupation due to lower average salary. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers to stay in Germany for one year to find a job, requiring basic language and skills. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass Apparatus Builder？**
-- 喜欢手工制作和精密操作的人
-- 对化学、物理或实验室设备有兴趣的人
-- 愿意接受3年双元制培训并长期积累技能的人
-
-**谁不适合学Glass Apparatus Builder？**
-- 不习惯高温、粉尘或化学材料环境的人
-- 寻求高薪或快节奏晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual crafting and precision operations
+- For those interested in chemistry, physics, or laboratory equipment
+- Individuals willing to undergo 3 years of dual vocational training and accumulate skills long-term
+
+**Who is not suited**
+- Those not accustomed to high temperatures, dust, or chemical environments
+- For those seeking high salary or fast-paced promotion
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for glass apparatus makers in Germany?**
+A: Starting salary approx. EUR 28,000-34,000/year, mid-level EUR 35,000-44,000/year, senior or master up to EUR 45,000-55,000/year. Salary increases with experience and skills.
+
+**Q: How can a third-country (non-EU) citizen immigrate to Germany for this occupation?**
+A: Must have qualifications recognised (Anerkennung) to confirm skills meet German standards, then can apply for a Skilled Worker visa or Opportunity Card (Chancenkarte). Usually requires German B1 or higher.
+
+**Q: What training is required to become a glass instrument maker?**
+A: Typically requires completion of a 3-year dual vocational training combined with enterprise vocational school. Additionally, can further obtain a master craftsman certificate to enhance qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Glass Apparatus Builder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass apparatus builders in Germany?**
-答：Entry-level salaries range from 28,000 to 34,000 EUR/year, mid-career from 35,000 to 44,000 EUR/year, and senior or master level from 45,000 to 55,000 EUR/year.
-
-**问：How can non-EU citizens migrate to Germany for this profession?**
-答：Must obtain recognition (Anerkennung) of foreign qualifications, then apply for a Skilled Worker visa or Opportunity Card. German B1 level is usually required.
-
-**问：What training is needed to become a glass apparatus builder?**
-答：Typically a 3-year dual vocational training (Ausbildung) combining work and school. Further, a Master craftsman certificate (Meister) can be obtained.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

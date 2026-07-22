@@ -1,61 +1,95 @@
-# Personal Transport Driver（Personal Transport Driver）职业分析 · FR
+# Personal Transport Driver — career analysis · France
 
-**职业代码：N4102 – Personal Transport Driver。**
+**Occupation code: N4102 (ROME)**
 
-Provides on-demand or scheduled passenger transport services for individuals, including ride-hailing, taxi, and private chauffeur services. Requires driving skills, route knowledge, and ensuring passenger safety and comfort.
+Providing on-demand or appointment passenger transport services for individual customers, including ride-hailing, taxis, private charters, and more. Driving skills, familiarity with the route, and ensuring passenger safety and comfort are required.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需学历，需驾照和专业培训 | 3个月（CAP）或短期培训 | —（可通过France Travail免费培训，或自费私立驾校约1500-3000欧元） |
-| BAC Pro 运输或物流 | 3年（BAC Pro） | —（公立学校免费，非公立约2000-4000欧元/年） |
+| No academic qualifications are required, only a driver's license and professional training | 3 months (CAP) or short-term training | $0~$3,000 (You can take free training through France Travail, or pay for private driving schools for about 1,500-3,000 euros) |
+| BAC Pro Transportation or Logistics | 3 years (BAC Pro) | $0~$0 (Public schools are free, while non-public ones pay about 2,000-4,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| B类驾照（Permis B） | Préfecture | 必备 | 必备，至少2年驾龄可申请专业客运 |
-| VTC许可证（Carte professionnelle VTC） | Préfecture | 可选 | 从事网约车需通过理论考试和背景审查 |
-| CAP运输（CAP Conducteur transport routier voyageurs） | Ministère de l'Éducation | 可选 | 可选，有助于提升技能和就业 |
+| Class B Driver's License (Permis B) | Préfecture | Required | Essential: At least 2 years of driving experience can apply for professional passenger transport |
+| VTC License (Carte professionnelle VTC) | Préfecture | Optional | To work as a ride-hailing driver, you must pass a theoretical exam and background check |
+| CAP Transport (CAP Conducteur transport routier voyageurs) | Ministère de l'Éducation | Optional | Optional, which helps improve skills and employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。随着共享出行和老龄化社会需求增长，个人运输岗位持续增加。法国就业局（France Travail）预测未来5年该职业需求将稳步上升，尤其在旅游城市和郊区。但行业竞争也较激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. With the growing demand for shared mobility and an aging society, personal transportation jobs continue to increase. France Travail predicts that demand for this profession will steadily rise over the next five years, especially in tourist cities and suburbs. However, industry competition is also fierce.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，多按实际工作小时计算，网约车司机收入波动大 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪，含奖金或小费 |
-| 高级（7年以上或自雇） | $30,000~$45,000 | 税前年薪，自雇司机扣除成本后实际收入 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salaries are mostly calculated based on actual working hours, and ride-hailing drivers' income fluctuates greatly |
+| Mid-level (3–7 years) | $24,000~$30,000 | Pre-tax annual salary, including bonuses or tips |
+| Senior (7 years or more or self-employed) | $30,000~$45,000 | Pre-tax annual salary: Self-employed driver's actual income after deducting costs |
+| average salary | $22,852 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通司机晋升为车队长、调度员或自雇创业者。也可考取高级客运资质（如VTC）服务高端客户。部分司机转向物流或商务接送服务。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Autonomous driving technology will significantly reduce taxi driver positions, but full replacement will take time; in the short term, ride-sharing platform optimization of scheduling intensifies competition, narrowing entry-level roles.
+
+You can be promoted from an ordinary driver to a fleet leader, dispatcher, or self-employed entrepreneur. You can also obtain advanced passenger transport qualifications (such as VTC) to serve high-end customers. Some drivers have turned to logistics or business transfer services.
+
+**Tasks most exposed to AI:**
+
+- Route planning and navigation (AI navigation for optimal routes)
+- Order receiving and dispatch (platform auto-assignment)
+- Billing and payment (automatic calculation and electronic payment).
+- Vehicle basic maintenance warnings (sensor self-check reporting)
+- Customer complaint handling (preprocessed by AI customer service)
+
+**Where AI augments the role:**
+
+- Real-time traffic and dynamic pricing optimization (AI analysis of supply and demand)
+- Safe driving assistance (collision warning, blind spot monitoring)
+- Personalized customer service (recommend itineraries based on historical preferences)
+- Multilingual translator (communicating with foreign passengers via voice translation tools)
+
+**Human moat:**
+
+- Response to complex road conditions (accidents, construction, extreme weather)
+- Interpersonal communication and service experience (emotional support, special needs)
+- Vehicle interior management (cleaning, safety check manual judgment)
+- Trust relationship with passengers (retaining regular customers, word-of-mouth)
+
+**Skills to build:**
+
+- Data analysis and scheduling algorithm understanding (to improve order-taking efficiency).
+- Vehicle maintenance and fault diagnosis basics
+- Advanced customer service and communication skills
+- Safe driving and defensive driving techniques
+- AI-assisted tool usage (navigation, payment, service)
+- Basic multilingual communication
+
+**Key growth areas:**
 
 - Ride-hailing
 - Elderly transport
@@ -64,66 +98,68 @@ Provides on-demand or scheduled passenger transport services for individuals, in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee work permit)） | 由雇主担保的工作签证，需证明该职位无法由欧盟居民填补，适合加入运输公司成为雇员。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或投资项目，个人运输司机难以满足标准，除非附带创业计划。 |
-| Subclass Auto-entrepreneur（Auto-entrepreneur (Self-employed)） | 可申请自雇居留，需证明业务可行性和经济能力，适合网约车司机自行注册。 |
+| Subclass Salarié (Salarié (Employee work permit)) | Employer-sponsored work visa requiring proof the position cannot be filled by an EU resident; suitable for joining a transport company as an employee. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled or investment projects, individual transport drivers may find it difficult to meet the standards unless they have a business plan. |
+| Subclass Auto-entrepreneur (Auto-entrepreneur (Self-employed)) | You can apply for self-employment residence, but you need to prove business feasibility and financial capability. It is suitable for ride-hailing drivers to register on their own. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Transport Driver？**
-- 喜欢开车并熟悉当地路况的人
-- 希望灵活工作时间或自雇的人
-- 善于与乘客沟通并提供优质服务的人
+**Who is suited**
+- People who enjoy driving and are familiar with local road conditions
+- Those who want flexible working hours or self-employment
+- People who are good at communicating with passengers and providing quality service
 
-**谁不适合学Personal Transport Driver？**
-- 不喜长时间独自驾驶的人
-- 对收入波动敏感且寻求稳定月薪的人
+**Who is not suited**
+- People who dislike driving alone for long periods
+- People sensitive to income fluctuations and seeking a stable monthly salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How do private transport drivers in France earn?**
+A: Pre-tax annual salary is about 18,000-45,000 euros, entry-level about 18k-24k, intermediate 24k-30k, and senior (self-employed or luxury car) up to 45k. However, ride-hailing drivers have to deduct vehicle maintenance, fuel, and other costs, so their actual net income is relatively low.
+
+**Q: Can non-EU citizens immigrate to France through this employment?**
+A: The difficulty is quite high. This occupation is not considered a shortage in France; employers must prove they cannot recruit EU employees. Self-employed ride-hailing drivers can apply for self-employment residence status, but must meet requirements for higher income and financial independence.
+
+**Q: What are the employment prospects for personal transport drivers in France?**
+A: Short-term demand remains stable, especially in major cities and tourist areas like Paris. However, the industry is threatened by autonomous driving technology and fiercely competitive, with ride-hailing platforms taking relatively high commissions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Personal Transport Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a personal transport driver in France?**
-答：Annual gross salary ranges from €18,000 to €45,000. Entry-level: €18k-24k, mid-level: €24k-30k, senior (self-employed or luxury): up to €45k. Ride-hailing drivers need to deduct vehicle costs, resulting in lower net income.
-
-**问：Can non-EU citizens immigrate to France through this occupation?**
-答：It's difficult. This occupation is not on France's shortage list. Employers must prove no EU candidate available. Self-employed ride-hailing drivers may apply for a self-employment permit, but must prove sufficient income and economic independence.
-
-**问：What is the job outlook for personal transport drivers in France?**
-答：Short-term demand is stable, especially in big cities and tourist areas. However, the industry faces threats from autonomous driving and fierce competition, with ride-hailing platforms taking high commissions.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

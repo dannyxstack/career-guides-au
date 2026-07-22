@@ -1,58 +1,94 @@
-# Computer network and web technicians（Computer network and web technicians）职业分析 · 加拿大
+# Computer network and web technicians — career analysis · Canada
 
-**职业代码：22220 – Computer network and web technicians。**
+**Occupation code: 22220 (NOC)**
 
-In Canada, Radiocommunications Technicians align with Computer network and web technicians (NOC 22220), involving installation and maintenance of communication network equipment. This occupation is eligible for economic immigration via Express Entry or Provincial Nominee Programs.
+In Canada, radio communication technicians correspond to Computer Network and Web Technicians (NOC 22220), responsible for installing and maintaining communication network equipment. This occupation falls under skilled migration, and applications can be made via Express Entry or Provincial Nominee Programs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $10,000~$30,000（公立学院学费，国际生更高） |
-| 学士学位 | 4年 | $20,000~$60,000（大学学费，国际生更高） |
+| Diploma | 2 years | $10,000~$30,000 (Public college tuition; higher for international students.) |
+| Bachelor's degree | 4 years | $20,000~$60,000 (University tuition, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES/ICES等 | 必备 | 用于移民申请，评估海外学历与加拿大标准等同 |
-| 语言考试（IELTS/CELPIP） | IELTS/CELPIP | 必备 | 移民要求，CLB 7以上为佳 |
+| Educational credential assessment (ECA) | WES/ICES etc. | Required | Used for immigration applications to assess equivalence of overseas qualifications to Canadian standards. |
+| Language tests (IELTS/CELPIP) | IELTS/CELPIP | Required | Immigration requirement, CLB 7 or higher preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏上（★★★½☆）。** 全国从业人数约 47,000。加拿大对通信技术员需求稳定，受5G和物联网发展推动。就业机会集中在电信公司和政府机构，安大略省、魁北克省和BC省岗位较多。预计未来十年岗位增长中等。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 47,000. Demand for telecommunications technicians in Canada is stable, driven by 5G and IoT development. Job opportunities are concentrated in telecom companies and government agencies, with more positions in Ontario, Quebec, and British Columbia. Moderate job growth is expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 全职，年薪CAD |
-| 中级（4-7年） | $55,000~$75,000 | 全职，年薪CAD |
-| 高级（8年以上） | $75,000~$95,000 | 全职，年薪CAD |
+| Median salary | $74,880 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Full-time, annual salary CAD |
+| Mid-level (4-7 years) | $55,000~$75,000 | Full-time, annual salary CAD |
+| Senior (8+ years) | $75,000~$95,000 | Full-time, annual salary CAD |
+| average salary | $79,040 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级技术员可晋升为高级技师或团队主管，积累经验后可转向网络架构或项目管理。持有相关认证（如Cisco、CompTIA）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In this occupation, low-level operations tasks are easily automated by AI, but advanced skills such as complex system integration and network architecture design remain valuable; overall employment numbers may shrink.
+
+Junior technicians can advance to senior technician or team supervisor roles; with experience, they can move into network architecture or project management. Holding relevant certifications (e.g., Cisco, CompTIA) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine network configuration and fault diagnosis (e.g., basic configuration of routers and switches)
+- Automated analysis of system logs and performance monitoring
+- Construction and maintenance of standard web templates
+- Standardized remote support for common customer issues.
+- Repetitive cable laying and hardware installation.
+
+**Where AI augments the role:**
+
+- Use AI network analysis tools to quickly identify complex network bottlenecks.
+- Leveraging AI-driven security monitoring systems to preempt cyber attacks
+- Automated large-scale device configuration using AI-driven deployment scripts
+- Use AI to assist in designing network topologies and optimising structures
+- Combine AI predictive maintenance to reduce network downtime events
+
+**Human moat:**
+
+- Ability for on-site commissioning and integration of non-standard, legacy systems
+- Cross-departmental communication and consulting skills to understand business needs
+- Creative network architecture design for unknown problems
+- Involves judgment and decision-making related to security policies and compliance responsibilities
+- Manual intervention and rapid recovery in emergency situations
+
+**Skills to build:**
+
+- Network automation scripts (Python, Ansible, Terraform)
+- Cloud platform network management (AWS, Azure, GCP)
+- AI/ML fundamentals and network data analysis
+- Cybersecurity certifications (CISSP, CCNP Security)
+- SDN/NFV software-defined networking technology
+- DevOps and CI/CD pipeline integration
+
+**Key growth areas:**
 
 - Telecommunications
 - 5G deployment
@@ -61,64 +97,63 @@ In Canada, Radiocommunications Technicians align with Computer network and web t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合有1年以上工作经验、语言成绩好的申请人，通过CRS评分获邀 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对通信技术员的省提名项目，如安大略省人力资本优先类别 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants with over 1 year of work experience and good language scores, invited through CRS scoring. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for communication technicians, such as Ontario's Human Capital Priorities stream |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer network and web technicians？**
-- 喜欢动手操作电子设备者
-- 具备故障排除和问题解决能力者
-- 愿意不断学习新技术者
-
-**谁不适合学Computer network and web technicians？**
-- 不擅长电路分析和信号测试者
-- 不适应户外或现场工作环境者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes working with electronic devices
+- Those with troubleshooting and problem-solving skills
+- Those willing to continuously learn new technologies
+
+**Who is not suited**
+- Those not proficient in circuit analysis and signal testing
+- Those not suited to outdoor or on-site work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a radio communications technician in Canada?**
+A: According to Canada's Job Bank, the median annual salary for a computer network technician (similar occupation) is about CAD 62,000, entry-level around CAD 40,000-50,000, senior over CAD 90,000.
+
+**Q: How to immigrate to Canada in this occupation?**
+A: Eligible for Federal Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., Ontario, BC). Requires ECA credential assessment and language test scores.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏上（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer network and web technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a radiocommunications technician in Canada?**
-答：According to Canada's Job Bank, computer network technicians (similar occupation) have a median annual salary of around CAD 62,000, entry-level CAD 40,000-55,000, and senior up to CAD 95,000+.
-
-**问：How can this occupation immigrate to Canada?**
-答：Through Express Entry (FSW/CEC) for skilled immigrants or Provincial Nominee Programs (e.g., Ontario, BC). Requires ECA and language test results.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

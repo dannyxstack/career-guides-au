@@ -1,58 +1,91 @@
-# Public relations professionals（Public relations professionals）职业分析 · UK
+# Public relations professionals — career analysis · United Kingdom
 
-**职业代码：2493 – Public relations professionals。**
+**Occupation code: 2493 (SOC)**
 
-Public relations professionals plan, organise and co-ordinate activities to promote the image and understanding of an organisation and its products or services to consumers, businesses, members of the public and other specified audiences.
+Public relations specialists plan, organize, and coordinate activities to enhance the image and awareness of their organization and its products or services among consumers, businesses, the public, and other specific audiences.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $9,250~$12,000（英国本土学生学费，国际学生更高） |
-| 硕士学位 | 1年 | $10,000~$18,000（学费因学校而异） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (Tuition for domestic UK students; higher for international students) |
+| Master's degree | 1 year | $10,000~$18,000 (Tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共关系或相关学科学士学位 | 大学 | 可选 | 通常要求 |
-| CIPR认证 | 英国公共关系特许协会 | 可选 | 专业资格，提升竞争力 |
+| Bachelor's degree in Public Relations or related discipline | University | Optional | Usually required |
+| CIPR certification | Chartered Institute of Public Relations (UK) | Optional | Professional qualifications to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 48,000。随着数字媒体和社交平台的持续发展，英国对公共关系专业人才的需求将保持稳定增长。企业越来越重视品牌声誉管理，为从业者提供了丰富的就业机会。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 48,000. With the continuous development of digital media and social platforms, demand for public relations professionals in the UK will remain steadily growing. Companies increasingly value brand reputation management, offering abundant employment opportunities for practitioners.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 助理或专员 |
-| 中级（3-7年） | $30,000~$45,000 | 经理 |
-| 高级（7年以上） | $50,000~$80,000 | 总监或主管 |
+| Median salary | $37,563 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Assistant or specialist |
+| Mid-level (3–7 years) | $30,000~$45,000 | Manager |
+| Senior (7+ years) | $50,000~$80,000 | Director or supervisor. |
+| average salary | $41,422 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级PR专员可晋升为高级PR经理或公关总监，也可转向数字营销、品牌管理或企业传播领域。积累行业经验和建立人脉是晋升的关键。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The role of public relations specialist will experience both automation compression and AI enhancement: basic media monitoring, report generation and other tasks are replaced, but core work such as strategic planning, media relations maintenance, and crisis communication becomes more efficient with AI tools. Entry barriers rise, demand for versatile talent increases.
+
+Entry-level PR specialists can advance to senior PR manager or PR director, or transition to digital marketing, brand management, or corporate communications. Building industry experience and networks is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Media monitoring and data analysis: AI automatically captures, classifies, and generates media coverage reports.
+- Basic press releases and content drafts: GPT and similar models generate standardized content based on templates.
+- Audience sentiment analysis: NLP tools automatically analyze social media sentiment trends.
+- Media list maintenance and distribution: AI automatically matches journalists and mass-sends press releases.
+
+**Where AI augments the role:**
+
+- Crisis communication strategies: AI simulates crisis scenarios, generates response scripts and communication paths.
+- Communication effect analysis: AI quantifies campaign attribution, optimizes media placement and messaging.
+- Personalized media outreach: AI analyzes journalists' preferences to assist in customizing personal communication.
+- Content strategy optimization: AI tests headlines and keywords to improve content reach.
+
+**Human moat:**
+
+- Build and maintain key media relationships: human trust and intuition are irreplaceable.
+- Handling reputation crises: requires judgment, empathy, and high-level communication.
+- Strategic communication planning: understand business objectives and stakeholder interests.
+- Creative content direction: original concept development and emotional resonance of brand stories.
+
+**Skills to build:**
+
+- AI tool application (e.g., press release generation, sentiment analysis platforms).
+- Data analysis and visualization (using data to support communication decisions).
+- Multimedia content production (video, interactive content).
+- Crisis communication and emotional intelligence management.
+- Project management and cross-department collaboration.
+- Brand strategy and audience insight.
+
+**Key growth areas:**
 
 - Digital media
 - Social media management
@@ -61,68 +94,67 @@ Public relations professionals plan, organise and co-ordinate activities to prom
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需获得雇主担保，年薪不低于£26,200或行业标准，该职业在可担保职业列表中。 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可申请，允许在英国工作2年（博士3年），无需担保。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在公关领域有杰出成就或潜力的人士，无需雇主担保。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, salary no less than £26,200 or industry standard; this occupation is on the eligible sponsor list. |
+| Subclass Graduate (Graduate visa) | UK graduates are eligible to apply, allowing work in the UK for 2 years (3 years for PhD), no sponsorship required. |
+| Subclass Global Talent (Global Talent visa) | For individuals with outstanding achievements or potential in public relations; no employer sponsorship required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public relations professionals？**
-- 擅长沟通和人际关系的人
-- 有创意且注重细节的人
-- 能在压力下工作并处理危机的人
-
-**谁不适合学Public relations professionals？**
-- 不喜欢与公众打交道的人
-- 无法灵活应对变化的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in communication and interpersonal relationships
+- Creative and detail-oriented individuals
+- People who can work under pressure and handle crises
+
+**Who is not suited**
+- People who dislike dealing with the public
+- People unable to adapt flexibly to change
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for public relations specialists?**
+A: Junior: approx £22,000-£28,000, mid-level: approx £30,000-£45,000, senior: up to £50,000-£80,000.
+
+**Q: How can foreign citizens immigrate to the UK through PR occupation?**
+A: Can be employer-sponsored through the Skilled Worker visa, work after graduation via the Graduate visa, or apply for the Global Talent visa.
+
+**Q: What qualifications are needed to become a PR specialist?**
+A: Usually requires a bachelor's degree in a relevant field such as public relations, communications, or marketing; a master's degree can improve competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Public relations professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for public relations professionals?**
-答：Entry level around £22,000-£28,000, mid-level £30,000-£45,000, senior £50,000-£80,000.
-
-**问：How can foreign nationals migrate to the UK in PR?**
-答：Via Skilled Worker visa with employer sponsorship, Graduate visa after UK study, or Global Talent visa.
-
-**问：What qualifications are needed to become a PR professional?**
-答：Typically a bachelor's degree in PR, communications, or marketing; a master's can be beneficial.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

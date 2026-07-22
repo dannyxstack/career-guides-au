@@ -1,61 +1,96 @@
-# Plasterer, Stucco and Staff Worker（Plasterer, Stucco and Staff Worker）职业分析 · FR
+# Plasterer, Stucco and Staff Worker — career analysis · France
 
-**职业代码：F1601 – Plasterer, Stucco and Staff Worker。**
+**Occupation code: F1601 (ROME)**
 
-This profession involves applying plaster, stucco, and mortar to interior and exterior surfaces, creating decorative plaster elements (cornices, rosettes), and restoring historic buildings. It requires fine manual skills and an artistic eye.
+This profession involves applying plaster, plaster, and mortar to the interior and exterior surfaces of buildings, performing decorative plaster crafts (such as cornices and rose decorations), and restoring historic buildings. It requires meticulous craftsmanship and a certain artistic vision.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书 (CAP) | 2年（CAP） | —（通过学徒制 (apprentissage) 通常免学费，且获得薪酬） |
-| 职业学士 (Licence Pro) 或 高级技术员证书 (BTS) | 3年（Licence Pro） | —（公立大学学费低，私立院校较高） |
+| Certificate of Professional Competency (CAP) | 2 years (CAP) | $0~$1,000 (Apprenticeships usually offer no tuition fees and pay a salary) |
+| Bachelor of Vocational Studies (Licence Pro) or Advanced Technician Certificate (BTS) | 3 years (Licence Pro) | $0~$5,000 (Public universities have lower tuition fees, while private institutions offer higher tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 抹灰工 (CAP Plâtrier-plaquiste) | 法国教育部 | 必备 | 基础职业文凭，从业基本要求 |
-| BP 抹灰工 (Brevet Professionnel) | 法国教育部 | 可选 | 进阶文凭，有助于晋升管理岗位 |
-| CQP 装饰石膏工 (Certificat de Qualification Professionnelle) | 建筑业职业培训委员会 (CPNEFP du BTP) | 可选 | 专门针对装饰石膏工艺的认证 |
+| CAP Plasterer (CAP Plâtrier-plaquiste) | French Ministry of Education | Required | Basic vocational diploma, basic requirements for employment |
+| BP Plasterer (Brevet Professionnel) | French Ministry of Education | Optional | Advanced diplomas help advance to management positions |
+| CQP Qualification Professionnelle | Construction Industry Vocational Training Committee (CPNEFP du BTP) | Optional | Certification specifically for decorative plaster craftsmanship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国建筑业持续增长，特别是节能改造和历史建筑修复项目为抹灰工提供了稳定需求。由于新入行者减少，熟练工短缺，预计未来5年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's construction industry continues to grow, especially energy-efficient renovations and historic building restoration projects, providing stable demand for plasterers. Due to a decrease in new entrants and a shortage of skilled workers, employment prospects are expected to be good over the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，包括学徒出身 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，有经验后薪资增长 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含工头或自雇者收入 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprenticeships |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, with salary increases after gaining experience |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including income from foremen or self-employed individuals |
+| average salary | $24,042 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从学徒成长为熟练工，进而晋升为工头或项目经理。积累经验后也可成立自己的小型企业，承接私人住宅和商业项目。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation is significantly impacted by AI automation; indoor plastering robots have begun replacing repetitive tasks, entry-level positions are narrowing, but advanced manual skills and on-site adaptability still hold value.
+
+You can grow from an apprentice to a skilled worker, and then be promoted to foreman or project manager. After gaining experience, you can also establish your own small business, undertaking private residential and commercial projects.
+
+**Tasks most exposed to AI:**
+
+- Large-area wall surface preparation and plastering
+- Standard plaster mixing ratios and mixing
+- Mechanical spraying of simple decorative lines
+- Scaffolding erection and material handling (automated logistics)
+- Dimensional error measurement in quality inspection (AI vision)
+
+**Where AI augments the role:**
+
+- Use plastering robots for rapid large-area application, manual finishing of edges
+- AI scans wall flatness and guides manual patching
+- AR glasses assist in positioning decorative plaster patterns
+- Digital project management and automated material scheduling
+
+**Human moat:**
+
+- Hand-carved and artistic design of complex decorative plaster
+- On-site judgment for non-standard shapes and old building restoration
+- Tactile Experience of Plaster and Substrate Bonding (e.g., Humidity and Temperature Adjustments)
+- Coordination with other trades and on-site problem solving
+- Communication and fulfillment of customized customer aesthetic needs
+
+**Skills to build:**
+
+- Operating and maintaining plastering robots
+- Building Information Modeling (BIM) basics
+- Digital measurement and setting out (laser scanner)
+- Knowledge of high-performance plaster materials
+- Sustainable construction and green building technology
+- Basic electrical and engineering mathematics
+
+**Key growth areas:**
 
 - Heritage restoration
 - Energy renovation
@@ -64,66 +99,68 @@ This profession involves applying plaster, stucco, and mortar to interior and ex
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 受雇于法国雇主的工作居留，需要雇主担保和劳工许可（如通过紧缺职业名单简化）。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或高技术人才，可简化手续，但不针对普通技工。 |
-| Subclass 自由职业者（Profession Libérale） | 自雇或成立公司，需证明业务计划和财力。 |
+| Subclass Salarié (Salarié (Work Permit)) | Work residence employed by a French employer requires employer sponsorship and a labor permit (e.g., simplified through the Shortage Occupation List). |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled or high-tech talents, procedures can be simplified, but not for ordinary technicians. |
+| Subclass Freelancer (Profession Libérale) | Self-employment or establishing a company requires proof of business plans and financial strength. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plasterer, Stucco and Staff Worker？**
-- 喜欢手工制作、对精致细节有耐心的人
-- 愿意从事体力活动、不怕灰尘和噪音的人
-- 希望成为高需求工匠、拥有稳定职业前景的人
-
-**谁不适合学Plasterer, Stucco and Staff Worker？**
-- 不喜体力劳动或户外高空作业者
-- 对粉尘过敏或有呼吸道疾病者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handmade crafts and are patient with delicate details
+- Willing to engage in physical activity and not afraid of dust or noise
+- Those who hope to become high-demand craftsmen with stable career prospects
+
+**Who is not suited**
+- Those who dislike physical labor or working at heights outdoors
+- Those allergic to dust or with respiratory diseases
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of plasterers in France?**
+A: Entry-level salary around €22,000-€28,000 (pre-tax), senior foreman or self-employed can earn over €40,000.
+
+**Q: As a citizen of a third country, how can you immigrate to France to work as a plasterer?**
+A: Can apply for a Salarié work residence permit through a shortage occupation. The French Ministry of Labor regularly publishes a list of shortage occupations, and plasterers are often included. Requires employer sponsorship and meeting qualification requirements.
+
+**Q: Is a French diploma required to pursue this profession?**
+A: Yes, usually a CAP or equivalent qualification is required. Foreign qualifications need French recognition (reconnaissance des qualifications) or can be obtained through an apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Plasterer, Stucco and Staff Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plasterer in France?**
-答：Entry-level salary is around €22,000-€28,000 (gross), while experienced foremen or self-employed can earn over €40,000.
-
-**问：How can a third-country national immigrate to France as a plasterer?**
-答：You can apply for a Salarié work permit if the occupation is on the shortage list. Plasterers are often listed. Employer sponsorship and recognized qualifications are required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Budget Analysts（Budget Analysts）职业分析 · 美国
+# Budget Analysts — career analysis · United States
 
-**职业代码：13-2031 – Budget Analysts。**
+**Occupation code: 13-2031 (SOC)**
 
-Budget analysts examine budget estimates for completeness, accuracy, and compliance with regulations, and analyze budgeting and accounting reports to support financial planning.
+Budget Analysts review budget estimates for completeness, accuracy, and compliance, analyse budget and accounting reports, and provide financial planning support to organisations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学约4万美元，私立超15万美元） |
-| 硕士学位（可选） | 2年 | $30,000~$100,000（MBA或公共管理硕士，提升竞争力） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities around $40,000 USD, private over $150,000 USD) |
+| Master's degree (optional) | 2 years | $30,000~$100,000 (MBA or Master of Public Administration enhances competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 大学 | 必备 | 会计、金融、公共管理或相关领域 |
-| CGFM认证 | 美国政府财务管理者协会(AGAFM) | 可选 | 提升政府预算领域竞争力 |
-| CPA认证 | 各州会计委员会 | 可选 | 适合转向会计或财务分析 |
+| Bachelor's degree | University | Required | Accounting, finance, public administration, or related fields |
+| CGFM certification | Association of Government Accountants (AGA), formerly AGAFM | Optional | Enhancing competitiveness in government budget field |
+| CPA certification | State boards of accountancy | Optional | Suitable for transitioning to accounting or financial analysis |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 51,400。美国劳工统计局预测2023-2033年就业增长约5%，与所有职业平均水平相近。政府、医疗和教育领域需求稳定，但自动化可能减少部分入门岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 51,400. The US Bureau of Labor Statistics projects about 5% employment growth from 2023-2033, similar to the average for all occupations. Demand is stable in government, healthcare, and education, but automation may reduce some entry-level positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 政府或非营利组织略低 |
-| 中级（4-7年） | $75,000~$100,000 | 企业或咨询公司更高 |
-| 高级（8年以上） | $100,000~$130,000 | 预算经理或主管可达15万美元 |
+| Median salary | $91,640 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Slightly lower in government or non-profit organizations |
+| Mid-level (4-7 years) | $75,000~$100,000 | Higher in companies or consulting firms |
+| Senior (8+ years) | $100,000~$130,000 | Budget managers or directors can earn up to $150,000. |
+| average salary | $96,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级分析师晋升为高级分析师或预算经理，需积累经验并考取认证（如CGFM、CPA）。也可转向财务或项目管理岗位，或进入咨询公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Progress from junior analyst to senior analyst or budget manager, requires experience and certifications (e.g., CGFM, CPA). Can also transition to finance or project management roles, or join consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Government
 - Healthcare
@@ -62,69 +98,68 @@ Budget analysts examine budget estimates for completeness, accuracy, and complia
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于学士及以上学位，需雇主担保，年度配额受限 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上或学士加5年经验，需PERM劳工证，排期较长 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位，需PERM劳工证，排期更长 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国企业内部调动，需海外关联公司1年以上工作经验 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to bachelor's degree or higher, requires employer sponsorship, subject to annual quota limits |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or bachelor's plus 5 years experience, PERM labor certification needed, long wait times |
+| Subclass EB-3 (Employment-Based Third Preference) | Applies to bachelor's degrees; requires PERM labor certification; longer waiting times |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within a multinational, requires more than 1 year of experience in an overseas related company |
 
-**PR难度：中等偏高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Budget Analysts？**
-- 擅长数字分析和财务建模的人
-- 注重细节和合规性的人
-- 希望在政府或非营利领域发展的人
-
-**谁不适合学Budget Analysts？**
-- 不喜欢重复性报告工作的人
-- 希望快速晋升或高薪的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in numerical analysis and financial modeling
+- People who are detail-oriented and compliance-focused
+- Someone who wants to work in government or non-profit
+
+**Who is not suited**
+- Those who dislike repetitive reporting work
+- Individuals seeking rapid promotion or high salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range of budget analysts?**
+A: Entry-level is about $55,000-$75,000, mid-level $75,000-$100,000, senior $100,000-$130,000. Government positions pay slightly less than private sector.
+
+**Q: How difficult is it for budget analysts to apply for US work visas?**
+A: Medium difficulty. Can immigrate via H-1B or EB-2/EB-3 green card, but requires employer sponsorship and long wait times. Government positions usually do not sponsor visas.
+
+**Q: What are the career prospects for budget analysts?**
+A: Can advance to budget manager or finance director, also pivot to financial analysis, auditing, or consulting. Continuing education aids promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等偏高（★★★☆☆） |
-
-Budget Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for budget analysts?**
-答：Entry-level salaries range from $55,000 to $75,000, mid-level $75,000 to $100,000, and senior $100,000 to $130,000. Government positions pay slightly less than private sector.
-
-**问：How difficult is it for budget analysts to obtain a US work visa?**
-答：Moderate difficulty. H-1B and EB-2/EB-3 green cards are possible with employer sponsorship, but quotas and long backlogs exist. Government positions usually do not sponsor visas.
-
-**问：What are the career prospects for budget analysts?**
-答：Advancement to budget manager or CFO, or transition to financial analysis, auditing, or consulting. Continuing education helps.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

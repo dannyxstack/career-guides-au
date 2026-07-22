@@ -1,58 +1,91 @@
-# Supervisors of Food and Tobacco Industries（Supervisors of Food and Tobacco Industries）职业分析 · ES
+# Supervisors of Food and Tobacco Industries — career analysis · Spain
 
-**职业代码：3203 – Supervisors of Food and Tobacco Industries。**
+**Occupation code: 3203 (CNO)**
 
-Oversee food and tobacco production lines, ensuring safety and quality standards, coordinating workers and machinery operations.
+Supervise food and tobacco production lines to ensure processes meet safety and quality standards, and coordinate workers and machine operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio o Superior） | 2年（Grado Medio）或3年（Grado Superior） | $500~$2,000（公立学校学费低，私立较高） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学学费约1000€/年） |
+| Secondary Vocational Education (FP Grado Medio o Superior) | 2 years (Grado Medio) or 3 years (Grado Superior) | $500~$2,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public university tuition is about €1000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品与烟草工业主管职业资格 | 各自治区教育部门 | 必备 | 需要通过FP课程或认证 |
-| 食品安全认证 | 培训机构 | 可选 | 如HACCP证书，非强制但有用 |
+| Professional qualification for food and tobacco industry supervisors | Education departments of all autonomous regions | Required | Completion of FP courses or certification is required |
+| Food safety certification | Training institution | Optional | For example, HACCP certificates are not mandatory but useful |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙食品工业稳定，但烟草行业需求下降。自动化和数字化带来新技能要求，职位竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Spain's food industry is stable, but demand in the tobacco sector is declining. Automation and digitalization bring new skill requirements, and competition for positions is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（8年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (8+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从生产线工人晋升为主管，转向质量控制或生产管理。需掌握新技术和管理技能。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The food and beverage processing supervisor role has mixed prospects: AI and automation will handle repetitive tasks like production scheduling and quality data recording, but manual supervision, anomaly handling, and team management still rely on human judgment, making full replacement unlikely in the short term.
+
+You can be promoted from production line worker to supervisor, then shift to quality control or production management. You need to master new technologies and management skills.
+
+**Tasks most exposed to AI:**
+
+- Production line scheduling and optimization: AI automatically generates optimal schedules based on orders, inventory, and machine status.
+- Quality inspection data recording: vision system automatically detects product defects and generates reports
+- Equipment maintenance reminders: AI predicts failures and pushes maintenance tasks
+- Daily work log and report generation: natural language generation automatically writes production reports
+
+**Where AI augments the role:**
+
+- Production quality monitoring: AI anomaly alerts assist supervisors in quickly identifying problem areas
+- Efficiency analysis: AI dashboards display key performance indicators in real time, supporting data-driven decision-making
+- Training and management: AI simulation systems assist in training new employees on standard operating procedures
+- Supply chain coordination: AI predicts raw material needs, assisting supervisors in communication with procurement departments
+
+**Human moat:**
+
+- Team management and interpersonal communication: handling employee disputes, motivating teams
+- Anomaly decision-making: emergencies such as equipment shutdowns and quality incidents
+- Cross-department coordination: collaborate with maintenance, sanitation, logistics, etc.
+- Process improvement experience: optimising processes using tacit knowledge accumulated over long term
+
+**Skills to build:**
+
+- Data analysis and visualization tools (e.g., Power BI, Tableau)
+- Basics of industrial IoT and sensors.
+- Basic AI/machine learning concepts and their application in manufacturing
+- Lean production and continuous improvement methodology
+- Understanding of Digital Twin and Industry 4.0
+- Leadership and change management
+
+**Key growth areas:**
 
 - Food automation
 - Quality control
@@ -61,65 +94,64 @@ Oversee food and tobacco production lines, ensuring safety and quality standards
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，要求高等教育和至少工资门槛 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高技能专业人士，快速审批 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 雇主担保的工作居留，需证明职位难以本地填补 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring higher education and at least a minimum salary threshold |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly skilled professionals with fast approval |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Employer-sponsored work residency requires proof that the position is difficult to fill locally |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors of Food and Tobacco Industries？**
-- 喜欢监督和管理工作
-- 注重食品质量和安全
-- 适应生产线环境
-
-**谁不适合学Supervisors of Food and Tobacco Industries？**
-- 厌恶重复性工作
-- 不擅长人际协调
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys supervising and managing work
+- Focus on food quality and safety
+- Adapting to production line environments
+
+**Who is not suited**
+- Dislikes repetitive work
+- Not good at interpersonal coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for food industry supervisors?**
+A: Entry-level salary is about 22,000-28,000 euros, intermediate salary 28,000-35,000 euros, and senior salary 35,000-45,000 euros (pre-tax annual salary).
+
+**Q: How can third-country citizens immigrate to Spain to work in this profession?**
+A: You can obtain an EU Blue Card or a Highly Skilled Professional visa (Ley 14/2013), which requires employer sponsorship and relevant academic qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors of Food and Tobacco Industries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for food industry supervisors?**
-答：Entry level €22,000-€28,000, mid-level €28,000-€35,000, senior €35,000-€45,000 (gross annual).
-
-**问：How can third-country nationals immigrate to Spain for this occupation?**
-答：Via EU Blue Card or Highly Skilled Professional visa (Law 14/2013), requiring employer sponsorship and relevant qualifications.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Public Relations Professional（Public Relations Professional）职业分析 · IE
+# Public Relations Professional — career analysis · Ireland
 
-**职业代码：2432 – Public Relations Professional。**
+**Occupation code: 2432 (ISCO08)**
 
-Public relations professionals manage communication between organizations and the public, media, and stakeholders, planning campaigns and crafting press releases to enhance brand reputation.
+A public relations officer is responsible for managing and maintaining communication between the organization and the public, media, and other stakeholders, planning PR events, writing press releases, and enhancing brand image.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（公立大学年学费） |
-| 硕士 | 1-2年 | $12,000~$20,000（硕士课程年学费） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Annual tuition at public universities) |
+| Master's degree | 1-2 years | $12,000~$20,000 (Annual tuition for master's program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共关系或传播学学位 | 爱尔兰大学 | 必备 | 通常要求相关学位 |
-| CIPR认证 | 特许公共关系协会 | 可选 | 专业资格认证 |
+| Public relations or communications degree | Irish universities | Required | Usually requires a relevant degree |
+| CIPR certification | Chartered Institute of Public Relations | Optional | Professional Qualification Certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。爱尔兰公关行业需求稳定，随着企业数字化转型和社交媒体兴起，对懂数字营销和危机管理的公关人才需求增加，预计未来五年就业增长约7%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. The public relations industry in Ireland has stable demand. With the digital transformation of businesses and the rise of social media, there is increasing demand for PR professionals skilled in digital marketing and crisis management. Employment growth of approximately 7% is expected over the next five years.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$75,000 | Annual pre-tax salary |
+| average salary | $46,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径包括从初级公关专员晋升为高级专员、公关经理、传播总监，部分可转向企业沟通或营销管理领域，需积累行业经验和人脉。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI is taking over basic PR tasks like copywriting and media monitoring on a large scale, but core functions like strategic communication, crisis management, and relationship maintenance are amplified, requiring practitioners to upgrade from executors to strategists.
+
+Career paths include progression from junior PR specialist to senior specialist, PR manager, communications director; some may transition to corporate communication or marketing management, requiring industry experience and networking.
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting basic press releases and media statements
+- Media monitoring and influence report generation
+- Social media content scheduling and automatic posting
+- Standardized responses to common media inquiries
+- Batch sending of event invitation letters and follow-up emails
+
+**Where AI augments the role:**
+
+- Using AI for media sentiment analysis and trend prediction
+- Optimizing social media ad placement and audience targeting through AI
+- Use AI to generate multiple versions of copy and conduct A/B testing
+- Quickly generate crisis simulation scenarios and response plans using AI tools
+- Develop personalized communication strategies through AI analysis of audience data.
+
+**Human moat:**
+
+- Complex stakeholder relationship management and trust building
+- On-the-spot judgment and impromptu expression in crisis communication
+- Long-term brand strategy planning and cross-department coordination
+- Design creative communication solutions for ambiguous problems
+- Internal communications requiring confidentiality or high sensitivity
+
+**Skills to build:**
+
+- Proficient in using tools like GPTs for copy editing and generating multiple versions
+- Learn basics of natural language processing to understand AI reports
+- Proficient in social media analytics tools (e.g., Brandwatch)
+- Develop data interpretation and visualization skills
+- Improve cross-cultural communication and strategic thinking
+- Familiar with AI-driven public opinion monitoring platforms
+
+**Key growth areas:**
 
 - Digital Communications
 - Crisis Management
@@ -63,69 +99,68 @@ Public relations professionals manage communication between organizations and th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过3.2万欧元且职业在紧缺名单上的申请人；公关不在紧缺名单上，一般不符合。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过3万欧元的一般职业，需通过劳动力市场测试，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过2倍全国平均工资（约6.5万欧元）的高技能非欧盟公民；公关薪资通常不达标。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to applicants with an annual salary over €32,000 and whose occupation is on the shortage list; Public Relations is not on the shortage list, so generally not eligible. |
+| Subclass General Employment P (General Employment Permit) | Applicable to general occupations with annual salary over 30,000 EUR, requires labor market test and employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens earning more than twice the national average salary (approx. €65,000); PR salaries typically do not meet this threshold. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Professional？**
-- 善于沟通、写作和策划的人
-- 对媒体和公众关系有浓厚兴趣
-- 具备抗压能力和应变能力
-
-**谁不适合学Public Relations Professional？**
-- 不善于人际交往和团队合作
-- 讨厌处理危机和紧急情况
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong communication, writing, and planning skills
+- Strong interest in media and public relations
+- Ability to handle pressure and adapt to changing situations
+
+**Who is not suited**
+- Not good at interpersonal communication and teamwork
+- Dislike dealing with crises and emergencies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a Public Relations Specialist in Ireland?**
+A: Entry-level salary approx. €28,000–35,000 per year, mid-level €38,000–50,000, senior €55,000–75,000, depending on experience and industry.
+
+**Q: How can non-EU citizens immigrate to Ireland through a public relations position?**
+A: Public relations generally does not qualify for a Critical Skills Permit; a General Employment Permit is required, with an annual salary exceeding €30,000 and passing a labour market test; the employer must prove inability to hire locally.
+
+**Q: What are the career prospects in public relations?**
+A: Can advance from specialist to manager and director, or pivot to corporate communications, marketing, or digital media; digital PR and crisis management are growth areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Public Relations Professional为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for public relations professionals in Ireland?**
-答：Entry-level salaries range from €28,000 to €35,000, mid-level from €38,000 to €50,000, and senior from €55,000 to €75,000, depending on experience and industry.
-
-**问：How can non-EU citizens immigrate to Ireland as a PR professional?**
-答：PR roles typically do not qualify for the Critical Skills Permit. A General Employment Permit is required, with a salary over €30,000, a labor market test, and employer sponsorship.
-
-**问：What are the career prospects for PR professionals?**
-答：Career progression from officer to manager and director, with opportunities to move into corporate communications, marketing, or digital media; digital PR and crisis management are growing areas.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

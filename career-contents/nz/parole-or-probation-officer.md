@@ -1,59 +1,92 @@
-# Parole or Probation Officer（Parole or Probation Officer）职业分析 · 新西兰
+# Parole or Probation Officer — career analysis · New Zealand
 
-**职业代码：411714 – Parole or Probation Officer。**
+**Occupation code: 411714 (ANZSCO)**
 
-Parole or Probation Officers in New Zealand supervise and support parolees and probationers, aiming to reduce reoffending. Listed on Green List Tier 1, offering direct residency, with mandatory registration.
+Parole or probation officers in New Zealand are responsible for supervising and guiding parolees and probationers to promote rehabilitation. This occupation is listed on the Green List Tier 1, eligible for direct residence immigration, and requires registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $22,000~$35,000（学费每年NZD，社会工作要求或相关领域） |
-| 硕士文凭 | 1-2年 | $26,000~$40,000（学费每年NZD，可选社会工作、心理学等） |
+| Bachelor's degree | 3 years | $22,000~$35,000 (Annual tuition fee in NZD, social work or related field required) |
+| Master's degree | 1-2 years | $26,000~$40,000 (Tuition per year in NZD, options include Social Work, Psychology, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作注册证 | 新西兰社工注册委员会 | 必备 | 需完成认可课程并通过评估 |
-| 社会工作学士学位 | 新西兰大学 | 必备 | 通常需3年制，含实习 |
-| 司法部入职培训 | 新西兰司法部 | 必备 | 聘用后完成，为期数周 |
+| Social Work Registration Certificate | New Zealand Social Workers Registration Board | Required | Must complete an accredited course and pass an assessment |
+| Bachelor of Social Work | New Zealand universities | Required | Typically 3 years, including internship. |
+| Ministry of Justice induction training | New Zealand Ministry of Justice | Required | Completed after hiring, lasting several weeks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。新西兰司法系统对假释或缓刑官需求稳定，随着社区矫正政策加强，就业前景良好。政府投资于减少再犯项目，岗位增长预计持续。
+**Job demand: high (★★★★☆).** National workforce approx. 800. The New Zealand justice system has a stable demand for parole or probation officers, with good employment prospects as community correction policies strengthen. Government investment in reoffending reduction projects is expected to sustain job growth.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 薪资取决于地点与培训 |
-| 中级（3-8年） | $75,000~$95,000 | 含高级缓刑官 |
-| 高级（8年以上） | $95,000~$120,000 | 团队主管或区域经理 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$75,000 | Salary depends on location and training |
+| Mid-level (3–8 years) | $75,000~$95,000 | Including senior probation officer |
+| Senior (8+ years) | $95,000~$120,000 | Team supervisor or regional manager |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级缓刑官起步，可晋升为高级缓刑官、团队主管或区域经理。也可转向政策制定或培训岗位，或攻读心理学、社会工作高级学位提升专业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
+
+Start as a junior probation officer, can advance to senior probation officer, team leader, or regional manager. Also transition to policy development or training roles, or pursue advanced degrees in psychology or social work for professional development.
+
+**Tasks most exposed to AI:**
+
+- shift scheduling and attendance record automation
+- Prisoner file entry and standardized report generation
+- Real-time anomaly detection alerts from security cameras (AI video analysis)
+- Routine patrol route planning and task assignment
+
+**Where AI augments the role:**
+
+- AI-assisted risk assessment system improves accuracy in predicting inmate behavior
+- Smart monitoring systems reduce manual patrol workload, focusing on key interventions
+- Data analysis tools optimize recidivism rate statistics and rehabilitation program effectiveness evaluation.
+- Virtual training systems simulate conflict scenarios to improve response capabilities
+
+**Human moat:**
+
+- Immediate judgment and physical intervention skills in high-risk conflicts
+- Humane assessment and trust building with prisoners' psychological behavior
+- Human decision-making and coordination in emergencies (riots, medical emergencies)
+- Discretion in law enforcement under legal and ethical constraints
+
+**Skills to build:**
+
+- Behavioral psychology and crisis intervention techniques
+- AI monitoring system operation and data analysis basics
+- Conflict de-escalation and negotiation communication skills.
+- Application of digital prison management software.
+- Understanding of ethics and privacy regulations
+- Cross-cultural sensitivity and social service collaboration
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +95,64 @@ Parole or Probation Officers in New Zealand supervise and support parolees and p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单Tier 1职业，可直接申请居民签证，无需工作转居留。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需6分制（根据学历/工作）并满足注册要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于未直接申请移民者，后续可转Tier 1。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, eligible to directly apply for a resident visa without needing to work towards residence. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, requiring a 6-point system (based on qualifications/work) and meeting registration requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | Certificate of Sponsorship work visa, for those who have not directly applied for immigration; can later switch to Tier 1. |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Parole or Probation Officer？**
-- 具备社会工作、心理学或司法背景者
-- 有耐心和沟通能力，热衷于帮助他人改过自新者
-- 能应对高风险案件和压力者
-
-**谁不适合学Parole or Probation Officer？**
-- 缺乏同理心或偏好快节奏商业环境者
-- 难以处理犯罪案例和文书工作者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background in social work, psychology, or justice studies
+- Those with patience and communication skills, passionate about helping others reform
+- Those who can handle high-risk cases and pressure
+
+**Who is not suited**
+- Those lacking empathy or preferring fast-paced business environments
+- Those who find it difficult to handle criminal cases and paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for parole or probation officers?**
+A: Junior approx NZD 60,000-$75,000, mid-level $75,000-$95,000, senior $95,000-$120,000.
+
+**Q: Is it easy to immigrate to New Zealand in this occupation?**
+A: Easy. On Green List Tier 1, can directly apply for a resident visa, and is a long-term shortage occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 中高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Parole or Probation Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Parole or Probation Officers?**
-答：Entry-level NZD 60,000–75,000, mid-level NZD 75,000–95,000, senior NZD 95,000–120,000.
-
-**问：Is it easy to immigrate to NZ as a Parole or Probation Officer?**
-答：Yes. It is on Green List Tier 1, eligible for direct residency, and a long-term skill shortage.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

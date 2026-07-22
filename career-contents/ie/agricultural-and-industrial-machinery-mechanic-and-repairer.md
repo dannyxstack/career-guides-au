@@ -1,58 +1,94 @@
-# Agricultural and Industrial Machinery Mechanic and Repairer（Agricultural and Industrial Machinery Mechanic and Repairer）职业分析 · IE
+# Agricultural and Industrial Machinery Mechanic and Repairer — career analysis · Ireland
 
-**职业代码：7233 – Agricultural and Industrial Machinery Mechanic and Repairer。**
+**Occupation code: 7233 (ISCO08)**
 
-Install, maintain, diagnose faults, and repair agricultural and industrial machinery to ensure efficient operation.
+Responsible for installation, maintenance, fault diagnosis, and repair of agricultural and industrial machinery to ensure efficient operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业后学徒制 | 4年 | —（学徒期间有工资，培训费低） |
-| 高等职业教育（PLC） | 2年 | $2,000~$6,000（部分课程免学费） |
+| Apprenticeship after high school graduation | 4 years | $0~$1,000 (Paid during apprenticeship, low training costs) |
+| Higher Vocational Education (PLC) | 2 years | $2,000~$6,000 (Some courses are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 完成SOLAS认可的学徒制 | SOLAS | 必备 | 全国通用资格，行业认可度高 |
-| 安全培训证书（如Safe Pass） | FAS/SOLAS | 必备 | 所有工地和车间必需 |
+| Complete a SOLAS-recognized apprenticeship | SOLAS | Required | Nationally recognized qualification with high industry acceptance |
+| Safety training certificate (e.g., Safe Pass) | FAS/SOLAS | Required | Required on all construction sites and workshops |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。爱尔兰农业和制造业对机械师需求稳定，随着技术升级和自动化普及，需要更多能维修现代电子系统的技师。预计未来5年就业增长平稳。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Demand for mechanics in Irish agriculture and manufacturing is stable; with technological upgrades and automation, more technicians able to repair modern electronic systems are needed. Steady employment growth is expected over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（4-7年） | $36,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $46,000~$55,000 | 税前年薪 |
+| Median salary | $40,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $36,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $46,000~$55,000 | Annual pre-tax salary |
+| average salary | $40,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从学徒成长为高级技师或团队主管，也可凭借经验转向机械销售、服务管理或自营修理厂。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Automation has a mixed impact on agricultural and industrial machinery mechanics and repairers: predictive maintenance and remote diagnostics will replace some routine inspections, but complex fault repairs and on-site work still rely on human judgment. Overall demand is stable but skill requirements are rising.
+
+Can progress from apprentice to senior technician or team supervisor, or transition to machinery sales, service management, or self-employed repair shop with experience.
+
+**Tasks most exposed to AI:**
+
+- Regular equipment inspection and wear detection using AI vision systems
+- Automated diagnostic system reads fault codes and generates repair suggestions
+- Predictive maintenance scheduling based on historical data
+- Remote monitoring of equipment operating parameters and automatic alarms via IoT.
+- Automated parts inventory management and ordering
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems help quickly locate complex electrical/hydraulic faults
+- Augmented reality (AR) overlaying repair steps and 3D exploded views
+- Use digital twins to simulate maintenance plans, reducing trial-and-error costs
+- AI optimizes repair routes and tool preparation, improving on-site efficiency
+- Machine learning analyzes historical customer data to provide customized maintenance plans
+
+**Human moat:**
+
+- ability to handle unstructured on-site problems
+- Responsibility for critical equipment maintenance involving personal safety
+- Building trust by communicating with clients about requirements and explaining technical issues
+- Reasoning and repair of cross-system integration failures
+- Experience in repairing old non-smart devices
+
+**Skills to build:**
+
+- Fundamentals of IoT sensors and data acquisition
+- Basic Robot Programming and Debugging
+- Electrical/electronic circuit diagnosis and repair
+- Digital twin or AR tool operation
+- Use of data analysis and predictive maintenance platforms
+- Communication and customer service skills
+
+**Key growth areas:**
 
 - Agriculture
 - Industrial Automation
@@ -61,67 +97,66 @@ Install, maintain, diagnose faults, and repair agricultural and industrial machi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需满足薪资门槛（年薪34,000欧元以上） |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若从事农业机械维修，可能符合紧缺技能资格，年薪需达32,000欧元以上 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in shortage, must meet salary threshold (annual salary above €34,000) |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If working in agricultural machinery repair, may qualify for skills shortage eligibility, with an annual salary of over 32,000 euros. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Industrial Machinery Mechanic and Repairer？**
-- 喜欢动手操作和解决机械问题的人
-- 愿意从事户外或车间工作的人
-- 对农业或工业机械有浓厚兴趣者
-
-**谁不适合学Agricultural and Industrial Machinery Mechanic and Repairer？**
-- 不喜欢体力劳动和噪音环境
-- 缺乏耐心进行细致检查的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving mechanical problems
+- People willing to work outdoors or in workshops
+- Interest in agricultural or industrial machinery
+
+**Who is not suited**
+- Dislike of physical labor and noisy environments.
+- People who lack patience for detailed inspection
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Ireland?**
+A: Approximately €28,000-35,000 per year (pre-tax) for entry-level, €36,000-45,000 for mid-level, and €46,000-55,000 for senior level.
+
+**Q: How can overseas individuals obtain a work permit to work in this occupation in Ireland?**
+A: Can apply for a General Employment Permit; if involving agricultural machinery repair, may qualify for a Critical Skills Employment Permit, needing a job offer and meeting salary requirements.
+
+**Q: What are the career prospects for this occupation?**
+A: Can advance to senior technician, service manager, or start own mechanical repair business. As agricultural technology upgrades, demand for technicians skilled in electronic systems and automation equipment increases.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural and Industrial Machinery Mechanic and Repairer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Ireland?**
-答：Entry-level around EUR 28,000-35,000, mid-level EUR 36,000-45,000, senior EUR 46,000-55,000 per annum before tax.
-
-**问：How can overseas workers obtain a work permit for this occupation in Ireland?**
-答：Apply for a General Employment Permit; if in agricultural machinery repair, may qualify for Critical Skills Employment Permit; requires a job offer and meeting salary thresholds.
-
-**问：What are the career prospects for this occupation?**
-答：Promotion to senior technician, service manager, or start your own repair business. With advancing agricultural technology, technicians skilled in electronic systems and automation are in demand.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

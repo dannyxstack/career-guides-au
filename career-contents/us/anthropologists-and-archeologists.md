@@ -1,60 +1,94 @@
-# Anthropologists and Archeologists（Anthropologists and Archeologists）职业分析 · 美国
+# Anthropologists and Archeologists — career analysis · United States
 
-**职业代码：19-3091 – Anthropologists and Archeologists。**
+**Occupation code: 19-3091 (SOC)**
 
-Study the origin, development, and behavior of human beings, including cultural, linguistic, physical characteristics, and material remains of past civilizations to understand human history and social evolution.
+Study the origins, development, and behavior of humans, including culture, language, physical characteristics, and material remains of past civilizations, to reveal human history and social evolution.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$160,000（公立大学州内学费较低，私立大学较高） |
-| 硕士 | 2年 | $40,000~$100,000（部分研究型项目提供助学金） |
-| 博士 | 5-7年 | —（多数博士项目全额奖学金覆盖学费并提供生活费） |
+| Bachelor's degree | 4 years | $80,000~$160,000 (In-state tuition at public universities is lower, while private universities are higher) |
+| Master's degree | 2 years | $40,000~$100,000 (Some research programs offer scholarships) |
+| Doctorate | 5-7 years | $0~$150,000 (Most doctoral programs offer full scholarships covering tuition and providing a living stipend) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 人类学或考古学硕士/博士学位 | 认证大学 | 必备 | 高级职位通常要求博士，文化资源管理岗位硕士亦可 |
-| 田野工作经验 | 考古田野学校或类似机构 | 必备 | 需参与至少一个季度的考古发掘 |
-| 注册专业考古学家（RPA） | 注册专业考古学家学会 | 可选 | 自愿认证，但提升就业竞争力 |
+| Master's or Ph.D. in anthropology or archaeology | Accredited university | Required | Senior positions usually require a PhD; cultural resource management roles may accept a master's degree |
+| Fieldwork experience | Archaeological field school or similar institution | Required | Must participate in at least one quarter of archaeological excavation |
+| Registered Professional Archaeologist (RPA) | Register of Professional Archaeologists | Optional | Voluntary certification, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 7,100。美国劳工统计局预计2023-2033年就业增长约6%，与平均增速持平。受基础设施建设、文化资源管理需求推动，但联邦资助波动可能影响学术岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 7,100. The US Bureau of Labor Statistics projects about 6% employment growth from 2023 to 2033, about average. Driven by infrastructure construction and cultural resource management needs, but federal funding fluctuations may affect academic positions.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 考古田野技师或研究助理 |
-| 中级（4-7年） | $60,000~$80,000 | 项目经理或文化资源管理专员 |
-| 高级（8年以上） | $80,000~$110,000 | 资深研究员、大学教授或咨询顾问 |
+| Median salary | $70,770 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Archaeological field technician or research assistant |
+| Mid-level (4-7 years) | $60,000~$80,000 | Project manager or cultural resource management specialist |
+| Senior (8+ years) | $80,000~$110,000 | Senior researcher, university professor, or consulting advisor |
+| average salary | $75,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级研究助理或田野技师起步，逐步晋升为项目经理、资深研究员；博士学位者可在大学任教并争取终身教职，或转入文化遗产管理、咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on archaeologists and anthropologists is mixed: automation can handle data mining and literature analysis, but core tasks like fieldwork and cultural interpretation still require human judgment, so overall risk is manageable.
+
+Start as a junior research assistant or field technician, gradually advancing to project manager or senior researcher; those with a PhD can teach at universities and pursue tenure, or transition into cultural heritage management or consulting.
+
+**Tasks most exposed to AI:**
+
+- Basic literature search and classification
+- Automatic annotation and preliminary screening of site images
+- Voice recording transcription and preliminary language analysis
+- Automated statistical analysis and report generation from survey data
+
+**Where AI augments the role:**
+
+- Archaeological site detection: AI processes remote sensing imagery and radar data to quickly locate potential excavation points
+- Bone age and species identification: machine learning accelerates bone measurement and species recognition
+- Cultural evolution simulation: Agent-based modeling to simulate population migration and trade routes
+- Multimodal analysis: combined interpretation of text, images, 3D models
+
+**Human moat:**
+
+- Interpersonal communication in fieldwork and collaboration with local communities
+- Intuition and on-site judgment of context when unearthing artifacts
+- In-depth interpretation of cultural symbolism and cross-cultural comparison
+- Ethical decisions: involving indigenous rights and cultural heritage protection
+- Interdisciplinary Integration: Merging heterogeneous information from biology, geology, history, etc.
+
+**Skills to build:**
+
+- Proficiency in GIS and remote sensing data analysis (e.g., QGIS, ArcGIS)
+- Learn Python/R for statistics and text mining
+- Proficient in 3D modeling and photogrammetry (e.g., Agisoft Metashape)
+- Understand the basics of machine learning (classification, clustering in archaeology)
+- Digital archival management and metadata standards (e.g., Dublin Core)
+- Basic statistics and experimental design
+
+**Key growth areas:**
 
 - Cultural Resource Management
 - Infrastructure Projects
@@ -63,68 +97,67 @@ Study the origin, development, and behavior of human beings, including cultural,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于大学、博物馆或咨询公司聘用硕士以上学位者，但配额紧张且需抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士以上学位或特殊能力，通过PERM劳工认证，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在人类学领域有突出成就的研究人员，无需劳工证，但标准严格 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable for universities, museums, or consulting firms hiring master's degree or higher, but limited quotas and requires lottery |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or higher, or exceptional ability, through PERM labor certification, with a long queue. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For researchers with outstanding achievements in anthropology, no labor certification required, but standards are strict |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Anthropologists and Archeologists？**
-- 对人类文化历史有强烈好奇心
-- 喜欢田野工作和户外研究
-- 具备耐心与细致分析能力
-
-**谁不适合学Anthropologists and Archeologists？**
-- 追求高薪与快速晋升
-- 不喜欢不确定性或长时间野外生活
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong curiosity about human cultural history
+- Enjoy fieldwork and outdoor research
+- Possesses patience and meticulous analytical skills
+
+**Who is not suited**
+- Seeking high salary and fast promotion
+- Does not like uncertainty or long periods of outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: Are anthropologists' salaries high?**
+A: Generally low to moderate, entry-level positions about $45,000-60,000, senior professors or consultants can reach $80,000-110,000, but heavily influenced by funding fluctuations.
+
+**Q: How can foreigners immigrate to the US through anthropology?**
+A: A common path is the H-1B visa (requires employer sponsorship and lottery) or EB-2 green card (requires master's degree or higher and PERM), but academic positions are highly competitive, and cultural resource management companies are more likely to sponsor.
+
+**Q: Do anthropology PhD graduates have to become professors?**
+A: not entirely; about half of PhDs enter non-academic fields such as cultural resource management, government agencies, museums, or consulting, but academic positions remain a core pursuit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Anthropologists and Archeologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Are anthropologists well-paid?**
-答：Generally moderate to low; entry-level positions $45,000-$60,000, senior roles $80,000-$110,000, but funding-dependent.
-
-**问：How can foreigners immigrate to the US as anthropologists?**
-答：Common paths: H-1B visa (employer-sponsored lottery) or EB-2 green card (master's+ and PERM); academic jobs competitive, CRM firms more supportive.
-
-**问：Must I become a professor with a PhD in anthropology?**
-答：No, about half enter non-academic roles like CRM, government, museums, or consulting, though tenure-track remains central.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

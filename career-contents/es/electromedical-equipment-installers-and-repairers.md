@@ -1,60 +1,95 @@
-# Electromedical Equipment Installers and Repairers（Electromedical Equipment Installers and Repairers）职业分析 · ES
+# Electromedical Equipment Installers and Repairers — career analysis · Spain
 
-**职业代码：7532 – Electromedical Equipment Installers and Repairers。**
+**Occupation code: 7532 (CNO)**
 
-Install, maintain, and repair electromedical equipment such as ECG machines, monitors, and ventilators in hospitals and clinics to ensure safe operation.
+Responsible for installing, maintaining, and repairing electronic medical equipment in hospitals and clinics, such as ECGs, monitors, ventilators, etc., to ensure safe operation of equipment.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立FP学费较低，私立较高） |
-| 高等职业教育（FP Grado Superior） | 2年 | $600~$3,000（专攻临床工程或电子设备维护） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public FP tuition is lower, while private schools are higher) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $600~$3,000 (Specializing in clinical engineering or electronic equipment maintenance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子设备维修技术员认证 | 西班牙职业培训中心 | 必备 | 完成FP相关课程后获得 |
-| 医疗设备安全培训 | 设备制造商或医院 | 可选 | 通常由雇主提供，涉及特定设备操作 |
+| Certified electronic equipment maintenance technician | Spanish vocational training center | Required | Obtained after completing FP-related courses |
+| Medical equipment safety training | Equipment manufacturers or hospitals | Optional | Usually provided by employers, involving specific equipment operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 3,500。西班牙医疗设备市场持续增长，老龄化社会推动医院设备更新与维护需求，该职业就业稳定，公立医院和医疗设备公司均有需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,500. The Spanish medical equipment market continues to grow, and an aging society drives demand for hospital equipment upgrades and maintenance. This profession offers stable employment and is in demand for both public hospitals and medical equipment companies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前面议，含社保 |
-| 中级（3-7年） | $28,000~$35,000 | 公立医院与私营企业略有差异 |
-| 高级（7年以上） | $35,000~$45,000 | 含主管津贴或项目管理奖励 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Negotiable before tax, including social insurance |
+| Mid-level (3–7 years) | $28,000~$35,000 | Public hospitals differ slightly from private enterprises |
+| Senior (7+ years) | $35,000~$45,000 | Including supervisor allowances or project management rewards |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可晋升为维修团队主管或设备管理经理，也可通过进修成为医疗设备工程师或技术顾问，或自主创业开设维修服务公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate some diagnostic and reporting tasks, but on-site installation, maintenance, and compliance tasks still rely on human experience, resulting in mixed outcomes for the job.
+
+You can be promoted to maintenance team leader or equipment management manager, or through further training to become a medical equipment engineer or technical consultant, or start your own maintenance service company.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates equipment fault diagnosis reports
+- Predict equipment faults by analyzing sensor data with AI
+- Remote monitoring of equipment status and automatic alarms
+- Automated calibration processes for standardized equipment
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems help quickly locate complex faults
+- Augmented reality (AR) guides on-site repair steps
+- AI optimizes spare parts inventory management and procurement planning
+- Historical equipment data analysis improves preventive maintenance efficiency
+- AI-powered training simulators accelerate new learners' skill acquisition
+
+**Human moat:**
+
+- Flexibility and adaptability in the physical environment of the field
+- Communicate with medical staff to understand actual usage needs
+- Manual commissioning of non-standardized or outdated equipment
+- Manual decision-making and prioritization in emergencies
+- In-depth understanding of safety regulations and industry standards
+
+**Skills to build:**
+
+- IoT and sensor data interpretation
+- AI-assisted diagnostic tool operation
+- Use of augmented reality repair assistance systems
+- Data analysis and preventive maintenance planning
+- Cybersecurity Fundamentals (Medical Device Network Security)
+- Cross-departmental communication and customer service skills
+
+**Key growth areas:**
 
 - Healthcare Technology
 - Medical Device Maintenance
@@ -63,68 +98,67 @@ Install, maintain, and repair electromedical equipment such as ECG machines, mon
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 由西班牙公司提供工作合同，申请受雇工作居留，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高技能专业人才，要求大学学历或高级FP，且年薪不低于规定门槛（约34000欧元）。 |
+| Subclass Cuenta ajena (Work Contract Visa) | A Spanish company provides a work contract to apply for employment-based residence, and it must be proven that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for highly skilled professionals, requiring a university degree or senior FP, with an annual salary not lower than the specified threshold (about 34,000 euros). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electromedical Equipment Installers and Repairers？**
-- 喜欢动手维修电子设备的人
-- 对医疗技术感兴趣并希望进入医疗行业的技术人员
-- 有电子或电气背景，寻求稳定工作的人员
-
-**谁不适合学Electromedical Equipment Installers and Repairers？**
-- 不擅长与客户或医护人员沟通的人
-- 对医疗环境过敏或感到不适的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys repairing electronic devices
+- Technicians interested in medical technology and hoping to enter the healthcare industry
+- Individuals with backgrounds in electronics or electrical engineering seeking stable employment
+
+**Who is not suited**
+- People who are not good at communicating with clients or healthcare workers
+- People who are allergic to or feel uncomfortable in the medical environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this profession in Spain?**
+A: Junior approx. €22,000–€28,000, mid-level €28,000–€35,000, senior €35,000–€45,000, annual pre-tax salary.
+
+**Q: How can foreigners apply for work residence in this occupation?**
+A: Usually, you can apply for employment residence (Cuenta ajena) through a work contract provided by a Spanish company, or apply for a high-skilled talent visa (Altamente cualificado) with an advanced FP/bachelor's degree.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically, students need to complete secondary vocational education (FP Grado Medio) or higher vocational education (FP Grado Superior) related majors, such as electronic equipment maintenance or clinical engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electromedical Equipment Installers and Repairers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Spain?**
-答：Junior around €22,000-€28,000, mid-level €28,000-€35,000, senior €35,000-€45,000 gross annual.
-
-**问：How can foreigners apply for a work visa for this occupation?**
-答：Typically via a job offer for a work contract visa (Cuenta ajena) or with higher FP/degree for a highly skilled visa (Altamente cualificado).
-
-**问：What education is required for this occupation?**
-答：Usually a vocational training diploma (FP Grado Medio or Grado Superior) in electronics or clinical engineering.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

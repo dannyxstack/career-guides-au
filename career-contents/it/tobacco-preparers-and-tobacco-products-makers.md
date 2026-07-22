@@ -1,60 +1,92 @@
-# Tobacco Preparers and Tobacco Products Makers（Tobacco Preparers and Tobacco Products Makers）职业分析 · IT
+# Tobacco Preparers and Tobacco Products Makers — career analysis · Italy
 
-**职业代码：7516 – Tobacco Preparers and Tobacco Products Makers。**
+**Occupation code: 7516 (ISCO08)**
 
-Responsible for processing tobacco and manufacturing tobacco products such as cigarettes and cigars, including leaf treatment, blending, rolling, and packaging.
+Responsible for tobacco processing and the production of tobacco products such as cigarettes and cigars, including leaf handling, blending, rolling, and packaging.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1-2年 | —（部分课程由企业提供，免费或低费用） |
-| 高中文凭 | 3年 | —（公立学校免费） |
+| Vocational training | 1-2 years | $0~$2,000 (Some courses provided by companies, free or low-cost) |
+| High school diploma | 3 years | $0~$0 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 烟草制品生产安全培训 | INAIL | 必备 | 工作场所安全课程 |
-| 食品卫生证书 | 地方卫生局 | 可选 | 针对接触食品的环节 |
+| Tobacco product production safety training | INAIL | Required | Workplace safety courses |
+| Food hygiene certificate | Local Health District | Optional | For food contact points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 8,000。意大利烟草行业受健康政策影响需求下降，自动化和电子烟兴起导致传统岗位减少，预计未来五年就业机会缩水。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 8,000. Demand in the Italian tobacco industry is declining due to health policies, and automation and e-cigarettes are reducing traditional jobs; employment opportunities are expected to shrink in the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual pre-tax salary |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从业者可从生产操作员晋升为班组长或质检员，但行业萎缩导致晋升空间有限，需转向多元化产品或自动化维护。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Tobacco preparation and manufacturing jobs are significantly affected by automation and AI: repetitive tasks such as tobacco leaf processing and cigarette packaging will be replaced by machines, leading to a continuous reduction in job demand and a rapid decline in entry-level positions.
+
+Practitioners can advance from production operator to team leader or quality inspector, but industry contraction limits promotion scope, requiring a shift to diversified products or automated maintenance.
+
+**Tasks most exposed to AI:**
+
+- Pre-processing tasks such as tobacco leaf grading and destemming are done by machine vision and automation equipment.
+- The rolling and packaging of cigarettes and cigars are carried out by robotic assembly lines
+- Formula blending optimized by AI with automatic feeding, reducing manual calculation and weighing.
+- Finished product quality inspection uses AI visual inspection, replacing manual inspection
+
+**Where AI augments the role:**
+
+- AI monitors production data, assists in optimizing processes and formulas
+- Predictive maintenance: AI analyzes equipment vibration and temperature data to provide early fault warnings.
+- Supply chain forecasting: AI predicts raw material demand based on historical data, reducing inventory costs
+- Compliance report generation: automatically organize production records and emission data to meet regulatory requirements
+
+**Human moat:**
+
+- Sensory experience and innovation in tobacco flavor blending (human taste differences)
+- On-site decisions for non-standard issues such as raw material anomalies and equipment failures
+- Communicate with regulatory bodies to ensure compliant production (e.g., nicotine content control)
+- Training new employees, managing production line teams, and other soft skills
+
+**Skills to build:**
+
+- Automated equipment operation and maintenance (PLC, robot programming)
+- Basic data analysis (Python/SQL) for production monitoring and optimization
+- AI tool application (visual inspection system debugging, predictive maintenance platforms)
+- Knowledge of food safety and tobacco industry regulations
+- Process improvement and lean production methods
+
+**Key growth areas:**
 
 - Automation
 - E-cigarette
@@ -63,65 +95,67 @@ Responsible for processing tobacco and manufacturing tobacco products such as ci
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 非欧盟公民通过年度配额申请工作签证，需雇主担保，适用于非紧缺职业。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可，由雇主向移民局申请，审核工作条件和居住情况。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU citizens apply for work visas through annual quotas, requiring employer sponsorship, applicable to non-occupations in shortage. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit, applied for by the employer to the immigration office, reviewing working conditions and residence status |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tobacco Preparers and Tobacco Products Makers？**
-- 愿意接受重复性体力劳动的工人
-- 对烟草加工技术有兴趣的人
-- 可在小城镇或乡村就业的人
+**Who is suited**
+- Workers willing to accept repetitive physical labor
+- For those interested in tobacco processing technology.
+- Those who can work in small towns or rural areas
 
-**谁不适合学Tobacco Preparers and Tobacco Products Makers？**
-- 追求高薪和职业发展的人
-- 对健康风险敏感的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People sensitive to health risks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Italian tobacco product manufacturing workers?**
+A: Junior workers earn about €18,000-22,000 annually, senior workers up to €35,000, below the national average wage.
+
+**Q: How can foreigners apply for a work visa in the Italian tobacco industry?**
+A: Primarily through Decreto Flussi annual quotas, requiring the employer to provide a work contract and accommodation proof, and apply for a Nulla Osta work permit.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Industry scale is shrinking with limited promotion paths; can switch to quality inspection or team leader roles but lacks long-term development prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tobacco Preparers and Tobacco Products Makers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tobacco product makers in Italy?**
-答：Entry-level workers earn about €18,000-22,000 per year, while senior workers can reach €35,000, generally below the national average.
-
-**问：How can foreigners apply for a work visa in the Italian tobacco industry?**
-答：Mainly through the Decreto Flussi annual quota, requiring an employer to provide a work contract and accommodation proof, and apply for a Nulla Osta work permit.
-
-**问：Is there career advancement in this occupation?**
-答：The industry is shrinking, limiting promotion opportunities; possible moves to quality control or team leader roles, but long-term prospects are poor.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

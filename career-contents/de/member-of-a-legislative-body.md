@@ -1,60 +1,94 @@
-# Member of a Legislative Body（Member of a Legislative Body）职业分析 · DE
+# Member of a Legislative Body — career analysis · Germany
 
-**职业代码：7121 – Member of a Legislative Body。**
+**Occupation code: 7121 (KldB)**
 
-Members of legislative bodies are elected officials responsible for making and amending laws, overseeing government work, and representing constituents. They engage in parliamentary debates, committee work, and voter outreach at federal and state levels in Germany.
+Legislative members are elected public officials responsible for making and amending laws, overseeing government work, and representing constituents. This occupation exists at both state and federal levels in Germany, involving parliamentary debates, committee work, and voter engagement.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：一般（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 政治学或法学本科学位 | 3-4年（大学） | —（德国公立大学学费极低，每学期仅行政费，约300欧元。） |
-| 政党内部培训 | 持续培训 | —（政党提供的志愿培训和研讨会，费用因政党而异。） |
+| Undergraduate degree in political science or law | 3-4 years (university) | $0~$3,000 (German public universities have very low tuition fees, only an administrative fee of about 300 euros per semester.) |
+| Intra-party training | Ongoing training | $0~$5,000 (Volunteer training and seminars provided by political parties, fees vary by party.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制资格 | 无 | 可选 | 立法机构成员无强制学历要求，但通常具有高等教育背景。 |
-| 德国国籍或欧盟公民身份 | 联邦内政部 | 必备 | 议员候选人需为德国公民或欧盟公民（地方选举）。 |
+| German nationality or EU citizenship | Department of Home Affairs | Required | Parliamentary candidates must be German or EU citizens (for local elections). |
+| No specific mandatory qualifications | None | Optional | No compulsory educational requirements for legislators, but they usually have a higher education background. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,000。德国立法机构成员数量固定，由选举决定。未来需求保持稳定，但职位竞争激烈，依赖于政党提名和选举结果。数字化和公民参与增加可能影响工作方式。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,000. The number of members of German legislative bodies is fixed and determined by elections. Future demand remains stable, but competition for positions is intense, depending on party nominations and election results. Digitalisation and increased civic engagement may affect working methods.
 
-**竞争度：极高（★★★★★）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★★).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（新当选） | $60,000~$100,000 | 取决于州议会还是联邦议会；联邦议员年薪约10万欧元。 |
-| 中级（连任/委员会工作） | $100,000~$150,000 | 含津贴，如雇佣助理费用等。 |
-| 高级（议会领导层） | $150,000~$200,000 | 议长、党团主席等职位收入更高。 |
+| Median salary | $75,000 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Junior (newly elected) | $60,000~$100,000 | Depends on state parliament or federal parliament; federal MPs earn an annual salary of around €100,000. |
+| Intermediate (re-election/committee work) | $100,000~$150,000 | Includes allowances, such as costs for hiring an assistant. |
+| Senior (Council Leadership Level) | $150,000~$200,000 | Positions such as Speaker and Caucus Chair have higher incomes. |
+| average salary | $77,412 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展始于党内基层或地方政府工作，逐渐争取党内提名参选。成功当选后可通过连任或晋升至委员会主席、议会党团领导等职位。可能转向更高级别政治机构或政府职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on legislative members is mixed: automation can improve information processing and clerical efficiency, but core decision-making and representative duties are hard to replace, and technology application is strictly regulated.
+
+Career development begins with grassroots or local government work within the party, gradually seeking party nomination to run for office. After successful election, can advance through re-election or promotion to committee chair, parliamentary caucus leader, etc. May transition to higher-level political institutions or government positions.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates draft legal texts and summaries of amendments
+- Analyzing voter letters and automatically replying to common questions
+- Automatically organize meeting minutes and voting data
+- Simulate policy impacts and generate preliminary assessment reports
+- Automatically monitor regulatory changes and notify in time
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of the multiple impacts and stakeholder positions of complex proposals
+- Use public opinion monitoring tools to understand voters' concerns in real time
+- Using data analysis to optimize public communication strategies for policy proposals
+- AI provides cross-domain knowledge retrieval to improve parliamentary debate quality
+
+**Human moat:**
+
+- Political judgment and moral choices: involving value trade-offs and long-term interests
+- Interpersonal trust and representation: voters vote based on personality and promises.
+- Institutional responsibility and legal authority: ceremonial duties such as personally signing bills, taking oaths, etc.
+- Crisis decision-making: quickly synthesizing multiple sources of information and making decisions in sudden public events
+
+**Skills to build:**
+
+- Data literacy and policy analysis tools (e.g., Python, R)
+- Understanding of AI Ethics and Governance Frameworks
+- Fundamentals of Public Sentiment Analysis and Natural Language Processing
+- Digital communication and multimedia content planning
+- Interdisciplinary knowledge integration skills (law, economics, technology)
+- Strategic foresight and scenario planning
+
+**Key growth areas:**
 
 - Political
 - Parliamentary
@@ -63,61 +97,63 @@ Members of legislative bodies are elected officials responsible for making and a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Not applicable（No specific visa for politicians） | 非欧盟公民通常无路径成为德国立法机构成员，因为通常要求德国或欧盟国籍。 |
+| Subclass Not applicable (No specific visa for politicians) | Non-EU citizens generally have no path to become members of German legislative bodies, as German or EU citizenship is usually required. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Member of a Legislative Body？**
-- 对政治有浓厚兴趣，愿意参与公共事务的人
-- 善于辩论和沟通，有领导才能的人
-- 有政党背景和基层经验的人
+**Who is suited**
+- People with a strong interest in politics and willing to engage in public affairs
+- People who are good at debating and communicating, with leadership skills
+- People with political party background and grassroots experience
 
-**谁不适合学Member of a Legislative Body？**
-- 不愿面对公众审查和媒体关注的人
-- 无法接受不稳定工作节奏和频繁出差的人
+**Who is not suited**
+- Those unwilling to face public scrutiny and media attention
+- Those unable to accept unstable work pace and frequent travel
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much is a German parliament member's salary?**
+A: Federal parliament members earn around €100,000 per year (pre-tax), while state parliament members earn lower, about €60,000-100,000.
+
+**Q: Can non-EU citizens become members of the German parliament?**
+A: No, usually requires German or EU citizenship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 一般（★★½☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★★） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Member of a Legislative Body属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a German parliamentarian?**
-答：Members of the Bundestag earn around €100,000 per year (gross), while state parliamentarians earn €60,000-100,000.
-
-**问：Can non-EU citizens become German parliamentarians?**
-答：No, German or EU citizenship is generally required.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

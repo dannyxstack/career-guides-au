@@ -1,61 +1,97 @@
-# Special Needs Teacher（Special Needs Teacher）职业分析 · NL
+# Special Needs Teacher — career analysis · Netherlands
 
-**职业代码：2352 – Special Needs Teacher。**
+**Occupation code: 2352 (ISCO08)**
 
-Special Needs Teachers provide individualized educational support to students with learning, behavioral, or physical disabilities, helping them integrate into regular schools or special education settings.
+Special needs teachers provide personalised educational support for students with learning, behavioural, or physical disabilities, helping them integrate into mainstream schools or special education institutions.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（学士） | 4年 | $10,000~$15,000（每年学费，含书籍等杂费） |
-| 硕士 | 1-2年 | $15,000~$20,000（部分岗位要求硕士学历，学费视学校而定） |
+| Bachelor's degree | 4 years | $10,000~$15,000 (Annual tuition fee, including books and other miscellaneous fees) |
+| Master's degree | 1-2 years | $15,000~$20,000 (Some positions require a master's degree; tuition fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证 | 荷兰教育监察局 | 必备 | 需完成学士学位及教学实习 |
-| 特殊教育文凭 | 荷兰大学或应用科学大学 | 可选 | 额外认证，提升就业竞争力 |
-| 注册教师 | 荷兰教师注册机构 | 必备 | 公立学校要求注册 |
+| Teaching license/certificate | Dutch Education Inspectorate | Required | Requires completion of a bachelor's degree and teaching practicum |
+| Registered teacher | Dutch Teacher Registration Body | Required | Registration required for public schools |
+| Special education diploma | Dutch university or university of applied sciences | Optional | Additional certifications to enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰对特殊需求教师的需求稳步增长，因教育包容性政策持续推进。预计未来五年就业岗位将增加约5%，尤其在大城市和特殊教育领域。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Demand for special needs teachers in the Netherlands is steadily growing due to the ongoing push for inclusive education policies. Employment is expected to increase by about 5% over the next five years, especially in large cities and special education fields.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含假期津贴 |
-| 中级（4-7年） | $45,000~$55,000 | 税前年薪，视学校类型和地区 |
-| 高级（8年以上） | $55,000~$65,000 | 税前年薪，含协调员或管理层职责 |
+| Median salary | $67,184 | Median salary (official: CBS employee median hourly wage €34.0/hour × 1976h annualized, BRC group 0115 Educationalists and other teachers...; P25–P75 €52,364–€82,399, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (4-7 years) | $45,000~$55,000 | Annual salary before tax, depending on school type and region |
+| Senior (8+ years) | $55,000~$65,000 | Annual pre-tax salary, including coordinator or management responsibilities |
+| average salary | $50,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括从课堂教师晋升为特殊教育协调员、教育顾问或学校管理层。继续教育（如硕士）可拓展至政策制定或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special needs teachers' work is difficult to fully replace by AI; personalized care and behavioral intervention are core defenses; however, administrative, data recording, and basic teaching support tasks will be taken over by AI, resulting in a medium-low overall risk for the role.
+
+Career development paths include advancing from classroom teacher to special education coordinator, educational consultant, or school management. Continuing education (e.g., a master's degree) can lead to policy-making or training roles.
+
+**Tasks most exposed to AI:**
+
+- Student progress recording and report generation
+- Personalized layout and distribution of basic teaching materials
+- Collection and preliminary analysis of standardized behavioral data
+- Template-based responses in parent notifications and communication
+- Automatic captioning and summary generation for classroom video recordings
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Supports multilingual family communication via AI voice assistant and real-time translation
+- Use AI to generate differentiated teaching materials (e.g., simplified reading, visual supports)
+- AI-assisted evaluation of Individualized Education Program (IEP) progress and adjustment recommendations
+- Use AI to simulate social scenarios to assist social skills training
+
+**Human moat:**
+
+- Empathy and emotional connection with students with special needs
+- Real-time behavioral intervention and crisis management
+- Deep understanding-based personalised goal setting and adjustment
+- Multi-party collaboration and communication with families and therapists
+- Intuitive interpretation of unstructured, non-verbal cues
+
+**Skills to build:**
+
+- Use and adaptation of AI-assisted educational tools (e.g., IEP generators)
+- Behavioral data analysis and visualization (basic Python/R)
+- Multimedia and assistive technologies (e.g., eye tracking, speech output)
+- Cross-cultural and special education legal knowledge.
+- Foundations of Psychological Counseling (Trauma-Informed Intervention)
+- AI ethics and bias identification (ensuring fairness)
+
+**Key growth areas:**
 
 - Inclusive Education
 - Special Education Needs
@@ -64,66 +100,68 @@ Special Needs Teachers provide individualized educational support to students wi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有荷兰雇主担保的高技能移民，需满足收入门槛（2024年约€4,171/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高资质非欧盟公民，需至少三年工作经验及符合收入标准（约€5,331/月）。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的留学生，提供一年时间寻找工作，可转为工作签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants with a Dutch employer sponsor, subject to meeting the income threshold (about €4,171/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly qualified non-EU citizens with at least three years of work experience and meeting income criteria (approx. €5,331/month). |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates in the Netherlands, providing one year to find a job, can convert to work visa. |
+
+**PR friendliness: high (★★★★☆).**
+
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Special Needs Teacher？**
-- 有耐心和同理心，善于与特殊需求学生沟通的人
-- 具备创造力和适应能力，能设计个性化教学方案
-- 希望在教育领域追求稳定且有社会意义的职业
+**Who is suited**
+- Person with patience and empathy, good at communicating with students with special needs
+- Has creativity and adaptability to design personalized teaching plans
+- Seeking a stable and socially meaningful career in education
 
-**谁不适合学Special Needs Teacher？**
-- 无法应对高压工作环境和情绪挑战的人
-- 偏好常规教学流程、不愿频繁调整计划的人
+**Who is not suited**
+- Individuals who cannot cope with high-pressure work environments and emotional challenges.
+- People who prefer routine teaching processes and dislike frequent plan adjustments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for special needs teachers?**
+A: Starting annual salary for special needs teachers in the Netherlands is approximately €35,000-€45,000, with senior roles reaching over €65,000; public school salaries are protected by collective agreements.
+
+**Q: What visa is needed to immigrate to the Netherlands as a special needs teacher?**
+A: Primarily through the highly skilled migrant visa (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting income requirements. Dutch language proficiency (B2 or higher) is usually necessary.
+
+**Q: Are special needs teachers a shortage occupation in the Netherlands?**
+A: Yes. The Dutch education sector consistently reports a shortage of special education teachers, especially in the western metropolitan areas. Non-EU immigrants need to confirm specific regional demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Special Needs Teacher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Special Needs Teacher?**
-答：In the Netherlands, entry-level annual salary ranges from €35,000 to €45,000, experienced up to €65,000, with public school salaries regulated by collective agreements.
-
-**问：What visa is needed to migrate to the Netherlands as a Special Needs Teacher?**
-答：Mainly via Highly Skilled Migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting income thresholds. Dutch language proficiency (B2+) is typically required.
-
-**问：Is Special Needs Teacher a shortage occupation in the Netherlands?**
-答：Yes. The Dutch education sector consistently reports a shortage, especially in the western metropolitan areas. Non-EU migrants should verify regional demand.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

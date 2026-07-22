@@ -1,59 +1,91 @@
-# Paper Products Machine Operator（Paper Products Machine Operator）职业分析 · 新西兰
+# Paper Products Machine Operator — career analysis · New Zealand
 
-**职业代码：711311 – Paper Products Machine Operator。**
+**Occupation code: 711311 (ANZSCO)**
 
-Paper Products Machine Operators operate and monitor machinery to produce paper, cardboard, tissues, and related products in manufacturing plants. They perform basic maintenance and troubleshooting. This role qualifies for skilled migration pathways in New Zealand, typically requiring employer sponsorship.
+Paper products machine operators operate and monitor machinery that produces paper, cardboard, tissue and other products in paper mills or manufacturing plants, performing basic maintenance and troubleshooting. This occupation falls under New Zealand's skilled migration category, allowing migration via a skilled work visa or specific pathways, but usually requires employer sponsorship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家证书 (Level 2-3) | 6-12个月 | $3,000~$8,000（通常为在职培训，部分院校提供短期课程） |
-| 在职培训 | 1-2年 | —（雇主提供培训，可能需支付工具或安全课程费用） |
+| New Zealand National Certificate (Level 2-3) | 6–12 months | $3,000~$8,000 (Usually on-the-job training; some institutions offer short courses) |
+| On-the-job training | 1-2 years | $0~$2,000 (Employers provide training; you may need to pay for tools or safety course fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家纸业制造证书 (Level 2-3) | Competenz | 可选 | 行业培训组织提供，非强制但有利 |
-| NCEA Level 1 (或同等学历) | 新西兰学历评估局 (NZQA) | 可选 | 基础数学和英语要求 |
-| 基础机械维修证书 | 各类技术学院 | 可选 | 可选，提升故障排除能力 |
+| New Zealand National Certificate in Paper Manufacturing (Level 2-3) | Competenz | Optional | Provided by industry training organizations; not mandatory but beneficial. |
+| NCEA Level 1 (or equivalent) | New Zealand Qualifications Authority (NZQA) | Optional | Basic math and English requirements |
+| Basic mechanical maintenance certificate. | Various technical colleges | Optional | Optional, improves troubleshooting skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰造纸业规模有限，但包装和卫生用品需求稳定，就业岗位主要分布在北岛怀卡托、丰盛湾等地区。未来五年就业增长率预计为中等，受自动化影响岗位增速放缓。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's paper industry is limited in scale, but demand for packaging and hygiene products is stable. Jobs are mainly located in Waikato and Bay of Plenty on the North Island. Employment growth is expected to be moderate over the next five years, with automation slowing job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏强（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪通常接近最低工资 |
-| 中级（3-5年） | $55,000~$65,000 | 包括基本技能和轮班补贴 |
-| 高级（5年以上） | $65,000~$75,000 | 含夜班/加班，年薪可达8万纽元 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary is often close to minimum wage |
+| Mid-level (3–5 years) | $55,000~$65,000 | Including basic skills and shift allowances |
+| Senior (5+ years) | $65,000~$75,000 | Including night shifts/overtime, annual salary can reach NZD 80,000. |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径通常从操作员起步，积累经验后可晋升为高级操作员、班组长或生产主管。学习自动化系统或机械维修技能可提升晋升机会，但管理岗位数量有限。
-**AI替代风险：中等偏低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Paper products machine operators face dual impacts of automation compression and AI enhancement: repetitive tasks are easily replaced, but demand for anomaly handling and collaboration skills increases
+
+Career progression usually starts from operator, and with experience can advance to senior operator, team leader, or production supervisor. Learning automation systems or mechanical maintenance skills can enhance promotion opportunities, but management positions are limited.
+
+**Tasks most exposed to AI:**
+
+- Manually monitor operating parameters of equipment such as wet presses and dryers
+- Regularly check quality indicators such as thickness and moisture of paper products and record them
+- Perform simple equipment cleaning and lubrication tasks
+- Start/stop production process via control panel
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance reduces downtime
+- Anomaly detection systems help quickly locate fault causes
+- Digital twin simulation to optimize production parameter settings
+- Collaborative robot-assisted material handling and packaging
+
+**Human moat:**
+
+- Experience in handling sudden faults like paper breaks and blockages
+- Sensory assessment of paper quality details (e.g., color, texture)
+- Management skills for multi-process coordination and shift communication
+- Flexible operation to quickly adapt to different paper types or order changes
+
+**Skills to build:**
+
+- Basic PLC programming and industrial robot operation
+- Mechanical fault diagnosis and repair skills
+- Data analysis (e.g., production report interpretation)
+- Safety awareness and compliance operations (ISO standards)
+- Use of digital tools (e.g., MES systems)
+
+**Key growth areas:**
 
 - Manufacturing
 - Packaging
@@ -62,64 +94,63 @@ Paper Products Machine Operators operate and monitor machinery to produce paper,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 大多数纸制品机器操作员需通过认证雇主获得工签，工作3年后可申请居民签证（如果薪资达标） |
-| Subclass SMC（Skilled Migrant Category） | 如薪资达到中位数工资（约30纽元/小时）且雇主支持，可申请技术移民，但需满足ANZSCO技能等级要求 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most paper products machine operators need to obtain a work visa through an approved employer, and after 3 years of work, they can apply for a resident visa (if salary meets requirements) |
+| Subclass SMC (Skilled Migrant Category) | If the salary reaches the median wage (about NZD 30/hour) and the employer supports, you can apply for skilled migration, but must meet ANZSCO skill level requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Paper Products Machine Operator？**
-- 动手能力强，喜欢机械操作
-- 能适应轮班和重复性体力工作
-- 愿意在造纸厂或制造工厂工作
-
-**谁不适合学Paper Products Machine Operator？**
-- 不习惯嘈杂和潮湿环境
-- 对体力劳动和久站有困难
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, enjoys mechanical work
+- Able to adapt to shift work and repetitive physical tasks
+- Willing to work in a paper mill or manufacturing plant
+
+**Who is not suited**
+- Uncomfortable with noisy and humid environments
+- Difficulty with physical labor and prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for paper products machine operators in New Zealand?**
+A: Salary range between NZD 45,000 and 75,000, entry-level around NZD 45,000, senior up to NZD 75,000, including allowances and overtime.
+
+**Q: Can Paper Products Machine Operators migrate to New Zealand through skilled migration?**
+A: Yes, but usually requires employer sponsorship under the Accredited Employer Work Visa (AEWV), and after 3 years of work, you can apply for a resident visa. If your salary meets the median and skill requirements, you may also apply through the Skilled Migrant Category (SMC). This occupation is not on the Green List.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等偏强（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等偏低（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Paper Products Machine Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Paper Products Machine Operators in New Zealand?**
-答：Salary ranges from NZD 45,000 to 75,000, with entry-level around 45,000 and senior roles up to 75,000 including allowances and overtime.
-
-**问：Can a Paper Products Machine Operator migrate to New Zealand through skilled migration?**
-答：Yes, typically through an Accredited Employer Work Visa (AEWV) with employer sponsorship, leading to residence after 3 years. If salary meets median wage and skills requirements, Skilled Migrant Category (SMC) applies. This role is not on the Green List.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Hairdressers, Hairstylists, and Cosmetologists（Hairdressers, Hairstylists, and Cosmetologists）职业分析 · 美国
+# Hairdressers, Hairstylists, and Cosmetologists — career analysis · United States
 
-**职业代码：39-5012 – Hairdressers, Hairstylists, and Cosmetologists。**
+**Occupation code: 39-5012 (SOC)**
 
-Provide beauty services including haircutting, coloring, styling, and skin/nail care, typically working in salons or self-employed.
+Beauty professionals provide personal beauty services including hairdressing, makeup, nail services and skincare, typically working in salons or self-employed.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 美容学校/职业培训 | 9-18个月 | $10,000~$20,000（学费含材料和工具） |
-| 副学士学位（可选） | 2年 | $15,000~$30,000（部分社区学院提供，非必需） |
+| Beauty school/vocational training | 9-18 months | $10,000~$20,000 (Tuition includes materials and tools) |
+| Associate degree (optional) | 2 years | $15,000~$30,000 (Offered by some community colleges, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州级美容师执照 | 各州美容委员会 | 必备 | 需完成认可培训并通过笔试和实操考试 |
-| 高级/大师级认证 | 专业美容组织 | 可选 | 可提升竞争力，非强制 |
+| State cosmetology license | State cosmetology boards | Required | Must complete accredited training and pass written and practical exams |
+| Senior/Master certification | Professional Beauty Organization | Optional | Can enhance competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 632,000。美国劳工统计局预计2022-2032年就业增长约8%，快于平均水平，受人口增长和美容需求推动，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 632,000. The US Bureau of Labor Statistics projects employment growth of about 8% from 2022 to 2032, faster than average, driven by population growth and beauty demand, but competition is intense.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 含小费，部分佣金制 |
-| 中级（3-7年） | $35,000~$50,000 | 建立稳定客户群 |
-| 高级（7年以上/店主） | $50,000~$80,000 | 自营者收入波动大 |
+| Median salary | $35,790 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Includes tips, partly commission-based |
+| Mid-level (3–7 years) | $35,000~$50,000 | Build a stable client base |
+| Senior (7+ years / shop owner) | $50,000~$80,000 | Self-employed income fluctuates greatly. |
+| average salary | $43,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从助理发型师起步，可晋升为高级发型师、沙龙经理或品牌教育者，也可自主创业开店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly reduce demand for hairdressers and beauticians, as clients can use virtual try-ons, AI hairstyle recommendations, and other self-service tools for part of the consultation, while automated equipment (e.g., smart hair dye machines, nail printers) can replace basic operations, reducing reliance on entry-level practitioners.
+
+Starting as an assistant hairstylist, can advance to senior stylist, salon manager, or brand educator, or start your own business.
+
+**Tasks most exposed to AI:**
+
+- AI hair and makeup virtual try-on, customers preview effects via APP, reducing in-person consultation time
+- Automated hair dyeing devices (e.g., intelligent hair dye machines) precisely apply dye, replacing manual brushing.
+- Nail printers can automatically print complex patterns, replacing hand-painted nail artists
+- AI customer management system automatically schedules appointments, follow-ups, and promotions, replacing some administrative work of shop owners
+- Smart shampoo robot performs standard shampooing process, replacing basic shampooing positions
+
+**Where AI augments the role:**
+
+- AI analyzes client face shape, hair texture, and trends to assist designers in proposing personalized solutions
+- Virtual reality (VR) simulates final outcomes, reducing communication gaps and improving satisfaction.
+- After automation tools handle repetitive tasks, hairstylists can focus more on creative design and client relationship maintenance
+- AI inventory and appointment optimization systems improve salon operational efficiency, freeing up energy for high-value services.
+
+**Human moat:**
+
+- Complex hairstyle design and fine trimming require manual dexterity and creativity, difficult for AI to replicate
+- Client trust and emotional connection: providing psychological support, social companionship, and other irreplaceable interpersonal interactions
+- On-site real-time adjustment ability: flexible modification of styling based on client feedback, relying on human intuition and experience
+- Ethical responsibility: professional judgment on safety issues such as chemical use and scalp health
+
+**Skills to build:**
+
+- Operation and parameter adjustment of AI hairstyling tools (e.g., HairByAI, Style My Hair)
+- Basic programming and data analysis: using Python/Excel to optimize customer segmentation and marketing
+- Creative design and artistic appreciation ability: strengthen the uniqueness of non-standardized shapes
+- Customer psychology and communication skills: improve consultation conversion and customer loyalty
+- Social media and content creation: Use AI to generate short video tutorials to attract online customers
+- Cross-disciplinary knowledge: combine beauty and health (e.g., scalp care, nutrition) to provide comprehensive solutions
+
+**Key growth areas:**
 
 - Aging population
 - Personal grooming trends
@@ -63,62 +97,64 @@ Provide beauty services including haircutting, coloring, styling, and skin/nail 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职业要求，极少使用 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅极少数顶尖发型师可申请，需证明杰出成就 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements, rarely used. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only a very few top hairstylists can apply, must demonstrate outstanding achievements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hairdressers, Hairstylists, and Cosmetologists？**
-- 喜欢与人打交道，有创意和审美能力
-- 动手能力强，愿意接受持续培训
-- 适应灵活工时和自营模式
+**Who is suited**
+- People who enjoy interacting with others and have creativity and aesthetic sense
+- Strong hands-on skills and willingness for ongoing training
+- Adaptable to flexible hours and self-employment models
 
-**谁不适合学Hairdressers, Hairstylists, and Cosmetologists？**
-- 不耐久站，对化学产品敏感
-- 追求稳定高收入和固定工作环境
+**Who is not suited**
+- Cannot tolerate prolonged standing, sensitive to chemical products
+- seeking stable high income and fixed work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of estheticians in the US?**
+A: BLS 2022 data shows median annual salary ~$32,000, but income varies widely; senior hairstylists or salon owners can earn $60,000-$80,000.
+
+**Q: Can beauticians migrate to the US through skilled migration?**
+A: Very difficult. This occupation usually does not meet H-1B specialty occupation requirements and has no dedicated immigration pathway. The O-1 visa for extraordinary ability is a rare exception with extremely high standards.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hairdressers, Hairstylists, and Cosmetologists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hairdressers in the US?**
-答：BLS reported median annual wage around $32,000 in 2022, but top earners or salon owners can make $60,000-$80,000.
-
-**问：Can hairdressers immigrate to the US through skilled migration?**
-答：Very difficult. The occupation generally does not qualify for H-1B or employment-based green cards. Only exceptional talents may apply for O-1 visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

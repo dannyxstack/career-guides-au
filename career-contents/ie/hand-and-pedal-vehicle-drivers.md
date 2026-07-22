@@ -1,58 +1,92 @@
-# Hand and Pedal Vehicle Drivers（Hand and Pedal Vehicle Drivers）职业分析 · IE
+# Hand and Pedal Vehicle Drivers — career analysis · Ireland
 
-**职业代码：9331 – Hand and Pedal Vehicle Drivers。**
+**Occupation code: 9331 (ISCO08)**
 
-Drive non-motorized vehicles like bicycles and handcarts to transport goods or people, common in delivery, logistics, and tourism.
+Driving non-motorized vehicles such as bicycles and handcarts to transport goods or people, common in delivery, logistics, and tourism industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 0年 | —（无需正式教育） |
-| 职业培训证书 | 6个月 | $500~$1,500（如自行车维护或安全课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (No formal education required) |
+| Vocational training certificate | 6 months. | $500~$1,500 (e.g. bicycle maintenance or safety courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 道路安全培训 | 爱尔兰道路安全局 | 可选 | 推荐但非强制 |
-| 急救证书 | 红十字会 | 可选 | 部分雇主要求 |
+| Road Safety Training | Road Safety Authority Ireland | Optional | Recommended but not mandatory |
+| First aid certificate | Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,000。爱尔兰电商和外卖需求增长推动对自行车快递员的需求，但整体就业稳定，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,000. E-commerce and delivery demand in Ireland drives demand for bicycle couriers, but overall employment is stable with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含小费 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含管理职责 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including tips |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级快递员晋升为团队主管或物流调度员，或转向更专业的骑行培训或维护岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Trolley and bicycle delivery driver positions are being rapidly replaced by electric bikes and autonomous delivery vehicles, with low entry barriers but rapid disappearance; workers need to transition as soon as possible.
+
+Can advance from junior courier to team leader or logistics dispatcher, or transition to more specialized cycling training or maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Short-haul freight delivery route planning and execution
+- Customer signature confirmation and paper document processing
+- Fixed route daily inspection and reporting
+- Simple loading and unloading operations
+
+**Where AI augments the role:**
+
+- Use navigation apps to optimize delivery routes.
+- Efficiently matching tasks through order platforms
+- Contactless delivery using smart locks and QR code systems
+- Monitor vehicle status using onboard sensors
+- Using voice assistants for real-time communication
+
+**Human moat:**
+
+- Ability to adapt flexibly in complex traffic environments
+- Building trust through face-to-face interaction with clients
+- Decision-making ability to handle unexpected situations (e.g., road closures)
+- Detailed knowledge of local road conditions
+
+**Skills to build:**
+
+- Driving and maintenance of electric bicycles or electric vehicles
+- Operation of logistics dispatch software (e.g., Deliveroo, Uber Eats)
+- Basic English communication (international order scenarios)
+- Advanced use of smartphones and map applications
+- Customer service and conflict resolution
+- Personal brand building (e.g., improving job rating scores)
+
+**Key growth areas:**
 
 - e-commerce
 - food delivery
@@ -61,64 +95,63 @@ Drive non-motorized vehicles like bicycles and handcarts to transport goods or p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪至少30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，此职业通常不符合条件。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand, requires employer sponsorship, with annual salary of at least €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions; this occupation usually does not meet conditions. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hand and Pedal Vehicle Drivers？**
-- 喜欢户外工作，体力充沛的人
-- 注重环保，偏好非机动车出行的人
-- 需要灵活工作时间的兼职或学生
-
-**谁不适合学Hand and Pedal Vehicle Drivers？**
-- 不能适应恶劣天气的人
-- 寻求高薪稳定职业的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are physically energetic
+- People who are environmentally conscious and prefer non-motorized transport
+- Part-time workers or students needing flexible hours
+
+**Who is not suited**
+- People who cannot adapt to bad weather
+- People seeking high-paying stable careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for hand truck and pedal cart drivers in Ireland?**
+A: Entry-level salary around €22,000-28,000, senior up to €35,000-45,000, including tips.
+
+**Q: Can this occupation immigrate to Ireland through the General Employment Permit?**
+A: Possible but requires employer sponsorship, and annual salary typically needs to exceed 30,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hand and Pedal Vehicle Drivers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hand and pedal vehicle drivers in Ireland?**
-答：Entry-level salary is around €22,000-€28,000, while senior can reach €35,000-€45,000, including tips.
-
-**问：Can this occupation immigrate to Ireland via a General Employment Permit?**
-答：Yes, but requires employer sponsorship and salary typically above €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

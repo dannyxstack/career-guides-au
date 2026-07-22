@@ -1,61 +1,97 @@
-# Singer（Singer）职业分析 · 新西兰
+# Singer — career analysis · New Zealand
 
-**职业代码：211214 – Singer。**
+**Occupation code: 211214 (ANZSCO)**
 
-Singers in New Zealand typically work as freelancers in live performance, recording, musical theatre, or teaching, with highly variable income. Skilled migration is challenging unless securing high-wage long-term contracts or recognized as exceptional talent; otherwise, AEWV or temporary work visas are common.
+Singers in New Zealand primarily work freelance in live performances, recording, musicals, or teaching, with variable income. Skilled migration is difficult unless they obtain high-paying long-term contracts or are recognized as exceptional talents; otherwise, they mainly use Accredited Employer Work Visas or temporary work visas.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 文凭证书（如音乐表演） | 1-2年 | $15,000~$35,000（公立理工学院或私立院校，费用因校而异） |
-| 本科学位（如音乐学士） | 3年 | $60,000~$100,000（大学学费，国际生更高） |
+| Diploma or certificate (e.g., music performance) | 1-2 years | $15,000~$35,000 (Public polytechnics or private institutions, fees vary by institution.) |
+| Bachelor's degree (e.g., Bachelor of Music) | 3 years | $60,000~$100,000 (University tuition, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰音乐行业注册（可选） | NZ Music Industry Association | 可选 | 非强制，但有助于建立专业信任 |
-| 英语能力（IELTS 6.0） | IDP / British Council | 可选 | 如需申请工签或移民，通常要求 |
-| 无强制执照 | —— | 可选 | 歌手无需政府执照 |
+| New Zealand music industry registration (optional) | NZ Music Industry Association | Optional | Not mandatory, but helps build professional trust |
+| English proficiency (IELTS 6.0) | IDP / British Council | Optional | If applying for a work visa or immigration, it is usually required |
+| No mandatory license | —— | Optional | Singers do not need a government license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,800。新西兰音乐产业规模小，歌手就业竞争激烈，全职稳定职位稀少。随着现场活动复苏，有少量增长，但多数歌手需兼做教学、录音或其它工作。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,800. New Zealand's music industry is small, with intense competition for singers and few full-time stable positions. A slight increase exists as live events recover, but most singers need to supplement with teaching, recording, or other work.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$40,000 | 收入不稳定，常需兼职 |
-| 中级（3-8年） | $40,000~$70,000 | 含稳定演出或教学 |
-| 高级（8年以上/知名） | $70,000~$120,000 | 少数靠版税/签约获得高收入 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $20,000~$40,000 | Unstable income, often requires part-time work |
+| Mid-level (3–8 years) | $40,000~$70,000 | Includes stable performances or teaching |
+| Senior (8+ years/well-known) | $70,000~$120,000 | A minority earn high income from royalties/signing contracts |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：从街头或小型演出起步，积累作品和知名度，逐步进入录音单曲、乐队或音乐剧角色；少数成名后可签约国际厂牌或获得长期驻场合同。多数人保持多来源收入。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's Impact on Singers is Mixed: AI-generated music and virtual singers compress the low-end market, but digital tools amplify individual production and performance capabilities. Top-tier human voices and emotional expression remain irreplaceable core assets.
+
+Career path: start from street performances or small shows, build a portfolio and reputation, gradually move to recording singles, bands, or musical theater roles; a few become famous and sign with international labels or obtain long-term residency contracts. Most maintain multiple income sources.
+
+**Tasks most exposed to AI:**
+
+- Simple singing for background music and basic recording studios
+- Backing vocals and accompaniment for some live performances
+- Audio demo using AI-generated voice imitation
+- Demonstration singing in basic teaching (replaced by AI voice)
+- Standardized holiday/event singing (e.g., shopping mall background performances)
+
+**Where AI augments the role:**
+
+- AI-assisted mixing and mastering to improve track quality
+- AI composition tools inspire creativity and arrangement experimentation
+- Virtual stage/live augmented reality effects to expand performance formats
+- AI fan data analysis to guide tour cities and song selection
+- AI voice cloning for temporary backup or special sound effects
+
+**Human moat:**
+
+- Unique voice, emotional interpretation, and live presence
+- Personal experiences and stories contained in original songs
+- Genuine connection with fans and community management
+- Impromptu singing, adaptation, and interaction skills
+- Deep understanding of music styles and cross-genre fusion
+
+**Skills to build:**
+
+- AI music production tools (e.g., MuseNet, Suno assistance)
+- Advanced recording and mixing with digital audio workstation (DAW)
+- Social media content creation and personal brand management
+- Basic music theory for AI-assisted songwriting
+- Live streaming and online performance planning technology
+- Copyright and contract knowledge (managing AI-derived revenue)
+
+**Key growth areas:**
 
 - Moderate
 - Freelance dominant
@@ -64,66 +100,68 @@ Singers in New Zealand typically work as freelancers in live performance, record
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主全职工作offer，时薪不低于中位数（$29.66/hr，2024），歌手岗位较少 |
-| Subclass SMC（Skilled Migrant Category） | 通常不适用，因歌手非ANZSCO 1-3级技能职业；若获高薪且雇主支持，可尝试，但极难 |
-| Subclass Talent Work Visa（Talent (Accredited Employer) Work Visa） | 需基础年薪达到$55,000以上，且雇主需为认证；适合有长期合同的知名歌手 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a full-time job offer from an accredited employer with an hourly wage no less than the median ($29.66/hr, 2024). Singer positions are scarce. |
+| Subclass SMC (Skilled Migrant Category) | Usually not applicable, as singer is not an ANZSCO skill level 1-3 occupation; if high salary and employer support, possible but extremely difficult. |
+| Subclass Talent Work Visa (Talent (Accredited Employer) Work Visa) | Requires base annual salary of at least $55,000, and employer must be accredited; suitable for well-known singers with long-term contracts |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Singer？**
-- 具有独特嗓音和表演魅力，能接受不稳定收入的自由职业者
-- 愿意同时从事教学、录音或活动策划等多渠道收入的人
-- 对移民需求不强，更看重艺术表达和生活方式的人
+**Who is suited**
+- Freelancers with unique voice and performance charisma who can accept unstable income
+- People willing to pursue multiple income streams such as teaching, recording, or event planning
+- For those with weak immigration demand, valuing artistic expression and lifestyle more
 
-**谁不适合学Singer？**
-- 追求稳定高薪和快速移民的人
-- 缺乏自我营销和创业精神的人
+**Who is not suited**
+- Those seeking stable high salaries and fast immigration
+- People lacking self-marketing and entrepreneurial spirit
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a singer in New Zealand?**
+A: Most singers earn between NZD 20,000 and 70,000 annually; entry-level often below NZD 40,000, requiring part-time work; well-known singers may earn NZD 70,000-120,000, but these are a minority.
+
+**Q: Can singers immigrate to New Zealand via skilled migration?**
+A: Direct skilled migration (SMC) is extremely difficult as singers are not in ANZSCO skill levels 1-3. Could consider high wage (more than double median hourly wage) or apply for an Accredited Employer Work Visa (AEWV), but positions are scarce.
+
+**Q: What career paths are available for New Zealand singers?**
+A: Common pathway: gain experience through small performances → record/release singles → participate in music festivals or join bands → teaching/vocal coaching; a few achieve fame through talent shows or social media
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Singer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for a singer in New Zealand?**
-答：Most singers earn between NZD 20,000 and NZD 70,000; entry-level often under NZD 40,000 with side jobs; top artists may reach NZD 70,000–120,000, but they are a minority.
-
-**问：Can a singer migrate to New Zealand through skilled migration?**
-答：Direct Skilled Migrant Category is very difficult as singer is not ANZSCO skill level 1-3. Options include high-wage (twice median wage) or Accredited Employer Work Visa, but job offers are scarce.
-
-**问：What career paths are available for singers in New Zealand?**
-答：Typical path: small gigs → recording/releasing singles → joining festivals or bands → teaching; a few gain fame via talent shows or social media.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Roofers（Roofers）职业分析 · 美国
+# Roofers — career analysis · United States
 
-**职业代码：47-2181 – Roofers。**
+**Occupation code: 47-2181 (SOC)**
 
-Roofers install, repair, and replace roofs on buildings using materials like shingles, asphalt, metal, and wood to ensure waterproofing and insulation.
+Roofers install, repair, and replace building roofs using materials like asphalt, tiles, and metal, ensuring waterproofing and insulation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常要求高中文凭或GED） |
-| 学徒期（在职培训） | 3年 | —（学徒期间带薪学习，费用低或由工会/雇主承担） |
+| High school diploma or equivalent | 0 years | $0~$0 (Typically requires a high school diploma or GED) |
+| Apprenticeship (on-the-job training) | 3 years | $0~$5,000 (Paid learning during apprenticeship, low cost or covered by union/employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 屋顶工执照（州级） | 各州建筑许可委员会 | 必备 | 多数州要求承包商执照，含考试和保证金 |
-| OSHA 安全证书 | 美国职业安全与健康管理局 | 可选 | 推荐持有，提升就业机会 |
+| Roofing contractor license (state-level). | State building permits committee | Required | Most states require contractor license, including exam and bond |
+| OSHA safety certificate | U.S. Occupational Safety and Health Administration | Optional | Recommended to hold, enhances employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 145,000。美国劳工统计局预测2023-2033年屋顶工就业增长约7%，快于平均水平，受建筑维护和极端天气修复需求驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 145,000. US Bureau of Labor Statistics projects about 7% employment growth for roofers from 2023-2033, faster than average, driven by building maintenance and extreme weather repair needs.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 学徒或助手薪资 |
-| 中级（3-8年） | $45,000~$65,000 | 熟练屋顶工薪资 |
-| 高级（8年以上/承包商） | $65,000~$95,000 | 领班或自雇承包商薪资 |
+| Median salary | $55,440 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Apprentice or assistant salary |
+| Mid-level (3–8 years) | $45,000~$65,000 | Skilled roofer salary |
+| Senior (8+ years/Contractor) | $65,000~$95,000 | Foreman or self-employed contractor salary |
+| average salary | $58,140 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 屋顶工可从学徒晋升为熟练工，再成为领班或承包商；还可专攻绿色屋顶或太阳能安装，提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
+
+Roofers can progress from apprentice to journeyman, then to foreman or contractor; they can also specialize in green roofs or solar installation to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Roof area measurement and material quantity calculation (AI vision + drone)
+- Automated cutting and positioning of standard roof panels or tiles (robot-assisted)
+- Initial roof condition inspection report generation (AI image recognition)
+- Security monitoring and compliance documentation (AI-automated recording)
+
+**Where AI augments the role:**
+
+- Drone roof inspection and thermal imaging (AI-assisted leak detection)
+- AR (Augmented Reality) overlays installation guides, reducing blueprint reading errors.
+- AI optimizes material cutting layouts to reduce waste
+- Real-time weather and project timeline prediction to assist work scheduling
+- Digital twin model simulates roof waterproofing layer performance
+
+**Human moat:**
+
+- Custom installation of complex roof structures (spires, curves, historic buildings)
+- Waterproofing detail work and manual tasks (e.g., shingle overlapping, sealant application)
+- On-site problem assessment (e.g., damage extent, hidden structures)
+- Direct communication with clients and on-site decision-making
+- Safety Awareness and Emergency Response for Working at Heights
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- BIM (Building Information Modeling) fundamentals and digital tools
+- Solar roof installation and waterproofing integration
+- Basic data analysis (material optimization, cost estimation)
+- Green roof (vegetated roof) construction techniques
+- Safety regulations and use of smart equipment for high-altitude operations.
+
+**Key growth areas:**
 
 - Green roofs
 - Solar panel integration
@@ -63,65 +98,67 @@ Roofers install, repair, and replace roofs on buildings using materials like shi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 用于临时非农业工人，屋顶工可申请，但需雇主证明劳工短缺且配额有限。 |
-| Subclass H-1B（H-1B Specialty Occupations） | 屋顶工通常不符合专业职业要求，极少使用。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals/Other Workers） | 技术工人绿卡路径，需PERM劳工证，但屋顶工通常被归类为Other Workers，排期长。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Available for temporary non-agricultural workers; roofers can apply, but employers must prove labor shortage and quotas are limited. |
+| Subclass H-1B (H-1B Specialty Occupations) | Roofers generally do not meet skilled occupation requirements and are rarely used. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals/Other Workers) | Green card pathway for skilled workers requires PERM labor certification, but roofers are typically classified as Other Workers, leading to long waiting times. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Roofers？**
-- 喜欢户外体力工作、不惧高空的人。
-- 动手能力强、注重细节的工匠型人才。
+**Who is suited**
+- People who enjoy outdoor physical work and are not afraid of heights.
+- Craftsman-type talent with strong hands-on skills and attention to detail.
 
-**谁不适合学Roofers？**
-- 恐高或身体条件不适合重体力劳动的人。
-- 希望办公室工作或追求稳定长期职位的人。
+**Who is not suited**
+- People with acrophobia or physical conditions unsuitable for heavy labor.
+- Those who prefer office work or seek stable long-term positions.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of roofers in the US?**
+A: Roofer median annual salary about $47,000, entry-level around $32,000, senior contractors can earn $95,000.
+
+**Q: Can roofers migrate to the US through skilled migration?**
+A: Extremely difficult. Roofers typically do not meet H-1B specialty occupation requirements, EB-3 has long backlogs and requires labor certification, and H-2B temporary worker quotas are limited.
+
+**Q: What are the career paths for a roofer?**
+A: Can progress from apprentice to skilled worker, then to foreman, project manager, or self-employed contractor, and can specialize in emerging fields like solar roofing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Roofers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a roofer in the US?**
-答：The median annual wage for roofers is about $47,000, with entry-level around $32,000 and experienced contractors up to $95,000.
-
-**问：Can roofers immigrate to the US through skill-based visas?**
-答：Very difficult. Roofers generally do not qualify for H-1B; EB-3 has long backlogs and requires PERM; H-2B is limited and temporary.
-
-**问：What career paths exist for roofers?**
-答：From apprentice to journeyman, then to foreman, project manager, or self-employed contractor; specialization in solar roofs is also possible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

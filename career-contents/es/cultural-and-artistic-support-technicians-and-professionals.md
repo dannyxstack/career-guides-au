@@ -1,60 +1,96 @@
-# Cultural and Artistic Support Technicians and Professionals（Cultural and Artistic Support Technicians and Professionals）职业分析 · ES
+# Cultural and Artistic Support Technicians and Professionals — career analysis · Spain
 
-**职业代码：3739 – Cultural and Artistic Support Technicians and Professionals。**
+**Occupation code: 3739 (CNO)**
 
-This occupation includes support technicians in cultural and artistic fields, such as stage technicians, exhibition installers, and art studio assistants, responsible for equipment operation, set construction, and material preparation.
+This profession includes auxiliary technical personnel in the cultural and arts fields, such as stage technicians, exhibition installers, and art studio assistants, responsible for equipment operation, set construction, and material preparation.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立学校学费较低，私立较高） |
-| 高等职业教育（FP Grado Superior） | 2年 | $600~$3,000（相关专业如舞台制作、视听技术） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $600~$3,000 (Related majors include stage production and audiovisual technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业教育文凭（FP Grado Medio） | 西班牙教育部认可的职业教育中心 | 可选 | 提供基础技术技能，非强制但雇主偏好 |
-| 高等职业教育文凭（FP Grado Superior） | 西班牙教育部认可的职业教育中心 | 可选 | 部分岗位要求，尤其技术性较强职位 |
+| Diploma in Secondary Vocational Education (FP Grado Medio) | A vocational education center recognized by the Spanish Ministry of Education | Optional | Provide basic technical skills, non-mandatory but employer-preference |
+| Diploma of Higher Vocational Education (FP Grado Superior) | A vocational education center recognized by the Spanish Ministry of Education | Optional | Some positions require special technical skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙文化创意产业持续发展，但就业受季节性及项目制影响较大。疫情后现场活动复苏带动需求，但竞争激烈。薪资中等，熟练技术人员需求稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Spain's cultural and creative industries continue to develop, but employment is heavily affected by seasonality and project-based systems. Post-pandemic recovery in on-site events has driven demand, but competition remains fierce. Salaries are moderate, and the demand for skilled technicians is stable.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 通常为助理或学徒岗位 |
-| 中级（4-7年） | $24,000~$32,000 | 可独立承担技术职责 |
-| 高级（8年以上） | $30,000~$42,000 | 技术主管或项目经理 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Usually for assistant or apprenticeship positions |
+| Mid-level (4-7 years) | $24,000~$32,000 | Capable of independently assuming technical responsibilities |
+| Senior (8+ years) | $30,000~$42,000 | Technical Supervisor or Project Manager |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从助理或学徒起步，积累经验后可升为技术主管或项目经理。部分人员通过进修转向更专业的岗位，如灯光设计师或展览策展人。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cultural and arts support technicians and professionals face moderate overall risk, with some repetitive tasks being replaced by AI. However, AI also enhances creative realization, equipment management, and project coordination capabilities. Human aesthetic judgment and on-site flexibility remain the core moat.
+
+Typically, they start as assistants or apprentices, and after gaining experience, can be promoted to technical supervisor or project manager. Some personnel have pursued more specialized roles through further education, such as lighting designers or exhibition curators.
+
+**Tasks most exposed to AI:**
+
+- Collection and organization of basic materials (such as searching copyrighted images and video clips)
+- Simple Set Modeling and Lighting Presets (Using AI to Generate Scene Prototypes)
+- Automated optimization of exhibition layout (generating plans based on visitor flow data)
+- Equipment operation log recording and data entry
+- Automatic post-processing for standard photography/video recording (white balance, cropping)
+
+**Where AI augments the role:**
+
+- AI-generated creative sketches assist stage/exhibition design conception
+- Use AI to adjust lighting and sound effects in real time to match the mood of the performance
+- AI-assisted garment fabric simulation testing reduces physical trial and error
+- Smart device fault prediction and remote diagnosis improve maintenance efficiency
+- AI tools can quickly generate multilingual subtitles and guided content
+
+**Human moat:**
+
+- Aesthetic judgment of artistic style and control of creative direction
+- Flexible response to on-site emergencies and manual repair capabilities
+- Deep communication and seamless collaboration with artists and directors
+- Handcrafted special props and antique restoration artifacts, among other meticulous crafts
+- Curatorial wisdom that understands cultural context and audience psychology
+
+**Skills to build:**
+
+- Master AI-assisted design tools (such as Stable Diffusion for concept drawings)
+- Learn automated set software and virtual production technology
+- Basic Data Analysis and Visualization (Optimizing Visitor Flow in Exhibition Areas)
+- Digital asset management (using TA and DAM systems)
+- Cross-media storytelling capabilities (interactive design integrating AR/VR)
+- A mindset of continuous learning of new technologies and rapid prototyping capabilities
+
+**Key growth areas:**
 
 - Cultural sector
 - Event production
@@ -63,65 +99,67 @@ This occupation includes support technicians in cultural and artistic fields, su
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需要西班牙雇主提供工作合同，且岗位需证明无法在欧盟内填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6-12个月寻找工作，但需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer, and the position must prove that it cannot be filled within the EU. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find work, but you must prove your financial capability. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cultural and Artistic Support Technicians and Professionals？**
-- 对文化、艺术有热情，动手能力强的人
-- 喜欢灵活工作环境及项目制节奏的人
-- 愿意从基层做起，积累技术经验的人
+**Who is suited**
+- Passionate about culture and the arts, with strong hands-on skills
+- People who enjoy flexible work environments and project-based paces
+- Someone willing to start from the grassroots and accumulate technical experience
 
-**谁不适合学Cultural and Artistic Support Technicians and Professionals？**
-- 追求高薪及稳定职业路径的人
-- 不喜欢体力劳动或不规律工作时间的人
+**Who is not suited**
+- Those pursuing high salaries and stable career paths
+- People who dislike physical labor or irregular working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in Spain?**
+A: Entry-level technician: annual salary about EUR 18,000-24,000, intermediate EUR 24,000-32,000, senior up to EUR 42,000. Pay varies significantly by region, employer size, and project.
+
+**Q: How can non-EU citizens immigrate to Spain through this employment?**
+A: This occupation is not a high-skilled, scarce occupation, making immigration more difficult. The main path is to obtain a work contract (Cuenta ajena) from a Spanish employer and prove that the position cannot be recruited in the EU. You can also try a job-seeking visa.
+
+**Q: What are the career progression paths for this occupation?**
+A: You can start as a technical assistant and advance to technical supervisor or project manager through accumulated experience. You can also pursue higher education (such as FP Grado Superior) and move into more specialized positions such as lighting design or exhibition curation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Cultural and Artistic Support Technicians and Professionals属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Spain?**
-答：Entry-level technicians earn around €18,000-24,000 per year, mid-level €24,000-32,000, and senior up to €42,000. Salaries vary by region, employer size, and project.
-
-**问：How can non-EU citizens immigrate to Spain through this occupation?**
-答：This occupation is not considered high-skilled or in shortage, making immigration difficult. The main route is obtaining an employer-sponsored work contract (Cuenta ajena) with proof that the position cannot be filled within the EU. A job search visa is also possible.
-
-**问：What are the career progression paths for this occupation?**
-答：Starting as a technical assistant, you can advance to technical supervisor or project manager with experience. Further education (e.g., FP Grado Superior) allows specialization in areas like lighting design or exhibition curation.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

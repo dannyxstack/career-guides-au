@@ -1,68 +1,98 @@
-# 化学工程师（Chemical Engineer）职业分析 · 澳大利亚
+# Chemical Engineer — career analysis · Australia
 
-**职业代码：233111 – Chemical Engineer。**
+**Occupation code: 233111 (ANZSCO)**
 
-化学工程师设计和优化化学生产过程，覆盖矿物加工、石油化工、制药、食品工业和新兴清洁能源（绿氢/碳捕获）。澳洲绿氢产业发展（联邦$20亿绿氢投资）和关键矿产精炼本土化推动化学工程师需求显著增加。
+Chemical engineers design and optimise chemical production processes, covering mineral processing, petrochemicals, pharmaceuticals, food manufacturing and emerging clean energy (green hydrogen/carbon capture). Australia's green hydrogen industry (Federal $2 billion green hydrogen investment) and the drive to localise critical minerals refining are significantly boosting demand for chemical engineers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Chemical Engineering（荣誉，4年） | 4年（全日制） | $30,000~$185,000（澳洲化学工程师资质要求4年荣誉学位） |
-| Engineers Australia（EA）技能评估 | 3~12个月 | $770~$3,000（189/190签证必须，约 $770 申请费） |
-| CPEng（Chartered Professional Engineer） | 4~7年工作经验后申请 | $1,500~$5,000（专业注册工程师，高级岗位的重要资质） |
+| Bachelor of Chemical Engineering (Honours, 4 years) | 4 years (full-time) | $30,000~$185,000 (A chemical engineering qualification in Australia requires a 4-year honours degree) |
+| Engineers Australia (EA) skills assessment | 3–12 months | $770~$3,000 (Required for 189/190 visa; approximately $770 application fee) |
+| CPEng（Chartered Professional Engineer） | Apply after 4–7 years of work experience | $1,500~$5,000 (Professional registered engineer — an essential qualification for senior positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Chemical Engineering (Honours) | 认可大学（EA认证） | 必备 | 4年荣誉化学工程学位是EA评估基本要求 |
-| Engineers Australia（EA）技能评估 | Engineers Australia | 可选 | 189/190签证技术移民必须 |
-| CPEng（Chartered Professional Engineer） | Engineers Australia | 可选 | 大型化工/采矿项目的重要专业资质 |
-| Process Safety Management Certification（PSM） | IChemE / AIOH | 可选 | 化工安全管理专业认证，大型工厂安全工程岗的重要加分项 |
+| Bachelor of Chemical Engineering (Honours) | Accredited university (EA-accredited) | Required | A 4-year honours chemical engineering degree is the basic requirement for EA assessment |
+| Engineers Australia (EA) skills assessment | Engineers Australia | Optional | Required for skilled migration via 189/190 visa |
+| CPEng（Chartered Professional Engineer） | Engineers Australia | Optional | An important professional qualification for large-scale chemical/mining projects |
+| Process Safety Management Certification（PSM） | IChemE / AIOH | Optional | Professional certification in chemical process safety management — a significant advantage for safety engineering roles at large facilities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 14,000。JSA 预测化学工程师至2035年就业增长约8%。绿色氢能生产和关键矿产加工是2025-2030年增长最快的子领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,000. JSA projects employment growth for chemical engineers of approximately 8% to 2035. Green hydrogen production and critical minerals processing are the fastest-growing sub-sectors for 2025–2030.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,500 个 | 全国，含化学工程师、工艺工程师、矿物加工工程师和绿氢工程师岗 |
-| Indeed | 300~900 个 | 含制药、食品和能源化工岗 |
-| LinkedIn | 600~1,500 个 | 化工企业和绿氢初创公司直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生化学工程师（0~2年） | $70,000~$85,000 | 应届生起薪 |
-| 中级化学工程师（2~7年） | $85,000~$115,000 | SEEK 区间 $85k~$105k；Indeed 平均 $90,681（2026） |
-| 高级/锂矿精炼工程师（5年+） | $115,000~$165,000 | 锂矿精炼和绿氢专精工程师，Indeed Senior 平均约 $126k |
-| 总工程师 / 工艺总监（15年+） | $165,000~$250,000 | 大型化工/矿业公司工艺技术总监 |
+| Median salary | $148,148 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate chemical engineer (0–2 years) | $70,000~$85,000 | Graduate starting salary |
+| Mid-level Chemical Engineer (2–7 years) | $85,000~$115,000 | Seek range $85k–$105k; Indeed average $90,681 (2026) |
+| Senior/lithium refinery engineer (5+ years) | $115,000~$165,000 | Lithium refining and green hydrogen specialist engineer – Indeed Senior average approx. $126k |
+| Chief Engineer / Process Director (15+ years) | $165,000~$250,000 | Process Technology Director at a large chemical or mining company |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 绿氢和可再生能源化工是澳洲化工行业的最大投资方向。锂矿精炼（氢氧化锂生产）工程师是当前薪资溢价最高的方向，年薪可达 $130k~$160k。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
+
+Green hydrogen and renewable energy chemicals represent the largest investment direction in Australia's chemical industry. Lithium refining (lithium hydroxide production) engineers currently command the highest salary premium, with annual salaries reaching $130k–$160k.
+
+**Tasks most exposed to AI:**
+
+- Drawing routine process flow diagrams and piping and instrumentation diagrams
+- Optimization calculation of reactor yield based on historical data
+- Generate draft standardized safety assessment reports
+- Routine laboratory experiment design and data recording
+- Generate equipment specifications and purchase orders
+
+**Where AI augments the role:**
+
+- Accelerate catalyst design and molecular simulation with AI to shorten R&D cycles
+- Using machine learning to predict equipment corrosion rates and optimize maintenance schedules
+- AI-assisted real-time monitoring and anomaly detection improve process safety.
+- Simulating Process Change Impacts Using Digital Twins to Reduce Trial Costs
+- Automatically generating multiple project options and comparing economic indicators to aid decision-making
+
+**Human moat:**
+
+- Innovation in complex chemical process mechanisms and novel reaction route design
+- Cross-Disciplinary (Mechanical, Electrical, Environmental) System Integration and Trade-offs
+- Instantaneous judgment and physical intervention under emergency accident conditions
+- Deep understanding of customer needs and customization of bespoke process solutions
+- Responsibility and accountability in safety, environmental, and ethical decisions
+
+**Skills to build:**
+
+- AI-assisted process simulation (Aspen Plus + ML)
+- Big data analysis and machine learning (Python/SciKit-learn)
+- Digital twin platform (AVEVA/Siemens) operation
+- Process control and automation (DCS/PLC basics)
+- Interdisciplinary communication and project management (PMP)
+- Sustainable design (carbon capture, green hydrogen processes)
+
+**Key growth areas:**
 
 - Green Hydrogen & Clean Energy
 - Critical Minerals Processing & Refining
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，化学工程师为短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，WA（锂矿加工）/ SA（绿氢）通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区化工项目，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; chemical engineers are an in-demand occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; WA (lithium processing) / SA (green hydrogen) pathways |
+| Subclass 491 (Skilled Work Regional) | Remote area chemical industry project, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学化学工程师？**
-- 持有化学工程/化学工艺/材料工程学位（4年荣誉）
-- 有化工生产、矿物加工或制药制造实际工作经验
-- 英语能力达到 IELTS 6.0+（EA评估要求）
-- 对绿氢/锂矿加工有浓厚兴趣（薪资溢价最高的新兴方向）
-- 愿意在西澳（矿业化工）或南澳（绿氢重镇）工作
-
-**谁不适合学化学工程师？**
-- 非化学/工程学位，无法通过EA评估
-- 对化工安全规程不重视（化工生产安全是核心要求）
-- 不接受部分化工岗的轮班/现场工作要求
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a degree in chemical engineering / chemical process engineering / materials engineering (4-year honours)
+- Practical work experience in chemical production, mineral processing, or pharmaceutical manufacturing
+- English proficiency of IELTS 6.0+ (required for EA assessment)
+- Strong interest in green hydrogen / lithium processing (the highest salary premium emerging sector)
+- Willing to work in Western Australia (mining and chemicals) or South Australia (green hydrogen hub)
+
+**Who is not suited**
+- Without a chemistry/engineering degree, you cannot pass the EA assessment
+- Lack of attention to chemical safety procedures (chemical production safety is a core requirement)
+- Not willing to accept shift work or on-site work requirements in certain chemical industry roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a chemical engineer in Australia?**
+A: Mid-level approximately $85,000–$115,000 (Indeed average $90,681); lithium refining/green hydrogen senior engineer approximately $115k–$165k (senior average $126k); chief engineer can exceed $165k.
+
+**Q: Is it easy for chemical engineers to find work in Australia?**
+A: Moderately easy (specialist stream). Seek lists approximately 500–1,500 positions; demand is increasing driven by the green hydrogen industry and domestic lithium refining, with specialist engineers in short supply.
+
+**Q: Are Chinese chemical engineering qualifications recognised in Australia?**
+A: Skills assessment through Engineers Australia (EA). Chinese chemical/chemical engineering degrees from 985/211 universities typically pass smoothly, application fee approx. $770.
+
+**Q: Will chemical engineers be replaced by AI?**
+A: Risk is relatively low. AI assists with process simulation and optimisation (e.g. Aspen Plus), but chemical safety management, equipment design judgement, and scale-up decision-making remain irreplaceable.
+
+**Q: Is there an age limit for chemical engineers in Australia?**
+A: None. Senior process engineers (aged 40–55) are highly valued at large chemical and mining companies, particularly those with production line management and safety management experience.
+
+**Q: What qualifications do chemical engineers need in Australia?**
+A: Must hold a 4-year Bachelor of Chemical Engineering (Honours) degree — this is the fundamental requirement for EA assessment.
+
+**Q: Is it hard to get certified as a chemical engineer in Australia (for migration purposes)?**
+A: Moderate difficulty. EA assessment takes 3–12 months with a high pass rate; 189/190 EOI scores are favourable for experienced applicants. Employer-sponsored 482 in the green hydrogen sector is also a fast-track pathway.
+
+**Q: Which is better for migrating to Australia — chemical engineering or mechanical engineering?**
+A: Mechanical engineers have a larger job market (Seek ~2,000 vs chemical engineering ~700) with comparable salaries; chemical engineers command higher salary premiums in green hydrogen and lithium refining. Both are on the MLTSSL — choose based on your academic background.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 化学工程师薪资 $85k~$105k（2026） |
-| Indeed AU | 化学工程师平均薪资 $90,681；高级 $126k（2026） |
-| Engineers Australia | EA技能评估和CPEng认证 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★★☆） |
-| 学习难度 | 很高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-化学工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲化学工程师工资多少？**
-答：中级约 $85,000~$115,000（Indeed均值 $90,681）；锂矿精炼/绿氢高级工程师约 $115k~$165k（高级均值 $126k）；总工程师可超 $165k。
-
-**问：澳洲化学工程师容易找工作吗？**
-答：较容易（专精方向）。Seek 挂牌约 500~1500 个职位，绿氢产业和锂矿本土精炼推动需求增加，专精工程师供不应求。
-
-**问：中国化学工程学历澳洲认可吗？**
-答：通过 Engineers Australia（EA）技能评估。中国化工/化学工程学历（985/211院校）通常能顺利通过，约 $770 申请费。
-
-**问：化学工程师会被AI替代吗？**
-答：风险较低。AI辅助工艺模拟和优化（Aspen Plus），但化工安全管理、设备设计判断和工艺放大（Scale-up）决策不可替代。
-
-**问：澳洲化学工程师有年龄限制吗？**
-答：无。资深工艺工程师（40~55岁）在大型化工/矿业公司备受重视，特别是有生产线管理和安全管理经验者。
-
-**问：澳洲化学工程师需要什么学历？**
-答：必须持有4年荣誉化学工程学位（Bachelor of Chemical Engineering Honours），这是EA评估的基本要求。
-
-**问：澳洲化学工程师认证（移民）难吗？**
-答：难度中等。EA评估周期3~12个月，通过率较高；189/190 EOI分数对有经验者友好。绿氢方向雇主担保482也是快速路径。
-
-**问：化学工程师和机械工程师哪个更适合移民澳洲？**
-答：机械工程师就业量更大（Seek ~2000 vs 化工 ~700），薪资相当；化学工程师在绿氢/锂矿精炼方向有更高的薪资溢价。两者均在MLTSSL，建议根据学历背景选择。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

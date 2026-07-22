@@ -1,61 +1,94 @@
-# Groundworkers（Groundworkers）职业分析 · UK
+# Groundworkers — career analysis · United Kingdom
 
-**职业代码：9121 – Groundworkers。**
+**Occupation code: 9121 (SOC)**
 
-Groundworkers prepare construction sites by digging, leveling ground, laying concrete foundations, installing pipes and drainage, and building paths, roads, and driveways. They are essential for the initial stages of building projects.
+Ground workers prepare the ground before construction, including excavation, site leveling, pouring concrete foundations, installing pipes and drainage systems, and building roads and driveways. They are essential foundational workers on construction sites.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| GCSEs（初中毕业） | 2年 | —（公立学校免费） |
-| NVQ 2级/3级（在职培训） | 2-3年 | —（学徒制通常免费；自费课程约1000-3000英镑） |
-| 高级NVQ 4级或HND | 1-2年 | $3,000~$6,000（部分学院兼职课程费用） |
+| GCSEs (General Certificate of Secondary Education) | 2 years | $0~$0 (Free public schools.) |
+| NVQ Level 2/3 (on-the-job training) | 2-3 years | $0~$3,000 (Apprenticeships are usually free; fee-paying courses cost about £1000-3000.) |
+| Advanced NVQ Level 4 or HND | 1-2 years | $3,000~$6,000 (Partial college part-time course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CSCS卡（建筑技能认证计划） | CITB | 必备 | 进入工地的必需证件，证明健康与安全知识 |
-| NVQ 2级 地基工程 | City & Guilds / EAL | 可选 | 核心职业资格，涵盖挖掘、混凝土、排水等技能 |
-| CPCS卡（建筑技能操作证） | NOCN | 可选 | 如需操作重型机械（如挖掘机）需此卡 |
-| SMSTS（工地管理安全培训） | CITB | 可选 | 晋升管理岗推荐，部分雇主强制 |
+| CSCS card (Construction Skills Certification Scheme) | CITB | Required | Mandatory document for entering construction sites, certifying health and safety knowledge |
+| NVQ Level 2 Foundation Engineering | City & Guilds / EAL | Optional | Core vocational qualification covering skills in excavation, concrete, drainage, etc. |
+| CPCS card (Construction Plant Competence Scheme) | NOCN | Optional | Required if operating heavy machinery (e.g., excavators) |
+| SMSTS (Site Management Safety Training Scheme) | CITB | Optional | Recommended for managerial promotion, mandatory for some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。英国政府积极推动基础设施建设与住房开发，未来十年地基工人需求持续增长。脱欧后劳动力短缺导致该职业供不应求，预计就业岗位将稳定增加。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. The UK government actively promotes infrastructure construction and housing development, leading to sustained demand for ground workers over the next decade. Post-Brexit labor shortages have caused supply-demand imbalance for this occupation, with job numbers expected to increase steadily.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒或新手地基工人 |
-| 中级（3-7年） | $30,000~$38,000 | 熟练地基工人，可独立完成工作 |
-| 高级（7年以上） | $40,000~$50,000 | 工头或高级技工，可能享有额外津贴 |
+| Median salary | $37,925 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprentice or novice foundation worker |
+| Mid-level (3–7 years) | $30,000~$38,000 | Proficient foundation worker, capable of completing work independently |
+| Senior (7+ years) | $40,000~$50,000 | Foreman or senior technician, may receive additional allowances |
+| average salary | $38,309 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 地基工人可从普通劳工晋升为高级技工、工头或项目经理，也可专攻混凝土、排水等细分领域。积累经验后可考取更高资格，如NVQ 4级，或独立创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical labor and complex on-site judgment of foundation workers are hard to replace, but AI-driven measurement and planning tools are compressing entry-level positions while amplifying efficiency of skilled workers.
+
+Groundworkers can progress from laborers to advanced technicians, foremen, or project managers, and may specialize in areas like concrete or drainage. With experience, they can obtain higher qualifications such as NVQ Level 4 or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Manual surveying and setting out using total stations and levels
+- Manually record site logs and progress reports.
+- Visual estimation of basic excavation quantities
+- Reading and manual annotation of paper versions of drawings.
+
+**Where AI augments the role:**
+
+- Using AI vision systems for foundation defect detection
+- Collaborate on construction plan adjustments in real-time via BIM models
+- Use drone mapping to generate accurate ground models
+- AI-optimized concrete mix design and pouring sequence
+
+**Human moat:**
+
+- Safe operation on uneven, soft, or slippery surfaces
+- Intuitive judgment of underground utilities and soil conditions
+- On-site decision-making in emergency situations (e.g., cave-ins).
+- Real-time coordination with other trades (steel fixers, plumbers)
+
+**Skills to build:**
+
+- BIM modeling and digital construction management
+- Operation of GPS total stations and automated surveying equipment
+- AI-assisted soil analysis software usage
+- UAV operation and survey data processing
+- Common knowledge of data security and workplace privacy protection
+- PLC-controlled concrete pumping system basics
+
+**Key growth areas:**
 
 - Infrastructure projects
 - Housing demand
@@ -64,68 +97,67 @@ Groundworkers prepare construction sites by digging, leveling ground, laying con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于被英国雇主担保的地基工人，需满足薪资门槛（通常不低于26,200英镑/年）并符合职业清单要求。 |
-| Subclass Graduate（Graduate visa） | 适用于在英国取得学士及以上学位的留学生，可在签证有效期内从事任何工作（包括地基工人），无需担保。 |
-| Subclass Scale-up（Scale-up visa） | 适用于在符合条件的高增长企业获得工作机会的地基工人，首6个月需担保，之后可灵活就业。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to groundworkers sponsored by UK employers, must meet the salary threshold (usually no less than £26,200/year) and comply with the occupation list requirements. |
+| Subclass Graduate (Graduate visa) | Applies to international students who have obtained a bachelor's degree or higher in the UK; can work in any job (including groundworker) during the visa validity period without sponsorship. |
+| Subclass Scale-up (Scale-up visa) | Applies to groundwork workers who obtain a job offer from a qualifying high-growth enterprise; first 6 months require sponsorship, then can work flexibly. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Groundworkers？**
-- 喜欢户外体力劳动、动手能力强的人
-- 注重实用技能、不介意工作环境艰苦的人
-- 愿意通过学徒制或在职培训开启职业生涯的人
-
-**谁不适合学Groundworkers？**
-- 偏好办公室或需长期深造的工作者
-- 体力不佳或对恶劣天气敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and are hands-on
+- People who value practical skills and do not mind working in tough environments
+- People willing to start a career through apprenticeships or on-the-job training
+
+**Who is not suited**
+- Workers who prefer an office environment or require long-term study
+- People with poor physical fitness or sensitivity to bad weather
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a foundation worker?**
+A: Junior groundworker annual salary approx. £22,000-28,000, intermediate £30,000-38,000, senior foreman up to £40,000-50,000. Overtime and allowances can further increase income.
+
+**Q: Can foundation workers apply for a UK work visa?**
+A: Yes. This occupation is on the Skilled Worker visa occupation list, and due to shortage (Immigration Salary List), the salary threshold can be reduced. You need to find a sponsor employer and meet English and other requirements.
+
+**Q: What career advancement opportunities are there for foundation workers?**
+A: Can advance to senior tradesperson, foreman, project manager, or specialize in areas like concrete or drainage. After obtaining NVQ Level 4 or HND, may transition to site management or technical consultant roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Groundworkers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for a groundworker?**
-答：Entry-level groundworkers earn £22,000-£28,000, mid-level £30,000-£38,000, and senior foremen up to £40,000-£50,000. Overtime and allowances can increase earnings.
-
-**问：Can groundworkers apply for a UK work visa?**
-答：Yes. This occupation is on the Skilled Worker visa list and is shortage occupation (Immigration Salary List), allowing lower salary thresholds. You need a sponsoring employer and meet English language requirements.
-
-**问：What are the career progression opportunities for groundworkers?**
-答：Promotion to advanced craftsman, foreman, project manager, or specialization in concrete or drainage. With NVQ Level 4 or HND, can move into site management or technical advising.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

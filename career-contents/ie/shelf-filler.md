@@ -1,58 +1,91 @@
-# Shelf Filler（Shelf Filler）职业分析 · IE
+# Shelf Filler — career analysis · Ireland
 
-**职业代码：9334 – Shelf Filler。**
+**Occupation code: 9334 (ISCO08)**
 
-Responsible for stocking shelves, replenishing merchandise, and maintaining store displays in retail settings such as supermarkets and shops.
+Responsible for stocking shelves in retail stores, supermarkets, etc., ensuring shelves are full and tidy, and assisting with inventory management.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（免费公立教育） |
+| High school graduation | 4 years | $0~$0 (Free public education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定要求 | 无 | 可选 | 通常不需要正式资格，雇主提供在职培训 |
+| No specific requirements | None | Optional | Usually no formal qualification required; employer provides on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 15,000。随着零售业的持续增长和消费者需求变化，货架补货员岗位需求稳定。预计未来五年就业人数将小幅增长，尤其在大型超市和连锁店。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. With sustained retail growth and changing consumer demand, shelf filler positions remain stable. Employment is expected to grow slightly over the next five years, especially in large supermarkets and chain stores.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$27,000 | 税前年薪 |
-| 中级（3-5年） | $27,000~$33,000 | 税前年薪 |
-| 高级（5年以上） | $33,000~$40,000 | 税前年薪，含主管职位 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$27,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $27,000~$33,000 | Annual pre-tax salary |
+| Senior (5+ years) | $33,000~$40,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $30,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 通常从兼职开始，积累经验后可晋升为部门主管或库存经理，也可转向物流或供应链领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Shelf stockers face high risk of automation; AI and robots will take over stocking and inventory counting tasks, significantly reducing entry-level positions, but complex scenarios and customer interaction still require humans.
+
+Starting part-time, can advance to department head or inventory manager with experience, or transition to logistics or supply chain.
+
+**Tasks most exposed to AI:**
+
+- Automatically restock shelves based on inventory data
+- Shelf out-of-stock identification and robot replenishment
+- Automation of inventory counting and data entry.
+- Optimization and automatic adjustment of product placement positions
+
+**Where AI augments the role:**
+
+- Provides real-time replenishment routes and efficiency optimization via AR glasses
+- Using inventory forecasting systems to reduce stockouts and overstock
+- Data analysis report interpretation to improve shelf display strategy
+- Collaborating with AI systems to handle special displays or promotional areas
+
+**Human moat:**
+
+- Temporary judgment for complex shelf layouts (e.g., promotional item changes)
+- Customer inquiries and on-site problem solving
+- Careful handling of fragile or special items
+- On-site coordination with supplier personnel
+
+**Skills to build:**
+
+- Operation and maintenance of automated retail systems
+- Basic data analysis (inventory forecasting, shelf optimization)
+- Use of digital inventory management software
+- Human-machine collaboration and robot scheduling skills
+- Customer service and communication skills
+- Basic hardware maintenance (e.g., handheld terminals)
+
+**Key growth areas:**
 
 - Retail
 - Logistics
@@ -61,61 +94,63 @@ Responsible for stocking shelves, replenishing merchandise, and maintaining stor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30000欧元。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary no less than €30,000. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shelf Filler？**
-- 喜欢体力活动且注重细节的人
-- 需要灵活兼职工作的人
-- 希望在零售业积累经验的人
+**Who is suited**
+- People who enjoy physical activity and are detail-oriented
+- People who need flexible part-time work
+- Seeking experience in retail
 
-**谁不适合学Shelf Filler？**
-- 期望高薪职业的人
-- 不喜欢站立工作或体力劳动的人
+**Who is not suited**
+- People seeking high-paying careers
+- People who dislike standing or physical labor.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a shelf restocker?**
+A: Entry-level annual salary around 22,000-27,000 EUR, up to 40,000 EUR for senior roles, but typically below the national average.
+
+**Q: Can a shelf filler apply for an Irish work visa?**
+A: Can apply for a General Employment Permit, but requires employer sponsorship and meeting the annual salary threshold, typically no less than 30,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 非常容易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shelf Filler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for shelf fillers?**
-答：Entry-level salary is around €22,000-€27,000 per year, with senior roles up to €40,000, but generally below national average.
-
-**问：Can shelf fillers apply for an Irish work visa?**
-答：Yes, a General Employment Permit is possible with employer sponsorship and salary threshold of at least €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

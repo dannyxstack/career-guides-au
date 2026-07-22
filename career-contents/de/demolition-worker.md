@@ -1,61 +1,97 @@
-# Demolition Worker（Demolition Worker）职业分析 · DE
+# Demolition Worker — career analysis · Germany
 
-**职业代码：3217 – Demolition Worker。**
+**Occupation code: 3217 (KldB)**
 
-Demolition workers safely dismantle buildings and structures using heavy machinery and explosives, adhering to safety and environmental regulations.
+Construction demolition workers are responsible for safely demolishing buildings, bridges, and other structures, involving blasting, mechanical dismantling, and waste recycling. Skills include operating heavy machinery, assessing structural stability, and complying with environmental regulations.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3年（双元制） | —（双元制培训期间有津贴，企业承担学费） |
-| 短期课程 | 6-12个月 | $2,000~$5,000（私立的拆除操作或爆破技术课程） |
+| Vocational training | 3 years (dual system) | $0~$500 (Stipend during dual-system training; companies cover tuition fees) |
+| Short-term courses | 6–12 months | $2,000~$5,000 (Private demolition or blasting technology courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑拆除工职业培训证书 | 德国工商会（IHK） | 必备 | 完成3年双元制培训后获得，行业标配 |
-| 爆破许可证 | 州政府 | 可选 | 从事爆破拆除需额外考取，培训时长约6个月 |
-| 职业资质认证（Anerkennung） | 德国联邦劳工局 | 必备 | 海外学历需认证，流程耗时3-6个月 |
+| Certificate for Demolition Worker Vocational Training | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing a 3-year dual-system training, industry standard |
+| Professional qualification certification (Anerkennung) | German Federal Employment Agency | Required | Overseas qualifications need assessment, process takes 3-6 months. |
+| Blasting License | State government | Optional | Blasting demolition requires additional certification, with training lasting about 6 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。德国城市化更新及旧建筑改造项目增多，拆除行业需求稳定。但工作受建筑周期影响，2023年从业人数约2.5万，未来五年预计年增长1-2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Urban renewal and old building renovation projects in Germany are increasing, so demolition industry demand is stable. However, work is affected by construction cycles; about 25k workers in 2023, with expected annual growth of 1-2% over next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 培训后起薪低，西部高于东部 |
-| 中级（3-7年） | $35,000~$42,000 | 有经验的熟练工 |
-| 高级（7年以上） | $43,000~$50,000 | 工头或爆破专家 |
+| Median salary | $43,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Low starting salary after training, higher in the west than in the east |
+| Mid-level (3–7 years) | $35,000~$42,000 | Experienced skilled worker |
+| Senior (7+ years) | $43,000~$50,000 | Foreperson or blasting specialist |
+| average salary | $46,536 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可从普通工人晋升为爆破专家或工头，再至项目经理。通过继续教育可转向建筑回收或环境管理领域。
-**AI替代风险：中低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Many repetitive, high-risk tasks of building demolition workers will be replaced by automated machinery and AI planning systems, but on-site decision-making and complex structure assessment still require humans.
+
+Career progression from general worker to blasting expert or foreman, then to project manager. Through continuing education, can transition into construction recycling or environmental management.
+
+**Tasks most exposed to AI:**
+
+- Use Heavy Machinery for Standard Demolition Operations
+- Automatic assessment of basic building structural stability
+- Automation of waste sorting and recycling processes
+- AI planning of demolition sequence and safety schemes
+- On-site monitoring and real-time data report generation
+
+**Where AI augments the role:**
+
+- AI-assisted structural analysis improves demolition precision
+- Drones + AI monitoring of hazardous areas
+- AI-optimized demolition plans to reduce downtime
+- Remote operation of robots for high-risk demolition
+- AI predicts material recycling value
+
+**Human moat:**
+
+- On-site assessment of complex demolition
+- Quick decision-making in emergencies
+- Communication and coordination with the team and clients
+- Interpretation and enforcement of safety regulations.
+- Special treatment techniques for old buildings
+
+**Skills to build:**
+
+- Operate and maintain automated demolition robots
+- Use AI structural analysis software
+- Drone operation and data analysis
+- Project Management and Safety Planning
+- Basic programming and AI tool application.
+- Environmental regulations and recycling technology
+
+**Key growth areas:**
 
 - Urban Renewal
 - Building Retrofit
@@ -64,69 +100,68 @@ Demolition workers safely dismantle buildings and structures using heavy machine
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act - Vocational Training） | 适用于完成德国认可职业培训的第三国人员，需获得工作合同且职业资格被认可。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统的求职居留许可，允许来德寻找工作，需通过资质评估。 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需证明经济能力，且职业资格被认可。 |
+| Subclass Skilled Worker (Skilled Immigration Act - Vocational Training) | Applies to third-country nationals who have completed recognized vocational training in Germany. Requires a job contract and recognized qualifications. |
+| Subclass Chancenkarte (Opportunity Card) | Job search residence permit based on a points system, allowing job seeking in Germany; requires qualification assessment. |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires proof of financial capacity and recognition of professional qualification. |
 
-**PR难度：中高（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Demolition Worker？**
-- 喜欢体力劳动和户外工作
-- 注重安全、遵守规程
-- 愿意接受职业培训和资格认证
-
-**谁不适合学Demolition Worker？**
-- 不善于团队协作
-- 对灰尘噪音环境敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys physical labor and outdoor work
+- Focus on safety and follow procedures
+- Willing to undergo vocational training and obtain professional certification
+
+**Who is not suited**
+- Poor teamwork skills
+- Sensitive to dust and noise environments
+
+---
+
+## 8. FAQ
+
+**Q: Annual salary range for building demolition workers in Germany?**
+A: Entry-level salary around EUR 28,000-34,000/year, mid-level EUR 35,000-42,000, senior foreman up to EUR 43,000-50,000. Higher wages in the west and on large projects.
+
+**Q: How can overseas demolition workers immigrate to Germany?**
+A: Must first obtain professional qualification recognition (Anerkennung), then can apply via the Skilled Worker visa (requires a work contract) or the Chancenkarte job-seeking visa.
+
+**Q: What are the career advancement pathways for demolition workers?**
+A: Can progress to roles such as blasting expert, foreman or project manager, or transition to construction recycling or environmental fields through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
-
-Demolition Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for demolition workers in Germany?**
-答：Entry-level salaries range from €28k-34k, mid-level €35k-42k, and senior positions €43k-50k per year. Higher in western Germany and on large projects.
-
-**问：How can a foreign demolition worker immigrate to Germany?**
-答：You need to obtain professional qualification recognition (Anerkennung), then apply for a Skilled Worker visa (with job offer) or an Opportunity Card.
-
-**问：What career advancement paths exist for demolition workers?**
-答：You can advance to blasting specialist, foreman, or project manager, or move into recycling or environmental fields through further training.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

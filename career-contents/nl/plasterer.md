@@ -1,61 +1,94 @@
-# Plasterer（Plasterer）职业分析 · NL
+# Plasterer — career analysis · Netherlands
 
-**职业代码：7123 – Plasterer。**
+**Occupation code: 7123 (ISCO08)**
 
-Plasterers apply plaster to interior and exterior walls, ceilings, and other surfaces to achieve a smooth or decorative finish, an essential trade in construction and renovation.
+Plasterers apply plaster to interior and exterior walls, ceilings, and other surfaces for leveling, decoration, and repair; it is an essential skilled trade in building construction.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立学校学费低廉，每年约€1,000-2,000，部分学徒制免学费且有工资） |
-| 学徒制（BBL） | 2-4年 | —（边工作边学习，学费极低或由雇主承担，同时获得收入） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public schools have low tuition fees, around €1,000-2,000 per year, and some apprenticeships are tuition-free with a salary) |
+| Apprenticeship (BBL) | 2-4 years | $0~$500 (Study while working, with very low tuition or paid by the employer, while earning income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 抹灰工职业资格证书 | 荷兰建筑行业基金会（Sectorinstituut Bouw en Infra） | 必备 | 完成MBO或学徒制后获得，证明具备基本技能 |
-| VCA安全证书 | 荷兰安全协会（SSVV） | 必备 | 建筑工地必备安全证书 |
-| SVIB认证 | SVIB | 可选 | 装饰抹灰或修复类专业认证，非强制但提升竞争力 |
+| Plasterer vocational qualification certificate | Sectorinstituut Bouw en Infra (Netherlands Construction Industry Foundation) | Required | Obtained after completing MBO or apprenticeship, certifying basic skills. |
+| VCA safety certificate | Netherlands Safety Association (SSVV) | Required | Mandatory safety certificate for construction sites |
+| SVIB certification | SVIB | Optional | Professional certification in decorative plastering or restoration is not mandatory but improves competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,000。荷兰建筑业持续活跃，住房短缺推动新建和翻新项目，抹灰工需求稳定。技术工人短缺使该职业就业前景良好，预计未来几年保持增长。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. The Dutch construction industry remains active, with housing shortages driving new builds and renovations, ensuring steady demand for plasterers. A shortage of skilled workers makes the occupation's employment prospects favorable, with growth expected in the coming years.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含学徒或入门级职位 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，经验丰富后可独立工作 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，包括工头、专家或自雇者 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, including apprenticeship or entry-level positions |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual salary before tax, independent work possible after gaining experience |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, including foremen, specialists, or self-employed individuals |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★☆）。** 从学徒起步，经多年经验可晋升为工头或项目主管；也可专攻装饰抹灰、修复古建筑等细分领域，或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Plastering is a combination of physical and skilled work. Some repetitive tasks can be replaced by automation tools, but fine plastering, repairs, and complex decorative work still require human judgment. AI is more of an amplifier than a replacement.
+
+Starting as an apprentice, with years of experience one can advance to foreman or project supervisor; also can specialize in fields like decorative plastering or restoration of historic buildings, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Operation of automated plastering machines for large flat wall surfaces.
+- Automatic mortar proportioning and spraying based on BIM model
+- UAVs or robots for initial rough leveling of high-altitude wall surfaces
+- Automatic plastering for standard corners and internal angles
+
+**Where AI augments the role:**
+
+- AI scans wall unevenness and guides manual fine repair
+- AR glasses display plaster thickness and verticality data in real time
+- AI analyzes defects such as water seepage and cracks and recommends repair solutions
+- Optimization of material usage and labor hours estimation based on historical data
+
+**Human moat:**
+
+- Manual plastering skills for complex curves and decorative patterns
+- Understanding and matching original craftsmanship in old building restoration
+- On-site assessment of base conditions (dampness, hollowing) and adjustment of processes
+- Ability to communicate artistic requirements with owners and designers
+
+**Skills to build:**
+
+- Operating automated plastering machines and other new construction equipment
+- Read BIM drawings and digital construction management software
+- Basic data analysis skills (material usage, labor hour optimization)
+- Learn to use AR-assisted construction tools
+- Master the construction characteristics of eco-friendly mortar and new materials
+- Improve client communication and customized solution design capabilities
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -64,69 +97,68 @@ Plasterers apply plaster to interior and exterior walls, ceilings, and other sur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有雇主担保的高技能移民，需工资达到门槛（2024年约€5,331/月），抹灰工通常需达到中等门槛 |
-| Subclass Orientation Year (zo（Orientation Year） | 荷兰高校毕业生或全球前200高校毕业生可申请1年求职签证，找到相关工作后可转工签 |
-| Subclass EU Blue Card（EU Blue Card） | 面向高技能非欧盟公民，需雇主担保且工资门槛较高（2024年约€5,331/月），抹灰工通常达不到 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants with employer sponsorship, requiring a salary threshold (2024: approximately €5,331/month); plasterers typically need to meet the medium threshold. |
+| Subclass Orientation Year (zo (Orientation Year) | Dutch university graduates or graduates from the world's top 200 universities can apply for a 1-year job-seeking visa, and can switch to a work visa after finding a relevant job |
+| Subclass EU Blue Card (EU Blue Card) | Aimed at highly skilled non-EU citizens, requires employer sponsorship with a high salary threshold (around €5,331/month in 2024), typically unattainable for plasterers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plasterer？**
-- 喜欢动手、注重细节、有耐心的人
-- 愿意从事体力劳动、热爱建筑行业的人
-- 追求稳定就业、希望学习一门实用手艺的人
-
-**谁不适合学Plasterer？**
-- 不能适应粉尘和体力消耗的人
-- 偏好室内办公、不喜欢户外或工地环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, pay attention to detail, and are patient
+- Individuals willing to engage in manual labor and passionate about the construction industry
+- People seeking stable employment and wanting to learn a practical trade.
+
+**Who is not suited**
+- Those who cannot tolerate dust and physical exertion
+- People who prefer indoor office work and dislike outdoor or construction environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a plasterer in the Netherlands?**
+A: Entry-level approx. €28,000–35,000, mid-level €35,000–45,000, senior up to €55,000+, with higher income for self-employed individuals.
+
+**Q: Can plasterers apply for the Netherlands Highly Skilled Migrant visa?**
+A: Possible, but requires employer sponsorship and meeting salary threshold (approx. €5,331/month in 2024). Typically only intermediate or senior plasterers may qualify; juniors find it difficult.
+
+**Q: Is the plasterer occupation in shortage in the Netherlands?**
+A: Yes, the Dutch construction industry faces a shortage of skilled workers, with plasterers on the shortage list in several provinces, making it easier for employers to obtain work permits.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plasterer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plasterer in the Netherlands?**
-答：Entry-level around €28,000–35,000, mid-level €35,000–45,000, senior up to €55,000 or more; self-employed can earn higher.
-
-**问：Can a plasterer apply for the Highly Skilled Migrant program in the Netherlands?**
-答：Yes, with employer sponsorship and salary threshold (€5,331/month in 2024). Usually mid-level or senior plasterers may qualify, entry-level is unlikely.
-
-**问：Is plasterer a shortage occupation in the Netherlands?**
-答：Yes, due to skilled labor shortages in construction, plasterers are in high demand and listed as shortage in several provinces, making work permits easier.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

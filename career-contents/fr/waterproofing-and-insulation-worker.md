@@ -1,59 +1,91 @@
-# Waterproofing and Insulation Worker（Waterproofing and Insulation Worker）职业分析 · FR
+# Waterproofing and Insulation Worker — career analysis · France
 
-**职业代码：F1613 – Waterproofing and Insulation Worker。**
+**Occupation code: F1613 (ROME)**
 
-Specializes in waterproofing and thermal insulation of buildings, including roofs, basements, and walls, ensuring energy efficiency and moisture protection.
+We engage in building waterproofing and thermal insulation treatment, including waterproofing layers and insulation material installation on roofs, basements, walls, and other parts to ensure building energy efficiency and moisture resistance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP封顶工或保温工 | 2年（CAP） | —（公立CFA通过学徒制免费，私立约3000欧元） |
-| BP/Bac Pro建筑装修 | 2-3年（Bac Pro） | —（公立学校免费或低学费） |
+| CAP topping or insulation workers | 2 years (CAP) | $0~$3,000 (Public CFAs are free through apprenticeships, while private ones pay about 3,000 euros) |
+| BP/Bac Pro building decoration | 2-3 years (Bac Pro) | $0~$5,000 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Étancheur/Bardeur | 法国教育部 | 必备 | 职业资格证书，基础入门要求 |
-| CQP隔离与防水工 | 建筑业CPNE | 可选 | 行业认可的职业资格，提升竞争力 |
-| 高空作业证书（CACES） | CNAM或授权机构 | 可选 | 涉及高空作业时强制，每5年更新 |
+| CAP Étancheur/Bardeur | French Ministry of Education | Required | Professional qualification certificate, basic entry requirements |
+| CQP isolation and waterproofing work | CPNE in the construction industry | Optional | Industry-recognized professional qualifications to enhance competitiveness |
+| Certificate of Aerial Work (CACES) | CNAM or authorized institutions | Optional | Mandatory for aerial operations, updated every 5 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国推进建筑节能改造（rénovation énergétique），防水保温工需求持续增长，尤其存量房翻新市场。法国就业局（France Travail）列为中等紧缺职业，就业机会集中于中小企业。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France is advancing building energy-efficient renovations (rénovation énergétique), and the demand for waterproofing and insulation workers continues to grow, especially in the existing home renovation market. France Travail lists occupations as in short supply, with employment opportunities concentrated in small and medium-sized enterprises.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，学徒期略低 |
-| 中级（3-7年） | $27,000~$32,000 | 含加班及奖金 |
-| 高级（7年以上/自营） | $33,000~$45,000 | 自营企业主收入更高，可达6万以上 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, apprenticeship period slightly lower |
+| Mid-level (3–7 years) | $27,000~$32,000 | Including overtime and bonuses |
+| Advanced (Over 7 Years/Self-Employed) | $33,000~$45,000 | Self-employed owners earn more, up to €60,000+ |
+| average salary | $24,732 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可晋升为团队主管（chef d'équipe），或转向建筑师事务所的技术顾问。经验丰富者可自营企业（artisan），承接小型工程。也可向绿色建筑（HQE）专家发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Waterproofing and insulation positions are affected by AI: outdoor, unstructured environments, and physical operations limit the depth of automation, but tasks like material estimation and quality inspection will be enhanced or replaced by AI.
+
+You can be promoted to team leader (chef d'équipe) or become a technical consultant at an architectural firm. Experienced individuals can start their own enterprises (artisan) and undertake small-scale projects. You can also develop into a Green Building (HQE) specialist.
+
+**Tasks most exposed to AI:**
+
+- Software is used to automatically calculate the waterproof layer area and material usage, replacing manual estimation
+- The AI vision system inspects coating uniformity and defects, replacing manual visual inspection
+- Drones automatically inspect rooftops and facades, generate maintenance reports, and replace some high-altitude inspection tasks
+- Smart sensors monitor insulation layer humidity and thermal resistance, replacing regular manual inspections
+
+**Where AI augments the role:**
+
+- AR headset overlay design drawings guide precise construction, reducing rework rates
+- AI-Assisted On-Site Decision-Making: Recommends the best construction windows based on weather data
+- Robots assist in handling and spraying heavy-duty waterproof materials, reducing workers' physical consumption
+- Digital twin models simulate the energy efficiency of different insulation schemes and optimize material selection
+
+**Human moat:**
+
+- Complex detail treatment: Waterproofing work on irregular areas such as wall corners and pipe crossings relies on manual experience
+- Assessment of the bonding ability of different substrates (brick, concrete, metal) in old buildings
+- On-site emergency decision-making in unforeseen situations such as emergency leak stopping
+- Process reliability of multi-material interfaces (overlapping waterproof layers and insulation layers).
+
+**Skills to build:**
+
+- Digital modeling and BIM software (such as Revit, ArchiCAD)
+- Operation and maintenance of intelligent construction equipment (such as drone inspections and robotic spraying).
+- Fundamentals of Data Analysis (Interpreting Sensor Reports and Predictive Maintenance)
+- Green building certification standards (such as LEED, Passivhaus)
+- Cross-trade collaboration and communication (working with designers and structural engineers)
+
+**Key growth areas:**
 
 - Energy renovation
 - Green building
@@ -62,68 +94,67 @@ Specializes in waterproofing and thermal insulation of buildings, including roof
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 由法国雇主担保的受雇工作居留，需匹配职业资格 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才或创新项目，可简化行政程序 |
-| Subclass Recherche emploi（Job Search Permit） | 毕业后可申请12个月找工作签证，适用于法国毕业的外国学生 |
+| Subclass Salarié (Employee Work Permit) | Employed work residence sponsored by French employers must match professional qualifications |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled talent or innovative projects, it can simplify administrative procedures |
+| Subclass Recherche emploi (Job Search Permit) | After graduation, you can apply for a 12-month job search visa, which is suitable for foreign students graduating from France |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Waterproofing and Insulation Worker？**
-- 喜欢动手、户外工作，能适应高空作业
-- 注重建筑节能与环保，希望进入绿色建筑行业
-- 愿意通过学徒培训快速就业
-
-**谁不适合学Waterproofing and Insulation Worker？**
-- 不适应高空、潮湿或尘多的工作环境
-- 希望办公室工作或低体力职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy hands-on work and outdoor work, and are able to adapt to high-altitude work
+- Focusing on building energy efficiency and environmental protection, hoping to enter the green building industry
+- Willing to quickly find employment through apprenticeship training
+
+**Who is not suited**
+- Not suitable for high-altitude, humid, or dusty working environments
+- Prefer office work or low-physical occupations
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for waterproof and insulation workers?**
+A: Starting salary for entry-level workers is around €22,000-26,000 before tax, rising to over €30,000 after gaining skills.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: You must obtain an employer sponsor to apply for Salarié residency or apply through Passeport Talent, but you must prove your skills and French language proficiency.
+
+**Q: What certifications are required?**
+A: A mandatory CAP professional certificate is required; for working at altitude, a CACES certificate is required. Additionally, you can obtain the CQP qualification to enhance your qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Waterproofing and Insulation Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a waterproofing and insulation worker?**
-答：Entry-level workers earn around €22,000-€26,000 gross annually, increasing to over €30,000 with experience.
-
-**问：How can a foreigner migrate to France through this occupation?**
-答：Obtain employer sponsorship for a Salarié work permit, or apply via Passeport Talent, requiring proof of skills and French language ability.
-
-**问：What certifications are required?**
-答：Mandatory CAP diploma, plus CACES for aerial work; optional CQP for career advancement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Judge（Judge）职业分析 · IE
+# Judge — career analysis · Ireland
 
-**职业代码：2612 – Judge。**
+**Occupation code: 2612 (ISCO08)**
 
-Judges preside over court proceedings in Ireland's judicial system, ensuring impartial application of law and adjudicating civil and criminal cases.
+A judge in the Irish judicial system presides over court proceedings, ensures fair enforcement of the law, and adjudicates civil and criminal cases.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法学本科 | 4年（本科） | $15,000~$25,000（年均学费，爱尔兰大学） |
-| 法律职业课程 | 1-2年 | $5,000~$10,000（如King's Inns或Law Society） |
+| Bachelor of Laws (LLB). | 4 years (bachelor's degree) | $15,000~$25,000 (Average annual tuition, Irish universities) |
+| Legal profession course | 1-2 years | $5,000~$10,000 (such as King's Inns or the Law Society) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 律师资格 | 爱尔兰法律协会或国王律师学院 | 必备 | 必须成为执业律师满10年方可申请法官职位 |
-| 司法任命 | 爱尔兰司法任命咨询委员会 | 必备 | 由委员会推荐，总统任命 |
+| legal qualification | The Law Society of Ireland or the King's Inns | Required | Must have been a practicing lawyer for at least 10 years to apply for a judge position. |
+| Judicial appointment | Irish Judicial Appointments Advisory Board | Required | Recommended by committee, appointed by the president |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 200。爱尔兰司法系统稳定，法官职位空缺有限，竞争激烈。未来几年受退休潮影响，可能有少量新任命机会。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 200. The Irish judicial system is stable, with limited judge vacancies and intense competition. Over the next few years, due to a wave of retirements, there may be a small number of new appointment opportunities.
 
-**竞争度：极高（★★★★★）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★★).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（地区法院） | $120,000~$150,000 | 税前年薪 |
-| 中级（高等法院） | $180,000~$200,000 | 税前年薪 |
-| 高级（最高法院） | $250,000~$300,000 | 税前年薪 |
+| Median salary | $190,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (District Court) | $120,000~$150,000 | Annual pre-tax salary |
+| Intermediate (High Court) | $180,000~$200,000 | Annual pre-tax salary |
+| Senior (Supreme Court) | $250,000~$300,000 | Annual pre-tax salary |
+| average salary | $200,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 法官通常从资深律师或法律学者中任命，晋升路径包括从地区法院到高等法院、上诉法院及最高法院。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core judicial functions of judges are protected by law and ethics, making AI substitution difficult in the short term; however, auxiliary tasks like legal research and document review will be significantly automated, intensifying competition for entry-level roles, resulting in a mixed outlook.
+
+Judges are typically appointed from senior lawyers or legal scholars; career progression includes moving from district courts to higher courts, appellate courts, and the Supreme Court.
+
+**Tasks most exposed to AI:**
+
+- Automated summarization and format checking of legal documents.
+- Intelligent search and initial matching of case law and regulations
+- Automatic transcription and keyword extraction of court recordings.
+- Routine status updates and reminders in case management systems
+- Recommendation for judgment in simple cases (requires human review)
+
+**Where AI augments the role:**
+
+- Using AI for rapid case comparison and precedent analysis to improve judgment consistency
+- Using natural language processing to sort complex case facts and points of dispute
+- Assess bail risk and provide reference ranges for sentencing recommendations using predictive models.
+- Use courtroom technology tools (e.g., real-time translation, evidence visualization) to assist hearings
+- Uses AI monitoring programs to automatically track case progress and compliance requirements.
+
+**Human moat:**
+
+- Final authority based on ethics and values
+- Understanding human emotions and complex social contexts in legal discretion
+- Judging and balancing uncertainty with legal and ethical boundaries
+- On-site protection of courtroom procedural justice and party rights
+- Lifelong learning and creativity in legal interpretation.
+
+**Skills to build:**
+
+- Operation of legal tech tools (e.g., e-discovery platforms, automated document systems)
+- Data analysis basics (understanding case prediction model outputs)
+- AI ethics and law (algorithmic bias, explainability)
+- Cross-disciplinary knowledge (e.g., AI applications in technology and financial cases)
+- Enhancing communication and mediation skills (human-machine collaboration scenarios)
+- Continuous legal updates and tracking of new technology regulations
+
+**Key growth areas:**
 
 - Judicial appointments
 - Retirement wave
@@ -63,65 +99,67 @@ Judges preside over court proceedings in Ireland's judicial system, ensuring imp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 法官职位通常由爱尔兰公民担任，不对非欧盟公民开放。 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用，法官职位不对外国开放。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Judges are generally required to be Irish citizens and are not open to non-EU citizens. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable; judge positions are not open to foreigners. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Judge？**
-- 资深法律从业者（10年以上经验）
-- 对司法公正有强烈使命感的人
-- 具备高度判断力和分析能力
+**Who is suited**
+- Senior legal practitioner (10+ years experience)
+- People with a strong sense of mission for judicial fairness
+- Possess high-level judgment and analytical skills
 
-**谁不适合学Judge？**
-- 追求快速职业晋升的人
-- 不熟悉爱尔兰法律体系的外国人
+**Who is not suited**
+- People seeking fast career advancement
+- Foreigners unfamiliar with the Irish legal system.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for judges?**
+A: Judges' salaries are relatively high: regional courts around €120,000-150,000, high courts €180,000-200,000, supreme courts €250,000-300,000.
+
+**Q: Can foreigners become judges in Ireland?**
+A: Usually not possible. Judge positions require candidates to have an Irish legal background and many years of practice. Non-EU citizens can hardly obtain this position through immigration channels.
+
+**Q: What is the career progression path for a judge?**
+A: Judges start at district courts and can progress to circuit courts, high courts, appellate courts, and ultimately the Supreme Court, based on experience and performance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 极高（★★★★★） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Judge属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for judges?**
-答：Judges earn high salaries: €120,000-150,000 for District Court, €180,000-200,000 for High Court, and €250,000-300,000 for Supreme Court.
-
-**问：Can a foreigner become a judge in Ireland?**
-答：Generally no. The position requires extensive experience in Irish law and long-term practice; non-EU citizens cannot obtain this role through migration channels.
-
-**问：What is the career progression for judges?**
-答：Judges start at District Court and can progress to Circuit Court, High Court, Court of Appeal, and Supreme Court, based on experience and performance.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

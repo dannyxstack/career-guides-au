@@ -1,58 +1,91 @@
-# Primary Products Quality Assurance Officer（Primary Products Quality Assurance Officer）职业分析 · 澳大利亚
+# Primary Products Quality Assurance Officer — career analysis · Australia
 
-**职业代码：311314 – Primary Products Quality Assurance Officer。**
+**Occupation code: 311314 (ANZSCO)**
 
-Primary Products Quality Assurance Officers oversee quality control of agricultural products from production to processing, ensuring compliance with industry standards and regulations. They inspect product samples, record quality data, and assist in process improvements.
+Junior Quality Assurance Officer oversees quality control of agricultural products from production to processing, ensuring compliance with industry standards and regulations. They inspect product samples, record quality data, and assist in process improvement.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（农业科学、食品科学或相关专业学士学位，年均学费） |
-| 研究生文凭 | 1年 | $15,000~$25,000（食品质量保证或食品安全研究生文凭） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Bachelor's degree in agricultural science, food science, or a related field; average annual tuition fees.) |
+| Graduate diploma | 1 year | $15,000~$25,000 (Postgraduate diploma in food quality assurance or food safety) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业科学学士 | 澳洲大学 | 可选 | 常见入门学历 |
-| HAACP认证 | 国际机构 | 可选 | HACCP食品安全体系认证 |
+| Bachelor of Agricultural Science | Australian universities | Optional | Common entry-level education |
+| HACCP certification | International organizations | Optional | HACCP Food Safety System Certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,800。随着澳洲农业出口增长和食品安全标准提高，该职业需求稳定。预计未来五年就业增长中等，尤其在肉类、乳制品和园艺行业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,800. With the growth of Australia's agricultural exports and higher food safety standards, demand for this occupation is stable. Employment growth is expected to be moderate over the next five years, especially in the meat, dairy, and horticulture industries.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 入门级薪资 |
-| 中级（3-6年） | $70,000~$90,000 | 有经验者 |
-| 高级（6年以上） | $90,000~$120,000 | 管理职位 |
+| Median salary | $69,160 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level salary |
+| Mid-level (3–6 years) | $70,000~$90,000 | Experienced individuals |
+| Senior (6+ years) | $90,000~$120,000 | Management positions |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★½☆）。** 初级职位可晋升为质量保证主管或经理，也可转向食品安全审计或合规管理。积累经验后可担任更高级别的质量保证顾问。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The testing and recording tasks of entry-level quality assurance officers are easily replaced by AI and automation tools; entry-level positions are shrinking.
+
+Junior positions can advance to quality assurance supervisor or manager, or shift to food safety auditing or compliance management. With experience, can take on higher-level quality assurance consultant roles.
+
+**Tasks most exposed to AI:**
+
+- Use sensors and machine learning for automatic product inspection and grading.
+- Automatically record quality data and generate compliance reports
+- Automatically identifies quality anomalies based on historical data and issues alerts
+- Real-time monitoring of production environment parameters (temperature, humidity, etc.) via IoT.
+
+**Where AI augments the role:**
+
+- Use AI analysis to optimize sampling plans and inspection frequency
+- Use digital twins to simulate production processes to predict quality issues
+- Efficiently interprets and updates regulatory standards through natural language processing.
+- Use computer vision to assist in identifying complex defects
+
+**Human moat:**
+
+- Responsibility for cross-departmental coordination in handling sudden quality incidents.
+- Professional judgment on non-standard, sensory quality issues (e.g., flavor, texture)
+- Building and maintaining client trust relationships
+- Strategic capability to design and improve quality management systems
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Python, Power BI)
+- Operation and maintenance of automated inspection equipment
+- Audit capability for quality management systems (e.g., ISO 22000)
+- Fundamentals of AI/ML
+- Communication and problem-solving skills.
+- Supply chain traceability technology (e.g., blockchain)
+
+**Key growth areas:**
 
 - Agri-food
 - Quality Control
@@ -61,65 +94,64 @@ Primary Products Quality Assurance Officers oversee quality control of agricultu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时签证，需雇主担保 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需雇主担保且满足条件 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民永居签证，需获得州政府担保 |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, requires employer sponsorship |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa, requiring employer sponsorship and meeting conditions |
+| Subclass 190 (Skilled Nominated Visa) | Skilled migration permanent residence visa requiring state/territory nomination |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary Products Quality Assurance Officer？**
-- 细心耐心，注重细节
-- 具备食品科学或农业背景
-- 希望在农业质量控制领域发展
-
-**谁不适合学Primary Products Quality Assurance Officer？**
-- 对重复性工作缺乏耐心
-- 不习惯户外农场环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful, patient, and detail-oriented
+- Background in food science or agriculture
+- Aspiring to develop in agricultural quality control
+
+**Who is not suited**
+- Impatient with repetitive work
+- Not accustomed to outdoor farm environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Junior approximately AUD 55,000-70,000, mid-level A$70,000-90,000, senior A$90,000-120,000, affected by region and industry.
+
+**Q: What immigration pathways are available?**
+A: May lead to permanent residency via the 186 Employer Nomination Scheme or 190 Skilled Nominated Visa, with the 482 Temporary Skill Shortage visa as a common transition. Must meet requirements such as skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Primary Products Quality Assurance Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level: AUD 55,000-70,000; mid-level: AUD 70,000-90,000; senior: AUD 90,000-120,000, influenced by location and industry.
-
-**问：What are the migration pathways?**
-答：Permanent residency via 186 employer nomination or 190 state nomination, while 482 temporary visa is a common transition. Must meet skills assessment requirements.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

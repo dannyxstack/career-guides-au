@@ -1,60 +1,94 @@
-# Engineering Patternmaker（Engineering Patternmaker）职业分析 · 澳大利亚
+# Engineering Patternmaker — career analysis · Australia
 
-**职业代码：323411 – Engineering Patternmaker。**
+**Occupation code: 323411 (ANZSCO)**
 
-Engineering Patternmakers create and repair patterns, models, and molds used in metal casting, plastic molding, and other industrial production. They work from drawings or samples, using lathes, milling machines, and other tools to shape wood, metal, and plastic with precision.
+Engineering patternmakers manufacture and repair molds and patterns used in industrial production such as metal casting and plastic molding, typically serving the manufacturing industry. They use lathes, milling machines, and other equipment to process materials like wood, metal, and plastic according to drawings or samples, ensuring precision and surface quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制（Certificate III / IV） | 4年 | $5,000~$20,000（政府补贴后费用较低，雇主带薪培训） |
-| 在职培训或无学历（经验为主） | 5年以上 | —（可通过内部晋升，但机会有限） |
+| Apprenticeship (Certificate III / IV) | 4 years | $5,000~$20,000 (Low cost after government subsidies, employer-paid training) |
+| On-the-job training or no qualification (experience-based) | 5+ years | $0~$0 (Internal promotion is possible but limited.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering - Fabrication Trade | TAFE或RTO | 必备 | 核心学历，包含模具制造模块 |
-| Certificate IV in Engineering (Patternmaking) | TAFE或RTO | 可选 | 高级学历，提升专业能力 |
-| 职业评估（Trades Recognition Australia） | TRA | 必备 | 技术移民必需 |
-| 在职经验与技能证明 | 雇主 | 可选 | Part-time或学徒经验补充 |
+| Certificate III in Engineering - Fabrication Trade | TAFE or RTO | Required | Core qualification, includes mold making modules |
+| Skills assessment (Trades Recognition Australia) | TRA | Required | Essential for skilled migration |
+| Certificate IV in Engineering (Patternmaking) | TAFE or RTO | Optional | Advanced qualifications to enhance professional skills |
+| On-the-job experience and skills certification | Employer | Optional | Complement with part-time or apprenticeship experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。澳洲制造业规模稳定，但技术工人需求持续存在，尤其是先进制造和工程领域。随着老一代技工退休，制模师岗位将出现一定缺口。就业前景一般，但具备CNC等现代技能者更具竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Australia's manufacturing sector is stable, but demand for skilled workers persists, especially in advanced manufacturing and engineering. As older technicians retire, mold maker positions will see some gaps. Employment outlook is average, but those with modern skills like CNC are more competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 学徒或刚获证 |
-| 中级（4-7年） | $65,000~$80,000 | 独立工作 |
-| 高级（8年以上） | $80,000~$100,000 | 主管或专业制模师 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$65,000 | Apprentice or newly certified. |
+| Mid-level (4-7 years) | $65,000~$80,000 | Independent work |
+| Senior (8+ years) | $80,000~$100,000 | Supervisor or professional mold maker |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从学徒制开始，晋升为高级技工或主管。可进一步学习模具设计、计算机数控（CNC）编程，转型为模具设计师、生产经理或技术讲师。部分从业者创业开设模具车间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Engineering pattern makers are at the center of AI automation: simple mold design, programming, and inspection tasks will be replaced by AI, but high-precision hand finishing, complex fault diagnosis, and client communication skills remain irreplaceable.
+
+Usually starts with an apprenticeship, then progresses to senior technician or supervisor. Further study in mold design, CNC programming can lead to roles as mold designer, production manager, or technical instructor. Some start their own mold workshops.
+
+**Tasks most exposed to AI:**
+
+- Simple mould design based on 2D drawings
+- Automatic programming and path optimization for CNC machines
+- Automated inspection and report generation for mold dimensions
+- Inventory management and production scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted topology optimization design for complex molds
+- Using AI simulation to predict mold wear and optimize maintenance cycles
+- Leverage augmented reality (AR) for remote collaboration and fault diagnosis
+- Intelligent process parameter recommendation to reduce trial mold runs
+
+**Human moat:**
+
+- High-precision manual finishing and assembly (e.g., scraping of mold parting surfaces)
+- Experience with unconventional materials (e.g., special alloys)
+- Understanding customer needs and designing creative solutions
+- On-site fault diagnosis and emergency response skills
+- Safety compliance responsibilities (involving high temperature and high pressure molds)
+
+**Skills to build:**
+
+- Advanced CAD/CAM software applications (e.g., SolidWorks, Mastercam)
+- CNC Programming and Multi-Axis Machining Center Operation
+- 3D printing and additive manufacturing technology
+- AI/Machine Learning Fundamentals (for process optimization)
+- Data analysis and basic programming (Python)
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Advanced Manufacturing
 - CNC Machining
@@ -63,69 +97,68 @@ Engineering Patternmakers create and repair patterns, models, and molds used in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage) Visa） | 雇主担保临时签证，需2年以上工作经验 |
-| Subclass 186（Employer Nomination Scheme (ENS) Visa） | 雇主担保永居签证，需职业评估和3年工作经验 |
-| Subclass 190（Skilled Nominated Visa (State Sponsored)） | 州担保技术移民永居签证，需满足州担保要求 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区临时签证，转永居需满足居住和收入要求 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage) Visa) | Employer-sponsored temporary visa, requires over 2 years of work experience |
+| Subclass 186 (Employer Nomination Scheme (ENS) Visa) | Employer-sponsored permanent residence visa, requires skills assessment and 3 years of work experience |
+| Subclass 190 (Skilled Nominated Visa (State Sponsored)) | State-sponsored skilled migration permanent visa, requiring meeting state sponsorship requirements. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional temporary visa, transitioning to permanent residence requires meeting residence and income requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Patternmaker？**
-- 喜欢动手操作、精于手工和机械加工的人
-- 有耐心、注重细节，能长时间专注精密工作的人
-- 愿意进行学徒制培训并持续学习新技术的人
-
-**谁不适合学Engineering Patternmaker？**
-- 不喜欢重复性体力劳动和车间环境的人
-- 对精密加工和公差要求缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, skilled in manual and mechanical processing
+- Patient, detail-oriented individuals who can focus on precision work for extended periods
+- Individuals willing to undergo apprenticeship training and continuously learn new skills
+
+**Who is not suited**
+- People who dislike repetitive physical labor and workshop environments
+- Those who lack patience for precision machining and tolerance requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for tool and die makers in Australia?**
+A: Junior annual salary approx. AUD 55,000-65,000, mid-level AUD 65,000-80,000, senior up to AUD 80,000-100,000. Experienced or supervisory roles earn more.
+
+**Q: Can an engineering patternmaker apply for Australian skilled migration?**
+A: Yes. This occupation is on the MLTSSL and can apply for 189 Skilled Independent visa, 190 State Nominated visa, 491 Regional visa, or 482/186 Employer Sponsored visa. A TRA skills assessment is required.
+
+**Q: What are the career development paths for a tool and die maker?**
+A: Can progress from apprentice to senior technician, then transition into mold designer, production supervisor, or technical trainer. Learning CNC programming and CAD design can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Engineering Patternmaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an Engineering Patternmaker in Australia?**
-答：Entry-level salary is around AUD 55,000-65,000 per year, mid-level AUD 65,000-80,000, and senior up to AUD 80,000-100,000. Experienced supervisors can earn more.
-
-**问：Can an Engineering Patternmaker apply for Australian skilled migration?**
-答：Yes. The occupation is on the MLTSSL, eligible for Subclass 189, 190, 491, 482, and 186 visas. A TRA skills assessment is required.
-
-**问：What are the career progression paths for an Engineering Patternmaker?**
-答：From apprentice to senior tradesperson, then to pattern designer, production supervisor, or technical instructor. Learning CNC programming and CAD design can enhance career prospects.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

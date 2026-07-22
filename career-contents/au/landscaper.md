@@ -1,64 +1,91 @@
-# 园林工（Landscaper）职业分析 · 澳大利亚
+# Landscaper — career analysis · Australia
 
-**职业代码：362312 – Landscaper。**
+**Occupation code: 362312 (ANZSCO)**
 
-园林工是澳洲农业行业的重要职业，需求稳定，具备相关资质即可入行。澳洲农业行业持续扩张，为专业人员提供良好的职业发展机会。
+Landscape gardening is an important occupation in Australia's agricultural industry, with stable demand and a clear entry pathway for those with relevant qualifications. Australia's agricultural sector continues to expand, offering strong career development opportunities for skilled professionals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Relevant qualification for Landscaper | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Relevant qualification for Landscaper | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 35,000。2025-2030年澳洲农业行业持续扩张，园林工需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Australia's agricultural sector is set to continue expanding from 2025 to 2030, with steady growth in demand for horticultural workers. Candidates with relevant certifications and experience can expect good employment prospects.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| Median salary | $76,336 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，园林工须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Demand for digital technology skills and professional certifications continues to rise, requiring landscape workers to continuously update their skills to keep pace with industry changes.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Australia Wide Growth
 - Regional Demand
@@ -67,66 +94,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学园林工？**
-- 对农业行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
-
-**谁不适合学园林工？**
-- 不了解澳洲农业行业规范者
-- 不愿持续学习更新技能者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a passion for the agriculture industry
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
+
+**Who is not suited**
+- Those unfamiliar with Australian agricultural industry standards
+- Those unwilling to continuously learn and update their skills
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for gardeners and landscapers in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy to find work as a landscaper/gardener in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 362312 园林工数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-园林工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：园林工在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
-
-**问：澳洲园林工好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,89 @@
-# Fishery and Aquaculture Labourers（Fishery and Aquaculture Labourers）职业分析 · NL
+# Fishery and Aquaculture Labourers — career analysis · Netherlands
 
-**职业代码：9216 – Fishery and Aquaculture Labourers。**
+**Occupation code: 9216 (ISCO08)**
 
-Fishery and aquaculture labourers perform tasks related to catching fish and shellfish, and maintaining aquaculture farms.
+Fisheries and aquaculture laborers are responsible for catching fish and shellfish, as well as daily care and maintenance work in aquaculture farms.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 | 2年 | $2,000~$6,000（学费及材料费） |
+| Vocational education | 2 years | $2,000~$6,000 (Tuition and material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔船安全证书 | 荷兰交通部 | 必备 | 必要的安全培训 |
-| 渔民执照 | 荷兰经济事务部 | 必备 | 商业捕捞必备 |
+| Fishing vessel safety certificate | Netherlands Ministry of Transport | Required | Mandatory Safety Training |
+| Fishing license | Ministry of Economic Affairs of the Netherlands | Required | Essential for commercial fishing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 1,500。荷兰渔业和水产养殖业规模较小且稳定，受欧盟共同渔业政策配额限制，就业机会有限，但可持续水产养殖有增长潜力。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,500. The Dutch fisheries and aquaculture sector is small and stable, limited by EU Common Fisheries Policy quotas, with limited job opportunities but growth potential in sustainable aquaculture.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$42,000 | 税前年薪 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$42,000 | Annual pre-tax salary |
+| average salary | $33,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 劳工可晋升为渔船长或水产养殖主管，需积累海上经验或参加短期培训。部分转向渔业检查或环保相关岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fisheries and aquaculture labourers face risk of automation replacement, as automated harvesting and feeding systems will take over some physical work; but AI enhances workers' capabilities in aquaculture monitoring, disease warning, etc., creating new value. Overall outlook is mixed.
+
+Workers can advance to fishing vessel captains or aquaculture supervisors by gaining sea experience or attending short-term training. Some transition to fishery inspection or environmental protection roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive physical fishing operations (e.g., trawling net hauling) replaced by automated machinery
+- Quantitative feeding and routine inspections in aquaculture are taken over by sensors and automated systems
+- Fish sorting and initial processing are being replaced by machine vision sorting systems
+
+**Where AI augments the role:**
+
+- AI analyzes fish school trajectories and fishery environment data to assist in locating fishing areas
+- Early disease warning system enhances livestock health management through image recognition and sensor data.
+- Stocking density and feeding strategy optimization are adjusted in real-time by AI based on growth models
+
+**Human moat:**
+
+- On-site judgment and emergency response to unconventional situations such as sudden weather changes and equipment failures
+- Intuitive and experiential diagnosis of fish behavior, water quality abnormalities, etc.
+- Fine manual operations (e.g., artificial intervention during spawning season, selective harvesting)
+
+**Skills to build:**
+
+- Operation and basic maintenance of livestock IoT systems
+- Aquaculture data collection and analysis (e.g., interpreting water temperature and dissolved oxygen trends)
+- Operation and basic programming of smart feeding devices and automated machinery
+- Operation and image interpretation for drone/autonomous boat inspections
+- Knowledge of ecological farming and sustainable development
+- Basic English and digital tool use (reporting, communication)
+
+**Key growth areas:**
 
 - Sustainable aquaculture
 - Automation
@@ -62,61 +92,63 @@ Fishery and aquaculture labourers perform tasks related to catching fish and she
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能劳工，但该职业通常不符合高技能标准，需雇主担保 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled workers, but this occupation usually does not meet high-skill criteria; employer sponsorship required |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fishery and Aquaculture Labourers？**
-- 喜欢户外和体力劳动，适应海上工作环境
-- 对渔业和海洋生态有热情
-- 能接受季节性和不规律工时
+**Who is suited**
+- Enjoys outdoor and physical work, adaptable to marine work environment
+- Passion for fisheries and marine ecology
+- Can accept seasonal and irregular hours
 
-**谁不适合学Fishery and Aquaculture Labourers？**
-- 晕船或对海洋环境不适应
-- 寻求稳定办公室工作
+**Who is not suited**
+- Seasickness or discomfort with the marine environment
+- Seeking stable office work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for fishing industry workers?**
+A: Entry-level salary around €25,000–30,000/year, senior up to €42,000/year, depending on experience and catch volume.
+
+**Q: How to get a visa as a non-EU citizen?**
+A: This occupation typically does not meet high-skilled immigration standards, but applications can be made via the EU Blue Card or employer-sponsored work visa, requiring proof that the position cannot be filled by an EU resident.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fishery and Aquaculture Labourers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fishery labourers?**
-答：Entry-level salary is around €25,000-30,000/year, and senior can reach €42,000/year, depending on experience and catch.
-
-**问：How can non-EU citizens obtain a visa?**
-答：This occupation generally doesn't meet high-skilled criteria, but you can apply via EU Blue Card or employer-sponsored work visa, requiring proof that no EU resident can fill the role.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Importers and exporters（Importers and exporters）职业分析 · UK
+# Importers and exporters — career analysis · United Kingdom
 
-**职业代码：3542 – Importers and exporters。**
+**Occupation code: 3542 (SOC)**
 
-Importers and exporters buy commodities from overseas for the home market and sell home-produced commodities to overseas markets, acting as key intermediaries in international trade.
+Importers and exporters are key intermediaries in international trade, responsible for sourcing products from overseas to supply the domestic market and selling locally produced goods to overseas markets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（义务教育免费） |
-| 本科学位 | 3年 | $15,000~$30,000（年学费，国际学生更高） |
-| 研究生文凭/硕士 | 1年 | $20,000~$40,000（年学费，国际学生更高） |
+| High school diploma | 12 years | $0~$0 (Free compulsory education) |
+| Bachelor's degree | 3 years | $15,000~$30,000 (Annual tuition, higher for international students) |
+| Postgraduate diploma/master's | 1 year | $20,000~$40,000 (Annual tuition, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国际贸易或商务相关学位 | 大学 | 可选 | 常见专业：国际贸易、商业管理、物流与供应链 |
-| 海关经纪人执照 | 英国税务海关总署(HMRC) | 可选 | 处理海关申报，非强制但受雇主青睐 |
-| CIPS 采购与供应文凭 | 英国皇家采购与供应学会(CIPS) | 可选 | 提升供应链管理能力 |
-| 国际贸易职业证书 | 英国国际商会(ICC) | 可选 | 如国际贸易术语(Incoterms)证书 |
+| Degree in international trade or business | University | Optional | Common majors: International Trade, Business Management, Logistics and Supply Chain |
+| Customs broker license | HM Revenue & Customs (HMRC) | Optional | Handling customs declarations - not mandatory but preferred by employers |
+| CIPS Diploma in Procurement and Supply | Chartered Institute of Procurement & Supply (CIPS) | Optional | Improve supply chain management capabilities |
+| International trade professional certificate | International Chamber of Commerce (ICC) | Optional | Such as Incoterms certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。英国脱欧后，进出口行业面临新的海关程序和贸易壁垒，但全球贸易需求仍在增长。数字贸易和电子商务的兴起为进出口商带来新机遇。预计未来五年就业岗位将小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. After Brexit, the import/export industry faces new customs procedures and trade barriers, but global trade demand continues to grow. Digital trade and e-commerce present new opportunities for importers/exporters. A slight increase in jobs is expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较大（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 贸易助理或初级采购员 |
-| 中级（3-7年） | $30,000~$45,000 | 进出口专员或贸易经理 |
-| 高级（7年以上） | $50,000~$75,000 | 贸易总监或供应链负责人 |
+| Median salary | $34,757 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Trade assistant or junior procurement officer |
+| Mid-level (3–7 years) | $30,000~$45,000 | import/export specialist or trade manager |
+| Senior (7+ years) | $50,000~$75,000 | Trade director or supply chain head |
+| average salary | $38,454 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级职位可从贸易助理或采购员起步，积累客户关系和供应链经验后可晋升为进出口经理或贸易总监。部分人选择创业成立自己的贸易公司。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core tasks of importers/exporters—document processing, compliance review, and basic market analysis—are being rapidly replaced by AI, but cross-border negotiation, relationship maintenance, and strategic decision-making remain human domains. The result is a polarized job structure: entry-level roles shrink while demand for senior experts rises.
+
+Entry-level positions can start as trade assistant or purchasing officer. After accumulating client relationships and supply chain experience, one can advance to import/export manager or trade director. Some choose to start their own trading company.
+
+**Tasks most exposed to AI:**
+
+- Generate and review standardized export/import documents (bills of lading, invoices, packing lists)
+- Track order status, update logistics information, and send routine customer notifications.
+- Check basic compliance requirements (e.g., HS code classification, rules of origin).
+- Compiling and updating price lists, currency conversion, and other repetitive data sorting
+- Initial screening of suppliers and products (based on structured data such as price, delivery)
+
+**Where AI augments the role:**
+
+- AI-driven market intelligence tools analyze global prices, tariff changes, and demand trends in real time to assist pricing and procurement decisions
+- AI recommends optimal logistics routes and customs clearance plans, dynamically optimizing the supply chain with real-time data
+- NLP tools automatically translate contracts and emails and extract key clauses, improving cross-language communication efficiency.
+- AI prediction models assist in assessing supplier credit risk, exchange rate fluctuations, and impact of trade disputes
+- AI generates multilingual marketing materials (product descriptions, quotations) and precisely matches potential buyers
+
+**Human moat:**
+
+- Face-to-face negotiation and relationship building under complex cultural backgrounds and business practices
+- Judging and responding to unstructured risks (geopolitical, supply chain vulnerabilities)
+- Maintaining customer and supplier relationships based on long-term trust
+- Develop multi-market entry strategies and channel expansion decisions
+
+**Skills to build:**
+
+- International trade compliance and risk management (sanctions, anti-dumping, etc.)
+- Cross-border supply chain design and optimization (multimodal transport, utilization of free trade zones).
+- AI trading tool operation (market analysis platforms, automated customs clearance systems)
+- Data interpretation and visualization (using BI tools to analyze trade data)
+- Cross-cultural negotiation and influencing skills
+- Basic programming (Python/VBA) to automate repetitive reports
+
+**Key growth areas:**
 
 - Global trade
 - E-commerce
@@ -64,69 +99,68 @@ Importers and exporters buy commodities from overseas for the home market and se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适合有雇主担保的进出口专业人员，职业代码3542在可担保职业清单上。 |
-| Subclass Global Talent（Global Talent visa） | 不适合，此路径针对顶尖人才，进出口商很少符合。 |
-| Subclass Scale-up（Scale-up visa） | 适合在快速成长企业从事贸易工作的外国人，需满足薪资要求。 |
-| Subclass Graduate（Graduate visa） | 适合英国高校毕业生，可留英工作2年（博士3年），方便积累经验。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for import-export professionals with employer sponsorship; occupation code 3542 is on the eligible occupation list. |
+| Subclass Global Talent (Global Talent visa) | Not suitable, this pathway targets top talent, import/export companies rarely qualify. |
+| Subclass Scale-up (Scale-up visa) | Suitable for foreigners engaged in trade work at fast-growing enterprises, must meet salary requirements. |
+| Subclass Graduate (Graduate visa) | Suitable for UK university graduates, allows working in the UK for 2 years (3 years for PhD), convenient for gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Importers and exporters？**
-- 擅长沟通和谈判，对国际贸易感兴趣的人
-- 具备商业意识和市场洞察力，愿意适应不同文化
-- 能承受工作压力，处理复杂物流和海关事务
-
-**谁不适合学Importers and exporters？**
-- 不喜欢频繁出差或跨时区工作的人
-- 对数字和细节不敏感，不擅长文书工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong communication and negotiation skills who are interested in international trade
+- Possess business acumen and market insight, willing to adapt to different cultures
+- Able to handle work pressure and manage complex logistics and customs affairs
+
+**Who is not suited**
+- Those who dislike frequent business travel or working across time zones.
+- People who are not sensitive to numbers and details and are not good at paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for importers and exporters?**
+A: Junior approximately £22,000-28,000, mid-level £30,000-45,000, senior up to £50,000-75,000, depending on experience and company size.
+
+**Q: Can importers and exporters apply for skilled worker visas?**
+A: Yes. SOC 3542 is on the eligible occupation list; meeting salary and English requirements allows application for a Skilled Worker visa.
+
+**Q: What skills are needed to become an importer-exporter?**
+A: Need knowledge of international trade regulations, customs procedures, supply chain management, and strong negotiation and language skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 适中（★★½☆☆） |
-| 考证难度 | 较易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较大（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Importers and exporters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for importers and exporters?**
-答：Entry-level salary ranges from £22,000 to £28,000, mid-level from £30,000 to £45,000, and senior level can reach £50,000 to £75,000, depending on experience and company size.
-
-**问：Can importers and exporters apply for a Skilled Worker visa?**
-答：Yes. SOC 3542 is on the eligible occupation list, and you can apply for a Skilled Worker visa if you meet the salary and English language requirements.
-
-**问：What skills are needed to be an importer/exporter?**
-答：You need knowledge of international trade regulations, customs procedures, supply chain management, as well as strong negotiation and language skills.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

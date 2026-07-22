@@ -1,59 +1,92 @@
-# Wood Product Manufacturing Workers（Wood Product Manufacturing Workers）职业分析 · DE
+# Wood Product Manufacturing Workers — career analysis · Germany
 
-**职业代码：2233 – Wood Product Manufacturing Workers。**
+**Occupation code: 2233 (KldB)**
 
-This occupation involves producing finished products from wood and wood-based materials, such as furniture, windows, doors, and flooring, including cutting, assembling, sanding, and finishing.
+This occupation involves producing finished products such as furniture, doors, windows, and flooring from wood and wood-based materials, including cutting, assembling, sanding, and surface finishing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，通常无需学费） |
-| 进修：木工技师（Meister） | 1-2年（可部分时间） | $3,000~$10,000（费用因课程和地区而异，部分可获资助） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Further training: Master Carpenter (Meister) | 1-2 years (can be part-time) | $3,000~$10,000 (Fees vary by course and region, some may be subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工职业培训证书（Gesellenbrief） | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，是从事本职业的基本证书 |
-| 木工技师证书（Meisterbrief） | 德国工商会（IHK） | 可选 | 可选，但有利于晋升和独立经营 |
-| 资质认证（Anerkennung） | 德国认证机构 | 必备 | 外国学历需经认证，证明与德国职业资格等同 |
+| Certificate of Vocational Training in Carpentry (Gesellenbrief) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training; it is the basic certificate for this profession |
+| Qualification recognition (Anerkennung) | German certification body | Required | Foreign qualifications must be recognized and proven equivalent to German vocational qualifications |
+| Master Carpenter Certificate (Meisterbrief) | German Chamber of Commerce and Industry (IHK) | Optional | Optional, but beneficial for advancement and independent practice. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。德国建筑业和木材加工行业持续稳定，但受经济周期影响，就业机会保持平稳。数字化和自动化可能减少低技能岗位，但熟练技工仍然紧缺。
+**Job demand: medium (★★★☆☆).** National workforce approx. 120,000. The German construction and wood processing industries remain stable, but are affected by economic cycles; employment opportunities remain steady. Digitalisation and automation may reduce low-skilled jobs, but skilled tradespeople are still in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，取决于地区和公司 |
-| 中级（3-7年） | $30,000~$38,000 | 有经验后薪资提升 |
-| 高级（7年以上/技师） | $38,000~$48,000 | 技师或主管级别 |
+| Median salary | $38,928 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, depending on location and company |
+| Mid-level (3–7 years) | $30,000~$38,000 | Salary increases with experience |
+| Senior (7+ years / Technician). | $38,000~$48,000 | Technician or supervisor level |
+| average salary | $40,872 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展从初级生产工开始，可晋升为班组长、生产主管，或通过进修成为木材技师（Meister）或技术员（Techniker），也可转向质量控制或生产规划。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
+
+Career progression starts from entry-level production worker, advancing to team leader, production supervisor, or through further training to become a wood technician (Meister) or technician (Techniker), or transitioning to quality control or production planning.
+
+**Tasks most exposed to AI:**
+
+- AI automatically adjusts cutting parameters and paths, reducing manual setup.
+- Machine vision automatically detects wood defects, replacing manual visual inspection.
+- AI optimizes layout and cutting plans, reducing manual planning
+- Automatic tool changing and loading systems, replacing repetitive operations.
+
+**Where AI augments the role:**
+
+- AI-assisted generation of CNC machining programs to reduce programming time
+- Real-time monitoring of tool wear with alerts, improving machining quality and lifespan
+- AI simulates machining processes to optimise cutting parameters and reduce waste
+- Predictive maintenance analysis to reduce downtime
+
+**Human moat:**
+
+- Process non-standard wood components or complex custom machining
+- On-site debugging and troubleshooting of sudden mechanical failures
+- Experienced judgment of wood texture and performance
+- Implementation of safety procedures and emergency response
+
+**Skills to build:**
+
+- CNC programming and operation (e.g., G-code)
+- Computer-aided manufacturing (CAM) software
+- Basic Python or scripting language
+- Mechanical maintenance and fault diagnosis
+- Quality inspection and data analysis
+- Digital twin and simulation software
+
+**Key growth areas:**
 
 - automation
 - digitalization
@@ -62,68 +95,67 @@ This occupation involves producing finished products from wood and wood-based ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于有德国认可的职业资格（通过Anabin或Anerkennung认证）的申请人，可申请工作签证。 |
-| Subclass EU Blue Card（EU Blue Card） | 若年薪达到门槛（2024年约43,800欧元），可申请蓝卡，但木工行业通常薪资较低，不易达到。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许尚未找到工作的求职者来德国寻找工作，适合技能不足但有潜力者。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to applicants with recognized German professional qualifications (certified via Anabin or Anerkennung), eligible for a work visa. |
+| Subclass EU Blue Card (EU Blue Card) | if the annual salary reaches the threshold (approx. €43,800 in 2024), you can apply for the Blue Card, but the carpentry industry typically has lower salaries, making it difficult to achieve. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers who have not yet found a job to come to Germany to look for work, suitable for those lacking skills but with potential. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Product Manufacturing Workers？**
-- 喜欢动手制作、有耐心和精细操作能力的人
-- 对木材和家具行业有兴趣，愿意接受职业培训
-- 寻求稳定就业、不介意体力劳动的人
-
-**谁不适合学Wood Product Manufacturing Workers？**
-- 对重复性体力工作不耐受者
-- 希望高薪或快速晋升者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, are patient, and have fine motor skills
+- Interest in the timber and furniture industry, willing to undergo vocational training
+- For those seeking stable employment who do not mind physical labor
+
+**Who is not suited**
+- For those intolerant to repetitive physical work
+- Those seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for wood product manufacturing workers in Germany?**
+A: Junior staff earn around €24,000–30,000 (pre-tax) annually, rising to €38,000 with experience, and up to €48,000 at technician level.
+
+**Q: How can foreigners become wood product workers in Germany through skilled migration?**
+A: Need to obtain a German-recognised vocational qualification (Anerkennung), then apply for a skilled migration work visa. Alternatively, can first come to Germany using a Chancenkarte (opportunity card) to look for work.
+
+**Q: What career advancement opportunities are there for German wood product production workers?**
+A: Can advance to production team leader, supervisor, or become a master carpenter (Meister) through further training, or even start your own carpentry workshop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Wood Product Manufacturing Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for wood product manufacturing workers in Germany?**
-答：Entry-level annual salary is around €24,000-30,000 (gross), experienced workers earn up to €38,000, and master craftsmen can reach €48,000.
-
-**问：How can foreign workers migrate to Germany as a wood product manufacturing worker?**
-答：They need to have their vocational qualifications recognized (Anerkennung) and then apply for a skilled worker visa. Alternatively, they can use the Opportunity Card (Chancenkarte) to search for a job in Germany.
-
-**问：What career advancement opportunities exist for wood product manufacturing workers in Germany?**
-答：They can advance to team leader, supervisor, or become a master craftsman (Meister), and even start their own workshop.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

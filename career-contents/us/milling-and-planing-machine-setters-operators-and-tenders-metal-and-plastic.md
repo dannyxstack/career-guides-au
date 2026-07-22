@@ -1,60 +1,95 @@
-# Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic（Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4035 – Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4035 (SOC)**
 
-Set up, operate, or tend milling or planing machines to mill, plane, shape, groove, or profile metal or plastic work pieces.
+Set up, operate or tend milling or planing machines to mill, plane, shape, slot or profile metal or plastic workpieces.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 2年 | —（高中毕业后通过在职培训学习） |
-| 职业培训或副学士学位 | 1-2年 | $5,000~$20,000（社区学院或技术学校课程） |
+| High school diploma or equivalent | 2 years | $0~$0 (Learn through on-the-job training after high school) |
+| Vocational training or associate degree | 1-2 years | $5,000~$20,000 (Community college or technical school courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求，但认证有益 | 全国金属加工技能协会（NIMS） | 可选 | NIMS认证可证明技能，提升就业竞争力 |
-| 在职培训 | 雇主 | 必备 | 通常需要1-2年在职培训达到熟练 |
+| On-the-job training | Employer | Required | Typically requires 1-2 years of on-the-job training to become proficient |
+| No mandatory requirements, but certification is beneficial. | National Institute for Metalworking Skills (NIMS) | Optional | NIMS certification can prove skills and enhance employment competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。美国就业前景总体稳定，但受制造业自动化和外包影响，增长缓慢。部分岗位被数控机床替代，但熟练操作员仍有需求，尤其在高精度加工领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. US employment outlook is generally stable but slow-growing due to automation and outsourcing in manufacturing. Some jobs are replaced by CNC machines, but skilled operators are still in demand, especially in high-precision machining.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 入门级收入 |
-| 中级（4-7年） | $40,000~$50,000 | 有经验的操作员 |
-| 高级（8年以上） | $50,000~$60,000 | 高级设置员或编程员 |
+| Median salary | $52,800 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$40,000 | Entry-level income |
+| Mid-level (4-7 years) | $40,000~$50,000 | Experienced operator |
+| Senior (8+ years) | $50,000~$60,000 | Senior setter or programmer |
+| average salary | $56,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级操作员可通过积累经验晋升为高级设置员或编程员，也可转向质量控制或生产管理岗位。部分人员可成为数控机床程序员或车间主管。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Highly repetitive and procedural tasks (e.g., parameter setting, tool path generation, real-time monitoring) in this occupation will be rapidly replaced by AI and automation systems, significantly reducing total positions.
+
+Junior operators can advance to senior setters or programmers through experience, or transition to quality control or production management roles. Some can become CNC machine programmers or workshop supervisors.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate tool paths and machining programs from CAD models
+- Real-time monitoring of cutting conditions and automatic adjustment of feed rate and spindle speed
+- Detect tool wear and automatically replace or compensate
+- Automated loading/unloading and workpiece clamping operations
+- Quality inspection and dimensional verification (based on visual AI)
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of cutting parameters to improve efficiency and reduce waste
+- Uses digital twins for virtual trial cutting, reducing setup time
+- Predict tool life via machine learning and optimize tool change strategies.
+- AI-driven fault diagnosis and predictive maintenance
+
+**Human moat:**
+
+- Process innovation for non-standard, complex surface forms
+- Quick die change and setup for high-variety, low-volume production
+- Emergency judgment and handling of abnormal conditions (e.g., material defects)
+- Cross-process coordination and production flow optimization experience
+- Customer customisation needs communication and solution design
+
+**Skills to build:**
+
+- AI-assisted programming and CAM software (e.g., Mastercam AI plugin)
+- Industrial robot and automation integration operations
+- Data analysis and predictive maintenance skills.
+- Knowledge of post-processing for additive manufacturing (3D printing)
+- Digital twin and virtual simulation tools
+- Advanced material properties and cutting process knowledge
+
+**Key growth areas:**
 
 - Moderate demand
 - CNC integration
@@ -63,65 +98,67 @@ Set up, operate, or tend milling or planing machines to mill, plane, shape, groo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（临时非农业工人） | 雇主可申请季节性或临时工作签证，但限制较多 |
-| Subclass EB-3（职业移民第三优先） | 需要劳工证，但技术工人名额紧张，排期较长 |
+| Subclass H-2B (Temporary non-agricultural worker) | Employers can apply for seasonal or temporary work visas, but with many restrictions |
+| Subclass EB-3 (Employment-based immigration: third preference) | Labor certification required, but skilled worker quotas are tight with long waiting periods. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 喜欢动手操作机械设备的人
-- 注重精度和细节的人
-- 愿意在制造业环境中工作的人
+**Who is suited**
+- Those who enjoy operating mechanical equipment
+- People who focus on precision and detail
+- People willing to work in a manufacturing environment
 
-**谁不适合学Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 不喜欢重复性工作的人
-- 希望高收入或快速职业发展的人
+**Who is not suited**
+- People who dislike repetitive work
+- People seeking high income or rapid career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a milling machine operator?**
+A: The median annual salary for US milling machine operators is about $45,000, entry-level around $35,000, and senior can reach $60,000. Salary is affected by location, experience, and industry.
+
+**Q: Is it easy to immigrate to the US through a work visa for this occupation?**
+A: Difficult. This occupation is not a high-skilled shortage occupation; H-1B visas are generally not applicable. Employers may apply for H-2B temporary work visas, but there are many restrictions and non-immigrant intent is required. EB-3 green cards have long wait times and low success rates.
+
+**Q: What is the demand for this occupation in the coming years?**
+A: Employment projected to grow slowly, or even decline. Automation and CNC machine prevalence reduce demand for traditional operators. But high-precision and custom machining roles still have some demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for milling machine operators?**
-答：The median annual wage for milling machine operators in the US is about $45,000, with entry-level around $35,000 and experienced up to $60,000. Salary varies by location, experience, and industry.
-
-**问：Is it easy to immigrate to the US through this occupation?**
-答：It is difficult. This occupation is not considered high-skill or shortage, so H-1B is not typical. Employers may sponsor H-2B temporary visas, but with restrictions. EB-3 green card has long backlogs and low success.
-
-**问：What is the job outlook for this occupation?**
-答：Employment is projected to grow slowly or decline due to automation and CNC machines. However, niche high-precision roles may offer limited opportunities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

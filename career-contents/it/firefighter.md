@@ -1,61 +1,97 @@
-# Firefighter（Firefighter）职业分析 · IT
+# Firefighter — career analysis · Italy
 
-**职业代码：5411 – Firefighter。**
+**Occupation code: 5411 (ISCO08)**
 
-Firefighters in Italy handle fire suppression, rescue operations, emergency medical response, and hazardous materials incidents, playing a key role in civil protection and public safety.
+Firefighters are responsible for firefighting, rescue, emergency medical aid, and hazardous materials handling, and are a key component of Italy's civil protection and public safety system.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 消防学院培训 | 6个月（基础培训） | —（培训期间有津贴，部分自费） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Fire academy training | 6 months (basic training) | $0~$2,000 (Allowances during training; some costs are self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家消防员考试合格 | 意大利消防局 (Corpo Nazionale dei Vigili del Fuoco) | 必备 | 通过公开竞争考试，包括体能、笔试和面试 |
-| 急救证书 | 意大利红十字会或认可机构 | 必备 | BLSD等证书，入职后获取 |
-| 驾驶执照C类或更高 | 意大利交通部 | 必备 | 操作消防车辆需要 |
+| Passed the national firefighter examination. | Italian National Fire Corps (Corpo Nazionale dei Vigili del Fuoco) | Required | Through open competitive exams including physical fitness, written tests, and interviews. |
+| First aid certificate | Italian Red Cross or recognized organizations | Required | BLSD and other certifications, obtained after employment |
+| Driver's license class C or higher | Italian Ministry of Transport | Required | Operating firefighting vehicles requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。受气候变化导致的山火频发和城市安全需求增长影响，意大利消防员岗位需求稳定。但公共部门招录受预算限制，竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Due to increased wildfires from climate change and urban safety demands, firefighter positions in Italy remain stable. However, public sector recruitment is constrained by budgets, making competition fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $22,000~$28,000 | 税前年薪，含津贴 |
-| 中级（5-15年） | $28,000~$35,000 | 税前年薪 |
-| 高级（15年以上） | $35,000~$45,000 | 含职位补贴，指挥官级别更高 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $22,000~$28,000 | Annual pre-tax salary, including allowances |
+| Intermediate (5-15 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (15+ years) | $35,000~$45,000 | Including position allowances, higher for commander level |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：新兵→消防员→小队长→中队长→指挥官。可通过内部考试晋升，部分人进入民防或安全管理领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation have mixed impacts on firefighter roles: administrative tasks like dispatch and documentation are reduced, but core tasks such as on-site firefighting and rescue remain hard to replace due to complex physical environments. AI instead enhances situational awareness and decision support.
+
+Career path: Recruit → Firefighter → Squad Leader → Company Commander → Incident Commander. Promotion through internal exams; some transition to civil defense or safety management.
+
+**Tasks most exposed to AI:**
+
+- Emergency dispatch and route planning (AI automatically assigns the nearest fire station and optimal route)
+- Fire equipment inventory management and maintenance record generation
+- Basic fire classification and resource matching report writing
+- Some routine clerical work (e.g., training records, accident report drafts)
+- Building fire risk assessment based on sensor data (AI automatically outputs risk level)
+
+**Where AI augments the role:**
+
+- AI-enhanced fire scene situational awareness (infrared and gas sensor data fusion, real-time display of danger zones)
+- AI-assisted rescue decision-making (generates optimal breaching/extinguishing plans based on historical cases)
+- Drone and robot collaborative reconnaissance (AI-controlled drones automatically identify trapped persons)
+- Smart monitoring of personal protective equipment (AI monitoring of heart rate, temperature, early warning of health risks)
+- Training simulations and virtual reality (AI generates diverse fire scenarios to enhance practical skills)
+
+**Human moat:**
+
+- On-the-spot judgment and intuitive decision-making under high pressure
+- Manual search and rescue operations in complex collapsed structures
+- Direct psychological comfort and communication with affected individuals.
+- Physical fitness and adaptability under extreme conditions
+- Cross-departmental field coordination and command authorization
+
+**Skills to build:**
+
+- Operation and maintenance of AI fire dispatch systems
+- Drone operation and image analysis (automatic heat source and personnel detection)
+- Basic data analysis and report interpretation
+- Robot collaboration skills
+- Maintenance of fire sensors and IoT devices
+- Emergency communications and information system management
+
+**Key growth areas:**
 
 - Climate change
 - Wildfire response
@@ -64,66 +100,68 @@ Firefighters in Italy handle fire suppression, rescue operations, emergency medi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工人，但消防员一般不满足要求，因需意大利国籍或欧盟公民身份。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 年度配额工作签证，不适用于公共部门消防员，因职位通常只对意大利或欧盟公民开放。 |
-| Subclass 国籍要求（Italian Citizenship） | 消防员职位通常要求意大利国籍或欧盟公民身份，非欧盟公民极难获得。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU high-skilled workers, but firefighters generally do not meet requirements due to the need for Italian citizenship or EU citizenship. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota work visa, not applicable to public sector firefighters as the positions are usually only open to Italian or EU citizens. |
+| Subclass Nationality requirement (Italian Citizenship) | Firefighter positions usually require Italian nationality or EU citizenship, extremely difficult for non-EU citizens to obtain. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Firefighter？**
-- 体能出色、心理素质强、乐于助人者
-- 适应轮班和高压工作环境的人
-- 有团队合作精神、纪律性强的候选人
+**Who is suited**
+- Those with excellent physical fitness, strong psychological resilience, and a willingness to help others
+- People who can adapt to shift work and high-pressure work environments
+- Candidates with team spirit and strong discipline
 
-**谁不适合学Firefighter？**
-- 无法承受高强度体力消耗者
-- 对危险和紧急情况高度焦虑的人
+**Who is not suited**
+- Those unable to endure high-intensity physical exertion
+- People highly anxious about danger and emergencies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of firefighters in Italy?**
+A: The pre-tax annual salary for entry-level firefighters is approximately €22,000-28,000, rising to €45,000 for senior roles, including danger pay and overtime.
+
+**Q: Can non-EU citizens immigrate to Italy to become firefighters?**
+A: Nearly impossible. Firefighter positions typically require Italian or EU citizenship, and public sector recruitment is not open to non-EU nationals.
+
+**Q: What is the career progression path for Italian firefighters?**
+A: Starting as a firefighter, can be promoted to crew leader, station officer, commander, requiring internal exams and years of experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Firefighter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a firefighter in Italy?**
-答：Entry-level firefighters earn €22,000-€28,000 gross annually, with senior roles reaching €45,000, including hazard pay and overtime.
-
-**问：Can non-EU citizens immigrate to Italy to become firefighters?**
-答：Very unlikely. Firefighter positions typically require Italian or EU citizenship, and public recruitment is not open to non-EU nationals.
-
-**问：What is the career progression for firefighters in Italy?**
-答：Starting as a firefighter, one can advance to squad leader, captain, and commander through internal exams and seniority.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

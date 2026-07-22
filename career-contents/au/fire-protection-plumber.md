@@ -1,69 +1,98 @@
-# 消防管道工（Fire Protection Plumber）职业分析 · 澳大利亚
+# Fire Protection Plumber — career analysis · Australia
 
-**职业代码：334114 – Fire Protection Plumber。**
+**Occupation code: 334114 (ANZSCO)**
 
-消防管道工（Fire Protection Plumber）负责设计、安装、测试和维护建筑消防喷淋、灭火剂和消防水系统。澳大利亚高层建筑和医疗机构消防合规要求严格，持证消防管道工供不应求，薪资在技工类中属于较高水平。
+Fire Protection Plumbers design, install, test and maintain fire sprinkler systems, suppression agents and fire water systems in buildings. Australia's strict fire compliance requirements for high-rise buildings and healthcare facilities mean that licensed fire protection plumbers are in high demand, with salaries among the higher end of the trades sector.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Plumbing (Fire Protection Stream) | 42~48个月（学徒） | —（各州差异；工具费约$500~$1,000） |
-| Fire Protection Licence（各州单独颁发） | 含在学徒或独立考试 | $400~$1,200（各州持证费用） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Plumbing (Fire Protection Stream) | 42–48 months (apprenticeship) | $0~$3,000 (Varies by state; tool costs approximately $500–$1,000) |
+| Fire Protection Licence (issued separately by each state) | Included in apprenticeship or independent examination | $400~$1,200 (Licensing fees vary by state.) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Plumbing (Fire Protection) | TAFE / RTO | 必备 | 执业核心资质 |
-| State Fire Protection Licence | 各州建筑/消防监管机构 | 必备 | 强制持证执业 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Plumbing (Fire Protection) | TAFE / RTO | Required | Core practising qualifications |
+| State Fire Protection Licence | State building/fire regulatory authority | Required | Mandatory licensed practice |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。高层住宅建设（NCC消防规范升级）带动喷淋系统需求。老年护理机构合规改造市场扩大（皇家委员会推动）。数据中心防火系统升级需求增加。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. High-rise residential construction (driven by NCC fire code upgrades) is boosting demand for sprinkler systems. The compliance retrofit market for aged care facilities is expanding (driven by the Royal Commission). Demand for fire suppression system upgrades in data centres is increasing.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 150~350 个 | 全国，建筑和维护均有 |
-| Indeed | 80~200 个 | 含承包商职位 |
-| LinkedIn | 40~100 个 | 偏商业和工业项目 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $30,000~$58,000 | Fair Work Award + 消防津贴 |
-| 初级消防管道工（1~3年） | $75,000~$95,000 | 住宅高层和商业项目 |
-| 中级消防管道工（3~8年） | $95,000~$125,000 | Seek均值约$45~$58/hr（2026） |
-| 资深 / 承包商（8年+） | $120,000~$165,000 | 独立承包商，工业和数据中心溢价 |
+| Median salary | $103,480 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $30,000~$58,000 | Fair Work Award + fire service allowances |
+| Junior Fire Protection Plumber (1–3 years) | $75,000~$95,000 | High-rise residential and commercial projects |
+| Intermediate Fire Protection Plumber (3–8 years) | $95,000~$125,000 | Seek average approximately $45–$58/hr (2026) |
+| Senior / Contractor (8+ years) | $120,000~$165,000 | Independent contractor, with premiums for industrial and data centre work |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：佳（★★★★☆）。** 无卤素灭火剂（HFC替代）和电气火灾探测系统成为新增需求。持证消防管道工稀缺，独立承包商市场活跃，收入高于普通管道工。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on fire sprinkler fitters is mixed. Design optimization and compliance documentation can be enhanced by AI, but on-site installation, testing, and emergency repairs rely on human experience and are not easily replaced.
+
+Halogen-free suppression agents (HFC alternatives) and electrical fire detection systems are emerging areas of demand. Licensed fire protection plumbers are scarce, the independent contractor market is active, and earnings are higher than for general plumbers.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate pipeline routing and material lists from building drawings
+- Auto-detecting sprinkler installation spacing and type compliance via AI vision systems
+- Use digital twins to simulate and predict fire protection system hydraulic performance
+- Automatically generating maintenance reports and compliance documents
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay pipeline layouts on site, improving installation accuracy
+- AI-assisted Fault Diagnosis: Quickly Locate Sprinkler System Blockages or Pressure Abnormalities
+- Using AI to optimize pipe material cutting and reduce waste
+- Enhancing efficiency of complex building fire protection system planning through BIM and AI collaborative design
+- AI-driven training simulator to accelerate apprentice skill acquisition
+
+**Human moat:**
+
+- Pipe installation and welding operations in complex on-site environments
+- Experience-based judgment and ad hoc solution design when retrofitting old systems
+- Ability to communicate and coordinate face-to-face with building and fire engineers
+- Immediate handling and decision-making in emergencies (e.g., fire system test failure)
+- Compliance responsibility: personal legal liability for system safety
+
+**Skills to build:**
+
+- BIM Modeling and Revit MEP Operations
+- Internet of Things and fire system monitoring technology
+- Data analysis and basic programming (Python)
+- Use of AR/VR-assisted construction tools
+- Read and modify AI-generated pipeline layout designs
+- Knowledge of new energy fire protection systems (e.g., gas extinguishing, water mist)
+
+**Key growth areas:**
 
 - High-Rise Residential Sprinkler Systems
 - Commercial & Industrial Fire Suppression
@@ -72,79 +101,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学消防管道工？**
-- 有管道、水力或消防系统安装背景，目标技能移民来澳
-- 注重安全规范，擅长系统化检测，细心谨慎
-- 考虑独立创业做承包商，高层和工业方向收入可观
-
-**谁不适合学消防管道工？**
-- 对高风险安全作业（消防系统失效危害）心理压力大
-- 不愿意学习持续更新的消防法规
-- 期望快速入行（持证周期长）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in plumbing, hydraulics, or fire protection system installation, targeting skilled migration to Australia
+- Safety-conscious, skilled in systematic inspection, meticulous and careful
+- Consider going independent as a contractor — high-rise and industrial work can be very lucrative
+
+**Who is not suited**
+- High psychological stress from high-risk safety work (hazards from fire system failure)
+- Unwilling to learn continuously updated fire safety regulations
+- Expecting a quick pathway into the field (licensing process is lengthy)
+
+---
+
+## 8. FAQ
+
+**Q: How much do fire protection plumbers earn in Australia?**
+A: Intermediate fire protection plumber salary about $95,000~$125,000 per year (approx $45~$58/hr). Independent contractors and those in industrial/data center sectors can earn $120,000~$165,000.
+
+**Q: Is it easy to find work as a fire protection plumber in Australia?**
+A: Easy. Demand for high-rise construction and compliance upgrades is strong, and high licensing barriers limit supply, meaning licensed practitioners typically secure employment quickly.
+
+**Q: Is domestic fire installation experience recognised in Australia?**
+A: Not directly recognized. Must undergo TRA assessment (12-18 months) then apply for state fire certification.
+
+**Q: Will fire protection plumbers be replaced by robots?**
+A: Very low. Pressure testing and safety inspections of fire suppression systems must be conducted on-site by licensed personnel, as required by regulations.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III plus state licensing is sufficient; TAFE apprenticeships are open to secondary school leavers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 334114 数据 |
-| Seek AU | Fire Protection Plumber 薪资（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中高（★★★★☆） |
-
-消防管道工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲消防管道工工资多少？**
-答：中级消防管道工年薪约 $95,000~$125,000（约$45~$58/hr）。独立承包商和工业/数据中心方向可达 $120,000~$165,000。
-
-**问：澳洲消防管道工容易找工作吗？**
-答：容易。高层建设和合规改造需求旺盛，持证门槛高导致供给稀缺，持证后通常快速入职。
-
-**问：国内消防安装经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）后再申请各州消防持证。
-
-**问：消防管道工会被机器人替代吗？**
-答：极低。消防系统压力测试和安全检测需要持证人员现场负责，法规也要求如此。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III+州持证即可，高中毕业可入读TAFE学徒。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

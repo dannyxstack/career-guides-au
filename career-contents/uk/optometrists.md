@@ -1,58 +1,94 @@
-# Optometrists（Optometrists）职业分析 · UK
+# Optometrists — career analysis · United Kingdom
 
-**职业代码：2252 – Optometrists。**
+**Occupation code: 2252 (SOC)**
 
-Optometrists test patients' vision, diagnose defects and disorders, and prescribe glasses or contact lenses as required.
+Optometrists test patients' vision, diagnose visual defects and diseases, and prescribe glasses or contact lenses.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $9,250~$12,000（英国本地学生学费，国际学生更高） |
-| 研究生预注册课程 | 1年 | $10,000~$15,000（如非光学本科，需先读预注册课程） |
+| Bachelor's degree | 3-4 years | $9,250~$12,000 (Tuition fees for UK local students; higher for international students) |
+| Pre-registration graduate course | 1 year | $10,000~$15,000 (If not an optics bachelor's degree, prerequisite pre-registration course required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 光学学士学位 | 英国大学 | 必备 | 需获英国总光学委员会（GOC）认可 |
-| GOC注册 | 英国总光学委员会 | 必备 | 完成预注册期间和最终能力评估 |
+| Bachelor's degree in optometry | UK universities | Required | Must be accredited by the General Optical Council (GOC) of the UK |
+| GOC Registration | General Optical Council (UK) | Required | Complete pre-registration period and final competency assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 16,000。英国老龄化人口和电子设备普及导致视力问题增加，验光师需求稳定增长。预计2025-2030年岗位增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 16,000. Aging population and widespread electronic device use in the UK lead to increased vision problems, driving steady demand for optometrists. Projected job growth of about 10% from 2025 to 2030.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | NHS或独立诊所 |
-| 中级（3-5年） | $35,000~$45,000 | 经验丰富的验光师 |
-| 高级（5年以上） | $45,000~$60,000 | 高级或主管验光师 |
+| Median salary | $51,030 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | NHS or independent clinic |
+| Mid-level (3–5 years) | $35,000~$45,000 | experienced optometrist |
+| Senior (5+ years) | $45,000~$60,000 | Senior or principal optometrist |
+| average salary | $59,614 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级验光师可晋升为高级验光师、临床主管或眼科诊所经理。部分转向专科领域，如儿童验光或低视力康复。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
+
+Junior optometrists can advance to senior optometrist, clinical supervisor, or ophthalmology clinic manager. Some specialize in areas like pediatric optometry or low-vision rehabilitation.
+
+**Tasks most exposed to AI:**
+
+- Objective refraction data collection in routine refractive exams (auto-refractor result interpretation)
+- Basic retinal image screening and grading (AI automatically labels abnormalities)
+- Patient appointment, medical record entry and other administrative paperwork (chatbots and NLP)
+- Generation of preliminary diagnostic reports for common eye diseases (AI-assisted diagnostic system)
+- Calculation and optimization of eyeglass/contact lens prescription parameters
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of OCT, visual field and other imaging data in complex case diagnosis to improve accuracy
+- Remote refraction and electronic prescription transfer to expand service scope and efficiency
+- Patient education: AI generates personalized visual health reports and follow-up reminders
+- Medication management: AI supports prescription interaction checks and efficacy predictions for eye drops
+- Clinical research: using AI to mine epidemiological trends from electronic medical records
+
+**Human moat:**
+
+- Final prescribing authority and legal responsibility (regulated by AHPRA)
+- Doctor-patient communication and trust building (complex empathy and education)
+- Clinical decision-making and experience-based judgment for atypical/multimorbidity cases
+- Surgical/therapeutic procedures (e.g., orthokeratology fitting, low vision rehabilitation)
+- Interdisciplinary collaboration (referral decisions with GPs and ophthalmologists)
+
+**Skills to build:**
+
+- Operation and interpretation of AI eye diagnosis tools (e.g., IDx-DR, Topcon AI)
+- Use of telemedicine platforms and electronic health record management
+- Statistical data analysis (Python/R) for clinical quality assessment
+- Doctor-patient communication and digital patient education skills
+- Basic programming (automated reporting and workflow optimization)
+- Regulatory updates tracking (expansion of therapeutic optometry prescribing rights in Australia)
+
+**Key growth areas:**
 
 - Aging population
 - Digital eye strain
@@ -61,68 +97,67 @@ Optometrists test patients' vision, diagnose defects and disorders, and prescrib
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于受担保的验光师职位，需满足薪资和技能要求。 |
-| Subclass Health & Care（Health and Care Worker visa） | 专门针对医疗专业人员，享有快速通道和较低签证费。 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生在英国工作2-3年，积累经验后可转为技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to sponsored optometrist positions, requiring salary and skill requirements. |
+| Subclass Health & Care (Health and Care Worker visa) | Specifically for medical professionals, offering fast-track processing and lower visa fees. |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work in the UK for 2-3 years, then switch to a Skilled Worker visa after gaining experience. |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optometrists？**
-- 对眼科和视觉科学有浓厚兴趣的人
-- 注重细节、有良好沟通和人际交往能力的人
-- 愿意持续学习以保持专业知识的人
-
-**谁不适合学Optometrists？**
-- 不善于与患者交流的人
-- 对长时间站立工作敏感的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in ophthalmology and vision science
+- People who are detail-oriented, have good communication and interpersonal skills
+- Those willing to continuously learn to maintain professional expertise
+
+**Who is not suited**
+- Individuals who are not good at communicating with patients
+- People sensitive to prolonged standing work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an optometrist in the UK?**
+A: Junior optometrists earn around £28,000-35,000 annually, mid-level £35,000-45,000, and senior up to £60,000+. Salaries vary slightly between NHS and private clinics.
+
+**Q: Which visas can optometrists use to immigrate to the UK?**
+A: Main pathways include the Skilled Worker visa and Health and Care Worker visa. This occupation is on the shortage occupation list, which facilitates sponsorship applications.
+
+**Q: How can overseas optometrists obtain UK practice qualifications?**
+A: Overseas optometrists must undergo assessment by the General Optical Council (GOC), possibly complete pre-registration courses and internships, and pass the final competency test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Optometrists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for optometrists in the UK?**
-答：Entry-level optometrists earn around £28,000-35,000, mid-level £35,000-45,000, and senior roles can exceed £60,000. Salaries vary between NHS and private practices.
-
-**问：What visa routes are available for optometrists to migrate to the UK?**
-答：Main routes include the Skilled Worker visa and Health and Care Worker visa. This occupation is on the shortage list, facilitating sponsorship.
-
-**问：How can overseas optometrists obtain UK practice qualifications?**
-答：Overseas optometrists must undergo GOC assessment, possibly complete pre-registration training and internship, and pass a final competency assessment.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

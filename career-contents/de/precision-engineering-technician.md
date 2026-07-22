@@ -1,58 +1,92 @@
-# Precision Engineering Technician（Precision Engineering Technician）职业分析 · DE
+# Precision Engineering Technician — career analysis · Germany
 
-**职业代码：2451 – Precision Engineering Technician。**
+**Occupation code: 2451 (KldB)**
 
-Precision engineering technicians design, manufacture, and maintain high-precision mechanical and optical devices, commonly used in measurement, medical, and laboratory instruments.
+Precision mechanical technicians design, manufacture, and repair high-precision mechanical and optical equipment, often used in measuring, medical, and laboratory instruments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期间有津贴，企业承担学费） |
-| 大专/本科 | 3-4年 | —（公立大学免学费，仅收学期费） |
+| Dual vocational training | 3.5 years | $0~$500 (Allowances during training, tuition covered by the employer) |
+| Diploma/Bachelor's degree | 3-4 years | $0~$1,500 (Tuition-free at public universities, only semester fees apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精密机械技术员证书 | 德国工商会(IHK) | 必备 | 双元制培训后获得 |
-| 精密机械大师证书 | 德国工商会(IHK) | 可选 | 晋升管理层或自营所需 |
+| Precision mechanic technician certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after dual-system training |
+| Precision Machinery Master Certificate | German Chamber of Commerce and Industry (IHK) | Optional | Required for promotion to management or self-employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。德国精密机械行业因工业4.0和医疗技术进步而需求稳定，尤其在巴登-符腾堡和巴伐利亚州。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Germany's precision mechanical industry has stable demand due to Industry 4.0 and medical technology advances, especially in Baden-Württemberg and Bavaria.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，视地区和企业规模 |
-| 中级（4-7年） | $40,000~$50,000 | 税前年薪 |
-| 高级（8年+） | $50,000~$65,000 | 税前年薪，大师级更高 |
+| Median salary | $48,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual salary before tax, depending on region and company size |
+| Mid-level (4-7 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Senior (8+ years) | $50,000~$65,000 | Pre-tax annual salary, master-level higher |
+| average salary | $50,856 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展可从技术员晋升为精密机械大师（Meister）或工程师，也可转向研发或质量管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
+
+Career progression can advance from technician to precision machinery master (Meister) or engineer, or transition to R&D or quality management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating G-code and tool paths for simple workpieces
+- Online machining parameter optimisation based on sensor feedback
+- Quality inspection of standard parts and automatic defect labeling
+- Processing monitoring and abnormal alarm handling
+
+**Where AI augments the role:**
+
+- AI-assisted complex surface programming and simulation verification
+- Optimize fixtures and cutting parameters via digital twins
+- Integrate CAM with adaptive machining to improve efficiency
+- Use AI to predict tool life and optimize tool change timing
+- Remote collaboration and AR-assisted debugging of multi-axis machine tools
+
+**Human moat:**
+
+- Process design for difficult-to-machine materials like irregular and thin-walled parts
+- On-site judgment and manual intervention during processing anomalies
+- Jig and fixture design and non-standard part clamping solutions
+- Communicate with design and assembly teams to resolve tolerance issues
+
+**Skills to build:**
+
+- Multi-axis CNC programming and post-processing customization
+- Write automated macros using Python/Macro
+- Secondary development of CAM software (e.g., Fusion 360 API)
+- Industrial robot loading/unloading integration and commissioning
+- GD&T geometric tolerancing and precision measurement techniques
+- AI-assisted machining software (e.g., Mastercam AI Advisor)
+
+**Key growth areas:**
 
 - Industry 4.0
 - Medical Technology
@@ -61,65 +95,64 @@ Precision engineering technicians design, manufacture, and maintain high-precisi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等学历人才，年薪门槛2025年约43,130欧元 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于双元制培训后持证人员，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德找工一年 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated talents, annual salary threshold approx. €43,130 in 2025 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to those certified after dual-system training, requiring employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year to find a job in Germany |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Precision Engineering Technician？**
-- 喜欢动手和精密操作
-- 对机械和电子有浓厚兴趣
-- 注重细节和质量
-
-**谁不适合学Precision Engineering Technician？**
-- 不喜欢重复性精确工作
-- 对技术细节不敏感
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work and precise operations
+- Strong interest in mechanics and electronics
+- Attention to detail and quality
+
+**Who is not suited**
+- Dislikes repetitive precision work
+- Not sensitive to technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a precision mechanic technician?**
+A: Junior approx. €32,000-40,000, intermediate €40,000-50,000, senior €50,000-65,000, master level may be higher.
+
+**Q: Can precision machinery technicians immigrate to Germany?**
+A: Yes, this occupation is in demand in Germany; applications can be made via the EU Blue Card or skilled migration visa, requiring recognized training or certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Precision Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for precision engineering technicians?**
-答：Entry-level: €32,000-€40,000; mid-level: €40,000-€50,000; senior: €50,000-€65,000; Meister may earn more.
-
-**问：Can precision engineering technicians immigrate to Germany?**
-答：Yes, the occupation is in shortage. You can apply via EU Blue Card or skilled worker visa, requiring recognized training or qualification.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

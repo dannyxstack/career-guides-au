@@ -1,64 +1,91 @@
-# 法院书记 / 登记官员（Court Clerk / Registry Officer）职业分析 · 澳大利亚
+# Court Clerk / Registry Officer — career analysis · Australia
 
-**职业代码：599214 – Court Clerk / Registry Officer。**
+**Occupation code: 599214 (ANZSCO)**
 
-法院书记/登记官员在各级法院负责立案登记、排期、文书管理与庭审支持，是司法系统运行的基础公职岗，由各州司法部门或联邦法院雇用，稳定且有晋升路径，非技术移民职业。
+Court clerks/registry officers in various courts handle case filing, scheduling, document management, and courtroom support. They are foundational public service roles in the judicial system, employed by state justice departments or federal courts, offering stable career progression. Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / 法律或相关证书(常见) | 0~3年 | —（registrar 岗需更高学历） |
+| High school / law or related certificate (common) | 0–3 years | $0~$30,000 (Registrar roles require higher qualifications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关资质(按岗位) | 认可机构 | 可选 | 高等级要求 |
-| National Police Check | 各州 | 必备 | 强制 |
+| National Police Check | All states | Required | Mandatory |
+| Relevant qualifications (per role) | Recognised institution | Optional | High level requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法院数字化与案件量支撑稳定需求，熟悉登记系统与司法流程者可向 registrar 方向发展。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Court digitalisation and caseloads support stable demand. Those familiar with registration systems and judicial processes can progress to registrar roles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| I work for NSW / 各州 / 联邦法院 | 600~1,400 个 | 政府 |
-| Seek | 500~1,200 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $62,000~$75,000 | Entry |
-| 中级（3-8年） | $75,000~$90,000 | Experienced |
-| 资深 / Deputy Registrar | $90,000~$115,000 | Senior |
+| Median salary | $69,940 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $62,000~$75,000 | Entry |
+| Mid-level (3–8 years) | $75,000~$90,000 | Experienced |
+| Senior / Deputy Registrar | $90,000~$115,000 | Senior |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：登记官员→高级/Deputy Registrar→Registrar；司法流程与法律知识决定上限。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Court clerk/registry officer document processing and scheduling face high replacement risk, but court attendance support and legal procedure compliance still require human judgment, with total positions expected to shrink.
+
+Pathway: registry officer → senior/Deputy Registrar → Registrar; judicial processes and legal knowledge determine ceiling.
+
+**Tasks most exposed to AI:**
+
+- Case registration and data entry
+- Automated scheduling and court timetable management
+- Generation and distribution of standard documents (e.g., subpoenas, judgments)
+- Transcription and initial proofreading of court records
+
+**Where AI augments the role:**
+
+- Use AI for quick legal document retrieval and comparison
+- Managing complex case workflow tracking through smart workflows
+- Generate case summaries and reports using natural language processing
+- Using automation tools for real-time collation and annotation of court materials
+
+**Human moat:**
+
+- On-the-spot adaptability and coordination in court support
+- Understanding legal procedure details and making compliant judgments
+- Communication and relationship maintenance with stakeholders such as judges and lawyers
+- Humanitarian care and confidentiality in handling special or sensitive cases
+
+**Skills to build:**
+
+- Advanced operation of court management software (e.g., Jade, eCourts)
+- Legal process automation tools (e.g., RPA, low-code platforms)
+- Data governance and information management
+- Basic legal knowledge and procedural rules
+- Cross-departmental collaboration and conflict resolution
+
+**Key growth areas:**
 
 - Court Services
 - Case Registry
@@ -67,57 +94,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学法院书记 / 登记官员？**
-- 细心、注重流程与文书的人
-- 对司法系统有兴趣者
-
-**谁不适合学法院书记 / 登记官员？**
-- 不擅长严谨流程与记录者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, process-and-document-focused individuals
+- People interested in the justice system
+
+**Who is not suited**
+- Those not suited to strict processes and record-keeping
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a Court Clerk/Registry Officer?**
+A: Approx. AUD $62k-$115k, Deputy Registrar etc. higher.
+
+**Q: Can a court clerk migrate via skilled visa?**
+A: No, it is a local public service role within the judicial system and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-法院书记 / 登记官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：法院书记/登记官员薪资多少？**
-答：约 AUD $6.2万~$11.5万，Deputy Registrar 等更高。
-
-**问：法院书记能技术移民吗？**
-答：不能，属于司法系统本地公职，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

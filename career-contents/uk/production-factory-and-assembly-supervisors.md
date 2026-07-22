@@ -1,61 +1,97 @@
-# Production, factory and assembly supervisors（Production, factory and assembly supervisors）职业分析 · UK
+# Production, factory and assembly supervisors — career analysis · United Kingdom
 
-**职业代码：8160 – Production, factory and assembly supervisors。**
+**Occupation code: 8160 (SOC)**
 
-Oversee production, manufacturing and assembly operations, coordinate staff and ensure targets and quality standards are met.
+Supervise production manufacturing and assembly processes, coordinate operator work to ensure production targets and quality standards are met.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 0 | —（部分雇主接受工作经验替代） |
-| 学历教育 | 3年 | $9,000~$27,000（可选择HND、基础学位或学徒制） |
-| 专业资格 | 1-2年 | $1,000~$5,000（如ILM或CMI的管理证书） |
+| High school diploma or equivalent | 0 | $0~$0 (Some employers accept work experience as a substitute) |
+| Academic education | 3 years | $9,000~$27,000 (Options include HNDs, foundation degrees, or apprenticeships) |
+| Professional qualifications | 1-2 years | $1,000~$5,000 (Management certificates such as ILM or CMI.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ILM领导与管理证书 | Institute of Leadership & Management | 可选 | 可提升管理技能 |
-| CMI管理与团队领导证书 | Chartered Management Institute | 可选 | 行业认可 |
-| 国家职业资格(NVQ)生产管理3-4级 | City & Guilds / EAL | 可选 | 可在职学习 |
-| 安全与健康资格 | NEBOSH / IOSH | 必备 | 部分企业强制要求 |
+| Safety and Health Qualifications | NEBOSH / IOSH | Required | Mandatory for some companies |
+| ILM Certificate in Leadership and Management | Institute of Leadership & Management | Optional | Can improve management skills |
+| CMI Management and Team Leadership Certificate | Chartered Management Institute | Optional | Industry recognised |
+| National Vocational Qualification (NVQ) in Production Management Level 3-4 | City & Guilds / EAL | Optional | Can study while working |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 95,000。英国制造业持续自动化升级，主管岗位需求稳定，但需适应新技术和精益管理方法。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 95,000. Continuous automation upgrades in UK manufacturing, stable demand for supervisor roles, but need to adapt to new technologies and lean management methods.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 基本运营职责 |
-| 中级（3-7年） | $28,000~$38,000 | 管理多条产线 |
-| 高级（7年以上） | $38,000~$50,000 | 包含团队与绩效目标 |
+| Median salary | $36,777 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Basic operational duties |
+| Mid-level (3–7 years) | $28,000~$38,000 | Managing multiple production lines |
+| Senior (7+ years) | $38,000~$50,000 | Includes team and performance goals |
+| average salary | $40,020 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从生产线操作员晋升为主管，再升至生产经理或工厂运营总监，需积累管理经验。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Production supervisors' oversight duties are hard to fully automate, but AI in data monitoring, quality inspection and scheduling optimization significantly reduces junior operational roles; existing management tasks are enhanced rather than replaced.
+
+Can advance from production line operator to supervisor, then to production manager or plant operations director, requiring accumulation of management experience.
+
+**Tasks most exposed to AI:**
+
+- Manual collection and entry of production data (with AI vision and IoT sensors automating collection)
+- Rule-based scheduling and dispatching (AI algorithm automatic optimization)
+- Visual inspection of simple quality defects (replaced by machine vision)
+- Decision trees for routine troubleshooting (handed over to AI diagnostic system)
+- Manual preparation of production reports (automatically generated reports).
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance to reduce equipment downtime, improving decision-making for supervisors
+- Optimize production capacity and delivery times through AI scheduling systems to improve management efficiency
+- Use real-time data analytics dashboards to quickly identify bottlenecks and enhance problem diagnosis
+- Use AI-assisted training systems to upskill new employees and reduce training burden
+- Integrated AI quality warning system detects problem trends earlier than manual methods
+
+**Human moat:**
+
+- Human-machine collaborative decision-making ability in handling sudden major failures
+- Communication and negotiation skills for coordinating cross-departmental resources (e.g., materials, personnel)
+- Quick response and leadership in production site anomalies (e.g., workplace injuries, urgent orders)
+- Soft skills for maintaining team morale and employee relations.
+- Ability for on-site commissioning and personnel training for new processes and equipment
+
+**Skills to build:**
+
+- Application of AI tools in scheduling and forecasting (e.g., AnyLogic, OptiSched)
+- Industrial Internet of Things (IIoT) platform operation (e.g., Azure IoT, Siemens MindSphere)
+- Data visualization and dashboard tools (Power BI, Tableau)
+- Lean production and digital management methods (Lean Six Sigma + AI).
+- Basic programming (Python scripts for data processing)
+- Human-machine collaboration and change management skills
+
+**Key growth areas:**
 
 - Manufacturing
 - Lean Management
@@ -64,68 +100,67 @@ Oversee production, manufacturing and assembly operations, coordinate staff and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 满足薪资与技能要求，雇主可担保 |
-| Subclass Scale-up（Scale-up visa） | 适合快速成长企业，需证明高技能 |
-| Subclass Graduate（Graduate visa） | 毕业后可留英工作2年 |
+| Subclass Skilled Worker (Skilled Worker visa) | Meets salary and skill requirements, employer can sponsor. |
+| Subclass Scale-up (Scale-up visa) | Suitable for rapidly growing companies; high skills must be demonstrated |
+| Subclass Graduate (Graduate visa) | Can stay and work in the UK for 2 years after graduation |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production, factory and assembly supervisors？**
-- 喜欢动手操作和流程优化的人
-- 具备组织和协调能力，能承受压力
-- 希望在制造业长期发展并晋升管理岗
-
-**谁不适合学Production, factory and assembly supervisors？**
-- 不喜欢快节奏重复性工作环境
-- 不擅长人际沟通和团队管理
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and process optimization
+- Possess organizational and coordination skills, able to work under pressure
+- Looking to develop long-term in manufacturing and advance to management
+
+**Who is not suited**
+- Dislikes fast-paced repetitive work environments
+- Not good at interpersonal communication and team management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a production supervisor?**
+A: Starting salary around £22,000-28,000, intermediate £28,000-38,000, senior up to £38,000-50,000.
+
+**Q: Can this occupation migrate to the UK through skilled migration?**
+A: Yes, but the employer must sponsor a Skilled Worker visa and the salary must meet the threshold. This occupation is not on the shortage occupation list.
+
+**Q: What skills are needed to be competent?**
+A: Requires management experience, production process knowledge, quality control, team leadership skills, and safety awareness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Production, factory and assembly supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a production supervisor?**
-答：Entry-level around £22,000-£28,000, mid-level £28,000-£38,000, senior up to £38,000-£50,000.
-
-**问：Can this occupation lead to a skilled migration visa?**
-答：Yes, via Skilled Worker visa with employer sponsorship, meeting salary thresholds. Not on shortage list.
-
-**问：What skills are needed?**
-答：Management experience, production process knowledge, quality control, team leadership, and safety awareness.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

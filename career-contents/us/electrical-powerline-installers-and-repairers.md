@@ -1,61 +1,96 @@
-# Electrical Power-Line Installers and Repairers（Electrical Power-Line Installers and Repairers）职业分析 · 美国
+# Electrical Power-Line Installers and Repairers — career analysis · United States
 
-**职业代码：49-9051 – Electrical Power-Line Installers and Repairers。**
+**Occupation code: 49-9051 (SOC)**
 
-Install or repair cables or wires used in electrical power or distribution systems, including erecting poles and transmission towers.
+Install and repair cables or wires in power transmission or distribution systems, including erecting poles and light/heavy transmission towers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制（含在职培训） | 4-5年 | —（学徒期间带薪学习，部分课程费用自理） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship (including on-the-job training) | 4-5 years | $0~$5,000 (Paid on-the-job training during apprenticeship, some course fees at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照 (CDL) | 各州机动车辆管理局 (DMV) | 必备 | 操作大型卡车和起重机所需 |
-| 线路工认证 | 各州或行业协会（如NWPPA） | 必备 | 完成学徒计划后获得，部分州要求 |
-| CPR和急救证书 | 美国红十字会等 | 可选 | 应对高空作业紧急情况 |
+| Commercial Driver's License (CDL) | State Department of Motor Vehicles (DMV) | Required | Required for operating large trucks and cranes |
+| Railway line worker certification | State or industry associations (e.g., NWPPA) | Required | Obtained after completing an apprenticeship program; some states require it |
+| CPR and first aid certificate | American Red Cross, etc. | Optional | Responding to emergency situations at height |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 119,300。美国电网基础设施老化和可再生能源扩张推动需求，预计2023-2033年就业增长7%，高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 119,300. Aging US power grid infrastructure and renewable energy expansion drive demand, with employment projected to grow 7% from 2023-2033, above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒期薪资约为熟练工的50%-70% |
-| 中级（4-9年） | $75,000~$95,000 | 完成学徒后薪资显著提升 |
-| 高级（10年以上） | $100,000~$130,000 | 包括主管或极端工况津贴 |
+| Median salary | $95,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Apprentice salary is about 50%-70% of skilled worker's pay |
+| Intermediate (4-9 years) | $75,000~$95,000 | Salary increases significantly after completing apprenticeship |
+| Senior (10+ years) | $100,000~$130,000 | Including supervisor or extreme condition allowances |
+| average salary | $91,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级线路工可晋升为资深技工、主管或项目经理；通过经验积累和认证可转向输电系统调度或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
+
+Entry-level linemen can advance to senior technicians, supervisors, or project managers; through experience and certification, they can move to transmission system dispatching or training roles.
+
+**Tasks most exposed to AI:**
+
+- Use drones for automatic inspection of overhead lines, replacing manual visual checks
+- AI analyzes historical data to predict equipment failures, replacing periodic manual inspections
+- GIS system automatically generates optimal maintenance routes, reducing manual route planning
+- Online monitoring sensors transmit data in real time, no need for manual periodic recording
+
+**Where AI augments the role:**
+
+- AR glasses overlaying circuit diagrams and real-time parameters to enhance live-line work safety and efficiency
+- AI fault diagnosis system assists in identifying abnormal signals, speeding up troubleshooting
+- Use digital twin simulations for grid load to optimize construction and maintenance plans
+- Wearable Devices Monitor Vital Signs to Warn of Fatigue or Hazardous Conditions
+- UAV and Robot-Assisted High-Altitude Cable Connection to Reduce Fall Risk
+
+**Human moat:**
+
+- Comprehensive assessment of physical environment (weather, terrain, load) during live-line repairs
+- Practical ability to flexibly adjust construction steps in complex wiring scenarios
+- Creative problem-solving for non-standard faults (e.g., lightning strikes, animal damage)
+- Physical coordination and risk management for working at heights or in confined spaces
+- Responsibility for real-time communication and coordination with dispatch centers and field teams
+
+**Skills to build:**
+
+- Drone operation and flight planning (CASA certified)
+- GIS and digital grid platforms (e.g., ArcGIS) application
+- Basic Python scripts for data organization
+- Operation and maintenance of AR/VR-assisted tools
+- Interpreting Smart Sensor Data Dashboards
+- Human-machine collaboration communication and safety procedures in high-pressure environments
+
+**Key growth areas:**
 
 - Grid Modernization
 - Renewable Energy
@@ -64,65 +99,67 @@ Install or repair cables or wires used in electrical power or distribution syste
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少用于线路工，因非专业职业；仅当从事工程管理岗时可能适用 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能通过PERM劳工证申请，但需证明国内劳动力短缺 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable for lineworkers as it is not a professional occupation; only relevant when working in engineering management roles |
+| Subclass EB-3 (EB-3 Skilled Workers) | May apply through PERM labor certification, but must demonstrate domestic labor shortage |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Electrical Power-Line Installers and Repairers？**
-- 喜欢户外和高空作业，不惧恶劣天气
-- 动手能力强，注重安全规范
-- 愿意接受长时间离家工作或紧急抢修任务
+**Who is suited**
+- Enjoy outdoor and high-altitude work, not afraid of bad weather
+- Strong hands-on skills with focus on safety regulations
+- Willing to accept long hours away from home or emergency repair tasks
 
-**谁不适合学Electrical Power-Line Installers and Repairers？**
-- 对高空有恐惧或身体素质不佳者
-- 偏好稳定室内工作环境者
+**Who is not suited**
+- People with fear of heights or poor physical fitness
+- Preference for stable indoor work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Power Lineworkers?**
+A: According to BLS 2023 data, median annual salary is approximately USD 82,000, top 10% exceed USD 120,000; overtime and emergency repairs can significantly increase income.
+
+**Q: Can foreign workers become US power line workers via H-1B visa?**
+A: H-1B usually requires a specialty occupation (typically a bachelor's degree), while lineman is a skilled trade and rarely meets H-1B criteria. EB-3 green card is possible, but the employer must prove through PERM that they cannot recruit qualified US workers, which is difficult.
+
+**Q: What educational background is required to become an electrical lineworker?**
+A: Usually only a high school diploma is needed, followed by a 4-5 year apprenticeship (combining on-the-job training and classroom learning); no university degree required. Some community colleges offer pre-apprenticeship courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Electrical Power-Line Installers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for electrical power-line installers?**
-答：According to BLS 2023, median annual wage is about $82,000, top 10% earn over $120,000, with overtime and emergency work boosting income.
-
-**问：Can foreign workers become electrical power-line installers via H-1B?**
-答：H-1B typically requires a bachelor's degree in a specialty occupation; line work is skilled trade, rarely eligible. EB-3 green card is possible but requires PERM labor certification proving no qualified US workers available.
-
-**问：What education is needed to become a power-line installer?**
-答：Typically a high school diploma, followed by a 4-5 year apprenticeship combining on-the-job training and classroom instruction. No college degree required; some community colleges offer pre-apprenticeship programs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

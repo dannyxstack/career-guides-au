@@ -1,58 +1,94 @@
-# Marine and waterways transport operatives（Marine and waterways transport operatives）职业分析 · UK
+# Marine and waterways transport operatives — career analysis · United Kingdom
 
-**职业代码：8232 – Marine and waterways transport operatives。**
+**Occupation code: 8232 (SOC)**
 
-Supervise and perform deck duties, operate and maintain engines, boilers and mechanical equipment on board ships and other marine vessels.
+Responsible for deck duties and the operation and maintenance of machinery including engines and boilers to ensure safe navigation. Includes positions such as deckhand and engineer.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 海事学院文凭/学位 | 2-3年 | $9,000~$25,000（英格兰海事学院，国际学生费用更高） |
-| 在职培训与学徒制 | 3-4年 | —（受薪学徒，部分课程费用由雇主承担） |
+| Maritime Academy Diploma/Degree | 2-3 years | $9,000~$25,000 (England Maritime College, higher fees for international students) |
+| On-the-job training and apprenticeships | 3-4 years | $0~$5,000 (Paid apprenticeship, some course fees covered by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海事资格证书（STCW认证） | 英国海事与海岸警卫局（MCA） | 必备 | 包括基本安全培训、高级消防等强制性证书 |
-| 轮机员适任证书 | MCA | 可选 | 分等级（如三级、二级、一级轮机员），需海上服务资历 |
+| Maritime qualification (STCW certification) | UK Maritime and Coastguard Agency (MCA) | Required | Includes mandatory certifications such as basic safety training, advanced firefighting, etc. |
+| Marine engineer certificate of competency | MCA | Optional | Graded (e.g., Third, Second, First Engineer), requiring sea service experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 27,000。英国海运业稳定，但自动化趋势可能减少低技能岗位。内河运输及近海可再生能源领域有增长机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 27,000. UK shipping industry is stable, but automation trends may reduce low-skilled jobs. Growth opportunities exist in inland waterways and offshore renewable energy.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 学徒或实习水手/轮机员 |
-| 中级（3-7年） | $28,000~$40,000 | 持有STCW证书的甲板长或轮机员 |
-| 高级（7年以上） | $40,000~$60,000 | 船长或轮机长 |
+| Median salary | $39,358 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Apprentice or trainee deck officer/engineer |
+| Mid-level (3–7 years) | $28,000~$40,000 | Boatswain or engineer holding STCW certificate |
+| Senior (7+ years) | $40,000~$60,000 | Ship captain or chief engineer |
+| average salary | $43,496 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从普通水手晋升为高级水手、甲板长或轮机员；通过考取海事资格证书可成为船长或轮机长。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The outlook for water transport operators is mixed: automated navigation and remote monitoring technology are reducing some deck and engine roles, but complex shipping regulations and unexpected situations maintain the need for human judgment, while AI-assisted systems can enhance navigation safety and cargo management efficiency.
+
+Can advance from ordinary seaman to senior seaman, boatswain, or engineer; by obtaining maritime certificates, can become captain or chief engineer.
+
+**Tasks most exposed to AI:**
+
+- Conventional route autopilot operation and course correction
+- Regular monitoring of cabin equipment and alarm response
+- Automatic voyage log recording and data aggregation
+- Basic scheduling of cargo loading and unloading plans
+- Standardized report generation in ship communication
+
+**Where AI augments the role:**
+
+- AI-based collision risk prediction and collision avoidance decision support
+- Aircraft equipment fault prediction and maintenance planning
+- Cargo stowage optimization to improve stability and fuel efficiency
+- Dynamic analysis of weather and sea conditions to assist route adjustments
+- Remote expert collaboration system used for diagnosing complex faults
+
+**Human moat:**
+
+- Emergency decision-making and manual operation skills in urgent situations
+- On-site diagnosis and repair of non-standard equipment faults.
+- Cross-cultural crew management and communication coordination
+- Comprehensive assessment of overall ship safety
+- Manual review of regulatory compliance and maritime documents
+
+**Skills to build:**
+
+- Operate smart navigation systems (e.g., ECDIS, AIS)
+- Data analysis basics (Python/R) for equipment monitoring
+- Fundamentals of electrical and automation control systems
+- Remote operation and collaborative tasks with drones/unmanned ships
+- Maritime English and Multilingual Communication
+- Emergency drill and safety management system knowledge
+
+**Key growth areas:**
 
 - Decarbonisation
 - Offshore wind
@@ -61,64 +97,63 @@ Supervise and perform deck duties, operate and maintain engines, boilers and mec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的轮机员、船长等岗位，需满足薪资门槛及英语要求 |
-| Subclass Graduate（Graduate visa） | 适用于英国高校海事相关专业毕业生，可留英工作2-3年 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to positions such as marine engineer and captain with employer sponsorship; must meet salary threshold and English requirements |
+| Subclass Graduate (Graduate visa) | Applicable to graduates of UK university maritime-related programs, allowing them to work in the UK for 2-3 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marine and waterways transport operatives？**
-- 适应海上生活、不晕船
-- 喜欢机械操作与维护
-- 能接受长期离家与不规律作息
-
-**谁不适合学Marine and waterways transport operatives？**
-- 无法适应狭小封闭环境
-- 对机械不感兴趣
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to adapt to life at sea, not prone to seasickness
+- Enjoys mechanical operation and maintenance
+- Able to tolerate long periods away from home and irregular schedules
+
+**Who is not suited**
+- Unable to adapt to confined and enclosed spaces.
+- Not interested in machinery
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for water transport operators?**
+A: Entry-level annual salary is about £20,000-28,000, mid-level about £28,000-40,000, senior captain or chief engineer can reach £40,000-60,000. Offshore work usually has additional allowances.
+
+**Q: How can overseas individuals enter the UK maritime industry via work visa?**
+A: Can apply for Skilled Worker visa, need job offer as marine engineer or captain from a sponsoring employer, meeting general salary and English requirements. Maritime graduates can first gain experience with a Graduate visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Marine and waterways transport operatives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for marine and waterways transport operatives?**
-答：Entry-level salaries range from £20k-£28k, mid-level from £28k-£40k, and senior roles such as captain or chief engineer can earn £40k-£60k. Seafaring roles often include additional allowances.
-
-**问：How can overseas workers enter the UK maritime industry via work visa?**
-答：Apply for a Skilled Worker visa with a sponsored job as a marine engineer or deck officer, meeting salary and English requirements. Maritime graduates can start on a Graduate visa.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

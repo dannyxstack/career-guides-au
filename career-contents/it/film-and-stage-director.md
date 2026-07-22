@@ -1,57 +1,91 @@
-# Film and Stage Director（Film and Stage Director）职业分析 · IT
+# Film and Stage Director — career analysis · Italy
 
-**职业代码：2654 – Film and Stage Director。**
+**Occupation code: 2654 (ISCO08)**
 
-Directs and produces film, television, or stage productions, overseeing creative vision and production logistics.
+Responsible for creative direction and production management of film or stage projects, from script interpretation to final delivery.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学学费，视家庭收入减免） |
-| 硕士 | 2年（硕士） | $2,000~$6,000（专业艺术学院费用较高） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Public university tuition fees, reduced based on family income) |
+| Master's degree | 2 years (Master's) | $2,000~$6,000 (Professional art schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 意大利无法律规定导演需持证，但行业经验至关重要 |
+| No mandatory certification | None | Optional | No law in Italy requires directors to hold a license, but industry experience is crucial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。意大利影视产业以中小型项目为主，数字平台发展带来新机遇，但行业竞争激烈，周期性就业明显。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,000. The Italian film and television industry is dominated by small and medium-sized projects, with digital platform development bringing new opportunities, but the industry is highly competitive with cyclical employment.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 多为自由职业者，收入不稳定 |
-| 中级（3-7年） | $30,000~$50,000 | 有稳定项目合作的导演 |
-| 高级（7年以上） | $60,000~$100,000 | 知名导演或商业大片导演 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Mostly freelancers with unstable income |
+| Mid-level (3–7 years) | $30,000~$50,000 | Directors with stable project collaborations |
+| Senior (7+ years) | $60,000~$100,000 | Famous directors or commercial blockbuster directors |
+| average salary | $47,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从助理或编剧起步，积累经验后晋升为导演或制片人，也可向跨媒体制作发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools will greatly enhance directors' efficiency in visual previews, editing, and project management, but core creative decisions, team leadership, and narrative control remain hard to replace, shifting the role toward a tech-enhanced creative leader.
+
+Usually starts as an assistant or screenwriter, progressing to director or producer after gaining experience, or branching into cross-media production.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial storyboards and visual previews
+- Auto-edit first draft and mark footage
+- Automated scheduling and budget management
+- Use AI to analyse audience feedback and optimise scripts
+
+**Where AI augments the role:**
+
+- Impromptu scene adjustments using a real-time virtual engine
+- Using AI tools to quickly evaluate actor audition clips
+- Iterate narrative rhythm using AI-assisted editing software
+- Using generative AI to explore different stylistic artistic options
+- Manage multi-camera feeds on set using automation tools
+
+**Human moat:**
+
+- Deep insight into human nature and emotions
+- Final decision on creative vision and artistic style.
+- Lead teams, inspire actors and crew members
+- Intuitive understanding of cultural and social contexts
+
+**Skills to build:**
+
+- Proficient in AI-assisted script analysis software
+- Learn virtual production techniques (e.g., Unreal Engine)
+- Data-Driven Audience Analysis Basics
+- Operation of AI video editing tools
+- Basic understanding of machine learning concepts
+- Cross-departmental digital coordination skills
+
+**Key growth areas:**
 
 - Streaming platforms
 - Digital production
@@ -60,68 +94,67 @@ Directs and produces film, television, or stage productions, overseeing creative
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟公民，需大学学历及不低于意大利平均工资1.5倍的合同 |
-| Subclass Decreto Flussi（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟公民，需雇主担保 |
-| Subclass Self-Employment Visa（Self-Employment Visa (Lavoro Autonomo)） | 自由职业者签证，适用于计划在意大利独立工作的导演，需证明足够资金和项目 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to highly skilled non-EU citizens, requiring a university degree and a contract salary at least 1.5 times the Italian average wage. |
+| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens, requires employer sponsorship |
+| Subclass Self-Employment Visa (Self-Employment Visa (Lavoro Autonomo)) | Freelancer visa for directors planning to work independently in Italy, requiring proof of sufficient funds and projects |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Film and Stage Director？**
-- 有强烈创意表达欲和叙事能力的人
-- 能承受高强度工作和不确定收入的人
-- 具备项目管理能力和团队协作精神的人
-
-**谁不适合学Film and Stage Director？**
-- 追求稳定收入和固定工作时间的人
-- 不喜欢高压和频繁变动工作环境的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong desire for creative expression and narrative ability
+- People who can withstand high-intensity work and uncertain income
+- Individuals with project management skills and team collaboration spirit
+
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- People who dislike high pressure and frequent job changes.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Italian director?**
+A: Junior director annual salary approx. 18,000–25,000 euros, mid-level 30,000–50,000 euros, senior 60,000–100,000 euros, income varies significantly.
+
+**Q: How can non-EU citizens immigrate to Italy through the director occupation?**
+A: Available via EU Blue Card (requires high salary contract), annual quota work visa, or freelance visa; proof of professional ability and financial means is required.
+
+**Q: What steps are needed to become a director in Italy?**
+A: Typically through study at film school or related majors, accumulating internships and assistant experience, gradually building a portfolio and network.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Film and Stage Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a director in Italy?**
-答：Entry-level directors earn €18,000-25,000, mid-level €30,000-50,000, senior €60,000-100,000 per year, with significant variability.
-
-**问：How can a non-EU citizen immigrate to Italy as a director?**
-答：Via EU Blue Card (high salary), yearly quota work visa, or self-employment visa, requiring proof of professional skills and financial means.
-
-**问：What steps are needed to become a director in Italy?**
-答：Typically through film school or related studies, gaining internship and assistant experience, building a portfolio and network.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

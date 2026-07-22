@@ -1,59 +1,94 @@
-# Midwife（Midwife）职业分析 · NL
+# Midwife — career analysis · Netherlands
 
-**职业代码：2222 – Midwife。**
+**Occupation code: 2222 (ISCO08)**
 
-Midwives provide prenatal, childbirth, and postnatal care, ensuring maternal and infant health. In the Netherlands, they are central to primary care, managing low-risk pregnancies independently.
+Midwives provide care for pregnant women during pregnancy, childbirth, and postpartum, ensuring the health of mother and baby. In the Netherlands, midwives are a core part of primary care, independently managing low-risk pregnancies.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$15,000（欧盟学生约€10,000/年，非欧盟更高） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (EU students approx €10,000/year, higher for non-EU) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 助产士学位 | 荷兰应用科学大学 | 必备 | 完成BSc Verloskunde课程 |
-| BIG注册 | BIG-register | 必备 | 必须在BIG注册才能执业 |
+| Midwifery degree | University of Applied Sciences Netherlands | Required | Complete BSc Verloskunde course |
+| BIG registration | BIG-register | Required | Must be registered with the BIG to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。荷兰面临助产士短缺，尤其在偏远地区。政府推动社区护理和减少医院分娩，预计2025年前需求增长10%-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. The Netherlands faces a shortage of midwives, especially in remote areas. The government is promoting community care and reducing hospital births, with demand expected to grow by 10%-15% before 2025.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，基于CAO Ziekenhuizen |
-| 中级（4-7年） | $38,000~$48,000 | 含独立执业收入 |
-| 高级（8年以上） | $48,000~$60,000 | 含管理或专家角色 |
+| Median salary | $65,208 | Median salary (official: CBS median hourly wage €33.0/hour × 1976h annualized, BRC group 1012 Gespecialiseerd verpleegkundigen; P25–P75 €57,699–€74,298, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$38,000 | Gross annual salary, based on CAO Hospitals |
+| Mid-level (4-7 years) | $38,000~$48,000 | Including independent practice income |
+| Senior (8+ years) | $48,000~$60,000 | Including managerial or specialist roles |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可晋升为高级临床助产士、助产顾问或管理职位。也可转向教学或研究，或开设独立执业诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Midwife core duties (clinical judgment, emotional support, manual delivery) are hard to replace by AI, but AI can handle documentation, monitoring, etc. Overall mixed. Entry-level barriers slightly higher due to AI tools.
+
+Can advance to senior clinical midwife, midwifery consultant or management positions. May also move into teaching or research, or open an independent practice clinic.
+
+**Tasks most exposed to AI:**
+
+- Automated prenatal health record entry and updating
+- AI analyzes fetal heart monitoring data and generates preliminary reports
+- Automated collection of postpartum follow-up information and risk alerts
+- Automated appointment scheduling and patient reminders
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of labor progress to help determine intervention timing
+- Smart fetal heart rate monitor enhances early detection of fetal distress
+- Remote monitoring platform expands postpartum follow-up coverage
+- Data-driven risk stratification tools optimize resource allocation
+- Using AI translation tools for multilingual patient communication
+
+**Human moat:**
+
+- Emotional support and empathy during childbirth
+- Manual delivery and complex clinical judgment (e.g., managing shoulder dystocia).
+- Building trust and providing personalized care for pregnant women and their families
+- Coordination role in interdisciplinary collaboration (e.g., referral to obstetrician)
+- Make quick decisions and take action in emergencies (e.g., newborn resuscitation).
+
+**Skills to build:**
+
+- Use of AI tools (such as intelligent fetal monitoring analysis software)
+- Data analysis and risk stratification interpretation ability
+- Remote medical service process management
+- Advanced application of digital health record systems.
+- Multilingual communication and cross-cultural care skills
+- Human-machine collaborative clinical decision-making ability
+
+**Key growth areas:**
 
 - aging population
 - midwife-led care
@@ -62,66 +97,68 @@ Midwives provide prenatal, childbirth, and postnatal care, ensuring maternal and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 需与认可担保雇主签约，年薪≥€5,331/月（30岁以下）或€6,570/月（30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥€5,890/月，合同至少1年 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 在荷兰或指定国家毕业，可获1年求职居留 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Must sign with an approved sponsoring employer, annual salary ≥ €5,331/month (under 30) or €6,570/month (over 30) |
+| Subclass EU Blue Card (EU Blue Card) | Requires monthly salary ≥€5,890, contract at least 1 year |
+| Subclass Orientation Year (Orientation Year for Graduates) | Graduates in the Netherlands or designated countries can get a 1-year job-seeking residence permit |
+
+**PR friendliness: high (★★★★☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Midwife？**
-- 有爱心且抗压能力强的人
-- 善于沟通和团队协作
-- 对母婴健康有热情
+**Who is suited**
+- People who are caring and have strong stress tolerance
+- Good communication and teamwork skills
+- Passionate about maternal and child health
 
-**谁不适合学Midwife？**
-- 无法承受轮班和紧急情况
-- 对血液或医疗程序敏感
+**Who is not suited**
+- Unable to tolerate shift work and emergency situations
+- Sensitive to blood or medical procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a midwife in the Netherlands?**
+A: Junior: approximately €30,000-38,000, Mid-level: €38,000-48,000, Senior: €48,000-60,000 (pre-tax annual salary).
+
+**Q: How can foreign midwives work in the Netherlands?**
+A: Requires BIG registration and Dutch language proficiency (B1/B2), accessible via Highly Skilled Migrant or EU Blue Card visa.
+
+**Q: Is there a shortage of midwives in the Netherlands?**
+A: Yes, especially in rural areas, the government lists it as a shortage occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Midwife属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for midwives in the Netherlands?**
-答：Entry-level €30,000-38,000, mid-level €38,000-48,000, senior €48,000-60,000 (gross annual).
-
-**问：How can foreign midwives work in the Netherlands?**
-答：Require BIG registration and Dutch proficiency (B1/B2), via Highly Skilled Migrant or EU Blue Card visa.
-
-**问：Are midwives in shortage in the Netherlands?**
-答：Yes, especially in rural areas; it is listed as a shortage occupation.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

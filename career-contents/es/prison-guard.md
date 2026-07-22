@@ -1,61 +1,96 @@
-# Prison Guard（Prison Guard）职业分析 · ES
+# Prison Guard — career analysis · Spain
 
-**职业代码：5991 – Prison Guard。**
+**Occupation code: 5991 (CNO)**
 
-Prison guards monitor inmate behavior, maintain order within correctional facilities, conduct security checks, and respond to emergencies. They work within Spain's national prison system under public administration.
+Prison guards are responsible for monitoring inmate behavior, maintaining order within the prison, conducting security checks, and responding to emergencies. They work within the Spanish national prison system and belong to the public administration service.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育完成 | 无固定时长 | —（高中毕业或同等学历即可参加公开招考） |
-| FP Grado Medio (中级职业培训) | 2年（FP Grado Medio） | $500~$3,000（推荐安保相关专业，但非强制） |
+| Compulsory education is completed | No fixed duration | $0~$0 (High school graduates or equivalent diplomas can participate in the open admissions) |
+| FP Grado Medio (Intermediate Vocational Training) | 2 years (FP Grado Medio) | $500~$3,000 (Security-related majors are recommended, but not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家公开招考（Oposición） | 西班牙内政部（Ministerio del Interior） | 必备 | 通过笔试、心理测试、体能测试和面试方可入职 |
-| 无犯罪记录证明 | 西班牙司法部 | 必备 | 必须无重大犯罪记录 |
-| 驾驶执照B类 | 交通总局（DGT） | 可选 | 部分岗位要求 |
+| National Open Recruitment (Oposición) | Ministerio del Interior, Spain | Required | Only after passing a written test, psychological test, physical fitness test, and interview can you join |
+| Police clearance certificate | Spanish Ministry of Justice | Required | Must have no major criminal record |
+| Category B driver's license | Directorate General of Transportation (DGT) | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 28,000。西班牙监狱系统面临人员老化和退休潮，未来几年预计有稳定的招聘需求。数字化监控技术普及可能改变工作方式，但人员需求总体平稳。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 28,000. Spain's prison system is facing an aging and retirement cycle, with stable hiring demand expected in the coming years. The widespread adoption of digital surveillance technology may change work methods, but overall personnel demand remains stable.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $24,000~$30,000 | 包括基本工资和津贴 |
-| 中级（5-15年） | $30,000~$38,000 | 含夜班和危险津贴 |
-| 高级（15年以上） | $38,000~$46,000 | 包括管理岗位额外薪酬 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $24,000~$30,000 | Includes base salary and allowances |
+| Intermediate (5-15 years) | $30,000~$38,000 | Includes night shift and hazard allowance |
+| Senior (15+ years) | $38,000~$46,000 | Including additional compensation for management positions |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级监狱警卫可通过内部考试晋升至二级或一级警卫，部分可转向管理岗位（如区域主管）或进入监狱专业训练部门。需持续参加职业培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Prison guards' work combines physical surveillance and interpersonal interaction. AI can replace some monitoring and recording tasks, but handling interpersonal conflicts, emergency judgment, and legal authorization responsibilities with inmates remain humanity's moat, leading to mixed overall risks.
+
+Junior prison guards can be promoted to Level 2 or Level 1 security through internal examinations, with some moving to management positions (such as regional supervisors) or entering prison professional training departments. Ongoing vocational training is required.
+
+**Tasks most exposed to AI:**
+
+- AI video analysis automatically monitors abnormal behaviors of prisoners (such as fighting or self-harm)
+- Using AI systems to automatically scan and identify prohibited items (such as phones and knives)
+- An AI prediction model based on historical data automatically generates patrol routes and schedules
+- AI automatically handles administrative records such as entry and exit registration and item handover
+
+**Where AI augments the role:**
+
+- AI alert systems assist in quickly locating emergencies, improving response efficiency
+- AI emotion recognition systems alert prisoners to potential aggression and assist human intervention in decision-making
+- AI generates daily risk reports to help guards prioritize high-risk areas or prisoners
+- AI simulates training scenarios to enhance guards' ability to handle complex situations such as riots and negotiations
+- Wearable AI devices monitor guards' health status and location in real time, ensuring personal safety
+
+**Human moat:**
+
+- Immediate judgment and physical conflict control when provoked by prisoners
+- Conversational skills based on empathy and deterrence to maintain order
+- The discretion to use appropriate class force within the legal framework
+- A deep understanding of individual prisoner psychology and relationship management
+- On-site command and response in chaotic situations such as emergency evacuations and riots
+
+**Skills to build:**
+
+- AI monitoring system operation and abnormal alarm identification
+- Basic data analysis and report interpretation skills
+- Advanced training in conflict resolution and crisis negotiation
+- Digital evidence processing and compliance record skills
+- Interdisciplinary knowledge (psychology, fundamentals of law)
+- Wearable devices and emergency communication tools are used
+
+**Key growth areas:**
 
 - Public sector stability
 - Retirement wave replacements
@@ -64,65 +99,67 @@ Prison guards monitor inmate behavior, maintain order within correctional facili
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 第三国工作者需雇主担保，但公共部门通常不提供担保。 |
-| Subclass Busqueda empleo（Job Search Visa） | 毕业后可在西班牙停留寻找工作，但需证明足够资金。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Third-country workers require employer sponsorship, but the public sector usually does not. |
+| Subclass Busqueda empleo (Job Search Visa) | After graduation, you can stay in Spain to look for work, but you must prove sufficient funds. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Prison Guard？**
-- 情绪稳定、抗压能力强的人
-- 有纪律性、责任心强的人
-- 希望从事公共服务、享有稳定铁饭碗的人
+**Who is suited**
+- People with stable emotions and strong stress tolerance
+- Disciplined and responsible person
+- Those who hope to engage in public service and enjoy a stable iron rice bowl
 
-**谁不适合学Prison Guard？**
-- 不喜欢严格规章制度和固定流程的人
-- 无法接受高压、可能面临暴力的工作环境的人
+**Who is not suited**
+- People who dislike strict rules and fixed procedures
+- People who cannot tolerate high-pressure work environments that may face violence
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there room for salaries for prison guards?**
+A: Salaries increase with years of service and promotion; intermediate and senior positions also receive hazard pay and night shift allowances, while management positions offer higher salaries.
+
+**Q: Can foreigners become Spanish prison guards through skilled migration?**
+A: It is extremely difficult because this profession belongs to the public sector, usually requiring Spanish nationality or EU citizenship, and must pass an open recruitment exam.
+
+**Q: What are the promotion paths for prison guards?**
+A: Candidates can be promoted through internal exams to Level 2 or Level 1 Guard, and then become regional supervisors, training instructors, or enter administrative positions in prison management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Prison Guard属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth for prison guards?**
-答：Salaries increase with seniority and promotion; mid-level and senior roles receive danger and night shift allowances, and management positions pay more.
-
-**问：Can foreigners become prison guards in Spain through skilled migration?**
-答：Very difficult, as this is a public sector job typically requiring Spanish or EU citizenship and passing competitive exams.
-
-**问：What are the career advancement paths for prison guards?**
-答：Advancement through internal exams to second or first class guard, then to area supervisor, training instructor, or administrative management roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

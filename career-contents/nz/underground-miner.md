@@ -1,63 +1,96 @@
-# Underground Miner（Underground Miner）职业分析 · 新西兰
+# Underground Miner — career analysis · New Zealand
 
-**职业代码：811511 – Underground Miner。**
+**Occupation code: 811511 (ANZSCO)**
 
-Underground miners in New Zealand operate drilling rigs, loading machinery, and transport equipment, and assist with blasting and ground support. Due to the small scale of NZ mining, job opportunities are limited but skilled workers may obtain work or residence via employer sponsorship.
+Underground miners operate drills, loading machinery, and transport equipment in New Zealand, performing blasting support and ground support work. Due to New Zealand's small mining industry, positions are limited, but skilled workers can still apply for work or residence visas with specific employer support.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰NCEA Level 2以上学历 | 2年 | —（高中毕业即可，无需大学学位） |
-| 采矿操作证书课程（如NZ Cert in Mining Operations） | 1年 | $8,000~$15,000（相关理工学院提供，部分可申请学徒培训） |
-| 在职培训及技能认证 | 1-2年 | $3,000~$8,000（雇主资助的培训，如钻机操作证书） |
+| New Zealand NCEA Level 2 or above qualification | 2 years | $0~$5,000 (High school diploma required; no university degree needed) |
+| Mining operations certificate courses (e.g., NZ Cert in Mining Operations). | 1 year | $8,000~$15,000 (Offered by relevant polytechnics, some with apprenticeship options) |
+| On-the-job training and skills certification | 1-2 years | $3,000~$8,000 (Employer-funded training, such as drilling rig operation certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰采矿操作国家证书（NZ Cert in Mining Operations Level 4） | NZQA/Mining Qualifications Authority | 可选 | 证明操作地下采矿设备的能力，通常需要在职培训后取得 |
-| 爆破许可证（Explosives Licence） | WorkSafe NZ | 可选 | 从事爆破辅助工作必须持有，需通过培训和安全评估 |
-| 重型车辆驾照（Class 2-4） | NZ Transport Agency | 必备 | 驾驶采矿卡车需要，部分岗位强制要求 |
-| 工程师/操作员资格（如Unit Standards） | Competenz | 可选 | 行业认可的技能单元，有助于晋升 |
+| Heavy vehicle license (Class 2-4) | NZ Transport Agency | Required | Required for driving mining trucks; mandatory for some positions |
+| New Zealand Certificate in Mining Operations (Level 4) | NZQA/Mining Qualifications Authority | Optional | Demonstrate ability to operate underground mining equipment, usually obtained after on-the-job training |
+| Explosives Licence | WorkSafe NZ | Optional | Must hold for blasting assistance work, requires training and safety assessment |
+| Engineer/Operator Qualifications (e.g., Unit Standards) | Competenz | Optional | Industry-recognized skill units that help with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。新西兰采矿业以金、银、煤矿为主，但产量和就业规模远小于澳洲。未来五年就业增长缓慢，主要受全球大宗商品价格和环保政策影响。坎特伯雷和西海岸地区岗位相对集中。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. New Zealand's mining industry primarily involves gold, silver, and coal, but its output and employment scale are much smaller than Australia's. Employment growth over the next five years is slow, mainly affected by global commodity prices and environmental policies. Jobs are relatively concentrated in Canterbury and the West Coast region.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 新手操作员或助手，通常按小时计薪 |
-| 中级（3-6年） | $75,000~$95,000 | 独立操作设备，具备爆破辅助或维护技能 |
-| 高级（6年以上） | $95,000~$120,000 | 班组长、爆破主管或高技能操作员，含加班和津贴 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Novice operator or assistant, usually paid hourly |
+| Mid-level (3–6 years) | $75,000~$95,000 | Operate equipment independently, with blasting assistance or maintenance skills |
+| Senior (6+ years) | $95,000~$120,000 | Team leader, blasting supervisor, or high-skilled operator, including overtime and allowances |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业路径：初学者可从采矿操作员或钻机助手起步，积累经验后晋升为采矿班组长或爆破主管，部分人可转向采矿工程师或安全监管岗位。需要持续学习安全规程和新技术。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Underground miners face dual impacts from AI and automation: repetitive operations like drilling and loading will be replaced by automated machinery, but human judgment is still needed for geological change handling, equipment repair, and emergency decisions. Job numbers may shrink but value increase.
+
+Career path: beginners can start as mining operators or drill assistants, progress to mining team leaders or blasting supervisors, some may move to mining engineer or safety officer roles. Continuous learning of safety regulations and new technologies is needed.
+
+**Tasks most exposed to AI:**
+
+- Automatic drilling rigs drill along preset paths, with real-time parameter adjustments (e.g., feed rate, angle) controlled by AI
+- Autonomous LHD (Load-Haul-Dump) vehicles for loading and transporting ore in tunnels
+- AI monitors support conditions and automatically installs bolts, reducing manual support work
+- Blast design software automatically generates borehole layouts; blasters only need to perform safety control
+
+**Where AI augments the role:**
+
+- Geological modeling software integrates drilling data, updates ore body models in real time, helping miners locate high-grade zones
+- AR headset overlays tunnel support information to guide manual support work and equipment maintenance
+- Predictive maintenance system (based on sensors and AI) warns of equipment failures in advance, reducing unplanned downtime
+- AI scheduling system optimizes transport routes and ventilation; miners use digital twins to visualize and adjust work plans
+
+**Human moat:**
+
+- On-site judgment and emergency response to sudden geological condition changes (e.g., faults, water inrush)
+- Repair and troubleshooting of complex equipment (e.g., crushers, ventilation fans)
+- Safety protocol execution and risk decision-making, such as directing personnel evacuation when gas concentrations exceed limits.
+- Team collaboration and communication (coordination with other miners, surveyors, engineers)
+
+**Skills to build:**
+
+- Automated system operation and monitoring (remote control centers, SCADA systems)
+- Basic data analysis (interpreting sensor data, production reports)
+- Equipment maintenance and fault diagnosis (electrical, hydraulic, mechanical)
+- Use of digital tools (digital twins, AR-assisted interfaces)
+- Safety and compliance knowledge (DAMS, gas monitoring)
+- Cross-trade communication (collaborating with drillers, blasters, geologists).
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -66,69 +99,68 @@ Underground miners in New Zealand operate drilling rigs, loading machinery, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作合同，满足工资中位数（每小时29.66纽元）要求，可续签，累积经验后可能申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 通过技术移民申请，需达到6分制（如学历+工作经验），但地下矿工不在绿色清单上，需雇主支持且薪资达标 |
-| Subclass Green List T2（Green List Tier 2） | 虽然目前未列入，但若未来紧缺，可申请工作转居留，需在相关岗位工作2年 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, meet the median wage requirement (NZ$29.66 per hour), renewable, and may lead to residence after accumulated experience. |
+| Subclass SMC (Skilled Migrant Category) | Apply through skilled migration, need to meet 6-point system (e.g., qualification + work experience), but underground miner is not on Green List; requires employer support and meeting salary threshold |
+| Subclass Green List T2 (Green List Tier 2) | Although not currently listed, if it becomes in demand in the future, one can apply for a work-to-residence visa after working in the relevant position for 2 years. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Underground Miner？**
-- 愿意在偏远地区工作、适应轮班和地下环境的人
-- 有体力、注重安全、对机械操作感兴趣的人
-- 希望通过雇主担保积累经验、未来可能转行的人
-
-**谁不适合学Underground Miner？**
-- 不适应密闭空间、危险环境或高强度体力劳动的人
-- 希望迅速获得居民身份或在新西兰自由更换雇主的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to work in remote areas, adapt to shifts and underground environments
+- People with physical stamina, safety-conscious, and interested in mechanical operation
+- People hoping to gain experience through employer sponsorship and possibly change careers later.
+
+**Who is not suited**
+- People who cannot adapt to confined spaces, hazardous environments, or high-intensity physical labor
+- Those seeking fast-track residency or the ability to freely change employers in New Zealand
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an underground miner in New Zealand? Does it include additional allowances?**
+A: Junior annual salary approximately 55,000-75,000 NZD, intermediate 75,000-95,000, senior 95,000-120,000 (including overtime and allowances). However, job opportunities are limited and salaries are lower than similar positions in Australia.
+
+**Q: Is it easy for underground miners to immigrate to New Zealand?**
+A: Not easy. This occupation is not on the Green List, and the industry is small with few employers. Typically, you need to first work on an Accredited Employer Work Visa (AEWV), gain experience, then try for Skilled Migrant Category, but meeting the 6-point requirement is challenging.
+
+**Q: How can overseas experience gain recognition in New Zealand? What certificates are needed?**
+A: Overseas experience can be assessed by NZQA, but usually requires supplementary New Zealand mining operation certificates and blasting permits. Relevant qualifications can expedite employment, but language and local safety standards are major obstacles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Underground Miner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for underground miners in NZ? Are there additional allowances?**
-答：Entry-level salary is NZ$55,000-75,000, mid-level NZ$75,000-95,000, senior NZ$95,000-120,000 (including overtime and allowances). However, job opportunities are limited and wages are lower than in Australia.
-
-**问：Is it easy for underground miners to immigrate to New Zealand?**
-答：Not easy. The occupation is not on the Green List, and the industry is small with few employers. Typically, you need an AEWV first, then after accumulated experience try for SMC, but meeting the 6-point system is challenging.
-
-**问：How can overseas experience be recognized in NZ? What certifications are needed?**
-答：Overseas experience can be assessed by NZQA, but often requires supplementary NZ certificates in mining operations and explosives. Having relevant qualifications speeds up employment, but language and local safety standards are key barriers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

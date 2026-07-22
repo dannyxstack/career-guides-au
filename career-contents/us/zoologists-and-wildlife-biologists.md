@@ -1,61 +1,97 @@
-# Zoologists and Wildlife Biologists（Zoologists and Wildlife Biologists）职业分析 · 美国
+# Zoologists and Wildlife Biologists — career analysis · United States
 
-**职业代码：19-1023 – Zoologists and Wildlife Biologists。**
+**Occupation code: 19-1023 (SOC)**
 
-Study the origins, behavior, diseases, genetics, and life processes of animals and wildlife; may specialize in wildlife research and management to inform conservation and ecological balance.
+Study the origin, behavior, disease, genetics, and life processes of animals, potentially focusing on wildlife research and management to provide scientific basis for environmental protection and ecological balance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学约4-6万美元/年，私立大学约6-12万美元/年） |
-| 硕士 | 2年 | $30,000~$80,000（公立大学约3-6万美元/年，私立大学约5-8万美元/年） |
-| 博士 | 5年 | —（多数博士项目提供全额奖学金或助学金，自费约3-6万美元/年） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities approx. USD 40,000–60,000/year; private universities approx. USD 60,000–120,000/year.) |
+| Master's degree | 2 years | $30,000~$80,000 (Public universities: about $30,000-$60,000/year; private universities: about $50,000-$80,000/year.) |
+| Doctorate | 5 years | $0~$60,000 (Most PhD programs offer full scholarships or assistantships; self-funded tuition is about 30,000-60,000 USD/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学学士学位 | 大学 | 必备 | 动物学、野生动物生物学或相关领域 |
-| 硕士学位 | 大学 | 可选 | 高级研究或管理职位通常需要 |
-| 博士学位 | 大学 | 可选 | 独立研究或学术职位通常需要 |
-| 专业认证 | The Wildlife Society | 可选 | 如认证野生动物生物学家(CWB)可提升竞争力 |
+| Bachelor's degree in biology | University | Required | Zoology, wildlife biology, or related field |
+| Master's degree | University | Optional | Usually required for senior research or management positions. |
+| Doctoral degree (PhD) | University | Optional | Typically required for independent research or academic positions |
+| Professional certification | The Wildlife Society | Optional | e.g., Certified Wildlife Biologist (CWB) can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 19,000。美国就业前景稳定，预计2023-2033年增长约3%，受环境保护和生态研究需求推动。政府机构和研究机构为主要雇主，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 19,000. Employment outlook in the US is stable, with projected growth of about 3% from 2023-2033, driven by environmental protection and ecological research demand. Government agencies and research institutions are main employers; competition is moderate.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 常见于研究助理或野外技术员岗位 |
-| 中级（3-8年） | $55,000~$75,000 | 项目经理或高级研究员层面 |
-| 高级（8年以上） | $75,000~$100,000 | 主管、首席科学家或学术教授 |
+| Median salary | $76,780 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Common in research assistant or field technician roles |
+| Mid-level (3–8 years) | $55,000~$75,000 | Project manager or senior researcher level |
+| Senior (8+ years) | $75,000~$100,000 | Director, chief scientist, or academic professor |
+| average salary | $83,020 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径包括从野外研究员晋升为项目负责人、研究主管或高级科学家。也可转向学术领域担任教授或进入私营部门从事环境咨询。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
+
+Career paths include progressing from field researcher to project lead, research supervisor, or senior scientist. Also possible to move into academia as a professor or into the private sector for environmental consulting.
+
+**Tasks most exposed to AI:**
+
+- Automated classification and preliminary analysis of large-scale wildlife monitoring data (e.g., camera trap image recognition)
+- Automated recording and organization of basic experimental data (e.g., behavioral observations, gene sequencing)
+- Literature review and information extraction; AI can quickly summarize relevant research findings.
+- Model building and statistical analysis, such as automatic fitting of population dynamics models
+- Generation of draft reports, AI can produce standardized descriptions from data
+
+**Where AI augments the role:**
+
+- Improve habitat assessment efficiency and accuracy through AI-driven remote sensing image analysis
+- Uses machine learning models to predict disease transmission pathways and assist in formulating intervention strategies.
+- Using natural language processing technology to quickly retrieve and integrate interdisciplinary literature
+- Using AI to simulate the impact of different management plans on populations to optimize decisions
+- Achieving more efficient field data collection through voice recognition and sensor technology
+
+**Human moat:**
+
+- Adaptive judgment and emergency response capabilities in field research
+- Communicate and coordinate conservation actions with local communities, policymakers, and other stakeholders
+- Intuitive understanding of complex ecosystem dynamics and interdisciplinary comprehensive insights
+- Subtle observation and interpretation in animal behavior research requiring long-term experience accumulation
+- Ethical decision-making and trade-offs in animal welfare (e.g., pros and cons of interventions)
+
+**Skills to build:**
+
+- Remote sensing and GIS spatial analysis (e.g., rasterio/geopandas in Python)
+- Machine learning and statistical modeling (e.g., caret in R or scikit-learn in Python)
+- Application of AI image/audio recognition tools (e.g., Wildbook, BirdNET)
+- Data visualization and communication (e.g., R Shiny, Tableau)
+- Field techniques (e.g., drone operation, biosensor deployment)
+- Scientific Writing and Interdisciplinary Collaboration Skills
+
+**Key growth areas:**
 
 - Conservation
 - Climate change research
@@ -64,68 +100,67 @@ Study the origins, behavior, diseases, genetics, and life processes of animals a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需雇主担保，配额有限，适合有本科以上学历的从业者 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 职业移民绿卡，适合拥有硕士学位或学士学位加5年经验的申请人 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 职业移民绿卡，适合拥有学士学位的申请人，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa requires employer sponsorship with limited quotas, suitable for practitioners with at least a bachelor's degree. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Employment-based green card, suitable for applicants with a master's degree or a bachelor's degree plus 5 years of experience |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Employment-based green card, suitable for applicants with a bachelor's degree, with a long waiting period |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Zoologists and Wildlife Biologists？**
-- 热爱野外工作和动物研究，具备耐心和细致观察力的人
-- 对生态保护有热情，愿意为政府或非营利组织工作的人
-- 有较强分析和写作能力，适合从事科研或政策倡导的人
-
-**谁不适合学Zoologists and Wildlife Biologists？**
-- 不喜欢户外工作或长时间野外科考的人
-- 追求高薪或快节奏商业环境的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about fieldwork and animal research, with patience and attention to detail
+- People passionate about ecological conservation and willing to work for government or non-profit organizations
+- People with strong analytical and writing skills, suitable for research or policy advocacy
+
+**Who is not suited**
+- Those who dislike outdoor work or extended field expeditions
+- People seeking high pay or a fast-paced business environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Zoologist?**
+A: US zoologist median annual salary approx. $65k, entry-level approx. $45k-$55k, senior can reach $100k+. Federal government roles pay relatively higher.
+
+**Q: What are common pathways for zoologists to immigrate to the US?**
+A: Common pathways include the H-1B work visa (requires employer sponsorship) and EB-2/EB-3 employment-based green cards. A master's or doctoral degree gives an advantage for EB-2 applications.
+
+**Q: What certifications are needed to become a zoologist?**
+A: Basic requirement is a bachelor's degree in biology or related field. Voluntary certification such as The Wildlife Society's Certified Wildlife Biologist (CWB) helps career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Zoologists and Wildlife Biologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for zoologists?**
-答：The median annual salary for zoologists in the US is around $65,000; entry-level positions range from $45,000 to $55,000, while senior roles can exceed $100,000. Federal government jobs tend to pay higher.
-
-**问：What are common immigration pathways for zoologists to the US?**
-答：Common pathways include H-1B work visa (employer-sponsored) and EB-2/EB-3 employment-based green cards. A master's or doctoral degree strengthens EB-2 eligibility.
-
-**问：What certifications are needed to become a zoologist?**
-答：A bachelor's degree in biology or a related field is mandatory. Voluntary certifications such as the Certified Wildlife Biologist (CWB) from The Wildlife Society can enhance career prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

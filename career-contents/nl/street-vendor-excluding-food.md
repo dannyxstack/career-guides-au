@@ -1,61 +1,97 @@
-# Street Vendor (excluding Food)（Street Vendor (excluding Food)）职业分析 · NL
+# Street Vendor (excluding Food) — career analysis · Netherlands
 
-**职业代码：9520 – Street Vendor (excluding Food)。**
+**Occupation code: 9520 (ISCO08)**
 
-Sells non-food items such as clothing, accessories, and electronics on streets or markets in the Netherlands, either self-employed or employed.
+Self-employed individuals or employees selling non-food items (e.g., clothing, accessories, electronics) on the streets or at markets in the Netherlands.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初等教育 | 无需正式教育 | —（无直接教育成本，但需具备基本读写和算术能力） |
-| 职业培训（可选） | 6个月至1年 | $500~$2,000（可选零售或创业课程，非强制） |
+| Primary education | No formal education required | $0~$0 (No direct education costs, but requires basic literacy and numeracy skills) |
+| Vocational training (optional) | 6 months to 1 year | $500~$2,000 (Optional retail or entrepreneurship courses, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摊位许可 | 当地市政府 | 必备 | 必须从所在城市获得街头贩卖许可，通常需要排队或抽签 |
-| 商业注册 | 荷兰商会 (KVK) | 必备 | 自雇者必须在KVK注册并获得增值税号 |
-| 基础卫生证书（如有食品接触） | 荷兰食品与消费品安全局 (NVWA) | 可选 | 若销售涉及食品接触的商品（如化妆品）可能需要 |
+| stall permit | Local city council | Required | Must obtain a street vending permit from the city, usually requiring queuing or a lottery |
+| Business registration | Netherlands Chamber of Commerce (KVK) | Required | self-employed must register with KVK and obtain a VAT number |
+| Basic hygiene certificate (if handling food) | Netherlands Food and Consumer Product Safety Authority (NVWA) | Optional | May be required if sales involve food-contact goods (e.g. cosmetics) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。荷兰街头非食品销售受电商冲击和严格许可限制，岗位数量有限且趋于平稳。部分城市对摊位许可有配额，新人进入难度较大。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. Non-food street sales in the Netherlands are impacted by e-commerce and strict licensing restrictions, with limited and stable job opportunities. Some cities have quotas for stall permits, making entry difficult for newcomers.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 收入不稳定，取决于位置和客流 |
-| 中级（3-7年） | $24,000~$32,000 | 有固定客户群或黄金摊位后收入提升 |
-| 高级（7年以上） | $30,000~$40,000 | 多摊位经营或转向批发，利润较高 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Income unstable, depends on location and foot traffic |
+| Mid-level (3–7 years) | $24,000~$32,000 | Income increases after having a fixed customer base or prime stall |
+| Senior (7+ years) | $30,000~$40,000 | Multi-stall operation or wholesale, higher profits |
+| average salary | $28,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业路径有限，可从摊主起步，积累客户后扩大至多个摊位或转向批发。部分经验者可转行至零售管理或商品采购。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Street food vendors in the Netherlands face mixed impacts from AI and automation: inventory management and transaction recording are easily replaceable, but product selection, bargaining, customer interaction, and flexible vending strategies are enhanced by AI, while interpersonal trust and on-site judgment remain core moats.
+
+Career path is limited; you can start as a stall owner, then expand to multiple stalls or shift to wholesale after building a client base. Some experienced individuals may transition to retail management or merchandise procurement.
+
+**Tasks most exposed to AI:**
+
+- Using spreadsheets or paper logs to record daily sales and inventory, replaced by automated POS systems
+- Manually calculating change and discounts, replaced by digital payments and automatic pricing.
+- Promotions via word-of-mouth or flyers are being replaced by automated social media ads.
+- Handling and organizing small quantities of standardized goods, partially replaced by automated warehousing and restocking robots
+- Manual price tag writing and bookkeeping replaced by electronic shelf labels and cloud accounting software
+
+**Where AI augments the role:**
+
+- Uses AI image recognition to quickly identify the brand, age, and market price of second-hand goods, improving pricing accuracy.
+- Use social media analytics tools to determine local consumer trends, optimize product selection and stocking
+- Automatically reply to common customer questions via AI chatbot to improve pre-sales response efficiency.
+- Using mobile payment data analysis to create customer profiles, targeted push of coupons and new product information
+- AI-driven dynamic pricing tools adjust prices in real-time based on weather and holidays, increasing profits.
+
+**Human moat:**
+
+- Interpersonal trust established with regular customers and personalized service (e.g., remembering customer preferences)
+- On-site experience in judging product authenticity, quality, and second-hand refurbishment value.
+- Ability to adapt flexibly in emergencies (e.g., sudden weather changes, customer disputes).
+- Human skills in observing customer expressions and tone during negotiation bargaining
+- Creative display and on-site storytelling marketing for non-standard products
+
+**Skills to build:**
+
+- Using social media marketing tools (e.g., Instagram, TikTok) to promote stalls
+- Basic data analysis (Excel or simple BI tools) to track bestsellers and profits
+- Operation of digital payment systems (e.g., iDEAL, Tikkie) and automated accounting software
+- AI product selection and pricing tools (e.g., trend-based inventory management apps)
+- Mobile photo editing and short video production (to enhance online product display)
+- Basic Dutch and English communication skills (serving diverse customers)
+
+**Key growth areas:**
 
 - e-commerce impact
 - stall permit restrictions
@@ -64,67 +100,69 @@ Sells non-food items such as clothing, accessories, and electronics on streets o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 仅适用于高技术岗位，街头小贩不符合薪资和技能门槛，无法申请 |
-| Subclass Self-Employed Reside（Self-Employed Residence Permit） | 非欧盟公民可通过此许可作为自雇者经营，需通过荷兰商业计划评估，门槛较高 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用，该职业不满足高技术要求 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业的非欧盟学生可申请，但需找到符合薪资的工作，街头小贩收入通常不达标 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Only for high-skilled positions; street vendors do not meet the salary and skill requirements and cannot apply. |
+| Subclass Self-Employed Reside (Self-Employed Residence Permit) | Non-EU citizens can operate as self-employed under this permit, requiring a Dutch business plan assessment, with high threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable, this occupation does not meet high-skilled requirements |
+| Subclass Orientation Year (Orientation Year) | Non-EU students graduating from the Netherlands can apply, but must find a job meeting the salary threshold; street vendor income usually does not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street Vendor (excluding Food)？**
-- 擅长社交和讨价还价的人
-- 喜欢户外和灵活工作时间的个体经营者
-- 能承受不稳定收入的人
+**Who is suited**
+- People good at socializing and bargaining
+- Self-employed individuals who enjoy outdoor work and flexible hours.
+- People who can handle unstable income
 
-**谁不适合学Street Vendor (excluding Food)？**
-- 寻求稳定收入和福利的人
-- 不喜欢站立工作或风吹日晒的人
+**Who is not suited**
+- People seeking stable income and benefits
+- People who dislike standing work or exposure to the elements
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of street vendors in the Netherlands?**
+A: Junior annual income approximately 18,000-24,000 euros, senior can reach 30,000-40,000 euros, but income fluctuates greatly, affected by season and location.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through the street vendor occupation?**
+A: Very difficult. Usually requires self-employment permit and must prove significant contribution to the Dutch economy through a business plan assessment.
+
+**Q: What procedures are needed to set up a street stall in the Netherlands?**
+A: Need to apply for a stall permit from the local municipality and register as self-employed with the Dutch Chamber of Commerce. Some popular locations have limited permits and require a lottery.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Street Vendor (excluding Food)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of a street vendor in the Netherlands?**
-答：Entry-level annual income is around €18,000–24,000, while experienced vendors can earn €30,000–40,000, but income is volatile and depends on season and location.
-
-**问：Can non-EU citizens migrate to the Netherlands as a street vendor?**
-答：Very difficult. It usually requires a self-employment permit and a business plan demonstrating significant contribution to the Dutch economy.
-
-**问：What procedures are required to vend on the street in the Netherlands?**
-答：You need a stall permit from the local municipality and register as self-employed with the Dutch Chamber of Commerce. Permits in popular locations may be limited via lottery.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,94 @@
-# 前台（Receptionist）职业分析 · 澳大利亚
+# Receptionist — career analysis · Australia
 
-**职业代码：542111 – Receptionist。**
+**Occupation code: 542111 (ANZSCO)**
 
-前台负责接待来访、接听电话、预约安排和基础行政，是企业门面岗位，门槛低，非技术移民职业。
+A receptionist handles visitor welcome, phone calls, appointment scheduling, and basic administration. It is a front-of-house role with a low entry barrier and is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / Certificate in Business（可选） | 0~1年 | —（在岗培训） |
+| High school / Certificate in Business (optional) | 0–1 year | $0~$3,500 (On-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Business (BSB30120) | TAFE/RTO | 可选 | 非强制 |
+| Certificate III in Business (BSB30120) | TAFE/RTO | Optional | Not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。前台需求稳定但部分被虚拟前台/自助系统替代，服务与协调能力强者更稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Receptionist demand is stable but partially being displaced by virtual reception and self-service systems; those with strong service and coordination skills are more secure.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 3,500~6,500 个 | 全国 |
-| Indeed | 2,500~4,500 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门 | $50,000~$58,000 | 全职 |
-| 有经验 | $58,000~$68,000 | — |
-| 资深前台/行政 | $68,000~$75,000 | — |
+| Median salary | $63,908 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level | $50,000~$58,000 | Full-time |
+| Experienced | $58,000~$68,000 | — |
+| Senior receptionist/administrator | $68,000~$75,000 | — |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向行政、办公室管理或客户服务方向发展。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI voice assistants and automation systems will replace most front desk phone answering, appointment scheduling, and visitor registration tasks. Traditional entry-level receptionist positions will shrink significantly, but a few remaining roles will need to combine administrative and technical support skills.
+
+Can progress into administration, office management or customer service roles.
+
+**Tasks most exposed to AI:**
+
+- Answering routine calls and routing to the correct department (AI voice agents handle automatically)
+- Use electronic calendar systems to schedule meetings (AI automatically coordinates times)
+- Visitor manual registration and temporary access card issuance (self-service registration and QR code verification)
+- Handling common inquiries such as addresses and business hours (AI chatbot provides 24/7 service)
+- Printing and organizing basic documents (replaced by automated document management systems)
+
+**Where AI augments the role:**
+
+- Use CRM and AI analytics tools to manage customer relationships and prioritize service
+- Use smart voice-to-text software to generate meeting minutes.
+- Optimize office resource allocation through AI scheduling systems
+- Using natural language processing tools for multilingual guest communication
+- Use data analysis tools to generate visitor traffic reports for management decision-making
+
+**Human moat:**
+
+- Handling complex or emotionally sensitive customer complaints (requiring empathy and interpersonal skills)
+- Respond to emergencies (e.g., fire evacuation, first aid response)
+- Providing personalized concierge services for VIP or senior managers
+- Coordinating cross-departmental non-standard tasks (e.g., urgent cross-departmental coordination)
+- Maintaining corporate image and organisational culture (unstructured tasks)
+
+**Skills to build:**
+
+- Proficient in CRM systems (e.g., Salesforce, HubSpot)
+- Basic data analysis skills (Excel, Power BI)
+- Multilingual communication skills (enhance practicality of AI collaboration)
+- Social media management and content creation (e.g. LinkedIn company page maintenance)
+- Project coordination and time management (certifications such as CAPM)
+- Learn low-code automation tools (e.g., Zapier, Make)
+
+**Key growth areas:**
 
 - Front Office Tech
 - Customer Service
@@ -65,57 +96,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学前台？**
-- 亲和、沟通能力强的人
-- 想进入行政/客户服务的新人
-
-**谁不适合学前台？**
-- 以技术移民为目标者
-- 不擅长多任务与人际沟通者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People-oriented individuals with strong communication skills
+- Those looking to enter administration/customer service roles
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those who struggle with multitasking and interpersonal communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a receptionist in Australia?**
+A: Approximately AUD $50,000–$75,000.
+
+**Q: Can receptionists migrate to Australia through skilled migration?**
+A: No, this is not a skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-前台属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲前台工资多少？**
-答：约AUD $5万~$7.5万。
-
-**问：前台能技术移民吗？**
-答：不能，非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

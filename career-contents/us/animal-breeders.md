@@ -1,61 +1,93 @@
-# Animal Breeders（Animal Breeders）职业分析 · 美国
+# Animal Breeders — career analysis · United States
 
-**职业代码：45-2021 – Animal Breeders。**
+**Occupation code: 45-2021 (SOC)**
 
-Select and breed animals according to genealogy, characteristics, and offspring; may involve artificial insemination and record keeping on heats, birth intervals, or pedigree.
+Select and breed animals based on pedigree, traits, and offspring, may involve artificial insemination techniques and equipment, requires recording estrus cycles, birth intervals, or lineage information.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 副学士学位（动物科学相关） | 2年 | $5,000~$15,000（社区学院学费） |
-| 学士学位（动物科学、农业） | 4年 | $20,000~$50,000（公立大学年均学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (Animal Science related) | 2 years | $5,000~$15,000 (Community college tuition) |
+| Bachelor degree (Animal Science, Agriculture) | 4 years | $20,000~$50,000 (Average annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 人工授精技术认证 | 美国动物科学学会或相关机构 | 可选 | 提升就业竞争力 |
-| 动物育种专业证书 | 社区学院或技术学校 | 可选 | 可选但有利于职位晋升 |
+| Artificial Insemination Technology Certification | American Society of Animal Science or relevant organizations | Optional | Enhance employment competitiveness |
+| Animal breeding professional certificate | Community college or technical school | Optional | Optional but beneficial for career advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,300。美国动物育种员就业前景稳定，受食品生产、宠物行业及保护育种需求驱动。预计2022-2032年就业增长率约2%，低于平均水平，但畜牧业主产区有稳定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,300. Employment prospects for animal breeders in the US are stable, driven by food production, pet industry, and conservation breeding. Employment growth is projected at about 2% from 2022-2032, slower than average, but stable demand in major livestock regions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 通常包含农场提供的住宿或福利 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验和认证后薪资提升 |
-| 高级（7年以上） | $45,000~$60,000 | 管理大型育种项目或拥有专业认证 |
+| Median salary | $51,130 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Usually includes farm-provided accommodation or benefits |
+| Mid-level (3–7 years) | $35,000~$45,000 | Salary increases with experience and certification |
+| Senior (7+ years) | $45,000~$60,000 | Manage large-scale breeding projects or hold professional certification |
+| average salary | $57,010 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 初级育种员可晋升为高级育种专家、农场经理或遗传学顾问。积累经验后可管理大型育种项目或创办育种公司，部分转向动物遗传研究或学术领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Animal breeder work is partly compressed by automation (e.g., data recording and basic genetic analysis), but AI enhances human capability in decision support like genetic selection and embryo analysis; overall impact is mixed.
+
+Junior breeders can advance to senior breeding specialists, farm managers, or genetics consultants. With experience, they can manage large breeding projects or start breeding companies, with some transitioning to animal genetics research or academia.
+
+**Tasks most exposed to AI:**
+
+- Manually record estrus cycles, birth intervals, etc.
+- Simple rule-based pedigree and trait matching
+- Generation and organization of routine genetic reports
+- Timing of basic artificial insemination operations
+
+**Where AI augments the role:**
+
+- Using genetic algorithms to screen optimal mating combinations
+- Analyzing animal posture and health with computer vision
+- Predict offspring performance through machine learning
+- Using gene-editing tools for precise breeding design
+
+**Human moat:**
+
+- Intuitive judgment of animal behavior and health
+- Complex ethical decisions (e.g., inbreeding balance)
+- Trust relationship and deep communication with farm owners
+- Manual operation experience (e.g., feel for artificial insemination)
+
+**Skills to build:**
+
+- Basic programming and data analysis (Python, R)
+- Genetics and Bioinformatics
+- AI tool usage (e.g., breeding software)
+- Advanced statistical modeling
+- Animal welfare and ethical regulations knowledge
+
+**Key growth areas:**
 
 - Animal Breeding
 - Livestock
@@ -64,65 +96,67 @@ Select and breed animals according to genealogy, characteristics, and offspring;
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Workers） | 临时农业工人签证，适用于季节性育种工作，雇主需证明美国工人短缺。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 职业移民第三优先，需雇主担保和PERM劳工认证，但动物育种员通常不符合高技能要求。 |
+| Subclass H-2A (H-2A Temporary Agricultural Workers) | Temporary agricultural worker visa for seasonal breeding work, employer must demonstrate US worker shortage. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Employment-based third preference, requires employer sponsorship and PERM labor certification; but animal breeders generally do not meet high-skill requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Breeders？**
-- 热爱动物和农业工作，愿意在户外或农场环境中工作
-- 有耐心和细心，注重记录和管理动物繁殖数据
-- 愿意学习人工授精等专业技术
+**Who is suited**
+- Love animals and farm work, willing to work outdoors or in a farm environment
+- Patient and detail-oriented, focused on recording and managing animal breeding data
+- Willing to learn specialized techniques such as artificial insemination
 
-**谁不适合学Animal Breeders？**
-- 不喜欢体力劳动或牧场环境
-- 对动物繁殖和基因技术不感兴趣
+**Who is not suited**
+- Dislike physical labor or farm/ranch environments.
+- Not interested in animal breeding and genetic technology
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for animal breeders?**
+A: US animal breeder annual salary about $30k-$60k USD, entry-level may be lower, but senior or management positions can exceed $60k. Salary affected by region, farm size, and experience.
+
+**Q: Are there pathways for animal breeders to immigrate to the US?**
+A: The immigration pathway for this occupation is very limited, usually only through H-2A temporary agricultural worker visa to work in the US, and it does not directly lead to a green card. Unless the employer supports EB-3 green card application, but that is difficult.
+
+**Q: What education is needed to become an animal breeder?**
+A: A high school diploma is sufficient to start, but an associate or bachelor's degree (in animal science or related) aids advancement and salary growth. Practical experience and certification matter more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Animal Breeders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal breeders?**
-答：Salaries in the US range from $30,000 to $60,000 annually, with experienced breeders earning more.
-
-**问：Are there immigration pathways for animal breeders to the US?**
-答：Limited; typically H-2A temporary visa for seasonal work, with difficult path to green card.
-
-**问：What education is required to become an animal breeder?**
-答：High school diploma is sufficient; associate or bachelor's degree in animal science is beneficial for advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

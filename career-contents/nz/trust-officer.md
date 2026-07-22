@@ -1,61 +1,97 @@
-# Trust Officer（Trust Officer）职业分析 · 新西兰
+# Trust Officer — career analysis · New Zealand
 
-**职业代码：599215 – Trust Officer。**
+**Occupation code: 599215 (ANZSCO)**
 
-Manage trust accounts, estate planning, and trust fund operations, ensuring compliance and asset appreciation. In New Zealand, this role typically requires finance or law background, and offers migration pathways via Skilled Migrant Category, Green List, or Accredited Employer Work Visa.
+Manage trust accounts, estate planning, and trust fund operations, ensuring compliance and asset growth. In New Zealand, this role typically requires a finance or legal background, with immigration options via Skilled Migrant Category, Green List, or Accredited Employer Work Visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（商科或法学学士，包含学费与生活费） |
-| 硕士 | 1-2年 | $50,000~$70,000（金融或法律硕士，含学费） |
-| 职业资格 | 1-3年 | $5,000~$15,000（如CFA或法律实践课程） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Bachelor of Business or Law, including tuition and living expenses) |
+| Master's degree | 1-2 years | $50,000~$70,000 (Master's in Finance or Law, including tuition) |
+| Professional qualifications | 1-3 years | $5,000~$15,000 (Such as CFA or Practical Legal Training course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CFA特许金融分析师 | CFA Institute | 可选 | 非强制但利于晋升 |
-| 学士学位（金融/法律） | 新西兰认可大学 | 必备 | 广泛要求 |
-| 新西兰信托从业执照 | Financial Markets Authority | 可选 | 若涉及金融顾问服务则需 |
-| IELTS 6.5 | IELTS | 必备 | 移民语言要求 |
+| Bachelor's degree (Finance/Law) | New Zealand accredited university | Required | Widely required |
+| IELTS 6.5 | IELTS | Required | Immigration language requirement |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | Not mandatory but beneficial for promotion |
+| New Zealand Trust Practitioner License | Financial Markets Authority | Optional | Required if involving financial advisory services |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰信托业稳定，需求来自财富管理机构和法律事务所。就业机会集中于奥克兰和惠灵顿，预计未来三年平稳增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. New Zealand's trust industry is stable, with demand from wealth management firms and law firms. Job opportunities are concentrated in Auckland and Wellington, with steady growth expected over the next three years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 信托助理或初级专员 |
-| 中级（3-7年） | $75,000~$100,000 | 信托专员 |
-| 高级（7年以上） | $100,000~$140,000 | 高级信托经理 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Trust assistant or junior specialist |
+| Mid-level (3–7 years) | $75,000~$100,000 | Trust officer |
+| Senior (7+ years) | $100,000~$140,000 | Senior trust manager |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级信托助理可晋升为信托专员、高级信托经理或部门主管。持有CFA或法律资格可加速职业发展。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The work of trust officers is both amplified and compressed by AI: document processing, compliance checks, etc. will be automated, but trust relationship management, complex estate planning and other work requiring high trust and judgment will be enhanced. Entry-level positions may shrink due to automation, but demand for senior experts will increase.
+
+Junior trust assistants can advance to trust officer, senior trust manager, or department head. Holding a CFA or legal qualification can accelerate career development.
+
+**Tasks most exposed to AI:**
+
+- Trust account balance reconciliation and transaction record generation
+- Filling and submission of standard compliance report templates
+- Calculation and notification of periodic distribution amounts for beneficiaries
+- File storage and retrieval of trust documents
+- Basic tax calculation and draft tax returns
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of trust asset allocation optimization plans
+- Automatically monitor market changes and prompt rebalancing opportunities
+- Use NLP to quickly extract key information from wills/trust clauses
+- AI simulates the impact of different distribution strategies on taxes and beneficiaries
+- Generate personalized client investment performance reports and recommendations
+
+**Human moat:**
+
+- Build trust and long-term relationships with high-net-worth clients
+- Handling complex family dynamics and dispute mediation
+- Ethical and emotional judgment in cross-generational estate planning
+- Customized service for interpreting and tailoring trust terms
+- Respond to regulatory changes and bear ultimate compliance responsibility
+
+**Skills to build:**
+
+- Trust and Estate Legislation (e.g., New Zealand Trusts Act)
+- AI tool applications (e.g., document automation, intelligent analysis platforms)
+- Data analysis and visualization (Python/SQL/Tableau)
+- Customer relationship management and communication
+- Tax planning basics
+- Ethical decision-making and risk management
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -64,68 +100,67 @@ Manage trust accounts, estate planning, and trust fund operations, ensuring comp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制：需满足学历、工作经验等积分，ANZSCO 2-3级职业 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 若雇主担保，工作满2年后可转居留，需符合薪资要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保临时工签，后续可申请移民 |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: must meet points for qualifications, work experience, etc.; ANZSCO skill levels 2-3 |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | If employer-sponsored, can transition to permanent residence after 2 years, subject to salary requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | Temporary skill shortage visa for accredited employers, can then apply for residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Trust Officer？**
-- 金融或法律专业毕业生
-- 注重细节与合规的谨慎人士
-- 希望在专业服务领域长期发展的技术移民
-
-**谁不适合学Trust Officer？**
-- 偏好创造性或高风险工作
-- 不习惯长期文书处理
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates in finance or law
+- Detail-oriented and compliance-conscious individuals
+- Skilled migrants seeking long-term development in professional services
+
+**Who is not suited**
+- Preference for creative or high-risk work
+- Not used to long-term paperwork processing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a trust officer in New Zealand?**
+A: Junior: about NZD $55,000-$75,000, mid-level: $75,000-$100,000, senior: up to $140,000; salary positively correlates with experience and qualifications.
+
+**Q: What immigration pathways can a trust officer take to New Zealand?**
+A: Can apply via Skilled Migrant Category (SMC 6-point system), Green List Tier 2 (Work to Residence), or Accredited Employer Work Visa (AEWV). Must meet requirements for qualifications, work experience, and salary.
+
+**Q: What are the career development prospects for a trust officer?**
+A: Can advance from assistant to specialist, senior manager, or even department director; having CFA or legal qualifications can accelerate development. With growing wealth management demand, prospects are stable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Trust Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Trust Officer in New Zealand?**
-答：Entry-level NZ$55,000-75,000, mid-level NZ$75,000-100,000, senior up to NZ$140,000, positively correlated with experience and qualifications.
-
-**问：What migration pathways are available for Trust Officers to New Zealand?**
-答：Options include Skilled Migrant Category (6-point system), Green List Tier 2 (work to residence), or Accredited Employer Work Visa (AEWV), subject to qualifications, experience, and salary criteria.
-
-**问：What are the career prospects for a Trust Officer?**
-答：Progression from assistant to officer, senior manager, or director. CFA or legal qualifications accelerate advancement. Steady growth due to wealth management demand.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

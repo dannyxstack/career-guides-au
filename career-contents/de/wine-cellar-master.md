@@ -1,59 +1,92 @@
-# Wine Cellar Master（Wine Cellar Master）职业分析 · DE
+# Wine Cellar Master — career analysis · Germany
 
-**职业代码：2912 – Wine Cellar Master。**
+**Occupation code: 2912 (KldB)**
 
-Wine cellar masters are responsible for winemaking, aging, storage, and bottling, ensuring wine quality, managing cellar conditions, and providing expertise throughout the production process.
+A wine cellar master is responsible for wine production, aging, storage, and bottling, ensuring quality, managing cellar conditions, and providing professional guidance during winemaking.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年（双元制） | —（双元制培训期间有津贴，通常无学费，仅需少量教材费） |
-| 深造（如葡萄酒技术员） | 1-2年 | $5,000~$15,000（部分课程可由雇主资助） |
+| Dual vocational training (Ausbildung) | 3 years (dual system) | $0~$500 (Allowances during dual training, usually no tuition fees, only minor material costs) |
+| Further Study (e.g., Wine Technician) | 1-2 years | $5,000~$15,000 (Some courses can be employer-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制职业培训证书（IHK） | 德国工商业联合会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 葡萄酒窖师大师证书（Meister） | 德国工商业联合会（IHK） | 可选 | 可选资格，有助于晋升和管理岗位 |
-| 资质认证（Anerkennung） | 德国各州主管机构 | 必备 | 非欧盟学历需通过认可程序 |
+| Dual vocational training certificate (IHK) | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Qualification recognition (Anerkennung) | Competent authorities in German federal states | Required | Non-EU qualifications must undergo recognition procedures |
+| Master Certificate for Wine Cellar Masters (Meister) | German Chamber of Commerce and Industry (IHK) | Optional | Optional qualification, helpful for promotion and management roles. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。德国葡萄酒行业稳定，消费市场对高品质葡萄酒需求持续，葡萄酒窖师在德国优质葡萄酒产区（如莱茵高、摩泽尔）有稳定就业机会，但竞争较激烈。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,000. The German wine industry is stable, with sustained demand for high-quality wine in the consumer market. Cellar masters have stable employment opportunities in premium German wine regions (such as Rheingau and Mosel), but competition is intense.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，因地区和酒庄规模而异 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含经验津贴 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，可能包括管理职责 |
+| Median salary | $50,112 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, varies by region and winery size |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual salary before tax, including experience allowances |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, may include management duties |
+| average salary | $52,620 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 晋升路径：从助理葡萄酒窖师到资深葡萄酒窖师，可进一步晋升为酒窖主管或酿酒师，也可转向葡萄酒营销、咨询或教育领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of a winemaker is mixed: AI can take over temperature monitoring and inventory management, but tasks relying on human senses and experience, such as tasting and winemaking decisions, are hard to replace. Proactive learning of data analysis and automation tools is needed to stay competitive.
+
+Career progression: from assistant wine cellar master to senior wine cellar master, further advancement to cellar supervisor or winemaker, or transition to wine marketing, consulting, or education.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and automatic adjustment of environmental data such as temperature and humidity in a wine cellar.
+- Inventory counting and basic record-keeping (e.g., oak barrel usage, bottle locations).
+- Routine quality testing of physicochemical indicators (e.g., sugar content, acidity)
+- Automatic control and alarm handling of fermentation processes
+
+**Where AI augments the role:**
+
+- Optimize aging time and blending ratios using AI analysis of historical data
+- Using sensor data to predict wine quality and assist decision-making
+- Leveraging smart tags and blockchain technology to enhance product traceability and authenticity verification
+- Use automated bottling lines to increase efficiency, but require manual supervision of quality
+
+**Human moat:**
+
+- Sensory evaluation skills (flavor, aroma, texture assessment)
+- Winemaking decisions (e.g., blending ratios, oak barrel selection).
+- Building interpersonal communication and trust with clients, winemakers, and distributors
+- On-site judgment for unexpected issues (e.g., equipment failure, wine quality anomalies).
+
+**Skills to build:**
+
+- Data analysis and statistics (Python/R, advanced Excel functions).
+- Sensor and IoT device operation (temperature control systems, fermentation monitoring)
+- Wine tasting and sensory science certification (e.g., WSET Advanced)
+- Knowledge of quality management systems (HACCP, ISO 22000)
+- Digital Marketing and Brand Management (social media, e-commerce platforms)
+- Sustainable practices (organic brewing, carbon footprint management)
+
+**Key growth areas:**
 
 - Wine tourism
 - Organic wine
@@ -62,68 +95,67 @@ Wine cellar masters are responsible for winemaking, aging, storage, and bottling
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历人才，需达到薪资门槛（2024年约43,800欧元） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于持有德国认可职业资格的申请人，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统的求职签证，允许在德国寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated talent, must meet salary threshold (approximately 43,800 euros in 2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to applicants with recognized German professional qualifications, requiring employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Jobseeker visa based on a points system, allowing job search in Germany |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wine Cellar Master？**
-- 热爱葡萄酒文化和酿造工艺
-- 注重细节，有耐心和观察力
-- 愿意在葡萄酒产区工作
-
-**谁不适合学Wine Cellar Master？**
-- 不喜欢体力劳动和重复性工作
-- 对葡萄酒行业不感兴趣
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for wine culture and winemaking techniques
+- Detail-oriented, patient, and observant.
+- Willing to work in a wine region
+
+**Who is not suited**
+- Dislike physical labor and repetitive work
+- Not interested in the wine industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for wine cellar managers?**
+A: Entry-level approx. €28,000–35,000, mid-level approx. €35,000–45,000, senior up to €60,000. Salary depends on winery size, region, and experience.
+
+**Q: How can non-EU citizens become a wine cellar master in Germany?**
+A: Must complete dual vocational training (Ausbildung) or obtain qualification recognition (Anerkennung). Can apply for the Opportunity Card or Skilled Worker visa.
+
+**Q: What are the career prospects for a wine cellar master?**
+A: Employment is stable, with promotion opportunities including cellar supervisor, winemaker, or transitioning to wine marketing. The German wine tourism industry also offers new career directions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Wine Cellar Master的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for wine cellar masters?**
-答：Entry-level: €28,000-35,000; mid-level: €35,000-45,000; senior: up to €60,000 gross annually, depending on winery size, region, and experience.
-
-**问：How can non-EU citizens become wine cellar masters in Germany?**
-答：They need to complete dual vocational training (Ausbildung) or obtain recognition of foreign qualifications (Anerkennung). Options include Opportunity Card or Skilled Worker Visa.
-
-**问：What are the career prospects for wine cellar masters?**
-答：Stable employment with advancement to cellar manager, winemaker, or marketing roles. Wine tourism offers additional opportunities.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

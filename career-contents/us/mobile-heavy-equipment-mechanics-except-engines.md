@@ -1,58 +1,94 @@
-# Mobile Heavy Equipment Mechanics, Except Engines（Mobile Heavy Equipment Mechanics, Except Engines）职业分析 · 美国
+# Mobile Heavy Equipment Mechanics, Except Engines — career analysis · United States
 
-**职业代码：49-3042 – Mobile Heavy Equipment Mechanics, Except Engines。**
+**Occupation code: 49-3042 (SOC)**
 
-Diagnose, adjust, repair, or overhaul mobile heavy equipment such as cranes, bulldozers, and graders used in construction, mining, and logging, focusing on mechanical, hydraulic, and pneumatic systems.
+Diagnose, adjust, repair, or overhaul mechanical, hydraulic, and pneumatic systems of mobile heavy equipment used in construction, logging, and mining (e.g., cranes, bulldozers, graders), excluding bus and truck mechanics and diesel engine specialists.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 社区学院或技术学校证书/副学士 | 1-2年 | $10,000~$30,000（学费因校而异） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Community college or technical school certificate/associate degree. | 1-2 years | $10,000~$30,000 (Tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ASE重型卡车认证 | 美国汽车服务卓越协会 | 可选 | 可选但雇主青睐 |
-| EPA 609制冷剂认证 | 美国环保局 | 必备 | 如涉及空调系统维修 |
+| EPA Section 609 Refrigerant Certification | US Environmental Protection Agency | Required | If it involves air conditioning system repair |
+| ASE heavy truck certification | Automotive Service Excellence (ASE) | Optional | Optional but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 134,000。美国就业前景良好，2022-2032年预计增长5%，与平均水平持平。基础设施投资和采矿活动增长将推动需求，但自动化技术可能限制增长。
+**Job demand: high (★★★★☆).** National workforce approx. 134,000. U.S. job outlook is good, with 5% growth projected from 2022 to 2032, about average. Infrastructure investment and mining activity growth will drive demand, but automation technology may limit growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 时薪约20-25美元 |
-| 中级（3-7年） | $55,000~$70,000 | 时薪约26-34美元 |
-| 高级（7年以上） | $70,000~$90,000 | 时薪约34-43美元，主管可达10万+ |
+| Median salary | $65,510 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$50,000 | Hourly wage approximately $20-25 |
+| Mid-level (3–7 years) | $55,000~$70,000 | Hourly wage around $26-34 |
+| Senior (7+ years) | $70,000~$90,000 | Hourly wage about $34-$43; supervisors can reach $100,000+. |
+| average salary | $69,240 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：学徒/技工→高级机械师→主管→服务经理。也可通过认证（如ASE）提升薪资和职位，或专攻特定品牌设备。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mobile heavy equipment mechanics face mixed impacts from AI: some diagnostic and scheduling tasks can be automated, but on-site repairs and troubleshooting involving unexpected conditions still rely heavily on human experience.
+
+Career path: apprentice/technician → senior mechanic → supervisor → service manager. Certification (e.g., ASE) can increase salary and position, or specialize in specific brand equipment.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic software to read fault codes and generate preliminary reports
+- Predict part replacement cycles based on historical data and automatically order
+- Conduct daily equipment status checks via remote monitoring systems
+- Writes and updates maintenance records (auto-transcription)
+- Standardized hydraulic system pressure testing procedures (AI-guided RTFM)
+
+**Where AI augments the role:**
+
+- Use AR headsets to overlay maintenance steps and 3D part diagrams for complex disassembly
+- Early warning of hidden faults through AI analysis of vibration/oil data.
+- Use natural language queries to quickly search maintenance manuals for non-standard faults
+- AI recommends optimal repair sequence to reduce downtime
+- Use digital twin to simulate repair plans, avoiding on-site mistakes
+
+**Human moat:**
+
+- Creative repair skills for on-site unexpected mechanical damage (e.g., screw shaft breakage, foreign object jamming)
+- Negotiation skills for communicating with construction supervisors and operators to coordinate maintenance windows.
+- Physical stamina and adaptability to work efficiently in harsh environments (heavy rain, mud, heights)
+- Experiential knowledge of old or modified equipment (irreplaceable when no digital records exist)
+- Instant judgment and compliance responsibility when safely operating heavy and hazardous equipment
+
+**Skills to build:**
+
+- Operate mainstream AI diagnostic platforms such as Caterpillar ET and Komatsu KOWA
+- Learn fundamentals of knowledge graph queries and augmented reality maintenance tools
+- Supplement repair skills for electrical/electronic control systems (as more equipment is electrified)
+- Improve data analysis skills (interpret AI predictive maintenance reports and verify)
+- Obtain certification for drone or remote-controlled robot-assisted inspection
+- Strengthen safety regulations and hazardous materials handling knowledge (due to new risks introduced by automation)
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Mining Activity
@@ -61,68 +97,67 @@ Diagnose, adjust, repair, or overhaul mobile heavy equipment such as cranes, bul
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求学士学位，但部分雇主可能以同等经验申请，难度较大。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 通过PERM劳工证申请，要求至少2年培训或经验，适合有经验的机械师。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的永久居留路径，需证明没有美国工人可用。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree, but some employers may accept equivalent experience; difficult |
+| Subclass EB-3 (EB-3 Skilled Workers) | Apply through PERM labor certification, requiring at least 2 years of training or experience, suitable for experienced mechanics. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residency path requires proof that no US workers are available. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mobile Heavy Equipment Mechanics, Except Engines？**
-- 喜欢动手操作和机械维修的人
-- 适应户外和现场工作环境的人
-- 愿意通过持续学习掌握新技术的人
-
-**谁不适合学Mobile Heavy Equipment Mechanics, Except Engines？**
-- 不习惯体力劳动和恶劣天气的人
-- 对复杂液压和气动系统不感兴趣的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy hands-on work and mechanical repair
+- People who adapt to outdoor and on-site work environments
+- People willing to continuously learn new technologies
+
+**Who is not suited**
+- Those not used to physical labor and bad weather
+- People not interested in complex hydraulic and pneumatic systems
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Mobile Heavy Equipment Mechanic?**
+A: According to 2023 US Bureau of Labor Statistics data, the average median annual salary is approximately $57,000; entry-level is around $40,000, and experienced can exceed $90,000.
+
+**Q: Can this occupation immigrate to the US through a work visa?**
+A: Yes, but difficult. Typically requires employer-sponsored H-1B (if bachelor's degree or equivalent experience) or EB-3 green card via PERM labor certification.
+
+**Q: What education is needed to become a mobile heavy equipment mechanic?**
+A: Typically requires a high school diploma, then completion of a 1-2 year technical school certificate or apprenticeship. ASE certification can improve job prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mobile Heavy Equipment Mechanics, Except Engines的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mobile heavy equipment mechanics?**
-答：According to BLS 2023 data, the median annual wage is about $57,000, with entry-level around $40,000 and experienced over $90,000.
-
-**问：Can this occupation be used for US work visa immigration?**
-答：Yes, but challenging. Requires employer sponsorship for H-1B (if bachelor's degree or equivalent) or EB-3 green card via PERM.
-
-**问：What education is needed to become a mobile heavy equipment mechanic?**
-答：Typically a high school diploma followed by 1-2 year technical certificate or apprenticeship. ASE certification improves prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

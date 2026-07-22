@@ -1,59 +1,94 @@
-# Well Driller and Borer（Well Driller and Borer）职业分析 · NL
+# Well Driller and Borer — career analysis · Netherlands
 
-**职业代码：8113 – Well Driller and Borer。**
+**Occupation code: 8113 (ISCO08)**
 
-Operate drilling and boring equipment to drill wells for water, oil, gas, or geothermal energy exploration and extraction, and perform related maintenance tasks.
+Operate drilling and boring equipment to drill wells for water, oil, gas, or geothermal energy exploration and extraction, and perform related maintenance work.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | —（MBO级别，学费政府资助，每年约1000-2000欧元） |
-| 短期培训课程 | 6-12个月 | $2,000~$8,000（私立培训中心，如VHG或IADC认证课程） |
+| Secondary vocational education | 2-3 years | $0~$6,000 (MBO level, government-funded tuition, approximately €1000-2000 per year) |
+| Short-term training course | 6–12 months | $2,000~$8,000 (Private training centers, such as VHG or IADC accredited courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钻井操作员证书 | 荷兰钻井协会（VHG） | 可选 | 行业认可，通常要求工作经验 |
-| 安全证书（VCA） | 荷兰安全认证机构 | 必备 | 基础安全培训，必考 |
-| 重型机械操作执照 | 荷兰交通部（RDW） | 必备 | 操作大型钻机需要 |
+| Safety certificate (VCA) | Dutch safety certification body | Required | Basic safety training, mandatory exam |
+| Heavy machinery operation license | Netherlands Vehicle Authority (RDW) | Required | Operating large drilling rigs requires |
+| Drilling operator certificate | Dutch Drilling Association (VHG) | Optional | Industry recognized, usually requires work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。荷兰地热能源发展推动钻井需求，但传统油气钻探岗位增长缓慢，整体就业稳定，受基础设施和能源转型项目支撑。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. The development of geothermal energy in the Netherlands drives drilling demand, but traditional oil and gas drilling positions grow slowly; overall employment is stable, supported by infrastructure and energy transition projects.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，包括津贴 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，经验丰富者可更高 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，主管级别 |
+| Median salary | $32,011 | Median salary (Official: CBS median hourly wage €16.2/hour × 1976h annualized, BRC group 0781 Hulpkrachten bouw en industrie; P25–P75 €30,035–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, including allowances |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, higher for experienced candidates |
+| Senior (7+ years) | $45,000~$55,000 | Annual salary before tax, supervisor level |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从钻工助手晋升为钻机操作员、钻探主管或项目现场经理，也可通过培训转向地热或水文地质钻探等专业领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI/automation on drilling occupations is mixed: advanced geosteering and data analysis can improve efficiency, but physical operations and on-site decision-making are hard to replace.
+
+Can advance from driller's assistant to drilling rig operator, drilling supervisor, or project site manager, or transition to specialized fields such as geothermal or hydrogeological drilling through training.
+
+**Tasks most exposed to AI:**
+
+- Drilling parameter monitoring and recording (AI sensor automated collection).
+- Basic Geological Data Interpretation and Report Generation (AI Model Analysis)
+- Preliminary diagnosis of equipment faults (AI predictive maintenance system)
+- Routine testing of drilling fluid properties (automated testing equipment)
+
+**Where AI augments the role:**
+
+- Real-time drilling optimization suggestions (AI adjusts parameters based on formation data)
+- 3D visualisation and path planning of complex geological structures
+- Safety risk assessment and early warning (AI integrating multi-source data)
+- Remote operation guidance and training (AR/VR + AI expert system)
+- Drilling efficiency analysis and solution iteration (AI simulation of different strategies)
+
+**Human moat:**
+
+- Ability to handle on-site emergencies (e.g., blowouts, stuck pipes)
+- Non-verbal sensory experience of auditory/tactile anomalies in equipment
+- Cross-team communication and on-site decision coordination
+- Responsibility and compliance awareness in high-risk environments.
+- Intuitive judgment of local geological conditions (based on years of experience)
+
+**Skills to build:**
+
+- Data analysis and basic programming (Python/R)
+- Operate automated drilling systems (e.g., remote control center software)
+- Basics of geosteering and log interpretation
+- Equipment IoT and sensor maintenance
+- Application of AI tools (e.g., drilling speed prediction models)
+- Safety and environmental regulations (new technologies related to carbon capture).
+
+**Key growth areas:**
 
 - Geothermal energy
 - Infrastructure projects
@@ -62,68 +97,67 @@ Operate drilling and boring equipment to drill wells for water, oil, gas, or geo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达到门槛的技术人才，需雇主担保，2024年门槛约€5,331/月（30岁以上）或€3,909/月（30岁以下）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约€5,867/月，需工作合同且有效期至少1年。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的留学生或研究型硕士/博士，可在毕业后1年内找工作，无薪资门槛。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled talent meeting the salary threshold, requires employer sponsorship; 2024 threshold approximately €5,331/month (over 30) or €3,909/month (under 30). |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, salary threshold about €5,867/month, requires an employment contract valid for at least 1 year. |
+| Subclass Orientation Year (Orientation Year) | For graduates from Dutch universities or research master's/PhD students, allows a 1-year job search after graduation with no salary threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Well Driller and Borer？**
-- 喜欢户外和体力工作的人
-- 对机械操作和钻探技术感兴趣的人
-- 愿意在地热或环保领域发展的人
-
-**谁不适合学Well Driller and Borer？**
-- 不喜欢户外或恶劣天气工作的人
-- 对繁重体力劳动不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor and physical work
+- People interested in mechanical operation and drilling techniques
+- Those willing to develop in the geothermal or environmental protection fields
+
+**Who is not suited**
+- People who dislike outdoor or harsh weather work
+- People who are not suited to heavy physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a driller?**
+A: junior annual salary approx. €28,000-€35,000, mid-level €35,000-€45,000, senior up to €55,000, excluding overtime allowances.
+
+**Q: How can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Can apply via Highly Skilled Migrant visa or EU Blue Card, requires employer sponsorship and meeting annual salary threshold. Geothermal energy sector may be preferred.
+
+**Q: Is Drilling Operator a shortage occupation in the Netherlands?**
+A: Not currently officially listed as in shortage, but geothermal energy development brings some demand, overall competition is not intense.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Well Driller and Borer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for well drillers?**
-答：Entry-level annual salary is around €28,000-€35,000, mid-level €35,000-€45,000, senior up to €55,000, excluding overtime allowances.
-
-**问：How can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Via the Highly Skilled Migrant visa or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Geothermal energy sector may be favored.
-
-**问：Is well driller a shortage occupation in the Netherlands?**
-答：Currently not officially listed as shortage, but geothermal energy development creates some demand; overall competition is moderate.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Baker（Baker）职业分析 · IT
+# Baker — career analysis · Italy
 
-**职业代码：7512 – Baker。**
+**Occupation code: 7512 (ISCO08)**
 
-Bakers, pastry-cooks and confectionery makers prepare and bake bread, pastries, cakes and other baked goods, working in bakeries, hotels and food factories in Italy.
+Bakers, pastry chefs, and confectionery makers are responsible for baking bread, pastries, cakes, and other baked goods, working in bakeries, hotels, and food factories in Italy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年 | —（公立职业培训中心通常免费或低费） |
-| 学徒制 | 3年 | —（学徒期间有工资，培训免费） |
+| Vocational training | 2 years | $0~$2,000 (Public vocational training centers are usually free or low-cost.) |
+| Apprenticeship | 3 years | $0~$0 (Wages during apprenticeship, free training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全与卫生证书 | 地方卫生局 | 必备 | 从事食品行业必备 |
-| 职业资格证书 | 大区职业培训中心 | 可选 | 非强制但有助于就业 |
+| Food safety and sanitation certificate | Local Health District | Required | Essential for the food industry |
+| Professional qualifications | Regional vocational training center | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。意大利烘焙行业就业稳定，受当地食品文化支撑，但自动化可能减少部分低技能岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. Employment in the Italian baking industry is stable, supported by local food culture, but automation may reduce some low-skilled positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，首席面包师或店长更高 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, higher for head baker or store manager |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或初级面包师起步，通过经验积累晋升为首席面包师或烘焙店经理，也可创业开设自有烘焙店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
+
+Can start as an apprentice or junior baker and advance to head baker or bakery manager through experience, or start their own bakery business.
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+**Key growth areas:**
 
 - Artisan bakery
 - Gluten-free
@@ -61,68 +96,67 @@ Bakers, pastry-cooks and confectionery makers prepare and bake bread, pastries, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民通过年度配额申请，需雇主担保，适用于非紧缺职业。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，需大学学历或5年经验，薪资门槛较高，面包师通常不满足。 |
-| Subclass 欧盟自由流动（EU Free Movement） | 欧盟/EEA公民无需签证即可在意大利工作。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply through annual quotas, require employer sponsorship, applicable to non-shortage occupations. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled workers, requires university degree or 5 years of experience, with a high salary threshold; bakers typically do not meet this. |
+| Subclass EU Freedom of Movement (EU Free Movement) | EU/EEA citizens can work in Italy without a visa. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Baker？**
-- 喜欢动手制作和烘焙的人
-- 享受早起工作并有体力耐力的人
-- 有创造力并注重食品质量的人
-
-**谁不适合学Baker？**
-- 不习惯早起或长时间站立的人
-- 对重复性劳动缺乏耐心的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on making and baking
+- People who enjoy waking up early and have physical stamina
+- Creative individuals with a focus on food quality
+
+**Who is not suited**
+- People not accustomed to waking up early or standing for long periods
+- Individuals lacking patience for repetitive tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bakers in Italy?**
+A: Junior bakers earn about €18,000-22,000 per year, intermediate €22,000-28,000, senior or head bakers up to €35,000, depending on region and experience.
+
+**Q: How can non-EU citizens immigrate to Italy as a baker?**
+A: Mainly via Decreto Flussi annual quota work visa, requiring employer sponsorship. EU citizens can move freely. EU Blue Card generally not applicable.
+
+**Q: What are the career development paths for bakers?**
+A: Can progress from apprentice to head baker, or advance to bakery manager, or start their own bakery business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Baker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bakers in Italy?**
-答：Entry-level bakers earn around €18,000-22,000 per year, mid-level €22,000-28,000, and senior or head bakers up to €35,000, depending on region and experience.
-
-**问：How can non-EU citizens migrate to Italy as bakers?**
-答：Mainly through the Decreto Flussi annual quota work visa with employer sponsorship. EU citizens can freely move. EU Blue Card is usually not applicable.
-
-**问：What career paths are available for bakers?**
-答：Bakers can progress from apprentice to head baker, advance to bakery manager, or start their own bakery business.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,88 @@
-# 厨房帮工（Kitchenhand）职业分析 · 澳大利亚
+# Kitchenhand — career analysis · Australia
 
-**职业代码：851311 – Kitchenhand。**
+**Occupation code: 851311 (ANZSCO)**
 
-厨房帮工协助备菜、清洗和厨房杂务，是餐饮业入门岗位，常作为转厨师的起点，受Hospitality Award保护，非技术移民职业。
+Kitchen hands assist with food preparation, washing, and general kitchen duties. It is an entry-level hospitality role, often used as a stepping stone to becoming a chef, covered under the Hospitality Award, and is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无强制学历（在岗培训） | 即时 | —（雇主培训） |
+| No mandatory qualifications (on-the-job training) | Immediate | $0~$0 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Food Safety / Food Handling（建议） | 在线/RTO | 可选 | 部分场所要求 |
+| Food Safety / Food Handling (recommended) | Online/RTO | Optional | Required by some venues |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 120,000。餐饮业用工需求大但流动性高；可作为转厨师的过渡。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Demand in hospitality is high but turnover is also high; this role can serve as a stepping stone toward becoming a chef.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 3,000~6,000 个 | 全国，多casual |
-| Indeed | 2,500~5,000 个 | 全国 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门（casual） | $48,000~$56,000 | 时薪约$25~$30含补贴 |
-| 全职 | $54,000~$62,000 | Hospitality Award |
+| Median salary | $67,184 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level (casual) | $48,000~$56,000 | Hourly rate approximately $25–$30 including allowances |
+| Full-time | $54,000~$62,000 | Hospitality Award |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向厨师、厨房主管发展（厨师为STSOL移民职业）。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Kitchen hand is a high-risk automation role; AI and robots will significantly replace repetitive tasks like food prep and washing, reducing entry-level positions, but humans still have advantages in complex kitchen coordination and quality control.
+
+Progression is possible towards cook or kitchen supervisor roles (cook is an STSOL migration occupation).
+
+**Tasks most exposed to AI:**
+
+- Using an automatic dishwasher to clean dishes and kitchen utensils
+- Intelligent food preparation robot chopping vegetables and portioning ingredients
+- AI inventory system automatically manages ingredient purchasing and stocktaking
+- Robots complete floor cleaning and waste disposal
+
+**Where AI augments the role:**
+
+- AI recipe recommendation system helps design seasonal menus
+- Smart scheduling tools optimize personnel allocation and shift rotations
+- Digital quality control records for kitchen hygiene and temperature
+
+**Human moat:**
+
+- Flexible response to complex kitchen emergencies
+- Sensory evaluation of food freshness and quality
+- Efficient and tacit collaboration with chef teams
+- Strict enforcement of hygiene standards and on-site management
+
+**Skills to build:**
+
+- Basic digital literacy and operation of tablet ordering systems
+- Basic food hygiene and safety certification (e.g., SITXFSA005)
+- Time management and multitasking coordination skills
+- Team communication and conflict resolution skills
+- Learning to use simple automated equipment maintenance
+
+**Key growth areas:**
 
 - Food Prep
 - Commercial Kitchen Ops
@@ -64,57 +90,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学厨房帮工？**
-- 想入行餐饮、之后转厨师者
-- 能接受快节奏与轮班者
-
-**谁不适合学厨房帮工？**
-- 以技术移民为直接目标者
-- 不适应厨房高温与体力者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those looking to enter hospitality with a view to becoming a chef later
+- Able to handle a fast-paced environment and shift work
+
+**Who is not suited**
+- Those pursuing skilled migration as a direct goal
+- Not suited to those who cannot tolerate high kitchen temperatures and physical demands
+
+---
+
+## 8. FAQ
+
+**Q: How much do kitchen hands earn in Australia?**
+A: Casual hourly rate about $25-$30, full-time about $54,000-$62,000.
+
+**Q: Can kitchen hands migrate to Australia on a skilled visa?**
+A: No. However, it can serve as a stepping stone to qualifying as a Cook (an STSOL migration occupation).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-厨房帮工属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲厨房帮工工资多少？**
-答：casual时薪约$25~$30，全职约$5.4万~$6.2万。
-
-**问：厨房帮工能技术移民吗？**
-答：不能。但可作为转厨师（Cook，STSOL移民职业）的起点。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

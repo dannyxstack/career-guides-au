@@ -1,59 +1,94 @@
-# Directors of Other Social Services（Directors of Other Social Services）职业分析 · ES
+# Directors of Other Social Services — career analysis · Spain
 
-**职业代码：1325 – Directors of Other Social Services。**
+**Occupation code: 1325 (CNO)**
 
-Plan, organize, and manage social service programs not elsewhere classified, such as family assistance, community development, and disability services, ensuring quality and regulatory compliance.
+Responsible for planning, organizing, and managing non-specialized social service projects, such as family assistance, community development, and services for people with disabilities, ensuring service quality and compliance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$3,000（公立大学学费，因自治区而异） |
-| 硕士（Máster） | 1-2年 | $1,500~$5,000（社会服务管理或公共政策方向） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Tuition fees at public universities vary by region) |
+| Máster | 1-2 years | $1,500~$5,000 (Social service management or public policy directions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作本科 | 西班牙大学 | 必备 | 通常要求相关领域学位 |
-| 社会服务管理硕士 | 西班牙大学 | 可选 | 非强制但提升晋升机会 |
-| 官方语言能力证明 | 西班牙教育部门 | 必备 | 需西班牙语C1以上，部分自治区要求加泰语等 |
+| Bachelor's degree in Social Work | Spanish University | Required | Typically requires a degree in a related field |
+| Proof of official language proficiency | Spanish education sector | Required | Spanish C1 or above is required; some autonomous regions require Catanish, etc |
+| Master of Social Service Management | Spanish University | Optional | Non-mandatory but increases promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 6,000。西班牙老龄化加剧和社会福利需求增长，推动社会服务管理岗位持续扩张。公共和私营部门均需此类人才，尤其在社区护理和老年服务领域。
+**Job demand: high (★★★★☆).** National workforce approx. 6,000. Spain's aging population and growing social welfare demands are driving the continuous expansion of social service management positions. Both the public and private sectors need such talent, especially in community care and aged services.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公共或中型私营机构 |
-| 中级（3-7年） | $35,000~$45,000 | 大型机构或区域管理 |
-| 高级（7年以上） | $45,000~$60,000 | 国家级总监或大型基金会 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Public or medium-sized private institutions |
+| Mid-level (3–7 years) | $35,000~$45,000 | Large institutions or regional management |
+| Senior (7+ years) | $45,000~$60,000 | National directors or large foundations |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从社会工作者或项目协调员起步，逐步晋升至区域或全国性服务总监。可通过攻读公共管理硕士或社会政策博士提升竞争力，进入政府高层或非营利组织管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the social services director's data analysis, process management, and report generation capabilities, but core interpersonal coordination and ethical decision-making still require human leadership, resulting in lower job risk.
+
+Typically, they start as social workers or project coordinators and gradually advance to regional or national service directors. You can enhance your competitiveness by pursuing a master's degree in public administration or a doctorate in social policy, and enter senior government or management positions in non-profit organizations.
+
+**Tasks most exposed to AI:**
+
+- Manually organize service cases and statistical reports
+- Basic qualification review and document classification
+- Meeting schedule and notification distribution
+- Standard compliance checks and log recording
+
+**Where AI augments the role:**
+
+- Using AI to analyze community demand data and optimize service resource allocation
+- Use natural language processing to generate policy briefs and reports
+- Identify high-risk families through predictive models and intervene early
+- Automated project management tools track progress and performance
+- Intelligent customer service handles common inquiries, freeing up manpower for in-depth case study
+
+**Human moat:**
+
+- Cross-departmental interest coordination and political sensitivity
+- Judgments and decisions regarding ethical dilemmas
+- Communication skills to build trust with service recipients
+- Rapid response capabilities in crisis management
+- The ability to empathize with complex socio-cultural backgrounds
+
+**Skills to build:**
+
+- Data visualisation tools (e.g., Tableau, Power BI).
+- Project management software (e.g., Asana, Jira)
+- Basic Python or R is used for data analysis
+- AI ethics and awareness of algorithmic bias
+- Community-participatory research methods
+- Cross-disciplinary communication and change management
+
+**Key growth areas:**
 
 - social services
 - aging population
@@ -62,68 +97,67 @@ Plan, organize, and manage social service programs not elsewhere classified, suc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需本科以上学历和高于平均水平的工资（约年薪33,908欧元），可携带家属。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，要求工作合同和符合职业短缺证明，适用于社会服务管理岗位。 |
-| Subclass Busqueda empleo（Job Search Visa） | 毕业生可申请，允许在西班牙停留12个月寻找工作，找到后转工作居留。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a bachelor's degree or above and above-average salary (approximately €33,908 per year), allowing family members. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship required, work contract and proof of occupational shortage requirements, applicable to social service management positions. |
+| Subclass Busqueda empleo (Job Search Visa) | Graduates can apply to stay in Spain for 12 months looking for work, and after finding one, switch to work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Directors of Other Social Services？**
-- 具备领导力和组织能力的社会工作或公共管理背景人士
-- 有志于改善社会福利和社区发展的职业人士
-- 愿意在多元文化环境中工作并处理复杂社会问题的人
-
-**谁不适合学Directors of Other Social Services？**
-- 期望高薪快速回报者
-- 不擅长人际沟通和危机处理者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with leadership and organizational skills in social work or public administration
+- Professionals committed to improving social welfare and community development
+- Individuals willing to work in multicultural environments and handle complex social issues
+
+**Who is not suited**
+- Those expecting high salaries and quick returns
+- Not good at interpersonal communication and crisis management
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Social Services Director?**
+A: In Spain, junior social service directors earn about 28,000-35,000 euros annually, while senior positions can earn 45,000-60,000 euros. Public institutions generally earn less than private companies but have more stable benefits.
+
+**Q: How can overseas professionals immigrate to Spain to work in social service management?**
+A: Common pathways include EU Blue Card (requires high salary contract) or work residence permit (requires employer sponsorship). If qualifications are not EU-issued, they must be homologated, and B2 or higher Spanish proficiency is required.
+
+**Q: What are the career prospects for a Social Services Director?**
+A: Due to Spain's aging population and the expansion of welfare services, demand is steadily growing. Promotion paths include becoming a regional director, government policy advisor, or senior manager of an NGO, with broad prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Directors of Other Social Services的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for directors of social services?**
-答：In Spain, entry-level directors earn around €28,000-€35,000, while senior positions can reach €45,000-€60,000 annually. Public sector salaries are generally lower than private but offer more stability.
-
-**问：How can overseas professionals migrate to Spain for social service management?**
-答：Common routes include the EU Blue Card (requires high salary) or employed work permit (requires employer sponsorship). Non-EU degrees need homologación, and Spanish proficiency of at least B2 is essential.
-
-**问：What is the career outlook for directors of social services?**
-答：Due to Spain's aging population and expanding welfare services, demand is steadily growing. Career progression includes regional director, government policy advisor, or senior NGO manager, with promising prospects.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Woodworking Machine Tool Setter and Operator（Woodworking Machine Tool Setter and Operator）职业分析 · IE
+# Woodworking Machine Tool Setter and Operator — career analysis · Ireland
 
-**职业代码：7523 – Woodworking Machine Tool Setter and Operator。**
+**Occupation code: 7523 (ISCO08)**
 
-Sets up and operates woodworking machines such as saws, planers, and routers to process timber and板材. Common in furniture manufacturing, construction joinery, and timber yards.
+Operate and set woodworking machines such as saws, planers, and routers for processing timber and panels. Common in furniture manufacturing, construction carpentry, and timber processing industries.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业加在职培训 | 2年（学徒制） | —（学徒制通常由雇主资助） |
-| 职业培训证书 | 1年（全日制） | $1,000~$3,000（如FETAC Level 5课程） |
+| High school graduation plus on-the-job training | 2 years (apprenticeship) | $0~$500 (Apprenticeships are usually funded by employers) |
+| Vocational training certificate | 1 year (full-time) | $1,000~$3,000 (e.g., FETAC Level 5 course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工操作安全证书 | 健康与安全管理局（HSA） | 必备 | 操作木工机械前必须持有 |
-| 学徒制完成证书 | SOLAS | 可选 | 完成注册学徒计划后颁发 |
-| 国家职业资格（NFQ）Level 5 | QQI | 可选 | 有助于就业但非强制 |
+| Woodworking Safety Certificate | Health and Safety Authority (HSA) | Required | Must hold before operating woodworking machinery |
+| Certificate of apprenticeship completion | SOLAS | Optional | Issued after completing a registered apprenticeship program |
+| National Framework of Qualifications (NFQ) Level 5 | QQI | Optional | Helpful for employment but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,800。爱尔兰建筑与家具制造业持续活跃，木工机床操作员需求稳定。受住房建设与装修市场拉动，预计未来五年岗位数量保持平稳，但自动化可能影响低技能岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,800. Ireland's construction and furniture manufacturing sectors remain active, with stable demand for woodworking machine operators. Driven by housing and renovation markets, job numbers are expected to stay steady over the next five years, though automation may impact low-skilled roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $34,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：从操作员晋升为高级设定员或生产主管，也可向木工技师或质量检验方向发展。部分经验者可自主创业从事定制家具或装修。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Woodworking machine operators face automation risk, but AI technology can enhance their design optimization and quality control capabilities, moderately raising the entry barrier.
+
+Career progression path: from operator to senior setter or production supervisor, or towards woodworking technician or quality inspector. Some experienced individuals can start their own business in custom furniture or renovation.
+
+**Tasks most exposed to AI:**
+
+- Automated wood cutting, drilling and other standardised processing according to preset programs.
+- Automatically detects and marks wood defects using machine vision
+- Automatic tool change and parameter adjustment for different workpieces
+- Generate standardised machining paths and upload them to CNC machines
+- Monitor equipment operating status and automatically alarm for faults
+
+**Where AI augments the role:**
+
+- AI-assisted optimized cutting plans to reduce material waste
+- Guiding complex assembly processes using augmented reality (AR)
+- Using machine learning to predict tool wear and optimize tool change timing
+- AI analyses historical data to provide production scheduling recommendations for improving efficiency
+- Integrate sensor data for real-time quality monitoring and feedback
+
+**Human moat:**
+
+- Manual adjustment and assembly of non-standard, irregularly shaped timber components
+- Intuitive judgment of the aesthetics and feel of wood products
+- Communicate on-site with customers for customized requirements and flexibly modify designs
+- On-site diagnosis and repair of equipment failures
+- Cross-process coordination and production flow management
+
+**Skills to build:**
+
+- CNC programming and operation (G-code, etc.)
+- CAD/CAM software (e.g., SolidWorks, Fusion 360)
+- AI/Machine learning basics (for predictive maintenance)
+- Robot integration and commissioning
+- Data Analysis and Visualization (Python or Excel)
+- Safe and sustainable manufacturing standards
+
+**Key growth areas:**
 
 - Construction
 - Furniture Manufacturing
@@ -64,62 +100,64 @@ Sets up and operates woodworking machines such as saws, planers, and routers to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪至少30,000欧元的岗位，需劳动力市场测试。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国企业内部调动至爱尔兰，需管理层或专业技术岗位。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary of at least €30,000, subject to labor market testing. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer to Ireland, requiring management or specialist technical roles. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Woodworking Machine Tool Setter and Operator？**
-- 喜欢动手操作机器、注重安全规范的人
-- 愿意从事体力劳动、适应工厂环境的人
-- 对木工和制造业有基本兴趣的求职者
+**Who is suited**
+- People who enjoy hands-on machine operation and prioritize safety regulations
+- People willing to engage in physical labor and adapt to a factory environment.
+- Job seekers with basic interest in woodworking and manufacturing
 
-**谁不适合学Woodworking Machine Tool Setter and Operator？**
-- 不喜欢重复性工作或嘈杂环境的人
-- 寻求高薪或快速晋升的人
+**Who is not suited**
+- People who dislike repetitive work or noisy environments
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a woodworking machine operator?**
+A: Entry-level annual salary is about €25,000-30,000, senior can reach €38,000-45,000.
+
+**Q: Can this occupation immigrate to Ireland through a work visa?**
+A: This occupation is not on the critical skills occupation list; a general employment permit is required, with an annual salary of at least EUR 30,000, and the employer must prove that local recruitment is not possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Woodworking Machine Tool Setter and Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a woodworking machine setter and operator?**
-答：Entry-level salary is about €25,000-€30,000 per year, while experienced workers can earn €38,000-€45,000.
-
-**问：Can this occupation lead to a work visa for Ireland?**
-答：It is not on the Critical Skills list. General Employment Permit requires salary ≥€30,000 and labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Teaching Professionals Not Elsewhere Classified（Teaching Professionals Not Elsewhere Classified）职业分析 · IT
+# Teaching Professionals Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：2359 – Teaching Professionals Not Elsewhere Classified。**
+**Occupation code: 2359 (ISCO08)**
 
-Covers various teaching professionals not elsewhere classified, such as language teachers and vocational trainers. In Italy, they typically work in private schools, training organizations, or corporate education departments.
+Includes various unclassified teaching professionals, such as language teachers and vocational trainers. In Italy, these individuals typically work in private schools, training institutions, or corporate education departments.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $800~$3,000（公立大学学费（因家庭收入而异）） |
-| 硕士 | 2年（硕士） | $1,500~$5,000（公立大学学费（因家庭收入而异）） |
+| Bachelor's degree | 3 years (bachelor's) | $800~$3,000 (Public university tuition fees (varies by family income)) |
+| Master's degree | 2 years (Master's) | $1,500~$5,000 (Public university tuition fees (varies by family income)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证（意大利语授课） | 意大利教育部 | 必备 | 公立学校教学必备 |
-| CEDILS（意大利语对外教学证书） | 威尼斯大学 | 可选 | 对外意大利语教学认可 |
-| 教学经验认证 | 培训机构 | 可选 | 私立机构看重 |
+| Teaching Qualification (Italian Language Instruction) | Italian Ministry of Education | Required | Essential for teaching in public schools |
+| CEDILS (Certificate in Teaching Italian as a Foreign Language) | Ca' Foscari University of Venice | Optional | Recognition of teaching Italian as a foreign language |
+| Teaching experience certification | Training institution | Optional | Valued by private institutions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 85,000。意大利教育行业受出生率下降和移民学生增加影响，对语言和融合教育教师需求上升。同时，终身学习和职业培训需求增长，为未归类教学专业人员创造机会。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 85,000. Italy's education sector is affected by declining birth rates and increasing immigrant students, leading to rising demand for language and integration education teachers. Meanwhile, lifelong learning and vocational training demand is growing, creating opportunities for unclassified teaching professionals.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 私立语言学校或培训机构 |
-| 中级（3-8年） | $28,000~$38,000 | 私立学校或企业培训部门 |
-| 高级（8年以上） | $38,000~$50,000 | 课程开发主管或资深培训师 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Private language school or training institution |
+| Mid-level (3–8 years) | $28,000~$38,000 | Private schools or corporate training departments |
+| Senior (8+ years) | $38,000~$50,000 | Curriculum Development Supervisor or Senior Trainer |
+| average salary | $33,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径可从初级讲师晋升为高级培训师或课程开发主管。持教育学或相关领域硕士学历者更易进入公立教育体系，但私立机构更看重实践经验和认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation includes many sub-fields, with AI's impact varying greatly: some tasks like language teaching are partially replaced by AI, but tasks requiring interpersonal interaction and customised design, such as corporate training, are enhanced. Overall mixed prospects.
+
+Career paths can progress from junior instructor to senior trainer or curriculum development supervisor. Holding a master's degree in education or a related field facilitates entry into the public education system, but private institutions value practical experience and certifications more.
+
+**Tasks most exposed to AI:**
+
+- Standardized language drills and oral scoring
+- Basic computer skills training
+- Generates standardised lesson plans and practice exercises
+- Recording and distribution of online courses.
+- Simple Q&A and homework grading
+
+**Where AI augments the role:**
+
+- Use AI to generate custom teaching content and practice questions
+- Analyze student learning data through AI to adjust teaching strategies
+- Uses AI to assist in personalized tutoring and feedback
+- Teach multiple languages using AI translation and voice recognition tools
+- Use AI-simulated scenarios for vocational training
+
+**Human moat:**
+
+- Complex interpersonal communication and emotional interaction
+- Cross-Cultural Understanding and Sensitivity
+- Course design and innovative thinking
+- Ethical judgment and value guidance
+- Differentiated instruction for students with special needs
+
+**Skills to build:**
+
+- AI teaching tool integration and use
+- Data analysis and learning analytics
+- Curriculum design and learning experience design
+- Interdisciplinary knowledge integration
+- Soft skills such as communication, emotional intelligence, and leadership
+- Remote teaching and digital collaboration
+
+**Key growth areas:**
 
 - Lifelong Learning
 - Digital Education
@@ -64,69 +100,68 @@ Covers various teaching professionals not elsewhere classified, such as language
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及不低于平均工资1.5倍的合同，有效期1-4年，可转永居 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额制，针对非欧盟低技能或中等技能工人，需雇主担保，配额有限且竞争激烈 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳工局申请工作许可，审核通过后申请人可在海外申请工作签证 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and a contract with salary at least 1.5 times the average wage, valid for 1-4 years, with pathway to permanent residence. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system for non-EU low- or medium-skilled workers, requires employer sponsorship, limited quotas and competitive |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the labor bureau; after approval, applicants can apply for a work visa overseas. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Teaching Professionals Not Elsewhere Classified？**
-- 热爱教学并具备良好沟通能力的人
-- 拥有教育学或语言学位，愿意持续学习
-- 适应多元文化环境，有耐心和灵活性
-
-**谁不适合学Teaching Professionals Not Elsewhere Classified？**
-- 对低薪或兼职工作不满意的人
-- 不愿考取意大利教育认证的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love teaching and have good communication skills
+- Hold a degree in education or languages, willing to engage in continuous learning
+- Adapt to multicultural environments, patient and flexible
+
+**Who is not suited**
+- People dissatisfied with low-paid or part-time jobs
+- People unwilling to obtain Italian education certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of unclassified teaching professionals in Italy?**
+A: Junior staff annual salary about 20,000-28,000 euros, mid-level about 28,000-38,000 euros, senior up to 50,000 euros. Private institutions usually pay less than public, with fewer benefits.
+
+**Q: How can non-EU citizens obtain a teaching work visa in Italy?**
+A: Available via EU Blue Card (requires high skills) or Decreto Flussi quota work visa. Blue Card requires a university degree and a contract with salary 1.5 times above average; quota visa requires employer application within annual quotas.
+
+**Q: Does this occupation have growth prospects in Italy?**
+A: Yes, lifelong learning and vocational training demand is growing; language teaching remains popular due to immigration influx. However, the public education system is highly competitive, while private institutions are more flexible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Teaching Professionals Not Elsewhere Classified为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for teaching professionals not elsewhere classified in Italy?**
-答：Entry-level salary is around 20,000-28,000 EUR, mid-level 28,000-38,000 EUR, and senior up to 50,000 EUR per year. Private institutions offer lower pay but less benefits.
-
-**问：How can non-EU citizens obtain a teaching work visa for Italy?**
-答：Through the EU Blue Card (for high-skilled) or Decreto Flussi quota work visa. Blue Card requires a university degree and a salary 1.5 times the average; quota visa requires employer sponsorship within annual caps.
-
-**问：Does this profession have good career prospects in Italy?**
-答：Yes, demand for lifelong learning and vocational training is growing, and language teaching is popular due to immigration. However, public education is competitive; private sector is more flexible.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Forestry professionals（Forestry professionals）职业分析 · 加拿大
+# Forestry professionals — career analysis · Canada
 
-**职业代码：21111 – Forestry professionals。**
+**Occupation code: 21111 (NOC)**
 
-Forestry professionals manage forest resources, including forest conservation, sustainable management, timber assessment, and environmental impact evaluation. They work in government and private sectors to ensure forest ecosystem health and productivity.
+Forestry professionals are responsible for managing forest resources, including forest conservation, sustainable management, timber assessment, and environmental impact assessment. They work in government and private sectors to ensure the health and productivity of forest ecosystems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学士学位 | 4年 | $15,000~$30,000（学费因大学和省份而异） |
-| 硕士学位（可选，有助于晋升） | 1-2年 | $10,000~$25,000（部分岗位可能需要） |
-| 技术文凭（林业技术） | 2-3年 | $8,000~$15,000（适合技术员职位） |
+| Bachelor's degree | 4 years | $15,000~$30,000 (Tuition fees vary by university and province) |
+| Master's degree (optional, helps with promotion) | 1-2 years | $10,000~$25,000 (May be required for some positions) |
+| Technical Diploma (Forestry Technology) | 2-3 years | $8,000~$15,000 (Suitable for technician roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册林业师（RPF） | 省级林业专业协会 | 必备 | 在许多省份是必备资质，需通过考试和工作经验 |
-| 林业学位 | 认证大学 | 必备 | 通常要求四年制学士学位 |
-| 安全认证（例如，野外急救） | 相关机构 | 可选 | 适用于实地工作，非强制但推荐 |
+| Registered Professional Forester (RPF) | Provincial forestry professional association | Required | Mandatory in many provinces, requires exams and work experience |
+| Forestry degree | Accredited university | Required | Usually requires a four-year bachelor's degree |
+| Safety certifications (e.g., wilderness first aid) | Relevant institutions. | Optional | Suitable for field work, not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。随着加拿大对可持续森林管理和气候变化缓解的重视，林业专业人员需求稳定。不列颠哥伦比亚省、阿尔伯塔省和魁北克省机会较多。就业前景良好，但竞争因地区而异。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 12,000. With Canada's focus on sustainable forest management and climate change mitigation, demand for forestry professionals is steady. Opportunities are more abundant in British Columbia, Alberta, and Quebec. Job prospects are good, but competition varies by region.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 助理林业师或技术员 |
-| 中级（4-7年） | $60,000~$85,000 | 注册林业师或项目经理 |
-| 高级（8年以上） | $85,000~$110,000 | 高级管理或顾问职位 |
+| Median salary | $97,760 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Assistant forester or technician |
+| Mid-level (4-7 years) | $60,000~$85,000 | Registered forester or project manager |
+| Senior (8+ years) | $85,000~$110,000 | Senior management or consultant positions |
+| average salary | $99,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级职位如林业技术员或助理，积累经验后可晋升为森林管理者或高级顾问。也可向研究、政策制定或企业可持续发展方向发展。专业认证如注册林业师（RPF）可提升职业前景。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is a mixed blessing for forestry professionals: automation will compress routine data analysis and reporting tasks, but areas requiring human judgment such as field decision-making, ecological assessment, and regulatory compliance are hard to replace, while AI amplifies efficiency in remote sensing monitoring and growth modeling.
+
+Entry-level positions such as forestry technician or assistant; with experience, can advance to forest manager or senior consultant. Also possible to move into research, policy-making, or corporate sustainability. Professional certification like Registered Professional Forester (RPF) can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Timber volume measurement and growth model calculation
+- Forest resource data entry and basic statistical report generation
+- Simple pest and disease image recognition and classification
+- Preliminary estimation of carbon stocks
+- Standardized environmental impact assessment screening
+
+**Where AI augments the role:**
+
+- Forest change monitoring using satellite remote sensing and AI analysis.
+- Machine learning-based early warning for forest pests and diseases
+- Using digital twins to simulate the ecological impact of different business scenarios
+- Automatically draft compliance report first drafts and consolidate data
+- AI-assisted precise calculation and prediction of carbon footprint
+
+**Human moat:**
+
+- Comprehensive judgement and decision-making in complex forest ecosystems
+- Negotiation and coordination with communities, governments, and stakeholders
+- Regulatory interpretation and enforcement discretion
+- Leadership in on-site emergency response (e.g., wildfires, pest outbreaks)
+- Long-term sustainable business ethics and value balance
+
+**Skills to build:**
+
+- GIS and remote sensing data analysis (Python, QGIS, Google Earth Engine).
+- Basics of machine learning (especially image recognition and time series prediction).
+- Digital twin and simulation modeling tools (e.g., SimForest)
+- Carbon Accounting and ESG Reporting Expertise
+- Data visualization and communication skills (Tableau, Power BI)
+- Project management and interdisciplinary collaboration
+
+**Key growth areas:**
 
 - Sustainable forestry
 - Carbon sequestration
@@ -63,68 +99,67 @@ Forestry professionals manage forest resources, including forest conservation, s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 符合加拿大联邦技术工人或加拿大经验类的移民路径，需满足学历、语言和工作经验要求 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对林业专业人员的省提名项目，如不列颠哥伦比亚省、阿尔伯塔省等 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适用于有加拿大雇主提供的工作机会 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Meets eligibility for Canadian Federal Skilled Worker or Canadian Experience Class immigration pathways, requiring education, language, and work experience requirements |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for forestry professionals, such as in British Columbia, Alberta, etc. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable for job offers from Canadian employers |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forestry professionals？**
-- 热爱自然和户外工作，具备良好的观察和分析能力
-- 注重环境保护和可持续发展
-- 愿意在偏远地区工作，适应野外环境
-
-**谁不适合学Forestry professionals？**
-- 不喜欢户外或偏远地区工作
-- 对体力要求高或长期户外工作不适应
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love nature and outdoor work, with good observation and analytical skills
+- Focus on environmental protection and sustainable development
+- Willing to work in remote areas, adapt to field environments
+
+**Who is not suited**
+- Dislike working outdoors or in remote areas
+- Unsuitable for heavy physical labor or long-term outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for forestry professionals?**
+A: Junior annual salary is approximately CAD 45,000-60,000, intermediate CAD 60,000-85,000, senior up to CAD 85,000-110,000. Salary depends on experience, province, and employer.
+
+**Q: How can forestry professionals immigrate to Canada?**
+A: Can immigrate via Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., BC, Alberta). If you already have a Canadian employer sponsor, you can also gain experience through an LMIA work permit before applying for permanent residence.
+
+**Q: What are the requirements to become a Registered Professional Forester (RPF)?**
+A: Typically requires a forestry bachelor's degree, completion of an internship, and passing professional exams. Requirements vary by province, but certification is key for advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forestry professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for forestry professionals?**
-答：Entry-level salaries range from CAD 45,000 to 60,000; mid-level from 60,000 to 85,000; senior roles can reach 85,000 to 110,000 annually, depending on experience, province, and employer.
-
-**问：How can forestry professionals immigrate to Canada?**
-答：Eligible pathways include Express Entry (FSW/CEC) and Provincial Nominee Programs (e.g., BC, Alberta). If you have a job offer, an LMIA work permit can lead to permanent residency.
-
-**问：What are the requirements to become a Registered Professional Forester (RPF)?**
-答：Typically requires a bachelor's degree in forestry, completion of a practicum, and passing a professional exam. Requirements vary by province but certification is crucial for career advancement.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

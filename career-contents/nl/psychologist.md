@@ -1,59 +1,94 @@
-# Psychologist（Psychologist）职业分析 · NL
+# Psychologist — career analysis · Netherlands
 
-**职业代码：2634 – Psychologist。**
+**Occupation code: 2634 (ISCO08)**
 
-Psychologists study human behavior and mental processes, providing assessment, diagnosis, and therapy in clinical, educational, organizational, and forensic settings.
+Psychologists study human behavior and mental processes, offering assessment, diagnosis, and treatment services widely applied in clinical, educational, organizational, and legal fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（大学本科+硕士） | 5年（3年本科+2年硕士） | $2,000~$15,000（欧盟学生学费约€2,000/年，非欧盟学生€8,000-15,000/年） |
-| 博士（研究型） | 4年 | —（博士职位通常有薪资，无需学费） |
+| Master's degree (Bachelor's + Master's) | 5 years (3-year bachelor's + 2-year master's) | $2,000~$15,000 (EU student tuition approx. €2,000/year, non-EU students €8,000-15,000/year) |
+| Doctorate (research-based) | 4 years | $0~$0 (Doctoral positions are usually salaried and tuition-free.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册心理学家（BIG注册） | 荷兰卫生、福利与体育部（BIG） | 必备 | 临床和健康心理学家必须注册BIG才能执业 |
-| 荷兰心理学会（NIP）认证 | 荷兰心理学会（NIP） | 可选 | 虽然不是强制，但NIP认证有助于职业发展 |
-| 硕士学历认证 | 荷兰教育执行机构（DUO） | 必备 | 非欧盟学历需通过DUO认证 |
+| Registered psychologist (BIG registration) | Dutch Ministry of Health, Welfare and Sport (BIG) | Required | Clinical and health psychologists must register with AHPRA to practice. |
+| Master's Degree Authentication | Dutch Education Executive Agency (DUO) | Required | Non-EU qualifications require DUO recognition. |
+| Accreditation by the Dutch Institute of Psychologists (NIP) | Dutch Institute of Psychologists (NIP) | Optional | Although not mandatory, NIP certification aids career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰对心理学家的需求稳定，尤其在临床和健康心理学领域。老龄化社会和对心理健康的日益重视推动就业增长。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Demand for psychologists in the Netherlands is stable, especially in clinical and health psychology. An aging society and increasing focus on mental health drive employment growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 税前年薪，含假期津贴 |
-| 中级（4-7年） | $45,000~$60,000 | 取决于领域和组织 |
-| 高级（8年以上） | $60,000~$85,000 | 资深临床专家或管理层 |
+| Median salary | $71,729 | Median salary (Official: CBS median hourly wage €36.3/hour × 1976h annualized, BRC group 1022 Psychologen en sociologen; P25–P75 €57,699–€85,956, CBS 2024) |
+| Entry level (0–3 years) | $32,000~$45,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (4-7 years) | $45,000~$60,000 | Depends on the field and organization |
+| Senior (8+ years) | $60,000~$85,000 | Senior clinical specialists or management |
+| average salary | $54,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 临床心理学家可从注册心理学家晋升为高级专家或独立执业者；工业与组织心理学家可进入管理层；学术路径需获得博士学位并从事研究教学。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance psychologists' efficiency in data analysis and standardized testing, but core clinical assessment, therapeutic relationships, and ethical decisions are hard to replace—overall mixed impact.
+
+Clinical psychologists can progress from registered psychologist to senior specialist or independent practitioner; industrial and organisational psychologists can enter management; academic path requires a PhD and involvement in research and teaching.
+
+**Tasks most exposed to AI:**
+
+- Scoring and preliminary interpretation of standardised psychological tests
+- Collation and basic statistical analysis of patient data
+- Literature retrieval and summary generation
+- Automated initial screening questionnaire processing
+
+**Where AI augments the role:**
+
+- Big data-based diagnostic pattern recognition and prognosis prediction
+- AI-assisted design of personalised treatment plans
+- Automatic generation and adjustment of psychological educational materials
+- AI tool support for remote psychological assessment and intervention
+- Real-time monitoring and feedback analysis of treatment effectiveness
+
+**Human moat:**
+
+- Building therapeutic alliance and empathetic communication
+- Clinical judgment and ethical decision-making for complex cases
+- Psychological crisis intervention and risk management.
+- Cross-cultural sensitivity and individualized treatment adjustments
+- Supervises and guides other mental health professionals
+
+**Skills to build:**
+
+- Use of AI-assisted psychological assessment tools
+- Big data and machine learning in psychology
+- Design and Implementation of Digital Therapy Platforms
+- Knowledge of AI regulations related to ethics and privacy
+- Human-machine collaborative clinical decision-making ability
+- Remote psychological counseling and therapy techniques
+
+**Key growth areas:**
 
 - Clinical psychology
 - Health psychology
@@ -62,68 +97,67 @@ Psychologists study human behavior and mental processes, providing assessment, d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于获得担保雇主的工作合同，薪资达标（2024年€5,331/月30岁以上或€3,909/月以下）。 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育文凭和至少€5,331/月薪资（2024年），有效期1-4年，可带家属。 |
-| Subclass Orientation Year (Or（Orientation Year (Oriëntatiejaar)） | 荷兰毕业硕士或世界前200大学毕业生可申请一年找工作签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applies to employment contracts with sponsoring employer, meeting salary threshold (2024: €5,331/month for ages 30+ or €3,909/month below). |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education diploma and a minimum salary of €5,331/month (2024), validity 1-4 years, family can be sponsored. |
+| Subclass Orientation Year (Or (Orientation Year (Oriëntatiejaar)) | Graduates with a master's degree from the Netherlands or from a top 200 world university can apply for a one-year job search visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Psychologist？**
-- 对心理健康有强烈兴趣，善于倾听和分析的人
-- 具备跨文化沟通能力，愿意学习荷兰语以服务本地患者
-- 喜欢持续学习，适应不同工作场景（诊所、学校、企业）
-
-**谁不适合学Psychologist？**
-- 不喜欢与人深层次沟通或处理情绪压力的人
-- 不愿完成长期学术训练（硕士+实习）的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone with a strong interest in mental health who is good at listening and analyzing
+- Possess cross-cultural communication skills and willingness to learn Dutch to serve local patients.
+- Enjoy continuous learning and adapting to different work environments (clinics, schools, corporate settings)
+
+**Who is not suited**
+- People who dislike in-depth communication or handling emotional stress
+- People unwilling to complete long-term academic training (master's degree plus internship)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a psychologist in the Netherlands?**
+A: Junior psychologists earn approximately €32,000-45,000 per year, mid-level €45,000-60,000, senior €60,000-85,000 (pre-tax).
+
+**Q: How can non-EU psychologists immigrate to the Netherlands?**
+A: Requires a recognized master's degree from the Netherlands and BIG registration. Common path is to apply for a Highly Skilled Migrant visa, requiring employer sponsorship and meeting the salary threshold.
+
+**Q: Is a Chinese psychology degree recognized in the Netherlands?**
+A: Academic credential assessment via DUO required, with possible supplementary courses. BIG registration requires Dutch proficiency (B2+) and internship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Psychologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a psychologist in the Netherlands?**
-答：Entry-level psychologists earn €32,000-45,000, mid-level €45,000-60,000, and senior €60,000-85,000 per year gross.
-
-**问：How can non-EU psychologists immigrate to the Netherlands?**
-答：You need a recognized master's degree and BIG registration. The Highly Skilled Migrant visa requires employer sponsorship and meeting salary thresholds.
-
-**问：Are Chinese psychology degrees recognized in the Netherlands?**
-答：Degrees must be evaluated by DUO. Additional courses may be needed. BIG registration requires Dutch language (B2+) and supervised practice.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

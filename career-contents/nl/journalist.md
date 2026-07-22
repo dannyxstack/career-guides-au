@@ -1,59 +1,95 @@
-# Journalist（Journalist）职业分析 · NL
+# Journalist — career analysis · Netherlands
 
-**职业代码：2642 – Journalist。**
+**Occupation code: 2642 (ISCO08)**
 
-Journalists gather, investigate, and report news events, conveying information via print, broadcast, or digital media. They work for newspapers, TV stations, radio, or online news platforms.
+Journalists gather, investigate, and report news events, conveying information through text, broadcast, or digital media. They work in newspapers, TV stations, radio stations, or online news platforms.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $8,000~$15,000（荷兰大学学费，欧盟学生约2000欧/年，非欧盟约8000-15000欧/年） |
-| 硕士 | 1-2年（硕士） | $10,000~$20,000（部分记者选择硕士深造，学费因院校而异） |
+| Bachelor's degree | 4 years (bachelor's degree) | $8,000~$15,000 (Tuition fees at Dutch universities: about €2,000/year for EU students, €8,000-15,000/year for non-EU.) |
+| Master's degree | 1-2 years (Master's) | $10,000~$20,000 (Some journalists pursue a master's degree, tuition fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学或相关领域学位 | 荷兰大学 | 可选 | 常见要求，但非强制，其他学科也可入行 |
-| 荷兰语能力 | 荷兰语考试机构 | 必备 | 多数职位要求流利荷兰语，英语职位较少 |
-| 记者证（Perskaart） | 荷兰记者协会（NVJ） | 可选 | 非强制，但有助于获取采访权限 |
+| Dutch language proficiency | Dutch language exam body | Required | Most positions require fluent Dutch, few positions are available in English |
+| Degree in journalism or a related field | Netherlands universities | Optional | Common requirement but not mandatory; other disciplines can also enter the field |
+| Press card (Perskaart) | Dutch Association of Journalists (NVJ) | Optional | Not mandatory, but helpful for obtaining interview permissions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰新闻行业面临数字化转型，传统媒体岗位缩减，但数字内容创作需求增长。自由职业和多媒体记者机会增多，竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Dutch news industry faces digital transformation, with traditional media roles declining but demand for digital content creation growing. Opportunities for freelancers and multimedia journalists are increasing, with intense competition.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，根据公司规模和地区差异 |
-| 中级（3-7年） | $35,000~$50,000 | 包括有经验的记者和专题记者 |
-| 高级（7年以上） | $50,000~$70,000 | 高级记者、编辑或主编级别 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, depending on company size and region |
+| Mid-level (3–7 years) | $35,000~$50,000 | Includes experienced journalists and specialist correspondents |
+| Senior (7+ years) | $50,000~$70,000 | Senior journalist, editor, or editor-in-chief level |
+| average salary | $44,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径可从初级记者晋升为高级记者、编辑或专题主编。也可转向数字媒体管理、传播或公关领域，需持续学习多媒体技能。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The journalist profession is facing a mixed impact from AI: automated batch writing and data analysis will reduce entry-level positions, but capabilities like in-depth investigation, on-site reporting, and multimedia storytelling are enhanced by AI, maintaining a moat.
+
+Career path can progress from junior journalist to senior journalist, editor, or feature editor. It can also shift to digital media management, communications, or public relations, requiring continuous learning of multimedia skills.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized press releases (e.g., quick reports on financial results, sports scores)
+- Basic data cleaning and trend analysis in data journalism
+- Automated writing of news summaries and social media short messages
+- Transcribe interview recordings and perform preliminary organization
+- News distribution and personalized recommendation algorithm decisions
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly verify facts and validate data sources.
+- Analyzing massive files or social media sentiment using natural language processing
+- Use AI to assist video editing, auto-generate subtitles, and visualize materials
+- Conduct cross-border interviews and data research with AI translation assistance.
+- Using predictive models to assess the spread potential of news topics
+
+**Human moat:**
+
+- In-depth investigation of complex sociopolitical backgrounds behind news stories
+- Exclusive interviews and hidden insights that break through information barriers
+- Judgment and responsibility regarding news ethics and sensitive issues
+- First-hand on-site experience and witness (e.g., war reporting, disaster scenes)
+- Highly stylized in-depth close-ups, commentary, and narrative creation
+
+**Skills to build:**
+
+- Data journalism and visualization tools (e.g., Flourish, Datawrapper)
+- AI-assisted content creation tools (e.g., Grammarly, transcription and fact-checking software)
+- Multimedia storytelling (video, podcast production)
+- Social media operations and audience analysis
+- Basic programming and API usage (e.g., Python for scraping public data)
+- Interdisciplinary knowledge (e.g., economics, technology, law)
+
+**Key growth areas:**
 
 - Digital Media
 - Data Journalism
@@ -62,68 +98,67 @@ Journalists gather, investigate, and report news events, conveying information v
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适合受雇于认可担保机构的高技能记者，需满足工资门槛（2024年约5,688欧/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历记者，工资门槛较低（约5,331欧/月，2024年），但需大学学位 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或世界排名前200高校毕业生，可获1年求职签证，找到记者工作后可转换工作签证 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled journalists employed by approved sponsors, meeting salary thresholds (approx. €5,688/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated journalists, with a lower salary threshold (approx. €5,331/month, 2024) but requires a university degree |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch or world's top 200 universities can obtain a 1-year job search visa; once they find a journalist job, they can switch to a work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Journalist？**
-- 对新闻调查有热情，具备好奇心和批判性思维
-- 适应快节奏、多任务工作环境
-- 拥有较强写作和沟通能力，且愿意学习新媒体技能
-
-**谁不适合学Journalist？**
-- 不喜欢频繁截止日期和高压环境
-- 不愿持续学习数字工具和多平台叙事
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about investigative journalism, with curiosity and critical thinking
+- Adapts to fast-paced, multitasking work environments
+- Strong writing and communication skills, and willingness to learn new media skills
+
+**Who is not suited**
+- Dislikes frequent deadlines and high-pressure environments
+- Unwilling to continuously learn digital tools and multi-platform storytelling
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for journalists in the Netherlands?**
+A: Entry-level journalists earn around €28,000–35,000 per year, mid-level €35,000–50,000, and senior up to €70,000. Freelancers have more variable income.
+
+**Q: How can non-EU journalists immigrate to the Netherlands?**
+A: Accessible via the highly skilled migrant (kennismigrant) or EU Blue Card route, requiring a work contract with an employer that is a recognized sponsor. Language is key; most job postings are in Dutch.
+
+**Q: Do Dutch journalists need to speak Dutch?**
+A: The vast majority of journalist positions require fluent Dutch, as the audience is the local market. English-language positions exist mainly at international media outlets, but competition is fierce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Journalist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for journalists in the Netherlands?**
-答：Entry-level journalists earn around €28,000-€35,000 per year, mid-level €35,000-€50,000, and senior journalists up to €70,000. Freelancers have variable income.
-
-**问：How can non-EU journalists immigrate to the Netherlands?**
-答：Via the Highly Skilled Migrant scheme or EU Blue Card, requiring a job contract with a recognized sponsor. Dutch language proficiency is crucial as most positions require it.
-
-**问：Do journalists in the Netherlands need to speak Dutch?**
-答：Yes, most journalism positions require fluent Dutch due to the local audience. English roles exist mainly at international media outlets but are highly competitive.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

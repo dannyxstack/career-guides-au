@@ -1,61 +1,93 @@
-# Crane Operator（Crane Operator）职业分析 · FR
+# Crane Operator — career analysis · France
 
-**职业代码：F1301 – Crane Operator。**
+**Occupation code: F1301 (ROME)**
 
-Operates tower, mobile, or crawler cranes to lift and move heavy materials on construction sites, ports, or industrial facilities.
+Operate tower-type, mobile, or crawler cranes to lift and move heavy materials at construction sites, ports, or industrial sites.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或学徒 | 2年 | —（公立职业高中免费，学徒制有薪酬） |
-| CACES证书培训 | 3-6个月 | $1,500~$4,000（私立培训中心费用，可自费或由雇主资助） |
+| CAP or Apprenticeship | 2 years | $0~$1,000 (Public vocational high schools are free, and apprenticeships are paid) |
+| CACES certificate training | 3-6 months | $1,500~$4,000 (Private training center fees can be paid by the employer or subsidized by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES R383证书 | CNAM或认证机构 | 必备 | 法国强制性操作许可证，按起重机类型分类 |
-| CAP Conducteur d'engins | 法国教育部 | 可选 | 基础文凭，通常需要提供学历证明 |
-| Autorisation de conduite | 雇主签发 | 必备 | 公司内部授权，基于CACES和体检 |
+| CACES R383 certificate | CNAM or certification bodies | Required | France's mandatory operating license, classified by crane type |
+| Autorisation de conduite | Issued by the employer | Required | Internal company authorization, based on CACES and medical examinations |
+| CAP Conducteur d'engins | French Ministry of Education | Optional | Basic diploma, usually requiring proof of academic qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：良好（★★★½☆）。** 全国从业人数约 28,000。受益于法国大巴黎快线等大型基建项目，起重机操作员需求稳定。老龄化导致退休人员增多，预计未来十年岗位增加。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. Benefiting from large-scale infrastructure projects such as the Grand Paris Express in France, demand for crane operators remains stable. Aging has led to more retirees, and job opportunities are expected to rise over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，包含津贴 |
-| 中级（3-10年） | $32,000~$40,000 | 含加班和奖金 |
-| 高级（10年以上） | $40,000~$50,000 | 主管级别，含项目津贴 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, including allowances |
+| Intermediate (3-10 years) | $32,000~$40,000 | Including overtime and bonuses |
+| Senior (10+ years) | $40,000~$50,000 | Supervisor level, including project allowance |
+| average salary | $29,094 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理起重工起步，积累经验后考取CACES高级证书，晋升为吊装主管或工地经理。也有机会转向起重机培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Crane operator positions face moderate automation risks. AI and sensor technologies can autonomously plan routes and avoid obstacles, but complex lifting still requires human judgment and compliance supervision, so the overall entry-level position may be reduced.
+
+You can start as an assistant crane operator, gain experience, and earn the CACES advanced certificate to be promoted to hoisting supervisor or site manager. There is also an opportunity to become a crane trainer.
+
+**Tasks most exposed to AI:**
+
+- Automatic hoisting path planning based on preset parameters
+- Real-time load monitoring and adjustment are achieved through sensors and vision systems
+- Automated movement and positioning of unmanned cranes
+- AI-assisted collision detection and safety warning (replacing manual judgment)
+
+**Where AI augments the role:**
+
+- AI-assisted remote control systems enhance operators' ability to control multiple cranes
+- Augmented reality (AR) overlays real-time data such as load weight and wind speed to improve operational accuracy
+- AI optimizes hoisting solutions, reducing the number of trial lifts and energy consumption
+- Automatically records and analyzes operational data to assist training and compliance reviews
+
+**Human moat:**
+
+- Decision-making capabilities in complex environments (such as cramped construction sites or multi-machine collaboration).
+- Emergency response to unexpected situations (such as equipment failures or weather changes).
+- Delicate operations requiring human experience and judgment (such as lifting precision equipment)
+- Legal and Safety Responsibility (Operators Must Be Responsible for Accidents)
+
+**Skills to build:**
+
+- Master remote control and automated lifting systems (such as remote workstations)
+- Learn AI-assisted scheduling and planning software (such as BIM integrated lifting plans)
+- Obtain advanced operational certificates (such as specialized certifications for tower cranes and crawler cranes)
+- Master basic programming and fault diagnosis skills (for automated control units)
+- Strengthen safety procedures and emergency drills (such as scenarios that AI cannot cover)
+
+**Key growth areas:**
 
 - Grand Paris Express
 - Infrastructure renewal
@@ -64,65 +96,67 @@ Operates tower, mobile, or crawler cranes to lift and move heavy materials on co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需获得法国雇主的CDI合同，通过劳动局审核，证明无欧盟候选人可胜任。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能岗位，需年薪高于约53,000欧元，门槛较高。 |
+| Subclass Salarié (Salarié (Employee)) | A CDI contract from a French employer must be obtained, reviewed by the labor bureau, and proven that no EU candidates are qualified. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled positions, requiring an annual salary above about 53,000 euros, with a relatively high threshold. |
+
+**PR friendliness: medium (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crane Operator？**
-- 喜欢户外和体力工作的人
-- 注重安全、严谨认真的人
-- 能适应高空作业和项目流动性的人
+**Who is suited**
+- Those who enjoy outdoor and physical work
+- People who value safety and are meticulous and meticulous
+- People who can adapt to high-altitude work and project mobility
 
-**谁不适合学Crane Operator？**
-- 恐高或身体条件受限者
-- 追求稳定办公室环境者
+**Who is not suited**
+- Those who fear heights or have limited physical conditions
+- Those seeking a stable office environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for crane operators?**
+A: Entry-level salaries are about 25,000-30,000 euros per year, while seniors can earn up to 50,000 euros. Fluctuations in the construction industry and overtime pay can affect actual income.
+
+**Q: Can foreign crane operators immigrate to France?**
+A: It is more difficult. This occupation is not on the Shortage List and requires a CACES certificate and French communication skills. Usually, you need to obtain a CDI contract and apply for a work visa first.
+
+**Q: What are the career progression paths for this occupation?**
+A: Promotion can be to lifting supervisor, site equipment manager, or switch to becoming a trainer. Some people accumulate experience and then start businesses and take on contracting businesses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 良好（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Crane Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for crane operators?**
-答：Entry-level annual salary ranges from €25,000 to €30,000, while experienced operators can earn up to €50,000. Overtime and project allowances can increase income.
-
-**问：Can a foreign crane operator immigrate to France?**
-答：It is challenging. The occupation is not on the shortage list, and CACES certification and French language skills are required. Typically, a permanent contract (CDI) is needed for a work visa.
-
-**问：What are the career advancement paths?**
-答：You can progress to lift supervisor, site equipment manager, or become a trainer. Some experienced operators start their own contracting business.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

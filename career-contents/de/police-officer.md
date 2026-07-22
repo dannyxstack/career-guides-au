@@ -1,61 +1,97 @@
-# Police Officer（Police Officer）职业分析 · DE
+# Police Officer — career analysis · Germany
 
-**职业代码：5321 – Police Officer。**
+**Occupation code: 5321 (KldB)**
 
-Police officers in Germany maintain public safety, prevent crime, enforce laws, and conduct investigations. This civil service profession requires specialized training and rigorous selection.
+German police officers are responsible for maintaining public safety, crime prevention, law enforcement, and investigation. This occupation is part of the civil service system, requiring completion of specialized training and passing rigorous selection.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等警务培训（双元制） | 2.5年 | —（受训期间领取工资，无需学费） |
-| 高级警务培训（学士学位课程） | 3年 | —（部分州提供带薪学习，学费全免） |
+| Intermediate police training (dual system) | 2.5 years | $0~$0 (Paid training, no tuition fees) |
+| Advanced police training (bachelor's degree program) | 3 years | $0~$0 (Some states offer paid study with full tuition fees waived) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国国籍或欧盟公民身份 | 联邦政府 | 必备 | 大部分州要求德国或欧盟公民身份 |
-| 身体与心理适格证明 | 州警察局 | 必备 | 通过体能测试、心理评估和背景调查 |
-| 中等教育文凭（Realschulabschluss）或更高 | 学校 | 必备 | 通常需要中等教育文凭或高中毕业 |
+| German nationality or EU citizenship | Federal government | Required | Most states require German or EU citizenship |
+| Physical and psychological fitness certificate | State police department | Required | Pass physical fitness tests, psychological assessments, and background checks. |
+| Secondary school diploma (Realschulabschluss) or higher | School | Required | Typically requires secondary education diploma or high school graduation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 280,000。德国对警务人员的需求稳定，由于老龄化导致退休人数增加，预计未来几年将持续招聘。各州警察部队积极招募新人，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 280,000. The demand for police officers in Germany is stable, and due to an aging workforce leading to increased retirements, continuous recruitment is expected in the coming years. State police forces are actively recruiting new members, offering good employment prospects.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 根据州和级别，税后约2200-2600欧元 |
-| 中级（3-10年） | $42,000~$55,000 | 包括津贴和加班费 |
-| 高级（10年以上） | $55,000~$70,000 | 高级职务如督察可达更高 |
+| Median salary | $55,188 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Depending on the state and level, after-tax about 2,200-2,600 euros |
+| Intermediate (3-10 years) | $42,000~$55,000 | including allowances and overtime pay |
+| Senior (10+ years) | $55,000~$70,000 | Senior positions such as inspector can reach higher |
+| average salary | $56,916 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 晋升路径包括从警员到高级警员、警长、督察等职位。可通过内部考试进入刑事侦查、交通管理或特种部队等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on police roles is mixed: automation can handle paperwork and surveillance analysis, but core law enforcement and community interaction require human judgment and empathy.
+
+Career progression includes from constable to senior constable, sergeant, inspector, etc. Internal exams allow entry into specialized fields such as criminal investigation, traffic management, or special forces.
+
+**Tasks most exposed to AI:**
+
+- Automated traffic violation monitoring and ticket generation
+- AI preliminary analysis of surveillance video to identify abnormal behavior
+- AI generates standardized police reports and documents.
+- Automated dispatch system optimizes patrol routes
+- AI-assisted preliminary crime data analysis.
+
+**Where AI augments the role:**
+
+- AI predicts crime hotspots to assist patrol deployment
+- AI quickly searches case history and legal precedents to support investigations
+- AI analyzes social media to warn of potential public safety incidents
+- AI translation tools improve communication efficiency in multilingual communities
+- AI-assisted training and simulation scenario drills
+
+**Human moat:**
+
+- Immediate judgment and use-of-force decisions in field enforcement
+- Emotional communication and trust building with victims and witnesses.
+- Human reasoning and intuition in complex criminal investigations
+- Community Relations Management and Crisis Negotiation
+- Ethical review and accountability for AI output results
+
+**Skills to build:**
+
+- Data analysis and crime prediction tool usage
+- AI system operation and basic maintenance
+- Digital forensics technology
+- Cross-cultural communication and conflict mediation
+- Mental health and stress management
+- Integration of technology and legal ethics
+
+**Key growth areas:**
 
 - Stable demand
 - Retirement replacements
@@ -64,69 +100,68 @@ Police officers in Germany maintain public safety, prevent crime, enforce laws, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 非欧盟公民需先获得德国警察培训职位，然后申请工作签证。由于职业受规管，需认证资格。 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用于警察职业，因为不满足高薪标准且非紧缺学术职业。 |
-| Subclass Chancenkarte（Opportunity Card） | 可用于找工作，但需先获得警察培训录取才能转换签证。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Non-EU citizens must first secure a German police training position and then apply for a work visa. As the occupation is regulated, qualification recognition is required. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable for the police profession as it does not meet the high salary threshold and is not a shortage academic occupation. |
+| Subclass Chancenkarte (Opportunity Card) | Can be used for job seeking, but must first obtain police training admission to switch visa. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Police Officer？**
-- 热爱公共安全和服务的人
-- 身体和心理素质良好的人
-- 具有团队合作精神和抗压能力的人
-
-**谁不适合学Police Officer？**
-- 不愿接受严格纪律和轮班制的人
-- 非欧盟公民且无法满足国籍要求的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love public safety and service
+- People with good physical and mental fitness
+- People with teamwork spirit and ability to work under pressure
+
+**Who is not suited**
+- Those unwilling to accept strict discipline and shift work
+- Non-EU citizens who cannot meet nationality requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of police officers in Germany?**
+A: Junior police annual salary approx. €35,000–42,000, reaching over €55,000 with experience. Salary varies by state and level, including allowances.
+
+**Q: Can non-EU citizens become police officers in Germany?**
+A: Most states require German or EU citizenship. A few states are exceptions, but require completed training and strict selection; migration pathways are very limited.
+
+**Q: What educational background is required to become a German police officer?**
+A: Typically requires secondary education, followed by 2.5 years of paid training (dual system) or a 3-year bachelor's degree (paid in some states).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Police Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a police officer in Germany?**
-答：Entry-level police officers earn about €35,000-€42,000 annually, increasing to over €55,000 with experience. Salaries vary by state and rank, including allowances.
-
-**问：Can non-EU citizens become police officers in Germany?**
-答：Most states require German or EU citizenship. Exceptions exist in a few states, but training and rigorous selection apply, making migration paths very limited.
-
-**问：What education is required to become a police officer in Germany?**
-答：Typically a secondary school diploma, followed by 2.5 years of paid dual training or a 3-year bachelor's program (paid in some states).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

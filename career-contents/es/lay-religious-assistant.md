@@ -1,59 +1,88 @@
-# Lay Religious Assistant（Lay Religious Assistant）职业分析 · ES
+# Lay Religious Assistant — career analysis · Spain
 
-**职业代码：3716 – Lay Religious Assistant。**
+**Occupation code: 3716 (CNO)**
 
-Assist religious leaders in ceremonies, administration, and community service without taking holy orders; typically employed by churches, temples, or religious foundations.
+Assisting religious leaders in conducting ceremonies, administrative management, and community services, without holding clerical duties; Usually employed by churches, monasteries, or religious foundations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学毕业 | 无需正式学历 | —（通常由教区内部培训） |
-| 神学/宗教研究基础课程 | 1-2年 | $500~$2,000（可选，非强制） |
+| Secondary school graduation | No formal education required | $0~$0 (Usually trained within the diocese) |
+| Theology/Religious Studies Foundation Course | 1-2 years | $500~$2,000 (Optional, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定法定执照 | 无 | 可选 | 该职业不受国家监管，通常由雇主自行要求背景审核 |
+| No specific statutory license | None | Optional | This profession is not regulated by the state and is usually required by employers to conduct background checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。西班牙宗教活动趋于稳定，但教区财政收紧限制了该岗位增长。职位多依赖志愿文化和教区预算，全职机会有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. Religious activity in Spain is stabilizing, but diocese financial tightening has limited growth in this position. Positions largely depend on volunteer culture and parish budgets, with limited full-time opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 兼职为主，部分教区提供食宿 |
-| 中级（3-7年） | $18,000~$22,000 | 全职教区协调员或项目负责人 |
-| 高级（7年以上） | $22,000~$28,000 | 大型宗教机构资深管理员 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$18,000 | Mainly part-time, with some parishes providing food and lodging |
+| Mid-level (3–7 years) | $18,000~$22,000 | Full-time parish coordinator or project leader |
+| Senior (7+ years) | $22,000~$28,000 | Senior administrator at a large religious institution |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从行政助理晋升为教区协调员，或转向非营利组织管理。部分人深造神学后成为正式宗教领袖。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Religious foreign counseling relies heavily on face-to-face interaction and emotional support. AI cannot replace its core functions, but it can provide strong support in administration, paperwork, and community communication, improving efficiency.
+
+You can be promoted from administrative assistant to parish coordinator or transition to nonprofit management. Some became formal religious leaders after deepening their theological studies.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate routine documents such as news briefings and event notifications
+- Use AI to manage schedules, appointments, and donation records
+- Automatically organize religious archives and databases
+
+**Where AI augments the role:**
+
+- Use AI translation tools to communicate with community members in different languages
+- AI analyzes community needs to optimize services and event planning
+- Use AI to generate multimedia content (such as prayer guides and educational videos) to assist in evangelization
+
+**Human moat:**
+
+- Providing emotional support and spiritual guidance
+- Humanized interactions in presiding ceremonies and religious education
+- Handling complex ethical issues and crisis interventions
+
+**Skills to build:**
+
+- Religious texts and liturgical knowledge
+- Community service and communication skills
+- Event planning and organizational coordination
+- Digital Content Creation (Images/Text/Video)
+- Data analysis and community needs assessment
+
+**Key growth areas:**
 
 - Stable
 - Non-profit
@@ -62,65 +91,67 @@ Assist religious leaders in ceremonies, administration, and community service wi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需雇主担保，但该职业非紧缺，获批难度高 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 仅限特定情形，一般不适合此类非技术岗位 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Employer sponsorship is required, but this occupation is not in urgent need and is difficult to approve |
+| Subclass Búsqueda de empleo (Job Search Visa) | This is only for specific situations and generally not suitable for such non-technical positions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Lay Religious Assistant？**
-- 有强烈宗教信仰且适应教区工作环境的人
-- 寻求稳定、低压文职工作的本地人
-- 愿意接受低薪但追求精神满足者
+**Who is suited**
+- Individuals with strong religious beliefs who are well suited to the parish work environment
+- Locals seeking stable, low-pressure clerical jobs
+- Those willing to accept low wages but seeking spiritual fulfillment
 
-**谁不适合学Lay Religious Assistant？**
-- 依赖高薪或快速晋升者
-- 希望借此移民西班牙的第三国公民
+**Who is not suited**
+- Rely on high salaries or rapid promotions
+- Third-country citizens hoping to immigrate to Spain through this opportunity
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for religious assistants?**
+A: Religious assistants in Spain have very low salaries, with entry-level around 15,000-18,000 EUR annually, though some positions provide room and board subsidies.
+
+**Q: Can Chinese applicants obtain Spanish work residency through this occupation?**
+A: Almost impossible. This occupation is not on the shortage list, low salary and mostly part-time, immigration authorities tend to refuse such non-skilled positions.
+
+**Q: What educational qualifications are required to work as a religious assistant?**
+A: There are no mandatory academic requirements, but the diocese usually requires a secondary school graduation and background check. Some positions prefer short-term theology courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Lay Religious Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for lay religious assistants?**
-答：Salaries are very low in Spain, with entry-level positions at €15,000-18,000 per year; some positions include room and board.
-
-**问：Can Chinese applicants obtain a Spanish work visa through this occupation?**
-答：Almost impossible. The occupation is not in shortage, with low pay and part-time nature; immigration authorities tend to reject such non-skilled positions.
-
-**问：What education is required to become a lay religious assistant?**
-答：No formal degree required, but parishes usually require secondary education and background check. Short courses in theology are preferred.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

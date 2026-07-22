@@ -1,58 +1,92 @@
-# University and Higher Education Teachers（University and Higher Education Teachers）职业分析 · IE
+# University and Higher Education Teachers — career analysis · Ireland
 
-**职业代码：2310 – University and Higher Education Teachers。**
+**Occupation code: 2310 (ISCO08)**
 
-University and higher education teachers in Ireland deliver lectures, conduct research, and provide academic guidance in universities and institutes of technology.
+Irish university and higher education teachers are responsible for teaching, research, and academic guidance, working in universities, institutes of technology, and other institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | $10,000~$25,000（欧盟学生约€10,000-€25,000/年，非欧盟学生更高） |
-| 博士 | 3-4年 | $10,000~$15,000（博士通常有奖学金覆盖学费和生活费） |
+| Bachelor's degree | 3-4 years | $10,000~$25,000 (EU students approx. €10,000–€25,000/year, non-EU students higher) |
+| Doctorate | 3-4 years | $10,000~$15,000 (PhDs are usually covered by scholarships for tuition and living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认可大学 | 必备 | 绝大多数大学教师职位要求博士学位 |
-| 教师资格（如PG Certificate） | 高等教育机构 | 可选 | 部分大学要求或鼓励完成教学培训 |
+| Doctoral degree (PhD) | Recognised university | Required | The vast majority of university teaching positions require a doctoral degree |
+| Teaching qualification (e.g., PG Certificate) | Higher education institutions | Optional | Some universities require or encourage completion of teaching training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。爱尔兰高等教育领域持续发展，政府增加教育投入，对具备博士学位和科研能力的教师需求稳定。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. Ireland's higher education sector continues to develop, with increased government investment, leading to stable demand for teachers with PhDs and research capabilities.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 助理讲师或讲师起薪 |
-| 中级（3-10年） | $55,000~$80,000 | 讲师或高级讲师 |
-| 高级（10年以上） | $80,000~$120,000 | 副教授或教授 |
+| Median salary | $67,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Starting salary for assistant lecturer or lecturer |
+| Intermediate (3-10 years) | $55,000~$80,000 | Lecturer or Senior Lecturer |
+| Senior (10+ years) | $80,000~$120,000 | Associate or full professor |
+| average salary | $71,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展通常从讲师或助理教授起步，逐步晋升为副教授、教授，并可兼任系主任或研究主管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core value of university professors remains, but AI will significantly change teaching and research methods, replacing repetitive tasks, increasing demand for innovation and personalized guidance, leading to internal career differentiation.
+
+Career progression typically starts from lecturer or assistant professor, advancing to associate professor and professor, and may include roles such as department head or research director.
+
+**Tasks most exposed to AI:**
+
+- Basic course design (e.g., creating courseware and standardised handouts)
+- Grading of assignments and exams (objective questions and simple subjective questions)
+- General academic inquiries (e.g., course policies, thesis formatting)
+- Literature search and preliminary review generation
+
+**Where AI augments the role:**
+
+- Personalized learning path design (based on AI analysis of student data)
+- Research data analysis and modeling (e.g., statistics, simulation)
+- Interdisciplinary curriculum integration and supplementary content generation
+- Creating virtual labs and immersive teaching experiences
+- Academic writing assistance and language polishing
+
+**Human moat:**
+
+- Original research and theoretical innovation
+- Deep human care and psychological counseling
+- Critical Thinking and Debate Facilitation
+- Ethical judgment and transmission of social responsibility
+
+**Skills to build:**
+
+- Use and customization of AI education tools (e.g., GPT, intelligent tutoring systems)
+- Foundations of Data Literacy and Learning Analytics
+- Blended instructional design (online + offline)
+- Curriculum development skills for human-robot collaboration
+- Academic ethics and AI compliance knowledge
+- Interdisciplinary communication and teamwork
+
+**Key growth areas:**
 
 - Research funding
 - International student influx
@@ -61,67 +95,66 @@ University and higher education teachers in Ireland deliver lectures, conduct re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于科学、技术、工程和数学等紧缺领域的大学教师，要求年薪€32,000以上 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺领域，需通过劳动力市场测试 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to university teachers in Science, Technology, Engineering, and Mathematics (STEM) and other shortage fields, requiring an annual salary of at least €32,000 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-shortage fields, requires labor market testing |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学University and Higher Education Teachers？**
-- 热爱教学和研究，具备博士学位和发表记录
-- 能够独立开展科研项目并争取经费
-- 适应学术环境，愿意参与行政和指导工作
-
-**谁不适合学University and Higher Education Teachers？**
-- 偏好稳定工作时长和较低压力
-- 不愿投入长时间攻读博士学位
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for teaching and research, with a PhD and publication record
+- Able to independently conduct scientific research projects and secure funding
+- Adaptable to academic environments, willing to participate in administrative and advisory work
+
+**Who is not suited**
+- Preference for stable working hours and lower stress
+- Unwilling to invest long hours in obtaining a PhD
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for university lecturers in Ireland?**
+A: Junior lecturers earn approximately €40,000-€55,000 per year, while professors can earn over €100,000, depending on experience and institution.
+
+**Q: What visa do I need to become a university teacher in Ireland?**
+A: Common paths are the Critical Skills Employment Permit (for shortage areas) or the General Employment Permit, requiring a job offer.
+
+**Q: Is competition for university lecturer positions in Ireland fierce?**
+A: Yes, especially for permanent resident positions, competition is high, but demand in STEM fields and research roles is relatively stable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-University and Higher Education Teachers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for university teachers in Ireland?**
-答：Entry-level lecturers earn around €40,000-€55,000, while professors can earn over €100,000, depending on experience and institution.
-
-**问：What visa is needed to work as a university teacher in Ireland?**
-答：Common pathways include the Critical Skills Employment Permit (for in-demand fields) or General Employment Permit, requiring a job offer.
-
-**问：Is competition high for university teaching positions in Ireland?**
-答：Yes, particularly for permanent posts, though STEM and research roles have more stable demand.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

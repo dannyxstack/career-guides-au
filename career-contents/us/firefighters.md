@@ -1,63 +1,97 @@
-# Firefighters（Firefighters）职业分析 · 美国
+# Firefighters — career analysis · United States
 
-**职业代码：33-2011 – Firefighters。**
+**Occupation code: 33-2011 (SOC)**
 
-Firefighters control and extinguish fires or respond to emergency situations where life, property, or the environment is at risk, including fire prevention, emergency medical service, hazardous material response, search and rescue, and disaster assistance.
+Firefighters control and extinguish fires, or respond to emergencies threatening life, property, or the environment, including fire prevention, emergency medical services, hazardous materials handling, search and rescue, and disaster assistance.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 消防科学副学士学位 | 2年 | $10,000~$30,000（社区大学学费） |
-| 消防学院培训 | 12-14周 | $1,000~$5,000（通常由消防部门承担） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree in Fire Science | 2 years | $10,000~$30,000 (Community college tuition) |
+| Fire academy training | 12-14 weeks | $1,000~$5,000 (Usually handled by the fire department) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 紧急医疗技术员(EMT)认证 | 美国各州卫生部门 | 必备 | 多数消防部门要求或优先考虑 |
-| 消防员I级和II级认证 | 国家消防协会(NFPA)或州消防培训委员会 | 必备 | 通过消防学院培训获得 |
-| 危险品操作员认证 | 州消防培训委员会 | 必备 | 处理危险品事故必需 |
-| 商业驾驶执照(CDL) | 各州机动车辆管理局 | 可选 | 驾驶消防车可能需要 |
+| Emergency Medical Technician (EMT) certification | US state health departments | Required | Most fire departments require or prefer |
+| Firefighter I and II certification | National Fire Protection Association (NFPA) or state fire training council | Required | Obtained through fire academy training |
+| Dangerous Goods Operator Certification | State Fire Training Council | Required | Required for handling hazardous material incidents |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | May be required to drive fire trucks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 352,000。美国劳工统计局预计2023-2033年消防员就业增长约4%，与所有职业平均增速相近。城市化进程和人口增长将持续推动需求，但联邦预算限制可能影响政府消防部门招聘。
+**Job demand: high (★★★★☆).** National workforce approx. 352,000. The U.S. Bureau of Labor Statistics projects about 4% growth for firefighters from 2023-2033, similar to the average for all occupations. Urbanization and population growth will continue to drive demand, but federal budget constraints may affect government fire department hiring.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 试用期或志愿消防员薪资较低 |
-| 中级（4-10年） | $55,000~$75,000 | 多数全职消防员薪资在此范围 |
-| 高级（10年以上） | $85,000~$110,000 | 含队长、局长等管理岗位 |
+| Median salary | $59,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Probation or volunteer firefighters have lower pay |
+| Mid-level (4-10 years). | $55,000~$75,000 | Most full-time firefighters' salaries fall within this range |
+| Senior (10+ years) | $85,000~$110,000 | Including management positions such as team leader and director |
+| average salary | $63,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 消防员通常从新兵培训开始，晋升为工程师或驾驶员，再到队长、区长，最终可达消防局长或助理局长。需通过内部考试和额外培训，部分岗位要求应急医疗技术员(EMT)认证。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
+
+Firefighters typically start with recruit training, advance to engineer or driver, then to captain, battalion chief, and eventually to fire chief or assistant chief. Requires internal exams and additional training; some roles require EMT certification.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
 
 - Fire Prevention
 - Emergency Medical Services
@@ -66,66 +100,68 @@ Firefighters control and extinguish fires or respond to emergency situations whe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations (H-1B)） | 通常不适用，因消防员不要求学士学位且非专业职业。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 极少数情况，如特别技能或国际消防经验，但总体可行度低。 |
-| Subclass O-1（Individuals with Extraordinary Ability (O-1)） | 适用于在消防领域有杰出贡献者，如国际救援专家。 |
+| Subclass H-1B (Specialty Occupations (H-1B)) | Not typically applicable, as firefighters do not require a bachelor's degree and are not professional occupations. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Rare cases, such as special skills or international firefighting experience, but overall low feasibility. |
+| Subclass O-1 (Individuals with Extraordinary Ability (O-1)) | Applicable to those with outstanding contributions in firefighting, such as international rescue experts. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Firefighters？**
-- 身体强壮、心理素质过硬，能承受高压和危险环境
-- 有强烈的社区服务意识和团队合作精神
-- 愿意接受持续培训和轮班工作
+**Who is suited**
+- Physically strong and mentally resilient, able to withstand high pressure and dangerous environments.
+- Strong sense of community service and teamwork spirit
+- Willing to accept continuous training and shift work
 
-**谁不适合学Firefighters？**
-- 对火、密闭空间或血腥场面有恐惧
-- 无法适应不规律的轮班和突发任务
+**Who is not suited**
+- Fear of fire, confined spaces, or bloody scenes
+- Unable to adapt to irregular shifts and sudden tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary level for firefighters?**
+A: Median annual salary for US firefighters is about $55,000, entry-level about $35,000-$45,000, senior can exceed $85,000. Salary varies by region, department (city/county/volunteer), higher in California, New York, etc.
+
+**Q: Can firefighters immigrate to the US through skilled migration?**
+A: Very difficult. Firefighters generally do not meet requirements for professional occupation visas like H-1B, and employer-sponsored green card pathways are extremely rare. Only a few exceptional individuals may qualify for an O-1 visa, but overall immigration friendliness is very low.
+
+**Q: What qualifications are needed to become a firefighter?**
+A: Typically requires a high school diploma, completion of fire academy training, and EMT certification. Many departments require an associate degree or relevant college courses. Also requires passing physical fitness tests, background checks, and drug tests.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等偏高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Firefighters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for firefighters?**
-答：The median annual wage for firefighters in the US is about $55,000, entry-level around $35,000-$45,000, and senior over $85,000. Salaries vary by location and department, with higher pay in California and New York.
-
-**问：Can firefighters immigrate to the US through skilled migration?**
-答：Very difficult. Firefighters typically do not qualify for H-1B specialty occupation visas, and employer-sponsored green cards are rare. Only a few outstanding individuals may qualify for O-1 visas, but overall immigration friendliness is extremely low.
-
-**问：What qualifications are needed to become a firefighter?**
-答：Typically a high school diploma, completion of fire academy training, and EMT certification. Many departments require an associate degree or college coursework. Candidates must also pass physical tests, background checks, and drug screening.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

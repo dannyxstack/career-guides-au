@@ -1,64 +1,95 @@
-# 诊所经理（Practice Manager）职业分析 · 澳大利亚
+# Practice Manager — career analysis · Australia
 
-**职业代码：134214 – Practice Manager。**
+**Occupation code: 134214 (ANZSCO)**
 
-诊所经理负责全科/专科诊所的运营、财务、人事、Medicare结算与合规，多由资深医疗行政晋升，非技术移民职业。
+A clinic manager oversees the operations, finances, staffing, Medicare billing and compliance of a general or specialist practice. Most are promoted from senior medical administration roles. This is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma of Practice Management / Business | 1~2年 | $5,000~$18,000（或经验晋升） |
+| Diploma of Practice Management / Business | 1–2 years | $5,000~$18,000 (Or promoted through experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Diploma of Practice Management（可选） | RTO | 可选 | 非强制 |
-| AAPM 会员（加分） | AAPM | 可选 | 行业认可 |
+| Diploma of Practice Management (optional) | RTO | Optional | Not mandatory |
+| AAPM membership (advantageous) | AAPM | Optional | Industry recognised |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 30,000。医疗诊所扩张支撑稳定需求，多店与专科诊所经理薪资更高。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. Expansion of medical clinics supports stable demand, with higher salaries for managers at multi-site and specialist clinics.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,000~1,900 个 | 全国 |
-| Indeed | 700~1,400 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $75,000~$95,000 | 单店 |
-| 中级 | $95,000~$120,000 | — |
-| 资深/多店 | $120,000~$160,000 | 专科/多店 |
+| Median salary | $141,440 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $75,000~$95,000 | Single store |
+| Intermediate | $95,000~$120,000 | — |
+| Senior / Multi-Site | $120,000~$160,000 | Specialist/multi-site |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向多店运营、医疗集团管理发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Clinic managers' operations and financial management tasks are easily optimized by AI, but people management and patient relationships rely on human judgment; overall risks and opportunities coexist.
+
+Career progression available toward multi-site operations and healthcare group management.
+
+**Tasks most exposed to AI:**
+
+- Appointment scheduling and reminder automation
+- Medicare billing coding and settlement
+- Financial report generation and preliminary analysis
+- Automated inventory consumable ordering
+- Patient data entry and sorting
+
+**Where AI augments the role:**
+
+- Monitoring clinic operational KPIs in real time via AI dashboards
+- AI-assisted shift optimization considering employee preferences and workload
+- Use natural language processing to analyze patient feedback and improve services
+- AI predicts patient flow to optimize resource allocation
+- Automated compliance checks to reduce manual audit burden
+
+**Human moat:**
+
+- Handling Complex Patient Complaints and Emergencies
+- Team morale building and conflict mediation.
+- Strategic negotiation with doctors and suppliers
+- Establish clinic culture and service standards
+- Judgment and interpretation in regulatory compliance
+
+**Skills to build:**
+
+- Medical data analysis and interpretation of key performance indicators
+- Advanced configuration of electronic health record systems
+- Application of AI tools in operations management (e.g., scheduling, finance)
+- Change management and employee training
+- Digital marketing and patient communication strategies
+- Basic project management and agile methodologies
+
+**Key growth areas:**
 
 - Medical Practice Ops
 - Billing/Medicare
@@ -66,57 +97,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学诊所经理？**
-- 医疗行政经验想晋升者
-- 擅长运营与财务协调者
-
-**谁不适合学诊所经理？**
-- 以技术移民为目标者
-- 不愿处理合规与人事者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those looking to advance from a healthcare administration background
+- Well-suited to those who excel at operations and financial coordination
+
+**Who is not suited**
+- Those targeting skilled migration
+- Not willing to deal with compliance and HR matters
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a clinic manager in Australia?**
+A: Approximately AUD $75,000-$160,000, higher for multi-location or specialist roles.
+
+**Q: Can clinic managers apply for skilled migration?**
+A: No, this is a non-skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-诊所经理属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲诊所经理工资多少？**
-答：约AUD $7.5万~$16万，多店/专科更高。
-
-**问：诊所经理能技术移民吗？**
-答：不能，属于非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

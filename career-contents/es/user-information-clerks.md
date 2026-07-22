@@ -1,58 +1,92 @@
-# User Information Clerks（User Information Clerks）职业分析 · ES
+# User Information Clerks — career analysis · Spain
 
-**职业代码：4411 – User Information Clerks。**
+**Occupation code: 4411 (CNO)**
 
-Work in call centers or customer service departments in Spain, answering calls, resolving inquiries, handling complaints, and providing product or service information via phone, email, or online chat.
+Working in call centers or customer service departments in Spain, responsible for answering calls, answering inquiries, handling complaints, or providing product and service information, usually via phone, email, or online chat.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 12年义务教育 | —（公立教育免费） |
-| FP Grado Superior行政管理 | 2年（FP Grado Superior） | $300~$1,000（公立FP学费约300-1000欧元/年） |
+| High school graduation or equivalent | 12 years of compulsory education | $0~$0 (Public education is free) |
+| FP Grado Superior Administrative Management | 2 years (FP Grado Superior) | $300~$1,000 (Public FP tuition is about 300-1000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior | 西班牙教育部 | 可选 | 行政管理或客户服务相关FP学位可提高竞争力，非强制 |
-| 客户服务证书 | 西班牙商会或私人机构 | 可选 | 自愿取得，有助于求职 |
+| FP Grado Superior | Spanish Ministry of Education | Optional | An FP degree related to administrative management or customer service can enhance competitiveness and is not mandatory |
+| Customer service certificate | Spanish chambers of commerce or private institutions | Optional | Voluntary acquisitions help with job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 450,000。西班牙服务外包行业持续发展，但该岗位受自动化和AI影响较大，预计就业增长缓慢。由于入行门槛低，竞争激烈，但掌握多语言能力者仍有一定优势。
+**Job demand: medium (★★★☆☆).** National workforce approx. 450,000. Spain's service outsourcing industry continues to develop, but this position is heavily affected by automation and AI, with expected slow employment growth. Due to the low entry barrier and fierce competition, those who have multilingual skills still have a certain advantage.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | 税前年薪，通常含部分业绩奖金 |
-| 中级（3-7年） | $24,000~$28,000 | 税前年薪，需具备一定经验 |
-| 高级（7年以上） | $28,000~$32,000 | 税前年薪，通常包括团队管理职责 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $21,000~$24,000 | Pre-tax annual salary, usually including part of the performance bonus |
+| Mid-level (3–7 years) | $24,000~$28,000 | Pre-tax annual salary, with certain experience required |
+| Senior (7+ years) | $28,000~$32,000 | Pre-tax annual salary, usually including team management responsibilities |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级员工可通过积累经验晋升为团队组长或客服主管，也可转向质量控制或培训岗位。部分员工可能进入其他部门的客户关系管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will significantly reduce the number of user information service staff. Automated customer service and chatbots can replace most basic queries and complaint handling, while entry-level positions will sharply decrease. Existing practitioners will need to shift to complex problem handling and AI collaborative management.
+
+Junior employees can be promoted to team leader or customer service supervisor through accumulated experience, or move into quality control or training roles. Some employees may move into customer relationship management roles in other departments.
+
+**Tasks most exposed to AI:**
+
+- Automatic reply to frequently asked questions (such as account inquiries, password resets)
+- Standardized complaint classification and work order distribution
+- Automatic voice response and menu guidance for phone calls
+- Basic information pushes for email or online chat
+
+**Where AI augments the role:**
+
+- AI real-time translation and sentiment analysis assist in handling complex multilingual complaints
+- AI knowledge base rapid retrieval supports personalized solution design
+- AI-generated conversation summaries and customer profiles improve follow-up efficiency
+- AI predicts customer intent and recommends the optimal response strategy
+
+**Human moat:**
+
+- Empathy and soothing ability to handle emotional or urgent complaints
+- Coordination and creative solutions across departments for complex problems
+- Client relationship building and long-term trust maintenance.
+- Deep understanding and guidance of fuzzy or unstructured requirements
+- Ethical and legal boundary cases requiring manual judgment
+
+**Skills to build:**
+
+- Configuration and training of AI customer service tools (such as conversational flow design)
+- Customer experience data analysis and insights
+- Multilingual communication and cross-cultural skills
+- Conflict resolution and advanced negotiation skills
+- Emotional recognition and psychological support skills
+- Basic programming and API integration skills
+
+**Key growth areas:**
 
 - customer service
 - call center
@@ -61,67 +95,66 @@ Work in call centers or customer service departments in Spain, answering calls, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙企业的工作合同，且合同符合最低工资要求，并通过劳动市场测试（职业非紧缺时）。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 若从事高技能岗位且年薪高于欧盟蓝卡门槛（约33,908欧元/2024年），可申请，但客户服务岗位通常难达此薪资。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Must obtain a work contract from a Spanish company that meets minimum wage requirements and pass a labor market test (for non-urgent occupations). |
+| Subclass Tarjeta azul UE (EU Blue Card) | If you work in a high-skilled position and your annual salary is above the EU Blue Card threshold (about €33,908/2024), you can apply, but customer service roles usually struggle to reach this salary. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学User Information Clerks？**
-- 喜欢与人沟通，具备耐心和同理心
-- 能快速学习并适应不同业务流程
-- 具备多语言能力者优先
-
-**谁不适合学User Information Clerks？**
-- 不喜欢重复性工作或高压环境
-- 缺乏抗压能力和情绪管理能力
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy communicating with others and possess patience and empathy
+- Able to quickly learn and adapt to different business processes
+- Candidates with multilingual abilities are preferred
+
+**Who is not suited**
+- Dislikes repetitive work or high-pressure environments
+- Lack of stress resistance and emotional management skills
+
+---
+
+## 8. FAQ
+
+**Q: Is there room for salary growth in this occupation?**
+A: Salary growth mainly depends on experience and promotion to team leader or manager, but the overall cap is relatively low, usually not exceeding 32,000 euros.
+
+**Q: Can foreigners apply for user information service positions in Spain?**
+A: Yes, but a work contract is required, and the employer must prove that the position cannot be filled by Spanish or EU citizens (labor market test). This occupation is not in short supply, so it is quite difficult to apply.
+
+**Q: Does this career have growth prospects?**
+A: Affected by automation and AI, the outlook is poor. Consider transitioning to quality control, training, or customer relationship management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-User Information Clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth in this occupation?**
-答：Salary increases mainly rely on experience and promotion to team leader or manager, but the ceiling is generally low, usually not exceeding €32,000.
-
-**问：Can foreigners apply for user information clerk jobs in Spain?**
-答：Yes, but a job contract is required, and the employer must prove that the position cannot be filled by Spanish or EU citizens (labor market test). The occupation is not in shortage, so it is more difficult to obtain a visa.
-
-**问：Does this occupation have good career prospects?**
-答：Due to automation and AI, prospects are poor. Consider transitioning to quality control, training, or customer relationship management.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

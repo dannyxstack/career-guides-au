@@ -1,59 +1,92 @@
-# Quality control and planning engineers（Quality control and planning engineers）职业分析 · UK
+# Quality control and planning engineers — career analysis · United Kingdom
 
-**职业代码：2481 – Quality control and planning engineers。**
+**Occupation code: 2481 (SOC)**
 
-Plan production schedules, work sequences, and manufacturing procedures to ensure accuracy, quality, and reliability. Coordinate with engineering teams and production departments to optimize resource use and meet deadlines.
+Responsible for developing production plans, work sequences, and manufacturing processes to ensure accuracy, quality, and reliability. Coordinate engineering teams and production departments to optimize resource utilization and meet delivery deadlines.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（工程相关专业） | 3-4年 | $9,250~$15,000（国际学生学费更高，约25,000英镑/年） |
-| 硕士（工程管理或相关方向） | 1年 | $12,000~$25,000（全日制授课型硕士） |
+| Bachelor's degree (Engineering-related) | 3-4 years | $9,250~$15,000 (International students pay higher tuition fees, approx. £25,000 per year) |
+| Master's degree (Engineering Management or related field) | 1 year | $12,000~$25,000 (Full-time taught master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位（机械、制造或工业工程） | 英国工程委员会认可的大学 | 必备 | 核心学历要求 |
-| 特许工程师（CEng） | 英国工程理事会（EC） | 可选 | 非强制但有利于晋升 |
-| 六西格玛绿带或黑带 | 各类认证机构 | 可选 | 提升质量改进能力 |
+| Bachelor's degree in engineering (mechanical, manufacturing, or industrial engineering) | University accredited by the UK Engineering Council | Required | Core educational requirements |
+| Chartered Engineer (CEng) | Engineering Council (EC) UK | Optional | Not mandatory but beneficial for promotion |
+| Six Sigma Green Belt or Black Belt | Various certifying bodies | Optional | Enhances quality improvement capabilities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。英国制造业持续复苏，航空航天、汽车和电子产品领域对质量控制与规划工程师的需求稳定。预计未来5年岗位增长约5%，高于平均水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. UK manufacturing continues to recover, with steady demand for quality control and planning engineers in aerospace, automotive and electronics. Jobs are projected to grow by about 5% over the next 5 years, above average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 毕业生起薪约28,000英镑 |
-| 中级（4-7年） | $35,000~$50,000 | 有经验者年薪中位数约42,000英镑 |
-| 高级（8年以上） | $50,000~$70,000 | 高级经理或专家可达70,000英镑以上 |
+| Median salary | $43,592 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Graduate starting salary around £28,000 |
+| Mid-level (4-7 years) | $35,000~$50,000 | median annual salary for experienced professionals is about £42,000 |
+| Senior (8+ years) | $50,000~$70,000 | Senior managers or specialists can earn over £70,000 per year |
+| average salary | $46,756 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级质量工程师晋升为高级规划工程师、质量经理或生产经理。积累经验后可转向供应链管理或运营管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will massively automate tasks such as quality monitoring, production scheduling, and document generation, but engineers still have advantages in complex decision-making, cross-department coordination, and compliance responsibilities. Job roles are shifting toward higher-value analysis.
+
+Can progress from junior quality engineer to senior planning engineer, quality manager, or production manager. With experience, can transition to supply chain management or operations management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyze production data using AI to generate quality reports and trend predictions
+- Automatically generate preliminary production plans and schedules based on historical data and constraints
+- Automatically detect formatting errors and inconsistencies in documents (e.g., ISO processes, reports)
+- Automatically monitor production process anomalies and trigger alarms or parameter adjustments
+
+**Where AI augments the role:**
+
+- Use AI simulation tools to optimize production processes, improving efficiency and quality
+- Using AI predictive maintenance to reduce equipment downtime and improve resource utilization
+- Quickly retrieve standard operating procedures and regulatory changes through a natural language interface
+- Use AI collaboration platforms to share decision-making information in real time with engineering and production teams
+
+**Human moat:**
+
+- Cross-departmental (engineering, production, quality) coordination and decision-making for complex issues.
+- Root cause analysis and creative solutions for abnormal quality events
+- Develop quality standards and acceptance methods under regulatory uncertainty or new scenarios.
+- Maintaining trust relationships with clients, suppliers, and regulatory bodies
+
+**Skills to build:**
+
+- Data analysis and statistics (Python/R, SQL)
+- AI/machine learning basics and applications in quality management
+- Digital twin and simulation tools (e.g. AnyLogic, Simio)
+- Automation workflows and low-code platforms (such as Power Automate)
+- Communication and change management skills
+- Knowledge of quality systems like ISO 9001 and AI audit compliance.
+
+**Key growth areas:**
 
 - Manufacturing
 - Quality Assurance
@@ -62,67 +95,66 @@ Plan production schedules, work sequences, and manufacturing procedures to ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得英国雇主担保的技术工人，满足薪资和技能要求。此职业在可担保职业列表中。最低薪资门槛£26,200或行业标准。可申请永居。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在工程领域有杰出成就的顶尖人才。无薪资要求，可直接申请永居。 |
-| Subclass Graduate（Graduate visa） | 允许在英国完成本科学位以上的毕业生在英国工作2年（博士3年），可借此积累经验转为技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to skilled workers with UK employer sponsorship, meeting salary and skill requirements. This occupation is on the list of eligible occupations. Minimum salary threshold £26,200 or industry standard. Eligible for permanent residency. |
+| Subclass Global Talent (Global Talent visa) | For top talents with outstanding achievements in engineering. No salary requirement, eligible for direct permanent residency. |
+| Subclass Graduate (Graduate visa) | Allows graduates who have completed a bachelor's degree or higher in the UK to work in the UK for 2 years (3 years for PhDs), and can use this to gain experience and switch to a Skilled Worker visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Quality control and planning engineers？**
-- 对细节高度关注，擅长分析和解决问题
-- 具有工程背景，喜欢规划和组织
-
-**谁不适合学Quality control and planning engineers？**
-- 不喜欢重复性文书工作和严格流程
-- 不善于跨部门沟通协调
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- High attention to detail, skilled in analysis and problem-solving
+- Have an engineering background, enjoy planning and organizing
+
+**Who is not suited**
+- Dislike repetitive paperwork and strict processes
+- Poor cross-departmental communication and coordination skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for Quality Control and Planning Engineers?**
+A: Significant salary growth with experience. Junior approx. £28-35k, mid-level £35-50k, senior £50-70k, management can exceed £70k.
+
+**Q: Is this occupation easy to apply for the UK Skilled Worker visa?**
+A: This occupation is on the eligible sponsorship list but not on the shortage list (Immigration Salary List), so it must meet the standard salary threshold. Success rate is higher with employer sponsorship.
+
+**Q: Will AI replace quality control and planning engineers?**
+A: AI can automate data analysis and optimization tasks, but complex decisions, cross-departmental coordination, and exception handling still require human experience. Low risk, but data tools must be mastered.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Quality control and planning engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for quality control and planning engineers?**
-答：Salary increases significantly with experience: junior £28-35k, mid £35-50k, senior £50-70k, managerial roles can exceed £70k.
-
-**问：Is it easy to apply for a Skilled Worker visa for this occupation?**
-答：This occupation is eligible for sponsorship, but not on the Immigration Salary List. Standard salary threshold applies. Success rate is high with employer sponsorship.
-
-**问：Will AI replace quality control and planning engineers?**
-答：AI can automate data analysis and optimization, but complex decision-making, cross-department coordination, and anomaly handling still require human experience. Low risk, but need to master data tools.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

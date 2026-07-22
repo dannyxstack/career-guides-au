@@ -1,60 +1,96 @@
-# Aircraft Engine Mechanics and Adjusters（Aircraft Engine Mechanics and Adjusters）职业分析 · ES
+# Aircraft Engine Mechanics and Adjusters — career analysis · Spain
 
-**职业代码：7402 – Aircraft Engine Mechanics and Adjusters。**
+**Occupation code: 7402 (CNO)**
 
-Specialized technicians who maintain, repair, and adjust aircraft engines to ensure safe aviation operations.
+Technical professions responsible for the maintenance, repair, and adjustment of aircraft engines to ensure the safe operation of aircraft.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立教育免费或低学费） |
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立教育免费，私立学校费用较高） |
-| 大学本科（Grado en Ingeniería Aeronáutica） | 4年 | $1,000~$6,000（公立大学学费约1000-2000欧元/年，私立较高） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,500 (Public education is free or has low tuition) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public education is free, while private schools are more expensive) |
+| Undergraduate Degree (Grado en Ingeniería Aeronáutica) | 4 years | $1,000~$6,000 (Tuition at public universities is about 1000-2000 euros per year, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EASA Part-66 维修执照（B1/B2类） | 西班牙航空安全局（AESA） | 必备 | 航空器维修人员必需执照，通过考试获得 |
-| 航空发动机专业认证 | 培训机构或雇主 | 可选 | 针对特定发动机型号的培训认证 |
-| 学历认证（Homologación） | 西班牙教育部/工业部 | 必备 | 外国学历需认证，部分情况需补修课程 |
+| EASA Part-66 Maintenance License (B1/B2 Class) | Spanish Aviation Safety Agency (AESA) | Required | Aircraft maintenance personnel must be licensed and obtained through examinations |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education/Industry | Required | Foreign degrees require authentication, and in some cases, make-up courses are required |
+| Professional certification for aero-engine engineering | Training institutions or employers | Optional | Training and certification for specific engine models |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。西班牙航空业稳步增长，尤其是旅游和货运推动维护需求。持有EASA执照和经验丰富的机械师紧缺，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Spain's aviation industry is steadily growing, especially in tourism and cargo sectors, which are driving maintenance demand. There is a shortage of mechanics with EASA licenses and experience, and stable job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含少量加班 |
-| 中级（3-7年） | $32,000~$40,000 | 持有EASA执照后薪资提升 |
-| 高级（7年以上） | $42,000~$52,000 | 资深技师或主管级别 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, with minimal overtime |
+| Mid-level (3–7 years) | $32,000~$40,000 | Salary increases after holding an EASA license |
+| Senior (7+ years) | $42,000~$52,000 | Senior technician or supervisor level |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级机械师晋升为高级技师、团队主管或质检员，积累经验后也可转向航空工程或管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+You can advance from junior mechanic to senior technician, team leader, or quality inspector, and after gaining experience, you can also transition to aerospace engineering or management positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aerospace
 - Maintenance
@@ -63,68 +99,67 @@ Specialized technicians who maintain, repair, and adjust aircraft engines to ens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，要求大学学历或同等经验，薪资门槛约33,908欧元（2024年） |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 适用于高学历或紧缺职业的专业人员，申请快速，可携带家属 |
-| Subclass Cuenta ajena（Work Contract Visa (Employed)） | 由西班牙雇主担保的工作居留，适用于持有有效工作合同者 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree or equivalent experience, salary threshold approximately 33,908 euros (2024) |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Suitable for highly educated or in-demand professionals, applications are quick, and family members can be brought along |
+| Subclass Cuenta ajena (Work Contract Visa (Employed)) | Work residency sponsored by Spanish employers, applicable to those holding valid work contracts |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Engine Mechanics and Adjusters？**
-- 喜欢动手操作、对机械和航空有热情的人
-- 注重安全、细致严谨的人
-- 愿意持续学习新技术和考取执照的人
-
-**谁不适合学Aircraft Engine Mechanics and Adjusters？**
-- 不喜欢体力劳动或高空作业的人
-- 对严格的安全标准和频繁检查感到压力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and are passionate about machinery and aviation
+- People who value safety and are meticulous and meticulous
+- Those willing to continuously learn new technologies and obtain certifications
+
+**Who is not suited**
+- People who dislike physical labour or working at heights
+- People who feel pressured by strict safety standards and frequent inspections
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aero-engine mechanics?**
+A: Entry-level salaries are about 24,000-30,000 euros, intermediate salaries 32,000-40,000 euros, and seniors up to 52,000 euros (pre-tax annual salary).
+
+**Q: How can foreigners immigrate to Spain through this profession?**
+A: You can obtain an EU Blue Card or a highly skilled professional visa, which requires an EASA Part-66 license or a Spanish-recognized academic qualification, and an employer employment contract.
+
+**Q: What educational background is needed for this occupation?**
+A: Typically, a degree in FP Grado Superior (Higher Vocational Education) or a Bachelor's degree in Aeronautical Engineering is required, along with an EASA Part-66 maintenance license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aircraft Engine Mechanics and Adjusters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aircraft engine mechanics?**
-答：Entry-level: €24,000-€30,000; mid-level: €32,000-€40,000; senior: up to €52,000 (gross annual).
-
-**问：How can foreigners immigrate to Spain through this occupation?**
-答：Via EU Blue Card or Highly Skilled Professional Visa, requiring an EASA Part-66 license or recognized qualifications and a job offer.
-
-**问：What educational background is required for this occupation?**
-答：Typically an FP Grado Superior in aeronautics or a bachelor's degree in aeronautical engineering, plus an EASA Part-66 maintenance license.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

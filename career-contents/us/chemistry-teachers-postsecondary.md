@@ -1,58 +1,91 @@
-# Chemistry Teachers, Postsecondary（Chemistry Teachers, Postsecondary）职业分析 · 美国
+# Chemistry Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1052 – Chemistry Teachers, Postsecondary。**
+**Occupation code: 25-1052 (SOC)**
 
-Teach courses on chemical and physical properties and compositional changes of substances, including qualitative and quantitative chemical analysis. Includes both teaching-only and teaching-research faculty.
+Teach courses related to chemical substances and changes in physical properties and composition, including teaching qualitative and quantitative chemical analysis methods. Primarily involved in teaching or a combination of teaching and research as a university professor.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $50,000~$150,000（博士通常有助学金或奖学金覆盖学费，总费用因学校和时间而异。） |
-| 硕士学位 | 2年 | $30,000~$80,000（硕士可作为过渡，但多数大学教师职位要求博士。） |
+| Doctoral degree (PhD) | 5-7 years | $50,000~$150,000 (PhD students usually have scholarships or grants covering tuition; total cost varies by institution and duration.) |
+| Master's degree | 2 years | $30,000~$80,000 (A master's can be a stepping stone, but most university teaching positions require a PhD.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学或相关领域博士学位 | 认可大学 | 必备 | 核心资格，通常要求博士学历。 |
-| 博士后研究经验 | 研究机构 | 可选 | 非强制但高度推荐，提升竞争力。 |
+| PhD in chemistry or related field | Recognised university | Required | Core qualification, usually requires a doctoral degree. |
+| Postdoctoral research experience | Research institutions | Optional | Not mandatory but highly recommended to enhance competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,800。2022-2032年就业增长预计为8%（快于平均水平），受高等教育入学率及科研资金驱动。但终身教职岗位竞争激烈，兼职教师比例高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 13,800. Employment growth projected at 8% from 2022-2032 (faster than average), driven by higher education enrollment and research funding. However, tenure-track positions are competitive, with a high proportion of adjunct faculty.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $50,000~$70,000 | 通常为讲师或助理教授，薪资受学校类型影响。 |
-| 中级（5-10年） | $70,000~$95,000 | 副教授或已获终身教职，薪资稳步增长。 |
-| 高级（10年以上） | $95,000~$130,000 | 正教授，顶尖大学可能超过15万。 |
+| Median salary | $93,250 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $50,000~$70,000 | Usually lecturer or assistant professor; salary varies by type of institution. |
+| Intermediate (5-10 years) | $70,000~$95,000 | Associate professor or already tenured, with steady salary growth. |
+| Senior (10+ years) | $95,000~$130,000 | Full professor, top universities may exceed $150,000. |
+| average salary | $105,210 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 职业路径：讲师→助理教授→副教授→教授。需积累科研成果和教学经验，获得终身教职后稳定性提高。也可转向工业研发或政府实验室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on chemistry teachers (higher education) is mixed: automation tools will take over tasks like literature searches and basic lab teaching, but core work such as curriculum design and high-impact research guidance is enhanced due to the need for human judgment and creativity.
+
+Career path: Lecturer → Assistant Professor → Associate Professor → Professor. Requires research output and teaching experience; stability increases after obtaining tenure. Can also transition to industrial R&D or government labs.
+
+**Tasks most exposed to AI:**
+
+- Repetitive teaching demonstrations of basic chemistry experiments (e.g., titration, chromatography)
+- Standardized assignment grading and exam scoring
+- Preliminary retrieval and data extraction of research literature
+- Basic chemistry Q&A (e.g., mole calculations, balancing equations)
+- Simple animation generation in teaching courseware
+
+**Where AI augments the role:**
+
+- Personalized learning path design: AI analyzes student performance, teachers can customize teaching focus
+- Advanced experimental design and data interpretation: AI-assisted modeling accelerates hypothesis testing
+- Research collaboration and interdisciplinary projects: AI helps integrate knowledge from chemistry, biology, materials and other fields.
+- Generative teaching cases: AI creates complex reaction scenarios for case analysis
+
+**Human moat:**
+
+- In-depth explanation of complex chemical concepts and critical thinking training
+- Teaching guidance on research ethics and lab safety
+- Supervision by the mentor for graduate innovative research directions
+- Humanistic judgment in educational policy making and curriculum system design
+
+**Skills to build:**
+
+- Use of AI education tools (e.g. adaptive learning platforms, intelligent lab simulations)
+- Foundations of Data Science (Python/R for chemical data analysis)
+- Computational chemistry software operation (e.g. Gaussian, VASP)
+- Educational technology design (how to integrate AI into the curriculum).
+- Interdisciplinary communication skills (working with computer scientists)
+
+**Key growth areas:**
 
 - postsecondary education
 - STEM education
@@ -61,67 +94,66 @@ Teach courses on chemical and physical properties and compositional changes of s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 高校H-1B不占配额，可全年申请，适合教学职位。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需PERM或NIW，适合有博士学位或杰出能力的教师。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在科研或教学领域有卓越成就者，无配额限制。 |
+| Subclass H-1B (H-1B Specialty Occupation) | University H-1B positions are not subject to the cap and can be applied for year-round, suitable for teaching roles. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | PERM or NIW required; suitable for teachers with PhD or exceptional ability. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For those with outstanding achievements in research or teaching, no quota limit. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemistry Teachers, Postsecondary？**
-- 对化学有深厚兴趣并愿意深造至博士的人
-- 热爱教学和研究，能承受发表论文压力的人
-
-**谁不适合学Chemistry Teachers, Postsecondary？**
-- 希望快速高薪者
-- 讨厌长时间科研和论文撰写的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a deep interest in chemistry and willing to pursue a PhD
+- People who love teaching and research, can handle the pressure of publishing papers
+
+**Who is not suited**
+- Those who want quick high salary
+- Those who dislike long hours of research and thesis writing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemistry teachers?**
+A: Average annual salary around $85k USD, but varies by institution type (research universities typically pay more) and rank. Part-time faculty earn less.
+
+**Q: How can foreign chemistry teachers apply for a US work visa?**
+A: Common path: apply for university H-1B (exempt from cap), then green card via EB-2/NIW. Also can apply for O-1 visa. Requires at least a PhD.
+
+**Q: Which industries can chemistry teachers transition into?**
+A: Can transition into chemical industry R&D, pharmaceuticals, environmental testing, government laboratories, or scientific publishing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chemistry Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for chemistry teachers?**
-答：Average annual salary is about $85,000, varying by institution type (research universities higher) and rank. Part-time instructors earn less.
-
-**问：How can foreign chemistry teachers apply for US work visas?**
-答：Common path: apply for cap-exempt H-1B at universities, then EB-2/NIW for green card. O-1 also possible. PhD required.
-
-**问：What industries can chemistry teachers transition to?**
-答：Can move to industrial R&D, pharmaceuticals, environmental testing, government labs, or scientific publishing.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

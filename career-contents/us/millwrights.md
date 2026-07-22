@@ -1,59 +1,94 @@
-# Millwrights（Millwrights）职业分析 · 美国
+# Millwrights — career analysis · United States
 
-**职业代码：49-9044 – Millwrights。**
+**Occupation code: 49-9044 (SOC)**
 
 Install, dismantle, or move machinery and heavy equipment according to layout plans, blueprints, or other drawings.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学徒制 | 4年 | $1,000~$5,000（通常由雇主资助，少量教材费） |
-| 技术学校证书 | 1-2年 | $5,000~$20,000（社区学院或技术学院） |
+| Apprenticeship | 4 years | $1,000~$5,000 (Usually employer-funded, with small material fees) |
+| Technical school certificate | 1-2 years | $5,000~$20,000 (Community college or technical college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 磨坊工执照 | 州政府或地方许可机构 | 可选 | 部分州要求持证，通过考试 |
-| 学徒结业证书 | 美国劳工部或州学徒机构 | 必备 | 完成注册学徒计划 |
-| 安全认证（如OSHA） | 职业安全与健康管理局 | 可选 | 雇主常要求 |
+| Apprenticeship completion certificate | US Department of Labor or state apprenticeship agencies | Required | Complete a registered apprenticeship program |
+| Millwright license | State or local licensing authority | Optional | Some states require licensure, must pass exam |
+| Safety certification (e.g., OSHA) | Occupational Safety and Health Administration | Optional | Employers often require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 43,500。预计2023-2033年就业增速约6%，略高于平均水平。制造业自动化持续推动对精密安装和维护的需求，更新老旧设备提供额外机会。
+**Job demand: high (★★★★☆).** National workforce approx. 43,500. Projected employment growth of about 6% from 2023-2033, slightly above average. Manufacturing automation continues to drive demand for precision installation and maintenance, with upgrading old equipment providing additional opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 起薪约$22/小时 |
-| 中级（4-9年） | $56,000~$75,000 | 中位年薪约$62,000 |
-| 高级（10年+） | $76,000~$95,000 | 经验丰富者年薪可超$90,000 |
+| Median salary | $65,700 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Starting salary around $22/hour. |
+| Intermediate (4-9 years) | $56,000~$75,000 | Median annual salary approximately $62,000 |
+| Senior (10+ years) | $76,000~$95,000 | Experienced professionals can earn over $90,000 annually |
+| average salary | $69,780 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 学徒制起步，晋升为领班、主管或机械安装项目经理；可考取高级认证成为机械专家或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+Start with apprenticeship, advance to foreman, supervisor, or mechanical installation project manager; can obtain advanced certifications to become a mechanical expert or trainer.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industrial machinery
 - Precision installation
@@ -62,65 +97,64 @@ Install, dismantle, or move machinery and heavy equipment according to layout pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需要理论和实践结合的专业职位，但磨坊工通常不符 |
-| Subclass EB-3（EB-3 Skilled Workers） | 常见移民路径，需PERM劳工证和雇主担保 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM流程申请职业移民绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to professional positions requiring theory and practice, but millwrights usually do not qualify |
+| Subclass EB-3 (EB-3 Skilled Workers) | Common immigration pathway, requires PERM labor certification and employer sponsorship |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for employment-based green card through the PERM process |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Millwrights？**
-- 喜欢动手操作和机械维修的人
-- 注重安全和细节，能阅读图纸
-- 愿意出差在不同工地工作
-
-**谁不适合学Millwrights？**
-- 不喜欢体力劳动或户外工作
-- 对重复性机械拆卸缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy hands-on work and mechanical repair
+- Focus on safety and detail, able to read drawings
+- Willingness to travel for work at different sites
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Lack of patience for repetitive mechanical disassembly
+
+---
+
+## 8. FAQ
+
+**Q: How much do mill workers earn in the United States?**
+A: Entry level about $40,000-$55,000 per year, median about $62,000, senior up to $95,000 per year.
+
+**Q: How can international workers immigrate to the US through the millwright occupation?**
+A: Typically EB-3 skilled worker green card, requires employer sponsorship and PERM labor certification; H-1B is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Millwrights的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for millwrights in the US?**
-答：Entry-level $40k-$55k, median $62k, senior up to $95k annually.
-
-**问：How can international workers immigrate as millwrights?**
-答：Typically via EB-3 skilled worker green card with employer sponsorship and PERM labor certification; H-1B is difficult.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

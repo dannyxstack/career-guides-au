@@ -1,130 +1,164 @@
-# Dental Therapist（Dental Therapist）职业分析 · 新西兰
+# Dental Therapist — career analysis · New Zealand
 
-**职业代码：411214 – Dental Therapist。**
+**Occupation code: 411111 (ANZSCO)**
 
-Dental therapists focus on children's and adolescents' oral health, providing preventive care, fillings, and extractions. In New Zealand, they are typically employed by DHBs or school dental services. Due to demand, the role is on the Green List Tier 2, allowing work-to-residence pathways.
+Dental Therapists in New Zealand mainly provide oral prevention and basic treatment for children and adolescents. This occupation is on the Green List, allowing fast residency via direct residence or skilled migration, with stable job prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $70,000~$100,000（如奥塔哥大学口腔健康学士，国际学生每年约3-4万纽币） |
-| 研究生文凭 | 1年 | $30,000~$50,000（适合已有牙科相关学历者，如奥塔哥大学） |
-| 专科培训 | 2年 | $50,000~$80,000（通过工作单位资助或边工作边学习） |
+| Bachelor's degree | 3 years | $32,000~$45,000 (International student tuition: approximately 9,000–12,000 NZD/year for local students in New Zealand) |
+| Graduate diploma | 1 year | $25,000~$40,000 (Enhance professional skills or move to a specialized area) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科治疗师注册 | 牙科委员会（Dental Council of New Zealand） | 必备 | 必须持有现行年检注册证方可执业 |
-| 口腔健康学士（BOH） | 奥塔哥大学 | 必备 | 主流入门学位 |
-| 雅思7.0（学术类） | IDP / British Council | 可选 | 注册和移民通常要求，各单项不低于7.0 |
+| Bachelor of Dental Therapy | University of Otago | Required | Only university offering this course, requires 3 years full-time study. |
+| Dental Therapist Registration | Dental Council of New Zealand | Required | Must register with DCNZ to practice |
+| Annual Practising Certificate (APC) | Dental Council | Required | Renew annually to maintain practice eligibility |
+| IELTS Academic overall band 7.0 | IELTS | Required | Registration and immigration language requirements: no band lower than 7.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 600。新西兰各地，尤其是偏远地区，牙科治疗师持续短缺。随着政府对儿童口腔健康重视，未来十年预计就业增长稳定。多数岗位在公立系统，工作保障高，但全职职位竞争适中。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 1,200. Growing demand for children's oral health in New Zealand, with government-funded school dental services driving employment. Job numbers expected to grow steadily over the next 5 years, especially in Auckland, Waikato, and other regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 公立系统起薪约6.5-7万 |
-| 中级（4-7年） | $75,000~$90,000 | 含经验补贴或偏远地区津贴 |
-| 高级（8年以上） | $90,000~$110,000 | 主管或导师级别可达11万 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Public school dental service salary; private clinics may be slightly higher |
+| Mid-level (3–7 years) | $70,000~$85,000 | Experienced, responsible for complex cases or teaching |
+| Senior (7+ years) | $85,000~$100,000 | Chief therapist or management roles, some in private sector with higher pay |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从牙科治疗师可晋升为高级治疗师、临床导师或口腔健康协调员。部分人通过额外学习成为牙科医生或口腔治疗师。新西兰提供渐进式注册和继续教育支持。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
 
-- Green List Tier 2
+May advance from junior dental therapist to senior or chief therapist, or transition into oral health promotion or management roles. Some pursue further study to become dentists or specialist therapists, broadening career boundaries.
+
+**Tasks most exposed to AI:**
+
+- Caries detection and basic X-ray interpretation
+- Basic Treatment Plan Generation (e.g., filling plans)
+- Patient Appointment Scheduling and Medical Record Organization
+- Drug dosage calculation and side effect alerts
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis improves diagnostic accuracy
+- Digital treatment planning to improve filling/restoration outcomes
+- Smart patient management system optimizes appointments and follow-ups
+- Virtual assistant provides personalized oral health education
+
+**Human moat:**
+
+- Clinical operation skills (e.g., fillings, sealants)
+- Ability to build trust and communicate with patients
+- Clinical judgment for handling complex cases
+- Fine hand movements and hand-eye coordination
+- Techniques for soothing children and anxious patients
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic software (e.g., DEXIS, Pearl)
+- Digital impressions and CAD/CAM operation
+- Data analysis to interpret oral health trends in patient populations
+- Remote dental consultation and collaboration skills
+- Interdisciplinary collaboration (with dentists, hygienists)
+- Lifelong learning and adaptability to new technologies
+
+**Key growth areas:**
+
+- Green List Tier 1
 - Skilled Migrant Category
-- Regional Demand
-- Public Health Sector
+- Health Workforce
+- School Dental Services
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List Tier 2（Work to Residence - Green List） | 从事该职业工作满24个月，可申请居留；需满足薪资中位数（约$29.66/小时） |
-| Subclass SMC（Skilled Migrant Category） | 即使不在绿色清单，也可凭6分制（学历+工作经验）申请，但需有认证雇主offer |
-| Subclass AEWV（Accredited Employer Work Visa） | 找到认证雇主即可申请，最长3年，可续签；为居留铺路 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List Tier 1 requirements, can apply for residency directly without working for 2 years |
+| Subclass Green List T2 (Work to Residence Visa) | Can apply for residency after 2 years of work, suitable for those not fully meeting T1 conditions. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, high points can be obtained through registered occupation, qualifications, and salary, with good invitation chances. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you do not meet the conditions for skilled migration temporarily, you can first work with this visa and later transition to permanent residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Therapist？**
-- 有耐心且喜爱儿童和青少年的人
-- 希望在医疗领域获得稳定工作且对移民新西兰感兴趣的人
-- 能够接受在公立系统或偏远地区工作的人
-
-**谁不适合学Dental Therapist？**
-- 倾向于高薪自由职业或私立诊所的人
-- 无法通过英语雅思7.0考试的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about children's oral health, patient and communicative
+- Aiming to settle in New Zealand stably and obtain residency quickly
+- Willing to work in public or community healthcare systems
+
+**Who is not suited**
+- Unable to adapt to rural or remote postings
+- Expect high salary and fast-paced work in private clinics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dental therapists?**
+A: Junior salary approximately NZD 55,000–70,000 per year, intermediate NZD 70,000–85,000, senior NZD 85,000–100,000. Salaries in the public system are stable but private may be higher.
+
+**Q: How can dental therapists gain New Zealand residency through immigration?**
+A: This occupation is on the Green List Tier 1, eligible for a direct residence visa; also qualifies under the 6-point skilled migrant system, easily meeting requirements with registration and qualifications.
+
+**Q: What are the career development pathways for dental therapists?**
+A: Can progress from clinician to chief therapist, or transition into oral health management or education roles. Some become dentists or specialist therapists through additional study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Dental Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a dental therapist in New Zealand?**
-答：Entry-level NZD 65k-75k; mid-level NZD 75k-90k; senior NZD 90k-110k. Public sector offers steady increments and remote area allowances.
-
-**问：Can dental therapists migrate via the Green List?**
-答：Yes. The role is on Green List Tier 2. After 24 months of work and meeting the median wage ($29.66/hr), you can apply for residence. SMC 6-point system also applies.
-
-**问：What education is required to become a dental therapist in NZ?**
-答：Typically a Bachelor of Oral Health (BOH) from University of Otago (3 years) or a postgraduate diploma. International students need IELTS 7.0 (Academic) and registration with the Dental Council.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,96 @@
-# 汽车钣金工（Panel Beater）职业分析 · 澳大利亚
+# Panel Beater — career analysis · Australia
 
-**职业代码：324111 – Panel Beater。**
+**Occupation code: 324111 (ANZSCO)**
 
-汽车钣金工（Panel Beater）修复车辆碰撞损伤，包括矫正车身、更换面板和修补结构件。澳洲车辆保险维修市场庞大，加上近年极端天气（冰雹）引发大规模理赔，汽车钣金工需求持续高位。CSOL短缺职业。
+A Panel Beater repairs collision damage to vehicles, including straightening body panels, replacing panels and fixing structural components. Australia has a large vehicle insurance repair market, and recent extreme weather events (hailstorms) have triggered large-scale insurance claims, keeping demand for panel beaters consistently high. Listed as a CSOL shortage occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Automotive Body Repair Technology | 36~48个月（学徒） | —（各州TAFE；工具费约$1,500） |
-| EV High Voltage Safety Training | 1~2天 | $300~$800（电动车钣金维修额外要求） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Automotive Body Repair Technology | 36–48 months (apprenticeship) | $0~$2,500 (TAFE in each state; tool costs approximately $1,500) |
+| EV High Voltage Safety Training | 1–2 days | $300~$800 (Additional requirements for electric vehicle panel repair) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Automotive Body Repair Technology | TAFE/RTO | 必备 | 执业核心资质 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Automotive Body Repair Technology | TAFE/RTO | Required | Core practising qualifications |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 20,000。澳洲冰雹事件（2024-2025）导致大量车辆损毁，保险维修积压严重，钣金工需求暴增。EV电动车高压系统钣金维修需要额外安全培训，技能溢价上升。
+**Job demand: high (★★★★☆).** National workforce approx. 20,000. Australian hail events (2024–2025) caused extensive vehicle damage, creating a serious insurance repair backlog and a surge in demand for panel beaters. High-voltage EV system panel repair requires additional safety training, driving a growing skills premium.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~700 个 | 全国各州均有，城市集中 |
-| Indeed | 150~350 个 | 保险维修中心 |
-| LinkedIn | 50~150 个 | 大型连锁维修集团 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $25,000~$55,000 | Motor Vehicle Repair Award |
-| 初级钣金工（1~3年） | $65,000~$80,000 | 独立店铺 |
-| 中级钣金工（3~8年） | $80,000~$100,000 | Seek均值约$38~$48/hr（2026） |
-| 高级/承包工（8年+） | $100,000~$130,000 | 冰雹季承包商日薪极高 |
+| Median salary | $96,096 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $25,000~$55,000 | Motor Vehicle Repair Award |
+| Junior Sheet Metal Worker (1–3 years) | $65,000~$80,000 | Independent shop |
+| Intermediate Sheet Metal Worker (3–8 years) | $80,000~$100,000 | Seek average approximately $38–$48/hr (2026) |
+| Senior/Contractor (8+ years) | $100,000~$130,000 | Daily contractor rates are extremely high during hail season |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 车身铝合金化趋势对钣金工技能提出新要求（不同于传统钢板修复）。独立小型碰撞维修店到大型连锁（如Repco Authorised）均持续招聘。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
+
+The trend toward aluminium vehicle bodies places new skill demands on panel beaters (different from traditional steel repair). Independent small collision repair shops through to large chains (e.g. Repco Authorised) are all actively hiring.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition to automatically assess vehicle damage and generate repair plans
+- Automated quotation system generating repair quotes
+- AI scheduling optimizes the order of maintenance work orders.
+- Digital twin simulation of collision repair processes to reduce trial and error
+- Automatic logging of repair progress and work hours
+
+**Where AI augments the role:**
+
+- AR glasses display damage analysis results and repair guidance to improve accuracy
+- AI-assisted detection of hidden damage to reduce omissions
+- 3D Scanning and Printing for Rapid Custom Sheet Metal Parts
+- Smart diagnostic tools analyze structural strength and optimize repair solutions.
+- VR training system simulates multiple collision scenarios to accelerate skill improvement
+
+**Human moat:**
+
+- Complex metal forming and craft restoration (e.g., hand shaping)
+- Comprehensive judgment of vehicle body structure and mechanical properties
+- Explaining repair plans and liability determination to clients
+- Handling unique issues of non-standard, older vehicle models
+- On-site safety assessment and emergency repair decisions
+
+**Skills to build:**
+
+- Operating AI-assisted damage assessment software
+- 3D scanning and reverse engineering technology
+- High-voltage safety knowledge for new energy vehicles
+- Use digital maintenance management platform
+- New material welding and bonding processes
+- Customer communication and insurance claims coordination.
+
+**Key growth areas:**
 
 - Insurance Repair (AAMI/NRMA)
 - EV Body Repair
@@ -69,69 +99,66 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学汽车钣金工？**
-- 有汽车钣金或车身修复经验，目标技能移民澳洲
-- 接受车间工作环境，擅长手工精细操作
-
-**谁不适合学汽车钣金工？**
-- 无汽车维修背景
-- 期望高薪办公室工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experience in automotive panel beating or body repair, aiming for skilled migration to Australia
+- Comfortable working in a workshop environment, skilled in precise manual work
+
+**Who is not suited**
+- No automotive repair background
+- Expecting a high-paying office role
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a sheet metal worker in Australia?**
+A: Mid-level sheet metal worker annual salary approx. $80,000–$100,000 ($38–$48/hr). Contractor earnings can significantly exceed this during hail seasons.
+
+**Q: Is there strong demand for sheetmetal workers in Australia?**
+A: Strong demand. The insurance repair market is stable, with recent extreme hail events driving additional surges in demand; remains on the CSOL as a shortage occupation.
+
+**Q: Is domestic automotive panel beating experience recognised in Australia?**
+A: TRA skills assessment required (12–18 months); submit panel beating work records and photos; pass rate is relatively high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 324111 数据 |
-| Seek AU | Panel Beater 薪资及岗位量（2026） |
-| TRA | 海外技工互认 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-汽车钣金工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲钣金工工资多少？**
-答：中级钣金工年薪约 $80,000~$100,000（$38~$48/hr）。冰雹季承包商收入可大幅超出。
-
-**问：澳洲钣金工需求量大吗？**
-答：需求旺盛。保险维修市场稳定，近年极端冰雹事件额外拉动大量需求，CSOL持续短缺。
-
-**问：国内汽车钣金经验澳洲认可吗？**
-答：需TRA技能评估（12~18个月），提交车身修复工作记录和照片，通过率较高。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

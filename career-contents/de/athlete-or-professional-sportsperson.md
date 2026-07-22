@@ -1,60 +1,94 @@
-# Athlete or Professional Sportsperson（Athlete or Professional Sportsperson）职业分析 · DE
+# Athlete or Professional Sportsperson — career analysis · Germany
 
-**职业代码：9424 – Athlete or Professional Sportsperson。**
+**Occupation code: 9424 (KldB)**
 
-Individuals who compete in athletic or professional sports events, such as football, basketball, or athletics. Income depends on performance, sponsorships, and contracts, not standard employment.
+Individuals engaged in competitive or professional sports, including football, basketball, athletics, etc. Income depends on performance, sponsorships, and contracts, not an ordinary employment relationship.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业训练（全训） | 2-4年（俱乐部青训） | —（通常由俱乐部资助） |
-| 双元制体育类Ausbildung（少数项目） | 3年 | —（部分体育管理或教练类培训有费用） |
+| Vocational Training (Full-time) | 2-4 years (club youth training) | $0~$0 (Usually funded by the club) |
+| Dual system sports Ausbildung (limited programs) | 3 years | $0~$3,000 (Some sports management or coaching courses have fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定学位要求 | 无 | 可选 | 运动员不需学历，选拔基于成绩 |
-| 职业许可（某些项目） | 德国体育联合会（DOSB） | 可选 | 部分联盟要求注册或持证 |
+| No specific degree requirement | None | Optional | Athletes do not require academic qualifications; selection is based on performance |
+| Occupational licensing (for some projects). | German Olympic Sports Confederation (DOSB) | Optional | Some unions require registration or certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 15,000。德国体育产业稳定，顶级运动员机会有限，合同竞争激烈。收入两极分化，少数明星收入极高，多数收入中等。受公众关注度高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Germany's sports industry is stable, but opportunities for top athletes are limited and contract competition is intense. Income is polarized, with a few stars earning extremely high incomes while most earn moderate incomes. High public attention.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（青年或低级别联赛） | $20,000~$50,000 | 低级别联赛或青年合同 |
-| 中级（职业联赛常规球员） | $60,000~$300,000 | 德乙或德甲替补球员水平 |
-| 高级（顶级联赛明星球员） | $500,000~$5,000,000 | 德甲主力或知名运动员，含赞助 |
+| Median salary | $53,940 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Junior (youth or lower-level leagues) | $20,000~$50,000 | Lower league or youth contract |
+| Mid-level (regular player in professional league) | $60,000~$300,000 | At the level of a substitute player in the 2. Bundesliga or Bundesliga. |
+| Elite (top league star player) | $500,000~$5,000,000 | Bundesliga starters or well-known athletes, including sponsorships |
+| average salary | $161,364 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 年轻时进入职业体系，通过俱乐部或国家队发展。后期可转向教练、体育管理、媒体评论或体育营销。生涯较短，需提前规划转型。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
+
+Enter the career system at a young age, developing through clubs or national teams. Later transition to coaching, sports management, media commentary, or sports marketing. Career is short-lived, requiring early transition planning.
+
+**Tasks most exposed to AI:**
+
+- Manual collection and analysis of game data
+- Basic training plan development and adjustment
+- Manual editing and annotation of tactical footage
+- Traditional monitoring and recording of athlete physiological indicators
+
+**Where AI augments the role:**
+
+- Uses AI video analysis to optimize personal technique and tactical decisions
+- Personalized injury prevention using wearable sensors and AI
+- Improve pre-game preparation efficiency through AI simulation of opponent strategies
+- Use AI to generate customized nutrition and recovery plans
+
+**Human moat:**
+
+- High-intensity physical fitness, speed, and skill performance
+- Intuitive judgment for on-the-spot response and teamwork
+- Competitive spirit and mental resilience
+- Perseverance and self-discipline from long-term training
+- Breaking human limits and creative race strategies
+
+**Skills to build:**
+
+- Sports data analysis and interpretation
+- Use of AI video analysis tools
+- Wearable devices and biosensor data applications
+- Personalized training programming (AI-assisted)
+- Sports Psychology and Stress Management
+- Digital media and personal brand management
+
+**Key growth areas:**
 
 - competitive
 - media-driven
@@ -63,62 +97,64 @@ Individuals who compete in athletic or professional sports events, such as footb
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 仅适用于特殊人才（如顶级运动员），需俱乐部担保 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用，除非有高薪合同并符合一般技术移民条件 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Only available for special talents (e.g., top athletes), requires club sponsorship |
+| Subclass EU Blue Card (EU Blue Card) | Generally not applicable unless with a high-salary contract and meeting general skilled migration conditions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Athlete or Professional Sportsperson？**
-- 体育天赋出众且经过系统训练的人
-- 能承受高强度训练和公众压力
-- 愿意在年轻时候全力投入并接受短期生涯风险
+**Who is suited**
+- Individuals with outstanding athletic talent and systematic training
+- Able to withstand high-intensity training and public pressure.
+- Willing to fully commit in youth and accept short-term career risks
 
-**谁不适合学Athlete or Professional Sportsperson？**
-- 没有突出运动天赋或不愿常年高强度训练的人
-- 追求稳定职业规划和长期保障的人
+**Who is not suited**
+- Those without outstanding athletic talent or unwilling to undergo year-round high-intensity training
+- People seeking stable career planning and long-term security
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual income of professional athletes?**
+A: Income disparity is huge. Entry-level players earn about 20,000–50,000 euros annually, top stars can reach millions, and median players earn around 60,000–150,000 euros.
+
+**Q: How can foreign athletes immigrate to Germany?**
+A: Most require club sponsorship for work visas; top athletes can apply for Skilled Worker Visa. Ordinary athletes have almost no skilled migration pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Athlete or Professional Sportsperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income of professional athletes?**
-答：Income varies widely. Entry-level athletes earn €20k-50k, stars can earn millions, median around €60k-150k.
-
-**问：How can foreign athletes immigrate to Germany?**
-答：Most need a club-sponsored work visa; top athletes may qualify for Skilled Worker Visa. Standard routes are very limited.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

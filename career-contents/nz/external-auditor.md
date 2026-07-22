@@ -1,59 +1,95 @@
-# External Auditor（External Auditor）职业分析 · 新西兰
+# External Auditor — career analysis · New Zealand
 
-**职业代码：221213 – External Auditor。**
+**Occupation code: 221213 (ANZSCO)**
 
-Independently review financial statements and internal controls for compliance. IT audit and ESG assurance are emerging fields. Eligible for Green List Tier 1 direct residence.
+Independently review corporate financial statements and internal controls to ensure compliance. IT audit and ESG assurance audit are emerging areas. Meets Green List Tier 1 requirements and can directly apply for residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（会计/金融） | 3-4年 | $30,000~$45,000（每年学费，公立大学） |
-| 硕士（商业/会计） | 1-2年 | $40,000~$55,000（每年学费，适合转专业） |
+| Bachelor's (Accounting/Finance) | 3-4 years | $30,000~$45,000 (Annual tuition, public university) |
+| Master's (Business/Accounting) | 1-2 years | $40,000~$55,000 (Annual tuition fee, suitable for changing majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰特许会计师 (CA) | 新西兰特许会计师公会 (NZICA) | 可选 | 需完成CA ANZ认可课程及3年实践经验 |
-| 澳大利亚注册会计师 (CPA Australia) | CPA Australia | 可选 | 在新西兰广泛认可，需通过考试及工作经验 |
-| 雅思 (IELTS) | IDP/British Council | 必备 | 技术移民要求总分6.5，各单项不低于6.0 |
+| IELTS | IDP/British Council | Required | Skilled migration requires a total score of 6.5, with no band less than 6.0 |
+| New Zealand Chartered Accountant (CA) | New Zealand Institute of Chartered Accountants (NZICA) | Optional | Must complete CA ANZ accredited program and 3 years of practical experience. |
+| CPA Australia | CPA Australia | Optional | Widely recognized in New Zealand, requires passing exams and work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,000。新西兰对合格审计师需求稳定，尤其四大会计师事务所及大型企业。受商业环境监管加强驱动，预计2023-2028年就业增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,000. Demand for qualified auditors in New Zealand is stable, especially at Big Four firms and large corporations. Driven by increased regulatory oversight, job growth of about 5% is expected from 2023-2028.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 四大起薪约6万 |
-| 中级（3-6年） | $75,000~$100,000 | 含持证后的薪资提升 |
-| 高级（6年以上/经理） | $100,000~$140,000 | 经理级可达12万以上 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Big four starting salary about 60k |
+| Mid-level (3–6 years) | $75,000~$100,000 | Includes salary increase after certification |
+| Senior (6+ years/manager) | $100,000~$140,000 | Managerial level can reach over 120,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级审计师可晋升至高级审计师/审计经理，再至合伙人或转向内部审计、风险管理。注册会计师(CA/CPA)资质是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will automate data collection and some verification tasks, but audit judgment, fraud detection, and emerging areas like ESG still require human leadership, transitioning auditors toward data analysis and consulting roles.
+
+Junior auditors can progress to senior auditor/audit manager, then to partner, or transition to internal audit or risk management. CPA/CA certification is key.
+
+**Tasks most exposed to AI:**
+
+- Auto-extract financial data from ERP and perform preliminary checks
+- Automatically read key clauses from contracts/invoices using OCR and NLP
+- Executing standardized control tests based on rule engines
+- Generate routine audit working papers and preliminary analysis reports
+- Automatically match anomalous transactions with alert rules
+
+**Where AI augments the role:**
+
+- Using AI for full-data anomaly detection to improve sampling accuracy
+- AI-assisted continuous auditing, real-time monitoring of financial metric fluctuations
+- Natural language processing for quick review of large volumes of contracts/policy documents
+- Machine learning models to predict areas of material misstatement risk
+- Automated workflows improve audit document management and collaboration efficiency
+
+**Human moat:**
+
+- Judgment and professional skepticism for complex business models
+- Management fraud identification and investigation
+- Communicate with auditees to negotiate adjustment plans
+- Professional judgment in non-standard emerging fields like ESG report assurance
+- Critical review of AI outputs and final accountability
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/SQL/Tableau)
+- AI tool application (AI audit platforms/robotic process automation)
+- IT audit and information systems control assessment
+- ESG and sustainability reporting assurance
+- Data governance and cybersecurity fundamentals
+- Communication and business consulting skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Independently review financial statements and internal controls for compliance. 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合条件的审计师可直接申请居留，无需工作满两年 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，硕士学历+技能工作可获6分，直接申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未达绿色清单要求，可由认证雇主担保工作 |
+| Subclass Green List T1 (Straight to Residence Visa) | Eligible auditors can apply for permanent residence directly without working for two years. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, a master's degree plus skilled work can achieve 6 points, eligible for direct application. |
+| Subclass AEWV (Accredited Employer Work Visa) | If green list requirements not met, can be sponsored by accredited employer for work |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学External Auditor？**
-- 持有会计/金融本科及以上学历，且注重细节
-- 具备良好英语沟通能力，愿意考取CA/CPA等职业资格
-- 希望利用绿色清单快速移民新西兰
-
-**谁不适合学External Auditor？**
-- 排斥高强度数字核查与加班文化
-- 不愿持续学习新法规与审计技术
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a bachelor's degree or higher in accounting/finance, and is detail-oriented
+- Good English communication skills, willing to obtain professional qualifications such as CA/CPA
+- Aiming to immigrate to New Zealand quickly using the Green List
+
+**Who is not suited**
+- Rejecting high-intensity digital checks and overtime culture
+- Unwilling to continuously learn new regulations and audit techniques
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate starting salary for junior auditors in New Zealand?**
+A: Junior auditors (0-3 years) earn about NZ$55,000-$75,000 annually, with starting salary at Big Four firms around NZ$60,000.
+
+**Q: Can auditors apply for residency directly through the Green List?**
+A: Yes. External Auditors are on the Green List Tier 1 and can directly apply for residence if they meet education and work requirements.
+
+**Q: Do you need to pass the CA to be an auditor in New Zealand?**
+A: Not mandatory, but having CA or CPA qualifications significantly enhances employment competitiveness and salary, and is beneficial for immigration points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-External Auditor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for junior auditors in New Zealand?**
-答：Junior auditors (0-3 years) earn around NZ$55,000-75,000 per year; Big Four starting salary is around NZ$60,000.
-
-**问：Can auditors apply for residence directly via the Green List?**
-答：Yes. External Auditor is on Green List Tier 1; eligible for Straight to Residence Visa with relevant qualification and job.
-
-**问：Is CA mandatory to work as an auditor in New Zealand?**
-答：Not mandatory, but having CA or CPA greatly improves employability, salary, and may assist with migration points.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Captains, Mates, and Pilots of Water Vessels（Captains, Mates, and Pilots of Water Vessels）职业分析 · 美国
+# Captains, Mates, and Pilots of Water Vessels — career analysis · United States
 
-**职业代码：53-5021 – Captains, Mates, and Pilots of Water Vessels。**
+**Occupation code: 53-5021 (SOC)**
 
-Command or supervise operations of ships and water vessels, such as tugboats and ferryboats. Must hold a U.S. Coast Guard license.
+Commands or supervises the operation of vessels (e.g., tugboats, ferries); must hold a US Coast Guard license. Excludes motorboat operators.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 海事学院文凭或副学士 | 2年 | $10,000~$40,000（包括学费和实习费） |
-| 商船船员证书培训 | 1-3年 | $5,000~$20,000（取决于证书等级和课程） |
+| Diploma or associate degree from maritime academy | 2 years | $10,000~$40,000 (Includes tuition and internship fees) |
+| Merchant navy crew certificate training | 1-3 years | $5,000~$20,000 (Depends on certificate level and course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国海岸警卫队商船船员证书 | US Coast Guard | 必备 | 必须持有相应等级执照 |
-| 雷达观测与ARPA证书 | US Coast Guard | 可选 | 部分船舶要求 |
-| 基本安全培训证书 | US Coast Guard | 必备 | 所有海员必须 |
+| US Coast Guard Merchant Mariner Credential | US Coast Guard | Required | Must hold the corresponding licence grade |
+| Basic safety training certificate | US Coast Guard | Required | All seafarers must |
+| Radar Observation and ARPA Certificate | US Coast Guard | Optional | Required on some vessels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 29,000。美国水上运输需求稳定，但自动化与港口效率提升可能减缓就业增长。预计2024-2034年就业变化约-1%至+2%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 29,000. Demand for US water transportation is stable, but automation and port efficiency improvements may slow job growth. Employment change is estimated to be between -1% and +2% from 2024 to 2034.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$55,000 | 通常为三级或二级大副 |
-| 中级（4-10年） | $55,000~$85,000 | 一级大副或小型船长 |
-| 高级（10年以上） | $85,000~$150,000 | 大型船舶船长或港口引航员 |
+| Median salary | $92,460 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$55,000 | Typically third or second officer |
+| Mid-level (4-10 years). | $55,000~$85,000 | Chief mate or small vessel captain |
+| Senior (10+ years) | $85,000~$150,000 | Large ship captain or harbor pilot |
+| average salary | $103,720 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从甲板实习生或普通水手起步，积累经验后考取更高等级执照，可晋升为船长或港口引航员。部分人转向海事管理或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed impacts on captains, chief mates, and pilots: route planning, paperwork, and monitoring tasks are enhanced or replaced, but core responsibilities like legal liability, emergency decisions, and crew management are hard to automate; overall risk is manageable.
+
+Usually starts as deck cadet or ordinary seaman, gains experience and obtains higher-level licenses to advance to captain or harbor pilot. Some move into maritime management or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automated route planning and fuel optimization calculations
+- Collision warning system based on AIS and weather data replaces manual lookout assistance
+- Electronic logs and report generation, replacing manual recording and paperwork
+- Auto-steering and dynamic positioning systems replace some conventional steering tasks
+
+**Where AI augments the role:**
+
+- AI-enhanced voyage risk assessment and real-time decision support
+- Smart monitoring systems assist in identifying obstacles and anomalies in waterways
+- Predictive maintenance systems optimize engine and equipment repair schedules.
+- Multimodal communication and translation tools improve cross-border coordination efficiency
+- Simulator AI training scenarios enhance emergency drill effectiveness
+
+**Human moat:**
+
+- Final decision-making and legal responsibility in emergencies (e.g., abandoning ship, collision)
+- Precise manoeuvring and local knowledge for complex port basins and narrow waterways
+- Lead crew teams and maintain shipboard discipline and morale
+- Interpersonal coordination and compliance with port authorities, pilot stations, etc.
+- Adaptability in unpredictable environments (e.g., severe weather, pirates)
+
+**Skills to build:**
+
+- AI-assisted decision system operation and data interpretation
+- Remote monitoring and troubleshooting of automated ships.
+- Data analysis (voyage logs, fuel consumption, equipment status)
+- Digital communication and port-shipping collaborative platform usage
+- Application of AI tools in emergency management (simulation, prediction)
+- Continuously updated regulatory compliance knowledge (digital certificates, reporting)
+
+**Key growth areas:**
 
 - Maritime
 - Automation
@@ -64,66 +99,68 @@ Command or supervise operations of ships and water vessels, such as tugboats and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因船长需要执照且职业非专业职位，雇主担保极少。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 罕见，但若雇主能证明美国工人短缺，可能通过PERM申请绿卡。非常困难。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于极少数表现卓越的船长，如记录保持者或知名引航员。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable, as a captain requires a license and the occupation is not professional; employer sponsorship is rare. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Rare, but if the employer can demonstrate a shortage of US workers, a green card may be possible through PERM. Very difficult. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to a very small number of exceptional ship captains, such as record holders or famous pilots. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Captains, Mates, and Pilots of Water Vessels？**
-- 热爱海洋和水上工作
-- 能适应长时间远离家人和高压环境
-- 具备出色的领导力和决策能力
+**Who is suited**
+- Passionate about the sea and water work.
+- Able to adapt to long periods away from family and high-pressure environments
+- Possesses outstanding leadership and decision-making skills
 
-**谁不适合学Captains, Mates, and Pilots of Water Vessels？**
-- 无法长期离家或适应海上颠簸
-- 不喜欢严格的安全规章制度
+**Who is not suited**
+- Unable to be away from home for long periods or adapt to sea motion
+- Dislike strict safety regulations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a ship captain?**
+A: Depending on vessel type and route, annual salary approximately US$38,000-$150,000, with deep-sea captains typically earning more.
+
+**Q: Can foreigners become US ship captains through H-1B visas?**
+A: Extremely difficult. Captain occupation usually does not meet H-1B specialty occupation requirements, and US Coast Guard license required, foreign license conversion difficult.
+
+**Q: What green card pathways can I apply for?**
+A: EB-3 category is theoretically possible, but requires PERM labor certification and proof of insufficient U.S. workers; in practice, it is very rare. O-1 is only for extraordinary ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Captains, Mates, and Pilots of Water Vessels属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for captains?**
-答：Depending on vessel type and route, annual salary ranges from $38,000 to $150,000, with deep-sea captains earning more.
-
-**问：Can foreigners become U.S. captains via H-1B visa?**
-答：Extremely difficult. The occupation usually does not meet H-1B specialty occupation criteria, and U.S. Coast Guard license requirements hinder foreign credential transfer.
-
-**问：What green card paths are available?**
-答：EB-3 is theoretically possible but requires PERM labor certification and showing shortage of U.S. workers, practically very rare. O-1 only for extraordinary individuals.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Construction Equipment Maintenance Mechanic（Construction Equipment Maintenance Mechanic）职业分析 · FR
+# Construction Equipment Maintenance Mechanic — career analysis · France
 
-**职业代码：I1603 – Construction Equipment Maintenance Mechanic。**
+**Occupation code: I1603 (ROME)**
 
-Responsible for the daily maintenance, fault diagnosis and repair of construction, lifting, handling and agricultural machinery to ensure safe and efficient operation. Work involves hydraulic, electrical and engine systems, often in workshops or on construction sites.
+Responsible for daily maintenance, fault diagnosis, and repair of construction, lifting, handling, and agricultural machinery to ensure safe and efficient operation of equipment. The work involves hydraulic, electrical, and engine systems, often operating in workshops or on construction sites.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业文凭） | 2年 | —（公立学校免费，仅注册费；学徒制有工资） |
-| Bac Pro（职业高中文凭） | 3年 | —（公立学校免费；可走学徒制） |
-| BTS（高级技术文凭） | 2年 | —（公立学校免费；部分私立学校收费） |
+| CAP (Diploma of Occupation) | 2 years | $0~$1,000 (Public schools are free, only the registration fee is required; Apprenticeships are paid) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$1,500 (Public schools are free; It can be implemented through the apprenticeship system) |
+| BTS (Advanced Technical Diploma) | 2 years | $0~$2,000 (Public schools are free; Some private schools charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械维修CAP/Bac Pro | 法国教育部 | 必备 | 基础入门文凭，大部分从业者持有 |
-| CACES（工程机械操作证书） | INRS/指定机构 | 必备 | 操作特定机械（如叉车、起重机）的法定证书 |
-| 高压电气安全认证（Habilitation électrique） | 雇主或培训中心 | 可选 | 从事电气维修所必需 |
+| Mechanical maintenance CAP/Bac Pro | French Ministry of Education | Required | Basic introductory diploma, held by most practitioners |
+| CACES (Construction Machinery Operation Certificate) | INRS / Designated Body | Required | Statutory certificates for operating specific machinery (such as forklifts and cranes). |
+| High-Voltage Electrical Safety Certification (Habilitation électrique) | Employers or training centers | Optional | Necessary for electrical maintenance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 80,000。法国建筑业持续发展，老旧机械更新换代及环保法规趋严，对专业维护技工需求稳定。法国就业局（France Travail）将该职业列为紧缺职业，尤其在乡村地区。
+**Job demand: high (★★★★☆).** National workforce approx. 80,000. The French construction industry continues to develop, with outdated machinery being replaced and environmental regulations becoming stricter, resulting in stable demand for professional maintenance technicians. France Travail classifies this occupation as in short supply, especially in rural areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，团队负责人或专家级别 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, team leader or expert level |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从初级技工晋升为高级技师、团队负责人或设备维护经理。也可通过进修（如CQP或Bac+2）专攻特定品牌或系统（如GPS、混合动力），或自主创业开设维修车间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on construction machinery maintenance technicians is mixed: routine diagnostics and paperwork can be taken over by AI, but troubleshooting complex hydraulic and electrical systems and on-site emergency repairs still require human experience and judgment.
+
+You can be promoted from junior technician to senior technician, team leader, or equipment maintenance manager. You can also specialize in specific brands or systems (like GPS, hybrid) through further training (such as CQP or Bac+2), or start your own repair workshop.
+
+**Tasks most exposed to AI:**
+
+- Use the onboard diagnostic system to read fault codes and generate repair recommendations
+- Maintenance records and report writing
+- Inspect loose bolts or leaking oil pipes through computer vision
+- Predict component replacement times based on historical data
+- Generate equipment maintenance schedules and schedule them automatically
+
+**Where AI augments the role:**
+
+- Using augmented reality (AR) to display hydraulic piping layouts and maintenance steps
+- AI analyzes vibration and temperature data to provide early warnings of potential faults
+- Digital twin analog maintenance solutions reduce trial-and-error costs
+- AI-assisted diagnosis of complex electrical system faults
+- Access technical manuals and video tutorials in real time using mobile devices
+
+**Human moat:**
+
+- Emergency repairs are carried out in severe weather or remote construction sites
+- Handling unique faults in non-standardized, old, or modified machinery
+- Cross-disciplinary judgment of integrated mechanical, hydraulic, electrical, and electronic systems
+- Communicate with operators and understand hidden abnormalities during equipment use
+- Responsible for maintenance safety, including working at heights and isolating hazardous energy
+
+**Skills to build:**
+
+- Learn computer simulation and diagnostic software for hydraulic and electrical systems
+- Master IoT sensor data interpretation and fault prediction methods
+- Familiar with the use of digital twins and AR-assisted repair tools
+- Enhance data analysis skills and understand the statistical application of maintenance logs
+- Participate in AI diagnostic system training and certification provided by manufacturers
+- Develop project management and client communication skills, adapting to remote collaboration
+
+**Key growth areas:**
 
 - green transition
 - electrification of machinery
@@ -63,68 +99,67 @@ Responsible for the daily maintenance, fault diagnosis and repair of constructio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 需法国雇主提供工作合同，并证明无欧盟候选人可胜任。通常要求至少Bac+2学历或同等经验。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如拥有硕士学历或至少5年经验，年薪需达到约40,000欧元以上。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合高技能非欧盟公民，需有工作合同、至少Bac+3学历，年薪需超过法国平均工资的1.5倍（约53,000欧元）。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | A work contract must be provided by a French employer and proof that no EU candidates are qualified. Typically, at least Bac+2 degree or equivalent experience is required. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as those with a master's degree or at least 5 years of experience, with an annual salary of approximately 40,000 euros or more. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled non-EU citizens, requiring a work contract, at least Bac+3 education, and an annual salary exceeding 1.5 times the French average (about 53,000 euros). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Equipment Maintenance Mechanic？**
-- 动手能力强，喜欢机械和电子维修的人
-- 愿意接受户外工作和不固定工作时间的人
-- 寻求稳定职业且希望尽快就业的年轻人
-
-**谁不适合学Construction Equipment Maintenance Mechanic？**
-- 不喜欢体力劳动或脏污工作环境的人
-- 无法适应不断学习和更新技术的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and a passion for mechanical and electronic repair
+- People willing to work outdoors and have flexible working hours
+- Young people seeking stable careers and hoping to find employment quickly
+
+**Who is not suited**
+- People who dislike physical labor or dirty work environments
+- Those unable to adapt to continuous learning and updating of technology.
+
+---
+
+## 8. FAQ
+
+**Q: Is there room for salary increases for construction machinery maintenance technicians?**
+A: Yes. With experience and specialized skills (e.g., hybrid or digital diagnostics), salaries can rise from €24,000 (junior) to over €45,000 (senior). Becoming a team leader or starting your own business can further increase income.
+
+**Q: How can non-EU citizens immigrate to France through this employment?**
+A: A work contract with a French employer is required. A common route is to apply for a Salarié work visa, where employers must prove that the position cannot be filled by an EU citizen. If you have a higher education (BAC+3 or above) and a high salary, you may also consider Passeport Talent or the EU Blue Card.
+
+**Q: Is a diploma recognized by France required to work in the profession?**
+A: Yes, a CAP or Bac Pro diploma issued by the French Ministry of Education is usually required. Foreign diplomas must be accredited by French accreditation bodies (such as ENIC-NARIC) to confirm their equivalence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Construction Equipment Maintenance Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth for construction equipment mechanics?**
-答：Yes. With experience and specialization (e.g., hybrid systems or digital diagnostics), salaries can rise from €24k entry-level to over €45k for senior roles. Becoming a team leader or starting your own business can further increase income.
-
-**问：How can non-EU citizens immigrate to France through this occupation?**
-答：A job offer from a French employer is required. The typical path is the Salarié work permit, where the employer proves no EU candidate is available. For higher education (Bac+3+) and salary, consider Passeport Talent or EU Blue Card.
-
-**问：Is a French-recognized diploma required to work?**
-答：Yes, typically a CAP or Bac Pro from the French Ministry of Education. Foreign qualifications must undergo recognition of qualifications (reconnaissance des qualifications) by ENIC-NARIC to assess equivalency.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

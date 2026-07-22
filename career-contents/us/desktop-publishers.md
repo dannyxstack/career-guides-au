@@ -1,60 +1,96 @@
-# Desktop Publishers（Desktop Publishers）职业分析 · 美国
+# Desktop Publishers — career analysis · United States
 
-**职业代码：43-9031 – Desktop Publishers。**
+**Occupation code: 43-9031 (SOC)**
 
-Format typescript and graphic elements using computer software to produce publication-ready material.
+Use computer software to format typography and graphic elements to produce publication-ready materials.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 副学士学位（图形设计或相关领域） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (graphic design or related field) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 桌面出版软件认证（如Adobe Certified Professional） | Adobe | 可选 | 自愿认证，提升就业竞争力 |
-| 工作经验 | 雇主 | 必备 | 通常要求1-2年相关经验 |
+| Work experience | Employer | Required | Typically requires 1-2 years of relevant experience |
+| Desktop publishing software certification (e.g., Adobe Certified Professional) | Adobe | Optional | Voluntary certification to enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 25,000。美国劳工统计局预计2022-2032年就业下降5%，受自动化软件和数字出版影响，但印刷行业仍有少数岗位。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,000. US Bureau of Labor Statistics projects a 5% decline in employment from 2022 to 2032, due to automation software and digital publishing, though printing still has some positions.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级薪资 |
-| 中级（4-7年） | $40,000~$55,000 | 有经验薪资 |
-| 高级（8年以上） | $55,000~$75,000 | 资深或主管薪资 |
+| Median salary | $55,290 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level salary |
+| Mid-level (4-7 years) | $40,000~$55,000 | Experienced salary. |
+| Senior (8+ years) | $55,000~$75,000 | Senior or supervisor salary |
+| average salary | $61,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可晋升为高级桌面出版员、平面设计师或出版经理；掌握多语言排版或数字出版技能可提升竞争力。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Desktop publisher roles are being reduced by AI automation tools, but AI also improves layout and graphic design efficiency. Entry-level positions are narrowing, but senior staff can move into creative direction and complex projects.
+
+Can advance to senior desktop publisher, graphic designer, or publishing manager; proficiency in multilingual layout or digital publishing can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatic layout adjustment and template application
+- Simple text formatting and proofreading
+- One-click generation of publication drafts
+- Standard image cropping and color adjustment
+- Basic PDF generation and preflighting
+
+**Where AI augments the role:**
+
+- AI-assisted creative layout and color scheme suggestions
+- Automatically generate layout variants for selection
+- Smart fonts and image recommendations
+- Rapid iterative design prototyping
+- Automated output checking and quality assurance
+
+**Human moat:**
+
+- Complex creative design and art direction
+- Brand consistency assessment and client communication
+- Multi-platform publishing strategy development
+- Non-standard problem solving and customized layouts
+- Project management and team collaboration
+
+**Skills to build:**
+
+- Advanced InDesign/QuarkXPress skills
+- Scripting (e.g., JavaScript/ExtendScript)
+- Digital publishing (EPUB/mobile layout)
+- Basic UX/UI design
+- AI design tools (e.g. Adobe Sensei)
+- Project management and client communication
+
+**Key growth areas:**
 
 - Automation Impact
 - Digital Publishing
@@ -63,62 +99,64 @@ Format typescript and graphic elements using computer software to produce public
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需本科学位，该职业通常不满足专业职位要求，雇主赞助困难 |
-| Subclass EB-3（Employment-Based Third Preference） | 需劳工证，但该职业非短缺，PERM通过率低 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree; this occupation typically does not meet specialty occupation requirements, employer sponsorship difficult |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires a labor certification, but this occupation is not in shortage, so PERM approval rates are low |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Desktop Publishers？**
-- 对排版和设计有耐心的人
-- 能适应重复性工作的人
-- 希望在出版行业工作的人
+**Who is suited**
+- People patient with layout and design
+- Those who can adapt to repetitive work
+- People who want to work in the publishing industry
 
-**谁不适合学Desktop Publishers？**
-- 追求高薪和高增长的人
-- 不喜欢长时间面对电脑屏幕的人
+**Who is not suited**
+- People seeking high salaries and high growth
+- People who dislike long hours in front of a computer screen
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for desktop publishers?**
+A: Average annual salary about $45,000 USD in the US; entry-level about $30,000-40,000 USD, senior up to $75,000 USD.
+
+**Q: Can desktop publishers immigrate to the US via the H-1B visa?**
+A: Very difficult, as this occupation usually does not meet H-1B professional position requirements (requires bachelor's degree), and employer sponsorship willingness is low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Desktop Publishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for desktop publishers?**
-答：The average annual salary in the US is about $45,000, entry-level $30,000-$40,000, senior up to $75,000.
-
-**问：Can desktop publishers immigrate to the US via H-1B visa?**
-答：Very difficult, as the occupation usually does not meet H-1B specialty occupation requirements (requires bachelor's degree) and employer sponsorship is low.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

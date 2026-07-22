@@ -1,58 +1,94 @@
-# Research and Development Directors（Research and Development Directors）职业分析 · ES
+# Research and Development Directors — career analysis · Spain
 
-**职业代码：1223 – Research and Development Directors。**
+**Occupation code: 1223 (CNO)**
 
-Direct and coordinate research and development activities in organizations, setting innovation strategies, managing R&D teams and budgets to drive development of new products, technologies, or processes.
+Responsible for planning, guiding, and coordinating R&D activities of enterprises or institutions, formulating innovation strategies, managing R&D teams and budgets, and promoting the development of new products, technologies, or processes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士（Grado） | 4年 | $1,000~$1,500（公立大学年学费（欧盟学生）） |
-| 硕士（Máster） | 1-2年 | $1,500~$3,500（研究型硕士，含论文） |
+| Grado | 4 years | $1,000~$1,500 (Annual tuition fees for public universities (EU students)) |
+| Máster | 1-2 years | $1,500~$3,500 (Research-oriented master's degree, including a thesis) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程、科学或相关领域硕士或博士学位 | 西班牙大学 | 必备 | 必备学历，博士更具竞争力 |
-| 项目管理认证（如PMP） | PMI或其他认可机构 | 可选 | 非强制，但加分 |
+| Master's or doctoral degree in engineering, science, or a related field | Spanish University | Required | Essential academic qualifications, PhDs are more competitive |
+| Project management certification (e.g., PMP) | PMI or other accredited organizations | Optional | Not mandatory, but adds points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。西班牙正大力推动数字化转型与绿色能源，企业研发投入持续增长，尤其在制药、生物技术、信息通信和可再生能源领域，研发总监需求稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Spain is vigorously promoting digital transformation and green energy, with corporate R&D investment continuing to grow, especially in pharmaceuticals, biotechnology, information and communications, and renewable energy, where demand for R&D directors is steadily rising.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪，小型企业或初创公司 |
-| 中级（3-8年） | $60,000~$80,000 | 税前年薪，中型企业 |
-| 高级（8年以上） | $90,000~$130,000 | 税前年薪，大型企业或跨国公司 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Pre-tax annual salary, small business or startup |
+| Mid-level (3–8 years) | $60,000~$80,000 | Annual pre-tax salary, medium-sized enterprise |
+| Senior (8+ years) | $90,000~$130,000 | Pre-tax annual salary, large corporations, or multinational corporations |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从研究员、项目经理晋升，积累技术和项目管理经验后任部门经理，最终晋升为研发总监或首席技术官（CTO）。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance R&D efficiency, but the risk lies in the compression of mid-level technical judgment and coordination tasks, forcing directors to shift to higher-level strategy and innovation management.
+
+Typically, they are promoted from researcher or project manager, gaining technical and project management experience to become department managers, and eventually to R&D director or Chief Technology Officer (CTO).
+
+**Tasks most exposed to AI:**
+
+- Literature review and preliminary screening of patent searches
+- Design of standard experimental protocols and statistical analysis of data
+- Progress tracking and resource scheduling optimization in project management
+- Preliminary writing and translation of technical documentation
+- Basic coding and testing
+
+**Where AI augments the role:**
+
+- Accelerate product prototype validation with AI simulation
+- AI-assisted innovation decision-making (such as technology route evaluation)
+- Automatically generate R&D reports and visualize dashboards
+- Intelligent monitoring of R&D processes and risk warnings
+- Gain cross-domain technical insights through natural language queries
+
+**Human moat:**
+
+- Formulate long-term technology strategies and innovation visions
+- Cross-departmental resource coordination and interest balance
+- Handling uncertainties and sudden technical bottlenecks
+- Cultivating team talent and establishing an innovative culture
+- Ethical judgment and intellectual property strategy formulation
+
+**Skills to build:**
+
+- Generative AI applications (such as ChatGPT-assisted reporting and creative assistance)
+- Fundamentals of Data Analysis and Machine Learning (Python/R)
+- AI project management tools (e.g., Asana + AI plugin)
+- Technology strategy and innovation management methodology
+- Human-machine collaboration and team AI literacy training
+- Interdisciplinary systems thinking
+
+**Key growth areas:**
 
 - R&D investment
 - Innovation
@@ -61,64 +97,63 @@ Direct and coordinate research and development activities in organizations, sett
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历及工作合同，薪资门槛约€40,000/年。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 面向高管、研发人员等，手续简化，可快速获得居留。 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 由西班牙公司担保的工作居留，需证明职位空缺且优先欧盟公民。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree and work contract, salary threshold approx €40,000/year. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Targeting executives, R&D personnel, and others, with simplified procedures and quick residency obtainment. |
+| Subclass Cuenta ajena (Work Permit (employed)) | Work residence sponsored by a Spanish company requires proof of job vacancy and preference given to EU citizens. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Research and Development Directors？**
-- 拥有博士或硕士学位，热爱创新与技术探索的人
-- 具备团队管理和战略规划能力，希望在研究领域担任领导职务
-
-**谁不适合学Research and Development Directors？**
-- 缺乏项目管理或团队领导经验的人
-- 对长期不确定性研究项目缺乏耐心的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a PhD or master's degree and be passionate about innovation and technological exploration
+- Possess team management and strategic planning abilities, and aspire to hold leadership roles in the research field
+
+**Who is not suited**
+- Those lacking project management or team leadership experience
+- People who lack patience for long-term uncertain research projects
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for R&D directors in Spain?**
+A: Based on experience: entry-level approximately €45,000-55,000/year, mid-level €60,000-80,000/year, senior up to €90,000-130,000/year.
+
+**Q: As a third-country citizen, how can you immigrate to Spain through the R&D Director position?**
+A: Can apply through EU Blue Card (requires work contract and degree), high-skilled professional visa (Ley 14/2013), or regular work residence. R&D director is a shortage occupation with faster approval.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Research and Development Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for R&D directors in Spain?**
-答：Entry-level about €45,000-55,000/year, mid-level €60,000-80,000/year, senior €90,000-130,000/year.
-
-**问：How can a third-country national migrate to Spain as an R&D director?**
-答：Via EU Blue Card (job offer and degree), Highly Qualified Professional visa (Law 14/2013), or standard work permit. The occupation is in shortage, expediting processing.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

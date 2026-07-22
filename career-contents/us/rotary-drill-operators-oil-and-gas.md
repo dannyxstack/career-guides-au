@@ -1,61 +1,93 @@
-# Rotary Drill Operators, Oil and Gas（Rotary Drill Operators, Oil and Gas）职业分析 · 美国
+# Rotary Drill Operators, Oil and Gas — career analysis · United States
 
-**职业代码：47-5012 – Rotary Drill Operators, Oil and Gas。**
+**Occupation code: 47-5012 (SOC)**
 
-Operate rotary drilling rigs for oil and gas extraction or core sampling, including setup, operation, and maintenance of drilling equipment.
+Operate rotary drilling rigs for oil and gas extraction or core sampling, responsible for installation, operation, and maintenance of drilling equipment.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定年限 | —（多数职位仅要求高中学历） |
-| 在职培训 | 数月 | —（雇主提供培训，可能需自费部分认证） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Most positions require only high school diploma) |
+| On-the-job training | Several months | $0~$5,000 (Employer provides training; may need to self-fund some certifications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶员执照 | 美国各州机动车管理局 | 必备 | 需CDL以驾驶重型设备 |
-| 钻井安全认证 | 国际钻井承包商协会 | 可选 | 如IADC WellSharp |
-| HAZWOPER培训 | OSHA | 可选 | 危险废物操作和应急响应 |
+| Commercial driver's license | US state motor vehicle departments | Required | Requires CDL to operate heavy equipment |
+| Drilling Safety Certification | International Association of Drilling Contractors | Optional | e.g., IADC WellSharp |
+| HAZWOPER training | OSHA | Optional | Hazardous waste operations and emergency response |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 21,000。受能源价格和政策影响，美国石油天然气钻探就业预计下降。自动化发展可能减少需求，但页岩油开采仍提供岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 21,000. Affected by energy prices and policies, US oil and gas drilling employment is expected to decline. Automation may reduce demand, but shale oil extraction still provides jobs.
 
-**竞争度：中等竞争（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 入门（0-3年） | $38,000~$52,000 | 实习或辅助岗位 |
-| 中级（3-7年） | $55,000~$75,000 | 独立操作钻机 |
-| 高级（7年以上） | $78,000~$100,000 | 资深操作员或主管 |
+| Median salary | $67,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry (0-3 years). | $38,000~$52,000 | Internship or assistant position |
+| Mid-level (3–7 years) | $55,000~$75,000 | Operate drilling rig independently |
+| Senior (7+ years) | $78,000~$100,000 | Senior operator or supervisor |
+| average salary | $72,130 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：前景不佳（★½☆☆☆）。** 从普通钻工晋升为钻机操作员，再至钻井主管或现场经理。需积累经验并获取相关认证。
-**AI替代风险：中等风险（★★☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
+
+Advance from roughneck to drill operator, then to drilling supervisor or field manager. Requires experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Drill start-stop and feed pressure etc. repetitive operations taken over by automation control system
+- Drill pipe connection/disconnection tasks replaced by remote-controlled robotic arms
+- Manual recording of basic data such as hole depth and rotation speed replaced by automatic sensor uploads
+- Preliminary identification of standard geological profiles completed by AI lithology recognition algorithms
+
+**Where AI augments the role:**
+
+- AI geological modeling assists in optimizing drill hole layouts and drilling parameters
+- Real-time vibration/torque data analysis to predict drill bit wear and downhole incidents
+- AR glasses overlay geological cross-sections to enhance core sample accuracy
+- Digital twin simulation of different drilling strategies in various strata to aid decisions
+
+**Human moat:**
+
+- On-site emergency judgment and handling of complex strata (fracture zones, water-bearing layers)
+- Team safety supervision and emergency communication coordination
+- Flexible repair and spare parts management for drilling rig mechanical failures
+- Experiential intuition in cross-trade collaboration (e.g., drill bit selection and cost trade-offs)
+
+**Skills to build:**
+
+- Fault diagnosis of hydraulic and electrical control systems
+- Basic sensor data interpretation and visualization
+- Remote operation and use of digital twin platforms
+- Rock and mineral identification and well log interpretation
+- WHS risk management (for automation collaborative safety)
+
+**Key growth areas:**
 
 - Oil & Gas
 - Drilling Technology
@@ -64,66 +96,68 @@ Operate rotary drilling rigs for oil and gas extraction or core sampling, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职业通常不要求学士学位，H-1B获批困难。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需证明至少有2年培训或经验，但PERM劳工证难以获批，因劳动力市场测试可能显示有足够美国工人。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅在极少数情况下，如具有特殊贡献的操作员可尝试，但标准极高。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as this occupation typically does not require a bachelor's degree, making H-1B approval difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Must prove at least 2 years of training or experience, but PERM labor certification is difficult to obtain as labor market tests may show sufficient US workers. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only in very rare cases, such as operators with exceptional contributions, but standards are extremely high. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Rotary Drill Operators, Oil and Gas？**
-- 能适应户外和偏远工作环境
-- 体力好、不怕危险
-- 愿意接受倒班和长时间工作
+**Who is suited**
+- Able to adapt to outdoor and remote work environments
+- Good physical fitness, not afraid of danger
+- Willing to accept shift work and long hours
 
-**谁不适合学Rotary Drill Operators, Oil and Gas？**
-- 希望稳定城市工作
-- 不善于操作重型机械
+**Who is not suited**
+- Want stable city work
+- Not adept at operating heavy machinery
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a rotary drill operator?**
+A: Entry-level annual salary approx. $38,000-$52,000 USD; senior roles $78,000-$100,000 USD. Heavily affected by location and experience.
+
+**Q: Can this occupation immigrate to the US via a work visa?**
+A: Very difficult. This occupation usually does not require a bachelor's degree, H-1B visa approval rates are low; EB-3 green card requires PERM labor certification, but labor market tests often show sufficient US workers.
+
+**Q: How to advance to drilling supervisor?**
+A: Requires years of experience, a commercial driver's license, drilling safety certifications, and demonstrated leadership. Some companies require an associate degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等竞争（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 前景不佳（★½☆☆☆） |
-| AI替代风险 | 中等风险（★★☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Rotary Drill Operators, Oil and Gas属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for rotary drill operators?**
-答：Entry-level salary ranges from $38,000 to $52,000, while senior operators can earn $78,000 to $100,000, depending on location and experience.
-
-**问：Can this occupation immigrate to the US via work visa?**
-答：Highly unlikely. The occupation typically does not require a bachelor's degree, making H-1B difficult. EB-3 green card requires PERM labor certification, but the labor market test often shows sufficient US workers.
-
-**问：How to advance to drilling supervisor?**
-答：Requires years of experience, a commercial driver's license, drilling safety certifications, and leadership skills. Some companies may prefer an associate degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

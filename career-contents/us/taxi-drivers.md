@@ -1,60 +1,94 @@
-# Taxi Drivers（Taxi Drivers）职业分析 · 美国
+# Taxi Drivers — career analysis · United States
 
-**职业代码：53-3054 – Taxi Drivers。**
+**Occupation code: 53-3054 (SOC)**
 
-Drive a taxi to transport passengers on demand, charging fares based on meter distance, requiring knowledge of city streets and traffic laws.
+Drive a taxi to transport passengers on a metered fare basis; routes are not fixed; requires familiarity with city streets and traffic regulations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（通常要求高中或同等学历） |
-| 职业培训（可选） | 1个月 | $200~$1,000（驾驶培训课程，非强制） |
+| High school graduation | 12 years | $0~$0 (Usually requires high school diploma or equivalent) |
+| Vocational training (optional) | 1 month | $200~$1,000 (Driving training course, not mandatory.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 州机动车管理局 | 必备 | 部分州要求，需通过笔试和路考 |
-| 出租车司机执照 | 市政当局 | 必备 | 需背景调查和体检 |
+| Commercial Driver's License (CDL) | State motor vehicle department | Required | Required in some states, must pass written and road tests |
+| Taxi driver license | Municipal government | Required | Requires background check and medical examination |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 234,000。受网约车冲击，就业增长缓慢，预计2023-2033年增长率约1%，低于平均水平。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 234,000. Slow job growth due to ride-sharing impact, projected growth of about 1% from 2023-2033, below average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 收入通常含小费 |
-| 中级（3-7年） | $35,000~$45,000 | 经验丰富者收入更高 |
-| 高级（7年以上） | $45,000~$60,000 | 顶级司机或自营者可达 |
+| Median salary | $42,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Income usually includes tips |
+| Mid-level (3–7 years) | $35,000~$45,000 | Higher income for experienced individuals |
+| Senior (7+ years) | $45,000~$60,000 | Top drivers or self-employed can achieve |
+| average salary | $49,930 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 通常从入门司机做起，可成为车队主管或自购车辆运营，但晋升空间有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: very low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Autonomous driving technology will significantly reduce taxi driver positions, but full replacement will take time; in the short term, ride-sharing platform optimization of scheduling intensifies competition, narrowing entry-level roles.
+
+Usually start as entry-level drivers, can become fleet supervisors or purchase own vehicles, but advancement is limited.
+
+**Tasks most exposed to AI:**
+
+- Route planning and navigation (AI navigation for optimal routes)
+- Order receiving and dispatch (platform auto-assignment)
+- Billing and payment (automatic calculation and electronic payment).
+- Vehicle basic maintenance warnings (sensor self-check reporting)
+- Customer complaint handling (preprocessed by AI customer service)
+
+**Where AI augments the role:**
+
+- Real-time traffic and dynamic pricing optimization (AI analysis of supply and demand)
+- Safe driving assistance (collision warning, blind spot monitoring)
+- Personalized customer service (recommend itineraries based on historical preferences)
+- Multilingual translator (communicating with foreign passengers via voice translation tools)
+
+**Human moat:**
+
+- Response to complex road conditions (accidents, construction, extreme weather)
+- Interpersonal communication and service experience (emotional support, special needs)
+- Vehicle interior management (cleaning, safety check manual judgment)
+- Trust relationship with passengers (retaining regular customers, word-of-mouth)
+
+**Skills to build:**
+
+- Data analysis and scheduling algorithm understanding (to improve order-taking efficiency).
+- Vehicle maintenance and fault diagnosis basics
+- Advanced customer service and communication skills
+- Safe driving and defensive driving techniques
+- AI-assisted tool usage (navigation, payment, service)
+- Basic multilingual communication
+
+**Key growth areas:**
 
 - ride-sharing competition
 - slow growth
@@ -63,61 +97,63 @@ Drive a taxi to transport passengers on demand, charging fares based on meter di
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 季节性司机可用，需雇主担保且名额有限 |
-| Subclass Green Card (EB-3)（Employment-Based Third Preference） | 理论上可申请，但几乎无雇主担保，难度极大 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal driver positions available, requiring employer sponsorship with limited quotas |
+| Subclass Green Card (EB-3) (Employment-Based Third Preference) | Theoretically possible to apply, but almost no employer sponsorship, extremely difficult |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Taxi Drivers？**
-- 熟悉城市路况和方向感强的人
-- 能接受不固定工作时间的人
+**Who is suited**
+- People familiar with city road conditions and with a strong sense of direction
+- People who can accept irregular working hours
 
-**谁不适合学Taxi Drivers？**
-- 不擅长应对交通拥堵的人
-- 需要稳定收入和有晋升空间的人
+**Who is not suited**
+- People who do not cope well with traffic congestion
+- People who need stable income and room for advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of taxi drivers?**
+A: Income varies widely; median approx USD 30,000 including tips, affected by season and location.
+
+**Q: Can taxi drivers apply for a US green card?**
+A: Extremely difficult, usually not meeting skilled migration criteria, and employer sponsorship is rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Taxi Drivers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a taxi driver?**
-答：Income varies widely; median around $30,000 including tips, affected by season and location.
-
-**问：Can a taxi driver get a US green card?**
-答：Extremely difficult; usually unqualified for skill-based immigration and employer sponsorship is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

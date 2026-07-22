@@ -1,59 +1,94 @@
-# Special Needs Teacher（Special Needs Teacher）职业分析 · IT
+# Special Needs Teacher — career analysis · Italy
 
-**职业代码：2352 – Special Needs Teacher。**
+**Occupation code: 2352 (ISCO08)**
 
-In Italy, special needs teachers (insegnante di sostegno) provide individualized educational support to students with physical, mental, or learning disabilities, working mainly in public schools and collaborating with regular teachers to develop and implement Personalized Educational Plans (PEI).
+In Italy, special needs teachers (insegnante di sostegno) provide individualized educational support for students with physical, psychological, or learning disabilities, mainly working in public primary and secondary schools, collaborating with regular teachers to develop and implement Individualized Education Plans (PEI).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 5年（本硕连读） | $1,500~$4,000（公立大学年均学费，视家庭收入减免） |
-| 特殊教育专业化课程 | 1年（60学分） | $2,000~$5,000（大学提供，毕业后获得特殊教育资格） |
+| University bachelor's degree | 5 years (integrated bachelor's and master's) | $1,500~$4,000 (Average annual tuition fees at public universities, reduced based on family income) |
+| Specialized courses in special education | 1 year (60 credits) | $2,000~$5,000 (Offered by universities, leading to a special education qualification upon graduation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高等教育文凭（Laurea Magistrale） | 意大利大学 | 必备 | 需为小学教育或特定学科硕士，含24学分教学法课程 |
-| 特殊教育资格（Specializzazione per il sostegno） | 大学或认可机构 | 必备 | 60学分专业课程，通过后可参加特殊教育教师竞聘 |
-| 教师资格考试（Concorso） | 意大利教育部（MIUR） | 必备 | 国家公开竞聘，通过后可获永久职位 |
+| Master's degree (Laurea Magistrale) | Italian universities | Required | Must hold a master's degree in primary education or a specific subject, including 24 credit hours of pedagogy courses |
+| Special Education Qualification (Specializzazione per il sostegno) | university or recognised institution | Required | 60-credit professional course, upon completion can apply for special education teacher positions |
+| Teacher Qualification Exam (Concorso) | Italian Ministry of Education (MIUR) | Required | National open recruitment, after passing can obtain a permanent position. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 110,000。意大利面临特殊教育教师短缺，尤其在南部和偏远地区。政府持续增加支持岗位配额，但需求仍超过供给。老龄化教师队伍和包容性教育政策推动未来十年持续招聘。
+**Job demand: high (★★★★☆).** National workforce approx. 110,000. Italy faces a shortage of special education teachers, especially in the south and remote areas. The government continues to increase support positions, but demand still exceeds supply. An aging teacher workforce and inclusive education policies will drive sustained recruitment over the next decade.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 临时合同教师，税前年薪 |
-| 中级（4-10年） | $30,000~$36,000 | 终身职位教师，含工龄津贴 |
-| 高级（10年以上） | $37,000~$45,000 | 高级教师或协调员角色 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Gross annual salary for temporary contract teachers |
+| Mid-level (4-10 years). | $30,000~$36,000 | Tenured teaching position, includes seniority allowance |
+| Senior (10+ years) | $37,000~$45,000 | Senior teacher or coordinator role |
+| average salary | $33,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业路径：从合同制临时教师（supplente）开始，通过公开竞聘（concorso）获得终身职位（ruolo）。可晋升为特殊教育协调员、学校管理团队成员或进入教育行政部门。持续培训（如针对自闭症、多动症）可提升专业地位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate the paperwork and data analysis tasks of special needs teachers, but core teaching and emotional support cannot be replaced; job demand remains stable due to the expansion of inclusive education.
+
+Career path: start as a contract temporary teacher (supplente), obtain a permanent position (ruolo) through public competition (concorso). Can advance to special education coordinator, school management team member, or enter education administration. Continuous training (e.g., for autism, ADHD) can enhance professional status.
+
+**Tasks most exposed to AI:**
+
+- Write regular goals and progress reports in Individualized Education Plans (IEP)
+- collating student behaviour data and generating simple statistical charts
+- Screening and recommending online learning resources or assistive technology tools
+- Automated recording of student attendance and basic assessment results
+
+**Where AI augments the role:**
+
+- Use AI to generate differentiated teaching materials (e.g., simplified reading texts, visualized social stories)
+- Voice-to-text tools assist students with communication difficulties in classroom participation.
+- Using intelligent tutoring systems to monitor student real-time learning status and adjust strategies
+- Predicts crisis events based on behavioral data and intervenes preemptively
+- Use VR to simulate social scenarios for situational teaching.
+
+**Human moat:**
+
+- Building trust: developing emotional connections with students with special needs
+- Behavior Management: On-site response to emotional outbursts or deadlock situations
+- Team collaboration: dynamically coordinate with parents, therapists, and general teachers
+- Creative teaching: designing personalized, unstructured learning experiences
+- Ethical judgment: assess the suitability of assistive technology for specific students.
+
+**Skills to build:**
+
+- Data analysis basics: ability to interpret AI-generated student progress reports
+- Assistive Technology Assessment: Familiar with the application of ICT and low-tech tools in the classroom
+- Digital communication skills: using collaboration platforms to share information with multi-disciplinary teams
+- Programming mindset: simple customization of learning app or game parameters.
+- Neuroscience basics: understanding the cognitive mechanisms of common disorders
+- Family education guidance: Train parents to use AI-assisted tools
+
+**Key growth areas:**
 
 - special education needs
 - inclusive education
@@ -62,69 +97,68 @@ In Italy, special needs teachers (insegnante di sostegno) provide individualized
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟教师，需工作合同且年薪不低于欧盟蓝卡门槛（2024年约24,789欧元）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，针对非欧盟工人。教师职位在特定职业列表上时可申请，但配额有限且竞争激烈。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主须向劳工局申请Nulla Osta，证明无欧盟公民胜任该职位，批准后可申请工作签证。 |
-| Subclass 自由流动（EU Freedom of Movement） | 欧盟/EEA公民可自由在意大利工作，无需签证。需向当地户籍办公室（Anagrafe）登记。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU teachers; requires a work contract with annual salary not lower than the EU Blue Card threshold (approx. €24,789 in 2024). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers. Teaching positions can apply when on a specific occupation list, but quotas are limited and competition is fierce. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for Nulla Osta from the labour office, proving no EU citizen can fill the position; upon approval, a work visa can be applied for. |
+| Subclass Free Movement (EU Freedom of Movement) | EU/EEA citizens can work in Italy freely without a visa. They need to register with the local registry office (Anagrafe). |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Needs Teacher？**
-- 有耐心和同理心，热爱与残障学生工作的人
-- 具备教育学或心理学背景，希望从事稳定公职者
-- 愿意在意大利南部或偏远地区就业以换取更快入编机会
-
-**谁不适合学Special Needs Teacher？**
-- 不善于跨学科协作和与家长沟通的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic individuals who enjoy working with students with disabilities
+- Those with a background in education or psychology seeking stable public sector jobs
+- Willing to work in southern Italy or remote areas in exchange for faster entry into the system
+
+**Who is not suited**
+- Those who are not good at interdisciplinary collaboration and communicating with parents
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for special needs teachers in Italy?**
+A: Annual salary for junior temporary teachers is approximately €24,000-28,000, increasing to €30,000-45,000 for tenured positions with experience. Salaries are lower than the private sector, but benefits and holidays are generous.
+
+**Q: How can non-EU citizens become special needs teachers in Italy?**
+A: Must obtain recognized degree and special education qualification, then employer applies for work permit (Nulla Osta) or EU Blue Card. Highly competitive with limited quotas; recommend studying on a student visa first.
+
+**Q: Are there promotion opportunities for special needs teachers?**
+A: Yes. Can be promoted to coordinator, school management team member, or into the Ministry of Education. But requires additional training and open competition; promotion is slow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Special Needs Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for special needs teachers in Italy?**
-答：Entry-level temporary teachers earn around €24,000-€28,000 per year, while tenured teachers can reach €30,000-€45,000 with seniority. Salaries are lower than private sector but offer good benefits and holidays.
-
-**问：How can non-EU citizens become special needs teachers in Italy?**
-答：They need a recognized degree and special education qualification, then a school employer must apply for a work permit (Nulla Osta) or use the EU Blue Card. Competition is tough and quotas limited; studying in Italy first is recommended.
-
-**问：Is there career advancement for special needs teachers?**
-答：Yes, they can become coordinators, school management members, or move to the Ministry of Education. However, it requires additional training and competitive exams, with slow promotion.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

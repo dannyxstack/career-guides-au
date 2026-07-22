@@ -1,60 +1,93 @@
-# Fishing Vessel Skipper（Fishing Vessel Skipper）职业分析 · FR
+# Fishing Vessel Skipper — career analysis · France
 
-**职业代码：A1406 – Fishing Vessel Skipper。**
+**Occupation code: A1406 (ROME)**
 
-In charge of navigation, fishing operations, and crew management, ensuring safety at sea and compliance with fishing regulations.
+Responsible for fishing vessel navigation, fishing operations, and crew management to ensure maritime safety and compliant catches.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Maritime de pêche | 2年 | —（公立学校免费，私立约3000欧元） |
-| Bac Pro Conduite et gestion des entreprises maritimes | 3年 | —（公立学校免费，私立约5000欧元） |
+| CAP Maritime de pêche | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros) |
+| Bac Pro Conduite et gestion des entreprises maritimes | 3 years | $0~$5,000 (Public schools are free, private ones about 5,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 船长资格证书（Capacité de patron de pêche） | 法国海事局（Direction des affaires maritimes） | 必备 | 需通过考试，具备一定海上服务资历 |
-| 无线电操作员证书（Certificat d’opérateur radio） | 法国海事局 | 必备 | 用于海上通信 |
+| Captain's Qualification Certificate (Capacité de patron de pêche) | French Maritime Authority (Direction des affaires maritimes) | Required | Candidates must pass exams and possess certain maritime service qualifications |
+| Radio operator certificate (Certificat d'opérateur radio) | French Maritime Authority | Required | Used for maritime communication |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 8,500。法国渔业面临资源衰退和环保法规压力，但近海捕捞仍有需求。年轻从业者补充不足，船长岗位需多年经验，就业相对稳定但竞争有限。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 8,500. French fisheries face resource decline and environmental regulations, but nearshore fishing remains in demand. Young professionals are under-replenished, captains require years of experience, and employment is relatively stable but competition is limited.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，根据船只大小和渔获量浮动 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪，含奖金分成 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，大型渔船或远洋捕捞更高 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary fluctuates depending on vessel size and catch volume |
+| Mid-level (3–7 years) | $32,000~$42,000 | Pre-tax annual salary, including bonus sharing |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, higher for large fishing vessels or distant-water fishing |
+| average salary | $65,952 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从普通水手起步，逐步晋升为渔副、船长，也可转向渔业管理或渔业检查等岸上职业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on skippers (fishing) is mixed: navigation and catch monitoring parts will be automated, but deck operations, compliance judgment, and emergency decisions remain highly dependent on human experience.
+
+Starting as an ordinary sailor, they gradually rise to fishermen, captains, and can also transition to shore-based jobs such as fisheries management or fisheries inspection.
+
+**Tasks most exposed to AI:**
+
+- Automatic route planning and ship maneuvering (e.g., autonomous driving systems).
+- Fishery detection and real-time catch analysis (sonar + AI analysis)
+- Digital automatic recording of voyage logs and catch reports
+- Equipment fault diagnosis and predictive maintenance reminders
+
+**Where AI augments the role:**
+
+- Using AI weather models to optimize fishing routes and navigation safety decisions
+- Recommend high-probability fishing grounds based on historical catch and ocean data
+- Conducting emergency drills and training using digital twin technology
+- Using real-time compliance monitoring systems to reduce risk of violations
+- Save time on paperwork with automated reporting tools, focus on site management
+
+**Human moat:**
+
+- Ship handling and crew command in emergencies (e.g., severe weather, mechanical failure)
+- Professional judgment on fisheries regulations and vessel safety (requires certification)
+- Hands-on skills for on-site fish processing, equipment maintenance, and deck operations
+- Team leadership and crisis management skills
+
+**Skills to build:**
+
+- operation and monitoring of electronic navigation and autonomous driving systems
+- Use of AI catch prediction software and data analysis tools
+- Basic programming or scripting (for automated reports and logs)
+- Electrical and mechanical maintenance skills (for onboard automation equipment)
+- Enhanced leadership and safety compliance training (for AI-assisted decision-making)
+
+**Key growth areas:**
 
 - fisheries
 - maritime safety
@@ -63,66 +96,65 @@ In charge of navigation, fishing operations, and crew management, ensuring safet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 适用于持有法国雇主工作合同的第三国公民，需通过劳动市场测试 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，但渔业船长需满足资质认证要求 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求高等教育学历及高薪，渔业船长通常不符合薪资门槛 |
+| Subclass Salarié (Salarié (Employee)) | Applicable to third-country citizens holding a work contract with a French employer, who must pass a labor market test |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled personnel, but fishery captains must meet qualification certification requirements |
+| Subclass Carte bleue UE (EU Blue Card) | Requires higher education degree and high salary; fishing vessel captains usually do not meet salary threshold. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fishing Vessel Skipper？**
-- 热爱海洋与渔业，适应长时间海上作业
-- 具备领导力和应急处理能力
-- 愿意接受高强度体力劳动
-
-**谁不适合学Fishing Vessel Skipper？**
-- 晕船或无法适应颠簸环境
-- 不喜户外作业或远离家庭生活
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the ocean and fisheries, adapted to long hours of offshore work
+- Possess leadership and emergency response capabilities
+- Willing to accept high-intensity physical labor
+
+**Who is not suited**
+- Seasickness or difficulty adapting to bumpy environments
+- Dislikes outdoor work or being away from home life
+
+---
+
+## 8. FAQ
+
+**Q: Is the salary of a fishing boat captain stable?**
+A: Unstable, with catch directly affecting income, some captains enjoy a base salary plus a share of the profit.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: It is difficult, requiring French captain certification and strict labor market testing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fishing Vessel Skipper为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary of a fishing vessel skipper stable?**
-答：Unstable, as income depends on catch; some skippers have base salary plus share.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：Difficult, requires French skipper certification and strict labor market test.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

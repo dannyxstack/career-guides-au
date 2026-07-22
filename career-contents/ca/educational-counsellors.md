@@ -1,58 +1,94 @@
-# Educational counsellors（Educational counsellors）职业分析 · 加拿大
+# Educational counsellors — career analysis · Canada
 
-**职业代码：41320 – Educational counsellors。**
+**Occupation code: 41320 (NOC)**
 
-Educational counsellors provide academic, career, and personal guidance to students in schools, colleges, and community settings.
+Education advisors provide academic, career, and personal development guidance and support to students in schools, universities, or community organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$60,000（心理学、教育学或相关领域） |
-| 硕士 | 2年 | $20,000~$50,000（教育咨询或学校心理学硕士） |
+| Bachelor's degree | 4 years | $30,000~$60,000 (Psychology, education, or related fields) |
+| Master's degree | 2 years | $20,000~$50,000 (Master's degree in educational counseling or school psychology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级教师资格证书 | 各省教育厅 | 必备 | 在公立学校工作通常需要 |
-| 教育咨询硕士 | 认可大学 | 必备 | 多数雇主要求 |
+| Provincial teaching certificate | Provincial education departments. | Required | Working in public schools usually requires |
+| Master of Education in Counselling | Recognised university | Required | Most employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,000。加拿大对教育顾问的需求稳定，随着对心理健康和学生支持重视程度的提高，就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. Demand for education consultants in Canada is stable, with good employment prospects due to increased emphasis on mental health and student support.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 公立学校或社区机构 |
-| 中级（4-9年） | $60,000~$80,000 | 有经验顾问 |
-| 高级（10年以上） | $80,000~$100,000 | 主管或独立执业 |
+| Median salary | $84,947 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Public schools or community organizations |
+| Intermediate (4-9 years) | $60,000~$80,000 | Experienced consultant |
+| Senior (10+ years) | $80,000~$100,000 | Supervisor or independent practice. |
+| average salary | $83,200 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 教育顾问可从初级顾问晋升为高级顾问、部门主管或独立执业，也可转向教育政策或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
+
+Education consultants can progress from junior to senior consultant, department head, or independent practice, and may also move into education policy or management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial psychological counseling reports and clinical notes
+- Use natural language processing for symptom screening and preliminary assessment
+- Manage patient appointments, billing, and electronic health records
+- Provides standardized mental health education content.
+- Analyze patient feedback data to generate summary reports
+
+**Where AI augments the role:**
+
+- Real-time insight into patients' unspoken emotions through AI sentiment analysis
+- Using VR/AR for exposure therapy and situational simulation training
+- AI-assisted diagnostic tools improve accuracy and efficiency
+- Personalized treatment plan generation based on big data analysis
+- AI real-time monitoring and early warning system in remote psychological counseling
+
+**Human moat:**
+
+- Building deep trust and therapeutic alliance
+- Judgment to handle complex trauma and ethical dilemmas.
+- Empathy and non-verbal communication skills like body language
+- Cross-cultural sensitivity and individualized care
+- Immediate response capability in crisis intervention.
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools
+- Application of digital therapy platforms (e.g., VR therapy)
+- Data privacy and ethical compliance management
+- Remote consultation technology and human-machine collaboration models
+- Clinical integration of emotion recognition AI tools
+- Continuous learning ability to keep up with technological updates
+
+**Key growth areas:**
 
 - Mental health focus
 - Diversity support
@@ -61,67 +97,66 @@ Educational counsellors provide academic, career, and personal guidance to stude
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 通过FSW类别移民，需符合教育和工作经验要求 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份将教育顾问列为紧缺职业，可获省提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，为后续移民加分 |
+| Subclass Express Entry (Federal Skilled Worker) | Migrate through the FSW category, meeting education and work experience requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces list education consultant as a priority occupation, eligible for provincial nomination |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, adding points for subsequent immigration |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Educational counsellors？**
-- 善于沟通、有同理心的人
-- 希望在教育领域帮助他人的人
-
-**谁不适合学Educational counsellors？**
-- 不喜欢与人深入交流的人
-- 希望高收入但不愿投入多年学习的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication and empathetic
+- People who want to help others in the education field
+
+**Who is not suited**
+- Person Who Dislikes Deep Interaction with Others
+- Those who want high income but are unwilling to invest years of study
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Canadian education consultants?**
+A: Education consultant annual salary approximately CAD 45,000-100,000, junior in public schools about 45,000-60,000, senior can exceed 80,000.
+
+**Q: What pathways can education consultants use to immigrate to Canada?**
+A: Eligible for immigration through FSW or PNP; some provinces list it as a priority occupation; also possible via LMIA work permit to gain experience.
+
+**Q: What qualifications are needed to become an education consultant?**
+A: Usually requires a master's degree in education counselling or a related field, and registration with a provincial regulatory body.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Educational counsellors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for educational counsellors in Canada?**
-答：Salaries range from CAD 45,000 to CAD 100,000, with entry-level around 45k-60k and senior over 80k.
-
-**问：What immigration pathways are available for educational counsellors in Canada?**
-答：Eligible for FSW, PNP (in-demand in some provinces), or LMIA-based work permits.
-
-**问：What certifications are required to become an educational counsellor?**
-答：Typically a master's degree in counselling or related field, plus provincial registration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Market and Opinion Researcher（Market and Opinion Researcher）职业分析 · DE
+# Market and Opinion Researcher — career analysis · Germany
 
-**职业代码：9134 – Market and Opinion Researcher。**
+**Occupation code: 9134 (KldB)**
 
-Market and opinion researchers design and conduct market research and opinion polls, collect and analyze data to provide decision-making support for businesses or organizations. Tasks include questionnaire design, data collection, statistical analysis, and report writing.
+Market and social research professionals design and conduct market research and opinion polls, collecting and analyzing data to support business or organizational decision-making. Tasks include questionnaire design, data collection, statistical analysis, and report writing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（公立大学每学期约 300-400 欧元注册费） |
-| 硕士 | 2年 | —（公立大学基本免费，部分应用技术大学收费） |
+| Bachelor's degree | 3-4 years | $0~$1,500 (Public universities charge approximately €300-400 per semester in registration fees) |
+| Master's degree | 2 years | $0~$2,000 (Public universities are mostly free, some universities of applied sciences charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（本科或硕士） | 综合性大学或应用技术大学 | 必备 | 市场调研、社会学、心理学、统计学或商科相关专业 |
-| 资质认证（Annerkennung） | 外国学历认证处（Zeugnisbewertungsstelle） | 必备 | 若学位来自非欧盟国家，需进行学历认证 |
+| University degree (bachelor's or master's) | Comprehensive university or university of applied sciences | Required | Majors related to market research, sociology, psychology, statistics, or business |
+| Qualification recognition (Anerkennung) | Foreign Qualification Assessment Office (Zeugnisbewertungsstelle) | Required | If the degree is from a non-EU country, credential recognition is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。德国市场调研行业稳定发展，数字化转型推动了对数据分析人才的需求。预计行业年均增长2-3%，大型企业和咨询公司需求较旺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The German market research industry is growing steadily, with digital transformation driving demand for data analysis talent. The industry is expected to grow 2-3% annually, with strong demand from large enterprises and consulting firms.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪 |
+| Median salary | $52,284 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Annual pre-tax salary |
+| average salary | $59,664 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业晋升路径：初级研究员→中级研究员→研究经理→研究总监。也可转向市场营销、数据分析或咨询领域。继续深造（如MBA）有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Career progression path: Junior Researcher → Mid-level Researcher → Research Manager → Research Director. Also can transition to marketing, data analysis, or consulting. Further study (e.g., MBA) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Data Analytics
 - Digital Transformation
@@ -61,68 +97,67 @@ Market and opinion researchers design and conduct market research and opinion po
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合年薪高于门槛（2025年约 45,300 欧元）的申请人，需本科及以上学历。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适合具有专业学历且获得工作合同的申请人。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制的求职签证，可用于寻找工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants earning above the threshold (approx. €45,300 in 2025), requiring a bachelor's degree or higher. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for applicants with professional qualifications who have obtained a job contract. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | A points-based job-seeking visa that can be used to find work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Market and Opinion Researcher？**
-- 喜欢数据分析、沟通技巧强的人
-- 具备统计学或社会科学背景的毕业生
-- 对市场趋势和消费者行为有浓厚兴趣的人
-
-**谁不适合学Market and Opinion Researcher？**
-- 不喜欢频繁与客户沟通的人
-- 不适应在截止日期前高强度工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suits people who like data analysis and have strong communication skills
+- Graduates with a background in statistics or social sciences
+- People with strong interest in market trends and consumer behavior
+
+**Who is not suited**
+- People who dislike frequent communication with clients
+- People who are not suited to high-intensity work under tight deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for market and social researchers in Germany?**
+A: Junior researcher salary: approx. 40,000–50,000 EUR, mid-level: 50,000–65,000, senior: up to 85,000+.
+
+**Q: As a non-EU citizen, how can I immigrate to Germany to work as a market and opinion researcher?**
+A: Eligible to apply via the EU Blue Card (annual salary threshold approximately €45,300) or skilled migration visa. Requires a bachelor's degree or higher and recognition of German qualifications.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can advance to research manager, director, or move into marketing, data analysis, consulting, etc. Further study (e.g., MBA) aids progression.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Market and Opinion Researcher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a market and opinion researcher in Germany?**
-答：Junior researchers earn about €40,000-50,000 per year, mid-level €50,000-65,000, and senior up to €85,000 or more.
-
-**问：How can non-EU citizens immigrate to Germany as a market and opinion researcher?**
-答：Apply via EU Blue Card (salary threshold approx. €45,300) or Skilled Worker visa. Need a bachelor's degree or higher and recognition of foreign qualifications.
-
-**问：What career paths are available in this field?**
-答：You can advance to research manager, director, or transition to marketing, data analytics, consulting. Further education like an MBA can help.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

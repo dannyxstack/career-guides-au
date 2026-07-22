@@ -1,59 +1,95 @@
-# Environmental scientists and specialists (including health)（Environmental scientists and specialists (including health)）职业分析 · 加拿大
+# Environmental scientists and specialists (including health) — career analysis · Canada
 
-**职业代码：21230 – Environmental scientists and specialists (including health)。**
+**Occupation code: 21230 (NOC)**
 
-Environmental consultants in Canada assess environmental impacts, provide compliance advice; NOC 21230 is a high-skilled code eligible for Express Entry and PNP immigration.
+Environmental consultants in Canada assess environmental impacts and provide compliance advice; NOC 21230 is a high-demand code, eligible for federal Express Entry or provincial nomination.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$60,000（视大学与省份而定） |
-| 硕士 | 2年 | $20,000~$40,000（研究型常获资助） |
+| Bachelor's degree | 4 years | $40,000~$60,000 (Depends on university and province) |
+| Master's degree | 2 years | $20,000~$40,000 (Research-oriented often receives funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES/ICAS等 | 必备 | 用于移民申请 |
-| 语言考试（雅思/思培） | IELTS/CELPIP | 必备 | CLB 7起 |
-| 专业认证（自愿） | ECO Canada或省协会 | 可选 | 提升竞争力 |
+| Educational credential assessment (ECA) | WES/ICAS etc. | Required | Used for immigration applications |
+| Language test (IELTS/CELPIP) | IELTS/CELPIP | Required | From CLB 7 |
+| Professional certification (voluntary) | ECO Canada or provincial associations. | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。加拿大环境行业因政府法规加强和可持续发展需求，就业增长稳健，尤其资源勘探和清洁技术领域人才短缺。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 25,000. Due to stricter government regulations and demand for sustainable development, employment growth in Canada's environmental sector is steady, with talent shortages particularly in resource exploration and clean technology.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 大多伦多或温哥华略高 |
-| 中级（3-8年） | $70,000~$90,000 | 含奖金 |
-| 高级（8年以上） | $100,000~$130,000 | 项目经理或合伙人 |
+| Median salary | $90,002 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Slightly higher in Greater Toronto or Vancouver |
+| Mid-level (3–8 years) | $70,000~$90,000 | Including bonus |
+| Senior (8+ years) | $100,000~$130,000 | Project manager or partner |
+| average salary | $93,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级环境顾问可晋升为高级顾问或项目经理，后期可转向政策制定或创办咨询公司；联邦及省府持续扶持。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
+
+Junior environmental consultants can advance to senior consultant or project manager, later move into policy making or start their own consulting firm; federal and provincial governments provide ongoing support.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft routine environmental impact assessment reports
+- Template-based data organization and statistical analysis
+- Document compliance checking (e.g., regulatory clause matching)
+- Basic environmental monitoring data recording and anomaly alerts
+- Literature review and preliminary database screening
+
+**Where AI augments the role:**
+
+- High-precision environmental modeling and pollution dispersion simulation
+- Automatic interpretation of remote sensing images and change detection
+- Real-time environmental impact prediction and scenario analysis
+- AI-assisted regulatory tracking and compliance recommendations
+- Intelligent summaries and visualizations of client reports.
+
+**Human moat:**
+
+- Making judgments and interpretations in complex policies and regulations
+- On-site field sampling and equipment operation
+- Communication and coordination with communities, government, and businesses
+- Develop innovative environmental management strategies
+- Take on professional responsibility and legal endorsement
+
+**Skills to build:**
+
+- Geographic information systems and remote sensing analysis (QGIS, Google Earth Engine)
+- Python/R programming and data science (pandas, scikit-learn)
+- Environmental modeling software (e.g., AERMOD, SWMM)
+- AI tool applications (e.g., ChatGPT for report writing, Copilot for code assistance)
+- Environmental Policy Interpretation and Strategic Consulting
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee
@@ -62,67 +98,66 @@ Environmental consultants in Canada assess environmental impacts, provide compli
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE-FSW（Federal Skilled Worker） | 满足67分筛选及EE-CRS要求，适合境外申请人 |
-| Subclass PNP（Provincial Nominee Program） | 如安省OINP、BC省EEBC，省提名加分600 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保，门槛较低 |
+| Subclass EE-FSW (Federal Skilled Worker) | Meets the 67-point selection and EE-CRS requirements, suitable for overseas applicants |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination adds 600 points (e.g., OINP, BC EEBC) |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, lower threshold |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental scientists and specialists (including health)？**
-- 具备环境科学或工程背景，希望快速移民加拿大者
-- 注重职业稳定性且愿意在矿业、林业等资源省份工作的人
-
-**谁不适合学Environmental scientists and specialists (including health)？**
-- 不喜欢野外作业或频繁出差的人
-- 缺乏数理统计基础或英语写作能力者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those with environmental science or engineering background seeking fast immigration to Canada
+- People who prioritize career stability and are willing to work in resource-rich provinces like mining or forestry
+
+**Who is not suited**
+- Those who dislike field work or frequent travel
+- Those lacking background in mathematical statistics or English writing skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for an environmental consultant in Canada?**
+A: Entry-level about CAD 50,000-65,000, increasing to over 100,000 with experience.
+
+**Q: What CRS score is typically needed for an environmental consultant to apply for Express Entry?**
+A: EE invitation scores were high in 2023-2024 (approx. 470-540); recommend also applying for provincial nomination for 600 bonus points.
+
+**Q: Can overseas environmental consultants immigrate directly to Canada?**
+A: Yes, through FSW or provincial nomination, requiring ECA and language scores, with employer offer being advantageous.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Environmental scientists and specialists (including health)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for environmental consultants in Canada?**
-答：Entry level CAD 50,000-65,000, rising to over CAD 100,000 with experience.
-
-**问：What CRS score is needed for environmental consultants under EE?**
-答：In 2023-2024, typical draws require 470-540 CRS; consider PNP for 600 points.
-
-**问：Can overseas environmental consultants immigrate directly to Canada?**
-答：Yes, via FSW or PNP, requiring ECA and language tests; employer job offer helps.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

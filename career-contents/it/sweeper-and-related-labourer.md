@@ -1,60 +1,94 @@
-# Sweeper and Related Labourer（Sweeper and Related Labourer）职业分析 · IT
+# Sweeper and Related Labourer — career analysis · Italy
 
-**职业代码：9613 – Sweeper and Related Labourer。**
+**Occupation code: 9613 (ISCO08)**
 
-Responsible for sweeping streets, public spaces, and building interiors, including garbage collection, floor cleaning, and environmental hygiene maintenance.
+Responsible for cleaning streets, public areas and building interiors, including garbage collection, floor cleaning and maintaining environmental hygiene.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无要求 | 0 | —（通常无需正规教育） |
-| 职业培训 | 3个月 | $500~$1,500（短期清洁技能课程） |
+| No requirements | 0 | $0~$0 (Usually no formal education required) |
+| Vocational training | 3 months | $500~$1,500 (Short-term cleaning skills course.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 多数雇主不要求证书 |
-| 健康证明 | 地方卫生局 | 可选 | 证明无传染病，部分雇主需要 |
+| No mandatory certificate | None | Optional | Most employers do not require certification |
+| Health certificate | Local Health District | Optional | Proof of no infectious diseases, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。意大利清洁工需求稳定，城市化与旅游业发展带动岗位增长，但自动化和移民竞争可能限制薪资涨幅。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Demand for cleaners in Italy remains stable, with urbanization and tourism driving job growth, but automation and immigrant competition may limit salary increases.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$21,000 | 税前年薪，受地区影响 |
-| 中级（3-7年） | $21,000~$25,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $25,000~$30,000 | 税前年薪，主管或特殊清洁 |
+| Median salary | $23,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$21,000 | Annual pre-tax salary, varies by region |
+| Mid-level (3–7 years) | $21,000~$25,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $25,000~$30,000 | Annual salary before tax, supervisor or special cleaning |
+| average salary | $23,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从普通清洁工起步，积累经验后可升为清洁主管或领班，少数人可自主创业开设清洁公司。
-**AI替代风险：中（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Cleaners and related laborers face a high risk of automation, especially repetitive tasks like sweeping and garbage collection, but tasks in unstructured environments still rely on human labor.
+
+Usually start as a general cleaner, gain experience to become a cleaning supervisor or team leader, and a few may start their own cleaning business.
+
+**Tasks most exposed to AI:**
+
+- Daily floor cleaning and garbage collection
+- Surface wiping with fixed cleaning agents
+- Repeatedly patrol and clean along predetermined routes
+- Simple waste sorting and disposal
+
+**Where AI augments the role:**
+
+- Use AI scheduling system to optimize cleaning routes
+- Identify high-pollution areas using sensor data
+- Using robots to assist in large-area cleaning
+- Report facility issues using a mobile app
+
+**Human moat:**
+
+- Cleaning strategies for complex stains such as grease and bloodstains
+- Safe handling of hazardous waste (e.g., needles)
+- Etiquette and adaptability for interacting with the public
+- Careful work maintaining precision equipment surfaces
+- Flexible maneuvering in narrow or confined spaces
+
+**Skills to build:**
+
+- Operation of AI scheduling and monitoring tools
+- Automated cleaning equipment maintenance
+- Basic Chemistry and Disinfectant Knowledge
+- Data recording and analysis skills
+- Communication and customer service skills
+- Compliance and safety regulations training
+
+**Key growth areas:**
 
 - Urbanization
 - Tourism recovery
@@ -63,62 +97,64 @@ Responsible for sweeping streets, public spaces, and building interiors, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟劳工需通过年度配额申请，低技能岗位配额有限。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民可直接在意大利工作，无需额外签证。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers must apply through annual quotas, with limited quota for low-skilled positions. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work directly in Italy without an additional visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sweeper and Related Labourer？**
-- 体力好、适应户外工作
-- 注重细节、责任心强
-- 寻求稳定低技能岗位
+**Who is suited**
+- Good physical fitness, adaptable to outdoor work.
+- Detail-oriented, strong sense of responsibility
+- Seeking stable low-skilled positions
 
-**谁不适合学Sweeper and Related Labourer？**
-- 不喜重复性体力劳动
-- 对薪资期望高
+**Who is not suited**
+- Dislikes repetitive physical labor
+- High salary expectations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a Cleaner in Italy?**
+A: Starting salary approximately €18,000-21,000 per year, senior can reach €30,000, but depends on region and employer.
+
+**Q: Can non-EU citizens immigrate to Italy through a cleaner job?**
+A: Limited opportunities, subject to Decreto Flussi quotas; low-skilled positions have fewer quotas, prioritizing EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Sweeper and Related Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sweepers in Italy?**
-答：Entry-level annual salary is about 18,000-21,000 EUR, senior can reach 30,000 EUR, depending on region and employer.
-
-**问：Can non-EU citizens immigrate to Italy as a sweeper?**
-答：Limited; requires Decreto Flussi quota with few slots for low-skilled jobs; EU citizens have priority.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

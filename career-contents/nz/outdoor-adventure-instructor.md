@@ -1,60 +1,96 @@
-# Outdoor Adventure Instructor（Outdoor Adventure Instructor）职业分析 · 新西兰
+# Outdoor Adventure Instructor — career analysis · New Zealand
 
-**职业代码：452413 – Outdoor Adventure Instructor。**
+**Occupation code: 452413 (ANZSCO)**
 
-Outdoor Adventure Instructors lead activities like paragliding, rock climbing, kayaking, rafting, and bushwalking in New Zealand, requiring specific certifications and first aid. This occupation is not on the Green List but may qualify for Skilled Migrant Category if meeting median wage requirements.
+Outdoor adventure instructors in New Zealand lead activities such as paragliding, rock climbing, kayaking, rafting, and bushwalking, requiring specific qualifications and first aid certificates. This occupation is not on the Green List but can apply for immigration via the Skilled Migrant Category, meeting the median wage requirement.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专/证书 | 1-2年 | $5,000~$15,000（户外领导力证书或类似课程） |
-| 本科 | 3年 | $30,000~$40,000（体育管理或户外教育学士，年均学费） |
+| Diploma/Certificate | 1-2 years | $5,000~$15,000 (Outdoor leadership certificate or similar course) |
+| Bachelor's degree | 3 years | $30,000~$40,000 (Bachelor's in Sports Management or Outdoor Education, annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 户外领导力证书 | 新西兰户外协会 | 可选 | 行业认可，非强制但优势大 |
-| 急救证书 | 新西兰急救委员会 | 必备 | 必须持有 |
-| 特定活动资格（如攀岩） | 新西兰登山协会 | 可选 | 根据活动类型要求 |
-| 驾驶执照 | 新西兰交通局 | 必备 | 必须，能驾驶公司车辆 |
+| First aid certificate | New Zealand Paramedic Board | Required | Must hold |
+| Driver's license | New Zealand Transport Agency. | Required | Required, able to drive company vehicle |
+| Outdoor Leadership Certificate | New Zealand Outdoor Association | Optional | Industry-recognized, not mandatory but a significant advantage |
+| Specific activity qualifications (e.g., rock climbing) | New Zealand Alpine Club | Optional | Depends on activity type |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。新西兰户外旅游业持续增长，对探险教练需求稳定，尤其在皇后镇、瓦纳卡等旅游热点。就业受季节和旅游市场影响，旺季机会多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. New Zealand's outdoor tourism industry continues to grow, with stable demand for adventure instructors, especially in tourism hotspots like Queenstown and Wanaka. Employment is affected by seasons and tourism market, with more opportunities during peak seasons.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 底薪，季节性工作可能偏低 |
-| 中级（3-7年） | $55,000~$70,000 | 有经验和专项资质 |
-| 高级/主管（7年以上） | $70,000~$90,000 | 管理角色或培训师 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Base salary, seasonal work may be lower |
+| Mid-level (3–7 years) | $55,000~$70,000 | Experienced and with specialized qualifications. |
+| Senior/Supervisor (7+ years) | $70,000~$90,000 | Management roles or trainer |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级教练可晋升为高级教练、团队主管或培训师。积累经验后可转向户外教育、风险管理或开办自己的户外活动公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on outdoor adventure instructors is mixed: automation can handle back-office tasks like route planning, risk assessment, and teaching material creation, but core on-site guidance, emotional motivation, and emergency response cannot be replaced. Entry-level roles may become more accessible due to AI tools, but safety responsibilities and professional certification keep the barrier to entry relatively high.
+
+Junior coaches can advance to senior coach, team leader, or trainer. With experience, they can move into outdoor education, risk management, or start their own outdoor activity company.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate activity routes and risk assessment reports
+- Create instructional videos and illustrated tutorials.
+- Monitor equipment status via AI and predict failures
+- Automatically organize client health declarations and liability waivers
+- Basic technical Q&A (e.g., equipment selection)
+
+**Where AI augments the role:**
+
+- Using AI-assisted simulators for virtual practice and skill training
+- Using AI to analyse student movement data and provide personalised feedback
+- Using AI real-time translation services to communicate with multilingual clients
+- Using natural language processing tools to quickly find latest safety regulations
+- Using AI Wearable Devices to Monitor Students' Physiological Indicators to Prevent Accidents
+
+**Human moat:**
+
+- Real-Time Judgment and Emotional Engagement in On-Site Teaching
+- Emergency decision-making and rescue skills in high-risk environments
+- Intuition based on experience and understanding of student psychology
+- Obtain accredited specialist skills (e.g., rock climbing, kayaking)
+- Build trust relationships with clients and team cohesion
+
+**Skills to build:**
+
+- Advanced first aid and wilderness medicine certificates (e.g., WFR)
+- AI-assisted Teaching Tools (e.g. Virtual Reality Systems)
+- Data analysis basics (for tracking student performance)
+- Digital Content Production (Drone Aerial Photography, Editing)
+- Multilingual communication and cross-cultural understanding
+- Knowledge of sustainable tourism and environmental ethics
+
+**Key growth areas:**
 
 - Seasonal demand
 - Tourism-driven
@@ -63,68 +99,67 @@ Outdoor Adventure Instructors lead activities like paragliding, rock climbing, k
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足ANZSCO技能等级2要求，工资达中位数（约29.66纽元/小时），可通过学历和收入加分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主需认证，无Green List捷径，但可转居民签。 |
-| Subclass Green List T2（Green List Tier 2） | 不在现有绿色名单中，但未来可能调整。当前不能直接申请。 |
+| Subclass SMC (Skilled Migrant Category) | Must meet ANZSCO skill level 2 requirements, earn median wage (approx. NZD 29.66/hour), can gain points through qualifications and income. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer must be accredited; no Green List shortcut, but can switch to resident visa. |
+| Subclass Green List T2 (Green List Tier 2) | Not on the current Green List, but may be adjusted in the future. Cannot apply directly at present. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Outdoor Adventure Instructor？**
-- 热爱户外和极限运动，体能良好
-- 有教学热情和耐心，善于沟通
-- 愿意在不同季节和偏远地区工作
-
-**谁不适合学Outdoor Adventure Instructor？**
-- 害怕高风险活动或恶劣天气
-- 追求稳定办公室工作和固定收入
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor and extreme sports, physically fit
+- Passionate about teaching, patient and good at communication
+- Willing to work in different seasons and remote areas
+
+**Who is not suited**
+- Fear of high-risk activities or severe weather
+- Seeking stable office work and fixed income
+
+---
+
+## 8. FAQ
+
+**Q: How much do outdoor adventure instructors earn in New Zealand?**
+A: Junior coach salary about NZ$45,000-55,000 per year, intermediate NZ$55,000-70,000, senior supervisor up to NZ$70,000-90,000. Salary affected by season and event type.
+
+**Q: Can outdoor adventure instructors immigrate to New Zealand?**
+A: This occupation is not on the Green List but meets ANZSCO Skill Level 2 requirements. It can apply under the Skilled Migrant Category (SMC) with salary at or above the median. Alternatively, it can gain experience via the Accredited Employer Work Visa (AEWV) and then transition to residence.
+
+**Q: What is the career progression path for an outdoor adventure instructor?**
+A: Start as a junior coach, then progress to senior coach, team leader, or trainer. With experience, can also move into outdoor education, risk management, or start an outdoor activity company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Outdoor Adventure Instructor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Outdoor Adventure Instructors in New Zealand?**
-答：Entry-level instructors earn around NZD 45,000-55,000 per year, mid-level NZD 55,000-70,000, and senior/supervisors up to NZD 70,000-90,000. Pay varies by season and activity.
-
-**问：Can Outdoor Adventure Instructors immigrate to New Zealand?**
-答：This occupation is not on the Green List, but it qualifies as ANZSCO Skill Level 2. You can apply under the Skilled Migrant Category (SMC) if earning at least the median wage. Alternatively, the Accredited Employer Work Visa (AEWV) can lead to residence.
-
-**问：What is the career progression for Outdoor Adventure Instructors?**
-答：Start as a junior instructor, progress to senior instructor, team leader, or trainer. With experience, you can move into outdoor education, risk management, or start your own adventure company.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

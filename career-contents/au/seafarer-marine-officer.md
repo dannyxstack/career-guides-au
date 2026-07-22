@@ -1,161 +1,188 @@
-# 船员/航海官（Marine Transport Professional）职业分析 · 澳大利亚
+# Seafarer / Marine Officer — career analysis · Australia
 
-**职业代码：231212 – Marine Transport Professional。**
+**Occupation code: 231212 (ANZSCO)**
 
-船员和航海官负责商船、油轮、LNG船和渡轮等海洋运输工具的航行操控、安全管理和货物运输。澳洲是全球最大的LNG出口国（每年约8,000万吨），海洋运输行业对持证航海官（STCW认证）需求持续旺盛，并在MLTSSL短缺职业名单上。
+Ship Crew and Navigation Officers are responsible for navigation, safety management, and cargo transport on merchant ships, tankers, LNG carriers, and ferries. Australia is the world's largest LNG exporter (approx. 80 million tonnes annually), and the maritime industry has strong demand for certified Navigation Officers (STCW compliant), which are on the MLTSSL shortage list.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Maritime Operations（3年） | 3年 | $30,000~$100,000（澳洲海事学院（AMSA认可）；澳大利亚海洋学院（IMAS）是主要院校） |
-| Certificate IV/Diploma of Maritime Operations | 12~24个月 | $8,000~$30,000（TAFE或私立海事学院；适合从低级船员晋升路径） |
-| STCW 基础安全培训（Basic Safety Training） | 5~10天 | $500~$2,000（所有船员的国际法定要求；包含消防/急救/溺水救生/海上求生） |
-| AMSA 证书转换（海外持证人员） | 3~6个月 | $500~$3,000（中国交通部认可STCW证书可通过AMSA程序转换） |
+| Bachelor of Maritime Operations (3 years) | 3 years | $30,000~$100,000 (Australian Maritime College (AMSA-approved); Institute for Marine and Antarctic Studies (IMAS) are the main institutions) |
+| Certificate IV/Diploma of Maritime Operations | 12–24 months | $8,000~$30,000 (TAFE or private maritime college; suitable for those advancing from junior crew roles) |
+| STCW Basic Safety Training | 5–10 days | $500~$2,000 (Internationally mandated requirement for all seafarers; covers firefighting/first aid/drowning rescue/sea survival) |
+| AMSA certificate conversion (for overseas licence holders) | 3–6 months | $500~$3,000 (STCW certificates recognised by China's Ministry of Transport can be transferred through the AMSA process) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW Officer of the Watch（III/1 or II/1） | AMSA（澳洲海事安全局） | 必备 | 商业船舶副驾驶（大副/三副）的法定核心资质 |
-| Master Class 5/4/2/1 | AMSA | 可选 | 船长资质，按船舶吨位分级；Class 2适用于无限航区大型商船 |
-| STCW Basic Safety Training（BST） | AMSA认可培训机构 | 必备 | 所有船员的国际法定要求 |
-| 医疗适航证书（ENG1/Medical Fitness） | 认可海事医疗机构 | 必备 | 所有商业船员的健康准入要求 |
+| STCW Officer of the Watch（III/1 or II/1） | AMSA (Australian Maritime Safety Authority) | Required | Statutory core qualification for commercial vessel deck officers (Chief Mate/Third Mate) |
+| STCW Basic Safety Training（BST） | AMSA-approved training provider | Required | Internationally mandated requirement for all seafarers |
+| Medical fitness certificate (ENG1 / Medical Fitness) | Recognised maritime medical institution | Required | Health fitness requirements for all commercial seafarers |
+| Master Class 5/4/2/1 | AMSA | Optional | Master Mariner licence, tiered by vessel tonnage; Class 2 applies to large commercial vessels on unlimited trading routes |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 5,000。JSA预测船员就业至2030年增长约6%。澳洲LNG和铁矿石出口规模的持续扩大推动对海洋运输专业人员的需求。港湾引航员因退休潮面临严重短缺，是薪资最高的细分方向。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. JSA projects seafarer employment to grow approximately 6% to 2030. The continued expansion of Australia's LNG and iron ore exports is driving demand for maritime transport professionals. Harbour pilots face a serious shortage due to a wave of retirements and represent the highest-paid specialisation.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~350 个 | 全国，含船长/大副/三副/轮机长岗及近海平台岗 |
-| Indeed | 80~250 个 | 含LNG船公司、矿业海运和渡轮运营商 |
-| LinkedIn | 100~300 个 | 大型海运公司（Teekay/Woodside/BHP Marine）直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级航海官/三副（0~3年） | $75,000~$95,000 | 商船三副或初级轮机员年薪 |
-| 大副/轮机长（3~10年） | $105,000~$135,000 | SEEK 航海工程师 $105k~$125k（2026）；Merchant Marine均值 $63,960（低端）~$120k（LNG高端） |
-| 船长/轮机总管（8~18年） | $130,000~$200,000 | LNG/油轮船长年薪 $150k~$200k+，含海上作业津贴 |
-| 港湾引航员（Harbour Pilot） | $200,000~$350,000 | 各州港湾局引航员年薪约 $200k~$350k（短缺严重，薪资最高） |
+| Median salary | $174,980 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Deck Officer / Third Officer (0–3 years) | $75,000~$95,000 | Annual salary for a third officer or junior engineer on a merchant vessel |
+| First mate / chief engineer (3–10 years) | $105,000~$135,000 | SEEK maritime engineer $105k–$125k (2026); Merchant Marine average $63,960 (lower end) – $120k (LNG high end) |
+| Master/Chief Engineer (8–18 years) | $130,000~$200,000 | LNG/tanker captains earn $150k–$200k+ per year, including offshore allowances |
+| Harbour Pilot | $200,000~$350,000 | Harbour pilots at state port authorities earn approximately $200k–$350k per year (severe shortage, highest salary range) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 澳洲海运业受LNG和铁矿石出口驱动持续扩张，兼具稳定性和高薪。STCW（海员培训/发证/值班国际公约）证书是全球标准，中国认可的STCW证书通过AMSA可转换为澳洲证书。澳洲本地航海院校毕业生供给不足，对具有STCW资质的海外船员需求旺盛。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
 
-- 液化天然气（LNG）船员（澳洲LNG出口全球第一）
-- 海洋工程和近海石油平台支援
-- 港口引航员（Harbour Pilot）
-- 游轮运营（旅游复苏推动）
-- 海洋可再生能源（海上风电）
+Australia's maritime industry, driven by LNG and iron ore exports, continues to expand with strong stability and high salaries. The STCW (Standards of Training, Certification and Watchkeeping) certificate is the global standard; STCW certificates recognised in China can be converted to Australian certificates through AMSA. Domestic maritime college graduates are in short supply, creating strong demand for internationally qualified seafarers holding STCW credentials.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
+
+- LNG crew (Australia top LNG exporter)
+- Ocean Engineering and Offshore Oil Platform Support
+- Harbour Pilot
+- Cruise Operations (Driven by Tourism Recovery)
+- Ocean Renewable Energy (Offshore Wind)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保；LNG运营商（Woodside/Shell）和大型海运公司担保活跃 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列；STCW持证人优先 |
-| Subclass 190（Skilled Nominated） | 州提名，WA（矿业海运）和QLD（LNG）积极提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; LNG operators (Woodside/Shell) and major shipping companies are active sponsors |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, listed on MLTSSL; candidates with STCW certification are preferred |
+| Subclass 190 (Skilled Nominated) | State nomination — WA (mining and maritime) and QLD (LNG) actively nominating |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学船员/航海官？**
-- 已持有STCW Officer of the Watch（III/1或II/1）及以上资质，有商船或油轮工作经验
-- 英语达到ICAO/STCW要求（IELTS 5.5+或等同水平）
-- 愿意长期海上作业（每次合同3~6个月），能接受与家人分离的工作方式
-- 有LNG船、VLCC或矿石船操作经验者优先（高薪LNG方向）
-- 有意向在澳洲西部（LNG中心）或主要港口城市（悉尼/墨尔本/布里斯班）附近定居
-
-**谁不适合学船员/航海官？**
-- 不能接受长期海上作业（数月不回家）和轮班制工作方式
-- 仅有内河或近海小船经验，无商业海洋等级STCW资质
-- 身体健康状况不符合海事医疗适航要求
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds STCW Officer of the Watch (III/1 or II/1) or higher certification, with experience on merchant vessels or tankers
+- English meeting ICAO/STCW requirements (IELTS 5.5+ or equivalent)
+- Willing to work at sea for extended periods (contracts of 3–6 months at a time) and able to accept extended separation from family
+- Candidates with LNG vessel, VLCC, or bulk carrier experience preferred (high-paying LNG sector)
+- Willing to settle in Western Australia (the LNG hub) or near a major port city (Sydney/Melbourne/Brisbane)
+
+**Who is not suited**
+- Unable to accept extended offshore rotations (months away from home) or shift-based working arrangements
+- Only have inland or inshore small vessel experience, with no commercial maritime STCW certification
+- Physical health condition does not meet maritime medical fitness requirements
+
+---
+
+## 8. FAQ
+
+**Q: How much do mariners/marine officers earn in Australia?**
+A: Junior Third Officer approximately $75k–$95k; Chief Officer/Chief Engineer approximately $105k–$135k (SEEK $105k–$125k); LNG/tanker Master approximately $150k–$200k; Harbour Pilot approximately $200k–$350k (critically short supply).
+
+**Q: Is it easy to find work as a seafarer in Australia?**
+A: Straightforward. MLTSSL shortage occupation; Australia's LNG exports (world's largest) and iron ore exports continue to drive shipping demand. STCW-certified maritime officers are in short supply, and major LNG operators (Woodside/Shell) recruit on an ongoing basis.
+
+**Q: Are Chinese seafarer certificates recognised in Australia?**
+A: STCW certificates issued by China's Ministry of Transport can be converted to Australian certificates through AMSA's (Australian Maritime Safety Authority) certificate recognition process, which typically takes 3–6 months. English proficiency and a medical examination are the main requirements. It is recommended to contact AMSA or IMAS (Australian Maritime College) in advance to understand the specific process.
+
+**Q: Will seafarers be replaced by AI?**
+A: Not in the near term. Autonomous navigation and collision avoidance systems are assistive tools, but SOLAS and international maritime regulations require licensed crew on watch; port entry and exit, severe weather navigation, and emergency response require human judgement. Australian and international maritime regulations will not permit crewless commercial vessel operations for the foreseeable future.
+
+**Q: Are there age restrictions for seafarers in Australia?**
+A: No strict upper age limit, but regular medical fitness examinations are required. Experienced captains aged 45–58 with extensive LNG or tanker experience are highly sought after. Harbour pilots typically require 20+ years of seafaring experience, with 40–55 being the typical age range for entry into the role.
+
+**Q: What qualifications do seafarers need in Australia?**
+A: The STCW certificate is the core requirement; the specific grade depends on the role (Third Officer requires III/1, Master requires Master Class 2). Qualifications can be obtained through recognised maritime institutions (IMAS/TAFE); Chinese STCW certificates can be directly converted through the AMSA recognition process. STCW Basic Safety Training (BST) is a fundamental requirement for all seafarers.
+
+**Q: Is it difficult to get Australian seafarer certification (for immigration)?**
+A: Relatively straightforward. Marine officers are on the MLTSSL, making the PR pathway smooth. Employer-sponsored 482 visas are very active (LNG operators and major shipping companies); WA and QLD state nomination 190 is also viable. The main challenges are STCW certificate conversion time (approximately 3–6 months) and English language requirements.
+
+**Q: Which offers better prospects in Australia — seafarer or pilot?**
+A: Pilot starting salaries ($70k–$90k) are lower than those of mariners ($75k–$95k), but captain salaries ($160k–$250k) exceed those of ship masters ($130k–$200k); harbour pilots ($200k–$350k) represent the highest earnings in maritime. Pilot training costs ($100k–$150k) are significantly higher than maritime training ($40k–$80k). Both are MLTSSL shortage occupations with comparable PR difficulty. Choose maritime if you love the sea; choose aviation if you love flying and have the training funds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 航海工程师薪资 $105k~$125k（2026） |
-| SalaryExpert AU | 澳洲商船船员薪资数据（2026） |
-| AMSA | 澳洲海事安全局海员证书信息 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-船员/航海官的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲船员/航海官工资多少？**
-答：初级三副约 $75k~$95k；大副/轮机长约 $105k~$135k（SEEK $105k~$125k）；LNG/油轮船长约 $150k~$200k；港湾引航员（Harbour Pilot）约 $200k~$350k（极度短缺）。
-
-**问：澳洲船员容易找工作吗？**
-答：容易。MLTSSL短缺职业，澳洲LNG出口（全球最大）和铁矿石出口持续推动海运需求。STCW持证航海官供不应求，大型LNG运营商（Woodside/Shell）常年招募。
-
-**问：中国船员证书澳洲认可吗？**
-答：中国交通部颁发的STCW证书可通过AMSA（澳洲海事安全局）的证书认可程序转换为澳洲证书，通常需要3~6个月。英语能力和医疗体检是主要要求。建议提前联系AMSA或IMAS（澳洲海事学院）了解具体流程。
-
-**问：船员会被AI替代吗？**
-答：短期内不会。自动驾驶和避碰系统是辅助工具，但SOLAS和国际海事法规要求持证船员值守；港口进出、恶劣天气导航和应急处置需要人类判断力。澳洲和国际海事法规在可预见未来不会允许无人商船运营。
-
-**问：澳洲船员有年龄限制吗？**
-答：无明确年龄上限，但需定期通过医疗适航体检。有丰富LNG或油轮经验的资深船长（45~58岁）非常受欢迎。港湾引航员通常要求有20年以上海上经验，40~55岁是典型就职年龄段。
-
-**问：澳洲船员需要什么资质？**
-答：STCW证书是核心，具体等级取决于职务（三副需III/1，船长需Master Class 2）。学历可通过认可海事院校（IMAS/TAFE）获取；中国STCW证书通过AMSA认可程序可直接转换。STCW Basic Safety Training（BST）是所有船员的基础要求。
-
-**问：澳洲船员认证（移民）难吗？**
-答：难度较低。航海官员在MLTSSL，PR路径顺畅。雇主担保482非常活跃（LNG运营商和大型海运公司）；WA和QLD州提名190也可行。主要挑战是STCW证书转换时间（约3~6个月）和英语要求。
-
-**问：船员和飞行员哪个澳洲发展更好？**
-答：飞行员起步薪资（$70k~$90k）低于船员（$75k~$95k），但机长薪资（$160k~$250k）高于船长（$130k~$200k）；港湾引航员（$200k~$350k）是海运最高薪。飞行员培训成本（$100k~$150k）远高于海事培训（$40k~$80k）；两者都是MLTSSL短缺职业，PR难度相当。喜欢海洋选船员；喜欢飞行且有培训资金选飞行员。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

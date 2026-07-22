@@ -1,60 +1,95 @@
-# Travel, Cultural or Sports Activities Guide（Travel, Cultural or Sports Activities Guide）职业分析 · FR
+# Travel, Cultural or Sports Activities Guide — career analysis · France
 
-**职业代码：G1201 – Travel, Cultural or Sports Activities Guide。**
+**Occupation code: G1201 (ROME)**
 
-Organizes and accompanies individuals or groups on trips, cultural visits, or sports activities, ensuring smooth execution and providing commentary or guidance.
+Responsible for organizing and accompanying individuals or groups on trips, visiting cultural attractions, or participating in sports activities, ensuring smooth progress and providing explanations and guidance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 1-2年（CAP/BTS） | $5,000~$15,000（公立学校学费低，私立培训费用较高） |
-| 大学本科（Licence） | 3年 | —（公立大学学费约170-3000欧元/年） |
+| High school graduation + professional training | 1-2 years (CAP/BTS) | $5,000~$15,000 (Public schools have low tuition fees, while private training fees are relatively high) |
+| Bachelor's Degree (Licence) | 3 years | $0~$10,000 (Tuition at public universities is about 170-3000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家导游证（Carte de guide-conférencier） | 法国文化部 | 必备 | 若涉及历史文化景点讲解，需持有此证 |
-| BPJEPS体育或旅游方向 | 法国体育部或旅游部 | 可选 | 适用于体育活动陪同 |
+| National Guide Certificate (Carte de guide-conférencier) | French Ministry of Culture | Required | If the guide to historical and cultural sites is involved, this certificate is required |
+| BPJEPS sports or tourism direction | The French Ministry of Sports or the Ministry of Tourism | Optional | Suitable for accompanying sports activities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。法国旅游业和体育产业持续增长，对陪同人员的需求稳定。但受季节性和经济周期影响，竞争较为激烈，兼职和临时岗位居多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. France's tourism and sports industries continue to grow, with stable demand for accompanying guests. However, due to seasonal and economic cycles, competition is fierce, with most positions being part-time and temporary.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 多为兼职或临时合同，年薪较低 |
-| 中级（3-7年） | $25,000~$32,000 | 稳定全职或负责多个项目 |
-| 高级（7年以上） | $32,000~$40,000 | 管理层或资深自由职业者 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Most are part-time or temporary contracts, with relatively low annual salaries |
+| Mid-level (3–7 years) | $25,000~$32,000 | Stable full-time or responsible for multiple projects |
+| Senior (7+ years) | $32,000~$40,000 | Management or senior freelancers |
+| average salary | $32,838 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级陪同员晋升为团队负责人或项目协调员，也可向旅游顾问、活动策划或体育教练等方向发展，部分人自主创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
+
+They can be promoted from junior companions to team leaders or project coordinators, or develop into tourism consultants, event planners, or sports coaches, with some starting their own businesses.
+
+**Tasks most exposed to AI:**
+
+- Automated AI tour commentary: standard attraction information is replaced by AI voice guides or apps
+- Basic travel itinerary inquiries: standardized Q&A on dates, transportation, tickets, weather, etc., handled by AI chatbots
+- Online booking and order processing: automation of flight, hotel, and ticket reservation and confirmation processes
+- FAQ responses: routine questions (hours, routes) handled by AI customer service
+- Multilingual real-time translation: AI translation earphones reduce the need for language switching in human commentary
+
+**Where AI augments the role:**
+
+- Personalized itinerary customization: AI analyzes tourist preferences (interests, budget) to generate custom routes, consultant refines and finalizes
+- Real-time information enhancement: AI provides real-time updates on traffic, weather, and events, allowing guides to adjust arrangements
+- Multimodal interpretation assistance: AR/VR overlays historical images or 3D models to enhance on-site interpretation
+- Customer Relationship Management: AI analyzes customer feedback and historical data to help advisors make targeted recommendations and follow-ups
+- Content creation and promotion: AI-assisted writing of travelogues and social media content to enhance personal brand influence
+
+**Human moat:**
+
+- On-site emotional interaction and empathy: ability to handle tourist emotions and emergencies (e.g., lost persons, discomfort)
+- Cultural depth and storytelling interpretation: combining attractions with cultural context to create unique narrative experiences
+- Emergency decision-making and flexible adjustment: handling non-standard scenarios like weather changes, safety incidents
+- Local network and resource coordination: familiarity with local restaurants, drivers, and attractions to ensure service quality
+- The bridging role of language and culture: particularly Mandarin-speaking tour guides are irreplaceable in cross-cultural communication
+
+**Skills to build:**
+
+- AI tool application: Proficient in using ChatGPT, Copilot, etc. to generate itineraries and respond to customers
+- Digital content creation: shooting/editing short videos, writing travelogues, managing social media
+- Data analysis basics: use Excel or simple BI tools to analyze customer preferences and travel trends
+- Crisis management certifications: First aid, risk management, etc., enhance on-site value
+- Second foreign language: besides Chinese, learning Korean/Japanese can expand client base
+
+**Key growth areas:**
 
 - tourism
 - sports events
@@ -63,62 +98,64 @@ Organizes and accompanies individuals or groups on trips, cultural visits, or sp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需获得法国雇主工作合同，并证明该岗位无法招聘到欧盟公民 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，年薪需达到法国平均工资1.5倍以上 |
+| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer must be obtained, and proof that the position cannot recruit EU citizens |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, with an annual salary at least 1.5 times the French average salary |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Travel, Cultural or Sports Activities Guide？**
-- 喜欢与人沟通、热爱旅行和文化或体育活动的人
-- 具备多语言能力和灵活时间安排的人
-- 具有较强组织能力和应变能力的人
+**Who is suited**
+- People who enjoy communicating with others, love traveling, and enjoy cultural or sports activities
+- Individuals with multilingual abilities and flexible scheduling
+- Individuals with strong organizational and adaptability abilities
 
-**谁不适合学Travel, Cultural or Sports Activities Guide？**
-- 不习惯不固定工作时间和频繁出差的人
-- 缺乏耐心和不喜欢户外活动的人
+**Who is not suited**
+- People who are not used to irregular working hours and frequent business trips
+- People who lack patience and dislike outdoor activities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: The junior salary is about 20,000-25,000 euros per year, while the senior can reach up to 40,000 euros, but most positions are part-time or seasonal.
+
+**Q: What routes can foreigners take on this job by immigrating to France?**
+A: Mainly relies on employer-sponsored work visas (Salarié) or talent passports (Passeport Talent), but it is difficult to prove that French nationals cannot fill the position.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Travel, Cultural or Sports Activities Guide属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this profession?**
-答：Entry-level annual salary is about €20,000-25,000, senior can reach €40,000, but many positions are part-time or seasonal.
-
-**问：What immigration pathways exist for this profession in France?**
-答：Mainly through employer-sponsored work visa (Salarié) or Talent Passport, requiring proof that no EU citizen can fill the position, making it quite difficult.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

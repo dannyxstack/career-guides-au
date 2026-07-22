@@ -1,59 +1,91 @@
-# Caretakers（Caretakers）职业分析 · UK
+# Caretakers — career analysis · United Kingdom
 
-**职业代码：6232 – Caretakers。**
+**Occupation code: 6232 (SOC)**
 
-Caretakers supervise and undertake the care and maintenance of church, school, office and other buildings, their facilities, fixtures and contents.
+Responsible for daily caretaking, cleaning, maintenance, and facility management of buildings such as churches, schools, and offices, ensuring a safe and orderly environment.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育学历 | 2年 | —（无需学费） |
-| 职业培训课程 | 6个月 | $500~$1,500（如建筑维护或保洁证书） |
+| Secondary education | 2 years | $0~$0 (No tuition fees required) |
+| Vocational training courses | 6 months. | $500~$1,500 (Such as building maintenance or cleaning certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 雇主通常提供在职培训 |
+| No mandatory requirements | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。预计未来十年就业需求保持稳定，受建筑维护需求驱动，但竞争较低，适合本地求职者。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. Employment demand is expected to remain stable over the next decade, driven by building maintenance needs, but competition is low, suitable for local job seekers.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 起薪接近国家最低工资 |
-| 中级（3-5年） | $22,000~$26,000 | 含额外职责 |
-| 高级（5年以上） | $26,000~$30,000 | 含管理或专业维护职责 |
+| Median salary | $28,950 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | starting salary close to the national minimum wage |
+| Mid-level (3–5 years) | $22,000~$26,000 | Includes additional responsibilities |
+| Senior (5+ years) | $26,000~$30,000 | Includes management or professional maintenance responsibilities |
+| average salary | $30,403 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可通过积累经验晋升为设施主管或物业经理，或转向专业维护领域（如电气、管道）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Caretaker roles are less affected by AI automation, but AI tools can significantly enhance work efficiency and management capabilities, making this an AI-augmented occupation.
+
+Can advance to facility supervisor or property manager through experience, or move to specialized maintenance fields (such as electrical, plumbing).
+
+**Tasks most exposed to AI:**
+
+- Automated alarm systems replacing manual patrol monitoring
+- Smart cleaning robots take over floor cleaning.
+- AI-driven facility management software automatically generates maintenance work orders
+- IoT sensors automatically monitor temperature, humidity, and energy consumption.
+
+**Where AI augments the role:**
+
+- Receive real-time facility anomaly notifications via mobile app
+- Optimize cleaning and maintenance schedules using AI analysis of historical data
+- Utilizing augmented reality (AR) for equipment maintenance and inspection
+- Rapid generation of facility status reports using natural language processing
+
+**Human moat:**
+
+- On-site emergency response and complex problem-solving
+- Interpersonal communication and care with visitors and tenants.
+- Intuitive and experiential insights into building conditions
+- Cross-trade coordination and personnel management responsibilities
+
+**Skills to build:**
+
+- Basic data analysis and report production
+- Use property management software (e.g., Planon, FM:Systems)
+- Learn fundamentals of IoT and sensor management
+- Basic automation tool configuration (e.g., Ifttt, Zapier)
+- Customer service and conflict resolution skills
+
+**Key growth areas:**
 
 - Stable demand
 - Low competition
@@ -62,61 +94,63 @@ Caretakers supervise and undertake the care and maintenance of church, school, o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker） | 通常不符合最低技能要求，难以担保 |
-| Subclass Graduate（Graduate） | 适合毕业生短期工作，但职业发展有限 |
+| Subclass Skilled Worker (Skilled Worker) | Usually does not meet minimum skill requirements, difficult to sponsor |
+| Subclass Graduate (Graduate) | Suitable for short-term work for graduates, but limited career development |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Caretakers？**
-- 动手能力强、注重细节的人
-- 寻求稳定轻松工作的本地居民
+**Who is suited**
+- Hands-on, detail-oriented people
+- Local residents seeking stable and easy work
 
-**谁不适合学Caretakers？**
-- 寻求高薪或职业晋升者
-- 希望通过工作移民的人
+**Who is not suited**
+- Those seeking high salaries or career advancement
+- Those hoping to immigrate through work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a caretaker?**
+A: Entry-level annual salary around £18,000–£22,000; senior level up to £30,000, but growth is limited.
+
+**Q: Can a caretaker immigrate to the UK via the Skilled Worker visa?**
+A: No, this occupation typically does not meet the skill threshold for skilled worker visas, and employer sponsorship is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无需（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Caretakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for caretakers?**
-答：Entry-level salary is around £18,000-£22,000, rising to £30,000 for experienced roles.
-
-**问：Can caretakers get a Skilled Worker visa for the UK?**
-答：No, the role typically does not meet the skill threshold, making employer sponsorship unlikely.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

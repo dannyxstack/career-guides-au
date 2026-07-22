@@ -1,61 +1,93 @@
-# Building Guard（Building Guard）职业分析 · FR
+# Building Guard — career analysis · France
 
-**职业代码：K2501 – Building Guard。**
+**Occupation code: K2501 (ROME)**
 
-Monitors and secures buildings, controls access for people and vehicles, prevents theft and vandalism.
+Responsible for monitoring and protecting building security, managing personnel and vehicles, and preventing theft and vandalism.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 无需 | —（通常在职培训） |
-| CAP Agent de Sécurité | 2年（CAP） | $2,000~$5,000（可通过学徒制免费） |
+| No specific educational requirements | None | $0~$0 (Usually on-the-job training) |
+| CAP Agent de Sécurité | 2 years (CAP) | $2,000~$5,000 (Apprenticeships are available for free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Carte Professionnelle（职业卡） | CNAPS | 必备 | 从事私人安保必须持有，需无犯罪记录 |
-| SSIAP 1（消防与安全证书） | APAVE / 认证机构 | 可选 | 适用于大型建筑看管 |
-| SST（急救培训） | INRS | 可选 | 推荐持有 |
+| Carte Professionnelle | CNAPS | Required | Must be held for private security and must have no criminal record |
+| SSIAP 1 (Fire and Safety Certificate) | APAVE / Accreditation Body | Optional | Suitable for managing large buildings |
+| SST (First Aid Training) | INRS | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。法国安全需求稳定，但岗位增长缓慢，受自动化监控系统影响。预计2023-2028年就业机会略有减少。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Security demand in France is stable, but job growth is slow, affected by automated monitoring systems. Employment opportunities are expected to slightly decrease from 2023 to 2028.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $21,000~$24,000 | SMIC起薪 |
-| 中级（2-5年） | $24,000~$28,000 | 含夜班补贴 |
-| 高级（5年以上） | $28,000~$32,000 | 主管职位 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $21,000~$24,000 | SMIC starts salary |
+| Intermediate (2-5 years) | $24,000~$28,000 | Includes night shift allowance |
+| Senior (5+ years) | $28,000~$32,000 | Supervisory position |
+| average salary | $25,044 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为保安主管、安保经理或转向专业安全行业（如私人安保公司）。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Housing security guard positions in France face the risk of high automation shrinkage. AI monitoring and access control systems will replace most routine patrols and access management, sharply reducing demand.
+
+You can be promoted to Security Supervisor, Security Manager, or transition to professional security industries (such as private security companies).
+
+**Tasks most exposed to AI:**
+
+- Automatically monitoring building safety through cameras and sensors, replacing manual patrols
+- The intelligent access control system automatically manages people and vehicles entering and exiting, without the need for manual registration
+- AI analyzes monitoring footage and automatically triggers alarms, reducing the need for manual judgment
+- Automated report generation replaces manual recording and log entry
+
+**Where AI augments the role:**
+
+- AI-assisted abnormal event recognition improves response speed
+- Automated systems reduce trivial tasks, allowing security to focus on critical decisions
+- AI predictive maintenance reminders enhance facility management capabilities
+- Intelligent scheduling optimizes patrol routes to improve efficiency
+
+**Human moat:**
+
+- On-site response capabilities for complex emergencies such as fires and medical emergencies
+- Interpersonal communication and crisis management with owners and visitors
+- Legal compliance and liability determination (such as evidence preservation and lawful eviction)
+- Multitasking coordination and flexible response (mixed monitoring, maintenance, customer service)
+
+**Skills to build:**
+
+- Monitoring system and intelligent access control operation and troubleshooting
+- Basic data analysis and report interpretation
+- Emergency response and communication skills
+- Digital security awareness and the foundation of cybersecurity
+- Customer service and conflict mediation
+
+**Key growth areas:**
 
 - Stable demand
 - Low growth
@@ -64,62 +96,64 @@ Monitors and secures buildings, controls access for people and vehicles, prevent
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需雇主担保，但由于非紧缺职业，获批困难 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 需证明是高级职位或特殊技能，通常不适用于基础安保 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Requires employer sponsorship, but approval is difficult as it is not a shortage occupation. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Certification of senior positions or special skills is required, which is generally not applicable to basic security |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Building Guard？**
-- 喜欢稳定工作环境的人
-- 注重安全与秩序的人
-- 能适应夜班或轮班的人
+**Who is suited**
+- People who like a stable work environment
+- People who value safety and order
+- People who can adapt to night or shift work
 
-**谁不适合学Building Guard？**
-- 追求高收入或快速晋升的人
-- 无法忍受单调工作的人
+**Who is not suited**
+- Those pursuing high income or rapid promotion
+- People who cannot tolerate monotonous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a house caretaker in France?**
+A: Pre-tax annual salary is about 21,000 to 32,000 euros, depending on experience, night shifts, and employer.
+
+**Q: Can foreign nationals immigrate to France through the house caretaker profession?**
+A: Low possibility. This occupation is not in short supply, with higher employer sponsorship requirements, and is usually limited to EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Building Guard属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a building guard in France?**
-答：Gross annual salary ranges from €21,000 to €32,000, depending on experience, night shifts, and employer.
-
-**问：Can a foreign national immigrate to France as a building guard?**
-答：Low probability. The occupation is not in shortage, employer sponsorship is difficult, and it's generally limited to EU citizens.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

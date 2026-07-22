@@ -1,59 +1,95 @@
-# Mining and Quarrying Worker（Mining and Quarrying Worker）职业分析 · DE
+# Mining and Quarrying Worker — career analysis · Germany
 
-**职业代码：2111 – Mining and Quarrying Worker。**
+**Occupation code: 2111 (KldB)**
 
-Workers involved in extracting and transporting minerals, rocks, and other resources, including drilling, blasting, and loading operations. A traditional industrial sector in Germany, requiring physical strength and safety awareness.
+Engaging in the extraction and transportation of minerals, rocks, and other resources, including drilling, blasting, loading, etc. A traditional German industrial sector with work environments mostly outdoors or underground, requiring high physical fitness and safety awareness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（双元制培训期间有津贴，部分学校收少量费用） |
-| 采矿技师（Meister） | 1-2年（全职） | $3,000~$10,000（需先完成职业培训，费用因培训机构和地区而异） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$5,000 (Dual system training provides an allowance; some schools charge a small fee) |
+| Mining Technician (Meister) | 1-2 years (full-time) | $3,000~$10,000 (Requires completion of vocational training first; costs vary by training institution and region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采矿职业培训证书 | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，是入行基本要求 |
-| 爆破许可证 | 德国联邦或州矿山管理局 | 可选 | 从事爆破作业需额外获得，通过培训和考试 |
-| 资质认证（Anerkennung） | 德国联邦外交部或各州认证机构 | 必备 | 外国学历需经认证，证明与德国职业培训同等 |
+| Mining vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual-system training; it is a basic requirement for entry into the industry. |
+| Qualification recognition (Anerkennung) | German Federal Foreign Office or state certification bodies | Required | Foreign qualifications must be certified as equivalent to German vocational training |
+| Blasting License | German federal or state mine authority | Optional | Engaging in blasting operations requires additional certification obtained through training and exams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 18,000。德国采矿业由于环保政策转型和煤矿逐步关闭，就业岗位呈下降趋势。但部分区域（如褐煤矿）仍有需求，且退休人员较多，每年有一定岗位空缺。
+**Job demand: low (★½☆☆☆).** National workforce approx. 18,000. Due to environmental policies and the gradual closure of coal mines, employment in German mining is declining. However, some regions (e.g., lignite mines) still have demand, and with many retirees, there are certain annual job vacancies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪，北威州和东部地区偏低 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪，含夜班和危险作业补贴 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，通常为技师或工长级别 |
+| Median salary | $58,572 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$36,000 | Pre-tax annual salary, lower in North Rhine-Westphalia and eastern regions |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual pre-tax salary, including night shift and hazardous duty allowances |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, typically at technician or foreman level |
+| average salary | $66,132 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级工可晋升为钻机操作员、爆破技术员等专业岗位，也可通过深造成为采矿技师或工长。受行业萎缩影响，晋升空间有限，转行至建筑或环境工程也较为常见。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Work for mining and quarrying workers and related operators is polarized: repetitive monitoring and operational tasks face automation risk, but roles in complex geological decisions, equipment maintenance, and safety management increase in value with AI assistance; overall mixed outlook.
+
+Entry-level workers can advance to specialized roles such as driller or blasting technician, or further study to become mining technician or foreman. Due to industry decline, promotion opportunities are limited, and transitioning to construction or environmental engineering is common.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor equipment status via sensors and AI vision systems, replacing manual inspections
+- Use automated drilling systems to perform precise drilling according to preset parameters, reducing manual operation
+- AI algorithms optimize blasting design and ore sorting, replacing manual calculations and hand sorting
+- Autonomous transport vehicles replace underground mine truck drivers.
+- Automatically generate production reports based on real-time data, replacing manual entry
+
+**Where AI augments the role:**
+
+- AI geological modeling assists engineers in analyzing ore distribution, improving efficiency of mining plan design.
+- AR headsets overlay downhole sensor data to help operators quickly locate equipment faults
+- Predictive maintenance systems provide early warnings of equipment anomalies, reducing unplanned downtime
+- Digital twin simulates different mining strategies to optimize production scheduling
+- Remote control technology allows operators to manage multiple machines from a safe area
+
+**Human moat:**
+
+- Emergency decision-making ability to handle sudden geological disasters (e.g., landslides, gas outbursts)
+- Ability to assess complex and variable ore body structures on-site and flexibly adjust processes
+- Repair, modification, and innovation of old equipment and non-standard parts
+- Collaboration and communication skills working with multidisciplinary teams such as geology, safety, and equipment
+- Authority in enforcing safety regulations and correcting on-site violations
+
+**Skills to build:**
+
+- Industrial robot and automation system operation and basic programming (e.g., PLC)
+- Data Collection and Analysis Tools (e.g., Python, Tableau)
+- Use of remote monitoring and digital twin platforms
+- Predictive maintenance and equipment diagnostic technology
+- Decision-making ability in collaboration with AI systems (e.g., evaluating AI-recommended blasting plans)
+- Project management related to digital transformation in energy and mining
+
+**Key growth areas:**
 
 - Renewable energy transition
 - Mine closure
@@ -62,65 +98,64 @@ Workers involved in extracting and transporting minerals, rocks, and other resou
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 针对双元制职业培训合格的技工，需获得德国雇主offer且职业资格被认可。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许在德寻找工作，适合有相关培训背景者。 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需证明足够经济能力，适合高学历且职业前景良好者。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled workers who have completed dual-system vocational training, must obtain a job offer from a German employer and have their vocational qualifications recognized. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job search visa based on a points system, allowing job seeking in Germany, suitable for those with relevant training background. |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring proof of sufficient financial means, suitable for those with high education and good career prospects. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining and Quarrying Worker？**
-- 喜欢户外和体力劳动的人
-- 对机械操作和爆破技术感兴趣的人
-- 愿意在偏远地区工作的人
-
-**谁不适合学Mining and Quarrying Worker？**
-- 不适应高强度体力劳动的人
-- 追求稳定长期职业前景的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor and physical labor.
+- People interested in mechanical operations and blasting techniques
+- People willing to work in remote areas.
+
+**Who is not suited**
+- People who are not suited for high-intensity physical labor
+- Those seeking stable long-term career prospects
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for miners in Germany?**
+A: Miner salaries are below the German average; entry-level annual salary about €30,000-36,000, senior technician about €45,000-55,000, can reach €60,000 with subsidies.
+
+**Q: Can I immigrate to Germany as a miner?**
+A: Yes, but requires professional qualification recognition (Anerkennung) and a job offer from a German employer. Mining engineers or technicians have relatively good chances; ordinary workers have fewer opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mining and Quarrying Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining workers in Germany?**
-答：Mining workers earn below the German average, with entry-level salaries around €30,000-€36,000 gross per year, and senior technicians up to €45,000-€55,000.
-
-**问：Can I migrate to Germany as a mining worker?**
-答：Yes, but you need recognition of your vocational qualification (Anerkennung) and a job offer. Mining engineers and technicians have better chances.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

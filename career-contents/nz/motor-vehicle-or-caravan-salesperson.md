@@ -1,58 +1,93 @@
-# Motor Vehicle or Caravan Salesperson（Motor Vehicle or Caravan Salesperson）职业分析 · 新西兰
+# Motor Vehicle or Caravan Salesperson — career analysis · New Zealand
 
-**职业代码：621311 – Motor Vehicle or Caravan Salesperson。**
+**Occupation code: 621311 (ANZSCO)**
 
-Sell new or used vehicles and caravans at dealerships, offering test drives, finance options, and after-sales service. This role allows migration via AEWV or SMC but is not on the Green List, requiring employer support.
+Sell new or used cars in car dealerships or caravan showrooms, offering test drives, finance options, and after-sales service. This occupation can immigrate via AEWV or SMC, but is not on the Green List, requiring employer support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（无需高等教育，高中毕业即可） |
-| 初级销售培训 | 3个月 | $1,000~$3,000（在职培训或短期课程） |
+| High school diploma | 0 years | $0~$0 (No higher education required, high school diploma sufficient) |
+| Entry-level sales training | 3 months | $1,000~$3,000 (On-the-job training or short courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新车销售培训 | VTNZ | 可选 | 非强制，但有助于雇主 |
-| 二手车评估证书 | NZ Qualifications Authority | 可选 | 部分雇主要求 |
+| New car sales training | VTNZ | Optional | Not mandatory, but helpful for employers |
+| Used car appraisal certificate | NZ Qualifications Authority | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。新西兰汽车市场稳步发展，电动汽车普及带来新产品知识需求。预计就业机会稳定，但竞争中等，有经验的销售员更易就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. The New Zealand automotive market is steadily growing, with EV adoption bringing demand for new product knowledge. Employment opportunities are stable but moderately competitive, with experienced salespeople finding jobs more easily.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 底薪加佣金 |
-| 中级（3-6年） | $65,000~$90,000 | 含佣金，业绩关键 |
-| 高级（6年以上） | $90,000~$130,000 | 高佣金和高绩效销售 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Base salary plus commission |
+| Mid-level (3–6 years) | $65,000~$90,000 | includes commission, performance is key |
+| Senior (6+ years) | $90,000~$130,000 | High commission and high-performance sales |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级可晋升高级销售员、销售主管或展厅经理。积累经验后可转向品牌经理或业务开发角色，薪资随业绩增长显著。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace motor vehicle salespeople but will become a powerful sales support tool, handling information queries, customer tracking, and personalized recommendations, allowing salespeople to focus more on building trust and closing deals.
+
+Junior roles can progress to senior salesperson, sales supervisor, or showroom manager. With experience, one can move into brand manager or business development roles, with salary significantly increasing based on performance.
+
+**Tasks most exposed to AI:**
+
+- Automatically answer common customer questions about inventory, pricing, configuration, etc.
+- Automatically generate personalized vehicle recommendations based on customer preferences and historical data
+- Record and analyze customer feedback after test drives, generate follow-up reminders
+- Automate preliminary financial solution quotes and loan approval processes
+- Generate standardized vehicle comparison tables and performance specification sheets.
+
+**Where AI augments the role:**
+
+- AI provides customer behavior analysis, helping sales staff accurately assess customer intent and budget.
+- Virtual test drives and AR displays enhance customer experience and increase conversion rates.
+- AI generates real-time negotiation scripts and objection handling suggestions
+- Automatically organizes customer history records and after-sales service reminders, increasing repurchase rates
+- Identify high-potential clients through predictive models and prioritize follow-up resource allocation
+
+**Human moat:**
+
+- accompanying and professional explanation during offline test drive experiences
+- Flexible handling of complex price negotiations and vehicle condition disputes
+- Emotional resonance and long-term customer relationship maintenance
+- Cross-departmental coordination skills (after-sales, finance, insurance)
+
+**Skills to build:**
+
+- Proficiency in CRM and AI sales tools (e.g., Salesforce Einstein)
+- Data analysis capability: interpret customer behavior reports, adjust sales strategies
+- SQL or low-code platform skills: automated reporting and customer screening
+- Social Media and Digital Marketing Basics: Using AI tools for precise customer acquisition
+- Negotiation psychology and customer relationship management
+- Knowledge of new energy vehicle technology: understanding selling points of EVs/HEVs
+
+**Key growth areas:**
 
 - Stable
 - Electric Vehicle Growth
@@ -61,66 +96,65 @@ Sell new or used vehicles and caravans at dealerships, offering test drives, fin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需要获得认证雇主工作机会，最多可停留3年，可续签并申请移民。 |
-| Subclass SMC（Skilled Migrant Category） | 若满足6分制要求（如NZQF学历+工作经验），可通过SMC申请居留；但需雇主支持。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an approved employer, stay up to 3 years, renewable and can apply for permanent residence. |
+| Subclass SMC (Skilled Migrant Category) | If you meet the six-point requirements (e.g., NZQF qualification + work experience), you can apply for residence through SMC; but employer support is needed. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motor Vehicle or Caravan Salesperson？**
-- 喜欢与人打交道、善于沟通的销售型人才
-- 对汽车行业有热情，愿意学习新车型和技术
-
-**谁不适合学Motor Vehicle or Caravan Salesperson？**
-- 不喜欢业绩压力和佣金制收入模式
-- 对汽车无兴趣或缺乏说服力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Sales-oriented individuals who enjoy interacting with people and have strong communication skills
+- Passionate about the automotive industry, willing to learn new models and technologies.
+
+**Who is not suited**
+- People who dislike sales pressure and commission-based income models
+- Lack of interest in cars or lack of persuasiveness
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a car salesperson in New Zealand?**
+A: Base salary about 50,000-60,000 New Zealand dollars, total income with commission can reach 80,000-130,000 New Zealand dollars; income strongly correlated with performance.
+
+**Q: Can a car salesperson migrate to New Zealand through skilled migration?**
+A: Yes, but not a Green List occupation. Typically apply for an AEWV work visa first, accumulate work experience, then apply for residence through the Skilled Migrant Category, meeting the 6-point system.
+
+**Q: What is the employment outlook for this occupation in New Zealand?**
+A: Stable employment prospects, with electric vehicle demand growth creating opportunities; but competition is moderate, requiring good sales skills and customer service ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Motor Vehicle or Caravan Salesperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a car salesperson in New Zealand?**
-答：Base salary is around NZD 50,000-60,000, with total income including commission reaching NZD 80,000-130,000; strongly tied to performance.
-
-**问：Can car salespeople immigrate to New Zealand through skilled migration?**
-答：Yes, but it is not on the Green List. Typically apply for AEWV first, then after gaining experience, apply for residency via SMC under the 6-point system.
-
-**问：What is the job outlook for this occupation in New Zealand?**
-答：Stable outlook with opportunities from electric vehicle growth; moderate competition requires strong sales and customer service skills.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

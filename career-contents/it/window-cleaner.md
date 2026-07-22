@@ -1,60 +1,96 @@
-# Window Cleaner（Window Cleaner）职业分析 · IT
+# Window Cleaner — career analysis · Italy
 
-**职业代码：9123 – Window Cleaner。**
+**Occupation code: 9123 (ISCO08)**
 
-Window cleaners clean windows, glass facades and other glass surfaces of buildings using professional tools and safety equipment, ensuring aesthetic appearance and safe operation.
+Window cleaners clean building windows, glass curtain walls and other glass surfaces, using professional tools and safety equipment to ensure cleanliness and safe operation.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 8年（初中毕业） | —（意大利义务教育免费） |
-| 职业培训 | 1-2年（职业课程） | $500~$3,000（地区职业培训课程费用） |
+| Compulsory education | 8 years (junior high school graduation) | $0~$0 (Compulsory education in Italy is free) |
+| Vocational training | 1-2 years (vocational courses) | $500~$3,000 (Regional vocational training course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业安全培训 | INAIL或地区授权机构 | 必备 | 从事高空窗户清洁必需 |
-| 健康证明 | 地方卫生局（ASL） | 必备 | 证明无传染病及适合高空作业 |
+| Safety training for working at heights | INAIL or authorized regional body | Required | Required for high-altitude window cleaning |
+| Health certificate | Local Health Authority (ASL) | Required | Certificate proving no infectious diseases and suitability for working at heights |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。意大利窗户清洁工需求稳定，受建筑维护和商业服务行业持续推动。由于就业门槛较低且流动性强，岗位竞争中等，预计未来几年就业率保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for Italian window cleaners is stable, driven by the building maintenance and commercial services industries. Due to low entry barriers and high mobility, competition is moderate, and employment is expected to remain steady in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，通常为雇佣合同 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪，含经验津贴 |
-| 高级（7年以上） | $26,000~$32,000 | 税前年薪，领班或自主创业可达更高 |
+| Median salary | $23,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$20,000 | Annual pre-tax salary, typically as stated in the employment contract |
+| Mid-level (3–7 years) | $20,000~$26,000 | Annual salary before tax, including experience allowances |
+| Senior (7+ years) | $26,000~$32,000 | Annual pre-tax salary, higher for team leaders or self-employed entrepreneurs |
+| average salary | $23,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径有限，通常从学徒或助手做起，积累经验后可成为资深清洁工或领班，少数可自主创业承包清洁服务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Window cleaning is a high-risk occupation; high-altitude work and basic cleaning tasks will be largely replaced by automated equipment (e.g., drones, robots), leading to a sharp decline in entry-level positions.
+
+Career development paths are limited; typically starting as an apprentice or assistant, gaining experience to become a senior cleaner or supervisor, and a few may start their own cleaning business.
+
+**Tasks most exposed to AI:**
+
+- Manually cleaning windows using long poles and squeegees
+- Routine cleaning of low-rise building windows
+- Spray chemical agents to prevent contamination after cleaning
+- Visual inspection of window cleanliness
+- Record cleaning areas and workload
+
+**Where AI augments the role:**
+
+- Operate drones or robots for high-altitude cleaning
+- Using AI to plan optimal cleaning routes and scheduling
+- Monitoring glass damage via sensors and AI
+- Use augmented reality (AR) to view hidden stains
+- Use AI to analyze customer feedback and optimize service
+
+**Human moat:**
+
+- Handle emergency situations in complex high-altitude work
+- Fine cleaning of antiques or special material windows
+- Communicate personalized needs with clients.
+- Supervising the safe operation of automated equipment
+- Flexibility to work in confined or hazardous environments
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- Robot cleaning system programming
+- high-altitude safety regulations and emergency response
+- Basic mechanical maintenance skills
+- client communication and project management
+- Use of AI scheduling software
+
+**Key growth areas:**
 
 - Building maintenance
 - Safety equipment
@@ -63,63 +99,65 @@ Window cleaners clean windows, glass facades and other glass surfaces of buildin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民通过年度配额申请工作签证，需雇主担保，适用于非技术类工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，但窗户清洁工通常不符合薪资门槛。 |
-| Subclass 季节性工作签证（Seasonal Work Visa） | 短期工作签证，适用于临时清洁工作，有效期最长9个月。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work visas through annual quota, requiring employer sponsorship, suitable for non-skilled jobs. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled workers, but window cleaners typically do not meet the salary threshold. |
+| Subclass Seasonal Work Visa (Seasonal Work Visa) | Short-term work visa for temporary cleaning work, with a maximum validity of 9 months. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Window Cleaner？**
-- 不介意高空作业和体力劳动的人
-- 需要快速就业、无高学历要求的人
-- 对清洁工作有耐心、注重细节的人
+**Who is suited**
+- People who don't mind working at heights and physical labor
+- Those needing quick employment and without high educational requirements
+- Patient and detail-oriented person for cleaning work
 
-**谁不适合学Window Cleaner？**
-- 有恐高症或身体素质较差的人
-- 寻求高薪或快速职业晋升的人
+**Who is not suited**
+- People with acrophobia or poor physical fitness
+- Those seeking high salary or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do window cleaners earn in Italy?**
+A: Entry-level annual salary around 16,000-20,000 euros, mid-level 20,000-26,000 euros, senior up to 32,000 euros, but requires experience or self-employment.
+
+**Q: How can non-EU citizens immigrate to Italy through window cleaning work?**
+A: Primarily through Decreto Flussi quota work visas, requiring employer sponsorship, with limited slots and high competition. EU Blue Card not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Window Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for window cleaners in Italy?**
-答：Entry-level annual salary ranges from €16,000 to €20,000, mid-level €20,000 to €26,000, senior up to €32,000, depending on experience and self-employment.
-
-**问：How can non-EU citizens immigrate to Italy as a window cleaner?**
-答：Mainly through Decreto Flussi work visa quota, requiring employer sponsorship, with limited spots and high competition. EU Blue Card is not applicable.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

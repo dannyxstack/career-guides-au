@@ -1,60 +1,95 @@
-# Assemblers Not Elsewhere Classified（Assemblers Not Elsewhere Classified）职业分析 · IE
+# Assemblers Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：8219 – Assemblers Not Elsewhere Classified。**
+**Occupation code: 8219 (ISCO08)**
 
-Assembles various products manually, including electronic, mechanical, and metal goods; involves repetitive tasks with attention to detail and efficiency.
+Performs manual assembly of various products, including electronics, machinery, metal goods, etc., with high repetition and focus on precision and efficiency.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 2年（职业培训） | —（部分政府资助培训免费） |
-| 职业资格证书 | 1年 | $500~$2,000（私人培训机构费用） |
+| High school diploma or equivalent | 2 years (vocational training) | $0~$1,000 (Some government-funded training is free) |
+| Professional qualifications | 1 year | $500~$2,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | - | 可选 | 雇主通常提供在职培训 |
-| 手工装配技能证书 | 爱尔兰技能网络 (Skillnet) | 可选 | 非必需，但提升就业竞争力 |
+| No mandatory qualification requirements | - | Optional | Employers usually provide on-the-job training |
+| Hand assembly skill certificate | Skillnet Ireland | Optional | Not mandatory, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。受制造业外迁影响，该职位在爱尔兰需求稳定但增长缓慢，主要集中在医疗器械、电子设备等高附加值领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Due to manufacturing relocation, demand for this role in Ireland is stable but slow-growing, mainly in high-value sectors like medical devices and electronics.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 基础装配岗位 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验的装配工 |
-| 高级（7年以上） | $35,000~$42,000 | 高级装配工或组长 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Basic assembly positions |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced assembler |
+| Senior (7+ years) | $35,000~$42,000 | Senior assembler or team leader |
+| average salary | $32,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可向质检员、生产线组长或技术装配员晋升，部分通过培训转向自动化设备操作或维护岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Unclassified assemblers face high risk of automation; repetitive manual tasks will be significantly reduced by AI and robots, leading to decreased demand for positions.
+
+Can advance to quality inspector, production line leader, or technical assembler; some transition to automated equipment operation or maintenance roles through training.
+
+**Tasks most exposed to AI:**
+
+- Repetitive parts assembly and installation
+- Visual quality inspection and simple testing
+- Material handling and sorting
+- Basic tool operation and manual tightening
+- Operations following a fixed procedure
+
+**Where AI augments the role:**
+
+- AI-assisted visual recognition systems improve assembly precision
+- Collaborative robots reduce heavy and repetitive work
+- Digital work instructions reduce training time
+- Real-time quality monitoring feedback optimization process
+
+**Human moat:**
+
+- Flexibility to adapt to complex non-standard assembly
+- Equipment maintenance and fault diagnosis
+- Collaborate with teams to solve unexpected problems
+- Intuitive judgment of subtle material differences
+- Safety management and compliance responsibilities
+
+**Skills to build:**
+
+- Industrial robot programming and operation
+- PLC and automation system maintenance
+- Use of digital twins and simulation tools
+- Data analysis and quality control
+- Lean production and process optimization
+- Cross-domain mechanical and electrical integration skills
+
+**Key growth areas:**
 
 - Medical device assembly
 - Electronics manufacturing
@@ -63,62 +98,64 @@ Assembles various products manually, including electronic, mechanical, and metal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪≥30,000欧元，雇主提供工作机会。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调派，需已在公司工作6个月以上。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires annual salary ≥EUR 30,000 and employer job offer. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, must have worked in the company for more than 6 months. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Assemblers Not Elsewhere Classified？**
-- 动手能力强、注重细节、能适应重复性工作的人
-- 希望在制造业入门并积累经验的人
-- 愿意接受在职培训、提升技能的求职者
+**Who is suited**
+- People who are hands-on, detail-oriented, and able to adapt to repetitive work
+- People who want to enter the manufacturing industry and gain experience.
+- Job seekers willing to accept on-the-job training and skill improvement
 
-**谁不适合学Assemblers Not Elsewhere Classified？**
-- 不喜欢重复性体力劳动的人
-- 追求高薪和快速职业晋升的人
+**Who is not suited**
+- People who dislike repetitive physical labor
+- People seeking high salary and fast career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for assemblers?**
+A: Entry-level annual salary approximately €24,000-28,000, senior up to €35,000-42,000, depending on industry experience.
+
+**Q: Can non-EU citizens immigrate to Ireland through an assembler position?**
+A: This occupation is not in demand; requires a general employment permit with a salary threshold of over €30,000, making immigration relatively difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Assemblers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for assemblers?**
-答：Entry-level salaries range from €24,000 to €28,000, with experienced assemblers earning up to €35,000-€42,000 annually.
-
-**问：Can non-EU citizens immigrate via assembler jobs?**
-答：This occupation is not on the shortage list; requires a General Employment Permit with a salary threshold of €30,000, making immigration challenging.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

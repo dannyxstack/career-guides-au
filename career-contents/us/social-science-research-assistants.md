@@ -1,59 +1,95 @@
-# Social Science Research Assistants（Social Science Research Assistants）职业分析 · 美国
+# Social Science Research Assistants — career analysis · United States
 
-**职业代码：19-4061 – Social Science Research Assistants。**
+**Occupation code: 19-4061 (SOC)**
 
-Assist social scientists in laboratory, survey, and other social science research. May help prepare findings for publication and assist in laboratory analysis, quality control, or data management.
+Assists social scientists in laboratory, survey, and other social science research; may help prepare research results for publication and assist with lab analysis, quality control, or data management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学年均学费约1万-3万美元，私立大学约3万-5万美元） |
-| 硕士学位 | 2年 | $30,000~$100,000（总学费） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Average annual tuition at public universities is approximately USD 10,000-30,000, and at private universities USD 30,000-50,000.) |
+| Master's degree | 2 years | $30,000~$100,000 (Total tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位（社会学、心理学、政治学等相关领域） | 认证大学 | 必备 | 通常最低要求 |
-| 硕士学历（部分高级职位） | 认证大学 | 可选 | 可提高竞争力 |
-| CITI Program 研究伦理培训 | CITI Program | 可选 | 涉及人体研究时可能需要 |
+| Bachelor's degree (sociology, psychology, political science, or related field) | Accredited university | Required | Typically minimum requirements |
+| Master's degree (for some advanced positions) | Accredited university | Optional | Can enhance competitiveness |
+| CITI Program research ethics training | CITI Program | Optional | May be required when involving human studies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 27,700。美国劳工统计局预计2023-2033年就业增长约4%，与所有职业平均水平相当。研究经费和政府政策变化可能影响需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 27,700. US Bureau of Labor Statistics projects employment growth of about 4% from 2023-2033, about average for all occupations. Research funding and policy changes may affect demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 通常为入门级研究助理工资 |
-| 中级（3-7年） | $45,000~$60,000 | 有经验的研究助理 |
-| 高级（7年以上） | $60,000~$80,000 | 资深或主管级研究助理 |
+| Median salary | $61,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | typically entry-level research assistant salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced research assistant |
+| Senior (7+ years) | $60,000~$80,000 | Senior or Supervisor-level Research Assistant |
+| average salary | $66,140 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从研究助理起步，积累经验后可晋升为研究协调员或高级研究助理，部分人继续攻读博士学位并成为独立研究员或教授。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will automate a lot of work in data sorting, literature review, etc., but also enhance analytical capabilities. Competition for entry-level positions will intensify, while the value of senior roles will increase. Overall, it's a mixed bag.
+
+Usually start as a research assistant, gain experience, and can advance to research coordinator or senior research assistant; some pursue a PhD to become independent researchers or professors.
+
+**Tasks most exposed to AI:**
+
+- Literature screening and abstract generation: AI can quickly search and summarize academic literature, replacing manual sorting.
+- Data coding and cleaning: AI automatically identifies patterns and handles missing values, reducing tedious manual data cleaning.
+- Basic statistical analysis: Use AI tools to perform descriptive statistics, regression analysis, etc., without manual calculation.
+- Survey distribution and preliminary statistics: AI can automatically distribute surveys and generate preliminary statistical reports.
+- Research assistant administrative tasks: scheduling, literature management, proofreading, etc., efficiently performed by AI.
+
+**Where AI augments the role:**
+
+- Complex data analysis: AI-assisted processing of large-scale, multi-source data to uncover deep correlations.
+- Research design optimization: AI simulates different experimental designs to help assess statistical power and potential biases.
+- Report and paper writing: AI assists in drafting, generating charts, and refining language.
+- Cross-disciplinary knowledge association: AI integrates multidisciplinary literature to help propose innovative research questions.
+- Project quality control and monitoring: AI continuously tracks data quality and compliance, quickly identifying anomalies.
+
+**Human moat:**
+
+- Research ethics judgment: when involving privacy or sensitive issues, humans must make ethical decisions.
+- Qualitative data interpretation: understanding context, emotion, and cultural nuances, which AI cannot fully replace.
+- Cross-disciplinary theory construction: integrating multi-disciplinary theories and proposing original frameworks.
+- Stakeholder communication: build trust and collaboration with respondents, funders, etc.
+- Critical thinking skills: question assumptions, identify research biases, design rigorous methods.
+
+**Skills to build:**
+
+- Python/R programming: automated data processing and advanced analysis.
+- Machine Learning Basics: Applying ML Models to Social Science Data.
+- AI prompt engineering: effectively using LLMs to assist with literature review and writing.
+- Data visualization: use Tableau or Python libraries to create dynamic reports.
+- Research ethics and privacy regulations: familiar with IRB processes and AI ethical guidelines.
+- Mixed methods research: integrates quantitative and qualitative methods to leverage human judgment.
+
+**Key growth areas:**
 
 - Research
 - Data Analysis
@@ -62,69 +98,68 @@ Assist social scientists in laboratory, survey, and other social science researc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于有学士学位以上、职位为专业职业的研究助理，需雇主担保并抽签 |
-| Subclass EB-2（EB-2 Advanced Degree） | 适用于拥有硕士以上学位者，可通过PERM劳工证申请绿卡 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于学士学位或两年经验者，需PERM劳工证 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大或墨西哥公民，符合特定职业清单（社会科学研究助理可能属于Research Assistant） |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to research assistants with a bachelor's degree or higher in a professional occupation, requires employer sponsorship and lottery |
+| Subclass EB-2 (EB-2 Advanced Degree) | Applicable to those with master's degree or higher, can apply for green card via PERM labor certification |
+| Subclass EB-3 (EB-3 Skilled Workers) | Applicable to those with a bachelor's degree or two years of experience; requires PERM labor certification |
+| Subclass TN (TN Status (USMCA)) | Applicable to Canadian or Mexican citizens under specific occupational lists (social science research assistant may fall under Research Assistant) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Science Research Assistants？**
-- 对社会科学研究有强烈兴趣的人
-- 注重细节、有较强分析能力的人
-- 愿意从基础工作积累经验并继续深造的人
-
-**谁不适合学Social Science Research Assistants？**
-- 追求高薪的人
-- 不喜欢重复性数据管理或行政工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in social science research.
+- People who are detail-oriented and have strong analytical skills
+- People willing to gain experience from basic work and pursue further education.
+
+**Who is not suited**
+- People seeking high income
+- People who dislike repetitive data management or administrative work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social science research assistants?**
+A: Annual salary typically ranges from USD 35,000 to 60,000; junior around USD 35,000, senior above USD 60,000, lower than many technical roles.
+
+**Q: What are the immigration pathways for a social science research assistant?**
+A: Common pathways include H-1B work visa (subject to lottery) and EB-2/EB-3 green card (requires PERM labor certification). TN visa available for Canadian and Mexican citizens.
+
+**Q: How to become a social science research assistant?**
+A: Typically requires a bachelor's degree in social sciences or related field; research experience preferred. Some positions require a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Social Science Research Assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Social Science Research Assistants?**
-答：Annual salary typically ranges from $35,000 to $60,000, with entry-level around $35,000 and senior above $60,000, lower than many technical roles.
-
-**问：What are the immigration pathways for Social Science Research Assistants?**
-答：Common paths include H-1B visa (lottery) and EB-2/EB-3 green card (PERM). TN visa for Canadian and Mexican citizens.
-
-**问：How to become a Social Science Research Assistant?**
-答：Usually requires a bachelor's degree in social science, with research experience preferred. Some positions require a master's degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

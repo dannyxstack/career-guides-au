@@ -1,61 +1,93 @@
-# Program Director (Television or Radio)（Program Director (Television or Radio)）职业分析 · 新西兰
+# Program Director (Television or Radio) — career analysis · New Zealand
 
-**职业代码：212315 – Program Director (Television or Radio)。**
+**Occupation code: 212315 (ANZSCO)**
 
-Program Directors plan, coordinate, and oversee television or radio program content and scheduling, ensuring quality, budget compliance, and audience needs. In New Zealand, this occupation is eligible for skilled migration and Green List pathways, requiring significant industry experience.
+Program director is responsible for planning, coordinating, and supervising the overall content and broadcast of TV or radio programs, ensuring program quality, budget compliance, and meeting audience needs. In New Zealand, this occupation can apply for residence through skilled migration or Green List pathways, requiring extensive industry experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（传媒/影视/广播） | 3年 | $30,000~$45,000（每年学费约3-4.5万纽元） |
-| 研究生文凭（媒体管理） | 1年 | $25,000~$40,000（每年学费约2.5-4万纽元） |
-| 短期课程（制作管理） | 6个月 | $5,000~$10,000（非学历培训约5千-1万纽元） |
+| Bachelor's degree (Media/Film/Broadcasting) | 3 years | $30,000~$45,000 (Annual tuition is about 30,000-45,000 NZD.) |
+| Graduate Diploma (Media Management) | 1 year | $25,000~$40,000 (Annual tuition approx. NZD 25,000-40,000) |
+| Short course (Production Management) | 6 months. | $5,000~$10,000 (Non-degree training approx. NZ$5,000-10,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体/传播学学士 | 奥克兰大学、梅西大学等 | 可选 | 常见学历要求，非强制但优先 |
-| 项目管理认证（PMP） | PMI | 可选 | 提升管理能力，非强制 |
-| 行业经验证明 | 雇主 | 必备 | 通常需5年以上媒体工作经验 |
-| 新西兰媒体从业者注册 | NZ Media Council | 可选 | 非强制，但加分 |
+| industry experience proof | Employer | Required | Typically requires more than 5 years of media experience |
+| Bachelor's degree in Media/Communications | University of Auckland, Massey University, etc. | Optional | Common educational requirement, not mandatory but preferred |
+| Project Management Professional (PMP) certification | PMI | Optional | Enhance management skills, not mandatory |
+| New Zealand media practitioner registration | NZ Media Council | Optional | Not mandatory, but adds points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 200。新西兰媒体行业稳定，节目总监需求受数字平台发展推动，但竞争激烈。预计未来5年就业增长平稳，主要机会存在于大型广播公司和独立制作公司。移民者需有本地经验或创意管理能力。
+**Job demand: medium (★★★☆☆).** National workforce approx. 200. The New Zealand media industry is stable, with demand for program directors driven by digital platform development, but competition is fierce. Employment growth is expected to be steady over the next 5 years, with main opportunities in large broadcasters and independent production companies. Immigrants need local experience or creative management skills.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 助理或小型电台/电视台 |
-| 中级（4-7年） | $80,000~$110,000 | 中型媒体或独立制作公司 |
-| 高级（8年以上） | $110,000~$140,000 | 大型广播公司或全国性网络 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Assistant or small radio/TV station |
+| Mid-level (4-7 years) | $80,000~$110,000 | Medium-sized media or independent production company |
+| Senior (8+ years) | $110,000~$140,000 | Large broadcasters or national networks |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从制片人、编辑或运营经理晋升为节目总监，再升至内容总监、媒体总经理。积累跨平台（电视、广播、流媒体）管理经验是关键。新西兰行业较小，晋升需展现领导力和战略眼光。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is rapidly penetrating program planning and arrangement, replacing tasks in data analysis and content recommendation, but strategic decision-making, team leadership, and creative control remain core human strengths. Program directors need to actively embrace AI tools to enhance efficiency.
+
+Can progress from Producer, Editor, or Operations Manager to Program Director, then to Content Director or Media General Manager. Accumulating cross-platform (TV, radio, streaming) management experience is key. The New Zealand industry is small, so advancement requires leadership and strategic vision.
+
+**Tasks most exposed to AI:**
+
+- Program viewership prediction and schedule optimization based on historical data
+- Automated compliance screening of routine content (e.g., ad duration, sensitive words)
+- automated sentiment analysis report generation of audience feedback
+- Repetitive budget tracking and resource allocation notifications
+
+**Where AI augments the role:**
+
+- Using AI tools to rapidly generate multiple versions of program outlines and creative proposals
+- Precisely targeting content preferences by analyzing massive audience data with AI
+- AI-assisted automated broadcast monitoring and anomaly alerts improve broadcast quality.
+- Write promotional copy and social media content using natural language models
+
+**Human moat:**
+
+- Long-term program strategy planning based on industry intuition and market judgment
+- Coordinate complex interpersonal relationships among creative teams, hosts, and production parties
+- Quick decision-making and command during crisis events (e.g., live broadcast emergencies)
+- Establish and maintain program brand identity and cultural values
+
+**Skills to build:**
+
+- Mastery of AI data analysis tools (e.g., Tableau, Power BI)
+- Learn prompt engineering to efficiently use large language models for creative assistance.
+- Basic programming mindset (Python or low-code platform for workflow automation)
+- New media and multi-platform distribution strategies (TikTok, podcasts, etc.)
+- Advanced Project Management and Agile Methodologies
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -64,69 +96,68 @@ Program Directors plan, coordinate, and oversee television or radio program cont
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 需在新西兰从事节目总监工作满2年后申请居留；薪资需达到中位数（目前约29.66纽元/小时） |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求，根据学历、工作经验等评分；ANZSCO 1-3级职业，需年薪中位数以上 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，可工作最长3年；需匹配技能和薪资要求 |
-| Subclass Green List T1（Green List Straight to Residence） | 目前节目总监未列入T1；若未来列入可直接申请居留 |
+| Subclass Green List T2 (Green List Work to Residence) | Must work as a program director in New Zealand for 2 years before applying for residence; salary must meet the median (currently about 29.66 NZD/hour) |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point requirements, scored based on qualifications, work experience, etc.; ANZSCO skill level 1-3 occupations, requiring above-median annual salary. |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, can work for up to 3 years; must meet skill and salary requirements |
+| Subclass Green List T1 (Green List Straight to Residence) | The current program director is not listed on T1; if listed in the future, can directly apply for residence |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Program Director (Television or Radio)？**
-- 具备5年以上媒体制作或管理经验，富有创意和决策力
-- 适应高压工作节奏，善于多任务处理和时间管理
-- 对数字媒体转型感兴趣，愿意学习新技术
-
-**谁不适合学Program Director (Television or Radio)？**
-- 缺乏团队领导经验或沟通能力较差
-- 无法接受加班、截止日期压力及灵活工作时间
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has over 5 years of media production or management experience, creative and decisive.
+- Able to handle high-pressure work pace, skilled in multitasking and time management
+- Interested in digital media transformation and willing to learn new technologies
+
+**Who is not suited**
+- Lack of team leadership experience or poor communication skills
+- Unable to accept overtime, deadline pressure, and flexible working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Program Director in New Zealand?**
+A: Entry-level annual salary approximately NZD 65,000-80,000, mid-level approximately NZD 80,000-110,000, senior up to NZD 140,000+. Depends on company size, region, and experience.
+
+**Q: Can a program director immigrate to New Zealand via the Green List?**
+A: The current program director is classified under the Green List T2 (Work to Residence) occupation, requiring two years in the role in New Zealand before applying for residence. It may be upgraded to T1 in the future. Alternatively, they can apply via Skilled Migrant Category (SMC), but must meet the 6-point system requirements.
+
+**Q: Which cities in New Zealand have job opportunities for program directors?**
+A: Major opportunities are concentrated in Auckland and Wellington, as large broadcasters (e.g., TVNZ, MediaWorks) and production companies are headquartered there. Christchurch and Dunedin also have a small number of opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Program Director (Television or Radio)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Program Director in New Zealand?**
-答：Entry-level salary ranges from NZD 65,000 to 80,000, mid-level from 80,000 to 110,000, and senior can exceed 140,000. Varies by company size, location, and experience.
-
-**问：Can a Program Director immigrate to New Zealand via the Green List?**
-答：Currently, Program Director is on Green List Tier 2 (Work to Residence), requiring 2 years of work in New Zealand before applying for residence. It may be upgraded to Tier 1 in the future. Skilled Migrant Category (SMC) is also possible under the 6-point system.
-
-**问：Which cities in New Zealand have job opportunities for Program Directors?**
-答：Major opportunities are in Auckland and Wellington, home to large broadcasters (e.g., TVNZ, MediaWorks) and production companies. Christchurch and Dunedin have smaller markets.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

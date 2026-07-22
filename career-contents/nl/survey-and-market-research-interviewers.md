@@ -1,60 +1,96 @@
-# Survey and Market Research Interviewers（Survey and Market Research Interviewers）职业分析 · NL
+# Survey and Market Research Interviewers — career analysis · Netherlands
 
-**职业代码：4227 – Survey and Market Research Interviewers。**
+**Occupation code: 4227 (ISCO08)**
 
-Collect public opinions and data on products, services, or social issues via phone, face-to-face, or online methods, providing essential survey data for market research, government statistics, and academic institutions.
+Collects public opinions and data on products, services, or social issues via phone, face-to-face, or online, providing basic survey materials for market research, government statistics, and academic institutions.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 无固定学制 | —（无强制性学历要求，通常提供在职培训） |
-| 职业教育（MBO） | 2-3年 | $2,000~$6,000（可选市场营销或商业管理相关课程，学费因学校而异） |
+| High school diploma or equivalent | There is no fixed academic system | $0~$0 (No mandatory educational requirements, on-the-job training usually provided) |
+| Vocational education (MBO) | 2-3 years | $2,000~$6,000 (Optional marketing or business management courses, tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | — | 可选 | 雇主通常提供内部培训，不要求特定认证 |
-| 威斯康星州调查员认证（非必要） | MRA | 可选 | 非荷兰要求，但可提升简历竞争力 |
+| No mandatory certificate | — | Optional | Employers usually provide in-house training; specific certifications are not required. |
+| Wisconsin Investigator Certification (optional) | MRA | Optional | Not a Dutch requirement, but can enhance resume competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 4,200。荷兰数据收集行业稳定，但受自动化调查（如在线问卷）冲击，传统访谈员需求略有下降。岗位多集中在市场研究公司及政府统计部门。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,200. The data collection industry in the Netherlands is stable, but traditional interviewer demand has slightly declined due to the impact of automated surveys (e.g., online questionnaires). Jobs are mostly concentrated in market research companies and government statistics departments.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 多为兼职或时薪，年薪按全职计算 |
-| 中级（3-7年） | $28,000~$36,000 | 包括项目主管或高级访谈员 |
-| 高级（7年以上） | $34,000~$42,000 | 如质量管理或团队经理岗位 |
+| Median salary | $61,058 | Median salary (Official: CBS employee median hourly wage €30.9/hour × 1976 hours annualized, BRC group 0321 Vertegenwoordigers en inkopers; P25–P75 €47,424–€80,226, CBS 2024). |
+| Entry level (0–3 years) | $20,000~$28,000 | Mostly part-time or hourly, with annual salary calculated on a full-time basis |
+| Mid-level (3–7 years) | $28,000~$36,000 | Including project supervisor or senior interviewer |
+| Senior (7+ years) | $34,000~$42,000 | Such as quality management or team manager positions |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从兼职访谈员起步，可晋升为项目主管或质量控制专员，部分转向数据分析或市场研究助理，但管理岗位有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Survey and market research interviewers face a high risk of automation; AI-driven chatbots, automated survey tools, and multilingual voice systems will handle most data collection tasks, leading to a significant reduction in entry-level positions.
+
+Usually start as a part-time interviewer, can advance to project supervisor or quality control specialist, some shift to data analysis or market research assistant roles, but management positions are limited.
+
+**Tasks most exposed to AI:**
+
+- Automated dialing and voice response for standardized telephone surveys
+- Automatic distribution and collection statistics of online surveys
+- Repetitive data entry and initial coding
+- Automated execution of simple satisfaction surveys
+- Machine translation and automatic adaptation of multilingual surveys
+
+**Where AI augments the role:**
+
+- AI-assisted screening of respondent samples to improve recruitment efficiency
+- Real-time speech transcription and sentiment analysis improve interview quality monitoring
+- Data visualization tools help quickly generate survey reports
+- AI Recommendation Engine Optimizes Question Branch Logic and Jumps
+- Natural language processing automatically extracts key themes from open-ended question answers
+
+**Human moat:**
+
+- Communication skills for handling resistant or uncooperative respondents
+- Ability to probe in complex open-ended in-depth interviews
+- On-site adaptation and flexible adjustment of cross-cultural sensitive topics
+- Maintain relationships within a long-term respondent pool
+- Handling of research ethics and privacy in project design
+
+**Skills to build:**
+
+- Python/R basic data analysis and automation script writing
+- Investigate platform API usage and automated survey configuration
+- Qualitative interview techniques and focus group facilitation
+- Data visualization tools (Tableau or Power BI)
+- Basic natural language processing concepts and tools (e.g. spaCy)
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Market Research
 - Data Collection
@@ -63,62 +99,64 @@ Collect public opinions and data on products, services, or social issues via pho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达到门槛的知识工作者，此职业通常不满足薪资要求；若雇主担保且薪资达标可申请 |
-| Subclass Orientation Year (Zo（Orientation Year） | 荷兰高校毕业或全球顶尖大学毕业生可申请一年求职签证，从事本职业需找到担保雇主 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to knowledge workers meeting the salary threshold; this occupation usually does not meet salary requirements; if employer-sponsored and salary threshold is met, can apply. |
+| Subclass Orientation Year (Zo (Orientation Year) | Graduates from Dutch universities or top global universities can apply for a one-year job search visa; to work in this occupation, they need to find a sponsoring employer. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Survey and Market Research Interviewers？**
-- 善于沟通、有耐心的人
-- 喜欢与人打交道、有倾听能力的人
-- 适应灵活工作时间和兼职工作的人
+**Who is suited**
+- Good communication and patience
+- People who enjoy interacting with others and have listening skills
+- People adaptable to flexible working hours and part-time work
 
-**谁不适合学Survey and Market Research Interviewers？**
-- 对重复性工作感到厌倦的人
-- 追求高薪和稳定职业发展路径的人
+**Who is not suited**
+- People who are tired of repetitive work
+- Those seeking high salaries and stable career development paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of survey interviewers in the Netherlands?**
+A: Entry-level interviewer salary about 20,000-28,000 Euros per year, senior positions up to 42,000 Euros, usually part-time or hourly.
+
+**Q: Can expatriates immigrate to the Netherlands through this occupation?**
+A: This occupation does not meet the salary threshold for skilled migration, making immigration unlikely unless an employer provides sponsorship with a salary that meets the requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Survey and Market Research Interviewers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for survey interviewers in the Netherlands?**
-答：Entry-level interviewers earn approximately €20,000-€28,000 annually, while senior roles can reach €42,000, often on a part-time or hourly basis.
-
-**问：Can foreigners immigrate to the Netherlands through this occupation?**
-答：This occupation does not meet the salary threshold for the Highly Skilled Migrant scheme; immigration is unlikely unless the employer sponsors and salary requirements are met.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

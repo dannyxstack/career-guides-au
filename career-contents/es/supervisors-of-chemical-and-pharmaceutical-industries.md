@@ -1,59 +1,95 @@
-# Supervisors of Chemical and Pharmaceutical Industries（Supervisors of Chemical and Pharmaceutical Industries）职业分析 · ES
+# Supervisors of Chemical and Pharmaceutical Industries — career analysis · Spain
 
-**职业代码：3204 – Supervisors of Chemical and Pharmaceutical Industries。**
+**Occupation code: 3204 (CNO)**
 
-Oversees daily operations in chemical and pharmaceutical production lines, coordinates teams, ensures safety and quality control, acting as a key link between operators and senior management.
+Responsible for overseeing the daily operations of chemical and pharmaceutical production lines, coordinating teams, and ensuring production safety and quality control, is a key role connecting operators with senior management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$1,500（公立学校学费低，私立约3000-6000欧元） |
-| 大学本科（Grado） | 4年 | $1,000~$3,000（化学工程、工业化学等专业，公立大学年学费约1000-2000欧元） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$1,500 (Public schools have low tuition fees, while private ones cost about 3,000-6,000 euros) |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Majors such as Chemical Engineering and Industrial Chemistry have annual tuition fees at public universities of about 1,000-2,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学或制药相关学位/文凭 | 西班牙教育部认可大学或FP中心 | 必备 | 通常要求化学、工业化学或制药相关背景 |
-| PRL（预防风险）培训 |  accredited training centers | 必备 | 西班牙法定安全培训，化工行业必备 |
-| 学历认证（Homologación） | 西班牙教育部（MEFP） | 必备 | 非欧盟学历需认证为同等学位，过程约6-12个月 |
+| Degree/diploma related to chemistry or pharmaceuticals | The Spanish Ministry of Education recognizes universities or FP centers | Required | Usually, a background in chemistry, industrial chemistry, or pharmaceutical-related fields is required |
+| PRL (Risk Prevention Training). |  accredited training centers | Required | Spanish statutory safety training, essential for the chemical industry |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education (MEFP) | Required | Non-EU qualifications must be recognized as equivalent degrees, with a process of about 6-12 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,500。西班牙化工制药业持续稳定，尤其是制药领域受老龄化推动需求增长。该职位属于经验型岗位，短期受自动化影响较小，中长期需适应绿色转型。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. Spain's chemical and pharmaceutical industries remain stable, especially in the pharmaceutical sector, driven by aging demand growth. This position is an experience-based position, with minimal short-term impact from automation, but requires adapting to green transformation in the medium to long term.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，通常含奖金 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，视企业规模和地区 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，主管或经理级别 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, usually including bonuses |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, depending on company size and region. |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary, supervisor or manager level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从操作技术员晋升至主管，再向生产经理或工厂厂长发展。部分人转向质量、安全或环境管理方向，或进入研发中试车间。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI impact on Oil, Gas, Chemical Processing & Utilities Supervisor roles is mixed: some routine monitoring and reporting tasks will be automated, but complex decision-making, emergency response, and people management still require humans. Job prospects depend on upskilling.
+
+Operators can be promoted from Operations Technician to Supervisor, and then to Production Manager or Factory Manager. Some have shifted toward quality, safety, or environmental management, or entered R&D pilot workshops.
+
+**Tasks most exposed to AI:**
+
+- Real-time process parameter monitoring and logging
+- Generate routine production reports and compliance documents.
+- Fixed rule-based anomaly alarm response
+- Inventory statistics and material demand calculation
+- Shift scheduling and attendance management
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of equipment failures, optimizing preventive maintenance plans
+- Optimizing process parameters through digital twins
+- Use data analysis to improve energy efficiency and reduce emissions
+- Assisting production scheduling decisions based on historical data
+- Enhanced training and skills development (VR/AR simulation)
+
+**Human moat:**
+
+- Emergency scene decision-making and command
+- Multi-department (production, safety, environment) coordination and communication
+- Experience-based diagnosis of complex faults.
+- Train and motivate frontline teams
+- Long-term decisions balancing cost, safety, and compliance
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/Power BI)
+- Process control and automation systems (DCS/SCADA)
+- Industrial Internet of Things (IIoT) fundamentals
+- Compliance and risk management (ESG-related)
+- Personnel management and change leadership
+- AI/ML in Predictive Maintenance
+
+**Key growth areas:**
 
 - Pharmaceutical manufacturing
 - Green chemistry
@@ -62,68 +98,67 @@ Oversees daily operations in chemical and pharmaceutical production lines, coord
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，年薪需达约33,908欧元（2023标准），合同至少1年。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对大学毕业生或高级技术人员，年薪门槛约40,000欧元，审批较快。 |
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 雇主担保工作居留，需证明职位无法在本地市场填补，适用于有经验的技术人员。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, with an annual salary of approximately 33,908 euros (2023 standard) and a minimum contract of one year. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Annual salary threshold around €40,000 for university graduates or senior technical staff, with faster approval. |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employer-sponsored work residency requires proof that the position cannot be filled in the local market, and is suitable for experienced technical personnel. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors of Chemical and Pharmaceutical Industries？**
-- 有化学或制药背景，希望担任管理职位的人
-- 注重生产安全和质量控制的技术人员
-- 愿意在工业环境中倒班工作的人
-
-**谁不适合学Supervisors of Chemical and Pharmaceutical Industries？**
-- 不喜欢监督他人和承担生产责任的人
-- 对化工环境有健康顾虑的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background in chemistry or pharmaceuticals who wish to take on management roles
+- Technical personnel who focus on production safety and quality control
+- People willing to work shifts in industrial environments
+
+**Who is not suited**
+- They dislike supervising others and taking on production responsibilities
+- People with health concerns about chemical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a chemical pharmaceutical supervisor?**
+A: Entry-level salaries are about 24,000-30,000 euros, intermediate salaries 30,000-40,000 euros, and seniors up to 55,000 euros (pre-tax annual salary).
+
+**Q: How can non-EU individuals immigrate to Spain to pursue this profession?**
+A: You can obtain the EU Blue Card (annual salary ≥ €33,908) or the Highly Skilled Professional Visa (annual salary ≥ €40,000), which requires academic credentials and employer sponsorship.
+
+**Q: What are the career prospects for this occupation?**
+A: Promotion can be to Production Manager, Factory Director, or shift to Quality, Safety, or Environmental Management; Automation upgrades will increase the technical requirements for supervisors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisors of Chemical and Pharmaceutical Industries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a supervisor in chemical and pharmaceutical industries?**
-答：Entry-level: €24,000-30,000, mid-level: €30,000-40,000, senior: up to €55,000 (gross annual salary).
-
-**问：How can non-EU nationals immigrate to Spain for this occupation?**
-答：Via EU Blue Card (salary ≥€33,908) or Highly Qualified Professional visa (salary ≥€40,000), requiring degree homologation and employer sponsorship.
-
-**问：What are the career prospects for this occupation?**
-答：Can advance to production manager, plant manager, or pivot to quality, safety, environmental management; automation will increase technical demands.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

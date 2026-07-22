@@ -1,60 +1,96 @@
-# Technical Engineers Not Elsewhere Classified（Technical Engineers Not Elsewhere Classified）职业分析 · ES
+# Technical Engineers Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2469 – Technical Engineers Not Elsewhere Classified。**
+**Occupation code: 2469 (CNO)**
 
-Covers technical engineers not elsewhere classified, typically focusing on specific engineering branches such as mechanical, electrical, electronic, or industrial engineering, involved in design, development, testing, and maintenance.
+Covers technical engineers not listed in other categories, usually focusing on specific engineering branches such as mechanical, electrical, electronic, or industrial engineering, engaged in design, development, testing, and maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学学费） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | —（公立FP学费较低） |
-| 硕士（Máster） | 1年（Máster） | $2,000~$8,000（公立大学硕士学费） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Public university tuition) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $0~$3,000 (Public FP tuition is relatively low) |
+| Máster | Year 1 (Máster) | $2,000~$8,000 (Master's tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士或技术工程学位 | 西班牙大学 | 必备 | 需为西班牙认可的高等教育机构颁发 |
-| 学历认证（Homologación） | 西班牙教育和职业培训部 | 必备 | 非欧盟学历需认证，过程耗时 |
-| 工程师协会注册（Colegio Profesional） | 相应工程师协会 | 可选 | 部分岗位要求注册，非强制但推荐 |
+| Bachelor of Engineering or a technical engineering degree | Spanish University | Required | It must be issued to a higher education institution recognized in Spain |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education and Vocational Training | Required | Non-EU degrees require certification, and the process is time-consuming |
+| Colegio Profesional (Registered Engineers) | Corresponding engineering associations | Optional | Some positions require registration; not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。西班牙工业与建筑业回暖推动技术工程师需求，尤其在可再生能源、自动化和基础设施领域。就业市场稳定，但需关注区域差异。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 75,000. The recovery of Spain's industrial and construction sectors is driving demand for technical engineers, especially in renewable energy, automation, and infrastructure. The job market is stable, but regional differences need to be considered.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪 |
-| 中级（4-7年） | $30,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $30,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径可从初级工程师晋升为高级工程师或项目经理，部分人转向技术顾问或自主创业。持续学习新技术（如工业4.0）有助于发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on 'other unclassified technical engineers' is mixed: routine design, testing, and documentation tasks face pressure to automate, but the demand for cross-disciplinary problem-solving, on-site decision-making, and complex system integration is rising, requiring proactive skill upgrades.
+
+Career paths can be promoted from junior engineers to senior engineers or project managers, with some turning to technical consultants or starting their own businesses. Continuous learning of new technologies (such as Industry 4.0) helps development.
+
+**Tasks most exposed to AI:**
+
+- Use CAD for standard parametric design
+- Write and run regular test cases
+- Organize and generate technical documentation
+- Basic data analysis and reporting
+- Simple fault diagnosis and repair guidance
+
+**Where AI augments the role:**
+
+- Optimize mechanical/electrical system design with AI simulation
+- Machine learning is used to predict equipment failures and develop maintenance plans
+- Document writing and retrieval using natural language processing-assisted technology
+- Automated quality inspection with AI vision
+- Optimizing production process parameters based on historical data
+
+**Human moat:**
+
+- Comprehensive assessment of complex interdisciplinary issues
+- Creative solutions for sudden on-site faults
+- High-level communication and negotiations with customers and suppliers
+- Non-standard decision-making in system integration
+- Engineering ethics and safety responsibility
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning basics
+- CAD/CAE and AI integration tools (such as generative design)
+- Industrial IoT and sensor data analysis
+- Project management and agile development methodologies
+- AI ethics and engineering safety standards
+- Cross-disciplinary communication and systems thinking
+
+**Key growth areas:**
 
 - Industry 4.0
 - Renewable Energy
@@ -63,69 +99,68 @@ Covers technical engineers not elsewhere classified, typically focusing on speci
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能技术工程师，需有工作合同和符合薪资门槛（约三倍最低工资） |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高级专业人才，流程简化，可携带家属 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 常规受雇工作许可，需公司担保，需满足国家就业局要求 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许毕业生在西班牙寻找工作的居留许可（有效期12个月） |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled technical engineers, requires a work contract and meets the salary threshold (about three times the minimum wage) |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For senior professionals, the process is simplified and family members can be brought along |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment work permit, requires company sponsorship and meeting National Employment Agency requirements. |
+| Subclass Busqueda empleo (Job Search Visa) | Residence permit allowing graduates to seek work in Spain (valid for 12 months) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Engineers Not Elsewhere Classified？**
-- 喜欢动手解决技术问题的人
-- 愿意不断学习新技术的人
-- 希望从事稳定工程职业的人
-
-**谁不适合学Technical Engineers Not Elsewhere Classified？**
-- 不喜欢团队协作和报告书写的人
-- 对工业环境或现场工作不感兴趣的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on technical problem solving
+- People who are willing to constantly learn new technologies
+- Those who aspire to pursue stable engineering careers
+
+**Who is not suited**
+- People who dislike teamwork and report writing
+- People who are not interested in industrial environments or fieldwork
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for technical engineers in Spain?**
+A: Entry-level salaries are about 22,000-30,000 euros per year, intermediate salaries 30,000-45,000 euros, and senior salaries 45,000-60,000 euros. Specifically, it depends on industry and region (Madrid and Barcelona are relatively high).
+
+**Q: What are the pathways for non-EU technical engineers to immigrate to Spain?**
+A: You can apply for the EU Blue Card (with a high-salary contract) or the Senior Professional Visa (Ley 14/2013), which requires academic certification (homologación). You can also enter through a work permit or a job search visa.
+
+**Q: Do technical engineers need to register with professional associations in Spain?**
+A: It is not mandatory, but some companies or public programs require registration with the relevant engineering association (such as COGITI), which can enhance professional recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Engineers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for technical engineers in Spain?**
-答：Entry-level salaries range from €22,000 to €30,000 annually, mid-level from €30,000 to €45,000, and senior from €45,000 to €60,000, varying by industry and region (Madrid, Barcelona higher).
-
-**问：What migration pathways exist for non-EU technical engineers to Spain?**
-答：Options include EU Blue Card (high salary requirement), Highly Qualified Professional visa (Ley 14/2013), work permit, or job search visa. Degree homologation is needed.
-
-**问：Is professional association registration required for technical engineers in Spain?**
-答：Not mandatory, but some companies or public projects require registration with relevant associations (e.g., COGITI). It enhances professional recognition.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

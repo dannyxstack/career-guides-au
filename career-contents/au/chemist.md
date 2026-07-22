@@ -1,59 +1,92 @@
-# Chemist（Chemist）职业分析 · 澳大利亚
+# Chemist — career analysis · Australia
 
-**职业代码：234211 – Chemist。**
+**Occupation code: 234211 (ANZSCO)**
 
-Chemists study the composition, structure, properties, and reactions of chemical substances, working in analysis, R&D, and quality control across pharmaceuticals, food, environmental monitoring, and more.
+Chemists study the composition, structure, properties, and changes of chemical substances, engaging in analysis, R&D, quality control, etc., widely used in pharmaceuticals, food, environmental monitoring, and other fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（化学科学学士） | 3年 | $30,000~$45,000（国际生学费，年均） |
-| 硕士（化学或相关专业） | 2年 | $35,000~$50,000（国际生学费，年均） |
+| Bachelor's degree (Bachelor of Chemical Science) | 3 years | $30,000~$45,000 (International student tuition fees, annual average) |
+| Master's degree (Chemistry or related field) | 2 years | $35,000~$50,000 (International student tuition fees, annual average) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学科学学士学位 | 澳洲大学 | 必备 | 受澳大利亚皇家化学学会（RACI）认证的课程 |
-| 化学学士（荣誉）或硕士 | 澳洲大学 | 可选 | 部分研究岗位或高级职位要求 |
-| 技能评估 | VetAssess | 必备 | 移民技术评估所需 |
+| Bachelor of Chemical Science | Australian universities | Required | Courses accredited by the Royal Australian Chemical Institute (RACI) |
+| Skills assessment | VetAssess | Required | Required for migration skills assessment |
+| Bachelor of Chemistry (Honours) or Master's | Australian universities | Optional | Required for some research positions or senior roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 19,800。澳洲化学家就业前景稳定，随着制药、生物技术和环境科学的发展，需求持续增长。预计2028年前就业增长约5%，且退休人员补充需求较大。
+**Job demand: high (★★★★☆).** National workforce approx. 19,800. Employment prospects for chemists in Australia are stable, with demand growing due to developments in pharmaceuticals, biotechnology, and environmental science. Employment growth is expected to be around 5% before 2028, with significant replacement demand from retirees.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 分析化学师或助理研究员 |
-| 中级（3-6年） | $72,000~$90,000 | 高级分析化学师或项目经理 |
-| 高级（6年以上） | $95,000~$130,000 | 首席科学家或实验室经理 |
+| Median salary | $114,088 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Analytical chemist or assistant researcher |
+| Mid-level (3–6 years) | $72,000~$90,000 | Senior analytical chemist or project manager |
+| Senior (6+ years) | $95,000~$130,000 | Chief Scientist or Laboratory Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级研究员/分析化学师可晋升至高级科学家、实验室经理或研发总监，也可转向技术销售、法规事务或学术研究。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+A chemist's work is a mixed bag: routine analysis and literature searches are easily automated by AI, but experimental design, new method development, and regulatory compliance still require human creativity and judgment.
+
+Junior researcher/analytical chemist can advance to senior scientist, lab manager, or R&D director, or transition to technical sales, regulatory affairs, or academic research.
+
+**Tasks most exposed to AI:**
+
+- Routine chemical analysis (e.g., sample testing, purity testing) is handled by automated analyzers and AI
+- Literature review and data management replaced by AI databases and natural language processing
+- Automated standard report generation (e.g., quality control reports)
+- Part of the synthesis route screening is automatically recommended by AI retrosynthesis software
+
+**Where AI augments the role:**
+
+- Complex spectrum analysis (e.g., NMR, mass spectrometry) aided by AI for rapid database matching
+- Experimental design uses AI simulation to predict reaction yield and conditions
+- Big data mining (e.g., drug structure-activity relationships) accelerated by machine learning
+- Automated generation of safety monitoring and compliance documents to reduce manual workload
+
+**Human moat:**
+
+- Creative experimental design (e.g., new catalyst development) requires human intuition
+- Interdisciplinary problem-solving (e.g., combining biology, materials science)
+- Regulatory approval and ethical decision-making (e.g. drug approvals)
+- Laboratory safety and emergency response (unforeseen chemical reactions)
+
+**Skills to build:**
+
+- AI/Machine Learning Fundamentals (for data modelling and prediction)
+- Operation and programming of automated experimental platforms (e.g., Python-controlled robots)
+- Advanced Statistics and Data Analysis (e.g., R, Python libraries)
+- Interdisciplinary knowledge (biochemistry, materials science)
+- Scientific software development (e.g., molecular simulation, AI-assisted design)
+- Intellectual Property and Regulatory Management (using AI tools)
+
+**Key growth areas:**
 
 - Pharmaceutical
 - Biotechnology
@@ -62,69 +95,68 @@ Chemists study the composition, structure, properties, and reactions of chemical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa (Subclass 189)） | 技术独立签证，需在MLTSSL上，通过技能评估，EOI打分 |
-| Subclass 190（Skilled Nominated Visa (Subclass 190)） | 州担保技术移民，需获得州提名，额外加分 |
-| Subclass 482（Skills in Demand Visa (Subclass 482)） | 雇主担保临时签证，需有雇主提名 |
-| Subclass 186（Employer Nomination Scheme (Subclass 186)） | 雇主担保永居签证，需雇主提名和职业评估 |
+| Subclass 189 (Skilled Independent Visa (Subclass 189)) | Skilled Independent visa; must be on MLTSSL, pass skills assessment, and score points via EOI |
+| Subclass 190 (Skilled Nominated Visa (Subclass 190)) | Skilled migration with state nomination requires state nomination and offers additional points. |
+| Subclass 482 (Skills in Demand Visa (Subclass 482)) | Employer-sponsored temporary visa, requires employer nomination |
+| Subclass 186 (Employer Nomination Scheme (Subclass 186)) | Employer-sponsored permanent residency visa requiring employer nomination and skills assessment |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemist？**
-- 喜欢实验室工作、注重细节和精准的人
-- 对化学分析和研发有浓厚兴趣的理科生
-- 希望从事制药、环保或材料科学领域的人
-
-**谁不适合学Chemist？**
-- 不喜欢重复性实验操作或长时间站立的人
-- 对化学安全风险敏感或不愿接触化学试剂的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for people who enjoy laboratory work, attention to detail, and precision
+- Science students with a strong interest in chemical analysis and R&D
+- Those who want to work in pharmaceuticals, environmental protection, or materials science.
+
+**Who is not suited**
+- People who dislike repetitive lab work or prolonged standing
+- Those sensitive to chemical safety risks or unwilling to handle chemical reagents
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemists?**
+A: Junior chemist: around AUD 55,000–70,000/year, mid-level: AUD 72,000–90,000, senior: up to AUD 95,000–130,000.
+
+**Q: Can chemists immigrate to Australia?**
+A: Yes. Chemist is on the MLTSSL, eligible for 189/190/482/186 visas, requires VetAssess skills assessment.
+
+**Q: What education is needed to become a chemist?**
+A: Typically requires a 3-year Bachelor of Chemical Science; some research roles require an Honours or Master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chemist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for chemists?**
-答：Entry-level chemists earn around AUD 55,000-70,000, mid-level AUD 72,000-90,000, and senior AUD 95,000-130,000 per year.
-
-**问：Can chemists migrate to Australia?**
-答：Yes. Chemists are on the MLTSSL, eligible for visas 189, 190, 482, and 186, requiring a skills assessment by VetAssess.
-
-**问：What education is needed to become a chemist?**
-答：A 3-year Bachelor of Chemical Science is typically required, with Honours or Master's for research roles.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

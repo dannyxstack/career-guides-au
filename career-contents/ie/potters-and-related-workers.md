@@ -1,60 +1,96 @@
-# Potters and Related Workers（Potters and Related Workers）职业分析 · IE
+# Potters and Related Workers — career analysis · Ireland
 
-**职业代码：7314 – Potters and Related Workers。**
+**Occupation code: 7314 (ISCO08)**
 
-Potters and related workers create pottery, porcelain, and ceramic art pieces by hand or machine, including throwing, trimming, glazing, and firing.
+Potters and related workers primarily produce pottery, porcelain, and artistic ceramic products by hand or machine, covering processes such as throwing, trimming, glazing, and firing.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 | 2年 | $2,000~$5,000（如Cork College of Further Education的陶瓷课程） |
-| 本科学位 | 3-4年 | $12,000~$20,000（如National College of Art and Design的陶瓷设计本科） |
+| Vocational education | 2 years | $2,000~$5,000 (Such as the ceramics course at Cork College of Further Education) |
+| Bachelor's degree | 3-4 years | $12,000~$20,000 (Ceramics Design Bachelor at National College of Art and Design, for example) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业证书（陶瓷） | QQI（Quality and Qualifications Ireland） | 可选 | 完成相关课程后可获得，非强制但利于就业 |
-| 学徒制证书 | SOLAS | 可选 | 少数陶瓷工作室提供学徒岗位，获得行业认可 |
+| Professional Certificate (Ceramics) | QQI（Quality and Qualifications Ireland） | Optional | Can be obtained after completing relevant courses, not mandatory but beneficial for employment |
+| Apprenticeship certificate | SOLAS | Optional | Few ceramic studios offer apprenticeship positions, industry-recognised |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 500。陶工在爱尔兰从业人数较少，但手工艺市场稳定增长。随着文化旅游和定制陶瓷需求增加，就业机会有限但稳定，竞争中等。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. The number of potters employed in Ireland is small, but the handicraft market is steadily growing. With increasing demand for cultural tourism and custom ceramics, job opportunities are limited but stable, with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 工作室助理或学徒水平 |
-| 中级（3-7年） | $28,000~$40,000 | 熟练陶工或工作室主管 |
-| 高级（7年以上） | $40,000~$55,000 | 独立艺术家或高级技师 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Studio assistant or apprentice level |
+| Mid-level (3–7 years) | $28,000~$40,000 | Skilled potter or studio manager |
+| Senior (7+ years) | $40,000~$55,000 | Independent artist or senior technician |
+| average salary | $35,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从学徒技工起步，晋升至工作室主管或独立陶瓷艺术家。部分人通过进修或展览经验转向高端艺术陶瓷领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pottery workers and related workers face automation compressing repetitive forming and glazing processes, but creative design and handmade customization are amplified by AI tools (e.g., 3D modeling, digital glaze recipes), leading to a polarized trend.
+
+Career development can start as an apprentice technician, advancing to studio supervisor or independent ceramic artist. Some transition to high-end art ceramics through further study or exhibition experience.
+
+**Tasks most exposed to AI:**
+
+- Repetitive wheel throwing and trimming (replaced by 3D printing and automatic wheel throwing machines)
+- Standard glaze formulation (replaced by AI recipe software and automated spraying)
+- Batch product firing monitoring (replaced by real-time smart kiln control)
+- Simple shaped pottery forming (replaced by CNC one-shot forming)
+- Hand engraving and decal application (replaced by laser engraving and digital printing)
+
+**Where AI augments the role:**
+
+- Creative design: Quickly explore form variations with AI generators to boost inspiration efficiency
+- Glaze formula development: using machine learning to analyze material data and discover new glaze colors and textures
+- Digital exhibit optimization: use virtual reality to preview display effects, reducing physical trial and error
+- Personalized customization: combining customer image input, AI automatically generates exclusive ceramic designs
+- Process recording and inheritance: using video analysis tools to deconstruct master techniques, assisting teaching
+
+**Human moat:**
+
+- Unique artistic style and original aesthetic judgment
+- Emotional value from hands-on experiences (e.g., workshop interaction)
+- Micro tactile feel and hand control of materials like clay and glaze
+- Non-standard manual shaping of complex irregular sculptures
+- Ability to design cultural symbols and narrative ceramic works
+
+**Skills to build:**
+
+- AI-assisted design software (e.g., Midjourney, Blender AI plugins).
+- Digital sculpting and 3D modeling (ZBrush, Rhino)
+- Data analysis fundamentals (for glaze formula optimization and quality control)
+- Online marketing and social commerce operations (promoting custom works)
+- Fundamentals of Ceramic Materials Science (pairing with AI formula tools)
+- Digital archives and process documentation creation (with AI-assisted teaching)
+
+**Key growth areas:**
 
 - craftsmanship
 - artisan market
@@ -63,65 +99,64 @@ Potters and related workers create pottery, porcelain, and ceramic art pieces by
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且年薪不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪不低于33,000欧元，且职位要求高等学历或5年经验。陶工通常不满足标准。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires employer sponsorship and annual salary of at least €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €33,000, and the position requires a higher education degree or 5 years of experience. Potters usually do not meet the criteria. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Potters and Related Workers？**
-- 喜欢手工创作和独立工作的人
-- 有耐心且注重细节的艺术家
-- 对传统工艺和现代设计双感兴趣的人
-
-**谁不适合学Potters and Related Workers？**
-- 追求高薪或快速晋升的人
-- 不愿承担销售和市场推广责任的纯技术人员
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on creative work and independent tasks
+- Patient and detail-oriented artist.
+- People interested in both traditional crafts and modern design
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- Pure technical staff unwilling to take on sales and marketing responsibilities
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a potter in Ireland?**
+A: Annual salary for junior potters: about €20,000-28,000; intermediate: €28,000-40,000; senior: €40,000-55,000. Independent artists have more variable income.
+
+**Q: Is it easy for potters to immigrate to Ireland via work visa?**
+A: Potter is not a shortage occupation, making immigration difficult. Usually requires employer sponsorship for a General Employment Permit, with an annual salary threshold of €30,000, which is high for small studios.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Potters and Related Workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for potters in Ireland?**
-答：Entry-level potters earn around €20,000-€28,000, mid-level €28,000-€40,000, and senior €40,000-€55,000. Independent artists have variable income.
-
-**问：Is it easy for potters to immigrate to Ireland via work visa?**
-答：Potters are not on the critical skills list, making migration challenging. A General Employment Permit requires employer sponsorship and a salary of at least €30,000, which is high for small studios.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

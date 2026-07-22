@@ -1,59 +1,94 @@
-# Precast Concrete Structural Assemblers（Precast Concrete Structural Assemblers）职业分析 · ES
+# Precast Concrete Structural Assemblers — career analysis · Spain
 
-**职业代码：7112 – Precast Concrete Structural Assemblers。**
+**Occupation code: 7112 (CNO)**
 
-Assemble and install precast concrete structural elements such as beams, columns, and panels on construction sites, using cranes and hand tools to ensure precise alignment and secure connections.
+Responsible for installing precast concrete beams, columns, slabs, and other structural components at construction sites, using lifting equipment and hand tools for positioning, connection, and fixing to ensure structural safety and precision.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立免费，仅注册费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约2000-4000欧元/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are free, only the registration fee is required) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$2,500 (Public schools are free, while private ones pay about 2000-4000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP中级或高级建筑相关学位 | 西班牙教育部认可的职业教育中心 | 可选 | 常见专业：Técnico en Construcción / Proyectos de Edificación |
-| 高空作业及安全认证 | 劳工部认可的培训机构 | 必备 | 需通过PRL预防风险基础培训及高空作业专项 |
-| 起重机操作证 | 自治区的劳工部门 | 可选 | 操作塔吊或移动吊车需持有相应资质 |
+| High-altitude work and safety certification | Training institutions recognized by the Department of Labor | Required | Requires PRL risk prevention basic training and specialized work at heights |
+| Intermediate or advanced architecture-related degree in FP | A vocational education center recognized by the Spanish Ministry of Education | Optional | Common specialties: Técnico en Construcción / Proyectos de Edificación |
+| Crane operator license | The labor department of the autonomous region | Optional | Operating tower cranes or mobile cranes requires the appropriate qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。西班牙建筑业复苏及工业化建造趋势推动预制构件需求增长，但岗位受经济周期和公共工程投资影响较大。预计未来五年平稳增长，老龄化工人退休将带来一定替换需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. The recovery of Spain's construction industry and the trend of industrialized construction are driving demand for prefabricated components, but jobs are heavily affected by economic cycles and public works investment. It is expected that steady growth will continue over the next five years, and the retirement of aging workers will bring a certain replacement demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒期或刚入职 |
-| 中级（3-8年） | $24,000~$32,000 | 能独立安装并熟悉多种构件 |
-| 高级（8年以上/组长） | $32,000~$40,000 | 管理团队或负责复杂项目 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprenticeships or those who have just started working |
+| Mid-level (3–8 years) | $24,000~$32,000 | Able to install independently and be familiar with various components |
+| Senior (8+ years / team leader) | $32,000~$40,000 | Managing teams or handling complex projects |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒/助手逐步晋升为安装组长或工长，积累经验后也可转向预制厂生产技术员、质量控制或小型承包商。部分人通过进修成为施工监理或项目经理。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
+
+You can gradually advance from apprentice/assistant to installation team leader or foreman, and after gaining experience, you can also transition to prefabrication plant production technician, quality control, or small contractor. Some have become construction supervisors or project managers through further education.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and optimization of complex part paths
+- Robotic automated welding for repetitive welds.
+- Automatic cutting and layout based on CAD models
+- Offline programming and monitoring of batch welding of standard parts
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection and X-ray image interpretation
+- Real-time welding parameter recommendations (current/speed/wire feed).
+- Digital twin simulation to predict deformation and stress
+- Collaborative robots perform welding in high-altitude or hazardous environments.
+- AI-driven cloud database query for welding parameters
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning for on-site welding of complex structures
+- Decision-making for abnormal conditions (irregular parts/material defects)
+- Communication and safety supervision in multi-trade collaboration
+- Tactile control for non-standard hand grinding and restoration
+- Comprehensive assessment of long-term fatigue life of welded structures
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (Fanuc/ABB)
+- Use of digital welding simulation software
+- AI image recognition assists weld inspection
+- Industrial IoT and sensor data analysis
+- Project management and quality systems (CWB).
+- Knowledge of environmentally friendly welding processes and materials
+
+**Key growth areas:**
 
 - prefabrication boom
 - infrastructure investment
@@ -62,67 +97,66 @@ Assemble and install precast concrete structural elements such as beams, columns
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees (Self-Employed Pathway)） | 由西班牙雇主担保的工作居留，需证明该职位无法在欧盟境内填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于大学以上学历或5年以上相关经验，薪资门槛约年薪34,000欧元。 |
+| Subclass Cuenta ajena (Work Permit for Employees (Self-Employed Pathway)) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to those with a university degree or 5+ years of relevant experience; salary threshold about €34,000 per year. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Precast Concrete Structural Assemblers？**
-- 喜欢户外和动手工作，身体强壮且不恐高
-- 希望进入建筑行业且不想长期做重体力零工
-- 愿意从学徒做起，接受安全严格培训
-
-**谁不适合学Precast Concrete Structural Assemblers？**
-- 无法适应高空作业或极端天气环境
-- 追求高薪且不愿从事体力劳动
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy outdoor activities and hands-on work, are physically strong and not afraid of heights
+- Those who want to enter the construction industry and do not want to do heavy manual labor for a long time
+- Willing to start as an apprentice and receive rigorous safety training
+
+**Who is not suited**
+- Unable to adapt to high-altitude work or extreme weather conditions
+- They pursue high wages and are unwilling to do manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for prefabricated component installers in Spain?**
+A: Junior: €18,000-24,000 per year; intermediate: €24,000-32,000; senior lead: €32,000-40,000; overtime and project bonuses extra.
+
+**Q: How can foreigners obtain a work visa for prefabricated component installers in Spain?**
+A: The most common route is employer-sponsored work residency (Cuenta ajena), which requires providing an employment contract and proving the vacancy. If you hold a degree or have extensive experience, you can apply for an EU Blue Card.
+
+**Q: What core skills are needed?**
+A: Understand construction drawings, use cranes and measuring tools, collaborate as a team, and follow safety regulations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Precast Concrete Structural Assemblers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for precast concrete assemblers in Spain?**
-答：Entry-level 18-24k EUR, mid-level 24-32k, senior/team leader 32-40k, plus overtime and project bonuses.
-
-**问：How can foreigners obtain a work visa for precast concrete assemblers in Spain?**
-答：The most common route is employer-sponsored work permit (Cuenta ajena), requiring a job contract and proof of vacancy. EU Blue Card is possible for those with a degree or extensive experience.
-
-**问：What core skills are needed?**
-答：Reading blueprints, operating cranes and measuring tools, teamwork, and strict safety compliance.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

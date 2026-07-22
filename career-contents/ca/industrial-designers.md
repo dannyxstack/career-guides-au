@@ -1,60 +1,96 @@
-# Industrial designers（Industrial designers）职业分析 · 加拿大
+# Industrial designers — career analysis · Canada
 
-**职业代码：22211 – Industrial designers。**
+**Occupation code: 22211 (NOC)**
 
-Industrial designers conceptualize and design the appearance, function, and user experience of manufactured products, consumer goods, and vehicles. This occupation is eligible for Express Entry and PNP immigration, with STEM background and credential assessment being crucial.
+Industrial designers design the appearance, function, and user experience of industrial products, consumer goods, and vehicles. This occupation can be immigrated through Express Entry or PNP; STEM background and experience certification are key.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大学本科（工业设计或相关专业） | 4年 | $20,000~$60,000（国际学生学费，因校而异） |
-| 学院文凭（工业设计技术） | 2-3年 | $12,000~$30,000（公立学院国际生学费） |
-| 硕士（设计学或相关） | 1-2年 | $25,000~$70,000（非必需，但有助于晋升） |
+| Bachelor's degree (industrial design or related field) | 4 years | $20,000~$60,000 (International student tuition varies by institution) |
+| College Diploma (Industrial Design Technology) | 2-3 years | $12,000~$30,000 (International student tuition at public colleges) |
+| Master's degree (design or related) | 1-2 years | $25,000~$70,000 (Not mandatory, but beneficial for promotion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES / IQAS / ICAS | 可选 | 移民所需，非从业强制 |
-| 语言能力证明（雅思/TEF） | IELTS / TEF Canada | 可选 | 移民和从业通常要求CLB7 |
-| 专业设计证书 | Association of Canadian Industrial Designers (ACID) | 可选 | 非强制但增强竞争力 |
+| Educational credential assessment (ECA) | WES / IQAS / ICAS | Optional | Required for immigration, not mandatory for practice |
+| Language proficiency test (IELTS/TEF) | IELTS / TEF Canada | Optional | Immigration and practice typically require CLB 7 |
+| Professional design certification | Association of Canadian Industrial Designers (ACID) | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。加拿大工业设计岗位集中在安大略、魁北克和不列颠哥伦比亚省的制造业、技术公司和设计咨询公司。受制造业自动化和外包影响，就业增长缓慢，但绿色技术、医疗设备和数字产品设计方向有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Industrial design jobs in Canada are concentrated in Ontario, Quebec and BC in manufacturing, tech firms and design consultancies. Employment growth is slow due to automation and offshoring, but demand exists in green tech, medical devices and digital product design.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中低等（★★☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$55,000 | 年薪CAD |
-| 中级（4-7年） | $55,000~$75,000 | 年薪CAD |
-| 高级（8年以上） | $75,000~$100,000 | 年薪CAD，设计经理可达11万 |
+| Median salary | $75,005 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $42,000~$55,000 | CAD per year |
+| Mid-level (4-7 years) | $55,000~$75,000 | CAD per year |
+| Senior (8+ years) | $75,000~$100,000 | Annual salary in CAD, up to CAD 110,000 for design manager. |
+| average salary | $79,040 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级设计师可晋升为高级设计师、设计经理或创意总监；也可转向用户体验设计、产品经理或创业。附加编程或工程技能可提升竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Industrial designers face a double-edged sword with AI: generative AI can quickly produce concept sketches and renderings, compressing entry-level design roles; however, AI also enhances user research and human-computer interaction design, requiring designers to upgrade to strategy and experience design.
+
+Junior designers can advance to senior designer, design manager, or creative director; they can also transition to UX design, product management, or entrepreneurship. Additional programming or engineering skills enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Concept sketches and renderings: AI can instantly generate multiple design options based on text descriptions
+- Basic 3D modeling and rendering: AI automatically generates models and renders realistic images
+- Design documents and specification writing: AI automatically generates technical documents based on design parameters
+- Draft consumer trend reports: AI scrapes data and generates trend summaries
+- Color scheme and material plan exploration: AI quickly generates and recommends schemes for selection.
+
+**Where AI augments the role:**
+
+- User needs analysis and pain point mining: AI assists insights by analyzing user behavior data
+- Human-computer interaction and experience design: AI simulates user interactions to test design prototypes
+- Design iteration and optimization: AI generates variants and evaluates performance parameters
+- Cross-departmental collaboration communication: AI real-time translation, meeting minutes generation
+- Sustainable design assessment: AI calculates material carbon footprint and lifecycle impact
+
+**Human moat:**
+
+- Deep empathy and understanding of user culture and context
+- Ability to creatively propose disruptive product concepts
+- Subtle grasp of aesthetic judgment and brand tone.
+- System thinking integrating multiple disciplines (engineering, marketing, psychology)
+- Communication skills to converse with clients and engineers and drive decisions
+
+**Skills to build:**
+
+- Master generative AI tools (e.g., Midjourney, Adobe Firefly) for rapid concept generation
+- Learn AI-assisted user research methods (e.g., behavioral data analysis, affective computing)
+- Strengthen human-computer interaction and prototyping skills (e.g., Figma, Sketch with AI plugins)
+- Enhance critical thinking and design strategy skills, shift from executor to decision-maker
+- Learn basic programming (Python) and AI model fine-tuning to create custom tools.
+- Develop skills in sustainable design and life cycle assessment
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Express Entry
@@ -63,68 +99,67 @@ Industrial designers conceptualize and design the appearance, function, and user
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 联邦技术移民，需至少一年NOC 0/A/B工作经验 |
-| Subclass PNP（Provincial Nominee Program） | 省提名，如安省、BC省有针对性抽签 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有雇主offer者 |
+| Subclass EE (Express Entry (FSW/CEC)) | Federal Skilled Worker Program, requiring at least one year of NOC 0/A/B work experience |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations, such as targeted draws in Ontario and BC |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for those with a job offer |
 
-**PR难度：中低等（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial designers？**
-- 具备创意和工程思维的本科毕业生
-- 有制造业或科技行业工作经验的设计师
-- 希望利用设计和技术技能在加拿大定居者
-
-**谁不适合学Industrial designers？**
-- 不喜欢与工程和市场团队协作的独立创作者
-- 不接受中等薪资起步且竞争激烈的求职者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bachelor graduates with creativity and engineering thinking.
+- Designers with experience in manufacturing or tech industries
+- Those hoping to settle in Canada using design and technical skills
+
+**Who is not suited**
+- Independent creators who dislike collaborating with engineering and marketing teams
+- Does not accept job seekers with low starting salaries and high competition
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an industrial designer in Canada?**
+A: Entry-level approx CAD $42,000-$55,000, mid-level $55,000-$75,000, senior $75,000-$100,000, design management roles can reach over $110,000. Salary varies by province and industry, with Ontario and BC higher.
+
+**Q: What are the main pathways for industrial designers to immigrate to Canada?**
+A: Mainly through Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP). Recommended to get ECA, achieve language score (CLB 7+), and accumulate 1+ year of relevant work experience. No employer offer needed for FSW.
+
+**Q: Do industrial designers need a license to work in Canada?**
+A: No mandatory license required, but joining professional associations like the Association of Canadian Industrial Designers (ACID) can enhance credibility; some employers may prefer it.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中低等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中低等（★★☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低等（★★☆☆☆） |
-
-Industrial designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for industrial designers in Canada?**
-答：Entry-level: CAD 42,000-55,000; Mid-level: CAD 55,000-75,000; Senior: CAD 75,000-100,000; design managers can earn over CAD 110,000. Salaries vary by province and industry, with Ontario and BC higher.
-
-**问：What are the main immigration pathways for industrial designers to Canada?**
-答：Mainly through Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP). It is recommended to obtain an ECA, achieve a language score of CLB7 or higher, and accumulate at least one year of relevant work experience. FSW does not require a job offer.
-
-**问：Do industrial designers need a license to practice in Canada?**
-答：No mandatory license, but membership in professional associations like ACID (Association of Canadian Industrial Designers) can enhance credibility and is preferred by some employers.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

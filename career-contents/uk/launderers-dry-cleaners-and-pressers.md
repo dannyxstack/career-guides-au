@@ -1,58 +1,91 @@
-# Launderers, dry cleaners and pressers（Launderers, dry cleaners and pressers）职业分析 · UK
+# Launderers, dry cleaners and pressers — career analysis · United Kingdom
 
-**职业代码：9224 – Launderers, dry cleaners and pressers。**
+**Occupation code: 9224 (SOC)**
 
-Supervise and undertake washing, dry cleaning, ironing and pressing of clothing, household linen, carpets and curtains. Typically work in laundrettes, hotels or hospitals.
+Responsible for washing, dry cleaning, ironing, and pressing clothing, household items, carpets, curtains, etc. Typically works in laundries, hotels, or hospitals.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无需正规学历 | 0年 | —（通常在职培训即可） |
+| No formal education required | 0 years | $0~$0 (Usually on-the-job training is sufficient) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 学习操作设备、化学品安全等 |
+| On-the-job training | Employer | Required | Learning to operate equipment, chemical safety, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。受自动化和外包影响，就业增长缓慢甚至下降。初级岗位需求稳定，但晋升机会有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Slow or declining employment growth due to automation and offshoring. Stable demand for entry-level positions but limited promotion opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$20,000 | 按最低工资计算 |
-| 中级（3-5年） | $20,000~$22,000 | 含经验加成 |
-| 高级（5年以上） | $22,000~$25,000 | 主管级 |
+| Median salary | $23,331 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$20,000 | Calculated based on minimum wage |
+| Mid-level (3–5 years) | $20,000~$22,000 | Includes experience bonuses. |
+| Senior (5+ years) | $22,000~$25,000 | Supervisor level |
+| average salary | $23,453 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可从洗衣助理晋升为洗衣主管或经理，但发展空间较小。部分人可转向纺织清洁或相关服务行业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+In laundry worker roles, routine washing and ironing tasks are easily replaced by automation, but AI-driven intelligent sorting, quality inspection, and personalized services will enhance efficiency, while human skills like customer communication and complex stain treatment remain defensible.
+
+Can advance from laundry assistant to laundry supervisor or manager, but with limited growth potential. Some may transition to textile cleaning or related service industries.
+
+**Tasks most exposed to AI:**
+
+- Clothing sorting: AI vision system automatically identifies fabric type, color, and stains, guiding machine sorting
+- Regular washing: Automatic washing machine completes cleaning according to preset programs, no manual operation required
+- Basic ironing: automatic ironing machines or robots handle standardized items such as shirts and bed sheets
+- Inventory tracking: RFID and AI systems automatically record the flow of garments in and out of storage
+
+**Where AI augments the role:**
+
+- Special stain treatment: AI provides recommended solutions, workers combine experience to remove stubborn stains
+- Quality inspection: AI vision assists workers in checking clothing defects after washing, improving consistency.
+- Personalized service: AI analyzes customer preferences to recommend tailored care plans (e.g., scent type, folding method)
+- Predictive maintenance of equipment: AI monitors machine status, provides early fault warnings, reducing downtime
+
+**Human moat:**
+
+- Complex communication: handling special client requests or complaints, requiring interpersonal understanding and negotiation
+- Fine manual work: hand-washing high-quality fabrics, repairing decorative details, and other precision operations
+- Cross-domain management: coordinating washing, storage, distribution, and other processes, requiring organizational skills.
+- Emergency response: handling machine malfunctions, chemical spills, and other unexpected incidents
+
+**Skills to build:**
+
+- AI Equipment Operation and Monitoring: Learn to use smart laundry systems and robot interfaces
+- Basic programming and data analysis: understanding algorithm principles to optimize washing parameters and processes
+- Advanced textile knowledge: mastering different fabric properties and care methods
+- Customer service and communication: enhance cross-cultural service skills, handle personalised needs
+- Fault diagnosis and maintenance: master common troubleshooting and preventive maintenance for AI equipment
+- Environmental and safety compliance: familiarity with energy-saving and emission reduction standards, as well as chemical management
+
+**Key growth areas:**
 
 - Automation
 - Declining demand
@@ -61,65 +94,67 @@ Supervise and undertake washing, dry cleaning, ironing and pressing of clothing,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 通常不符合要求，因该职业不属于技术工种。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证可从事任何工作，但此职业发展前景有限。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Usually does not meet requirements, as this occupation is not classified as a skilled trade. |
+| Subclass Graduate (Graduate visa) | Graduate visa allows any work, but career prospects for this occupation are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Launderers, dry cleaners and pressers？**
-- 寻求入门级工作且不要求高学历者
-- 临时工或兼职工作者
-- 注重工作稳定性而非收入者
+**Who is suited**
+- For those seeking entry-level jobs without requiring a high degree.
+- Casual or part-time workers
+- Those who prioritize job stability over income
 
-**谁不适合学Launderers, dry cleaners and pressers？**
-- 希望高薪或快速晋升者
-- 寻求技术移民英国者
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Those seeking skilled migration to the UK
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a laundry worker?**
+A: Entry-level annual salary about £18,000-20,000; supervisor level about £22,000-25,000.
+
+**Q: Can a laundry worker apply for a skilled worker visa?**
+A: Generally not, because the occupation is not on the skilled worker visa eligible occupations list.
+
+**Q: What career development opportunities are there for Laundry Workers?**
+A: Can advance to laundry supervisor or manager, or move to roles in textile cleaning, customer service, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Launderers, dry cleaners and pressers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for launderers?**
-答：Entry-level positions pay around £18,000-£20,000, while supervisors earn £22,000-£25,000.
-
-**问：Can launderers apply for a Skilled Worker visa?**
-答：Generally no, as the occupation is not on the list of eligible skilled occupations.
-
-**问：What career progression opportunities exist for launderers?**
-答：Possible progression to laundry supervisor or manager, or transfer to textile cleaning or customer service roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Registered nurse practitioners（Registered nurse practitioners）职业分析 · UK
+# Registered nurse practitioners — career analysis · United Kingdom
 
-**职业代码：2234 – Registered nurse practitioners。**
+**Occupation code: 2234 (SOC)**
 
-Registered nurse practitioners deliver direct patient care, including diagnosis, test ordering, treatment planning, and prescribing medications, serving as a cornerstone of the UK healthcare system.
+Registered nurses (practitioner level) provide independent nursing care on the clinical frontline, including diagnosis, ordering tests, developing treatment plans, and prescribing medications; they are a core force in the UK healthcare system.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 护理学士学位 | 3年 | $30,000~$50,000（英国学生学费约9250英镑/年，国际学生约15000-25000英镑/年） |
+| Bachelor of Nursing degree | 3 years | $30,000~$50,000 (UK student tuition fees are approximately £9,250 per year for domestic students and £15,000-25,000 for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理与助产委员会（NMC）注册 | Nursing and Midwifery Council (NMC) | 必备 | 所有注册护士必须持有NMC执业证书，需通过英语能力测试和注册考试。 |
-| 护理学士学位 | 大学 | 必备 | 需完成经NMC认证的护理学士课程。 |
-| 高级执业能力认证 | NMC或相关专业机构 | 可选 | 从事高级执业角色如处方权需额外认证。 |
+| Nursing and Midwifery Council (NMC) Registration | Nursing and Midwifery Council (NMC) | Required | All registered nurses must hold an NMC license, requiring English proficiency tests and registration exams. |
+| Bachelor of Nursing degree | University | Required | Must complete a nursing bachelor's degree accredited by the NMC. |
+| Advanced Practice Credential | NMC or relevant professional body | Optional | Additional certification is required to engage in advanced practice roles such as prescribing rights. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 350,000。英国 NHS 长期面临护士短缺，注册护士需求强劲，预计2030年前将新增数万个岗位，就业前景非常乐观。
+**Job demand: very high (★★★★½).** National workforce approx. 350,000. The UK NHS has long faced a shortage of nurses, with strong demand for registered nurses. Tens of thousands of new positions are expected by 2030, and the employment outlook is very optimistic.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | NHS Band 5起薪，伦敦地区有额外补贴。 |
-| 中级（3-7年） | $35,000~$43,000 | NHS Band 6-7，含专科或管理职责。 |
-| 高级（7年以上） | $44,000~$60,000 | NHS Band 7-8a，如高级执业护士或护理顾问。 |
+| Median salary | $46,069 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Starting salary at NHS Band 5, with additional allowance in London. |
+| Mid-level (3–7 years) | $35,000~$43,000 | NHS Band 6-7, includes specialist or managerial responsibilities. |
+| Senior (7+ years) | $44,000~$60,000 | NHS Band 7-8a, e.g., Advanced Nurse Practitioner or Nurse Consultant. |
+| average salary | $45,878 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级注册护士可晋升为高级执业护士、护理顾问或护理管理岗位，也可转向专科护理（如急诊、重症监护），或攻读博士学位从事学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Junior registered nurses can advance to senior practice nurses, nursing consultants, or nursing management roles, or specialize in areas like emergency or intensive care, or pursue a PhD for academic research.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - High Demand
 - NHS Shortage
@@ -63,69 +97,68 @@ Registered nurse practitioners deliver direct patient care, including diagnosis,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker Visa） | 专为医护人员设计的签证，享受优先处理和较低费用，需获得NHS或护理机构的工作offer。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于符合技能要求的注册护士，需达到薪资门槛（一般年薪26200英镑）。 |
-| Subclass Graduate（Graduate Visa） | 完成英国护理学位的国际学生可申请，允许毕业后留英工作两年（博士三年）。 |
+| Subclass Health & Care Worker (Health and Care Worker Visa) | A visa designed for medical professionals, offering priority processing and lower fees, requires a job offer from an NHS or nursing facility. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to registered nurses meeting skill requirements and a salary threshold (generally £26,200 per year). |
+| Subclass Graduate (Graduate Visa) | International students who complete a nursing degree in the UK can apply, allowing them to work in the UK for two years after graduation (three years for PhD). |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered nurse practitioners？**
-- 具有较强同理心和抗压能力的关怀型人才
-- 渴望稳定就业且愿意投身公共医疗事业的人
-- 对终身学习与专业成长有明确规划的人
-
-**谁不适合学Registered nurse practitioners？**
-- 无法承受轮班制和高强度工作压力的人
-- 对医疗操作和患者护理缺乏耐心的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Caring professionals with strong empathy and resilience under pressure
+- Those eager for stable employment and willing to pursue a career in public healthcare
+- Individuals with a clear plan for lifelong learning and professional growth.
+
+**Who is not suited**
+- People who cannot tolerate shift work and high-stress workloads
+- People lacking patience for medical procedures and patient care
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level for registered nurses in the UK?**
+A: Entry-level Registered Nurse (NHS Band 5) annual salary approx. £28,000-34,000, mid-level (Band 6-7) approx. £35,000-43,000, senior (Band 8a+) up to £44,000-60,000. London area has additional allowances.
+
+**Q: How can international nurses migrate to the UK?**
+A: Most commonly used is the Health and Care Worker visa, requiring a job offer from the NHS or a care provider and meeting English and registration requirements. The Skilled Worker visa (with slightly higher salary threshold) is also an option. The Graduate visa is available for international students who have graduated in the UK.
+
+**Q: Are registered nurses in shortage in the UK?**
+A: Yes, the UK has a long-term nursing shortage, and this occupation is on the shortage occupation list with simplified visa procedures. Demand is expected to remain strong for the next decade.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Registered nurse practitioners为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for registered nurses in the UK?**
-答：Entry-level registered nurses (NHS Band 5) earn around £28,000-£34,000, mid-level (Band 6-7) £35,000-£43,000, and senior (Band 8a+) £44,000-£60,000. London weighting applies.
-
-**问：How can international nurses immigrate to the UK?**
-答：The Health and Care Worker Visa is the most common route, requiring a job offer from the NHS or care provider, meeting English and registration requirements. The Skilled Worker Visa (higher salary threshold) is also an option. The Graduate Visa is available for international students graduating in the UK.
-
-**问：Are registered nurses in shortage in the UK?**
-答：Yes, the UK has a chronic shortage of nurses, and this occupation is on the Shortage Occupation List, benefiting from streamlined visa processing. Demand is expected to remain strong for the next decade.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

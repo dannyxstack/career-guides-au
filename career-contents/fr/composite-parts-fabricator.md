@@ -1,60 +1,96 @@
-# Composite Parts Fabricator（Composite Parts Fabricator）职业分析 · FR
+# Composite Parts Fabricator — career analysis · France
 
-**职业代码：H3203 – Composite Parts Fabricator。**
+**Occupation code: H3203 (ROME)**
 
-In France, this profession involves manufacturing parts from carbon fiber, fiberglass, and other composite materials for aerospace, automotive, and marine industries. Tasks include mold preparation, lay-up, curing, trimming, and quality control.
+In France, this profession mainly involves manufacturing composite parts such as carbon fiber and glass fiber, applied in aerospace, automotive, shipbuilding, and other industries. The work includes mold preparation, lamination, curing, finishing, and quality control.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 2年（CAP） | —（公立学校免费，学徒制有薪酬） |
-| 高中毕业+高级技术员文凭 | 2年（BTS） | —（公立学校免费，私立学校可能收费） |
-| 本科或同等学历 | 3年（licence professionnelle） | —（公立大学学费低，约200-300欧元/年） |
+| High school graduation + professional training | 2 years (CAP) | $0~$5,000 (Public schools are free, and apprenticeships are paid) |
+| High school graduate + senior technician diploma | 2 Years (BTS) | $0~$10,000 (Public schools charge free, while private schools may charge fees) |
+| Bachelor's degree or equivalent qualification | 3 years (licence professionnelle) | $0~$15,000 (Public university tuition is low, about 200-300 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 复合材料加工 | 法国教育部 | 可选 | 入门级职业文凭，涵盖基本技能 |
-| BTS 复合材料设计与工业化 | 法国教育部 | 可选 | 高级技术文凭，更受雇主青睐 |
-| 焊接或复合材料相关认证 | AFNOR或其他认证机构 | 可选 | 某些行业（如航空航天）要求特定认证 |
+| CAP composite material processing | French Ministry of Education | Optional | An entry-level vocational diploma covering essential skills |
+| BTS composite material design and industrialization | French Ministry of Education | Optional | Advanced technical diplomas are more favored by employers |
+| Certifications related to welding or composite materials | AFNOR or other certification bodies | Optional | Certain industries (such as aerospace) require specific certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国复合材料行业受益于航空航天和可再生能源（如风力叶片）的增长，就业前景稳定。但受经济周期影响，需关注行业波动。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France's composite materials industry benefits from growth in aerospace and renewable energy sectors such as wind turbine blades, with stable employment prospects. However, due to economic cycles, attention should be paid to industry fluctuations.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 税前年薪，包含奖金 |
-| 中级（3-7年） | $29,000~$35,000 | 税前年薪，取决于技能和行业 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，主管或专家级别 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$29,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $29,000~$35,000 | Pre-tax annual salary depends on skill and industry |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, supervisor or expert level |
+| average salary | $29,748 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径：从操作员晋升为生产主管、工艺工程师或质量经理。也可通过继续教育转向复合材料设计或研发岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Composite material parts manufacturers face high risks of automated substitution, especially repetitive tasks such as laying and finishing; At the same time, AI can enhance productivity in process optimization, quality inspection, and other areas, but skill upgrades are needed.
+
+Career path: Advance from operator to production supervisor, process engineer, or quality manager. You can also transition to composite design or R&D positions through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Hand-laying and cutting prepreg
+- Curing cycle monitoring and parameter adjustment
+- Trimming and surface grinding of parts
+- Visual inspection and recording of defects
+- Mold preparation and cleaning
+
+**Where AI augments the role:**
+
+- AI algorithms are used to optimize the laying sequence and fiber orientation
+- Prediction of curing process parameters based on historical data
+- AI-assisted visual inspection systems improve defect identification rates
+- Digital twins simulate machining processes to reduce trial and error
+- Robot programming and collaborative automation enhance repetitive tasks
+
+**Human moat:**
+
+- Design and manual fine-tuning of the lamination process for complex irregular parts
+- Research and testing of new composite material formulations
+- Equipment fault diagnosis and on-site emergency repair
+- Customer needs analysis and customized solution communication
+- Cross-disciplinary integration of systems thinking (mechanics, materials, processes).
+
+**Skills to build:**
+
+- Automated equipment operation and PLC programming
+- CAD/CAM software and composite material simulation (such as ESAComp)
+- Robotic arm programming and offline simulation
+- Data analysis and quality statistical control
+- AI tool applications (such as machine learning, predictive maintenance)
+- Knowledge of composite material recycling and sustainable processes
+
+**Key growth areas:**
 
 - Aerospace
 - Automotive lightweighting
@@ -63,68 +99,67 @@ In France, this profession involves manufacturing parts from carbon fiber, fiber
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee） | 受雇工作居留，适用于与法国公司签订长期合同的情况，需获得工作许可（Autorisation de travail）。 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适用于高级技术人才或高薪职位（年薪不低于约45,000欧元），有效期4年。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于年薪超过53,000欧元（2023年）的高技能职位，有效期至多4年。 |
+| Subclass Salarié (Employee) | Employed work residence permits, applicable to those signing long-term contracts with French companies, require obtaining a work permit (Autorisation de travail). |
+| Subclass Passeport Talent (Talent Passport) | Talent Passport, applicable to senior technical professionals or high-paying positions (annual salary not less than about 45,000 euros), valid for 4 years. |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to high-skilled positions with an annual salary exceeding 53,000 euros (2023), valid for up to 4 years. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Composite Parts Fabricator？**
-- 喜欢动手操作、对材料科学感兴趣的人
-- 愿意在工业环境中工作的人
-- 注重细节、有耐心完成重复性任务的人
-
-**谁不适合学Composite Parts Fabricator？**
-- 不喜欢体力劳动和化学材料气味的人
-- 追求极高薪资或轻松工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on activities and are interested in materials science
+- People willing to work in an industrial environment
+- People who pay attention to detail and patiently complete repetitive tasks
+
+**Who is not suited**
+- People who dislike physical labor and the smell of chemicals
+- People seeking extremely high salaries or easy jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for composite parts manufacturers?**
+A: Beginner is about 24,000-29,000 euros per year, intermediate 29,000-35,000 euros per year, and advanced 35,000-45,000 euros per year. Salaries are influenced by industry (aerospace is usually higher) and region.
+
+**Q: How can foreigners obtain a work visa for French composite parts manufacturers?**
+A: Salarié (employment) residence can be applied for, requiring the employer to provide a CDI contract; If the annual salary reaches about 45,000 euros, you can apply for Passeport Talent; If the annual salary exceeds 53,000 euros, you can apply for the EU Blue Card. This profession is in short supply in France, and obtaining a visa is relatively easy.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes. You can advance from operator to production supervisor, process engineer, or move into quality control or design departments. Continuing education (e.g., Licence Pro) helps with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Composite Parts Fabricator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for composite parts fabricators?**
-答：Entry-level: around €24,000-29,000/year, mid-level: €29,000-35,000/year, senior: €35,000-45,000/year. Salaries vary by industry (aerospace often higher) and region.
-
-**问：How can a foreigner obtain a work visa for composite parts fabricator in France?**
-答：Apply for a Salarié residence permit with a permanent contract; if salary reaches ~€45,000, apply for Passeport Talent; if over €53,000, apply for EU Blue Card. The profession is in shortage, facilitating visa approval.
-
-**问：Are there career advancement opportunities?**
-答：Yes. From operator to production supervisor, process engineer, or roles in quality control or design. Further education (e.g., Licence Pro) can facilitate advancement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

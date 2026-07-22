@@ -1,60 +1,94 @@
-# Technical Intervention in Research and Development（Technical Intervention in Research and Development）职业分析 · FR
+# Technical Intervention in Research and Development — career analysis · France
 
-**职业代码：H1210 – Technical Intervention in Research and Development。**
+**Occupation code: H1210 (ROME)**
 
-Responsible for experimental design, prototype testing, technical data collection and analysis within R&D teams, supporting product development from concept to implementation.
+Within the R&D team, responsible for experimental design, prototype testing, technical data collection and analysis, supporting the technical stages from concept to implementation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT（高中后2年） | 2年 | —（公立学校学费低，可申请学徒制（apprentissage）免学费并有薪资） |
-|  Licence professionnelle（本科） | 3年（含BTS后1年） | —（公立大学学费约170欧/年，私立学校较高） |
-| Master / Diplôme d'ingénieur（硕士/工程师） | 5年 | —（工程师学校学费约600-15000欧/年，公立大学低廉） |
+| BTS/Dut (2 years after high school) | 2 years | $0~$5,000 (Public schools have low tuition fees, and apprenticeships can be applied for with no tuition and salaries) |
+| Licence professionnelle (Undergraduate) | 3 years (including 1 year after BTS) | $0~$8,000 (Tuition at public universities is about 170 euros per year, while private schools are higher) |
+| Master / Diplôme d'ingénieur (Master's / Engineer) | 5 years | $0~$15,000 (Tuition at engineering schools is about 600-15,000 euros per year, and public universities are inexpensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS/DUT 相关专业 | 法国教育部 | 可选 | 基础准入文凭，涵盖实验技术、测量等技能 |
-| Licence pro / Master | 法国大学或工程师学校 | 可选 | 高级职位通常要求更高学历 |
-| Certification en sécurité (如CST) | INRS | 可选 | 实验室安全认证，非强制但受青睐 |
+| BTS/DUT-related majors | French Ministry of Education | Optional | Basic Admission Diploma, covering skills such as laboratory techniques and surveying |
+| Licence pro / Master | French universities or engineering schools | Optional | Senior positions usually require higher academic qualifications |
+| Certification en sécurité (e.g., CST) | INRS | Optional | Laboratory safety certification, not mandatory but favored |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国政府将研发创新列为国家战略重点，尤其在绿色能源、数字转型等领域投入持续增加，该职业需求稳步上升。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. The French government has made R&D and innovation a national strategic priority, with continuous increases in investment in areas such as green energy and digital transformation, with demand for this profession steadily rising.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，通常含13薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，项目管理职位更高 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, usually including 13 months |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, project management positions are higher |
+| average salary | $35,588 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术员晋升为研发项目经理或实验室主管，也可通过继续教育转向工程师岗位，积累经验后可进入管理层。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of R&D technical intervention specialists is mixed: AI can automate repetitive tasks such as data recording and basic analysis, but tasks requiring human judgment, such as experimental design and anomaly diagnosis, are actually being enhanced. Entry-level positions are more demanding due to the widespread adoption of automation tools, but the value of experienced experts stands out.
+
+You can be promoted from technician to R&D project manager or laboratory supervisor, or transition to engineer roles through continuing education, gaining experience before moving into management.
+
+**Tasks most exposed to AI:**
+
+- Automated experiment data entry and basic statistics
+- Standard prototype performance test reports are generated
+- Routine technical literature retrieval and abstraction
+- Sensor calibration and simple troubleshooting procedures
+
+**Where AI augments the role:**
+
+- AI simulation is used to optimize experimental design
+- AI-assisted multivariate data analysis and pattern recognition
+- Rapid fault localization based on AI anomaly detection
+- Automatically generate visual technical reports and dashboards
+- Digital twins guide prototype iterations
+
+**Human moat:**
+
+- Innovation capability of experimental schemes and design of non-standardized tests
+- Interdisciplinary technical problem diagnosis and comprehensive decision-making
+- R&D team communication and requirement transformation
+- Rapid learning and prototyping of emerging technologies
+
+**Skills to build:**
+
+- Python/R data processing and machine learning basics
+- AI-assisted experimental design tools (such as D-optimal design)
+- Data Visualization and Dashboard Setup (Tableau/Power BI)
+- Version control and collaboration platforms (Git, Jira)
+- Sensor fusion and digital twin foundations
+- Basic Statistics and Experimental Design Methods (DoE)
+
+**Key growth areas:**
 
 - R&D
 - innovation
@@ -63,68 +97,67 @@ Responsible for experimental design, prototype testing, technical data collectio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 面向高技能非欧盟公民，需年薪≥53,836.50欧（2024标准），适合中级以上职位 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，无严格薪资下限，需提供在法工作合同及项目证明 |
-| Subclass Salarié（Employee Work Permit） | 常规工作居留，需法国公司担保，薪资需符合行业标准 |
+| Subclass Carte bleue UE (EU Blue Card) | Aimed at highly skilled non-EU citizens, annual salary ≥ €53,836.50 (2024 standard), suitable for mid-level and above positions |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, there is no strict minimum salary; employment contracts and project proofs in France are required |
+| Subclass Salarié (Employee Work Permit) | Regular work residency requires a French company sponsorship, and salary must meet industry standards |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Intervention in Research and Development？**
-- 喜欢动手实验和技术操作的人
-- 对研发和创新有热情，愿意在实验室或现场工作
-- 希望获得稳定职业且受政府战略扶持的求职者
-
-**谁不适合学Technical Intervention in Research and Development？**
-- 不喜欢重复性实验或细致数据记录的人
-- 追求高压高薪且不愿长期技术积累的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on experiments and technical operations
+- Passionate about research and innovation, willing to work in the lab or on-site
+- Job seekers seeking stable employment supported by government strategies
+
+**Who is not suited**
+- People who dislike repetitive experiments or meticulous data recording
+- People who pursue high pressure and high salaries and are unwilling to accumulate skills over the long term
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for R&D Technical Intervention Specialists?**
+A: Entry-level approx €28,000-35,000/year, mid-level €35,000-45,000/year, senior up to €60,000/year.
+
+**Q: How can non-EU citizens immigrate to France through this employment?**
+A: Applications can be made through the EU Blue Card (requiring an annual salary ≥of €53,836.50) or the Passeport Talent Passport, which has no fixed salary minimum but requires a contract.
+
+**Q: What qualifications are needed for this occupation?**
+A: Minimum BTS/DUT (2 years), but Licence Pro or Engineering Diploma is more advantageous and can reduce costs through apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Technical Intervention in Research and Development的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Technical Intervention in R&D?**
-答：Entry-level around €28,000-35,000/year, mid-level €35,000-45,000/year, senior up to €60,000/year.
-
-**问：How can non-EU citizens immigrate through this occupation?**
-答：Via EU Blue Card (requires salary ≥€53,836.50) or Talent Passport (no strict salary floor but requires contract).
-
-**问：What education is needed for this occupation?**
-答：Minimum BTS/DUT (2 years), but Licence pro or engineering degree is advantageous; apprenticeship can reduce costs.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

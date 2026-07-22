@@ -1,60 +1,96 @@
-# Socio-economic Studies and Forecaster（Socio-economic Studies and Forecaster）职业分析 · FR
+# Socio-economic Studies and Forecaster — career analysis · France
 
-**职业代码：M1403 – Socio-economic Studies and Forecaster。**
+**Occupation code: M1403 (ROME)**
 
-Socio-economic studies and forecasters analyze economic data and social trends to support policy-making and corporate strategy.
+Socioeconomic researchers and forecasters are responsible for analyzing economic data and social trends to provide decision support for public policy or corporate strategy.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（Master） | $3,000~$12,000（公立大学学费约300-5000欧元/年，高商/私立则更高。） |
-| 博士 | 3年（Doctorat） | $3,000~$5,000（公立大学博士学费较低，每年约300-4000欧元。） |
+| Master's degree | 2 years (Master) | $3,000~$12,000 (Public university tuition is about 300-5000 euros per year, while higher commercial and private universities are even higher.) |
+| Doctorate | 3 years (Doctorat) | $3,000~$5,000 (Doctoral tuition at public universities is relatively low, about 300-4000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Master en économie ou sociologie | 大学 | 必备 | 经济或社会学硕士是基本门槛。 |
-| Doctorat | 大学 | 可选 | 研究岗位通常需要博士学历。 |
+| Master en économie ou sociologie | University | Required | A master's degree in economics or sociology is the basic threshold. |
+| Doctorat | University | Optional | Research positions usually require a doctoral degree. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。法国经济预测领域受数字化转型推动，但岗位集中于大型机构，竞争激烈。长期需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. The French economic forecasting sector is driven by digital transformation, but positions are concentrated in large institutions and highly competitive. Long-term demand remains stable.
 
-**竞争度：中等偏高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，公共部门起始稍低。 |
-| 中级（3-7年） | $42,000~$55,000 | 税前年薪，视机构与绩效。 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，含管理职责。 |
+| Median salary | $48,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | Pre-tax annual salary starts slightly lower in the public sector. |
+| Mid-level (3–7 years) | $42,000~$55,000 | Pre-tax annual salary depends on the institution and performance. |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salary, including management responsibilities. |
+| average salary | $59,838 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级研究员晋升至高级分析师或部门主管，也可转向咨询或学术研究。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of socioeconomic researchers and forecasters is mixed: routine data collection, statistical analysis, and report generation can be automated by AI, but policy recommendations, trend insights, and stakeholder communication still require human judgment.
+
+You can advance from junior researcher to senior analyst or department head, or transition to consulting or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automatically collect and clean economic and social data
+- Generate standard statistical analysis reports and charts
+- Run and validate preset economic models
+- Literature review and preliminary trend identification
+- Basic data visualization and presentation creation
+
+**Where AI augments the role:**
+
+- Machine learning is used to discover nonlinear relationships among complex social trends
+- Rapidly simulate the multi-scenario effects of policy interventions
+- Automate the drafting of reports to improve output efficiency
+- Analyze unstructured data such as public opinion and news in real time through NLP
+- Assists in building more accurate predictive models and reduces human bias
+
+**Human moat:**
+
+- Policy recommendations based on ethics and values
+- Consult with decision-makers and community stakeholders
+- Creatively interpreting contradictions or abnormal results
+- Cross-field (economic, social, political) comprehensive judgment
+- Critical thinking about model assumptions and limitations
+
+**Skills to build:**
+
+- Machine learning and causal inference in Python/R
+- Natural language processing and unstructured data analysis
+- Data visualization tools (Tableau, Power BI)
+- Policy analysis and communication writing
+- Explainable AI and model tuning
+- Social Network Analysis and Fundamentals of Geographic Information Systems
+
+**Key growth areas:**
 
 - Data Analysis
 - Economic Forecasting
@@ -63,63 +99,65 @@ Socio-economic studies and forecasters analyze economic data and social trends t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能研究人员或经济贡献者，需博士学历或高级职位。 |
-| Subclass Salarié（Salaried Employee） | 需雇主提供工作合同，且通过劳动力市场测试。 |
-| Subclass Recherche emploi（Job Seeker） | 毕业生工作许可，允许在法寻找工作。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled researchers or economic contributors, requiring a doctoral degree or senior position. |
+| Subclass Salarié (Salaried Employee) | The employer must provide a work contract and pass the labor market test. |
+| Subclass Recherche emploi (Job Seeker) | Graduate work permit, allows searching for work in France. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Socio-economic Studies and Forecaster？**
-- 对宏观经济和社会政策有浓厚兴趣者
-- 具备量化分析能力和逻辑思维者
-- 追求稳定职业、偏好研究环境者
+**Who is suited**
+- Those with a strong interest in macroeconomics and social policy
+- Possess quantitative analysis skills and logical thinking
+- Those seeking stable careers and those who prefer research environments
 
-**谁不适合学Socio-economic Studies and Forecaster？**
-- 希望快速获得高薪者
-- 不喜欢大量数据处理和报告撰写者
+**Who is not suited**
+- Those seeking quick high income
+- Dislikes large amounts of data processing and report writers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for socioeconomic researchers and forecasters?**
+A: Annual pre-tax salary for this position in France ranges from approximately EUR 32,000 to 75,000, depending on experience and institution.
+
+**Q: Can foreigners immigrate to France through this employment?**
+A: Applying for a work visa for this occupation requires passing a labor market test and is not a shortage occupation, with limited immigration pathways. Highly educated individuals can try Passeport Talent.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等偏高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Socio-economic Studies and Forecaster属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for socio-economic studies and forecasters?**
-答：In France, the gross annual salary ranges from €32,000 to €75,000 depending on experience and organization.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：Work visa requires labor market test, and it is not a shortage occupation. Highly qualified candidates may try Talent Passport.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

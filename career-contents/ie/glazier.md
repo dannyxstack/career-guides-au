@@ -1,59 +1,92 @@
-# Glazier（Glazier）职业分析 · IE
+# Glazier — career analysis · Ireland
 
-**职业代码：7125 – Glazier。**
+**Occupation code: 7125 (ISCO08)**
 
-Glaziers install, replace, and repair glass in buildings, including windows, doors, curtain walls, and decorative glass. Tasks involve measuring, cutting, fitting, and sealing glass, often on construction sites or for maintenance.
+Glaziers install, replace, and repair glass in buildings, including windows, doors, curtain walls, and decorative glass. Work involves measuring, cutting, assembling, and sealing glass, often on construction sites or maintenance locations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级证书/学徒制 | 3-4年 | —（爱尔兰SOLAS资助的学徒制，培训费较低） |
-| 高等院校课程 | 1年 | $3,000~$8,000（如玻璃工职业证书课程） |
+| Advanced Certificate/Apprenticeship | 3-4 years | $0~$5,000 (Irish SOLAS-funded apprenticeship with lower training fees) |
+| Higher education courses | 1 year | $3,000~$8,000 (Such as glass worker certificate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃工职业证书 | SOLAS | 必备 | 通常通过 apprenticeship 获得 |
-| 玻璃工高级证书 | QQI | 可选 | 提升技能和就业机会 |
-| 健康与安全证书 | FAS/SOLAS | 必备 | 基本安全培训 |
+| Certificate in Glasswork | SOLAS | Required | Typically obtained through an apprenticeship |
+| Health and safety certificate | FAS/SOLAS | Required | Basic safety training |
+| Advanced Certificate in Glasswork | QQI | Optional | Skill improvement and job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。爱尔兰建筑业持续增长，特别是住宅和商业楼宇项目，对玻璃工需求稳定。绿色建筑和节能玻璃安装趋势进一步推动就业。预计未来十年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. Ireland's construction industry continues to grow, especially in residential and commercial building projects, with steady demand for glaziers. Trends in green building and energy-efficient glass installation further drive employment. Good job prospects expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级玻璃工可通过学徒制积累经验，晋升为高级技工或主管。部分转向专业领域如幕墙系统或装饰玻璃。也有机会自主创业，承接小型项目。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
+
+Entry-level glaziers can gain experience through apprenticeships and advance to senior technicians or supervisors. Some transition to specialized fields such as curtain wall systems or decorative glass. There are also opportunities to start their own businesses, taking on small projects.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Construction Boom
 - Energy-efficient Glazing
@@ -62,68 +95,67 @@ Glaziers install, replace, and repair glass in buildings, including windows, doo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺技能岗位，需雇主担保，年薪门槛约€30,000 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于短缺技能职业，年薪门槛约€33,000，直通欧盟居留 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如被认定为短缺职业，可申请，年薪门槛€32,000，家属可随行 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-critical skill positions, requires employer sponsorship, annual salary threshold approximately €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to shortage skill occupations, annual salary threshold approximately €33,000, direct path to EU residency |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If recognized as a shortage occupation, you can apply with an annual salary threshold of €32,000; family members can accompany you. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glazier？**
-- 注重细节和精度的手工操作者
-- 能适应户外高空作业者
-- 愿意通过学徒制积累经验者
-
-**谁不适合学Glazier？**
-- 恐惧高空或不喜体力劳动
-- 缺乏耐心和细致态度
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Manual operator with focus on detail and precision
+- Able to adapt to outdoor high-altitude work
+- Individuals willing to gain experience through apprenticeships
+
+**Who is not suited**
+- Fear of heights or aversion to physical labor
+- Lack of patience and attention to detail
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a glass worker in Ireland?**
+A: Entry-level approx €25k-32k, mid-level €32k-42k, senior €42k-55k, higher for experienced or specialized roles.
+
+**Q: How can I immigrate to Ireland as a foreign glass worker?**
+A: Must obtain a job offer; apply for General Employment Permit or Critical Skills Permit (if on shortage list). EU citizens can move freely.
+
+**Q: What certifications are needed to work as a glazier in Ireland?**
+A: Typically requires a SOLAS-accredited apprenticeship or vocational training, and obtaining a health and safety certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Glazier的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glaziers in Ireland?**
-答：Entry-level earns around €25k-32k, mid-level €32k-42k, senior €42k-55k, with potential for higher pay in specialized fields.
-
-**问：How can I migrate to Ireland as a foreign glazier?**
-答：Obtain a job offer and apply for a General Employment Permit or Critical Skills Permit (if on shortage list). EU citizens have free movement.
-
-**问：What certifications are needed to work as a glazier in Ireland?**
-答：Typically requires a SOLAS-approved apprenticeship or vocational training, plus a health and safety certificate.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

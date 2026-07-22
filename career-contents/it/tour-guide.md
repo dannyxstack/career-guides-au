@@ -1,61 +1,97 @@
-# Tour Guide（Tour Guide）职业分析 · IT
+# Tour Guide — career analysis · Italy
 
-**职业代码：5113 – Tour Guide。**
+**Occupation code: 5113 (ISCO08)**
 
-Tour guides lead visitors through attractions, providing historical and cultural commentary to ensure an enjoyable travel experience.
+Tour guides are responsible for leading tourists to visit attractions, providing explanations of history, culture, and other information to ensure an enjoyable travel experience.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 3年 | —（公立学校免费） |
-| 职业培训课程 | 1-2年 | $2,000~$5,000（私立培训机构费用） |
+| High school graduation | 3 years | $0~$0 (Free public schools.) |
+| Vocational training courses | 1-2 years | $2,000~$5,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 导游资格证 | 意大利旅游部 | 必备 | 通过国家考试获得，需参加培训 |
-| 地区导游证 | 大区旅游局 | 必备 | 特定地区执业所需 |
-| 急救证书 | 红十字会 | 可选 | 部分雇主要求 |
+| Tour guide qualification certificate | Italian Ministry of Tourism | Required | Obtained through national examination, requires training participation |
+| Regional tour guide license | Regional Tourism Board | Required | Required for practice in specific regions |
+| First aid certificate | Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利旅游业复苏强劲，预计2025年入境游客将恢复到疫情前水平，导游需求稳定增长，尤其是多语种导游和特色主题导游。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Italy's tourism recovery is strong, with inbound visitors expected to return to pre-pandemic levels by 2025, driving steady demand for guides, especially multilingual and themed tour guides.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$50,000 | 税前年薪，含小费 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$50,000 | Annual pre-tax salary, including tips |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级导游可发展为资深导游、团队主管或旅游产品策划，也可向旅游管理或市场营销方向晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Entry-level tour guide jobs are being reduced by automation; AI voice guides, virtual reality, and online self-service have replaced most simple explanations and itinerary planning. Survival mainly depends on irreplaceable human interaction and personalized services.
+
+Junior tour guides can develop into senior guides, team leaders, or tourism product planners; also can advance into tourism management or marketing.
+
+**Tasks most exposed to AI:**
+
+- Standardized audio explanations and broadcasts of historical culture at attractions
+- Itinerary-based queries and route planning (e.g., maps, transportation, opening hours).
+- Repetitive ticket booking and entry confirmation.
+- Responses to general inquiries (e.g., restroom, restaurant location)
+- Itinerary generation and distribution.
+
+**Where AI augments the role:**
+
+- Create personalized tour scripts and multimedia content (e.g., videos, AR overlays) using AI
+- Use AI to analyze tourist preferences, dynamically adjust tour routes and commentary focus
+- Communicating fluently with tourists from multiple countries using real-time translation tools
+- Use AI tools to quickly collect and share the latest cultural, ecological, or historical information about attractions
+- Build personal brand and attract customers through social media and AI content generation tools
+
+**Human moat:**
+
+- Live improvisational interaction, emotional resonance, and humor
+- Ability to handle emergencies (e.g., lost persons, weather changes, tourist emotions)
+- Deep local cultural insight and personal narrative ability
+- Building trust and emotional connection with tourists (especially high-end custom tours)
+- Face-to-face service etiquette and body language communication
+
+**Skills to build:**
+
+- Deep cultural interpretation and storytelling ability
+- Multilingual communication and use of AI-assisted translation tools
+- Content Creation & Video Editing (Building Personal Brand)
+- AI-based analysis tools (e.g., visitor data analysis, experience optimization)
+- Emergency response and safety first aid certification
+- Social media operations and online traffic generation skills
+
+**Key growth areas:**
 
 - Multilingual Guides
 - Sustainable Tourism
@@ -64,62 +100,64 @@ Tour guides lead visitors through attractions, providing historical and cultural
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能人才，需大学学历和高薪，导游通常不符合学历要求 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 年度配额的工作签证，对非欧盟公民开放，但导游配额极少 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled talents requiring a university degree and high salary; tour guides typically do not meet the education requirement. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota work visa, open to non-EU citizens, but guide quota is very small |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tour Guide？**
-- 喜欢与人交流，善于讲解
-- 对历史、文化有浓厚兴趣
-- 能灵活应对突发状况
+**Who is suited**
+- Enjoys interacting with people, good at explaining
+- Strong interest in history and culture
+- Able to flexibly handle unexpected situations
 
-**谁不适合学Tour Guide？**
-- 不喜欢在户外长时间工作
-- 不擅长多语言沟通
+**Who is not suited**
+- Dislikes working outdoors for extended periods
+- Not good at multilingual communication
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the tip income for tour guides substantial?**
+A: In Italy, tips are an important part of a guide's income, with peak season tips reaching 30-50% of basic salary.
+
+**Q: Can non-EU citizens become tour guides in Italy?**
+A: Yes, but a work visa is required, and tourist guide quotas under the Decreto Flussi are very limited, making it difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Tour Guide属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Are tips significant for tour guides?**
-答：In Italy, tips are an important part of a tour guide's income, reaching 30-50% of base salary during peak season.
-
-**问：Can non-EU citizens become tour guides in Italy?**
-答：Yes, but they need a work visa. The quota for tour guides under Decreto Flussi is very small, making it difficult.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

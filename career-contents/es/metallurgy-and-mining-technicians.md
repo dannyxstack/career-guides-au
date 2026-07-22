@@ -1,59 +1,94 @@
-# Metallurgy and Mining Technicians（Metallurgy and Mining Technicians）职业分析 · ES
+# Metallurgy and Mining Technicians — career analysis · Spain
 
-**职业代码：3128 – Metallurgy and Mining Technicians。**
+**Occupation code: 3128 (CNO)**
 
-Metallurgy and mining technicians supervise and optimize metal production and mineral extraction processes, ensure equipment operation, and perform quality control and safety compliance. They typically work in mines, smelters, or metal processing plants.
+Metallurgical and mining technicians are responsible for supervising and optimizing metal production and mining processes, ensuring equipment operates normally and implementing quality control and safety regulations. They usually work in mines, smelters, or metal processing plants.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业培训（FP Grado Superior） | 2年 | $500~$6,000（公立学校约500-2000欧元/年，私立学校可达6000欧元/年） |
-| 大学本科（Grado en Ingeniería de Minas o Metalurgia） | 4年 | $1,000~$12,000（公立大学约1000-3000欧元/年，私立大学可达12000欧元/年） |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $500~$6,000 (Public schools: about €500-2,000/year; private schools: up to €6,000/year) |
+| Undergraduate Degree (Grado en Ingeniería de Minas o Metalurgia) | 4 years | $1,000~$12,000 (Public university approximately EUR 1,000-3,000/year, private universities up to EUR 12,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矿业技术员职业资格证书 | 西班牙就业与社会保障部 | 可选 | FP相关专业毕业即获得，非强制但有利于求职 |
-| 安全与健康培训证书 | 西班牙劳动监察局认可的培训机构 | 必备 | 矿山和冶金行业强制要求的基本安全培训 |
-| 大学学位（如需晋升工程师） | 西班牙大学 | 可选 | 工程师岗位要求Grado或Máster，并可能需官方认证（homologación） |
+| Safety and health training certificate | A training institution recognized by the Spanish Labor Inspectorate | Required | Basic safety training is mandatory in the mining and metallurgical industries |
+| Mining Technician Professional Qualification Certificate | Spanish Ministry of Employment and Social Security | Optional | FP-related majors are obtained upon graduation; they are not mandatory but beneficial for job hunting |
+| University degree (if promoted to engineer) | Spanish University | Optional | Engineer positions require Grado or Máster, and may require official certification (homologación) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。西班牙矿业规模有限，但冶金和回收行业仍有稳定需求。得益于绿色转型对关键原材料的需求，该职业在特定区域（如阿斯图里亚斯、巴斯克地区）有中等就业机会。自动化可能减少低端岗位，但技术岗位保持稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Spain's mining sector is limited in scale, but the metallurgy and recycling sectors still have stable demand. Thanks to the demand for key raw materials from the green transition, this profession offers moderate employment opportunities in certain regions (such as Asturias and the Basque Country). Automation may reduce low-end jobs, but technical positions remain stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，多为现场操作或辅助岗位 |
-| 中级（4-7年） | $28,000~$36,000 | 独立负责生产或质量监控 |
-| 高级（8年以上） | $36,000~$48,000 | 主管或经理级别，含奖金 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary mostly for on-site operations or auxiliary positions |
+| Mid-level (4-7 years) | $28,000~$36,000 | Independently responsible for production or quality monitoring |
+| Senior (8+ years) | $36,000~$48,000 | Supervisor or manager level, including bonuses |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从现场操作员或初级技术员起步，积累经验后可晋升为高级技术员、生产主管或质量控制经理。进一步学习工程学位可转向工程师岗位。部分人进入咨询或设备销售领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of metallurgical and materials engineers is mixed in terms of automation: some tasks like data analysis and material screening are enhanced by AI, but experiments, field operations, and high-risk decisions still require human experience, with an overall manageable impact.
+
+Typically, you start as a field operator or junior technician, and after gaining experience, you can be promoted to senior technician, production supervisor, or quality control manager. Further studies in engineering can lead to engineering positions. Some enter consulting or equipment sales fields.
+
+**Tasks most exposed to AI:**
+
+- Collation and preliminary analysis of material performance data (e.g., regression modeling, chart generation)
+- Calculation and simulation of standard alloy composition
+- Automatic generation of routine lab reports and test documents
+- Screen candidate material ratios based on historical data.
+
+**Where AI augments the role:**
+
+- Using AI to accelerate microstructure image recognition and defect detection in materials
+- Predict the properties of new alloys through machine learning, shortening the R&D cycle.
+- Optimise process parameters for smelting, heat treatment, etc. using digital twins
+- AI-Assisted Design of Composite Laminate Structures to Improve Design Efficiency
+- Automatically parses literature to extract relationships between material properties and processes.
+
+**Human moat:**
+
+- On-site process fault diagnosis and decision-making under abnormal conditions
+- Engineering judgment in material selection communication with clients and regulators
+- Creative experimental design for new materials and processes
+- Interdisciplinary problem-solving ability for non-standard, multi-variable coupling issues
+- Safety and environmental compliance responsibilities: signing, auditing, risk assessment
+
+**Skills to build:**
+
+- Python data analysis and machine learning (e.g., scikit-learn, TensorFlow)
+- Materials informatics and database management (e.g., MatWeb, CIT)
+- Digital twins and finite element simulation (e.g., ANSYS, COMSOL).
+- Industrial automation control fundamentals (understanding of PLC, SCADA systems)
+- Ethics and reliability assessment of AI tools in R&D
+- Project management and cross-department collaboration (Agile, Scrum).
+
+**Key growth areas:**
 
 - Green metals
 - Automation
@@ -62,65 +97,67 @@ Metallurgy and mining technicians supervise and optimize metal production and mi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employee)） | 由西班牙公司提供工作合同，需证明职位无法由本地人填补，适合有经验的技术员。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能技术员（本科以上学历），薪资门槛较高（约年薪33,600欧元），但流程较快。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高学历或高收入人员，简化手续，适合有工程师背景的申请人。 |
+| Subclass Cuenta ajena (Work Contract (Employee)) | A job contract provided by a Spanish company must prove that the position cannot be filled by a local resident, suitable for experienced technicians. |
+| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled technicians (bachelor's degree or above), with a relatively high salary threshold (about €33,600 per year), but the process is relatively fast. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly educated or high-income individuals, the procedures are simplified, making it suitable for applicants with engineering backgrounds. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metallurgy and Mining Technicians？**
-- 喜欢动手操作和技术工作的人
-- 对采矿或金属加工行业有热情
-- 愿意在偏远或工业区工作
-
-**谁不适合学Metallurgy and Mining Technicians？**
-- 偏好室内办公室工作的人
-- 对体力劳动或危险环境敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and technical work
+- Passionate about mining or metalworking industries
+- Willing to work in remote or industrial areas
+
+**Who is not suited**
+- Those who prefer indoor office work
+- People sensitive to physical labor or dangerous environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for metallurgical and mining technicians?**
+A: Junior positions earn about 22,000-28,000 euros annually, intermediate salaries 28,000-36,000 euros, and senior managers up to 48,000 euros. Salaries are greatly influenced by region and company size.
+
+**Q: How can foreigners become metallurgical and mining technicians in Spain?**
+A: You must obtain a work contract from a Spanish company (Cuenta ajena) or an EU Blue Card. Technician positions usually require an FP or a bachelor's degree, and may also require academic qualification (homologación). This occupation is not on the Shortage List; the visa requires proof that the position is difficult to fill locally.
+
+**Q: Does this career have growth prospects?**
+A: There is stable demand, but limited by the scale of Spanish mining. Green transition and circular economy may bring new opportunities, but overall growth is slow. Promotion to management or transitioning to engineer is a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Metallurgy and Mining Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metallurgy and mining technicians?**
-答：Entry-level annual salary is about €22,000-28,000, mid-level €28,000-36,000, and senior supervisors can reach €48,000. Salaries vary by region and company size.
-
-**问：How can foreigners become metallurgy and mining technicians in Spain?**
-答：You need a work contract from a Spanish company (Cuenta ajena) or an EU Blue Card. Technician roles typically require FP or a bachelor's degree, and may need homologación. The occupation is not on the shortage list, so the visa requires proof that the position cannot be filled locally.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

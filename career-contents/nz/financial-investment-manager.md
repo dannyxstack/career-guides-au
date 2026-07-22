@@ -1,61 +1,97 @@
-# Financial Investment Manager（Financial Investment Manager）职业分析 · 新西兰
+# Financial Investment Manager — career analysis · New Zealand
 
-**职业代码：222312 – Financial Investment Manager。**
+**Occupation code: 222312 (ANZSCO)**
 
-Financial Investment Managers share ANZSCO code 139912 with Australia. Some roles are on Green List Tier 1, allowing direct residency if salary thresholds are met.
+Finance Investment Manager falls under the ANZSCO classification (139912) shared by Australia and New Zealand, eligible for skilled migration. Some New Zealand positions are on the Green List Tier 1, allowing direct residence application if salary requirements are met.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $35,000~$45,000（国际学生学费，本地学生约8000-10000） |
-| 硕士 | 1-2年 | $50,000~$65,000（金融硕士或MBA） |
-| 特许金融分析师(CFA) | 2-3年 | $5,000~$10,000（考试费及学习材料） |
+| Bachelor's degree | 3 years | $35,000~$45,000 (International student fees, local students approx A$8,000-10,000) |
+| Master's degree | 1-2 years | $50,000~$65,000 (Master of Finance or MBA.) |
+| Chartered Financial Analyst (CFA) | 2-3 years | $5,000~$10,000 (Examination fees and study materials.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许金融分析师(CFA) | CFA Institute | 可选 | 高度推荐，提升竞争力 |
-| 金融风险管理师(FRM) | GARP | 可选 | 风险管理方向 |
-| 新西兰金融顾问注册 | 金融市场管理局(FMA) | 可选 | 提供个人投资建议需注册 |
-| 雅思6.5或等同英语水平 | IELTS等 | 必备 | 技术移民必备 |
+| IELTS 6.5 or equivalent English level | IELTS, etc. | Required | Essential for skilled migration |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Highly recommended to enhance competitiveness |
+| Financial Risk Manager (FRM) | GARP | Optional | Risk management direction |
+| New Zealand Financial Adviser registration | Financial Markets Authority (FMA) | Optional | Providing personal investment advice requires registration. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。新西兰金融投资经理需求稳定，尤其在奥克兰和惠灵顿。随着退休基金和KiwiSaver增长，职位预计缓慢增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Demand for financial investment managers in New Zealand is stable, especially in Auckland and Wellington. With the growth of retirement funds and KiwiSaver, positions are expected to grow slowly.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 助理分析师或初级投资经理 |
-| 中级（4-7年） | $90,000~$130,000 | 独立管理投资组合 |
-| 高级（8年以上） | $140,000~$200,000 | 投资总监或首席投资官 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$80,000 | Assistant analyst or junior investment manager |
+| Mid-level (4-7 years) | $90,000~$130,000 | Independently manage investment portfolio |
+| Senior (8+ years) | $140,000~$200,000 | Investment Director or Chief Investment Officer |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从分析师晋升至投资经理，再至投资总监或首席投资官。需持续学习CFA等资格，经验丰富者可扩展至私募或风投领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Promoted from analyst to investment manager, then to investment director or chief investment officer. Need continuous learning of CFA, etc.; experienced can expand to private equity or venture capital.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,66 +100,68 @@ Financial Investment Managers share ANZSCO code 139912 with Australia. Some role
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 薪资达到中位数两倍（2025年约60纽币/小时）可直接申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下凭学历和工作经验申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，满足薪资要求后可转居留 |
-| Subclass Green List T2（Work to Residence Visa） | 工作2年后可申请居留（不常见，T1更普遍） |
+| Subclass Green List T1 (Straight to Residence Visa) | Salary reaching twice the median (about NZD 60/hour in 2025) can directly apply for residence |
+| Subclass SMC (Skilled Migrant Category) | Apply under the 6-point system with qualifications and work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, can transition to permanent residency after meeting salary requirements |
+| Subclass Green List T2 (Work to Residence Visa) | Can apply for residency after 2 years of work (uncommon, T1 is more common) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Investment Manager？**
-- 有扎实金融背景和投资分析经验的人士
-- 追求高薪且愿意考取CFA等资格的人
-- 适应高压工作环境，擅长决策和风险管理的人
-
-**谁不适合学Financial Investment Manager？**
-- 不喜欢数字和数据分析的人
-- 追求工作生活平衡，不愿加班的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with solid financial background and investment analysis experience
+- People who seek high salary and are willing to obtain qualifications such as CFA
+- Those who adapt to high-pressure work environments and excel in decision-making and risk management
+
+**Who is not suited**
+- People who dislike numbers and data analysis
+- People who pursue work-life balance and are unwilling to work overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a financial investment manager in New Zealand?**
+A: Entry-level approx NZD $60,000-$80,000, mid-level $90,000-$130,000, senior $140,000-$200,000. Reaching twice the median qualifies for Green List Tier 1.
+
+**Q: What are the immigration pathways for financial investment managers?**
+A: Eligible for Green List Tier 1 direct residence (if salary threshold met) or Skilled Migrant Category 6-point system. Requires Accredited Employer Work Visa (AEWV) as a transition.
+
+**Q: What certificates are needed?**
+A: CFA is most highly regarded, while FRM is useful for risk control roles. FMA registration is required for personal investment advice. Skilled migration requires IELTS 6.5.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Financial Investment Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Financial Investment Managers in NZ?**
-答：Entry-level: NZD 60,000-80,000; mid-level: 90,000-130,000; senior: 140,000-200,000. Double the median qualifies for Green List Tier 1.
-
-**问：What are the migration pathways for Financial Investment Managers?**
-答：Green List Tier 1 (Straight to Residence) if salary meets threshold, Skilled Migrant Category (6-point system), or AEWV with accredited employer.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Stationary Engineers and Boiler Operators（Stationary Engineers and Boiler Operators）职业分析 · 美国
+# Stationary Engineers and Boiler Operators — career analysis · United States
 
-**职业代码：51-8021 – Stationary Engineers and Boiler Operators。**
+**Occupation code: 51-8021 (SOC)**
 
-Operate or maintain stationary engines, boilers, or other mechanical equipment to provide utilities for buildings or industrial processes, such as steam, electricity, and heat.
+Operate or maintain stationary engines, boilers, or other mechanical equipment to provide utilities such as steam, electricity, etc. for buildings or industrial processes
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业培训或学徒 | 2-4年 | $5,000~$20,000（社区学院或技术学校课程） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training or apprenticeship | 2-4 years | $5,000~$20,000 (Community college or technical school courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 锅炉操作员执照 | 州政府 | 必备 | 多数州要求持有锅炉操作员执照，需通过考试 |
-| 固定工程师执照 | 州政府 | 可选 | 高级岗位通常需要更高等级的执照 |
-| Hazwoper培训 | OSHA | 可选 | 处理危险材料时可能需要 |
+| Boiler operator license | State government | Required | Most states require a boiler operator license, which requires passing an exam |
+| Stationary engineer license | State government | Optional | Senior roles typically require a higher level of license. |
+| Hazwoper training | OSHA | Optional | May be required when handling hazardous materials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 28,200。预计2022-2032年就业增长约2%，低于平均水平。随着自动化和能效改进，需求稳定但增长有限。多数岗位在制造业、教育机构和医院。
+**Job demand: medium (★★½☆☆).** National workforce approx. 28,200. Employment is projected to grow about 2% from 2022 to 2032, slower than average. With automation and energy efficiency improvements, demand is stable but growth limited. Most jobs in manufacturing, educational institutions and hospitals.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 入门级基本薪资 |
-| 中级（4-9年） | $55,000~$70,000 | 有经验且持有执照 |
-| 高级（10年以上） | $75,000~$90,000 | 主管或高级工程师 |
+| Median salary | $78,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$50,000 | Entry-level base salary |
+| Intermediate (4-9 years) | $55,000~$70,000 | Experienced and licensed |
+| Senior (10+ years) | $75,000~$90,000 | Supervisor or Senior Engineer |
+| average salary | $83,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒或助手开始，通过积累经验可晋升为高级操作员或主管。也可考取更高等级执照，转向维护管理或能源管理岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will take over some monitoring and optimization tasks, but due to the need to operate physical equipment, handle emergencies, and comply with regulations, the role will not be fully replaced, but must adapt to digital tools to enhance efficiency.
+
+Starting as an apprentice or assistant, you can advance to senior operator or supervisor through experience. You can also obtain higher-level licenses and move into maintenance management or energy management roles.
+
+**Tasks most exposed to AI:**
+
+- Continuous monitoring of boiler pressure, temperature, and other parameters
+- Manually record operation data and maintenance logs
+- Perform start/stop operations according to fixed rules
+- Simple fault troubleshooting and diagnosis
+
+**Where AI augments the role:**
+
+- AI predictive maintenance recommendations to reduce unplanned downtime.
+- Digital twin simulation to optimize combustion efficiency
+- Remote monitoring and automatic alerts improve response speed
+- Smart energy management system assists with load scheduling.
+- Augmented Reality (AR) assisted maintenance guidance
+
+**Human moat:**
+
+- Manual operation and repair of physical equipment (e.g., valve replacement)
+- Rapid decision-making and human-machine coordination in emergencies
+- Compliance and safety responsibilities (e.g., boiler inspection)
+- Cross-domain problem-solving for complex systems
+
+**Skills to build:**
+
+- Industrial IoT device commissioning and maintenance
+- Python/VBA scripting for data collection
+- Use of predictive maintenance software (e.g., IBM Maximo)
+- Energy management platform operation (e.g., Schneider EcoStruxure)
+- Regulatory certification updates (e.g., ASME standards)
+- Basic data analysis and visualization
+
+**Key growth areas:**
 
 - Stable demand
 - Automation impact
@@ -64,66 +98,68 @@ Operate or maintain stationary engines, boilers, or other mechanical equipment t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合条件，因该职业通常不要求学士学位。 |
-| Subclass EB-3（Employment-Based Third Preference） | 理论可行但极少，需雇主证明无法招到美国工人。 |
-| Subclass TN（TN NAFTA Professional） | 不符合资格，职业不在TN职业清单中。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not qualify, as the occupation typically does not require a bachelor's degree. |
+| Subclass EB-3 (Employment-Based Third Preference) | Theoretically possible but rare; requires employer to prove inability to hire US workers. |
+| Subclass TN (TN NAFTA Professional) | Not eligible, as the occupation is not on the TN list of professions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stationary Engineers and Boiler Operators？**
-- 喜欢动手操作和维修机械设备的人
-- 能适应轮班工作并在工业环境中工作的人
-- 注重安全规程和精细操作的人
+**Who is suited**
+- People who enjoy hands-on work and repairing mechanical equipment
+- People who can adapt to shift work and work in industrial environments
+- People who prioritize safety protocols and meticulous operations
 
-**谁不适合学Stationary Engineers and Boiler Operators？**
-- 不喜欢体力劳动或长时间站立的人
-- 对锅炉或高温环境有恐惧感的人
+**Who is not suited**
+- Those who dislike physical labor or prolonged standing.
+- Those with a fear of boilers or high-temperature environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a boiler operator?**
+A: According to BLS data, the average annual salary in 2023 was about $61,000, entry-level around $40,000, experienced can reach over $70,000.
+
+**Q: Are stationary engineers and boiler operators able to immigrate to the US easily?**
+A: Very difficult. The occupation typically does not meet H-1B degree requirements, and the labor market test is not easy to pass. Very few employers support green card applications.
+
+**Q: How to become a boiler operator?**
+A: Usually requires a high school diploma, completion of on-the-job training or an apprenticeship, and obtaining a state-issued boiler operator license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stationary Engineers and Boiler Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for boiler operators?**
-答：According to BLS, the median annual wage in 2023 was around $61,000, with entry-level about $40,000 and experienced workers earning over $70,000.
-
-**问：Is it easy to immigrate to the US as a stationary engineer?**
-答：Very difficult. The occupation typically lacks a bachelor's degree requirement for H-1B and labor certification is challenging. Very few employers sponsor green cards.
-
-**问：How to become a boiler operator?**
-答：Typically need a high school diploma, complete on-the-job training or apprenticeship, and obtain a state-issued boiler operator license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

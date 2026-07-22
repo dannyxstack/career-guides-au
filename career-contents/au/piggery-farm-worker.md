@@ -1,61 +1,93 @@
-# Piggery Farm Worker（Piggery Farm Worker）职业分析 · 澳大利亚
+# Piggery Farm Worker — career analysis · Australia
 
-**职业代码：842315 – Piggery Farm Worker。**
+**Occupation code: 842315 (ANZSCO)**
 
-Piggery farm workers perform daily care of pigs, including feeding, cleaning pens, monitoring health, and assisting with breeding and weaning. Work is typically in outdoor and indoor farm settings.
+Pig farm workers are responsible for the daily care and management of pigs, including feeding, cleaning pens, monitoring health, and assisting with breeding and weaning. Work typically takes place outdoors and indoors on farms.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 不适用 | —（无正式学历要求，但雇主可能偏好完成10年级） |
-| 职业证书（畜牧生产） | 6个月至1年 | $3,000~$8,000（如TAFE的Certificate III in Pig Production） |
+| High school graduation | Not applicable | $0~$0 (No formal education requirements, but employers may prefer completion of Year 10) |
+| Vocational Certificate (Animal Production) | 6 months to 1 year | $3,000~$8,000 (e.g., TAFE Certificate III in Pig Production) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 白卡（White Card） | 州认可的安全培训机构 | 可选 | 建筑或农场安全入门培训，部分雇主要求。 |
-| 化学品使用证书 | 州农业部门 | 可选 | 如需使用农药或消毒剂，需持有相关证书。 |
-| 重型车辆驾照（如HR） | 州交通局 | 可选 | 如需驾驶叉车或卡车，可能要求。 |
+| White Card | State-approved safety training institution. | Optional | Basic entry-level training for construction or farm safety, required by some employers. |
+| Chemical Use Certificate | State agriculture department | Optional | If using pesticides or disinfectants, relevant certification is required. |
+| Heavy vehicle license (e.g. HR) | State Transport Authority | Optional | May be required if driving a forklift or truck. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。澳洲养猪业面临劳动力短缺，尤其是偏远地区。机械化程度提高，但基础饲养仍需人力。岗位需求稳定，受猪肉消费影响较大。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. Australia's pig farming industry faces labor shortages, especially in remote areas. Mechanization is increasing, but basic husbandry still requires manual labor. Job demand is stable, heavily influenced by pork consumption.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 按Award工资，约$23-28/小时 |
-| 中级（2-5年） | $55,000~$65,000 | 有经验后，可担任高级饲养员 |
-| 高级（5年以上/主管） | $65,000~$80,000 | 猪场主管或经理薪资更高，可达$80k+ |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $45,000~$55,000 | According to the Award wage, approximately $23-28 per hour |
+| Intermediate (2-5 years) | $55,000~$65,000 | With experience, can become senior stockman |
+| Senior (5+ years / supervisor) | $65,000~$80,000 | Pig farm supervisor or manager salary is higher, up to $80k+ |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从普通工人可晋升为高级饲养员或猪场主管，再至农场经理。也可向兽医助手、畜牧技术员等方向发展。需积累经验并取得相关证书。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Pig farm workers face AI automation replacing some physical and monitoring tasks, but on-site operations, health assessment, and herd management still rely on human experience, with short-term replacement risk moderate.
+
+Can advance from general worker to senior stockperson or piggery supervisor, then to farm manager. Also possible to develop into veterinary assistant or livestock technician roles. Requires accumulating experience and obtaining relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding systems replace manual timed feeding and quantity control
+- Cleaning robots automate barn cleaning and manure processing
+- AI health monitoring system automatically identifies abnormal pigs and alerts
+- Environmental sensors automatically control ventilation, temperature, and humidity
+
+**Where AI augments the role:**
+
+- Handheld terminals or AR glasses to assist in recording individual pig information and production data
+- Predictive analytics tool to optimize breeding and weaning timing decisions
+- Drones or robots assist in inspecting large pig barns, reducing manual travel
+- Mobile app or voice assistant provides instant disease response plans
+
+**Human moat:**
+
+- On-site assessment and emergency management of sudden illness or abnormal behavior
+- Experience interacting with pigs (e.g., lactation, stress calming)
+- Flexible manual operation capability for old or non-standardized equipment.
+- Multi-skilled farm work mix (maintenance, basic veterinary care)
+
+**Skills to build:**
+
+- Basic data entry and analysis (records, reports)
+- Automatic Feeding and Environmental Control System Operation and Maintenance
+- Smart sensor and monitoring system troubleshooting
+- Animal welfare and health management knowledge (e.g., biosecurity)
+- Basic welding and repair skills
+
+**Key growth areas:**
 
 - Agribusiness
 - Rural Employment
@@ -64,66 +96,68 @@ Piggery farm workers perform daily care of pigs, including feeding, cleaning pen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage visa） | 雇主担保工作签证，适用于养猪场工人（如符合ANZSCO要求）。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) visa） | 偏远地区雇主担保，可转永久居民。适用于偏远地区猪场。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA协议涵盖农业工人，要求较低。 |
+| Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored work visa, applicable to pig farm workers (if meeting ANZSCO requirements). |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) visa) | Regional employer sponsorship with pathway to permanent residency. Suitable for pig farms in designated areas. |
+| Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements cover agricultural workers with lower requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Piggery Farm Worker？**
-- 愿意在偏远地区工作和生活
-- 能适应体力劳动和户外工作环境
-- 对动物福利有热情
+**Who is suited**
+- Willing to work and live in remote areas
+- Able to handle physical labor and outdoor work environments
+- Passion for animal welfare
 
-**谁不适合学Piggery Farm Worker？**
-- 无法接受脏臭环境
-- 不喜欢与动物打交道
+**Who is not suited**
+- Cannot tolerate dirty or smelly environments
+- Dislike working with animals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of a pig farm worker?**
+A: Junior worker annual salary around AUD $45k–55k, senior breeders or supervisors can reach $65k–80k. Some remote area employers offer accommodation subsidies.
+
+**Q: Can pig farm workers immigrate to Australia?**
+A: Immigration is difficult. This occupation is usually not on the Medium and Long-term Strategic Skills List but can immigrate through regional employer sponsorship (494 visa) or specific DAMA agreements.
+
+**Q: What is the work environment like?**
+A: Mainly work indoors and outdoors in pigsties, requiring standing, lifting heavy objects, and exposure to feces and chemicals. Repetitive and physically demanding, but involves teamwork.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Piggery Farm Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a piggery farm worker?**
-答：Entry-level workers earn around AUD 45,000-55,000 per year, while senior stockpersons or supervisors can earn AUD 65,000-80,000. Some remote employers provide accommodation allowances.
-
-**问：Can a piggery farm worker migrate to Australia?**
-答：Migration is difficult. The occupation is usually not on the MLTSSL, but it may be possible through regional employer sponsorship (494 visa) or specific DAMA agreements.
-
-**问：What is the working environment like?**
-答：Work is mainly in indoor and outdoor pig sheds, involving standing, heavy lifting, and exposure to manure and chemicals. The work is repetitive and physically demanding, but team-oriented.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

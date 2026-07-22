@@ -1,61 +1,96 @@
-# Postal Service Clerks（Postal Service Clerks）职业分析 · 美国
+# Postal Service Clerks — career analysis · United States
 
-**职业代码：43-5051 – Postal Service Clerks。**
+**Occupation code: 43-5051 (SOC)**
 
-Perform various tasks at USPS post offices, including receiving letters and parcels, selling stamps and money orders, sorting mail, and checking postage.
+Performs various tasks at U.S. Post Office, such as accepting letters and parcels, selling stamps and money orders, sorting mail, and checking postage.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（多数仅需高中文凭） |
-| 短期培训 | 1-3个月 | $500~$2,000（USPS内部培训） |
+| High school diploma | 4 years | $0~$0 (Most only require a high school diploma.) |
+| Short-term training | 1-3 months. | $500~$2,000 (USPS internal training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 最低要求 |
-| 美国公民身份或永久居民身份 | 联邦政府 | 必备 | USPS要求 |
-| 速度测试 | USPS | 必备 | 通过打字或邮件分拣速度考试 |
+| High school diploma or equivalent | High school | Required | Minimum requirements |
+| U.S. citizenship or permanent residency | Federal government | Required | USPS requirements |
+| Speed test | USPS | Required | Pass typing or mail sorting speed test |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 61,000。由于电子通信替代和自动化分拣系统推广，邮政服务文员岗位预计持续减少。未来十年就业下降约20%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 61,000. Due to electronic communications replacing letters and automated sorting systems, postal service clerk positions are expected to continue decreasing. Employment is projected to decline by about 20% over the next ten years.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | USPS工资表第4-5级 |
-| 中级（3-10年） | $45,000~$55,000 | 第6-8级 |
-| 高级（10年以上） | $55,000~$65,000 | 第9-11级 |
+| Median salary | $62,130 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$45,000 | USPS pay grades 4-5 |
+| Intermediate (3-10 years) | $45,000~$55,000 | Levels 6-8 |
+| Senior (10+ years) | $55,000~$65,000 | levels 9-11 |
+| average salary | $61,860 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径有限，可从文员晋升为主管或邮政局长。大多需多年经验或通过内部考试。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Postal service clerk jobs are severely threatened by AI automation; many routine tasks can be replaced by machines, significantly reducing positions.
+
+Limited promotion path, can advance from clerk to supervisor or postmaster. Mostly requires many years of experience or internal exams.
+
+**Tasks most exposed to AI:**
+
+- Counter reception for sending and receiving mail and parcels, weighing, and billing
+- Sell standardized products like stamps and postal money orders
+- Mechanized sorting of letters and packages
+- Automatic verification of correct postage
+- Standardized responses for handling customer inquiries
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly look up addresses and postal codes
+- Using intelligent sorting systems to improve mail processing efficiency
+- Optimize inventory management through automated reporting
+- Use AI to assist in tracking packages and processing claims
+- Provides multilingual customer service via voice assistants
+
+**Human moat:**
+
+- Handling complex, non-standard customer complaints and disputes
+- Perform safety inspections requiring on-site judgment (e.g., suspicious packages)
+- Provide humane and personalized service experience
+- Manage documents and procedures related to legal compliance
+
+**Skills to build:**
+
+- Learn email automated sorting systems and smart device operation
+- Proficient in basic data analysis and report generation skills
+- Improve complex problem-solving skills in customer service
+- Familiarity with email tracking software and automated claims systems
+- Learn basic IT troubleshooting to maintain self-service terminals
+- Develop communication and conflict resolution skills
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -64,64 +99,66 @@ Perform various tasks at USPS post offices, including receiving letters and parc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，一般不属于专业职业 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 雇主需证明无法招到美国工人，极罕见 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable; generally not a professional occupation |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Employers must prove inability to hire US workers, extremely rare |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Postal Service Clerks？**
-- 偏好稳定政府工作、不介意重复琐碎任务者
-- 对美国邮政系统有热情、愿意在基层岗位长期工作的人
+**Who is suited**
+- Those who prefer stable government jobs and do not mind repetitive or mundane tasks
+- Those passionate about the US postal system and willing to work long-term in entry-level positions
 
-**谁不适合学Postal Service Clerks？**
-- 寻求高薪和快速职业发展者
-- 希望获得技术移民机会的国际人士
+**Who is not suited**
+- Those seeking high salary and rapid career development
+- International individuals seeking skilled migration opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a postal service clerk?**
+A: Junior: approximately USD 38,000-45,000, intermediate: USD 45,000-55,000, senior: USD 55,000-65,000, subject to union wage scales.
+
+**Q: Can foreign citizens obtain a US work visa as a postal service clerk?**
+A: Almost impossible. This position is not a professional occupation; USPS typically only hires U.S. citizens or permanent residents.
+
+**Q: Is there room for advancement in this position?**
+A: Limited. Can advance to supervisor or postmaster, but requires internal exams and years of experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Postal Service Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Postal Service Clerks?**
-答：Entry-level about $38,000-$45,000, mid-level $45,000-$55,000, senior $55,000-$65,000, governed by union pay scales.
-
-**问：Can foreign nationals obtain a US work visa as a Postal Service Clerk?**
-答：Highly unlikely. The job is not a specialty occupation, and USPS generally hires only US citizens or permanent residents.
-
-**问：Is there room for advancement?**
-答：Limited. Can advance to supervisor or postmaster but requires internal exams and years of experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

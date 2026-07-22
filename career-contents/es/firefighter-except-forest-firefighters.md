@@ -1,60 +1,94 @@
-# Firefighter (except forest firefighters)（Firefighter (except forest firefighters)）职业分析 · ES
+# Firefighter (except forest firefighters) — career analysis · Spain
 
-**职业代码：5931 – Firefighter (except forest firefighters)。**
+**Occupation code: 5931 (CNO)**
 
-Responsible for fire suppression, rescue operations, and emergency response to protect life and property. Works in public safety services requiring rigorous physical and psychological training.
+Responsible for firefighting, rescue, and emergency response, protecting lives and property. It belongs to the public safety service department and requires rigorous physical and psychological testing training.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年基础义务教育 | —（公立教育免费，但需自费消防员培训课程） |
-| 消防员培训课程 | 6-18个月（官方或私营） | $3,000~$12,000（各地消防学院或私立培训机构费用不等） |
+| High school graduation | 12 years of basic compulsory education | $0~$0 (Public education is free, but firefighter training courses must be paid out of pocket) |
+| Firefighter training courses | 6-18 months (official or private) | $3,000~$12,000 (Fees vary among fire academies or private training institutions across regions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 消防员任职资格（通过opposition） | 国家或地方政府 | 必备 | 必须通过竞争性考试和体能测试，通常要求高中学历及相关培训证书 |
-| 急救证书（如Soporte Vital Básico） | 红十字会或消防培训机构 | 可选 | 多数消防队要求具备基础生命支持或更高级急救资质 |
+| Firefighter Qualifications (via Opposition) | National or local governments | Required | Competitive exams and physical fitness tests are required, usually requiring a high school diploma and relevant training certificates |
+| First aid certificate (such as Soporte Vital Básico) | Red Cross or fire training institutions | Optional | Most fire departments require basic life support or higher-level first aid qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。西班牙消防员职位主要由各自治区和市政当局提供，受公共财政影响。城市化与工业发展持续需要专业消防员。由于退休人员增加，未来十年内会有一定数量的职位空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. The position of Spanish firefighter is mainly provided by autonomous communities and municipal authorities, influenced by public finances. Urbanization and industrial development continue to require professional firefighters. Due to the increase in retirees, there will be a certain number of job vacancies over the next decade.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 根据自治区不同，起薪约24,000-28,000欧元 |
-| 中级（4-10年） | $30,000~$38,000 | 含资历津贴、特殊任务补贴，年薪可达30,000-38,000欧元 |
-| 高级（10年以上或管理岗） | $40,000~$55,000 | 包括队长、局长等管理职级，年薪可达40,000-55,000欧元 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$28,000 | Depending on the autonomous region, the starting salary is about 24,000–28,000 euros |
+| Mid-level (4-10 years). | $30,000~$38,000 | Including seniority allowances and special task allowances, annual salaries can reach 30,000-38,000 euros |
+| Senior (over 10 years or management positions) | $40,000~$55,000 | Including management positions such as captain and director, annual salaries can reach 40,000–55,000 euros |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业生涯路径：消防员→班长/中士→副队长→队长→消防局长。也可向消防监督、防火检查、应急管理、消防培训等岗位发展，或通过考取更高级别应急管理学位进入管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
+
+Career path: Firefighter→ Squad Leader/Sergeant→ Deputy Captain→ Captain→ Fire Chief. They can also develop into positions such as fire supervision, fire inspection, emergency management, or fire training, or enter management positions by obtaining a higher-level emergency management degree.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
 
 - Public safety
 - Urbanization
@@ -63,68 +97,67 @@ Responsible for fire suppression, rescue operations, and emergency response to p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work contract (self-employed not applicable)） | 需获得西班牙雇主提供的工作合同，且职位一般仅限欧盟公民，第三国国民极难申请，因消防员属公共部门且须通过竞争性考试。 |
-| Subclass Homologación（Professional qualification recognition） | 第三国消防员学历和资格需进行学历认证（homologación），但消防员属于受规管职业，认证后仍须参加西班牙当地opposition考试。 |
+| Subclass Cuenta ajena (Work contract (self-employed not applicable)) | You must obtain a job contract from a Spanish employer, and the position is generally reserved for EU citizens. It is very difficult for third-country nationals to apply because firefighters are in the public sector and must pass competitive exams. |
+| Subclass Homologación (Professional qualification recognition) | Third-country firefighter qualifications require credential recognition (homologación), but as a regulated profession, certification still requires passing local Spanish oposición exams. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Firefighter (except forest firefighters)？**
-- 身体素质出色、有良好抗压能力和团队合作精神的人
-- 希望从事稳定、有社会荣誉感的公共服务职业者
-- 愿意接受严格体能和心理测试、以及轮班制工作者
-
-**谁不适合学Firefighter (except forest firefighters)？**
-- 不喜规则和纪律、对紧急事件承受能力弱的人
-- 追求高薪或快速晋升的人（消防员晋升较慢且薪资涨幅有限）
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with excellent physical fitness, strong stress resistance, and team spirit
+- Those who wish to work in stable public service professions with a sense of social honor
+- Willing to undergo rigorous physical and psychological tests, and shift work.
+
+**Who is not suited**
+- Dislikes rules and discipline, and is weak in handling emergencies
+- Those seeking high salaries or rapid promotions (firefighters tend to advance slowly and have limited salary increases)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of firefighters in Spain?**
+A: Junior firefighters earn about 24,000-28,000 euros annually, intermediate salaries 30,000-38,000 euros, and senior management positions up to 40,000-55,000 euros. Salaries vary by region and include night shifts, weekends, and hazard pay.
+
+**Q: Can non-EU people work as firefighters in Spain?**
+A: It's very difficult. Firefighters are usually part of the public sector, required to pass competitive exams (oposición), and most positions are only open to EU citizens. Third-country nationals must first obtain long-term residence in Spain and complete academic certification before taking the exam and proving their language proficiency.
+
+**Q: What training is required to become a firefighter?**
+A: Usually requires high school diploma and completion of fire academy training (6-18 months). Must pass state or territory opposition exams including physical fitness, theoretical knowledge, and psychological tests.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Firefighter (except forest firefighters)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for firefighters in Spain?**
-答：Entry-level firefighters earn around €24,000-€28,000 annually, mid-level €30,000-€38,000, and senior managerial positions €40,000-€55,000. Salaries vary by autonomous community and include night shift, weekend, and hazard pay.
-
-**问：Can non-EU nationals work as firefighters in Spain?**
-答：It is very difficult. Firefighters are typically public sector positions requiring competitive exams (oposiciones) and most are limited to EU citizens. Third-country nationals need long-term residency, credential recognition (homologación), and language proof to participate.
-
-**问：What training is required to become a firefighter?**
-答：Generally requires high school education and completion of a fire academy training course (6-18 months). Must pass a state/regional oposición exam consisting of physical tests, theoretical knowledge, and psychological assessment.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Boilermaker - Sheet Metal Worker（Boilermaker - Sheet Metal Worker）职业分析 · FR
+# Boilermaker - Sheet Metal Worker — career analysis · France
 
-**职业代码：H2902 – Boilermaker - Sheet Metal Worker。**
+**Occupation code: H2902 (ROME)**
 
-Boilermaker - sheet metal workers design, fabricate, install, and repair metal structures such as boilers, tanks, pipes, and sheet metal products using cutting, forming, and welding techniques.
+Boiler manufacturing and sheet metal workers are responsible for designing, manufacturing, installing, and maintaining metal structural parts such as boilers, storage tanks, pipelines, and sheet metal products, involving processes like cutting, forming, and welding.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 职业资格证书 | 2年 | —（公立职业学校免费，私立或有材料费） |
-| BTS 高级技师文凭 | 2年 | —（公立学校免费，私立费用较高） |
-| 学徒制（Apprentissage） | 2-3年 | —（学徒期间由企业支付工资，培训免费） |
+| CAP Professional Qualification Certificate | 2 years | $0~$5,000 (Public vocational schools are free, private schools may have material fees) |
+| BTS Advanced Technician Diploma | 2 years | $0~$8,000 (Public schools are free, while private schools are more expensive) |
+| Apprentissage | 2-3 years | $0~$0 (During the apprenticeship period, the company pays the salary, and training is free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Réparation des carrosseries（车身修理CAP）或类似金属加工文凭 | 法国教育部 | 可选 | 基础职业资格，非强制但广泛要求 |
-| 焊接认证（如ISO 9606） | 认证机构（如AFNOR或独立实验室） | 必备 | 部分雇主强制要求，尤其涉及压力容器 |
-| CACES 起重机械操作证书 | CACES认证机构 | 可选 | 若涉及起重作业，需持有相应证书 |
+| Welding certification (such as ISO 9606) | Certification bodies (such as AFNOR or independent laboratories) | Required | Some employers require it, especially regarding pressure vessels |
+| CAP Réparation des carrosseries (Body Repair CAP) or similar metalworking diplomas | French Ministry of Education | Optional | Basic professional qualifications, not mandatory but widely required |
+| CACES Crane Machinery Operation Certificate | CACES certification body | Optional | If lifting operations are involved, the relevant certificates must be held |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国工业领域对锅炉制造与钣金工需求稳定，尤其在能源、化工和造船行业。由于技术工人短缺，就业前景良好，但需持续更新焊接和数字制造技能。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. French industrial sector has stable demand for boiler manufacturing and sheet metal workers, especially in the energy, chemical, and shipbuilding sectors. Due to a shortage of skilled workers, job prospects are promising, but welding and digital manufacturing skills need to be continuously updated.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒转正 |
-| 中级（3-10年） | $28,000~$35,000 | 税前年薪，取决于技能和行业 |
-| 高级（10年以上） | $35,000~$45,000 | 税前年薪，含团队主管或专家角色 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprenticeship conversion to regular employment |
+| Intermediate (3-10 years) | $28,000~$35,000 | Pre-tax annual salary depends on skill and industry |
+| Senior (10+ years) | $35,000~$45,000 | Pre-tax annual salary, including team leader or expert roles |
+| average salary | $27,198 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技工可通过学徒或职业培训晋升为高级技师、团队负责人，或转向质量控制、技术销售等岗位。经验丰富者可创办自己的金属加工企业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Boilermakers' core manual welding and assembly are difficult to fully replace by AI in the short term, but AI-driven design optimization, non-destructive testing, and automated welding will significantly change task structures. Entry-level competition intensifies, while experienced tradespeople gain value in complex projects.
+
+Junior technicians can be promoted to senior technician or team leader through apprenticeship or vocational training, or move to positions such as quality control or technical sales. Those with rich experience can start their own metal processing enterprises.
+
+**Tasks most exposed to AI:**
+
+- Automated welding of repetitive seams (AI-guided welding robots)
+- Standard tank and pipeline modeling and nesting layout (AI-generated cutting paths)
+- Routine non-destructive testing report generation (AI analyzes X-ray/ultrasound data)
+- Inventory management and material ordering (AI predicts demand)
+
+**Where AI augments the role:**
+
+- Path planning and parameter optimization for complex curved surface welding (AI simulates optimal angles)
+- Remote expert assistance (AR overlay for welding guidance)
+- Quality prediction and defect prevention (real-time sensors + AI alerts)
+- Project management and schedule optimization (AI Gantt charts)
+- Safety risk assessment (AI analyzes construction data)
+
+**Human moat:**
+
+- On-site inspection and modification of non-standard, high-pressure vessels (unpredictable environments)
+- High-precision manual welding (e.g., titanium alloys, composite materials)
+- Cross-trade coordination and safety supervision responsibilities
+- Customer communication and custom solution design
+- Physical flexibility and ability to work in confined spaces
+
+**Skills to build:**
+
+- Automated welding and robot programming (e.g., FANUC, ABB)
+- 3D modeling and CAD/CAM (SolidWorks, AutoCAD)
+- Data Analysis Basics (Python/Excel)
+- Use of digital twin/AR maintenance assistance tools
+- Project management certification (e.g., PMP)
+- Safety and quality standards (ASME, AWS)
+
+**Key growth areas:**
 
 - Industrial maintenance
 - Energy sector
@@ -63,68 +98,67 @@ Boilermaker - sheet metal workers design, fabricate, install, and repair metal s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Temporary or Permanent)） | 受雇于法国企业，获得工作签证，需雇主担保，薪资需达最低工资1.5倍以上。 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，如持有BTS或同等学历，薪资需达平均工资水平，可快速获签。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，需持有高等教育文凭（至少Bac+3），薪资门槛约53,000欧元/年。 |
+| Subclass Salarié (Employee (Temporary or Permanent)) | Employees employed by French companies who obtain a work visa require employer sponsorship and must earn at least 1.5 times the minimum wage. |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents holding BTS or equivalent qualifications, salaries must meet the average salary level to quickly obtain visas. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens who must hold a higher education diploma (at least Bac+3), with a salary threshold of about 53,000 euros per year. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Boilermaker - Sheet Metal Worker？**
-- 动手能力强、喜欢制造和修复金属结构的人
-- 愿意学习焊接和数控技术的人
-- 寻求稳定技术工种且无需高学历的人
-
-**谁不适合学Boilermaker - Sheet Metal Worker？**
-- 偏好室内办公及理论工作的人
-- 对金属粉尘或高温环境敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and a passion for manufacturing and repairing metal structures
+- Those willing to learn welding and CNC technology
+- Those seeking stable technical jobs without high education required
+
+**Who is not suited**
+- People who prefer indoor office work and theoretical work
+- People sensitive to metal dust or high-temperature environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for boiler manufacturing and sheet metal workers in France?**
+A: Beginner is about 22,000-28,000 euros, intermediate 28,000-35,000 euros, and advanced 35,000-45,000 euros (before tax).
+
+**Q: How can non-EU citizens immigrate to France to work in boiler manufacturing and sheet metal work?**
+A: You can use the Salarié work visa (employer-sponsored), Passeport Talent (highly skilled worker), or EU Blue Card (Bac+3 diploma). Shortage occupations can speed up processes.
+
+**Q: What certifications are required to work as a boiler manufacturer in France?**
+A: Applicants must hold CAP or BTS relevant diplomas, as well as welding certifications (such as ISO 9606). For lifting operations, a CACES certificate is also required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Boilermaker - Sheet Metal Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for boilermakers in France?**
-答：Entry-level: €22,000-28,000; mid-level: €28,000-35,000; senior: €35,000-45,000 (gross).
-
-**问：How can non-EU citizens migrate to France as a boilermaker?**
-答：Via Salarié visa (employer sponsorship), Passeport Talent, or EU Blue Card (requires Bac+3). Shortage occupations may expedite.
-
-**问：What certifications are required to work as a boilermaker in France?**
-答：A CAP or BTS in metalworking, a welding certification (e.g., ISO 9606), and CACES if operating lifting equipment.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

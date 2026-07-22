@@ -1,59 +1,95 @@
-# Production Nursery Grower（Production Nursery Grower）职业分析 · 澳大利亚
+# Production Nursery Grower — career analysis · Australia
 
-**职业代码：121614 – Production Nursery Grower。**
+**Occupation code: 121614 (ANZSCO)**
 
-Plans, cultivates, and harvests plants (trees, shrubs, flowers) in a nursery production setting, managing growing processes to ensure quality and yield for horticulture, forestry, and landscaping industries.
+Responsible for planning, planting, cultivating, and harvesting plants (e.g., trees, shrubs, flowers) in nurseries, managing production processes to ensure plant quality and yield, applicable to horticulture, forestry, and landscaping industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 澳大利亚园艺三级证书 | 1-2年 | $5,000~$12,000（TAFE课程，学费因州而异） |
-| 园艺/农业科学学士 | 3-4年 | $30,000~$45,000（大学学费，国际生更高） |
+| Certificate III in Horticulture (Australia) | 1-2 years | $5,000~$12,000 (TAFE courses, fees vary by state.) |
+| Bachelor of Horticulture/Agricultural Science. | 3-4 years | $30,000~$45,000 (University tuition, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺三级证书（生产苗圃） | TAFE或注册培训机构 | 可选 | 核心资格，包含植物生产、病虫害管理 |
-| 农业科学学士 | 大学 | 可选 | 提升管理及科研能力，非强制但有利 |
-| Vetassess技能评估 | Vetassess | 必备 | 技术移民所需，评估工作经验和学历 |
+| Vetassess skills assessment | Vetassess | Required | Required for skilled migration; assesses work experience and qualifications |
+| Certificate III in Horticulture (Production Nursery) | TAFE or registered training organizations | Optional | Core qualifications, including plant production and pest management |
+| Bachelor of Agricultural Science | University | Optional | Enhances management and research skills, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。澳洲园艺和景观行业持续增长，对优质苗木需求稳定。受城市绿化、生态恢复及食品生产推动，该职业就业前景良好，尤其在偏远地区。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. Australia's horticulture and landscape industry is growing steadily, with stable demand for quality seedlings. Driven by urban greening, ecological restoration, and food production, this occupation has good employment prospects, especially in regional areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$60,000 | 全职，取决于地区和雇主 |
-| 中级（3-7年） | $60,000~$75,000 | 担任主管或生产经理 |
-| 高级（7年以上） | $75,000~$95,000 | 大型苗圃经理或所有者 |
+| Median salary | $67,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $48,000~$60,000 | Full-time, depending on region and employer |
+| Mid-level (3–7 years) | $60,000~$75,000 | Acting as supervisor or production manager |
+| Senior (7+ years) | $75,000~$95,000 | Large nursery manager or owner |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 初级种植者可晋升为苗圃主管或生产经理，进而成为苗圃所有者或园艺顾问。积累经验后可转向植物育种、病虫害管理或可持续农业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on production nursery growers is mixed: repetitive tasks can be automated, but parts relying on field sensory judgment and fine manual work are hard to replace. Overall risk is manageable, and embracing digital tools is recommended.
+
+Junior growers can advance to nursery supervisor or production manager, and later become nursery owners or horticultural consultants. With experience, they can move into plant breeding, pest management, or sustainable agriculture.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitors soil moisture and nutrients using sensors and AI systems, and irrigates and fertilizes automatically
+- AI predicts optimal planting and harvesting times based on historical data and weather models, replacing manual scheduling
+- Drone inspection and computer vision for pest and disease identification, replacing manual visual inspection.
+- Automated packaging and sorting systems replace manual handling of standard-sized plants
+- AI generates planting logs and reports, reducing paperwork
+
+**Where AI augments the role:**
+
+- AI-assisted identification of atypical pests and diseases to improve diagnostic accuracy
+- Data analysis tools to optimize variety selection and production processes, improving yield and quality
+- Robots collaborate to complete repetitive transplanting and pruning tasks, reducing labor intensity
+- Virtual reality simulation trains new employees, accelerating skill acquisition
+- AI prediction of market trends guides planting plans, reducing inventory backlog
+
+**Human moat:**
+
+- Intuition and experience-based judgment of subtle plant growth conditions
+- On-site problem solving and emergency response in complex environments
+- Efficient communication and coordination with clients and teams
+- Overall understanding of ecological balance and sustainability strategies
+- Creativity and experimental spirit in cultivating innovative varieties
+
+**Skills to build:**
+
+- Basic data collection and analysis (using Excel, Tableau, or Python)
+- Operate and maintain smart equipment such as automated irrigation systems and drones
+- Understand and apply AI pest and disease diagnosis tools (e.g., Plantix)
+- Learn precision agriculture software (e.g. FarmLogs, Climate FieldView)
+- Enhance knowledge of plant physiology and pathology, combined with AI diagnosis
+- Sustainable agriculture practices and ecological management
+
+**Key growth areas:**
 
 - Horticulture expansion
 - Urban greening
@@ -62,66 +98,65 @@ Plans, cultivates, and harvests plants (trees, shrubs, flowers) in a nursery pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需2年工作经验，可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，适用于MLTSSL职业，需3年工作经验 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保临时签证，3年后可转191永居 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居签证，基于EOI打分，该职业在MLTSSL上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa requiring 2 years' work experience, can transition to 186. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, applicable to MLTSSL occupations, requiring 3 years of work experience |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored temporary visa, can transfer to 191 permanent residence after 3 years |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled permanent visa based on EOI points; this occupation is on the MLTSSL |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Nursery Grower？**
-- 热爱户外工作和植物栽培
-- 具有耐心和细致的管理能力
-- 希望在农业/园艺领域长期发展
-
-**谁不适合学Production Nursery Grower？**
-- 不喜欢体力劳动和户外环境
-- 对季节性工作节奏不适应
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for outdoor work and plant cultivation
+- Has patient and meticulous management skills
+- Wishing to develop long-term in agriculture/horticulture
+
+**Who is not suited**
+- Dislikes physical labor and outdoor environments
+- Not adapting to the seasonal work rhythm
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for production nursery growers?**
+A: Junior approx. $48,000-$60,000 AUD, intermediate $60,000-$75,000, senior up to $95,000 AUD. Remote areas may be higher.
+
+**Q: What migration visas can a nursery producer apply for?**
+A: This occupation is on the MLTSSL and eligible for 189, 190, 491, 482, 186 visas, requiring Vetassess assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Production Nursery Grower的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Production Nursery Grower?**
-答：Entry-level AUD 48k-60k, mid-level AUD 60k-75k, senior up to AUD 95k. Higher in regional areas.
-
-**问：What visa options are available for Production Nursery Growers?**
-答：This occupation is on MLTSSL, eligible for 189, 190, 491, 482, 186 visas, requiring Vetassess skills assessment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

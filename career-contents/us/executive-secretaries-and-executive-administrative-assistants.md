@@ -1,60 +1,96 @@
-# Executive Secretaries and Executive Administrative Assistants（Executive Secretaries and Executive Administrative Assistants）职业分析 · 美国
+# Executive Secretaries and Executive Administrative Assistants — career analysis · United States
 
-**职业代码：43-6011 – Executive Secretaries and Executive Administrative Assistants。**
+**Occupation code: 43-6011 (SOC)**
 
-Provide high-level administrative support such as research, report preparation, and information handling; may also train and supervise lower-level clerical staff.
+Provide advanced administrative support, including research, report preparation, information processing, and may train and supervise junior clerks.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（多为在职培训） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区大学） |
+| High school diploma | None | $0~$0 (Mostly on-the-job training) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业行政助理认证 | 国际行政专业人士协会 | 可选 | 推荐非必需 |
-| 副学士学位 | 社区大学 | 可选 | 部分雇主偏好 |
+| Professional Administrative Assistant Certification | International Association of Administrative Professionals | Optional | Recommended but not required |
+| Associate degree | Community college | Optional | Preferred by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 510,000。随着公司数字化，部分行政职位减少，但高管支持需求稳定。预计2023-2033年就业增长率约3%，低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 510,000. As companies digitize, some administrative positions are reduced, but demand for executive support remains stable. Projected employment growth from 2023 to 2033 is about 3%, slower than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级薪资 |
-| 中级（3-7年） | $45,000~$60,000 | 常见薪资范围 |
-| 高级（7年以上） | $60,000~$80,000 | 高经验值 |
+| Median salary | $76,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Common salary range |
+| Senior (7+ years) | $60,000~$80,000 | High experience level |
+| average salary | $79,140 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为行政经理、办公室经理或首席执行官助理，或转向人力资源、项目管理等方向。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly reduce executive secretary and administrative assistant roles, with many routine tasks automated, but senior support and decision-making assistant roles will still retain opportunities.
+
+Can advance to administrative manager, office manager, or executive assistant, or transition to HR, project management, etc.
+
+**Tasks most exposed to AI:**
+
+- Manage electronic calendars, schedule meetings, and automatically coordinate participant availability
+- Draft and format standard documents such as letters, reports, and presentations
+- Organize and archive electronic files, perform data entry.
+- Handles travel bookings, expense reimbursement, and other procedural tasks
+- Screen and sort emails, automatically reply to routine inquiries
+
+**Where AI augments the role:**
+
+- Using AI analysis tools to extract key insights from reports to aid decision-making
+- Use AI to optimize scheduling, prioritizing high-priority tasks
+- Monitor project progress through AI, proactively remind of risks and to-dos.
+- Utilize AI translation and cross-cultural communication to expand global collaboration
+- Use AI to learn new software and processes, quickly adapting to changes
+
+**Human moat:**
+
+- Judgment and confidentiality in handling highly sensitive or classified information
+- Understand complex interpersonal networks within organizations, act as a trust bridge.
+- Flexible decision-making and autonomous action in ambiguous or urgent situations
+- Providing personalized, warm executive support and interpersonal coordination
+- Prestige and emotional intelligence to represent executives in internal and external communications
+
+**Skills to build:**
+
+- Advanced use of AI office tools (e.g., Copilot, Claude, Notion AI)
+- Data analysis and visualization (e.g., advanced Excel functions, Tableau)
+- Project coordination software (e.g., Asana, Jira) and agile methodologies
+- Cross-cultural business communication and basic legal and compliance knowledge
+- Information filtering and critical thinking to discern AI output quality
+- Proactive learning ability, keeping up with administrative technology changes
+
+**Key growth areas:**
 
 - Administrative Support
 - Executive Assistance
@@ -63,62 +99,64 @@ Provide high-level administrative support such as research, report preparation, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 通常不符合专业职位要求，很少支持 |
-| Subclass L-1（L-1 Intracompany Transferee Visa） | 跨国公司内部调动可能性较低 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Usually does not meet professional position requirements, rarely supported |
+| Subclass L-1 (L-1 Intracompany Transferee Visa) | Low possibility of internal transfer within multinational companies |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Executive Secretaries and Executive Administrative Assistants？**
-- 注重细节、组织能力强的人
-- 喜欢辅助高管、处理多样化任务的人
-- 希望在办公室环境中长期发展的人
+**Who is suited**
+- Detail-oriented, organized individuals
+- People who enjoy assisting executives and handling diverse tasks
+- Those who wish to develop long-term in an office environment
 
-**谁不适合学Executive Secretaries and Executive Administrative Assistants？**
-- 追求高薪和快速晋升的人
-- 对重复性行政工作感到厌倦的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those who are tired of repetitive administrative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for an executive secretary?**
+A: According to BLS data, the median annual salary for executive secretaries in 2023 was about $62,000, with a range of $35,000 to $80,000, depending on experience and industry.
+
+**Q: Can executive secretaries immigrate to the US on an H-1B visa?**
+A: Extremely difficult. H-1B requires a specialty occupation, typically needing a bachelor's degree or higher; executive secretaries usually don't require a university degree, thus not meeting H-1B criteria.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Executive Secretaries and Executive Administrative Assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for executive secretaries?**
-答：According to BLS data, the median annual wage for executive secretaries in 2023 is about $62,000, ranging from $35,000 to $80,000 depending on experience and industry.
-
-**问：Can executive secretaries immigrate to the US via H-1B visa?**
-答：Very difficult. H-1B requires specialty occupation typically requiring a bachelor's degree; executive secretaries usually do not require a degree, so they do not meet H-1B criteria.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

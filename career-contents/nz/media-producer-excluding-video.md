@@ -1,60 +1,89 @@
-# Media Producer (excluding Video)（Media Producer (excluding Video)）职业分析 · 新西兰
+# Media Producer (excluding Video) — career analysis · New Zealand
 
-**职业代码：212112 – Media Producer (excluding Video)。**
+**Occupation code: 212112 (ANZSCO)**
 
-Media Producers (excluding Video) in New Zealand plan, coordinate, and oversee the production of audio, digital media, and other content, including podcasts, radio programs, and online media projects. This occupation is eligible for the Skilled Migrant Category (SMC) and Accredited Employer Work Visa (AEWV) but not on the Green List.
+Media Producer (excluding video) in New Zealand plans, coordinates, and supervises the production of audio, digital media, etc., including podcasts, radio programs, and online media projects. This occupation can immigrate via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $60,000~$120,000（奥克兰大学等公立大学学费） |
-| 专科文凭 | 2年 | $30,000~$60,000（理工学院如怀卡托理工学院） |
-| 短期证书 | 6个月 | $5,000~$15,000（如新西兰媒体设计学院（Yoobee）） |
+| Bachelor's degree | 3 years | $60,000~$120,000 (Tuition fees at public universities such as the University of Auckland) |
+| Diploma | 2 years | $30,000~$60,000 (Polytechnics such as Waikato Institute of Technology) |
+| Short-term certificate | 6 months. | $5,000~$15,000 (Such as Yoobee Schools of Design (New Zealand)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体制作学士 | 奥克兰大学 | 可选 | 广泛认可 |
-| 数字媒体证书 | Yoobee创意学院 | 可选 | 实践导向 |
-| 雅思6.5 | IDP/英国文化协会 | 必备 | 移民要求 |
+| IELTS 6.5 | IDP/British Council | Required | Immigration requirements |
+| Bachelor of Media Production | University of Auckland | Optional | Widely recognized |
+| Digital media certificate | Yoobee Creative College. | Optional | Practice-oriented |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰媒体行业持续增长，数字媒体和播客需求旺盛。预计2024-2029年就业机会稳定，但竞争激烈，尤其在奥克兰和惠灵顿。具有数字营销和多元化平台经验者更易就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's media industry continues to grow, with strong demand for digital media and podcasts. Stable employment opportunities are expected from 2024-2029, but competition is fierce, especially in Auckland and Wellington. Those with digital marketing and multi-platform experience will find it easier to get a job.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 助理制作人 |
-| 中级（3-7年） | $70,000~$90,000 | 独立制作人 |
-| 高级（7年以上） | $95,000~$130,000 | 总监或经理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Assistant Producer |
+| Mid-level (3–7 years) | $70,000~$90,000 | Independent Producer |
+| Senior (7+ years) | $95,000~$130,000 | Director or Manager |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级制作人通常从协调员或助理做起，积累经验后晋升为高级制作人或项目经理。资深制作人可转向战略管理或创业，成立自己的制作公司。持续学习新技术和平台是关键。
-**AI替代风险：较高（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Junior producers usually start as coordinators or assistants, gaining experience before advancing to senior producer or project manager. Experienced producers can move into strategic management or entrepreneurship, starting their own production companies. Continuous learning of new technologies and platforms is key.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - Digital Media
 - Podcasting
@@ -63,68 +92,67 @@ Media Producers (excluding Video) in New Zealand plan, coordinate, and oversee t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制（学历+工作经验+薪资），该职业属技术类别 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，工资不低于中位数（当前$29.66/小时） |
-| Subclass WTR（Work to Residence） | 如雇主在绿色清单行业（如媒体），工作2年可转居留，但本职业不在核心清单 |
+| Subclass SMC (Skilled Migrant Category) | Must satisfy a 6-point system (qualifications + work experience + salary); this occupation falls under a skilled category. |
+| Subclass AEWV (Accredited Employer Work Visa) | Must obtain a certified employer offer with salary not below the median (currently $29.66/hour). |
+| Subclass WTR (Work to Residence) | If the employer is in a green list industry (such as media), working for 2 years can lead to residency, but this occupation is not on the core list |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Media Producer (excluding Video)？**
-- 具备创意和项目管理能力，热爱媒体内容制作
-- 善于适应新技术和数字平台变化
-- 希望在创意产业内通过技术移民路径定居新西兰
-
-**谁不适合学Media Producer (excluding Video)？**
-- 追求稳定朝九晚五工作模式
-- 回避竞争和高压工作环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and project management skills, passionate about media content production
+- Adaptable to new technologies and digital platform changes
+- Wishing to settle in New Zealand via skilled migration pathways within the creative industry
+
+**Who is not suited**
+- Pursuing a stable nine-to-five work schedule
+- Those who avoid competition and high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a media producer in New Zealand?**
+A: Entry-level around NZD 50,000–65,000, mid-level NZD 70,000–90,000, senior NZD 95,000–130,000, depending on experience and location.
+
+**Q: Can media producers easily obtain New Zealand residency through skilled migration?**
+A: You can apply via SMC, but it requires meeting the 6-point system (e.g., bachelor's degree 3 years + 3 years of work experience, etc.). It is not a shortage occupation, so competition is high. Gaining experience through AEWV can also lead to application.
+
+**Q: What are the career advancement paths for a media producer?**
+A: Can advance to senior producer, content director, or project manager, or start a production company. Experience in digital media and podcasting aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较高（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-Media Producer (excluding Video)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Media Producer in New Zealand?**
-答：Entry-level: NZ$50,000-65,000; Mid-level: NZ$70,000-90,000; Senior: NZ$95,000-130,000, depending on experience and location.
-
-**问：Is it easy for a Media Producer to obtain New Zealand residence through skilled migration?**
-答：Possible via SMC (6 points: e.g., bachelor's degree 3pts + 3 years experience 3pts), but not shortage occupation, so competition exists. Alternatively, work on AEWV and later apply.
-
-**问：What are the career progression paths for a Media Producer?**
-答：Advance to senior producer, content director, or project manager, or start own production company. Skills in digital media and podcasting are beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

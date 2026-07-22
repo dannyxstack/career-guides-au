@@ -1,59 +1,95 @@
-# Aircraft Maintenance Engineer (Structures)（Aircraft Maintenance Engineer (Structures)）职业分析 · 新西兰
+# Aircraft Maintenance Engineer (Structures) — career analysis · New Zealand
 
-**职业代码：323113 – Aircraft Maintenance Engineer (Structures)。**
+**Occupation code: 323113 (ANZSCO)**
 
-Aircraft Maintenance Engineer (Structures) inspects, repairs, and modifies metal and composite aircraft structures to ensure flight safety. This occupation is on New Zealand's Green List Tier 1, eligible for direct residence, with high migration feasibility.
+Aircraft Maintenance Engineer (Structures) responsible for inspecting, repairing, and modifying aircraft metal and composite structures to ensure flight safety. This occupation is on the New Zealand Green List Tier 1, eligible for fast-track direct residence, and is in long-term shortage, offering high immigration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $15,000~$25,000（新西兰航空学院或理工学院，如Massey University，学费约1.5-2.5万纽币/年） |
-| 本科 | 3-4年 | $25,000~$35,000（如University of Auckland航空工程相关课程） |
+| Diploma | 2 years | $15,000~$25,000 (New Zealand aviation academy or polytechnic, such as Massey University, tuition about NZ$15,000-25,000 per year) |
+| Bachelor's degree | 3-4 years | $25,000~$35,000 (E.g., University of Auckland aviation engineering related courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰航空维修工程师执照（AME） | 新西兰民航局 | 必备 | 必须持有，分B1.1（机械）或B2（航空电子），结构专业常需B1.1 |
-| 英语能力：雅思6.0或同等 | IELTS/PTE等 | 必备 | 技术移民及注册要求，单项不低于5.5 |
-| 海外资格评估 | PTL / Earning Capacity Board | 可选 | 针对海外学历，需通过新西兰民航局评估 |
+| New Zealand Aircraft Maintenance Engineer License (AME) | New Zealand Civil Aviation Authority | Required | Must hold, either B1.1 (Mechanical) or B2 (Avionics); B1.1 is often required for structural roles. |
+| English ability: IELTS 6.0 or equivalent | IELTS/PTE, etc. | Required | Skilled migration and registration requirements, no band below 5.5 |
+| Overseas Qualification Assessment | PTL / Earning Capacity Board | Optional | For overseas qualifications, must undergo assessment by the New Zealand Civil Aviation Authority |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰航空运输业持续增长，尤其是基督城和奥克兰的维修基地需求旺盛。随着机队更新，复合材料修复技能尤为紧缺，未来五年就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. New Zealand's air transport industry continues to grow, with strong demand at maintenance bases especially in Christchurch and Auckland. With fleet renewal, composite repair skills are particularly in demand, and employment prospects are stable over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 持AME执照后起薪约5.5万，有带教项目 |
-| 中级（3-7年） | $70,000~$95,000 | 独立工作，经验丰富者可达9万+ |
-| 高级（7年以上） | $95,000~$130,000 | 主管或专家级别，年薪最高可达13万 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary around $55,000 with AME license, includes mentoring program |
+| Mid-level (3–7 years) | $70,000~$95,000 | Work independently, experienced ones can reach over 90,000+ |
+| Senior (7+ years) | $95,000~$130,000 | Supervisor or specialist level, annual salary up to $130,000. |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：优秀（★★★★½）。** 从初级技工起步，积累经验后可晋升为高级工程师、团队主管或质检经理；也可向专业领域如无损检测或复合材料专家发展。部分工程师最终进入航空管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Starting as a junior technician, you can advance to senior engineer, team leader, or quality inspection manager with experience; you can also specialize in fields such as non-destructive testing or composite materials. Some engineers eventually move into aviation management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Aircraft Maintenance Engineer (Structures) inspects, repairs, and modifies metal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足职业要求、薪资中位数及以上且持Job Offer即可申请 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，6分制下可通过注册资格、学位及工作年限获得分数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡签证，累积经验后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, apply with job offer meeting occupation requirements and median salary or above |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration: under the 6-point system, points can be earned through registration qualifications, degree, and years of work experience |
+| Subclass AEWV (Accredited Employer Work Visa) | The accredited employer work visa serves as a transition visa, allowing accumulation of experience before applying for residence. |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Maintenance Engineer (Structures)？**
-- 热衷技术维修、动手能力强且注重细节的人
-- 能接受定期培训与考核、适应倒班工作的求职者
-- 希望在发达国家获得快速移民通道的航空维修人才
-
-**谁不适合学Aircraft Maintenance Engineer (Structures)？**
-- 不喜严格安全规程和重复性检查的人
-- 对高空作业或噪音环境敏感者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are keen on technical repair, hands-on, and detail-oriented
+- Job seekers able to undergo regular training and assessment and adapt to shift work
+- Aviation maintenance talent seeking fast-track immigration to developed countries
+
+**Who is not suited**
+- Those who dislike strict safety procedures and repetitive inspections
+- Those sensitive to working at heights or noisy environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of an aircraft maintenance engineer (structures) in New Zealand?**
+A: Entry-level approx. NZ$55,000-70,000, senior up to NZ$130,000, median around NZ$80,000.
+
+**Q: How to immigrate to New Zealand through this occupation?**
+A: This occupation is on the Green List Tier 1; with a job offer from an accredited employer and a salary at the median, you can directly apply for the Straight to Residence Visa; it also qualifies under the SMC 6-point system.
+
+**Q: What qualifications are needed to work in New Zealand?**
+A: Must hold a New Zealand CAA AME license (B1.1 category), some cases require qualification assessment and English test (IELTS 6.0).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 优秀（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★★） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Aircraft Maintenance Engineer (Structures)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for an Aircraft Maintenance Engineer (Structures) in New Zealand?**
-答：Entry-level NZD 55,000-70,000, experienced up to NZD 130,000, with median around NZD 80,000.
-
-**问：How can I immigrate to New Zealand through this occupation?**
-答：It's on Green List Tier 1: with a job offer from an accredited employer and median wage, you can apply for a Straight to Residence Visa; or via SMC under the 6-point system.
-
-**问：What qualifications are required to work in New Zealand?**
-答：You need an AME license from CAA (B1.1 category), and potentially a qualification assessment and English test (IELTS 6.0).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

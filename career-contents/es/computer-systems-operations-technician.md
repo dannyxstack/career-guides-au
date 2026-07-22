@@ -1,60 +1,96 @@
-# Computer Systems Operations Technician（Computer Systems Operations Technician）职业分析 · ES
+# Computer Systems Operations Technician — career analysis · Spain
 
-**职业代码：3811 – Computer Systems Operations Technician。**
+**Occupation code: 3811 (CNO)**
 
-Monitor, maintain and optimize computer systems and network infrastructure, ensuring secure and stable operation, performing daily backups, troubleshooting and performance tuning.
+Responsible for monitoring, maintaining, and optimizing computer systems and network infrastructure to ensure safe and stable system operation, and to perform daily backups, troubleshooting, and performance tuning.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立免费或低学费） |
-| 高等职业培训（FP Grado Superior） | 2年 | —（公立免费或低学费） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学年学费约1000-2000欧元） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools offer free or low tuition) |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Annual tuition at public universities is about 1,000–2,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机系统运维高等职业培训文凭 | 西班牙教育部认可的培训中心 | 可选 | FP Grado Superior en Administración de Sistemas Informáticos en Red |
-| CompTIA A+认证 | CompTIA | 可选 | 国际通用的IT基础认证，非强制但雇主偏好 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行学历认证，用于申请工作居留 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require academic credential verification to apply for work residence |
+| Higher Vocational Training Diploma in Computer System Operation and Maintenance | A training center accredited by the Spanish Ministry of Education | Optional | FP Grado Superior en Administración de Sistemas Informáticos en Red |
+| CompTIA A+ certification | CompTIA | Optional | An internationally recognized IT foundation certification, not mandatory but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。随着西班牙数字化转型加速，企业对IT系统运维需求持续增长。云服务和远程办公普及推动该职位需求，尤其在马德里、巴塞罗那等科技中心。预计未来5年岗位增长10-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. As Spain's digital transformation accelerates, enterprises' demand for IT system operations continues to grow. The widespread use of cloud services and remote work is driving demand for this position, especially in technology hubs like Madrid and Barcelona. Job growth is expected to be 10-15% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-6年） | $28,000~$38,000 | 税前年薪 |
-| 高级（6年以上） | $38,000~$50,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $28,000~$38,000 | Annual pre-tax salary |
+| Senior (6+ years) | $38,000~$50,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级运维技术员升至系统管理员、IT基础设施经理，或向云架构师、DevOps工程师等方向发展。持有CCNA、RHCE等认证可加速晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on computer system operations technicians is mixed: daily monitoring, backup, and troubleshooting tasks are easily automated, but complex system optimization and security strategy formulation, tasks requiring human judgment, are instead enhanced by AI. Entry-level positions may shrink, but demand for senior operations roles is increasing.
+
+You can advance from junior operations technician to system administrator, IT infrastructure manager, or develop into cloud architect, DevOps engineer, and other directions. Holding certifications such as CCNA and RHCE can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- 24/7 system monitoring and alarm response
+- Routine backup operations and recovery verification
+- Troubleshooting and repairing preset scripts
+- System performance data collection and basic report generation
+- User account management and permission configuration
+
+**Where AI augments the role:**
+
+- AI-assisted root cause analysis and complex fault diagnosis
+- Writing and optimizing automated operations and maintenance scripts
+- Predictive maintenance and capacity planning
+- Formulating AI detection and response strategies for security threats
+- AI-based cloud resource cost optimization
+
+**Human moat:**
+
+- Global optimization capability across system architectures
+- Creative solutions to unknown/non-standard faults
+- Formulation of security compliance strategies and audit responsibilities
+- Communicate with business units to understand requirements and translate them into technical solutions
+- Experience in maintaining legacy systems and customized environments
+
+**Skills to build:**
+
+- AI/ML foundations and operations applications (such as Anomaly Detection)
+- Cloud-native technologies (Kubernetes, Docker)
+- Scripting (Python, Bash)
+- DevOps and CI/CD automation tools
+- Cybersecurity fundamentals and AI security tools
+- Data analysis and visualization (such as Prometheus, Grafana)
+
+**Key growth areas:**
 
 - Cloud computing
 - DevOps
@@ -63,68 +99,67 @@ Monitor, maintain and optimize computer systems and network infrastructure, ensu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能人才，需大学学历或5年经验，年薪达标（约33,908欧元，2024年） |
-| Subclass Altamente cualificad（Highly Qualified Professional） | Ley 14/2013，适用于高学历或紧缺职业，程序较快 |
-| Subclass Cuenta ajena（Work Contract Visa） | 常规受雇工作居留，需雇主担保和学历认证 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled talents, university degree or 5 years of experience required, annual salary meeting the target (approximately €33,908, 2024) |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Ley 14/2013, suitable for highly educated or in-demand occupations, with a faster process |
+| Subclass Cuenta ajena (Work Contract Visa) | Regular employment residency requires employer sponsorship and academic credential verification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Systems Operations Technician？**
-- 喜欢动手解决技术问题、对计算机硬件和网络感兴趣的人
-- 愿意通过职业培训（FP）快速进入IT行业的人
-- 追求稳定就业和中等收入的人
-
-**谁不适合学Computer Systems Operations Technician？**
-- 不擅长压力下快速故障排查的人
-- 希望纯开发或极高薪资的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy solving technical problems hands-on and are interested in computer hardware and networks
+- People willing to quickly enter the IT industry through vocational training (FP).
+- People seeking stable employment and a middle-income income
+
+**Who is not suited**
+- People who are not good at quick troubleshooting under pressure
+- Those who want pure development or extremely high salaries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for computer system operation and maintenance technicians?**
+A: Entry-level salaries are about 22,000-28,000 euros, intermediate salaries 28,000-38,000 euros, and senior salaries 38,000-50,000 euros (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to Spain through this employment?**
+A: Usually, you need to obtain a Spanish employer contract first and apply for work residence (Cuenta ajena). Highly educated or experienced individuals can apply through the EU Blue Card or the Highly Skilled Professional Visa (Ley 14/2013). Non-EU degrees must be certified by the Spanish Ministry of Education (Homologación).
+
+**Q: What educational background is required to become a computer system operations technician in Spain?**
+A: You can complete a 2-year higher vocational training (FP Grado Superior) or a 4-year university bachelor's degree (Grado). FP is more practice-oriented, has a high employment rate, and public college fees are low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer Systems Operations Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a computer systems operations technician?**
-答：Entry-level around €22,000-28,000, mid-level €28,000-38,000, senior €38,000-50,000 (gross annual).
-
-**问：How can non-EU citizens immigrate to Spain through this occupation?**
-答：Usually require a job offer from a Spanish employer and apply for a work contract visa (Cuenta ajena). Highly qualified candidates may use EU Blue Card or Highly Qualified Professional visa (Ley 14/2013). Non-EU degrees need homologación by the Spanish Ministry of Education.
-
-**问：What education is needed to become a computer systems operations technician in Spain?**
-答：You can take a 2-year higher vocational training (FP Grado Superior) or a 4-year university degree (Grado). FP is more practical with high employment rates and low cost at public institutions.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

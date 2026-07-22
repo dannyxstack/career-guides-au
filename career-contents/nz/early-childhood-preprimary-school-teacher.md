@@ -1,58 +1,94 @@
-# Early Childhood (Pre-primary School) Teacher（Early Childhood (Pre-primary School) Teacher）职业分析 · 新西兰
+# Early Childhood (Pre-primary School) Teacher — career analysis · New Zealand
 
-**职业代码：241111 – Early Childhood (Pre-primary School) Teacher。**
+**Occupation code: 241111 (ANZSCO)**
 
-Early childhood teachers are on New Zealand's Green List Tier 1, eligible for direct residence, or via Skilled Migrant Category 6-point system. Requires a recognized ECE degree and NZ Teaching Council registration.
+Early childhood teachers are on the long-term shortage list in New Zealand, eligible for Green List direct residency or 6-point skilled migration. Requires accredited early childhood education degree and New Zealand teacher registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（幼教方向） | 3年 | $26,000~$35,000（国际生年均学费，NZ本地生约$6,500/年） |
-| 研究生文凭（幼教） | 1年 | $28,000~$38,000（适合已有其他本科学位者，总费用约$3-4万） |
+| Bachelor's degree (Early Childhood Education focus) | 3 years | $26,000~$35,000 (Annual tuition for international students, NZ domestic students approx. $6,500/year) |
+| Graduate Diploma (Early Childhood Teaching) | 1 year | $28,000~$38,000 (Suitable for those with another bachelor's degree, total cost approx. $30,000-$40,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰教师注册（Provisional或Full） | Teaching Council of Aotearoa New Zealand | 必备 | 必须完成经批准的教师教育课程并达到语言要求（雅思7.0单项不低于7.0） |
-| 学历评估（NZQA IQA） | 新西兰学历评估委员会 | 必备 | 海外学历需通过IQA认证相当于新西兰学士学位 |
+| New Zealand teacher registration (Provisional or Full) | Teaching Council of Aotearoa New Zealand | Required | Must complete an approved teacher education program and meet language requirements (IELTS 7.0 with no band below 7.0). |
+| Qualification assessment (NZQA IQA) | New Zealand Qualifications Authority (NZQA) | Required | Overseas qualifications must be assessed by IQA as equivalent to a New Zealand bachelor's degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 23,500。新西兰政府持续投资幼儿教育，2024年预算增加ECE funding，全国幼教中心数量增长，但合格教师仍供不应求，尤其偏远地区。就业前景稳定，但竞争因移民涌入而略升。
+**Job demand: very high (★★★★½).** National workforce approx. 23,500. The New Zealand government continues to invest in early childhood education, with increased ECE funding in the 2024 budget, growth in the number of early childhood centers nationwide, but qualified teachers remain in short supply, especially in remote areas. Employment outlook stable, but competition slightly increased due to immigration influx.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $51,000~$60,000 | 依据集体协议，2024年新教师起薪约$51,000 |
-| 中级（3-7年） | $60,000~$75,000 | 教学经验增加，可达$65,000-$70,000 |
-| 高级（7年+或管理岗） | $75,000~$95,000 | 中心经理或高级教师年薪可超$90,000 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $51,000~$60,000 | Under the collective agreement, starting salary for new teachers in 2024 is about $51,000. |
+| Mid-level (3–7 years) | $60,000~$75,000 | With teaching experience, can reach $65,000-$70,000 |
+| Senior (7+ years or management role) | $75,000~$95,000 | Center manager or senior teacher annual salary can exceed $90,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级教师可晋升为主班教师（Head Teacher）、中心经理（Centre Manager）或教育顾问。也可转入早期干预、幼教政策研究或高等教育培训。硕士学历有助于专攻课程领导或特殊教育。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
+
+Junior teachers can advance to Head Teacher, Centre Manager, or Educational Consultant. They may also transition into early intervention, early childhood policy research, or higher education training. A master's degree helps specialize in curriculum leadership or special education.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates daily activity plans and lesson plans
+- AI analyzes child development data and generates assessment reports
+- AI handles parent communication emails, notifications, and other text tasks
+- AI management of course resource libraries and material ordering
+- AI-assisted basic English/math concept teaching exercises
+
+**Where AI augments the role:**
+
+- AI real-time observation and recording of children's learning behaviors, providing personalized teaching suggestions
+- AI analyzes early childhood development indicators to warn of potential developmental issues
+- AI assists in designing adaptive games and interactive activities to promote inclusive education
+- AI virtual characters engage in role-playing and language interaction to enrich teaching scenarios
+- AI automatically translates multilingual content, supporting multicultural family communication
+
+**Human moat:**
+
+- Build warm, trusting teacher-student relationships and provide emotional security.
+- Observing and interpreting children's nonverbal signals, emotions, and behaviors
+- Design open, exploratory curricula to stimulate creativity and curiosity
+- In-depth communication with parents to coordinate family and kindergarten education
+- Guiding children through complex social conflicts to develop social and emotional skills
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., child development analysis software)
+- Basic data analysis and evaluation report interpretation
+- Human-AI collaboration course design (e.g., adjusting activities after AI recommendations)
+- Digital communication and multimedia content creation
+- Special education and inclusive education methods
+- Child mental health and early intervention basics
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +97,67 @@ Early childhood teachers are on New Zealand's Green List Tier 1, eligible for di
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，符合职业要求且持有一份认可雇主offer即可申请，无需等待期。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，注册职业+学历可获6分，满足年龄及英语要求，无需工作经验分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，用于获得新西兰工作经验后转居民。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, eligible for occupation and with a job offer from an accredited employer, no waiting period required. |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: registered occupation plus education earns 6 points; meets age and English requirements; no work experience points needed. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, used to gain New Zealand work experience before transferring to residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Early Childhood (Pre-primary School) Teacher？**
-- 有耐心、喜欢儿童且具备良好沟通能力的人
-- 希望快速移民新西兰且愿意投身教育行业的人
-- 有一定英语基础，能通过雅思7.0或同等水平测试的人
-
-**谁不适合学Early Childhood (Pre-primary School) Teacher？**
-- 对儿童纪律和日常照料缺乏耐心的人
-- 无法接受相对较低起薪和中等工作强度的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, child-friendly individuals with good communication skills
+- People who wish to immigrate to New Zealand quickly and are willing to work in education
+- Those with basic English skills able to pass IELTS 7.0 or equivalent
+
+**Who is not suited**
+- Those impatient with children's discipline and daily care
+- Unable to accept relatively low starting salary and moderate work intensity
+
+---
+
+## 8. FAQ
+
+**Q: How many years of work experience are required for early childhood teachers to immigrate to New Zealand?**
+A: Eligible for Straight to Residence pathway on Green List Tier 1, no New Zealand work experience required, only need a job offer from an accredited employer and teacher registration. Under the 6-point system, registration plus qualification gives full points.
+
+**Q: Is the salary for early childhood teachers in New Zealand sufficient to live on?**
+A: Entry-level teachers earn around $51,000 annually, above New Zealand's minimum wage ($43,000). Dual-income couples or singles can afford living, but housing costs are higher in big cities like Auckland.
+
+**Q: How to register overseas early childhood teacher qualifications in New Zealand?**
+A: Must pass NZQA assessment to equate qualification with NZ bachelor's degree, then apply for provisional registration with the Teaching Council, meeting IELTS 7.0 (no band below 7.0).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★★☆） |
-| 考证难度 | 难（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★★） |
-| PR难度 | 低（★½☆☆☆） |
-
-Early Childhood (Pre-primary School) Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How many years of experience do I need to immigrate as an early childhood teacher?**
-答：For Green List Tier 1, no NZ work experience is required; you only need a registered teaching qualification and a job offer. Under SMC 6-point system, registration plus relevant qualification gives full points.
-
-**问：Is the salary enough to live on as an early childhood teacher?**
-答：Starting salary ~NZD$51k, above minimum wage ($43k). Single or dual-income households can manage, though housing costs in Auckland are high.
-
-**问：How can overseas ECE teachers register in New Zealand?**
-答：First get NZQA IQA to confirm degree equivalence, then apply to Teaching Council for provisional registration, meeting IELTS 7.0 (no band below 7.0).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

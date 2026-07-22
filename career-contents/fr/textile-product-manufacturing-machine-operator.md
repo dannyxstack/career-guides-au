@@ -1,62 +1,95 @@
-# Textile Product Manufacturing Machine Operator（Textile Product Manufacturing Machine Operator）职业分析 · FR
+# Textile Product Manufacturing Machine Operator — career analysis · France
 
-**职业代码：H2403 – Textile Product Manufacturing Machine Operator。**
+**Occupation code: H2403 (ROME)**
 
-Operates textile machines (looms, knitting, dyeing) for fabric production, including setup, monitoring, quality inspection, and basic maintenance.
+Operate textile machinery (such as looms, knitting machines, dyeing machines) for textile production, responsible for equipment commissioning, monitoring operation, quality inspection, and basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 纺织操作 | 2年 | —（公立学校免费，学徒制有补贴） |
-| BTS 纺织与纤维 | 2年 | —（公立学校约200欧元注册费，私立较高） |
-| 职业资格认证（CQP） | 1-2年 | $3,000~$8,000（继续教育或学徒制） |
+| CAP textile operations | 2 years | $0~$1,000 (Public schools are free, and apprenticeships are subsidized) |
+| BTS Textiles and Fibers | 2 years | $0~$5,000 (The registration fee for public schools is about 200 euros, while private schools are higher) |
+| Professional Qualification Certification (CQP) | 1-2 years | $3,000~$8,000 (Continuing education or apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 纺织机械操作 | 法国教育部 | 可选 | 基础操作资格，非强制但普遍要求 |
-| BTS 纺织与纤维 | 法国教育部 | 可选 | 高级文凭，利于晋升 |
-| CACES 证书（若操作叉车） | CARSAT | 可选 | 若涉及搬运，需安全操作认证 |
+| CAP textile machinery operation | French Ministry of Education | Optional | Basic operational qualifications, not mandatory but generally required |
+| BTS Textiles and Fibers | French Ministry of Education | Optional | Advanced diplomas are beneficial for promotion |
+| CACES certificate (if operating forklifts) | CARSAT | Optional | If handling is involved, safety operation certification is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 30,000。法国纺织业面临自动化升级和环保转型，就业岗位缓慢减少，但熟练操作员仍有需求，尤其在技术纺织品和回收领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 30,000. France's textile industry is facing automation upgrades and environmental transformations, with jobs slowly decreasing, but skilled operators remain in demand, especially in technical textiles and recycling.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-8年） | $26,000~$31,000 | 税前年薪 |
-| 高级（8年以上） | $31,000~$37,000 | 税前年薪 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $26,000~$31,000 | Annual pre-tax salary |
+| Senior (8+ years) | $31,000~$37,000 | Annual pre-tax salary |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级操作员晋升为高级操作员、生产线组长或质量检查员；通过培训可转向设备维护或技术员岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Textile manufacturing machine operators face dual challenges from automation and AI-assisted approaches. Routine monitoring tasks are easily replaced, but the need for handling complex issues and quality optimization is increasing, resulting in overall risks that are moderate to high.
+
+Promotion from junior operator to senior operator, production line leader, or quality inspector; Through training, you can transition to equipment maintenance or technician positions.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of the operating status of the textile machine and recording data
+- Identify and correct common simple faults such as broken wires and skipped stitches
+- Carry out standardized quality inspections (such as fabric defect detection)
+- Operate automated dyeing machines for color mixing and scheduling
+
+**Where AI augments the role:**
+
+- AI vision systems are used for high-precision defect detection and sorting
+- Optimize process parameters through data analysis to improve product quality and production efficiency
+- Collaborating with robots for material handling and recoil reeling operations
+- Remote maintenance guidance is provided using augmented reality (AR) devices
+
+**Human moat:**
+
+- Hands-on ability to handle non-standard and complex machine failures
+- Adjust the process based on soft experience such as fabric texture and color deviation
+- Communicate customized product requirements with designers and engineers
+- Quick decision-making and on-site coordination during sudden downtime
+
+**Skills to build:**
+
+- Basic programming and PLC controller operation
+- Data analysis and statistical process control (SPC)
+- Automation and robot collaborative operation skills
+- Mechanical maintenance and preventive maintenance
+- Use of Quality Management System (QMS).
+- Digital twin simulation tool applications
+
+**Key growth areas:**
 
 - Automation
 - Technical Textiles
@@ -65,65 +98,67 @@ Operates textile machines (looms, knitting, dyeing) for fabric production, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需法国雇主提供工作合同，并经劳动局审核优先雇佣本地人。 |
-| Subclass Talent Professionnel（Passeport Talent - Professionnel） | 适用于高技能或短缺职业，但此职业通常不符条件。 |
+| Subclass Salarié (Salarié (Employee)) | A work contract must be provided by a French employer, and local workers must be given priority after review by the Labor Bureau. |
+| Subclass Talent Professionnel (Passeport Talent - Professionnel) | Suitable for high-skilled or shortage occupations, but these professions often do not meet the requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Product Manufacturing Machine Operator？**
-- 喜欢动手操作机器、工作规律的人
-- 注重细节、能完成重复性任务
-- 愿意在制造业环境工作，适应轮班
+**Who is suited**
+- People who enjoy operating machines and maintain a regular work schedule
+- Attention to detail and ability to complete repetitive tasks
+- Willing to work in a manufacturing environment and adapt to shift work
 
-**谁不适合学Textile Product Manufacturing Machine Operator？**
-- 不喜欢体力劳动或站立工作
-- 希望高薪或快速晋升
+**Who is not suited**
+- Dislikes physical labor or standing work
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for textile machine operators?**
+A: The pre-tax annual salary for entry-level employees is about 22,000-26,000 euros, intermediate salaries 26,000-31,000 euros, and senior salaries 31,000-37,000 euros.
+
+**Q: Can foreigners immigrate to France through this profession?**
+A: It is difficult; this is not a shortage occupation; employers must prove they cannot find EU candidates, making it difficult to obtain work visas.
+
+**Q: What qualifications are required?**
+A: Typically, a CAP or BTS diploma is required, or professional qualification certification is obtained through apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile Product Manufacturing Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a textile machine operator?**
-答：Entry-level annual gross salary is €22,000-26,000, mid-level €26,000-31,000, senior €31,000-37,000.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：It is difficult as the occupation is not in shortage; employers must prove no EU candidate available, making work visa challenging.
-
-**问：What education is required?**
-答：Typically a CAP or BTS diploma, or vocational qualification through apprenticeship.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

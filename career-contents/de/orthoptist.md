@@ -1,60 +1,94 @@
-# Orthoptist（Orthoptist）职业分析 · DE
+# Orthoptist — career analysis · Germany
 
-**职业代码：8113 – Orthoptist。**
+**Occupation code: 8113 (KldB)**
 
-Orthoptists are specialized eye care professionals who diagnose and treat visual disorders such as strabismus and amblyopia, improving binocular vision through non-surgical methods.
+Orthoptic vision therapist is a specialised profession in the ophthalmology field, responsible for diagnosing and treating visual dysfunctions such as strabismus and amblyopia, improving patients' binocular coordination and visual perception through non-surgical methods.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 正畸视轴矫正师培训（Ausbildung） | 3年 | —（双元制培训期间由医院/诊所支付津贴，学校可能收取少量教材费） |
-| 本科或硕士后进修 | 2年（硕士后进修） | $3,000~$15,000（部分大学开设硕士后进修课程，费用因校而异） |
+| Orthodontic visual axis correction training (Ausbildung) | 3 years | $0~$500 (During the dual training program, allowances are paid by the hospital/clinic; schools may charge a small fee for materials.) |
+| Postgraduate study after bachelor's or master's degree | 2 years (post-master's further study) | $3,000~$15,000 (Some universities offer postgraduate courses; fees vary by institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 正畸视轴矫正师执业许可证 | 德国各州卫生局 | 必备 | 完成国家认证的培训并通过州级考试后颁发，无此证不得独立执业 |
-| 学位认证（Annerkennung） | 德国认证机构（如Zuständige Stelle） | 必备 | 非欧盟学历需经过资质认证程序，证明与德国培训等同 |
+| Orthodontic vision therapist license | German state health authorities | Required | Issued after completing nationally accredited training and passing state-level exams; independent practice is not permitted without this certificate |
+| Degree recognition (Annerkennung) | German certification body (e.g., Zuständige Stelle) | Required | Non-EU qualifications require a credential assessment process to prove equivalence to German training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。德国人口老龄化导致眼科疾病增加，正畸视轴矫正师需求稳步上升。该职业在公立医院和私人诊所均有较高需求，被视为医疗体系中的稳定岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Germany's aging population leads to an increase in eye diseases, and the demand for orthoptic therapists is steadily rising. This occupation is in high demand in both public hospitals and private clinics, considered a stable position in the healthcare system.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 公立医院薪资按TVöD或TV-L标准，约E9级 |
-| 中级（4-9年） | $40,000~$50,000 | 随经验增长，可升至高一级别 |
-| 高级（10年+） | $50,000~$65,000 | 担任领导职务或专长领域，可达E13级 |
+| Median salary | $37,944 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Public hospital salaries follow TVöD or TV-L standards, approximately E9 level |
+| Intermediate (4-9 years) | $40,000~$50,000 | Can advance to a higher level with experience |
+| Senior (10+ years) | $50,000~$65,000 | For leadership roles or specialized fields, up to E13 level. |
+| average salary | $38,892 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括从助理治疗师到高级正畸师，可转向儿童眼科或神经眼科专长，或晋升为科室主管。继续教育可获硕士学位，提升科研或教学能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Orthoptic strabismus correctionists face efficiency gains from AI-assisted diagnostics, but core diagnosis and treatment decisions rely on human experience; the occupation overall carries medium risk, requiring proactive learning of AI tools to remain competitive.
+
+Career development paths include from assistant therapist to senior orthoptist, can specialize in pediatric ophthalmology or neuro-ophthalmology, or advance to department supervisor. Continuing education can lead to a master's degree, enhancing research or teaching capabilities.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyze eye movement videos and generate preliminary reports
+- Uses AI algorithms to automatically measure strabismus angles
+- Database-based case data entry and filing
+- Automated execution of standardized vision screening tests
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic system provides strabismus type predictions, accelerating decision-making
+- Virtual reality tools for patient binocular coordination training
+- Big data analytics helps develop personalized treatment plans
+- Remote diagnosis platforms expand patient reach
+- Real-time vision tracking technology optimizes treatment progress monitoring
+
+**Human moat:**
+
+- Clinical judgment and treatment planning for complex cases
+- Doctor-patient communication and psychological support
+- Patient guidance and building rapport with pediatric patients
+- Professional decision-making authority in multidisciplinary collaboration
+
+**Skills to build:**
+
+- operation and interpretation of AI diagnostic tools
+- Data analysis basics (Python/R)
+- Virtual reality rehabilitation technology applications
+- Use of remote medical collaboration platform
+- Latest research and evidence updates in ophthalmology
+- Ethical decision-making and data privacy protection
+
+**Key growth areas:**
 
 - aging population
 - ophthalmology demand
@@ -63,69 +97,68 @@ Orthoptists are specialized eye care professionals who diagnose and treat visual
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于紧缺职业，年薪门槛约43,800欧元（2024年），正畸师符合条件 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 持有认可学历或资质，可获居留许可，无年薪下限要求 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许找工一年，适合资质认证中的人员 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to shortage occupations with an annual salary threshold of approximately €43,800 (2024); orthodontists qualify. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a recognized degree or qualification, can obtain a residence permit, no minimum annual salary requirement |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, allows one year to find work, suitable for those in the process of qualification certification |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthoptist？**
-- 对眼科和视觉科学有浓厚兴趣，愿意从事精细检查与治疗工作
-- 具备良好沟通能力，能耐心指导儿童患者
-- 希望从事医疗行业但不想成为医生或验光师
-
-**谁不适合学Orthoptist？**
-- 追求高薪且希望快速晋升的人群
-- 对重复性医疗检查或长时间面对患者感到厌倦
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in ophthalmology and vision science, willing to perform detailed examinations and treatments
+- Good communication skills, able to patiently guide paediatric patients
+- Wish to enter healthcare but not as a doctor or optician
+
+**Who is not suited**
+- People seeking high salary and quick promotion
+- Tired of repetitive medical examinations or long hours facing patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of an orthodontic axis corrector in Germany?**
+A: Entry-level approx. €32,000–40,000, mid-level €40,000–50,000, senior up to €65,000. Public hospital salaries follow collective agreements; private clinics are slightly higher.
+
+**Q: How to become an orthodontic therapist in Germany with a non-EU degree?**
+A: Requires qualification recognition (Annerkennung), where a professional recognition body assesses equivalence of qualifications. May require adaptation courses or exams. Then can apply for Blue Card or skilled migration visa.
+
+**Q: What are the career prospects for orthoptists?**
+A: Can progress from clinical therapist to specialization in pediatric or neuro-ophthalmology, or advance to department supervisor. Further education for a master's degree enables research or teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Orthoptist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for orthoptists in Germany?**
-答：Entry-level: €32,000-€40,000; mid-career: €40,000-€50,000; senior: up to €65,000. Public hospitals follow collective agreements; private clinics may offer more.
-
-**问：How can non-EU qualifications lead to becoming an orthoptist in Germany?**
-答：You need a qualification recognition procedure (Anerkennung), assessed by the competent authority. Adaptation courses or exams may be required. Then you can apply for an EU Blue Card or Skilled Worker visa.
-
-**问：What are the career prospects for orthoptists?**
-答：You can specialize in pediatric or neuro-ophthalmology, become a department head, or pursue a master's degree for research or teaching roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

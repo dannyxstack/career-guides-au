@@ -1,68 +1,98 @@
-# 兽医（Veterinarian）职业分析 · 澳大利亚
+# Veterinarian — career analysis · Australia
 
-**职业代码：234711 – Veterinarian。**
+**Occupation code: 234711 (ANZSCO)**
 
-兽医负责宠物、农场牲畜和野生动物的医疗诊断、治疗和预防保健。澳大利亚宠物经济快速增长和农村大型动物兽医严重短缺推动需求持续上升，是MLTSSL在列的紧缺职业。
+Veterinarians provide medical diagnosis, treatment and preventive care for companion animals, farm livestock and wildlife. Demand continues to rise driven by rapid growth in Australia's pet economy and a severe shortage of large-animal vets in rural areas; it is a listed shortage occupation on the MLTSSL.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Doctor of Veterinary Medicine / BVSc（5~6年） | 5~6年（全日制） | $30,000~$300,000（澳洲国际生约 $50,000~$60,000/年；政府补贴名额学费约 $9,000/年） |
-| 海外资历评估（AVBC + AHPRA注册） | 6~18个月 | $2,000~$8,000（含 Australasian Veterinary Boards Council 评估费和AHPRA注册费） |
+| Doctor of Veterinary Medicine / BVSc (5–6 years) | 5–6 years (full-time) | $30,000~$300,000 (International students in Australia approx. $50,000–$60,000/year; government-subsidised places approx. $9,000/year in tuition) |
+| Overseas qualifications assessment (AVBC + AHPRA registration) | 6–18 months | $2,000~$8,000 (Including Australasian Veterinary Boards Council assessment fees and AHPRA registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BVSc / Doctor of Veterinary Medicine | 认可大学 | 必备 | AHPRA/AVBC注册基础学历 |
-| AHPRA Veterinarian Registration | AHPRA / 各州兽医委员会 | 必备 | 全国统一注册，部分州由专属机构管理 |
-| AVBC（Australasian Veterinary Boards Council）评估 | AVBC | 可选 | 海外兽医学历评估，确认是否达到澳洲标准 |
-| 专科兽医资质（肿瘤/眼科/骨科等） | 各专科学会 | 可选 | 额外3~5年培训，薪资大幅提升 |
+| BVSc / Doctor of Veterinary Medicine | Recognised university | Required | Basic qualification required for AHPRA/AVBC registration |
+| AHPRA Veterinarian Registration | AHPRA / State Veterinary Boards | Required | Nationally unified registration; some states are administered by a dedicated body |
+| AVBC (Australasian Veterinary Boards Council) assessment | AVBC | Optional | Overseas veterinary qualification assessment to confirm whether it meets Australian standards |
+| Specialist veterinary qualifications (oncology / ophthalmology / orthopaedics, etc.) | Specialist medical colleges | Optional | Additional 3–5 years of training with significant salary increase |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 14,000。JSA 预测兽医至2035年就业增长约20%。宠物人文化趋势（COVID后宠物拥有量增加25%）和农村大型动物兽医严重短缺是主要驱动力。
+**Job demand: very high (★★★★★).** National workforce approx. 14,000. JSA forecasts veterinary employment to grow approximately 20% by 2035. The key drivers are the humanisation of pets trend (pet ownership up 25% post-COVID) and a severe shortage of large-animal vets in rural areas.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~1,600 个 | 全国，含宠物诊所、大型动物、农村和急诊兽医岗 |
-| Indeed | 500~1,000 个 | 含兼职和合同工 |
-| LinkedIn | 200~500 个 | 偏专科和科研岗 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册兽医（0~2年） | $70,000~$90,000 | 宠物诊所入门，含基本薪 |
-| 中级兽医（2~8年） | $90,000~$130,000 | Indeed 平均 $119,124；SEEK 区间 $90k~$130k（2026） |
-| 资深兽医 / 诊所主任（8年+） | $130,000~$200,000 | 持股诊所收益叠加，资深宠物兽医 $140k~$200k |
-| 专科兽医（肿瘤/骨科/眼科） | $180,000~$300,000 | 专科资质后薪资显著高于全科兽医 |
-| 农村/大型动物兽医 | $100,000~$160,000 | 农村短缺溢价明显，含住房/车辆补贴，实际待遇优于城市 |
+| Median salary | $125,476 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered veterinarian (0–2 years) | $70,000~$90,000 | Entry-level veterinary clinic role, inclusive of base salary |
+| Mid-level veterinarian (2–8 years) | $90,000~$130,000 | Indeed average $119,124; SEEK range $90k–$130k (2026) |
+| Senior veterinarian / clinic director (8+ years) | $130,000~$200,000 | With equity clinic earnings stacked on top, senior veterinarians can earn $140k–$200k |
+| Specialist Veterinarian (Oncology/Orthopaedics/Ophthalmology) | $180,000~$300,000 | Post-specialist qualifications attract significantly higher salaries than general practice veterinarians |
+| Rural / Large Animal Veterinarian | $100,000~$160,000 | A clear regional shortage premium, including housing and vehicle allowances, with overall conditions exceeding those in major cities |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 宠物主人越来越愿意为宠物支付专科治疗费用（肿瘤、骨科、心脏病），推高专科兽医薪资。农村大型动物兽医极度短缺，享PR快速通道。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
+
+Pet owners are increasingly willing to pay for specialist treatments (oncology, orthopaedics, cardiology), driving up specialist vet salaries. Large-animal vets in rural areas are in severe shortage and benefit from fast-track PR pathways.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of imaging (X-ray/ultrasound) assisted by AI
+- Standardized medical record entry and prescription generation
+- Automated appointment management for routine vaccinations and deworming
+- Automated interpretation of lab sample analysis (blood count/chemistry)
+- Simple symptom consultation in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide reference for rare case identification
+- Robot-assisted surgery improves precision in minimally invasive procedures
+- Continuous monitoring of patient rehabilitation data via smart wearable devices
+- Big data analytics to predict disease outbreaks and medication trends
+- Personalized medical plan generation (based on genetics and medical history)
+
+**Human moat:**
+
+- Manual dexterity and adaptability in complex surgeries
+- Empathetic communication and trust-building with pet owners.
+- Cross-species clinical judgment (especially for large animals)
+- Ethical decisions (e.g., timing of euthanasia)
+- On-site handling ability in emergency situations
+
+**Skills to build:**
+
+- Operating AI diagnostic imaging tools and verifying results
+- Telemedicine platform usage and data analysis
+- Genomics and precision medicine knowledge
+- Basics of animal behavior and psychology
+- Advanced management of digital health records (EHR)
+- Surgical Robot Collaboration Skills
+
+**Key growth areas:**
 
 - Small Animal/Pet Clinic
 - Emergency & Specialist Vet
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，兽医为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，农村大型动物兽医享优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区兽医服务，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; veterinarian is a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; priority for large-animal veterinarians in rural areas |
+| Subclass 491 (Skilled Work Regional) | Rural and remote veterinary services, nomination adds 15 points |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学兽医？**
-- 已持有国内兽医学位（5~6年制），希望来澳执业
-- 英语能力达到 OET B / IELTS 7.0+
-- 喜欢动物，有耐心和爱心
-- 接受农村大型动物兽医（PR最快通道）
-- 目标是宠物诊所合伙人或专科兽医培训
-
-**谁不适合学兽医？**
-- 对动物不感兴趣或有动物过敏
-- 英语能力较弱，难以通过AVBC评估
-- 无法接受农村或急诊兽医的高强度工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds a domestic veterinary degree (5–6 year programme) and wishes to practise in Australia
+- English proficiency at OET B / IELTS 7.0+
+- Loves animals and is patient and caring
+- Open to rural large-animal veterinary roles (fastest pathway to PR)
+- Goal is to become a veterinary clinic partner or pursue specialist veterinary training
+
+**Who is not suited**
+- No interest in animals or allergic to animals
+- Weaker English proficiency makes it difficult to pass the AVBC assessment
+- Unable to manage the high-intensity demands of rural or emergency veterinary work
+
+---
+
+## 8. FAQ
+
+**Q: How much do veterinarians earn in Australia?**
+A: Mid-level veterinarians earn approximately $90,000–$130,000 per year (Indeed average $119,124); rural large-animal vets earn around $100k–$160k (including allowances); specialist vets (oncology/orthopaedics) can earn $180k–$300k.
+
+**Q: Is it easy to find work as a veterinarian in Australia?**
+A: Very easy. There are severe shortages at both pet clinics and rural large-animal veterinary practices. Registered vets can secure a position almost immediately, and rural practices often offer housing and vehicle allowances to attract talent.
+
+**Q: Are veterinary degrees from overseas recognised in Australia?**
+A: Through AVBC (Australasian Veterinary Boards Council) assessment, confirm educational standards then apply for registration with each state's veterinary board. Process takes about 6-18 months; graduates from some schools can register directly.
+
+**Q: Will veterinarians be replaced by AI?**
+A: Replacement risk is very low. Animals cannot describe their symptoms, so veterinarians rely heavily on physical examination and communication with owners. Surgical procedures and emotional support are core services that AI cannot replace.
+
+**Q: Are there age restrictions for veterinarians in Australia?**
+A: There is no upper age limit for practice. Large-animal veterinary work in rural areas has some physical demands, but urban companion-animal clinics have no significant age restrictions.
+
+**Q: What qualifications do veterinarians need in Australia?**
+A: A veterinary degree (BVSc or Doctor of Veterinary Medicine, typically 5–6 years) is required. Veterinary graduates from a 5-year bilingual program may apply for an AVBC assessment.
+
+**Q: Is veterinary registration in Australia difficult?**
+A: Moderate to high difficulty. The AVBC assessment is primarily an academic review (not a rigorous examination), but the process takes considerable time. English proficiency (OET B / IELTS 7.0+) is the most common barrier.
+
+**Q: Which is more suitable for migrating to Australia — veterinarian or general practitioner?**
+A: GP salaries are far higher than veterinarians ($250k–$500k+ vs $90k–$160k), but registration is more complex (AMC vs AVBC). Those with a veterinary degree are better off pursuing the veterinary pathway; those with a human medicine background should pursue the GP pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA / Vet Boards | 兽医注册要求 |
-| AVBC | 海外兽医学历评估 |
-| Indeed AU | 兽医平均薪资 $119,124（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中高（★★★★☆） |
-
-兽医的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲兽医工资多少？**
-答：中级兽医年薪约 $90,000~$130,000（Indeed平均$119,124）；农村大型动物兽医约 $100k~$160k（含补贴）；专科兽医（肿瘤/骨科）可达 $180k~$300k。
-
-**问：澳洲兽医容易找工作吗？**
-答：极容易。宠物诊所和农村大型动物兽医均极度短缺，注册后几乎立即入职，农村兽医甚至提供住房和车辆补贴吸引人才。
-
-**问：中国兽医学位澳洲认可吗？**
-答：通过 AVBC（澳洲亚太兽医委员会）评估，确认学历标准后申请各州兽医委员会注册。周期约6~18个月，部分学校毕业生可直接注册。
-
-**问：兽医会被AI替代吗？**
-答：替代风险极低。动物无法表达症状，医生高度依赖体检和主人沟通。手术操作和情感支持是AI无法替代的核心服务。
-
-**问：澳洲兽医有年龄限制吗？**
-答：无执业年龄上限。农村大型动物兽医有一定体力要求，但城市宠物诊所对年龄无明显限制。
-
-**问：澳洲兽医需要什么学历？**
-答：需要兽医学位（BVSc或Doctor of Veterinary Medicine，通常5~6年制）。国内兽医学（5年制，双语）可申请AVBC评估。
-
-**问：澳洲兽医认证难吗？**
-答：难度中高。AVBC评估主要是学历审核（非高难度考试），但周期较长。英语要求（OET B/IELTS 7.0+）是最常见障碍。
-
-**问：兽医和全科医生哪个更适合移民澳洲？**
-答：全科医生薪资远高于兽医（$250k~$500k+ vs $90k~$160k），但认证更复杂（AMC vs AVBC）。有兽医学位者走兽医路径效率更高；有人类医学背景者走全科医生路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

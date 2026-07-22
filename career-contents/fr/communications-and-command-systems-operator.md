@@ -1,60 +1,93 @@
-# Communications and Command Systems Operator（Communications and Command Systems Operator）职业分析 · FR
+# Communications and Command Systems Operator — career analysis · France
 
-**职业代码：M1807 – Communications and Command Systems Operator。**
+**Occupation code: M1807 (ROME)**
 
-Operates and maintains communication and command systems to ensure information transmission and coordination in military or civilian command centers.
+Responsible for operating and maintaining communication and command systems, ensuring information transmission and coordination in military or civilian command centers.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+军事培训 | 1年（军事基础训练） | —（军队提供免费培训） |
-| BTS信息系统 | 2年（BTS） | $500~$5,000（公立学校低学费，私立较高） |
+| High school graduation + military training | 1 year (Basic Military Training) | $0~$0 (The military provides free training) |
+| BTS Information System | 2 Years (BTS) | $500~$5,000 (Public schools have lower tuition fees, while private ones offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军事通信操作员资格 | 法国军队 | 必备 | 完成基础军事训练和通信专业课程 |
-| 安全许可（Secret） | 法国国家安全局 | 必备 | 处理机密信息必需 |
+| Military communications operator qualification | French army | Required | Complete basic military training and communications courses |
+| Secret License | French National Security Agency | Required | Essential for handling confidential information |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国军队和公共安全部门对通信系统操作员需求稳定，数字化转型带来新机遇，但岗位竞争激烈。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. The French military and public safety departments have stable demand for communication system operators, and digital transformation brings new opportunities, but competition for positions remains fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含军事津贴 |
-| 中级（4-7年） | $30,000~$38,000 | 税前年薪，含技术津贴 |
-| 高级（8年以上） | $38,000~$45,000 | 税前年薪，含主管津贴 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, including military allowances |
+| Mid-level (4-7 years) | $30,000~$38,000 | Pre-tax annual salary, including technical allowance |
+| Senior (8+ years) | $38,000~$45,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $52,500 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级操作员晋升至团队主管或系统专家，部分转向网络安全或项目管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the situational awareness and decision-making support capabilities of communication and command systems, but the operator's role in control, decision-making, and emergency coordination remains critical.
+
+Employees can be promoted from junior operators to team leaders or systems specialists, with some transitioning to cybersecurity or project management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine communication signal monitoring and alarms
+- Standard report generation and log recording
+- Basic fault diagnosis and repair process
+
+**Where AI augments the role:**
+
+- Multi-source intelligence integration and situational analysis
+- AI-assisted decision support and action recommendations
+- Automated communication scheduling and resource allocation
+- Predictive maintenance and system health monitoring
+- Simulation simulation and scenario generation for training
+
+**Human moat:**
+
+- Ultimate decision-making and delegated responsibility
+- Adaptive judgment in complex crises
+- Cross-departmental coordination and on-site command
+- Ethics and regulatory compliance review
+
+**Skills to build:**
+
+- AI/ML fundamentals and data literacy
+- Information Security and Network Defense
+- Multi-domain communication system integration
+- Human-computer interaction and AI collaborative design
+- Crisis Management and Emergency Psychology
+- System modeling and simulation
+
+**Key growth areas:**
 
 - Digital Transformation
 - Military Communication
@@ -63,65 +96,67 @@ Operates and maintains communication and command systems to ensure information t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇于法国国防相关企业，需雇主担保，竞争激烈。 |
-| Subclass Passeport Talent（Passeport Talent） | 若具备高技能（如网络安全专家），可申请人才护照，但岗位多限法国公民。 |
+| Subclass Salarié (Salarié) | Employed by French defense-related companies, requiring employer sponsorship, competition is fierce. |
+| Subclass Passeport Talent (Passeport Talent) | If highly skilled (e.g., cybersecurity expert), can apply for the Talent Passport, but most positions are limited to French citizens. |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Communications and Command Systems Operator？**
-- 对通信技术有浓厚兴趣，喜欢操作复杂系统
-- 纪律性强，能适应轮班和高压环境
-- 愿意在军事或安全部门长期发展
+**Who is suited**
+- Strong interest in communication technology and enjoys operating complex systems
+- Highly disciplined, able to adapt to shift work and high-pressure environments
+- Willing to develop long-term in the military or security sector
 
-**谁不适合学Communications and Command Systems Operator？**
-- 不愿接受严格纪律和体能训练
-- 希望自由度高、非军事化的工作环境
+**Who is not suited**
+- Unwilling to undergo strict discipline and physical training
+- We want a highly flexible, demilitarized work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for communications and command system operators?**
+A: Entry-level annual salary about 24,000-30,000 euros, mid-level 30,000-38,000 euros, senior 38,000-45,000 euros (pre-tax).
+
+**Q: Can foreigners apply for this position?**
+A: Restricted; most roles require French nationality or EU citizenship; migration from third countries is nearly impossible.
+
+**Q: What are the advancement pathways?**
+A: Employees can be promoted from operator to system supervisor, technical expert, or transition to cybersecurity or command center project management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Communications and Command Systems Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Communications and Command Systems Operators?**
-答：Entry-level annual salary is about €24,000-30,000, mid-level €30,000-38,000, senior €38,000-45,000 (gross).
-
-**问：Can foreigners apply for this position?**
-答：Limited; most positions require French or EU citizenship, making third-country migration nearly impossible.
-
-**问：What are the career advancement paths?**
-答：Can progress from operator to team supervisor, technical specialist, or transition to cybersecurity or command center project management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

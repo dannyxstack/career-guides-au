@@ -1,61 +1,96 @@
-# Web and Multimedia Developer（Web and Multimedia Developer）职业分析 · NL
+# Web and Multimedia Developer — career analysis · Netherlands
 
-**职业代码：2513 – Web and Multimedia Developer。**
+**Occupation code: 2513 (ISCO08)**
 
-Web and Multimedia Developers design, build, and maintain websites and multimedia applications using technologies like HTML, CSS, and JavaScript, ensuring user experience and functionality.
+Web and multimedia developers design, build and maintain websites and multimedia applications, using HTML, CSS, JavaScript and other technologies to ensure user experience and functionality.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育（应用科学大学） | 4年（学士） | $2,000~$15,000（学费因院校和国籍而异，欧盟学生约2000欧元/年，非欧盟学生约8000-15000欧元/年） |
-| 职业教育（MBO-4级） | 2-3年 | $1,000~$5,000（MBO课程学费较低，约1000-5000欧元/年） |
+| Higher education (University of Applied Sciences) | 4 years (bachelor's) | $2,000~$15,000 (Tuition fees vary by institution and nationality, approximately 2000 EUR/year for EU students and 8000-15000 EUR/year for non-EU students) |
+| Vocational education (MBO-4 level) | 2-3 years | $1,000~$5,000 (MBO course fees are relatively low, about 1000-5000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术学士学位 | 应用科学大学或研究型大学 | 可选 | 相关专业如计算机科学、媒体技术等 |
-| MBO-4级文凭 | 区域职业培训中心 | 可选 | 完成中等职业教育课程 |
-| 行业认证 | 如Coursera、Udemy等在线平台 | 可选 | 额外的认证可以提高就业竞争力 |
+| Bachelor's degree in Information Technology | Universities of Applied Sciences or research universities | Optional | Related fields such as Computer Science, Media Technology, etc. |
+| MBO-4 level diploma | Regional Vocational Training Center | Optional | Complete secondary vocational education courses |
+| Industry certifications | Online platforms such as Coursera, Udemy | Optional | Additional certifications can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。荷兰数字化转型推动IT行业持续增长，网页与多媒体开发人员需求旺盛，预计未来几年就业机会将稳步增加。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. The digital transformation in the Netherlands is driving continuous growth in the IT sector, with strong demand for web and multimedia developers, and employment opportunities are expected to increase steadily in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 税前年薪，包括假期津贴 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪，通常包括奖金 |
-| 高级（7年以上） | $65,000~$90,000 | 税前年薪，资深专家或领导角色 |
+| Median salary | $68,765 | Median salary (official: CBS median hourly wage €34.8/hour × 1,976 hours annualized, BRC group 0811 Software- en applicatieontwikkel...; P25–P75 €53,352–€85,758, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$45,000 | Annual pre-tax salary, including holiday allowance |
+| Mid-level (3–7 years) | $45,000~$65,000 | Pre-tax annual salary, usually including bonuses |
+| Senior (7+ years) | $65,000~$90,000 | Pre-tax annual salary, senior expert or leadership role |
+| average salary | $56,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业生涯可从初级开发者晋升为高级开发者、团队领导或技术架构师，也可转向产品管理或创业。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Tasks for web and multimedia developers are polarizing: coding and debugging can be largely automated by AI, but creative design, client communication, and system integration still require human input; the overall role will not disappear, but the skill focus shifts toward advanced integration
+
+A career can progress from junior developer to senior developer, team lead, or technical architect, or move into product management or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Using HTML/CSS to generate standardized page layouts
+- Writing common JavaScript interactive features (e.g., carousels, form validation)
+- Fixing simple browser compatibility bugs
+- Creating basic responsive designs.
+- Basic CRUD operations on databases
+
+**Where AI augments the role:**
+
+- Use AI code assistants to speed up prototyping and refactoring
+- Generate multiple design options through AI and iterate quickly
+- AI-assisted accessibility compliance checking and performance optimisation
+- Use AI tools to automatically generate API documentation and test cases
+- AI-driven user behavior analysis optimizes interaction experience
+
+**Human moat:**
+
+- Cross-platform system integration and architecture decisions
+- Complex interactive experience design and innovation
+- Client needs communication and project management
+- Security compliance and data privacy control
+
+**Skills to build:**
+
+- Advanced JavaScript frameworks (React/Vue/Angular)
+- Cloud services and API integration (AWS Lambda, REST/GraphQL)
+- AI/ML basics and applications (e.g., TensorFlow.js)
+- Full-stack development (Node.js, database optimization)
+- User experience research and design tools
+- DevOps and CI/CD Pipelines
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-commerce
@@ -64,66 +99,68 @@ Web and Multimedia Developers design, build, and maintain websites and multimedi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟公民，需有工作合同且工资达到门槛（2024年约€3,909/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，要求高等教育学位和高于平均水平的工资（约€5,300/月） |
-| Subclass Orientation Year (Zo（Orientation Year） | 适用于在荷兰或指定国家毕业的留学生，允许在该国居留一年寻找工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Available for highly skilled non-EU citizens; requires a work contract and salary meeting the threshold (approx. €3,909/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a higher education degree and above-average salary (approximately €5,300/month) |
+| Subclass Orientation Year (Zo (Orientation Year) | For graduates who have completed their studies in the Netherlands or designated countries, allowing them to stay in the country for one year to seek employment. |
+
+**PR friendliness: high (★★★★☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Web and Multimedia Developer？**
-- 对网页设计和多媒体技术有浓厚兴趣的人
-- 喜欢创意和技术结合的工作
-- 具备自学能力和解决问题的技能
+**Who is suited**
+- People with a strong interest in web design and multimedia technology
+- Enjoys a combination of creativity and technology
+- Possess self-learning ability and problem-solving skills
 
-**谁不适合学Web and Multimedia Developer？**
-- 不喜欢快速变化的技术环境
-- 不善于团队合作和沟通
+**Who is not suited**
+- Dislikes rapidly changing technology environments
+- Not good at teamwork and communication
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a web developer in the Netherlands?**
+A: Junior developers earn around €30,000–45,000 per year, mid-level around €45,000–65,000, and senior up to €90,000.
+
+**Q: How can non-EU citizens obtain a Dutch work visa?**
+A: Eligible via Highly Skilled Migrant (kennismigrant) or EU Blue Card, requiring an employment contract and meeting the salary threshold.
+
+**Q: Are Dutch web developers in high demand?**
+A: Yes, the Netherlands has a shortage of IT talent, and web developers are in high demand with good job prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Web and Multimedia Developer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for web developers in the Netherlands?**
-答：Junior developers earn around €30,000-€45,000 per year, mid-level €45,000-€65,000, and senior up to €90,000.
-
-**问：How can non-EU citizens obtain a work visa for the Netherlands?**
-答：Via the Highly Skilled Migrant (kennismigrant) or EU Blue Card, requiring a job offer and meeting salary thresholds.
-
-**问：Are web developers in shortage in the Netherlands?**
-答：Yes, the Dutch IT sector faces a talent shortage, and web developers are in demand with good job prospects.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

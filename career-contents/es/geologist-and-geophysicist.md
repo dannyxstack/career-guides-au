@@ -1,59 +1,92 @@
-# Geologist And Geophysicist（Geologist And Geophysicist）职业分析 · ES
+# Geologist And Geophysicist — career analysis · Spain
 
-**职业代码：2414 – Geologist And Geophysicist。**
+**Occupation code: 2414 (CNO)**
 
-Geologists and geophysicists study the Earth's physical properties, structure, and composition, involved in resource exploration, geological hazard assessment, environmental consulting, and energy development. In Spain, they work mainly in mining, oil & gas, renewable energy, and construction.
+Geologists and geophysicists study the Earth's physical properties, structure, and composition, involving resource exploration, geological disaster assessment, environmental consulting, and energy development. In Spain, this profession mainly serves the mining, oil and gas, renewable energy, and construction industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$4,000（公立大学学费） |
-| 硕士（Máster） | 1-2年 | $1,500~$6,000（公立大学，部分专业费用较高） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public university tuition) |
+| Máster | 1-2 years | $1,500~$6,000 (Public universities have higher fees for some majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地质学或地球物理学学士学位 | 西班牙大学 | 必备 | 注册成为地质学家需完成官方学位 |
-| 官方专业协会注册 | Colegio de Geólogos（地质师协会） | 可选 | 非强制，但有助于就业和签署项目 |
-| 博士学历（研究员方向） | 西班牙大学 | 可选 | 高校或研究中心职位要求 |
+| Bachelor's degree in geology or geophysics | Spanish University | Required | Registering as a geologist requires completing an official degree |
+| Registered with official professional associations | Colegio de Geólogos (Association of Geologists) | Optional | Non-mandatory, but helps with employment and signing projects |
+| PhD Degree (Researcher Direction) | Spanish University | Optional | Job requirements for universities or research centers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。西班牙正加速能源转型，推动地热和碳封存项目；同时矿产勘探（如锂、铜）需求增长。就业机会集中在大公司、咨询公司及研究机构，但受项目周期影响较大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Spain is accelerating its energy transition, promoting geothermal and carbon sequestration projects; At the same time, demand for mineral exploration (such as lithium and copper) increased. Job opportunities are concentrated in large companies, consulting firms, and research institutions, but are greatly affected by project cycles.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，含津贴 |
-| 中级（4-7年） | $35,000~$50,000 | 税前年薪，项目奖金另计 |
-| 高级（8年以上） | $50,000~$75,000 | 项目经理或技术总监 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary, including allowances |
+| Mid-level (4-7 years) | $35,000~$50,000 | Pre-tax annual salary, project bonuses calculated separately |
+| Senior (8+ years) | $50,000~$75,000 | Project manager or technical director |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级地质/地球物理师可晋升为项目负责人或技术专家；后期可转向管理岗或创办咨询公司。拥有博士学位者可在高校或研究中心任职。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Junior Geologists/Geophysicists can be promoted to project leaders or technical experts; Later, they can transition to management roles or start consulting firms. Those with a doctoral degree can work at universities or research centers.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Geothermal Energy
 - Critical Minerals
@@ -62,68 +95,67 @@ Geologists and geophysicists study the Earth's physical properties, structure, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历及工作合同，薪资门槛约€33,900/年。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对研究生或三年以上工作经验，公司申请，审批快。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保，适用于普通岗位。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with a salary threshold of about €33,900 per year. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For graduate students or those with more than three years of work experience, companies can apply and approve quickly. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employment-based residence requires employer sponsorship and applies to general positions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geologist And Geophysicist？**
-- 对地球系统科学有浓厚兴趣，乐于户外工作及出差
-- 具备物理、数学和计算机建模能力
-- 希望进入能源、矿业或环境咨询行业
-
-**谁不适合学Geologist And Geophysicist？**
-- 偏好稳定办公环境，无法接受频繁野外工作
-- 不喜欢长时间项目周期和不确定性
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- He has a strong interest in Earth system science and enjoys working outdoors and traveling
+- Proficiency in physics, mathematics, and computer modeling
+- Those hoping to enter the energy, mining, or environmental consulting industries
+
+**Who is not suited**
+- Prefers stable office environments and cannot accept frequent field work
+- Dislikes long project cycles and uncertainty
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geologists?**
+A: Junior geologists earn about €25,000–€35,000 annually, with senior geologists earning over €75,000. Project bonuses and overseas allowances are common.
+
+**Q: How can third-country citizens immigrate to Spain to work in geological work?**
+A: The most feasible is the EU Blue Card or Highly Skilled Professional visa, which requires employment by a Spanish company and salary requirements. Academic qualifications must be officially recognized (homologación) or directly recognized based on the degree.
+
+**Q: Which universities in Spain have good geology majors?**
+A: Complutense University of Madrid (UCM), University of Barcelona (UB), University of Granada (UGR), and University of Salamanca (USAL) have strong geological strengths.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Geologist And Geophysicist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geologists?**
-答：Entry-level geologists earn around €25,000-€35,000 annually; senior roles can exceed €75,000. Project bonuses and overseas allowances are common.
-
-**问：How can third-country nationals migrate to Spain as geologists?**
-答：The most viable paths are the EU Blue Card or Highly Skilled Professional visa, requiring a job offer with a minimum salary. Degrees must be officially recognized (homologación) or accepted directly.
-
-**问：Which Spanish universities have strong geology programs?**
-答：Complutense University of Madrid (UCM), University of Barcelona (UB), University of Granada (UGR), and University of Salamanca (USAL) are well-regarded.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Detective（Detective）职业分析 · DE
+# Detective — career analysis · Germany
 
-**职业代码：5315 – Detective。**
+**Occupation code: 5315 (KldB)**
 
-Detectives investigate criminal activities, gather evidence, surveil suspects, and assist law enforcement in solving cases. Tasks include crime scene examination, witness interviews, data analysis, and report writing.
+Detectives investigate criminal activities, gather evidence, surveil suspects, and assist law enforcement in solving cases. Job duties include crime scene investigation, witness interviews, data analysis, and report writing.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 警察培训（州警察学院） | 2-3年 | —（公立培训免费，提供津贴） |
-| 私人侦探培训（职业培训） | 2年（双元制） | —（部分课程收费，约0-5000欧元） |
+| Police training (state police academy) | 2-3 years | $0~$0 (Free public training with allowance provided) |
+| Private detective training (vocational training) | 2 years (dual system) | $0~$5,000 (Some courses charge fees of approximately 0-5000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 警察资格认证 | 各州警察学院 | 必备 | 成为公共部门侦探的必要条件 |
-| 私人侦探许可证 | 地方工商局 | 必备 | 私人侦探需申请，需通过专业考试 |
+| Police qualification certification | State Police Academies | Required | Requirements to become a public sector detective |
+| private investigator license | Local business bureau | Required | Private detectives need to apply and pass a professional exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 25,000。德国侦探就业市场稳定，受公共安全需求驱动。数字化犯罪增加带来新挑战，但也创造了专业调查岗位。竞争激烈，需通过国家考试。
+**Job demand: medium (★★★☆☆).** National workforce approx. 25,000. The German detective job market is stable, driven by public safety needs. Increasing digital crime brings new challenges but also creates specialized investigative positions. Competition is fierce, and candidates must pass a national exam.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公共部门按Tarif，私人侦探收入较低 |
-| 中级（4-9年） | $45,000~$60,000 | 含经验加成和特殊任务补贴 |
-| 高级（10年以上） | $60,000~$80,000 | 高级侦探或主管，私人侦探可达更高 |
+| Median salary | $47,376 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Public sector follows Tarif; private investigators earn less. |
+| Intermediate (4-9 years) | $45,000~$60,000 | Includes experience-based increments and special mission allowances |
+| Senior (10+ years) | $60,000~$80,000 | Senior detective or supervisor; private detective can reach higher. |
+| average salary | $51,552 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业晋升路径：从警员或私人侦探助理起步，积累经验后可晋升为高级侦探、调查主管，或转向刑侦专家、法务调查等专业方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on detectives and criminal investigators is mixed: automation will take over data analysis and document review, but core interrogation, interpersonal intuition, and on-site reasoning are hard to replace, and AI tools can actually improve case-solving efficiency.
+
+Career progression path: start as a police officer or private detective assistant, gain experience to advance to senior detective, investigation supervisor, or specialize in criminal investigation, forensic investigation, etc.
+
+**Tasks most exposed to AI:**
+
+- automated report writing and evidence document organization
+- Automatic analysis and initial identification of surveillance video
+- Pattern matching screening of phone records and financial data
+- Database search and rapid comparison of suspect backgrounds.
+- Automatic generation and format proofreading of court presentation materials
+
+**Where AI augments the role:**
+
+- AI-assisted link analysis to uncover cross-case clue patterns
+- Natural language processing for quick retrieval of case law
+- Predictive policing models indicate crime hotspots and time periods
+- Facial recognition and license plate recognition systems speed up suspect identification
+- Semantic analysis of chat documents detects covert threat signals
+
+**Human moat:**
+
+- Micro-expressions, tone, and psychological games in face-to-face interrogations
+- Intuition and experience-based judgment that cannot be quantified in field investigations
+- Building trust with informants and managing complex interpersonal relationships
+- Discretionary decisions in ethical and legal gray areas
+- Quickly adapt and lead team actions under high pressure
+
+**Skills to build:**
+
+- Digital Forensics and Electronic Evidence Recovery
+- Data visualization and statistical analysis tools
+- Basic Python or R programming for data scraping and cleaning
+- Use of AI tool chains (e.g., automated report generation software)
+- Social media intelligence mining and open-source intelligence analysis
+- Cross-departmental collaboration and technology communication skills
+
+**Key growth areas:**
 
 - Cybercrime
 - Digital Forensics
@@ -63,66 +99,68 @@ Detectives investigate criminal activities, gather evidence, surveil suspects, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 仅适用于大学学历的特定职业，侦探通常不符合 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保，侦探职位德语要求高，通常不开放 |
-| Subclass Job Seeker（Job Seeker Visa） | 可入境寻找工作，但侦探岗位对语言和文化要求极高 |
+| Subclass EU Blue Card (EU Blue Card) | Only applies to specific occupations requiring a university degree; detectives typically do not qualify. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship; German language requirement for detective positions is high, usually not open. |
+| Subclass Job Seeker (Job Seeker Visa) | Can enter to seek work, but detective roles have very high language and cultural requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Detective？**
-- 具备分析思维和观察力的人
-- 有耐心和坚韧精神，能承受压力
-- 对法律和犯罪学感兴趣
+**Who is suited**
+- People with analytical thinking and observational skills
+- Patience and resilience, able to work under pressure
+- Interested in law and criminology
 
-**谁不适合学Detective？**
-- 不擅长人际沟通和团队合作的人
-- 抗压能力差、无法适应不规律工作时间的人
+**Who is not suited**
+- People not good at interpersonal communication and teamwork
+- People with poor stress tolerance who cannot adapt to irregular working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a detective in Germany?**
+A: Public sector detective annual salary about €45,000-€60,000, private detective median around €40,000, senior manager up to €80,000+.
+
+**Q: Can foreigners become detectives in Germany?**
+A: Very difficult. Public sector detectives typically require German nationality or EU citizenship; private detectives need fluent German and local licensing, with almost no pathway for non-EU immigrants.
+
+**Q: What qualifications are needed to become a private detective in Germany?**
+A: Must obtain a private detective license from the Bureau of Industry, requiring passing a professional exam (including law, investigation techniques, etc.) and proving no criminal record.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★★☆☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Detective属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a detective in Germany?**
-答：Public sector detectives earn around €45,000-€60,000, private investigators median €40,000, senior managers up to €80,000+.
-
-**问：Can a foreigner become a detective in Germany?**
-答：Very difficult. Public detective roles require German/EU citizenship; private investigators need fluent German and local license. Non-EU migration is nearly impossible.
-
-**问：What certification is required to become a private detective in Germany?**
-答：A private investigator license from the local trade office, requiring passing an exam (law, investigation techniques) and a clean criminal record.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

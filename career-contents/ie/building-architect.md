@@ -1,60 +1,93 @@
-# Building Architect（Building Architect）职业分析 · IE
+# Building Architect — career analysis · Ireland
 
-**职业代码：2161 – Building Architect。**
+**Occupation code: 2161 (ISCO08)**
 
-Building architects design the appearance, structure, and functionality of buildings, ensuring compliance with regulations, safety, and aesthetic standards, coordinating projects from concept to construction.
+An architectural designer is responsible for designing the appearance, structure, and functionality of buildings, ensuring compliance with regulations, safety, and aesthetic requirements, and coordinating architectural projects from concept to construction.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 5年（本科） | $10,000~$20,000（欧盟学生学费较低，非欧盟较高） |
-| 硕士 | 2年（硕士） | $12,000~$25,000（部分课程为转换硕士） |
+| Bachelor's degree | 5 years (bachelor's degree) | $10,000~$20,000 (EU students have lower tuition fees, non-EU higher) |
+| Master's degree | 2 years (Master's) | $12,000~$25,000 (Some courses are conversion master's programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册建筑师 | RIAI | 必备 | 需通过实践考试和面试 |
-| RIBA认证 | RIBA | 可选 | 国际认可，非强制但有利 |
+| Registered Architect | RIAI | Required | Requires practical exam and interview |
+| RIBA accreditation | RIBA | Optional | Internationally recognized, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰建筑行业持续增长，受住房短缺和基础设施投资推动，建筑设计师需求旺盛，尤其在都柏林等城市，预计未来十年就业增长强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Ireland's construction industry continues to grow, driven by housing shortages and infrastructure investment. Demand for architectural designers is strong, especially in cities like Dublin, with strong employment growth expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$90,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$90,000 | Annual pre-tax salary |
+| average salary | $55,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级设计师可晋升为项目经理或资深建筑师，持有注册资格后可独立执业，或转至城市规划、可持续发展等领域，薪资随经验显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Junior designers can advance to project manager or senior architect, independently practice with registration, or transition to urban planning, sustainable development, etc.; salary significantly increases with experience.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Green Building
 - Urban Development
@@ -63,69 +96,68 @@ Building architects design the appearance, structure, and functionality of build
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，快速获得居留，两年后可转长期居留 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，通常先持有该许可，再转高级许可 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，薪资门槛较高，提供欧盟内流动便利 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Suitable for occupations in demand, fast-track residency, convertible to permanent residency after two years |
+| Subclass General Employment P (General Employment Permit) | Requires labor market testing, typically obtain this permit first, then transfer to advanced permit |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled workers, high salary threshold, offers mobility within the EU |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Architect？**
-- 有创意且注重细节的人
-- 对可持续设计感兴趣的人
-- 良好的沟通和项目管理能力者
-
-**谁不适合学Building Architect？**
-- 不喜欢团队协作的人
-- 对严格法规和细节缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and detail-oriented individuals
+- People interested in sustainable design
+- Those with good communication and project management skills
+
+**Who is not suited**
+- People who dislike teamwork
+- People who lack patience with strict regulations and details
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an architectural designer in Ireland?**
+A: Junior: approx. €32,000-42,000, mid-level: €45,000-60,000, senior: €65,000-90,000; registered architects earn higher.
+
+**Q: How can foreign architects migrate to Ireland?**
+A: Accessible via Critical Skills Permit (occupation in shortage) or General Permit, requiring employer sponsorship; RIAI accreditation helps with job seeking.
+
+**Q: What certifications are required to practice in Ireland?**
+A: Registration with RIAI is required, including academic qualifications, practical experience, and exams; it is not mandatory but legally required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Building Architect为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for building architects in Ireland?**
-答：Entry-level: €32k-42k, mid-level: €45k-60k, senior: €65k-90k, with registered architects earning more.
-
-**问：How can foreign architects migrate to Ireland?**
-答：Via Critical Skills Permit (shortage occupation) or General Employment Permit, requiring employer sponsorship; RIAI registration helps job hunting.
-
-**问：What certification is required to practice as an architect in Ireland?**
-答：RIAI registration is mandatory, requiring academic qualifications, practical experience, and exams.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

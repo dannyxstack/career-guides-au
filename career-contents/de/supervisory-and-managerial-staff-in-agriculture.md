@@ -1,58 +1,94 @@
-# Supervisory and Managerial Staff in Agriculture（Supervisory and Managerial Staff in Agriculture）职业分析 · DE
+# Supervisory and Managerial Staff in Agriculture — career analysis · Germany
 
-**职业代码：1119 – Supervisory and Managerial Staff in Agriculture。**
+**Occupation code: 1119 (KldB)**
 
-Responsible for planning, supervising, and managing agricultural production, including crop cultivation, livestock farming, machinery allocation, and budget control to ensure efficient farm operations.
+Responsible for agricultural production planning, supervision, and management, including crop cultivation, livestock farming, machinery allocation, and budget control to ensure efficient farm operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（农业专业） | 3年（双元制） | —（培训期间有工资，通常无需学费） |
-| 本科（农业经济/农业科学） | 3-4年 | —（公立大学免学费，仅收学期注册费） |
+| Dual vocational training (agriculture) | 3 years (dual system) | $0~$500 (Paid during training, usually no tuition fees) |
+| Bachelor's (Agricultural Economics/Agricultural Science) | 3-4 years | $0~$3,000 (Public universities are tuition-free; only semester registration fees are charged.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业大师 Meister | 德国工商业协会 IHK | 可选 | 高级职业资格，可通过考试获得 |
-| 农业技术员 | 联邦各州农业部门 | 可选 | 完成双元制培训后可选修 |
+| Agricultural Master Meister | German Chamber of Commerce and Industry (IHK) | Optional | Advanced professional qualification, obtainable through examination |
+| Agricultural technician | Federal state agriculture departments | Optional | Can be taken as an elective after completing dual-system training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。德国农业面临数字化转型和可持续发展压力，对管理人才需求稳定。大型农场和有机农业领域增长较快，但整体就业增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. German agriculture faces pressure from digital transformation and sustainability, with steady demand for management talent. Large-scale farming and organic agriculture are growing faster, but overall employment growth is slow.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，取决于农场规模和地区 |
-| 中级（3-7年） | $42,000~$52,000 | 税前年薪，包括东德较低薪资 |
-| 高级（7年以上） | $55,000~$70,000 | 税前年薪，大型农场或高级管理岗位 |
+| Median salary | $34,380 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Pre-tax annual salary, depending on farm size and region |
+| Mid-level (3–7 years) | $42,000~$52,000 | Annual salary before tax, including lower salaries in eastern Germany |
+| Senior (7+ years) | $55,000~$70,000 | Pre-tax annual salary, for large farms or senior management positions |
+| average salary | $37,956 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从农业技术员晋升为农场主管，再至农业经理或自有农场主。继续教育可获农业经济或农业工程学位，拓宽至咨询或管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Can progress from agricultural technician to farm supervisor, then to farm manager or farm owner. Further education can lead to a degree in agricultural economics or engineering, opening pathways to consulting or management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - AgriTech
 - Organic Farming
@@ -61,65 +97,64 @@ Responsible for planning, supervising, and managing agricultural production, inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且年薪达标（2024年约43,800欧元，紧缺专业可降低） |
-| Subclass Skilled Worker（Skilled Immigration Act） | 需职业资格认证和雇主担保，适用于双元制培训人员 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，可先找工作，适合有农业背景者 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and a minimum annual salary (approximately €43,800 in 2024, lower for shortage occupations) |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification and employer sponsorship, applicable to dual system trainees |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, job search first; suitable for those with an agricultural background. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisory and Managerial Staff in Agriculture？**
-- 热爱农业和户外工作
-- 具备管理能力和技术背景
-- 适应季节性和体力劳动
-
-**谁不适合学Supervisory and Managerial Staff in Agriculture？**
-- 追求高薪和城市生活
-- 不喜欢不规律工作和户外环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about agriculture and outdoor work
+- Possess management skills and technical background
+- Adaptability to seasonal and physical work
+
+**Who is not suited**
+- Pursuing high salary and city life
+- Dislike irregular work and outdoor environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for agricultural managers?**
+A: Entry-level approx. €32,000-40,000 annual salary; senior can reach €70,000. Lower salaries in East Germany and smaller farms.
+
+**Q: How can foreign agricultural managers immigrate to Germany?**
+A: Apply via EU Blue Card (requires university degree) or Skilled Immigration Act (requires professional qualification). Credential assessment can be done with an agricultural degree in Germany.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisory and Managerial Staff in Agriculture的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural management staff?**
-答：Entry-level around €32,000-40,000 per year, senior up to €70,000. Lower in East Germany and small farms.
-
-**问：How can foreign agricultural managers immigrate to Germany?**
-答：Via EU Blue Card (university degree) or Skilled Immigration Act (vocational qualification recognition). Credential assessment available.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

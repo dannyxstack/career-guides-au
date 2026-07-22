@@ -1,60 +1,96 @@
-# Conformity Inspector（Conformity Inspector）职业分析 · FR
+# Conformity Inspector — career analysis · France
 
-**职业代码：H1301 – Conformity Inspector。**
+**Occupation code: H1301 (ROME)**
 
-Responsible for inspecting products, services, or processes to ensure compliance with regulations, standards, and internal specifications, commonly in construction, manufacturing, and food sectors.
+Responsible for checking whether products, services, or processes comply with regulations, standards, and internal regulations, commonly found in construction, manufacturing, food, and other fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 1-2年 | —（可通过学徒制（apprentissage）免费培训） |
-| BTS或DUT | 2年 | $300~$3,000（公立院校学费低，私立较高） |
-| Licence专业方向 | 3年 | $500~$5,000（公立大学费用约500欧/年） |
+| High school graduation + professional training | 1-2 years | $0~$5,000 (Free training is available through apprenticeships) |
+| BTS or DUT | 2 years | $300~$3,000 (Public institutions have lower tuition fees, while private ones have higher tuition fees) |
+| Licence specialization | 3 years | $500~$5,000 (Public university fees are about 500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 质量管理或相关专业的BTS/DUT | 法国教育部 | 可选 | 是进入该职业的常见路径 |
-| COFRAC认可的检查员认证 | COFRAC（法国认可委员会） | 可选 | 特定领域（如食品、建筑）可能需要 |
-| 行业特定执照（如建筑检查员） | 行业主管部门 | 必备 | 部分领域强制要求 |
+| Industry-specific licenses (such as building inspectors) | Industry authorities | Required | Some areas require mandatory requirements |
+| BTS/DUT in quality management or related fields | French Ministry of Education | Optional | This is a common path to entering the profession |
+| COFRAC accredited inspector certification | COFRAC (French Accreditation Institute) | Optional | Specific fields (such as food and construction) may require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国对合规检查的需求稳定，尤其在建筑、食品和工业领域，受严格法规驱动。就业前景中等，需持续更新知识。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's demand for compliance inspections remains stable, especially in the construction, food, and industrial sectors, driven by stringent regulations. Employment prospects are moderate, and knowledge needs to be continuously updated.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-8年） | $32,000~$42,000 | 税前年薪 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (8+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $64,720 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 可从初级检查员晋升为高级检查员、团队主管或质量经理。也可转向咨询或培训岗位，或专精于特定行业（如食品、建筑）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
+
+Junior inspectors can be promoted to senior inspectors, team leaders, or quality managers. You can also move to consulting or training positions, or specialize in specific industries (such as food and construction).
+
+**Tasks most exposed to AI:**
+
+- Repeated dimensional measurement and tolerance checks using precision instruments
+- Identify and classify visual defects on standardized products
+- Weigh and sample raw materials or components according to fixed specifications.
+- Record and fill out paper inspection reports and labels
+- Performing simple pass/fail tests (e.g., hardness, tensile strength)
+
+**Where AI augments the role:**
+
+- Using AI vision systems to assist in identifying complex or minor defects and providing judgment suggestions
+- Optimize sampling frequency and sample size through data analysis models to improve inspection efficiency
+- Use augmented reality (AR) glasses to display inspection standards and historical data in real time
+- Auto-generate statistical process control (SPC) reports and warn of abnormal trends
+- Combine IoT sensor data for predictive quality maintenance
+
+**Human moat:**
+
+- Temporary judgment and problem-solving for novel or non-standard defects
+- Final release responsibility for safety-critical components (e.g., aviation, medical)
+- Cross-department coordination and abnormal quality handling in client communication
+- Ability to design inspection plans and sampling schemes
+- Review and handle anomalies in outputs from automated systems
+
+**Skills to build:**
+
+- Statistical process control (SPC) and basic data analysis
+- AI vision system operation and result validation
+- Python or SQL for automated data processing in inspections
+- Using quality management system (QMS) software
+- Lean Six Sigma methodology
+- Industrial Internet of Things (IIoT) sensor data interpretation
+
+**Key growth areas:**
 
 - Regulation
 - Quality Control
@@ -63,68 +99,67 @@ Responsible for inspecting products, services, or processes to ensure compliance
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 由法国雇主担保，需获得工作许可，适用于长期雇佣合同。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如拥有硕士以上学历或较高薪资（年薪≥36547欧元），可快速获得居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，需年薪≥53600欧元（2023标准），允许在欧盟内流动。 |
+| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, requiring a work permit, applicable to long-term employment contracts. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with a master's degree or above or higher salaries (annual salary ≥ 36,547 euros), who can quickly obtain residency. |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to high-skilled non-EU citizens, requires annual salary ≥ EUR 53,600 (2023 standard), allows mobility within the EU. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Conformity Inspector？**
-- 注重细节和质量的人
-- 喜欢独立工作并遵循既定流程的人
-- 有技术或工程背景，希望从事非纯技术工作的人
-
-**谁不适合学Conformity Inspector？**
-- 不喜欢重复性检查工作的人
-- 不善于记录和撰写报告的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail- and quality-oriented person
+- People who enjoy working independently and following established processes
+- People with a technical or engineering background who wish to engage in non-technical work
+
+**Who is not suited**
+- Those who dislike repetitive inspection work
+- People who are not good at recording and writing reports
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for compliance inspectors?**
+A: Senior compliance inspectors can earn up to 55,000 euros annually, but this is usually highly influenced by the industry, with higher rates in the construction sector.
+
+**Q: How can non-EU citizens become compliance inspectors in France?**
+A: This can be achieved through the Salarié work visa (employer sponsorship) or the Passeport Talent visa (highly skilled talent). Relevant academic qualifications and French language skills are required.
+
+**Q: What career development paths are available for compliance inspectors?**
+A: Junior inspectors can be promoted to senior inspectors, quality managers, or consultants. They can also specialize in specific industries such as food safety or construction safety.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Conformity Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for a conformity inspector?**
-答：Senior conformity inspectors can earn up to €55,000 annually, but this varies by industry, with construction potentially higher.
-
-**问：How can non-EU citizens become conformity inspectors in France?**
-答：They can apply for a Salarié work permit (employer-sponsored) or a Passeport Talent (for high-skilled workers). Relevant education and French language skills are required.
-
-**问：What is the career path for a conformity inspector?**
-答：Starting as a junior inspector, one can advance to senior inspector, quality manager, or consultant. Specializations in food safety or construction safety are also possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

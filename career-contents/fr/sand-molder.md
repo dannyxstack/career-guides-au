@@ -1,63 +1,95 @@
-# Sand Molder（Sand Molder）职业分析 · FR
+# Sand Molder — career analysis · France
 
-**职业代码：H2910 – Sand Molder。**
+**Occupation code: H2910 (ROME)**
 
-Sand molders create metal parts using sand molds, a core trade in traditional foundry. In France, they are mainly employed in automotive, aerospace, and mechanical manufacturing sectors.
+Sand casters are responsible for using sand molds to cast metal parts, which is the core occupation of the traditional casting industry. This profession in France is mainly concentrated in the automotive, aerospace, and mechanical manufacturing sectors.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 模具制造 | 2年 | —（公立学校免费，注册费约100-300欧/年；可通过学徒制带薪学习） |
-| Bac Pro 铸造技术 | 3年 | —（公立学校免费，材料费约500欧/年；学徒制可选） |
-| BTS 铸造与材料工程 | 2年（BTS后） | —（公立院校免费，私立约3000-6000欧/年） |
+| CAP mold manufacturing | 2 years | $0~$1,000 (Public schools are free, with registration fees of about 100-300 euros per year; Paid apprenticeship learning is available) |
+| Bac Pro casting technology | 3 years | $0~$1,500 (Public schools are free, with material costs about 500 euros per year; The apprenticeship system is optional) |
+| BTS Casting and Materials Engineering | 2 years (after BTS) | $0~$2,000 (Public institutions free, private approximately 3,000-6,000 euros/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Réalisations industrielles en chaudronnerie ou soudage (相关) | 法国教育部 | 可选 | 虽然不是强制要求，但许多雇主偏好持有该文凭的候选人 |
-| CACES R490 桥式起重机操作证 | CARSAT或授权培训机构 | 必备 | 操作铸造车间起重设备需持证 |
-| CQP (Certificat de Qualification Professionnelle) Mouleur sable | UIMM (冶金行业联合会) | 可选 | 行业认可的职业资格，非强制但有助于就业 |
-| Habilitation électrique (B2L) | INRS或授权机构 | 必备 | 在铸造厂工作需具备低压电气安全认证 |
+| CACES R490 bridge crane operation certificate | CARSAT or authorized training institutions | Required | Operating lifting equipment in the foundry workshop requires a license |
+| Habilitation électrique (B2L) | INRS or authorized institutions | Required | Working in a foundry requires low-voltage electrical safety certification |
+| CAP Réalisations industrielles en chaudronnerie ou soudage (related) | French Ministry of Education | Optional | Although not mandatory, many employers prefer candidates who hold this diploma |
+| CQP (Certificat de Qualification Professionnelle) Mouleur sable | UIMM (Metallurgical Industry Federation) | Optional | Industry-recognized professional qualifications, non-mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。法国铸造业面临技术工人短缺，砂型铸造工需求稳定。随着再工业化推进，熟练工人在中小型铸造厂及高端制造领域有较好就业机会。但部分岗位可能被自动化替代。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. France's foundry industry faces a shortage of skilled workers, while demand for sand casters remains stable. With the advancement of reindustrialization, skilled workers have good employment opportunities in small and medium-sized foundries and high-end manufacturing sectors. However, some positions may be replaced by automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，根据地区和公司规模有所差异 |
-| 中级（3-7年） | $28,000~$35,000 | 含奖金和加班费可能更高 |
-| 高级（7年以上） | $35,000~$45,000 | 可担任生产主管或技术专家 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary varies depending on region and company size |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including bonuses and overtime pay, it may be even higher |
+| Senior (7+ years) | $35,000~$45,000 | You can serve as a production supervisor or technical expert |
+| average salary | $35,232 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级工人可通过学徒制晋升为高级模具工或铸造技师，进一步可成为生产主管或质量控制专员。部分人转向精密铸造或3D打印砂型等新技术领域。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Sand casters face significant compression from AI and automation: traditional tasks such as sand mold manufacturing and pouring parameter adjustment are being replaced by 3D printed sand molds and intelligent gating systems, reducing entry-level job demand and requiring workers to upgrade toward maintenance and programming.
+
+Junior workers can be promoted through apprenticeship programs to senior mold workers or foundry technicians, and further become production supervisors or quality control specialists. Some have turned to new technology fields such as precision casting or 3D printing molds.
+
+**Tasks most exposed to AI:**
+
+- Manual sand mold molding and core making (AI-driven 3D printed sand molds replace all manual operations)
+- Manual adjustment of pouring parameters (adaptive algorithm real-time optimization of pouring speed and temperature)
+- Manual inspection of casting surfaces (computer vision inspection system enables automatic defect identification)
+- Sand mixing formula is blended based on experience (AI model automatically recommends ratios based on sand mold performance)
+
+**Where AI augments the role:**
+
+- Casting defect analysis and process optimization (AI analysis of historical data to assist workers in adjusting gating system design)
+- Production scheduling and equipment maintenance prediction (AI predicts mold lifespan and equipment failures to reduce downtime)
+- The digital operation interface enables workers to remotely monitor multiple automatic molding lines
+- Simulation software assists workers in designing complex sand mold structures, reducing trial and error
+
+**Human moat:**
+
+- Hand-repairing and finishing complex sand molds (deep understanding of casting techniques and tactile experience)
+- On-site assessment and repair capability for rapid response to local defects in sand molds
+- Communicate with designers about the process knowledge of Casting Manufacturability (DFM).
+- In small and medium-sized foundries with limited funds, flexible operation and maintenance of old equipment are required
+
+**Skills to build:**
+
+- 3D modeling and sand printing operations (such as CAD/AM software)
+- Industrial robot programming and maintenance (automatic pouring and part picking)
+- Process control and data analysis (monitoring pouring curves, sand quality)
+- Fundamentals of Materials Science (Mechanisms of Binders, Sand Particles, and Metals Reaction)
+- Lean production and digital transformation methods
+
+**Key growth areas:**
 
 - foundry
 - automation adaptation
@@ -66,69 +98,68 @@ Sand molders create metal parts using sand molds, a core trade in traditional fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee work permit） | 适用于获得法国铸造企业工作合同的外国工人，需公司提供雇佣证明，劳工部审核市场测试 |
-| Subclass Passeport Talent（Talent Passport） | 若拥有硕士学位或3年以上工作经验，且工资不低于法国平均年薪1.5倍，可申请，流程简化 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高技能人才，需持有高等教育文凭且工资至少为法国平均年薪1.5倍，对砂型铸造工较难达标 |
+| Subclass Salarié (Employee work permit) | Applicable to foreign workers who have obtained a work contract with a French foundry company, requiring the company to provide proof of employment and the labour department to review the labour market test. |
+| Subclass Passeport Talent (Talent Passport) | If you have a master's degree or more than 3 years of work experience, and your salary is no less than 1.5 times the French average annual salary, you can apply. The process is simplified |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talent, higher education diplomas and salaries must be at least 1.5 times the French average annual salary, making it difficult for sand casters to meet the standards |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sand Molder？**
-- 喜欢动手操作和体力劳动的人
-- 对金属加工和制造业感兴趣的人
-- 愿意接受学徒培训并掌握传统技能的人
-
-**谁不适合学Sand Molder？**
-- 追求高薪和办公室工作环境的人
-- 不喜欢高温、粉尘和噪音工作环境的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and physical labor
+- People interested in metalworking and manufacturing
+- Those willing to undergo apprenticeship training and master traditional skills
+
+**Who is not suited**
+- People who seek high salaries and office work environments
+- People who dislike high temperatures, dust, and noise in work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sand foundry workers in France?**
+A: Junior sand casters earn about 22,000-28,000 euros before tax, while senior workers can earn up to 35,000-45,000 euros. Salaries are influenced by region, experience, and company size, and may include bonuses and overtime pay.
+
+**Q: How can foreign sand casters immigrate to France?**
+A: Foreign workers can apply for a 'Salarié' work visa by obtaining a contract with a French foundry company. If you have a master's degree or a high salary, you can try 'Passeport Talent' or 'Carte bleue UE'. Pay attention to the French labor market test and French language requirements.
+
+**Q: What are the career prospects for sand casting workers?**
+A: Workers can be promoted from junior workers to senior mold operators, foundry technicians, or production supervisors. As you gain experience, you can move to positions in quality control, process design, or training. Digital transformation may also bring new skill opportunities such as operating 3D printing molds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Sand Molder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sand molders in France?**
-答：Entry-level sand molders earn approximately €22,000-€28,000 gross annually, while experienced workers can reach €35,000-€45,000. Salaries vary by region, experience, and company size, including potential bonuses and overtime.
-
-**问：How can foreign sand molders immigrate to France?**
-答：Foreign workers can apply for a 'Salarié' work permit with a job offer from a French foundry. Those with a master's degree or high salary may qualify for 'Passeport Talent' or 'EU Blue Card'. Labor market test and French language skills are required.
-
-**问：What are the career prospects for sand molders?**
-答：Starting as an entry-level worker, one can advance to senior molder, casting technician, or production supervisor. With experience, roles in quality control, process design, or training are possible. Digitalization also creates opportunities in 3D sand printing.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

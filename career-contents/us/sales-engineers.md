@@ -1,59 +1,93 @@
-# Sales Engineers（Sales Engineers）职业分析 · 美国
+# Sales Engineers — career analysis · United States
 
-**职业代码：41-9031 – Sales Engineers。**
+**Occupation code: 41-9031 (SOC)**
 
-Sales Engineers sell business goods or services requiring technical background equivalent to a bachelor's degree in engineering, often involving complex industrial equipment, software, or system solutions.
+A sales engineer is a salesperson with a technical background responsible for selling products or services that require engineering knowledge to business clients, often involving complex industrial equipment, software, or system solutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学年均学费约1-3万美元，私立约4-6万美元） |
-| 硕士 | 2年 | $30,000~$100,000（工程管理或MBA硕士，部分项目提供奖学金） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Annual tuition at public universities is about $10,000–30,000 USD; private: $40,000–60,000.) |
+| Master's degree | 2 years | $30,000~$100,000 (Master's in Engineering Management or MBA, some programs offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | ABET认证大学 | 必备 | 通常需机械、电气、工业工程等专业 |
-| 销售认证（可选） | 比如CSO最高销售官认证 | 可选 | 非强制，但有助于职业发展 |
-| 专业工程执照（PE） | 州工程委员会 | 可选 | 通常不做强制要求，但可增加可信度 |
+| Bachelor's degree in engineering | ABET-accredited university. | Required | Typically requires degrees in mechanical, electrical, industrial engineering, etc. |
+| Sales certification (optional) | e.g., Chief Sales Officer Certification | Optional | Not mandatory, but beneficial for career development |
+| Professional Engineering License (PE) | State engineering board | Optional | Usually not mandatory, but can increase credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 60,000。美国劳工统计局预计2023-2033年销售工程师就业增长约5%，与平均水平相当。自动化与数字化产品增多推动需求，但远程销售工具减少部分面对面需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 60,000. The US Bureau of Labor Statistics projects employment growth for sales engineers at about 5% from 2023-2033, similar to the average. Increased automation and digital products drive demand, but remote sales tools reduce some face-to-face needs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$90,000 | 基本工资加佣金 |
-| 中级（4-7年） | $90,000~$130,000 | 通常含较高佣金和 bonuses |
-| 高级（8年以上） | $130,000~$180,000 | 含股票期权和业绩奖金 |
+| Median salary | $124,900 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$90,000 | Base salary plus commission |
+| Mid-level (4-7 years) | $90,000~$130,000 | Typically includes high commissions and bonuses. |
+| Senior (8+ years) | $130,000~$180,000 | Includes stock options and performance bonuses |
+| average salary | $130,140 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级销售工程师可晋升为高级销售工程师、销售经理或区域总监；部分转产品管理或技术顾问。具备工程学位和销售经验者升迁较快。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Sales engineer role is mixed regarding AI impact: core tasks like technical consultation and solution design are enhanced by AI, but some information gathering and documentation can be automated. Overall risk is manageable, and proactive adoption of AI tools is needed to improve efficiency.
+
+Junior sales engineers can advance to senior sales engineer, sales manager, or regional director; some transition to product management or technical consulting. Those with an engineering degree and sales experience progress faster.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard replies from product manuals and FAQs, replacing manual responses to simple technical inquiries
+- Automatically draft preliminary quotes and technical sections of bids, reducing manual documentation work
+- Use AI to analyze customer history data to automatically generate sales lead scoring and prioritization.
+- Automatically organize and update contact information and communication records in CRM systems
+- Handles some outbound calls for client appointments and follow-up reminders via AI voice assistants.
+
+**Where AI augments the role:**
+
+- AI-assisted complex product demonstrations: generate customized 3D models or simulations in real-time based on client needs.
+- Use AI to analyze client production data, accurately recommend product configurations, and predict future demand
+- AI-enhanced competitor analysis: automatically scrape public information and generate comparison reports to assist sales strategy development
+- AI-assisted negotiation simulation: predicts customer price acceptance range and suggests optimal quotes based on historical transaction data
+
+**Human moat:**
+
+- Building trust in complex technical solutions: requires interpersonal communication, on-the-spot adaptability, and long-term relationship maintenance
+- Deep understanding of client business processes and proposing customized innovative solutions: requires industry experience and creative thinking
+- Handling ambiguous requirements and unstructured problems: clients often cannot articulate needs clearly, requiring engineers to guide and diagnose
+- Strong cross-departmental coordination skills: integrates product, R&D, and delivery team resources to facilitate complex order fulfillment
+
+**Skills to build:**
+
+- Mastering AI-assisted sales tools (e.g., Clari, Gong) for customer conversation analysis and prediction
+- Learn basic data analysis and visualization (Python/Power BI) to interpret customer data
+- Enhance virtual demonstration capabilities for complex technical solutions (VR/AR configurator)
+- Learn prompt engineering to efficiently use large language models
+- Enhance contract and compliance knowledge: understand legal risks of AI-generated documents
+- Develop continuous learning ability: track emerging technologies (e.g., digital twins)
+
+**Key growth areas:**
 
 - Technical Sales
 - B2B Solutions
@@ -62,69 +96,68 @@ Sales Engineers sell business goods or services requiring technical background e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见路径，需雇主担保且职位通常要求本科以上学历 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合硕士以上或本科加5年经验，需PERM劳工证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主通过PERM流程申请绿卡，证明无合格美国工人 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于销售业绩异常突出者，需证明在领域内顶尖 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common pathway, requires employer sponsorship and the position typically requires a bachelor's degree or higher |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for master's degree or above, or bachelor's plus 5 years experience, requiring PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers apply for green cards through the PERM process to certify no qualified U.S. workers are available. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to those with exceptional sales performance, must demonstrate top-tier expertise in the field |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Engineers？**
-- 拥有工程背景且喜欢与人打交道的人
-- 擅长沟通、谈判和解决技术问题的人
-- 愿意接受业绩压力并追求高收入的人
-
-**谁不适合学Sales Engineers？**
-- 不喜欢频繁出差或应对客户的人
-- 偏好稳定工作而非业绩考核的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with an engineering background who enjoy interacting with others
+- People skilled in communication, negotiation, and solving technical problems
+- Those willing to accept performance pressure and pursue high income
+
+**Who is not suited**
+- Those who dislike frequent travel or dealing with clients
+- Those who prefer stable work over performance reviews
+
+---
+
+## 8. FAQ
+
+**Q: Is a sales engineer's income primarily from base salary or commission?**
+A: Typically base salary accounts for 50-70%, with the remainder being commission and bonuses. Senior sales engineers have a higher commission ratio and greater total income flexibility.
+
+**Q: Is it difficult for a sales engineer to immigrate to the US via H-1B?**
+A: Moderate difficulty. Need employer sponsorship and the role must meet professional requirements; annual quota lottery is competitive, but larger companies have higher success rates.
+
+**Q: Can a sales engineer transition to a product manager role?**
+A: Yes, technical background and customer insight are advantages, but product management skills (such as market analysis, agile development) need to be supplemented.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sales Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of sales engineers mainly from base salary or commission?**
-答：Typically 50-70% base salary, rest from commission and bonuses. Senior roles have higher commission proportion and greater income variability.
-
-**问：How difficult is it for a sales engineer to immigrate to the US via H-1B?**
-答：Moderate. Requires employer sponsorship and specialty occupation criteria. Annual lottery is competitive, but larger companies have higher success rates.
-
-**问：Can a sales engineer transition to product manager?**
-答：Yes. Technical background and customer insight are assets, but need to acquire product management skills like market analysis and agile development.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

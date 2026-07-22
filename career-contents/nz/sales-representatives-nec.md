@@ -1,61 +1,97 @@
-# Sales Representatives nec（Sales Representatives nec）职业分析 · 新西兰
+# Sales Representatives nec — career analysis · New Zealand
 
-**职业代码：611399 – Sales Representatives nec。**
+**Occupation code: 611399 (ANZSCO)**
 
-Sales Representatives nec in New Zealand sell various products and services, requiring good communication skills. This occupation is eligible for AEWV and SMC but not Green List; migration may require employer sponsorship and experience.
+Other Sales Representatives in New Zealand promote and sell various products and services, requiring good communication skills. This occupation can apply for immigration through the Accredited Employer Work Visa (AEWV) pathway, but is not on the Green List for direct residence; need to accumulate experience via Skilled Migrant Category (SMC).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 无需 | —（无直接成本） |
-| 大专（销售/市场营销） | 1-2年 | $12,000~$30,000（新西兰理工学院或私立院校） |
-| 本科（商业/营销） | 3年 | $30,000~$45,000（大学学费每年约1-1.5万NZD） |
+| High school diploma | None | $0~$0 (No direct cost.) |
+| Associate degree (Sales/Marketing) | 1-2 years | $12,000~$30,000 (New Zealand Institute of Technology or private institutions) |
+| Bachelor's degree (Business/Marketing). | 3 years | $30,000~$45,000 (University tuition about 10k-15k NZD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制注册 | 无 | 可选 | 无需特定执照 |
-| 驾驶执照 | NZTA | 可选 | 如有拜访客户需求，通常要求full license |
-| 行业证书（可选） | 如NZ Sales Institute | 可选 | 提升竞争力 |
-| 英语能力证明（移民用） | IELTS/TOEFL/PTE | 必备 | SMC要求雅思6.5分或同等 |
+| English proficiency proof (for immigration) | IELTS/TOEFL/PTE | Required | SMC requires IELTS 6.5 or equivalent |
+| No mandatory registration. | None | Optional | No specific license required |
+| Driver's license | NZTA | Optional | If client visits are required, a full license is typically needed |
+| Industry certifications (optional) | e.g., NZ Sales Institute | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。新西兰销售代表岗位需求稳定，尤其在奥克兰、惠灵顿等商业中心。随着经济回暖，B2B销售领域增长较快。竞争中等，具备行业经验和语言能力者占优。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for sales representatives in New Zealand is stable, especially in commercial hubs like Auckland and Wellington. B2B sales is growing faster as the economy recovers. Competition is moderate; industry experience and language skills are advantageous.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 底薪加提成，总收入可能更高 |
-| 中级（3-6年） | $60,000~$80,000 | 含佣金和奖金 |
-| 高级（6年以上） | $80,000~$120,000 | 资深销售或团队领导 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Base salary plus commission, total income may be higher |
+| Mid-level (3–6 years) | $60,000~$80,000 | Includes commission and bonuses |
+| Senior (6+ years) | $80,000~$120,000 | Senior sales or team leader |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 初级可从事电话销售或店内推广，积累客户资源后晋升区域销售经理或客户经理。部分转向市场营销或业务开发，收入随业绩提升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate tasks such as customer information collection and report generation, but sales negotiation and customer relationships still rely on humans; meanwhile, AI enhances customer insights and sales forecasts, requiring sales representatives to evolve into trusted advisor roles.
+
+Entry-level roles may involve telemarketing or in-store promotions; after building client resources, progress to regional sales manager or account manager. Some shift to marketing or business development, with income rising based on performance.
+
+**Tasks most exposed to AI:**
+
+- Preliminary client screening and cold calling through AI voice bots
+- Automatically generate standard sales reports and customer follow-up emails
+- Historical data-based lead scoring and list generation
+- Answer common product questions (AI chatbot)
+- Automatically schedule meetings and manage calendars
+
+**Where AI augments the role:**
+
+- AI analyzes customer behavior data to recommend personalized sales strategies
+- Real-time sales conversation assistance system (provides script suggestions, objection handling)
+- Predict customer churn risk and proactively offer retention plans
+- Optimize Customer Relationship Management (CRM) automatic recording and reminders
+- Virtual reality product demonstrations to enhance remote sales effectiveness
+
+**Human moat:**
+
+- Emotional insight and trust building in complex negotiations
+- Cross-cultural customer relationship maintenance and customized solutions
+- Strategic consultative sales requiring deep industry knowledge
+- Handling customer complaints and crisis communication
+- Repeat transactions and referral networks based on long-term trust
+
+**Skills to build:**
+
+- Advanced use of customer relationship management software (Salesforce, etc.)
+- Data analysis basics (Python/SQL or low-code BI tools)
+- AI sales tool usage (conversational AI, predictive analytics platforms)
+- Negotiation and objection handling skills.
+- Industry-specific knowledge (e.g., IT, healthcare, finance)
+- Digital communication and remote collaboration skills
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Post-study work visa
@@ -64,69 +100,68 @@ Sales Representatives nec in New Zealand sell various products and services, req
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制（学历/经验/收入），职业在LQEA清单上 |
-| Subclass Post-study work visa（Post-study Work Visa） | 完成本科学位后可获1-3年开放工签，积累经验 |
-| Subclass Relocation via emplo（Employer-assisted residence） | 部分行业如技术销售可能通过特定协议快速居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must obtain a certified employer offer, eligible for residence after 3 years of work |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system (qualifications/experience/income), occupation on LQEA list |
+| Subclass Post-study work visa (Post-study Work Visa) | After completing a bachelor's degree, eligible for a 1-3 year open work permit to gain experience |
+| Subclass Relocation via emplo (Employer-assisted residence) | Some industries, such as technical sales, may have fast-track residence through specific agreements |
 
-**PR难度：较难（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representatives nec？**
-- 善于沟通、有抗压能力的人
-- 愿意通过业绩获得收入增长的人
-- 有一定行业知识或学习意愿的人
-
-**谁不适合学Sales Representatives nec？**
-- 不喜欢频繁与人接触或出差的人
-- 无法承受业绩压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good communication and stress resilience
+- Those willing to increase income through performance
+- People with some industry knowledge or willingness to learn
+
+**Who is not suited**
+- For those who do not like frequent contact with people or travel.
+- People who cannot handle performance pressure
+
+---
+
+## 8. FAQ
+
+**Q: Is sales representative income mainly based on commissions?**
+A: Yes, most sales positions have low base salaries, with commissions or bonuses making up a large portion of income; senior sales can earn over NZ$120,000 per year.
+
+**Q: Is it easy to immigrate to New Zealand as a sales representative?**
+A: Not easy. Occupation not on Green List; must apply via SMC, employer needs accreditation and to meet median wage (currently $29.66 NZD/hour). Recommend 3+ years experience and bachelor's degree.
+
+**Q: What can sales representatives switch to in the future?**
+A: Can advance to sales manager, marketing manager, or business development manager. Some transition to procurement, customer relations, or start their own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较难（★★★½☆） |
-
-Sales Representatives nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary mainly commission-based?**
-答：Yes, most sales roles have a low base salary with commission/bonus making up a large portion; senior roles can earn over 120,000 NZD.
-
-**问：Is it easy to migrate as a sales representative?**
-答：Not easy. This occupation is not on the Green List; SMC requires an accredited employer and a salary at median wage (currently $29.66/hr). Recommended: 3+ years experience and a bachelor's degree.
-
-**问：What career changes are possible for sales reps?**
-答：Can advance to sales manager, marketing manager, or business development. Some move to procurement, account management, or start their own business.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Skilled Agricultural Worker（Skilled Agricultural Worker）职业分析 · ES
+# Skilled Agricultural Worker — career analysis · Spain
 
-**职业代码：6110 – Skilled Agricultural Worker。**
+**Occupation code: 6110 (CNO)**
 
-Performs skilled tasks in open-field agricultural activities such as planting, harvesting, irrigation, and fertilizing, forming the backbone of Spain's agricultural workforce.
+Engaging in skilled tasks such as planting, harvesting, irrigating, and fertilizing in open-field farming activities outside greenhouses, nurseries, or gardens is the core of Spain's agricultural workforce.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Medio） | 2年 | —（公立学校几乎免费，仅注册费） |
-| 职业教育（FP Grado Superior） | 2年 | —（公立学校低成本，私立约2000-5000欧元） |
+| Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are almost free, with only a registration fee) |
+| Vocational Education (FP Grado Superior) | 2 years | $0~$2,500 (Public schools are low-cost, while private ones cost about 2,000–5,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业技工职业资格（FP Técnico en Producción Agropecuaria） | 西班牙教育部 | 可选 | 完成FP Grado Medio课程后获得 |
-| 农药施用许可（Carné de Aplicador de Productos Fitosanitarios） | 自治区农业部门 | 必备 | 法律要求施用农药时持有 |
+| Pesticide Application Permit (Carné de Aplicador de Productos Fitosanitarios) | Autonomous region agricultural department | Required | The law requires pesticides to be held when applying |
+| Agricultural Technician Professional Qualification (FP Técnico en Producción Agropecuaria) | Spanish Ministry of Education | Optional | Obtained after completing the FP Grado Medio course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。西班牙农业高度依赖季节性劳动力，随着有机农业和精准农业兴起，对掌握现代农技的工人需求稳定增长。但工作受气候和移民政策影响大。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. Spanish agriculture heavily relies on seasonal labor, and with the rise of organic and precision agriculture, demand for workers skilled in modern agricultural techniques has steadily increased. But jobs are heavily affected by climate and immigration policies.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪 |
-| 高级（7年以上或主管） | $26,000~$35,000 | 税前年薪 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $20,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years or supervisor) | $26,000~$35,000 | Annual pre-tax salary |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可晋升为农业主管、农场经理，或通过培训转向农业技术员、农业机械操作员等更专业化岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
+
+You can be promoted to agricultural supervisor, farm manager, or through training to more specialized positions such as agricultural technician or agricultural machinery operator.
+
+**Tasks most exposed to AI:**
+
+- Automated collection of soil moisture and nutrient data with report generation
+- Optimizing fertilization/irrigation plans based on historical yield and weather data.
+- Use drones to patrol fields and automatically identify pest and disease areas
+- Automated agricultural machinery scheduling and path planning
+
+**Where AI augments the role:**
+
+- AI-assisted precision fertilization decisions to increase crop yield
+- Uses computer vision to monitor livestock health in real time and warn of disease.
+- Smart sensor network optimizes irrigation and energy consumption
+- Machine learning predicts market demand to guide production planning
+
+**Human moat:**
+
+- On-site emergency response and complex fault diagnosis
+- Unstructured communication and coordination with farm workers and contractors
+- Ethical judgment of animal welfare and herd health management
+- Comprehensive production decisions across seasons and sites
+
+**Skills to build:**
+
+- Precision agriculture software (e.g., Climate FieldView)
+- UAV operation and remote sensing data analysis
+- Python/R basics and agricultural data analysis
+- IoT device configuration and maintenance
+- Project management and team management skills
+- Biosecurity protocols and animal health management
+
+**Key growth areas:**
 
 - Organic Farming
 - Precision Agriculture
@@ -61,68 +94,67 @@ Performs skilled tasks in open-field agricultural activities such as planting, h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit as Employee） | 由西班牙雇主担保的工作居留，需证明该职位无法被欧盟公民填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能工人，但农业技工通常不满足蓝卡薪资要求（2023年约33,909欧元），仅高级岗位可能符合。 |
-| Subclass Gestión colectiva de（Collective Hiring in Origin） | 西班牙针对季节性农业工人的集体招聘程序，允许第三国公民在特定季节合法工作。 |
+| Subclass Cuenta ajena (Work Permit as Employee) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by an EU citizen. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled workers, but agricultural technicians usually do not meet the Blue Card salary requirement (about €33,909 in 2023), and only senior positions may qualify. |
+| Subclass Gestión colectiva de (Collective Hiring in Origin) | Spain's collective recruitment process for seasonal agricultural workers allows third-country citizens to work legally during specific seasons. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Skilled Agricultural Worker？**
-- 能适应户外体力劳动、吃苦耐劳者
-- 愿意在西班牙农村或季节性迁移工作的人
-- 对现代农业技术有学习兴趣的初中学历者
-
-**谁不适合学Skilled Agricultural Worker？**
-- 希望高薪或快速积累财富的人
-- 无法接受不稳定季节性工作模式的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to adapt to outdoor physical labor and be hardworking
+- People willing to work in rural Spain or during seasonal migration
+- Junior high school graduates interested in learning modern agricultural technology
+
+**Who is not suited**
+- People who want a high salary or quick wealth accumulation
+- People who cannot accept unstable seasonal work patterns
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for agricultural technicians in Spain?**
+A: Entry-level annual salary approx. EUR 16,000-20,000, mid-to-senior level can reach EUR 26,000-35,000, but heavily affected by season and region, and below national average wage.
+
+**Q: How can third-country citizens immigrate to Spain through agricultural technicians?**
+A: The most common path is to obtain seasonal work permits through the collective recruitment process (Gestión colectiva) by Spanish employers, or to apply for a regular work residence (Cuenta ajena), but this requires proof of labor shortages.
+
+**Q: Do agricultural technicians have career development opportunities?**
+A: Yes, you can be promoted to farm supervisor, agricultural machinery operator, or agricultural technician, and through further education, you can become an agricultural engineer or farm manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Skilled Agricultural Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for skilled agricultural workers in Spain?**
-答：Entry-level annual salary is around €16,000-20,000; intermediate to senior can reach €26,000-35,000, but it is highly seasonal and below national average.
-
-**问：How can a third-country national migrate to Spain as a skilled agricultural worker?**
-答：The most common route is through the collective hiring program (Gestión colectiva) for seasonal work, or by applying for a standard work permit (Cuenta ajena) with a job offer demonstrating labor shortage.
-
-**问：Is there career progression for skilled agricultural workers?**
-答：Yes, they can advance to farm supervisor, agricultural machinery operator, or technician, and further study can lead to agricultural engineer or farm manager.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

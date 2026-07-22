@@ -1,61 +1,97 @@
-# Armed Security Guard（Armed Security Guard）职业分析 · ES
+# Armed Security Guard — career analysis · Spain
 
-**职业代码：5941 – Armed Security Guard。**
+**Occupation code: 5941 (CNO)**
 
-Armed security guards in Spain protect people, property, and sensitive sites, often carrying firearms and adhering to strict regulations. They are commonly employed in banks, government buildings, airports, and other high-risk environments.
+Armed security guards in Spain are responsible for protecting people, property, and sensitive locations, usually equipped with firearms and required to comply with strict regulations. This position is commonly found in high-risk environments such as banks, government buildings, and airports.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | $300~$1,000（公立FP学费低，私立较高） |
-| 大学课程（短期） | 1年 | $100~$500（部分大学提供安保管理课程） |
+| Vocational Training (FP Grado Superior) | 2 years | $300~$1,000 (Public FP tuition is low, while private schools are higher) |
+| University Courses (Short-term) | 1 year | $100~$500 (Some universities offer security management courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保安专业资格证（TPA） | 西班牙内政部（Ministerio del Interior） | 必备 | 必须通过官方考试，包括法律、武器使用和自卫训练 |
-| 武器使用许可 | 国民警卫队（Guardia Civil） | 必备 | 仅武装保安需要，需额外培训和心理评估 |
-| 无犯罪记录证明 | 司法部 | 必备 | 所有保安必须提供 |
+| Security Professional Qualification Certificate (TPA) | Ministerio del Interior, Spain | Required | Official exams must be passed, including legal, weapons use, and self-defense training |
+| Weapons use licenses | Guardia Civil | Required | Only armed security personnel are needed, with additional training and psychological assessments required |
+| Police clearance certificate | Department of Justice. | Required | All security personnel must provide security |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 95,000。西班牙武装保安需求稳定，主要受安全威胁增加和关键基础设施保护需求驱动。就业机会集中在私营安保公司，但自动化和监控技术可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 95,000. Spain's demand for armed security remains stable, mainly driven by increasing security threats and the need for critical infrastructure protection. Job opportunities are concentrated in private security companies, but automation and surveillance technologies may limit growth.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，根据公司和工作地点浮动 |
-| 中级（3-7年） | $22,000~$28,000 | 包括加班和补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或特殊岗位 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary varies depending on the company and work location |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including overtime and subsidies |
+| Senior (7+ years) | $28,000~$35,000 | supervisor or special position |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径包括从普通保安到团队主管、区域经理，或转入更专业的安保领域（如私人保镖、安全顾问）。部分人通过进修进入公共安全部门。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Armed security tasks are divided into two levels: routine tasks such as monitoring and recording will be replaced by AI, but core responsibilities such as armed response and on-site decision-making are difficult to automate due to legal and ethical constraints, resulting in moderate overall risk.
+
+Career advancement paths include moving from ordinary security guards to team leaders, regional managers, or transitioning into more specialized security fields (such as private bodyguards and security consultants). Some people enter public safety departments through further education.
+
+**Tasks most exposed to AI:**
+
+- Real-time analysis of fixed surveillance camera video (AI automatically detects abnormal behavior)
+- Visitor Identity Verification and Registration (AI Facial Recognition + Electronic Pass)
+- Patrol Route Planning and Automated Report Generation (AI Scheduling System)
+- Routine security log completion and archiving (AI-automated recording)
+- Remote monitoring center presence in low-risk areas (AI alarm filtering)
+
+**Where AI augments the role:**
+
+- Armed force deterrence and physical intervention (AI-powered on-site violence deterrence)
+- Close guard strategies for high-risk targets (AI provides threat intelligence to assist decision-making)
+- Command coordination in emergencies (AI real-time on-site data transmission to enhance situational awareness)
+- Legal judgment and compliance regarding firearm use (AI provides regulatory references, but ultimately responsibility lies with humans)
+- Communication of customers' personalized security needs (AI cannot establish human trust)
+
+**Human moat:**
+
+- Judgment and Enforcement of Lawful Use of Force (involving legal responsibility and morality)
+- Calm decision-making and adaptability under high pressure
+- Interpersonal trust and deterrence between clients and the public
+- On-site scheduling and team leadership for complex scenarios
+- Compliance with firearm qualifications and safety regulations
+
+**Skills to build:**
+
+- AI security system operation and exception handling
+- Digital threat intelligence analysis and application
+- Crisis negotiation and conflict resolution skills
+- Basic Data Analysis (Security Event Statistics and Trend Forecasting)
+- Drone monitoring and countermeasure technology
+- Continuously updating learning abilities through laws and regulations
+
+**Key growth areas:**
 
 - Private security demand
 - Licensing requirements
@@ -64,66 +100,68 @@ Armed security guards in Spain protect people, property, and sensitive sites, of
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit） | 受雇工作居留，需要雇主担保，且需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 高技能专业人才签证，但保安不属于高技能职业，通常不适用。 |
-| Subclass Busqueda empleo（Job Search Visa） | 在西班牙找工作用，需满足学历或资金要求，但保安职位竞争激烈。 |
+| Subclass Cuenta ajena (Work Permit) | Employed work residence requires employer sponsorship and proof that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Highly skilled professional visa, but security guards are not considered high-skilled occupations and are generally not applicable. |
+| Subclass Busqueda empleo (Job Search Visa) | To find a job in Spain, you need to meet educational or financial requirements, but security positions are highly competitive. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armed Security Guard？**
-- 需要稳定工作且愿意接受严格训练的人
-- 对安全行业有热情，能冷静处理紧急情况者
-- 具备西班牙语沟通能力和合法工作身份者
+**Who is suited**
+- Those who need stable jobs and are willing to undergo rigorous training
+- Passionate about the security industry and able to handle emergencies calmly
+- Candidates must have Spanish communication skills and legal work status
 
-**谁不适合学Armed Security Guard？**
-- 不愿携带武器或无法通过心理评估的人
-- 寻求高薪或快速晋升者
+**Who is not suited**
+- Those unwilling to carry weapons or unable to pass psychological assessments
+- Those seeking high salaries or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of armed security guards?**
+A: The pre-tax annual salary for junior armed security personnel in Spain is about 18,000-22,000 euros, while senior positions can reach up to 35,000 euros, but this is usually lower than in specialized fields like IT.
+
+**Q: Can foreigners immigrate to Spain through the security profession?**
+A: The difficulty is extremely high. This occupation is not a high-skilled or in-demand position and requires Ministry of the Interior certification and a weapons permit, making it difficult for third-country immigrants to obtain work visas.
+
+**Q: What promotion opportunities are available for armed security personnel?**
+A: You can be promoted to security supervisor, regional manager, or move into professional fields such as private bodyguard or security consultant, or enter public safety departments through higher education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Armed Security Guard属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an armed security guard?**
-答：Entry-level armed security guards in Spain earn around 18,000-22,000 EUR gross annually, with senior roles reaching up to 35,000 EUR, but generally lower than IT professions.
-
-**问：Can foreigners immigrate to Spain as armed security guards?**
-答：Very difficult. This occupation is not considered high-skilled or in shortage, and requires Ministry of Interior certification and firearm permits, making work visa sponsorship nearly impossible for third-country nationals.
-
-**问：What career advancement opportunities exist for armed security guards?**
-答：They can advance to team supervisor, regional manager, or specialize as a bodyguard or security consultant, or enter public safety roles through higher education.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

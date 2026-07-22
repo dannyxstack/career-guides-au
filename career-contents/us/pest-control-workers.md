@@ -1,61 +1,93 @@
-# Pest Control Workers（Pest Control Workers）职业分析 · 美国
+# Pest Control Workers — career analysis · United States
 
-**职业代码：37-2021 – Pest Control Workers。**
+**Occupation code: 37-2021 (SOC)**
 
-Apply or release chemical solutions or toxic gases and set traps to kill or remove pests and vermin that infest buildings and surrounding areas.
+Eliminate pests (such as insects and rodents) from buildings and surrounding areas by applying chemicals, releasing gases, or setting traps.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 在职培训 | 1-3个月 | $500~$1,000（雇主提供或自费培训课程） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| On-the-job training | 1-3 months. | $500~$1,000 (Employer-provided or self-funded training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州级害虫控制执照 | 各州农业或环境部门 | 必备 | 必需通过笔试和实操考试 |
-| 商业杀虫剂施用认证 | EPA或州认证机构 | 必备 | 需完成培训课程并通过考试 |
-| 学徒期 | 雇主 | 可选 | 通常需在有执照的师傅指导下工作1-2年 |
+| State-level pest control license | State agriculture or environment departments. | Required | Must pass written and practical exams |
+| Commercial pesticide application certification | EPA or state-accredited institution | Required | Must complete training courses and pass exams |
+| Apprenticeship period | Employer | Optional | Usually requires working under a licensed master for 1-2 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 87,600。预计2023-2033年就业增长约8%，快于平均水平。城市化与气候变化导致害虫问题增多，需求稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 87,600. Employment growth of about 8% is expected from 2023 to 2033, faster than average. Urbanization and climate change lead to more pest problems, stable demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级, 多数低于中位数 |
-| 中级（3-7年） | $40,000~$55,000 | 持有经验与执照 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或经理级别 |
+| Median salary | $45,250 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level, most below median |
+| Mid-level (3–7 years) | $40,000~$55,000 | Experience and license required |
+| Senior (7+ years) | $55,000~$70,000 | Supervisor or manager level |
+| average salary | $46,400 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级技术员起步，可晋升为区域主管或业务经理。可考取高级认证或转行至虫害防治产品研发或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
+
+Start as a junior technician, can advance to regional supervisor or business manager. Can obtain advanced certifications or transition to pest control product R&D or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate pest activity reports and client communication records
+- Automatically plan routine inspection routes based on historical data
+- Use drones or IoT sensors for initial pest monitoring
+- Automatically calculate dosage and compatibility recommendations
+
+**Where AI augments the role:**
+
+- Using AI image recognition to quickly and accurately diagnose pest types and severity
+- Use intelligent scheduling systems to optimize service routes and improve work efficiency
+- Access real-time operation guides and equipment instructions through augmented reality
+- Using data analysis to predict high-incidence areas and proactively prevent pests
+
+**Human moat:**
+
+- Flexibly judge and adjust plans in complex work environments
+- Face-to-face communication with clients to build trust and explain safety hazards
+- Physical handling and emergency response for hazardous chemicals.
+- Making professional decisions for unconventional on-site situations
+
+**Skills to build:**
+
+- Proficiency in basic data analysis and reporting tools (e.g., Excel, simple BI)
+- Learn pest identification and biology knowledge to improve diagnostic skills
+- Familiar with operating drones or IoT monitoring devices
+- Enhance customer communication and safety training skills
+- Learn digital workflow management software
+
+**Key growth areas:**
 
 - Urbanization
 - Climate Change
@@ -64,62 +96,64 @@ Apply or release chemical solutions or toxic gases and set traps to kill or remo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 临时季节性工人签证, 用于非农业临时岗位, 但需雇主证明劳工短缺 |
-| Subclass H-1B（Specialty Occupations） | 仅适用需专业知识的职位, 普通害虫控制员不符要求 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Temporary seasonal worker visa for non-agricultural temporary positions, but employer must prove labor shortage |
+| Subclass H-1B (Specialty Occupations) | Only applicable to positions requiring professional knowledge; general pest controllers do not meet requirements |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pest Control Workers？**
-- 善于动手操作与户外工作
-- 能忍受与昆虫/啮齿动物接触
-- 注重安全规程和细节
+**Who is suited**
+- Good at hands-on work and outdoor tasks
+- Can tolerate contact with insects/rodents
+- Focus on safety procedures and details
 
-**谁不适合学Pest Control Workers？**
-- 对农药或动物过敏/厌恶
-- 不喜欢体力劳动和重复性工作
+**Who is not suited**
+- Allergic to or averse to pesticides or animals
+- Dislike physical labor and repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pest control workers?**
+A: BLS data for 2023 shows median annual salary around $40,000, entry-level about $30,000, and supervisors up to $70,000. Overtime can increase income.
+
+**Q: Are there immigration pathways for Pest Control Operators to the US?**
+A: This occupation is not an H-1B professional specialty, so there are fewer skilled immigrants. H-2B temporary visas are possible, but obtaining a green card is extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Pest Control Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of pest control workers?**
-答：BLS 2023 median annual wage ~$40,000; entry-level ~$30,000; supervisors up to $70,000. Overtime available.
-
-**问：Is there a US immigration path for pest control workers?**
-答：Not eligible for H-1B as non-specialty occupation. Possible H-2B temporary visa, but green card very difficult.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Electrical and Electronics Repairers, Commercial and Industrial Equipment（Electrical and Electronics Repairers, Commercial and Industrial Equipment）职业分析 · 美国
+# Electrical and Electronics Repairers, Commercial and Industrial Equipment — career analysis · United States
 
-**职业代码：49-2094 – Electrical and Electronics Repairers, Commercial and Industrial Equipment。**
+**Occupation code: 49-2094 (SOC)**
 
-Repair, test, adjust, or install electronic equipment such as industrial controls, transmitters, and antennas to ensure operational efficiency in commercial and industrial settings.
+Responsible for repairing, testing, adjusting, or installing industrial control equipment, transmitters, antennas, and other electronic devices to ensure commercial and industrial facilities operate properly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 职业培训证书 | 1年 | $5,000~$15,000（技术学校或学徒制） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Vocational training certificate | 1 year | $5,000~$15,000 (Trade school or apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子技术证书 | 技术学校/社区学院 | 可选 | 通常需要完成相关课程 |
-| FCC许可证 | 美国联邦通信委员会 | 可选 | 操作某些发射设备需要 |
-| 制造商认证 | 设备制造商 | 可选 | 如Allen-Bradley、Siemens等 |
+| Certificate in Electronics Technology. | Technical schools/community colleges | Optional | Usually requires completing relevant courses |
+| FCC license | US Federal Communications Commission | Optional | Operation of certain launch equipment requires |
+| Manufacturer certification | Equipment manufacturers | Optional | Such as Allen-Bradley, Siemens, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 67,200。美国劳工统计局预计2023-2033年该职业就业增长约4%，与所有职业平均水平相当。自动化设备增加带来维修需求，但部分工作外包可能抑制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 67,200. The US Bureau of Labor Statistics projects about 4% employment growth for this occupation from 2023-2033, similar to the average for all occupations. Increased automation equipment brings maintenance demand, but outsourcing may curb growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级薪资 |
-| 中级（3-7年） | $55,000~$75,000 | 有经验技师 |
-| 高级（7年以上） | $75,000~$95,000 | 资深或主管级 |
+| Median salary | $74,090 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level salary |
+| Mid-level (3–7 years) | $55,000~$75,000 | Experienced technician |
+| Senior (7+ years) | $75,000~$95,000 | Senior or supervisor level |
+| average salary | $75,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒或技术学校起步，积累经验后可晋升为高级技师或主管，部分人转向设备销售或技术服务管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
+
+Typically start as apprentice or from technical school, can advance to senior technician or supervisor with experience, some move to equipment sales or technical service management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate fault reports from sensor data.
+- Use AI tools for board-level diagnostics
+- Remote restart or reset device software
+- Predictive maintenance scheduling based on historical data
+- Auto-generate maintenance documents and work orders
+
+**Where AI augments the role:**
+
+- AR glasses overlay circuit diagrams to assist manual repairs
+- AI image recognition quickly locates component faults
+- Natural language querying of technical manuals and logs
+- Automatic calibration of instruments and debugging programs
+- Collaborative robots handling heavy equipment components
+
+**Human moat:**
+
+- Non-standardized fine manual operations in physical environments
+- Creative troubleshooting of new or rare faults
+- Compliance judgment involving safety regulations
+- On-site client communication and emergency response
+- Overall diagnosis of cross-system integration issues
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Programmable logic controllers and SCADA systems
+- Augmented reality repair tool usage
+- Write diagnostic tools in Python or scripting languages.
+- Data-driven predictive maintenance skills
+- Electrical Safety and Compliance Certification
+
+**Key growth areas:**
 
 - Industrial Automation
 - Equipment Maintenance
@@ -62,68 +98,67 @@ Repair, test, adjust, or install electronic equipment such as industrial control
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等经验，电子维修可能符合专业职位要求 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年培训或经验，通过PERM劳工认证 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民可作为技术员申请，但需符合特定职业列表 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or equivalent experience; electronics repair may meet professional position requirements |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, through PERM labor certification |
+| Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens can apply as technicians but must meet specific occupation lists |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical and Electronics Repairers, Commercial and Industrial Equipment？**
-- 喜欢动手维修电子设备的人
-- 具有电路和控制系统知识的技术型人才
-- 能够适应现场工作和不定时加班的人
-
-**谁不适合学Electrical and Electronics Repairers, Commercial and Industrial Equipment？**
-- 不擅长故障诊断和精细操作的人
-- 希望办公室工作或低体力要求的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys repairing electronic devices
+- Technical talent with knowledge of circuits and control systems
+- People who can adapt to on-site work and irregular overtime
+
+**Who is not suited**
+- People not good at fault diagnosis and fine operations
+- People who prefer office work or low physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation?**
+A: According to BLS data, the median annual salary for commercial and industrial electrical and electronics repairers in the U.S. in 2023 was approximately $62,000, but experienced workers can earn over $90,000.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: This occupation can apply for H-1B or EB-3 green card, but requires employer sponsorship. Due to non-IT field, competition is relatively low, but PERM labor certification requires proving inability to find qualified US workers.
+
+**Q: What educational background is required?**
+A: Typically requires an associate degree or completion of electronics technology vocational training. Some employers accept a high school diploma plus relevant work experience or apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electrical and Electronics Repairers, Commercial and Industrial Equipment的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation?**
-答：According to BLS, the median annual wage for Electrical and Electronics Repairers, Commercial and Industrial Equipment was about $62,000 in 2023, with experienced workers earning over $90,000.
-
-**问：Is immigration easy for this occupation?**
-答：It is possible via H-1B or EB-3 green card with employer sponsorship. Competition is lower than IT fields, but PERM labor certification requires proving no qualified US workers.
-
-**问：What education is required?**
-答：Typically an associate degree or vocational training in electronics. Some employers accept high school diploma plus experience or apprenticeship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

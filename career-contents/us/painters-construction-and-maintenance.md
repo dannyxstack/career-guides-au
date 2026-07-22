@@ -1,61 +1,97 @@
-# Painters, Construction and Maintenance（Painters, Construction and Maintenance）职业分析 · 美国
+# Painters, Construction and Maintenance — career analysis · United States
 
-**职业代码：47-2141 – Painters, Construction and Maintenance。**
+**Occupation code: 47-2141 (SOC)**
 
-Paint walls, equipment, buildings, bridges, and other structural surfaces using brushes, rollers, and spray guns; may remove old paint and mix colors or oils to achieve desired color or consistency.
+Use brushes, rollers, and spray guns to paint walls, equipment, buildings, bridges, and other structural surfaces; may need to remove old paint, mix colors or oils to achieve desired color or consistency.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业/同等学历 | 12年 | —（义务教育，通常不额外收费） |
-| 在职学徒制（3-4年） | 3-4年 | $500~$3,000（学徒期间带薪学习，培训费用较低） |
+| High school diploma or equivalent | 12 years | $0~$0 (Compulsory education, usually no additional fees) |
+| Apprenticeship (3-4 years) | 3-4 years | $500~$3,000 (Paid learning during apprenticeship with low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业或同等学历 | 地方教育部门 | 可选 | 通常要求，非强制 |
-| 学徒结业证书 | 美国劳工部/州学徒机构 | 可选 | 大部分州推荐完成注册学徒计划，非强制 |
-| 商业/工业油漆认证 | 如SSPC协会 | 可选 | 桥梁、船舶等特种涂装通常要求，非上岗强制 |
+| High school graduation or equivalent | Local education department | Optional | Usually required, not mandatory |
+| Apprenticeship completion certificate | US Department of Labor/state apprenticeship agencies. | Optional | most states recommend completing a registered apprenticeship, not mandatory |
+| Commercial/industrial paint certification | Such as the SSPC association | Optional | Often required for specialized coatings like bridges and ships, not mandatory for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 278,000。美国劳工统计局预测2023-2033年就业增长约5%（平均速度），年新增约28,000个岗位。建筑活动增加和基础设施维护需求支撑就业，但经济波动影响较大。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 278,000. The US Bureau of Labor Statistics projects employment growth of about 5% from 2023-2033 (average pace), with about 28,000 new jobs annually. Increased construction activity and infrastructure maintenance needs support employment, but economic fluctuations have significant impact.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 学徒或入门级，通常为时薪$15-$20 |
-| 中级（4-7年） | $42,000~$60,000 | 经验丰富、技能熟练，时薪$20-$29 |
-| 高级（8年+） | $60,000~$83,000 | 领班、承包商或特种涂装，顶级可达六位数 |
+| Median salary | $49,400 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Apprentice or entry-level, typically hourly wage $15-$20 |
+| Mid-level (4-7 years) | $42,000~$60,000 | Experienced and skilled, hourly rate $20-$29 |
+| Senior (8+ years) | $60,000~$83,000 | Foreman, contractor, or specialty coating, top earners can reach six figures |
+| average salary | $55,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒或助手起步，积累经验后可晋升为领班、工地主管，或自主创业成为承包商。部分油漆工通过考取商业或工业涂料专业认证，转向桥梁、船舶等高技术领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
+
+Start as an apprentice or assistant, gain experience, and advance to foreman, site supervisor, or start your own contracting business. Some painters obtain commercial or industrial coatings certifications to move into high-tech areas like bridge or ship painting.
+
+**Tasks most exposed to AI:**
+
+- Color matching and formula calculation (AI visual matching)
+- On-site measurement and material quantity estimation (BIM automated calculation)
+- Paint selection and quote generation (online tool)
+- Quality inspection (AI visual recognition of runs, color differences)
+- Work logs and client communication (automated report generation)
+
+**Where AI augments the role:**
+
+- AR-assisted preview of final painting effects to improve client communication efficiency
+- AI defect detection ensures coating quality and reduces rework
+- Robotic spraying aids high-altitude or large-area operations, improving efficiency and safety.
+- Smart devices automatically record construction parameters and optimize processes
+- Drones or wall-climbing robots for hazardous area pre-treatment
+
+**Human moat:**
+
+- Hand-painting of complex curves, irregular shapes, or fine decorations
+- On-site flexible judgement for unexpected situations (e.g. uneven walls, substrate treatment)
+- Custom artistic coatings (antique, texture effects)
+- Safety supervision and environmental compliance responsibilities (e.g., handling hazardous materials)
+- On-site experience and communication skills in multi-trade collaboration
+
+**Skills to build:**
+
+- Proficiency in Digital Color Matching Software and Electronic Color Systems
+- Learn basic BIM operations and construction collaboration platforms
+- Master the programming and maintenance of automated spraying equipment
+- Learning about eco-friendly coating materials and green processes
+- Enhance project management and customer communication skills
+- Understanding basic data analysis and quoting tools
+
+**Key growth areas:**
 
 - Construction
 - Infrastructure Maintenance
@@ -64,69 +100,68 @@ Paint walls, equipment, buildings, bridges, and other structural surfaces using 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不要求学士学位；少数管理或专业岗位可尝试 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | PERM劳工证路径，需证明美国工人短缺，流程缓慢但可行，需雇主担保 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 通过EB-3类别申请，难度较高，对技能和经验有要求 |
+| Subclass H-1B (H-1B Specialty Occupations) | Not usually applicable as this occupation does not require a bachelor's degree; a few management or professional roles may try |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | PERM labour certification pathway, requires proving US worker shortage, slow but feasible, needs employer sponsorship |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Apply through EB-3 category, highly competitive, with skill and experience requirements |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Painters, Construction and Maintenance？**
-- 喜欢动手操作、注重细节的体力劳动者
-- 愿意从事户外和高空作业
-- 希望快速入职，接受在职培训与学徒制
-
-**谁不适合学Painters, Construction and Maintenance？**
-- 对化学溶剂和粉尘过敏或敏感者
-- 追求高薪、低体力消耗或快速晋升者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Manual laborers who enjoy hands-on work and attention to detail
+- Willing to work outdoors and at heights
+- Want quick employment, accept on-the-job training and apprenticeships.
+
+**Who is not suited**
+- Those allergic or sensitive to chemical solvents and dust
+- Those seeking high pay, low physical demands, or rapid advancement
+
+---
+
+## 8. FAQ
+
+**Q: How much do painters earn annually in the US?**
+A: According to BLS data, the median annual salary for construction painters in 2023 was approximately $47,000, with entry-level around $32,000–$42,000 and senior-level reaching over $83,000.
+
+**Q: Can a painter immigrate through a US work visa?**
+A: Difficult. This occupation usually does not meet the degree requirements for H-1B professional visas; EB-3 green card requires PERM labor certification and employer proof of US worker shortage; quotas are limited. Recommend gaining experience and finding sponsorship first.
+
+**Q: Will this occupation be replaced by AI?**
+A: Very low risk. Painting requires fine manual work, surface preparation, and on-site decision-making, which AI and robots find hard to fully replace, especially in repair and custom painting fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Painters, Construction and Maintenance为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for painters in the US?**
-答：According to BLS, the median annual wage for construction painters was about $47,000 in 2023. Entry-level painters earn $32,000–$42,000, while experienced painters can exceed $83,000.
-
-**问：Can painters immigrate to the US via work visa?**
-答：It is challenging. This occupation generally does not qualify for H-1B due to lack of degree requirement. EB-3 green card via PERM is possible but requires employer sponsorship and labor certification; quotas are limited.
-
-**问：Will this job be replaced by AI?**
-答：The risk is low. Painting requires manual dexterity, surface preparation, and on-site judgment; AI and robots cannot fully replace humans, especially in maintenance and custom finishes.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

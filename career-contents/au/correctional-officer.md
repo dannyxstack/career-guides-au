@@ -1,65 +1,94 @@
-# 惩教官员（狱警）（Correctional Officer）职业分析 · 澳大利亚
+# Correctional Officer — career analysis · Australia
 
-**职业代码：442111 – Correctional Officer。**
+**Occupation code: 442111 (ANZSCO)**
 
-惩教官员(狱警)在州/领地监狱负责在押人员的看管、安全与改造支持，由州惩教部门雇用，有结构化培训与轮班津贴，无需学位、入职后带薪培训，非技术移民职业。
+Correctional officers supervise, secure, and support rehabilitation of detainees in state/territory prisons. Employed by state correctional departments, with structured training and shift allowances. No degree required; paid training on entry. Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无需学位 + 入职带薪培训 | 数周~数月 | —（雇主提供） |
-| 体能 / 心理 / 背景审查 | 数周 | —（录用前） |
+| No degree required + paid on-the-job training | A few weeks to several months | $0~$0 (Provided by employer) |
+| Physical/psychological/background check | Several weeks | $0~$0 (Pre-employment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 惩教官员入职培训证书 | 州惩教部门 | 必备 | 强制 |
-| National Police Check / 体能评估 | 各州 | 必备 | 强制 |
+| Correctional officer induction training certificate | State correctional services department | Required | Mandatory |
+| National Police Check / Physical fitness assessment | All states | Required | Mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 22,000。监狱人口与安全需求支撑稳定招聘，通过体能/心理评估并完成入职培训者即可上岗。
+**Job demand: high (★★★★☆).** National workforce approx. 22,000. Prison population and security needs support stable recruitment; those who pass physical/psychological assessments and complete induction training can start work.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 各州 corrections 官网 | 800~1,800 个 | 州政府 |
-| Seek | 600~1,400 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 含培训期 |
-| 中级（3-8年） | $80,000~$95,000 | 含轮班津贴 |
-| 资深 / 主管 | $95,000~$115,000 | 含加班 |
+| Median salary | $108,160 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Including training period |
+| Mid-level (3–8 years) | $80,000~$95,000 | Includes shift allowances |
+| Senior / Supervisor | $95,000~$115,000 | Including overtime |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：惩教官员→高级/主管→专职(危机/情报)；轮班、加班与津贴显著影响实际收入。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will optimize monitoring and paperwork, but prison officers' core security supervision and crisis management require human judgment. Overall role structure remains stable, but entry-level jobs require more skills due to technology
+
+Pathway: correctional officer → senior/supervisor → specialist (crisis/intelligence); shifts, overtime, and allowances significantly affect actual income.
+
+**Tasks most exposed to AI:**
+
+- Automated video surveillance and abnormal behavior detection
+- Remote management of electronic fences and access control systems
+- Automatic entry and organization of inmate daily reports and records
+- AI-based prisoner risk scoring and classification
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of prisoner behavior patterns to prevent conflicts
+- Real-time health monitoring via wearable sensors to enhance emergency response
+- VR simulation training scenarios to enhance crisis management skills
+- Natural language processing optimization for communication records with prisoners
+- Automated scheduling and resource allocation to improve management efficiency
+
+**Human moat:**
+
+- Crisis intervention and judgment during sudden riots, suicides, etc.
+- Psychological counseling and behavior correction for inmates based on interpersonal trust
+- Ultimate bearer of legal and ethical responsibility
+- Non-verbal communication to maintain order and authority in high-pressure environments
+
+**Skills to build:**
+
+- Basic data analysis and AI tool operation
+- Conflict mediation and negotiation skills
+- Mental health first aid and trauma-informed care
+- Digital monitoring system management and troubleshooting
+- Cross-cultural communication and management of diverse groups
+- Emergency management and tactical decision-making
+
+**Key growth areas:**
 
 - Custodial Services
 - Rehabilitation Programs
@@ -68,58 +97,59 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学惩教官员（狱警）？**
-- 心理素质稳定、能轮班作业者
-- 想要无需学位的稳定公职者
-
-**谁不适合学惩教官员（狱警）？**
-- 难以应对高压与冲突环境者
-- 排斥轮班/夜班者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with stable psychology and shift work capability
+- Those seeking a stable public sector role without a degree requirement
+
+**Who is not suited**
+- Unsuitable for high-pressure and conflict environments
+- Those who cannot work rotating shifts / night shifts
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of correctional officers in Australia?**
+A: Approximately AUD 65,000~115,000, shift and overtime allowances have a significant impact, varies noticeably by state.
+
+**Q: Can prison officers do skilled migration?**
+A: No, it is a state government local public role and often requires citizenship/permanent residency and background checks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-惩教官员（狱警）属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：惩教官员澳洲薪资多少？**
-答：约 AUD $6.5万~$11.5万，轮班与加班津贴影响较大，各州差异明显。
-
-**问：狱警能技术移民吗？**
-答：不能，属于州政府本地公职，且多要求公民/永居与背景审查。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

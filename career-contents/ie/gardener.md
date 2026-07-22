@@ -1,59 +1,90 @@
-# Gardener（Gardener）职业分析 · IE
+# Gardener — career analysis · Ireland
 
-**职业代码：6113 – Gardener。**
+**Occupation code: 6113 (ISCO08)**
 
-Gardeners plant, prune, maintain lawns, and manage landscapes in private gardens, parks, or commercial properties.
+Gardeners are responsible for planting, pruning, lawn maintenance, and landscape management, primarily working in private gardens, parks, or commercial properties.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 | 2年 | $2,000~$5,000（公立继续教育学院学费） |
-| 学徒制 | 2-4年 | —（带薪学徒，费用低） |
+| Vocational education | 2 years | $2,000~$5,000 (Public continuing education college tuition fees) |
+| Apprenticeship | 2-4 years | $0~$1,000 (Paid apprenticeship with low costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺证书（QQI Level 5/6） | QQI（爱尔兰质量与资格认证） | 可选 | 常见入门资格 |
-| 农药使用许可证 | 爱尔兰农业、食品和海洋部 | 可选 | 若使用农药则需 |
-| 安全驾驶许可证（驾驶园艺车辆） | 爱尔兰交通部 | 可选 | 操作车辆时需 |
+| Horticulture Certificate (QQI Level 5/6) | QQI (Quality and Qualifications Ireland) | Optional | Common entry qualifications |
+| Pesticide use permit | Irish Department of Agriculture, Food and the Marine | Optional | If pesticides are used, then need |
+| Safe Driving Permit (driving horticultural vehicles) | Irish Department of Transport | Optional | Required when operating vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。随着爱尔兰城市绿化项目增加和园艺需求上升，园丁就业前景稳定，尤其在东部的都柏林地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. With the increase in urban greening projects and rising demand for horticulture in Ireland, the employment outlook for gardeners is stable, especially in the eastern region of Dublin.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 全职税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 含经验加给 |
-| 高级（7年以上） | $35,000~$45,000 | 主管或自雇 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Full-time pre-tax annual salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including experience allowance |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor or self-employed |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 园丁可通过考取高级园艺证书晋升为园艺主管或景观经理，也可自营园艺公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gardening positions are significantly affected by AI automation, with repetitive tasks like pruning and watering easily replaced, but creative landscape design and client communication still require humans; entry-level competition is intensifying.
+
+Gardeners can advance to head gardener or landscape manager by obtaining advanced horticulture certificates, or start their own gardening business.
+
+**Tasks most exposed to AI:**
+
+- Use automatic lawnmowers for grass cutting.
+- Use smart irrigation systems to water according to preset schedules
+- Conduct plant health scans and basic pest/disease identification via drones or robots
+
+**Where AI augments the role:**
+
+- AI-assisted design software helps plan complex landscape layouts
+- Sensor data analysis to optimize fertilization and pruning cycles
+- Robots assist with high-intensity soil tilling and heavy object handling
+
+**Human moat:**
+
+- Creative horticultural design (e.g., personalized landscape art)
+- Customer Communication and Customization Needs Understanding
+- Diagnosis and manual treatment of complex plant diseases
+- A gardener's ability to adapt to changing weather conditions outdoors
+
+**Skills to build:**
+
+- AI tool operation (e.g., smart irrigation, robot maintenance)
+- Data interpretation (analysis of sensor and drone data)
+- Basic Programming (Automated Equipment Monitoring and Simple Troubleshooting)
+- Sustainable horticulture knowledge (eco-friendly planting).
+- Advanced landscape design (integrating AI-assisted software)
+- Customer Relationship Management (Communication and Customised Services)
+
+**Key growth areas:**
 
 - Urban greening
 - Landscaping
@@ -62,68 +93,67 @@ Gardeners plant, prune, maintain lawns, and manage landscapes in private gardens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需年薪≥30,000欧元，雇主支持，园艺职位通常符合 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥一般门槛（约33,000欧元），园艺职位较少使用 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 仅限短缺职业，园艺通常不符合 |
+| Subclass General Employment P (General Employment Permit) | Requires annual salary ≥ €30,000, employer support, gardening positions usually eligible |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥ general threshold (approximately €33,000), rarely used for horticultural positions |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Only for shortage occupations, horticulture is usually not eligible |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gardener？**
-- 喜欢户外工作且体力充沛的人
-- 对植物和园艺有热情的人
-- 愿意接受技能培训的人
-
-**谁不适合学Gardener？**
-- 厌恶户外或天气变化的人
-- 无法承受体力劳动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and have physical stamina
+- People passionate about plants and gardening
+- People willing to undergo skills training
+
+**Who is not suited**
+- People who dislike outdoor work or weather changes.
+- People unable to perform physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for gardeners in Ireland?**
+A: Junior gardener annual salary approx. €22,000-28,000, senior up to €35,000-45,000, self-employment income can be higher.
+
+**Q: Can gardeners apply for an Irish work visa?**
+A: You can apply for a General Employment Permit, requiring an annual salary of at least €30,000 and employer sponsorship. Horticulture is not a shortage occupation, so the Critical Skills Permit does not apply.
+
+**Q: What are the career prospects for a gardener in Ireland?**
+A: With growth in urban greening and sustainable horticulture demand, employment is stable. Advanced certifications can lead to supervisor roles or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Gardener的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for gardeners in Ireland?**
-答：Entry-level gardeners earn €22,000-€28,000 per year, senior gardeners can reach €35,000-€45,000, self-employed may earn more.
-
-**问：Can gardeners apply for an Irish work visa?**
-答：Yes, General Employment Permit requires salary ≥€30,000 and employer support. Horticulture is not a shortage occupation, Critical Skills Permit not applicable.
-
-**问：What is the career prospect for gardeners in Ireland?**
-答：Steady demand due to urban greening and sustainable gardening. Advancement possible via advanced certification to supervisor or self-employment.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

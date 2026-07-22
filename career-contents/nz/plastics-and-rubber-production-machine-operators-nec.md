@@ -1,62 +1,96 @@
-# Plastics and Rubber Production Machine Operators nec（Plastics and Rubber Production Machine Operators nec）职业分析 · 新西兰
+# Plastics and Rubber Production Machine Operators nec — career analysis · New Zealand
 
-**职业代码：711599 – Plastics and Rubber Production Machine Operators nec。**
+**Occupation code: 711599 (ANZSCO)**
 
-Operate plastics or rubber production machines for mixing, pressing, molding, cutting, etc., to produce various plastic and rubber products. In New Zealand, this occupation is considered low-skilled, typically accessed via Accredited Employer Work Visa (AEWV) with limited migration pathways.
+Operate plastic or rubber production machines to perform mixing, pressing, molding, cutting, and other processes to produce various plastic and rubber products. In New Zealand, this occupation is classified as low-skilled, typically working under Accredited Employer Work Visa (AEWV) with limited skilled migration pathways.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | NCEA Level 2 | —（公立中学免费） |
-| 在职培训 | 1-2年 | —（雇主提供或自行参加短期课程） |
-| 新西兰学历认证（选项） | 6个月至1年 | $5,000~$15,000（如新西兰理工学院相关证书） |
+| High school diploma | NCEA Level 2 | $0~$0 (Free public secondary school) |
+| On-the-job training | 1-2 years | $0~$5,000 (Short-term courses provided by employer or self-organized.) |
+| NZQA Qualifications Assessment (optional) | 6 months to 1 year | $5,000~$15,000 (E.g., relevant certificates from New Zealand Institute of Technology.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰全国制造证书（塑料加工） | Competenz | 可选 | 非强制性，但有助于就业 |
-| 工作场所安全培训（如Site Safe） | Site Safe | 可选 | 部分雇主要求 |
-| 叉车操作执照 | OSH认证 | 可选 | 常见附加技能 |
+| New Zealand National Certificate in Manufacturing (Plastics Processing) | Competenz | Optional | Not mandatory, but helpful for employment |
+| Workplace safety training (e.g., Site Safe). | Site Safe | Optional | Some employers require |
+| Forklift license | OSH certification | Optional | Common additional skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 1,200。新西兰制造业规模有限，塑料和橡胶生产岗位需求相对平稳，但受自动化影响，操作员岗位增长缓慢。主要集中在奥克兰和怀卡托地区。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. New Zealand's manufacturing sector is limited in scale, with relatively stable demand for plastic and rubber production roles, but automation has slowed operator position growth. Mainly concentrated in Auckland and Waikato regions.
 
-**竞争度：一般（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$52,000 | 通常为最低工资或略高 |
-| 中级（3-7年） | $52,000~$60,000 | 有经验操作员 |
-| 高级（7年以上） | $60,000~$70,000 | 高级操作员或主管 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Usually minimum wage or slightly higher |
+| Mid-level (3–7 years) | $52,000~$60,000 | Experienced operator |
+| Senior (7+ years) | $60,000~$70,000 | Senior operator or supervisor |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★★☆☆☆）。** 职业晋升路径有限，可从初级操作员升至高级操作员或主管，但技能专精度不高。部分人员可能转向机械维护或质量控制岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+For plastic and rubber production machine operators (not elsewhere classified), AI and automation will significantly reduce job numbers, especially in high-volume standardized production, where operators face high risk of replacement by robotic workstations and intelligent monitoring systems.
+
+Career progression paths are limited, with potential advancement from junior operator to senior operator or supervisor, but the level of specialized skills is not high. Some individuals may transition to mechanical maintenance or quality control positions.
+
+**Tasks most exposed to AI:**
+
+- Product appearance defect detection through computer vision, replacing manual visual inspection
+- Using SCADA systems to automatically monitor and adjust process parameters such as extrusion and injection molding
+- Repetitive operations such as mold opening/closing, part removal, and trimming are automatically performed by industrial robots
+- IoT sensor-based predictive maintenance scheduling, replacing manual inspections and records
+
+**Where AI augments the role:**
+
+- AI-assisted recipe optimization: recommends optimal temperature and pressure settings based on raw material batch variations
+- Digital twin simulation: debugging new molds or new processes in a virtual environment to reduce trial losses
+- Mobile AR glasses: overlay display of equipment parameters, repair steps, improving efficiency in complex fault handling.
+- Intelligent production scheduling system: automatically assigns tasks based on order priority and equipment status, operators only need to supervise
+
+**Human moat:**
+
+- Quickly diagnose and repair non-standard equipment faults (sensor failure, mechanical jamming).
+- Experience in trial production and fine-tuning during raw material formula changes
+- Flexibly switch molds and process parameters in high-mix, low-volume production
+- Cross-departmental communication: coordinate special order requirements with engineers, warehouse, and customers.
+- Comply with and enforce safety procedures, especially for hazardous material handling and confined space operations
+
+**Skills to build:**
+
+- Basics of automation equipment programming (PLC, HMI basic operation)
+- Industrial robot teaching and maintenance (e.g., KUKA, ABB)
+- Quality data analysis (Statistical Process Control, SPC)
+- IoT and MES system operation skills
+- Basic electrical fault troubleshooting (multimeters, circuit diagrams)
+- Communication and Team Collaboration (adapting to fewer operators and more cross-functional responsibilities)
+
+**Key growth areas:**
 
 - low-skilled
 - AEWV
@@ -65,68 +99,67 @@ Operate plastics or rubber production machines for mixing, pressing, molding, cu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：很低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，职位需为低技能或中等技能，工资需达到中位数或市场水平 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合技术移民要求，因ANZSCO技能等级为Level 4-5，且非长期短缺 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an approved employer, position must be low-skilled or medium-skilled, salary must meet median or market level |
+| Subclass SMC (Skilled Migrant Category) | Generally does not meet skilled migration requirements, as ANZSCO skill level is 4-5 and not on the long-term shortage list. |
 
-**PR难度：很高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plastics and Rubber Production Machine Operators nec？**
-- 希望快速进入劳动力市场、不介意体力劳动的人
-- 有工厂工作经验或愿意从基层做起的人
-- 对移民要求不高，仅想短时间在新西兰工作的人
-
-**谁不适合学Plastics and Rubber Production Machine Operators nec？**
-- 希望长期定居新西兰并获取居民身份的人
-- 追求高薪资或快速晋升的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who want to quickly enter the labor market and don't mind physical labor
+- People with factory work experience or willing to start from the ground up
+- For those with low migration requirements who only want to work in New Zealand for a short time
+
+**Who is not suited**
+- People who wish to settle in New Zealand long-term and obtain residency
+- Those seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plastics and rubber production machine operators?**
+A: Junior operators earn about NZ$45,000-52,000 per year, mid-level NZ$52,000-60,000, and senior up to NZ$70,000. Salaries are typically influenced by region, company size, and experience.
+
+**Q: Can this occupation apply for a New Zealand residence visa through skilled migration?**
+A: Usually not. This occupation is classified as skill level 4-5 in ANZSCO and is not a New Zealand shortage occupation, mainly eligible only for the Accredited Employer Work Visa (AEWV), with very limited pathways for Skilled Migrant Category (SMC).
+
+**Q: Which regions in New Zealand have more plastic and rubber production machine operator jobs?**
+A: Concentrated in Auckland, Waikato, and Canterbury regions due to higher manufacturing enterprise distribution. Other industrial areas may also have limited demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 一般（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较差（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Plastics and Rubber Production Machine Operators nec为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for plastics and rubber production machine operators?**
-答：Entry-level operators earn NZD 45,000-52,000 per year, intermediate NZD 52,000-60,000, and senior up to NZD 70,000. Pay varies by region, company size, and experience.
-
-**问：Can this occupation qualify for Skilled Migrant Category residency?**
-答：Generally no. The occupation is ANZSCO Skill Level 4-5 and not on shortage lists, so the main visa pathway is the Accredited Employer Work Visa (AEWV), with limited SMC eligibility.
-
-**问：Which regions in New Zealand have more jobs for plastics and rubber production machine operators?**
-答：Auckland, Waikato, and Canterbury have higher concentrations due to manufacturing hubs. Other industrial areas may also have limited opportunities.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,90 @@
-# Asian Language and Literature Scientist（Asian Language and Literature Scientist）职业分析 · DE
+# Asian Language and Literature Scientist — career analysis · Germany
 
-**职业代码：9116 – Asian Language and Literature Scientist。**
+**Occupation code: 9116 (KldB)**
 
-Professional specializing in research, teaching, and translation of Asian languages and literature, typically employed at universities or research institutes.
+Professionals engaged in Asian language and literature research, teaching, and translation, typically working in universities or research institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年 | —（公立大学通常免学费，仅收注册费） |
-| 博士 | 3-5年 | —（博士职位通常有奖学金或工资） |
+| Master's degree | 2 years | $0~$30,000 (Public universities are usually tuition-free, only charging registration fees) |
+| Doctorate | 3-5 years | $0~$30,000 (PhD positions usually come with scholarships or a salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 大学 | 必备 | 相关亚洲语言文学专业 |
-| 博士学历 | 大学 | 可选 | 高校教职通常要求 |
+| Master's degree | University | Required | Related Asian language and literature majors |
+| PhD degree | University | Optional | Academic positions at universities typically require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。德国对亚洲语言文化的研究需求稳定，但职位有限，竞争激烈。数字化转型为在线教学带来新机会，但整体就业增长平缓。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. Demand for Asian language and cultural studies in Germany is stable but positions are limited, competition is fierce. Digital transformation brings new opportunities for online teaching, but overall employment growth is flat.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 研究助理或讲师 |
-| 中级（4-7年） | $45,000~$60,000 | 博士后或有经验讲师 |
-| 高级（8年以上） | $60,000~$85,000 | 教授或高级研究员 |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research assistant or lecturer |
+| Mid-level (4-7 years) | $45,000~$60,000 | Postdoctoral or experienced lecturer |
+| Senior (8+ years) | $60,000~$85,000 | Professor or senior researcher |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 职业发展通常从研究助理或讲师起步，逐步晋升为教授或高级研究员。也可转向跨文化培训、翻译或国际商务等应用领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on Asian language literature scholars is mixed: machine translation and text analysis tools can automate some translation and basic literature review, but deep cultural interpretation, critical research, and cross-cultural communication still require human experts, leading to structural changes in job demand.
+
+Career progression typically starts as a research assistant or lecturer, advancing to professor or senior researcher. It can also lead to applied fields such as cross-cultural training, translation, or international business.
+
+**Tasks most exposed to AI:**
+
+- Basic text translation and proofreading
+- Literature search and initial classification
+- Corpus annotation and data analysis
+- Standardized term extraction and alignment.
+
+**Where AI augments the role:**
+
+- Using AI for large-scale corpus mining and pattern discovery
+- AI-assisted generation of multilingual parallel corpora
+- Using machine learning to analyze text style and historical evolution
+- AI quickly validates research hypotheses and statistical inferences
+
+**Human moat:**
+
+- Cross-cultural deep context interpretation and critique
+- Original literary theory and philosophical speculation
+- Ethical Judgments in Cultural Memory and Identity
+- Personalized inspiration and discussion in teaching
+
+**Skills to build:**
+
+- Practical operation of AI text generation and translation tools (e.g., GPT, DeepL).
+- Python/NLP basic programming and corpus processing
+- Data Visualization and Digital Humanities Methods
+- Human-robot collaboration curriculum design skills
+- Cross-disciplinary research (culture + technology + social sciences) integration skills
+
+**Key growth areas:**
 
 - digital teaching
 - intercultural competence
@@ -61,64 +93,63 @@ Professional specializing in research, teaching, and translation of Asian langua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且年薪≥43600欧元（2024，普通职业）或≥39682欧元（紧缺职业），此职业通常符合要求。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主offer且职位与学历相关，适合高校或研究机构职位。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，需学历及财力证明。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and an annual salary ≥ €43,600 (2024, general occupation) or ≥ €39,682 (shortage occupation); this occupation usually meets the requirement. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a job offer from an employer and a position related to your qualification, suitable for university or research institution roles. |
+| Subclass Job Seeker (Job Seeker Visa) | Permits stay in Germany for 6 months to seek employment; requires degree and proof of financial means. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Asian Language and Literature Scientist？**
-- 对亚洲语言文化有深厚兴趣和学术热情的人
-- 愿意长期从事研究和教学工作的人
-
-**谁不适合学Asian Language and Literature Scientist？**
-- 追求高薪和快速职业发展的人
-- 希望工作机会充裕、就业稳定的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a deep interest and academic passion for Asian languages and cultures
+- Individuals willing to engage in long-term research and teaching
+
+**Who is not suited**
+- People pursuing high salary and fast career development
+- Those who desire abundant job opportunities and stable employment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for German Asian language and literature scholars?**
+A: Pre-tax annual salary approximately €35,000–85,000; entry-level positions are lower, professor-level is higher, but overall lower than engineering occupations.
+
+**Q: How can foreigners immigrate to Germany for work in Asian language and literature?**
+A: Eligible via EU Blue Card (requires meeting annual salary threshold) or skilled worker visa, typically requiring a university degree and employer offer. A PhD helps with application.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Asian Language and Literature Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Asian language and literature scientists in Germany?**
-答：Annual gross salary ranges from €35,000 to €85,000, with junior positions lower and professorial roles higher, but generally lower than engineering fields.
-
-**问：How can foreigners migrate to Germany to work in Asian language and literature?**
-答：Via EU Blue Card ( salary threshold met) or Skilled Worker Visa, typically requiring a university degree and job offer. A PhD facilitates application.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

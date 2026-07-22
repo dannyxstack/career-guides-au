@@ -1,62 +1,97 @@
-# Leather and Hide Processing and Finishing Machine Operator（Leather and Hide Processing and Finishing Machine Operator）职业分析 · FR
+# Leather and Hide Processing and Finishing Machine Operator — career analysis · France
 
-**职业代码：H2407 – Leather and Hide Processing and Finishing Machine Operator。**
+**Occupation code: H2407 (ROME)**
 
-Operates, monitors, and adjusts machines for processing and finishing leather and hides, including tanning, dyeing, and embossing, to meet quality standards. Works in tanneries or leather workshops, requiring knowledge of machinery and leather processing techniques.
+Responsible for operating, monitoring, and adjusting leather and fur processing and finishing machines, including tanning, dyeing, embossing, and other processes to ensure product quality meets standards. They usually work in tanneries or leather processing workshops, requiring mastery of mechanical operation and leather processing techniques.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 1年（CAP） | —（公立CFA免费或低学费，学徒制可获薪酬） |
-| 高中毕业+职业培训 | 2年（Bac Pro） | —（公立学校免费，需自备材料费） |
-| 学徒制（Alternance） | 1-2年 | —（企业支付学费并提供薪酬） |
+| High school graduation + vocational training | 1 year (CAP) | $0~$6,000 (Public CFAs offer free or low tuition, and apprenticeships can be paid) |
+| High school graduation + vocational training | 2 years (Bac Pro) | $0~$8,000 (Public schools are free, but materials must be brought in by themselves) |
+| Apprenticeship (Alternance) | 1-2 years | $0~$0 (The company pays tuition and provides compensation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 皮革加工 | 法国教育部 | 必备 | 基础职业文凭，必备 |
-| Bac Pro 皮革工艺 | 法国教育部 | 可选 | 更高水平的职业文凭，非强制但有利晋升 |
-| CQP 皮革机器操作员 | 行业委员会 | 可选 | 职业资格证书，部分企业要求 |
+| CAP leather processing | French Ministry of Education | Required | Basic vocational diploma, essential |
+| Bac Pro leather craftsmanship | French Ministry of Education | Optional | A higher-level professional diploma, non-mandatory but beneficial for promotion |
+| CQP leather machine operator | Industry committee | Optional | Professional qualification certificates, required by some enterprises |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 8,500。法国皮革行业面临自动化与环保法规双重挑战，就业岗位缓慢减少，但高端皮革制品（如奢侈品）领域仍有稳定需求。预计未来十年从业人数下降约5%，主要受产业升级影响。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. France's leather industry faces dual challenges from automation and environmental regulations, with jobs slowly decreasing, but stable demand remains in the high-end leather goods sector such as luxury goods. It is expected that the number of employees will decline by about 5% over the next decade, mainly due to industrial upgrading.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$25,000 | 税前年薪，通常按SMIC起步 |
-| 中级（3-7年） | $25,000~$30,000 | 税前年薪，经验丰富者可达 |
-| 高级（7年以上） | $30,000~$36,000 | 税前年薪，少数主管或技术专家更高 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$25,000 | Pre-tax annual salary usually starts at SMIC |
+| Mid-level (3–7 years) | $25,000~$30,000 | Pre-tax annual salary, available to experienced candidates |
+| Senior (7+ years) | $30,000~$36,000 | Pre-tax annual salaries, with a few supervisors or technical experts offering higher salaries |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 初级操作员可积累经验晋升为高级机器操作员或生产主管，部分可转向质量控制或技术维护岗位。极少进入管理层，通常止步于高级技术工。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+This profession relies heavily on repetitive physical operations and sensory judgment. AI and automation will significantly squeeze job demand, lowering entry barriers but intensifying job competition. It is recommended to transition early to high value-added sectors.
+
+Junior operators can gain experience and be promoted to senior machine operators or production supervisors, with some moving on to quality control or technical maintenance roles. Very few enter management, usually stopping at the senior technician level.
+
+**Tasks most exposed to AI:**
+
+- Machine vision is used to automatically detect and classify leather surface defects
+- Chemical feeding and process parameter adjustment for automated tanning tanks
+- Automatic positioning and repetitive operations for embossing, dyeing, and other processes
+- AI-based online measurement and feedback of leather thickness and color
+- Automatic winding and palletizing of finished leather
+
+**Where AI augments the role:**
+
+- Using AI to analyze historical data to optimize tanning and dyeing formulas
+- 3D scanning and digital twin assist in leather cutting and layout
+- Smart sensors monitor equipment status in real time and predict faults
+- Machine learning-assisted quality inspection standard optimization and defect classification
+- AR glasses remotely assist with the debugging and maintenance of complex equipment
+
+**Human moat:**
+
+- Subjective aesthetic judgments regarding the texture and texture of rare or high-end leather
+- Quick response and manual intervention when handling abnormal equipment failures
+- Communicate with clients about special customization requirements, transforming abstract requirements into process parameters
+- Cross-process coordination and quality control decisions, especially in small-batch multi-variety production
+
+**Skills to build:**
+
+- PLC basics and automated production line debugging skills
+- Data analysis and basic statistical process control (SPC)
+- Learn to use machine vision systems for quality inspection
+- Master basic operations of digital twins or CAD/CAM
+- Communication and problem-solving skills, adaptable to flexible production
+- Knowledge of safety production and new chemical management
+
+**Key growth areas:**
 
 - Automation
 - Sustainability
@@ -65,64 +100,66 @@ Operates, monitors, and adjusts machines for processing and finishing leather an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee visa） | 受雇工作居留，需雇主提供工作合同并证明无法招聘本地工人 |
+| Subclass Salarié (Employee visa) | For employed work residence, the employer must provide a work contract and prove that local workers cannot be recruited |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leather and Hide Processing and Finishing Machine Operator？**
-- 喜欢操作机器、动手能力强的人
-- 对皮革材料有兴趣，能接受气味和潮湿环境
-- 愿意在中小型工厂环境工作
+**Who is suited**
+- People who enjoy operating machines and have strong hands-on skills
+- Interested in leather materials, able to tolerate odors and humid environments
+- Willing to work in small to medium-sized factory environments
 
-**谁不适合学Leather and Hide Processing and Finishing Machine Operator？**
-- 对化学试剂或皮革气味敏感者
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- Those sensitive to chemical agents or leather odors
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this profession in France?**
+A: The entry-level annual salary is about 22,000-25,000 euros (before tax), while the senior can reach up to 36,000 euros. Salary growth is limited, but industry stability is moderate.
+
+**Q: Can foreigners enter this profession through the skilled migration route?**
+A: It's very difficult. This occupation is not considered a shortage occupation in France; employers must prove they cannot find EU workers before hiring third-country personnel. The pathway to skilled migration is narrow, with almost no opportunities for EU Blue Cards or talent passports.
+
+**Q: What qualifications are required to work in this profession?**
+A: CAP (Professional Competency Certificate) or Bac Pro (Vocational High School Diploma) is usually required in the leather processing field. Some companies may require a CQP (Industry Professional Qualification Certificate). These diplomas are issued by the French Ministry of Education or industry councils.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Leather and Hide Processing and Finishing Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in France?**
-答：Entry-level annual salary is around €22,000-€25,000 (gross), reaching up to €36,000 for senior positions. Salary growth is limited, but job stability is moderate.
-
-**问：Can foreigners enter this occupation through skilled migration?**
-答：Very difficult. This occupation is not in shortage in France, and employers must prove no EU worker is available. Skilled migration routes are limited, with almost no EU Blue Card or Talent Passport opportunities.
-
-**问：What qualifications are required for this occupation?**
-答：Typically a CAP (Certificate of Professional Competence) or Bac Pro (Vocational High School Diploma) in leather processing is required. Some employers may require a CQP (Professional Qualification Certificate). These are issued by the French Ministry of Education or industry committees.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

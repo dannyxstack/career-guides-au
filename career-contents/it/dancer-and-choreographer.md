@@ -1,61 +1,97 @@
-# Dancer and Choreographer（Dancer and Choreographer）职业分析 · IT
+# Dancer and Choreographer — career analysis · Italy
 
-**职业代码：2653 – Dancer and Choreographer。**
+**Occupation code: 2653 (ISCO08)**
 
-In Italy, dancers and choreographers work in performing arts including classical, modern, and street dance, employed by theaters, TV, film, and independent groups.
+In Italy, dancers and choreographers work in performing arts, including classical, modern, street dance and other styles, employed by theaters, television, film and independent groups.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 舞蹈学院文凭 | 3年 | $5,000~$15,000（公立舞蹈学院学费较低） |
-| 大学本科（表演艺术） | 3年（本科） | $1,000~$4,000（公立大学每年学费） |
-| 舞蹈大师班或专业培训 | 1-2年 | $2,000~$8,000（私立培训机构费用） |
+| Diploma of Dance | 3 years | $5,000~$15,000 (Public dance college tuition is lower) |
+| Bachelor's degree (Performing Arts) | 3 years (bachelor's) | $1,000~$4,000 (Annual tuition fees at public universities) |
+| Dance masterclass or professional training | 1-2 years | $2,000~$8,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞蹈学院毕业证书 | 意大利公立或私立舞蹈学院 | 可选 | 通常为入学基础要求 |
-| 教师资格（Insegnante di Danza） | 意大利舞蹈联合会或区域认可机构 | 可选 | 教学岗位需要 |
+| Dance school diploma. | Public or private dance academies in Italy | Optional | Usually a minimum entry requirement |
+| Dance Teacher (Insegnante di Danza) | Italian Dance Federation or regionally recognized institution. | Optional | Teaching positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。意大利表演艺术行业规模较小但稳定，主要集中在罗马、米兰等大城市。受数字化和旅游文化推动，需求略有增长，但竞争激烈，职位多为短期合同。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. The Italian performing arts industry is small but stable, mainly concentrated in major cities like Rome and Milan. Driven by digitalization and tourism culture, demand has slightly increased, but competition is fierce and positions are mostly short-term contracts.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 税年薪，群演或小型演出 |
-| 中级（4-10年） | $25,000~$40,000 | 独舞或编舞，中型剧团 |
-| 高级（10年以上） | $40,000~$70,000 | 知名编舞或艺术总监 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Annual salary after tax, for extras or small performances. |
+| Mid-level (4-10 years). | $25,000~$40,000 | Solo dance or choreography, medium-sized theatre company |
+| Senior (10+ years) | $40,000~$70,000 | Renowned choreographer or artistic director |
+| average salary | $35,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径从群舞演员到独舞或编舞助理，再晋升为编舞或艺术总监。部分舞者转型教学或开设舞蹈工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on dancers and choreographers: choreography assistants and virtual rehearsals can improve efficiency, but AI poses replacement risks in basic dance instruction, ensemble choreography, and some creative work.
+
+Career progression path from group dancer to soloist or choreographer's assistant, then to choreographer or artistic director. Some dancers transition to teaching or opening dance studios.
+
+**Tasks most exposed to AI:**
+
+- Basic dance teaching: movement breakdown and correction
+- Group choreography (automatically generated based on music)
+- Replacing real human extras in virtual scenes
+- Automatic editing and publishing of dance videos
+- Automatic dance notation generation and translation
+
+**Where AI augments the role:**
+
+- Dance creation AI assistant (generating movement sequences, exploring styles)
+- VR/AR rehearsal and stage effect simulation
+- Data analysis optimizes performance choreography (audience preferences, spatial layout)
+- AI-driven clothing/lighting design integration
+- Personalized Online Interactive Course Tutoring
+
+**Human moat:**
+
+- Live improvisation and emotional expression
+- Unique artistic style and innovation
+- Preservation of cultural rituals and traditional dances
+- Real-time interaction and empathy with audiences
+- Complex narrative and cross-media fusion creation
+
+**Skills to build:**
+
+- AI choreography tools (e.g., ChoreoAI, Choreography)
+- Motion Capture and Virtual Production Technology
+- Basic programming (Python, Web development)
+- Digital Content Operations and Social Media Marketing
+- Cross-media creation (VR/AR, interactive installations)
+- Data analysis and visualization
+
+**Key growth areas:**
 
 - Cultural tourism
 - Digital performances
@@ -64,66 +100,68 @@ In Italy, dancers and choreographers work in performing arts including classical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Carta Blu UE)） | 适用于高技能非欧盟工人，需大学学历及高薪合同，此职业通常不符合 |
-| Subclass Work Visa (Lavoro Su（Work Visa (Visto per Lavoro Subordinato)） | 需雇主担保并通过劳工测试，适用于长期雇佣合同 |
-| Subclass Freelance Visa (Lavo（Freelance Visa (Visto per Lavoro Autonomo)） | 适用于自雇舞者或编舞，需证明财务能力及专业资格 |
+| Subclass EU Blue Card (EU Blue Card (Carta Blu UE)) | Applies to high-skilled non-EU workers requiring a university degree and high-wage contract; this occupation usually does not qualify |
+| Subclass Work Visa (Lavoro Su (Work Visa (Visto per Lavoro Subordinato)) | Requires employer sponsorship and labor market testing, applicable to long-term employment contracts |
+| Subclass Freelance Visa (Lavo (Freelance Visa (Visto per Lavoro Autonomo)) | Applies to self-employed dancers or choreographers; must demonstrate financial capacity and professional qualifications |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dancer and Choreographer？**
-- 有艺术天赋和表演热情的人
-- 能接受不规律工作和频繁试镜的人
-- 身体素质和耐力强的人
+**Who is suited**
+- Individuals with artistic talent and a passion for performance
+- Those who can handle irregular work schedules and frequent auditions
+- People with strong physical fitness and endurance
 
-**谁不适合学Dancer and Choreographer？**
-- 追求稳定高薪和福利的人
-- 缺乏自律和抗压能力的人
+**Who is not suited**
+- People who pursue stable, high salaries and benefits
+- Lack of self-discipline and stress tolerance
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for dancers in Italy?**
+A: Entry-level annual salary around €15,000-€25,000, mid-level €25,000-€40,000, senior €40,000-€70,000, but mostly short-term contracts with unstable income.
+
+**Q: Can non-EU dancers immigrate to Italy?**
+A: Possible, but difficult. Requires employer sponsorship or self-employment visa, and meeting labour market testing. EU citizens can do so through freedom of movement.
+
+**Q: What career development paths are available for dancers?**
+A: Can advance from ensemble dancer to soloist, then to choreographer or artistic director. Also possible to move into teaching or start a studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Dancer and Choreographer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dancers in Italy?**
-答：Entry-level annual salary is around €15,000-25,000, mid-level €25,000-40,000, senior €40,000-70,000, but mostly short-term contracts with unstable income.
-
-**问：Can non-EU dancers immigrate to Italy?**
-答：Yes, but challenging. Requires employer sponsorship or freelance visa and labor market test. EU citizens can use free movement.
-
-**问：What career paths are available for dancers?**
-答：Can progress from corps de ballet to soloist, then choreographer or artistic director. Can also move into teaching or open a studio.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

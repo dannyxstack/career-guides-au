@@ -1,60 +1,92 @@
-# Coding, Proofreading and Related Clerks（Coding, Proofreading and Related Clerks）职业分析 · IT
+# Coding, Proofreading and Related Clerks — career analysis · Italy
 
-**职业代码：4413 – Coding, Proofreading and Related Clerks。**
+**Occupation code: 4413 (ISCO08)**
 
-Responsible for data coding, text proofreading, and document processing to ensure accuracy and format compliance, commonly found in administration, publishing, and data entry sectors.
+Responsible for data encoding, proofreading, and document processing to ensure accuracy and format compliance, commonly found in administration, publishing, and data entry fields.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 12年（高中毕业） | —（公立教育免费） |
-| 高职或短期培训 | 1-2年 | $1,000~$5,000（私立培训课程费用） |
+| High school diploma or equivalent | 12 years (high school graduation) | $0~$0 (Public education is free) |
+| Diploma or short-term training | 1-2 years | $1,000~$5,000 (private training course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利语拼写和语法证书 | Accademia della Crusca | 可选 | 非强制但受雇主青睐 |
-| 计算机基础证书 | ECDL/ICDL | 可选 | 常用办公软件技能证明 |
+| Italian spelling and grammar certificate | Accademia della Crusca | Optional | Not mandatory but favored by employers |
+| Basic Computer Certificate | ECDL/ICDL | Optional | Proof of common office software skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。意大利就业市场对编码和校对职员需求稳定，但受数字化转型影响，部分重复性工作可能减少，需提升多语言和数字化技能。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The Italian job market shows stable demand for coding and proofreading clerks, but digital transformation may reduce some repetitive tasks, requiring enhanced multilingual and digital skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含奖金 |
-| 中级（3-6年） | $22,000~$28,000 | 税前年薪 |
-| 高级（6年以上） | $28,000~$35,000 | 税前年薪，含管理职责 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–6 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (6+ years) | $28,000~$35,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径可从初级文员晋升为高级校对或数据管理专员，也可转向翻译、编辑或行政主管岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Coding, proofreading, and related clerical roles are highly vulnerable; AI (e.g., large language models) can efficiently handle text proofreading, data coding, and basic documentation. Demand for entry-level positions will significantly shrink, leaving only complex tasks requiring human judgment.
+
+Career progression paths can range from junior clerk to senior proofreader or data management specialist, and can also transition to roles such as translator, editor, or administrative supervisor.
+
+**Tasks most exposed to AI:**
+
+- Text Proofreading and Spell Checking with Real-time High Accuracy by AI Models
+- Data Encoding and Classification: Standardized Conversion from Spreadsheets to Databases
+- Standardization of format, such as layout and punctuation uniformity
+- Simple document template filling and letter generation
+
+**Where AI augments the role:**
+
+- Logic and semantic proofreading of complex text; AI provides suggestions, but humans must finalize.
+- Auxiliary proofreading of multilingual documents, AI draft first then human polishing
+- Data quality monitoring, AI flags outliers for human review
+- Quickly locate reference sources via AI search to improve proofreading efficiency
+
+**Human moat:**
+
+- Semantic judgment and style grasp in complex contexts
+- Authoritative verification of legal or professional terminology
+- Responsibility for handling data involving trade secrets or privacy
+- Cross-departmental communication and requirement clarification
+
+**Skills to build:**
+
+- Advanced configuration of AI proofreading tools (e.g. Grammarly Business, Acrolinx)
+- Basic programming (Python/Excel macros) to automate repetitive tasks
+- Data visualization and basic analysis
+- Project management and quality control
+- Domain expertise (e.g., legal, medical knowledge)
+
+**Key growth areas:**
 
 - Data Entry
 - Digital Transcription
@@ -63,64 +95,66 @@ Responsible for data coding, text proofreading, and document processing to ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能非欧盟公民，需大学学历及年薪不低于约28,000欧元（2024年标准）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 用于非高技能岗位，需雇主担保且受年度配额限制，适合此类文员岗位。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, requiring a university degree and an annual salary of no less than approximately €28,000 (2024 standard). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-high-skilled positions, requires employer sponsorship and subject to annual quota, suitable for such clerical roles. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coding, Proofreading and Related Clerks？**
-- 细心、耐心且注重细节的人
-- 具备良好语言和计算机技能的人
+**Who is suited**
+- Attentive, patient, and detail-oriented individuals
+- People with good language and computer skills
 
-**谁不适合学Coding, Proofreading and Related Clerks？**
-- 追求高薪和快速发展的人
-- 不喜欢重复性工作的人
+**Who is not suited**
+- Those pursuing high salary and rapid development
+- People who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for coding and proofreading clerks in Italy?**
+A: The entry-level salary is about 18,000-22,000 euros, the intermediate 22,000-28,000 euros, and the senior level up to 35,000 euros.
+
+**Q: How can non-EU citizens obtain an Italian clerical work visa?**
+A: Can be accessed via the Decreto Flussi quota work visa (requiring employer sponsorship) or EU Blue Card (requiring meeting high-skilled salary thresholds).
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can advance to senior proofreader, data management specialist, or administrative supervisor, or transition to translation or editing roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Coding, Proofreading and Related Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for coding and proofreading clerks in Italy?**
-答：Entry-level salary is around €18,000-22,000 per year, mid-level €22,000-28,000, and senior up to €35,000.
-
-**问：How can non-EU citizens obtain a work visa for such clerical jobs in Italy?**
-答：Through the Decreto Flussi quota work visa (employer sponsorship required) or EU Blue Card (needs to meet high-skilled salary threshold).
-
-**问：Is there any career advancement for this occupation?**
-答：Yes, you can advance to senior proofreader, data management specialist, or administrative supervisor, or transition to translation or editing roles.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Aquaculture Worker（Aquaculture Worker）职业分析 · IT
+# Aquaculture Worker — career analysis · Italy
 
-**职业代码：6221 – Aquaculture Worker。**
+**Occupation code: 6221 (ISCO08)**
 
-Cultivates and harvests fish, shellfish, and other aquatic organisms, performing feeding, water quality monitoring, and disease control tasks.
+Engages in the cultivation, harvesting, and daily management of aquatic organisms such as fish and shellfish, including feeding, water quality monitoring, disease control, etc.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职校 | 3年（职校文凭） | —（公立学校免费或低学费） |
-| 本科 | 3年（学士） | $1,000~$4,000（公立大学学费因收入而异） |
+| High School / Vocational School | 3 years (vocational school diploma) | $0~$3,000 (Public schools offer free or low tuition) |
+| Bachelor's degree | 3 years (bachelor's degree) | $1,000~$4,000 (Public university tuition fees vary by income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖职业资格 | 大区职业培训中心 | 可选 | 部分大区要求特定培训证书 |
-| 食品安全与卫生证书 | 地方卫生局 | 可选 | 从事产品处理时可能需要 |
+| Aquaculture occupational qualification | Regional vocational training center | Optional | Some regions require specific training certificates |
+| Food safety and sanitation certificate | Local Health District | Optional | May be required when handling products |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利水产养殖业稳步发展，尤其是贝类和鱼类养殖，受蓝经济战略支持，就业需求稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Italy's aquaculture industry is steadily developing, especially shellfish and fish farming, supported by the Blue Economy strategy, with stable employment demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，兼职或季节工较低 |
-| 中级（3-7年） | $22,000~$28,000 | 根据技能和农场规模差异 |
-| 高级（7年以上） | $28,000~$35,000 | 包括主管或技术专家职位 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, lower for part-time or seasonal workers |
+| Mid-level (3–7 years) | $22,000~$28,000 | Varies by skills and farm size |
+| Senior (7+ years) | $28,000~$35,000 | Includes supervisor or technical expert positions |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级工人晋升为高级养殖技师或农场主管，或转向质量控制、水产技术推广等岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aquaculture workers face a mix of automation reduction and AI augmentation: repetitive tasks like feeding and monitoring will be replaced, but complex decisions such as disease diagnosis and environmental control still require human experience, leading to increased competition for entry-level positions.
+
+Can advance from entry-level worker to senior aquaculture technician or farm supervisor, or transition to roles such as quality control, aquatic technology extension, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding system replaces manual timed feeding
+- Water quality monitoring sensors and AI analysis replace manual sampling and testing.
+- Underwater drone inspections replace manual observation of fish school status.
+- Automated harvesting equipment replaces manual picking and sorting
+
+**Where AI augments the role:**
+
+- AI-assisted disease early warning system enhances early identification and prevention efficiency.
+- Data-driven precision feeding decisions to optimize feed utilization
+- Digital twin aquaculture model assists in environmental parameter regulation
+- AI analysis of growth curves to optimize harvest time windows
+
+**Human moat:**
+
+- On-site judgement and emergency response to sudden illness or abnormal environmental conditions
+- Intuition and experience for the overall ecological balance of farming systems
+- Manual observation and early intervention for abnormal animal behavior (AI struggles to capture subtle signs)
+- Cross-disciplinary coordination and decision-making with experts such as veterinarians and nutritionists
+
+**Skills to build:**
+
+- Sensor and automation equipment operation and maintenance
+- Data processing and basic statistics (interpreting breeding data)
+- Use of AI Tools (e.g., Disease Diagnosis Applications)
+- IoT system management and troubleshooting
+- Biosecurity and sustainable aquaculture practices
+- Basic programming and scripting (automated workflow customization)
+
+**Key growth areas:**
 
 - Aquaculture expansion
 - Sustainable practices
@@ -63,62 +96,64 @@ Cultivates and harvests fish, shellfish, and other aquatic organisms, performing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟季节性工人，需雇主申请配额，每年限额。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，但水产养殖工人通常不满足薪资门槛。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers; requires employer to apply for a quota, with an annual cap. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, but aquaculture workers usually do not meet the salary threshold. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aquaculture Worker？**
-- 热爱户外工作和自然环境
-- 能从事体力劳动，适应季节性和潮湿环境
-- 有责任心，关注生物安全和动物福利
+**Who is suited**
+- Passionate about outdoor work and the natural environment
+- Able to perform physical labor and adapt to seasonal and wet environments
+- Responsible, with attention to biosecurity and animal welfare
 
-**谁不适合学Aquaculture Worker？**
-- 不能适应重复性体力工作
-- 对海鲜过敏或厌恶水环境
+**Who is not suited**
+- Not suitable for repetitive physical work
+- Allergy to seafood or aversion to aquatic environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for aquaculture workers?**
+A: Entry-level workers earn approximately €18,000-22,000 per year, while senior supervisors can reach €35,000. Income is subject to seasonal and regional variations.
+
+**Q: How can non-EU citizens immigrate to Italy through aquaculture work?**
+A: Primarily available via the Decreto Flussi seasonal work visa, requiring employer sponsorship and meeting quotas. Regular long-term work visas are harder to obtain.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aquaculture Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for aquaculture workers?**
-答：Entry-level workers earn €18,000-22,000 per year, while senior supervisors can earn up to €35,000. Income varies by season and region.
-
-**问：How can non-EU citizens immigrate to Italy for aquaculture work?**
-答：Mainly via the Decreto Flussi seasonal work visa, requiring employer sponsorship and quota availability. Regular work visas are difficult to obtain.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

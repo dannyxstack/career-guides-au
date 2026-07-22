@@ -1,60 +1,96 @@
-# Administrative Employees Without Public-Facing Duties Not Elsewhere Classified（Administrative Employees Without Public-Facing Duties Not Elsewhere Classified）职业分析 · ES
+# Administrative Employees Without Public-Facing Duties Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：4309 – Administrative Employees Without Public-Facing Duties Not Elsewhere Classified。**
+**Occupation code: 4309 (CNO)**
 
-Performs back-office administrative support tasks such as filing, data entry, and internal coordination without direct customer or public contact. Plays a fundamental operational role in enterprises, public institutions, and non-profits.
+Perform back-office administrative support tasks such as document archiving, data entry, and internal communication coordination, without directly receiving clients or the public. It plays a fundamental operational support role in various enterprises, public institutions, and non-profit organizations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio（中级职业培训） | 2年 | —（公立学校免费或极低注册费） |
-| FP Grado Superior（高级职业培训） | 2年 | —（公立学校免费或低学费） |
+| FP Grado Medio (Intermediate Vocational Training) | 2 years | $0~$1,500 (Public schools offer free or very low registration fees) |
+| FP Grado Superior (Advanced Vocational Training) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 雇主 | 可选 | 通常要求高中或FP学历，无特定强制认证 |
-| 西班牙语和英语水平证明 | 官方语言学校或认证机构 | 可选 | 因需要处理内部文件，建议B1及以上西班牙语；英语能力为加分项 |
+| No mandatory requirements | Employer | Optional | Typically, a high school or FP diploma is required, with no specific mandatory certification |
+| Proof of Spanish and English proficiency | Official language schools or accreditation bodies | Optional | Due to the need to handle internal documents, Spanish proficiency of B1 or above is recommended; English proficiency is a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 450,000。西班牙行政岗位数字化程度加深，但基础数据录入和文书任务仍有一定需求。公共部门及大型企业外包趋势导致竞争加剧，预计岗位数量缓慢下降。具备多语言和数字工具技能的求职者更有优势。
+**Job demand: medium (★★½☆☆).** National workforce approx. 450,000. Although the digitalization of administrative positions in Spain has deepened, there is still some demand for basic data entry and paperwork. The trend of outsourcing in the public sector and large enterprises has intensified competition, with the number of positions expected to slowly decline. Candidates with multilingual and digital tool skills have an advantage.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，取决于企业和地区 |
-| 中级（3-7年） | $22,000~$27,000 | 具备更多经验或额外技能 |
-| 高级（7年以上） | $27,000~$33,000 | 升至主管或资深行政专员 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual salary before tax, depending on the company and region |
+| Mid-level (3–7 years) | $22,000~$27,000 | Having more experience or additional skills |
+| Senior (7+ years) | $27,000~$33,000 | Promoted to Supervisor or Senior Executive Officer |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从初级行政助理晋升为高级行政专员、办公室主管或部门协调员。通过考取官方秘书资格或进修管理类FP Grado Superior课程，可转向更专业的行政管理或人力资源岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI is rapidly replacing core tasks of administrative assistants, such as schedule management, document processing, and data entry. Competition for entry-level roles is increasing, and purely clerical jobs face a risk of being reduced.
+
+Employees can be promoted from junior administrative assistant to senior administrative officer, office supervisor, or department coordinator. By obtaining the official secretarial qualification or continuing studies in the FP Grado Superior management program, you can transition to more specialized administrative management or human resources positions.
+
+**Tasks most exposed to AI:**
+
+- Schedule management and coordination: AI calendar tools automatically optimize conflicts and send invitations
+- Document processing and formatting: AI automatically generates meeting minutes and report layouts
+- Data entry and organization: automatic information extraction via OCR and smart forms.
+- Basic client inquiry responses: chatbots handle common queries
+- Travel booking and reimbursement: automated systems for price comparison, form filling, and approval
+
+**Where AI augments the role:**
+
+- Complex communication and multi-party coordination: AI-assisted information integration, human-led negotiation
+- Sensitive information handling: AI filters risks, humans make final decisions
+- Executive support: AI provides data summaries, humans handle non-routine requests
+- Office process optimization: AI analyzes bottlenecks, humans design improvement plans
+- Crisis management: AI warns of anomalies, humans respond quickly.
+
+**Human moat:**
+
+- Ability to handle highly confidential or sensitive information
+- Unstructured problem-solving and on-site adaptation
+- Complex coordination across cultures and multiple stakeholders
+- Emotional intelligence for building trust and networks
+- Understanding of organizational implicit culture and power structures
+
+**Skills to build:**
+
+- Use of AI office tools (e.g., Copilot, Zapier, Notion AI)
+- Basic data analysis and visualization (Excel, Power BI)
+- Project Management Fundamentals (PMP or Agile methods)
+- Advanced communication and negotiation skills
+- Digital security and compliance knowledge
+- Basic programming (Python scripting for repetitive tasks)
+
+**Key growth areas:**
 
 - Digitalization
 - Process automation
@@ -63,64 +99,66 @@ Performs back-office administrative support tasks such as filing, data entry, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 需西班牙雇主担保，证明岗位无法由欧盟公民填补，通常要求较高技能或紧缺职业，行政岗位较难获得担保。 |
+| Subclass Cuenta ajena (Employed Work Permit) | A Spanish employer sponsorship is required, proving that the position cannot be filled by an EU citizen, usually requiring high-skill or in-demand occupations, and administrative positions are harder to secure. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Administrative Employees Without Public-Facing Duties Not Elsewhere Classified？**
-- 追求工作生活平衡、不愿直接面对客户的人
-- 具备基础办公软件技能、希望快速进入劳动力市场的毕业生
-- 偏好稳定重复性工作的求职者
+**Who is suited**
+- People who pursue work-life balance and are unwilling to face clients directly
+- Graduates with basic office software skills who wish to quickly enter the labor market
+- Job seekers who prefer stable, repetitive work
 
-**谁不适合学Administrative Employees Without Public-Facing Duties Not Elsewhere Classified？**
-- 期望高薪或快速晋升的人
-- 希望从事创造性或高技能工作的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People who wish to engage in creative or highly skilled work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for administrative assistants (without public reception)?**
+A: Salary ranges from about 18,000 to 33,000 euros before tax per year, with entry-level positions lower, and senior or supervisory positions earning over 30,000 euros. Salaries are influenced by region, company size, and experience.
+
+**Q: As a third-country citizen, can you immigrate to Spain through this employment?**
+A: Very difficult. This occupation is not a high-skilled shortage occupation; the employer-sponsored work visa (Cuenta ajena) requires a labour market test proving no EU citizen is suitable. There is almost no migration pathway unless you have rare language or skills.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically, a high school diploma or completion of FP Grado Medio (Intermediate Vocational Training) is required. FP Grado Superior (Advanced Vocational Training) can enhance your competitiveness in employment. No university degree required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Administrative Employees Without Public-Facing Duties Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for administrative employees without public-facing duties?**
-答：Salaries range from €18,000 to €33,000 gross annual. Entry-level positions are lower, while senior or supervisory roles can exceed €30,000. Varies by region, company size, and experience.
-
-**问：Can a third-country national immigrate to Spain through this occupation?**
-答：Very difficult. This occupation is not a high-skilled shortage occupation. Employer-sponsored work permits require a labor market test proving no EU citizen can fill the role. Immigration is almost impossible unless with rare language or skills.
-
-**问：What education is required for this occupation?**
-答：Typically requires high school diploma or FP Grado Medio (intermediate vocational training). FP Grado Superior (advanced vocational training) improves competitiveness. University degree is not required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

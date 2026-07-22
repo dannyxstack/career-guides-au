@@ -1,60 +1,96 @@
-# Database Designers and Administrators（Database Designers and Administrators）职业分析 · ES
+# Database Designers and Administrators — career analysis · Spain
 
-**职业代码：2721 – Database Designers and Administrators。**
+**Occupation code: 2721 (CNO)**
 
 Responsible for designing, implementing, maintaining, and optimizing database systems to ensure data security, integrity, and high performance.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$5,000（公立大学学费，每年约1000-2500欧元） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$2,000（公立FP中心每年约500-1500欧元） |
-| 硕士（Máster） | 1年（Máster） | $2,000~$8,000（公立大学硕士每年约2000-4000欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$5,000 (Tuition at public universities is about 1,000–2,500 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$2,000 (Public FP centers: approx. €500–1,500 per year) |
+| Máster | Year 1 (Máster) | $2,000~$8,000 (A master's degree at a public university costs about 2,000-4,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关专业学位 | 西班牙大学 | 可选 | 通常需要学士学位（Grado）或同等学历 |
-| 数据库专业认证 | Oracle、Microsoft、IBM等 | 可选 | 如Oracle OCP、MySQL DBA等，非强制但增强竞争力 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行官方认证，以便申请工作居留 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require official certification to apply for work residence |
+| Degree in computer science or a related major | Spanish University | Optional | A bachelor's degree (Grado) or equivalent is usually required |
+| Database professional certification | Oracle, Microsoft, IBM, and others | Optional | Examples include Oracle OCP, MySQL DBA, etc., which are not mandatory but enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。西班牙数字化转型加速，大数据和云计算需求旺盛，数据库管理员职位持续增长。企业和公共部门对数据管理依赖增加，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Spain's digital transformation is accelerating, with strong demand for big data and cloud computing, and database administrator positions continue to grow. Businesses and the public sector are increasingly dependent on data management, and job prospects are promising.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，含社保 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪，含社保 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，含社保 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–7 years) | $40,000~$55,000 | Pre-tax annual salary, including social insurance |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salary, including social insurance |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可晋升为数据库架构师、数据工程经理或首席数据官。也可转向大数据、数据科学或云计算领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on DBAs is mixed: routine maintenance and tuning will be automated, but advanced responsibilities like strategic design, security compliance, and complex troubleshooting gain importance, shifting role value toward cloud and automation platforms.
+
+You can be promoted to Database Architect, Data Engineering Manager, or Chief Data Officer. It can also be pivoted into big data, data science, or cloud computing.
+
+**Tasks most exposed to AI:**
+
+- Automatically perform routine database health checks, alerts, and fixes (e.g., Amazon RDS automatic failover)
+- Automatic indexing and query optimization suggestions (e.g., SQL Server Index Tuning Advisor)
+- Automated backup, recovery, and version upgrade management
+- AI-Based Anomaly Detection and Root Cause Analysis (e.g., Datadog Database Monitoring)
+- Automated capacity planning and storage scaling
+
+**Where AI augments the role:**
+
+- Leveraging AI to design high-availability and disaster recovery architectures (e.g., multi-region deployment)
+- Quickly locate performance bottlenecks using AI-driven query analyzers.
+- Writing complex SQL or stored procedures using natural language interfaces (similar to ChatGPT)
+- Automated compliance audit reports (GDPR, SOX) with intelligent risk tagging
+- Database capacity planning combining AI-predicted business growth
+
+**Human moat:**
+
+- Develop overall data architecture and data governance strategy
+- Handling fault diagnosis across multiple systems and complex business logic
+- Decision-making ability to balance cost, performance, security, and compliance
+- Negotiate the implementation pace of database design changes with the development team
+- Taking responsibility for data security and ultimate interpretation of regulatory compliance
+
+**Skills to build:**
+
+- Cloud database platforms (AWS RDS/Aurora, Azure SQL Database, GCP Cloud SQL)
+- AI-based database performance monitoring and tuning tools (e.g., Datadog, SolarWinds DPA).
+- Automation scripts (Python, PowerShell) and infrastructure as code (Terraform)
+- Data security and compliance (encryption, auditing, GDPR/CCPA)
+- NoSQL databases (MongoDB, Cassandra).
+- Machine Learning Basics (understanding model training pipeline to support AIOps)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -63,65 +99,64 @@ Responsible for designing, implementing, maintaining, and optimizing database sy
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 面向高技能第三国国民，需大学学历或5年经验，年薪不低于西班牙平均工资1.5倍（约4.5万欧元）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高管或高学历人才，简化流程，可快速获得居留。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的工作居留，需证明职位难以在本地填补。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled third-country nationals, requiring university degree or 5 years experience, annual salary at least 1.5 times Spain's average wage (approx EUR 45,000). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for executives or highly educated talents, streamlining the process and enabling quick residency acquisition. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residence requires proof that the position is difficult to fill locally. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Database Designers and Administrators？**
-- 对数据结构和后端逻辑有浓厚兴趣的技术人员
-- 喜欢系统性解决问题和优化性能的人
-- 希望在IT领域稳定发展、注重数据安全的人
-
-**谁不适合学Database Designers and Administrators？**
-- 不善于处理复杂逻辑和细节的人
-- 希望工作内容频繁变化、不喜欢重复性维护工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technicians with a strong interest in data structures and backend logic
+- People who enjoy systematic problem-solving and performance optimization
+- Those who want stable development in the IT field and focus on data security
+
+**Who is not suited**
+- People who are not good at handling complex logic and details
+- People who want frequent changes in work content and dislike repetitive maintenance tasks
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for database administrators in Spain?**
+A: Junior around EUR 30,000-40,000, mid-level EUR 40,000-55,000, senior EUR 55,000-75,000 (annual pre-tax). Madrid and Barcelona have higher salaries.
+
+**Q: How can foreigners obtain a Spanish database administrator work visa?**
+A: You can use the EU Blue Card (with high salary), Highly Skilled Talent Residence (Ley 14/2013), or Ordinary Work Residence. Non-EU qualifications must be verified first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Database Designers and Administrators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for database administrators in Spain?**
-答：Junior: €30k-40k, Mid: €40k-55k, Senior: €55k-75k (gross annual). Higher in Madrid and Barcelona.
-
-**问：How can a foreigner obtain a work visa as a database administrator in Spain?**
-答：Options: EU Blue Card (high salary), Highly Skilled Professional (Ley 14/2013), or regular work permit. Non-EU degrees need homologación.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

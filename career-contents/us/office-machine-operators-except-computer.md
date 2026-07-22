@@ -1,60 +1,93 @@
-# Office Machine Operators, Except Computer（Office Machine Operators, Except Computer）职业分析 · 美国
+# Office Machine Operators, Except Computer — career analysis · United States
 
-**职业代码：43-9071 – Office Machine Operators, Except Computer。**
+**Occupation code: 43-9071 (SOC)**
 
-Operate photocopying, duplicating, and other office machines to reproduce, collate, and bind documents. This administrative support role typically requires no postsecondary education.
+Operate office equipment such as copiers, duplicators, and binding machines to complete copying, collating, and binding tasks. This occupation is an administrative support role, typically requiring no higher education background.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常无需额外教育费用） |
-| 短期在职培训 | 1个月 | —（雇主提供的短期培训） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no additional education costs.) |
+| Short-term on-the-job training | 1 month | $0~$500 (Short-term training provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入学要求 |
-| 办公设备操作证书 | 社区学院或培训机构 | 可选 | 可选，有助于就业 |
+| High school diploma or equivalent | High school | Required | Basic admission requirements |
+| Office equipment operation certificate | Community college or training institution | Optional | Optional, helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 38,000。美国劳工统计局预计2023-2033年该职业就业将下降约10%，主要由于办公数字化及外包印刷服务增加。仍存在一定需求，但岗位竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 38,000. The US Bureau of Labor Statistics projects about a 10% decline in employment for this occupation from 2023 to 2033, mainly due to office digitization and increased outsourcing of printing services. Some demand remains, but competition is strong.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 基于BLS OEWS数据 |
-| 中级（3-6年） | $30,000~$36,000 | 基于行业经验增长 |
-| 高级（6年以上） | $36,000~$42,000 | 含主管岗位 |
+| Median salary | $40,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Based on BLS OEWS data |
+| Mid-level (3–6 years) | $30,000~$36,000 | Based on industry experience growth |
+| Senior (6+ years) | $36,000~$42,000 | Including supervisory roles |
+| average salary | $43,220 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★☆☆☆☆）。** 入门级岗位，通常从助理操作员做起，积累经验后可晋升至高级操作员或团队主管。部分人员转向客户服务或办公室管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation involves highly repetitive, rule-based tasks, making it highly susceptible to replacement by AI and automation systems. With the spread of smart copiers, automatic binding, and digital document management, the number of positions will continue to shrink, with entry-level roles decreasing rapidly.
+
+Entry-level role, usually starting as assistant operator; after gaining experience can advance to senior operator or team supervisor. Some move to customer service or office management roles.
+
+**Tasks most exposed to AI:**
+
+- Operate copiers/printers for bulk document copying
+- Manual collating, binding, punching and other document finishing tasks
+- Monitor consumables like paper and toner and replenish them in a timely manner
+- Simple fault troubleshooting (e.g., paper jams, low toner)
+- Recording daily copy volume and equipment usage logs
+
+**Where AI augments the role:**
+
+- Use AI scheduling software to optimise copy job sequences and reduce wait times
+- Uses an intelligent binding system to automatically detect document margins and adjust binding position
+- Predict consumable needs in advance via digital dashboards to avoid shortages and downtime
+- Apply OCR and document management AI to automatically classify and store paper files
+
+**Human moat:**
+
+- Physical experience handling special papers (e.g., thick cardstock, irregular sizes)
+- Quick diagnosis of complex binding faults (e.g., stapler misalignment).
+- Direct communication with clients to understand customized binding needs
+- Maintain efficiency under high-pressure environments (e.g., large volumes of urgent orders)
+
+**Skills to build:**
+
+- Digital document management software (e.g., DocuWare, M-Files)
+- Basic data analysis (Excel statistics on material usage)
+- Automated office system configuration (e.g., robotic process automation RPA)
+- Client communication and requirement elicitation
+- Preventive maintenance of equipment (basic mechanical knowledge)
+
+**Key growth areas:**
 
 - Digitization
 - Outsourcing
@@ -63,65 +96,67 @@ Operate photocopying, duplicating, and other office machines to reproduce, colla
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少雇主担保，因职业要求低且非专业岗位 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 几乎无PERM申请，因劳动力市场测试难以通过 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rare employer sponsorship due to low requirements and non-professional occupation |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Almost no PERM applications due to difficulty passing labor market test |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Office Machine Operators, Except Computer？**
-- 寻求快速入职的低技能劳动者
-- 偏好重复性办公室工作的细心人群
-- 作为过渡性职业的求职者
+**Who is suited**
+- Low-skilled workers seeking fast onboarding
+- Detail-oriented people who prefer repetitive office work
+- Job seekers using it as a stepping-stone occupation
 
-**谁不适合学Office Machine Operators, Except Computer？**
-- 追求高薪和职业发展的人士
-- 希望移民美国的技术人才
+**Who is not suited**
+- People pursuing high salary and career development
+- Skilled talents seeking US immigration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for office machine operators?**
+A: According to BLS OEWS data, median annual salary approximately $30,000 USD; entry-level positions about $24,000-30,000; senior positions up to $42,000.
+
+**Q: Can this occupation apply for a US work visa or green card?**
+A: Almost impossible. This occupation is low-skilled, does not meet H-1B specialty occupation requirements, and PERM labor certification is extremely difficult.
+
+**Q: What is the future outlook for this occupation?**
+A: BLS projects a 10% decline in employment from 2023-2033, with digitization and outsourcing reducing demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无需（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 下降（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Office Machine Operators, Except Computer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Office Machine Operators?**
-答：According to BLS OEWS data, median annual wage is around $30,000, entry-level $24,000-$30,000, senior up to $42,000.
-
-**问：Can this occupation apply for US work visa or green card?**
-答：Highly unlikely. It is a low-skill occupation, not qualifying for H-1B specialty occupation, and PERM labor certification is very difficult to obtain.
-
-**问：What is the future outlook for this occupation?**
-答：BLS projects a 10% decline from 2023 to 2033 due to digitization and outsourcing.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Elementary School Teachers, Except Special Education（Elementary School Teachers, Except Special Education）职业分析 · 美国
+# Elementary School Teachers, Except Special Education — career analysis · United States
 
-**职业代码：25-2021 – Elementary School Teachers, Except Special Education。**
+**Occupation code: 25-2021 (SOC)**
 
-Elementary school teachers instruct students in basic academic and social skills, covering multiple subjects. The role requires a bachelor's degree and state licensure, with stable demand across the US.
+Elementary school teachers teach academic and social skills to young students across multiple subjects, promoting holistic development. The occupation has stable demand in the US, typically requiring a bachelor's degree and state license.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费和生活费，含食宿） |
-| 硕士学位（可选） | 1-2年 | $20,000~$60,000（部分学区要求或偏好硕士学历，可提升薪资） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition and living expenses, including room and board) |
+| Master's degree (optional) | 1-2 years | $20,000~$60,000 (Some school districts require or prefer a master's degree, which can increase salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州级教师资格证 | 各州教育部门 | 必备 | 通过Praxis考试及背景审查；需定期更新 |
-| 学士学位 | 认证大学 | 必备 | 通常需修读教师教育课程 |
-| CPR/急救认证 | 美国红十字会等 | 可选 | 部分学区要求 |
+| State teaching license | State education departments | Required | Pass the Praxis exam and background check; needs regular renewal |
+| Bachelor's degree | Accredited university | Required | Typically requires completing a teacher education course |
+| CPR/First aid certification | American Red Cross, etc. | Optional | Some school districts require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,378,700。美国劳工统计局预计2023-2033年小学教师岗位增长约2%，年均新增约6万个职位。人口增长和退休替代驱动需求，但部分地区预算限制可能影响招聘。
+**Job demand: high (★★★★☆).** National workforce approx. 1,378,700. U.S. Bureau of Labor Statistics projects 2% growth for elementary school teachers from 2023-2033, with about 60,000 new jobs annually. Population growth and retirement turnover drive demand, but budget constraints in some areas may affect hiring.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 根据地区和学区差异较大 |
-| 中级（4-9年） | $50,000~$70,000 | 通常有少量涨薪 |
-| 高级（10年以上） | $60,000~$85,000 | 硕士学位或额外职责可更高 |
+| Median salary | $63,970 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Varies significantly by region and school district. |
+| Intermediate (4-9 years) | $50,000~$70,000 | Typically a small salary increase |
+| Senior (10+ years) | $60,000~$85,000 | A master's degree or additional responsibilities can lead to higher pay. |
+| average salary | $72,650 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径包括从教师到年级组长、教学协调员或学校管理岗位。也可通过获取硕士学位晋升为课程专家或教育顾问，或转入特殊教育、双语教育等领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
+
+Career development paths include advancing from teacher to grade-level leader, instructional coordinator, or school administration. Alternatively, obtaining a master's degree can lead to curriculum specialist or educational consultant roles, or transitioning to special education, bilingual education, etc.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates lesson plans, exercises, and standardized courseware
+- AI grades multiple-choice/fill-in-the-blank questions and provides score analysis
+- AI recording and managing student attendance, grades, and behavioral data
+- AI-generated general notifications and reports for home-school communication
+- AI maintains online learning platforms and answers common student questions
+
+**Where AI augments the role:**
+
+- AI Provides Personalized Learning Paths and Adaptive Exercises, Assisting Differentiated Instruction
+- AI analyzes student error patterns to enable precise teacher intervention
+- AI-generated teaching feedback and reflection suggestions
+- AI-assisted design of teaching experiments, virtual scenarios, and interactive activities
+- AI voice recognition assists classroom interaction and oral assessment
+
+**Human moat:**
+
+- Face-to-face emotional communication and child psychological support
+- Classroom discipline management and behavioral intervention
+- Creative instructional design and intuitive judgment for individualized teaching
+- Building trust between school and home, and complex communication mediation
+- Interdisciplinary teaching innovation based on life experience
+
+**Skills to build:**
+
+- Educational AI tool application (e.g., Knewton, Curipod)
+- Basics of educational data analysis (student performance diagnosis)
+- Personalized teaching design and differentiated strategies
+- Digital classroom management and interactive tools (e.g., Nearpod)
+- Educational psychology and behavior management
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Population growth
 - Retirement replacement
@@ -64,65 +100,67 @@ Elementary school teachers instruct students in basic academic and social skills
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因教师通常需公立学校职位，而H-1B要求特殊职业且雇主为私立学校或特许学校 |
-| Subclass EB-2/EB-3（Employment-Based Green Card） | 极少路径，因公立学校通常不提供PERM劳工证担保，且教师职位被视为非特殊职业 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable, as teachers usually need public school positions, while H-1B requires specialty occupation and employer is private school or charter school |
+| Subclass EB-2/EB-3 (Employment-Based Green Card) | Very few pathways, as public schools typically do not sponsor PERM labor certification, and teaching positions are considered non-specialty occupations |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Elementary School Teachers, Except Special Education？**
-- 热爱与儿童相处，有耐心和沟通能力
-- 具备多学科教学能力，能激发学习兴趣
-- 追求稳定工作且适应结构化环境
+**Who is suited**
+- Enjoy working with children, have patience and communication skills
+- People with multidisciplinary teaching skills who can inspire learning interest
+- Seeks stable work and adapts to structured environments.
 
-**谁不适合学Elementary School Teachers, Except Special Education？**
-- 不擅长处理纪律问题或与家长沟通
-- 对薪资增长期望过高
+**Who is not suited**
+- Not good at handling disciplinary issues or communicating with parents
+- Unrealistic expectations for salary growth
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for primary school teachers?**
+A: According to BLS data, the 2023 median annual salary for US elementary school teachers was about USD 61,690, but starting salaries are lower (around USD 40,000-50,000); in high-paying areas like New York or California, salaries can exceed USD 80,000. Pay depends on school district, qualifications, and experience.
+
+**Q: Can foreign teachers teach in the US on a work visa?**
+A: Very difficult. Public schools typically do not offer H-1B sponsorship because teaching positions are not considered professional occupations. A few private or charter schools may sponsor, but spots are limited. EB-2/EB-3 green card pathways are nearly unattainable because PERM labour certification requires proof that no US workers are available, and teacher supply is abundant.
+
+**Q: What are the career progression paths for primary school teachers?**
+A: Common promotions include becoming a grade coordinator, teaching coordinator, curriculum specialist, or after completing a master's degree, moving into school district administration such as assistant principal or principal. Can also transition to non-teaching roles like educational consulting or curriculum development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Elementary School Teachers, Except Special Education属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for elementary school teachers?**
-答：According to BLS, the median annual wage for elementary school teachers was about $61,690 in 2023, but entry-level salaries are lower (about $40,000-$50,000). High-paying areas like New York or California can exceed $80,000. Salary depends on district, education, and experience.
-
-**问：Can foreign teachers work in the US via work visa?**
-答：Very difficult. Public schools rarely sponsor H-1B because teaching is not considered a specialty occupation. A few private or charter schools may sponsor, but spots are limited. EB-2/EB-3 green card is nearly impossible due to PERM requirements and abundant domestic supply.
-
-**问：What are the career advancement paths for elementary teachers?**
-答：Common paths include grade-level lead, instructional coordinator, curriculum specialist, or pursuing a master's degree to move into administration like assistant principal or principal. Also possible to transition to education consulting or instructional design.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

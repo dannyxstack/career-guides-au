@@ -1,60 +1,90 @@
-# Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders（Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders）职业分析 · 美国
+# Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders — career analysis · United States
 
-**职业代码：51-9192 – Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders。**
+**Occupation code: 51-9192 (SOC)**
 
-Operate or tend machines to wash or clean products like barrels, glass, food, coal, plastic, or rubber, removing impurities. Perform repetitive cleaning tasks on production lines, following safety protocols.
+Operate or tend machines to clean products such as barrels, glass, food, coal, plastic, or rubber, removing impurities. Typically performs repetitive cleaning tasks on a production line, requiring attention to safety procedures.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 短期在职培训 | 1-3个月 | —（雇主提供培训） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Short-term on-the-job training | 1-3 months. | $0~$1,000 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 多数雇主最低要求 |
-| 安全培训证书 | OSHA或雇主 | 可选 | 通常入职后提供 |
+| High school diploma or equivalent | School | Required | Minimum requirement for most employers |
+| Safety training certificate | OSHA or employer | Optional | Usually provided upon employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,800。预计就业增长缓慢，受自动化影响，但食品制造和金属加工等行业仍有需求。岗位多为生产线入门级，流动性高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,800. Employment growth expected to be slow, affected by automation, but demand remains in industries like food manufacturing and metal processing. Roles are mostly entry-level with high turnover.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级，常为时薪约14-17美元 |
-| 中级（3-5年） | $35,000~$42,000 | 有经验后可能获得加薪 |
-| 高级（5年以上） | $40,000~$48,000 | 转为组长或技师角色 |
+| Median salary | $43,530 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level, often hourly wage about $14-$17 |
+| Mid-level (3–5 years) | $35,000~$42,000 | Possible salary increase after gaining experience |
+| Senior (5+ years) | $40,000~$48,000 | Transition to team leader or technician role |
+| average salary | $44,600 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 通常从操作员起步，可晋升为生产线组长或质量控制检查员。少数通过培训转向设备维护或更高级的操作岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation relies heavily on repetitive physical actions and visual inspections, posing a very high risk of replacement by AI and robotic automation. With the spread of smart cleaning equipment and machine vision, the number of positions will significantly decrease; current workers need to transition to equipment maintenance or complex operations.
+
+Usually starts as an operator and can be promoted to production line leader or quality control inspector. A few transition through training to equipment maintenance or higher-level operator positions.
+
+**Tasks most exposed to AI:**
+
+- Automatically performs washing, rinsing, and drying cycles according to preset programs
+- Automatically identify product surface residues and adjust cleaning parameters using machine vision systems
+- Automated measurement and addition of chemicals such as detergents and acids.
+
+**Where AI augments the role:**
+
+- Use AI vision systems to assist quality inspection, improving defect detection accuracy
+- Reduce equipment downtime through sensor data analysis and predictive maintenance
+- Use digital twin technology to optimize cleaning process parameters, reducing energy and water consumption
+
+**Human moat:**
+
+- Design and debugging of specialized cleaning solutions for non-standard parts or complex contaminants.
+- equipment fault diagnosis and repair, requiring cross-system comprehensive judgment
+- Chemical waste treatment and compliance management to meet environmental and safety regulations.
+- Collaborate and communicate with upstream and downstream processes to optimize overall production efficiency
+
+**Skills to build:**
+
+- Industrial robot programming and automation production line commissioning
+- PLC and SCADA system operation and maintenance
+- Data analysis basics (process parameter optimization and defect identification).
+- Environmental regulations and occupational safety standards.
+- Equipment fault diagnosis and mechanical repair skills.
+
+**Key growth areas:**
 
 - Automation Impact
 - Moderate Demand in Food Manufacturing
@@ -63,65 +93,67 @@ Operate or tend machines to wash or clean products like barrels, glass, food, co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 可用于季节性临时工作，但雇主需证明劳动力短缺。 |
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Can be used for seasonal temporary work, but employers must prove labor shortage. |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders？**
-- 需要快速上手工作的人
-- 能适应重复性体力劳动的人
-- 不介意在工业环境中工作的人
+**Who is suited**
+- Need to quickly get up to speed
+- People who can adapt to repetitive physical labor
+- Those who don't mind working in an industrial environment
 
-**谁不适合学Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders？**
-- 寻求高薪或晋升机会的人
-- 厌恶重复性任务或体力劳动的人
+**Who is not suited**
+- People seeking high salary or promotion opportunities
+- People who dislike repetitive tasks or physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Salary is relatively low, roughly between USD 28,000 and 48,000. Senior operators may see slight increases.
+
+**Q: Is it easy to immigrate to the US for this occupation?**
+A: Basically no skilled migration pathway. This occupation usually does not meet H-1B or EB green card requirements; only temporary work visas like H-2B are feasible but with many restrictions.
+
+**Q: What are the career advancement opportunities?**
+A: May advance to production line leader, quality inspector, or equipment maintenance technician, but requires additional training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 不友好（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Salary is low, ranging from $28,000 to $48,000 annually. Senior operators may see modest increases.
-
-**问：Is immigration to the US easy for this occupation?**
-答：Almost no skilled migration path. It usually doesn't meet H-1B or EB green card requirements; only temporary visas like H-2B are possible but limited.
-
-**问：What are the advancement opportunities?**
-答：Can advance to line leader, quality inspector, or equipment maintenance technician with additional training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

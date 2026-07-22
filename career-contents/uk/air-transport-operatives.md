@@ -1,58 +1,91 @@
-# Air transport operatives（Air transport operatives）职业分析 · UK
+# Air transport operatives — career analysis · United Kingdom
 
-**职业代码：8233 – Air transport operatives。**
+**Occupation code: 8233 (SOC)**
 
-Air transport operatives refuel, load and unload aircraft, direct aircraft movement on the apron, and position gangways for passenger boarding and disembarkation. They are essential ground support staff ensuring safe and efficient airport operations.
+Responsible for aircraft refueling, loading/unloading cargo, guiding aircraft movement, and placing ramps or stairs to ensure safe passenger boarding and disembarkation. Works on the airport ground service frontline, a key support role in air transport.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 0年 | —（通常无高等教育要求，入职培训由雇主提供） |
-| 相关职业证书培训 | 0.5年 | $500~$2,000（如航空地勤证书、安全培训课程，部分由雇主资助） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no higher education required; on-the-job training provided by the employer.) |
+| Vocational certificate training | 0.5 years | $500~$2,000 (E.g., aviation ground handling certificate, safety training courses, partly funded by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航空地勤安全认证 | 英国民航局 (CAA) | 必备 | 入职后由雇主安排，涵盖消防安全、危险品处理等 |
-| 驾照 | DVLA | 可选 | 部分岗位需持有Full UK Driving Licence以操作地勤车辆 |
+| Aviation ground safety certification | UK Civil Aviation Authority (CAA) | Required | Arranged by the employer after onboarding, covering fire safety, hazardous materials handling, etc. |
+| Driver's license | DVLA | Optional | Some roles require a Full UK Driving Licence to operate ground service vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。英国航空业持续复苏，未来十年航空运输操作员需求稳定。机场扩建与航班增加将创造一定数量的岗位。但自动化设备（如自动泊位系统、自助行李处理）可能替代部分重复性工作，整体就业增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The UK aviation industry continues to recover, with stable demand for air transport operations officers over the next decade. Airport expansions and flight increases will create a certain number of jobs. However, automation (e.g., auto-docking systems, self-service baggage handling) may replace some repetitive tasks, resulting in slow overall employment growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 入门级时薪约£9-£11 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验者年收入可达£28,000 |
-| 高级/主管（7年以上） | $28,000~$35,000 | 地勤主管年薪约£30,000+ |
+| Median salary | $34,700 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level hourly wage about £9-£11 |
+| Mid-level (3–7 years) | $22,000~$28,000 | Experienced individuals can earn up to £28,000 annually |
+| Senior/Supervisor (7+ years) | $28,000~$35,000 | Ground services supervisor annual salary approx £30,000+ |
+| average salary | $37,726 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业晋升路径较窄：可从航空运输操作员晋升为地勤主管或机场运营协调员。部分人员通过内部培训转向飞机调度或航空安全岗位。需积累经验并考取相关认证以实现职业发展。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Manual repetitive tasks of aviation transport operators are easily replaced by automation, with high risk of job reduction, but on-site security responsibilities at airports partially retain human judgment.
+
+Career progression paths are limited: can advance from aviation transport operator to ground supervisor or airport operations coordinator. Some transition to aircraft dispatch or aviation safety roles through internal training. Need to accumulate experience and obtain relevant certifications for career development.
+
+**Tasks most exposed to AI:**
+
+- Automatic refueling system takes over aircraft fuel filling
+- Automated guided vehicles replace cargo loading, unloading, and transport
+- AI scheduling system automatically plans parking stands and guidance routes
+- Automated air bridge docking reduces manual operations
+
+**Where AI augments the role:**
+
+- AI-assisted dispatch system optimizes vehicle and personnel allocation
+- Real-time data monitoring enhances ground safety early warning capabilities
+- AR glasses assist in identifying abnormal cargo and luggage
+
+**Human moat:**
+
+- Immediate judgment and anomaly handling in emergency situations
+- Multi-party coordination with the crew and control tower in complex scenarios.
+- Flexible adaptability of manual operations in adverse weather
+- On-the-spot response for passenger safety guidance and special services
+- Ability to troubleshoot equipment faults manually.
+
+**Skills to build:**
+
+- Automated ground equipment operation and maintenance
+- Use of data analytics and AI scheduling systems
+- Emergency management and safety procedure updates
+- Multitasking and communication skills
+- Basic programming and equipment fault diagnosis
+- Customer service and conflict resolution
+
+**Key growth areas:**
 
 - Airport expansion
 - Flight recovery
@@ -61,66 +94,65 @@ Air transport operatives refuel, load and unload aircraft, direct aircraft movem
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 航空运输操作员在可担保职业清单上，满足最低薪资要求（£26,200/年或行业薪资标准）可申请。雇主需持有担保资质。 |
-| Subclass Graduate（Graduate visa） | 若在英国完成学士或硕士学位，可申请2年毕业生签证，从事该职业积累经验，后转为Skilled Worker。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Air transport operators are on the eligible occupation list and can apply if meeting minimum salary requirements (£26,200/year or industry standard). Employers must hold sponsorship license. |
+| Subclass Graduate (Graduate visa) | If completing a bachelor's or master's degree in the UK, you can apply for a 2-year graduate visa to gain experience in this occupation, then switch to Skilled Worker. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Air transport operatives？**
-- 偏好动手操作、适应户外及轮班工作的人
-- 注重安全流程、团队协作能力强的人
-
-**谁不适合学Air transport operatives？**
-- 不喜体力劳动或高空作业者
-- 无法接受快速节奏、高压地勤环境者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals who prefer hands-on work, adapt to outdoor and shift work
+- People who value safety procedures and have strong teamwork skills
+
+**Who is not suited**
+- Those who dislike manual labor or working at heights
+- Not suitable for those who cannot handle fast-paced, high-pressure ground services environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for air transport operators?**
+A: Junior annual salary approx £18,000-£22,000, mid-level £22,000-£28,000, senior supervisors up to £35,000. Night shifts and overtime can increase earnings.
+
+**Q: Can this occupation apply for the UK Skilled Worker visa?**
+A: Yes. Air transport operator (SOC 8233) is on the eligible occupations list, requiring a minimum salary of £26,200/year or industry standard. The employer must hold a sponsorship license.
+
+**Q: Is there high demand for air transport operators in the UK?**
+A: Moderate demand. The recovery of the aviation industry brings stable positions, but automation may reduce some demand. More opportunities in areas with dense airport presence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Air transport operatives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an air transport operative?**
-答：Entry-level salary is around £18,000-£22,000, mid-level £22,000-£28,000, and senior supervisors up to £35,000. Night shifts and overtime can boost earnings.
-
-**问：Can this occupation apply for a Skilled Worker visa?**
-答：Yes. Air transport operatives (SOC 8233) are on the eligible occupations list. Minimum salary requirement is £26,200/year or the going rate. Employer must hold a sponsor licence.
-
-**问：Is there high demand for air transport operatives in the UK?**
-答：Moderate demand. Recovery in aviation creates steady opportunities, but automation may reduce some roles. Jobs are concentrated near major airports.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

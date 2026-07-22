@@ -1,58 +1,89 @@
-# Transport and distribution clerks and assistants（Transport and distribution clerks and assistants）职业分析 · UK
+# Transport and distribution clerks and assistants — career analysis · United Kingdom
 
-**职业代码：4134 – Transport and distribution clerks and assistants。**
+**Occupation code: 4134 (SOC)**
 
-Transport and distribution clerks and assistants perform various clerical functions related to the transport and distribution of goods, including arranging shipments, tracking cargo, processing documents, and communicating with clients, serving as essential support in the logistics chain.
+Transport and distribution clerks and assistants handle various clerical tasks related to freight and distribution, including arranging transportation, tracking shipments, processing documents, and communicating with clients; they are indispensable support roles in the logistics chain.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 12年 | —（公立教育免费） |
-| 物流或商业相关文凭或证书 | 1-2年 | $3,000~$9,000（英国继续教育学院课程费用） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public education is free) |
+| Logistics or business-related diploma or certificate | 1-2 years | $3,000~$9,000 (UK further education college course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无强制要求（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物流与运输从业者证书 | CILT (英国物流与运输学会) | 可选 | 行业认可的专业证书，有助于职业发展 |
-| 货物搬运操作证书 | RTITB (道路运输工业培训委员会) | 可选 | 如需操作叉车等设备，需持有相应证书 |
+| Logistics and Transport Practitioner Certificate | CILT (Chartered Institute of Logistics and Transport) | Optional | Industry-recognised professional certifications, beneficial for career development |
+| Cargo handling operations certificate. | RTITB (Road Transport Industry Training Board) | Optional | If operating equipment such as forklifts, must hold corresponding certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。随着电商和全球贸易持续增长，英国物流行业对运输与配送文员的需求保持稳定。该职业入门门槛较低，但未来可能受自动化影响，建议提升数字化技能以增强竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. With the continuous growth of e-commerce and global trade, demand for transport and distribution clerks in the UK logistics industry remains stable. This occupation has a low entry barrier but may be affected by automation in the future; it is recommended to enhance digital skills to boost competitiveness.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 含伦敦地区补贴 |
-| 中级（3-7年） | $22,000~$28,000 | 含经验增长薪资 |
-| 高级（7年以上） | $28,000~$35,000 | 含管理职责补贴 |
+| Median salary | $33,508 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Including London area allowance |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including experience-based salary increases |
+| Senior (7+ years) | $28,000~$35,000 | Including management responsibility allowance |
+| average salary | $34,549 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级文员可通过积累经验晋升为高级文员或团队主管，进一步可发展为物流协调员、运输经理等管理岗位。获得供应链管理认证（如CIPS）有助于职业晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Clerical work in transport and despatch clerks and assistants is highly procedural, and is being rapidly replaced by digitisation and AI. Over the next 5 years, basic roles will shrink significantly, requiring a shift towards logistics coordination and data analysis.
+
+Junior clerks can advance to senior clerk or team supervisor through experience, and further develop into management roles such as logistics coordinator, transport manager. Obtaining supply chain management certification (e.g., CIPS) aids career progression.
+
+**Tasks most exposed to AI:**
+
+- Manually enter transport orders and bill of lading information
+- Track shipment status and update records via phone or email
+- Generate standard transport reports and statistical tables
+- Checking fees and invoices, processing payment procedures
+
+**Where AI augments the role:**
+
+- AI-optimized route planning and scheduling; assistants can quickly generate optimal solutions
+- AI-powered customer service assists in handling customer inquiries, improving response efficiency
+- Real-time data analysis predicts delay risks, providing alerts and recommendations
+
+**Human moat:**
+
+- Exception handling: multi-party coordination and decision-making during transport interruptions
+- Customer relations: complex complaints and personalized needs communication
+- Process improvement: Diagnose bottlenecks and design optimization solutions
+
+**Skills to build:**
+
+- Advanced operation of logistics management systems (WMS/TMS)
+- Data analysis basics (Excel/SQL/Python)
+- Supply chain visualization tools (e.g., Tableau)
+- Knowledge of transport regulations and compliance.
+- Project management and communication skills
+- AI tool application (e.g., automation RPA)
+
+**Key growth areas:**
 
 - Stable
 - E-commerce driven
@@ -61,65 +92,64 @@ Transport and distribution clerks and assistants perform various clerical functi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的运输与配送文员，需满足薪资和技能要求 |
-| Subclass Graduate（Graduate Visa） | 英国高校毕业生可申请，允许在英国工作或寻找工作2年（博士3年） |
-| Subclass Scale-up（Scale-up Worker Visa） | 适用于在符合条件的快速增长企业中从事该职业的人才 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to transport and despatch clerks who have obtained employer sponsorship, must meet salary and skill requirements |
+| Subclass Graduate (Graduate Visa) | UK university graduates can apply, allowing them to work or look for work in the UK for 2 years (3 years for PhDs) |
+| Subclass Scale-up (Scale-up Worker Visa) | Suitable for talent working in eligible fast-growing enterprises in this occupation |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Transport and distribution clerks and assistants？**
-- 细心、有条理，善于处理文书工作
-- 愿意在物流行业长期发展，适应快节奏环境
-- 具备基本计算机操作和沟通能力
-
-**谁不适合学Transport and distribution clerks and assistants？**
-- 厌恶重复性文书工作
-- 不善于在多任务环境中保持专注
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous, organized, good at handling paperwork
+- Willing to develop long-term in the logistics industry, adapt to a fast-paced environment
+- Basic computer operation and communication skills
+
+**Who is not suited**
+- Hates repetitive paperwork
+- Not good at staying focused in a multi-tasking environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for transport and distribution clerks?**
+A: Entry-level annual salary approximately £18,000-22,000, increasing to £28,000-35,000 with experience. Slightly higher in London, but cost of living is also higher.
+
+**Q: Can this occupation apply for the UK Skilled Worker visa?**
+A: Yes, transport and distribution clerks are on the eligible occupation list and can immigrate to the UK via the Skilled Worker visa. They need employer sponsorship and must meet the salary threshold (usually no less than £26,200).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 无强制要求（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Transport and distribution clerks and assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for transport and distribution clerks?**
-答：Entry-level salary is around £18,000-22,000, rising to £28,000-35,000 with experience. London salaries are slightly higher but with higher living costs.
-
-**问：Can this occupation apply for a UK Skilled Worker visa?**
-答：Yes, transport and distribution clerks are eligible for the Skilled Worker visa if sponsored by an employer. The salary threshold is typically £26,200 or the 'going rate' for the occupation.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

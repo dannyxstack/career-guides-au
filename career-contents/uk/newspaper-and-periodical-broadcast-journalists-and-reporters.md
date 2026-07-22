@@ -1,59 +1,88 @@
-# Newspaper and periodical broadcast journalists and reporters（Newspaper and periodical broadcast journalists and reporters）职业分析 · UK
+# Newspaper and periodical broadcast journalists and reporters — career analysis · United Kingdom
 
-**职业代码：2492 – Newspaper and periodical broadcast journalists and reporters。**
+**Occupation code: 2492 (SOC)**
 
-Investigate, write and report news stories and features for broadcasting, newspapers, magazines, news websites and other periodicals.
+Investigate, write, and report news stories and features for broadcast, newspapers, magazines, news websites, and other publications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$18,000（英国本科国际学生学费） |
-| 硕士 | 1年 | $12,000~$22,000（英国硕士国际学生学费） |
+| Bachelor's degree | 3 years | $9,000~$18,000 (UK undergraduate international student tuition fees) |
+| Master's degree | 1 year | $12,000~$22,000 (UK master's international student tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学学士 | 大学 | 可选 | 常见专业，非强制但受重视 |
-| NCTJ文凭 | National Council for the Training of Journalists | 可选 | 行业认可的职业资格证书 |
-| 广播新闻学硕士 | 大学 | 可选 | 提升专业技能和就业竞争力 |
+| Bachelor of Journalism | University | Optional | Common field, not mandatory but valued |
+| NCTJ diploma | National Council for the Training of Journalists | Optional | Industry-recognized professional qualification certificate |
+| Master of Broadcast Journalism | University | Optional | Enhance professional skills and employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 75,000。英国媒体行业正在数字化转型，传统印刷媒体岗位减少，但在线新闻和多媒体内容需求增长。竞争依然激烈，具备数字技能和多平台经验的记者更受青睐。
+**Job demand: medium (★★½☆☆).** National workforce approx. 75,000. The UK media industry is undergoing digital transformation. Traditional print media jobs are declining, but demand for online news and multimedia content is growing. Competition remains intense, and journalists with digital skills and multi-platform experience are more favored.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 地区和地方媒体起薪较低 |
-| 中级（3-7年） | $30,000~$45,000 | 全国性媒体或专业领域记者 |
-| 高级（7年以上） | $45,000~$70,000 | 资深记者、编辑或制片人 |
+| Median salary | $44,534 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Low starting salaries in regional and local media |
+| Mid-level (3–7 years) | $30,000~$45,000 | National media or specialized field journalist |
+| Senior (7+ years) | $45,000~$70,000 | Senior journalist, editor, or producer |
+| average salary | $47,720 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从初级记者或实习生起步，逐步晋升为高级记者、专栏作家、编辑或制片人。部分记者转向自由职业或进入公关、传播等相邻领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Typically start as junior reporters or interns, progressing to senior reporter, columnist, editor, or producer. Some journalists move into freelance work or adjacent fields like PR and communications.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - digital media
 - multimedia journalism
@@ -62,65 +91,64 @@ Investigate, write and report news stories and features for broadcasting, newspa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 如果雇主提供担保，可申请技术工人签证，通常需要RQF Level 3以上学历和相应薪资。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在新闻领域有杰出成就或潜力的记者，需获得英国艺术委员会等机构认可。 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可申请两年（博士三年）的毕业生签证，无需担保，可从事任何工作。 |
+| Subclass Skilled Worker (Skilled Worker visa) | If sponsored by an employer, you can apply for a skilled worker visa, typically requiring RQF Level 3 or higher qualifications and corresponding salary. |
+| Subclass Global Talent (Global Talent visa) | Applicable to journalists with outstanding achievements or potential in journalism, requiring recognition by organisations such as the UK Arts Council. |
+| Subclass Graduate (Graduate visa) | UK graduates can apply for a two-year (three-year for PhD) Graduate Visa without sponsorship, allowing any type of work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Newspaper and periodical broadcast journalists and reporters？**
-- 对新闻和时事有强烈好奇心的人
-- 具备优秀写作和沟通能力的人
-- 能适应高压和灵活工作时间的人
-
-**谁不适合学Newspaper and periodical broadcast journalists and reporters？**
-- 不喜欢频繁截稿压力和快节奏工作的人
-- 不愿在数字媒体和多平台间切换的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong curiosity about news and current affairs
+- People with excellent writing and communication skills
+- Able to handle high pressure and flexible working hours
+
+**Who is not suited**
+- People who dislike frequent deadline pressure and fast-paced work
+- People who are unwilling to switch between digital media and multiple platforms
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a UK journalist?**
+A: Junior journalists earn about GBP 20,000–28,000; mid to senior journalists can reach GBP 30,000–70,000, depending on media outlet and location.
+
+**Q: How can international journalists obtain a UK work visa?**
+A: The most common is the Skilled Worker visa, requiring employer sponsorship and meeting salary and English requirements; prominent journalists can apply for the Global Talent visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Newspaper and periodical broadcast journalists and reporters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for journalists in the UK?**
-答：Entry-level journalists earn £20k-28k, mid-career £30k-45k, senior journalists up to £70k, depending on the employer and location.
-
-**问：How can international journalists get a UK work visa?**
-答：The most common is the Skilled Worker visa requiring employer sponsorship, salary threshold and English proficiency; outstanding journalists can apply for Global Talent visa.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

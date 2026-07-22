@@ -1,60 +1,92 @@
-# Epidemiologists（Epidemiologists）职业分析 · 美国
+# Epidemiologists — career analysis · United States
 
-**职业代码：19-1041 – Epidemiologists。**
+**Occupation code: 19-1041 (SOC)**
 
-Investigate determinants and distribution of disease, disability, or health outcomes; develop prevention and control measures.
+Study the distribution and determinants of disease, disability, or health outcomes; develop prevention and control measures.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$200,000（公立大学年均2万-5万美元） |
-| 硕士（MPH） | 2年 | $40,000~$100,000（学费因校而异） |
-| 博士（PhD/DrPH） | 4-5年 | $40,000~$200,000（部分有奖学金） |
+| Bachelor's degree | 4 years | $80,000~$200,000 (Public university fees avg. 20,000-50,000 USD per year) |
+| Master's (MPH) | 2 years | $40,000~$100,000 (Tuition varies by school) |
+| PhD (DrPH) | 4-5 years | $40,000~$200,000 (Some with scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位（MPH/流行病学） | 大学 | 可选 | 多数职位要求 |
-| 公共卫生认证（CPH） | 国家公共卫生考试委员会 | 可选 | 可选但有利 |
-| 博士学位（PhD/DrPH） | 大学 | 可选 | 研究或学术职位常见 |
+| Master's degree (MPH/Epidemiology) | University | Optional | Required for most positions |
+| Certified in Public Health (CPH) | National Board of Public Health Examiners | Optional | Optional but beneficial |
+| Doctorate (PhD/DrPH) | University | Optional | Common in research or academic positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。美国劳工统计局预计2023-2033年就业增长约27%，远高于平均水平，受公共卫生关注度提升和老龄化推动。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. The US Bureau of Labor Statistics projects about 27% employment growth from 2023 to 2033, much faster than average, driven by increased public health attention and aging population.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 州或地方政府职位 |
-| 中级（3-7年） | $75,000~$100,000 | 联邦机构或研究机构 |
-| 高级（7年以上） | $100,000~$130,000 | 管理或学术职位 |
+| Median salary | $87,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | State or local government positions |
+| Mid-level (3–7 years) | $75,000~$100,000 | Federal agencies or research institutions. |
+| Senior (7+ years) | $100,000~$130,000 | Management or academic positions |
+| average salary | $97,890 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级研究员可晋升为高级流行病学家、项目主管或公共卫生部门主任；也可转入大学任教或私营医疗研究机构。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance epidemiologists' capabilities, especially in data analysis and predictive modeling, but will not replace their core judgment and public health decision-making responsibilities.
+
+Junior researchers can advance to senior epidemiologist, project supervisor, or public health department director; can also transition to university teaching or private medical research institutions.
+
+**Tasks most exposed to AI:**
+
+- Automates routine data cleaning and preprocessing
+- Automatically generate preliminary statistical reports and charts
+- Simple epidemic trend prediction based on existing data
+- Literature search and abstract extraction
+
+**Where AI augments the role:**
+
+- Using machine learning for complex disease transmission modeling
+- Integrating genomic data with epidemiological data to identify risk factors
+- Real-time monitoring of non-traditional data sources such as social media for early warnings
+- Automatically generate interactive visual dashboards to aid decision-making
+
+**Human moat:**
+
+- Domain expertise in research design and causal inference
+- Communication and collaboration with public health officials and community stakeholders
+- Critical assessment of incomplete/deviant data
+- Balancing ethical judgment and policy recommendations
+
+**Skills to build:**
+
+- Machine learning and statistical modeling in Python/R
+- Big data processing (Spark, SQL)
+- Geographic Information System (GIS) spatial analysis
+- Causal inference methods (instrumental variables, DAG)
+- Data visualization (Tableau, D3.js)
+
+**Key growth areas:**
 
 - Public Health
 - Infectious Disease
@@ -63,66 +95,65 @@ Investigate determinants and distribution of disease, disability, or health outc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需雇主担保，本科学位以上，配额紧张 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士以上或杰出能力，PERM劳工证 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大或墨西哥公民，流行病学家在列表中 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合杰出研究人员，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires employer sponsorship, bachelor's degree or above, quota tight |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Master's degree or above required, or exceptional ability, PERM labor certification |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens; epidemiologist is on the list. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for outstanding researchers, no labor certification required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Epidemiologists？**
-- 对公共卫生和数据分析有强烈兴趣的人
-- 喜欢研究疾病模式并解决实际问题的人
-- 有耐心、注重细节和统计能力的人
-
-**谁不适合学Epidemiologists？**
-- 不喜欢大量数据分析和统计工作的人
-- 不愿在政府或学术环境中工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in public health and data analysis
+- People who enjoy studying disease patterns and solving practical problems
+- People with patience, attention to detail, and statistical skills.
+
+**Who is not suited**
+- People who dislike extensive data analysis and statistical work
+- People who prefer not to work in government or academic settings
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an epidemiologist?**
+A: Entry-level annual salary approx. USD 55,000-75,000, senior up to USD 100,000-130,000. Higher in federal government or private sector.
+
+**Q: Is it easy for epidemiologists to apply for a US green card?**
+A: Relatively easy, as it is in the STEM field and high demand. Common EB-2 pathway requires PERM labor certification, but National Interest Waiver (NIW) may also apply.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Epidemiologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for epidemiologists?**
-答：Entry-level salaries range from $55,000 to $75,000; senior positions can reach $100,000 to $130,000.
-
-**问：Is it easy for epidemiologists to get a US green card?**
-答：Relatively easy due to high demand. Common route is EB-2 with PERM, but NIW may apply.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

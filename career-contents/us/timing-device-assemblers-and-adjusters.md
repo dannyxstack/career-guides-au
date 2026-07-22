@@ -1,60 +1,96 @@
-# Timing Device Assemblers and Adjusters（Timing Device Assemblers and Adjusters）职业分析 · 美国
+# Timing Device Assemblers and Adjusters — career analysis · United States
 
-**职业代码：51-2061 – Timing Device Assemblers and Adjusters。**
+**Occupation code: 51-2061 (SOC)**
 
-Perform precision assembling or adjusting of timing devices such as digital clocks, with tight tolerances, involving electrical or electronic components. Excludes watch and clock repairers.
+Performs precision assembly or adjustment of digital clocks and other timing devices with extremely small tolerances, involving electrical or electronic components. Excludes watch repairers (49-9064).
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常要求高中毕业，部分雇主提供在职培训） |
-| 短期在职培训 | 1-3个月 | —（雇主提供，无正式学费） |
+| High school diploma or equivalent | None | $0~$0 (Usually requires high school diploma, some employers provide on-the-job training) |
+| Short-term on-the-job training | 1-3 months. | $0~$1,000 (Provided by employer, no formal tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 基本入职要求 |
-| 在职培训证书 | 雇主 | 可选 | 非必须但有利于晋升 |
+| High school diploma or equivalent | School | Required | Basic entry requirements |
+| On-the-job training certificate | Employer | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（★☆☆☆☆）。** 全国从业人数约 1,200。美国该职业从业人数极小，就业前景受自动化和海外制造影响呈下降趋势。未来十年预计岗位减少约18%，新岗位有限，竞争激烈。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 1,200. Employment in this occupation in the US is very small, with the job outlook declining due to automation and overseas manufacturing. Around 18% fewer jobs are expected over the next decade, with limited new positions and high competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起薪较低，通常为时薪制 |
-| 中级（3-7年） | $35,000~$45,000 | 经验积累后薪资小幅增长 |
-| 高级（7年以上） | $45,000~$55,000 | 极少有高级岗位，薪资天花板低 |
+| Median salary | $62,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary is low, usually hourly |
+| Mid-level (3–7 years) | $35,000~$45,000 | Salary increases slightly with experience. |
+| Senior (7+ years) | $45,000~$55,000 | Very few senior positions, low salary ceiling |
+| average salary | $56,720 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展路径狭窄，通常从装配工起步，可晋升为高级调整工或质检员，但晋升空间有限。转型至电子设备维修或精密仪器制造可能提供更多机会。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Timing device assemblers and adjusters face mixed prospects with AI and automation: repetitive tasks in precision assembly and adjustment can be replaced by machines, but extremely tight tolerances, complex debugging, and exception handling still require human experience.
+
+Career progression is narrow, typically starting as an assembler, advancing to senior adjuster or quality inspector, with limited room for growth. Transitioning to electronic equipment repair or precision instrument manufacturing may offer more opportunities.
+
+**Tasks most exposed to AI:**
+
+- Using automated equipment for repetitive timing device assembly
+- Precision measurement and adjustment via machine vision systems
+- Final testing and calibration of standard products like digital clocks
+- Inventory management and material handling (with automated warehousing)
+- Simple troubleshooting (system self-diagnosis)
+
+**Where AI augments the role:**
+
+- Use AR glasses to assist with complex assembly steps and tolerance inspections
+- Optimize process parameters by analyzing assembly data with AI
+- Use digital twin simulations to adjust plans and reduce trial and error
+- Detect equipment anomalies early using predictive maintenance systems.
+- Collaborative robots handling heavy objects or high-precision repetitive tasks
+
+**Human moat:**
+
+- Handle non-standard, low-volume custom timing devices.
+- Combine experience to identify subtle defects such as abnormal sounds/vibrations
+- Design new assembly processes for new materials or designs
+- Cross-departmental communication to resolve production bottlenecks and technical issues
+- Ensure consistency and reliability of small-batch, high-precision products
+
+**Skills to build:**
+
+- Mechatronics or industrial robot programming
+- Data analysis and statistical process control (SPC)
+- Precision measurement instrument operation (e.g., laser interferometer)
+- CAD/CAM software and digital twin technology
+- Fault diagnosis and repair skills
+- Knowledge of ISO quality management systems
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,61 +99,63 @@ Perform precision assembling or adjusting of timing devices such as digital cloc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 由于职业通常不需要学士学位，H-1B赞助可能性极低。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-2/EB-3)） | 雇主担保绿卡困难，因职业非专业岗位且需求小。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Since the occupation typically does not require a bachelor's degree, H-1B sponsorship is extremely unlikely. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Employer-sponsored green card is difficult because the occupation is not professional and demand is low. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Timing Device Assemblers and Adjusters？**
-- 注重细节，能从事重复性精密工作
-- 喜欢动手操作，对机械/电子组装有兴趣
+**Who is suited**
+- Detail-oriented, able to perform repetitive precision work
+- Enjoys hands-on work, interested in mechanical/electronic assembly
 
-**谁不适合学Timing Device Assemblers and Adjusters？**
-- 寻求高薪或职业发展空间者
-- 不适应单调重复工作环境者
+**Who is not suited**
+- Those seeking high salary or career development opportunities
+- Those who cannot adapt to monotonous repetitive work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a Timing Device Assembler?**
+A: According to BLS data, the average annual salary in 2023 was about $37,000, with a median of $35,000, well below the US average for all occupations.
+
+**Q: Is it easy to get a US work visa for this occupation?**
+A: Very difficult. This occupation typically does not require a bachelor's degree, does not meet H-1B professional job requirements, and has very few workers. Employer sponsorship for a green card is extremely unlikely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 极低（★☆☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Timing Device Assemblers and Adjusters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Timing Device Assemblers?**
-答：According to BLS, the mean annual wage is about $37,000 in 2023, with a median of $35,000, well below the national average.
-
-**问：Is it easy to get a US work visa for this occupation?**
-答：Very difficult. Typically does not require a bachelor's degree, so H-1B eligibility is unlikely. Employer-sponsored green card is rare due to small workforce.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

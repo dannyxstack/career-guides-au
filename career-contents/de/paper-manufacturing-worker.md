@@ -1,60 +1,95 @@
-# Paper Manufacturing Worker（Paper Manufacturing Worker）职业分析 · DE
+# Paper Manufacturing Worker — career analysis · Germany
 
-**职业代码：2311 – Paper Manufacturing Worker。**
+**Occupation code: 2311 (KldB)**
 
-Operates machinery, monitors production processes, and maintains equipment in paper mills to ensure quality and output of paper or cardboard.
+Responsible for operating machines, monitoring production processes, and maintaining equipment in a paper mill to ensure the quality and output of paper or paperboard.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（纸业技术员） | 2-3 年 | —（培训期间有工资，企业承担学费） |
-| 技术员（Meister/Techniker） | 1-2 年（在职进修） | $3,000~$10,000（部分由企业资助或政府补贴） |
+| Dual system training (paper technician) | 2-3 years | $0~$500 (Paid during training, with tuition covered by the employer.) |
+| Technician (Meister/Techniker) | 1-2 years (on-the-job training) | $3,000~$10,000 (Partially funded by enterprises or government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制毕业证书（纸业技术员） | 德国工商会（IHK） | 必备 | 必备入职资格 |
-| 职业资格认证（Anerkennung） | 德国联邦劳工局（BA） | 可选 | 海外学历需认证 |
+| Dual-system graduation certificate (paper technology technician) | German Chamber of Commerce and Industry (IHK) | Required | Essential entry qualifications |
+| Professional qualification recognition (Anerkennung) | German Federal Employment Agency (BA) | Optional | Overseas degrees need credential evaluation. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。德国造纸业面临数字化转型和环保压力，但自动化程度较高，对专业技术人员需求稳定。未来就业机会主要集中在技术维护与工艺优化岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. The German paper industry faces digital transformation and environmental pressures, but has a high degree of automation and stable demand for professional technicians. Future job opportunities mainly focus on technical maintenance and process optimization roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $45,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $47,256 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径：从操作员起步，可晋升为班组长、工艺技术员或生产主管；通过进修可转向质量管理或技术销售。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Paper manufacturing roles are severely squeezed by AI and automation: machine vision monitoring, predictive maintenance, and digital twins will replace most inspection and quality checks; entry-level jobs will decrease, and mid-to-low-level operators face job transition pressure.
+
+Career path: start as operator, advance to team leader, process technician, or production supervisor; further study can lead to quality management or technical sales.
+
+**Tasks most exposed to AI:**
+
+- Automatically detect paper defects (e.g., holes, uneven thickness) using machine vision and sensors
+- Automatically adjust process parameters such as paper machine speed and slurry flow based on historical data and real-time parameters
+- Using digital twins to simulate and predict faults like paper breaks, replacing manual inspections
+- Automated packing, labelling, and conveying systems, replacing handling and packaging stations
+- Remotely monitor multiple paper machines centrally via SCADA system, replacing multiple on-site operators
+
+**Where AI augments the role:**
+
+- Use AI process optimization models (e.g., reinforcement learning) to improve paper machine efficiency and yield
+- Using AR glasses to help new employees quickly familiarize themselves with complex equipment operation procedures
+- Predict spare part replacement cycles based on data analysis to reduce unplanned downtime
+- Automated report generation allows technicians to focus on anomaly analysis and process improvement
+
+**Human moat:**
+
+- Emergency judgment and repair for complex mechanical failures such as rare paper breaks and cylinder sticking
+- Minor adjustments to slurry formula and sensory evaluation (touch, visual) of fibers and fillers.
+- Cross-departmental coordination (e.g., raw material procurement, logistics, sales) and on-site decision-making skills.
+- Emergency response and judgment in safety monitoring and human-machine collaboration
+- Process debugging for small batch trials of new paper types (e.g., specialty paper)
+
+**Skills to build:**
+
+- PLC programming and industrial automation system operation
+- Fundamentals of Supervisory Control and Data Acquisition (SCADA) Application
+- Paper defect analysis and statistical process control (SPC)
+- Basic machine vision concepts and sensor technology
+- Understanding of digital twin or MES system operations
+- Equipment maintenance and fault diagnosis (mechanical/electrical)
+
+**Key growth areas:**
 
 - Automation
 - Sustainability
@@ -63,65 +98,67 @@ Operates machinery, monitors production processes, and maintains equipment in pa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于持有德国认可的职业资格或双元制培训证书的申请人，需有企业合同。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需证明经济能力。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to applicants holding a German-recognized vocational qualification or dual vocational training certificate, requiring a company contract. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to find employment; must prove financial means. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Paper Manufacturing Worker？**
-- 喜欢动手操作机器、有耐心的人
-- 接受轮班工作制的人
-- 对工业生产流程感兴趣的人
+**Who is suited**
+- People who enjoy hands-on work with machines and have patience.
+- People who can accept shift work
+- People interested in industrial production processes
 
-**谁不适合学Paper Manufacturing Worker？**
-- 不习惯体力劳动或噪音环境的人
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- People not accustomed to physical labor or noisy environments
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for papermakers?**
+A: Entry-level annual salary is approximately €28,000-35,000, rising to €45,000-55,000 with experience, usually with shift allowances.
+
+**Q: Can foreigners enter the German papermaking industry through skilled migration?**
+A: Limited opportunities; mainly requires dual-system training or German-recognized qualifications, with high German language requirements (B1/B2).
+
+**Q: What educational background is required to become a papermaker?**
+A: Usually requires completing a 2-3 year dual training program, combining practical work in a company with theoretical learning at a vocational school.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较易（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Paper Manufacturing Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of paper manufacturing workers?**
-答：Entry-level annual salary is about €28,000-35,000, rising to €45,000-55,000 with experience, plus shift allowances.
-
-**问：Can foreign workers enter the German paper industry via skilled migration?**
-答：Opportunities are limited; requires recognized vocational qualification or dual training, and good German (B1/B2).
-
-**问：What education is needed to become a paper manufacturing worker?**
-答：Typically a 2-3 year dual vocational training program combining on-the-job training and vocational school.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

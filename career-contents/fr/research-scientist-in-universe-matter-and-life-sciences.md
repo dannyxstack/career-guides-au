@@ -1,61 +1,96 @@
-# Research Scientist in Universe, Matter and Life Sciences（Research Scientist in Universe, Matter and Life Sciences）职业分析 · FR
+# Research Scientist in Universe, Matter and Life Sciences — career analysis · France
 
-**职业代码：K2402 – Research Scientist in Universe, Matter and Life Sciences。**
+**Occupation code: K2402 (ROME)**
 
-Conduct fundamental and applied research in astrophysics, particle physics, molecular biology, etc., at French public research institutions (CNRS, INRAE, CEA) or university labs.
+Conduct basic and applied research at French public research institutions (such as CNRS, INRAE, CEA) or university laboratories, covering fields such as astrophysics, particle physics, and molecular biology.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 博士 | 3-5年（Doctorat） | —（博士通常获工资（约1700-2300€/月），注册费约3000€/年） |
-| 硕士 | 2年（Master） | $3,000~$15,000（公立大学学费约3000€/年（非欧盟），工程师学校约15000€/年） |
-| 大学校预科+工程师 | 3年（Prépa+工程师） | $2,000~$20,000（公立预科免费，私立工程师学校学费2000-20000€/年） |
+| Doctorate | 3-5 years (Doctorat) | $0~$3,000 (Doctors usually receive a salary (about €1700-2300/month), with a registration fee of about €3000 per year) |
+| Master's degree | 2 years (Master) | $3,000~$15,000 (Tuition at public universities is about €3,000 per year (outside the EU), and engineering schools are about €15,000 per year) |
+| University preparatory + engineer | 3 years (Prépa + Engineer) | $2,000~$20,000 (Public preparatory courses are free, while private engineering schools tuition is €2,000–20,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士文凭 | 法国大学或研究机构 | 必备 | 研究型职位必备，需论文答辩 |
-| 硕士文凭 | 法国大学 | 必备 | 进入博士前提条件 |
-| HDR（指导研究资格） | 法国大学 | 可选 | 晋升教授或研究主任通常需要 |
-| CNRS竞赛录取 | CNRS | 可选 | 成为CNRS研究员须通过全国竞考 |
+| PhD diploma | French universities or research institutions | Required | Research-oriented positions are essential, with a thesis defense required |
+| Master's degree | French universities | Required | Prerequisites for Admission to a PhD |
+| HDR (Research Guidance Qualification) | French universities | Optional | Promotion to professor or research director is usually required |
+| CNRS competition admission | CNRS | Optional | To become a CNRS Fellow, you must pass the national competitive exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 120,000。法国公共研究经费增长缓慢，但量子科技、生物医药等前沿领域有优先投资。博士学历竞争激烈，CDI研究职位稀缺，多数从博士后合同起步。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. Public research funding in France is growing slowly, but priority investments are given in frontier fields such as quantum technology and biomedicine. PhD degrees are highly competitive, CDI research positions are scarce, and most start from postdoctoral contracts.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（博士后/博士0-3年） | $25,000~$35,000 | 博士后工资约2100-2900€/月（brut） |
-| 中级（CR/MCF 4-10年） | $35,000~$50,000 | CNRS研究员或大学讲师约35000-50000€/年（brut） |
-| 高级（DR/PR 10年以上） | $50,000~$75,000 | 研究主任或教授约50000-75000€/年（brut） |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior Level (Postdoctoral/PhD 0-3 years) | $25,000~$35,000 | Postdoctoral salary is about €2100-2900/month (brut) |
+| Intermediate (CR/MCF 4-10 years) | $35,000~$50,000 | CNRS Researcher or University Lecturer Approximately €35,000-50,000/year (brut) |
+| Senior (DR/PR 10 years or more) | $50,000~$75,000 | Research directors or professors pay approximately €50,000-75,000/year (brut) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 典型路径：博士（3-5年）→ 博士后（2-5年）→ 研究员（CR）或讲师（MCF）→ 研究主任（DR）或教授（PR）。可转向研发管理、专利、科学传播。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly amplify researchers' capabilities, automate data collection, analysis, and literature review, but creative hypothesis formulation, experimental design, and interdisciplinary intuition remain core barriers, and overall job prospects are bright.
+
+Typical pathways: PhD (3-5 years) → Postdoctoral Fellow (2-5 years) → Researcher (CR) or Lecturer (MCF) → Research Director (DR) or Professor (PR). It can shift to R&D management, patents, and science communication.
+
+**Tasks most exposed to AI:**
+
+- Automated data cleaning, statistical analysis, and chart generation
+- Automatic literature retrieval, abstract generation, and meta-analysis
+- Standardized laboratory records and data management
+- Conventional astronomical observation image processing and particle collision event screening
+- Sequence alignment and annotation in bioinformatics
+
+**Where AI augments the role:**
+
+- AI-assisted hypotheses propose new hypotheses and explore molecular configurations through generative adversarial networks
+- Multimodal data fusion reveals cross-scale physical and biological laws
+- Reinforcement learning optimizes experimental parameters and automates experimental workflows
+- Natural language processing accelerates research writing, review, and grant applications
+- Digital twin technology simulates cosmic evolution or cellular dynamics
+
+**Human moat:**
+
+- Original scientific questions and theoretical frameworks are proposed
+- Cross-disciplinary intuition and the ability to explain anomalies
+- Ethical judgment and social responsibility (such as gene editing, climate intervention)
+- Creative trial and error in complex experimental design
+- Teamwork, academic debate, and cross-cultural communication
+
+**Skills to build:**
+
+- Python/R and AI frameworks (PyTorch, TensorFlow)
+- Fundamentals of data science: machine learning, causal inference
+- AI-Assisted Experimental Design (Bayesian Optimization, Active Learning)
+- Natural Language Processing: Literature mining and assisted in thesis writing
+- Scientific visualization and interactive data presentation
+- Ethics, Law, and Open Source Scientific Practice
+
+**Key growth areas:**
 
 - Quantum Computing
 - Artificial Intelligence
@@ -64,68 +99,67 @@ Conduct fundamental and applied research in astrophysics, particle physics, mole
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent - C（Talent Passport - Researcher） | 面向受法国研究机构邀请的科研人员，有效期4年，可带家属，简化续签 |
-| Subclass Salarié（Employee Visas） | 需获得法国雇主工作合同，通过职介和劳动局审核，适用于大学或企业研究岗 |
-| Subclass Carte bleue européen（EU Blue Card） | 适用于高学历科研人才，年薪需高于约53800€（2024标准），可申请永居 |
+| Subclass Passeport Talent - C (Talent Passport - Researcher) | For researchers invited by French research institutions; valid for 4 years, includes family members, simplified renewal |
+| Subclass Salarié (Employee Visas) | Must obtain a French employer work contract, pass job placement and labor office review, and be suitable for university or corporate research positions |
+| Subclass Carte bleue européen (EU Blue Card) | Suitable for highly educated research talents, with an annual salary above approximately €53,800 (2024 standard), eligible to apply for permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Research Scientist in Universe, Matter and Life Sciences？**
-- 对科学研究有强烈热情，能接受长期博士后和合同制工作
-- 具备独立科研能力和法语交流能力（B2以上）
-- 愿意接受学术竞争和发表压力
-
-**谁不适合学Research Scientist in Universe, Matter and Life Sciences？**
-- 追求高薪和稳定工作而非学术兴趣
-- 缺乏耐心或不愿经历5年以上不稳定期
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong passion for scientific research, able to accept long-term postdoctoral and contract work
+- Possess independent research capabilities and French communication skills (B2 level or above)
+- Be willing to accept academic competition and publication pressure
+
+**Who is not suited**
+- Pursue high salaries and stable jobs over academic interests
+- Lack of patience or unwillingness to experience unstable periods of more than five years
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French researchers?**
+A: Annual salary for junior postdoc is around €25,000-35,000, mid-level researcher €35,000-50,000, senior professor €50,000-75,000. Lower than industry but high job stability (after CDI).
+
+**Q: How can foreigners become researchers at French public research institutions?**
+A: The mainstream path is to apply for the Passeport Talent-Chercheur visa after obtaining a PhD or postdoctoral offer, valid for 4 years. You can also use the EU Blue Card (which requires a high salary) or the Salarié visa.
+
+**Q: What is the promotion path for scientific research careers in France?**
+A: Typical path: PhD → postdoctoral → become CNRS Researcher (CR) or University Lecturer (MCF) through competitive exams→ and after obtaining HDR, promoted to Research Director (DR) or Professor (PR). It can also shift to industrial R&D or technology policy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Research Scientist in Universe, Matter and Life Sciences的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for researchers in France?**
-答：Junior postdocs earn about €25,000-35,000, mid-level researchers €35,000-50,000, and senior professors €50,000-75,000 per year. Lower than industry but stable after CDI.
-
-**问：How can foreigners become researchers in French public research institutions?**
-答：The main path is to obtain a PhD or postdoc offer and apply for a Talent Passport - Researcher visa (valid 4 years). EU Blue Card (high salary required) or Salarié visa also possible.
-
-**问：What is the career progression for researchers in France?**
-答：Typical path: PhD → postdoc → competitive entry as CNRS researcher (CR) or university lecturer (MCF) → HDR then promotion to research director (DR) or professor (PR). Also possible to shift to industrial R&D or science policy.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

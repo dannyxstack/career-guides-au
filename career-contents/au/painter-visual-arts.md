@@ -1,128 +1,159 @@
-# 画家（视觉艺术）（Painter (Visual Arts)）职业分析 · 澳大利亚
+# Painter (Visual Arts) — career analysis · Australia
 
-**职业代码：211411 – Painter (Visual Arts)。**
+**Occupation code: 211411 (ANZSCO)**
 
-视觉艺术画家用绘画、素描等媒介进行原创艺术创作，作品通过画廊、委约、比赛和线上平台销售。多数为自由职业或兼职，收入波动大、与声誉和作品销售强相关；常以艺术教学、插画或设计等相关工作补充收入。
+Visual artists create original art using media such as painting and drawing, selling through galleries, commissions, competitions, and online platforms. Most are freelancers or part-time, with fluctuating income highly tied to reputation and artwork sales; often supplement income with art teaching, illustration, or design work.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Fine Arts / Visual Arts（视觉艺术学士，可选） | 3年 | $30,000~$90,000（并非强制；许多画家自学或经美术学院短训成才） |
-| 美术学院短期课程 / 工作坊 | 数周~1年 | $500~$8,000（技法提升与作品集积累） |
+| Bachelor of Fine Arts / Visual Arts (optional) | 3 years | $30,000~$90,000 (Not mandatory; many painters are self-taught or have short training at art academies) |
+| Short art school courses / workshops | A few weeks to 1 year | $500~$8,000 (Skill Enhancement and Portfolio Building) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 作品集（Portfolio） | — | 可选 | 声誉与销售的核心；学历非必需 |
+| Portfolio | — | Optional | Reputation and sales are core; qualifications not essential |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 —。艺术类职业整体增长平缓，岗位高度自雇化；数字艺术、插画和公共艺术委约是相对活跃的细分。AI 生成图像带来风格与版权冲击，但原创性、实体作品与艺术家品牌仍具不可替代价值。
+**Job demand: low (★½☆☆☆).** National workforce approx. 6,000. Overall growth in arts occupations is slow, with high self-employment; digital art, illustration, and public art commissions are relatively active niches. AI-generated images impact style and copyright, but originality, physical works, and artist branding remain irreplaceable.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: very high (★★★★½).**
+**Work intensity: medium (★★½☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：很高（★★★★½）。**
-**工作强度：中等（★★½☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新晋/兼职画家 | $25,000~$45,000 | 多为兼职；收入随作品销售波动 |
-| 全职职业画家 | $45,000~$75,000 | 含教学/委约/线上销售综合收入 |
-| 知名艺术家 | $80,000~$250,000 | 画廊代理+高价委约，头部溢价显著 |
+| Median salary | $108,212 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Emerging / part-time painter | $25,000~$45,000 | Mostly part-time; income varies with artwork sales |
+| Full-time professional painter | $45,000~$75,000 | Combined income from teaching, commissions, and online sales |
+| Renowned Artist | $80,000~$250,000 | Gallery representation + high-value commissions, significant premium for top artists |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 艺术市场两极分化：少数知名艺术家高溢价，多数靠教学/委约/线上销售维持。线上平台降低了销售门槛；AI 绘图工具既是竞争也是创作辅助。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI tools can generate images, optimise colour and composition, but the artist's core creative intent, artistic expression, and emotional resonance are difficult to replace; entry-level competition intensifies, freelance survival pressure increases, but AI assistance can improve efficiency and experimental range.
 
-- 数字艺术与插画
-- 公共艺术/壁画委约
-- 艺术教育与工作坊
-- 画廊代理与线上销售（Etsy/Saatchi）
+Art Market Polarisation: A Few Renowned Artists Command High Premiums, While Most Rely on Teaching/Commissions/Online Sales. Online Platforms Lower Sales Barriers; AI Drawing Tools Are Both Competition and Creative Aids.
+
+**Tasks most exposed to AI:**
+
+- Commercial illustration (e.g., book covers, advertising posters for quick needs)
+- Portrait and realistic painting (AI can generate realistic works from photos)
+- Color scheme suggestions and composition experiments (AI can quickly generate variations)
+- Digital art reproduction (style transfer, batch generation)
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly generate idea sketches and mood boards, speeding up the pre-production phase
+- Use AI to analyze color matching, composition rules, and optimize visual effects of works
+- Generate multiple versions via AI to assist client negotiation and customization
+- Use AI for artwork display simulation, making curation and setup more efficient
+- Social media content generation (descriptions, tags, thumbnails) to promote work
+
+**Human moat:**
+
+- Unique personal style and artistic expression, cannot be fully imitated by algorithms
+- Emotional injection and storytelling ability during creation
+- Cross-media experimentation and material innovation (e.g., mixed media, installation art)
+- Understanding of art criticism, social observation, and cultural context
+- Interpersonal relationships and negotiation with clients, galleries, and collectors
+
+**Skills to build:**
+
+- Proficient in using AI image tools (e.g., Midjourney, DALL·E, Stable Diffusion)
+- Digital painting and software skills (Procreate, Photoshop, Blender)
+- Art Market and Brand Marketing (personal IP operation, social media promotion)
+- Project management and client communication (ability to deliver custom work)
+- Cross-media creation (e.g., combining 3D printing, VR/AR technology)
+- Continuously learn new technologies and integrate into traditional creation
+
+**Key growth areas:**
+
+- Digital Art & Illustration
+- Public Art/Mural Commissioning
+- Art Education & Workshops
+- Gallery Representation & Online Sales (Etsy/Saatchi)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学画家（视觉艺术）？**
-- 有强烈创作热情并能长期坚持作品集积累
-- 愿意结合教学、委约、线上销售多元化收入
-- 能接受收入波动与自雇不确定性
-
-**谁不适合学画家（视觉艺术）？**
-- 追求稳定月薪与清晰晋升路径
-- 以移民为主要目标（本职业无技术移民通道）
-- 不愿做自我营销与作品销售
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Having Strong Creative Passion and Long-Term Commitment to Portfolio Building
+- Willing to diversify income through teaching, commissions, and online sales
+- Able to accept income fluctuations and self-employment uncertainty
+
+**Who is not suited**
+- Pursue stable monthly salary and clear career progression
+- Primarily aiming for immigration (no skilled migration pathway for this occupation)
+- Unwillingness to do self-marketing and sell work
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of painters in Australia?**
+A: Varies greatly: part-time newcomers about $25k~$45k; full-time professional painters about $45k~$75k (including teaching/commissions/online sales); renowned artists can reach $80k~$250k+. Most painters sustain multiple income streams.
+
+**Q: Can painters migrate to Australia through skilled migration?**
+A: Generally not. Painter (Visual Arts, 211411) is not on the CSOL or GSM Skilled Migration Occupation List, with no pathways for Independent Skilled or Employer-Sponsored Nomination. A very small number of top artists may consider special pathways like Global Talent (GTI) or Distinguished Talent (858).
+
+**Q: Will painters be replaced by AI?**
+A: Commercial illustration/stock images are heavily impacted by AI-generated images, but original physical art, artist branding, live creation, and exhibition experiences are hard to replace. Using AI as a creation and composition aid, strengthening personal style and offline sales, is a more stable path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | 艺术职业就业与收入概况 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 很高（★★★★½） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-画家（视觉艺术）属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲画家收入多少？**
-答：差异极大：兼职新晋约 $25k~$45k；全职职业画家约 $45k~$75k（含教学/委约/线上销售）；知名艺术家可达 $80k~$250k+。多数画家以多元收入维持。
-
-**问：画家能技术移民澳洲吗？**
-答：基本不能。Painter (Visual Arts, 211411) 不在 CSOL 或 GSM 技术移民清单上，没有独立技术或雇主担保提名通道。少数顶尖艺术家可考虑全球人才（GTI）或杰出人才（858）等特殊通道。
-
-**问：画家会被 AI 替代吗？**
-答：商业插画/图库类受 AI 生成图像冲击较大，但原创实体艺术、艺术家品牌、现场创作与展览体验难以被替代。把 AI 作为创作与构图辅助、强化个人风格与线下展售，是更稳的路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

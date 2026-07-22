@@ -1,58 +1,93 @@
-# Supply Chain Designer and Organizer（Supply Chain Designer and Organizer）职业分析 · FR
+# Supply Chain Designer and Organizer — career analysis · France
 
-**职业代码：N1301 – Supply Chain Designer and Organizer。**
+**Occupation code: N1301 (ROME)**
 
-Designs and optimizes supply chain processes including procurement, inventory, transportation, and distribution to improve efficiency and reduce costs.
+Responsible for designing, planning, and optimizing corporate supply chain processes, covering procurement, inventory, transportation, and distribution to improve efficiency and reduce costs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士（Licence） | 3年 | —（公立大学学费低，可申请学徒制(alternance)免学费并获得薪酬） |
-| 硕士（Master） | 2年 | $250~$15,000（公立大学约250欧元/年，商学院最高约15000欧元/年） |
+| Licence | 3 years | $0~$3,000 (Public universities have low tuition fees, allowing you to apply for an alternance program with no tuition and salary) |
+| Master's Degree (Master) | 2 years | $250~$15,000 (Public universities: approx. 250 euros/year; business schools: up to approx. 15,000 euros/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物流与供应链管理硕士 | 公立大学或商学院 | 必备 | 多数岗位要求硕士学历，相关专业优先 |
-| CSCP认证 | ASCM（美国供应链管理协会） | 可选 | 国际公认的供应链专业认证，非强制但加分 |
+| Master of Logistics and Supply Chain Management | Public universities or business schools | Required | Most positions require a master's degree, with relevant majors preferred |
+| CSCP certification | ASCM (American Supply Chain Management Association) | Optional | Internationally recognized supply chain professional certification, not mandatory but a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国物流与供应链领域持续增长，电子商务与绿色物流推动需求。预计2025年前岗位数量增长约10%，尤其在大型零售与制造业。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's logistics and supply chain sector continues to grow, driven by e-commerce and green logistics. The number of jobs is expected to grow by about 10% before 2025, especially in large-scale retail and manufacturing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $42,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $60,000~$85,000 | 税前年薪，经理级别 |
+| Median salary | $48,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $42,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $60,000~$85,000 | Pre-tax annual salary, manager level |
+| average salary | $52,284 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从物流专员升至供应链经理、总监，或转向咨询与项目管理。积累经验后有望担任首席供应链官。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will profoundly change the work of logisticians: routine planning and scheduling tasks are automated, but strategic supply chain optimization and anomaly handling abilities are amplified by AI, upgrading rather than eliminating the role.
+
+You can advance from logistics specialist to supply chain manager, director, or transition to consulting and project management. Upon gaining experience, he is expected to become Chief Supply Chain Officer.
+
+**Tasks most exposed to AI:**
+
+- Inventory forecasting and replenishment suggestion generation
+- Standard transport route planning and optimization.
+- Order processing and status automation tracking
+- Daily report generation and basic data analysis
+
+**Where AI augments the role:**
+
+- Use AI to simulate complex supply chain network structures and design resilient logistics networks
+- Quickly identify risks like delays and damage through anomaly detection AI and proactively intervene
+- Uses AI-driven smart warehousing systems to optimize inventory layout and picking strategies
+- Real-time dynamic pricing and logistics cost optimization based on machine learning models
+- Use natural language processing to automatically interpret contract terms and compliance requirements.
+
+**Human moat:**
+
+- Cross-departmental interest coordination and supplier negotiation
+- Rapid decision-making and execution for sudden disruptions (disasters, strikes)
+- Global logistics strategic planning and innovative model design
+- Customer relationship management and personalized service customization
+- Judgment and decision-making on non-quantifiable factors (policy, culture)
+
+**Skills to build:**
+
+- Supply chain data analysis and visualization (Python, SQL, Tableau)
+- AI tool application: machine learning basics, predictive model use
+- Supply chain simulation and optimization (AnyLogic, Simio)
+- Digital twin and IoT data integration
+- Project management and Lean Six Sigma methodologies
+- Cross-cultural communication and crisis leadership
+
+**Key growth areas:**
 
 - Supply Chain Optimization
 - Green Logistics
@@ -61,64 +96,63 @@ Designs and optimizes supply chain processes including procurement, inventory, t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (Professionals in Innovation or Business)） | 适合高技能人才，需硕士学历或3年以上经验，合同年薪至少约40,000欧元 |
-| Subclass Salarié（Employee Visa (Salarié)） | 受雇于法国公司，需工作许可，雇主办理行政手续 |
+| Subclass Passeport Talent (Talent Passport (Professionals in Innovation or Business)) | Suitable for highly skilled talent, requiring a master's degree or more than 3 years of experience, with a contract annual salary of at least about 40,000 euros |
+| Subclass Salarié (Employee Visa (Salarié)) | Employed by a French company requires a work permit, and the employer handles administrative procedures |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supply Chain Designer and Organizer？**
-- 善于分析、逻辑思维强的人
-- 对物流与供应链管理有热情的人
-- 喜欢跨部门协调与解决问题的人
-
-**谁不适合学Supply Chain Designer and Organizer？**
-- 不喜繁琐数据与流程规划的人
-- 抗压能力弱、不愿应对紧急物流问题的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at analysis and have strong logical thinking
+- Someone passionate about logistics and supply chain management
+- People who enjoy cross-departmental coordination and problem-solving
+
+**Who is not suited**
+- People who dislike complicated data and process planning
+- People with weak stress tolerance and unwilling to handle urgent logistics issues
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for supply chain designers in France?**
+A: Junior salaries are about 32,000-40,000 euros per year, intermediate salaries 42,000-55,000 euros, senior salaries 60,000-85,000 euros, with manager levels being higher.
+
+**Q: How can foreigners immigrate to France through supply chain positions?**
+A: You can obtain an offer from a French company and meet the salary requirements through the Passeport Talent Passport or Salarié work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supply Chain Designer and Organizer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for supply chain designers in France?**
-答：Entry-level annual salary is about 32,000-40,000 EUR gross, mid-level 42,000-55,000 EUR, senior 60,000-85,000 EUR, and higher for managers.
-
-**问：How can foreigners immigrate to France through supply chain jobs?**
-答：Via Talent Passport or Employee visa, requiring a job offer from a French company and meeting minimum salary thresholds.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Fitness and Recreation Instructor and Program Leader（Fitness and Recreation Instructor and Program Leader）职业分析 · IE
+# Fitness and Recreation Instructor and Program Leader — career analysis · Ireland
 
-**职业代码：3423 – Fitness and Recreation Instructor and Program Leader。**
+**Occupation code: 3423 (ISCO08)**
 
-This occupation in Ireland includes fitness trainers, sports coaches, and outdoor activity leaders who design and lead individual or group fitness, recreation, and sports programs to promote healthy lifestyles.
+This occupation in Ireland includes fitness instructors, sports coaches, outdoor activity guides, etc., responsible for designing and leading individual or group fitness, leisure, and sports programs to promote healthy lifestyles.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后证书/文凭 | 1-2年 | $5,000~$10,000（体育科学或健身指导证书课程费用） |
-| 本科学位 | 3-4年（本科） | $12,000~$18,000（体育科学或健康与休闲学士学位每年学费） |
+| Post-secondary certificate/diploma | 1-2 years | $5,000~$10,000 (Course fees for sports science or fitness instruction certificate) |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $12,000~$18,000 (Annual tuition for a bachelor's degree in sports science or health and leisure) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰国家健身教练认证 | 爱尔兰健身协会等 | 必备 | 行业认可的基本入门认证 |
-| 急救证书 | 爱尔兰红十字会或类似机构 | 必备 | 大部分雇主强制要求 |
-| 儿童保护培训 | 相关提供机构 | 可选 | 涉及青少年项目时通常要求 |
+| Irish National Fitness Instructor Certification | Fitness Ireland, etc. | Required | Industry-recognised basic entry-level certification |
+| First aid certificate | Irish Red Cross or similar organization | Required | Most employers mandate this |
+| Child Protection Training | Related Providing Institutions | Optional | When involving youth programs, it is usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。爱尔兰健康与健身行业持续增长，预计未来十年就业机会稳步上升，尤其受老龄化人口和健康意识提升驱动。都柏林及城市地区需求较高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Ireland's health and fitness industry continues to grow, with steady employment opportunities expected over the next decade, driven by an aging population and increased health awareness. Demand is higher in Dublin and urban areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 兼职或入门级全职教练 |
-| 中级（3-7年） | $30,000~$40,000 | 经验教练或项目主管 |
-| 高级（7年以上） | $40,000~$55,000 | 高级经理或专业领域教练 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$30,000 | Part-time or entry-level full-time coach |
+| Mid-level (3–7 years) | $30,000~$40,000 | Experienced coach or project supervisor |
+| Senior (7+ years) | $40,000~$55,000 | Senior manager or specialist coach |
+| average salary | $36,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业发展路径可从初级教练晋升为高级教练、项目主管或健身经理。获得国际认证（如ACE、NSCA）可提升竞争力，部分可转向运动科学或健康管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In the work of fitness instructors and recreation program supervisors, AI can assist in creating personalized plans and monitoring training data, but the core aspects of on-site guidance, interpersonal motivation, and real-time safety assurance are difficult to automate; overall, risks and opportunities coexist.
+
+Career progression can advance from junior coach to senior coach, program director, or fitness manager. Obtaining international certifications (such as ACE, NSCA) can enhance competitiveness, with some transitioning to sports science or health management.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate personalized training plans and dietary recommendations
+- Automatically adjust exercise plans using wearable device data
+- Using AI video analysis to automatically assess movement standardization
+- AI chatbot handling administrative tasks such as appointments and payments
+- Automated generation of training reports and progress tracking charts
+
+**Where AI augments the role:**
+
+- Using AI to analyze client biometric data to optimize real-time training guidance
+- Creating immersive group course experiences via VR/AR
+- AI-assisted design of specialised courses (e.g. sports injury rehabilitation)
+- Use social algorithms to improve customer retention and course participation
+- Innovative course content based on big data trend prediction
+
+**Human moat:**
+
+- Ability to demonstrate on-site and correct movements in real time
+- Fostering a motivating and inclusive team environment
+- Handling sudden customer health conditions or safety incidents
+- Build deep trust relationships and long-term motivation support
+- Customized care for special populations (e.g., elderly, disabled)
+
+**Skills to build:**
+
+- Coach certification (e.g., ACE/NASM) and first aid certificate
+- Fundamentals of sports science (anatomy, biomechanics)
+- AI data analysis tools (e.g., TrainingPeaks, Kinduct)
+- Digital content creation (short videos, online course design)
+- Customer Relationship Management (CRM) and social marketing
+- Basic programming and automation scripts (e.g., Python automated reports)
+
+**Key growth areas:**
 
 - fitness
 - wellness
@@ -64,66 +100,65 @@ This occupation in Ireland includes fitness trainers, sports coaches, and outdoo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且年薪不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 需大学学位及高于全国平均薪资1.5倍的合同，不常见于此职业。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用，因其不在紧缺职业清单上。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires employer sponsorship and annual salary of at least €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and a contract with salary 1.5 times the national average, uncommon in this occupation. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Generally not applicable, as it is not on the shortage occupation list. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fitness and Recreation Instructor and Program Leader？**
-- 热爱运动与健康指导，善于激励他人
-- 具备良好沟通和计划能力者
-- 喜欢灵活工作时间与户外活动者
-
-**谁不适合学Fitness and Recreation Instructor and Program Leader？**
-- 不喜体力活动或久坐办公室者
-- 偏好稳定朝九晚五工作者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports and health coaching, skilled at motivating others
+- Those with good communication and planning skills
+- Those who enjoy flexible working hours and outdoor activities
+
+**Who is not suited**
+- Those who dislike physical activity or sitting in an office for long periods
+- Those who prefer a stable 9-to-5 job
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level for fitness instructors in Ireland?**
+A: Junior coaches earn about €22,000-30,000 per year, while senior coaches or managers can earn €40,000-55,000, depending on experience and qualifications.
+
+**Q: Can a fitness instructor immigrate to Ireland through a work visa?**
+A: You can apply for a General Employment Permit, but it requires employer sponsorship and meeting the annual salary threshold. This occupation is not on the Critical Skills list, so the immigration threshold is higher.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fitness and Recreation Instructor and Program Leader为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fitness instructors in Ireland?**
-答：Entry-level coaches earn about EUR 22,000-30,000 annually, while senior instructors or managers can reach EUR 40,000-55,000, depending on experience and qualifications.
-
-**问：Can fitness instructors migrate to Ireland via work visa?**
-答：Yes, but typically requires a General Employment Permit with employer sponsorship and meeting salary thresholds. It is not on the Critical Skills list, making migration less straightforward.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

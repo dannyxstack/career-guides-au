@@ -1,59 +1,95 @@
-# Acupuncturists（Acupuncturists）职业分析 · 美国
+# Acupuncturists — career analysis · United States
 
-**职业代码：29-1291 – Acupuncturists。**
+**Occupation code: 29-1291 (SOC)**
 
-Acupuncturists diagnose, treat, and prevent disorders by stimulating specific acupuncture points using needles, often incorporating cupping, massage, and other alternative therapies.
+Acupuncturists diagnose, treat, and prevent diseases by stimulating specific body points using methods like needling, cupping, nutritional supplements, and Tuina.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士（针灸或东方医学） | 3-4年 | $30,000~$60,000（学费因学校和州而异，年均约$10,000-$15,000） |
+| Master's degree (Acupuncture or Oriental Medicine) | 3-4 years | $30,000~$60,000 (Tuition varies by school and state, averaging about $10,000-$15,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 针灸执照（NCCAOM认证） | 国家针灸与东方医学认证委员会 | 必备 | 需通过NCCAOM考试，多数州要求此认证 |
-| 州针灸执照 | 各州医疗委员会 | 必备 | 除NCCAOM外，多数州要求单独申请州执照 |
+| Acupuncture License (NCCAOM certification) | National Certification Commission for Acupuncture and Oriental Medicine | Required | Must pass the NCCAOM exam; most states require this certification |
+| State acupuncture license | State medical boards | Required | In addition to NCCAOM, most states require separate state licensure |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。美国针灸行业就业预计增长18%，远高于所有职业平均水平。随着替代医学接受度提高和人口老龄化，针灸师需求持续上升。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Employment in the U.S. acupuncture industry is projected to grow 18%, much faster than the average for all occupations. Demand for acupuncturists continues to rise with increased acceptance of alternative medicine and an aging population.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 受雇于诊所或康复中心 |
-| 中级（3-7年） | $60,000~$85,000 | 拥有稳定客户群或进入综合医疗机构 |
-| 高级（7年以上） | $85,000~$120,000 | 私人执业或成为知名专家 |
+| Median salary | $76,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Employed at clinics or rehabilitation centers |
+| Mid-level (3–7 years) | $60,000~$85,000 | Having a stable client base or joining a comprehensive medical institution |
+| Senior (7+ years) | $85,000~$120,000 | Private practice or becoming a well-known expert |
+| average salary | $87,020 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级针灸师可在诊所或康复中心工作，积累经验后可晋升为主治医师或开设私人诊所。部分针灸师向疼痛管理或中医专科方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Massage therapists rely heavily on manual palpation and personalized communication; AI cannot fully replace core massage operations. However, AI significantly enhances scheduling, client management, marketing, and basic health assessments, allowing practitioners to focus on clinical work.
+
+Junior acupuncturists can work in clinics or rehabilitation centers, gain experience, and then advance to chief physician or open a private practice. Some acupuncturists specialize in pain management or traditional Chinese medicine.
+
+**Tasks most exposed to AI:**
+
+- Client appointment, scheduling, and reminders (AI voice assistants and calendar systems)
+- Initial patient health questionnaire screening and symptom recording (AI form processing and natural language understanding)
+- Simple post-treatment feedback collection (AI chatbot)
+- Marketing copy and social media content generation (AI content generation)
+- Membership management and renewal notifications (AI-driven CRM system)
+
+**Where AI augments the role:**
+
+- Personalized treatment plan design (AI analyzes client history and preferences to recommend techniques/pressure)
+- Real-time stress/comfort monitoring (AI feedback via smart wearable devices)
+- Online Continuing Education and Skills Mapping (AI recommends courses and identifies skill gaps)
+- Automated generation of health assessment reports (AI integrates client data to produce illustrated reports)
+- Multilingual services (AI translation tools assist in communicating with foreign clients).
+
+**Human moat:**
+
+- Tactile perception and manual precision (hand massage techniques AI cannot replicate).
+- Building trust and emotional connection (empathy, calming anxious clients)
+- On-site adaptability (adjusting techniques based on client reactions in real-time)
+- Personalized communication and health consultation (integrating knowledge of Chinese medicine/Western osteopathy, etc.)
+- Ethical responsibility and clinical judgment (avoid excessive force or aggravating injuries)
+
+**Skills to build:**
+
+- Basic palpation and technique refinement (deep tissue, sports massage, etc.)
+- Use of AI health management tools (e.g., AI-assisted assessment software)
+- Client psychology and communication skills
+- Basic anatomy and pathology knowledge (identifying contraindications)
+- Digital Marketing and Personal Branding (Social Media, SEO)
+- Basic data analysis (track customer improvement trends)
+
+**Key growth areas:**
 
 - Integrative Medicine
 - Pain Management
@@ -62,69 +98,68 @@ Acupuncturists diagnose, treat, and prevent disorders by stimulating specific ac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 针灸师可申请H-1B，但需满足专业职业要求，且雇主需证明职位复杂性 |
-| Subclass O-1（O-1 Extraordinary Ability） | 对于具有杰出能力的针灸师（如研究成果或国际认可），可尝试O-1签证 |
-| Subclass EB-2（EB-2 Advanced Degree） | 持有硕士学位的针灸师可通过PERM申请EB-2绿卡 |
+| Subclass H-1B (H-1B Specialty Occupation) | Acupuncturists can apply for H-1B but must meet professional occupation requirements, and the employer must prove the position's complexity |
+| Subclass O-1 (O-1 Extraordinary Ability) | Acupuncturists with exceptional ability (e.g., research achievements or international recognition) may try O-1 visa. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Acupuncturists with a master's degree can apply for an EB-2 green card through PERM |
 
-**PR难度：较难（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Acupuncturists？**
-- 对替代医学和整体健康有浓厚兴趣的人
-- 具备耐心和细致沟通能力的人
-- 愿意持续学习中医理论和技术的从业者
-
-**谁不适合学Acupuncturists？**
-- 对针刺有强烈恐惧或不适的人
-- 希望快速获得高收入而不愿投入多年学习的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in alternative medicine and holistic health
+- Someone with patience and careful communication skills
+- Willing to continuously study traditional Chinese medicine theory and techniques
+
+**Who is not suited**
+- People with strong fear or discomfort of needles
+- People who want a high income quickly without investing years of study
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an acupuncturist?**
+A: US acupuncturist median annual salary about $70,000, entry-level around $45,000-$60,000, senior or private practice can reach $85,000-$120,000.
+
+**Q: How can acupuncturists immigrate to the US?**
+A: Common pathways include H-1B work visa (employer-sponsored) and EB-2 employment-based green card (master's degree + PERM). O-1 visa for extraordinary ability.
+
+**Q: What licenses are needed to be an acupuncturist in the US?**
+A: Must pass NCCAOM certification exam and apply for acupuncture license in the state. Some states also require additional exams or internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 难（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较难（★★★½☆） |
-
-Acupuncturists为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for acupuncturists?**
-答：The median annual salary for acupuncturists in the US is around $70,000, with entry-level ranging from $45,000 to $60,000, and experienced practitioners earning $85,000 to $120,000.
-
-**问：How can acupuncturists immigrate to the US?**
-答：Common paths include H-1B visa (employer-sponsored) and EB-2 green card (master's degree + PERM). O-1 visa is for those with extraordinary ability.
-
-**问：What certifications are required for acupuncturists in the US?**
-答：You must pass the NCCAOM certification exam and obtain a state license. Some states have additional exams or internship requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

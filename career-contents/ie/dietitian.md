@@ -1,59 +1,92 @@
-# Dietitian（Dietitian）职业分析 · IE
+# Dietitian — career analysis · Ireland
 
-**职业代码：2265 – Dietitian。**
+**Occupation code: 2265 (ISCO08)**
 
-Dieticians assess nutritional needs and develop personalized meal plans to promote health or manage diseases, working in hospitals, community settings, or private practices.
+Dietitians assess clients' nutritional needs and develop personalized meal plans to promote health or manage diseases, often working in hospitals, communities, or private clinics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$20,000（年学费（欧盟身份约€3,000-€7,000；国际学生约€15,000-€20,000）） |
-| 硕士 | 1-2年 | $12,000~$25,000（年学费（国际学生）） |
+| Bachelor's degree | 4 years | $15,000~$20,000 (Annual tuition fees (EU nationals approx. €3,000–€7,000; international students approx. €15,000–€20,000)) |
+| Master's degree | 1-2 years | $12,000~$25,000 (Annual tuition (international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册营养师（CORU注册） | CORU健康与社会护理专业委员会 | 必备 | 在爱尔兰执业必须在CORU注册 |
-| 营养学学位（认可课程） | 爱尔兰高等教育机构（如都柏林大学、科克大学） | 必备 | 完成CORU认可的营养学本科或研究生课程 |
-| 实习经历 | 医疗机构或卫生服务执行署（HSE） | 必备 | 需完成至少1年全日制实习 |
+| Registered Dietitian (CORU registered) | CORU - Health and Social Care Professionals Council | Required | Must register with CORU to practise in Ireland |
+| Nutrition degree (accredited course) | Irish higher education institutions (e.g., University College Dublin, University College Cork) | Required | Complete a CORU-accredited undergraduate or postgraduate nutrition program |
+| Internship experience | Health Service Executive (HSE) | Required | Must complete at least 1 year of full-time internship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★☆☆）。** 全国从业人数约 1,200。爱尔兰营养师就业前景良好，随着公众健康意识提升和老龄化人口增加，需求持续增长。岗位多集中于医院、公共卫生部门和私人咨询。政府健康政策推动预防性营养服务。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Employment prospects for dietitians in Ireland are good, with demand growing due to increased public health awareness and an aging population. Jobs are mainly in hospitals, public health departments, and private practice. Government health policies promote preventive nutrition services.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公立医院或社区岗位 |
-| 中级（3-7年） | $35,000~$50,000 | 高级临床营养师或团队领导 |
-| 高级（7年以上） | $50,000~$70,000 | 管理岗位或私人执业 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Public hospital or community roles |
+| Mid-level (3–7 years) | $35,000~$50,000 | Senior clinical dietitian or team leader |
+| Senior (7+ years) | $50,000~$70,000 | Management positions or private practice |
+| average salary | $44,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★½☆）。** 初级营养师可在医院或社区积累经验，通过继续教育成为高级临床营养师或营养学顾问。部分转向公共卫生、研究或管理岗位，也可独立执业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dietitians face mixed AI impact: routine diet plans and nutritional assessments are easily automated, but clinical decision-making, behavior change guidance and other high-level services require human empathy and experience, providing a deeper moat.
+
+Junior nutritionists can gain experience in hospitals or community settings, advancing to senior clinical nutritionists or nutrition consultants through continuing education. Some transition to public health, research, or management roles, or practice independently.
+
+**Tasks most exposed to AI:**
+
+- Generating individualized dietary plans based on standard guidelines
+- Nutrition calculation and recipe nutrition analysis
+- Automated patient diet recording and anomaly alerts
+- Routine nutrition screening and risk assessment reports
+
+**Where AI augments the role:**
+
+- Use AI to analyze the correlation between dietary patterns and health data
+- Provides personalized recipe plans via AI recommendation system
+- Using natural language processing tools to automatically generate nutrition education materials
+- Remote patient monitoring and follow-up with AI assistance
+
+**Human moat:**
+
+- Face-to-face dietary behavior counseling and motivational interviewing
+- Nutritional support plan formulation for complex diseases (e.g., kidney failure, ICU patients)
+- Clinical decision-making and ethical responsibility in multidisciplinary teams
+- Cultural sensitivity and individualized psychological guidance.
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python/R for nutrition big data)
+- Electronic Health Records (EHR) and smart nutrition software operation
+- Application of remote health monitoring and digital therapy platforms
+- Cross-cultural communication and behavior change guidance skills
+- Clinical research design and evidence-based nutrition updates
+- AI Ethics and Privacy Protection Knowledge
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease management
@@ -62,65 +95,64 @@ Dieticians assess nutritional needs and develop personalized meal plans to promo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit (CSEP)） | 适用于紧缺职业列表内的职业，年薪≥€32,000，可快速获得工作许可并通往永居。 |
-| Subclass General Employment P（General Employment Permit (GEP)） | 适用于年收入≥€30,000的职位，但需通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪≥€40,000（紧缺职业可降至€32,000），可携带家属。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit (CSEP)) | For occupations on the shortage list, annual salary ≥ €32,000, fast-tracked work permit with pathway to permanent residency. |
+| Subclass General Employment P (General Employment Permit (GEP)) | Applies to positions with annual income ≥€30,000, but must pass a labour market test. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with annual salary ≥ €40,000 (can be reduced to €32,000 for shortage occupations); can bring family members. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitian？**
-- 对营养学有强烈兴趣，乐于帮助他人改善健康
-- 具备科学背景和沟通能力
-- 能适应医院或社区工作环境
-
-**谁不适合学Dietitian？**
-- 不喜欢与人打交道
-- 无法承受学术学习压力
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in nutrition, eager to help others improve health
+- Have a scientific background and communication skills
+- Able to adapt to hospital or community work environments
+
+**Who is not suited**
+- Does not like dealing with people
+- Unable to cope with academic study pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of dietitians in Ireland?**
+A: Entry-level salary approx. €28,000-€35,000 per year, mid-level €35,000-€50,000, senior up to €70,000. Public hospital positions typically follow HSE salary scales.
+
+**Q: What steps are needed for overseas dietitians to immigrate to Ireland?**
+A: Must have a CORU-recognized qualification and complete an internship, then register with CORU. The employer then provides a Critical Skills or General Employment Permit, meeting salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中高（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中高（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Dietitian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dietitians in Ireland?**
-答：Entry-level salaries range from €28,000 to €35,000, mid-level from €35,000 to €50,000, and senior roles up to €70,000. Public hospital positions follow HSE pay scales.
-
-**问：What steps are required for overseas dietitians to migrate to Ireland?**
-答：You need a CORU-recognized qualification and internship, register with CORU, then secure a job offer for a Critical Skills or General Employment Permit meeting salary thresholds.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,93 @@
-# Floor Layer and Tile Setter（Floor Layer and Tile Setter）职业分析 · IE
+# Floor Layer and Tile Setter — career analysis · Ireland
 
-**职业代码：7122 – Floor Layer and Tile Setter。**
+**Occupation code: 7122 (ISCO08)**
 
-Floor layers and tile setters install and repair various floor coverings such as tiles, wood, carpet, and resilient flooring. Demand is steady in Ireland's construction sector, particularly in residential and commercial renovation.
+Floor layers and tile layers install and repair various types of flooring materials, including tiles, wood flooring, carpet, and resilient flooring. This occupation has steady demand in the Irish construction industry, especially in residential and commercial renovation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年（含在职培训） | —（政府部门资助，学徒期通常有薪资） |
-| 高级证书（PLC） | 1-2年 | $1,000~$4,000（部分课程可能需自费） |
+| Apprenticeship | 4 years (including on-the-job training). | $0~$2,000 (Government-funded, with paid apprenticeship) |
+| Advanced Certificate (PLC) | 1-2 years | $1,000~$4,000 (Some courses may need to be self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家学徒证书（地板铺设） | SOLAS | 必备 | 完成4年学徒制后获得，行业标准资质 |
-| 建筑技能证书（CSCS） | Construction Skills Register | 必备 | 安全培训，部分项目强制要求 |
-| 高级工艺证书 | QQI | 可选 | 可选进阶资质，有助晋升 |
+| Certificate of Apprenticeship (Floor Laying) | SOLAS | Required | Achieved after completing a 4-year apprenticeship, industry-standard qualification |
+| Construction Skills Certification Scheme (CSCS) | Construction Skills Register | Required | Safety training, mandatory for some projects |
+| Advanced Craft Certificate | QQI | Optional | Optional advanced qualifications to support promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。随着爱尔兰经济持续增长和住房需求增加，建筑业活动活跃，地板铺设工和瓷砖工的需求预计保持稳定。新建住宅和翻新工程将提供大量就业机会。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. With Ireland's sustained economic growth and increasing housing demand, construction activity remains active, and demand for floor layers and tilers is expected to stay stable. New housing construction and renovation projects will provide ample job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒期后初级职位 |
-| 中级（3-7年） | $32,000~$42,000 | 具备经验，可独立作业 |
-| 高级（7年以上） | $42,000~$55,000 | 包含工头或自雇收入 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Entry-level positions after apprenticeship |
+| Mid-level (3–7 years) | $32,000~$42,000 | Experienced and able to work independently |
+| Senior (7+ years) | $42,000~$55,000 | Including foreman or self-employment income |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级工人可通过学徒制积累经验，晋升为高级技工或工头。有经验者可自主创业或进入项目管理岗位，负责大型工地的地板安装监督。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on floorers and tilers is more about enhancement than replacement: AI-driven measurement, cutting optimization, and project management tools can significantly improve efficiency and accuracy, but core skills like manual laying, leveling, and pattern design still rely on human experience and judgment.
+
+Entry-level workers can gain experience through apprenticeships and progress to skilled tradespeople or foremen. Experienced workers can start their own business or move into project management roles, overseeing floor installation on large construction sites.
+
+**Tasks most exposed to AI:**
+
+- AI automated measurement and cutting planning reduces manual calculations and trial-and-error
+- Computer-vision-based quality inspection replaces some visual inspections
+- AI-driven project management tool automatically generates schedules and material lists
+- Robot-assisted handling and material preparation reduce physical labor
+
+**Where AI augments the role:**
+
+- AI tools assist in precise measurement and complex pattern layout design
+- Real-time quality feedback system helps workers instantly correct tiling deviations
+- Augmented reality (AR) overlays virtual guide lines to assist the tiling process
+- AI-optimized cutting solutions enhance material utilization and reduce waste
+- Digital twin technology simulates different paving effects for customer preview.
+
+**Human moat:**
+
+- Fine manual layering operations and creativity for custom patterns
+- Judgment of adaptability to irregular substrates and irregular spaces
+- Aesthetic sensitivity for final visual effects and client communication
+- Experience in handling on-site emergencies (e.g. cracks, dampness).
+
+**Skills to build:**
+
+- Mastering AI measurement and design software (e.g., PlanGrid, BIM-related tools)
+- Learn to operate AR-assisted construction equipment
+- Ability to understand basic data analysis and report interpretation
+- Enhance skills in digital project management tools (e.g., Procore, Fieldwire)
+- Participate in training for robot-assisted installation systems
+- Enhance knowledge of sustainable materials and green building standards
+
+**Key growth areas:**
 
 - construction
 - renovation
@@ -62,67 +96,66 @@ Floor layers and tile setters install and repair various floor coverings such as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非EEA国家工人，需获得工作offer且年薪≥30,000欧元（2023标准）。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国企业内部调动，需在母公司工作至少6个月。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-EEA workers; requires a job offer with annual salary ≥ €30,000 (2023 standard). |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer within multinational enterprises; must work at the parent company for at least 6 months. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floor Layer and Tile Setter？**
-- 注重细节、有耐心，愿意从事体力劳动。
-- 乐学技术、有动手能力，能适应施工现场环境。
-- 希望获得稳定职业，不介意重复性工作。
-
-**谁不适合学Floor Layer and Tile Setter？**
-- 对体力要求高的工作不适应。
-- 偏好办公室工作，不喜欢灰尘和噪音环境。
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and willing to engage in physical labor.
+- Enjoys learning technology, has hands-on ability, and can adapt to construction site environments.
+- Seeking a stable job, not minding repetitive work.
+
+**Who is not suited**
+- Not suitable for physically demanding jobs.
+- Prefers office work, dislikes dusty and noisy environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for floor layers in Ireland?**
+A: Junior staff annual salary approx. €25,000-32,000, intermediate €32,000-42,000, senior up to €42,000-55,000. Self-employed may earn more.
+
+**Q: Can non-EEA workers immigrate to Ireland through this occupation?**
+A: Can apply for a General Employment Permit, but requires a job offer with an annual salary of at least €30,000. This occupation is not on the critical skills list, and certification may be more stringent.
+
+**Q: What career advancement opportunities exist for this occupation?**
+A: Can progress from apprentice to advanced technician, then to foreman or project manager. Some choose self-employment or specialization (e.g., underfloor heating).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Floor Layer and Tile Setter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for floor layers in Ireland?**
-答：Entry-level salaries range from €25,000 to €32,000, mid-level from €32,000 to €42,000, and senior up to €55,000. Self-employed workers may earn more.
-
-**问：Can non-EEA workers immigrate to Ireland through this occupation?**
-答：Yes, via a General Employment Permit, but requires a job offer with salary ≥ €30,000. The occupation is not on the Critical Skills list, so approval may be stricter.
-
-**问：What career advancement opportunities exist?**
-答：Apprentices can progress to senior tradesperson, then foreman or project manager. Some become self-employed or specialize in areas like underfloor heating.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Footwear Production Machine Operator（Footwear Production Machine Operator）职业分析 · 澳大利亚
+# Footwear Production Machine Operator — career analysis · Australia
 
-**职业代码：711711 – Footwear Production Machine Operator。**
+**Occupation code: 711711 (ANZSCO)**
 
-Operate footwear production machinery to cut, sew, shape, and assemble shoe components in manufacturing settings.
+Operate shoe-making machines to produce footwear products, including cutting, stitching, forming, and assembly processes.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 3年 | —（通常在职培训，无需正式教育） |
-| 职业证书（如Certificate II/III in Footwear） | 1-2年 | $5,000~$15,000（TAFE课程，部分雇主提供补贴） |
+| High school graduation | 3 years | $0~$0 (Typically on-the-job training, no formal education required) |
+| Vocational certificates (e.g., Certificate II/III in Footwear) | 1-2 years | $5,000~$15,000 (TAFE courses, some employers offer subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制鞋三级证书（Certificate III in Footwear） | TAFE或注册培训机构 | 可选 | 非强制，但提升就业竞争力 |
-| 在职培训 | 雇主 | 必备 | 通常需数月至一年掌握技能 |
+| On-the-job training | Employer | Required | Usually takes several months to a year to master skills |
+| Certificate III in Footwear | TAFE or registered training organizations | Optional | Not mandatory, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。澳洲制鞋业规模较小，受进口影响大，就业岗位有限。自动化可能减少部分低技能岗位，但高技能操作员仍有需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The Australian footwear industry is small, heavily impacted by imports, with limited job opportunities. Automation may reduce some low-skilled jobs, but demand for high-skilled operators remains.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪较低 |
-| 中级（3-6年） | $55,000~$65,000 | 经验提升后薪资增加 |
-| 高级/主管（6年以上） | $65,000~$75,000 | 主管或技术专家薪资 |
+| Median salary | $63,700 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Low starting salary |
+| Mid-level (3–6 years) | $55,000~$65,000 | Salary increases with experience |
+| Senior/Supervisor (6+ years) | $65,000~$75,000 | Supervisor or technical expert salary |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可晋升为生产线主管或质量控制员，也可通过培训转向设备维护或模具设计。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
+
+Can be promoted to production line supervisor or quality controller, or transition through training to equipment maintenance or mold design.
+
+**Tasks most exposed to AI:**
+
+- Uses machine vision to identify shoe component defects and automatically reject
+- Programming and execution of automated sewing and bonding processes
+- Automatically adjust machine parameters (e.g., stitch length, glue amount) based on order data
+- Monitoring and fault alarming of automated conveyor and sorting systems
+- Using AI quality inspection systems to replace manual inspection
+
+**Where AI augments the role:**
+
+- Real-time equipment monitoring via digital twin technology to predict maintenance needs
+- Use AI to optimize production scheduling and material delivery
+- Use AR glasses to assist complex assembly or repair
+- Identify production line bottlenecks through data analysis to improve overall efficiency
+- Collaborative robots working with humans for high-precision processes
+
+**Human moat:**
+
+- Handling non-standard, complex, or easily deformable flexible materials (e.g., leather)
+- Quickly diagnose and repair mechanical faults in automated equipment
+- Negotiate process adjustments with designers and quality inspectors
+- rapid changeover and adjustment in small-batch, high-variety production
+
+**Skills to build:**
+
+- Automated equipment programming and debugging (PLC/robots)
+- Industrial data analysis and basic statistics
+- Flexible production and quick-change technology.
+- Basic mechanical repair and mechatronics knowledge
+- Human-robot collaboration safety standards
+- Digital production management system operation
+
+**Key growth areas:**
 
 - declining
 - import competition
@@ -63,65 +98,67 @@ Operate footwear production machinery to cut, sew, shape, and assemble shoe comp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 通常不符合申请条件，因该职业不在职业清单上 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 仅限偏远地区，且需找到愿意担保的雇主，可能性极低 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Usually does not meet eligibility requirements as the occupation is not on the occupation list. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Only in remote areas, and requires finding an employer willing to sponsor; very low likelihood |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Footwear Production Machine Operator？**
-- 对制鞋工艺有兴趣的人
-- 能接受重复性体力劳动的人
-- 愿意在制造业工厂工作的人
+**Who is suited**
+- People interested in shoemaking techniques.
+- People who can accept repetitive physical labor
+- People willing to work in manufacturing plants
 
-**谁不适合学Footwear Production Machine Operator？**
-- 寻求高薪职业的人
-- 希望快速获得澳大利亚永居或移民的人
+**Who is not suited**
+- People seeking high-paying careers
+- People who want to quickly obtain Australian permanent residency or migrate
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a shoe machine operator?**
+A: Junior approx. $45,000-$55,000 AUD, with experience can reach $65,000-$75,000 AUD, salary growth limited.
+
+**Q: Can a footwear machine operator immigrate to Australia?**
+A: Almost impossible. This occupation is not on the skilled migration occupation list, and employer sponsorship is extremely difficult to obtain.
+
+**Q: What are the employment prospects for this occupation in Australia?**
+A: Outlook is not optimistic, with employment steadily declining due to imports and automation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极差（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Footwear Production Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Footwear Production Machine Operator?**
-答：Entry-level around AUD 45,000-55,000, experienced up to AUD 65,000-75,000, with limited growth.
-
-**问：Can a Footwear Production Machine Operator migrate to Australia?**
-答：Almost impossible. This occupation is not on the skilled occupation list and employer sponsorship is extremely difficult.
-
-**问：What is the job outlook for this occupation in Australia?**
-答：Poor outlook due to import competition and automation, with continued decline in employment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

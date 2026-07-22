@@ -1,61 +1,96 @@
-# Café Bar Manager（Café Bar Manager）职业分析 · FR
+# Café Bar Manager — career analysis · France
 
-**职业代码：G1801 – Café Bar Manager。**
+**Occupation code: G1801 (ROME)**
 
-Manage daily operations of a café or bar, including staff supervision, customer service, inventory control, and financial performance, ensuring profitability and compliance with health regulations.
+Responsible for the daily operations of the café or bar, including staff management, customer service, inventory control, and financial performance, ensuring profitability and compliance with hygiene regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中（CAP） | 2年（CAP） | —（公立学校免费，私立约1000-5000欧元/年） |
-| 高级技师文凭（BTS） | 2年（BTS） | —（公立学校免费，私立约3000-8000欧元/年） |
-| 学徒制 | 1-2年 | —（学徒期间由企业支付学费，并发放工资） |
+| Vocational High School (CAP) | 2 years (CAP) | $0~$5,000 (Public schools free, private approx. 1,000-5,000 EUR/year.) |
+| Advanced Technician Diploma (BTS) | 2 Years (BTS) | $0~$8,000 (Public schools free, private approx. 3000-8000 EUR/year) |
+| Apprenticeship | 1-2 years | $0~$0 (During the apprenticeship period, the company pays the tuition and pays the salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 餐饮服务（Commercialisation et Services en Hôtel-Café-Restaurant） | 法国教育部 | 可选 | 入门级文凭，必修或可选 |
-| BTS 酒店与餐饮管理（Management en Hôtellerie Restauration） | 法国教育部 | 可选 | 高级文凭，提升管理能力 |
-| 卫生与安全培训（HACCP） | 法国卫生部门 | 必备 | 必须完成食品安全培训 |
-| 酒类销售许可证（Licence IV） | 法国市政府 | 必备 | 出售酒精类饮品必须持有 |
+| Health and Safety Training (HACCP) | French health department | Required | Food safety training must be completed |
+| Licence IV | French municipal government | Required | Alcoholic beverages sold must be held |
+| CAP Catering Services (Commercialisation et Services en Hôtel-Café-Restaurant) | French Ministry of Education | Optional | Entry-level diploma, required or optional |
+| BTS Hotel and Catering Management (Management en Hôtellerie Restauration) | French Ministry of Education | Optional | Advanced diplomas to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 180,000。法国咖啡馆/酒吧行业稳步发展，随着餐饮消费增长，岗位需求持续存在。但竞争激烈，需具备管理能力与行业经验。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 180,000. The French café/bar industry is developing steadily, and with rising food and beverage consumption, job demand remains strong. However, competition is fierce and requires management skills and industry experience.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含奖金，高级经理或区域经理 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including bonuses, senior manager or regional manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从服务员晋升为助理经理、经理，再发展到区域经理或自主创业开设门店。继续教育如CAP或BTS可提升晋升机会。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+You can be promoted from waiter to assistant manager or manager, then develop to regional manager or start your own store business. Continuing education such as CAP or BTS can improve promotion opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Hospitality Management
 - Customer Experience
@@ -64,68 +99,67 @@ Manage daily operations of a café or bar, including staff supervision, customer
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 由法国雇主担保的长期工作签证，适用于有劳动许可的职位。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或高收入人才，如拥有硕士学历或年薪高于2倍SMIC。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高学历且年薪高于53,836.50欧元（2024年）的技术移民。 |
+| Subclass Salarié (Salarié (Employee)) | Long-term work visas sponsored by French employers are suitable for positions with work permits. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or high-income talents, such as those with a master's degree or annual salary above twice the SMIC level. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to skilled migrants with high academic qualifications and an annual salary above €53,836.50 (2024). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Café Bar Manager？**
-- 热爱餐饮服务行业，性格外向，善于与人沟通
-- 具备团队管理和多任务处理能力
-- 愿意接受灵活工作时间，包括晚上和周末
-
-**谁不适合学Café Bar Manager？**
-- 不能承受长时间站立和高强度工作节奏
-- 不善于处理客户投诉和压力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the food service industry, outgoing personality, and good at communicating with others
+- Capable of team management and multitasking
+- Be willing to work flexible hours, including evenings and weekends
+
+**Who is not suited**
+- They cannot withstand long periods of standing or high-intensity work rhythms
+- Poor at handling customer complaints and stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for café/bar managers?**
+A: Junior managers earn about 22,000-28,000 euros annually, intermediate managers 28,000-35,000 euros, and senior managers up to 45,000 euros. Salaries are influenced by location, scale, and experience.
+
+**Q: How can foreigners obtain a work visa for French café/bar managers?**
+A: Must have a long-term work contract from a French employer to apply for the Salarié visa. If annual salary exceeds €53,836.50 (2024), you can apply for an EU Blue Card. Those with a master's degree or high salary may also apply for the Passeport Talent.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can be promoted to regional manager, operations director, or start your own store. Continuous learning, such as BTS or apprenticeships, helps with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Café Bar Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a café/bar manager?**
-答：Entry-level managers earn €22,000-€28,000 annually, mid-level €28,000-€35,000, and senior up to €45,000. Pay varies by location, establishment size, and experience.
-
-**问：How can a foreigner obtain a work visa as a café/bar manager in France?**
-答：Require a long-term employment contract from a French employer and apply for a Salarié visa. If salary exceeds €53,836.50 (2024), an EU Blue Card is possible. Master's degree or high salary qualifies for Passeport Talent.
-
-**问：Is there career advancement in this profession?**
-答：Yes, advancement to regional manager, operations director, or starting your own business is possible. Continued education like BTS or apprenticeship helps.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

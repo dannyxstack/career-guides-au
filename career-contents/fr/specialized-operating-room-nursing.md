@@ -1,61 +1,95 @@
-# Specialized Operating Room Nursing（Specialized Operating Room Nursing）职业分析 · FR
+# Specialized Operating Room Nursing — career analysis · France
 
-**职业代码：J1504 – Specialized Operating Room Nursing。**
+**Occupation code: J1504 (ROME)**
 
-Specialized operating room nurses assist surgeons during procedures, manage sterile environments, prepare instruments, and monitor patient vital signs. This role demands precision, stress resilience, and teamwork, making them essential in surgical teams.
+Professional nurses in the operating room assist surgeons during the procedure, manage the sterile environment, prepare instruments, and monitor patients' vital signs. This profession requires a high degree of precision, stress tolerance, and teamwork, making it a core member of the surgical medical team.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 国家护理文凭（DEI）加手术室专项培训 | 3年（DEI）+ 1年专项 | $10,000~$20,000（DEI通常免费或低学费，专项培训费用因机构而异） |
-| 护理学士（Licence）加手术室专项 | 3年 + 1年 | $5,000~$15,000（公立大学学费低廉，专项培训可能需额外费用） |
+| National Nursing Diploma (DEI) plus specialized training for operating rooms | 3 years (DEI) + 1 year specialization | $10,000~$20,000 (DEI is usually free or has low tuition fees, with specialized training fees varying by institution) |
+| Bachelor of Nursing (Licence) plus Operating Room specialization | 3 years + 1 year | $5,000~$15,000 (Public universities have low tuition fees, but specialized training may require additional fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家护理文凭（DEI） | 法国卫生部认可的护理学校（IFSI） | 必备 | 注册护士必须持有DEI |
-| 手术室专业资质（DU/DIU Bloc opératoire） | 大学或医疗培训机构 | 必备 | 从事手术室护理的法定要求 |
-| 资质认证（RECONNAISSANCE DES QUALIFICATIONS） | 法国卫生部（Ministère de la Santé） | 必备 | 欧盟外护士需通过认证流程 |
+| National Diploma in Nursing (DEI) | Nursing School Accredited by the French Ministry of Health (IFSI) | Required | Registered nurses must hold DEI |
+| Operating Room Professional Qualifications (DU/DIU Bloc Opératoire) | Universities or medical training institutions | Required | Legal requirements for operating room care |
+| RECONNAISSANCE DES QUALIFICATIONS | French Ministry of Health (Ministère de la Santé) | Required | Nurses outside the EU must pass the certification process |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 55,000。法国面临人口老龄化，手术需求持续增长，但手术室专业护士短缺严重。政府对医疗投入增加，预计未来十年岗位需求稳定上升。同时，手术技术创新（如微创手术）要求护士不断更新技能，就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 55,000. France faces an aging population and a continuously growing demand for surgeries, but there is a severe shortage of professional nurses in operating rooms. Government investment in healthcare is increasing, and job demand is expected to steadily rise over the next decade. At the same time, technological innovations (such as minimally invasive surgery) require nurses to constantly update their skills, and employment prospects are promising.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：很高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$32,000 | 公立医院起薪约€28k，私立略高 |
-| 中级（3-8年） | $32,000~$40,000 | 包含夜班和加班补贴 |
-| 高级（8年以上） | $40,000~$50,000 | 主管或协调员可达€50k |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$32,000 | Starting salaries at public hospitals are about €28k, while private hospitals are slightly higher |
+| Mid-level (3–8 years) | $32,000~$40,000 | Includes night shift and overtime allowance |
+| Senior (8+ years) | $40,000~$50,000 | Supervisors or coordinators can earn up to €50k |
+| average salary | $34,236 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括：初级手术室护士 → 资深手术室护士 → 手术室协调员 → 护理管理岗位（如手术室主管）或专科高级实践护士。还可转向器械管理、感染控制或临床教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Career development paths include: junior operating room nurse → senior operating room nurse→ operating room coordinator→ nursing management roles (such as operating room supervisors) or senior specialist practice nurses. It can also shift to device management, infection control, or clinical teaching.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Operating room specialization
 - Minimally invasive surgery
@@ -64,69 +98,68 @@ Specialized operating room nurses assist surgeons during procedures, manage ster
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié (受雇工作居留)（Salarié） | 需法国医院雇主担保，工作合同至少一年，通过劳动局审核 |
-| Subclass Passeport Talent (人才（Passeport Talent - Salarié） | 针对高技能人才，需雇主担保，流程简化 |
-| Subclass Carte bleue européen（Carte Bleue Européenne） | 年薪需超过法国平均工资1.5倍（约€53k），手术室护士通常不达标 |
+| Subclass Salarié (Employed Work Residence) (Salarié) | Must be sponsored by a French hospital employer, have a work contract of at least one year, and pass the review by the Labor Bureau |
+| Subclass Talent Passport (Passeport Talent - Salarié) | For highly skilled talent, employer sponsorship is required, and the process is simplified |
+| Subclass Carte bleue européen (Carte Bleue Européenne) | The annual salary must exceed the French average wage by 1.5 times (about €53k), and operating room nurses usually do not meet the standard |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialized Operating Room Nursing？**
-- 抗压能力强、注重细节的人
-- 喜欢团队协作和快节奏工作环境的人
-- 对手术技术有浓厚兴趣的护理专业人员
-
-**谁不适合学Specialized Operating Room Nursing？**
-- 不擅长应对紧急情况的人
-- 希望规律工作时间和较少体力劳动的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong stress tolerance and attention to detail
+- People who enjoy teamwork and fast-paced work environments
+- Nursing professionals with a strong interest in surgical techniques
+
+**Who is not suited**
+- People who are not good at handling emergencies
+- Those who want regular working hours and less physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for operating room nurses in France?**
+A: Junior nurses earn about €28k-€32k annually, intermediate nurses €32k-€40k, and senior nurses up to €50k. Salaries are affected by public/private, regional, and night shift subsidies.
+
+**Q: How can non-EU nurses immigrate to France as operating room nurses?**
+A: You must first pass the French Nurse Qualification Certification (RECONNAISSANCE), then obtain a contract at a French hospital and apply for a Salarié or Passeport Talent visa. French must be at B2 level.
+
+**Q: What training is required to become an operating room nurse?**
+A: You must first obtain the French National Diploma in Nursing (DEI, 3 years), then complete specialized operating room training (1 year), and obtain a university diploma (DU/DIU).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Specialized Operating Room Nursing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for specialized operating room nurses in France?**
-答：Entry-level nurses earn around €28k-€32k, mid-level €32k-€40k, and senior up to €50k annually. Salaries vary by public/private sector, region, and shift allowances.
-
-**问：How can non-EU nurses immigrate to France as operating room nurses?**
-答：First obtain qualification recognition (RECONNAISSANCE), then secure a job contract with a French hospital and apply for a Salarié or Passeport Talent visa. French proficiency at B2 level is required.
-
-**问：What training is required to become an operating room nurse?**
-答：First obtain the French national nursing diploma (DEI, 3 years), then complete a one-year specialized training for operating rooms, resulting in a university diploma (DU/DIU).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

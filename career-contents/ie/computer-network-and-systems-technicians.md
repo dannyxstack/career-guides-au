@@ -1,59 +1,94 @@
-# Computer Network and Systems Technicians（Computer Network and Systems Technicians）职业分析 · IE
+# Computer Network and Systems Technicians — career analysis · Ireland
 
-**职业代码：3513 – Computer Network and Systems Technicians。**
+**Occupation code: 3513 (ISCO08)**
 
-Install, configure, maintain, and support computer networks, hardware, and system infrastructure, ensuring efficient and secure network operations.
+Responsible for installing, configuring, maintaining, and supporting computer networks, hardware, and system infrastructure to ensure efficient and secure network operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭/本科 | 3-4年（本科） | $10,000~$25,000（欧盟学生约€10,000/年，非欧盟约€15,000-25,000/年） |
-| 职业培训/认证课程 | 6个月-1年 | $2,000~$5,000（如CompTIA Network+或Cisco CCNA培训课程） |
+| Higher education diploma/bachelor's degree | 3-4 years (Bachelor's degree) | $10,000~$25,000 (EU students approximately €10,000/year; non-EU approximately €15,000-25,000/year) |
+| Vocational training/certification courses | 6 months to 1 year | $2,000~$5,000 (Such as CompTIA Network+ or Cisco CCNA training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CompTIA Network+ | CompTIA | 可选 | 基础网络认证，非强制但广泛认可 |
-| Cisco CCNA | Cisco | 可选 | 网络工程师核心认证，雇主常要求 |
-| 计算机科学或相关领域学士学位 | 爱尔兰高等教育机构 | 可选 | 许多雇主偏好本科以上学历 |
+| CompTIA Network+ | CompTIA | Optional | Basic network certification, non-mandatory but widely recognized |
+| Cisco CCNA | Cisco | Optional | Core certification for network engineers, often required by employers |
+| Bachelor's degree in computer science or related field | Irish higher education institutions | Optional | Many employers prefer a bachelor's degree or higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。爱尔兰作为欧洲科技中心，网络技术员需求持续增长，尤其在都柏林等城市的数据中心和云服务领域。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. As a European tech hub, Ireland sees growing demand for network technicians, especially in data centres and cloud services in cities like Dublin.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从初级技术员晋升至网络管理员、系统工程师或IT经理，需积累经验并获得认证如CCNA。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will replace some fault diagnosis and configuration tasks but enhance network monitoring and security response capabilities. Network technicians will need to shift to higher-value design, optimization, and automation coordination work.
+
+Can progress from junior technician to network administrator, systems engineer, or IT manager; requires experience and certifications such as CCNA.
+
+**Tasks most exposed to AI:**
+
+- Initial configuration and template-based deployment of network devices (e.g., basic configuration of switches and routers)
+- Log analysis and auto-repair of common faults
+- Network traffic monitoring report generation and abnormal threshold alerts
+- Routine Patch Updates and System Upgrade Execution
+
+**Where AI augments the role:**
+
+- AI-assisted network anomaly detection and predictive maintenance to identify potential issues early
+- Automatically generate network topology and configuration documents using AI tools
+- AI assists in security incident response, quickly isolating attack traffic
+- Optimizing network capacity planning through AI analysis of historical data
+- Query network status via natural language interface to improve operation and maintenance efficiency
+
+**Human moat:**
+
+- Complex network architecture design and customized solution planning
+- Cross-system (cloud, core network, security equipment) integration and coordination
+- Business requirements communication and strategy formulation (e.g., SLA, security policies)
+- Quick judgment and unconventional recovery operations during emergency breakdowns
+- Human decision responsibility for compliance audits and security strategies
+
+**Skills to build:**
+
+- Python automation scripts and tools like Ansible
+- AI/ML fundamentals (for understanding principles of network analysis tools)
+- Cloud network architecture (AWS/Azure VPC, hybrid cloud)
+- Cybersecurity knowledge (zero trust, SD-WAN security)
+- Data analysis and visualization (Elastic Stack, Grafana)
+- Use of AI operations platforms (e.g., Cisco DNA Center, AIOps platforms)
+
+**Key growth areas:**
 
 - Cloud computing
 - 5G networks
@@ -62,64 +97,63 @@ Install, configure, maintain, and support computer networks, hardware, and syste
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，工作2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需满足劳动力市场测试 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Suitable for occupations in demand, eligible for permanent residence after 2 years of work |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand, must satisfy labor market testing |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network and Systems Technicians？**
-- 喜欢动手解决技术问题的人
-- 对网络和系统运维有浓厚兴趣
-- 愿意持续学习新技术的IT从业者
-
-**谁不适合学Computer Network and Systems Technicians？**
-- 不想频繁处理故障和紧急问题的人
-- 不喜欢轮班或随时待命的工作节奏
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on technical problem solving
+- Strong interest in network and system operations and maintenance.
+- IT professionals willing to continuously learn new technologies
+
+**Who is not suited**
+- Those who do not want to frequently handle faults and emergency issues
+- Dislike shift work or on-call work pace
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a network technician in Ireland?**
+A: Junior around €30,000-€40,000, intermediate €45,000-€60,000, senior €65,000-€85,000.
+
+**Q: How can overseas applicants obtain an Irish work visa?**
+A: If the occupation is on the Critical Skills Occupations List, you can apply for a Critical Skills Employment Permit, and after 2 years of work, you can switch to permanent residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Computer Network and Systems Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for network technicians in Ireland?**
-答：Entry level: €30,000-€40,000; mid-level: €45,000-€60,000; senior: €65,000-€85,000.
-
-**问：How can overseas applicants get an Irish work visa?**
-答：If the occupation is on the Critical Skills list, apply for a Critical Skills Employment Permit, leading to permanent residence after 2 years.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

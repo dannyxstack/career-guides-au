@@ -1,59 +1,95 @@
-# Marriage and Family Therapists（Marriage and Family Therapists）职业分析 · 美国
+# Marriage and Family Therapists — career analysis · United States
 
-**职业代码：21-1013 – Marriage and Family Therapists。**
+**Occupation code: 21-1013 (SOC)**
 
-Diagnose and treat mental and emotional disorders within marriage and family systems using psychotherapeutic techniques.
+Diagnose and treat psychological and emotional disorders for individuals, couples, and families, using family systems theory for psychotherapy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士 | 2-3年 | $40,000~$80,000（公立大学学费，不含生活费） |
-| 博士 | 4-6年 | $60,000~$150,000（非必需，但可增强研究或学术机会） |
+| Master's degree | 2-3 years | $40,000~$80,000 (Public university tuition fees, excluding living expenses) |
+| Doctorate | 4-6 years | $60,000~$150,000 (Not required, but can enhance research or academic opportunities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可硕士学位 | COAMFTE或CACREP认证项目 | 必备 | 必须从认证项目毕业 |
-| 州执照 | 各州许可委员会 | 必备 | 需积累监督临床经验并通过考试 |
-| 国家认证 | AAMFT | 可选 | 自愿但有助于就业 |
+| Recognized master's degree | COAMFTE or CACREP accredited program | Required | Must graduate from an accredited program |
+| State license | State licensing boards | Required | Requires accumulating supervised clinical experience and passing an exam. |
+| National certification | AAMFT | Optional | Voluntary but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 70,000。预计2023-2033年就业增长约15%，远快于平均水平。老龄化人口对心理健康服务需求增加，且更多家庭寻求关系治疗。
+**Job demand: high (★★★★☆).** National workforce approx. 70,000. Projected employment growth of about 15% from 2023-2033, much faster than average. Aging population increases demand for mental health services, and more families seek relationship therapy.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 社区心理健康机构或私人诊所助理 |
-| 中级（4-9年） | $60,000~$75,000 | 持有执照，通常在机构或团队执业 |
-| 高级（10年以上） | $80,000~$100,000 | 私人执业、临床主任或高校教授 |
+| Median salary | $66,940 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Community mental health agency or private practice assistant |
+| Intermediate (4-9 years) | $60,000~$75,000 | Licensed, usually practices in institutions or teams |
+| Senior (10+ years) | $80,000~$100,000 | Private practice, clinical director, or university professor |
+| average salary | $76,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从硕士毕业后获得执照开始。可晋升为临床主管、私人执业者或进入高校教学。部分转向研究或政策倡导。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
+
+Typically begins after obtaining a license with a master's degree. Can advance to clinical supervisor, private practitioner, or university teaching. Some move into research or policy advocacy.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial psychological counseling reports and clinical notes
+- Use natural language processing for symptom screening and preliminary assessment
+- Manage patient appointments, billing, and electronic health records
+- Provides standardized mental health education content.
+- Analyze patient feedback data to generate summary reports
+
+**Where AI augments the role:**
+
+- Real-time insight into patients' unspoken emotions through AI sentiment analysis
+- Using VR/AR for exposure therapy and situational simulation training
+- AI-assisted diagnostic tools improve accuracy and efficiency
+- Personalized treatment plan generation based on big data analysis
+- AI real-time monitoring and early warning system in remote psychological counseling
+
+**Human moat:**
+
+- Building deep trust and therapeutic alliance
+- Judgment to handle complex trauma and ethical dilemmas.
+- Empathy and non-verbal communication skills like body language
+- Cross-cultural sensitivity and individualized care
+- Immediate response capability in crisis intervention.
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools
+- Application of digital therapy platforms (e.g., VR therapy)
+- Data privacy and ethical compliance management
+- Remote consultation technology and human-machine collaboration models
+- Clinical integration of emotion recognition AI tools
+- Continuous learning ability to keep up with technological updates
+
+**Key growth areas:**
 
 - Demand for mental health services
 - Aging population
@@ -62,68 +98,67 @@ Diagnose and treat mental and emotional disorders within marriage and family sys
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于硕士以上职位，需雇主担保，名额有限。婚姻与家庭治疗师符合专业职业要求。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需PERM劳工认证和硕士学位以上，适用于长期居留。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在领域内有杰出成就者，审理标准严格。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common for master's level positions, requires employer sponsorship, limited slots. Marriage and family therapists meet professional occupation requirements. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires PERM labor certification and a master's degree or higher; suitable for long-term residence. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to those with outstanding achievements in the field; strict review standards. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marriage and Family Therapists？**
-- 热爱人际沟通与情感支持
-- 对家庭系统理论感兴趣
-- 有耐心和同理心
-
-**谁不适合学Marriage and Family Therapists？**
-- 不适应高情感要求的工作
-- 厌恶文书工作和保险流程
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about interpersonal communication and emotional support
+- Interested in family systems theory
+- Patient and empathetic
+
+**Who is not suited**
+- Not suitable for jobs with high emotional demands
+- Dislike paperwork and insurance processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for marriage and family therapists?**
+A: According to BLS 2023 data, median annual salary approx. $56,000. Salary varies with experience, location, and practice setting.
+
+**Q: How can international students become marriage and family therapists in the U.S.?**
+A: Usually requires a US accredited master's degree, completion of supervised clinical experience, and passing a state licensing exam. F-1 students can apply for OPT internship, then transition to H-1B work visa, and then apply for green card.
+
+**Q: Is AAMFT certification mandatory?**
+A: Not mandatory, but obtaining AAMFT-recognized Clinical Fellow status can enhance competitiveness and assist with insurance reimbursement and employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Marriage and Family Therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Marriage and Family Therapists?**
-答：According to BLS 2023 data, median annual wage is around $56,000. Varies by experience, location, and practice setting.
-
-**问：How can international students become Marriage and Family Therapists in the US?**
-答：Typically need a COAMFTE-accredited master's, supervised clinical hours, and state licensure exam. F-1 students can use OPT then H-1B visa, eventually green card.
-
-**问：Is AAMFT certification mandatory?**
-答：No, but becoming an AAMFT Clinical Fellow can boost competitiveness and facilitate insurance reimbursement and employment.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

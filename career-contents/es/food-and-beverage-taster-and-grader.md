@@ -1,61 +1,97 @@
-# Food and Beverage Taster and Grader（Food and Beverage Taster and Grader）职业分析 · ES
+# Food and Beverage Taster and Grader — career analysis · Spain
 
-**职业代码：7709 – Food and Beverage Taster and Grader。**
+**Occupation code: 7709 (CNO)**
 
-Sensory evaluation and quality grading of food and beverages such as wine, olive oil, and cheese, ensuring compliance with standards.
+Responsible for sensory tasting, quality grading, and classification of food and beverages to ensure products meet standards, commonly used in wine, olive oil, cheese, and other industries.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | —（公立学校学费低或免费） |
-| 本科学位（Grado） | 4年 | $1,000~$5,000（公立大学学费，食品科学或农业工程相关） |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$3,000 (Public schools offer low or free tuition) |
+| Bachelor's degree (Grado) | 4 years | $1,000~$5,000 (Public university tuition, food science, or agricultural engineering fields) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 品鉴师认证（如葡萄酒品鉴师） | 各行业协会 | 可选 | 非强制，但大幅提升就业竞争力 |
-| 食品安全与质量标准认证 | ISO或国家机构 | 可选 | 部分岗位要求 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证，流程约6-12个月 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees require certification, and the process takes about 6-12 months |
+| Tasting Certification (such as wine taster) | Various industry associations | Optional | Non-mandatory, but significantly enhancing employment competitiveness |
+| Food safety and quality standard certification | ISO or national institutions | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 3,000。西班牙是食品饮料生产大国，尤其葡萄酒和橄榄油产业对专业品鉴师有稳定需求。预计就业机会保持平稳，但岗位数量有限，竞争中等。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,000. Spain is a major producer of food and beverages, especially in the wine and olive oil industries, which have a stable demand for professional tasters. Job opportunities are expected to remain stable, but the number of positions is limited and competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$45,000 | 税前年薪，含管理职责 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$45,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从生产或质量控制岗位起步，通过积累经验可晋升为高级品鉴师或质量经理；也可转向研发或出口认证等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of food and beverage tasting and graders can be enhanced by AI (such as data recording and standard matching), but core sensory assessments, personal experience judgments, and subjective preferences are difficult to automate, resulting in a mixed overall situation.
+
+Usually starting in production or quality control positions, with experience accumulation leading to promotion to senior taster or quality manager; It can also shift toward R&D or export certification.
+
+**Tasks most exposed to AI:**
+
+- Data Recording and Report Generation (Automatic Entry and Tasting Score)
+- Detection of objective indicators based on spectroscopy/chemical analysis (such as sugar content and acidity)
+- Standard product classification and label matching (AI sorting based on historical data)
+- Inventory quality monitoring and early warning (sensor + AI deterioration prediction)
+- Basic Tasting Training (assisted by AI simulation tools)
+
+**Where AI augments the role:**
+
+- Sensors and image recognition assist in identifying defects and improving consistency in appreciation
+- AI models predict features from different batches to guide grading standards
+- Real-time data visualization displays tasting results and trends
+- Correlate with consumer preference data to optimize product grading
+- Automated recording and analysis frees up time for focused and complex appreciation
+
+**Human moat:**
+
+- Sensory sensitivity and the ability to distinguish subtle differences
+- Subjective comprehensive judgment of craftsmanship, region, and tradition
+- Communicating experiences and intuition with producers and customers
+- Taste creativity in innovative product development
+- Ethical judgment and personal responsibility in quality control
+
+**Skills to build:**
+
+- Sensory Science Methods and Statistics
+- Basic Data Analysis (Excel/Tableau)
+- AI appreciation assistant tool operations (such as electronic nose/tongue)
+- Quality management systems (such as HACCP, ISO 22000)
+- Cross-disciplinary knowledge: agriculture, food science, consumer trends
+- Communication and report writing
+
+**Key growth areas:**
 
 - Artisan Food
 - Quality Control
@@ -64,68 +100,67 @@ Sensory evaluation and quality grading of food and beverages such as wine, olive
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Workers） | 由西班牙雇主申请工作许可，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高学历或高收入职位，但本职业通常不符合高技能标准。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留一年寻找工作，但需自证经济能力。 |
+| Subclass Cuenta ajena (Work Permit for Employed Workers) | When applying for a work permit from a Spanish employer, it must prove that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Applicable to high-education or high-income positions, but this occupation usually does not meet high-skilled standards. |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for one year looking for work, but you must prove your own financial capability. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Food and Beverage Taster and Grader？**
-- 对食品和饮料有敏锐感官和浓厚兴趣者
-- 注重细节、有耐心进行重复品鉴工作的人
-
-**谁不适合学Food and Beverage Taster and Grader？**
-- 嗅觉或味觉不敏感者
-- 追求高薪和快速晋升者
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with keen senses and a strong interest in food and beverages
+- People who pay attention to detail and have the patience to conduct repeated appraisals
+
+**Who is not suited**
+- Those with insensitive sense of smell or taste
+- Those pursuing high salary and rapid advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for tasters?**
+A: Junior tasters earn about 18,000-24,000 euros annually, while senior professionals can earn up to 45,000 euros, but overall salaries are below the Spanish average.
+
+**Q: Is it easy for foreigners to immigrate to Spain through this employment?**
+A: It's harder. This occupation is not in short supply and requires academic certification, with strict employer sponsorship requirements and restricted immigration pathways.
+
+**Q: Is a university degree required?**
+A: Not necessarily, FP vocational training is introductory, but university degrees (such as food science) can help with promotions and higher salaries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Food and Beverage Taster and Grader为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tasters?**
-答：Entry-level tasters earn around €18,000-€24,000 annually, while senior roles can reach €45,000, below Spanish average.
-
-**问：Is it easy for foreigners to immigrate through this occupation?**
-答：Difficult. Not a shortage occupation, requires homologación, strict employer sponsorship, limited migration pathways.
-
-**问：Is a university degree required?**
-答：Not necessarily; vocational training suffices, but a degree in food science aids advancement and higher pay.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

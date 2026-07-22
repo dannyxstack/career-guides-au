@@ -1,62 +1,98 @@
-# Automated Electrical, Electronic And Microelectronic Production Equipment Operator（Automated Electrical, Electronic And Microelectronic Production Equipment Operator）职业分析 · FR
+# Automated Electrical, Electronic And Microelectronic Production Equipment Operator — career analysis · France
 
-**职业代码：H2603 – Automated Electrical, Electronic And Microelectronic Production Equipment Operator。**
+**Occupation code: H2603 (ROME)**
 
-Operates and maintains automated production lines for electronic components and microelectronic devices, ensuring efficient and quality manufacturing processes.
+Operate and maintain automated production lines for the manufacturing of electronic components and microelectronic devices, ensuring efficient and high-quality production processes.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年 | 2年（BTS） | —（公立学校免费，私立约5000欧元/年） |
-| 职业高中+3年 | 3年（licence pro） | —（公立大学免费，学徒制有工资） |
-| 高中毕业后 | 2年（CAP） | —（CAP通常免费，学徒制） |
+| High school graduation + 2 years | 2 Years (BTS) | $0~$5,000 (Public schools are free; private schools around €5,000 per year.) |
+| Vocational high school + 3 years | 3 years (License Pro) | $0~$8,000 (Public universities are free, and apprenticeships are paid) |
+| After graduating from high school | 2 years (CAP) | $0~$3,000 (CAP is usually free and apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES（设备操作证书） | CNAM或认证机构 | 必备 | 操作自动化设备可能需要的安全证书 |
-| 电气安全授权 | 雇主或培训机构 | 必备 | 根据岗位风险等级所需 |
-| BTS制造业自动化 | 法国教育部 | 可选 | 常见入门文凭 |
+| CACES (Equipment Operation Certificate) | CNAM or certification bodies | Required | Safety certificates may be required to operate automated equipment |
+| Electrical safety authorization | Employer or training provider | Required | According to the requirements of the position's risk level |
+| BTS manufacturing automation | French Ministry of Education | Optional | Entry diplomas are common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。在法国，随着工业4.0和电子行业的发展，该职业需求稳定。自动化程度提高，但操作员仍需具备技术维护能力，就业前景良好，尤其在微电子产业集群地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. In France, with the development of Industry 4.0 and the electronics sector, demand for this profession remains stable. Automation levels have increased, but operators still need technical maintenance skills, with promising employment prospects, especially in microelectronics industry cluster areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，主管级别更高 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, higher for supervisor-level roles |
+| average salary | $27,252 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：从初级操作员晋升为生产线组长或技术主管，进而可转向设备维护工程师或生产经理。通过积累经验或进修（如BTS或licence professionnelle）实现晋升。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+This profession faces the dual impact of automation and AI: equipment operation and simple quality inspection tasks are taken over by AI, but capabilities such as exception handling, process optimization, and cross-system collaboration are amplified, forcing humans to shift to higher-value roles in monitoring, diagnosis, and improvement.
+
+Career development path: Advance from junior operator to production line leader or technical supervisor, and then transition to equipment maintenance engineer or production manager. Promotion is achieved through gaining experience or further training (such as BTS or licence professionnelle).
+
+**Tasks most exposed to AI:**
+
+- Repetitive operations on automated production lines (such as chip mounting, soldering)
+- Vision-based defect detection and statistical report generation
+- Automatic adjustment and optimization of equipment operating parameters
+- Automatic filling and preliminary analysis of production reports
+- Automatic diagnosis and reset of simple faults
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance to reduce unplanned downtime
+- Process parameters are optimized through digital twin simulation
+- AI-assisted complex fault diagnosis and root cause analysis
+- AI scheduling and capacity optimization for multi-device collaboration
+- AI-based quality anomaly pattern recognition and prevention
+
+**Human moat:**
+
+- On-site diagnosis and repair of sudden complex faults
+- Process design and equipment commissioning for new products
+- Cross-process process optimization and innovative improvement
+- Safety and compliance assessments (such as equipment modification risks)
+- Collaborative decision-making with R&D and process teams
+
+**Skills to build:**
+
+- Basic Python/R programming and data analysis
+- Advanced programming of PLCs and industrial robots
+- Debugging and application of machine vision systems
+- Industrial Internet of Things (IIoT) and digital twins
+- Predictive maintenance algorithms and tools
+- Production data analysis and visualization
+
+**Key growth areas:**
 
 - Industry 4.0
 - Microelectronics
@@ -65,66 +101,68 @@ Operates and maintains automated production lines for electronic components and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 常规工作居留，需雇主担保，匹配职位和工资条件。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 针对高技能或紧缺人才，需雇主担保，工资高于平均。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需高工资（约1.5倍SMIC），适用工程师或管理岗。 |
+| Subclass Salarié (Salarié (Employee)) | Regular work residency requires employer sponsorship, matching the position and salary conditions. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled or urgently needed talent, employer sponsorship is required, and wages are above average. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires a high salary (about 1.5 times SMIC), suitable for engineer or management positions. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Automated Electrical, Electronic And Microelectronic Production Equipment Operator？**
-- 注重实操的动手能力强的人
-- 喜欢自动化技术，愿意在工业环境中工作的人
-- 有团队合作精神，能接受倒班的人
+**Who is suited**
+- Practical and hands-on people with strong hands-on skills
+- People who enjoy automation technology and are willing to work in industrial environments
+- Someone with team spirit who can accept shifts
 
-**谁不适合学Automated Electrical, Electronic And Microelectronic Production Equipment Operator？**
-- 不习惯重复性操作，追求高薪资的人
-- 难以适应轮班制度或高压生产线的人
+**Who is not suited**
+- Those who are not used to repetitive operations and pursue high salaries
+- People who find it difficult to adapt to shift systems or high-pressure production lines
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in France?**
+A: Junior approximately 24,000-28,000 EUR/year, mid-level 28,000-35,000 EUR/year, senior up to 45,000 EUR/year and above. Salary varies by region and industry.
+
+**Q: Which visas can foreigners use to engage in this profession?**
+A: Available through Salarié (work residence), Passeport Talent (talent passport), or EU Blue Card. Employer sponsorship is required, and the salary meets a certain standard.
+
+**Q: Is specific certification required to start work?**
+A: Typically, a CACES certificate (equipment operation) and electrical safety authorization are required. These certificates can be obtained through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 适中（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Automated Electrical, Electronic And Microelectronic Production Equipment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in France?**
-答：Entry-level around €24,000-28,000 per year, mid-level €28,000-35,000, and senior up to €45,000+ per year. Salaries vary by region and industry.
-
-**问：What visas can foreigners use to work in this occupation?**
-答：Possible via Salarié (employee residence), Passeport Talent (Talent Passport), or EU Blue Card. Requires employer sponsorship and salary thresholds.
-
-**问：Are specific certifications required to start?**
-答：Typically need CACES certificate (equipment operation) and electrical safety authorization. These can be obtained through training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

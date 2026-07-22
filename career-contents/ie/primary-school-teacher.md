@@ -1,59 +1,95 @@
-# Primary School Teacher（Primary School Teacher）职业分析 · IE
+# Primary School Teacher — career analysis · Ireland
 
-**职业代码：2341 – Primary School Teacher。**
+**Occupation code: 2341 (ISCO08)**
 
-Primary school teachers in Ireland educate children aged 6-12, covering core subjects like English, Maths, and Irish. The profession is regulated by the Teaching Council, requiring an accredited Bachelor of Education or postgraduate diploma.
+Primary school teachers in Ireland teach students aged 6 to 12, with core subjects including English, Mathematics, and Irish. The profession is regulated by the Teaching Council and requires an accredited Bachelor of Education degree or postgraduate diploma.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $8,000~$18,000（欧盟生学费约€1,500-3,500，非欧盟生€8,000-18,000） |
-| 研究生文凭 | 2年 | $10,000~$20,000（适用于非教育本科毕业生） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $8,000~$18,000 (EU tuition approx. €1,500-3,500, non-EU €8,000-18,000) |
+| Graduate diploma | 2 years | $10,000~$20,000 (Applicable to non-education bachelor's degree graduates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册教师资格 | Teaching Council of Ireland | 必备 | 所有公立小学教师必须注册 |
-| 爱尔兰语能力证明 | Teaching Council | 必备 | 需通过Scrúdú Cáilíochta sa Ghaeilge考试 |
-| 英语及数学能力测试 | Teaching Council | 必备 | 入读教育课程前需通过 |
+| Registered teaching qualification | Teaching Council of Ireland | Required | All public primary school teachers must be registered |
+| Irish language proficiency certificate. | Teaching Council | Required | Must pass the Scrúdú Cáilíochta sa Ghaeilge exam |
+| English and mathematics aptitude tests | Teaching Council | Required | Must pass before enrolling in educational courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。爱尔兰小学教师需求稳定，因人口增长和退休潮导致持续空缺。政府投资教育，但部分农村地区招聘困难。2023年约4.5万名教师。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Demand for primary school teachers in Ireland is stable, with persistent vacancies due to population growth and retirement waves. The government invests in education, but recruitment is difficult in some rural areas. There were approximately 45,000 teachers in 2023.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 新教师工资约€32,000-€40,000 |
-| 中级（4-10年） | $45,000~$60,000 | 经验教师工资约€45,000-€60,000 |
-| 高级（10年以上） | $65,000~$80,000 | 校长或高级教师可达€80,000+ |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | New teacher salary around €32,000-€40,000 |
+| Mid-level (4-10 years). | $45,000~$60,000 | Experienced teacher salary approx. €45,000-€60,000 |
+| Senior (10+ years) | $65,000~$80,000 | Principals or senior teachers can earn €80,000+ |
+| average salary | $53,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级教师可晋升为特殊教育需求协调员、副校长或校长。也可转向教育政策、课程开发或教师培训。需持续专业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
+
+Junior teachers can advance to become special educational needs coordinators, deputy principals, or principals. They can also transition into education policy, curriculum development, or teacher training. Continuous professional development is required.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates lesson plans, exercises, and standardized courseware
+- AI grades multiple-choice/fill-in-the-blank questions and provides score analysis
+- AI recording and managing student attendance, grades, and behavioral data
+- AI-generated general notifications and reports for home-school communication
+- AI maintains online learning platforms and answers common student questions
+
+**Where AI augments the role:**
+
+- AI Provides Personalized Learning Paths and Adaptive Exercises, Assisting Differentiated Instruction
+- AI analyzes student error patterns to enable precise teacher intervention
+- AI-generated teaching feedback and reflection suggestions
+- AI-assisted design of teaching experiments, virtual scenarios, and interactive activities
+- AI voice recognition assists classroom interaction and oral assessment
+
+**Human moat:**
+
+- Face-to-face emotional communication and child psychological support
+- Classroom discipline management and behavioral intervention
+- Creative instructional design and intuitive judgment for individualized teaching
+- Building trust between school and home, and complex communication mediation
+- Interdisciplinary teaching innovation based on life experience
+
+**Skills to build:**
+
+- Educational AI tool application (e.g., Knewton, Curipod)
+- Basics of educational data analysis (student performance diagnosis)
+- Personalized teaching design and differentiated strategies
+- Digital classroom management and interactive tools (e.g., Nearpod)
+- Educational psychology and behavior management
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Growing enrollment
 - Retirement wave
@@ -62,65 +98,64 @@ Primary school teachers in Ireland educate children aged 6-12, covering core sub
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 针对非紧缺职业，需劳工市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 教师通常不符紧缺职业列表，但特殊教育需求教师可能符合 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需年薪至少€32,000且合同至少1年 |
+| Subclass General Employment P (General Employment Permit) | Requires labor market testing for non-occupations in shortage |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Teachers are generally not on the skilled occupation list, but special education needs teachers may qualify. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires annual salary of at least €32,000 and contract of at least 1 year |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary School Teacher？**
-- 热爱儿童和教育，耐心且富有创造力
-- 具备良好沟通和课堂管理能力
-- 愿意在课程上持续学习并适应变化
-
-**谁不适合学Primary School Teacher？**
-- 不喜与儿童长时间互动
-- 对高压工作环境和行政负担敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about children and education, patient and creative
+- Good communication and classroom management skills.
+- Willing to engage in continuous learning and adapt to changes in the course
+
+**Who is not suited**
+- Dislikes prolonged interaction with children
+- Sensitive to high-pressure work environments and administrative burdens.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a primary school teacher in Ireland?**
+A: Junior teacher annual salary about €32,000-€40,000, experienced teacher up to €60,000, principal may exceed €80,000.
+
+**Q: How Can Non-EU Citizens Become Primary School Teachers in Ireland?**
+A: Must obtain Teaching Council recognition and a work permit. Usually requires a General Employment Permit; if in shortage (e.g., special education), a Critical Skills Permit may be applied for.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Primary School Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a primary school teacher in Ireland?**
-答：Entry-level salary is about €32,000-€40,000, experienced teachers up to €60,000, principals over €80,000.
-
-**问：How can non-EU citizens become primary school teachers in Ireland?**
-答：Must obtain Teaching Council recognition and a work permit. Typically a General Employment Permit, or Critical Skills if in shortage (e.g., special education).
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

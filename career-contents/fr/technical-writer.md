@@ -1,60 +1,96 @@
-# Technical Writer（Technical Writer）职业分析 · FR
+# Technical Writer — career analysis · France
 
-**职业代码：H1207 – Technical Writer。**
+**Occupation code: H1207 (ROME)**
 
-Responsible for writing, editing, and maintaining technical documentation (e.g., user manuals, API docs, operation guides) to help users understand complex products or services. Works closely with engineers and product managers to ensure accuracy and clarity.
+Responsible for writing, editing, and maintaining technical documentation (such as user manuals, API documentation, operation guides) to help users understand complex products or services. Work closely with engineers and product managers to ensure information is accurate and clear.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Licence） | 3年 | —（公立大学学费约170欧元/年，私立学校可能更高） |
-| 硕士（Master） | 2年 | —（公立大学学费约243欧元/年，专业硕士可能更高） |
-| BTS/DUT | 2年 | —（公立学校学费低，约几百欧元/年） |
+| Bachelor's Degree (Licence) | 3 years | $0~$4,000 (Public university tuition is about 170 euros per year, while private schools may be even higher) |
+| Master's Degree (Master) | 2 years | $0~$5,000 (Tuition at public universities is about 243 euros per year, with professional master's programs possibly higher) |
+| BTS/DUT | 2 years | $0~$2,000 (Public school tuition is low, about a few hundred euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 技术文档撰写员认证 | 法国技术传播协会 (CGC) | 可选 | 可自愿获得，提升竞争力 |
-| 硕士文凭 | 公立大学或私立院校 | 可选 | 常见专业：技术传播、信息与文档科学 |
-| 语言证书 | 如法国文化协会 | 可选 | 若非法语母语者，需证明法语水平（B2/C1） |
+| Technical Documentation Writer Certification | French Association for Communication of Technology (CGC) | Optional | Voluntary access to enhance competitiveness |
+| Master's degree | Public universities or private institutions | Optional | Common majors: Technical Communication, Information and Document Science |
+| Language certificate | For example, the French Cultural Association | Optional | If you are a native non-native speaker, you must prove French proficiency (B2/C1). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。随着数字化转型和软件行业持续扩张，法国对技术文档撰写员的需求稳步增长。尤其在IT、航空航天、医疗设备等领域，需要专业人才将复杂技术转化为易懂内容。预计未来五年岗位数量将增长10%以上。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. With digital transformation and the continued expansion of the software industry, demand for technical documentation writers in France is steadily increasing. Especially in fields such as IT, aerospace, and medical devices, specialized talents are needed to transform complex technologies into easy-to-understand content. The number of job openings is expected to grow by more than 10% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年薪 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年薪，可升至文档经理 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual pre-tax salary |
+| Senior (7+ years) | $48,000~$60,000 | Pre-tax annual salary, can be promoted to document manager |
+| average salary | $33,090 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级技术文档撰写员可晋升为高级或首席文档撰写员，也可向信息架构师、内容策略师或技术写作经理发展。积累行业经验后，还可转为产品管理或技术培训师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
+
+Junior technical documentation writers can be promoted to senior or lead document writers, or develop into information architects, content strategists, or technical writing managers. After gaining industry experience, you can transition to product management or technical trainers.
+
+**Tasks most exposed to AI:**
+
+- Draft generation for standardized product manuals
+- Formatting and publishing simple technical documents
+- Basic terminology explanation and FAQ writing
+- Basic proofreading of machine-translated multilingual documents.
+- Updating maintenance operation guides repeatedly
+
+**Where AI augments the role:**
+
+- Use AI assistance to quickly gather technical information and generate document drafts
+- Use natural language processing tools to automatically check document consistency and accuracy
+- Analyzing user feedback through AI to optimize document structure and content
+- Use AI to generate interactive help systems and personalized guides
+- Manage document versions and cross-department collaboration with automation tools
+
+**Human moat:**
+
+- Deep understanding of complex technical products and user needs analysis
+- Write strategically valuable white papers and solutions
+- Cross-team communication coordination and stakeholder management
+- Advanced review and quality control of AI-generated content
+- Creative content planning and knowledge system design
+
+**Skills to build:**
+
+- Proficient in using AI-assisted writing tools (e.g., GPT API, Grammarly)
+- Proficient in structured writing and content management systems (e.g., DITA, XML)
+- Learn information architecture and user experience design fundamentals
+- Enhance domain expertise (e.g., software, medical devices)
+- Develop skills in data analysis and user feedback handling
+- Enhance project management and cross-team collaboration skills
+
+**Key growth areas:**
 
 - Digital Transformation
 - Software Development
@@ -63,68 +99,67 @@ Responsible for writing, editing, and maintaining technical documentation (e.g.,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent - Qualified Employee） | 适用于高技能人才，需有硕士学历或至少5年经验，年薪需达法国平均工资的1.5倍（约49,000欧元） |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高技能员工，年薪需达53,900欧元（2024年标准），合同至少1年 |
-| Subclass Salarié（Salarié (Employee) Visa） | 若雇主担保，需证明招聘不到合适欧盟公民，且薪资不低于法定最低工资 |
+| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Suitable for highly skilled professionals, requiring a master's degree or at least 5 years of experience, with an annual salary at least 1.5 times the French average (about 49,000 euros) |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to non-EU highly skilled employees, annual salary must reach €53,900 (2024 standard), contract at least 1 year |
+| Subclass Salarié (Salarié (Employee) Visa) | If sponsored by an employer, it must be proven that suitable EU citizens cannot be recruited and that the salary is not lower than the statutory minimum wage |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Writer？**
-- 擅长写作和沟通，能将技术概念转化为易懂语言
-- 对技术有好奇心，愿意学习新工具和产品
-- 注重细节，有组织和项目管理能力
-
-**谁不适合学Technical Writer？**
-- 不喜欢频繁与工程师、产品经理沟通协作
-- 对技术细节缺乏耐心或兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in writing and communication, able to translate technical concepts into easy-to-understand language
+- Curious about technology and willing to learn new tools and products
+- Detail-oriented, with organizational and project management skills
+
+**Who is not suited**
+- Dislikes frequent communication and collaboration with engineers and product managers
+- Lack of patience or interest in technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for technical documentation writers in France?**
+A: Entry-level positions earn about €30,000 before tax per year, up to €38,000 after three years of experience, and up to €60,000 for senior positions.
+
+**Q: How can non-EU citizens immigrate to France through technical documentation positions?**
+A: Can apply via EU Blue Card or Talent Passport, but requires a high annual salary (Blue Card needs approximately €53,900). Also possible via the ordinary work visa 'Salarié', sponsored by an employer.
+
+**Q: Do technical documentation writers need to know French?**
+A: Working in France usually requires fluent French (B2 or above), as the document is intended for French speakers. However, some international companies may accept English.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Technical Writer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a technical writer in France?**
-答：Entry-level positions offer around €30,000 gross per year, rising to €38,000 after 3 years, and up to €60,000 for senior roles.
-
-**问：How can non-EU citizens immigrate to France as a technical writer?**
-答：Through the EU Blue Card or Passeport Talent, but high salary threshold (€53,900 for Blue Card in 2024) applies. Alternatively, a standard Salarié visa with employer sponsorship.
-
-**问：Does a technical writer need to speak French?**
-答：Yes, fluent French (B2 or higher) is typically required as documentation is for French users. Some international companies may accept English.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

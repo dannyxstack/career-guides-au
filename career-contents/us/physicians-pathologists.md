@@ -1,60 +1,95 @@
-# Physicians, Pathologists（Physicians, Pathologists）职业分析 · 美国
+# Physicians, Pathologists — career analysis · United States
 
-**职业代码：29-1222 – Physicians, Pathologists。**
+**Occupation code: 29-1222 (SOC)**
 
-Physicians, pathologists diagnose diseases through lab tests and autopsies, providing critical insights for clinical treatment, including medical examiners.
+Pathologists diagnose diseases through lab tests and autopsies, providing key evidence for clinical treatment, including forensic pathologists.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $50,000~$200,000（公立与私立差异大） |
-| 医学院 | 4年 | $150,000~$400,000（含学费及生活费） |
-| 住院医师培训 | 4年 | $200,000~$300,000（含生活成本） |
+| Bachelor's degree | 4 years | $50,000~$200,000 (Large differences between public and private) |
+| Medical school. | 4 years | $150,000~$400,000 (Includes tuition fees and living expenses) |
+| Residency training | 4 years | $200,000~$300,000 (Including cost of living) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位 | 医学院 | 必备 | 需完成本科及医学院课程 |
-| 美国医师执照 | 各州医学委员会 | 必备 | 通过USMLE考试并完成住院医师培训 |
-| 病理学专科认证 | 美国病理学委员会 | 必备 | 通过专科考试 |
+| Doctor of Medicine (MD) | Medical school. | Required | Must complete undergraduate and medical school courses |
+| US medical license | State Medical Boards | Required | Pass the USMLE and complete residency training |
+| Pathology specialist certification | American Board of Pathology | Required | Pass the specialist exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,600。随着人口老龄化和慢性病增多，病理诊断需求持续增长，预计2023-2033年就业增长约3%，快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 12,600. With an aging population and increasing chronic diseases, demand for pathology diagnostics continues to grow, with projected employment growth of about 3% from 2023-2033, faster than average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $200,000~$250,000 | 住院医师完成后初入职 |
-| 中级（4-9年） | $250,000~$350,000 | 主治医师阶段 |
-| 高级（10年以上） | $350,000~$450,000 | 资深专家或科室主任 |
+| Median salary | $312,400 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $200,000~$250,000 | Entry-level position after residency |
+| Intermediate (4-9 years) | $250,000~$350,000 | Attending physician stage |
+| Senior (10+ years) | $350,000~$450,000 | Senior specialist or department head |
+| average salary | $285,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径通常从住院医师培训开始，逐步晋升为主治医师、科室主任，可进入学术或研究领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on pathologists is mixed: automation will take over some morphological screening and report generation, but complex diagnosis, legal arbitration, and interdisciplinary collaboration still require human doctors; AI tools will significantly enhance workflow efficiency and diagnostic accuracy.
+
+Career development path typically starts with residency training, gradually advancing to attending physician, department head, and can enter academia or research.
+
+**Tasks most exposed to AI:**
+
+- Preliminary morphological assessment and grading of routine tissue sections
+- Automated interpretation and report generation for standardized lab results (e.g., complete blood count, biochemistry)
+- Macroscopic and microscopic description recording of partial organs during autopsy
+- Automatic identification and counting of tumor regions in digital pathology images
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of digital pathology slides to improve rare disease detection rates
+- Integrating multi-omics data (genomics, proteomics) for precision diagnostics
+- Automatically generate structured pathology reports using natural language processing
+- Use machine learning models to predict disease prognosis and treatment response
+- AI assists experts in decision-making in real time during remote pathology consultations
+
+**Human moat:**
+
+- Integrated diagnosis and clinical-pathological discussion of complex and difficult cases
+- Cause of death inference in forensic pathology and legal testimony
+- Communication and collaboration in interdisciplinary clinical decision-making
+- Development and validation of new testing methods
+- Ultimate responsibility under ethical and regulatory frameworks
+
+**Skills to build:**
+
+- Use of digital pathology and image analysis tools (e.g., WSI browsing, AI plugins)
+- Basic data science skills (Python/R, for customized AI model validation)
+- Knowledge of genomics and molecular pathology (integrating AI predictive models)
+- Human-robot collaboration workflow design ability
+- AI ethics and regulatory awareness (FDA, CLIA requirements)
+- Advanced communication and leadership (to drive AI transformation in the department)
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease prevalence
@@ -63,66 +98,65 @@ Physicians, pathologists diagnose diseases through lab tests and autopsies, prov
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于医院或研究机构，需有工作offer |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于硕士以上或杰出能力，需PERM |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于专业技术人员，需PERM |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | EB-2/EB-3的必经步骤，需证明无合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common in hospitals or research institutions, requires a job offer |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to those with a master's degree or above or exceptional ability, requires PERM |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to professionals requiring PERM |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | A necessary step for EB-2/EB-3, requires proving no qualified U.S. workers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicians, Pathologists？**
-- 对疾病机制有浓厚兴趣，喜欢实验室工作
-- 注重细节，能独立完成复杂诊断
-- 愿意长期投入医学教育和培训
-
-**谁不适合学Physicians, Pathologists？**
-- 不喜欢与尸体或病理标本打交道
-- 追求临床直接与患者互动
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in disease mechanisms, enjoys laboratory work
+- Detail-oriented, able to independently complete complex diagnostics
+- Willing to commit long-term to medical education and training
+
+**Who is not suited**
+- Dislike working with corpses or pathological specimens.
+- Pursuing direct clinical patient interaction
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for pathologists?**
+A: Junior approx. $200,000-250,000, mid $250,000-350,000, senior up to $450,000+, depending on location and experience.
+
+**Q: How can international medical students become pathologists in the US through immigration?**
+A: Must pass USMLE, complete US residency training, obtain license, then employer petitions for H-1B or green card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physicians, Pathologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pathologists?**
-答：Entry-level: $200,000-$250,000; mid-career: $250,000-$350,000; senior: $350,000-$450,000+ depending on location and experience.
-
-**问：How can international medical graduates become pathologists in the US?**
-答：Pass USMLE, complete US residency, obtain license, then employer can sponsor H-1B or green card.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

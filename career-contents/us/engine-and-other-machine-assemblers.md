@@ -1,58 +1,94 @@
-# Engine and Other Machine Assemblers（Engine and Other Machine Assemblers）职业分析 · 美国
+# Engine and Other Machine Assemblers — career analysis · United States
 
-**职业代码：51-2031 – Engine and Other Machine Assemblers。**
+**Occupation code: 51-2031 (SOC)**
 
-Construct, assemble, or rebuild machines such as engines, turbines, and similar equipment used in industries like construction, extraction, textiles, and paper manufacturing.
+Responsible for constructing, assembling, or rebuilding engines, turbines, and similar machinery in industries such as construction, mining, textiles, and paper manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 职业培训证书 | 6个月至1年 | $5,000~$15,000（社区学院或技术学校） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| Vocational training certificate | 6 months to 1 year | $5,000~$15,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本要求 |
-| 在职培训 | 雇主 | 必备 | 通常需1年实践学习 |
+| High school diploma or equivalent | High school | Required | Basic requirements |
+| On-the-job training | Employer | Required | Usually requires 1 year of practical study |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 10,200。美国就业前景稳定，受制造业自动化影响，预计2023-2033年就业增长率约2%，与所有职业平均水平持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 10,200. US employment outlook is stable; affected by manufacturing automation, with projected growth of about 2% from 2023-2033, similar to the average for all occupations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $34,000~$44,000 | 入门级薪资 |
-| 中级（4-9年） | $44,000~$56,000 | 中等经验薪资 |
-| 高级（10年以上） | $56,000~$72,000 | 高级/主管薪资 |
+| Median salary | $53,710 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $34,000~$44,000 | Entry-level salary |
+| Intermediate (4-9 years) | $44,000~$56,000 | Mid-level experience salary |
+| Senior (10+ years) | $56,000~$72,000 | Senior/supervisor salary |
+| average salary | $57,790 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从初级装配工起步，可通过经验积累晋升为高级装配工、组长或质检员，也可转向相关维修或技术销售岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Engine and other machine assemblers face high replacement risk; AI and automation will significantly reduce repetitive assembly, inspection, and debugging tasks, but on-site repair and custom assembly still rely on human experience.
+
+Starting as a junior assembler, can advance to senior assembler, team leader, or quality inspector through experience, or switch to related maintenance or technical sales roles.
+
+**Tasks most exposed to AI:**
+
+- Assemble repetitive parts according to drawings
+- Use measuring tools to complete standardized quality inspections
+- Operate tools like torque wrenches for fastening
+- Record assembly data and generate documentation
+- Perform simple fault diagnosis and debugging
+
+**Where AI augments the role:**
+
+- Use AR glasses to view assembly instructions and remote expert support.
+- Use AI vision systems to assist precise alignment and inspection.
+- Optimise assembly processes in advance through digital twin simulation
+- Using predictive maintenance tools to reduce downtime
+- Collaborative robots handle heavy lifting, workers focus on precision tasks
+
+**Human moat:**
+
+- Flexible assembly capability for irregular and non-standard components
+- Intuition and experience for on-site diagnosis of complex mechanical faults
+- Perform fine operations in confined or hazardous spaces.
+- Communicate customization needs with clients and adjust solutions
+- Proficiency in manual skills such as welding and debugging
+
+**Skills to build:**
+
+- Industrial robot programming (e.g., FANUC, ABB)
+- PLC and Automation System Basics
+- 3D modeling and additive manufacturing (3D-printed parts)
+- Digital twin and virtual commissioning software
+- Data analysis and predictive maintenance tools
+- AR-assisted operation and remote collaboration skills.
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -61,65 +97,64 @@ Construct, assemble, or rebuild machines such as engines, turbines, and similar 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需雇主担保，要求相关本科学位或同等经验，但装配工通常不符合专业职业要求，较难获得。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 绿卡路径，需PERM劳工证，要求至少2年培训或经验，装配工可能符合，但需雇主支持。 |
-| Subclass TN（TN Status (USMCA)） | 仅限加拿大和墨西哥公民，需职业在清单内，装配工通常不在列。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires employer sponsorship and a relevant bachelor's degree or equivalent experience, but assemblers generally do not meet professional occupation requirements, making it difficult to obtain. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card pathway: requires PERM labor certification and at least 2 years of training or experience; assemblers may qualify, but employer sponsorship is needed. |
+| Subclass TN (TN Status (USMCA)) | Only for Canadian and Mexican citizens, must be on the list; assemblers are usually not included. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engine and Other Machine Assemblers？**
-- 喜欢动手操作、注重细节的人
-- 对机械组装和工具使用有浓厚兴趣
-- 能适应工厂环境，体力良好
-
-**谁不适合学Engine and Other Machine Assemblers？**
-- 不喜欢重复性体力劳动
-- 对机械原理不感兴趣或缺乏耐心
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Strong interest in mechanical assembly and tool use
+- Able to adapt to factory environment with good physical fitness.
+
+**Who is not suited**
+- Dislikes repetitive physical labor
+- Not interested in mechanical principles or lacking patience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: According to the U.S. Bureau of Labor Statistics, the 2023 median annual salary is about $48,000, entry-level about $34,000, and experienced up to $72,000.
+
+**Q: Is it easy for foreigners to immigrate to the US through this occupation?**
+A: Difficult. This role typically does not require a bachelor's degree, limiting H-1B applications. EB-3 green card path exists but employers must prove inability to find US workers, and quotas are tight.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Engine and Other Machine Assemblers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：According to BLS, the median annual wage was about $48,000 in 2023, with entry-level around $34,000 and experienced up to $72,000.
-
-**问：Is it easy for foreigners to immigrate to the US through this occupation?**
-答：It is difficult. The occupation usually does not require a bachelor's degree, limiting H-1B eligibility. EB-3 green card is possible but requires labor certification and faces quota backlogs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

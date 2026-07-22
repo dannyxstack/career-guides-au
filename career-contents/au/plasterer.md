@@ -1,67 +1,94 @@
-# 抹灰工（Plasterer）职业分析 · 澳大利亚
+# Plasterer — career analysis · Australia
 
-**职业代码：333211 – Plasterer。**
+**Occupation code: 333211 (ANZSCO)**
 
-抹灰工（Plasterer）负责在建筑内外墙、天花板上施加石膏、砂浆、渲染材料，提供装饰和保护性表面。澳大利亚分为内墙石膏板（Fibrous/Plasterboard）和外墙砂浆（Solid Plasterer）两个细分方向，均处于短缺状态，是住宅装修旺盛期的抢手技工。
+A plasterer applies plaster, mortar, and rendering materials to interior and exterior walls and ceilings of buildings, providing decorative and protective surfaces. In Australia, the trade is divided into two specialisations — interior plasterboard (Fibrous/Plasterboard) and exterior solid render (Solid Plasterer) — both of which are in shortage and in high demand during the strong residential renovation period.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Plastering (CPC31320) — 学徒制 | 42~48个月 | —（NSW补贴后接近免费；工具费$600~$1,200） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（TRA评估费用） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Plastering (CPC31320) — apprenticeship pathway | 42–48 months | $0~$2,000 (Near free after NSW subsidies; tools cost $600–$1,200) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Plastering (CPC31320) | TAFE / RTO | 必备 | 包含内墙石膏和外墙砂浆两个方向 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Plastering (CPC31320) | TAFE / RTO | Required | Covers both interior plastering and exterior rendering |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 25,000。住宅新建和翻新双驱动，外墙渲染（render）在中高档住宅普及推高需求。JSA确认技工类岗位持续短缺（2025）。
+**Job demand: very high (★★★★★).** National workforce approx. 25,000. Driven by both new residential construction and renovations, the growing use of render on mid-to-upper-end homes is boosting demand. JSA confirms ongoing shortages in trade occupations (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 350~650 个 | 全国，住宅装修量最大 |
-| Indeed | 200~450 个 | 含承包商和劳务外包 |
-| LinkedIn | 60~150 个 | 偏商业装修 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $28,000~$55,000 | Fair Work Award |
-| 初级抹灰工（1~3年） | $60,000~$78,000 | 住宅内墙石膏板 |
-| 中级抹灰工（3~8年） | $78,000~$100,000 | ERI SalaryExpert均值约$83k；Seek AU约$40~$48/hr（2026） |
-| 资深 / 承包商（8年+） | $100,000~$130,000 | 独立承包商收入更高；ERI高端$107k |
+| Median salary | $95,732 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $28,000~$55,000 | Fair Work Award |
+| Junior Plasterer (1–3 years) | $60,000~$78,000 | Residential interior plasterboard/drywall lining |
+| Intermediate Plasterer (3–8 years) | $78,000~$100,000 | ERI SalaryExpert average approximately $83k; Seek AU approximately $40–$48/hr (2026) |
+| Senior / Contractor (8+ years) | $100,000~$130,000 | Independent contractors earn more; ERI high-end $107k |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** Acrylic render和EIFS隔热外墙系统快速普及，扩大了外墙抹灰工需求范围。内墙Plasterboard安装量随住宅建设直接挂钩。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Plasterer is a physically demanding, on-site dependent occupation with medium AI substitution risk, but new smart construction equipment and BIM deepening are changing traditional work. Entry-level plastering roles are squeezed by standardized plasterboard fast-installation technology, yet high-value areas like finished quality control, irregular finishes, and old building restoration are amplified by tool enablement.
+
+Acrylic render and EIFS external insulation finishing systems are rapidly gaining popularity, broadening demand for exterior plasterers. Interior plasterboard installation volumes are directly tied to residential construction activity.
+
+**Tasks most exposed to AI:**
+
+- Mechanical plastering and automatic sanding of large-area interior gypsum board
+- Slotting, base coating, and leveling of standard external wall mortar (robotic mortar spraying)
+- Automatic generation of plastering task sheets and material lists based on BIM models
+
+**Where AI augments the role:**
+
+- Using 3D laser scanners to quickly recheck wall flatness and generate deviation reports
+- Use AR glasses to view concealed pipeline locations and accurately reserve connection holes
+- Using mobile apps (e.g., PlanGrid) to receive change orders in real time and adjust procedures
+- Using drone aerial photography and orthophotos to analyze exterior wall hollowing/crack areas
+- Optimizing alternating interior-exterior wall construction sequence for multi-story buildings using BIM 4D simulation
+
+**Human moat:**
+
+- Adaptability and experience-based intuition for humid, low-temperature, high-dust environments
+- Manual techniques and aesthetic judgment for non-standard shapes (curved surfaces, reliefs, artistic plaster)
+- Ability to coordinate and resolve conflicts with other trades (electricians/plumbers) on site
+- Professional identification for safety regulation and reinforcement of deteriorated structures (asbestos/carbonized wood)
+
+**Skills to build:**
+
+- Operation and debugging of intelligent plastering robots (e.g., Monument/Q-Bot)
+- Lightweight BIM model viewing and issue marking (Navisworks/BIM 360)
+- Data acquisition and processing with laser scanners (FARO/Leica RTC360)
+- Digital measurement software (e.g., Planswift/Bluebeam) for quantity takeoffs
+- Additional qualifications for scaffolds and elevated work platforms (e.g., EWP categories)
+- Communication and client explanation skills (for quotation negotiations in ancient building restoration)
+
+**Key growth areas:**
 
 - Residential New Construction & Renovation
 - Commercial Fitout
@@ -70,89 +97,84 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学抹灰工？**
-- 有装修、批灰、抹灰施工背景，希望技能移民
-- 手工精细，追求表面质量，适合艺术性强的外墙渲染方向
-- 有意自立门户做承包商，收入弹性大
-
-**谁不适合学抹灰工？**
-- 有呼吸系统疾病（粉尘环境）
-- 不能长时间高架作业
-- 期望快速低门槛入行（需4年学徒）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in fit-out, render and plastering, seeking a skilled migration pathway
+- Fine manual craftsmanship with a focus on surface quality, well-suited to the artistic direction of decorative exterior rendering
+- Interested in going independent as a contractor, with greater income flexibility
+
+**Who is not suited**
+- Has a respiratory condition (dusty work environment)
+- Unable to work at heights for extended periods
+- Expecting quick, low-barrier entry (a 4-year apprenticeship is required)
+
+---
+
+## 8. FAQ
+
+**Q: How much do plasterers earn in Australia?**
+A: Mid-level plasterer annual salary approx. $78,000–$100,000 (Seek AU 2026, approx. $40–$48/hr). Independent contractors can earn $100,000–$130,000+. Apprentice wages approx. $28,000–$55,000.
+
+**Q: Is it easy to find work as a plasterer in Australia?**
+A: Easy. The residential construction and renovation market is strong, with 350–650 positions regularly listed on Seek. Exterior render contractors are particularly in demand.
+
+**Q: Is overseas plastering experience recognised in Australia?**
+A: Not directly recognised. A TRA assessment (12–18 months) is required to obtain recognition, followed by achieving a Certificate III qualification.
+
+**Q: Will plasterers be replaced by robots?**
+A: Extremely low. Surface evenness and material mixing ratios are craft skills; automated spraying is only used in simple scenarios and cannot replace manual work for complex shapes.
+
+**Q: Is there an age limit for plasterers in Australia?**
+A: No legal upper limit. Those aged 40 and above may use TRA recognition to bypass the apprenticeship.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III is sufficient; school leavers can enrol directly in a TAFE apprenticeship programme.
+
+**Q: Is plastering difficult to learn?**
+A: Moderate difficulty. High standards for surface flatness are required, and considerable hands-on experience is needed to manage material mixing and drying times. External render work demands even greater craftsmanship.
+
+**Q: Which is better for migrating to Australia — plastering or tiling?**
+A: Both have similar PR pathways and comparable salaries. The plasterer market is larger; tiling offers greater visibility of craftsmanship, with similar entrepreneurial potential. See the 'Plasterer vs Tiler' career comparison section (coming soon).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 333211 数据 |
-| ERI SalaryExpert | Plasterer 均值$83k；高端$107k（2025） |
-| Seek AU | 抹灰工薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-抹灰工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲抹灰工工资多少？**
-答：中级抹灰工年薪约 $78,000~$100,000（Seek AU 2026，约$40~$48/hr）。独立承包商可达 $100,000~$130,000+。学徒期约 $28,000~$55,000。
-
-**问：澳洲抹灰工容易找工作吗？**
-答：容易。住宅建设和翻新市场旺盛，Seek常年挂牌350~650个职位。外墙渲染（render）承包商尤其抢手。
-
-**问：国内抹灰经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）取得认定，再取得Certificate III资质。
-
-**问：抹灰工会被机器人替代吗？**
-答：极低。表面平整度和材料配比是手工艺技艺，自动化喷涂仅用于简单场景，复杂造型无法替代。
-
-**问：澳洲抹灰工有年龄限制吗？**
-答：法律无上限。40岁以上可通过TRA互认跳过学徒期。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III即可，高中毕业可直接入读TAFE学徒课程。
-
-**问：抹灰工难学吗？**
-答：难度中等。表面平整度要求高，材料调配和干燥时间控制需要大量实操经验。外墙渲染对工艺要求更高。
-
-**问：抹灰工和贴砖工哪个更适合移民澳洲？**
-答：两者PR路径相近，薪资接近。抹灰工市场规模更大；贴砖工（Tiler）工艺可见性更强，创业空间相近。详见「抹灰工 vs 贴砖工」职业比较板块（即将上线）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

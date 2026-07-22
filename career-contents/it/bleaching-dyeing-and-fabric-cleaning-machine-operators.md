@@ -1,61 +1,97 @@
-# Bleaching, Dyeing and Fabric Cleaning Machine Operators（Bleaching, Dyeing and Fabric Cleaning Machine Operators）职业分析 · IT
+# Bleaching, Dyeing and Fabric Cleaning Machine Operators — career analysis · Italy
 
-**职业代码：8154 – Bleaching, Dyeing and Fabric Cleaning Machine Operators。**
+**Occupation code: 8154 (ISCO08)**
 
-Operate and monitor industrial bleaching, dyeing and fabric cleaning machines to ensure textile processing quality.
+Operate and monitor industrial bleaching, dyeing, and fabric cleaning machines to ensure textile processing quality.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业培训 | 3-4年（高中+实习） | —（公立学校免费，职业培训约1,000-2,000欧元） |
-| 职业资格课程 | 1-2年 | $2,000~$5,000（私立培训机构） |
+| High school / vocational training | 3-4 years (high school + internship) | $0~$2,000 (Public schools are free; vocational training costs approximately 1,000-2,000 euros) |
+| Vocational qualification course | 1-2 years | $2,000~$5,000 (Private training provider) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训证书 | 地区职业培训中心 | 可选 | 需通过实践和理论考试 |
-| 安全操作培训 | 雇主或培训机构 | 必备 | 涉及化学药品处理安全 |
-| 纺织技术员文凭 | 技术学院 | 可选 | 部分雇主优先考虑 |
+| Safety operation training | Employer or training provider | Required | Involves safe handling of chemicals |
+| Vocational training certificate | Regional vocational training center | Optional | Must pass practical and theoretical exams |
+| Textile Technician Diploma | Technical college | Optional | Some employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 6,500。意大利纺织业集中托斯卡纳、伦巴第等地，从业人数预计缓慢下降，但技术更新带来一定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 6,500. Italy's textile industry is concentrated in Tuscany, Lombardy, etc., with employment expected to decline slowly, but technological updates create some demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，因地区和公司而异 |
-| 中级（3-7年） | $22,000~$28,000 | 含加班和轮班补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 含主管职责 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary varies by region and company |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including overtime and shift allowances |
+| Senior (7+ years) | $28,000~$35,000 | Includes supervisory duties |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可晋升为生产线主管或质量控制技术员，也可转向纺织化学或环保工艺领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Textile cleaning and dyeing operators face automation risk, but AI-enhanced tasks like quality monitoring and process optimization improve efficiency; digital skills needed to avoid replacement.
+
+Can be promoted to production line supervisor or quality control technician, or shift to textile chemistry or environmental process fields.
+
+**Tasks most exposed to AI:**
+
+- Repetitive dye ratio mixing and chemical addition operations
+- Monitor routine bleaching and dyeing processes
+- Basic fabric washing and dehydration cycle control
+- Basic fault diagnosis and alarm handling
+- Quality inspection and recording
+
+**Where AI augments the role:**
+
+- AI-assisted color matching and formula optimization.
+- Real-time quality monitoring and defect prediction
+- Predictive maintenance and remote diagnostics for equipment
+- Automatic process parameter tuning to reduce waste
+- Digital twin simulation optimizes production processes
+
+**Human moat:**
+
+- Experience handling specialty fabrics or complex color formulations
+- Ability to quickly respond to sudden equipment failures and process anomalies
+- Ability to communicate custom requirements with designers and clients
+- Craftsmanship for hand-processing precious or sensitive textiles
+- Team Collaboration and Production Scheduling Decisions
+
+**Skills to build:**
+
+- Industrial data analysis and visualization
+- PLC programming and automation system operation
+- AI Image Recognition Applied to Defect Detection
+- Sustainable dyeing processes and environmental knowledge
+- Use of digital production management (MES) systems
+- Interdisciplinary problem-solving and innovative thinking
+
+**Key growth areas:**
 
 - Textile manufacturing
 - Lean production
@@ -64,66 +100,68 @@ Operate and monitor industrial bleaching, dyeing and fabric cleaning machines to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保，每年配额有限。 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能工人，要求最低年薪约25,000欧元，但本职业薪资通常偏低，不符条件。 |
-| Subclass 工作居留转换（Work Permit Renewal） | 已持有工作签证者可续签，需持续就业。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU workers, requires employer sponsorship, limited annual quota. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled workers, requiring a minimum annual salary of around €25,000, but this occupation's salary is usually low and does not meet the condition. |
+| Subclass Work Residence Switch (Work Permit Renewal) | Work visa holders can renew if continuously employed. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bleaching, Dyeing and Fabric Cleaning Machine Operators？**
-- 对纺织工艺有兴趣，能接受重复性工作
-- 愿意在制造业车间工作，不介意化学气味
-- 注重操作安全，能严格遵守规程
+**Who is suited**
+- Interest in textile techniques, able to accept repetitive work
+- Willing to work in a manufacturing workshop and not mind chemical odors
+- Focuses on operational safety and strictly follows procedures
 
-**谁不适合学Bleaching, Dyeing and Fabric Cleaning Machine Operators？**
-- 对化学药品敏感或过敏者
-- 期望高收入或快速晋升者
+**Who is not suited**
+- Those sensitive or allergic to chemicals
+- Those expecting high income or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a bleach dyeing machine operator in Italy?**
+A: Junior approx. €18,000-22,000 gross annual, intermediate €22,000-28,000, senior up to €35,000.
+
+**Q: How can non-EU citizens obtain a work visa for the Italian textile industry?**
+A: Primarily via Decreto Flussi quota work visa, requires employer sponsorship; limited annual places and high competition.
+
+**Q: What is the future outlook for this occupation?**
+A: Due to automation and industrial offshoring, demand is slowly declining, but technological updates and environmental requirements may create new jobs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bleaching, Dyeing and Fabric Cleaning Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for bleaching, dyeing machine operators in Italy?**
-答：Entry-level around €18,000-22,000 gross per year, mid-level €22,000-28,000, senior up to €35,000.
-
-**问：How can non-EU citizens obtain a work visa for textile jobs in Italy?**
-答：Primarily through the Decreto Flussi quota work visa, requiring employer sponsorship with limited annual quotas.
-
-**问：What is the future outlook for this occupation?**
-答：Demand is slowly declining due to automation and offshoring, but technical updates and environmental regulations may create new roles.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

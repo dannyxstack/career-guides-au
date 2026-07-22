@@ -1,129 +1,161 @@
-# Civil engineers（Civil engineers）职业分析 · 加拿大
+# Civil Engineers — career analysis · Canada
 
-**职业代码：21331 – Civil engineers。**
+**Occupation code: 21300 (NOC)**
 
-Geotechnical engineers in Canada work as civil engineers, specializing in foundation, slope, and tunnel design. This occupation qualifies for Express Entry and PNP immigration with steady demand.
+Civil engineers in Canada plan, design, construct, and maintain infrastructure such as roads, bridges, and dams. Demand is strong driven by federal and provincial infrastructure investment; immigration via Express Entry (STEM category) or PNP; overall good job prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（加拿大本科国际生学费，不包括生活费） |
-| 硕士 | 2年 | $25,000~$60,000（研究型硕士可能提供资助） |
+| Bachelor's degree | 4 years | $60,000~$120,000 (International student tuition, including books, approximately CAD 15,000-30,000 per year.) |
+| Master's degree | 2 years | $40,000~$80,000 (Graduate tuition approx. CAD 20,000-40,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES/CES等 | 必备 | 用于移民申请，认证等同加拿大本科/硕士 |
-| P.Eng.执照 | 各省工程师协会 | 可选 | 需要至少4年经验并通过专业考试 |
-| 英语/法语语言考试 | IELTS/TEF | 必备 | 移民要求CLB 7以上 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Immigration requirement: verify overseas degree as equivalent to Canadian bachelor's |
+| IELTS or CELPIP | IELTS/CELPIP | Required | Immigration language requirement: CLB 7 or above |
+| Professional Engineer (P.Eng.) license | Provincial engineering associations | Optional | Need to pass CEAB-accredited degree or equivalent experience, obtain after exams; not mandatory for immigration but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 65,000。加拿大基础设施建设持续投入，岩土工程人才需求稳定。BC省和安省工程项目较多，但竞争中等，需具备当地注册工程师资质。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. Canadian government invests long-term in transport, water, and green infrastructure; civil engineer jobs expected to grow ~8% in next decade. Alberta, Ontario, BC have highest demand but also competition; remote areas harder to recruit, immigration-friendly.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 助理岩土工程师或EIT |
-| 中级（4-9年） | $80,000~$110,000 | 注册岩土工程师 |
-| 高级（10年以上） | $110,000~$150,000 | 项目经理或技术总监 |
+| Median salary | $101,005 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Varies by province and company size |
+| Mid-level (4–8 years) | $75,000~$100,000 | Holding a P.Eng. is usually higher |
+| Senior (9+ years) | $100,000~$140,000 | Project managers or chief engineers can reach $150,000+ |
+| average salary | $106,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★☆）。** 可从初级岩土工程师晋升为高级工程师或项目经理，需积累设计经验并取得专业工程师（P.Eng.）执照。部分人转向咨询公司或政府机构。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+Junior civil engineers typically start in design or site supervision, and can progress to project manager, senior engineer or department head with experience. Obtaining a Professional Engineer (P.Eng.) licence is key for advancement, and can also specialise in sustainable infrastructure or project management.
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee
 - Infrastructure Investment
-- Engineering Consulting
+- Green Building
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合年龄较轻、英语好、学历高的申请人，通过CRS评分邀请 |
-| Subclass PNP（Provincial Nominee Program） | 各省有针对性提名，如安省、BC省、阿尔伯塔省，需有雇主offer或相关经验 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，要求较低 |
+| Subclass EE (Express Entry (STEM Draw)) | Federal Express Entry, STEM category-based invitations, must meet FST or CEC criteria, IELTS at least CLB7 |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations, such as Ontario, BC, and Alberta have priority pathways for civil engineering, usually requiring a job offer |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, lower threshold, suitable for applicants with a job offer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil engineers？**
-- 工程专业背景，持有土木或岩土工程学位
-- 愿意考取P.Eng.执照并长期在加拿大发展
-- 适应现场工作与办公室设计结合
-
-**谁不适合学Civil engineers？**
-- 不擅长数学或力学分析
-- 仅想短期工作，不愿投入执照认证
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bachelor's degree or above in engineering or civil engineering-related fields.
+- Those with 3+ years of experience in design or construction management
+- Those with good English proficiency (IELTS 6.5+) and willing to obtain a license
+
+**Who is not suited**
+- No engineering background or unwilling to undergo credential assessment
+- Not willing to work in remote areas to gain experience
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a civil engineer in Canada?**
+A: According to Canada Job Bank, civil engineer average salary approx. CAD 80k, entry-level CAD 55k-75k, senior CAD 100k-140k. Obtaining P.Eng. license significantly increases salary.
+
+**Q: Is it easy for civil engineers to immigrate to Canada through Express Entry?**
+A: Relatively easy. Civil engineering is a STEM-targeted occupation, often receiving low-score invitations in the Express Entry system. Requires CLB 7 language, work experience, and ECA. With IELTS 8777 and 3 years' experience, CRS score can reach 470+, recent STEM invitation scores around 480, high success rate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for geotechnical engineers in Canada?**
-答：Entry-level CAD 60k-80k, mid-level CAD 80k-110k, senior CAD 110k-150k. P.Eng. license and experience boost earnings.
-
-**问：What are the main immigration pathways for geotechnical engineers to Canada?**
-答：Main pathways are Express Entry (FSW/CEC) and PNP (e.g., Ontario, BC). Need ECA and language test.
-
-**问：Do I need a P.Eng. license in Canada?**
-答：Required for regulated engineering work; otherwise optional. Having it improves competitiveness and salary.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

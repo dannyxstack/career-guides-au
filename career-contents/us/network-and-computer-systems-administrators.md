@@ -1,61 +1,94 @@
-# Network and Computer Systems Administrators（Network and Computer Systems Administrators）职业分析 · 美国
+# Network and Computer Systems Administrators — career analysis · United States
 
-**职业代码：15-1244 – Network and Computer Systems Administrators。**
+**Occupation code: 15-1244 (SOC)**
 
-Install, configure, and maintain an organization's LAN, WAN, data communications network, operating systems, and physical/virtual servers; monitor system performance and verify integrity of hardware, network, and server resources.
+Responsible for installing, configuring, and maintaining the organization's LAN, WAN, data communication networks, operating systems, and physical/virtual servers, monitoring system performance, and ensuring the integrity of hardware, network, and server resources.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立/私立大学学费） |
-| 职业证书 | 6个月 | $2,000~$5,000（如CompTIA Network+培训及考试费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public/private university tuition fees) |
+| Professional certificate | 6 months. | $2,000~$5,000 (Such as CompTIA Network+ training and exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士学位 | 大学 | 可选 | 常见要求 |
-| CompTIA Network+ | CompTIA | 可选 | 基础网络认证 |
-| Cisco Certified Network Associate (CCNA) | Cisco | 可选 | 中级网络认证 |
-| Certified Information Systems Security Professional (CISSP) | ISC2 | 可选 | 高级安全认证 |
+| Bachelor's degree in computer science | University | Optional | Common requirements |
+| CompTIA Network+ | CompTIA | Optional | Basic network certification |
+| Cisco Certified Network Associate (CCNA) | Cisco | Optional | Intermediate network certification |
+| Certified Information Systems Security Professional (CISSP) | ISC2 | Optional | Advanced security certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 215,000。美国劳工统计局预计2023-2033年就业增长约2%，低于平均水平，但云迁移和网络安全需求将支撑岗位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 215,000. The US Bureau of Labor Statistics projects about 2% employment growth from 2023-2033, below average, but cloud migration and cybersecurity demand will support roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$75,000 | 包括奖金和福利 |
-| 中级（3-7年） | $75,000~$100,000 | 含认证加成 |
-| 高级（7年以上） | $100,000~$130,000 | 管理职责增加 |
+| Median salary | $99,130 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$75,000 | Includes bonuses and benefits |
+| Mid-level (3–7 years) | $75,000~$100,000 | including certification bonus |
+| Senior (7+ years) | $100,000~$130,000 | Increased management responsibilities |
+| average salary | $103,680 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级管理员可晋升为高级管理员、网络架构师或IT经理；获得CCNA/CISSP等认证有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
+
+Junior administrators can advance to senior administrator, network architect, or IT manager; certifications like CCNA/CISSP help career progression.
+
+**Tasks most exposed to AI:**
+
+- Routine network device configuration changes (e.g., VLAN, ACL additions)
+- Template-based network monitoring alarm analysis and preliminary diagnosis
+- Automatic detection of network faults and execution of standard recovery procedures
+- Compliance baseline checks and configuration audit report generation
+
+**Where AI augments the role:**
+
+- Using AI to predict network traffic peaks and automatically adjust bandwidth strategies
+- Designing multi-layer cloud network architectures and optimizing costs with AI assistance
+- Quickly identify abnormal traffic and threats using AI-driven security analysis tools
+- Using large language models to accelerate technical documentation and knowledge base building
+
+**Human moat:**
+
+- Ability to design hybrid networking architectures spanning internal networks and public cloud across regions
+- Customized network solutions based on deep understanding of business needs
+- Emergency decision-making and coordination/public relations skills during large network failures
+- Network audit responsibility under regulatory compliance (e.g., APRA, ISO 27001)
+
+**Skills to build:**
+
+- Python network automation (Netmiko/Nornir)
+- Cloud network certifications (AWS Advanced Networking / Azure Network Engineer)
+- AI/ML fundamentals and network data analysis
+- DevOps-related tools (Ansible, Terraform)
+- Cybersecurity situational awareness and zero-trust architecture
+- Use of AI-assisted network diagnostic tools.
+
+**Key growth areas:**
 
 - Cloud Computing
 - Network Security
@@ -64,69 +97,68 @@ Install, configure, and maintain an organization's LAN, WAN, data communications
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见工作签证，需学士学位，年度配额竞争激烈。 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 绿卡路径，需硕士学位或学士加5年经验，需PERM。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 绿卡路径，需学士学位或2年经验，需PERM，排期较长。 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大/墨西哥公民，需相关职业列表，无需抽签。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common work visa, requires bachelor's degree, annual quota is competitive. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Green card pathway requires a master's degree or a bachelor's plus 5 years of experience, and requires PERM. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card pathway, requires a bachelor's degree or 2 years of experience, needs PERM, long wait times. |
+| Subclass TN (TN NAFTA Professional) | Applies to Canadian/Mexican citizens; requires relevant occupation list; no lottery needed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Network and Computer Systems Administrators？**
-- 喜欢解决技术问题，动手能力强
-- 注重细节，有系统思维
-- 愿意持续学习新技术
-
-**谁不适合学Network and Computer Systems Administrators？**
-- 不喜欢反复沟通和协调
-- 无法承受压力环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys solving technical problems, hands-on ability.
+- Detail-oriented, with systematic thinking
+- Willingness to continuously learn new technologies
+
+**Who is not suited**
+- Dislikes repeated communication and coordination
+- Cannot handle stressful environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Network Administrators?**
+A: US median annual salary about $83,510, entry-level about $50,000-$75,000, senior can reach over $100,000.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Common H-1B visa and EB-2/EB-3 green card paths, but require employer sponsorship and H-1B has quota caps, making it competitive.
+
+**Q: What qualifications are required?**
+A: Typically requires a bachelor's degree in computer science or related field; associate degree plus experience may be accepted; certification helps.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Network and Computer Systems Administrators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for network administrators?**
-答：Median annual wage in the US is about $83,510; entry-level $50k-$75k, senior over $100k.
-
-**问：Is immigration easy for this occupation?**
-答：Common via H-1B and EB-2/EB-3 green cards, but requires employer sponsorship and H-1B cap limits.
-
-**问：What education is required?**
-答：Typically a bachelor's in CS or related; associate degree with experience acceptable; certifications help.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

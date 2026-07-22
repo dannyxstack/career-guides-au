@@ -1,58 +1,94 @@
-# Office and Secretariat Supervisor（Office and Secretariat Supervisor）职业分析 · DE
+# Office and Secretariat Supervisor — career analysis · Germany
 
-**职业代码：7149 – Office and Secretariat Supervisor。**
+**Occupation code: 7149 (KldB)**
 
-In Germany, office and secretariat supervisors oversee administrative and secretarial teams, ensuring efficient office workflows, document management, meeting coordination, and internal communication.
+In Germany, office and secretarial supervisors oversee administrative and secretarial teams, ensuring efficient office processes, managing document handling, meeting coordination, and internal communication.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（办公室管理） | 3年（双元制） | —（培训期间有津贴，学费由企业承担） |
-| 进修（IHK办公室管理师） | 1-2年（在职） | $2,000~$5,000（费用因课程而异，部分可由雇主资助） |
+| Dual system training (office management) | 3 years (dual system) | $0~$500 (Allowance during training, tuition covered by employer) |
+| Further training (IHK Office Management Specialist) | 1-2 years (on-the-job) | $2,000~$5,000 (Fees vary by course, part may be funded by employers.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IHK办公室管理师证书 | 德国工商大会IHK | 可选 | 非强制，但有助于晋升和薪资提升 |
-| 双元制培训毕业证书 | 德国工商大会IHK | 必备 | 基础入门，通常需要完成 |
+| Dual system training certificate | German Chamber of Commerce and Industry (IHK) | Required | Basic entry-level, usually requires completion |
+| IHK Office Management Specialist Certificate | German Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but beneficial for advancement and salary increase |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。德国办公室管理岗位需求稳定，受数字化转型影响，对数字化办公技能要求提升。大型企业和公共部门需求较多，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Germany office management positions have stable demand, impacted by digital transformation, with higher requirements for digital office skills. Demand is higher in large enterprises and public sector, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，不含奖金 |
-| 中级（3-7年） | $40,000~$50,000 | 税前年薪，视公司规模和地区 |
-| 高级（7年以上） | $50,000~$65,000 | 税前年薪，含管理职责 |
+| Median salary | $46,320 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (3–7 years) | $40,000~$50,000 | Annual salary before tax, depending on company size and region |
+| Senior (7+ years) | $50,000~$65,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $52,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升路径：办公室主管 → 行政经理 → 运营总监。也可通过进修（如IHK工商管理师）拓展至综合管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The daily administrative coordination tasks of office managers are easily automated by AI, reducing entry-level positions, but strategic and HR decisions still require humans.
+
+Career progression path: Office Supervisor → Administrative Manager → Operations Director. Further education (e.g., IHK Business Administrator) can lead to general management roles.
+
+**Tasks most exposed to AI:**
+
+- Schedule meetings and book meeting rooms
+- Handling daily emails and internal correspondence
+- Maintain office supplies inventory and auto-replenish
+- Generate routine reports and data analysis
+- Manage employee leave and attendance records
+
+**Where AI augments the role:**
+
+- Use AI tools for budget planning and cost analysis
+- Optimizing office space utilization through intelligent systems
+- Using AI-assisted recruitment screening and resume matching
+- Boost team collaboration efficiency with automated workflows
+- Using Data Analytics to Optimize Office Workflows
+
+**Human moat:**
+
+- Interpersonal communication and team conflict mediation
+- Handling emergencies and complex problems.
+- Develop and execute office strategic plans
+- Maintaining employee morale and organizational culture
+- Cross-departmental coordination and liaison with senior management
+
+**Skills to build:**
+
+- Use of AI office tools (e.g. Microsoft Copilot, Notion AI)
+- Data analysis and visualization (Tableau, Power BI)
+- Project management skills (PMP, Agile)
+- Basic programming automation (Python, RPA)
+- Digital collaboration platform management (Slack, Teams)
+- Change Management and Leadership
+
+**Key growth areas:**
 
 - Digitalization
 - Office Automation
@@ -61,65 +97,64 @@ In Germany, office and secretariat supervisors oversee administrative and secret
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合年薪不低于43,800欧元（2024年）的高学历申请人，需有大学学位和雇主合同。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkraft)） | 适用于有德国认可的职业资格（如双元制培训）的申请人，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统，允许未找到工作前进入德国找工作，最长一年。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated applicants with an annual salary of no less than €43,800 (2024), requiring a university degree and an employer contract. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Applicable for applicants with a recognized German vocational qualification (e.g., dual-system training), requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows entry to Germany for job-seeking for up to one year before finding a job. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Office and Secretariat Supervisor？**
-- 注重细节、组织能力强的人
-- 有领导潜力、善于团队沟通的人
-- 希望获得稳定办公室职位、不追求高薪的人
-
-**谁不适合学Office and Secretariat Supervisor？**
-- 不喜欢繁琐行政事务的人
-- 追求快速晋升和高收入的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized individuals
+- People with leadership potential and good team communication skills
+- Those seeking a stable office position without pursuing a high salary
+
+**Who is not suited**
+- For those who dislike tedious administrative tasks
+- Those seeking rapid promotion and high income
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an office manager in Germany?**
+A: Entry-level annual salary around €32,000-40,000, mid-level €40,000-50,000, senior up to €65,000, depending on region and company size.
+
+**Q: How can foreigners immigrate to Germany through an office supervisor position?**
+A: Can apply through EU Blue Card (requires degree and high salary) or skilled migration visa (requires German-recognised qualification). Opportunity Card allows entry for job seeking first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Office and Secretariat Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for office supervisors in Germany?**
-答：Entry-level annual salary is about €32,000-40,000, mid-level €40,000-50,000, senior up to €65,000, depending on region and company size.
-
-**问：How can foreigners immigrate to Germany as office supervisors?**
-答：Via EU Blue Card (degree and higher salary) or Skilled Worker Visa (recognized vocational qualification). Opportunity Card allows job search in Germany.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

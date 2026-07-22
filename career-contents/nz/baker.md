@@ -1,58 +1,93 @@
-# Baker（Baker）职业分析 · 新西兰
+# Baker — career analysis · New Zealand
 
-**职业代码：351111 – Baker。**
+**Occupation code: 351111 (ANZSCO)**
 
-Bakers and pastry chefs produce bread, pastries, cakes and baked goods in bakeries, cafes, or food manufacturing. This occupation is in skill shortage in New Zealand, listed on Green List Tier 1, eligible for direct residence pathway.
+Bakers/pastry chefs work in bakeries, bread shops, cafes, or food manufacturing, producing bread, pastries, cakes, and other baked goods. This occupation is in sustained shortage in New Zealand and is on the Green List Tier 1 for direct residence, allowing fast-track immigration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训课程（Certificate in Baking） | 1年 | $6,000~$12,000（公立理工学院与私立培训机构开设，含实习） |
-| 烘焙大专（Diploma in Baking） | 2年 | $15,000~$25,000（提供更系统技能，含食品卫生与商业管理） |
+| Short-term training course (Certificate in Baking) | 1 year | $6,000~$12,000 (Offered by public polytechnics and private training providers, including internships) |
+| Diploma in Baking | 2 years | $15,000~$25,000 (Provides more systematic skills, including food hygiene and business management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰烘焙国家证书（Level 4） | 新西兰资格认证局 (NZQA) | 可选 | 非强制，但雇主普遍要求，有助于移民加薪 |
-| 食品安全证书 (Food Safety Certificate)或新西兰驾照 | 初级产业部 (MPI) | 必备 | 雇主通常要求持有基本食品安全证书 |
+| Food Safety Certificate or New Zealand driver's license | Ministry for Primary Industries (MPI) | Required | Employers typically require a basic food safety certificate |
+| New Zealand Certificate in Baking (Level 4) | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but generally required by employers; beneficial for immigration and salary increase |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 14,000。随着新西兰旅游业复苏和高端烘焙需求增长，面包师就业前景良好。奥克兰、基督城等主要城市和旅游区职位较多，但偏远地区烘焙店更难招人。入行门槛较低，短期培训即可上岗。
+**Job demand: high (★★★★☆).** National workforce approx. 14,000. With New Zealand's tourism recovery and growing demand for premium baked goods, baker job prospects are good. Major cities like Auckland and Christchurch, as well as tourist areas, have more positions, but remote bakeries face hiring difficulties. Entry barriers are low, with short-term training available.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 多为面包房学徒或小型店铺烘焙助手，时薪约20-24 NZD |
-| 中级（3-6年） | $50,000~$60,000 | 可独立完成全流程，担任领班或糕点师傅，时薪约24-30 NZD |
-| 高级（6年以上/主管） | $60,000~$80,000 | 担任烘焙主管、产品开发或连锁店区域经理，时薪30-40 NZD |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Mostly bakery apprentices or small shop baking assistants, hourly wage about 20-24 NZD |
+| Mid-level (3–6 years) | $50,000~$60,000 | Can independently complete the entire process, serving as a lead or pastry chef; hourly wage around NZD 24-30 |
+| Senior (6+ years/supervisor) | $60,000~$80,000 | Work as bakery supervisor, product developer, or regional manager of a chain store; hourly wage NZD 30-40 |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级面包师可成长为烘焙主管、门店经理或开设自己的面包店。具有艺术糕点技能的师傅可转向高星级酒店或精品烘焙坊，也可考取厨师长资格，薪资随经验和创意能力显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
+
+Junior bakers can grow to bakery supervisor, store manager, or start their own bakery. Those with artistic pastry skills can move to high-end hotels or boutique bakeries, or obtain chef qualifications, with salary significantly increasing with experience and creativity.
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +96,67 @@ Bakers and pastry chefs produce bread, pastries, cakes and baked goods in bakeri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 职业在绿色名单Tier 1中，可直接申请居留，无需先工作满两年。需达到中位数薪资（目前时薪29.66 NZD）并持有一份真实工作offer。 |
-| Subclass SMC（Skilled Migrant Category） | 也可通过6分制技术移民：持有认可雇主工作offer（3分）+ 相关学历（如烘焙大专可获3分）达到6分申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如果无移民意向，可先持认证雇主工签在新西兰工作3年，满足条件后续转居留。 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | The occupation is on the Green List Tier 1, allowing direct residence application without needing to work for two years first. Must meet the median wage (currently NZD 29.66 per hour) and hold a genuine job offer. |
+| Subclass SMC (Skilled Migrant Category) | Also eligible for 6-point skilled migration: hold an offer for accredited employer work (3 points) + relevant qualification (e.g., baking diploma gives 3 points) to reach 6 points and apply for residence. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you have no intention to immigrate, you can first work in New Zealand for 3 years on an Accredited Employer Work Visa, and then apply for residency once conditions are met. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Baker？**
-- 喜欢动手制作、有耐心早起工作的人
-- 注重食品卫生、追求工艺匠心的人
-- 希望通过短期技能培训快速移民新西兰的人
-
-**谁不适合学Baker？**
-- 不习惯早起（面包师通常清晨5-6点上班）
-- 畏惧体力劳动或高温工作环境的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, are patient, and early risers
+- People who value food hygiene and pursue craftsmanship
+- People hoping to immigrate to New Zealand quickly through short-term skills training
+
+**Who is not suited**
+- Not accustomed to waking up early (bakers usually start work at 5-6 AM)
+- People who fear physical labor or high-temperature work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bakers in New Zealand?**
+A: Junior baker annual salary about NZ$40,000-$50,000, intermediate about NZ$50,000-$60,000, senior supervisor up to NZ$60,000-$80,000. Hourly wage typically NZ$20-$40, median wage requirement (NZ$29.66/hour) is the immigration threshold.
+
+**Q: How can bakers immigrate to New Zealand under Green List Tier 1?**
+A: Need a genuine job offer meeting the salary requirement (at least NZD 29.66 per hour), then directly apply for Green List Tier 1 residence visa. No need to work two years first; can bring spouse and children for immigration.
+
+**Q: What qualifications do I need to be a baker in New Zealand?**
+A: Typically employers do not require a degree, but completing the New Zealand Certificate in Baking (Level 4) can boost competitiveness. A basic food safety certificate is mandatory. Overseas qualifications need NZQA assessment, but short training courses make job hunting easier.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Baker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for bakers in New Zealand?**
-答：Entry-level bakers earn NZD 40,000-50,000 per year, mid-level NZD 50,000-60,000, and senior supervisors NZD 60,000-80,000. The median wage threshold of NZD 29.66 per hour is required for immigration.
-
-**问：How can a baker immigrate via Green List Tier 1?**
-答：You need a genuine job offer meeting the median wage (at least NZD 29.66/hour). Then you can directly apply for Green List Tier 1 residence visa without working for two years first, and include your partner and dependent children.
-
-**问：What qualifications do I need to work as a baker in New Zealand?**
-答：Employers generally don't require formal qualifications, but completing a New Zealand Certificate in Baking (Level 4) helps. Holding a food safety certificate is mandatory. Overseas qualifications need NZQA assessment, but short training courses are more practical.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

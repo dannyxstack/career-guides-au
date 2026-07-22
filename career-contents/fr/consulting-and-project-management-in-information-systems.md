@@ -1,60 +1,96 @@
-# Consulting and Project Management in Information Systems（Consulting and Project Management in Information Systems）职业分析 · FR
+# Consulting and Project Management in Information Systems — career analysis · France
 
-**职业代码：M1806 – Consulting and Project Management in Information Systems。**
+**Occupation code: M1806 (ROME)**
 
-Responsible for advising, planning, and managing information system projects, coordinating between technical teams and business needs to ensure timely delivery and quality.
+Responsible for consulting, planning, and implementation management of enterprise information system projects, coordinating technical teams and business needs to ensure projects are delivered on time and meet quality standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年 | $8,000~$12,000（公立大学或商学院，含学徒制） |
-| 工程师文凭（Bac+5） | 5年 | $3,000~$10,000（工程师学院，可通过alternance减免学费） |
-| 职业学士（Bac+3） | 3年 | $5,000~$8,000（适合已获BTS/DUT者，通常半工半读） |
+| Master's (BAC+5) | 5 years | $8,000~$12,000 (Public universities or business schools, including apprenticeships) |
+| Engineering Diploma (BAC+5) | 5 years | $3,000~$10,000 (Engineering colleges can reduce tuition fees through alternance) |
+| Vocational Bachelor (BAC+3) | 3 years | $5,000~$8,000 (Suitable for those who have obtained BTS/DUT, usually working and studying part-time) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理专业认证（PMP） | PMI | 可选 | 国际认可，提升竞争力，非强制 |
-| 信息系统审计与控制证书（CISA） | ISACA | 可选 | 适合咨询方向，非强制 |
-| 工程师文凭或硕士学历 | 法国教育部认可的院校 | 必备 | 多数雇主要求Bac+5，强制 |
+| Engineer diploma or master's degree | Institutions recognized by the French Ministry of Education | Required | Most employers require Bac+5, mandatory |
+| Project Management Professional (PMP) | PMI | Optional | Internationally recognized, enhancing competitiveness, not mandatory |
+| Information Systems Audit and Control Certificate (CISA) | ISACA | Optional | Suitable for consultation directions, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国数字化转型持续推动该职业需求，尤其在巴黎及大都市区。企业上云、数据治理、AI集成项目激增，就业市场活跃。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France's digital transformation continues to drive demand for this profession, especially in Paris and the metropolitan area. Enterprise cloud adoption, data governance, and AI integration projects have surged, and the job market is active.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，根据公司规模和地点 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪，项目经理或咨询经理级别 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary, depending on company size and location |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $65,000~$85,000 | Pre-tax annual salary, project manager or consulting manager level |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可晋升为高级项目经理、IT总监或咨询合伙人。积累经验后可转向独立顾问或创业，薪资随项目复杂度显著增长。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Project manager role is moderately affected by AI: data tasks like scheduling and budget tracking can be automated, but stakeholder coordination and risk decisions still require human judgment. Entry-level jobs face more competition due to widespread basic project management tools, but senior positions demand more interpersonal skills.
+
+Promotion to Senior Project Manager, IT Director, or Consulting Partner. After gaining experience, you can move to independent consulting or entrepreneurship, with salaries increasing significantly with project complexity.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of project progress reports, status updates, and dashboards
+- Using AI tools for resource conflict detection and basic scheduling optimization
+- Automated sending of risk alerts and milestone tracking notifications
+- Automatically organizing meeting minutes and action items via natural language processing
+- Use Budget Tracking Systems to Automatically Monitor Spending Variances
+
+**Where AI augments the role:**
+
+- AI analyzes project data in real time to help project managers identify risks and bottlenecks faster
+- Smart scheduling tools provide solution suggestions to aid resource allocation decisions
+- AI prediction models provide warnings on cost and timeline deviations, enhancing control capabilities
+- Automated reporting frees up time, allowing managers to focus more on strategic communication and stakeholder management
+- Virtual assistant handles routine queries and documents to improve work efficiency
+
+**Human moat:**
+
+- Complex stakeholder coordination and expectation management (especially cross-cultural and cross-departmental conflicts)
+- Making critical judgments and decisions under uncertainty (e.g., scope changes, risk responses)
+- Leadership and team motivation to build high-performance culture
+- Client relationship and trust building, non-standard solution design
+- Integrating cross-domain knowledge (technical, business, regulatory) for overall control
+
+**Skills to build:**
+
+- AI project management tools (e.g., Asana AI, Jira AI, Microsoft Project Copilot)
+- Data analysis and visualization (Power BI, Tableau)
+- Agile and Lean methodology (Scrum, SAFe) certifications
+- Negotiation and conflict resolution skills
+- Strategic thinking and business acumen
+- Virtual team management and digital communication tools
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -63,67 +99,66 @@ Responsible for advising, planning, and managing information system projects, co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (EU Directive)） | 适合高技能人才，需提供年薪≥€41,701的合同，有效期4年，可续签 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高等专业工作，年薪需≥€53,835，快速通道申居留 |
-| Subclass Salarié（Employee Work Permit） | 受雇于法国公司，需劳工许可，年薪无硬性要求但需符合行业标准 |
+| Subclass Passeport Talent (Talent Passport (EU Directive)) | Suitable for highly skilled talent, offering a contract with an annual salary of €≥41,701, valid for 4 years, renewable with the option to renew |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for higher professional positions, with an annual salary ≥of €53,835 and fast-track residency applications |
+| Subclass Salarié (Employee Work Permit) | Employed by a French company, labor permit required, no strict annual salary requirement but must meet industry standards |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Consulting and Project Management in Information Systems？**
-- 逻辑思维强、善于沟通，喜欢在技术与业务间搭桥
-- 有项目管理经验或信息系统背景，追求高薪与职业发展
-
-**谁不适合学Consulting and Project Management in Information Systems？**
-- 不喜欢频繁沟通与协调
-- 厌恶高压、快节奏项目环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong logical thinking, good at communication, and enjoys bridging technology and business
+- Those with project management experience or a background in information systems, pursuing high salaries and career advancement
+
+**Who is not suited**
+- Dislikes frequent communication and coordination
+- Dislikes high-pressure, fast-paced project environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this profession in France?**
+A: Entry-level salary €35,000-€42,000 per year, mid-level €45,000-€60,000, senior €65,000-€85,000, higher in consulting or financial IT projects.
+
+**Q: Is it easy for non-EU immigrants to obtain a French work visa?**
+A: This occupation is in high demand and can be applied for through the Talent Passport or EU Blue Card. Employers must provide contracts that meet the salary threshold, with a relatively high success rate.
+
+**Q: What is the minimum academic requirement in France?**
+A: The minimum requirement is Bac+3 (vocational bachelor's degree), but Bac+5 (master's or engineer) is preferred and accepts foreign equivalents.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Consulting and Project Management in Information Systems的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in France?**
-答：Junior: €35-42k, Mid: €45-60k, Senior: €65-85k gross annual; consulting or fintech roles pay higher.
-
-**问：Is it easy for non-EU immigrants to get a work visa for this occupation?**
-答：Yes, as a shortage occupation, you can apply for Talent Passport or EU Blue Card with a qualifying job offer.
-
-**问：What is the minimum education requirement in France?**
-答：Minimum Bac+3 (professional bachelor), but Bac+5 (master or engineer degree) preferred; foreign degrees accepted.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

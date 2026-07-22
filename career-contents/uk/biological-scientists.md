@@ -1,59 +1,95 @@
-# Biological scientists（Biological scientists）职业分析 · UK
+# Biological scientists — career analysis · United Kingdom
 
-**职业代码：2112 – Biological scientists。**
+**Occupation code: 2112 (SOC)**
 
-Biological scientists study the morphology, structure, and physical characteristics of living organisms, including their inter-relationships, environments, and diseases, supporting advancements in medicine, agriculture, and environmental science.
+Biological scientists study the morphology, structure, physiology, interrelationships, and diseases of organisms, covering molecular biology, ecology, genetics, and other fields, providing fundamental research support for medicine, agriculture, and environmental science.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$9,250（英国本科国际生学费约20,000-30,000英镑/年） |
-| 硕士 | 1年 | $15,000~$30,000（硕士学费因学校和项目而异） |
-| 博士 | 3-4年 | —（博士通常有奖学金或助学金覆盖） |
+| Bachelor's degree | 3 years | $9,250~$9,250 (UK undergraduate international tuition approx £20,000-30,000 per year) |
+| Master's degree | 1 year | $15,000~$30,000 (Master's tuition varies by school and program) |
+| Doctorate | 3-4 years | $0~$0 (PhDs are usually covered by scholarships or assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学或相关学科荣誉学士学位 | 英国大学 | 必备 | 通常要求2:1或以上等级 |
-| 博士学位 | 英国大学 | 可选 | 高级研究职位通常要求博士学历 |
+| Honours bachelor degree in biology or related discipline | UK universities | Required | Typically requires a 2:1 degree classification or higher |
+| Doctoral degree (PhD) | UK universities | Optional | Advanced research positions typically require a doctoral degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 26,500。英国生物科学领域就业稳定增长，尤其在生物技术、制药和环境咨询行业。政府研发投入和生物经济战略推动需求，但学术职位竞争激烈。预计2023-2033年岗位增长约5-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 26,500. Steady employment growth in the UK bioscience sector, especially in biotechnology, pharmaceuticals, and environmental consulting. Government R&D investment and bioeconomy strategy drive demand, but academic positions are highly competitive. Estimated 5-10% job growth from 2023-2033.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 研究助理或技术员 |
-| 中级（4-7年） | $32,000~$45,000 | 高级研究员或博士后 |
-| 高级（8年以上） | $45,000~$65,000 | 首席科学家或学术讲师 |
+| Median salary | $45,382 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Research Assistant or Technician |
+| Mid-level (4-7 years) | $32,000~$45,000 | Senior Researcher or Postdoctoral Fellow |
+| Senior (8+ years) | $45,000~$65,000 | Chief Scientist or Academic Lecturer |
+| average salary | $52,019 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级研究人员通常担任研究助理或博士后，积累经验后可晋升为高级研究员或项目负责人。部分转向工业界（如制药、生物技术）担任科学家或管理职位，也可进入学术界成为讲师或教授。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
+
+Junior researchers typically work as research assistants or postdocs, and with experience can advance to senior researcher or project leader. Some transition to industry (e.g., pharmaceuticals, biotechnology) as scientists or management roles, or enter academia as lecturers or professors.
+
+**Tasks most exposed to AI:**
+
+- Standardized molecular cloning, PCR, and other lab procedures (performed by automated lab platforms)
+- Large-scale genomic/proteomic data comparison and annotation (performed by AI algorithms)
+- Literature review and meta-analysis (extracting key information automatically using natural language processing)
+- Routine microscope image classification (e.g., cell counting, phenotype recognition)
+- Experiment protocol optimisation and reagent inventory management (smart scheduling system)
+
+**Where AI augments the role:**
+
+- Hypothesis generation: AI analyzes vast literature and databases to recommend novel research paths
+- Multi-omics data integration: AI correlates genomics, transcriptomics, proteomics data to discover biomarkers
+- Complex experiment design: AI simulates experimental conditions, predicts results, and reduces trial and error.
+- Personalized medical plans: AI-assisted treatment strategies based on patient multimodal data
+- Scientific writing assistance: AI-generated drafts, charts to boost paper output efficiency
+
+**Human moat:**
+
+- Ability to propose original scientific questions and disruptive hypotheses
+- Creativity in designing novel experiments to verify unknown mechanisms.
+- Interdisciplinary integration and insight into industry pain points (e.g., agricultural stress resistance).
+- Ethical judgment and public policy recommendations (e.g., gene editing compliance)
+- Reputation building and academic community network maintenance
+
+**Skills to build:**
+
+- Machine learning basics (scikit-learn, TensorFlow)
+- Bioinformatics tools (Python/R, Galaxy platform)
+- Data visualization and explainable AI techniques.
+- Operation of automated laboratory systems (e.g. liquid handling workstations)
+- Ethics and compliance (e.g., biosecurity regulations)
+- Cross-disciplinary communication (translating biological problems into computational models)
+
+**Key growth areas:**
 
 - Biotechnology
 - Pharmaceutical R&D
@@ -62,68 +98,67 @@ Biological scientists study the morphology, structure, and physical characterist
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的合格岗位，职业代码2112在可担保职业列表中 |
-| Subclass Global Talent（Global Talent visa） | 适用于在科学领域具有杰出才能或潜力的人才，无需雇主担保 |
-| Subclass Graduate（Graduate visa） | 适用于在英国完成学位的国际学生，允许毕业后工作2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to eligible positions with employer sponsorship; occupation code 2112 is on the eligible occupations list. |
+| Subclass Global Talent (Global Talent visa) | For individuals with outstanding talent or potential in science, no employer sponsorship required |
+| Subclass Graduate (Graduate visa) | Applicable to international students who complete a degree in the UK, allowing them to work for 2 years (3 years for PhD) after graduation |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biological scientists？**
-- 对生命科学有强烈好奇心，热爱实验室工作
-- 具备严谨的逻辑思维和数据分析能力
-- 有志于在生物技术、医药或环境领域从事科研
-
-**谁不适合学Biological scientists？**
-- 不喜欢长期学术训练和竞争压力
-- 偏好稳定高薪，不愿承担科研不确定性
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong curiosity about life sciences and passion for laboratory work
+- Possess rigorous logical thinking and data analysis skills
+- Aspiring to conduct scientific research in biotechnology, medicine, or environmental fields
+
+**Who is not suited**
+- Dislikes long-term academic training and competitive pressure
+- Prefer stable high income, unwilling to undertake research uncertainty
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Biologist?**
+A: Entry-level approximately £25,000-32,000, with experience, senior scientists can reach £45,000-65,000. Industry salaries are usually higher than academia.
+
+**Q: Can biological scientists stay in the UK via skilled migration?**
+A: Yes. This occupation is on the Skilled Worker visa list, also eligible via Global Talent visa (must demonstrate exceptional achievement) or Graduate visa as a transition.
+
+**Q: What certifications or licenses are required?**
+A: A specific practicing license is generally not required, but a PhD is a common requirement for advanced research positions. Some roles may require safety training (e.g., COSHH).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Biological scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for biological scientists?**
-答：Entry-level salaries range from £25,000 to £32,000, while senior scientists can earn £45,000 to £65,000. Industry roles typically pay more than academia.
-
-**问：Can biological scientists migrate to the UK through work visas?**
-答：Yes. This occupation is eligible for the Skilled Worker visa, and also the Global Talent visa for exceptional talent, or the Graduate visa for recent graduates.
-
-**问：What certifications or licenses are required?**
-答：No specific license is required, but a PhD is common for senior research roles. Some positions may require safety training such as COSHH.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

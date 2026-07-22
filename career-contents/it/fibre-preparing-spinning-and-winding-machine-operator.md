@@ -1,60 +1,96 @@
-# Fibre Preparing, Spinning and Winding Machine Operator（Fibre Preparing, Spinning and Winding Machine Operator）职业分析 · IT
+# Fibre Preparing, Spinning and Winding Machine Operator — career analysis · Italy
 
-**职业代码：8151 – Fibre Preparing, Spinning and Winding Machine Operator。**
+**Occupation code: 8151 (ISCO08)**
 
-Operates spinning and winding machines to process fibers into yarn, including machine setup, monitoring, and maintenance to ensure production quality and efficiency.
+Operate spinning and winding equipment to process fiber raw materials into yarn, responsible for machine setup, monitoring, and maintenance to ensure production quality and efficiency.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业培训 | 3-4年（职业高中） | —（公立职业高中免费，仅需少量书本费） |
-| 短期职业课程 | 6-12个月 | $1,500~$5,000（私人培训机构或行业协会课程） |
+| High school / vocational training | 3-4 years (vocational high school) | $0~$2,000 (Public vocational high schools are free, only a small fee for books) |
+| Short-term vocational course | 6–12 months | $1,500~$5,000 (Courses from private training institutions or industry associations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织操作工职业资格 | 意大利纺织协会（Associazione Tessile Italiana） | 可选 | 可自愿获得，有助于就业 |
-| 高中/职业高中毕业证 | 教育部认可学校 | 必备 | 基础学历要求 |
+| High school/vocational high school diploma | Schools accredited by the Ministry of Education | Required | Basic education requirements |
+| Textile operator vocational qualification | Italian Textile Association (Associazione Tessile Italiana) | Optional | Can be obtained voluntarily; helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。意大利纺织行业面临数字化转型和自动化升级，但基础操作岗位需求稳定，尤其是高端面料产区（如比耶拉、普拉托）仍需要熟练操作工。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. The Italian textile industry is undergoing digital transformation and automation upgrades, but demand for basic operational roles remains stable, especially in high-end fabric regions (such as Biella and Prato) where skilled operators are still needed.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含奖金和补贴 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含加班费 |
-| 高级（7年以上） | $28,000~$34,000 | 税前年薪，含绩效奖金 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including bonuses and allowances |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual salary before tax, including overtime pay |
+| Senior (7+ years) | $28,000~$34,000 | Annual pre-tax salary, including performance bonuses. |
+| average salary | $25,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从初级操作员晋升为班组长或质检员，也可通过培训转向纺织机械维护或技术员岗位。部分经验丰富者可成为生产主管。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+This occupation faces a high risk of automation, with AI and advanced machinery taking over core tasks such as yarn quality monitoring and machine parameter adjustments. Entry-level positions will be significantly reduced, requiring a shift towards equipment maintenance and process optimisation.
+
+Can progress from junior operator to team leader or quality inspector, or transition to textile machinery maintenance or technician roles through training. Some experienced workers may become production supervisors.
+
+**Tasks most exposed to AI:**
+
+- Manual inspection of yarn tension and thickness (replaced by AI vision system)
+- Manually adjust machine parameters based on raw material batch (AI auto-tuning)
+- Simple fault troubleshooting for equipment anomalies (diagnostic system automatically alerts).
+- Production data recording and report generation (IoT and ERP automatic collection)
+- Repetitive loading, unloading, and joint operations (performed by robotic arm)
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance to reduce unplanned downtime.
+- Optimize spinning process parameters using big data analytics to improve yield rate
+- AI scheduling system enables multi-machine collaboration to improve production efficiency
+- AR remote assistance for experts in complex repairs
+- Intelligent material handling systems reduce manual handling and lower workplace injuries.
+
+**Human moat:**
+
+- Process experience with special fibers (e.g., high-end wool, carbon fiber).
+- Ability to diagnose and repair multi-device linkage faults
+- Flexibility in small-batch custom production
+- Communication and coordination with other processes (e.g., weaving)
+- Environmental and safety management responsibilities
+
+**Skills to build:**
+
+- Industrial robot operation and maintenance
+- PLC and automation control system basics
+- Data analysis and production process optimization
+- Remote monitoring and diagnosis of smart devices
+- Industrial Internet of Things (IIoT) basics.
+- 3D printing and new fiber processing technologies
+
+**Key growth areas:**
 
 - Textile automation
 - Technical yarns
@@ -63,65 +99,67 @@ Operates spinning and winding machines to process fibers into yarn, including ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟工人，每年有配额，需雇主担保 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高等学历或经验丰富的工人，薪资要求较高，此职业通常不满足 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, there is an annual quota, and employer sponsorship is required. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated or experienced workers, salary expectations are high; this occupation typically does not meet requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fibre Preparing, Spinning and Winding Machine Operator？**
-- 动手能力强，喜欢重复性工作
-- 能在嘈杂环境中长时间站立工作
-- 对纺织工艺有兴趣，愿意学习机械操作
+**Who is suited**
+- Strong hands-on ability, prefers repetitive work
+- Able to stand for long periods in noisy environments
+- Interest in textile craftsmanship, willing to learn machine operation
 
-**谁不适合学Fibre Preparing, Spinning and Winding Machine Operator？**
-- 对噪音和粉尘敏感者
-- 渴望脑力创新或高薪职业者
+**Who is not suited**
+- Sensitive to noise and dust
+- Those seeking intellectual innovation or high-paying careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for an Italian textile operator?**
+A: Entry-level annual salary approx. €18,000-22,000, senior up to €34,000 before tax.
+
+**Q: How can non-EU citizens obtain an Italian textile operator work visa?**
+A: Primarily through the Decreto Flussi quota work visa, requiring employer sponsorship and meeting annual quotas.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Can be promoted to team leader, quality inspector, or technician, or transition to maintenance roles through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Fibre Preparing, Spinning and Winding Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for textile machine operators in Italy?**
-答：Entry-level annual salary is around €18,000-€22,000, senior can reach €34,000 gross.
-
-**问：How can non-EU citizens obtain a work visa for textile operator jobs in Italy?**
-答：Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship and annual quota availability.
-
-**问：Are there promotion opportunities for this occupation?**
-答：Yes, can advance to shift supervisor, quality inspector, or technician, or move into maintenance roles.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

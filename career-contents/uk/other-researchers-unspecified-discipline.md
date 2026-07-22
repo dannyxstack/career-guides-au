@@ -1,60 +1,96 @@
-# Other researchers, unspecified discipline（Other researchers, unspecified discipline）职业分析 · UK
+# Other researchers, unspecified discipline — career analysis · United Kingdom
 
-**职业代码：2162 – Other researchers, unspecified discipline。**
+**Occupation code: 2162 (SOC)**
 
-Conduct research across disciplines for academic purposes or to support development of new products and services, typically in universities, research institutes, or corporate R&D.
+Conduct academic research or systematic investigations for new product/service development in multiple disciplines, applicable in universities, research institutes, or corporate R&D departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$38,000（英格兰本科年学费，国际生更高） |
-| 硕士 | 1年 | $12,000~$35,000（授课型硕士，国际生费用更高） |
-| 博士 | 3-4年 | $15,000~$45,000（博士年学费，通常有奖学金或资助） |
+| Bachelor's degree | 3 years | $9,250~$38,000 (Annual undergraduate tuition in England, higher for international students) |
+| Master's degree | 1 year | $12,000~$35,000 (Taught master's degree, higher fees for international students) |
+| Doctorate | 3-4 years | $15,000~$45,000 (Annual PhD tuition fees, usually with scholarships or funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 英国大学 | 必备 | 核心资质，通常要求相关学科博士 |
-| 研究技能证书 | Vitae等 | 可选 | 如RDF框架培训，非强制但有利 |
-| 学术写作与发表 | 无特定机构 | 可选 | 以发表论文证明能力 |
+| Doctoral degree (PhD) | UK universities | Required | Core qualification, typically requires a PhD in a relevant field |
+| Research skills certificate. | Vitae, etc. | Optional | Training such as the RDF framework is not mandatory but beneficial. |
+| Academic writing and publication | No specific institution | Optional | Demonstrating ability by publishing research papers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 150,000。英国研究领域就业稳定，但竞争激烈，尤其依赖政府及企业研发资金。博士后职位多为固定期限合同，转向产业界机会增多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 150,000. Employment in the UK research sector is stable but competitive, heavily reliant on government and corporate R&D funding. Postdoctoral positions are mostly fixed-term contracts, with increasing opportunities to transition to industry.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 研究助理或初级研究员 |
-| 中级（3-8年） | $35,000~$50,000 | 博士后或高级研究员 |
-| 高级（8年以上） | $50,000~$80,000 | 首席研究员或大学讲师级 |
+| Median salary | $44,580 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Research assistant or junior researcher |
+| Mid-level (3–8 years) | $35,000~$50,000 | Postdoctoral researcher or senior researcher |
+| Senior (8+ years) | $50,000~$80,000 | Chief researcher or university lecturer level |
+| average salary | $49,461 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中上（★★★½☆）。** 常见路径：研究助理→研究员（博士后）→高级研究员→首席研究员（PI）或转向产业研发管理。部分进入政策咨询或科技转移领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Other researchers face mixed AI impact: routine literature reviews, data collation, and preliminary analysis are easily replaced by AI, but complex research design, interdisciplinary insights, and ethical judgment remain human-dependent, with roles shifting toward higher value.
+
+Common path: research assistant → researcher (postdoc) → senior researcher → principal investigator (PI) or transitioning to industrial R&D management. Some enter policy consulting or technology transfer fields.
+
+**Tasks most exposed to AI:**
+
+- Literature retrieval and summary generation
+- Basic data cleaning and statistical analysis
+- Drafting initial experimental report
+- Creating structured data visualization charts.
+- Research proposal template completion
+
+**Where AI augments the role:**
+
+- Using AI for large-scale literature meta-analysis to quickly identify research trends
+- AI-assisted experimental design optimization and parameter simulation
+- Automatically generate research data insights and hypothesis suggestions
+- Interdisciplinary knowledge association and innovative idea mining
+- AI-driven personalized research reviews and knowledge graph construction
+
+**Human moat:**
+
+- Original research question definition and hypothesis construction
+- Interdisciplinary integration and creative thinking
+- Complex Ethical Judgment and Research Integrity Decision-Making
+- In-depth interaction in field research and qualitative studies
+- Policy translation of research findings and stakeholder communication
+
+**Skills to build:**
+
+- Proficient in using AI-assisted research tools (e.g., Elicit, Scite, ChatGPT for Research)
+- Core data analysis and programming (Python/R)
+- Research design methodology and statistical model selection
+- Cross-disciplinary collaboration and communication skills
+- Research ethics and AI ethics review
+- Data visualization and narrative presentation
+
+**Key growth areas:**
 
 - R&D investment
 - STEM focus
@@ -63,69 +99,68 @@ Conduct research across disciplines for academic purposes or to support developm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 最常见路径，需雇主担保，达到最低薪资要求（通常£26,200或£38,700，视职业代码） |
-| Subclass Global Talent（Global Talent visa） | 适用于在科研领域有杰出成就或潜力的研究员，无需雇主担保，可自雇 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可留英工作2年（博士3年），无雇主担保要求，可积累经验后转工签 |
-| Subclass Scale-up（Scale-up visa） | 适合快速成长企业的研究员，需雇主担保，首6个月后自由度较高 |
+| Subclass Skilled Worker (Skilled Worker visa) | Most common pathway, requires employer sponsorship and meeting minimum salary requirements (usually £26,200 or £38,700, depending on occupation code) |
+| Subclass Global Talent (Global Talent visa) | For researchers with outstanding achievements or potential in scientific fields, no employer sponsorship required, can be self-employed. |
+| Subclass Graduate (Graduate visa) | UK graduates can work in the UK for 2 years (3 years for PhD) without employer sponsorship, can gain experience then switch to work visa |
+| Subclass Scale-up (Scale-up visa) | Suitable for researchers in fast-growing companies requiring employer sponsorship, with higher flexibility after the first 6 months |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other researchers, unspecified discipline？**
-- 拥有博士学位且热爱学术研究
-- 具备独立研究及论文发表能力
-- 偏好稳定但竞争性强的学术环境
-
-**谁不适合学Other researchers, unspecified discipline？**
-- 追求高薪且希望快速职业晋升
-- 不喜欢长时间独立工作及频繁申请经费
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a PhD and have a passion for academic research.
+- Capable of independent research and paper publication
+- Prefers a stable but competitive academic environment
+
+**Who is not suited**
+- Seeking high salary and fast career advancement
+- Dislikes long periods of independent work and frequent grant applications
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth prospect for researchers?**
+A: Entry-level researchers earn around £28,000-35,000 per year, while senior researchers can earn over £50,000. Income growth is closely tied to research outcomes, funding acquisition, and promotions.
+
+**Q: As a researcher, what are the options for applying for a UK work visa?**
+A: Common pathways include the Skilled Worker visa (requires employer sponsorship), Global Talent visa (for outstanding researchers), and Graduate visa (for graduate transition).
+
+**Q: Can non-PhD holders work as researchers?**
+A: Some research assistant positions accept a master's degree, but independent research and promotion typically require a PhD.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中上（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Other researchers, unspecified discipline的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary progression for researchers?**
-答：Junior researchers earn around £28,000-35,000, while senior researchers can exceed £50,000. Growth depends on research output, grant success, and career progression.
-
-**问：What visa options are available for researchers in the UK?**
-答：Common routes include Skilled Worker visa (employer sponsorship), Global Talent visa (for exceptional researchers), and Graduate visa (for recent graduates).
-
-**问：Can I work as a researcher without a PhD?**
-答：Some research assistant roles accept a master's degree, but independent research and advancement typically require a PhD.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

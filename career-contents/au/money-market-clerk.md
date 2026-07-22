@@ -1,60 +1,96 @@
-# Money Market Clerk（Money Market Clerk）职业分析 · 澳大利亚
+# Money Market Clerk — career analysis · Australia
 
-**职业代码：552313 – Money Market Clerk。**
+**Occupation code: 552313 (ANZSCO)**
 
-Money market clerks handle money market transactions, including recording trades, reconciling accounts, preparing reports, and assisting traders. They work in banks, investment firms, and financial institutions to ensure transaction accuracy.
+Money market clerks handle money market transactions, including recording trades, reconciling accounts, preparing reports and assisting traders. They work in banks, investment firms and financial institutions to ensure transactions are accurate.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书/文凭 | 1年 | $5,000~$12,000（如金融或商业相关证书） |
-| 学士学位 | 3年 | $25,000~$45,000（金融、会计或商科学位） |
+| Vocational education certificate/diploma | 1 year | $5,000~$12,000 (e.g., finance or business related certifications) |
+| Bachelor's degree | 3 years | $25,000~$45,000 (Finance, accounting, or business degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融或商科学位 | 大学 | 可选 | 非强制，但雇主偏好 |
-| 职业培训证书 | TAFE等 | 可选 | 可选，如金融服务证书 |
+| Degree in finance or business | University | Optional | Not mandatory, but preferred by employers |
+| Vocational training certificate | TAFE, etc. | Optional | Optional, e.g., Certificate of Financial Services |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,200。受金融科技发展和自动化影响，货币市场文员需求预计缓慢下降。传统手工对账岗位减少，但具备数据分析和系统操作技能的人员仍有就业机会。主要就业集中于悉尼和墨尔本。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,200. Demand for money market clerks is expected to slowly decline due to fintech development and automation. Traditional manual reconciliation roles are decreasing, but those with data analysis and system operation skills still have employment opportunities. Main employment is concentrated in Sydney and Melbourne.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 随经验增加 |
-| 中级（3-5年） | $60,000~$75,000 | 含奖金 |
-| 高级（5年以上） | $75,000~$90,000 | 主管级 |
+| Median salary | $78,052 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$60,000 | Increase with experience |
+| Mid-level (3–5 years) | $60,000~$75,000 | Including bonus |
+| Senior (5+ years) | $75,000~$90,000 | Supervisor level |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 职业晋升路径包括向交易员、资金经理或金融分析师发展。可通过考取CFA等资格或转向后台运营管理岗位提升职业层次。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Tasks such as transaction recording, data reconciliation, and report generation for money market clerks are easily automated by AI, significantly reducing demand for entry-level roles.
+
+Career progression paths include moving towards trader, fund manager, or financial analyst roles. Advancement can be achieved by obtaining qualifications such as CFA or transitioning to back-office operations management.
+
+**Tasks most exposed to AI:**
+
+- Manual entry and reconciliation of transaction data
+- Generates daily money market transaction reports.
+- Matching and confirming counterparty information
+- Settlement tracking after automated trading
+- Basic market data collection and organization
+
+**Where AI augments the role:**
+
+- Use AI tools for real-time market anomaly detection and alerts.
+- Leverage data analytics dashboards to optimize transaction execution efficiency
+- Quickly query transaction history and policies using natural language processing
+- Automatically generates compliance check reports, reducing manual review time.
+- Leveraging AI to predict liquidity needs, assisting cash management
+
+**Human moat:**
+
+- Professional judgment and communication for complex non-standard transactions
+- Ability to handle transaction anomalies and dispute resolution
+- Direct negotiation and relationship management with traders and clients
+- Responsibility for interpreting and implementing regulatory policy changes.
+- Flexibility and decision-making in cross-departmental collaboration.
+
+**Skills to build:**
+
+- Python or SQL data processing skills
+- Deployment and maintenance of RPA tools (e.g., UiPath)
+- Financial data analysis and visualization (Tableau/Power BI)
+- Basics of AI/machine learning in financial risk control
+- Understanding of blockchain and digital settlement systems
+- Advanced Excel modeling and automated macro writing
+
+**Key growth areas:**
 
 - Low demand
 - Automation impact
@@ -63,64 +99,66 @@ Money market clerks handle money market transactions, including recording trades
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 若雇主担保，可申请482签证，但该职业不在中长期清单上，需结合具体政策。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | If employer-sponsored, can apply for visa 482, but this occupation is not on the MLTSSL, so specific policies apply. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Money Market Clerk？**
-- 细心、对数字敏感，能处理大量交易数据
-- 具有金融基础知识，愿意从基层岗位做起
-- 适应办公室环境，具备良好沟通能力
+**Who is suited**
+- Detail-oriented, sensitive to numbers, able to handle large volumes of transaction data
+- Has basic financial knowledge and is willing to start from an entry-level position
+- Adaptable to office environments with good communication skills
 
-**谁不适合学Money Market Clerk？**
-- 不喜欢重复性、对数字不敏感
-- 追求高薪或快速晋升机会
+**Who is not suited**
+- Dislikes repetitive tasks, not sensitive to numbers
+- Seeking high salary or fast promotion opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for money market clerks?**
+A: Entry-level approximately AUD 50,000-60,000, mid-level AUD 60,000-75,000, senior AUD 75,000-90,000. Bonuses depend on company performance.
+
+**Q: Do money market clerks have skilled migration opportunities?**
+A: Almost none. This occupation is not on Australia's skilled migration occupation list and cannot be migrated via visas such as 189/190/491. Only possible through employer-sponsored 482 then 186, but it's difficult.
+
+**Q: How to advance from Money Market Clerk?**
+A: With accumulated experience, one can transition to roles such as trader, fund manager, or financial analyst. Professional certifications like CFA or further study are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Money Market Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for money market clerks?**
-答：Entry-level: AUD 50,000-60,000; Mid-level: AUD 60,000-75,000; Senior: AUD 75,000-90,000. Bonuses vary by company performance.
-
-**问：Are there skilled migration opportunities for money market clerks?**
-答：Very limited. The occupation is not on the skilled occupation list, so 189/190/491 visas are not available. Employer-sponsored 482 then 186 is possible but difficult.
-
-**问：How to advance from money market clerk?**
-答：With experience, you can move to trader, treasury manager, or financial analyst. CFA certification or further study is beneficial.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

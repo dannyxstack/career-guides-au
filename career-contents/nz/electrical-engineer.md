@@ -1,59 +1,94 @@
-# Electrical Engineer（Electrical Engineer）职业分析 · 新西兰
+# Electrical Engineer — career analysis · New Zealand
 
-**职业代码：233311 – Electrical Engineer。**
+**Occupation code: 233311 (ANZSCO)**
 
-Electrical engineers in New Zealand design and manage power systems, renewable energy projects, and industrial automation. Listed on Green List Tier 1 for direct residence, offering clear migration pathways.
+Electrical engineers in New Zealand design and manage power systems, renewable energy, and industrial automation projects; Green List Tier 1 direct residence occupation with clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $32,000~$45,000（学费每年约3.2万-4.5万新西兰元，奥克兰大学等公立大学） |
-| 研究生文凭/硕士 | 1-2年 | $35,000~$50,000（学费每年约3.5万-5万新西兰元，如坎特伯雷大学） |
+| Bachelor's degree | 4 years | $32,000~$45,000 (Tuition fees are about NZD 32k-45k per year at public universities like the University of Auckland.) |
+| Postgraduate diploma/master's | 1-2 years | $35,000~$50,000 (Tuition about NZ$35,000–50,000 per year, e.g., University of Canterbury) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工学学士（电气工程） | 新西兰工程技术大学 | 必备 | 需华盛顿协议认可，如奥克兰大学、坎特伯雷大学等 |
-| 特许专业工程师（CPEng） | 工程新西兰（Engineering New Zealand） | 可选 | 建议获取，提升就业和移民竞争力 |
-| 雅思6.5分 | IELTS | 必备 | 技术移民要求，单项不低于6.0 |
+| Bachelor of Engineering (Electrical Engineering) | University of Engineering and Technology, New Zealand | Required | Requires Washington Accord accreditation, e.g., University of Auckland, University of Canterbury, etc. |
+| IELTS 6.5 | IELTS | Required | Skilled migration requirement, no band lower than 6.0 |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Recommended to obtain to enhance employment and immigration competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。新西兰电力行业面临老化基础设施升级和可再生能源目标（2035年100%可再生电力）的挑战，电气工程师需求持续增长，尤其在奥克兰和基督城。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. New Zealand's electricity industry faces challenges of aging infrastructure upgrades and renewable energy targets (100% renewable electricity by 2035), with sustained demand for electrical engineers, especially in Auckland and Christchurch.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 应届毕业生或初级工程师，年薪7万-9万新西兰元 |
-| 中级（3-6年） | $90,000~$120,000 | 有3-6年经验，年薪9万-12万新西兰元 |
-| 高级（6年以上） | $120,000~$160,000 | 高级工程师或项目经理，年薪12万-16万新西兰元 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | Entry-level or junior engineer, annual salary NZD $70k-$90k |
+| Mid-level (3–6 years) | $90,000~$120,000 | 3-6 years of experience, annual salary NZD 90,000-120,000 |
+| Senior (6+ years) | $120,000~$160,000 | Senior engineer or project manager: annual salary NZD 120,000-160,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 初级工程师可向高级工程师或项目经理发展，也可专攻新能源、智能电网或工业自动化。注册工程师（CPEng）和工程新西兰会员资格有利于晋升和薪资提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI mainly enhances design simulation and documentation generation rather than replacing core engineering judgement; electrical engineers see strong demand due to energy transition, with their role amplified by AI rather than compressed.
+
+Junior engineers can advance to senior engineer or project manager, or specialize in new energy, smart grids, or industrial automation. Chartered Professional Engineer (CPEng) and Engineering New Zealand membership are beneficial for promotion and salary increase.
+
+**Tasks most exposed to AI:**
+
+- Manual calculation of cable current-carrying capacity, short circuit current, and other repetitive electrical calculations
+- Generate standard electrical drawings and BOM lists
+- Fill in compliance checklists and test report templates
+- Preliminary load analysis and energy efficiency estimation
+
+**Where AI augments the role:**
+
+- Using AI to accelerate power system simulations (e.g. AI modules in PSS/E, DIgSILENT)
+- Optimize distribution network topology and renewable energy grid integration using AI
+- AI-assisted drafting of technical specifications and tender documents
+- Identifying abnormalities in grid equipment using AI visual inspection
+- Predictive maintenance plan generation (based on AI analysis of historical data)
+
+**Human moat:**
+
+- Critical safety responsibilities (e.g., high-voltage system design approval, protection plan development)
+- Complex Communication and Negotiation with Clients, Contractors, and Regulators
+- Creative system integration and innovative solution design
+- Experience and intuition in on-site fault diagnosis and debugging
+- Professional ethics and statutory signing responsibilities
+
+**Skills to build:**
+
+- Automated power system analysis with Python scripting
+- Use AI tools (e.g., MATLAB AI toolbox, OpenAI API) for design optimization
+- Digital Twin and Simulation Modeling of Power Systems
+- Data analysis and visualization (Pandas, Power BI)
+- New energy technology (solar, storage, wind)
+- Project management and agile collaboration tools (Jira, Confluence)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Electrical engineers in New Zealand design and manage power systems, renewable e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 直接居留签证，适用于紧缺职业，无需工作经验即可申请，快速获得居留权。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制，学历、收入和注册工程师加分，满足条件可申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于找到认可雇主工作的申请人，工作后可转居留。 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Direct residence visa, applicable to shortage occupations, no work experience required for application, fast-track to residency. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, with points for qualifications, income, and registered engineer status, meeting conditions allows residency application. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable to applicants who have found a job with an accredited employer, with a pathway to residence after working. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Engineer？**
-- 适合有电气工程本科学历，寻求快速移民新西兰的技术人才
-- 适合对可再生能源、智能电网和工业自动化有浓厚兴趣的工程师
-- 适合英语能力较强，愿意在奥克兰或基督城等城市发展的专业人士
-
-**谁不适合学Electrical Engineer？**
-- 不适合不想从事设计或项目管理，偏好纯体力或简单操作者
-- 不适合对持续学习和注册考试缺乏热情的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for skilled talents with a bachelor's degree in electrical engineering seeking fast immigration to New Zealand
+- Suitable for engineers with strong interest in renewable energy, smart grids, and industrial automation
+- Suitable for professionals with strong English skills willing to develop in cities like Auckland or Christchurch
+
+**Who is not suited**
+- Not suitable for those who do not want to do design or project management and prefer purely physical or simple operations
+- Not suitable for those lacking enthusiasm for continuous learning and registration exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an electrical engineer in New Zealand?**
+A: Junior engineers earn approximately NZD 70,000–90,000, mid-level NZD 90,000–120,000, senior NZD 120,000–160,000, depending on company size and experience.
+
+**Q: How can an electrical engineer immigrate to New Zealand via the Green List?**
+A: This occupation is on the Green List Tier 1 and can directly apply for residence. Requires a NZ-recognized bachelor's degree or higher, and an IELTS score of 6.5.
+
+**Q: is New Zealand registered engineer qualification required?**
+A: Not mandatory, but obtaining CPEng will significantly enhance job opportunities and salary, and also help with skilled migration points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Electrical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for electrical engineers in New Zealand?**
-答：Entry-level: NZD 70,000-90,000; Mid-level: NZD 90,000-120,000; Senior: NZD 120,000-160,000, depending on company and experience.
-
-**问：How can an electrical engineer migrate to New Zealand via the Green List?**
-答：This role is on Green List Tier 1 for direct residence. You need an engineering NZ-recognized bachelor's degree or higher, and IELTS 6.5.
-
-**问：Is CPEng registration required?**
-答：Not mandatory, but obtaining CPEng significantly boosts job prospects and salary, and can help with migration points.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Research and development (r&d) managers（Research and development (r&d) managers）职业分析 · UK
+# Research and development (r&d) managers — career analysis · United Kingdom
 
-**职业代码：2161 – Research and development (r&d) managers。**
+**Occupation code: 2161 (SOC)**
 
-R&D managers plan, organise, coordinate and manage resources for systematic investigation to develop new products or enhance existing ones, combining technical expertise with strategic leadership.
+R&D Manager is responsible for planning, organizing, and coordinating resources to conduct systematic research for developing new products or enhancing existing products and services; it is a senior management and technical role.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（学士） | 3-4年 | $9,250~$38,500（英国本科国际学生学费约£15,000-£38,500/年；本土学生£9,250/年） |
-| 硕士（授课型） | 1年 | $15,000~$35,000（国际学生£15,000-£35,000；本土学生£10,000-£15,000） |
-| 博士 | 3-5年 | $15,000~$30,000（博士国际学生£15,000-£30,000/年，本土学生通常免学费或获资助） |
+| Bachelor's degree | 3-4 years | $9,250~$38,500 (UK undergraduate international student tuition is approximately £15,000-£38,500/year; domestic students pay £9,250/year) |
+| Master's (coursework) | 1 year | $15,000~$35,000 (International students £15,000-£35,000; domestic students £10,000-£15,000) |
+| Doctorate | 3-5 years | $15,000~$30,000 (PhD international students £15,000-£30,000/year, domestic students typically tuition-free or with funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关领域学士学位（如工程、科学） | 大学 | 必备 | 通常需2:1以上荣誉学位 |
-| 硕士或博士学位 | 大学 | 可选 | 高级岗位常见，非强制性但竞争力增强 |
-| 特许工程师（CEng）或同等专业认证 | 工程委员会（Engineering Council） | 可选 | 部分企业要求，可提升职业信誉 |
+| Relevant field bachelor's degree (e.g., engineering, science) | University | Required | Usually requires a 2:1 honours degree or above |
+| Master's or doctoral degree | University | Optional | Common for senior roles, not mandatory but enhances competitiveness |
+| Chartered Engineer (CEng) or equivalent professional certification | Engineering Council | Optional | Some companies require it, can enhance professional credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 48,000。英国研发投资持续增长，尤其在生命科学、清洁能源和数字技术领域，带动研发经理需求上升。预计至2030年岗位增长约8%，高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. R&D investment in the UK continues to grow, especially in life sciences, clean energy, and digital technology, driving demand for R&D managers. Jobs are expected to grow by about 8% by 2030, higher than average.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 助理研发经理或刚晋升的研发经理 |
-| 中级（4-8年） | $55,000~$75,000 | 多数研发经理处于此区间 |
-| 高级（9年以上） | $75,000~$110,000 | 研发高级经理、总监级 |
+| Median salary | $55,519 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Assistant R&D manager or newly promoted R&D manager |
+| Mid-level (4–8 years) | $55,000~$75,000 | Most R&D managers fall within this range. |
+| Senior (9+ years) | $75,000~$110,000 | R&D Senior Manager, Director-level |
+| average salary | $64,408 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从研究科学家、工程师或技术专家晋升，积累项目管理经验后可升任研发总监、首席技术官或副总裁。部分转入战略咨询或创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Engineering manager positions are mixedly affected by AI: routine monitoring tasks can be automated, but complex decisions and personnel management are irreplaceable. Entry requirements increase due to AI tools, but experienced managers benefit from AI enhancement.
+
+Usually promoted from research scientist, engineer, or technical expert. After accumulating project management experience, one can advance to R&D director, chief technology officer, or vice president. Some move into strategic consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Using AI to automatically generate project progress reports and status updates
+- Use AI for preliminary budget estimation and cost risk assessment
+- Automated assignment of routine tasks and resource scheduling (e.g., AI-based project management tools)
+- Use AI to screen resumes and conduct preliminary interview scheduling
+- Automatically monitor key performance indicators and trigger alerts
+
+**Where AI augments the role:**
+
+- AI provides project risk predictions and decision support, improving complex decision quality
+- Using AI to analyze historical data to optimize project planning and resource allocation
+- Use NLP tools to automatically generate meeting minutes and action items.
+- Accelerate feasibility analysis by simulating different project outcomes with AI
+- Using AI-driven collaboration tools to enhance team communication efficiency
+
+**Human moat:**
+
+- Interpersonal management skills like cross-team conflict resolution and staff motivation
+- Strategic decision-making and trade-offs under uncertainty and high risk
+- Deep understanding of and responsibility for engineering ethics and safety regulations
+- Building trust and long-term collaboration with senior management and clients
+
+**Skills to build:**
+
+- Mastering AI project management tools (e.g., Jira Automation, Asana Intelligence)
+- Learn data analysis basics, able to interpret AI-generated reports
+- Enhance personnel management and change leadership skills
+- Familiar with AI ethics and compliance applications
+- Learn soft skills for integrating AI tools across teams
+- Continuously follow the latest AI applications in engineering
+
+**Key growth areas:**
 
 - R&D investment
 - Life sciences
@@ -63,69 +98,68 @@ R&D managers plan, organise, coordinate and manage resources for systematic inve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于符合技能门槛的研发经理职位，需雇主担保，满足薪资要求（一般£38,700/年） |
-| Subclass Global Talent（Global Talent visa） | 适用于在科研领域有杰出成就或潜力的研发经理，无需雇主担保，可快速获得永居路径 |
-| Subclass Scale-up（Scale-up Worker visa） | 适用于符合规模增长企业条件的研发经理，需UKVI认可企业担保 |
-| Subclass Graduate（Graduate visa） | 适用于英国高校毕业生，可留英工作2-3年积累经验，之后转为技术工人签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | For R&D manager positions meeting skill thresholds, requiring employer sponsorship and meeting salary requirements (generally £38,700 per year). |
+| Subclass Global Talent (Global Talent visa) | For R&D managers with outstanding achievements or potential in scientific research, no employer sponsorship required, fast track to permanent residence |
+| Subclass Scale-up (Scale-up Worker visa) | Applicable to R&D managers in companies meeting growth scale requirements, requiring UKVI-approved employer sponsorship |
+| Subclass Graduate (Graduate visa) | Suitable for UK university graduates; can work in the UK for 2-3 years to gain experience, then switch to a Skilled Worker visa. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Research and development (r&d) managers？**
-- 拥有STEM博士或硕士背景，希望转向管理岗位的科研人员
-- 具备项目管理经验和战略思维的技术专家
-- 对创新和产品开发有热情，善于跨部门协调沟通
-
-**谁不适合学Research and development (r&d) managers？**
-- 不喜欢承担预算和人员管理责任，偏好纯技术工作
-- 无法适应快节奏、多项目并行的高压环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Researchers with a PhD or master's in STEM seeking to transition into management roles
+- Technical experts with project management experience and strategic thinking
+- Passion for innovation and product development, good at cross-departmental coordination and communication.
+
+**Who is not suited**
+- Dislike budget and personnel management responsibilities, prefer purely technical work
+- Unable to adapt to a fast-paced, multi-project high-pressure environment
+
+---
+
+## 8. FAQ
+
+**Q: Does the salary of an R&D manager meet the minimum salary requirement for skilled worker visas?**
+A: Yes, R&D manager salary typically ranges from £40,000-£110,000, above the general minimum of £38,700/year for Skilled Worker visa. However, check specific role salary meets Going Rate and occupation-specific standards.
+
+**Q: What is the main pathway for a R&D manager to apply for UK permanent residence?**
+A: You can apply for permanent residency after working continuously for 5 years on a Skilled Worker visa; after 3 years on a Global Talent visa. Must meet residency requirements and English language test.
+
+**Q: How can R&D managers improve their competitiveness in the job market?**
+A: It is recommended to obtain industry-related certifications (e.g., CEng), accumulate interdisciplinary project experience, develop business acumen and leadership skills, and stay updated with cutting-edge technologies. Participating in industry association activities is also helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Research and development (r&d) managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does the R&D manager salary meet the minimum salary requirement for a Skilled Worker visa?**
-答：Yes, R&D manager salaries typically range from £40,000 to £110,000, exceeding the general Skilled Worker minimum of £38,700 per year. However, the specific going rate for the occupation must be met.
-
-**问：What is the main route for R&D managers to obtain UK indefinite leave to remain (ILR)?**
-答：R&D managers can apply for ILR after 5 years on a Skilled Worker visa, or after 3 years on a Global Talent visa, subject to residency and English language requirements.
-
-**问：How can R&D managers improve their competitiveness in the job market?**
-答：Gain professional certifications (e.g., CEng), accumulate cross-disciplinary project experience, develop business acumen and leadership skills, stay updated with emerging technologies, and participate in industry associations.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

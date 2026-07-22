@@ -1,62 +1,98 @@
-# Public Prosecutor（Public Prosecutor）职业分析 · DE
+# Public Prosecutor — career analysis · Germany
 
-**职业代码：7314 – Public Prosecutor。**
+**Occupation code: 7314 (KldB)**
 
-Public prosecutors represent the state in criminal proceedings, investigating cases, deciding whether to press charges, and presenting evidence in court. This regulated legal profession requires a law degree and two state examinations.
+In the German judicial system, prosecutors represent the state by filing charges, investigating criminal cases, deciding whether to prosecute, and supporting charges in court. This career requires a law degree and passing two state exams, and is a regulated legal profession.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业（Abitur） | 12-13年 | —（公立学校免费） |
-| 大学法律学位（Staatsexamen） | 4-6年 | —（每学期约300欧元杂费） |
-| 见习期（Referendariat） | 2年 | —（带薪见习，月薪约1300-1500欧元） |
+| High school diploma (Abitur) | 12-13 years | $0~$0 (Free public schools.) |
+| University law degree (Staatsexamen) | 4-6 years | $0~$1,500 (Approximately 300 euros per semester in miscellaneous fees) |
+| Referendariat (internship period) | 2 years | $0~$0 (Paid internship, monthly salary approximately €1,300–1,500) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律学位（Erstes Juristisches Staatsexamen） | 德国大学 | 必备 | 完成大学法律教育并通过第一次国家考试 |
-| 见习期与第二次国家考试（Zweites Juristisches Staatsexamen） | 各州司法考试委员会 | 必备 | 完成两年见习并通过第二次国家考试，获得法官/检察官任职资格 |
-| 德国国籍或欧盟国籍 | 德国政府 | 必备 | 检察官通常要求德国或欧盟国籍，非欧盟公民极难进入 |
+| Law degree (Erstes Juristisches Staatsexamen) | German university | Required | Complete university legal education and pass the first state examination |
+| Internship period and Second State Examination (Zweites Juristisches Staatsexamen) | State Judicial Examination Committees | Required | Complete two-year traineeship and pass the second state examination to qualify as a judge or prosecutor |
+| German or EU nationality | German government | Required | Prosecutors typically require German or EU citizenship; non-EU citizens face extreme difficulty entering. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,500。德国检察官需求稳定，受政府预算和司法系统效率影响。随着犯罪复杂化（如网络犯罪），专业化需求增加。岗位竞争激烈，但长期看退休潮创造一定空缺。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,500. Demand for prosecutors in Germany is stable, influenced by government budgets and judicial system efficiency. Specialization demand increases with crime complexity (e.g., cybercrime). Competition is fierce, but long-term retirement waves create some vacancies.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $45,000~$55,000 | 根据州和级别，通常按Besoldungsordnung R1起薪 |
-| 中级（5-15年） | $60,000~$75,000 | 晋升后薪资提高，含津贴 |
-| 高级（15年以上/领导职位） | $80,000~$110,000 | 高级检察官或部门主管，R2及以上级别 |
+| Median salary | $73,584 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry-level (0-5 years) | $45,000~$55,000 | Starting salary typically based on Besoldungsordnung R1, depending on state and level |
+| Intermediate (5-15 years) | $60,000~$75,000 | Salary increases after promotion, including allowances. |
+| Senior (15+ years / Leadership roles) | $80,000~$110,000 | Senior prosecutor or department head, R2 level and above |
+| average salary | $82,860 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 晋升路径通常从初级检察官（Staatsanwalt）开始，可晋升为高级检察官（Oberstaatsanwalt）或部门主管（Abteilungsleiter），最终可能成为总检察长（Generalstaatsanwalt）或转任法官。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core reasoning and discretionary power of prosecutors are hard to replace, but AI will significantly enhance the efficiency of evidence review, document processing, and legal research. Entry-level positions are less affected by automation, and promotion pathways may be slightly adjusted due to the proliferation of auxiliary tools.
+
+Career progression usually starts from junior prosecutor (Staatsanwalt), can advance to senior prosecutor (Oberstaatsanwalt) or department head (Abteilungsleiter), eventually possibly becoming attorney general (Generalstaatsanwalt) or transferring to a judge role.
+
+**Tasks most exposed to AI:**
+
+- Preliminary screening and classification of electronic evidence
+- Template-based drafting and format proofreading of legal documents
+- Automated retrieval and summary generation of existing case precedents
+- Data entry and tracking for case management systems
+- Translation and multilingual processing of standardized legal documents
+
+**Where AI augments the role:**
+
+- Analysis of evidence contradictions based on large volumes of case files
+- Real-time semantic assistance and argument suggestions for court statements
+- Pattern recognition and anomaly alerts in legal reasoning
+- Data-driven reference for sentencing recommendations and bias detection.
+- Rapid cross-jurisdictional comparison of legal provisions for complex cases
+
+**Human moat:**
+
+- Independent exercise of prosecutorial discretion and legal interpretation
+- In-court improvisation and cross-examination skills
+- Intuitive judgment of the psychology of parties and witnesses.
+- Judicial ethical judgment and public interest balance
+- Multi-agency coordination with police, lawyers, and judges
+
+**Skills to build:**
+
+- Use of AI-assisted evidence analysis tools
+- Legal data visualization and statistical methods.
+- Basic programming (e.g., Python) for automated document processing
+- Digital forensics and electronic evidence chain management
+- AI ethics and algorithmic bias identification
+- Proficient use of multilingual legal translation tools
+
+**Key growth areas:**
 
 - Legal
 - Criminal justice
@@ -65,69 +101,68 @@ Public prosecutors represent the state in criminal proceedings, investigating ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，但检察官职位通常要求德国/欧盟国籍，因此极少适用。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于具有认可资质的专业人员，但检察官职位因国籍限制几乎不可能。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，但检察官职位需通过第二国家考试且需国籍，基本不可行。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, but prosecutor positions usually require German/EU nationality, so rarely applicable. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to professionals with recognized qualifications, but prosecutor positions are almost impossible due to nationality restrictions. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, but the prosecutor position requires passing the second state exam and citizenship, making it basically not feasible. |
 
-**PR难度：极高（★★★★★）。**
+**PR friendliness: very low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Prosecutor？**
-- 具有德国或欧盟国籍的法律毕业生
-- 对刑事司法有强烈兴趣、具备批判性思维和抗压能力者
-- 希望从事稳定公务员职业者
-
-**谁不适合学Public Prosecutor？**
-- 非欧盟公民或无德国长期居留权者
-- 不愿承受长时间高强度工作和考试压力者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Law graduates with German or EU nationality.
+- Those with strong interest in criminal justice, critical thinking, and stress tolerance
+- For those seeking a stable public service career
+
+**Who is not suited**
+- Non-EU citizens or those without a German long-term residence permit
+- Those unwilling to endure long hours of high-intensity work and exam pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of German prosecutors?**
+A: German prosecutors are paid according to the civil service salary scale (Besoldungsordnung R). Entry-level prosecutors earn approx. EUR 45,000-55,000 annually, senior prosecutors up to EUR 80,000-110,000. Salaries increase with rank and years of service.
+
+**Q: Can non-EU citizens become public prosecutors in Germany?**
+A: Almost impossible. Prosecutors typically require German or EU citizenship. Non-EU citizens, even with qualification recognition, cannot be appointed as prosecutors due to nationality restrictions. Rare exceptions are those with long-term German residence meeting specific conditions.
+
+**Q: What are the educational steps to becoming a prosecutor?**
+A: Must complete university legal education and pass the first state examination (approx. 4-6 years), followed by a 2-year internship (Referendariat) and passing the second state examination. The entire process takes about 6-8 years, and the exams are extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Public Prosecutor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a public prosecutor in Germany?**
-答：German public prosecutors are paid according to the civil service salary scheme (Besoldungsordnung R). Entry-level salaries range from €45,000 to €55,000 annually, while senior prosecutors can earn €80,000 to €110,000. Salaries increase with rank and seniority.
-
-**问：Can non-EU citizens become public prosecutors in Germany?**
-答：Almost impossible. Public prosecutors typically require German or EU citizenship. Even with credential recognition, non-EU citizens are barred by nationality requirements. Rare exceptions exist for long-term residents with special conditions.
-
-**问：What education is required to become a prosecutor in Germany?**
-答：You need a law degree and to pass the First State Examination (approx. 4-6 years), followed by a 2-year legal traineeship (Referendariat) and the Second State Examination. The entire process takes 6-8 years and is extremely challenging.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

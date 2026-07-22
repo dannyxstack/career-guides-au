@@ -1,60 +1,96 @@
-# Fur and leather preparing machine operator（Fur and leather preparing machine operator）职业分析 · IE
+# Fur and leather preparing machine operator — career analysis · Ireland
 
-**职业代码：8155 – Fur and leather preparing machine operator。**
+**Occupation code: 8155 (ISCO08)**
 
-Operates machines to prepare raw hides and skins for further processing, including cleaning, depilation, and tanning, supplying materials for leather goods production.
+Operate machinery to process raw hides and furs, including cleaning, dehairing, tanning and other preparatory work to supply materials for leather goods production.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（高中） | —（免费公立教育） |
-| 职业培训证书 | 1年 | $1,000~$3,000（如QQI Level 5课程，部分可申请资助） |
+| High school graduation | 4 years (high school) | $0~$0 (Free public education) |
+| Vocational training certificate | 1 year | $1,000~$3,000 (Such as QQI Level 5 courses, some may be eligible for funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| QQI Level 5 皮革加工证书 | QQI (Quality and Qualifications Ireland) | 可选 | 非强制，但有助于就业 |
-| 安全操作证书 | 雇主或培训机构 | 可选 | 部分雇主要求 |
+| QQI Level 5 Certificate in Leather Processing | QQI (Quality and Qualifications Ireland) | Optional | Not mandatory, but helpful for employment |
+| Safety operation certificate | Employer or training provider | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 120。爱尔兰皮革加工行业规模较小，就业机会有限，预计未来五年需求持平或略有下降，受进口皮革制品竞争和自动化影响。
+**Job demand: low (★½☆☆☆).** National workforce approx. 120. The Irish leather processing industry is relatively small with limited job opportunities; demand is expected to remain flat or decline slightly over the next five years due to competition from imported leather goods and automation.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从操作员起步，积累经验后可晋升为高级操作员或生产主管，也可转向皮革制品制造或质检岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Fur and leather preparation machine operators perform highly repetitive, physically intensive tasks. The entire raw hide processing workflow is being replaced by automated systems, leading to a sharp decline in demand and increasing career changers.
+
+Usually start as an operator, gain experience to advance to senior operator or production supervisor, or transition to leather goods manufacturing or quality inspection roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic cleaning and feather removal process
+- Automated mixing and feeding of tanning chemicals
+- Visual identification of hide grading and defect detection
+- Automated control of drying and re-moistening processes
+- Data recording and batch tracking
+
+**Where AI augments the role:**
+
+- AI-assisted quality inspection systems can improve defect detection accuracy
+- Automation control systems reduce chemical waste and pollution
+- Digital twin simulations to optimize production parameters
+- Remote monitoring and predictive maintenance reduce downtime
+- Supply chain optimization software reduces raw material costs
+
+**Human moat:**
+
+- Manual handling of abnormal hides (e.g., extreme flaws, special textures)
+- Emergency repair and on-site diagnosis of equipment faults
+- Flexible scheduling for custom small-batch production
+- Responsibility for Factory Safety and Environmental Compliance
+- Preservation and teaching of traditional craft heritage
+
+**Skills to build:**
+
+- Automated equipment operation and programming (PLC)
+- Robot Maintenance and Fault Diagnosis
+- data analysis and statistical quality process control
+- Environmental regulations and clean production technology
+- Supply Chain Management Basics
+- Cross-process communication and team collaboration
+
+**Key growth areas:**
 
 - stable
 - niche
@@ -63,65 +99,67 @@ Operates machines to prepare raw hides and skins for further processing, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪至少30,000欧元，雇主提供工作机会。 |
-| Subclass EEA/Swiss freedom of（EEA/Swiss freedom of movement） | 欧盟/瑞士公民可自由在爱尔兰工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requires annual salary of at least €30,000 and a job offer from an employer. |
+| Subclass EEA/Swiss freedom of (EEA/Swiss freedom of movement) | EU/Swiss citizens can freely work in Ireland without a visa. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fur and leather preparing machine operator？**
-- 喜欢动手操作机器的人
-- 对皮革加工感兴趣的人
-- 愿意从事重复性体力工作的人
+**Who is suited**
+- People who enjoy hands-on machine operation.
+- People interested in leather processing.
+- People willing to engage in repetitive physical work.
 
-**谁不适合学Fur and leather preparing machine operator？**
-- 寻求高收入或职业发展快的人
-- 对化学气味敏感或不喜欢体力劳动的人
+**Who is not suited**
+- Seeking high income or rapid career progression
+- People sensitive to chemical odors or who dislike physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation in Ireland?**
+A: Average annual salary is about 28,000-35,000 euros, lower for entry-level positions, up to 42,000 euros for senior roles.
+
+**Q: How can non-EU citizens immigrate to Ireland through this occupation?**
+A: This occupation is not on the shortage list and requires a General Employment Permit with an annual salary threshold of 30,000 euros.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Limited promotion opportunities, can move from operator to senior operator or production supervisor, or shift to other manufacturing roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fur and leather preparing machine operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Ireland?**
-答：Average annual salary is around €28,000-€35,000, with entry-level lower and senior roles up to €42,000.
-
-**问：How can non-EU citizens immigrate to Ireland through this occupation?**
-答：This occupation is not on the shortage list; General Employment Permit requires a salary of at least €30,000.
-
-**问：Are there promotion opportunities in this occupation?**
-答：Limited; can advance to senior operator or production supervisor, or move to other manufacturing roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

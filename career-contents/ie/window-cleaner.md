@@ -1,61 +1,93 @@
-# Window Cleaner（Window Cleaner）职业分析 · IE
+# Window Cleaner — career analysis · Ireland
 
-**职业代码：9123 – Window Cleaner。**
+**Occupation code: 9123 (ISCO08)**
 
-Window cleaners clean windows, glass facades, and exterior surfaces of commercial and residential buildings using specialized tools and equipment to ensure safety and efficiency.
+Window cleaners clean windows, glass curtain walls, and exterior walls of commercial and residential buildings, using specialised tools and equipment to ensure safety and efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学文凭 | 通常4-5年 | —（免费公立教育） |
-| 在职培训 | 6个月至2年 | $500~$2,000（由雇主提供或短期课程） |
+| Secondary school diploma. | Usually 4-5 years | $0~$0 (Free public education) |
+| On-the-job training | 6 months to 2 years | $500~$2,000 (Provided by employer or short-term course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全作业培训 | 雇主或培训机构 | 必备 | 高空作业安全证书 |
-| 急救证书 | 红十字会或类似机构 | 可选 | 推荐但非强制 |
-| 驾驶执照 | NDLS | 必备 | 需驾驶服务车辆 |
+| Safety training | Employer or training provider | Required | Safety certificate for working at heights |
+| Driver's license | NDLS | Required | Requires driving a service vehicle |
+| First aid certificate | Red Cross or similar organizations | Optional | Recommended but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰建筑业持续增长，商业地产维护需求稳定，窗户清洁工就业前景良好，尤其在都柏林等大城市。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,500. Ireland's construction industry continues to grow, demand for commercial property maintenance is stable, and employment prospects for window cleaners are good, especially in large cities like Dublin.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 税年前，受雇于清洁公司 |
-| 中级（3-5年） | $28,000~$35,000 | 税年前，含技能提升 |
-| 高级（6年+） | $35,000~$45,000 | 税年前，主管或自雇 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$28,000 | Before tax year, employed by a cleaning company |
+| Mid-level (3–5 years) | $28,000~$35,000 | Before tax, including skills enhancement |
+| Senior (6+ years) | $35,000~$45,000 | Before tax, supervisor or self-employed |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级清洁工晋升为团队主管或项目经理，也可专攻高空作业或创业成立清洁公司。
-**AI替代风险：低风险（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Window cleaner work is repetitive and physically demanding; AI-driven automated equipment (e.g., drone cleaning, robots) can gradually replace most physical operations, significantly reducing employment opportunities.
+
+Can advance from entry-level cleaner to team leader or project manager, or specialize in high-altitude work or start a cleaning company.
+
+**Tasks most exposed to AI:**
+
+- Perform high-altitude cleaning using ladders and cleaning tools
+- Hand wiping and polishing glass surfaces
+- Inspect glass smudges and repeat cleaning
+- Developing daily cleaning routes
+
+**Where AI augments the role:**
+
+- Operate AI-controlled drones or robots for large-area cleaning
+- Uses AI image recognition to analyze glass stain types and cleaning effectiveness
+- Optimise cleaning routes and schedules through AI dispatching
+- Using AR to assist with safety monitoring in high-altitude work
+
+**Human moat:**
+
+- Fine cleaning for complex structures or irregularly shaped glass
+- Communication skills involving direct client interaction and customized services
+- Temporary and ad hoc cleaning tasks requiring human judgment
+- Professional knowledge of cleaning product safety and environmental impact
+
+**Skills to build:**
+
+- Learn to operate automatic cleaning robots or drone systems.
+- Master basic maintenance and troubleshooting skills
+- Enhance customer service and communication skills
+- Knowledge of safe handling of cleaning chemicals.
+- Learn to use scheduling and image analysis software
+
+**Key growth areas:**
 
 - High-rise building maintenance
 - Commercial real estate
@@ -64,69 +96,68 @@ Window cleaners clean windows, glass facades, and exterior surfaces of commercia
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪须超过30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 窗户清洁工通常不在此列，除非雇主能证明特殊技能。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动可申请。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, requires employer sponsorship, annual salary must exceed 30,000 euros. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Window cleaners are generally not included unless the employer can demonstrate special skills. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable for intra-company transfers. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Window Cleaner？**
-- 体力好、不恐高的人
-- 能独立工作且注重细节的人
-- 愿意接受灵活工作时间的人
-
-**谁不适合学Window Cleaner？**
-- 恐高或对清洁剂过敏者
-- 不重视安全规范者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness and no fear of heights
+- Someone who can work independently and pays attention to detail.
+- People willing to accept flexible working hours
+
+**Who is not suited**
+- People with a fear of heights or allergies to cleaning agents
+- Those who disregard safety regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for window cleaners in Ireland?**
+A: Entry-level annual salary approximately €22,000-28,000, mid-level €28,000-35,000, senior up to €45,000. Self-employed income higher but unstable.
+
+**Q: Can foreigners obtain an Irish work visa as a window cleaner?**
+A: Window cleaner is not in a shortage occupation; typically need to apply for a General Employment Permit, with an annual salary exceeding €30,000 and employer proof that no local worker can be found.
+
+**Q: Is there room for advancement for window cleaners?**
+A: Yes, can advance to team leader, project manager, or start own business. With a high-altitude work certificate, can engage in high-rise building cleaning with higher income.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低风险（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Window Cleaner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a window cleaner in Ireland?**
-答：Entry-level salaries range from €22,000 to €28,000, mid-level €28,000-€35,000, and senior up to €45,000. Self-employed workers may earn more with variable income.
-
-**问：Can a foreigner get a work visa as a window cleaner in Ireland?**
-答：Window cleaning is not a shortage occupation; typically a General Employment Permit is needed, requiring a salary above €30,000 and employer proof of local labor shortage.
-
-**问：Are there career advancement opportunities for window cleaners?**
-答：Yes, you can advance to team supervisor, project manager, or start your own business. With high-rise certifications, you can work on tall buildings for higher pay.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

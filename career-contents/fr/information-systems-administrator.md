@@ -1,58 +1,90 @@
-# Information Systems Administrator（Information Systems Administrator）职业分析 · FR
+# Information Systems Administrator — career analysis · France
 
-**职业代码：M1801 – Information Systems Administrator。**
+**Occupation code: M1801 (ROME)**
 
-Responsible for installing, configuring, maintaining, and securing enterprise information systems, ensuring system stability, handling network and server issues, and managing user access.
+Responsible for installation, configuration, maintenance, and security of enterprise information systems, ensuring stable system operation, handling network and server failures, and managing user permissions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS或Licence专业 | 2-3年（BTS/Licence） | $5,000~$12,000（公立大学低学费，私立院校较高） |
-| 硕士水平 | 5年（Bac+5） | $8,000~$20,000（工程师学校或公立大学硕士） |
+| BTS or Licence major | 2-3 years (BTS/Licence) | $5,000~$12,000 (Public universities have lower tuition fees, while private institutions offer higher fees) |
+| Master's level | 5 years (Bac+5) | $8,000~$20,000 (Master's degree from an engineering school or public university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息系统管理文凭 | 法国国家文凭（RNCP） | 可选 | 通常为Bac+2至Bac+5水平 |
-| 网络安全认证（如CISSP） | 国际信息安全认证联盟 | 可选 | 非强制但有助于职业发展 |
+| Diploma in Information Systems Management | French National Diploma (RNCP) | Optional | Typically, the level is Bac+2 to Bac+5 |
+| Cybersecurity certification (e.g., CISSP) | International Information Security Certification Alliance | Optional | Not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 82,000。法国数字化转型推动IT人才需求持续增长，信息系统管理员在中小企业和大企业均有稳定需求。国家数字战略和网络安全法规的加强将进一步增加岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 82,000. France's digital transformation has driven a continuous growth in IT talent demand, with stable demand for information system administrators in both small and medium-sized enterprises and large enterprises. Strengthening the national digital strategy and cybersecurity regulations will further increase job openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$65,000 | 税前年薪 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$65,000 | Annual pre-tax salary |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可以从初级管理员晋升为高级系统管理员、IT基础设施经理，或转向网络安全、云计算等专业领域。积累经验后可担任IT主管或首席信息官。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
+
+You can be promoted from junior administrator to senior system administrator, IT infrastructure manager, or move into specialized fields such as cybersecurity or cloud computing. After gaining experience, you can become an IT Supervisor or Chief Information Officer.
+
+**Tasks most exposed to AI:**
+
+- Automatically diagnose common network issues and provide solutions
+- Automatically generate network configuration and patch scripts
+- Record work orders and categorize/escalate to senior teams
+- User password reset and account management
+
+**Where AI augments the role:**
+
+- Use AI log analysis to quickly locate fault root causes
+- Using network simulation tools to predict change impact.
+- Early detection of anomalies through AI-driven monitoring.
+- Using natural language queries to accelerate knowledge base resolution
+
+**Human moat:**
+
+- Root cause analysis and manual repair of complex faults
+- Network architecture design and security policy formulation
+- Effective communication with non-technical users
+- Prioritizing urgent matters under pressure
+
+**Skills to build:**
+
+- Cloud network management (AWS/Azure/GCP)
+- Cybersecurity certifications (CISSP/CEH)
+- Automation scripts (Python/Ansible)
+- AI/ML basics and network analysis tools
+- Hybrid network architecture design
+
+**Key growth areas:**
 
 - Cloud Computing
 - Cybersecurity
@@ -61,68 +93,67 @@ Responsible for installing, configuring, maintaining, and securing enterprise in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适合高技能人才，需年薪≥53,836.50欧元（2023标准），有效期1-4年 |
-| Subclass Passeport Talent（Talent Passport） | 适合有硕士学历或3年以上经验的IT人才，有效期4年 |
-| Subclass Salarié（Work Permit (Salarié)） | 受雇于法国公司，需雇主担保，有效期1年可续 |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talent, requires annual salary ≥€53,836.50 (2023 standard), valid for 1-4 years. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for IT professionals with a master's degree or more than 3 years of experience, valid for 4 years |
+| Subclass Salarié (Work Permit (Salarié)) | Employed by a French company requires an employer sponsorship, valid for 1 year with renewable renewal |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Systems Administrator？**
-- 对IT基础设施有浓厚兴趣的人
-- 喜欢解决问题和排除故障的人
-- 有团队协作精神和责任心的人
-
-**谁不适合学Information Systems Administrator？**
-- 厌恶重复性维护工作的人
-- 不善于沟通和文档记录的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in IT infrastructure
+- People who enjoy solving problems and troubleshooting
+- People with team spirit and a sense of responsibility
+
+**Who is not suited**
+- For those who dislike repetitive maintenance work.
+- People who are not good at communication and document taking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for information system administrators in France?**
+A: Entry-level is about 30k-38k euros, intermediate 38k-50k, advanced 50k-65k, with Paris slightly higher.
+
+**Q: How can third-country citizens immigrate to France through this occupation?**
+A: Employer sponsorship is required through the EU Blue Card (annual salary ≥ €53,836.50) or the Talent Passport (Master's / 3 years of experience).
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually, Bac+2 (BTS) or above is required, with Bac+5 (Master's) being more favored.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information Systems Administrator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for an Information Systems Administrator in France?**
-答：Junior: €30k-38k, Mid: €38k-50k, Senior: €50k-65k, slightly higher in Paris.
-
-**问：How can third-country nationals immigrate to France through this occupation?**
-答：Via EU Blue Card (salary ≥€53,836.50) or Talent Passport (master's/3 years experience), employer sponsorship required.
-
-**问：What education is required for this occupation?**
-答：Typically Bac+2 (BTS) or higher, with Bac+5 (master's) preferred.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

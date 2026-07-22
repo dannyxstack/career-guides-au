@@ -1,60 +1,95 @@
-# Supervisor in Artistic Ceramic and Glass Design（Supervisor in Artistic Ceramic and Glass Design）职业分析 · DE
+# Supervisor in Artistic Ceramic and Glass Design — career analysis · Germany
 
-**职业代码：9349 – Supervisor in Artistic Ceramic and Glass Design。**
+**Occupation code: 9349 (KldB)**
 
-Oversees and manages the production of artistic ceramic and glass pieces, coordinates artisan teams, and ensures design creativity and craftsmanship quality meet standards.
+Responsible for overseeing and managing the production process of ceramic and glass artworks, coordinating artisan teams, and ensuring design creativity and craftsmanship quality meet standards.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年（双元制） | —（双元制培训通常免学费，企业发放津贴） |
-| 师傅资格 | 1-2年（兼职） | $2,000~$5,000（Meister课程费用，部分可获资助） |
+| Dual system training | 3 years (dual system) | $0~$500 (Dual training is usually tuition-free with company allowances) |
+| Master craftsman qualification | 1-2 years (part-time) | $2,000~$5,000 (Meister course fees, some can be subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 陶瓷/玻璃工艺师傅证书 | 德国手工业协会（HWK） | 必备 | 必备晋升资质，证明管理和技术能力 |
-| 陶瓷/玻璃设计学位 | 应用科学大学或艺术学院 | 可选 | 有助于进入高端设计领域，非强制 |
+| Certificate as a Ceramic/Glass Craftsman | German Chamber of Crafts (HWK) | Required | Essential qualification for promotion, demonstrating management and technical ability |
+| Ceramics/Glass Design degree | University of Applied Sciences or Art College | Optional | Helpful for entering high-end design fields, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。德国手工艺行业稳定，高端定制和艺术陶瓷玻璃产品需求持续，但岗位数量有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Germany's craft industry is stable, with sustained demand for high-end custom and artistic ceramic/glass products, but limited positions and moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 税前年薪，视企业规模 |
-| 中级（3-7年） | $36,000~$48,000 | 税前年薪，含绩效奖金 |
-| 资深（7年以上） | $45,000~$60,000 | 税前年薪，主管或师傅级别 |
+| Median salary | $38,676 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$36,000 | Pre-tax annual salary, depending on company size |
+| Mid-level (3–7 years) | $36,000~$48,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, supervisor or master level |
+| average salary | $40,296 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从熟练工匠晋升为主管，再至工作室经理或自主创业开设手工艺作坊。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on artists is mixed: generative AI can quickly produce visual content, reducing entry-level jobs in commercial illustration and design; but it also amplifies creative exploration and digital art capabilities, spawning new tools and expressions.
+
+Can progress from skilled craftsman to supervisor, then workshop manager or start a handicraft business.
+
+**Tasks most exposed to AI:**
+
+- Generate commercial illustration drafts and assets
+- Perform standardized background and texture painting.
+- Produce decorative patterns in bulk according to specified style
+- Basic photo restoration and colour correction
+
+**Where AI augments the role:**
+
+- Use AI to quickly generate inspiration sketches and mood boards
+- Using AI tools to explore different artistic styles and color schemes
+- Combines AI enhancement and restoration of details in historical paintings.
+- Generate variants through AI to iterate creative directions
+- Using AI to assist in creating surreal or abstract artworks
+
+**Human moat:**
+
+- Original artistic concepts and unique aesthetic judgment
+- Emotional expression and narrative depth
+- Craftsmanship and material texture control
+- Interpersonal communication and understanding with clients/curators
+- Art criticism and cultural interpretation skills
+
+**Skills to build:**
+
+- Proficient in using AI generation tools like Midjourney, DALL·E
+- AI prompt engineering and style control
+- Digital painting and 3D modeling software (e.g., Procreate, Blender)
+- Art history and contemporary art theory
+- Project management and client communication
+- Basic programming (e.g., Python automation workflows).
+
+**Key growth areas:**
 
 - Artisan crafts
 - Luxury goods
@@ -63,66 +98,65 @@ Oversees and manages the production of artistic ceramic and glass pieces, coordi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国雇主合同及职业资质认证，适合有学历或师傅证书者 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制，适合有相关经验者来德寻找工作 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用，因该职业薪资可能低于蓝卡门槛 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Need to obtain a German employer contract and professional qualification certification, suitable for those with academic degrees or master craftsman certificates |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, suitable for those with relevant experience seeking employment in Germany |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable, as the salary for this occupation may be below the Blue Card threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor in Artistic Ceramic and Glass Design？**
-- 热爱手工艺和艺术设计
-- 具备耐心和细腻的动手能力
-- 有团队管理和协调能力
-
-**谁不适合学Supervisor in Artistic Ceramic and Glass Design？**
-- 追求高薪和快速晋升者
-- 不喜欢重复或精细工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about crafts and artistic design
+- Patience and meticulous hands-on skills
+- Has team management and coordination skills
+
+**Who is not suited**
+- Those pursuing high salary and rapid advancement
+- Dislikes repetitive or detailed work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Ceramic and Glass Art Design Director?**
+A: Entry-level about €28,000-36,000, mid-level €36,000-48,000, senior up to €60,000.
+
+**Q: As a third-country national, how to immigrate to Germany for this occupation?**
+A: Usually requires dual vocational training or a master craftsman certificate, and professional qualification recognition (Anerkennung); eligible for skilled worker visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisor in Artistic Ceramic and Glass Design为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a supervisor in ceramic and glass design?**
-答：Entry-level around €28,000-36,000, mid-level €36,000-48,000, senior up to €60,000.
-
-**问：How can a third-country national immigrate to Germany for this occupation?**
-答：Typically requires completed vocational training or a master craftsman certificate, with recognition (Anerkennung), then apply for a Skilled Worker Visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

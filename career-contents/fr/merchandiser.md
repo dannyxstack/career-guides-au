@@ -1,59 +1,95 @@
-# Merchandiser（Merchandiser）职业分析 · FR
+# Merchandiser — career analysis · France
 
-**职业代码：D1506 – Merchandiser。**
+**Occupation code: D1506 (ROME)**
 
-Merchandisers design and implement product displays in retail outlets to attract customers and boost sales. They collaborate with brands and retailers to ensure visual presentation aligns with marketing strategies.
+Merchandiser exhibitors are responsible for designing and implementing product displays at retail points to attract customers and drive sales. They collaborate with brands and retailers to ensure product displays align with marketing strategies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS（高级技师文凭） | 2年 | —（公立学校学费低，私立学校较高） |
-| Licence professionnelle（职业学士） | 3年 | —（公立大学免学费，仅注册费） |
-| 学徒制（Apprentissage） | 1-2年 | —（工资由企业支付，无学费） |
+| BTS (Advanced Technician Diploma) | 2 years | $0~$12,000 (Public schools have lower tuition fees, while private schools have higher fees) |
+| Licence professionnelle | 3 years | $0~$15,000 (Free tuition at public universities, registration fee only) |
+| Apprentissage | 1-2 years | $0~$0 (Salaries are paid by the company, and there is no tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性认证 | 无 | 可选 | 无需特定执照，但相关学历或经验受青睐 |
-| 视觉营销证书 | 法国商学院或职业培训机构 | 可选 | 可选，提升竞争力 |
+| No mandatory certification | None | Optional | No specific license is required, but relevant academic qualifications or experience are preferred |
+| Visual Marketing Certificate | French business schools or vocational training institutions | Optional | Optional, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国零售业持续发展，对商品陈列师的需求稳定。线上零售的兴起也促使实体店更注重陈列体验，预计就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. France's retail industry continues to develop, with stable demand for merchandise exhibitors. The rise of online retail has also prompted physical stores to focus more on display experiences, with promising job prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，含奖金 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$55,000 | Annual pre-tax salary, including bonuses |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级陈列师可晋升为区域陈列经理、视觉营销经理，或转向品牌营销、采购等岗位。积累经验后可成为独立顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on visual merchandisers is mixed: automated design tools and virtual fitting rooms will compress basic layout and material processing, but the pursuit of 3D space, material lighting, and dreamlike experiences in physical stores makes human creativity and cross-sensory coordination irreplaceable.
+
+Junior exhibitors can be promoted to regional display manager, visual merchandising manager, or move into roles such as brand marketing or procurement. After gaining experience, you can become an independent consultant.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard display plans: AI outputs shelf layout based on product data and foot traffic heatmaps
+- Automates color matching and scale annotation: AI automatically matches from brand color library and outputs construction drawings
+- Virtual arrangement and modification: AI can quickly generate 3D renderings of different display effects, replacing manual model adjustments
+- List-based material management: AI automatically calculates required display item quantities and sizes and generates purchase lists.
+- Promotional display rotation: AI automatically generates seasonal display schedules based on inventory and sales data.
+
+**Where AI augments the role:**
+
+- Data-driven decision making enhanced: AI analyzes consumer eye movement, dwell time, and shopping paths to assist merchandisers in optimizing key display areas.
+- Inspiration acceleration: AI extracts moodboards from vast visual art images to quickly generate storyline options
+- Real-time experiment adjustment: AI combined with digital twin scenarios, visual merchandisers can quickly iterate different display combinations for crowd flow effects
+- Customized scenario design: AI generates differentiated display themes based on store customer profiles for display artists to fine-tune and implement.
+- Multi-dimensional collaborative creation: AI automatically generates prop structure diagrams and material suggestions, allowing display designers to focus more on creative expression.
+
+**Human moat:**
+
+- Cross-sensory experience design: comprehensive atmosphere creation combining scent, music, touch, lighting, and spatial rhythm
+- Brand story narrative ability: translating abstract brand concepts into concrete, tangible display narrative chains
+- Real material and light control: intuitive judgment of physical material texture, color temperature, reflection, and other details
+- Spontaneous creativity and on-the-spot adjustments: quickly make creative display changes based on visitor flow and product changes.
+- Emotional customer insights: understanding connotations, taboos, and emotional triggers of consumers across different cultures
+
+**Skills to build:**
+
+- AI-assisted design tools: mastering prompt and iterative tuning for Midjourney/Canva/3D space generators
+- Data visualization: ability to interpret retail heatmaps, conversion rate reports and convert them into display decisions
+- Digital twin spatial design: proficient in Unity/Unreal or SketchUp to build virtual stores and simulate customer flow
+- Cross-media storytelling: combining short videos, social media, and offline displays to create online-offline integrated experiences
+- Material and lighting engineering: in-depth study of optics, color psychology, and new environmentally friendly materials
+- Business strategy understanding: mastering retail P&L analysis, inventory turnover, and consumer shopping psychology models
+
+**Key growth areas:**
 
 - Visual Merchandising
 - Retail Innovation
@@ -62,67 +98,66 @@ Merchandisers design and implement product displays in retail outlets to attract
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如持有硕士文凭或年薪≥40,000欧元 |
-| Subclass Salarié（Salaried Employee） | 需雇主担保，工作合同，年薪不低于法国最低工资 |
-| Subclass Recherche emploi（Job Search Permit） | 毕业生可申请，有效期1年，用于寻找工作 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with a master's degree or annual salary ≥ 40,000 euros |
+| Subclass Salarié (Salaried Employee) | Employer sponsorship required, work contract, annual salary not lower than French minimum wage |
+| Subclass Recherche emploi (Job Search Permit) | Graduates can apply, valid for one year, and are used to find a job |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Merchandiser？**
-- 有创意且注重细节的人
-- 喜欢零售环境和与人沟通的人
-
-**谁不适合学Merchandiser？**
-- 不喜欢频繁出差或站姿工作的人
-- 对视觉美感不敏感的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and detail-oriented individuals
+- People who enjoy retail environments and communicating with people
+
+**Who is not suited**
+- People who dislike frequent business trips or standing while working
+- People who are insensitive to visual aesthetics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for merchandise display specialists?**
+A: Beginner is about 24-30k euros, intermediate 30-40k, and advanced 40-55k. The Paris area is slightly higher.
+
+**Q: Is it easy for foreigners to come to France as merchandise display specialists?**
+A: Medium difficulty. Holders of relevant degrees and 2 years of experience can apply through Passeport Talent. French employers usually require French language proficiency.
+
+**Q: What certificates are needed?**
+A: No mandatory certification. Preference given to those with a BTS or Licence in merchandising/retail management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Merchandiser的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a merchandiser in France?**
-答：Entry-level €24k-30k, mid-level €30k-40k, senior €40k-55k (gross annual). Paris area slightly higher.
-
-**问：Is it easy to migrate to France as a merchandiser?**
-答：Moderate. With relevant degree and 2 years experience, you can apply via Passeport Talent. French language is often required by employers.
-
-**问：What qualifications are required?**
-答：No mandatory certification. Preference for BTS or Licence in merchandising/retail management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

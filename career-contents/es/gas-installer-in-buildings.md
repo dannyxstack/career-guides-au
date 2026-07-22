@@ -1,60 +1,94 @@
-# Gas Installer in Buildings（Gas Installer in Buildings）职业分析 · ES
+# Gas Installer in Buildings — career analysis · Spain
 
-**职业代码：7222 – Gas Installer in Buildings。**
+**Occupation code: 7222 (CNO)**
 
-Install, maintain, and repair gas pipes, appliances like stoves and water heaters in residential and commercial buildings, ensuring safety and compliance.
+Responsible for installing, maintaining, and repairing gas pipelines, gas stoves, water heaters, and other gas equipment in residential and commercial buildings to ensure system safety and compliance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费或低学费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$600 (Public schools offer free or low tuition) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$700 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 燃气安装工职业资格（Certificado de Instalador de Gas） | 西班牙工业、贸易与旅游部 | 必备 | 必须持有，分不同等级和燃气类型 |
-| FP Grado Medio en Instalaciones de Gas | 自治区教育部门 | 可选 | 职业教育学位，部分课程可豁免资格证考试 |
+| Gas installer professional qualification (Certificado de Instalador de Gas) | Spanish Ministry of Industry, Trade and Tourism | Required | It must be held, with different grades and types of gas |
+| FP Grado Medio en Instalaciones de Gas | Autonomous region education department | Optional | Vocational education degrees, some courses may be exempt from qualification exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙建筑行业稳步复苏，老旧建筑改造和新能源转型推动燃气安装需求。但面对可再生能源竞争，天然气安装岗位增长平缓，稳定就业机会主要来自维修与维护。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Spain's construction industry is steadily recovering, with renovations of old buildings and the transition to new energy driving demand for gas installations. However, facing competition from renewable energy, natural gas installation job growth has slowed, and stable employment opportunities mainly come from maintenance and repair.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年收入，含加班 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年收入 |
-| 高级（7年以上） | $28,000~$35,000 | 含项目管理或自主创业 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual income, including overtime |
+| Mid-level (3–7 years) | $22,000~$28,000 | Gross annual income before tax |
+| Senior (7+ years) | $28,000~$35,000 | Including project management or self-employment |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级安装工可晋升为高级技术员或监督员，也可向暖通空调、可再生能源系统转型；考取官方资质后有望自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Building gas installers will experience moderate automation impacts: AI visual inspection and smart tools can assist with pipeline inspections, but physical installation and on-site safety decisions still require human judgment, resulting in mixed outcomes for the overall job.
+
+Junior installers can be promoted to senior technicians or supervisors, or transition to HVAC and renewable energy systems; After obtaining official qualifications, entrepreneurship is possible.
+
+**Tasks most exposed to AI:**
+
+- Gas pipeline leak detection: AI vision and sensors can automatically identify leak points and trigger alarms
+- System compliance document generation: AI can automatically generate installation records and compliance reports
+- Basic fault diagnosis: AI-assisted diagnosis of common gas equipment faults
+- Customer Appointment and Scheduling: AI automatically schedules and notifies customers
+
+**Where AI augments the role:**
+
+- Complex pipeline layout optimization: AI simulates the optimal pipe routing route, reducing material waste
+- Safety Risk Assessment: AI analyzes on-site environmental risks and provides preventive recommendations
+- Remote expert collaboration: AR glasses connect to AI experts for remote guidance on installation
+- Tools and Accessories Management: AI forecasts inventory demand and automatically replenishes stock
+- Skills training: AI virtual reality simulations for high-risk scenario training
+
+**Human moat:**
+
+- On-site safety decision-making: Responding to emergencies such as sudden gas leaks requires human intuition
+- Non-standardized operations: Pipeline system renovation in old buildings requires flexible adaptability
+- Customer communication: Explaining safety protocols and repair plans requires interpersonal trust
+- Legal responsibility: The final installation signature and compliance responsibility shall be borne by the individual
+
+**Skills to build:**
+
+- Operation of intelligent inspection equipment: Proficient in using AI leak detectors and drone inspections
+- Digital tool applications: Master AR remote collaboration and AI-based BIM software
+- Data Analysis Basics: Understanding AI-generated diagnostic reports and predictive maintenance recommendations
+- Regulatory updates: Track digital requirements for EU and Spanish gas safety regulations
+- Soft skills: Strengthen customer communication and emergency decision-making capabilities
+- Cross-trade collaboration: Collaborate with smart home system integrators to install gas monitoring equipment
+
+**Key growth areas:**
 
 - Gas installation
 - Building maintenance
@@ -63,64 +97,66 @@ Install, maintain, and repair gas pipes, appliances like stoves and water heater
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employees） | 受雇工作居留，需雇主担保，通过劳动力市场测试 |
+| Subclass Cuenta ajena (Work permit for employees) | Employed work residency requires employer sponsorship and passes the labor market test |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gas Installer in Buildings？**
-- 喜欢动手操作、有安全意识的人
-- 希望在建筑行业从事技术蓝领工作的人
-- 愿意考取并使用官方证书的人
+**Who is suited**
+- Likes hands-on work and has safety awareness.
+- Those who want to work in technical blue-collar jobs in the construction industry
+- Those willing to obtain and use official certificates
 
-**谁不适合学Gas Installer in Buildings？**
-- 不喜欢现场施工和体力劳动
-- 希望高薪且快速晋升的人
+**Who is not suited**
+- Dislikes on-site construction and manual labor
+- People seeking high pay and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for gas installers in Spain?**
+A: Entry-level annual salary about EUR 18,000-22,000, mid-level 22,000-28,000, senior up to 35,000. Lower than IT, but stable.
+
+**Q: Can third-country citizens immigrate to Spain through gas installers?**
+A: The difficulties are considerable. This occupation is not in short supply, requires employer sponsorship, passes labor market testing, and local job seekers are preferred. It is recommended to obtain legal Spanish residency before starting work.
+
+**Q: What certificates are needed to work as a gas installer in Spain?**
+A: You must hold the Gas Installer Professional Qualification (Certificado de Instalador de Gas) issued by the Ministry of Industry, pass specific exams, or complete relevant FP courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Gas Installer in Buildings属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for gas installers in Spain?**
-答：Entry-level annual salary is around €18,000-22,000, mid-level €22,000-28,000, senior up to €35,000. Stable but lower than IT sectors.
-
-**问：Can third-country nationals immigrate as gas installers to Spain?**
-答：It's difficult. The occupation is not in shortage; employer sponsorship and labor market test required. Better to obtain residency first.
-
-**问：What certification is needed to be a gas installer in Spain?**
-答：You must hold the Certificado de Instalador de Gas issued by the Ministry of Industry, obtained via exam or approved FP program.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

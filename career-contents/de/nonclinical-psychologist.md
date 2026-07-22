@@ -1,58 +1,94 @@
-# Non-Clinical Psychologist（Non-Clinical Psychologist）职业分析 · DE
+# Non-Clinical Psychologist — career analysis · Germany
 
-**职业代码：8161 – Non-Clinical Psychologist。**
+**Occupation code: 8161 (KldB)**
 
-Non-clinical psychologists focus on research, consulting, and organizational development, without direct treatment of mental disorders, working in universities, companies, and government agencies.
+Non-clinical psychologists focus on research, consulting, and organizational development, and do not directly treat mental illness. Workplaces include universities, corporations, government agencies, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（心理学） | 3年 | —（公立大学仅收学期注册费（约150-300欧元/学期）） |
-| 硕士（心理学） | 2年 | —（硕士通常为连续课程，公立大学免学费） |
+| Bachelor's degree (Psychology) | 3 years | $0~$3,000 (Public universities only charge semester registration fees (approx. 150-300 euros/semester)) |
+| Master's (Psychology) | 2 years | $0~$3,000 (Master's programs are usually consecutive courses, tuition-free at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学硕士学位 | 德国大学 | 必备 | 必修；非临床心理学通常不需国家认证，但需要学位 |
-| 资质认证（Anerkennung） | 德国联邦各州主管部门 | 必备 | 若学位来自非欧盟国家，需认证学历等同德国学位 |
+| Master's degree in Psychology | German university | Required | Compulsory; non-clinical psychology generally does not require state certification, but a degree is needed |
+| Qualification recognition (Anerkennung) | Competent authorities of the German federal states | Required | If your degree is from a non-EU country, you need to have it recognized as equivalent to a German degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。德国对心理学专家的需求稳定，尤其是在企业咨询、人力资源和公共部门。数字化和老龄化推动市场研究、健康管理等领域增长。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 25,000. Demand for psychology experts in Germany is stable, especially in corporate consulting, human resources, and the public sector. Digitalization and an aging population drive growth in fields like market research and health management.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$46,000 | 税前年薪，基于公共部门TV-L或企业 |
-| 中级（4-9年） | $47,000~$60,000 | 税前年薪，含经验加成 |
-| 高级（10年以上） | $60,000~$80,000 | 税前年薪，高级职位或管理层 |
+| Median salary | $62,268 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$46,000 | Annual salary before tax, based on public sector TV-L or industry |
+| Intermediate (4-9 years) | $47,000~$60,000 | Annual salary before tax, including experience bonuses |
+| Senior (10+ years) | $60,000~$80,000 | Pre-tax annual salary, senior position or management level. |
+| average salary | $63,888 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：从研究助理或初级顾问起步，可晋升为高级心理学家、项目经理或部门主管。学术方向可攻读博士并成为教授。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core tasks for non-clinical psychologists—data analysis, literature review, standardized report generation—will be greatly enhanced or replaced by AI, but advanced counseling, research design, organizational intervention, and other tasks relying on human judgment and trust will still be needed. Future job structures will shift towards human-machine collaboration and strategic roles.
+
+Career path: Start as a research assistant or junior consultant, progress to senior psychologist, project manager, or department head. Academic route can lead to a PhD and professorship.
+
+**Tasks most exposed to AI:**
+
+- Automated scoring and preliminary analysis of large-scale psychological assessment data
+- Automated literature search, summary generation, and citation management in literature reviews
+- Automated generation of standardized psychological questionnaires and draft result interpretation reports
+- Chatbot initial response and triage for common customer issues
+- Organize data collection, cleaning, and basic trend reporting for employee satisfaction surveys
+
+**Where AI augments the role:**
+
+- Using AI tools to quickly build complex statistical models (e.g., structural equation models, multilevel linear models) and automatically test hypotheses
+- Automatically aggregates multiple data sources (social media, work records, physiological sensors) to generate insights on employee behavior and mental health.
+- Use natural language processing to automatically analyze interview or open-ended text, extracting themes and sentiment patterns.
+- AI-simulated scenario generation for creating virtual characters and interactive scenarios for organizational development or leadership training
+- Automatically generate draft research proposals, ethics review documents, and grant application materials
+
+**Human moat:**
+
+- Understanding client deep needs and designing personalized intervention plans (e.g., organizational change, executive coaching)
+- Making professional judgments in complex, ambiguous, and ethically controversial situations (e.g., interpreting psychological test results, confidentiality exception decisions)
+- Build trust relationships and conduct in-depth interviews or psychological support (non-therapeutic)
+- Interdisciplinary integration and innovative research design (e.g., translating AI discoveries into practical organizational strategies)
+- Assume legal responsibility and ethics supervision (e.g., ensuring research complies with data privacy regulations)
+
+**Skills to build:**
+
+- Data analysis and machine learning basics with Python/R (e.g., scikit-learn, pandas)
+- Natural Language Processing basics (text mining, topic modeling, sentiment analysis)
+- AI tool application skills (e.g., using ChatGPT for report generation, automated coding)
+- Advanced statistical methods (structural equation modeling, Bayesian analysis) and their integration with AI tools
+- Data visualization and interactive report creation (e.g., Tableau, Plotly)
+- Ability to critically assess AI model bias and limitations
+
+**Key growth areas:**
 
 - Corporate consulting
 - HR analytics
@@ -61,65 +97,64 @@ Non-clinical psychologists focus on research, consulting, and organizational dev
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 对于非欧盟毕业生，需年薪至少约43,800欧元（2023年），心理学通常满足紧缺职业门槛 |
-| Subclass Skilled Worker（Skilled Employment Visa） | 适用于持有德国认可学位并有工作合同的非欧盟申请人 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明经济能力 |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU graduates, the annual salary must be at least approximately EUR 43,800 (2023). Psychology usually meets the shortage occupation threshold. |
+| Subclass Skilled Worker (Skilled Employment Visa) | Applicable to non-EU applicants holding a German-recognized degree and a job offer. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a stay of 6 months in Germany to seek employment, requiring proof of financial means |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-Clinical Psychologist？**
-- 对心理学有学术兴趣，希望从事研究或咨询的人
-- 具备分析能力和沟通能力，乐于解决组织问题
-- 寻求非临床方向，避免直接诊疗工作
-
-**谁不适合学Non-Clinical Psychologist？**
-- 希望直接从事心理治疗或临床工作的人
-- 不喜欢科研或数据分析，偏好动手实践
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with academic interest in psychology, aiming for research or counseling
+- Possess analytical and communication skills, willing to solve organizational problems
+- Seeking non-clinical roles, avoiding direct patient care work
+
+**Who is not suited**
+- People who want to directly engage in psychotherapy or clinical work
+- Dislikes research or data analysis, prefers hands-on work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for non-clinical psychologists?**
+A: Junior annual salary approx. €38,000-46,000, mid-level €47,000-60,000, senior €60,000-80,000, with slight differences between public and private sectors.
+
+**Q: How can non-EU qualifications immigrate to Germany for non-clinical psychology work?**
+A: Must pass qualification recognition (Anerkennung) to confirm degree equivalent to German master's. Then can apply for EU Blue Card or skilled migration visa, requiring a job contract.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Non-Clinical Psychologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for non-clinical psychologists?**
-答：Entry-level annual salary is around 38,000-46,000 EUR, mid-level 47,000-60,000 EUR, senior 60,000-80,000 EUR, with slight differences between public and private sectors.
-
-**问：How can non-EU degree holders immigrate to work as non-clinical psychologists in Germany?**
-答：You need to get your degree recognized (Anerkennung) as equivalent to a German Master's. Then you can apply for an EU Blue Card or skilled worker visa with a job offer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

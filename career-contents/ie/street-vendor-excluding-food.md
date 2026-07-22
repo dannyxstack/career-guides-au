@@ -1,59 +1,95 @@
-# Street Vendor (excluding Food)（Street Vendor (excluding Food)）职业分析 · IE
+# Street Vendor (excluding Food) — career analysis · Ireland
 
-**职业代码：9520 – Street Vendor (excluding Food)。**
+**Occupation code: 9520 (ISCO08)**
 
-Sells non-food goods such as clothing, accessories, and handicrafts in public spaces.
+Vendors selling non-food items such as clothing, accessories, and handicrafts in public spaces.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 无 | —（通常不需要正规教育） |
+| No specific educational requirements | None | $0~$0 (Typically no formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 街头贸易许可证 | 地方政府 | 必备 | 需向当地市政厅申请，费用因地区而异 |
-| 公共卫生与安全培训 | 爱尔兰卫生服务执行局 | 可选 | 部分商品可能需要 |
+| Street trading license | Local government | Required | Application must be made to the local municipal council; fees vary by region |
+| Public health and safety training. | Health Service Executive (Ireland) | Optional | Some items may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常低（★☆☆☆☆）。** 全国从业人数约 800。爱尔兰街头小贩行业规模较小，受旅游经济和本地市场影响。预计未来五年就业增长缓慢，受电商和零售法规限制。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 800. Ireland's street vendor industry is small, influenced by tourism economy and local market. Expected slow employment growth over the next five years, constrained by e-commerce and retail regulations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $10,000~$15,000 | 收入不稳定，取决于地点和客流量 |
-| 中级（3-7年） | $15,000~$25,000 | 可能拥有固定摊位或客户群 |
-| 高级（7年以上） | $25,000~$35,000 | 成功经营者可拓展业务 |
+| Median salary | $20,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $10,000~$15,000 | Income unstable, depends on location and customer flow |
+| Mid-level (3–7 years) | $15,000~$25,000 | May have a fixed stall or customer base |
+| Senior (7+ years) | $25,000~$35,000 | Successful operators can expand their business |
+| average salary | $20,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业发展路径有限，可从流动摊贩转向固定市场摊位或小型零售店。少数成功者可发展自有品牌。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Street vendors face high automation risk; mobile payments, self-service ordering and AI inventory management will replace core tasks, severely reducing entry-level positions, but human interaction and on-the-spot flexibility still leave room for human workers.
+
+Career development paths are limited; can move from street vending to fixed market stalls or small retail stores. A few successful ones can develop their own brands.
+
+**Tasks most exposed to AI:**
+
+- cashier and transaction processing: mobile payments and self-checkout machines will replace cash handling
+- Simple food preparation: automated cooking robots can make standard snacks and drinks
+- Inventory management: AI systems automatically restock and forecast demand based on sales data
+- Basic promotion: algorithm-driven dynamic pricing and digital billboards replace manual hawking
+- Order recording: voice recognition and mobile ordering systems reduce manual order-taking
+
+**Where AI augments the role:**
+
+- Customer Interaction: AI translation tools help communicate with multilingual customers, enhancing service experience.
+- Product selection decision: data analytics to recommend hot-selling items and optimal stall locations
+- Compliance management: AI automatically generates tax records and food safety reports
+- Social media marketing: using AI-generated content to attract online customers to offline stalls
+- Supply chain optimisation: intelligent scheduling systems improve purchasing and replenishment efficiency
+
+**Human moat:**
+
+- On-site interpersonal interaction and emotional connection: building trust and loyalty with regular customers
+- Adaptability: responding to weather, crowd changes, and emergencies.
+- Craftsmanship and ingredient quality: the unique taste and quality of freshly made food
+- Local knowledge: understanding specific community preferences to provide customized services
+- Legal compliance and food safety: ensuring stalls meet local regulations
+
+**Skills to build:**
+
+- Digital marketing and social media operations
+- Basic data analysis tools (such as Excel, Tableau)
+- Multilingual communication (especially English and community languages).
+- Food hygiene and safety management certification
+- Small business financial management and bookkeeping
+- Customer Relationship Management (CRM) Basics
+
+**Key growth areas:**
 
 - stable
 - low-demand
@@ -62,65 +98,67 @@ Sells non-food goods such as clothing, accessories, and handicrafts in public sp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺职业，需雇主担保，年薪需高于30000欧元 |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟公民可自由在爱尔兰工作，无需签证 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary must exceed 30,000 euros |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU citizens can freely work in Ireland without a visa. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street Vendor (excluding Food)？**
-- 喜欢户外工作、独立经营的人
-- 善于与人沟通、有销售技巧的人
-- 能够承受收入不稳定的人
+**Who is suited**
+- For those who enjoy outdoor work and independent operation
+- People who are good at communication and have sales skills
+- People who can tolerate unstable income
 
-**谁不适合学Street Vendor (excluding Food)？**
-- 追求稳定收入和职业保障的人
-- 不适应天气变化或长时间站立的人
+**Who is not suited**
+- People seeking stable income and job security
+- People who are not adaptable to weather changes or prolonged standing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of street vendors?**
+A: Income is highly unstable; entry-level street vendors earn between €10,000 and €15,000 annually, while experienced operators can reach €25,000 to €35,000.
+
+**Q: Can non-EU citizens immigrate to Ireland through street vending work?**
+A: Very difficult. Street vendors are not in shortage occupations and cannot obtain a key skills employment permit. Only a general work permit application is possible, but the annual salary threshold must exceed €30,000, which this occupation typically does not meet.
+
+**Q: How Can Street Vendors Improve Career Prospects?**
+A: Income can be increased by securing a fixed market stall, developing online sales channels, or creating your own brand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（½☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 非常低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 非常低（½☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Street Vendor (excluding Food)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for street vendors?**
-答：Income is highly volatile; junior vendors typically earn €10,000–€15,000 annually, while experienced ones can earn €25,000–€35,000.
-
-**问：Can non-EU citizens immigrate to Ireland as street vendors?**
-答：Very difficult. Street vendors are not on the Critical Skills list; a General Employment Permit is possible but the salary threshold (€30,000) is rarely met.
-
-**问：How can street vendors improve their career prospects?**
-答：By securing a fixed market stall, expanding online sales, or building a personal brand.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

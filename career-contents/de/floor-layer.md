@@ -1,61 +1,95 @@
-# Floor Layer（Floor Layer）职业分析 · DE
+# Floor Layer — career analysis · Germany
 
-**职业代码：3310 – Floor Layer。**
+**Occupation code: 3310 (KldB)**
 
-Floor layers install various flooring materials such as tiles, wood, carpet, and vinyl in residential and commercial buildings. Tasks include measuring, cutting, laying, and finishing floors with precision and aesthetic care.
+Floor layers install various flooring materials such as tiles, wood flooring, carpet, and plastic flooring, widely used in residential and commercial buildings. Work includes measuring, cutting, laying, and fixing, with emphasis on precision and aesthetics.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育 | 3年 | —（双元制培训期间有实习津贴，基本无学费成本，仅需自费教材和工具。） |
-| 工匠大师培训 | 1-2年（全职） | $3,000~$8,000（Meister课程费用，可申请联邦教育促进资助。） |
+| Dual vocational education and training | 3 years | $0~$500 (Dual-system training includes an internship allowance, with essentially no tuition costs; only textbooks and tools are self-funded.) |
+| Master Artisan Training | 1-2 years (full-time) | $3,000~$8,000 (Meister course fees can apply for federal education promotion funding.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书 | 德国工商业行会（IHK）或手工业行会（HWK） | 必备 | 完成双元制培训并通过结业考试获得，是上岗强制要求。 |
-| 工匠大师证书 | 手工业行会（HWK） | 可选 | 可独立开业或担任领导职务，非强制但有利于职业发展。 |
-| 境外资质认证 | 德国相关认证机构（如HWK） | 必备 | 非欧盟学历需通过资质认证程序（Anerkennung），确认等同于德国职业资格。 |
+| Professional qualifications | German Chamber of Industry and Commerce (IHK) or Chamber of Crafts (HWK) | Required | Completion of dual-system training and passing the final exam is mandatory for employment. |
+| Overseas qualification recognition | German relevant certification bodies (e.g., HWK) | Required | Non-EU qualifications require a credential evaluation procedure (Anerkennung) to confirm equivalence to German vocational qualifications. |
+| Master craftsman certificate | Crafts Chamber (HWK) | Optional | Can operate independently or take on leadership roles; not mandatory but beneficial for career development. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。德国建筑业持续繁荣，老旧建筑翻新和新建项目需求旺盛，地板铺设工长期紧缺。联邦劳工局预计未来十年就业增长稳定，尤其在城市地区。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Germany's construction industry continues to boom, with strong demand for renovation of old buildings and new construction projects, leading to a long-term shortage of floor layers. The Federal Labor Authority expects stable employment growth over the next decade, especially in urban areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，含加班和奖金。 |
-| 中级（3-7年） | $33,000~$42,000 | 税前年薪，常见于熟练工。 |
-| 高级（7年以上/大师） | $42,000~$55,000 | 税前年薪，含管理职责或自营收入。 |
+| Median salary | $40,992 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual salary before tax, including overtime and bonuses. |
+| Mid-level (3–7 years) | $33,000~$42,000 | Pre-tax annual salary, common for skilled workers. |
+| Advanced (7+ years / Expert) | $42,000~$55,000 | Annual salary before tax, including management duties or self-employment income. |
+| average salary | $41,904 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可从熟练工晋升为工头（Vorarbeiter）或自营工匠（Meister），也可通过进修成为建筑技术员或工程项目经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Floor layers face mixed prospects with AI and automation: repetitive tasks like measuring and cutting are easily automated, but on-site adjustments, aesthetic judgment, and complex installations still require human skills; AI is more of an auxiliary tool.
+
+Practitioners can advance from skilled worker to foreman (Vorarbeiter) or self-employed master craftsman (Meister), or further study to become building technician or project manager.
+
+**Tasks most exposed to AI:**
+
+- Use laser distance meters and AI to calculate flooring material requirements
+- The automatic cutting machine cuts floors precisely according to digital templates
+- AI vision systems inspect paving flatness and gaps
+- Robot-assisted handling and laying of standard-sized panels
+
+**Where AI augments the role:**
+
+- AI design software optimises floor patterns and material utilisation
+- AR glasses provide overlay steps and real-time guidance
+- Automated tool calibration system improves cutting precision
+- AI predictive maintenance tools to alert about tool and material issues
+
+**Human moat:**
+
+- Manual handling of complex spaces and non-standard shapes.
+- On-site client communication and understanding personalized needs
+- Fine adjustment to accommodate uneven ground
+- Artistic sensibility and quality control in combining multiple materials
+- Safe operation and on-site hazard response
+
+**Skills to build:**
+
+- operating digital measuring and cutting equipment
+- Learn CAD and AI-assisted design software
+- Familiar with smart tools and AR assistance systems.
+- Improve knowledge of materials science
+- Develop project management and client communication skills
+- Learn basic programming to debug automation tools
+
+**Key growth areas:**
 
 - Construction Boom
 - Renovation
@@ -64,69 +98,68 @@ Floor layers install various flooring materials such as tiles, wood, carpet, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于具有德国认可职业资格的非欧盟技术工人，需有雇主offer和资质认证。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国6个月寻找工作，需证明经济自足和有相关职业资格。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职者签证，用于寻找就业或学徒机会，需语言和资质积分。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applies to non-EU skilled workers with a recognized German vocational qualification, requiring a job offer and qualification recognition from an employer. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, must demonstrate financial self-sufficiency and relevant professional qualifications. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based visa for job seekers to find employment or apprenticeship opportunities, requiring language and qualification points. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floor Layer？**
-- 注重细节和精确度的人
-- 喜欢动手和体力活动的人
-- 愿意在建筑行业长期发展的人
-
-**谁不适合学Floor Layer？**
-- 不喜欢灰尘和噪音环境的人
-- 不习惯站立和弯腰工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who pay attention to detail and accuracy
+- Prefers hands-on and physical activities.
+- Individuals willing to develop long-term careers in the construction industry
+
+**Who is not suited**
+- People who dislike dust and noise environments.
+- People not accustomed to standing and bending work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a floor layer?**
+A: Junior: approximately €26,000–32,000; mid-level: €33,000–42,000; senior: €42,000–55,000. Self-employed artisans may earn more.
+
+**Q: How can non-EU foreigners become floor layers in Germany?**
+A: Must pass qualification recognition (Anerkennung) to have skills confirmed, then apply for a skilled worker visa with a job offer. Alternatively, you can first apply for an opportunity card to find an apprenticeship or job in Germany.
+
+**Q: How is the outlook for this occupation in Germany?**
+A: Good prospects: high demand for home renovations and new builds, occupation in shortage, stable employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Floor Layer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a floor layer?**
-答：Entry-level: €26,000-32,000, mid-level: €33,000-42,000, senior: €42,000-55,000. Self-employed may earn more.
-
-**问：How can non-EU foreigners become a floor layer in Germany?**
-答：Obtain recognition of your qualifications (Anerkennung), secure a job offer, and apply for a Skilled Worker Visa. Alternatively, use the Opportunity Card.
-
-**问：What are the prospects for this occupation in Germany?**
-答：Good prospects due to renovation and new construction demand, shortage occupation, stable employment.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

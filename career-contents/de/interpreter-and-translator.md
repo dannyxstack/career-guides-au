@@ -1,62 +1,97 @@
-# Interpreter and Translator（Interpreter and Translator）职业分析 · DE
+# Interpreter and Translator — career analysis · Germany
 
-**职业代码：7142 – Interpreter and Translator。**
+**Occupation code: 7142 (KldB)**
 
-Interpreters and translators in Germany convert spoken or written content between languages, often in conferences, legal settings, or healthcare. Tasks include simultaneous interpretation, consecutive interpretation, or document translation.
+Interpreters and translators in Germany render spoken or written content from one language to another, commonly in meetings, legal, medical, and other fields. Work may involve simultaneous interpretation, consecutive interpretation, or document translation.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 3-4年 | —（公立大学基本无学费，仅收学期费） |
-| 双元制培训（少见） | 3年 | —（培训期间有津贴） |
-| 硕士/认证课程 | 1-2年 | —（许多硕士项目免学费） |
+| University bachelor's degree | 3-4 years | $0~$1,500 (Public universities basically have no tuition, only semester fees) |
+| Dual training (rare) | 3 years | $0~$0 (Allowance during training) |
+| Master's/certificate program | 1-2 years | $0~$1,500 (Many master's programs are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 翻译学位或同等学历 | 大学 | 可选 | 通常需要本科或硕士学历，非必需但重要 |
-| 法院宣誓翻译（Beeidigte/r Übersetzer/in） | 州高级法院（OLG） | 必备 | 从事法律翻译必备，需通过考试 |
-| BDÜ认证 | 德国翻译协会（BDÜ） | 可选 | 行业认可，提升信誉 |
+| Court Sworn Translator (Beeidigte/r Übersetzer/in) | Higher Regional Court (OLG) | Required | Essential for legal translation, must pass an exam |
+| Translation degree or equivalent qualification | University | Optional | Typically requires a bachelor's or master's degree, not mandatory but important |
+| BDÜ certification | German Association of Translators and Interpreters (BDÜ) | Optional | Industry recognition, enhance credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。德国对专业口笔译员的需求稳定，尤其在法律和医疗领域。随着全球化与移民增加，需求预计小幅增长。但竞争激烈，自由职业者需建立客户网络。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Demand for professional interpreters and translators in Germany is stable, especially in legal and medical fields. With globalization and immigration, demand is expected to grow slightly. However, competition is fierce, and freelancers need to build a client network.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 自由职业者收入波动大 |
-| 中级（3-7年） | $35,000~$50,000 | 机构内译者薪资更稳定 |
-| 高级（7年以上） | $50,000~$70,000 | 专业领域（如医学、法律）或主管级别 |
+| Median salary | $46,320 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Freelancers have fluctuating income |
+| Mid-level (3–7 years) | $35,000~$50,000 | Institutional translators have more stable salaries |
+| Senior (7+ years) | $50,000~$70,000 | Professional field (e.g., medicine, law) or supervisory level |
+| average salary | $52,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从自由译者起步，逐步晋升为机构内部译者、项目经理或团队主管。通过获得认证（如BDÜ）和积累专长领域（如技术翻译）可提升收入。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
+
+Career development can start as a freelance translator, gradually advancing to in-house translator, project manager, or team lead. Obtaining certifications (e.g., BDÜ) and building expertise (e.g., technical translation) can increase income.
+
+**Tasks most exposed to AI:**
+
+- Standard conference interpreting (e.g., business negotiations)
+- Simple telephone interpreting or community interpreting
+- Basic subtitling/transcription proofreading
+- Standardized oral exam scoring
+
+**Where AI augments the role:**
+
+- Real-time captioning assisting interpretation (AI providing background information)
+- Term base management (AI automatically extracts terms)
+- AI speech-to-text note-taking assistance during simultaneous interpretation
+- Remote interpreting platforms (AI optimizes audio/video).
+- Quality self-check (AI playback comparison against standard translation)
+
+**Human moat:**
+
+- Cultural context understanding and emotional conveyance
+- Rapid decision-making under high pressure
+- Confidentiality and ethical judgment
+- Interpretation of Non-Verbal Signals (Tone, Body Language)
+- Transcreation and rhetorical refinement
+
+**Skills to build:**
+
+- Specialized domain knowledge (legal, medical, financial)
+- AI-assisted translation tools (e.g., Otter.ai, SDL Trados)
+- Remote interpreting platform operations
+- Terminology management and data annotation
+- On-site equipment commissioning and troubleshooting
+- Advanced cross-cultural communication skills
+
+**Key growth areas:**
 
 - Globalization
 - Migration
@@ -65,67 +100,69 @@ Interpreters and translators in Germany convert spoken or written content betwee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历且薪资达门槛（2024年约43,800欧元）的翻译人才，缺工程序下门槛降低 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需获得雇主offer且职业资格被认可，非紧缺职业但可申请 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制，允许来德找工一年，适合高学历翻译 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，需证明经济能力 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to translators with a university degree and meeting the salary threshold (approx. EUR 43,800 in 2024); lower threshold under shortage occupation procedure |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a job offer from an employer and recognized qualifications; not a shortage occupation but can apply. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, allows a one-year job search in Germany, suitable for highly educated translators. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months in Germany to seek employment; proof of financial means required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interpreter and Translator？**
-- 具备出色的双语或多语能力，文化敏感度高的人
-- 适应自由职业模式，有自我管理能力的人
-- 对特定领域（如法律、医学）有浓厚兴趣并乐于钻研的人
-
-**谁不适合学Interpreter and Translator？**
-- 不喜欢高压、多任务处理环境的人
-- 对收入不稳定或初期低薪难以接受的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with excellent bilingual or multilingual skills and high cultural sensitivity
+- People suited to freelancing with self-management skills
+- People with strong interest and willingness to delve into specific fields (e.g., law, medicine)
+
+**Who is not suited**
+- Those who dislike high-pressure, multitasking environments
+- Those who cannot tolerate unstable income or low initial wages
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for German interpreters and translators?**
+A: Full-time translators earn about 35k-50k EUR (pre-tax) annually; freelancers charge per project, approx. 30-80 EUR per hour. Specialized fields (e.g., medical) can earn more.
+
+**Q: How to immigrate to Germany via the translation profession as a non-EU citizen?**
+A: Requires a university degree, eligible for the EU Blue Card (salary threshold €43,800) or a skilled migration visa. Court-certified translators need additional certification. Opportunity card allows job-seeking first.
+
+**Q: Is machine translation a major threat to translators and interpreters?**
+A: AI (e.g., machine translation) greatly impacts standard texts, but fields like law and medicine still require human proofreading. Simultaneous interpretation in interpreting is unlikely to be replaced in the short term.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Interpreter and Translator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for interpreters and translators in Germany?**
-答：Full-time translators earn around €35,000-€50,000 gross annually; freelancers charge €30-€80 per hour. Specialization (e.g., medical) can increase income.
-
-**问：How can non-EU citizens immigrate to Germany as a translator?**
-答：Require university degree; apply for EU Blue Card (salary threshold €43,800) or Skilled Worker visa. Court interpreters need additional certification. Opportunity Card allows job seeking.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

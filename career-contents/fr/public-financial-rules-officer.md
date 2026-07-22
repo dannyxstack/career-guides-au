@@ -1,60 +1,92 @@
-# Public Financial Rules Officer（Public Financial Rules Officer）职业分析 · FR
+# Public Financial Rules Officer — career analysis · France
 
-**职业代码：K1501 – Public Financial Rules Officer。**
+**Occupation code: K1501 (ROME)**
 
-Ensures compliance with public financial regulations, oversees budget execution, conducts financial audits, and implements fiscal policies in government entities.
+Responsible for supervising and enforcing public finance laws and regulations, ensuring compliance in the use of public funds, participating in budget preparation, financial audits, and fiscal policy implementation.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士阶段 | 3年（Licence） | $1,000~$10,000（公立大学学费低，私立高商较高） |
-| 硕士阶段 | 2年（Master） | $2,000~$15,000（公立大学约2000欧/年，私立高商可达1.5万欧/年） |
+| Bachelor's degree | 3 years (Licence) | $1,000~$10,000 (Public universities have lower tuition fees, while private commercial colleges offer higher fees) |
+| Master's level | 2 years (Master) | $2,000~$15,000 (Public universities approximately €2,000/year, private business schools up to €15,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共财政公务员竞争考试 | 法国国家行政学院（INSP）或地方公务员中心 | 必备 | 通过Concours进入公务员系统，必须持有 |
-| 注册会计师资格 | 法国注册会计师协会（OEC） | 可选 | 非强制，但有利于晋升和薪资提升 |
+| Public Finance Civil Service Competitive Exam | The French National Academy of Administration (INSP) or the Local Civil Service Center | Required | Entering the civil service system through Concours requires holding a certificate |
+| Certified Public Accountant qualification | French Institute of Certified Public Accountants (OEC) | Optional | Not mandatory, but beneficial for promotion and salary increases |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 15,000。法国公共财政管理领域需求稳定，受政府改革和数字化影响，未来五年职位数量预计小幅增长，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Demand in public finance management in France remains stable. Influenced by government reforms and digitalization, the number of positions is expected to grow slightly over the next five years, but competition remains fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公务员起薪，公立机构 |
-| 中级（3-8年） | $35,000~$45,000 | 有一定经验后，含补贴 |
-| 高级（8年以上） | $45,000~$60,000 | 部门主管或资深专家 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Civil servants start salaries, public institutions |
+| Mid-level (3–8 years) | $35,000~$45,000 | After gaining some experience, subsidies are included |
+| Senior (8+ years) | $45,000~$60,000 | Department head or senior expert |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从执行专员晋升为高级审计师或部门主管，通过考取公务员高级别职位或转向内部审计、财政监察等方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Most core tasks of public finance regulation enforcement specialists (compliance review, data analysis) can be assisted by AI, but final decision-making and legal responsibilities still require human experts, making them AI-amplified positions.
+
+You can be promoted from Executive Commissioner to Senior Auditor or Department Head, and by obtaining senior civil service positions, you can transition to internal audit, fiscal supervision, and other directions.
+
+**Tasks most exposed to AI:**
+
+- Automated initial verification and anomaly marking of transaction logs and reports
+- Query and matching of basic regulatory provisions
+- Automatic generation and comparative analysis of budget execution data
+- Review of repetitive vouchers and system circulation
+
+**Where AI augments the role:**
+
+- AI-assisted case matching and risk alerting in complex regulatory scenarios
+- Forecast of budget execution trends and abnormal early warnings
+- Automatically generate initial audit papers, allowing specialists to focus on in-depth analysis
+- Real-time monitoring of fund flows and compliance risk dashboards
+
+**Human moat:**
+
+- Professional interpretation and judgment of ambiguous regulatory provisions
+- Building trust in cross-departmental coordination and policy communication
+- Investigation, evidence collection, and liability determination for major violations
+- Value trade-offs in public fiscal policy formulation
+
+**Skills to build:**
+
+- Python/Pandas automates data processing
+- Data visualization tools (Tableau/Power BI)
+- Basic machine learning concepts and applications
+- Proficient in public finance-specific regulations such as GDPR
+- Process Automation (RPA) tool operation
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Public Finance
 - Regulatory Compliance
@@ -63,65 +95,67 @@ Ensures compliance with public financial regulations, oversees budget execution,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Visa） | 适用于获得法国雇主工作合同的外国人，需通过劳动局审核。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如硕士以上学历且年薪达法国平均工资1.5倍以上。 |
+| Subclass Salarié (Employee Visa) | Applicable to foreigners who obtain a work contract with a French employer must pass the review by the Labor Bureau. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with a master's degree or above and an annual salary at least 1.5 times the French average salary. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Financial Rules Officer？**
-- 对公共财政和法规有浓厚兴趣的人
-- 通过公务员考试并有耐心服务公共部门的人
-- 注重工作稳定性和福利的人
+**Who is suited**
+- People with a strong interest in public finance and regulations
+- Those who pass the civil service exam and have patience to work in the public sector.
+- People who value job stability and benefits
 
-**谁不适合学Public Financial Rules Officer？**
-- 追求快速晋升和高薪的人
-- 不喜欢严格规章制度和行政流程的人
+**Who is not suited**
+- People who pursue rapid promotions and high salaries
+- People who dislike strict rules and administrative procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for the Public Finance Regulation Enforcement Officer?**
+A: Entry-level annual salary approx. €28,000–35,000, mid-level €35,000–45,000, senior €45,000–60,000. Civil servant salaries have fixed grades, depending on level and position.
+
+**Q: Can non-EU foreigners immigrate to France to work in this profession?**
+A: It's very difficult. This position usually requires French civil service status and passing a competitive exam, which is rarely obtained by non-EU individuals. A few cases allow entry to public institutions through the Salarié visa, but competition is fierce.
+
+**Q: What qualifications are required?**
+A: Usually, a bachelor's degree in public finance, accounting, or law-related fields is required, with a master's degree being more advantageous. In addition, you must pass the civil service competitive exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Public Financial Rules Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Public Financial Rules Officer?**
-答：Entry-level salary ranges from €28,000 to €35,000 gross per year, mid-level €35,000-€45,000, and senior €45,000-€60,000. Civil servant salaries follow fixed scales based on rank and position.
-
-**问：Can non-EU foreigners immigrate to France for this occupation?**
-答：Very difficult. This role typically requires French civil service status and competitive exams, rarely open to non-EU nationals. The Employee visa is possible for some public positions but highly competitive.
-
-**问：What education is required?**
-答：A bachelor's degree in public finance, accounting, or law is typical; a master's degree is advantageous. Additionally, passing the civil service competitive exam is mandatory.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Engineering Technologist（Engineering Technologist）职业分析 · 新西兰
+# Engineering Technologist — career analysis · New Zealand
 
-**职业代码：233914 – Engineering Technologist。**
+**Occupation code: 233914 (ANZSCO)**
 
-Engineering Technologists in New Zealand apply engineering principles to assist engineers in design, testing, and maintenance of industrial, manufacturing, or construction projects, listed as a long-term shortage occupation eligible for Green List direct residence.
+Engineering technicians in New Zealand apply engineering principles to assist engineers in designing, testing, and maintaining industrial, manufacturing, or construction projects. This is a long-term shortage occupation eligible for a Green List direct residence visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 理工科本科 | 3年 | $25,000~$40,000（新西兰大学本科学费（国际学生）） |
-| 工程技师大专 | 2年 | $15,000~$25,000（理工学院或私立院校学费） |
-| 研究生文凭 | 1年 | $30,000~$45,000（部分大学开设工程实践类硕士） |
+| Bachelor's degree in science or engineering | 3 years | $25,000~$40,000 (New Zealand university undergraduate tuition (international students)) |
+| Engineering technician diploma | 2 years | $15,000~$25,000 (Tuition fees at polytechnics or private institutions) |
+| Graduate diploma | 1 year | $30,000~$45,000 (Some universities offer master's degrees in engineering practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士（荣誉） | 新西兰大学（如奥克兰大学、坎特伯雷大学） | 必备 | 通常需3年，认可度最高 |
-| 新西兰工程技师注册（ENZ） | Engineering New Zealand | 可选 | 非强制但显著提升就业竞争力 |
-| 雅思6.5（单项不低于6.0） | IELTS | 必备 | 技术移民和注册要求 |
+| Bachelor of Engineering (Honours) | New Zealand universities (e.g., University of Auckland, University of Canterbury) | Required | Usually requires 3 years, highest recognition |
+| IELTS 6.5 (no band below 6.0) | IELTS | Required | Skilled migration and registration requirements |
+| New Zealand Engineering Technician Registration (ENZ) | Engineering New Zealand | Optional | Not mandatory but significantly enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。新西兰基础设施建设持续投入，工程技师需求稳定增长，尤其在奥克兰、基督城等城市。未来5年预计新增岗位约1200个，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. New Zealand continues to invest in infrastructure, with steady growth in demand for engineering technicians, especially in cities like Auckland and Christchurch. About 1,200 new jobs are expected over the next 5 years, with good employment prospects.
 
-**竞争度：中等偏下（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 应届毕业生起薪 |
-| 中级（3-8年） | $75,000~$95,000 | 经验丰富的技师 |
-| 高级（8年以上） | $100,000~$130,000 | 高级工程师或项目经理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Graduate starting salary |
+| Mid-level (3–8 years) | $75,000~$95,000 | Experienced technician |
+| Senior (8+ years) | $100,000~$130,000 | Senior engineer or project manager |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级技师晋升为高级技师或项目经理，积累经验后可考取注册工程师资格（CPEng），或转向专攻领域如结构、机械或电气工程。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Engineering technicians face mixed AI impact: routine testing and documentation tasks are automated, but tasks relying on experience like on-site troubleshooting and design verification require human intervention. Industry demand is stable, but competition for entry-level positions intensifies.
+
+Can progress from junior technician to senior technician or project manager; with experience, can obtain Chartered Professional Engineer (CPEng) qualification or specialize in structural, mechanical, or electrical engineering.
+
+**Tasks most exposed to AI:**
+
+- Automatically reads sensor data and generates test reports
+- AI-assisted computer-aided design (CAD) for standard part modeling.
+- Automated script execution of repetitive material strength calculations
+- Use RPA to organize project documents and compliance checklists.
+- AI-driven fault diagnosis system handles common equipment alarms
+
+**Where AI augments the role:**
+
+- AI-assisted structural optimization design (generative design)
+- Digital twin platform for remote monitoring and predictive maintenance
+- Natural language interface for quick retrieval of technical specifications
+- Machine learning analyzes historical data to optimize process workflows
+- Augmented reality (AR)-guided on-site construction installation
+
+**Human moat:**
+
+- Cross-system integration and on-site commissioning experience
+- Creative troubleshooting skills for non-standard faults
+- Communicate requirements and technical decisions with clients/construction parties
+- Professional judgment on safety standards and reliability
+- Engineering ethics responsibilities in multidisciplinary collaboration
+
+**Skills to build:**
+
+- Advanced applications of BIM (e.g., Revit)
+- Python/SQL automation and data analysis
+- Digital twin and IoT platform operation
+- AI-assisted design tools (e.g., Generative Design).
+- Augmented Reality (AR) On-Site Support Tool
+- Systems engineering and integration testing methodology
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,69 +99,68 @@ Engineering Technologists in New Zealand apply engineering principles to assist 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，适用于工程技师职业，无需先工作即可申请。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制，满足分数要求可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合先持工签工作后转居留。 |
-| Subclass Green List T2（Work to Residence Visa） | 工作转居留签证，需在新西兰工作2年后申请。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa for engineering technician occupations, can apply without prior work. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system; eligible if points requirement is met. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, suitable for those who first hold a work visa and then transition to residence. |
+| Subclass Green List T2 (Work to Residence Visa) | Work-to-residence visa, requires application after working in New Zealand for 2 years. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Technologist？**
-- 喜欢动手解决工程问题、有逻辑思维的人
-- 希望在海外工作并快速移民新西兰的人
-- 具备工程或理学背景，愿意继续深造者
-
-**谁不适合学Engineering Technologist？**
-- 不喜欢数学和物理、对枯燥技术文档提不起兴趣的人
-- 希望工作轻松、朝九晚五、无压力者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on problem-solving in engineering and have logical thinking
+- People wanting to work overseas and immigrate to New Zealand quickly
+- Those with an engineering or science background willing to pursue further studies
+
+**Who is not suited**
+- People who dislike maths and physics and are not interested in boring technical documents
+- Those seeking easy work, 9-to-5 schedule, and no pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for engineering technicians in New Zealand?**
+A: Junior annual salary approximately NZD 55,000-70,000; intermediate NZD 75,000-95,000; senior can exceed NZD 100,000. Experienced registered technicians earn higher.
+
+**Q: Is it easy for engineering technicians to immigrate through skilled migration?**
+A: Engineering Technologist is on the Green List Tier 1, eligible for direct residence visa without requiring prior work. Also on the Long Term Skill Shortage List, with a favorable immigration policy.
+
+**Q: Do engineering technicians need to be registered?**
+A: Registration (ENZ) is not mandatory but beneficial for career development and salary increase. Immigrants and employers usually recognize registration qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 3年（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等偏下（★★☆☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Engineering Technologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Engineering Technologists in New Zealand?**
-答：Entry-level salary is around NZD 55,000-70,000, mid-level NZD 75,000-95,000, and senior-level can exceed NZD 100,000 per year. Registered technologists earn more.
-
-**问：Is it easy for Engineering Technologists to immigrate to New Zealand?**
-答：Yes, Engineering Technologist is on Green List Tier 1, allowing direct residence visa applications without prior employment. It's also on the Long Term Skill Shortage List, making immigration straightforward.
-
-**问：Do Engineering Technologists need to be registered?**
-答：Registration with Engineering New Zealand (ENZ) is not mandatory but beneficial for career advancement and higher salary. It's recognized by immigration and employers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

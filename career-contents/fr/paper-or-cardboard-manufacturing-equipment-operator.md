@@ -1,60 +1,93 @@
-# Paper or Cardboard Manufacturing Equipment Operator（Paper or Cardboard Manufacturing Equipment Operator）职业分析 · FR
+# Paper or Cardboard Manufacturing Equipment Operator — career analysis · France
 
-**职业代码：H3101 – Paper or Cardboard Manufacturing Equipment Operator。**
+**Occupation code: H3101 (ROME)**
 
-Operates, monitors, and maintains machines in paper or cardboard production lines to ensure product quality and efficiency, a skilled trade in industrial manufacturing.
+Operating, monitoring, and maintaining machines on paper or cardboard production lines to ensure product quality and production efficiency is a technical occupation in the field of industrial manufacturing.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 在造纸或工业设备操作 | 2年 | —（公立职业高中免费，私立约3000-5000欧元） |
-| BTS 在纸浆造纸或工业维护 | 2年 | —（公立学校免费，私立最高8000欧元） |
+| CAP operates in papermaking or industrial equipment | 2 years | $0~$5,000 (Public vocational high schools are free, while private ones cost about 3,000-5,000 euros) |
+| BTS is used in pulp papermaking or industrial maintenance | 2 years | $0~$8,000 (Public schools are free, with private schools charging up to 8,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 造纸设备操作员证书 | 法国造纸行业联合会（Copacel） | 可选 | 行业认可的职业资格，非强制但有助于就业 |
-| CACES 证书（如适用） | 国家职业安全研究所（INRS） | 可选 | 操作叉车等设备所需，非本工种必备 |
+| CQP paper equipment operator certificate | French Paper Industry Federation (Copacel) | Optional | Industry-recognized professional qualifications, non-mandatory but helpful for employment |
+| CACES certificate (if applicable) | National Institute for Occupational Safety (INRS) | Optional | Required for operating forklifts and other equipment, not essential for this trade |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。法国造纸业面临转型，但对熟练操作员需求稳定，特别是掌握自动化设备的人员。行业向可持续包装材料发展，有望创造新岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. The French paper industry is facing transformation, but demand for skilled operators remains steady, especially those skilled in automation equipment. The industry is moving toward sustainable packaging materials, which is expected to create new jobs.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，根据地区和公司规模浮动 |
-| 中级（3-7年） | $28,000~$34,000 | 含夜班和加班补贴视情况增加 |
-| 高级（7年以上） | $34,000~$42,000 | 可能包含团队管理职责 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary, varies by region and company size |
+| Mid-level (3–7 years) | $28,000~$34,000 | Including night shift and overtime allowances, the allowance will be increased as needed |
+| Senior (7+ years) | $34,000~$42,000 | May include team management responsibilities |
+| average salary | $31,416 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为生产线主管或质量控制技术员，也可通过继续教育转向工业维护或工艺工程师岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Some quality monitoring and scheduling tasks for cardboard manufacturing operators can be automated by AI, but physical judgments such as machine maintenance and exception handling still require human experience, resulting in both risks and opportunities.
+
+You can be promoted from junior operator to production line supervisor or quality control technician, or through continuing education to transition to industrial maintenance or process engineer positions.
+
+**Tasks most exposed to AI:**
+
+- Online product quality inspection and defect marking (AI visual replacements for manual visual inspection)
+- Production data recording and basic statistical analysis (AI-generated reports)
+- Machine speed regulation and linkage under standard parameters (AI optimized control)
+- Simple fault alarm handling (AI automatic diagnosis and reset)
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance: Provides early warnings of equipment faults through vibration and temperature sensor data
+- AI optimizes process parameters: recommends the optimal pressing and drying temperatures based on real-time raw material variables
+- AI-driven scheduling and scheduling: dynamically adjust production schedules to reduce changeover time
+- AI-assisted quality traceability: Quickly locates defective batches and traces raw materials and process segments
+
+**Human moat:**
+
+- Manual troubleshooting and on-site repair of non-standard faults (relying on tactile and auditory experience)
+- Adaptive adjustments for old equipment or special raw materials (unable to standardize modeling)
+- Cross-departmental on-site coordination and emergency command (such as rapid decision-making during water outages or material shortages)
+- Flexible Enforcement of Safety Procedures (Identifying Unforeseen Human Factors)
+
+**Skills to build:**
+
+- PLC basics and industrial IoT equipment operation
+- Data analysis and basic statistics (such as Excel, Python)
+- Fundamentals of Mechanical and Electrical Maintenance (Fitter, Circuit Inspection)
+- Basic use of AI quality inspection systems (computer vision tools).
+- Production Process Digitalization (MES System)
+- Cross-team communication and problem-solving
+
+**Key growth areas:**
 
 - Automation
 - Sustainable packaging
@@ -63,65 +96,67 @@ Operates, monitors, and maintains machines in paper or cardboard production line
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇工作居留，需法国雇主提供工作合同，薪资不低于行业最低标准 |
-| Subclass Passeport Talent（Passeport Talent） | 人才护照，适用于高技能人才，但本职业通常不符合高技能标准 |
+| Subclass Salarié (Salarié) | For employment-based residence, a French employer must provide a work contract, with a salary not lower than the industry's minimum standard |
+| Subclass Passeport Talent (Passeport Talent) | Talent passports are suitable for highly skilled individuals, but this profession usually does not meet the high-skilled criteria |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Paper or Cardboard Manufacturing Equipment Operator？**
-- 喜欢动手操作和机械工作的人
-- 注重流程和产品质量的人
-- 愿意接受轮班工作（夜班/周末）的人
+**Who is suited**
+- People who enjoy hands-on and mechanical work
+- People who focus on process and product quality
+- Willing to accept shift work (night shifts/weekends).
 
-**谁不适合学Paper or Cardboard Manufacturing Equipment Operator？**
-- 不适应重复性体力劳动的人
-- 偏好自由作息和创造性的工作的人
+**Who is not suited**
+- People not suited for repetitive physical labor
+- People who prefer free schedules and creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for paper machine operators?**
+A: Entry-level annual salary is about EUR 23,000-28,000; with experience, it can reach EUR 34,000-42,000; including night shift allowances may be higher.
+
+**Q: Can non-EU individuals immigrate to France through this employment?**
+A: It is quite challenging; this occupation is not considered in short supply, and the salary level usually does not reach the talent passport threshold, mainly relying on employment-based residence and requiring employer support.
+
+**Q: What promotion opportunities are available for paper machine operators?**
+A: You can be promoted to production supervisor, quality controller, or equipment maintenance technician, and also learn new techniques to become an automation system operator.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Paper or Cardboard Manufacturing Equipment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a paper machine operator?**
-答：Entry-level annual salary is around €23,000-€28,000, rising to €34,000-€42,000 with experience, including shift allowances.
-
-**问：Can non-EU nationals immigrate to France through this occupation?**
-答：It is difficult as this occupation is not on the shortage list, and salary levels often do not meet the talent passport threshold; mainly relies on employer-sponsored work permit.
-
-**问：What are the career advancement opportunities for a paper machine operator?**
-答：Can advance to production supervisor, quality control technician, or maintenance technician, or learn new skills to become an automation system operator.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

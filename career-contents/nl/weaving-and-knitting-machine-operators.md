@@ -1,60 +1,95 @@
-# Weaving and Knitting Machine Operators（Weaving and Knitting Machine Operators）职业分析 · NL
+# Weaving and Knitting Machine Operators — career analysis · Netherlands
 
-**职业代码：8152 – Weaving and Knitting Machine Operators。**
+**Occupation code: 8152 (ISCO08)**
 
-Operate weaving and knitting machines to produce textiles from yarn, primarily in manufacturing settings.
+Operates weaving and knitting machines to process yarn into fabric or knitted goods; a basic production role in manufacturing.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | —（MBO级别，可能由政府资助） |
-| 在职培训 | 6-12个月 | —（雇主提供，通常无学费） |
+| Secondary vocational education | 2-3 years | $0~$2,000 (MBO level, possibly government funded) |
+| On-the-job training | 6–12 months | $0~$500 (Employer-provided, usually no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作员证书 | 行业认证机构 | 可选 | 非强制，但有助于就业 |
-| 安全培训 | 雇主或培训机构 | 必备 | 通常为入职要求 |
+| Safety training | Employer or training provider | Required | Usually a job requirement |
+| Operator certificate | Industry certification bodies | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 2,500。荷兰纺织制造业规模较小且自动化程度高，岗位需求稳定但增长有限，部分企业外迁导致就业机会减少。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,500. The Dutch textile manufacturing industry is small-scale and highly automated, with stable but limited job demand; some companies relocating abroad has led to reduced employment opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$33,000 | 税前年薪 |
-| 高级（7年以上） | $33,000~$38,000 | 税前年薪 |
+| Median salary | $44,262 | Median salary (official: CBS median hourly wage €22.4/hr × 1976h annualized, BRC group 0771 Productiemachinebedieners; P25–P75 €35,568–€53,352, CBS 2024) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$33,000 | Annual pre-tax salary |
+| Senior (7+ years) | $33,000~$38,000 | Annual pre-tax salary |
+| average salary | $30,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级操作员晋升为高级操作员或生产主管，也可通过培训转向纺织机械维修或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation technologies will significantly reduce demand for weaving and knitting machine operators, as machine vision, automated inspection, and robotic yarn-changing systems can replace most manual operations, leading to a notable decrease in job numbers.
+
+Can progress from entry-level operator to senior operator or production supervisor, or shift to textile machinery maintenance or quality control through training.
+
+**Tasks most exposed to AI:**
+
+- Yarn splicing and break handling: AI vision system automatically detects and repairs broken yarn
+- Manual fabric quality inspection: machine vision for real-time defect detection
+- Simple mode programming and adjustment: AI automatically generates knitting parameters based on design
+- Roll Change and Cloth Drop Operations: Automated system completes roll change and handling
+- Equipment status inspection: IoT sensors and AI predictive maintenance replace manual inspections
+
+**Where AI augments the role:**
+
+- Complex jacquard pattern design: AI-assisted generation and optimization of patterns to enhance creative efficiency
+- Multi-machine scheduling and monitoring: AI systems help operators manage multiple machines and optimize production processes
+- Quality data analysis: AI analysis of defect data to guide process improvements
+- Machine fault diagnosis: AI-assisted rapid location and troubleshooting
+
+**Human moat:**
+
+- Experience in handling non-standard yarns or special materials
+- Ability to modify equipment and customize machine setup
+- Creativity to collaborate with designers on complex patterns
+- Comprehensive judgment and emergency response to production anomalies
+- Mechanical skills for maintaining old or non-automated equipment
+
+**Skills to build:**
+
+- Digital operation and basic knowledge of textile machinery
+- Use of AI-assisted design software (e.g., Jacquard CAD)
+- Basic programming of industrial robots (for yarn feeding and handling)
+- Statistical methods for data analysis and quality control
+- PLC Fundamentals and Simple Automation Maintenance
+- IoT Device Management and Data Interpretation
+
+**Key growth areas:**
 
 - Automation
 - Textile manufacturing
@@ -63,65 +98,67 @@ Operate weaving and knitting machines to produce textiles from yarn, primarily i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需额外签证 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于技术移民，但此职业通常不符合薪资门槛 |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled migration, but this occupation usually does not meet the salary threshold |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Weaving and Knitting Machine Operators？**
-- 偏好动手操作的体力劳动者
-- 能接受重复性工作环境者
-- 希望在制造业寻找稳定基础岗位者
+**Who is suited**
+- Preference for physically oriented workers.
+- Able to work in repetitive environments
+- For those seeking stable entry-level positions in manufacturing
 
-**谁不适合学Weaving and Knitting Machine Operators？**
-- 追求高薪资与职业前景者
-- 难以适应倒班或噪音环境者
+**Who is not suited**
+- Those seeking high salaries and career prospects
+- Those who have difficulty adapting to shift work or noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Weaving and Knitting Machine Operators?**
+A: Entry-level annual salary approx. €24,000-28,000, up to €38,000 for senior roles, below the Dutch average wage.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Very difficult. This occupation is not in high demand, and the salary is below the high-skilled immigration threshold, mainly targeting EU citizens.
+
+**Q: How to advance from operator to management?**
+A: Typically need experience before joining management training, or obtain production supervisor qualifications through MBO courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Weaving and Knitting Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for weaving and knitting machine operators?**
-答：Entry-level annual salary is around €24,000-28,000, and senior operators can earn up to €38,000, below the Dutch average.
-
-**问：Can non-EU citizens immigrate through this occupation?**
-答：Very difficult. The occupation is not in shortage and salary does not meet the Highly Skilled Migrant threshold; primarily for EU citizens.
-
-**问：How to advance from operator to management?**
-答：Usually requires experience plus management training or MBO courses to qualify as a production supervisor.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Hairdressing And Makeup For The Performing Arts（Hairdressing And Makeup For The Performing Arts）职业分析 · FR
+# Hairdressing And Makeup For The Performing Arts — career analysis · France
 
-**职业代码：L1501 – Hairdressing And Makeup For The Performing Arts。**
+**Occupation code: L1501 (ROME)**
 
-Provides hairdressing and makeup services for film, television, theatre, and fashion shows. Requires artistic creativity, technical proficiency, and a deep understanding of stage effects.
+Hair design and makeup services for performing arts such as film, television, theater, and fashion shows. This profession requires artistic creativity, technical proficiency, and a deep understanding of stage effects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 美容美发 | 2年 | $1,000~$5,000（公立学校学费低，私立学校较高） |
-| BTS 造型与化妆 | 2年 | $3,000~$8,000（含实习，部分学校有学徒制） |
-| 专业艺术院校文凭（如ESMA） | 3年 | $8,000~$15,000（注重实践与创意，学费较高） |
+| CAP Beauty and Hairdressing | 2 years | $1,000~$5,000 (Public schools have lower tuition fees, while private schools have higher fees) |
+| BTS styling and makeup | 2 years | $3,000~$8,000 (Internships included, with some schools offering apprenticeship systems) |
+| Professional art school diplomas (such as ESMA) | 3 years | $8,000~$15,000 (Emphasis on practice and creativity, with relatively high tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 美容美发证书 | 法国教育部 | 必备 | 基础入门资格 |
-| BTS 造型与化妆文凭 | 法国教育部 | 可选 | 更专业的资格 |
-| 专业化妆学校结业证书 | 私立造型学校 | 可选 | 行业认可度取决于学校声誉 |
+| CAP Beauty and Hairdressing Certificate | French Ministry of Education | Required | Basic entry-level qualification |
+| BTS Styling and Makeup Diploma | French Ministry of Education | Optional | More professional qualifications |
+| Certificate of completion from a professional makeup school | Private modeling school | Optional | Industry recognition depends on the school's reputation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国影视与时尚产业持续繁荣，对专业演出造型师需求稳定。巴黎作为时尚之都，就业机会较多。但竞争激烈，自由职业者需建立人脉。数字化转型带来虚拟试妆等新领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's film and fashion industries continue to thrive, with stable demand for professional performance stylists. As a fashion capital, Paris offers abundant job opportunities. But competition is fierce, and freelancers need to build networks. Digital transformation has brought new fields such as virtual try-ons.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 自由职业者收入可能更低 |
-| 中级（4-7年） | $30,000~$40,000 | 可稳定接项目或受聘于固定团队 |
-| 高级（8年以上） | $42,000~$60,000 | 知名项目或首席职位可达更高 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Freelancers may have lower income |
+| Mid-level (4-7 years) | $30,000~$40,000 | Able to take on stable projects or be employed by a fixed team |
+| Senior (8+ years) | $42,000~$60,000 | Prestigious projects or lead positions can reach even higher levels |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级助理晋升为首席化妆师或发型总监，也可向特效化妆、美容顾问或教育方向转型。积累作品集和行业联系至关重要，部分人选择开设自己的工作室。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace benchmarking and some makeup processes in hairstyle design, but creativity, communication, and on-site adaptability still rely on humans, with overall risks and opportunities coexisting. Competition for entry-level positions may intensify, but those proficient in AI tools will gain more creative space.
+
+You can advance from junior assistant to chief makeup artist or hairstylist, or transition into special effects makeup, beauty consultant, or education. Building portfolios and industry connections is crucial, and some choose to open their own studios.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to generate 3D preview templates for basic hairstyles or makeup
+- Automatically analyzes facial features through image recognition and recommends standard makeup schemes
+- Benchmark tests simulating makeup effects under different lighting conditions using algorithms
+- Standardized mechanical repetitive steps in hairstyle braiding or wig making
+- Automatically generates scenario-based color matching schemes based on the script
+
+**Where AI augments the role:**
+
+- AI-assisted generation of virtual try-on effects for hairstyles and makeup to accelerate customer communication
+- Utilize machine learning to analyze historical data and uncover visual trends
+- Real-time tracking of stage lighting changes and dynamic adjustment of makeup color schemes
+- Rehearse stage effects with motion capture technology to optimize hairstyle dynamics
+- AI batch processing of background materials allows creators to focus on core designs
+
+**Human moat:**
+
+- Aesthetic judgment based on the actor's emotions and the depth of the character's creation of unique styling
+- The ability to communicate instantly with actors and directors on site and adjust the plan
+- Physical skills needed to handle special effects (such as fake blood or wounds).
+- The ability to artistically blend cross-cultural symbols and metaphors
+- Providing emotional value and trust in high-pressure performance environments
+
+**Skills to build:**
+
+- Learn AI-assisted design tools (such as Midjourney, Stable Diffusion) to generate concept diagrams
+- Proficient in 3D modeling software (Blender, ZBrush) for virtual modeling design
+- Data analytics and trend forecasting tools (such as Tableau) are used for industry insights
+- Basic programming (Python) to customize automated workflows
+- Experience operating augmented reality (AR) makeup try-on technology
+- Project management tools (such as Notion) efficiently coordinate multi-line tasks
+
+**Key growth areas:**
 
 - Artificial Intelligence
 - Digital Makeup
@@ -63,68 +99,67 @@ Provides hairdressing and makeup services for film, television, theatre, and fas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家或自由职业者，需提供作品集和项目证明，有效期4年 |
-| Subclass Salarié（Salarié） | 受雇于法国公司的工作居留，需雇主担保，合同至少12个月 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪达€53,836（2024年门槛），适用于高度熟练员工 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to artists or freelancers, requiring portfolio and project proof, valid for 4 years |
+| Subclass Salarié (Salarié) | Work residence employed by a French company requires employer sponsorship, with a contract of at least 12 months |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary of €53,836 (2024 threshold) is required, applicable to highly skilled employees |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hairdressing And Makeup For The Performing Arts？**
-- 拥有艺术创意和审美能力的人
-- 适应自由职业和项目制工作节奏的人
-- 愿意持续学习新技术和风格的人
-
-**谁不适合学Hairdressing And Makeup For The Performing Arts？**
-- 追求稳定固定收入的人
-- 不善于自我推广和建立人脉的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with artistic creativity and aesthetic ability
+- People who adapt to freelance and project-based work rhythms
+- People willing to continuously learn new technologies and styles
+
+**Who is not suited**
+- People seeking stable and fixed income
+- People who are not good at self-promotion and networking
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for performance hairstylists and makeup artists?**
+A: Junior freelancers earn about €20,000-28,000/year, mid €30,000-40,000, senior €42,000-60,000. Working for large production companies offers more stable income.
+
+**Q: How can non-EU citizens enter France to work in this profession?**
+A: You can stay through Passeport Talent (artist) or Salarié (employed). Professional competence must be demonstrated, such as portfolios and client recommendations. Carte bleue UE is suitable for high-paying positions.
+
+**Q: Is this career competitive?**
+A: Yes, especially in fashion capitals like Paris, entry-level competition is fierce. Building a unique style and a strong network of contacts is key to standing out.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hairdressing And Makeup For The Performing Arts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hairdressing and makeup for performing arts?**
-答：Junior freelancers earn around €20,000-€28,000 per year, mid-level €30,000-€40,000, senior up to €42,000-€60,000. Employment by large production companies provides more stable income.
-
-**问：How can non-EU citizens work in this occupation in France?**
-答：Via Talent Passport (artist) or Salarié (employed) residence permits. Need to demonstrate professional skills with portfolio and references. EU Blue Card for high-salary positions.
-
-**问：Is this occupation highly competitive?**
-答：Yes, especially in fashion capitals like Paris. Developing a unique style and strong network is key to standing out.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

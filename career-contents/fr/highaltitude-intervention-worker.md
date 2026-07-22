@@ -1,61 +1,94 @@
-# High-Altitude Intervention Worker（High-Altitude Intervention Worker）职业分析 · FR
+# High-Altitude Intervention Worker — career analysis · France
 
-**职业代码：I1501 – High-Altitude Intervention Worker。**
+**Occupation code: I1501 (ROME)**
 
-Performs installation, maintenance, cleaning, and repair tasks at height using ropes, lifts, and other equipment, ensuring safety and efficiency.
+Engage in installation, maintenance, cleaning, and repair work in high-altitude environments, using ropes, lifting platforms, and other equipment to ensure safety and efficiency in operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中+专业培训（CAP/BEP） | 2年（CAP） | —（公立学校免费，私立培训约3000-10000欧元） |
-| 专科文凭+学徒制（BTS） | 2年（BTS） | —（学徒制期间有工资，培训费由企业承担） |
-| 职业认证课程（CQP） | 1-2年 | $2,000~$8,000（针对在职人员，可分期或由雇主资助） |
+| High School + Professional Training (CAP/BEP) | 2 years (CAP) | $0~$10,000 (Public schools are free, while private tutoring costs about 3,000–10,000 euros) |
+| Associate Degree + Apprenticeship (BTS) | 2 Years (BTS) | $0~$5,000 (During the apprenticeship period, there is a salary, and training costs are covered by the enterprise) |
+| Vocational Certification Program (CQP) | 1-2 years | $2,000~$8,000 (For current employees, installments or employer funding are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业证书（CQP Travaux en hauteur） | 法国建筑联合会（FFB） | 必备 | 必需，证明安全操作能力 |
-| 绳索技术证书（CQP Cordiste） | 法国职业资格委员会（CPNEP） | 可选 | 用于绳索作业，非强制但广泛认可 |
-| 安全与健康培训（SST） | 法国劳动部 | 必备 | 急救与安全知识，必备 |
-| 高空作业机械操作证（CACES） | 法国劳动部 | 必备 | 操作升降平台等设备所需 |
+| High-altitude work certificate (CQP Travaux en hauteur) | French Architectural Federation (FFB) | Required | It is necessary to demonstrate safe operational capability |
+| Safety and Health Training (SST) | French Ministry of Labor | Required | First aid and safety knowledge, essential |
+| Aerial Work Machinery Operation Certificate (CACES) | French Ministry of Labor | Required | Needed for operating lifting platforms and other equipment |
+| Rope Technology Certificate (CQP Cordiste) | French Professional Qualifications Commission (CPNEP) | Optional | Used for rope work, not mandatory but widely recognized |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。法国高空作业需求稳定，受建筑维护、可再生能源安装及城市基础设施更新驱动。未来十年就业前景良好，持证人员短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. France's demand for aerial work is stable, driven by building maintenance, renewable energy installations, and urban infrastructure upgrades. Employment prospects for the next ten years are promising, but there is a shortage of certified personnel.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含奖金 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪，视技能和项目复杂度 |
-| 高级（8年以上） | $35,000~$45,000 | 税前年薪，包括项目经理或培训师 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4-7 years) | $28,000~$35,000 | Pre-tax annual salary, depending on skill and project complexity |
+| Senior (8+ years) | $35,000~$45,000 | Pre-tax annual salary, including project manager or trainer |
+| average salary | $20,586 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业晋升路径：从高空作业员到团队负责人，再到安全监督员或培训师。也可通过获得更高级认证（如CQP）转向复杂工程管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+High-altitude workers face the combined impact of AI and automation: drones and robots replace some high-risk inspection and cleaning tasks, but enhance safety monitoring and precise operation capabilities; Humans still have advantages in judging complex environments and handling emergencies.
+
+Career Promotion Path: From aerial operator to team leader, then to safety supervisor or trainer. You can also transition to complex engineering management by obtaining higher-level certifications (such as CQP).
+
+**Tasks most exposed to AI:**
+
+- Inspection and data recording of high-altitude building facades (replaced by drones)
+- Standardized rope lowering cleaning operations (replacing robotic cleaning systems)
+- High-altitude monitoring and initial safety alarms (AI vision system automatically identifies hazards)
+- Repetitive installation measurement and marking (replacing automated laser measurement tools)
+
+**Where AI augments the role:**
+
+- AI-enhanced safety monitoring: wearable devices monitor physiological status in real time and warn of fall risks
+- Precise positioning and navigation: AR glasses overlay construction drawings to reduce errors
+- Intelligent rope and lifting equipment control: automatically adjusts tension and height to improve efficiency
+- Health and fatigue management: AI analyzes workload duration and physical exertion to optimize scheduling
+
+**Human moat:**
+
+- On-site judgment and emergency response in complex environments (such as sudden changes in wind speed and structural hazards)
+- Fine manual operations and unconventional maintenance (unpredictable non-standard components)
+- Team collaboration and on-site communication (especially coordination with other trades)
+- Regulatory compliance and safety training guidance for working at heights
+
+**Skills to build:**
+
+- Drone operation and maintenance (flight inspection and local operations)
+- Use and data interpretation of AI-assisted diagnostic systems
+- Wearable security devices operate on IoT platforms
+- Fundamentals of Collaboration and Programming for High-altitude Robots
+- Augmented reality (AR) visualization tool experience
+- Machine takeover and manual backup operations in emergencies
+
+**Key growth areas:**
 
 - Suspension rope
 - Building maintenance
@@ -64,69 +97,68 @@ Performs installation, maintenance, cleaning, and repair tasks at height using r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue européen（EU Blue Card） | 适用于非欧盟高技能人才，需年薪约含53395欧元（2024），但本职业薪资通常不达门槛，较少使用。 |
-| Subclass Passeport Talent - P（Talent Passport - Qualified Professional） | 适用于紧缺职业，需雇主合同且薪资不低于28108欧元（SMIC），本职业符合条件。 |
-| Subclass Salarié（Employee Work Permit） | 标准工作许可，需法国雇主提供长期合同并证明招聘困难，适合有经验的申请人。 |
-| Subclass Recherche d'emploi /（Job Search / Business Creation） | 毕业后可申请12个月居留求职，找到相关工作后可转工签。 |
+| Subclass Carte bleue européen (EU Blue Card) | Applicable to non-EU high-skilled professionals, requiring an annual salary of approximately €53,395 (2024), but salaries in this occupation are usually below the threshold and rarely used. |
+| Subclass Passeport Talent - P (Talent Passport - Qualified Professional) | Applicable to scarce occupations, requiring an employer contract and a salary of no less than 28,108 euros (SMIC); this occupation meets the requirements. |
+| Subclass Salarié (Employee Work Permit) | Standard work permit, requiring a long-term contract from a French employer and proof of recruitment difficulties, suitable for experienced applicants. |
+| Subclass Recherche d'emploi / (Job Search / Business Creation) | After graduation, you can apply for a 12-month residence to find a job, and after finding a relevant job, you can switch to a work visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学High-Altitude Intervention Worker？**
-- 喜欢户外和体力工作
-- 不恐高且注重安全
-- 愿意接受持续培训
-
-**谁不适合学High-Altitude Intervention Worker？**
-- 严重恐高或头晕
-- 无法适应不定时工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes outdoor and physical work
+- Not afraid of heights and focused on safety
+- Willing to undergo ongoing training
+
+**Who is not suited**
+- Severe fear of heights or dizziness
+- Unable to adapt to irregular work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for workers working at heights?**
+A: Entry-level salaries range from about 22,000 to 28,000 euros, intermediate salaries from 28,000 to 35,000 euros, and seniors up to 45,000 euros, depending on region and project.
+
+**Q: How can non-EU citizens immigrate to France through high-altitude work?**
+A: You can apply through Passeport Talent (employer contract and salary not lower than SMIC) or Salarié work visas. French proficiency must be at least B1, and certification (CQP/CACES) is required.
+
+**Q: What mandatory certifications are required?**
+A: Required: Certificate for Working at Heights (CQP Travaux en hauteur), Safety Training (SST), Mechanical Operation Certificate (CACES). The CQP Cordiste is not mandatory but is popular.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-High-Altitude Intervention Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for high-altitude intervention workers?**
-答：Entry-level annual salary ranges from €22,000 to €28,000, mid-level €28,000 to €35,000, and senior up to €45,000, depending on region and projects.
-
-**问：How can non-EU citizens immigrate to France as high-altitude workers?**
-答：Via Talent Passport (employer contract, salary ≥ SMIC) or Salarié work permit. French B1+ required, plus certifications (CQP/CACES).
-
-**问：What mandatory certifications are required?**
-答：Mandatory: CQP Travaux en hauteur, SST (safety training), CACES (machine operation). CQP Cordiste (rope access) is optional but valued.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Education managers（Education managers）职业分析 · UK
+# Education managers — career analysis · United Kingdom
 
-**职业代码：2322 – Education managers。**
+**Occupation code: 2322 (SOC)**
 
-Plan, organise, direct and coordinate the administration, support systems and activities for effective running of educational establishments.
+Responsible for planning, organizing, directing, and coordinating the administrative, support systems, and activities of schools, universities, or other educational institutions to ensure effective operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $9,250~$9,250（英格兰本科年学费国际生通常为£9,250，苏格兰/威尔士/北爱尔兰可能不同） |
-| 硕士学位 | 1-2年 | $15,000~$30,000（教育管理硕士年学费国际生约£15,000-£30,000） |
+| Bachelor's degree | 3 years | $9,250~$9,250 (International undergraduate tuition fees in England are typically £9,250 per year; Scotland/Wales/Northern Ireland may differ) |
+| Master's degree | 1-2 years | $15,000~$30,000 (Annual tuition for international students in Education Management master's: approx. £15,000-£30,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育管理硕士 | 英国大学 | 可选 | 提升竞争力，非强制但常见 |
-| 国家校长资格（NPQH） | 英国教育部 | 必备 | 英格兰学校校长必备 |
+| National Professional Qualification for Headship (NPQH) | UK Department for Education | Required | Essential for headteachers in English schools |
+| Master of Educational Management | UK universities | Optional | Enhances competitiveness, not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。英国教育领域就业稳定，受公共支出影响。因学校管理需求持续，预计未来五年岗位缓慢增长，竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Employment in the UK education sector is stable, influenced by public spending. Due to ongoing demand from school management, jobs are expected to grow slowly over the next five years, with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学校中层管理或行政主管 |
-| 中级（3-10年） | $35,000~$55,000 | 学院或大学部门主管 |
-| 高级（10年以上） | $60,000~$100,000 | 校长、副校长或高级主管 |
+| Median salary | $46,581 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Middle-Level Manager or Administrative Supervisor in Schools |
+| Intermediate (3-10 years) | $35,000~$55,000 | College or university department head. |
+| Senior (10+ years) | $60,000~$100,000 | Principal, deputy principal, or senior supervisor |
+| average salary | $50,481 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 从学校/学院行政主管起步，可晋升至副校长、校长，或转向教育政策与咨询领域。需累积管理经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Educational administrators' administrative planning tasks are vulnerable to AI automation, but core responsibilities like interpersonal coordination, strategic decision-making, and crisis management are hard to replace. They should proactively embrace digital tools to improve efficiency.
+
+Starting from a school/college administrative supervisor, can advance to deputy principal, principal, or transition to education policy and consulting. Requires accumulated management experience.
+
+**Tasks most exposed to AI:**
+
+- Optimization of teacher scheduling and classroom resource allocation;
+- Student performance data analysis and report generation;
+- Standardized compliance checks and document archiving;
+- Repetitive data entry and verification in budget preparation;
+- Initial application screening and notification in the admissions process.
+
+**Where AI augments the role:**
+
+- Utilize AI prediction models to optimize recruitment strategies and resource allocation;
+- Automatically generating policy summaries and communication documents using natural language processing technology
+- Monitor key operational indicators of organizations in real time through smart dashboards;
+- Use AI collaboration tools to improve team project management and decision-making efficiency;
+- Provides personalized teaching suggestions for teachers based on learning analytics platforms.
+
+**Human moat:**
+
+- Mediation and negotiation involving conflicts of interest among teachers, parents, students, etc.
+- Develop and defend the long-term strategic vision and mission of the educational institution;
+- On-the-spot judgment and leadership when handling campus crises (e.g., safety incidents, psychological events);
+- Deep understanding of education regulations and ethics and compliant decision-making;
+- Ability to build trust, motivate teams, and demonstrate cultural awareness and compassion.
+
+**Skills to build:**
+
+- Educational data analysis and visualization (e.g., Power BI, Tableau);
+- Application of AI tools (such as natural language processing, predictive models) in educational settings;
+- Digital project management (e.g., Jira, Asana) and agile methodologies;
+- EdTech product evaluation and procurement;
+- Application of data privacy and security regulations (e.g., GDPR) in education;
+- Change management and human-machine collaboration leadership.
+
+**Key growth areas:**
 
 - Educational management
 - School administration
@@ -61,67 +97,66 @@ Plan, organise, direct and coordinate the administration, support systems and ac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，职业在可担保清单上，薪资不低于£26,200或行业标准 |
-| Subclass Graduate（Graduate visa） | 英国毕业的留学生可申请，允许在任何岗位工作2年（博士3年），之后转技术工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Employer sponsorship required; occupation on the eligible list; salary no less than £26,200 or industry standard. |
+| Subclass Graduate (Graduate visa) | UK graduates can apply; allows working in any job for 2 years (3 years for PhD), then switch to a skilled work visa. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education managers？**
-- 有教育热情和组织能力者
-- 具备领导和战略规划能力者
-- 希望在公共或私立教育机构担任管理者
-
-**谁不适合学Education managers？**
-- 不擅人际沟通和冲突解决者
-- 无法承受高压行政工作环境者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with educational enthusiasm and organizational skills
+- Those with leadership and strategic planning skills
+- Aspiring to be a manager in a public or private educational institution
+
+**Who is not suited**
+- Those not good at interpersonal communication and conflict resolution
+- Those unable to handle high-pressure administrative work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for education administrators in the UK?**
+A: Junior: approx £28,000-£35,000, mid-level: £35,000-£55,000, senior: up to £100,000+, depending on the organization and experience.
+
+**Q: Can education managers immigrate to the UK via a skilled work visa?**
+A: Yes, this occupation is on the eligible sponsorship list and requires employer sponsorship with a salary no less than £26,200. If you have a UK degree, you can first apply for a Graduate visa.
+
+**Q: Career progression path for education managers?**
+A: Progress from administrative supervisor to department head, then vice principal or principal; or transition to education consulting or policy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Education managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for education managers in the UK?**
-答：Entry-level around £28,000-£35,000, mid-level £35,000-£55,000, senior can exceed £100,000, depending on institution and experience.
-
-**问：Can education managers migrate to the UK via skilled worker visa?**
-答：Yes, the occupation is on the eligible list; requires employer sponsorship and salary at least £26,200. UK graduates can apply for Graduate visa first.
-
-**问：What is the career progression for education managers?**
-答：From administrative officer to head of department, then deputy head or headteacher, or transition to education consultancy or policy.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

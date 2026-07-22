@@ -1,58 +1,91 @@
-# Power Production Plant Operator（Power Production Plant Operator）职业分析 · IE
+# Power Production Plant Operator — career analysis · Ireland
 
-**职业代码：3131 – Power Production Plant Operator。**
+**Occupation code: 3131 (ISCO08)**
 
-Operate and monitor power generation equipment to ensure stable electricity production, including conventional and renewable energy plants.
+Responsible for monitoring and operating power generation equipment to ensure stable electricity production, including conventional and renewable energy plants.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2年（职业证书） | $1,000~$5,000（公立学院学费，部分免费） |
-| 本科 | 3-4年（学士） | $10,000~$20,000（年学费，工程或能源相关专业） |
+| Secondary vocational education | 2 years (vocational certificate) | $1,000~$5,000 (Public college tuition, partially free) |
+| Bachelor's degree | 3-4 years (Bachelor's) | $10,000~$20,000 (Annual tuition, engineering or energy related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全操作证书 | 健康与安全局(HSA) | 必备 | 强制要求 |
-| 电工/机械基础证书 | SOLAS | 可选 | 推荐持有 |
+| Safety operation certificate | Health and Safety Authority (HSA) | Required | Mandatory requirement |
+| Electrician/Mechanical basic certificate | SOLAS | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。爱尔兰可再生能源扩张推动需求，预计未来十年职位增长约10%，退休人员补充也带来机会。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. Ireland's renewable energy expansion is driving demand, with an expected job growth of about 10% over the next decade, and opportunities also arise from replacing retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-8年） | $45,000~$60,000 | 税前年薪 |
-| 高级（8年以上） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可晋升为高级操作员、班组长或电厂主管，或转向能源管理、运维技术等岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
+
+Can advance to senior operator, team leader, or plant supervisor, or transition to roles in energy management, operations technology, etc.
+
+**Tasks most exposed to AI:**
+
+- Monitor power generation equipment dashboards and record data in real time
+- Performs routine startup, shutdown, and load regulation operations
+- Identify and respond to preset alarm signals.
+- Generate daily operation reports and maintenance logs
+
+**Where AI augments the role:**
+
+- AI predictive maintenance: analyzing sensor data to warn of equipment failures early
+- Intelligent dispatching: optimize generation load distribution, improve efficiency and reduce costs
+- Virtual training: use AR/VR to simulate emergency scenarios for practice
+- Remote assistance: AI expert system helps diagnose complex faults
+
+**Human moat:**
+
+- Quick judgment and manual operation skills in emergencies
+- cross-system coordination and communication (grid dispatch, maintenance teams)
+- Intuitive experience with equipment physical characteristics (e.g., abnormal sounds, vibrations)
+- Responsibility and compliance decisions (critical for grid stability and safety)
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- AI monitoring system operation and anomaly investigation
+- Basic programming (Python/SCADA scripting)
+- Knowledge of electricity markets and dispatch optimization
+- Emergency response and crisis management
+- Digital operations and maintenance tools (CMMS, digital twins)
+
+**Key growth areas:**
 
 - Renewable Energy
 - Grid Modernization
@@ -61,67 +94,66 @@ Operate and monitor power generation equipment to ensure stable electricity prod
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺技能岗位，工作2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，可续签并转为永居 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | applicable to Skills in Demand positions, eligible for permanent residency after 2 years of work |
+| Subclass General Employment P (General Employment Permit) | Requires labour market testing, renewable and convertible to permanent residence |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Power Production Plant Operator？**
-- 喜欢动手操作和技术工作的人
-- 适应轮班制，注重安全规范的人
-- 对能源行业有兴趣，愿意持续学习的人
-
-**谁不适合学Power Production Plant Operator？**
-- 无法适应倒班或高压环境的人
-- 不喜欢户外或工厂环境的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and technical work
+- Individuals who can adapt to shift work and prioritize safety regulations.
+- People with interest in the energy industry and willingness to continuously learn
+
+**Who is not suited**
+- Those unable to adapt to shift work or high-pressure environments
+- Those who dislike outdoor or factory environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for power plant operators in Ireland?**
+A: Entry-level annual salary is about 35,000-45,000 euros, reaching 60,000-80,000 euros with experience, depending on plant type and qualifications.
+
+**Q: How can overseas individuals immigrate to Ireland through this occupation?**
+A: Eligible for Critical Skills Employment Permit, no labour market test required, can apply for permanent residence after 2 years of work.
+
+**Q: What certifications are needed for the job?**
+A: Must hold an HSA safety certificate; it is recommended to obtain an electrical or mechanical fundamentals certificate issued by SOLAS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Power Production Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for power plant operators in Ireland?**
-答：Entry-level salary is around €35,000-€45,000, rising to €60,000-€80,000 with experience, depending on plant type and qualifications.
-
-**问：How can overseas workers immigrate through this occupation?**
-答：Apply for a Critical Skills Employment Permit, which does not require a labor market test, and apply for permanent residency after 2 years.
-
-**问：What certifications are required?**
-答：Mandatory HSA safety certificate; SOLAS electrical or mechanical certificates are recommended.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

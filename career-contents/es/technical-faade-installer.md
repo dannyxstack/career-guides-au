@@ -1,59 +1,92 @@
-# Technical Façade Installer（Technical Façade Installer）职业分析 · ES
+# Technical Façade Installer — career analysis · Spain
 
-**职业代码：7192 – Technical Façade Installer。**
+**Occupation code: 7192 (CNO)**
 
-Install building envelope systems such as ventilated façades, curtain walls, and cladding panels using metal, glass, and composite materials, ensuring structural fixing, sealing, and waterproofing.
+Responsible for installing building exterior wall systems (such as ventilated façades, curtain walls, cladding panels), including fixing, sealing, and waterproofing of metal, glass, and composite panels.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年（FP Básico）+ 2年（FP Grado Medio） | $500~$4,000（公立FP每年约500-1500€；私立约3000-4000€） |
-| 高等职业教育（FP Grado Superior） | 2年（FP Grado Superior） | $500~$5,000（公立FP每年约500-1500€；私立约4000-5000€） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years (FP Básico) + 2 years (FP Grado Medio) | $500~$4,000 (Public FPs pay about €500-1500 per year; Private ones cost about €3000-4000) |
+| Higher Vocational Education (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$5,000 (Public FPs pay about €500-1500 per year; Private ones cost about €4000-5000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Fachadas técnicas 专项培训证书 | 西班牙建筑协会或授权培训中心 | 可选 | 非强制但就业竞争力强，涵盖系统安装规范 |
-| 高空作业安全证书 | Instituto Nacional de Seguridad y Salud en el Trabajo | 必备 | 必要安全认证，部分公司要求 |
-| 焊接或金属加工技能认证 | Certificado de Profesionalidad | 可选 | 部分立面系统需焊接技能 |
+| Safety certificate for working at heights | Instituto Nacional de Seguridad y Salud en el Trabajo | Required | Necessary safety certifications, required by some companies |
+| Fachadas técnicas specialized training certificate | Spanish Architectural Association or authorized training centers | Optional | Non-mandatory but highly competitive for employment, covering system installation standards |
+| Welding or metalworking skills certification | Certificado de Profesionalidad | Optional | Some facade systems require welding skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 40,000。西班牙建筑业复苏及节能改造政策推动需求，2024年建筑安装用工缺口持续，尤其在大城市及可再生能源项目集中的地区。
+**Job demand: high (★★★★☆).** National workforce approx. 40,000. Spain's construction industry recovery and energy-saving renovation policies are driving demand. In 2024, the labor gap in construction and installation remains persistent, especially in major cities and regions with concentrated renewable energy projects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪（14薪） |
-| 中级（3-6年） | $30,000~$38,000 | 税前年薪（14薪） |
-| 高级（6年以上/主管） | $38,000~$48,000 | 税前年薪（14薪） |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary (14 months) |
+| Mid-level (3–6 years) | $30,000~$38,000 | Pre-tax annual salary (14 months) |
+| Senior (6+ years/supervisor) | $38,000~$48,000 | Pre-tax annual salary (14 months) |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从安装工升至现场主管、项目协调员，或专攻节能幕墙系统、BIM建模等细分领域，也可独立创业承包工程。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Some repetitive tasks for technical facade installers (such as measurement and fastener installation) are easily automated, but AI cannot replace on-site judgment, waterproof sealing, and complex facade installations, resulting in moderate overall risks and the need to enhance digital and AI collaboration capabilities.
+
+You can rise from installer to on-site supervisor, project coordinator, specialize in energy-saving curtain wall systems, BIM modeling, or other specialized fields, or start your own business to undertake project contracting.
+
+**Tasks most exposed to AI:**
+
+- Repetitive measurement work such as curtain wall positioning and verticality detection is performed using total stations or laser measuring instruments
+- Automatically inspects fastener torque and sealant coating quality through an AI vision system
+- Robots are used to handle and assist with initial positioning of standard-sized panels
+- Paperwork for generating daily installation progress reports and material lists
+
+**Where AI augments the role:**
+
+- By using BIM models and AR glasses, installation steps can be overlaid in real time, reducing errors in drawing reference
+- AI-assisted diagnosis of seal failure causes and recommendation of optimal repair plans
+- Drones + AI conduct high-altitude facade inspections to quickly identify safety hazards
+- An AI scheduling optimization tool based on project data intelligently adjusts installation sequence and personnel arrangements
+
+**Human moat:**
+
+- On-site measurement, cutting, and fine-tuning installation of complex irregular-shaped curtain walls
+- Experience in manual application and defect repair of waterproof sealing systems
+- Safety supervision and emergency response capabilities for high-altitude operations
+- On-site coordination and problem-solving with architects and structural engineers
+
+**Skills to build:**
+
+- BIM model reading and basic operations (such as Navisworks)
+- AI-assisted measurement tools (such as Trimble Field Link) are used
+- Common knowledge about AR/VR applications in construction
+- Fundamentals of Data Analysis (for understanding AI-generated scheduling and quality inspection reports)
+- Basic welding and robot collaboration skills
+- Knowledge of green building and energy-saving curtain wall technologies
+
+**Key growth areas:**
 
 - sustainable construction
 - energy efficient buildings
@@ -62,68 +95,67 @@ Install building envelope systems such as ventilated façades, curtain walls, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由西班牙企业担保，需证明职位难以在当地招聘，适合已有offer的申请人。 |
-| Subclass Altamente cualificad（High-Skilled Professional Visa） | 适用于年收入通常不低于40,000€的技术岗位，需大学学历或同类经验。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，要求相关学历及较高薪资（2024年门槛约33,908€），可快速获得居留。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Sponsored by a Spanish company, it must prove that the position is difficult to recruit locally and suitable for applicants with existing offers. |
+| Subclass Altamente cualificad (High-Skilled Professional Visa) | Applicable to technical positions with an annual income usually not less than €40,000, requiring a university degree or similar experience. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires relevant academic qualifications and a relatively high salary (the 2024 threshold is about €33,908), allowing quick residency eligibility. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Façade Installer？**
-- 喜欢动手、户外作业者
-- 注重细节、有安全意识的人
-- 愿意学习新型建筑材料与技术的人
-
-**谁不适合学Technical Façade Installer？**
-- 对高空工作或恶劣天气敏感者
-- 追求文职工作或稳定办公环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enthusiasts who enjoy hands-on activities and outdoor work
+- Detail-oriented and safety-conscious individuals
+- People willing to learn new building materials and technologies
+
+**Who is not suited**
+- Those sensitive to working at heights or in harsh weather
+- People seeking clerical jobs or stable office environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for technical facade installers in Spain?**
+A: Entry-level positions earn a pre-tax annual salary of about 24,000-30,000 euros, rising to over 38,000 euros with increasing experience.
+
+**Q: How can third-country citizens immigrate to Spain through this job?**
+A: This can be done through employer-sponsored Employed Work Residency (Cuenta ajena) or the EU Blue Card pathway. If the educational qualifications match, you can also apply for a high-skilled professional talent visa.
+
+**Q: Does this occupation have promotion opportunities?**
+A: You can be promoted from installer to team supervisor, project site leader, or specialize in energy-saving curtain wall systems, BIM management, and other areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Façade Installer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a technical façade installer in Spain?**
-答：Entry-level gross annual salary ranges from €24,000 to €30,000, increasing to over €38,000 with experience.
-
-**问：How can third-country nationals migrate to Spain through this occupation?**
-答：You can obtain a work permit (Cuenta ajena) sponsored by an employer, or apply for an EU Blue Card or the High-Skilled Professional visa if you meet qualifications.
-
-**问：Are there career advancement opportunities?**
-答：Yes, you can advance to team leader, site supervisor, or specialize in energy-efficient façade systems or BIM management.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

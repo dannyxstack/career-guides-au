@@ -1,58 +1,93 @@
-# Water and Firewood Collectors（Water and Firewood Collectors）职业分析 · IE
+# Water and Firewood Collectors — career analysis · Ireland
 
-**职业代码：9624 – Water and Firewood Collectors。**
+**Occupation code: 9624 (ISCO08)**
 
-Engage in manual collection of water and firewood, essential for daily living, typically in rural or remote areas.
+Performs physical labor to collect basic necessities such as water and firewood, typically in rural or remote areas.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无要求 | 无 | —（通常不需要正规教育） |
+| No requirements | None | $0~$0 (Typically no formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无 | 无 | 可选 | 从业不需要特定资质 |
+| None | None | Optional | No specific qualification required to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 200。爱尔兰农业和农村地区仍存在少量此类岗位，但机械化和社会经济发展使需求稳步下降，预计未来5年就业岗位减少约10%。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. 200. A small number of such jobs still exist in Irish agriculture and rural areas, but mechanisation and socio-economic development are steadily reducing demand, with employment expected to fall by about 10% over the next 5 years.
 
-**竞争度：极低（½☆☆☆☆）。**
-**工作强度：极高（★★★★★）。**
+**Competition: very low (½☆☆☆☆).**
+**Work intensity: very high (★★★★★).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 按小时计薪，收入不稳定 |
-| 中级（3-5年） | $20,000~$25,000 | 少量经验可提高效率 |
-| 高级（5年以上） | $22,000~$28,000 | 经验丰富但收入增长有限 |
+| Median salary | $22,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Paid hourly, income is unstable. |
+| Mid-level (3–5 years) | $20,000~$25,000 | A small amount of experience can improve efficiency |
+| Senior (5+ years) | $22,000~$28,000 | Experienced but with limited income growth |
+| average salary | $22,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极差（½☆☆☆☆）。** 该职业晋升路径有限，通常停留在体力劳动层面；部分工人可能转为农场助手或其他农村服务业岗位。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: very low (½☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Water and firewood collectors face high risk of automation replacement, as AI-driven automated water supply systems and smart energy equipment can perform core tasks more efficiently, leading to a significant reduction in entry-level job demand.
+
+This occupation has limited career progression, often remaining at the manual labor level; some workers may transition to farm assistants or other rural service roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically identifies and remotely collects water sources through sensors and AI algorithms, replacing manual water transport
+- Use drones or robots to automatically collect and transport firewood, replacing manual handling
+- Automatically schedules water resource allocation based on weather forecasts and demand analysis, replacing manual decision-making
+- Use automated tools to cut and stack firewood, reducing manual labor
+- AI optimised collection routes, replacing manual planning and exploration
+
+**Where AI augments the role:**
+
+- Use GPS and map AI to optimize collection routes and improve efficiency
+- Using water quality sensors and AI analysis to ensure water source safety.
+- Monitor equipment status via IoT for preventive maintenance
+- AI-assisted identification of sustainable harvesting areas, managing natural resources
+- Train Local Communities in Using Digital Tools to Enhance Overall Productivity
+
+**Human moat:**
+
+- Manual intervention and judgment in extremely remote or emergency situations
+- Community relations and inheritance of local ecological knowledge
+- Adaptation and emergency response to non-standard, complex terrain
+- Preservation of traditional crafts and cultural practices
+
+**Skills to build:**
+
+- Basic programming and AI tool operation (e.g., Python, simple AI platforms)
+- Drone operation and maintenance
+- IoT device installation and troubleshooting
+- Foundational data analysis and resource management
+- Mechanical repair and solar power system maintenance
+- Digital Mapping and GIS Applications
+
+**Key growth areas:**
 
 - Declining
 - Mechanization
@@ -61,64 +96,66 @@ Engage in manual collection of water and firewood, essential for daily living, t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪通常不低于30,000欧元，但本职业收入可能不达标。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupation in shortage, requires employer sponsorship, annual salary usually not less than 30,000 euros, but income in this occupation may not meet that. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Water and Firewood Collectors？**
-- 愿意从事户外体力劳动
-- 生活在偏远农村地区
-- 能接受低收入和不稳定工作
+**Who is suited**
+- Willing to do outdoor physical work
+- Living in remote rural areas
+- Able to accept low income and unstable work
 
-**谁不适合学Water and Firewood Collectors？**
-- 希望获得职业发展
-- 偏好城市生活和稳定收入
+**Who is not suited**
+- Seeking career development
+- Preference for city life and stable income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of water and firewood collectors?**
+A: Average annual salary around €20,000-25,000, unstable income and below Irish minimum wage.
+
+**Q: Can foreigners apply for a work permit for this position?**
+A: Almost impossible, as the salary is below the work permit threshold and it is not a shortage occupation.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Little to no career progression, usually manual labor roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | very low (½☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | very low (½☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 极低（½☆☆☆☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 极差（½☆☆☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Water and Firewood Collectors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of water and firewood collectors?**
-答：Average annual salary is around EUR 20,000-25,000, unstable and below Irish minimum wage.
-
-**问：Can foreigners apply for a work permit for this occupation?**
-答：Highly unlikely, as salary is below permit threshold and not on shortage list.
-
-**问：Are there career advancement opportunities?**
-答：Almost none; typically remains a manual labor role.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

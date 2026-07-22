@@ -1,61 +1,94 @@
-# Network Engineer（Network Engineer）职业分析 · 新西兰
+# Network Engineer — career analysis · New Zealand
 
-**职业代码：263211 – Network Engineer。**
+**Occupation code: 263211 (ANZSCO)**
 
-In New Zealand, network engineers design, deploy, and maintain network infrastructure for enterprises and carriers, a core ICT role. With Green List and Skilled Migrant Category policies, this occupation offers clear migration pathways, especially for those with CCNP or similar certifications.
+In New Zealand, network engineers design, deploy and maintain network infrastructure for enterprises and carriers, belonging to core IT occupations. With Green List and Skilled Migration Category policies, the migration pathway for this role is clear, and applicants with certifications like CCNP are favored by employers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（新西兰大学计算机或网络工程本科年学费） |
-| 硕士文凭 | 1-2年 | $35,000~$50,000（硕士课程年学费，部分院校可减免） |
-| 高职证书 | 1-2年 | $12,000~$20,000（IT专科文凭或证书课程年学费） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition for a bachelor's degree in computer science or network engineering at a New Zealand university.) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Annual tuition for master's programs; some institutions may offer reductions.) |
+| Vocational certificate | 1-2 years | $12,000~$20,000 (Annual tuition for IT diploma or certificate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Cisco CCNA | Cisco | 可选 | 入门级网络认证，行业普遍认可 |
-| Cisco CCNP | Cisco | 可选 | 高级认证，晋升及移民加分利器 |
-| CompTIA Network+ | CompTIA | 可选 | 基础认证，适合初学者建立网络知识 |
-| AWS Certified Solutions Architect | Amazon Web Services | 可选 | 云网络方向，适应市场趋势 |
+| Cisco CCNA | Cisco | Optional | Entry-level network certification, widely recognized in the industry |
+| Cisco CCNP | Cisco | Optional | Advanced certification, a plus for promotion and immigration points |
+| CompTIA Network+ | CompTIA | Optional | Basic certification, suitable for beginners building network knowledge |
+| AWS Certified Solutions Architect | Amazon Web Services | Optional | Cloud networking direction, adapting to market trends. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰持续推动数字转型和云计算迁移，5G网络扩展及网络安全强化使得网络工程师需求稳定。政府科技投资和远程办公趋势进一步支撑就业。预计未来五年岗位增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand continues to drive digital transformation and cloud migration; 5G expansion and cybersecurity enhancement keep demand for network engineers stable. Government tech investment and remote work trends further support employment. Expected job growth of about 10% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 含认证应届生通常可达中位 |
-| 中级（4-7年） | $80,000~$110,000 | 持有CCNP或同等经验 |
-| 高级（8年+） | $120,000~$160,000 | 架构师或技术经理级别 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Certified graduates typically reach the median |
+| Mid-level (4-7 years) | $80,000~$110,000 | Hold CCNP or equivalent experience |
+| Senior (8+ years) | $120,000~$160,000 | Architect or technical manager level |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径：初级网络工程师可晋升为高级网络工程师、网络架构师或IT经理。考取CCIE或AWS/Azure网络认证后可转向云端网络架构。部分人员可进入网络安全领域成为安全架构师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
+
+Career path: Junior network engineer can advance to senior network engineer, network architect, or IT manager. Obtaining CCIE or AWS/Azure networking certifications can lead to cloud network architecture. Some may enter cybersecurity as security architects
+
+**Tasks most exposed to AI:**
+
+- Routine network device configuration changes (e.g., VLAN, ACL additions)
+- Template-based network monitoring alarm analysis and preliminary diagnosis
+- Automatic detection of network faults and execution of standard recovery procedures
+- Compliance baseline checks and configuration audit report generation
+
+**Where AI augments the role:**
+
+- Using AI to predict network traffic peaks and automatically adjust bandwidth strategies
+- Designing multi-layer cloud network architectures and optimizing costs with AI assistance
+- Quickly identify abnormal traffic and threats using AI-driven security analysis tools
+- Using large language models to accelerate technical documentation and knowledge base building
+
+**Human moat:**
+
+- Ability to design hybrid networking architectures spanning internal networks and public cloud across regions
+- Customized network solutions based on deep understanding of business needs
+- Emergency decision-making and coordination/public relations skills during large network failures
+- Network audit responsibility under regulatory compliance (e.g., APRA, ISO 27001)
+
+**Skills to build:**
+
+- Python network automation (Netmiko/Nornir)
+- Cloud network certifications (AWS Advanced Networking / Azure Network Engineer)
+- AI/ML fundamentals and network data analysis
+- DevOps-related tools (Ansible, Terraform)
+- Cybersecurity situational awareness and zero-trust architecture
+- Use of AI-assisted network diagnostic tools.
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +97,67 @@ In New Zealand, network engineers design, deploy, and maintain network infrastru
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 可直接申请居留，无需先工作，需雇主offer且职业在Tier1列表 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制，根据学历、收入、工作经验等打分，需满足薪资要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡，积累本地经验后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Can directly apply for residency without prior work, requires employer offer and occupation on Tier 1 list |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point system: scores based on education, income, work experience etc.; must meet salary requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa as a transition, accumulate local experience then switch to residence |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Network Engineer？**
-- 热衷技术问题解决，善于沟通的IT专业人员
-- 希望在新西兰获得快速移民通道的技术人才
-- 拥有或计划考取主流厂商认证（如Cisco）的毕业生
-
-**谁不适合学Network Engineer？**
-- 不喜欢持续学习和认证更新的工程师
-- 偏好重复性工作、缺乏网络故障诊断兴趣者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- IT professionals passionate about technical problem-solving and skilled in communication
+- Skilled talent seeking a fast-track immigration pathway to New Zealand
+- Graduates who have or plan to obtain major vendor certifications (e.g., Cisco).
+
+**Who is not suited**
+- Engineers who dislike continuous learning and certification updates
+- Those who prefer repetitive work and lack interest in network fault diagnosis
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for network engineers in New Zealand?**
+A: Junior approx. NZD 55,000-75,000, mid-level NZD 80,000-110,000, senior NZD 120,000-160,000. CCIE or cloud architect certifications can lead to higher.
+
+**Q: How can network engineers immigrate to New Zealand?**
+A: Can apply through the Green List Straight to Residence Visa (Tier 1) or Skilled Migrant Category (SMC 6-point system). Requires a job offer from an employer and meeting salary thresholds.
+
+**Q: What network certifications are needed to work in New Zealand?**
+A: Not mandatory, but CCNA/CCNP, CompTIA Network+, AWS certifications significantly enhance job competitiveness, especially for immigration applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等，3-4年（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Network Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for network engineers in New Zealand?**
-答：Junior: NZ$55k-75k, Intermediate: NZ$80k-110k, Senior: NZ$120k-160k. Higher with CCIE or cloud architect certs.
-
-**问：How can a network engineer immigrate to New Zealand?**
-答：Via Green List Straight to Residence Visa (Tier 1) or Skilled Migrant Category (6-point system). Requires a job offer and meeting salary thresholds.
-
-**问：What network certifications are needed in New Zealand?**
-答：Not mandatory, but CCNA/CCNP, CompTIA Network+, AWS certs etc., greatly enhance employability and migration prospects.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

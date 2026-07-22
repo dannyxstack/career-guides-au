@@ -1,59 +1,93 @@
-# First-Line Supervisors of Mechanics, Installers, and Repairers（First-Line Supervisors of Mechanics, Installers, and Repairers）职业分析 · 美国
+# First-Line Supervisors of Mechanics, Installers, and Repairers — career analysis · United States
 
-**职业代码：49-1011 – First-Line Supervisors of Mechanics, Installers, and Repairers。**
+**Occupation code: 49-1011 (SOC)**
 
-Directly supervise and coordinate the activities of mechanics, installers, and repairers. May also advise customers on recommended services. Excludes team or work leaders.
+Directly supervise and coordinate the activities of mechanics, installers, and repairers; may also advise customers on recommended services. Does not include team or work leaders.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免学费） |
-| 职业培训或副学士学位 | 2年 | $5,000~$20,000（社区学院或技术学校） |
+| High school diploma | 4 years | $0~$0 (Public high schools have no tuition fees.) |
+| Vocational training or associate degree | 2 years | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中或同等学历 | 州教育部门 | 必备 | 基本入职要求 |
-| 相关技术认证 | 专业组织如ASE | 可选 | 自愿但提升竞争力 |
-| 许可证（如有） | 州政府 | 可选 | 某些领域如HVAC需执照 |
+| High school diploma or equivalent | State education department | Required | Basic entry requirements |
+| Relevant technical certifications | Professional organizations such as ASE | Optional | Voluntary but improves competitiveness |
+| License (if applicable) | State government | Optional | Some fields such as HVAC require licenses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 157,000。美国劳工统计局（BLS）预计该职业从2022年至2032年就业增长约5%，与所有职业平均水平持平。随着设备复杂化，对主管的需求将持续，但自动化可能限制增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 157,000. The US Bureau of Labor Statistics (BLS) projects job growth of about 5% from 2022 to 2032 for this occupation, about as fast as the average for all occupations. As equipment becomes more complex, demand for supervisors will persist, but automation may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 较少监督经验 |
-| 中级（3-7年） | $60,000~$80,000 | 具备一定管理经验 |
-| 高级（7年以上） | $80,000~$110,000 | 资深主管或经理 |
+| Median salary | $79,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Limited supervisory experience |
+| Mid-level (3–7 years) | $60,000~$80,000 | Has some management experience |
+| Senior (7+ years) | $80,000~$110,000 | Senior supervisor or manager |
+| average salary | $85,220 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从技术岗位晋升，如机械师或电工，积累经验后成为主管。进一步晋升可至维修经理、设施经理，或开设自己的维修公司。需具备领导力和技术管理能力。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation has a low risk of AI automation; human core skills in management decision-making, supervision coordination, and complex repair diagnosis are hard to replace; AI tools will significantly improve team scheduling, data analysis, and training efficiency, shifting supervisors from routine coordination to higher-value management.
+
+Usually promoted from technical roles such as mechanic or electrician, gain experience to become supervisor. Further advancement to maintenance manager, facilities manager, or start own maintenance company. Requires leadership and technical management skills.
+
+**Tasks most exposed to AI:**
+
+- Manual time tracking and attendance recording
+- Paper-based work order assignment and progress tracking
+- Basic troubleshooting knowledge base retrieval
+- Non-urgent customer satisfaction follow-up calls
+
+**Where AI augments the role:**
+
+- AI predictive maintenance scheduling to optimize repair schedules.
+- AI-assisted fault diagnosis system for quick problem identification
+- Data analytics dashboard for real-time team KPI monitoring
+- Automated training material generation to improve new employee onboarding speed
+- Smart inspection and report automation, reducing paperwork
+
+**Human moat:**
+
+- On-site diagnosis and decision-making for complex faults
+- Team morale management and conflict resolution
+- Safety Compliance Oversight and Emergency Response
+- Client relationship maintenance and customized service recommendations
+
+**Skills to build:**
+
+- AI tool usage (e.g., CMMS intelligent scheduling system)
+- Data analysis basics (Excel/SQL/BI tools).
+- Digital project management (Jira, Trello, etc.)
+- Communication and conflict management
+- Basic programming (Python for automated report generation).
+- Lean management and process optimization
+
+**Key growth areas:**
 
 - Maintenance supervision
 - Industrial automation
@@ -62,68 +96,67 @@ Directly supervise and coordinate the activities of mechanics, installers, and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 主管职位通常要求专业知识，但门槛较高，需学士学位或同等经验。 |
-| Subclass EB-3（Employment-Based Third Preference） | 技术工人绿卡路径，主管经验可支持申请，但需PERM劳工证。 |
-| Subclass L-1（Intracompany Transferee） | 跨国公司内部调派，适合从海外调至美国主管职位。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Supervisory roles typically require specialized knowledge, but the bar is high; need a bachelor's degree or equivalent experience. |
+| Subclass EB-3 (Employment-Based Third Preference) | Green card path for skilled workers; supervisory experience can support application, but PERM labor certification is required. |
+| Subclass L-1 (Intracompany Transferee) | Intracompany transfer within multinational corporations, suitable for overseas employees relocating to U.S. supervisor roles. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学First-Line Supervisors of Mechanics, Installers, and Repairers？**
-- 有技术背景希望转向管理的人
-- 善于沟通和领导团队的人
-- 能在快节奏环境中解决问题的人
-
-**谁不适合学First-Line Supervisors of Mechanics, Installers, and Repairers？**
-- 不喜欢直接管理多个人员的人
-- 希望脱离技术工作纯粹做行政的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with technical background looking to move into management
+- Good at communication and team leadership
+- Problem-solver in fast-paced environments
+
+**Who is not suited**
+- People who do not like directly managing multiple individuals
+- Those who wish to leave technical work entirely for administrative roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for this occupation?**
+A: According to BLS data, the median annual salary for this occupation in the U.S. in 2022 was about $73,000, ranging from approximately $45,000 to $110,000, depending on industry and experience.
+
+**Q: Does this occupation have immigration opportunities?**
+A: Possible through H-1B or EB-3 green card, but requires employer sponsorship and the position must demonstrate an inability to find US workers. Supervisory roles may be considered managerial, meeting EB-2 or EB-3 requirements.
+
+**Q: How to advance to frontline supervisor?**
+A: Typically requires several years of experience as a technician and demonstrated leadership. Some companies offer management training programs; obtaining a relevant degree or certification also helps.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-First-Line Supervisors of Mechanics, Installers, and Repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：According to BLS, the median annual wage in 2022 was about $73,000, ranging from $45,000 to $110,000 depending on industry and experience.
-
-**问：Are there immigration opportunities for this occupation?**
-答：Possible through H-1B or EB-3 green card, but requires employer sponsorship and proof that no US workers are available. Supervisor roles may qualify as managerial under EB-2 or EB-3.
-
-**问：How do you advance to a first-line supervisor?**
-答：Typically requires several years of experience as a technician and demonstrated leadership. Some companies offer management training programs; obtaining a degree or certification can help.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

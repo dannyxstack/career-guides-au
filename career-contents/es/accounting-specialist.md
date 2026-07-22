@@ -1,60 +1,96 @@
-# Accounting Specialist（Accounting Specialist）职业分析 · ES
+# Accounting Specialist — career analysis · Spain
 
-**职业代码：2611 – Accounting Specialist。**
+**Occupation code: 2611 (CNO)**
 
-Accounting specialists manage financial records, prepare reports, handle tax filings, and ensure compliance and efficiency in corporate finance.
+Accounting experts are responsible for financial records, financial reporting, tax filing, and cost control for enterprises, ensuring financial compliance and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$2,000（公立FP学院学费低，约500-2000欧元/年） |
-| 大学本科（Grado） | 4年（Grado） | $1,000~$6,000（公立大学学费约1000-6000欧元/年） |
-| 硕士（Máster） | 1年（Máster） | $2,000~$12,000（会计或金融硕士学费约2000-12000欧元/年） |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$2,000 (Public FP colleges have low tuition fees, about 500-2000 euros per year) |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$6,000 (Tuition at public universities is about 1,000-6,000 euros per year) |
+| Máster | Year 1 (Máster) | $2,000~$12,000 (Tuition for a master's degree in accounting or finance is about 2,000–12,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册会计师资格（Censores de Cuentas） | ICAC（会计与审计协会） | 必备 | 审计账目必需，通过官方考试获取 |
-| ACCA国际注册会计师 | ACCA（特许公认会计师公会） | 可选 | 国际认可，提升职业竞争力 |
-| CIMA特许管理会计师 | CIMA（特许管理会计师公会） | 可选 | 侧重管理会计，适合企业财务晋升 |
+| Certified Public Accountant Qualification (Censores de Cuentas) | ICAC (Institute of Accounting and Auditing) | Required | Audit accounts must be obtained through official examinations |
+| ACCA International Certified Public Accountant | ACCA (Association of Chartered Certified Accountants) | Optional | International recognition to enhance professional competitiveness |
+| CIMA Chartered Management Accountant | CIMA (Institute of Chartered Management Accountants) | Optional | Focusing on management accounting, suitable for corporate financial promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 120,000。西班牙会计需求稳定，中小企业及大型跨国公司均需会计人才。数字化趋势推动岗位升级，但基础岗位竞争激烈。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 120,000. Accounting demand in Spain is stable, with both small and medium-sized enterprises and large multinational corporations needing accounting talent. The digitalization trend is driving job upgrades, but competition for basic positions is fierce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 初级会计助理或会计专员，税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 具备经验，可独立负责账务 |
-| 高级（7年以上） | $50,000~$70,000 | 财务经理或会计主管，需持证 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Junior Accounting Assistant or Accounting Specialist, pre-tax annual salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Experienced and able to independently handle accounting |
+| Senior (7+ years) | $50,000~$70,000 | Financial manager or accounting supervisor, must hold certification |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从会计助理晋升为会计主管、财务经理，或转向审计、税务咨询。考取ACCA或CIMA等国际证书可加速晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Candidates can be promoted from accounting assistant to accounting supervisor, financial manager, or transition to auditing or tax consulting. Obtaining international certificates such as ACCA or CIMA can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Digitalization
 - Tax compliance
@@ -63,68 +99,67 @@ Accounting specialists manage financial records, prepare reports, handle tax fil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历或5年经验，年薪门槛约33,908欧元（2024年） |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高学历/高技能，需合同与资质，年薪门槛约40,000欧元，可快速获居留 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保，无年薪硬性要求，但需证明充分就业 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately 33,908 euros (2024) |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly educated/highly skilled individuals, requiring contracts and qualifications, with an annual salary threshold of about 40,000 euros, allowing for quick residency |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employment-based residence requires employer sponsorship, no mandatory annual salary requirement, but proof of full employment is required |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Accounting Specialist？**
-- 细心、对数字敏感的人
-- 有财务或会计学历背景的人
-- 追求稳定职业和清晰晋升路径的人
-
-**谁不适合学Accounting Specialist？**
-- 厌恶重复性文书工作的人
-- 希望快速升职或创业的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, sensitive to numbers
+- Individuals with a background in finance or accounting
+- People seeking stable careers and clear promotion paths
+
+**Who is not suited**
+- People who dislike repetitive paperwork
+- Those hoping for a quick promotion or starting a business
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for accounting professionals in Spain?**
+A: Beginner is about 24,000-30,000 euros, intermediate is 32,000-45,000 euros, and advanced can reach up to 70,000 euros.
+
+**Q: How can non-EU citizens immigrate to Spain through accounting professions?**
+A: You can obtain the EU Blue Card or the High-Skilled Professional Talent visa, which requires a university degree or experience to meet the annual salary threshold.
+
+**Q: What are the future career development directions for accounting experts?**
+A: You can be promoted to financial manager, audit supervisor, or tax consultant. Obtaining ACCA/CIMA certificates helps with development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Accounting Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an accounting specialist in Spain?**
-答：Entry-level around €24,000-30,000, mid-level €32,000-45,000, senior up to €70,000.
-
-**问：How can non-EU citizens migrate to Spain as accounting specialists?**
-答：Via EU Blue Card or Highly Qualified Professional visa, requiring a degree or experience and meeting salary thresholds.
-
-**问：What are the career advancement paths for accounting specialists?**
-答：They can advance to financial manager, audit supervisor, or tax consultant; certifications like ACCA/CIMA help.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

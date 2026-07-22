@@ -1,59 +1,95 @@
-# Locomotive Driver（Locomotive Driver）职业分析 · ES
+# Locomotive Driver — career analysis · Spain
 
-**职业代码：8311 – Locomotive Driver。**
+**Occupation code: 8311 (CNO)**
 
-Locomotive drivers operate railway locomotives to transport passengers or freight, ensuring safe and punctual journeys. They follow signals, dispatch orders, and safety regulations, perform pre-departure inspections, and monitor equipment during operation.
+Train drivers are responsible for operating railway locomotives, hauling passenger or freight trains, ensuring safe and punctual operation. Train signals must be followed, dispatch instructions and safety procedures must be followed, and equipment inspections before departure and monitoring during operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专业培训（FP Grado Medio/Superior） | 2年（FP Grado Superior） | $3,000~$6,000（公立FP学费低，约300-600€/年；私立培训更高） |
-| 企业内部培训（Formación interna） | 6-12个月 | —（多数铁路公司（如Renfe）提供带薪培训） |
+| Professional Training (FP Grado Medio/Superior) | 2 years (FP Grado Superior) | $3,000~$6,000 (Public FP tuition is low, about €300-600 per year; Private training is even higher) |
+| Internal corporate training (Formación interna) | 6–12 months | $0~$1,500 (Most railway companies (such as Renfe) offer paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：偏高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 火车司机执照（Licencia de conducción ferroviaria） | 西班牙交通部（Ministerio de Transportes）或ADIF | 必备 | 需通过理论和实践考试，包含医疗和心理评估 |
-| 铁路安全认证（Certificado de seguridad ferroviaria） | ADIF或运营公司 | 必备 | 每两年更新一次，需持续培训 |
-| FP Grado Superior en Conducción de Trenes（火车驾驶职业培训） | 公共或私立教育中心 | 可选 | 非强制，但公司偏好有该学历者 |
+| Train Driver's License (Licencia de conducción ferroviaria) | The Spanish Ministry of Transport (Ministerio de Transportes) or ADIF | Required | Requires both theoretical and practical exams, including medical and psychological assessments |
+| Railway Safety Certification (Certificado de seguridad ferroviaria) | ADIF or operating company | Required | Updated every two years, with ongoing training required |
+| FP Grado Superior en Conducción de Trenes (Train Driver Vocational Training) | Public or private education centers | Optional | Not mandatory, but the company prefers those with this degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。西班牙铁路网络以Renfe和ADIF为主，货运和高速客运需求稳定。行业人员老龄化明显，未来十年将有大量退休空缺。但自动化（如ATO）可能影响部分岗位，整体招聘量保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Spain's rail network is dominated by Renfe and ADIF, with stable demand for freight and high-speed passenger services. Industry personnel are aging significantly, and there will be a large number of retirement vacancies in the next decade. However, automation (such as ATO) may affect some positions, and overall hiring remains stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 学员期较低，转正后约28k€ |
-| 中级（3-10年） | $32,000~$42,000 | 包括补贴和加班费 |
-| 高级（10年以上） | $45,000~$55,000 | 资深司机或高速列车司机可达更高 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | The apprenticeship period is relatively low, with about €28k after becoming a regular employee |
+| Intermediate (3-10 years) | $32,000~$42,000 | Including subsidies and overtime pay |
+| Senior (10+ years) | $45,000~$55,000 | Experienced drivers or high-speed train drivers can reach even higher levels |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级司机可从助理司机或学员做起，通过内部培训和考核晋升为正式司机。经验丰富后可担任指导司机、调度员或管理职位。部分人转向铁路安全或培训岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Locomotive engineers face mixed impacts from AI/automation: some driving and monitoring tasks can be automated, but complex track judgment, safety responsibilities, and interpersonal communication still rely on humans; overall positions will not disappear but skills need upgrading.
+
+Junior drivers can start as assistant drivers or trainees, and are promoted to full-time drivers through internal training and assessment. With rich experience, you can take on roles such as driver instructor, dispatcher, or manager. Some have shifted to railway safety or training positions.
+
+**Tasks most exposed to AI:**
+
+- The automatic train operation system takes over routine acceleration, braking, and speed control on the line
+- AI monitoring system automatically detects track obstacles and triggers emergency braking
+- Automated scheduling and route optimization systems eliminate manual dispatching work.
+- Smart sensors monitor machinery status in real time and automatically report faults.
+- Automatic reception and interpretation of electronic signals and train commands
+
+**Where AI augments the role:**
+
+- AI-assisted decision-making system provides optimal fuel efficiency and punctuality recommendations
+- Augmented reality (AR) headset displays real-time road conditions and repair instructions
+- Automatic collision warning system improves reaction to emergencies
+- Big data analytics predict vehicle maintenance cycles, reducing unexpected downtime
+- Voice assistant handles routine dispatch communications, freeing hands to focus on driving
+
+**Human moat:**
+
+- Human judgment in abnormal situations like adverse weather or signal failures
+- Safety responsibility and ethical decision-making regarding passengers and emergencies
+- Flexible response in unstructured environments (e.g., construction zones, level crossings).
+- Efficient team collaboration and communication with dispatchers and maintenance personnel
+- Accurate interpretation and execution of complex and intersecting railway regulations
+
+**Skills to build:**
+
+- AI and Automation System Operation and Troubleshooting
+- Use of data analysis and predictive maintenance tools
+- Augmented reality driving interface and remote monitoring platform operation
+- Cybersecurity fundamentals to address threats to connected train systems
+- Cross-department communication and teamwork skills.
+- Continuous learning ability to adapt to rapidly updating regulations and technologies
+
+**Key growth areas:**
 
 - Railway modernisation
 - High-speed rail
@@ -62,68 +98,67 @@ Locomotive drivers operate railway locomotives to transport passengers or freigh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：偏低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于大学学历或同等技能，需工作合同且薪酬满足门槛（约35k€）。火车司机一般无学位要求，但可凭FP认证尝试。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通工作居留，需雇主担保。因非紧缺职业，需证明岗位无法在欧盟内填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 需大学学历或3年以上经验，年薪门槛约34k€。若有FP学历和数年经验可尝试。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to university degree or equivalent skills, requiring a work contract and salary meeting the threshold (about €35k). Train drivers generally do not require a degree, but you can attempt with an FP certification. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship. For non-urgently needed occupations, proof must be provided that the position cannot be filled within the EU. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | A university degree or more than 3 years of experience is required, with an annual salary threshold of about €34k. If you have an FP degree and several years of experience, you may give it a try. |
 
-**PR难度：偏高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Locomotive Driver？**
-- 责任心强、服从规章纪律的人
-- 喜欢独立工作、不介意轮班制
-- 对机械和铁路技术有兴趣
-
-**谁不适合学Locomotive Driver？**
-- 不喜欢固定线路和重复性任务者
-- 无法适应夜班和长时间值守的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Highly responsible and compliant with rules and discipline
+- Enjoys working independently and doesn't mind shift work
+- Interested in mechanical and railway technology
+
+**Who is not suited**
+- Dislikes fixed routes and repetitive tasks
+- People who cannot adapt to night shifts and long hours of work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for train drivers in Spain?**
+A: Entry-level around EUR 24,000-30,000, mid-level EUR 32,000-42,000, senior up to EUR 55,000. High-speed train drivers and overtime may increase earnings.
+
+**Q: How can foreigners become train drivers in Spain?**
+A: You must first obtain a work residency permit, then attend company training and obtain a Spanish train driver's license. If the degree is not in the EU, you must pass the homologación.
+
+**Q: How to obtain a train driver's license?**
+A: Passing theoretical and practical exams at ADIF or authorized centers, including medical examinations, psychological tests, and simulator training. It usually takes 6-12 months.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 偏高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 偏低（★★☆☆☆） |
-| PR难度 | 偏高（★★★½☆） |
-
-Locomotive Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a locomotive driver in Spain?**
-答：Entry-level around €24,000-30,000, mid-level €32,000-42,000, senior up to €55,000. High-speed drivers and overtime can increase earnings.
-
-**问：How can a foreigner become a locomotive driver in Spain?**
-答：First obtain a work visa, then undergo company training and pass the Spanish locomotive driving license. Non-EU qualifications may require homologación.
-
-**问：How to get a locomotive driving license?**
-答：Pass theory and practical exams through ADIF or authorized centers, including medical exams, psychological tests, and simulator training. Takes 6-12 months.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,96 @@
-# 项目工程师（Project Engineer）职业分析 · 澳大利亚
+# Project Engineer — career analysis · Australia
 
-**职业代码：233999 – Project Engineer。**
+**Occupation code: 233999 (ANZSCO)**
 
-项目工程师负责工程项目的技术协调、进度管理和质量控制，是连接设计团队与施工现场的核心角色。澳洲基础设施大投入和能源转型项目持续产生大量需求，具备工程学位和项目管理能力的人才处于供不应求状态。
+Project Engineers handle technical coordination, schedule management and quality control across engineering projects, serving as the key link between design teams and construction sites. Continued major investment in Australian infrastructure and energy transition projects is generating strong demand, with qualified candidates holding engineering degrees and project management skills in short supply.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Engineering (Civil/Mechanical/Electrical) | 4年 | $32,000~$55,000（国际生约$160k总费） |
-| PMP / CPM Project Management Certification | 3~6个月备考 | $1,000~$5,000（在职可考） |
-| Engineers Australia Competency Assessment | 2~5年工作经验 | $500~$2,000（CPEng申请） |
+| Bachelor of Engineering (Civil/Mechanical/Electrical) | 4 years | $32,000~$55,000 (Approximately $160k total cost for international students) |
+| PMP / CPM Project Management Certification | 3–6 months of exam preparation | $1,000~$5,000 (Can be completed while employed) |
+| Engineers Australia Competency Assessment | 2–5 years of work experience | $500~$2,000 (CPEng application) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Engineering | 认可大学 | 必备 | 入行必备 |
-| PMP / CAPM | PMI | 可选 | 项目管理认证加分 |
-| MIEAust / CPEng | Engineers Australia | 可选 | 专业执照 |
+| Bachelor of Engineering | Recognised university | Required | Essential for entering the field |
+| PMP / CAPM | PMI | Optional | Project management certification is an advantage |
+| MIEAust / CPEng | Engineers Australia | Optional | Professional licence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极旺（★★★★★）。** 全国从业人数约 25,000。2025-2030年澳洲基础设施投资超$3,000亿，铁路、公路、医院和国防项目均需大量项目工程师。可再生能源建设热潮也为电气和机械项目工程师提供了新的增长方向。
+**Job demand: very high (★★★★★).** National workforce approx. 25,000. Australia's infrastructure investment exceeding $300 billion from 2025–2030, covering rail, road, hospitals and defence projects, all requiring large numbers of project engineers. The renewable energy construction boom is also creating new growth opportunities for electrical and mechanical project engineers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~700 个 | 2025年均值 |
-| Indeed | 250~450 个 | 2025年均值 |
-| LinkedIn | 350~600 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $75,000~$98,000 | Graduate Project Engineer |
-| 中级（3-8年） | $100,000~$145,000 | Project Engineer |
-| 高级（8年+） | $148,000~$200,000 | Senior/Principal Engineer |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $75,000~$98,000 | Graduate Project Engineer |
+| Mid-level (3–8 years) | $100,000~$145,000 | Project Engineer |
+| Senior (8+ years) | $148,000~$200,000 | Senior/Principal Engineer |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** BIM平台、项目管理软件（Procore/Aconex）和数字工地技术改变传统项目执行方式。PMP或CPM认证结合工程学位成为晋升为项目经理的标准路径。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Core responsibilities of a project engineer (coordination, decision-making, on-site problem diagnosis) are difficult to replace by AI, but AI will deeply optimize document generation, conflict detection, and resource scheduling. The occupation overall shows AI amplification, but entry-level positions may shrink due to automation.
+
+BIM platforms, project management software (Procore/Aconex), and digital site technologies are transforming traditional project delivery. PMP or CPM certification combined with an engineering degree has become the standard pathway to project manager roles.
+
+**Tasks most exposed to AI:**
+
+- Generating project progress reports and meeting minutes
+- Automatic creation and verification of bill of materials (BOM)
+- Simple conflict detection based on design specifications
+- Template-based management of standardized project documents
+- Preliminary risk assessment report generation
+
+**Where AI augments the role:**
+
+- AI tools assist in multi-scheme simulation and optimization analysis
+- Automatically monitor project progress deviations and issue early warnings
+- Real-time recommendations for resource allocation adjustments
+- Cost and schedule forecasting based on historical data
+- Pre-construction problem rehearsals using digital twin models.
+
+**Human moat:**
+
+- Cross-team complex communication and interest coordination
+- Diagnosis and decision-making for unforeseen issues on construction sites
+- Comprehensive judgment on engineering ethics and public safety
+- Creative solutions integrating multidisciplinary constraints
+- Risk responsibility assumption within regulatory frameworks
+
+**Skills to build:**
+
+- Mastery of BIM and project management digital platforms (e.g., Procore, Aconex)
+- Learn Python or low-code tools for automated script writing
+- Familiarity with AI-assisted design/scheduling (e.g., Autodesk Forma, Oracle Primavera Cloud)
+- Enhancing data analysis and visualization skills (e.g., Power BI, Tableau)
+- Learn agile and lean project management methods
+- Master basic machine learning concepts to collaborate with data teams
+
+**Key growth areas:**
 
 - Infrastructure Megaprojects
 - Renewable Energy Construction
@@ -69,66 +99,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，工程紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名，多州开放 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, engineering shortage |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination, open across multiple states |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学项目工程师？**
-- 有工程学位并希望进入项目管理方向者
-- 能接受现场出差和项目驻场工作者
-- 具备跨团队沟通协调能力者
-
-**谁不适合学项目工程师？**
-- 不喜欢现场环境者
-- 只希望从事纯设计工作者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an engineering degree looking to move into project management
+- Willing to travel to sites and work on project assignments
+- Able to coordinate and communicate effectively across teams
+
+**Who is not suited**
+- Those who dislike working in on-site environments
+- Those who only want to do pure design work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for project engineers in Australia?**
+A: Junior: approximately AUD 75,000-98,000; mid-level: AUD 100,000-145,000; senior/principal engineer: AUD 148,000-200,000; large infrastructure projects have additional allowances.
+
+**Q: Is it easy to find work as a project engineer in Australia?**
+A: It is one of the highest-volume engineering roles in Australia, with Seek consistently listing 400–700 active positions, and strong demand across infrastructure, mining and renewable energy sectors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 233999 项目工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极旺（★★★★★） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-项目工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：项目工程师在澳洲薪资怎么样？**
-答：初级约AUD 7.5万~9.8万，中级10万~14.5万，高级/主任工程师14.8万~20万，大型基础设施项目有额外津贴。
-
-**问：澳洲项目工程师好找工作吗？**
-答：是全澳岗位量最大的工程类职位之一，Seek常年有400~700个活跃职位，基础设施、矿业和可再生能源行业均有强劲需求。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

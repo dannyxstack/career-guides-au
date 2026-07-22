@@ -1,61 +1,97 @@
-# Medical Oncologist（Medical Oncologist）职业分析 · 新西兰
+# Medical Oncologist — career analysis · New Zealand
 
-**职业代码：253314 – Medical Oncologist。**
+**Occupation code: 253314 (ANZSCO)**
 
-Medical oncologists in New Zealand diagnose and treat cancer using chemotherapy, targeted therapy, and immunotherapy. This profession is on Green List Tier 1, offering direct residence pathway with high migration feasibility.
+Oncologists are in high demand in New Zealand, diagnosing and treating cancer through chemotherapy, targeted therapy, etc. This occupation is on the Green List Tier 1, eligible for direct residence application with high immigration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科医学学位 | 6年 | $200,000~$300,000（包括预科课程，国际学生学费更高） |
-| 专科培训（注册后） | 5年 | $50,000~$80,000（培训期间收入较低，需申请专科培训项目） |
-| 注册与执照考试 | 1-2年 | $10,000~$20,000（包括NZREX临床考试、英语考试等） |
+| Bachelor of Medicine degree | 6 years | $200,000~$300,000 (Includes foundation courses, with higher tuition fees for international students) |
+| Specialist training (post-registration) | 5 years | $50,000~$80,000 (Low income during training period; need to apply for specialist training program.) |
+| Registration and licensing exams | 1-2 years | $10,000~$20,000 (Includes NZREX clinical exam, English language tests, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰医学委员会（MCNZ）注册 | Medical Council of New Zealand | 必备 | 需通过NZREX临床考试或等同认证 |
-| 澳大利亚皇家医师学院（RACP）院士 | Royal Australasian College of Physicians | 可选 | 专科培训完成后获得，注册必需 |
-| 英语能力证明（IELTS/OET） | IELTS/OET | 必备 | 总成绩不低于7.5（听说读），写作不低于7.0 |
-| 年度执业证书（APC） | MCNZ | 必备 | 每年更新，需完成CPD |
+| Registration with the Medical Council of New Zealand (MCNZ) | Medical Council of New Zealand | Required | Must pass NZREX clinical exam or equivalent accreditation. |
+| English proficiency evidence (IELTS/OET) | IELTS/OET | Required | Overall score not less than 7.5 (listening, reading, speaking), writing not less than 7.0 |
+| Annual Practising Certificate (APC) | MCNZ | Required | Updated annually, must complete CPD |
+| Fellow of the Royal Australasian College of Physicians (RACP) | Royal Australasian College of Physicians | Optional | Obtained after completing specialist training, required for registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 250。新西兰面临肿瘤内科医生短缺，预计未来5年需求持续增长。受老龄化人口和癌症发病率上升推动，就业前景非常强劲。主要就业于公立医院、私立诊所和学术机构。
+**Job demand: very high (★★★★★).** National workforce approx. 250. New Zealand faces a shortage of medical oncologists, with demand expected to grow over the next 5 years. Driven by an aging population and rising cancer incidence, job prospects are very strong. Mainly employed in public hospitals, private clinics, and academic institutions.
 
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $130,000~$150,000 | RMO或初级专科医生薪资，含加班和津贴 |
-| 中级（3-8年） | $150,000~$200,000 | 专科医生，根据经验及医院等级浮动 |
-| 高级（8年以上） | $200,000~$300,000 | 资深专家或科室主任，私立执业可达更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $130,000~$150,000 | Salary for RMO or junior specialist doctors, including overtime and allowances |
+| Mid-level (3–8 years) | $150,000~$200,000 | Medical specialist, varies with experience and hospital level |
+| Senior (8+ years) | $200,000~$300,000 | Senior experts or department heads in private practice can earn higher |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★½）。** 从注册医生起步，逐步晋升为高级肿瘤内科医生、科室主任或临床教授。部分医生转向研究或私人执业。持续专业发展和亚专科认证（如血液肿瘤学）可提升职业高度。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI's impact on oncologists is overall positive: it won't replace doctors but will significantly enhance diagnosis, treatment planning, and research efficiency. Low-risk tasks are taken over, allowing doctors to focus on patient care and complex decisions.
+
+Start as a registered doctor and gradually rise to senior oncologist, department head, or clinical professor. Some doctors move into research or private practice. Continuing professional development and subspecialty certification (e.g., haematology oncology) can enhance career progression.
+
+**Tasks most exposed to AI:**
+
+- Preliminary screening and annotation of common lesions in imaging reports
+- Chemotherapy protocol template generation and drug interaction checks
+- Structured entry and summary generation for pathology reports.
+- Automation of literature retrieval and clinical trial matching
+- Patient appointment follow-up and test result notification
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis improves diagnostic accuracy and speed
+- AI-driven prognostic models support individualized treatment decisions.
+- Automated document processing reduces clerical burden, allowing doctors to focus on diagnosis and treatment
+- AI-assisted drug discovery and clinical trial design
+- AI provides the latest guidelines and clinical evidence in patient consultations
+
+**Human moat:**
+
+- Clinical comprehensive judgment of complex cases
+- Emotional communication and psychological support with patients and families
+- Leadership and decision-making in interdisciplinary collaboration
+- Handling ethical dilemmas and end-of-life care
+- Ultimate responsibility for medical liability and regulatory compliance
+
+**Skills to build:**
+
+- Use and interpretation of AI-assisted diagnostic tools
+- Clinical application of medical imaging AI software
+- Clinical data analysis and basic statistics
+- Method combining evidence-based medicine with AI recommendations
+- Skills in telemedicine and digital health platforms
+- Applications of AI in pharmacogenomics
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Medical oncologists in New Zealand diagnose and treat cancer using chemotherapy,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单第一级职业，无需工作经历即可直接申请居留。需获得认证雇主的工作邀请。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制。学历+工作经验/雇主担保可累积分数。通常作为替代路径。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，临时工作签证，通常作为移民过渡路径。雇主需认证。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, eligible for direct residence without work experience. Requires a job offer from an accredited employer. |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, 6-point system. Points from qualifications + work experience/employer sponsorship. Often used as alternative pathway. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, temporary work visa, often used as a pathway to residency. Employer must be accredited. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Oncologist？**
-- 具备强抗压能力且对肿瘤治疗有热忱的医学生或医生
-- 希望快速通过技术移民定居新西兰的医疗专业人士
-- 愿意在多学科团队中协作并持续学习新疗法的人
-
-**谁不适合学Medical Oncologist？**
-- 无法承受高强度工作和频繁应对重症患者情绪压力的人
-- 不满足5年以上医学教育及专科培训时间投入的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical students or doctors with strong stress tolerance and passion for oncology treatment
+- Medical professionals seeking fast-track residency in New Zealand via skilled migration
+- Those willing to collaborate in multidisciplinary teams and continuously learn new therapies
+
+**Who is not suited**
+- People who cannot handle high-intensity work and frequent emotional stress from critically ill patients
+- Those who do not meet the 5+ years of medical education and specialist training commitment.
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for an oncology physician in New Zealand?**
+A: Entry level around NZD 130,000–150,000, intermediate NZD 150,000–200,000, senior NZD 200,000–300,000. Private practice income may be higher.
+
+**Q: How can oncologists obtain residency in New Zealand through immigration pathways?**
+A: This occupation is on the Green List Tier 1. With a job offer from an accredited employer, you can directly apply for the Straight to Residence Visa (approved within 12 months), or accumulate points through Skilled Migration (6-point system).
+
+**Q: What are the registration steps for overseas oncologists?**
+A: Must pass NZREX clinical exam or equivalent assessment, meet English requirements (IELTS 7.5/OET B), and apply for MCNZ registration. Specialists need to complete RACP assessment or partial training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极好（★★★★½） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 低（★½☆☆☆） |
-
-Medical Oncologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for medical oncologists in New Zealand?**
-答：Entry level NZD 130,000-150,000, mid-level NZD 150,000-200,000, senior NZD 200,000-300,000. Private practice may yield higher.
-
-**问：How can medical oncologists obtain New Zealand residency?**
-答：This occupation is on Green List Tier 1. With a job offer from an accredited employer, you can directly apply for the Straight to Residence Visa (approved within 12 months), or via Skilled Migrant Category (6-point system).
-
-**问：What registration steps are required for overseas medical oncologists?**
-答：Pass NZREX clinical exam or equivalent, meet English requirement (IELTS 7.5/OET B), and apply for MCNZ registration. Specialists need RACP assessment or partial training.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

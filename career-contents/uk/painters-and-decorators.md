@@ -1,60 +1,94 @@
-# Painters and decorators（Painters and decorators）职业分析 · UK
+# Painters and decorators — career analysis · United Kingdom
 
-**职业代码：5323 – Painters and decorators。**
+**Occupation code: 5323 (SOC)**
 
-Painters and decorators apply paint, varnish, wallpaper and other decorative materials to interior and exterior walls and surfaces, paint designs on various materials, and stain, wax and French polish wood surfaces by hand.
+Painters and decorators apply paint, varnish, wallpaper, and other decorative materials to interior and exterior walls and surfaces, draw patterns on wood, glass, metal, etc., and perform wood staining, waxing, and French polishing by hand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（学徒期间带薪学习，无学费） |
-| 职业培训（NVQ 2级） | 1年 | $500~$2,000（短期课程费用） |
-| 职业培训（NVQ 3级） | 1-2年 | $1,000~$4,000（高级课程费用） |
+| Apprenticeship | 3-4 years | $0~$0 (Paid learning during apprenticeship, no tuition fees) |
+| Vocational training (NVQ Level 2) | 1 year | $500~$2,000 (Short-term course fees) |
+| Vocational training (NVQ Level 3) | 1-2 years | $1,000~$4,000 (Advanced course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 2级涂装与装饰 | City & Guilds | 可选 | 基础资格，证明基本技能 |
-| NVQ 3级涂装与装饰 | City & Guilds | 可选 | 高级资格，提升就业机会 |
-| CSCS卡（建筑技能认证计划） | CSCS | 必备 | 上工必备，证明安全知识 |
+| CSCS card (Construction Skills Certification Scheme) | CSCS | Required | Essential for work, proves safety knowledge |
+| NVQ Level 2 Painting and Decorating. | City & Guilds | Optional | Basic qualification, demonstrating fundamental skills |
+| NVQ Level 3 Painting and Decorating | City & Guilds | Optional | Advanced qualification, improves employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 130,000。英国建筑行业持续增长，新房建设和翻新项目推动了对油漆工和装饰工的需求。预计未来十年就业稳定，技术熟练的工人尤其受欢迎。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 130,000. The UK construction industry continues to grow, with new housing and renovation projects driving demand for painters and decorators. Employment is expected to remain stable over the next decade, with skilled workers especially sought after.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 学徒或新手薪资 |
-| 中级（3-7年） | $25,000~$35,000 | 有经验工人薪资 |
-| 高级（7年以上） | $35,000~$50,000 | 高级工匠或项目经理薪资 |
+| Median salary | $32,763 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Apprentice or entry-level salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Experienced worker salary |
+| Senior (7+ years) | $35,000~$50,000 | Senior tradesperson or project manager salary |
+| average salary | $34,106 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径包括从学徒成长为高级工匠，可晋升为工头、项目经理或自主创业。获得NVQ 3级证书后，可向装饰顾问或专业涂装领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
+
+Career progression includes advancing from apprentice to senior craftsman, with promotion to foreman, project manager, or self-employment. After obtaining NVQ Level 3, can develop into decorating consultant or specialist painting fields.
+
+**Tasks most exposed to AI:**
+
+- Color formulation and swatch matching (AI vision systems can automatically identify and adjust colors)
+- Wall area measurement and material quantity calculation (AI measurement tools replacing manual estimation)
+- Operation and supervision of automatic spray painting machines (automated coating systems)
+- Wallpaper pattern alignment and cutting optimisation (computer vision-assisted)
+
+**Where AI augments the role:**
+
+- Complex texture and antique effect designs (AI generates creative templates for reference)
+- On-site defect detection (AI vision assists in finding subtle unevenness and color differences)
+- Customer communication and preview (AI-generated 3D renders for client confirmation)
+- Project quotation and schedule management (AI automates estimation and scheduling)
+- Safety monitoring and construction quality recording (AI real-time monitoring tool)
+
+**Human moat:**
+
+- Fine manual skills (e.g., French polishing, wood staining cannot be fully automated)
+- On-site adaptability (handling irregular surfaces and unexpected issues)
+- Aesthetic judgment and client communication (understanding personalized needs and providing artistic advice)
+- Safety compliance and multi-trade coordination (on-site management is irreplaceable)
+
+**Skills to build:**
+
+- Master digital measurement and color matching software (e.g., Sherwin-Williams ColorSnap)
+- Learn to use spray painting robots and automated coating equipment
+- Improve project management and client communication skills
+- Learning 3D rendering and VR preview tools (e.g., SketchUp or Unreal Engine)
+- Knowledge of eco-friendly paints and sustainable construction techniques
+- Basic data analysis and electronic document processing
+
+**Key growth areas:**
 
 - Rising housing demand
 - Renovation projects
@@ -63,65 +97,64 @@ Painters and decorators apply paint, varnish, wallpaper and other decorative mat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 可通过雇主担保获得签证，职业代码5323在可担保职业清单上，但薪资需达到一般门槛（约£26,200/年）。 |
-| Subclass Global Talent（Global Talent Visa） | 不适用，此签证针对科学、艺术等领域杰出人才。 |
-| Subclass Graduate（Graduate Visa） | 毕业生签证适用于完成学位的国际学生，可在英国工作2年（博士3年），但需相关学历。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Visa available through employer sponsorship; occupation code 5323 is on the eligible occupations list, but salary must meet the general threshold (about £26,200/year). |
+| Subclass Global Talent (Global Talent Visa) | Not applicable; this visa targets exceptional talents in science, arts, and other fields. |
+| Subclass Graduate (Graduate Visa) | The Graduate visa is for international students who have completed a degree, allowing them to work in the UK for 2 years (3 years for PhD), but requires relevant qualifications. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Painters and decorators？**
-- 注重细节，有耐心和手工技巧
-- 喜欢户外和室内工作，身体灵活
-- 适合希望从事稳定蓝领职业的人
-
-**谁不适合学Painters and decorators？**
-- 对油漆化学气味敏感或过敏者
-- 不喜高空作业或体力劳动者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and possesses manual skills
+- Enjoys both outdoor and indoor work, physically flexible
+- Suitable for those seeking a stable blue-collar career
+
+**Who is not suited**
+- Sensitive or allergic to paint chemical odours
+- People who dislike working at heights or physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a painter?**
+A: Average annual salary for UK painters is about £28,000, junior around £20,000, senior up to £45,000.
+
+**Q: Can a painter immigrate to the UK via the skilled worker visa?**
+A: Yes, occupation code 5323 is on the list of eligible occupations, but salary requirements and employer sponsorship must be met.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Painters and decorators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a painter and decorator?**
-答：Average salary is around £28,000, with entry-level at £20,000 and experienced up to £45,000.
-
-**问：Can painters and decorators migrate to the UK via Skilled Worker visa?**
-答：Yes, SOC 5323 is eligible, but must meet salary threshold (£26,200) and have employer sponsorship.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

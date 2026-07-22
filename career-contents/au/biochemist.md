@@ -1,60 +1,96 @@
-# Biochemist（Biochemist）职业分析 · 澳大利亚
+# Biochemist — career analysis · Australia
 
-**职业代码：234513 – Biochemist。**
+**Occupation code: 234513 (ANZSCO)**
 
-Biochemists study chemical processes and substances in living organisms, applying findings to medicine, agriculture, and industry; in Australia, they are mainly employed in research institutes, universities, and biotech firms.
+Biochemists study chemical processes and substances in living organisms, applied in medicine, agriculture, and industry. In Australia, they are mainly employed by research institutions, universities, and biotechnology companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（学费每年（国际学生）） |
-| 荣誉学士 | 1年 | $30,000~$45,000（学费每年） |
-| 博士 | 3-4年 | —（博士通常有奖学金，自费约3.5万/年） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition fee (international students).) |
+| Bachelor's degree with honours | 1 year | $30,000~$45,000 (Tuition per year) |
+| Doctorate | 3-4 years | $0~$35,000 (PhD usually has scholarships; self-funded costs about 35,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物化学或相关科学学士学位 | 澳洲大学 | 必备 | 必须完成 |
-| 博士（研究型） | 澳洲大学 | 可选 | 多数研究职位要求 |
-| 技能评估（VETASSESS） | VETASSESS | 必备 | 移民需要 |
+| Bachelor's degree in Biochemistry or related science | Australian universities | Required | Must be completed |
+| Skills assessment (VETASSESS) | VETASSESS | Required | Required for immigration |
+| Doctorate (research-based) | Australian universities | Optional | Most research positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,800。澳洲生物化学家就业前景稳定，受生命科学和医疗研究投资增长推动。预计未来五年职位缓慢增长，但竞争激烈，尤其是学术领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,800. Job prospects for biochemists in Australia are stable, driven by investment growth in life sciences and medical research. Slow job growth is expected over the next five years, but competition is high, especially in academia.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 研究助理或初级科学家 |
-| 中级（3-8年） | $80,000~$110,000 | 资深科学家或博士后 |
-| 高级（8年以上） | $110,000~$150,000 | 首席科学家或研究主管 |
+| Median salary | $80,288 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Research assistant or junior scientist |
+| Mid-level (3–8 years) | $80,000~$110,000 | Senior scientist or postdoctoral researcher |
+| Senior (8+ years) | $110,000~$150,000 | Chief Scientist or Research Director |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业发展路径：初级研究员→高级科学家→首席研究员或项目负责人。也可转入生物技术公司管理层、政策或监管领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
+
+Career path: Junior Researcher → Senior Scientist → Principal Investigator or Project Leader. Also possible to move into management in biotech companies, policy, or regulatory roles.
+
+**Tasks most exposed to AI:**
+
+- Automated analysis and report generation for routine blood and urine samples
+- Automatic monitoring and anomaly marking of quality control data
+- Automated execution and recording of standardized experimental procedures
+- Auto-fill and preliminary review of report templates
+- Automation of inventory management and reagent ordering
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyse complex test results and provide anomaly alerts.
+- Big data analytics: integrating patient historical data to predict disease trends
+- Automating workflows: optimizing sample sorting, tracking, and test sequencing
+- Remote expert collaboration: real-time sharing of inspection images and data for second opinions
+- Continuous learning: AI recommends latest research and updates standard operating procedures
+
+**Human moat:**
+
+- Manual processing and judgment of non-standardized samples
+- Interdisciplinary interpretation of test results and clinical context
+- Ethical decision-making and patient privacy protection
+- Development and validation of new testing methods
+- Laboratory quality system management and regulatory compliance
+
+**Skills to build:**
+
+- AI/machine learning applications in clinical testing (e.g., anomaly detection models)
+- Advanced pathophysiology knowledge to interpret AI outputs
+- Data science and analysis skills (Python/R)
+- Laboratory information system and automation integration skills
+- Telemedicine and electronic health record usage
+- Critical thinking and complex problem solving
+
+**Key growth areas:**
 
 - biotechnology
 - medical research
@@ -63,69 +99,68 @@ Biochemists study chemical processes and substances in living organisms, applyin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：困难（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立移民，职业在MLTSSL上，可申请永久居留 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州政府提名 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久移民，需雇主提名 |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent migration; occupation on the MLTSSL, eligible for permanent residency |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent migration requires employer nomination. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biochemist？**
-- 对生命科学有浓厚热情，喜欢实验和数据分析
-- 具备耐心和长期研究投入精神
-- 希望从事前沿医学或生物技术工作
-
-**谁不适合学Biochemist？**
-- 不喜欢实验室工作和重复性操作
-- 追求短期高薪或快速职业晋升
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong passion for life sciences, enjoys experiments and data analysis
+- Having patience and a long-term research commitment
+- Aspire to work in cutting-edge medicine or biotechnology
+
+**Who is not suited**
+- Dislikes lab work and repetitive operations
+- Pursuing short-term high salary or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of biochemists in Australia?**
+A: Entry-level approximately AUD 65,000-80,000, mid-level AUD 80,000-110,000, senior AUD 110,000-150,000. Salary depends on employer (university/enterprise) and location.
+
+**Q: Can biochemists immigrate to Australia?**
+A: Yes. This occupation is on the MLTSSL, eligible for migration via visas 189, 190, 482, etc. A VETASSESS skills assessment is required.
+
+**Q: Is it easy to find a job as a biochemist?**
+A: Demand is stable but competitive, especially for academic positions. Biotechnology companies and pharmaceutical enterprises offer more job opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 困难（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Biochemist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biochemists in Australia?**
-答：Entry-level around AUD 65,000-80,000, mid-level AUD 80,000-110,000, senior up to AUD 110,000-150,000 depending on employer and location.
-
-**问：Can biochemists migrate to Australia?**
-答：Yes. This occupation is on the MLTSSL, eligible for 189, 190, 482 visas. Requires VETASSESS skills assessment.
-
-**问：Is it easy to find a job as a biochemist?**
-答：Demand is stable but competition is high, especially in academia. More opportunities in biotech and pharmaceutical companies.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

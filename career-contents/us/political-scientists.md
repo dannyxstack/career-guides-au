@@ -1,58 +1,94 @@
-# Political Scientists（Political Scientists）职业分析 · 美国
+# Political Scientists — career analysis · United States
 
-**职业代码：19-3094 – Political Scientists。**
+**Occupation code: 19-3094 (SOC)**
 
-Study the origin, development, and operation of political systems. Analyze public opinion, political decision-making, and ideology. Conduct surveys, analyze elections, or review public documents.
+Study the origin, development, and operation of political systems, analyze public opinion, political decisions, and ideologies. May conduct polls, analyze election results, or public policy documents.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士 | 2年 | $30,000~$60,000（公立大学学费较低，私立较高） |
-| 博士 | 5年 | —（通常有全额资助，但时间成本高） |
+| Master's degree | 2 years | $30,000~$60,000 (Public universities have lower tuition, private universities higher) |
+| Doctorate | 5 years | $0~$60,000 (Typically fully funded, but high time cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 政治学硕士/博士学位 | 大学 | 必备 | 通常要求硕士或博士学位 |
-| 研究能力认证 | 无特定机构 | 可选 | 定量和定性研究技能是关键 |
+| Master's or PhD in Political Science | University | Required | Usually requires a master's or doctoral degree |
+| Research ability certification | No specific institution | Optional | Quantitative and qualitative research skills are key |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 6,500。美国劳工统计局预计2022-2032年政治学家就业增长约6%，与平均水平相近。需求主要来自政府、智库和非营利组织，但学术岗位竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,500. The US Bureau of Labor Statistics projects about 6% growth for political scientists from 2022-2032, close to the average. Demand primarily comes from government, think tanks, and non-profits, but academic positions are competitive.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 研究助理或初级分析师 |
-| 中级（4-7年） | $75,000~$100,000 | 高级研究员或项目经理 |
-| 高级（8年以上） | $100,000~$140,000 | 总监或资深专家 |
+| Median salary | $142,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Research assistant or junior analyst |
+| Mid-level (4-7 years) | $75,000~$100,000 | Senior researcher or project manager |
+| Senior (8+ years) | $100,000~$140,000 | Director or senior expert |
+| average salary | $142,510 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级职位通常从研究助理或分析师做起，积累经验后可晋升为高级研究员、项目主任或政策顾问。博士学位有助于进入学术界，但非学术路径晋升更快。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is unlikely to replace social housing policy development and tenant case management, but can amplify data analysis and automate administrative tasks; overall low risk, requiring strengthened interpersonal and compliance skills.
+
+Entry-level positions usually start as research assistant or analyst; with experience one can advance to senior researcher, project director or policy advisor. A PhD helps for academia, but non-academic paths offer faster advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated review and compliance check of rental applications
+- Social housing demand forecast report generation
+- Automated entry and update of tenant income and eligibility data
+- Policy document summaries and keyword extraction.
+- Automated sending of standardized reply emails
+
+**Where AI augments the role:**
+
+- Use AI to analyze community needs and optimize housing project design
+- AI-Assisted Policy Proposal and Impact Assessment Report Writing
+- Use predictive models to identify tenant default risk and intervene early.
+- Automatically generating housing market trend visualization dashboards
+- AI chatbots handle common tenant inquiries, reducing workload
+
+**Human moat:**
+
+- Humanistic care and communication negotiation for sensitive cases
+- Cross-departmental policy coordination and multi-stakeholder balance
+- Decision-making involving privacy and ethical considerations
+- On-site community visits and service resource connection
+- Complex Tenant Dispute Mediation & Relocation Plan Design
+
+**Skills to build:**
+
+- Proficient in data analysis and visualization tools (e.g., Power BI, Python).
+- learn AI-assisted policy simulation software (e.g., social policy simulation platforms)
+- Understand basic machine learning concepts to interpret prediction tools
+- Enhancing conflict mediation and cross-cultural communication skills
+- Learning project management and agile methodologies
+- Understanding AI ethics and privacy regulations
+
+**Key growth areas:**
 
 - Government Policy Analysis
 - Think Tanks
@@ -61,68 +97,67 @@ Study the origin, development, and operation of political systems. Analyze publi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于有学士以上学位的专业职位，需雇主担保，配额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于硕士以上或特殊能力者，需PERM劳工认证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在政治学领域有杰出成就者，如知名学者 |
+| Subclass H-1B (H-1B Specialty Occupation) | For professional positions requiring a bachelor's degree or higher, employer sponsorship needed, limited quota |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to master's degree holders or those with exceptional ability, requires PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to individuals with outstanding achievements in political science, such as well-known scholars. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Political Scientists？**
-- 对政治和政策有浓厚兴趣
-- 擅长数据分析和批判性思维
-- 愿意攻读研究生学位
-
-**谁不适合学Political Scientists？**
-- 缺乏耐心和长时间研究的能力
-- 不喜欢写作和公开演讲
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in politics and policy
+- Proficient in data analysis and critical thinking
+- Willing to pursue a graduate degree
+
+**Who is not suited**
+- Lack of patience and ability for prolonged research
+- Dislikes writing and public speaking
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a political scientist?**
+A: According to BLS data, the median annual salary for political scientists in 2023 was about $125,000, but varies greatly by industry. Government positions are typically lower than the private sector, while academia depends on the institution.
+
+**Q: Is it easy for political scientists to immigrate to the US via H-1B visa?**
+A: Political scientists are professional occupations and can apply for H-1B, but require employer sponsorship and face fierce quota competition (about 30% lottery rate). EB-2 green card pathway is feasible, but PERM labor certification process is cumbersome.
+
+**Q: What is the career progression path for a political scientist?**
+A: Typically start as research assistants, advance to senior analysts or project managers, then become department heads or policy advisors. A PhD helps in academic advancement, but non-academic paths rely more on experience and project outcomes.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Political Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for political scientists?**
-答：According to BLS, the median annual wage for political scientists was about $125,000 in 2023, varying by sector. Government jobs pay lower than private sector, and academia varies.
-
-**问：Is it easy for political scientists to immigrate to the US via H-1B?**
-答：Political scientists qualify for H-1B, but require employer sponsorship and face lottery (about 30% chance). EB-2 green card is possible, but PERM process is complex.
-
-**问：What is the career progression for political scientists?**
-答：Start as research assistant, advance to senior analyst or project manager, then to director or policy advisor. PhD helps academia, but non-academic paths rely on experience and project outcomes.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

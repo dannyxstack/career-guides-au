@@ -1,60 +1,96 @@
-# Wholesale Fresh Produce Salesperson（Wholesale Fresh Produce Salesperson）职业分析 · FR
+# Wholesale Fresh Produce Salesperson — career analysis · France
 
-**职业代码：D1107 – Wholesale Fresh Produce Salesperson。**
+**Occupation code: D1107 (ROME)**
 
-Sells fresh fruits, vegetables, meat, and dairy products to retailers, restaurants, and other businesses in wholesale markets or companies, maintaining client relationships and coordinating logistics.
+Selling fresh fruits and vegetables, meat, dairy products, and other products to retailers, restaurants, and other customers in wholesale markets or companies, maintaining customer relationships and coordinating logistics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭+职业培训 | 2年（CAP/BEP） | —（可通过学徒制获得，企业支付学费） |
-| 本科 | 3年（Licence） | $200~$5,000（公立大学低学费；私立商校较高） |
-| 硕士 | 2年（Master） | $300~$12,000（专业硕士如食品营销或供应链管理） |
+| High school diploma plus vocational training | 2 years (CAP/BEP) | $0~$3,000 (It can be obtained through apprenticeships, with companies paying tuition fees) |
+| Bachelor's degree | 3 years (Licence) | $200~$5,000 (Low tuition fees at public universities; Private commercial schools have higher rates) |
+| Master's degree | 2 years (Master) | $300~$12,000 (Specialized master's degrees such as food marketing or supply chain management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 无需特定执照，但雇主可能要求销售经验或行业知识 |
-| 驾照B类 | 法国政府 | 可选 | 部分职位需拜访客户，可能需要驾照 |
-| 食品卫生培训 | INRS或专业机构 | 可选 | 处理易腐食品时建议拥有 |
+| No mandatory certification | None | Optional | No specific license is required, but employers may require sales experience or industry knowledge |
+| Category B driver's license | The French government | Optional | Some positions require client visits and may require a driver's license |
+| Food hygiene training | INRS or professional institutions | Optional | It is recommended to have it when handling perishable foods |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国生鲜批发业稳定，受本地消费和出口需求支撑。数字化转型和供应链优化创造新机会，但竞争激烈，需具备谈判和客户管理能力。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's fresh wholesale industry is stable, supported by local consumption and export demand. Digital transformation and supply chain optimization create new opportunities, but competition is fierce and negotiating and customer management skills are required.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含奖金和提成 |
-| 高级（7年以上） | $38,000~$50,000 | 税前年薪，销售经理级别更高 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$38,000 | Pre-tax annual salary, including bonuses and commissions |
+| Senior (7+ years) | $38,000~$50,000 | Pre-tax annual salary, with a higher sales manager level |
+| average salary | $20,592 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级销售员晋升为高级销售经理、品类经理或区域总监。积累客户资源和行业知识后，可转向采购或创业开设批发公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate data tasks such as order processing and inventory management, but jobs requiring interpersonal trust and sensory judgment, such as face-to-face sales, customer relationship maintenance, and fresh product quality control, still rely on humans, so this position is mixed.
+
+Employees can be promoted from junior salesperson to senior sales manager, category manager, or regional director. After accumulating customer resources and industry knowledge, you can shift to procurement or start a wholesale company.
+
+**Tasks most exposed to AI:**
+
+- Use spreadsheets or ERP systems to enter orders and invoices
+- Regular customer follow-up and quotations are conducted by phone or email
+- Manually forecast demand and adjust inventory based on historical sales data
+- Handle standardized logistics coordination and delivery scheduling
+- Generate daily/weekly sales reports and performance statistics
+
+**Where AI augments the role:**
+
+- Use the AI sales assistant to gain real-time insights into agricultural product price trends and customer purchasing behavior
+- Precisely recommend product combinations and promotional plans through AI-driven CRM systems
+- Quickly assess fresh food quality grades and generate reports using computer vision
+- Use chatbots to handle routine inquiries and free up time to focus on high-value customers
+- Optimize supply chains through predictive analytics, reduce losses, and improve profit margins
+
+**Human moat:**
+
+- Build long-term trust with retailers and restaurants and conduct personalized negotiations
+- Assess the maturity and freshness of fresh products through sight, touch, and smell
+- When prices fluctuate, we flexibly adjust quotes and payment terms based on social connections
+- Soft skills for handling complex emotional scenarios such as returns and complaints
+- Tacit knowledge about the seasonal supply of local agricultural products
+
+**Skills to build:**
+
+- Familiar with CRM and ERP software such as Salesforce and SAP
+- Learn to analyze sales data using Power BI or Tableau
+- Master AI-assisted quoting tools such as Prisync or dynamic pricing software
+- Enhance cross-cultural communication and relationship management skills (especially B2B)
+- Learn the basics of supply chain management (such as cold chain logistics optimization)
+- Master basic data cleaning and reporting automation (Python or Excel macros)
+
+**Key growth areas:**
 
 - Digitalization
 - Supply Chain Optimization
@@ -63,68 +99,67 @@ Sells fresh fruits, vegetables, meat, and dairy products to retailers, restauran
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent - Carte de séjour pluriannuelle） | 适用于高技能人才，如硕士学历+工作合同，配额宽松 |
-| Subclass Salarié（Carte de séjour salarié） | 需工作许可和雇主担保，适用于长期雇佣合同（CDI） |
-| Subclass Carte bleue UE（EU Blue Card） | 高薪职位（年薪≥53,836.50€，2024）可申请，灵活性较高 |
+| Subclass Passeport Talent (Passeport Talent - Carte de séjour pluriannuelle) | Suitable for highly skilled talents, such as master's degree + work contract, with flexible quotas |
+| Subclass Salarié (Carte de séjour salarié) | Work permit and employer sponsorship required, applicable to long-term employment contracts (CDI) |
+| Subclass Carte bleue UE (EU Blue Card) | High-paying positions (annual salary ≥ €53,836.50, 2024) are available for application and offer high flexibility |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wholesale Fresh Produce Salesperson？**
-- 喜欢与人打交道、善于谈判的人
-- 对生鲜产品有热情，了解市场趋势的人
-- 能适应早起和快节奏工作环境的人
-
-**谁不适合学Wholesale Fresh Produce Salesperson？**
-- 不擅长客户关系维护和销售压力的人
-- 厌恶早起或体力活动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with others and are good at negotiation
+- People who are passionate about fresh produce and understand market trends
+- People who can adapt to early mornings and a fast-paced work environment
+
+**Who is not suited**
+- People who are not good at maintaining customer relationships or under sales pressure
+- People who dislike waking up early or physical activity.
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level for this profession in France?**
+A: Entry-level annual income is about €24,000-30,000, while seniors can earn over €50,000. Bonuses and commissions are important components.
+
+**Q: Is it easy for foreigners to immigrate to France through this employment?**
+A: For shortage occupations, immigration can be made through Passeport Talent or Salarié visas. However, a B2 level of French proficiency and a relevant employment contract are required.
+
+**Q: What are the career development paths?**
+A: You can be promoted from salesperson to sales manager or category manager, or move into procurement or logistics management. Once you gain experience, you can start a wholesale business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Wholesale Fresh Produce Salesperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for this occupation in France?**
-答：Entry-level annual salary ranges from €24,000 to €30,000, senior can exceed €50,000. Bonuses and commissions are key.
-
-**问：Is it easy for foreigners to immigrate through this occupation?**
-答：It is a shortage occupation, eligible for Passeport Talent or Salarié visa. Requires French B2 level and a job offer.
-
-**问：What are the career progression paths?**
-答：Promotion to sales manager, category manager, or transition to purchasing/logistics. Experienced professionals can start their own wholesale business.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

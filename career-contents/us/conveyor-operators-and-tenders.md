@@ -1,60 +1,96 @@
-# Conveyor Operators and Tenders（Conveyor Operators and Tenders）职业分析 · 美国
+# Conveyor Operators and Tenders — career analysis · United States
 
-**职业代码：53-7011 – Conveyor Operators and Tenders。**
+**Occupation code: 53-7011 (SOC)**
 
-Control or tend conveyors or conveyor systems that move materials or products to and from stockpiles, processing stations, departments, or vehicles. May control speed and routing of materials or products.
+Control or tend conveyors or conveyor systems to move materials or products to and from stockpiles, processing stations, departments, or vehicles; control speed and routing of material movement.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 短期在职培训 | 1个月 | —（雇主提供，费用极低） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Short-term on-the-job training | 1 month | $0~$1,000 (Employer-provided, very low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无/低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 美国教育部认可的学校 | 必备 | 基本入职要求 |
-| 叉车操作员认证 | 职业安全与健康管理局（OSHA） | 可选 | 非必需但有助于晋升 |
+| High school diploma or GED | Schools accredited by the U.S. Department of Education | Required | Basic entry requirements |
+| Forklift operator certification | Occupational Safety and Health Administration (OSHA) | Optional | Not required but helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。美国劳工统计局预计2023-2033年就业增长约-4%（下降），主要因自动化替代和仓储效率提升。但物流和制造业仍有稳定需求，尤其是电商配送中心。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. The US Bureau of Labor Statistics projects employment growth of about -4% (decline) from 2023-2033, mainly due to automation and warehouse efficiency gains. However, logistics and manufacturing still have steady demand, especially in e-commerce distribution centers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 常见入门薪资 |
-| 中级（3-10年） | $35,000~$44,000 | BLS中位薪资约37,000 |
-| 高级（10年以上/主管） | $44,000~$55,000 | 主管或维护技师薪资 |
+| Median salary | $42,420 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Common entry-level salary |
+| Intermediate (3-10 years) | $35,000~$44,000 | BLS median salary approx. $37,000 |
+| Senior (10+ years/Supervisory) | $44,000~$55,000 | Supervisor or maintenance technician salary |
+| average salary | $45,080 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 初级操作员可晋升为班组长或主管，或转向维护技师岗位。部分经验者可考取工业设备认证，转型为物流协调员或仓库经理。
-**AI替代风险：高风险（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Conveyor operators and attendants face high risk of automation replacement. AI and robots will take over monitoring and adjusting conveyor systems, and the number of positions is expected to shrink.
+
+Junior operators can advance to team leader or supervisor, or move to maintenance technician roles. Some experienced operators can obtain industrial equipment certification and transition to logistics coordinator or warehouse manager.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of conveyor belt status (replaced by AI vision system)
+- Adjust conveyor speed and routes (optimized automatically by algorithms)
+- Record material flow and fault logs (automatic data collection)
+- Manual start/stop equipment (replaced by remote/automatic control)
+- Unclog conveyor belt jams (using robots or automatic cleaning devices)
+
+**Where AI augments the role:**
+
+- Analyze conveyor efficiency data through AI and propose process improvement suggestions
+- Use augmented reality (AR) to assist fault diagnosis and repair
+- Use predictive maintenance systems to reduce unplanned downtime
+- Operate digital twin systems for simulation and training
+- Integrate IoT data to optimize multi-segment conveyor coordination
+
+**Human moat:**
+
+- Handle atypical faults and abnormal situations (e.g., sudden changes in material properties)
+- Safety emergency response and human-machine collaborative decision-making
+- Hands-on ability in equipment maintenance and mechanical repair
+- Soft skills for communication and coordination with upstream and downstream processes
+- Ability to adapt to on-site environmental changes and random tasks
+
+**Skills to build:**
+
+- Industrial control systems (PLC/SCADA) basics
+- Data Analysis and Dashboard Tools (Power BI/Tableau)
+- Robotic Process Automation (RPA) basics
+- Predictive maintenance technology and equipment diagnostics
+- IoT device configuration and troubleshooting
+- Advanced training in safety procedures and emergency response
+
+**Key growth areas:**
 
 - Declining employment
 - Automation replacement
@@ -63,65 +99,67 @@ Control or tend conveyors or conveyor systems that move materials or products to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 季节性或临时非农业工人签证，雇主需证明劳工短缺。但对输送机操作员极少使用。 |
-| Subclass EB-3（EB-3 Skilled Workers, Professionals, and Other Workers） | 其他工人类别（Other Workers），需PERM劳工证，但申请难度大且配额少。通常不适用于该职业。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal or temporary non-agricultural worker visa; employers must demonstrate labour shortage, but rarely used for conveyor operators. |
+| Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Other Workers category requires PERM labor certification but is difficult with few quotas; usually not applicable for this occupation. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Conveyor Operators and Tenders？**
-- 喜欢体力劳动、对重复性工作有耐心的人
-- 初学者寻求快速入职机会
-- 愿意上夜班或周末班的人
+**Who is suited**
+- People who enjoy physical labour and have patience for repetitive work
+- Beginners seeking quick job entry.
+- People willing to work night shifts or weekend shifts
 
-**谁不适合学Conveyor Operators and Tenders？**
-- 寻求高薪或职业晋升空间者
-- 担心自动化取代的人
+**Who is not suited**
+- Those seeking high salary or career advancement opportunities
+- People worried about automation replacing jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a conveyor operator?**
+A: According to BLS 2023 data, median annual salary approx. $37,000 USD, junior around $30,000, senior or supervisor around $50,000. Salary varies by region, industry and experience.
+
+**Q: Can a conveyor operator obtain a US green card through skilled migration?**
+A: Very difficult. This occupation typically does not require a university degree, has low skill requirements, does not qualify for EB-2/EB-3 professional categories, only possibly through EB-3 Other Workers, but quotas are very limited and backlogs extremely long. H-2B visa is only for temporary workers, not suitable for long-term immigration.
+
+**Q: What are the employment prospects for conveyor operators?**
+A: BLS projects a 4% decline in employment from 2023 to 2033, mainly due to automation (e.g., autonomous conveyor systems, robots). However, e-commerce and warehousing logistics centers still have some demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无/低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高风险（★★★★☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Conveyor Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for conveyor operators and tenders?**
-答：According to BLS 2023 data, median annual wage is about $37,000, entry-level around $30,000, and senior/supervisor around $50,000. Varies by region, industry, and experience.
-
-**问：Can conveyor operators get a US green card through employment-based immigration?**
-答：Very difficult. The occupation typically requires no college degree and low skills, not qualifying for EB-2/EB-3 professional categories. Only possible via EB-3 Other Workers, but with very limited quota and long backlog. H-2B is temporary only.
-
-**问：What is the job outlook for conveyor operators?**
-答：BLS projects a 4% decline from 2023-2033, mainly due to automation (e.g., autonomous conveyors, robotics). However, some demand remains in e-commerce and warehousing.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Speech Therapist（Speech Therapist）职业分析 · DE
+# Speech Therapist — career analysis · Germany
 
-**职业代码：8173 – Speech Therapist。**
+**Occupation code: 8173 (KldB)**
 
-Speech therapists assess and treat speech, language, swallowing, and communication disorders in children and adults.
+Speech language therapists assess and treat speech, language, swallowing, and communication disorders, serving both children and adult patients.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科或双元制培训 | 3-4年 | —（公立大学免学费，仅学期费；私人培训学校有费用） |
-| 硕士（可选） | 2-3年 | —（硕士可提升专业深度，公立大学基本免学费） |
+| Bachelor's degree or dual vocational training | 3-4 years | $0~$5,000 (Public universities are tuition-free, only semester fees apply; private training schools have fees.) |
+| Master's degree (optional) | 2-3 years | $0~$10,000 (A master's degree can enhance professional depth, with tuition basically free at public universities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 言语治疗师国家考试或学位 | 德国高校或职业院校 | 必备 | 必须完成经认可的教育项目并通过州考试 |
-| 职业资格认证（Anerkennung） | 各州卫生局 | 必备 | 国外学历需认证，证明等同德国标准 |
-| 德语能力（至少C1） | Goethe/TELC等 | 必备 | 临床工作需流利德语沟通 |
+| National exam or degree in speech therapy | German universities or vocational schools | Required | Must complete an accredited educational program and pass a state exam |
+| Professional qualification recognition (Anerkennung) | State health departments | Required | foreign qualifications must be assessed to prove equivalence to German standards |
+| German language proficiency (at least C1) | Goethe/TELC etc. | Required | Clinical work requires fluent German communication. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。德国言语治疗师需求持续增长，尤其在老龄化社会和儿童发展支持领域，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Demand for speech therapists in Germany continues to grow, especially in the areas of aging society and child development support, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 公立或私立诊所起薪 |
-| 中级（3-7年） | $40,000~$52,000 | 含经验加成 |
-| 高级（7年以上） | $52,000~$65,000 | 主管或有附加资质 |
+| Median salary | $42,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Starting salary at public or private clinics |
+| Mid-level (3–7 years) | $40,000~$52,000 | Includes experience bonuses. |
+| Senior (7+ years) | $52,000~$65,000 | Supervisor or with additional qualifications |
+| average salary | $44,076 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径包括从临床治疗师到学科带头人、诊所管理或开设私人诊所，也可转向科研或教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
+
+Career paths include from clinical therapist to discipline leader, clinic management or private practice, as well as transitioning to research or teaching.
+
+**Tasks most exposed to AI:**
+
+- Automated speech recognition and natural language processing for initial screening and standardized test scoring
+- AI generates basic treatment plans and exercise materials
+- Automatic transcription and document filling of electronic health records
+- Automatic detection of speech disorder features through voice analysis
+- Basic interactive Q&A in remote therapy is handled by chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyzing large amounts of voice data to identify subtle patterns
+- Personalised treatment: using machine learning to optimise treatment plans and provide real-time feedback
+- Telemedicine: expanding service scope through AI-driven platforms.
+- Effect tracking: automatically analyzes patient progress data and adjusts plans
+- Research acceleration: AI processes large-scale corpora to discover new treatments
+
+**Human moat:**
+
+- Clinical judgment and empathetic communication for complex cases
+- Interdisciplinary team collaboration and patient education
+- Design and implement alternative communication systems (e.g., AAC)
+- Handling ethical and legal issues (e.g., informed consent)
+- Humanistic care and therapeutic relationship building.
+
+**Skills to build:**
+
+- Use and interpretation of AI-assisted diagnostic tools
+- Data analysis and statistics (Python/R)
+- Remote therapy platform operation and optimization
+- Natural language processing basics
+- Human-computer interaction design (for therapeutic tools)
+- Agility for continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Early intervention
@@ -64,69 +100,68 @@ Speech therapists assess and treat speech, language, swallowing, and communicati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且年薪达标，言语治疗师符合条件 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需职位与学历匹配，通过资质认证 |
-| Subclass Chancenkarte（Opportunity Card） | 积分制，符合条件可来德找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree and annual salary threshold; speech therapists meet criteria |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires job position matching qualifications and passing accreditation |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system; eligible candidates can come to Germany to find work |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Speech Therapist？**
-- 有耐心和同理心的人
-- 喜欢与不同年龄群体沟通
-- 具备科学分析和问题解决能力
-
-**谁不适合学Speech Therapist？**
-- 不擅长与患者或家属密集互动
-- 对德语要求高，语言能力不足者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy
+- Enjoys communicating with people of different age groups
+- Possess scientific analysis and problem-solving skills
+
+**Who is not suited**
+- Not skilled in intensive interaction with patients or families
+- High German proficiency required; those with insufficient language skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a speech therapist in Germany?**
+A: Annual pre-tax salary is approximately EUR 35,000-55,000, depending on experience and workplace.
+
+**Q: How can foreign speech therapists obtain a German work permit?**
+A: Requires academic recognition (Anerkennung) and German C1, then apply for a Blue Card or skilled migration visa.
+
+**Q: How to become a speech therapist in Germany?**
+A: Must complete 3-4 years of nationally recognised training (dual system or undergraduate degree) and pass a national exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Speech Therapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a speech therapist in Germany?**
-答：Gross annual salary ranges from €35,000 to €55,000 depending on experience and employer.
-
-**问：How can a foreign speech therapist get a work permit in Germany?**
-答：Requires credential recognition (Anerkennung) and German at C1 level, then apply for EU Blue Card or Skilled Worker visa.
-
-**问：How to become a speech therapist in Germany?**
-答：Complete a state-recognized 3-4 year program (dual or university) and pass the state exam.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

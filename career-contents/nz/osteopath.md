@@ -1,59 +1,95 @@
-# Osteopath（Osteopath）职业分析 · 新西兰
+# Osteopath — career analysis · New Zealand
 
-**职业代码：252112 – Osteopath。**
+**Occupation code: 252112 (ANZSCO)**
 
-Osteopaths diagnose and treat musculoskeletal conditions using manual therapy, muscle energy techniques, and rehabilitation. In New Zealand, this occupation is on the Green List Tier 1, offering a clear pathway to residence with competitive salaries.
+Osteopaths diagnose and treat musculoskeletal system disorders using manual therapy, muscle energy techniques, and rehabilitation exercises. In New Zealand, this occupation is on the Green List direct residence pathway, with a clear skilled migration route and attractive salary.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（整骨学） | 4年 | $35,000~$50,000（每年国际学生学费，包含实习费用） |
-| 硕士（整骨学） | 2年 | $40,000~$60,000（每年国际学生学费，部分课程本硕连读） |
+| Bachelor's (Osteopathy) | 4 years | $35,000~$50,000 (Annual international student tuition fees, including internship costs) |
+| Master's (Osteopathy) | 2 years | $40,000~$60,000 (Annual tuition fees for international students; some programs offer combined bachelor's and master's degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰整骨委员会注册 | Osteopathic Council of New Zealand (OCNZ) | 必备 | 必须在OCNZ注册才能执业，需完成认证课程并通过考试 |
-| 年度执业证书 | OCNZ | 必备 | 每年更新，要求持续教育学分 |
-| 英语语言考试（如IELTS） | 各类测试机构 | 必备 | 非英语母语者需提供成绩，通常要求雅思总分7.0 |
+| Registration with the Osteopathic Council of New Zealand | Osteopathic Council of New Zealand (OCNZ) | Required | Must register with OCNZ to practise, complete accredited courses and pass exams |
+| Annual Practising Certificate | OCNZ | Required | Updated annually, requiring continuing education credits |
+| English language test (e.g., IELTS) | Various testing agencies | Required | Non-native English speakers must provide test scores, usually requiring an overall IELTS score of 7.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 600。新西兰人口老龄化及运动健康意识提升，对整骨医师需求稳定增长。就业机会主要集中在奥克兰、惠灵顿等城市，乡村地区也有一定缺口。从业者通常受雇于诊所、医院或自营，整体前景看好。
+**Job demand: high (★★★★☆).** National workforce approx. 600. New Zealand's aging population and growing awareness of sports health drive steady demand for osteopaths. Employment opportunities are mainly in cities like Auckland and Wellington, with some gaps in rural areas. Practitioners are typically employed in clinics, hospitals, or self-employed, with overall positive prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 受雇于诊所或医院 |
-| 中级（3-6年） | $85,000~$110,000 | 有经验的执业医师，可能担任主管 |
-| 高级（6年以上） | $110,000~$150,000 | 资深医师或诊所合伙人，自营收入更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Employed by a clinic or hospital |
+| Mid-level (3–6 years) | $85,000~$110,000 | Experienced practicing physician, may serve as supervisor |
+| Senior (6+ years) | $110,000~$150,000 | Senior physician or clinic partner, with higher self-employed income |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级整骨医师可在诊所积累经验，逐步晋升为高级医师或诊所合伙人。也可向运动医学、康复医学等细分领域深造，或进入教学研究领域。自营开业是常见发展路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Osteopaths' core diagnostic and treatment methods rely heavily on clinical palpation and individualized judgment, making AI substitution difficult. However, documentation, image analysis, and patient education will be significantly automated. Overall risk is manageable, with both opportunities and challenges.
+
+Junior osteopaths can gain experience in clinics, gradually advance to senior practitioner or clinic partner. They may also specialize in sports medicine, rehabilitation medicine, or pursue teaching and research. Self-employed practice is a common career path.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patient assessment reports and medical records
+- Assist with preliminary diagnosis using AI image analysis
+- Online appointment booking, billing, and insurance claim processing
+- Automated generation of standardized rehabilitation exercise plans
+- AI-powered intelligent Q&A and follow-up for common patient questions
+
+**Where AI augments the role:**
+
+- AI-assisted imaging (X-ray/MRI) to quickly locate lesion areas, improving diagnostic accuracy
+- AI provides personalized treatment recommendations and prognosis predictions based on big data
+- AR/VR tools assist patient rehabilitation training with real-time feedback on movement quality.
+- AI-driven patient management platform optimizes treatment plans and follow-ups
+- Speech-to-text tools record manual operation points in real time, reducing paperwork time
+
+**Human moat:**
+
+- Hands-on diagnosis and clinical reasoning (hands-on diagnosis)
+- Patient trust and therapeutic relationship (building emotional connection)
+- Personalized treatment decisions and adjustments for complex cases
+- Clinical leadership and communication in multidisciplinary collaboration
+- Legal responsibility and medical ethical judgment
+
+**Skills to build:**
+
+- AI image interpretation (e.g., musculoskeletal ultrasound/X-ray assisted diagnostic tools)
+- Data-driven prognostic modeling and clinical decision support system use
+- Proficiency in telemedicine and digital therapy platforms.
+- Patient communication and health coaching skills (for explaining AI-generated plans)
+- Basic programming/data literacy (understanding AI output logic)
+- Continuous learning and evidence-based practice updates (keeping up with latest AI tools)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Osteopaths diagnose and treat musculoskeletal conditions using manual therapy, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单第一层级条件，可直接申请居留，无需先工签 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制积分，满足学历、工作经验、薪资等要求可申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，工作2年后可转居留（如符合绿色清单第二层级或SMC） |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Tier 1 of the Green List criteria, eligible for direct residence without requiring a work visa first |
+| Subclass SMC (Skilled Migrant Category) | Through the 6-point system, meeting requirements for education, work experience, and salary, can apply for residence. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa with residence possible after 2 years (if meeting Green List Tier 2 or SMC requirements) |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Osteopath？**
-- 对人体结构和手动疗法有浓厚兴趣，善于沟通和患者教育
-- 希望在移民过程中获得清晰快捷的居留路径
-- 愿意接受长期学习和持续专业发展
-
-**谁不适合学Osteopath？**
-- 厌恶高强度身体手法操作或体力劳动
-- 希望快速获得高收入，不愿意从初级岗位做起
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in human anatomy and manual therapy, with good communication and patient education skills
+- Seeking a clear and fast residence pathway during immigration
+- Willing to accept long-term learning and continuous professional development
+
+**Who is not suited**
+- Those who dislike high-intensity manual techniques or physical labor
+- Those who want to quickly earn high income without starting from entry-level
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for osteopaths in New Zealand?**
+A: Junior osteopath salary approx. NZ$65,000 to $85,000, mid-level approx. $85,000 to $110,000, senior or self-employed up to $110,000 to $150,000+. Employed vs self-employed income differs, with self-employment having higher earning potential.
+
+**Q: How can an osteopath immigrate to New Zealand through skilled migration?**
+A: Osteopaths are on the Green List Tier 1, eligible for Straight to Residence Visa without needing to work first. They can also qualify via Skilled Migrant Category 6-point system (e.g., master's degree + median wage) or employer-accredited work visa to residence.
+
+**Q: Is registration required to practice in New Zealand?**
+A: Yes, all osteopaths must register with the Osteopathic Council of New Zealand (OCNZ) and hold an annual practicing certificate. Registration requires completion of an accredited course, passing exams, and English language proof (e.g., IELTS 7.0).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Osteopath的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for osteopaths in New Zealand?**
-答：Entry-level osteopaths earn around NZD 65,000-85,000, mid-level 85,000-110,000, and senior/self-employed can earn 110,000-150,000 or more. Self-employment may yield higher income.
-
-**问：How can osteopaths migrate to New Zealand through skilled migration?**
-答：Osteopaths are on the Green List Tier 1, eligible for the Straight to Residence Visa without needing to work first. They can also use the Skilled Migrant Category 6-point system (e.g., master's degree + median wage) or an AEWV leading to residence.
-
-**问：Is registration required to practice as an osteopath in New Zealand?**
-答：Yes, all osteopaths must be registered with the Osteopathic Council of New Zealand (OCNZ) and hold an annual practising certificate. Requirements include an accredited qualification, passing exams, and English proficiency (e.g., IELTS 7.0).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

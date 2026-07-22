@@ -1,60 +1,96 @@
-# Catering and Restaurant Managers（Catering and Restaurant Managers）职业分析 · ES
+# Catering and Restaurant Managers — career analysis · Spain
 
-**职业代码：1429 – Catering and Restaurant Managers。**
+**Occupation code: 1429 (CNO)**
 
-Manage daily operations of catering and restaurant businesses, including menu planning, staff scheduling, cost control, and customer service to ensure profitability and quality.
+Responsible for managing the daily operations of catering enterprises and banquet service companies, including menu planning, staff scheduling, cost control, and customer service, ensuring profitability and service quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 酒店管理/餐饮管理本科（Grado） | 4年 | $1,000~$5,000（公立大学约1000-2000€/年，私立5000-10000€/年） |
-| 餐饮管理硕士（Máster） | 1年 | $3,000~$15,000（公立约3000-6000€，私立6000-15000€） |
-| FP Grado Superior – 餐饮管理 | 2年 | —（公立FP免费或低学费，私立约500-1500€/年） |
+| Bachelor's degree in Hotel Management/Restaurant Management (Grado) | 4 years | $1,000~$5,000 (Public universities: approx. 1000-2000€/year; private: 5000-10000€/year.) |
+| Master of Restaurant Management (Máster) | 1 year | $3,000~$15,000 (Public schools cost about €3,000-6,000, private ones €6,000-15,000) |
+| FP Grado Superior – Food and beverage management | 2 years | $0~$1,500 (Public FP: free or low tuition; private: approximately €500-1,500/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 预防劳务风险基础课程 | 西班牙劳动部或授权培训机构 | 必备 | 餐饮业法律要求，所有经理必修 |
-| 食品卫生管理证书 | 各自治区卫生部门 | 必备 | 必须持有，部分自治区额外要求过敏原培训 |
-| 酒店管理/餐饮管理学位或FP | 西班牙教育部 | 可选 | 虽非强制，但多数雇主要求Grado或FP高级 |
+| Basic course on labor risk prevention | Spanish Ministry of Labor or authorized training institutions | Required | Legal requirements in the catering industry are required for all managers |
+| Food Hygiene Management Certificate | Health departments of all autonomous regions | Required | It is mandatory, and some autonomous regions additionally require allergen training |
+| Degree in Hotel Management/Restaurant Management or FP | Spanish Ministry of Education | Optional | Although not mandatory, most employers require Grado or FP Senior certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 52,340。西班牙旅游业持续增长，餐饮业招聘活跃。但2023年企业注册数虽增，薪资压力与劳动力短缺并存。预计未来3年岗位增幅约5-8%，大城市机会较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 52,340. Spain's tourism industry continues to grow, and the restaurant industry is actively hiring. However, although the number of company registrations increased in 2023, salary pressures and labor shortages coexist. It is expected that job growth will be about 5-8% in the next three years, with more opportunities in major cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 小型餐厅或宴会公司 |
-| 中级（4-7年） | $28,000~$35,000 | 中型连锁或高端餐厅 |
-| 高级（8年+） | $35,000~$50,000 | 大型连锁区域经理或高端宴会总监 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Small restaurants or banquet companies |
+| Mid-level (4-7 years) | $28,000~$35,000 | Medium-sized chains or high-end restaurants |
+| Senior (8+ years) | $35,000~$50,000 | Regional managers of large chain chains or high-end banquet directors |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从厨师、餐厅主管晋升，积累经验后可管理大型连锁或高端餐饮，也可转向区域运营经理或自创品牌。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Usually, they are promoted from chef or restaurant supervisor, and after gaining experience, can manage large chains or high-end restaurants, or transition to regional operations manager or create their own brand.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - tourism
 - food service
@@ -63,68 +99,67 @@ Manage daily operations of catering and restaurant businesses, including menu pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需有西班牙雇主合同，工资达标，适合长期工作 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 高技能专业人才居留，适用于大型企业或管理岗位，薪资要求较高（≥30,000€） |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，需大学学位和较高薪资（≥33,908€），餐饮管理职位可申请 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires a Spanish employer contract, meets the salary standard, and is suitable for long-term employment |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Highly skilled professionals residing in large enterprises or management positions, with relatively high salary requirements (≥30,000€) |
+| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card: requires university degree and higher salary (≥33,908€); restaurant management positions can apply. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Catering and Restaurant Managers？**
-- 热爱餐饮行业，善于处理客户关系和团队管理
-- 抗压能力强，能适应节日和周末工作节奏
-- 有成本控制意识，希望快速晋升
-
-**谁不适合学Catering and Restaurant Managers？**
-- 厌恶轮班、不愿意加班或节假日工作
-- 对服务行业缺乏热情，不喜欢人际沟通
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the food and beverage industry, skilled in handling customer relationships and team management
+- Strong stress tolerance, able to adapt to holiday and weekend work rhythms
+- Awareness of cost control, hoping for rapid promotion
+
+**Who is not suited**
+- Dislikes shift work, unwillingness to work overtime or holidays
+- They lack enthusiasm for the service industry and dislike interpersonal communication
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for food and beverage managers in Spain?**
+A: Entry-level is €22,000–28,000, intermediate is €28,000–35,000, and advanced can reach €50,000. Large chains or high-end banquet companies offer higher salaries but require extensive experience.
+
+**Q: How can foreigners immigrate to Spain through a restaurant management position?**
+A: You can obtain employment residence (contract required), highly skilled professional residence (salary ≥€30,000), or EU Blue Card (salary ≥€33,908+ degree). Experience is more important than education.
+
+**Q: What is the career advancement path for food and beverage managers?**
+A: Start as a restaurant supervisor or junior manager, and gradually advance to regional manager, operations director, or food and beverage director. You can also gain experience and open your own restaurant or banquet company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Catering and Restaurant Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for catering managers in Spain?**
-答：Entry-level: €22,000-28,000; mid-level: €28,000-35,000; senior: up to €50,000. Large chains or high-end catering companies pay more, but require experience.
-
-**问：How can foreigners immigrate to Spain through catering management positions?**
-答：Via work permit (contract required), highly skilled professional permit (salary ≥€30,000), or EU Blue Card (salary ≥€33,908 + degree). Experience is valued more than education.
-
-**问：What is the career progression for catering managers?**
-答：Start as restaurant supervisor or junior manager, progress to regional manager, operations director, or catering director. Alternatively, open your own restaurant or catering business with experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Accountant（Accountant）职业分析 · IE
+# Accountant — career analysis · Ireland
 
-**职业代码：2411 – Accountant。**
+**Occupation code: 2411 (ISCO08)**
 
-Accountants manage financial records, tax filings, audits, and financial analysis, ensuring compliance and supporting business decisions.
+Accountants handle financial records, tax returns, audits, and financial analysis to ensure compliance and support business decisions.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | $12,000~$20,000（年均学费，欧盟学生较低） |
-| 硕士 | 1-2年 | $15,000~$25,000（专业会计硕士） |
-| 职业资格 | 2-4年 | $5,000~$10,000（如ACCA或ACA考试及培训费用） |
+| Bachelor's degree | 3-4 years | $12,000~$20,000 (Annual tuition fees, lower for EU students) |
+| Master's degree | 1-2 years | $15,000~$25,000 (Master of Professional Accounting) |
+| Professional qualifications | 2-4 years | $5,000~$10,000 (Such as ACCA or ACA exam and training fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册会计师（ACA） | Chartered Accountants Ireland | 可选 | 需通过考试及工作经验 |
-| 公认会计师（ACCA） | ACCA | 可选 | 国际认可，适用于多领域 |
-| 注册管理会计师（CIMA） | CIMA | 可选 | 侧重管理会计 |
+| Chartered Accountant (ACA) | Chartered Accountants Ireland | Optional | Must pass exams and have work experience |
+| Chartered Accountant (ACCA) | ACCA | Optional | Globally recognized, applicable to multiple fields |
+| Chartered Institute of Management Accountants (CIMA) | CIMA | Optional | Focus on management accounting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。爱尔兰经济持续增长，尤其是跨国企业集中，对会计师需求稳定，预计2025年前就业增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Ireland's economy continues to grow, especially with a concentration of multinational companies, leading to stable demand for accountants, with employment growth of about 10% expected by 2025.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，视公司规模 |
-| 中级（3-7年） | $45,000~$65,000 | 含部分资格认证 |
-| 高级（7年以上） | $70,000~$100,000 | 财务经理级别或特许会计师 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary, depending on company size |
+| Mid-level (3–7 years) | $45,000~$65,000 | Includes some qualification certifications |
+| Senior (7+ years) | $70,000~$100,000 | Financial manager level or chartered accountant |
+| average salary | $58,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级会计师可晋升至高级会计师、财务经理或财务总监，也可考取特许会计师（ACA/ACCA）提升竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Junior accountants can advance to senior accountant, finance manager, or financial controller, and can also obtain chartered accountant (ACA/ACCA) qualifications to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Financial Services
 - Multinational Hubs
@@ -65,66 +101,65 @@ Accountants manage financial records, tax filings, audits, and financial analysi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超32,000欧元且职业在清单上的岗位，为快速居留路径。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超30,000欧元的一般岗位，需通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达约40,000欧元，提供欧盟内流动性。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to positions with an annual salary over €32,000 and on the occupation list; it is a fast-track residence pathway. |
+| Subclass General Employment P (General Employment Permit) | Applies to general positions with annual salary over €30,000, requires labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, with an annual salary of around €40,000, providing intra-EU mobility. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Accountant？**
-- 注重细节、逻辑思维强的人
-- 对财务和商业分析有兴趣的人
-- 追求稳定职业且愿意持续学习的人
-
-**谁不适合学Accountant？**
-- 讨厌数字和重复性工作的人
-- 不善于沟通和团队合作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented person with strong logical thinking
+- For those interested in finance and business analysis
+- People seeking a stable career and willing to continuously learn
+
+**Who is not suited**
+- People who dislike numbers and repetitive work
+- People who are not good at communication and teamwork.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of accountants in Ireland?**
+A: Junior approx €30,000–40,000, mid-level €45,000–65,000, senior €70,000–100,000 (pre-tax).
+
+**Q: What visa do accountants need to immigrate to Ireland?**
+A: The main pathways are the Critical Skills Employment Permit or the General Employment Permit, which require finding an employer first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 良好（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Accountant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for accountants in Ireland?**
-答：Entry level €30k-€40k, mid-level €45k-€65k, senior €70k-€100k (pre-tax).
-
-**问：What visa does an accountant need to immigrate to Ireland?**
-答：Primarily Critical Skills Employment Permit or General Employment Permit, requiring a job offer.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

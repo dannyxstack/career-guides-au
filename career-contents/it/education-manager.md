@@ -1,60 +1,96 @@
-# Education Manager（Education Manager）职业分析 · IT
+# Education Manager — career analysis · Italy
 
-**职业代码：1345 – Education Manager。**
+**Occupation code: 1345 (ISCO08)**
 
-Plan, direct and manage the operations, curricula and staff of educational institutions (schools, universities, training centers) to ensure educational quality and goal achievement.
+Responsible for planning, directing, and managing the operations, curriculum, and personnel of educational institutions (such as schools, universities, and training centers), ensuring educational quality and goal achievement.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学年学费，视家庭收入） |
-| 硕士 | 2年（硕士） | $1,500~$6,000（教育管理或相关领域硕士） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Annual tuition at public universities, based on family income) |
+| Master's degree | 2 years (Master's) | $1,500~$6,000 (Master's degree in education management or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证 | 教育部 | 必备 | 需通过国家资格考试 |
-| 学校管理培训 | 地区教育局 | 必备 | 参加管理课程或研讨会 |
+| Teaching license/certificate | Ministry of Education | Required | required to pass the national professional qualification exam |
+| School management training | Local Education Bureau | Required | Attend management courses or seminars. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利教育系统改革（如4+2学制）推动管理岗位需求，老龄化教师队伍需更新管理人才，南部地区仍有缺口。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The reform of Italy's education system (e.g., 4+2 structure) drives demand for management roles; aging teacher workforce requires updated management talent, with gaps still existing in southern regions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 行政或助理管理岗位 |
-| 中级（3-10年） | $35,000~$50,000 | 学校中层管理 |
-| 高级（10年以上） | $50,000~$75,000 | 校长或区域总监，私立学校更高 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Administrative or assistant management role |
+| Intermediate (3-10 years) | $35,000~$50,000 | Middle school management |
+| Senior (10+ years) | $50,000~$75,000 | Principal or Regional Director, higher for private schools |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从教师或行政岗起步，晋升至部门主任，最终成为校长或区域教育总监。需积累教学与管理经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
+
+Start as a teacher or administrative officer, advance to department head, and eventually become principal or regional education director. Requires accumulated teaching and management experience.
+
+**Tasks most exposed to AI:**
+
+- Develops standardized courseware and teaching materials
+- Marking objective homework and exam papers
+- Answer common course questions (FAQ)
+- Track student learning progress and generate reports.
+- Basic skill demonstrations (e.g., software operation steps)
+
+**Where AI augments the role:**
+
+- Use AI to analyze student data and customize personalized learning paths.
+- Using AI to simulate complex industry scenarios to enhance practical teaching quality.
+- Using NLP tools to provide real-time translation of multilingual teaching content.
+- Use AI assessment tools to quickly diagnose trainees' skill gaps
+- Automatically generate industry case studies to keep courses relevant
+
+**Human moat:**
+
+- Industry hands-on experience and on-site teaching demonstration
+- High emotional intelligence interpersonal communication and student psychological support
+- Handle classroom emergencies and flexibly adjust teaching pace
+- Enterprise Customized Training Needs Analysis and Solution Design
+- Professional ethics and compliance judgment (e.g., certificate verification).
+
+**Skills to build:**
+
+- Learning Design and AI course tools (e.g., Articulate 360+AI plugins)
+- Data analysis basics (Python/R, for evaluating training effectiveness).
+- Soft skills enhancement: coaching, facilitating discussions, cross-cultural communication
+- Master mainstream AI teaching platforms (e.g., Canvas with AI, Squirrel AI).
+- Application of industry digital tools (e.g., VR/AR simulation teaching)
+- Project management (full process management of training programs)
+
+**Key growth areas:**
 
 - aging workforce
 - educational reform
@@ -63,66 +99,68 @@ Plan, direct and manage the operations, curricula and staff of educational insti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，要求大学学历及合同薪资高于全国平均1.5倍 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，需雇主担保，适用于非管理岗位但可转换 |
-| Subclass Ricerca Lavoro 求职签（Job Search Visa） | 毕业生可申请，有效期6-12个月，找到工作后转工作签 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU citizens, requiring a university degree and a contract salary at least 1.5 times the national average |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, applicable to non-management positions but transferable |
+| Subclass Job Search Visa (Job Search Visa) | Graduates can apply, valid for 6-12 months, then switch to a work visa upon finding a job |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Education Manager？**
-- 有教学背景和领导力的人
-- 热爱教育行业且善于沟通的人
-- 愿意承担行政与决策责任的人
+**Who is suited**
+- Individuals with teaching background and leadership skills
+- Passionate about education and skilled in communication
+- People willing to take on administrative and decision-making responsibilities
 
-**谁不适合学Education Manager？**
-- 不喜欢处理行政事务的人
-- 缺乏耐心和团队管理能力的人
+**Who is not suited**
+- People who dislike handling administrative tasks
+- People lacking patience and team management skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for education administrators?**
+A: Approximately €28,000-35,000 (junior), €35,000-50,000 (mid-level), €50,000-75,000 (senior), with private schools offering higher.
+
+**Q: How can non-EU citizens become education administrators in Italy?**
+A: Can be obtained through an EU Blue Card (requires a high-salary contract) or a quota-based work visa. It is recommended to first obtain a teaching certificate and management experience.
+
+**Q: What is the career development path like?**
+A: Start as a teacher or administrative assistant, progress to academic director, then deputy principal, and finally become principal or director of education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Education Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for education managers?**
-答：Entry-level around €28,000-35,000, mid-level €35,000-50,000, senior €50,000-75,000; private schools pay more.
-
-**问：How can non-EU citizens become education managers in Italy?**
-答：Via EU Blue Card (requires high salary) or Decreto Flussi quota work visa. Obtain teaching certificate and management experience first.
-
-**问：What is the career progression?**
-答：Start as teacher or admin assistant, advance to academic director, vice principal, then principal or education director.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

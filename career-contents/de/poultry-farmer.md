@@ -1,60 +1,96 @@
-# Poultry Farmer（Poultry Farmer）职业分析 · DE
+# Poultry Farmer — career analysis · Germany
 
-**职业代码：1122 – Poultry Farmer。**
+**Occupation code: 1122 (KldB)**
 
-Poultry farmers raise and care for poultry such as chickens, ducks, and turkeys, including feeding, watering, health management, egg collection, and maintaining facilities to ensure animal welfare and productivity.
+Poultry farmers raise and care for poultry such as chickens, ducks, and turkeys, including feeding, watering, health management, egg collection, and maintenance of farming facilities, ensuring animal welfare and productivity.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（双元制培训期间有工资，学校费用低） |
-| 农业硕士（Meister） | 1-2年（在职） | $2,000~$5,000（考试和课程费用） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Dual system training provides a salary during training, with low school fees) |
+| Master in Agriculture (Meister) | 1-2 years (on-the-job) | $2,000~$5,000 (Exam and course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 家禽饲养员职业培训证书 | 德国工商会（IHK） | 必备 | 完成双元制培训后获得 |
-| 农业大师（Meister） | 农业协会 | 可选 | 可选，提升管理技能 |
+| Poultry farming vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Agricultural Master (Meister) | Agricultural associations | Optional | Optional, improves management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国农业现代化和自动化需求增加，但从业人数稳定，替代需求较高。有机养殖和动物福利法规趋严，专业饲养员就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for agricultural modernization and automation in Germany is increasing, but employment numbers are stable, with high replacement demand. Regulations on organic farming and animal welfare are tightening, offering good job prospects for professional breeders.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$38,000 | 税前年薪 |
-| 高级（7年以上/主管） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $35,724 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years/supervisor) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $38,052 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 晋升路径：从饲养员到农场主管、养殖场经理，或自主经营农场。也可通过进修成为畜牧业顾问或农业技术员。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Career path: from farmhand to farm supervisor, livestock farm manager, or self-employed farm owner. Further study can lead to livestock consultant or agricultural technician.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Organic poultry farming
 - Animal welfare
@@ -63,65 +99,67 @@ Poultry farmers raise and care for poultry such as chickens, ducks, and turkeys,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需完成德国认可的职业培训，由雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许找工作一年，需相关资质 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must complete a German-recognized vocational training program, sponsored by an employer |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one year to find a job, requires relevant qualifications |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Poultry Farmer？**
-- 喜欢户外工作和动物
-- 有耐心和责任心
-- 愿意从事体力劳动
+**Who is suited**
+- Enjoy outdoor work and animals
+- Patient and responsible
+- Willing to perform physical labor
 
-**谁不适合学Poultry Farmer？**
-- 不喜欢动物或脏乱环境
-- 希望高薪工作
+**Who is not suited**
+- Dislikes animals or dirty environments
+- High-paying job desired
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do poultry farmers earn?**
+A: Entry-level poultry farmers in Germany earn about €26,000-32,000 annually, mid-level €32,000-38,000, and senior supervisors up to €45,000.
+
+**Q: Can foreigners work as poultry farmers?**
+A: Yes, but you need to complete German dual vocational training or obtain certification, and language requirements are B1 or higher. This occupation is not in shortage, making sponsorship more difficult.
+
+**Q: What educational background is required?**
+A: Usually requires completing 3 years of dual vocational training (Ausbildung) or having an agricultural-related degree and applying for qualification recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Poultry Farmer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a poultry farmer?**
-答：In Germany, entry-level poultry farmers earn around €26,000-32,000 per year, mid-level €32,000-38,000, and senior supervisors up to €45,000.
-
-**问：Can foreigners work as poultry farmers?**
-答：Yes, but they need to complete German dual vocational training or have qualifications recognized, with German at B1 level. It's not a shortage occupation, so sponsorship is rare.
-
-**问：What education is required?**
-答：Typically a 3-year dual vocational training (Ausbildung) or a degree in agriculture with recognition of qualifications.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

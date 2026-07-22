@@ -1,58 +1,94 @@
-# Assemblers Not Elsewhere Classified（Assemblers Not Elsewhere Classified）职业分析 · ES
+# Assemblers Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：8209 – Assemblers Not Elsewhere Classified。**
+**Occupation code: 8209 (CNO)**
 
-Assemble components into finished products in manufacturing and production processes across electronics, machinery, and metal goods industries.
+Responsible for assembling components into finished products during manufacturing and production, covering multiple industries including electronics, machinery, and metal products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费，仅注册费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立学校免费，私立学校费用较高） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,000 (Public schools are free, with only a registration fee) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public schools are free, while private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业教育文凭（FP技工） | 西班牙教育部认可的职业教育中心 | 可选 | 建议持有相关FP学位以增加就业机会 |
-| 行业安全认证 | 西班牙劳动与社会经济部 | 可选 | 部分行业要求通过安全培训 |
+| Diploma in Vocational Education (FP Technician) | A vocational education center recognized by the Spanish Ministry of Education | Optional | It is recommended to hold a relevant FP degree to increase employment opportunities |
+| Industry safety certification | Spanish Ministry of Labor and Social Economy | Optional | Some industries require safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 150,000。西班牙装配工岗位需求稳定，尤其在汽车、电子和机械设备制造业。自动化和外包可能影响低技能岗位，但技术装配需求仍在。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Demand for assembler positions in Spain is stable, especially in the automotive, electronics, and mechanical equipment manufacturing industries. Automation and outsourcing may affect low-skilled jobs, but demand for technical assembly remains.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual pre-tax salary |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级装配工起步，通过积累经验和培训晋升为高级装配工、生产线组长或质检员。部分可转向设备维护或技术员岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Assemblers face the risk of AI automation replacing repetitive tasks, but AI enhancements are evident in complex assembly and quality control, resulting in mixed outcomes.
+
+You can start as a junior assembler and, through accumulated experience and training, be promoted to senior assembler, production line leader, or quality inspector. Some may be transferred to equipment maintenance or technician positions.
+
+**Tasks most exposed to AI:**
+
+- Use a vision system for simple parts sorting and sorting
+- Standardized bolt tightening and repetitive assembly steps are carried out
+- Material handling and basic assembly are completed through robotic arms
+- Functional testing is performed using automated testing equipment
+- Record production data and generate basic reports
+
+**Where AI augments the role:**
+
+- AI-assisted vision systems help identify assembly defects and quality issues
+- Intelligent tools provide real-time torque and angle guidance to enhance assembly accuracy
+- Digital twin simulation optimizes assembly sequences and workstation layouts
+- Augmented reality (AR) displays assembly steps and warning information
+- AI predictive maintenance reminds you of equipment servicing, reducing downtime
+
+**Human moat:**
+
+- Ability to handle non-standard parts or abnormal assembly situations
+- Precision hand-eye coordination and fine-tuning skills (such as precision instrument assembly)
+- Overall understanding of assembly processes and cross-process coordination skills
+- The ability to flexibly adjust assembly schemes in complex or small-batch environments
+- Communication skills to collaborate with engineers to improve assembly processes
+
+**Skills to build:**
+
+- Basic programming with robot operation and maintenance
+- Use of data analysis and quality management tools
+- Ability to apply digital tools (such as AR and digital twins).
+- PLC or industrial automation system foundation
+- Lean production and continuous improvement methodology
+- Cross-team communication and problem-solving skills
+
+**Key growth areas:**
 
 - Manufacturing
 - Electronics
@@ -61,67 +97,66 @@ Assemble components into finished products in manufacturing and production proce
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，提供工作合同，符合最低薪资要求。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，需大学学历或5年相关经验，薪资门槛约33,000欧元。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship required, employment contract provided, and meeting minimum wage requirements. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, requiring a university degree or 5 years of relevant experience, with a salary threshold of about 33,000 euros. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Assemblers Not Elsewhere Classified？**
-- 动手能力强，喜欢实际操作的人
-- 愿意从事制造业生产线工作的人
-- 希望接受职业教育快速就业的人
-
-**谁不适合学Assemblers Not Elsewhere Classified？**
-- 对重复性工作感到厌倦的人
-- 追求高薪和高社会地位的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and someone who enjoys hands-on operations
+- People willing to work on manufacturing production lines
+- Those who hope to receive vocational education and find employment quickly
+
+**Who is not suited**
+- People who are tired of repetitive work
+- People seeking high salary and high social status
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for assemblers in Spain?**
+A: Entry-level assembler annual salary approx. €18,000-22,000, senior up to €28,000-35,000.
+
+**Q: How can foreigners work as assemblers in Spain?**
+A: You must obtain a work contract from a Spanish employer and apply for employment residence (Cuenta ajena). If you meet the high-skill requirements, you can apply for the EU Blue Card.
+
+**Q: What educational background is needed to become an assembler?**
+A: Usually, a secondary vocational education (FP Grado Medio) is sufficient, but short-term training is also available.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Assemblers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for assemblers in Spain?**
-答：Entry-level assemblers earn around €18,000-€22,000 annually, while senior assemblers can earn €28,000-€35,000.
-
-**问：How can foreigners work as assemblers in Spain?**
-答：They need a job offer from a Spanish employer and apply for a work permit (Cuenta ajena). EU Blue Card is possible for high-skilled roles.
-
-**问：What education is needed to become an assembler?**
-答：A vocational training diploma (FP Grado Medio) is typical, or on-the-job training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

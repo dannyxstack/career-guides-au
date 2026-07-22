@@ -1,61 +1,97 @@
-# Cashier（Cashier）职业分析 · FR
+# Cashier — career analysis · France
 
-**职业代码：D1505 – Cashier。**
+**Occupation code: D1505 (ROME)**
 
-Operates cash registers in supermarkets, department stores, and other retail outlets, processing customer payments, giving change, issuing receipts, and assisting with bagging.
+Operating cash registers in retail venues such as supermarkets and department stores, handling customer payments, giving change, issuing invoices, and assisting customers in packing products.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（1/10）（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式学历，初中毕业即可 | 无 | —（通常在职培训，无教育成本） |
-| CAP雇员技术证书（零售） | 2年（CAP） | —（公立学校学费低廉，可申请学徒制，学徒期间有工资） |
-| Bac pro销售专业 | 3年（Bac pro） | —（公立学校免费或低学费，学徒制常见） |
+| No formal education is required; just a junior high school graduate is sufficient | None | $0~$0 (Usually on-the-job training with no educational costs) |
+| CAP Employee Technical Certificate (Retail) | 2 years (CAP) | $0~$3,000 (Public schools have low tuition fees and can apply for apprenticeships, with wages during the apprenticeship) |
+| Bac Pro sales professionals | 3 years (Bac pro) | $0~$5,000 (Public schools offer free or low tuition, and apprenticeships are common) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（1/10）（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制资格 | 无 | 可选 | 收银员在法国无特定执照要求，雇主通常提供在职培训 |
-| CQP收银员职业资格 | 法国零售业联合会 | 可选 | 自愿性专业证书，可提升就业竞争力 |
+| No specific mandatory qualifications | None | Optional | There are no specific licensing requirements for cashiers in France; employers usually provide on-the-job training |
+| CQP cashier professional qualification | French Retail Federation | Optional | Voluntary professional certificates can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（5/10）（★★½☆☆）。** 全国从业人数约 350,000。法国零售业就业稳定，收银员需求受自动化影响略有下降，但超市和大型卖场仍保持一定招聘量，兼职岗位较多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 350,000. Employment in France's retail sector is stable, with cashier demand slightly declining due to automation, but supermarkets and large supermarkets still maintain a certain number of hires, with many part-time positions.
 
-**竞争度：中等（5/10）（★★½☆☆）。**
-**工作强度：中高（7/10）（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | 税前年薪，通常按SMIC（最低工资）支付 |
-| 中级（3-7年） | $24,000~$27,000 | 包括经验增长和可能的绩效奖金 |
-| 高级（7年以上或主管） | $27,000~$31,000 | 收银主管或资深收银员，含管理津贴 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$24,000 | Pre-tax annual salary, usually paid at SMIC (minimum wage). |
+| Mid-level (3–7 years) | $24,000~$27,000 | Including experience growth and potential performance bonuses |
+| Senior (7+ years or supervisor) | $27,000~$31,000 | Cashier supervisor or senior cashier, including management allowance |
+| average salary | $21,588 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（5/10）（★★½☆☆）。** 从收银员可晋升为收银主管、部门经理或店长。也可转向客户服务或库存管理岗位。部分企业提供内部培训。
-**AI替代风险：高（8/10）（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Cashiers in France face the risk of highly automated substitution, with self-checkout and AI payment systems rapidly spreading, leading to a significant reduction in basic positions. However, some tasks can be enhanced by AI to improve efficiency, requiring a shift toward customer service and technical support.
+
+Cashiers can be promoted to cashier supervisors, department managers, or store managers. You can also transition to customer service or inventory management roles. Some companies offer internal training.
+
+**Tasks most exposed to AI:**
+
+- Use the cash register to scan items and calculate the amount
+- Processing cash, card payments, etc., and giving change
+- Issuing invoices and receipts
+- Operate electronic payment terminals and POS systems
+- Handling returns and simple exchange processes
+
+**Where AI augments the role:**
+
+- Personalized promotional suggestions are provided to customers through an AI recommendation engine
+- Use data to predict peak periods and optimize scheduling
+- Use AI to help identify counterfeit money or suspicious transactions
+- Patrols unchecked-out channels via mobile devices to reduce queues
+- Monitor inventory and prevent theft with smart cameras
+
+**Human moat:**
+
+- Handling complex returns, exchanges, and customer complaints
+- Elderly customers who need empathy or services with special needs
+- Quickly respond to equipment failures and payment anomalies
+- Maintain order in the cashier area and customer experience
+- Train customers to use self-service equipment and answer questions
+
+**Skills to build:**
+
+- Self-checkout terminal maintenance and troubleshooting
+- Basic Data Analysis (Excel, Store Reports)
+- Conflict resolution and customer experience management
+- Mobile payment/contactless payment system operation
+- Inventory management software operation
+- Multilingual communication skills (serving international customers)
+
+**Key growth areas:**
 
 - Cashier
 - Retail
@@ -64,64 +100,66 @@ Operates cash registers in supermarkets, department stores, and other retail out
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主提供工作合同，但收银员非紧缺职业，外籍申请难度大。 |
+| Subclass Salarié (Employee Work Permit) | Requires employer to provide work contract, but cashier is not a shortage occupation, making foreign applications difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cashier？**
-- 喜欢与人打交道、细心负责的人
-- 寻找兼职或灵活工作时间的人
-- 刚入职场或希望快速就业的人
+**Who is suited**
+- People who enjoy interacting with others and are attentive and responsible
+- People looking for part-time or flexible working hours
+- People who have just entered the workforce or are hoping to find employment quickly
 
-**谁不适合学Cashier？**
-- 追求高薪或职业晋升空间较大的人
-- 对重复性工作感到厌倦的人
+**Who is not suited**
+- People seeking high salaries or greater career advancement opportunities
+- People who are tired of repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a cashier?**
+A: French cashiers typically earn a pre-tax annual salary of 21,000-31,000 euros, depending on experience and position. Entry-level positions are mostly paid according to SMIC, about 21,000 euros.
+
+**Q: Can cashiers come to France to work through the skilled migration route?**
+A: Cashiers are not a scarce profession in France, and it is quite difficult for foreigners to obtain work visas. EU citizens can move freely, but third-country applicants usually need employer certification that EU candidates cannot be found.
+
+**Q: What career development opportunities are available for cashiers?**
+A: You can be promoted to cashier supervisor, department manager, or store manager, or move into customer service, inventory management, or procurement roles. Some large retail companies offer internal training and promotion pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（1/10）（½☆☆☆☆） |
-| 学习难度 | 容易（1/10）（★☆☆☆☆） |
-| 考证难度 | 无（1/10）（½☆☆☆☆） |
-| 职位需求量 | 中等（5/10）（★★½☆☆） |
-| 竞争度 | 中等（5/10）（★★½☆☆） |
-| 收入水平 | 低（2/10）（★☆☆☆☆） |
-| 工作强度 | 中高（7/10）（★★★½☆） |
-| 发展前景 | 稳定（5/10）（★★½☆☆） |
-| AI替代风险 | 高（8/10）（★★★★☆） |
-| PR友好度 | 低（2/10）（★☆☆☆☆） |
-| PR难度 | 高（9/10）（★★★★½） |
-
-Cashier属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cashier?**
-答：The gross annual salary for a cashier in France ranges from €21,000 to €31,000, depending on experience and position. Entry-level positions are usually paid at SMIC (minimum wage), around €21,000.
-
-**问：Can a cashier immigrate to France through skilled migration?**
-答：Cashier is not a shortage occupation in France, making it difficult for non-EU nationals to obtain a work visa. EU citizens have free movement, but third-country applicants typically need employer justification of no available EU candidates.
-
-**问：What career advancement opportunities are there for cashiers?**
-答：Cashiers can advance to head cashier, department manager, or store manager, or transition to customer service, inventory management, or purchasing roles. Some large retailers offer internal training and promotion pathways.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

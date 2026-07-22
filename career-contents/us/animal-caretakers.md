@@ -1,60 +1,93 @@
-# Animal Caretakers（Animal Caretakers）职业分析 · 美国
+# Animal Caretakers — career analysis · United States
 
-**职业代码：39-2021 – Animal Caretakers。**
+**Occupation code: 39-2021 (SOC)**
 
-Feed, water, groom, bathe, exercise, and care for pets and non-food animals in settings like kennels, shelters, zoos, and aquariums.
+Provide feeding, cleaning, bathing, exercise, and daily care for non-food animals such as pets and zoo animals; workplaces include pet stores, animal shelters, zoos, and aquariums.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中学历 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费） |
+| high school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物照料员认证 | 宠物护理协会 | 可选 | 可选但有助于就业 |
-| 宠物心肺复苏认证 | 美国红十字会 | 可选 | 部分雇主要求 |
+| Animal attendant certification | Pet Care Association | Optional | Optional but helpful for employment. |
+| Pet CPR certification | American Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 300,000。美国宠物行业持续增长，动物服务需求上升，但薪资增长缓慢，岗位竞争中等。科技替代可能影响部分任务，但人际照料仍不可或缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 300,000. The U.S. pet industry continues to grow, with rising demand for animal services, but salary growth is slow and competition is moderate. Technology substitution may affect some tasks, but interpersonal care remains essential.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入门级薪资较低 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验后薪资上升 |
-| 高级（7年以上） | $35,000~$45,000 | 主管或管理岗 |
+| Median salary | $35,360 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry-level salary is relatively low |
+| Mid-level (3–7 years) | $28,000~$35,000 | Salary increases with experience |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor or management role |
+| average salary | $37,300 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级动物照料员可晋升为高级照料员、主管或动物训练师；部分积累经验后转向兽医助理或动物福利管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
+
+Junior animal caretakers can advance to senior caretakers, supervisors, or animal trainers; some gain experience and transition to veterinary assistant or animal welfare management roles.
+
+**Tasks most exposed to AI:**
+
+- Basic bathing and drying (fully automatic equipment)
+- Appointment scheduling and customer communication (chatbot)
+- Photography and editing (AI imaging tools)
+- Inventory and order management (automated systems)
+
+**Where AI augments the role:**
+
+- AI tools assist in designing pet styles (reference images and trend analysis)
+- Smart camera system records before-and-after comparison to enhance presentation
+- AI health monitoring devices warn about skin issues and guide care
+- Automated marketing and social media content generation to expand customer base
+
+**Human moat:**
+
+- Creativity and precision in manual pruning and shaping
+- Safe handling and calming of anxious/restless pets
+- Building Trust and Personalized Service with Pet Owners
+- On-site judgment for sudden health issues (e.g., wounds, allergies)
+
+**Skills to build:**
+
+- Advanced Trimming and Creative Styling (e.g., painting, complex carving)
+- Pet behavior science and positive reinforcement techniques
+- Basic veterinary knowledge (dermatology, first aid)
+- Using AI tools (image generation, social media automation)
+- Customer management and social media operations
+- Safety and hygiene compliance (Australian standards)
+
+**Key growth areas:**
 
 - Pet industry growth
 - Animal welfare
@@ -63,65 +96,67 @@ Feed, water, groom, bathe, exercise, and care for pets and non-food animals in s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常要求本科学位，此职业不满足专业职业要求，极少申请 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出能力，极罕见 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires a bachelor's degree; this occupation does not meet professional occupation requirements, rarely applied for |
+| Subclass O-1 (O-1 Extraordinary Ability) | Requires proof of extraordinary ability, extremely rare |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Caretakers？**
-- 喜爱动物并有耐心的人
-- 不介意体力劳动和室内外工作环境
-- 有基本动物护理知识或愿意学习
+**Who is suited**
+- People who love animals and have patience
+- Does not mind physical labor and indoor/outdoor work environments
+- People with basic animal care knowledge or willingness to learn
 
-**谁不适合学Animal Caretakers？**
-- 追求高薪或晋升空间者
-- 对动物过敏或无法忍受异味
+**Who is not suited**
+- Those seeking high salary or advancement opportunities
+- Allergic to animals or unable to tolerate odors
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for animal caretakers?**
+A: The median annual salary for animal caretakers in the US is about $28,000, with entry-level positions under $25,000 and senior supervisors reaching $45,000.
+
+**Q: Can animal caretakers apply for a US work visa or green card?**
+A: Usually very difficult. This occupation does not meet H-1B specialty occupation requirements, and employer-sponsored immigration is almost unviable.
+
+**Q: Is there a career path for animal caretakers?**
+A: Can advance to senior caregiver, animal trainer, veterinary assistant, or enter animal welfare management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Animal Caretakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of animal caretakers?**
-答：Median annual wage is about $28,000, with entry-level under $25,000 and senior supervisors up to $45,000.
-
-**问：Can animal caretakers get a US work visa or green card?**
-答：Generally difficult. The occupation does not qualify as a specialty occupation for H-1B, and employer-sponsored immigration is very rare.
-
-**问：Is there a career path for animal caretakers?**
-答：Yes, can advance to senior caretaker, animal trainer, vet assistant, or animal welfare management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

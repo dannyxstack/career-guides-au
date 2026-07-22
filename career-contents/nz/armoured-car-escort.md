@@ -1,61 +1,93 @@
-# Armoured Car Escort（Armoured Car Escort）职业分析 · 新西兰
+# Armoured Car Escort — career analysis · New Zealand
 
-**职业代码：442212 – Armoured Car Escort。**
+**Occupation code: 442212 (ANZSCO)**
 
-In New Zealand, Armoured Car Escorts are responsible for armed transportation of cash and valuables, driving armoured vehicles and following strict security protocols. This occupation is not on the Green List or shortage list, making skilled migration difficult, mainly relying on Accredited Employer Work Visa (AEWV).
+In New Zealand, armoured vehicle escorts are responsible for armed transport of cash, jewellery, and other valuables, driving armoured vehicles and adhering to strict security protocols. As this occupation is not on the Green List or shortage list, skilled migration feasibility is low, primarily relying on the Accredited Employer Work Visa (AEWV).
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中学历 | 3年 | —（需完成NCEA Level 2或同等学历） |
-| 安保证书 | 3-6个月 | $1,000~$3,000（完成NZQA认可的安保课程，如Certificate in Security） |
+| high school diploma | 3 years | $0~$0 (Must have completed NCEA Level 2 or equivalent qualification) |
+| Security license | 3-6 months | $1,000~$3,000 (Complete an NZQA-recognised security course, such as the Certificate in Security.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 持枪证 | 新西兰警方 | 必备 | 必须申请并持有持枪许可证，通过背景审查 |
-| 安保执照 | 新西兰内政部 | 必备 | 需完成培训并通过考试，获得安保人员执照（Certificate of Approval） |
-| 驾驶执照 | 新西兰交通局 | 必备 | 需持有Class 1驾驶执照，部分职位要求Class 2 |
+| Gun license | New Zealand Police. | Required | Must apply for and hold a gun license, pass background check |
+| Security license | New Zealand Department of Internal Affairs | Required | Must complete training and pass exams to obtain a Security Personnel License (Certificate of Approval). |
+| Driver's license | New Zealand Transport Agency. | Required | Must hold a Class 1 driver's license; some positions require Class 2 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 150。新西兰装甲押运需求稳定但规模小，主要受安保行业和市场波动影响。未来增长缓慢，就业机会有限，集中于大城市如奥克兰。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 150. Demand for armored escort in New Zealand is stable but small, mainly affected by the security industry and market fluctuations. Future growth is slow, with limited job opportunities concentrated in major cities like Auckland.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 起薪约NZD 25-28/小时 |
-| 中级（3-7年） | $55,000~$65,000 | 有经验者薪资可达NZD 30-35/小时 |
-| 资深（7年以上） | $65,000~$75,000 | 高级押运员或主管薪资更高 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Starting salary approximately NZD 25-28/hour |
+| Mid-level (3–7 years) | $55,000~$65,000 | Experienced workers can earn up to NZD 30-35/hour |
+| Senior (7+ years) | $65,000~$75,000 | Senior escort or supervisor roles offer higher pay |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 从初级押运员晋升为高级押运员或团队主管，需积累经验和获取更高安保认证。部分人可转向保安管理或安保公司运营岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core armed escort and cash handover duties of armoured vehicle officers remain difficult to fully replace by AI due to high risk and responsibility, but automation will increase for supporting tasks like route planning and monitoring.
+
+Promotion from junior security escort to senior escort or team leader requires experience and higher security certifications. Some may transition to security management or security company operations.
+
+**Tasks most exposed to AI:**
+
+- Route planning and scheduling: AI automatically generates optimal escort routes and avoids congestion or danger zones in real time
+- Monitoring and alarm response: AI analyzes vehicle camera and sensor data to automatically identify suspicious behavior and alert
+- Document and report generation: automatically generate escort logs, incident reports, etc.
+- Basic data entry: scanning fund codes, checking lists, and other repetitive tasks
+
+**Where AI augments the role:**
+
+- Situational awareness and early warning: AI-enhanced 360-degree perception, proactively warning of potential threats (e.g., nearby robberies)
+- Risk assessment: AI integrates crime data and real-time intelligence to provide dynamic risk scores and response recommendations
+- Training and drills: VR/AR simulation of robbery scenarios to improve guards' response capabilities
+- Communication coordination: AI optimizes communication with command centers and police, ensuring accurate and efficient information
+
+**Human moat:**
+
+- Lawful use of force decisions in armed escort, involving legal liability and ethical judgment
+- On-the-spot emergency response and interpersonal communication in armed robbery incidents
+- Trust relationships with clients (e.g., banks) and compliant handover processes
+- Comprehensive judgment to handle abnormal events (e.g., armed conflict, vehicle breakdown)
+
+**Skills to build:**
+
+- AI monitoring and alarm system operation
+- Basic data analysis (e.g., interpreting risk scores)
+- VR/AR simulation training participation and assessment
+- Advanced Defensive Driving Techniques
+- Conflict de-escalation and emergency communication
+
+**Key growth areas:**
 
 - Stable
 - Niche Occupation
@@ -64,65 +96,67 @@ In New Zealand, Armoured Car Escorts are responsible for armed transportation of
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主担保，可申请AEWV工作最长3年，但技术移民机会极少。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合技术移民要求，除非薪资达到中位数两倍（目前NZD 60.08/小时，约125,000年薪）且雇主支持。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsorship by accredited employer, can apply for AEWV for up to 3 years, but very few skilled migration opportunities. |
+| Subclass SMC (Skilled Migrant Category) | Usually does not meet skilled migration requirements unless salary reaches twice the median (currently NZD 60.08/hour, about NZD 125,000 annual) with employer support. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armoured Car Escort？**
-- 重视稳定性和安全性，偏好户外工作的人
-- 具备良好身体素质和心理抗压能力，能适应武装环境
-- 希望在安保行业长期发展，愿意通过认证提升技能
+**Who is suited**
+- People who value stability and security, and prefer outdoor work
+- Good physical fitness and mental resilience required; able to adapt to armed environments.
+- Looking to develop a long-term career in the security industry and willing to enhance skills through certification.
 
-**谁不适合学Armoured Car Escort？**
-- 不适应高压、高风险环境或对武器敏感的人
-- 希望快速获得新西兰居留权的技术移民申请人
+**Who is not suited**
+- Those who are not suited to high-pressure, high-risk environments or are sensitive to weapons.
+- Skilled migration applicants seeking fast New Zealand residency.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an Armoured Escort Officer in New Zealand?**
+A: Annual salary for junior security escorts is about NZD 48,000-55,000, intermediate about NZD 55,000-65,000, and senior up to NZD 65,000-75,000. Salary is below the New Zealand median wage (about NZD 61,800 in 2024).
+
+**Q: Can armored guards obtain New Zealand residency through skilled migration?**
+A: Extremely low. This occupation is not on the Green List, nor is it in long-term shortage. Only if the salary reaches twice the median (approx. NZD 125,000 per year) and employer-sponsored, can SMC be attempted, but practically impossible. The main visa pathway is AEWV.
+
+**Q: What qualifications are needed for an armored escort in New Zealand?**
+A: Must hold a firearms license (issued by New Zealand Police), a security officer license (Department of Internal Affairs), and a Class 1 driver's license. Completion of a security certificate course is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Armoured Car Escort属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Armoured Car Escort in New Zealand?**
-答：Entry-level salaries range from NZD 48,000 to 55,000 per year, experienced from NZD 55,000 to 65,000, and senior from NZD 65,000 to 75,000. This is below the national median wage (approx. NZD 61,800 in 2024).
-
-**问：Can Armoured Car Escorts obtain New Zealand residency through skilled migration?**
-答：Very unlikely. This occupation is not on the Green List or long-term shortage list. Only if the salary reaches twice the median (approx. NZD 125,000) and with employer support could SMC be possible, but practically impossible. Main visa path is AEWV.
-
-**问：What qualifications are needed to be an Armoured Car Escort in New Zealand?**
-答：Mandatory: a firearms license (from NZ Police), a Certificate of Approval as a security officer (from Department of Internal Affairs), and a Class 1 driver's license. A security certificate course is recommended.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

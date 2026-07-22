@@ -1,60 +1,93 @@
-# Pharmaceutical, Cosmetics And Related Products Machine Operators（Pharmaceutical, Cosmetics And Related Products Machine Operators）职业分析 · ES
+# Pharmaceutical, Cosmetics And Related Products Machine Operators — career analysis · Spain
 
-**职业代码：8132 – Pharmaceutical, Cosmetics And Related Products Machine Operators。**
+**Occupation code: 8132 (CNO)**
 
-Operate and monitor machines used in manufacturing pharmaceutical, cosmetic, and related products, ensuring quality and safety standards.
+Responsible for operating and maintaining machinery and equipment for producing pharmaceuticals, cosmetics, and related products, ensuring the production process meets quality and safety standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$1,500（公立FP免学费，仅注册费和材料费） |
-| 高等职业教育（FP Grado Superior） | 2年 | $500~$2,000（公立FP免学费，部分私立需学费） |
-| 工学学士（Grado en Ingeniería） | 4年 | $1,000~$4,000（公立大学学费约1000-2000€/年，私立较高） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$1,500 (Public FPs are free of tuition, only registration and material fees) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $500~$2,000 (Public FPs are free of tuition, while some private schools do) |
+| Bachelor of Engineering (Grado en Ingeniería) | 4 years | $1,000~$4,000 (Public university tuition is about €1000-2000 per year, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业教育文凭（FP Grado Medio） | 教育部认可的职业教育中心 | 必备 | 相关专业如‘化学加工’或‘制药生产’ |
-| 高等职业教育文凭（FP Grado Superior） | 教育部认可的职业教育中心 | 可选 | 如‘化学工业’或‘制药生物技术’，有利于晋升 |
-| 工作安全培训 | 企业或外部培训机构 | 必备 | 必须完成预防职业风险培训 |
+| Diploma in Secondary Vocational Education (FP Grado Medio) | A vocational education center recognized by the Ministry of Education | Required | Related majors such as 'Chemical Processing' or 'Pharmaceutical Production' |
+| Work safety training | Enterprises or external training institutions | Required | Occupational risk prevention training must be completed |
+| Diploma of Higher Vocational Education (FP Grado Superior) | A vocational education center recognized by the Ministry of Education | Optional | For example, 'chemical industry' or 'pharmaceutical biotechnology' is beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙制药和化妆品行业稳定增长，尤其是在巴塞罗那和马德里周边。自动化和数字化趋势会增加对技能的要求，但总体就业机会良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spain's pharmaceutical and cosmetics industry is steadily growing, especially around Barcelona and Madrid. Automation and digitalization trends will increase skill demands, but overall employment opportunities are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$38,000 | 税前年薪，含主管岗位 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $19,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$38,000 | Annual salary before tax, including supervisor positions |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级操作员晋升为生产线主管或质量控制技术员。通过继续教育和职业培训（如FP Grado Superior）可进入工艺优化或生产管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Chemical plant workers face mixed impacts: AI and automation optimize process control and monitoring, but physical operations and safety responsibilities still require human input; entry-level competition increases slightly.
+
+Promotion from junior operator to production line supervisor or quality control technician. Through continuing education and vocational training (such as FP Grado Superior), you can enter process optimization or production management positions.
+
+**Tasks most exposed to AI:**
+
+- Data recording and log filling—automated systems collect and store operational data in real time.
+- Routine valve adjustment and parameter monitoring—AI control system automatically maintains optimal operating conditions
+- Simple product sampling and basic quality inspection—online sensors and machine vision replace manual inspection.
+- Repetitive material handling – AGVs and automated conveyor systems take over.
+
+**Where AI augments the role:**
+
+- Anomaly alerts and fault diagnosis – AI analyzes historical data to provide early warnings of equipment risks
+- Optimizing production formulas and parameters—machine learning recommends more efficient operating conditions.
+- Safety training and virtual drills – VR/AR simulate hazardous scenarios to improve emergency response
+- Remote collaboration and expert support—AR glasses enable remote experts to guide on-site operations.
+
+**Human moat:**
+
+- Manual handling of sudden emergencies (e.g., leaks, fires)
+- Manual repair and modification of complex non-standard equipment
+- On-site safety supervision and coordination involving multiple personnel.
+- Sensory judgment of abnormal smells/appearances in raw materials and intermediate products
+
+**Skills to build:**
+
+- Industrial IoT and data platform operation (SCADA, DCS)
+- Basic programming and automation scripting (Python, PLC)
+- Equipment maintenance and fault diagnosis (involving sensors, actuators)
+- Risk management and emergency response (HAZOP, LOPA)
+- Cross-departmental communication and team collaboration (AR remote guidance)
+- Green chemical engineering and energy-saving optimization knowledge
+
+**Key growth areas:**
 
 - Pharmaceutical manufacturing
 - Automation
@@ -63,67 +96,66 @@ Operate and monitor machines used in manufacturing pharmaceutical, cosmetic, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主提供工作合同，并证明无法在欧盟内找到合适员工。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学学历或至少5年相关经验，年薪高于西班牙平均工资1.5倍（约33,000€）。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Requires a job contract from a Spanish employer and proof that no suitable candidate can be found within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or at least 5 years of relevant experience is required, with an annual salary 1.5 times higher than the Spanish average (about €33,000). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmaceutical, Cosmetics And Related Products Machine Operators？**
-- 喜欢操作机器、注重细节和安全规范的人
-- 愿意在制造业环境中轮班工作的人
-- 具备基本技术动手能力的人
-
-**谁不适合学Pharmaceutical, Cosmetics And Related Products Machine Operators？**
-- 无法接受重复性体力劳动的人
-- 对粉尘、化学品敏感或无法适应轮班作息的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy operating machines and pay attention to detail and safety standards
+- People willing to work shifts in manufacturing environments
+- People with basic technical and hands-on skills
+
+**Who is not suited**
+- People who cannot tolerate repetitive physical labor
+- People sensitive to dust, chemicals, or unable to adapt to shift routines
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pharmaceutical machine operators?**
+A: The junior salary is about 19,000-24,000 euros per year, the intermediate salary is 24,000-30,000 euros, and the senior can reach up to 38,000 euros.
+
+**Q: Is academic certification required to immigrate to Spain to work in this profession?**
+A: Academic certification (homologación) is generally not mandatory, but a vocational education diploma recognized in Spain or proof of work experience is required.
+
+**Q: What educational background is required to become a pharmaceutical machine operator?**
+A: Typically, you need to complete FP Grado Medio (2 years) or FP Grado Superior (2 years), with specializations such as chemistry or pharmaceuticals.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pharmaceutical, Cosmetics And Related Products Machine Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pharmaceutical machine operators?**
-答：Entry-level: €19,000-€24,000; mid-level: €24,000-€30,000; senior: up to €38,000 gross per year.
-
-**问：Is degree homologation required for migration to work as a pharmaceutical machine operator?**
-答：Generally not mandatory, but recognition of vocational training or work experience is needed.
-
-**问：What education is needed to become a pharmaceutical machine operator?**
-答：Typically a Vocational Training (FP Grado Medio or Superior) in chemical or pharmaceutical fields, 2 years each.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

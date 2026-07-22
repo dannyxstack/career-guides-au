@@ -1,60 +1,96 @@
-# Secondary School Teachers, Except Special and Career/Technical Education（Secondary School Teachers, Except Special and Career/Technical Education）职业分析 · 美国
+# Secondary School Teachers, Except Special and Career/Technical Education — career analysis · United States
 
-**职业代码：25-2031 – Secondary School Teachers, Except Special and Career/Technical Education。**
+**Occupation code: 25-2031 (SOC)**
 
-Teach one or more subjects to students at the secondary school level, excluding career/technical and special education teachers.
+Teach one or more subjects at secondary school level, excluding vocational education and special education teachers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费约1-2.5万美元） |
-| 硕士学位（可选） | 2年 | $30,000~$80,000（提升薪资和晋升机会） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities is about USD 10,000-25,000.) |
+| Master's degree (optional) | 2 years | $30,000~$80,000 (Improved salary and promotion opportunities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州教师资格证 | 州教育委员会 | 必备 | 各州要求不同，通常需通过教师认证考试 |
-| 学士学位 | 认证大学 | 必备 | 通常需主修教育或所教学科 |
-| 实习教学经验 | 大学或学区 | 必备 | 通常要求完成一个学期的学生教学 |
-| 国家委员会认证（可选） | 国家专业教学标准委员会 | 可选 | 提升专业地位和薪资 |
+| State Teacher License | State Board of Education | Required | Requirements vary by state; typically must pass teacher certification exams |
+| Bachelor's degree | Accredited university | Required | Typically requires a major in education or the subject being taught |
+| Internship teaching experience | University or school district | Required | Usually requires completing one semester of student teaching |
+| National board certification (optional) | National Board for Professional Teaching Standards | Optional | Enhance professional status and salary. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,083,900。预计2023-2033年就业增长约1%，与平均水平持平，每年约7.37万个职位空缺，主要由于退休和转行。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,083,900. Employment growth of about 1% is projected from 2023 to 2033, on par with the average, with approximately 73,700 job openings each year mainly due to retirement and career changes.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $46,000~$55,000 | 起薪因州和学区而异 |
-| 中级（4-9年） | $55,000~$70,000 | 随经验增加薪资提升 |
-| 高级（10年以上） | $70,000~$90,000 | 最高薪资通常需要硕士学位或领导角色 |
+| Median salary | $72,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $46,000~$55,000 | Starting salary varies by state and school district |
+| Intermediate (4-9 years) | $55,000~$70,000 | Salary increases with experience |
+| Senior (10+ years) | $70,000~$90,000 | Highest salaries usually require a master's degree or leadership role |
+| average salary | $76,320 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从普通教师晋升为部门主任、教学协调员、副校长或校长，也可转向课程开发或教育咨询。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
+
+Can progress from regular teacher to department head, instructional coordinator, vice principal, or principal; may also move into curriculum development or educational consulting.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
 
 - Stable demand
 - Retirement replacements
@@ -63,65 +99,64 @@ Teach one or more subjects to students at the secondary school level, excluding 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于满足专业职业要求的教师，需雇主担保，有年度配额限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于具有高等学位的教师，需PERM劳工证 |
-| Subclass Green Card (PERM)（Permanent Residence through PERM） | 通过劳工认证获得绿卡，需要雇主支持 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to teachers meeting professional occupation requirements, requires employer sponsorship, subject to annual quotas |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for teachers with advanced degrees, requires PERM labor certification |
+| Subclass Green Card (PERM) (Permanent Residence through PERM) | Obtain a green card through labor certification, requires employer support |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary School Teachers, Except Special and Career/Technical Education？**
-- 热爱教育、有耐心和沟通能力的人
-- 希望有稳定假期和固定工作时间的人
-- 擅长激励和指导青少年的人
-
-**谁不适合学Secondary School Teachers, Except Special and Career/Technical Education？**
-- 不喜欢处理学生纪律问题或行政琐事的人
-- 寻求高薪和快速晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love education, have patience and communication skills
+- People seeking stable holidays and fixed working hours
+- People skilled at motivating and guiding teenagers
+
+**Who is not suited**
+- People who dislike dealing with student discipline issues or administrative trivialities
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for secondary school teachers?**
+A: 2023 BLS data shows the average annual salary for US middle school teachers is about $68,000, with a range of $46,000 to $99,000.
+
+**Q: How can foreign teachers work in the US via an H-1B visa?**
+A: Must obtain employer sponsorship from a US school, demonstrating the position requires a professional background to meet H-1B requirements. Quotas are limited and usually determined by lottery.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 4年（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-Secondary School Teachers, Except Special and Career/Technical Education的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for secondary school teachers?**
-答：According to 2023 BLS data, average annual salary is about $68,000, ranging from $46,000 to $99,000.
-
-**问：How can foreign teachers work in the US on H-1B visa?**
-答：Need a US school employer to sponsor, prove the position requires specialized knowledge, subject to annual cap lottery.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

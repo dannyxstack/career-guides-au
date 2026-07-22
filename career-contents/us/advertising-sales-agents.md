@@ -1,59 +1,95 @@
-# Advertising Sales Agents（Advertising Sales Agents）职业分析 · 美国
+# Advertising Sales Agents — career analysis · United States
 
-**职业代码：41-3011 – Advertising Sales Agents。**
+**Occupation code: 41-3011 (SOC)**
 
-Sell advertising space, time, or media in publications, signage, TV, radio, or internet; negotiate contracts and maintain client relationships.
+Sells advertising space or time in media such as publications, billboards, television, radio, or the internet, often negotiating with clients and maintaining client relationships.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 无固定年限 | —（部分职位仅需高中文凭） |
-| 学士学位 | 4年 | $40,000~$160,000（营销、广告、商科等相关专业） |
+| High school graduation | No fixed duration | $0~$0 (Some positions require only a high school diploma) |
+| Bachelor's degree | 4 years | $40,000~$160,000 (Majors in marketing, advertising, business etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 大多数州不要求特定执照，但部分行业（如房地产广告）可能需要相关许可 |
-| 销售认证 | 美国销售协会 | 可选 | 自愿认证，可提升竞争力，如CPC（专业销售认证） |
-| 驾驶执照 | 州DMV | 可选 | 如需拜访客户，通常需要有效驾照 |
+| No mandatory license | None | Optional | Most states do not require a specific license, but some industries (e.g., real estate advertising) may need relevant permits |
+| Sales certification | US Sales Association | Optional | Voluntary certification to enhance competitiveness, e.g., CPC (Certified Professional Sales) |
+| Driver's license | State DMV | Optional | If client visits are required, a valid driver's license is usually needed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,700。预计2023-2033年就业增长约6%，与所有职业平均增速持平。数字广告持续增长，但传统媒体广告销售面临压力。
+**Job demand: medium (★★★☆☆).** National workforce approx. 65,700. Employment is projected to grow about 6% from 2023-2033, about as fast as the average for all occupations. Digital advertising continues to grow, but traditional media ad sales face pressure.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$55,000 | 底薪+佣金 |
-| 中级（3-7年） | $50,000~$80,000 | 稳定客户资源后可获更高佣金 |
-| 高级（7年以上） | $75,000~$120,000 | 资深销售或销售经理级别 |
+| Median salary | $64,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$55,000 | Base salary + commission |
+| Mid-level (3–7 years) | $50,000~$80,000 | Higher commission after building a stable client base |
+| Senior (7+ years) | $75,000~$120,000 | Senior sales or sales manager level |
+| average salary | $80,670 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级销售代表可晋升为高级销售代表、销售经理或区域总监。也可转向数字营销、广告运营或媒体策划等方向。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI will automate large amounts of data analysis and routine communication, but customer relationships and negotiation remain a human moat; entry-level positions face increased competition due to AI tools, but high-value strategic sales roles are amplified instead.
+
+Junior sales representatives can advance to senior sales representative, sales manager, or regional director. They can also move into digital marketing, advertising operations, or media planning.
+
+**Tasks most exposed to AI:**
+
+- Customer lead screening and initial contact
+- Presentation material creation and basic proposal writing
+- Contract management and order tracking
+- Market data analysis and report generation
+- Regular client follow-up and schedule management
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer behavior data and develop personalized sales strategies
+- Use AI tools to optimize ad placement mix and pricing in real-time
+- Identify high-value customers in advance based on AI prediction models and proactively engage
+- Enhances argument construction and objection handling efficiency in negotiations through natural language processing
+- Using AI to generate multilingual, multi-channel creative promotional content
+
+**Human moat:**
+
+- Build and maintain long-term trusting relationships
+- Complex negotiation and interest balancing skills
+- Cross-department resource coordination and customized solution design
+- Sharp intuition and risk judgment regarding industry trends
+- Creativity, emotional resonance, and storytelling
+
+**Skills to build:**
+
+- AI-driven sales automation platform operation (e.g., Salesforce Einstein)
+- Data analysis and visualization (using Python or Tableau)
+- Programmatic buying of digital ads and real-time bidding strategies
+- Customer Relationship Management (CRM) deep application and deployment
+- Basics of negotiation psychology and behavioral economics
+- Cross-cultural communication and remote collaboration tools
+
+**Key growth areas:**
 
 - Digital Advertising
 - Programmatic Buying
@@ -62,65 +98,64 @@ Sell advertising space, time, or media in publications, signage, TV, radio, or i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需学士学位，广告销售职位可能符合，但需要雇主支持并通过抽签 |
-| Subclass EB-3（EB-3 Skilled Workers） | 技术工人绿卡，需PERM劳工证，适合有经验的销售专业人才 |
-| Subclass TN（TN Status (USMCA)） | 仅适用于加拿大或墨西哥公民，广告销售可能不属于TN职业清单中的典型职业 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree; advertising sales positions may qualify but need employer sponsorship and lottery. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card for skilled workers, requires PERM labor certification; suitable for experienced sales professionals. |
+| Subclass TN (TN Status (USMCA)) | Applicable only to Canadian or Mexican citizens; advertising sales may not be a typical occupation on the TN list. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Advertising Sales Agents？**
-- 善于沟通、说服力强的人
-- 抗压能力强、目标导向的销售型人才
-- 对广告和媒体行业有热情的人
-
-**谁不适合学Advertising Sales Agents？**
-- 不喜欢电话营销或陌生拜访的人
-- 不善于处理拒绝和压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication and persuasion
+- Sales-oriented talent with strong stress tolerance and goal orientation
+- Individuals passionate about advertising and media
+
+**Who is not suited**
+- People who dislike telemarketing or cold calling
+- Those who are not good at handling rejection and pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure of an advertising sales agent?**
+A: Usually base salary plus commission; commission varies by company. Entry-level annual income approx $35,000-55,000, senior sales can reach $75,000-120,000.
+
+**Q: Can advertising sales agents immigrate to the US via H-1B visa?**
+A: Yes, but requires employer sponsorship and the position usually requires a bachelor's degree; lottery selection rates are low. EB-3 green card via PERM labor certification is also an option.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Advertising Sales Agents的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for advertising sales agents?**
-答：Typically base salary plus commission; entry-level earns $35K-$55K, senior $75K-$120K.
-
-**问：Can advertising sales agents immigrate to the US via H-1B?**
-答：Yes, with employer sponsorship and a bachelor's degree usually required; lottery odds are low. EB-3 green card with PERM is also possible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

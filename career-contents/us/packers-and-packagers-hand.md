@@ -1,60 +1,96 @@
-# Packers and Packagers, Hand（Packers and Packagers, Hand）职业分析 · 美国
+# Packers and Packagers, Hand — career analysis · United States
 
-**职业代码：53-7064 – Packers and Packagers, Hand。**
+**Occupation code: 53-7064 (SOC)**
 
-Manually pack or package a wide variety of products and materials, commonly found in warehousing, logistics, and manufacturing, entry-level physical work.
+Manual packing and packaging of various products and materials, commonly in warehousing, logistics, and manufacturing; an entry-level physical labour role.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常无需正式教育，在职培训即可） |
-| 短期职业培训 | 1-2周 | —（部分雇主提供简单上岗培训） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no formal education required; on-the-job training suffices) |
+| Short-term vocational training | 1-2 weeks | $0~$500 (Some employers provide simple on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常上岗后短期学习即可 |
-| 叉车操作证书 | OSHA或培训机构 | 可选 | 非必需，但有助于晋升 |
+| On-the-job training | Employer | Required | Usually requires short-term on-the-job training after starting |
+| Forklift operator certificate | OSHA or training organizations | Optional | Not mandatory, but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 427,100。随着电子商务和物流行业的持续增长，手工包装工需求稳定，但自动化可能限制就业增长。预计2023-2033年就业变化为-1%至增长1%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 427,100. With the continued growth of e-commerce and logistics, demand for hand packers is stable, but automation may limit employment growth. Employment change from 2023-2033 is projected to be -1% to +1%.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 起薪接近最低工资 |
-| 中级（3-5年） | $28,000~$35,000 | 有一定经验后薪资缓慢增长 |
-| 高级/主管（5年以上） | $32,000~$42,000 | 晋升为包装主管或协调员 |
+| Median salary | $36,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary close to minimum wage |
+| Mid-level (3–5 years) | $28,000~$35,000 | Salary increases slowly after some experience |
+| Senior/Supervisor (5+ years) | $32,000~$42,000 | Promote to packaging supervisor or coordinator |
+| average salary | $37,540 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从临时工或季节性工人起步，可晋升为包装线主管或仓储协调员；少数通过技能提升转向叉车操作或质量管理岗位。
-**AI替代风险：高风险（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Manual packers are severely threatened by AI and automation; entry-level positions will shrink significantly, low-skill repetitive work faces high replacement risk.
+
+Typically start as temporary or seasonal workers, can advance to packaging line supervisor or warehouse coordinator; a few move to forklift operation or quality management through skill upgrading.
+
+**Tasks most exposed to AI:**
+
+- Packing products into cartons, bags, pallets, or other containers
+- Apply labels, sealing tape, and complete packaging
+- Select and assemble products according to order requirements
+- Repetitive stacking and palletizing movements
+- Simple quality visual inspection
+
+**Where AI augments the role:**
+
+- Use visual AI to assist in checking packaging quality and integrity
+- Receives dynamic packaging instructions via smart terminal
+- Operate automated packaging equipment and make parameter adjustments
+- Using sensor feedback to optimize packaging material usage
+- Monitor packaging line operation in real time and troubleshoot simple faults
+
+**Human moat:**
+
+- Manual skills for handling fragile, irregular, or high-value items
+- Quickly adapt to frequent changes in packaging specifications with flexibility
+- On-site judgment of anomalies (e.g., damage, wrong items) and decision-making
+- Communicate special packaging needs with clients or upstream/downstream
+- Operate in confined spaces or non-standard environments
+
+**Skills to build:**
+
+- Collaborative robot programming and maintenance basics
+- Smart warehouse system (WMS) operation
+- Digital tools and mobile data entry
+- Basic equipment maintenance and troubleshooting
+- Knowledge of lean packaging and material planning
+- Communication and basic English (suited for outsourced clients)
+
+**Key growth areas:**
 
 - e-commerce
 - warehousing
@@ -63,65 +99,67 @@ Manually pack or package a wide variety of products and materials, commonly foun
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 可用于季节性临时工，但限制严格，需雇主证明劳工短缺 |
-| Subclass EB-3（Employment-Based Third Preference） | 理论上可通过EB-3其他工人类别申请绿卡，但极少使用，要求雇主担保且劳工证困难 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Can be used for seasonal temporary work, but with strict restrictions; employers must prove labor shortage |
+| Subclass EB-3 (Employment-Based Third Preference) | Theoretically, green card can be applied through EB-3 Other Workers category, but rarely used, requires employer sponsorship and difficult labor certification |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Packers and Packagers, Hand？**
-- 需要快速就业且无学历要求的人
-- 能接受重复性体力劳动的人
-- 寻求季节性工作的学生或临时工
+**Who is suited**
+- For those needing quick employment and no degree required
+- People who can accept repetitive physical labor
+- Students or temporary workers seeking seasonal jobs
 
-**谁不适合学Packers and Packagers, Hand？**
-- 希望长期职业发展或高收入的人
-- 无法适应体力负荷或站立工作的人
+**Who is not suited**
+- Those seeking long-term career development or high income
+- Those unable to handle physical demands or standing work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a hand packer?**
+A: According to BLS 2023 data, average annual salary about $30,000, minimum hourly wage about $12, maximum not exceeding $40,000.
+
+**Q: Can hand packers migrate to the US through skilled migration?**
+A: Nearly impossible. This occupation is low-skilled, does not meet H-1B degree requirements, and while EB-3 green card is theoretically possible, labor certification is extremely difficult to obtain.
+
+**Q: Are there opportunities for career advancement?**
+A: Limited. Can advance to packaging supervisor, warehouse coordinator, or become an operator by obtaining a forklift license, but overall ceiling is low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高风险（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Packers and Packagers, Hand属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for hand packers?**
-答：According to BLS 2023, the mean annual wage is around $30,000, with hourly wages starting near $12 and rarely exceeding $40,000.
-
-**问：Can hand packers immigrate to the US through skilled migration?**
-答：Highly unlikely. The occupation is low-skilled, not eligible for H-1B visa due to degree requirements, and EB-3 green card is extremely difficult.
-
-**问：Are there career advancement opportunities?**
-答：Limited. Can advance to packing supervisor or warehouse coordinator, or transition to forklift operator via certification, but overall low ceiling.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

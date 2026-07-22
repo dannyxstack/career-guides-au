@@ -1,62 +1,95 @@
-# Labourers in food, beverage and tobacco processing（Labourers in food, beverage and tobacco processing）职业分析 · 加拿大
+# Labourers in food, beverage and tobacco processing — career analysis · Canada
 
-**职业代码：95100 – Labourers in food, beverage and tobacco processing。**
+**Occupation code: 95100 (NOC)**
 
-Performs manual tasks such as cleaning, bottling, and grape processing in wineries. Classified as NOC 95100 low-skilled, generally only eligible for temporary foreign worker or PNP low-skilled streams.
+Physical work in a winery such as cleaning, bottling, and grape processing, classified as NOC 95100 low-skilled occupation. Typically only accessible through temporary foreign labor or low-skilled streams of provincial nominations for immigration.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（通常仅需高中毕业或同等学历） |
-| 短期培训 | 1-3个月 | $1,000~$3,000（如酿酒厂安全操作培训） |
-| 相关学院课程（不必要） | 1年 | $10,000~$20,000（如葡萄栽培或酿酒技工证书课程） |
+| No education requirement | 0 years | $0~$0 (Typically only requires high school diploma or equivalent.) |
+| Short-term training | 1-3 months. | $1,000~$3,000 (Such as safety operation training for breweries) |
+| Relevant college courses (not required) | 1 year | $10,000~$20,000 (Such as viticulture or winemaking technician certificate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | 各省卫生部门 | 可选 | 部分雇主要求 |
-| 叉车操作证 | 省级认证机构 | 可选 | 常见于仓储相关工作 |
-| 农业劳动经验 | 雇主 | 可选 | 通常要求1年以上体力劳动经历 |
+| Food safety certification | Provincial health departments | Optional | Some employers require |
+| Forklift operation certificate | Provincial certification bodies | Optional | Commonly seen in warehouse-related jobs |
+| Agricultural labor experience | Employer | Optional | Usually requires over 1 year of manual labor experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。加拿大葡萄酒产区（如BC省、安省、魁省）酒庄对劳力需求稳定，但受季节性影响。移民机会有限，需雇主支持。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Wineries in Canadian wine regions (e.g., BC, Ontario, Quebec) have stable labor demand but are seasonal. Immigration opportunities are limited and require employer support.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-1年） | $25,000~$30,000 | 时薪约$14-$17，季节性 |
-| 中级（1-3年） | $30,000~$38,000 | 时薪约$17-$20，含加班 |
-| 高级（3年以上） | $38,000~$45,000 | 时薪约$20-$25，可能带班 |
+| Median salary | $52,936 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Junior (0-1 year) | $25,000~$30,000 | Hourly wage approx $14-$17, seasonal |
+| Intermediate (1-3 years) | $30,000~$38,000 | Hourly rate approx $17-$20, including overtime |
+| Senior (3+ years) | $38,000~$45,000 | Hourly rate approx $20-$25, may include shift allowance |
+| average salary | $58,240 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从酒窖杂工晋升为高级酒窖工或酿酒助理，但需积累经验或考取相关证书。长期发展需转向技术岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly reduce jobs for food, beverage, and tobacco processing workers, especially repetitive physical tasks and simple quality inspection, with entry-level positions expected to decline by 30-50%.
+
+Advancement from cellar hand to senior cellar hand or winemaking assistant, but requires experience or relevant certifications. Long-term development needs transition to technical roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive handling work such as sorting and packing bottles and cans on the production line
+- Basic cleaning and disinfection operations, such as using a high-pressure water gun to flush tanks.
+- Simple visual quality inspection, such as checking bottle cap seal
+- Standard procedure of adding ingredients (such as fruit juice) according to a fixed recipe
+
+**Where AI augments the role:**
+
+- Operate automated cleaning robots and AGVs to improve efficiency
+- Use smart sensors to monitor fermentation temperature and pressure, optimize brewing parameters
+- Managing material inventory via digital dashboards to reduce waiting time
+- Works with collaborative robots to handle heavy items, reducing risk of injury.
+
+**Human moat:**
+
+- Manual handling of non-standard or fragile items (e.g., hand-bottling specialty wine)
+- Quickly diagnose and fix common equipment faults (requires mechanical knowledge)
+- Flexibly switching between multiple processes in small workshops without strict standardisation
+- On-site communication directly with grape suppliers and farms
+
+**Skills to build:**
+
+- Basic mechanical maintenance and electrical knowledge
+- Operate automated control systems (HMI/PLC basics)
+- Digital tool application (barcode scanning, inventory management software)
+- Food hygiene and safety compliance knowledge (HACCP)
+- Data recording and simple report writing
+- Collaborative robot safety operation certification
+
+**Key growth areas:**
 
 - Temporary Foreign Worker
 - BC PNP Entry Level
@@ -65,63 +98,65 @@ Performs manual tasks such as cleaning, bottling, and grape processing in wineri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass TFWP（Temporary Foreign Worker Program） | 雇主申请LMIA，获得工签，通常为季节性工作 |
-| Subclass PNP Low Skilled（Provincial Nominee Program (Low Skilled)） | 如BC PNP入门级和半熟练工类别，需雇主担保 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份低技能类别，需雇主offer，经验要求较低 |
+| Subclass TFWP (Temporary Foreign Worker Program) | Employer applies for LMIA, gets work permit, usually for seasonal work |
+| Subclass PNP Low Skilled (Provincial Nominee Program (Low Skilled)) | Such as BC PNP Entry Level and Semi-Skilled category, requiring employer sponsorship |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot low-skilled category, requires employer offer and lower experience requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Labourers in food, beverage and tobacco processing？**
-- 愿意从事体力劳动、适应季节性工作的人
-- 希望在加拿大酒庄积累经验并短期工作的人
-- 已经通过配偶或家庭成员获得永居身份的人
+**Who is suited**
+- People willing to do physical labor and adapt to seasonal work
+- People who want to gain experience and work short-term at a winery in Canada
+- People who have already obtained permanent residency through a spouse or family member
 
-**谁不适合学Labourers in food, beverage and tobacco processing？**
-- 追求技术移民或高薪职业的人
-- 不喜欢户外或重复性体力工作的人
+**Who is not suited**
+- Individuals seeking skilled migration or high-paying careers
+- People who dislike outdoor or repetitive physical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary of a Cellar Hand in Canada?**
+A: Entry-level annual salary is about CAD 25,000 to 30,000, mid-level CAD 30,000 to 38,000, and senior CAD 38,000 to 45,000, significantly affected by seasonality.
+
+**Q: Can a cellar hand immigrate to Canada?**
+A: Usually not directly suitable for skilled migration due to low NOC skill level. You may accumulate experience through temporary foreign worker visas and then apply through low-skilled provincial nominee categories (e.g., BC PNP Semi-Skilled), but employer sponsorship is required and competition is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Labourers in food, beverage and tobacco processing属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a winery cellar hand in Canada?**
-答：Entry-level around CAD 25,000-30,000, mid-level CAD 30,000-38,000, senior CAD 38,000-45,000. Seasonal variations apply.
-
-**问：Can a winery cellar hand immigrate to Canada?**
-答：Generally not eligible for skilled immigration. May gain experience via TFWP and then apply through PNP low-skilled streams (e.g., BC PNP entry-level/semi-skilled), but requires employer sponsorship and is competitive.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

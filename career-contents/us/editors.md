@@ -1,57 +1,93 @@
-# Editors（Editors）职业分析 · 美国
+# Editors — career analysis · United States
 
-**职业代码：27-3041 – Editors。**
+**Occupation code: 27-3041 (SOC)**
 
-Editors plan, coordinate, revise, or edit written material to ensure accuracy, clarity, and adherence to publication standards.
+Editors plan, coordinate, revise, or edit written materials to ensure accuracy, clarity, and compliance with publishing standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1万-2万美元，私立约3万-6万美元） |
-| 硕士学位 | 1-2年 | $30,000~$80,000（创意写作或出版学硕士，学费差异大） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Average annual tuition at public universities approx. USD 10,000-20,000, private universities USD 30,000-60,000.) |
+| Master's degree | 1-2 years | $30,000~$80,000 (Master of Creative Writing or Publishing, tuition varies widely) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 编辑技能认证 | 编辑学会（Editors Canada）或美国编辑协会（ACES） | 可选 | 非强制但加分 |
+| Editing skills certification | Editors Canada or American Copy Editors Society (ACES) | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 95,800。美国编辑就业预计增长缓慢，受数字媒体转型影响，传统出版岗位减少，但内容营销和在线出版仍提供机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 95,800. U.S. editor employment expected to grow slowly, impacted by digital media transition, with traditional publishing roles declining, but content marketing and online publishing still offer opportunities.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理编辑或初级编辑 |
-| 中级（3-7年） | $50,000~$75,000 | 编辑或高级编辑 |
-| 高级（7年以上） | $75,000~$110,000 | 主编或内容总监 |
+| Median salary | $77,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Assistant editor or junior editor |
+| Mid-level (3–7 years) | $50,000~$75,000 | Editor or senior editor |
+| Senior (7+ years) | $75,000~$110,000 | Editor-in-chief or content director |
+| average salary | $90,060 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级编辑通常从助理岗位起步，积累经验后晋升为高级编辑、内容主管或出版经理，也可转向数字内容策略。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Editing work is being profoundly reshaped by AI: basic proofreading and formatting tasks are automated, but fact-checking, narrative planning, and author communication—which rely on human judgment—are amplified by AI tools, creating both opportunities and challenges.
+
+Junior editors usually start as assistants, gaining experience before advancing to senior editor, content manager, or publishing manager, and may also move into digital content strategy.
+
+**Tasks most exposed to AI:**
+
+- Basic grammar, spelling, and punctuation proofreading
+- Automatically generate standard-format summaries or paraphrases
+- Data-driven newsletter or report draft generation
+- Template-based layout and style adjustments
+- Batch generation and publication of social media copy
+
+**Where AI augments the role:**
+
+- Using AI for deep fact-checking and cross-reference verification
+- Analyze audience preferences through AI to optimize title and content strategies
+- Leverage AI real-time translation and localization tools to expand international readership
+- Use AI to assist with content aggregation, hot topic tracking, and trend mining
+- Use AI to generate drafts, editors focus on style polishing and narrative enhancement
+
+**Human moat:**
+
+- Understanding and judgment of complex contexts and cultural nuances
+- Original creation and construction of unique narrative perspectives
+- Interpersonal communication and collaboration with authors, journalists, and stakeholders
+- Ethical decision-making and value gatekeeping (e.g., information fairness, privacy boundaries)
+- Deep understanding and flexible application of industry standards and publishing norms
+
+**Skills to build:**
+
+- Proficient in using AI writing assistant tools (e.g., ChatGPT, Grammarly)
+- Basics of data analysis and audience insights
+- Multimedia content editing (video, audio, graphics)
+- SEO and content marketing strategies
+- Fact-checking and information literacy enhancement
+- project management and remote collaboration tools (e.g., Trello, Asana)
+
+**Key growth areas:**
 
 - Content Marketing
 - Digital Publishing
@@ -60,65 +96,64 @@ Editors plan, coordinate, revise, or edit written material to ensure accuracy, c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要学士学位，常见于出版公司或媒体机构 |
-| Subclass EB-2（EB-2 Advanced Degree） | 硕士或以上学历，通过PERM劳工认证申请 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出编辑，需证明国际认可 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree, common at publishing companies or media organisations |
+| Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or higher, apply via PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | For distinguished editors, requires proof of international recognition |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Editors？**
-- 注重细节和语言准确性的人
-- 具有较强沟通和项目管理能力的人
-- 对写作和内容创作有热情的人
-
-**谁不适合学Editors？**
-- 不喜欢长时间阅读和修改文字的人
-- 难以适应严格截止日期和重复性工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and linguistically accurate people
+- People with strong communication and project management skills
+- People passionate about writing and content creation
+
+**Who is not suited**
+- Someone who dislikes long periods of reading and editing text
+- People who struggle with strict deadlines and repetitive work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an editor in the US?**
+A: According to BLS, the median annual salary for editors in 2023 was about $73,080, but entry-level pay is lower.
+
+**Q: How can a Chinese editor immigrate to the US through a work visa?**
+A: Common pathways include the H-1B work visa, requiring a US employer sponsor; or through the O-1 visa for extraordinary ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Editors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for editors in the US?**
-答：According to BLS, the median annual wage for editors was about $73,080 in 2023, but entry-level salaries are lower.
-
-**问：How can Chinese editors immigrate to the US via work visa?**
-答：Common paths include H-1B work visa requiring US employer sponsorship, or O-1 visa for extraordinary ability.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

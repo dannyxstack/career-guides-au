@@ -1,61 +1,97 @@
-# Domestic Services Worker（Domestic Services Worker）职业分析 · FR
+# Domestic Services Worker — career analysis · France
 
-**职业代码：K1304 – Domestic Services Worker。**
+**Occupation code: K1304 (ROME)**
 
-Provides daily household tasks such as cleaning, laundry, cooking, and sometimes childcare or elderly care. Employed by private households or cleaning agencies.
+They provide household cleaning, laundry, cooking, and other daily household services, sometimes including child or elderly care. They are usually employed by private families or domestic companies.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 通常无需正规学历 | —（在职培训或短期课程，费用低） |
-| CAP 家政服务 | 2年（CAP） | —（公立学校免费或低学费，私立约5000欧元/年） |
-| Bac Pro 家政服务 | 3年（Bac Pro） | —（公立免费，私立约7000欧元/年） |
+| No specific educational requirements | Usually, no formal education is required | $0~$0 (On-the-job training or short courses, low cost) |
+| CAP Domestic Services | 2 years (CAP) | $0~$5,000 (Public schools are free or low tuition; private schools approx. 5,000 EUR/year.) |
+| Bac Pro Housekeeping Services | 3 years (Bac Pro) | $0~$7,000 (Public schools are free, while private ones pay about 7,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Assistant Technique en Milieu Familial et Collectif | 法国教育部 | 可选 | 家政服务领域基础文凭，非强制但有优势 |
-| Bac Pro Services aux Personnes et aux Territoires | 法国教育部 | 可选 | 高级别文凭，涵盖家政与个人护理 |
+| CAP Assistant Technique en Milieu Familial et Collectif | French Ministry of Education | Optional | Basic diploma in the domestic services field, not mandatory but with advantages |
+| Bac Pro Services aux Personnes et aux Territoires | French Ministry of Education | Optional | Advanced diplomas covering domestic and personal care |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 620,000。随着人口老龄化和双职工家庭增加，家政服务需求持续增长。France Travail 预测未来几年该领域岗位将稳定增长，尤其在城市地区。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 620,000. With the aging population and the increase in dual-income households, the demand for domestic services continues to grow. France Travail predicts that jobs in this sector will steadily grow in the coming years, especially in urban areas.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$21,000 | 税前年薪，通常按最低工资SMIC计算 |
-| 中级（3-7年） | $21,000~$25,000 | 税前年薪，含经验及额外技能补贴 |
-| 高级（7年以上/自营） | $25,000~$35,000 | 税前年薪，自营或管理岗位 |
+| Median salary | $23,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$21,000 | Pre-tax annual salary, usually calculated at the minimum wage SMIC |
+| Mid-level (3–7 years) | $21,000~$25,000 | Pre-tax annual salary, including experience and additional skill allowances |
+| Advanced (Over 7 Years/Self-Employed) | $25,000~$35,000 | Pre-tax annual salary, self-operated or management positions |
+| average salary | $19,404 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级家政服务员可晋升为团队主管或自营家政公司。部分从业者通过培训转向专业护工或儿童看护等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of domestic workers will become fragmented by AI: standardized cleaning and cooking processes are easily automated, but soft services such as personalized communication, emotional care, and safety monitoring will be amplified by AI tools. Entry-level positions face competition due to low entry barriers, but demand for high-end comprehensive butler roles has surged.
+
+Junior domestic workers can be promoted to team leader or to run their own domestic service company. Some practitioners have shifted to specialized fields such as professional caregivers or child care through training.
+
+**Tasks most exposed to AI:**
+
+- Vacuuming and mopping floors are carried out according to preset routes
+- Laundry sorting, folding, and basic ironing
+- Simple recipes are performed with cooking timing
+- Regularly change bed sheets, garbage bags, and other repetitive chores
+- Return basic items to their places and surface dust removal
+
+**Where AI augments the role:**
+
+- Remotely monitor and adjust the cleaning robot's path and frequency through the smart home system
+- Use the Nutrition Analysis App to optimize home menus and allergen management
+- Emotional AI helps assess the emotional state of the elderly and children and adjusts their interaction methods
+- Manage household consumables automatically with an intelligent inventory system
+- Seamless communication with multilingual employers and families through AI translation tools
+
+**Human moat:**
+
+- Emotional interactions and psychological support to build trust with the elderly and children
+- On-site assessment and emergency response for sudden situations (such as falls or emotional breakdowns).
+- Personalized service plan design (such as special diets and optimization of household workflow)
+- On-site management responsibility for family privacy and safety
+- Cultural sensitivity and flexible communication (such as intergenerational and cross-cultural families)
+
+**Skills to build:**
+
+- Smart home device operation and troubleshooting
+- Basic nutrition and dietary planning
+- Use of home health monitoring devices (such as blood pressure monitors and blood glucose meters)
+- Time management and multitasking coordination skills
+- Nonviolent communication and family relationship mediation skills
+- Basic first aid and safety prevention knowledge
+
+**Key growth areas:**
 
 - aging population
 - dual-income households
@@ -64,65 +100,67 @@ Provides daily household tasks such as cleaning, laundry, cooking, and sometimes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主提供工作合同，证明无法从欧盟招聘到合适人员。门槛较低，但需满足最低工资等条件。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 持有学生签证或其他居留许可后可申请，寻找家政工作，但转为工作签证仍有难度。 |
+| Subclass Salarié (Salarié (Employee)) | The employer must provide a work contract proving that suitable personnel cannot be recruited from the EU. The threshold is low, but you must meet minimum wage and other conditions. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After holding a student visa or other residence permit, you can apply and look for domestic work, but switching to a work visa is still challenging. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Domestic Services Worker？**
-- 吃苦耐劳、细致耐心的人
-- 喜欢与人打交道、提供关怀服务的人
-- 希望快速就业、无需高学历的人
+**Who is suited**
+- Hardworking, meticulous, and patient people
+- People who enjoy interacting with others and providing caring services
+- People seeking quick employment without high education requirements
 
-**谁不适合学Domestic Services Worker？**
-- 追求高薪及职业声望的人
-- 不喜欢体力劳动和家务的人
+**Who is not suited**
+- People who pursue high salaries and professional prestige
+- People who dislike physical labor and housework
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for domestic helpers?**
+A: The annual salary for junior domestic workers is about 18,000-21,000 euros (before tax), roughly on par with the statutory minimum wage (SMIC). Experienced or self-employed individuals can earn between 25,000 and 35,000 euros.
+
+**Q: Can foreigners immigrate to France through domestic services?**
+A: Very difficult. This occupation is not on the shortage list; employers must prove inability to recruit from the EU, and salary is often low, making it hard to meet high-skilled visa requirements. Only recommended for EU citizens free movement.
+
+**Q: What training or certification is required?**
+A: No strict requirements. However, CAP or Bac Pro-related diplomas can enhance employment competitiveness. Short-term training (such as first aid and cooking certificates) can also help.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Domestic Services Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for domestic services workers?**
-答：Entry-level domestic workers earn about €18,000-21,000 per year (gross), close to the SMIC. Experienced or self-employed workers can reach €25,000-35,000.
-
-**问：Can foreigners immigrate to France through domestic services?**
-答：Very difficult. This occupation is not a shortage occupation; employers must prove they cannot hire from the EU, and low salaries make it hard to qualify for skilled visas. Only EU free movement is feasible.
-
-**问：What training or certification is required?**
-答：No mandatory requirements. A CAP or Bac Pro in related fields boosts employability. Short courses (e.g., first aid, cooking) are helpful.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

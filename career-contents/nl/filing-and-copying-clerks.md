@@ -1,59 +1,95 @@
-# Filing and Copying Clerks（Filing and Copying Clerks）职业分析 · NL
+# Filing and Copying Clerks — career analysis · Netherlands
 
-**职业代码：4415 – Filing and Copying Clerks。**
+**Occupation code: 4415 (ISCO08)**
 
-Responsible for filing, copying, and basic data entry tasks, typically in administrative support roles within companies or government agencies.
+Responsible for organizing, filing, copying, and basic data entry, typically in administrative support roles in companies or government departments.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 1-2年 | —（部分MBO课程免费或低学费） |
-| 高中毕业 | 无需额外教育 | —（仅需高中文凭） |
+| Secondary vocational education | 1-2 years | $0~$5,000 (Some MBO courses are free or have low tuition fees.) |
+| High school graduation | No additional education required | $0~$0 (Only requires a high school diploma) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | - | 可选 | 通常要求高中毕业，入职后培训 |
+| No mandatory qualification requirements | - | Optional | Typically requires high school graduation, with on-the-job training after hire |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。随着数字化办公的推进，对传统档案和复印职员的需求持续下降，预计就业机会将减少。但仍有部分岗位存在于中小企业和政府部门。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. With the advancement of digital offices, demand for traditional filing and copying staff continues to decline, and employment opportunities are expected to decrease. However, some positions still exist in SMEs and government departments.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $24,000~$28,000 | 税前年薪，通常按小时支付 |
-| 中级（2-5年） | $28,000~$32,000 | 税前年薪 |
-| 高级（5年以上） | $32,000~$36,000 | 税前年薪，含经验补贴 |
+| Median salary | $43,472 | Median salary (official: CBS median hourly wage €22.0/hour × 1,976 hours annualized, BRC group 0431 Administratief medewerkers; P25–P75 €34,975–€52,166, CBS 2024) |
+| Entry level (0–2 years) | $24,000~$28,000 | Annual salary before tax, usually paid hourly |
+| Intermediate (2-5 years) | $28,000~$32,000 | Annual pre-tax salary |
+| Senior (5+ years) | $32,000~$36,000 | Annual salary before tax, including experience allowance |
+| average salary | $30,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可通过内部培训转向更高级的行政或秘书岗位，如行政助理或办公室经理。也可通过学习数字文档管理技能转型为信息管理专员。
-**AI替代风险：高（★★★★½）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very high (★★★★½).**
 
-主要增长方向：
+This occupation faces a high risk of automation; AI and document management systems will largely replace manual filing, copying, and basic data entry, leading to a significant reduction in positions.
+
+Internal training can lead to higher-level administrative or secretarial roles, such as Administrative Assistant or Office Manager. Alternatively, studying digital document management skills can transition into an Information Management Specialist role.
+
+**Tasks most exposed to AI:**
+
+- Organizing and archiving paper documents
+- Document copying and distribution
+- Manual data entry and proofreading
+- Basic document retrieval and access
+- Template file generation
+
+**Where AI augments the role:**
+
+- Using AI for file classification and tag suggestions
+- Automatically extract key information using OCR and NLP technologies
+- Optimize file workflows through automated workflows
+- Provides archiving optimisation recommendations based on data insights
+- Monitor document compliance using a document management system
+
+**Human moat:**
+
+- Handle unstructured or abnormal files
+- Understand complex business context and make decisions on document disposition.
+- Cross-departmental coordination and communication
+- Manual review for privacy and compliance
+- Handling urgent document needs
+
+**Skills to build:**
+
+- Enterprise document management systems (e.g., SharePoint, DocuWare)
+- Basic programming (Python/VBA) for file automation
+- Data analysis and graphical visualization
+- Privacy regulations and compliance knowledge
+- AI tools (e.g., ChatGPT for document summarization)
+- Project coordination and process optimisation
+
+**Key growth areas:**
 
 - Declining demand
 - Digitalization
@@ -62,61 +98,63 @@ Responsible for filing, copying, and basic data entry tasks, typically in admini
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需工作许可。 |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without a work permit. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Filing and Copying Clerks？**
-- 注重细节、有条理的人
-- 喜欢稳定、低压力工作环境的人
-- 希望快速进入劳动力市场的人
+**Who is suited**
+- Detail-oriented, organized person
+- Those who like a stable, low-stress work environment
+- Those seeking quick entry into the labor market
 
-**谁不适合学Filing and Copying Clerks？**
-- 追求高薪和职业发展的人
-- 希望从事技术性或创造性工作的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People seeking technical or creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of filing and photocopying clerks?**
+A: Low salary, entry-level annual around 24,000-28,000 euros, senior up to 32,000-36,000 euros.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Very difficult. This occupation is not in shortage, so it cannot apply for highly skilled migrant or EU Blue Card. Only EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★½） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Filing and Copying Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for filing and copying clerks?**
-答：Salaries are relatively low, ranging from €24,000-28,000 for entry-level to €32,000-36,000 for senior positions.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Very difficult. This occupation is not in shortage and does not qualify for highly skilled migrant or EU Blue Card. Only EU citizens can freely move.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

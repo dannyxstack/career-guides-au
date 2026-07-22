@@ -1,58 +1,89 @@
-# Sculptor（Sculptor）职业分析 · DE
+# Sculptor — career analysis · Germany
 
-**职业代码：9331 – Sculptor。**
+**Occupation code: 9331 (KldB)**
 
-Sculptors create three-dimensional artworks by carving, modeling, or casting materials such as stone, wood, or metal, working on artistic creations, restorations, or decorative projects.
+Sculptors create three-dimensional artworks, carving, shaping, or casting works using materials such as stone, wood, and metal, engaging in artistic creation, restoration, or decoration projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，部分学校收少量材料费） |
-| 本科（艺术/设计） | 4-5年 | $1,500~$10,000（公立大学免学费，仅收学期注册费；私立学费较高） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance provided during training; some schools charge a small material fee) |
+| Bachelor's degree (art/design) | 4-5 years | $1,500~$10,000 (Public universities are tuition-free, only charging semester registration fees; private universities have higher tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 雕塑师资格证书（Geselle） | 德国手工业协会（HWK） | 必备 | 完成双元制培训后获得，证明专业技能 |
-| 学历认证（Anerkennung） | 德国认证机构（如ZAB） | 必备 | 外国学历需认证，评估与德国教育体系等同性 |
+| Sculptor qualification certificate (Geselle) | German Chamber of Crafts (HWK) | Required | Obtained after completing dual-system training, certifying professional skills |
+| Credential recognition (Anerkennung) | German credential evaluation bodies (e.g., ZAB) | Required | Foreign qualifications need recognition, assessed for equivalence with the German education system |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,000。德国雕塑家就业市场相对小众，需求取决于艺术市场、公共艺术项目和修复行业。数字化趋势（如3D打印）带来新机会，但传统手工技能仍受重视。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,000. The job market for sculptors in Germany is relatively niche, with demand depending on the art market, public art projects, and restoration industry. Digital trends (e.g., 3D printing) bring new opportunities, but traditional handcraft skills are still valued.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 刚入职或受雇于工作室 |
-| 中级（4-7年） | $32,000~$45,000 | 有经验的手工艺人或艺术家 |
-| 高级（8年以上） | $45,000~$65,000 | 知名艺术家或修复专家 |
+| Median salary | $41,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$32,000 | Newly employed or working for a studio |
+| Mid-level (4-7 years) | $32,000~$45,000 | Experienced craftsperson or artist |
+| Senior (8+ years) | $45,000~$65,000 | Renowned artist or restoration expert |
+| average salary | $43,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径可从独立艺术家起步，积累作品后进入艺术机构、画廊或修复工作室。可向艺术总监、展览策划或艺术教育方向发展，或专攻特定材料与技法。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core handcraft skills of sculptors are partially replaced by AI-generated 3D models and CNC carving, but high-end artistic originality, material tactility, and public aesthetic judgment are difficult to automate. The role is facing downsizing but not extinction.
+
+Career path can start as an independent artist, building a portfolio before moving into art institutions, galleries, or restoration studios. Opportunities include art director, exhibition curator, or art educator, or specializing in specific materials and techniques.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates 3D digital models from photos or sketches, replacing initial mold making
+- CNC machines perform stone/wood carving, replacing manual rough carving
+- AI generates initial sketches for public art proposals, reducing designer trial and error
+
+**Where AI augments the role:**
+
+- Using AI to generate multiple material and structural solutions, quickly exploring artistic possibilities
+- Uses AI to simulate different lighting and environmental displays to optimize artwork arrangement
+- Using AI-assisted market analysis to predict theme trends and position artwork style
+- Leverages generative AI to enrich creative inspiration sources and break conventional thinking patterns
+
+**Human moat:**
+
+- Unique aesthetic and emotional expression, personal narrative behind the work
+- Artistic value of material texture and handcraft traces
+- In-depth client communication and customized explanation ability
+- Interpretation and decision-making of cultural symbols in public art projects
+
+**Skills to build:**
+
+- Combining 3D modeling software (Blender/ZBrush) with sculpture
+- Rapid prototyping with digital sculpting (e.g., iPad + Nomad)
+- AI generation tools (Midjourney/Bing Image Creator) for inspiration
+- Basic programming (Python) for automating design processes
+- Social media visual storytelling and personal brand management
+
+**Key growth areas:**
 
 - Fine Arts
 - Restoration
@@ -61,68 +92,67 @@ Sculptors create three-dimensional artworks by carving, modeling, or casting mat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历且年薪达门槛的高技能人才，但雕塑家通常不适用，因教育要求不匹配 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于职业培训或大学学历，并找到与资格匹配的工作。需通过资质认证。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德国找工作，适合有艺术背景的申请人。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled talents with a university degree and meeting the salary threshold, but generally not suitable for sculptors due to mismatched education requirements. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable for vocational training or university degree, and must find a job matching qualifications. Qualification recognition required. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job search visa that allows coming to Germany to look for work, suitable for applicants with an artistic background. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sculptor？**
-- 具有艺术天赋和手工技能的人
-- 对三维创作和材料有热情的人
-- 能接受不稳定收入和自由职业状态的人
-
-**谁不适合学Sculptor？**
-- 追求稳定高收入和固定工作时间的人
-- 缺乏耐心和精细动手能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with artistic talent and manual skills
+- People passionate about 3D creation and materials
+- Those who can accept unstable income and freelance status
+
+**Who is not suited**
+- People seeking stable high income and fixed working hours
+- People who lack patience and fine manual dexterity
+
+---
+
+## 8. FAQ
+
+**Q: How much do sculptors earn?**
+A: Sculptor income varies greatly depending on experience and reputation. Those employed by studios earn an annual salary of about €25,000-45,000, while independent artists have fluctuating income, possibly below €20,000.
+
+**Q: How can a foreign sculptor immigrate to Germany?**
+A: Must complete qualification recognition (Anerkennung) to prove skills are equivalent to German standards. Can apply for a skilled worker visa (Skilled Worker) or opportunity card (Chancenkarte), and transition to a work visa after finding an employer.
+
+**Q: Do sculptors have promotion opportunities?**
+A: Can advance from employed sculptor to studio manager or art director, or become an independent renowned artist. Further training or specializing in niche areas such as restoration or 3D modeling can broaden opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sculptor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a sculptor?**
-答：Sculptors' income varies widely by experience and reputation. Employed by workshops earn around €25,000-45,000 annually, while independent artists have fluctuating income, possibly below €20,000.
-
-**问：How can a foreign sculptor immigrate to Germany?**
-答：You need to obtain recognition (Anerkennung) of your qualifications. Then apply for a Skilled Worker visa or Opportunity Card, and switch to a work visa after finding an employer.
-
-**问：Are there career advancement opportunities for sculptors?**
-答：You can advance from employed sculptor to workshop supervisor or art director, or become a renowned independent artist. Further training or specialization in restoration, 3D modeling, etc., can broaden opportunities.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

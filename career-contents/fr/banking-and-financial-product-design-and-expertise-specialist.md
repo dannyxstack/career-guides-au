@@ -1,62 +1,98 @@
-# Banking and Financial Product Design and Expertise Specialist（Banking and Financial Product Design and Expertise Specialist）职业分析 · FR
+# Banking and Financial Product Design and Expertise Specialist — career analysis · France
 
-**职业代码：C1204 – Banking and Financial Product Design and Expertise Specialist。**
+**Occupation code: C1204 (ROME)**
 
-Designs, evaluates, and optimizes banking and financial products (loans, savings, investments), ensuring regulatory compliance and risk management.
+Responsible for designing, evaluating, and optimizing banking and financial products (such as loans, savings, investment solutions), and ensuring compliance and risk management.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 5年（Master） | $5,000~$15,000（公立大学学费低，高商约€15,000/年） |
-| 学士 | 3年（Licence） | $2,000~$5,000（公立大学学费） |
-| 工程师文凭 | 3年（école d'ingénieurs） | $3,000~$10,000（含金融专业） |
+| Master's degree | 5 years (Master) | $5,000~$15,000 (Public universities have low tuition fees, with high commercial fees around €15,000 per year) |
+| Bachelor's degree | 3 years (Licence) | $2,000~$5,000 (Public university tuition) |
+| Engineer diploma | 3 years (école d'ingénieurs) | $3,000~$10,000 (Including finance majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融市场监管认证（如AMF） | Autorité des Marchés Financiers | 可选 | 推荐拥有 |
-| CFA（特许金融分析师） | CFA Institute | 可选 | 提升竞争力 |
-| 风险管理认证（PRM/FRM） | PRMIA/GARP | 可选 | 部分岗位要求 |
+| Financial Market Regulatory Certification (such as AMF) | Autorité des Marchés Financiers | Optional | Highly recommended |
+| CFA (Chartered Financial Analyst) | CFA Institute | Optional | Boosting competitiveness |
+| Risk Management Certification (PRM/FRM) | PRMIA/GARP | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。法国金融业稳步发展，数字化与绿色金融催生新需求，该职位持续紧俏，尤其在巴黎大区。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. France's financial sector is steadily developing, with digitalization and green finance creating new demand. This position remains in high demand, especially in the Paris region.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$90,000 | 税前年薪，可更高 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$90,000 | Pre-tax annual salary can be even higher |
+| average salary | $79,569 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从分析师可晋升至产品经理、部门主管，或转向风险管理、合规等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve product design and risk assessment efficiency, but compliance reviews and customized customer solutions still require human experts, leading to overall divergence.
+
+Analysts can be promoted to product manager, department head, or shift to risk management, compliance, and other areas.
+
+**Tasks most exposed to AI:**
+
+- Generation of quantitative product performance reports and market data summaries
+- Templated filling and cross-checking of basic regulatory compliance documents
+- Cash flow modeling and sensitivity analysis for standard credit products
+- Automated responses to common customer product clause inquiries
+- Return backtesting and comparison report on homogeneous investment schemes
+
+**Where AI augments the role:**
+
+- Use AI simulation to simulate product risk exposure under different economic scenarios
+- Leverage NLP to quickly scan regulatory updates and warn of compliance impacts
+- Identify demand gaps in customer segments through machine learning
+- Use generative AI to quickly draft the initial version of an innovative product plan
+- Use AI to optimize asset portfolio allocation and hedging strategies
+
+**Human moat:**
+
+- Interpretation and negotiation with regulatory authorities regarding non-standard terms
+- Design asymmetric revenue structures tailored to specific client goals
+- Make judgments that go beyond historical data in crisis situations
+- Develop a long-term product strategy recognized by management and the board
+- Conduct logical review and ethical oversight of AI output results
+
+**Skills to build:**
+
+- Script writing for Python financial modeling and automation
+- Application of machine learning in credit risk and market risk
+- Generative AI tools (such as ChatGPT and Copilot) are used for drafting clauses
+- Data Visualization and Narrative Analysis (Tableau, Power BI)
+- Financial RegTech and compliance automation tools
+- Agile product development and cross-departmental collaborative project management
+
+**Key growth areas:**
 
 - Fintech
 - Sustainable Finance
@@ -65,66 +101,68 @@ Designs, evaluates, and optimizes banking and financial products (loans, savings
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适合高薪（≥€53,900）技术人才，可带家属。 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，如金融专家，有效期4年。 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工资不低于法定最低。 |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying (≥€53,900) technical talent, family members may be brought along. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents such as financial experts, valid for 4 years. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, wage not lower than the legal minimum. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Banking and Financial Product Design and Expertise Specialist？**
-- 金融、经济或数学相关专业毕业生
-- 具备分析和量化能力，对金融市场有热情者
-- 追求高薪与职业稳定性的人
+**Who is suited**
+- Graduates in finance, economics, or mathematics-related fields
+- Possess analytical and quantitative skills, and be passionate about financial markets
+- People who pursue high salaries and career stability
 
-**谁不适合学Banking and Financial Product Design and Expertise Specialist？**
-- 厌恶数字和数据分析的人
-- 不追求高压环境者
+**Who is not suited**
+- People who dislike numbers and data analysis
+- Those who do not seek high-pressure environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for product design positions in French banks?**
+A: Beginner is about 35,000-45,000 euros, intermediate 45,000-65,000, and advanced can exceed 90,000 euros.
+
+**Q: How can non-EU citizens come to France to work in this profession?**
+A: You can use the EU Blue Card (high salary), talent passport, or ordinary work visa. Employer sponsorship required, usually a master's degree + relevant experience.
+
+**Q: What educational qualifications are required to become a financial products expert?**
+A: A Master of Finance/Economics (BAC+5) or an engineering diploma is usually required. CFA and other certifications add extra points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Banking and Financial Product Design and Expertise Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for banking product design roles in France?**
-答：Entry-level around €35,000-45,000, mid-level €45,000-65,000, senior up to €90,000+.
-
-**问：How can non-EU citizens work in this role in France?**
-答：Via EU Blue Card (high salary), Talent Passport, or regular work visa. Employer sponsorship needed, typically requires master's degree + experience.
-
-**问：What education is needed to become a financial product specialist?**
-答：Typically a master's in finance/economics (BAC+5) or engineering diploma. CFA certification is a plus.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

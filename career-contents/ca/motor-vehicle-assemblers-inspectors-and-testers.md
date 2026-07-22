@@ -1,60 +1,96 @@
-# Motor vehicle assemblers, inspectors and testers（Motor vehicle assemblers, inspectors and testers）职业分析 · 加拿大
+# Motor vehicle assemblers, inspectors and testers — career analysis · Canada
 
-**职业代码：94200 – Motor vehicle assemblers, inspectors and testers。**
+**Occupation code: 94200 (NOC)**
 
-Assemble automotive components on production lines, perform final inspections and tests to ensure vehicles meet quality standards.
+Assemble automotive parts on the assembly line, perform final inspections and tests to ensure vehicles meet quality standards.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（高中毕业即可入行） |
-| 汽车装配学徒或职业证书 | 1-2年 | $5,000~$15,000（社区学院或培训中心） |
+| High school diploma | None | $0~$0 (High school graduation is enough to enter the industry) |
+| Automotive assembly apprenticeship or vocational certificate | 1-2 years | $5,000~$15,000 (Community college or training center) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 省级教育部 | 必备 | 最低学历要求 |
-| 汽车装配证书 | 社区学院或行业协会 | 可选 | 非强制但有助于就业 |
+| High school diploma | Provincial Department of Education | Required | Minimum Education Requirement |
+| Automotive assembly certificate | Community colleges or industry associations | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 36,000。受电动汽车转型和自动化影响，传统汽车装配岗位需求缓慢下降，但高端和电动车型的装配仍有一定需求。安大略省和魁北克省为主要就业地区。
+**Job demand: medium (★★★☆☆).** National workforce approx. 36,000. Affected by electric vehicle transition and automation, demand for traditional automotive assembly roles is slowly declining, but assembly of high-end and electric vehicles still has some demand. Ontario and Quebec are the main employment regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 起薪约16-20加元/小时 |
-| 中级（3-7年） | $40,000~$55,000 | 时薪20-28加元 |
-| 高级（7年以上） | $55,000~$70,000 | 含加班可达7万加元 |
+| Median salary | $67,579 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$40,000 | Starting salary approximately C$16-20/hour |
+| Mid-level (3–7 years) | $40,000~$55,000 | Hourly wage CAD 20-28 |
+| Senior (7+ years) | $55,000~$70,000 | With overtime, can reach CAD 70,000 |
+| average salary | $66,560 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从装配工晋升为团队组长、质量检验主管，或通过学徒成为机械/电子技师。部分有经验者可转向汽车维修行业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Vehicle assemblers, inspectors and testers face high automation risk; AI and robots will significantly replace repetitive assembly and inspection tasks, but complex fault diagnosis and final inspection still require human judgment.
+
+Can progress from assembler to team leader, quality inspection supervisor, or become a mechanical/electrical technician through apprenticeship. Some experienced individuals may transition to the automotive repair industry.
+
+**Tasks most exposed to AI:**
+
+- Use a torque wrench to tighten bolts to a specified torque
+- Visually inspect vehicle paint surface for scratches
+- Install interior fittings according to standard procedures
+- Operate conveyor belts for parts movement
+- Record inspection data on paper forms
+
+**Where AI augments the role:**
+
+- AI vision inspection system helps identify tiny defects, improving inspection accuracy
+- AR glasses overlay assembly instructions to reduce human error
+- Predictive maintenance systems notify when equipment servicing is needed
+- Digital twin simulation to optimize production line cycle time
+- Natural language processing generates inspection report summaries
+
+**Human moat:**
+
+- On-site diagnosis and repair of non-standard faults.
+- Customize adjustments for special client orders
+- Multi-sensory comprehensive judgment (e.g., abnormal sounds, tactile sensations)
+- Interpretation authority and final sign-off on quality inspection standards
+- Collaborate with engineers to improve assembly processes
+
+**Skills to build:**
+
+- Industrial robot programming and teaching (e.g., Fanuc, ABB)
+- Machine vision system debugging and maintenance
+- Fundamentals of Data Analysis (Python/SQL)
+- AR/VR-assisted assembly operations
+- Lean production and Six Sigma methodology
+- Digital twin tools (e.g., Siemens Tecnomatix)
+
+**Key growth areas:**
 
 - Electric vehicle transition
 - Automation
@@ -63,69 +99,68 @@ Assemble automotive components on production lines, perform final inspections an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地员工，可申请工签 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安省）可能有制造业类省提名，但需LMIA支持 |
-| Subclass Express Entry（Federal Skilled Worker / Canadian Experience Class） | 一般不符合0/A/B类职业要求，走不通 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must demonstrate inability to recruit local workers, can apply for work visa |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario) may have manufacturing-oriented provincial nominations, but LMIA support is required |
+| Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Generally does not meet 0/A/B occupation requirements, so not feasible. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motor vehicle assemblers, inspectors and testers？**
-- 体力好、耐心细致、能适应重复性工作
-- 对汽车制造有浓厚兴趣，愿意学习装配技术
-- 接受轮班和生产线节奏
-
-**谁不适合学Motor vehicle assemblers, inspectors and testers？**
-- 不喜重复单调工作，追求高薪资和职业发展
-- 体力较弱或无法适应站立工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, patient and meticulous, able to adapt to repetitive work
+- Strong interest in automotive manufacturing, willing to learn assembly techniques
+- Accepting shift work and production line pace
+
+**Who is not suited**
+- Dislikes repetitive and monotonous work, seeks high salary and career development
+- Low physical strength or unable to stand for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the average hourly wage for a motor vehicle assembler?**
+A: Entry-level approx. CAD 16-20/hour, mid-level CAD 20-28/hour, senior including overtime up to CAD 35/hour.
+
+**Q: Can car assemblers immigrate to Canada?**
+A: This occupation is NOC TEER 3 (Skill Level C), generally ineligible for Federal Skilled Worker Program, requiring LMIA work permit or limited provincial nomination opportunities, making immigration more difficult.
+
+**Q: What is the future outlook for this occupation?**
+A: Affected by automation and electric vehicles, demand is slowly declining, but large automotive factories still offer stable roles. It is recommended to learn robot operation or quality inspection to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Motor vehicle assemblers, inspectors and testers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for motor vehicle assemblers?**
-答：Entry-level around CAD 16-20/hr, mid-level CAD 20-28/hr, senior with overtime up to CAD 35/hr.
-
-**问：Can motor vehicle assemblers immigrate to Canada?**
-答：This occupation is NOC TEER 3 (semi-skilled), usually not eligible for Express Entry; immigration is possible via LMIA work permit or some PNP streams, but challenging.
-
-**问：What is the future outlook for this occupation?**
-答：Demand is slowly declining due to automation and EV transition, but stable positions exist at major auto plants. Upskilling in robotics or quality control is recommended.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

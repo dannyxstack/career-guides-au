@@ -1,60 +1,95 @@
-# Team Assemblers（Team Assemblers）职业分析 · 美国
+# Team Assemblers — career analysis · United States
 
-**职业代码：51-2092 – Team Assemblers。**
+**Occupation code: 51-2092 (SOC)**
 
-Team assemblers perform all or most tasks in the product assembly process, rotating through positions, and may participate in management decisions.
+A team assembler completes all or most tasks in product assembly, including participating in management decisions. Typically rotates positions, not a fixed role.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年,高中毕业 | —（免费公立教育） |
-| 短期职业培训 | 6个月至1年 | $1,000~$5,000（社区学院或技校） |
+| High school diploma | 0 years, high school graduate | $0~$0 (Free public education) |
+| Short-term vocational training | 6 months to 1 year | $1,000~$5,000 (community college or trade school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 美国各州教育部 | 必备 | 基本要求 |
-| 入职培训 | 雇主 | 必备 | 通常为期数周的岗位培训 |
+| High school diploma or equivalent | U.S. State Education Departments | Required | Basic requirements |
+| Onboarding training | Employer | Required | Typically several weeks of on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,100,000。美国制造业回暖带动团队装配员需求稳定。自动化可能替代部分重复性工作，但复杂装配仍需人工。预计2023-2033年就业岗位下降约2%，但每年仍有大量新职位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,100,000. US manufacturing recovery drives stable demand for team assemblers. Automation may replace some repetitive tasks, but complex assembly still requires manual work. Employment projected to decline about 2% from 2023 to 2033, but still many new openings annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 入门级薪资 |
-| 中级（3-5年） | $34,000~$42,000 | 中等经验薪资 |
-| 高级（5年以上） | $42,000~$52,000 | 包括团队领导 |
+| Median salary | $38,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$34,000 | Entry-level salary |
+| Mid-level (3–5 years) | $34,000~$42,000 | Mid-level experience salary |
+| Senior (5+ years) | $42,000~$52,000 | Includes team leadership |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级装配员可晋升为团队领导、生产主管或质量检验员。积累经验后转向维修技工或工业机械师，或通过培训成为技术员。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Team assemblers rely heavily on repetitive manual assembly; AI-driven robots and automation systems can efficiently replace core tasks, significantly reducing demand.
+
+Junior assemblers can advance to team leader, production supervisor, or quality inspector. With experience, transition to maintenance technician or industrial mechanic, or through training become a technician.
+
+**Tasks most exposed to AI:**
+
+- Repetitive parts assembly and installation
+- Quality Inspection and Basic Testing
+- Material handling and inventory management
+- Operate simple power tools to complete fixed steps
+- Perform assembly steps according to standard work instructions
+
+**Where AI augments the role:**
+
+- Use augmented reality (AR) glasses to get real-time assembly guidance.
+- Optimize workstation layout and task sequencing with AI
+- Use collaborative robots (cobots) for heavy lifting
+- Using digital twin simulation for assembly processes to reduce trial and error
+- Monitor fatigue and posture via wearable devices and provide alerts
+
+**Human moat:**
+
+- Flexibility to handle non-standard or customized assembly
+- Team collaboration and on-site communication coordination
+- Overall understanding of assembly process and quality judgment
+- Hands-on ability to quickly adapt to product design changes
+- Manual intervention and repair during automation system failures
+
+**Skills to build:**
+
+- Collaborative robot programming and operation
+- Basic knowledge of automated assembly system maintenance
+- Data Analysis and Basic Statistical Process Control
+- Additive manufacturing (3D printing) rapid prototyping
+- Lean production and continuous improvement methodology
+- Use of digital tools such as MES (Manufacturing Execution System).
+
+**Key growth areas:**
 
 - Manufacturing
 - Team Assembly
@@ -63,62 +98,64 @@ Team assemblers perform all or most tasks in the product assembly process, rotat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 团队装配员通常不符合H-1B专业职业要求，雇主较少支持。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals/Unskilled） | EB-3 Other Workers适用于非技术工人，但配额有限，排期长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Team assemblers generally do not meet H-1B professional occupation requirements, with less employer support. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals/Unskilled) | EB-3 Other Workers applies to unskilled workers but has limited quota and long wait times. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Team Assemblers？**
-- 注重动手能力的人
-- 适应重复性工作的人
-- 希望快速进入职场的人
+**Who is suited**
+- Hands-on people
+- People who adapt to repetitive work
+- People looking to enter the workforce quickly
 
-**谁不适合学Team Assemblers？**
-- 寻求高薪资的人
-- 不愿从事体力劳动的人
+**Who is not suited**
+- People seeking high salaries
+- People unwilling to do physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for team assemblers?**
+A: According to BLS data, the median annual salary in 2023 was around $36,000. Entry-level positions range from $28,000 to $34,000, while senior or lead roles can exceed $50,000.
+
+**Q: Can a team assembler immigrate to the U.S. through a work visa?**
+A: Difficult. This occupation typically does not meet H-1B specialty occupation requirements, and EB-3 Other Workers has long backlogs and limited quotas. Employers must prove inability to find local workers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Team Assemblers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for team assemblers?**
-答：According to BLS, median annual wage is about $36,000 in 2023. Entry-level earns $28,000-$34,000, senior or lead can exceed $50,000.
-
-**问：Can team assemblers immigrate to the US via work visa?**
-答：Difficult. This occupation often does not meet H-1B specialty occupation criteria. EB-3 Other Workers has long backlogs and limited quotas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

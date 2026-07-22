@@ -1,60 +1,92 @@
-# Door-to-door Salesperson（Door-to-door Salesperson）职业分析 · IE
+# Door-to-door Salesperson — career analysis · Ireland
 
-**职业代码：5243 – Door-to-door Salesperson。**
+**Occupation code: 5243 (ISCO08)**
 
-Door-to-door salespersons visit residences or businesses to sell products or services such as telecom, energy, or insurance. The occupation is unregulated in Ireland, often self-employed or commission-based, with variable income.
+Door-to-door sales representatives directly visit residences or businesses to promote products or services, such as telecommunications, energy or insurance. This occupation is not regulated in Ireland, and practitioners are typically self-employed or commission-based, with fluctuating income.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无要求 | —（通常无需正式教育，但需英语和沟通能力） |
-| 销售培训课程 | 2-6个月 | $500~$2,000（可选短期销售技巧培训） |
+| High school graduation | No requirements | $0~$0 (Typically no formal education required, but English and communication skills needed) |
+| Sales training courses | 2-6 months | $500~$2,000 (Optional short-term sales skills training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 爱尔兰法律未要求销售员持证，但雇主可能要求背景调查 |
-| 通信销售合规证书 | ComReg | 可选 | 若销售电信服务，需完成消费者保护培训 |
+| No mandatory qualification | None | Optional | Irish law does not require salespeople to hold a license, but employers may require background checks |
+| Communication Sales Compliance Certificate. | ComReg | Optional | If selling telecom services, must complete consumer protection training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。爱尔兰上门销售岗位受电商和数字营销影响呈下降趋势，但能源和电信行业仍有需求。由于高流动率和低门槛，就业机会存在但收入不稳定。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. Door-to-door sales positions in Ireland are declining due to e-commerce and digital marketing, but there is still demand in the energy and telecom sectors. Due to high turnover and low barriers, job opportunities exist but income is unstable.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$25,000 | 通常为低底薪加佣金，年收入可能低于最低工资 |
-| 中级（3-5年） | $25,000~$40,000 | 佣金主导，优秀者收入可达上级 |
-| 高级（5年以上） | $35,000~$60,000 | 团队经理或高业绩者，含佣金和奖金 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $18,000~$25,000 | Typically low base salary plus commission, annual income may be below minimum wage |
+| Mid-level (3–5 years) | $25,000~$40,000 | Commission-based, top performers can earn managerial-level income |
+| Senior (5+ years) | $35,000~$60,000 | Team manager or high performer, including commission and bonuses |
+| average salary | $33,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级销售员可晋升为销售团队负责人或区域经理，也可转向电话销售或零售管理。但职业发展受限于业绩，部分人选择自雇或创立销售代理公司。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Door-to-door salespeople face the dual impact of AI automation: lead screening, call scheduling, and script memorization will be replaced by AI, but interpersonal interaction, trust building, and complex negotiation still require humans—a mixed blessing career.
+
+Junior sales staff can advance to sales team leader or regional manager, or transition to telemarketing or retail management. However, career progression is limited by performance; some choose self-employment or start a sales agency.
+
+**Tasks most exposed to AI:**
+
+- Use AI auto-dialing system to replace pre-visit phone appointments and lead screening
+- AI chatbots replace initial product introductions and FAQ responses
+- AI analyzes customer data to automatically generate personalized sales scripts and recommendations
+- Handle administrative tasks such as order entry and contract generation via AI
+
+**Where AI augments the role:**
+
+- AI analyzes customer micro-expressions and voice tone in real time, helping salespeople adjust communication strategies
+- AI provides customer purchase history and preference predictions to enhance cross-selling capabilities
+- AI automatically records and analyzes sales conversations, providing review and improvement suggestions.
+- AI generates dynamic pricing and promotional strategies to optimize on-site quoting efficiency
+
+**Human moat:**
+
+- Ability to build long-term trust relationships and emotional connections
+- Flexibility to respond to complex objections and negotiations on the spot.
+- Ability to read and respond to non-verbal signals (e.g., body language)
+- Ability to make autonomous decisions and create sales opportunities in unstructured environments
+
+**Skills to build:**
+
+- Proficiency in CRM software (e.g., Salesforce) and customer data analysis tools
+- Learn to use AI-assisted sales platforms (e.g., Conversica, Gong)
+- Improve advanced negotiation skills and emotional intelligence management
+- Master digital marketing fundamentals (social media lead mining)
+- Learn video conferencing and remote presentation tools to expand hybrid sales models
+
+**Key growth areas:**
 
 - Digital transformation
 - Energy switching
@@ -63,65 +95,67 @@ Door-to-door salespersons visit residences or businesses to sell products or ser
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且年薪不低于30000欧元。但上门销售员通常不符合薪资要求，且该岗位不属许可范畴。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高技能和年薪超过一般水平，上门销售员几乎无资格。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in shortage, requiring employer sponsorship and annual salary of at least 30,000 euros. However, door-to-door salespeople typically do not meet the salary requirement, and this role is not within the permitted category. |
+| Subclass EU Blue Card (EU Blue Card) | Requires high skills and an above-average annual salary; door-to-door salespeople are almost never eligible. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Door-to-door Salesperson？**
-- 擅长社交和说服力强的销售人才
-- 能接受佣金制高收入波动者
-- 寻求灵活工作时间和自雇模式的人
+**Who is suited**
+- Sales talent strong in socialising and persuasion
+- Those who can accept high income volatility from commission-based pay
+- People seeking flexible working hours and self-employment models
 
-**谁不适合学Door-to-door Salesperson？**
-- 期望稳定收入和固定工作环境者
-- 不擅长应对拒绝和户外工作的人
+**Who is not suited**
+- Those seeking stable income and a fixed work environment
+- People who are not good at handling rejection and outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of door-to-door salespeople stable?**
+A: Typically base salary is low, income mainly depends on commissions with high fluctuations. Peak season may yield higher income, but off-season may fall below minimum wage.
+
+**Q: Is it easy for door-to-door salespeople to get a work visa for Ireland?**
+A: Extremely difficult. This occupation is not on the skills shortage list, and salaries are usually below the work permit threshold, with very few employer sponsorship opportunities.
+
+**Q: What are the career advancement opportunities?**
+A: Can be promoted from salesperson to sales supervisor, regional manager, or transition to internal sales management. Outstanding individuals can also start their own sales companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Door-to-door Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is income stable for door-to-door salespersons?**
-答：Typically low base salary with most income from commissions, leading to high variability. Peak seasons may yield higher earnings, but off-seasons may fall below minimum wage.
-
-**问：Is it easy to get a work visa for door-to-door sales in Ireland?**
-答：Very difficult. The occupation is not on the critical skills list, and salaries are usually below the permit threshold, making employer sponsorship rare.
-
-**问：What are the advancement opportunities?**
-答：Salespersons can advance to sales supervisor, regional manager, or move into inside sales management. Top performers may become self-employed and start their own sales agencies.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

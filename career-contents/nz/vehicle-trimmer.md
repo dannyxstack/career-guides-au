@@ -1,59 +1,95 @@
-# Vehicle Trimmer（Vehicle Trimmer）职业分析 · 新西兰
+# Vehicle Trimmer — career analysis · New Zealand
 
-**职业代码：324212 – Vehicle Trimmer。**
+**Occupation code: 324212 (ANZSCO)**
 
-Vehicle Trimmers install and repair interior trim in vehicles, including seats, door panels, roofs, and carpets. In New Zealand, this occupation may be eligible for AEWV or Skilled Migrant Category, though ANZSCO skill level 3 means relevant experience or qualifications are usually required.
+Vehicle interior trimmers install and repair interior components of cars, trucks, ships, etc., including seats, door panels, headliners, and carpets. In New Zealand, this occupation can qualify for immigration through the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but note ANZSCO skill level 3, usually requiring relevant work experience or qualifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 国家证书（Level 4） | 3-4年 | $8,000~$12,000（包含学费及材料费，部分学徒制可减免） |
-| 学徒制 | 3-4年 | —（学徒期间边工作边学习，企业通常承担培训费用） |
+| National Certificate (Level 4) | 3-4 years | $8,000~$12,000 (Includes tuition and material fees; some apprenticeships may reduce costs) |
+| Apprenticeship | 3-4 years | $0~$3,000 (During the apprenticeship, you work and study simultaneously, with the employer typically covering training costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家汽车内饰装饰证书（Level 4） | 新西兰技能组织 (SkillNZ) | 必备 | 行业认可证书，通常通过学徒或培训课程获得 |
-| 汽车行业注册（可选） | 新西兰汽车贸易协会 (NZIEA) | 可选 | 非强制，但有助于就业 |
-| 英文能力证明（IELTS 6.0） | 移民局认可 | 可选 | 技术移民要求，若需移民则必须 |
+| New Zealand National Certificate in Automotive Interior Trim (Level 4) | Skills New Zealand (SkillNZ) | Required | Industry-recognized certificate, usually obtained through apprenticeship or training courses |
+| Automotive industry registration (optional) | New Zealand Motor Industry Association (NZIEA) | Optional | Not mandatory, but helpful for employment |
+| English proficiency proof (IELTS 6.0) | Recognised by the Department of Home Affairs | Optional | Skilled migration requirements, mandatory if immigration is sought. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 400。新西兰汽车保有量高，车辆内饰装饰需求稳定，尤其在北岛主要城市如奥克兰和惠灵顿。随着汽车保有量增长和个性化改装趋势，预计就业机会保持平稳。但受经济周期影响，学徒岗位竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 400. New Zealand has high vehicle ownership, stable demand for vehicle interior trimming, especially in main North Island cities like Auckland and Wellington. With growing vehicle ownership and customization trends, employment opportunities expected to remain stable. But affected by economic cycles, apprentice competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 学徒或实习阶段 |
-| 中级（3-6年） | $50,000~$65,000 | 有经验后薪资提升 |
-| 高级（6年以上） | $65,000~$80,000 | 资深技工或主管，可更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Apprenticeship or internship stage |
+| Mid-level (3–6 years) | $50,000~$65,000 | Salary increases with experience |
+| Senior (6+ years) | $65,000~$80,000 | Senior technician or supervisor, can be higher |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展可从学徒或助手起步，积累经验后晋升为高级技工或主管。也可选择专攻豪华车、复古车或船舶内饰等领域，或自主创业开设内饰改装店。部分技工可转入汽车制造或维修管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will lower entry barriers, but advanced customization and restoration still require human skills; the outlook for vehicle interior trimmers is mixed, with some tasks automated and others enhanced by AI tools.
+
+Career development can start as an apprentice or assistant, advancing to senior technician or supervisor after gaining experience. Alternatively, specialize in luxury cars, vintage cars, or marine interiors, or start your own interior modification shop. Some technicians can transition to automotive manufacturing or maintenance management roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI-driven cutting machines for automatic cutting of standard seat covers and carpets.
+- Use computer vision systems to detect interior material defects and automatically mark them
+- Use digital twin software for interior layout simulation to reduce physical prototyping
+- Use robotic arms for repetitive sewing and bonding operations
+- AI-based inventory management system automatically orders and tracks interior materials
+
+**Where AI augments the role:**
+
+- Quickly generate customized interior design plans using AI design tools to improve client communication efficiency.
+- Use augmented reality (AR) headsets to preview interior installation effects, reducing rework.
+- Optimize interior material wear resistance and comfort by analyzing vehicle usage data through AI.
+- Using machine learning models to predict fashion trends, guiding material procurement and design
+- Real-time feedback on installation precision using AI quality inspection systems, assisting manual adjustments
+
+**Human moat:**
+
+- Manual custom fitting and restoration of complex curved and special-shaped interiors
+- Communicate with clients to understand personalized needs and translate them into feasible solutions
+- Ability to dismantle, repair, and restore old or non-standard interiors
+- Perform fine manual operations in confined spaces, such as leather stitching and splicing
+- Judgment of overall interior aesthetics and tactile taste, providing artistic advice
+
+**Skills to build:**
+
+- Proficient in using CAD and 3D modeling software for interior design
+- Mastering programming and operation of AI-assisted cutting and sewing equipment
+- Learn augmented reality (AR) tools for installation previews and customer demonstrations
+- Understanding sustainable materials and eco-friendly interior technologies
+- Enhances customer communication and customized service capabilities.
+- Master basic data analysis and use AI tools to optimize workflow
+
+**Key growth areas:**
 
 - Stable demand
 - Auckland/Wellington hubs
@@ -62,68 +98,67 @@ Vehicle Trimmers install and repair interior trim in vehicles, including seats, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主担保工签，需认证雇主，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需满足ANZSCO技能等级3要求，通常需工作经验或学历，6分制下需雇主加分 |
-| Subclass Green List T2（Green List Tier 2） | 工作2年后转居留，此职业目前不在绿色清单上，但未来可能调整 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, requires accredited employer, can apply for residence after 3 years of work |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, requires meeting ANZSCO Skill Level 3, usually requires work experience or qualification; under the 6-point system, employer sponsorship points needed |
+| Subclass Green List T2 (Green List Tier 2) | Residency after 2 years of work; this occupation is not currently on the Green List but may be adjusted in the future |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle Trimmer？**
-- 喜欢动手操作和手工技艺的人
-- 对汽车内饰和设计有兴趣的人
-- 愿意通过学徒制逐步积累经验的人
-
-**谁不适合学Vehicle Trimmer？**
-- 不喜欢重复性手工工作的人
-- 希望快速获得高薪的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and craftsmanship
+- For those interested in automotive interiors and design.
+- Those willing to gradually gain experience through an apprenticeship
+
+**Who is not suited**
+- People who dislike repetitive manual work
+- Those hoping to quickly secure a high salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for vehicle interior trimmers?**
+A: New Zealand: junior: approximately NZD 40,000-50,000 per year; mid-level: NZD 50,000-65,000; senior: NZD 65,000-80,000. Salary depends on experience and skills; self-employment may yield higher income.
+
+**Q: Can a vehicle interior trimmer immigrate to New Zealand?**
+A: Yes, but usually through Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC) pathways. This occupation is ANZSCO Skill Level 3, requiring relevant work experience or qualifications. It is currently not on the Green List, but may change in the future.
+
+**Q: What qualifications or licenses are required?**
+A: Primarily need to obtain New Zealand National Certificate in Automotive Interior Trimming (Level 4), can be obtained through apprenticeship or training. No mandatory registration, but English proficiency (e.g. IELTS 6.0) helps for immigration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Vehicle Trimmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Vehicle Trimmers in New Zealand?**
-答：Entry-level salary is around NZD 40,000-50,000, mid-level NZD 50,000-65,000, and senior NZD 65,000-80,000 per year. Self-employment can yield higher income.
-
-**问：Can Vehicle Trimmers immigrate to New Zealand?**
-答：Yes, typically through AEWV or Skilled Migrant Category. It's ANZSCO skill level 3, requiring relevant experience or qualifications. Not currently on Green List, but may change.
-
-**问：What qualifications or licenses are required?**
-答：A New Zealand National Certificate in Automotive Trimming (Level 4) is standard, gained via apprenticeship. No mandatory registration, but English (e.g., IELTS 6.0) helps for immigration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

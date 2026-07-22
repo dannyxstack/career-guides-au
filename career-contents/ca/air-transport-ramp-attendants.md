@@ -1,60 +1,93 @@
-# Air transport ramp attendants（Air transport ramp attendants）职业分析 · 加拿大
+# Air transport ramp attendants — career analysis · Canada
 
-**职业代码：74202 – Air transport ramp attendants。**
+**Occupation code: 74202 (NOC)**
 
-Load and unload baggage, cargo, and mail on aircraft, operate ground equipment, and ensure on-time departures. Work in noisy environments with physical labor and strict safety protocols.
+Responsible for loading/unloading luggage, cargo, and mail at airport, operating ground equipment, ensuring flight punctuality. Noisy work environment, requires physical labor and adherence to safety regulations.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常要求高中文凭） |
-| 在职培训 | 数周 | —（雇主提供岗前培训） |
+| High school graduation | None | $0~$0 (Usually requires a high school diploma) |
+| On-the-job training | Several weeks | $0~$500 (Employer provides pre-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 省机动车管理局 | 必备 | 通常需要有效的G类驾照，部分岗位要求空气制动背书 |
-| 安全培训 | 雇主 | 必备 | 包括机场安全、危险品操作等，通常由雇主提供 |
+| Driver's license | Provincial Motor Vehicle Registry | Required | Typically requires a valid Class G driver's license, with some positions requiring air brake endorsement |
+| Safety training | Employer | Required | Includes airport security, dangerous goods handling, etc., usually provided by employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。加拿大航空运输量持续增长，尤其是主要枢纽机场，预计未来几年对地勤人员的需求稳定。该职业受季节性影响较小，就业前景中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Canada's air transport volume continues to grow, especially at major hub airports, with expected stable demand for ground staff in the coming years. This occupation is less affected by seasonality, with moderate employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $32,000~$40,000 | 多为时薪制，约16-20加元/小时 |
-| 中级（2-5年） | $40,000~$50,000 | 时薪20-25加元，含夜班和周末补贴 |
-| 高级（5年以上） | $50,000~$60,000 | 主管或资深员工，时薪25-30加元 |
+| Median salary | $48,589 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $32,000~$40,000 | Mostly hourly wages, about CAD 16-20/hour |
+| Intermediate (2-5 years) | $40,000~$50,000 | Hourly wage $20-25 CAD, including night and weekend shift allowances |
+| Senior (5+ years) | $50,000~$60,000 | Manager or senior staff, hourly wage $25-30 CAD |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从普通装卸工晋升为组长或主管，也可转向货物操作、航班调度等岗位。部分人员通过考取驾驶证或操作证转为设备操作员。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Airport ground staff (aircraft loaders) face significant automation risk; manual labor and simple repetitive tasks are easily replaced by machines, entry barriers are further lowered, and job numbers may shrink.
+
+Can be promoted from general loader to team leader or supervisor, or transition to roles such as cargo operations or flight scheduling. Some obtain licenses or certificates to become equipment operators.
+
+**Tasks most exposed to AI:**
+
+- Manual handling and stacking of luggage and goods.
+- Operation of ground equipment (trailers, conveyor belts)
+- Paper records and verification of flight loading plans.
+- Simple sorting and categorizing of goods in a warehouse
+
+**Where AI augments the role:**
+
+- Receive loading instructions via AR glasses to improve operational accuracy
+- Using automated guidance systems to optimize load balance
+- Use digital twin simulation to improve loading and unloading efficiency
+- Adjust task order in real time through intelligent scheduling system
+
+**Human moat:**
+
+- Handling abnormal situations (lost luggage, sudden delays)
+- Communication and collaboration with crew, dispatch, and passengers
+- Manual assessment of complex loading plans (irregular cargo)
+- Safety supervision and emergency response
+
+**Skills to build:**
+
+- Operate automated loading and unloading equipment
+- Basic Warehouse Management System (WMS)
+- Communication, coordination, and teamwork
+- Safety regulations and emergency response
+- Basic data entry and reporting
+- English communication (for international flights)
+
+**Key growth areas:**
 
 - Air travel recovery
 - Cargo growth
@@ -63,65 +96,67 @@ Load and unload baggage, cargo, and mail on aircraft, operate ground equipment, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地人，通常用于临时外劳，但该职业NOC等级较低，LMIA获批难度较大 |
-| Subclass PNP（Provincial Nominee Program） | 少数省份可能对机场地勤有省提名项目，但通常要求雇主担保，且名额有限 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to hire locally; typically used for temporary foreign workers, but this occupation has a low NOC level, making LMIA approval difficult |
+| Subclass PNP (Provincial Nominee Program) | A few provinces may have provincial nominee programs for airport ground staff, but usually require employer sponsorship and have limited quotas. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air transport ramp attendants？**
-- 身体强壮、能适应户外和体力劳动
-- 喜欢团队合作、注重安全
-- 愿意接受轮班和节假日工作
+**Who is suited**
+- Physically strong, able to adapt to outdoor and manual labor
+- Enjoys teamwork, prioritizes safety
+- Willing to work shifts and on public holidays.
 
-**谁不适合学Air transport ramp attendants？**
-- 不喜体力劳动或嘈杂环境
-- 希望快速获得加拿大永久居民身份者
+**Who is not suited**
+- Dislikes physical labor or noisy environments
+- Those seeking to quickly obtain Canadian permanent residence
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for airport ground staff?**
+A: Junior hourly wage around CAD $16-$20, annual income about CAD $32,000-$40,000; supervisor up to CAD $50,000-$60,000. Night shifts have additional allowances.
+
+**Q: Can this occupation be used for immigration to Canada?**
+A: This occupation has a NOC level of TEER 4, typically not meeting Express Entry requirements. Only available through LMIA employer sponsorship or a few provincial nominee programs; migration pathways are limited.
+
+**Q: What certifications are needed?**
+A: Usually requires only a valid driver's license and employer-provided safety training. Some roles may require air brake endorsement or dangerous goods handling certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Air transport ramp attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for air transport ramp attendants?**
-答：Entry-level hourly wage is around CAD 16-20, annual income CAD 32k-40k; supervisors can earn CAD 50k-60k. Night shift premiums apply.
-
-**问：Can this occupation lead to Canadian immigration?**
-答：This is a TEER 4 occupation, generally ineligible for Express Entry. Only limited pathways via LMIA or some PNP streams, with high difficulty.
-
-**问：What certifications are required?**
-答：Usually a valid driver's license and employer-provided safety training. Some positions may require air brake endorsement or dangerous goods certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

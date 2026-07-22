@@ -1,59 +1,95 @@
-# Chemist（Chemist）职业分析 · 新西兰
+# Chemist — career analysis · New Zealand
 
-**职业代码：234211 – Chemist。**
+**Occupation code: 234211 (ANZSCO)**
 
-Chemists in New Zealand conduct analysis, R&D, and quality control in pharmaceuticals, food, and environmental monitoring. This occupation qualifies for skilled migration via SMC (6-point system) and Green List Tier 1 direct residence, offering favorable immigration prospects.
+Chemists in New Zealand work in analysis, R&D, and quality control, widely employed in pharmaceuticals, food, environmental monitoring, etc. This occupation can apply for residency directly via Skilled Migration (SMC 6-point system) or Green List Tier 1, with good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（每年学费，国际学生） |
-| 硕士 | 1-2年 | $35,000~$50,000（每年学费，国际学生） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition, international students) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Annual tuition, international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学或相关专业学士学位 | 新西兰大学 | 必备 | 最低要求，通常需理学学士 |
-| 新西兰化学学会会员 (NZIC) | 新西兰化学学会 | 可选 | 专业会员资格，非强制但有利 |
-| 雅思学术类 | IELTS | 必备 | 技术移民要求总分6.5以上 |
+| Bachelor's degree in chemistry or related field | New Zealand universities | Required | Minimum requirement, typically a Bachelor of Science |
+| IELTS Academic | IELTS | Required | Skilled migration requires overall score 6.5 or above |
+| New Zealand Institute of Chemistry (NZIC) | New Zealand Institute of Chemistry | Optional | Professional membership, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,700。新西兰化学家就业前景稳定，需求来自环境监测、食品和制药行业。ANZSCO skill level 1，可获技术移民加分。预计年均职位增长约2%，主要集中于奥克兰和坎特伯雷地区。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 2,700. Chemist employment prospects in New Zealand are stable, with demand from environmental monitoring, food, and pharmaceutical industries. ANZSCO skill level 1, eligible for skilled migration points. Estimated average annual job growth of about 2%, mainly in Auckland and Canterbury regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 数据来源于careers.govt.nz |
-| 中级（4-8年） | $75,000~$95,000 | 含注册化学师 |
-| 高级（8年以上） | $100,000~$130,000 | 研发经理或主管 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Data sourced from careers.govt.nz |
+| Mid-level (4–8 years) | $75,000~$95,000 | Including registered chemist. |
+| Senior (8+ years) | $100,000~$130,000 | R&D Manager or Director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级化学家可晋升为高级分析员、实验室主管或研发经理。积累经验后可转向项目管理、法规事务或学术研究。新西兰有专业认证机制（NZIC），有助于职业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI has an overall amplifying effect on chemists: automation accelerates data processing, literature screening, and routine synthesis, but core hypothesis generation, experimental design, cross-departmental collaboration, and dealing with complex system uncertainties still highly depend on humans, with job demand not decreasing but increasing.
+
+Junior chemists can advance to senior analyst, lab manager, or R&D manager. With experience, they can move into project management, regulatory affairs, or academic research. New Zealand has a professional certification mechanism (NZIC) that aids career development.
+
+**Tasks most exposed to AI:**
+
+- Routine spectral/chromatographic data analysis and pattern recognition
+- Automated retrieval and summary generation of literature and patents
+- Standardized repetitive chemical synthesis and purification
+- Batch experiment report and quality control document generation
+- Recipe and process parameter optimization (known chemical space)
+
+**Where AI augments the role:**
+
+- Using AI to simulate chemical reaction pathways for virtual screening, accelerating lead compound discovery
+- Use machine learning to predict compound properties and optimize synthesis routes
+- AI-assisted experimental design (Design of Experiments) improves efficiency
+- Automated data analysis and anomaly detection improves quality control accuracy
+- Multi-source data integration supporting complex environmental chemistry and biological analysis
+
+**Human moat:**
+
+- Creative hypothesis formulation and disruptive innovation thinking
+- Interdisciplinary problem integration (e.g., chemistry with biology, toxicology)
+- Attribution of experimental failures and emergency decision-making for unexpected situations
+- Regulatory compliance judgment and ethical responsibilities (e.g., new drug approval)
+- High-level communication and persuasion with clients/regulatory bodies
+
+**Skills to build:**
+
+- Python/R and cheminformatics libraries (RDKit, PyTorch)
+- Application of machine learning/deep learning in chemistry
+- High-throughput experimental design and automated workstation operation
+- Explainable AI and uncertainty quantification methods
+- Cross-departmental communication and project management
+- Knowledge of industry-specific regulations (GMP, EPA, etc.)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Chemists in New Zealand conduct analysis, R&D, and quality control in pharmaceut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民，满足学历、工作经验和新西兰工作offer可申请 |
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 化学家属于绿色列表第一梯队，可直接申请居留，无工作经验要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若先持工签入境，可通过认证雇主工签工作后转居留 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration; applicants with qualifications, work experience, and a New Zealand job offer may apply. |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Chemists are in the Green List Tier 1, can directly apply for residency with no work experience requirement |
+| Subclass AEWV (Accredited Employer Work Visa) | If entering on a work visa, can transition to residency after working under an accredited employer work visa. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemist？**
-- 化学、生物化学或相关专业毕业生
-- 喜欢实验和分析工作，注重细节
-- 希望利用新西兰绿色清单快速移民的人
-
-**谁不适合学Chemist？**
-- 对重复性实验工作缺乏耐心的人
-- 不喜欢严谨报告和合规要求的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates in chemistry, biochemistry, or related fields
+- Enjoys experimentation and analytical work, attention to detail
+- Those hoping to immigrate quickly via New Zealand's Green List
+
+**Who is not suited**
+- Those lacking patience for repetitive experimental work
+- People who dislike strict reporting and compliance requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a chemist in New Zealand?**
+A: According to Stats NZ, median annual salary for chemists is around NZD 75,000, junior approx. NZD 55,000-70,000, senior up to NZD 130,000+.
+
+**Q: How can chemists immigrate to New Zealand via the Green List?**
+A: Chemist is on the Green List Tier 1, no work experience required; can directly apply for a residence visa with a New Zealand accredited employer offer.
+
+**Q: Is registration with the New Zealand Institute of Chemistry required?**
+A: Not mandatory, but joining NZIC (New Zealand Institute of Chemistry) helps career development and employer recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Chemist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a chemist in New Zealand?**
-答：According to Stats NZ, the median annual salary is around NZD 75,000, with entry-level earning NZD 55,000-70,000 and senior roles up to NZD 130,000+.
-
-**问：How can a chemist immigrate to New Zealand via the Green List?**
-答：Chemists are on the Green List Tier 1, requiring no prior work experience; a job offer from an accredited employer allows direct residence application.
-
-**问：Is registration with the New Zealand Institute of Chemistry required?**
-答：Not mandatory, but membership in NZIC enhances career prospects and employer recognition.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

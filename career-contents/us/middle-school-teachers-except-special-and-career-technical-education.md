@@ -1,59 +1,95 @@
-# Middle School Teachers, Except Special and Career/Technical Education（Middle School Teachers, Except Special and Career/Technical Education）职业分析 · 美国
+# Middle School Teachers, Except Special and Career/Technical Education — career analysis · United States
 
-**职业代码：25-2022 – Middle School Teachers, Except Special and Career/Technical Education。**
+**Occupation code: 25-2022 (SOC)**
 
-Teach one or more subjects to students at middle, intermediate, or junior high school level, designing curricula, assessing student performance, and communicating with parents. Typically requires state teaching license.
+Teaching one or more subjects (e.g., math, science, English, social studies) in US middle or high schools, designing curricula, assessing student performance, and communicating with parents. Typically requires a state teaching license.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（州内公立大学学费通常较低，私立大学较高。） |
-| 硕士学位（可选但常见） | 1-2年 | $15,000~$60,000（许多学区要求或鼓励教师获得硕士学位以提升薪资。） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Public university tuition is usually lower than private universities.) |
+| Master's degree (optional but common) | 1-2 years | $15,000~$60,000 (Many school districts require or encourage teachers to obtain a master's degree for higher pay.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州教师资格证 | 各州教育部门 | 必备 | 通常需要完成认证教师教育项目并通过Praxis等考试。 |
-| 学士学位 | 认证大学 | 必备 | 专业须与教授学科相关，并完成教师培训课程。 |
-| 背景调查 | 州或学区 | 必备 | 所有公立学校教师需通过犯罪背景调查。 |
+| State Teacher License | State education departments | Required | Typically requires completing a certified teacher education program and passing exams like the Praxis. |
+| Bachelor's degree | Accredited university | Required | Major must be related to the subject taught and complete a teacher training course. |
+| Background check | State or school district | Required | All public school teachers must pass a criminal background check. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 638,000。美国劳工统计局预计2022-2032年间就业增长约1%，与所有职业平均水平持平。每年约47,900个职位空缺，主要来自教师退休或转行。需求因地区而异，农村和低收入学区更难招到教师。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 638,000. The US Bureau of Labor Statistics projects employment growth of about 1% from 2022 to 2032, about as fast as the average for all occupations. About 47,900 openings per year, mainly due to teacher retirements or career changes. Demand varies by region; rural and low-income districts find it harder to recruit teachers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起始薪资因学区而异，通常为45,000-55,000美元。 |
-| 中级（4-9年） | $55,000~$70,000 | 有经验教师薪资范围。 |
-| 高级（10年以上） | $70,000~$90,000 | 资深教师或拥有硕士学位的教师薪资更高，部分学区可达95,000美元。 |
+| Median salary | $64,370 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary varies by school district, typically USD 45,000-55,000. |
+| Intermediate (4-9 years) | $55,000~$70,000 | Experienced teacher salary range. |
+| Senior (10+ years) | $70,000~$90,000 | Experienced teachers or those with a master's degree earn higher salaries; some districts may reach $95,000. |
+| average salary | $72,030 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径通常从课堂教师开始，逐步晋升为学科带头人、年级组长、教学指导教练或学校行政人员（如助理校长、校长）。资深教师还可转向课程开发或教育政策领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
+
+Career progression typically starts as a classroom teacher, advancing to head of department, grade-level leader, instructional coach, or school administrator (e.g., assistant principal, principal). Experienced teachers may also move into curriculum development or education policy.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
 
 - Teacher Shortage
 - Rural Demand
@@ -62,65 +98,67 @@ Teach one or more subjects to students at middle, intermediate, or junior high s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于在公立或私立学校担任教师的申请人，需持有学士学位或同等学历。名额受限，需抽签。 |
-| Subclass EB-2（EB-2 Advanced Degree Professional） | 适用于持有硕士及以上学位的教师，通过PERM劳工认证申请绿卡。 |
-| Subclass J-1（J-1 Exchange Visitor (Teacher)） | 文化交流访问教师项目，可在美国任教最多3年，需回国服务两年或申请豁免。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable for teachers in public or private schools, requiring a bachelor's degree or equivalent. Limited quota, must enter a lottery. |
+| Subclass EB-2 (EB-2 Advanced Degree Professional) | Applicable to teachers with a master's degree or higher, applying for a green card through PERM labor certification. |
+| Subclass J-1 (J-1 Exchange Visitor (Teacher)) | Cultural exchange visiting teacher program: can teach in the US for up to 3 years, must return home for two years or apply for a waiver. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Middle School Teachers, Except Special and Career/Technical Education？**
-- 热爱教学和青少年教育，有耐心和沟通能力
-- 希望在稳定且需求稳定的行业工作
-- 愿意在低收入学区或农村地区工作以增加移民机会
-
-**谁不适合学Middle School Teachers, Except Special and Career/Technical Education？**
-- 不擅长与青少年或家长沟通的人
-- 对薪资增长缓慢和职业晋升有限感到不满的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and youth education, with patience and communication skills
+- Wanting to work in a stable industry with consistent demand
+- Willing to work in low-income school districts or rural areas to increase immigration opportunities
+
+**Who is not suited**
+- People who are not good at communicating with teenagers or parents
+- For those dissatisfied with slow salary growth and limited career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a middle school teacher in the U.S.?**
+A: According to BLS 2023 data, the median annual salary for secondary school teachers is about US$61,810, but pay varies significantly by school district, state, experience, and education level.
+
+**Q: How can foreign teachers immigrate to the US?**
+A: Common pathways include the H-1B work visa (requires a bachelor's degree and employer sponsorship) and the J-1 exchange teacher program. Afterwards, permanent residence can be obtained through EB-2 or EB-3 green cards, requiring PERM labor certification.
+
+**Q: What are the career development opportunities for secondary school teachers?**
+A: Teachers can be promoted to subject leaders, grade leaders, instructional coaches, curriculum specialists, or school administrators (e.g., vice principals, principals). Advanced degrees facilitate promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Middle School Teachers, Except Special and Career/Technical Education的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for middle school teachers in the US?**
-答：According to BLS 2023 data, the median annual wage for middle school teachers is about $61,810, but salaries vary significantly by district, state, experience, and education level.
-
-**问：How can foreign teachers immigrate to the US?**
-答：Common paths include H-1B work visa (requires bachelor's degree and employer sponsorship) and J-1 exchange teacher program. Permanent residency via EB-2 or EB-3 green card requires PERM labor certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Mathematical Science Teachers, Postsecondary（Mathematical Science Teachers, Postsecondary）职业分析 · 美国
+# Mathematical Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1022 – Mathematical Science Teachers, Postsecondary。**
+**Occupation code: 25-1022 (SOC)**
 
-Teach courses in mathematical concepts, statistics, and actuarial science at the postsecondary level, combining instruction and research.
+Teach mathematics, statistics, and actuarial science courses at universities, combining teaching and research to develop mathematical application skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $100,000~$250,000（含学费及生活费，公立大学相对较低） |
-| 硕士学位 | 2年 | $40,000~$100,000（仅部分社区学院要求硕士，博士为主流） |
+| Doctoral degree (PhD) | 5-7 years | $100,000~$250,000 (Includes tuition and living expenses; public universities relatively lower) |
+| Master's degree | 2 years | $40,000~$100,000 (Only some community colleges require a master's; PhD is mainstream) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 数学、统计或相关领域，需包含教学或研究经历 |
-| 教师资格认证 | 州教育委员会 | 可选 | 部分社区学院要求，非强制 |
+| Doctoral degree (PhD) | University | Required | Mathematics, statistics, or related field, must include teaching or research experience |
+| teacher certification | State Board of Education | Optional | Required by some community colleges, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 54,610。预计2023-2033年就业增长约5-10%，受高等教育入学人数及STEM教育推动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 54,610. Projected employment growth of 5-10% from 2023-2033, driven by higher education enrolment and STEM education.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理教授或讲师，社区学院较低 |
-| 中级（4-7年） | $70,000~$100,000 | 副教授，含研究经费 |
-| 高级（8年以上） | $95,000~$150,000 | 正教授，含终身教职 |
+| Median salary | $79,940 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Assistant Professor or Lecturer, lower at community colleges |
+| Mid-level (4-7 years) | $70,000~$100,000 | Associate Professor, including research funding |
+| Senior (8+ years) | $95,000~$150,000 | Full professor, including tenure |
+| average salary | $91,550 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从讲师晋升至副教授、教授，部分转向科研或行政岗位，需持续发表学术成果。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Progress from lecturer to associate professor, professor; some transition to research or administrative roles, requiring continuous academic publications.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - STEM Education
 - Online Learning
@@ -61,65 +97,64 @@ Teach courses in mathematical concepts, statistics, and actuarial science at the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation Visa） | 最常见工作签证，需大学担保，配额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 高等学位或杰出能力绿卡，需PERM劳工证 |
-| Subclass O-1（Extraordinary Ability Visa） | 适用于杰出研究人员，需证明国际声誉 |
+| Subclass H-1B (Specialty Occupation Visa) | Most common work visa, requires university sponsorship, limited quota. |
+| Subclass EB-2 (Employment-Based Second Preference) | Green card for advanced degree or exceptional ability, requiring PERM labor certification |
+| Subclass O-1 (Extraordinary Ability Visa) | Applicable for outstanding researchers, need to prove international reputation |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mathematical Science Teachers, Postsecondary？**
-- 热爱数学与教学
-- 偏好学术研究环境
-- 适应竞争性学术就业市场
-
-**谁不适合学Mathematical Science Teachers, Postsecondary？**
-- 追求高薪者
-- 偏好非学术职业路径
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about mathematics and teaching
+- Preference for academic research environment
+- Adapting to the competitive academic job market
+
+**Who is not suited**
+- Those seeking high salaries
+- Preference for non-academic career paths
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level?**
+A: Entry-level about $55k-$75k, senior professor can reach $150k+, community college lower.
+
+**Q: Are H-1B visas common?**
+A: Common; university-sponsored H-1B exempt from lottery but limited in number; EB-2 green card also possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mathematical Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range?**
-答：Junior $55k-$75k, senior professor up to $150k+, lower at community colleges.
-
-**问：Is H-1B common?**
-答：Yes, universities sponsor cap-exempt H-1B but with limited slots; EB-2 green card also possible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

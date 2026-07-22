@@ -1,58 +1,92 @@
-# Shoemaking and Related Machine Operators（Shoemaking and Related Machine Operators）职业分析 · IT
+# Shoemaking and Related Machine Operators — career analysis · Italy
 
-**职业代码：8156 – Shoemaking and Related Machine Operators。**
+**Occupation code: 8156 (ISCO08)**
 
-Operate and maintain shoemaking machines to produce shoe components and finished products, forming the backbone of Italy's footwear industry.
+Operate and maintain shoe-making machines to produce shoe components and finished products; a foundational workforce in the Italian footwear industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训课程 | 1年 | $2,000~$5,000（公立职业学院或私人培训机构） |
-| 高中文凭+实习 | 3年 | —（技术高中（Istituto Tecnico）加学徒制） |
+| Vocational training courses | 1 year | $2,000~$5,000 (Public vocational colleges or private training institutions) |
+| High school diploma + internship | 3 years | $0~$1,000 (Technical high school (Istituto Tecnico) plus apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书（Qualifica Professionale） | 大区认可的培训机构 | 可选 | 证明基本操作能力 |
-| 安全培训证书 | 雇主或安全机构 | 必备 | 操作机器必备 |
+| Safety training certificate | Employer or security authority | Required | Machine operation mandatory |
+| Qualifica Professionale | Regionally accredited training institution | Optional | Demonstrate basic operational ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利制鞋业以高端制造著称，但自动化趋势下操作员需求稳定，需适应技术升级。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Italian footwear industry is known for high-end manufacturing, but under automation trends, operator demand remains stable, requiring adaptation to technological upgrades.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含主管或技术员 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual salary before tax, including supervisor or technician |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从机器操作员向技术员或质检员晋升，或转向制版、设计等岗位，需积累经验与技能。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Shoe machine operators face a high risk of automation as repetitive tasks like sewing, cutting, and polishing may be replaced by robots or AI vision systems, but custom repair and machine maintenance still require human judgment.
+
+Advance from machine operator to technician or quality inspector, or transition to pattern making, design, etc., requiring accumulation of experience and skills.
+
+**Tasks most exposed to AI:**
+
+- Shoe upper sewing and splicing (AI vision-guided automatic sewing machines can complete with high precision)
+- Sole bonding and pressing (robot glue application and pressure control are more stable)
+- Leather or fabric cutting (AI-optimised nesting and laser cutting replace manual labour)
+- Quality inspection (computer vision for automated defect detection)
+- Simple machine operation and loading/unloading (automated loading/unloading systems)
+
+**Where AI augments the role:**
+
+- Customization of complex shoe styles (AI-assisted design quickly generates drawings, operator adjusts parameters)
+- Machine debugging and maintenance (AI predictive maintenance system provides fault diagnosis suggestions)
+- Production process optimization (AI analyzes data to propose improvements, operators implement them)
+- Personalized consultation (AI-recommended plans, operator manually adjusts details)
+
+**Human moat:**
+
+- Fine manual craftsmanship (e.g., top-tier leather goods hand-stitching, intricate carving)
+- Machine fault diagnosis and repair (requiring tactile feel and experience)
+- Client communication and customized services (understanding needs, providing advice)
+- Trial production judgment for new materials and processes (intuition when data is insufficient)
+
+**Skills to build:**
+
+- Automation equipment programming and debugging (e.g., PLC, robot offline programming)
+- Use of AI-assisted design software (e.g., CAD/Rhinoceros with generative AI tools).
+- Data analysis and process optimisation (basic Python/Excel, statistical process control)
+- Machine vision system basics (camera calibration, image inspection knowledge)
+- Material science knowledge (properties and process parameters of new shoe materials)
+- Cross-role collaboration skills (communicating with designers and engineers)
+
+**Key growth areas:**
 
 - Footwear manufacturing
 - Automation
@@ -61,68 +95,67 @@ Operate and maintain shoemaking machines to produce shoe components and finished
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi（Decreto Flussi Work Visa） | 非欧盟工人配额工作签证，适用于制造业季节性劳动力。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，薪资需达到门槛（约28,000欧元），制鞋操作员通常不达标。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主担保的工作许可，需证明无法在欧盟内招聘。 |
+| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Quota work visa for non-EU workers, applicable to seasonal labor in the manufacturing industry. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, salary must meet the threshold (approx. 28,000 euros); shoe operators typically do not qualify. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer-sponsored work permit, must prove inability to recruit within the EU. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shoemaking and Related Machine Operators？**
-- 动手能力强、有耐心、能适应重复性工作的人
-- 对制鞋工艺感兴趣，愿意在工业环境中工作
-- 接受基础职业培训即可上岗，无需高学历
-
-**谁不适合学Shoemaking and Related Machine Operators？**
-- 追求高薪或快速晋升的人
-- 不喜欢机械或体力劳动的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with strong hands-on skills, patience, and ability to adapt to repetitive work
+- Interested in shoemaking processes and willing to work in an industrial environment
+- Accept basic vocational training to get started, no higher education required
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who dislike mechanical or manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a shoe machine operator?**
+A: Italian footwear operator annual salary approx. €18,000-35,000, lower for junior, higher for senior or supervisor.
+
+**Q: How can non-EU citizens obtain a work visa for this occupation?**
+A: Mainly through Decreto Flussi quota work visa or employer-sponsored Nulla Osta. EU Blue Card is not applicable because the salary does not reach the threshold.
+
+**Q: Does this career have growth prospects?**
+A: Due to automation, entry-level operational roles are declining, but technical maintenance, quality inspection, and other positions still have demand. It is advisable to learn more skills to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Shoemaking and Related Machine Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for shoemaking machine operators?**
-答：Annual salary in Italy ranges from €18,000 to €35,000, with senior roles or supervisors earning more.
-
-**问：How can non-EU citizens obtain a work visa for this occupation?**
-答：Mainly through Decreto Flussi quota visa or employer-sponsored Nulla Osta. EU Blue Card is not applicable as salary is below threshold.
-
-**问：Does this occupation have good career prospects?**
-答：Automation reduces entry-level jobs, but demand for technicians and quality control remains. Upskilling is recommended.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

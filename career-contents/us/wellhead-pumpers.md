@@ -1,62 +1,98 @@
-# Wellhead Pumpers（Wellhead Pumpers）职业分析 · 美国
+# Wellhead Pumpers — career analysis · United States
 
-**职业代码：53-7073 – Wellhead Pumpers。**
+**Occupation code: 53-7073 (SOC)**
 
-Operate power pumps and auxiliary equipment to produce flow of oil or gas from wells in oil field.
+Operate power pumps and auxiliary equipment in oil fields to extract oil or natural gas from wells.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业学校或社区学院课程 | 1-2年 | $5,000~$20,000（涉及机械维修、油气生产等） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational school or community college courses | 1-2 years | $5,000~$20,000 (Involves mechanical repair, oil and gas production, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 美国州立教育机构 | 必备 | 基本入职要求 |
-| 油气生产证书（可选） | 私人培训机构或社区学院 | 可选 | 增强竞争力 |
-| 安全培训证书（如H2S、防坠落） | OSHA或企业培训 | 必备 | 多数雇主要求 |
-| 商业驾驶执照（CDL） | 州机动车辆管理局 | 可选 | 有时需要驾驶油田车辆 |
+| High school diploma | US state educational institutions | Required | Basic entry requirements |
+| Safety training certificates (e.g., H2S, fall prevention) | OSHA or corporate training | Required | Most employers require |
+| Oil and gas production certificate (optional) | Private training organizations or community colleges | Optional | Enhance competitiveness |
+| Commercial Driver's License (CDL) | State motor vehicle department | Optional | Sometimes required to drive oilfield vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,200。随着页岩油开采技术的持续发展，美国国内油气产量保持稳定，但自动化设备普及可能影响就业增长。预计2023-2033年就业变化约为-4%至2%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,200. With the continued development of shale oil extraction technology, US domestic oil and gas output remains stable, but automation adoption may affect employment growth. Employment change is projected between -4% and 2% from 2023-2033.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 入门级操作员 |
-| 中级（3-7年） | $50,000~$65,000 | 有经验的操作员 |
-| 高级（7年以上） | $68,000~$82,000 | 高级操作员或主管 |
+| Median salary | $69,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Entry-level operator |
+| Mid-level (3–7 years) | $50,000~$65,000 | Experienced operator |
+| Senior (7+ years) | $68,000~$82,000 | Senior operator or supervisor |
+| average salary | $70,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：不确定（★★☆☆☆）。** 通常从初级操作员起步，积累经验后可晋升为高级泵工或井场主管，部分人转向油田维护或设备管理岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Operational tasks for wellhead pump operators (e.g., adjusting valves, monitoring pressure) are being replaced by automated control systems and AI predictive maintenance, posing significant risk, but on-site emergency judgment still relies on humans.
+
+Typically start as a junior operator, with experience can advance to senior pump operator or well site supervisor, and some move into oilfield maintenance or equipment management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine pump operation and valve adjustment (replaced by automated control systems)
+- Pressure and flow monitoring (replaced by AI sensors and remote monitoring systems)
+- Routine equipment inspection (replaced by drones and autonomous inspection robots)
+- Production data recording and report generation (AI automated collection and generation)
+- Simple troubleshooting (replaced by AI diagnostic systems)
+
+**Where AI augments the role:**
+
+- AI predictive maintenance notifications improve fault warning capabilities
+- Remote monitoring center assists in optimizing pumping efficiency
+- Data analysis tools help identify production bottlenecks
+- Digital twin simulation for training and drills
+- Augmented reality (AR) assists complex repair guidance
+
+**Human moat:**
+
+- On-site judgment and emergency response in urgent situations
+- Intuitive and experience-based diagnosis of complex mechanical faults
+- Collaboration and communication with other on-site workers
+- Adaptive operations to wellhead environmental changes
+- Proficient execution of compliance and safety procedures
+
+**Skills to build:**
+
+- Industrial IoT platform operation (e.g., SCADA)
+- Basic data analysis and report interpretation
+- Python or scripting languages for automation assistance
+- Use of AI diagnostic tools (e.g., predictive maintenance software)
+- Safety compliance and emergency drill upgrades
+- Cross-disciplinary mechanical and electrical repair skills.
+
+**Key growth areas:**
 
 - Oil field
 - Automation
@@ -65,64 +101,66 @@ Operate power pumps and auxiliary equipment to produce flow of oil or gas from w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性或临时性工作签证，但油田岗位通常非临时，较少使用。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal or temporary work visas, but oilfield positions are usually not temporary and are rarely used. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wellhead Pumpers？**
-- 喜欢户外、体力工作，不介意偏远地区
-- 具备机械动手能力，愿意从事重复性操作
-- 能适应倒班和恶劣天气
+**Who is suited**
+- People who enjoy outdoor, manual work and don't mind remote areas
+- Possess mechanical hands-on ability and willingness to engage in repetitive operations
+- Able to adapt to shift work and harsh weather
 
-**谁不适合学Wellhead Pumpers？**
-- 不喜欢异味、灰尘和嘈杂环境
-- 无法长时间站立或从事重体力劳动
+**Who is not suited**
+- Dislikes strong odors, dust, and noisy environments
+- unable to stand for long periods or perform heavy manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a wellhead pumper?**
+A: According to BLS data, the 2023 median annual salary is about $54,000, with experienced workers reaching over $80,000.
+
+**Q: Can wellhead pumpers immigrate to the US through skilled migration?**
+A: This occupation is usually not on skilled migration lists, making employer sponsorship difficult. H-1B visas require a university degree, while this occupation typically only requires high school education. H-2B temporary work visa possibilities are low.
+
+**Q: What are the promotion paths for wellhead pumpers?**
+A: Can advance to oilfield equipment supervisor, production supervisor, or through training become a maintenance technician, drilling operator, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 不确定（★★☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Wellhead Pumpers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for wellhead pumpers?**
-答：According to BLS, median annual wage in 2023 was about $54,000; experienced workers can earn over $80,000.
-
-**问：Can wellhead pumpers immigrate to the US through skilled migration?**
-答：This occupation is not typically on skilled migration lists; employer sponsorship is difficult. H-1B visa requires a bachelor's degree, while the job only needs high school. H-2B temporary visa is unlikely.
-
-**问：What are the career advancement opportunities for wellhead pumpers?**
-答：Can advance to field supervisor, production foreman, or transition to maintenance technician, drilling operator with training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

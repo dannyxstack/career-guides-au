@@ -1,58 +1,89 @@
-# Electronic Equipment Mechanics and Repairers（Electronic Equipment Mechanics and Repairers）职业分析 · ES
+# Electronic Equipment Mechanics and Repairers — career analysis · Spain
 
-**职业代码：7531 – Electronic Equipment Mechanics and Repairers。**
+**Occupation code: 7531 (CNO)**
 
-Diagnose, repair, and maintain various electronic devices, including household appliances, industrial control systems, and communication equipment.
+Responsible for diagnosing, repairing, and maintaining various electronic devices, such as household appliances, industrial control systems, and communication equipment, ensuring their normal operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立学校费用低，私立较高） |
-| 高等职业教育（FP Grado Superior） | 2年 | $600~$3,000（学费加材料费） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public schools have lower fees, while private ones have higher fees) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $600~$3,000 (Tuition plus material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子维修技术员证书（Certificado de Profesionalidad） | 西班牙就业与社会保障部（SEPE） | 可选 | 可证明技能，非强制但有利就业 |
-| FP电子维修学位 | 公立或私立职教中心 | 可选 | 多数雇主优先考虑 |
+| Electronic Maintenance Technician Certificate (Certificado de Profesionalidad) | Spanish Ministry of Employment and Social Security (SEPE) | Optional | Proof of skill, non-mandatory but beneficial for employment |
+| FP degree in electronic maintenance | Public or private vocational education centers | Optional | Most employers prefer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。西班牙电子设备维修需求稳定，受数字化转型和电子废弃物管理法规推动。可再生能源、自动化领域增岗，但竞争普通，需持续更新技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. Spain's demand for electronic equipment repair is stable, driven by digital transformation and electronic waste management regulations. Jobs are increasing in renewable energy and automation sectors, but competition is moderate and skills need to be continuously updated.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，依公司规模浮动 |
-| 中级（3-7年） | $22,000~$28,000 | 含奖金和加班费 |
-| 高级（7年以上） | $28,000~$35,000 | 技术主管或自雇可达更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary fluctuates according to company size |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including bonuses and overtime pay |
+| Senior (7+ years) | $28,000~$35,000 | Technical directors or self-employed can reach even higher levels |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为技术主管或开设维修店。通过考取电子工程学位或专业认证，可转向更高端领域如工业自动化或可再生能源系统维护。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation has mixed impact on motor vehicle electronic equipment installers and repairers: diagnostic and configuration tasks can be AI-enhanced, but physical installation and complex troubleshooting still rely on humans; entry-level positions narrow due to standardized diagnostic tools, but demand for advanced repairs increases.
+
+You can be promoted to technical supervisor or open a repair shop. By earning a degree in electronic engineering or professional certification, you can move into more advanced fields such as industrial automation or renewable energy system maintenance.
+
+**Tasks most exposed to AI:**
+
+- Using standard diagnostic tools such as OBD-II scanners for code reading and initial fault diagnosis
+- Configure and set parameters for routine electronic devices according to preset procedures
+- Answer common user questions via voice or text interface (e.g., equipment operation guides)
+
+**Where AI augments the role:**
+
+- AI-assisted complex fault diagnosis: analyzing historical data and circuit diagrams to locate rare issues
+- Real-time AR/VR maintenance guidance: overlays disassembly steps and wiring diagrams on the actual vehicle
+- Predictive maintenance planning: recommend equipment servicing in advance based on vehicle data
+- Intelligent analysis of customer needs: quickly recommend compatible electronic device solutions
+
+**Human moat:**
+
+- Physical installation and wiring: involves fine manual tasks like removing car interior trim and customizing harnesses
+- Non-standard modifications: installing personalized electronic devices on special or older vehicle models
+- Emergency on-site repair: quickly diagnose and fix anomalies under limited conditions
+- Client communication and satisfaction: explain technical issues and manage expectations
+
+**Skills to build:**
+
+- Proficiency in using AI diagnostic tools and interpreting raw data
+- Learn in-vehicle networks (CAN/LIN) and basic software programming.
+- Obtain advanced electronic repair certification (e.g., ASE L1)
+- Enhance communication and customer service skills to meet high-end modification needs
+- Learn the operation and maintenance of AR/VR-assisted repair systems
+
+**Key growth areas:**
 
 - Electronics Repair
 - Industrial Automation
@@ -61,68 +92,67 @@ Diagnose, repair, and maintain various electronic devices, including household a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Persons） | 需西班牙公司担保，适用于有雇主合同的电子维修技术员。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位（如高级工程师），需大学学历或5年经验，薪资门槛约34000欧元。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留并寻找工作，需证明有足够资金。 |
+| Subclass Cuenta ajena (Work Permit for Employed Persons) | Requires a Spanish company sponsor, applicable to electronic repair technicians with employer contracts. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions (such as senior engineers), requiring a university degree or 5 years of experience, with a salary threshold of about 34,000 euros. |
+| Subclass Busqueda empleo (Job Search Visa) | To reside in Spain and look for work, you must prove sufficient funds. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronic Equipment Mechanics and Repairers？**
-- 喜欢动手维修电子设备的人
-- 有电子理论基础并愿意持续学习新技术的技术人员
-- 追求稳定就业且不介意偶尔加班者
-
-**谁不适合学Electronic Equipment Mechanics and Repairers？**
-- 不擅长手工精细操作或对电子无兴趣者
-- 期望快速高薪或拒绝轮班制者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys repairing electronic devices
+- Technicians with a foundation in electronic theory and a willingness to continuously learn new technologies
+- Those seeking stable employment and not minding occasional overtime
+
+**Who is not suited**
+- Those who are not skilled in fine manual operations or have no interest in electronics
+- Those who expect fast high salaries or refuse shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for electronic repair technicians in Spain?**
+A: Entry-level salaries are about 18,000-22,000 euros per year, intermediate salaries 22,000-28,000 euros, and seniors up to 35,000 euros, depending on the city and company size.
+
+**Q: How can non-EU citizens immigrate to Spain through this employment?**
+A: Applications can be made through the Spanish company-sponsored employment residence (Cuenta ajena); If you meet the requirements for a high salary (about €34,000) and education/experience, you can apply for an EU Blue Card.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually, FP Grado Medio or Superior (Electronic Repair Direction), or a vocational training certificate, are required. Some positions accept relevant work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electronic Equipment Mechanics and Repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for electronic equipment repairers in Spain?**
-答：Entry-level: €18,000-22,000/year; mid-level: €22,000-28,000; senior: up to €35,000, depending on location and company size.
-
-**问：How can non-EU citizens migrate to Spain through this occupation?**
-答：They can apply for a work permit (Cuenta ajena) with a job offer; or an EU Blue Card if they meet salary threshold (€34k) and have a degree/5 years experience.
-
-**问：What education is required for this occupation?**
-答：Typically a vocational training degree (FP Grado Medio/Superior) in electronics repair, or a professional certificate. Some roles accept relevant work experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

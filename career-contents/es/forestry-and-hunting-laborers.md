@@ -1,61 +1,95 @@
-# Forestry and Hunting Laborers（Forestry and Hunting Laborers）职业分析 · ES
+# Forestry and Hunting Laborers — career analysis · Spain
 
-**职业代码：9543 – Forestry and Hunting Laborers。**
+**Occupation code: 9543 (CNO)**
 
-Forestry and hunting laborers perform tasks such as tree planting, logging, fire prevention, and assisting in hunting activities, with stable demand in Spain's rural and forested areas.
+Forestry and hunting workers are responsible for forest planting, logging, fire prevention, and assisting with hunting activities. There is stable demand in Spain's forestry and rural areas, and the work environment is mostly outdoors.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育后职业培训 | 无强制要求，通常初中毕业 | —（短期培训课程费用） |
-| FP Grado Medio森林管理 | 2年 | $500~$2,000（公立FP学费低，材料费另计） |
+| Post-compulsory education vocational training | There are no mandatory requirements; usually, they graduate from junior high school | $0~$500 (Short-term training course fees) |
+| FP Grado Medio Forest Management | 2 years | $500~$2,000 (Public FP tuition is low, with additional material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业安全培训证书 | 西班牙劳动与社会经济部认可机构 | 可选 | 部分企业要求，非国家强制 |
-| 链锯操作许可证 | 自治区劳动部门 | 必备 | 操作链锯等高危工具时需持有 |
-| 狩猎执照 | 自治区环境部门 | 必备 | 参与狩猎活动辅助需持有 |
+| Chainsaw operation license | Labor Department of the Autonomous Region | Required | Carry it when operating high-risk tools such as chainsaws |
+| Hunting license | Autonomous Region Environmental Department | Required | Required to assist in hunting activities |
+| Forestry safety training certificate | Recognized by the Spanish Ministry of Labor and Social Economy | Optional | Some companies require it, not mandatory by the state |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。西班牙林业受欧盟环境保护政策和农村发展计划支持，就业相对稳定但受季节影响大。2023-2027年林业部门预计保持1%-2%年增长率，但数字化和机械化可能减少低技能岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 25,000. Spanish forestry is supported by EU environmental protection policies and rural development plans, with relatively stable employment but heavily affected by seasons. From 2023 to 2027, the forestry sector is expected to maintain an annual growth rate of 1%-2%, but digitalization and mechanization may reduce low-skilled jobs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 季节性全职，按合同期 |
-| 中级（3-7年） | $20,000~$25,000 | 含加班和津贴 |
-| 高级（7年以上/工头） | $25,000~$30,000 | 含管理职责 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Seasonal full-time, based on contract term |
+| Mid-level (3–7 years) | $20,000~$25,000 | Including overtime and allowances |
+| Senior (7+ years/foreman) | $25,000~$30,000 | Includes management responsibilities |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 工人可通过经验晋升为林业机械操作员、狩猎向导或森林工头。参加FP森林资源管理课程可转向技术岗位，或通过考试进入林业警察等公共部门。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI struggles to replace outdoor physical strength and judgment, but as an amplifier, it can improve efficiency and provide stable employment prospects. Spain faces a significant labor gap in forestry and hunting, and AI assistance will enhance rather than eliminate jobs.
+
+Workers can be promoted through experience to become forestry machinery operators, hunting guides, or forest foremen. Attending FP Forest Resource Management courses can lead to technical positions or pass exams to enter public sectors such as forestry police.
+
+**Tasks most exposed to AI:**
+
+- Manual patrol and fire monitoring (replaced by drone/satellite AI)
+- Logging routes and logging planning (replaced by algorithmic optimization)
+- Basic data recording and reporting (replaced by automatic sensor logs)
+- Simple hunting license check (replaced by AI image recognition)
+
+**Where AI augments the role:**
+
+- Using drones + AI to identify pests, diseases, and fire risk points, improving inspection efficiency
+- With GIS+AI, we plan optimal planting and harvesting routes to reduce fuel consumption
+- By analyzing historical data with AI, it predicts animal migration during hunting seasons and increases success rates
+- Use mobile apps to automatically record work logs, reducing paperwork time
+- AI-assisted training for new workers to simulate emergency scenarios (such as firefighting and rescue)
+
+**Human moat:**
+
+- On-site judgment and safety decision-making capabilities under complex terrain and weather conditions
+- Wild animal behavioral intuition and experiential hunting skills
+- Flexible adaptability and communication coordination skills in human-machine collaboration
+- Physical endurance and precision of manual operation (such as manual afforestation and equipment maintenance)
+
+**Skills to build:**
+
+- Drone operation and basic maintenance (including AI analysis software)
+- GIS and field data acquisition systems (such as QGIS, Field Maps)
+- Basic Data Analysis and Digital Recording Tools (Excel, Mobile Forms)
+- Mechanical maintenance and safe operation of power tools (reducing reliance on AI)
+- Wildlife ecology and sustainable hunting management knowledge
+- Emergency decision-making and team collaboration (complementing AI limitations)
+
+**Key growth areas:**
 
 - Sustainable forestry
 - Rural development
@@ -64,62 +98,64 @@ Forestry and hunting laborers perform tasks such as tree planting, logging, fire
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需要西班牙雇主担保，且证明岗位无法在欧盟内填补，难度较高。 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙居留6-12个月寻找工作，但林业岗位流动性大，成功率低。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Sponsorship from a Spanish employer is required, and the position cannot be filled within the EU, which is quite challenging. |
+| Subclass Busqueda empleo (Job search visa) | You can stay in Spain for 6-12 months to find work, but forestry positions have high mobility and low success rates. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Forestry and Hunting Laborers？**
-- 喜欢户外工作和体力劳动的人
-- 适应季节性工作和乡村生活的人
-- 对林业或狩猎有兴趣的初学者
+**Who is suited**
+- People who enjoy outdoor work and physical labor
+- People adapted to seasonal work and rural life
+- Beginners interested in forestry or hunting
 
-**谁不适合学Forestry and Hunting Laborers？**
-- 寻求稳定办公室环境的人
-- 不愿从事高强度体力工作的人
+**Who is not suited**
+- People seeking a stable office environment
+- People unwilling to engage in high-intensity physical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the wage levels for forestry workers?**
+A: Junior workers earn about 16,000–20,000 euros annually, foremen up to 30,000 euros, but this is greatly affected by seasons and contracts.
+
+**Q: Is it easy for foreigners to immigrate to Spain through forestry workers?**
+A: It's not easy. This occupation is not in short supply, requires employer sponsorship and proof that no EU citizens are available, making the immigration pathway more challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Forestry and Hunting Laborers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of forestry workers?**
-答：Entry-level workers earn around €16,000-20,000 per year, while foremen can reach €30,000, affected by season and contract type.
-
-**问：Is it easy for foreigners to immigrate to Spain as forestry workers?**
-答：No. The occupation is not in shortage, requiring employer sponsorship and proof that no EU citizen can fill the position.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

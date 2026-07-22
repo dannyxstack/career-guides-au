@@ -1,59 +1,94 @@
-# Supply, Transport, Distribution and Related Company Directors（Supply, Transport, Distribution and Related Company Directors）职业分析 · ES
+# Supply, Transport, Distribution and Related Company Directors — career analysis · Spain
 
-**职业代码：1315 – Supply, Transport, Distribution and Related Company Directors。**
+**Occupation code: 1315 (CNO)**
 
-Plan, organize, direct and control the activities of companies involved in supply, transportation, storage and distribution to ensure efficient logistics chain operations.
+Senior managers responsible for planning, organizing, directing, and controlling supply, transportation, warehousing, and distribution activities to ensure efficient logistics chain operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$3,000（公立大学学费，私立更高） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（物流或工商管理硕士） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public university tuition; private is higher) |
+| Máster | 1-2 years | $2,000~$12,000 (Logistics or MBA) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物流与运输管理学位 | 西班牙大学 | 可选 | 相关专业本科或硕士 |
-| 危险品运输认证 | 西班牙交通部 | 必备 | 若涉及危险品运输 |
-| CPC运输经理证书 | 西班牙交通部 | 必备 | 公司需有持证经理 |
+| Hazardous materials transportation certification | Spanish Ministry of Transport | Required | If dangerous goods transportation is involved |
+| CPC Transportation Manager Certificate | Spanish Ministry of Transport | Required | The company must have a licensed manager |
+| Logistics and transport management degree | Spanish University | Optional | Bachelor's or master's degree in a related major |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。随着电子商务和国际贸易增长，西班牙物流运输行业持续扩张，对高级管理人才需求稳定。数字化转型和绿色物流趋势将创造新机遇。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. With the growth of e-commerce and international trade, Spain's logistics and transportation industry continues to expand, with stable demand for senior management talent. Digital transformation and green logistics trends will create new opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 小企业或部门经理 |
-| 中级（3-8年） | $70,000~$100,000 | 中型企业总监 |
-| 高级（8年以上） | $100,000~$180,000 | 大型企业CEO或集团高管 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $50,000~$70,000 | Small business or department manager |
+| Mid-level (3–8 years) | $70,000~$100,000 | Director of medium-sized enterprises |
+| Senior (8+ years) | $100,000~$180,000 | CEOs of large enterprises or senior executives of large corporations |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从物流经理、运营经理晋升，积累行业经验后可升任CEO或集团高管。也可转向咨询或创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This profession carries both risks and opportunities: routine scheduling, document review, and other tasks are easily automated by AI, but strategic decision-making, multi-party coordination, and emergency management are hard to replace. AI can enhance data analysis and forecasting capabilities.
+
+Usually, they are promoted from logistics manager or operations manager, and after gaining industry experience, can be promoted to CEO or senior executive of the group. You can also turn to consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate transportation plans and distribution routes
+- Automatically handle inventory replenishment and order entry
+- Review compliance documents and reports
+- Monitor real-time transport status and send alerts
+
+**Where AI augments the role:**
+
+- Use AI for demand forecasting and inventory optimization
+- Simulating supply chain scenarios through digital twins
+- AI-assisted risk assessment and emergency plan formulation
+- Automatically generate data visualization dashboards
+- Intelligent Negotiation Assistance: Analyzes supplier historical data
+
+**Human moat:**
+
+- Cross-departmental and multi-party coordination and negotiation capabilities
+- Unstructured problem handling and crisis management
+- Strategic decision-making and long-term planning
+- Moral judgment and responsibility assumption
+- Lead team change and innovation
+
+**Skills to build:**
+
+- Supply chain data analysis and AI tool applications
+- Fundamentals of Python/SQL data processing
+- Understanding machine learning demand forecasting models
+- Digital twin and simulation software operation
+- Cross-cultural communication and persuasiveness
+- Agile project management methodology
+
+**Key growth areas:**
 
 - Logistics
 - Supply Chain
@@ -62,65 +97,64 @@ Plan, organize, direct and control the activities of companies involved in suppl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，年薪需满足门槛（约3.4万欧元） |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高学历或高管，简化居留流程 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 需雇主担保，适合已有工作offer |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, the annual salary must meet the threshold (approximately €34,000). |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated or senior executives, simplify residency procedures |
+| Subclass Cuenta ajena (Work Permit (employed)) | Employer sponsorship required, suitable for existing job offers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supply, Transport, Distribution and Related Company Directors？**
-- 有物流或供应链管理经验
-- 善于战略规划和团队领导
-- 能适应快节奏和高压环境
-
-**谁不适合学Supply, Transport, Distribution and Related Company Directors？**
-- 缺乏管理经验
-- 不喜欢出差或灵活工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experience in logistics or supply chain management
+- Skilled in strategic planning and team leadership
+- Able to adapt to fast-paced and high-pressure environments
+
+**Who is not suited**
+- Lack of management experience
+- Dislikes business trips or flexible work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for this profession?**
+A: Junior salary: €50,000-70,000 per year; intermediate: €70,000-100,000; senior can reach €100,000-180,000.
+
+**Q: How can foreigners obtain a work visa for this position?**
+A: Eligible for EU Blue Card (approx. annual salary threshold €34,000) or High-Skilled Professional Visa, requiring employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supply, Transport, Distribution and Related Company Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Entry-level 50,000-70,000 EUR, mid-level 70,000-100,000 EUR, senior up to 100,000-180,000 EUR.
-
-**问：How can foreigners get a work visa for this occupation?**
-答：Apply for EU Blue Card (salary threshold ~34,000 EUR) or Highly Skilled Professional visa, requiring employer sponsorship.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

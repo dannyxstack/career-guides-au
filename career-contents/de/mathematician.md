@@ -1,59 +1,94 @@
-# Mathematician（Mathematician）职业分析 · DE
+# Mathematician — career analysis · Germany
 
-**职业代码：4110 – Mathematician。**
+**Occupation code: 4110 (KldB)**
 
-Mathematicians in Germany work across industries on data analysis, modeling, and algorithm development to solve complex mathematical problems.
+German mathematicians primarily work across industries in data analysis, modeling, and algorithm development, solving complex mathematical problems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 3-4年（大学） | —（公立大学基本无学费，仅每学期注册费约150-400欧元） |
-| 硕士学位 | 2年（大学） | —（公立大学基本免费，部分研究生项目收费） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,500 (Public universities have virtually no tuition fees, only a semester registration fee of approx. €150–400) |
+| Master's degree | 2 years (university) | $0~$1,500 (Public universities are mostly free, some postgraduate programs have fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 数学或相关专业学士学位 | 大学 | 必备 | 通常需要数学、经济数学、工程数学等学位 |
-| 硕士学位 | 大学 | 可选 | 对于研究和高级岗位通常要求硕士 |
-| 博士 | 大学 | 可选 | 研究机构和大学职位要求博士 |
+| Bachelor's degree in mathematics or a related field | University | Required | Usually requires a degree in mathematics, engineering mathematics, or similar |
+| Master's degree | University | Optional | Master's degree is usually required for research and senior positions |
+| Doctorate | University | Optional | Research institutions and university positions require a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。数字化和人工智能推动需求增长，尤其在金融、保险、IT和汽车行业。职位稳定，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Digitalization and AI are driving demand growth, especially in finance, insurance, IT, and automotive industries. Jobs are stable with good employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪 |
-| 中级（4-7年） | $55,000~$75,000 | 税前年薪 |
-| 高级（8年以上） | $75,000~$100,000 | 税前年薪 |
+| Median salary | $74,736 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $55,000~$75,000 | Annual pre-tax salary |
+| Senior (8+ years) | $75,000~$100,000 | Annual pre-tax salary |
+| average salary | $79,368 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 晋升路径：初级分析师 → 高级研究员 → 团队负责人/首席数学家。也可转向数据科学、风险管理等管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
+
+Career progression: Junior Analyst → Senior Researcher → Team Leader/Chief Mathematician. Can also move into management roles such as data science or risk management.
+
+**Tasks most exposed to AI:**
+
+- Manual data cleaning and preprocessing, e.g., extracting and standardizing insurance data from legacy systems
+- Generating first drafts of standard actuarial reports and regulatory filings
+- Recurring rate calculations and simple reserve assessments
+- Maintain and run parametric tasks for traditional actuarial models
+
+**Where AI augments the role:**
+
+- Leveraging AI simulations and machine learning models for more precise risk modeling and forecasting
+- Automated sensitivity analysis and scenario testing to quickly assess multivariate impacts
+- Analyzing claims text and contract clauses via natural language processing to improve risk assessment
+- Dynamic pricing models: AI updates pricing strategies in real time, actuaries set rules and boundaries
+- Client and regulatory communication: AI generates visual dashboards; actuary interprets and provides advice
+
+**Human moat:**
+
+- Deep industry knowledge and regulatory compliance understanding of financial products such as insurance and superannuation
+- Professional judgment and ethical decision-making in complex, non-linear risk situations
+- Ability to communicate strategically and explain results to senior management and regulators
+- Creativity and business insight needed when designing innovative insurance products
+- Holistic thinking for interdisciplinary integration (e.g., climate risk, longevity risk)
+
+**Skills to build:**
+
+- Python or R programming for building and deploying AI models
+- Machine learning and statistical modeling (e.g., gradient boosting, neural networks)
+- AI governance and explainability (XAI), ensuring models are compliant and interpretable
+- Data engineering basics (SQL, ETL, cloud platforms like AWS/Azure)
+- Communication and visualization (Tableau/Power BI) and business report writing.
+- Knowledge of actuarial software (e.g., Prophet, AXIS) integration with AI
+
+**Key growth areas:**
 
 - Data Science
 - Artificial Intelligence
@@ -62,68 +97,67 @@ Mathematicians in Germany work across industries on data analysis, modeling, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合年薪超过一定门槛（2023年约5.83万欧元）的数学专业工作，获得快速居留和家庭团聚权利。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 针对有认可学历的数学人才，需获得德国雇主offer，办理居留许可。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明经济能力和相关学历。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for mathematics professionals earning above a threshold (approx EUR 58,300 in 2023), offering fast-track residency and family reunification. |
+| Subclass Skilled Worker (Skilled Worker Visa) | For math talents with recognized qualifications, need a job offer from a German employer and apply for a residence permit. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment; proof of financial means and relevant qualifications required. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mathematician？**
-- 热爱抽象思维和解决复杂问题的人
-- 具有强大逻辑和分析能力的人
-- 希望在金融、IT等行业从事高薪技术工作的人
-
-**谁不适合学Mathematician？**
-- 不喜欢长时间和数字、公式打交道的人
-- 追求动手操作多于理论分析的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy abstract thinking and solving complex problems
+- People with strong logical and analytical skills
+- People seeking high-paying technical jobs in industries such as finance and IT
+
+**Who is not suited**
+- People who dislike working with numbers and formulas for extended periods
+- Those preferring hands-on work over theoretical analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of German mathematicians?**
+A: Entry-level approx. EUR 45,000-55,000, mid-level approx. EUR 55,000-75,000, senior up to EUR 100,000+.
+
+**Q: How can foreigners immigrate to Germany as mathematicians?**
+A: Can be accessed through the EU Blue Card or skilled migration visa. A mathematics-related degree and a job offer are required; gaining German language skills is recommended to increase opportunities.
+
+**Q: What are the main employment industries for mathematicians in Germany?**
+A: Finance, insurance, IT, automotive industry, market research, consulting, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Mathematician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mathematicians in Germany?**
-答：Entry-level: EUR 45,000-55,000; mid-career: EUR 55,000-75,000; senior: up to EUR 100,000+.
-
-**问：How can foreigners immigrate as mathematicians to Germany?**
-答：Via EU Blue Card or Skilled Worker visa. Requires a degree in mathematics and a job offer. German language skills are beneficial.
-
-**问：Which industries employ mathematicians in Germany?**
-答：Finance, insurance, IT, automotive, market research, consulting, etc.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

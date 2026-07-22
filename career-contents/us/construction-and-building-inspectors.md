@@ -1,59 +1,94 @@
-# Construction and Building Inspectors（Construction and Building Inspectors）职业分析 · 美国
+# Construction and Building Inspectors — career analysis · United States
 
-**职业代码：47-4011 – Construction and Building Inspectors。**
+**Occupation code: 47-4011 (SOC)**
 
-Construction and Building Inspectors examine structures to ensure compliance with building codes, regulations, and specifications, assessing structural soundness and safety for residential, commercial, and industrial projects.
+Building inspectors are responsible for inspecting building structures to ensure compliance with building codes, regulations, and construction drawings, assessing structural safety and compliance. Work covers residential, commercial, and industrial projects, typically employed by government agencies or engineering firms.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 大专或副学士 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位（相关领域） | 4年 | $40,000~$120,000（公立大学学费） |
+| Associate degree or diploma | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree (related field) | 4 years | $40,000~$120,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ICC认证（国际规范委员会） | International Code Council | 必备 | 多个专项认证（建筑、电气、管道等），通常要求经验并通过考试 |
-| 建筑相关学位或经验 | 大学或雇主 | 必备 | 通常要求建筑学、土木工程或相关领域学位，或多年施工经验 |
-| 州级检查员执照 | 各州建筑监管部门 | 必备 | 多数州要求执照，条件包括培训、考试和继续教育 |
+| ICC certification (International Code Council) | International Code Council | Required | Multiple specialized certifications (construction, electrical, plumbing, etc.), typically require experience and passing exams |
+| Degree or experience in construction | University or employer | Required | Typically requires a degree in architecture, civil engineering, or a related field, or years of construction experience |
+| State-level inspector license | State building regulatory authorities | Required | Most states require a license, conditions include training, exam, and continuing education |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 117,000。美国劳工统计局预测，2023-2033年该职业就业增长约5%，与所有职业平均增速持平。随着老龄化基础设施翻新和绿色建筑标准普及，需求稳定。但自动化检测技术可能影响低端岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 117,000. The U.S. Bureau of Labor Statistics projects employment growth of about 5% for this occupation from 2023 to 2033, similar to the average for all occupations. Demand is stable due to aging infrastructure renovation and the adoption of green building standards. However, automated inspection technology may affect lower-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$55,000 | 起薪通常来自政府或小型公司 |
-| 中级（4-9年） | $56,000~$75,000 | 经验丰富后薪资显著提升 |
-| 高级（10年以上） | $76,000~$100,000 | 首席检查员或管理岗可达年薪六位数 |
+| Median salary | $74,690 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $42,000~$55,000 | Entry-level salaries typically come from government or small companies |
+| Intermediate (4-9 years) | $56,000~$75,000 | Salary increases significantly after gaining experience |
+| Senior (10+ years) | $76,000~$100,000 | Chief inspector or management roles can reach six-figure annual salaries |
+| average salary | $77,730 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级检查员可通过积累经验晋升为高级检查员、首席检查员或项目经理。持有专业认证（如ICC认证）可提升至管理或咨询岗位。部分人转向建筑规范制定或培训角色。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
+
+Junior inspectors can advance to senior inspector, chief inspector, or project manager through experience. Professional certifications (e.g., ICC certification) can lead to management or consulting roles. Some transition to building code development or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automated review of design drawings for compliance with building codes
+- Use image recognition to automatically mark site defects
+- Generate standard inspection reports and fill templates
+- Predicting high-risk violation areas based on historical data
+
+**Where AI augments the role:**
+
+- AI provides real-time code queries and compliance recommendations, improving inspection accuracy
+- Drones/robots automatically inspect, humans remotely review anomalies
+- AI analyzes construction progress photos and automatically generates discrepancy reports
+- Combining BIM models for virtual pre-inspections to reduce on-site omissions
+- Smart wearable devices record inspection data, automatically archived
+
+**Human moat:**
+
+- Subjective judgment in complex on-site environments (e.g., whether materials are acceptable).
+- Soft skills for communicating with construction parties and mediating disputes
+- Signature authority bearing legal responsibility.
+- Handling unforeseen construction anomalies and safety emergencies
+- Cross-industry experience integration (structural, electrical, fire protection)
+
+**Skills to build:**
+
+- Building Information Modeling (BIM) software operation
+- Data analysis and automated reporting tools (e.g., Python scripts)
+- Drone operation and image processing
+- AI tools in building inspection (e.g., defect detection algorithms)
+- Augmented reality (AR)-assisted on-site inspection
+- Cybersecurity knowledge (protecting smart device data)
+
+**Key growth areas:**
 
 - Infrastructure Renewal
 - Green Building
@@ -62,69 +97,68 @@ Construction and Building Inspectors examine structures to ensure compliance wit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需要专业知识的职位，通常要求学士学位，雇主需证明职位复杂性。配额紧张，需抽签。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 针对拥有高级学位或特殊能力的专业人士，需PERM劳工证。建筑检查员若担任主管或涉及复杂规范可适用。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于技术工人、专业人士或其他工人。常见于有相关学位或经验的检查员，需PERM劳工证。 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大和墨西哥公民，职业需符合NAFTA列表。建筑检查员不在明确列表内，但可尝试以“工程师”或“施工经理”类别申请。 |
+| Subclass H-1B (H-1B Specialty Occupation) | For positions requiring specialized knowledge, usually a bachelor's degree; employers must prove job complexity. Quota limited, lottery required. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For professionals with advanced degrees or special abilities, requires PERM labor certification. Building inspectors in supervisory roles or involving complex codes may apply. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to skilled workers, professionals, or other workers. Common for inspectors with relevant degrees or experience; requires PERM labor certification. |
+| Subclass TN (TN NAFTA Professional) | For citizens of Canada and Mexico, the occupation must be on the NAFTA list. Construction inspectors are not explicitly listed, but may apply under 'Engineer' or 'Construction Manager' categories. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction and Building Inspectors？**
-- 细心且注重细节的人
-- 有建筑或工程背景的人
-- 喜欢户外现场工作的人
-
-**谁不适合学Construction and Building Inspectors？**
-- 不善于人际关系沟通的人
-- 害怕高空或狭窄空间的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and meticulous person
+- People with a background in construction or engineering
+- People who enjoy outdoor fieldwork
+
+**Who is not suited**
+- People not adept at interpersonal communication
+- People afraid of heights or confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for building inspectors?**
+A: Entry-level around $42,000-55,000 US, mid-level $56,000-75,000, senior up to $76,000-100,000. Professional certifications and extensive experience can increase income.
+
+**Q: What is the main pathway for foreign building inspectors to immigrate to the US?**
+A: The most common is the H-1B work visa (needs bachelor's degree), then applying for EB-2 or EB-3 green card. TN visa is only for Canadian and Mexican citizens, but the occupation list is limited.
+
+**Q: What certifications are needed to become a building inspector?**
+A: ICC certification is an industry standard, offering specializations in building, electrical, plumbing, etc. Additionally, most states require a state license, involving exams and continuing education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Construction and Building Inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for construction and building inspectors?**
-答：Entry-level: $42,000-$55,000; mid-level: $56,000-$75,000; senior: $76,000-$100,000. Certifications and experience increase earnings.
-
-**问：What are the main immigration pathways for foreign construction inspectors to the US?**
-答：H-1B visa (requires bachelor's degree) is common, followed by EB-2 or EB-3 green card. TN visa is for Canadian and Mexican citizens but limited by occupation list.
-
-**问：What certifications are needed to become a construction inspector?**
-答：ICC certifications are standard (e.g., building, electrical, plumbing). Most states require a license involving exams and continuing education.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Biologist (Human Biology)（Biologist (Human Biology)）职业分析 · DE
+# Biologist (Human Biology) — career analysis · Germany
 
-**职业代码：4127 – Biologist (Human Biology)。**
+**Occupation code: 4127 (KldB)**
 
-Researcher in human biology, focusing on medical research, drug development, and clinical diagnostics to prevent and treat diseases.
+Study the biological mechanisms of the human body, engage in basic medical research, drug development, or clinical diagnostic analysis to provide scientific basis for disease prevention and treatment.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | —（公立大学仅收学期费） |
-| 硕士 | 2年 | —（公立大学仅收学期费） |
-| 博士 | 3-5年 | —（博士职位通常带薪） |
+| Bachelor's degree | 3 years | $0~$1,500 (Public universities charge only semester fees.) |
+| Master's degree | 2 years | $0~$1,500 (Public universities charge only semester fees.) |
+| Doctorate | 3-5 years | $0~$500 (PhD positions are usually paid/salaried) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学或相关专业硕士学位 | 大学 | 必备 | 通常要求硕士以上学历 |
-| 博士学历 | 大学 | 可选 | 研究职位普遍要求博士 |
-| 资质认证（Anerkennung） | 德国各州认证机构 | 必备 | 非欧盟学历需认证 |
+| Master's degree in Biology or a related field | University | Required | Typically requires a master's degree or higher |
+| Qualification recognition (Anerkennung) | German state accreditation bodies | Required | Non-EU qualifications require recognition. |
+| PhD degree | University | Optional | Research positions generally require a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。德国生物技术产业持续扩张，人口老龄化推动医学研究需求，就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Germany's biotechnology industry continues to expand, and population aging drives demand for medical research, leading to good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪，取决于雇主与地区 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪，项目负责人或以上 |
+| Median salary | $56,988 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Pre-tax annual salary, depends on employer and region |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Pre-tax annual salary, project manager or above |
+| average salary | $63,708 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从实验室研究员晋升为项目负责人或部门主管，也可转向医药企业研发管理或学术教授。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
+
+Can advance from lab researcher to project leader or department head, or transition to pharmaceutical R&D management or academic professor.
+
+**Tasks most exposed to AI:**
+
+- Standardized molecular cloning, PCR, and other lab procedures (performed by automated lab platforms)
+- Large-scale genomic/proteomic data comparison and annotation (performed by AI algorithms)
+- Literature review and meta-analysis (extracting key information automatically using natural language processing)
+- Routine microscope image classification (e.g., cell counting, phenotype recognition)
+- Experiment protocol optimisation and reagent inventory management (smart scheduling system)
+
+**Where AI augments the role:**
+
+- Hypothesis generation: AI analyzes vast literature and databases to recommend novel research paths
+- Multi-omics data integration: AI correlates genomics, transcriptomics, proteomics data to discover biomarkers
+- Complex experiment design: AI simulates experimental conditions, predicts results, and reduces trial and error.
+- Personalized medical plans: AI-assisted treatment strategies based on patient multimodal data
+- Scientific writing assistance: AI-generated drafts, charts to boost paper output efficiency
+
+**Human moat:**
+
+- Ability to propose original scientific questions and disruptive hypotheses
+- Creativity in designing novel experiments to verify unknown mechanisms.
+- Interdisciplinary integration and insight into industry pain points (e.g., agricultural stress resistance).
+- Ethical judgment and public policy recommendations (e.g., gene editing compliance)
+- Reputation building and academic community network maintenance
+
+**Skills to build:**
+
+- Machine learning basics (scikit-learn, TensorFlow)
+- Bioinformatics tools (Python/R, Galaxy platform)
+- Data visualization and explainable AI techniques.
+- Operation of automated laboratory systems (e.g. liquid handling workstations)
+- Ethics and compliance (e.g., biosecurity regulations)
+- Cross-disciplinary communication (translating biological problems into computational models)
+
+**Key growth areas:**
 
 - Biotechnology
 - Personalized Medicine
@@ -65,69 +101,68 @@ Researcher in human biology, focusing on medical research, drug development, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合硕士以上学历、年薪达阈值（2025年约43,800欧元）的技术移民。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于拥有德国认可学历或资质的工作移民，无薪资门槛。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许在德居留一年寻找工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for skilled migrants with a master's degree or higher and an annual salary threshold (approx. EUR 43,800 in 2025). |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for work immigration with a recognized German degree or qualification, no salary threshold. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa allowing a one-year stay in Germany to find work. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologist (Human Biology)？**
-- 对生命科学有浓厚兴趣并具备科研热情的人
-- 注重细节、擅长实验操作与数据分析
-- 希望在医药研发或学术领域深耕者
-
-**谁不适合学Biologist (Human Biology)？**
-- 偏好稳定工作流程、不喜欢长期研究项目的人
-- 对实验室工作环境感到压抑或对动物实验敏感者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in life sciences and passion for research
+- Detail-oriented, skilled in experimental operation and data analysis
+- Those seeking to deepen their expertise in pharmaceutical R&D or academia.
+
+**Who is not suited**
+- Individuals who prefer stable workflows and dislike long-term research projects
+- For those who find laboratory work environments oppressive or are sensitive to animal testing
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for biologists in Germany?**
+A: Junior researcher annual salary approximately €40,000-50,000, senior positions up to €85,000+, doctoral degrees and public institutions offer better pay.
+
+**Q: How Chinese biologists can migrate to Germany through skilled migration?**
+A: Must first obtain a recognised German degree or pass credential assessment, usually a master's degree or above, then apply for the EU Blue Card or skilled migration visa.
+
+**Q: What qualifications are needed to study biology in Germany?**
+A: Typically requires a master's or doctoral degree in biology or a related field. It is difficult to enter research positions with only a bachelor's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Biologist (Human Biology)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biologists in Germany?**
-答：Entry-level researchers earn about €40,000-50,000, while senior positions can exceed €85,000, with higher pay in public institutions and for PhD holders.
-
-**问：How can a Chinese biologist migrate to Germany?**
-答：You need a recognized degree (master's or higher) or have it accredited in Germany, then apply for an EU Blue Card or Skilled Worker Visa.
-
-**问：What education is needed to work as a biologist in Germany?**
-答：A master's or PhD in biology or related field is typically required; a bachelor's alone is often insufficient for research positions.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

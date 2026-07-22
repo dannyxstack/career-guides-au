@@ -1,60 +1,92 @@
-# Parking Attendants（Parking Attendants）职业分析 · 美国
+# Parking Attendants — career analysis · United States
 
-**职业代码：53-6021 – Parking Attendants。**
+**Occupation code: 53-6021 (SOC)**
 
-Parking attendants guide customers to parking spaces, collect fees, or issue tickets in parking lots or garages. They ensure orderly parking and provide basic customer service.
+Parking lot attendants guide customers to parking spots, collect parking fees, or issue tickets, typically working in parking lots, garages, or car rental facilities. They ensure orderly vehicle parking and provide basic customer service.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0 | —（通常无需高等教育） |
-| 在职培训 | 1个月 | —（短期培训，费用低） |
+| High school diploma or equivalent | 0 | $0~$0 (Usually no higher education required) |
+| On-the-job training | 1 month | $0~$500 (Short-term training, low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 州机动车管理局 | 必备 | 通常需要有效的驾驶执照以便挪车 |
-| 无犯罪记录 | 执法机构 | 可选 | 部分雇主要求背景调查 |
+| Driver's license | State motor vehicle department | Required | Usually requires a valid driver's license to move vehicles |
+| No criminal record | Law enforcement agencies | Optional | Some employers require background checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 140,000。美国停车场服务员岗位需求相对稳定，但自动化（如自助缴费机、停车APP）可能减少对人工的依赖。就业增长预计缓慢，年均约1-2%。主要机会在旅游城市和购物中心。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 140,000. US parking lot attendant job demand is relatively stable, but automation (such as self-pay kiosks, parking apps) may reduce reliance on manual labor. Employment growth is expected to be slow, about 1-2% annually. Main opportunities in tourist cities and shopping centers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 起薪接近最低工资 |
-| 中级（3-5年） | $28,000~$35,000 | 经验丰富或小费收入较高 |
-| 高级（5年以上或主管） | $35,000~$45,000 | 主管或管理职位薪资更高 |
+| Median salary | $35,150 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $23,000~$28,000 | Starting salary close to minimum wage |
+| Mid-level (3–5 years) | $28,000~$35,000 | Experienced or with higher tip income |
+| Senior (5+ years or supervisor) | $35,000~$45,000 | Supervisor or management positions offer higher pay |
+| average salary | $34,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平淡（★★☆☆☆）。** 职业发展路径有限，常见晋升为停车主管、停车场经理或转向客户服务岗位。少数可进入车辆管理或交通运营领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Parking attendants face high automation risk; due to mature technologies like AI visual recognition, automatic barriers, and mobile payments, most tasks (guidance, payment, ticketing) can be replaced, but on-site emergency handling and vehicle guidance still require human labor, and entry-level positions will significantly decrease.
+
+Career progression is limited; common advancement to parking supervisor, parking manager, or shifting to customer service roles. A few can enter vehicle management or traffic operations.
+
+**Tasks most exposed to AI:**
+
+- Collect parking fees using ticket machines or cash machines
+- Issue parking tickets or manage parking vouchers
+- Guide vehicles to empty parking spaces (using sensors and displays)
+- Generate daily parking revenue reports and reconcile cash
+
+**Where AI augments the role:**
+
+- Using AI surveillance cameras and sensor networks to monitor parking lot security anomalies
+- Handle customer inquiries and complaints via mobile app or self-service kiosk
+- Optimise parking space allocation and fee standards using real-time data analysis
+- Provide multilingual customer service using voice assistants or chatbots
+
+**Human moat:**
+
+- On-site handling of emergencies (e.g., vehicle collisions, equipment failures)
+- Provide humanised guidance for customers with special needs (disabled, large vehicles)
+- Maintain and perform simple repairs on hardware like automatic gates, charging stations, etc.
+- Manage vehicle scheduling and evacuation during temporary large events.
+
+**Skills to build:**
+
+- Smart parking management system operation and maintenance.
+- Basic equipment repair skills (gates, cameras)
+- Customer service and conflict resolution skills
+- Basic data analysis (parking utilization, revenue reports)
+- Troubleshooting mobile payments and self-service terminal faults.
+
+**Key growth areas:**
 
 - Slow growth
 - Automation impact
@@ -63,65 +95,67 @@ Parking attendants guide customers to parking spaces, collect fees, or issue tic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 季节性或临时工签证，适用于停车场服务员等非农业岗位，但名额有限且需雇主担保。 |
-| Subclass Green Card (EB-3)（EB-3 Skilled Worker/Professional） | 极少情况通过EB-3移民，但需要雇主证明无法招到美国工人，通常不适用于该低技能岗位。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal or temporary work visa for non-agricultural roles like parking lot attendants, but with limited quotas and requiring employer sponsorship. |
+| Subclass Green Card (EB-3) (EB-3 Skilled Worker/Professional) | Rarely through EB-3 immigration, but requires employer to prove inability to hire US workers, typically not applicable for this low-skill role. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Parking Attendants？**
-- 喜欢与人打交道、服务意识强的人
-- 寻找入门级工作、无需高等教育背景的人
-- 热爱车辆、对汽车有兴趣的人
+**Who is suited**
+- People who enjoy working with others and have a strong service orientation
+- People looking for entry-level jobs without requiring higher education background
+- People who love vehicles and have an interest in cars
 
-**谁不适合学Parking Attendants？**
-- 不喜欢户外工作或长时间站立的人
-- 希望高收入或快速晋升的人
+**Who is not suited**
+- People who dislike outdoor work or prolonged standing
+- Those seeking high income or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a Parking Lot Attendant?**
+A: Salary usually close to minimum wage, entry-level about AUD 23,000-28,000/year, senior or supervisor can reach AUD 35,000-45,000/year. Tips are an important income supplement.
+
+**Q: Can parking lot attendants immigrate to the US through work visas?**
+A: Very difficult. This occupation typically does not meet H-1B requirements (needs professional position); only a few may qualify for H-2B temporary work visa, but quotas are tight and no green card pathway.
+
+**Q: Are there advancement opportunities for parking lot attendants?**
+A: Limited promotion opportunities; can advance to parking supervisor, parking manager, or switch to other customer service roles. Long-term development requires additional skills or education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 平淡（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Parking Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a parking attendant?**
-答：Salary is typically near minimum wage, entry-level around $23,000-$28,000/year, senior or supervisor up to $35,000-$45,000/year. Tips are a significant supplement.
-
-**问：Can a parking attendant immigrate to the US via work visa?**
-答：Very difficult. The job typically does not qualify for H-1B (requires specialty occupation). Only limited H-2B temporary visas exist, but no green card path.
-
-**问：Is there career advancement for parking attendants?**
-答：Limited. Promotion to parking supervisor, manager, or other customer service roles. Long-term growth requires additional skills or education.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

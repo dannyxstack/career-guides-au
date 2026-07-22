@@ -1,59 +1,95 @@
-# Software Developer（Software Developer）职业分析 · DE
+# Software Developer — career analysis · Germany
 
-**职业代码：4341 – Software Developer。**
+**Occupation code: 4341 (KldB)**
 
-Designs, develops, and maintains software applications, including frontend, backend, and full-stack development. Proficient in programming languages such as Java, Python, C#, and involved in the entire development lifecycle from requirements analysis to deployment.
+Responsible for designing, developing and maintaining software applications, including front-end, back-end and full-stack development. Proficient in programming languages such as Java, Python, C#, and participate in the complete development lifecycle from requirements analysis to deployment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（计算机科学或相关专业） | 3-4年 | —（公立大学通常仅收学期注册费，约150-400欧元/学期；私立大学学费较高。） |
-| 双元制培训（IT专家方向） | 3年 | —（双元制培训无学费，且每月获得企业津贴，通常800-1200欧元/月。） |
+| Bachelor's degree (computer science or related field) | 3-4 years | $0~$3,000 (Public universities usually charge only a semester enrollment fee of about 150-400 euros per semester; private universities have higher tuition fees.) |
+| Dual education (IT specialist track) | 3 years | $0~$0 (Dual system training has no tuition fees, and you receive a monthly company allowance, usually 800-1200 euros per month.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域的学士学位 | 大学 | 可选 | 通常要求学位，但经验丰富者可豁免。 |
-| 资质认可（针对海外学历） | 德国各州认证机构（如ZAB） | 可选 | 若学历非德国认可，需进行Anabin或ZAB认证，非强制但有助于签证申请。 |
-| 语言能力（德语B1/B2） | Goethe-Institut等 | 可选 | 虽非强制，但B2以上德语提升就业机会和融入速度。 |
+| Bachelor's degree in Computer Science or related field | University | Optional | Usually requires a degree, but exemptions possible for experienced individuals. |
+| Qualification recognition (for overseas qualifications) | German state accreditation bodies (e.g., ZAB) | Optional | If the qualification is not recognized in Germany, Anabin or ZAB certification may be needed; not mandatory but helps with visa applications. |
+| Language skills (German B1/B2) | Goethe-Institut, etc. | Optional | Although not mandatory, B2-level German improves job opportunities and integration speed. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 850,000。德国数字化转型推动软件开发者需求持续旺盛，尤其在大数据、云计算和人工智能领域。联邦劳工局数据显示，该职业为紧缺职业，就业市场供不应求，未来几年薪资有望继续增长。
+**Job demand: very high (★★★★★).** National workforce approx. 850,000. Digital transformation in Germany continues to drive strong demand for software developers, especially in big data, cloud computing, and AI. According to the Federal Employment Agency, this occupation is in shortage, with supply falling short of demand, and salaries are expected to keep rising in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪，视公司和地区而定，慕尼黑、柏林等城市较高。 |
-| 中级（3-7年） | $55,000~$75,000 | 具有3年以上经验，能独立完成模块开发。 |
-| 高级（7年以上/架构师） | $75,000~$100,000 | 高级开发者或架构师，薪资可超10万欧元。 |
+| Median salary | $70,212 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Pre-tax annual salary, depending on the company and region; higher in cities like Munich and Berlin. |
+| Mid-level (3–7 years) | $55,000~$75,000 | Over 3 years of experience, able to independently complete module development. |
+| Senior (7+ years/Architect) | $75,000~$100,000 | Senior developers or architects can earn over EUR 100,000. |
+| average salary | $73,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★★）。** 初级开发者可通过项目经验晋升为高级开发者、架构师或技术主管。转向项目管理或产品管理也是常见路径。持续学习新技术（如AI、云原生）可加速职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Junior developers can advance to senior developer, architect, or technical lead through project experience. Transitioning to project management or product management is also common. Continuous learning of new technologies (e.g., AI, cloud-native) can accelerate career growth.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -62,68 +98,67 @@ Designs, develops, and maintains software applications, including frontend, back
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高学历人才，年薪门槛约43,800欧元（2024年）；紧缺职业（如IT）门槛更低，约39,682欧元。 |
-| Subclass Skilled Worker Visa（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于有资质或学历的技术移民，需雇主offer，年薪无明确下限但需符合市场水平。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的找工作签证，允许在德居留一年寻找工作，要求德语或英语能力及相关资质。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated talent, annual salary threshold approx. €43,800 (2024); for shortage occupations (e.g., IT) threshold is lower, approx. €39,682. |
+| Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled migrants with qualifications or degrees; requires a job offer from an employer; no explicit minimum annual salary but must align with market rates. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa allowing one year stay in Germany to find employment, requiring German or English proficiency and relevant qualifications. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Developer？**
-- 热爱编程和解决问题，具备逻辑思维和持续学习能力
-- 有计算机科学或相关专业背景，或已掌握主流编程语言
-- 愿意在德国生活并学习德语至B1/B2水平
-
-**谁不适合学Software Developer？**
-- 不喜欢快速变化的技术环境，抗拒持续学习
-- 不擅长团队协作和沟通
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about programming and problem-solving, with logical thinking and continuous learning ability
+- Background in computer science or related field, or already proficient in mainstream programming languages
+- Willingness to live in Germany and learn German to B1/B2 level
+
+**Who is not suited**
+- Dislikes rapidly changing technical environments and resists continuous learning
+- Not good at teamwork and communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a software developer in Germany?**
+A: Entry-level approx. EUR 45,000, mid-level approx. EUR 65,000, senior-level approx. EUR 85,000+, varying by region and company size.
+
+**Q: As a non-EU citizen, how can I immigrate to Germany through a software development career?**
+A: The most common path is to obtain a German employer offer and then apply for an EU Blue Card or skilled migration visa. The Blue Card annual salary threshold is €43,800 (€39,682 for IT shortage occupations). You can also first apply for a Chancenkarte (opportunity card) to come to Germany to find a job.
+
+**Q: Is overseas qualification assessment required to work as a software developer?**
+A: Not mandatory, but certification (Anabin or ZAB) helps with visa applications and employer recognition. If your degree is computer-related, certification is usually straightforward.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较易（★½☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 极好（★★★★★） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Software Developer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for software developers in Germany?**
-答：Entry-level ca. €45,000, mid-level ca. €65,000, senior ca. €85,000+, varying by region and company size.
-
-**问：How can non-EU citizens immigrate to Germany as software developers?**
-答：Most common: obtain a job offer and apply for an EU Blue Card (salary threshold €43,800 or €39,682 for IT shortages) or Skilled Worker Visa. Alternatively, apply for an Opportunity Card to search for jobs in Germany.
-
-**问：Do I need to have my foreign degree recognized to work as a software developer in Germany?**
-答：Not mandatory, but recognition (via Anabin or ZAB) facilitates visa processing and employer acceptance. Degrees in computer-related fields are usually easy to recognize.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

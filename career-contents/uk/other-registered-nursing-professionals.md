@@ -1,61 +1,95 @@
-# Other registered nursing professionals（Other registered nursing professionals）职业分析 · UK
+# Other registered nursing professionals — career analysis · United Kingdom
 
-**职业代码：2237 – Other registered nursing professionals。**
+**Occupation code: 2237 (SOC)**
 
-Other registered nursing professionals provide general nursing care for the sick, injured and others in need, assist doctors, and work within healthcare teams in a variety of advanced nursing roles not elsewhere classified.
+Other registered nursing professionals provide comprehensive nursing care to patients, the injured, and others in need, assist doctors, and collaborate with the medical team, covering various advanced nursing duties not classified under other nursing specializations.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 护理学学士 | 3年 | $9,250~$39,000（英国本科学费每年£9,250（本土）至£39,000（国际）） |
-| 护理学硕士（预注册） | 2年 | $10,000~$45,000（加速课程，适合已有其他学位者） |
+| Bachelor of Nursing | 3 years | $9,250~$39,000 (UK undergraduate tuition fees: £9,250 per year (domestic) to £39,000 (international)) |
+| Master of Nursing (Pre-Registration) | 2 years | $10,000~$45,000 (Accelerated course, suitable for those who already have another degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理与助产委员会注册 | Nursing and Midwifery Council (NMC) | 必备 | 必须在NMC注册才能执业，需通过英语语言及能力测试 |
-| 护理学学位 | 英国大学 | 必备 | 需获得NMC认可的护理学学士或硕士学位 |
-| 英国境外护理资格认证 | NMC | 可选 | 国际护士需通过NMC的资格审核及适应性测试（CBT/OSCE） |
+| Nursing and Midwifery Board registration | Nursing and Midwifery Council (NMC) | Required | Must be registered with NMC to practice; requires English language and competency tests |
+| Bachelor of Nursing | UK universities | Required | Must hold a nursing bachelor's or master's degree recognized by the NMC. |
+| Overseas nursing qualification accreditation outside the UK. | NMC | Optional | International nurses need to pass NMC's qualification review and adaptation tests (CBT/OSCE) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 35,000。英国NHS及私立医疗系统对注册护理人员需求持续增长，尤其专科护理、社区护理及老年护理领域。预计2020-2030年就业增长约10%，因人口老龄化和医疗技术进步，岗位缺口显著。
+**Job demand: very high (★★★★½).** National workforce approx. 35,000. Demand for registered nurses in the UK's NHS and private healthcare system continues to grow, especially in specialist nursing, community nursing, and aged care. Employment is projected to grow by about 10% from 2020-2030, with significant job openings due to an aging population and advances in medical technology.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | NHS Band 5起薪约£28,000，含伦敦津贴后约£33,000 |
-| 中级（3-7年） | $35,000~$45,000 | NHS Band 6专科护士或高级护士，薪资£35,000-£45,000 |
-| 高级（7年以上） | $45,000~$60,000 | NHS Band 7+ 高级执业护士/护理经理，含加成可达£60,000+ |
+| Median salary | $42,300 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | NHS Band 5 starting salary approx. £28,000 increasing to approx. £33,000 with London allowance. |
+| Mid-level (3–7 years) | $35,000~$45,000 | NHS Band 6 specialist nurse or senior nurse, salary £35,000-£45,000 |
+| Senior (7+ years) | $45,000~$60,000 | NHS Band 7+ Advanced Nurse Practitioner/Nursing Manager, with allowances up to £60,000+ |
+| average salary | $43,205 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径清晰：从临床护士（Band 5）起步，可晋升为专科护士（Band 6）、高级执业护士（Band 7）、护理顾问或护理管理岗位（Band 8+）。亦可通过深造转向教育、研究或领导角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Clear career progression path: start as a clinical nurse (Band 5), advance to specialist nurse (Band 6), advanced practice nurse (Band 7), nursing consultant or nursing management roles (Band 8+). Further study can lead to education, research, or leadership positions.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Ageing population
 - NHS expansion
@@ -64,69 +98,68 @@ Other registered nursing professionals provide general nursing care for the sick
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，职业代码2237在可担保职业列表，适用NHS及认可医疗雇主 |
-| Subclass Health & Care（Health and Care Worker visa） | 专属医疗签证，免IHS附加费，加速审理，适用于NHS及护理工作 |
-| Subclass Graduate（Graduate visa） | 英国护理毕业生可申请2年毕业生签证，积累工作经验以转换工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, occupation code 2237 is on the eligible occupation list, applies to NHS and recognized healthcare employers |
+| Subclass Health & Care (Health and Care Worker visa) | Dedicated health visa, exempt from IHS surcharge, fast-tracked processing, applicable to NHS and care work. |
+| Subclass Graduate (Graduate visa) | Nursing graduates from the UK can apply for a 2-year graduate visa to gain work experience and switch to a work visa |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other registered nursing professionals？**
-- 有护理学学位或相关背景，希望在英国NHS或私立医疗机构工作
-- 具备同理心、抗压能力强，能适应轮班制工作
-- 愿意通过NMC认证及英语考试的国际护士
-
-**谁不适合学Other registered nursing professionals？**
-- 对高强度医疗护理工作节奏不适应者
-- 无法接受长期夜班、节假日值班及紧急待命者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have a nursing degree or related background, wish to work in the UK NHS or private healthcare settings
+- Possesses empathy, strong stress tolerance, and can adapt to shift work
+- Willing to obtain NMC certification and pass English language test for international nurses.
+
+**Who is not suited**
+- Those who are not suited to the high intensity of medical care work pace
+- Unable to accept long-term night shifts, holiday duties, and emergency standby
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for Other Registered Nursing Professionals?**
+A: Junior nurses earn approximately £28,000-£35,000 annually, specialist nurses £35,000-£45,000, and advanced practitioners or management roles up to £45,000-£60,000+. NHS salaries follow banding, with London weighting added.
+
+**Q: How to immigrate to the UK as a nursing professional through a work visa?**
+A: International nurses can apply through the Health and Care Worker visa, requiring sponsorship from the NHS or an approved employer, and must pass NMC registration and English tests. This visa is exempt from the IHS surcharge, offers faster processing, and allows family accompaniment.
+
+**Q: What is the career progression path for nursing?**
+A: Clinical pathway: from Band 5 registered nurse to Band 6 specialist nurse, then to Band 7 advanced practice nurse. Non-clinical directions: nursing management (Band 8+), education, or research. Requires experience and relevant certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Other registered nursing professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for other registered nursing professionals?**
-答：Entry-level nurses earn around £28,000-£35,000, specialist nurses £35,000-£45,000, and advanced practitioners/managers £45,000-£60,000+. NHS salaries follow pay bands with London weighting.
-
-**问：How to migrate to the UK as a nursing professional via work visa?**
-答：International nurses can apply for the Health and Care Worker visa with NHS sponsorship, NMC registration, and English language test. Benefits include no IHS surcharge, fast-track processing, and family inclusion.
-
-**问：What is the career progression for nursing professionals?**
-答：Clinical path: Band 5 staff nurse to Band 6 specialist nurse, then Band 7 advanced practitioner. Non-clinical: management (Band 8+), education or research. Progression requires experience and additional qualifications.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Animal Producer Not Elsewhere Classified（Animal Producer Not Elsewhere Classified）职业分析 · IT
+# Animal Producer Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：6129 – Animal Producer Not Elsewhere Classified。**
+**Occupation code: 6129 (ISCO08)**
 
-Professionals responsible for breeding, raising, and managing various farm animals (e.g., poultry, pigs, sheep) to ensure animal health and production efficiency.
+Professionals responsible for raising, breeding, and managing various farm animals (e.g., poultry, pigs, sheep) to ensure animal health and production efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育证书 | 2年 | $1,000~$5,000（公立职业培训学校费用） |
-| 农业技术文凭 | 3年 | $2,000~$8,000（高等技术学院费用） |
+| Vocational education certificate | 2 years | $1,000~$5,000 (Public vocational training school fees) |
+| Diploma of Agricultural Technology | 3 years | $2,000~$8,000 (Higher technical college fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物健康与福利证书 | 意大利农业联合会 | 可选 | 非强制但有助于就业 |
-| 农业职业资格 | 地区农业部门 | 必备 | 部分地区要求 |
+| Agricultural vocational qualification | Regional agricultural department | Required | Required in some regions |
+| Certificate in Animal Health and Welfare | Italian Agricultural Federation | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。意大利畜牧业正面临现代化转型，对技术型动物生产者需求稳定，但年轻从业者补充不足。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Italian livestock farming is undergoing modernisation, with stable demand for skilled animal producers but insufficient young entrants.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$42,000 | Annual pre-tax salary |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级饲养员晋升为农场经理或自营农场主，通过专业培训提升动物健康管理技能。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Animal producers (not elsewhere classified) face higher replacement risk; AI and automation are gradually replacing human tasks in data monitoring, feeding optimization, health alerts, but on-site operations and emotional interaction with animals still rely on humans.
+
+Can progress from junior stockman to farm manager or self-employed farmer, improving animal health management skills through professional training.
+
+**Tasks most exposed to AI:**
+
+- Animal health monitoring and disease early warning report generation based on sensor data
+- Automated control and optimization of feeding amounts and water intake
+- Real-time monitoring and automatic adjustment of environmental parameters (temperature, humidity, ammonia)
+- Breeding cycle records and mating time algorithm recommendations
+- Automatic generation and preliminary analysis of farm production reports
+
+**Where AI augments the role:**
+
+- Using AI to predict optimal feed ratios and feeding strategies to improve production efficiency
+- Using computer vision and sound analysis for early detection of abnormal animal behavior and diseases
+- Optimise herd structure, culling time and breeding plans through data analysis
+- Use digital twins to simulate the impact of different management plans on output and costs
+- Use drones or robots to assist patrolling large farms and facilities
+
+**Human moat:**
+
+- Recognition of individual animal emotions and stress handling (e.g., birthing care, soothing injured animals)
+- Flexible decision-making for on-site emergencies (e.g., crowd riots, complex trauma)
+- Coordinate with veterinarians, nutritionists and other professionals to develop personalized management plans
+- Follow and enforce strict animal welfare and biosecurity standards
+
+**Skills to build:**
+
+- Smart livestock equipment operation and maintenance (automatic feeding systems, environmental controllers)
+- Data analysis and basic programming (Python/R for farming data)
+- Application of computer vision and sound analysis tools in livestock farming
+- Animal behavior and precision feeding management
+- Digital farm management software usage
+- Knowledge of biosecurity and disease prevention
+
+**Key growth areas:**
 
 - Organic farming
 - Animal welfare
@@ -63,68 +98,67 @@ Professionals responsible for breeding, raising, and managing various farm anima
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟季节性工人，需雇主担保并符合年度配额。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能员工，但收入门槛通常高于该职业水平。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU seasonal workers, requires employer sponsorship and meets annual quota. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for highly skilled employees, but the income threshold is usually above this occupation level. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animal Producer Not Elsewhere Classified？**
-- 热爱农业与动物，愿意从事体力劳动
-- 能在农村或偏远地区长期工作
-- 对食品安全和动物福利有责任感
-
-**谁不适合学Animal Producer Not Elsewhere Classified？**
-- 不适应户外艰苦环境及体力劳动
-- 缺乏耐心与细致观察能力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about agriculture and animals, willing to engage in physical labour
+- Able to work long-term in rural or remote areas
+- Responsibility for food safety and animal welfare
+
+**Who is not suited**
+- Unsuitable for harsh outdoor environments and physical labor
+- Lack of patience and attention to detail
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Italian animal producers?**
+A: Entry-level annual salary is approximately €18,000-€24,000, increasing to €32,000-€42,000 with experience.
+
+**Q: How can a foreigner obtain an Italian animal producer work visa?**
+A: Mainly through the Decreto Flussi quota work visa, requires employer sponsorship, with fixed annual quotas.
+
+**Q: What are the promotion opportunities for animal producers?**
+A: Can be promoted to farm manager or start a business, or transition to professional roles such as animal nutrition and health management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Animal Producer Not Elsewhere Classified为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal producers in Italy?**
-答：Entry-level annual salary is around €18,000-€24,000, rising to €32,000-€42,000 with experience.
-
-**问：How can foreigners obtain a work visa as an animal producer in Italy?**
-答：Mainly through the Decreto Flussi work visa, requiring employer sponsorship and subject to annual quotas.
-
-**问：What career advancement opportunities exist for animal producers?**
-答：Can advance to farm manager or self-employment, or specialize in animal nutrition, health management, etc.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

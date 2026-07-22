@@ -1,60 +1,96 @@
-# Recreational Vehicle Service Technicians（Recreational Vehicle Service Technicians）职业分析 · 美国
+# Recreational Vehicle Service Technicians — career analysis · United States
 
-**职业代码：49-3092 – Recreational Vehicle Service Technicians。**
+**Occupation code: 49-3092 (SOC)**
 
-Diagnose, inspect, adjust, repair, or overhaul recreational vehicles such as travel trailers, specializing in systems like gas, electrical, hydraulic, plumbing, chassis, and generators.
+Responsible for diagnosing, inspecting, adjusting, repairing, or refurbishing recreational vehicles such as travel trailers, possibly specializing in gas, electrical, hydraulic, plumbing, or chassis/towing systems, as well as repairing generators, appliances, and interior components.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常要求高中毕业） |
-| 职业培训或学徒 | 1-2年 | $5,000~$20,000（社区学院或技术学校课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually requires high school graduation) |
+| Vocational training or apprenticeship | 1-2 years | $5,000~$20,000 (Community college or technical school courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RV维修认证 | RVIA (Recreational Vehicle Industry Association) | 可选 | 非强制但有利就业 |
-| 空调维修认证 | EPA Section 608 | 必备 | 涉及制冷剂时需持有 |
+| Air conditioning repair certification | EPA Section 608 | Required | Required when handling refrigerants |
+| RV Maintenance Certification | RVIA (Recreational Vehicle Industry Association) | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,000。美国休闲车市场持续增长，带动维修需求。预计就业增长稳定，尤其受退休人口和户外休闲活动增加推动，但就业规模较小，竞争适中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 13,000. The US recreational vehicle market continues to grow, driving maintenance demand. Expected stable employment growth, especially fueled by retired population and increased outdoor leisure activities, but employment scale is small with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 学徒或新手 |
-| 中级（3-7年） | $40,000~$55,000 | 有经验的技师 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或专精技师 |
+| Median salary | $52,000 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Apprentice or beginner |
+| Mid-level (3–7 years) | $40,000~$55,000 | Experienced technician |
+| Senior (7+ years) | $55,000~$70,000 | Supervisor or specialized technician |
+| average salary | $56,440 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级技师晋升为高级技师或主管，也可专攻特定系统如电气或空调。积累经验后可能开设独立维修店，或转向房车制造商的质检岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Task differentiation for recreational vehicle repair technicians: electrical/electronic diagnostics, documentation, and client communication will rely on AI tools, but complex multi-system fault troubleshooting, physical repairs, and custom modifications still require human experience; overall outlook is mixed.
+
+Can advance from junior technician to senior technician or supervisor, or specialize in specific systems like electrical or air conditioning. With experience, may open an independent repair shop or move to quality inspection roles in RV manufacturers.
+
+**Tasks most exposed to AI:**
+
+- AI automatically reads vehicle fault codes and generates preliminary diagnostic reports
+- AI-based electrical system line tracing and short circuit detection
+- AI chatbot for answering common customer questions and booking appointments
+- AI-assisted automatic generation of documents and maintenance records
+- Predictive maintenance alerts and component replacement schedules via smart sensors
+
+**Where AI augments the role:**
+
+- AI quickly analyzes multi-system interaction faults (e.g., generator-chassis linkage) and provides diagnostic trees
+- Augmented reality (AR) overlays maintenance steps to assist complex disassembly and assembly
+- AI compares historical maintenance data to recommend optimal repair plans and part replacement decisions
+- AI optimizes work scheduling and tool/parts inventory management
+- Real-time translation of multilingual repair manuals to improve efficiency for multinational vehicle repairs
+
+**Human moat:**
+
+- Hands-on feel and creativity in non-standard physical repairs (e.g., removing rusted bolts, custom modifications)
+- Causal reasoning for cross-system (gas, electrical, hydraulic, piping) comprehensive faults
+- Direct communication with clients to understand personalized needs and provide trust
+- Independent repair judgment in no/weak network signal environments
+- Responsibility and emergency response in safety-compliant operations (gas, high voltage)
+
+**Skills to build:**
+
+- use of AI diagnostic tools (e.g., in-vehicle CAN bus analysis software)
+- Augmented reality (AR) maintenance assistance system operation
+- Advanced troubleshooting for electrical and electronic systems (with AI data streams)
+- Comprehensive repair knowledge across gas, plumbing, chassis, and other systems
+- Customer communication and digital tools (scheduling/quoting software).
+- Continuously learn maintenance skills for new vehicle models (especially electric RVs)
+
+**Key growth areas:**
 
 - RV industry growth
 - Outdoor recreation trend
@@ -63,62 +99,64 @@ Diagnose, inspect, adjust, repair, or overhaul recreational vehicles such as tra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为此职业通常不要求学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能用于熟练工人，但雇主担保困难，名额有限 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable, as this occupation usually does not require a bachelor's degree. |
+| Subclass EB-3 (EB-3 Skilled Workers) | may be used for skilled workers, but employer sponsorship is difficult and places are limited |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Recreational Vehicle Service Technicians？**
-- 喜欢动手修理、热爱户外活动的人
-- 有机械或电气基础，愿意接受职业培训
-- 能在物理劳动和客户服务之间平衡
+**Who is suited**
+- People who enjoy hands-on repairs and outdoor activities
+- Has mechanical or electrical foundation, willing to accept vocational training
+- Balance between physical labor and customer service
 
-**谁不适合学Recreational Vehicle Service Technicians？**
-- 不愿从事体力劳动或户外工作
-- 寻求高薪或快速移民路径的人
+**Who is not suited**
+- Unwilling to do physical labor or outdoor work
+- For those seeking high salary or fast immigration pathway
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for recreational vehicle service technicians?**
+A: Entry-level annual salary about 30,000-40,000, senior up to 55,000-70,000. Salaries vary by region, experience, and certification, generally below the national average.
+
+**Q: As a foreign citizen, how can I immigrate to the US for this occupation?**
+A: This occupation typically does not meet H-1B requirements, making immigration pathways difficult. In rare cases, application via EB-3 skilled worker is possible, but employer sponsorship is challenging and wait times are long.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Recreational Vehicle Service Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for recreational vehicle service technicians?**
-答：Entry-level annual salary is about $30,000-$40,000, while experienced technicians can earn $55,000-$70,000. Pay varies by location, experience, and certifications.
-
-**问：How can a foreign national immigrate to the US for this occupation?**
-答：This occupation generally does not qualify for H-1B. EB-3 skilled worker is a possible but difficult path with long wait times and employer sponsorship required.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

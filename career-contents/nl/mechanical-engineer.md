@@ -1,60 +1,96 @@
-# Mechanical Engineer（Mechanical Engineer）职业分析 · NL
+# Mechanical Engineer — career analysis · Netherlands
 
-**职业代码：2144 – Mechanical Engineer。**
+**Occupation code: 2144 (ISCO08)**
 
-Mechanical engineers design, develop, and maintain mechanical systems, with high demand in manufacturing, energy, and high-tech sectors in the Netherlands.
+Mechanical engineers design, develop, and maintain mechanical systems, with strong demand in the Netherlands' manufacturing, energy, and high-tech industries.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（学士） | $10,000~$15,000（荷蘭公立大學本科年均学费） |
-| 硕士 | 2年（硕士） | $15,000~$20,000（硕士课程年均学费，非欧盟学生较高） |
+| Bachelor's degree | 4 years (bachelor's) | $10,000~$15,000 (Average annual tuition fee for undergraduate programs at Dutch public universities.) |
+| Master's degree | 2 years (Master's) | $15,000~$20,000 (Average annual tuition for master's programs, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师认证（Ing.） | 荷兰皇家工程师协会（KIVI） | 可选 | 可自愿注册，提升专业认可度 |
-| 欧洲工程师（EUR ING） | 欧洲国家工程协会联合会（FEANI） | 可选 | 国际认可，便于跨国执业 |
+| Engineers Certification (Ing.) | Royal Netherlands Society of Engineers (KIVI) | Optional | Voluntary registration available to enhance professional recognition |
+| European Engineer (EUR ING) | European Federation of National Engineering Associations (FEANI) | Optional | Internationally recognized, facilitating cross-border practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。荷兰制造业与可持续能源转型推动机械工程师需求稳定增长，尤其在半导体、机器人及绿色技术领域。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. The Netherlands' manufacturing and sustainable energy transition drive steady demand for mechanical engineers, especially in semiconductors, robotics, and green technology.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | 税前年薪，含 holiday allowance |
-| 中级（4-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（8年以上） | $70,000~$90,000 | 税前年薪，含奖金 |
+| Median salary | $64,615 | Median salary (official: CBS median hourly wage €32.7/hour × 1976 hours annualized, BRC group 0712 Engineers (excluding electrical engineering); P25–P75 €49,202–€83,190, CBS 2024) |
+| Entry level (0–3 years) | $38,000~$45,000 | Annual salary before tax, including holiday allowance |
+| Mid-level (4-7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (8+ years) | $70,000~$90,000 | Annual pre-tax salary, including bonuses |
+| average salary | $59,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级设计岗晋升至高级工程师、项目经理或技术总监，积累经验后可转向研发或咨询方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
+
+Can progress from junior design roles to senior engineer, project manager, or technical director; with experience, can transition to R&D or consulting.
+
+**Tasks most exposed to AI:**
+
+- Generates standard 3D models and 2D engineering drawings (AI can automatically generate from parameters)
+- Topology optimization prescreening of part structures (AI rapidly iterates hundreds of designs).
+- Review design code compliance (e.g., automatic ASME standard checks)
+- Writing routine technical documentation and BOMs (AI can auto-generate)
+- Basic thermal/flow/structure simulation setup and post-processing (AI automatic parameter tuning)
+
+**Where AI augments the role:**
+
+- AI-assisted generative design explores unconventional structural solutions, sparking innovation
+- AI real-time digital twin predicts fatigue life and maintenance windows
+- AI clustering analysis of historical failure data to accelerate fault diagnosis
+- Quick retrieval of technical literature and standards via AI natural language interface
+- AI automatically generates initial design space for multiphysics coupled optimization.
+
+**Human moat:**
+
+- Systematic physical intuition and multi-constraint coupled decision-making (safety/cost/manufacturing process)
+- Cross-disciplinary needs communication and project risk assessment
+- Human brain association and roundabout solutions to unexpected problems on site
+- Quantitative trade-off of conservatism for uncertainty (e.g., material batch variation).
+- Ethical/environmental responsibility attribution (e.g., legal consequences of mechanical failure)
+
+**Skills to build:**
+
+- Generative design software (e.g., Fusion 360 Generative Design)
+- Digital twin platform (e.g., ANSYS Twin Builder) operation.
+- Python/R script automation for simulation workflows
+- AI/ML basics (regression, clustering for fault prediction).
+- Systematic approach to fault diagnosis and root cause analysis
+- Project management and cross-cultural communication (collaboration with CA engineering teams)
+
+**Key growth areas:**
 
 - Sustainability
 - High-Tech
@@ -63,69 +99,68 @@ Mechanical engineers design, develop, and maintain mechanical systems, with high
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于高技能工作者，需雇主担保，薪资达门槛（2025年约€5,331/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，薪资门槛略低于kennismigrant，需雇主担保。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或全球顶尖大学毕业生可申请1年求职签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applies to highly skilled workers requiring employer sponsorship with a salary threshold (approx. €5,331/month in 2025). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals; salary threshold slightly lower than the kennismigrant, requiring employer sponsorship. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or top global universities can apply for a 1-year job-seeking visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineer？**
-- 喜欢动手解决技术问题的人
-- 有较强数学与物理基础的人
-- 希望在制造业或能源领域发展的人
-
-**谁不适合学Mechanical Engineer？**
-- 厌恶重复性计算或设计工作的人
-- 不擅长团队协作与沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on technical problem solving
+- People with strong foundations in mathematics and physics
+- People who want to develop in the manufacturing or energy sector
+
+**Who is not suited**
+- People who dislike repetitive calculations or design work
+- People who are not good at teamwork and communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mechanical engineers in the Netherlands?**
+A: Junior approx €38k-45k, mid-level €50k-65k, senior €70k-90k (gross annual salary), usually with holiday allowance (8%).
+
+**Q: How can overseas mechanical engineers immigrate to the Netherlands?**
+A: Available via the Highly Skilled Migrant (kennismigrant) or EU Blue Card visa, requiring employer sponsorship and meeting salary thresholds.
+
+**Q: What are the career prospects for mechanical engineers in the Netherlands?**
+A: Benefiting from high-tech and green transformation, demand is stable, with potential to advance to technical management or R&D roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical Engineer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mechanical engineers in the Netherlands?**
-答：Entry-level €38k-45k, mid-level €50k-65k, senior €70k-90k (gross annual), plus holiday allowance (8%).
-
-**问：How can overseas mechanical engineers immigrate to the Netherlands?**
-答：Via Highly Skilled Migrant (kennismigrant) or EU Blue Card visa, requiring employer sponsorship and meeting salary thresholds.
-
-**问：What are the career prospects for mechanical engineers in the Netherlands?**
-答：Stable demand driven by high-tech and green transition, with opportunities to advance to technical management or R&D roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

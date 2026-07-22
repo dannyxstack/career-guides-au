@@ -1,60 +1,93 @@
-# Tobacco Preparers and Tobacco Products Makers（Tobacco Preparers and Tobacco Products Makers）职业分析 · NL
+# Tobacco Preparers and Tobacco Products Makers — career analysis · Netherlands
 
-**职业代码：7516 – Tobacco Preparers and Tobacco Products Makers。**
+**Occupation code: 7516 (ISCO08)**
 
-Mainly involved in drying, fermenting, cutting, blending tobacco, and manufacturing tobacco products like cigarettes and cigars. In the Netherlands, the industry is small-scale and highly automated.
+Mainly involved in drying, fermenting, cutting, blending tobacco, and producing cigarettes, cigars, and other tobacco products. In the Netherlands, this industry is small-scale and largely automated.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | $1,000~$3,000（公立学校学费较低） |
-| 在职培训 | 6个月-1年 | —（雇主提供的内部培训） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $1,000~$3,000 (Public school tuition is relatively low) |
+| On-the-job training | 6 months to 1 year | $0~$500 (Internal training provided by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品加工操作员证书 | 荷兰食品与消费品安全局（NVWA） | 可选 | 非强制但有助于就业 |
-| MBO食品加工文凭 | 荷兰职业院校 | 可选 | 部分雇主要求 |
+| Food processing operator certificate | Netherlands Food and Consumer Product Safety Authority (NVWA) | Optional | Not mandatory but helpful for employment |
+| MBO Food Processing Diploma | Dutch vocational colleges | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500。荷兰烟草行业受健康政策和欧盟烟草法规影响，国内生产持续萎缩，就业岗位有限且呈下降趋势。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. The Dutch tobacco industry is affected by health policies and EU tobacco regulations, with domestic production continuing to shrink, and employment opportunities limited and trending downward.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业晋升空间有限，可从操作员晋升为生产线主管或质量控制员。跨行业转型至食品加工或包装行业较为常见。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Tobacco preparation and product manufacturing is highly automated in the Netherlands; AI and robotics will further reduce manual jobs. Entry-level positions decrease, but equipment maintenance and quality control still require personnel.
+
+Limited career advancement opportunities, can progress from operator to production line supervisor or quality control officer. Cross-industry transition to food processing or packaging industry is common.
+
+**Tasks most exposed to AI:**
+
+- Automated monitoring of tobacco curing and fermentation processes
+- Mechanical cutting and blending of tobacco raw materials
+- Automatic rolling machine operation and quality inspection
+- Packaging and palletizing automation processes
+
+**Where AI augments the role:**
+
+- Optimize drying curves using sensor data
+- AI visual inspection improves tobacco leaf grading accuracy
+- Predictive maintenance reduces equipment downtime
+- Digital twin simulation of production processes
+
+**Human moat:**
+
+- Tobacco flavor blending and sensory evaluation
+- Manual diagnosis and repair of equipment failures
+- On-site judgment for process parameter adjustments
+- Supervisory Responsibility for Safety Production and Regulatory Compliance
+
+**Skills to build:**
+
+- Automated Equipment Operation and PLC Basics
+- Data analysis (sensors, production logs)
+- Mechanical maintenance and electrical fault troubleshooting.
+- Knowledge of food safety and occupational health compliance
+- AI vision system operation (e.g., grading)
+- Lean production and process optimization
+
+**Key growth areas:**
 
 - Automation
 - Declining demand
@@ -63,61 +96,63 @@ Mainly involved in drying, fermenting, cutting, blending tobacco, and manufactur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适合高技能非欧盟公民，需年薪达标（2024年约€5，331/月30岁以上），但该职业通常不符合标准。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高学历专业人士，年薪门槛较高（约€58，000），该职业难以达到。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled non-EU citizens, requires meeting the annual salary threshold (2024 approx. €5,331/month for those over 30), but this occupation usually does not meet the standard. |
+| Subclass EU Blue Card (EU Blue Card) | Targeting highly educated professionals, the annual salary threshold is high (approx. €58,000), which this occupation is unlikely to meet. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tobacco Preparers and Tobacco Products Makers？**
-- 希望快速掌握一门手工技能的人
-- 对烟草行业有兴趣且不介意行业衰退的人
+**Who is suited**
+- Those looking to quickly master a hands-on skill
+- People interested in the tobacco industry and not bothered by industry decline
 
-**谁不适合学Tobacco Preparers and Tobacco Products Makers？**
-- 追求高收入和稳定职业前景的人
-- 希望移民荷兰的非欧盟公民
+**Who is not suited**
+- Those seeking high income and stable career prospects
+- Non-EU citizens wishing to immigrate to the Netherlands
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for tobacco product manufacturing workers in the Netherlands?**
+A: Entry-level positions annual salary about €22,000-€28,000, senior up to €42,000, below the Dutch average wage.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: Almost impossible. This occupation does not fall under high-skilled migration categories, and the industry lacks evidence of labor shortages, making it ineligible for work visa sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Tobacco Preparers and Tobacco Products Makers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tobacco preparers in the Netherlands?**
-答：Entry-level salary is about €22,000-€28,000 per year, senior up to €42,000, below the Dutch average.
-
-**问：Can a foreigner migrate to the Netherlands through this occupation?**
-答：Almost impossible. The occupation is not eligible for highly skilled migrant visas and lacks labor shortage evidence for sponsorship.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

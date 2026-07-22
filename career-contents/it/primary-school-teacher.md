@@ -1,59 +1,94 @@
-# Primary School Teacher（Primary School Teacher）职业分析 · IT
+# Primary School Teacher — career analysis · Italy
 
-**职业代码：2341 – Primary School Teacher。**
+**Occupation code: 2341 (ISCO08)**
 
-In Italy, primary school teachers educate students aged 6-11, require a degree in education and must pass a national teaching exam.
+In Italy, primary school teachers are responsible for the education and overall development of students aged 6-11, requiring a degree in education and passing the national teacher qualification exam.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 5年（本硕连读） | $5,000~$15,000（公立大学年均学费约1000-3000欧元，私立较高） |
+| Bachelor's degree | 5 years (integrated bachelor's and master's) | $5,000~$15,000 (Public university annual tuition is about 1,000-3,000 euros, private universities are higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格考试 | 意大利教育部 | 必备 | 通过全国公开考试（concorso）获得教师资格 |
-| 教育学学位 | 认可大学 | 必备 | 五年制本硕连读（Laurea Magistrale a Ciclo Unico） |
+| Teacher qualification examination | Italian Ministry of Education | Required | Obtain teaching qualification through a national open exam (concorso) |
+| Degree in Education | Recognised university | Required | Five-year integrated bachelor's and master's degree (Laurea Magistrale a Ciclo Unico) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 250,000。意大利面临小学教师老龄化与短缺问题，未来十年预计有大量退休职位空缺，新教师需求稳定，但区域分布不均，南部就业机会较少。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 250,000. Italy faces an aging and shortage of primary school teachers; it is expected that many retirement vacancies will emerge over the next decade, with stable demand for new teachers, but regional disparities exist, with fewer opportunities in the south.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$25,000 | 税前年薪，北方较高 |
-| 中级（4-15年） | $26,000~$32,000 | 随工龄和职称提升 |
-| 高级（15年以上） | $33,000~$38,000 | 最高级别教师或副校长 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$25,000 | Pre-tax annual salary, higher in the north |
+| Intermediate (4-15 years) | $26,000~$32,000 | Increases with years of experience and job title promotion. |
+| Senior (15+ years) | $33,000~$38,000 | Highest-level teacher or deputy principal |
+| average salary | $29,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径包括：从临时教师逐步转为正式教师，之后可通过竞聘担任副校长、校长或教育部门行政职务，也可转向特殊教育领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on primary school teacher positions is mixed: administrative and standardized teaching tasks face automation pressure, but core educational responsibilities and emotional interaction are hard to replace; AI can enhance personalized teaching and efficiency, while teachers need to shift to higher-level educational roles.
+
+Career path includes: gradually transitioning from temporary teacher to permanent teacher, then through competitive selection to become deputy principal, principal, or administrative role in education department; also possible to move into special education.
+
+**Tasks most exposed to AI:**
+
+- Marking standardised assignments and exam papers
+- Generate basic lesson plans and classroom materials
+- Record and analyze student attendance and performance data
+- Answering common knowledge questions (e.g., math calculations, spelling)
+- Managing classroom multimedia equipment and basic IT troubleshooting
+
+**Where AI augments the role:**
+
+- Use AI adaptive learning platforms to customize exercises and feedback for each student
+- Use AI to analyze student behavior and performance data to early identify learning difficulties or social-emotional issues
+- Quickly generate differentiated teaching resources (e.g., reading materials at varying difficulty levels) using AI tools
+- Using AI assistants to plan course progress and evaluate teaching effectiveness
+
+**Human moat:**
+
+- face-to-face emotional communication and building trust between teachers and students
+- Managing unexpected classroom situations and behavior
+- Tailored teaching based on deep understanding of individual students
+- Passing on values, critical thinking, and social skills
+- Complex communication and collaboration with parents
+
+**Skills to build:**
+
+- Use of AI educational tools (e.g., adaptive learning platforms, intelligent grading systems)
+- Data interpretation and student assessment analysis
+- Methods for integrating AI resources in instructional design
+- Social and Emotional Learning (SEL) and counselling skills
+- Interdisciplinary project-based learning (PBL) design
+- Digital Literacy and Cybersecurity Awareness
+
+**Key growth areas:**
 
 - aging workforce
 - teacher shortage
@@ -62,62 +97,64 @@ In Italy, primary school teachers educate students aged 6-11, require a degree i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，要求本科以上学历和合适工作合同，最低薪资需达标。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 通过年度配额申请，需雇主担保，适合非高技能但紧缺的职业。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a bachelor's degree or higher and a suitable employment contract, with minimum salary requirements. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Requires annual quota application and employer sponsorship; suitable for non-high-skilled but in-demand occupations. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Primary School Teacher？**
-- 热爱教育事业，善于与儿童沟通
-- 耐心细致，能应对课堂管理挑战
-- 愿意持续进修，适应教育政策变化
+**Who is suited**
+- Passionate about education and skilled in communicating with children
+- Patient and detail-oriented, able to handle classroom management challenges
+- Willing to pursue continuous learning and adapt to educational policy changes
 
-**谁不适合学Primary School Teacher？**
-- 不喜稳定性高但薪资增长缓慢的工作
-- 无法应对较大工作压力和行政任务
+**Who is not suited**
+- Dislike steady but slow salary growth jobs
+- Unable to handle high work pressure and administrative tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there room for salary increases for primary school teachers in Italy?**
+A: Salary increases with seniority and position, up to approximately €38,000; additional increments for administrative roles or special education.
+
+**Q: How can non-EU citizens become primary school teachers in Italy?**
+A: Must obtain a recognized degree in education in Italy, pass the teacher qualification exam, and then obtain residency through a work visa (such as the Blue Card or quota-based work visa).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Primary School Teacher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary increase for primary school teachers in Italy?**
-答：Salary increases with seniority and role, up to around €38,000; additional roles like administration or special education can boost income.
-
-**问：How can a non-EU citizen become a primary school teacher in Italy?**
-答：They need a recognized education degree, pass the national teaching exam, and obtain a work visa (e.g., EU Blue Card or Decreto Flussi).
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

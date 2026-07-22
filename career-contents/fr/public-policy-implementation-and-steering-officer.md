@@ -1,58 +1,90 @@
-# Public Policy Implementation and Steering Officer（Public Policy Implementation and Steering Officer）职业分析 · FR
+# Public Policy Implementation and Steering Officer — career analysis · France
 
-**职业代码：K1404 – Public Policy Implementation and Steering Officer。**
+**Occupation code: K1404 (ROME)**
 
-Responsible for formulating, implementing, and evaluating public policies, coordinating government departments and stakeholders to ensure effective achievement of policy objectives.
+Responsible for formulating, implementing, and evaluating public policies, coordinating government departments and all sectors of society to ensure policy objectives are effectively achieved.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（Master） | $8,000~$15,000（公立大学学费低约243欧元/年；私立高商或政治学院学费8000-15000欧元/年） |
-| 学士 | 3年（Licence） | —（公立大学学费低约170欧元/年；私立学院学费约5000欧元/年） |
+| Master's degree | 2 years (Master) | $8,000~$15,000 (Public university tuition is as low as about 243 euros per year; Private commercial or political school tuition is 8,000–15,000 euros per year) |
+| Bachelor's degree | 3 years (Licence) | $0~$5,000 (Public university tuition is about 170 euros per year; Tuition at private colleges is about 5,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公务员资格（Concours de la fonction publique） | 法国公共服务部 | 必备 | 需通过竞争性考试进入公务员体系，高级职位通常要求硕士学历 |
-| 公共政策硕士学位 | 大学或政治学院 | 可选 | 如Sciences Po Paris或公立大学公共政策硕士，非强制但高度推荐 |
+| Civil Service Qualification (Concours de la fonction publique) | French Ministry of Public Service | Required | Entry into the civil service system requires competitive examinations, with senior positions typically requiring a master's degree |
+| Master's degree in Public Policy | University or political academy | Optional | Examples include Sciences Po Paris or a master's degree in public policy from public universities, which are not mandatory but highly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 45,000。法国公共政策领域职位稳定，受政府预算影响较大。数字化转型和简化行政流程带来新需求，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Positions in France's public policy sector are stable, with significant influence from government budgets. Digital transformation and streamlined administrative processes have brought new demands, but competition is fierce.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 公务员初级薪资约2.5-3万欧元/年 |
-| 中级（4-10年） | $40,000~$55,000 | 项目经理或部门主管薪资区间 |
-| 高级（10年以上） | $60,000~$80,000 | 主任或高级政策顾问薪资 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Entry-level government salary: roughly €25,000–€30,000/year. |
+| Mid-level (4-10 years). | $40,000~$55,000 | Salary range for project managers or department heads |
+| Senior (10+ years) | $60,000~$80,000 | Salary for directors or senior policy advisors |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 可从政策分析员晋升至项目经理、部门主管，再至高级政策顾问或主任。需积累跨部门协调经验。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the efficiency of public policy analysis and evaluation, but decision-making responsibility and ethical judgment still depend on humans, with core job tasks being both compressed and amplified, resulting in mixed outcomes overall.
+
+You can advance from policy analyst to project manager, department head, and then to senior policy advisor or director. Experience in cross-departmental coordination is required.
+
+**Tasks most exposed to AI:**
+
+- Policy impact modeling and data statistical analysis
+- Drafting and proofreading routine regulatory documents
+- Automatic collection and summarization of multi-channel public opinion information
+- Automated monitoring reports for policy implementation progress
+
+**Where AI augments the role:**
+
+- Use AI to simulate the multidimensional impacts of different policy proposals
+- Real-time monitoring of public opinion and policy feedback, assisting in dynamic adjustments
+- Automatically correlates cross-departmental data to identify policy blind spots and collaboration opportunities
+- AI generates multiple versions of policy wording to assist stakeholder communication
+
+**Human moat:**
+
+- Coordinating multiple interests and reaching consensus in a complex political environment
+- In-depth judgments on policy ethics and social fairness
+- Making non-procedural decisions in crises or uncertain situations
+- Vision-building and persuasive ability to drive policy innovation
+
+**Skills to build:**
+
+- Data Analysis and Statistical Modeling (Python/R/SQL)
+- Machine learning fundamentals and AI tool applications (such as policy simulation platforms)
+- Digital governance and smart government system management
+- Public Policy Design Thinking and Innovation Methodology
+- Cross-departmental collaboration and stakeholder management capabilities
+- Ethics and compliance review skills
+
+**Key growth areas:**
 
 - Policy Analysis
 - Digital Transformation
@@ -61,68 +93,67 @@ Responsible for formulating, implementing, and evaluating public policies, coord
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能专业人士，如公务员或政策专家，需硕士学历+工作合同 |
-| Subclass Salarié（Employee Work Permit） | 受雇于法国公共部门或私营公司的政策岗位，需工作许可和雇主担保 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高学历人才，年薪要求约5.5万欧元以上（2025年标准） |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, such as civil servants or policy experts, requiring a master's degree + employment contract |
+| Subclass Salarié (Employee Work Permit) | Policy positions employed by French public sector or private companies, requiring work permit and employer sponsorship. |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to non-EU highly educated talent, annual salary requirement approx EUR 55,000+ (2025 standard). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Policy Implementation and Steering Officer？**
-- 有志于公共服务、政策分析与政府事务的人士
-- 具备公共行政、政治学或法学背景的研究生
-- 擅长跨部门协调和项目管理的人员
-
-**谁不适合学Public Policy Implementation and Steering Officer？**
-- 追求高薪和快速晋升的求职者
-- 偏好私营企业灵活性和高自主性的人士
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals interested in public service, policy analysis, and government affairs
+- Graduate students with a background in public administration, political science, or law
+- Personnel skilled in cross-departmental coordination and project management
+
+**Who is not suited**
+- Job seekers seeking high salaries and rapid promotions
+- Those who prefer flexibility and high autonomy in private enterprises
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels in France's public policy sector?**
+A: Entry-level: around €30,000-€38,000/year, mid-level up to €55,000, senior up to €80,000/year. Public sector salaries are relatively stable but have limited growth.
+
+**Q: How can foreigners immigrate to France through public policy careers?**
+A: Must hold a French master's degree and find a public or private sector job, can apply via Passeport Talent or Salarié work visa. Civil servant status usually requires French nationality or EU status.
+
+**Q: What qualifications are required to become a civil servant in France?**
+A: Passing the civil service competitive exam (Concours) is required; senior positions require a master's degree. Some positions require specialized qualifications, such as a Master of Public Policy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Public Policy Implementation and Steering Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level in public policy in France?**
-答：Entry-level around €30,000-38,000/year, mid-level up to €55,000, senior up to €80,000. Civil servant salaries are stable but with limited growth.
-
-**问：How can foreigners immigrate to France through a public policy career?**
-答：Need a French master's degree and a job offer in public or private sector. Talent Passport or Employee visa are options. Civil servant positions usually require French or EU nationality.
-
-**问：What certifications are needed to become a French civil servant?**
-答：Must pass competitive exams (Concours) for civil service. Senior roles require a master's degree. Specific qualifications like a Master in Public Policy are advantageous.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

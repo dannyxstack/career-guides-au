@@ -1,59 +1,95 @@
-# Recreation, sports and fitness program and service directors（Recreation, sports and fitness program and service directors）职业分析 · 加拿大
+# Recreation, sports and fitness program and service directors — career analysis · Canada
 
-**职业代码：50012 – Recreation, sports and fitness program and service directors。**
+**Occupation code: 50012 (NOC)**
 
-Plan, organize, and manage recreation, sports, and fitness programs and facilities, ensuring safe and efficient operations to meet community needs.
+Responsible for planning, organizing, and managing entertainment, sports, and fitness programs and facilities, ensuring safe and efficient operations to meet community needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$80,000（大学学费总额，公立大学较低） |
-| 文凭课程 | 2年 | $15,000~$30,000（学院或CÉGEP的休闲管理文凭） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Total university tuition fees, lower at public universities) |
+| Diploma course | 2 years | $15,000~$30,000 (College or CÉGEP diploma in Leisure Management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大娱乐与公园协会认证 | Canadian Parks and Recreation Association (CPRA) | 可选 | 建议获取，提升就业竞争力 |
-| 省级娱乐专业人员认证 | 各省娱乐协会 | 可选 | 部分省份要求注册 |
-| 急救与心肺复苏认证 | 红十字会或心搏基金会 | 必备 | 通常为雇主强制要求 |
+| First aid and CPR certification | Red Cross or Heart Foundation | Required | Usually mandatory for employers |
+| Canadian Recreation and Parks Association certification | Canadian Parks and Recreation Association (CPRA) | Optional | Recommended to obtain, enhances employment competitiveness |
+| Provincial entertainment professional certification | Provincial entertainment associations | Optional | Registration required in some provinces |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏上（★★★½☆）。** 全国从业人数约 14,200。加拿大人口老龄化和健康意识提升推动该职业需求稳定增长，尤其在城市和退休社区。就业机会主要来自市政、非营利组织和私营健身机构。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 14,200. Canada's aging population and rising health awareness are driving steady demand for this occupation, especially in cities and retirement communities. Employment opportunities primarily come from municipalities, non-profits, and private fitness organizations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 项目协调员或助理总监 |
-| 中级（3-7年） | $60,000~$85,000 | 部门经理或小型设施总监 |
-| 高级（7年以上） | $85,000~$120,000 | 大型机构或区域总监 |
+| Median salary | $76,190 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Project Coordinator or Assistant Director |
+| Mid-level (3–7 years) | $60,000~$85,000 | Department manager or small facility director |
+| Senior (7+ years) | $85,000~$120,000 | Large organization or regional director |
+| average salary | $91,520 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从项目协调员或助理起步，积累经验后可晋升为总监或副总经理。通过获得认证（如CPRP）和继续教育，可拓展至管理更大规模的多设施运营。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of recreation and leisure manager will be partially restructured by AI: administrative tasks like scheduling and customer response are compressed, but human core competencies such as creative planning, safety supervision, and team leadership are amplified. Mixed outlook overall.
+
+Usually starting as a project coordinator or assistant, progressing to director or deputy general manager with experience. Through certification (e.g., CPRP) and continuing education, can expand to managing larger multi-facility operations.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and booking system that reduces manual scheduling work.
+- AI-driven customer service chatbots handle common inquiries and complaints
+- AI report generation based on historical data, replacing some data analysis tasks.
+- Smart ticketing and inventory management system to optimize ticket sales and merchandise replenishment
+- Automation of standard activity workflows, such as email notifications and form distribution
+
+**Where AI augments the role:**
+
+- Use AI to analyze visitor traffic and preferences to optimize event timing and venue layout.
+- Provide immersive previews via AI virtual reality tools to enhance event marketing
+- AI-assisted creative generation for quickly developing multiple event themes and decoration plans
+- Real-time monitoring of AI system feedback, dynamically adjusting field service and resource allocation
+- AI-driven employee training simulator to enhance team emergency response
+
+**Human moat:**
+
+- Handle sudden security incidents and customer conflicts, requiring emotional judgment and immediate decision-making
+- Maintain key client relationships and build trust in community partnerships
+- Creative direction control to ensure event uniqueness and brand consistency
+- Lead diverse teams, fostering an inclusive and efficient work culture.
+- Compliance and risk management, especially involving minors and special activities
+
+**Skills to build:**
+
+- Data analysis and AI collaboration: use Python or low-code tools to analyze operational data
+- Application of AI content generation tools (e.g., ChatGPT, Midjourney)
+- Digital marketing and social media management, combined with AI for personalized promotion
+- Basic VR/AR technology applications for event preview and remote collaboration.
+- Cross-cultural communication and crisis management to enhance handling of complex interpersonal scenarios
+- Agile project management and automation workflow tools (e.g., Trello, Zapier)
+
+**Key growth areas:**
 
 - Health & Wellness
 - Recreation Management
@@ -62,68 +98,67 @@ Plan, organize, and manage recreation, sports, and fitness programs and faciliti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 通过FSW或CEC类别申请，需满足工作经验、语言等要求 |
-| Subclass PNP（Provincial Nominee Program） | 通过省提名获得额外600分加分，部分省份有优先职业 |
-| Subclass LMIA（Labour Market Impact Assessment） | 若获得雇主担保，可申请工签并积累本地经验 |
+| Subclass Express Entry (Federal Skilled Worker) | Apply through FSW or CEC categories, meeting work experience and language requirements |
+| Subclass PNP (Provincial Nominee Program) | Gain an extra 600 points through provincial nomination; some provinces have priority occupations. |
+| Subclass LMIA (Labour Market Impact Assessment) | If employer-sponsored, can apply for a work visa and accumulate local experience |
 
-**PR难度：中等偏易（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Recreation, sports and fitness program and service directors？**
-- 热爱体育与健身，具备领导力和组织能力
-- 善于与人沟通，能协调多方利益
-- 追求工作生活平衡，愿意服务社区
-
-**谁不适合学Recreation, sports and fitness program and service directors？**
-- 不喜欢户外活动或体力工作
-- 对行政管理工作缺乏耐心
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports and fitness, with leadership and organisational skills.
+- Good communication skills and ability to coordinate multiple stakeholders
+- Seeking work-life balance and willingness to serve the community
+
+**Who is not suited**
+- Dislike outdoor activities or physical work
+- Lacks patience for administrative tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Entry-level annual salary is about C$45,000-60,000, mid-level C$60,000-85,000, senior up to C$120,000+, depending on region and institution size.
+
+**Q: What are the pathways to immigrate to Canada for this occupation?**
+A: Apply via Federal Skilled Worker (FSW/CEC) or Provincial Nominee Program (PNP); some provinces have priority processing. Obtaining LMIA employer sponsorship can also accumulate local experience.
+
+**Q: What educational background is required?**
+A: Typically requires a bachelor's degree or college diploma in recreation management, sports management, or related fields. Certifications such as CPRP can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等偏上（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等偏易（★★☆☆☆） |
-
-Recreation, sports and fitness program and service directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level salaries range from CAD 45,000 to 60,000; mid-level from 60,000 to 85,000; senior roles can exceed 120,000, depending on location and employer.
-
-**问：What are the immigration pathways for this occupation in Canada?**
-答：Eligible through Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP), with priority in some provinces. LMIA-based work permits can also lead to permanent residence.
-
-**问：What education is required?**
-答：A bachelor's degree or diploma in recreation management, sports management, or a related field is typical. Certification such as CPRP is beneficial.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

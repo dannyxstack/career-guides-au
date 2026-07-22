@@ -1,60 +1,96 @@
-# Alcoholic Beverage Distillers (excluding wine)（Alcoholic Beverage Distillers (excluding wine)）职业分析 · ES
+# Alcoholic Beverage Distillers (excluding wine) — career analysis · Spain
 
-**职业代码：7706 – Alcoholic Beverage Distillers (excluding wine)。**
+**Occupation code: 7706 (CNO)**
 
-Workers involved in the production and brewing of beer, spirits, and other alcoholic beverages excluding wine, including raw material handling, fermentation, distillation, aging, and bottling.
+Engaged in the production and brewing of beer, spirits, and other non-wine alcoholic beverages, including raw material handling, fermentation, distillation, aging, and bottling.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立学校免费，仅教材费用） |
-| 高等职业培训（FP Grado Superior） | 2年 | —（公立免费或低学费） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$500 (Public schools are free, only the textbook fee is required) |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $0~$600 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品加工与酿造职业培训证书 | 西班牙教育和职业培训部 | 可选 | FP Grado Medio或Superior相关专业 |
-| 食品安全与卫生证书 | 各自治区卫生部门 | 必备 | 从事食品生产必须持有的健康与卫生培训证明 |
+| Food safety and sanitation certificate | Health departments of all autonomous regions | Required | Health and hygiene training certificates required for food production |
+| Vocational training certificate in food processing and brewing | Spanish Ministry of Education and Vocational Training | Optional | FP Grado Medio or Superior-related majors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙精酿啤酒和手工烈酒市场持续增长，带动该职业需求上升。但整体从业人数较少，岗位集中在中小型酿酒厂。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The Spanish craft beer and craft spirits market continues to grow, driving demand for this profession higher. However, the overall number of employees is relatively small, with positions concentrated in small and medium-sized distilleries.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，小型酿酒厂起薪较低 |
-| 中级（3-7年） | $22,000~$28,000 | 具备独立操作能力 |
-| 高级（7年以上） | $28,000~$35,000 | 酿造主管或资深酿酒师 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, with lower starting salaries for small breweries |
+| Mid-level (3–7 years) | $22,000~$28,000 | Capable of independent operation. |
+| Senior (7+ years) | $28,000~$35,000 | Brewing supervisor or senior winemaker |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级酿造工人起步，可晋升为酿造主管或酿酒师；部分人自行创业开设小型酿酒厂。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Alcoholic beverage brewers face the dual impact of automation and AI: standardized processes are easily replaced, but complex sensory evaluation and process innovation still require humans; Entry-level positions have decreased due to automation, but demand for high-end positions is increasing.
+
+Starting as a junior brewer, you can be promoted to brewing supervisor or brewer; Some started their own small breweries.
+
+**Tasks most exposed to AI:**
+
+- Repetitive operations on automated filling and packaging lines
+- Real-time sensor-based fermentation parameter monitoring and adjustment
+- Temperature and time control in standardized distillation processes
+- Using AI vision systems for product appearance defect detection
+- Automated raw material weighing and mixing processes
+
+**Where AI augments the role:**
+
+- Optimizing fermentation and distillation process parameters using sensor data
+- AI analyzes consumer taste data to guide new product development
+- Using digital twins to simulate the flavor effects of different ingredient ratios
+- Remote equipment maintenance and fault diagnosis are enabled with AR/VR
+- Optimize energy consumption and production scheduling based on machine learning
+
+**Human moat:**
+
+- Sensory appreciation and adjustment of the body's flavor
+- Innovative formula development and traditional craftsmanship
+- On-site diagnosis and repair of equipment sudden faults
+- Compliance responsibilities in compliance with ESG regulations and food safety standards
+- Maintaining long-term trust relationships with suppliers and customers
+
+**Skills to build:**
+
+- Sensor Data Analysis (Python/R)
+- Operation of automated control systems (PLC/DCS).
+- Fundamentals of AI/ML and its application in flavor prediction
+- Digital Quality Management (SPC, MES System)
+- Fermentation Microbiology and Bioengineering
+- Sustainable production and energy management
+
+**Key growth areas:**
 
 - craft beer
 - distillery
@@ -63,62 +99,64 @@ Workers involved in the production and brewing of beer, spirits, and other alcoh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 由雇主担保的工作居留，需证明职位无法在欧盟内填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙逗留6个月寻找工作，需具备相关学历或经验。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for work, and you must have relevant academic qualifications or experience. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Alcoholic Beverage Distillers (excluding wine)？**
-- 对酿酒工艺有浓厚兴趣，愿意从基层开始学习的人
-- 喜欢动手操作和重复性工作的人
-- 希望在小型企业或创业环境中工作的人
+**Who is suited**
+- People with a strong interest in brewing techniques and willing to start learning from the grassroots
+- people who enjoy hands-on and repetitive work
+- People who want to work in small businesses or entrepreneurial environments
 
-**谁不适合学Alcoholic Beverage Distillers (excluding wine)？**
-- 希望快速获得高收入的人
-- 不擅长体力劳动或对酿造过程化学变化不感兴趣的人
+**Who is not suited**
+- People looking to quickly achieve high income
+- People who are not skilled in physical labor or uninterested in the chemical changes in the brewing process
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for alcoholic beverage brewers?**
+A: The entry-level annual salary is about 18,000-22,000 euros, while seniors can reach up to 35,000 euros, but overall this is below the Spanish average.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: The difficulty is quite high. This occupation is not considered in short supply, and the SME sponsored job residency procedures are complicated. It is recommended to study abroad first or apply for a job-seeking visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Alcoholic Beverage Distillers (excluding wine)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for alcoholic beverage distillers?**
-答：Entry-level annual salary is about €18,000-22,000, and senior positions can reach €35,000, but overall below the Spanish average.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult. The occupation is not in shortage, and work permit sponsorship by small companies is complex; studying or a job search visa is recommended.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

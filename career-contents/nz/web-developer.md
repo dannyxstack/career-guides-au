@@ -1,58 +1,94 @@
-# Web Developer（Web Developer）职业分析 · 新西兰
+# Web Developer — career analysis · New Zealand
 
-**职业代码：261212 – Web Developer。**
+**Occupation code: 261212 (ANZSCO)**
 
-Web Developers design, build and maintain websites and web applications, covering front-end and back-end technologies. In New Zealand, strong digital demand makes this role eligible for skilled migration and AEWV, subject to salary or role criteria.
+Web development covers designing, building, and maintaining websites and web apps, including front-end and back-end technologies. New Zealand has strong digital demand; this occupation is eligible for both skilled migration and accredited employer work visa pathways, but must meet salary or position requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大学本科（计算机科学或相关专业） | 3年 | $50,000~$150,000（学费范围，国际生较高；本地生较低） |
-| 理工学院文凭（IT或Web开发方向） | 2年 | $20,000~$50,000（学费范围，国际生较高；本地生较低） |
+| Bachelor's degree (computer science or related field) | 3 years | $50,000~$150,000 (Tuition fee range; higher for international students, lower for local students) |
+| Polytechnic diploma (IT or Web Development) | 2 years | $20,000~$50,000 (Tuition fee range; higher for international students, lower for local students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IT相关本科或文凭 | 新西兰学历认证局（NZQA）认可院校 | 可选 | 广泛认可，但非强制；工作经验可替代 |
-| IELTS或PTE英语成绩 | IDP/BC/PTE | 必备 | 技术移民需雅思6.5或同等水平 |
+| IELTS or PTE English test scores. | IDP/BC/PTE | Required | Skilled migration requires IELTS 6.5 or equivalent |
+| IT-related bachelor's degree or diploma | NZQA-recognized institutions | Optional | Widely recognized, but not mandatory; work experience can substitute |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 6,500。新西兰数字化进程推动网页开发需求稳定增长，主要集中于奥克兰、惠灵顿和基督城。预计未来五年就业岗位增加约10%，但竞争中等，需持续学习新技术。
+**Job demand: high (★★★★☆).** National workforce approx. 6,500. New Zealand's digitalization drives steady growth in web development demand, mainly in Auckland, Wellington, and Christchurch. Job openings are expected to increase by about 10% in the next five years, but competition is moderate and requires continuous learning of new technologies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 常见范围，取决于技能和地点 |
-| 中级（3-6年） | $75,000~$100,000 | 常见范围 |
-| 高级（6年以上） | $100,000~$140,000 | 常见范围，领导角色更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Common range, depending on skills and location |
+| Mid-level (3–6 years) | $75,000~$100,000 | Common range |
+| Senior (6+ years) | $100,000~$140,000 | Typical range; higher for leadership roles |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业路径可从初级开发者晋升至高级、技术主管或架构师，亦可转向全栈开发或管理岗位。持续学习React、Node.js等前沿技术有助于提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
+
+Career path can progress from junior developer to senior, tech lead, or architect, or switch to full-stack development or management. Continuous learning of cutting-edge technologies like React and Node.js enhances competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Repetitive UI component writing and style debugging
+- CRUD code generation for standard REST APIs
+- Building static pages based on templates
+- Writing and executing basic test cases
+- Simple database queries and data migration scripts
+
+**Where AI augments the role:**
+
+- AI-assisted rapid prototyping and code snippet generation to accelerate development iteration
+- AI-driven automated testing and error detection to improve code quality
+- Using AI code review tools to detect potential security vulnerabilities and performance bottlenecks
+- AI-generated documentation and API descriptions to reduce writing time
+- AI-assisted project schedule estimation and technical solution selection
+
+**Human moat:**
+
+- System architecture design and technology selection decisions
+- Understanding of complex business logic and implementation of non-standard requirements
+- Empathy and creativity in user research and experience optimization
+- Cross-Team Communication and Project Management Skills
+- System security, compliance, and operational assurance
+
+**Skills to build:**
+
+- Master advanced usage of AI code assistants (e.g., Copilot, Cody)
+- Learning system architecture design and cloud-native technologies (AWS/Azure/GCP)
+- Strengthen full-stack development skills (frontend + backend + database)
+- Improve knowledge of UX design and accessibility standards
+- Learning AI model integration and API calls (e.g., LangChain, OpenAI API)
+- Cultivating project management and agile methodology (e.g., Scrum, SAFe)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -61,68 +97,67 @@ Web Developers design, build and maintain websites and web applications, coverin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民类别，满足职业、薪资（当前中位数工资$29.66/小时以上）和6分制要求即可申请 |
-| Subclass Green List T2（Green List Tier 2 - Work to Residence） | 绿色清单二级职业，工作2年后可申请居留，需薪资达到中位数工资的1.5倍（约$44.49/小时） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需获得认证雇主的工作offer，薪资达到中位数工资，最长可获3年签证 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category; eligible if occupation, salary (currently above median wage of $29.66/hour), and 6-point system requirements are met. |
+| Subclass Green List T2 (Green List Tier 2 - Work to Residence) | Green list Level 2 occupation, eligible for residence after 2 years of work, requires salary at 1.5 times the median wage (approx. $44.49/hour) |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires job offer from accredited employer, salary at median wage, maximum 3 years visa |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web Developer？**
-- 热爱编程和技术创新，有自学能力的人。
-- 希望进入IT行业且对数字产品有热情的人。
-- 愿意持续学习新技术以适应行业变化的人。
-
-**谁不适合学Web Developer？**
-- 不愿持续学习或更新技术栈的人。
-- 偏好稳定、重复性工作的人。
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love programming and technological innovation and have self-learning ability.
+- People who want to enter the IT industry and are passionate about digital products.
+- Someone willing to continuously learn new technologies to adapt to industry changes
+
+**Who is not suited**
+- People unwilling to continuously learn or update their tech stack.
+- People who prefer stable, repetitive work.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for Web Development in New Zealand?**
+A: Junior annual salary approx NZD 55,000-75,000, intermediate NZD 75,000-100,000, senior can reach over NZD 100,000. Salary affected by location and skills; Auckland and Wellington are typically higher.
+
+**Q: Can web developers immigrate to New Zealand via the Green List?**
+A: Yes. Web development is on the Green List Tier 2 (Work to Residence), requiring a salary at 1.5 times the median wage (approx. $44.49/hour) and 2 years of work experience. It also qualifies for SMC skilled migration.
+
+**Q: Do you need a university degree to become a web developer?**
+A: Not required, but relevant qualifications help. New Zealand employers value portfolios and practical experience; some polytechnic diplomas or online courses can also lead to entry.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Web Developer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for web development in New Zealand?**
-答：Entry-level salaries range from NZD 55,000 to 75,000, mid-level 75,000 to 100,000, and senior roles can exceed 100,000. Salaries vary by location and skills, with Auckland and Wellington typically higher.
-
-**问：Can web development migrate to New Zealand via the Green List?**
-答：Yes. Web Developer is on the Green List Tier 2 (Work to Residence), requiring a salary of 1.5 times the median wage (approx. NZD 44.49/hour) and 2 years of work. It also qualifies for the Skilled Migrant Category.
-
-**问：Do I need a university degree to become a web developer?**
-答：No, but a relevant qualification helps. New Zealand employers value portfolios and practical experience more; polytechnic diplomas or online courses can also lead to entry.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

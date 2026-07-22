@@ -1,147 +1,169 @@
-# 电动车电池诊断专家（EV Battery Diagnostics Specialist）职业分析 · UK
+# EV Battery Diagnostics Specialist — career analysis · United Kingdom
 
-**职业代码：3113 – EV Battery Diagnostics Specialist。**
+**Occupation code: 3113-EVBD (SOC)**
 
-电动车电池诊断专家负责高压电池组的故障诊断、健康状态(SoH)评估、模组维修与更换，横跨 EV 售后、保修与储能运维，需要高压安全资质与诊断工具经验，是随 EV 保有量上升快速兴起的技术专才岗。
+Electric vehicle battery diagnostic experts are responsible for fault diagnosis of high-voltage battery packs, health condition (SoH) assessment, module repair and replacement, spanning EV after-sales, warranty, and energy storage operation and maintenance. They require high-voltage safety qualifications and diagnostic tool experience, making them a rapidly emerging technical specialist position as EV ownership increases.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 汽车电气/机电 Certificate 或电子技术文凭 | 1~2 年 | $3,000~$20,000（职业院校/技术学院；EV 高压方向加分） |
-| 高压电动车安全资质（HV/De-energise） | 数天~数周 | $500~$3,000（高压电池作业法定安全要求） |
-| 学历/资格认证（Engineering Council（CEng/IEng））与 OEM 诊断培训 | 数周~数月 | $800~$8,000（海外从业需完成认证；品牌诊断体系） |
+| Automotive Electrical/Mechatronics Certificate or Electronic Technology Diploma | 1~2 years | $3,000~$20,000 (Vocational colleges/technical colleges; EV high-voltage direction is a plus) |
+| High-voltage electric vehicle safety qualification (HV/De-energise) | Days to weeks | $500~$3,000 (Legal safety requirements for high-voltage battery operations) |
+| Qualifications/Qualifications (Engineering Council (CEng/IEng)) and OEM diagnostic training | A few weeks to several months | $800~$8,000 (Overseas employment requires certification; Brand diagnostic system) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高压电动车作业安全资质（HV/De-energise） | 认可培训机构 / OEM | 必备 | 高压电池作业法定安全门槛 |
-| 学历/资格认证（Engineering Council（CEng/IEng）） | Engineering Council（CEng/IEng） | 必备 | 海外从业者本地化门槛 |
-| OEM 诊断系统认证 | 各汽车厂商 | 可选 | 售后与保修诊断岗常要求 |
+| High-voltage electric vehicle operation safety qualification (HV/De-energise) | Accredited training institutions / OEMs | Required | Legal safety threshold for high-voltage battery operations |
+| Qualifications/Qualifications (Engineering Council (CEng/IEng)) | Engineering Council（CEng/IEng） | Required | Localization thresholds for overseas practitioners |
+| OEM diagnostic system certification | Various automakers | Optional | After-sales and warranty diagnostic staff are often required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 2,000。在英国，电动车保有量上升带来电池售后与诊断需求，电动车电池诊断专家熟手短缺；作为技术员岗，技术移民路径较受限。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,000. In the UK, the increase in electric vehicle ownership has led to demand for battery after-sales and diagnostics, and there is a shortage of experienced battery diagnostic experts; As a technician position, the pathway for skilled migration is relatively limited.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| Indeed UK | 80~300 个 | 电动车电池诊断专家及相邻岗位（英国） |
-| Reed | 60~250 个 | 电动车电池诊断专家及相邻岗位（英国） |
-| LinkedIn | 80~250 个 | 电动车电池诊断专家及相邻岗位（英国） |
-
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior/Technician (0~3 years) | $26,000~$35,000 | Starting salary varies by employer and region (£26,000~£35,000) |
+| Diagnostic Specialist (3~7 years) | $35,000~$45,000 | Industry median range (£35,000~£45,000) |
+| Senior / Supervisor (8+ years) | $45,000~$58,000 | Senior/Expert, including project allowance (£45,000~£58,000) |
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 5. Future outlook / AI exposure
 
-| 经验水平 | 年薪（GBP） | 备注 |
-|---|---:|---|
-| 初级/技术员（0~3 年） | $26,000~$35,000 | 起薪，随雇主与地区（£26,000~£35,000） |
-| 诊断专家（3~7 年） | $35,000~$45,000 | 行业中位区间（£35,000~£45,000） |
-| 资深/主管（8 年+） | $45,000~$58,000 | 资深/专家，含项目津贴（£45,000~£58,000） |
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
+
+AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
+
+High-voltage battery diagnostics and health assessments in the UK have become a hot topic, with OEM diagnostics and high-voltage safety experts in high demand; Diagnostic readings can be automated, but high-voltage disassembly and assessment still require manual labor.
+
+**Tasks most exposed to AI:**
+
+- Automatic battery data collection and initial abnormal screening
+- Automatic fault code analysis and report generation based on standard processes
+- Standardized operations such as torque and connection checks when replacing modules
+
+**Where AI augments the role:**
+
+- AI models are used to predict battery health deterioration trends and optimize maintenance plans
+- Using historical data and AI assistance, it quickly locates the root causes of complex faults
+- After AI-generated diagnostic recommendations, experts validate and adjust the plan
+- Combining AR/VR with AI to remotely guide on-site maintenance operations
+
+**Human moat:**
+
+- High-voltage safe operation and emergency response responsibilities
+- A deep understanding of the mechanisms of battery electrochemical behavior
+- Creative diagnosis for handling non-standard and rare faults
+- Customer trust and the final judgment for warranty decisions
+
+**Skills to build:**
+
+- Battery Management System (BMS) and diagnostic software are used
+- Fundamentals of machine learning and data annotation skills
+- High-voltage electrician certificate and safety qualifications
+- Awareness of the diversity of electric vehicle models and battery chemistry
+- Practical ability in electrical measurement and maintenance
+
+**Key growth areas:**
+
+- High-Voltage Battery Pack Diagnostics & Fault Localization
+- Battery Health (SoH) Assessment & Cascade Utilization
+- EV After-Sales & Warranty Diagnostics (OEM Systems)
+- Battery Repair & Module Replacement (High Voltage Safety)
+- Energy Storage Battery Field Diagnostics & Maintenance
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 6. Migration pathways / PR
 
-**发展前景：很好（★★★★☆）。** 英国高压电池诊断与健康评估成为热点，掌握 OEM 诊断与高压安全者抢手；诊断读数可自动化，高压拆装与判断仍需人工。
-**AI替代风险：中等（★★½☆☆）。**
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-主要增长方向：
-
-- 高压电池组诊断与故障定位
-- 电池健康(SoH)评估与梯次利用
-- EV 售后与保修诊断(OEM 体系)
-- 电池维修与模组更换(高压安全)
-- 储能电池现场诊断与运维
-
----
-
-## 6. 移民路径 / PR难度
-
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
-
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（技术工作签证） | Skilled Worker：需达到技能与薪资门槛，技术员岗视具体职位 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Skilled Worker: Must meet skill and salary thresholds; technician positions depend on the specific position |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电动车电池诊断专家？**
-- 有汽车电气/机电或电子技术背景，想切入 EV 电池方向
-- 愿意考取高压安全资质并做现场诊断
-- 对电池健康评估、故障定位与维修有兴趣
-- 接受以雇主担保为主的移民路径
-
-**谁不适合学电动车电池诊断专家？**
-- 排斥动手维修与高压作业风险
-- 希望走独立技术移民的快速通道（此岗受限）
-- 不愿学习 OEM 诊断系统与安全规程
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background in automotive electrical/mechatronics or electronics who want to enter the EV battery field
+- Willing to obtain high-pressure safety qualifications and conduct on-site diagnosis
+- Interested in battery health assessment, fault localization, and repair
+- Accept immigration pathways primarily based on employer sponsorship
+
+**Who is not suited**
+- Dislikes hands-on repairs and high-risk work pressure
+- Those seeking the fast-track independent skilled migration (this position is limited)
+- Unwilling to learn OEM diagnostic systems and safety protocols
+
+---
+
+## 8. FAQ
+
+**Q: How much does a UK electric vehicle battery diagnostic specialist earn?**
+A: Entry-level is about £26,000~£35,000; Senior is about £45,000~£58,000 (GBP). Salaries vary by region, industry, and project; see the pay schedule for details.
+
+**Q: How is there demand for electric vehicle battery diagnostic experts in the UK?**
+A: In the UK, the increase in electric vehicle ownership has led to demand for battery after-sales and diagnostics, and there is a shortage of experienced battery diagnostic experts; As a technician position, the pathway for skilled migration is relatively limited.
+
+**Q: Is overseas experience recognized in the UK?**
+A: Must obtain local UK qualifications and high-voltage electric vehicle safety certifications; Overseas EV diagnostic experience is helpful, but high-voltage operation qualifications are a hard hurdle (Engineering Council (CEng/IEng)).
+
+**Q: Will electric vehicle battery diagnostic experts be replaced by AI?**
+A: Part. Diagnostic readings and fault code analysis can be automated, but high-voltage battery disassembly, module replacement, and on-site safety assessments still require manual labor, requiring human-machine collaboration.
+
+**Q: Can electric vehicle battery diagnostic specialists immigrate to the UK for skilled immigration?**
+A: It is more difficult to immigrate independently. As a technician-level position, the path is limited and mainly relies on employer sponsorship and other channels. It is recommended to first accumulate employment experience in the UK before advancing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ERI / Glassdoor UK | Power Systems Engineer UK 约 £45k~£70k（区间 £48k~£85k） |
-| IT Jobs Watch / Indeed | FPGA 中位 £70k；初级 £34k~£48k，资深 £60k~£80k，Lead £75k~£100k |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-电动车电池诊断专家为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：英国电动车电池诊断专家工资多少？**
-答：初级约 £26,000~£35,000；资深约 £45,000~£58,000（GBP）。薪资随地区、行业与项目而定，具体见薪资表。
-
-**问：电动车电池诊断专家在英国需求怎样？**
-答：在英国，电动车保有量上升带来电池售后与诊断需求，电动车电池诊断专家熟手短缺；作为技术员岗，技术移民路径较受限。
-
-**问：海外经验在英国认可吗？**
-答：需取得英国本地资质与高压电动车安全资质；海外 EV 诊断经验有帮助，但高压作业资质是硬门槛（Engineering Council（CEng/IEng））。
-
-**问：电动车电池诊断专家会被 AI 替代吗？**
-答：部分。诊断读数与故障码分析可自动化，但高压电池拆装、模组更换与现场安全判断仍需人工，属人机协作。
-
-**问：电动车电池诊断专家能在英国技术移民吗？**
-答：较难独立移民。作为技术员级岗位路径受限，主要依赖雇主担保等通道，建议先在英国就业积累再推进。
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

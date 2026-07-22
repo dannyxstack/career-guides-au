@@ -1,62 +1,96 @@
-# Aesthetic and Body Care Specialist（Aesthetic and Body Care Specialist）职业分析 · FR
+# Aesthetic and Body Care Specialist — career analysis · France
 
-**职业代码：D1208 – Aesthetic and Body Care Specialist。**
+**Occupation code: D1208 (ROME)**
 
-Provides facial treatments, body massages, hair removal, and nail care, as well as makeup and skin consultations. A core role in the French beauty industry.
+It offers facial treatments, body massages, hair removal, manicures, and other beauty services, as well as makeup and skin consultations, making it a core position in the French beauty industry.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业后2年 | 2年（CAP Esthétique） | $3,000~$10,000（公立学校低，私立高，可学徒制免学费） |
-| 高中毕业后3年 | 3年（Bac Pro Esthétique） | $3,000~$12,000（含实习，公立或私立） |
-| 高中会考后2年 | 2年（BTS Métiers de l'Esthétique） | $5,000~$15,000（可升管理岗，有学费减免可能） |
+| Two years after graduating from high school | 2 years (CAP Esthétique) | $3,000~$10,000 (Public schools have lower tuition fees, private ones are higher, and apprenticeships are available without tuition) |
+| Three years after graduating from high school | 3 years (Bac Pro Esthétique) | $3,000~$12,000 (Including internships, public or private institutions) |
+| Two years after the high school entrance exam | 2 years (BTS Métiers de l'Esthétique) | $5,000~$15,000 (You can be promoted to management positions, with possible tuition waivers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Esthétique Cosmétique Parfumerie | 法国教育部 | 必备 | 基础从业文凭，强制 |
-| Bac Pro Esthétique | 法国教育部 | 可选 | 进阶文凭，非强制但推荐 |
-| BTS Métiers de l'Esthétique | 法国教育部 | 可选 | 管理或技术专业文凭 |
+| CAP Esthétique Cosmétique Parfumerie | French Ministry of Education | Required | Basic professional diploma, mandatory |
+| Bac Pro Esthétique | French Ministry of Education | Optional | Advanced diplomas, not mandatory but recommended |
+| BTS Métiers de l'Esthétique | French Ministry of Education | Optional | A diploma in management or technical majors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国美容行业持续增长，老龄化推动抗衰老护理需求，年轻人对个性化服务兴趣高。就业市场稳定，但竞争激烈，需不断更新技能。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The French beauty industry continues to grow, with an aging population driving demand for anti-aging care and a strong interest among young people in personalized services. The job market is stable, but competition is fierce, requiring constant skill updating.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒期或小型机构 |
-| 中级（3-7年） | $28,000~$35,000 | 经验丰富或高档次Spa |
-| 高级（7年以上/管理） | $35,000~$50,000 | 经理或自雇 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprenticeships or small institutions |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced or high-end spas |
+| Senior (over 7 years / Management) | $35,000~$50,000 | Managers or self-employed |
+| average salary | $18,396 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从美容师晋升为高级技师、门店经理或培训师，也可开设独立工作室。向医学美容或 Spa 管理方向发展，需补充管理或医疗资质。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly reduce demand for hairdressers and beauticians, as clients can use virtual try-ons, AI hairstyle recommendations, and other self-service tools for part of the consultation, while automated equipment (e.g., smart hair dye machines, nail printers) can replace basic operations, reducing reliance on entry-level practitioners.
+
+You can advance from beautician to senior technician, store manager, or trainer, or even open an independent studio. Developing towards medical aesthetics or spa management requires supplementary management or medical qualifications.
+
+**Tasks most exposed to AI:**
+
+- AI hair and makeup virtual try-on, customers preview effects via APP, reducing in-person consultation time
+- Automated hair dyeing devices (e.g., intelligent hair dye machines) precisely apply dye, replacing manual brushing.
+- Nail printers can automatically print complex patterns, replacing hand-painted nail artists
+- AI customer management system automatically schedules appointments, follow-ups, and promotions, replacing some administrative work of shop owners
+- Smart shampoo robot performs standard shampooing process, replacing basic shampooing positions
+
+**Where AI augments the role:**
+
+- AI analyzes client face shape, hair texture, and trends to assist designers in proposing personalized solutions
+- Virtual reality (VR) simulates final outcomes, reducing communication gaps and improving satisfaction.
+- After automation tools handle repetitive tasks, hairstylists can focus more on creative design and client relationship maintenance
+- AI inventory and appointment optimization systems improve salon operational efficiency, freeing up energy for high-value services.
+
+**Human moat:**
+
+- Complex hairstyle design and fine trimming require manual dexterity and creativity, difficult for AI to replicate
+- Client trust and emotional connection: providing psychological support, social companionship, and other irreplaceable interpersonal interactions
+- On-site real-time adjustment ability: flexible modification of styling based on client feedback, relying on human intuition and experience
+- Ethical responsibility: professional judgment on safety issues such as chemical use and scalp health
+
+**Skills to build:**
+
+- Operation and parameter adjustment of AI hairstyling tools (e.g., HairByAI, Style My Hair)
+- Basic programming and data analysis: using Python/Excel to optimize customer segmentation and marketing
+- Creative design and artistic appreciation ability: strengthen the uniqueness of non-standardized shapes
+- Customer psychology and communication skills: improve consultation conversion and customer loyalty
+- Social media and content creation: Use AI to generate short video tutorials to attract online customers
+- Cross-disciplinary knowledge: combine beauty and health (e.g., scalp care, nutrition) to provide comprehensive solutions
+
+**Key growth areas:**
 
 - Wellness
 - Anti-aging
@@ -65,68 +99,67 @@ Provides facial treatments, body massages, hair removal, and nail care, as well 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 需法国雇主担保，工作合同至少1年，薪资不低于SMIC，但美容行业薪资较低，担保难度大。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，但美容行业通常不符合高薪或特殊才能要求。 |
+| Subclass Salarié (Employee (Salarié)) | Requires a French employer sponsorship, a work contract of at least one year, and a salary not lower than SMIC, but salaries in the beauty industry are relatively low and sponsorship is more challenging. |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, but the beauty industry often does not meet the requirements for high salaries or special talents. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aesthetic and Body Care Specialist？**
-- 注重细节且动手能力强的人
-- 对美容和健康有热情，喜欢与人互动的人
-- 希望快速就业、偏好实践型工作的人
-
-**谁不适合学Aesthetic and Body Care Specialist？**
-- 追求高薪或快速晋升的人
-- 不愿处理客户投诉或肢体接触的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and hands-on individuals
+- People passionate about beauty and health who enjoy interacting with others
+- Those who hope for quick employment and prefer hands-on work
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who are unwilling to handle customer complaints or physical contact
+
+---
+
+## 8. FAQ
+
+**Q: What is the average pre-tax annual salary for beauticians in France?**
+A: Junior approx. €22,000-€28,000, intermediate €28,000-€35,000, management up to €50,000.
+
+**Q: Can foreigners work in beauty care in France?**
+A: Yes, but you must first obtain a French diploma such as CAP or pass certification, and employer-sponsored work visas are more difficult. It is recommended to consider an apprenticeship study abroad.
+
+**Q: What educational qualifications are required to become a beautician?**
+A: Minimum requirement is CAP Esthétique (2 years), or Bac Pro (3 years) or BTS (an additional 2 years).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aesthetic and Body Care Specialist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average gross annual salary for an aesthetician in France?**
-答：Entry-level around €22,000-€28,000, mid-level €28,000-€35,000, managerial up to €50,000.
-
-**问：Can foreigners work as aestheticians in France?**
-答：Yes, but require French diploma (CAP) or recognition, and employer sponsorship is difficult. Apprenticeship study route is recommended.
-
-**问：What education is needed to become an aesthetician?**
-答：At least CAP Esthétique (2 years), Bac Pro (3 years) or BTS (additional 2 years) possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

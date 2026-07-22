@@ -1,61 +1,95 @@
-# Carpet Installers（Carpet Installers）职业分析 · 美国
+# Carpet Installers — career analysis · United States
 
-**职业代码：47-2041 – Carpet Installers。**
+**Occupation code: 47-2041 (SOC)**
 
-Lay and install carpet from rolls or blocks on floors. Install padding and trim flooring materials.
+Responsible for laying and installing rolled or block carpet on floors, installing underlay, and trimming floor coverings.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训/学徒制 | 1-2年 | —（通常带薪培训，工具和认证费用自付） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training/apprenticeship | 1-2 years | $0~$5,000 (Typically paid training, with tool and certification costs at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 可选 | 大多数雇主要求 |
-| 在职培训 | 雇主 | 可选 | 通常为期1-2年 |
-| 自愿认证 | CFI（地毯安装工协会） | 可选 | 可提升就业机会 |
+| High school diploma or equivalent | School | Optional | Required by most employers |
+| On-the-job training | Employer | Optional | typically 1-2 years |
+| Voluntary certification | CFI (Carpet and Floorcovering Institute) | Optional | Can improve employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 52,300。美国地毯安装工就业前景稳定，受新建住宅和商业装修需求驱动。预计2023-2033年就业增长约3%，与所有职业平均增速持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 52,300. Employment prospects for carpet installers in the US are stable, driven by new housing and commercial renovation demand; employment projected to grow about 3% from 2023 to 2033, about as fast as the average for all occupations
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约14-17美元 |
-| 中级（3-5年） | $35,000~$48,000 | 时薪约17-23美元 |
-| 高级（5年以上） | $48,000~$65,000 | 时薪约23-31美元 |
+| Median salary | $50,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage about $14-$17 |
+| Mid-level (3–5 years) | $35,000~$48,000 | Hourly wage approximately $17–23. |
+| Senior (5+ years) | $48,000~$65,000 | Hourly wage approximately $23-31 |
+| average salary | $56,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从学徒或助手开始，积累经验后可晋升为领班或承包商，也可专攻高级地毯安装或转型为地板综合安装工。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Carpet installer work heavily relies on manual dexterity and on-site judgment; AI automation will primarily replace support tasks like measuring, layout, and inventory management. Core installation skills remain human-dominated, but entry-level positions may decrease due to AI tools.
+
+Typically starts as an apprentice or assistant, gains experience to become a foreman or contractor, or specializes in advanced carpet installation or transitions to comprehensive floor installer.
+
+**Tasks most exposed to AI:**
+
+- Using laser rangefinders or AI software for room measurement and material quantity calculation
+- Virtual layout and adjustment of paving patterns via AR or VR
+- Machine operation for automatic cutting of carpet rolls, replacing manual cutting
+- Inventory management and ordering system, with AI predicting material demand and automatically placing orders.
+
+**Where AI augments the role:**
+
+- AI-assisted measuring and layout improves dimensional accuracy and material utilization
+- Use AR glasses to view real-time laying guidance and quality feedback
+- AI-driven project management tools optimize work scheduling and client communication
+- Automation tools assist manual cutting, reducing waste and increasing speed
+
+**Human moat:**
+
+- Skills in hand cutting and piecing for irregular spaces or complex patterns
+- Fine touch for handling carpet tension, seam hiding, and edge finishing
+- Client on-site communication and requirement understanding skills
+- Experience in handling old carpet removal, floor leveling, and other preparatory work
+- Ability to flexibly adjust installation plans in old buildings or special environments
+
+**Skills to build:**
+
+- Proficiency in laser measurement and digital layout software
+- Learn to use AR/VR tools for client demonstrations and on-site guidance
+- Familiar with operation and maintenance of automatic cutting equipment
+- Basic data analysis skills to optimize material usage and inventory
+- Enhance customer communication and project management skills
+- Understand sustainable materials and eco-friendly installation methods
+
+**Key growth areas:**
 
 - New construction
 - Renovation
@@ -64,65 +98,67 @@ Lay and install carpet from rolls or blocks on floors. Install padding and trim 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Worker） | 季节性或临时非农业工人签证，适用于短期地毯安装项目，但需雇主担保且名额有限。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference） | 职业移民第三优先，适用于技术工人（需至少2年培训或经验），但地毯安装工通常难以证明为技术工人，路径困难。 |
+| Subclass H-2B (Temporary Non-Agricultural Worker) | Seasonal or temporary non-agricultural worker visa, suitable for short-term carpet installation projects, but requires employer sponsorship and limited quotas. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference) | Employment-based third preference (EB-3), for skilled workers (requiring at least 2 years of training or experience), but carpet installers typically struggle to prove they are skilled workers, making the path difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Carpet Installers？**
-- 喜欢动手操作和体力劳动的人
-- 注重细节和精确度的人
-- 愿意通过学徒制学习技能的人
+**Who is suited**
+- People who enjoy hands-on work and physical labor
+- People who pay attention to detail and accuracy
+- People willing to learn skills through an apprenticeship
 
-**谁不适合学Carpet Installers？**
-- 不喜欢体力劳动和长时间站立的人
-- 对工资增长期望较高的人
+**Who is not suited**
+- People who dislike physical labor and prolonged standing
+- Those with higher salary growth expectations.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a carpet installer?**
+A: According to BLS data, the median annual salary for carpet installers in the U.S. in 2023 was approximately $43,000, but beginners may earn as low as $28,000, while experienced workers can reach $65,000.
+
+**Q: Is it easy for carpet installers to immigrate to the US?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and EB-3 green card requires proof of skilled worker (2 years training or experience), with low employer sponsorship willingness. H-2B seasonal visa is the main pathway, but quotas are tight.
+
+**Q: What education is needed to become a carpet installer?**
+A: Usually only requires a high school diploma, then learn through on-the-job training or apprenticeship; no college degree needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Carpet Installers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for carpet installers?**
-答：According to BLS data, the median annual wage for carpet installers in the US was about $43,000 in 2023, with entry-level earners around $28,000 and experienced workers up to $65,000.
-
-**问：Is it easy for carpet installers to immigrate to the US?**
-答：Very difficult. This occupation typically does not qualify for H-1B specialty occupation, and EB-3 green card requires proving skilled worker status (2 years training/experience) with low employer sponsorship interest. H-2B seasonal visa is the main path but has quota limits.
-
-**问：What education is needed to become a carpet installer?**
-答：Typically only a high school diploma is required, followed by on-the-job training or apprenticeship. No college degree needed.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

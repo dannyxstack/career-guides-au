@@ -1,59 +1,94 @@
-# Physiotherapist（Physiotherapist）职业分析 · NL
+# Physiotherapist — career analysis · Netherlands
 
-**职业代码：2264 – Physiotherapist。**
+**Occupation code: 2264 (ISCO08)**
 
-Physiotherapists help patients restore function, relieve pain, and improve quality of life through exercise, manual therapy, and physical modalities. In the Netherlands, demand is stable, linked to the aging population.
+Physical therapists help patients restore function, relieve pain, and improve quality of life through exercise therapy, manual therapy, and physical modalities. In the Netherlands, the demand for this profession is stable and closely linked to an aging society.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 4年 | $2,200~$9,000（欧盟学生约2200欧/年，非欧盟约6000-9000欧/年） |
-| 硕士学位（进阶） | 1-2年 | $15,000~$25,000（非欧盟学生总学费） |
+| Bachelor's degree | 4 years | $2,200~$9,000 (EU students approx. €2,200/year, non-EU approx. €6,000–9,000/year) |
+| Master's degree (Advanced) | 1-2 years | $15,000~$25,000 (Total tuition fees for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理治疗学士学位 | 荷兰认可的应用科学大学（HBO）或研究型大学（WO） | 必备 | 需从CROHO注册课程毕业 |
-| BIG注册 | 荷兰个体健康服务职业登记局（BIG） | 必备 | 法定要求，注册后方可执业 |
-| 荷兰语能力 | 无特定机构 | 必备 | 要求荷兰语B2或以上，因患者沟通需求 |
+| Bachelor's degree in Physical Therapy | Recognized Universities of Applied Sciences (HBO) or Research Universities (WO) in the Netherlands | Required | Must graduate from a CROHO-registered programme |
+| BIG registration | Dutch Individual Health Care Professions Register (BIG) | Required | Statutory requirement, must register before practicing |
+| Dutch language proficiency | No specific institution | Required | Requires Dutch B2 or higher due to patient communication needs |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。荷兰物理治疗师就业前景良好。随着人口老龄化和慢性病增加，需求持续增长。社区卫生、运动康复和老年护理领域机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Physiotherapy employment prospects in the Netherlands are good. Demand continues to grow with an aging population and increase in chronic diseases. Opportunities are abundant in community health, sports rehabilitation, and aged care.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，公立医疗机构数据 |
-| 中级（4-7年） | $38,000~$48,000 | 含专科经验或管理职责 |
-| 高级（8年+） | $48,000~$60,000 | 独立执业或资深专家 |
+| Median salary | $59,675 | Median salary (official: CBS employee median hourly wage €30.2/hour × 1976h annualized, BRC group 1013 Fysiotherapeuten; P25–P75 €48,412–€70,741, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$38,000 | Pre-tax annual salary, public healthcare data |
+| Mid-level (4-7 years) | $38,000~$48,000 | Include associate degree experience or management responsibilities |
+| Senior (8+ years) | $48,000~$60,000 | Independent practitioner or senior expert |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径：初级物理治疗师 → 专科物理治疗师（如运动、神经、老年方向） → 团队主管或诊所经理 → 独立执业或开设诊所。也可从事科研或教学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
+
+Career path: Junior Physiotherapist → Specialist Physiotherapist (e.g., sports, neurological, geriatric) → Team Leader or Clinic Manager → Independent practitioner or clinic owner. Also possible in research or teaching.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patient assessment reports and rehabilitation progress records
+- Automatically adjust basic training plans using AI analysis of sports data.
+- Replaces measurement work in routine posture analysis and gait assessment
+- Automating patient appointments, follow-ups, and insurance coding entry.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient biomechanical data to provide precise rehabilitation advice
+- Use virtual reality and wearable devices to monitor and optimize patient training in real time
+- Quickly retrieve latest research and practice guidelines through natural language processing.
+- AI-assisted image recognition helps quickly locate musculoskeletal abnormalities.
+- Remote rehabilitation platforms support patient home training and progress tracking
+
+**Human moat:**
+
+- Manual manipulation skills (joint mobilization, soft tissue release, etc.)
+- Clinical reasoning and comprehensive judgment of complex cases
+- Patient psychological support and behavior change motivation
+- Interdisciplinary team collaboration and individualized treatment plan customization
+- Final decision-making authority involving medical liability and patient safety
+
+**Skills to build:**
+
+- Proficiency in electronic health record systems and clinical decision support tools
+- Learn biomechanical data analysis and wearable device interpretation.
+- Familiar with remote rehabilitation platforms and virtual reality rehabilitation technology
+- Improve communication skills for patient education and health behavior coaching
+- understand AI ethics and privacy regulations in rehabilitation
+- Participating in interdisciplinary digital health project practice
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease management
@@ -62,68 +97,67 @@ Physiotherapists help patients restore function, relieve pain, and improve quali
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟人士，需工作合同且薪资达门槛（2024年约5,331欧/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历非欧盟人士，需工作合同且薪资达门槛（2024年约5,331欧/月）。 |
-| Subclass Orientation Year (zo（Orientation Year） | 荷兰或世界前200高校毕业的非欧盟学生，可获1年居留许可找工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU individuals; requires an employment contract and salary meeting the threshold (approx. €5,331/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated non-EU nationals requiring a work contract and meeting the salary threshold (approx. €5,331/month in 2024). |
+| Subclass Orientation Year (zo (Orientation Year) | Non-EU students graduating from a Dutch or world top-200 university can obtain a one-year residence permit to seek employment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 善于与人沟通、有同理心
-- 对运动和人体结构有浓厚兴趣
-- 能适应一定程度体力工作
-
-**谁不适合学Physiotherapist？**
-- 不喜欢与患者长时间互动
-- 对重复性身体活动敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communication skills and empathy
+- Strong interest in sports and human anatomy
+- Able to handle a certain amount of physical work
+
+**Who is not suited**
+- Dislikes prolonged interaction with patients
+- Sensitive to repetitive physical activities
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of physiotherapists in the Netherlands?**
+A: Entry-level approximately €30,000-38,000/year (pre-tax), mid-level €38,000-48,000, senior €48,000-60,000. Independent practice earns more but involves self-borne costs.
+
+**Q: How can non-EU physiotherapists immigrate to the Netherlands?**
+A: Can migrate via highly skilled migrant (kennismigrant) or EU Blue Card, requiring a job offer and salary threshold. Also need BIG registration and Dutch B2 language level.
+
+**Q: What registrations are needed to practice in the Netherlands?**
+A: Must be registered with BIG (statutory), graduated from a recognized institution, and have Dutch language proficiency. Non-EU qualifications need evaluation by IBG.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physiotherapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physiotherapists in the Netherlands?**
-答：Entry-level: €30,000-38,000 (gross per year); mid-level: €38,000-48,000; senior: €48,000-60,000. Self-employed can earn more but cover own costs.
-
-**问：How can non-EU physiotherapists migrate to the Netherlands?**
-答：Apply for a Highly Skilled Migrant permit or EU Blue Card with a job offer meeting salary thresholds. BIG registration and Dutch B2 proficiency are required.
-
-**问：What registration is needed to practice in the Netherlands?**
-答：BIG registration is mandatory. Graduation from a recognized program and Dutch language proficiency (B2) are required. Non-EU diplomas evaluated by IBG.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

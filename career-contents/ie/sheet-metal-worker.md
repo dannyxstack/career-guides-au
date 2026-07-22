@@ -1,60 +1,96 @@
-# Sheet Metal Worker（Sheet Metal Worker）职业分析 · IE
+# Sheet Metal Worker — career analysis · Ireland
 
-**职业代码：7213 – Sheet Metal Worker。**
+**Occupation code: 7213 (ISCO08)**
 
-Fabricates, installs, and repairs sheet metal products such as ductwork, roofing, and industrial equipment.
+Responsible for fabricating, installing, and repairing sheet metal products such as ventilation ducts, roofing, and industrial equipment.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（工资制，培训费低） |
-| 高等证书 | 2年 | $3,000~$8,000（部分课程有补助） |
+| Apprenticeship | 4 years | $0~$2,000 (Salaried system, low training costs) |
+| Higher Certificate | 2 years | $3,000~$8,000 (Some courses have subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级证书（钣金） | QQI | 必备 | 通常与学徒制结合 |
-| 安全卡（Safe Pass） | SOLAS | 必备 | 建筑工地必备 |
+| Advanced Certificate (Sheet Metal) | QQI | Required | Typically combined with apprenticeships |
+| Safe Pass | SOLAS | Required | Essential for construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。爱尔兰建筑业持续增长，绿色能源改造带动钣金需求，但学徒数量不足，预计就业稳定增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Ireland's construction industry continues to grow, with green energy retrofits driving demand for sheet metal work, but apprentice numbers are insufficient, and steady employment growth is expected.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒后期可达 |
-| 中级（3-7年） | $38,000~$48,000 | 熟练工平均薪资 |
-| 高级（7年以上） | $50,000~$65,000 | 含监工或自雇 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | can reach at later apprenticeship stages |
+| Mid-level (3–7 years) | $38,000~$48,000 | Average salary for skilled workers |
+| Senior (7+ years) | $50,000~$65,000 | With supervisor or self-employed |
+| average salary | $44,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒起步，可成为熟练工、监工，或创办自己的钣金承包公司；也可向建筑项目管理发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face automation risks (e.g., CAD unfolding, laser cutting), but custom installation and complex repairs rely on manual skills that are hard for AI to fully replace.
+
+Starting as an apprentice, can become a skilled worker, supervisor, or start own sheet metal contracting company; also can progress into construction project management.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to automatically generate sheet metal flat patterns and export NC code
+- CNC punch press and laser cutting machine for automatic sheet metal cutting
+- The bending robot automatically performs the bending process according to the program.
+- AI visual inspection system automatically identifies sheet metal defects
+- Automated mass production of standard ventilation duct modules.
+
+**Where AI augments the role:**
+
+- AR-assisted manual layout and complex curved surface forming
+- AI-driven manufacturability analysis and optimization suggestions for sheet metal parts
+- Digital twin simulation for bending springback compensation.
+- IoT-based predictive maintenance for equipment reducing downtime
+- Instantly obtain sheet metal processing parameters and historical cases via mobile
+
+**Human moat:**
+
+- On-site measurement and custom solution design for non-standard parts
+- Repair and modification of sheet metal on old buildings or equipment
+- Hand hammering skills for complex curves and irregular shapes
+- Cross-trade coordination (e.g., integrating with HVAC and fire protection systems)
+- Safety supervision and emergency response skills
+
+**Skills to build:**
+
+- Learn 3D sheet metal modeling software such as SolidWorks and AutoCAD
+- Master basic Python or macro programming to customize automated tool paths.
+- Obtain certifications related to welding or CNC operations (e.g., CWB, FANUC)
+- Participate in BIM (Building Information Modeling) collaborative workflows
+- Enhancing on-site communication and project management skills
+- Specialize in debugging and maintaining sheet metal robots (e.g., bending, handling)
+
+**Key growth areas:**
 
 - Construction
 - Renewable Energy
@@ -63,65 +99,67 @@ Fabricates, installs, and repairs sheet metal products such as ductwork, roofing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，年薪不低于30,000欧元，技能短缺职业可能放宽 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 需年薪不低于32,000欧元或64,000欧元，职业需在紧缺清单，钣金工通常不在此列 |
+| Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, annual salary no less than 30,000 euros, possible relaxation for shortage occupations |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Need annual salary of at least €32,000 or €64,000, occupation must be on the shortage list; sheet metal workers are typically not included |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sheet Metal Worker？**
-- 喜欢动手操作
-- 适应体力劳动
-- 愿意从学徒做起
+**Who is suited**
+- Enjoys hands-on work
+- Adaptability to physical labor
+- Willing to start as an apprentice
 
-**谁不适合学Sheet Metal Worker？**
-- 偏好办公室工作
-- 对安全要求敏感
+**Who is not suited**
+- Preference for office work
+- Security sensitive
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for sheet metal workers in Ireland?**
+A: Entry-level approximately 28,000-35,000 euros, mid-level 38,000-48,000 euros, and senior up to 65,000 euros.
+
+**Q: How can overseas sheet metal workers migrate to Ireland?**
+A: Typically requires a General Employment Permit with employer sponsorship and an annual salary of at least €30,000.
+
+**Q: Is there room for advancement for sheet metal workers?**
+A: Can progress from apprentice to skilled worker, supervisor, project manager, or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Sheet Metal Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sheet metal workers in Ireland?**
-答：Entry-level around €28,000-€35,000, mid-level €38,000-€48,000, senior up to €65,000.
-
-**问：How can overseas sheet metal workers immigrate to Ireland?**
-答：Typically requires a General Employment Permit with employer sponsorship and salary above €30,000.
-
-**问：Is there career progression for sheet metal workers?**
-答：Yes, from apprentice to journeyman, supervisor, project manager, or self-employment.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

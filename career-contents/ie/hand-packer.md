@@ -1,60 +1,95 @@
-# Hand Packer（Hand Packer）职业分析 · IE
+# Hand Packer — career analysis · Ireland
 
-**职业代码：9321 – Hand Packer。**
+**Occupation code: 9321 (ISCO08)**
 
-Hand packers manually pack products into containers, label, and seal them, ensuring safe handling in manufacturing, warehousing, and logistics.
+Manual packers are responsible for manually placing products into containers, labeling, and sealing to ensure safe shipment, commonly found in manufacturing, warehousing, and logistics industries.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学教育 | 4年（中学） | —（公立学校免费） |
-| 职业培训 | 3-6个月 | $500~$2,000（短期课程，费用因机构而异） |
+| Secondary Education | 4 years (secondary school) | $0~$0 (Free public schools.) |
+| Vocational training | 3-6 months | $500~$2,000 (Short-term course, fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全操作证书 | 健康与安全局 (HSA) | 必备 | 强制性安全培训 |
-| 手动搬运培训 | 雇主或培训机构 | 可选 | 常见要求，非强制 |
+| Safety operation certificate | Health and Safety Authority (HSA) | Required | Mandatory safety training |
+| Manual handling training | Employer or training provider | Optional | Common requirement, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。爱尔兰手工包装工就业需求稳定，受电商和制造业推动，但自动化可能影响长期增长。预计未来五年温和增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Demand for hand packers in Ireland is stable, driven by e-commerce and manufacturing, but automation may affect long-term growth. Moderate growth expected over the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$33,000 | 税前年薪 |
-| 高级（7年以上） | $33,000~$38,000 | 税前年薪 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$33,000 | Annual pre-tax salary |
+| Senior (7+ years) | $33,000~$38,000 | Annual pre-tax salary |
+| average salary | $30,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 起步级职位，可通过经验晋升为包装主管或仓库管理员；学习机器操作可转向技术岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Manual packers face high risk of automation, especially routine packing, labeling, and sealing tasks. AI and robotics will significantly reduce entry-level positions, but human judgment is still needed for anomaly handling and quality control.
+
+Entry-level position, can advance to packaging supervisor or warehouse manager through experience; learning machine operation can lead to technical roles.
+
+**Tasks most exposed to AI:**
+
+- Manually placing products into boxes or bags
+- Manual labeling and sealing
+- Pick and combine products to order
+- Repetitive visual quality inspection
+- Assisting with material feeding and unloading on packaging lines
+
+**Where AI augments the role:**
+
+- Operate and maintain automated packaging machinery
+- Use AI vision systems for advanced quality sampling
+- Manage packaging material inventory and order scheduling
+- Handle packaging anomalies (e.g. damage, misalignment)
+- Optimize packaging processes to reduce costs
+
+**Human moat:**
+
+- Fine packaging for fragile, irregularly shaped, or high-value products
+- Quickly judge and solve sudden problems during the packaging process.
+- Communicate special packaging requirements with clients
+- Coordinating the supervision of multiple automated packaging lines
+
+**Skills to build:**
+
+- Operation and maintenance of automated packaging equipment
+- Basic robot programming and debugging
+- Data analysis (e.g., packaging efficiency, defect rate)
+- Quality management systems (e.g. ISO standards)
+- Supply Chain and Inventory Management Knowledge
+- English communication skills (equipment manuals, customer interaction)
+
+**Key growth areas:**
 
 - E-commerce
 - Warehousing
@@ -63,65 +98,67 @@ Hand packers manually pack products into containers, label, and seal them, ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪30,000欧元以上的非紧缺职业，需雇主担保。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用于手工包装工，因其不在紧缺职业列表上。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand with an annual salary above €30,000, requiring employer sponsorship. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Usually not applicable for manual packers as the occupation is not on the shortage list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hand Packer？**
-- 寻求快速入职的体力劳动者
-- 偏好重复性工作的人
-- 初入职场或无技能者
+**Who is suited**
+- Manual laborers seeking quick onboarding
+- People who prefer repetitive work
+- Entry-level or no skills
 
-**谁不适合学Hand Packer？**
-- 希望高薪或快速晋升者
-- 厌恶重复性体力劳动的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Those who dislike repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a manual packer?**
+A: Entry-level annual salary is approximately €23,000-28,000, and senior positions can reach €33,000-38,000.
+
+**Q: Can manual packers apply for a work visa to immigrate to Ireland?**
+A: Usually not, as the occupation is not on the shortage list; general work permits require an annual salary of over EUR 30,000.
+
+**Q: Are there promotion opportunities for hand packers?**
+A: Yes, can be promoted to packaging supervisor or warehouse manager, or transition to machine operation through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hand Packer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for hand packers?**
-答：Entry-level annual salary is around €23,000-€28,000, and senior can reach €33,000-€38,000.
-
-**问：Can hand packers apply for a work visa to immigrate to Ireland?**
-答：Generally not, as the occupation is not on the critical skills list and the general permit requires a salary of €30,000+.
-
-**问：Are there promotion opportunities for hand packers?**
-答：Yes, to packaging supervisor or warehouse manager, or to machine operations via training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

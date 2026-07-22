@@ -1,61 +1,95 @@
-# Forestry and Natural Environment Technicians（Forestry and Natural Environment Technicians）职业分析 · ES
+# Forestry and Natural Environment Technicians — career analysis · Spain
 
-**职业代码：3143 – Forestry and Natural Environment Technicians。**
+**Occupation code: 3143 (CNO)**
 
-Technical professionals managing, conserving, and monitoring forest and natural environment resources, conducting ecological surveys, fire prevention planning, and sustainability projects.
+Technical professionals engaged in resource management, protection, and monitoring in forests, nature parks, and rural environments are responsible for ecological surveys, fire prevention planning, and sustainable development projects.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $600~$1,500（公立FP每年约300-750欧元，私立较高） |
-| 大学本科（Grado） | 4年 | $800~$2,000（公立大学每年约800-2000欧元） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $600~$1,500 (Public FP approx. 300-750 euros/year, private higher) |
+| Undergraduate (Grado) | 4 years | $800~$2,000 (Public universities: approximately EUR 800-2,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业与环境技术员高级学位（Técnico Superior en Gestión Forestal y del Medio Natural） | 教育部认可的FP中心 | 必备 | 强制要求，用于公共和私营岗位 |
-| 林业工程学位（Grado en Ingeniería Forestal） | 大学 | 可选 | 高级岗位或研究职位常见要求 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国学历需认证，耗时6-12个月 |
+| Advanced Degree in Forestry and Environmental Technician (Técnico Superior en Gestión Forestal y del Medio Natural) | FP centers recognized by the Ministry of Education | Required | Mandatory requirements, applicable to both public and private positions |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country diplomas must be verified, taking 6-12 months |
+| Degree in Forestry Engineering (Grado en Ingeniería Forestal) | University | Optional | Common requirements for senior or research positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙森林面积广阔，防火与生态修复需求持续增长，绿色经济转型推动岗位稳定。受公共预算和季节性影响，但长期受环保政策支持。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spain has vast forests, with growing demands for fire prevention and ecological restoration, and the green economy transformation is driving job stability. It is influenced by public budgets and seasonality, but has long been supported by environmental policies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 公共部门起薪约18,000-20,000欧元 |
-| 中级（4-7年） | $24,000~$32,000 | 私营企业或项目制薪资较高 |
-| 高级（8年以上） | $32,000~$42,000 | 管理或专家岗可达40,000欧元以上 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Starting salaries in the public sector are about 18,000–20,000 euros |
+| Mid-level (4-7 years) | $24,000~$32,000 | Private enterprises or project-based companies offer higher salaries |
+| Senior (8+ years) | $32,000~$42,000 | Management or specialist positions can earn over 40,000 euros |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术员晋升为高级技师或项目经理，也可通过攻读环境科学硕士转向研究或管理岗。公共部门（自治区林业局）与私营咨询公司均有发展空间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of forestry and natural environment technicians is mixed: routine data collection and monitoring tasks will be partially replaced by AI, but on-site decision-making, ecological assessment, and multi-party coordination capabilities will be amplified, resulting in overall stable and changing job demands.
+
+You can advance from technician to senior technician or project manager, or transition to research or management roles by pursuing a master's degree in environmental science. Both the public sector (Autonomous Region Forestry Bureau) and private consulting firms have room for growth.
+
+**Tasks most exposed to AI:**
+
+- Automatic weather stations and satellite remote sensing replace manual patrol records
+- AI automatically identifies images of fire hazards and pests
+- Standardized report templates are automatically generated and tallied
+- Automatic aggregation of GPS positioning data and map annotation
+
+**Where AI augments the role:**
+
+- AI-assisted ecological modeling and carbon sink estimation
+- Drones + AI conduct large-scale vegetation coverage assessments
+- Intelligent early warning systems improve fire prevention and disaster response efficiency
+- Natural language processing automatically writes patrol reports
+- Robots assist in sample collection on steep slopes or dangerous areas
+
+**Human moat:**
+
+- On-site emergency command and decision-making responsibilities
+- Coordinate and communicate with the community across departments and parties
+- Comprehensive judgment and experience in complex ecosystems
+- Regulatory compliance review and public responsibility
+
+**Skills to build:**
+
+- GIS and Remote Sensing Analysis (such as QGIS/ArcGIS)
+- Drone operation and aerial data processing
+- Basic Python/R data analysis and automation scripts
+- Application of AI tools in ecosystem modeling
+- Project management communicates with stakeholders
+- Knowledge of environmental regulations and certification systems
+
+**Key growth areas:**
 
 - Green Economy
 - Wildfire Prevention
@@ -64,65 +98,67 @@ Technical professionals managing, conserving, and monitoring forest and natural 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 需雇主担保，证明职位无法在欧盟找到合适人选，属于受规管职业需学历认证。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历及高薪资（年薪约34,000欧元以上），但需评估学历及工作经验。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Requires employer sponsorship, demonstrating no suitable candidate available in EU; regulated occupations need qualification recognition. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Applicable for high education and high salary (annual salary about 34,000 euros or more), but requires assessment of education and work experience. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forestry and Natural Environment Technicians？**
-- 热爱自然、喜欢户外工作的人
-- 有环保意识，愿意从事生态保护与可持续发展工作
-- 具备一定体力和适应野外环境能力
-
-**谁不适合学Forestry and Natural Environment Technicians？**
-- 偏好高薪或城市办公环境的人
-- 不愿进行学历认证或学习西班牙语的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love nature and enjoy outdoor work
+- Environmentally conscious and willing to engage in ecological protection and sustainable development work
+- They must have a certain level of physical strength and the ability to adapt to the wild environment
+
+**Who is not suited**
+- People who prefer high salaries or urban office environments
+- Those unwilling to undergo academic credentials or learn Spanish
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a forestry technician in Spain?**
+A: Entry-level salaries are about 18,000-24,000 euros, intermediate salaries 24,000-32,000 euros, and seniors up to 42,000 euros. Public sector wages are stable but relatively low, and private project systems may be even higher.
+
+**Q: How can third-country citizens immigrate to Spain to work as forestry technicians?**
+A: You must first complete academic qualification verification (homologación), find an employer-sponsored work visa (Cuenta ajena), or obtain a highly skilled professional visa (Ley 14/2013) to require high education and high salary. This occupation is a restricted occupation with relatively high immigration thresholds.
+
+**Q: What is the career progression path for this occupation?**
+A: You can advance from technician to senior technician or project manager, or transition to research or management roles by pursuing a master's degree in environmental science. Public sectors can obtain civil service positions, and private enterprises can serve as consultants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（2-4年）（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Forestry and Natural Environment Technicians为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a forestry technician in Spain?**
-答：Entry-level annual salary is €18,000-24,000, mid-level €24,000-32,000, senior up to €42,000. Public sector is stable but lower, private projects can pay more.
-
-**问：How can third-country nationals immigrate to Spain as forestry technicians?**
-答：You need to obtain degree homologation, then find an employer to sponsor a work visa (Cuenta ajena), or apply via the Highly Skilled Professional visa (Ley 14/2013) requiring higher education and salary. The occupation is regulated, making migration moderately difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,69 +1,95 @@
-# 屋顶工（Roof Plumber）职业分析 · 澳大利亚
+# Roof Plumber — career analysis · Australia
 
-**职业代码：334113 – Roof Plumber。**
+**Occupation code: 334113 (ANZSCO)**
 
-屋顶工（Roof Plumber）负责安装和维护金属屋顶、排水天沟、落水管和防水系统，广泛服务于住宅、商业建筑。在澳大利亚，屋顶工需持 Certificate III 执业，列入技术短缺清单，住宅建设和太阳能屋顶集成驱动持续需求。
+A Roof Plumber installs and maintains metal roofing, guttering, downpipes and waterproofing systems for residential and commercial buildings. In Australia, roof plumbers must hold a Certificate III to practise; the occupation is on the skills shortage list, with ongoing demand driven by residential construction and solar roofing integration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 CPC32720 Certificate III in Roof Plumbing） | 42~48个月 | —（各州补贴，NSW 大部分免费，WA 上限 $1,200） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含TRA评估费及实习期费用） |
+| Apprenticeship (including CPC32720 Certificate III in Roof Plumbing) | 42–48 months | $0~$1,200 (State government subsidies — mostly free in NSW, capped at $1,200 in WA) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fees and internship costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Roof Plumbing (CPC32720) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质 |
-| Roof Plumber Licence（各州） | 各州 Fair Trading / Building Commission | 必备 | 合法施工强制持牌 |
-| Working at Heights Certificate | 各州SafeWork认可RTO | 必备 | 屋顶高空作业强制安全资质 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Roof Plumbing (CPC32720) | TAFE / RTO | Required | Nationally consistent curriculum, foundational qualification for practice |
+| Roof Plumber Licence (state-specific) | State Fair Trading / Building Commission | Required | Licensed certification is mandatory for legal construction work |
+| Working at Heights Certificate | SafeWork-recognised RTO in each state | Required | Mandatory safety certification for rooftop work at heights |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 18,000。JSA 预测建筑类技工至2035年新增约195,800个岗位（+9.8%）。住宅建设热潮和太阳能屋顶安装激增推高屋顶工招聘量。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. JSA projects approximately 195,800 new construction trade positions by 2035 (+9.8%). A residential construction boom and a surge in solar rooftop installations are driving increased demand for roofers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,000 个 | 全国，含住宅、商业和太阳能屋顶岗 |
-| Indeed | 300~600 个 | 含学徒岗 |
-| LinkedIn | 100~300 个 | 偏项目管理岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：很高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $21,000~$28,000 | Fair Work Award 最低工资 |
-| 学徒 2~4年级 | $28,000~$46,000 | 约 $23~$30/hr |
-| 初级屋顶工（持牌后 1~3年） | $70,000~$86,000 | Indeed 25th percentile |
-| 中级屋顶工（3~8年） | $86,000~$108,000 | SEEK 区间 $95k~$115k；ERI 平均 $83,977；Indeed $43.89/hr |
-| 资深屋顶工 / 承包商（8年+） | $108,000~$135,000 | 含承包商利润和商业屋顶项目 |
-| 矿业 / 大型工业屋顶 FIFO | $120,000~$160,000 | 高空危险津贴 + 轮班补贴 |
+| Median salary | $103,480 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $21,000~$28,000 | Fair Work Award minimum wage |
+| Apprentice Years 2–4 | $28,000~$46,000 | Approx. $23–$30/hr |
+| Junior Roofer (1–3 years post-licence) | $70,000~$86,000 | Indeed 25th percentile |
+| Mid-level Roofer (3–8 years) | $86,000~$108,000 | SEEK range $95k–$115k; ERI average $83,977; Indeed $43.89/hr |
+| Senior roofer / contractor (8+ years) | $108,000~$135,000 | Including contractor margins and commercial roofing projects |
+| Mining / Large Industrial Rooftop FIFO | $120,000~$160,000 | Height/danger allowance + shift penalties |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 太阳能屋顶整合、绿色建筑防水系统和老旧屋顶翻新是三大增长方向。AI替代风险极低，屋顶高空作业高度依赖人工。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofing work is a skilled physical occupation that AI/automation cannot fully replace, but it will optimize design, measurement, and material ordering to increase efficiency, while non-technical tasks like paperwork may be taken over.
+
+Solar rooftop integration, green building waterproofing systems, and aging roof renovation are three key growth areas. AI replacement risk is extremely low, as rooftop work at height is highly labour-dependent.
+
+**Tasks most exposed to AI:**
+
+- Use AI for automatic calculation of roof slope and drainage volume
+- Automatically generate 3D roof models and measurement reports via drones
+- AI automatically generates material lists and purchase orders
+- AI automatically checks compliance documents and code
+
+**Where AI augments the role:**
+
+- AI providing real-time safety risk alerts (e.g., high-altitude work environments)
+- AI-assisted troubleshooting (e.g. leak point analysis)
+- Improve installation accuracy by superimposing design drawings through AR
+- AI optimizes solar integration solutions, improving energy efficiency
+
+**Human moat:**
+
+- Physical Installation and Adjustment in Complex Environments
+- Experiential judgment in handling unexpected structural and material issues
+- Safety awareness and emergency response for working at heights
+- Face-to-face communication and coordination skills with clients and supervisors
+
+**Skills to build:**
+
+- Master BIM (Building Information Modeling) software operations
+- Learning drone operation and 3D modeling
+- Familiar with AI-driven engineering diagnostic tools
+- Enhance knowledge of solar system integration
+- Enhance safety protocols and emergency response training
+
+**Key growth areas:**
 
 - Residential Construction & Renovation
 - Solar Panel Roof Integration
@@ -73,92 +99,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学屋顶工？**
-- 有建筑/金属加工/屋顶施工背景，希望技能移民来澳
-- 接受高空作业和极端气候（夏季高温屋顶），体力好
-- 目标是自建屋顶承包公司或太阳能屋顶集成方向
-- 年龄25~40岁，有体力优势应对高强度高空作业
-
-**谁不适合学屋顶工？**
-- 有恐高症或平衡问题
-- 对极端气候（夏季高温屋顶）有明显生理抵触
-- 期望低强度室内工作环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in construction, metalwork or roofing and seeking skilled migration to Australia
+- Comfortable working at heights and in extreme weather (including high-heat rooftops in summer), with good physical fitness
+- Goal is to start a rooftop contracting company or specialize in solar roof integration
+- Age 25–40, with the physical advantage to handle high-intensity work at heights
+
+**Who is not suited**
+- Has a fear of heights or balance issues
+- Significant physical aversion to extreme weather conditions (high-temperature rooftops in summer)
+- Prefers a low-intensity indoor work environment
+
+---
+
+## 8. FAQ
+
+**Q: How much do roofers earn in Australia?**
+A: Mid-level roofers earn approximately $86,000–$108,000 per year, with SEEK listings showing $95k–$115k (2026). Contractors and high-access mining roles can reach $120k–$160k; apprentices earn approximately $21k–$46k.
+
+**Q: Is it easy to find work as a roofer in Australia?**
+A: Easy. The workforce is small (approximately 18,000), demand exceeds supply, Seek lists 500–1,000 positions, and the surge in residential solar installations is driving additional demand.
+
+**Q: Is overseas construction experience recognised in Australia?**
+A: Not directly recognised; assessment via the TRA Job Ready Program is required, typically taking 12–18 months. A background in sheet metal or construction can help shorten the assessment period.
+
+**Q: Will roofers be replaced by robots?**
+A: Replacement risk is very low. Complex high-rise roofing and waterproofing system installation cannot be automated, and every roof structure is different, requiring human judgement.
+
+**Q: Is there an age limit for roofers in Australia?**
+A: No legal upper limit, but given the physically demanding nature of working at heights, under 40 is advisable. Those over 35 can pursue the TRA mutual recognition pathway and transition into supervisory or quality inspection roles.
+
+**Q: Do roofers in Australia need a university degree?**
+A: No. Completing Certificate III (CPC32720) is sufficient to practise; applicants can apply for an apprenticeship directly after completing secondary school.
+
+**Q: Is it difficult to become a roofer in Australia?**
+A: Moderate difficulty. Metalwork and waterproofing systems require some theoretical knowledge, and height safety regulations must be strictly followed. Those with a construction background can get started within 3–6 months.
+
+**Q: Which is better for migrating to Australia — roofing or plumbing?**
+A: Plumbers have a larger workforce (~85,000 vs 18,000) and broader employment opportunities; Roof plumbers face a sharper supply-demand gap, with comparable salary competitiveness. The PR pathway is the same for both.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 334113 职业档案与短缺清单 |
-| SEEK AU | 屋顶工薪资区间 $95k~$115k（2026） |
-| ERI SalaryExpert | 屋顶工平均年薪 $83,977（2026） |
-| Indeed AU | 屋顶工平均时薪 $43.89（2026） |
-| TRA | 海外屋顶工技能评估 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 很高（★★★★★） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-屋顶工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲屋顶工工资多少？**
-答：中级屋顶工年薪约 $86,000~$108,000，SEEK 区间 $95k~$115k（2026）。承包商和矿业高空岗可达 $120k~$160k，学徒约 $21k~$46k。
-
-**问：澳洲屋顶工容易找工作吗？**
-答：容易。从业人数少（约18,000人），供不应求，Seek 挂牌 500~1,000 个职位，太阳能屋顶安装激增额外推高需求。
-
-**问：中国建筑经验澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，周期约12~18个月。有金属板金或建筑背景有助于缩短评估时间。
-
-**问：屋顶工会被机器人替代吗？**
-答：替代风险极低。高空复杂屋顶施工和防水系统安装无法自动化，且每个屋顶结构各不相同，需人工判断。
-
-**问：澳洲屋顶工有年龄限制吗？**
-答：无法律上限，但高空重体力性质建议40岁以下。35岁以上可走TRA互认路径，转向监理或质检岗位发展。
-
-**问：澳洲屋顶工需要大学学历吗？**
-答：不需要。完成 Certificate III（CPC32720）即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲屋顶工难学吗？**
-答：难度中等。金属加工和防水系统有一定理论，高空安全规范须严格遵守，有建筑基础者3~6个月可入门。
-
-**问：屋顶工和水管工哪个更适合移民澳洲？**
-答：水管工从业人数更多（~85,000 vs 18,000），就业机会更广；屋顶工供需缺口更尖锐，薪资竞争力相当。两者PR路径相同。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

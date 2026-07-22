@@ -1,60 +1,96 @@
-# Construction Site Manager（Construction Site Manager）职业分析 · FR
+# Construction Site Manager — career analysis · France
 
-**职业代码：F1202 – Construction Site Manager。**
+**Occupation code: F1202 (ROME)**
 
-Manages overall construction site operations, including schedule, quality, safety, and cost control. Coordinates personnel and resources to ensure project completion on time and within budget.
+Responsible for overall management of construction sites, including construction progress, quality, safety, and cost control. Coordinate personnel and resources from all parties to ensure projects are completed on time and within budget.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 建筑或土木工程 | 2年（BTS） | $500~$15,000（公立学校学费低，私立约3000-15000欧元/年） |
-| Licence professionnelle 建筑管理 | 3年（Licence） | $500~$10,000（公立大学约500欧元/年，私立约5000-10000欧元/年） |
-| DUT 土木工程 | 2年（DUT） | $500~$8,000（公立IUT约500欧元/年，私立约3000-8000欧元/年） |
+| BTS Architecture or Civil Engineering | 2 Years (BTS) | $500~$15,000 (Public schools have low tuition, while private ones cost about 3,000–15,000 euros per year) |
+| Licence professionnelle Building Management | 3 years (Licence) | $500~$10,000 (Public universities about €500/year, private about €5,000-10,000/year) |
+| DUT Civil Engineering | 2 years (DUT) | $500~$8,000 (Public IUT costs about 500 euros per year, private IUT about 3000-8000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 工地主管认证 | 法国建筑业协会 | 可选 | 适用于经验丰富但无文凭者，可凭经验申请 |
-| CACES 工程机械操作证书 | 国家职业安全研究所 | 可选 | 若涉及机械管理，建议持有 |
-| BTS 建筑相关文凭 | 法国教育部 | 必备 | 多数企业要求BTS或以上学历 |
+| BTS Architecture Diploma | French Ministry of Education | Required | Most companies require a BTS or higher degree |
+| CQP Site Supervisor Certification | French Association of the Construction Industry | Optional | Suitable for experienced applicants without diplomas, who may apply based on experience |
+| CACES Construction Machinery Operation Certificate | National Institute of Occupational Safety | Optional | If mechanical management is involved, it is recommended to hold it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国建筑行业持续增长，绿色建筑和翻新项目增加，工地主管需求旺盛。预计未来五年职位增长约5-10%，尤其需要具备可持续建筑经验的管理者。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The French construction industry continues to grow, with an increase in green building and renovation projects and strong demand for site supervisors. Job growth is expected to be about 5-10% over the next five years, with a particular need for managers with experience in sustainable construction.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（4-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $46,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $46,000~$55,000 | Annual pre-tax salary |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术员或工长晋升为工地主管，再发展为项目经理或区域主管。积累经验后也可自营建筑公司或转向大型项目管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+You can be promoted from technician or foreman to site supervisor, and then develop to project manager or regional supervisor. After gaining experience, you can also start your own construction company or transition to large-scale project management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Green Building
 - Renovation
@@ -63,65 +99,64 @@ Manages overall construction site operations, including schedule, quality, safet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需提供工作合同，年薪不低于本地平均工资的1.5倍。 |
-| Subclass Salarié（Employee） | 由法国雇主担保，需通过劳动局审核，年薪须达标。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高级别员工，年薪需超过约54000欧元。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a work contract and an annual salary of no less than 1.5 times the local average salary. |
+| Subclass Salarié (Employee) | Sponsored by a French employer, must pass the Labor Bureau review, and the annual salary must meet the requirements. |
+| Subclass Carte bleue UE (EU Blue Card) | This applies to high-level non-EU employees, with annual salaries exceeding approximately 54,000 euros. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Site Manager？**
-- 具备组织协调能力的人
-- 吃苦耐劳、适应户外工作
-- 对建筑行业充满热情
-
-**谁不适合学Construction Site Manager？**
-- 不喜与工人直接沟通者
-- 无法承受高压和突发问题者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with organizational and coordination skills
+- Hardworking and adaptable to outdoor work
+- Passionate about the construction industry
+
+**Who is not suited**
+- Those who dislike direct communication with workers
+- Those who cannot withstand high pressure and sudden problems
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for construction site supervisors in France?**
+A: Entry-level salaries range from about 28,000 to 34,000 euros, intermediate salaries from 35,000 to 45,000 euros, and senior salaries from 46,000 to 55,000 euros (pre-tax annual salary).
+
+**Q: Can third-country nationals become construction site supervisors in France through skilled migration?**
+A: Yes, you can. Work residency can be obtained through the Passeport Talent Passport or the EU Blue Card (Carte bleue UE), provided you find an employer and meet salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Construction Site Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a construction site manager in France?**
-答：Junior: €28,000-34,000; Mid: €35,000-45,000; Senior: €46,000-55,000 (gross annual).
-
-**问：Can third-country nationals migrate to France as construction site managers?**
-答：Yes. Via Passeport Talent or EU Blue Card, requiring a job offer and meeting salary thresholds.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

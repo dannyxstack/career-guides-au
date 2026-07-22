@@ -1,60 +1,94 @@
-# Helpers--Installation, Maintenance, and Repair Workers（Helpers--Installation, Maintenance, and Repair Workers）职业分析 · 美国
+# Helpers--Installation, Maintenance, and Repair Workers — career analysis · United States
 
-**职业代码：49-9098 – Helpers--Installation, Maintenance, and Repair Workers。**
+**Occupation code: 49-9098 (SOC)**
 
-Help installation, maintenance, and repair workers by furnishing tools, materials, and supplies; cleaning work area; and holding materials or tools for other workers.
+Assist installation, maintenance, and repair workers by providing tools and materials, cleaning work areas, and helping repair vehicles, industrial machinery, and electrical/electronic equipment.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（高中毕业即可，无需额外费用） |
-| 短期在职培训 | 1-3个月 | —（雇主提供在职培训，部分课程需少量费用） |
+| High school diploma or equivalent | 0 years | $0~$0 (Only high school graduation required, no additional costs) |
+| Short-term on-the-job training | 1-3 months. | $0~$500 (Employer provides on-the-job training; some courses require a small fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 大部分雇主要求高中毕业 |
-| 在职培训 | 雇主 | 必备 | 通常由雇主提供短期培训 |
+| High school diploma or equivalent | High school | Required | Most employers require high school graduation |
+| On-the-job training | Employer | Required | Usually provided by employer as short-term training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 117,200。预计2023-2033年就业增长约4%，与所有职业平均水平相当。随着基础设施老化和设备维护需求增加，该职业将持续存在需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 117,200. Projected employment growth of about 4% from 2023 to 2033, similar to the average for all occupations. Demand will persist as infrastructure ages and equipment maintenance needs increase.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 入门级薪资，通常时薪约$14-17 |
-| 中级（3-7年） | $34,000~$41,000 | 有一定经验后薪资提升 |
-| 高级（7年以上） | $41,000~$48,000 | 资深助手或晋升为技工后的薪资范围 |
+| Median salary | $39,630 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$34,000 | Entry-level salary, typically hourly around $14-17 |
+| Mid-level (3–7 years) | $34,000~$41,000 | Salary increases with experience. |
+| Senior (7+ years) | $41,000~$48,000 | Salary range for senior assistants or those promoted to tradesperson |
+| average salary | $41,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从助手起步，积累经验后可晋升为维修工、技工或专门领域的技师。部分人通过学徒制或职业培训获得认证后转为正式维修人员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The jobs of installation, maintenance, and repair workers' assistants are mixed in AI impact: simple tool preparation and cleaning tasks are easily automated, but complex fault diagnosis and on-site adjustments rely on human experience and are hard to replace in the short term.
+
+Usually starts as an assistant, then progresses to repair worker, mechanic, or technician in a specialized field. Some become certified through apprenticeships or vocational training and transition to formal repair roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI voice assistants or chatbots to query parts inventory and tool locations
+- Use AI vision systems to automatically identify tools and materials and record inventory
+- AI-driven cleaning robots automate workspace cleaning
+- AI-based remote expert systems guide simple repair tasks, reducing need for on-site assistants
+
+**Where AI augments the role:**
+
+- AI augmented reality (AR) glasses overlay repair steps to improve fault diagnosis efficiency
+- AI predictive maintenance system alerts potential issues, allowing assistants to prepare in advance
+- AI translation tools help assistants understand multilingual equipment manuals
+- AI training simulators accelerate repair skill acquisition for newcomers.
+- AI safety monitoring systems warn of hazardous environments, improving occupational safety
+
+**Human moat:**
+
+- Performing physical tasks in confined or hazardous spaces (e.g., heights, enclosed areas)
+- Flexibly adjust repair sequence and plans based on site conditions
+- Communicate fault situations with customers, gather hard-to-articulate context information
+- Relying on human experience to handle old or non-standard equipment
+
+**Skills to build:**
+
+- Operate AI diagnostic tools and augmented reality repair systems
+- Basic data analysis, interpreting equipment sensor data
+- Digital document management using mobile work order systems
+- Electrical and mechanical basics for more efficient AI collaboration
+- Safety protocols and emergency response, integrated with AI safety systems
+- Cross-cultural communication, adapting to collaboration environments assisted by AI translation
+
+**Key growth areas:**
 
 - Maintenance
 - Repair
@@ -63,65 +97,67 @@ Help installation, maintenance, and repair workers by furnishing tools, material
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为该职业通常不需要学士学位，难以满足专业职位要求。 |
-| Subclass EB-3（Employment-Based Third Preference） | 可能通过EB-3其他工人类别申请，但需劳工证及雇主担保，且配额有限，排期较长。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable because the occupation typically does not require a bachelor's degree, making it difficult to meet professional position requirements. |
+| Subclass EB-3 (Employment-Based Third Preference) | May apply via EB-3 Other Workers category, but requires labor certification and employer sponsorship, with limited quotas and long wait times. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Helpers--Installation, Maintenance, and Repair Workers？**
-- 喜欢动手操作、身体力行的人
-- 愿意从基层做起，通过实践积累经验的人
-- 不需要高学历但希望进入技工行业的人
+**Who is suited**
+- People who enjoy hands-on, physical work
+- People willing to start at entry-level and gain experience through practice
+- Those who do not need a high degree but wish to enter the trades
 
-**谁不适合学Helpers--Installation, Maintenance, and Repair Workers？**
-- 希望高收入或快速晋升的人
-- 不善于体力劳动或精细操作的人
+**Who is not suited**
+- Those seeking high income or rapid promotion
+- People not suited for physical labor or fine manipulation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for installation, maintenance, and repair worker assistants?**
+A: According to BLS data, the median annual wage for this occupation in the US in 2023 was about $36,000, entry-level about $28,000, and experienced up to $48,000. Salaries vary by region and industry.
+
+**Q: Is this occupation suitable for immigrating to the US?**
+A: Not suitable. This occupation typically does not require a bachelor's degree, does not meet H-1B specialty occupation requirements. EB-3 other worker category is theoretically possible but has long wait times and requires labor certification, making employer sponsorship difficult.
+
+**Q: What certificates or licenses are required?**
+A: Usually no specific certificate required, but a high school diploma is basic. Some employers may require a valid driver's license or passing a drug test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Helpers--Installation, Maintenance, and Repair Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Helpers--Installation, Maintenance, and Repair Workers?**
-答：According to BLS 2023 data, median annual wage is about $36,000, entry-level around $28,000, and experienced up to $48,000, varying by region and industry.
-
-**问：Is this occupation suitable for immigration to the US?**
-答：No. It typically does not require a bachelor's degree, failing H-1B specialty occupation criteria. EB-3 Other Workers is theoretically possible but has long backlogs and requires employer sponsorship.
-
-**问：What certifications or licenses are needed?**
-答：No specific certifications required, but a high school diploma is mandatory. Some employers may require a valid driver's license or drug screening.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Astronomers（Astronomers）职业分析 · 美国
+# Astronomers — career analysis · United States
 
-**职业代码：19-2011 – Astronomers。**
+**Occupation code: 19-2011 (SOC)**
 
-Astronomers observe, research, and interpret astronomical phenomena to advance basic knowledge or solve practical problems. They typically work in universities, observatories, or research institutions, requiring strong physics and math backgrounds.
+Astronomers observe, research, and interpret astronomical phenomena to increase basic scientific knowledge or solve practical problems. They typically work at universities, observatories, or research institutions, requiring a strong background in physics and mathematics.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-6年 | $150,000~$300,000（博士学费通常由奖学金或助学金覆盖） |
+| Doctorate | 5-6 years. | $150,000~$300,000 (Doctoral tuition fees are typically covered by scholarships or grants.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 天文学或物理学博士学位 | 大学 | 必备 | 几乎必需 |
-| 博士后研究经验 | 研究机构 | 可选 | 通常需要2-3年 |
-| 观测望远镜使用认证 | 天文台 | 可选 | 对于观察性天文学家常见 |
+| Doctorate in astronomy or physics. | University | Required | Almost mandatory |
+| Postdoctoral research experience | Research institutions | Optional | Typically requires 2-3 years |
+| Observation telescope use certification | Observatory | Optional | Common for observational astronomers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,300。美国天文学家就业增长缓慢，预计2022-2032年增长约5%，低于平均水平。主要受政府科研经费和太空探索项目影响，竞争激烈，职位稀缺。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,300. Employment growth for US astronomers is slow, projected at about 5% from 2022 to 2032, below average. Largely influenced by government research funding and space exploration projects; competition is fierce and positions are scarce.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 博士后或助理研究员 |
-| 中级（3-10年） | $80,000~$120,000 | 助理教授或项目科学家 |
-| 高级（10年以上） | $120,000~$180,000 | 正教授或高级研究科学家 |
+| Median salary | $128,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Postdoctoral or assistant researcher |
+| Intermediate (3-10 years) | $80,000~$120,000 | Assistant Professor or Project Scientist |
+| Senior (10+ years) | $120,000~$180,000 | Professor or Senior Research Scientist |
+| average salary | $132,920 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 天文学家通常从博士后研究员起步，晋升为助理教授、副教授、正教授，或成为大型观测站的项目科学家。少数人转向数据科学或航天工业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly amplify astronomers' capabilities, especially in data processing, simulation, and observation automation, but core research decisions and theoretical innovations still rely on humans, with overall low risk.
+
+Astronomers typically start as postdoctoral researchers, then advance to assistant professor, associate professor, full professor, or become project scientists at large observatories. A minority transition to data science or the aerospace industry.
+
+**Tasks most exposed to AI:**
+
+- Routine data cleaning and calibration
+- Automated telescope observation scheduling
+- Preliminary data screening and classification
+- Standard statistical analysis report generation
+- Literature search and abstract extraction
+
+**Where AI augments the role:**
+
+- Modeling and simulation of large-scale astronomical datasets
+- Hypothesis testing and exploration of complex astronomical phenomena
+- AI-based anomaly signal detection and recognition.
+- Interdisciplinary data fusion analysis
+- Visualization and teaching demonstration generation
+
+**Human moat:**
+
+- Theoretical innovation and paradigm construction
+- Research question definition and experimental design
+- Interdisciplinary intuition and inspiration
+- Ethical judgment and public communication
+- Long-term scientific research strategic planning
+
+**Skills to build:**
+
+- Python/R and other data science tools
+- Machine learning frameworks (e.g., TensorFlow/PyTorch)
+- Cloud computing and big data platforms (e.g., AWS/Azure)
+- High-performance computing and parallel programming
+- Scientific visualization and interactive display
+- Statistics and Bayesian inference
+
+**Key growth areas:**
 
 - Slow growth
 - Government funding dependent
@@ -63,63 +99,65 @@ Astronomers observe, research, and interpret astronomical phenomena to advance b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于大学或研究机构的天文学家，但名额有限，竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 国家利益豁免(NIW)常见，要求高级学位或杰出能力。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出天文学家，需证明国际认可。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to astronomers in universities or research institutions, but limited slots and highly competitive. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | National Interest Waiver (NIW) is common, requiring advanced degree or exceptional ability. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For exceptional astronomers, requiring international recognition |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Astronomers？**
-- 对宇宙有强烈好奇心的人
-- 擅长数学和物理分析的人
-- 能忍受漫长研究周期和低职位流动性的人
+**Who is suited**
+- People with a strong curiosity about the universe
+- People skilled in mathematics and physics analysis
+- People who can tolerate long research cycles and low job mobility
 
-**谁不适合学Astronomers？**
-- 追求高薪和快速职业晋升的人
-- 不愿意长期从事学术研究的人
+**Who is not suited**
+- People seeking high salary and fast career advancement
+- Those unwilling to engage in long-term academic research
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an astronomer?**
+A: Salary range is wide, junior postdoc around USD $60,000-80,000, senior professor up to $180,000. Income moderate but stable.
+
+**Q: Is it easy for astronomers to immigrate to the US?**
+A: Very difficult. Few positions often rely on government funding, employer sponsorship is not easy. O-1 or EB-2 NIW are common paths but have high requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Astronomers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for astronomers?**
-答：Salaries vary widely: entry-level postdocs earn $60k-$80k, senior professors up to $180k. Moderate but stable.
-
-**问：Is it easy to immigrate to the US as an astronomer?**
-答：Very difficult. Few positions, mostly funded by government; employer sponsorship rare. O-1 or EB-2 NIW common but demanding.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Executive housekeepers（Executive housekeepers）职业分析 · 加拿大
+# Executive housekeepers — career analysis · Canada
 
-**职业代码：62021 – Executive housekeepers。**
+**Occupation code: 62021 (NOC)**
 
-Supervise cleaning and housekeeping services in hotels, resorts, or other accommodation establishments to ensure high standards of hygiene and guest satisfaction.
+Supervise cleaning and housekeeping services in hotels, resorts, or other accommodation facilities to ensure high standards of hygiene and customer satisfaction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常无需高等教育） |
-| 大专或证书 | 1-2年 | $5,000~$15,000（酒店管理相关课程） |
+| High school diploma | 0 years | $0~$0 (Usually no higher education required) |
+| Diploma or certificate | 1-2 years | $5,000~$15,000 (Hotel Management Related Courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理文凭 | 学院或大学 | 可选 | 非强制但有利于晋升 |
-| 食品安全认证 | 省级机构 | 可选 | 部分省份要求 |
+| Hospitality management diploma | College or university | Optional | Not mandatory but beneficial for promotion |
+| Food safety certification | Provincial agency. | Optional | Required in some provinces |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 14,500。随着加拿大旅游业复苏，酒店对高质量家政服务的需求稳定。就业机会集中在主要城市和旅游区，职位竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,500. With the recovery of tourism in Canada, hotels have a steady demand for high-quality housekeeping services. Job opportunities are concentrated in major cities and tourist areas, with moderate competition for positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 取决于酒店规模和地点 |
-| 中级（3-7年） | $42,000~$55,000 | 有经验的主管 |
-| 高级（7年以上） | $55,000~$70,000 | 大型酒店或度假村经理 |
+| Median salary | $44,990 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$42,000 | Depends on hotel size and location |
+| Mid-level (3–7 years) | $42,000~$55,000 | Experienced supervisor |
+| Senior (7+ years) | $55,000~$70,000 | large hotel or resort manager |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从客房服务员晋升至主管或经理，可向区域经理或酒店运营总监发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of an executive housekeeper has mixed prospects: AI can take over scheduling, inventory forecasting, and report generation, but on-site cleanliness inspections, guest complaint handling, and team coordination still require humans, and competition for entry-level positions is intensifying.
+
+Typically advance from room attendant to supervisor or manager, with potential to move to regional manager or hotel operations director.
+
+**Tasks most exposed to AI:**
+
+- Housekeeping cleaning progress tracking and automatic scheduling
+- Inventory management (e.g., consumables forecasting and replenishment)
+- Automated generation of customer satisfaction reports
+- Room status updates based on sensor data
+
+**Where AI augments the role:**
+
+- AI-assisted deep cleaning plan creation
+- Individualized client preference recording and inference
+- HR matching and training content customization
+- Energy saving and environmental management optimization
+
+**Human moat:**
+
+- On-site inspections and flexible handling of unexpected issues (e.g., customer complaints)
+- Team morale management and cross-department coordination
+- Insight into hidden needs (e.g., VIP special requirements)
+- human oversight of overall hotel service quality
+
+**Skills to build:**
+
+- Data analysis and forecasting (e.g., Excel, Python basics)
+- AI Tool Applications (e.g., chatbots, smart scheduling platforms)
+- Customer Relationship Management (CRM) & Personalized Service Design
+- Leadership and change management
+- Basic financial knowledge (cost control, budget analysis)
+- Continuous learning and adaptability
+
+**Key growth areas:**
 
 - Hospitality
 - Housekeeping
@@ -61,65 +94,64 @@ Supervise cleaning and housekeeping services in hotels, resorts, or other accomm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 需符合NOC TEER 2或以上，并满足语言和工作经验要求 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对酒店业有提名项目，需雇主支持 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，之后可申请永久居民 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Must meet NOC TEER 2 or above, and satisfy language and work experience requirements |
+| Subclass PNP (Provincial Nominee Program) | Provinces have nomination programs for the hospitality industry, requiring employer support |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, then apply for permanent residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Executive housekeepers？**
-- 注重细节和组织能力的人
-- 喜欢服务行业并善于管理团队的人
-- 愿意在旅游热点或大城市工作的人
-
-**谁不适合学Executive housekeepers？**
-- 不喜欢体力劳动和长时间站立的人
-- 对清洁工作有抵触情绪的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and organized individuals.
+- People who enjoy service industry and good at managing teams
+- People willing to work in tourist hotspots or big cities
+
+**Who is not suited**
+- People who dislike physical labor and prolonged standing
+- People who are averse to cleaning work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an executive housekeeper?**
+A: Entry-level: approximately $32,000–$42,000, mid-level: $42,000–$55,000, senior: $55,000–$70,000.
+
+**Q: Is it easy to immigrate to Canada as an administrative housekeeper?**
+A: Eligible for Fast Track or Provincial Nominee Program, but usually requires employer sponsorship or LMIA, with higher experience requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Executive housekeepers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for executive housekeepers?**
-答：Entry-level $32,000-$42,000, mid-level $42,000-$55,000, senior $55,000-$70,000 CAD.
-
-**问：Is it easy to immigrate to Canada as an executive housekeeper?**
-答：Possible via Express Entry or PNP, but often requires employer sponsorship or LMIA and relevant experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

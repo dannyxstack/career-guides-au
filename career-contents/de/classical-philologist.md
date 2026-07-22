@@ -1,62 +1,96 @@
-# Classical Philologist（Classical Philologist）职业分析 · DE
+# Classical Philologist — career analysis · Germany
 
-**职业代码：9117 – Classical Philologist。**
+**Occupation code: 9117 (KldB)**
 
-Classical philologists study ancient Greek and Latin languages, literature, and culture, working in academia, teaching, or museums.
+Classical philologists study ancient Greek and Latin languages, literature, and culture, engaging in academic research, teaching, or museum work.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Bachelor） | 3年 | —（公立大学学费低，仅每学期注册费） |
-| 硕士（Master） | 2年 | —（公立大学免费或低学费） |
-| 博士（Promotion） | 3-5年 | —（博士通常有奖学金或职位资助） |
+| Bachelor's degree | 3 years | $0~$1,500 (Public universities have low tuition, only semester registration fees) |
+| Master's Degree (Master) | 2 years | $0~$1,500 (Free or low tuition at public universities) |
+| PhD (Promotion) | 3-5 years | $0~$0 (PhD students usually receive scholarships or position funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位（Master） | 大学 | 必备 | 古典语言学或相关专业 |
-| 博士学位（PhD） | 大学 | 可选 | 学术职位通常要求博士 |
-| 毕业证书（Abschlusszeugnis） | 大学 | 必备 | 学历认证Anerkennung |
+| Master's degree (Master) | University | Required | Classical linguistics or related field |
+| Graduation Certificate (Abschlusszeugnis) | University | Required | Qualification recognition (Anerkennung) |
+| Doctorate (PhD) | University | Optional | Academic positions typically require a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 3,000。德国古典语言学岗位有限，多数在大学或研究机构，竞争激烈。受数字化影响较小，但需求稳定。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 3,000. Classical philology positions in Germany are limited, mostly at universities or research institutions, with fierce competition. Less affected by digitalization, but demand remains stable.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | 博士研究员TV-L 13级 |
-| 中级（3-7年） | $45,000~$55,000 | 讲师或博士后 |
-| 高级（7年以上） | $55,000~$70,000 | 教授W1-W3级 |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$45,000 | PhD researcher TV-L 13 |
+| Mid-level (3–7 years) | $45,000~$55,000 | Lecturer or postdoctoral researcher |
+| Senior (7+ years) | $55,000~$70,000 | Teaching levels W1-W3 |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 职业路径包括博士后、讲师、教授；也可转向出版、博物馆或文化管理。晋升需发表高质量研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Classical linguists' work in text proofreading and translation is easily automated by AI, but cultural interpretation, teaching, and critical thinking in academic research are hard for AI to replace; overall mixed outlook.
+
+Career paths include postdoctoral, lecturer, professor; also transition to publishing, museums, or cultural management. Promotion requires high-quality research.
+
+**Tasks most exposed to AI:**
+
+- Auto-correction of spelling and grammar errors in Ancient Greek/Latin texts
+- Generate preliminary translations and annotations of classical texts
+- Quickly retrieve and organize relevant academic literature and corpora
+- Build and query automated workflows for classical text databases
+
+**Where AI augments the role:**
+
+- Use AI tools to accelerate cross-corpus text comparison and pattern recognition.
+- Discovering rhetorical devices and stylistic features in text through natural language processing
+- Use digital humanities tools for large-scale text mining and visual analysis
+- Using machine learning to assist in deciphering damaged or unclear ancient texts
+
+**Human moat:**
+
+- Deep understanding and critical interpretation of classical language and cultural contexts
+- Interdisciplinary research skills combining archaeology, history, philosophy, etc.
+- Original academic writing and theoretical innovation
+- Student interaction and heuristic teaching in the classroom
+- Human narrative skills for curating and explaining in museums or cultural institutions
+
+**Skills to build:**
+
+- Use of digital humanities tools (e.g., Tesseract, MALLET)
+- Basic programming (Python) and introduction to natural language processing
+- Data visualization and statistical analysis skills
+- Advanced search of classical text databases (e.g., Perseus, TLG)
+- Interdisciplinary collaboration skills (working with computer scientists)
+- Academic writing and critical thinking
+
+**Key growth areas:**
 
 - Academic Research
 - Higher Education
@@ -65,69 +99,68 @@ Classical philologists study ancient Greek and Latin languages, literature, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合博士或高薪学术职位，年薪需达约43,800欧元（2024） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于受雇于大学或研究机构，需学历认证 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月签证，寻找学术职位 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for PhD or high-paying academic positions; annual salary must be approximately €43,800 (2024). |
+| Subclass Skilled Worker (Skilled Worker Visa) | For those employed by universities or research institutions, requiring qualification assessment |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month visa, seeking academic positions |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Classical Philologist？**
-- 对古希腊罗马文化有浓厚兴趣，具备语言天赋
-- 追求学术研究，能接受竞争与不稳定
-- 喜欢深度阅读与文本分析
-
-**谁不适合学Classical Philologist？**
-- 希望高薪或快速职业发展者
-- 不喜欢长期学术训练和低市场需求者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in ancient Greek and Roman culture, with language aptitude
+- Pursuing academic research, able to accept competition and instability
+- Enjoys deep reading and text analysis.
+
+**Who is not suited**
+- Those seeking high salary or rapid career development
+- Those who dislike long-term academic training and low market demand
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a classical philologist?**
+A: Junior annual salary approx. EUR 38-45,000, senior professor up to EUR 70,000, but most positions have fixed salary according to TV-L standards.
+
+**Q: Can Chinese scholars apply for German classical philology positions?**
+A: Yes, but require a German-recognized degree (master's or higher), and EU Blue Card applicants must meet salary threshold. Academic positions are competitive.
+
+**Q: What are the career development paths for a classical linguist?**
+A: Typical pathway is PhD -> postdoc -> lecturer -> professor, with possible transitions to publishing, museums, or cultural management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 困难（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Classical Philologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for classical philologists?**
-答：Entry-level about 38,000-45,000 EUR, senior professor up to 70,000 EUR, mostly based on TV-L pay scale.
-
-**问：Can Chinese scholars apply for classical philology positions in Germany?**
-答：Yes, but need recognized degree (Master's or PhD), EU Blue Card requires salary threshold. Academic competition is high.
-
-**问：What are the career paths for classical philologists?**
-答：Typical: PhD -> postdoc -> lecturer -> professor; alternatives include publishing, museums, or cultural management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

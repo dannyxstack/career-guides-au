@@ -1,59 +1,95 @@
-# Microbiologists（Microbiologists）职业分析 · 美国
+# Microbiologists — career analysis · United States
 
-**职业代码：19-1022 – Microbiologists。**
+**Occupation code: 19-1022 (SOC)**
 
-Investigate the growth, structure, development, and other characteristics of microorganisms such as bacteria, algae, or fungi. Includes medical microbiologists studying organism-disease relationships and antibiotic effects.
+Research the growth, structure, development, and other characteristics of microorganisms, including medical microbiologists investigating the relationship between microbes and diseases and the effects of antibiotics on microbes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学年均学费约1万-2.5万美元，私立约3万-5万美元） |
-| 博士学位 | 5-6年 | —（博士通常有全额奖学金，自费可能需20万美元以上） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public university average annual tuition approximately USD 10,000-25,000, private USD 30,000-50,000.) |
+| Doctoral degree (PhD) | 5-6 years. | $0~$200,000 (Doctoral students usually receive full scholarships; self-funding may cost over USD 200,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 微生物学学士学位 | 认可大学 | 必备 | 入门级职位通常要求 |
-| 博士学位 | 认可大学 | 可选 | 独立研究或大学教职通常需要 |
-| 美国微生物学会认证 | American Society for Microbiology | 可选 | 非必需但有利 |
+| Bachelor's degree in Microbiology | Recognised university | Required | Entry-level positions usually require |
+| Doctoral degree (PhD) | Recognised university | Optional | Independent research or university faculty usually require |
+| American Society for Microbiology certification. | American Society for Microbiology | Optional | Not required but beneficial. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,000。美国微生物学家就业预计增长约5%（2022-2032年），与平均水平持平。制药、生物技术和公共卫生领域需求稳定，研究工作普遍需要政府资助。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 23,000. Employment of microbiologists in the US is projected to grow about 5% (2022-2032), about as fast as the average. Demand is stable in pharmaceuticals, biotechnology, and public health, with research work generally requiring government funding.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$65,000 | 实验室技术员或助理 |
-| 中级（3-8年） | $65,000~$90,000 | 微生物学家或项目主管 |
-| 高级（8年以上） | $90,000~$130,000 | 首席科学家或管理职位 |
+| Median salary | $87,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $48,000~$65,000 | Laboratory Technician or Assistant |
+| Mid-level (3–8 years) | $65,000~$90,000 | Microbiologist or project director |
+| Senior (8+ years) | $90,000~$130,000 | Chief scientist or management positions |
+| average salary | $97,600 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从实验室技术员或助理起步，晋升为高级研究员、首席科学家或实验室主管；博士学历者可担任大学教职或领导企业研发团队。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Microbiologists' core analytical tasks (e.g., culture observation, data collation) will be partially replaced by AI, but tasks relying on human creativity and judgment, such as experimental design, pathogen discovery, and compliance decisions, will become more valuable due to AI augmentation.
+
+Typically starts as lab technician or assistant, advancing to senior researcher, principal scientist, or lab director; PhD holders can become university faculty or lead corporate R&D teams.
+
+**Tasks most exposed to AI:**
+
+- Automated microbial cultivation, colony counting, and morphology identification
+- Routine DNA/RNA extraction and sequencing library preparation
+- Database-based microbial identification and susceptibility report generation
+- Automatic organization and basic analysis of experimental records and data
+- Repetitive aseptic operations and culture media preparation
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of metagenomic data to discover new pathogens
+- Machine learning to predict microbial resistance patterns and outbreak risks
+- Antibacterial Drug Development Combining High-Throughput Screening and AI
+- Automated experimental systems synergized with AI to optimize experimental protocols
+- Use natural language processing to quickly retrieve scientific literature and experimental protocols
+
+**Human moat:**
+
+- Intuition for innovative experiment design and research on unknown microorganisms
+- Professional judgment and ethical responsibility regarding public health policy.
+- Ability to collaborate across disciplines to solve complex disease mechanisms
+- Regulatory compliance (e.g., FDA, CDC) required signatures and certifications
+- Irreplaceable manual operation experience in clinical microbiology
+
+**Skills to build:**
+
+- Python/R and bioinformatics tools (e.g., QIIME2, MegaX)
+- Applications of machine learning and deep learning in microbiome analysis
+- Operation of automated laboratory equipment (e.g., liquid handling workstations)
+- Use of AI-driven drug discovery platforms (e.g., Atomwise)
+- Data science and visualization (Tableau, Power BI)
+- Knowledge of regulatory science and AI validation processes
+
+**Key growth areas:**
 
 - Biological research
 - Drug development
@@ -62,69 +98,68 @@ Investigate the growth, structure, development, and other characteristics of mic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于学士及以上学位的微生物学家，需雇主担保，年度配额竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上或特殊能力，通常需PERM劳工证，适用于高级研究职位 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位及经验，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在微生物领域有杰出成就的顶尖人才 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applies to microbiologists with a bachelor's degree or higher, requires employer sponsorship, and annual quota is competitive |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or exceptional ability; typically requires PERM labor certification; suitable for advanced research positions |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree and experience, long waiting period |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to top talents with outstanding achievements in the field of microbiology. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Microbiologists？**
-- 热爱科学研究和实验室工作，对微生物世界充满好奇
-- 具备耐心、细致和系统性思维能力
-- 愿意持续学习，跟上生物技术快速发展的步伐
-
-**谁不适合学Microbiologists？**
-- 不喜欢重复性实验操作和长时间显微镜观察
-- 对生物安全和严格规程感到束缚
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- passionate about scientific research and lab work, curious about the microbial world
+- Possess patience, attention to detail, and systematic thinking skills
+- Willingness to continuously learn and keep pace with rapid developments in biotechnology
+
+**Who is not suited**
+- Dislikes repetitive experimental operations and prolonged microscope observation.
+- Feeling constrained by biosafety and strict protocols
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for microbiologists in the US?**
+A: Entry-level microbiologist annual salary about USD 48,000-65,000, mid-level 65,000-90,000, senior up to 90,000-130,000. Research institutions or pharmaceutical companies pay higher.
+
+**Q: How can foreign microbiologists apply for a US work visa?**
+A: Common pathways include the H-1B visa (requires bachelor's degree or higher, employer sponsorship) and EB-2/EB-3 green cards. PhD holders or outstanding researchers may apply for the O-1 visa. The PERM labor certification is a key step in the green card application process.
+
+**Q: What educational background is needed to become a microbiologist?**
+A: Typically requires a bachelor's degree in microbiology or a related field. Independent research or university faculty positions usually require a PhD. A master's degree can qualify for mid-level roles. Relevant certifications such as ASM certification are beneficial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Microbiologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for microbiologists in the US?**
-答：Entry-level microbiologists earn around $48,000-$65,000 per year, mid-level $65,000-$90,000, and senior positions $90,000-$130,000. Higher salaries are common in research institutions and pharmaceutical companies.
-
-**问：How can a foreign microbiologist obtain a US work visa?**
-答：Common options include H-1B visa (bachelor's degree required, employer-sponsored) and EB-2/EB-3 green cards. PhD holders or outstanding researchers may qualify for O-1 visa. PERM labor certification is crucial for green card applications.
-
-**问：What education is required to become a microbiologist?**
-答：A bachelor's degree in microbiology or a related field is typically required. A PhD is necessary for independent research or academic positions. A master's degree is sufficient for mid-level roles. Certifications like ASM are beneficial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

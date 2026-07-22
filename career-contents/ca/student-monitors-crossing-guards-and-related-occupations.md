@@ -1,60 +1,93 @@
-# Student monitors, crossing guards and related occupations（Student monitors, crossing guards and related occupations）职业分析 · 加拿大
+# Student monitors, crossing guards and related occupations — career analysis · Canada
 
-**职业代码：45100 – Student monitors, crossing guards and related occupations。**
+**Occupation code: 45100 (NOC)**
 
-Responsible for supervising students' safe crossing at school zones, crosswalks, and traffic intersections, assisting in maintaining order, typically part-time or seasonal.
+Responsible for supervising student safe crossing around schools, crosswalks, and traffic intersections, assisting in maintaining order, usually part-time or seasonal work.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常仅需高中毕业） |
-| 短期培训 | 1周 | $100~$500（雇主提供的在职培训或交通引导课程） |
+| High school diploma | None | $0~$0 (Usually only requires high school diploma) |
+| Short-term training | 1 week | $100~$500 (On-the-job training or traffic guidance courses provided by employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救认证 | 加拿大红十字会或同等机构 | 可选 | 部分雇主要求 |
-| 无犯罪记录证明 | 当地警察局 | 必备 | 接触儿童的基本要求 |
+| Police clearance certificate | Local police department | Required | Basic requirements for working with children |
+| First Aid Certification | Canadian Red Cross or equivalent organization | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,000。加拿大该职业需求稳定，主要受学校安全法规推动，但整体规模较小，增长缓慢。就业机会主要集中在城市和郊区学校区域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Demand for this occupation in Canada is stable, mainly driven by school safety regulations, but the overall size is small with slow growth. Job opportunities are mainly concentrated in urban and suburban school areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 兼职时薪约15-18加元 |
-| 中级（3-6年） | $35,000~$42,000 | 全职年收入 |
-| 高级（6年以上） | $42,000~$50,000 | 含主管职责 |
+| Median salary | $41,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Part-time hourly wage approximately 15-18 Canadian dollars |
+| Mid-level (3–6 years) | $35,000~$42,000 | Annual full-time income |
+| Senior (6+ years) | $42,000~$50,000 | Includes supervisory duties |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 该职业晋升路径有限，可转向学校安全协调员、交通管理员或社区安全相关职位，但需额外培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not fully replace traffic controllers in the short term, but automated signals and monitoring systems will take over some tasks while enhancing situational awareness and recording capabilities; the role will shift towards safety supervision and emergency response.
+
+This occupation has limited advancement opportunities; can transition to school safety coordinator, traffic controller, or community safety roles, but additional training is required.
+
+**Tasks most exposed to AI:**
+
+- Direct repetitive traffic flow (e.g., automatic signal optimization replaces manual flagging)
+- Routine guidance during peak times (AI cameras + automatic warning systems take over some points)
+- Traffic violation records and reports (automated photo capture, identification, and log generation)
+
+**Where AI augments the role:**
+
+- Monitors weather, visibility, and accident risks in real-time, and alerts commanders via wearable devices.
+- Using AI systems to analyze intersection congestion patterns and optimize command strategies
+- Use augmented reality headsets to mark vehicles in blind spots to improve personal safety
+- Automatically generate daily traffic flow reports, aiding work summaries and planning
+
+**Human moat:**
+
+- Immediate judgment and handling of on-site emergencies (e.g., vehicle loss of control, pedestrian conflicts)
+- Non-standard communication and care for special populations (children, elderly, disabled)
+- Multi-party coordination and dynamic decision-making in complex construction areas
+- Legal and ethical responsibilities (e.g., first responder duties at accident scenes)
+- Human eye recognition and adaptability under adverse conditions like extreme weather and low visibility
+
+**Skills to build:**
+
+- Basic operation and alarm interpretation of AI monitoring systems.
+- Learn basics of traffic data analysis (e.g., identifying congestion patterns)
+- Attend emergency response and crisis management training
+- Improve communication skills, especially with children and non-English-speaking pedestrians
+- Familiarity with handheld terminals or wearable devices (e.g., augmented reality glasses)
+- Basic English for understanding international traffic signs and operation manuals
+
+**Key growth areas:**
 
 - Stable
 - Part-time
@@ -63,64 +96,66 @@ Responsible for supervising students' safe crossing at school zones, crosswalks,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 因职业通常非高技能，雇主需证明无法招到本地人，极少使用 |
+| Subclass LMIA (Labour Market Impact Assessment) | Because the occupation is usually not high-skilled, employers must prove inability to hire locally, rarely used |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Student monitors, crossing guards and related occupations？**
-- 喜欢户外工作、与儿童互动
-- 寻求兼职或灵活工作时间
-- 退休人员或学生兼职
+**Who is suited**
+- Enjoys outdoor work and interacting with children
+- Seeking part-time or flexible working hours
+- Retirees or students working part-time.
 
-**谁不适合学Student monitors, crossing guards and related occupations？**
-- 寻求高薪职业
-- 对体力劳动或恶劣天气不适应
+**Who is not suited**
+- Those seeking high-paying careers
+- Not suitable for manual labor or harsh weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Student monitors are usually paid hourly, about C$15-22 per hour, annual income about C$28,000-50,000, depending on hours and region.
+
+**Q: Does this occupation have a skilled migration pathway?**
+A: This occupation is typically not high-skilled and cannot directly immigrate via Express Entry or PNP; only possible through employer LMIA work permits, but opportunities are very limited.
+
+**Q: Does this career have growth potential?**
+A: Limited promotion opportunities, but experience can lead to roles such as campus safety coordinator or traffic manager with additional training and certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Student monitors, crossing guards and related occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Student monitors are typically paid hourly, with wages around $15-22 CAD per hour, annual income about $28,000-$50,000 CAD depending on hours and location.
-
-**问：Are there skilled migration pathways for this occupation?**
-答：This occupation is generally not considered high-skilled, so it does not qualify for Express Entry or PNP directly. Only possible through employer LMIA work permits, but opportunities are very limited.
-
-**问：Is there career growth in this occupation?**
-答：Limited advancement, but with experience one can move to school safety coordinator or traffic supervisor roles, requiring additional training and certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

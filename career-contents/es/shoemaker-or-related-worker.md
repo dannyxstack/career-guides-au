@@ -1,60 +1,92 @@
-# Shoemaker or Related Worker（Shoemaker or Related Worker）职业分析 · ES
+# Shoemaker or Related Worker — career analysis · Spain
 
-**职业代码：7837 – Shoemaker or Related Worker。**
+**Occupation code: 7837 (CNO)**
 
-Shoemakers and related workers manufacture, repair, and customize footwear by hand, including cutting and stitching uppers, attaching soles, and adding decorative elements. In Spain, this trade is found in traditional workshops, high-end custom shoe stores, and shoe repair shops.
+Shoemakers and related professions engage in handmade production, repair, customization, and maintenance of footwear, including upper cutting, sewing, sole installation, and decoration. In Spain, this profession is often found in traditional craft workshops, high-end custom shoe stores, and clothing and footwear repair shops.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Medio） | 2年 | —（公立FP基本免费，仅注册费约300-600欧元/年；私立约500-3000欧元/年） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，私立费用同中级FP） |
+| Vocational Education (FP Grado Medio) | 2 years | $0~$6,000 (Public FPs are basically free, with registration fees of about 300-600 euros per year; Private ones pay about 500-3000 euros per year) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$7,000 (Public is free, private costs similar to intermediate FP) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业教育毕业证（Técnico en Calzado y Marroquinería） | 西班牙教育部认可的职业教育中心 | 可选 | 包含鞋类制作与修理专业知识，非强制但大幅提升就业竞争力 |
-| 学徒经历 | 工作单位或行业协会 | 可选 | 传统学徒制是主要入行方式，时长3-6年 |
+| Secondary Vocational Education Diploma (Técnico en Calzado y Marroquinería) | A vocational education center recognized by the Spanish Ministry of Education | Optional | Includes expertise in shoe manufacturing and repair, non-mandatory but significantly enhances employment competitiveness |
+| Apprenticeship experience | Workplace or industry association | Optional | Traditional apprenticeships are the main entry point, lasting 3-6 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,200。西班牙鞋类手工艺行业正缓慢萎缩，但高端定制与维修市场仍有稳定需求。年轻学徒减少导致人才断层，未来十年预计从业人数小幅下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,200. Spain's footwear craft industry is slowly shrinking, but there is still stable demand in the high-end customization and repair market. The reduction in young apprentices has led to a talent gap, with employment numbers expected to decline slightly over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，相当于最低工资至略高 |
-| 中级（3-10年） | $20,000~$25,000 | 税前年薪，取决于工作效率与客户群 |
-| 高级（10年以上或自雇） | $25,000~$35,000 | 税前年薪，自雇者收入波动大，高端定制可达更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, equivalent to the minimum wage up to slightly higher |
+| Intermediate (3-10 years) | $20,000~$25,000 | Pre-tax annual salary depends on work efficiency and client base |
+| Senior (over 10 years or self-employed) | $25,000~$35,000 | Pre-tax annual salary: self-employed individuals have large income fluctuations, but high-end customization can reach even higher levels |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业路径通常从学徒开始，在经验丰富的鞋匠指导下学习5-10年成为熟练工，后可独立开店或受雇于奢侈品牌。少数高级工匠可进入时尚产业链，参与高端鞋品设计或质检。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some tasks for shoemakers (such as measurement, design consulting, and detailed repairs) are difficult for AI to fully replace due to personalization and manual requirements, but standardized shoe repair, cutting, and inventory management are easily eroded by automation, resulting in a mixed overall landscape.
+
+Career paths usually start as apprentices, and after training for 5-10 years under the guidance of experienced shoemakers, they become skilled workers, later opening independent stores or working for luxury brands. A few senior craftsmen can enter the fashion industry chain and participate in high-end shoe design or quality inspection.
+
+**Tasks most exposed to AI:**
+
+- An AI vision system automatically detects sole wear patterns and recommends standard repair plans
+- Standardized upper cutting is completed through 3D scanning and automatic cutting machines
+- Using robots for sole bonding and pressing (mass production)
+- AI-driven inventory management systems replace manual inventory counting and ordering
+
+**Where AI augments the role:**
+
+- AI-assisted 3D modeling of customers' feet enables rapid generation of personalized shoe lasts and customized solutions
+- The AI recommendation system analyzes trend data to help designers suggest styles
+- AI quality inspection tools (hyperspectral imaging) accurately identify leather defects and improve repair quality
+- AI digital workflows (from design to production) shorten the delivery cycle for custom shoes
+
+**Human moat:**
+
+- Techniques for judging the tactile feel of complex leather/fabric textures and repairing them
+- Engage in in-depth communication with clients to understand aesthetic preferences and foot health needs
+- Unique design capabilities that blend traditional craftsmanship with creativity
+- Historical research and material restoration capabilities in vintage shoe restoration
+
+**Skills to build:**
+
+- 3D modeling and scanning technologies (such as Rhino, Artec scanners)
+- AI-assisted design software (such as CLO 3D, Adobe Substance)
+- Digital marketing and e-commerce operation skills
+- Fundamentals of Materials Science (New Sustainable Leather, Biodegradable Materials)
+- Basic programming (Python) is used for customized order management systems
+
+**Key growth areas:**
 
 - Custom footwear
 - Shoe repair
@@ -63,65 +95,67 @@ Shoemakers and related workers manufacture, repair, and customize footwear by ha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇工作居留：需获得西班牙雇主的工作合同，且需证明该职位无法由欧盟公民填补，对于此传统手工艺职业，移民通道非常有限。 |
-| Subclass Cuenta propia（Self-Employment Visa） | 自雇工作居留：需提供详细的商业计划、资金证明及对西班牙经济的贡献，审批门槛高。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employed Work Residence: You must obtain a work contract from a Spanish employer and prove that the position cannot be filled by an EU citizen. For this traditional craft profession, immigration pathways are very limited. |
+| Subclass Cuenta propia (Self-Employment Visa) | Self-employed work residence: Requires detailed business plans, proof of funds, and contributions to the Spanish economy; approval thresholds are high. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoemaker or Related Worker？**
-- 热爱手工制作与精细工作的人
-- 偏好稳定小规模经营或传统技艺传承的人
-- 愿意接受长期低薪学徒期以掌握手艺的人
+**Who is suited**
+- People who love handmade crafts and fine work
+- Those who prefer stable, small-scale operations or traditional skill inheritance
+- Those willing to accept long, low-paying apprenticeships to master their craft
 
-**谁不适合学Shoemaker or Related Worker？**
-- 追求高薪及快速职业回报的人
-- 偏好技术革新与自动化环境的人
+**Who is not suited**
+- People seeking high salaries and quick career returns
+- People who prefer technological innovation and automated environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for cobblers in Spain?**
+A: Junior shoemaker annual salary approx. €16,000-20,000, mid-level €20,000-25,000, senior or self-employed €25,000-35,000. Overall low pay, among the lower-income roles in traditional handicrafts.
+
+**Q: Can foreign shoemakers immigrate to Spain?**
+A: It's very difficult. This occupation is not on Spain's shortage occupation list, and the market size is small, making it difficult for employers to pass the labor market test. The self-employed immigration pathway also has a high threshold and is generally not recommended as a skilled immigration option.
+
+**Q: What career development paths are available for shoemakers?**
+A: You can be promoted to manager in high-end custom shoe stores or traditional workshops, or open your own brand. Some have transitioned into fashion shoe design or luxury goods repair, but overall advancement opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shoemaker or Related Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for shoemakers in Spain?**
-答：Entry-level shoemakers earn around €16,000-€20,000 gross annually, mid-level about €20,000-€25,000, and senior or self-employed can reach €25,000-€35,000. Overall earnings are low compared to other trades.
-
-**问：Can foreign shoemakers immigrate to Spain?**
-答：Very difficult. This occupation is not on Spain's shortage list, and the market is small. Employers would struggle to pass the labor market test. Self-employment routes are also high threshold, not recommended for skilled migration.
-
-**问：What career progression options exist for shoemakers?**
-答：Progression includes becoming a master in a high-end workshop, opening your own brand, or transitioning into fashion footwear design or luxury repair. However, advancement opportunities are limited.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

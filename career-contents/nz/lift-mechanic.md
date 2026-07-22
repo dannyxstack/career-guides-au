@@ -1,60 +1,89 @@
-# Lift Mechanic（Lift Mechanic）职业分析 · 新西兰
+# Lift Mechanic — career analysis · New Zealand
 
-**职业代码：341113 – Lift Mechanic。**
+**Occupation code: 341113 (ANZSCO)**
 
-Lift mechanics are in steady demand in New Zealand, installing, maintaining, and repairing elevators, escalators, and lifting platforms. Listed on the Green List, this occupation offers a direct residence pathway, requiring relevant certification and work experience.
+Elevator mechanics are in stable demand in New Zealand, responsible for installing, maintaining, and repairing elevators, escalators, and lifting platforms. This occupation is on the Green List and can lead to immigration through the Direct Residence pathway, requiring relevant certifications and work experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰注册学徒制（含在职培训） | 4年 | $10,000~$20,000（学费约1-2万纽元，部分由雇主资助；收入同步增长） |
-| 预学徒课程（可选） | 6个月 | $3,000~$5,000（提供基础电工和机械技能，有助于进入学徒制） |
+| New Zealand registered apprenticeship (includes on-the-job training) | 4 years | $10,000~$20,000 (Tuition approx. NZD 10,000-20,000, some employer-funded; income grows concurrently) |
+| Pre-apprenticeship course (optional) | 6 months. | $3,000~$5,000 (Provides basic electrical and mechanical skills, helpful for entering an apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰电梯行业注册（Registered Lift Mechanic） | 新西兰电梯协会（Elevator Association of New Zealand） | 必备 | 完成学徒制并通过考试后可注册，是独立工作的法律要求 |
-| 新西兰国家职业证书（National Certificate in Lift Mechanic） | 新西兰资格认证局（NZQA） | 必备 | 学徒制完成后获得，4级证书 |
-| 电工注册（可选） | 电工注册委员会（Electrical Workers Registration Board） | 可选 | 如需从事电气工作，需额外注册 |
-| 雅思总分6.5（移民语言要求） | 雅思 | 可选 | 技术移民通常要求雅思6.5，绿色清单同样适用 |
+| Registered Lift Mechanic in New Zealand | Elevator Association of New Zealand | Required | After completing an apprenticeship and passing the exam, you can register, which is a legal requirement for independent work |
+| New Zealand National Certificate in Lift Mechanic | New Zealand Qualifications Authority (NZQA) | Required | Obtained after completing apprenticeship, Certificate Level 4 |
+| Electrician registration (optional) | Electrical Workers Registration Board | Optional | If electrical work is involved, additional registration is required. |
+| IELTS overall 6.5 (language requirement for immigration) | IELTS | Optional | Skilled migration usually requires IELTS 6.5; the Green List also applies. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。随着城市化和建筑更新，电梯安装和维护需求持续增长。预计未来5年就业机会稳定，尤其在奥克兰、惠灵顿等大城市。短缺技能状态推动雇主积极招聘。
+**Job demand: high (★★★★☆).** National workforce approx. 800. With urbanization and building renewal, demand for elevator installation and maintenance continues to grow. Stable job opportunities expected over the next 5 years, especially in major cities like Auckland and Wellington. Skill shortage status drives active employer recruitment.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒期间工资较低，随经验增加 |
-| 中级（3-7年） | $70,000~$90,000 | 全资格技工常见工资 |
-| 高级（7年以上/主管） | $90,000~$110,000 | 高级技工或项目经理可达更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Wages are lower during apprenticeship, increasing with experience |
+| Mid-level (3–7 years) | $70,000~$90,000 | Common wage for fully qualified tradesperson |
+| Senior (7+ years/supervisor) | $90,000~$110,000 | Advanced technician or project manager can earn higher |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏好（★★★½☆）。** 从学徒起，逐步晋升为持证技工、高级技工，可担任主管或项目经理。部分人选择开设自己的维修公司，或专攻自动化电梯系统。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
+
+Progressing from apprenticeship to licensed tradesperson, senior tradesperson, and then to supervisor or project manager. Some choose to start their own repair company or specialize in automated elevator systems.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and recording of elevator operation data, which can be automatically collected and analyzed by AI systems
+- AI can autonomously generate maintenance suggestions based on historical data for fault pattern recognition
+- Some preventive maintenance tasks like cleaning and lubrication can be performed by robots or automated equipment
+
+**Where AI augments the role:**
+
+- AI provides real-time elevator fault diagnosis suggestions, assisting repair technicians in quickly locating issues
+- Use computer vision to inspect elevator components for surface wear or cracks, improving detection accuracy.
+- Simulate elevator installation process through digital twins, optimizing installation plans and reducing rework
+
+**Human moat:**
+
+- On-site safety assessment and emergency response (e.g., rescuing trapped persons) requires human judgment
+- Retrofit of non-standard electromechanical systems in old elevators relies on experience
+- Communication and compliance coordination with owners and inspectors cannot be automated
+
+**Skills to build:**
+
+- Learning to operate AI fault diagnosis software (e.g., predictive maintenance platforms)
+- Proficiency in configuring and analyzing elevator IoT sensor data
+- Enhance skills in electrical control system debugging and PLC programming
+- Learn to use augmented reality (AR) assisted repair tools
+- Familiar with elevator-related regulations and safety standards (e.g., ASME A17.1)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +92,67 @@ Lift mechanics are in steady demand in New Zealand, installing, maintaining, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 符合条件的电梯机械师可直接申请居留，要求注册资格且工资达到中位数（现约29.66纽元/小时） |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制申请，学历加工作经验，需满足工资门槛和注册要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为过渡签证，用于积累工作经验，通常需雇主担保且工资不低于中位数 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Qualified elevator mechanics can directly apply for residency; require registration and a salary at the median (currently about NZ$29.66/hour). |
+| Subclass SMC (Skilled Migrant Category) | Apply through the 6-point system, combining qualifications and work experience, meeting salary threshold and registration requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa to accumulate work experience, usually requires employer sponsorship and salary not below the median |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lift Mechanic？**
-- 喜欢动手操作、解决问题的人
-- 注重安全、有耐心和责任感的人
-- 愿意接受长周期学徒培训并持续学习的人
-
-**谁不适合学Lift Mechanic？**
-- 不喜欢高空作业或狭小空间的人
-- 寻求快速高薪或厌恶体力劳动的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, problem-solving individuals.
+- People who prioritize safety, are patient, and have a sense of responsibility
+- Individuals willing to undergo long-term apprenticeship training and continuous learning.
+
+**Who is not suited**
+- People who dislike working at heights or in confined spaces
+- Those seeking quick high income or averse to physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an elevator mechanic?**
+A: Entry-level approx. NZ$55,000-70,000, mid-level NZ$70,000-90,000, senior NZ$90,000-110,000; overtime or weekend work can boost earnings.
+
+**Q: Can elevator mechanics immigrate through the Green List?**
+A: Yes. This occupation is on the Green List Tier 1, meeting registration and salary requirements allows direct application for residence without waiting.
+
+**Q: What qualifications do I need?**
+A: Must complete a 4-year apprenticeship and obtain a national certificate, and register as an elevator mechanic. Overseas qualifications need equivalence assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等偏好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Lift Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a lift mechanic?**
-答：Entry-level around NZD 55,000-70,000, mid-level 70,000-90,000, senior 90,000-110,000; overtime and weekend work can boost earnings.
-
-**问：Can a lift mechanic migrate via the Green List?**
-答：Yes. This occupation is on Green List Tier 1, allowing direct residence if you meet registration and wage requirements.
-
-**问：What qualifications do I need?**
-答：You must complete a 4-year apprenticeship and obtain the National Certificate, plus register as a lift mechanic. Overseas qualifications need assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

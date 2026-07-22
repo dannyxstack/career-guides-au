@@ -1,61 +1,97 @@
-# Mover（Mover）职业分析 · FR
+# Mover — career analysis · France
 
-**职业代码：N1102 – Mover。**
+**Occupation code: N1102 (ROME)**
 
-Professional responsible for packing, loading, transporting, and unloading furniture and goods for residential or commercial moves.
+Responsible for packaging, loading, unloading, transporting, and dismantling furniture and items, providing moving services for customers.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求，培训上岗 | 2周至1个月 | —（多数公司提供带薪培训，无需预先付费） |
-| CAP运输与物流 | 2年 | —（学徒制下免学费，且可获得薪水） |
+| No education requirements, training and employment | From 2 weeks to 1 month | $0~$500 (Most companies offer paid training with no upfront payment) |
+| CAP Transportation and Logistics | 2 years | $0~$1,000 (Under the apprenticeship system, tuition is waived and a salary can be earned) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 搬运工职业证书（CQP） | 法国运输与物流协会（AFT） | 可选 | 可自愿获得，提升就业竞争力 |
-| 驾驶执照B类（轻卡） | 法国政府 | 必备 | 驾驶搬运车辆必需 |
-| FIMO运输从业资格证（重车） | 法国政府 | 可选 | 驾驶3.5吨以上车辆必需 |
+| Driving License Class B (Light Truck) | The French government | Required | Driving transport vehicles is required |
+| Mover Professional Certificate (CQP) | French Association of Transport and Logistics (AFT) | Optional | It can be obtained voluntarily to enhance employment competitiveness |
+| FIMO Transport Qualification Certificate (Heavy Vehicles) | The French government | Optional | Required to drive vehicles over 3.5 tons |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。法国搬家行业需求稳定，受房地产市场和人口流动影响。就业机会主要集中在大城市，如巴黎、里昂。季节性较强，夏季为旺季。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Demand for the moving industry in France is stable, influenced by the real estate market and population mobility. Job opportunities are mainly concentrated in major cities such as Paris and Lyon. It is highly seasonal, with summer being the peak season.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $25,000~$30,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $30,000~$35,000 | 税前年薪，含奖金，团队管理岗更高 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $25,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $30,000~$35,000 | Pre-tax annual salary including bonuses, with higher team management positions |
+| average salary | $32,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从搬运工晋升为团队组长、调度员，或创办自己的搬家运输公司。经验丰富的可转向物流管理或仓储运营。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Movers are significantly affected by automation, with repetitive manual lifting tasks easily replaced by robots and autonomous forklifts. However, complex furniture assembly and customer communication still require manual labor, and the overall number of positions is declining.
+
+You can be promoted from mover to team leader or dispatcher, or start your own moving and transportation company. Experienced professionals can transition to logistics management or warehouse operations.
+
+**Tasks most exposed to AI:**
+
+- Standard handling is carried out using a handcart or forklift
+- Loading and unloading standard-sized boxes
+- Transport according to preset routes
+- Simple packing and unpacking
+- Use a scanner to register items
+
+**Where AI augments the role:**
+
+- Furniture assembly guidance using AR glasses
+- Optimize handling routes through AI scheduling systems
+- Utilize intelligent handling robots to work collaboratively
+- Use digital tools for remote customer confirmation
+- Manage fragile item handling with AI predictive tools
+
+**Human moat:**
+
+- On-site disassembly and assembly of complex furniture and irregular items
+- Customer communication and on-site response capabilities
+- Careful handling of special items such as artworks and antiques
+- Human judgment for multi-step relocation plans
+- Collaboration with other trades (such as electricians).
+
+**Skills to build:**
+
+- Operate electric forklifts/lifting platforms
+- Use digital scheduling and management apps
+- Basic communication with clients in English or French
+- Simple AR device operation
+- Teamwork and problem-solving
+- Health and safety regulations (such as ergonomics)
+
+**Key growth areas:**
 
 - Seasonal demand
 - Urban mobility
@@ -64,61 +100,63 @@ Professional responsible for packing, loading, transporting, and unloading furni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主工作合同，且工作需通过劳动力市场测试（除非紧缺职业），搬运工通常不被视为紧缺，获批难度较高。 |
+| Subclass Salarié (Employee Work Permit) | You must obtain a French employer employment contract, and the job must pass a labor market test (unless there is a shortage occupation); movers are generally not considered in high demand and are more difficult to approve. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mover？**
-- 体力充沛、喜欢户外活动者
-- 注重细节、有责任心的人
-- 希望在物流行业从基层做起的人
+**Who is suited**
+- Those who are physically strong and enjoy outdoor activities
+- Detail-oriented and responsible individuals
+- Those who hope to start from the ground up in the logistics industry
 
-**谁不适合学Mover？**
-- 无法承受重体力劳动的人
-- 倾向办公室白领工作的人
+**Who is not suited**
+- People who cannot endure heavy physical labor
+- People who prefer office white-collar jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for porters in France?**
+A: Entry-level salaries are about 20,000-25,000 euros per year, while seniors can reach up to 35,000 euros per year (before tax).
+
+**Q: Is it easy for foreigners to obtain a French mover work visa?**
+A: It's not easy. Movers are not considered a scarce occupation in France; employers must prove they cannot recruit locals, and visa approvals are strict.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mover属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a mover in France?**
-答：Entry-level around €20,000-€25,000/year, senior up to €35,000/year (gross).
-
-**问：Is it easy for a foreigner to get a work visa for a mover job in France?**
-答：No. Mover is not a shortage occupation; employer must prove no local candidate available, making visa approval difficult.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

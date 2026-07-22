@@ -1,59 +1,93 @@
-# Fire Fighter（Fire Fighter）职业分析 · 澳大利亚
+# Fire Fighter — career analysis · Australia
 
-**职业代码：441212 – Fire Fighter。**
+**Occupation code: 441212 (ANZSCO)**
 
-Fire Fighters respond to fires, emergencies, hazardous material incidents, and conduct fire prevention education, playing a vital role in Australia's emergency services.
+Firefighters are responsible for extinguishing fires, performing emergency rescues, handling hazardous material spills, and conducting fire prevention education. They are a key force in Australia's emergency services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 职业培训（Certificate II/III in Fire Operations） | 6-12个月 | $2,000~$8,000（培训费因机构而异） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Vocational training (Certificate II/III in Fire Operations) | 6–12 months | $2,000~$8,000 (Training fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 消防员资格培训 | 各州消防机构 | 必备 | 通过严格体能与理论考核 |
-| 紧急医疗响应认证 | 相关州机构 | 必备 | 通常为一级救护员或更高 |
-| 重型车辆驾驶执照 | 各州交通局 | 必备 | 驾驶消防车必备 |
+| Firefighter qualification training | State fire agencies. | Required | Pass strict physical and theoretical assessments |
+| Emergency medical response certification | Relevant state authorities | Required | Usually a paramedic or higher |
+| Heavy vehicle driving licence | State transport departments | Required | Essential for driving fire trucks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 34,000。澳洲消防员需求稳定，受人口增长和气候变化影响，丛林火灾频发地区需求可能上升。政府持续投资应急服务，预计未来5年就业增长平稳。
+**Job demand: high (★★★★☆).** National workforce approx. 34,000. Demand for firefighters in Australia is stable, influenced by population growth and climate change; demand may rise in areas with frequent bushfires. The government continues to invest in emergency services, with employment growth expected to be steady over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 受训消防员年薪约6-7.5万澳元 |
-| 中级（3-10年） | $75,000~$95,000 | 多数消防员年薪在此范围 |
-| 高级（10年以上） | $95,000~$120,000 | 队长或高级官员年薪可达12万澳元 |
+| Median salary | $128,596 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Trainee firefighter annual salary: about $60,000-$75,000 AUD. |
+| Intermediate (3-10 years) | $75,000~$95,000 | Most firefighters' annual salary falls within this range |
+| Senior (10+ years) | $95,000~$120,000 | Team leaders or senior officials can earn up to AUD 120,000/year. |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从消防学员起步，通过培训和经验晋升为消防员、高级消防员、队长或区域指挥官。部分转向消防调查、培训或消防管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
+
+Typically start as a firefighter trainee, progressing through training and experience to become a firefighter, senior firefighter, captain, or regional commander. Some move into fire investigation, training, or fire management roles.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
 
 - Emergency Services
 - Climate Change Response
@@ -62,67 +96,66 @@ Fire Fighters respond to fires, emergencies, hazardous material incidents, and c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 190（Skilled Nominated Visa） | 适合获得州政府担保的消防员，常见于偏远地区州担保计划。 |
-| Subclass 482（Skills in Demand Visa） | 由雇主担保临时工作签证，消防员可通过州消防机构担保。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需满足职业评估和工作经验要求。 |
+| Subclass 190 (Skilled Nominated Visa) | Suitable for firefighters with state government nomination, common in regional state nomination programs. |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary work visa, firefighters can be sponsored by state fire agencies. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requires meeting occupation assessment and work experience requirements. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fire Fighter？**
-- 体能优秀、心理素质强的人
-- 喜欢团队合作和社区服务的人
-
-**谁不适合学Fire Fighter？**
-- 无法适应高压和危险环境的人
-- 对体力要求有困难的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong physical fitness and mental resilience
+- People who enjoy teamwork and community service
+
+**Who is not suited**
+- People unable to adapt to high-pressure and dangerous environments
+- People who have difficulty with physical demands
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level for firefighters?**
+A: Entry-level firefighter salary is about AUD 60,000–75,000 annually, intermediate 75,000–95,000, senior 95,000–120,000, plus allowances and overtime.
+
+**Q: Can firefighters migrate to Australia through skilled migration?**
+A: Yes, firefighter is on the CSOL list, but usually requires state nomination (190) or employer sponsorship (482/186), with stiff competition.
+
+**Q: Is the work intensity of a firefighter high?**
+A: High work intensity, including shift work, prolonged standing, and physical exertion, with frequent emergency responses and high pressure.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Fire Fighter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for firefighters?**
-答：Entry-level firefighters earn AUD 60,000-75,000, mid-level AUD 75,000-95,000, and senior AUD 95,000-120,000, plus allowances and overtime.
-
-**问：Can firefighters migrate to Australia through skilled migration?**
-答：Yes, firefighters are on the CSOL list, but generally require state nomination (190) or employer sponsorship (482/186), and competition is high.
-
-**问：Is the job intensity high for firefighters?**
-答：Yes, it involves shift work, long hours, physical exertion, and constant readiness for emergencies, leading to high stress.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

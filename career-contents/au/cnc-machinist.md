@@ -1,66 +1,94 @@
-# 数控机床操作工（Precision Metal Trades Worker）职业分析 · 澳大利亚
+# CNC Machinist — career analysis · Australia
 
-**职业代码：323214 – Precision Metal Trades Worker。**
+**Occupation code: 323214 (ANZSCO)**
 
-数控机床操作工（CNC Machinist）操作和编程CNC车床、铣床等精密机床，生产金属零部件，是制造业核心技工。澳洲持证CNC操作工持续短缺，尤其集中在国防、航空和矿业设备维修领域。
+CNC machinists operate and programme CNC lathes, milling machines and other precision machine tools to produce metal components, making them core tradespeople in the manufacturing industry. Australia has a sustained shortage of licensed CNC operators, particularly in defence, aviation and mining equipment maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Engineering (Machining Trade) | 42~48个月（学徒） | —（各州TAFE） |
-| Certificate IV in Engineering (Advanced) | 12个月 | $2,000~$5,000（CAD/CAM编程进阶） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Engineering (Machining Trade) | 42–48 months (apprenticeship) | $0~$3,000 (State TAFE institutions) |
+| Certificate IV in Engineering (Advanced) | 12 months | $2,000~$5,000 (Advanced CAD/CAM programming) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering (Machining Trade) | TAFE/RTO | 必备 | 执业核心资质 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Engineering (Machining Trade) | TAFE/RTO | Required | Core practising qualifications |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。AUKUS国防制造和航空维修MRO业务扩展将提升CNC需求。矿业设备大修期间对高级CNC操作工需求激增。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. AUKUS defence manufacturing and aviation MRO expansion will drive increased CNC demand. Demand for senior CNC operators surges during mining equipment overhauls.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~500 个 | 全国，VIC/NSW/WA集中 |
-| Indeed | 100~280 个 | 含矿业和航空方向 |
-| LinkedIn | 50~130 个 | 国防/航空方向 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $30,000~$60,000 | Metal Industry Award |
-| 初级CNC操作工（1~3年） | $70,000~$88,000 | 制造业基础 |
-| 中级（3~8年） | $88,000~$115,000 | 含CAD/CAM编程能力 |
-| 高级/编程工程师（8年+） | $110,000~$140,000 | 5轴+国防合同工 |
+| Median salary | $135,512 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $30,000~$60,000 | Metal Industry Award |
+| Junior CNC Operator (1–3 years) | $70,000~$88,000 | Manufacturing fundamentals |
+| Mid-level (3–8 years) | $88,000~$115,000 | Including CAD/CAM programming capability |
+| Senior/programming engineer (8+ years) | $110,000~$140,000 | 5-axis machining + defence contract work |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** CNC技术持续升级（5轴加工中心），会CAD/CAM编程的操作工薪资溢价明显。自动化装卸辅助提升效率，但编程判断仍需人工。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
+
+CNC technology continues to advance (5-axis machining centres), with a clear salary premium for operators skilled in CAD/CAM programming. Automated loading and unloading aids improve efficiency, but programming judgement still requires human input.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating G-code and tool paths for simple workpieces
+- Online machining parameter optimisation based on sensor feedback
+- Quality inspection of standard parts and automatic defect labeling
+- Processing monitoring and abnormal alarm handling
+
+**Where AI augments the role:**
+
+- AI-assisted complex surface programming and simulation verification
+- Optimize fixtures and cutting parameters via digital twins
+- Integrate CAM with adaptive machining to improve efficiency
+- Use AI to predict tool life and optimize tool change timing
+- Remote collaboration and AR-assisted debugging of multi-axis machine tools
+
+**Human moat:**
+
+- Process design for difficult-to-machine materials like irregular and thin-walled parts
+- On-site judgment and manual intervention during processing anomalies
+- Jig and fixture design and non-standard part clamping solutions
+- Communicate with design and assembly teams to resolve tolerance issues
+
+**Skills to build:**
+
+- Multi-axis CNC programming and post-processing customization
+- Write automated macros using Python/Macro
+- Secondary development of CAM software (e.g., Fusion 360 API)
+- Industrial robot loading/unloading integration and commissioning
+- GD&T geometric tolerancing and precision measurement techniques
+- AI-assisted machining software (e.g., Mastercam AI Advisor)
+
+**Key growth areas:**
 
 - Defence Manufacturing
 - Aerospace Machining
@@ -69,69 +97,66 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | VIC/SA制造业州提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | VIC/SA manufacturing state nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学数控机床操作工？**
-- 有CNC操作或编程经验，希望移民VIC/NSW/SA
-- 精密加工背景，愿意在国防或航空制造发展
-
-**谁不适合学数控机床操作工？**
-- 无机械加工背景
-- 不接受车间精密工作环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experience in CNC operation or programming, seeking migration to VIC/NSW/SA
+- Precision machining background with interest in developing a career in defence or aerospace manufacturing
+
+**Who is not suited**
+- No mechanical machining background
+- Unable to tolerate workshop precision working environments
+
+---
+
+## 8. FAQ
+
+**Q: How much do CNC operators earn in Australia?**
+A: Mid-level CNC operators earn approx. $88,000–$115,000 per year. Those with CAD/CAM programming skills or working on defence contracts can earn $140,000+.
+
+**Q: Is it easy to find work as a CNC operator in Australia?**
+A: Easy. Licensed CNC operators are in short supply nationwide, with 200–500 positions listed on Seek; VIC/NSW/WA have the most openings.
+
+**Q: Is CNC experience from overseas recognised in Australia?**
+A: Requires a TRA skills assessment (12–18 months), including submission of machine operation records and technical drawing samples; pass rates are relatively high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 323214 数据 |
-| Seek AU | CNC Machinist 薪资及岗位量 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-数控机床操作工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲CNC操作工工资多少？**
-答：中级CNC操作工年薪约 $88,000~$115,000。有CAD/CAM编程能力者或国防合同工可达 $140,000+。
-
-**问：澳洲CNC操作工容易找工作吗？**
-答：容易。持证CNC操作工全国短缺，Seek挂牌200~500个职位，VIC/NSW/WA最多。
-
-**问：中国CNC经验澳洲认可吗？**
-答：需TRA技能评估（12~18个月），提交机床操作记录和图纸样本，通过率较高。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

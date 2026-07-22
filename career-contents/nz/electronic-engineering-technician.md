@@ -1,60 +1,93 @@
-# Electronic Engineering Technician（Electronic Engineering Technician）职业分析 · 新西兰
+# Electronic Engineering Technician — career analysis · New Zealand
 
-**职业代码：312412 – Electronic Engineering Technician。**
+**Occupation code: 312412 (ANZSCO)**
 
-Electronic Engineering Technicians assist electronic engineers in designing, testing, and maintaining electronic equipment and systems, covering fields such as telecommunications, control, and medical devices, with a focus on practical operation and troubleshooting. This occupation has advantages in skilled migration, potentially qualifying for the Green List direct residence pathway.
+Electronics engineering technicians assist electronics engineers in designing, testing, and maintaining electronic equipment and systems, covering areas like communications, control, and medical devices, with a focus on hands-on work and troubleshooting. This occupation has advantages for skilled migration and may qualify for the Green List direct residence pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰文凭（6级） | 2年 | $20,000~$35,000（公立理工学院学费，国际学生约2-3万纽元/年） |
-| 本科（7级） | 3年 | $30,000~$45,000（大学学费，国际学生约3-4.5万纽元/年） |
+| New Zealand Diploma (Level 6) | 2 years | $20,000~$35,000 (Public polytechnic tuition fees: international students about NZD 20,000-30,000 per year.) |
+| Bachelor's degree (Level 7) | 3 years | $30,000~$45,000 (University tuition, international students approx. 30,000-45,000 NZD/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰电子工程文凭（6级） | 理工学院 | 可选 | 常见入门资格 |
-| 注册工程技师（REngTech） | 工程新西兰（Engineering New Zealand） | 可选 | 可选认证，提升职业前景 |
-| 电工注册（EWRB） | 电气工人注册委员会 | 可选 | 若涉及电气工作需注册 |
-| 雅思6.5分 | IELTS | 必备 | 技术移民英语要求 |
+| IELTS 6.5 | IELTS | Required | English language requirements for skilled migration |
+| New Zealand Diploma in Engineering (Level 6) | Polytechnic institute | Optional | Common entry qualifications |
+| Registered Engineering Technologist (REngTech) | Engineering New Zealand | Optional | Optional certification to enhance career prospects |
+| Electrician registration (EWRB) | Electrical Workers Registration Board | Optional | If electrical work is involved, must be registered |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰电子工程技术员就业前景良好，受信息技术、制造业和基础设施建设需求驱动。预计未来几年岗位增长适中，尤其在奥克兰和坎特伯雷地区有较多机会。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Electronics engineering technicians have good employment prospects in New Zealand, driven by demand in information technology, manufacturing, and infrastructure construction. Moderate job growth is expected in the coming years, particularly in Auckland and Canterbury.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 实习或入门级常见薪资 |
-| 中级（3-6年） | $70,000~$90,000 | 有经验的技术员 |
-| 高级（6年以上） | $90,000~$110,000 | 资深或主管级技术员 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Common salary for internships or entry-level positions |
+| Mid-level (3–6 years) | $70,000~$90,000 | Experienced technician |
+| Senior (6+ years) | $90,000~$110,000 | Senior or Supervisor-level Technician |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括从初级技术员晋升为高级技术员或技术专家，也可向项目管理或电子工程方向转型。积累经验后可获得更高认证和薪资。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Electronics Engineering Technician (NZ) faces medium-high automation risk: AI-driven design simulation, automated testing, and fault diagnosis tools will significantly reduce basic debugging and documentation work, but on-site repairs and complex system integration still require human experience.
+
+Career progression includes advancing from junior technician to senior technician or technical expert, or transitioning to project management or electronic engineering. Experience leads to higher certifications and salaries.
+
+**Tasks most exposed to AI:**
+
+- Regular circuit board functional testing and fault diagnosis (can be done by AI automated test system)
+- Standardized electronic device documentation and report writing (AI-generated templates)
+- Simple PCB layout adjustment and routing optimization (AI-assisted design tools)
+- Component parameter lookup and selection (replaced by AI database search)
+
+**Where AI augments the role:**
+
+- Complex electromagnetic interference troubleshooting (AI signal analysis assisted positioning)
+- On-site device commissioning and customer needs understanding (AI provides real-time data visualization)
+- Interface matching and protocol analysis during multi-system integration (AI automatic protocol parsing)
+- Preventive maintenance plan development (assisted by AI predictive maintenance models)
+
+**Human moat:**
+
+- Flexible diagnosis and repair of non-standard field faults.
+- Understanding of cross-industry electronic system (medical/aviation) safety standards
+- Communication and coordination with clients/engineers and translation of requirements
+- Experience and intuition with new analog/mixed-signal circuits.
+
+**Skills to build:**
+
+- Embedded systems development (C/C++/Python with microcontrollers)
+- Foundations of AI/ML (for signal classification and anomaly detection)
+- Advanced PCB design (Altium/Eagle + signal integrity)
+- IoT protocols and wireless communication (LoRa/BLE/Zigbee).
+- Test automation frameworks (LabVIEW, PyTest)
+- Data visualization and analysis (Tableau, Matplotlib)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +96,67 @@ Electronic Engineering Technicians assist electronic engineers in designing, tes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 如果职业在绿色清单第一梯队且满足薪资要求（中位数工资），可直接申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，满足学历、工作经验和薪资要求可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 先获得认证雇主工作offer，工作2年后可申请居留（若职业在绿色清单第二梯队）。 |
+| Subclass Green List T1 (Straight to Residence Visa) | If the occupation is on the Green List Tier 1 and meets the salary requirement (median wage), you can directly apply for residency. |
+| Subclass SMC (Skilled Migrant Category) | Eligible via 6-point skilled migration; meet education, work experience, and salary requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | First obtain a job offer from an accredited employer, then after 2 years of work, you can apply for residency (if the occupation is on the Green List Tier 2). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronic Engineering Technician？**
-- 喜欢动手操作和解决电子设备技术问题的人
-- 希望在科技和工程领域获得稳定职业的移民申请人
-- 具备相关学历并愿意通过新西兰认证提升技能
-
-**谁不适合学Electronic Engineering Technician？**
-- 不喜欢实地工作或长期面对复杂电路图的人
-- 缺乏耐心、不注重细节的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving electronic device technical issues
+- Immigration applicants seeking stable careers in technology and engineering fields
+- those with relevant qualifications and willing to upgrade skills through New Zealand certification
+
+**Who is not suited**
+- People who dislike field work or long-term exposure to complex circuit diagrams
+- People lacking patience and attention to detail
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for an electronic engineering technician in New Zealand?**
+A: Entry-level: about NZ$55,000-70,000, intermediate NZ$70,000-90,000, senior NZ$90,000-110,000. Experienced or in specific industries, salaries can be higher.
+
+**Q: Are electronic engineering technicians eligible for direct residence on the New Zealand Green List?**
+A: If the occupation is on the Green List Tier 1 and meets salary and job requirements, you can apply for a Straight to Residence visa. You need to check if the ANZSCO code is on the list.
+
+**Q: What qualifications are needed to become an electronic engineering technician?**
+A: Typically requires a New Zealand Diploma in Electrical Engineering (Level 6) or a related bachelor's degree (Level 7). Some roles accept work experience in lieu of qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electronic Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for an Electronic Engineering Technician in New Zealand?**
-答：Entry-level around NZ$55,000-70,000, mid-level NZ$70,000-90,000, senior NZ$90,000-110,000. Experienced technicians in certain sectors may earn more.
-
-**问：Is Electronic Engineering Technician eligible for New Zealand Green List Straight to Residence?**
-答：Yes, if the occupation is on the Green List Tier 1 and meets salary and job requirements, you can apply for Straight to Residence Visa. Check ANZSCO code against the list.
-
-**问：What qualifications are needed to become an Electronic Engineering Technician?**
-答：Typically a New Zealand Diploma in Electronic Engineering (Level 6) or relevant Bachelor's degree (Level 7). Some roles accept work experience in lieu of formal qualifications.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,90 @@
-# Stationary Plant and Machine Operators Not Elsewhere Classified（Stationary Plant and Machine Operators Not Elsewhere Classified）职业分析 · IT
+# Stationary Plant and Machine Operators Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：8189 – Stationary Plant and Machine Operators Not Elsewhere Classified。**
+**Occupation code: 8189 (ISCO08)**
 
-Operate and maintain stationary industrial equipment and machinery not classified elsewhere, including packaging, material handling, and chemical production machines.
+Operate and maintain fixed industrial equipment and machinery not elsewhere classified, covering machine operations for packaging, material handling, chemical production, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训证书 | 1年（职业培训课程） | $2,000~$5,000（公立职业培训中心费用较低） |
-| 中等教育文凭 | 3年（技术高中） | —（公立学校免费，私立有费用） |
+| Vocational training certificate | 1 year (vocational training course) | $2,000~$5,000 (Public vocational training centers have lower fees) |
+| Secondary education diploma | 3 years (technical high school) | $0~$3,000 (Public schools are free, private schools have fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特定机器操作证书 | 地区职业培训机构 | 必备 | 部分机械需强制培训 |
-| 安全培训证书 | 国家工伤事故保险机构（INAIL） | 必备 | 基本安全认证 |
+| Specific machine operation certificates | Regional Vocational Training Institutions | Required | Mandatory training required for certain machinery |
+| Safety training certificate | National Institute for Insurance against Accidents at Work (INAIL) | Required | Basic safety certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 45,000。意大利制造业复苏缓慢，固定设备操作员需求稳定但增长有限；自动化和数字化趋势可能减少操作岗位，但熟练操作员仍受青睐。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Italy's manufacturing recovery is slow, demand for fixed equipment operators is stable but limited; automation and digital trends may reduce operational positions, but skilled operators remain favored.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（8年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (8+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★★☆☆）。** 从初级操作员可晋升为高级操作员或班组长，再至车间主管；需积累经验并掌握多种机型操作，部分需学习新技术（如数控）。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+This occupation faces automation risk, but AI tools can assist with monitoring and optimization, while physical operations and exception handling remain human strengths.
+
+From entry-level operator, can advance to senior operator or team leader, then to workshop supervisor; requires experience and mastery of multiple machine operations, some need to learn new skills (e.g., CNC).
+
+**Tasks most exposed to AI:**
+
+- Automated production quality inspection using sensors and AI vision
+- Predictive maintenance scheduling for equipment based on historical data
+- Standardized material handling and packaging processes.
+- Adaptive adjustment and optimization of production parameters
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance improves equipment reliability
+- Real-time production data dashboards assist operational decisions
+- Smart scheduling system optimizes multi-machine coordination efficiency
+- Remote expert collaboration system enables rapid fault diagnosis
+
+**Human moat:**
+
+- On-site diagnosis and repair of non-standard mechanical faults.
+- Ability to flexibly switch between multiple varieties and small batch production
+- Perception of subtle anomalies like unusual equipment noises and vibrations.
+- Safety management and emergency shutdown procedures
+
+**Skills to build:**
+
+- Basic programming and PLC debugging.
+- Industrial Internet of Things (IIoT) data analysis
+- Collaborative robot (KUKA/Universal Robots) operation
+- Lean production and Six Sigma methods
+- Understanding of AI tools in industrial applications
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -61,65 +93,64 @@ Operate and maintain stationary industrial equipment and machinery not classifie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，需雇主担保，年度配额限制；操作员属于紧缺职业，较易获配额。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，需年薪达到意大利门槛（约28,000欧元），操作员薪资通常较低，不易达到。 |
-| Subclass Nulla Osta（Nulla Osta Work Authorization） | 雇主需先获得劳动部批准，为特定职位申请工作许可。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens, requires employer sponsorship, annual quota restrictions; operators are in shortage occupations, making it easier to obtain quota. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled workers, requiring an annual salary reaching the Italian threshold (approx. EUR 28,000). Operator salaries are usually lower and difficult to meet. |
+| Subclass Nulla Osta (Nulla Osta Work Authorization) | The employer must first obtain approval from the Ministry of Labour to apply for a work permit for a specific position. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stationary Plant and Machine Operators Not Elsewhere Classified？**
-- 喜欢动手操作机械和设备的人
-- 能适应轮班和体力劳动
-- 注重安全规范，细致耐心
-
-**谁不适合学Stationary Plant and Machine Operators Not Elsewhere Classified？**
-- 偏好办公室工作或较少体力劳动
-- 对重复性工作感到厌倦
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working hands-on with machinery and equipment
+- Ability to adapt to shift work and physical labor
+- Focus on safety protocols, meticulous and patient
+
+**Who is not suited**
+- Prefer office work or less physical labor
+- Tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a fixed equipment operator in Italy?**
+A: Entry-level approx. €22,000-28,000, mid-level €28,000-35,000, senior €35,000-42,000 (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to Italy through an operator position?**
+A: The main pathway is the Decreto Flussi quota work visa, requiring employer sponsorship, with annual limits. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Stationary Plant and Machine Operators Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for stationary plant operators in Italy?**
-答：Entry-level: €22,000-28,000, mid-level: €28,000-35,000, senior: €35,000-42,000 gross per year.
-
-**问：How can non-EU citizens migrate to Italy as an operator?**
-答：Mainly through Decreto Flussi work visa with employer sponsorship and annual quota. EU citizens can freely move.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

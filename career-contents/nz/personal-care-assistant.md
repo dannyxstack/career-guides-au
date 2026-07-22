@@ -1,62 +1,97 @@
-# Personal Care Assistant（Personal Care Assistant）职业分析 · 新西兰
+# Personal Care Assistant — career analysis · New Zealand
 
-**职业代码：423313 – Personal Care Assistant。**
+**Occupation code: 423313 (ANZSCO)**
 
-Personal Care Assistants provide daily living support to elderly, disabled, or chronically ill individuals in aged care facilities, community care, or home settings in New Zealand. This role is eligible for the Accredited Employer Work Visa (AEWV) but not on the Green List or Skilled Migrant Category, limiting migration options.
+Personal care assistants provide daily living support to elderly, disabled, or chronically ill individuals in New Zealand rest homes, community care, or home settings. This occupation can lead to immigration via the Accredited Employer Work Visa (AEWV), but it is not on the Green List or skilled migration occupation list, so the immigration pathway is narrow.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期证书 | 3个月 | $500~$2,000（基础护理证书，如社区护理支持证书） |
-| 新西兰健康与福利资格 | 1年 | $5,000~$15,000（新西兰资格框架（NZQF）3-4级证书，含实习） |
+| Short-term certificate | 3 months | $500~$2,000 (Basic care certificate, such as Community Care Support Certificate) |
+| New Zealand Health and Wellbeing Qualifications | 1 year | $5,000~$15,000 (New Zealand Qualifications Framework (NZQF) Level 3-4 certificate, including internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社区护理支持证书（初级） | 新西兰各地培训机构（如Whitireia、Te Pūkenga） | 可选 | 基础入门证书，非强制但雇主偏爱 |
-| 新西兰健康与福利资格（3-4级） | 新西兰资格框架（NZQF）认可机构 | 可选 | 包括理论学习与实习，是行业常见要求 |
-| 急救证书 | 新西兰红十字会或圣约翰 | 必备 | 部分雇主要求持有有效急救证书 |
-| 英语语言能力（IELTS） | 雅思考试中心 | 可选 | 对于移民或雇主工签，通常需雅思总分5.0以上 |
+| First aid certificate | New Zealand Red Cross or St John | Required | Some employers require a valid first aid certificate. |
+| Community Care Support Certificate (Entry Level) | Training institutions across New Zealand (e.g., Whitireia, Te Pūkenga) | Optional | Basic entry-level certificate, not mandatory but employers favour it |
+| New Zealand Health and Wellbeing Qualifications (Level 3-4) | New Zealand Qualifications Framework (NZQF) recognized institution | Optional | Includes theoretical study and internships, a common industry requirement. |
+| English language proficiency (IELTS) | IELTS test center | Optional | For immigration or employer-sponsored visas, typically requires IELTS overall score of 5.0 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 32,000。新西兰人口老龄化推动个人护理需求持续增长，预计2023-2028年就业增长强劲。但薪资较低、工作强度大，且移民政策不优先，导致本地劳动力短缺。
+**Job demand: very high (★★★★½).** National workforce approx. 32,000. New Zealand's aging population drives sustained growth in demand for personal care, with strong employment growth expected from 2023 to 2028. However, low wages, high work intensity, and non-priority immigration policies lead to a local labor shortage.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$50,000 | 新西兰个人护理行业薪资较低，时薪约22-25纽元 |
-| 中级（3-5年） | $50,000~$58,000 | 有经验者可担任高级护理助理或团队领导角色 |
-| 高级（5年以上） | $58,000~$65,000 | 管理岗位或特殊护理技能（如失智症护理）薪资可达6.5万纽元 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$50,000 | Salaries in the New Zealand personal care industry are low, with hourly rates around 22-25 NZD |
+| Mid-level (3–5 years) | $50,000~$58,000 | Experienced individuals can become senior care assistants or team leaders |
+| Senior (5+ years) | $58,000~$65,000 | Management roles or specialized nursing skills (e.g., dementia care) can earn up to NZ$65,000 |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从个人护理助理晋升为高级护理助理、团队领导或护理协调员，需积累经验并考取更高级别证书（如新西兰健康与福利资格）。部分人可转向注册护士（需额外学习）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
+
+Can advance from personal care assistant to senior care assistant, team leader, or care coordinator, requiring experience and higher-level certifications (e.g., New Zealand health and wellbeing qualifications). Some may transition to registered nurse (requires additional study).
+
+**Tasks most exposed to AI:**
+
+- Record daily care logs via AI voice assistants
+- Automated scheduling and route optimization to reduce manual dispatch
+- Using AI chatbots to handle basic customer inquiries
+- Automatically generating care plan templates to reduce paperwork
+
+**Where AI augments the role:**
+
+- Use wearable devices and AI analysis to monitor elderly activity and fall risk in real time
+- Using NLP tools to assist in recording client preferences and needs
+- AI-assisted medication reminders and dose tracking to improve accuracy
+- Using virtual reality (VR) training to enhance communication and emergency skills
+- AI-driven personalized nutrition and activity recommendations
+
+**Human moat:**
+
+- Physical assistance (e.g., moving, bathing, dressing) requires physical contact and strength
+- Emotional support and psychological comfort require empathy and trust
+- Intuitive judgment and on-the-spot adaptation in emergencies
+- Multi-Party Coordination and Communication with Families and Medical Teams
+- Cultural sensitivity and personalized care (non-standardized behaviors)
+
+**Skills to build:**
+
+- Operation and data interpretation of basic health monitoring equipment
+- Use of remote care platforms and electronic health record systems
+- Application of AI-assisted decision-making tools (e.g., risk assessment dashboards)
+- Enhanced communication and empathy skills with technological assistance
+- Basic data analysis: extracting key trends from AI reports
+- Digital literacy: learning new nursing software and wearable devices
+
+**Key growth areas:**
 
 - Growing
 - Aged Care Demand
@@ -65,69 +100,68 @@ Personal Care Assistants provide daily living support to elderly, disabled, or c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需雇主获得认证，工作满2年后可申请居留，但收入需达到中位数工资（约29.66纽元/小时，2024年） |
-| Subclass Essential Skills（Essential Skills Work Visa） | 适用于低技能职业，需雇主支持，但政策收紧，替代为AEWV |
-| Subclass Family（Family Residence） | 如配偶或父母是新西兰居民/公民，可通过家庭类别申请居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer must be accredited; can apply for residency after 2 years of work, but income must reach median wage (approx. NZ$29.66/hour in 2024) |
+| Subclass Essential Skills (Essential Skills Work Visa) | Applies to low-skilled occupations, requires employer sponsorship, but policy is tightening, replaced by AEWV |
+| Subclass Family (Family Residence) | If spouse or parent is a New Zealand resident/citizen, can apply for residence through family category |
 
-**PR难度：高（★★★★★）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Personal Care Assistant？**
-- 有耐心、同理心，喜欢与人打交道，愿意帮助弱势群体
-- 对护理工作有热情，能承受体力劳动和情感压力
-- 无需高学历，希望通过职业积累经验逐步提升
-
-**谁不适合学Personal Care Assistant？**
-- 追求高薪、快速移民或职业晋升空间有限
-- 无法适应轮班、周末工作或高强度体力劳动
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, enjoys interacting with people, willing to help disadvantaged groups
+- Passionate about nursing work, able to handle physical labor and emotional stress
+- No need for high education, hope to gradually improve through career experience
+
+**Who is not suited**
+- Pursue high salary, fast immigration, or limited career advancement opportunities
+- Unable to adapt to shift work, weekend work, or high-intensity physical labor.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a personal care assistant?**
+A: Average annual salary for a personal care assistant in New Zealand is approx. NZ$45,000-55,000, with an hourly rate of NZ$22-26, slightly below the median wage (median hourly wage approx. NZ$29.66 in 2024). Pay is low within the healthcare industry.
+
+**Q: Can personal care assistants immigrate to New Zealand?**
+A: This occupation is not on the Green List or skilled migration occupation list, but work eligibility can be obtained through an Accredited Employer Work Visa (AEWV). If the wage reaches the median (approx. NZD 29.66/hour), residence may be applied for after 2 years of work, but the salary requirement is high and difficult to meet in practice. Consider other care-related migration occupations (e.g., registered nurse).
+
+**Q: What are the advancement opportunities for personal care assistants?**
+A: Can advance to senior care assistant (responsible for new staff training, care plan coordination), team leader, or care coordinator. Further study can lead to registered nurse (1-2 years), or transition to community support manager or aged care management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Personal Care Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Personal Care Assistant?**
-答：The average annual salary for a Personal Care Assistant in New Zealand is between NZD 45,000 and NZD 55,000, with hourly wages around NZD 22-26, below the median wage (NZD 29.66 per hour in 2024). It is one of the lower-paid roles in healthcare.
-
-**问：Can a Personal Care Assistant migrate to New Zealand?**
-答：This occupation is not on the Green List or Skilled Migrant Category. However, it is eligible for the Accredited Employer Work Visa (AEWV). If the wage reaches the median (about NZD 29.66/hour), one may apply for residence after 2 years, but achieving this wage is challenging. Consider alternative care roles like Registered Nurse for easier migration.
-
-**问：What career advancement opportunities are there for a Personal Care Assistant?**
-答：Career progression includes Senior Care Assistant (supervising new staff, coordinating care plans), Team Leader, or Care Coordinator. Further study (1-2 years) can lead to Registered Nurse, or move into Community Support Manager or aged care management roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

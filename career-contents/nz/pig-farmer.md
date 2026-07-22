@@ -1,60 +1,96 @@
-# Pig Farmer（Pig Farmer）职业分析 · 新西兰
+# Pig Farmer — career analysis · New Zealand
 
-**职业代码：121318 – Pig Farmer。**
+**Occupation code: 121318 (ANZSCO)**
 
-Pig Farmers manage day-to-day pig breeding, health, and farm operations. This occupation is on New Zealand's Green List, offering a direct residence pathway for skilled migrants with relevant qualifications and experience.
+Pig farmers are responsible for the daily breeding, reproduction, health management, and farm operations of pigs. This occupation is on the skills shortage list in New Zealand and offers a direct residence pathway through the Green List, requiring qualifications and work experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家文凭 - 农业（Level 5） | 2年 | $15,000~$25,000（公立理工学院学费，国际学生） |
-| 新西兰国家文凭 - 农业（Level 6） | 1年（追加） | $18,000~$28,000（公立理工学院学费，国际学生） |
-| 学士学位 - 农业科学 | 3年 | $30,000~$40,000（大学学费，国际学生） |
+| New Zealand Diploma in Agriculture (Level 5). | 2 years | $15,000~$25,000 (Tuition fees at public polytechnics for international students) |
+| New Zealand Diploma in Agriculture (Level 6) | 1 year (additional) | $18,000~$28,000 (Tuition fees at public polytechnics for international students) |
+| Bachelor's degree - Agricultural Science | 3 years | $30,000~$40,000 (University Tuition Fees, International Students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业文凭（Level 5） | 新西兰公立理工学院或行业培训机构 | 可选 | 通常为入职最低要求，涵盖动物养殖、农场管理基础 |
-| 安全证书（农业） | 农业与园艺行业培训组织 | 必备 | 农场工作必备，含动物处理、机械设备安全 |
-| 驾驶员执照（Class 1） | 新西兰陆路交通局 | 可选 | 驾驶农场车辆，通常需要 |
+| Safety certificate (agriculture) | Agricultural and horticultural industry training organization. | Required | Essential for farm work, including animal handling and machinery safety |
+| New Zealand Diploma in Agriculture (Level 5) | New Zealand public polytechnics or industry training organizations | Optional | Typically the minimum entry requirement, covering basic animal farming and farm management |
+| Driver's license (Class 1) | New Zealand Transport Agency (Waka Kotahi) | Optional | Driving farm vehicles, typically requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰养猪业稳步发展，受国内消费和出口需求推动，未来五年就业前景稳定。初级岗位竞争中等，有经验者需求较大，尤其是管理大型农场的技术人才。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. New Zealand's pig farming industry is steadily developing, driven by domestic consumption and export demand, with stable employment prospects over the next five years. Entry-level positions have moderate competition, while experienced workers, especially technical talents managing large farms, are in high demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 农场助理或饲养员 |
-| 中级（3-7年） | $60,000~$75,000 | 农场主管或技术员 |
-| 高级（7年以上） | $80,000~$100,000 | 农场经理或区域经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Farm assistant or stockperson |
+| Mid-level (3–7 years) | $60,000~$75,000 | Farm supervisor or technician |
+| Senior (7+ years) | $80,000~$100,000 | Farm manager or regional manager |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径从饲养员或农场助理起步，可晋升为农场主管、农场经理，最终成为农场主或区域生产经理。需积累养殖管理经验并持续学习动物健康与农场管理知识。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Career progression starts as a stockperson or farm assistant, advancing to farm supervisor, farm manager, and eventually farm owner or regional production manager. Requires experience in livestock management and ongoing learning in animal health and farm management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Pig Farmers manage day-to-day pig breeding, health, and farm operations. This oc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，适用于满足学历和工作经验要求的合格养猪农民，无需先工作即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有雇主担保的劳动者，工作满两年后有机会转居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，根据6分制评分，需要学历、工作经验和高薪（中位数工资以上） |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, suitable for qualified pig farmers who meet educational and work experience requirements, can apply without working first. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for workers with employer sponsorship, with the opportunity to transition to residency after two years of work |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, based on a 6-point system, requiring qualifications, work experience, and a high salary (above median wage) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pig Farmer？**
-- 热爱户外工作和动物，愿意在乡村或偏远地区生活
-- 具备体力劳动能力，适应农场作息和季节变化
-- 有农业或动物科学背景，愿意持续学习养殖技术
-
-**谁不适合学Pig Farmer？**
-- 不喜欢体力劳动或接触动物粪便、异味
-- 希望在城市办公室工作，追求稳定双休
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for outdoor work and animals, willing to live in rural or remote areas
+- Possess physical labor capacity, adaptable to farm schedules and seasonal changes
+- Background in agriculture or animal science, willing to continuously learn farming techniques
+
+**Who is not suited**
+- Dislikes physical labor or contact with animal feces and odors
+- Looking to work in a city office, pursuing stable weekends off
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary for pig farmers in New Zealand?**
+A: Junior annual salary: NZD 45,000-55,000, intermediate: NZD 60,000-75,000, senior: up to NZD 80,000-100,000. Senior management roles pay more and often include housing allowances.
+
+**Q: How can pig farmers immigrate to New Zealand via the Green List?**
+A: This occupation is on the Green List Tier 1; eligible candidates can directly apply for a residence visa. Typically requires a relevant qualification (e.g., agricultural diploma Level 5 or above), at least 3 years of work experience, and a job offer from a New Zealand employer.
+
+**Q: What qualifications are needed to become a pig farmer?**
+A: Usually requires agricultural qualifications (e.g. Level 5 diploma) and a farm safety certificate. Although no mandatory registration, employers require relevant experience. Some positions also require a driver's licence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pig Farmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pig farmers in New Zealand?**
-答：Entry-level salary ranges from NZ$45,000 to $55,000 per year, mid-level $60,000 to $75,000, and senior positions $80,000 to $100,000. Management roles often include housing allowances.
-
-**问：How can pig farmers migrate to New Zealand via the Green List?**
-答：This occupation is on Green List Tier 1, allowing direct residence visa application. Requirements typically include a relevant qualification (e.g., Agricultural Diploma Level 5 or higher) and at least 3 years of work experience, plus a job offer from a New Zealand employer.
-
-**问：What qualifications are needed to become a pig farmer?**
-答：Typically, an agricultural qualification (e.g., Level 5 diploma) and a farm safety certificate are required. While no mandatory registration, employers expect relevant experience. Some roles require a driver's license.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

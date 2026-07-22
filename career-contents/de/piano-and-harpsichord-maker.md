@@ -1,60 +1,96 @@
-# Piano and Harpsichord Maker（Piano and Harpsichord Maker）职业分析 · DE
+# Piano and Harpsichord Maker — career analysis · Germany
 
-**职业代码：9364 – Piano and Harpsichord Maker。**
+**Occupation code: 9364 (KldB)**
 
-Piano and harpsichord makers craft, tune, restore, and maintain keyboard instruments, combining woodworking, metalworking, and acoustics expertise, with a long tradition in Germany.
+Piano and Harpsichord Makers handcraft, tune, restore, and maintain keyboard instruments, combining woodworking, metalworking, and acoustics knowledge, with a long tradition in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有工资，学费低或免费） |
-| 大师级工匠培训 | 1-2年 | $3,000~$8,000（需完成职业培训后进修） |
+| Dual vocational training | 3 years | $0~$500 (Paid training, low or free tuition fees) |
+| Master craftsman training | 1-2 years | $3,000~$8,000 (Requires further study after completing vocational training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钢琴制造师职业资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 大师级工匠证书（Meister） | 德国工商会（IHK） | 可选 | 开设独立工坊或带学徒必备 |
+| Piano maker vocational qualification certificate | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Master craftsman certificate (Meister) | German Chamber of Commerce and Industry (IHK) | Optional | Essential for setting up independent workshops or taking on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。德国钢琴制造行业规模较小且稳定，受数字化影响有限，但高端定制和修复需求持续存在，就业机会集中于专业工坊。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. The German piano manufacturing industry is small and stable, with limited impact from digitalization, but demand for high-end custom work and restoration persists. Employment opportunities are concentrated in specialized workshops.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 培训后起薪较低 |
-| 中级（3-8年） | $30,000~$40,000 | 有经验的工匠 |
-| 高级（8年以上/大师级） | $40,000~$55,000 | 大师级或自主创业收入上限高 |
+| Median salary | $33,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Lower starting salary after training |
+| Mid-level (3–8 years) | $30,000~$40,000 | Experienced tradesperson. |
+| Advanced (8+ years / Master level) | $40,000~$55,000 | High income ceiling for master-level or self-employed individuals |
+| average salary | $37,416 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展从学徒或技术员开始，可晋升为大师级工匠（Meister）或自主创业，也可转向乐器修复、销售或教学领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core handcraft skills (e.g., tuning, timbre adjustment) are hard to replace by AI, but drafting, parts list generation, and other desk work will be automated; entry-level positions are narrowing due to increased competition among apprentices.
+
+Career progression starts from apprenticeship or technician, can advance to master craftsman (Meister) or start own business, or move into instrument repair, sales, or teaching.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to draw musical instrument parts diagrams
+- Generate material lists and purchase orders
+- Record tuning data and maintenance history
+- Remote preliminary fault diagnosis via audio and video
+- Manage client appointments and inventory
+
+**Where AI augments the role:**
+
+- AI tuning assistance system provides real-time pitch deviation feedback to improve tuning accuracy.
+- Optimize tonewood selection and cutting plans with acoustic analysis software
+- 3D scanning and printing for rapid prototyping of rare parts
+- Machine learning models predict aging trends of instrument wood, guiding preventive maintenance
+- VR simulates assembly processes, reducing trial-and-error waste
+
+**Human moat:**
+
+- Intuition and experience in manually tuning instrument tones
+- Deep understanding of material properties such as wood and strings
+- Collaborate with musicians to customize tonal characteristics
+- Knowledge of restoration and authentication of historical instruments.
+- Creative repair of complex mechanical faults
+
+**Skills to build:**
+
+- Acoustic analysis software (e.g. COMSOL)
+- Digital tuning tools (e.g., PianoDisc systems)
+- 3D modeling and printing (Fusion 360, Ultimaker)
+- Customer communication and customised service skills
+- Basic Programming (Python scripting for data recording)
+- Machine learning basics (for wood ageing prediction)
+
+**Key growth areas:**
 
 - Niche craft
 - High-end restoration
@@ -63,69 +99,68 @@ Piano and harpsichord makers craft, tune, restore, and maintain keyboard instrum
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需认可职业资格（Anerkennung），德语B1以上，雇主担保 |
-| Subclass EU Blue Card（EU Blue Card） | 通常适用于高学历，此职业一般不满足薪资要求 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许入境6个月寻找工作，需资格认可 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires recognition of professional qualifications (Anerkennung), German B1 or above, employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Usually applicable to high educational qualifications; this occupation generally does not meet salary requirements |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to enter for 6 months to seek employment, requires qualification recognition |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Piano and Harpsichord Maker？**
-- 对手工技艺有热情和耐心的人
-- 喜欢独立工作、注重细节的工匠
-- 愿意接受长期职业培训并追求精湛技艺者
-
-**谁不适合学Piano and Harpsichord Maker？**
-- 追求高薪和快速职业发展的人
-- 对机械重复工作或噪音敏感者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those with passion and patience for manual craftsmanship
+- Craftsperson who likes independent work and pays attention to detail
+- Suitable for those willing to undergo long-term vocational training and pursue excellence
+
+**Who is not suited**
+- People pursuing high salary and fast career development
+- Those sensitive to repetitive mechanical work or noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a piano maker in Germany?**
+A: Starting annual salary approx. 24,000-30,000 euros; with experience, 30,000-40,000 euros; master level or self-employment can reach over 55,000 euros.
+
+**Q: Can a third-country national become a German piano maker through skilled migration?**
+A: Yes, but requires completing a German-recognized qualification (Anerkennung), usually German B1 or above, and finding an employer sponsor, via the Skilled Immigration Act visa.
+
+**Q: What qualifications are needed for a piano manufacturing technician?**
+A: Must complete 3-year dual vocational training and obtain IHK certification, can further obtain Master's certificate (Meister) for career advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Piano and Harpsichord Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a piano maker in Germany?**
-答：Entry-level annual salary is about €24,000-30,000, experienced €30,000-40,000, master or self-employed up to €55,000+.
-
-**问：Can third-country nationals migrate to Germany as piano makers?**
-答：Yes, but require recognition of qualifications (Anerkennung), German B1+, and employer sponsorship via Skilled Immigration Act.
-
-**问：What qualifications are needed to become a piano maker?**
-答：Completion of a 3-year dual vocational training with IHK certification, optionally a master craftsman (Meister) title.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

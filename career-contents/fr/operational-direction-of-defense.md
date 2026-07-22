@@ -1,60 +1,95 @@
-# Operational Direction of Defense（Operational Direction of Defense）职业分析 · FR
+# Operational Direction of Defense — career analysis · France
 
-**职业代码：K1703 – Operational Direction of Defense。**
+**Occupation code: K1703 (ROME)**
 
-Responsible for strategic planning and operational command in the French defense sector, coordinating military actions to ensure national security.
+It is responsible for strategic planning and operational command in France's defense sector, coordinating military actions, and ensuring national security.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 军官学校（École militaire） | 3年（licence） | —（公立军事院校免费，部分私立院校收费） |
-| 参谋培训（École de guerre） | 1-2年 | —（军队内部培训，免费） |
+| Military Academy (École militaire) | 3 years (licence) | $0~$20,000 (Public military academies are free, while some private academies charge fees) |
+| Staff Training (École de guerre) | 1-2 years | $0~$0 (Internal military training, free of charge) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军官文凭 | 法国陆军、海军、空军军校 | 必备 | 必须完成军官学校课程并授予学位 |
-| 高等军事研究文凭 | 高等军事研究学院（IHEDN） | 可选 | 高级指挥岗位通常要求 |
+| Officer's diploma | French Army, Navy, and Air Force Academy | Required | Officer school courses must be completed and degrees awarded |
+| Diploma in Higher Military Studies | Institute for Advanced Military Studies (IHEDN) | Optional | Senior command positions are usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 5,000。法国国防预算稳定，该职位需求平稳，高度依赖政府招聘与内部晋升。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,000. France's defense budget is stable, demand for this position is steady, and it relies heavily on government recruitment and internal promotions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$45,000 | 税前年薪，含津贴 |
-| 中级（5-15年） | $50,000~$70,000 | 税前年薪，视军衔与岗位 |
-| 高级（15年以上） | $80,000~$120,000 | 高级指挥官或将军级别 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $35,000~$45,000 | Annual pre-tax salary, including allowances |
+| Intermediate (5-15 years) | $50,000~$70,000 | Pre-tax annual salary depends on rank and position |
+| Senior (15+ years) | $80,000~$120,000 | Senior commander or general level |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从军官起步，经历参谋岗位后晋升为高级指挥官，或转任国防部文职高级官员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance intelligence analysis and simulation capabilities, but decision-making responsibility and legality review will still be dominated by humans; Entry-level positions have narrowed due to automated data organization, but the value of strategic planning positions has increased.
+
+Typically, they start as officers, advance through staff positions to senior commanders, or transfer to senior civilian officials in the Ministry of National Defense.
+
+**Tasks most exposed to AI:**
+
+- Automated intelligence report generation and routine threat database updates
+- Simulation parameter settings and preliminary analysis of results in wargame simulation
+- Optimized calculations and basic scheduling of logistics resource allocation
+- Preliminary screening and classification of electronic intelligence
+- Documentation and compliance checks of standard operational processes
+
+**Where AI augments the role:**
+
+- Leverage AI to integrate real-time multi-source intelligence to accelerate battlefield situational awareness
+- Predict enemy movement patterns through machine learning, assisting in the development of multiple response plans
+- AI simulates tens of thousands of combat scenarios to support robustness validation of strategic plans
+- Natural language processing assists in drafting diplomatic and military communication documents
+- AI visualization tools accelerate the interpretation and reporting of complex strategic maps
+
+**Human moat:**
+
+- Legal compliance and rules of engagement, responsible decision-making
+- Communicate and persuade senior political leaders and international allies
+- Intuitive judgment and moral choices amid incomplete information
+- Humanized leadership and morale boost during emergencies
+- Identifying and strategically correcting AI model biases
+
+**Skills to build:**
+
+- Fundamentals of artificial intelligence and machine learning, as well as military applications
+- Data literacy: visualization and statistical analysis tools
+- Assessment of AI decision-making transparency and explainability
+- Understanding cyberspace operations and electronic confrontation
+- Cross-departmental agile collaboration and project management
+- Deepening international security law and humanitarian law
+
+**Key growth areas:**
 
 - national defense
 - strategic planning
@@ -63,69 +98,68 @@ Responsible for strategic planning and operational command in the French defense
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高级管理或技术人才，需雇主担保，有效期4年，可续签 |
-| Subclass Salarié（Employee Visa） | 受雇于法国国防相关机构，需工作许可，通常为1年可续 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪高技能岗位，工资需超过法国平均年薪1.5倍以上，允许家庭团聚 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for senior management or technical talents, requires employer sponsorship, valid for 4 years, and can be renewed |
+| Subclass Salarié (Employee Visa) | Employed by a French defense agency, a work permit is required, usually valid for one year |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying, high-skilled positions, with salaries at least 1.5 times the average French annual salary, allowing family reunification |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Operational Direction of Defense？**
-- 军人世家或有军事背景者
-- 具备战略思维与领导力的人
-- 愿意长期服务于国防事业者
-
-**谁不适合学Operational Direction of Defense？**
-- 缺乏纪律性与团队协作精神者
-- 追求高薪与快速晋升者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Military families or those with military backgrounds
+- People with strategic thinking and leadership skills
+- Those willing to serve the national defense cause long-term
+
+**Who is not suited**
+- Those lacking discipline and team spirit
+- High salary and fast promotion seekers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for the French Defense Operations Command?**
+A: Junior officers pay about 35k-45k euros, while senior officers can reach 80k-120k euros, including allowances and subsidies.
+
+**Q: Can foreigners hold positions in French defense operations?**
+A: It is very difficult, usually requiring French nationality, and only a few civilian technical support positions may be open to foreigners.
+
+**Q: What educational qualifications are required to become a defense commander?**
+A: Typically, graduates from French military academies (such as Saint-Cyr) and complete higher military education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★★½） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Operational Direction of Defense为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for operational direction of defense in France?**
-答：Junior officers earn around €35k-45k, senior positions up to €80k-120k, including allowances.
-
-**问：Can foreigners work in operational direction of defense in France?**
-答：Very difficult, usually requires French citizenship, only few civilian technical roles may be open.
-
-**问：What education is needed to become a defense commander?**
-答：Typically requires graduation from a French military academy (e.g., Saint-Cyr) and advanced military education.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Security guards and related occupations（Security guards and related occupations）职业分析 · UK
+# Security guards and related occupations — career analysis · United Kingdom
 
-**职业代码：9231 – Security guards and related occupations。**
+**Occupation code: 9231 (SOC)**
 
-Security guards protect merchandise, individuals, hotels, offices, factories, shops, public grounds and private estates from injury, theft or damage. Duties include patrolling, monitoring and access control.
+Security personnel protect merchandise, individuals, hotels, offices, factories, shops, public spaces and private property from harm, theft or damage. This occupation typically involves patrolling, monitoring, and access control.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学教育 | 5年 | —（公立学校免费） |
-| SIA培训课程 | 3个月 | $300~$500（包括保安执照培训） |
+| Secondary Education | 5 years | $0~$0 (Free public schools.) |
+| SIA training course | 3 months | $300~$500 (Includes security guard license training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| SIA保安执照 | Security Industry Authority (SIA) | 必备 | 法律要求，需通过培训和背景审查 |
-| 急救证书 | 英国红十字会等 | 可选 | 推荐持有，部分雇主强制要求 |
-| 门禁操作培训 | SIA认可培训机构 | 可选 | 可选，提升就业竞争力 |
+| SIA Security License | Security Industry Authority (SIA) | Required | Legal requirement, need to pass training and background check |
+| First aid certificate | British Red Cross, etc. | Optional | Recommended to have; mandatory for some employers |
+| Access control operations training | SIA accredited training provider | Optional | Optional, enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 264,000。英国保安需求稳定，受零售、商业地产和公共安全需求驱动。预计未来十年就业人数小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 264,000. Security guard demand in the UK is stable, driven by retail, commercial real estate, and public safety needs. Employment is expected to grow slightly over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 通常为最低工资水平 |
-| 中级（3-7年） | $22,000~$28,000 | 可担任资深保安或团队领导 |
-| 高级（7年以上） | $28,000~$35,000 | 包括安全经理或风险评估员 |
+| Median salary | $33,832 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Typically at minimum wage level |
+| Mid-level (3–7 years) | $22,000~$28,000 | Can work as a senior security officer or team leader |
+| Senior (7+ years) | $28,000~$35,000 | Includes roles such as Safety Manager or Risk Assessor |
+| average salary | $33,880 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从无经验保安晋升为高级保安、团队主管或安全经理。获得SIA执照是关键，还可通过培训成为监控室操作员或风险评估员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI monitoring and access control technology will significantly enhance security efficiency but won't fully replace human staff; the career focus shifts to technical supervision and emergency response.
+
+Can advance from unarmed security guard to senior guard, team leader, or security manager. Obtaining an SIA license is key; further training can lead to control room operator or risk assessor roles.
+
+**Tasks most exposed to AI:**
+
+- Routine patrols and manual review of surveillance footage
+- Repetitive tasks of visitor registration and identity verification
+- Initial screening and recording of simple alarm events
+- Regular patrols on fixed routes
+- Management of key and access card issuance
+
+**Where AI augments the role:**
+
+- Remote monitoring and anomaly detection in AI security systems
+- Access control using facial recognition and license plate recognition
+- Predict safety risks and develop strategies through data analysis
+- Use drones or robots for complex patrols
+- Tiered response and rapid handling of intelligent alarm systems
+
+**Human moat:**
+
+- Emergency judgment and flexible handling of on-site incidents
+- Interactive communication involving interpersonal conflicts or emotional reassurance.
+- Legal compliance and privacy boundary management
+- Cross-team coordination and emergency plan development
+- Intuition and experience in special environments (e.g., high-risk areas)
+
+**Skills to build:**
+
+- Operation and Maintenance of AI Monitoring Systems (e.g., Video Analysis Platforms)
+- Data analysis basics (identifying security patterns and anomalies)
+- Drone or robot operation and basic troubleshooting
+- Emergency management and crisis communication skills
+- Cybersecurity basics (preventing digital intrusions)
+- Legal and regulatory updates (data privacy, AI ethics)
+
+**Key growth areas:**
 
 - Stable demand
 - Retail security
@@ -64,66 +100,68 @@ Security guards protect merchandise, individuals, hotels, offices, factories, sh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 保安职业通常不符合Skilled Worker签证要求，因其不属于技术性职业，且薪资门槛较低。 |
-| Subclass Graduate（Graduate Visa） | 持有本科学位者可申请，但从事保安工作需确保工作与学位相关，且须满足薪资要求。 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme (Tier 5)） | 适用于18-30岁特定国家青年，可在英工作两年，不限职业，包括保安。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | The security guard occupation usually does not meet Skilled Worker visa requirements, as it is not a skilled occupation and the salary threshold is low. |
+| Subclass Graduate (Graduate Visa) | Holders of a bachelor's degree can apply, but working as a security guard must ensure the job is related to the degree and meet salary requirements. |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme (Tier 5)) | For youth aged 18-30 from specific countries; can work in the UK for two years in any occupation, including security guard. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Security guards and related occupations？**
-- 寻求快速就业且无高等教育背景者
-- 喜欢从事安全相关工作的人
-- 愿意轮班工作（包括夜班）者
+**Who is suited**
+- Seeking quick employment and without higher education background.
+- People who enjoy working in safety-related jobs
+- Willing to work shifts (including night shifts)
 
-**谁不适合学Security guards and related occupations？**
-- 追求高薪或高晋升速度者
-- 不适应单调重复工作或长时间站立者
+**Who is not suited**
+- Those seeking high salary or fast promotion
+- Not suitable for those who dislike monotonous repetitive work or prolonged standing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a security guard?**
+A: Junior security guard annual salary approx £18,000-22,000; senior security guard or supervisor can reach £28,000-35,000.
+
+**Q: Can security guards come to the UK on a skilled migration visa?**
+A: Usually not, because security guard is not on the skilled occupation list for the Skilled Worker visa, and the salary threshold is low. However, it is possible through the Youth Mobility Scheme or partner visa.
+
+**Q: What certificates are needed to become a security guard?**
+A: Legally required to hold an SIA security license, which requires completing training and passing a background check. A first aid certificate is also recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Security guards and related occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for security guards?**
-答：Junior security guards earn around £18,000-£22,000 per year, while senior guards or supervisors can earn £28,000-£35,000.
-
-**问：Can security guards come to the UK on a skilled worker visa?**
-答：Usually no, as security guarding is not on the eligible skilled occupations list and the salary threshold is low. However, other routes like Youth Mobility Scheme or spousal visa may be possible.
-
-**问：What qualifications are needed to become a security guard?**
-答：An SIA security license is legally required, which involves training and background checks. A first aid certificate is also recommended.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

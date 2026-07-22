@@ -1,59 +1,92 @@
-# Merchant in Wholesale and Retail Trade（Merchant in Wholesale and Retail Trade）职业分析 · DE
+# Merchant in Wholesale and Retail Trade — career analysis · Germany
 
-**职业代码：6120 – Merchant in Wholesale and Retail Trade。**
+**Occupation code: 6120 (KldB)**
 
-Responsible for purchasing, sales, inventory management and customer advisory, forming the backbone of Germany's wholesale and retail trade sector.
+Responsible for product procurement, sales, inventory management, and customer consultation; core commercial talent in the German retail and wholesale industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（双元制） | 3年 | —（双元制培训期间有津贴，学校通常免费，仅需少量教材费。） |
-| 进修（Fachwirt） | 1-2年（可兼职） | $2,000~$5,000（考试费及课程费用，部分由雇主承担。） |
+| Vocational education (dual system) | 3 years | $0~$500 (During dual-system training, there is an allowance, schools are usually free, and only a small fee for textbooks is required.) |
+| Advanced Vocational Training (Fachwirt) | 1-2 years (can be part-time) | $2,000~$5,000 (Exam fees and course fees, partially borne by the employer.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IHK 结业证书（贸易商） | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试，是从事该职业的基本资格。 |
-| Fachwirt im Handel（商务专家） | IHK | 可选 | 高级职业资格，有助于晋升管理层。 |
-| 海外学历认证 | 德国学历认证中心（Anabin / ZAB） | 可选 | 若学历来自非欧盟国家，需认证为同等德国学历。 |
+| IHK Certificate of Completion (Trader) | German Chamber of Commerce and Industry (IHK) | Required | Completing dual-system training and passing the final exam is the basic qualification for this occupation. |
+| Fachwirt im Handel (Business Specialist) | IHK | Optional | Advanced vocational qualification helps promote to management. |
+| Overseas qualification assessment | German credential evaluation centre (Anabin / ZAB) | Optional | If qualifications are from a non-EU country, they must be recognized as equivalent to a German qualification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 650,000。德国零售和批发行业稳定，数字化和电商转型催生新岗位，但传统岗位需求饱和，就业竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 650,000. Germany's retail and wholesale industry is stable, with digitalization and e-commerce transformation creating new jobs, but demand for traditional roles is saturated, leading to moderate employment competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 培训后起薪，视地区和公司规模。 |
-| 中级（3-7年） | $36,000~$45,000 | 有经验后薪资提升，含绩效奖金。 |
-| 高级（7年以上/管理岗） | $45,000~$60,000 | 部门经理或采购主管级别。 |
+| Median salary | $47,328 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary after training, varying by region and company size. |
+| Mid-level (3–7 years) | $36,000~$45,000 | Salary increases with experience, including performance bonuses. |
+| Senior (7+ years/management role) | $45,000~$60,000 | Department manager or procurement supervisor level. |
+| average salary | $55,536 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 可晋升为部门经理、区域经理或采购主管；部分人通过 Weiterbildung 成为 Fachwirt（商务专家）或 Betriebswirt（工商管理师）。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
+
+Can promote to department manager, regional manager or procurement supervisor; some become Fachwirt (business specialist) or Betriebswirt (business manager) through Weiterbildung.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates shift schedules (based on historical foot traffic and employee preferences)
+- AI for inventory forecasting and automatic replenishment ordering
+- AI analysis of sales data to generate reports and trend insights
+- AI handles common customer queries (chatbots).
+
+**Where AI augments the role:**
+
+- Monitor team performance in real-time with AI dashboards, quickly adjust strategies
+- Using AI to simulate the impact of different scheduling scenarios on sales
+- Targeted promotions and product recommendations based on AI customer profiling
+- Improving New Employee Onboarding Efficiency with AI Training Tools
+
+**Human moat:**
+
+- Team morale management and conflict mediation
+- On-Site Emergency Decision-Making (e.g., customer complaints, safety incidents)
+- Interpersonal negotiation and collaboration with superiors and suppliers
+- Communicating corporate culture and values
+
+**Skills to build:**
+
+- Retail data analysis (advanced Excel + AI analysis tools)
+- Operation of AI Scheduling and Inventory Management Software
+- Digital marketing and customer relationship management (CRM)
+- Emotional intelligence and team leadership
+- Basic finance and cost control
+- AI tool integration and workflow automation
+
+**Key growth areas:**
 
 - Digitalization
 - E-commerce
@@ -62,69 +95,68 @@ Responsible for purchasing, sales, inventory management and customer advisory, f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 若年薪达到法定门槛（2024年约43,800欧元），可申请欧盟蓝卡，适用于有学位或资质认证的申请人。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 持有德国认可的职业资格（如IHK证书），可申请技术移民签证，无需满足蓝卡薪资门槛。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许尚未获得工作合同的求职者进入德国寻找工作，适合有职业资格或经验的申请人。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明经济能力，但需将资格认证为德国同等水平。 |
+| Subclass EU Blue Card (EU Blue Card) | If the annual salary meets the legal threshold (approx. €43,800 in 2024), you can apply for an EU Blue Card, which is available to applicants with a degree or professional certification. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a German-recognized vocational qualification (e.g., IHK certificate) to apply for a skilled migration visa without meeting the Blue Card salary threshold. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers without a job offer to enter Germany to find work, suitable for applicants with professional qualifications or experience. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany for job seeking, requiring proof of financial means, but qualifications must be recognised as equivalent to German standards. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Merchant in Wholesale and Retail Trade？**
-- 喜欢与人打交道，具备销售和沟通能力的人
-- 对商业流程和数字敏感，有条理的人
-- 愿意从基础做起，接受双元制培训的人
-
-**谁不适合学Merchant in Wholesale and Retail Trade？**
-- 不擅长或不感兴趣于客户服务和销售活动的人
-- 偏好独立工作而非团队协作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys interacting with people, has sales and communication skills
+- Sensitive to business processes and numbers, organized person
+- People willing to start from the basics and undergo dual vocational training
+
+**Who is not suited**
+- Those who are not good at or interested in customer service and sales activities
+- Those who prefer independent work over teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a German tradesperson?**
+A: Entry-level approximately €28,000-35,000/year, senior up to €45,000-60,000/year, depending on experience, region, and company size.
+
+**Q: How can non-EU citizens immigrate to Germany for the trade occupation?**
+A: Typically need a German-recognized vocational qualification (e.g., IHK certificate) or pass credential assessment. Can apply for an EU Blue Card (requires high salary) or skilled migration visa.
+
+**Q: What is the career progression path for a trader?**
+A: Progress from sales or purchasing assistant to department manager or regional manager; through further training as a Fachwirt or Betriebswirt, move into higher management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Merchant in Wholesale and Retail Trade的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a merchant in wholesale and retail trade in Germany?**
-答：Entry-level around €28,000-€35,000 per year, experienced up to €45,000-€60,000 per year, depending on experience, region, and company size.
-
-**问：How can non-EU citizens immigrate to Germany as a merchant?**
-答：Typically requires a recognized German vocational qualification (e.g., IHK certificate) or credential evaluation. Can apply for EU Blue Card (high salary required) or Skilled Worker visa.
-
-**问：What is the career progression for a merchant?**
-答：Start as sales or purchasing assistant, advance to department manager or regional manager; further training as Fachwirt or Betriebswirt leads to senior management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Wood Panel Production Plant Operator（Wood Panel Production Plant Operator）职业分析 · FR
+# Wood Panel Production Plant Operator — career analysis · France
 
-**职业代码：H2203 – Wood Panel Production Plant Operator。**
+**Occupation code: H2203 (ROME)**
 
-Operates and monitors production equipment for wood-based panels (particleboard, MDF), including raw material handling, hot pressing, cutting, and quality control, ensuring efficient and safe line operation.
+Responsible for operating and monitoring artificial board production equipment such as wood chips and medium-density fiberboard, including raw material handling, hot pressing, cutting, and quality inspection, ensuring efficient and safe operation of the production line.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年（CAP） | —（公立学校免费，仅材料费） |
-| 职业文凭（Bac Pro） | 3年（Bac Pro） | —（公立学校免费，可学徒制） |
-| 高级技师证书（BTS） | 2年（BTS） | —（公立学校免费，可学徒制） |
+| Certificate of Professional Competency (CAP) | 2 years (CAP) | $0~$500 (Public schools are free, only material fees are required) |
+| Professional Diploma (Bac Pro) | 3 years (Bac Pro) | $0~$800 (Public schools are free and apprenticeships are available) |
+| Senior Technician Certificate (BTS) | 2 Years (BTS) | $0~$1,200 (Public schools are free and apprenticeships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES（机械驾驶证书） | 法定机构 | 必备 | 操作叉车、天车等必备 |
-| 电气安全认证 | INRS | 必备 | 高压或低压操作需持有 |
-| CAP/Bac Pro in Woodworking or Industrial Maintenance | 法国教育部 | 可选 | 基础文凭，多数雇主认可 |
+| CACES (Mechanical Driver's License) | Statutory bodies | Required | Essential for operating forklifts, overhead cranes, and similar equipment |
+| Electrical safety certification | INRS | Required | High or low pressure operation requires holding |
+| CAP/Bac Pro in Woodworking or Industrial Maintenance | French Ministry of Education | Optional | Basic diploma, recognized by most employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。法国木料板材行业受建筑和家具需求支撑，但自动化程度提升导致初级岗位需求稳定。就业集中在大型工业企业，需掌握自动化控制技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. France's wood and wood panel industry is supported by demand for construction and furniture, but increased automation has led to stable demand for entry-level positions. Employment is concentrated in large industrial enterprises, requiring mastery of automation control skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $27,000~$33,000 | 税前年薪，有经验可更高 |
-| 高级（7年以上） | $34,000~$40,000 | 税前年薪，含主管津贴 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $27,000~$33,000 | Pre-tax annual salary, with experience available for higher salaries |
+| Senior (7+ years) | $34,000~$40,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $31,416 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从操作员晋升为生产线组长或生产主管，也可向设备维护技师或质量控制专员发展。部分从业者通过继续教育转入生产管理岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+This profession carries both risks and opportunities as a whole. Strict process parameters and environmental requirements make it difficult for automation to fully replace manual monitoring and exception handling, but repetitive operations are easily replaced by machines, and entry-level positions may be narrowed by automation.
+
+You can be promoted from operator to production line leader or production supervisor, or develop to equipment maintenance technician or quality control specialist. Some practitioners transfer into production management positions through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Repetitive operations for raw material weighing, conveying, and mixing
+- Real-time monitoring of parameters such as temperature and pressure during production
+- Preliminary detection of panel surface defects based on vision
+- Routine measurement and sorting of finished product specifications
+
+**Where AI augments the role:**
+
+- AI-assisted process optimization: Analyzes historical data through machine learning to recommend the optimal hot pressing curve
+- Predictive maintenance: Using sensor data to predict equipment failures and reduce downtime
+- Intelligent Quality Inspection: AI vision systems assist humans in accurately identifying defect types and locations
+- Digital twin simulation: Offline optimization of production parameters reduces trial-and-error costs
+
+**Human moat:**
+
+- On-site emergency handling: flexible judgment and operation in case of equipment abnormalities or raw material changes
+- Multi-variety switching: Quickly adjust process parameters to accommodate small-batch customized production
+- Team collaboration and training: guiding beginners and coordinating upstream and downstream processes
+- Quality dispute decision-making: Manually comprehensively judge marginal batches
+
+**Skills to build:**
+
+- MES/SCADA system operation and basic programming
+- Fundamentals of Data Analysis (Python/R, Process Parameter Optimization)
+- Operation and maintenance of industrial robots (palletizing, quality inspection).
+- Equipment fault diagnosis and basic electrical maintenance
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Automation
 - Wood industry
@@ -63,65 +95,64 @@ Operates and monitors production equipment for wood-based panels (particleboard,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需法国公司提供CDI合同，工资不低于SMIC的1.5倍（约2.5万欧/年），劳工局审批 |
-| Subclass Passeport Talent（Talent Passport） | 高技能人才路径，需硕士及以上学历或年薪达SMIC的2倍（约3.3万欧/年），流程更快 |
-| Subclass Carte bleue UE（EU Blue Card） | 需要合同年薪达53600欧元（2024标准），木工行业通常不达标，适用性较低 |
+| Subclass Salarié (Employee Work Permit) | Requires CDI contract from French company, salary at least 1.5 times SMIC (approx. 25,000 EUR/year), approval from labour authorities. |
+| Subclass Passeport Talent (Talent Passport) | High-skilled talent pathway, requires master's degree or above or annual salary twice the SMIC (approx. €33,000/year), faster process |
+| Subclass Carte bleue UE (EU Blue Card) | A contract annual salary of 53,600 euros (2024 standard) is required, which is generally underqualified in the woodworking industry and has low applicability |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Panel Production Plant Operator？**
-- 喜欢动手操作、适应工厂环境的体力劳动者
-- 追求稳定就业、不介意倒班或重复性工作
-- 愿意通过学徒制获得职业资格并快速就业
-
-**谁不适合学Wood Panel Production Plant Operator？**
-- 对高噪音、粉尘环境敏感者
-- 希望高薪资或快速晋升者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Manual laborers who enjoy hands-on operations and adapt to factory environments
+- Pursue stable employment and don't mind shifts or repetitive work
+- Willing to obtain professional qualifications through apprenticeships and quickly find employment
+
+**Who is not suited**
+- Sensitive to high noise and dust environments
+- Those seeking high salaries or rapid promotions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for wood and board production line operators in France?**
+A: Entry-level annual salary approx. €22,000-€26,000, mid-senior up to €34,000-€40,000, typically includes overtime and bonuses. Salary below national average but with good benefits.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: Mainly Salarié work residence requires employer sponsorship and labor approval. Passeport Talent is suitable for highly educated and high-paying individuals, but opportunities in this industry are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Wood Panel Production Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a wood panel operator in France?**
-答：Entry-level salary ranges €22,000-€26,000 gross per year, with experienced operators earning up to €40,000. Benefits are good though below national average.
-
-**问：How can a foreigner immigrate to France through this occupation?**
-答：Mainly via employee work permit (Salarié) requiring employer sponsorship. Talent Passport possible for high earners but rare in this sector.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Interior Designer（Interior Designer）职业分析 · DE
+# Interior Designer — career analysis · Germany
 
-**职业代码：9321 – Interior Designer。**
+**Occupation code: 9321 (KldB)**
 
-Interior designers plan indoor space layouts, select materials and colors, and create functional and aesthetic environments. In Germany, the profession typically requires specialized training or certification, with work in architecture firms, design studios, or self-employment.
+Interior designers plan interior space layouts, select materials and colours, and create functional and aesthetic environments. In Germany, the profession usually requires specialised education or certification, and practitioners can work in architecture firms, design companies, or self-employed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学学士 | 3-4年（本科） | —（公立大学每学期注册费约150-350欧元） |
-| 专业学院认证 | 2-3年（如HWK/IHK认证课程） | $5,000~$20,000（私立或行业协会课程费用） |
+| University bachelor's degree | 3-4 years (Bachelor's degree) | $0~$1,500 (Public universities charge a semester fee of about €150-350) |
+| Professional college accreditation | 2-3 years (e.g., HWK/IHK certified courses) | $5,000~$20,000 (Private or industry association course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏易（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计学士学位 | 德国应用技术大学或艺术学院 | 可选 | 通常为进入职业的基本要求 |
-| 执业资格认证 | 德国工商会(IHK)或手工业协会(HWK) | 可选 | 特定项目可能需要，尤其自雇时 |
+| Bachelor of Interior Design | German University of Applied Sciences or Art College | Optional | Typically the basic requirement to enter the occupation |
+| Professional qualification certification | German Chamber of Commerce (IHK) or Crafts Association (HWK) | Optional | May be required for specific projects, especially when self-employed. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 60,000。德国室内设计行业稳定，受建筑翻新、可持续设计趋势推动。大城市及高端项目需求较大，但竞争激烈，自雇者需建立客户基础。整体就业前景中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 60,000. The German interior design industry is stable, driven by building renovation and sustainable design trends. Demand is higher in large cities and for high-end projects, but competition is intense; self-employed individuals need to build a client base. Overall employment prospects are moderate.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，含项目负责人或自雇 |
+| Median salary | $42,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$75,000 | Annual salary before tax, including project leader or self-employed |
+| average salary | $46,068 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径包括从初级设计师到高级设计师、项目负责人或设计总监。积累经验后可转向自雇或开设工作室，也可专注可持续设计、健康空间等细分领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+Career paths range from junior designer to senior designer, project lead, or design director. With experience, one may transition to self-employment or start a studio, or specialize in areas like sustainable design or healthy spaces.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - Sustainability
 - Smart Homes
@@ -61,68 +97,67 @@ Interior designers plan indoor space layouts, select materials and colors, and c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学位且工作年薪不低于48390欧元（2025年标准，紧缺专业43056欧元）。适合有学位者。 |
-| Subclass Skilled Worker（Skilled Immigration Act (Work Visa)） | 需获得德方雇主合同，且职业资格被认可（如有学位则更易）。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德找工作一年，需证明语言和资质。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and annual salary of at least €48,390 (2025 standard, €43,056 for shortage occupations). Suitable for degree holders. |
+| Subclass Skilled Worker (Skilled Immigration Act (Work Visa)) | Requires a job offer from a German employer and recognition of qualifications (a degree makes it easier). |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows coming to Germany to look for a job for one year; requires proof of language and qualifications. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Designer？**
-- 有艺术和设计天赋、追求美学与功能结合
-- 能够与客户、施工方、供应商多方沟通协调
-- 对可持续材料和空间规划有热情
-
-**谁不适合学Interior Designer？**
-- 不善于处理客户需求变化和项目压力
-- 偏好稳定、少人际互动的常规工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has artistic and design talent, pursuing the combination of aesthetics and functionality
+- Able to communicate and coordinate with clients, contractors, and suppliers
+- Passion for sustainable materials and spatial planning
+
+**Who is not suited**
+- Not good at handling changing customer requirements and project pressure
+- Prefers stable, routine work with minimal interpersonal interaction
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical starting salary for an interior designer in Germany?**
+A: Junior designer's pre-tax annual salary is about €30,000 to €40,000, increasing with experience and project skills.
+
+**Q: How can Chinese interior designers obtain a German work visa?**
+A: Need a German employer contract, usually requiring a bachelor's degree (or equivalent). If the degree is not recognized, qualifications may need to be verified. Can go via a Blue Card (with annual salary threshold) or skilled migration visa.
+
+**Q: Do you need local certification to work in interior design in Germany?**
+A: Not mandatory, but having a German-recognized degree (e.g., bachelor's from a University of Applied Sciences) or IHK/HWK certification increases job opportunities and customer trust. Certain projects may require qualifications for self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等偏易（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interior Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical starting salary for an interior designer in Germany?**
-答：Entry-level interior designers earn a gross annual salary of approximately 30,000 to 40,000 EUR, increasing with experience and project skills.
-
-**问：How can a Chinese interior designer obtain a work visa for Germany?**
-答：A job offer from a German employer is required, typically a bachelor's degree (or equivalent). If the degree is not recognized, a qualification assessment may be needed. Options include EU Blue Card (if salary threshold met) or skilled worker visa.
-
-**问：Is local certification required to work as an interior designer in Germany?**
-答：Not mandatory, but a recognized German degree (e.g., from a university of applied sciences) or IHK/HWK certification improves job prospects and client trust. Some projects may require certification for self-employment.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Sewers, Hand（Sewers, Hand）职业分析 · 美国
+# Sewers, Hand — career analysis · United States
 
-**职业代码：51-6051 – Sewers, Hand。**
+**Occupation code: 51-6051 (SOC)**
 
-Sew, join, reinforce, or finish a variety of manufactured items using needle and thread, including weavers and stitchers.
+Manually sew, piece, reinforce, or finish various manufactured products, including weavers and stitchers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 非必须 | —（通常无学历要求） |
-| 短期培训 | 数月 | $1,000~$5,000（社区学院或职业培训） |
+| High school diploma | Not required | $0~$0 (Typically no formal education requirement) |
+| Short-term training | Several months | $1,000~$5,000 (Community college or vocational training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缝纫技能证书 | 社区学院 | 可选 | 非强制，但提升竞争力 |
+| Sewing skills certificate | Community college | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 37,300。美国手缝工就业前景不乐观，自动化替代导致岗位减少。预计2024-2034年就业下降约10%，但定制服装和修复领域仍有小众需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 37,300. Employment outlook for US hand sewers is not optimistic due to automation substitution. Projected decline of about 10% from 2024-2034, but niche demand in custom garment and repair sectors remains.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 时薪约$12-15 |
-| 中级（3-7年） | $32,000~$40,000 | 包括计件工资 |
-| 高级（7年以上） | $40,000~$50,000 | 定制或修复岗位 |
+| Median salary | $36,480 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly wage approximately $12-15 |
+| Mid-level (3–7 years) | $32,000~$40,000 | Includes piecework wages |
+| Senior (7+ years) | $40,000~$50,000 | Custom or repair roles |
+| average salary | $37,210 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 手缝工通常从学徒或助手做起，可晋升为高级缝纫师或质量控制员。少数人可转向时尚设计或服装生产管理，但整体晋升空间有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Hand sewing is a high-automation exposure occupation; AI and robots will significantly replace repetitive sewing tasks, entry-level positions are severely reduced, leaving only a few high-end custom repair jobs.
+
+Hand sewers usually start as apprentices or assistants and can advance to senior sewers or quality controllers. A few may transition to fashion design or apparel production management, but overall advancement opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Batch sewing of standardized garment parts
+- Repetitive sewing reinforcement operations (e.g., attaching labels, pockets)
+- Basic repairs and patching (e.g., replacing zippers, filling holes)
+- Embroidery and decoration of simple patterns
+
+**Where AI augments the role:**
+
+- Use AI to assist in designing complex embroidery patterns
+- Using AR glasses to view sewing instructions and process requirements
+- Communicate customization needs remotely with clients via digital tools
+- Leverage automated cutting systems to optimize leather/fabric utilization
+- Uses robotic collaboration for high-intensity sewing (e.g., thick material stitching)
+
+**Human moat:**
+
+- Fine handcraftsmanship for high-end custom clothing and luxury goods
+- Fabric restoration and reconstruction of complex artifacts
+- Creative design and personalized client communication
+- Expert experience handling special fabrics (e.g., non-standard elasticity, fragile materials)
+- manual details involving aesthetic judgment and artistic creation
+
+**Skills to build:**
+
+- AI-assisted design software (e.g., Adobe Illustrator + AI plugins)
+- Operation of digital typesetting and automatic cutting systems.
+- Advanced handcraft techniques (e.g. French embroidery, lace restoration)
+- Fabric science and materials engineering knowledge
+- Customer service and customized process management
+- 3D modeling and printing used to assist in making accessories
+
+**Key growth areas:**
 
 - manual sewing
 - custom apparel
@@ -62,62 +97,64 @@ Sew, join, reinforce, or finish a variety of manufactured items using needle and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因本职业不要求专业学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 仅限非常有限的雇主担保，但极少见 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation does not require a professional degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Only very limited employer sponsorship, but extremely rare |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sewers, Hand？**
-- 喜欢手工制作、有耐心和细心的人
-- 对服装修复或定制有兴趣的人
-- 追求稳定但不太计较收入的人
+**Who is suited**
+- People who enjoy manual craftsmanship, are patient, and detail-oriented
+- People interested in clothing repair or customization.
+- People seeking stability and not too concerned about income
 
-**谁不适合学Sewers, Hand？**
-- 追求高收入和快速晋升的人
-- 希望依赖技术移民赴美的人
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- People who wish to immigrate to the US through skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of hand sewers?**
+A: Hand sewers have low salaries, median annual salary around $32,000 in 2024, advanced workers can reach $50,000.
+
+**Q: Can hand stitchers immigrate to the U.S. through H-1B visas?**
+A: Extremely difficult. Hand sewer usually does not meet H-1B specialty occupation requirements; employer-sponsored immigration is almost impossible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sewers, Hand属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hand sewers?**
-答：Hand sewers earn modest wages, with median annual salary around $32,000 in 2024, and experienced workers up to $50,000.
-
-**问：Can hand sewers immigrate to the US via H-1B visa?**
-答：Very unlikely. Hand sewing does not typically qualify as a specialty occupation, and employer-sponsored immigration is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

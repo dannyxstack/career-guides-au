@@ -1,60 +1,96 @@
-# ICT Project Manager（ICT Project Manager）职业分析 · 澳大利亚
+# ICT Project Manager — career analysis · Australia
 
-**职业代码：135112 – ICT Project Manager。**
+**Occupation code: 135112 (ANZSCO)**
 
-ICT Project Managers plan, execute, and deliver IT projects, coordinating teams, budgets, and timelines to ensure projects meet business objectives and technical specifications.
+ICT project manager plans, executes, and delivers IT projects, coordinating teams, budgets, and schedules to ensure projects meet business goals and technical specifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（IT或商务相关学士，年均学费） |
-| 研究生证书/文凭 | 1年 | $15,000~$25,000（项目管理研究生证书，可在线学习） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Bachelor's degree in IT or business-related fields, annual tuition) |
+| Graduate certificate/diploma | 1 year | $15,000~$25,000 (Graduate Certificate in Project Management, available online) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理专业人士（PMP） | PMI | 可选 | 全球认可，非强制但雇主青睐 |
-| PRINCE2 Practitioner | AXELOS | 可选 | 澳洲政府项目常用 |
-| ICT项目经理技能评估 | ACS | 必备 | 技术移民必备 |
-| 信息技术学士 | 澳洲大学 | 可选 | 常见入门学历 |
+| ICT Project Manager Skills Assessment | ACS | Required | Essential for skilled migration |
+| Project Management Professional (PMP) | PMI | Optional | Globally recognized, not mandatory but preferred by employers |
+| PRINCE2 Practitioner | AXELOS | Optional | Commonly used in Australian government projects. |
+| Bachelor of Information Technology | Australian universities | Optional | Common entry-level education |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,000。澳洲ICT项目经理需求持续增长，受数字化转型和云迁移推动。预计2024-2029年每年新增约3000个职位，主要集中在悉尼和墨尔本。
+**Job demand: high (★★★★☆).** National workforce approx. 52,000. Demand for ICT project managers in Australia continues to grow, driven by digital transformation and cloud migration. It is estimated that around 3,000 new positions will be added annually from 2024 to 2029, mainly in Sydney and Melbourne.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $85,000~$110,000 | 助理项目经理或小项目负责人 |
-| 中级（3-7年） | $110,000~$145,000 | 独立管理中型项目 |
-| 高级（7年以上） | $145,000~$180,000 | 大型项目或项目群经理 |
+| Median salary | $172,120 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $85,000~$110,000 | Assistant project manager or small project lead |
+| Mid-level (3–7 years) | $110,000~$145,000 | Independently manage medium-sized projects |
+| Senior (7+ years) | $145,000~$180,000 | Large project or program manager |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从开发人员或分析师晋升，可发展为高级项目经理、项目总监或PMO负责人。持有PMP或PRINCE2认证者晋升更快。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+IT project managers face AI-driven task automation (e.g., report generation, progress tracking), but core cross-team coordination, risk management and client communication still require human judgment, presenting a mixed outlook.
+
+Usually promoted from developer or analyst, can progress to senior project manager, project director, or PMO lead. Those with PMP or PRINCE2 certification advance faster.
+
+**Tasks most exposed to AI:**
+
+- Generate milestone reports and status updates
+- Automatic task assignment and progress tracking
+- Initial maintenance and early warning of the risk register
+- Compile meeting minutes and action items
+- Automated calculation and adjustment of resource load
+
+**Where AI augments the role:**
+
+- Use AI to predict risks and cost overruns
+- Query project databases using natural language to gain insights
+- AI-assisted generation of project presentation and communication materials
+- Automatically analyze historical data to optimize project scheduling
+- AI-driven virtual assistant coordinates multi-team schedules
+
+**Human moat:**
+
+- Cross-team and stakeholder negotiation and persuasion
+- Handling complex conflicts of interest and politically sensitive issues
+- Understanding and translating ambiguous business requirements
+- Team morale management and conflict mediation
+- Accountability for key investment decisions
+
+**Skills to build:**
+
+- Use of AI project management tools (e.g., Jira+AI plugins)
+- Data-driven decision-making and analytical skills
+- Prompt engineering and AI dialogue collaboration
+- Change management and advanced agile methodologies
+- Basic data science and visualisation (e.g., Python, Tableau)
+- AI ethics and governance knowledge
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Migration
@@ -63,69 +99,68 @@ ICT Project Managers plan, execute, and deliver IT projects, coordinating teams,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，需在MLTSSL列表上，通过ACS技能评估和EOI打分 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，各州对ICT项目经理有额外要求 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，工作3年后可转186永居 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区担保签证，需在指定地区生活工作3年后转191永居 |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent migration, requires occupation on MLTSSL, ACS skills assessment, and EOI points test |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated skilled migration, states have additional requirements for ICT Project Manager |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, eligible for 186 permanent residency after 3 years |
+| Subclass 491 (Skilled Work Regional Visa) | Regional Sponsored Visa, requires living and working in a designated area for 3 years before transitioning to 191 permanent visa |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Project Manager？**
-- 善于沟通和协调，具备领导力
-- 有IT背景并对项目管理感兴趣
-- 适应快节奏和高压环境
-
-**谁不适合学ICT Project Manager？**
-- 不喜欢与人打交道，偏好独立工作
-- 对细节和计划缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong communication and coordination skills with leadership ability
+- Have an IT background and are interested in project management
+- Ability to adapt to fast-paced and high-pressure environments
+
+**Who is not suited**
+- Prefers not to deal with people and prefers independent work
+- Impatient with details and planning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for ICT project managers in Australia?**
+A: Salary range AUD 85,000 to 180,000, depending on experience and certification. Senior positions often exceed AUD 145,000.
+
+**Q: Can ICT project managers migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the MLTSSL, meeting requirements for visa subclasses 189/190/491. A skills assessment by ACS and EOI points test are required.
+
+**Q: Can I find a job without PMP certification?**
+A: Yes, but PMP or PRINCE2 certification can significantly boost competitiveness. Many employers list it as a priority.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等偏低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-ICT Project Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for ICT Project Managers in Australia?**
-答：Salaries range from AUD 85,000 to AUD 180,000, depending on experience and certifications. Senior roles typically exceed AUD 145,000.
-
-**问：Can ICT Project Managers migrate to Australia through skilled migration?**
-答：Yes. The occupation is on the MLTSSL, eligible for 189/190/491 visas. Requires ACS skills assessment and EOI points.
-
-**问：Can I find a job without PMP certification?**
-答：Yes, but PMP or PRINCE2 certification significantly boosts competitiveness. Many employers prefer them.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Shelf Filler（Shelf Filler）职业分析 · ES
+# Shelf Filler — career analysis · Spain
 
-**职业代码：9820 – Shelf Filler。**
+**Occupation code: 9820 (CNO)**
 
-Responsible for stocking shelves, arranging merchandise, and maintaining inventory levels in retail stores and supermarkets, while assisting customers with product inquiries.
+Responsible for placing products on shelves in retail stores, supermarkets, and other venues, ensuring sufficient inventory and neatly arranged, and assisting customers in finding goods.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常接受在职培训，无前期教育成本） |
-| FP Básica（基础职业培训） | 2年 | —（公立学校免费，私立约1000-2000欧元） |
+| No formal education required | None | $0~$0 (On-the-job training is usually provided, with no initial education costs) |
+| FP Básica (Basic Vocational Training) | 2 years | $0~$2,000 (Public schools are free, private ones about 1000-2000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常由雇主提供短期培训，涵盖产品摆放、库存系统等 |
+| On-the-job training | Employer | Required | Employers usually provide short-term training covering product placement, inventory systems, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。西班牙零售业稳定增长，货架补货员需求持续，尤其在大型连锁超市和折扣店。自动化和自助结账可能减少部分岗位，但人力补货在复杂陈列和高峰期仍不可或缺。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. Spain's retail sector is growing steadily, with ongoing demand for shelf restockers, especially in large chain supermarkets and discount stores. Automation and self-checkout may reduce some jobs, but manual restocking remains indispensable during complex displays and peak periods.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，基于14薪制 |
-| 中级（3-7年） | $20,000~$24,000 | 税前年薪，含经验补贴 |
-| 高级（7年以上） | $24,000~$30,000 | 税前年薪，通常晋升至主管岗位 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary is based on a 14-month salary system |
+| Mid-level (3–7 years) | $20,000~$24,000 | Annual salary before tax, including experience allowance |
+| Senior (7+ years) | $24,000~$30,000 | Pre-tax annual salary, usually promoted to supervisory positions |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从普通补货员晋升为部门主管或仓库经理，也可转向物流、供应链领域。积累经验后有机会进入零售管理或采购岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Shelf replenishment workers face a clear risk of being compressed by automation: AI-driven inventory robots and automated replenishment systems are rapidly replacing manual tasks of stocktaking, restocking, and display. The number of entry-level positions will be significantly reduced, but humans still have an advantage in complex display adjustments and customer interactions.
+
+You can be promoted from a regular replenisher to a department head or warehouse manager, or transition to logistics and supply chain fields. After gaining experience, you may have the opportunity to enter retail management or procurement positions.
+
+**Tasks most exposed to AI:**
+
+- Monitor shelf inventory and generate replenishment lists
+- Move goods from the warehouse to the shelves
+- Arrange goods according to established rules (such as FIFO)
+- Use handheld terminals to scan product barcodes to update inventory
+- Check and organize price tags on shelves
+
+**Where AI augments the role:**
+
+- Use AI forecasting tools to analyze sales data and develop more precise replenishment plans
+- Get real-time shelf layout optimization recommendations through AR glasses or mobile apps
+- Use smart trolleys to assist in transporting and reduce physical exertion
+- With the help of AI customer service robots to handle customer product inquiries, replenishment staff can focus on display
+- After training, operate and maintain automated replenishment robots to enhance technical capabilities
+
+**Human moat:**
+
+- Handling sudden display needs (such as temporary adjustments to promotional events)
+- Handle the delicate placement of non-standard shapes or fragile items
+- Engage in personalized interactions with customers and provide product recommendations
+- Manual verification and flexible decision-making during inventory anomalies
+- Maintain the creative and aesthetic elements in brand display standards
+
+**Skills to build:**
+
+- Basic data analysis and use of AI replenishment tools
+- Application of AR/VR devices in inventory management
+- Automated equipment operation and simple maintenance
+- Retail management systems (such as SAP, Oracle Retail)
+- Customer service and communication skills
+- Time management and multitasking coordination
+
+**Key growth areas:**
 
 - Retail
 - Logistics
@@ -62,61 +98,63 @@ Responsible for stocking shelves, arranging merchandise, and maintaining invento
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 需雇主提供工作合同，满足最低薪资要求，非紧缺职业，审批较难。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Employers must provide a work contract meeting minimum wage requirements; non-urgently needed occupations are difficult to approve. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shelf Filler？**
-- 注重细节、体力较好的人
-- 希望快速就业、无需高学历的人
-- 适应轮班和站立工作的人
+**Who is suited**
+- People who pay attention to detail and have good physical stamina
+- People seeking quick employment without high education requirements
+- People who adapt to shift work and standing jobs
 
-**谁不适合学Shelf Filler？**
-- 追求高薪或职业声望的人
-- 不喜欢重复劳动或体力工作的人
+**Who is not suited**
+- People who pursue high salaries or professional prestige
+- People who dislike repetitive labor or physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a shelf restocker?**
+A: Spanish shelf replenishment workers earn about €16,000-30,000 before tax, junior positions about €16,000-20,000, and senior or supervisor positions up to €24,000-30,000. Salaries are influenced by region and company size.
+
+**Q: Can shelving replenishers come to Spain through skilled migration?**
+A: Shelving restocking staff are considered low-skilled professions and do not meet the requirements for the EU Blue Card or the High-Skilled Professional Talent visa. Non-EU citizens must apply through the Regular Work Residence (Cuenta ajena), but employers must provide contracts and prove that the position cannot be filled locally, which is quite challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shelf Filler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for shelf fillers?**
-答：In Spain, shelf fillers earn a gross annual salary of €16,000-€30,000, with entry-level around €16,000-€20,000 and senior/supervisor roles up to €24,000-€30,000. Salary varies by region and company size.
-
-**问：Can shelf fillers migrate to Spain through skilled migration?**
-答：Shelf fillers are low-skilled and do not qualify for EU Blue Card or Highly Qualified Professional visas. Non-EU nationals can apply for a work contract (Cuenta ajena), but it is difficult as employers must prove the position cannot be filled locally.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

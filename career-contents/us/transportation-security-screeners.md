@@ -1,61 +1,94 @@
-# Transportation Security Screeners（Transportation Security Screeners）职业分析 · 美国
+# Transportation Security Screeners — career analysis · United States
 
-**职业代码：33-9093 – Transportation Security Screeners。**
+**Occupation code: 33-9093 (SOC)**
 
-Conduct screening of passengers, baggage, or cargo to ensure compliance with TSA regulations. Operate x-ray machines and hand wands at airport checkpoints.
+Responsible for screening passengers, baggage, or cargo to ensure compliance with Transport Security Administration regulations. Operates X-ray machines, hand-held metal detectors, and other security equipment to perform inspection tasks at airport security checkpoints.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定时长 | —（最低要求为高中或GED） |
-| 在职培训 | 2-4周 | —（TSA提供带薪培训） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Minimum requirement: high school diploma or GED) |
+| On-the-job training | 2-4 weeks | $0~$0 (TSA provides paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国公民身份 | 美国联邦政府 | 必备 | TSA仅雇佣美国公民 |
-| TSA背景调查与毒品测试 | TSA | 必备 | 通过背景调查和毒品测试 |
-| TSA认证 | TSA | 必备 | 完成培训并通过考试获得认证 |
+| US citizenship | US federal government | Required | TSA only employs U.S. citizens |
+| TSA Background Check and Drug Test | TSA | Required | Pass background checks and drug tests |
+| TSA certification | TSA | Required | Complete training and pass exams to obtain certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 47,500。美国运输安全筛查员就业前景稳定，受航空安全需求持续驱动。预计2023-2033年就业增长率约3%，与平均水平相当。主要岗位在机场，受联邦预算和政策影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 47,500. US transportation security screeners have stable employment prospects, driven by ongoing aviation security demand. Projected employment growth 2023-2033 about 3%, on par with average. Main jobs at airports, subject to federal budget and policy.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$45,000 | TSA薪资表SV-G级别 |
-| 中级（3-10年） | $45,000~$55,000 | 升职或经验增加 |
-| 高级（10年以上） | $55,000~$70,000 | 主管或管理职位 |
+| Median salary | $66,770 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$45,000 | TSA pay scale SV-G level |
+| Intermediate (3-10 years) | $45,000~$55,000 | Promotion or increased experience |
+| Senior (10+ years) | $55,000~$70,000 | Supervisor or management position |
+| average salary | $64,310 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级筛查员通常从TSA入职开始，可晋升为首席筛查官、主管或管理职位。部分人员可转向联邦执法或安全领域。需通过持续培训和考核。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Parts of transport security screener roles can be automated by AI (e.g. X-ray image recognition), but body searches, emergency response, and complex judgments still require humans. Overall risk is medium, and entry barriers may rise slightly due to automation.
+
+Junior screening officer typically starts at TSA entry-level, can advance to lead screening officer, supervisor, or management roles. Some move to federal law enforcement or security fields. Requires ongoing training and assessments.
+
+**Tasks most exposed to AI:**
+
+- Using computed tomography (CT) and X-ray images to automatically identify prohibited items
+- Pre-screen and risk score based on passenger information database
+- Automatically generate daily screening reports and statistics
+- Using facial recognition technology to verify passenger identities
+
+**Where AI augments the role:**
+
+- AI-assisted image annotation and alarm prioritization, improving screener decision efficiency
+- Real-time fusion of multi-sensor data (metal detection, trace detection) to reduce false alarms
+- Predict peak passenger flow using historical data to optimise security screening lane configuration
+- Smart wearable devices provide real-time alerts for suspicious behavior patterns
+
+**Human moat:**
+
+- Perform manual pat-down searches and body checks on passengers.
+- Handle emergencies (such as conflicts, medical emergencies, disposal of suspicious items)
+- Judgment of non-standard prohibited items (e.g., oddly shaped homemade items) based on context.
+- Executing sensitive information protection and privacy trade-off decisions
+
+**Skills to build:**
+
+- Operating and monitoring AI-assisted security screening systems (e.g., advanced CT scanner modes)
+- Data analysis and anomaly pattern recognition using basic statistical tools
+- Conflict resolution and passenger communication psychology
+- Basic background maintenance and troubleshooting for running AI models
+- Continuous learning ability regarding emerging threats (e.g., 3D-printed weapon characteristics)
+- Proficiency in at least one foreign language to serve international passengers
+
+**Key growth areas:**
 
 - Security
 - Aviation
@@ -64,65 +97,67 @@ Conduct screening of passengers, baggage, or cargo to ensure compliance with TSA
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 该职业通常不符合H-1B专业职业要求，因学历门槛低且非专业 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保移民路径极不常见，因职位需美国公民身份，非公民无法担任 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation typically does not meet the H-1B professional occupation requirements due to low education threshold and non-professional nature |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored immigration path is extremely uncommon as the position requires U.S. citizenship; non-citizens cannot hold the role. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Transportation Security Screeners？**
-- 细心、责任心强，适合安全敏感型工作
-- 能适应轮班制和长时间站立工作
-- 有良好的沟通和人际交往能力
+**Who is suited**
+- Detail-oriented, responsible, suitable for safety-sensitive work
+- Able to adapt to shift work and long periods of standing
+- Good communication and interpersonal skills
 
-**谁不适合学Transportation Security Screeners？**
-- 不能通过严格背景调查或毒品测试者
-- 非美国公民或不愿受联邦工作约束者
+**Who is not suited**
+- Those who cannot pass a strict background check or drug test
+- Non-US citizens or those unwilling to be subject to federal employment restrictions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of transportation security screeners?**
+A: Entry-level approximately USD 40,000-45,000; mid-to-senior up to USD 70,000. Growth is slow due to federal pay scale constraints.
+
+**Q: Can transportation security screeners work in the US on an H-1B visa?**
+A: Extremely difficult. This position usually does not meet H-1B specialty occupation requirements, and TSA only hires U.S. citizens; immigration pathways are almost non-existent.
+
+**Q: How to advance?**
+A: Through TSA internal promotion system, can become chief screening officer, supervisor, or management role. Requires accumulated experience and passing assessments.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
-
-Transportation Security Screeners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Transportation Security Screeners?**
-答：Entry-level around $40,000-45,000, senior up to $70,000. Subject to federal pay scale with slow growth.
-
-**问：Can Transportation Security Screeners get an H-1B visa?**
-答：Generally no. The job does not qualify as a specialty occupation, and TSA only hires U.S. citizens, making immigration nearly impossible.
-
-**问：How to advance in this career?**
-答：Through TSA's internal promotion to Lead Screener, Supervisor, or Manager. Requires experience and exams.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

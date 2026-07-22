@@ -1,63 +1,99 @@
-# Aquaculture Worker（Aquaculture Worker）职业分析 · NL
+# Aquaculture Worker — career analysis · Netherlands
 
-**职业代码：6221 – Aquaculture Worker。**
+**Occupation code: 6221 (ISCO08)**
 
-Aquaculture workers are responsible for raising fish, shellfish, and aquatic plants, including feeding, water quality monitoring, harvesting, and daily maintenance, playing a fundamental role in the Netherlands' aquaculture sector.
+Aquaculture workers are responsible for farming fish, shellfish, and aquatic plants, including feeding, water quality monitoring, harvesting, and daily maintenance, playing a fundamental role in the Dutch aquaculture industry.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | $5,000~$10,000（每年学费，含教材） |
-| 高等职业教育 | 4年（学士） | $8,000~$15,000（每年学费，含教材） |
-| 在职培训 | 6-12个月 | $2,000~$5,000（公司内部或行业协会培训） |
+| Secondary vocational education | 2-3 years | $5,000~$10,000 (Annual tuition fee, includes textbooks) |
+| Higher vocational education | 4 years (bachelor's) | $8,000~$15,000 (Annual tuition fee, includes textbooks) |
+| On-the-job training | 6–12 months | $2,000~$5,000 (In-house or industry association training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖基础证书 | 荷兰农业协会 | 可选 | 适用入门级岗位 |
-| 水处理与水质管理证书 | 荷兰水管理联盟 | 可选 | 适用于技术岗位 |
-| 食品安全认证（HACCP） | 食品安全认证机构 | 必备 | 如涉及产品处理，通常要求 |
-| 渔船或养殖场安全证书 | 荷兰劳动监察局 | 必备 | 特定岗位强制 |
+| Food safety certification (HACCP) | Food safety certification body. | Required | If involving product handling, usually required |
+| Fishing vessel or aquaculture site safety certificate | Dutch Labour Inspectorate. | Required | Mandatory for specific roles |
+| Certificate in Aquaculture Basics | Dutch Agricultural Association | Optional | Suitable for entry-level positions |
+| Certificate in Water Treatment and Water Quality Management | Dutch Water Management Alliance | Optional | Applicable to technical positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。荷兰水产养殖业相对集中但规模有限，受限于空间和环保法规。就业机会主要分布在沿海省份和内陆水域。自动化趋势可能减少低技能岗位，但可持续水产养殖创新带来新机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The Dutch aquaculture industry is relatively concentrated but limited in scale, constrained by space and environmental regulations. Employment opportunities are mainly in coastal provinces and inland waters. Automation trends may reduce low-skilled jobs, but sustainable aquaculture innovation brings new opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（3-7年） | $34,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$52,000 | 税前年薪 |
+| Median salary | $37,346 | Median salary (official: CBS median hourly wage €18.9/hour × 1976 h annualized, BRC group 1311 Beroepsgroep overig; P25–P75 €30,628–€49,400, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $34,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$52,000 | Annual pre-tax salary |
+| average salary | $38,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级工人可积累经验后晋升为技术员或主管，或专攻特定品种（如鲑鱼、贝类）。进一步学习水产养殖科学或管理可进入管理层或研发岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Aquaculture workers are significantly threatened by automation: repetitive tasks such as feeding and water quality monitoring will be gradually replaced by AI and robots, reducing entry-level positions but increasing demand for AI operation and maintenance and anomaly handling skills.
+
+Junior workers can gain experience and advance to technician or supervisor roles, or specialize in specific species (e.g., salmon, shellfish). Further study in aquaculture science or management can lead to management or R&D positions.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems replacing manual feeding
+- Water quality monitoring sensors and AI analysis replace manual testing
+- Robots harvesting fish and shellfish replacing manual fishing
+- AI-based disease early warning replacing manual inspections
+- Automatic cleaning and maintenance of aquaculture tanks replace manual cleaning
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems optimize farming strategies (e.g., feeding amount, water change timing)
+- Drones and cameras are used for large-scale water monitoring, enhancing worker patrol efficiency
+- Data analysis tools help workers forecast production output and market demand.
+- Smart alert system enhances emergency response capabilities (e.g., equipment failure, sudden water quality changes).
+- Virtual reality training enhances workers' ability to identify diseases and handle anomalies
+
+**Human moat:**
+
+- Handling complex anomalies (e.g., disease outbreaks caused by multiple factors)
+- On-site mechanical repair and emergency troubleshooting skills
+- Collaborate with veterinarians and biologists to diagnose and treat
+- Animal Welfare Assessment and Ethical Decision-Making
+- Adapting to unstructured environments (e.g., adverse weather, temporary equipment failures)
+
+**Skills to build:**
+
+- Operate and maintain automated feeding and monitoring systems
+- Basic data analysis (Python/R and BI tools)
+- Smart sensor and IoT device debugging
+- Basics of animal disease diagnosis and treatment
+- Simple programming and troubleshooting of robotic systems
+- Environmental regulations and sustainable development in aquaculture
+
+**Key growth areas:**
 
 - Aquaculture
 - Sustainability
@@ -66,66 +102,68 @@ Aquaculture workers are responsible for raising fish, shellfish, and aquatic pla
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能移民，薪资门槛约€56,000（2025年），但此职业通常薪资较低，可能不满足。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于非欧盟高技能移民，薪资门槛约€5,000/月（30岁以上），此职业薪资通常不达门槛。 |
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟/EEA/瑞士公民无需签证即可在荷兰自由工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled immigrants, salary threshold around €56,000 (2025), but this occupation typically has lower pay and may not meet the requirement. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to non-EU highly skilled migrants, salary threshold approx. €5,000/month (over 30 years old); this occupation's salary typically falls below the threshold. |
+| Subclass EU free movement (EU Freedom of Movement) | EU/EEA/Swiss citizens can work freely in the Netherlands without a visa. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aquaculture Worker？**
-- 喜欢户外体力劳动
-- 对水生生物和环境保护有兴趣
-- 能适应季节性工作节奏
+**Who is suited**
+- Enjoys outdoor physical work
+- Interest in aquatic life and environmental protection
+- Ability to adapt to seasonal work rhythms
 
-**谁不适合学Aquaculture Worker？**
-- 不喜户外或恶劣天气
-- 寻求高薪资或快速晋升
+**Who is not suited**
+- Dislikes outdoor work or harsh weather
+- Seeking high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for aquaculture workers?**
+A: Entry-level annual salary around €28,000-34,000, senior up to €52,000, depending on experience and company size.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this job?**
+A: Usually difficult, as salary may not meet high-skilled migration thresholds. EU Blue Card requires approx. €56,000/year; this occupation may not reach that. EU citizens can move freely.
+
+**Q: How to improve career prospects?**
+A: Progress to technician, supervisor, or R&D roles by attaining a higher degree (e.g., Bachelor of Aquaculture) or specialised certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 难（★★★★☆） |
-
-Aquaculture Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aquaculture workers?**
-答：Entry-level annual salary is around €28,000-34,000, and senior workers can earn up to €52,000, depending on experience and company size.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this job?**
-答：Generally difficult, as salary may not meet the highly skilled migrant threshold. The EU Blue Card requires around €56,000 per year, which this job rarely meets. EU citizens have free movement.
-
-**问：How to improve career prospects?**
-答：By obtaining a higher degree (e.g., bachelor's in aquaculture) or specialized certifications, you can advance to technician, supervisor, or R&D roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Hairdresser（Hairdresser）职业分析 · IT
+# Hairdresser — career analysis · Italy
 
-**职业代码：5141 – Hairdresser。**
+**Occupation code: 5141 (ISCO08)**
 
-Hairdressers in Italy are core professionals in the beauty sector, offering cutting, coloring, and styling services. The role is in steady demand, particularly in local communities, but typically requires certification and apprenticeship experience.
+In Italy, barbers are core professionals in the hairdressing and beauty industry, mainly providing services such as haircuts, dyeing, and styling. The demand for this occupation is stable, especially valued in local communities, but it often requires certification and apprenticeship experience.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年（高中阶段） | —（公立职业高中免费，仅需少量教材费） |
-| 学徒制培训 | 2-3年 | —（带薪学徒，通常与职业高中结合） |
+| Secondary vocational education | 3 years (high school level) | $0~$1,000 (Public vocational high schools are tuition-free, with only a small fee for textbooks) |
+| Apprenticeship training | 2-3 years | $0~$0 (Paid apprenticeship, usually combined with vocational high school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 理发师执业资格 | 大区卫生与社会事务局 | 必备 | 完成培训并通过考试后获得，全国通用 |
-| 卫生与安全培训证书 | 各地区卫生局 | 必备 | 涉及消毒、皮肤学等基础内容 |
+| Barber license | Regional Health and Social Affairs Authority | Required | Obtain upon completion of training and passing exam, valid nationwide |
+| Health and Safety Training Certificate | Regional health bureaus | Required | Covers basic topics such as disinfection and dermatology. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。意大利理发师就业前景稳定，受本地消费习惯驱动，但市场趋于饱和，初级岗位竞争中等。随着老龄化社会推动个人护理需求增长，高级造型师仍有发展空间。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Employment prospects for Italian hairdressers are stable, driven by local consumer habits, but the market is becoming saturated with moderate competition for entry-level positions. As an aging society boosts demand for personal care, senior stylists still have room for growth.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 学徒或助理起薪，部分包含小费 |
-| 中级（3-7年） | $20,000~$28,000 | 独立处理客户的理发师 |
-| 高级（7年以上） | $28,000~$40,000 | 高级造型师或沙龙经理，含提成 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$20,000 | Apprentice or assistant starting salary, some including tips |
+| Mid-level (3–7 years) | $20,000~$28,000 | Hairstylist handling clients independently |
+| Senior (7+ years) | $28,000~$40,000 | Senior stylist or salon manager, including commission |
+| average salary | $25,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径通常为：学徒 → 理发师 → 高级理发师 → 沙龙经理/自主创业。可参加进阶培训专攻染发、美发造型等领域，或考取教师资格培训新人。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hairdresser risk is moderate-low; basic tasks like booking and inventory management are easily replaced by AI, but core skills like cutting and coloring are difficult to automate. AI can assist with hairstyle design and personalized recommendations to enhance the service experience.
+
+Career path is usually: apprentice → hairdresser → senior hairdresser → salon manager/self-employment. Further training can specialize in coloring, styling, or obtaining teaching qualifications to train new staff.
+
+**Tasks most exposed to AI:**
+
+- Automated telephone or online booking system for handling customer appointments
+- AI inventory management system monitors supplies such as shampoo and hair dye
+- Automated billing and payment processing based on customer historical data
+- Smart mirrors or apps guide customers to self-preview hairstyles
+
+**Where AI augments the role:**
+
+- AI hairstyle design tool recommends haircuts based on face shape and hair texture
+- virtual trial system lets clients preview hair dye results on mobile devices
+- AI analyzes customer preferences and fashion trends to provide personalized styling advice.
+- smart temperature-controlled hair dryers and electric clippers improve operation precision and efficiency
+
+**Human moat:**
+
+- Fine tactile and manual judgment in haircutting, perming, and dyeing
+- Communicate directly with clients to understand their personalized needs and aesthetic preferences
+- Creative styling ability, designing novel hairstyles suitable for specific clients
+- Live body language interaction to create a trusting and comfortable service atmosphere
+
+**Skills to build:**
+
+- Master the use of virtual hair styling and intelligent hairstyle recommendation tools
+- Learn basic data analysis, interpret customer preferences and trend reports
+- Enhance social media marketing and personal branding skills
+- Obtain an Italian Advanced Hairdresser certification to increase professional barriers
+- Learn scalp health and hair care science to provide value-added services
+- Participate in training courses on AI-assisted design software
+
+**Key growth areas:**
 
 - Personal care
 - Local services
@@ -63,66 +96,68 @@ Hairdressers in Italy are core professionals in the beauty sector, offering cutt
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Work visa (Decreto Flussi)） | 适用于非欧盟公民，每年有限额，需雇主担保。理发师属于非紧缺职业，获批机会较小。 |
-| Subclass 自由职业签证（Freelance visa (Lavoro Autonomo)） | 适合以自雇形式开沙龙，需证明足够资金及合法住所，每年有配额。 |
-| Subclass 欧盟自由流动（EU free movement） | 欧盟/EEA公民无需工作签证，可直接在意大利从事理发师工作。 |
+| Subclass Decreto Flussi quota work visa (Work visa (Decreto Flussi)) | Applicable to non-EU citizens with an annual cap; requires employer sponsorship. Hairdressers are not in a shortage occupation, so approval chances are lower. |
+| Subclass Freelance Visa (Freelance visa (Lavoro Autonomo)) | Suitable for self-employment opening a salon, need to prove sufficient funds and legal residence, with annual quota. |
+| Subclass EU Freedom of Movement (EU free movement) | EU/EEA citizens do not need a work visa to work as a hairdresser in Italy. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hairdresser？**
-- 喜欢与人交流、服务他人的人
-- 对发型时尚有热情，动手能力强
-- 愿意接受较长时间学徒培训
+**Who is suited**
+- People who enjoy communicating and serving others
+- Passionate about hair fashion with strong hands-on skills
+- Willing to undergo a relatively long apprenticeship training
 
-**谁不适合学Hairdresser？**
-- 希望快速赚取高薪的人
-- 不喜欢站立工作或重复性劳动
+**Who is not suited**
+- People looking to earn high wages quickly
+- Dislikes standing work or repetitive tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do barbers earn in Italy?**
+A: Entry-level annual income approx. €16,000-20,000, intermediate €20,000-28,000, senior up to €40,000, but heavily dependent on clientele and tips.
+
+**Q: How can non-EU citizens become barbers in Italy?**
+A: Requires Decreto Flussi quota work visa or sufficient funds for a freelancer visa. EU/EEA citizens have no restrictions.
+
+**Q: Do hairdressers in Italy need a licence?**
+A: Required. Must complete vocational high school or apprenticeship training, pass the regional examination to obtain a practicing qualification, and hold a health and safety certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Hairdresser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a hairdresser in Italy?**
-答：Entry-level salary is around €16,000-20,000 per year, mid-level €20,000-28,000, and senior up to €40,000, heavily dependent on clientele and tips.
-
-**问：How can non-EU citizens become hairdressers in Italy?**
-答：They need a work visa under Decreto Flussi quota or a freelance visa with sufficient funds. EU/EEA citizens have no restrictions.
-
-**问：Do hairdressers need a license in Italy?**
-答：Yes. They must complete vocational school or apprenticeship, pass a regional exam, and obtain a health and safety certificate.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

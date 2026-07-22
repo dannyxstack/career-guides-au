@@ -1,61 +1,97 @@
-# Member of Parliament（Member of Parliament）职业分析 · 澳大利亚
+# Member of Parliament — career analysis · Australia
 
-**职业代码：111312 – Member of Parliament。**
+**Occupation code: 111312 (ANZSCO)**
 
-A Member of Parliament is an elected representative who makes laws, oversees the executive, represents constituents' interests, and participates in national or regional policy-making and legislation.
+Members of parliament are elected government representatives responsible for making laws, overseeing administrative bodies, representing constituents' interests, and participating in national or regional policy decisions and legislative processes.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（政治学/法律/公共管理） | 3年 | $30,000~$80,000（学费因大学和课程而异） |
-| 硕士（公共政策/政治学） | 1-2年 | $20,000~$60,000（硕士课程学费较高） |
+| Bachelor's degree (Political Science/Law/Public Administration) | 3 years | $30,000~$80,000 (Tuition varies by university and course) |
+| Master's (Public Policy/Political Science) | 1-2 years | $20,000~$60,000 (Master's program tuition is higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 澳大利亚公民 | 澳大利亚政府 | 必备 | 议员必须是澳大利亚公民 |
-| 选举胜利 | 澳大利亚选举委员会 | 必备 | 必须通过选举赢得席位 |
-| 无学位要求 | 无 | 可选 | 议员职位无正式学历要求，但相关背景有利 |
+| Australian citizen | Australian Government | Required | Councillors must be Australian citizens. |
+| Election victory | Australian Electoral Commission | Required | Must win an election to secure a seat |
+| No degree required. | None | Optional | No formal educational requirements for councilor positions, but relevant background is beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 450。澳洲议员职位数量取决于选举结果，总体稳定。由于政治体制成熟，需求保持平稳，但竞争激烈。未来几年预计无显著增长或下降。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 450. The number of Australian MP positions depends on election results and is generally stable. Due to the mature political system, demand remains steady but competition is intense. No significant growth or decline expected in the coming years.
 
-**竞争度：极高（★★★★★）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★★).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（基层议员） | $150,000~$200,000 | 包括基本工资和津贴 |
-| 中级（委员会主席等） | $200,000~$300,000 | 额外职务津贴 |
-| 高级（部长/议长） | $300,000~$400,000 | 部长薪资更高 |
+| Median salary | $250,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (grassroots councillor) | $150,000~$200,000 | Includes base salary and allowances |
+| Intermediate (e.g., Committee Chair) | $200,000~$300,000 | Additional duty allowance |
+| Senior (Minister/Speaker) | $300,000~$400,000 | Ministerial salaries are higher. |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展通常从地方议会或政党基层起步，逐步晋升为州或联邦议员。资深议员可能担任部长、反对党领袖或议长等高级职务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core representative function and political judgment of legislators are difficult to replace, but AI will significantly compress auxiliary tasks such as policy research and data analysis, and enhance voter communication and bill drafting efficiency. Overall risk is moderate, requiring proactive use of AI tools to improve governance capabilities.
+
+Career development typically starts at local council or party grassroots, progressing to state or federal politician. Senior members may become ministers, opposition leaders, or speakers.
+
+**Tasks most exposed to AI:**
+
+- Automatic summarization and comparative analysis of policy documents
+- Automated monitoring reports on voter sentiment and public opinion trends.
+- Clause-by-clause compliance check and discrepancy marking for legislative provisions.
+- Automated collation and visualization of electorate demographic data
+- Standardized meeting minutes generation and action item tracking.
+
+**Where AI augments the role:**
+
+- AI-assisted generation of high-quality policy briefs and speech drafts
+- Analyze voter feedback in real time to optimize communication strategies
+- Using data visualization tools to clearly interpret complex policies to the public
+- AI simulates economic and social impacts of different decision scenarios
+- Automated email and social media replies to improve voter service efficiency
+
+**Human moat:**
+
+- Political judgment and value trade-offs representing constituent interests
+- Extemporaneous advocacy and persuasion in parliamentary debates and public hearings
+- Build and maintain cross-party and cross-interest group coalitions
+- Deep empathy and local knowledge of unique community needs
+- Leadership that assumes ultimate responsibility in crises and disputes
+
+**Skills to build:**
+
+- Proficient in using AI policy analysis platforms and data visualization tools
+- Master AI-driven voter relationship management systems
+- Understanding AI ethics and algorithmic bias to ensure policy fairness
+- Data analysis and critical thinking to validate AI outputs
+- Digital communication skills, leveraging multimedia to expand influence.
+- Agile project management for fast-iterative governance environments
+
+**Key growth areas:**
 
 - Political Stability
 - Legislative Demand
@@ -64,64 +100,66 @@ A Member of Parliament is an elected representative who makes laws, oversees the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 无 | 议员职位不对海外人士开放，必须为澳大利亚公民。无技术移民途径。 |
+| Subclass None | Parliamentary positions are not open to overseas individuals; must be an Australian citizen. No skilled migration pathway. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Member of Parliament？**
-- 对公共政策和政治有浓厚兴趣的人
-- 具备优秀沟通和辩论能力的人
-- 愿意长期服务公众并适应高压工作环境的人
+**Who is suited**
+- People with a strong interest in public policy and politics
+- People with excellent communication and debating skills.
+- People willing to serve the public long-term and adapt to high-pressure work environments
 
-**谁不适合学Member of Parliament？**
-- 不喜欢公众关注和媒体曝光的人
-- 希望工作生活平衡且稳定工时的人
+**Who is not suited**
+- Those who dislike public attention and media exposure
+- People seeking work-life balance and stable hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is a councillor's salary structured?**
+A: MP salary comprises base pay, electorate allowance, and extra office-holder allowance. Base pay set by independent remuneration tribunal at ~A$150k+. Ministers and Speakers receive additional allowances.
+
+**Q: Can overseas individuals become members of the Australian Parliament?**
+A: No. According to the Australian Constitution, members of parliament must be Australian citizens. Therefore, this occupation has no skilled migration pathway.
+
+**Q: What background is needed to become a member of Parliament?**
+A: Backgrounds in law, political science, public administration, or business are common. However, no formal education is required; many politicians come from various industries. The most important factors are party support and winning elections.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 极高（★★★★★） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Member of Parliament属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is a Member of Parliament's salary structured?**
-答：MP salary comprises base pay, electorate allowance, and additional office-holder allowances. Base pay is set by an independent tribunal, starting above AUD 150,000. Ministers and Speakers receive extra remuneration.
-
-**问：Can overseas people become Australian Members of Parliament?**
-答：No. Under the Australian Constitution, MPs must be Australian citizens. Thus there are no skilled migration pathways for this occupation.
-
-**问：What background is needed to become an MP?**
-答：Common backgrounds include law, political science, public administration, or business. However, no formal degree is required; many MPs come from diverse fields. Key is securing party endorsement and winning elections.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

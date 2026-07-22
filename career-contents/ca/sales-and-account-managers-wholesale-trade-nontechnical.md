@@ -1,59 +1,95 @@
-# Sales and Account Managers - Wholesale Trade (Non-Technical)（Sales and Account Managers - Wholesale Trade (Non-Technical)）职业分析 · 加拿大
+# Sales and Account Managers - Wholesale Trade (Non-Technical) — career analysis · Canada
 
-**职业代码：62100 – Sales and Account Managers - Wholesale Trade (Non-Technical)。**
+**Occupation code: 62100 (NOC)**
 
-Promote and sell pharmaceutical and medical products to healthcare institutions in Canada. This occupation falls under NOC 62100, eligible for Federal Skilled Worker and Provincial Nominee programs, making it a popular immigration pathway.
+Promoting and selling pharmaceutical products in Canada to hospitals, clinics and pharmacies. This occupation falls under NOC 62100, which meets the requirements for federal skilled migration and provincial nominee programs, making it a popular migration occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $25,000~$60,000（加拿大本科国际生学费） |
-| 专科文凭 | 2年 | $15,000~$35,000（学院相关商科或药学销售课程） |
+| Bachelor's degree | 4 years | $25,000~$60,000 (Tuition fees for international undergraduate students in Canada) |
+| Diploma | 2 years | $15,000~$35,000 (College-related business or pharmaceutical sales courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 移民必需，用于证明海外学历等同加拿大标准 |
-| 销售经验 | 雇主 | 必备 | 通常要求2年以上医药销售经验 |
-| 语言成绩 (IELTS/TEF) | IELTS/TEF | 必备 | 移民需CLB 7以上 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Mandatory for immigration, used to prove overseas qualifications equivalent to Canadian standards |
+| Sales experience | Employer | Required | Typically requires more than 2 years of pharmaceutical sales experience |
+| Language test scores (IELTS/TEF) | IELTS/TEF | Required | Immigration requires CLB 7+ |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 95,000。加拿大制药行业稳定增长，尤其老龄化社会带来持续药品需求。安大略、魁北克和不列颠哥伦比亚省就业机会较多，预计未来5年岗位增长5%-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 95,000. The Canadian pharmaceutical industry is growing steadily, especially with sustained demand for medications due to an aging society. More job opportunities are available in Ontario, Quebec, and British Columbia, with an expected 5%-10% job growth over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 基本薪资加奖金 |
-| 中级（3-7年） | $65,000~$90,000 | 含佣金，平均80000 |
-| 高级（7年以上） | $90,000~$130,000 | 高级代表或经理级别 |
+| Median salary | $77,106 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$65,000 | Base salary plus bonuses |
+| Mid-level (3–7 years) | $65,000~$90,000 | Including commission, average 80,000 |
+| Senior (7+ years) | $90,000~$130,000 | Senior representative or manager level |
+| average salary | $85,280 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级代表可晋升为大客户经理、区域销售经理，或转向产品管理、市场准入等岗位。积累经验后，年薪可达10万加元以上，部分进入管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of pharmaceutical sales representatives (client relationships, negotiation, strategic planning) are enhanced by AI, not replaced. Automation mainly reduces administrative tasks, but sales rely on interpersonal trust; AI serves as an auxiliary tool to improve efficiency and insight.
+
+Junior representatives can advance to key account manager, regional sales manager, or transition to product management, market access, etc. With experience, annual salary can exceed CAD 100,000, some enter management.
+
+**Tasks most exposed to AI:**
+
+- Customer data entry and updates
+- Routine email and phone outreach
+- Automated generation and distribution of sales reports
+- Basic collection and organization of market intelligence
+- Basic product information introduction and common Q&A
+
+**Where AI augments the role:**
+
+- AI-driven customer segmentation and personalized recommendations.
+- AI-assisted sales forecasting and territory planning
+- Customer relationship management (CRM) smart reminders and interaction suggestions
+- Real-time AI-assisted customer communication and objection handling
+- Digital learning tools to quickly master product and competitor information
+
+**Human moat:**
+
+- Long-term customer trust and relationship maintenance.
+- Complex negotiation and decision-making skills
+- Cross-department coordination and resource integration
+- In-depth understanding of compliance in the healthcare industry
+- Professional competence in live demonstrations and academic exchanges
+
+**Skills to build:**
+
+- Proficiency in CRM and sales automation tools
+- Data analysis and interpretation skills
+- AI-assisted sales strategy development.
+- Remote communication and digital presentation skills
+- Knowledge of digital marketing in the healthcare industry
+- Agile learning and adaptability
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Express Entry
@@ -62,68 +98,67 @@ Promote and sell pharmaceutical and medical products to healthcare institutions 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类，符合NOC 62100，需满足语言和学历要求。 |
-| Subclass PNP（Provincial Nominee Program） | 如安大略省、不列颠哥伦比亚省提名，有雇主offer可加分。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 获得雇主担保，可加强EE或PNP申请。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Through Federal Skilled Worker or Canadian Experience Class, meeting NOC 62100, with language and education requirements. |
+| Subclass PNP (Provincial Nominee Program) | E.g., Ontario and British Columbia provincial nominations; having an employer offer can add points. |
+| Subclass LMIA (Labour Market Impact Assessment) | Obtaining employer sponsorship can strengthen an Express Entry or PNP application. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales and Account Managers - Wholesale Trade (Non-Technical)？**
-- 有2年以上医药销售经验，沟通能力强的职场人士
-- 希望在加拿大快速就业并移民，接受销售业绩压力
-- 具备商科或生命科学背景，英语能力CLB 7及以上
-
-**谁不适合学Sales and Account Managers - Wholesale Trade (Non-Technical)？**
-- 不习惯销售指标和频繁出差者
-- 对医疗行业无兴趣或缺乏基本医药知识
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with over 2 years of pharmaceutical sales experience and strong communication skills
+- Looking for quick employment and immigration in Canada, accepting sales performance pressure
+- Background in business or life sciences, English proficiency CLB 7 or above
+
+**Who is not suited**
+- Not suitable for those unaccustomed to sales targets and frequent travel
+- No interest in the healthcare industry or lack of basic medical knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a pharmaceutical sales representative in Canada?**
+A: Entry level about CAD 45000-65000, intermediate 65000-90000, senior 90000-130000, all including commission and bonuses.
+
+**Q: Can pharmaceutical sales representatives immigrate to Canada via Express Entry?**
+A: Yes, NOC 62100 belongs to TEER 1 category, meeting FSW and CEC requirements, require at least 1 year of continuous work experience, language CLB 7 and ECA.
+
+**Q: What are the job prospects for this occupation in Canada?**
+A: Good. An aging population drives demand for healthcare, but competition is moderate; experienced candidates find jobs more easily.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Sales and Account Managers - Wholesale Trade (Non-Technical)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a medical sales representative in Canada?**
-答：Entry-level CAD 45,000-65,000, mid-level CAD 65,000-90,000, senior CAD 90,000-130,000, including commissions.
-
-**问：Can a medical sales representative immigrate through Express Entry?**
-答：Yes, NOC 62100 is TEER 1, eligible for FSW and CEC, requiring 1+ year continuous experience, CLB 7 language, and ECA.
-
-**问：What are the job prospects for this occupation in Canada?**
-答：Good. Aging population drives healthcare demand, but competition is moderate; experienced reps have advantage.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

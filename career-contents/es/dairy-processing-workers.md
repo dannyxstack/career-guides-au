@@ -1,58 +1,92 @@
-# Dairy Processing Workers（Dairy Processing Workers）职业分析 · ES
+# Dairy Processing Workers — career analysis · Spain
 
-**职业代码：7704 – Dairy Processing Workers。**
+**Occupation code: 7704 (CNO)**
 
-Responsible for treating milk and manufacturing, processing, and packaging dairy products including ice cream, ensuring product quality and safety.
+Responsible for milk processing and the manufacturing, processing, and packaging of dairy products (including ice cream), ensuring product quality and safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$3,000 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 各自治区卫生部门 | 必备 | 食品安全培训证书，通常为必修 |
-| 职业培训文凭（FP Grado Medio/Superior） | 教育部认可的职业学校 | 可选 | 相关领域如食品加工专业 |
+| Food safety certificate | Health departments of all autonomous regions | Required | Food safety training certificates are usually compulsory |
+| Diploma in Vocational Training (FP Grado Medio/Superior) | Vocational schools recognized by the Ministry of Education | Optional | Related fields include food processing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙乳制品行业稳定，但自动化趋势可能减少低技能岗位。食品安全法规严格，持续需求技术工人，尤其在加泰罗尼亚和加利西亚等产区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Spain's dairy industry is stable, but the trend toward automation may reduce low-skilled jobs. Strict food safety regulations and a continuous demand for skilled workers, especially in regions like Catalonia and Galicia.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班可能更高 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，视企业规模 |
-| 高级（7年以上/主管） | $28,000~$35,000 | 税前年薪，管理岗位 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including overtime, may be higher |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, depending on company size |
+| Senior (7+ years/supervisor) | $28,000~$35,000 | Pre-tax annual salary, management position |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从生产线操作员升至质检员或团队主管。通过FP Grado Superior（高级职业培训）可晋升为技术专家或生产经理。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Dairy manufacturing workers face high automation risk; standardized production processes and large-scale automation equipment have already reduced job demand, narrowing entry-level positions, with poor employment prospects over the next 5 years.
+
+You can advance from production line operator to quality inspector or team leader. Through FP Grado Superior (Advanced Vocational Training), you can be promoted to technical specialist or production manager.
+
+**Tasks most exposed to AI:**
+
+- Using automated equipment for standardized operations such as milk receiving, pasteurization, and separation
+- Automated monitoring of process parameters like temperature and pressure via sensors and PLC systems
+- Automated filling, sealing, and labelling packaging processes
+- Machine Vision-Based Automated Quality Inspection and Sorting
+- Automated CIP cleaning system performs equipment cleaning
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to analyze equipment sensor data and detect faults in advance
+- Use digital twin technology to simulate and optimize production process parameters
+- Rapidly adjusting product formulas to adapt to raw material fluctuations through an AI formula management system
+- Using data analysis tools to optimize production scheduling and inventory management
+
+**Human moat:**
+
+- Emergency response capability for equipment sudden failures and abnormal conditions
+- Sensory evaluation and fine-tuning ability for dairy product flavor and texture
+- Coordination with suppliers and quality inspection departments, and on-site problem solving
+- Experimental development and small-batch trial production of new processes and formulations.
+
+**Skills to build:**
+
+- PLC and HMI operation and basic programming
+- Industrial robot operation and maintenance
+- Data analysis and visualization (e.g., Python, Power BI)
+- Predictive maintenance techniques (vibration analysis, oil analysis)
+- Food safety management systems (HACCP, FSSC 22000)
+- Digital factory software (MES, ERP systems)
+
+**Key growth areas:**
 
 - Food safety
 - Automation
@@ -61,63 +95,62 @@ Responsible for treating milk and manufacturing, processing, and packaging dairy
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 受雇工作居留，需雇主担保及劳动合同，符合最低薪资要求 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适合高技能工人，需高等教育及较高薪资，但本职业通常薪资较低，可能不适用 |
+| Subclass Cuenta ajena (Employed Work Permit) | Employed work residence requires employer sponsorship and a labor contract, meeting minimum wage requirements |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled workers, requires higher education and higher salaries, but this occupation usually pays less and may not be suitable |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dairy Processing Workers？**
-- 喜欢稳定重复性工作、注重食品卫生的人
-- 愿意在工业环境中工作的人
-
-**谁不适合学Dairy Processing Workers？**
-- 追求高薪和高技术含量的人
-- 无法适应生产线高强度节奏的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy stable, repetitive work and pay attention to food hygiene
+- People willing to work in an industrial environment
+
+**Who is not suited**
+- People who pursue high salaries and advanced skills
+- People who cannot adapt to the high-intensity pace of production lines
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for dairy processing workers?**
+A: Entry-level salaries range from about 18,000 to 22,000 euros, while senior managers can reach 28,000 to 35,000 euros, with salaries varying by region and company size.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: Usually, a Spanish employer must provide a work contract to apply for employment residence (Cuenta ajena). This occupation is not considered highly skilled, and the EU Blue Card is not very suitable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dairy Processing Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dairy processing workers?**
-答：Entry-level annual salary is around €18,000-€22,000, senior supervisors can earn €28,000-€35,000, depending on region and company size.
-
-**问：How can foreigners immigrate to Spain through this occupation?**
-答：Usually need a job offer from a Spanish employer to apply for an employed work permit (Cuenta ajena). The EU Blue Card is less applicable due to lower skill level.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

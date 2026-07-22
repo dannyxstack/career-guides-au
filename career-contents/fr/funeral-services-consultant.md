@@ -1,60 +1,93 @@
-# Funeral Services Consultant（Funeral Services Consultant）职业分析 · FR
+# Funeral Services Consultant — career analysis · France
 
-**职业代码：K2602 – Funeral Services Consultant。**
+**Occupation code: K2602 (ROME)**
 
-Professional advisor who assists grieving families with funeral arrangements, ceremony planning, and administrative procedures.
+Providing professional consulting for grieving families in funeral arrangements, ceremony planning, and administrative procedures.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 殡葬服务 | 2年（CAP） | —（可通过学徒制免费学习并获得薪资） |
-| BTS 殡葬技术 | 2年（BTS） | $5,000~$12,000（部分学校提供继续教育） |
+| CAP Funeral Services | 2 years (CAP) | $0~$5,000 (You can study for free through an apprenticeship and earn a salary) |
+| BTS funeral technology | 2 Years (BTS) | $5,000~$12,000 (Some schools offer continuing education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家殡葬职业文凭（CAP） | 法国教育部 | 必备 | 从事殡葬服务法定所需最低文凭 |
-| 殡仪馆经营许可 | 省行政当局 | 必备 | 开设殡仪馆需获得 prefectoral 授权 |
+| National Funeral Professional Diploma (CAP) | French Ministry of Education | Required | The legally required minimum diploma for performing funeral services |
+| Funeral home operation license | Provincial administrative authorities | Required | Opening a funeral home requires prefectoral authorization |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国殡葬行业需求稳定，受人口老龄化推动，预计未来十年就业保持平稳。行业集中度高，大型集团占主导。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand in France's funeral industry remains stable, driven by population aging, and employment is expected to remain stable over the next decade. The industry is highly concentrated, with large groups dominating.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，主管或经理更高 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Pre-tax annual salary, higher for supervisors or managers |
+| average salary | $23,220 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从殡葬顾问晋升为丧葬主管或经理，也可专业化至遗体防腐或追悼会策划。部分人开设独立殡仪馆。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core empathy and planning responsibilities of funeral service consultants are hard to replace, but administrative procedures and document writing can be significantly automated by AI, requiring practitioners to transform into technology-enhanced consultants.
+
+You can be promoted from funeral consultant to funeral supervisor or manager, or specialize in body embalming or memorial event planning. Some have established independent funeral homes.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate legal documents such as death certificates and cremation permits
+- Handle common inquiries and appointment scheduling through chatbots
+- Automated inventory management and supplier order processing
+- Generate standardized texts such as basic obituaries and invitations
+
+**Where AI augments the role:**
+
+- AI-assisted planning of personalized ceremonies (such as generating music/visual solutions)
+- Data analysis optimizes service processes and cost control
+- Virtual reality tools help families rehearse ceremony setups
+- Real-time translation supports multilingual family communication
+
+**Human moat:**
+
+- Deep empathy and grief counseling skills
+- Cross-cultural sensitivity and personalized ritual design
+- Flexibility to handle emergencies
+- Highly complex coordination with religious institutions and government departments
+
+**Skills to build:**
+
+- Digital literacy (CRM and virtual reality tool operation)
+- Basic data analysis skills
+- Enhance communication skills (AI-assisted conversation)
+- Interdisciplinary knowledge (psychology, law, digital media)
+- Project management and multitasking coordination skills
+- Continuous learning of AI tool application capabilities
+
+**Key growth areas:**
 
 - Aging population
 - Stable demand
@@ -63,65 +96,64 @@ Professional advisor who assists grieving families with funeral arrangements, ce
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇工作居留，需雇主提供劳动合同并证明招聘困难或资质匹配。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 人才护照，适用于薪酬高于中位数1.5倍的合格工作者。 |
+| Subclass Salarié (Salarié (Employee)) | For employed work residence, the employer must provide a labor contract and prove recruitment difficulties or qualification matching. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | The Talent Passport is for qualified workers with salaries 1.5 times the median. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Funeral Services Consultant？**
-- 具有同理心和沟通能力的人
-- 能够承受悲伤氛围并稳定情绪的人
-- 喜欢组织规划和执行细节的人
-
-**谁不适合学Funeral Services Consultant？**
-- 对死亡话题极度敏感或不适的人
-- 追求高薪和高技术含量的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and communication skills
+- People who can withstand a sad atmosphere and stabilize their emotions
+- People who enjoy organizing and executing details
+
+**Who is not suited**
+- People who are extremely sensitive or uncomfortable with the topic of death
+- People who pursue high salaries and advanced skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for funeral service consultants in France?**
+A: Entry-level around EUR 22,000-28,000/year, mid-level EUR 30,000-38,000, senior manager EUR 40,000-50,000.
+
+**Q: Can foreigners immigrate to France to become funeral consultants?**
+A: This occupation is limited by French language requirements and cultural differences, and is not in short supply. However, Salarié or Passeport Talent visas can be applied for through employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Funeral Services Consultant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a funeral services consultant in France?**
-答：Entry-level around €22,000-28,000 per year, mid-level €30,000-38,000, senior supervisor €40,000-50,000.
-
-**问：Can foreigners immigrate to France as funeral consultants?**
-答：This profession is not in shortage, but employer-sponsored visas like Salarié or Passeport Talent are possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

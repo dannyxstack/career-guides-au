@@ -1,60 +1,96 @@
-# Insurance Underwriter（Insurance Underwriter）职业分析 · FR
+# Insurance Underwriter — career analysis · France
 
-**职业代码：C1110 – Insurance Underwriter。**
+**Occupation code: C1110 (ROME)**
 
-Insurance underwriters assess insurance applications, calculate premiums, and set underwriting terms to ensure profitability and risk balance for insurers.
+Underwriters are responsible for assessing the risks of insurance applications, calculating premiums, and drafting underwriting terms to ensure the balance between profitability and risk for the insurance company.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（Master） | $8,000~$15,000（公立大学约250欧元/年，商学院8000-15000欧元/年） |
-| 本科（Bac+3） | 3年（Licence） | $200~$8,000（公立大学约200欧元/年，私立商学院可达8000欧元/年） |
-| 学徒制（Alternance） | 2-3年 | —（学徒制通常由企业承担学费，学生领取工资） |
+| Master's (BAC+5) | 5 years (Master) | $8,000~$15,000 (Public universities cost about 250 euros per year, while business schools cost 8,000-15,000 euros per year) |
+| Undergraduate (Bac+3) | 3 years (Licence) | $200~$8,000 (Public university approx. 200 EUR/year, private business school up to 8,000 EUR/year) |
+| Apprenticeship (Alternance) | 2-3 years | $0~$0 (Apprenticeships are usually funded by companies and students receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保险经纪人注册（ORIAS） | ORIAS | 可选 | 从事保险中介必须注册，承保人非强制但建议 |
-| 保险专业硕士（Master en Assurance） | 大学或商学院 | 可选 | 如巴黎多芬纳大学、EM Lyon等 |
-| 法国保险学院文凭（IFCAM） | IFCAM | 可选 | 法国保险业培训中心，提供专业认证 |
+| Insurance Broker Registration (ORIAS) | ORIAS | Optional | Insurance brokerage registration is required; underwriters are not mandatory but recommended |
+| Master en Assurance | University or business school | Optional | Such as Paris Dauphneau University, EM Lyon, and others |
+| French Insurance School Diploma (IFCAM) | IFCAM | Optional | French insurance industry training center, offering professional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国保险市场稳定，但数字化转型推动自动化承保，初级岗位竞争激烈，资深承保人仍受青睐。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. The French insurance market is stable, but digital transformation is driving automated underwriting, with fierce competition for entry-level positions, and experienced underwriters still favored.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-8年） | $38,000~$50,000 | 税前年薪 |
-| 高级（8年以上） | $50,000~$70,000 | 税前年薪，经理级可达80000+ |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (8+ years) | $50,000~$70,000 | Pre-tax annual salary: Manager level can reach up to 80,000+ |
+| average salary | $31,218 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级承保人晋升为资深承保人，可转向核保经理、再保险专家或风险管理高管，需持续学习数据分析技能。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The work of underwriters will be significantly reshaped by AI: automation will take over risk scoring and data organization, but underwriting decisions based on experience, regulations, and complex narratives remain human advantages. Practitioners must transition into high-value analytics, product design, and AI collaboration roles.
+
+Upgrading from junior underwriter to senior underwriter can lead to underwriting managers, reinsurance specialists, or risk management executives, requiring continuous learning of data analysis skills.
+
+**Tasks most exposed to AI:**
+
+- Standard risk assessment and rate quotes based on historical data
+- Automated generation of policy terms and format checking
+- Routine data entry, file archiving, and information retrieval
+- Basic classification and labeling of customer risk characteristics
+- Regular reports and automatic data summary generation
+
+**Where AI augments the role:**
+
+- Quickly obtain external data (weather, geography, industry trends) to assist complex risk assessment
+- Use AI simulation tools for scenario testing and pricing optimization of large insurance policies
+- Analyze hidden risks in client documents and medical reports through natural language processing
+- Real-time monitoring of risk exposures in existing policy portfolios to warn of potential losses
+- Collaborating with AI to design new insurance policy terms and pricing models
+
+**Human moat:**
+
+- Experienced underwriting: Identifying hidden factors in non-standard or abnormal risks
+- Regulatory and ethical discretion: Ensuring the underwriting process complies with regulatory compliance requirements
+- Complex negotiations: Discussing special terms and disputes with brokers and clients
+- Cross-departmental collaboration: Develop underwriting strategies with actuarial, claims, and product teams
+- Customer relationship maintenance: Explain underwriting decisions to customers and build trust
+
+**Skills to build:**
+
+- AI/Machine Learning Basics: Understanding how models work and the risk of bias
+- Data visualization and business analysis (such as Tableau, Python)
+- RegTech and compliance automation tools
+- Complex risk modeling: Bayesian networks, Monte Carlo simulations
+- Human-machine collaborative communication: Explain AI output and propose adjustment suggestions
+- Industry expertise (such as marine insurance, cybersecurity insurance)
+
+**Key growth areas:**
 
 - Digitalization
 - Data Analytics
@@ -63,68 +99,67 @@ Insurance underwriters assess insurance applications, calculate premiums, and se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需年薪≥53,836.80欧元（2025年标准），合同≥3个月 |
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，需证明职位无法由欧盟公民填补 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需年薪≥53,836.80欧元（紧缺职业可降低），合同≥1年 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, with an annual salary of ≥53,836.80 euros (2025 standard) and a contract ≥ 3 months |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship and proof that the position cannot be filled by an EU citizen |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires annual salary ≥ 53,836.80 EUR (reduced for shortage occupations), contract ≥ 1 year |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Underwriter？**
-- 具备数据分析和风险评估能力的人
-- 喜欢稳定、规范化工作环境的人
-- 有耐心处理复杂文档和法规细节的人
-
-**谁不适合学Insurance Underwriter？**
-- 厌恶重复性案头工作的人
-- 偏好创意或快速变化行业的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with data analysis and risk assessment capabilities
+- People who like a stable, structured work environment
+- People who patiently handle complex documents and regulatory details
+
+**Who is not suited**
+- People who dislike repetitive desk work
+- People who prefer creativity or rapidly changing industries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French insurance underwriters?**
+A: Junior salaries are about 30k-38k euros, intermediate salaries 38k-50k, senior salaries 50k-70k, and managers can reach up to 80k+. The Paris area is higher.
+
+**Q: How can foreign insurance underwriters immigrate to France?**
+A: You can use the Salarié work residence (employer-sponsored) visa, Passeport Talent (annual salary ≥ €53,836.80), or the EU Blue Card. Fluent French (B2 or above) required.
+
+**Q: What core skills are needed to become an underwriter?**
+A: Data analysis, risk assessment, regulatory knowledge, communication skills. Proficiency in Excel and insurance software, with English and French both important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Insurance Underwriter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for insurance underwriters in France?**
-答：Entry-level annual salary is around €30k-38k, mid-level €38k-50k, senior €50k-70k, with managers reaching €80k+. Paris offers higher ranges.
-
-**问：How can foreign insurance underwriters immigrate to France?**
-答：Via Salarié work permit (employer sponsorship), Talent Passport (salary ≥€53,836.80), or EU Blue Card. French fluency (B2+) required.
-
-**问：What core skills are needed to become an insurance underwriter?**
-答：Data analysis, risk assessment, regulatory knowledge, communication. Proficiency in Excel and insurance software, with both French and English important.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

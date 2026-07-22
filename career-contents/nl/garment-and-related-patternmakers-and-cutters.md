@@ -1,60 +1,89 @@
-# Garment and Related Patternmakers and Cutters（Garment and Related Patternmakers and Cutters）职业分析 · NL
+# Garment and Related Patternmakers and Cutters — career analysis · Netherlands
 
-**职业代码：7532 – Garment and Related Patternmakers and Cutters。**
+**Occupation code: 7532 (ISCO08)**
 
-Garment patternmakers and cutters create patterns and cut fabrics based on designs, playing a key technical role in garment production.
+Pattern makers and cutters create garment patterns and cut fabric based on designs, key technical roles in the garment production process.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | —（学费由政府资助，每年约€1,200-€2,000） |
-| 高等职业教育（HBO） | 4年（本科） | $2,200~$5,000（每年学费约€2,200（欧盟生），非欧盟生约€8,000-€12,000） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $0~$2,000 (Tuition is government-funded, approximately €1,200-€2,000 per year.) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $2,200~$5,000 (Annual tuition approx. €2,200 (EU students), non-EU students approx. €8,000-€12,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 服装制版师职业资格 | 荷兰职业教育机构（ROC） | 可选 | MBO级别文凭，非强制但为行业普遍要求 |
-| 裁剪工技能证书 | 荷兰服装行业协会 | 可选 | 部分雇主偏好持有证书的候选人 |
+| Garment Pattern Maker Vocational Qualification | Netherlands vocational education institutions (ROC) | Optional | MBO level diploma, not mandatory but industry standard. |
+| Tailor skills certificate | Dutch Clothing Industry Association. | Optional | Some employers prefer candidates with certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,800。荷兰服装制造业规模较小且持续萎缩，但定制和高端服装领域仍需经验丰富的制版师和裁剪师。行业整体就业机会有限，竞争较为激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,800. The Dutch apparel manufacturing industry is small and shrinking, but custom and high-end clothing still require experienced pattern makers and cutters. Overall job opportunities are limited and competition is relatively high.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，起薪较低 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，有经验后薪资上升 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，高级制版师或管理岗位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, with a relatively low starting salary. |
+| Mid-level (3–7 years) | $28,000~$35,000 | Gross annual salary, increases with experience |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, senior pattern maker or management position |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级裁剪师可晋升为高级裁剪师或制版师，也可转向服装设计或生产技术管理岗位。积累经验后有机会在奢侈品或定制服装领域发展。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI's impact on pattern makers and cutters is mixed: automated layout and cutting software will greatly improve efficiency, but creative design and manual adjustments remain hard to replace, potentially reducing entry-level positions while increasing demand for experienced staff.
+
+Junior cutters can advance to senior cutters or pattern makers, and may also transition to fashion design or production management. With experience, opportunities may arise in luxury or custom tailoring.
+
+**Tasks most exposed to AI:**
+
+- Auto marker-making software optimizes fabric layout, reducing manual marking work.
+- AI-driven automatic cutting machine for precise cutting
+- Intelligent pattern-making system automatically generates basic patterns from design drawings
+
+**Where AI augments the role:**
+
+- AI design tools assist in quickly generating and modifying multiple style variants
+- 3D virtual fitting system reduces number of physical sample garments
+- Data-driven trend analysis helps predict popular elements
+
+**Human moat:**
+
+- Intuitive judgment of ergonomics and wearing comfort
+- Complex three-dimensional tailoring and haute couture handcraft techniques
+- Experience and creative adjustments in handling special fabrics
+
+**Skills to build:**
+
+- Proficiency in CAD pattern-making software (e.g., Optitex, Gerber)
+- learning 3D fashion design tools (e.g., CLO 3D, Browzwear)
+- Understand basic programming to customize automation tools
+- Data analysis skills for market trend forecasting
+- Familiar with maintenance and programming of automatic fabric cutting robots
+
+**Key growth areas:**
 
 - Custom tailoring
 - High-end fashion
@@ -63,65 +92,67 @@ Garment patternmakers and cutters create patterns and cut fabrics based on desig
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需薪资达到门槛（2024年约€5,008/月） |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟工人，需有工作合同和较高薪资 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的留学生，可在此后一年内寻找工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants, requires meeting the salary threshold (about €5,008/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU workers, requires a work contract and higher salary |
+| Subclass Orientation Year (Orientation Year) | Available to graduates from Dutch institutions, allowing one year to find work after graduation |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Garment and Related Patternmakers and Cutters？**
-- 对服装制作有热情，注重细节的人
-- 愿意学习传统手工艺并适应技术变革的人
+**Who is suited**
+- Individuals passionate about garment making and detail-oriented
+- People willing to learn traditional craftsmanship and adapt to technological changes
 
-**谁不适合学Garment and Related Patternmakers and Cutters？**
-- 寻求高薪和快速晋升的人
-- 不擅长重复性手工操作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who are not good at repetitive manual operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for pattern makers and cutters in the Netherlands?**
+A: Junior salary approx. €22,000-€28,000/year, mid-level approx. €28,000-€35,000/year, senior up to €45,000/year, below the Dutch average wage.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: This occupation is not in shortage, and the work permit threshold is high. Usually requires high-skilled migration or an EU Blue Card visa, but salary requirements are high and difficult to meet.
+
+**Q: What is the future outlook for this occupation?**
+A: The Dutch garment manufacturing industry continues to shrink, with automation and AI technology potentially replacing some cutting work. However, opportunities remain in high-end tailoring and sustainable fashion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Garment and Related Patternmakers and Cutters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for patternmakers and cutters in the Netherlands?**
-答：Entry-level salary is around €22,000-€28,000 per year, mid-level €28,000-€35,000, senior up to €45,000, below national average.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：This occupation is not on the shortage list, making work permits challenging. Highly Skilled Migrant or EU Blue Card may apply, but salary thresholds are high.
-
-**问：What is the future outlook for this occupation?**
-答：The clothing manufacturing sector in the Netherlands continues to decline, with automation and AI threatening some tasks. However, opportunities exist in high-end custom tailoring and sustainable fashion.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

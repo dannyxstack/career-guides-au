@@ -1,63 +1,98 @@
-# Hazardous Materials Removal Workers（Hazardous Materials Removal Workers）职业分析 · 美国
+# Hazardous Materials Removal Workers — career analysis · United States
 
-**职业代码：47-4041 – Hazardous Materials Removal Workers。**
+**Occupation code: 47-4041 (SOC)**
 
-Identify, remove, pack, transport, or dispose of hazardous materials such as asbestos, lead-based paint, waste oil, radioactive materials, or contaminated soil. Specialized training and certification are required; may operate earth-moving equipment or trucks.
+Responsible for identifying, removing, packaging, transporting, or disposing of hazardous materials such as asbestos, lead-based paint, waste oil, fuel, radioactive substances, or contaminated soil. Typically requires specialized training and certification; may operate earthmoving equipment or trucks.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 职业学校培训或学徒制 | 6-12个月 | $3,000~$15,000（社区学院或私立培训费用） |
-| 认证培训（如OSHA 40小时） | 1-2周 | $500~$1,500（认证课程费用） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| Vocational school training or apprenticeship | 6–12 months | $3,000~$15,000 (Community college or private training fees) |
+| Certified training (e.g., OSHA 40-hour) | 1-2 weeks | $500~$1,500 (Certification course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| OSHA 40小时危险品操作培训证书 | 美国职业安全与健康管理局（OSHA）认可培训机构 | 必备 | 进入工地前必须完成的基础培训 |
-| 石棉清除认证 | 各州环境或健康部门 | 必备 | 处理石棉的必备认证，各州要求不同 |
-| 商业驾驶执照（CDL） | 各州机动车辆管理局 | 可选 | 如需驾驶运输危险品的车辆 |
-| 高空作业或受限空间认证 | OSHA认可培训机构 | 可选 | 涉及高空或密闭空间作业时可能需要 |
+| OSHA 40-hour hazardous materials operations training certificate | U.S. Occupational Safety and Health Administration (OSHA) recognized training provider | Required | Basic training required before entering a construction site |
+| Asbestos removal certification | State environment or health departments | Required | Mandatory certification for handling asbestos, requirements vary by state |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | If required to drive vehicles transporting dangerous goods |
+| High-altitude or confined space certification | OSHA-approved training providers | Optional | May be required when working at heights or in confined spaces |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 52,000。预计2023-2033年就业增长约6%，与所有职业平均增速相近。环境法规趋严和老化建筑翻新推动需求。就业机会主要分布在专业清洁服务、政府机构和建筑公司。
+**Job demand: medium (★★½☆☆).** National workforce approx. 52,000. Employment is projected to grow about 6% from 2023 to 2033, about as fast as the average for all occupations. Stricter environmental regulations and aging building renovations drive demand. Job opportunities are mainly in professional cleaning services, government agencies, and construction companies.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 起薪较低，通常包含加班费 |
-| 中级（3-7年） | $45,000~$60,000 | 经验丰富者薪资提升 |
-| 高级（7年以上） | $60,000~$75,000 | 主管或技术专家薪资更高 |
+| Median salary | $49,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary is low, usually includes overtime pay. |
+| Mid-level (3–7 years) | $45,000~$60,000 | Salary increases with experience |
+| Senior (7+ years) | $60,000~$75,000 | Salaries higher for supervisors or technical experts |
+| average salary | $56,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级工人可通过积累经验和考取更高等级认证（如石棉监督员、项目经理）晋升为主管或培训师。部分人转向环境咨询或安全监督岗位。持续教育和专业认证对晋升至关重要。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation will have a mixed impact on hazardous materials removal workers: remote sensing and robots can replace some high-risk identification and cleanup tasks, but strict regulations, on-site judgment, and physical operation requirements remain core human advantages.
+
+Entry-level workers can advance to supervisors or trainers by gaining experience and obtaining higher-level certifications (e.g., asbestos supervisor, project manager). Some transition to environmental consulting or safety supervision roles. Continuing education and professional certification are crucial for advancement.
+
+**Tasks most exposed to AI:**
+
+- Using drones or robots for initial detection and localization of hazardous materials.
+- Automated sampling and analysis (e.g., air monitoring laboratory processes)
+- Standardized decontamination and packaging processes (e.g., robot-operated)
+- Generate compliance reports and checklists (AI auto-fill)
+
+**Where AI augments the role:**
+
+- AI-assisted real-time hazard identification and on-site risk assessment
+- Wearable sensors to monitor worker health and issue alerts
+- Automated document management and compliance checks
+- Remote specialist systems provide complex treatment plans
+- Intelligent planning of optimal removal routes and equipment scheduling
+
+**Human moat:**
+
+- On-site safety decisions and emergency handling
+- Manual handling of precise or non-standard dangerous goods
+- Regulatory compliance judgment and documentation
+- Client communication and on-site coordination
+- Physical fitness and adaptability to harsh environments
+
+**Skills to build:**
+
+- Robot operation and maintenance
+- Use of AI risk assessment tools (e.g., AI-assisted monitoring software)
+- Data analysis and compliance reporting automation
+- Drone operation and image analysis
+- Dangerous goods education consulting and training
+- Continuously update regulatory knowledge
+
+**Key growth areas:**
 
 - Environmental regulations
 - Infrastructure renovation
@@ -66,65 +101,67 @@ Identify, remove, pack, transport, or dispose of hazardous materials such as asb
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 临时非农业工人签证，可用于季节性或有明确短期需求的危险品清除工作，但雇主需证明劳动力短缺且已尝试招募美国工人。 |
-| Subclass Green Card (EB-3)（EB-3 Skilled Workers） | 职业移民第三优先，如果雇主愿意进行PERM劳工证申请并证明无法找到合格美国工人，但通常不常见，因为该职业技能门槛不高。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural worker visa, can be used for seasonal or clearly short-term hazardous waste removal work, but employer must prove labor shortage and attempted recruitment of US workers. |
+| Subclass Green Card (EB-3) (EB-3 Skilled Workers) | Third preference for employment-based immigration, if the employer is willing to file a PERM labor certification and prove no qualified US workers are available, but this is uncommon because the occupation's skill threshold is not high. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hazardous Materials Removal Workers？**
-- 身体健壮、能承受高强度体力劳动且注重安全的人
-- 愿意学习危险品处理程序并严格遵循法规的人
-- 不介意有害环境且希望获得稳定工作的人
+**Who is suited**
+- physically strong, able to handle intense manual labor, and safety-conscious individuals
+- Those willing to learn hazardous materials handling procedures and strictly follow regulations
+- People who do not mind hazardous environments and want a stable job
 
-**谁不适合学Hazardous Materials Removal Workers？**
-- 对粉尘、化学气味敏感或患有呼吸系统疾病的人
-- 追求高薪或快速职业晋升的人
+**Who is not suited**
+- People sensitive to dust, chemical odors, or with respiratory diseases
+- People pursuing high salary or fast career promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hazardous materials removal workers?**
+A: According to BLS 2023 data, median annual salary approx. $47,760. Entry-level about $35,000-45,000, senior can exceed $75,000. Salary varies by region, experience, certification, and employer; union positions typically offer better benefits.
+
+**Q: Can hazardous materials removal workers obtain a U.S. green card through employment-based immigration?**
+A: Difficult. This occupation is generally not considered high-skilled, making it hard for employers to prove a lack of qualified US workers via PERM. Exceptions exist for those with specialized skills or in supervisory roles, but overall immigration pathways are narrow.
+
+**Q: What certifications are needed for hazardous material removal work?**
+A: Generally require OSHA 40-hour hazardous waste operations training certificate. Handling asbestos requires additional state-level certifications. Some jobs require commercial driver's license (CDL) or OSHA confined space, working at heights certifications, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hazardous Materials Removal Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of hazardous materials removal workers?**
-答：According to BLS 2023 data, median annual wage is about $47,760. Entry-level $35,000-$45,000, experienced up to $75,000+. Pay varies by location, experience, certification, and employer; union jobs often offer better compensation.
-
-**问：Can hazardous materials removal workers get a US green card through employment?**
-答：Difficult. The occupation is generally not considered high-skilled, and employers struggle to prove shortage of qualified US workers via PERM. Exceptions exist for specialized skills or supervisory roles, but overall immigration pathways are narrow.
-
-**问：What certifications are required to work as a hazardous materials removal worker?**
-答：Typically OSHA 40-hour HAZWOPER certificate is mandatory. Asbestos removal requires state-specific certification. CDL and OSHA confined space/fall protection certifications may be needed.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

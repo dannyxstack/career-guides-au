@@ -1,58 +1,92 @@
-# Painter and Related Worker（Painter and Related Worker）职业分析 · IT
+# Painter and Related Worker — career analysis · Italy
 
-**职业代码：7131 – Painter and Related Worker。**
+**Occupation code: 7131 (ISCO08)**
 
-Painters in Italy apply paints, varnishes, and other coatings to buildings, vehicles, and furniture, involving surface preparation and various application techniques. Often employed by construction firms or self-employed.
+Italian painters are responsible for coating and protecting surfaces of buildings, vehicles, furniture, etc., including paint selection, surface preparation, brushing, spraying, etc. They are usually employed by construction companies or self-employed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 3年（高中） | —（公立学校免费，仅教材费） |
-| 职业培训证书 | 1-2年 | —（部分地区免费，自费课程约500-2000欧元） |
+| High school graduation | 3 years (high school) | $0~$500 (Public schools are free, only the textbook fee is required) |
+| Vocational training certificate | 1-2 years | $0~$2,000 (Free in some regions, self-funded courses cost around 500-2000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证（Qualifica Professionale） | 大区职业培训中心 | 必备 | 完成培训后获得，部分地区强制 |
-| 安全培训证书 | INAIL或认可机构 | 必备 | 涉及脚手架、有害物质操作等必须 |
+| Professional Qualification (Qualifica Professionale) | Regional vocational training center | Required | Obtained after completing training; mandatory in some areas |
+| Safety training certificate | INAIL or accredited body | Required | Involving scaffolding, hazardous material handling, etc., must be mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。意大利建筑行业回暖及老建筑翻新需求持续，油漆工就业前景稳定。但受经济周期影响较大，北部工业区机会更多。移民劳工占比高，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Steady employment outlook for painters due to recovery in Italy's construction industry and ongoing demand for old building renovations. However, heavily affected by economic cycles, with more opportunities in northern industrial areas. High proportion of migrant workers, moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 税前年薪，学徒期较低 |
-| 中级（3-8年） | $22,000~$30,000 | 税前，含加班可能更高 |
-| 高级（8年以上） | $30,000~$40,000 | 税前，工头或专精领域可达 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$22,000 | Pre-tax annual salary, relatively low apprenticeship |
+| Mid-level (3–8 years) | $22,000~$30,000 | Before tax, overtime may increase |
+| Senior (8+ years) | $30,000~$40,000 | Before tax, up to foreman or specialized field |
+| average salary | $26,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒或帮工起步，积累经验后可晋升为工头或项目经理，也可专攻特殊涂装（如汽车、艺术漆）提升收入。部分人自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
+
+Start as an apprentice or helper, gain experience to advance to foreman or project manager, or specialize in custom painting (e.g., automotive, artistic paint) to increase income. Some start their own businesses.
+
+**Tasks most exposed to AI:**
+
+- Color formulation and swatch matching (AI vision systems can automatically identify and adjust colors)
+- Wall area measurement and material quantity calculation (AI measurement tools replacing manual estimation)
+- Operation and supervision of automatic spray painting machines (automated coating systems)
+- Wallpaper pattern alignment and cutting optimisation (computer vision-assisted)
+
+**Where AI augments the role:**
+
+- Complex texture and antique effect designs (AI generates creative templates for reference)
+- On-site defect detection (AI vision assists in finding subtle unevenness and color differences)
+- Customer communication and preview (AI-generated 3D renders for client confirmation)
+- Project quotation and schedule management (AI automates estimation and scheduling)
+- Safety monitoring and construction quality recording (AI real-time monitoring tool)
+
+**Human moat:**
+
+- Fine manual skills (e.g., French polishing, wood staining cannot be fully automated)
+- On-site adaptability (handling irregular surfaces and unexpected issues)
+- Aesthetic judgment and client communication (understanding personalized needs and providing artistic advice)
+- Safety compliance and multi-trade coordination (on-site management is irreplaceable)
+
+**Skills to build:**
+
+- Master digital measurement and color matching software (e.g., Sherwin-Williams ColorSnap)
+- Learn to use spray painting robots and automated coating equipment
+- Improve project management and client communication skills
+- Learning 3D rendering and VR preview tools (e.g., SketchUp or Unreal Engine)
+- Knowledge of eco-friendly paints and sustainable construction techniques
+- Basic data analysis and electronic document processing
+
+**Key growth areas:**
 
 - Building renovation
 - EU Recovery Fund
@@ -61,68 +95,67 @@ Painters in Italy apply paints, varnishes, and other coatings to buildings, vehi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟工人通过年度配额申请，需雇主担保，适用于非紧缺职业。配额有限，竞争激烈。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工人，油漆工通常不满足薪资门槛（2023年约€28,000），适用性低。 |
-| Subclass 自雇签证（Lavoro Autonomo（Self-Employment Visa） | 需证明有足够资金和商业计划，适合计划独立承接项目的油漆工。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers apply through an annual quota, requiring employer sponsorship, applicable to non-shortage occupations. Quotas are limited, and competition is intense. |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, painters generally do not meet the salary threshold (approx. €28,000 in 2023), so applicability is low. |
+| Subclass Self-Employment Visa (Lavoro Autonomo) (Self-Employment Visa) | Need to prove sufficient funds and a business plan, suitable for painters planning to independently take on projects. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Painter and Related Worker？**
-- 喜欢动手、耐心细致的人
-- 愿意从事体力劳动、不怕粉尘和化学品的人
-- 希望在建筑行业稳步发展的人
-
-**谁不适合学Painter and Related Worker？**
-- 对油漆气味或化学品过敏者
-- 不擅长与客户沟通或独立工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are patient and detail-oriented
+- People willing to do physical labor and not afraid of dust and chemicals
+- Those seeking steady growth in the construction industry
+
+**Who is not suited**
+- Those allergic to paint fumes or chemicals
+- People who are not good at communicating with clients or working independently
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a painter in Italy?**
+A: Junior: about €16,000-22,000/year, mid-level: €22,000-30,000/year, senior: up to €40,000/year. Higher in northern industrial areas and self-employment.
+
+**Q: How can foreigners get a work visa as a painter in Italy?**
+A: Mainly through annual Decreto Flussi quotas, requiring employer sponsorship. Self-employment visas are also available. EU citizens can move freely.
+
+**Q: What are the career development opportunities for painters?**
+A: Can advance to foreman, project manager, or specialise in automotive painting, artistic paints, etc., with higher income. Can also start own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Painter and Related Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a painter in Italy?**
-答：Entry-level around €16,000-22,000/year, mid-level €22,000-30,000/year, senior up to €40,000/year. Higher in northern industrial areas and for self-employed.
-
-**问：How can a foreigner get a work visa as a painter in Italy?**
-答：Mainly through the Decreto Flussi annual quota with employer sponsorship. Alternatively, self-employment visa. EU citizens have free movement.
-
-**问：What career development opportunities exist for painters?**
-答：Advance to foreman, project manager, or specialize in automotive painting, decorative finishes, etc. Self-employment is also common.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services（First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services）职业分析 · 美国
+# First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services — career analysis · United States
 
-**职业代码：39-1014 – First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services。**
+**Occupation code: 39-1014 (SOC)**
 
-Directly supervise and coordinate activities of entertainment and recreation workers, such as those in amusement parks, fitness centers, and sports facilities.
+Directly supervise and coordinate the activities of recreation and entertainment workers, including operations management at amusement parks, theme parks, fitness centres, etc.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常最低要求） |
-| 副学士学位 | 2年 | $10,000~$30,000（休闲管理或相关领域） |
-| 学士学位 | 4年 | $40,000~$120,000（商业管理或休闲管理，利于晋升） |
+| High school diploma | 0 years | $0~$0 (Typically minimum requirements) |
+| Associate degree | 2 years | $10,000~$30,000 (Leisure management or related field) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Business management or leisure management, beneficial for advancement) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 休闲管理相关学位 | 大学或社区学院 | 可选 | 非强制但晋升有优势 |
-| 急救/心肺复苏认证 | 美国红十字会等 | 可选 | 部分雇主要求 |
-| 游乐设施操作认证 | 各州或ASTM | 可选 | 如涉及游乐设施则强制 |
+| Degree in leisure management | University or community college | Optional | Not mandatory but advantageous for advancement |
+| First aid/CPR certification | American Red Cross, etc. | Optional | Some employers require |
+| Amusement Ride Operation Certification | By state or ASTM | Optional | Mandatory if involving amusement rides |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 115,000。预计未来十年就业增长5%-7%，受休闲消费增长和健康生活趋势推动。但自动化售票和自助服务可能限制部分岗位需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 115,000. Projected employment growth of 5%-7% over the next decade, driven by growth in leisure spending and health trends. But automated ticketing and self-service may limit some roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 小规模设施或季节性岗位 |
-| 中级（4-9年） | $40,000~$55,000 | 中等规模场所的日常主管 |
-| 高级（10年以上） | $55,000~$75,000 | 大型主题公园或区域管理人员 |
+| Median salary | $48,560 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Small-scale facilities or seasonal positions |
+| Intermediate (4-9 years) | $40,000~$55,000 | Daily supervisor of a medium-sized venue. |
+| Senior (10+ years) | $55,000~$75,000 | Large theme park or regional management roles |
+| average salary | $53,550 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径通常从娱乐休闲工作人员起步，晋升为部门主管，再向区域经理或运营总监发展。需积累客户服务、人员管理和预算控制经验。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Entertainment and recreation supervisors face risk of AI automating some administrative scheduling tasks, but core duties like interpersonal coordination, emergency handling, and technical supervision are hard to replace. Meanwhile, AI tools can improve operational efficiency and service personalization, overall mixed.
+
+Career paths typically start as entertainment or recreation workers, advance to department supervisors, then progress to regional managers or operations directors. Requires accumulating experience in customer service, personnel management, and budget control.
+
+**Tasks most exposed to AI:**
+
+- Scheduling and Shift Planning: AI automatically optimizes employee schedules, reducing manual coordination.
+- Ticket sales and verification: self-service ticket machines and AI customer service replacing manual counters.
+- Passenger flow prediction: AI analyzes historical data to predict peaks, replacing manual estimation.
+- Inventory management: AI automatically monitors and replenishes consumables
+- Basic complaint response: AI chatbots handle common issues.
+
+**Where AI augments the role:**
+
+- Personalized service recommendations: AI analyzes customer preferences to assist supervisors in designing promotions.
+- Security monitoring: AI video analysis provides real-time alerts, enhancing supervisor oversight.
+- Employee training: AI generates immersive training content to improve training efficiency.
+- Equipment maintenance alerts: AI predicts equipment failures, reducing unexpected downtime.
+- Marketing strategy: AI analyzes market trends to assist in pricing and activity planning.
+
+**Human moat:**
+
+- On-site emergency response: sudden incidents (e.g., equipment failure, customer conflicts) require immediate supervisor decision-making.
+- Team Morale and Motivation: Unstructured Human Interaction That AI Cannot Replace
+- Event creative planning: requires understanding local culture and client psychology.
+- Complex complaint handling: involves emotional support and multi-party coordination.
+- Compliance oversight: ensuring safety standards and regulations are met, requiring human judgment.
+
+**Skills to build:**
+
+- AI tool usage: proficiency in data analysis platforms (e.g., Tableau) and scheduling systems.
+- Digital marketing: leveraging social media and AI promotion tools.
+- Customer experience design: learn service design principles to integrate AI-enhanced experiences.
+- Crisis management: training to handle technical failures or interpersonal conflicts.
+- Data interpretation: Extracting insights from AI reports and turning them into actions.
+- Budget analysis: use AI financial tools to optimize costs.
+
+**Key growth areas:**
 
 - recreational services
 - health and fitness trends
@@ -65,66 +101,68 @@ Directly supervise and coordinate activities of entertainment and recreation wor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，因主管职位通常不满足专业职业要求 |
-| Subclass L-1（L-1 Intracompany Transferee） | 仅限跨国公司内部调动的管理人员 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能通过PERM申请，但需证明劳工短缺，难度较大 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, as supervisor roles typically do not meet professional occupation requirements |
+| Subclass L-1 (L-1 Intracompany Transferee) | Limited to managers transferred within multinational companies |
+| Subclass EB-3 (EB-3 Skilled Workers) | May apply via PERM, but must prove labor shortage; quite difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services？**
-- 喜欢活跃工作环境，擅长与人互动
-- 有组织协调能力和应急处理能力
-- 对娱乐休闲行业有热情
+**Who is suited**
+- Enjoys active work environment, good at interacting with people
+- Has organizational coordination and emergency response skills
+- Passionate about the entertainment and leisure industry
 
-**谁不适合学First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services？**
-- 偏好固定办公桌工作
-- 无法适应轮班和节假日工作
+**Who is not suited**
+- Prefer fixed desk work
+- Cannot adapt to shift work and holiday work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a recreation and leisure supervisor?**
+A: According to BLS data, 2023 median salary ~US$47,000, range US$30,000–75,000, depending on facility size and region.
+
+**Q: Can foreigners become entertainment and recreation managers in the US on a work visa?**
+A: Very difficult. This position typically does not meet H-1B specialty occupation requirements, and PERM labor certification is hard to prove shortage. Only L-1 visa from multinational companies or in rare cases EB-3 may apply.
+
+**Q: What education is needed to become a recreation and leisure supervisor?**
+A: Usually a high school diploma is sufficient, but many employers prefer an associate or bachelor's degree (recreation management, business, etc.). Relevant work experience is also important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for First-Line Supervisors of Entertainment and Recreation Workers?**
-答：According to BLS, the median annual wage is about $47,000 in 2023, ranging from $30,000 to $75,000 depending on facility size and location.
-
-**问：Can foreign workers obtain a work visa as a First-Line Supervisor of Entertainment and Recreation Workers in the US?**
-答：Very difficult. This occupation rarely qualifies for H-1B specialty occupation status, and PERM labor certification is challenging due to sufficient domestic workforce. Only L-1 intracompany transfer or limited EB-3 cases may work.
-
-**问：What education is required to become a First-Line Supervisor of Entertainment and Recreation Workers?**
-答：Typically a high school diploma is sufficient, but many employers prefer an associate or bachelor's degree in recreation management or business. Relevant work experience is also crucial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

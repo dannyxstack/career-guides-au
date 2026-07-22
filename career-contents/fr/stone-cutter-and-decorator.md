@@ -1,58 +1,91 @@
-# Stone Cutter and Decorator（Stone Cutter and Decorator）职业分析 · FR
+# Stone Cutter and Decorator — career analysis · France
 
-**职业代码：F1612 – Stone Cutter and Decorator。**
+**Occupation code: F1612 (ROME)**
 
-Cuts, carves, polishes and decorates natural stone for buildings, monuments, tombstones and interior/exterior decoration. Involves both hand tools and machinery, requiring precision and artistic sense.
+Engaged in cutting, carving, polishing, and decorating natural stone, used in architecture, monuments, tombstones, and interior and exterior decoration. The work involves both manual and machine operation, requiring refined skills and aesthetics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 石材加工 | 2年（CAP） | —（公立学校免费，私立学校约€500-1500/年；学徒制有工资） |
-| Bac Pro 石材工艺 | 3年（Bac Pro） | —（公立教育免费，材料费自理；学徒制带薪） |
+| CAP stone processing | 2 years (CAP) | $0~$1,500 (Public schools are free, private schools about €500-1500 per year; Apprenticeships are paid) |
+| Bac Pro stone craftsmanship | 3 years (Bac Pro) | $0~$2,000 (Public education is free, but materials are self-paid; Apprenticeships are paid with pay) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Taille de pierre | 法国教育部 | 必备 | 基础职业资格，多数从业者持有 |
-| Bac Pro Métiers de la pierre | 法国教育部 | 可选 | 更高级文凭，利于晋升 |
+| CAP Taille de pierre | French Ministry of Education | Required | Basic professional qualifications, held by most practitioners |
+| Bac Pro Métiers de la pierre | French Ministry of Education | Optional | Higher diplomas are more advantageous for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国建筑与遗产修复行业持续需要石材工匠，尤其在历史古迹修复领域。但自动化与预制件普及可能限制岗位增长。学徒制是主要入门途径。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. France's architecture and heritage restoration industry continues to demand stone craftsmen, especially in the field of historic monument restoration. However, automation and the widespread adoption of prefabricated parts may limit job growth. Apprenticeships are the main entry point.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒期后起步薪资 |
-| 中级（3-10年） | $28,000~$35,000 | 熟练工匠薪资 |
-| 高级（10年以上） | $35,000~$45,000 | 资深工匠或自营者 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Starting salary after apprenticeship |
+| Intermediate (3-10 years) | $28,000~$35,000 | Skilled tradesperson salary |
+| Senior (10+ years) | $35,000~$45,000 | Experienced craftsmen or self-employed workers |
+| average salary | $25,368 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或CAP起步，逐步晋升为高级工匠或团队负责人。经验丰富后可自营工作室或转向石材修复专家。少数进入艺术品雕刻领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Stone cutting and decoration workers face both job contraction and value enhancement: AI-driven automation will replace most standardized cutting and sanding, but high-end customization, artistic carving, and on-site installation still require human skill, and those with multi-skilled skills will gain greater bargaining power.
+
+You can start as an apprentice or CAP, and gradually advance to senior craftsman or team leader. Once experienced, you can run your own studio or turn to stone restoration specialists. A few have entered the field of art carving.
+
+**Tasks most exposed to AI:**
+
+- Stone cutting machines are used for precise cutting of standard-sized slabs
+- Repetitive surface grinding and polishing operations
+- Simple line carving is done according to the drawings
+- Stone layout and material loss optimization
+
+**Where AI augments the role:**
+
+- Using AI visual inspection systems to monitor stone textures and defects in real time, adjusting cutting parameters
+- CAD/CAM software generates complex 3D engraving paths, with manual assistance for fine finishing
+- AI-generated decoration proposal suggestions to assist clients in custom designs
+- The robotic arm assists with handling and rough cutting, reducing physical labor consumption
+
+**Human moat:**
+
+- Aesthetic judgment of high-difficulty artistic carving and complex curved surface shapes
+- Flexible communication with architects and clients during on-site installation
+- Natural stone cannot replicate the creative use of texture
+- Comprehensive skills and experience in the restoration of historic memorial buildings
+
+**Skills to build:**
+
+- Operate stone CNC machining centers and robotic arms
+- Use 3D scanning and reverse engineering software
+- Basic computer-aided design (CAD) and parametric modeling
+- Application of stone quality inspection and AI defect identification tools
+- Project management and client communication skills
+- Knowledge of sustainable materials and green construction
+
+**Key growth areas:**
 
 - Heritage restoration
 - Artisan craftsmanship
@@ -61,64 +94,63 @@ Cuts, carves, polishes and decorates natural stone for buildings, monuments, tom
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国企业，需劳动许可，适用于常规技术岗位 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如艺术家或特殊技艺工匠，需证明专业水平 |
+| Subclass Salarié (Salarié (Employee)) | Employed by a French company, requiring a work permit, applicable to regular technical positions |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as artists or craftsmen with special skills, who must demonstrate professional competence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stone Cutter and Decorator？**
-- 喜欢手工与精细操作
-- 对建筑或文化遗产修复有兴趣
-- 能承受体力劳动与粉尘环境
-
-**谁不适合学Stone Cutter and Decorator？**
-- 对重复性体力劳动不耐受
-- 追求高薪或快速晋升
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys manual and delicate operations
+- Interest in architectural or cultural heritage restoration
+- Able to withstand physical labor and dusty environments
+
+**Who is not suited**
+- Intolerant of repetitive physical labor
+- Seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for stone cutters?**
+A: Entry-level salaries are about €22k-28k, intermediate salaries €28k-35k, and seniors €35k-45k. Self-employed artisans earn higher but less stable incomes.
+
+**Q: How can foreign stone craftsmen immigrate to France?**
+A: You can use the Salarié or Passeport Talent Passport pathways. A French employer sponsor is required, preferably holding a CAP or equivalent qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Stone Cutter and Decorator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stone cutters?**
-答：Entry-level annual salary is about €22k-28k, mid-level €28k-35k, senior €35k-45k. Self-employed artisans earn more but with instability.
-
-**问：How can foreign stone artisans immigrate to France?**
-答：Via Salarié (employee) or Passeport Talent (talent passport). Requires a French employer sponsor and preferably a CAP or equivalent qualification.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Speech Therapist（Speech Therapist）职业分析 · FR
+# Speech Therapist — career analysis · France
 
-**职业代码：J1406 – Speech Therapist。**
+**Occupation code: J1406 (ROME)**
 
-Speech therapists in France are regulated health professionals who assess and treat communication, language, swallowing, and voice disorders across all ages. They must hold a state-recognized speech therapy degree and register with the Regional Health Agency (ARS).
+Speech therapists (Orthophonie) are a regulated medical support profession in France, responsible for assessing and treating communication, speech, swallowing, and voice disorders, serving children and the elderly. Practitioners must hold a nationally recognized diploma in speech therapy (Certificat de Capacité d'Orthophoniste) and be registered with ARS.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 言语治疗国家文凭（Certificat de Capacité d'Orthophoniste） | 5年（包括2年预科+3年专业） | —（公立大学学费低，约0-500欧元/年；私立学校或学徒制可能更高。） |
-| 硕士深造（如临床言语病理学） | 2年 | —（公立大学硕士学费约0-500欧元/年。） |
+| National Diploma in Speech Therapy (Certificat de Capacité d'Orthophoniste) | 5 years (including 2 years of foundation + 3 years of major) | $0~$5,000 (Public universities have low tuition fees, about 0-500 euros per year; Private schools or apprenticeships may be even higher.) |
+| Master's Degree Studies (such as Clinical Speech Pathology) | 2 years | $0~$5,000 (Master's tuition at public universities is about 0-500 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 言语治疗能力证书（Certificat de Capacité d'Orthophoniste） | 法国大学（经Ministère de la Santé认证） | 必备 | 必须完成5年学业并通过国家考试，方可注册执业。 |
-| ARS区域卫生机构注册 | Agence Régionale de Santé | 必备 | 执业前必须在所在大区ARS注册，更新执业资格。 |
-| 资质认证（Reconnaissance des qualifications） | 法国卫生部（Ministère de la Santé） | 必备 | 欧盟外学历需通过资质认证程序，可能需补修课程或实习。 |
+| Certificate of Speech Therapy Competence (Certificat de Capacité d'Orthophoniste) | French University (accredited by Ministère de la Santé) | Required | You must complete five years of study and pass the national exam before you can register and practice. |
+| ARS Regional Health Agency Registration | Agence Régionale de Santé | Required | Before practicing, you must register with your region's ARS and renew your practice qualification. |
+| Qualifications (Reconnaissance des qualifications) | French Ministry of Health (Ministère de la Santé) | Required | Qualifications from outside the EU require a qualification certification process and may require make-up courses or internships. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。法国言语治疗师长期紧缺，尤其在偏远地区和老年护理领域。随着人口老龄化及儿童语言障碍早筛普及，需求持续增长。2023年就业局（France Travail）列为高度紧缺职业，公立医院和私人诊所均缺人。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. France has long faced a shortage of speech therapists, especially in remote areas and elderly care. With the aging population and the widespread adoption of early language barrier screening among children, demand continues to grow. In 2023, the Employment Agency (France Travail) listed these occupations as highly urgent, with shortages in both public hospitals and private clinics.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公立医院起薪约28k-32k欧元，私立诊所稍高。 |
-| 中级（4-10年） | $35,000~$45,000 | 经验丰富者或在私立机构（如康复中心）可达40k+。 |
-| 高级（10年以上/自主执业） | $45,000~$60,000 | 私人诊所经营者收入可超50k欧元，但需承担运营成本。 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salaries at public hospitals are about 28k-32k euros, while private clinics offer slightly higher salaries. |
+| Mid-level (4-10 years). | $35,000~$45,000 | Experienced individuals or those working in private institutions (such as rehabilitation centers) can reach 40k+. |
+| Senior (Over 10 years / Self-practicing) | $45,000~$60,000 | Private clinic operators can earn over 50,000 euros but must bear operating costs. |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径通常从医院或康复中心开始，积累经验后可开设私人诊所或专攻特定领域（如神经康复、儿童语言障碍）。部分资深治疗师转向教学或研究，需额外进修硕士或博士学位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
+
+Career paths usually start at hospitals or rehabilitation centers, and after gaining experience, they can open private clinics or specialize in specific fields (such as neurorehabilitation or childhood speech disorders). Some senior therapists turn to teaching or research, requiring additional master's or doctoral studies.
+
+**Tasks most exposed to AI:**
+
+- Automated speech recognition and natural language processing for initial screening and standardized test scoring
+- AI generates basic treatment plans and exercise materials
+- Automatic transcription and document filling of electronic health records
+- Automatic detection of speech disorder features through voice analysis
+- Basic interactive Q&A in remote therapy is handled by chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyzing large amounts of voice data to identify subtle patterns
+- Personalised treatment: using machine learning to optimise treatment plans and provide real-time feedback
+- Telemedicine: expanding service scope through AI-driven platforms.
+- Effect tracking: automatically analyzes patient progress data and adjusts plans
+- Research acceleration: AI processes large-scale corpora to discover new treatments
+
+**Human moat:**
+
+- Clinical judgment and empathetic communication for complex cases
+- Interdisciplinary team collaboration and patient education
+- Design and implement alternative communication systems (e.g., AAC)
+- Handling ethical and legal issues (e.g., informed consent)
+- Humanistic care and therapeutic relationship building.
+
+**Skills to build:**
+
+- Use and interpretation of AI-assisted diagnostic tools
+- Data analysis and statistics (Python/R)
+- Remote therapy platform operation and optimization
+- Natural language processing basics
+- Human-computer interaction design (for therapeutic tools)
+- Agility for continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Early childhood screening
@@ -64,69 +100,68 @@ Speech therapists in France are regulated health professionals who assess and tr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent (Pr（Talent Passport (Medical Profession)） | 适用于高技能医疗人才，需持有法国认可的文凭和雇主合同，有效期4年，可续签。 |
-| Subclass Salarié (with work a（Employee Residence Permit） | 若获得法国医疗机构或诊所聘用，可申请工作居留。需通过资质认证。 |
-| Subclass Carte bleue européen（EU Blue Card） | 适用于年薪超过53k欧元的岗位，言语治疗师通常达不到此门槛。 |
+| Subclass Passeport Talent (Pr (Talent Passport (Medical Profession)) | Applicable to highly skilled medical talents, requiring a diploma recognized in France and an employer contract, valid for 4 years, renewable with the option to renew. |
+| Subclass Salarié (with work a (Employee Residence Permit) | If hired by a French medical institution or clinic, you may apply for work residence. Qualification certification is required. |
+| Subclass Carte bleue européen (EU Blue Card) | Suitable for positions with annual salaries exceeding 53k euros, speech therapists usually do not meet this threshold. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Speech Therapist？**
-- 具备耐心和同理心的人，愿意长期投入学习。
-- 对沟通障碍和康复治疗有浓厚兴趣。
-- 希望在医疗领域获得稳定职业且拥有自主执业可能的人。
-
-**谁不适合学Speech Therapist？**
-- 不愿接受多年高强度学业和资质认证者。
-- 对法语沟通能力要求极高，非法语母语者需谨慎。
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy are willing to invest long-term in learning.
+- Strong interest in communication disorders and rehabilitation therapy.
+- Those who wish to secure a stable career in the medical field and have the possibility of independent practice.
+
+**Who is not suited**
+- Those unwilling to undergo years of intensive academic and qualification certifications.
+- High demand for French communication skills; non-native French speakers should be cautious.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for speech therapists in France?**
+A: Entry-level annual salary is about €28,000-€35,000, mid-level €35,000-€45,000, and senior or self-employed can reach €45,000-€60,000. Public hospitals pay less than private clinics but have better benefits.
+
+**Q: How can foreigners become speech therapists in France?**
+A: Non-EU qualifications require certification from the French Ministry of Health (Reconnaissance des qualifications), and may require remedial courses or internships. Afterwards, you can apply for Passeport Talent or work residence. French must be at least C1 level.
+
+**Q: How many years does it take to become a speech therapist in France?**
+A: A total of 5 years: after a 2-year preparatory course (Licence en sciences du langage or similar), students enter the professional stage through competitive exams, and then study for another 3 years to obtain a national diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Speech Therapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a speech therapist in France?**
-答：Entry-level annual salary ranges from €28k to €35k, mid-level €35k–€45k, senior/self-employed €45k–€60k. Public hospitals pay less than private clinics but offer better benefits.
-
-**问：How can a foreigner become a speech therapist in France?**
-答：Non-EU degrees must undergo qualification recognition by the Ministry of Health, possibly requiring additional courses or internships. Then apply for Talent Passport or work permit. French proficiency C1 required.
-
-**问：How many years does it take to become a speech therapist in France?**
-答：Total 5 years: 2 years of preparatory studies (e.g., Licence in language sciences) followed by a competitive exam, then 3 years of specialized training to obtain the national diploma.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

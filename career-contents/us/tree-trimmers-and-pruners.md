@@ -1,61 +1,96 @@
-# Tree Trimmers and Pruners（Tree Trimmers and Pruners）职业分析 · 美国
+# Tree Trimmers and Pruners — career analysis · United States
 
-**职业代码：37-3013 – Tree Trimmers and Pruners。**
+**Occupation code: 37-3013 (SOC)**
 
-Using climbing and rigging techniques, cut away dead or excess branches from trees or shrubs to maintain right-of-way for roads, sidewalks, or utilities, or to improve appearance, health, and value of tree.
+Using climbing and rigging techniques, trim dead or excess branches from trees or shrubs, maintain rights-of-way along roads, sidewalks, or utilities, and improve tree appearance, health, and value.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-2年 | —（雇主提供培训，可能收取少量认证费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-2 years | $0~$5,000 (Employer provides training, may charge a small certification fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶员执照（CDL） | 州机动车管理局 | 可选 | 部分岗位需操作大型车辆，需通过笔试和路考 |
-| 树木栽培师认证 | 国际树木栽培协会（ISA） | 可选 | 证明专业知识和技能，提升就业竞争力 |
-| 安全培训证书 | 职业安全与健康管理局（OSHA） | 可选 | 完成OSHA 30小时建筑行业安全培训 |
+| Commercial driver's license (CDL) | State motor vehicle department | Optional | Some positions require operating large vehicles and passing a written test and road test |
+| Arborist certification | International Society of Arboriculture (ISA) | Optional | Demonstrate professional knowledge and skills to enhance employment competitiveness. |
+| Safety training certificate | Occupational Safety and Health Administration (OSHA) | Optional | Complete OSHA 30-hour construction industry safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 51,200。美国就业前景稳定，受城市化及基础设施维护需求推动。预计2023-2033年就业增长约5%，与所有职业平均水平相当。
+**Job demand: high (★★★★☆).** National workforce approx. 51,200. Employment outlook in the US is stable, driven by urbanization and infrastructure maintenance. Expected job growth of about 5% from 2023 to 2033, on par with the average for all occupations.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 时薪约$15-$20 |
-| 中级（3-7年） | $42,000~$55,000 | 时薪约$20-$26 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或自雇者收入更高 |
+| Median salary | $50,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Hourly wage about $15-$20 |
+| Mid-level (3–7 years) | $42,000~$55,000 | Hourly wage approximately $20-$26 |
+| Senior (7+ years) | $55,000~$70,000 | Supervisors or self-employed earn more |
+| average salary | $55,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径：从初级修剪工晋升为高级树木修剪师或团队主管，部分经验丰富者可创立树木服务公司。行业协会认证有助于职业提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
+
+Career progression: from junior pruner to senior tree trimmer or team supervisor; some experienced workers start tree service companies. Industry association certification aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated recording and report generation of tree health data (e.g., growth model predictions)
+- AI-optimized scheduling of routine pruning plans
+- Automatic counting and classification of tree numbers based on drone imagery
+- Automation of seedling inventory management and ordering
+
+**Where AI augments the role:**
+
+- Use AI image recognition to assist in diagnosing tree pests and diseases
+- Use drones and LiDAR to efficiently assess tree canopy structure and risk
+- Using GIS and AI to predict tree growth trends and optimize long-term maintenance plans
+- AI-assisted formulation of optimal pruning plans to minimize tree damage
+- Using wearable devices to monitor worker health and safety
+
+**Human moat:**
+
+- Safety judgment and precise operation in high-risk physical tasks like climbing and pruning
+- On-site emergency response (such as rescue decisions after tree collapse in storms)
+- Human communication with clients and communities on tree value and risk
+- Holistic assessment and trade-offs for complex ecosystems (e.g., protecting endangered species habitats)
+- Professional responsibility in line with local regulations and ethical standards (e.g., legal validity of arborist reports)
+
+**Skills to build:**
+
+- Drone operation and data analysis (surveying, image processing)
+- GIS and remote sensing technology application
+- AI image recognition tools (e.g., tree disease diagnosis software)
+- Project management and client communication (especially explaining technical reports to non-professional clients)
+- Data recording and analysis basics (Excel, Python/automation scripts)
+- Knowledge of biosafety and occupational health regulations
+
+**Key growth areas:**
 
 - Urban forestry
 - Infrastructure maintenance
@@ -64,62 +99,64 @@ Using climbing and rigging techniques, cut away dead or excess branches from tre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（临时非农业工人签证） | 雇主可申请H-2B签证引进季节性临时工人，但配额有限且严格 |
-| Subclass EB-3（第三优先职业移民绿卡） | 通过PERM劳工证申请，需雇主担保，排期较长 |
+| Subclass H-2B (Temporary non-agricultural worker visa) | Employers can apply for H-2B visas to bring in seasonal temporary workers, but quotas are limited and strict. |
+| Subclass EB-3 (Third preference employment-based green card) | Apply through PERM labor certification, requires employer sponsorship, long waiting period. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tree Trimmers and Pruners？**
-- 喜欢户外工作、体力充沛且不恐高的人群
-- 喜欢动手操作和团队合作的人
-- 寻求稳定就业且不介意季节性工作的人
+**Who is suited**
+- People who enjoy outdoor work, are physically fit, and not afraid of heights
+- People who enjoy hands-on work and teamwork
+- People seeking stable employment who don't mind seasonal work
 
-**谁不适合学Tree Trimmers and Pruners？**
-- 对高空作业或恶劣天气敏感的人
-- 希望快速晋升或高薪工作的人
+**Who is not suited**
+- People sensitive to working at heights or in bad weather
+- Those seeking rapid promotion or high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a tree trimmer?**
+A: According to BLS 2023 data, the average annual salary is approximately $46,000, and experienced workers can earn over $70,000.
+
+**Q: Can a tree trimmer immigrate to the US via a work visa?**
+A: This occupation primarily recruits via H-2B seasonal visas, but green card pathways are difficult, requiring employer sponsorship and long waiting periods.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短至中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tree Trimmers and Pruners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for tree trimmers and pruners?**
-答：According to BLS 2023, the average annual salary is about $46,000, with experienced workers earning over $70,000.
-
-**问：Can tree trimmers immigrate to the US via work visa?**
-答：Primarily through H-2B seasonal visa, but green card is difficult due to employer sponsorship and long waits.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

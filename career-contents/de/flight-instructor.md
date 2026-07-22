@@ -1,60 +1,96 @@
-# Flight Instructor（Flight Instructor）职业分析 · DE
+# Flight Instructor — career analysis · Germany
 
-**职业代码：8452 – Flight Instructor。**
+**Occupation code: 8452 (KldB)**
 
-Flight instructors train student pilots in aircraft operation, covering theoretical knowledge and practical flight maneuvers, ensuring they acquire safe flying skills and obtain licenses.
+Flight instructors train students to fly aircraft, covering theoretical instruction and practical flight training, ensuring students master safe flying skills and obtain a pilot license.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 飞行教练培训 | 6-12个月 | $30,000~$60,000（获EASA飞行教练执照，费用因学校和强度而异） |
-| 商业飞行员执照 | 18-24个月 | $60,000~$100,000（ATP集成课程，包括飞行小时费） |
+| Flight instructor training | 6–12 months | $30,000~$60,000 (Obtain EASA flight instructor license; costs vary by school and intensity) |
+| Commercial pilot license | 18-24 months | $60,000~$100,000 (ATP integrated course, including flight hour fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EASA飞行教练执照（FI） | 欧洲航空安全局（EASA） | 必备 | 需持有商业飞行员执照，并通过理论及实践考试 |
-| 德国联邦航空局（LBA）认可 | 德国联邦航空局 | 必备 | 外国执照需经LBA认证，需语言证明 |
+| EASA flight instructor license (FI) | European Union Aviation Safety Agency (EASA) | Required | Must hold a commercial pilot license and pass theoretical and practical exams |
+| Recognised by the German Federal Aviation Office (LBA) | German Federal Aviation Office. | Required | Foreign licenses require LBA certification and language proof |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。德国航空业稳步发展，飞行员短缺持续推动飞行教练需求。随着航空旅行复苏和培训需求增加，就业前景良好，尤其在专业飞行学校。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Germany's aviation industry is steadily developing, and the pilot shortage continues to drive demand for flight instructors. With aviation travel recovery and increased training needs, employment prospects are good, especially in professional flight schools.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 飞行学校全职教练 |
-| 中级（3-7年） | $45,000~$60,000 | 经验丰富的教练 |
-| 高级（7年以上） | $60,000~$80,000 | 首席教练或检查员 |
+| Median salary | $45,360 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Full-time flight school instructor |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced Coach |
+| Senior (7+ years) | $60,000~$80,000 | Chief Trainer or Inspector |
+| average salary | $50,052 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径：从助理教练晋升为首席教练，或转向商业航空公司担任机长。也可考取高级资质成为检查员或培训经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of flight instructors will be deeply reshaped by AI and simulation technology. Theoretical teaching and basic assessment can be automated, but emergency judgment during actual flights, personalized guidance, and safety supervision still heavily rely on human experience.
+
+Career path: from assistant coach to head coach, or transition to a commercial airline as a captain. You can also obtain advanced qualifications to become an inspector or training manager.
+
+**Tasks most exposed to AI:**
+
+- Standard theory course delivery led by AI virtual instructors
+- Use AI to automatically grade students' theoretical knowledge tests and record scores
+- AI generates and adjusts flight training plans and post-flight briefings in real time.
+- Basic flight operation practice using AI guidance in a simulator
+- AI monitors trainees' physiological data and automatically alerts for fatigue or decreased attention
+
+**Where AI augments the role:**
+
+- AI analyzes student flight data to provide personalized error correction and suggestions
+- AI-enhanced flight simulators can dynamically generate complex weather or system fault scenarios
+- AI assistant coaches assess risks in real time and suggest optimal decisions.
+- AI automatically organizes student progress reports and recommends next training priorities
+- AI-driven virtual reality (VR) pre-simulation of complex maneuvers
+
+**Human moat:**
+
+- Detecting and providing psychological support for learners' non-verbal signals (nervousness, fear).
+- Immediate decision-making and demonstration in real emergency situations (engine failure, severe weather)
+- Flexibility in adapting teaching methods to individual learning pace
+- Conveying aviation professionalism and safety culture (e.g., rigor, responsibility)
+- Experiential intuition for detecting subtle abnormal sounds and vibrations in aircraft
+
+**Skills to build:**
+
+- Data literacy: interpreting AI-generated student performance reports and translating them into teaching adjustments
+- AI simulation system operation and customization (e.g., writing new fault scripts for simulators)
+- Human-machine collaborative teaching: integrating AI tools with traditional demonstration teaching
+- Advanced psychological counseling skills: dealing with student nervousness and frustration
+- Continuously update knowledge of aviation regulations and new technologies (e.g., eVTOL)
+- Basic programming: automating daily administrative and scheduling tasks
+
+**Key growth areas:**
 
 - Aviation training demand
 - Pilot shortage
@@ -63,65 +99,64 @@ Flight instructors train student pilots in aircraft operation, covering theoreti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历或同等资质，年薪门槛约43,800欧元（2024年） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于持认可飞行教练资质者，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许找工作一年，需德语B1或英语B2 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree or equivalent qualification, salary threshold about 43,800 euros (2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applies to those with recognized flight instructor qualifications; requires employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one year of job search, requires German B1 or English B2. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Flight Instructor？**
-- 持有商业飞行员执照者
-- 热爱教学与飞行，具备良好沟通能力
-
-**谁不适合学Flight Instructor？**
-- 害怕高度或不适应高强度培训者
-- 不愿投入高额培训费用的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holders of a commercial pilot license
+- Passionate about teaching and flying, with good communication skills
+
+**Who is not suited**
+- Those afraid of heights or unable to adapt to high-intensity training
+- People unwilling to invest in high training costs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a flight instructor in Germany?**
+A: Junior: approximately €35,000-45,000; senior: up to €80,000, depending on experience and employer.
+
+**Q: How can foreign flight instructors immigrate to Germany?**
+A: Must hold an EASA-approved license and be certified by LBA. Can apply for a Blue Card or skilled worker visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Flight Instructor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a flight instructor in Germany?**
-答：Entry-level: €35,000-45,000, senior up to €80,000, depending on experience and employer.
-
-**问：How can a foreign flight instructor migrate to Germany?**
-答：Hold an EASA-recognized license and obtain LBA recognition. Eligible for EU Blue Card or Skilled Worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

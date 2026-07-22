@@ -1,60 +1,93 @@
-# Beverage Production Worker（Beverage Production Worker）职业分析 · DE
+# Beverage Production Worker — career analysis · Germany
 
-**职业代码：2910 – Beverage Production Worker。**
+**Occupation code: 2910 (KldB)**
 
-Beverage production workers manufacture soft drinks, beer, wine, and juices, operating filling, mixing, and fermentation equipment while ensuring hygiene and quality standards.
+Beverage production workers manufacture soft drinks, beer, wine, juice, etc., operating filling, mixing, and fermentation equipment, ensuring hygiene and quality standards.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（饮料技术/酿造） | 3年 | —（双元制期间企业发放津贴，培训通常免费） |
-| 短期培训班/入门培训 | 3-6个月 | $1,000~$3,000（部分私立机构收费，适合转行） |
+| Dual vocational training (beverage technology/brewing) | 3 years | $0~$500 (During the dual system, companies provide allowances, and training is usually free.) |
+| Short-term Training Course/Introductory Training | 3-6 months | $1,000~$3,000 (Some private institutions charge fees, suitable for career changers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制毕业证书（饮料技术/酿造） | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 录用主流途径 |
-| 职业资格认证（Anerkennung） | IHK/HWK | 可选 | 对欧盟以外学历资质审核 |
+| Dual qualification certificate (Beverage Technology/Brewing) | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Main recruitment pathway |
+| Professional qualification recognition (Anerkennung) | IHK/HWK | Optional | Verification of qualifications from outside the EU |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 75,000。德国饮料消费稳定，行业自动化程度较高，但中小型酿酒厂和精酿市场增长带来新岗位。预计未来5年就业人数基本持平，替代需求为主。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 75,000. Germany's beverage consumption is stable, with high automation in the industry, but growth in small and medium breweries and the craft beer market creates new jobs. Employment is expected to remain largely flat over the next 5 years, with replacement demand being the main driver.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含津贴 |
-| 中级（3-8年） | $32,000~$40,000 | 税前年薪 |
-| 高级（8年以上/主管） | $40,000~$50,000 | 税前年薪，含管理职责 |
+| Median salary | $50,112 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–8 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (8+ years / Supervisor) | $40,000~$50,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $52,620 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从生产操作员晋升为班组长或生产主管，也可通过进修成为酿酒师或饮料技术员。部分企业提供进一步培训至技术专家或质量经理。
-**AI替代风险：一般（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will replace some standardized baking tasks (e.g., proportion weighing), but demand for handcrafted decoration and artisan bread is strong, leading to mixed impacts. Entry-level positions remain stable, while senior roles gain value.
+
+Can advance from production operator to team leader or production supervisor, or become a brewer or beverage technician through further training. Some companies offer further training to technical specialist or quality manager.
+
+**Tasks most exposed to AI:**
+
+- Automated batching and weighing systems replace manual weighing.
+- Smart oven auto-control of temperature and time replaces manual monitoring
+- Standardized bread shaping machines replace manual shaping
+- Inventory management software automates replenishment, replacing manual stocktaking
+
+**Where AI augments the role:**
+
+- AI recipe optimization tool helps develop new flavors
+- Smart fermentation monitoring improves product consistency
+- Machine vision assisted decoration quality control
+- Data analytics predicts sales to reduce waste
+
+**Human moat:**
+
+- Complex manual styling and artistic decoration
+- on-site fermentation perception and adjustment experience
+- Customized Creative Design
+- Food safety compliance and manual texture control.
+
+**Skills to build:**
+
+- AI-assisted recipe development tools (e.g., Flavorstar)
+- Data-driven operations (demand forecasting, cost analysis)
+- Refining Handcrafted Art Sugar/ Pulled Sugar
+- Knowledge of sustainable raw material sourcing
+- Short video marketing and brand storytelling
+- Food safety management (HACCP)
+
+**Key growth areas:**
 
 - stable demand
 - automation
@@ -63,63 +96,68 @@ Beverage production workers manufacture soft drinks, beer, wine, and juices, ope
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需德国认可的学历或职业资格且获得雇主合同 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德寻找工作，适合有相关培训经历者 |
-| Subclass Vocational Training（Vocational Training Visa） | 来德参加双元制培训，期间可工作 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires a German-recognised degree or vocational qualification and an employer contract |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing entry to Germany for job seeking, suitable for those with relevant training experience |
+| Subclass Vocational Training (Vocational Training Visa) | Come to Germany for dual vocational training and can work during the training period |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Beverage Production Worker？**
-- 喜欢动手操作，注重卫生与流程规范
-- 愿意接受轮班工作
-- 希望从事稳定但体力要求较高的工作
+**Who is suited**
+- Those who enjoy hands-on work and value hygiene and procedural compliance
+- Willing to work shift work
+- Looking for stable work with moderate physical demands
 
-**谁不适合学Beverage Production Worker？**
-- 不喜重复性体力劳动
-- 追求高薪或快速晋升
+**Who is not suited**
+- Dislikes repetitive physical labor
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of beverage production workers?**
+A: Entry-level approximately EUR 25,000-32,000, intermediate to senior EUR 32,000-50,000, below the German average wage, but with an allowance during dual vocational training.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Main paths are participating in dual vocational training (training visa) in Germany or applying for a skilled migration work visa after obtaining a recognized German professional qualification. An opportunity card can be used to seek employment in Germany.
+
+**Q: What are the future prospects for this occupation?**
+A: Automation is gradually increasing, but the market for small and medium-sized breweries and specialty beverages (craft beer, fruit juice) offers new jobs. Overall employment is stable, mainly replacement demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 一般（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Beverage Production Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a beverage production worker?**
-答：Entry-level €25,000-32,000, mid-level €32,000-40,000, senior/lead €40,000-50,000 (gross annual). Below German average, but vocational training includes allowance.
-
-**问：How can foreigners immigrate through this occupation?**
-答：Main pathways: vocational training visa for dual system, or skilled worker visa with recognized qualification. Opportunity Card for job search.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Magicians and Illusionists（Magicians and Illusionists）职业分析 · DE
+# Magicians and Illusionists — career analysis · Germany
 
-**职业代码：9432 – Magicians and Illusionists。**
+**Occupation code: 9432 (KldB)**
 
-Magicians entertain audiences on stage, TV, or at private events using sleight of hand, props, and psychological techniques to perform magic and illusions.
+Magicians perform magic and illusion on stage, television, or at private events using sleight of hand, props, and psychological techniques to entertain audiences.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 视乎个人训练 | —（自学或拜师，费用因培训方式和时长而异） |
+| No specific educational requirements | Depends on individual training | $0~$10,000 (Self-study or apprenticeship, costs vary by training method and duration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性资质 | 无 | 可选 | 德国对魔术师没有官方认证要求，演出许可取决于地方规定 |
-| 可能需要的营业执照 | 当地工商局 (Gewerbeamt) | 必备 | 作为自由职业者需注册营业，可能涉及特殊活动许可 |
+| Business license that may be required | Local trade office (Gewerbeamt) | Required | Operating as a freelancer requires business registration and may involve special event permits |
+| No mandatory qualifications | None | Optional | Germany has no official certification requirements for magicians; performance permits depend on local regulations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。魔术师在德国属于小众职业，就业机会有限，主要依赖于自由职业和演出市场。随着娱乐产业的复苏，对现场表演的需求有所增长，但竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. Magician is a niche occupation in Germany with limited job opportunities, primarily relying on freelance and performance markets. Demand for live performances has grown with the recovery of the entertainment industry, but competition is intense.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 收入不稳定，多来自小型活动和小费 |
-| 中级（3-10年） | $30,000~$50,000 | 有稳定演出机会，可用于兼职或全职 |
-| 高级（10年以上） | $50,000~$100,000 | 知名魔术师，可能拥有电视节目或国际巡演 |
+| Median salary | $50,832 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $15,000~$30,000 | Unstable income, mostly from small events and tips |
+| Intermediate (3-10 years) | $30,000~$50,000 | Stable performance opportunities, suitable for part-time or full-time work |
+| Senior (10+ years) | $50,000~$100,000 | Famous magician, possibly with TV shows or international tours |
+| average salary | $55,872 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径从初级表演者起步，通过积累经验和口碑，可成为知名魔术师，或转向电视节目、大型活动策划、魔术教学或相关工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will enhance magic effect design and audience interaction analysis, but core performance, technique and improvisation still rely on humans; entry-level competition intensifies, overall mixed.
+
+Career progression starts from junior performer; with accumulated experience and reputation, one can become a renowned magician, or transition to TV programs, large event planning, magic teaching, or related work.
+
+**Tasks most exposed to AI:**
+
+- Basic card trick teaching and standardized video content creation
+- Blueprint design and 3D printing optimization for regular props
+- Audience psychology data analysis and performance scheduling
+- Initial draft of magic effect reversal and logic arrangement
+- Social media automated promotional copy and short video editing
+
+**Where AI augments the role:**
+
+- Use AI tools to design novel optical illusions and dynamic props.
+- Real-time analysis of audience reactions to adjust performance pace
+- Generating personalised magic scripts and storylines
+- Enhance immersive stage effects through AR/VR
+- Automated synchronization of lighting, sound effects, and magic actions
+
+**Human moat:**
+
+- On-the-spot improvisation and audience interaction communication
+- Unique personal style and stage presence
+- Complex techniques and years of muscle memory training
+- Emotional resonance and mystery creation
+- Customized, non-standard prop-making techniques.
+
+**Skills to build:**
+
+- AI-assisted creative tools (e.g., Midjourney/DALL-E)
+- Basic programming (Python/Arduino) for smart props
+- Interactive design (projection mapping/AR technology)
+- Social media data analysis and operations
+- Performance psychology and audience behavior studies
+- Project Management and Event Planning
+
+**Key growth areas:**
 
 - Entertainment
 - Event Planning
@@ -62,62 +98,64 @@ Magicians entertain audiences on stage, TV, or at private events using sleight o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Freelance Visa（Freiberuflicher Visum） | 适用于自雇艺术家，需证明有稳定收入和符合德国利益的技能 |
-| Subclass Artist Visa（Aufenthaltserlaubnis für Künstler） | 针对表演艺术家，需提供演出合同和资质证明 |
+| Subclass Freelance Visa (Freiberuflicher Visum) | For self-employed artists, requiring proof of stable income and skills that benefit German interests. |
+| Subclass Artist Visa (Aufenthaltserlaubnis für Künstler) | For performing artists, required to provide performance contracts and qualification certificates |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Magicians and Illusionists？**
-- 有创造力和表演欲的人
-- 能接受不规律收入和自由职业模式的人
-- 愿意不断学习和创新魔术技巧的人
+**Who is suited**
+- Creative and performative individuals
+- People who can tolerate irregular income and freelance work patterns
+- People willing to constantly learn and innovate magic tricks
 
-**谁不适合学Magicians and Illusionists？**
-- 寻求稳定收入和全职工作的人
-- 不喜欢在公众面前表演的人
+**Who is not suited**
+- People seeking stable income and full-time work
+- People who do not like performing in public
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much does a magician earn in Germany?**
+A: Income varies greatly; junior magicians may barely scrape by, while senior magicians can earn substantial income through tours and TV shows.
+
+**Q: Can foreign magicians immigrate to Germany?**
+A: Yes, but difficult. Need to apply for an artist or freelance visa and prove sufficient business capability and income to support living.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低到中等（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Magicians and Illusionists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of magicians in Germany?**
-答：Income varies widely; beginners may barely make ends meet, while advanced magicians can earn well through tours and TV shows.
-
-**问：Can foreign magicians immigrate to Germany?**
-答：Yes, but it's challenging. They need to apply for an artist or freelance visa and prove sufficient business capability and income.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

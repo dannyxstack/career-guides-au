@@ -1,129 +1,162 @@
-# Plasterers, drywall installers and finishers and lathers（Plasterers, drywall installers and finishers and lathers）职业分析 · 加拿大
+# Plasterers, drywall installers and finishers and lathers — career analysis · Canada
 
-**职业代码：73102 – Plasterers, drywall installers and finishers and lathers。**
+**Occupation code: 73202 (NOC)**
 
-Plasterers, drywall installers and finishers and lathers install and finish interior walls and ceilings, including plastering, drywall installation, and lathing, essential in construction.
+Canadian plasterers apply plaster, mortar, etc., to building interiors and exteriors, a construction trade. Due to stable residential and commercial demand, immigration via PNP or employer sponsorship is possible but usually requires a provincial license or apprenticeship certification.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 完成 | —（通常要求） |
-| 学徒制 | 2-4年 | $1,000~$5,000（含课堂培训，部分省份补贴） |
+| High school diploma | None | $0~$0 (Complete high school to start apprenticeship) |
+| Apprenticeship training | 3-4 years | $1,000~$5,000 (Includes classroom and on-the-job training, with possible tuition subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒注册 | 省级学徒机构 | 必备 | 通常需高中毕业并找到雇主担保 |
-| 行业证书 | 省级资格认证机构 | 必备 | 通过考试后获发执业证书 |
-| 红印认证 | 加拿大红印项目 | 可选 | 跨省执业证明，非必需但有利 |
+| Provincial license/certificate | provincial industry regulatory bodies (e.g., Skilled Trades Ontario) | Required | Some provinces require a certificate to work |
+| Language test scores | IELTS or CELPIP | Required | Express Entry requires CLB 5 or higher |
+| Red Seal certification | Canadian apprenticeship system | Optional | National standard for interprovincial employment, usually requiring completion of an apprenticeship exam |
+| ECA (Educational Credential Assessment). | WES etc. | Optional | Assess overseas qualifications for immigration points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。加拿大建筑业持续增长，新房建设及翻新需求旺盛，该职业就业前景良好，尤其在安大略省、不列颠哥伦比亚省和阿尔伯塔省。
+**Job demand: high (★★★★☆).** National workforce approx. 50,000. Canada's construction industry continues to grow, especially in cities like Toronto and Vancouver for residential renovation and commercial projects. Job growth is expected to be steady from 2024-2031, with opportunities from retiring workers. Competition is moderate in popular areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒期收入较低 |
-| 中级（3-7年） | $50,000~$70,000 | 持证熟练工 |
-| 高级（7年以上） | $72,000~$90,000 | 领班或自雇 |
+| Median salary | $53,997 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $36,000~$48,000 | Apprenticeship or entry-level tradesperson, hourly wage approximately $18-$24 |
+| Mid-level (3–7 years) | $48,000~$65,000 | Experienced tradesperson, hourly wage $25-$33 |
+| Senior (7+ years) | $65,000~$86,000 | Foreman or Red Seal certification, hourly wage $35-$45. |
+| average salary | $54,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 学徒完成后可晋升为熟练工，经验丰富者可成为领班或自雇承包商，部分人员向建筑监理或项目经理发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Plasterers, drywall installers, and other traditional construction trades are significantly affected by automation; repetitive plastering, cutting, and sanding tasks are easily replaced by robots and prefabrication, potentially reducing job demand.
 
-- residential construction
-- renovation projects
-- infrastructure spending
-- drywall
+Starting as a junior apprentice, can advance to senior tradesperson, foreman, or independent contractor, and can work across provinces via Red Seal certification. Some transition to drywall inspector or construction supervisor.
+
+**Tasks most exposed to AI:**
+
+- Automatic plastering robots for large-area mortar spraying and leveling
+- CNC cutting machine for precise cutting and hole opening of gypsum boards
+- AI vision system checks wall flatness and automatically grinds and corrects
+- Mechanized installation of prefabricated drywall modules replaces manual measurement and assembly
+
+**Where AI augments the role:**
+
+- AI measurement tools improve survey accuracy and reduce rework
+- BIM model helps auto-generate material lists and cutting paths
+- AR glasses overlay construction drawings and acceptance specifications in real time.
+- Drone + AI inspection of high-rise facade plastering quality
+
+**Human moat:**
+
+- scenarios requiring manual craftsmanship, such as complex curved surfaces and heritage restoration
+- On-site judgment of base treatment, humidity, adhesion, and other comprehensive process experience
+- Multi-trade coordination and on-site problem decision-making
+- Responsibilities requiring trust: client communication, quality acceptance
+
+**Skills to build:**
+
+- Basic BIM/3D scanning operation and model reading
+- Operation and maintenance of smart equipment such as automatic plastering machines and CNC cutting machines
+- Drywall system design and prefabricated construction processes
+- Basic programming skills to debug automation tool parameters
+- chemical properties of construction cementitious materials and environmental standards
+- Use of digital project management software on site.
+
+**Key growth areas:**
+
+- Construction labor shortage
+- Provincial Nominee
+- Red Seal trade
+- Skilled trades demand
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 适用于有海外经验通过技能评估的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对建筑技工的提名项目，如BC PNP Tech |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，紧缺职业获批率高 |
+| Subclass EE (Express Entry (Federal Skilled Trades Program)) | Meets Federal Skilled Trades Program requirements, needs 1 year of Canadian work experience or employer offer, language CLB 5 |
+| Subclass PNP (Provincial Nominee Program) | Most provinces have skilled trades nominations for construction, such as Ontario, BC, and Alberta, usually requiring employer sponsorship |
+| Subclass EMP (Employer-specific work permit (LMIA)) | Obtain a work permit through a Labour Market Impact Assessment, then transition to permanent residence after gaining experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plasterers, drywall installers and finishers and lathers？**
-- 注重细节、有耐心和体力的人
-- 喜欢动手操作、独立工作的人
-- 希望在建筑业长期发展者
-
-**谁不适合学Plasterers, drywall installers and finishers and lathers？**
-- 不擅长体力劳动或高空作业的人
-- 不喜欢重复性工作或对粉尘过敏者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are physically fit and willing to do outdoor/indoor manual labor
+- Skilled migration candidates with relevant construction experience or apprenticeship background
+- Individuals willing to pursue provincial nomination or employer sponsorship pathways
+
+**Who is not suited**
+- Those unable to adapt to working at heights and dusty environments
+- People seeking easy or indoor desk jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a plasterer in Canada?**
+A: According to Job Bank, plasterers in Canada earn approximately $18-$45/hour, average annual salary $48,000-$65,000, higher for Red Seal certified tradespeople.
+
+**Q: Can plasterers immigrate to Canada through Express Entry?**
+A: Yes, but must meet Federal Skilled Trades Program (FSTP) requirements, including 1 year of Canadian work experience or employer offer, and language CLB 5. Most applicants are better suited for provincial nominee (PNP) pathways.
+
+**Q: Do I need a Canadian license to work?**
+A: Most provinces require a provincial license or apprenticeship certification; Red Seal is optional but beneficial for interprovincial work. Ontario, BC, etc., mandate it.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plasterers, drywall installers and finishers and lathers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for plasterers in Canada?**
-答：Entry-level CAD 35,000-45,000, mid-level CAD 50,000-70,000, senior CAD 72,000-90,000; self-employed may earn more.
-
-**问：What immigration pathways exist for plasterers to Canada?**
-答：Options include Federal Skilled Worker (FSW), Provincial Nominee Program (PNP), and LMIA employer sponsorship. In-demand experience aids PNP.
-
-**问：What is the career outlook for plasterers?**
-答：Growing construction sector, retirement of older workers create demand; experienced workers can advance to supervisor or self-employed.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# ICT Account Manager（ICT Account Manager）职业分析 · 新西兰
+# ICT Account Manager — career analysis · New Zealand
 
-**职业代码：225211 – ICT Account Manager。**
+**Occupation code: 225211 (ANZSCO)**
 
-ICT Account Managers manage client relationships for IT products and services, develop sales strategies, and achieve revenue targets. This role has stable demand in New Zealand and is eligible for Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV).
+ICT Client Managers manage client relationships for IT products and services, develop sales strategies, and achieve revenue targets. This occupation has stable demand in New Zealand, with immigration pathways via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学位 | 3年 | $35,000~$45,000（国际学生年均学费30,000-45,000 NZD，3年总计约110,000-130,000 NZD） |
-| 研究生文凭 | 1年 | $25,000~$35,000（国际学生年均学费25,000-35,000 NZD） |
+| Bachelor's degree | 3 years | $35,000~$45,000 (International students pay annual tuition of 30,000-45,000 NZD, totaling about 110,000-130,000 NZD over 3 years) |
+| Graduate diploma | 1 year | $25,000~$35,000 (Annual tuition for international students: NZD 25,000-35,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术学士学位 | 新西兰大学（如奥克兰大学、惠灵顿维多利亚大学） | 可选 | 虽非强制，但本科学位显著提升就业竞争力 |
-| 销售或客户管理相关证书 | 新西兰销售协会（Sales Institute of New Zealand） | 可选 | 可选，有助于专业发展 |
+| Bachelor's degree in Information Technology | New Zealand universities (e.g., University of Auckland, Victoria University of Wellington). | Optional | Though not mandatory, a bachelor's degree significantly enhances employment competitiveness |
+| Sales or customer management related certifications | Sales Institute of New Zealand | Optional | Optional, beneficial for professional development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。新西兰ICT行业持续增长，客户经理需求稳定。随着企业数字化转型加速，拥有云计算、网络安全等专业知识的客户经理前景看好。奥克兰和惠灵顿机会最多。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,500. New Zealand's ICT sector continues to grow, with stable demand for account managers. As enterprise digital transformation accelerates, account managers with expertise in cloud computing, cybersecurity, etc. have promising prospects. Most opportunities are in Auckland and Wellington.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 年薪55,000-75,000 NZD |
-| 中级（3-7年） | $75,000~$100,000 | 年薪75,000-100,000 NZD |
-| 高级（7年以上） | $100,000~$130,000 | 年薪100,000-130,000 NZD |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Annual salary NZD 55,000-75,000 |
+| Mid-level (3–7 years) | $75,000~$100,000 | Annual salary 75,000-100,000 NZD |
+| Senior (7+ years) | $100,000~$130,000 | Salary NZD 100,000-130,000 per year |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级客户代表晋升为高级客户经理、客户总监或销售副总裁。也可转向产品管理或业务开发。积累行业证书和客户资源有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+ICT account managers face AI automation risk for core client management tasks, but high-value client strategies and complex negotiations still require humans; entry-level competition intensifies.
+
+Can advance from junior customer representative to senior account manager, client director, or VP of sales. Can also transition to product management or business development. Accumulating industry certifications and client resources helps in promotion.
+
+**Tasks most exposed to AI:**
+
+- Immediate response to customer inquiries and problem categorization
+- Basic summary of sales data and trend report generation
+- Standardized generation and compliance check of contract terms
+- Automatic summarization of customer communication records and task assignment
+- Initial screening of market information and competitive analysis
+
+**Where AI augments the role:**
+
+- Use CRM intelligent analysis to identify customer cross-selling and renewal opportunities
+- Optimizes sales strategies and resource allocation using AI prediction models.
+- Improving customer contact efficiency with automated communication tools
+- Use AI to generate personalized client proposals and presentation materials
+- Monitor customer health and risk through real-time dashboards
+
+**Human moat:**
+
+- Building and maintaining trust in complex client relationships
+- Cross-departmental coordination and high-level negotiation skills
+- Customized solution design based on industry knowledge
+- Development and execution of innovative sales strategies
+
+**Skills to build:**
+
+- Advanced CRM and sales automation platforms (e.g., Salesforce Einstein)
+- Data analysis and visualization (SQL, Tableau, Power BI)
+- AI prompt engineering and generative AI tool application
+- Customer success management and value consulting methodology
+- Agile project management and cross-functional collaboration
+- Digital marketing and omnichannel customer engagement strategies
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -61,68 +96,67 @@ ICT Account Managers manage client relationships for IT products and services, d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 如果薪资达到中位数（$29.66/小时）且工作为ANZSCO 1-3级，可申请技术移民。ICT客户经理通常符合条件，但需注意ANZSCO对应代码141311，属于Skill Level 2。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主需为认证雇主，工作时长通常为3年，可续签。薪资不低于中位数（$29.66/小时）。 |
-| Subclass Green List T2（Green List Tier 2 - Work to Residence） | ICT客户经理不在Green List直接居留名单中，但若工作2年后满足中位数薪资要求，可通过T2申请居留。 |
+| Subclass SMC (Skilled Migrant Category) | If the salary reaches the median ($29.66/hour) and the job is ANZSCO Level 1-3, you can apply for skilled migration. ICT Account Managers usually qualify, but note the ANZSCO code is 141311, Skill Level 2. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employers must be accredited, with a typical working period of 3 years, renewable. Salary not less than the median ($29.66/hour). |
+| Subclass Green List T2 (Green List Tier 2 - Work to Residence) | ICT Customer Manager is not on the Green List for direct residence, but after working for 2 years and meeting the median wage requirement, you can apply for residence through T2. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Account Manager？**
-- 擅长与人沟通、建立客户关系，具备销售技巧和商业意识的人
-- 对IT产品和服务有一定了解，愿意持续学习新技术的人
-- 目标导向，能承受业绩压力的人
-
-**谁不适合学ICT Account Manager？**
-- 不善交际、回避面对面沟通的人
-- 对销售业绩压力不适的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- people who are good at communicating, building customer relationships, and have sales skills and business acumen
+- Those with some knowledge of IT products and services who are willing to continuously learn new technologies
+- Goal-oriented individuals who can handle performance pressure
+
+**Who is not suited**
+- People who are not sociable and avoid face-to-face communication.
+- Those uncomfortable with sales performance pressure
+
+---
+
+## 8. FAQ
+
+**Q: How can an ICT Account Manager apply for skilled migration?**
+A: ICT Account Manager is ANZSCO Skill Level 2, requiring satisfaction of SMC six-point criteria, typically needing a bachelor's degree or higher, or high salary (e.g., twice the median). Consult a migration agent for details.
+
+**Q: What is the salary level for an ICT account manager in New Zealand?**
+A: Junior salary approximately NZD 55,000-75,000 per year, intermediate salary approximately NZD 75,000-100,000, senior up to NZD 100,000-130,000. Specifics depend on experience, industry, and location. Salaries are typically higher in Auckland.
+
+**Q: What is the career progression path for an ICT account manager?**
+A: Can advance to senior account manager, client director, or sales VP; also possible to move into product management, business development, or consulting. Accumulating industry certifications and client relationships aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-ICT Account Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How can an ICT Account Manager apply for skilled migration?**
-答：ICT Account Managers are ANZSCO Skill Level 2. To qualify for SMC under the 6-point system, a bachelor's degree or higher salary (e.g., twice the median) is typically required. Consult a licensed immigration adviser for details.
-
-**问：What is the salary range for an ICT Account Manager in New Zealand?**
-答：Entry-level: NZD 55,000-75,000; Mid-level: NZD 75,000-100,000; Senior: NZD 100,000-130,000. Actual pay depends on experience, industry, and location (Auckland tends to pay higher).
-
-**问：What is the career progression for an ICT Account Manager?**
-答：Potential progression to Senior Account Manager, Account Director, or VP of Sales. Alternatively, transition into product management, business development, or consulting. Building industry certifications and client relationships aids advancement.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

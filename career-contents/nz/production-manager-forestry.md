@@ -1,58 +1,94 @@
-# Production Manager (Forestry)（Production Manager (Forestry)）职业分析 · 新西兰
+# Production Manager (Forestry) — career analysis · New Zealand
 
-**职业代码：133511 – Production Manager (Forestry)。**
+**Occupation code: 133511 (ANZSCO)**
 
-Plan, organise and manage forestry production activities in New Zealand, including harvesting, planting and forest maintenance. Eligible for Skilled Migrant Category or Green List Tier 2 (work to residence) pathway, requiring management experience and relevant qualification.
+Responsible for planning, organizing, and managing forestry production activities in New Zealand, including logging, afforestation, and forest maintenance. Eligible for Skilled Migrant Category or Green List Tier 2 work-to-residence pathway, requiring management experience and relevant qualifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（林业科学或相关） | 4年 | $30,000~$45,000（新西兰大学国际生学费年均NZD$30,000-45,000） |
-| 大专文凭（林业管理） | 2年 | $20,000~$30,000（理工学院年均NZD$20,000-30,000） |
+| Bachelor's degree (forestry science or related) | 4 years | $30,000~$45,000 (International student tuition at New Zealand universities averages NZD $30,000-45,000 per year) |
+| Diploma (Forestry Management) | 2 years | $20,000~$30,000 (Polytechnic annual NZD$20,000-30,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰林业协会会员资格 | 新西兰林业协会 (NZIF) | 可选 | 非强制，但有助于职业发展和移民加分 |
-| IELTS 总分6.5 | IDP或British Council | 必备 | 技术移民要求，每个单项≥6.0 |
+| IELTS overall score 6.5 | IDP or British Council | Required | Skilled migration requirement: minimum 6.0 in each band |
+| Membership of the New Zealand Institute of Forestry | New Zealand Institute of Forestry (NZIF) | Optional | Not mandatory, but beneficial for career development and immigration points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,200。新西兰林业是重要经济支柱，南岛和北岛中部需求稳定。预计未来5年就业增长平稳，受可持续林业和碳汇市场驱动。但初级岗位竞争中等，有经验的管理者更易就业。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,200. New Zealand forestry is an important economic pillar, with stable demand in the South Island and central North Island. Employment growth is expected to be steady over the next 5 years, driven by sustainable forestry and carbon markets. But competition is moderate for entry-level positions, and experienced managers find jobs more easily.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 助理经理或小规模林场 |
-| 中级（4-7年） | $85,000~$110,000 | 管理中等规模林场或团队 |
-| 高级（8年以上） | $120,000~$150,000 | 区域经理或大型企业 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Assistant manager or small-scale forest farm |
+| Mid-level (4-7 years) | $85,000~$110,000 | Managing medium-scale forest plantations or teams |
+| Senior (8+ years) | $120,000~$150,000 | Regional manager or large enterprise |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从林业技术员或采伐主管晋升，积累5-10年经验后可管理更大区域或多家林场。也可转向咨询、政策或企业可持续发展部门。新西兰认可澳大利亚学历和经验，但需适应本地法规。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Promote from forestry technician or harvesting supervisor; after accumulating 5-10 years of experience, can manage larger areas or multiple forest farms. May also transition to consulting, policy, or corporate sustainability departments. New Zealand recognizes Australian qualifications and experience, but local regulations must be adapted to.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -61,65 +97,64 @@ Plan, organise and manage forestry production activities in New Zealand, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制要求（学历+工作经验），职业在ANZSCO 1-3级 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 工作转居留，需在新西兰从事该职业满2年，时薪达到中位数1.5倍 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，雇主需认证，工作3年后可申请居留（需满足要求） |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (qualifications + work experience), occupation at ANZSCO level 1-3 |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work to residence, requiring 2 years in this occupation in New Zealand, with hourly wage at 1.5 times the median |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer must be accredited, after 3 years of work can apply for residence (subject to requirements) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Manager (Forestry)？**
-- 有林业或农学背景，愿意在偏远地区工作
-- 具备管理和领导能力，能适应户外工作
-- 对可持续发展和碳汇市场感兴趣
-
-**谁不适合学Production Manager (Forestry)？**
-- 不适应恶劣天气和体力劳动
-- 不喜欢长期远离城市的生活
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in forestry or agriculture, willing to work in remote areas
+- Possess management and leadership skills, adaptable to outdoor work
+- Interested in sustainable development and carbon markets
+
+**Who is not suited**
+- Unable to tolerate harsh weather and physical labor
+- Dislike of long-term separation from urban life
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of forestry production managers in New Zealand?**
+A: Entry-level about NZD 65,000-80,000, mid-level NZD 85,000-110,000, senior NZD 120,000-150,000. Higher in large companies or remote areas of South Island.
+
+**Q: How can I migrate to New Zealand through this occupation?**
+A: Pathways include: Skilled Migrant Category (SMC 6-point system, requiring bachelor's degree + work experience); Green List Tier 2 (apply for residence after 2 years of work); or accumulate experience via an accredited employer work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Production Manager (Forestry)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Production Manager (Forestry) in New Zealand?**
-答：Entry-level NZD$65,000-$80,000, mid-level $85,000-$110,000, senior $120,000-$150,000. Large companies or remote South Island areas may pay more.
-
-**问：How can I immigrate to New Zealand through this occupation?**
-答：Pathways: Skilled Migrant Category (6-point system, bachelor's degree + work experience); Green List Tier 2 (work 2 years then residence); or via Accredited Employer Work Visa.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

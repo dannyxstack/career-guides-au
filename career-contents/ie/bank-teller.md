@@ -1,60 +1,96 @@
-# Bank Teller（Bank Teller）职业分析 · IE
+# Bank Teller — career analysis · Ireland
 
-**职业代码：4211 – Bank Teller。**
+**Occupation code: 4211 (ISCO08)**
 
-Bank tellers handle customer transactions such as deposits, withdrawals, transfers, and foreign exchange, while providing basic customer service and adhering to bank compliance requirements.
+Bank tellers handle customer transactions such as deposits, withdrawals, transfers, and foreign exchange, while providing basic customer service and complying with bank regulations.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 不适用 | —（无需正式高等教育） |
-| 商科文凭 | 1年 | $3,000~$6,000（部分雇主偏好） |
+| High school graduation | Not applicable | $0~$0 (No formal higher education required) |
+| Diploma of Business | 1 year | $3,000~$6,000 (Preferred by some employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融服务资格认证 | 爱尔兰银行与金融学院 | 可选 | 非强制但加分 |
-| 客户服务培训证书 | FETAC/QQI | 可选 | 部分雇主要求 |
+| Financial services qualification and certification | Institute of Banking and Finance, Ireland | Optional | Not mandatory but advantageous |
+| Customer service training certificate | FETAC/QQI | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,200。爱尔兰银行业正在数字化转型，柜员岗位需求缓慢下降，但农村和老年客户群体仍维持一定需求。整体就业稳定，年均岗位空缺约200个。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,200. Ireland's banking industry is undergoing digital transformation, with teller demand slowly declining, but rural and elderly customer groups still maintain some demand. Overall employment is stable, with an average of about 200 vacancies per year.
 
-**竞争度：中等（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $32,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下滑（★½☆☆☆）。** 职业晋升路径包括高级柜员、客户服务主管、分行经理助理，或转向后台运营、合规等岗位。需持续学习数字银行技能。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
+
+Career progression paths include senior teller, customer service supervisor, branch manager assistant, or moving to back-office operations, compliance, and similar roles. Continuous learning of digital banking skills is required.
+
+**Tasks most exposed to AI:**
+
+- Daily cash deposit, withdrawal and transfer operations
+- Standardized customer inquiry responses (e.g., account balance, transaction queries)
+- Simple product sales (e.g., opening accounts, issuing credit cards) recommendations and procedures
+- Paper document processing and data entry
+- Repetitive transaction reconciliation and report generation
+
+**Where AI augments the role:**
+
+- Using AI tools to analyze customer data for personalized financial advice
+- Efficiently handle complex customer complaints and disputes via intelligent systems
+- Use automated reporting tools to monitor anomalous transactions (anti-fraud)
+- Combining AI assistance for customer demand forecasting and cross-selling
+- Managing digital customer relationship management (CRM) systems to enhance service
+
+**Human moat:**
+
+- Complex financial product explanation and customized solution design
+- High-net-worth client relationship maintenance and trust building
+- Manual judgment and authorization for urgent or non-standard transactions
+- Emotional understanding and empathy in face-to-face communication
+- Cross-departmental coordination to resolve customer issues beyond system capabilities
+
+**Skills to build:**
+
+- Basic knowledge of Python/VBA for automated reporting and data analysis
+- Learning Customer Relationship Management (CRM) and Digital Marketing Tools
+- Obtain financial planning certifications (e.g., RG146)
+- Enhance complex communication and objection handling skills
+- Familiarity with Anti-Money Laundering (AML) and compliance regulatory processes
+- Learning AI tools in financial services (e.g., chatbot configuration)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Customer Service
@@ -63,65 +99,67 @@ Bank tellers handle customer transactions such as deposits, withdrawals, transfe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3万欧元的非紧缺职业，需劳动力市场测试。银行柜员年薪通常达标。 |
-| Subclass EU Free Movement（EU/EEA/Swiss Citizen Right） | 欧盟/EEA/瑞士公民可自由工作和居住，无需工作许可。 |
+| Subclass General Employment P (General Employment Permit) | For occupations not in shortage with annual salary below €30,000, a labour market test is required. Bank teller salaries usually meet this threshold. |
+| Subclass EU Free Movement (EU/EEA/Swiss Citizen Right) | EU/EEA/Swiss citizens can work and live freely without a work permit. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bank Teller？**
-- 细心且擅长数字的人
-- 喜欢稳定工作环境的人
-- 具备良好沟通能力的人
+**Who is suited**
+- Detail-oriented and good with numbers
+- People who like a stable work environment
+- People with good communication skills
 
-**谁不适合学Bank Teller？**
-- 追求高薪和快速晋升的人
-- 不适应重复性工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Not suitable for people who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of bank tellers?**
+A: Junior annual salary approx. 24,000-28,000 euros, mid-level 28,000-35,000 euros, senior 35,000-42,000 euros.
+
+**Q: How can non-EU citizens apply for this position?**
+A: Requires obtaining a General Employment Permit; the employer must prove inability to find suitable candidates within the EU. Typically, annual salary must meet the threshold.
+
+**Q: What career advancement opportunities exist for bank tellers?**
+A: Can advance to senior teller, customer service supervisor, branch manager, or move to compliance, risk management, and other back-office departments.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 下滑（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bank Teller属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for bank tellers?**
-答：Entry-level salary is around €24,000-28,000, mid-level €28,000-35,000, and senior €35,000-42,000 per year.
-
-**问：How can non-EU citizens apply for this role?**
-答：They need a General Employment Permit, requiring employer to prove no suitable EU candidate. Salary must meet thresholds.
-
-**问：What are the career advancement opportunities for bank tellers?**
-答：Advancement to senior teller, customer service supervisor, branch manager, or back-office roles like compliance and risk management.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

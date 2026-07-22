@@ -1,68 +1,98 @@
-# 金融分析师（Financial Investment Advisers and Managers nec）职业分析 · 澳大利亚
+# Financial Analyst — career analysis · Australia
 
-**职业代码：222299 – Financial Investment Advisers and Managers nec。**
+**Occupation code: 222299 (ANZSCO)**
 
-金融分析师评估投资机会、分析财务数据并为投资决策提供专业建议，覆盖证券、基金、银行、保险和企业财务。悉尼作为亚太金融中心的地位使金融分析师薪资持续领跑商业类职业，是高薪资潜力最强的商业职业之一。
+Financial analysts evaluate investment opportunities, analyse financial data, and provide professional advice for investment decisions, covering securities, funds, banking, insurance, and corporate finance. Sydney's status as an Asia-Pacific financial hub means financial analyst salaries consistently lead business-sector occupations, making it one of the highest-earning commercial careers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Finance / Commerce / Economics（3年） | 3年（全日制） | $25,000~$155,000（金融/经济/商科相关学位是行业入门基础） |
-| CFA（特许金融分析师） | 2~4年，3级考试（Level I/II/III） | $3,000~$8,000（CFA Level I 考试费约 $700~$1,300；是金融分析师的黄金认证，溢价显著） |
-| VETASSESS 技能评估（189/190签证） | 2~6个月 | $600~$2,000（金融分析师技术移民通常使用VETASSESS评估，约 $650 申请费） |
+| Bachelor of Finance / Commerce / Economics (3 years) | 3 years (full-time) | $25,000~$155,000 (A degree in finance, economics or business is the standard entry point for the industry.) |
+| CFA (Chartered Financial Analyst) | 2–4 years, trade examinations (Level I/II/III) | $3,000~$8,000 (CFA Level I exam fee is approximately $700–$1,300; it is the gold-standard credential for financial analysts and commands a significant salary premium) |
+| VETASSESS skills assessment (189/190 visa) | 2–6 months | $600~$2,000 (Financial analysts typically use VETASSESS for skilled migration assessment, with an application fee of approximately $650) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CFA（Chartered Financial Analyst） | CFA Institute | 可选 | 全球最高认可的投资分析资格，持有者薪资溢价约20~35% |
-| FRM（Financial Risk Manager） | GARP | 可选 | 风险管理专精认证，银行和金融机构风险分析师重要资质 |
-| CFP（Certified Financial Planner） | FPA Australia | 可选 | 个人理财规划师认证，RG146合规要求 |
-| VETASSESS 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
+| CFA（Chartered Financial Analyst） | CFA Institute | Optional | The most globally recognised investment analysis qualification, with holders earning a salary premium of approximately 20–35% |
+| FRM（Financial Risk Manager） | GARP | Optional | Specialist risk management certification; an important credential for risk analysts in banks and financial institutions |
+| CFP（Certified Financial Planner） | FPA Australia | Optional | Personal financial planner certification, RG146 compliance requirement |
+| VETASSESS skills assessment | VETASSESS | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 65,000。JSA 预测金融分析师至2035年就业增长约7%。ESG强制报告和机构投资者的可持续投资需求推动对ESG金融分析师的需求急剧增加。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. JSA projects approximately 7% employment growth for financial analysts by 2035. Mandatory ESG reporting and institutional investors' sustainable investment requirements are driving a sharp increase in demand for ESG financial analysts.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~4,000 个 | 全国，含金融分析师、投资分析师、研究分析师和M&A顾问岗 |
-| Indeed | 1,000~2,500 个 | 含银行、基金公司和企业财务岗 |
-| LinkedIn | 2,000~5,000 个 | 投资银行和大型金融机构直招，猎头活跃 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级/毕业生金融分析师（0~3年） | $75,000~$95,000 | 大型银行和基金公司毕业生起薪 |
-| 中级金融分析师（3~7年） | $95,000~$135,000 | SEEK 区间 $100k~$120k；Indeed 平均 $116,458；Hays $95k~$115k（2026） |
-| 高级/CFA持有金融分析师（7~12年） | $135,000~$200,000 | CFA持有者和ESG专精分析师，含年终奖金 |
-| 投资银行家 / 基金经理（10年+） | $200,000~$500,000 | 投资银行家含奖金总薪酬可超 $300k；基金经理含业绩分成 |
+| Median salary | $137,852 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level/graduate financial analyst (0–3 years) | $75,000~$95,000 | Graduate starting salaries at major banks and fund managers |
+| Mid-level Financial Analyst (3–7 years) | $95,000~$135,000 | Seek range $100k–$120k; Indeed average $116,458; Hays $95k–$115k (2026) |
+| Senior / CFA-qualified financial analyst (7–12 years) | $135,000~$200,000 | CFA holders and ESG-specialist analysts, including year-end bonus |
+| Investment Banker / Fund Manager (10+ years) | $200,000~$500,000 | Investment bankers' total compensation including bonuses can exceed $300k; fund managers including performance fees |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** ESG投资（环境、社会、治理）是2025-2030年增长最快的分析方向，全球ESG资产预计超过US$50万亿。定量分析师（Quant）和AI增强的数据驱动投资分析是薪资溢价最高的专精方向。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on financial analysts is mixed: data collection, basic analysis, and report generation will be automated, but strategic advice, client relationships, and complex judgment still require humans.
+
+ESG investing (Environmental, Social, Governance) is the fastest-growing analytical field from 2025-2030, with global ESG assets expected to exceed US$50 trillion. Quantitative analysts (Quants) and AI-enhanced data-driven investment analysis are the specialisations with the highest salary premiums.
+
+**Tasks most exposed to AI:**
+
+- Automated data collection and cleaning (e.g., batch processing of financial reports)
+- Basic financial modeling and template report generation
+- Routine investment backtesting and risk calculation
+- Automated generation of market summaries and news briefings
+- Preliminary compliance checks and anomaly marking
+
+**Where AI augments the role:**
+
+- AI-assisted deep data analysis (e.g., pattern recognition, predictive modeling)
+- Real-time market monitoring and anomaly alerts
+- Personalized investment plan generation
+- Complex scenario simulation and stress testing
+- Automated preliminary due diligence screening
+
+**Human moat:**
+
+- Complex strategic advice and investment decision judgment
+- Customer relationship management and trust building
+- Unstructured problem-solving (e.g., designing M&A transaction structures)
+- Ultimate responsibility for ethics and compliance
+- Cross-industry knowledge integration and insights
+
+**Skills to build:**
+
+- Python (data analysis and modeling)
+- Machine learning basics (scikit-learn, TensorFlow)
+- Financial technology tools (e.g., Bloomberg Terminal API, Tableau)
+- Natural language processing (for automated financial report analysis)
+- API integration and automated workflows
+- Business storytelling and visualization skills
+
+**Key growth areas:**
 
 - ESG & Sustainable Investment Analysis
 - Quantitative & Algorithmic Trading
@@ -72,90 +102,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，金融机构常直接担保优质候选人 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，VETASSESS技能评估+EOI |
-| Subclass 190（Skilled Nominated） | 州提名，NSW（悉尼金融中心）通道 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; financial institutions frequently sponsor strong candidates directly |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based — VETASSESS skills assessment + EOI |
+| Subclass 190 (Skilled Nominated) | State nomination – NSW (Sydney financial hub) pathway |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学金融分析师？**
-- 持有金融/经济/商科相关学位，有金融机构工作经验
-- 正在备考或已持有CFA/FRM认证
-- 英语能力达到 IELTS 7.0+（投行报告和路演要求高）
-- 有ESG/可持续投资、量化分析或M&A经验（薪资溢价最高）
-- 目标是悉尼（全澳最集中的金融机构）或大型投行/基金公司
-
-**谁不适合学金融分析师？**
-- 仅有普通会计背景，无金融投资分析经验
-- 英语水平偏弱，无法撰写英语投资研究报告
-- 不接受高强度工作文化（特别是投行方向）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a finance/economics/business-related degree with work experience at a financial institution
+- Currently studying for or already holding a CFA/FRM qualification
+- English proficiency at IELTS 7.0+ (required for investment banking reports and roadshows)
+- Experience in ESG/sustainable investment, quantitative analysis or M&A (commands the highest salary premium)
+- Target Sydney (the highest concentration of financial institutions in Australia) or major investment banks/fund managers
+
+**Who is not suited**
+- General accounting background only, with no experience in financial or investment analysis
+- Weak English skills, unable to write investment research reports in English
+- Not suited to high-intensity work cultures (particularly in investment banking)
+
+---
+
+## 8. FAQ
+
+**Q: How much do financial analysts earn in Australia?**
+A: Mid-level financial analysts earn approximately $95,000–$135,000 (Indeed average $116,458; SEEK $100k–$120k); senior analysts with CFA earn approximately $135k–$200k; investment bankers with bonuses can exceed $300k total compensation.
+
+**Q: Is it easy to find work as a financial analyst in Australia?**
+A: Moderate difficulty. Seek lists approximately 1,500–4,000 positions. ESG analysts and quantitative analysts are in short supply, but traditional equity research roles are more competitive. Sydney accounts for approximately 70% of financial analyst positions across Australia.
+
+**Q: Is Chinese financial analysis experience recognised in Australia?**
+A: CFA is an internationally recognised qualification and is fully recognised in Australia. VETASSESS skills assessment has a relatively high recognition rate for finance qualifications. Applicants with experience at mainland Chinese or joint-venture financial institutions will need to demonstrate alignment of their skills with the Australian market.
+
+**Q: Will financial analysts be replaced by AI?**
+A: Basic financial modelling and data consolidation are being affected by AI tools, but investment judgement, client relationships, complex deal structuring and regulatory compliance interpretation remain irreplaceable. Demand for quantitative analysts (who manage AI models) is in fact increasing.
+
+**Q: Is there an age limit for financial analysts in Australia?**
+A: No. Experienced senior analysts and fund managers (aged 40–55) command a significant market premium, particularly those with a strong investment track record.
+
+**Q: What qualifications do you need to become a Financial Analyst in Australia?**
+A: A relevant undergraduate degree in finance, economics or business is the foundation; top investment banks typically prefer finance/economics master's degrees (Master of Finance) from prestigious universities. CFA holders can offset educational limitations.
+
+**Q: Is it difficult to obtain a financial analyst credential for migration to Australia?**
+A: Quite challenging. The overall pass rate for all three CFA levels is only approximately 15%, VETASSESS assessments apply strict standards to finance qualifications, and EOI waiting periods can be lengthy. It is recommended to hold at least CFA Level I before applying.
+
+**Q: Which is better for migrating to Australia — financial analyst or CPA?**
+A: Accountants have a larger job market and a more established migration pathway (MLTSSL + CPA/CAANZ assessment); financial analysts have higher salary potential ($116k–$200k+ vs $80k–$140k) but face more competition. Those with an accounting background should choose the accountant pathway; those with a finance and investment background may consider the financial analyst pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 金融分析师薪资 $100k~$120k（2026） |
-| Indeed AU | 金融分析师平均薪资 $116,458（2026） |
-| Hays AU | 金融分析师薪资 $95k~$115k（2026） |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★☆） |
-| 学习难度 | 很高（★★★★☆） |
-| 考证难度 | 很高（★★★★☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-金融分析师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲金融分析师工资多少？**
-答：中级金融分析师约 $95,000~$135,000（Indeed均值 $116,458；SEEK $100k~$120k）；持CFA高级分析师约 $135k~$200k；投资银行家含奖金总薪可超 $300k。
-
-**问：澳洲金融分析师容易找工作吗？**
-答：中等难度。Seek 挂牌约 1500~4000 个职位，ESG分析师和量化分析师供不应求，但传统股票研究岗位竞争较激烈。悉尼集中了全澳约70%的金融分析岗。
-
-**问：中国金融分析经验澳洲认可吗？**
-答：CFA是国际通用认证，在澳洲完全认可。VETASSESS技能评估对金融学历认可度较高。有中国内资/合资金融机构工作经验者需要证明与澳洲市场的技能对应性。
-
-**问：金融分析师会被AI替代吗？**
-答：基础财务建模和数据整合受AI工具影响，但投资判断、客户关系、复杂交易结构和监管合规解读不可替代。量化分析师（管理AI模型）的需求反而增加。
-
-**问：澳洲金融分析师有年龄限制吗？**
-答：无。经验丰富的资深分析师和基金经理（40~55岁）在市场上具有高溢价，特别是拥有明星投资记录者。
-
-**问：澳洲金融分析师需要什么学历？**
-答：金融/经济/商科相关本科学历是基础；顶级投行通常偏好名校金融/经济硕士（Master of Finance）。CFA持有者可弥补学历不足。
-
-**问：澳洲金融分析师认证（移民）难吗？**
-答：难度较高。CFA考试整体通过率仅约15%（3级均通过），VETASSESS评估对金融学历要求严格，EOI等待期可能较长。建议先持有CFA Level I+再申请。
-
-**问：金融分析师和注册会计师哪个更适合移民澳洲？**
-答：会计师就业量更大、移民路径更成熟（MLTSSL+CPA/CAANZ评估）；金融分析师薪资潜力更高（$116k~$200k+ vs $80k~$140k），但竞争更激烈。有会计背景者首选会计师路径，有金融投资背景者可选金融分析师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

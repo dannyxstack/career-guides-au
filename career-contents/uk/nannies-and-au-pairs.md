@@ -1,62 +1,98 @@
-# Nannies and au pairs（Nannies and au pairs）职业分析 · UK
+# Nannies and au pairs — career analysis · United Kingdom
 
-**职业代码：6116 – Nannies and au pairs。**
+**Occupation code: 6116 (SOC)**
 
-Care for and supervise babies and young children in the children's own homes, including feeding, changing, organizing activities and daily routines.
+Care for and supervise babies and young children at the employer's home, including feeding, changing diapers, arranging activities, and daily routines.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 短期培训课程 | 3个月 | $500~$1,500（如 CACHE 或 NCFE 认证的保姆入门课程） |
-| 儿童保育中级文凭 | 1年 | $2,000~$4,000（如 Diploma in Childcare and Education） |
+| Short-term training course | 3 months | $500~$1,500 (Such as CACHE or NCFE certified nanny introductory courses.) |
+| Diploma in Early Childhood Education and Care | 1 year | $2,000~$4,000 (Such as Diploma in Childcare and Education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童保育三级文凭 | CACHE/NCFE | 可选 | 常见雇主需求 |
-| 急救证书 | 红十字或圣约翰 | 可选 | 推荐持有 |
-| 12小时保姆培训 | PACEY | 可选 | 专业协会推荐 |
-| DBS无犯罪记录检查 | 英国内政部 | 必备 | 雇主通常要求 |
+| DBS criminal record check | Department of Home Affairs | Required | Employers typically require |
+| Certificate III in Children's Services | CACHE/NCFE | Optional | Common employer requirements |
+| First aid certificate | Red Cross or St. John | Optional | Recommended to hold |
+| 12-hour nanny training. | PACEY | Optional | Professional association recommendation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 65,000。英国对保姆的需求稳定，尤其在双职工家庭较多的城市地区。但行业分散，正规雇主担保较少见。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Demand for nannies in the UK is stable, especially in urban areas with many dual-income families. However, the industry is fragmented, and formal employer sponsorship is rare.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 兼职或住家保姆 |
-| 中级（3-5年） | $25,000~$30,000 | 有经验和认证 |
-| 高级（5年以上） | $30,000~$40,000 | 高级育儿师或管家 |
+| Median salary | $38,447 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Part-time or live-in nanny |
+| Mid-level (3–5 years) | $25,000~$30,000 | Experience and certification |
+| Senior (5+ years) | $30,000~$40,000 | Advanced childcarer or butler |
+| average salary | $38,262 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从初级保姆晋升为高级保姆或育儿管家，部分人可转向早教或儿童保育管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The nanny and au pair profession is mixed in its AI impact: simple housework and schedule management can be automated, but core infant emotional interaction, safety monitoring, and personalised care require human judgment; entry-level roles have narrowed slightly due to platform standardisation.
+
+Can advance from junior nanny to senior nanny or childcare manager; some may transition to early childhood education or childcare management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically record baby sleep, feeding, and diaper changes via smart devices
+- Using smart speakers to read bedtime stories, play white noise, or soothing music
+- Remotely monitor baby activities via camera and receive anomaly alerts
+- Use an app to automatically generate daily activity plans and nutrition recommendations
+- Automate parts of cleaning, disinfection, or item organization tasks
+
+**Where AI augments the role:**
+
+- Use AI health monitoring devices (e.g., respiratory sensors) to monitor infant vital signs in real time, enhancing safety
+- Using language learning apps (e.g., AI voice interaction) to assist with early childhood education
+- Optimizing time allocation and activity scheduling for families with multiple children using an AI calendar management system
+- Better communicate with international employer families using AI translation tools
+- Get the latest child development advice and first aid guidelines from the AI parenting knowledge base
+
+**Human moat:**
+
+- Ability to build trust and emotional attachment with infants and young children
+- Quickly make correct judgments in sudden situations (e.g., choking, fever)
+- Understanding and responding to infants' non-verbal cues (crying, facial expressions)
+- Meeting individualized care needs for different family cultural backgrounds
+- Long-term stable companionship and emotional investment
+
+**Skills to build:**
+
+- Using smart baby monitoring devices and home automation systems
+- Learn basic child psychology and early childhood development knowledge
+- Mastery of AI-assisted early childhood education software and interactive toys
+- Improve first aid and child safety knowledge (includes online certification course).
+- Learn time management and data analysis (to optimize schedules for multiple children)
+- Enhanced cross-cultural communication skills (may serve diverse employers)
+
+**Key growth areas:**
 
 - Domestic childcare
 - Early years education
@@ -65,65 +101,67 @@ Care for and supervise babies and young children in the children's own homes, in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 理论上可担保，但保姆薪酬通常低于一般门槛，雇主需支付至少 £38,700/年，实际很难满足。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许在英工作2年，可从事保姆工作，但无永居导向。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Theoretically possible to sponsor, but nanny salaries are usually below the general threshold; employers must pay at least £38,700/year, making it difficult in practice. |
+| Subclass Graduate (Graduate visa) | Graduate visa allows working in the UK for 2 years, including as a nanny, but does not lead to permanent residence. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Nannies and au pairs？**
-- 喜欢与儿童相处、有耐心和责任感的人
-- 寻求灵活工作安排（如住家或兼职）的人
-- 希望进入儿童保育行业作为起点的人
+**Who is suited**
+- People who enjoy working with children and have patience and a sense of responsibility
+- Seeking flexible work arrangements (such as live-in or part-time)
+- People who wish to enter the childcare industry as a starting point
 
-**谁不适合学Nannies and au pairs？**
-- 需要高薪和明确职业晋升路径的人
-- 希望获得英国永居签证的人（该职业很难通过工作签证移民）
+**Who is not suited**
+- People who need high pay and clear career advancement paths.
+- Those hoping to obtain UK permanent residence visa (this occupation is difficult to immigrate through work visa)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for nannies in the UK?**
+A: Based on experience, annual salary ranges from £18,000 to £40,000; live-in nanny roles typically pay lower but include room and board. London salaries are slightly higher.
+
+**Q: Can nannies immigrate to the UK via work visa?**
+A: Extremely difficult. Skilled Worker visa requires an annual salary of at least £38,700, which most nanny positions don't meet, and the occupation is not on the shortage list.
+
+**Q: What are the career development paths for nannies?**
+A: Can advance to senior nanny, childcare housekeeper, or transition to roles such as early childhood teacher or childcare manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Nannies and au pairs属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for nannies in the UK?**
-答：Salaries range from £18,000 to £40,000 per year depending on experience; live-in nannies usually earn less but receive board and lodging. London rates are slightly higher.
-
-**问：Can a nanny get a work visa to migrate to the UK?**
-答：Very difficult. The Skilled Worker visa requires a minimum salary of £38,700, which most nanny roles do not meet, and the occupation is not on the shortage list.
-
-**问：What are the career progression options for nannies?**
-答：Progress to senior nanny, nanny housekeeper, or transition to early years educator or childcare manager.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

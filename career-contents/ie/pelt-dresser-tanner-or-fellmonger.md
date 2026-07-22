@@ -1,58 +1,94 @@
-# Pelt Dresser, Tanner or Fellmonger（Pelt Dresser, Tanner or Fellmonger）职业分析 · IE
+# Pelt Dresser, Tanner or Fellmonger — career analysis · Ireland
 
-**职业代码：7535 – Pelt Dresser, Tanner or Fellmonger。**
+**Occupation code: 7535 (ISCO08)**
 
-Process animal hides by tanning, dyeing, and finishing to produce leather or fur for garments, footwear, and furniture industries.
+Responsible for processing animal hides, converting them into leather or fur through tanning, dyeing, finishing, and other processes for use in the clothing, footwear, furniture, and other industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后职业教育 | 1-2年 | $3,000~$8,000（如当地继续教育学院（PLC）的皮革工艺课程） |
-| 学徒制 | 3-4年 | —（雇主提供在职培训，可能收取少量注册费） |
+| Post-secondary vocational education | 1-2 years | $3,000~$8,000 (Leather craft course at a local Further Education College (PLC)) |
+| Apprenticeship | 3-4 years | $0~$5,000 (Employer provides on-the-job training, may charge a small registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皮革加工技能证书 | 爱尔兰继续教育与培训（FET） | 可选 | 完成相关课程后获得 |
-| 健康与安全认证 | 健康与安全局（HSA） | 必备 | 化学品安全处理必修 |
+| Health and safety certification. | Health and Safety Authority (HSA) | Required | Mandatory for safe handling of chemicals |
+| Certificate in Leather Processing Skills | Ireland's Further Education and Training (FET) | Optional | Obtained after completing relevant courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 200。爱尔兰皮革制造业规模较小，主要服务于本地特色产业（如手工制品）。就业机会有限，预计缓慢增长，受环保法规和合成材料替代影响。
+**Job demand: low (★½☆☆☆).** National workforce approx. 200. Ireland's leather manufacturing industry is small-scale, mainly serving local specialty industries (e.g., handmade products). Employment opportunities are limited, with slow growth expected, impacted by environmental regulations and synthetic material alternatives.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，视企业规模而定 |
-| 中级（3-7年） | $28,000~$35,000 | 包括高级操作工或初级主管 |
-| 高级（7年以上） | $35,000~$45,000 | 含主管、技师或自营工匠 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary, depending on company size |
+| Mid-level (3–7 years) | $28,000~$35,000 | Includes senior operators or junior supervisors. |
+| Senior (7+ years) | $35,000~$45,000 | Includes supervisor, technician, or self-employed artisan |
+| average salary | $32,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级工人可晋升为高级技师或生产主管；少数经验丰富者可自行创业开设小型皮革工坊。行业自动化程度提升，但手工技艺仍受青睐。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Fur processors and tanners face high automation risk, especially in repetitive tasks like tanning and dyeing; entry-level positions significantly reduced, leaving only a few high-skilled custom jobs.
+
+Entry-level workers can be promoted to senior technicians or production supervisors; a few experienced individuals can start their own small leather workshops. Automation in the industry is increasing, but manual skills are still valued.
+
+**Tasks most exposed to AI:**
+
+- Chemical proportioning and soaking time control in raw hide tanning process
+- Mechanical fleshing and degreasing of hides
+- Color blending and uniformity control in dyeing processes
+- Mechanical buffing and finishing of finished leather
+- Basic quality inspection and defect identification
+
+**Where AI augments the role:**
+
+- Uses AI to analyze hide quality and optimize process workflow
+- Simulate tanning effects using digital twin technology to reduce material waste
+- Use AI to assist in designing personalized leather textures and colors
+- Using AI to predict equipment maintenance needs, reducing downtime
+- Use computer vision to automatically detect leather defects, improving quality control accuracy.
+
+**Human moat:**
+
+- Experience and tactile judgment in handling rare or special leather materials
+- Creative design and handicraft for complex custom orders
+- Integrated application of environmental compliance and chemical safety knowledge
+- Direct communication and customized services with high-end clients or brands.
+- Tradition and innovation in traditional hand-tanning techniques
+
+**Skills to build:**
+
+- Learn to operate and program automated leather processing equipment
+- Mastery of the use and maintenance of AI quality inspection systems
+- Learn sustainable tanning processes and eco-friendly materials knowledge
+- Enhance creative design capabilities, using AI tools for personalized development
+- Learn data analysis and process optimization skills.
+- Master basic programming (e.g., Python) to customize automated workflows
+
+**Key growth areas:**
 
 - Artisanal leather goods
 - Sustainable tanning
@@ -61,67 +97,66 @@ Process animal hides by tanning, dyeing, and finishing to produce leather or fur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达到€30,000以上。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动的员工，需有相关工作经验。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requires employer sponsorship, annual salary must exceed €30,000. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable to employees transferred within multinational companies, requiring relevant work experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pelt Dresser, Tanner or Fellmonger？**
-- 对传统手工艺有热情，注重细节
-- 愿意从事体力劳动，适应化学品工作环境
-- 有创业意向，希望开设个人工坊
-
-**谁不适合学Pelt Dresser, Tanner or Fellmonger？**
-- 对异味和化学品敏感
-- 寻求高薪或快速晋升机会
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about traditional handicrafts, attention to detail
+- Willing to perform physical labour and adapt to chemical work environments
+- Entrepreneurial spirit, interested in setting up a personal workshop
+
+**Who is not suited**
+- Sensitive to odors and chemicals.
+- Seeking high salary or rapid promotion opportunities
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of fur processors in Ireland?**
+A: Entry-level annual salary approx. €23,000-28,000; senior technician or supervisor can reach €35,000-45,000, but overall below national average income.
+
+**Q: Can foreigners immigrate to Ireland through this occupation?**
+A: This occupation is not on the shortage list; requires a General Employment Permit, annual salary must be over €30,000, and employer must pass a labor market test.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Can be promoted from operator to senior technician or production supervisor, or self-study to start a business, but the industry is small with limited opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pelt Dresser, Tanner or Fellmonger的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for pelt dressers in Ireland?**
-答：Entry-level salaries range from €23,000 to €28,000, while senior technicians can earn up to €45,000, below the national average.
-
-**问：Can foreigners immigrate through this occupation?**
-答：This occupation is not on the Critical Skills list; a General Employment Permit is required with a salary of at least €30,000 and a labor market test.
-
-**问：Are there career advancement opportunities?**
-答：Workers can advance to senior technician or supervisor roles, or start their own workshop, though opportunities are limited due to the small industry.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,89 @@
-# Elevator Installer and Repairer（Elevator Installer and Repairer）职业分析 · FR
+# Elevator Installer and Repairer — career analysis · France
 
-**职业代码：I1301 – Elevator Installer and Repairer。**
+**Occupation code: I1301 (ROME)**
 
-Responsible for installing, maintaining, repairing, and troubleshooting elevators, escalators, and other vertical transport equipment to ensure safe operation. Requires knowledge of mechanical, electrical, and electronic systems, with strict adherence to safety standards.
+Responsible for installation, maintenance, inspection, and troubleshooting of vertical transportation equipment such as elevators and escalators to ensure safe operation. Must master mechanical, electrical, and electronic technology knowledge and strictly comply with safety regulations.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职高文凭（CAP） | 2年 | —（公立学校免费，apprentissage 有工资） |
-| 高级技师证书（BTS） | 2年 | —（公立学校学费低，apprentissage 有工资） |
+| Diploma of Vocational High School (CAP) | 2 years | $0~$5,000 (Public schools are free, and apprentissage is paid) |
+| Senior Technician Certificate (BTS) | 2 years | $0~$8,000 (Public school tuition is low, and apprentissance offers wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电梯维修安装资格证书 | 法国劳动部或专业机构 | 必备 | 行业必备，需理论考试和实操评估 |
-| 安全认证（如 SST） | 法国国家健康与安全机构 | 可选 | 急救和职业安全培训，加分项 |
+| Elevator maintenance and installation qualification certificate | The French Ministry of Labor or professional institutions | Required | Essential for the industry, requiring theoretical exams and practical assessments |
+| Security certifications (such as SST) | French National Health and Safety Agency | Optional | First aid and occupational safety training, bonus points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 18,000。法国电梯安装与维修行业稳定，受城市化和老旧电梯改造需求驱动。就业机会较多，尤其在大城市和商业区。需持续培训以适应新技术（如智能电梯）。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. France's elevator installation and maintenance industry is stable, driven by urbanization and the need for retrofitting old elevators. There are more job opportunities, especially in big cities and business districts. Ongoing training is needed to adapt to new technologies (such as smart elevators).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（4-10年） | $30,000~$40,000 | 税前年薪 |
-| 高级（10年以上） | $42,000~$55,000 | 税前年薪，含主管等 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-10 years). | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (10+ years) | $42,000~$55,000 | Pre-tax annual salary, including supervisors, etc |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定向好（★★★½☆）。** 职业路径：学徒/初级技术员 → 资深维修技工 → 团队主管/项目经理。可向建筑设备管理、电梯销售或自主创业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
+
+Career paths: Apprentice/Junior Technician → Senior Maintenance Technician → Team Leader/Project Manager. You can develop your career in building equipment management, elevator sales, or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and recording of elevator operation data, which can be automatically collected and analyzed by AI systems
+- AI can autonomously generate maintenance suggestions based on historical data for fault pattern recognition
+- Some preventive maintenance tasks like cleaning and lubrication can be performed by robots or automated equipment
+
+**Where AI augments the role:**
+
+- AI provides real-time elevator fault diagnosis suggestions, assisting repair technicians in quickly locating issues
+- Use computer vision to inspect elevator components for surface wear or cracks, improving detection accuracy.
+- Simulate elevator installation process through digital twins, optimizing installation plans and reducing rework
+
+**Human moat:**
+
+- On-site safety assessment and emergency response (e.g., rescuing trapped persons) requires human judgment
+- Retrofit of non-standard electromechanical systems in old elevators relies on experience
+- Communication and compliance coordination with owners and inspectors cannot be automated
+
+**Skills to build:**
+
+- Learning to operate AI fault diagnosis software (e.g., predictive maintenance platforms)
+- Proficiency in configuring and analyzing elevator IoT sensor data
+- Enhance skills in electrical control system debugging and PLC programming
+- Learn to use augmented reality (AR) assisted repair tools
+- Familiar with elevator-related regulations and safety standards (e.g., ASME A17.1)
+
+**Key growth areas:**
 
 - Urbanization
 - Smart Elevators
@@ -63,65 +92,64 @@ Responsible for installing, maintaining, repairing, and troubleshooting elevator
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需法国雇主担保，证明职位难以找到本地候选人，通常需要职业资格认证 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或紧缺职业，需年薪达一定标准（约40k€以上），可长期居留 |
+| Subclass Salarié (Employee Work Permit) | A French employer sponsorship is required, proving that the position is difficult to find local candidates, usually requiring professional qualification certification |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or in-demand occupations, requiring an annual salary meeting a certain standard (about €40k or above) for long-term residence |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Elevator Installer and Repairer？**
-- 喜欢动手操作、技术维修工作，对机械和电气系统感兴趣
-- 适应高空作业和密闭空间，具有安全意识
-- 愿意接受学徒培训并长期在技术领域深耕
-
-**谁不适合学Elevator Installer and Repairer？**
-- 有严重恐高症或幽闭恐惧症
-- 不喜欢体力劳动和现场作业
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on operations and technical maintenance, and is interested in mechanical and electrical systems
+- Adapted for high-altitude work and confined spaces, with safety awareness
+- Willing to undertake apprenticeship training and deepen long-term expertise in the technical field
+
+**Who is not suited**
+- Severe acrophobia or claustrophobia
+- Dislikes physical labor and on-site work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for elevator maintenance workers?**
+A: Junior €24-30k, intermediate €30-40k, senior €42-55k (pre-tax annual salary). Overtime and on-call allowances can boost income, but limited by industry pay scales.
+
+**Q: How can non-EU foreigners obtain a French elevator maintenance worker work visa?**
+A: You must first pass academic certification or obtain French CAP/BTS qualifications, then apply for a Salarié work permit from your employer. Shortage occupations may lower the threshold, but you need to prepare French language and qualification certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定向好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Elevator Installer and Repairer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for elevator repairers?**
-答：Entry-level: €24-30k, mid-level: €30-40k, senior: €42-55k (gross annual). Overtime and emergency call-out allowances can increase income, but overall capped by industry standards.
-
-**问：How can a non-EU foreigner obtain a work visa as an elevator repairer in France?**
-答：Must first obtain recognized qualifications (e.g., CAP/BTS) or go through equivalence, then secure an employer to apply for a Salarié permit. Shortage status may ease requirements, but French language skills and credential validation are essential.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

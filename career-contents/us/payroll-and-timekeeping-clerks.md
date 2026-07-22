@@ -1,60 +1,96 @@
-# Payroll and Timekeeping Clerks（Payroll and Timekeeping Clerks）职业分析 · 美国
+# Payroll and Timekeeping Clerks — career analysis · United States
 
-**职业代码：43-3051 – Payroll and Timekeeping Clerks。**
+**Occupation code: 43-3051 (SOC)**
 
-Compile and record employee time and payroll data, compute hours, production, and commissions, and process deductions and paychecks.
+Responsible for collecting and recording employee work hours and payroll data, calculating hours, production, and commissions, and handling deductions, preparing pay slips, etc.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入职要求 |
-| 薪资专业人士认证(Certified Payroll Professional) | 美国薪资协会(APA) | 可选 | 提升专业地位 |
+| High school diploma or equivalent | High school | Required | Basic entry requirements |
+| Certified Payroll Professional | American Payroll Association (APA) | Optional | Enhance professional status |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 148,800。预计2023-2033年就业增长率约-4%，受自动化软件普及影响，岗位数量下降。但中小企业仍需人工处理复杂薪酬问题。
+**Job demand: low (★½☆☆☆).** National workforce approx. 148,800. Employment growth is projected at about -4% from 2023 to 2033, affected by widespread automation software, leading to job declines. However, small and medium enterprises still need manual handling of complex payroll issues.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级岗位 |
-| 中级（3-7年） | $42,000~$55,000 | 有一定经验 |
-| 高级（7年以上） | $55,000~$65,000 | 资深或主管 |
+| Median salary | $58,260 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level roles |
+| Mid-level (3–7 years) | $42,000~$55,000 | Some experience |
+| Senior (7+ years) | $55,000~$65,000 | Senior or supervisor |
+| average salary | $59,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★☆☆☆☆）。** 可从初级数据录入晋升为高级薪资专员或薪资经理，也可转向人力资源或会计领域。考取认证（如CPP）可提升竞争力。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Payroll clerk roles are being rapidly automated by software and AI, especially data entry and compliance checks, but due to tasks requiring human judgment like award interpretation, manual review, and employee inquiries, the role won't disappear entirely, though entry requirements have risen significantly.
+
+Can advance from entry-level data entry to senior payroll specialist or payroll manager, or transition to HR or accounting roles. Obtaining certification (e.g. CPP) can boost competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Attendance data entry and work hour calculation
+- Single Touch Payroll (STP) data auto-reporting
+- Automatic generation and distribution of payroll
+- Automatically calculate overtime, deductions, and withholdings per preset rules
+- Basic award clause matching and compliance checks
+
+**Where AI augments the role:**
+
+- Leveraging data sets and AI prompts to quickly interpret complex Award clauses
+- Using RPA tools to automatically consolidate multi-channel attendance data
+- Rapid generation of multi-scenario compensation reports and anomaly alerts via AI assistance
+- Use chatbots to handle common employee payroll inquiries
+- Optimize payroll processes and costs using big data analytics
+
+**Human moat:**
+
+- Complex award interpretation and human judgment (e.g., overtime rule disputes)
+- Communicate sensitive topics such as salary adjustments and deductions with employees and management
+- Handling non-standard exceptions (e.g., one-time bonuses, back pay, tax incentives)
+- Final manual review to ensure payroll system and legal compliance
+- Cross-departmental coordination (with HR, finance, legal)
+
+**Skills to build:**
+
+- Proficient in payroll software (e.g., Xero, MYOB, ADP) and RPA tools
+- Master Award interpretation skills and Fair Work regulation updates
+- Data analysis skills (using advanced Excel functions or Python)
+- Applying AI tools (e.g., ChatGPT for clause interpretation, report generation)
+- Communication and conflict resolution skills
+- Basic accounting and tax knowledge (e.g., PAYG, Superannuation)
+
+**Key growth areas:**
 
 - Declining employment
 - Automation
@@ -63,62 +99,64 @@ Compile and record employee time and payroll data, compute hours, production, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位，难以满足H-1B专业职位要求。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少使用，需雇主证明无法找到合格美国工人，但该职业非高技能，PERM申请困难。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable, as this occupation usually does not require a bachelor's degree, making it hard to meet H-1B specialty occupation requirements. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Rarely used; employers must prove they cannot find qualified US workers, but the occupation is not high-skilled, making PERM applications difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Payroll and Timekeeping Clerks？**
-- 注重细节、耐心细致的人
-- 寻求稳定办公室工作、不追求高薪的人
-- 希望在人力资源或财务领域入门的人
+**Who is suited**
+- Detail-oriented, patient, and careful people
+- People seeking stable office work and not pursuing high salaries
+- For those wanting to enter human resources or finance
 
-**谁不适合学Payroll and Timekeeping Clerks？**
-- 追求高薪和职业晋升的人
-- 害怕被自动化取代、希望长期稳定的人
+**Who is not suited**
+- People pursuing high salaries and career advancement
+- Those afraid of being replaced by automation and seeking long-term stability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for payroll and attendance clerks?**
+A: Median annual salary in the US is about $46,000, top 10% up to $65,000, bottom 10% around $32,000.
+
+**Q: Can this occupation immigrate to the US through skilled migration?**
+A: Extremely difficult. This occupation usually does not meet H-1B or EB-2/3 requirements, and demand is declining, with low employer sponsorship willingness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较易（★☆☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 较差（★☆☆☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Payroll and Timekeeping Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for payroll and timekeeping clerks?**
-答：Median annual wage is about $46,000, top 10% earn up to $65,000, bottom 10% around $32,000.
-
-**问：Can I immigrate to the US through this occupation?**
-答：Very difficult. It typically does not meet H-1B or EB-2/3 requirements, and declining demand reduces employer sponsorship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

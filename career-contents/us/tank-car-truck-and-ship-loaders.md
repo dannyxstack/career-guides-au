@@ -1,60 +1,92 @@
-# Tank Car, Truck, and Ship Loaders（Tank Car, Truck, and Ship Loaders）职业分析 · 美国
+# Tank Car, Truck, and Ship Loaders — career analysis · United States
 
-**职业代码：53-7121 – Tank Car, Truck, and Ship Loaders。**
+**Occupation code: 53-7121 (SOC)**
 
-Load and unload chemicals and bulk solids into or from tank cars, trucks, or ships using material moving equipment; may perform tasks related to product shipment.
+Use material handling equipment to load or unload chemicals and bulk solids (e.g., coal, sand, grain) into tank trucks, trucks, or ships, and may perform other tasks related to product transportation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-3个月 | —（雇主提供培训，可能涉及安全认证费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Employer provides training, may involve safety certification costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 危险品操作认证 | 美国运输部（DOT） | 必备 | 运输危险化学品时强制要求 |
-| 叉车操作证 | 职业安全与健康管理局（OSHA） | 可选 | 常用设备操作证书 |
+| Hazardous Materials Handling Certification | U.S. Department of Transportation (DOT) | Required | Mandatory when transporting dangerous chemicals |
+| Forklift operation certificate | Occupational Safety and Health Administration (OSHA) | Optional | Certificate for operating common equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 11,500。美国劳工统计局预计该职业就业增长缓慢，主要受自动化影响。但化工和能源行业的持续需求将提供稳定就业机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 11,500. The U.S. Bureau of Labor Statistics projects slow job growth for this occupation, mainly due to automation. However, continued demand in the chemical and energy industries will provide stable employment opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 时薪约$14-19 |
-| 中级（3-7年） | $40,000~$52,000 | 时薪约$19-25 |
-| 高级（7年以上） | $50,000~$65,000 | 含监督职责，时薪约$24-31 |
+| Median salary | $58,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Hourly wage approximately $14-19 |
+| Mid-level (3–7 years) | $40,000~$52,000 | Hourly wage approx. $19-25 |
+| Senior (7+ years) | $50,000~$65,000 | Including supervisory duties, hourly wage approx. $24-31 |
+| average salary | $59,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 通常从装卸工起步，积累经验后可晋升为监督员或物流协调员。部分地区需获得危险品操作认证以扩大职责。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI automation will significantly replace core tasks of tanker, truck, and ship loaders, such as monitoring loading equipment, recording inventory, and generating reports. Manual operations for entry-level positions are decreasing, leading to job contraction, but safety supervision duties remain partially retained.
+
+Typically start as a loader/unloader, gain experience to advance to supervisor or logistics coordinator. Some regions require hazardous materials handling certification to expand duties.
+
+**Tasks most exposed to AI:**
+
+- Using automated systems to monitor loading/unloading levels, pressure, and flow
+- Automatically record product types and quantities via electronic checklist
+- Generate loading/unloading reports and send them to dispatch and inventory systems
+- Routine start/stop control when operating equipment such as conveyors or pumps
+
+**Where AI augments the role:**
+
+- use AI to optimize loading/unloading sequence and equipment scheduling to reduce waiting times
+- Prevent equipment failure and leakage risks through predictive analytics
+- Real-time data dashboards assist operational decisions
+- Remote monitoring of multi-site operations to improve efficiency
+
+**Human moat:**
+
+- On-site judgment and emergency response in urgent situations
+- Human intervention in complex environments (e.g., manual operation during equipment failure)
+- Safety regulation compliance and on-site safety supervision
+- Interpersonal coordination and communication with drivers, dispatchers, etc.
+
+**Skills to build:**
+
+- Automated control system operation and troubleshooting
+- Use of data analysis and reporting tools (e.g., Excel, BI)
+- Basic programming skills (e.g., Python for script automation)
+- Safety management systems and compliance knowledge
+- IoT device maintenance and diagnostics
+
+**Key growth areas:**
 
 - Slow growth
 - Automation impact
@@ -63,65 +95,67 @@ Load and unload chemicals and bulk solids into or from tank cars, trucks, or shi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 季节性非农业工人签证，适用于临时装卸工岗位，但需雇主证明劳工短缺。 |
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不要求本科以上学历。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal non-agricultural worker visa, suitable for temporary dockworker positions, but employer must prove labor shortage. |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation does not require a bachelor's degree or higher. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tank Car, Truck, and Ship Loaders？**
-- 体力充沛、适应户外和危险环境者
-- 愿意从事重复性体力劳动并注重安全规范者
-- 寻求快速入职、无需高学历者
+**Who is suited**
+- Those with strong physical stamina, suited for outdoor and hazardous environments
+- Willing to perform repetitive physical labor and adhere to safety protocols
+- Seeking quick employment without requiring a high degree
 
-**谁不适合学Tank Car, Truck, and Ship Loaders？**
-- 对化学品敏感或不适应体力劳动强度者
-- 期望高收入或职业晋升空间有限者
+**Who is not suited**
+- Those sensitive to chemicals or not suited to the physical demands of manual labor
+- Those expecting high income or limited career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a tanker loader?**
+A: According to BLS 2023 data, median annual salary approx. USD 40,000, hourly wage approx. USD 19.
+
+**Q: Can foreigners apply for an H-1B visa to work in this occupation?**
+A: Generally no, because the occupation does not require a bachelor's degree and does not meet H-1B specialty occupation requirements. However, H-2B seasonal visas may be an option.
+
+**Q: Is there a green card pathway for this occupation?**
+A: Extremely difficult. EB-3 requires at least 2 years of experience or training and a PERM labor certification, but employers are often unwilling to sponsor green cards for low-skilled positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Tank Car, Truck, and Ship Loaders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for tank car loaders?**
-答：According to BLS 2023 data, the median annual wage is around $40,000, or $19 per hour.
-
-**问：Can foreigners apply for an H-1B visa for this occupation?**
-答：Generally no, as it does not require a bachelor's degree. However, H-2B seasonal visas may be available.
-
-**问：Is there a green card pathway for this occupation?**
-答：Extremely difficult. EB-3 requires 2+ years experience/training and PERM certification, but employers rarely sponsor low-skilled roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

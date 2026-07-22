@@ -1,59 +1,95 @@
-# IT managers（IT managers）职业分析 · UK
+# IT managers — career analysis · United Kingdom
 
-**职业代码：2132 – IT managers。**
+**Occupation code: 2132 (SOC)**
 
-IT managers plan, organise, manage and coordinate the provision of IT and telecommunications services and functions in an organisation, ensuring technology aligns with business goals. They lead teams, manage budgets, and oversee system implementation and maintenance.
+IT managers plan, organize, direct, control, and coordinate IT and telecommunications services and functions within organizations, ensuring technology strategy aligns with business goals. They lead teams, manage budgets, and oversee system implementation and maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$18,000（英国本土学生学费上限；国际生约15000-30000英镑/年） |
-| 硕士 | 1年 | $10,000~$25,000（国际生学费；部分提供奖学金） |
+| Bachelor's degree | 3 years | $9,000~$18,000 (Domestic student tuition cap; international students: approximately £15,000-30,000 per year) |
+| Master's degree | 1 year | $10,000~$25,000 (International student fees; some scholarships available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ITIL Foundation | AXELOS | 可选 | IT服务管理基础认证，广泛认可 |
-| 项目管理专业人士（PMP） | PMI | 可选 | 项目管理认证，提升管理能力 |
-| 计算机科学或相关领域学位 | 大学 | 必备 | 通常为本科或硕士学历 |
+| Degree in computer science or related field | University | Required | Usually a bachelor's or master's degree. |
+| ITIL Foundation | AXELOS | Optional | IT service management foundation certification, widely recognized |
+| Project Management Professional (PMP) | PMI | Optional | Project management certification to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。英国IT经理需求持续增长，尤其是数字化转型和网络安全领域。预计2020-2030年就业增长约10%，远高于平均水平。伦敦和东南部机会最多，但远程工作趋势增加了各地机会。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. Demand for IT managers in the UK is growing steadily, especially in digital transformation and cybersecurity. Employment is projected to grow about 10% from 2020-2030, well above average. London and the Southeast offer the most opportunities, but remote work trends have increased opportunities elsewhere.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 通常担任IT经理助理或小团队主管 |
-| 中级（3-7年） | $50,000~$75,000 | 管理中型团队或项目 |
-| 高级（7年以上） | $75,000~$120,000 | 大型组织或总监级别 |
+| Median salary | $56,438 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $35,000~$50,000 | Typically serves as an IT manager assistant or leader of a small team. |
+| Mid-level (3–7 years) | $50,000~$75,000 | Managing medium-sized teams or projects |
+| Senior (7+ years) | $75,000~$120,000 | Large organizations or director level |
+| average salary | $62,632 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级可晋升为高级IT经理、IT总监或首席信息官（CIO）。也可专攻项目管理、网络安全或云架构。积累管理经验和专业认证（如PMP、ITIL）是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of IT project managers (communication, decision-making, stakeholder management) are hard to replace by AI, but AI tools significantly boost efficiency in execution tasks like progress tracking, document generation, and risk prediction, potentially reducing demand for junior PM roles while senior roles require AI tool proficiency.
+
+Junior roles can advance to senior IT manager, IT director, or Chief Information Officer (CIO). Alternatively, specialize in project management, cybersecurity, or cloud architecture. Accumulating management experience and professional certifications (e.g., PMP, ITIL) is key to promotion.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate project status reports and meeting minutes
+- Use AI for resource allocation conflict detection and give optimisation suggestions
+- Use machine learning to predict project delay risks and trigger automatic alerts.
+- Automatically organize JIRA/Asana tasks and generate burn-down charts
+- Basic question-answering project data queries (e.g., budget consumption, milestone completion rates)
+
+**Where AI augments the role:**
+
+- Using AI prediction models to quickly assess risk-return of different decision paths
+- Real-time cross-team key indicators via natural language query dashboards
+- Use AI meeting assistants to automatically transcribe and sync action items to kanban boards
+- Use generative AI to draft requirements documents, user stories, and acceptance criteria
+- Stakeholder communication rehearsal through simulated AI avatars
+
+**Human moat:**
+
+- Cross-department communication and conflict mediation skills.
+- Strategic priority judgment in uncertain environments
+- Intuitive insight into project vision and user value
+- Legal compliance and ethical responsibility
+- Team morale boosting and change management
+
+**Skills to build:**
+
+- Master AI project management tools (e.g., Asana AI, Jira AI extensions)
+- Learn basic prompt engineering to efficiently use Copilot/Claude for document generation
+- Understand machine learning model evaluation metrics (precision, recall, AUC) for risk prediction
+- Combine data visualization (Tableau/Power BI) with natural language query
+- Integration of Agile/DevOps with AI Continuous Integration/Continuous Delivery (CI/CD) processes
+- Trust building and ethical decision-making in stakeholder+AI interactions
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cybersecurity
@@ -62,69 +98,68 @@ IT managers plan, organise, manage and coordinate the provision of IT and teleco
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的IT经理，满足薪资和技能要求；该职业在Immigration Salary List上，享受优先处理 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在数字技术领域有杰出成就或潜力的IT经理，无需雇主担保，可快速获得永居 |
-| Subclass Scale-up（Scale-up Worker Visa） | 适用于在快速增长企业担任IT经理职位，满足薪资要求，前6个月需雇主担保，之后可自由更换雇主 |
-| Subclass Graduate（Graduate Visa） | 适用于英国高校应届毕业生，可在毕业后留英2年（博士3年）寻找工作，积累经验后转Skilled Worker |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to IT managers with employer sponsorship, meeting salary and skill requirements; this occupation is on the Immigration Salary List and enjoys priority processing. |
+| Subclass Global Talent (Global Talent Visa) | For IT managers with outstanding achievements or potential in digital technology, no employer sponsorship required, can obtain permanent residency quickly |
+| Subclass Scale-up (Scale-up Worker Visa) | Suitable for IT Manager positions in fast-growing companies, meeting salary requirements. Employer sponsorship needed for the first 6 months, after which you can freely change employers. |
+| Subclass Graduate (Graduate Visa) | Applicable to recent graduates from UK universities, allowing them to stay in the UK for 2 years (PhD 3 years) to find work and gain experience before transitioning to Skilled Worker. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学IT managers？**
-- 具备技术背景且希望转向管理岗位的人
-- 有出色沟通和领导能力的人
-- 对数字化转型和战略规划感兴趣的人
-
-**谁不适合学IT managers？**
-- 偏好纯技术工作、不愿承担管理责任的人
-- 不喜欢处理预算、人员管理或跨部门协调的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for those with a technical background looking to transition into management roles
+- People with excellent communication and leadership skills
+- People interested in digital transformation and strategic planning
+
+**Who is not suited**
+- People who prefer pure technical work and are unwilling to take on management responsibilities
+- People who dislike handling budgets, personnel management, or cross-departmental coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an IT manager?**
+A: The average annual salary for an IT manager in the UK is about £65,000, with junior roles earning £35,000-50,000 and senior roles reaching over £120,000. Salaries are affected by region, industry, and experience, with London typically higher.
+
+**Q: Can IT managers immigrate to the UK through skilled migration?**
+A: Yes. IT Manager is on the Skilled Worker visa occupation list and included in the Immigration Salary List (shortage occupation), with a lower salary threshold (approx. £26,200 or £38,700 depending on conditions). You can also apply for the Global Talent visa (requires demonstrating exceptional achievement) or the Scale-up visa (for fast-growing businesses).
+
+**Q: What are the career development paths for an IT manager?**
+A: Can progress from junior IT Manager to senior IT Manager, IT Director, and eventually Chief Information Officer. Can also specialize in project management, cybersecurity, or cloud architecture. Obtaining certifications such as PMP, ITIL, and an MBA can aid advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-IT managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for IT managers?**
-答：The average salary for IT managers in the UK is around £65,000. Entry-level roles pay £35,000-£50,000, while senior positions can exceed £120,000. Salaries vary by region, industry, and experience, with London offering higher pay.
-
-**问：Can IT managers migrate to the UK through skilled migration?**
-答：Yes. IT managers are eligible for the Skilled Worker visa, with reduced salary thresholds due to inclusion on the Immigration Salary List (shortage occupation). They can also apply for the Global Talent visa (for exceptional talent) or the Scale-up visa (for fast-growing companies).
-
-**问：What are the career progression paths for IT managers?**
-答：Progression can be from junior IT manager to senior IT manager, IT director, and eventually Chief Information Officer (CIO). Specialization in project management, cybersecurity, or cloud architecture is possible. Certifications like PMP and ITIL, as well as an MBA, can aid advancement.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

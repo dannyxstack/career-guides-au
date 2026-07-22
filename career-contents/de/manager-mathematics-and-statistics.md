@@ -1,58 +1,94 @@
-# Manager - Mathematics and Statistics（Manager - Mathematics and Statistics）职业分析 · DE
+# Manager - Mathematics and Statistics — career analysis · Germany
 
-**职业代码：4119 – Manager - Mathematics and Statistics。**
+**Occupation code: 4119 (KldB)**
 
-Leads teams of mathematicians and statisticians, develops data analysis and modeling strategies to support decision-making in business and research institutions.
+Responsible for leading mathematics and statistics teams, developing data analysis and modeling strategies, providing decision support for enterprises and research institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | —（公立大学学费全免，仅需学期费） |
-| 硕士 | 2年 | —（公立大学硕士通常免学费） |
+| Bachelor's degree | 3 years | $0~$3,000 (Tuition-free at public universities, only semester fees required) |
+| Master's degree | 2 years | $0~$3,000 (Public university master's programs are typically tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 数学或统计学硕士学位 | 德国高校 | 必备 | 通常要求硕士以上学位，具备高等数学和统计建模能力 |
-| 领导力培训 | 雇主或行业协会 | 可选 | 管理岗位通常要求参加内部或外部领导力课程 |
+| Master's degree in mathematics or statistics | German universities | Required | Usually requires a master's degree or higher, with advanced mathematics and statistical modeling skills |
+| Leadership training | Employer or industry association | Optional | Management positions typically require participation in internal or external leadership courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。德国对数据分析和大数据应用的需求持续增长，该职位在金融、保险、市场研究等领域前景良好。预计未来5年就业机会稳步增长。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Demand for data analysis and big data applications continues to grow in Germany, with strong prospects in finance, insurance, and market research. Steady job growth expected over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 税前年薪，视公司规模而定 |
-| 中级（4-7年） | $70,000~$95,000 | 税前年薪，含管理职责 |
-| 高级（8年以上） | $95,000~$130,000 | 税前年薪，资深管理层 |
+| Median salary | $74,736 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Annual pre-tax salary, depending on company size |
+| Mid-level (4-7 years) | $70,000~$95,000 | Pre-tax annual salary, including management responsibilities |
+| Senior (8+ years) | $95,000~$130,000 | Annual salary before tax, senior management |
+| average salary | $79,368 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从资深统计师或数据分析师晋升而来，后续可向首席数据科学家或分析部门总监发展。需积累管理经验并持续学习新技术。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
+
+Can be promoted from senior statistician or data analyst, with further progression to chief data scientist or director of analytics. Requires accumulating management experience and continuous learning of new technologies.
+
+**Tasks most exposed to AI:**
+
+- Standard statistical model running and parameter tuning.
+- Routine data cleaning and basic report generation
+- Simple risk probability calculation and reserve estimation
+- Routine forecasting and updating of economic indicators
+- Basic regression analysis and hypothesis testing
+
+**Where AI augments the role:**
+
+- Identifies complex risk factors and non-linear relationships using machine learning models.
+- Analyze economic policy texts and market sentiment via natural language processing
+- Uses AI to simulate large-scale economic scenarios and stress tests.
+- Automated data exploration and visualization to quickly uncover insights
+- Using AI-assisted validation of model assumptions and result robustness
+
+**Human moat:**
+
+- Deep understanding and critical thinking of model assumptions and limitations
+- Ability to communicate complex risk models to non-technical management
+- Making Professional Judgments Under Uncertainty and Sparse Data
+- Ultimate responsibility for ethical duties and regulatory compliance
+- Cross-disciplinary integration of economic, financial, and behavioral science insights
+
+**Skills to build:**
+
+- Python/R machine learning and deep learning
+- Causal inference and experimental design
+- Explainable AI and model auditability
+- Natural language processing and economic text analysis
+- Big data distributed computing (Spark, etc.)
+- Business communication and data storytelling
+
+**Key growth areas:**
 
 - Data-driven decision making
 - Big data analytics
@@ -61,68 +97,67 @@ Leads teams of mathematicians and statisticians, develops data analysis and mode
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历人才，年薪门槛约56,400欧元（2024年），紧缺专业可降低至约43,992欧元。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于具有德国认可学历的数学/统计专家，需获得工作合同。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德国找工作，为期一年。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated talents, annual salary threshold about €56,400 (2024), reduced to about €43,992 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to mathematics/statistics experts with a recognized German qualification, need to obtain a work contract. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job seeker visa allowing entry to Germany for one year to find a job. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manager - Mathematics and Statistics？**
-- 具备数学或统计学硕士及以上学历者
-- 有领导力和项目管理经验者
-- 对数据分析在商业中的应用有浓厚兴趣者
-
-**谁不适合学Manager - Mathematics and Statistics？**
-- 不擅长团队管理和沟通协调者
-- 偏好纯技术研究而非管理角色者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Applicants with a master's degree or higher in mathematics or statistics
+- Those with leadership and project management experience
+- Those with strong interest in applying data analytics in business
+
+**Who is not suited**
+- Not good at team management and communication coordination
+- Prefer those focused on pure technical research rather than management roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a mathematics and statistics manager in Germany?**
+A: Entry-level approx. €55,000-70,000, mid-level €70,000-95,000, senior €95,000-130,000 (pre-tax).
+
+**Q: How to become a Mathematics and Statistics Manager in Germany through skilled migration?**
+A: Require a German-recognized master's degree, find relevant work and apply for an EU Blue Card or skilled migration visa.
+
+**Q: What is the career progression path for a Mathematics and Statistics Manager?**
+A: Usually promoted from statistician or data analyst, then can develop into chief data scientist or analytics department director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Manager - Mathematics and Statistics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Manager of Mathematics and Statistics in Germany?**
-答：Junior: €55,000-70,000; mid-level: €70,000-95,000; senior: €95,000-130,000 (gross annual).
-
-**问：How to immigrate as a Manager of Mathematics and Statistics to Germany?**
-答：You need a recognized master's degree, a job offer, and can apply for an EU Blue Card or Skilled Immigration Act visa.
-
-**问：What is the career path for a Manager of Mathematics and Statistics?**
-答：Typically promoted from statistician or data analyst, then to chief data scientist or director of analytics.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

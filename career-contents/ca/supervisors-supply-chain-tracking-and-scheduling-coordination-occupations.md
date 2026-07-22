@@ -1,59 +1,94 @@
-# Supervisors, supply chain, tracking and scheduling coordination occupations（Supervisors, supply chain, tracking and scheduling coordination occupations）职业分析 · 加拿大
+# Supervisors, supply chain, tracking and scheduling coordination occupations — career analysis · Canada
 
-**职业代码：12013 – Supervisors, supply chain, tracking and scheduling coordination occupations。**
+**Occupation code: 12013 (NOC)**
 
-Warehouse supervisors oversee warehouse operations including inventory management, team coordination, and logistics planning. This occupation has stable demand in the logistics sector and offers migration pathways via PNP or Express Entry (CEC).
+Warehouse supervisor oversees warehouse operations, including inventory management, team coordination, and logistics planning. This occupation has stable demand in the logistics industry and can immigrate to Canada through Provincial Nominee Program (PNP) or Express Entry (CEC).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 物流或商业管理大专文凭 | 2年 | $15,000~$30,000（国际学生学费约12,000-18,000加元/年） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| Logistics or business management diploma | 2 years | $15,000~$30,000 (International student tuition approximately CAD 12,000-18,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES或IQAS | 必备 | 评估海外大专及以上学历 |
-| 语言考试成绩 | IELTS或CELPIP | 必备 | Express Entry要求CLB 7以上（IELTS 6.0 per band） |
-| 供应链管理证书 | 加拿大供应链管理协会（SCMA） | 可选 | 非强制，但有助于就业和移民 |
+| ECA (Educational Credential Assessment). | WES or IQAS | Required | Assess overseas diplomas and degrees (associate or higher) |
+| Language test scores | IELTS or CELPIP | Required | Express Entry requires CLB 7 or above (IELTS 6.0 per band) |
+| Supply chain management certificate | Supply Chain Management Association (SCMA) of Canada | Optional | Not mandatory, but helpful for employment and immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。加拿大物流行业因电商增长和供应链需求持续扩张，仓库主管劳动力市场需求稳定。预计未来几年岗位增长适中，尤其在安大略省、魁北克省和不列颠哥伦比亚省。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. Due to e-commerce growth and supply chain expansion, the Canadian logistics industry continues to expand, and the demand for warehouse supervisors remains stable. Moderate job growth expected in coming years, especially in Ontario, Quebec, and British Columbia.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 时薪约$18-23 |
-| 中级（3-7年） | $48,000~$65,000 | 时薪约$23-31 |
-| 高级（7年以上） | $65,000~$80,000 | 时薪约$31-38 |
+| Median salary | $60,008 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $38,000~$48,000 | Hourly wage approx. $18-23 |
+| Mid-level (3–7 years) | $48,000~$65,000 | Hourly wage about CAD 23-31 |
+| Senior (7+ years) | $65,000~$80,000 | Hourly wage approximately $31-38 |
+| average salary | $64,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级仓库主管可晋升为仓库经理、物流经理或供应链总监。积累经验后，可转向运营管理或专业物流职能，如冷链管理或国际货运。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Warehouse supervisor role has mixed prospects: AI optimizes route planning and inventory management to boost efficiency, but data entry, monitoring, etc., are automated, shifting the role toward strategic coordination.
+
+Junior warehouse supervisors can advance to warehouse manager, logistics manager, or supply chain director. With experience, they can move into operations management or specialized logistics functions like cold chain management or international freight.
+
+**Tasks most exposed to AI:**
+
+- Manual inventory data entry and stocktaking verification
+- Rule-based transport dispatch scheduling
+- Manual inspection of warehouse surveillance video
+- Order processing and task dispatching
+
+**Where AI augments the role:**
+
+- Use AI to predict demand and optimize inventory levels
+- Improve warehouse layout efficiency through digital twin simulation
+- Quick access to operational reports using natural language queries
+- Using machine learning to identify supply chain bottlenecks and issue warnings
+- Manage order picking with collaborative robots.
+
+**Human moat:**
+
+- Team personnel management and conflict mediation
+- Emergency decision-making for unexpected logistics disruptions
+- Cross-departmental (procurement, sales) strategic coordination
+- Establish and maintain employee safety culture.
+- Understanding complex client needs and customizing services
+
+**Skills to build:**
+
+- Supply chain data analysis and predictive modeling
+- Advanced Configuration and Automation of WMS/ERP Systems
+- Basic data manipulation in Python or SQL
+- Lean Six Sigma process improvement.
+- Leadership and change management
+- Application of AI tools (e.g., prediction engines, RPA)
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Supply Chain
@@ -62,68 +97,67 @@ Warehouse supervisors oversee warehouse operations including inventory managemen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass CEC（Canadian Experience Class） | 适合有加拿大工作经验的申请人，需1年NOC 0/A/B工作经验 |
-| Subclass PNP（Provincial Nominee Program） | 例如安省人力资本优先类、BC省技术移民等，需雇主担保或省提名 |
-| Subclass TFWP（Temporary Foreign Worker Program） | 通过LMIA获得工作许可，积累加拿大经验后转永居 |
+| Subclass CEC (Canadian Experience Class) | Suitable for applicants with Canadian work experience, requiring 1 year of NOC 0/A/B work experience |
+| Subclass PNP (Provincial Nominee Program) | For example, Ontario Human Capital Priorities, BC Skilled Immigration, etc., requiring employer sponsorship or provincial nomination |
+| Subclass TFWP (Temporary Foreign Worker Program) | Obtain a work permit through LMIA, accumulate Canadian experience, then transition to permanent residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, supply chain, tracking and scheduling coordination occupations？**
-- 有物流或仓库管理经验者
-- 愿意从事体力与脑力结合的工作
-- 希望在加拿大通过省提名稳定移民者
-
-**谁不适合学Supervisors, supply chain, tracking and scheduling coordination occupations？**
-- 不能适应轮班或高强度体力工作
-- 缺乏基本英语沟通能力（CLB 5以下）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with logistics or warehouse management experience.
+- Willing to engage in work combining physical and mental effort
+- Those seeking stable immigration to Canada via Provincial Nominee Programs
+
+**Who is not suited**
+- Cannot adapt to shift work or high-intensity physical labor
+- Lack of basic English communication skills (below CLB 5)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a warehouse supervisor in Canada?**
+A: According to Job Bank, warehouse supervisor annual salary is around CAD 45,000-65,000, entry-level around CAD 38,000-48,000, and senior can reach CAD 80,000.
+
+**Q: What immigration pathways can a warehouse supervisor use to apply for Canadian permanent residence?**
+A: Common pathways include: Express Entry (e.g., CEC), Provincial Nominee Program (PNP, e.g., Ontario, BC), and first gaining LMIA work permit experience then switching to CEC.
+
+**Q: What is the demand for warehouse supervisors in Canada?**
+A: Demand is stable due to the continued growth of e-commerce and logistics, especially in major economic centers like Greater Toronto and Vancouver.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, supply chain, tracking and scheduling coordination occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a warehouse supervisor in Canada?**
-答：According to Job Bank, warehouse supervisors earn an annual salary of CAD 45,000-65,000, with entry-level at CAD 38,000-48,000 and senior up to CAD 80,000.
-
-**问：What immigration pathways are available for warehouse supervisors to obtain Canadian permanent residence?**
-答：Common pathways include Express Entry (e.g., CEC), Provincial Nominee Program (e.g., Ontario, BC), and obtaining a work permit via LMIA then transitioning to CEC.
-
-**问：What is the demand for warehouse supervisors in Canada?**
-答：Demand is stable due to growth in e-commerce and logistics, especially in economic hubs like Greater Toronto and Vancouver.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

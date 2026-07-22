@@ -1,59 +1,94 @@
-# Aircraft Pilot（Aircraft Pilot）职业分析 · IE
+# Aircraft Pilot — career analysis · Ireland
 
-**职业代码：3153 – Aircraft Pilot。**
+**Occupation code: 3153 (ISCO08)**
 
-Operate fixed-wing aircraft or helicopters for passenger, cargo, or special missions, ensuring flight safety and efficiency.
+Responsible for piloting fixed-wing aircraft or helicopters, performing passenger or cargo transport, or special missions, ensuring flight safety and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 飞行培训 | 18-24个月 | $60,000~$100,000（私立飞行学校学费） |
-| 航空相关学士学位 | 3-4年 | $12,000~$25,000（大学年学费） |
+| Flight training | 18-24 months | $60,000~$100,000 (Private flight school tuition fees) |
+| Aviation-related bachelor's degree | 3-4 years | $12,000~$25,000 (University annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商用驾驶员执照（CPL） | 爱尔兰航空管理局 | 必备 | 必修，通过理论及飞行考试 |
-| 仪表等级（IR） | 爱尔兰航空管理局 | 必备 | 必备，允许仪表气象条件下飞行 |
-| 航线运输驾驶员执照（ATPL） | 爱尔兰航空管理局 | 可选 | 航空公司机长必备 |
+| Commercial Pilot License (CPL) | Irish Aviation Authority | Required | Compulsory, passing theory and flight exams |
+| Instrument Rating (IR) | Irish Aviation Authority | Required | Required, allows flight under instrument meteorological conditions |
+| Airline Transport Pilot License (ATPL) | Irish Aviation Authority | Optional | Essential for airline captains. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰航空运输业稳步增长，飞行员需求受航空公司扩张及退休潮推动，竞争仍激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Ireland's air transport industry is growing steadily; pilot demand is driven by airline expansion and retirements, but competition remains intense.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 副驾驶初始年薪 |
-| 中级（3-10年） | $55,000~$90,000 | 资深副驾驶或初级机长 |
-| 高级（10年以上） | $100,000~$180,000 | 机长或培训机长 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | First Officer Starting Salary |
+| Intermediate (3-10 years) | $55,000~$90,000 | Senior first officer or junior captain |
+| Senior (10+ years) | $100,000~$180,000 | Captain or Training Captain |
+| average salary | $85,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 晋升路径：副驾驶→机长→培训机长或管理岗位，需累计飞行小时与额外资质。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on pilot careers is mixed: autonomous technology will reduce demand for co-pilots, but AI-enhanced cockpit systems can lower workload and improve safety margins; full pilotless flight is unlikely in the short term due to regulation and public trust.
+
+Career progression: First Officer → Captain → Training Captain or management roles, requiring accumulated flight hours and additional qualifications.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving systems take over heading, altitude, and speed control during the cruise phase
+- AI automatically generates flight plans, fuel calculations, and performance optimization reports
+- Real-time anomaly detection: AI replaces pilots in monitoring engine and system parameters
+- Automatic landing system performs fully automatic landing when visibility and wind conditions are met
+- AI voice assistant handles routine radio communications and checklist confirmations
+
+**Where AI augments the role:**
+
+- AI-enhanced weather and traffic situational awareness system helps pilots make early decisions to avoid.
+- Copilot assistance system providing operational suggestions and cross-checks in complex scenarios
+- AI flight data recording analysis reveals personal operating habits, improving training targeting
+- Multi-modal sensor fusion and augmented reality helmets enhance night and low-visibility operational capabilities
+
+**Human moat:**
+
+- Emergency decision-making and creative problem-solving in abnormal situations (e.g., dual engine failure)
+- Captain has ultimate responsibility for flight safety and legal responsibility for leading the crew
+- Handle non-technical situations such as passenger medical emergencies and unlawful interference.
+- Ability to improvise in unknown situations such as mechanical failures or severe weather
+- Complex interpersonal skills for coordinating with control, maintenance, ground services, and other parties
+
+**Skills to build:**
+
+- Master AI-based electronic flight bags (EFB) and performance calculation tools
+- Learn the basics of data analysis to interpret Flight Operations Quality Assurance (FOQA) reports.
+- Obtain additional qualifications such as instructor, inspector, or specialist aircraft type (e.g. Airbus A350)
+- Decision training to enhance non-technical skills (CRM, threat and error management)
+- Familiar with drone or advanced air mobility (AAM) operational concepts
+- Learn Python or basic programming to understand flight management system logic
+
+**Key growth areas:**
 
 - Aviation expansion
 - Retirement wave
@@ -62,64 +97,63 @@ Operate fixed-wing aircraft or helicopters for passenger, cargo, or special miss
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保及劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，要求年薪不低于€33,000及本科学历 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requiring employer sponsorship and labour market testing |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, requiring an annual salary of at least €33,000 and a bachelor's degree |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Pilot？**
-- 身体及心理素质优秀，能承受高压与不规律作息
-- 热爱飞行，具备良好空间定向与问题解决能力
-- 愿意投入高额学费与长期培训
-
-**谁不适合学Aircraft Pilot？**
-- 对严格体检或视力要求难以达标者
-- 不愿频繁出差及远离家庭生活者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Excellent physical and mental fitness, able to withstand high pressure and irregular schedules.
+- Passionate about flying, with good spatial orientation and problem-solving skills
+- Willing to invest high tuition fees and long-term training
+
+**Who is not suited**
+- Those who are unable to meet strict medical examination or vision requirements
+- Not suitable for those unwilling to travel frequently or be away from family
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for pilots?**
+A: Junior: approx. €35,000–€50,000; mid-level: €55,000–€90,000; senior captain: up to €100,000–€180,000.
+
+**Q: How do foreign pilots obtain an Irish work visa?**
+A: Requires employer sponsorship, through a general work permit or EU Blue Card, requiring EASA license certification and English proficiency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Aircraft Pilot的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pilots?**
-答：Entry-level €35,000-€50,000, mid-level €55,000-€90,000, senior captain up to €100,000-€180,000.
-
-**问：How can foreign pilots get a work visa in Ireland?**
-答：Require employer sponsorship via General Employment Permit or EU Blue Card, EASA license validation and English proficiency.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

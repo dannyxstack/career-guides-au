@@ -1,58 +1,91 @@
-# Plumber（Plumber）职业分析 · IE
+# Plumber — career analysis · Ireland
 
-**职业代码：7126 – Plumber。**
+**Occupation code: 7126 (ISCO08)**
 
-Plumbers install, repair, and maintain water, drainage, and heating systems, playing a vital role in construction and maintenance.
+Plumbers install, repair, and maintain water pipes, drainage systems, and heating equipment, making them an essential trade in the construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | $500~$2,000（学徒期间薪资逐步增长，学费低。） |
+| Apprenticeship | 4 years | $500~$2,000 (Apprentice wages increase gradually, with low tuition costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 管道工认证 | 爱尔兰管道工注册机构 | 必备 | 完成学徒并通过考试后获得，是执业必备。 |
-| Safe Pass安全卡 | 爱尔兰健康与安全局 | 必备 | 建筑工地必备安全培训证书。 |
-| 燃气安全注册 | 爱尔兰燃气安全监管机构 | 可选 | 从事燃气相关工作必需。 |
+| Plumber certification | Irish Plumbers Registration Body | Required | Obtained after completing apprenticeship and passing exam; essential for practice. |
+| Safe Pass safety card | Health and Safety Authority (Ireland) | Required | Essential safety training certificate for construction sites. |
+| Gas Safety Register | Ireland's Gas Safety Regulatory Authority | Optional | Required for gas-related work. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。爱尔兰建筑业持续增长，加之老旧基础设施更新需求，管道工劳动力短缺，就业前景良好。政府投资住房和可再生能源项目将进一步推动需求。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The Irish construction industry continues to grow, coupled with the need to upgrade aging infrastructure, leading to a labour shortage of plumbers and good employment prospects. Government investment in housing and renewable energy projects will further drive demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 学徒期后起薪约3万欧元。 |
-| 中级（3-8年） | $40,000~$55,000 | 经验丰富后薪资稳步增长。 |
-| 高级（8年以上） | $55,000~$75,000 | 高级技工或自主创业收入更高。 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Starting salary after apprenticeship is approximately €30,000. |
+| Mid-level (3–8 years) | $40,000~$55,000 | Steady salary growth with experience. |
+| Senior (8+ years) | $55,000~$75,000 | Advanced trades or self-employment leads to higher income. |
+| average salary | $49,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级管道工可晋升为高级技工、施工现场主管或自主创业。通过持续培训和认证，也可转向项目管理或专业领域如燃气安装。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace plumbers' core practical skills, but will significantly boost efficiency through smart diagnostics, AR assistance, and scheduling optimization; it is a skill-enhancing occupation with stable employment prospects.
+
+Junior plumbers can advance to senior technicians, site supervisors, or start their own business. Through continuous training and certification, they can also move into project management or specialized fields such as gas fitting.
+
+**Tasks most exposed to AI:**
+
+- Simple leak detection and pipe blockage diagnosis (replaced by AI with acoustic/thermal imaging sensors).
+- Inventory management and parts ordering (AI automatic replenishment system)
+- Routine water system maintenance reminders (AI predictive maintenance).
+- Partial client communication and quoting (AI chatbots handle initial inquiries).
+
+**Where AI augments the role:**
+
+- AI-assisted fault diagnosis: quickly locate complex pipeline issues via sensor data and historical cases.
+- AR helmet overlays building structural drawings to precisely locate buried pipes.
+- Smart scheduling systems automatically plan optimal routes, reducing commute time.
+- AI training simulator: practice high-risk operations (e.g., gas pipeline repair) in virtual scenarios.
+
+**Human moat:**
+
+- Physical handling feel and fine craftsmanship (e.g., copper pipe welding, threaded connections).
+- On-site safety risk assessment and emergency response (gas leaks, water pressure hazards).
+- Non-standard repair experience for unique piping systems in old buildings
+- Ability to build long-term trust and communicate on-site with clients.
+
+**Skills to build:**
+
+- Use of AI-assisted diagnostic tools (e.g., smart detection cameras, data analysis platforms).
+- AR augmented reality installation and maintenance guidance software operation.
+- Basic data analysis ability: understanding predictive maintenance reports.
+- Digital workflow management (e.g., mobile job dispatch and acceptance systems).
+- Continuously learn new eco-friendly plumbing technologies (heat pumps, solar hot water systems).
+- Advanced communication and project management skills (for complex renovation projects).
+
+**Key growth areas:**
 
 - Construction boom
 - Infrastructure renewal
@@ -61,64 +94,63 @@ Plumbers install, repair, and maintain water, drainage, and heating systems, pla
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达3万欧元以上，劳动力市场测试。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 管道工虽在紧缺职业列表，但需年薪6万欧元以上方可申请，适合高级技工。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary of at least 30,000 euros, and labor market test. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Although plumbers are on the skilled occupation list, they need an annual salary of over €60,000 to apply, suitable for advanced tradespeople. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumber？**
-- 动手能力强、喜欢户外工作
-- 愿意长期学习技能并获得认证
-- 能适应体力劳动和不固定工作时间
-
-**谁不适合学Plumber？**
-- 不喜体力劳动或户外环境
-- 对严格认证流程缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on and enjoys outdoor work
+- Willing to invest time in learning skills and obtaining certifications.
+- Able to adapt to physical labor and irregular working hours
+
+**Who is not suited**
+- Dislikes physical labor or outdoor environments
+- Impatience with strict certification processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plumbers in Ireland?**
+A: Junior: about €30,000–40,000, mid-level: €40,000–55,000, senior: €55,000–75,000 annual salary; higher for experienced or self-employed individuals.
+
+**Q: What pathways are there for foreign plumbers to immigrate to Ireland?**
+A: Available via General Employment Permit, requires employer sponsorship; senior high-demand roles may consider Critical Skills Permit (annual salary €60k+). EU citizens have free movement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plumber的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for plumbers in Ireland?**
-答：Entry-level: €30k-€40k; Mid-level: €40k-€55k; Senior: €55k-€75k; higher for experienced or self-employed.
-
-**问：What are the immigration pathways for foreign plumbers to Ireland?**
-答：General Employment Permit requires employer sponsorship; Critical Skills Permit for senior roles (salary €60k+); EU citizens have free movement.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

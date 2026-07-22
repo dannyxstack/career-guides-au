@@ -1,60 +1,96 @@
-# Non-Regulated Arts Teacher（Non-Regulated Arts Teacher）职业分析 · ES
+# Non-Regulated Arts Teacher — career analysis · Spain
 
-**职业代码：2324 – Non-Regulated Arts Teacher。**
+**Occupation code: 2324 (CNO)**
 
-Non-regulated arts teachers instruct music, dance, drama, and visual arts in private schools, cultural centers, communities, or studios. They work outside the formal education system but require strong artistic skills and teaching ability.
+Non-degree art teachers teach arts courses such as music, dance, drama, and fine arts, mainly working in private schools, cultural centers, communities, or private studios. They are not part of the government's formal education system, but must possess professional skills in the arts and teaching abilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等艺术教育（Grado） | 4年（Grado） | $1,500~$6,000（公立大学每年约1,500-3,000欧元；私立6,000欧元以上） |
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$2,000（公立FP中心每年约500-1,000欧元；私立2,000欧元左右） |
-| 硕士（Máster en Enseñanzas Artísticas） | 1-2年（Máster） | $2,000~$8,000（公立大学约2,000-4,000欧元；私立5,000-8,000欧元） |
+| Higher Art Education (Grado) | 4 years (Grado) | $1,500~$6,000 (Public universities about EUR 1,500-3,000 per year; private EUR 6,000+) |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$2,000 (Public FP centers cost about 500-1,000 euros per year; Private schools cost around 2,000 euros) |
+| Master's degree (Máster en Enseñanzas Artísticas) | 1-2 years (Máster) | $2,000~$8,000 (Public universities cost about 2,000-4,000 euros; Private schools: 5,000–8,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术学位（Grado en Bellas Artes/ Música/ Danza） | 西班牙大学 | 可选 | 非强制但普遍要求具备相关艺术领域学位 |
-| 教学能力证书（CAP/ Máster de Profesorado） | 西班牙大学 | 可选 | 若希望在正规学校任教则需此证书 |
-| 专业头衔（Título Profesional de Música/ Danza） | 西班牙教育文化体育部认可的音乐/舞蹈学校 | 可选 | 证明特定艺术领域的专业水平 |
+| Art Degree (Grado en Bellas Artes/Música/Danza) | Spanish University | Optional | Non-mandatory but generally required to have a degree in a relevant art field |
+| Teaching Competency Certificate (CAP/Máster de Profesorado) | Spanish University | Optional | If you wish to teach at a formal school, you need this certificate |
+| Professional Title (Título Profesional de Música/Danza) | A music/dance school recognized by the Spanish Ministry of Education, Culture and Sports | Optional | Demonstrates professional expertise in a specific art field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。西班牙艺术教育需求稳定，尤其在文化城市如马德里、巴塞罗那。私立艺术学校和社区课程增长，但兼职与临时岗位居多。2023年该国文化和创意产业占GDP约3.5%，推动艺术教师就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Spain's demand for art education is stable, especially in cultural cities like Madrid and Barcelona. Private art schools and community courses are increasing, but part-time and temporary positions remain the majority. In 2023, the country's cultural and creative industries accounted for about 3.5% of GDP, driving employment for art teachers.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 兼职教师时薪约15-25欧元，年收取决于课时量 |
-| 中级（4-7年） | $22,000~$32,000 | 全职在私立艺术学校或文化中心 |
-| 高级（8年以上） | $30,000~$45,000 | 学校主管、知名工作室创始人或高级讲师 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$22,000 | Part-time teachers earn about 15-25 euros per hour, with annual income depending on the number of class hours |
+| Mid-level (4-7 years) | $22,000~$32,000 | Full-time at private art schools or cultural centers |
+| Senior (8+ years) | $30,000~$45,000 | School directors, well-known studio founders, or senior lecturers |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径包括从兼职教师晋升为艺术学校主管、课程协调员，或开设个人工作室。积累经验后可转向艺术治疗、文化管理或继续深造获得官方教师资格，进入正规教育体系。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some repetitive teaching tasks (such as music theory demonstrations and dance step recordings), but will enhance personalized creative guidance and student assessment. The core value of human teachers lies in emotional interaction and instant feedback.
+
+Career development paths include advancing from part-time teachers to art school supervisors, curriculum coordinators, or opening personal studios. After gaining experience, students can move on to art therapy, cultural management, or further study to obtain official teaching qualifications and enter the formal education system.
+
+**Tasks most exposed to AI:**
+
+- Automatic demonstration and correction of basic music theory and dance steps
+- Standardized assessment and feedback of student assignments
+- Guidance on repetitive instrument fingering training
+- Online course recording and basic Q&A
+- Explanations of art perspective, color principles, and other theories
+
+**Where AI augments the role:**
+
+- Use AI to generate personalized practice plans and creative inspiration
+- Optimize teaching plans by analyzing student performance data with AI
+- Efficiently create multimedia teaching materials using AI tools
+- Immersive art experience teaching using virtual reality (VR).
+- Use AI to assist in evaluating the uniqueness and progress of students' creative works
+
+**Human moat:**
+
+- Live improvisational guidance and emotional interaction
+- Sharp insights into students' nonverbal emotions and learning motivations
+- Complex art criticism and aesthetic value guidance
+- Comprehensive curriculum design and innovation across art forms
+- Communication skills to build trust with parents and the community
+
+**Skills to build:**
+
+- AI-assisted teaching tools (such as intelligent sheet music, dance movement analysis software)
+- Fundamentals of Data Analysis (Interpreting Student Learning Data)
+- Digital content creation (video production, VR/AR applications)
+- Personalized learning and design skills
+- Art Therapy and Mental Health Foundation
+- Interdisciplinary integrated teaching method
+
+**Key growth areas:**
 
 - Cultural Tourism
 - Creative Economy
@@ -63,68 +99,67 @@ Non-regulated arts teachers instruct music, dance, drama, and visual arts in pri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历或5年相关经验，工作合同年薪至少33,908欧元（2024年），非学历艺术教师薪资通常较低，难以达标 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙公司担保的工作居留，需证明职位无法由本地人填补，艺术教师需满足劳动力市场测试 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许毕业生在西班牙停留12个月寻找工作，适用于完成艺术学位或硕士的外国人 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of relevant experience, with a contract annual salary of at least 33,908 euros (2024). Non-degree art teachers usually earn less and are hard to meet the standard |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency guaranteed by a Spanish company requires proof that the position cannot be filled by locals, and art teachers must meet labor market tests |
+| Subclass Busqueda empleo (Job Search Visa) | Allows graduates to stay in Spain for 12 months to find work, applicable to foreigners who have completed an art degree or master's. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-Regulated Arts Teacher？**
-- 拥有艺术专业学位或同等技能的人士
-- 热爱教学且能接受兼职和不稳定收入的人
-- 有意在西班牙文化城市发展自由职业的艺术家
-
-**谁不适合学Non-Regulated Arts Teacher？**
-- 追求高薪和稳定全职工作的人
-- 不愿应对西班牙繁琐行政流程的外国人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with an art degree or equivalent skills
+- People who love teaching and can accept part-time jobs and unstable income
+- Artists interested in freelance careers in Spain's cultural cities
+
+**Who is not suited**
+- People who pursue high salaries and stable full-time jobs
+- Foreigners unwilling to deal with Spain's cumbersome administrative procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for non-degree art teachers in Spain?**
+A: Junior teachers earn about 16,000-22,000 euros annually, while senior teachers earn up to 30,000-45,000 euros. Part-time hourly wage is 15-25 euros, with income depending on the workload.
+
+**Q: How can foreigners immigrate to Spain through the art teaching profession?**
+A: The common pathway is employment-based residence (Cuenta ajena), requiring employer sponsorship and proof of job shortage. The EU Blue Card is less applicable due to high salary thresholds. Alternatively, consider completing a Spanish art degree and applying for a job-seeking residence permit.
+
+**Q: What certifications do non-degree art teachers need?**
+A: The law does not require a teacher qualification certificate, but employers usually require relevant art degrees. If you wish to teach in a formal school, you need to obtain a Teaching Competency Certificate (CAP/Máster de Profesorado).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Non-Regulated Arts Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for non-regulated arts teachers in Spain?**
-答：Entry-level teachers earn around €16,000-22,000 annually, while senior teachers can earn €30,000-45,000. Part-time hourly rates range from €15-25 depending on hours.
-
-**问：How can foreigners immigrate to Spain as arts teachers?**
-答：The common path is an employed work permit (Cuenta ajena) with employer sponsorship and labor market test. EU Blue Card is difficult due to low salary. Another option is to complete an art degree in Spain and apply for a job search visa.
-
-**问：What certifications are required for non-regulated arts teachers?**
-答：No mandatory teaching license, but employers typically require an art degree. To teach in formal schools, one needs the teaching certificate (CAP/Máster de Profesorado).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

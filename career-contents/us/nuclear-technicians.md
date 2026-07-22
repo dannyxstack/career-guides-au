@@ -1,58 +1,91 @@
-# Nuclear Technicians（Nuclear Technicians）职业分析 · 美国
+# Nuclear Technicians — career analysis · United States
 
-**职业代码：19-4051 – Nuclear Technicians。**
+**Occupation code: 19-4051 (SOC)**
 
-Assist nuclear physicists, nuclear engineers, or other scientists in laboratory, power generation, or electricity production activities. Operate, maintain, or provide quality control for nuclear testing and research equipment, and monitor radiation.
+Assist nuclear physicists and nuclear engineers in operating, maintaining nuclear test and research equipment, and monitoring radiation in laboratory, power generation, or electricity production activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$100,000（公立大学学费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$100,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 核技术员认证 | 美国核学会（ANS） | 可选 | 非强制，但提升竞争力 |
-| 辐射防护认证 | 美国辐射防护与测量学会（HPS） | 可选 | 部分岗位要求 |
+| Nuclear technician certification | American Nuclear Society (ANS) | Optional | Not mandatory, but enhances competitiveness |
+| Radiation protection certification | Health Physics Society (HPS) | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,500。美国就业前景稳定。核能行业老化劳动力退休将带来岗位空缺，但新项目有限，竞争中等。预计2022-2032年就业增长率约1%，与平均水平持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,500. Employment outlook in the US is stable. An aging nuclear workforce will create job openings, but new projects are limited, competition moderate. Projected employment growth 2022-2032 is about 1%, on par with average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 含培训期 |
-| 中级（3-8年） | $65,000~$85,000 | 具经验及认证 |
-| 高级（8年以上） | $85,000~$100,000 | 主管或专家级 |
+| Median salary | $110,240 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$65,000 | Including training period |
+| Mid-level (3–8 years) | $65,000~$85,000 | Experienced and certified |
+| Senior (8+ years) | $85,000~$100,000 | Supervisor or expert level |
+| average salary | $108,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级核技术员可晋升为高级技术员或主管，部分可通过继续教育成为辐射安全官员或核工程师。通常需在岗培训及专业认证。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Nuclear technician jobs are moderately affected by AI automation; data processing and routine monitoring may be replaced, but field operations, compliance checks, and emergency response still rely heavily on human judgment — a mixed outlook.
+
+Entry-level nuclear technician can advance to senior technician or supervisor, some become radiation safety officer or nuclear engineer through continuing education. Typically requires on-the-job training and professional certification.
+
+**Tasks most exposed to AI:**
+
+- Use AI to automatically read radiation monitoring meters, replacing manual data recording
+- AI analyzes historical data to predict equipment failures, reducing frequency of manual inspections
+- Automated control systems adjust reactor parameters, replacing some manual operations
+- AI generates standard operation reports, replacing technicians' clerical work
+
+**Where AI augments the role:**
+
+- Use AI anomaly detection systems to monitor radiation levels in real time, improving early warning capabilities
+- Using digital twins to simulate daily operations, enhancing training and drill effectiveness
+- AI-assisted optimization of nuclear material processing workflows, improving efficiency and reducing human error
+- Plan maintenance cycles using AI predictive models to reduce unplanned downtime
+
+**Human moat:**
+
+- On-site judgment and emergency response for sudden nuclear safety incidents
+- Interpretation and communication responsibilities in nuclear regulatory compliance.
+- Manually operate and maintain equipment in complex or unstructured environments
+- Role coordination and decision-making in multi-department collaboration
+
+**Skills to build:**
+
+- Advanced certification in nuclear safety and radiation protection
+- Application of AI/Machine Learning in Nuclear Engineering
+- Digital twin and simulation software operation
+- Remote monitoring and automated system troubleshooting
+- Data science and predictive maintenance
+- Nuclear regulatory compliance and management
+
+**Key growth areas:**
 
 - Nuclear Energy
 - Radiation Safety
@@ -61,65 +94,64 @@ Assist nuclear physicists, nuclear engineers, or other scientists in laboratory,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，雇主担保，竞争激烈 |
-| Subclass EB-3（Employment-Based Green Card (EB-3)） | 需PERM劳工认证，排期较长 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大和墨西哥公民，需相关职业 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree, employer sponsorship, competitive |
+| Subclass EB-3 (Employment-Based Green Card (EB-3)) | Requires PERM labor certification with long waiting times |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens, relevant occupation required |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nuclear Technicians？**
-- 适合对核科学感兴趣的人
-- 注重细节和安全的人
-- 愿意在偏远地区工作的人
-
-**谁不适合学Nuclear Technicians？**
-- 对辐射有过度担忧的人
-- 不擅长团队协作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for those interested in nuclear science
+- People who are detail-oriented and safety-conscious
+- People willing to work in remote areas.
+
+**Who is not suited**
+- People with excessive concerns about radiation
+- People who are not good at teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the income potential for nuclear technicians?**
+A: According to BLS, median annual salary in 2023 about $84,000, up to over $100,000, but affected by location and experience.
+
+**Q: How can international students immigrate to the US as nuclear technicians?**
+A: Typically, first obtain an F-1 student visa to study a relevant degree, then apply for OPT, followed by employer sponsorship for an H-1B work visa, and eventually apply for an EB-2/EB-3 green card. The nuclear field involves national security, with restrictions on foreigners.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Nuclear Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the earning potential for nuclear technicians?**
-答：According to BLS, median annual wage in 2023 was about $84,000, with top earners over $100,000, depending on location and experience.
-
-**问：How can international students immigrate to the US as nuclear technicians?**
-答：Typically, obtain a relevant degree on F-1 visa, then OPT, employer-sponsored H-1B, and eventually EB-2/EB-3 green card. Nuclear field involves national security restrictions.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

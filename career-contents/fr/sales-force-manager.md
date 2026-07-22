@@ -1,59 +1,95 @@
-# Sales Force Manager（Sales Force Manager）职业分析 · FR
+# Sales Force Manager — career analysis · France
 
-**职业代码：D1406 – Sales Force Manager。**
+**Occupation code: D1406 (ROME)**
 
-Manages sales teams, sets strategies, monitors performance, and optimizes sales processes. In demand across French industries, requiring leadership and business acumen.
+Responsible for managing the sales team, formulating sales strategies, monitoring performance, and optimizing sales processes. There is demand across various industries in France, emphasizing leadership and business sensitivity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等商校或大学硕士 | 5年（Bac+5） | $8,000~$15,000（公立大学约250欧元注册费，高商学费较高） |
-| 本科/ licence专业 | 3年（Licence） | $200~$5,000（公立大学低费用，私立院校较高） |
-| BTS/DUT（学徒制） | 2年（BTS/DUT） | —（学徒制免学费且带薪） |
+| Master's degree from a higher business school or university | 5 years (Bac+5) | $8,000~$15,000 (The registration fee for public universities is about 250 euros, while higher commercial tuition is higher) |
+| Bachelor's/licence major | 3 years (Licence) | $200~$5,000 (Public universities have lower fees, while private institutions offer higher fees) |
+| BTS/Dut (Apprenticeship) | 2 years (BTS/DUT) | $0~$1,000 (The apprenticeship system is tuition-free and paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高等商校文凭（Grande École） | 法国精英商校（如HEC, ESSEC） | 可选 | 非强制，但利于晋升至高层 |
-| 销售管理认证（如CQP） | 法国职业资格委员会（CPNE） | 可选 | 可证明专业能力 |
+| Grande École | Elite French business schools (such as HEC, ESSEC) | Optional | Not mandatory, but beneficial for promotion to senior management |
+| Sales Management Certification (such as CQP) | French Professional Qualifications Commission (CPNE) | Optional | It can demonstrate professional competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国销售管理岗位需求稳定，受数字化转型推动，对数据分析与远程团队管理能力要求提升。B2B领域尤缺资深经理。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Sales management positions in France have stable demand, driven by digital transformation, with increased demands for data analysis and remote team management capabilities. The B2B sector is especially short on senior managers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 通常包括固定工资+绩效奖金 |
-| 中级（3-7年） | $55,000~$75,000 | 含奖金及佣金，行业差异大 |
-| 高级（7年以上） | $80,000~$120,000 | 含绩效奖金、股票期权等 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$50,000 | Usually includes a fixed salary + performance bonuses |
+| Mid-level (3–7 years) | $55,000~$75,000 | Including bonuses and commissions, with significant industry differences |
+| Senior (7+ years) | $80,000~$120,000 | Including performance bonuses, stock options, etc |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从销售代表晋升至区域销售经理、全国销售总监，甚至商业副总裁。需积累跨行业经验并掌握CRM工具。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+You can advance from sales representative to regional sales manager, national sales director, or even commercial vice president. Cross-industry experience and mastery of CRM tools are required.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Transformation
 - B2B Sales
@@ -62,65 +98,64 @@ Manages sales teams, sets strategies, monitors performance, and optimizes sales 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent (Ca（EU Blue Card / Talent Passport） | 适用于年收入超过53,900欧元的高管/专家，快速通道，可携带家属 |
-| Subclass Salarié (Autorisatio（Employee Work Permit） | 需雇主提供工作许可，薪资需符合行业标准，可转长期居留 |
-| Subclass Recherche d'emploi (（Job Seeker (APS)） | 硕士毕业后可申请一年求职签证，找到工作后转工签 |
+| Subclass Passeport Talent (Ca (EU Blue Card / Talent Passport) | Applicable to executives/experts with annual incomes over 53,900 euros, fast track, and family members allowed |
+| Subclass Salarié (Autorisatio (Employee Work Permit) | Employer must provide work permit; salary must meet industry standards; eligible for permanent residence. |
+| Subclass Recherche d'emploi ( (Job Seeker (APS)) | After master's degree holders, they can apply for a one-year job-seeking visa and transfer to a work visa after finding a job |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Force Manager？**
-- 具备销售经验并希望晋升管理岗者
-- 具有领导力、数据分析能力和商业嗅觉
-- 适应高压、目标导向的工作环境
-
-**谁不适合学Sales Force Manager？**
-- 不喜频繁出差或人际互动者
-- 偏好稳定朝九晚五工作模式者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with sales experience who wish to be promoted to management positions
+- Possess leadership, data analysis skills, and business acumen
+- Adapt to high-pressure, goal-oriented work environments
+
+**Who is not suited**
+- Those who dislike frequent business trips or social interactions
+- Those who prefer a stable nine-to-five work schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for sales team managers?**
+A: It usually consists of a base salary plus performance bonuses, with senior positions also including commissions and stock options. The tech industry offers the highest salaries, while the traditional industry offers slightly lower salaries.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: You can use the EU Blue Card (salary ≥€53,900) or a talent passport. Employer sponsorship required; French proficiency is not mandatory but is a plus. Intermediate positions require a work permit application first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales Force Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for Sales Force Manager?**
-答：Typically fixed salary plus performance bonuses, with senior roles including commissions and stock options. Tech industry pays highest.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Via EU Blue Card (salary ≥€53,900) or Talent Passport. Employer sponsorship required; French helpful but not mandatory. Intermediate roles need work permit.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

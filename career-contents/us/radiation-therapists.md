@@ -1,59 +1,94 @@
-# Radiation Therapists（Radiation Therapists）职业分析 · 美国
+# Radiation Therapists — career analysis · United States
 
-**职业代码：29-1124 – Radiation Therapists。**
+**Occupation code: 29-1124 (SOC)**
 
-Administer radiation therapy to patients as prescribed by radiation oncologists, operating equipment, ensuring accurate dosing, and maintaining treatment records.
+Operate radiation equipment under the guidance of a radiation oncologist to provide treatment to patients, ensuring precise delivery and maintaining equipment and records.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院或专科学校） |
-| 学士学位 | 4年 | $40,000~$80,000（大学本科） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college or technical school) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (University bachelor's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 放射治疗师认证 | 美国放射技师注册协会（ARRT） | 必备 | 通过考试获得，需持续教育续证 |
-| 州执照 | 各州卫生委员会 | 必备 | 多数州要求持有执照才能执业 |
-| 心肺复苏（CPR）认证 | 美国心脏协会等 | 可选 | 通常雇主要求 |
+| Radiation therapist certification | American Registry of Radiologic Technologists (ARRT) | Required | Obtained through examination, requires continuing education for renewal |
+| State license | State health boards | Required | Most states require a license to practice |
+| Cardiopulmonary resuscitation (CPR) certification | American Heart Association, etc. | Optional | Employer Requirements Usually |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 17,500。随着人口老龄化和癌症发病率上升，放射治疗师需求持续增长，预计2023-2033年就业增长约6%，快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 17,500. With an aging population and rising cancer incidence, demand for radiation therapists continues to grow, with expected employment growth of about 6% from 2023-2033, faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | 包括应届毕业生 |
-| 中级（4-9年） | $85,000~$105,000 | 有一定经验 |
-| 高级（10年以上） | $105,000~$130,000 | 包括主管或专家 |
+| Median salary | $105,310 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$85,000 | Including recent graduates |
+| Intermediate (4-9 years) | $85,000~$105,000 | Some experience |
+| Senior (10+ years) | $105,000~$130,000 | Includes supervisor or specialist |
+| average salary | $114,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级放射治疗师可晋升为高级治疗师、治疗主管或科室经理；部分转向剂量测定或医学物理方向，需额外教育认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Radiation therapists' work may be partially compressed by AI in treatment planning, but core tasks such as patient positioning, equipment operation, and human care still rely heavily on human skills. The profession is in a state where AI both amplifies and compresses roles.
+
+Junior radiation therapists can advance to senior therapist, treatment supervisor, or department manager; some move into dosimetry or medical physics, requiring additional education and certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating radiotherapy treatment plan image fusion and contour delineation
+- AI-based dose calculation and optimization recommendations
+- Automated generation and archiving of treatment records
+- Automated analysis of routine QA data
+
+**Where AI augments the role:**
+
+- AI-assisted image registration and target delineation, improving accuracy and consistency
+- Using AI to predict optimal radiation dose distribution and optimize treatment plans
+- Analyze patient historical data via AI to detect potential complications early
+- AI-driven automatic positioning verification system to reduce human error
+- Using chatbots for patient education to alleviate repetitive questions
+
+**Human moat:**
+
+- Direct operation of radiotherapy equipment (accelerator), requires certification
+- During treatment, adjust positioning in real time based on subtle patient movements
+- Handle emergency radiation safety incidents requiring quick judgment and manual intervention.
+- Empathetic communication with patients and families to alleviate treatment anxiety
+- Multidisciplinary team collaboration, participating in clinical decision-making for complex cases
+
+**Skills to build:**
+
+- AI-assisted treatment planning software (e.g., Eclipse AI, RayStation)
+- Basic Python or scripting for custom analysis tools
+- Principles and evaluation of machine learning models related to radiation therapy
+- Advanced Patient Positioning Techniques (e.g., SGRT Surface Guidance)
+- Operating AI monitoring systems for radiation protection and safety management
+- Cross-disciplinary expertise: intersection of imaging, anatomy, and AI
+
+**Key growth areas:**
 
 - Aging population
 - Cancer incidence rise
@@ -62,66 +97,65 @@ Administer radiation therapy to patients as prescribed by radiation oncologists,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等学历，雇主担保，年度配额竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士或学士加5年经验，通过PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于学士学位或以下，需PERM，排期较长 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主证明无合适美国员工，是EB-2/EB-3前提 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or equivalent, employer sponsorship, annual quota is highly competitive |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's or bachelor's plus 5 years of experience, through PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to bachelor's degree or below, requires PERM, long wait times |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer demonstrates no suitable US workers, prerequisite for EB-2/EB-3. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Radiation Therapists？**
-- 细致耐心，注重安全与精确操作
-- 善于与患者沟通，提供情感支持
-- 对医疗技术有浓厚兴趣，愿持续学习
-
-**谁不适合学Radiation Therapists？**
-- 对电离辐射或医疗环境有顾虑者
-- 不擅长时间管理和多任务处理者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous and patient, focusing on safety and precision
+- Good at communicating with patients and providing emotional support.
+- Strong interest in medical technology, willing to continuously learn.
+
+**Who is not suited**
+- Those concerned about ionizing radiation or medical environments
+- Those who are not good at time management and multitasking
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level for radiation therapists?**
+A: According to BLS, median annual salary in 2023 about $98,000, entry-level about $75,000, senior up to $130,000+.
+
+**Q: What are the pathways for radiation therapists to immigrate to the US?**
+A: Usually via H-1B work visa (requires bachelor's degree) and subsequent EB-2/EB-3 green card; requires ARRT certification and state license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Radiation Therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for radiation therapists?**
-答：According to BLS, median annual wage is about $98,000, entry-level around $75,000, and senior over $130,000.
-
-**问：What are the immigration pathways for radiation therapists to the US?**
-答：Typically H-1B visa (requires bachelor's) followed by EB-2/EB-3 green card; must obtain ARRT certification and state license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

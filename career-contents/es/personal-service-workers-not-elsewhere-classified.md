@@ -1,59 +1,91 @@
-# Personal Service Workers Not Elsewhere Classified（Personal Service Workers Not Elsewhere Classified）职业分析 · ES
+# Personal Service Workers Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：5899 – Personal Service Workers Not Elsewhere Classified。**
+**Occupation code: 5899 (CNO)**
 
-Includes beautician assistants, companions, personal care aides, and other personal service providers not elsewhere classified; typically work in small businesses or as self-employed, offering non-professional personal services.
+This includes personal service personnel not classified under other categories, such as beauty assistants, caregivers, and personal care assistants, mostly working in small businesses or self-employed roles, providing non-professional personal services.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$3,000（公立学校学费较低，私立较高） |
-| 高级职业教育（FP Grado Superior） | 2年 | $600~$4,000（部分专业需额外实习费用） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$3,000 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $600~$4,000 (Some majors require additional internship fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制学历要求 | 无 | 可选 | 雇主通常偏好有相关培训或经验者 |
+| No mandatory education requirement | None | Optional | Employers usually prefer those with relevant training or experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 85,000。西班牙个人服务行业需求相对稳定，受老龄化与生活水平提高推动，但此类非专业岗位竞争较大，薪资水平偏低，就业机会集中在服务业发达的大城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Demand in Spain's personal services sector is relatively stable, driven by an aging population and rising living standards. However, these non-specialized positions are highly competitive, with low salary levels and employment opportunities concentrated in large cities with developed service industries.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 多为半职或临时合同 |
-| 中级（3-7年） | $20,000~$25,000 | 全职且有一定经验 |
-| 高级（7年以上） | $25,000~$30,000 | 含管理或自雇高收入者 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Most are part-time or temporary contracts |
+| Mid-level (3–7 years) | $20,000~$25,000 | Full-time with some experience |
+| Senior (7+ years) | $25,000~$30,000 | Including managers or self-employed high-income individuals |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初始多为助手或初级岗位，积累经验后可晋升为高级技师或店长；部分人选择创业开设小型服务店铺；横向可转向美发、美容、家政等相关领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace repetitive tasks such as administrative records and scheduling, but emotional companionship, personalized service, and on-site adaptability remain humanity's moat, leading to polarization in personal service work.
+
+Initially, they are mostly assistants or junior positions, and after gaining experience, they can be promoted to senior technician or store manager; Some choose to start businesses and open small service stores; Horizontally, it can shift to hairdressing, beauty, housekeeping, and related fields.
+
+**Tasks most exposed to AI:**
+
+- Use spreadsheets for client appointments and scheduling
+- Manually archive and update customer personal information and service records
+- Write standardized service descriptions or daily reports
+- Respond to simple customer inquiries by phone or email
+
+**Where AI augments the role:**
+
+- Use AI sentiment analysis tools to optimize communication strategies with clients
+- Customize personalized service plans for customers with AI recommendation systems
+- Enhance multi-client coordination efficiency with automated scheduling tools
+- Providing services to customers of different languages through AI translation devices
+
+**Human moat:**
+
+- Flexibly adjust service methods and make real-time decisions in emergencies
+- Build long-term trust and emotional resonance
+- Addressing personalized needs involving privacy, ethics, or cultural sensitivity
+- Perceive customers' true needs through nonverbal cues (facial expressions, tone).
+
+**Skills to build:**
+
+- Use of basic AI tools (such as Copilot, ChatGPT to assist with documentation and communication)
+- Data analysis and customer profiling capabilities
+- Emotional management and conflict mediation skills
+- Cross-cultural service sensitivity and language proficiency
+- Digital platform operations and social media foundations
+
+**Key growth areas:**
 
 - Personal Services
 - Aging Population
@@ -62,65 +94,67 @@ Includes beautician assistants, companions, personal care aides, and other perso
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 需获得西班牙雇主工作合同，且岗位难以在欧盟招聘到合适人员，但此类低技能岗位通常难以满足要求。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许高学历者来西找工作，但本职业不符合高技能要求，可行性低。 |
+| Subclass Cuenta ajena (Work Contract Visa) | You need to obtain a work contract from a Spanish employer, and it is difficult to recruit suitable candidates in the EU, but such low-skilled positions often struggle to meet the requirements. |
+| Subclass Busqueda empleo (Job Search Visa) | Allows highly educated individuals to come to the West to look for work, but this occupation does not meet high-skilled requirements, feasibility is low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Service Workers Not Elsewhere Classified？**
-- 希望在西班牙低成本学习并快速就业的人群
-- 对学历要求不高、乐于从事服务类工作的人
-- 有创业意向，愿意自雇开小店者
+**Who is suited**
+- People who want to study at low cost and find employment quickly in Spain
+- People with low educational requirements who are willing to work in service jobs
+- Those with entrepreneurial intentions and willing to self-employ a small shop
 
-**谁不适合学Personal Service Workers Not Elsewhere Classified？**
-- 追求高薪和职业声望者
-- 希望获得技术移民身份的高学历人士
+**Who is not suited**
+- Those seeking high salaries and professional prestige
+- Highly educated individuals seeking skilled migrant status
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the income levels of other personal service workers in Spain?**
+A: Most practitioners earn between €16,000-€30,000 per year, below the national average, and part-time or temporary contracts are common, income is unstable.
+
+**Q: Can third-country citizens immigrate to Spain through this employment?**
+A: extremely difficult. This occupation is considered low-skill, non-urgent, and employer sponsorship requires proof that there are no suitable candidates within the EU, making it impossible to apply for an EU Blue Card or a High-Skilled Talent visa.
+
+**Q: What educational background is needed for this occupation?**
+A: No mandatory requirements, but relevant vocational training (FP) can enhance competitiveness; Some positions, such as beauty assistants, may require specific course certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Personal Service Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for personal service workers not elsewhere classified in Spain?**
-答：Most earn between €16,000 and €30,000 annually, below the national average, with part-time or temporary contracts common.
-
-**问：Can third-country nationals immigrate to Spain through this occupation?**
-答：Very difficult. It's a low-skilled, non-shortage occupation; employer sponsorship requires proving no suitable EU worker, and it doesn't qualify for EU Blue Card or high-skilled visa.
-
-**问：What education is needed for this occupation?**
-答：No mandatory requirements, but relevant vocational training (FP) can improve competitiveness; some roles like beauty assistant may need specific course certificates.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Scaffolders（Scaffolders）职业分析 · 加拿大
+# Scaffolders — career analysis · Canada
 
-**职业代码：72311 – Scaffolders。**
+**Occupation code: 72311 (NOC)**
 
-Erect and dismantle scaffolding to provide safe access for construction work. It is a skilled trade in demand in Canada, eligible for Provincial Nominee Programs and Express Entry.
+Erect and dismantle scaffolding on construction sites, providing safety for high-rise work. A skilled trade on Canada's immigration shortage list, eligible for provincial nomination or Express Entry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（只需完成高中教育） |
-| 学徒培训 | 2-4年 | $1,000~$5,000（包括课堂和在职培训，部分省份政府资助） |
-| 省资格认证 | 见学徒期 | $500~$1,500（考试和证书费用） |
+| High school graduation | 12 years | $0~$0 (Only high school education required) |
+| Apprenticeship training | 2-4 years | $1,000~$5,000 (Includes classroom and on-the-job training; government-funded in some provinces) |
+| Provincial qualification | See Apprenticeship Period | $500~$1,500 (Exam and certificate fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 可选 | 对移民Express Entry必要，评估海外学历等同于加拿大高中以上 |
-| 省学徒证书 | 各省学徒机构 | 必备 | 红印证书（Red Seal）可全国通用，多数省份要求持证上岗 |
-| 语言考试（IELTS等） | IELTS/CELPIP | 可选 | 移民语言要求，通常CLB 5-7 |
+| Provincial apprenticeship certificate | Provincial apprenticeship authorities | Required | Red Seal certification is valid nationwide; most provinces require certification to work |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Optional | Required for Express Entry; assesses whether international degree is equivalent to Canadian high school or higher. |
+| Language tests (IELTS, etc.) | IELTS/CELPIP | Optional | Immigration language requirement, typically CLB 5-7. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。加拿大建筑业持续增长，尤其在安大略省、BC省和阿尔伯塔省。预计未来十年岗位增长稳定，退休人员较多，为新人带来机会。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Canada's construction industry continues to grow, especially in Ontario, BC, and Alberta. Steady job growth is expected over the next decade, with many retirements creating opportunities for newcomers.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 学徒期工资约为技师的50-60% |
-| 中级（3-6年） | $55,000~$70,000 | 获得认证后工资显著提升 |
-| 高级（6年以上） | $70,000~$90,000 | 工头或专业脚手架工可达更高 |
+| Median salary | $49,920 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Apprenticeship wages are about 50-60% of a journeyperson's wage |
+| Mid-level (3–6 years) | $55,000~$70,000 | Significant salary increase after obtaining certification |
+| Senior (6+ years) | $70,000~$90,000 | Foreman or professional scaffolder can earn more |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★★☆）。** 从学徒做起，逐步成长为熟练工、工头或安全监督员。也可创办脚手架公司或转向项目管理工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive measurement, inspection, and documentation tasks for scaffolders will be gradually replaced by AI and robots, but on-site assembly and dismantling still require significant manual labor, intensifying competition for entry-level positions.
+
+Start as an apprentice and gradually progress to a skilled worker, foreman, or safety supervisor. You can also start a scaffolding company or move into project management.
+
+**Tasks most exposed to AI:**
+
+- Safety inspection and recording: AI drones or cameras automatically detect scaffolding hazards and generate reports
+- Material calculation and ordering: AI optimizes steel pipe and fastener quantities and automatically places orders
+- Progress tracking and documentation: AI automatically updates construction logs and generates daily reports
+- Basic surveying and layout: laser scanning and BIM automatically generate positioning points, reducing manual measurement
+
+**Where AI augments the role:**
+
+- AI design software (e.g., Tekla) generates scaffolding erection plans, reducing calculation errors
+- AR glasses overlay step-by-step instructions to improve setup accuracy for beginners
+- Wearable devices monitor workers' heart rate and location in real-time, preventing heat stroke or falls
+- Machine learning predicts scaffold load distribution to optimize structural stability
+
+**Human moat:**
+
+- Physical strength and balance for high-altitude climbing and manual assembly/disassembly
+- Flexible improvisational problem-solving skills for irregular on-site structures (e.g., unconventional buildings)
+- Team coordination and gesture communication (in noisy construction sites)
+- Intuitive judgment and quick response to sudden safety risks
+
+**Skills to build:**
+
+- Ability to read and modify BIM software (e.g., Tekla, Revit)
+- Drone operation and image screening skills.
+- Basic Python or automated scripts for data reports
+- AR/smart wearable device operation and maintenance
+- Safety monitoring and analysis (understanding ISO 45001)
+- Communication skills for collaborating with AI systems (understanding AI output and handling exceptions)
+
+**Key growth areas:**
 
 - Construction
 - Trade Workers
@@ -63,68 +96,67 @@ Erect and dismantle scaffolding to provide safe access for construction work. It
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (Federal Skilled Trades)） | 联邦技工移民，语言要求较低（CLB 5），需获得省认证或雇主支持 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名技工移民，如安大略省技工类别、BC省技工提名，通常只需雇主offer |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋移民试点项目，针对大西洋省份，有雇主offer即可申请 |
+| Subclass EE (Express Entry (Federal Skilled Trades)) | Federal Skilled Trades Program, lower language requirement (CLB 5), requires provincial certification or employer support |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee skilled trade streams, e.g., Ontario Skilled Trades stream, BC Skilled Trades nomination, usually requiring only a job offer. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Project, targeting Atlantic provinces, requires a job offer to apply. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Scaffolders？**
-- 体力好、不恐高，适应户外高强度工作
-- 有建筑行业经验或学徒背景，愿意考取认证
-- 希望快速移民加拿大，愿意从技工岗位起步
-
-**谁不适合学Scaffolders？**
-- 不喜欢爬高和体力工作
-- 追求办公室工作或低强度职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, not afraid of heights, adaptable to outdoor high-intensity work
+- Individuals with construction experience or apprenticeship background, willing to obtain certification
+- Those who want to immigrate to Canada quickly and are willing to start from trade positions
+
+**Who is not suited**
+- Dislike climbing heights and physical work
+- Pursuing office work or low-intensity occupations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for scaffolders in Canada?**
+A: Apprentice period about CA$40,000-55,000, skilled worker about CA$55,000-70,000, senior can reach CA$70,000-90,000. Higher with overtime or remote projects.
+
+**Q: Is it feasible to immigrate to Canada as a scaffolder?**
+A: It's viable. This occupation is in demand under Federal Skilled Trades (Express Entry) and most Provincial Nominee Programs (e.g., Ontario Skilled Trades), requiring an employer or certification.
+
+**Q: What certificates are required to become a scaffolder in Canada?**
+A: Most provinces require completing apprenticeship training and obtaining a provincial certificate (e.g., Scaffolder Certification in Ontario). Red Seal exam enables nationwide work. Immigration requires ECA and language scores.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 积极（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Scaffolders的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a scaffolder in Canada?**
-答：Apprentices earn CAD 40,000-55,000; journeypersons CAD 55,000-70,000; experienced up to CAD 90,000. Higher with overtime.
-
-**问：Is migration as a scaffolder feasible?**
-答：Yes. It's a skilled trade in demand under Federal Skilled Trades and many PNPs (e.g., Ontario Skilled Trades). Requires job offer or certification.
-
-**问：What certifications are needed to become a scaffolder in Canada?**
-答：Most provinces require completed apprenticeship and provincial certification (e.g., Ontario's Scaffolder Certificate). Red Seal for national mobility. ECA and language test for immigration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

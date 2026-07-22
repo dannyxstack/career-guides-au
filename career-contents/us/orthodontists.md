@@ -1,59 +1,95 @@
-# Orthodontists（Orthodontists）职业分析 · 美国
+# Orthodontists — career analysis · United States
 
-**职业代码：29-1023 – Orthodontists。**
+**Occupation code: 29-1023 (SOC)**
 
-Orthodontists examine, diagnose, and treat dental malocclusions and oral cavity anomalies, designing and fabricating appliances to realign teeth and jaws for normal function and improved appearance.
+Orthodontists diagnose and treat malocclusions and oral abnormalities, design and fabricate appliances to realign teeth and jaws, improving function and aesthetics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 牙科博士 (DDS/DMD) | 4年 | $200,000~$400,000（含学费及生活费，公立院校相对便宜） |
-| 正畸住院医师培训 | 2-3年 | $50,000~$80,000（通常有薪，但学费或杂费可能产生） |
+| Doctor of Dental Surgery (DDS/DMD). | 4 years | $200,000~$400,000 (Includes tuition and living expenses, public institutions are relatively cheaper) |
+| Orthodontic residency training | 2-3 years | $50,000~$80,000 (Usually paid, but tuition or fees may apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科执照 | 各州牙科委员会 | 必备 | 需通过NBDE或INBDE考试及州法考试 |
-| 正畸专科认证 | 美国正畸委员会 (ABO) | 可选 | 非强制但提升竞争力 |
-| CPR认证 | 美国心脏协会等 | 必备 | 多数州要求 |
+| Dental license | State dental boards | Required | Must pass NBDE or INBDE exams and state law exam |
+| CPR certification | American Heart Association, etc. | Required | Required in most states |
+| Orthodontic specialist certification. | American Board of Orthodontics (ABO) | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,800。美国正畸医生需求稳定，受人口增长和美观意识提升推动。BLS预计2023-2033年就业增长约4%，与平均水平相当。但竞争激烈，需持续教育。
+**Job demand: high (★★★★☆).** National workforce approx. 6,800. Demand for orthodontists in the US is stable, driven by population growth and increased aesthetic awareness. BLS projects about 4% employment growth from 2023-2033, about as fast as average. However, competition is tough and continuing education is required.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $120,000~$180,000 | 受雇于诊所或机构 |
-| 中级（4-9年） | $180,000~$250,000 | 经验增长，可能成为合伙人 |
-| 高级（10年以上） | $250,000~$400,000 | 知名专家或诊所所有者收入更高 |
+| Median salary | $289,140 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $120,000~$180,000 | Employed by a clinic or institution |
+| Intermediate (4-9 years) | $180,000~$250,000 | With experience growth, may become a partner |
+| Senior (10+ years) | $250,000~$400,000 | Famous experts or clinic owners earn more |
+| average salary | $259,400 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 一般路径：牙医学院毕业后完成2-3年住院医师培训，获得认证后执业。可开设私人诊所或加入团体，职业晋升包括成为诊所合伙人、教学或研究职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+General path: complete dental school, then 2-3 years of residency, obtain certification to practice. Can open private practice or join a group; career progression includes becoming a clinic partner, teaching, or research positions.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - Orthodontics
 - Dental Care
@@ -62,65 +98,67 @@ Orthodontists examine, diagnose, and treat dental malocclusions and oral cavity 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于专业职位，正畸医生符合要求，需雇主担保，有配额限制。 |
-| Subclass EB-2（EB-2 Advanced Degree） | 正畸医生通常持有博士学位，可通过PERM劳工认证申请绿卡。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在正畸领域有突出成就的医生，需证明杰出能力。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional positions; orthodontists meet requirements but need employer sponsorship with quota restrictions. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Orthodontists typically hold a doctoral degree and can apply for a green card through PERM labor certification. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to doctors with outstanding achievements in orthodontics, requires proof of extraordinary ability. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthodontists？**
-- 对口腔美学和功能重建有强烈兴趣的人
-- 具备精细动手能力和耐心的人
-- 愿意长期投入教育和培训的人
-
-**谁不适合学Orthodontists？**
-- 不喜欢与患者直接沟通的人
-- 无法承受高额教育贷款压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in oral aesthetics and functional reconstruction
+- Those with fine manual dexterity and patience
+- Willing to commit long-term to education and training.
+
+**Who is not suited**
+- People who dislike direct patient communication
+- People who cannot afford high education loan debt
+
+---
+
+## 8. FAQ
+
+**Q: How does the salary of orthodontists compare within the dental field?**
+A: Orthodontists are one of the highest-paid specialties in dentistry, with a median annual salary of around $200,000, significantly higher than general dentists (about $160,000), but education costs are also high.
+
+**Q: How can a foreign dentist become an orthodontist in the US?**
+A: Must first obtain a US dental doctoral degree (via an international dentist program) or pass NBDE certification, then complete orthodontic residency training and obtain a state license. H-1B and EB-2 are common pathways.
+
+**Q: Is it easy for orthodontists to apply for a green card?**
+A: Relatively easy, as orthodontists are specialized professionals who can apply for PERM labor certification via EB-2 (advanced degree), but require employer support and may face long waiting times.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 非常高（★★★★★） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Orthodontists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How does orthodontist salary compare in dentistry?**
-答：Orthodontists are among the highest-paid dental specialists, with median annual salary around $200,000, significantly higher than general dentists (~$160,000), but education costs are substantial.
-
-**问：How can foreign dentists become orthodontists in the US?**
-答：They must earn a US dental degree (via international dentist programs) or pass NBDE, complete orthodontic residency, and obtain state license. H-1B and EB-2 are common paths.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Landscape Architect（Landscape Architect）职业分析 · IT
+# Landscape Architect — career analysis · Italy
 
-**职业代码：2162 – Landscape Architect。**
+**Occupation code: 2162 (ISCO08)**
 
-Landscape architects in Italy design outdoor spaces such as parks, gardens, and urban areas, integrating ecology, aesthetics, and functionality. The profession is regulated, requiring state examination registration and recognized under EU directives.
+Landscape architects in Italy plan and design outdoor spaces, including parks, gardens, and urban public areas, integrating ecology, aesthetics, and functionality. This profession requires registration through a national exam and is recognized under the EU Professional Qualifications Directive.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $2,000~$4,000（公立大学学费，按家庭收入计算） |
-| 硕士 | 2年（硕士） | $3,000~$5,000（公立大学硕士，含设计方向） |
+| Bachelor's degree | 3 years (bachelor's) | $2,000~$4,000 (Public university tuition fees, based on family income) |
+| Master's degree | 2 years (Master's) | $3,000~$5,000 (Master's degree from a public university, including design specializations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家建筑师考试（Esame di Stato per Architetto） | 意大利教育、大学与研究部（MIUR） | 必备 | 通过后注册为景观建筑师 |
-| 注册建筑师（Albo degli Architetti） | 意大利建筑师理事会 | 必备 | 需每年更新，认可欧盟资格 |
-| 硕士学历（Laurea Magistrale） | 意大利大学 | 必备 | LM-4建筑与建筑工程类硕士 |
+| National Architect Exam (Esame di Stato per Architetto) | Italian Ministry of Education, Universities and Research (MIUR) | Required | Register as a landscape architect after approval |
+| Registered Architect (Albo degli Architetti) | Italian Council of Architects | Required | Requires annual renewal, EU qualifications recognised |
+| Master's degree (Laurea Magistrale) | Italian universities | Required | LM-4 Master of Construction and Building Engineering |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏高（★★★½☆）。** 全国从业人数约 12,000。意大利景观建筑师就业稳步增长，受可持续城市发展和绿色基础设施投资推动。公共项目及私人花园设计需求持续，北部地区机会较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Italy's landscape architect employment is growing steadily, driven by sustainable urban development and green infrastructure investment. Demand continues for public projects and private garden design, with more opportunities in the northern regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，北意大利较高 |
-| 中级（4-7年） | $35,000~$50,000 | 含项目提成 |
-| 高级（8年+） | $50,000~$70,000 | 总监或合伙人级别 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary, higher in northern Italy. |
+| Mid-level (4-7 years) | $35,000~$50,000 | Including project commissions |
+| Senior (8+ years) | $50,000~$70,000 | Director or Partner Level |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 晋升路径：从初级设计师到项目负责人，再至总监或合伙人。也可专攻生态修复或城市规划。注册建筑师（Architetto）身份可拓宽至跨领域合作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Career path: From junior designer to project lead, then to director or partner. Alternatively, specialize in ecological restoration or urban planning. The registered architect (Architetto) status can broaden opportunities for cross-disciplinary collaboration.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - green infrastructure
 - sustainable urban design
@@ -62,68 +95,67 @@ Landscape architects in Italy design outdoor spaces such as parks, gardens, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适合高技能非欧盟人才，年薪门槛约40,000欧元，需大学学历及工作合同。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非配额紧缺职业，但景观建筑师不在传统配额内，需雇主证明无法从本地招聘。 |
-| Subclass Autonomous Work Visa（Freelance Visa (Self-employment)） | 适合自雇景观建筑师，需证明财务能力及专业注册。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Suitable for highly skilled non-EU talent, salary threshold approximately €40,000, requiring university degree and work contract. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-quota skilled occupations, but landscape architects are not in the traditional quota; employers must prove inability to recruit locally. |
+| Subclass Autonomous Work Visa (Freelance Visa (Self-employment)) | Suitable for self-employed landscape architects, requiring proof of financial capacity and professional registration. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscape Architect？**
-- 有艺术与生态双重兴趣的设计人才
-- 具备项目管理与客户沟通能力者
-- 愿意参与公共空间与城市可持续发展项目者
-
-**谁不适合学Landscape Architect？**
-- 不喜欢户外工作或现场勘查者
-- 无法通过严格国家考试者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Design talent with dual interests in art and ecology.
+- Those with project management and customer communication skills
+- Those who are willing to participate in public space and urban sustainable development projects
+
+**Who is not suited**
+- People who dislike outdoor work or site inspections
+- Those who cannot pass strict national exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for landscape architects in Italy?**
+A: Pre-tax annual salary: junior approx. €25,000-35,000, mid-level €35,000-50,000, senior up to €70,000, higher in the north.
+
+**Q: How can non-EU citizens obtain a landscape architect work visa in Italy?**
+A: Eligible via EU Blue Card (annual salary threshold approx. €40,000) or self-employment visa; requires university degree, work contract, or registration. Decreto Flussi does not apply.
+
+**Q: What qualifications are required for a landscape architect in Italy?**
+A: Must complete a master's degree in architecture or landscape architecture (LM-4), pass the national exam to become a registered architect (Architetto), and join the Architects' Council.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等偏高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Landscape Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for landscape architects in Italy?**
-答：Gross annual salary ranges from €25,000-35,000 for junior, €35,000-50,000 for mid-level, and up to €70,000 for senior positions, higher in northern Italy.
-
-**问：How can non-EU citizens obtain a work visa as a landscape architect in Italy?**
-答：Via EU Blue Card (salary threshold ~€40,000) or self-employment visa, requiring a degree, job offer, or professional registration. Decreto Flussi is not applicable.
-
-**问：What qualifications are required to practice as a landscape architect in Italy?**
-答：A master's degree in architecture or landscape architecture (LM-4), passing the state exam to become a registered architect (Architetto), and membership in the architects' board.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

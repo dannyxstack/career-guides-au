@@ -1,59 +1,94 @@
-# Vehicle Driving Instructor（Vehicle Driving Instructor）职业分析 · FR
+# Vehicle Driving Instructor — career analysis · France
 
-**职业代码：K2110 – Vehicle Driving Instructor。**
+**Occupation code: K2110 (ROME)**
 
-Vehicle driving instructors teach driving skills, traffic regulations, and safe driving practices to help learners prepare for driving tests. Duties include theoretical instruction and practical road training.
+Vehicle driving instructors teach driving skills, traffic regulations, and safety knowledge, helping students prepare for the driving test. The work includes theoretical teaching and practical training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后培训 | 2年（CAP） | $3,000~$8,000（CAP Conducteur routier运输驾驶CAP，含驾驶培训） |
-| BAC+2 | 2年（BTS） | $5,000~$12,000（BTS运输与物流服务，可含驾驶教练模块） |
+| Post-high school training | 2 years (CAP) | $3,000~$8,000 (CAP Conducteur Routier Transport Driving CAP, including driving training) |
+| BAC+2 | 2 Years (BTS) | $5,000~$12,000 (BTS transportation and logistics services may include a driving coach module) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶教练资格证 | 法国国家职业资格委员会（CNCP） | 必备 | 需通过理论考试和教学实践评估 |
-| B类驾驶执照 | 法国交通部 | 必备 | 需持B类驾照满3年 |
-| 教师资格认证 | 法国教育部 | 可选 | 非强制，但有助于应聘公立驾校 |
+| Driving instructor qualification certificate | French National Professional Qualifications Commission (CNCP) | Required | Requires passing a theoretical exam and teaching practice assessment |
+| Class B driver's license | French Ministry of Transport | Required | Must have held a Class B driver's license for at least 3 years |
+| teacher certification | French Ministry of Education | Optional | Non-mandatory, but helpful for applying to public driving schools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。法国驾驶教练需求稳定，每年约2万人参加考试。随着老龄化和移民增加，持照需求持续，就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. Demand for driving instructors in France is stable, with about 20,000 people taking the exam each year. With aging population and immigration, licensing demand continues, good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含基本工资和课时费 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，独立教练或管理层 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including base salary and lesson fees |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, independent coaching or management |
+| average salary | $25,620 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展可从独立教练晋升为驾校合伙人或管理层，也可拓展至驾驶安全培训或特殊车辆指导。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vehicle driving coaches face opportunities for AI-assisted teaching, but core driving decision-making responsibilities and real-vehicle supervision requirements limit automation replacement, resulting in mixed outcomes.
+
+Career development can progress from independent instructors to driving school partners or management roles, or expand into driving safety training or specialized vehicle instruction.
+
+**Tasks most exposed to AI:**
+
+- Theoretical knowledge explanation and traffic rules Q&A
+- Standardization demonstration and correction of basic driving movements
+- Repetitive training guidance in the simulator
+- Student progress recording and exam appointment management
+
+**Where AI augments the role:**
+
+- Using AI simulators for high-risk scenario training
+- Through data analysis, it accurately diagnoses students' driving weaknesses
+- Adaptive learning path design and personalized teaching plans
+- Real-time assistance systems improve teaching feedback efficiency
+- Utilizing VR technology to enhance drills in complex traffic environments
+
+**Human moat:**
+
+- Real-time judgment and demonstration of sudden driving situations
+- Experience-based nonverbal teaching techniques and communication
+- Perception and motivation of trainees' psychological states
+- The ultimate safeguard for safety responsibility and regulatory compliance
+- The intuition and empathy of personalized teaching adjustments
+
+**Skills to build:**
+
+- Operation and maintenance of intelligent driving assistance systems
+- Data analysis and application of personalized teaching tools
+- Teaching design and implementation of VR/AR simulators
+- Human-computer collaborative teaching strategies and communication skills
+- Continuous learning and AI tool assessment capabilities
+- Basic programming and customized teaching software
+
+**Key growth areas:**
 
 - road safety
 - driver training
@@ -62,68 +97,67 @@ Vehicle driving instructors teach driving skills, traffic regulations, and safe 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于驾校，雇主担保工作许可 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 如为高级教练或创业，可申请人才护照 |
-| Subclass Carte bleue UE（EU Blue Card） | 需薪资达门槛，通常管理岗位适用，教练岗位较少 |
+| Subclass Salarié (Salarié (Employee)) | Employed by a driving school, employer-sponsored work permit |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For senior coaches or entrepreneurs, may apply for a Talent Passport. |
+| Subclass Carte bleue UE (EU Blue Card) | Salary must meet the threshold; management positions are usually suitable, coaching positions are rare |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle Driving Instructor？**
-- 耐心且善于沟通的人
-- 热爱驾驶和道路安全的人
-- 喜欢灵活工作时间的人
-
-**谁不适合学Vehicle Driving Instructor？**
-- 缺乏耐心的人
-- 不喜欢与初学者打交道的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and good communicator
+- People who love driving and road safety
+- People who prefer flexible working hours
+
+**Who is not suited**
+- People lacking patience
+- People who dislike dealing with beginners
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for driving instructors?**
+A: Entry-level about €22-28k per year, mid-level up to €35k, senior independent coaches over €45k per year.
+
+**Q: Can foreigners become French driving instructors?**
+A: Yes, you must hold a French-recognized driver's license and instructor qualification, and pass a language exam. Immigration is possible through work visas or talent passports.
+
+**Q: What qualifications are required to become a driving instructor?**
+A: You must have held a Class B driver's license for at least 3 years and passed the Driving Instructor Qualification Exam (CAP or BTS).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle Driving Instructor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for driving instructors?**
-答：Entry-level about 22-28k EUR/year, mid-level up to 35k, senior independent instructors can exceed 45k EUR/year.
-
-**问：Can foreigners become driving instructors in France?**
-答：Yes, they need a French-recognized driving license and instructor qualification, and pass language tests. They can immigrate via work visa or Talent Passport.
-
-**问：What qualifications are needed to become a driving instructor?**
-答：Must hold a category B license for at least 3 years and pass the driving instructor exam (CAP or BTS).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

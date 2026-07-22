@@ -1,59 +1,95 @@
-# Proprietors Of Bars And Restaurants（Proprietors Of Bars And Restaurants）职业分析 · ES
+# Proprietors Of Bars And Restaurants — career analysis · Spain
 
-**职业代码：5000 – Proprietors Of Bars And Restaurants。**
+**Occupation code: 5000 (CNO)**
 
-Manages and operates small bars, restaurants or cafes, including menu planning, inventory control, staff management, customer service, and financial planning. Often self-employed or family-run.
+Responsible for managing and operating small bars, restaurants, or cafes, including menu design, inventory control, staff management, customer service, and financial planning. It usually falls under the sole proprietorship or family business model.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio en Cocina y Gastronomía | 2年 | $500~$2,000（公立学校每年注册费约500-1000欧元，私立更高） |
-| FP Grado Superior en Gestión de Alojamientos Turísticos | 2年 | $500~$2,500（公立每年约500-1500欧元） |
+| FP Grado Medio en Cocina y Gastronomía | 2 years | $500~$2,000 (The annual registration fee for public schools is about 500-1000 euros, while private schools charge even more) |
+| FP Grado Superior en Gestión de Alojamientos Turísticos | 2 years | $500~$2,500 (Public tuition costs about 500-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 餐饮业卫生证书 | 各自治区卫生部门 | 必备 | 所有食品经营者必须持有，培训时长约8小时 |
-| 经营许可证（Licencia de Apertura） | 市政厅 | 必备 | 需符合当地法规，可能涉及消防、无障碍等要求 |
-| FP烹饪或餐饮管理学位 | 公立或私立教育中心 | 可选 | 非强制但提升竞争力 |
+| Restaurant hygiene certificate | Health departments of all autonomous regions | Required | All food vendors must hold it, and the training lasts about 8 hours |
+| Operating License (Licencia de Apertura) | City Hall | Required | Compliance with local regulations may involve fire safety, accessibility, and other requirements |
+| FP degree in Culinary or Catering Management | Public or private education centers | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 280,000。西班牙餐饮业持续复苏，但小型经营者面临大型连锁品牌和外卖平台竞争。旅游热点地区需求稳定，但盈利能力受租金和原材料成本上升挤压。数字化和外卖渠道拓展成为新增长点。
+**Job demand: high (★★★★☆).** National workforce approx. 280,000. Spain's restaurant industry continues to recover, but small operators face competition from large chain brands and delivery platforms. Demand in tourist hotspots remains stable, but profitability is squeezed by rising rents and raw material costs. Digitalization and the expansion of food delivery channels have become new growth drivers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$26,000 | 多为员工阶段，尚未独立经营 |
-| 中级（4-7年） | $30,000~$45,000 | 小餐饮业主税前盈利 |
-| 高级（8年以上） | $50,000~$80,000 | 成功连锁或多店经营者，收入波动大 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$26,000 | Most are employees and have not yet operated independently |
+| Mid-level (4-7 years) | $30,000~$45,000 | Pre-tax profit for small restaurant owners |
+| Senior (8+ years) | $50,000~$80,000 | Successful chain or multi-store operators have large income fluctuations |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 常见路径：从服务员或厨师起步→积累经验后独立开店→多店连锁或加盟。部分经营者转向餐饮咨询、食材供应或餐饮培训等关联产业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Common path: Start as a waiter or chef→ gain experience, then open an independent store → multi-store chain or franchise. Some operators have shifted to related industries such as catering consulting, ingredient supply, or catering training.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Tourism recovery
 - Digital ordering
@@ -62,68 +98,67 @@ Manages and operates small bars, restaurants or cafes, including menu planning, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employee)） | 受雇于餐饮企业，由雇主担保申请工作居留 |
-| Subclass Cuenta propia（Self-Employed Residence Permit） | 作为个体经营者开设餐饮店，需提交商业计划书和投资证明 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 仅适用于大型连锁餐饮企业高管或特殊技术人才，普通经营者不适用 |
+| Subclass Cuenta ajena (Work Contract (Employee)) | Employed by a catering company, applying for work residence through employer sponsorship |
+| Subclass Cuenta propia (Self-Employed Residence Permit) | To open a restaurant as an individual entrepreneur, a business plan and investment proof must be submitted |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Only applicable to senior executives or special technical personnel of large chain catering enterprises; ordinary operators are not eligible |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Proprietors Of Bars And Restaurants？**
-- 热爱餐饮行业，愿意投入长时间工作的人
-- 具备基本商业管理能力和创业精神的人
-- 适应灵活工时和高强度工作节奏的人
-
-**谁不适合学Proprietors Of Bars And Restaurants？**
-- 寻求稳定朝九晚五工作的人群
-- 不喜欢与人打交道或处理突发状况的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love the food and beverage industry and are willing to work long hours
+- Individuals with basic business management skills and entrepreneurial spirit
+- People who adapt to flexible working hours and high-intensity work rhythms
+
+**Who is not suited**
+- People seeking a stable nine-to-five job
+- People who dislike dealing with people or handling emergencies
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of restaurant operators in Spain?**
+A: Junior employees or small shop owners earn about 18,000-26,000 euros annually; Experienced independent operators can earn up to 30,000-45,000 euros; Successful chain operators can earn over 50,000 euros, but their earnings fluctuate greatly depending on the season and location.
+
+**Q: Can foreigners obtain Spanish residency by opening a restaurant?**
+A: You can apply for self-employment residence (Cuenta propia), which requires submitting a detailed business plan, proof of investment, and compliance with local regulations. The threshold for small individual businesses is not high, but approval varies by region, so it is recommended to consult an immigration lawyer.
+
+**Q: What career development paths are available for restaurant operators?**
+A: Common path: Start as a waiter or chef→ accumulate experience, then open your own store→ operate multiple stores, or franchise brands. It can also be shifted to related fields such as catering consulting, ingredient supply, or culinary training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Proprietors Of Bars And Restaurants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for bar/restaurant proprietors in Spain?**
-答：Entry-level employees or small owners earn 18,000-26,000 EUR annually; experienced self-employed proprietors can earn 30,000-45,000 EUR; successful chain owners may exceed 50,000 EUR, but income fluctuates with season and location.
-
-**问：Can foreigners obtain Spanish residence by opening a restaurant?**
-答：Yes, through a self-employed visa (Cuenta propia) requiring a business plan, investment proof, and compliance with local regulations. Approval varies by region; consulting an immigration lawyer is recommended.
-
-**问：What career progression exists for hospitality proprietors?**
-答：Typical path: start as waiter/chef, then open own business, and later expand to multiple outlets or franchising. Alternatives include food consulting, supply chain, or culinary training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

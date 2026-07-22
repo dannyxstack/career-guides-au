@@ -1,58 +1,94 @@
-# Advertising and Public Relations Directors（Advertising and Public Relations Directors）职业分析 · ES
+# Advertising and Public Relations Directors — career analysis · Spain
 
-**职业代码：1222 – Advertising and Public Relations Directors。**
+**Occupation code: 1222 (CNO)**
 
-Responsible for developing and executing advertising and PR strategies, managing brand image, coordinating media relations, and leading creative teams to enhance market influence.
+Responsible for formulating and executing advertising and public relations strategies, managing brand image, coordinating media relations, leading creative teams, and enhancing the company's market influence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$3,000（公立大学学费） |
-| 硕士（Máster） | 1年 | $2,000~$8,000（专业硕士学费） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public university tuition) |
+| Máster | 1 year | $2,000~$8,000 (Professional master's tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（广告、公关、营销等） | 西班牙大学 | 可选 | 通常需相关专业Grado学历 |
-| 高级语言能力 | 官方语言机构 | 可选 | 英语/其他语言证书提升竞争力 |
+| University degree (advertising, public relations, marketing, etc.) | Spanish University | Optional | Usually, a Grado degree in a relevant major is required |
+| Advanced language skills | Official language institutions | Optional | English/Other Language Certificates Enhance Competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。西班牙广告与公关行业随着数字化转型持续增长，社交媒体和内容营销创造新机会。但竞争激烈，经济波动可能导致预算削减。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Spain's advertising and PR industry continues to grow with digital transformation, with social media and content marketing creating new opportunities. However, competition is fierce, and economic fluctuations may lead to budget cuts.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $60,000~$90,000 | 税前年薪，含大公司 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $60,000~$90,000 | Pre-tax annual salary, including large companies |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从公关专员或广告客户经理起步，积累行业经验后可晋升为部门总监，最终可成为首席营销官（CMO）或独立创办公关公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Starting as a PR specialist or advertising account manager, you can gain industry experience and be promoted to department director, eventually becoming a Chief Marketing Officer (CMO) or founding an office communications company independently.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Marketing
 - Social Media
@@ -61,65 +97,64 @@ Responsible for developing and executing advertising and PR strategies, managing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高薪职位（年薪超西班牙平均工资1.5倍），需合同与学历 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对管理人员或技术专家，快速通道，可带家属 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 标准受雇工作居留，需公司担保 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to high-salary positions (annual salary over 1.5 times the Spanish average wage), requires contract and qualifications |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For managers or technical experts, fast track available, family members allowed |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Standard employment-based residence requires company guarantee |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Advertising and Public Relations Directors？**
-- 创意丰富、善于沟通和领导团队的人
-- 对市场趋势敏感、喜欢策略规划的人
-- 具备抗压能力和多任务处理能力的人
-
-**谁不适合学Advertising and Public Relations Directors？**
-- 不喜欢面对公众和媒体的人
-- 缺乏时间管理和谈判技巧的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative, good communicators, and team leaders
+- People who are sensitive to market trends and enjoy strategic planning
+- People with stress tolerance and multitasking abilities
+
+**Who is not suited**
+- People who dislike facing the public and the media
+- People who lack time management and negotiation skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for advertising and PR directors in Spain?**
+A: Entry-level about 30,000 euros/year, mid-level 40,000-55,000, senior up to 60,000-90,000 euros, depending on company size and experience.
+
+**Q: As a non-EU citizen, how can I obtain a work visa for the Spanish Director of Advertising and Public Relations?**
+A: You can use the EU Blue Card (with a high-paying contract), a Skilled Professional visa (Express Entry), or a standard work residence (with company sponsorship).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Advertising and Public Relations Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Advertising and PR Directors in Spain?**
-答：Entry-level around €30,000/year, mid-level €40,000-€55,000, senior up to €60,000-€90,000 depending on company size and experience.
-
-**问：As a non-EU citizen, how can I get a work visa for Advertising and PR Director in Spain?**
-答：Via EU Blue Card (high salary required), Highly Skilled Professional visa (fast track), or standard work residency (company sponsorship).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

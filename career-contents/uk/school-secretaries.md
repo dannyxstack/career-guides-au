@@ -1,60 +1,96 @@
-# School secretaries（School secretaries）职业分析 · UK
+# School secretaries — career analysis · United Kingdom
 
-**职业代码：4213 – School secretaries。**
+**Occupation code: 4213 (SOC)**
 
-School secretaries provide administrative support in schools, maintaining records and performing routine clerical tasks, essential for school operations.
+School secretaries provide administrative support, maintain school records, and perform routine clerical tasks, serving as essential support staff for school operations.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学教育 | 5年 | —（公立学校免费） |
-| 商业与行政NVQ三级 | 1-2年 | $1,000~$3,000（部分在职培训免费） |
+| Secondary Education | 5 years | $0~$0 (Free public schools.) |
+| NVQ Level 3 in Business and Administration | 1-2 years | $1,000~$3,000 (Some on-the-job training is free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业与行政NVQ三级 | City & Guilds / Pearson | 可选 | 广泛认可的行政资格证书 |
-| 学校行政经验 | 雇主 | 必备 | 通常要求至少1-2年相关经验 |
+| School administrative experience | Employer | Required | Usually requires at least 1-2 years of relevant experience |
+| NVQ Level 3 in Business and Administration | City & Guilds / Pearson | Optional | Widely recognized administrative qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 89,000。随着英国教育体系稳定发展，学校秘书岗位需求保持平稳。但受财政紧缩影响，招聘可能放缓，竞争中等偏上。
+**Job demand: medium (★★★☆☆).** National workforce approx. 89,000. With the stable development of the UK education system, demand for school secretary roles remains steady. However, due to fiscal austerity, hiring may slow, with moderate to high competition.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 通常按比例计算 |
-| 中级（3-7年） | $22,000~$27,000 | 含经验加成 |
-| 高级（7年以上） | $27,000~$32,000 | 含管理职责 |
+| Median salary | $26,463 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Usually calculated pro rata |
+| Mid-level (3–7 years) | $22,000~$27,000 | Includes experience bonuses. |
+| Senior (7+ years) | $27,000~$32,000 | Includes management responsibilities |
+| average salary | $26,818 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 典型晋升路径为高级学校秘书或行政主管，部分可转为学校事务经理或教育管理岗位。需积累经验并提升管理技能。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+School secretary roles face dual impacts from administrative document automation compression and AI-enhanced services. Competition for entry-level positions intensifies, but senior secretaries can transition to school management roles by mastering digital tools.
+
+Typical career path is senior school secretary or administrative supervisor, with some transitioning to school business manager or education management roles. Requires experience and management skills development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and send routine notifications, meeting minutes, and other standardized documents
+- Use AI scheduling systems to automatically handle timetable conflicts
+- Electronic data entry and preliminary organization of student records
+- Automated replies to common inquiry emails (e.g., leave process, event scheduling)
+- Scanning and archiving paper documents into electronic filing systems
+
+**Where AI augments the role:**
+
+- Use AI data analysis tools to quickly generate student academic progress reports and attendance statistics
+- Use AI meeting assistants to record, summarise, and extract action items, improving coordination efficiency
+- Optimizes multi-party meeting scheduling for principals and teachers via intelligent calendar management platform
+- Use natural language processing tools to quickly draft responses to parent complaints or special requests
+- Use AI translation tools to assist communication with parents from multilingual backgrounds
+
+**Human moat:**
+
+- Privacy protection judgment and ethical decision-making when handling sensitive student information
+- Complex interpersonal communication such as mediating student conflicts and calming parent emotions
+- On-site response and coordination for emergencies (e.g., student injuries, unexpected incidents)
+- Deep understanding and flexible application of school policies and regulations
+- Priority judgment and personalized service under multi-task parallelism.
+
+**Skills to build:**
+
+- Proficient in mainstream office automation tools (e.g., advanced Microsoft 365 features, Google Workspace automation)
+- Learn basic data analysis skills (advanced Excel functions, Power BI or Tableau)
+- Enhancing AI tool application skills (e.g., ChatGPT for writing assistance, AI meeting note-taking tools)
+- Strengthen communication and conflict mediation training (e.g., nonviolent communication courses)
+- Understanding school data protection regulations (e.g., GDPR compliance operations)
+- Learn project management basics (e.g., Trello, Asana) to streamline administrative processes
+
+**Key growth areas:**
 
 - Stable demand
 - Administrative support
@@ -63,65 +99,67 @@ School secretaries provide administrative support in schools, maintaining record
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 学校秘书不属于技术工人签证的典型职业，因学历要求较低且非短缺职业，雇主担保困难。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许在英国工作两年，但该职业薪资较低，可能难以满足后续技术工人签证要求。 |
+| Subclass Skilled Worker (Skilled Worker visa) | School secretary is not a typical occupation for skilled worker visas due to low educational requirements and non-shortage status; employer sponsorship is difficult. |
+| Subclass Graduate (Graduate visa) | The Graduate Visa allows working in the UK for two years, but the occupation has low salary, making it difficult to meet requirements for subsequent Skilled Worker Visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学School secretaries？**
-- 喜欢稳定学校环境、注重细节的人
-- 擅长文书和沟通的求职者
-- 寻求兼职或学期制工作的人
+**Who is suited**
+- Someone who likes a stable school environment and pays attention to detail
+- Job seekers with strong administrative and communication skills
+- Individuals seeking part-time or semester-based work
 
-**谁不适合学School secretaries？**
-- 寻求高薪或快速晋升的人
-- 希望获得技术移民担保的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People seeking skilled migration sponsorship
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a school secretary?**
+A: Junior about £18,000-22,000, intermediate about £22,000-27,000, senior about £27,000-32,000.
+
+**Q: Can a school secretary apply for a skilled worker visa?**
+A: Generally not feasible, as the occupation has low educational requirements and high salary thresholds, making employer sponsorship difficult.
+
+**Q: What career advancement paths are available for school secretaries?**
+A: Can advance to senior secretary, executive assistant, school affairs manager, or transition to educational management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-School secretaries属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for school secretaries?**
-答：Entry-level around £18,000-£22,000, mid-level £22,000-£27,000, senior £27,000-£32,000.
-
-**问：Can school secretaries apply for a Skilled Worker visa?**
-答：Usually not, as the role has low qualification requirements and high salary thresholds, making sponsorship difficult.
-
-**问：What are the career progression paths for school secretaries?**
-答：They can advance to senior secretary, administrative supervisor, school business manager, or move into education management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

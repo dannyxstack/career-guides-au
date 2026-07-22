@@ -1,60 +1,94 @@
-# Watch and Clock Repairer and Assembler（Watch and Clock Repairer and Assembler）职业分析 · FR
+# Watch and Clock Repairer and Assembler — career analysis · France
 
-**职业代码：B1604 – Watch and Clock Repairer and Assembler。**
+**Occupation code: B1604 (ROME)**
 
-Repair, assemble, adjust, and calibrate watches and clocks, requiring fine manual skills and precision instrument handling.
+Repairing, assembling, debugging, and calibrating clocks (watches, clocks) requires fine manual skills and precise instrument operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Horlogerie | 2年 | —（公立学校免费，材料费约500-3000欧元；可通过学徒制获得薪酬） |
-| BMA Horlogerie | 2年（在CAP基础上） | —（类似CAP，学费低，需自备工具） |
-| Licence Pro Métiers de l'Horlogerie | 3年（但通常需先有BTS或DUT） | $5,000~$10,000（大学学费，公立约2000-5000欧元/年） |
+| CAP Horlogerie | 2 years | $0~$3,000 (Public schools are free, with material costs of about 500-3000 euros; Compensation can be earned through apprenticeships) |
+| BMA Horlogerie | 2 years (based on CAP) | $0~$3,000 (Similar to CAP, with low tuition and requires self-prepared tools) |
+| Licence Pro Métiers de l'Horlogerie | 3 years (but usually requires BTS or DUT first) | $5,000~$10,000 (University tuition is about 2000-5000 euros per year for public tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Horlogerie | 法国教育部 | 必备 | 基础职业证书，必备入门文凭 |
-| BMA Horlogerie | 法国教育部 | 可选 | 高级职业证书，提升技能 |
-| Certificat de Qualification Professionnelle (CQP) | 制表行业委员会（CPNH） | 可选 | 行业认证，部分雇主要求 |
+| CAP Horlogerie | French Ministry of Education | Required | Basic professional certificates, mandatory entry-level diplomas |
+| BMA Horlogerie | French Ministry of Education | Optional | Advanced vocational certificates to enhance skills |
+| Certificat de Qualification Professionnelle (CQP) | Watchmaking Industry Council (CPNH) | Optional | Industry certification, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 3,500。法国钟表维修行业规模较小但稳定，受奢侈品市场影响。传统制表中心（如侏罗山区）有稳定需求，但整体岗位有限，竞争中等。自动化对低端维修有影响，高端定制维修需求持续。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. The French watch repair industry is small but stable, influenced by the luxury goods market. Traditional watchmaking centers (such as the Jura Mountains) have stable demand, but overall job openings are limited and competition is moderate. Automation affects low-end repairs, while demand for high-end customized repairs continues.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，学徒制期间约1.5万欧元 |
-| 中级（3-7年） | $28,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$55,000 | 税前年薪，奢侈品品牌或独立制表师更高 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, during apprenticeship approx €15,000 |
+| Mid-level (3–7 years) | $28,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$55,000 | Pre-tax annual salaries, luxury brands, or independent watchmakers are higher |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从学徒或CAP起步，逐渐积累经验成为熟练技师，可晋升为制表师或开设独立维修工作室。少数人可进入高端品牌（如斯沃琪、历峰集团）担任复杂功能维修专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall risk for watch repairers is moderate to optimistic: AI/automation will replace some diagnostic and documentation work, but precision manual work and customer trust remain core moats. Entry-level roles narrow due to automation of low-end repairs, but high-end custom and complex restoration demand grows.
+
+Starting as an apprentice or CAP, gradually gaining experience to become a skilled technician, you can be promoted to watchmaker or open an independent repair studio. A few can enter high-end brands (such as Swatch and Richemont) as specialists in complex function repairs.
+
+**Tasks most exposed to AI:**
+
+- Automated inspection machines replace manual fault diagnosis (e.g., using acoustic/vibration sensors to analyze movement issues)
+- Smartwatch software updates and reset operations are done by users themselves
+- Automated standardized part replacement process (e.g., automatic movement disassembly)
+- Maintenance records and customer management systems automatically generate reports via AI
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex mechanical faults (e.g., comparing worn parts via 3D scanning)
+- Augmented reality overlays repair steps, reducing manual time flipping through manuals
+- Online appointment and client communication system improves service efficiency
+- 3D printing capability for spare parts makes rare components more accessible
+- Data analysis optimizes maintenance processes and inventory management.
+
+**Human moat:**
+
+- Manual precision adjustment (e.g., balance wheel balancing, escapement adjustment)
+- Specialized techniques and material knowledge for antique clock restoration
+- Build trust through face-to-face communication with clients, handle high-end custom requests
+- Deep understanding of mechanical principles and innovative repair solutions
+
+**Skills to build:**
+
+- Adjustment of complex mechanical watch functions (perpetual calendar, tourbillon)
+- 3D modeling and printing (for making replacement parts)
+- Smartwatch basic system diagnostics and firmware operations
+- Use of AR-assisted maintenance tools
+- Customer relationship management and digital marketing
+- Microelectronic soldering and circuit repair (for hybrid watches)
+
+**Key growth areas:**
 
 - Luxury goods
 - Precision mechanics
@@ -63,68 +97,67 @@ Repair, assemble, adjust, and calibrate watches and clocks, requiring fine manua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如受雇于知名钟表企业或具备特殊技能，有效期4年 |
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，适用于有工作合同的钟表技师 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于年薪高于53,000欧元的岗位，钟表业较少达到此门槛 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those employed by well-known watch companies or possessing special skills, valid for 4 years |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, applicable to watch technicians with employment contracts |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to positions with annual salaries above 53,000 euros, and the watch industry rarely meets this threshold |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Watch and Clock Repairer and Assembler？**
-- 对手工精细操作有耐心和天赋的人
-- 热爱精密机械和传统工艺的人
-- 愿意长期学习积累经验的人
-
-**谁不适合学Watch and Clock Repairer and Assembler？**
-- 不擅长精细手工、容易手抖的人
-- 追求高薪且希望快速发展的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who are patient and talented in fine handcraft
+- People who love precision machinery and traditional craftsmanship
+- Those willing to learn and accumulate experience over the long term
+
+**Who is not suited**
+- People who are not skilled in fine crafts and whose hands tend to tremble
+- People who pursue high salaries and hope for rapid development
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for watch repairers in France?**
+A: Entry-level salary is about €22,000-28,000 gross annually, mid-level €28,000-38,000, senior €38,000-55,000, higher for premium brands.
+
+**Q: How can non-EU citizens immigrate to France through watch repair professions?**
+A: You can use the Salarié Work Residence (employer contract) or Passeport Talent (highly skilled work) pathways, but you must first obtain a diploma such as CAP and find employer sponsorship.
+
+**Q: What is the career development path for watch repairers?**
+A: Starting as an apprentice or CAP, you can gradually advance to senior watchmaker, and may move on to complicated repairs, vintage watch restoration, or open a personal studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Watch and Clock Repairer and Assembler的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a watch repairer in France?**
-答：Entry-level: €22,000-€28,000 gross/year; mid-level: €28,000-€38,000; senior: €38,000-€55,000, higher in luxury brands.
-
-**问：How can non-EU citizens immigrate to France as watch repairers?**
-答：Via Salarié work permit (with employer contract) or Passeport Talent (high-skilled). Requires a diploma like CAP and employer sponsorship.
-
-**问：What is the career progression for watch repairers?**
-答：Start as apprentice with CAP, advance to master watchmaker, specialize in complications or antique restoration, or open own workshop.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

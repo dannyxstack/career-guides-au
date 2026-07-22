@@ -1,59 +1,92 @@
-# Electronics Technician（Electronics Technician）职业分析 · 新西兰
+# Electronics Technician — career analysis · New Zealand
 
-**职业代码：315111 – Electronics Technician。**
+**Occupation code: 315111 (ANZSCO)**
 
-Electronics Technicians in New Zealand install, test, and repair electronic equipment in telecommunications, industrial control, medical, and defense sectors. Listed on Green List Tier 1, offering direct residence pathway with excellent immigration prospects.
+Electronics technicians in New Zealand install, test, and repair electronic equipment in communications, industrial control, medical, and defense fields. This occupation is on the Green List Tier 1, allowing direct residency applications; immigration prospects are excellent.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $15,000~$25,000（公立理工学院学费，国际学生约$20,000-$30,000） |
-| 本科学士 | 3年 | $30,000~$40,000（大学本科学费，国际学生约$35,000-$45,000） |
+| Diploma | 2 years | $15,000~$25,000 (Tuition at public polytechnics, international students approximately $20,000-$30,000) |
+| Bachelor's degree | 3 years | $30,000~$40,000 (University undergraduate tuition, international students approximately $35,000-$45,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家电子工程文凭（Level 6） | 新西兰学历认证局 | 可选 | 行业标准资格，非强制但推荐 |
-| 注册电子技术员（RET） | 澳大利亚电子与电气工程师协会（新西兰分会） | 可选 | 高级认证，对雇主有吸引力，非强制 |
-| 电工注册证（EWRB） | 电工注册局 | 可选 | 如从事电源或高压工作则必须持有 |
+| New Zealand National Diploma in Electrical Engineering (Level 6) | New Zealand Qualifications Authority | Optional | Industry standard qualification, not mandatory but recommended |
+| Registered Electronics Technician (RET) | Australian Institute of Electronic and Electrical Engineers (New Zealand Branch) | Optional | Advanced certification, attractive to employers, not mandatory |
+| Electrical registration certificate (EWRB) | Electrical licensing board | Optional | Must hold if working with power supply or high voltage |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰电子技术员需求持续增长，受5G部署、可再生能源和医疗电子推动。短缺状况预计将延续至2027年，就业机会集中在奥克兰、基督城和惠灵顿。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Demand for electronics technicians in New Zealand is growing steadily, driven by 5G deployment, renewable energy, and medical electronics. The shortage is expected to continue until 2027, with job opportunities concentrated in Auckland, Christchurch, and Wellington.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 年薪中位数约$65,000 |
-| 中级（3-6年） | $70,000~$90,000 | 年薪中位数约$80,000 |
-| 高级（6年以上） | $90,000~$120,000 | 年薪中位数约$105,000，主管可达$130,000 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Median annual salary around $65,000 |
+| Mid-level (3–6 years) | $70,000~$90,000 | Median annual salary approximately $80,000 |
+| Senior (6+ years) | $90,000~$120,000 | Median annual salary about $105,000, supervisors up to $130,000 |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级技术员可晋升为高级技术员或团队主管，再向工程师或项目经理发展。积累经验后，可转向研发、系统集成或创业，薪资与职位同步提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Diagnostic testing and documentation tasks for electronics technicians will be automated by AI, but complex on-site troubleshooting and system integration gain value from AI-assisted tools, leading to a polarizing job market.
+
+Junior technicians can progress to senior technician or team supervisor, then to engineer or project manager. With experience, they can move into R&D, system integration, or start their own business, with salary and position rising accordingly.
+
+**Tasks most exposed to AI:**
+
+- Using automated test scripts to complete standardized functional verification of electronic devices
+- Automatically generate fault diagnosis reports by analyzing historical maintenance data with AI
+- Use AI-driven PCB design tools to replace manual routing and component placement
+- Robots Automatically Complete Soldering and Assembly of Standard Electronic Components
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of oscilloscope/spectrum analyzer data for rapid troubleshooting of complex circuit faults
+- AI maintenance guides overlaid via AR glasses to improve on-site repair speed and accuracy
+- Using natural language to query knowledge bases for instant access to technical documents of old equipment
+- AI optimizes industrial control system parameters to reduce manual tuning time
+
+**Human moat:**
+
+- Innovative troubleshooting of electronic systems in non-standard field environments
+- Ability to communicate with clients, understand needs, and provide customized solutions
+- Professional judgment on legal regulations (e.g., explosion-proof, medical device certification)
+- Overall design capability for cross-system integration (e.g. communications, power, automation)
+
+**Skills to build:**
+
+- AI fault diagnosis tools (e.g. Siemens AI Inspector)
+- Python scripting and data analysis (for automated test data interpretation)
+- Industrial Internet of Things (IIoT) and edge computing
+- AR-assisted maintenance system operation
+- Electrical safety and compliance certifications (e.g., UL/CE/IEC)
+- Advanced PLC and SCADA integration
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Electronics Technicians in New Zealand install, test, and repair electronic equi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，要求持有ANZSCO 1-3级职业的资格及工作offer，工作24个月后申请 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制下需满足学历与工作经验积分（如本科3分+5年经验3分），获得邀请后申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合持job offer但暂不满足移民条件的申请人，可后续转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa requires qualifications in ANZSCO skill level 1-3 occupations and a job offer, apply after 24 months of work |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category: under the 6-point system, must meet points for qualifications and work experience (e.g., bachelor's 3 points + 5 years experience 3 points), then apply after receiving an invitation |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for applicants with a job offer but not yet meeting immigration requirements, can later transition to residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronics Technician？**
-- 具备电子技术理论基础和动手能力的人
-- 对通信、自动化或医疗电子感兴趣的人
-- 寻求新西兰技术移民机会的技术人员
-
-**谁不适合学Electronics Technician？**
-- 不喜欢操作精密仪器或现场维修的人
-- 对持续学习新技术缺乏热情的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with foundational electronic technology knowledge and hands-on skills
+- People interested in telecommunications, automation, or medical electronics.
+- Technicians seeking skilled migration opportunities in New Zealand
+
+**Who is not suited**
+- People who dislike operating precision instruments or doing field repairs
+- People lacking enthusiasm for continuous learning of new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for electronics technicians in New Zealand?**
+A: Entry-level annual salary around $55,000-$70,000, mid-level $70,000-$90,000, senior $90,000-$120,000, industry supervisors can reach $130,000 or more.
+
+**Q: How can an electronics technician apply for New Zealand residence through the Green List?**
+A: This occupation is on the Green List Tier 1, meeting ANZSCO skill level requirements, holding relevant qualifications and a job offer, eligible for Straight to Residence Visa after 24 months of work.
+
+**Q: Do I need a New Zealand local license?**
+A: A National Diploma in Electronic Engineering is not mandatory but beneficial for employment. If engaging in power-related work, you must register with the Electrical Workers Registration Board (EWRB).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Electronics Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Electronics Technician in New Zealand?**
-答：Entry-level: $55,000-$70,000; mid-level: $70,000-$90,000; senior: $90,000-$120,000; supervisor: up to $130,000+.
-
-**问：How can an Electronics Technician apply for residence via the Green List?**
-答：The occupation is on Tier 1. With relevant qualification and job offer, you can apply for Straight to Residence Visa after working 24 months.
-
-**问：Is a local license required?**
-答：National Diploma in Electronics is not mandatory but recommended. For power-related work, EWRB registration is required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

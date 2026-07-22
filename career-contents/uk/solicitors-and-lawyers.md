@@ -1,59 +1,95 @@
-# Solicitors and lawyers（Solicitors and lawyers）职业分析 · UK
+# Solicitors and lawyers — career analysis · United Kingdom
 
-**职业代码：2412 – Solicitors and lawyers。**
+**Occupation code: 2412 (SOC)**
 
-Solicitors and lawyers provide legal advice and representation to individuals, businesses, organisations and government departments in areas such as litigation, contracts, and intellectual property.
+Lawyers provide legal advice and representation to individuals, businesses, organizations, and governments, covering areas such as litigation, contracts, and intellectual property.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 法学本科 | 3年 | $30,000~$50,000（英国本土学费，国际学生更高） |
-| 法律实践课程 (LPC) 或 SQE | 1年 | $12,000~$20,000（加上培训合同期间费用） |
+| Bachelor of Laws (LLB). | 3 years | $30,000~$50,000 (UK domestic tuition fees; international students pay higher) |
+| Legal Practice Course (LPC) or SQE | 1 year | $12,000~$20,000 (Plus costs during the training contract period) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学学位 (LLB) | 大学 | 必备 | 合格法律学位，部分人先读其他学位后再读GDL |
-| 律师职业资格 (SQE) | 律师监管局 (SRA) | 必备 | 2021年起新路径，需通过SQE1和SQE2考试 |
-| 执业证书 (Practising Certificate) | 律师监管局 (SRA) | 必备 | 每年更新，证明有资格执业 |
+| Law degree (LLB) | University | Required | Qualifying law degree, some do another degree first then GDL |
+| Legal Practice Qualification (SQE) | Solicitors Regulation Authority (SRA) | Required | New pathway from 2021 requires passing SQE1 and SQE2 exams |
+| Practising Certificate | Solicitors Regulation Authority (SRA) | Required | Updated annually, proof of eligibility to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。预计未来十年法律服务业需求稳定增长，商业和金融法律领域尤为突出，但竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. The legal services industry is expected to see steady demand growth over the next decade, especially in commercial and financial law, but competition is intense.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 伦敦以外略低 |
-| 中级（4-9年） | $60,000~$90,000 | 取决于专业领域和律所规模 |
-| 高级（10年以上/合伙人） | $100,000~$200,000 | 顶级律所合伙人可达数百万 |
+| Median salary | $56,977 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Slightly lower outside London |
+| Intermediate (4-9 years) | $60,000~$90,000 | Depends on practice area and law firm size |
+| Senior (10+ years / Partner) | $100,000~$200,000 | Partners at top law firms can earn millions |
+| average salary | $73,424 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级律师可晋升为高级律师、合伙人，或转向专业领域如商法、刑事法。大型律所路径更清晰。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
+
+Junior lawyers can progress to senior lawyer, partner, or specialise in areas like commercial or criminal law. Large firms offer clearer pathways.
+
+**Tasks most exposed to AI:**
+
+- Legal document review and due diligence (AI can quickly scan large volumes of contracts)
+- Legal research and case study (AI can precisely locate relevant statutes and precedents)
+- Basic contract drafting and template generation (AI auto-generates first draft from parameters)
+- Electronic Discovery and Data Organization (AI-Automated Classification and Tagging of Evidence)
+- Compliance monitoring and regulatory update tracking (AI continuously monitors regulatory changes)
+
+**Where AI augments the role:**
+
+- Complex legal analysis and strategy formulation (AI provides data support, lawyers make professional judgments)
+- Client consultation and relationship management (AI-assisted initial screening, lawyers focus on human communication)
+- Trial preparation and mock debates (AI predicts opposing arguments, helping lawyers rehearse)
+- Legal risk prediction and quantification (AI analyzes historical data, lawyers identify key risks)
+- Cross-domain knowledge integration (AI quickly integrates non-legal information, e.g., technology, finance)
+
+**Human moat:**
+
+- Court defense and negotiation skills (human emotional intelligence and on-the-spot adaptability irreplaceable)
+- Complex Ethical Judgment and Professional Responsibility (AI Cannot Assume Legal Liability)
+- Long-term trust relationships and customer loyalty (based on personal connections and reputation)
+- Creative legal strategies and case breakthroughs (require human experience and intuition)
+- Cross-cultural communication and empathy (critical in family law and immigration law)
+
+**Skills to build:**
+
+- Use of AI legal tools (e.g., Kira Systems, ROSS Intelligence)
+- Data analysis and legal technology (Python basics, legal statistics)
+- Interdisciplinary knowledge (tech law, data privacy law, energy law)
+- Advanced negotiation and communication skills
+- Project management and team collaboration
+- Business acumen and client development
+
+**Key growth areas:**
 
 - Commercial Law
 - Financial Regulation
@@ -62,68 +98,67 @@ Solicitors and lawyers provide legal advice and representation to individuals, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 满足技能和薪资要求（一般年薪至少26,200英镑，短缺职业可降低） |
-| Subclass Global Talent（Global Talent Visa） | 适用于在法学领域有杰出成就或潜力的人才，无需雇主担保 |
-| Subclass Graduate（Graduate Visa） | 完成英国学位后可留在英国工作2年（博士3年），之后可转换技术工人签证 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meet skill and salary requirements (generally at least £26,200 per year, lower for shortage occupations) |
+| Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or potential in the legal field, no employer sponsorship required. |
+| Subclass Graduate (Graduate Visa) | After completing a UK degree, you can stay and work in the UK for 2 years (3 years for PhD), then switch to a Skilled Worker visa |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Solicitors and lawyers？**
-- 逻辑分析能力强、善于辩论和写作的人
-- 对法律充满热情、愿意长期投入学习的人
-- 能够在高压下工作、注重细节的人
-
-**谁不适合学Solicitors and lawyers？**
-- 厌恶高强度竞争和长时间工作的人
-- 不喜欢持续学习和考试要求的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong logical analysis, debating and writing skills.
+- People passionate about law and willing to commit to long-term study
+- People who can work under pressure and are detail-oriented
+
+**Who is not suited**
+- People who dislike high-intensity competition and long working hours.
+- Those who dislike continuous learning and exam requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a lawyer in the UK?**
+A: Junior solicitor annual salary about 40,000-55,000 GBP; senior solicitor or partner can exceed 100,000 GBP; top firm partners can earn millions GBP.
+
+**Q: How can overseas lawyers immigrate to the UK for work?**
+A: Common pathways include the Skilled Worker visa (requiring employer sponsorship and meeting salary threshold), Global Talent visa (requiring proven exceptional achievement), or Graduate visa (if you have obtained a degree in the UK).
+
+**Q: What is the career development path for a UK lawyer?**
+A: Usually starts with a training contract, progressing to senior lawyer, partner, or transitioning to corporate legal, government legal departments, etc. after becoming a qualified lawyer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Solicitors and lawyers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a solicitor in the UK?**
-答：Entry-level solicitors earn around £40,000-£55,000, senior lawyers or partners can earn over £100,000, and top firm partners can earn millions.
-
-**问：How can overseas lawyers migrate to work in the UK?**
-答：Common routes include the Skilled Worker Visa (with employer sponsorship and meeting salary requirements), Global Talent Visa (for exceptional talent), or Graduate Visa (if you earned a degree in the UK).
-
-**问：What is the career progression for solicitors in the UK?**
-答：Typically starts with a training contract, then qualifies as a solicitor, progresses to senior associate, partner, or moves to in-house counsel, government legal departments, etc.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

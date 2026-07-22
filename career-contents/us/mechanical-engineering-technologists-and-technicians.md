@@ -1,59 +1,92 @@
-# Mechanical Engineering Technologists and Technicians（Mechanical Engineering Technologists and Technicians）职业分析 · 美国
+# Mechanical Engineering Technologists and Technicians — career analysis · United States
 
-**职业代码：17-3027 – Mechanical Engineering Technologists and Technicians。**
+**Occupation code: 17-3027 (SOC)**
 
-Mechanical engineering technologists and technicians apply mechanical engineering principles to modify, develop, test, or adjust machinery and equipment under the direction of engineers.
+Mechanical engineering technician applies mechanical engineering principles to modify, develop, test, or adjust mechanical equipment under the guidance of engineers, involving design, manufacturing, and maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院平均学费） |
-| 学士学位 | 4年 | $40,000~$100,000（公立大学平均总费用） |
+| Associate degree | 2 years | $10,000~$30,000 (Average community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$100,000 (Average total cost at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械工程技术副学士学位 | 社区学院或技术学院 | 必备 | 多数雇主要求 |
-| 认证机械技术员（CMT） | 国际机械技术员协会（IAMT） | 可选 | 自愿认证，提升竞争力 |
-| 工程师助理注册 | 州工程委员会 | 可选 | 部分州要求从事特定工作 |
+| Associate degree in mechanical engineering technology | Community college or technical college | Required | Most employers require |
+| Certified Mechanical Technician (CMT) | International Association of Mechanical Technicians (IAMT) | Optional | Voluntary certification to enhance competitiveness |
+| Engineer Assistant registration | State engineering board | Optional | Some states require specific work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 50,000。美国劳工统计局预计2023-2033年就业增长约2%，较慢于平均水平。自动化与智能制造可能影响需求，但能源、运输等领域仍有稳定岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 50,000. The US Bureau of Labor Statistics projects about 2% employment growth from 2023 to 2033, slower than average. Automation and smart manufacturing may affect demand, but stable positions remain in energy, transportation, and other fields.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级薪资 |
-| 中级（4-10年） | $55,000~$75,000 | 中期职业薪资 |
-| 高级（10年以上） | $75,000~$95,000 | 高级技术员或主管薪资 |
+| Median salary | $74,510 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level salary |
+| Mid-level (4-10 years). | $55,000~$75,000 | Mid-career salary |
+| Senior (10+ years) | $75,000~$95,000 | Salary for senior technician or supervisor |
+| average salary | $76,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：入门级技术员可晋升为高级技术员或专科技术人员，部分通过继续教育成为工程师或工程经理，亦可转向项目管理、质量保证等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Entry-level positions for mechanical engineering technicians are being significantly reduced by AI automation. Repetitive design verification and document generation tasks face replacement risks, but on-site debugging and cross-physical system collaboration still preserve opportunities for humans.
+
+Career development path: entry-level technicians can advance to senior technicians or specialized technicians, some become engineers or engineering managers through further education, or transition to project management, quality assurance, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate 2D engineering drawings and tolerance annotations from 3D models
+- Automatically run finite element analysis based on design parameters and generate standard reports
+- Using natural language queries to knowledge bases for fault diagnosis, replacing manual troubleshooting by junior technicians
+- Automatically write equipment operation maintenance manuals and inspection process documents
+
+**Where AI augments the role:**
+
+- AI-assisted motion interference checks and optimization suggestions for complex assemblies
+- Monitor production line equipment status in real-time via computer vision and perform predictive maintenance.
+- Uses generative design to explore multiple lightweight solutions and rapidly iterate
+- Digital twin platform integrated with AI simulation accelerates prototype verification processes
+
+**Human moat:**
+
+- Installation and commissioning of on-site equipment, and emergency judgment under abnormal conditions
+- Collaborative communication with mechanical engineers, electricians, and operators
+- Manual repair and modification of non-standard, failed, or outdated equipment
+- Intuitive experience understanding physical constraints and manufacturing processes
+
+**Skills to build:**
+
+- Digital twin and simulation software (e.g., ANSYS Twin Builder)
+- Generative design tools (e.g., nTopology)
+- Industrial IoT and Edge Computing fundamentals
+- Python programming for automated data analysis and API integration
+- Collaborative robot (cobot) integration and debugging
+- Additive manufacturing (3D printing) process design and post-processing
+
+**Key growth areas:**
 
 - Advanced Manufacturing
 - Renewable Energy
@@ -62,65 +95,67 @@ Mechanical engineering technologists and technicians apply mechanical engineerin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 需学士学位或同等学历，雇主赞助，竞争激烈 |
-| Subclass EB-3（EB-3 Skilled Worker Green Card） | 需要2年培训或经验，PERM劳工认证 |
-| Subclass TN（TN NAFTA Professional Visa） | 仅限加拿大/墨西哥公民，需特定职业列表 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Requires bachelor's degree or equivalent, employer sponsorship, competitive |
+| Subclass EB-3 (EB-3 Skilled Worker Green Card) | Requires 2 years of training or experience; PERM labor certification. |
+| Subclass TN (TN NAFTA Professional Visa) | Only for Canadian/Mexican citizens, subject to specific occupation lists |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineering Technologists and Technicians？**
-- 喜欢动手操作和解决机械问题的人
-- 有工程或技术背景，愿意从技术岗位起步
-- 注重实践，能适应车间或实验室环境
-
-**谁不适合学Mechanical Engineering Technologists and Technicians？**
-- 不喜欢重复性工作或体力劳动
-- 难以接受较慢的职业晋升速度
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving mechanical problems
+- Have engineering or technical background, willing to start from technical roles
+- Hands-on, able to adapt to workshop or lab environments
+
+**Who is not suited**
+- Dislikes repetitive work or physical labor
+- Difficulty accepting slow career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mechanical engineering technician roles?**
+A: According to BLS data, the median annual salary for mechanical engineering technicians (including technologists) in 2023 was about $60,000, entry-level around $45,000, and senior above $85,000.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: This occupation can immigrate via H-1B or EB-3 green card, but requires employer sponsorship. H-1B lottery has low odds, EB-3 has a long queue (about 2-4 years), overall difficulty is moderate.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, technicians can advance to senior technician, supervisor, or become an engineer by pursuing a bachelor's degree, and then enter management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical Engineering Technologists and Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mechanical engineering technologists and technicians?**
-答：According to BLS data, the median annual wage for mechanical engineering technologists and technicians (including technicians) was about $60,000 in 2023, with entry-level around $45,000 and senior-level over $85,000.
-
-**问：Is it easy to immigrate to the US for this occupation?**
-答：This occupation is eligible for H-1B or EB-3 green card, requiring employer sponsorship. H-1B lottery odds are low, and EB-3 has a backlog of 2-4 years, so overall difficulty is moderate.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

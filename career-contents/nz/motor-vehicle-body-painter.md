@@ -1,59 +1,92 @@
-# Motor Vehicle Body Painter（Motor Vehicle Body Painter）职业分析 · 新西兰
+# Motor Vehicle Body Painter — career analysis · New Zealand
 
-**职业代码：324211 – Motor Vehicle Body Painter。**
+**Occupation code: 324211 (ANZSCO)**
 
-Motor Vehicle Body Painters perform paint repair, color matching, and spraying for vehicles, forming a core role in the collision repair industry. The trade faces persistent shortages in New Zealand, offering a clear pathway to residence via the Green List.
+Automotive painters are responsible for vehicle paint repair, color matching, and spraying, a core trade in the collision repair industry. This occupation is in ongoing shortage in New Zealand and can apply for residency directly through the Green List, with good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 汽车喷漆学徒(New Zealand Apprenticeship) | 4年 | $1,500~$8,000（学费+工具材料费，部分雇主承担费用） |
-| 预学徒课程(Pre-trade Programme) | 6-12个月 | $3,000~$12,000（少数ITP/私立学校开设，可减免学徒期） |
+| Automotive Paint Apprentice (New Zealand Apprenticeship) | 4 years | $1,500~$8,000 (Tuition + tools and materials fees, some employers cover costs) |
+| Pre-trade Programme | 6–12 months | $3,000~$12,000 (Offered by a few ITPs/private schools; may reduce apprenticeship duration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰汽修喷漆四级证书(New Zealand Certificate in Collision Repair Level 4 with strand in Refinishing) | 新西兰资格认证局(NZQA) | 必备 | 学徒完成并考核获得，部分雇主强制要求 |
-| MITO产品认证(ASE类似) | MITO(机动车行业培训组织) | 可选 | 行业认可，非法律强制 |
-| 危险品操作证(Hazardous Substances Certificate) | WorkSafe NZ | 必备 | 使用易燃油漆/溶剂时要求 |
+| New Zealand Certificate in Collision Repair Level 4 with strand in Refinishing | New Zealand Qualifications Authority (NZQA) | Required | Obtained after completing apprenticeship and assessment, mandatory for some employers |
+| Hazardous Substances Certificate | WorkSafe NZ | Required | Required when using flammable paints/solvents |
+| MITO product certification (similar to ASE). | MITO (Motor Industry Training Organisation) | Optional | Industry recognized, not legally required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰汽车保有量持续增长，碰撞维修需求稳定；保险公司认可工时费率上调，推动薪资上涨。但学徒期较长，需积累经验。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's car ownership continues to grow, with stable demand for collision repairs; insurance companies recognize increased labor rates, driving wage growth. However, the apprenticeship period is long and requires experience accumulation.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒期或刚毕业 |
-| 中级（3-6年） | $60,000~$80,000 | 能独立完成调漆喷漆 |
-| 高级（6年以上） | $85,000~$110,000 | 包括主管或调漆专家 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprenticeship period or recent graduate |
+| Mid-level (3–6 years) | $60,000~$80,000 | Able to independently perform paint mixing and spraying |
+| Senior (6+ years) | $85,000~$110,000 | Including supervisor or paint blending specialist |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级喷漆员→熟练喷漆工→调漆专家→车间主管/自己开店。也可转型为汽车制造厂涂装线技术员或车辆检测员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Auto painters are affected by AI both positively and negatively: automatic spraying and color matching technology will replace some repetitive tasks, but fine manual work like color blending and defect repair is hard to replace; short-term job demand remains stable.
+
+Junior painter → Skilled painter → Paint mixing specialist → Workshop supervisor/own shop. Also possible to transition to automotive paint line technician or vehicle inspector.
+
+**Tasks most exposed to AI:**
+
+- Automatic spraying robots perform large-area uniform coating
+- AI color matching system for automatic color adjustment and recipe recommendation
+- Automatic optimization and adjustment of spray parameters (e.g. pressure, flow)
+- Batch spray painting of standard color paint
+
+**Where AI augments the role:**
+
+- AI formulation library for fast and precise color matching
+- AI-optimized spray path planning to reduce overspray and material waste
+- Defect detection: AI identifies paint surface flaws (e.g., orange peel, pin holes)
+- Use AR to simulate spray painting practice during training
+
+**Human moat:**
+
+- Custom color blending and specialty paint (chameleon, matte) techniques
+- Repair judgment for non-standard damage (e.g., plastic parts, aluminum parts)
+- Client communication and rework negotiation skills
+- On-site environment adaptation (manual adjustment for paint effect under different temperatures and humidity)
+
+**Skills to build:**
+
+- Operation and maintenance of AI color matching systems
+- Programming and debugging of automatic spraying robots
+- Digital work orders and non-destructive testing (NDT) basics
+- Knowledge of eco-friendly water-based paints and low-VOC materials
+- Fault diagnosis and equipment repair
+- Customer relationship management (CRM) and quoting software
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Motor Vehicle Body Painters perform paint repair, color matching, and spraying f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单一级职业，满足薪资中位数或行业协议标准，可无需先工作直接申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 可通过6分制积累移民；如持有职业注册+新西兰工作offer达3分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需要认证雇主担保，工作2年后可申请居留(如满足绿色清单要求) |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List Tier 1 criteria; satisfies median salary or industry agreement standards; can apply for residence directly without prior work experience. |
+| Subclass SMC (Skilled Migrant Category) | Immigration via 6-point system; 3 points for occupational registration + New Zealand job offer |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, can apply for residence after 2 years (if meeting Green List requirements) |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motor Vehicle Body Painter？**
-- 喜欢动手操作、对颜色敏感的人
-- 能接受车间涂装环境和重复性工作
-- 愿意通过3-4年学徒积累扎实技能
-
-**谁不适合学Motor Vehicle Body Painter？**
-- 对油漆溶剂过敏或呼吸道敏感
-- 追求室内办公、快速晋升或无需证书
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are sensitive to color.
+- Able to tolerate workshop painting environment and repetitive work
+- Willing to build solid skills through a 3-4 year apprenticeship
+
+**Who is not suited**
+- Allergic to paint solvents or have respiratory sensitivities
+- Seeking indoor office, quick promotion, or no certification required
+
+---
+
+## 8. FAQ
+
+**Q: Does the automotive painter need IELTS for the Green List?**
+A: Green List direct residence has no mandatory English requirement, but pathways like SMC require meeting IELTS 6.5 or equivalent English level.
+
+**Q: Can a spray painter in New Zealand reach the median wage?**
+A: Yes. New Zealand's median annual salary is about NZD 56,000. Mid-level spray painters (3-6 years) typically earn above this, with seniors reaching NZD 85,000-110,000.
+
+**Q: Can overseas experience be credited toward apprenticeship reduction?**
+A: MITO or NZQA can assess overseas qualifications and experience to shorten apprenticeship, typically by 1-2 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Motor Vehicle Body Painter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do Motor Vehicle Body Painters need IELTS for the Green List?**
-答：No mandatory English requirement for the Straight to Residence visa, but for SMC you need IELTS 6.5 or equivalent.
-
-**问：Can a painter's salary reach the median in New Zealand?**
-答：Yes. The median salary is about NZD 56,000; mid-level painters (3-6 years) typically exceed it, while senior painters earn NZD 85,000–110,000.
-
-**问：Can overseas experience reduce the apprenticeship duration?**
-答：MITO or NZQA can assess overseas qualifications and experience, potentially shortening the apprenticeship by 1–2 years.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

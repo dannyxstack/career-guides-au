@@ -1,63 +1,94 @@
-# 零售经理（Retail Manager (General)）职业分析 · 澳大利亚
+# Retail Manager (General) — career analysis · Australia
 
-**职业代码：142111 – Retail Manager (General)。**
+**Occupation code: 142111 (ANZSCO)**
 
-零售经理负责门店运营、库存、排班和团队管理，对接销售目标与顾客体验。部分州清单可技术移民（需VETASSESS评估）。
+Retail managers oversee store operations, inventory, rostering and team management, balancing sales targets with customer experience. The occupation is eligible for skilled migration in some states (VETASSESS assessment required).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无强制学历（经验导向） | — | —（多由资深销售晋升） |
-| Diploma of Retail/Business Management（可选） | 1~2年 | $5,000~$18,000（利于晋升） |
+| No mandatory academic qualifications (experience-based) | — | $0~$0 (Typically promoted from senior sales roles) |
+| Diploma of Retail/Business Management (optional) | 1–2 years | $5,000~$18,000 (Beneficial for career advancement) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Diploma of Leadership and Management（可选） | TAFE/RTO | 可选 | 非强制 |
-| VETASSESS Skills Assessment（移民用） | VETASSESS | 可选 | 技术移民评估 |
+| Diploma of Leadership and Management (optional) | TAFE/RTO | Optional | Not mandatory |
+| VETASSESS Skills Assessment (for migration purposes) | VETASSESS | Optional | Skills assessment for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 230,000。零售管理需求稳定，连锁化与全渠道运营推动对有数据和团队管理能力者的需求。
+**Job demand: high (★★★★☆).** National workforce approx. 230,000. Demand for retail managers is stable, with chain expansion and omnichannel operations driving demand for candidates with data and team management skills.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 4,000~7,000 个 | 全国 |
-| Indeed | 2,500~4,500 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级店长 | $60,000~$75,000 | 小型门店 |
-| 中级（3-8年） | $75,000~$95,000 | 中大型门店 |
-| 区域/资深 | $95,000~$130,000 | 多店/区域 |
+| Median salary | $84,240 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Store Manager | $60,000~$75,000 | Small retail stores |
+| Mid-level (3–8 years) | $75,000~$95,000 | Medium to large stores |
+| Regional/Senior | $95,000~$130,000 | Multi-site / regional |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 晋升路径：主管→店长→区域经理；具备P&L和库存系统经验者更抢手。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+Career progression: Supervisor → Store Manager → Area Manager; candidates with P&L and inventory system experience are in higher demand.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - Omnichannel Retail
 - Franchise Management
@@ -66,66 +97,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称TSS），按具体职责匹配ANZSCO |
-| Subclass 186（ENS） | 雇主担保永居，需相关评估 |
-| Subclass 190（Skilled Nominated） | 州提名，按各州清单 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS), matched to ANZSCO based on specific duties |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学零售经理？**
-- 有零售一线经验想带团队者
-- 擅长运营与数字管理的人
-- 想走州担保移民的零售从业者
-
-**谁不适合学零售经理？**
-- 不愿处理周末与排班压力者
-- 排斥销售目标考核的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Retail frontline staff looking to move into team leadership
+- Those with strengths in operations and digital management
+- Retail workers looking to pursue state-nominated skilled migration
+
+**Who is not suited**
+- Those who are unwilling to deal with weekend shifts and rostering pressures
+- Not suited to those who dislike sales targets
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a retail manager in Australia?**
+A: Store manager: AUD 60,000-$95,000, regional or senior manager can reach AUD 130,000. Varies significantly by size and state.
+
+**Q: Can a retail manager migrate to Australia through skilled migration?**
+A: Possible but limited. Retail Manager (142111) appears on some state nomination lists and requires a VETASSESS skills assessment; the 189 Independent Skilled visa generally does not apply.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-零售经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲零售经理工资多少？**
-答：店长约AUD $6万~$9.5万，区域或资深经理可达$13万。规模与所在州差异较大。
-
-**问：零售经理能技术移民吗？**
-答：可以但有限。Retail Manager（142111）在部分州提名清单上，需VETASSESS技能评估，189独立技术移民一般不适用。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

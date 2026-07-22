@@ -1,59 +1,93 @@
-# Specialist Medical Practitioners（Specialist Medical Practitioners）职业分析 · IE
+# Specialist Medical Practitioners — career analysis · Ireland
 
-**职业代码：2212 – Specialist Medical Practitioners。**
+**Occupation code: 2212 (ISCO08)**
 
-Specialist medical practitioners are highly trained doctors who diagnose and treat illnesses in specific medical fields. They work in public and private healthcare settings across Ireland, including hospitals and clinics.
+Specialist doctors are highly trained medical experts who diagnose and treat diseases in specific areas within Irish public and private healthcare facilities. They typically work in hospitals, clinics, or private practices and are core members of the medical team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学本科 | 5-6年 | $30,000~$50,000（欧盟学生每年约€3,000-5,000，非欧盟学生约€30,000-50,000） |
-| 专科培训 | 4-7年 | —（培训期间为受薪职位，通常无学费） |
+| Bachelor of Medicine (MBBS). | 5-6 years. | $30,000~$50,000 (EU students: approx. €3,000-5,000 per year; non-EU students: approx. €30,000-50,000) |
+| Specialist training | 4-7 years | $0~$0 (Training positions are paid, usually with no tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰医学委员会注册 | Medical Council of Ireland | 必备 | 所有医生必须在MCI注册才能执业，需通过评估或考试 |
-| 专科培训结业证书 | Royal College of Physicians of Ireland 等 | 必备 | 完成认可的专科培训方案后获得 |
-| 普医注册 | Medical Council of Ireland | 必备 | 指完成基础培训后的注册，是专科培训的前提 |
+| Registration with the Irish Medical Council | Medical Council of Ireland | Required | All doctors must register with the MCI to practice, requiring assessment or exam |
+| Specialist training completion certificate | Royal College of Physicians of Ireland, etc. | Required | Obtained after completing an accredited specialist training program |
+| General Medical Registration | Medical Council of Ireland | Required | Refers to registration after completing basic training, which is a prerequisite for specialist training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 12,000。爱尔兰人口增长和老龄化推动对专科医生的持续需求，尤其在急诊、老年医学和肿瘤学等领域。HSE（卫生服务执行局）报告指出多个专科存在医生短缺，招聘力度加大。
+**Job demand: very high (★★★★★).** National workforce approx. 12,000. Ireland's population growth and aging drive sustained demand for specialist doctors, especially in emergency medicine, geriatrics, and oncology. HSE reports indicate shortages in several specialties, with increased recruitment efforts.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$90,000 | 受训专科医生（SHO/Registrar）年薪约€60,000-90,000 |
-| 中级（3-7年） | $100,000~$150,000 | 初级顾问医生年薪约€100,000-150,000 |
-| 高级（7年以上） | $150,000~$250,000 | 资深顾问医生年薪可达€150,000-250,000+，含私人执业收入 |
+| Median salary | $125,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $60,000~$90,000 | Trainee specialist (SHO/Registrar) annual salary approximately €60,000-90,000 |
+| Mid-level (3–7 years) | $100,000~$150,000 | Junior consultant doctor annual salary approximately €100,000-150,000 |
+| Senior (7+ years) | $150,000~$250,000 | Senior consultant doctors can earn €150,000-250,000+ annually, including private practice income |
+| average salary | $133,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从注册医生（Intern）开始，经过基础培训（SHO）和高级培训（Registrar）后获得专科资格。随后可成为顾问医生（Consultant），或转向学术研究、科室管理角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Specialist doctors are at the core of high-trust healthcare; AI mainly enhances diagnostics and decision support, cannot replace them in the short term, low risk but require adapting to human-machine collaboration.
+
+Starting as a registered intern doctor (Intern), after basic training (SHO) and advanced training (Registrar), one obtains specialist qualification. Then one can become a consultant doctor (Consultant), or move into academic research or departmental management roles.
+
+**Tasks most exposed to AI:**
+
+- Image-based preliminary screening and pattern recognition
+- Standard pathology report generation and natural language writing
+- Automatic calculation and cross-checking of drug dosages
+- Automated scheduling of patient appointments and follow-ups
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis improves lesion detection rates
+- Personalized treatment recommendation based on big data
+- Surgical navigation and robotic assistance improve precision
+- Smart summaries of electronic medical records reduce documentation burden
+- Virtual consultation platforms expand diagnosis and treatment coverage
+
+**Human moat:**
+
+- Complex clinical decision-making and multi-factor comprehensive judgment
+- Patient communication, empathy, and trust building
+- Highly specialized and rare case management
+- Assumption of ethical and legal responsibility
+
+**Skills to build:**
+
+- AI Medical Image Interpretation and Result Validation
+- Operation and calibration of clinical decision support systems
+- Use of telemedicine and digital health platforms
+- Fundamentals of bioinformatics and genomics
+- Data-driven research methods and statistical analysis
+- Cross-disciplinary collaboration and digital communication
+
+**Key growth areas:**
 
 - aging population
 - chronic disease management
@@ -62,68 +96,67 @@ Specialist medical practitioners are highly trained doctors who diagnose and tre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 面向紧缺技能职业，专科医生通常符合条件，2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺岗位，需劳动力市场测试，但专科医生通常走Critical Skills路径 |
-| Subclass EU Blue Card（EU Blue Card） | 面向高技能非欧盟公民，薪资门槛约€60,000+，专科医生通常满足条件 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For skilled occupation visas, specialist doctors typically meet requirements and can apply for permanent residency after 2 years |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage positions, requires labor market testing, but specialist doctors typically take the Critical Skills pathway. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, salary threshold approximately €60,000+; specialist doctors typically meet the conditions |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialist Medical Practitioners？**
-- 对医学有强烈热情并愿意长期投入学习的人
-- 具备高度责任感和抗压能力的人
-- 希望在海外获得长期职业发展的高学历人才
-
-**谁不适合学Specialist Medical Practitioners？**
-- 不愿接受多年严格培训和考试的人
-- 对高压力、不规律工作时间敏感的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong passion for medicine and willingness to commit long-term study
+- People with a strong sense of responsibility and resilience to stress
+- Highly educated talents seeking long-term career development overseas
+
+**Who is not suited**
+- Those unwilling to undergo years of rigorous training and exams
+- People sensitive to high pressure and irregular working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a specialist doctor in Ireland?**
+A: The annual salary for junior specialists is approximately €60,000-90,000, and senior consultant doctors can earn €150,000-250,000 or more, depending on experience and private practice.
+
+**Q: How can overseas doctors immigrate to Ireland?**
+A: Through the Critical Skills Employment Permit, specialist doctors are on the shortage list, can be processed quickly, and can apply for Stamp 4 permanent residency after 2 years. Requires MCI registration and language exam.
+
+**Q: What is the career progression path for specialist doctors in Ireland?**
+A: General path: Intern → SHO → Registrar → Specialist training completion → Consultant. Can also transition to academic or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | very high (★★★★★) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Specialist Medical Practitioners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for specialist medical practitioners in Ireland?**
-答：Junior specialists earn around €60,000-90,000 annually, while senior consultants can earn €150,000-250,000+ depending on experience and private practice.
-
-**问：How can overseas doctors immigrate to Ireland?**
-答：Through the Critical Skills Employment Permit, as specialists are on the shortage list. After 2 years, you can apply for Stamp 4 residence. MCI registration and language exams are required.
-
-**问：What is the career progression for specialist doctors in Ireland?**
-答：Typical path: Intern → SHO → Registrar → Specialist qualification → Consultant. Alternatively, move into academia or management.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

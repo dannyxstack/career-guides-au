@@ -1,60 +1,96 @@
-# Inspectors, Testers, Sorters, Samplers, and Weighers（Inspectors, Testers, Sorters, Samplers, and Weighers）职业分析 · 美国
+# Inspectors, Testers, Sorters, Samplers, and Weighers — career analysis · United States
 
-**职业代码：51-9061 – Inspectors, Testers, Sorters, Samplers, and Weighers。**
+**Occupation code: 51-9061 (SOC)**
 
-Inspect, test, sort, sample, or weigh nonagricultural raw materials or processed parts for defects and deviations using precision instruments.
+Inspect, test, classify, sample, or weigh non-agricultural raw materials or processed/assembled parts, using precision measuring instruments to detect defects and deviations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（多数岗位仅需高中文凭，在职培训） |
-| 副学士学位（相关领域） | 2年 | $10,000~$30,000（社区学院学费，增加竞争力） |
-| 职业认证课程 | 1-6个月 | $500~$3,000（如ASQ认证，提升技能） |
+| High school diploma or equivalent | 0 years | $0~$0 (Most positions require only a high school diploma and on-the-job training) |
+| Associate degree (related field) | 2 years | $10,000~$30,000 (Community college tuition for increased competitiveness) |
+| Vocational certification courses | 1-6 months | $500~$3,000 (e.g., ASQ certification to enhance skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 中学 | 必备 | 基本入职要求 |
-| 质量检验员认证（CQI） | 美国质量学会（ASQ） | 可选 | 提升专业认可度 |
-| NDT认证（无损检测） | 美国无损检测学会（ASNT） | 可选 | 特定行业如航空、制造要求 |
+| High school diploma | High school | Required | Basic entry requirements |
+| Certified Quality Inspector (CQI) | American Society for Quality (ASQ) | Optional | Enhance professional recognition |
+| NDT certification (Non-Destructive Testing) | American Society for Nondestructive Testing (ASNT) | Optional | Required in specific industries such as aviation and manufacturing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 71,200。预计2023-2033年就业增长2%，低于平均水平，但制造业回流趋势可能带来机会。自动化对低端岗位影响较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 71,200. Employment is projected to grow 2% from 2023-2033, slower than average, but reshoring trends may create opportunities. Automation significantly impacts low-end positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 入门级检验员，时薪约$14-$18 |
-| 中级（3-7年） | $38,000~$52,000 | 经验丰富后薪资提升 |
-| 高级（7年以上） | $52,000~$70,000 | 含主管或高级检验员，需认证 |
+| Median salary | $48,570 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$38,000 | Entry-level inspector, hourly wage about $14-$18 |
+| Mid-level (3–7 years) | $38,000~$52,000 | Salary increases with experience |
+| Senior (7+ years) | $52,000~$70,000 | Includes supervisor or senior inspector roles, requires certification |
+| average salary | $53,450 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为质量主管、质量工程师或认证检验师；部分经验丰富者可转入质量控制管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
+
+Can advance to quality supervisor, quality engineer, or certified inspector; some experienced individuals can move into quality control management roles.
+
+**Tasks most exposed to AI:**
+
+- Repeated dimensional measurement and tolerance checks using precision instruments
+- Identify and classify visual defects on standardized products
+- Weigh and sample raw materials or components according to fixed specifications.
+- Record and fill out paper inspection reports and labels
+- Performing simple pass/fail tests (e.g., hardness, tensile strength)
+
+**Where AI augments the role:**
+
+- Using AI vision systems to assist in identifying complex or minor defects and providing judgment suggestions
+- Optimize sampling frequency and sample size through data analysis models to improve inspection efficiency
+- Use augmented reality (AR) glasses to display inspection standards and historical data in real time
+- Auto-generate statistical process control (SPC) reports and warn of abnormal trends
+- Combine IoT sensor data for predictive quality maintenance
+
+**Human moat:**
+
+- Temporary judgment and problem-solving for novel or non-standard defects
+- Final release responsibility for safety-critical components (e.g., aviation, medical)
+- Cross-department coordination and abnormal quality handling in client communication
+- Ability to design inspection plans and sampling schemes
+- Review and handle anomalies in outputs from automated systems
+
+**Skills to build:**
+
+- Statistical process control (SPC) and basic data analysis
+- AI vision system operation and result validation
+- Python or SQL for automated data processing in inspections
+- Using quality management system (QMS) software
+- Lean Six Sigma methodology
+- Industrial Internet of Things (IIoT) sensor data interpretation
+
+**Key growth areas:**
 
 - Quality Control
 - Manufacturing
@@ -63,68 +99,67 @@ Inspect, test, sort, sample, or weigh nonagricultural raw materials or processed
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要本科以上学历，本职业通常不满足专业职位要求，但若涉及复杂技术可申请 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，要求两年经验或培训，雇主担保移民 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需要雇主证明无法招到美工，适用于有经验的检验员 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or higher; this occupation usually does not meet professional position requirements, but can apply if involving complex technology |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, two years of experience or training, employer-sponsored immigration |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate they cannot find a local worker; applicable to experienced inspectors. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Inspectors, Testers, Sorters, Samplers, and Weighers？**
-- 注重细节、动手能力强的人
-- 希望在制造业稳定工作的人
-- 愿意接受在职培训而非高学历的人
-
-**谁不适合学Inspectors, Testers, Sorters, Samplers, and Weighers？**
-- 追求高薪和职业晋升快的人
-- 难以适应重复性工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on person
+- Someone who wants stable work in manufacturing
+- Those willing to accept on-the-job training rather than higher education
+
+**Who is not suited**
+- People pursuing high salaries and rapid career advancement.
+- People who find it difficult to adapt to repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an inspector?**
+A: According to BLS, the median annual salary in 2023 was about $37,000, varying by industry and experience.
+
+**Q: Can inspectors work in the US on an H-1B visa?**
+A: Difficult, as this position usually does not require a bachelor's degree, except in specific industries (e.g., aviation) involving complex testing techniques.
+
+**Q: Are there promotion opportunities for inspectors?**
+A: Can advance to quality supervisor, quality engineer, or gain NDT certification for higher-paying fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Inspectors, Testers, Sorters, Samplers, and Weighers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for inspectors?**
-答：According to BLS, median annual wage in 2023 was about $37,000, varying by industry and experience.
-
-**问：Can inspectors get an H-1B visa?**
-答：Difficult, as most positions do not require a bachelor's degree, except in specialized industries like aerospace.
-
-**问：Is there career progression for inspectors?**
-答：Yes, can advance to quality supervisor, quality engineer, or specialize in NDT for higher pay.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

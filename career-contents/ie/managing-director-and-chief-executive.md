@@ -1,60 +1,96 @@
-# Managing Director and Chief Executive（Managing Director and Chief Executive）职业分析 · IE
+# Managing Director and Chief Executive — career analysis · Ireland
 
-**职业代码：1120 – Managing Director and Chief Executive。**
+**Occupation code: 1120 (ISCO08)**
 
-Directs the overall strategy, operations, and performance of an organization, serving as the top executive decision-maker.
+Responsible for leading the overall strategic direction, operational performance, and long-term development of the organization; the top management decision-maker.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $15,000~$25,000（学费因大学而异，国际生更高） |
-| MBA | 1-2年（MBA） | $30,000~$60,000（顶尖商学院费用更高） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $15,000~$25,000 (Tuition fees vary by university; higher for international students.) |
+| MBA | 1-2 years (MBA) | $30,000~$60,000 (Top business schools have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学士学位 | 爱尔兰认可大学 | 必备 | 通常要求商业、管理或相关领域 |
-| MBA（加分项） | 商学院 | 可选 | 非强制但显著提升竞争力 |
+| Relevant bachelor's degree | Recognised Irish universities | Required | Typically requires a degree in business, management, or a related field |
+| MBA (preferred) | Business school | Optional | Not mandatory but significantly boosts competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 6,000。爱尔兰经济持续增长，尤其在跨国科技、制药和金融服务领域，对CEO需求稳定。但高层职位竞争激烈，通常需要丰富的行业经验和管理能力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,000. Ireland's economy continues to grow, especially in multinational technology, pharmaceuticals, and financial services, with steady demand for CEOs. However, senior positions are highly competitive, typically requiring extensive industry experience and management skills.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$120,000 | 小型企业或初创公司 |
-| 中级（3-10年） | $120,000~$200,000 | 中型企业或部门主管 |
-| 高级（10年以上） | $200,000~$500,000 | 大型跨国公司CEO |
+| Median salary | $160,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $80,000~$120,000 | Small business or startup |
+| Intermediate (3-10 years) | $120,000~$200,000 | Head of a medium-sized enterprise or department |
+| Senior (10+ years) | $200,000~$500,000 | CEO of a large multinational corporation |
+| average salary | $203,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业晋升通常从部门经理、副总裁等中层管理逐步上升至CEO。有MBA或行业专长可加速晋升，但最终取决于业绩和董事会认可。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
+
+Career progression typically rises from middle management like department manager, vice president to CEO. An MBA or industry expertise can accelerate promotion, but ultimately depends on performance and board approval.
+
+**Tasks most exposed to AI:**
+
+- Data aggregation and report generation (automatically collect KPIs and generate visual reports)
+- Routine decision support analysis (AI analyzes market data to provide recommendations)
+- Automatic meeting minutes generation and action item tracking
+- Basic risk assessment and compliance monitoring (AI scanning for abnormal transactions)
+- Partial information transmission and communication coordination (e.g., automated email replies)
+
+**Where AI augments the role:**
+
+- Strategic decision-making: AI provides data-driven market forecasts and scenario simulations to assist in strategy formulation.
+- Talent management: AI analyzes employee performance and potential to optimize team configuration
+- Innovation identification: AI identifies industry trends and disruptive technologies to support forward-looking strategies.
+- Operational efficiency: AI automates process monitoring and optimisation, freeing management time to focus on core tasks
+- Risk alerts: AI monitors internal and external risks for better crisis response
+
+**Human moat:**
+
+- Strategic vision and long-term planning: require human judgment and leadership
+- Stakeholder relationship management: relationships with boards, investors, and government rely on trust
+- Organizational change and culture shaping: values leadership that AI cannot replace
+- Complex crisis decisions: involving ethics, law and social impact
+- Executive team coordination and motivation: humanized management and emotional intelligence
+
+**Skills to build:**
+
+- Application of AI tools (e.g., predictive analytics platforms, smart dashboards)
+- Data-driven decision-making methods (learn basic statistics and machine learning principles)
+- Digital strategic thinking (understanding the impact of AI on business models)
+- Emotional intelligence and leadership (remote team management, change communication)
+- Knowledge of technology ethics and regulation (AI governance, data privacy)
+- Agile Project Management and Cross-Departmental Collaboration
+
+**Key growth areas:**
 
 - Strategy
 - Corporate Governance
@@ -63,69 +99,68 @@ Directs the overall strategy, operations, and performance of an organization, se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于高技能岗位，需年薪超过60000欧元。CEO通常符合资格。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于60000欧元的岗位，需要劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过一般水平1.5倍的高技能工人，CEO通常符合。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to high-skilled positions requiring an annual salary exceeding €60,000. CEOs usually meet the criteria. |
+| Subclass General Employment P (General Employment Permit) | Applies to positions with annual salary below €60,000 and requires a labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | applicable to highly skilled workers earning more than 1.5 times the general salary level; CEOs typically qualify. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managing Director and Chief Executive？**
-- 具有战略眼光和领导力，擅长决策与风险管理
-- 拥有丰富行业经验和人脉网络
-- 适应高压、长时间工作环境
-
-**谁不适合学Managing Director and Chief Executive？**
-- 偏好稳定、低压力工作环境
-- 缺乏团队管理和决策经验
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- With strategic vision and leadership, skilled in decision-making and risk management
+- With extensive industry experience and professional network
+- Able to adapt to high-pressure, long-hour work environments
+
+**Who is not suited**
+- Preference for stable, low-pressure work environments
+- Lacks team management and decision-making experience.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a CEO in Ireland?**
+A: Junior CEO annual salary approx €80,000-€120,000, senior CEO can reach €200,000-€500,000, higher at large multinationals.
+
+**Q: How can a foreign CEO obtain a work permit in Ireland?**
+A: Usually applied through a Critical Skills Employment Permit (annual salary ≥€60k) or EU Blue Card, requiring employer sponsorship.
+
+**Q: What qualifications are needed to become a CEO?**
+A: Typically requires a relevant bachelor's degree and years of management experience; MBA is a plus but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Managing Director and Chief Executive为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a CEO in Ireland?**
-答：Entry-level CEO salaries range from €80k to €120k, rising to €200k-€500k for senior roles at large multinationals.
-
-**问：How can foreign CEOs obtain a work permit in Ireland?**
-答：Typically via the Critical Skills Employment Permit (salary ≥€60k) or EU Blue Card, requiring employer sponsorship.
-
-**问：What qualifications are needed to become a CEO?**
-答：A relevant bachelor's degree and extensive management experience are typical; an MBA is beneficial but not mandatory.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

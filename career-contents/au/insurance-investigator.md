@@ -1,60 +1,94 @@
-# Insurance Investigator（Insurance Investigator）职业分析 · 澳大利亚
+# Insurance Investigator — career analysis · Australia
 
-**职业代码：599611 – Insurance Investigator。**
+**Occupation code: 599611 (ANZSCO)**
 
-Insurance Investigators probe suspicious insurance claims by gathering evidence, conducting interviews, and writing reports to prevent fraud and ensure claim validity.
+Insurance investigators investigate suspicious insurance claims, gather evidence, conduct interviews, and write reports to prevent fraud and ensure claim legitimacy.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（相关领域） | 3年 | $30,000~$60,000（如犯罪学、法律或商业学位） |
-| 短期培训证书 | 6个月 | $2,000~$6,000（如保险调查短期课程） |
+| Bachelor's degree (related field) | 3 years | $30,000~$60,000 (E.g., criminology, law, or business degree) |
+| Short-term Training Certificate | 6 months. | $2,000~$6,000 (e.g., short course in insurance investigation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 三级或四级保险服务证书 | 澳大利亚技能质量管理局（ASQA）认证机构 | 可选 | 部分雇主要求持有相关资格证书 |
-| 私人调查员执照 | 各州警察局或牌照颁发机构 | 必备 | 从事调查工作必须持有执照 |
+| Private investigator license | State police departments or licensing authorities | Required | Must hold a license to conduct investigation work |
+| Certificate III or IV in Insurance Services | Australian Skills Quality Authority (ASQA) Accredited Body | Optional | Some employers require relevant qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。随着保险欺诈手段日益复杂，澳洲保险公司对专业调查员的需求稳定增长。预计未来五年该职业就业人数将小幅上升，年均增长约3%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. As insurance fraud methods become increasingly sophisticated, the demand for professional investigators in Australian insurance companies is steadily growing. Employment in this occupation is expected to rise slightly over the next five years, with an average annual growth of about 3%.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 入门级调查员薪资 |
-| 中级（3-6年） | $70,000~$90,000 | 经验丰富的调查员 |
-| 高级（6年以上） | $90,000~$120,000 | 高级调查员或经理级别 |
+| Median salary | $103,740 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level investigator salary |
+| Mid-level (3–6 years) | $70,000~$90,000 | Experienced investigator |
+| Senior (6+ years) | $90,000~$120,000 | Senior investigator or manager level |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可积累经验后晋升为高级调查员、调查经理或转入风险管理、合规部门。部分人可开设自己的调查事务所或成为独立顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Insurance investigators face medium automation risk; some tasks (e.g., document review) can be replaced by AI, but core investigation, interpersonal negotiation, and legal evidence chain construction still rely on human judgment. Entry-level positions may slightly shrink due to AI tools, but senior roles increase in value.
+
+Practitioners can gain experience and advance to senior investigator, investigation manager, or transition to risk management and compliance departments. Some may start their own investigation firms or become independent consultants.
+
+**Tasks most exposed to AI:**
+
+- Automatically review standard policy terms and identify abnormal claim patterns
+- Automatically generate preliminary risk assessment reports based on historical fraud case databases.
+- Automatically extracts and organizes key information from claim documents (e.g., dates, amounts, parties).
+- Generate standardised survey progress reports and formatted correspondence
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of social media and public records to quickly identify contradictions or related individuals.
+- Automatically summarize interview recordings using NLP to extract key statements
+- Efficiently present evidence chains and timelines using visual analysis tools
+- Real-time monitoring of claims data streams, automatic alerts for high fraud probability cases
+- Use text generation tools to quickly draft investigation report drafts, saving writing time
+
+**Human moat:**
+
+- Face-to-face interviews involving human judgment, lie detection, and persuasion techniques
+- Collaborate across agencies with lawyers, police, etc. to build a legally flawless chain of evidence
+- Handle complex, unstructured grey-area cases (e.g., motivation analysis)
+- Provide expert witness testimony in court or arbitration, interpreting the investigation process
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Python, Tableau)
+- AI investigation tool operation (e.g., fraud detection software, intelligent forensic platforms)
+- Advanced interview and psychological profiling techniques
+- Digital forensics techniques (social media analysis, dark web search)
+- Legal and compliance knowledge updates (data privacy regulations)
+- Critical thinking and complex problem solving
+
+**Key growth areas:**
 
 - Insurance Fraud
 - Data Analytics
@@ -63,65 +97,67 @@ Insurance Investigators probe suspicious insurance claims by gathering evidence,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保签证，但保险调查员通常不在职业清单上，极少适用。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，但该职业通常不在担保清单上。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored visa, but insurance investigators are usually not on the occupation list, rarely applicable. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, but this occupation is usually not on the sponsorship list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Insurance Investigator？**
-- 具备良好沟通和访谈技巧的人
-- 对细节敏感并有条理的分析型人才
-- 能独立工作并处理复杂案件的人
+**Who is suited**
+- People with good communication and interviewing skills
+- Detail-oriented and organized analytical talent.
+- People who can work independently and handle complex cases.
 
-**谁不适合学Insurance Investigator？**
-- 不适应频繁出差和不定时工作的人
-- 缺乏耐心和抗压能力的人
+**Who is not suited**
+- People who are not suited to frequent travel and irregular working hours
+- People lacking patience and stress tolerance
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of an insurance investigator?**
+A: Entry-level about A$55,000-$70,000, intermediate A$70,000-$90,000, senior can reach over A$120,000. Higher with experience or promotion to management.
+
+**Q: Can insurance investigators immigrate to Australia?**
+A: This occupation is not on Australia's skilled migration occupation list, making skilled migration nearly impossible. Employer sponsorship is also difficult due to low demand.
+
+**Q: What qualifications are needed?**
+A: Usually requires a private investigator license (issued by each state), and some employers may also require a Certificate III or IV in Insurance Services. A relevant bachelor's degree is helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Insurance Investigator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an Insurance Investigator?**
-答：Entry-level: AUD 55,000-70,000; mid-level: AUD 70,000-90,000; senior: up to AUD 120,000+.
-
-**问：Can an Insurance Investigator migrate to Australia?**
-答：This occupation is not on the skilled occupation list, making skilled migration very difficult. Employer sponsorship is rarely feasible.
-
-**问：What qualifications are required?**
-答：A private investigator license (issued by state police) is mandatory. A Certificate III/IV in Insurance Services is often preferred. A relevant bachelor's degree is beneficial.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

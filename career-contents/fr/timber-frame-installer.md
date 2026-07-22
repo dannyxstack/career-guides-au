@@ -1,59 +1,94 @@
-# Timber Frame Installer（Timber Frame Installer）职业分析 · FR
+# Timber Frame Installer — career analysis · France
 
-**职业代码：F1503 – Timber Frame Installer。**
+**Occupation code: F1503 (ROME)**
 
-Installs wooden structural frames for buildings, including houses and roofs, by cutting, assembling, and fixing timber components to ensure stability and compliance with standards.
+Responsible for on-site installation and construction of timber structures (such as wooden houses and roof frames), including cutting, assembling, and fixing wooden components to ensure building stability and compliance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 木工建造 | 2年（CAP） | —（公立学校免费，私立约3000-10000欧元/年） |
-| BTS 木结构与建筑设计 | 2年（BTS） | —（公立免费，私立约4000-12000欧元/年） |
+| CAP carpentry construction | 2 years (CAP) | $0~$10,000 (Public schools are free, while private ones pay about 3,000-10,000 euros per year) |
+| BTS timber structure and architectural design | 2 Years (BTS) | $0~$12,000 (Public schools are free, while private ones pay about 4,000-12,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 木工建造文凭 | 法国教育部 | 必备 | 基础从业文凭，多数雇主要求 |
-| BTS 木结构与建筑设计 | 法国教育部 | 可选 | 高级技术文凭，利于晋升 |
-| FIMO 运输危险品证书 | 交通部 | 可选 | 若涉及运输大型木材需要 |
+| CAP Diploma in Carpentry Construction | French Ministry of Education | Required | A basic professional diploma is required by most employers |
+| BTS timber structure and architectural design | French Ministry of Education | Optional | Advanced technical diplomas are beneficial for promotion |
+| FIMO Dangerous Goods Transport Certificate | Department of Transport | Optional | If it involves transporting large timber |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国大力推动可持续建筑和木材建筑，木结构市场年均增长5-7%，木匠和安装工长期紧缺，尤其在绿色建筑领域。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France is vigorously promoting sustainable and timber construction, with the timber market growing at an average annual rate of 5-7%. There has long been a shortage of carpenters and installers, especially in the green building sector.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含学徒津贴后 |
-| 中级（4-7年） | $30,000~$36,000 | 税前年薪 |
-| 高级（8年以上/主管） | $36,000~$45,000 | 税前年薪，自雇者可能更高 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary, including apprenticeship allowance |
+| Mid-level (4-7 years) | $30,000~$36,000 | Annual pre-tax salary |
+| Senior (8+ years / Supervisor) | $36,000~$45,000 | Pre-tax annual salary, self-employed individuals may have higher salaries |
+| average salary | $25,284 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒晋升为熟练工，再发展为项目主管或自营木工企业；通过CAP+BTS可转向木结构设计或工程管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Timber frame installers face moderate risks of automation: BIM and prefabrication will reduce on-site cutting work, but complex installation, structural commissioning, and on-site problem solving still require manual labor, making it a collaborative human-machine profession.
+
+You can advance from apprentice to skilled worker, then develop into a project supervisor or self-owned woodworking enterprise; Through CAP+BTS, you can switch to timber structure design or engineering management.
+
+**Tasks most exposed to AI:**
+
+- Use handheld tools for repeated wood cutting and drilling
+- Manual calculation and layout based on paper drawings
+- Handling and positioning of simple linear components (replaced by mechanical assistance)
+- Manually recording changes during construction (replacing with real-time digital records)
+
+**Where AI augments the role:**
+
+- Virtual pre-assembly is performed through BIM models to reduce on-site errors
+- Precise positioning and verification are performed using laser scanning and AR headsets
+- Use AI design optimization software to select the best connection solutions
+- Use drones or robots for high-altitude work assistance inspections
+- Construction progress and issues are shared in real time through a mobile collaboration platform
+
+**Human moat:**
+
+- Subjective judgments on structural stability and safety (such as joint tension)
+- Handling unforeseen on-site issues (such as wood defects and foundation deviations)
+- Fine manual adjustments and artistic integration (such as decorative wood structures)
+- Multi-trade collaboration and communication and construction scheduling
+- Understand the overall architectural design intent and handle complex geometry
+
+**Skills to build:**
+
+- BIM model reading and basic operations (such as Revit, Tekla)
+- Laser measurement and 3D scanning equipment are used
+- Wood structure mechanics analysis and knowledge of environmentally friendly, sustainable materials
+- Digital collaboration tools (such as Procore, Fieldwire)
+- Basic programming or scripting skills (such as Rhino/Grasshopper)
+- Lean construction and prefabricated process management
+
+**Key growth areas:**
 
 - Wood construction
 - Sustainable building
@@ -62,68 +97,67 @@ Installs wooden structural frames for buildings, including houses and roofs, by 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能木工专家，需提供项目合同或企业邀约，可获4年居留 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，匹配紧缺职业列表，申请较常规 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求年薪≥48,000欧元，木工一般难达门槛，但高级主管可能符合 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled woodworking experts, requiring a project contract or corporate invitation, and eligible for a 4-year residence permit |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, matching the list of in-demand occupations, and applications are relatively common |
+| Subclass Carte bleue UE (EU Blue Card) | The annual salary requirement is ≥ 48,000 euros; carpenters generally find it difficult to reach the threshold, but senior supervisors may meet the requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Timber Frame Installer？**
-- 喜欢动手操作、从事体力工作的人
-- 愿意从事户外和工地现场作业的人
-- 对木工和可持续建筑有热情的人
-
-**谁不适合学Timber Frame Installer？**
-- 不愿从事体力劳动或高空作业的人
-- 对木屑和粉尘环境敏感或过敏的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and physical labor
+- People willing to work outdoors and on site sites
+- Passionate about woodworking and sustainable construction
+
+**Who is not suited**
+- People unwilling to engage in physical labor or work at heights
+- People sensitive or allergic to wood chips and dusty environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for timber frame installers?**
+A: Entry-level salaries are about 24,000-28,000 euros before tax, while seniors can earn up to 45,000 euros, with self-employed earnings even higher. The French woodworking market is tight, and wages are on the rise.
+
+**Q: How can foreigners immigrate to France to work in timber installation?**
+A: Applications can be made through the Passeport Talent Passport or the Salarié (Ordinary Employment Work Residence). Must obtain a French employer contract; CAP or BTS degree preferred. EU citizens move freely.
+
+**Q: What is the future outlook for this occupation?**
+A: France promotes green and timber construction, with the timber structure market growing by 5-7% annually and expected to continue expanding jobs over the next decade, especially in new energy buildings and renovations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Timber Frame Installer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a timber frame installer?**
-答：Entry-level salaries range from €24,000 to €28,000 gross annually, while senior installers can earn up to €45,000. Self-employed workers may earn more due to high demand.
-
-**问：How can a foreigner immigrate to France as a timber frame installer?**
-答：Apply for a Talent Passport or Employee Work Permit with a French job offer. CAP or BTS diploma is preferred. EU citizens have free movement.
-
-**问：What is the future prospect of this occupation?**
-答：France promotes sustainable wood construction, with the market growing 5-7% annually. Job demand is expected to rise steadily, especially in green building and renovation.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

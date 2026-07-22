@@ -1,60 +1,96 @@
-# Petroleum Engineers（Petroleum Engineers）职业分析 · 美国
+# Petroleum Engineers — career analysis · United States
 
-**职业代码：17-2171 – Petroleum Engineers。**
+**Occupation code: 17-2171 (SOC)**
 
-Petroleum engineers devise methods to improve oil and gas extraction and production, oversee drilling, and offer technical advice.
+Petroleum engineers design and optimize oil and gas extraction methods, supervise drilling operations, and provide technical advice to improve oil and gas production and efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $80,000~$200,000（公立大学年均学费2-5万美元，私立4-6万美元） |
-| 硕士学位 | 2年 | $40,000~$100,000（部分名校费用更高） |
+| Bachelor's degree | 4 years | $80,000~$200,000 (Public universities: annual tuition $20,000-$50,000; private: $40,000-$60,000.) |
+| Master's degree | 2 years | $40,000~$100,000 (Some prestigious universities charge higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | ABET认证院校 | 必备 | 石油工程或相关工程专业 |
-| 专业工程师(PE)执照 | 州工程委员会 | 可选 | 工作经验+考试，非必须但有益晋升 |
+| Bachelor's degree in engineering | ABET-accredited institutions | Required | Petroleum engineering or related engineering major |
+| Professional Engineer (PE) license | State engineering board | Optional | Work experience plus exam, not mandatory but beneficial for advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 32,000。受全球能源需求波动和可再生能源转型影响，美国石油工程师就业增长预计缓慢，年增长率约3%。上游投资周期性影响岗位稳定性。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. Due to global energy demand fluctuations and the renewable energy transition, employment growth for petroleum engineers in the US is expected to be slow, with an annual growth rate of about 3%. Upstream investment cyclicality affects job stability.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$100,000 | 中位数约85000美元 |
-| 中级（4-9年） | $110,000~$150,000 | 经验丰富薪酬显著增长 |
-| 高级（10年以上） | $160,000~$220,000 | 管理层或专家可达更高 |
+| Median salary | $144,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $75,000~$100,000 | Median approximately $85,000 |
+| Intermediate (4-9 years) | $110,000~$150,000 | Experience leads to significant salary growth |
+| Senior (10+ years) | $160,000~$220,000 | Management or experts can reach higher |
+| average salary | $157,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级工程师可晋升为高级工程师、技术主管或项目经理；部分转向咨询、管理或创业。跨学科能力（如数据科学）有助发展。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core tasks of petroleum engineers (e.g., drilling parameter optimization, production forecasting, data analysis) will be highly automated by AI, significantly reducing demand for entry-level roles, but senior decision-making and interdisciplinary roles will persist.
+
+Junior engineers can advance to senior engineer, technical lead, or project manager; some move into consulting, management, or entrepreneurship. Cross-disciplinary skills (e.g., data science) support career development.
+
+**Tasks most exposed to AI:**
+
+- Conventional modeling of subsurface reservoir models using seismic data
+- Optimizing drilling parameters and forecasting production based on historical data
+- Automated generation of drilling reports and compliance documents
+- Monitor real-time drilling data and automatically alert
+- Routine reservoir simulation and sensitivity analysis
+
+**Where AI augments the role:**
+
+- Use AI to simulate complex geological conditions for drilling plan design
+- Optimizes harvest rates by analyzing massive sensor data through machine learning
+- AI-assisted real-time decisions, such as adjusting drilling fluid density
+- Use natural language processing to quickly search technical documents and regulations
+- Digital twin technology simulates full lifecycle management of oil fields
+
+**Human moat:**
+
+- Innovatively solving unprecedented geological anomalies
+- Interdisciplinary (geology, mechanical, environmental) integrated decision-making.
+- On-site safety responsibility for high-risk drilling operations
+- Communicating with stakeholders from regulatory bodies and communities
+- failure analysis of complex downhole tools and equipment
+
+**Skills to build:**
+
+- Machine learning (e.g., PyTorch) for reservoir prediction
+- Data science (Python, SQL) for processing well-site sensor data
+- Digital twin and simulation software (e.g., Petrel, CMG)
+- Automated drilling technology (e.g., Rig Control Systems)
+- Project management and cross-team collaboration skills
+- Knowledge of energy economics and carbon management
+
+**Key growth areas:**
 
 - energy transition
 - offshore drilling
@@ -63,69 +99,68 @@ Petroleum engineers devise methods to improve oil and gas extraction and product
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见路径，需学士学位以上，雇主担保，配额竞争激烈。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需硕士或本科+5年经验，NIW或PERM；石油行业常见。 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大/墨西哥公民，需相关职业列表内的工程师职位。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common pathway: requires bachelor's degree or above, employer sponsorship, and competitive quota. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires master's or bachelor's plus 5 years experience, NIW or PERM; common in the petroleum industry. |
+| Subclass TN (TN Status (USMCA)) | Applicable to Canadian/Mexican citizens, requiring an engineering position within the relevant occupation list. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Petroleum Engineers？**
-- 具有工程背景和数学能力者
-- 对能源行业有热情、能适应出差/现场工作
-- 擅长解决问题和团队协作
-
-**谁不适合学Petroleum Engineers？**
-- 不愿在偏远或恶劣环境工作
-- 对行业周期性波动承受力低
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with engineering background and mathematical ability
+- Passionate about the energy industry, able to adapt to travel/fieldwork
+- Good at problem solving and teamwork
+
+**Who is not suited**
+- Unwilling to work in remote or harsh environments
+- Low tolerance for industry cyclical fluctuations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of petroleum engineers in the United States?**
+A: According to BLS, 2023 median annual salary for petroleum engineers is approximately USD 135,000; entry-level about USD 75,000-100,000, senior can exceed USD 200,000.
+
+**Q: Is it easy for petroleum engineers to immigrate to the US?**
+A: Petroleum engineer is common for H-1B and EB-2, but requires employer sponsorship, and the industry is affected by oil price volatility; PERM applications have uncertainty.
+
+**Q: What is the career outlook for petroleum engineers?**
+A: With the energy transition, growth in the oil industry is slowing, but existing oil and gas fields still require engineers for maintenance. Skills in data science or renewable energy can increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 很高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Petroleum Engineers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for petroleum engineers in the US?**
-答：According to BLS, the median annual wage for petroleum engineers in 2023 was around $135,000; entry-level $75,000-$100,000, senior over $200,000.
-
-**问：Is it easy for petroleum engineers to immigrate to the US?**
-答：Petroleum engineers commonly use H-1B and EB-2, but require employer sponsorship and are subject to oil price volatility, affecting PERM stability.
-
-**问：What is the career outlook for petroleum engineers?**
-答：With energy transition, growth slows but existing fields need engineers; skills in data science or renewables boost competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

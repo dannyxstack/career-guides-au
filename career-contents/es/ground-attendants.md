@@ -1,61 +1,97 @@
-# Ground Attendants（Ground Attendants）职业分析 · ES
+# Ground Attendants — career analysis · Spain
 
-**职业代码：5824 – Ground Attendants。**
+**Occupation code: 5824 (CNO)**
 
-Ground attendants manage flight ground support, including passenger boarding, baggage handling, aircraft guidance, and safety oversight, essential for airport operations.
+Ground staff are responsible for ground support for flights, including passenger boarding, baggage handling, aircraft guidance, and security supervision, making them core roles in airport operations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（通常无学费） |
-| FP Grado Superior（高级职业培训） | 2年 | $500~$2,000（公立学费低，私立较高） |
+| High school graduation | No higher education required | $0~$0 (Typically no tuition) |
+| FP Grado Superior (Advanced Vocational Training) | 2 years | $500~$2,000 (Public tuition is low, private tuition is higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地面服务培训证书 | 航空公司或培训机构 | 必备 | 部分雇主提供内部培训 |
-| 航空安全证书 | AESA（西班牙航空安全局） | 可选 | 从事安全相关工作需要 |
-| 危险品操作证书 | IATA | 可选 | 处理危险品货物需此证书 |
+| Ground Service Training Certificate | Airlines or training institutions | Required | Some employers provide in-house training |
+| Aviation safety certificate | AESA (Spanish Aviation Safety Agency) | Optional | Needs for those engaged in safety-related work |
+| Dangerous Goods Handling Certificate | IATA | Optional | This certificate is required for handling hazardous goods cargo |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。西班牙旅游业复苏推动航空客运增长，预计地勤需求稳定。马德里、巴塞罗那等枢纽机场招聘活跃，但岗位合同多为临时或兼职。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The recovery of Spain's tourism industry is driving air passenger growth, with ground handling demand expected to remain stable. Recruitment is active at hub airports such as Madrid and Barcelona, but most contract positions are temporary or part-time.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，主管级 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual salary before tax, supervisor level |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从地勤初级岗位晋升为组长、值班主管，或转向航空服务管理、机场运营协调等职位。考取航空安全证书可提升竞争力。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Ground staff face the risk of high automation, and AI will replace most standardized tasks, potentially significantly reducing job demand.
+
+Employees can be promoted from junior ground staff positions to team leader or duty supervisor, or to positions such as aviation service management or airport operations coordination. Obtaining an aviation safety certificate can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Passenger check-in procedures can be fully handled by self-service terminals and AI systems
+- Baggage sorting and handling: automated luggage systems enable unmanned operation
+- Identity verification at boarding gates and boarding pass scanning can be replaced by AI and biometric technologies
+- Flight information broadcasting and notifications, with the AI voice system automatically announcing them
+- Simple safe patrols, AI monitoring, and robots can autonomously complete them
+
+**Where AI augments the role:**
+
+- For complex passenger services, such as handling special needs or complaints, AI assists with recommendations
+- Emergency response to abnormal events, AI provides real-time data support
+- Flight scheduling coordination, AI optimizes resource allocation
+- Tracking and handling of luggage anomalies, with an AI system quickly locating issues
+- Human-machine collaboration in safety supervision, AI alerts to potential risks
+
+**Human moat:**
+
+- Highly emotional labor and empathy, handling passenger disputes and special group needs
+- Flexible adaptability to handle non-programmed emergencies
+- Multitasking coordination and on-site management require human decision-making and judgment
+- High-responsibility safety supervision, involving personal safety requiring manual confirmation
+- Cross-departmental communication and team collaboration rely on human interaction in complex situations
+
+**Skills to build:**
+
+- Automated baggage system and self-service operation and monitoring
+- AI-assisted decision-making tools are used, such as flight scheduling software
+- Data analysis and exception handling skills
+- Cross-cultural communication and complex customer service capabilities
+- Emergency management and basic programming knowledge
+- Operation and maintenance of human-machine collaboration equipment
+
+**Key growth areas:**
 
 - Tourism recovery
 - Air traffic growth
@@ -64,61 +100,66 @@ Ground attendants manage flight ground support, including passenger boarding, ba
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需西班牙雇主提供工作合同，非紧缺职业，外籍员工担保难度较大。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish employer; non-essential occupations and foreign employees face higher sponsorship difficulties. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ground Attendants？**
-- 喜欢机场工作环境，能适应倒班与高强度体力劳动
-- 注重细节，有良好沟通能力和服务意识
-- 希望快速进入职场，无需长期高等教育
+**Who is suited**
+- Enjoys airport work environments and can adapt to shift shifts and high-intensity physical labor
+- Attention to detail, good communication skills, and a sense of service
+- Those who want to enter the workforce quickly without long-term higher education
 
-**谁不适合学Ground Attendants？**
-- 无法接受轮班制（含夜班、周末及节假日）
-- 对行李搬运、长时间站立等体力工作有困难
+**Who is not suited**
+- Shift work is not accepted (including night shifts, weekends, and holidays)
+- They have difficulty with physical tasks such as carrying luggage or standing for long periods
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for ground staff in Spain?**
+A: Junior ground staff annual salary approx. EUR 18,000-22,000, mid-level EUR 22,000-28,000, senior (supervisor level) up to EUR 28,000-35,000. Salary varies by airport size and contract type.
+
+**Q: Can ground staff work in Spain through the skilled migration route?**
+A: These positions are not considered high-skilled shortage occupations and generally cannot apply for the EU Blue Card or Highly Skilled Talent visa. The main route is employer-sponsored work residency (Cuenta ajena), but the success rate of foreign sponsorship is relatively low.
+
+**Q: What certificates are needed to become a ground crew member?**
+A: Usually, you need to complete training related to aviation or airport services, such as a ground service certificate (provided by the employer or training institution). Handling hazardous materials or safety positions requires additional certificates (such as IATA hazardous materials certificate).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ground Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of ground attendants in Spain?**
-答：Entry-level ground attendants earn around €18,000-22,000 annually, mid-level €22,000-28,000, and senior (supervisory) up to €28,000-35,000. Salaries vary by airport size and contract type.
-
-**问：Can ground attendants migrate to Spain through skilled migration pathways?**
-答：This occupation is not on the high-skilled shortage list, so EU Blue Card or highly skilled professional visa are generally not applicable. The main route is employer-sponsored work permit (Cuenta ajena), but success rates for foreign workers are low.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

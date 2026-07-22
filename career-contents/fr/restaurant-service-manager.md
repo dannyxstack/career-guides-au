@@ -1,61 +1,97 @@
-# Restaurant Service Manager（Restaurant Service Manager）职业分析 · FR
+# Restaurant Service Manager — career analysis · France
 
-**职业代码：G1802 – Restaurant Service Manager。**
+**Occupation code: G1802 (ROME)**
 
-Manages daily restaurant operations, including customer service, staff scheduling, inventory control, and financial performance, ensuring service quality and customer satisfaction.
+Responsible for daily restaurant operations management, including customer service, staff scheduling, inventory control, and financial performance, ensuring service quality and customer satisfaction.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 管理或酒店业学士 | 3年 | $3,000~$12,000（公立大学学费低，私立商学院较高） |
-| BTS 酒店餐饮管理 | 2年 | —（公立院校免费或低学费，可走学徒制） |
+| Bachelor of Management or Hospitality | 3 years | $3,000~$12,000 (Public universities have lower tuition fees, while private business schools offer higher fees) |
+| BTS Hotel Food and Beverage Management | 2 years | $0~$5,000 (Public institutions offer free or low tuition, and apprenticeships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS 酒店餐饮管理 | 法国教育部 | 必备 | 国家文凭，行业必需品 |
-| HACCP 认证 | 法国农业部 | 必备 | 食品安全管理必备 |
-| 酒精许可培训（若餐厅售酒） | 法国地方政府 | 可选 | 部分餐厅要求 |
+| BTS Hotel Food and Beverage Management | French Ministry of Education | Required | National diplomas, industry essentials |
+| HACCP certification | French Ministry of Agriculture | Required | Essential for food safety management |
+| Alcohol Licensing Training (if the restaurant sells alcohol) | Local governments in France | Optional | Some restaurants require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国餐饮业持续增长，尤其旅游城市和商业区对经验丰富的服务经理需求稳定。数字化转型和外卖业务扩展创造新岗位，但竞争依然激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The French catering industry continues to grow, especially in tourist cities and business districts where there is a stable demand for experienced service managers. Digital transformation and food delivery business expansion create new positions, but competition remains fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，高端餐厅或连锁品牌更高 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, with higher prices for high-end restaurants or chain brands |
+| average salary | $28,488 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业生涯可从服务生或领班起步，晋升至餐厅经理、区域经理或餐饮总监。也可转向酒店管理、活动策划或自主创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Careers can start as waiters or foremen and advance to restaurant managers, regional managers, or food and beverage directors. You can also switch to hotel management, event planning, or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Tourism
 - Digital Transformation
@@ -64,62 +100,64 @@ Manages daily restaurant operations, including customer service, staff schedulin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 适用于获得法国雇主工作合同的申请人，需要雇主证明职位空缺且无法找到欧盟候选人。 |
-| Subclass Passeport Talent（Talent Passport） | 对高技能人才或有创新项目人士，可走此路径，需满足薪资或学历条件。 |
+| Subclass Salarié (Employee Work Permit) | Applicable to applicants who have obtained a work contract from a French employer, requiring the employer to prove the vacancy and that EU candidates cannot be found. |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents or those with innovative projects, this path is acceptable, provided salary or education requirements are met. |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Restaurant Service Manager？**
-- 热爱餐饮服务，具备领导力和沟通能力
-- 适应快节奏工作环境，能处理多任务
-- 有团队管理经验，善于激励员工
+**Who is suited**
+- Passionate about food and beverage service, with leadership and communication skills
+- Adapts to fast-paced work environments and can handle multiple tasks
+- Experience in team management, skilled at motivating employees
 
-**谁不适合学Restaurant Service Manager？**
-- 不擅长与人打交道或压力管理
-- 无法接受周末和节假日工作
+**Who is not suited**
+- Poor at dealing with people or managing stress
+- Weekend and holiday work is not acceptable
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for food service managers in France?**
+A: Entry-level about EUR 24,000-30,000/year, mid-level EUR 32,000-40,000/year, senior up to EUR 55,000/year. Higher salaries in fine dining or chain brands.
+
+**Q: Is it easy for foreigners to immigrate to work as a food service manager in France?**
+A: More difficult, requiring employer sponsorship and passing a labor market test. It is recommended to obtain the relevant diploma or work visa first before applying for long-term residence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Restaurant Service Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a restaurant service manager in France?**
-答：Entry-level: €24,000-30,000/year; mid-level: €32,000-40,000/year; senior: up to €55,000/year. Higher in fine dining or chains.
-
-**问：Is it easy for foreigners to immigrate as a restaurant service manager in France?**
-答：Challenging; requires employer sponsorship and labor market test. Obtaining a relevant degree or work permit first is recommended.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

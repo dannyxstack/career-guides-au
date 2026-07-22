@@ -1,59 +1,91 @@
-# Statisticians（Statisticians）职业分析 · 加拿大
+# Statisticians — career analysis · Canada
 
-**职业代码：21223 – Statisticians。**
+**Occupation code: 21223 (NOC)**
 
-Statisticians collect, analyze, and interpret data in sectors like government, finance, and healthcare. Demand is steady, and immigration is feasible via Express Entry or PNP.
+Statisticians collect, analyze, and interpret data, widely employed in government, finance, healthcare, etc. Demand for statisticians in Canada is stable, and skilled migration is possible via Express Entry or PNP.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $60,000~$120,000（学费因大学而异，国际生更高） |
-| 硕士 | 2年 | $30,000~$80,000（研究型项目可能提供资助） |
+| Bachelor's degree | 4 years | $60,000~$120,000 (Tuition fees vary by university; higher for international students.) |
+| Master's degree | 2 years | $30,000~$80,000 (Research-based programs may offer funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES或IQAS | 必备 | 需将海外学位认证为加拿大等效学历 |
-| 语言考试 | IELTS或CELPIP | 必备 | 移民需CLB 7以上，一般要求CLB 9 |
-| 专业统计学家认证 | 加拿大统计学会（SSC） | 可选 | 非强制，但提升竞争力 |
+| Educational credential assessment (ECA) | WES or IQAS | Required | Overseas degrees must be assessed as equivalent to Canadian credentials |
+| Language test | IELTS or CELPIP | Required | Immigration requires CLB 7 or higher, typically CLB 9 |
+| Professional statistician certification | Statistical Society of Canada (SSC) | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,600。加拿大对统计学家需求持续增长，尤其在数据分析、人工智能和公共政策领域。安大略、不列颠哥伦比亚和魁北克省机会较多。数据驱动决策趋势推动就业，未来5年岗位预计增长中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 8,600. Demand for statisticians in Canada is growing, especially in data analysis, AI, and public policy. Opportunities are more plentiful in Ontario, British Columbia, and Quebec. Data-driven decision-making trends boost employment, with moderate job growth expected over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$72,000 | 政府或学术机构略低 |
-| 中级（4-7年） | $72,000~$95,000 | 私营企业较高 |
-| 高级（8年以上） | $95,000~$130,000 | 数据科学家或管理岗位更高 |
+| Median salary | $85,010 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$72,000 | Slightly lower in government or academic institutions. |
+| Mid-level (4-7 years) | $72,000~$95,000 | Higher in private enterprises |
+| Senior (8+ years) | $95,000~$130,000 | Higher for data scientist or management roles. |
+| average salary | $89,440 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级统计学家可晋升为高级分析师或数据科学家，路径包括技术专家、团队主管或管理层。取得专业认证（如PStat）和研究生学位有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Statisticians see mixed impact from AI: routine data cleaning and basic modeling are highly automated, but advanced inference, causal analysis, and cross-domain communication still rely on human judgment; overall, roles are enhanced rather than replaced.
+
+Junior statisticians can advance to senior analyst or data scientist, with pathways including technical expert, team lead, or management. Professional certifications (e.g., PStat) and postgraduate degrees aid promotion.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing: AI automatically handles missing values, outlier detection, and format conversion
+- Basic descriptive statistical report generation: AI automatically calculates mean, variance, frequency distribution and generates charts.
+- Simple regression and classification modeling: AutoML automatically selects algorithms and tunes parameters, reducing manual modeling work
+
+**Where AI augments the role:**
+
+- Large-scale data visualization exploration: AI-assisted rapid discovery of hidden patterns and anomaly clusters.
+- Bayesian inference and complex sampling design: AI accelerates MCMC sampling and error calculation
+- Causal inference and experimental design: AI simulates counterfactual scenarios to assist in selecting optimal strategies.
+- Cross-domain communication reporting: AI generates plain-language explanations and visuals to improve understanding for non-technical audiences.
+
+**Human moat:**
+
+- Causal inference and confounding factors: require domain knowledge and logical reasoning, which AI finds hard to automatically identify
+- Stakeholder communication and strategic advice: translating statistical results into business or policy actions
+- Innovative method design: develop new statistical models or sampling schemes to address unique data scenarios.
+- Legal and ethical compliance: ensure data privacy, fairness, and transparency
+
+**Skills to build:**
+
+- Python/R programming and machine learning libraries (scikit-learn, PyTorch)
+- Causal inference and experimental design (DAG, do-calculus, A/B testing)
+- Data visualization and communication (Tableau, D3.js, storytelling)
+- Deep Bayesian methods and probabilistic programming (Stan, PyMC)
+- Big data frameworks (Spark, SQL, cloud platforms)
+- Domain knowledge (health, finance, policy)
+
+**Key growth areas:**
 
 - Data Science
 - AI Analytics
@@ -62,68 +94,67 @@ Statisticians collect, analyze, and interpret data in sectors like government, f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 最快路径，通过CRS打分，STEM背景获额外加分。需学历认证和语言成绩。 |
-| Subclass PNP（Provincial Nominee Program） | 适合有省内雇主offer或工作经验者，如安省硕士通道、BC省科技试点。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省指定雇主担保，门槛较低。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Fastest route, with CRS scoring and extra points for STEM background. Requires credential assessment and language test scores. |
+| Subclass PNP (Provincial Nominee Program) | Suitable for those with a provincial employer offer or work experience, e.g., Ontario Master's Graduate Stream, BC Tech Pilot. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program with designated employer sponsorship, lower threshold. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statisticians？**
-- 数学/统计背景，热爱数据分析
-- 具备编程能力（R/Python）
-- 移民目标明确，愿意提升语言
-
-**谁不适合学Statisticians？**
-- 对数字不敏感或厌恶数据处理
-- 不适应竞争性考试与认证流程
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Math/statistics background, passionate about data analysis.
+- Proficient in programming (R/Python)
+- Clear immigration goal, willing to improve language
+
+**Who is not suited**
+- Not suited for those who are not numerically inclined or dislike data processing.
+- Not suited for competitive exams and certification processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for statisticians in Canada?**
+A: Entry‑level is about CAD 55,000‑72,000, senior up to CAD 95,000‑130,000, varying by industry and region.
+
+**Q: Is it easy for statisticians to apply through Express Entry?**
+A: Relatively easy, with STEM background providing extra points, CRS typically needs 460 points or above. PNP is also recommended.
+
+**Q: How to authenticate overseas statistics degrees?**
+A: Requires Educational Credential Assessment (ECA) via WES or IQAS for Canadian equivalency, used in immigration applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Statisticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a statistician in Canada?**
-答：Entry-level ranges from CAD 55,000 to 72,000; senior positions can reach CAD 95,000 to 130,000, depending on industry and location.
-
-**问：Is Express Entry easy for statisticians?**
-答：Relatively easy due to STEM bonus; CRS score typically needs 460+. Consider PNP as backup.
-
-**问：How to certify a foreign statistics degree?**
-答：Obtain an Educational Credential Assessment (ECA) from WES or IQAS for immigration purposes.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

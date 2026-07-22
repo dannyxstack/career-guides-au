@@ -1,60 +1,94 @@
-# Cleaner（Cleaner）职业分析 · IT
+# Cleaner — career analysis · Italy
 
-**职业代码：9112 – Cleaner。**
+**Occupation code: 9112 (ISCO08)**
 
-Responsible for cleaning, tidying, and basic hygiene maintenance in offices, hotels, restaurants, and other establishments to ensure a clean environment.
+Responsible for cleaning, tidying, and basic hygiene maintenance in offices, hotels, restaurants, etc., ensuring a clean environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无强制教育要求 | —（通常无需正规教育，在职培训即可） |
-| 短期培训 | 1-3个月 | $500~$1,500（职业培训中心提供的清洁技能课程） |
-| 高中文凭 | 3年 | —（公立学校免费，但非必需） |
+| Junior high school graduation | No compulsory education requirements | $0~$0 (usually no formal education required, on-the-job training is sufficient) |
+| Short-term training | 1-3 months. | $500~$1,500 (Cleaning skills courses offered by training centers) |
+| High school diploma | 3 years | $0~$0 (Public schools are free but not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定资质 | 无 | 可选 | 通常无需正式资格证书 |
-| 安全卫生培训 | 地区卫生局 | 必备 | 工作场所卫生安全基本培训 |
-| 清洁化学品操作证 | 职业培训机构 | 可选 | 涉及专业化学品清洁时推荐 |
+| Health and safety training | Regional health authority | Required | Basic workplace health and safety training |
+| No specific qualifications required. | None | Optional | usually no formal qualification required |
+| Cleaning chemical handling certificate | Vocational training institutions | Optional | Recommended for specialized chemical cleaning |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 350,000。意大利清洁工需求稳定，受旅游业和商业服务支撑，老龄化社会增加养老机构清洁需求，但移民劳动力竞争加剧。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 350,000. Demand for cleaners in Italy is stable, supported by tourism and commercial services; an aging population increases cleaning needs in care facilities, but competition from migrant labour intensifies.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，包括临时工 |
-| 中级（3-6年） | $22,000~$26,000 | 税前年薪，含永久合同 |
-| 高级（6年以上） | $26,000~$30,000 | 税前年薪，含主管岗位 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including casual work |
+| Mid-level (3–6 years) | $22,000~$26,000 | Annual pre-tax salary, including permanent contract |
+| Senior (6+ years) | $26,000~$30,000 | Annual salary before tax, including supervisor positions |
+| average salary | $24,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从普通清洁工可晋升至清洁主管或物业经理，或通过培训转向专业清洁（如工业清洁、地毯清洁）。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
+
+Can progress from general cleaner to cleaning supervisor or property manager, or transition to specialist cleaning (e.g., industrial cleaning, carpet cleaning) through training.
+
+**Tasks most exposed to AI:**
+
+- Clean floors using smart vacuum and mop robots
+- Operation monitoring of automatic window cleaning robots
+- Dust removal in standard areas such as corridors and halls following preset routes.
+- Use automatic disinfection robots to disinfect bathrooms and kitchens.
+
+**Where AI augments the role:**
+
+- Use AI scheduling system to optimize multi-site cleaning routes and schedules
+- Use smart sensors to monitor dirt levels and precisely schedule cleaning frequency
+- Receive health and safety alerts via wearable devices to enhance personal protection
+- Adjusts service details using a customer review AI system to improve satisfaction
+- Use digital tools to manage cleaning supplies, reducing waste
+
+**Human moat:**
+
+- Identification and targeted treatment of complex stubborn stains (e.g., carpet stains, oil stains).
+- Communicate with clients to understand specific needs and flexibly adjust cleaning methods
+- Ability to handle unexpected situations (e.g., breaking items, pet accidents)
+- Fine cleaning and care of valuable items (e.g., antiques, silk)
+
+**Skills to build:**
+
+- Basic AI device operation and simple troubleshooting
+- Use cleaning management software for scheduling and customer relationship management
+- Learn specialized cleaning techniques (e.g., stone care, disinfection)
+- Improve communication and customer service skills
+- Basic English proficiency to interact with smart devices or serve foreign clients
+- Learn about personal protective equipment and eco-friendly cleaning agents
+
+**Key growth areas:**
 
 - Tourism demand
 - Ageing population
@@ -63,68 +97,67 @@ Responsible for cleaning, tidying, and basic hygiene maintenance in offices, hot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 适用于非欧盟低技能工人，需雇主担保，受年度配额限制。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 适用于欧盟公民，无需签证即可在意大利工作。 |
-| Subclass 长期居留（Long-term Residence Permit） | 在意大利合法居住5年后可申请，允许自由工作。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU low-skilled workers, requires employer sponsorship, subject to annual quota limits. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | Applicable to EU citizens, no visa required to work in Italy. |
+| Subclass Long-term Residence (Long-term Residence Permit) | Can be applied for after legally residing in Italy for 5 years, allows free work. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cleaner？**
-- 注重细节、吃苦耐劳的人
-- 愿意从事体力劳动、适应灵活工作时间的人
-- 初来意大利、需要快速就业的新移民
-
-**谁不适合学Cleaner？**
-- 不满足于低薪资和低社会认可度的人
-- 不希望从事重复性体力劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and hardworking individuals
+- Willing to do physical labor and adapt to flexible working hours
+- New immigrants to Italy who need quick employment
+
+**Who is not suited**
+- Those not satisfied with low pay and low social recognition
+- People who do not want to engage in repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a Cleaner in Italy?**
+A: Annual pre-tax salary for junior cleaners: approx. €18,000-22,000; intermediate: approx. €22,000-26,000; senior or supervisor: up to €30,000.
+
+**Q: How can non-EU cleaners obtain an Italian work visa?**
+A: Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship and annual caps. EU citizens can move freely.
+
+**Q: Is there career progression for cleaners?**
+A: Can advance to cleaning supervisor, property manager, or transition through training into specialized cleaning fields such as industrial cleaning, carpet cleaning, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cleaner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cleaners in Italy?**
-答：Entry-level cleaners earn approximately €18,000-€22,000 gross annually, mid-level €22,000-€26,000, and senior/supervisor up to €30,000.
-
-**问：How can non-EU cleaners obtain a work visa for Italy?**
-答：Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship with annual caps. EU citizens can use freedom of movement.
-
-**问：Is there career progression for cleaners?**
-答：Yes, advancement to cleaning supervisor, property manager, or specialization in industrial cleaning, carpet cleaning, etc., via training.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

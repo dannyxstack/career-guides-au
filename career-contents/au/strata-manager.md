@@ -1,65 +1,96 @@
-# 业主立案法团经理（Strata Manager）职业分析 · 澳大利亚
+# Strata Manager — career analysis · Australia
 
-**职业代码：612115 – Strata Manager。**
+**Occupation code: 612115 (ANZSCO)**
 
-业主立案法团经理(Strata/Body Corporate Manager)管理公寓与综合楼盘的业主立案法团：召开会议、收取与管理公共基金、安排维修与保险、处理合规，是澳洲(及新西兰)特有的 strata title 制度下的岗位，各州持牌，需求随公寓化上升，非技术移民职业。
+Strata/Body Corporate Managers manage owners corporations for apartment blocks and complexes: convene meetings, collect and manage levies, arrange maintenance and insurance, handle compliance. This is a unique role under Australia's (and New Zealand's) strata title system, licensed by state, with demand rising alongside apartment living, not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 各州 Strata Managing Agent 牌照培训 | 数月 | $1,500~$6,000（强制持牌） |
-| Certificate IV / 物业相关（常见） | 0~1年 | $2,000~$8,000（加分） |
+| Training for state Strata Managing Agent licence | Several months | $1,500~$6,000 (Mandatory licensing) |
+| Certificate IV / Property-related (common) | 0–1 year | $2,000~$8,000 (Bonus) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Strata Managing Agent Licence / 各州注册 | 各州 Fair Trading / 监管机构 | 必备 | 强制持牌 |
-| Certificate IV in Strata Community Management（部分州） | RTO | 可选 | 持牌要求 |
+| Strata Managing Agent Licence / State registration | State Fair Trading / regulatory bodies | Required | Mandatory licensing |
+| Certificate IV in Strata Community Management (some states) | RTO | Optional | License requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 15,000。城市公寓化与楼盘合规要求推动稳定需求，持牌且擅长财务与冲突处理者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Urban apartment living and building compliance requirements drive stable demand; those licensed and skilled in finance and conflict resolution are in higher demand.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国 |
-| Indeed | 1,000~2,000 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 / 助理（0-3年） | $70,000~$85,000 | Entry |
-| 中级（3-8年） | $85,000~$110,000 | Experienced |
-| 资深 / Portfolio | $110,000~$150,000 | Senior |
+| Median salary | $78,208 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior / Assistant (0-3 years) | $70,000~$85,000 | Entry |
+| Mid-level (3–8 years) | $85,000~$110,000 | Experienced |
+| Senior / Portfolio | $110,000~$150,000 | Senior |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：助理→Strata Manager→高级/Portfolio Manager；管理楼盘组合规模与合规经验决定收入。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance document processing and compliance monitoring, but statutory decisions, interpersonal coordination, and legal responsibilities cannot be automated; total positions may remain stable, but low-level administrative roles could be compressed.
+
+Pathway: Assistant → Strata Manager → Senior/Portfolio Manager; portfolio size and compliance experience determine income.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate meeting minutes, financial reports, and compliance checklists
+- Automate property fee reminders, generate overdue notices and reports
+- AI reviews repair quotes and matches historical average prices and market prices
+- Automatically send insurance renewal reminders and generate policy summaries
+- AI Chatbot Responses to Common Owner Questions (e.g., Trash Disposal Times)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of financial data and early warning of budget deviations to enhance financial planning
+- Intelligent search for regulatory cases, quickly respond to owner inquiries and compliance disputes
+- Real-time dashboard monitoring maintenance progress and expenses for multiple properties
+- AI generates personalized homeowner meeting briefs to improve communication efficiency
+- Predicting insurance premium changes based on historical data to optimize coverage plans
+
+**Human moat:**
+
+- Property dispute mediation and complex owner relationship management
+- Make legally liable judgments based on regulations such as the Strata Titles Act
+- Long-term strategic planning (e.g., allocation of major repair funds)
+- On-site inspection and repair quality acceptance (requires physical presence)
+- Emergency crisis handling (e.g. fire, burst pipe)
+
+**Skills to build:**
+
+- Master mainstream property management software (such as StrataMax, M3)
+- Learn data analytics basics (advanced Excel + SQL)
+- Study your state's strata property law and compliance requirements
+- Communication and conflict mediation certification courses
+- Project Management Certification (e.g., PMP)
+- Understanding AI tools (e.g., ChatGPT for document processing)
+
+**Key growth areas:**
 
 - Strata Title Growth
 - Apartment Living
@@ -68,57 +99,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学业主立案法团经理？**
-- 擅长财务、组织与冲突处理的人
-- 想进入物业/房地产相关稳定岗者
-
-**谁不适合学业主立案法团经理？**
-- 不愿处理业主纠纷与会议者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in finance, organisation, and conflict resolution
+- Individuals seeking stable positions in property/real estate
+
+**Who is not suited**
+- Those unwilling to handle owner disputes and meetings
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: How much does an Owners Corporation Manager earn in Australia?**
+A: Approx. AUD $70k-$150k, higher in Sydney and large project portfolios.
+
+**Q: Can a Strata Manager immigrate via skilled migration?**
+A: No, it is a locally licensed occupation and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-业主立案法团经理属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：业主立案法团经理澳洲薪资多少？**
-答：约 AUD $7万~$15万，悉尼及大楼盘组合更高。
-
-**问：Strata Manager 能技术移民吗？**
-答：不能，属于本地持牌职业，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

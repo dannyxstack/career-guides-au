@@ -1,61 +1,96 @@
-# Artists（Artists）职业分析 · UK
+# Artists — career analysis · United Kingdom
 
-**职业代码：3411 – Artists。**
+**Occupation code: 3411 (SOC)**
 
-Artists create artistic works using appropriate techniques, materials and media; design artwork and illustrations; and restore damaged pieces of art.
+Artists create artworks using appropriate techniques, materials and media; design illustrations and art products; and restore damaged artworks.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（BA） | 3年 | $9,250~$18,000（学费因大学而异，国际学生更高） |
-| 硕士（MA） | 1-2年 | $10,000~$25,000（部分奖学金可降低费用） |
+| Bachelor of Arts (BA) | 3 years | $9,250~$18,000 (Tuition fees vary by university; higher for international students) |
+| Master of Arts (MA) | 1-2 years | $10,000~$25,000 (Partial scholarships can reduce costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美术学士 | 英国大学 | 可选 | 通常要求，但非强制性 |
-| 专业作品集 | 自我证明 | 可选 | 雇主和委托方看重作品集 |
-| 艺术修复认证 | Icon（保护协会） | 可选 | 从事修复工作可能需要 |
+| Bachelor of Fine Arts | UK universities | Optional | Usually required, but not mandatory |
+| Professional Portfolio | Self-declaration | Optional | Employers and clients value portfolios. |
+| Art Restoration Certification | Icon (Protection Association) | Optional | Repair work may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。英国艺术市场持续活跃，但全职岗位竞争激烈。数字艺术与公共艺术项目需求增长，政府文化资助提供部分机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The UK art market remains active, but competition for full-time positions is fierce. Demand for digital art and public art projects is growing, with government cultural funding providing some opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 自由职业者收入不稳定 |
-| 中级（3-8年） | $25,000~$40,000 | 受雇于画廊或机构 |
-| 高级（8年以上） | $40,000~$70,000 | 知名艺术家或高级策展职位 |
+| Median salary | $47,763 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $15,000~$25,000 | Unstable income for freelancers |
+| Mid-level (3–8 years) | $25,000~$40,000 | Employed by galleries or institutions |
+| Senior (8+ years) | $40,000~$70,000 | Renowned artist or senior curatorial positions |
+| average salary | $43,613 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展通常从助理或自由创作者起步，积累作品后可通过展览、委托或画廊代理提升知名度。部分艺术家转向艺术教育、策展或艺术管理。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI's impact on artists is mixed: generative AI can quickly produce visual content, reducing entry-level jobs in commercial illustration and design; but it also amplifies creative exploration and digital art capabilities, spawning new tools and expressions.
+
+Career development usually starts as an assistant or freelance creator; after building a portfolio, one can gain recognition through exhibitions, commissions, or gallery representation. Some artists move into art education, curation, or art management.
+
+**Tasks most exposed to AI:**
+
+- Generate commercial illustration drafts and assets
+- Perform standardized background and texture painting.
+- Produce decorative patterns in bulk according to specified style
+- Basic photo restoration and colour correction
+
+**Where AI augments the role:**
+
+- Use AI to quickly generate inspiration sketches and mood boards
+- Using AI tools to explore different artistic styles and color schemes
+- Combines AI enhancement and restoration of details in historical paintings.
+- Generate variants through AI to iterate creative directions
+- Using AI to assist in creating surreal or abstract artworks
+
+**Human moat:**
+
+- Original artistic concepts and unique aesthetic judgment
+- Emotional expression and narrative depth
+- Craftsmanship and material texture control
+- Interpersonal communication and understanding with clients/curators
+- Art criticism and cultural interpretation skills
+
+**Skills to build:**
+
+- Proficient in using AI generation tools like Midjourney, DALL·E
+- AI prompt engineering and style control
+- Digital painting and 3D modeling software (e.g., Procreate, Blender)
+- Art history and contemporary art theory
+- Project management and client communication
+- Basic programming (e.g., Python automation workflows).
+
+**Key growth areas:**
 
 - Digital Art
 - Public Art
@@ -64,66 +99,68 @@ Artists create artistic works using appropriate techniques, materials and media;
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Global Talent（Global Talent Visa） | 适用于在艺术领域有杰出成就或潜力的个人，无需雇主担保，可自由工作 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请，有效期2年，允许在英国工作或寻找工作 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 理论上可行，但雇主需证明岗位无法本地填补，艺术家岗位通常不符合薪资门槛 |
+| Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or potential in the arts, no employer sponsorship required, can work freely |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply; valid for 2 years, allows working or seeking work in the UK |
+| Subclass Skilled Worker (Skilled Worker Visa) | Theoretically feasible, but employers must prove the position cannot be filled locally; artist roles typically don't meet salary thresholds |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Artists？**
-- 有强烈创作热情和独特艺术风格的人
-- 能够接受不确定收入和竞争压力的人
-- 善于自我营销和建立人脉的人
+**Who is suited**
+- People with strong creative passion and unique artistic style
+- Those who can accept uncertain income and competitive pressure
+- People skilled at self-marketing and networking
 
-**谁不适合学Artists？**
-- 追求稳定收入和职业保障的人
-- 不愿长期从事自由职业或兼职工作的人
+**Who is not suited**
+- People seeking stable income and job security
+- For those unwilling to engage in long-term freelancing or part-time work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of an artist?**
+A: Earnings for UK artists vary widely; full-time employed artists earn approx. £25,000–40,000 per year, but most artists are self-employed and may earn below £20,000.
+
+**Q: What visa can an artist use to immigrate to the UK?**
+A: The most promising is the Global Talent visa, which does not require employer sponsorship. The Skilled Worker visa is less applicable due to the high salary threshold. The Graduate visa is only available to UK graduates.
+
+**Q: Do you need a formal degree to become an artist?**
+A: Not mandatory, but a degree in fine arts or related fields helps improve skills and job prospects; portfolio and practical experience often outweigh formal education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 难（★★★★☆） |
-
-Artists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of an artist?**
-答：Income varies widely; employed artists earn around £25,000-£40,000, but many are freelance and earn below £20,000.
-
-**问：Which visa can an artist use to migrate to the UK?**
-答：The Global Talent Visa is most suitable, requiring no sponsorship. Skilled Worker Visa is rarely viable due to salary thresholds. Graduate Visa for UK graduates.
-
-**问：Do artists need formal qualifications?**
-答：Not mandatory, but a degree in fine arts can help. Portfolio and experience are often more important.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

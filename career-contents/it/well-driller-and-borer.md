@@ -1,58 +1,91 @@
-# Well Driller and Borer（Well Driller and Borer）职业分析 · IT
+# Well Driller and Borer — career analysis · Italy
 
-**职业代码：8113 – Well Driller and Borer。**
+**Occupation code: 8113 (ISCO08)**
 
-Operate drilling equipment to bore wells, piles, or geotechnical surveys, often for water, geothermal, or construction foundations, requiring physical strength and safety awareness.
+Operate drilling equipment for drilling, piling, or exploration, typically for water wells, geothermal, or building foundations; requires physical strength and safety awareness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2-3年（职业高中或学徒） | —（公立职业教育通常免费，私人课程费用） |
-| 在职培训 | 1-2年 | —（雇主提供培训，可能需自费安全证书） |
+| Vocational training | 2-3 years (vocational high school or apprenticeship) | $0~$10,000 (Public vocational education is usually free, while private course fees apply) |
+| On-the-job training | 1-2 years | $0~$2,000 (Employer provides training, may need to pay for safety certificates at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作员安全证书 | INAIL或地区安全机构 | 必备 | 强制性的安全培训，确保钻机操作合规 |
-| 钻机操作资格 | 地区职业培训中心 | 可选 | 非强制，但雇主偏爱持证者 |
+| Operator safety certificate | INAIL or regional safety authority | Required | Mandatory safety training to ensure compliance with drilling rig operations |
+| Drill operation qualification | Regional vocational training center | Optional | Not mandatory, but employers prefer certified candidates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。意大利建筑和可再生能源项目（如地热）推动需求，但行业受经济周期影响，就业稳定但增长温和。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Driven by construction and renewable energy projects (e.g., geothermal) in Italy, but the industry is affected by economic cycles; employment is stable but growth is moderate.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常包括津贴 |
-| 中级（3-7年） | $28,000~$35,000 | 经验丰富的钻工，可操作复杂设备 |
-| 高级（7年以上） | $35,000~$45,000 | 监督级别，负责项目规划和团队管理 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, usually including allowances |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced driller capable of operating complex equipment |
+| Senior (7+ years) | $35,000~$45,000 | Supervisory level, responsible for project planning and team management |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从助理钻工起步，积累经验后晋升为高级钻工或监督员，部分可转向地质勘探或项目管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Drilling rig operators face automation threats for operational tasks, but AI enhances geological analysis and equipment diagnostics, shifting job requirements from physical to technical monitoring.
+
+Start as an assistant driller, gain experience to advance to senior driller or supervisor, with some transitioning into geological exploration or project management.
+
+**Tasks most exposed to AI:**
+
+- Manual adjustment of drilling speed and pressure is taken over by AI adaptive control systems
+- Experience-based judgment of strata changes is replaced by real-time data analysis
+- Record drilling logs and parameters, replaced by automated sensors and IoT.
+- Repetitive maintenance checks (e.g., lubrication, bolt tightening) performed by robots
+
+**Where AI augments the role:**
+
+- AI analyzes geological data to assist in optimizing drilling paths and depths
+- Drone and camera AI identification of well site safety risks
+- Machine learning predicts equipment failures, reducing unplanned downtime
+- Augmented Reality (AR) remote guidance for complex operations
+
+**Human moat:**
+
+- On-site emergency decision-making and troubleshooting ability
+- Adaptability assessment for complex terrain and abnormal geology
+- Team coordination and safety leadership responsibilities
+- Fine manual skills in equipment repair
+
+**Skills to build:**
+
+- Geological data analysis software (e.g., Leapfrog)
+- PLC and automation control system operation
+- Drone operation and AI image analysis
+- Equipment health monitoring and predictive maintenance
+- Basic programming (Python/R) for customized reports
+- Safety and compliance management (e.g., ISO 45001)
+
+**Key growth areas:**
 
 - Geothermal energy
 - Infrastructure projects
@@ -61,68 +94,67 @@ Operate drilling equipment to bore wells, piles, or geotechnical surveys, often 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟工人，需本科或同等学历，年薪门槛约34,000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，雇主需证明无法在欧盟内招聘。 |
-| Subclass 自由流动（EU Freedom of Movement） | 欧盟公民可自由工作，无需签证。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU workers, requiring a bachelor's degree or equivalent, with an annual salary threshold of approximately 34,000 euros. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers; employers must prove they cannot recruit within the EU. |
+| Subclass Free Movement (EU Freedom of Movement) | EU citizens can work freely without a visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Well Driller and Borer？**
-- 喜欢户外体力工作、适应各种天气
-- 注重安全、细心负责
-- 愿意学习机械操作和维修技能
-
-**谁不适合学Well Driller and Borer？**
-- 无法耐受重体力劳动或高空作业
-- 对噪声和粉尘环境敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work and is adaptable to all weather conditions
+- Safety-focused, careful, and responsible
+- Willing to learn mechanical operation and maintenance skills
+
+**Who is not suited**
+- Unable to tolerate heavy physical labor or working at heights
+- Sensitive to noise and dust environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for a driller?**
+A: Junior: approx. €22,000-28,000, mid-level: €30,000-35,000, senior: up to €45,000, but depends on project experience and location.
+
+**Q: How can non-EU citizens obtain a work visa for a drilling rig operator in Italy?**
+A: Eligible via Decreto Flussi quota work visa, requiring employer sponsorship; or apply for EU Blue Card (requires higher education and high salary).
+
+**Q: What certifications do Italian drilling rig operators need?**
+A: Mandatory safety certificate (INAIL); non-mandatory but preferred rig operation qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Well Driller and Borer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for well drillers?**
-答：Entry-level earns €22,000-28,000, mid-level €28,000-35,000, senior up to €45,000, depending on experience and location.
-
-**问：How can non-EU citizens get a work visa for well drilling in Italy?**
-答：Apply for Decreto Flussi quota work visa with employer sponsorship, or EU Blue Card requiring higher education and salary threshold.
-
-**问：What certifications are required for well drillers in Italy?**
-答：Mandatory safety certificate (INAIL) and optional but preferred drilling operation qualification.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Sales and Marketing Managers（Sales and Marketing Managers）职业分析 · IT
+# Sales and Marketing Managers — career analysis · Italy
 
-**职业代码：1221 – Sales and Marketing Managers。**
+**Occupation code: 1221 (ISCO08)**
 
-Develop and implement sales and marketing strategies, manage teams, and drive business growth in various industries.
+Responsible for developing and executing sales and marketing strategies, managing teams, driving business growth; a core management role.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（学士） | 3年（本科） | $1,000~$6,000（公立大学学费低，私立较高） |
-| 硕士 | 2年（硕士） | $3,000~$15,000（MBA或市场营销硕士常见） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$6,000 (Public universities have low tuition; private ones are higher) |
+| Master's degree | 2 years (Master's) | $3,000~$15,000 (MBA or Marketing master's degree common) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 通常不要求特定执照，但相关学位和经验必备 |
-| 专业证书（如Digital Marketing Certification） | Google, HubSpot等 | 可选 | 可提升竞争力 |
+| No mandatory certification | None | Optional | No specific license is usually required, but relevant degree and experience are essential |
+| Professional certifications (e.g., Digital Marketing Certification) | Google, HubSpot, etc. | Optional | Can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 50,000。意大利经济逐步复苏，数字化营销和出口导向型企业需求增加，销售和市场经理岗位预计稳步增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. Italy's economy is gradually recovering, with increased demand in digital marketing and export-oriented enterprises. Sales and marketing manager positions are expected to grow steadily.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 税前年薪，视公司和行业而定 |
-| 中级（3-7年） | $45,000~$70,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $70,000~$120,000 | 税前年薪，总监级别更高 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$45,000 | Pre-tax annual salary, depending on company and industry |
+| Mid-level (3–7 years) | $45,000~$70,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $70,000~$120,000 | Pre-tax annual salary, and director rank higher |
+| average salary | $63,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从销售代表或市场专员晋升至经理，再至总监或副总裁；积累行业经验、掌握数字营销技能是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of sales and marketing managers is being profoundly reshaped by AI tools: automating data analysis and routine tasks, but strategic decision-making, interpersonal trust, and team leadership remain human moats — overall a mixed outlook.
+
+Can advance from sales representative or marketing specialist to manager, then director or vice president; gaining industry experience and digital marketing skills is key.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate client reports and market analysis PPTs
+- Automated email marketing and social media scheduling
+- Handle initial customer inquiries through AI chatbots
+- Automatically generate sales forecasts and inventory recommendations
+- Using AI tools to automatically write standardized marketing copy
+
+**Where AI augments the role:**
+
+- Using AI to analyze customer behavior data to optimize marketing strategies
+- Automating complex data visualization to support decision-making through AI tools
+- Use AI recommendation systems to personalize customer communication and improve conversion rates.
+- Uses AI to simulate marketing campaign results, quickly iterating plans
+- Using AI for real-time competitive monitoring and market trend prediction
+
+**Human moat:**
+
+- Develop long-term brand strategy and business growth vision.
+- Build and maintain key client relationships and trust
+- Cross-departmental coordination and leading teams through uncertainty
+- Making creative business decisions in complex situations
+- Managing conflict and crisis PR requires empathy and judgment.
+
+**Skills to build:**
+
+- Master AI marketing analytics tools (e.g., HubSpot, Salesforce Einstein)
+- Learn Python or SQL for data-driven decision making
+- Familiar with marketing automation platforms (e.g., Marketo, Pardot)
+- Develop data storytelling and visualization skills
+- Learn AI ethics and compliance knowledge
+- Enhance agile project management and innovative thinking
+
+**Key growth areas:**
 
 - Digital Marketing
 - E-commerce
@@ -63,69 +99,68 @@ Develop and implement sales and marketing strategies, manage teams, and drive bu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需年薪≥约28,000欧元（2024年标准），合同至少1年。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非配额限制职业，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主向移民局申请工作许可，审批后办理工作签证。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary ≥ ~€28,000 (2024 standard), contract at least 1 year. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-occupation-capped occupations, requires employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | The employer applies to the immigration department for a work permit, and upon approval, a work visa is issued. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales and Marketing Managers？**
-- 具备领导力和沟通能力，喜欢策略规划的人
-- 对市场趋势敏感，善于数据分析的人
-- 有销售或市场经验，希望晋升管理层的人
-
-**谁不适合学Sales and Marketing Managers？**
-- 不喜欢高压和业绩考核的人
-- 不善于团队协调和客户沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with leadership and communication skills who enjoy strategic planning
+- Those sensitive to market trends and skilled in data analysis
+- People with sales or marketing experience looking to move into management.
+
+**Who is not suited**
+- People who dislike high pressure and performance reviews
+- Not good at team coordination and client communication.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Sales and Marketing Manager in Italy?**
+A: Entry-level about €30,000-45,000, mid-level €45,000-70,000, senior €70,000-120,000 (pre-tax annual salary).
+
+**Q: How can non-EU citizens obtain a work visa for Sales and Marketing Manager in Italy?**
+A: Accessible via EU Blue Card (requires high salary) or Decreto Flussi quota work visa, both requiring employer sponsorship.
+
+**Q: What is the career development path for sales and marketing managers?**
+A: From sales representative or marketing officer to manager, then to director or vice president, requiring experience and digital marketing skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sales and Marketing Managers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Sales and Marketing Managers in Italy?**
-答：Entry-level: €30,000-45,000; Mid-level: €45,000-70,000; Senior: €70,000-120,000 (gross annual).
-
-**问：How can non-EU citizens obtain a work visa for Sales and Marketing Managers in Italy?**
-答：Via EU Blue Card (requires high salary) or Decreto Flussi quota work visa, both requiring employer sponsorship.
-
-**问：What is the career progression for Sales and Marketing Managers?**
-答：Start as sales rep or marketing specialist, advance to manager, then director or VP, requiring experience and digital skills.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

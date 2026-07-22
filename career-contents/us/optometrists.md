@@ -1,58 +1,94 @@
-# Optometrists（Optometrists）职业分析 · 美国
+# Optometrists — career analysis · United States
 
-**职业代码：29-1041 – Optometrists。**
+**Occupation code: 29-1041 (SOC)**
 
-Optometrists diagnose, manage, and treat conditions of the human eye and visual system, including vision exams, prescribing corrective lenses, and providing therapy.
+Optometrists diagnose, manage, and treat diseases of the human eye and visual system, including examining vision, prescribing corrective lenses, and providing treatment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科预科 | 4年 | $40,000~$150,000（公立大学费用较低） |
-| 验光博士（OD） | 4年 | $80,000~$200,000（私立学校更高） |
+| Undergraduate foundation / Pre-university | 4 years | $40,000~$150,000 (Lower tuition at public universities) |
+| Doctor of Optometry (OD) | 4 years | $80,000~$200,000 (Private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 验光博士（OD） | 认证验光学校 | 必备 | 必须从认证项目毕业 |
-| 州执照 | 州验光委员会 | 必备 | 通过NBEO考试及州考 |
+| Doctor of Optometry (OD) | Accredited optometry school | Required | Must graduate from an accredited program |
+| State license | State Optometry Board | Required | Pass NBEO exam and state exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 42,000。美国劳工统计局预计2023-2033年验光师就业增长约10%，快于平均水平，受老龄化人口和视力保健需求驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 42,000. The US Bureau of Labor Statistics projects employment growth for Optometrists at about 10% from 2023 to 2033, faster than average, driven by aging population and vision care demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 受雇于诊所或零售 |
-| 中级（4-9年） | $110,000~$140,000 | 经验丰富或合伙人 |
-| 高级（10年以上） | $140,000~$190,000 | 私人执业或专科 |
+| Median salary | $136,570 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $80,000~$110,000 | Employed in clinic or retail |
+| Intermediate (4-9 years) | $110,000~$140,000 | Experienced or partner |
+| Senior (10+ years) | $140,000~$190,000 | Private practice or specialty |
+| average salary | $141,550 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径包括从初级验光师到高级合伙人或开设私人诊所，也可专攻儿科、老年或低视力康复等领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
+
+Career paths include from junior optometrist to senior partner or opening a private practice, also specializing in pediatrics, geriatrics, or low vision rehabilitation.
+
+**Tasks most exposed to AI:**
+
+- Objective refraction data collection in routine refractive exams (auto-refractor result interpretation)
+- Basic retinal image screening and grading (AI automatically labels abnormalities)
+- Patient appointment, medical record entry and other administrative paperwork (chatbots and NLP)
+- Generation of preliminary diagnostic reports for common eye diseases (AI-assisted diagnostic system)
+- Calculation and optimization of eyeglass/contact lens prescription parameters
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of OCT, visual field and other imaging data in complex case diagnosis to improve accuracy
+- Remote refraction and electronic prescription transfer to expand service scope and efficiency
+- Patient education: AI generates personalized visual health reports and follow-up reminders
+- Medication management: AI supports prescription interaction checks and efficacy predictions for eye drops
+- Clinical research: using AI to mine epidemiological trends from electronic medical records
+
+**Human moat:**
+
+- Final prescribing authority and legal responsibility (regulated by AHPRA)
+- Doctor-patient communication and trust building (complex empathy and education)
+- Clinical decision-making and experience-based judgment for atypical/multimorbidity cases
+- Surgical/therapeutic procedures (e.g., orthokeratology fitting, low vision rehabilitation)
+- Interdisciplinary collaboration (referral decisions with GPs and ophthalmologists)
+
+**Skills to build:**
+
+- Operation and interpretation of AI eye diagnosis tools (e.g., IDx-DR, Topcon AI)
+- Use of telemedicine platforms and electronic health record management
+- Statistical data analysis (Python/R) for clinical quality assessment
+- Doctor-patient communication and digital patient education skills
+- Basic programming (automated reporting and workflow optimization)
+- Regulatory updates tracking (expansion of therapeutic optometry prescribing rights in Australia)
+
+**Key growth areas:**
 
 - Aging population
 - Telemedicine
@@ -61,65 +97,64 @@ Optometrists diagnose, manage, and treat conditions of the human eye and visual 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于企业或诊所雇用的验光师 |
-| Subclass EB-2（EB-2 Advanced Degree） | 通过PERM劳工证申请绿卡 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民可申请 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common for optometrists employed by corporations or clinics |
+| Subclass EB-2 (EB-2 Advanced Degree) | Apply for a green card through the PERM labor certification |
+| Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens may apply. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optometrists？**
-- 对视觉科学有浓厚兴趣者
-- 细致耐心、善于沟通者
-- 希望拥有稳定职业且高收入者
-
-**谁不适合学Optometrists？**
-- 不喜欢长时间面对患者者
-- 对医学认证过程缺乏耐心者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in vision science
+- Those who are meticulous, patient, and good communicators
+- People seeking stable careers with high income
+
+**Who is not suited**
+- Those who dislike long patient-facing hours
+- Those lacking patience with the medical certification process.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for optometrists?**
+A: Entry-level approx. US$80,000-110,000, mid-level US$110,000-140,000, senior US$140,000-190,000, private practitioners may earn more.
+
+**Q: How can foreigners immigrate to the US as optometrists?**
+A: Common pathway: H-1B work visa (employer-sponsored) then EB-2 green card (requires PERM). Canadian or Mexican citizens can use TN visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Optometrists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for optometrists?**
-答：Entry-level: $80k-$110k; Mid-level: $110k-$140k; Senior: $140k-$190k; private practice may earn more.
-
-**问：How can foreigners immigrate to the US as optometrists?**
-答：Common path: H-1B visa (employer-sponsored) then EB-2 green card via PERM. Canadian/Mexican citizens may use TN status.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

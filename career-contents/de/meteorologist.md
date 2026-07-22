@@ -1,60 +1,96 @@
-# Meteorologist（Meteorologist）职业分析 · DE
+# Meteorologist — career analysis · Germany
 
-**职业代码：4214 – Meteorologist。**
+**Occupation code: 4214 (KldB)**
 
-Meteorologists study atmospheric phenomena, conduct weather forecasting, climate analysis, and environmental monitoring, serving sectors such as research, aviation, energy, and agriculture. In Germany, they typically work at the German Weather Service, universities, or private companies.
+Meteorologists study atmospheric phenomena, conduct weather forecasting, climate analysis and environmental monitoring, serving sectors such as research, aviation, energy and agriculture. In Germany, meteorologists typically work for the Federal Meteorological Service, universities or private enterprises.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（全日制） | —（德国公立大学本科几乎免学费，仅收学期杂费（约150-400欧元/学期）） |
-| 硕士 | 2年（全日制） | —（硕士阶段同样基本免学费，部分硕士项目可能收学费） |
+| Bachelor's degree | 3 years (full-time) | $0~$1,500 (German public universities are almost tuition-free for undergraduates, only charging semester fees (approx. 150-400 EUR per semester)) |
+| Master's degree | 2 years (full-time) | $0~$1,500 (Master's programs are also generally tuition-free, though some may charge tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 气象学或相关专业大学学位（硕士或博士） | 德国高校 | 必备 | 通常要求硕士以上学历，博士在科研岗位更受欢迎 |
-| 资质认证（Anerkennung） | 德国联邦气象局或相关行业协会 | 必备 | 第三国学历需通过认证，证明与德国学位等值 |
+| University degree in meteorology or related field (Master's or PhD) | German universities | Required | Usually requires a master's degree or higher; PhD preferred for research positions |
+| Qualification recognition (Anerkennung) | German Federal Meteorological Service or relevant industry association | Required | Qualifications from third countries must be certified as equivalent to German degrees |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。随着气候变化加剧和极端天气事件增多，气象学家的需求稳中有升。德国联邦气象局（DWD）和私营气象服务公司持续招聘，尤其在可再生能源（风能、太阳能）领域，精准预报需求旺盛。就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. With climate change intensifying and extreme weather events increasing, demand for meteorologists is steadily rising. The German Weather Service (DWD) and private weather service companies are continuously hiring, especially in renewable energy (wind, solar) where accurate forecasting is in high demand. Job prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 公立机构按TVöD标准，约E13级起薪 |
-| 中级（3-8年） | $50,000~$65,000 | 有经验后可升至E14级或私营公司更高 |
-| 高级（8年以上） | $65,000~$85,000 | 管理层或资深专家可达E15级或更高 |
+| Median salary | $63,144 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Public institutions follow the TVöD pay scale, starting at approximately E13 level |
+| Mid-level (3–8 years) | $50,000~$65,000 | With experience, promotion to E14 level or higher roles in private companies is possible. |
+| Senior (8+ years) | $65,000~$85,000 | Management or senior experts can reach level E15 or higher |
+| average salary | $70,008 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级气象学家可发展为高级预报员、研究组长或部门主管。通过攻读博士学位可进入高校研究，或转向气候咨询、风险管理等方向。私营部门如能源、保险业也提供管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI significantly enhances meteorologists' capabilities, especially in data processing and pattern recognition, but critical decisions and legal responsibilities still rely on human professional judgment.
+
+Junior meteorologists can progress to senior forecasters, research team leaders, or department heads. Pursuing a PhD leads to university research or roles in climate consulting and risk management. The private sector, including energy and insurance, offers management positions.
+
+**Tasks most exposed to AI:**
+
+- Routine meteorological data collection and preliminary quality control
+- automated generation of standard weather forecasts based on numerical model output
+- Automatic generation and basic analysis of weather charts
+- Automatic generation of climate data statistical reports
+- Automated triggering and issuance of simple weather alerts
+
+**Where AI augments the role:**
+
+- Improving extreme weather prediction accuracy using machine learning and ensemble forecasting.
+- Quickly process multi-source big data such as satellites and radar through AI to discover new weather patterns
+- AI assists in diagnosing complex weather system evolution, improving forecasters' judgment efficiency.
+- Automatically generate personalized industry forecasts (e.g., aviation, energy, agriculture).
+- Short-term climate prediction and impact assessment based on deep learning
+
+**Human moat:**
+
+- Deep understanding and creative interpretation of the physical mechanisms of weather systems
+- Making high-risk decisions under uncertainty (e.g., whether to issue disaster warnings)
+- Coordination, communication and accountability with departments such as emergency management and aviation dispatch
+- Breakthrough climate research and new theory proposals
+- Review and correct the physical plausibility of AI predictions
+
+**Skills to build:**
+
+- Python/R Data Analysis and Machine Learning (TensorFlow, PyTorch)
+- Meteorological big data processing (NetCDF, GRIB, satellite/radar data)
+- Use and debugging of numerical weather prediction models (WRF, ICON)
+- Application of AI explainability methods in meteorology
+- Cross-disciplinary knowledge of meteorology and industry (e.g., aviation meteorology, energy meteorology)
+- Data visualisation and decision support system setup
+
+**Key growth areas:**
 
 - Climate Change
 - Renewable Energy
@@ -63,70 +99,69 @@ Meteorologists study atmospheric phenomena, conduct weather forecasting, climate
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历人才，年薪门槛约43,800欧元（2024年），紧缺专业更低 |
-| Subclass Skilled Worker（Skilled Immigration Act Visa） | 适用于认可的职业资格，需雇佣合同，无高薪门槛 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，适合尚未有工作合同但满足条件的申请人 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需证明足够财力，适合来德寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated talents, with an annual salary threshold of approximately €43,800 (2024), lower for shortage occupations |
+| Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable for recognized professional qualifications; requires employment contract; no high salary threshold |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job seeker visa, suitable for applicants who do not yet have a job contract but meet the criteria. |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires proof of sufficient funds, suitable for those coming to Germany for work |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meteorologist？**
-- 对大气科学和天气现象有浓厚兴趣，喜欢数据分析与建模
-- 具备扎实的数学、物理和计算机基础
-- 愿意在科研或技术密集型环境中工作
-
-**谁不适合学Meteorologist？**
-- 不擅长长时间面对电脑进行数值模拟与编程
-- 对野外或台站工作环境不适应
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in atmospheric science and weather phenomena, enjoys data analysis and modeling
+- Possess a solid foundation in mathematics, physics, and computer science
+- Willing to work in a research or technology-intensive environment
+
+**Who is not suited**
+- Not good at prolonged computer work for numerical simulation and programming
+- Not suitable for field or station work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of meteorologists in Germany?**
+A: Public institutions (e.g., DWD) follow the TVöD standard, with starting salaries around €45,000/year for master's graduates and €50,000/year for PhDs. Private companies may offer higher, with senior positions reaching over €80,000/year.
+
+**Q: How can meteorologists from third countries immigrate to Germany?**
+A: Requires a meteorology degree recognised in Germany (must be verified through Anerkennung), then find an employer sponsor to apply for an EU Blue Card or skilled migration visa. German language skills usually need B1 or above.
+
+**Q: What are the career paths for meteorologists in Germany?**
+A: Main areas include weather forecasting, climate research, renewable energy (wind/solar) forecasting, environmental impact assessment, and climate risk management in insurance and finance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Meteorologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for meteorologists in Germany?**
-答：In public institutions like DWD, salaries follow TVöD, starting around €45,000/year for master's graduates and €50,000 for PhDs. Private companies may offer higher, with senior positions exceeding €80,000/year.
-
-**问：How can a meteorologist from a third country immigrate to Germany?**
-答：You need a recognized meteorology degree (via Anerkennung), then find an employer to sponsor an EU Blue Card or skilled immigration visa. German language proficiency of B1 or higher is usually required.
-
-**问：What career paths are available for meteorologists in Germany?**
-答：Main paths include weather forecasting, climate research, renewable energy (wind/solar) forecasting, environmental impact assessment, and climate risk management in insurance and finance.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

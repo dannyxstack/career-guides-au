@@ -1,139 +1,165 @@
-# 体育教练（Sports Coach or Instructor）职业分析 · 澳大利亚
+# Sports Coach or Instructor — career analysis · Australia
 
-**职业代码：452317 – Sports Coach or Instructor。**
+**Occupation code: 452317 (ANZSCO)**
 
-体育教练训练并指导运动员或队伍提升竞技水平，涵盖各类球类与运动项目，工作于俱乐部、学校、学院与职业队。该职业在澳洲 CSOL 清单上，可走雇主担保移民；薪资随级别差异大，职业队与高水平教练收入较高。
+Sports coaches train and guide athletes or teams to improve competitive performance, covering various ball sports and athletic events, working at clubs, schools, colleges and professional teams. This occupation is on the Australian CSOL list and eligible for employer-sponsored migration; salary varies greatly by level, with professional team and high-level coaches earning higher incomes.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 专项教练认证（各运动协会 Level 1/2/3） | 数周~数年（逐级） | $200~$5,000（各运动项目国家协会的教练认证体系） |
-| 运动科学/体育相关学位（高水平方向，可选） | 3年 | $30,000~$90,000（职业队/学院高级岗位常见） |
-| 急救/CPR + WWCC | 数天 | $200~$600（执业与教未成年人的常见要求） |
+| Specialist coaching certifications (sport association Level 1/2/3) | Weeks to years (progressive) | $200~$5,000 (National sports associations' coach certification systems) |
+| Degree in sports science / physical education (for high-level pathway, optional) | 3 years | $30,000~$90,000 (Common for senior positions in professional teams/academies) |
+| First aid/CPR + WWCC | A few days | $200~$600 (Common requirements for working with minors and practicing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家运动协会教练认证（NCAS 等） | 各运动项目协会 | 必备 | 执教资质；级别决定可执教层次 |
-| VETASSESS 技能评估（雇主担保） | VETASSESS | 可选 | 482 等提名常需职业技能评估 |
+| National Coaching Accreditation Scheme (NCAS etc.) | Various sports associations | Required | Teaching qualifications; level determines teaching scope |
+| VETASSESS skills assessment (employer sponsorship) | VETASSESS | Optional | 482 etc. nominations often require skills assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 —。体育产业与青少年体育培训稳定增长；高水平与专项教练需求较好。该职业在 CSOL 上，符合条件的俱乐部/学院可通过 482 担保海外教练。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. The sports industry and youth sports training are growing steadily; demand for high-level and specialized coaches is good. This occupation is on the CSOL, and eligible clubs/academies can sponsor overseas coaches via 482.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级/社区教练 | $50,000~$65,000 | 兼职常见 |
-| 全职专项教练 | $65,000~$95,000 | 俱乐部/学院 |
-| 高水平/职业队教练 | $95,000~$200,000 | 职业与精英方向溢价显著 |
+| Median salary | $74,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior/Community Coach | $50,000~$65,000 | Commonly part-time |
+| Full-time specialized coach | $65,000~$95,000 | Club/academy |
+| High-level / professional team coach | $95,000~$200,000 | Premium for professional and elite pathways is significant |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★☆☆）。** 数据与运动科学（GPS/表现分析）日益融入训练；专项化与持证化提升议价能力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core tasks of sports coaches (training guidance, tactical analysis) are hard to replace by AI for now, but data collection, basic teaching, and administrative tasks are increasingly automated, compressing entry-level positions.
 
-- 职业/半职业球队教练
-- 青少年体育学院
-- 专项技术教练
-- 体能与运动表现
+Data and sports science (GPS/performance analysis) increasingly integrated into training; specialization and certification enhance bargaining power.
+
+**Tasks most exposed to AI:**
+
+- Automatic collection and preliminary analysis of athlete performance data
+- Generate basic movement demonstrations and standardized training videos
+- Automated Management of Training Schedules and Competition Arrangements
+- AI editing and tagging of tactical footage
+
+**Where AI augments the role:**
+
+- Use motion capture and AI analysis to accurately assess athletes' technical details
+- Develop personalized training plans and nutrition programs based on big data models
+- Real-time tactical simulation and opponent pattern recognition to assist real-time decisions
+- Sports injury risk assessment and intelligent recommendations for rehabilitation training
+
+**Human moat:**
+
+- Interpersonal leadership skills such as on-the-spot motivation and team cohesion building
+- Deep insight into athletes' psychological states and personalized care
+- Creative design and on-the-spot response for complex tactics
+- Safety supervision and first aid decisions in high-risk sports
+
+**Skills to build:**
+
+- Sports data analysis and visualisation tools (e.g., Tableau, Python)
+- AI motion capture and biomechanics analysis software operation
+- Configuration and optimisation of personalised AI training platforms
+- Sports psychology and communication coaching skills
+- Project management and multi-role coordination skills
+- Application of virtual reality (VR) training systems
+
+**Key growth areas:**
+
+- Professional/Semi-Pro Team Coach
+- Youth Sports Academy
+- Specialized Technical Coach
+- Fitness & Athletic Performance
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保；该职业在 CSOL 上，可由符合条件的雇主提名 |
-| Subclass 494（Skilled Employer Sponsored Regional） | 偏远地区雇主担保（临时转永居） |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区指定协议可纳入资格清单 |
+| Subclass 482 (Skills in Demand) | Employer Sponsorship; This Occupation is on the CSOL and Can Be Nominated by a Qualified Employer |
+| Subclass 494 (Skilled Employer Sponsored Regional) | Regional employer-sponsored (temporary to permanent residency) |
+| Subclass DAMA (Designated Area Migration Agreement) | Some regional specified agreements can include the qualification in the list |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学体育教练？**
-- 有专项运动背景并取得教练认证
-- 愿意走雇主担保（俱乐部/学院 482）路径
-- 能适应赛事与不规律作息
-
-**谁不适合学体育教练？**
-- 期望独立技术移民（本职业仅雇主担保/DAMA）
-- 不愿逐级考取教练认证
-- 追求固定坐班白领节奏
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Having a background in a specific sport and obtaining coaching certification
+- Willing to pursue employer sponsorship (club/academy 482 pathway)
+- Able to adapt to events and irregular schedules
+
+**Who is not suited**
+- Expects independent skilled migration (this occupation only employer-sponsored/DAMA)
+- Unwillingness to progressively obtain coaching certifications
+- Seeking fixed office white-collar routine
+
+---
+
+## 8. FAQ
+
+**Q: How much do sports coaches earn in Australia?**
+A: Junior/community approx $50k~$65k; full-time specialized approx $65k~$95k; high-level/professional team coach approx $95k~$200k+. Differences mainly due to level and sport.
+
+**Q: Can sports coaches immigrate to Australia?**
+A: Yes, but limited. Sports Coach or Instructor (452317) is on the CSOL, eligible for employer sponsorship (482 Skills in Demand, 494 Regional) or DAMA; not on the Skilled Independent visa (189/190) list, cannot directly apply for points-based migration.
+
+**Q: Will sports coaches be replaced by AI?**
+A: Low Risk. Data Analysis, Sports Science, and Wearable Devices Will Enhance Training, but On-Site Guidance, Tactical Judgment, Motivation, and Interpersonal Trust are Difficult to Replace. Coaches Who Use Data Tools Will Be More Competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Department of Home Affairs | Core Skills Occupation List（含 452317） |
-| Jobs and Skills Australia | 体育教练职业概况 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中高（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-体育教练为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲体育教练收入多少？**
-答：初级/社区约 $50k~$65k；全职专项约 $65k~$95k；高水平/职业队教练约 $95k~$200k+。差异主要由级别与项目决定。
-
-**问：体育教练能移民澳洲吗？**
-答：可以，但受限。Sports Coach or Instructor (452317) 在 CSOL 上，可通过雇主担保（482 Skills in Demand、494 偏远地区）或 DAMA 移民；不在独立技术移民（189/190）清单上，无法直接积分移民。
-
-**问：体育教练会被 AI 替代吗？**
-答：风险低。数据分析、运动科学与可穿戴设备会增强训练，但临场指导、战术判断、激励与人际信任难以被替代。会用数据工具的教练更具竞争力。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

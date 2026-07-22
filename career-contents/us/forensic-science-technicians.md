@@ -1,58 +1,94 @@
-# Forensic Science Technicians（Forensic Science Technicians）职业分析 · 美国
+# Forensic Science Technicians — career analysis · United States
 
-**职业代码：19-4092 – Forensic Science Technicians。**
+**Occupation code: 19-4092 (SOC)**
 
-Collect, classify, and analyze physical evidence from crime scenes, such as fibers, hair, and tissue; perform tests on weapons or substances; and testify as expert witnesses in court.
+Collect, classify, and analyze physical evidence from crime scenes, such as fibers, hair, and biological tissues, perform weapon or substance testing, and testify as an expert witness in court.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学费用较低，私立较高） |
-| 硕士学位 | 2年 | $30,000~$80,000（部分高级职位偏好硕士） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public university fees are lower, private ones higher) |
+| Master's degree | 2 years | $30,000~$80,000 (Some senior positions prefer a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法医学学士学位 | 大学 | 必备 | 通常要求自然科学或法医学相关专业 |
-| 实验室认证 | 美国犯罪实验室主任协会(ASCLD/LAB) | 可选 | 部分实验室要求通过认证 |
+| Bachelor's degree in Forensic Science | University | Required | Usually requires a natural or forensic science related major. |
+| Laboratory certification | American Society of Crime Laboratory Directors/Laboratory Accreditation Board (ASCLD/LAB) | Optional | Some labs require certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 17,100。美国劳工统计局预计2023-2033年就业增长约13%，远高于平均水平，受刑事司法系统持续需求驱动，尤其在法医DNA分析领域。
+**Job demand: high (★★★★☆).** National workforce approx. 17,100. US Bureau of Labor Statistics projects about 13% employment growth from 2023-2033, much faster than average, driven by ongoing criminal justice system demand, especially in forensic DNA analysis.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏上（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 通常为实验室助理或初级分析师 |
-| 中级（4-7年） | $60,000~$80,000 | 独立处理案件证据 |
-| 高级（8年以上） | $80,000~$100,000 | 主管或专家证人 |
+| Median salary | $72,060 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Usually as a laboratory assistant or junior analyst |
+| Mid-level (4-7 years) | $60,000~$80,000 | Handle case evidence independently |
+| Senior (8+ years) | $80,000~$100,000 | Supervisor or expert witness |
+| average salary | $79,200 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级法医技术员通常从证据处理或实验室助理做起，积累经验后可晋升为高级技术员或实验室主管，部分转向法医科学家或法庭顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Some core tasks of forensic technicians (e.g., evidence classification, basic analysis) are being replaced by automated tools, slowing job growth, but tasks like court testimony still require human judgment.
+
+Entry-level forensic technicians usually start as evidence processors or lab assistants; with experience, they can advance to senior technician or lab supervisor, and some transition to forensic scientist or court consultant.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyzes spectrographic data of trace evidence such as hair and fibers
+- Use AI to compare patterns such as fingerprints and shoe prints in databases
+- Automatically record, tag and archive crime scene photos
+- Use machine learning to predict the chemical composition of poisons or explosives
+- Automated generation of standardized preliminary evidence reports
+
+**Where AI augments the role:**
+
+- Using AI to quickly screen large numbers of biological samples, assisting in identifying key evidence
+- Reconstruct crime scenes using 3D modeling and AR to enhance evidence correlation analysis
+- AI-assisted DNA mixture profile analysis, improving efficiency in complex sample typing.
+- Similarity search of case precedents based on historical data to enhance reliability of expert testimony
+- automatically scans literature databases to assist in updating methods for identifying new toxins or explosives
+
+**Human moat:**
+
+- Clear communication skills to explain scientific evidence to a jury when testifying in court
+- Make creative sampling decisions for complex or contaminated crime scenes
+- Professional judgment on AI analysis results to confirm whether misjudgments exist
+- Collaborate with law enforcement, lawyers, prosecutors and other parties to coordinate investigation direction
+- Rely on experience to infer the completeness of the chain of evidence when sufficient data is lacking
+
+**Skills to build:**
+
+- Use and result review of forensic AI tools.
+- Advanced statistics and data analysis (e.g., R/Python)
+- Digital forensics and electronic evidence processing
+- Forensic imaging and 3D reconstruction techniques
+- Interdisciplinary collaboration and expert communication skills
+- Ethics and legal knowledge (evidence collection compliance)
+
+**Key growth areas:**
 
 - Forensic DNA Analysis
 - Digital Forensics
@@ -61,68 +97,67 @@ Collect, classify, and analyze physical evidence from crime scenes, such as fibe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 雇主为本科以上法医技术员申请，需专业对口 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 硕士以上或特殊能力，需PERM劳工证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过劳工证申请职业移民绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Employer applies for forensic technicians with bachelor's degree or higher, requiring relevant major |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Master's degree or higher, or exceptional ability, requires PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for employment-based green card through labor certification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forensic Science Technicians？**
-- 对刑事调查和科学分析有浓厚兴趣的人
-- 注重细节和实验室规程的人
-- 愿意在法庭作证并承受压力的人
-
-**谁不适合学Forensic Science Technicians？**
-- 对血腥或犯罪现场不适的人
-- 不喜欢重复性实验室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in criminal investigation and scientific analysis
+- People who pay attention to detail and laboratory protocols
+- Someone willing to testify in court and handle pressure
+
+**Who is not suited**
+- People who are uncomfortable with bloody or crime scenes
+- Those who dislike repetitive laboratory work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a forensic technician?**
+A: Junior approx. USD 45,000-60,000, mid-level 60,000-80,000, senior 80,000-100,000.
+
+**Q: Is it feasible for a forensic technician to immigrate to the US via H-1B?**
+A: Feasible, but requires employer sponsorship and relevant background. H-1B quota is tight, and competition is fierce.
+
+**Q: What education is needed to become a forensic technician?**
+A: At least a bachelor's degree in forensic science or related natural science. Some positions prefer a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等偏上（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Forensic Science Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for forensic science technicians?**
-答：Entry-level: $45,000-$60,000; mid-level: $60,000-$80,000; senior: $80,000-$100,000.
-
-**问：Is it feasible to immigrate to the US as a forensic science technician via H-1B?**
-答：Yes, but requires employer sponsorship and a relevant degree. H-1B caps are tight and competitive.
-
-**问：What education is required to become a forensic science technician?**
-答：At least a bachelor's degree in forensic science or a related natural science. Some positions prefer a master's.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

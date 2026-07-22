@@ -1,60 +1,96 @@
-# Supervisor and Manager - Horse Industry（Supervisor and Manager - Horse Industry）职业分析 · DE
+# Supervisor and Manager - Horse Industry — career analysis · Germany
 
-**职业代码：1139 – Supervisor and Manager - Horse Industry。**
+**Occupation code: 1139 (KldB)**
 
-Responsible for daily operations of horse farms or equestrian facilities, including staff scheduling, horse care, feeding plans, client relations, and financial oversight. Typically works at large studs, racetracks, or riding clubs.
+Responsible for the daily operational management of a stud farm or equestrian facility, including staff scheduling, horse care, feeding plans, client relations, and financial oversight. Usually works at large stables, racetracks, or riding clubs.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有津贴，部分州免学费） |
-| 继续教育（农业管理/马业管理） | 1-2年 | $3,000~$15,000（可通过Meister或技术员课程） |
+| Dual vocational training | 3 years | $0~$5,000 (Allowance during training, tuition-free in some states) |
+| Continuing education (agricultural management/equine management) | 1-2 years | $3,000~$15,000 (Can go through Meister or technician courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 马业专业培训证书 | 德国农业协会或商会 | 必备 | 通常需完成3年双元制培训 |
-| 马场管理大师证书 | 德国农业协会 | 可选 | 可选，提升晋升机会 |
+| Professional Certificate in Horse Industry | German Agricultural Society or Chamber of Commerce | Required | Usually requires completing a 3-year dual training program |
+| Master Certificate in Horse Management | German Agricultural Society | Optional | Optional, improves promotion chances |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,000。德国马业是传统优势产业，赛马、马术运动及休闲骑乘需求稳定。但该岗位数量有限，且受农业结构变化影响，就业竞争中等。需要相关职业培训或管理经验。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,000. The German horse industry is a traditional advantageous sector with stable demand for horse racing, equestrian sports, and leisure riding. However, the number of positions is limited, and due to changes in agricultural structure, job competition is moderate. Relevant vocational training or management experience is required.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，取决于马场规模和地区 |
-| 中级（3-6年） | $32,000~$42,000 | 具备管理经验后 |
-| 高级（6年以上） | $42,000~$55,000 | 大型马场或赛马场经理 |
+| Median salary | $28,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, depending on farm size and region |
+| Mid-level (3–6 years) | $32,000~$42,000 | After gaining management experience |
+| Senior (6+ years) | $42,000~$55,000 | Large Ranch or Racecourse Manager |
+| average salary | $33,240 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从马场领班或马术教练晋升为主管，再升至运营经理或区域经理。也可通过进修农业经济或企业管理转向更广泛的管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Can be promoted from stable foreman or equestrian instructor to supervisor, then to operations manager or regional manager. Further study in agricultural economics or business management can lead to broader management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Equestrian sports
 - Horse breeding
@@ -63,67 +99,66 @@ Responsible for daily operations of horse farms or equestrian facilities, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国雇主offer且资质被认可 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，可先入境找工作 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a job offer from a German employer and have qualifications recognized |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allows entering the country first to find a job |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor and Manager - Horse Industry？**
-- 热爱马匹和马术运动，有责任心
-- 具备团队管理和基础财务知识
-
-**谁不适合学Supervisor and Manager - Horse Industry？**
-- 对动物过敏或缺乏耐心
-- 不能适应户外体力工作和周末工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about horses and equestrian sports, responsible.
+- Basic team management and financial knowledge
+
+**Who is not suited**
+- Allergic to animals or lacking patience
+- Unable to adapt to outdoor physical work and weekend work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for equine managers in Germany?**
+A: Annual pre-tax salary for junior positions is approximately €25,000-32,000, and for senior positions up to €42,000-55,000.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Must complete a German-recognized 3-year dual training program or hold an equivalent qualification. After obtaining employer sponsorship, can apply for a skilled worker visa or opportunity card.
+
+**Q: What are the career advancement paths for a horse stud supervisor?**
+A: Can advance to operations manager, regional manager, or through continuing education move into agricultural management or equestrian club executive roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisor and Manager - Horse Industry为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for horse industry supervisors in Germany?**
-答：Entry-level gross annual salary is about €25,000-€32,000, senior level €42,000-€55,000.
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：Requires a German recognized 3-year dual training or equivalent qualification, then a job offer to apply for Skilled Worker visa or Opportunity Card.
-
-**问：What are the career advancement paths for horse industry supervisors?**
-答：Can advance to operations manager, regional manager, or move to agricultural management or executive roles in equestrian clubs via further education.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

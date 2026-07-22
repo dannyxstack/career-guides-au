@@ -1,60 +1,94 @@
-# Laundry Machine Operator（Laundry Machine Operator）职业分析 · IT
+# Laundry Machine Operator — career analysis · Italy
 
-**职业代码：8157 – Laundry Machine Operator。**
+**Occupation code: 8157 (ISCO08)**
 
-Operate commercial laundry machines to wash, dry, and finish textiles, typically in hotels, hospitals, and industrial laundries.
+Operate commercial laundry equipment to wash, dry, and sort textiles, commonly found in hotels, hospitals, and laundry factories.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 6个月至1年 | $1,000~$3,000（区域职业教育中心费用） |
-| 高中文凭 | 无需额外培训 | —（意大利义务教育已覆盖） |
+| Vocational training | 6 months to 1 year | $1,000~$3,000 (Regional Vocational Education Centre fees) |
+| High school diploma | No additional training required | $0~$0 (Compulsory education in Italy already covers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业安全培训 | 意大利劳动部认可的培训机构 | 必备 | 涉及化学品和机械操作安全 |
-| 洗衣设备操作证书 | 行业协会或职业学校 | 可选 | 提升就业竞争力 |
+| Occupational safety training | Training institutions recognized by the Italian Ministry of Labour | Required | Involving chemical and machinery operation safety. |
+| Laundry equipment operation certificate | Industry associations or vocational schools | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。意大利旅游业和医疗行业稳定，相关洗衣服务需求持续；自动化可能影响初级岗位，但高等级维护技能仍受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The tourism and healthcare industries in Italy are stable, with sustained demand for related laundry services; automation may affect entry-level roles, but advanced maintenance skills remain in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，小型洗衣店 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪，工业洗衣厂 |
-| 高级（7年以上） | $26,000~$30,000 | 税前年薪，含主管职位 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual salary before tax, small laundry |
+| Mid-level (3–7 years) | $22,000~$26,000 | Pre-tax annual salary, industrial laundry plant |
+| Senior (7+ years) | $26,000~$30,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $24,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从操作员晋升为班组长或设备维护主管，也可转向干洗或纺织品管理领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Washing machine operators face high automation risk; AI and smart robots will take over core tasks such as sorting, loading, and quality inspection, leading to a significant reduction in entry-level positions.
+
+Can advance from operator to team leader or equipment maintenance supervisor, or transition to dry cleaning or textile management.
+
+**Tasks most exposed to AI:**
+
+- Automated clothing sorting: AI vision systems identify fabric type and color, robots automatically classify.
+- Automatic chemical proportioning: sensors and AI algorithms precisely control detergent dosage.
+- Quality defect detection: machine vision automatically identifies stains, damage, and marks them.
+- Equipment fault prediction: AI predictive maintenance reduces manual intervention.
+- Workflow scheduling: AI optimizes order scheduling and equipment load.
+
+**Where AI augments the role:**
+
+- Exception handling: operators use AI-assisted diagnostics for complex faults, improving maintenance efficiency.
+- Customer communication: AI provides real-time updates on washing progress, allowing operators to focus on personalized service.
+- Energy management: AI suggests energy-saving modes, operators supervise execution and optimize parameters.
+- Training and safety: AR/VR simulation training, AI monitoring of violations and warnings.
+
+**Human moat:**
+
+- Complex equipment repair: troubleshooting requiring hands-on skills and diagnostic abilities.
+- Special fabric handling: manual care judgment for precious or special fabrics.
+- Customer relationship management: handling complaints and personalized service needs.
+- Emergency response: on-site handling of sudden incidents (e.g., equipment fire, chemical spills).
+
+**Skills to build:**
+
+- Fundamentals of Smart Device Maintenance and Programming
+- Industrial Internet of Things platform operation
+- Data analysis and AI tool usage (e.g., predictive maintenance software)
+- Customer service and communication skills
+- Understanding of international safety and environmental standards
+- Team management and training ability
+
+**Key growth areas:**
 
 - Hospitality demand
 - Healthcare linen services
@@ -63,65 +97,67 @@ Operate commercial laundry machines to wash, dry, and finish textiles, typically
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟劳工配额工作签证，需雇主担保，每年名额有限，适合非技术岗位。 |
-| Subclass EU Blue Card（EU Blue Card） | 欧盟蓝卡，要求高等教育及高薪，本职业通常不符合申请条件。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU labor quota work visa, requires employer sponsorship, limited annual quota, suitable for non-skilled positions. |
+| Subclass EU Blue Card (EU Blue Card) | EU Blue Card requires higher education and high salary; this occupation typically does not meet the application requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Laundry Machine Operator？**
-- 细心、有责任心的人
-- 愿意从事体力劳动和重复性工作
-- 对化学品和机械操作不敏感
+**Who is suited**
+- Detail-oriented and responsible person
+- Willing to engage in physical labor and repetitive tasks
+- Insensitive to chemicals and machinery operation
 
-**谁不适合学Laundry Machine Operator？**
-- 不喜欢站立工作和潮湿环境
-- 寻求高薪和快速晋升者
+**Who is not suited**
+- Dislike standing work and humid environments
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for an Italian laundry machine operator?**
+A: Junior operators earn approximately EUR 18,000-22,000 annually, rising to EUR 26,000-30,000 with experience, and slightly higher for supervisor roles.
+
+**Q: How can non-EU citizens obtain a work visa for a laundry operator in Italy?**
+A: Primarily through the Decreto Flussi annual quota work visa; employers must demonstrate that no suitable candidate can be found within the EU.
+
+**Q: What certificates are needed to work as a laundry operator?**
+A: Mandatory occupational safety training certificate; industry operational certificates can improve competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Laundry Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for laundry machine operators in Italy?**
-答：Entry-level operators earn around €18,000-€22,000 per year, experienced up to €26,000-€30,000, with supervisors slightly higher.
-
-**问：How can non-EU citizens obtain a work visa for laundry operator jobs in Italy?**
-答：Mainly through the Decreto Flussi annual quota work visa, requiring employer sponsorship and proof of no suitable EU candidate.
-
-**问：What certifications are required to work as a laundry operator?**
-答：Mandatory workplace safety training; optional industry operation certificates enhance competitiveness.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

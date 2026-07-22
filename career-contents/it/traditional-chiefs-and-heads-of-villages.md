@@ -1,58 +1,94 @@
-# Traditional Chiefs and Heads of Villages（Traditional Chiefs and Heads of Villages）职业分析 · IT
+# Traditional Chiefs and Heads of Villages — career analysis · Italy
 
-**职业代码：1113 – Traditional Chiefs and Heads of Villages。**
+**Occupation code: 1113 (ISCO08)**
 
-In Italy, this role is rare, typically referring to village heads or community leaders in traditional or rural areas (e.g., South Tyrol), handling local administration, cultural preservation, and representation.
+In Italy, this occupation is uncommon and mainly refers to village heads or community leaders in traditional or rural communities (e.g., South Tyrolean German-speaking areas), responsible for local administration, cultural preservation, and representation.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定要求 | 通常无正式学历要求 | —（基于社区选举，不需教育投资） |
+| No specific requirements | Usually no formal education requirements. | $0~$0 (Community-based election, no educational investment required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社区认可或选举 | 当地社区 | 必备 | 通常需在当地社区居住并获信任 |
+| Community recognition or election | Local community | Required | Usually need to live in the local community and gain trust |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 150。受城市化影响，意大利农村人口减少，此类职位需求有限。但在少数自治地区，如南蒂罗尔，村长仍具法律地位。未来可能维持小众稳定。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. 150. Due to urbanization, Italy's rural population is declining, and demand for such positions is limited. However, in a few autonomous regions like South Tyrol, village heads still hold legal status. The future may remain niche and stable.
 
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：极低（½☆☆☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: very low (½☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（通常义务/兼职） | —~$3,000 | 多为志愿性质，少量津贴 |
-| 中级（兼职/半职） | $3,000~$8,000 | 包括象征性薪酬加福利 |
-| 高级（全职村长） | $10,000~$20,000 | 少数全职职位，年薪约1-2万欧元 |
+| Median salary | $5,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (usually compulsory/part-time) | $0~$3,000 | Mostly voluntary nature, with a small allowance |
+| Intermediate (part-time/job-sharing) | $3,000~$8,000 | Includes symbolic salary plus benefits |
+| Senior (Full-time Village Head) | $10,000~$20,000 | Few full-time positions; annual salary around €10,000-20,000 |
+| average salary | $7,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极低（½☆☆☆☆）。** 通常由社区选举产生，晋升路径不明显，但可兼任地方议会职务或成为荣誉职位。多数为兼职或志愿性质。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: very low (½☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace administrative paperwork and translation work, but enhance community communication and cultural heritage roles; entry requirements remain unchanged, but digital tools must be mastered to meet rural community needs.
+
+Usually elected by the community; career path is unclear, but can serve on local council or become an honorary position. Mostly part-time or voluntary.
+
+**Tasks most exposed to AI:**
+
+- handwritten meeting minutes and document archiving (AI voice-to-text + automatic classification)
+- Multilingual announcement translation (machine translation tool replacing human translation)
+- Basic financial income and expenditure record (spreadsheet template or AI accounting tool)
+- Routine notice distribution (automated mass notification system)
+- Manual demographic data aggregation (AI data scraping and analysis)
+
+**Where AI augments the role:**
+
+- Community Needs Analysis (AI processes resident feedback data to support decision-making)
+- Digitization of cultural heritage (using AI to generate 3D models, audio guides)
+- Crisis warning and evacuation (AI analysis of meteorological/geological data, linked broadcasting)
+- Policy interpretation and dissemination (AI-generated concise summaries and dialect versions)
+- Cross-community collaboration (AI translation + project management tools)
+
+**Human moat:**
+
+- Traditional ceremony hosting and cultural oral transmission
+- Handling sensitive family disputes and personal conflicts
+- Building long-term emotional trust and community cohesion
+- Intuitive decision-making and flexible coordination in informal settings
+- Mediate and lobby on behalf of the community in external settings
+
+**Skills to build:**
+
+- Data literacy: manage demographic and resource data using Excel/government platforms
+- AI tools: mastering local language voice assistants, automated report generation
+- Social media operations: posting announcements, collecting public feedback
+- Basic Cybersecurity: Phishing and Scam Prevention
+- Simple digital archives: using a mobile phone or cloud storage to manage historical documents.
+- Project management: using Trello/Notion to coordinate volunteer activities
+
+**Key growth areas:**
 
 - stable
 - niche
@@ -61,60 +97,62 @@ In Italy, this role is rare, typically referring to village heads or community l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 仅适用于欧盟公民，非欧盟公民极难获得此类工作签证。 |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | Only applicable to EU citizens; non-EU citizens will find it extremely difficult to obtain this type of work visa. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Traditional Chiefs and Heads of Villages？**
-- 在当地社区有深厚根基的人
-- 对传统行政和文化保护有兴趣的人
+**Who is suited**
+- People with deep roots in the local community
+- People interested in traditional administration and cultural preservation
 
-**谁不适合学Traditional Chiefs and Heads of Villages？**
-- 寻求高收入和职业发展的人
-- 非欧盟公民且无当地社区关系的人
+**Who is not suited**
+- People seeking high income and career development
+- Non-EU citizens with no local community ties
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary of an Italian village mayor?**
+A: Mostly part-time or volunteer, annual salary usually below 20,000 euros. Some full-time village heads earn about 10,000-20,000 euros per year.
+
+**Q: Can non-EU citizens work in this occupation?**
+A: Almost impossible. This position requires community elections and is usually limited to local residents. Immigration visas are not applicable for such roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | very low (½☆☆☆☆) |
+| Future prospect | very low (½☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 极低（½☆☆☆☆） |
-| 发展前景 | 极低（½☆☆☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Traditional Chiefs and Heads of Villages属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a village head in Italy?**
-答：Most are part-time or voluntary, with annual salary usually below 20,000 EUR. Some full-time positions may pay 10,000-20,000 EUR.
-
-**问：Can non-EU citizens work in this occupation?**
-答：Almost impossible. The role requires community election and is typically limited to local residents. Immigration visas are not applicable.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

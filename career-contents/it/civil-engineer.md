@@ -1,58 +1,94 @@
-# Civil Engineer（Civil Engineer）职业分析 · IT
+# Civil Engineer — career analysis · Italy
 
-**职业代码：2142 – Civil Engineer。**
+**Occupation code: 2142 (ISCO08)**
 
-Civil engineers design, construct, and maintain infrastructure projects such as roads, bridges, dams, and buildings, ensuring safety, sustainability, and compliance with regulations.
+Civil engineers design, build, and maintain infrastructure projects such as roads, bridges, dams, and buildings, ensuring structural safety, sustainability, and compliance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $1,000~$4,000（公立大学学费，取决于家庭收入） |
-| 硕士 | 2年 | $1,500~$5,000（专业硕士课程，部分可衔接意大利工程师考试） |
+| Bachelor's degree | 3 years | $1,000~$4,000 (Public university tuition fees, depending on household income) |
+| Master's degree | 2 years | $1,500~$5,000 (Professional master's program, some can lead to the Italian engineer exam) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利工程师执业资格 | 意大利工程师协会(CNI) | 必备 | 通过国家考试后注册，是独立签字的必要条件 |
-| 硕士学历 | 大学 | 必备 | 通常要求五年制或修士学位 |
+| Italian engineer professional qualification | Italian Engineers Association (CNI) | Required | Registration after passing the national exam is a prerequisite for independent signing. |
+| Master's degree | University | Required | Usually requires a five-year or master's degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 90,000。意大利土木工程就业前景稳定，受国家基础设施投资和欧盟复苏基金支持，但需注意地区差异，北部机会多于南部。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 90,000. Civil engineering job prospects in Italy are stable, supported by national infrastructure investment and EU recovery funds, but regional differences should be noted, with more opportunities in the north than the south.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视公司规模而定 |
-| 中级（4-8年） | $35,000~$50,000 | 有专业资格者更高 |
-| 高级（9年以上） | $50,000~$75,000 | 项目经理或总监级别 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, depending on company size |
+| Mid-level (4–8 years) | $35,000~$50,000 | Higher with professional qualifications |
+| Senior (9+ years) | $50,000~$75,000 | Project manager or director level |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：初级工程师→项目经理/设计主管→高级工程师/部门经理，也可转向咨询或公共管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+Career progression path: junior engineer → project manager/design director → senior engineer/department manager, or transition to consulting or public administration.
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Infrastructure renewal
 - Green building
@@ -61,68 +97,67 @@ Civil engineers design, construct, and maintain infrastructure projects such as 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 高技能工作签证，需雇主offer且年薪达标（2025年约3.5万欧元），可带家属。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟工人配额签证，需雇主申请，适合短缺职业，每年配额有限。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，雇主需证明无法找到合适的欧盟候选人，适用于技术岗位。 |
+| Subclass EU Blue Card (EU Blue Card) | High-skilled work visa, requires employer offer and salary threshold (approx. €35,000 in 2025), can bring family. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU worker quota visa requires employer sponsorship, suitable for shortage occupations, with limited annual quota. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit: employer must prove unable to find suitable EU candidate; applies to skilled positions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineer？**
-- 具备数学和物理基础，喜欢解决实际问题
-- 对工程设计和建造有热情，能承受现场工作压力
-- 愿意长期学习并通过专业考试
-
-**谁不适合学Civil Engineer？**
-- 不喜欢户外工作或现场环境
-- 对严格规范和安全标准缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have a foundation in mathematics and physics, enjoy solving practical problems
+- Passionate about engineering design and construction, able to withstand on-site work pressure.
+- Willing to study long-term and pass professional exams
+
+**Who is not suited**
+- Dislikes outdoor work or on-site environments
+- Impatience with strict regulations and safety standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for civil engineers in Italy?**
+A: Junior approximately €28,000-35,000, mid-level €35,000-50,000, senior €50,000-75,000 (pre-tax). Registered engineers earn more.
+
+**Q: How can a foreigner become a registered civil engineer in Italy?**
+A: Requires an Italian-recognized engineering degree, passing the state exam (Esame di Stato), and registration with CNI. Non-EU citizens need a work visa, EU Blue Card, or Decreto Flussi.
+
+**Q: Is a civil engineering degree from Italy recognized?**
+A: Most EU degrees are automatically recognised; non-EU degrees require evaluation by Italian universities or CNI. A master's degree is strongly recommended to meet exam requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Civil Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for civil engineers in Italy?**
-答：Entry-level: €28,000-35,000; mid-level: €35,000-50,000; senior: €50,000-75,000 (gross). Registered engineers earn more.
-
-**问：How can a foreigner become a registered civil engineer in Italy?**
-答：Obtain an Italian-recognized engineering degree, pass the national exam (Esame di Stato), and register with CNI. Non-EU citizens need a work visa, EU Blue Card, or Decreto Flussi.
-
-**问：Are civil engineering degrees from abroad recognized in Italy?**
-答：Most EU degrees are automatically recognized; non-EU degrees require evaluation by an Italian university or CNI. A master's degree is strongly recommended to meet exam requirements.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

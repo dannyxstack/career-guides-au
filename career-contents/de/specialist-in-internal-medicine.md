@@ -1,60 +1,96 @@
-# Specialist in Internal Medicine（Specialist in Internal Medicine）职业分析 · DE
+# Specialist in Internal Medicine — career analysis · Germany
 
-**职业代码：8142 – Specialist in Internal Medicine。**
+**Occupation code: 8142 (KldB)**
 
-Specialists in internal medicine diagnose and treat adult internal diseases such as heart disease, diabetes, and infections, serving as core medical staff in hospitals and clinics.
+Internal medicine specialists diagnose and treat adult internal diseases such as heart disease, diabetes, infections, etc., and are core medical staff in hospitals and clinics.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学学位 | 6年以上（大学） | —（公立大学几乎免费，仅少数州收学费；生活费自担） |
-| 专科培训 | 5-6年 | —（培训期间带薪，无需额外学费） |
+| Medical degree | 6+ years (university) | $0~$50,000 (Public universities are almost free, with only a few states charging tuition; living expenses are borne by the student) |
+| Specialist training | 5-6 years. | $0~$0 (Paid during training; no additional tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行医执照 | 各州医师协会 | 必备 | 需通过德国国家医师考试及认可国外学历 |
-| 专科医生认证 | 州医师协会 | 必备 | 完成专科培训并通过考核 |
+| Medical License | State medical associations | Required | Must pass the German state medical examination and have foreign qualifications recognized |
+| Specialist doctor certification | State medical association | Required | Complete specialist training and pass the assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★☆☆☆☆）。** 全国从业人数约 65,000。德国面临医生短缺，尤其是农村地区。老龄化加剧需求，就业前景极佳，职位空缺多。
+**Job demand: very low (★☆☆☆☆).** National workforce approx. 65,000. Germany faces a shortage of doctors, especially in rural areas. Aging population increases demand; excellent job prospects with many vacancies.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $58,000~$72,000 | 根据医院薪资协议（TV-Ärzte） |
-| 中级（4-9年） | $75,000~$95,000 | 含额外津贴 |
-| 高级（10年以上/主任） | $100,000~$150,000 | 私人执业或主任医师收入更高 |
+| Median salary | $103,608 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $58,000~$72,000 | According to hospital pay agreement (TV-Ärzte) |
+| Intermediate (4-9 years) | $75,000~$95,000 | Including additional allowances |
+| Senior (10+ years/Director) | $100,000~$150,000 | Higher income for private practice or chief physicians. |
+| average salary | $119,544 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从住院医师晋升至主治医师、主任医师，也可开设私人诊所或从事学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI cannot replace the core diagnosis and treatment decisions of internal medicine specialists, but will enhance their efficiency and information processing, allowing them to focus more on complex cases and humanistic care.
+
+Can progress from resident to attending physician, chief physician, or open a private practice or pursue academic research.
+
+**Tasks most exposed to AI:**
+
+- Interpretation and data collation of routine laboratory test results
+- Preliminary report generation for basic imaging examinations
+- Writing and templating of medical documents (e.g., medical records, referral letters)
+- Automatic checking of drug interactions and dosages
+- Personalized generation of patient health education materials
+
+**Where AI augments the role:**
+
+- Improve accuracy in differential diagnosis of difficult cases with AI-assisted diagnostic systems
+- Optimize chronic disease management (e.g., diabetes, hypertension) through predictive models
+- Integrating the latest medical literature and guidelines using natural language processing
+- Combination of AI-driven image analysis and traditional diagnostic methods
+- Remote monitoring and AI early warning system improve patient follow-up efficiency
+
+**Human moat:**
+
+- Comprehensive diagnosis and clinical reasoning for complex multisystem diseases
+- Interpersonal communication skills to build trust and empathy with patients
+- Clinical judgment for handling ethical dilemmas and emergencies.
+- Cross-departmental collaboration and leading multidisciplinary teams
+- Intuition and experience with rare diseases and uncertain cases
+
+**Skills to build:**
+
+- Use of AI-assisted diagnostic tools (e.g., IBM Watson, clinical decision support systems)
+- Medical big data analysis and statistical software (R, Python basics)
+- Digital health and remote medical platform operation
+- Advanced applications of medical informatics and electronic medical record systems
+- Human-machine collaboration communication and critical evaluation of AI results
+- Continuous learning ability and rapid adaptation to new technologies
+
+**Key growth areas:**
 
 - aging population
 - rural healthcare gap
@@ -63,69 +99,68 @@ Specialists in internal medicine diagnose and treat adult internal diseases such
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需学历认可，年薪门槛约58300欧元（2024），紧缺职业可降至45552欧元，适合专科医生。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需资质认证，适合有德国承认学历的医生。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，但需提前完成学历认证。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires degree recognition, annual salary threshold approximately €58,300 (2024), reduced to €45,552 for shortage occupations, suitable for specialist doctors. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires qualification certification, suitable for doctors with a recognized German degree. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows six months in Germany to find a job, but academic qualification recognition must be completed in advance. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialist in Internal Medicine？**
-- 医学专业毕业生
-- 希望高薪且稳定职业者
-- 愿意在德国偏远地区工作的人
-
-**谁不适合学Specialist in Internal Medicine？**
-- 不愿长期高强度工作的人
-- 学习德语困难的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical graduates.
+- For those seeking high salary and stable career
+- People willing to work in remote areas of Germany
+
+**Who is not suited**
+- Those unwilling to work long hours under high pressure
+- People who find learning German difficult
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a specialist internal medicine doctor in Germany?**
+A: Entry-level approx EUR 58,000-72,000, mid-level approx EUR 75,000-95,000, senior can exceed EUR 100,000.
+
+**Q: How can foreign doctors immigrate to Germany?**
+A: Requires credential evaluation, passing a German language test (at least B2), and applying for an EU Blue Card or skilled migration visa.
+
+**Q: What level of German is required to practice medicine in Germany?**
+A: At least B2 clinical German, usually requires C1 or above.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 极高（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 好（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Specialist in Internal Medicine为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a specialist in internal medicine in Germany?**
-答：Entry-level: €58,000-72,000; mid-level: €75,000-95,000; senior: over €100,000.
-
-**问：How can foreign doctors immigrate to Germany?**
-答：Requires qualification recognition, German language test (min B2), and apply for EU Blue Card or skilled worker visa.
-
-**问：What German level is required to practice medicine in Germany?**
-答：At least B2 in medical German, usually C1 or higher.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

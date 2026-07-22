@@ -1,60 +1,94 @@
-# Packers nec（Packers nec）职业分析 · 澳大利亚
+# Packers nec — career analysis · Australia
 
-**职业代码：832199 – Packers nec。**
+**Occupation code: 832199 (ANZSCO)**
 
-Manually or machine-packs, labels, and inspects goods to ensure packaging meets transport and storage requirements, commonly found in warehouses, logistics centers, and manufacturing.
+Responsible for manual or mechanical packing, labeling, and inspecting goods to ensure packaging meets transport and storage requirements, common in warehouses, logistics centers, and manufacturing companies.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无需正规学历 | 0 | —（通常接受在岗培训） |
-| 短期职业课程 | 6个月 | $2,000~$5,000（物流或仓储操作证书） |
+| No formal education required | 0 | $0~$0 (Typically receives on-the-job training) |
+| Short-term vocational course | 6 months. | $2,000~$5,000 (Logistics or warehouse operations certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主提供培训 |
-| 叉车执照（建议） | 澳洲安全工作局（SafeWork NSW等） | 可选 | 可选但提升就业机会 |
+| No mandatory qualification requirements | None | Optional | Employer-provided training |
+| Forklift license (recommended) | Australian workplace safety authorities (e.g., SafeWork NSW) | Optional | Optional but enhances job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。随着电商和物流业持续增长，包装工需求稳定，但自动化可能限制长期增长。入门门槛低，适合临时或兼职工作。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. With continued growth in e-commerce and logistics, demand for packers is stable, but automation may limit long-term growth; low entry barrier, suitable for temporary or part-time work.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 行业minimum wage约$23-$25/小时 |
-| 中级（3-5年） | $55,000~$65,000 | 含加班和轮班津贴 |
-| 高级（5年以上/主管） | $65,000~$75,000 | 团队管理职责 |
+| Median salary | $71,032 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Industry minimum wage approximately $23–$25/hour |
+| Mid-level (3–5 years) | $55,000~$65,000 | Including overtime and shift allowances |
+| Senior (5+ years / supervisor) | $65,000~$75,000 | Team management responsibilities |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 通常从普通包装工起步，积累经验后可升为包装组长、仓库主管或转岗到物流协调等职位。技能提升有助于向机器操作员发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Packaging worker positions are greatly impacted by AI and automation; repetitive tasks will be largely replaced by machines, entry-level positions will significantly decrease, requiring transition to high-skilled logistics roles.
+
+Usually starts as a general packer, and with experience can advance to packing team leader, warehouse supervisor, or transfer to logistics coordination positions. Skill improvement helps in developing towards machine operator roles.
+
+**Tasks most exposed to AI:**
+
+- Manual packing and sealing of goods (e.g., box sealing, wrapping film)
+- Print and paste shipping labels
+- Inspect packaging integrity and weigh items
+- Sort and categorize goods according to orders
+- Record inventory and packaging data
+
+**Where AI augments the role:**
+
+- Using AI vision systems for quality inspection (e.g., packaging defect identification)
+- Operating robotic palletizers and automated packaging lines
+- Use data analytics to optimize packaging processes and material usage
+- Assisting complex packaging processes with augmented reality (AR)
+
+**Human moat:**
+
+- Fine packaging techniques for irregular or fragile items
+- Flexibly handle abnormal situations in non-standardized environments
+- Communicate custom packaging needs with clients
+- Supervising and coordinating human-machine collaboration teams
+
+**Skills to build:**
+
+- Operation and maintenance of automated packaging equipment
+- Data analysis and process optimization (e.g., Python basics)
+- Basics of robotics and PLC
+- Supply chain management knowledge
+- Safety regulations and cross-device communication protocols
+- Basic English reading (operational manuals)
+
+**Key growth areas:**
 
 - stable demand
 - e-commerce growth
@@ -63,65 +97,67 @@ Manually or machine-packs, labels, and inspects goods to ensure packaging meets 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 仅当雇主担保且职业在相关清单上（通常包装工不在标准清单中） |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA可能包含包装工，但非常有限 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Only if employer-sponsored and the occupation is on the relevant list (usually labourers not on standard lists) |
+| Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements may include Packers, but very limited |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Packers nec？**
-- 需要快速入门、不要求学历的求职者
-- 偏好体力工作、轮班制的人
-- 希望进入物流行业积累经验的新移民或学生
+**Who is suited**
+- Job seekers needing quick entry with no academic requirements
+- People who prefer physical work and shift work
+- New immigrants or students looking to gain experience in the logistics industry
 
-**谁不适合学Packers nec？**
-- 寻求长期高薪职业的人
-- 对重复性体力劳动耐受度低的人
+**Who is not suited**
+- People seeking long-term high-paying careers
+- People with low tolerance for repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for packers?**
+A: Annual salary approximately AUD 45,000 to 75,000, depending on experience and region. Usually paid hourly, including overtime.
+
+**Q: Can packers migrate to Australia for skilled migration?**
+A: Almost impossible. This occupation is not on the skilled occupation list; it may be included in very few DAMA agreements, but it's extremely rare.
+
+**Q: What are the career development paths for packers?**
+A: Can progress from general packer to team leader, warehouse supervisor, or transition to forklift operator, logistics coordinator, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（½☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Packers nec属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a packer?**
-答：Annual salary ranges from AUD 45,000 to AUD 75,000, depending on experience and location. Usually paid hourly with overtime.
-
-**问：Can a packer migrate to Australia via skilled visa?**
-答：Almost impossible. The occupation is not on any skilled occupation list, only very few DAMA agreements may include it, but extremely rare.
-
-**问：What is the career path for a packer?**
-答：Can progress from packer to team leader, warehouse supervisor, or transfer to forklift operator, logistics coordinator, etc.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

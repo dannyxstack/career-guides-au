@@ -1,60 +1,96 @@
-# Fishmonger（Fishmonger）职业分析 · FR
+# Fishmonger — career analysis · France
 
-**职业代码：D1105 – Fishmonger。**
+**Occupation code: D1105 (ROME)**
 
-Fishmongers sell fish and seafood in shops, supermarkets, or markets, handling stock, weighing and cleaning products, and offering cooking advice. Requires seafood knowledge and customer service skills.
+Fishmongers are responsible for selling fish and seafood at fish shops, supermarkets, or markets, including sourcing, weighing, cleaning products needed by customers, and providing cooking advice. This profession requires knowledge of seafood and a good service attitude.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或 BEP 水产销售 | 2年（CAP） | $1,000~$5,000（公立学校学费低，学徒制提供带薪培训） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒合同期间由企业支付学费并发放工资） |
+| CAP or BEP seafood sales | 2 years (CAP) | $1,000~$5,000 (Public schools have low tuition fees, and apprenticeships offer paid training) |
+| Apprentissage | 1-2 years | $0~$1,000 (During the apprenticeship contract period, the company pays tuition and pays wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 水产销售（CAP Poissonnier） | 法国教育部 | 必备 | 国家文凭，从事鱼贩职业的基础资格 |
-| 卫生培训（HACCP） | 法国农业部 | 可选 | 食品处理卫生认证，部分雇主强制要求 |
+| CAP Seafood Sales (CAP Poissonnier) | French Ministry of Education | Required | National diploma, the basic qualification for working as a fishmonger |
+| Health Training (HACCP) | French Ministry of Agriculture | Optional | Food handling hygiene certification is mandatory by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 18,000。法国鱼贩就业前景稳定，受本地消费和旅游业支撑。随着人们对鲜食和可持续海产品的关注增加，专业化鱼店仍有市场需求。但超市竞争激烈，部分岗位逐渐合并。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Employment prospects for French fishmongers are stable, supported by local consumption and tourism. With growing attention to fresh food and sustainable seafood, there is still market demand for specialty fish shops. However, competition in supermarkets is fierce, and some positions are gradually merging.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$23,000 | 税前年薪，通常以SMIC为起点 |
-| 中级（3-7年） | $23,000~$28,000 | 税前年薪，具备经验和客户基础 |
-| 高级（7年以上或店长） | $28,000~$35,000 | 税前年薪，包含管理和销售绩效 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,000~$23,000 | Pre-tax annual salary, usually starting at SMIC |
+| Mid-level (3–7 years) | $23,000~$28,000 | Pre-tax annual salary, with experience and a strong client base |
+| Senior (7 years or more or store manager) | $28,000~$35,000 | Pre-tax annual salary, including management and sales performance |
+| average salary | $20,592 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 鱼贩可从初级销售员晋升为高级鱼贩或店长，也可转向水产批发、供应链管理或食品卫生领域。部分从业者通过CAP或学徒制积累经验后，可开设自己的鱼店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core manual tasks for fish vendors (cleaning, scaling, chopping) are difficult to replace in the short term, but inventory management, sales recommendations, and weighing settlement will gradually be enhanced or automated by AI tools. Competition for entry-level positions is intensifying, but the upgrade path is clear, and embracing digital tools is necessary.
+
+Fishmongers can be promoted from junior salesperson to senior fishmonger or store manager, or move into seafood wholesale, supply chain management, or food hygiene. Some practitioners gain experience through CAP or apprenticeship programs and can open their own fish shops.
+
+**Tasks most exposed to AI:**
+
+- AI vision systems are used to automatically identify fish and weigh and price them
+- AI inventory forecasting and replenishment based on historical sales data and weather forecasts
+- AI chatbots or self-service terminals answer common product questions and cooking suggestions
+- Automatically generate promotional pricing and discount strategies through algorithms
+- Automated supply chain management, including inspection of fishing and logistics data
+
+**Where AI augments the role:**
+
+- AI offers personalized recommendations: suggests seafood or recipe pairings based on customer purchase records
+- Real-time quality monitoring sensors are used to assist in evaluating freshness and storage conditions
+- Augmented reality (AR) displays product traceability information (catch time, sea area) to enhance customer trust
+- AI-driven dynamic pricing tools help optimize profit margins across different time periods
+- AI analysis of social media and customer reviews to improve products and services
+
+**Human moat:**
+
+- Manual processing: Delicate operations and sensory judgment for scaling, slicing, and evisceration
+- On-site Display: Interact with customers to provide personalized recommendations and build trust
+- Quality sensory evaluation: judging freshness through sight, smell, and touch
+- Local knowledge: Familiarize yourself with local taste preferences and seasonal products
+- Emergency Handling: Flexible responses to sudden quality issues or customer complaints
+
+**Skills to build:**
+
+- Master the use of seafood quality and supply chain data platforms
+- Learn basic data analysis and inventory management software
+- Proficient in using social media for product display and marketing
+- Learn about sustainable fisheries certification and product traceability systems
+- Enhance customer service and digital communication skills
+- Learn to use self-service weighing and POS systems
+
+**Key growth areas:**
 
 - Sustainable Seafood
 - Direct-to-Consumer
@@ -63,64 +99,66 @@ Fishmongers sell fish and seafood in shops, supermarkets, or markets, handling s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇工作居留，需法国雇主提供工作合同并证明职位无法被欧盟公民填补 |
+| Subclass Salarié (Salarié (Employee)) | For employment-based residence, a French employer must provide a work contract and prove that the position cannot be filled by an EU citizen |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fishmonger？**
-- 喜欢与顾客交流、乐于提供食物建议者
-- 对海鲜质量有敏锐眼光、注重卫生的人
-- 愿意从事体力劳动且适应早起工作的人
+**Who is suited**
+- Someone who enjoys communicating with customers and is happy to offer food advice
+- People with a keen eye for seafood quality and hygiene consciousness
+- Willing to do manual labor and adapted to early work
 
-**谁不适合学Fishmonger？**
-- 不喜生鲜食品或鱼腥味的人群
-- 希望朝九晚五固定班表、周末休息的人
+**Who is not suited**
+- People who dislike fresh food or fishy smells
+- For those who want a fixed nine-to-five schedule and weekend rest
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for French fishmongers?**
+A: Junior fishmongers earn about 19,000-23,000 euros annually before tax, intermediate fishmongers up to 23,000-28,000 euros, and senior or store managers up to 35,000 euros. Salary depends on experience, type of store, and location.
+
+**Q: Can foreigners come to France to work as fish vendors?**
+A: Yes, but requires a Salarié work residence permit. Due to sufficient local labor and non-shortage occupation, employers must prove inability to find an EU citizen. CAP diploma and French language skills are key advantages.
+
+**Q: What are the career development paths for fishmongers?**
+A: You can be promoted from assistant fishmonger to independent fishmonger, store manager, or move into seafood wholesale or supply chain management. After gaining experience, you can also open your own fish shop. Continuing education can lead to higher-level CAP or Food Management Diplomas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fishmonger属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a fishmonger in France?**
-答：Entry-level fishmongers earn about €19,000-23,000 gross per year, mid-level €23,000-28,000, and senior/store managers up to €35,000. Salary varies with experience, shop type, and region.
-
-**问：Can a foreigner work as a fishmonger in France?**
-答：Yes, but requires a Salarié work permit. Since it is not a shortage occupation, employers must prove no EU citizen is available. A CAP diploma and French language skills are key advantages.
-
-**问：What are the career development paths for a fishmonger?**
-答：Career progression includes senior fishmonger, store manager, or roles in seafood wholesale and supply chain. Experienced fishmongers may open their own shop. Further education includes advanced CAP or food management diplomas.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

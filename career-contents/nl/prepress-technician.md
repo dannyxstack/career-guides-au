@@ -1,61 +1,96 @@
-# Pre-press Technician（Pre-press Technician）职业分析 · NL
+# Pre-press Technician — career analysis · Netherlands
 
-**职业代码：7321 – Pre-press Technician。**
+**Occupation code: 7321 (ISCO08)**
 
-Prepares printing plates, corrects colors, and ensures print readiness of digital files.
+Responsible for pre-press layout, plate making, color correction, and file preparation to ensure print quality.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3年 | —（公立学校学费低，每年约€1,000-€2,000） |
-| 高等职业教育（HBO） | 4年 | $2,000~$10,000（私立学费较高，公立约€2,000/年） |
+| Intermediate Vocational Education (MBO) | 3 years | $0~$2,000 (Public schools have low tuition fees, approximately €1,000–€2,000 per year) |
+| Higher Vocational Education (HBO) | 4 years | $2,000~$10,000 (Private schools have higher tuition; public schools about €2,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO印前技术文凭 | 荷兰职业教育机构（ROC） | 可选 | MBO level 4是最常见入门资格 |
-| Adobe认证专家（ACE） | Adobe | 可选 | 非强制，但提升竞争力 |
-| 色彩管理认证 | Fogra或UGRA | 可选 | 包装印刷领域推荐 |
+| MBO Diploma in Prepress Technology | Netherlands vocational education institutions (ROC) | Optional | MBO level 4 is the most common entry qualification |
+| Adobe Certified Expert (ACE) | Adobe | Optional | Not mandatory, but enhances competitiveness |
+| Colour Management Certification | Fogra or UGRA | Optional | Recommended for the packaging and printing industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。荷兰印刷业持续数字化，传统印前岗位需求缓慢下降，但包装印刷和数字印刷领域仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The Dutch printing industry continues to digitize; demand for traditional pre-press roles is slowly declining, but there is still demand in packaging printing and digital printing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，包括假期津贴 |
-| 中级（4-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（8年以上） | $38,000~$45,000 | 税前年薪，主管级更高 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including holiday allowance |
+| Mid-level (4-7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (8+ years) | $38,000~$45,000 | Pre-tax annual salary, higher supervisor level |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从初级印前操作员晋升为高级技师或印前主管，也可转向数码印刷或平面设计领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Prepress technician work is highly standardised; AI/automation tools can already replace core tasks such as layout, colour correction, and file checking. The number of positions is shrinking, but a small number of staff are still needed to debug and maintain automated systems.
+
+Can advance from junior prepress operator to senior technician or prepress supervisor, or transition into digital printing or graphic design.
+
+**Tasks most exposed to AI:**
+
+- Auto layout and imposition: AI can automatically complete page layout and imposition from design files without manual intervention.
+- Color correction and matching: AI tools can automatically correct image colors and match printing standards, reducing manual adjustments
+- File pre-check and error detection: AI automatically detects issues like missing fonts, low resolution, and generates a report
+- Trapping: AI automatically calculates trapping parameters, replacing manual operation.
+- Digital proof comparison: AI can compare proof to digital files at the pixel level, automatically marking differences
+
+**Where AI augments the role:**
+
+- Complex creative layout: AI provides smart layout suggestions, human makes artistic adjustments
+- Color management optimization: AI analyzes printer characteristics and recommends color calibration schemes, subject to manual confirmation
+- Output device monitoring: AI predicts equipment failures, with manual preventive maintenance.
+- Workflow orchestration: AI schedules multiple orders, humans handle conflicts and priorities
+- Personalized print design: AI-generated templates with manual detail customization.
+
+**Human moat:**
+
+- Print process tuning: adjusting equipment based on non-standard parameters like paper and ink, requires experience-based judgment
+- Client needs communication: Understand vague client requirements and translate them into technical solutions
+- Exception handling ability: resolve sudden faults in automated processes (e.g., colour deviation)
+- Cross-departmental coordination: collaborating with designers, printing operators, and other roles
+
+**Skills to build:**
+
+- AI layout and design tools (e.g., Adobe Sensei, Canva automation features)
+- Digital printing press operation and maintenance
+- Advanced application of color management software (e.g., X-Rite i1Profiler)
+- Workflow automation platforms (e.g., Enfocus PitStop Server)
+- Basic data analysis (monitoring production efficiency indicators)
+- Customer service and communication skills (improving client collaboration ability)
+
+**Key growth areas:**
 
 - Digital printing
 - Packaging printing
@@ -64,65 +99,67 @@ Prepares printing plates, corrects colors, and ensures print readiness of digita
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪高于门槛（2024年约€5,008/月）的非欧盟技术移民，需雇主担保。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或世界前200高校硕士可申请一年求职居留。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to non-EU skilled migrants with annual salary above the threshold (approx. €5,008/month in 2024), requires employer sponsorship. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or master's graduates from top 200 global universities may apply for a one-year job-seeking residence permit. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pre-press Technician？**
-- 注重细节且耐心的人
-- 对印刷技术和色彩敏感的人
-- 愿意接受数字化培训的人
+**Who is suited**
+- Detail-oriented and patient person
+- People sensitive to printing technology and color
+- People willing to undergo digital training
 
-**谁不适合学Pre-press Technician？**
-- 追求高薪和高增长前景的人
-- 不喜欢重复性电脑操作的人
+**Who is not suited**
+- Those pursuing high salary and growth prospects
+- People who dislike repetitive computer tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of pre-press technicians in the Netherlands?**
+A: entry-level approx. €24k-€30k, senior up to €45k, median approx. €33k.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as prepress technicians?**
+A: The main pathway is the Highly Skilled Migrant visa, requiring employer sponsorship and meeting the annual salary threshold. Alternatively, study first and then through the Orientation Year.
+
+**Q: Will AI replace pre-press technicians?**
+A: Some automated processes like auto-layout and color correction already use AI, but complex projects still require manual work; roles are expected to decrease but not disappear.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pre-press Technician属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pre-press technicians in the Netherlands?**
-答：Entry level €24k-€30k, senior up to €45k, median around €33k per year (gross).
-
-**问：How can non-EU citizens migrate as a pre-press technician to Netherlands?**
-答：Main route is Highly Skilled Migrant visa requiring job offer and salary threshold. Alternatively, study first then Orientation Year.
-
-**问：Will AI replace pre-press technicians?**
-答：Some automation like auto-layout and color correction uses AI, but complex jobs still need humans; roles may decline but not disappear.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

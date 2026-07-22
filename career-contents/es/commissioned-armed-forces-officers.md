@@ -1,60 +1,95 @@
-# Commissioned Armed Forces Officers（Commissioned Armed Forces Officers）职业分析 · ES
+# Commissioned Armed Forces Officers — career analysis · Spain
 
-**职业代码：0011 – Commissioned Armed Forces Officers。**
+**Occupation code: 0011 (CNO)**
 
-Command, train, and manage military units, develop operational plans, and ensure combat readiness as core leadership in the armed forces.
+It is responsible for commanding, training, and managing military units, formulating battle plans, and ensuring the combat readiness of troops; it is the core leadership of the military.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 军事学院（Grado） | 5年（含军事训练） | —（国家资助，无需学费，此外每月获得津贴） |
-| 晋升培训 | 不定，通常数月 | —（军队内部培训，免费） |
+| Military Academy (Grado) | 5 years (including military training) | $0~$0 (State-funded, no tuition fees, plus a monthly allowance) |
+| Promotion training | Uncertain, usually several months | $0~$0 (Internal military training, free of charge) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军事学士学位（Grado en Ingeniería de Organización Industrial 等） | Centro Universitario de la Defensa (CUD) | 必备 | 毕业于军事学院并获大学学位，是成为军官的法定前提 |
-| 国防部安全审查 | Ministerio de Defensa | 必备 | 通过安全背景调查，获得国家安全许可 |
+| Military Bachelor's Degree (Grado en Ingeniería de Organización Industrial, etc.) | Centro Universitario de la Defensa (CUD) | Required | Graduating from a military academy and obtaining a university degree is a statutory prerequisite for becoming an officer |
+| Department of Defense security review | Ministerio de Defensa | Required | Obtain national security clearance through security background checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 20,000。西班牙军队规模相对稳定，军官岗位数量受国防预算和军队结构调整影响。近年来参与北约任务和海外维和带来一定需求，但总体竞争激烈，晋升渠道明确且缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 20,000. The Spanish military is relatively stable in size, with the number of officer positions influenced by defense budgets and military restructuring. In recent years, participation in NATO missions and overseas peacekeeping has brought certain demand, but overall competition is fierce, and promotion paths are clear but slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（少尉-中尉，0-5年） | $28,000~$36,000 | 基本薪酬加住房、伙食等补贴 |
-| 中级（上尉-少校，5-15年） | $38,000~$50,000 | 含指挥津贴和年限增额 |
-| 高级（中校及以上，15年以上） | $52,000~$70,000 | 高级军官含职责津贴，将军可达更高 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (Second Lieutenant to Lieutenant, 0-5 years) | $28,000~$36,000 | Basic salary plus subsidies for housing, meals, and other subsidies |
+| Intermediate (Captain to Major, 5-15 years) | $38,000~$50,000 | Including command allowance and increased seniority |
+| Senior (Lieutenant Colonel and above, over 15 years) | $52,000~$70,000 | Senior officers receive duty allowances, while generals can receive even higher allowances |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从军事学院毕业获少尉衔，逐步晋升至中尉、上尉、少校等。需通过定期考核、军事课程和指挥经验积累，高级军官需具备战略规划能力，少数可升至将军。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI will not replace armed force officers; instead, it will amplify their command and decision-making capabilities, but caution must be raised about the risk of junior staff positions being automatically squeezed.
+
+Typically, graduating from military academies earned the rank of Second Lieutenant, and was gradually promoted to First Lieutenant, Captain, Major, and so on. Regular assessments, military courses, and command experience were required. Senior officers needed strategic planning skills, with a few able to be promoted to general.
+
+**Tasks most exposed to AI:**
+
+- Basic paperwork: Automatically generates daily reports, organizes personnel files, and compiles material lists.
+- Basic intelligence analysis: AI automatically filters and classifies conventional patterns in satellite images and signal intelligence.
+- Logistics scheduling optimization: AI algorithms automatically plan transportation routes and allocate supply resources.
+- Simulating training opponents: AI acts as a low-cost, highly reusable hypothetical enemy, reducing the need for manual training companions.
+- Compliance checks: Automatically compare military regulations databases and mark violations.
+
+**Where AI augments the role:**
+
+- Combat decision support: AI integrates real-time multi-source data (weather, terrain, enemy situation) to provide optimal tactical options.
+- Improved training efficiency: AI generates personalized training plans based on individual soldier performance and simulates complex battlefield scenarios.
+- Combat readiness predictive maintenance: AI analyzes equipment sensor data to predict faults and schedule repairs, reducing downtime.
+- Communication Translation: AI real-time translation of multilingual communications, accelerating cross-allied collaboration.
+- Risk Management: AI simulates casualties and political consequences of different action plans to assist in risk assessment.
+
+**Human moat:**
+
+- Moral and legal adjudication: Take ultimate responsibility for matters involving the law of life and war, such as firefights and target selection.
+- Team Leadership and Morale: Face-to-face motivation, conflict resolution, and trust building—especially irreplaceable under high-pressure conditions.
+- Strategic Judgment: Making intuitive decisions based on experience when information is incomplete, contradictory, and time is tight.
+- Flexible adaptation: When an AI system fails or is attacked by a cyberattack, officers can switch to manual mode and take charge independently.
+- Politics and Diplomacy: Communicate with civilian officials, allies, and the public to understand macro strategic intentions.
+
+**Skills to build:**
+
+- AI and Machine Learning Basics: Understand the boundaries of algorithmic capabilities, review AI suggestions, and troubleshoot anomalies.
+- Data literacy: Proficient in interpreting data visualization and statistical reports generated by sensors and intelligence systems.
+- Anti-automated thinking: Learn to manually plan, navigate, and make decisions without AI support.
+- Cybersecurity and Electronic Warfare Basics: Defend against advanced threats against AI systems and ensure command chain security.
+- Cross-cultural communication: When collaborating with multinational forces and non-military forces, using AI translation tools still requires cultural sensitivity.
+- Decision psychology: Identify cognitive biases and avoid misleading judgments caused by AI overconfidence.
+
+**Key growth areas:**
 
 - Defense modernization
 - International peacekeeping
@@ -63,67 +98,66 @@ Command, train, and manage military units, develop operational plans, and ensure
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Foreign Military Personnel） | 极少数情况下，西班牙军队可雇佣外籍军官，但需通过特殊协议（如北约交流）并取得工作居留 |
+| Subclass Cuenta ajena (Work Permit for Foreign Military Personnel) | In very rare cases, the Spanish military can employ foreign officers, but only through special agreements (such as NATO exchanges) and obtaining work residency |
 
-**PR难度：非常高（★★★★★）。**
+**PR friendliness: very low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commissioned Armed Forces Officers？**
-- 具有高度纪律性和爱国精神的人
-- 愿意接受严格体能训练和长期驻外安排
-- 希望获得免费高等教育和稳定职业生涯
-
-**谁不适合学Commissioned Armed Forces Officers？**
-- 无法接受严格军事等级制和绝对服从者
-- 厌恶高风险环境和频繁调动者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with high discipline and patriotism
+- Willing to undergo rigorous physical training and long-term assignments abroad
+- Those who want free higher education and stable careers
+
+**Who is not suited**
+- Strict military hierarchies and absolute obedience cannot be accepted
+- Dislikes high-risk environments and frequent mobilization
+
+---
+
+## 8. FAQ
+
+**Q: Does an officer's salary include additional subsidies?**
+A: Yes, in addition to the base salary, there are housing allowances, meal allowances, overseas mission allowances, and senior officers receive command allowances.
+
+**Q: Can foreigners become Spanish officers?**
+A: Usually limited to Spanish citizens. Foreigners may enter through NATO exchanges or special agreements, but this is rare. May require renouncing original citizenship or obtaining dual citizenship (only for specific countries).
+
+**Q: What is the career development path for officers?**
+A: Graduating from military academies grants the rank of Second Lieutenant, and after completing a certain number of years of service and passing the promotion course, one can be promoted to Captain, Major, and so on. Regular military training and command exams are required, and senior officers must possess strategic vision.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 非常高（★★★★★） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Commissioned Armed Forces Officers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does officer salary include additional allowances?**
-答：Yes, in addition to base pay, there are housing, meal, overseas mission allowances, and command allowances for senior officers.
-
-**问：Can foreigners become Spanish armed forces officers?**
-答：Generally only for Spanish citizens. Foreigners may join through NATO exchange or special agreements, but rare. May require renouncing original nationality or dual citizenship (only for specific countries).
-
-**问：What is the career progression for officers?**
-答：Graduate from military academy as second lieutenant, after certain years and promotion courses advance to captain, major, etc. Regular military training and command exams required; senior officers need strategic vision.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

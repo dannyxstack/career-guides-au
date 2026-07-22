@@ -1,66 +1,95 @@
-# 商业智能分析师（BI Analyst）职业分析 · 澳大利亚
+# BI Analyst — career analysis · Australia
 
-**职业代码：262199 – BI Analyst。**
+**Occupation code: 262199 (ANZSCO)**
 
-商业智能分析师通过数据可视化、报表设计和洞察挖掘，帮助企业做出数据驱动的业务决策。澳洲各行业数字化转型加速了对Power BI、Tableau和云数据仓库专业人才的需求，是数据职业中入行门槛最友好的方向之一。
+Business Intelligence Analysts use data visualisation, report design and insight generation to help organisations make data-driven business decisions. Accelerating digital transformation across Australian industries has increased demand for professionals skilled in Power BI, Tableau and cloud data warehousing, making this one of the most accessible entry points in the data career space.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of IT / Data Science / Statistics | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| Microsoft Power BI / Tableau Desktop Certification | 1~3个月 | $200~$800（核心工具认证） |
-| Azure Data Engineer / AWS Data Analytics Cert | 2~4个月 | $300~$1,500（云平台加分项） |
+| Bachelor of IT / Data Science / Statistics | 3 years | $25,000~$45,000 (International students approx. $100k–$140k total fees) |
+| Microsoft Power BI / Tableau Desktop Certification | 1–3 months | $200~$800 (Core tool certifications) |
+| Azure Data Engineer / AWS Data Analytics Cert | 2–4 months | $300~$1,500 (Cloud platform experience is an advantage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of IT / Data Science | 认可大学 | 可选 | 入行基础 |
-| Microsoft Power BI Data Analyst Certification | Microsoft | 可选 | 最常见BI认证 |
-| Tableau Desktop Specialist / Certified Associate | Salesforce/Tableau | 可选 | 可视化认证 |
+| Bachelor of IT / Data Science | Recognised university | Optional | Foundation for entering the industry |
+| Microsoft Power BI Data Analyst Certification | Microsoft | Optional | Most widely recognised BI certification |
+| Tableau Desktop Specialist / Certified Associate | Salesforce/Tableau | Optional | Visual certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 16,000。澳洲企业2025-2030年持续加大数据基础设施投入，BI平台向云端迁移和自助分析民主化推动分析师需求持续增长。具备数据建模和云平台（Azure Synapse/Databricks）技能的BI工程师薪资明显高于纯报表分析师。
+**Job demand: high (★★★★☆).** National workforce approx. 16,000. Australian businesses will continue to increase investment in data infrastructure from 2025–2030. Migration of BI platforms to the cloud and the democratisation of self-service analytics are driving sustained demand for analysts. BI engineers with data modelling and cloud platform skills (Azure Synapse/Databricks) command noticeably higher salaries than pure reporting analysts.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~380 个 | 2025年均值 |
-| Indeed | 130~250 个 | 2025年均值 |
-| LinkedIn | 180~320 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $65,000~$88,000 | Junior BI Analyst |
-| 中级（3-8年） | $90,000~$125,000 | BI Analyst / Developer |
-| 高级（8年+） | $128,000~$175,000 | Senior BI Engineer / Manager |
+| Median salary | $127,972 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$88,000 | Junior BI Analyst |
+| Mid-level (3–8 years) | $90,000~$125,000 | BI Analyst / Developer |
+| Senior (8+ years) | $128,000~$175,000 | Senior BI Engineer / Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市场占有一席之地。数据仓库建模（dbt）和Python分析技能成为高级BI工程师的标配，职业路径向数据工程师和数据分析师方向延伸。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+BI analysts' report generation and basic data cleaning tasks will be accelerated by AI, but business interpretation, data storytelling, and strategic alignment skills become more scarce; entry-level competition intensifies, senior analysts' value rises.
+
+Power BI and Tableau are the most widely used BI tools in Australia, with Looker and Qlik holding a share of the enterprise market. Data warehouse modelling (dbt) and Python analytics skills have become standard for senior BI engineers, with career paths extending towards data engineering and data analysis.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation of routine dashboards and fixed reports
+- Basic data cleaning and ETL pipelines
+- Descriptive statistics and outlier detection
+- SQL query writing and optimization (partial)
+
+**Where AI augments the role:**
+
+- Rapid prototyping and interactive data exploration
+- Natural language querying and data insight generation
+- Predictive modeling and automated root cause analysis
+- Data governance and metadata management
+- Automated report distribution and regular updates
+
+**Human moat:**
+
+- Cross-departmental business understanding and needs mining
+- Data-Driven Strategic Advice and Decision Support
+- Complex attribution analysis and causal inference
+- Data storytelling and visualization persuasiveness
+- Data ethics, privacy compliance judgment
+
+**Skills to build:**
+
+- Advanced data analysis and statistical modeling (Python/R)
+- Cloud BI tools (Power BI Service, Tableau Online)
+- Fundamentals of data engineering (ETL, data warehouse design)
+- Machine learning basics (applied to BI scenarios).
+- Natural language query and conversational BI
+- Data governance and data quality methodology
+
+**Key growth areas:**
 
 - Power BI & Tableau Dashboards
 - Data Lakehouse & Azure Synapse
@@ -69,66 +98,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称 TSS）；BI 多按具体职责匹配 Data Analyst 224114 等 ICT 职业 |
-| Subclass 186（ENS） | 雇主担保永居；同样需匹配对应 ANZSCO 并通过 ACS 技能评估 |
-| Subclass 190（Skilled Nominated） | 州提名；按各州清单与实际职责匹配 ICT 相关职业 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS); BI mostly matches specific duties to ICT occupations like Data Analyst 224114. |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; must also match the relevant ANZSCO code and pass an ACS skills assessment |
+| Subclass 190 (Skilled Nominated) | State nomination; match ICT-related occupations to each state's list and actual duties. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学商业智能分析师？**
-- 有数据分析或统计背景者
-- 喜欢将数据转化为可视化洞察的人
-- 希望在商业和技术之间架桥的IT专业人士
-
-**谁不适合学商业智能分析师？**
-- 偏好纯编程开发而非数据分析者
-- 不愿学习业务背景知识的纯技术人员
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background in data analysis or statistics
+- People who enjoy turning data into visual insights
+- IT professionals looking to bridge the gap between business and technology
+
+**Who is not suited**
+- Those who prefer pure programming and development over data analysis
+- Purely technical candidates unwilling to develop business domain knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a Business Intelligence Analyst in Australia?**
+A: Entry-level about AUD 6.5k~8.8k, mid-level 9k~12.5k, senior BI engineer/manager 12.8k~17.5k, with a clear premium for cloud data platform skills.
+
+**Q: Is it easy for BI analysts to find work in Australia?**
+A: Demand continues to grow; Seek consistently lists 200–380 active positions, with finance, retail and government being the largest employer sectors, and Power BI skills being the most sought-after requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 262199 BI分析师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-商业智能分析师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：商业智能分析师在澳洲薪资如何？**
-答：初级约AUD 6.5万~8.8万，中级9万~12.5万，高级BI工程师/经理12.8万~17.5万，云数据平台技能有明显溢价。
-
-**问：澳洲BI分析师好找工作吗？**
-答：需求持续增长，Seek常年有200~380个活跃职位，金融、零售和政府行业是最大雇主，Power BI技能是最热门要求。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

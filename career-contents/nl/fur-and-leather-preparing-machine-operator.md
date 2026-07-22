@@ -1,60 +1,91 @@
-# Fur and Leather Preparing Machine Operator（Fur and Leather Preparing Machine Operator）职业分析 · NL
+# Fur and Leather Preparing Machine Operator — career analysis · Netherlands
 
-**职业代码：8155 – Fur and Leather Preparing Machine Operator。**
+**Occupation code: 8155 (ISCO08)**
 
-Operates machines to pre-treat raw hides and skins, including washing, dehairing, and softening, preparing them for tanning or further processing.
+Operate machines to clean, dehair, soften, and perform other pretreatment processes on hides and leather, preparing them for subsequent tanning or processing.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | $2,000~$6,000（每年学费，欧盟学生较低，非欧盟较高） |
-| 在职培训 | 6个月-1年 | —（通常由雇主提供，可能涉及少量材料费） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $2,000~$6,000 (Annual tuition: lower for EU students, higher for non-EU students) |
+| On-the-job training | 6 months to 1 year | $0~$1,000 (Usually provided by employer, may involve small material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皮革加工操作员证书 | 荷兰皮革技术中心（Nederlands Ledertechnisch Centrum） | 可选 | 证明具备基本机器操作和皮革处理知识 |
-| 安全操作证书（VCA） | SSVV（荷兰安全协会） | 必备 | 基础安全证书，许多工厂要求持有 |
+| Safety certificate (VCA) | SSVV (Dutch Safety Association) | Required | Basic safety certificate, required by many factories |
+| Certificate for Leather Processing Operator | Netherlands Leather Technology Center (Nederlands Ledertechnisch Centrum) | Optional | Demonstrate basic knowledge of machine operation and leather handling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 200。荷兰毛皮和皮革加工业规模较小且持续萎缩，受环保法规和动物福利运动影响，就业岗位有限，预计未来十年需求下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 200. The Dutch fur and leather processing industry is small and shrinking, affected by environmental regulations and animal welfare movements, with limited job opportunities and expected demand decline over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $24,000~$28,000 | 税前年薪，按40小时/周计算 |
-| 中级（2-5年） | $28,000~$33,000 | 税前年薪，含绩效奖金 |
-| 高级（5年以上） | $33,000~$38,000 | 税前年薪，含轮班津贴 |
+| Median salary | $44,262 | Median salary (official: CBS median hourly wage €22.4/hr × 1976h annualized, BRC group 0771 Productiemachinebedieners; P25–P75 €35,568–€53,352, CBS 2024) |
+| Entry level (0–2 years) | $24,000~$28,000 | Annual pre-tax salary, based on 40 hours/week |
+| Intermediate (2-5 years) | $28,000~$33,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (5+ years) | $33,000~$38,000 | Pre-tax annual salary, including shift allowance |
+| average salary | $30,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级操作员可晋升为高级操作员或班组长，也可转向皮革制品质检或维修岗位，但行业整体晋升空间狭窄。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Fur and leather pre-treatment machine operators (NL) face high automation risk. AI-driven machine vision and robots can take over most repetitive tasks like cleaning, dehairing, and softening, leading to a significant decline in job demand.
+
+Junior operators can advance to senior operators or team leaders, or shift to leather product quality inspection or maintenance roles, but overall career progression in the industry is limited.
+
+**Tasks most exposed to AI:**
+
+- Detecting impurities in raw hides using machine vision and initiating cleaning process based on preset programs
+- Operate hair removal machines for automated hair removal
+- Monitor chemical reagent addition and temperature control during the softening process
+- Automatically record processing parameters and output for each batch of leather
+
+**Where AI augments the role:**
+
+- Use AI image recognition to analyze leather quality grading and assist decision-making
+- Early warning of equipment failure through predictive maintenance system
+- AI optimizes chemical formulas and process parameters to improve yield
+- Use digital twins to simulate pretreatment effects, reducing trial and error costs.
+
+**Human moat:**
+
+- Fine judgment when handling high-value or special-texture leather
+- On-site repair skills for sudden equipment breakdowns
+- Communication and solution adjustment for custom preprocessing requirements
+
+**Skills to build:**
+
+- Learn robotic programming and automated production line debugging
+- Master data analysis basics (Python/SQL) to monitor production indicators
+- Familiar with operation of industrial IoT systems (SCADA, PLC)
+- Supplement knowledge of chemistry or materials to understand process optimization
+- Develop skills for equipment fault diagnosis and maintenance
+
+**Key growth areas:**
 
 - declining demand
 - automation
@@ -63,62 +94,64 @@ Operates machines to pre-treat raw hides and skins, including washing, dehairing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，但该职业通常不符合薪资门槛（2024年最低年薪约€5,500/月），除非晋升至管理岗。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高学历和高薪，该职业通常不满足条件。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled migrants, but this occupation typically does not meet the salary threshold (minimum annual salary of about €5,500/month in 2024) unless promoted to a management role. |
+| Subclass EU Blue Card (EU Blue Card) | High education and high salary requirements; this occupation often does not meet the criteria. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fur and Leather Preparing Machine Operator？**
-- 喜欢手动操作机器且不介意重复性工作者
-- 对皮革材料有兴趣且能接受工作环境气味和噪音者
-- 寻求稳定但非高薪职业的本地居民
+**Who is suited**
+- Enjoys operating machines manually and does not mind repetitive work
+- Have an interest in leather materials and can tolerate the smell and noise of the work environment.
+- Local residents seeking stable but not high-paying careers.
 
-**谁不适合学Fur and Leather Preparing Machine Operator？**
-- 追求高薪和职业快速发展者
-- 对动物制品有道德顾虑或对环境敏感者
+**Who is not suited**
+- Those seeking high salary and rapid career development
+- Those with ethical concerns about animal products or sensitive to the environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a fur and leather pre-treatment machine operator in the Netherlands?**
+A: Annual salary before tax about €24,000 to €38,000, depending on experience and shifts. Entry-level about €24,000-28,000, senior up to €38,000. Salary is below the Dutch average.
+
+**Q: Can foreigners work in this occupation in the Netherlands with a work visa?**
+A: Difficult. This occupation is not in shortage, and salaries typically do not meet the minimum income requirements for skilled migration or the EU Blue Card (Blue Card approx. €5,500/month in 2024). Consider alternative career paths.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fur and Leather Preparing Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for fur and leather preparing machine operators in the Netherlands?**
-答：Gross annual salary ranges from €24,000 to €38,000 depending on experience and shifts. Entry-level €24,000-€28,000, senior up to €38,000, below national average.
-
-**问：Can foreigners get a work visa for this occupation in the Netherlands?**
-答：Very difficult. It is not a shortage occupation and salary typically does not meet the minimum income threshold for Highly Skilled Migrant or EU Blue Card (approx. €5,500/month for Blue Card in 2024). Consider alternative career paths.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

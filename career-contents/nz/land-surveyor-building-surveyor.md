@@ -1,61 +1,94 @@
-# Land Surveyor / Building Surveyor（Land Surveyor / Building Surveyor）职业分析 · 新西兰
+# Land Surveyor / Building Surveyor — career analysis · New Zealand
 
-**职业代码：232611 – Land Surveyor / Building Surveyor。**
+**Occupation code: 232611 (ANZSCO)**
 
-Land surveyors, building surveyors, and quantity surveyors are essential for land boundary determination, building compliance, and cost management. This occupation is on New Zealand's Green List (Tier 1 direct residence), offering a stable migration pathway with strong job demand.
+New Zealand surveyors are responsible for land surveying, building compliance inspections, and cost estimation, making them core roles in construction and infrastructure. This occupation is long-term on the Green List (Tier 1 direct residence), with stable immigration pathways and strong employment demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3-4年 | $32,000~$45,000（学费每年NZD，含大学课程及实地测量实习。） |
-| 研究生文凭 | 1年 | $30,000~$40,000（针对已有相关学位者，侧重专业进阶。） |
-| 职业培训 | 2-3年 | $15,000~$25,000（如新西兰测量师协会（NZIS）认可课程。） |
+| Bachelor's degree | 3-4 years | $32,000~$45,000 (Annual tuition in NZD, including university courses and field surveying internships.) |
+| Graduate diploma | 1 year | $30,000~$40,000 (For those with existing relevant degrees, focuses on professional advancement.) |
+| Vocational training | 2-3 years | $15,000~$25,000 (Such as courses accredited by the New Zealand Institute of Surveyors (NZIS).) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰测量师注册 | 新西兰测量师协会（NZIS） | 必备 | 必需注册才能从事土地测量，需通过Cadastral Surveyors Licensing Board考试。 |
-| 建筑测量师资质认证 | 新西兰建筑测量师协会（NZIBS） | 可选 | 部分建筑测量岗位要求认证，非强制但提升竞争力。 |
-| 工程量测量师认证 | 新西兰工程量测量师协会（NZIQS） | 可选 | APC资格是行业通行证，国际认可。 |
-| 雅思/PTE英语考试 | IELTS/PTE Academic | 必备 | 移民要求雅思G类6.5分或同等英语成绩。 |
+| New Zealand Surveyor Registration | New Zealand Institute of Surveyors (NZIS) | Required | Registration is required to practice land surveying, must pass the Cadastral Surveyors Licensing Board exam. |
+| IELTS/PTE English tests | IELTS/PTE Academic | Required | Immigration requires IELTS General 6.5 or equivalent English score. |
+| Building Surveyor certification | New Zealand Institute of Building Surveyors (NZIBS) | Optional | Some building surveying roles require certification; not mandatory but boosts competitiveness. |
+| Quantity surveyor certification | New Zealand Institute of Quantity Surveyors (NZIQS) | Optional | APC certification is the industry standard and internationally recognized. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。新西兰建筑业持续火热，奥克兰、基督城及怀卡托地区开发项目密集。测量师在政府基础设施、住宅与商业项目中需求旺盛，尤其擅长 CAD、无人机测量或 BIM 的人才更受青睐。预计未来5年就业岗位保持增长。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. New Zealand's construction industry remains hot, with dense development projects in Auckland, Christchurch, and Waikato regions. Surveyors are in high demand in government infrastructure, residential, and commercial projects, especially those skilled in CAD, drone surveying, or BIM. Job growth is expected to continue over the next 5 years.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 应届毕业生或助理测量师。 |
-| 中级（3-8年） | $75,000~$95,000 | 持注册牌照的测量师。 |
-| 高级（8年以上） | $95,000~$130,000 | 项目经理、团队负责人或独立顾问。 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$75,000 | Recent graduates or assistant surveyors. |
+| Mid-level (3–8 years) | $75,000~$95,000 | Licensed surveyor. |
+| Senior (8+ years) | $95,000~$130,000 | Project manager, team leader, or independent consultant. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级测量师可从技术员或助理岗位起步，积累2-5年后考取注册测量师牌照，晋升为项目测量师或团队主管。高级可任工程经理、公司合伙人，或成立独立测量事务所。新兴方向包括3D激光扫描、地理信息系统（GIS）及可持续建筑评估。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
+
+Junior surveyors can start as technicians or assistants, accumulate 2-5 years of experience, then obtain a registered surveyor license to advance to project surveyor or team supervisor. Senior roles include engineering manager, company partner, or starting an independent surveying firm. Emerging fields include 3D laser scanning, Geographic Information Systems (GIS), and sustainable building assessment.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation of land boundary coordinates and drawing generation (AI+GPS+remote sensing)
+- Automated building code compliance review (NLP comparing regulatory databases)
+- Automated bill of quantities extraction and cost estimation (AI parsing BIM models)
+- Automated as-built scanning and deviation report generation (drones + point cloud processing)
+
+**Where AI augments the role:**
+
+- AI-assisted field survey: real-time 3D terrain generation from LiDAR point clouds for improved efficiency
+- Smart contract management: AI analyzes historical dispute data to flag risky clauses
+- Automated regulatory updates and impact assessment: AI tracks legislative changes and links them to projects under review
+- Building material price prediction: machine learning models optimize cost estimation accuracy
+
+**Human moat:**
+
+- On-site signing and legal liability (registered surveyor regulatory requirements)
+- Multi-party interest coordination and arbitration (communication with developers, government, community)
+- On-Site Judgment of Complex Boundary/Property Disputes (Relying on Experience and Legal Interpretation)
+- Adaptability to Unforeseen On-Site Conditions (e.g., Underground Obstacles)
+
+**Skills to build:**
+
+- Drone aerial survey and LiDAR data processing
+- BIM and automated modeling tools (e.g., Revit, Civil 3D)
+- Python/R programming for automated reporting and data analysis
+- Application of AI compliance review tools (e.g., automatic building code checks)
+- Digital twin platform integration and management
+- Contract management and dispute mediation skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,69 +97,68 @@ Land surveyors, building surveyors, and quantity surveyors are essential for lan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单一级职业，符合条件（学历+工作）可直接申请移民，无等待期。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，根据职业、学历、收入等累计分数，满足6分即可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，持该签证工作2年后可转居留（满足特定条件）。 |
-| Subclass Green List T2（Work to Residence Visa） | 绿色清单二级职业，工作2年后可申请居留。本职业通常为T1，但视具体职位而定。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation; eligible (qualifications + work) can directly apply for immigration with no waiting period. |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration: accumulate points based on occupation, education, income, etc., and apply once 6 points are met. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, after working on this visa for 2 years, can apply for residency (subject to specific conditions). |
+| Subclass Green List T2 (Work to Residence Visa) | Green List Tier 2 occupation, can apply for residence after 2 years of work. This occupation is usually Tier 1, but depends on the specific role. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Land Surveyor / Building Surveyor？**
-- 喜欢户外和实地工作，能适应各种天气条件。
-- 具备精确测量、数据分析与CAD操作能力。
-- 希望利用紧缺技能快速实现新西兰移民的人士。
-
-**谁不适合学Land Surveyor / Building Surveyor？**
-- 对枯燥的文书工作或合规检查缺乏耐心的人。
-- 无法承受体力劳动和长时间在偏远场地工作的人。
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and fieldwork, adaptable to various weather conditions.
+- Proficient in precise measurement, data analysis, and CAD operation.
+- Individuals seeking fast immigration to New Zealand using in-demand skills.
+
+**Who is not suited**
+- People who lack patience for tedious paperwork or compliance checks.
+- Those unable to handle physical labor and long hours in remote sites.
+
+---
+
+## 8. FAQ
+
+**Q: How many years of work experience does a surveyor need to apply for New Zealand immigration?**
+A: Green List T1 occupation: if qualifications match (e.g., 4-year surveying degree), no work experience is needed to apply for immigration; if not, 3 years of relevant experience and meeting the income threshold are required. It is recommended to consult an immigration advisor to confirm personal circumstances.
+
+**Q: What is the average annual salary of a surveyor in New Zealand?**
+A: According to NZ Stats and job sites, registered surveyors average $85,000-$100,000 NZD/year; junior: about $60,000-$75,000; senior: over $130,000. Quantity surveyors have similar ranges; experienced can reach $120,000.
+
+**Q: Are overseas surveyor qualifications recognized in New Zealand?**
+A: Assessment by the New Zealand Institute of Surveyors (NZIS) required; overseas degrees may require supplementary courses or exams. Contact NZIS for pre-qualification review.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Land Surveyor / Building Surveyor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How many years of work experience do surveyors need for NZ migration?**
-答：For Green List Tier 1, with a relevant 4-year surveying degree, no experience is needed; otherwise, 3 years of relevant experience and meeting salary threshold. Consult an immigration adviser for personal assessment.
-
-**问：What is the average salary for a surveyor in New Zealand?**
-答：According to Stats NZ and job sites, a registered land surveyor earns NZD 85,000-100,000 on average; entry-level NZD 60,000-75,000; senior over NZD 130,000. Quantity surveyors have similar ranges, with experienced ones reaching NZD 120,000.
-
-**问：Are overseas surveyor qualifications recognized in New Zealand?**
-答：You need assessment by NZIS (New Zealand Institute of Surveyors). Overseas degrees may require bridging courses or exams. Contact NZIS early for pre-assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

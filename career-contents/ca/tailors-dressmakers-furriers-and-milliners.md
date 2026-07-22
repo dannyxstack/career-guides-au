@@ -1,58 +1,94 @@
-# Tailors, dressmakers, furriers and milliners（Tailors, dressmakers, furriers and milliners）职业分析 · 加拿大
+# Tailors, dressmakers, furriers and milliners — career analysis · Canada
 
-**职业代码：64200 – Tailors, dressmakers, furriers and milliners。**
+**Occupation code: 64200 (NOC)**
 
-Tailors, dressmakers, furriers and milliners design, make, alter and repair garments, fur items and hats, offering personalized custom services.
+Tailors, dressmakers, furriers, and milliners design, make, alter, and repair clothing, fur, and hats, offering personalized custom services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 职业培训证书 | 1-2年 | $5,000~$15,000（社区学院或私立职业学院学费） |
-| 学徒制 | 3年 | $1,000~$5,000（学徒期间收入较低，学费较少） |
+| Vocational training certificate | 1-2 years | $5,000~$15,000 (Tuition fees at community colleges or private vocational institutions) |
+| Apprenticeship | 3 years | $1,000~$5,000 (Low income during apprenticeship, less tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 裁缝行业认证 | 加拿大服装联合会 | 可选 | 非强制，但有助于就业 |
-| 省级行业证书 | 各省行业监管机构 | 可选 | 部分省份要求从事皮货贸易持有 |
+| Tailoring industry certification | Canadian Apparel Federation | Optional | Not mandatory, but helpful for employment |
+| Provincial industry certificate | Provincial Industry Regulatory Bodies | Optional | Some provinces require a license for fur trading |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 6,200。加拿大该职业就业前景中等，受快时尚和成衣业影响需求平稳，但在高端定制、复古修复和特殊场合服装领域存在稳定市场。
+**Job demand: medium (★★½☆☆).** National workforce approx. 6,200. Employment prospects for this occupation in Canada are moderate, with stable demand influenced by fast fashion and the garment industry, but there is a steady market in high-end custom, vintage restoration, and special occasion clothing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 学徒或初级职位 |
-| 中级（3-8年） | $38,000~$50,000 | 有经验的裁缝 |
-| 高级（8年以上） | $50,000~$70,000 | 高级定制或店主 |
+| Median salary | $39,520 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$38,000 | Apprentice or entry-level position |
+| Mid-level (3–8 years) | $38,000~$50,000 | experienced tailor |
+| Senior (8+ years) | $50,000~$70,000 | High-end custom or shop owner |
+| average salary | $41,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从业者可从学徒或技工起步，积累经验后晋升为高级裁缝、定制店经理，或自主创业开设工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+Practitioners can start as apprentices or technicians, advance to senior tailor or custom shop manager after gaining experience, or start their own studio.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - Custom Clothing
 - Vintage Restoration
@@ -61,68 +97,67 @@ Tailors, dressmakers, furriers and milliners design, make, alter and repair garm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 如工作经验符合NOC 64200，可申请联邦技术移民，需满足语言、教育等要求。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份有省提名项目，针对有该职业工作经验的申请人。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA雇佣外籍裁缝，之后可申请工签或移民。 |
+| Subclass Express Entry (Federal Skilled Worker) | If your work experience matches NOC 64200, you may apply for Federal Skilled Worker Program, meeting language, education, and other requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have Provincial Nominee Programs for applicants with work experience in this occupation. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to hire foreign tailors, who can then apply for a work visa or permanent residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tailors, dressmakers, furriers and milliners？**
-- 喜欢手工制作和缝纫的人
-- 具备创意和审美能力，追求个性化服装设计
-- 愿意从学徒开始积累经验
-
-**谁不适合学Tailors, dressmakers, furriers and milliners？**
-- 对缝纫和手工细节缺乏耐心
-- 追求高收入且快速晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handcrafting and sewing
+- Creative and aesthetically oriented, seeking personalized fashion design
+- Willing to start as an apprentice to gain experience
+
+**Who is not suited**
+- Impatience with sewing and manual details
+- Seeks high income and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a tailor in Canada?**
+A: Depending on experience and region, annual salary approx. CAD 30,000-70,000, senior custom tailors may earn more.
+
+**Q: Can a tailor immigrate to Canada through skilled migration?**
+A: Yes, this occupation is under NOC 64200 and can apply through Federal Skilled Worker or Provincial Nominee Program, but must meet relevant work experience requirements.
+
+**Q: What educational background is needed to become a tailor?**
+A: Usually requires completion of vocational training certificate or apprenticeship; some employers accept experience over qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tailors, dressmakers, furriers and milliners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for tailors in Canada?**
-答：Salaries range from CAD 30,000 to CAD 70,000 annually depending on experience and location; master tailors can earn more.
-
-**问：Can tailors immigrate to Canada through skilled migration?**
-答：Yes, this occupation is classified under NOC 64200 and is eligible for Federal Skilled Worker and some PNP streams, subject to work experience requirements.
-
-**问：What education is needed to become a tailor?**
-答：Typically a vocational certificate or apprenticeship; some employers value experience over formal education.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

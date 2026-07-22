@@ -1,60 +1,94 @@
-# Screed and Terrazzo Layers（Screed and Terrazzo Layers）职业分析 · DE
+# Screed and Terrazzo Layers — career analysis · Germany
 
-**职业代码：3312 – Screed and Terrazzo Layers。**
+**Occupation code: 3312 (KldB)**
 
-Professionals who install screed and terrazzo flooring, including base preparation, material mixing, laying, and surface finishing. A specialized trade in German construction.
+Responsible for laying indoor floor screed and terrazzo flooring, including substrate preparation, material mixing, laying and surface finishing. In the German construction industry, this is a specialized floor laying trade.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常无学费） |
-| 职业进修（Meister/Techniker） | 1-2年（全职） | $5,000~$15,000（部分州有补贴，视课程而定） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Paid during training, usually no tuition fees) |
+| Professional development (Meister/Techniker) | 1-2 years (full-time) | $5,000~$15,000 (Subsidies available in some states, depending on the course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训毕业证书（Ausbildungsabschluss） | 德国工商会（IHK）或手工业行会（HWK） | 必备 | 完成双元制培训后获得 |
-| 技师证书（Meisterbrief） | 手工业行会（HWK） | 可选 | 为自雇或带团队所必需 |
+| Vocational training graduation certificate (Ausbildungsabschluss) | German Chamber of Industry and Commerce (IHK) or Chamber of Crafts (HWK) | Required | Obtained after completing dual system training |
+| Meisterbrief | Crafts Chamber (HWK) | Optional | Necessary for self-employment or leading a team |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。德国建筑业持续发展，旧房翻新和节能改造需求旺盛，地面施工工种就业稳定。但受经济周期影响，2023年起略有放缓。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. The German construction industry continues to develop, with strong demand for renovation and energy-efficient retrofitting, making flooring jobs stable. However, affected by the economic cycle, it has slowed slightly since 2023.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，起步薪资 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含经验加成 |
-| 高级（7年以上/技师） | $45,000~$55,000 | 税前年薪，技师或工长级别 |
+| Median salary | $40,992 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, starting salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years / Technician). | $45,000~$55,000 | Annual salary before tax, technician or foreman level |
+| average salary | $41,904 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为工长（Vorarbeiter）或施工队长（Polier），也可通过进修成为建筑技术员（Staatlich geprüfter Techniker）或自雇创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mortar and terrazzo laying is labor-intensive; threat from AI automation is low, but digital design, material optimization, and robotic-assisted construction may partially replace traditional processes while enhancing precision and efficiency—a mixed outcome.
+
+Can advance to foreman (Vorarbeiter) or site manager (Polier), or through further training become a state-certified technician (Staatlich geprüfter Techniker) or self-employed.
+
+**Tasks most exposed to AI:**
+
+- Mechanical automatic spreading and leveling of simple mortar layers
+- Automatically generate material cutting lists and layout drawings based on BIM
+- Automated mixing and conveying of standard proportioned mortar
+- Construction quality visual inspection (AI vision replacing manual visual inspection).
+
+**Where AI augments the role:**
+
+- AI assists in optimizing material ratios to reduce cracking and hollowing
+- Augmented reality (AR) assists in locating complex patterns and seams
+- Automatic recording and analysis of construction data for quality traceability
+- 3D scanning and AI comparison for real-time ground leveling adjustments
+- Smart tools provide real-time feedback on vibration frequency and compaction force
+
+**Human moat:**
+
+- Creative design and manual inlay of complex terrazzo patterns
+- Sensory judgment and texture matching in old floor restoration
+- Flexible handling of unexpected onsite conditions (uneven ground, wet surfaces)
+- Customer communication and customization of personalized floor covering solutions
+
+**Skills to build:**
+
+- Use BIM/CAD software to read and modify ground construction drawings
+- Operate semi-automated construction equipment such as laser screeds
+- Understand material properties of dry-mix mortar and precast terrazzo
+- Basic programming skills: for robot tool path setting
+- Data entry and analysis: generating construction reports and quality traceability
+- Familiarity with sustainable building materials and green construction standards
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -63,68 +97,67 @@ Professionals who install screed and terrazzo flooring, including base preparati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Beschäftigungsverordnung)） | 持有德国认可的职业资格证书，可申请技术移民工作签证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职机会卡，允许来德找工作一年 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Immigration Act (Beschäftigungsverordnung)) | Hold a vocational qualification recognised in Germany and apply for a skilled migration work visa |
+| Subclass Chancenkarte (Opportunity Card) | Job search card based on a points system, allowing one year to look for work in Germany |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Screed and Terrazzo Layers？**
-- 喜欢动手、注重细节、有体力的人
-- 愿意接受双元制培训并长期在建筑行业发展的人
-
-**谁不适合学Screed and Terrazzo Layers？**
-- 不喜体力劳动或粉尘环境的人
-- 追求高薪且快速晋升的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, detail-oriented, physically capable person
+- People willing to undergo dual vocational training and develop long-term in the construction industry
+
+**Who is not suited**
+- People who dislike physical labor or dusty environments
+- People seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mortar and terrazzo layers in Germany?**
+A: Pre-tax annual salary for junior positions approximately 28,000-35,000 euros; senior technicians can reach 55,000 euros. Salary is influenced by region, experience, and company size.
+
+**Q: How can Chinese workers become mortar and terrazzo layers in Germany through skilled migration?**
+A: Must complete recognized vocational training in Germany or obtain qualification equivalency certification (Anerkennung) to prove skill parity, then apply for a skilled migration work visa.
+
+**Q: Does this career have long-term prospects in Germany?**
+A: With ongoing demand for building renovations and energy-efficient retrofits, this occupation has stable prospects. After promotion to technician, you can become self-employed or manage a team.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Screed and Terrazzo Layers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for screed and terrazzo layers in Germany?**
-答：Entry-level gross annual salary is around 28,000-35,000 EUR, while experienced masters can earn up to 55,000 EUR, depending on region and company size.
-
-**问：How can a Chinese worker migrate to Germany as a screed and terrazzo layer?**
-答：Complete a recognized vocational training in Germany or pass a qualification assessment (Anerkennung) to prove equivalent skills, then apply for a skilled worker visa.
-
-**问：What is the long-term career prospect for this profession in Germany?**
-答：Stable due to ongoing construction renovation and energy retrofit demand. Advancement to master craftsman allows self-employment or team management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

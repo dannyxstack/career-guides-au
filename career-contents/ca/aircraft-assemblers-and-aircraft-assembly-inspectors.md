@@ -1,58 +1,94 @@
-# Aircraft assemblers and aircraft assembly inspectors（Aircraft assemblers and aircraft assembly inspectors）职业分析 · 加拿大
+# Aircraft assemblers and aircraft assembly inspectors — career analysis · Canada
 
-**职业代码：93200 – Aircraft assemblers and aircraft assembly inspectors。**
+**Occupation code: 93200 (NOC)**
 
-Assemble, adjust, and inspect aircraft structures, systems, and components to ensure compliance with aviation safety standards. Work involves precision tools, blueprints, and collaboration with engineers.
+Responsible for assembling, adjusting, and inspecting aircraft structures, systems, and components to ensure compliance with aviation safety standards. Work involves using precision tools and blueprints, often collaborating with engineers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（加拿大公立高中免费） |
-| 大专文凭（飞机装配技术） | 2年 | $15,000~$30,000（国际生学费约2-3万加元/年） |
+| High school diploma | 12 years | $0~$0 (Canadian public high schools are free) |
+| Diploma (Aircraft Assembly Technology) | 2 years | $15,000~$30,000 (International student tuition approx. 20k-30k CAD per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 飞机装配工认证（如CAMA） | 加拿大航空维修协会 | 可选 | 非强制但雇主偏好 |
-| 省际红印认证（航空维修类相关） | 加拿大各省学徒机构 | 可选 | 如从事维修需持有 |
+| Aircraft assembler certification (e.g., CAMA). | Canadian Aviation Maintenance Council | Optional | Not mandatory, but preferred by employers |
+| Interstate Red Seal Certification (Aviation Maintenance Related) | Provincial apprenticeship authorities in Canada | Optional | Must hold license if engaging in maintenance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。加拿大航空航天制造业集中在魁北克、安大略和曼尼托巴。受全球航空复苏及新飞机订单驱动，未来十年岗位需求稳定，但竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Canada's aerospace manufacturing industry is concentrated in Quebec, Ontario, and Manitoba. Driven by the global aviation recovery and new aircraft orders, job demand is stable over the next decade, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 时薪约$18-$23 |
-| 中级（3-8年） | $45,000~$60,000 | 时薪约$23-$31 |
-| 高级（8年以上） | $60,000~$80,000 | 主管或检验员可达$80k+ |
+| Median salary | $70,720 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage approximately $18-$23 |
+| Mid-level (3–8 years) | $45,000~$60,000 | Hourly rate approximately $23-$31 |
+| Senior (8+ years) | $60,000~$80,000 | Supervisors or inspectors can reach $80k+ |
+| average salary | $70,720 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从装配工晋升为高级装配技师、团队主管或检验员；部分可转向航空维修或工程支持岗位。需持续学习新机型技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Can progress from assembler to senior assembly technician, team leader, or inspector; some may transition to aircraft maintenance or engineering support roles. Requires continuous learning of new aircraft technologies.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aerospace
 - Manufacturing
@@ -61,65 +97,64 @@ Assemble, adjust, and inspect aircraft structures, systems, and components to en
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW)（Federal Skilled Worker） | 如果申请人具有大专以上学历和一年以上相关工作经验，可能通过快速通道移民。 |
-| Subclass PNP（Provincial Nominee Program） | 魁北克、安大略、曼尼托巴等省份有针对航空航天行业的省提名项目。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，积累加拿大工作经验后申请移民。 |
+| Subclass Express Entry (FSW) (Federal Skilled Worker) | Applicants with a diploma or higher and over one year of relevant work experience may be eligible for express entry immigration. |
+| Subclass PNP (Provincial Nominee Program) | Provinces like Quebec, Ontario, and Manitoba have provincial nomination programs targeting the aerospace industry. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, accumulate Canadian work experience, then apply for immigration. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft assemblers and aircraft assembly inspectors？**
-- 注重细节、动手能力强的人
-- 对航空制造有热情，能适应倒班
-- 愿意在航空航天产业集群地区（如蒙特利尔、多伦多）工作
-
-**谁不适合学Aircraft assemblers and aircraft assembly inspectors？**
-- 不喜欢重复性流水线工作的人
-- 对严格的安全规范和质量标准感到不适的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on person
+- Passionate about aviation manufacturing, able to adapt to shift work
+- Willing to work in aerospace industry clusters (e.g., Montreal, Toronto)
+
+**Who is not suited**
+- People who dislike repetitive assembly line work
+- People uncomfortable with strict safety standards and quality requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for this occupation?**
+A: Entry-level approximately $35k-$45k, mid-level $45k-$60k, senior up to $80k. Promotion to inspector or supervisor leads to higher salary ceiling.
+
+**Q: Can I immigrate directly without Canadian work experience?**
+A: Yes. If your education and work experience meet the Federal Skilled Worker (FSW) requirements, you can apply directly. Alternatively, you can gain experience first through an LMIA work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aircraft assemblers and aircraft assembly inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for this occupation?**
-答：Entry-level $35k-$45k, mid $45k-$60k, senior up to $80k. Higher as inspector or supervisor.
-
-**问：Can I immigrate directly without Canadian experience?**
-答：Yes. If you meet FSW requirements (education, work experience), you can apply directly. LMIA work permit is also an option.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

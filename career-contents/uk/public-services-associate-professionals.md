@@ -1,58 +1,94 @@
-# Public services associate professionals（Public services associate professionals）职业分析 · UK
+# Public services associate professionals — career analysis · United Kingdom
 
-**职业代码：3560 – Public services associate professionals。**
+**Occupation code: 3560 (SOC)**
 
-Public services associate professionals supervise, manage and undertake general administrative work in national and local government departments, organise local office activities, and promote the organisation's image and services to consumers and specific audiences.
+Public Service Associate Professionals oversee, manage and perform general administrative work in national and local government departments, organize activities in local offices of national government departments, and promote organizations and their products and services to consumers and specific audiences.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 2年（A-Level） | —（公立学校免费） |
-| 本科学位 | 3年 | $9,250~$30,000（国际学生学费更高，约15000-30000英镑/年） |
+| High school diploma or equivalent | 2 years (A-Level) | $0~$0 (Free public schools.) |
+| Bachelor's degree | 3 years | $9,250~$30,000 (International students have higher tuition fees, around £15,000-£30,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共服务文凭（Level 3） | Pearson / City & Guilds | 可选 | 常见入门资格 |
-| 行政与管理资格（Level 4） | ILM / CMI | 可选 | 晋升所需 |
+| Public Service Diploma (Level 3) | Pearson / City & Guilds | Optional | Common entry qualifications |
+| Administration and Management Qualification (Level 4) | ILM / CMI | Optional | Required for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。英国公共服务部门就业稳定，受政府预算影响较小，预计未来几年需求平稳。数字化转型可能带来部分岗位调整，但整体就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Employment in the UK public service is stable, less affected by government budgets, and demand is expected to remain steady in the coming years. Digital transformation may lead to some role adjustments, but overall job prospects are good.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 行政助理/初级官员 |
-| 中级（3-7年） | $28,000~$38,000 | 高级行政官/团队领导 |
-| 高级（7年以上） | $38,000~$50,000 | 部门经理/政策顾问 |
+| Median salary | $39,537 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Administrative Assistant / Junior Officer |
+| Mid-level (3–7 years) | $28,000~$38,000 | Senior Administrator / Team Leader |
+| Senior (7+ years) | $38,000~$50,000 | Department Manager/Policy Advisor |
+| average salary | $41,016 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级行政助理可晋升为高级行政官或团队领导，随后可发展为部门经理或政策顾问。部分人员通过内部考试进入高级公务员序列，或转向地方政府管理岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Government administrative officers' office work is largely automatable, but complex tasks like decision-making, negotiation, and policy formulation are hard to replace; overall risks and opportunities coexist. Entry-level positions are compressed, but demand for new skills increases.
+
+Junior administrative assistants can advance to senior administrative officer or team leader, then develop into department manager or policy advisor. Some enter the senior civil service through internal exams or transition to local government management roles.
+
+**Tasks most exposed to AI:**
+
+- Data entry and file archiving
+- Standard email replies and customer inquiries
+- Report generation and basic document drafting
+- Policy document information retrieval and summarization
+- Simple compliance checks and data comparison
+
+**Where AI augments the role:**
+
+- Using AI tools for policy impact simulation and predictive analysis
+- Quick drafting of policy proposals using natural language processing
+- AI-assisted decision support systems improve efficiency in complex judgments
+- Real-time tracking of project progress and risks using automated monitoring systems
+- Data analysis tools to optimize public service allocation and budgets
+
+**Human moat:**
+
+- Multi-stakeholder negotiation and consensus building
+- Final decision-making involving ethical, legal, or political implications
+- Handling ambiguous, unstructured problems and crisis response
+- Building public trust and face-to-face service delivery
+- Institutional innovation and complex policy design
+
+**Skills to build:**
+
+- Basic data analysis and visualization
+- Application of AI tools in public administration
+- Project management methodologies (Agile, Lean)
+- Basic programming (Python/R) and automation scripts
+- Knowledge of ethical and compliant AI use
+- Digital transformation leadership
+
+**Key growth areas:**
 
 - Public sector
 - Administration
@@ -61,65 +97,64 @@ Public services associate professionals supervise, manage and undertake general 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得政府机构或公共服务雇主担保的申请人，满足薪资和技能要求。 |
-| Subclass Graduate（Graduate visa） | 在英国完成学位的毕业生可申请，允许在英工作2年（博士3年）。 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业的招聘，公共服务部门可能适用。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to those who obtain sponsorship from government agencies or public service employers, meeting salary and skill requirements |
+| Subclass Graduate (Graduate visa) | Graduates who completed their degree in the UK can apply, allowing them to work in the UK for 2 years (3 years for PhD holders). |
+| Subclass Scale-up (Scale-up visa) | Suitable for recruitment in high-growth enterprises; may also apply to the public service sector. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public services associate professionals？**
-- 对公共政策和行政工作有兴趣的人
-- 注重稳定性和工作保障的人
-- 善于沟通和团队协作的人
-
-**谁不适合学Public services associate professionals？**
-- 追求高薪和快速晋升的人
-- 不喜欢遵循规章制度和流程的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in public policy and administrative work
+- People who value stability and job security
+- People who are good at communication and teamwork
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike following rules and procedures.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for public service associate professionals?**
+A: Entry-level annual salary about GBP 20,000-28,000, mid-level GBP 28,000-38,000, senior up to GBP 50,000+. Salary growth is steady but the ceiling is relatively low.
+
+**Q: How can foreigners become Public Service Assistant Professionals through skilled migration?**
+A: Usually requires a job offer from a UK government agency or public service employer and a Skilled Worker visa. Some roles may require UK qualifications or professional accreditation, with high competition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Public services associate professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for public services associate professionals?**
-答：Entry-level salaries range from £20,000 to £28,000, mid-level from £28,000 to £38,000, and senior roles can exceed £50,000. Pay progression is steady but capped.
-
-**问：How can foreigners migrate as public services associate professionals?**
-答：Typically require a job offer from a UK government or public service employer for a Skilled Worker visa. Some roles may require UK qualifications, and competition is high.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

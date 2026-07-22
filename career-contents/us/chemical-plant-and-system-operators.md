@@ -1,58 +1,94 @@
-# Chemical Plant and System Operators（Chemical Plant and System Operators）职业分析 · 美国
+# Chemical Plant and System Operators — career analysis · United States
 
-**职业代码：51-8091 – Chemical Plant and System Operators。**
+**Occupation code: 51-8091 (SOC)**
 
-Control or operate entire chemical processes or systems of machines, monitoring production parameters to ensure safe and efficient operation.
+Control or operate entire chemical processes or machine systems, monitor production parameters, and ensure safe and efficient operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 2-3个月 | —（在职培训或社区学院短期证书） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院化工技术专业） |
+| High school diploma | 2-3 months | $0~$5,000 (On-the-job training or short-term certificate from community college) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college chemical engineering technology program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全许可证 | OSHA | 必备 | OSHA 30小时或Hazwoper培训 |
-| 化工操作证书 | NCCER | 可选 | National Center for Construction Education and Research认可 |
+| Security clearance | OSHA | Required | OSHA 30-hour or Hazwoper training |
+| Chemical processing certificate | NCCER | Optional | National Center for Construction Education and Research approved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,400。美国化工行业自动化程度提高，但经验丰富的操作员仍受青睐。预计2024-2034年就业增长约2%，主要受制造业回流和能源行业需求推动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 23,400. Automation in the US chemical industry is increasing, but experienced operators are still sought after. Employment growth of about 2% is expected from 2024-2034, driven by manufacturing reshoring and energy sector demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 含基本工资和轮班补贴 |
-| 中级（3-7年） | $55,000~$75,000 | 独立操作，可能包含加班费 |
-| 高级（7年以上） | $75,000~$95,000 | 资深操作员或班组长 |
+| Median salary | $78,120 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Includes base salary and shift allowances |
+| Mid-level (3–7 years) | $55,000~$75,000 | Independent operation, may include overtime pay |
+| Senior (7+ years) | $75,000~$95,000 | Senior operator or team leader |
+| average salary | $79,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级操作员起步，积累经验后可晋升为高级操作员、班组长或工艺工程师。部分企业提供内部培训转向维护或质量控制岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
+
+Starting as a junior operator, you can advance to senior operator, team leader, or process engineer after gaining experience. Some companies offer internal training for maintenance or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of production parameters with alerts
+- Routine valve opening and temperature/pressure adjustment
+- Record production data and generate reports
+- Standardized operation of partial equipment start/stop
+- Rule-based fault detection
+
+**Where AI augments the role:**
+
+- Utilize AI predictive maintenance to reduce unplanned downtime
+- Simulate process optimization plans using digital twins
+- Analyze root causes of abnormal conditions with AI assistance
+- Use big data tools to optimize reaction conditions and energy consumption
+- Combines computer vision to automatically identify equipment defects
+
+**Human moat:**
+
+- Handling unforeseen process anomalies and emergency shutdowns
+- Cross-system (reaction, separation, utilities) coordination decisions.
+- Deep understanding and experiential judgment of complex process mechanisms
+- Efficient communication and emergency coordination with teams and external contractors
+- Non-formulaic flexible application of safety regulations
+
+**Skills to build:**
+
+- Chemical process simulation software (Aspen Plus)
+- Industrial Data Analysis and Machine Learning Basics
+- Advanced PLC/DCS programming and troubleshooting
+- Python or R for process data analysis
+- Industrial Internet of Things (IIoT) basics.
+- HAZOP and LOPA risk assessment methods.
+
+**Key growth areas:**
 
 - Manufacturing
 - Petrochemical
@@ -61,68 +97,67 @@ Control or operate entire chemical processes or systems of machines, monitoring 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需本科学位，化工操作员通常不需要学位，因此申请H-1B较困难。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工认证，要求至少2年经验或培训。 |
-| Subclass TN（TN Status for Canadian/Mexican Professionals） | 仅限特定职业，化工操作员不符合专业资格。 |
+| Subclass H-1B (H-1B Specialty Occupations) | A bachelor's degree is required; chemical plant operators often do not need a degree, making H-1B applications difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, with at least 2 years of experience or training. |
+| Subclass TN (TN Status for Canadian/Mexican Professionals) | Limited to specific occupations; chemical operators do not meet professional qualification requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical Plant and System Operators？**
-- 注重安全规程、动手能力强的人
-- 能适应轮班工作和化工环境
-- 希望从技术岗位进入制造业的人
-
-**谁不适合学Chemical Plant and System Operators？**
-- 不喜欢轮班和户外作业的人
-- 对化学物质敏感或有健康顾虑的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prioritize safety protocols and have strong hands-on skills.
+- Able to adapt to shift work and chemical environments
+- People looking to move from technical roles into manufacturing
+
+**Who is not suited**
+- People who dislike shift work and outdoor work
+- Those sensitive to chemicals or with health concerns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for chemical plant operators?**
+A: With experience and skill improvement, salary can increase from $40,000 to $95,000; senior operators or team leaders earn more.
+
+**Q: How can foreign workers obtain work visas for chemical operator positions?**
+A: Usually requires EB-3 green card path with PERM labor certification. H-1B suitability is low because a bachelor's degree is typically not required.
+
+**Q: What educational background is needed to become a chemical operator?**
+A: High school diploma plus on-the-job training is sufficient for entry, but an associate degree can increase promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Chemical Plant and System Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for chemical plant operators?**
-答：With experience and skills, salary can increase from $40,000 to $95,000, and senior operators or team leads earn more.
-
-**问：How can foreign workers get a work visa as a chemical plant operator?**
-答：Typically via EB-3 green card with PERM labor certification. H-1B is rarely used as the job usually does not require a bachelor's degree.
-
-**问：What education is needed to become a chemical plant operator?**
-答：High school diploma with on-the-job training is sufficient; an associate degree can improve advancement opportunities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

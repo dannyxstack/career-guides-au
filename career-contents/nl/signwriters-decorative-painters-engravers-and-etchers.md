@@ -1,60 +1,95 @@
-# Signwriters, Decorative Painters, Engravers and Etchers（Signwriters, Decorative Painters, Engravers and Etchers）职业分析 · NL
+# Signwriters, Decorative Painters, Engravers and Etchers — career analysis · Netherlands
 
-**职业代码：7316 – Signwriters, Decorative Painters, Engravers and Etchers。**
+**Occupation code: 7316 (ISCO08)**
 
-This occupation involves creating signs, decorative painting, engraving and etching, typically in advertising, arts and crafts in the Netherlands. Work is often self-employed or in small studios.
+This occupation includes handcrafting signs, decorative painting, carving, and etching, typically working in the advertising, art, and craft industries in the Netherlands, often as self-employed or in small studios.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3年 | $500~$2,000（学费较低，部分由政府资助） |
-| 学徒制培训 | 2-4年 | —（带薪培训，学费低廉） |
+| Secondary vocational education (MBO) | 3 years | $500~$2,000 (Lower tuition fees, partially government-funded) |
+| Apprenticeship training | 2-4 years | $0~$1,000 (Paid training, low tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO文凭（招牌制作或相关方向） | 荷兰职业教育学校 | 可选 | 主流入职资格 |
-| 荷兰手工艺认证 | 荷兰手工艺委员会 | 可选 | 非强制但有助于就业 |
+| MBO diploma (sign making or related direction) | Dutch vocational education school | Optional | Mainstream entry qualifications |
+| Dutch craftsmanship certification | Dutch Crafts Council | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 2,000。荷兰对传统手工艺的需求稳定但有限，数字化转型导致部分工作减少，但高端定制和艺术修复领域仍有需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,000. Demand for traditional crafts in the Netherlands is stable but limited; digital transformation has reduced some jobs, but high-end customisation and art restoration still have demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪，自雇收入波动大 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，经验丰富者收入更高 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，包括自雇高技能工匠 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$30,000 | Pre-tax annual salary; self-employment income fluctuates greatly |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual salary before tax, experienced earners earn more |
+| Senior (7+ years) | $40,000~$55,000 | Annual gross salary, including self-employed high-skilled tradespeople |
+| average salary | $36,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒起步，积累经验后可晋升为高级工匠或工作室经理，也可转向平面设计、艺术修复等相关领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI impact is mixed: automation will reduce standardized engraving, etching, and lettering tasks, but AI tools and digital design platforms can enhance creativity and efficiency, while high-end custom and handcrafted artistic work still relies on human aesthetics and skill.
+
+Start as an apprentice, gain experience to advance to senior craftsman or studio manager, or transition to related fields such as graphic design, art restoration.
+
+**Tasks most exposed to AI:**
+
+- Standardized engraving and etching, such as batch lettering and simple pattern engraving, are now performed by CNC machines and laser engraving machines.
+- Repetitive sign lettering: AI-generated fonts and vector graphics can be directly used for vinyl cutting or spray painting, replacing hand-drawn lettering.
+- Basic decorative stencil template creation: AI generates reusable decorative patterns (e.g., borders, motifs) based on input parameters, replacing manual drawing.
+- Template creation: Traditional hand-carved templates have been replaced by digital templates output from computer-aided design (CAD) software.
+- Simple etching line repair: AI image recognition can automatically detect and repair simple defects in etching, reducing manual grinding and finishing.
+
+**Where AI augments the role:**
+
+- Using AI drawing tools (e.g., Midjourney) to quickly generate multiple creative sketches for client review, boosting design efficiency.
+- AI layout software automatically recommends fonts, sizes, and layouts based on copy, saving layout time and focusing on visual optimization.
+- Digital 3D modeling and rendering: combined with AI, preview the visual effects of signs, carvings, or decorative paintings in different environments before completion, reducing trial and error costs.
+- AI-driven customer needs analysis: using natural language processing to analyze customer descriptions, automatically generate multiple design drafts, and improve communication efficiency.
+- Automated color management: AI tools analyze color trends and provide palettes to ensure decorative paintings and signage are color-coordinated and meet brand requirements.
+
+**Human moat:**
+
+- Artisan skills and aesthetic appreciation: clients demand unique, highly artistic custom works that AI struggles to replicate with human touch and creativity.
+- Complex etching and engraving: control of material properties and force, and ability to handle extremely fine or non-standard shapes.
+- Client communication and customized interpretation: understanding abstract client needs and translating them into artistic expression requires emotional resonance and industry experience.
+- Copyright and ethical responsibility: Artistic creation involves originality assessment and copyright ownership, requiring human decision-making.
+
+**Skills to build:**
+
+- Application of AI art tools (e.g., Midjourney, Stable Diffusion)
+- Digital design software (e.g., Adobe Illustrator, CorelDRAW)
+- CAD/CAM software (for engraving and cutting path design).
+- 3D modeling and rendering (Blender, SketchUp)
+- Customer needs analysis and project management.
+- Knowledge combining color theory with material and process techniques
+
+**Key growth areas:**
 
 - Digital signage
 - Art restoration
@@ -63,65 +98,67 @@ This occupation involves creating signs, decorative painting, engraving and etch
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Freedom of Moveme（EU/EEA Nationals） | 欧盟公民可自由流动和工作，无需签证 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但本职业通常不符合薪资门槛 |
+| Subclass EU Freedom of Moveme (EU/EEA Nationals) | EU citizens can freely move and work without a visa |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | applicable for high-skilled migration, but this occupation usually does not meet the salary threshold |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Signwriters, Decorative Painters, Engravers and Etchers？**
-- 有艺术天赋和手工技能的人
-- 享受独立工作且能自我营销的人
-- 愿意接受数字化技能培训以拓展业务的人
+**Who is suited**
+- People with artistic talent and manual skills
+- People who enjoy independent work and can self-market
+- People willing to undergo digital skills training to expand their business
 
-**谁不适合学Signwriters, Decorative Painters, Engravers and Etchers？**
-- 期待高收入和稳定就业的人
-- 不愿意学习新数字工具的人
+**Who is not suited**
+- People expecting high income and stable employment
+- People unwilling to learn new digital tools
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a signage maker in the Netherlands?**
+A: Entry-level annual salary around 22,000-30,000 euros, senior level up to 55,000 euros, but self-employed income varies greatly.
+
+**Q: How can a non-EU citizen immigrate to the Netherlands for this occupation?**
+A: This occupation typically does not meet the high-skilled migration salary threshold, EU free movement does not apply, and migration is difficult.
+
+**Q: Does this career have growth prospects?**
+A: Demand for traditional handicrafts is limited, but opportunities exist in high-end custom and restoration; learning digital skills is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Signwriters, Decorative Painters, Engravers and Etchers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for signwriters in the Netherlands?**
-答：Entry-level annual salary ranges from €22,000 to €30,000, while senior can reach €55,000, but self-employed income varies.
-
-**问：How can non-EU citizens immigrate to work in this occupation?**
-答：This occupation usually does not meet the salary threshold for Highly Skilled Migrant visa, and EU freedom of movement does not apply; immigration is difficult.
-
-**问：Does this occupation have good prospects?**
-答：Demand for traditional crafts is limited, but opportunities exist in high-end custom work and restoration; learning digital skills is recommended.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

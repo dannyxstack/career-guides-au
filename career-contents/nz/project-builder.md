@@ -1,59 +1,95 @@
-# Project Builder（Project Builder）职业分析 · 新西兰
+# Project Builder — career analysis · New Zealand
 
-**职业代码：133112 – Project Builder。**
+**Occupation code: 133112 (ANZSCO)**
 
-This occupation is in high demand in New Zealand, planning and overseeing building projects to ensure budget, time, and quality targets are met. Eligible for Skilled Migrant Category and Green List Tier 1 direct residence pathway with strong job prospects.
+This occupation is in high demand in New Zealand. Plan and oversee the entire construction project, ensuring budget, schedule, and quality are met. Eligible for Skilled Migrant Category (SMC) and Green List direct residence pathway, with strong employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学位（建筑/工程管理） | 3年 | $32,000~$45,000（新西兰大学年均学费） |
-| 硕士或文凭课程 | 1-2年 | $25,000~$40,000（如坎特伯雷大学的构建项目管理硕士） |
+| Bachelor's degree (Architecture/Construction Management) | 3 years | $32,000~$45,000 (Average annual tuition at New Zealand universities) |
+| Master's or diploma program | 1-2 years | $25,000~$40,000 (Such as the Master of Construction Project Management at the University of Canterbury) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册建筑从业者（LBP） | 新西兰建筑从业者委员会（BPB） | 必备 | 如需署工程项目必须注册，可通过经验或考试获得 |
-| 项目经理资质（如PMP） | 项目管理协会（PMI） | 可选 | 非强制，但提升雇主竞争力 |
-| IELTS（学术类） | 英国文化协会等 | 可选 | 技术移民需总分6.5，单项不低于6.0 |
+| New Zealand Licensed Building Practitioner (LBP) | New Zealand Building Practitioners Board (BPB) | Required | Engineering projects require registration, obtainable through experience or examination. |
+| Project manager certification (e.g., PMP) | Project Management Institute (PMI) | Optional | Not mandatory, but enhances employer competitiveness |
+| IELTS (Academic) | British Council, etc. | Optional | Skilled migration requires overall IELTS 6.5, no band below 6.0. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。新西兰建筑行业持续增长，尤其是基督城和奥克兰地区，预计未来5年项目经理需求保持强劲。政府住房计划及基础设施投资推动就业。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. New Zealand's construction industry is growing steadily, especially in Christchurch and Auckland. Demand for project managers is expected to remain strong over the next 5 years, driven by government housing plans and infrastructure investment.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 通常需2年工作经验 |
-| 中级（3-7年） | $90,000~$120,000 | 有LBP注册更有利 |
-| 高级（7年以上） | $120,000~$160,000 | 总监级别可达20万纽币以上 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Typically requires 2 years of experience |
+| Mid-level (3–7 years) | $90,000~$120,000 | LBP registration is advantageous |
+| Senior (7+ years) | $120,000~$160,000 | Director level can reach over NZD 200,000 |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可晋升为高级项目经理、建筑总监或公司合伙人。积累经验后也可转向项目管理咨询或自主创业，发展路径清晰。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Can be promoted to senior project manager, construction director, or company partner. With experience, can also transition to project management consulting or entrepreneurship, with clear career paths.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,69 +98,68 @@ This occupation is in high demand in New Zealand, planning and overseeing buildi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 直接居留签证，无需工作经历；需满足工资中位数或两倍中位数要求（约65000-130000纽币），且雇主获认证 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，基于6分制评分；职业属注册职业（LBP）可加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合持offer者，工作2年后可转居民 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 工作转居留签证，需工作2年；职位在绿色清单上 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Direct residence visa, no work experience required; must meet median wage or twice median wage requirement (approx. NZD 65,000-130,000), and employer must be accredited |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, based on a 6-point scoring system; occupation is a registered occupation (LBP) can add points |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those with a job offer; can transition to residence after 2 years of work |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | Work-to-residence visa, requires 2 years of work; occupation is on the Green List. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Project Builder？**
-- 具备建筑或工程背景，希望在海外发展的专业人士
-- 善于沟通协调，能承受项目压力
-- 有项目管理经验且愿意获得新西兰注册资质者
-
-**谁不适合学Project Builder？**
-- 不喜欢现场管理和频繁出差的人
-- 缺乏团队领导经验或难以应对冲突者
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with architecture or engineering backgrounds seeking overseas development
+- Good communication and coordination skills, able to handle project pressure
+- Those with project management experience and willingness to obtain New Zealand registration
+
+**Who is not suited**
+- People who dislike on-site management and frequent travel
+- Those lacking team leadership experience or unable to handle conflicts
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a Project Manager (Construction) in New Zealand?**
+A: Entry-level approx. NZD 65,000-85,000, mid-level NZD 90,000-120,000, senior NZD 120,000-160,000, director level can exceed NZD 200,000. Varies by region, company size, and experience.
+
+**Q: How can a project manager (construction) immigrate to New Zealand via the Green List?**
+A: This occupation is on the Green List Tier 1, can directly apply for residence without needing to work first. Requires a job offer from an accredited employer, with a salary at or above the median or twice the median (approx. NZD 65,000 or 130,000), and meet health and character requirements.
+
+**Q: Do I need to be registered to work as a project manager (construction) in New Zealand?**
+A: If signing off on building projects (e.g., design or construction supervision), must be registered as a Licensed Building Practitioner (LBP). For management-only roles, registration is not mandatory, but it helps with employment and immigration points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（4-6年）（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★★☆☆☆） |
-
-Project Builder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for a Project Builder in New Zealand?**
-答：Entry level NZD 65,000–85,000, mid-level NZD 90,000–120,000, senior NZD 120,000–160,000, and director over NZD 200,000, depending on location, company size, and experience.
-
-**问：How can a Project Builder immigrate to New Zealand through the Green List?**
-答：This occupation is on Green List Tier 1, allowing direct residence without prior work. You need a job offer from an accredited employer, salary meeting median or double median (approx. NZD 65,000 or 130,000), and meet health and character requirements.
-
-**问：Is registration required to work as a Project Builder in New Zealand?**
-答：If you need to sign off building work (e.g., design or site supervision), you must be a Licensed Building Practitioner (LBP). For pure management, it is not mandatory but beneficial for employment and immigration points.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

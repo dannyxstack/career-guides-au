@@ -1,60 +1,96 @@
-# Window Cleaners（Window Cleaners）职业分析 · ES
+# Window Cleaners — career analysis · Spain
 
-**职业代码：9223 – Window Cleaners。**
+**Occupation code: 9223 (CNO)**
 
-Window cleaners use specialized tools and cleaning agents to clean windows, glass facades, and other glass surfaces of buildings, ensuring cleanliness and safety. Work involves working at heights, often using lifting equipment.
+Window cleaners use professional tools and cleaners to clean building windows, glass curtain walls, and other glass surfaces, ensuring a clean and safe appearance. The work includes working at heights, often requiring the operation of lifting equipment.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求 | 无 | —（通常无学历要求，但需参加高空作业安全培训） |
-| 职业培训（FP） | 1年（FP Grado Medio） | $500~$2,000（可选建筑清洁相关课程，部分包含高空作业培训） |
+| No education requirement | None | $0~$0 (There is usually no educational requirement, but participation in safety training for working at heights is required) |
+| Vocational Training (FP) | 1 year (FP Grado Medio) | $500~$2,000 (Optional courses related to building cleaning, some including training in aerial operations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业证书 | 西班牙职业安全与健康机构 | 必备 | 法规要求，需培训并考试 |
-| 工作许可证 | 公司或市政 | 必备 | 证明可安全使用升降平台等设备 |
+| Elevated work platform certificate | Spanish Occupational Safety and Health Agency | Required | Regulations require training and examinations |
+| Work permit | Corporate or municipal services | Required | Certification of safe use of lifting platforms and other equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。西班牙窗户清洁市场需求稳定，尤其是在旅游城市和商业区。随着建筑维护意识增强，就业机会预计缓慢增长。但从业者需持有高空作业证书，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The window cleaning market in Spain has stable demand, especially in tourist cities and commercial districts. As awareness of building maintenance grows, job opportunities are expected to grow slowly. However, practitioners must hold certificates for working at heights, and competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，包含基本工资和加班 |
-| 中级（3-6年） | $22,000~$28,000 | 税前年薪，经验丰富者可获得更高 |
-| 高级（6年以上） | $28,000~$35,000 | 税前年薪，主管或自雇者收入更高 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including base salary and overtime |
+| Mid-level (3–6 years) | $22,000~$28,000 | Pre-tax annual salary, with higher salaries for those with more experience |
+| Senior (6+ years) | $28,000~$35,000 | Pre-tax annual salaries: supervisors or self-employed earn more |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可晋升为团队主管或成立清洁公司。获取高空作业和安全认证有助于职业发展。经验丰富者可转向工业清洁或建筑维护领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace window cleaners, but it will significantly enhance their work, such as optimizing routes through AI scheduling, assisting in stain detection with smart devices, monitoring safety status, and drones assisting with high-level cleaning.
+
+Practitioners can be promoted to team leader or establish a cleaning company. Obtaining high-altitude work and safety certifications helps with career development. Experienced individuals can shift to industrial cleaning or building maintenance.
+
+**Tasks most exposed to AI:**
+
+- Manual planning and scheduling of cleaning routes
+- Manually inspect window stains and defects
+- Manually record the cleaning completion status
+- Relying solely on experience to assess security risks
+- Manually coordinate the timing with the client
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize cleaning routes and schedules
+- Smart devices automatically detect stains and alert key areas
+- Security monitoring AI provides real-time warnings of high-altitude risks
+- Drone-assisted cleaning of high-rise facades
+- The customer management platform automatically records and provides feedback
+
+**Human moat:**
+
+- Physical agility and mental toughness required for working at heights
+- Ability to handle unexpected situations (such as strong winds or equipment failures).
+- Building trust through face-to-face communication with customers
+- Delicate manual operations (such as edge wiping) to feel the human body
+- On-site safety judgment and self-protection awareness
+
+**Skills to build:**
+
+- Use AI cleaning planning software (such as scheduling and route optimization)
+- Operate and maintain smart cleaning equipment (such as drones and robots)
+- Basic data analysis and reporting tools (Excel, Tableau)
+- Basic operation of security monitoring systems (such as AI early warning platforms).
+- Use of Customer Relationship Management (CRM) software
+- Upgraded safety certification for working at heights (including smart device safety)
+
+**Key growth areas:**
 
 - Stable demand
 - Tourism-driven
@@ -63,61 +99,63 @@ Window cleaners use specialized tools and cleaning agents to clean windows, glas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需获得西班牙公司工作合同，且职业非紧缺，移民难度较高。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | You must obtain a work contract with a Spanish company, and the occupation is not urgently needed, making immigration more difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Window Cleaners？**
-- 不介意高空作业、有良好平衡感的人
-- 愿意接受安全培训、注重细节的人
-- 寻求无需高学历即可就业的人
+**Who is suited**
+- People who don't mind working at heights and have good balance
+- Willing to undergo safety training and attention to detail
+- Looking for people who can get employed without a high degree of education
 
-**谁不适合学Window Cleaners？**
-- 有恐高症或身体不便者
-- 希望从事高薪或晋升快的职业者
+**Who is not suited**
+- Those with acrophobia or physical difficulties
+- Those hoping to pursue high-paying or fast-moving careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for window cleaners in Spain?**
+A: Entry-level approx. 18,000-22,000 EUR/year, mid-level 22,000-28,000 EUR/year, senior up to 35,000 EUR/year. Self-employed or seasonal earnings may be higher.
+
+**Q: Can foreigners obtain residency in Spain by working as a window cleaner?**
+A: Difficulties arise from non-scarce occupations. An employer-sponsored work contract is required, and it proves that suitable employees cannot be found within the EU.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Window Cleaners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for window cleaners in Spain?**
-答：Entry-level: €18,000-22,000/year; mid-level: €22,000-28,000/year; senior: up to €35,000/year. Self-employed or in peak season can earn more.
-
-**问：Can foreigners obtain residency as a window cleaner in Spain?**
-答：Difficult, as it is not a shortage occupation. Requires employer sponsorship and proof that no suitable EU worker is available.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

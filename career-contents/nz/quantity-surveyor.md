@@ -1,58 +1,94 @@
-# Quantity Surveyor（Quantity Surveyor）职业分析 · 新西兰
+# Quantity Surveyor — career analysis · New Zealand
 
-**职业代码：233213 – Quantity Surveyor。**
+**Occupation code: 233213 (ANZSCO)**
 
-Quantity Surveyors manage cost estimation, budgeting, and contract settlement in construction projects. Strong demand in New Zealand's building and infrastructure sector, with Green List Tier 1 status enabling direct residence.
+Quantity surveyors handle cost estimation, budget management, and contract settlement in construction projects. New Zealand's construction and infrastructure sector has strong demand, and this occupation is on the Green List Tier 1, allowing direct residency application with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| Level 7 本科 | 3-4年 | $30,000~$45,000（新西兰高校国际生学费，如梅西大学、Unitec） |
-| Level 6 大专 | 2-3年 | $20,000~$30,000（理工学院如 Whitireia、Otago Polytechnic） |
+| Level 7 bachelor's degree | 3-4 years | $30,000~$45,000 (International student tuition at NZ universities, e.g., Massey University, Unitec) |
+| Level 6 Diploma | 2-3 years | $20,000~$30,000 (Polytechnics such as Whitireia, Otago Polytechnic) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NZQS注册会员 | 新西兰工程造价师协会 (NZIQS) | 可选 | 建议获得，增强竞争力 |
-| 学历评估 (NZQA) | NZQA | 可选 | 海外学历需评估对应Level 7 |
+| NZQS registered member | New Zealand Institute of Quantity Surveyors (NZIQS) | Optional | Recommended to obtain to enhance competitiveness |
+| Qualifications Assessment (NZQA) | NZQA | Optional | Overseas qualifications need to be assessed as equivalent to Level 7 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。新西兰建筑活动持续活跃，奥克兰、基督城等地基建和住宅项目推动需求，工程造价师长期短缺，就业增长稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. construction activity remains active in New Zealand, with infrastructure and residential projects in Auckland, Christchurch and other areas driving demand; quantity surveyors are in long-term shortage, with stable employment growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 毕业生起薪约5.5-6.5万 |
-| 中级（3-7年） | $75,000~$110,000 | 注册后薪资可达8.5-10万 |
-| 高级（7年以上） | $110,000~$150,000 | 成本经理或合伙人薪资可超13万 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Graduate starting salary approx. NZD 55k–65k |
+| Mid-level (3–7 years) | $75,000~$110,000 | Salary after registration can reach $85,000-100,000 |
+| Senior (7+ years) | $110,000~$150,000 | Cost managers or partners can earn over £130,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初期从事测算和投标，晋升为项目经理、成本经理或合伙人，也可转至开发商或咨询公司，薪资随经验显著增长。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on quantity surveyors is mixed: automation tools handle quantity surveying, cost database analysis, and standard report generation quickly, but contract negotiation, dispute resolution, and on-site judgment still rely on human experience and responsibility; the core moat lies in legal compliance and stakeholder coordination.
+
+Starting with estimation and tendering, then progressing to project manager, cost manager, or partner; can also move to developer or consultancy roles, with salary increasing significantly with experience.
+
+**Tasks most exposed to AI:**
+
+- Extracting, calculating, and verifying quantity and cost data using automation software
+- Generate standardized cost budgets, cash flow forecasts, and draft final reports
+- Analog estimation and parametric cost analysis based on historical databases
+- Automated review of cost-related compliance in contract terms
+- Process automation of change orders and payment applications via RPA tools
+
+**Where AI augments the role:**
+
+- AI-assisted cost comparison and optimization suggestions for multiple design options
+- Real-time monitoring of project cost variances with early warnings and root cause analysis
+- Smart contract management platform supports clause search, risk identification, and negotiation strategy suggestions
+- Use predictive models to assess the impact of material price fluctuations on total project cost
+- Automatically generate visual cost dashboards to improve communication efficiency with clients and teams
+
+**Human moat:**
+
+- Strategy formulation and communication in complex contract negotiations, claims, and dispute resolution
+- Comprehensive judgment of non-standard project risks (e.g., geology, policy, supply chain disruptions)
+- Acting as the core coordinator and trusted intermediary among owners, contractors, and designers
+- Legal liability and professional stamp certification obligations for estimation results
+- Flexible decision-making for handling non-standard situations like site changes and rework
+
+**Skills to build:**
+
+- Integration of BIM Software (e.g., Navisworks, Revit) with Cost Data
+- Data analysis and predictive modeling (Python/R + machine learning)
+- Operation and tuning of AI contract review tools (e.g., Kira, LexisNexis)
+- Project digital delivery and integrated cost management platforms (e.g., Oracle Aconex)
+- Sustainable building and green cost assessment methods (e.g., LCC, LCA)
+- Stakeholder management and cross-cultural communication skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +97,67 @@ Quantity Surveyors manage cost estimation, budgeting, and contract settlement in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合学历和薪资要求可直接申请居留，无需工作两年。职业在绿色清单 Tier 1，当前最低工资中位数两倍（年薪约6.63万） |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，可根据学历/注册/经验打分，适合有新西兰工作offer的申请人 |
-| Subclass AEWV（Accredited Employer Work Visa） | 受雇于认证雇主可获3年工作签证，积累经验后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Those meeting qualification and salary requirements can directly apply for residency without working for two years. Occupation is on the Green List Tier 1, with current minimum wage double the median (annual salary approx. NZD 66,300). |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, you can score based on qualifications/registration/experience, suitable for applicants with a New Zealand job offer |
+| Subclass AEWV (Accredited Employer Work Visa) | Employed by an accredited employer can get a 3-year work visa, transitioning to residency after gaining experience |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Quantity Surveyor？**
-- 擅长数字和细节的细心型人才
-- 喜欢在建筑行业工作、有良好沟通能力
-- 寻求清晰移民路径的海外建筑从业者
-
-**谁不适合学Quantity Surveyor？**
-- 不喜频繁数字计算和文书工作
-- 偏好创造性而非分析性工作
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- detail-oriented talent skilled with numbers
+- Enjoys working in the construction industry, has good communication skills
+- Overseas construction professionals seeking clear immigration pathways
+
+**Who is not suited**
+- Dislike frequent numerical calculations and paperwork
+- Prefers creative over analytical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for quantity surveyors in New Zealand?**
+A: Entry-level about AUD 55,000-75,000, intermediate AUD 75,000-110,000, senior AUD 110,000-150,000, significant increase after registration.
+
+**Q: How can quantity surveyors immigrate to New Zealand?**
+A: Can apply for residence directly via Green List Tier 1, requiring relevant qualifications and salary at twice the median; or via SMC 6-point system, accumulating points through qualifications/registration/work experience.
+
+**Q: Which schools in New Zealand offer accredited quantity surveying courses?**
+A: Massey University (undergrad), Unitec (undergrad/diploma), Otago Polytechnic (diploma) etc., graduates meet NZIQS accreditation requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Quantity Surveyor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Quantity Surveyors in New Zealand?**
-答：Entry-level NZD55k-75k, mid-career NZD75k-110k, senior NZD110k-150k, with significant increase after registration.
-
-**问：How can Quantity Surveyors migrate to New Zealand?**
-答：Through Green List Tier 1 Straight to Residence Visa with relevant qualification and salary twice the median; or via SMC with points for qualification/registration/experience.
-
-**问：Which New Zealand institutions offer recognized Quantity Surveying programs?**
-答：Massey University (bachelor), Unitec (bachelor/diploma), Otago Polytechnic (diploma) etc., meeting NZIQS accreditation.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

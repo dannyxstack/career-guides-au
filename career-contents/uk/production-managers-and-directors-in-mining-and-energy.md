@@ -1,59 +1,90 @@
-# Production managers and directors in mining and energy（Production managers and directors in mining and energy）职业分析 · UK
+# Production managers and directors in mining and energy — career analysis · United Kingdom
 
-**职业代码：1123 – Production managers and directors in mining and energy。**
+**Occupation code: 1123 (SOC)**
 
-Plan, organise and coordinate production activities in mining, oil, gas and renewable energy sectors, managing resources, budgets and staff to ensure safe and efficient operations.
+Responsible for planning, organizing, and coordinating production activities in mining, oil, gas, and renewable energy; managing resources, budgets, and personnel to ensure safe and efficient operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $18,000~$30,000（工程、地质或相关专业） |
-| 硕士 | 1年 | $20,000~$35,000（矿业工程或能源管理硕士） |
+| Bachelor's degree | 3-4 years | $18,000~$30,000 (Engineering, geology, or related fields) |
+| Master's degree | 1 year | $20,000~$35,000 (Master's degree in mining engineering or energy management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矿业管理资格证书 | Mineral Products Qualifications Council (MPQC) | 必备 | 部分岗位要求 |
-| NEBOSH国家通用证书 | NEBOSH | 可选 | 健康安全管理要求 |
-| 工程学位或同等经验 | 各类大学 | 必备 | 通常必须 |
+| Mining management qualification | Mineral Products Qualifications Council (MPQC) | Required | Some positions require |
+| Engineering degree or equivalent experience | Universities | Required | Typically required |
+| NEBOSH National General Certificate | NEBOSH | Optional | Health and safety management requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。随着英国能源转型和净零目标推进，可再生能源和传统能源领域的管理岗位需求稳定增长。数字化转型和减排要求带来新挑战。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 15,000. With the UK's energy transition and net-zero targets, management roles in renewable and traditional energy sectors are steadily growing. Digital transformation and emission reduction requirements bring new challenges.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 包括津贴 |
-| 中级（3-7年） | $60,000~$85,000 | 包括绩效奖金 |
-| 高级（7年以上） | $85,000~$120,000 | 含董事级别 |
+| Median salary | $63,241 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $45,000~$60,000 | Including allowances |
+| Mid-level (3–7 years) | $60,000~$85,000 | Includes performance bonuses |
+| Senior (7+ years) | $85,000~$120,000 | Including director level |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常由工程师或运营主管晋升，可发展为区域总经理或公司高管。需具备行业经验、管理能力和专业资格（如IoM3）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation will significantly change the work of mining and energy production managers but will not completely replace them. Some data analysis, monitoring, and reporting tasks will be taken over, however human core duties such as on-site decision-making, safety management, and team leadership remain stable.
+
+Usually promoted from engineer or operations supervisor, can advance to regional manager or company executive. Requires industry experience, management skills, and professional qualifications (e.g., IoM3).
+
+**Tasks most exposed to AI:**
+
+- Real-time production data monitoring and exception report generation
+- Preliminary optimization of resource scheduling and production plans
+- Automated organization of equipment maintenance records and compliance checks
+- Routine analysis and forecasting of energy efficiency indicators
+
+**Where AI augments the role:**
+
+- Using AI prediction models to optimize mining progress and energy output
+- Virtual drills using digital twins to improve emergency response plans
+- Using computer vision to automatically identify on-site safety hazards
+- Integrating environmental sensor data into dynamic sustainability reports
+
+**Human moat:**
+
+- Emergency decision-making and crisis management in complex on-site environments.
+- Cross-departmental conflict mediation and team morale maintenance
+- Involves final decision-making and responsibility for safety regulations
+- Creative solutions to unstructured problems
+
+**Skills to build:**
+
+- Industrial big data analysis and visualization (e.g., Python/Power BI)
+- Basics of AI/machine learning applications in resource optimization.
+- Digital twin and simulation software operation
+- Leadership training for human-machine collaboration teams
+- Environmental compliance and ESG reporting automation tools
+
+**Key growth areas:**
 
 - renewable energy
 - digitalisation
@@ -62,68 +93,67 @@ Plan, organise and coordinate production activities in mining, oil, gas and rene
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用，满足薪资和技能要求，雇主担保 |
-| Subclass Global Talent（Global Talent Visa） | 适用于杰出领导者或潜在领导者，需获得背书 |
-| Subclass Scale-up（Scale-up Visa） | 适用于快速增长公司的高技能岗位 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable, meeting salary and skill requirements, employer sponsored |
+| Subclass Global Talent (Global Talent Visa) | For outstanding or potential leaders, requires endorsement |
+| Subclass Scale-up (Scale-up Visa) | For high-skilled positions in rapidly growing companies |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production managers and directors in mining and energy？**
-- 具有工程背景和领导力
-- 适应偏远或艰苦工作环境
-- 对能源行业有热情
-
-**谁不适合学Production managers and directors in mining and energy？**
-- 偏好朝九晚五规律生活
-- 无法承受高压管理责任
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has engineering background and leadership
+- Adapt to remote or harsh working environments
+- Passionate about the energy industry
+
+**Who is not suited**
+- Prefer a regular 9-to-5 routine
+- Unable to handle high-pressure management responsibilities
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in the UK?**
+A: Starting salary around 45,000-60,000 GBP per year, intermediate 60,000-85,000, senior can exceed 120,000, plus allowances and bonuses.
+
+**Q: How can overseas applicants obtain a work visa for the UK?**
+A: Possible via the Skilled Worker visa, requires employer sponsorship and meeting the salary threshold (approx. £38,700 per year). This occupation is on the shortage list, with lower salary thresholds for some roles.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can advance from Production Manager to Regional Operations Director, Vice President, or even CEO, requiring accumulated experience and demonstrated management ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Production managers and directors in mining and energy的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in the UK?**
-答：Entry-level salary is around £45,000-£60,000, mid-level £60,000-£85,000, senior up to £120,000+, plus allowances and bonuses.
-
-**问：How can overseas applicants obtain a UK work visa?**
-答：A Skilled Worker visa requires employer sponsorship and meeting salary threshold (around £38,700). This occupation is on the shortage list, so some roles have lower threshold.
-
-**问：Is there career progression for this occupation?**
-答：Yes, from production manager to regional operations director, vice president or even CEO, requiring experience and management skills.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Interpreters and Translators（Interpreters and Translators）职业分析 · 美国
+# Interpreters and Translators — career analysis · United States
 
-**职业代码：27-3091 – Interpreters and Translators。**
+**Occupation code: 27-3091 (SOC)**
 
-Interpreters and translators convert oral or sign language, or translate written text from one language into another, ensuring accurate communication.
+Interpreters and translators translate spoken or sign language, or written text from one language to another, ensuring accurate information transfer.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$60,000（公立大学学费） |
-| 证书/培训 | 1-2年 | $5,000~$15,000（口笔译培训项目） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Public university tuition) |
+| Certificate/training | 1-2 years | $5,000~$15,000 (Interpreting and translation training programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国翻译协会认证 | ATA | 可选 | 高级认证，提升竞争力 |
-| 法庭口译认证 | 各州法院 | 可选 | 联邦或州级认证，从事法律口译必备 |
-| 医疗口译认证 | CCHI/NBCMI | 可选 | 医疗领域推荐认证 |
+| American Translators Association certification | ATA | Optional | Advanced certification to enhance competitiveness. |
+| Court interpreter certification | State courts | Optional | Federal or state certification, essential for legal interpreting. |
+| Medical Interpreting Certification | CCHI/NBCMI | Optional | Recommended certification in the medical field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 77,400。美国劳工统计局预计2022-2032年该职业就业增长约4%，与平均水平相当。全球化及移民需求推动增长，但机器翻译技术带来一定挑战。
+**Job demand: medium (★★½☆☆).** National workforce approx. 77,400. The US Bureau of Labor Statistics projects employment growth for this occupation of about 4% from 2022 to 2032, about average. Globalization and immigration needs drive growth, but machine translation technology poses some challenges.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 多为兼职或自由译者 |
-| 中级（3-7年） | $50,000~$70,000 | 全职或稳定项目 |
-| 高级（7年+） | $70,000~$100,000 | 专业领域或政府工作 |
+| Median salary | $60,170 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Mostly part-time or freelance translators |
+| Mid-level (3–7 years) | $50,000~$70,000 | Full-time or stable project |
+| Senior (7+ years) | $70,000~$100,000 | Professional field or government work |
+| average salary | $66,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级译员可通过积累经验和获取专业认证（如ATA认证）晋升为高级译员、项目经理或自由译者。也可专攻法律、医疗等领域成为专业译员。
-**AI替代风险：高风险（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
+
+Junior interpreters can advance to senior interpreters, project managers, or freelancers by gaining experience and professional certifications (e.g., ATA certification). They can also specialize in legal, medical, or other fields.
+
+**Tasks most exposed to AI:**
+
+- Standard conference interpreting (e.g., business negotiations)
+- Simple telephone interpreting or community interpreting
+- Basic subtitling/transcription proofreading
+- Standardized oral exam scoring
+
+**Where AI augments the role:**
+
+- Real-time captioning assisting interpretation (AI providing background information)
+- Term base management (AI automatically extracts terms)
+- AI speech-to-text note-taking assistance during simultaneous interpretation
+- Remote interpreting platforms (AI optimizes audio/video).
+- Quality self-check (AI playback comparison against standard translation)
+
+**Human moat:**
+
+- Cultural context understanding and emotional conveyance
+- Rapid decision-making under high pressure
+- Confidentiality and ethical judgment
+- Interpretation of Non-Verbal Signals (Tone, Body Language)
+- Transcreation and rhetorical refinement
+
+**Skills to build:**
+
+- Specialized domain knowledge (legal, medical, financial)
+- AI-assisted translation tools (e.g., Otter.ai, SDL Trados)
+- Remote interpreting platform operations
+- Terminology management and data annotation
+- On-site equipment commissioning and troubleshooting
+- Advanced cross-cultural communication skills
+
+**Key growth areas:**
 
 - Globalization
 - Immigration
@@ -64,69 +99,68 @@ Interpreters and translators convert oral or sign language, or translate written
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需有学士学位，雇主担保，配额限制 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出能力，门槛较高 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 需硕士以上或杰出能力，需PERM |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree, employer sponsorship, quota limits |
+| Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate outstanding ability, high threshold |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Requires master's degree or above or exceptional ability, requires PERM |
 
-**PR难度：较难（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interpreters and Translators？**
-- 精通多语言且文化敏感度高者
-- 对细节有极致追求者
-- 适应高压环境者
-
-**谁不适合学Interpreters and Translators？**
-- 不喜频繁切换语言者
-- 抗压能力弱且追求稳定者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those proficient in multiple languages with high cultural sensitivity
+- Those with extreme attention to detail
+- Those who thrive in high-pressure environments
+
+**Who is not suited**
+- Those who dislike frequent language switching
+- Those with weak stress tolerance and seeking stability
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for interpreters and translators?**
+A: Salary range is broad: entry-level: about $35,000-$50,000 USD, senior: up to $70,000-$100,000. Specialized fields (e.g., medical, legal) pay higher but are more competitive.
+
+**Q: Can interpreters immigrate to the US with an H-1B visa?**
+A: Yes, but requires employer sponsorship and proof of the position's professionalism, usually requiring a bachelor's degree. Limited slots with low lottery odds. O-1 visa is suitable for outstanding talent.
+
+**Q: Will machine translation replace interpreters?**
+A: Machine translation has a significant impact on written translation, but professional interpreting (e.g., conference, court) requires cultural understanding and real-time response, making it difficult to fully replace in the short term.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高风险（★★★★☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较难（★★★½☆） |
-
-Interpreters and Translators为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for interpreters and translators?**
-答：Salaries vary widely: entry-level $35,000-$50,000, senior $70,000-$100,000. Specialized fields like medical/legal pay more but competition is high.
-
-**问：Can interpreters and translators immigrate via H-1B visa?**
-答：Yes, but requires employer sponsorship and proof of specialty occupation, usually a bachelor's degree. Cap is limited with low lottery odds. O-1 is for extraordinary ability.
-
-**问：Will machine translation replace interpreters?**
-答：Machine translation affects translators more, but professional interpreting (conference, court) requires cultural nuance and real-time response, so not fully replaceable soon.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

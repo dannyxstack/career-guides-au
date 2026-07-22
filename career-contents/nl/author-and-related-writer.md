@@ -1,60 +1,96 @@
-# Author and Related Writer（Author and Related Writer）职业分析 · NL
+# Author and Related Writer — career analysis · Netherlands
 
-**职业代码：2641 – Author and Related Writer。**
+**Occupation code: 2641 (ISCO08)**
 
-Responsible for creating literary works, scripts, technical manuals, advertising copy, etc., including novelists, journalists, screenwriters, copywriters. In the Netherlands, this profession can be pursued as a freelancer or employed by publishing houses, media companies, etc.
+Responsible for creating literary works, scripts, technical manuals, advertising copy, etc., including novelists, journalists, screenwriters, copywriters. In the Netherlands, this occupation can be pursued as a freelancer or employed by publishing houses, media companies, etc.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$15,000（非欧盟学生年均学费约10,000-15,000欧元，欧盟学生约2,000欧元） |
-| 硕士 | 1-2年（硕士） | $12,000~$20,000（非欧盟学生年均学费约12,000-20,000欧元） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (Annual tuition fees: approximately €10,000–€15,000 for non-EU students, €2,000 for EU students) |
+| Master's degree | 1-2 years (Master's) | $12,000~$20,000 (Non-EU students pay approximately 12,000-20,000 euros per year in tuition.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关专业学位 | 荷兰大学 | 可选 | 如文学、新闻、传播等学位，非强制 |
-| 写作作品集 | 个人或雇主 | 可选 | 展示写作能力和经验，通常为聘用要求 |
+| Relevant professional degree | Netherlands universities | Optional | Degrees such as literature, journalism, communication, not mandatory |
+| Writing portfolio | Individual or employer | Optional | Demonstrate writing ability and experience, typically a hiring requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。荷兰媒体和出版业稳定，但数字化和自由职业趋势显著，竞争激烈。英语和荷兰语双语能力有优势，新兴数字内容创作领域有增长机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The Dutch media and publishing industry is stable, but digitalization and freelance trends are significant, with intense competition. Bilingual skills in English and Dutch are advantageous, and growing opportunities exist in digital content creation.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，受雇于媒体或出版公司 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪，包括资深编辑、专业文案 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，如内容总监、畅销书作者 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary, employed by media or publishing companies |
+| Mid-level (3–7 years) | $35,000~$50,000 | Annual pre-tax salary, including senior editors and professional copywriters |
+| Senior (7+ years) | $50,000~$70,000 | Pre-tax annual salary, e.g. content director, best-selling author |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级撰稿人向资深编辑、内容总监或独立作者发展。积累行业人脉和作品集是关键，部分作者转向跨媒体创作或自出版。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI is reshaping the work of authors and related writing professionals, with repetitive writing tasks being replaced, but creative ideation, in-depth research, and personalized expression becoming more valued. Freelancers need to proactively embrace AI tools to stay competitive.
+
+Progress from junior copywriter to senior editor, content director, or independent author. Building industry connections and a portfolio is key; some authors move into cross-media creation or self-publishing.
+
+**Tasks most exposed to AI:**
+
+- Generate standardized news reports and financial summaries
+- Write basic advertising copy and product descriptions
+- Translate and localize simple text
+- Content proofreading and basic editing
+- Generating social media posts and headlines
+
+**Where AI augments the role:**
+
+- Use AI for rapid literature review and fact-checking
+- Use AI to generate initial drafts and optimize narrative structure
+- Adjust content strategy by analyzing reader data using AI
+- Distribute multilingual content with the help of AI tools
+- Using AI to assist creative ideation and storyboard development
+
+**Human moat:**
+
+- Deep original thinking and complex narrative ability
+- Experience-based unique perspectives and critical analysis
+- Empathy and trust-building with interviewees
+- Legal and ethical judgments (e.g., handling sensitive topics)
+- Cross-media storytelling and brand tone management
+
+**Skills to build:**
+
+- Advanced prompt engineering for AI writing tools (e.g. ChatGPT, Claude)
+- Data analysis and data visualisation skills
+- SEO and content marketing strategies
+- Video scriptwriting and multimedia storytelling
+- Project management and client collaboration skills
+- Basic programming (e.g., Python scraping for research assistance)
+
+**Key growth areas:**
 
 - Digital Content
 - Freelance Economy
@@ -63,66 +99,68 @@ Responsible for creating literary works, scripts, technical manuals, advertising
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant permit） | 适用于受雇于认可担保人的高技术移民，需满足工资门槛（2024年约€5,331/月，30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，需工作合同和较高工资（2024年约€5,331/月） |
-| Subclass Orientation Year（Orientation Year permit） | 适用于荷兰毕业的外国学生，可在一年内寻找工作，无限制 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant permit) | For highly skilled migrants employed by an accredited sponsor; must meet salary threshold (2024: approx. €5,331/month, over 30) |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and a higher salary (approx. €5,331/month in 2024) |
+| Subclass Orientation Year (Orientation Year permit) | Applies to foreign students who graduated in the Netherlands, allowing them to seek work within one year, no restrictions |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Author and Related Writer？**
-- 有创意和独立工作能力的人
-- 精通荷兰语或英语，能写多种文体的人
-- 适应自由职业和灵活工作模式的人
+**Who is suited**
+- People with creativity and independent working ability
+- Proficient in Dutch or English, able to write in multiple styles
+- People who adapt to freelancing and flexible work models
 
-**谁不适合学Author and Related Writer？**
-- 追求稳定高薪和固定工作时间的人
-- 不愿承担项目不确定性的人
+**Who is not suited**
+- People seeking stable high income and fixed working hours
+- People unwilling to take on project uncertainty
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for authors in the Netherlands?**
+A: salaried authors earn approximately €25,000-€35,000 per year at entry level, up to €70,000 for senior. Freelancers have unstable income, depending on projects
+
+**Q: How can foreigners work as writers in the Netherlands?**
+A: Apply for a high-skilled migrant visa through employment with an approved sponsor, or apply for residency as a freelancer. Must meet income requirements, but writing occupations are usually not on the shortage list.
+
+**Q: What career development paths exist for Dutch authors?**
+A: From junior copywriter to editor, content manager, or become an independent writer, columnist. Opportunities in digital content and new media are increasing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Author and Related Writer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for authors in the Netherlands?**
-答：Employed authors earn around €25,000-€35,000 at entry level, up to €70,000 for senior. Freelancers have variable income depending on projects.
-
-**问：How can foreigners work as writers in the Netherlands?**
-答：By obtaining a highly skilled migrant visa with an employer, or as a freelancer. Meeting income thresholds is required, but writing is not on shortage lists.
-
-**问：What are the career paths for authors in the Netherlands?**
-答：From junior writer to editor, content manager, or independent author. Opportunities in digital content and new media are growing.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

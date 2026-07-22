@@ -1,59 +1,93 @@
-# Mining Engineering Supervisors（Mining Engineering Supervisors）职业分析 · ES
+# Mining Engineering Supervisors — career analysis · Spain
 
-**职业代码：3201 – Mining Engineering Supervisors。**
+**Occupation code: 3201 (CNO)**
 
-Mining engineering supervisors oversee mining operations, ensuring safety and efficiency, managing teams, and coordinating equipment maintenance. Typically employed in northern Spain's mining regions like Asturias and León.
+The mining engineering supervisor is responsible for supervising mining operations, ensuring production safety and efficiency, managing the mining team, and coordinating equipment maintenance. They usually operate in northern Spanish mining areas (such as Asturias and León).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士/Grado + Máster | 6年（Grado 4年 + Máster 2年） | $12,000~$24,000（公立大学Grado约800-1500€/年，Máster约2000-4000€/年，共约1.2万-2.4万欧） |
-| 高级职业培训（FP Grado Superior） | 2年 | $2,000~$5,000（公立FP中心免费或低学费，私立约2000-5000€总费用） |
+| Master's / Grado + Máster | 6 years (Grado 4 years + Máster 2 years) | $12,000~$24,000 (Public university tuition: Grado approx. €800-1,500/year, Máster approx. €2,000-4,000/year, totaling around €12,000-24,000.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $2,000~$5,000 (Public FP center free or low tuition, private total cost about EUR 2,000-5,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矿业工程本科学位（Grado en Ingeniería de Minas） | 西班牙大学 | 必备 | 攻读矿业工程本科，学习采矿技术、地质力学、通风排水等 |
-| 硕士或专业培训（Máster en Minería） | 西班牙大学 | 可选 | 非必须但有助于晋升主管，学习管理技能和先进采矿技术 |
-| 预防风险认证（Prevención de Riesgos Laborales） | Instituto Nacional de Seguridad y Salud en el Trabajo | 必备 | 安全法规要求，主管需持有 |
+| Undergraduate Degree in Mining Engineering (Grado en Ingeniería de Minas) | Spanish University | Required | Pursue undergraduate studies in mining engineering, including mining technology, geomechanics, ventilation and drainage, etc |
+| Risk Prevention Certification (Prevención de Riesgos Laborales) | Instituto Nacional de Seguridad y Salud en el Trabajo | Required | Safety regulations require the supervisor to hold the necessary documents |
+| Master's or Professional Training (Máster en Minería) | Spanish University | Optional | Not essential but helpful for promotion to supervisor, learning management skills and advanced mining technologies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。西班牙矿业以煤炭、金属矿为主，近年受绿色转型影响传统采矿岗位减少，但锂、稀土等关键矿物需求上升，且需要经验丰富的监督人员确保合规。未来就业稳定但增长有限。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,500. Spain's mining industry is mainly coal and metal ores. In recent years, traditional mining jobs have decreased due to the green transition, but demand for key minerals like lithium and rare earths is rising, requiring experienced supervisors to ensure compliance. Future employment is stable but growth is limited.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 助理主管或小型矿场 |
-| 中级（4-7年） | $38,000~$50,000 | 中型矿场主管 |
-| 高级（8年以上） | $50,000~$65,000 | 大型矿场或区域主管 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$38,000 | Assistant supervisor or small mining farm |
+| Mid-level (4-7 years) | $38,000~$50,000 | Medium-sized mine supervisor |
+| Senior (8+ years) | $50,000~$65,000 | Large mining or regional supervisors |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从采矿技术员或操作工晋升为主管，再升为矿区经理或区域运营总监。持有矿业工程学位或多年经验者更易晋升。需持续学习安全法规和新技术。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mining engineers are affected by both AI automation and augmentation: repetitive design and monitoring are easily replaced, but strategic decisions and compliance responsibilities still require humans. The overall impact tends to task reorganization rather than job elimination.
+
+You can be promoted from mining technician or operator to supervisor, and then to mining area manager or regional operations director. Candidates with a degree in mining engineering or many years of experience are more likely to be promoted. Continuous learning of safety regulations and new technologies is necessary.
+
+**Tasks most exposed to AI:**
+
+- Ore reserve estimation and geological modeling; AI can automatically process data and generate 3D models
+- Mine production scheduling optimization: AI algorithms adjust mining plans in real-time
+- For routine geotechnical stability analysis, AI can quickly calculate safety factors
+- Environmental monitoring report generation: AI can automatically summarize sensor data and draft initial reports
+
+**Where AI augments the role:**
+
+- Mine design and cost optimization, AI provides multi-scenario simulation, allowing engineers to choose the optimal solution
+- Risk assessment and emergency plans, AI predicts accident probability based on historical data to assist decision-making
+- Remote monitoring and predictive maintenance of mining equipment, AI fault alerts reducing downtime
+- Safety compliance review: AI scans regulatory updates and flags potential violations
+- Team collaboration and interdisciplinary communication, AI translation of technical documents, fostering consensus
+
+**Human moat:**
+
+- Overall mine development strategy formulation and feasibility study decisions
+- Multi-stakeholder coordination with regulatory bodies, communities, and investors
+- Innovative solutions under complex geological conditions (e.g., deep wells, high stress)
+- Final safety responsibility and legal compliance sign-off for AI output
+
+**Skills to build:**
+
+- AI/Machine learning basics, especially geostatistics and optimization algorithms
+- Data Science & Python/R Programming, Handling Sensor & Geological Data
+- Digital Twin and 3D Modeling Software (e.g., Deswik, Surpac)
+- Automated mining system integration and remote operation platforms (e.g., MineStar)
+- Project management and ESG (environmental, social, governance) assessment skills
+- Human-machine collaboration and AI result validation methodologies.
+
+**Key growth areas:**
 
 - Mining
 - Safety Compliance
@@ -62,68 +96,67 @@ Mining engineering supervisors oversee mining operations, ensuring safety and ef
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 需持有大学学位及雇佣合同，年薪不低于西班牙平均工资1.5倍（约3.7万€），采矿工程主管通常符合 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的工作居留，需证明职位无法由本地人填补，通过紧缺岗位目录申请 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高学历技术人才，年薪需达4万€以上，适合主管级别 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Must hold a university degree and employment contract with an annual salary at least 1.5 times the Spanish average wage (approx. €37,000). Mining engineering supervisors usually meet this. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employer-sponsored work residence, applicants must prove that the position cannot be filled by local residents and apply through the Shortage Job List |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly skilled technical talent, annual salary must exceed €40,000, suitable for supervisor level |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Engineering Supervisors？**
-- 喜欢户外和矿山环境，动手能力强
-- 有工程背景或采矿经验，注重安全
-- 愿意在偏远矿区工作，适应轮班
-
-**谁不适合学Mining Engineering Supervisors？**
-- 不适应封闭或高危险环境
-- 偏好城市办公、规律时间
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and mining environments, strong hands-on ability
+- Having an engineering background or mining experience, with a focus on safety
+- Willing to work in remote mining areas and adapt to shift work
+
+**Who is not suited**
+- Not suitable for enclosed or high-risk environments
+- Preference for city office work and regular hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for mining engineering supervisors in Spain?**
+A: Entry-level around EUR 30,000-38,000, mid-level EUR 38,000-50,000, senior EUR 50,000-65,000, depending on experience and mine size.
+
+**Q: How can foreigners immigrate to Spain through the position of Mining Engineering Supervisor?**
+A: You can obtain an EU Blue Card (requiring a university degree and employment contract) or a highly skilled professional visa with employer sponsorship. Mining is not a scarce occupation, but work permits can be applied for.
+
+**Q: What is the career development path for mining engineering supervisors?**
+A: Rise from technician or operator to supervisor, then to mining area manager or regional operations director. Experience and management courses are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mining Engineering Supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mining engineering supervisors in Spain?**
-答：Entry-level €30k-38k, mid-level €38k-50k, senior €50k-65k per year depending on experience and mine size.
-
-**问：How can foreigners migrate to Spain as mining engineering supervisors?**
-答：Via EU Blue Card (requires degree and contract) or Highly Skilled Professional visa with employer sponsorship. Mining is not a shortage occupation but work permits are possible.
-
-**问：What is the career progression for mining engineering supervisors?**
-答：From technician/operator to supervisor, then to mine manager or regional operations director. Requires experience and management training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

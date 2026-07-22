@@ -1,60 +1,96 @@
-# Industrial and Production Engineers（Industrial and Production Engineers）职业分析 · ES
+# Industrial and Production Engineers — career analysis · Spain
 
-**职业代码：2431 – Industrial and Production Engineers。**
+**Occupation code: 2431 (CNO)**
 
-Industrial and production engineers design, optimize, and manage production processes and manufacturing systems to improve efficiency, reduce costs, and ensure product quality, playing a key technical role in the manufacturing and industrial sectors.
+Industrial and production engineers are responsible for designing, optimizing, and managing production processes and manufacturing systems, aiming to improve efficiency, reduce costs, and ensure product quality. They play a core technical role in the manufacturing and industrial sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学学费约1000-2000欧元/年，私立大学约6000-12000欧元/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$8,000（工业工程或生产管理方向硕士，公立大学约2000-4000欧元，私立约6000-12000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立FP免费或低学费，适合转行或技术员晋升） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public university tuition approx EUR 1,000-2,000/year; private university approx EUR 6,000-12,000/year.) |
+| Máster | 1-2 years | $2,000~$8,000 (Master's degrees in Industrial Engineering or Production Management at public universities cost about 2,000-4,000 euros, private ones about 6,000-12,000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$1,500 (Public FP offers free or low tuition, suitable for career changes or promotion to technician) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业工程本科/硕士学位 | 西班牙大学（需通过学历认证homologación） | 必备 | 非欧盟学位需通过西班牙教育部学历认证，费用约200-500欧元 |
-| 西班牙官方工程师认证（Ingeniero Industrial） | 西班牙工业工程师协会（COGITI等） | 可选 | 特定领域（如能源、安全）需要官方认证，非强制但提升就业竞争力 |
-| 精益六西格玛绿带/黑带 | 国际认证机构（如ASQ） | 可选 | 行业认可度高的技能证书，无学历要求 |
+| Bachelor's/Master's degree in Industrial Engineering | Spanish universities (homologación required for academic credential verification) | Required | Non-EU degrees require credential certification from the Spanish Ministry of Education, costing about 200-500 euros |
+| Spanish Official Engineer Certification (Ingeniero Industrial) | Spanish Industrial Engineers Association (COGITI, etc.) | Optional | Specific fields (such as energy and security) require official certification; it is not mandatory but enhances employment competitiveness |
+| Lean Six Sigma Green/Black Belt | International Certification Bodies (such as ASQ) | Optional | Highly recognized skills certificates in the industry, with no educational requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 18,500。西班牙工业4.0和数字化转型推动了对这类工程师的需求。汽车、航空航天、化工和可再生能源行业是主要雇主。尽管经济波动影响招聘，但具备自动化和精益生产技能的工程师仍较抢手，未来5年预计需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 18,500. Spain's Industry 4.0 and digital transformation have driven demand for these types of engineers. The automotive, aerospace, chemical, and renewable energy industries are the main employers. Despite economic fluctuations affecting recruitment, engineers with automation and lean manufacturing skills remain in high demand, and demand is expected to remain stable over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，通常含14薪 |
-| 中级（4-7年） | $33,000~$45,000 | 税前年薪，大型企业或跨国公司更高 |
-| 高级（8年以上） | $45,000~$65,000 | 税前年薪，生产经理或工厂经理可达70000欧元以上 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary, usually including 14 months |
+| Mid-level (4-7 years) | $33,000~$45,000 | Pre-tax annual salaries are higher for large corporations or multinational corporations |
+| Senior (8+ years) | $45,000~$65,000 | Pre-tax annual salary, production manager or factory manager can exceed 70,000 euros |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业初期可担任生产工程师或工艺工程师；积累经验后可晋升为生产经理、工厂经理或运营总监；也可向供应链管理、质量工程或咨询方向发展。掌握工业数据分析、物联网和自动化技术将加速晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
+
+At the start of the career, you can work as a production engineer or process engineer; After gaining experience, you can be promoted to Production Manager, Plant Manager, or Operations Director; You can also develop into supply chain management, quality engineering, or consulting. Mastering industrial data analytics, IoT, and automation technologies will accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and inventory optimization calculations based on historical data
+- Standard time measurement and production line balancing calculations and report generation
+- Automatic plotting and anomaly detection of statistical process control charts for quality control
+- Basic data analysis and visualization in lean production
+- Preliminary parameter setup and operation of simulation models (e.g., discrete event simulation)
+
+**Where AI augments the role:**
+
+- Use AI for complex system simulation and digital twin modeling to rapidly iterate production solutions
+- Use machine learning to predict equipment failures and maintenance needs, optimizing preventive maintenance plans
+- Uses AI-driven optimization algorithms (e.g., reinforcement learning) to dynamically adjust production scheduling
+- AI-assisted ergonomic analysis and workstation design to improve employee efficiency and comfort
+- Automated generation of data dashboards and decision recommendations to accelerate management reporting and decision-making.
+
+**Human moat:**
+
+- Cross-departmental coordination and change management, driving Lean/Six Sigma culture implementation
+- Understand human behavior and organizational dynamics, design human-centered process improvements.
+- Handles unstructured, multivariable coupled systemic problems
+- On-site problem diagnosis and rapid response based on experience and intuition.
+- Lifecycle cost-benefit analysis and strategic decision-making for projects
+
+**Skills to build:**
+
+- Python/R with data analysis libraries (Pandas, NumPy) for automated reporting and modeling
+- Machine learning basics, especially applications in predictive models and anomaly detection
+- Digital twin and simulation tools (e.g., Anylogic, Simio)
+- AI-driven optimization algorithms (introduction to genetic algorithms, reinforcement learning)
+- Data visualization tools (Tableau, Power BI)
+- Human-machine collaboration and AI applications in ergonomics
+
+**Key growth areas:**
 
 - Industry 4.0
 - Automation
@@ -63,68 +99,67 @@ Industrial and production engineers design, optimize, and manage production proc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 面向高技能非欧盟公民，需大学学历+工作合同，薪资门槛约33000欧元/年（2024年），可带家属，快速获得居留。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 传统受雇工作居留，由雇主担保，需证明招聘困难（紧缺职业可简化流程），无严格薪资门槛，但需高于最低工资。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适用于大型企业或集团内部调动的高管或专家，需大学学历+5年经验，快速通道（30天内审批）。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled non-EU citizens, requires university degree + work contract, salary threshold approx EUR 33,000/year (2024), can bring family, fast track to residency. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Traditional employed work residence, sponsored by employers, requires proof of recruitment difficulties (for shortage occupations that can simplify procedures), no strict salary threshold, but must be above minimum wage. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for executives or experts transferred within large enterprises or groups, requiring a university degree + 5 years of experience, fast-track (approval within 30 days). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial and Production Engineers？**
-- 理工科背景，喜欢解决实际生产问题的人
-- 具备系统思维和项目管理能力的人
-- 愿意在制造业、能源或自动化领域长期发展的人
-
-**谁不适合学Industrial and Production Engineers？**
-- 不喜欢工厂环境或频繁出差的人
-- 希望快速转行或追求极高薪资的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a science and engineering background who enjoy solving practical production problems
+- People with systems thinking and project management skills
+- Individuals willing to develop long-term careers in manufacturing, energy, or automation sectors
+
+**Who is not suited**
+- People who dislike factory environments or frequent travel
+- Those who want to change careers quickly or pursue extremely high salaries
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for industrial and production engineers in Spain?**
+A: Starting salaries are typically 24,000-32,000 euros per year, mid-level engineers about 33,000-45,000 euros, and senior or management positions can earn over 60,000 euros. Salaries are influenced by industry, company size, and region, with Madrid and the Basque Country being higher.
+
+**Q: How can non-EU citizens immigrate to Spain as Industrial and Production Engineers?**
+A: Main pathways are the EU Blue Card (requires employment contract + degree recognition) or traditional work residence. Shortage occupations (e.g., industrial engineers) can simplify employer sponsorship process. Requires prior degree recognition (homologación) and Spanish language proficiency (usually B1 or higher).
+
+**Q: What are the career prospects for Industrial and Production Engineers?**
+A: You can be promoted from production engineer to production manager, plant manager, or operations director, or move into supply chain, quality, or consulting fields. Mastering digital twins, industrial IoT, and lean manufacturing skills will increase promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial and Production Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for industrial and production engineers in Spain?**
-答：Entry-level salaries range from €24,000 to €32,000 per year, mid-level from €33,000 to €45,000, and senior/managerial positions can exceed €60,000. Salaries vary by industry, company size, and region, with Madrid and the Basque Country offering higher pay.
-
-**问：How can non-EU citizens migrate to Spain as industrial and production engineers?**
-答：Main routes are EU Blue Card (job offer + degree recognition) or traditional work permit. The shortage occupation status of industrial engineers simplifies employer sponsorship. Degree homologation and Spanish language skills (at least B1) are required.
-
-**问：What are the career prospects for industrial and production engineers?**
-答：Career progression includes moving from production engineer to production manager, plant manager, or operations director, or pivoting to supply chain, quality, or consulting. Skills in digital twins, IIoT, and lean manufacturing enhance promotion prospects.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

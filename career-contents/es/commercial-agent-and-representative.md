@@ -1,60 +1,96 @@
-# Commercial Agent and Representative（Commercial Agent and Representative）职业分析 · ES
+# Commercial Agent and Representative — career analysis · Spain
 
-**职业代码：3510 – Commercial Agent and Representative。**
+**Occupation code: 3510 (CNO)**
 
-Commercial agents and representatives act as intermediaries between companies, facilitating transactions, negotiating contracts, and maintaining client relationships, primarily in wholesale trade and industry. They typically represent multiple firms and are compensated via commission or fixed fees.
+Commercial agents and representatives act as intermediaries connecting enterprises, responsible for facilitating transactions, negotiating contracts, and maintaining client relationships, mainly active in wholesale trade and industrial sectors. They usually represent multiple companies and work on a commission or fixed pay.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育或FP中等 | 2年（FP Grado Medio） | —（公立FP免学费，仅注册费） |
-| 高等职业教育FP高级 | 2年（FP Grado Superior） | —（公立FP免学费，私立约2000欧元/年） |
+| Secondary education or FP secondary education | 2 years (FP Grado Medio) | $0~$1,500 (Public FPs are free of tuition, only the registration fee is required) |
+| Advanced Vocational Education FP | 2 years (FP Grado Superior) | $0~$2,000 (Public FP tuition-free, private approx. EUR 2,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP高等学位（商业或销售） | 西班牙教育部认可的FP中心 | 可选 | 非强制但普遍要求 |
-| 商业代理注册（若独立执业） | 西班牙商业代理协会（Colegio de Agentes Comerciales） | 可选 | 独立商业代理通常需注册，雇员代理无强制要求 |
+| FP Higher Degree (Business or Sales) | An FP center recognized by the Spanish Ministry of Education | Optional | Not mandatory but commonly required |
+| Business agent registration (if practicing independently) | Spanish Business Agents Association (Colegio de Agentes Comerciales) | Optional | Independent business agents usually require registration, and there are no mandatory requirements for employee agents |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。西班牙商业代理行业受经济周期影响较大。数字化和电子商务的发展正在改变传统销售模式，但对专业B2B代表的需求仍然稳定。预计未来五年就业增长缓慢至平稳，年增长率约1-2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Spain's commercial agency industry is heavily affected by economic cycles. The development of digitalization and e-commerce is transforming traditional sales models, but demand for professional B2B representatives remains stable. Employment growth is expected to slow to steady over the next five years, with an annual growth rate of about 1-2%.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 通常含基本工资+佣金，固定底薪约18,000-24,000欧元 |
-| 中级（3-7年） | $24,000~$36,000 | 业绩稳定的代理，总收入可达30,000-40,000欧元 |
-| 高级（7年以上） | $36,000~$55,000 | 资深代理或团队主管，高佣金提成，总收入可超50,000欧元 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Usually includes base salary + commission, with a fixed base salary of about 18,000-24,000 euros |
+| Mid-level (3–7 years) | $24,000~$36,000 | Stable performance for agents can earn a total income of 30,000-40,000 euros |
+| Senior (7+ years) | $36,000~$55,000 | Senior agents or team leaders offer high commission commissions, with total income exceeding 50,000 euros |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级商业代理通常从区域销售代表做起，积累客户资源和行业经验后可晋升为高级代理或团队主管。部分优秀代理可转型为销售经理或业务发展经理，或独立开设代理公司。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The roles of business agents and representatives will be significantly reshaped by AI: tasks like information retrieval and report generation will be compressed, but core tasks like negotiation and client relationships will be enhanced. The number of positions may decrease, but their value will increase.
+
+Junior commercial agents usually start as regional sales representatives, and after accumulating client resources and industry experience, can be promoted to senior agents or team leaders. Some outstanding agents can transition to sales managers or business development managers, or establish their own agency companies.
+
+**Tasks most exposed to AI:**
+
+- Automated customer information retrieval and market data collection
+- Generate standardized sales reports and draft contracts
+- Automatically filter lead leads and send follow-up emails
+- Use AI scheduling systems to arrange meetings and schedules
+- Simple demand forecasting based on historical data
+
+**Where AI augments the role:**
+
+- Utilize AI to analyze customer historical behaviors and provide personalized negotiation strategy recommendations
+- Real-time translation and cross-cultural communication support to expand into international markets
+- AI-assisted intelligent review of contract terms and risk alerts
+- Optimize product portfolio and pricing strategies based on big data analysis
+- The virtual assistant records meeting points in real time and generates action lists
+
+**Human moat:**
+
+- Emotional perception and relationship building in complex negotiations
+- Strategic business insights across customers and product lines
+- Building connections and trust in emerging markets
+- Creative design of high-value contract terms and coordination among multiple parties
+- Quick decision-making and client reassurance in crisis management
+
+**Skills to build:**
+
+- Operation and integration of AI tools (such as CRM AI, contract analysis software).
+- Data analysis and visualization (e.g., Python, Tableau)
+- Advanced negotiation skills and cross-cultural communication
+- Industry expertise (such as specific manufacturing or trade rules)
+- Digital marketing and social media sales capabilities
+- Basic programming (for custom automation scripts)
+
+**Key growth areas:**
 
 - B2B Sales
 - Relationship Management
@@ -63,65 +99,67 @@ Commercial agents and representatives act as intermediaries between companies, f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留：需获得西班牙公司的工作合同，公司需证明职位无法在欧盟填补。商业代表职位通常不在紧缺列表，申请难度中等。 |
-| Subclass Busqueda empleo（Job Search Visa） | 求职居留：适用于在西班牙完成学业后的毕业生，可在西班牙停留12个月寻找工作，找到工作后转为工作居留。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence: You must obtain a work contract with a Spanish company, and the company must prove that the position cannot be filled in the EU. Business representative positions are usually not on the shortage list and have moderate difficulty to apply. |
+| Subclass Busqueda empleo (Job Search Visa) | Job-seeking residence: Suitable for graduates who complete their studies in Spain, allowing them to stay in Spain for 12 months to find a job, and then convert to work-based residence after finding a job. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Commercial Agent and Representative？**
-- 擅长人际沟通与谈判的人
-- 自驱力强、能独立完成销售目标的人
-- 对B2B销售和长期客户关系管理感兴趣的人
+**Who is suited**
+- Skilled in interpersonal communication and negotiation
+- Highly motivated individuals who can independently achieve sales targets
+- For those interested in B2B sales and long-term customer relationship management
 
-**谁不适合学Commercial Agent and Representative？**
-- 不喜频繁出差和社交的人
-- 对业绩压力敏感、偏好固定收入的人
+**Who is not suited**
+- People who dislike frequent business trips and socializing
+- People sensitive to performance pressure who prefer fixed income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does commercial agency income rely entirely on commissions?**
+A: Not necessarily. Most companies offer a base salary plus commission structure, with a base salary usually between 1,500 and 2,000 euros per month, and commissions based on performance. Some independent agents settle entirely on commissions.
+
+**Q: Is it easy for foreigners to become business agents in Spain?**
+A: It's harder. Business agent positions typically require local experience and client resources, and Spanish companies must prove they cannot recruit EU citizens to provide work visas. Fluency in Spanish is a requirement.
+
+**Q: Is there career advancement potential for commercial agents?**
+A: Yes. You can be promoted from junior regional sales representative to senior commercial agent, team leader, or even sales manager or business development manager. Some experienced agents independently establish their own agency companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Commercial Agent and Representative属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of a commercial agent entirely commission-based?**
-答：Not necessarily. Most companies offer a base salary plus commission structure, with base salary typically between €1,500-2,000/month, plus performance-based commission. Some independent agents work on pure commission.
-
-**问：Is it easy for foreigners to become commercial agents in Spain?**
-答：It is difficult. Commercial agent positions typically require local experience and client networks, and Spanish companies must prove inability to hire EU citizens to obtain a work visa. Fluency in Spanish is mandatory.
-
-**问：Is there career advancement for commercial agents?**
-答：Yes. One can progress from junior regional sales representative to senior commercial agent, team supervisor, or even sales manager or business development manager. Experienced agents may start their own agency.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

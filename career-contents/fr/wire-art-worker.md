@@ -1,58 +1,92 @@
-# Wire Art Worker（Wire Art Worker）职业分析 · FR
+# Wire Art Worker — career analysis · France
 
-**职业代码：B1804 – Wire Art Worker。**
+**Occupation code: B1804 (ROME)**
 
-Creates decorative objects, sculptures, and jewelry by shaping, weaving, welding, and assembling metal wires such as iron, copper, and aluminum. Requires artistic sense and manual skills in traditional craftsmanship.
+Engaged in hand-shaping, weaving, welding, and assembling metal wires (such as iron wire, copper wire, aluminum wire, etc.), as well as creating decorative items, sculptures, jewelry, and other artworks. This profession belongs to the traditional handicraft field and requires strong aesthetic ability and handicraft skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 手工艺（金属丝方向） | 2年（CAP） | —（公立学校免费，材料费自理；学徒制有工资） |
-| BMA 手工艺（金属雕塑方向） | 2年（BMA，BAC+2） | —（公立学校免费，私立学校约3000-5000欧元） |
+| CAP Handicrafts (Wire Direction) | 2 years (CAP) | $0~$3,000 (Public schools are free, but materials are self-paid; Apprenticeships are paid) |
+| BMA Handicrafts (Metal Sculpture Track) | 2 years (BMA, BAC+2) | $0~$5,000 (Public schools are free, while private schools cost about 3,000-5,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 手工艺从业资格证书 | 法国教育部 | 必备 | 具备基础金属加工技能，非强制但行业通行 |
-| BMA 手工艺高级证书 | 法国教育部 | 可选 | 高级技能证明，有助于提升竞争力 |
+| CAP Handicraft Practitioner Qualification Certificate | French Ministry of Education | Required | Basic metalworking skills are required, not mandatory but industry-standard |
+| BMA Advanced Handicraft Certificate | French Ministry of Education | Optional | Advanced skill certification helps enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 450。法国手工艺市场稳定，但该职业受奢侈品、旅游纪念品和定制装饰需求驱动。由于自动化替代性低，手工技艺依然有生存空间。不过整体就业机会有限，多为自雇或小型工作室模式。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 450. The French handicraft market is stable, but the profession is driven by demand for luxury goods, travel souvenirs, and custom decorations. Due to the low substitution of automation, handicrafts still have room to survive. However, overall employment opportunities are limited, mostly self-employed or small studios.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，多为自雇或小型工作室，收入波动大 |
-| 中级（3-8年） | $24,000~$35,000 | 税前年薪，技艺提升后订单稳定 |
-| 高级（8年以上） | $35,000~$50,000 | 税前年薪，知名工匠或工作室负责人 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salaries are mostly self-employed or small studios, with large income fluctuations |
+| Mid-level (3–8 years) | $24,000~$35,000 | Pre-tax annual salary, stable orders after skill improvement |
+| Senior (8+ years) | $35,000~$50,000 | Pre-tax annual salary, well-known craftsmen or studio leaders |
+| average salary | $26,988 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 从业者通常从学徒起步，积累经验后可晋升为高级工匠或工作室负责人。部分优秀艺人可通过参加展览、获得手工艺大师称号提升知名度。少数人可能转向教学或开设自己的品牌。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Wire craft makers face high automation risks. AI-driven design and manufacturing tools will gradually take over standardized modeling tasks, but complex craftsmanship and artistic creation remain the core moat.
+
+Practitioners usually start as apprentices and can be promoted to senior craftsmen or workshop leaders after gaining experience. Some outstanding artists can increase their visibility by participating in exhibitions and earning the title of Master Handicraftsman. A few may turn to teaching or starting their own brands.
+
+**Tasks most exposed to AI:**
+
+- Basic Metal Wire Modeling Design (AI-generated patterns and automatic winding)
+- Repetitive weaving and joining operations (completed by robotic arms or automated equipment)
+- Standard Dimension Adjustment and Symmetry Correction (Automatic Algorithm Optimization)
+- Inventory management and material cutting (AI-optimized cutting)
+
+**Where AI augments the role:**
+
+- Inspiration and Creative Conception (AI-generated diverse style reference)
+- Customized customer communication (AI quickly generates 3D previews and modifications)
+- Complex structure stability calculations (AI simulation of load-bearing and deformation)
+- Skills Education and Training (AI-Assisted Teaching Videos and Interactive Tutorials)
+
+**Human moat:**
+
+- Highly personalized and artistic design creation
+- Manual soldering and fine adjustments (perception and tactile feedback)
+- Material characteristics: intuitive and unpredictable creativity
+- Customer trust and brand storybuilding
+- Cross-disciplinary integration (such as combining other handicrafts or cultural elements)
+
+**Skills to build:**
+
+- AI-assisted design tools (such as Midjourney, Stable Diffusion)
+- 3D modeling and printing (Rhino, Blender, FDM/SLA)
+- Fundamentals of Digital Manufacturing (Laser Cutting, CNC)
+- Social media marketing and online sales
+- Fundamentals of Materials Science and Engineering
+- Basic programming (Python for custom generation)
+
+**Key growth areas:**
 
 - Handicraft
 - Luxury artisan
@@ -61,68 +95,67 @@ Creates decorative objects, sculptures, and jewelry by shaping, weaving, welding
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家或手工艺师，需提供作品集和项目计划，无雇主担保也可申请 |
-| Subclass Salarié（Employee Work Permit） | 若被法国企业或工作室雇佣，可申请受雇工作居留 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪需达法国平均水平，适合受雇于企业的高技能手工艺师，但此类职业较少达门槛 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for artists or craftsmen, requiring a portfolio and project plan; applicants without employer sponsorship are also acceptable |
+| Subclass Salarié (Employee Work Permit) | If employed by a French company or studio, you can apply for employment residence |
+| Subclass Carte bleue UE (EU Blue Card) | The annual salary must meet the French average, making it suitable for highly skilled artisans employed by companies, but such occupations rarely meet the threshold |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wire Art Worker？**
-- 热爱手工创作、有耐心和细致手工能力的人
-- 具有艺术审美和设计思维的人
-- 能接受自雇或小型工作室模式、不追求高薪的人
-
-**谁不适合学Wire Art Worker？**
-- 追求高薪和稳定职业前景的人
-- 不喜欢重复性手工劳动或对金属加工过敏的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love handicrafts, are patient, and have meticulous craftsmanship
+- People with artistic aesthetics and design thinking
+- Those who can accept self-employment or small studio models and do not pursue high salaries
+
+**Who is not suited**
+- People seeking high salary and stable career prospects
+- People who dislike repetitive manual labor or are allergic to metalworking
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of wire craft makers?**
+A: Entry-level practitioners earn about 18,000-24,000 euros before tax, intermediate workers about 24,000-35,000 euros, and senior workers up to 35,000-50,000 euros. Income is greatly affected by order volume and brand awareness, while self-employed earnings are unstable.
+
+**Q: How can foreigners immigrate to France to pursue this profession?**
+A: Can apply as an artist via the Talent Passport (Passeport Talent), requiring a portfolio. If employed by a French company, can go through the employee residence permit. The EU Blue Card is generally not applicable as it's hard to meet the salary threshold. French language proficiency is an advantage in the application.
+
+**Q: What are the career prospects for this occupation?**
+A: Although the handicraft industry in France is supported by traditional culture, market demand is limited. Practitioners can improve their skills, participate in competitions or exhibitions, build their reputation, and thereby increase their income. Transitioning to teaching or starting a personal studio is a common path to advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Wire Art Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of a wire art worker?**
-答：Junior workers earn around €18,000-24,000 gross annually, mid-level €24,000-35,000, and senior up to €35,000-50,000. Income depends on orders and reputation, with self-employed facing instability.
-
-**问：How can foreigners immigrate to France for this occupation?**
-答：Via Talent Passport for artists with a portfolio. If employed by a French company, apply for a Salarié work permit. EU Blue Card is rarely suitable due to low salary. French language skills are advantageous.
-
-**问：What are the career prospects for this occupation?**
-答：While supported by French tradition, market demand is limited. Advancement comes from skill improvement, competitions, and exhibitions, leading to higher income. Teaching or opening a workshop are common paths.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# State Representative in National or International Territory（State Representative in National or International Territory）职业分析 · FR
+# State Representative in National or International Territory — career analysis · France
 
-**职业代码：K1405 – State Representative in National or International Territory。**
+**Occupation code: K1405 (ROME)**
 
-Senior civil servant representing the state in national or international territory, exercising administrative, diplomatic or judicial functions such as prefects, ambassadors and consuls.
+Senior civil servants who represent the country in exercising administrative, diplomatic, or judicial functions within its territory or in international settings, including governors, ambassadors, consuls, and others.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 5年（硕士+公共行政） | $5,000~$15,000（公立大学硕士学费约500-3000欧元/年，但通常需就读École nationale d'administration等精英学校，学费约15000欧元/年。） |
-| 国家行政学院（ÉNA）或区域行政学院（IRA） | 2年（入学后） | —（公务员培训由公费承担，但入学竞争极为激烈，需通过严格考试。） |
+| Master's degree | 5 years (Master's + Public Administration) | $5,000~$15,000 (Public university master's tuition is about 500-3000 euros per year, but it usually requires attending elite schools such as the École nationale d'administration, with tuition around 15,000 euros per year.) |
+| National Academy of Administration (ÉNA) or Regional School of Administration (IRA) | 2 years (after enrollment) | $0~$0 (Civil servant training is funded by the government, but admission is highly competitive and requires passing rigorous exams.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家公职考试（concours de la fonction publique） | 法国政府 | 必备 | 必须通过A类高级公务员考试才能进入此类职位。 |
-| 外交官考试（concours diplomatique） | 法国欧洲与外交部 | 必备 | 国际代表职位需通过专门外交考试。 |
+| National Public Service Examination (Concours de la Fonction Publique) | The French government | Required | One must pass the Class A Senior Civil Service Exam to enter this position. |
+| Concours Diplomatique | French Ministry of Europe and Foreign Affairs | Required | International representative positions require passing a specialized diplomatic examination. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 25,000。法国公务员体系稳定，但此类职位数量固定，竞争激烈，晋升依赖资历和考核。未来十年需求平稳。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 25,000. The French civil service system is stable, but the number of such positions is fixed, competition is fierce, and promotion depends on seniority and evaluations. Demand will remain stable over the next decade.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $40,000~$50,000 | 税前年薪，含津贴。 |
-| 中级（5-15年） | $55,000~$75,000 | 税前年薪，含津贴。 |
-| 高级（15年以上） | $80,000~$120,000 | 税前年薪，含津贴，大使等高级职位可达更高。 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $40,000~$50,000 | Pre-tax annual salary, including allowances. |
+| Intermediate (5-15 years) | $55,000~$75,000 | Pre-tax annual salary, including allowances. |
+| Senior (15+ years) | $80,000~$120,000 | Pre-tax annual salary, including allowances, can be even higher for senior positions such as ambassadors. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从中级公务员起步，通过内部考试和轮岗晋升至高级代表。国际代表需具备外交经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on this profession is mixed: low-value paperwork (such as report drafting and data entry) will be automated, but core functions like diplomatic negotiations, crisis decision-making, and cultural symbolism are hard to replace; instead, AI enhances information acquisition and simulation capabilities, improving efficiency.
+
+Usually, they start as mid-level civil servants and are promoted to senior representative through internal exams and job rotations. International delegates need diplomatic experience.
+
+**Tasks most exposed to AI:**
+
+- Drafting standard diplomatic notes, briefings, and routine reports
+- Organize and archive consular documents and visa application materials
+- Basic data entry and simple statistical analysis
+- Scheduling and meeting room coordination and other administrative affairs
+- Preliminary translation and summarization of multilingual documents
+
+**Where AI augments the role:**
+
+- Real-time analysis of international public opinion and social media trends
+- Simulate negotiation scenarios and predict the other party's stance and path
+- Automatically generate multilingual policy briefs and key summaries
+- Quickly review numerous contradictions in legal and treaty texts using NLP
+- Optimize resource allocation for consular services through data analysis
+
+**Human moat:**
+
+- High political sensitivity and cross-cultural relationship judgment
+- Responsibility and on-site decision-making during emergency crises
+- Build trust, impart tacit knowledge, and diplomatic etiquette
+- It plays a symbolic role representing national dignity and values
+- On-site judgment and resource allocation in response to humanitarian emergencies
+
+**Skills to build:**
+
+- Knowledge of AI governance and policy compliance
+- Data Storytelling and Visualization (such as Tableau)
+- Multilingual NLP tools (such as ChatGPT for assisted writing)
+- Foundations of international law and treaty analysis tools
+- Conflict Mediation and Negotiation Psychology
+- Cybersecurity fundamentals and digital diplomacy skills
+
+**Key growth areas:**
 
 - Stable
 - Senior Civil Service
@@ -63,65 +98,64 @@ Senior civil servant representing the state in national or international territo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent – Salarié qualifié） | 适用于高级公务员或专家，需雇主为法国政府机构。 |
-| Subclass Salarié（Salarié (Work Permit)） | 若由法国政府雇佣，可申请受雇工作居留，但通常需欧盟国籍。 |
+| Subclass Passeport Talent (Passeport Talent – Salarié qualifié) | Applicable to senior civil servants or experts, requiring the employer to be a French government agency. |
+| Subclass Salarié (Salarié (Work Permit)) | If employed by the French government, you can apply for employment residence, but usually EU nationality is required. |
 
-**PR难度：极高（★★★★★）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学State Representative in National or International Territory？**
-- 热衷公共服务和国家事务的人
-- 具备高度政治敏感性和沟通能力的人
-- 愿意接受频繁调动和海外派驻的人
-
-**谁不适合学State Representative in National or International Territory？**
-- 偏好稳定工作地点的人
-- 不擅长激烈竞争考试的人
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about public service and national affairs
+- People with high political sensitivity and strong communication skills.
+- Willing to accept frequent transfers and overseas assignments
+
+**Who is not suited**
+- People who prefer stable work locations
+- People who are not good at fierce competition in exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level salaries are about 40,000-50,000 euros before tax, while senior salaries can reach 80,000-120,000 euros. International assignments are also provided.
+
+**Q: Can foreigners hold this position?**
+A: Such positions usually require French or EU nationality. Non-EU citizens are almost inaccessible to them, and in rare cases can be obtained through Passeport Talent, but these are extremely rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-State Representative in National or International Territory为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level?**
-答：Entry-level approx. €40,000-50,000 gross annual, senior up to €80,000-120,000. International postings include allowances.
-
-**问：Can foreigners take this position?**
-答：These positions usually require French or EU nationality. Non-EU citizens almost never qualify; rare exceptions via Passeport Talent.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

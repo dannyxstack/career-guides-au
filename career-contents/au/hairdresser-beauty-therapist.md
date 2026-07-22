@@ -1,163 +1,190 @@
-# 理发师/美容师（Hairdresser / Beauty Therapist）职业分析 · 澳大利亚
+# Hairdresser / Beauty Therapist — career analysis · Australia
 
-**职业代码：391111 – Hairdresser / Beauty Therapist。**
+**Occupation code: 391111 (ANZSCO)**
 
-理发师为客户提供剪发、染发、造型和护发服务；美容师提供皮肤护理、美甲、美睫和体毛处理等美容治疗。澳洲美发美容行业规模约 $50亿（2026），华裔移民集中区（悉尼/墨尔本/布里斯班）对华语美发美容服务需求旺盛，是华裔创业和就业的传统优势行业之一。理发师和美容师均在澳洲MLTSSL技术短缺名单。
+Barbers provide haircuts, colouring, styling and hair care services; beauty therapists offer skin care, nail care, lash treatments and hair removal. Australia's hair and beauty industry is valued at approximately $5 billion (2026). Both barbers and beauty therapists appear on Australia's MLTSSL skills shortage list.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Hairdressing（CUA30920） | 3年（含学徒期） | $3,000~$15,000（行业标准资质；学徒制（在职培训+TAFE课程）；学徒期间有收入） |
-| Certificate III in Beauty Services（SHB30115） | 12~18个月 | $3,000~$15,000（美容师基础资质；TAFE或私立美容学院提供） |
-| Certificate IV in Beauty Therapy（高级美容） | 6~12个月（在Certificate III基础上） | $2,000~$8,000（皮肤治疗/激光美容/电疗等高级技术；薪资溢价显著） |
-| 澳洲理发/美容执照（各州注册） | 完成培训后申请 | $200~$600（部分州要求注册；经营美容诊所需要相应资质） |
+| Certificate III in Hairdressing（CUA30920） | 3 years (including apprenticeship) | $3,000~$15,000 (Industry-standard qualification; apprenticeship (on-the-job training + TAFE coursework); income earned during apprenticeship) |
+| Certificate III in Beauty Services（SHB30115） | 12–18 months | $3,000~$15,000 (Entry-level beauty therapist qualification; available through TAFE or private beauty colleges) |
+| Certificate IV in Beauty Therapy | 6–12 months (building on a Certificate III) | $2,000~$8,000 (Advanced techniques including skin therapy, laser aesthetics and electrotherapy; significant salary premium) |
+| Australian hairdressing/beauty licence (state registration) | Apply after completing training | $200~$600 (Registration required in some states; operating a beauty clinic requires relevant qualifications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Hairdressing（CUA30920） | TAFE / 认可RTO | 必备 | 独立从事理发工作的法定资质；技术移民评估的基础 |
-| Certificate III in Beauty Services（SHB30115） | TAFE / 私立美容学院 | 可选 | 美容师基础资质；Habia或ABIC会员资格 |
-| Vetassess 技能评估（移民） | Vetassess | 可选 | 189/190/491技术移民的学历和经验评估机构 |
-| 激光美容/IPL操作资质（医美方向） | 各州医疗委员会认可机构 | 可选 | 在澳洲开展激光和IPL美容治疗的法律要求 |
+| Certificate III in Hairdressing（CUA30920） | TAFE / Registered Training Organisation (RTO) | Required | Mandatory qualification for independent hairdressing practice; the foundation for a skilled migration assessment |
+| Certificate III in Beauty Services（SHB30115） | TAFE / private beauty college | Optional | Entry-level beauty therapist qualification; Habia or ABIC membership |
+| Vetassess skills assessment (migration) | Vetassess | Optional | Skills assessment body for educational qualifications and work experience for 189/190/491 skilled migration |
+| Laser aesthetics/IPL operator qualification (medical aesthetics pathway) | Institutions recognised by state medical boards | Optional | Legal requirements for performing laser and IPL cosmetic treatments in Australia |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 55,000。JSA预测美发美容职业就业至2030年增长约7%。人口增长（移民净增加）推动服务需求；高端发廊和皮肤美容诊所（医美类）是增速最快的细分方向。华裔聚集区对华语美发美容师的需求持续旺盛，是华人创业开店的成熟路径。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. JSA forecasts employment in hairdressing and beauty occupations will grow by approximately 7% by 2030. Population growth (net migration) drives service demand; high-end salons and skin beauty clinics (medical aesthetic category) are the fastest-growing segments.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~2,000 个 | 全国，含理发师/美容师/美甲师/皮肤治疗师各类岗 |
-| Indeed | 400~1,500 个 | 含大型连锁发廊、精品发廊和美容诊所 |
-| LinkedIn | 200~600 个 | 高端美容诊所和医美机构管理岗 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级理发师/美容师（0~2年） | $55,000~$68,000 | 学徒毕业起薪；含小费实际收入稍高 |
-| 有经验理发师（2~8年） | $65,000~$85,000 | SEEK理发师 $70k~$80k；Indeed发型师均值 $69,178（2026） |
-| 有经验美容师（2~8年） | $68,000~$90,000 | SEEK美容师 $75k~$80k；Indeed美容师均值 $74,405（2026） |
-| 高级造型师/皮肤治疗师（6年+） | $85,000~$120,000 | 高端发廊Colourist/医美激光治疗师薪资，大城市溢价显著 |
-| 发廊/美容院老板（创业） | $80,000~$300,000 | 华裔聚集区自营发廊/美容院净利润区间（视经营规模） |
+| Median salary | $62,868 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior hairdresser/beauty therapist (0–2 years) | $55,000~$68,000 | Starting wage upon completing apprenticeship; actual earnings slightly higher with tips |
+| Experienced Hairdresser (2–8 years) | $65,000~$85,000 | SEEK barber $70k–$80k; Indeed hairdresser average $69,178 (2026) |
+| Experienced beauty therapist (2–8 years) | $68,000~$90,000 | Seek: beautician AUD $75k–$80k; Indeed: beautician average $74,405 (2026) |
+| Senior Stylist/Skin Therapist (6+ years) | $85,000~$120,000 | Salaries for high-end salon colourists and medical-aesthetic laser therapists show significant premiums in major cities |
+| Salon/beauty studio owner (self-employed) | $80,000~$300,000 | Net profit range for self-employed salon/beauty studios in high-density suburban areas (depending on business scale) |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲美发美容行业近年向两极分化：大型连锁平价发廊（Supercuts/Just Cuts）和高端专业发廊（精品造型师/先进染发）。皮肤医美（Laser/IPL治疗）和抗衰美容治疗市场快速增长。华裔美发师在华裔聚集区拥有稳定客群，创业开店（小投资额约 $30k~$80k）是常见成功路径。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
 
-- 华裔美发美容中心（中文服务客群旺盛）
-- 高端发廊造型师（Colourist/先进染发技术）
-- 美容治疗师（Skin Therapist/Laser Aesthetician）
-- 美甲美睫（Nail Technician/Lash Artist）
-- 美容经营者/发廊老板（小企业创业路径）
+The Australian hair and beauty industry has polarised in recent years: large budget salon chains (Supercuts / Just Cuts) at one end, and premium specialist salons (boutique stylists / advanced colouring) at the other. The aesthetic medicine market — laser and IPL treatments — and anti-ageing beauty treatments are growing rapidly. Starting your own salon (relatively low start-up cost of around $30k–$80k) is a common and proven path to success.
+
+**Tasks most exposed to AI:**
+
+- Hair dye formula calculation and color matching (AI automatically recommends formula based on hair type and skin tone)
+- Customer appointment, reminder, and follow-up (handled by AI chatbots)
+- Basic scalp analysis and care recommendations (AI camera diagnosis)
+- Inventory management and consumables ordering (AI-based forecasting system)
+- Social media content generation (AI one-click design of hairstyle display images)
+
+**Where AI augments the role:**
+
+- Hairstyle design inspiration generation (AI generates personalized plans based on face shape and trends)
+- Virtual try-on enhancing client communication (AR real-time display of hair dyeing/haircut effects)
+- Customer Relationship Management (AI analyzes preferences, accurately recommends services and products)
+- Cost accounting and pricing optimization (AI suggests prices based on market data)
+- Online Teaching and Skill Enhancement (AI voice guidance for complex techniques)
+
+**Human moat:**
+
+- Precision and artistry of manual techniques (e.g., haircut layering, blow-dry styling)
+- On-site customer communication and emotional interaction (understanding non-verbal cues)
+- Intuitive judgment of individual aesthetic preferences (aesthetic that AI cannot replicate)
+- Managing physical contact comfort (e.g., shampooing, massage with tactile experience)
+- Ability to adjust plans on the fly (based on real-time feedback)
+
+**Skills to build:**
+
+- Master AI hairstyle recommendation tools (e.g., StyleMyHair, YouCam)
+- Learning basic data analysis (customer preferences and inventory optimization)
+- Enhance social media operations (AI-assisted content creation)
+- Obtain higher-level certifications (such as Color Master, Scalp Therapist)
+- Learning AR/VR virtual try-on software operation
+- Communication and sales psychology (enhancing personalized service premium)
+
+**Key growth areas:**
+
+- Chinese Hair & Beauty Salon (Mandarin Clientele Demand)
+- High-End Salon Stylist (Colourist/Advanced Hair Dye)
+- Beauty Therapist (Skin/Laser Aesthetician)
+- Nail Technician/Lash Artist
+- Beauty Salon Owner (Small Business Path)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，MLTSSL在列；发廊和美容院担保 |
-| Subclass 186（ENS） | 雇主担保永居，满3年后申请 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列；Vetassess评估 |
-| Subclass 190（Skilled Nominated） | 州提名（NSW/VIC/SA等积极提名） |
-| Subclass 491（Skilled Work Regional） | 偏远地区理发师/美容师极度短缺 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, listed on MLTSSL; salons and beauty studios can sponsor |
+| Subclass 186 (ENS) | Employer-sponsored permanent residence, apply after 3 years |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, listed on MLTSSL; Vetassess assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination (NSW/VIC/SA and others actively nominating) |
+| Subclass 491 (Skilled Work Regional) | Severe shortage of barbers/beauticians in regional and remote areas |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学理发师/美容师？**
-- 已持有Certificate III in Hairdressing或Beauty Services（或正在学徒），有2年以上工作经验
-- 普通话/粤语流利，有意向在华裔聚集区工作或创业开店
-- 有高端造型技术（Balayage/Korean Beauty/皮肤治疗）或意愿学习医美技术（激光/IPL）
-- 有创业意愿，考虑以发廊/美容院作为长期创业目标（低启动资金的小生意路径）
-- 愿意在偏远地区（城区外）工作以加速PR（491偏远美发师短缺严重）
-
-**谁不适合学理发师/美容师？**
-- 不喜欢长时间站立工作和直接客户服务互动（美发美容的日常工作本质）
-- 期望通过美发美容快速进入高薪白领职业（入门薪资偏低，需时间积累技术和客群）
-- 没有任何美发或美容培训背景，且不愿意进行学徒制或院校培训
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds (or is completing an apprenticeship in) a Certificate III in Hairdressing or Beauty Services, with 2+ years of work experience
+- Fluent in Mandarin/Cantonese, interested in working or starting a business in areas with a Chinese-speaking community.
+- Proficiency in advanced styling techniques (Balayage/Korean Beauty/skin treatments) or willingness to learn aesthetic medicine techniques (laser/IPL)
+- Has entrepreneurial ambitions, considering a salon/beauty studio as a long-term business goal (low start-up cost small business pathway)
+- Willing to work in regional areas (outside cities) to accelerate PR (491 severe shortage of hairdressers in regional areas)
+
+**Who is not suited**
+- Disliking prolonged standing and direct customer service interaction (the day-to-day nature of hairdressing and beauty work)
+- Expecting to quickly move into a high-paying white-collar career through hairdressing or beauty (entry-level salaries are relatively low and building skills and a client base takes time)
+- No hairdressing or beauty therapy training background, and unwilling to undertake an apprenticeship or institutional training
+
+---
+
+## 8. FAQ
+
+**Q: How much do barbers/hairdressers earn in Australia?**
+A: Entry-level hairdresser/beautician approx. $55k–$68k; experienced hairdresser approx. $65k–$85k (Seek $70k–$80k; Indeed $69,178); experienced beautician approx. $68k–$90k (Seek $75k–$80k; Indeed $74,405); high-end stylist/skin therapist approx. $85k–$120k; self-employed salon/beauty studio net profit $80k–$300k.
+
+**Q: Is it easy to find work as a barber / beauty therapist in Australia?**
+A: Easy. MLTSSL shortage occupation, SEEK 600-2000+ jobs. Mandarin/Cantonese-speaking hairdressers/beauticians are in high demand in Chinese-concentrated areas (Chatswood/Box Hill/Burwood) and are often headhunted directly. Barbers in regional areas are in extreme shortage (491 pathway is the most convenient).
+
+**Q: Is overseas hairdressing/beauty experience recognised in Australia?**
+A: Through Vetassess skills assessment, Chinese hairdressing or beauty work experience can be recognized (requires 3+ years). Certificate III is ideal supplementary qualification (if no local equivalent of Chinese degree recognized). Chinese Korean beauty techniques (skin care/nails/eyelashes) are very popular in Australian Chinese-majority areas.
+
+**Q: Will barbers/beauty therapists be replaced by AI?**
+A: Risk is extremely low. Hairdressing and beauty therapy are highly hands-on, people-facing services that cannot be physically automated. AI may improve booking management and personalised recommendations, but the core service is not threatened by AI. Hair and beauty is widely regarded as one of the most AI-resistant occupations.
+
+**Q: Is there an age limit for hairdressers / beauty therapists in Australia?**
+A: None. Experienced hairdressers and beauty therapists aged 40–55 with strong technical skills and a loyal clientele are highly sought after in upscale salons and private client markets. There are no age restrictions on opening your own salon or beauty studio, and greater experience generally means stronger management capability.
+
+**Q: What qualifications do Australian hairdressers/beauty therapists need?**
+A: Certificate III in Hairdressing (3-year apprenticeship) is the industry standard for hairdressers; Certificate III/IV in Beauty Services is the foundational qualification for beauty therapists. No university degree required. Most important are qualifications + hands-on skills + customer service ability. Medical aesthetics (laser/IPL) requires additional specialist training qualifications.
+
+**Q: Is it difficult to get certified as a hairdresser/beautician in Australia (for migration purposes)?**
+A: Difficulty relatively low. Hairdressers and beauticians are on the MLTSSL, PR pathway relatively smooth. Regional 491 pathway is the fastest route (severe shortage of hairdressers in towns); employer-sponsored 482 is also active (salons commonly sponsor skilled Mandarin-speaking hairdressers).
+
+**Q: Which has better career prospects in Australia — hairdressing or beauty therapy?**
+A: Hairdresser ($65k~$85k) and beautician ($68k~$90k) have similar salaries, but beautician transitioning into medical aesthetics (laser/skin treatments) sees significant salary premium ($85k~$120k). Hairdresser has a steep learning curve (3-year apprenticeship); beautician qualification is quicker (12~18 months). Both are on the MLTSSL with good PR pathways. Choose beautician if interested in medical aesthetics; choose hairdressing if passionate about styling.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 理发师 $70k~$80k；美容师 $75k~$80k（2026） |
-| Indeed AU | 发型师均值 $69,178；美容师均值 $74,405（2026） |
-| Department of Home Affairs | MLTSSL理发师/美容师技能短缺信息 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-理发师/美容师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲理发师/美容师工资多少？**
-答：初级理发师/美容师约 $55k~$68k；有经验理发师约 $65k~$85k（SEEK $70k~$80k；Indeed $69,178）；有经验美容师约 $68k~$90k（SEEK $75k~$80k；Indeed $74,405）；高端造型师/皮肤治疗师约 $85k~$120k；自营发廊/美容院净利润 $80k~$300k。
-
-**问：澳洲理发师/美容师容易找工作吗？**
-答：容易。MLTSSL短缺职业，SEEK 600~2000+职位。华语（普通话/粤语）美发美容师在华裔聚集区（Chatswood/Box Hill/Burwood）供不应求，往往直接被猎头。偏远地区理发师极度短缺（491路径最便捷）。
-
-**问：中国美发/美容经验澳洲认可吗？**
-答：通过Vetassess技能评估，中国美发或美容工作经验可以认可（需3年以上）。Certificate III是理想的补充资质（如无国内同等学历认可）。中国的韩式美容技术（皮肤管理/美甲/美睫）在澳洲华裔聚集区非常受欢迎。
-
-**问：理发师/美容师会被AI替代吗？**
-答：风险极低。理发和美容是高度依赖手工技能和人际互动的服务，物理层面无法自动化。AI可能改善预约管理和个性化推荐，但核心服务本身不受AI威胁。美发美容是公认的AI抗性最强的职业之一。
-
-**问：澳洲理发师/美容师有年龄限制吗？**
-答：无。有丰富技术积累和稳定客群的中高年龄美发美容师（40~55岁）在高端发廊和私人客户市场非常受欢迎。开设自营发廊或美容院也无年龄限制，经验越丰富管理能力越强。
-
-**问：澳洲理发师/美容师需要什么资质？**
-答：Certificate III in Hairdressing（3年学徒制）是理发师的行业标准；Certificate III/IV in Beauty Services是美容师基础资质。无需大学学历。最重要的是资质证书+实操技术+客户服务能力。医美方向（激光/IPL）需要额外的专业培训资质。
-
-**问：澳洲理发师/美容师认证（移民）难吗？**
-答：难度较低。理发师和美容师在MLTSSL，PR路径相对顺畅。偏远地区491路径是最快捷通道（乡镇理发师极度短缺）；雇主担保482也很活跃（发廊普遍担保有技术的华语理发师）。
-
-**问：理发师和美容师哪个澳洲发展更好？**
-答：理发师（$65k~$85k）和美容师（$68k~$90k）薪资相近，但美容向医美（激光/皮肤治疗）方向发展薪资溢价显著（$85k~$120k）。理发师技术学习曲线陡（学徒3年）；美容师资质获取较快（12~18个月）。两者均在MLTSSL，都有良好PR路径。有医美发展意愿选美容；有造型热情选理发。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

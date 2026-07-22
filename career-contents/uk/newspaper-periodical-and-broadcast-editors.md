@@ -1,59 +1,95 @@
-# Newspaper, periodical and broadcast editors（Newspaper, periodical and broadcast editors）职业分析 · UK
+# Newspaper, periodical and broadcast editors — career analysis · United Kingdom
 
-**职业代码：2491 – Newspaper, periodical and broadcast editors。**
+**Occupation code: 2491 (SOC)**
 
-Evaluate, manage, and oversee editorial direction for content style and stories in newspapers, magazines, news websites, and broadcasts.
+Responsible for assessing, managing, and supervising the editorial direction of newspapers, magazines, news websites, and broadcast programs, ensuring content style and story quality meet standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $9,000~$20,000（英国学生学费约£9,250/年；国际学生约£15,000-£25,000/年） |
-| 硕士学位 | 1年 | $12,000~$25,000（英国学生学费约£12,000/年；国际学生约£18,000-£30,000/年） |
+| Bachelor's degree | 3 years | $9,000~$20,000 (UK student tuition approximately £9,250/year; international students approximately £15,000-£25,000/year) |
+| Master's degree | 1 year | $12,000~$25,000 (UK student tuition fees: approximately £12,000/year; international students: approximately £18,000-£30,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学或相关领域本科学位 | 认可大学 | 可选 | 通常要求，但非强制，需展示丰富写作经验 |
-| NCTJ文凭 | National Council for the Training of Journalists | 可选 | 行业认可资格，提升就业竞争力 |
-| PGCert in Journalism | 多所大学 | 可选 | 研究生证书课程，适用于转行人士 |
+| Bachelor's degree in Journalism or a related field | Recognised university | Optional | Usually required but not mandatory, must demonstrate extensive writing experience |
+| NCTJ diploma | National Council for the Training of Journalists | Optional | Industry-recognised qualifications to enhance employment competitiveness |
+| PGCert in Journalism | Multiple universities | Optional | Graduate certificate course, suitable for career changers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。英国媒体行业数字化转型，传统编辑岗位需求稳定但竞争激烈。数字内容编辑和多媒体编辑角色增长，但整体就业增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Digital transformation of UK media industry, demand for traditional editorial roles stable but competitive. Growth in digital and multimedia editing roles, but overall employment growth slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 助理编辑或初级内容编辑 |
-| 中级（4-7年） | $32,000~$45,000 | 高级编辑或栏目编辑 |
-| 高级（8年以上） | $50,000~$80,000 | 总编辑或编辑总监 |
+| Median salary | $42,451 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | Assistant editor or junior content editor |
+| Mid-level (4-7 years) | $32,000~$45,000 | Senior Editor or Section Editor |
+| Senior (8+ years) | $50,000~$80,000 | Editor-in-Chief or Editorial Director |
+| average salary | $49,583 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径通常从记者或内容创作者起步，晋升为高级编辑、编辑主任或总编辑。也可转向数字媒体战略或内容管理岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The roles of newspaper, periodical and broadcast editors in the AI era have mixed prospects: routine copy and layout tasks will be automated and reduced, but strategic decision-making, ethical gatekeeping and creative planning are amplified by AI assistance, leading to a transformation rather than elimination of overall job structure.
+
+Career paths typically start as a journalist or content creator, progressing to senior editor, editorial director, or editor-in-chief. It can also transition to digital media strategy or content management roles.
+
+**Tasks most exposed to AI:**
+
+- Basic proofreading and grammar correction
+- Keyword extraction and metadata tag generation
+- Repetitive layout and formatting adjustments
+- Simple news summaries and auto-broadcast script writing
+- Automated publishing of content distribution channels
+
+**Where AI augments the role:**
+
+- Use AI to analyze reader data to guide editorial direction
+- Deep fact-checking and cross-validation using AI assistance
+- Enhance reporting appeal using AI-generated visual data stories
+- AI-assisted multilingual translation and localized content creation
+- Using AI tools for real-time audience feedback analysis and interactive strategy optimization
+
+**Human moat:**
+
+- Independent judgment and ethical decision-making on complex social issues
+- Original viewpoints and in-depth analysis ideation
+- Cross-cultural sensitivity and contextual understanding ability
+- Rapid response and editor-in-chief level decision-making in crisis situations
+- Maintaining trust and collaboration with creative professionals such as journalists and writers
+
+**Skills to build:**
+
+- Proficiency in mainstream AI copywriting tools (e.g., ChatGPT, Jasper)
+- Learn fundamentals of data analysis (SQL, Python, or BI tools)
+- Understand SEO and content marketing automation strategies
+- Develop knowledge of AI ethics and privacy compliance
+- Multimedia content creation skills (video editing, podcast production)
+- Project management skills to coordinate AI and traditional editing workflows
+
+**Key growth areas:**
 
 - Digital Media
 - Content Strategy
@@ -62,68 +98,67 @@ Evaluate, manage, and oversee editorial direction for content style and stories 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于符合技能要求的编辑岗位，需雇主担保，年薪不低于£26,200（或行业标准） |
-| Subclass Global Talent（Global Talent Visa） | 适用于在媒体领域有杰出成就或潜力的编辑，无需雇主担保，但需通过背书 |
-| Subclass Graduate（Graduate Visa） | 适用英国高校毕业生，可留英工作2年（博士3年），无特定薪资要求 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for editor positions meeting skill requirements, requires employer sponsorship, annual salary no less than £26,200 (or industry standard) |
+| Subclass Global Talent (Global Talent Visa) | Applicable to editors with outstanding achievements or potential in media; no employer sponsorship required, but must pass endorsement. |
+| Subclass Graduate (Graduate Visa) | Applicable to UK university graduates, allowing them to stay and work in the UK for 2 years (3 years for PhD), with no specific salary requirement |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Newspaper, periodical and broadcast editors？**
-- 对新闻和媒体有热情，文字功底扎实
-- 能承受高压和截止日期
-- 具备多任务处理和团队协作能力
-
-**谁不适合学Newspaper, periodical and broadcast editors？**
-- 不喜欢接受反馈或修改内容
-- 追求稳定工作节奏和低竞争环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about news and media, with solid writing skills
+- Able to handle high pressure and deadlines
+- Possesses multitasking and teamwork skills
+
+**Who is not suited**
+- Dislikes receiving feedback or revising content
+- Seeking stable work pace and low-competition environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an editor in the UK?**
+A: Entry-level around £22k-£30k, mid-level around £32k-£45k, senior up to £50k-£80k, with significant regional differences.
+
+**Q: Can editor positions immigrate to the UK via work visa?**
+A: Yes, primarily through the Skilled Worker visa, requiring employer sponsorship and meeting the annual salary threshold. The Global Talent visa is for exceptionally talented individuals.
+
+**Q: Is editing a shortage occupation in the UK?**
+A: No, editing is not on the UK Immigration Salary List, but demand for high-end editing positions is stable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Newspaper, periodical and broadcast editors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for editors in the UK?**
-答：Entry-level £22k-£30k, mid-level £32k-£45k, senior £50k-£80k, with regional variations.
-
-**问：Can editors immigrate to the UK via work visa?**
-答：Yes, mainly via Skilled Worker visa with employer sponsorship and minimum salary. Global Talent visa for exceptional talent.
-
-**问：Is editor a shortage occupation in the UK?**
-答：No, editors are not on the Immigration Salary List, but high-level roles are in demand.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

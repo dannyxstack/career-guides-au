@@ -1,62 +1,98 @@
-# Metal Structure Assembler（Metal Structure Assembler）职业分析 · FR
+# Metal Structure Assembler — career analysis · France
 
-**职业代码：F1502 – Metal Structure Assembler。**
+**Occupation code: F1502 (ROME)**
 
-Metal structure assemblers fit, assemble, and install steel frameworks for buildings, bridges, and industrial plants using welding, bolting, and rigging techniques.
+Metal structure assemblers are responsible for assembling, installing, and commissioning steel structural components in the workshop or on-site, such as bridges, factory frameworks, towers, etc., using techniques like welding and bolted connections to ensure structural stability.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 金属结构制造 | 2年（CAP） | —（公立学校免学费，仅注册费及材料费） |
-| Bac Pro 金属结构技术 | 3年（Bac Pro） | —（公立学校免学费，可通过学徒制获得工资） |
-| BTS 建筑金属结构 | 2年（BTS） | —（公立学校免学费，私立学校费用较高） |
+| CAP metal structure manufacturing | 2 years (CAP) | $0~$3,000 (Public schools waive tuition, except for registration and material fees) |
+| Bac Pro metal structure technology | 3 years (Bac Pro) | $0~$5,000 (Public schools offer tuition waivers, and wages can be earned through apprenticeships) |
+| BTS Metal Structure | 2 Years (BTS) | $0~$8,000 (Public schools are free of charge, while private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 金属结构制造 | 法国教育部 | 必备 | 基础从业资格，通常要求 |
-| 焊接认证（如 AWS D1.1） | 美国焊接学会或法国认证机构 | 可选 | 非强制，但提升就业竞争力 |
-| CACES 吊装设备操作证 | 法国职业安全机构 | 必备 | 操作起重设备必备 |
+| CAP metal structure manufacturing | French Ministry of Education | Required | Basic professional qualifications, usually required |
+| CACES Lifting Equipment Operation Certificate | French occupational safety agency | Required | Essential for operating lifting equipment |
+| Welding certification (such as AWS D1.1) | The American Welding Society or the French certification body | Optional | Not mandatory, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国建筑业持续发展，绿色能源和基础设施项目推动需求。预计未来十年岗位稳定增长，尤其在工业区和大型城市周边。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's construction industry continues to grow, driven by green energy and infrastructure projects. Stable job growth is expected over the next decade, especially in industrial zones and around large cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$33,000 | 税前年薪，含加班费 |
-| 高级（7年以上） | $33,000~$42,000 | 税前年薪，含津贴 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$33,000 | Annual salary before tax, including overtime pay |
+| Senior (7+ years) | $33,000~$42,000 | Annual pre-tax salary, including allowances |
+| average salary | $26,664 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒或初级装配工起步，可晋升为高级技师、工地主管或质量控制员。积累经验后可转向项目管理或创业开设安装公司。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Metal structure assemblers face moderate automation risks; AI and robotics can take over repetitive welding and bolt connections, but complex structural installation and on-site decision-making still require humans.
+
+Starting as an apprentice or junior assembler, you can be promoted to senior technician, site supervisor, or quality controller. After gaining experience, you can move on to project management or start a startup with an installation company.
+
+**Tasks most exposed to AI:**
+
+- Standard bolt connections and welding are performed using a fixing procedure
+- Read simple 2D drawings for pre-cutting and marking
+- Operate traditional cranes for routine lifting
+- Perform repetitive quality checks (such as weld appearance)
+- Manually record assembly steps and material lists
+
+**Where AI augments the role:**
+
+- Using AR glasses to overlay 3D models during installation improves accuracy
+- AI-assisted design software optimizes component connection schemes
+- On-site dimensional verification is conducted using drones and laser scanning
+- Simulating the installation process of complex structures through digital twins
+- Use mobile devices to obtain real-time welding parameters and process recommendations
+
+**Human moat:**
+
+- On-site measurement and adaptation capabilities in non-standard or outdated structures
+- Intuitive judgment of implicit issues such as welding deformation and stress concentration
+- Manual adjustment and repair decisions in emergency situations
+- Fine assembly of complex components in confined spaces
+- Communicate with customers and engineers to resolve unexpected issues
+
+**Skills to build:**
+
+- Operate CNC welding robots and automatic bolt tightening systems
+- Construction simulation was conducted using BIM and digital twin software
+- Master 3D scanning and point cloud data processing
+- Learn the basics of industrial IoT and sensor deployment
+- Enhance on-site safety and risk assessment capabilities
+- Familiar with additive manufacturing (3D printing) metal component repair technology
+
+**Key growth areas:**
 
 - infrastructure
 - industrial maintenance
@@ -65,65 +101,67 @@ Metal structure assemblers fit, assemble, and install steel frameworks for build
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需法国雇主担保，申请工作许可，适合已有工作的第三国公民。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如工程师或管理层，但金属装配工通常不满足条件。 |
+| Subclass Salarié (Salarié (Work Permit)) | Requires a French employer sponsor, applies for a work permit, and is suitable for third-country citizens who already have employment. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | This is suitable for highly skilled talent, such as engineers or management, but metal assemblers often do not meet the requirements. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Metal Structure Assembler？**
-- 喜欢动手操作和户外工作
-- 注重安全规范，有体力耐力
-- 寻求稳定职业技术路径
+**Who is suited**
+- Enjoys hands-on and outdoor work
+- Focus on safety and standards, and have physical endurance
+- Seeking stable career technical paths
 
-**谁不适合学Metal Structure Assembler？**
-- 对高空作业或重物搬运敏感
-- 偏好办公或低体力劳动环境
+**Who is not suited**
+- Sensitive to high-altitude work or heavy lifting
+- Preference for office work or low-physical labor environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for metal structure assemblers in France?**
+A: Entry-level approx. EUR 21,000-26,000, mid-level 26,000-33,000, senior 33,000-42,000 pre-tax annual salary. Overtime and bonuses can increase income.
+
+**Q: Can third-country citizens immigrate to France through metal structure assemblers?**
+A: The difficulty is relatively high. This occupation is not in short supply and requires employer-sponsored application for the Salarié visa, and France gives priority to EU citizens.
+
+**Q: What education is required to engage in metal structure assembly?**
+A: Usually, you need to have a CAP or Bac Pro related major, and you can also get promoted through BTS. Apprenticeships are a common pathway and paid learning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Metal Structure Assembler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of metal structure assemblers in France?**
-答：Entry-level: €21k-€26k, mid-level: €26k-€33k, senior: €33k-€42k gross annual. Overtime and bonuses can increase earnings.
-
-**问：Can third-country nationals immigrate to France as metal structure assemblers?**
-答：Difficult. The occupation is not in shortage; employer sponsorship for Salarié visa is possible but competitive, with EU preference.
-
-**问：What education is required to become a metal structure assembler?**
-答：Typically a CAP or Bac Pro in metalwork, with BTS for advancement. Apprenticeship is common, offering paid training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

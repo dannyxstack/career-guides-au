@@ -1,58 +1,94 @@
-# Sheep Farmer（Sheep Farmer）职业分析 · 澳大利亚
+# Sheep Farmer — career analysis · Australia
 
-**职业代码：121322 – Sheep Farmer。**
+**Occupation code: 121322 (ANZSCO)**
 
-Manages sheep farming operations, including breeding, feeding, health care, wool production, and pasture maintenance to ensure efficient farm operation and animal welfare.
+Responsible for managing sheep farms, including feeding, breeding, health management, wool production, and pasture maintenance, ensuring efficient farm operations and animal welfare.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 | 1-2年 | $5,000~$15,000（TAFE或私立机构，包括农业或畜牧业证书） |
-| 农业副学士/学士 | 2-3年 | $20,000~$40,000（大学学位，含农场管理课程） |
+| Vocational education certificate | 1-2 years | $5,000~$15,000 (TAFE or private institution, including certificates in agriculture or animal husbandry) |
+| Associate/Bachelor's degree in Agriculture | 2-3 years | $20,000~$40,000 (University degree, including farm management courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业四级证书 | TAFE | 可选 | 常见入门资格，非强制 |
-| 技能评估（Vetassess） | Vetassess | 必备 | 移民必需，需相关学历或经验 |
+| Skills assessment (Vetassess) | Vetassess | Required | Required for immigration; relevant degree or experience needed |
+| Certificate IV in Agriculture | TAFE | Optional | Common entry qualification, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。澳洲绵羊养殖业受全球羊毛和羊肉需求影响，就业前景稳定。偏远地区需求较高，但受气候和市场波动影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Australia's sheep farming industry is influenced by global wool and lamb demand, with stable employment prospects. Demand is higher in remote areas but subject to climate and market fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 农场工人或助理 |
-| 中级（3-8年） | $60,000~$80,000 | 农场主管或经理 |
-| 高级（8年以上） | $80,000~$110,000 | 大型农场经理或自营农场主 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Farm Worker or Assistant |
+| Mid-level (3–8 years) | $60,000~$80,000 | Farm supervisor or manager |
+| Senior (8+ years) | $80,000~$110,000 | Large farm manager or self-employed farmer |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从农场工人晋升为农场主管或经理，或独立经营农场。经验丰富者可转向畜牧业咨询或农业技术推广。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Can advance from farm worker to farm supervisor or manager, or operate an independent farm. Experienced workers can move to livestock consulting or agricultural technology extension.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Sustainable farming
 - Wool demand
@@ -61,68 +97,67 @@ Manages sheep farming operations, including breeding, feeding, health care, wool
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，需在偏远地区工作3年后转191永居 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区州担保技术移民，需在偏远地区居住和工作3年 |
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时签证，需有雇主担保，可能转186 |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship requires working in a regional area for 3 years before applying for the 191 permanent visa. |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Remote area state-sponsored skilled migration, requiring living and working in a designated regional area for 3 years |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, requires employer sponsor, may convert to 186. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sheep Farmer？**
-- 热爱户外和体力劳动
-- 有畜牧业或农业背景
-- 愿意在偏远地区长期生活
-
-**谁不适合学Sheep Farmer？**
-- 无法适应偏远地区生活
-- 不喜欢体力劳动和动物
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love outdoors and physical work
+- Background in animal husbandry or agriculture
+- Willing to live long-term in remote areas
+
+**Who is not suited**
+- Cannot adapt to life in remote areas
+- Dislikes manual labor and animals
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a sheep farmer?**
+A: Junior approx. AUD 45,000-60,000, intermediate AUD 60,000-80,000, senior AUD 80,000-110,000. Farm owners have highly variable income.
+
+**Q: What are the immigration pathways for sheep farmers?**
+A: Main pathways include regional employer-sponsored 494 visa, regional nominated 491 visa, and temporary skill shortage 482 visa. Must pass Vetassess skills assessment.
+
+**Q: What is the outlook for the Australian sheep farming industry?**
+A: Supported by global demand for wool and lamb, but drought and market fluctuations are risk factors. Technological applications and sustainable practices bring new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sheep Farmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a sheep farmer?**
-答：Entry-level AUD 45,000-60,000, mid-level AUD 60,000-80,000, senior AUD 80,000-110,000. Self-employed farmers have variable income.
-
-**问：What migration pathways are available for sheep farmers?**
-答：Main pathways include Regional Employer Sponsored 494 visa, Skilled Work Regional 491 visa, and Temporary Skill Shortage 482 visa. Requires Vetassess skills assessment.
-
-**问：What is the outlook for sheep farming in Australia?**
-答：Supported by global wool and lamb demand, but drought and market fluctuations are risks. Technology adoption and sustainable practices offer new opportunities.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

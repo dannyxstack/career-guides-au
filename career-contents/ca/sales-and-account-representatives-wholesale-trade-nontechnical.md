@@ -1,60 +1,93 @@
-# Sales and Account Representatives - Wholesale Trade (Non-Technical)（Sales and Account Representatives - Wholesale Trade (Non-Technical)）职业分析 · 加拿大
+# Sales and Account Representatives - Wholesale Trade (Non-Technical) — career analysis · Canada
 
-**职业代码：64101 – Sales and Account Representatives - Wholesale Trade (Non-Technical)。**
+**Occupation code: 64101 (NOC)**
 
-Responsible for promoting and selling products to business clients, maintaining customer relationships, and achieving sales targets. This occupation is eligible for immigration via Express Entry or Provincial Nominee Programs under NOC TEER 2.
+Responsible for promoting and selling products to corporate clients, maintaining customer relationships, and achieving sales targets. This occupation can apply for skilled migration via Express Entry or Provincial Nominee Program in Canada, classified under NOC TEER 2.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 3年 | —（免费公立教育） |
-| 本科（商科相关） | 4年 | $40,000~$80,000（国际生学费约2-4万加元/年） |
-| 大专文凭（销售/市场营销） | 2年 | $30,000~$50,000（公立college总学费） |
+| High school graduation | 3 years | $0~$0 (Free public education) |
+| Undergraduate degree (business-related) | 4 years | $40,000~$80,000 (International student tuition: approx CAD 20,000-40,000/year) |
+| Diploma (Sales/Marketing) | 2 years | $30,000~$50,000 (Total tuition fees at public college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 用于移民申请，非销售职位必需 |
-| 英语语言成绩（IELTS） | IELTS | 必备 | CLB 6或以上 |
-| 省级销售职业认证（少数省份自愿） | 各省行业协会 | 可选 | 如安省销售专业人员协会，非必需但有助于求职 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | For immigration application, not required for sales positions |
+| English language proficiency test (IELTS) | IELTS | Required | CLB 6 or above |
+| Provincial sales occupational certification (voluntary in a few provinces) | Provincial industry associations. | Optional | Such as the Ontario Sales Professionals Association, not mandatory but helpful for job hunting. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。加拿大批发贸易行业稳定发展，对销售代表需求持续。安大略省、魁北克省、阿尔伯塔省和不列颠哥伦比亚省就业机会较多。预计未来几年职位增长温和，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Canada's wholesale trade industry is stable, with sustained demand for sales representatives. More job opportunities in Ontario, Quebec, Alberta, and British Columbia. Moderate job growth expected in the coming years, but competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 底薪+佣金 |
-| 中级（3-6年） | $50,000~$70,000 | 含佣金 |
-| 高级（6年以上） | $70,000~$100,000 | 高佣金或管理岗 |
+| Median salary | $65,520 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $38,000~$48,000 | Base salary + commission |
+| Mid-level (3–6 years) | $50,000~$70,000 | Including commission |
+| Senior (6+ years) | $70,000~$100,000 | High commission or management role |
+| average salary | $72,800 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级销售代表可通过业绩提升晋升为高级代表、区域销售经理或客户总监。部分经验丰富者可转向业务开发、供应链管理或自主创业。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI will largely automate customer data management and initial communication, but core sales tasks like relationship building and complex negotiations still rely on humans; the career form will be reshaped rather than eliminated.
+
+Junior sales representatives can progress to senior representatives, regional sales managers, or account directors based on performance. Experienced individuals may transition to business development, supply chain management, or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- AI auto-dialing, initial screening of potential clients, and sending standardized emails
+- Generates sales forecasts and customer segmentation reports based on historical data
+- Automatically update customer contact records and activity logs in the CRM system
+- Generate basic quotes and contract templates based on customer interaction records
+
+**Where AI augments the role:**
+
+- AI analyzes customer purchase history and behavior in real time to provide personalized product recommendations and cross-selling suggestions.
+- Automatically monitor customer churn risk and trigger alerts, assisting in retention strategy formulation
+- Using natural language processing to summarize key points from customer calls and emails, shortening follow-up preparation time.
+- AI-driven dynamic pricing tools help optimize discounts and promotions
+
+**Human moat:**
+
+- Interpersonal communication skills to build long-term trust and address deep client pain points
+- Balancing interests, compromise strategies, and on-the-spot adaptation in complex negotiations
+- Ability to coordinate across departments to integrate solutions for customised customer needs
+- Sales strategy decisions based on industry experience and intuition
+
+**Skills to build:**
+
+- Advanced CRM features (e.g., Salesforce Einstein, HubSpot AI)
+- Data Analysis and Visualization (Excel, Tableau, SQL)
+- AI toolchain (ChatGPT for script optimization, Copilot for email drafting)
+- Digital marketing basics (LinkedIn Sales Navigator, ad campaigns)
+- Negotiation psychology and complex relationship management
+- Vertical industry knowledge (e.g., supply chain, retail trends)
+
+**Key growth areas:**
 
 - Provincial Nominee Programs
 - Express Entry
@@ -63,68 +96,67 @@ Responsible for promoting and selling products to business clients, maintaining 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 满足CRS分数要求，可申请联邦技术移民或加拿大经验类移民 |
-| Subclass PNP（Provincial Nominee Program） | 通过省提名（如安省、BC省、阿省等）获得额外加分或直接提名 |
-| Subclass AIP（Atlantic Immigration Program） | 适合在大西洋四省找到雇主担保的申请人 |
+| Subclass EE (Express Entry (FSW/CEC)) | If CRS score requirements are met, can apply for Federal Skilled Worker or Canadian Experience Class |
+| Subclass PNP (Provincial Nominee Program) | Obtain additional points or direct nomination through provincial nomination (e.g., Ontario, BC, Alberta, etc.) |
+| Subclass AIP (Atlantic Immigration Program) | Suitable for applicants seeking employer sponsorship in the Atlantic provinces |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales and Account Representatives - Wholesale Trade (Non-Technical)？**
-- 沟通能力强、喜欢与人打交道的人
-- 愿意接受佣金制、追求收入上限的人
-- 有销售经验或相关学历者
-
-**谁不适合学Sales and Account Representatives - Wholesale Trade (Non-Technical)？**
-- 不喜欢业绩压力或不稳定收入的人
-- 不擅长主动社交或内向者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong communication skills who enjoy interacting with others.
+- Those willing to accept commission-based pay and aim for high income
+- Those with sales experience or relevant education
+
+**Who is not suited**
+- For those who dislike performance pressure or unstable income
+- Not good at active socializing or introverted
+
+---
+
+## 8. FAQ
+
+**Q: How much does a sales representative earn in Canada?**
+A: Entry-level: approx. CAD 38k-48k base plus commission; mid-level: CAD 50k-70k; senior: up to CAD 100k+. Income depends largely on industry and performance.
+
+**Q: Is it easy for sales representatives to immigrate to Canada?**
+A: Sales representatives fall under NOC TEER 2 and can immigrate via Express Entry or PNP, but require a CLB 6 or higher language score and sufficient work experience. Competition is moderate, but it is not a high-risk occupation.
+
+**Q: Do Canadian sales representatives need a license?**
+A: Generally no mandatory license required, but certain industries (e.g., real estate, insurance) require specific licenses. Wholesale sales typically do not need additional certificates
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales and Account Representatives - Wholesale Trade (Non-Technical)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a sales representative in Canada?**
-答：Entry-level annual income is about CAD 38,000-48,000 base plus commission; mid-level CAD 50,000-70,000; senior can reach over CAD 100,000. Income largely depends on industry and performance.
-
-**问：Is it easy for a sales representative to immigrate to Canada?**
-答：Sales representatives fall under NOC TEER 2, eligible for Express Entry or PNP, but require CLB 6+ language scores and sufficient work experience. Competition is moderate, but it's not a high-risk occupation.
-
-**问：Do sales representatives need a license in Canada?**
-答：Generally no mandatory license, but certain industries (e.g., real estate, insurance) require specific licenses. Wholesale sales usually do not need additional certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

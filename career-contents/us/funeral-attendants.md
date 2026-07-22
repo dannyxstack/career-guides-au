@@ -1,60 +1,96 @@
-# Funeral Attendants（Funeral Attendants）职业分析 · 美国
+# Funeral Attendants — career analysis · United States
 
-**职业代码：39-4021 – Funeral Attendants。**
+**Occupation code: 39-4021 (SOC)**
 
-Perform various tasks during funerals, such as moving caskets, arranging floral displays, directing mourners, closing caskets, and storing funeral equipment.
+Perform multiple tasks during funerals, such as moving the coffin to the chapel, arranging flowers and lights, guiding or escorting mourners, closing the coffin, and storing funeral equipment.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 6-12个月 | —（雇主提供培训，额外认证费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 6–12 months | $0~$5,000 (Employer-provided training, additional certification costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬师执照 | 州殡葬管理委员会 | 必备 | 多数州要求通过考试获得执照 |
-| 心肺复苏/急救认证 | 美国红十字会等 | 可选 | 部分雇主要求 |
+| Funeral director license | State Mortuary Board | Required | Most states require passing an exam to obtain a license |
+| CPR/First Aid certification | American Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 33,000。美国殡葬服务业预计增长缓慢，受人口老龄化和死亡率上升推动，但行业规模较小，竞争稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 33,000. The US funeral services industry is expected to grow slowly, driven by an aging population and rising mortality rates, but the industry is small with stable competition.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 入门级薪资 |
-| 中级（3-7年） | $32,000~$40,000 | 有经验薪资 |
-| 高级（7年以上） | $40,000~$50,000 | 资深或管理职位 |
+| Median salary | $35,680 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Entry-level salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Experienced salary. |
+| Senior (7+ years) | $40,000~$50,000 | Senior or management positions |
+| average salary | $37,190 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常由殡仪馆助理起步，可晋升至高级殡仪师或殡仪馆经理，需积累经验并获得相关执照。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
+
+Usually starts as a funeral home assistant, can advance to senior funeral director or funeral home manager, requires gaining experience and obtaining relevant licenses.
+
+**Tasks most exposed to AI:**
+
+- Write and edit draft eulogies and obituaries
+- Administrative tasks for scheduling funerals, booking venues, and coordinating suppliers
+- Creating and managing digital memorial pages or videos for the deceased
+- Basic customer inquiries and FAQ responses
+- Filing and records management
+
+**Where AI augments the role:**
+
+- Personalise funeral ceremonies with AI tools (e.g., music, image generation)
+- Optimize communication strategies with families using sentiment analysis
+- Utilizing VR/AR technology to create immersive farewell experiences
+- Automatically generate compliance documents and reports, reducing paperwork burden
+- Data-driven prediction of service demand to optimize resource scheduling
+
+**Human moat:**
+
+- In-person emotional support and empathetic communication
+- On-the-spot adaptability to handle emergencies
+- Deep understanding of cultural, religious, and family traditions
+- Authority in leading ceremonies and organizing on-site processes
+- Ability to build long-term trust relationships
+
+**Skills to build:**
+
+- Learn to use AI-assisted writing and design tools (e.g., ChatGPT, Canva)
+- Master basic data analysis (e.g., Excel, Power BI) to optimize operations
+- Enhance digital marketing skills (social media, SEO)
+- Learning VR/AR content creation tools
+- Enhanced qualifications in psychological counseling and grief therapy
+- Familiarity with Australian funeral regulations and compliance automation software
+
+**Key growth areas:**
 
 - Caregiving
 - End-of-life services
@@ -63,66 +99,68 @@ Perform various tasks during funerals, such as moving caskets, arranging floral 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少适用，因本职业不要求学士学位，难以满足专业职业定义。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅极少数杰出殡葬从业者可申请，门槛极高。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 雇主担保绿卡极少获批，因PERM劳工证难以证明劳工短缺。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely applicable as this occupation does not require a bachelor's degree, making it hard to meet professional occupation definition. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only very few outstanding funeral practitioners can apply; threshold is extremely high. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Employer-sponsored green cards are rarely approved because PERM labor certification makes it difficult to prove labor shortage. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Funeral Attendants？**
-- 对殡葬行业有同理心和尊重的人
-- 能在情感高压环境中保持冷静的人
-- 注重细节和礼仪的人
+**Who is suited**
+- People with empathy and respect for the funeral industry
+- Someone who can remain calm in emotionally stressful environments
+- People who are detail-oriented and etiquette-conscious
 
-**谁不适合学Funeral Attendants？**
-- 对死亡或尸体感到极度不适的人
-- 需要高薪或快速晋升的人
+**Who is not suited**
+- Those who are extremely uncomfortable with death or corpses
+- People who need high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a funeral service attendant in the US?**
+A: According to BLS, median annual salary is about USD 29,000, entry-level around USD 25,000, and senior can reach USD 50,000.
+
+**Q: Do foreigners have pathways to immigrate to the US?**
+A: Very limited. Funeral service workers usually do not meet H-1B specialty occupation requirements, employer-sponsored green card is difficult, only outstanding individuals may qualify via O-1 visa.
+
+**Q: How to advance from a funeral service worker to a funeral home manager?**
+A: Usually requires an associate or bachelor's degree, obtaining a state license, accumulating years of experience, and possibly completing funeral management courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Funeral Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for funeral attendants in the US?**
-答：According to BLS, median annual wage is about $29,000; entry-level around $25,000; experienced up to $50,000.
-
-**问：Are there immigration pathways for foreign nationals?**
-答：Very limited. Funeral attendants usually don't meet H-1B specialty occupation criteria; employer-sponsored green cards are difficult; only extraordinary individuals via O-1.
-
-**问：How to advance from funeral attendant to funeral home manager?**
-答：Typically requires associate or bachelor's degree, state licensure, years of experience, and possibly mortuary science coursework.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Bakers and flour confectioners（Bakers and flour confectioners）职业分析 · UK
+# Bakers and flour confectioners — career analysis · United Kingdom
 
-**职业代码：5432 – Bakers and flour confectioners。**
+**Occupation code: 5432 (SOC)**
 
-Prepare and bake dough, pastry and cake mixtures; make and finish flour confectionery products by hand.
+Prepare and bake dough, pastry, and cake mixtures; hand-make and finish flour-based pastry products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育 | 2年 | —（通过学徒制培训，部分免费） |
-| 职业培训 | 1-2年 | $1,000~$5,000（如City & Guilds证书） |
+| Secondary Education | 2 years | $0~$1,000 (Through apprenticeship training, some are free of charge) |
+| Vocational training | 1-2 years | $1,000~$5,000 (Such as City & Guilds certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Level 2 Certificate in Bakery | City & Guilds | 可选 | 基础烘焙技能证书 |
-| Level 3 Diploma in Bakery | City & Guilds | 可选 | 高级烘焙资格，有助于晋升 |
-| 食品安全证书 | Chartered Institute of Environmental Health | 必备 | 法律要求，所有食品工作者必备 |
+| Food safety certificate | Chartered Institute of Environmental Health | Required | Legal requirement, mandatory for all food workers |
+| Level 2 Certificate in Bakery | City & Guilds | Optional | Basic baking skills certificate |
+| Level 3 Diploma in Bakery | City & Guilds | Optional | Advanced baking qualification, helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 52,000。英国面包师需求稳定，随着手工面包和本地烘焙食品的流行，小型面包房和超市内烘焙区持续招聘。但自动化可能影响部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 52,000. Demand for bakers in the UK is stable. With the popularity of artisan bread and local baked goods, small bakeries and in-store bakery sections continue hiring. But automation may affect some roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或初入职 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验的面包师 |
-| 高级（7年以上） | $28,000~$35,000 | 首席面包师或主管 |
+| Median salary | $29,117 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $22,000~$28,000 | Experienced baker. |
+| Senior (7+ years) | $28,000~$35,000 | Head baker or supervisor |
+| average salary | $30,186 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从学徒做起，逐步晋升为高级面包师或糕点主厨，管理生产团队或开设自己的烘焙店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
+
+Can start as an apprentice and progress to senior baker or pastry chef, managing production teams or opening your own bakery.
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+**Key growth areas:**
 
 - Artisan baking
 - Local food trend
@@ -62,67 +97,66 @@ Prepare and bake dough, pastry and cake mixtures; make and finish flour confecti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 若雇主提供担保，可申请技术工人签证。面包师通常属于可担保职业，但需满足薪资门槛（通常£26,200/年）。 |
-| Subclass Graduate（Graduate Visa） | 在英国完成本科或硕士学位的国际学生可申请毕业生签证，期间可工作。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | If the employer offers sponsorship, you can apply for a skilled worker visa. Bakers are typically in eligible occupations but must meet the salary threshold (usually £26,200/year). |
+| Subclass Graduate (Graduate Visa) | International students who have completed a bachelor's or master's degree in the UK can apply for a Graduate Visa, during which they can work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bakers and flour confectioners？**
-- 喜欢动手制作食品
-- 能早起并适应站立工作
-- 注重细节和卫生标准
-
-**谁不适合学Bakers and flour confectioners？**
-- 对温度敏感或怕热
-- 想要高薪和快速晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys making food by hand
+- Ability to wake up early and adapt to standing work
+- Attention to detail and hygiene standards
+
+**Who is not suited**
+- Sensitive to temperature or afraid of heat
+- Seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a British baker?**
+A: Entry-level: approx. £18,000-£22,000; mid-level: £22,000-£28,000; senior: up to £35,000.
+
+**Q: Can bakers migrate to the UK under the Skilled Worker visa?**
+A: Yes, if the employer provides sponsorship, bakers meet the Skilled Worker visa requirements, subject to the salary threshold (typically £26,200/year).
+
+**Q: What training is required to become a baker?**
+A: Usually through apprenticeships or vocational training, such as City & Guilds certificates, learning skills during internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Bakers and flour confectioners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for bakers in the UK?**
-答：Entry-level: £18,000-£22,000; mid-level: £22,000-£28,000; senior: up to £35,000.
-
-**问：Can bakers migrate to the UK via Skilled Worker visa?**
-答：Yes, if sponsored by an employer. Bakers are eligible for the Skilled Worker visa, subject to salary threshold (usually £26,200/year).
-
-**问：What training is required to become a baker?**
-答：Usually via apprenticeships or vocational training such as City & Guilds certificates, with on-the-job learning.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

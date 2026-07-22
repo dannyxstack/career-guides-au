@@ -1,60 +1,96 @@
-# Psychologist（Psychologist）职业分析 · FR
+# Psychologist — career analysis · France
 
-**职业代码：K1104 – Psychologist。**
+**Occupation code: K1104 (ROME)**
 
-Psychologists assess, diagnose, and treat mental health disorders through psychotherapy, counseling, and psychological testing. They work in hospitals, private practices, schools, or corporate settings.
+Psychologists are mental health professionals who assess, diagnose, and treat psychological disorders, providing therapy, counseling, and psychological evaluation. They can work in hospitals, private clinics, schools, or businesses.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（心理学） | 5年（Master） | $2,000~$10,000（公立大学约2000-5000欧元/年，私立可更高） |
-| 专业培训（心理治疗师） | 2-3年（额外） | $3,000~$15,000（认证心理治疗课程） |
+| Master's (Psychology) | 5 years (Master) | $2,000~$10,000 (Public universities cost about 2000-5000 euros per year, while private universities can be even higher) |
+| Professional Training (Psychotherapist) | 2-3 years (extra) | $3,000~$15,000 (Certified psychotherapy courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学家文凭（Diplôme de Psychologue） | 法国大学 | 必备 | 需完成应用心理学硕士（Master en Psychologie） |
-| 心理学家注册（Adeli/PSY） | ARS（地区卫生局） | 必备 | 必须在ARS注册才能执业 |
+| Psychologist Diploma (Diplôme de Psychologue) | French universities | Required | Completion of a Master in Applied Psychology (Master en Psychologie) is required. |
+| Psychologist Registration (Adeli/PSY) | ARS (Regional Health Bureau) | Required | You must register with ARS to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 80,000。法国对心理学家的需求稳定增长，尤其是老年护理、儿童心理及工作心理学领域。受疫情后心理健康意识提升推动，就业前景良好。
+**Job demand: medium (★★½☆☆).** National workforce approx. 80,000. France's demand for psychologists is steadily increasing, especially in elderly care, child psychology, and occupational psychology. Driven by increased awareness of mental health after the pandemic, employment prospects are promising.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 公立机构起薪较低，私立机构稍高 |
-| 中级（4-10年） | $35,000~$50,000 | 经验与专长提高薪资 |
-| 高级（10年以上/独立执业） | $50,000~$80,000 | 独立执业的收入波动大 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Starting salaries in public institutions are lower, while private institutions have slightly higher salaries |
+| Mid-level (4-10 years). | $35,000~$50,000 | Experience and expertise increase salaries |
+| Senior (over 10 years / independent practice) | $50,000~$80,000 | Income from independent practice fluctuates greatly |
+| average salary | $33,696 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 职业晋升路径：临床心理学家可发展为独立执业专家或管理团队，也可转向研究或教学。需持续培训（如认知行为疗法、精神分析）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on the psychologist profession is mixed: diagnostic assessment paperwork is automated, but humanized treatment, trust relationships, and ethical judgment are hard to replace; Entry-level positions may face increased competition due to the widespread adoption of AI tools.
+
+Career advancement paths: Clinical psychologists can develop into independent practicing specialists or management teams, or move into research or teaching. Ongoing training is required (such as cognitive behavioral therapy and psychoanalysis).
+
+**Tasks most exposed to AI:**
+
+- Automatic generation of preliminary psychological assessment reports (such as symptom questionnaire analysis)
+- Data organization and literature retrieval (AI rapid screening of research evidence)
+- Recommendation of standardized treatment plans (symptom-based AI decision support)
+- Transcription and summary generation of psychological counseling
+- Basic psychological test scoring and interpretation
+
+**Where AI augments the role:**
+
+- Using AI for multimodal patient data analysis (voice, facial expressions, physiological signals) to improve diagnostic accuracy
+- AI tools can monitor patient treatment progress in real time and assist in adjusting treatment plans
+- Use natural language processing tools to write clinical notes and insurance claims more efficiently
+- Using AI simulation training platforms to role-play complex cases and enhance skills
+- Providing patients with 24/7 initial support and crisis alerts through remote AI assistants
+
+**Human moat:**
+
+- The ability to build deep therapeutic trust relationships
+- Immediate judgment and empathetic intervention in complex psychological crises
+- Information acquisition and interpretation of cross-cultural, unstructured interviews
+- Ethical decision-making and confidentiality boundaries
+- Development of innovative treatment plans (beyond data models)
+
+**Skills to build:**
+
+- Master the use and interpretation of AI-assisted diagnostic tools (such as conversational AI)
+- Data Science and Statistical Methods (Analysis of Treatment Effect Data)
+- Practical use of remote psychological counseling and digital therapy platforms
+- Knowledge of AI ethics and privacy protection regulations
+- Interdisciplinary collaboration (working with data scientists and AI engineers)
+- The ability to continuously learn and adapt to new technologies
+
+**Key growth areas:**
 
 - Mental Health Awareness
 - Workplace Psychology
@@ -63,66 +99,65 @@ Psychologists assess, diagnose, and treat mental health disorders through psycho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如心理学家，需有硕士学历及工作合同。 |
-| Subclass Salarié（Employee Work Permit） | 需法国雇主担保，通过劳动力市场测试。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业后的求职签证，可在法停留1年找工作。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, such as psychologists, who require a master's degree and a work contract. |
+| Subclass Salarié (Employee Work Permit) | French employer sponsorship is required, and labor market testing is required. |
+| Subclass Recherche emploi (Job Search Visa) | Post-graduation job-seeking visa, allows staying in France for 1 year to find work. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Psychologist？**
-- 对人类心理有强烈好奇心，善于倾听与共情
-- 具备较强的逻辑思维和分析能力
-- 有志于帮助他人改善心理健康
-
-**谁不适合学Psychologist？**
-- 对长期学业和高强度认证无耐心
-- 情绪波动大，易受他人心理状态影响
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong curiosity about human psychology, skilled at listening and empathy
+- Possess strong logical thinking and analytical skills
+- Committed to helping others improve their mental health
+
+**Who is not suited**
+- Impatient with long-term academic pursuits and high-intensity certifications
+- Emotional fluctuations are significant, and they are easily influenced by others' psychological states
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a psychologist in France?**
+A: Entry-level approx. €25,000–32,000/year, mid-level approx. €35,000–50,000/year, senior independent practice up to €50,000–80,000/year.
+
+**Q: Can foreign psychologists immigrate to France?**
+A: Yes, but you must first obtain a legally recognized diploma (Master) in psychologists and complete ARS registration. Non-EU degrees require certification of qualifications (reconnaissance des qualifications). You can apply for a Passeport Talent passport or a work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Psychologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a psychologist in France?**
-答：Entry-level around €25,000-32,000; experienced €35,000-50,000; senior independent practice €50,000-80,000 per year.
-
-**问：Can foreign psychologists immigrate to France?**
-答：Yes, but they need a French-recognized master's degree in psychology and ARS registration. Non-EU qualifications require recognition. Options include Talent Passport or work visa.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

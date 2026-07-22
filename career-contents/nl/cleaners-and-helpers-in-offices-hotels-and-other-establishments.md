@@ -1,61 +1,97 @@
-# Cleaners and Helpers in Offices, Hotels and Other Establishments（Cleaners and Helpers in Offices, Hotels and Other Establishments）职业分析 · NL
+# Cleaners and Helpers in Offices, Hotels and Other Establishments — career analysis · Netherlands
 
-**职业代码：9112 – Cleaners and Helpers in Offices, Hotels and Other Establishments。**
+**Occupation code: 9112 (ISCO08)**
 
-Perform cleaning and maintenance tasks in offices, hotels, and other establishments, including sweeping, mopping, vacuuming, cleaning restrooms, and waste disposal.
+Responsible for cleaning and maintaining hygiene in offices, hotels, and other premises, including sweeping, mopping, vacuuming, cleaning restrooms, and garbage disposal.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训） |
-| 短期培训课程 | 数月至1年 | $500~$2,000（如清洁技术证书） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
+| Short-term training course | Several months to 1 year | $500~$2,000 (such as Clean Technology Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性证书 | N/A | 可选 | 雇主通常提供在职培训 |
-| 清洁技术证书 | Nederlandse Vereniging voor Schoonmaakonderhoud (NVOS) | 可选 | 可选，可提升就业机会 |
-| VCA证书 | Stichting VCA | 可选 | 安全证书，部分雇主要求 |
+| No mandatory certificates | N/A | Optional | Employers usually provide on-the-job training |
+| Clean Technology Certificate | Nederlandse Vereniging voor Schoonmaakonderhoud (NVOS) | Optional | Optional, can improve employment opportunities |
+| VCA certificate | Stichting VCA | Optional | Safety certificate, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 185,000。荷兰清洁服务需求稳定，受旅游业和商业活动驱动。自动化影响有限，但劳动力市场收紧，雇主更倾向于雇佣灵活工人。
+**Job demand: medium (★★★☆☆).** National workforce approx. 185,000. Demand for cleaning services in the Netherlands is stable, driven by tourism and commercial activities. Automation impact is limited, but the labor market is tightening, with employers favoring flexible workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，按集体劳动协议 |
-| 中级（3-7年） | $28,000~$34,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $34,000~$40,000 | 税前年薪，主管或专业清洁岗 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 1121 Schoonmakers; P25–P75 €32,011–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, according to collective labor agreement |
+| Mid-level (3–7 years) | $28,000~$34,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $34,000~$40,000 | Gross annual salary, supervisor or professional cleaning position |
+| average salary | $31,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从入门级清洁工起步，可晋升为清洁主管或区域经理，也可通过培训转向专业清洁（如地毯清洁）或设施管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation is at high risk of automation replacement; structured cleaning tasks (e.g., floors, restrooms) can be completed by robots or machines, leading to significantly reduced demand for entry-level positions and lacking occupational barriers.
+
+Usually starting as an entry-level cleaner, you can advance to cleaning supervisor or regional manager, or move into specialized cleaning (e.g., carpet cleaning) or facilities management through training.
+
+**Tasks most exposed to AI:**
+
+- Floor sweeping and mopping can be replaced by automatic floor cleaning robots.
+- Toilet standard disinfection, can be performed by specialised cleaning robots
+- Waste collection and sorting can be replaced by smart trash bins and automated sorting systems.
+- Vacuum cleaning, replaceable by automatic vacuum robots
+- Regular standardized cleaning procedures, e.g., operation of disinfection spray robots
+
+**Where AI augments the role:**
+
+- Robot maintenance and software management, monitoring robot cleaning progress and status
+- Optimization of cleaning plans for complex areas, using AI to analyze foot traffic patterns for scheduling cleaning frequency
+- Quick response to customer complaints, using mobile terminals to receive incident reports and dispatch staff
+- Automatic cleaning quality inspection, AI detects residual stains and alerts for manual re-cleaning
+- Intelligent scheduling system coordinates human and robot tasks to improve overall efficiency
+
+**Human moat:**
+
+- Handling sudden stains (e.g., vomit, discarded food) requires flexible response
+- Night-time deep cleaning involves moving furniture, high-risk areas (such as chemical spills)
+- Requires assessing compatibility of cleaning agents with materials (e.g., wooden floors, stone)
+- Direct communication with clients/residents to respond to special cleaning requests
+- On-site supervision and training of new employees to ensure process compliance
+
+**Skills to build:**
+
+- Operate and maintain smart cleaning robots
+- Basic troubleshooting and repair
+- Use data analysis tools to optimize cleaning schedules
+- Understand chemical safety and emergency procedures
+- Improve customer service and communication skills
+- Understand the software interface of automated cleaning systems
+
+**Key growth areas:**
 
 - Stable demand
 - Aging workforce
@@ -64,66 +100,68 @@ Perform cleaning and maintenance tasks in offices, hotels, and other establishme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 通常不适用，因清洁工不属于高技能职业 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用，因薪资要求高且需高等教育 |
-| Subclass 自由流动（EU Freedom of Movement） | 欧盟公民可自由工作，无需签证 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Typically not applicable, as cleaners are not considered high-skilled occupations |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable due to high salary requirements and need for higher education |
+| Subclass Free Movement (EU Freedom of Movement) | EU citizens can work freely without a visa |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaners and Helpers in Offices, Hotels and Other Establishments？**
-- 耐劳且注重细节的人
-- 喜欢体力活动且能灵活排班的人
-- 不需要高学历但希望稳定工作的人
+**Who is suited**
+- Hardworking and detail-oriented people
+- Suitable for those who enjoy physical activity and flexible scheduling
+- People who do not require a high degree but seek stable employment
 
-**谁不适合学Cleaners and Helpers in Offices, Hotels and Other Establishments？**
-- 对重复性工作不耐受的人
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- People who are intolerant of repetitive work
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a cleaner?**
+A: Entry-level cleaner annual salary around €22,000-28,000; senior or supervisor can reach €34,000-40,000 (pre-tax).
+
+**Q: Can non-EU citizens immigrate to the Netherlands as cleaners?**
+A: Generally not, as cleaners are not classified as high-skilled occupations and are ineligible for skilled migration or EU Blue Card. EU citizens have free movement.
+
+**Q: Are there promotion opportunities for cleaners?**
+A: Yes, can advance to Cleaning Supervisor, Area Manager, or move into specialized cleaning services.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cleaners and Helpers in Offices, Hotels and Other Establishments属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cleaners?**
-答：Entry-level cleaners earn around €22,000-€28,000 per year, while senior or supervisor roles may reach €34,000-€40,000 (gross).
-
-**问：Can non-EU citizens migrate to the Netherlands as cleaners?**
-答：Generally no, as cleaning is not a high-skilled occupation eligible for the Highly Skilled Migrant or EU Blue Card. EU citizens can work freely.
-
-**问：Are there promotion opportunities for cleaners?**
-答：Yes, cleaners can advance to supervisor, area manager, or specialize in services like carpet cleaning.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

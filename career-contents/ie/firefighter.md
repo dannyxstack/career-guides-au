@@ -1,61 +1,97 @@
-# Firefighter（Firefighter）职业分析 · IE
+# Firefighter — career analysis · Ireland
 
-**职业代码：5411 – Firefighter。**
+**Occupation code: 5411 (ISCO08)**
 
-Firefighters respond to fires, emergency rescues, traffic accidents, and other disasters, protecting life and property. In Ireland, they are employed by local authority fire services and typically work shifts including nights and weekends.
+Firefighters respond to fires, emergencies, traffic accidents, and other disasters to protect life and property. In Ireland, firefighters are employed by local authority fire services and typically work shifts, including nights and weekends.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无正式学历要求 | —（通过体能和笔试选拔） |
-| 消防员初级培训 | 14周 | —（受雇后由消防部门提供带薪培训） |
+| High school graduation | No formal education requirements | $0~$0 (Selection through physical fitness and written tests) |
+| Initial training for firefighters | 14 weeks | $0~$0 (Paid training provided by the fire department after employment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶证C类 | Road Safety Authority (RSA) | 必备 | 驾驶消防车必需 |
-| 急救证书 | PHECC或认可机构 | 必备 | 基础生命支持或更高 |
-| 消防员资格认证 | Local Authority Fire Service | 必备 | 通过内部培训和评估获得 |
+| Class C driver's license | Road Safety Authority (RSA) | Required | Required for driving a fire truck |
+| First aid certificate | PHECC or recognized institution | Required | Basic Life Support or higher |
+| Firefighter certification | Local Authority Fire Service | Required | Obtained through internal training and assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,200。爱尔兰消防员需求稳定，因自然减员和退休需要补充。气候变化导致野火风险增加，但整体岗位增长缓慢。竞争激烈，尤其是全职职位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. Demand for firefighters in Ireland is stable, with replacements needed due to natural attrition and retirements. Climate change increases the risk of wildfires, but overall job growth is slow. Competition is fierce, especially for full-time positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 根据地方当局薪资表 |
-| 中级（4-10年） | $40,000~$48,000 | 含津贴和轮班补贴 |
-| 高级（10年以上/官员） | $50,000~$65,000 | 包括高级消防员或站长职位 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$38,000 | According to local authority pay scales. |
+| Mid-level (4-10 years). | $40,000~$48,000 | Including allowances and shift allowances |
+| Senior (10+ years/officer) | $50,000~$65,000 | including senior firefighter or station officer positions |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径从消防员晋升为高级消防员、消防官员或消防站长。还可专攻危险品处理、技术救援或消防调查。部分消防员通过进一步学习成为消防工程师或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighters' core tasks—firefighting, emergency rescue, disaster response—require real-time decision-making, physical effort, and high responsibility, making them hard for AI to replace; however, AI will significantly enhance situational awareness, equipment monitoring, and administrative efficiency. Competition for entry-level roles increases, but overall job demand remains stable, with human-machine collaboration becoming the new norm.
+
+Career progression path from firefighter to senior firefighter, fire officer, or station officer. Also possible to specialize in hazardous materials handling, technical rescue, or fire investigation. Some firefighters become fire engineers or trainers through further study.
+
+**Tasks most exposed to AI:**
+
+- Monitoring and initial response of automatic fire alarm systems (AI can prioritize filtering real alarms)
+- Basic dispatch and resource allocation (AI-optimized routing and vehicle matching)
+- Automated generation of routine inspection records for fire equipment
+- Automatic collection and analysis of on-site environmental data such as temperature and wind direction (replacing manual observation)
+- Preliminary drafting of fire cause report (based on sensor data template)
+
+**Where AI augments the role:**
+
+- AI-assisted real-time fire modeling and personnel positioning (AR glasses showing escape routes)
+- Drone thermal imaging to search for trapped persons, improving rescue efficiency
+- Predictive maintenance systems provide early warning for fire truck/equipment failures.
+- AI simulated training for virtual fire scenarios to enhance practical drill effectiveness
+- Deploy community fire prevention publicity in advance based on social opinion analysis
+
+**Human moat:**
+
+- Life-or-death rapid decisions and ethical judgment (e.g., whether to enter dangerous structures)
+- Ability to emotionally communicate and comfort disaster victims
+- High-intensity physical and psychological endurance (prolonged firefighting, rescue)
+- On-site team collaboration and command synergy (non-programmable leadership)
+- Responsibility under legal and regulatory frameworks (e.g., use of coercive measures)
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Basic data analysis (Python/R for fire statistics and prevention)
+- Emergency management and incident command system operations
+- Mental health and crisis intervention skills
+- Maintenance and interpretation of fire IoT equipment
+- Cross-departmental coordination and public education skills
+
+**Key growth areas:**
 
 - Stable demand
 - Wildfire risk increase
@@ -64,69 +100,68 @@ Firefighters respond to fires, emergency rescues, traffic accidents, and other d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需超过30,000欧元。消防员通常不属紧缺职业，需证明欧盟公民无法填补岗位。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，但消防员通常不符合学历要求（需高等教育）。极少使用。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动，消防员极少适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary must exceed 30,000 EUR. Firefighters are usually not in shortage, must prove that EU citizens cannot fill the position. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, but firefighters typically do not meet educational requirements (need higher education). Rarely used. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable for intra-company transfers, rarely applies to firefighters. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Firefighter？**
-- 体力好、应变能力强的人
-- 有团队合作精神和纪律性的人
-- 愿意轮班并承受压力的人
-
-**谁不适合学Firefighter？**
-- 不适应高强度体力劳动和危险环境的人
-- 对不规律作息和长时间待命无法接受的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness and adaptability
+- People with teamwork spirit and discipline
+- People willing to work shifts and handle pressure
+
+**Who is not suited**
+- People who cannot adapt to high-intensity physical labor and dangerous environments
+- Those who cannot tolerate irregular schedules and long standby periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a firefighter in Ireland?**
+A: Entry-level firefighters earn approximately €32,000 to €38,000 per year, including allowances.
+
+**Q: Are firefighter positions in Ireland open to overseas applicants?**
+A: EU citizens are usually prioritized; non-EU citizens need a General Employment Permit, but must prove no suitable EU candidate, and language and qualifications must be recognized.
+
+**Q: How to increase your chances of becoming a firefighter in Ireland?**
+A: Improve physical fitness, obtain first aid certification and large vehicle driving license, and accumulate volunteer firefighting experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Firefighter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for firefighters in Ireland?**
-答：Entry-level firefighters earn approximately €32,000 to €38,000 annually, including allowances.
-
-**问：Are firefighter positions in Ireland open to overseas applicants?**
-答：Priority is given to EU citizens. Non-EU applicants require a General Employment Permit, but must prove no suitable EU candidate and have recognized qualifications.
-
-**问：How can I increase my chances of becoming a firefighter in Ireland?**
-答：Improve physical fitness, obtain first aid certification and heavy vehicle driving license, and gain volunteer firefighting experience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

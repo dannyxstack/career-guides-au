@@ -1,58 +1,94 @@
-# Desktop publishing operators and related occupations（Desktop publishing operators and related occupations）职业分析 · 加拿大
+# Desktop publishing operators and related occupations — career analysis · Canada
 
-**职业代码：14112 – Desktop publishing operators and related occupations。**
+**Occupation code: 14112 (NOC)**
 
-Desktop publishing operators use computer software to format and design printed or digital publications, including brochures, manuals, and advertisements. They collaborate with clients to ensure the final product meets specifications.
+Desktop publishing operators use computer software to typeset and design print or digital publications, including brochures, manuals, advertisements, etc. They typically work with clients to ensure the final product meets specifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $9,000~$16,000（加拿大公立学院学费） |
-| 大学本科 | 4年 | $40,000~$80,000（设计或视觉传播相关专业） |
+| Diploma | 2 years | $9,000~$16,000 (Tuition fees at Canadian public colleges.) |
+| University bachelor's degree | 4 years | $40,000~$80,000 (Design or visual communication related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关工作经验或培训 | 雇主或培训机构 | 可选 | 通常需要1-2年经验或相关证书 |
-| Adobe认证专家 | Adobe | 可选 | 提升竞争力，非强制 |
+| Relevant work experience or training | Employer or training provider | Optional | Usually requires 1-2 years of experience or relevant certification. |
+| Adobe Certified Expert | Adobe | Optional | Increases competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,800。预计该职业就业前景有限，由于软件自动化和在线出版工具的普及，对入门级操作员的需求减少。但具备高级设计技能和项目管理经验的专业人员仍有市场。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,800. The employment outlook for this occupation is limited due to the prevalence of software automation and online publishing tools, reducing demand for entry-level operators. However, professionals with advanced design skills and project management experience still have opportunities.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 取决于地区和雇主 |
-| 中级（3-6年） | $45,000~$58,000 | 具备独立排版能力 |
-| 高级（6年以上） | $58,000~$72,000 | 可能涉及项目管理 |
+| Median salary | $49,442 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Depends on region and employer |
+| Mid-level (3–6 years) | $45,000~$58,000 | Ability to independently handle layout design |
+| Senior (6+ years) | $58,000~$72,000 | May involve project management |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级桌面出版操作员可晋升为高级排版师、设计主管或创意经理。进一步学习可转向数字媒体设计或用户界面设计岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Desktop publisher roles are being reduced by AI automation tools, but AI also improves layout and graphic design efficiency. Entry-level positions are narrowing, but senior staff can move into creative direction and complex projects.
+
+Entry-level desktop publishing operators can advance to senior typesetters, design supervisors, or creative managers. Further study can lead to digital media design or UI design roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic layout adjustment and template application
+- Simple text formatting and proofreading
+- One-click generation of publication drafts
+- Standard image cropping and color adjustment
+- Basic PDF generation and preflighting
+
+**Where AI augments the role:**
+
+- AI-assisted creative layout and color scheme suggestions
+- Automatically generate layout variants for selection
+- Smart fonts and image recommendations
+- Rapid iterative design prototyping
+- Automated output checking and quality assurance
+
+**Human moat:**
+
+- Complex creative design and art direction
+- Brand consistency assessment and client communication
+- Multi-platform publishing strategy development
+- Non-standard problem solving and customized layouts
+- Project management and team collaboration
+
+**Skills to build:**
+
+- Advanced InDesign/QuarkXPress skills
+- Scripting (e.g., JavaScript/ExtendScript)
+- Digital publishing (EPUB/mobile layout)
+- Basic UX/UI design
+- AI design tools (e.g. Adobe Sensei)
+- Project management and client communication
+
+**Key growth areas:**
 
 - Stationary
 - Niche
@@ -61,68 +97,67 @@ Desktop publishing operators use computer software to format and design printed 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 通过FSW需要满足教育、工作经验、语言等要求，职业在NOC TEER 2，符合资格。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能有针对创意产业或媒体职业的提名项目，需与雇主联系。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但需证明无法找到本地劳动力。 |
+| Subclass Express Entry (Federal Skilled Worker Program) | To apply through FSW, you need to meet requirements in education, work experience, language, etc. The occupation is in NOC TEER 2 and is eligible. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may have nomination programs for creative industries or media occupations; contact employers. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, but must prove inability to find local labor. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Desktop publishing operators and related occupations？**
-- 注重细节、有耐心的人士
-- 具备基本设计审美和计算机技能的人
-- 希望在出版或广告行业从事排版工作的人
-
-**谁不适合学Desktop publishing operators and related occupations？**
-- 追求高薪或高增长行业的人
-- 不喜重复性电脑工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and patient individuals
+- People with basic design aesthetics and computer skills
+- Individuals wishing to work in typesetting in the publishing or advertising industry
+
+**Who is not suited**
+- People pursuing high salary or high-growth industries
+- People who dislike repetitive computer work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a desktop publishing operator in Canada?**
+A: According to Canada's Job Bank, the median annual salary is about C$45,000, but it ranges from C$35,000 to C$72,000 depending on experience, region, and industry.
+
+**Q: How difficult is it to immigrate to Canada as a desktop publishing operator?**
+A: This occupation falls under NOC TEER 2 and can immigrate via Express Entry FSW or Provincial Nominee Program, but competition is high; having a Canadian employer or work experience is advantageous; LMIA can also provide a work permit.
+
+**Q: Will this occupation be replaced by automation in the future?**
+A: There is some risk, as layout automation tools and AI design software are rapidly developing, but complex creative layout and project management still require humans; switching to digital media can reduce risk.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Desktop publishing operators and related occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for desktop publishing operators in Canada?**
-答：According to Job Bank Canada, the median annual salary is around CAD 45,000, ranging from CAD 35,000 to CAD 72,000 depending on experience, location, and industry.
-
-**问：How difficult is it to immigrate to Canada as a desktop publishing operator?**
-答：This occupation falls under NOC TEER 2, eligible for Express Entry FSW or PNP, but competition is stiff; having a Canadian job offer or experience is beneficial; LMIA can also lead to a work permit.
-
-**问：Will this occupation be automated in the future?**
-答：There is a risk as layout automation and AI design tools advance, but complex creative layout and project management still require human input; shifting to digital media can mitigate risk.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

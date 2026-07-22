@@ -1,63 +1,96 @@
-# Building Expert and Building Inspector（Building Expert and Building Inspector）职业分析 · DE
+# Building Expert and Building Inspector — career analysis · Germany
 
-**职业代码：3116 – Building Expert and Building Inspector。**
+**Occupation code: 3116 (KldB)**
 
-Building experts and inspectors evaluate structural safety, compliance, and value of buildings, conducting quality control, damage assessment, and acceptance inspections. They provide technical advice to ensure projects meet German regulations and standards.
+Building experts and inspectors evaluate the structural safety, compliance, and value of buildings, conduct quality monitoring, damage assessment, and acceptance inspections. They provide technical advice to ensure construction projects meet German regulations and industry standards.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（建筑技术方向） | 3年 | —（企业承担培训费，学员获津贴） |
-| 应用科学大学本科（土木工程/建筑管理） | 3-4年 | —（公立大学免学费，仅学期费） |
-| 资深专家进修（认证检查员） | 1-2年 | $5,000~$15,000（由德国建筑工程师协会等提供） |
+| Dual vocational training (construction technology) | 3 years | $0~$500 (Company covers training costs, trainees receive allowance) |
+| Bachelor's degree from a University of Applied Sciences (Civil Engineering/Construction Management) | 3-4 years | $0~$1,500 (Public universities are tuition-free, only semester fees apply.) |
+| Senior expert further training (certified inspector) | 1-2 years | $5,000~$15,000 (Provided by the German Association of Building Engineers, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑技术员（双元制毕业） | 德国工商大会（IHK） | 必备 | 基础资质，可从事检查工作 |
-| 认证建筑检查员（Sachverständiger） | 德国工程师协会（VDI）或建筑协会 | 必备 | 需经验及考试，公共认可 |
-| 本科学位（土木工程等） | 大学 | 可选 | 同等学历，部分岗位要求 |
-| 资质认证（外国学历） | 德国认证机构 | 必备 | 非欧盟学历需Anerkennung |
+| Building technician (dual-system graduate) | German Chamber of Commerce and Industry (IHK) | Required | Basic qualification, can perform inspection work |
+| Certified building inspector (Sachverständiger) | German engineering association (VDI) or construction association | Required | Requires experience and examination, publicly recognised |
+| Qualification recognition (foreign qualifications) | German certification body | Required | Non-EU qualifications require Anerkennung |
+| Bachelor's degree (e.g., Civil Engineering) | University | Optional | Equivalent qualifications, required for some positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国建筑行业持续繁荣，能源改造和基础设施维护需求旺盛。专业建筑检查员缺口明显，尤其具备资质认证者就业前景良好。预计未来十年需求稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Germany's construction industry continues to boom, with strong demand for energy retrofitting and infrastructure maintenance. There is a noticeable shortage of professional building inspectors, especially those with certification, leading to favourable employment prospects. Steady growth in demand is expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，取决于企业规模 |
-| 中级（3-8年） | $48,000~$65,000 | 含责任增加 |
-| 高级（8年以上） | $65,000~$85,000 | 独立专家或管理层 |
+| Median salary | $62,184 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, depending on company size |
+| Mid-level (3–8 years) | $48,000~$65,000 | Includes increased responsibility |
+| Senior (8+ years) | $65,000~$85,000 | Independent expert or management level |
+| average salary | $67,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径可从建筑公司技术员或项目监理起步，晋升为高级检查员、部门主管，或创办独立评估事务所。持续进修能源效率、BIM技术可提升竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on building experts and inspectors is mixed: automation will take over extensive data verification and documentation, but on-site physical judgment, legal compliance responsibilities, and human-machine coordination demands increase; jobs won't disappear but skill requirements will significantly upgrade.
+
+Career paths can start as a technician or project supervisor in construction companies, advancing to senior inspector, department head, or establishing an independent evaluation firm. Continuing education in energy efficiency and BIM can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically scans building drawings and marks compliance violations
+- Automatically detect structural damage from drones/photos using computer vision
+- Generate standardized draft building inspection reports
+- Predict material ageing and maintenance cycles based on historical data
+
+**Where AI augments the role:**
+
+- AI-assisted high-precision deformation analysis of 3D laser scanning data
+- Rapidly assess seismic/fire retrofit options through machine learning models
+- Real-time integration of IoT sensor data for dynamic structural health diagnostics
+- Automatically generate multi-version building repair plans for expert selection
+
+**Human moat:**
+
+- Carries legal and insurance-related signing responsibilities and professional obligations.
+- Dealing with non-standard, undocumented structural details in older buildings
+- On-site negotiations and compromises with property owners, contractors, and government entities
+- Experiential judgment of rare, atypical damage patterns.
+
+**Skills to build:**
+
+- BIM (Building Information Modeling) Advanced Application
+- Operate software for drone image collection and automatic defect identification
+- Automated analysis of inspection data using Python or low-code platforms
+- Familiar with the digital submission process for the new EU and German building energy efficiency regulations
+- IoT sensor system integration and abnormal alarm interpretation capability
+- AI-assisted technical documentation and visual reporting
+
+**Key growth areas:**
 
 - energy efficiency retrofitting
 - building digitization (BIM)
@@ -66,70 +99,69 @@ Building experts and inspectors evaluate structural safety, compliance, and valu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合本科及以上学历，年薪门槛约43,800欧元（2024年），紧缺职业可降低。工作满33个月可申请永居。 |
-| Subclass Skilled Worker（Skilled Employment Visa） | 适用于双元制培训或本科学历，工作合同即可申请，无固定年薪要求。需资质认证。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德找工作一年，需学历或职业资格。适合未获工作offer但条件良好者。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，需经济保障。后续可转工签。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for bachelor's degree or above, with an annual salary threshold of approximately 43,800 euros (2024), which can be reduced for shortage occupations. After working for 33 months, you can apply for permanent residence. |
+| Subclass Skilled Worker (Skilled Employment Visa) | Applicable for dual-system training or bachelor's degrees; application possible with a work contract, no fixed annual salary requirement. Qualification accreditation required. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to come to Germany for one year, requiring a degree or vocational qualification. Suitable for those without a job offer but with good qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to seek employment, requires financial proof. Can later switch to work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Expert and Building Inspector？**
-- 对建筑结构和法规有浓厚兴趣的技术人员
-- 注重细节、责任心强，善于独立工作
-- 希望获得稳定职业且市场需求大的求职者
-
-**谁不适合学Building Expert and Building Inspector？**
-- 不喜欢实地工作和频繁出差的人
-- 缺乏耐心或不愿持续学习新法规和技术者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technicians with a strong interest in building structures and regulations
+- Detail-oriented, strong sense of responsibility, and good at working independently
+- Job seekers seeking stable careers with high market demand
+
+**Who is not suited**
+- Dislikes fieldwork and frequent travel
+- Lacks patience or unwilling to continuously learn new regulations and technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for building inspectors?**
+A: Entry-level approx. €35,000-45,000, mid-level €48,000-65,000, senior up to €85,000. Certified specialists and independent consultants earn higher.
+
+**Q: How are foreign qualifications recognized?**
+A: Must undergo the German government recognition procedure (Anerkennung), with assessments by relevant professional associations. In some cases, supplementary courses or exams are required.
+
+**Q: What are the future development directions for this occupation?**
+A: With green building and digital trends, inspectors skilled in energy efficiency assessment and BIM will be more sought after. Career paths can progress towards sustainable building consultant, project management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Building Expert and Building Inspector为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for building inspectors?**
-答：Entry-level around 35,000-45,000 EUR, mid-level 48,000-65,000 EUR, senior up to 85,000 EUR. Certified experts and independent consultants earn more.
-
-**问：How are foreign qualifications recognized?**
-答：Through the German recognition procedure (Anerkennung), professional associations assess education and experience. Additional courses or exams may be required.
-
-**问：What are the future career directions?**
-答：With green building and digitalization, inspectors skilled in energy efficiency and BIM are in demand. Growth towards sustainable construction advisor, project management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

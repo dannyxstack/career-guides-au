@@ -1,58 +1,94 @@
-# Manufacturing Labourers Not Elsewhere Classified（Manufacturing Labourers Not Elsewhere Classified）职业分析 · IE
+# Manufacturing Labourers Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：9329 – Manufacturing Labourers Not Elsewhere Classified。**
+**Occupation code: 9329 (ISCO08)**
 
-Performs general manual tasks in Irish manufacturing, such as material handling, machine feeding, packing, and cleaning.
+Engaging in general manual labor in the Irish manufacturing industry, including material handling, machine feeding, product packaging, and cleaning.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常无需正式教育） |
-| 短期职业培训 | 1-3个月 | $500~$2,000（如安全培训等） |
+| High school graduation | None | $0~$0 (Usually no formal education required) |
+| Short-term vocational training | 1-3 months. | $500~$2,000 (Such as safety training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全培训证书 | 雇主或培训机构 | 必备 | 常见为Safepass |
-| 急救证书 | 红十字会等 | 可选 | 部分雇主要求 |
+| Safety training certificate | Employer or training provider | Required | Commonly known as Safepass |
+| First aid certificate | Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。该职业就业需求与制造业整体健康度相关，预计未来五年保持稳定，但受自动化影响增长有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Job demand in this occupation correlates with the overall health of the manufacturing sector. It is expected to remain stable over the next five years, but growth is limited due to automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 时薪约€11-14 |
-| 中级（3-5年） | $28,000~$35,000 | 含加班费 |
-| 高级（5年以上） | $35,000~$42,000 | 可能担任组长 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Hourly wage approx. €11-14 |
+| Mid-level (3–5 years) | $28,000~$35,000 | Including overtime pay |
+| Senior (5+ years) | $35,000~$42,000 | May serve as team leader |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从临时工起步，可晋升为生产线组长或转为操作员，但晋升通道较窄。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Unclassified manufacturing laborers face high automation risk; repetitive physical tasks such as material handling and packaging will be replaced by robots and AI systems, with job numbers expected to significantly decrease.
+
+Usually starts as a temporary worker, can advance to production line team leader or operator, but the promotion path is narrow.
+
+**Tasks most exposed to AI:**
+
+- Material handling: AI and robotic automated forklifts, AGVs replacing manual handling
+- Machine feeding: robotic arms automatically load materials according to AI scheduling.
+- Product packaging: visually guided robots for automatic boxing and sealing
+- Simple cleaning: robot vacuum or automated cleaning systems replace manual work
+- AI visual inspection for quality control replacing manual visual inspection
+
+**Where AI augments the role:**
+
+- Troubleshooting: AI-assisted diagnosis of equipment anomalies, workers quickly repair based on prompts
+- Production scheduling: AI-optimized planning, workers perform flexible tasks
+- Safety monitoring: Wearable devices and AI early warning systems enhance worker safety
+- Skills training: AR/VR combined with AI for immersive operational guidance
+- Data recording: automatically collect production data, workers focus on analysis and improvement
+
+**Human moat:**
+
+- Complex problem solving: handling non-standard equipment faults and abnormal situations
+- Flexible adaptation: switching tasks and handling new problems in changing environments
+- Fine manual operations: careful handling of precision parts or fragile materials
+- Cross-departmental collaboration: communicate and coordinate with engineers and management
+- Safety supervision: identify potential safety hazards and take preventive measures
+
+**Skills to build:**
+
+- Robot system operation and maintenance
+- Basic PLC programming and troubleshooting
+- Data analysis and AI tool usage
+- Lean production and continuous improvement methods
+- Collaborative robot safe operation
+- Basic English reading for technical documents
+
+**Key growth areas:**
 
 - Manufacturing
 - Manual Work
@@ -61,64 +97,63 @@ Performs general manual tasks in Irish manufacturing, such as material handling,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于€34,000的普通非紧缺职业，需通过劳动力市场测试。 |
-| Subclass Dependant/Partner Vi（Dependant/Partner Visa） | 持有Critical Skills或Stamp 4签证者的配偶可自由工作，不受职业限制。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to ordinary non-shortage occupations with annual salary below €34,000; requires labor market test. |
+| Subclass Dependant/Partner Vi (Dependant/Partner Visa) | Spouses of Critical Skills or Stamp 4 visa holders can work freely without occupational restrictions. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manufacturing Labourers Not Elsewhere Classified？**
-- 希望立即就业、无学历要求者
-- 能接受重复性体力劳动的人
-- 以工作为跳板、积累经验者
-
-**谁不适合学Manufacturing Labourers Not Elsewhere Classified？**
-- 追求高薪和职业发展者
-- 对体力劳动不耐受或期望轻松工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those who want immediate employment and have no academic requirements
+- People who can accept repetitive physical labor
+- Those using work as a stepping stone to gain experience
+
+**Who is not suited**
+- Those seeking high salary and career development
+- For those intolerant of physical labor or expecting easy work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of manufacturing laborers in Ireland?**
+A: Entry-level annual salary approximately €22,000-28,000, experienced workers can reach €35,000-42,000.
+
+**Q: Can this occupation immigrate to Ireland via a work visa?**
+A: Generally does not meet Critical Skills criteria; only eligible for a General Employment Permit, requiring a labour market test and an annual salary of at least €30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Manufacturing Labourers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for manufacturing labourers in Ireland?**
-答：Entry-level around €22,000-28,000, experienced up to €35,000-42,000.
-
-**问：Can this occupation lead to a work visa in Ireland?**
-答：Not eligible for Critical Skills; can apply for General Employment Permit with labour market test and salary ≥€30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

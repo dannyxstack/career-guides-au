@@ -1,60 +1,96 @@
-# Stone Cutters, Splitters, Carvers And Engravers（Stone Cutters, Splitters, Carvers And Engravers）职业分析 · ES
+# Stone Cutters, Splitters, Carvers And Engravers — career analysis · Spain
 
-**职业代码：7122 – Stone Cutters, Splitters, Carvers And Engravers。**
+**Occupation code: 7122 (CNO)**
 
-Skilled tradesperson who cuts, splits, carves and engraves natural stone for construction, monuments and decorative pieces.
+Responsible for cutting, splitting, carving, and carving natural stone for construction, monuments, and decorative craftsmanship.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立免费，私立约2000欧元/年） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约2500欧元/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$2,500 (Public schools are free, while private ones pay about 2,500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio en Cantería | 教育部认可的职业教育中心 | 可选 | 石工技术职业资格，非强制但雇主优先 |
-| Certificado de Profesionalidad | SEPE或自治大区 | 可选 | 职业证书，证明切割、雕刻等技能 |
+| FP Grado Medio en Cantería | A vocational education center recognized by the Ministry of Education | Optional | Stone technician professional qualification, not mandatory, but employers are preferred |
+| Certificado de Profesionalidad | SEPE or autonomous region | Optional | Professional certificates certifying skills such as cutting and carving |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。西班牙建筑和修复行业对石匠需求稳定，但机械化程度提高导致低技能岗位减少。文化遗产修复领域仍有专业需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. Spain's construction and restoration industry has stable demand for stonemasons, but increased mechanization has led to a reduction in low-skilled jobs. There is still a professional demand in the field of cultural heritage restoration.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，多为学徒或辅助工 |
-| 中级（3-8年） | $22,000~$28,000 | 有经验的石匠，可独立作业 |
-| 高级（8年以上） | $28,000~$35,000 | 工头、修复专家或自雇 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salaries are mostly for apprentices or auxiliary workers |
+| Mid-level (3–8 years) | $22,000~$28,000 | Experienced stonemasons, able to work independently |
+| Senior (8+ years) | $28,000~$35,000 | Foremen, restoration specialists, or self-employed |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒或辅助工起步，积累经验后可晋升为石匠师傅或工头。部分人员通过进修成为石材修复专家或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will make design automation and finishing more efficient, but manual engraving and on-site work still depend on people; Entry-level positions have been squeezed down due to the spread of CAD, but highly skilled craftsmen are even scarcer.
+
+Start as an apprentice or assistant, and after gaining experience, you can be promoted to master stonemason or foreman. Some individuals become stone restoration experts or start their own businesses through further education.
+
+**Tasks most exposed to AI:**
+
+- AI generates stone carving design patterns and optimizes cutting schemes
+- Automated CNC machine tools perform cutting and splitting of standard shapes
+- AI-driven quality inspection identifies stone cracks and color differences
+- Finishing (grinding, polishing) of the stone surface is done by robots
+- AI automation for architectural stone layout and inventory management
+
+**Where AI augments the role:**
+
+- AI-assisted design of complex patterns and customized solutions for clients
+- Augmented reality (AR) projection guides the hand-sculpted path
+- AI analyzes stone texture and optimizes cutting direction to reduce waste
+- Remote expert systems provide real-time advice for on-site operations through AI
+- 3D scanning + AI modeling accelerates precise matching of monument restoration
+
+**Human moat:**
+
+- Aesthetic judgment and handcrafted feel of complex artistic carving
+- Adaptable to the irregular grain of natural stone
+- Overall understanding and adjustment of the building structure during on-site installation
+- The inheritance of traditional crafts and the grasp of cultural symbols
+- Client communication and human empathy in customized solutions
+
+**Skills to build:**
+
+- CAD/CAM software (such as Rhino, Mastercam)
+- 3D scanning and reverse engineering of stone
+- AI Design Generation Tools (Stable Diffusion, DALL-E)
+- Operation and programming of CNC multi-axis engraving machines
+- Augmented reality (AR) assists in construction tool applications
+- Knowledge of stone maintenance and restoration chemistry
+
+**Key growth areas:**
 
 - heritage restoration
 - stone cladding
@@ -63,62 +99,64 @@ Skilled tradesperson who cuts, splits, carves and engraves natural stone for con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需西班牙雇主担保，通常要求证明该职位无法由欧盟公民填补。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，但需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A Spanish employer sponsorship is required, usually requiring proof that the position cannot be filled by an EU citizen. |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months looking for work, but you must prove your financial capability. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stone Cutters, Splitters, Carvers And Engravers？**
-- 喜欢手工艺和体力工作的人
-- 对文化遗产修复感兴趣
-- 愿意在建筑工地或石材加工厂工作
+**Who is suited**
+- People who enjoy crafts and physical labor
+- Interested in cultural heritage restoration
+- Willing to work on construction sites or in stone processing factories
 
-**谁不适合学Stone Cutters, Splitters, Carvers And Engravers？**
-- 希望高收入和快速晋升的人
-- 不擅长体力劳动或精细手工
+**Who is not suited**
+- Those who want high income and rapid promotion
+- Not skilled in manual labor or fine handicrafts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for Spanish stonemasons?**
+A: Junior stonemasons earn about 18,000-22,000 euros annually, while experienced stonemasons can earn 28,000-35,000 euros. Self-employment or restoration specialists may be higher.
+
+**Q: Can Chinese stonemasons immigrate to Spain?**
+A: It's very difficult. This occupation is not considered a shortage in Spain; employer sponsorship must prove that suitable candidates cannot be found within the EU. Credential verification is not required but may help with the application.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stone Cutters, Splitters, Carvers And Engravers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of stone cutters in Spain?**
-答：Entry-level stone cutters earn around €18,000-22,000 annually, while experienced ones can reach €28,000-35,000. Self-employed or restoration specialists may earn more.
-
-**问：Can a Chinese stone cutter immigrate to Spain?**
-答：It is very difficult. This occupation is not in shortage, and employer sponsorship requires proving that no EU worker is available. Credential recognition is not mandatory but may help.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

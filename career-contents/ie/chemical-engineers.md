@@ -1,58 +1,94 @@
-# Chemical Engineers（Chemical Engineers）职业分析 · IE
+# Chemical Engineers — career analysis · Ireland
 
-**职业代码：2145 – Chemical Engineers。**
+**Occupation code: 2145 (ISCO08)**
 
-Chemical engineers design, develop and optimize chemical manufacturing processes in sectors like energy, pharmaceuticals, and food, ensuring safety and environmental compliance.
+Chemical engineers design, develop, and optimize chemical production processes, covering industries such as energy, pharmaceuticals, and food, ensuring safety and environmental protection.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $25,000~$35,000（欧盟学生约€11,000/年，非欧盟约€25,000-€35,000/年） |
-| 硕士 | 1-2年 | $15,000~$25,000（非欧盟学费约€15,000-€25,000/年） |
+| Bachelor's degree | 4 years | $25,000~$35,000 (EU students approx. €11,000/year, non-EU approx. €25,000-€35,000/year) |
+| Master's degree | 1-2 years | $15,000~$25,000 (Non-EU tuition approx. €15,000–€25,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师注册 | 爱尔兰工程师协会 (Engineers Ireland) | 可选 | 专业注册通常需要认证学位加4年工作经验 |
-| 特许工程师 (CEng) | 英国工程委员会 (via Engineers Ireland) | 可选 | 国际认可，提升职业竞争力 |
+| Engineer registration | Engineers Ireland | Optional | Professional registration typically requires an accredited degree plus 4 years of work experience. |
+| Chartered Engineer (CEng) | UK Engineering Council (via Engineers Ireland) | Optional | International recognition to enhance professional competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰化学工程师需求稳定，受制药和生物技术行业强劲推动。预计未来几年就业增长约5-8%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Demand for chemical engineers in Ireland is stable, strongly driven by the pharmaceutical and biotech industries. Employment growth of about 5-8% is expected in the next few years.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$70,000 | 税前年薪 |
-| 高级（7年以上） | $75,000~$100,000 | 税前年薪 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$70,000 | Annual pre-tax salary |
+| Senior (7+ years) | $75,000~$100,000 | Annual pre-tax salary |
+| average salary | $62,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级工程师可晋升为工艺工程师、项目经理或技术专家；经验丰富者可担任首席工程师或研发总监。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
+
+Junior engineers can advance to process engineer, project manager, or technical expert; experienced professionals can become chief engineer or R&D director.
+
+**Tasks most exposed to AI:**
+
+- Drawing routine process flow diagrams and piping and instrumentation diagrams
+- Optimization calculation of reactor yield based on historical data
+- Generate draft standardized safety assessment reports
+- Routine laboratory experiment design and data recording
+- Generate equipment specifications and purchase orders
+
+**Where AI augments the role:**
+
+- Accelerate catalyst design and molecular simulation with AI to shorten R&D cycles
+- Using machine learning to predict equipment corrosion rates and optimize maintenance schedules
+- AI-assisted real-time monitoring and anomaly detection improve process safety.
+- Simulating Process Change Impacts Using Digital Twins to Reduce Trial Costs
+- Automatically generating multiple project options and comparing economic indicators to aid decision-making
+
+**Human moat:**
+
+- Innovation in complex chemical process mechanisms and novel reaction route design
+- Cross-Disciplinary (Mechanical, Electrical, Environmental) System Integration and Trade-offs
+- Instantaneous judgment and physical intervention under emergency accident conditions
+- Deep understanding of customer needs and customization of bespoke process solutions
+- Responsibility and accountability in safety, environmental, and ethical decisions
+
+**Skills to build:**
+
+- AI-assisted process simulation (Aspen Plus + ML)
+- Big data analysis and machine learning (Python/SciKit-learn)
+- Digital twin platform (AVEVA/Siemens) operation
+- Process control and automation (DCS/PLC basics)
+- Interdisciplinary communication and project management (PMP)
+- Sustainable design (carbon capture, green hydrogen processes)
+
+**Key growth areas:**
 
 - Pharmaceutical
 - Biotechnology
@@ -61,68 +97,67 @@ Chemical engineers design, develop and optimize chemical manufacturing processes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 针对紧缺职业，无需劳动力市场测试，2年后可申请永久居留 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需劳动力市场测试，年薪至少€30,000 |
-| Subclass EU Blue Card（EU Blue Card） | 高技能移民通道，需年薪€43,000以上，2年后可申请蓝卡永居 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For occupation shortages, no labor market test required; permanent residence can be applied for after 2 years |
+| Subclass General Employment P (General Employment Permit) | For non-shortage occupations, requires labour market test, annual salary at least €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | High-skilled migration pathway, requiring an annual salary of €43,000+; can apply for Blue Card permanent residence after 2 years |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical Engineers？**
-- 擅长数学和科学的分析型人才
-- 对环境与可持续工艺有兴趣
-- 希望从事高薪且稳定职业的人
-
-**谁不适合学Chemical Engineers？**
-- 不喜欢实验室和工业环境的人
-- 对严格安全规程感到束缚的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Analytical talent skilled in mathematics and science
+- Interest in environment and sustainable processes
+- Individuals seeking high-paying and stable careers
+
+**Who is not suited**
+- Those who dislike laboratory and industrial environments
+- Those who feel constrained by strict safety regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a chemical engineer?**
+A: Junior: approx. €35,000-€45,000, mid: €50,000-€70,000, senior: €75,000-€100,000.
+
+**Q: How can non-EU chemical engineers immigrate to Ireland?**
+A: Can apply directly via Critical Skills Employment Permit (shortage occupation), no labour market test required, eligible for permanent residency after 2 years.
+
+**Q: What is the career progression path for a chemical engineer?**
+A: Begin as a junior engineer, progress to process engineer, project manager, and then engineering manager or technical director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Chemical Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for chemical engineers?**
-答：Entry-level around €35k-€45k, mid-career €50k-€70k, senior €75k-€100k.
-
-**问：How can non-EU chemical engineers immigrate to Ireland?**
-答：Apply for a Critical Skills Employment Permit (shortage occupation), no labor market test, eligible for permanent residence after 2 years.
-
-**问：What is the career progression for chemical engineers?**
-答：Start as junior engineer, progress to process engineer, project manager, then engineering manager or technical director.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

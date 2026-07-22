@@ -1,128 +1,161 @@
-# Animal Caretaker（Animal Caretaker）职业分析 · DE
+# Animal Caretaker — career analysis · Germany
 
-**职业代码：1152 – Animal Caretaker。**
+**Occupation code: 1150 (KldB)**
 
-Responsible for daily care, feeding, cleaning, health observation, and environmental enrichment of domestic pets, zoo animals, or shelter animals, ensuring animal welfare.
+Animal caretakers are responsible for looking after domestic, farm, or zoo animals, including feeding, cleaning, health monitoring, and basic care.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（双元制培训期间有津贴，学校费用低） |
-| 在职培训 | 1-2年 | $2,000~$5,000（部分课程为继续教育） |
+| Dual system training | 3 years | $0~$0 (Allowance during training) |
+| Vocational training | 2-3 years | $0~$5,000 (Some schools charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物护理员职业资格证书 | 德国工商会 (IHK) | 必备 | 完成双元制培训后获得，国家认可 |
-| 职业培训结业证书 | 职业学校 | 必备 | 双元制培训结业 |
+| Animal Care Worker Qualification Certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Credential assessment (overseas qualifications) | Central Office for Foreign Education (ZAB) in Germany | Required | Non-EU qualifications require recognition. |
+| Animal Health Assistant Certificate | Veterinary association. | Optional | Optional, beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。德国动物护理行业稳定增长，宠物数量持续上升，动物园和收容所需求稳定，但职位竞争中等，非紧缺职业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. The German livestock and pet industry is steadily developing, with ongoing demand for animal caretakers. Affected by aging, professionals with animal care experience are more popular, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$42,000 | 税前年薪，主管级 |
+| Median salary | $36,252 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (8+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $37,752 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，可从助手升至主管或转向动物训练、动物保护领域。双元制培训后也可自主创业开设宠物护理业务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
 
-- Animal Welfare
-- Pet Care
-- Zoo Education
-- Species Conservation
+Practitioners can further pursue continuing education to become animal health assistants or animal caretakers, or advance to roles such as zookeepers or farm managers. Some choose to pursue degrees in veterinary medicine or animal science for higher-level positions.
+
+**Tasks most exposed to AI:**
+
+- Basic bathing and drying (fully automatic equipment)
+- Appointment scheduling and customer communication (chatbot)
+- Photography and editing (AI imaging tools)
+- Inventory and order management (automated systems)
+
+**Where AI augments the role:**
+
+- AI tools assist in designing pet styles (reference images and trend analysis)
+- Smart camera system records before-and-after comparison to enhance presentation
+- AI health monitoring devices warn about skin issues and guide care
+- Automated marketing and social media content generation to expand customer base
+
+**Human moat:**
+
+- Creativity and precision in manual pruning and shaping
+- Safe handling and calming of anxious/restless pets
+- Building Trust and Personalized Service with Pet Owners
+- On-site judgment for sudden health issues (e.g., wounds, allergies)
+
+**Skills to build:**
+
+- Advanced Trimming and Creative Styling (e.g., painting, complex carving)
+- Pet behavior science and positive reinforcement techniques
+- Basic veterinary knowledge (dermatology, first aid)
+- Using AI tools (image generation, social media automation)
+- Customer management and social media operations
+- Safety and hygiene compliance (Australian standards)
+
+**Key growth areas:**
+
+- Pet industry growth
+- Animal welfare focus
+- Organic farming
+- Zoo conservation
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Chancenkarte（Opportunity Card） | 适合有职业资格或高校学历的申请人，通过积分制获得工作机会 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国认可的动物护理员职业资格，并由雇主担保 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需具备相关资质和语言能力 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with higher education and meeting salary thresholds, but animal care workers typically have lower salaries and may not meet requirements. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for non-EU citizens with recognized German professional qualifications, requires employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based jobseeker visa suitable for applicants with relevant training or experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animal Caretaker？**
-- 热爱动物、有耐心和责任心的人
-- 愿意从事体力劳动和户外工作的人
-- 寻求稳定职业而非高薪的人
-
-**谁不适合学Animal Caretaker？**
-- 对动物过敏或害怕动物的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient individuals who like animals
+- People willing to engage in physical labor.
+- People who wish to develop in the agriculture or pet industry
+
+**Who is not suited**
+- People with allergies or intolerances to animals
+- Those seeking high salary or office jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for animal care workers?**
+A: Entry-level animal care worker annual salary about 24,000-30,000 euros, senior up to 45,000 euros, but overall low.
+
+**Q: How can non-EU citizens immigrate to Germany for animal care?**
+A: Must complete German-recognized dual training or credential recognition, then apply through skilled migration visa or opportunity card.
+
+**Q: Is animal caretaker a shortage occupation in Germany?**
+A: Not included, but animal husbandry and the pet industry have stable demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等偏低（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Animal Caretaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal caretakers?**
-答：Entry-level annual salary is about 24,000-30,000 EUR, senior up to 42,000 EUR, below German average.
-
-**问：How can foreigners become animal caretakers in Germany?**
-答：Must complete a recognized German dual training or equivalent qualification, can enter via Opportunity Card or Skilled Worker visa.
-
-**问：Is there career progression for animal caretakers?**
-答：Can advance to supervisor or switch to animal training, conservation, or start own business.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

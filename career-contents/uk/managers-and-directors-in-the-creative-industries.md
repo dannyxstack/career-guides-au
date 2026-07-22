@@ -1,59 +1,92 @@
-# Managers and directors in the creative industries（Managers and directors in the creative industries）职业分析 · UK
+# Managers and directors in the creative industries — career analysis · United Kingdom
 
-**职业代码：1255 – Managers and directors in the creative industries。**
+**Occupation code: 1255 (SOC)**
 
-Managers and directors in creative industries plan, organise, direct and co-ordinate the activities and resources of organisations in sectors such as arts, publishing, music, media, design and architecture.
+Creative Industry Managers and Directors plan, organise, and coordinate activities and resources in fields such as arts, publishing, music, media, design, and architecture.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $25,000~$40,000（英国本科学费，含生活费） |
-| 硕士 | 1年 | $20,000~$35,000（硕士学费，含生活费） |
+| Bachelor's degree | 3 years | $25,000~$40,000 (UK undergraduate tuition fees, including living expenses) |
+| Master's degree | 1 year | $20,000~$35,000 (Master's tuition fees, including living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 创意产业管理学士/硕士 | 大学 | 可选 | 相关学位，如艺术管理、媒体管理 |
-| 项目管理认证（如PRINCE2） | AXELOS | 可选 | 提升项目管理能力 |
-| 图灵安全认证 | 不适用 | 可选 | 对于影视制作等岗位可能需要 |
+| Bachelor/Master of Creative Industries Management | University | Optional | Relevant degree, such as Arts Management or Media Management |
+| Project management certification (e.g., PRINCE2) | AXELOS | Optional | Improve project management skills |
+| Turing Security Certification | Not applicable | Optional | May be required for roles like film and TV production |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。英国创意产业持续增长，尤其在数字媒体、影视制作和游戏开发领域。预计未来五年就业机会稳定增长，但竞争激烈，尤其在伦敦和东南部。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. The UK creative industry continues to grow, especially in digital media, film and TV production, and game development. Employment opportunities are expected to grow steadily over the next five years, but competition is fierce, particularly in London and the Southeast.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 助理经理或制作协调员 |
-| 中级（4-7年） | $40,000~$65,000 | 部门经理或高级制作人 |
-| 高级（8年以上） | $65,000~$120,000 | 总监或高层管理 |
+| Median salary | $54,772 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$40,000 | Assistant manager or production coordinator |
+| Mid-level (4-7 years) | $40,000~$65,000 | Department manager or senior producer |
+| Senior (8+ years) | $65,000~$120,000 | Director or senior management |
+| average salary | $66,375 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从项目经理、制作人或创意总监等职位晋升。资深人员可成为主管或总监，或创立自己的创意公司。跨部门经验和管理能力对晋升至关重要。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Creative industry managers and directors' coordination, copywriting, budgeting tasks are easily automated by AI; entry-level positions face increased competition due to the spread of automation tools, mid- to low-level roles are compressed, but strategic decision-making and interpersonal leadership remain core moats.
+
+Usually promoted from positions such as project manager, producer, or creative director. Senior staff can become supervisors or directors, or start their own creative companies. Cross-departmental experience and management skills are crucial for promotion.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically generate project progress reports and budget updates.
+- Use AI to analyze market trend data and generate initial creative briefs
+- Automatically optimize team calendars and resource allocation using AI scheduling tools.
+- Use an AI writing assistant to draft internal communication emails and meeting minutes.
+
+**Where AI augments the role:**
+
+- Use AI data analysis tools to predict project risks and develop mitigation strategies.
+- Use AI creative generation platforms to quickly explore multiple design/copy directions.
+- Real-time monitoring of team performance and process optimization via AI project management software
+- Adjust creative strategies using AI customer feedback analysis tools
+
+**Human moat:**
+
+- Complex cross-departmental negotiation and interest coordination
+- Key decision-making and aesthetic judgment in creative direction
+- Team morale motivation and corporate culture shaping
+- Long-term client relationship maintenance and trust building
+
+**Skills to build:**
+
+- AI project management tools (e.g., Asana + AI plugin)
+- Data visualization and business intelligence (e.g., Tableau)
+- Prompt Engineering and Large Language Model Applications
+- Digital marketing automation platforms (e.g., HubSpot)
+- Agile and hybrid project management methodologies
+- Innovation and Design Thinking methodology.
+
+**Key growth areas:**
 
 - Digital Media
 - Film Production
@@ -62,69 +95,68 @@ Managers and directors in creative industries plan, organise, direct and co-ordi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适合获得认可雇主担保的创意产业经理，需满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent visa） | 适合在创意领域有杰出成就或潜力的个人，无需雇主担保 |
-| Subclass Graduate（Graduate visa） | 适合在英国完成学位的毕业生，可工作2-3年后转其他签证 |
-| Subclass Scale-up（Scale-up worker visa） | 适合在快速成长企业担任管理职务的申请人 |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for creative industry managers with approved employer sponsorship, meeting salary and skill requirements |
+| Subclass Global Talent (Global Talent visa) | Suitable for individuals with outstanding achievements or potential in the creative field, no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | Suitable for graduates who have completed a degree in the UK; can work for 2-3 years before switching to another visa |
+| Subclass Scale-up (Scale-up worker visa) | Applicants suited for management roles in fast-growing companies |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers and directors in the creative industries？**
-- 有创意行业背景且具备商业管理能力的人
-- 善于资源协调和团队领导的人
-- 对艺术、媒体、设计等有热情的人
-
-**谁不适合学Managers and directors in the creative industries？**
-- 缺乏组织和管理技能的人
-- 不擅长在快节奏、高压环境下工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a creative industry background and business management skills
+- People skilled in resource coordination and team leadership
+- People passionate about art, media, design, etc.
+
+**Who is not suited**
+- People lacking organisational and management skills
+- People who are not good at working in fast-paced, high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a creative industry manager?**
+A: Entry-level approximately £28,000-40,000, intermediate £40,000-65,000, senior up to £120,000+.
+
+**Q: As a creative industry manager, how to obtain a UK work visa?**
+A: Can apply via Skilled Worker visa (requires employer sponsorship) or Global Talent visa (based on individual achievements). Graduate visa available for recent graduates.
+
+**Q: What are the career prospects for creative industry managers?**
+A: Good prospects, rapid growth in digital media and content production. However, competition is fierce, especially in London.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Managers and directors in the creative industries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for managers in creative industries?**
-答：Entry-level around £28,000-£40,000, mid-level £40,000-£65,000, senior up to £120,000+.
-
-**问：How can a creative industries manager obtain a UK work visa?**
-答：You can apply via the Skilled Worker visa (with employer sponsorship) or Global Talent visa (based on personal achievement). The Graduate visa is available for recent graduates.
-
-**问：What are the career prospects for creative industry managers?**
-答：Good prospects with rapid growth in digital media and content production, but competition is intense, especially in London.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

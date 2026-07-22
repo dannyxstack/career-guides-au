@@ -1,58 +1,94 @@
-# Editors（Editors）职业分析 · 加拿大
+# Editors — career analysis · Canada
 
-**职业代码：51110 – Editors。**
+**Occupation code: 51110 (NOC)**
 
-Editors review, revise, and polish written content to ensure grammar, style, and accuracy for books, newspapers, websites, and other media.
+Editors review, revise, and polish written content to ensure grammar, style, and accuracy for media such as books, newspapers, and websites.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（加拿大本科国际学生年均学费） |
-| 文凭或证书 | 1-2年 | $10,000~$25,000（学院或职业培训课程） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition for international undergraduate students in Canada) |
+| Diploma or certificate | 1-2 years | $10,000~$25,000 (College or vocational training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学士学位（如英语、新闻、传播） | 大学 | 必备 | 通常要求 |
-| 编辑证书或文凭 | 学院或专业协会 | 可选 | 非强制，但可提升竞争力 |
+| Relevant bachelor's degree (e.g., English, Journalism, Communication) | University | Required | Usually required |
+| Editorial certificate or diploma | College or professional association | Optional | Not mandatory, but can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。加拿大编辑就业前景稳定，受数字化转型推动，对数字内容和在线出版物的需求持续增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Employment prospects for editors in Canada are stable, driven by digital transformation, with growing demand for digital content and online publications.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 助理编辑或校对 |
-| 中级（3-7年） | $55,000~$75,000 | 编辑或高级编辑 |
-| 高级（7年以上） | $75,000~$100,000 | 主编或内容总监 |
+| Median salary | $72,010 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Assistant editor or proofreader |
+| Mid-level (3–7 years) | $55,000~$75,000 | Editor or senior editor |
+| Senior (7+ years) | $75,000~$100,000 | Editor-in-chief or content director |
+| average salary | $72,800 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 编辑可从初级校对或助理编辑晋升为高级编辑、主编或内容总监，需积累行业经验和专业知识。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Editing work is being profoundly reshaped by AI: basic proofreading and formatting tasks are automated, but fact-checking, narrative planning, and author communication—which rely on human judgment—are amplified by AI tools, creating both opportunities and challenges.
+
+Editors can advance from junior proofreader or assistant editor to senior editor, managing editor, or content director, requiring accumulation of industry experience and expertise.
+
+**Tasks most exposed to AI:**
+
+- Basic grammar, spelling, and punctuation proofreading
+- Automatically generate standard-format summaries or paraphrases
+- Data-driven newsletter or report draft generation
+- Template-based layout and style adjustments
+- Batch generation and publication of social media copy
+
+**Where AI augments the role:**
+
+- Using AI for deep fact-checking and cross-reference verification
+- Analyze audience preferences through AI to optimize title and content strategies
+- Leverage AI real-time translation and localization tools to expand international readership
+- Use AI to assist with content aggregation, hot topic tracking, and trend mining
+- Use AI to generate drafts, editors focus on style polishing and narrative enhancement
+
+**Human moat:**
+
+- Understanding and judgment of complex contexts and cultural nuances
+- Original creation and construction of unique narrative perspectives
+- Interpersonal communication and collaboration with authors, journalists, and stakeholders
+- Ethical decision-making and value gatekeeping (e.g., information fairness, privacy boundaries)
+- Deep understanding and flexible application of industry standards and publishing norms
+
+**Skills to build:**
+
+- Proficient in using AI writing assistant tools (e.g., ChatGPT, Grammarly)
+- Basics of data analysis and audience insights
+- Multimedia content editing (video, audio, graphics)
+- SEO and content marketing strategies
+- Fact-checking and information literacy enhancement
+- project management and remote collaboration tools (e.g., Trello, Asana)
+
+**Key growth areas:**
 
 - Digital content
 - Online publishing
@@ -61,68 +97,67 @@ Editors review, revise, and polish written content to ensure grammar, style, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 通过快速通道联邦技术移民，需满足工作经验、语言等要求。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份有编辑相关职业提名，需雇主offer或工作经历。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工作签证，通常需要证明本地招聘不足。 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Apply for Federal Skilled Worker Program via Express Entry, requiring work experience, language proficiency, etc. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have nominations for editing-related occupations, requiring an employer offer or work experience. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, usually needing to prove insufficient local recruitment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Editors？**
-- 对文字和语言有高度敏感的人
-- 注重细节、善于沟通的求职者
-- 希望在媒体、出版或数字内容领域发展的人
-
-**谁不适合学Editors？**
-- 不喜欢长时间阅读和修改文字的人
-- 不擅长在截止日期前工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People highly sensitive to text and language
+- Detail-oriented and communicative job seekers
+- Those looking to develop in media, publishing, or digital content
+
+**Who is not suited**
+- Someone who dislikes long periods of reading and editing text
+- Not suitable for those who struggle to work under deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an editor in Canada?**
+A: Based on experience, junior editors earn about C$40,000-55,000 per year, mid-level C$55,000-75,000, and senior C$75,000-100,000.
+
+**Q: What immigration pathways to Canada are available for editors?**
+A: Mainly through Express Entry (FSW/CEC) and Provincial Nominee Program (PNP), some require employer-sponsored LMIA.
+
+**Q: What qualifications are needed to become an editor?**
+A: Typically requires a bachelor's degree in English, journalism, or communication; relevant certificates or diplomas can enhance job opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Editors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for editors in Canada?**
-答：Entry-level editors earn CAD 40,000-55,000, mid-level CAD 55,000-75,000, and senior editors CAD 75,000-100,000 annually.
-
-**问：What immigration pathways are available for editors to Canada?**
-答：Primarily through Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP); some require employer-sponsored LMIA.
-
-**问：What education is required to become an editor?**
-答：A bachelor's degree in English, journalism, or communications is typical; relevant certificates or diplomas can enhance job prospects.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

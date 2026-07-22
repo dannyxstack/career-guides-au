@@ -1,58 +1,92 @@
-# Industrial Ceramics Model Maker（Industrial Ceramics Model Maker）职业分析 · DE
+# Industrial Ceramics Model Maker — career analysis · Germany
 
-**职业代码：2142 – Industrial Ceramics Model Maker。**
+**Occupation code: 2142 (KldB)**
 
-Creates models and molds for ceramic products based on technical drawings and specifications, using hand forming, turning, carving, and 3D modeling.
+Responsible for creating ceramic product models and moulds based on design drawings and technical specifications for mass production. Work involves hand forming, turning, carving, and 3D modelling.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，部分学校收少量材料费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance provided during training; some schools charge a small material fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业陶瓷模型制作师资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试获得 |
+| Industrial ceramic model maker qualification | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training and passing the final exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。德国工业陶瓷行业稳定，尤其在技术陶瓷和建筑陶瓷领域有持续需求。数字化和自动化趋势要求模型制作师掌握CAD/CAM技能，提升就业竞争力。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. The German industrial ceramics industry is stable, with sustained demand especially in technical ceramics and architectural ceramics. Digitalization and automation trends require model makers to master CAD/CAM skills, boosting employability.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，取决于地区和公司规模 |
-| 中级（3-7年） | $35,000~$42,000 | 税前年薪，具备经验后薪资提升 |
-| 高级（7年以上） | $43,000~$50,000 | 税前年薪，技师或主管级别 |
+| Median salary | $42,708 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary, depending on region and company size |
+| Mid-level (3–7 years) | $35,000~$42,000 | Pre-tax annual salary, with salary increase after gaining experience |
+| Senior (7+ years) | $43,000~$50,000 | Pre-tax annual salary, technician or supervisor level |
+| average salary | $47,400 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 初级模型制作师可通过继续教育晋升为技师或工头。也可通过进修转向工业设计或技术管理岗位，或成为自营工匠。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial ceramic model makers face a mixed outlook with AI: 3D modelling and CNC programming will be enhanced by AI, but core skills like hand forming and turning are hard to automate; entry-level roles are slightly compressed due to higher digital requirements.
+
+Junior model makers can advance to technician or foreman through continuing education. They can also transition to industrial design or technical management roles, or become self-employed artisans.
+
+**Tasks most exposed to AI:**
+
+- Manually create 3D digital models based on drawings
+- Repetitive manual carving and polishing operations.
+- CNC programming and parameter settings for basic molds.
+- Recording and adjusting process parameters for simple products.
+
+**Where AI augments the role:**
+
+- Using AI-assisted design software to generate complex ceramic shapes
+- Detecting minor defects on model surfaces through computer vision
+- Use simulation tools to optimize mold structure and demolding solutions
+- Using AI recommendation system to select optimal materials and glaze ratios.
+- Use machine learning to analyze historical data to optimize firing curves
+
+**Human moat:**
+
+- Intuitive judgment of the touch and plasticity of ceramic materials (e.g., kaolin, purple clay)
+- Manual trimming and mold-making techniques for complex irregular parts
+- Ability to communicate with clients to design customized artistic styles
+- On-site experience in controlling temperature and humidity changes during firing
+- Meets the aesthetic demand for pure handcrafted texture in the high-end market
+
+**Skills to build:**
+
+- Proficiency in CAD/CAM software (e.g., Rhino, Fusion 360) for 3D modeling
+- Learn AI-assisted design tools (e.g., Generative Design)
+- Familiar with CNC engraving machines and 3D printing post-processing for ceramics
+- Develop knowledge of materials science (ceramic formulation and sintering processes)
+- Improve project management and client collaboration skills
+
+**Key growth areas:**
 
 - Technical Ceramics
 - 3D Modeling
@@ -61,66 +95,65 @@ Creates models and molds for ceramic products based on technical drawings and sp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历，但本职业通常不满足。若具备相关学位且薪资达标，可申请。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 需职业资质认证（Anerkennung），且找到德国雇主。适合有经验的技术工人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作，需资格认证或语言能力。 |
+| Subclass EU Blue Card (EU Blue Card) | A university degree is required, but this occupation typically does not meet the criteria. If you have a relevant degree and meet the salary threshold, you may apply. |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification recognition (Anerkennung) and finding a German employer. Suitable for experienced skilled workers. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job-seeking in Germany, requiring qualification assessment or language skills. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Ceramics Model Maker？**
-- 喜欢手工制作和精细操作的人
-- 对陶瓷材料和工艺有浓厚兴趣的人
-- 愿意通过双元制培训学习的人
-
-**谁不适合学Industrial Ceramics Model Maker？**
-- 对灰尘和高温工作环境敏感的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual crafting and fine operations
+- People with a strong interest in ceramic materials and processes
+- People willing to learn through a dual vocational training system
+
+**Who is not suited**
+- People sensitive to dust and high-temperature work environments
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an industrial ceramic model maker?**
+A: Germany entry-level annual salary approximately EUR 28,000-34,000, experienced can reach EUR 43,000-50,000. Salary is affected by region, company size, and personal skills.
+
+**Q: How can third-country nationals immigrate to Germany to work in this occupation?**
+A: Need to pass a qualification recognition (Anerkennung) to prove skills are equivalent to German standards. Afterwards, you can apply for a skilled migration visa or an opportunity card to find an employer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Industrial Ceramics Model Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an industrial ceramics model maker?**
-答：Entry-level annual salary in Germany is about €28,000-34,000, rising to €43,000-50,000 with experience, depending on region, company size, and skills.
-
-**问：How can third-country nationals immigrate to Germany for this profession?**
-答：Requires credential recognition (Anerkennung) to prove skills equivalent to German standards. Then apply for a skilled worker visa or Opportunity Card to find an employer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

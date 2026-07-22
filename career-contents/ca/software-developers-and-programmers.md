@@ -1,60 +1,96 @@
-# Software developers and programmers（Software developers and programmers）职业分析 · 加拿大
+# Software developers and programmers — career analysis · Canada
 
-**职业代码：21232 – Software developers and programmers。**
+**Occupation code: 21232 (NOC)**
 
-Design, develop, test, and maintain software systems including applications, system software, and websites. Involved in requirements analysis, coding, debugging, and documentation.
+Responsible for designing, developing, testing and maintaining software systems, including applications, system software and websites. Typically involved in requirements analysis, coding, debugging and documentation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$60,000（公立大学年均学费约5,000-15,000 CAD） |
-| 大专/文凭 | 2-3年 | $10,000~$30,000（学院总费用低于大学） |
-| 硕士 | 1-2年 | $30,000~$80,000（研究型硕士常有奖学金） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Average annual tuition at public universities is approximately 5,000-15,000 CAD) |
+| Diploma/Diploma | 2-3 years | $10,000~$30,000 (College total fees lower than university) |
+| Master's degree | 1-2 years | $30,000~$80,000 (research master's programs often offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士 | 大学 | 可选 | 常见要求，但非强制 |
-| 相关工作经验 | 雇主 | 必备 | 通常需要1-2年经验 |
-| 专业认证 | 如AWS、微软、Oracle | 可选 | 提升竞争力 |
+| Relevant work experience | Employer | Required | Typically requires 1-2 years of experience |
+| Bachelor's in Computer Science | University | Optional | Common requirement but not mandatory |
+| Professional certification | e.g., AWS, Microsoft, Oracle | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 180,000。加拿大对软件开发人员的需求持续强劲，数字化转型和科技创新驱动就业增长。BC省和安省科技中心机会最多，远程工作也增加就业灵活性。
+**Job demand: very high (★★★★½).** National workforce approx. 180,000. Demand for software developers in Canada remains strong, driven by digital transformation and tech innovation. BC and Ontario tech hubs offer the most opportunities, and remote work increases employment flexibility.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 大多伦多/温哥华偏高 |
-| 中级（3-7年） | $75,000~$100,000 | 有全栈或特定技术专长 |
-| 高级（7年以上） | $100,000~$140,000 | 架构师或团队主管可达15万以上 |
+| Median salary | $100,006 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Higher in Greater Toronto/Vancouver |
+| Mid-level (3–7 years) | $75,000~$100,000 | Possess full-stack or specific technical expertise |
+| Senior (7+ years) | $100,000~$140,000 | Architects or team leaders can reach over 150,000 |
+| average salary | $108,160 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级程序员可晋升为高级开发、架构师或技术经理；也可专攻人工智能、网络安全或移动开发。经验丰富者常转型为项目经理或技术顾问。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Junior programmers can advance to senior developer, architect, or technical manager; can also specialize in AI, cybersecurity, or mobile development. Experienced ones often transition to project manager or technical consultant.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - tech innovation
 - digital transformation
@@ -63,69 +99,68 @@ Design, develop, test, and maintain software systems including applications, sys
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker / Canadian Experience Class） | 联邦快速通道，适合有1年以上加拿大经验或海外经验的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省省提名，如BC省科技试点、安省优才计划，优先邀请IT职业 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，可加分或直接申请永居 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省移民，适合有雇主offer的申请者 |
+| Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Federal Express Entry, suitable for applicants with over 1 year of Canadian or overseas experience |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs, such as BC PNP Tech Pilot and Ontario OINP Human Capital Priorities, give priority to IT occupations. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can add points or directly apply for permanent residence |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants with a job offer from an employer |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software developers and programmers？**
-- 喜欢逻辑思考和解决问题
-- 愿意持续学习新技术
-- 有耐心和团队协作精神
-
-**谁不适合学Software developers and programmers？**
-- 不喜欢长时间面对电脑
-- 不愿频繁更新技能
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys logical thinking and problem-solving
+- Willingness to continuously learn new technologies
+- Patience and teamwork spirit
+
+**Who is not suited**
+- Dislikes long hours in front of a computer
+- Unwilling to update skills frequently
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a software developer in Canada?**
+A: According to Canada's Job Bank, median annual salary is approximately $85,000 CAD, entry-level around $55,000-$75,000, senior up to $140,000+.
+
+**Q: Is it difficult for software developers to immigrate to Canada?**
+A: Relatively easy. This occupation is popular under Express Entry (FSW/CEC) and various PNP streams, with many provincial nominee programs specifying IT categories. However, language, education, and work experience requirements must be met.
+
+**Q: What are the career advancement paths for software developers?**
+A: Technical path: senior developer, architect, technical expert. Management path: team lead, project manager, technical director. Can also transition to product management or entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Software developers and programmers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for software developers in Canada?**
-答：According to Job Bank, median annual salary is about $85,000 CAD, entry-level $55,000-$75,000, senior over $140,000.
-
-**问：Is it difficult for software developers to immigrate to Canada?**
-答：Relatively easy. The occupation is in demand under Express Entry (FSW/CEC) and many PNP streams. However, language, education, and work experience requirements must be met.
-
-**问：What are career advancement paths for software developers?**
-答：Technical: Senior developer, architect, expert. Management: Team lead, project manager, CTO. Also product management or entrepreneurship.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

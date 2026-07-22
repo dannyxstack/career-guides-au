@@ -1,60 +1,95 @@
-# Aeronautical Engineering Technician（Aeronautical Engineering Technician）职业分析 · ES
+# Aeronautical Engineering Technician — career analysis · Spain
 
-**职业代码：2464 – Aeronautical Engineering Technician。**
+**Occupation code: 2464 (CNO)**
 
-Aeronautical engineering technicians assist in designing, testing, maintaining, and supporting aircraft and aerospace systems, playing a key role in the aerospace manufacturing and maintenance industry.
+Aeronautical engineering technicians are responsible for the design, testing, maintenance, and technical support of aircraft and aircraft, and are core technical talents in the aviation manufacturing and maintenance industries.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育（Grado en Ingeniería Aeronáutica） | 4年（Grado） | $1,000~$4,000（公立大学每年约1000-2000欧元，私立大学约3000-4000欧元） |
-| 职业培训（FP Grado Superior en Mantenimiento Aeromecánico） | 2年（FP Grado Superior） | $500~$2,000（公立FP中心免费或低学费，私立约1000-2000欧元/年） |
+| Higher Education (Grado en Ingeniería Aeronáutica) | 4 years (Grado) | $1,000~$4,000 (Public universities approximately 1,000-2,000 euros per year, private universities about 3,000-4,000 euros.) |
+| Vocational Training (FP Grado Superior en Mantenimiento Aeromecánico) | 2 years (FP Grado Superior) | $500~$2,000 (Public FP centers offer free or low tuition, while private ones pay about 1000-2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航空工程学士学位（Grado en Ingeniería Aeronáutica） | 西班牙公立或私立大学 | 必备 | 从事技术性工作通常要求该学位或同等学历 |
-| 飞机维修执照（Licencia de Mantenimiento de Aeronaves） | 西班牙航空安全局（AESA） | 必备 | 从事飞机维修工作的法定要求 |
+| Bachelor's degree in Aeronautical Engineering (Grado en Ingeniería Aeronáutica) | Public or private universities in Spain | Required | Technical work usually requires this degree or equivalent |
+| Aircraft maintenance license (Licencia de Mantenimiento de Aeronaves) | Spanish Aviation Safety Agency (AESA) | Required | Legal requirements for aircraft maintenance work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 2,500。西班牙航空业稳步发展，尤其在空客等大型企业带动下，航空工程技术员需求稳定。预计未来5年就业增长约5-8%，主要集中在马德里、安达卢西亚和加泰罗尼亚地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Spain's aviation industry is developing steadily, especially driven by large companies like Airbus, with stable demand for aviation engineering technicians. Employment is expected to grow by about 5-8% over the next five years, mainly concentrated in Madrid, Andalusia, and Catalonia.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视公司规模和地区而定 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，具备一定经验和技术能力 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，资深工程师或项目管理岗位 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, depending on company size and region |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, with certain experience and technical skills |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, senior engineer or project management positions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从初级技术员起步，可晋升为高级技术员、项目主管或设计工程师，也可通过深造转向航空工程师或管理岗位，如质量经理或生产经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aerospace engineering technicians face automation restructuring, with low-end inspection and mapping tasks being replaced, but AI-enhanced design and simulation capabilities require upgrades to system-level integration and creative fault diagnosis.
+
+Starting as a junior technician, you can advance to senior technician, project supervisor, or design engineer, or further study to transition to aerospace engineer or management roles such as quality manager or production manager.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate 2D/3D technical drawings and BOM sheets
+- Standardized structural strength simulation and fatigue analysis
+- Automated routine inspection data recording and anomaly tagging
+- Routine maintenance plans are developed based on historical data
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of complex aerodynamic shapes and exploration of multi-objective design
+- Real-time fault diagnosis and prediction are achieved through digital twins and predictive models
+- Utilize machine learning to analyze massive flight data to optimize system performance
+- Natural language interfaces quickly generate technical documentation and repair manuals
+- Augmented reality overlays provide real-time guidance during assembly and maintenance
+
+**Human moat:**
+
+- Cross-system integration debugging and reliability verification (hardware + software + human factors)
+- Creative diagnosis and analysis of non-standardized, rare faults
+- High-risk communication and coordination with pilots, airworthiness authorities, and production teams
+- Physical testing and verification decisions for new materials and processes
+- The final judgment responsibility for safety margins involved in airworthiness certification
+
+**Skills to build:**
+
+- Scripting for Python/MATLAB data analysis and automation
+- Fundamentals of machine learning (TensorFlow/PyTorch) and digital twin modeling
+- Aeronautical system simulation (such as CFD, finite element technology) and optimization tools
+- Additive manufacturing (3D printing) and composite material processing technologies
+- Principles of UAV systems and eVTOL design
+- Industrial Internet of Things (IIoT) and edge computing applications
+
+**Key growth areas:**
 
 - Aerospace
 - Maintenance
@@ -63,69 +98,68 @@ Aeronautical engineering technicians assist in designing, testing, maintaining, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历和合同，薪资门槛约年薪33,908欧元（2023年） |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适用于高技能专业人士，需大学学历和合同，流程较快 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需雇主担保，需证明职位难以在欧盟内填补 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and contract, with a salary threshold of approximately 33,908 euros per year (2023) |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for highly skilled professionals, requiring a university degree and contract, with a relatively fast process |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship and proof that the position is difficult to fill within the EU |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aeronautical Engineering Technician？**
-- 对航空工程有浓厚兴趣且具备数学物理基础的人
-- 喜欢动手操作和解决复杂技术问题的人
-- 愿意在安全要求严格的行业工作的人
-
-**谁不适合学Aeronautical Engineering Technician？**
-- 不喜严格法规和标准化流程的人
-- 对高空或密闭环境感到不适的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in aeronautical engineering and a foundation in mathematics and physics
+- People who enjoy hands-on operations and solving complex technical problems
+- People willing to work in industries with strict safety requirements
+
+**Who is not suited**
+- People who dislike strict regulations and standardized processes
+- For those who feel uncomfortable with heights or confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aeronautical engineering technicians?**
+A: Beginner level is about 22,000-28,000 euros per year, intermediate about 30,000-40,000 euros per year, and advanced level can reach 42,000-55,000 euros per year.
+
+**Q: How can third-country citizens immigrate to Spain through this profession?**
+A: You can obtain an EU Blue Card or a highly skilled professional visa, which requires a university degree and a Spanish employer contract. Academic qualifications may require homologación.
+
+**Q: What qualifications are needed for this occupation?**
+A: A bachelor's degree in aeronautical engineering (4 years) or advanced vocational training in aircraft maintenance (2 years) is usually required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aeronautical Engineering Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aeronautical engineering technicians?**
-答：Junior: €22,000-28,000/year; Mid-level: €30,000-40,000/year; Senior: €42,000-55,000/year.
-
-**问：How can third-country nationals migrate to Spain through this occupation?**
-答：Via EU Blue Card or Highly Skilled Professional visa, requiring a university degree and a job offer. Degrees may need homologation.
-
-**问：What education is required for this occupation?**
-答：Typically a bachelor's degree in aeronautical engineering (4 years) or an advanced vocational training in aircraft maintenance (2 years).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

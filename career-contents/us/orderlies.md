@@ -1,60 +1,92 @@
-# Orderlies（Orderlies）职业分析 · 美国
+# Orderlies — career analysis · United States
 
-**职业代码：31-1132 – Orderlies。**
+**Occupation code: 31-1132 (SOC)**
 
-Transport patients to areas such as operating rooms or x-ray rooms using wheelchairs, stretchers, or moveable beds; maintain stocks of supplies and clean equipment.
+Transport patients within medical facilities using wheelchairs, stretchers, or mobile beds, e.g., to operating rooms or X-ray rooms; manage supply organization and equipment cleaning.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 短期在职培训 | 1-3个月 | —（雇主提供培训，可能收取少量材料费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Short-term on-the-job training | 1-3 months. | $0~$500 (Employer provides training, may charge a small materials fee.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入职要求 |
-| 基本生命支持（BLS）认证 | 美国心脏协会等机构 | 可选 | 部分雇主要求，涵盖CPR和急救技能 |
+| High school diploma or equivalent | High school | Required | Basic entry requirements |
+| Basic Life Support (BLS) certification | Organizations such as the American Heart Association | Optional | Some employers require it, covering CPR and first aid skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 49,900。随着人口老龄化和医疗需求增长，该职业就业预计稳步上升。2023-2033年BLS预测增长约5%，相当于平均水平。医院和长期护理机构是主要雇主。
+**Job demand: medium (★★★☆☆).** National workforce approx. 49,900. Employment in this occupation is expected to grow steadily due to an aging population and increasing healthcare demand. The BLS projects about 5% growth from 2023-2033, roughly average. Hospitals and long-term care facilities are the main employers.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 起薪通常接近最低工资，随时间缓慢增长 |
-| 中级（3-7年） | $33,000~$40,000 | 有经验者薪资增加，部分医院提供额外补贴 |
-| 高级（7年以上） | $38,000~$46,000 | 资深运送员或担任团队领导角色 |
+| Median salary | $38,290 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$34,000 | Starting salary is usually near minimum wage, increasing slowly over time |
+| Mid-level (3–7 years) | $33,000~$40,000 | Experienced workers earn more, some hospitals offer additional allowances |
+| Senior (7+ years) | $38,000~$46,000 | Senior courier or team leader role |
+| average salary | $40,660 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从运送员做起，可晋升为患者护理技师或护士助手，部分人通过进一步教育成为注册护士。少数进入医疗运输管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The manual handling and process coordination of delivery workers heavily rely on physical presence, making core tasks hard to replace by AI. However, scheduling optimization and automation equipment may reduce demand for some roles, with overall risk moderately low.
+
+Typically start as orderlies; can advance to patient care technician or nurse assistant; some become registered nurses through further education. A few move into medical transport management.
+
+**Tasks most exposed to AI:**
+
+- Route planning and scheduling for patient transport (AI optimization enables automated scheduling)
+- Repetitive bed/wheelchair pushing (AGVs can replace some long-distance transport)
+- Consumables inventory counting and replenishment alerts (AI vision and IoT enable automatic tracking)
+- Recording of equipment cleanliness status (taken over by sensors and automatic cleaning robots)
+
+**Where AI augments the role:**
+
+- AI real-time route optimization and traffic avoidance to improve transfer efficiency
+- Wearable devices monitor patient vital signs and automatically alert transporters when abnormalities occur
+- Voice assistant real-time translation for multilingual communication needs, reducing information errors
+- AR glasses navigation displays department locations and patient information, reducing errors
+
+**Human moat:**
+
+- Move patients safely and smoothly in complex and crowded environments
+- Soothing interpersonal interactions with patients and families
+- Flexibly adjust actions based on unexpected situations (e.g., patient discomfort, equipment failure)
+- Execute and provide feedback on ad-hoc verbal instructions from the clinical team
+
+**Skills to build:**
+
+- Basic data analysis and scheduling software operation
+- Automated Guided Vehicle (AGV) operation and maintenance monitoring
+- Use and troubleshooting of smart devices (e.g., wearable monitors)
+- Use of multilingual communication assistance tools
+- Infection control and emergency response procedures
+
+**Key growth areas:**
 
 - Patient transport
 - Healthcare support
@@ -63,65 +95,67 @@ Transport patients to areas such as operating rooms or x-ray rooms using wheelch
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职位通常不要求学士学位。 |
-| Subclass EB-3（EB-3 Skilled/Unskilled Worker） | 理论上可申请EB-3非技术工人绿卡，但雇主赞助难度大，排期长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as the position typically does not require a bachelor's degree. |
+| Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Theoretically eligible for EB-3 unskilled worker green card, but employer sponsorship is difficult and waiting times are long. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Orderlies？**
-- 体力好、能长时间站立和行走的人
-- 喜欢帮助他人、有耐心的人
-- 寻求稳定医疗行业入门工作的人
+**Who is suited**
+- Physically fit individuals able to stand and walk for long periods
+- People who enjoy helping others and are patient
+- People seeking stable entry-level jobs in the healthcare industry
 
-**谁不适合学Orderlies？**
-- 不喜欢体力劳动或搬运重物的人
-- 需要高薪资和职业晋升空间的人
+**Who is not suited**
+- People who dislike physical labor or lifting heavy objects
+- People who need high salary and career advancement opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for porters?**
+A: According to BLS data, the 2023 median annual salary is about $37,000, entry-level around $30,000, and senior can reach $45,000. Salaries vary by region and employer; hospitals generally pay more than nursing facilities.
+
+**Q: Can delivery workers immigrate to the US via work visa?**
+A: Very difficult. This occupation typically requires only a high school diploma, not meeting H-1B specialty occupation requirements. Employers can apply for an EB-3 unskilled worker green card, but must demonstrate labor shortage and face multi-year backlogs.
+
+**Q: What are the advancement opportunities for delivery workers?**
+A: Can advance to patient care technician, nursing assistant, or become a registered nurse through further education. Some move to medical equipment transport management or scheduling roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 极易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Orderlies属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for orderlies?**
-答：According to BLS, median annual wage is about $37,000 in 2023, with entry-level around $30,000 and experienced up to $45,000. Varies by location and employer; hospitals typically pay more.
-
-**问：Can orderlies immigrate to the US via work visa?**
-答：Very difficult. The job typically requires only a high school diploma, not meeting H-1B specialty occupation criteria. Employers could sponsor EB-3 unskilled worker green card, but must show labor shortage and wait years.
-
-**问：What advancement opportunities exist for orderlies?**
-答：Can advance to patient care technician, nursing assistant, or become a registered nurse through further education. Some move into medical equipment transport management or dispatch roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

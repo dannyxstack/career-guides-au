@@ -1,59 +1,95 @@
-# Career development practitioners and career counsellors (except education)（Career development practitioners and career counsellors (except education)）职业分析 · 加拿大
+# Career development practitioners and career counsellors (except education) — career analysis · Canada
 
-**职业代码：41321 – Career development practitioners and career counsellors (except education)。**
+**Occupation code: 41321 (NOC)**
 
-Help clients of all ages with career planning, job search strategies, skill assessment, and career transitions, providing vocational guidance and counseling.
+Provide career planning, job search strategies, skills assessment, and career transition guidance for clients of all ages, offering career counseling and coaching services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$80,000（学费因省份和院校而异，国际学生更高） |
-| 硕士（职业发展相关） | 1-2年 | $15,000~$50,000（部分大学提供职业咨询硕士学位） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Tuition fees vary by province and institution, higher for international students) |
+| Master's (career development related) | 1-2 years | $15,000~$50,000 (Some universities offer a master's degree in career counselling) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业发展认证（CCDP） | 加拿大职业发展协会（CCDA） | 可选 | 许多雇主要求或优先考虑 |
-| 注册职业顾问（RPC） | 加拿大专业顾问协会（CCPA） | 可选 | 部分省份要求注册 |
-| 职业发展从业者证书 | 省级认证机构 | 必备 | 部分省份如安大略要求 |
+| Career Development Practitioner Certificate | Provincial certification bodies | Required | Some provinces such as Ontario require |
+| Career Development Certification (CCDP) | Canadian Career Development Association (CCDA) | Optional | Many employers require or prefer |
+| Registered Professional Counsellor (RPC) | Canadian Counselling and Psychotherapy Association (CCPA) | Optional | Registration required in some provinces |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,800。加拿大就业前景良好，随着劳动力市场变化和终身学习理念普及，对职业顾问的需求持续增长，预计未来十年职位增长强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 3,800. Canada's employment prospects are good. With changes in the labor market and the popularization of lifelong learning concepts, demand for career counselors continues to grow, and job growth is expected to be strong in the next ten years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低至中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级薪资，取决于雇主和地区 |
-| 中级（3-7年） | $55,000~$75,000 | 有经验后薪资上升 |
-| 高级（7年以上） | $75,000~$95,000 | 高级顾问或管理职位 |
+| Median salary | $62,296 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level salary, depending on employer and location |
+| Mid-level (3–7 years) | $55,000~$75,000 | Salary increases with experience |
+| Senior (7+ years) | $75,000~$95,000 | Senior consultant or management position |
+| average salary | $66,560 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括从初级职业顾问到高级顾问、团队主管、项目经理，或进入人力资源、教育培训领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
+
+Career progression includes from junior career advisor to senior advisor, team leader, project manager, or moving into HR, education, and training fields.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial psychological counseling reports and clinical notes
+- Use natural language processing for symptom screening and preliminary assessment
+- Manage patient appointments, billing, and electronic health records
+- Provides standardized mental health education content.
+- Analyze patient feedback data to generate summary reports
+
+**Where AI augments the role:**
+
+- Real-time insight into patients' unspoken emotions through AI sentiment analysis
+- Using VR/AR for exposure therapy and situational simulation training
+- AI-assisted diagnostic tools improve accuracy and efficiency
+- Personalized treatment plan generation based on big data analysis
+- AI real-time monitoring and early warning system in remote psychological counseling
+
+**Human moat:**
+
+- Building deep trust and therapeutic alliance
+- Judgment to handle complex trauma and ethical dilemmas.
+- Empathy and non-verbal communication skills like body language
+- Cross-cultural sensitivity and individualized care
+- Immediate response capability in crisis intervention.
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools
+- Application of digital therapy platforms (e.g., VR therapy)
+- Data privacy and ethical compliance management
+- Remote consultation technology and human-machine collaboration models
+- Clinical integration of emotion recognition AI tools
+- Continuous learning ability to keep up with technological updates
+
+**Key growth areas:**
 
 - Career counseling
 - Job market transition
@@ -62,68 +98,67 @@ Help clients of all ages with career planning, job search strategies, skill asse
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Express Entry (Federal Skilled Worker / Canadian Experience Class)） | 适用于有至少一年相关经验、语言达标且通过教育认证的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对教育及社区服务类职业的省提名项目 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，适用于已有工作机会的情况 |
+| Subclass Express Entry (FSW/C (Express Entry (Federal Skilled Worker / Canadian Experience Class)) | Applicable to applicants with at least one year of relevant experience, meeting language requirements, and having passed educational assessment |
+| Subclass PNP (Provincial Nominee Program) | provincial nominee programs for education and community service occupations |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, applicable when a job offer is available |
 
-**PR难度：低至中等（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Career development practitioners and career counsellors (except education)？**
-- 善于倾听和沟通，有同理心
-- 对劳动力市场有敏锐洞察力
-- 喜欢帮助他人实现职业目标
-
-**谁不适合学Career development practitioners and career counsellors (except education)？**
-- 缺乏耐心，不擅长处理复杂人际关系
-- 不喜欢频繁与人交流
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good listener and communicator with empathy
+- Sharp insight into the labor market
+- Enjoys helping others achieve career goals
+
+**Who is not suited**
+- Lack of patience, not good at handling complex interpersonal relationships.
+- Dislikes frequent interpersonal communication.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a career advisor?**
+A: Entry-level approx. CAD 40,000-55,000, mid-level CAD 55,000-75,000, senior CAD 75,000-95,000, depending on experience and region.
+
+**Q: How can a career counselor immigrate to Canada?**
+A: Can immigrate via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP); demand is higher in some provinces; language test scores and educational credential assessment required.
+
+**Q: What educational background is needed to become a career advisor?**
+A: Typically requires a bachelor's or master's degree in fields such as career development, psychology, education, or human resource management; certification required in some provinces.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 低至中等（★★☆☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低至中等（★★☆☆☆） |
-
-Career development practitioners and career counsellors (except education)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for career counselors?**
-答：Entry-level around CAD 40,000-55,000, mid-level CAD 55,000-75,000, senior CAD 75,000-95,000, depending on experience and region.
-
-**问：How can career counselors immigrate to Canada?**
-答：Through Express Entry (FSW/CEC) or Provincial Nominee Programs (PNP), with higher demand in some provinces; language proficiency and education credential assessment required.
-
-**问：What education is needed to become a career counselor?**
-答：Typically a bachelor's or master's degree in career development, psychology, education, or HR; some provinces require certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

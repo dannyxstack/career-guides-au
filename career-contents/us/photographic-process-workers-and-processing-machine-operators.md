@@ -1,60 +1,96 @@
-# Photographic Process Workers and Processing Machine Operators（Photographic Process Workers and Processing Machine Operators）职业分析 · 美国
+# Photographic Process Workers and Processing Machine Operators — career analysis · United States
 
-**职业代码：51-9151 – Photographic Process Workers and Processing Machine Operators。**
+**Occupation code: 51-9151 (SOC)**
 
-Perform work involved in developing and processing photographic images from film or digital media. May perform precision tasks such as editing photographic negatives and prints.
+Performing developing and processing of photographic images from film or digital media, possibly performing precision editing of photographic negatives and prints.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常在职培训） |
-| 副学士学位（摄影或相关领域） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma or equivalent | None | $0~$0 (Usually on-the-job training) |
+| Associate degree (in photography or related field). | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 可选 | 工作中学习操作冲印设备 |
-| 摄影学位或证书 | 社区学院或技术学校 | 可选 | 有助于就业，但非必需 |
+| On-the-job training | Employer | Optional | Learn to operate printing equipment on the job |
+| Photography degree or certificate | Community college or technical school | Optional | Helpful for employment but not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,200。美国就业前景预计下降，由于数码摄影普及和自动化技术发展，传统胶片处理需求减少。从业人数约1.5万，年降幅约3%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,200. Employment outlook in the US is expected to decline due to the prevalence of digital photography and automation technology, reducing demand for traditional film processing. Workforce about 15,000, yearly decline of about 3%.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 时薪约13-15美元 |
-| 中级（3-7年） | $32,000~$40,000 | 时薪约15-19美元 |
-| 高级（7年以上） | $40,000~$48,000 | 主管或专业实验室 |
+| Median salary | $40,610 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$32,000 | Hourly wage approximately $13–$15 |
+| Mid-level (3–7 years) | $32,000~$40,000 | Hourly wage approximately $15-19 |
+| Senior (7+ years) | $40,000~$48,000 | Supervisor or specialized laboratory |
+| average salary | $46,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径有限，可从操作员晋升为高级技术员或实验室主管，但行业萎缩使晋升机会较少。部分转向数字影像编辑或摄影相关领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Photo processing workers and machine operators face high automation risk; AI-driven editing software and automatic printing systems will significantly replace routine tasks, leading to notable job decline.
+
+Promotion paths are limited; may advance from operator to senior technician or lab supervisor, but industry contraction reduces opportunities. Some move to digital image editing or photography-related fields.
+
+**Tasks most exposed to AI:**
+
+- Batch photo color correction and exposure adjustment
+- Standard size cropping and scaling
+- Film scanning and digital file organization
+- Simple flaw fixes like stain removal and red-eye reduction
+- Photo printing and chemical processing processes
+
+**Where AI augments the role:**
+
+- Advanced color management and stylized color grading
+- Creative restoration such as old photo restoration
+- Custom artistic effect applications
+- AI-assisted batch strategy development
+- Anomaly detection in quality audits
+
+**Human moat:**
+
+- Complex creative decisions such as artistic style judgment
+- Client communication and understanding of custom needs
+- Unpredictable physical media handling
+- Fine manual restoration skills
+- Ethical judgment and copyright compliance
+
+**Skills to build:**
+
+- Advanced digital color management (e.g., DaVinci Resolve)
+- AI image processing tools (e.g., Adobe Sensei)
+- Post-production creative skills in photography
+- Quality management and anomaly handling.
+- Client communication and project coordination
+- Knowledge of sustainable materials and eco-friendly processes.
+
+**Key growth areas:**
 
 - declining
 - automation
@@ -63,62 +99,64 @@ Perform work involved in developing and processing photographic images from film
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不需要学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少数情况，需证明技能且雇主担保 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Very rare cases; need to prove skills and employer sponsorship |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Photographic Process Workers and Processing Machine Operators？**
-- 对摄影冲印工艺有浓厚兴趣的人
-- 寻求稳定低压力工作且不介意重复劳动的人
-- 愿意接受在职培训的入门级求职者
+**Who is suited**
+- People with a strong interest in photographic printing processes
+- People seeking stable, low-stress jobs and don't mind repetitive tasks
+- Entry-level job seekers willing to accept on-the-job training
 
-**谁不适合学Photographic Process Workers and Processing Machine Operators？**
-- 追求高薪或高成长性职业的人
-- 希望获得技术移民机会的人
+**Who is not suited**
+- People pursuing high salary or high-growth careers
+- People seeking skilled migration opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for photo processing workers and processing machine operators?**
+A: BLS data shows a median annual salary of about $36,000 in 2023, with entry-level positions around $28,000 and senior positions around $45,000, below the national average.
+
+**Q: Can this occupation immigrate to the US through skilled migration?**
+A: Almost impossible. The occupation usually does not require a bachelor's degree, so it does not meet H-1B requirements. Additionally, the US job market is shrinking, making it difficult for employers to sponsor green cards.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Photographic Process Workers and Processing Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Photographic Process Workers and Processing Machine Operators?**
-答：According to BLS, the median annual wage is around $36,000, with entry-level around $28,000 and experienced up to $45,000, below national average.
-
-**问：Can this occupation lead to a work visa or green card?**
-答：Highly unlikely. It typically does not require a bachelor's degree, making H-1B ineligible, and the declining market makes employer sponsorship rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

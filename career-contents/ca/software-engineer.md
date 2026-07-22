@@ -1,63 +1,94 @@
-# 软件工程师（Software Engineer）职业分析 · 加拿大
+# Software Engineer — career analysis · Canada
 
-**职业代码：21231 – Software Engineer。**
+**Occupation code: 21231 (NOC)**
 
-软件工程师(NOC 21231)在加拿大设计开发软件系统，是科技移民的核心职业，可走快速通道 STEM 类别抽签及 BC/安省等科技省提名，薪资高、需求稳定。
+Software Engineer (NOC 21231) designs and develops software systems in Canada. It is a core tech occupation for immigration, eligible for Express Entry STEM category draws and BC/Ontario tech PNP streams, with high salary and stable demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 计算机相关本科 | 4年 | $30,000~$100,000（国际生学费更高） |
-| ECA 学历认证(WES 等) | 数周~数月 | $200~$500（移民用） |
+| Bachelor's degree in computer-related field | 4 years | $30,000~$100,000 (International students pay higher tuition fees) |
+| ECA credential assessment (WES etc.) | A few weeks to several months | $200~$500 (For immigration purposes) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学历 + ECA 认证 | WES / IQAS 等 | 可选 | 移民评估 |
-| 英语 IELTS/CELPIP 或法语 TEF | 认可考点 | 可选 | 移民要求 |
+| Relevant qualification + ECA assessment | WES / IQAS etc. | Optional | Migration Assessment |
+| English IELTS/CELPIP or French TEF | Recognized test center | Optional | Immigration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 200,000。加拿大科技业与 STEM 类别快速通道抽签推动软件工程师需求强劲，高级与架构岗薪资可观。
+**Job demand: very high (★★★★★).** National workforce approx. 200,000. Canada's tech and STEM category Express Entry draws drive strong demand for software engineers, with senior and architect roles offering attractive salaries.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| Job Bank | 6,000~12,000 个 | 全国 |
-| LinkedIn CA | 8,000~16,000 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（CAD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | Entry |
-| 中级（3-8年） | $100,000~$130,000 | Experienced |
-| 资深 / 架构 | $150,000~$200,000 | Senior，含股票更高 |
+| Median salary | $117,499 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $70,000~$95,000 | Entry |
+| Mid-level (3–8 years) | $100,000~$130,000 | Experienced |
+| Senior / Architect | $150,000~$200,000 | Senior, higher with stocks |
+| average salary | $126,880 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★★）。** 路径：开发→高级→架构/技术主管；云、AI 与系统设计经验显著提升薪资与移民竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI is profoundly reshaping software engineering: low-level coding and testing tasks are automated, but system design, architectural decisions, and complex problem-solving are amplified. Humans still control requirements analysis, innovation, and teamwork.
+
+Path: Developer → Senior → Architect / Tech Lead; cloud, AI, and system design experience significantly boost salary and immigration competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating repetitive code (e.g., CRUD operations, data validation)
+- Automated unit test and regression test writing
+- Detect low-level errors in code reviews
+- Automatic Generation of Documentation and API Descriptions
+- Basic data analysis and scripting tasks
+
+**Where AI augments the role:**
+
+- Rapid prototyping and iteration with AI assistance
+- Use code completion and prediction to increase coding speed
+- Quickly locate complex bugs using AI debugging tools
+- Using AI for code refactoring and performance optimisation suggestions
+- Support operations decisions through AI analysis of logs and monitoring data
+
+**Human moat:**
+
+- Architectural design and trade-off decisions for complex systems
+- In-depth communication with business stakeholders to extract unstructured requirements
+- Conceive innovative solutions (with no precedent)
+- Cross-team collaboration and leadership
+- Safety and ethical review (involving critical systems)
+
+**Skills to build:**
+
+- Use of AI/ML frameworks (e.g., LangChain, RAG patterns)
+- AI prompt engineering and model fine-tuning
+- Cloud-native and distributed system design
+- Data engineering fundamentals (ETL, data pipelines)
+- Full-stack development and low-code platform integration
+- AI safety and compliance knowledge
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Tech PNP (BC/ON)
@@ -66,65 +97,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (STEM)） | 联邦快速通道，含 STEM occupations 类别抽签 |
-| Subclass PNP（Provincial Nominee (Tech)） | BC PNP Tech / 安省 OINP 科技流 |
-| Subclass GTS（Global Talent Stream） | 雇主担保快速工签 |
+| Subclass EE (Express Entry (STEM)) | Federal Express Entry, including STEM occupations category draws |
+| Subclass PNP (Provincial Nominee (Tech)) | BC PNP Tech / Ontario OINP Tech Stream |
+| Subclass GTS (Global Talent Stream) | Employer-sponsored fast-track work visa |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学软件工程师？**
-- 想科技移民加拿大的开发者
-- 有云/AI/系统设计经验者
-- 英语或法语达标者
-
-**谁不适合学软件工程师？**
-- 不愿持续学习新技术者
-- 以非技术岗为目标者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Developers looking to immigrate to Canada through tech
+- Those with cloud/AI/system design experience
+- Those who meet English or French requirements
+
+**Who is not suited**
+- Those unwilling to continuously learn new technologies
+- For those targeting non-technical roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a software engineer in Canada?**
+A: About CAD 70,000-200,000, higher for senior roles in Toronto/Vancouver and with stock options.
+
+**Q: Can a software engineer immigrate to Canada?**
+A: Yes, and it is highly advantageous. Express Entry has STEM category draws, and BC/Ontario have tech provincial nomination streams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★★） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-软件工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：加拿大软件工程师薪资多少？**
-答：约 CAD $7万~$20万，多伦多/温哥华高级岗及含股票更高。
-
-**问：软件工程师能移民加拿大吗？**
-答：可以，且很有优势。Express Entry 设 STEM 类别抽签，BC/安省有科技省提名流。
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

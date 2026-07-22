@@ -1,59 +1,95 @@
-# Emergency Medical Technician（Emergency Medical Technician）职业分析 · ES
+# Emergency Medical Technician — career analysis · Spain
 
-**职业代码：5622 – Emergency Medical Technician。**
+**Occupation code: 5622 (CNO)**
 
-Emergency Medical Technicians in Spain provide on-site emergency care, patient stabilization, and transport, working in ambulances and emergency medical teams.
+In Spain, emergency medical technicians are responsible for on-site emergency care, patient stabilization, and transfer, often working in ambulances and emergency medical teams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费，私立约1000-1500欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（部分学校提供高级课程，学费略高） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools free or low tuition, private approx. 1,000-1,500 euros/year.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Some schools offer advanced courses with slightly higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救医疗技师文凭（Técnico en Emergencias Sanitarias） | 西班牙教育部认可的职业教育机构 | 必备 | 完成FP Grado Medio课程并获得官方文凭 |
-| 急救证书（如SVA, SVB） | 西班牙红十字会或授权培训机构 | 可选 | 高级急救证书有助于就业 |
-| 驾驶执照（C1型） | 交通部（DGT） | 必备 | 驾驶救护车需要C1驾照 |
+| Diploma in Emergency Medical Technician (Técnico en Emergencias Sanitarias) | A vocational education institution recognized by the Spanish Ministry of Education | Required | Complete the FP Grado Medio course and obtain an official diploma |
+| Driver's license (C1 type) | Department of Transportation (DGT) | Required | Driving an ambulance requires a C1 license |
+| First aid certificates (such as SVA, SVB) | Spanish Red Cross or authorized training institutions | Optional | Advanced First Aid Certificates help with employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。西班牙人口老龄化和紧急医疗需求增长，急救医疗技师需求稳定，尤其在旅游区和偏远地区。就业机会以公立急救系统和私立救护服务为主。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. With Spain's aging population and growing urgent medical needs, the demand for emergency medical technicians remains stable, especially in tourist and remote areas. Employment opportunities are mainly in public emergency systems and private ambulance services.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，公立系统约18000-20000欧元，私立略低 |
-| 中级（4-7年） | $22,000~$28,000 | 税前年薪，含夜班和假日补贴 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，高级技师或团队领导薪水上限 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary: public system salary is about 18,000-20,000 euros, while private systems are slightly lower |
+| Mid-level (4-7 years) | $22,000~$28,000 | Pre-tax annual salary, including night shift and holiday allowances |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, the upper limit for senior technicians or team leaders |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级技师晋升为高级技师或团队领导，也可通过继续教育成为护理人员或急诊医学技术人员，部分进入医疗调度或培训岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Technicians can be promoted from junior technicians to senior technicians or team leaders, or through continuing education to become nursing staff or emergency medical technicians, with some entering medical dispatch or training positions.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - Emergency Services
 - Aging Population
@@ -62,67 +98,66 @@ Emergency Medical Technicians in Spain provide on-site emergency care, patient s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 由西班牙雇主提供工作合同，申请受雇工作居留，需满足劳动力市场测试 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人员，但急救医疗技师通常不满足高技能要求，较少使用 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，之后转为工作居留 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract provided by a Spanish employer to apply for employment-based residence requires meeting the labor market test |
+| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled professionals, but emergency medical technicians usually do not meet the high skill requirements and are rarely used |
+| Subclass Busqueda empleo (Job Search Visa) | Allows you to stay in Spain for 6 months looking for work, after which you can convert to work residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Emergency Medical Technician？**
-- 能在高压环境下冷静工作，具备急救技能和团队协作能力
-- 对紧急医疗工作有热情，愿意轮班和加班
-
-**谁不适合学Emergency Medical Technician？**
-- 对血液、创伤场景感到不适或易紧张者
-- 不善于快速决策或体力不足者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to work calmly under high pressure, possess first aid skills, and strong teamwork abilities
+- Passionate about emergency medical work, willing to work shifts and overtime
+
+**Who is not suited**
+- Those who feel uncomfortable or easily nervous about blood or traumatic scenes
+- Those who are not good at quick decision-making or lack physical strength
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for emergency medical technicians?**
+A: Junior technician pre-tax annual salary approx. €18,000-22,000, intermediate approx. €22,000-28,000, senior can reach €35,000, including allowances.
+
+**Q: How can foreigners immigrate to Spain through this profession?**
+A: Must obtain a work contract (Cuenta ajena) from a Spanish employer and meet the labor market test. Spain recognizes vocational education diplomas, but non-EU degrees require certification.
+
+**Q: What education is required to become an emergency medical technician?**
+A: Completion of 2 years of intermediate vocational training (FP Grado Medio) and an official diploma are required; some private schools also offer these courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Emergency Medical Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an Emergency Medical Technician?**
-答：Entry-level gross annual salary is about €18,000-22,000, mid-level €22,000-28,000, and senior up to €35,000 including allowances.
-
-**问：How can foreigners immigrate through this occupation?**
-答：You need a job offer from a Spanish employer (Cuenta ajena) and must pass the labor market test. Non-EU qualifications require homologation.
-
-**问：What education is needed to become an Emergency Medical Technician?**
-答：A 2-year intermediate vocational training (FP Grado Medio) with an official diploma is required; private schools also offer programs.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

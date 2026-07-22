@@ -1,60 +1,94 @@
-# Import-Export Clerk（Import-Export Clerk）职业分析 · 澳大利亚
+# Import-Export Clerk — career analysis · Australia
 
-**职业代码：591212 – Import-Export Clerk。**
+**Occupation code: 591212 (ANZSCO)**
 
-Handles documentation for import/export shipments, including customs declarations, bills of lading, and invoices, coordinating with freight forwarders, customs, and clients to ensure compliant and efficient cross-border transport.
+Responsible for document processing of import/export goods, including customs declarations, bills of lading, commercial invoices, etc., coordinating with freight forwarders, customs, and clients to ensure compliant and efficient cross-border transport.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（高中毕业即可入职，多数雇主提供在职培训） |
-| 职业教育证书 IV 级 (物流/商业) | 6-12个月 | $4,000~$10,000（TAFE或私立学院课程，有助于提升就业竞争力） |
+| High school graduation | 0 years | $0~$0 (High school diploma required to start; most employers provide on-the-job training.) |
+| Certificate IV (Logistics/Business) | 6–12 months | $4,000~$10,000 (TAFE or private college courses help improve employment competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 通常雇主看重相关经验或证书 |
-| 物流或商业证书 | TAFE 或其他注册培训机构 | 可选 | Certificate IV in Logistics 或 Business 可增加机会 |
+| No mandatory qualification requirements | None | Optional | Employers typically value relevant experience or certifications |
+| Logistics or business certificate | TAFE or other registered training organizations | Optional | Certificate IV in Logistics or Business can increase opportunities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。澳洲进出口贸易持续增长，尤其与亚洲的贸易往来推动该岗位需求稳定。物流数字化可能减少部分文书工作，但合规复杂性仍需要熟练文员。就业前景稳定，年增长约2-3%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Australia's import and export trade continues to grow, especially with Asia, driving stable demand for this role. Logistics digitization may reduce some clerical work, but compliance complexity still requires skilled clerks. Employment outlook is stable, with annual growth of about 2-3%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $48,000~$55,000 | 含养老金 |
-| 中级（2-5年） | $55,000~$65,000 | 含养老金 |
-| 高级（5年以上） | $65,000~$75,000 | 含养老金，可能升至物流主管 |
+| Median salary | $88,764 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $48,000~$55,000 | Including superannuation |
+| Intermediate (2-5 years) | $55,000~$65,000 | Including superannuation |
+| Senior (5+ years) | $65,000~$75,000 | Inclusive of superannuation, may advance to logistics supervisor |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级文员起步，积累经验后晋升为高级进出口文员、物流协调员或供应链专员。部分人转向报关代理、国际采购或物流管理岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Highly standardized tasks like document processing and data entry for import/export clerks will be significantly reduced by AI automation tools, but complex compliance consulting, exception handling, and customer relations will be enhanced by AI, making the overall outlook mixed.
+
+Can start as a junior clerk, gain experience, and advance to senior import/export clerk, logistics coordinator, or supply chain specialist. Some transition to customs brokerage, international procurement, or logistics management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and check standardized documents such as customs declarations, bills of lading, commercial invoices, etc.
+- Use OCR and NLP technologies to automatically extract and input cargo information and document data
+- Basic trade compliance checks (e.g., automatic HS code classification, rules of origin verification)
+- Real-time tracking of cargo status with automatic system updates and notifications to relevant parties
+- Generate standardised transport reports, statistical statements and trade data summaries
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly retrieve and interpret the latest trade regulations, tariff changes, and sanction lists of various countries
+- AI-assisted analysis of supply chain risks (e.g., port congestion, route disruptions) and recommendation of alternatives
+- Use smart chatbots to efficiently handle routine inquiries from customers/freight forwarders about document status and customs clearance progress.
+- Use AI to optimize multimodal transport route combinations, balancing cost, time, and compliance requirements
+
+**Human moat:**
+
+- Skills in handling complex, non-standard, or disputed customs clearance anomalies (e.g., customs checks, classification disputes), including negotiation and resolution.
+- Maintain long-term trust relationships and industry networks with freight forwarders, clients, and customs officials
+- Intuitive judgment and experiential reliance on hidden risks in international trade (e.g., political sanctions, exchange rate fluctuations).
+- Develop and implement enterprise-level import/export compliance strategies, train teams to adapt to new regulatory changes
+
+**Skills to build:**
+
+- Proficient in using AI modules in mainstream international trade management software (e.g., Descartes, eCustoms)
+- Master the basics of EDI (Electronic Data Interchange) system configuration and troubleshooting
+- New ability to interpret regulatory compliance data (e.g., deciphering customs AI pre-ruling logic)
+- Operation and alert interpretation of supply chain visibility platforms (e.g. Project44, FourKites)
+- Basic Python or RPA skills for customized data integration
+- AI-assisted negotiation and conflict resolution skills (using AI to simulate customs clearance scenarios)
+
+**Key growth areas:**
 
 - International Trade
 - Supply Chain
@@ -63,62 +97,64 @@ Handles documentation for import/export shipments, including customs declaration
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，但该职业不在短期职业列表中，通常无法申请 |
-| Subclass 186（Employer Nomination Scheme） | 需雇主担保，职业不在MLTSSL上，仅极少数DAMA或偏远地区可能 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, but this occupation is not on the short-term skilled occupation list and is usually not eligible. |
+| Subclass 186 (Employer Nomination Scheme) | Requires employer sponsorship; occupation not on MLTSSL; only possible in a few DAMA or remote areas |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Import-Export Clerk？**
-- 注重细节、条理清晰的人
-- 对国际贸易流程感兴趣的人
-- 希望快速入行、无需高学历的人
+**Who is suited**
+- Detail-oriented and organized person
+- People interested in international trade processes.
+- People wanting quick entry into the industry without high education requirements
 
-**谁不适合学Import-Export Clerk？**
-- 追求高薪或快速晋升的人
-- 不喜欢繁琐文书工作的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who dislike tedious paperwork
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for an import/export clerk?**
+A: Entry-level annual salary about 48,000-55,000 AUD, mid-level 55,000-65,000, senior 65,000-75,000 (including superannuation). Salary influenced by region and employer size.
+
+**Q: Can an import-export clerk apply for Australian skilled migration?**
+A: This occupation is not on CSOL/MLTSSL, so generally cannot apply for skilled migration (189/190/491). Very few remote area DAMAs may accept it, but the threshold is high and migration pathways are very limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Import-Export Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Import-Export Clerk?**
-答：Entry-level: AUD 48,000-55,000; Mid-level: AUD 55,000-65,000; Senior: AUD 65,000-75,000 (including superannuation). Varies by location and employer.
-
-**问：Can an Import-Export Clerk apply for Australian skilled migration?**
-答：The occupation is not on the CSOL/MLTSSL, so general skilled migration (189/190/491) is not possible. Only limited DAMA schemes in remote areas may accept it.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

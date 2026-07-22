@@ -1,60 +1,96 @@
-# Highway Maintenance Workers（Highway Maintenance Workers）职业分析 · 美国
+# Highway Maintenance Workers — career analysis · United States
 
-**职业代码：47-4051 – Highway Maintenance Workers。**
+**Occupation code: 47-4051 (SOC)**
 
-Maintain highways, municipal and rural roads, airport runways, and rights-of-way by patching pavement, repairing guard rails and signs, mowing brush, and plowing snow.
+Responsible for maintenance of highways, municipal roads, rural roads, airport runways, and rights-of-way areas, including repairing damaged pavement, fixing barriers, signs, and snow fences, as well as mowing, clearing shrubs, or snow removal.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-2年 | —（雇主提供培训，可能需自费购买工具或课程） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-2 years | $0~$5,000 (Employer provides training, may need to self-fund tools or courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 州机动车辆管理局 | 必备 | 操作重型卡车或除雪设备通常需要 |
-| 道路安全证书 | 美国国家公路交通安全管理局或各州交通部 | 可选 | 部分州要求完成工作区安全培训 |
+| Commercial Driver's License (CDL) | State motor vehicle department | Required | Usually required to operate heavy trucks or snow removal equipment |
+| Road safety certificate | National Highway Traffic Safety Administration or state departments of transportation | Optional | Some states require completion of workplace safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 160,000。美国就业前景稳定，受基础设施投资和道路老化驱动。根据BLS数据，2023-2033年就业增长率约4%，与所有职业平均水平相当。各州和联邦公路项目持续提供岗位，但经济波动可能影响政府预算。
+**Job demand: medium (★★★☆☆).** National workforce approx. 160,000. U.S. employment prospects are stable, driven by infrastructure investment and aging roads. According to BLS data, employment growth from 2023-2033 is about 4%, about as fast as the average for all occupations. Federal and state highway projects continue to provide jobs, but economic fluctuations may affect government budgets.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $34,000~$42,000 | 起薪较低，通常包含加班费 |
-| 中级（3-7年） | $42,000~$53,000 | 经验丰富后薪资上升，需持有CDL |
-| 高级（7年以上） | $53,000~$65,000 | 领班或主管可达更高，部分州有工会工资标准 |
+| Median salary | $50,260 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $34,000~$42,000 | Starting salary is low, usually includes overtime pay. |
+| Mid-level (3–7 years) | $42,000~$53,000 | Salary rises with experience; requires CDL |
+| Senior (7+ years) | $53,000~$65,000 | Foreman or supervisor can earn higher; some states have union wage standards |
+| average salary | $53,080 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从基础维护工作开始，积累经验后可晋升为领班或主管。部分工人可转向重型设备操作、路面施工管理或交通安全检查等岗位。长期经验可进入公共工程部门管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Highway maintenance workers will face the dual impact of automation and AI enhancement: repetitive manual tasks (e.g., road patching, weeding) may be replaced by automated equipment, but on-site judgment, emergency response, and complex repairs still rely on human experience. The role is undergoing structural adjustment rather than wholesale elimination.
+
+Typically start with basic maintenance work, gain experience, and advance to foreman or supervisor roles. Some workers can move to heavy equipment operation, road construction management, or traffic safety inspection. Long-term experience can lead to management positions in public works departments.
+
+**Tasks most exposed to AI:**
+
+- Using an automatic pothole repair robot to fill cracks and potholes.
+- Use drones for road condition inspection and damage identification
+- Optimizing snow removal and mowing routes via AI scheduling systems
+- Operation of automatic barrier cleaning and line marking equipment
+- Basic data entry and report generation (autonomous vehicle sensor data)
+
+**Where AI augments the role:**
+
+- Use AR headset to access road disease diagnostic information and repair guidance
+- Use AI predictive maintenance system to plan maintenance priorities and timing
+- Remote monitoring of road conditions and adjustment of work plans via digital twin platform
+- Use AI to optimize snow removal resource allocation and personnel scheduling
+- Combine CCTV and sensor data to detect and respond to sudden hazards (e.g., rockfalls) in real time
+
+**Human moat:**
+
+- On-site judgment and process adjustment for complex road surface structure repairs
+- Rapid decision-making and coordination in emergency response (e.g., cleanup after traffic accidents)
+- Manual troubleshooting and on-site repair of equipment failures in severe weather
+- Real-time communication and collaboration with traffic management and emergency departments
+- Experience in identifying and handling non-standard pavement distress (e.g., deep settlement).
+
+**Skills to build:**
+
+- Operate and maintain automated road repair and inspection equipment
+- Use GIS and digital twin tools for road condition analysis.
+- basic programming skills (PLC or robot control interface)
+- Drone operation and data interpretation (FAA Part 107)
+- AR-assisted maintenance system usage
+- Data analysis and predictive maintenance planning.
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Road Maintenance
@@ -63,62 +99,64 @@ Maintain highways, municipal and rural roads, airport runways, and rights-of-way
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 可用于临时季节性维护工人，但需证明劳工短缺且雇主需申请劳工证。配额有限，竞争激烈。 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference (EB-3)） | 理论上可通过PERM劳工证申请绿卡，但雇主通常不愿为低技能岗位担保，实际极少使用。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Can be used for temporary seasonal maintenance workers, but requires proof of labor shortage and employer must apply for labor certification. Limited quota, competitive. |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Theoretically can apply for green card through PERM labor certification, but employers are usually unwilling to sponsor low-skill roles, rarely used in practice. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Highway Maintenance Workers？**
-- 喜欢户外体力劳动且适应各种天气条件的人
-- 有机械操作经验或愿意学习重型设备操作的人
-- 寻求稳定政府或公共事业工作的人
+**Who is suited**
+- Outdoor manual labor suited to people who adapt to various weather conditions
+- Individuals with mechanical operation experience or willingness to learn heavy equipment operation
+- People seeking stable government or public utility jobs.
 
-**谁不适合学Highway Maintenance Workers？**
-- 希望高薪或快速晋升的人
-- 对体力要求高、工作环境艰苦敏感的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- Those sensitive to high physical demands and harsh working conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a highway maintenance worker?**
+A: According to U.S. Bureau of Labor Statistics, the average annual salary in 2023 was about USD 44,000, entry-level around USD 35,000, senior up to USD 65,000, varying by state and employer.
+
+**Q: How can highway maintenance workers immigrate to the US?**
+A: This occupation typically does not meet skilled migration criteria. Rarely enters via H-2B temporary worker visas, but quotas are tight and employers must prove labor shortage. EB-3 green card is theoretically possible but employers rarely sponsor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Highway Maintenance Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Highway Maintenance Workers?**
-答：According to BLS, the mean annual wage in 2023 was approximately $44,000, with entry-level around $35,000 and experienced workers up to $65,000, varying by state and employer.
-
-**问：How can a Highway Maintenance Worker immigrate to the US?**
-答：This occupation generally does not qualify for skilled migration. H-2B temporary work visa is rarely available with limited quotas, and EB-3 green card is theoretically possible but employers rarely sponsor.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

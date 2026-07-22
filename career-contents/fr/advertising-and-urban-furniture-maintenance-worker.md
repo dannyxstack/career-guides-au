@@ -1,62 +1,94 @@
-# Advertising and Urban Furniture Maintenance Worker（Advertising and Urban Furniture Maintenance Worker）职业分析 · FR
+# Advertising and Urban Furniture Maintenance Worker — career analysis · France
 
-**职业代码：I1201 – Advertising and Urban Furniture Maintenance Worker。**
+**Occupation code: I1201 (ROME)**
 
-Responsible for installing, cleaning, repairing, and maintaining advertising displays and urban furniture such as bus shelters and info kiosks in public spaces.
+Responsible for the installation, cleaning, maintenance, and upkeep of facilities such as billboards, bus shelters, and information posts in urban public spaces, ensuring their appearance is tidy and functioning properly.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 维护工 | 2年（CAP） | —（公立学校免费，材料费约500-3000欧元） |
-| BTS 建筑与维护 | 2年（BTS） | —（公立学校免学费，私立约2000-5000欧元/年） |
-| 学徒制 | 2年（学徒） | —（学徒期间企业支付工资，无学费） |
+| CAP maintenance worker | 2 years (CAP) | $0~$3,000 (Public schools are free, with material fees of about 500-3000 euros) |
+| BTS Construction and Maintenance | 2 Years (BTS) | $0~$5,000 (Public schools are free, private schools approx. €2,000-€5,000/year.) |
+| Apprenticeship | 2 years (apprentice) | $0~$0 (During the apprenticeship period, the company pays wages without tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 维护工 | 法国教育部 | 可选 | 基础职业技能证书，非强制性但雇主偏好 |
-| 高空作业认证 | INRS/雇主 | 必备 | 从事高空广告牌安装必需 |
-| 电气安全认证 | INRS | 必备 | 涉及电气维护时必备 |
+| Aerial work certification | INRS/Employer | Required | Necessary for installation of high-altitude billboards |
+| Electrical safety certification | INRS | Required | Essential for electrical maintenance |
+| CAP maintenance worker | French Ministry of Education | Optional | Basic vocational skills certificate, non-mandatory but employer-paid |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,400。随着城市美化和户外广告需求稳定，该职业在法国维持一定就业规模，但自动化清洁设备可能减少部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,400. With urban beautification and outdoor advertising demand stabilizing, this profession maintains a certain employment scale in France, but automated cleaning equipment may reduce some positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，含奖金，主管级更高 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, including bonuses, with higher supervisor levels |
+| average salary | $24,630 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从初级维护工晋升为团队主管或区域经理，也可转向广告设施安装或城市维护管理岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Billboard and urban facility maintenance workers face high automation risks. AI-driven drone detection and robotic cleaning will replace a large number of routine inspections and cleaning tasks, but complex repairs and on-site decision-making still require manual labor.
+
+You can be promoted from junior maintenance worker to team leader or regional manager, or move to advertising facility installation or urban maintenance management positions.
+
+**Tasks most exposed to AI:**
+
+- AI will automatically detect billboard damage and stains through computer vision, replacing manual inspections
+- Robots automatically clean urban furniture such as bus shelters and information posts, reducing manual cleaning
+- AI automatically generates maintenance reports and scheduling plans, replacing manual recording and scheduling
+- Smart sensors monitor facility status in real time and automatically trigger maintenance work orders
+
+**Where AI augments the role:**
+
+- Using AR glasses to remotely obtain repair guidance improves the efficiency of handling complex faults
+- AI-assisted analysis of historical maintenance data, predicting facility aging cycles, and optimizing maintenance plans
+- Drones + AI conduct high-altitude billboard inspections, reducing safety risks and manual climbing
+- AI automatically generates 3D models and installation manuals, improving installation accuracy and speed
+
+**Human moat:**
+
+- Hands-on skills and experience judgment during on-site emergency repairs
+- Diagnosis and repair of complex mechanical structures and circuit issues
+- Ability to communicate and coordinate with municipal departments and advertising clients
+- Practical operation and safety awareness in complex environments such as high altitude and narrow spaces
+
+**Skills to build:**
+
+- Learn to use drone inspection and AI image recognition software
+- Master programming and maintenance of automated cleaning equipment
+- Learn how to operate AR/VR-assisted repair tools
+- Understanding IoT sensor principles enables troubleshooting
+- Enhance data analysis capabilities and understand AI-driven predictive maintenance reports
+
+**Key growth areas:**
 
 - Stable demand
 - Urban maintenance
@@ -65,65 +97,67 @@ Responsible for installing, cleaning, repairing, and maintaining advertising dis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需雇主担保，符合法国劳动市场测试，年薪需达SMIC约21,000欧元以上。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或高薪职位，年薪需达约42,000欧元，此职业一般难以达到。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship required, compliance with French labor market testing, annual salary must reach SMIC of approximately 21,000 euros or more. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | This applies to high-skilled or high-paying positions, with an annual salary of about 42,000 euros, which is generally difficult to attain. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Advertising and Urban Furniture Maintenance Worker？**
-- 喜欢户外工作，动手能力强的人
-- 不介意高空作业和体力劳动
-- 希望快速入行、无需高学历者
+**Who is suited**
+- People who enjoy outdoor work and have strong hands-on skills
+- Does not mind working at heights and physical labor
+- Those hoping to enter the industry quickly without a high level of education
 
-**谁不适合学Advertising and Urban Furniture Maintenance Worker？**
-- 不喜欢户外风吹日晒环境
-- 对高空作业有恐惧感
+**Who is not suited**
+- They dislike outdoor environments exposed to wind and sun
+- Fear of working at heights
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for billboard maintenance workers in France?**
+A: Entry-level salaries are about €22,000–€26,000 before tax, while seniors can earn up to €38,000.
+
+**Q: Can foreigners work as billboard maintenance workers and immigrate to France?**
+A: It's very difficult. This occupation is not considered in short supply; employers must prove they cannot find EU candidates and that their annual salary must meet the standard. Ordinary Salarié residency is feasible, but Passeport Talent struggles to meet the salary threshold.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Yes, you can be promoted to team leader, regional manager, or move into advertising facility installation, urban maintenance management, and other fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Advertising and Urban Furniture Maintenance Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for advertising and urban furniture maintenance workers in France?**
-答：Entry-level salary is about €22,000-€26,000 gross per year, while senior workers can earn up to €38,000.
-
-**问：Can foreigners work as advertising maintenance workers and immigrate to France?**
-答：It is very difficult. The occupation is not on the shortage list, and employers must prove inability to hire EU candidates. Regular Salarié permit is possible, but Passeport Talent salary threshold is rarely met.
-
-**问：Are there career advancement opportunities?**
-答：Yes, you can promote to team supervisor, area manager, or move into advertising installation and urban maintenance management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

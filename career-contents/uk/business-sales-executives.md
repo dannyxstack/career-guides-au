@@ -1,58 +1,94 @@
-# Business sales executives（Business sales executives）职业分析 · UK
+# Business sales executives — career analysis · United Kingdom
 
-**职业代码：3552 – Business sales executives。**
+**Occupation code: 3552 (SOC)**
 
-Business sales executives provide advice to existing and potential customers, and receive orders for specialist machinery, equipment, materials and other products or services that require technical knowledge.
+Business Sales Supervisors provide professional advice to existing and potential clients, receive orders for specialized machinery, equipment, materials, and other products or services requiring technical knowledge.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 0年 | —（雇主通常提供在职培训） |
-| 学士学位（商务、市场营销等） | 3年 | $9,000~$25,000（英国本地学费，国际学生更高） |
+| High school diploma or equivalent | 0 years | $0~$0 (Employers usually provide on-the-job training) |
+| Bachelor's degree (business, marketing, etc.) | 3 years | $9,000~$25,000 (Local UK tuition fees; higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售资格认证 | 销售协会 | 可选 | 如 Certificate in Sales Management，提升竞争力 |
-| 行业特定认证 | 相关行业机构 | 可选 | 如 IT 或工程背景的销售职位可能需要技术认证 |
+| Sales certification | Sales Association | Optional | Such as a Certificate in Sales Management to boost competitiveness |
+| Industry-specific certifications | Relevant industry bodies | Optional | Sales roles, e.g., in IT or engineering backgrounds, may require technical certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 250,000。英国业务销售主管岗位需求稳定，受商业服务和技术销售领域推动。预计2023-2033年就业增长约5%，新增岗位主要来自中小企业扩张和数字化转型。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 250,000. Demand for UK Business Sales Manager roles is stable, driven by business services and technical sales. Employment is projected to grow around 5% from 2023-2033, with new roles mainly from SME expansion and digital transformation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 底薪加佣金 |
-| 中级（3-7年） | $30,000~$45,000 | 含业绩奖金 |
-| 高级（7年以上） | $45,000~$70,000 | 含管理职责和绩效分成 |
+| Median salary | $37,924 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $30,000~$45,000 | Including performance bonus |
+| Senior (7+ years) | $45,000~$70,000 | Includes management duties and performance-based bonuses |
+| average salary | $46,561 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级销售顾问或客户经理起步，积累行业知识和客户资源后晋升为高级销售主管或区域经理，再发展为销售总监或业务发展经理，部分转向产品管理或咨询。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Start as a junior sales consultant or account manager, accumulate industry knowledge and client resources, then advance to senior sales supervisor or regional manager, and further to sales director or business development manager; some transition to product management or consulting.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - B2B sales
 - technical sales
@@ -61,67 +97,66 @@ Business sales executives provide advice to existing and potential customers, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的技术工人，职业在 eligible occupations 列表中，需达到薪资门槛（通常 £26,200/年或 going rate） |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，允许在英工作2年（博士3年），之后可转换 Skilled Worker 签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | For skilled workers with employer sponsorship, the occupation must be on the eligible occupations list, meeting the salary threshold (usually £26,200/year or going rate). |
+| Subclass Graduate (Graduate visa) | UK graduates can apply, allowing 2 years of work in the UK (3 years for PhD), then can switch to a Skilled Worker visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Business sales executives？**
-- 善于沟通和说服他人的人
-- 有技术背景且乐于销售的人
-- 目标导向、抗压能力强的人
-
-**谁不适合学Business sales executives？**
-- 不喜欢与人打交道的人
-- 偏好稳定、重复性工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communicating and persuading others
+- People with technical background who enjoy sales
+- Goal-oriented, resilient individuals
+
+**Who is not suited**
+- People who dislike interacting with others
+- People who prefer stable, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a business sales supervisor?**
+A: Entry-level: approx £22,000-£30,000; mid-level: £30,000-£45,000; senior: £45,000-£70,000, plus commissions and bonuses.
+
+**Q: Can a business sales supervisor apply for a skilled worker visa?**
+A: Yes, this occupation is on the Skilled Worker visa eligible occupations list, requires employer sponsorship and meeting salary requirements.
+
+**Q: What is the future outlook for this occupation?**
+A: Growth driven by digital sales and B2B demand; experienced sales managers have good promotion prospects but competition is fierce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Business sales executives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for business sales executives?**
-答：Entry-level around £22,000-£30,000, mid-level £30,000-£45,000, senior £45,000-£70,000, plus commission and bonuses.
-
-**问：Can business sales executives apply for a Skilled Worker visa?**
-答：Yes, the occupation is on the eligible occupations list for the Skilled Worker visa, requiring employer sponsorship and meeting salary thresholds.
-
-**问：What is the future outlook for this career?**
-答：Growth is driven by digital sales and B2B demand, with good promotion opportunities for experienced executives but also strong competition.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Structural Metal Preparers and Erectors（Structural Metal Preparers and Erectors）职业分析 · IE
+# Structural Metal Preparers and Erectors — career analysis · Ireland
 
-**职业代码：7214 – Structural Metal Preparers and Erectors。**
+**Occupation code: 7214 (ISCO08)**
 
-Prepare, assemble and install structural steel components like beams, columns and trusses on construction sites or industrial facilities.
+Responsible for preparing, assembling, and installing steel structural components such as beams, columns, and trusses on construction sites or industrial premises
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（通常由雇主资助，可能需自费工具和书本费） |
-| 高等证书/文凭 | 1-2年 | $3,000~$8,000（部分继续教育学院提供焊接或金属制造课程） |
+| Apprenticeship | 4 years | $0~$2,000 (Usually funded by the employer, but self-funded tools and book fees may be required.) |
+| Advanced Certificate/Diploma | 1-2 years | $3,000~$8,000 (Some continuing education colleges offer welding or metal fabrication courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接证书（如CSWIP） | TÜV SÜD或类似机构 | 可选 | 非强制但提升就业竞争力 |
-| 安全培训（Safe Pass） | SOLAS | 必备 | 建筑业基本要求 |
-| 高空作业培训 | FAS或注册培训机构 | 可选 | 特定岗位需要 |
+| Safety training (Safe Pass) | SOLAS | Required | Basic requirements for construction industry |
+| Welding certificate (e.g. CSWIP) | TÜV SÜD or similar organizations | Optional | Not mandatory but enhances employment competitiveness |
+| High-altitude work training | FAS or registered training organization | Optional | Specific job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,200。爱尔兰建筑业持续增长，尤其是数据中心的建设热潮，带动了焊接工和金属安装工的需求。行业面临技术工人短缺，预计未来5年岗位增长约8%。
+**Job demand: high (★★★★☆).** National workforce approx. 5,200. Ireland's construction industry continues to grow, especially the boom in data centre construction, driving demand for welders and metal fitters. The sector faces a shortage of skilled workers, with job growth expected at around 8% over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $36,000~$48,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$65,000 | 税前年薪，含主管津贴 |
+| Median salary | $42,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $36,000~$48,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$65,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从学徒做起，积累经验后晋升为领班或主管。也可专攻高级焊接或钢结构详图设计，或转向项目管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
+
+Start as an apprentice, gain experience, and then advance to team leader or supervisor. You may also specialize in advanced welding or structural steel detailing, or shift to project management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and optimization of complex part paths
+- Robotic automated welding for repetitive welds.
+- Automatic cutting and layout based on CAD models
+- Offline programming and monitoring of batch welding of standard parts
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection and X-ray image interpretation
+- Real-time welding parameter recommendations (current/speed/wire feed).
+- Digital twin simulation to predict deformation and stress
+- Collaborative robots perform welding in high-altitude or hazardous environments.
+- AI-driven cloud database query for welding parameters
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning for on-site welding of complex structures
+- Decision-making for abnormal conditions (irregular parts/material defects)
+- Communication and safety supervision in multi-trade collaboration
+- Tactile control for non-standard hand grinding and restoration
+- Comprehensive assessment of long-term fatigue life of welded structures
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (Fanuc/ABB)
+- Use of digital welding simulation software
+- AI image recognition assists weld inspection
+- Industrial IoT and sensor data analysis
+- Project management and quality systems (CWB).
+- Knowledge of environmentally friendly welding processes and materials
+
+**Key growth areas:**
 
 - Data centre construction
 - Infrastructure projects
@@ -62,68 +97,67 @@ Prepare, assemble and install structural steel components like beams, columns an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于€75,000的岗位，需通过劳动力市场测试。当前该职业在紧缺清单上，可豁免测试。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若年薪达到€38,000+且与高级技能相关（如高级焊工），可申请，家属可随行。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪≥€43,000（2024年标准），需至少3年相关工作经验及高等教育。 |
+| Subclass General Employment P (General Employment Permit) | Applies to roles with annual salary under €75,000, requires a labour market test. Currently, this occupation is on the shortage list, so the test is waived. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If annual salary reaches €38,000+ and is related to high-skilled work (e.g., advanced welder), you can apply, and family members can accompany you. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to annual salary ≥ €43,000 (2024 standard), requires at least 3 years of relevant work experience and higher education. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Structural Metal Preparers and Erectors？**
-- 喜欢动手操作和体力劳动的人
-- 注重安全、工作认真细致的人
-- 愿意接受学徒培训、逐步积累技能的人
-
-**谁不适合学Structural Metal Preparers and Erectors？**
-- 对高空作业或户外天气敏感的人
-- 不喜欢重复性体力工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and physical labor
+- Safety-conscious, careful and detail-oriented people
+- Individuals willing to undergo apprenticeship training and gradually build skills
+
+**Who is not suited**
+- Those sensitive to working at heights or outdoor weather conditions.
+- People who dislike repetitive physical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Ireland?**
+A: Entry-level salary around €28,000-€35,000 per year; mid-level €36,000-€48,000; senior can reach €50,000-€65,000. Overtime and allowances may increase income.
+
+**Q: What visa can a Structural Steel Erector use to immigrate to Ireland?**
+A: The main pathways are the General Employment Permit (critical skills occupations may be exempt from the labour market test) or the Critical Skills Employment Permit (requires annual salary of €38,000+). The EU Blue Card also applies, requiring an annual salary of €43,000+.
+
+**Q: What are the career prospects for this occupation?**
+A: Experienced installers can be promoted to foreman, project manager, or specialize in advanced welding, detailing, etc. The data centre construction boom in Ireland ensures strong demand for years to come.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Structural Metal Preparers and Erectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level annual salary is about €28,000-€35,000, mid-level €36,000-€48,000, senior can reach €50,000-€65,000. Overtime and allowances can add extra income.
-
-**问：What visa options are available for structural metal erectors to immigrate to Ireland?**
-答：Main routes are General Employment Permit (exempt from labour market test if on shortage list) or Critical Skills Employment Permit (requires salary €38,000+). EU Blue Card also applies for salary €43,000+.
-
-**问：What are the career prospects for this occupation?**
-答：Experienced erectors can advance to supervisor, project manager, or specialize in advanced welding or detailing. Ireland's data centre construction boom ensures strong demand for years.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

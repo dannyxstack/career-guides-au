@@ -1,60 +1,93 @@
-# Musical Instrument Repairers and Tuners（Musical Instrument Repairers and Tuners）职业分析 · 美国
+# Musical Instrument Repairers and Tuners — career analysis · United States
 
-**职业代码：49-9063 – Musical Instrument Repairers and Tuners。**
+**Occupation code: 49-9063 (SOC)**
 
-Repair and tune musical instruments such as string, wind, percussion, and pianos to ensure proper sound and playability.
+Responsible for repairing and tuning various musical instruments such as string, wind, percussion, and piano to ensure sound quality and performance.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定年限 | —（通常需要高中毕业） |
-| 职业培训/学徒制 | 2-4年 | $5,000~$20,000（社区大学或乐器维修学校学费） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Usually requires high school graduation) |
+| Vocational training / apprenticeship | 2-4 years | $5,000~$20,000 (Tuition at community colleges or instrument repair schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钢琴调音师认证 | 钢琴技师协会（PTG） | 可选 | 通过考试可获注册钢琴技师（RPT）称号 |
-| 乐器维修证书 | 社区学院或技术学校 | 可选 | 非强制但有利于就业 |
+| Piano tuner certification | Piano Technicians Guild (PTG) | Optional | Passing the exam grants the title of Registered Piano Technician (RPT) |
+| Musical instrument repair certificate | Community college or technical school | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 12,500。美国劳工统计局预计该职业就业增长缓慢（约4%），与平均水平相当。音乐教育普及和乐器保有量稳定带来一定需求，但自动化维修技术可能限制增长。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 12,500. The U.S. Bureau of Labor Statistics expects slow job growth for this occupation (about 4%), on par with the average. Widespread music education and stable instrument ownership generate some demand, but automated repair technology may limit growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 学徒或入职初期 |
-| 中级（4-6年） | $40,000~$55,000 | 独立技师 |
-| 高级（7年以上） | $56,000~$75,000 | 资深或工作室拥有者 |
+| Median salary | $46,420 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$38,000 | Apprentice or initial entry |
+| Intermediate (4-6 years) | $40,000~$55,000 | Independent technician |
+| Senior (7+ years) | $56,000~$75,000 | Senior or studio owner |
+| average salary | $49,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 学徒制或职业学校毕业后，可晋升为高级技师或开设个人工作室。少数经验丰富者可进入大型乐器公司或交响乐团担任首席技师。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will take over some diagnostic and standard tuning tasks, but manual repair, custom tuning, and complex repairs still require human hearing and touch; replacement risk is currently moderate.
+
+After apprenticeship or vocational school graduation, can advance to senior technician or open personal studio. A few experienced individuals can enter large instrument companies or symphony orchestras as chief technicians.
+
+**Tasks most exposed to AI:**
+
+- Use electronic tuner for standard pitch calibration
+- Diagnose common faults through automated analysis software.
+- Generate standardised maintenance reports and records
+- Online appointment management and customer communication
+
+**Where AI augments the role:**
+
+- AI-assisted acoustic analysis software helps accurately locate pitch deviations
+- AR guidance systems overlay repair steps on equipment
+- 3D scanning and modelling to assist custom parts fitting and repair
+- Big data analytics to predict common failure modes of musical instruments
+
+**Human moat:**
+
+- Artistic tuning based on auditory experience (e.g., piano voicing).
+- Complex wood/metal manual restoration and splicing
+- Communicate with musicians to understand personalized tonal needs.
+- Historical restoration and conservation of antique musical instruments
+
+**Skills to build:**
+
+- Proficient in acoustic measurement and analysis software (e.g., SpectraPLUS)
+- Learn 3D scanning and CAD modeling for custom parts
+- Learn to use AR/VR assisted maintenance tools
+- Strengthen customer communication and needs understanding skills
+- Study musical instrument history and materials science
+- Obtain relevant certification (e.g., Piano Technician Guild)
+
+**Key growth areas:**
 
 - Steady demand
 - Niche specialization
@@ -63,66 +96,68 @@ Repair and tune musical instruments such as string, wind, percussion, and pianos
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不视为专业职业，雇主赞助困难 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于国际知名调音师或维修师，极少见 |
-| Subclass EB-2/EB-3（EB-2/EB-3 Employment-Based Green Card） | 需证明杰出能力或短缺，门槛极高 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not considered a professional occupation, employer sponsorship is difficult |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to internationally renowned tuners or repair technicians, extremely rare |
+| Subclass EB-2/EB-3 (EB-2/EB-3 Employment-Based Green Card) | Requires proven outstanding ability or shortage, extremely high threshold |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Musical Instrument Repairers and Tuners？**
-- 热爱音乐且动手能力强的人
-- 注重细节、有耐心的人
-- 愿意从学徒做起、逐步积累经验的人
+**Who is suited**
+- People who love music and have strong hands-on skills
+- Detail-oriented, patient people
+- People willing to start as an apprentice and gradually accumulate experience
 
-**谁不适合学Musical Instrument Repairers and Tuners？**
-- 追求高薪或快速晋升的人
-- 希望依赖理论而非实践技能的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- Those who prefer theory over practical skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of musical instrument repairers?**
+A: Median annual salary around $45,000 USD, entry-level under $30,000, senior up to $75,000. Self-employed income fluctuates significantly.
+
+**Q: Is it easy for musical instrument repairers to immigrate to the U.S.?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and PERM labor certification is hard to obtain unless the individual has international recognition.
+
+**Q: How to become a Senior Musical Instrument Repairer?**
+A: Typically requires 2-4 years of apprenticeship or vocational training; after gaining experience, can obtain certification (e.g., PTG's RPT) and build a client network.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Musical Instrument Repairers and Tuners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of musical instrument repairers?**
-答：Median annual salary around $45,000; entry-level below $30,000; experienced up to $75,000. Self-employed income varies.
-
-**问：Is it easy to immigrate to the US as a musical instrument repairer?**
-答：Very difficult. The occupation rarely qualifies for H-1B specialty occupation status, and PERM labor certification is hard to obtain unless internationally renowned.
-
-**问：How to become a senior instrument repairer?**
-答：Complete 2-4 years of apprenticeship or vocational training, gain experience, obtain certification (e.g., PTG's RPT), and build a client network.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

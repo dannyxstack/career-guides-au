@@ -1,58 +1,94 @@
-# Archivists（Archivists）职业分析 · 美国
+# Archivists — career analysis · United States
 
-**职业代码：25-4011 – Archivists。**
+**Occupation code: 25-4011 (SOC)**
 
-Archivists appraise, edit, and direct safekeeping of permanent records and historically valuable documents, and participate in research activities based on archival materials.
+Archivists evaluate, edit, and preserve permanent records and historically valuable documents, and participate in research activities based on archival materials. They work in libraries, museums, government agencies, and universities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（公立大学年均学费） |
-| 硕士 | 2年 | $30,000~$60,000（档案学或信息学硕士） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities) |
+| Master's degree | 2 years | $30,000~$60,000 (Master's degree in archival science or information science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 档案管理硕士 | 美国大学 | 必备 | 常见要求，如历史学或信息学硕士 |
-| 认证档案管理员（CA） | 档案管理员认证学院 | 可选 | 非强制但有助于职业发展 |
+| Master's in archives management | U.S. universities | Required | Common requirement, such as a master's degree in history or informatics |
+| Certified Archivist (CA) | Archivist Certification Institute | Optional | Not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 7,800。美国劳工统计局（BLS）预计2022-2032年档案管理员就业增长约8%，与平均水平相当。数字化档案管理需求增加，但政府预算限制可能影响就业增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 7,800. The U.S. Bureau of Labor Statistics (BLS) projects about 8% growth for archivists from 2022 to 2032, about average. Demand for digital archiving increases, but government budget constraints may affect employment growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级薪资 |
-| 中级（3-7年） | $55,000~$70,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $70,000~$95,000 | 主管或高级职位 |
+| Median salary | $64,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level salary |
+| Mid-level (3–7 years) | $55,000~$70,000 | Salary increases with experience |
+| Senior (7+ years) | $70,000~$95,000 | Supervisor or senior positions |
+| average salary | $70,640 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级档案管理员通常从助理岗位起步，积累经验后可晋升为高级档案管理员、部门主管或馆长。部分人转向数字档案管理或档案咨询领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
+
+Junior archivists usually start as assistants and can advance to senior archivists, department heads, or curators. Some move into digital archiving or archival consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatic classification and indexing: AI automatically assigns metadata tags and classification numbers based on content
+- OCR text recognition and basic proofreading of digital archives
+- Simple keyword-based search and file retrieval
+- Automated monitoring and alerts for routine preservation status
+- Generating standardized descriptions and summaries
+
+**Where AI augments the role:**
+
+- Using AI tools for large-scale archival content mining and correlation analysis
+- Improve accuracy and semantic understanding of archival retrieval through natural language processing
+- Using machine learning to assist in appraising archival value and prioritizing preservation
+- Use automated workflows to accelerate digital restoration and format migration.
+- Uses AI to generate preliminary curation reports and exhibition suggestions
+
+**Human moat:**
+
+- High-level archival appraisal and value judgment (e.g., determining which materials are worth permanent preservation)
+- Handle ambiguous, damaged, or extremely unstructured physical archives.
+- Complex communication and ethical decision-making with donors and researchers.
+- Interdisciplinary knowledge integration and historical background interpretation.
+- Develop and oversee rules and quality assurance of AI systems
+
+**Skills to build:**
+
+- Python data analysis and AI tool integration (e.g., text classification with TensorFlow)
+- Digital curation and metadata standards (e.g., Dublin Core, EAD).
+- Database management and SQL queries
+- Basic statistics and data visualization (for analyzing usage patterns)
+- Project Management and AI Ethics Awareness
+- Familiar with cloud platforms and digital preservation technology
+
+**Key growth areas:**
 
 - Digital Preservation
 - Electronic Records Management
@@ -61,69 +97,68 @@ Archivists appraise, edit, and direct safekeeping of permanent records and histo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需专业知识的岗位，如档案管理 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士或同等学历的档案管理员可申请 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于学士学位或以下岗位 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM劳工认证申请职业移民绿卡 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for roles requiring specialized knowledge, such as archive management |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Archivists requiring a master's or equivalent can apply |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Suitable for positions requiring a bachelor's degree or less |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for employment-based green card through PERM labor certification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Archivists？**
-- 对历史或文化遗产有浓厚兴趣的人员
-- 注重细节且有条理的人
-- 喜欢研究和整理信息的人
-
-**谁不适合学Archivists？**
-- 追求高薪职业的人
-- 不喜欢处理大量纸质或电子文件的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in history or cultural heritage
+- Detail-oriented and organized person
+- People who enjoy researching and organizing information.
+
+**Who is not suited**
+- People pursuing high-paying careers
+- People who dislike handling large volumes of paper or electronic documents
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an archivist in the United States?**
+A: According to BLS 2023 data, median annual salary for archivists is about $57,000, ranging from $38,000 to $98,000.
+
+**Q: Can an archivist immigrate to the US on a work visa?**
+A: Yes, typically via H-1B visa or EB-2/EB-3 employment-based green card. Requires employer sponsorship and the position must meet specialty occupation requirements.
+
+**Q: What education is needed for archivists?**
+A: Usually requires a master's degree, such as a Master's in Archival Science, Information Science, or History. A few entry-level positions may accept a bachelor's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Archivists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for archivists in the US?**
-答：According to BLS 2023 data, the median annual wage for archivists is about $57,000, with a range of $38,000 to $98,000.
-
-**问：Can archivists immigrate to the US via work visas?**
-答：Yes, typically via H-1B visa or EB-2/EB-3 green cards, requiring employer sponsorship and specialized position.
-
-**问：What education is required to become an archivist?**
-答：Typically a master's degree in archival science, information science, or history. Some entry-level positions accept a bachelor's degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

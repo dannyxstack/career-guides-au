@@ -1,59 +1,95 @@
-# Project Manager（Project Manager）职业分析 · 新西兰
+# Project Manager — career analysis · New Zealand
 
-**职业代码：132211 – Project Manager。**
+**Occupation code: 132211 (ANZSCO)**
 
-Project Managers are in steady demand across New Zealand's business, IT, and construction sectors, eligible for Skilled Migrant Category (6-point system) and Green List fast-track residency, with average salary around NZ$100,000.
+Project managers are in steady demand in New Zealand's commercial, IT, and construction sectors, and can apply for residence via Skilled Migrant Category (SMC 6-point system) or Green List fast-track, with an average annual salary of around NZ$100,000.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $25,000~$40,000（新西兰大学商科/IT/工程本科学费年约2.5-4万纽元） |
-| 硕士学位 | 1-2年 | $35,000~$55,000（如项目管理硕士，学费年约3.5-5.5万纽元） |
+| Bachelor's degree | 3 years | $25,000~$40,000 (Undergraduate tuition for business/IT/engineering at NZ universities is approximately NZD 25,000–40,000 per year.) |
+| Master's degree | 1-2 years | $35,000~$55,000 (For a project management master's degree, tuition is approximately NZD 35,000-55,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PMP（项目管理专业人士） | PMI | 可选 | 国际认可，非强制但雇主偏好 |
-| PRINCE2 Practitioner | AXELOS | 可选 | 新西兰政府及大企业常见要求 |
-| NZ Certificate in Project Management (Level 6) | 技能组织(如Toi Ohomai) | 可选 | 新西兰本地学历，含实习 |
+| PMP (Project Management Professional) | PMI | Optional | Internationally recognized, not mandatory but preferred by employers |
+| PRINCE2 Practitioner | AXELOS | Optional | Common requirement of the New Zealand government and large enterprises |
+| NZ Certificate in Project Management (Level 6) | Skills organization (e.g., Toi Ohomai) | Optional | New Zealand local qualification including internship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。项目经理是新西兰长期短缺技能职业，尤其在建筑和ICT领域。Stats NZ预测未来5年就业增长强劲（约15%），奥克兰、惠灵顿及基督城机会最多。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Project manager is a long-term shortage occupation in New Zealand, especially in construction and ICT. Stats NZ predicts strong employment growth (about 15%) over the next 5 years, with most opportunities in Auckland, Wellington, and Christchurch.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | 入行薪资，需1-2年经验 |
-| 中级（3-7年） | $90,000~$120,000 | 常见范围，持有PMP者偏高 |
-| 高级（7年以上） | $130,000~$180,000 | 含项目总监或PMO经理，年薪可超20万 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$85,000 | Entry-level salary, requires 1-2 years of experience |
+| Mid-level (3–7 years) | $90,000~$120,000 | Common range, higher for those with PMP certification |
+| Senior (7+ years) | $130,000~$180,000 | Including project director or PMO manager, annual salary can exceed 200,000. |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级项目经理（0-3年）可晋升至高级项目经理或项目总监，部分转向PMO或咨询。拥有PMP或PRINCE2认证者晋升更快，年增薪幅度约5-10%。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Project manager role is moderately affected by AI: data tasks like scheduling and budget tracking can be automated, but stakeholder coordination and risk decisions still require human judgment. Entry-level jobs face more competition due to widespread basic project management tools, but senior positions demand more interpersonal skills.
+
+Junior project managers (0-3 years) can advance to senior project manager or project director, some move to PMO or consulting. Those with PMP or PRINCE2 certification advance faster, with annual salary increases of around 5-10%.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of project progress reports, status updates, and dashboards
+- Using AI tools for resource conflict detection and basic scheduling optimization
+- Automated sending of risk alerts and milestone tracking notifications
+- Automatically organizing meeting minutes and action items via natural language processing
+- Use Budget Tracking Systems to Automatically Monitor Spending Variances
+
+**Where AI augments the role:**
+
+- AI analyzes project data in real time to help project managers identify risks and bottlenecks faster
+- Smart scheduling tools provide solution suggestions to aid resource allocation decisions
+- AI prediction models provide warnings on cost and timeline deviations, enhancing control capabilities
+- Automated reporting frees up time, allowing managers to focus more on strategic communication and stakeholder management
+- Virtual assistant handles routine queries and documents to improve work efficiency
+
+**Human moat:**
+
+- Complex stakeholder coordination and expectation management (especially cross-cultural and cross-departmental conflicts)
+- Making critical judgments and decisions under uncertainty (e.g., scope changes, risk responses)
+- Leadership and team motivation to build high-performance culture
+- Client relationship and trust building, non-standard solution design
+- Integrating cross-domain knowledge (technical, business, regulatory) for overall control
+
+**Skills to build:**
+
+- AI project management tools (e.g., Asana AI, Jira AI, Microsoft Project Copilot)
+- Data analysis and visualization (Power BI, Tableau)
+- Agile and Lean methodology (Scrum, SAFe) certifications
+- Negotiation and conflict resolution skills
+- Strategic thinking and business acumen
+- Virtual team management and digital communication tools
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,69 +98,68 @@ Project Managers are in steady demand across New Zealand's business, IT, and con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，适用于建筑项目经理（ANZSCO 133111）从事特定岗位，无需工作2年 |
-| Subclass Green List T2（Work to Residence Visa） | 工作转居留签证，适用于ICT项目经理（ANZSCO 135112），工作2年后可申请 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民类别，6分制下学历+经验+薪资可获足够分数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合未达居留条件者，可后续转签 |
+| Subclass Green List T1 (Straight to Residence Visa) | Straight to residence visa, applicable for construction project manager (ANZSCO 133111) in specific roles, no 2-year work requirement |
+| Subclass Green List T2 (Work to Residence Visa) | Work to Residence visa, applicable to ICT Project Managers (ANZSCO 135112), can apply after 2 years of work |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled Migrant Category; under the 6-point system, qualifications + experience + salary can earn sufficient points |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those not yet meeting residence conditions, allows subsequent visa transfer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Project Manager？**
-- 具备3年以上项目经验的商业/IT/工程背景人士，希望快速移民新西兰
-- 持有PMP或PRINCE2认证，英语雅思6.5以上
-- 适应多任务、高压环境，沟通协调能力强者
-
-**谁不适合学Project Manager？**
-- 不愿频繁应对客户与团队冲突的独立工作者
-- 无相关学历或经验，且不计划学习考证者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Business/IT/Engineering background individuals with 3+ years of project experience, looking to immigrate to New Zealand quickly
+- Hold PMP or PRINCE2 certification, English IELTS 6.5 or above
+- Able to handle multitasking and high-pressure environments with strong communication and coordination skills
+
+**Who is not suited**
+- Independent workers who are unwilling to frequently deal with customer and team conflicts
+- Those without relevant education or experience and not planning to study for certification.
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary of a project manager in New Zealand?**
+A: Junior: approx NZ$70,000-85,000, intermediate: $90,000-120,000, senior: $130,000-180,000. Construction and IT sectors offer higher salaries; PMP certification can increase salary by 10-20%.
+
+**Q: How can a project manager immigrate to New Zealand?**
+A: Eligible for Green List Tier 1 direct residence (Construction Project Manager) or Tier 2 work to residence (ICT Project Manager). Also via SMC 6-point system: bachelor's degree 3 points + 3 years experience 3 points + salary at 1.5 times median.
+
+**Q: What certifications are required?**
+A: PMP and PRINCE2 are most recognized, not mandatory but preferred by employers. New Zealand local project management certificate (NZ Certificate Level 6) is also valid.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 中等（★★½☆☆） |
-
-Project Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Project Manager in New Zealand?**
-答：Entry-level: NZ$70k–85k; Mid-level: NZ$90k–120k; Senior: NZ$130k–180k. Construction and IT sectors pay higher, and PMP certification can boost salary by 10-20%.
-
-**问：How can a Project Manager immigrate to New Zealand?**
-答：Green List Tier 1 (Straight to Residence) for Construction Project Managers, Tier 2 (Work to Residence) for ICT Project Managers, or SMC 6-point system: bachelor’s degree (3 points) + 3 years experience (3 points) + salary ≥ 1.5x median wage.
-
-**问：What certifications are required?**
-答：PMP and PRINCE2 are highly recommended but not mandatory. A New Zealand Certificate in Project Management (Level 6) is also recognized.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Jewellers, jewellery and watch repairers and related occupations（Jewellers, jewellery and watch repairers and related occupations）职业分析 · 加拿大
+# Jewellers, jewellery and watch repairers and related occupations — career analysis · Canada
 
-**职业代码：62202 – Jewellers, jewellery and watch repairers and related occupations。**
+**Occupation code: 62202 (NOC)**
 
-Jewellers and watch repairers design, fabricate, repair, and appraise jewellery, watches, and other precision items, requiring fine manual skills and attention to detail.
+Jewellers and watch repairers design, manufacture, repair, and evaluate jewellery, watches, and other precision items, requiring exquisite craftsmanship and high attention to detail.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $8,000~$20,000（珠宝技术或钟表维修专业） |
-| 学徒制 | 3-4年 | $2,000~$6,000（在职培训加技术课程） |
+| Diploma | 2 years | $8,000~$20,000 (Jewelry technology or watch repair specialty) |
+| Apprenticeship | 3-4 years | $2,000~$6,000 (On-the-job training plus technical courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 珠宝评估师认证 | 加拿大珠宝协会 | 可选 | 自愿认证，提升专业信誉 |
-| 钟表维修认证 | 加拿大钟表学会 | 可选 | 部分雇主要求 |
+| Jewellery Appraiser Certification | Jewellers Association of Canada | Optional | Voluntary certification to enhance professional credibility |
+| Watch repair certification | Canadian Horological Institute | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。该职业在加拿大就业市场较为稳定，受奢侈品消费和二手市场影响，但总体需求平稳。部分省份如安大略和魁北克有较多就业机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. This occupation has a relatively stable job market in Canada, influenced by luxury consumption and the second-hand market, but overall demand is steady. Provinces like Ontario and Quebec have more job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 学徒或入门级 |
-| 中级（3-7年） | $40,000~$55,000 | 熟练工匠 |
-| 高级（7年以上） | $55,000~$75,000 | 大师级或店长 |
+| Median salary | $46,696 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$40,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $40,000~$55,000 | Skilled tradesperson |
+| Senior (7+ years) | $55,000~$75,000 | Master or store manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从学徒开始，逐步晋升为熟练工匠，可自主开店或成为高级修理工，部分转向珠宝设计或评估领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
+
+Start as an apprentice, gradually advance to skilled craftsman, able to open your own shop or become a senior repairer, with some transitioning to jewelry design or appraisal fields.
+
+**Tasks most exposed to AI:**
+
+- Routine metal polishing and grinding (can be automated with AI-controlled robotic arms).
+- Gem cutting and setting calculations (parametric modeling to optimize cut automatically)
+- Repetitive inlay path planning (AI vision system assisted positioning)
+- Inventory management and simple design sketch generation (generative AI for rapid output)
+- Quality inspection and sorting of batch jewelry (computer vision for automatic defect detection)
+
+**Where AI augments the role:**
+
+- Complex 3D modeling and rendering (AI generates design variants for rapid style exploration)
+- Gem optimization cutting simulation (AI analyzes internal structure of rough stone to suggest optimal facets)
+- Personalized custom design (AI generates initial plan based on client needs, then craftspeople refine)
+- Teaching and skill transfer (AR/VR simulated operations, AI real-time error feedback)
+- Repair and restoration solution assessment (AI scans damaged structures, recommends repair paths)
+
+**Human moat:**
+
+- Artistic feel of hand setting and fine metal adjustment (AI cannot replicate tactile feedback)
+- Emotional interaction skills for communicating custom needs with clients and passing on brand stories
+- Experience-based restoration of historical craftsmanship in antique jewelry repair
+- Decision-making and accountability for handling high-value, one-of-a-kind works
+- Irregularity of comprehensive creation across materials (precious metals, gemstones, enamel, etc.)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., Rhino, MatrixGold) and parametric design tools
+- Prompt engineering and image optimization for AI-assisted design platforms (e.g., Midjourney for jewelry)
+- Deepening gemology and materials science (understanding the gap between AI simulation and actual cutting)
+- Digital manufacturing processes (3D printing wax patterns, CNC engraving) operation and post-processing
+- Customer experience design (incorporating AR/VR try-ons and custom communication)
+- Sustainable/traceability technology (blockchain registering gem origin, meeting ESG requirements)
+
+**Key growth areas:**
 
 - Luxury Goods
 - E-commerce
@@ -61,64 +96,63 @@ Jewellers and watch repairers design, fabricate, repair, and appraise jewellery,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略有技工类提名，需雇主担保 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳动力市场评估，支持工签 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario have trades nominations requiring employer sponsorship. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Assessment to support work visas |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Jewellers, jewellery and watch repairers and related occupations？**
-- 对手工技艺有热情的人
-- 注重细节和耐心的人
-- 愿意从事精细工作的人
-
-**谁不适合学Jewellers, jewellery and watch repairers and related occupations？**
-- 缺乏耐心的人
-- 不喜欢重复性工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for handcrafts
+- Detail-oriented and patient people
+- People willing to perform detailed work
+
+**Who is not suited**
+- People lacking patience
+- People who dislike repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for jewellers?**
+A: Entry-level about C$30,000-40,000, mid-level C$40,000-55,000, senior up to C$75,000. Self-employed income may be higher.
+
+**Q: Can jewelers immigrate to Canada?**
+A: Yes, mainly through Provincial Nominee Program (PNP) or employer sponsorship (LMIA); Federal Express Entry is usually not directly applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Jewellers, jewellery and watch repairers and related occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for jewellers?**
-答：Entry-level CAD 30,000-40,000, mid-level CAD 40,000-55,000, senior up to CAD 75,000; self-employed may earn more.
-
-**问：Can jewellers immigrate to Canada?**
-答：Yes, mainly through Provincial Nominee Programs (PNP) or LMIA-based work permits; Express Entry is less common.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

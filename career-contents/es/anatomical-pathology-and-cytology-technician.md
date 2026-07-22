@@ -1,60 +1,95 @@
-# Anatomical Pathology and Cytology Technician（Anatomical Pathology and Cytology Technician）职业分析 · ES
+# Anatomical Pathology and Cytology Technician — career analysis · Spain
 
-**职业代码：3313 – Anatomical Pathology and Cytology Technician。**
+**Occupation code: 3313 (CNO)**
 
-Prepares and analyzes tissue samples and cell smears in pathology labs, assisting pathologists in disease diagnosis.
+Responsible for preparing and analyzing tissue samples and cell smear in the pathology laboratory, assisting pathologists in diagnosing diseases.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业教育（FP Grado Superior） | 2年 | $300~$3,000（公立FP几乎免费，私立约1500-3000欧元/年） |
-| 大学本科（Grado） | 4年 | $800~$12,000（公立大学约800-2000欧元/年，私立6000-12000欧元/年） |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $300~$3,000 (Public FPs are almost free, while private ones cost about 1,500-3,000 euros per year) |
+| Undergraduate (Grado) | 4 years | $800~$12,000 (Public universities approx. €800-€2,000/year; private universities €6,000-€12,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 病理学技术职业资格 | 教育及职业培训部门 | 必备 | 通过FP Grado Superior或大学相关专业毕业 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国学历需经认证，确认等效于西班牙Grado |
+| Professional qualification in pathology technology | Education and vocational training departments | Required | Graduate from FP Grado Superior or a university related major |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country diplomas must be certified to be equivalent to Spanish Grado |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙医疗体系对病理技师需求稳定，随着癌症筛查普及和人口老龄化，岗位缓慢增长。主要集中在公立医院和私人实验室。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spain's healthcare system has stable demand for pathologists, and with the spread of cancer screening and an aging population, job openings are growing slowly. Mainly concentrated in public hospitals and private laboratories.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$26,000 | 公立医院初级职位税前年薪 |
-| 中级（3-7年） | $28,000~$34,000 | 公立医院中级技师，含加班及夜班补贴 |
-| 高级（8年以上） | $35,000~$45,000 | 高级技师或实验室主管，私立机构可能更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $22,000~$26,000 | Pre-tax annual salary for junior positions in public hospitals |
+| Mid-level (3–7 years) | $28,000~$34,000 | Intermediate Technician in Public Hospitals, including overtime and night shift subsidies |
+| Senior (8+ years) | $35,000~$45,000 | Senior technicians or laboratory supervisors, while private institutions may have higher rates |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级技师晋升为高级技师或实验室主管，也可通过深造转向细胞病理学或分子病理学等专业方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This profession is in a mixed state: AI can automate some repetitive production and initial screening tasks, but diagnostic decisions and complex sample analysis rely on human expertise. Entry-level positions may shrink due to automation, but demand for senior technicians is amplified by AI-assisted technology.
+
+You can advance from junior technician to senior technician or laboratory supervisor, or further study in areas such as cytopathology or molecular pathology.
+
+**Tasks most exposed to AI:**
+
+- Automated dyeing and sealing processes
+- Classification of routine cell smear preliminary screening
+- Preprocessing and annotation of digital pathology images
+- Laboratory quality control data recording and report generation
+
+**Where AI augments the role:**
+
+- AI-assisted tumor cell detection and classification
+- Digital pathology image analysis to quantify biomarkers
+- Automatically generate a structured pathology report draft
+- Multimodal data integration (imaging, genomics) assists diagnosis
+- Intelligent image transmission and enhancement in remote consultations
+
+**Human moat:**
+
+- Histological interpretation and diagnostic reasoning for difficult cases
+- Direct communication with clinicians and integration of multiple layers of evidence
+- Laboratory process optimization and quality control supervision
+- Ethical and legal responsibility (such as decisions on cryopreserved sectioning)
+- Continuously updating new pathology knowledge and techniques
+
+**Skills to build:**
+
+- Use of digital pathology and AI-assisted diagnostic tools
+- Programming basics (Python/R) are used for data analysis
+- Bioinformatics knowledge (genomics and pathological association)
+- Pathological image analysis software operations (such as HALO, QuPath)
+- Cross-disciplinary communication and teamwork skills
+- The ability to continuously learn and adapt to new technologies
+
+**Key growth areas:**
 
 - Healthcare
 - Aging Population
@@ -63,69 +98,68 @@ Prepares and analyzes tissue samples and cell smears in pathology labs, assistin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合大学学历+工作合同，年薪需达西班牙平均工资1.2倍（约33,000欧元） |
-| Subclass Cuenta ajena（Work Permit (employed)） | 受雇工作居留，需雇主提供合同并证明无法在欧盟内招聘 |
-| Subclass Homologación previa（Degree Homologation） | 学历认证是申请技术移民的前提，周期6-12个月 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for university degree + employment contract, annual salary must reach 1.2 times the Spanish average (about 33,000 euros) |
+| Subclass Cuenta ajena (Work Permit (employed)) | For employed work residence, the employer must provide a contract and prove that recruitment within the EU is not possible |
+| Subclass Homologación previa (Degree Homologation) | Academic credential verification is a prerequisite for applying for skilled migration, with a period of 6-12 months |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Anatomical Pathology and Cytology Technician？**
-- 对生物医学有浓厚兴趣，注重细节的人员
-- 希望在医疗行业工作但不想直接接触患者的人员
-- 具备耐心和手工操作能力的人员
-
-**谁不适合学Anatomical Pathology and Cytology Technician？**
-- 追求高薪或快速晋升的人员
-- 对重复性实验工作感到厌倦的人员
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in biomedical sciences who pay attention to detail
+- People who want to work in the medical industry but do not want to interact directly with patients
+- Personnel with patience and manual operation skills
+
+**Who is not suited**
+- Those seeking high salaries or rapid promotions
+- People tired of repetitive experimental work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a pathologist in Spain?**
+A: Junior approx. EUR 22,000-26,000, mid-level 28,000-34,000, senior 35,000-45,000 (gross annual salary).
+
+**Q: How can a third-country citizen become a Spanish pathologist?**
+A: You must first complete qualification recognition (Homologación), confirming your degree is equivalent to a Spanish Grado, then find an employer to apply for a work permit or EU Blue Card.
+
+**Q: What educational background is needed for this occupation?**
+A: You can choose between a 2-year Advanced Vocational Training Program (FP Grado Superior) or a 4-year Bachelor's Degree (Grado). FP is more practical, and university degrees are more advantageous for immigration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Anatomical Pathology and Cytology Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pathology technicians in Spain?**
-答：Entry-level €22,000-€26,000, mid-level €28,000-€34,000, senior €35,000-€45,000 gross annual.
-
-**问：How can a third-country national become a pathology technician in Spain?**
-答：First obtain degree homologation, then find an employer to apply for a work permit or EU Blue Card.
-
-**问：What education is required for this occupation?**
-答：A 2-year higher vocational training (FP Grado Superior) or a 4-year university degree (Grado). FP is more practical, while a degree is better for migration.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

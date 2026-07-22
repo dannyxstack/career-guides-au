@@ -1,61 +1,95 @@
-# Agricultural Laborer（Agricultural Laborer）职业分析 · ES
+# Agricultural Laborer — career analysis · Spain
 
-**职业代码：9530 – Agricultural Laborer。**
+**Occupation code: 9530 (CNO)**
 
-Agricultural laborers perform manual tasks on farms such as planting, harvesting, irrigating, fertilizing, and tending livestock. Work is seasonal and often outdoors.
+Agricultural workers perform daily manual labor on the farm, including planting, harvesting, irrigation, fertilizing, and caring for livestock. The work is highly seasonal and often takes place outdoors.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常不需要学历，但基础读写能力有用） |
-| 农业职业培训（FP Básica） | 2年 | —（公立学校免费或低费用） |
-| 农业技术员（FP Grado Medio） | 2年 | —（公立学校免费或低费用） |
+| No formal education required | None | $0~$0 (Usually, no academic degree is required, but basic literacy is useful) |
+| Agricultural Vocational Training (FP Básica) | 2 years | $0~$3,000 (Public schools are free or low-cost) |
+| Agricultural Technician (FP Grado Medio) | 2 years | $0~$4,000 (Public schools are free or low-cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农药施用许可证 | 西班牙农业、渔业和食品部 | 必备 | 施用农药需持有官方培训证书（Carné de aplicador de productos fitosanitarios） |
-| 驾驶执照 | 交通总局（DGT） | 可选 | 操作农业车辆和拖拉机通常需要B类或C1类驾照 |
+| Pesticide Applicator License | The Spanish Ministry of Agriculture, Fisheries and Food | Required | Pesticide application requires an official training certificate (Carné de aplicador de productos fitosanitarios) |
+| Driver's license | Directorate General of Transportation (DGT) | Optional | Operating agricultural vehicles and tractors usually requires a Class B or C1 license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 450,000。西班牙农业依赖季节性移民工人，但机械化程度提高使低技能岗位需求缓慢下降。不过，有机农业和出口农产品仍保持一定岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 450,000. Spanish agriculture relies on seasonal migrant workers, but increased mechanization has slowly reduced demand for low-skilled jobs. However, organic agriculture and exported agricultural products still retain certain positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $14,000~$18,000 | 按季节工或临时工计算，通常按日薪或时薪 |
-| 中级（2-5年） | $18,000~$22,000 | 部分合同工或长期工，含加班费 |
-| 高级（5年以上） | $22,000~$26,000 | 主管或技术员岗位，全年雇佣 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $14,000~$18,000 | Calculated as seasonal or temporary workers, usually on a daily or hourly basis |
+| Intermediate (2-5 years) | $18,000~$22,000 | Partial contract or long-term employees, including overtime pay |
+| Senior (5+ years) | $22,000~$26,000 | Supervisor or technician positions, year-round employment |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 农业工人通常缺乏正式晋升路径，但可成为农业技术员或农场主管。部分人通过职业培训转为农业机械操作员或农业顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Farm workers (crops, nurseries, greenhouses) face very high automation replacement risk: repetitive physical tasks (e.g., weeding, picking, sorting) are rapidly covered by agricultural robots and AI vision systems; entry-level positions are shrinking significantly, leaving only irregular or high-precision manual operations
+
+Agricultural workers usually lack formal promotion paths but can become agricultural technicians or farm supervisors. Some have transitioned through vocational training to become agricultural machinery operators or consultants.
+
+**Tasks most exposed to AI:**
+
+- Manual weeding and thinning (replaced by AI vision-guided robots)
+- Fruit and vegetable picking based on ripeness judgment (replaced by computer vision and robotic arms)
+- Sorting and grading agricultural products (replaced by AI spectral analysis and automated sorting lines)
+- Pesticide spraying (replaced by drones and automatic spray robots)
+- Manual loading and handling (replaced by automated guided vehicles).
+
+**Where AI augments the role:**
+
+- AI-assisted yield prediction and planting planning (improving decision accuracy)
+- Drones and sensors monitor crop health (enhancing early pest and disease identification)
+- Smart irrigation and fertilization scheduling (reducing waste, improving efficiency)
+- Automatic generation of farm records and compliance documents (reducing administrative burden)
+
+**Human moat:**
+
+- Handle unexpected issues in complex, unstructured environments (e.g., manual response to mechanical failures)
+- Precision crop management (e.g., high-value grape pruning, oddly shaped fruit picking)
+- Communication and collaboration with farm managers, agronomists, and other high-level professionals
+- Temporary emergency tasks in extreme weather or remote locations
+
+**Skills to build:**
+
+- Agricultural robot operation and basic maintenance.
+- Drone operation and image analysis
+- IoT and smart irrigation system management
+- Agricultural Data Analysis (e.g., yield data interpretation).
+- Automated equipment fault diagnosis
+- Technical communication and procurement negotiations with AI vendors
+
+**Key growth areas:**
 
 - Seasonal work
 - Mechanization
@@ -64,62 +98,67 @@ Agricultural laborers perform manual tasks on farms such as planting, harvesting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 西班牙雇主担保的工作居留。需证明岗位无法由本地人或欧盟公民填补，且雇主提供合同。 |
-| Subclass Temporada（Seasonal Work Permit） | 季节性农业工作签证，有效期一般4-9个月，需雇主申请集体名额（gestión colectiva）。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Spanish employer-sponsored work residency. It must be proven that the position cannot be filled by a local person or EU citizen, and the employer must provide a contract. |
+| Subclass Temporada (Seasonal Work Permit) | The seasonal agricultural work visa is generally valid for 4-9 months and requires the employer to apply for a collective quota (gestión colectiva). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Agricultural Laborer？**
-- 能承受户外体力劳动的人
-- 愿意季节性迁徙或适应农村生活的人
-- 希望快速进入劳动力市场且不要求高学历的人
+**Who is suited**
+- People who can endure outdoor physical labor
+- Those who are willing to migrate seasonally or adapt to rural life
+- For those wanting quick entry into the labour market and not requiring higher education.
 
-**谁不适合学Agricultural Laborer？**
-- 偏好稳定办公室工作的人
-- 无法接受低薪且缺乏职业晋升的人
+**Who is not suited**
+- People who prefer stable office work
+- Those who cannot accept low pay and lack career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What about agricultural workers' wages?**
+A: The pre-tax annual salary for Spanish agricultural workers is about 14,000–26,000 euros, depending on experience and contract type. Junior seasonal workers are usually paid by the day, with daily wages around 50-80 euros.
+
+**Q: Can foreigners immigrate to Spain through agricultural worker positions?**
+A: It's very difficult. Agricultural workers are considered low-skilled positions, prioritizing employment of locals and EU citizens. Some seasonal collective recruitment programs (such as Marruecos) allow third-country workers to work temporarily, but cannot obtain long-term residency.
+
+**Q: Do agricultural workers have promotion opportunities?**
+A: Limited. You can be promoted to agricultural supervisor or farm manager, or through vocational training to become an agricultural machinery operator or agricultural technician. But it usually requires extra learning and time.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Agricultural Laborer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an agricultural laborer?**
-答：Annual gross salary ranges from €14,000 to €26,000, depending on experience and contract type. Entry-level seasonal workers earn about €50-80 per day.
-
-**问：Can foreigners immigrate to Spain as agricultural laborers?**
-答：Very difficult. This is a low-skilled occupation with priority given to local and EU workers. Some seasonal collective recruitment schemes (e.g., from Morocco) allow temporary work but no long-term residency.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Air travel assistants（Air travel assistants）职业分析 · UK
+# Air travel assistants — career analysis · United Kingdom
 
-**职业代码：6213 – Air travel assistants。**
+**Occupation code: 6213 (SOC)**
 
-Air travel assistants issue tickets and boarding passes, examine documentation, provide information and assistance at airports, and look after the welfare, comfort and safety of passengers during flights.
+An air travel assistant handles airport check-in, issues boarding passes, checks travel documents, provides information and assistance to passengers, and looks after passengers' welfare, comfort, and safety during the flight.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（英国公立高中免费） |
-| 在职培训 | 1-3个月 | —（雇主提供培训，偶有考证费用） |
+| High school diploma | 3 years | $0~$0 (Free UK public high school) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Employer provides training, occasional certification fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 客户服务证书 | City & Guilds | 可选 | 提升竞争力，非强制 |
-| 航空安全培训证书 | 民航局 | 必备 | 部分岗位要求 |
-| 急救证书 | 红十字会 | 可选 | 推荐持有 |
+| Aviation Safety Training Certificate | Civil Aviation Administration. | Required | Some positions require |
+| Customer service certificate | City & Guilds | Optional | Increases competitiveness, not mandatory |
+| First aid certificate | Red Cross | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。航空业复苏推动需求，但自动化自助值机可能限制增长。预计未来几年英国岗位数量稳定，竞争中等，主要招聘在大型机场。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Aviation industry recovery drives demand, but automated self-service check-in may limit growth. UK job numbers are expected to remain stable in coming years, competition is moderate, with major recruitment at large airports.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 地勤或客舱乘务员起薪 |
-| 中级（3-7年） | $22,000~$28,000 | 经验增加及额外语言技能可提升 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或管理岗位 |
+| Median salary | $28,738 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salary for ground staff or cabin crew |
+| Mid-level (3–7 years) | $22,000~$28,000 | Increased experience and additional language skills can improve prospects |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor or management role |
+| average salary | $30,709 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级地勤或客舱乘务员可晋升为高级助理、团队主管或培训师。后期可转向航空管理、客户服务经理或更专业的安全、运营等岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The role of air travel assistant carries relatively high risk; AI self-service check-in and automated document checks will significantly reduce traditional tasks, entry-level positions are shrinking, but interpersonal service and safety responsibilities still retain some moat.
+
+Entry-level ground staff or cabin crew can advance to senior assistant, team leader or trainer. Later, they can move into aviation management, customer service manager, or more specialized safety, operations, etc.
+
+**Tasks most exposed to AI:**
+
+- Automated check-in and boarding pass issuance – self-service kiosks and apps replace manual operations
+- Travel document verification—AI scanning and database matching are automated
+- Gate information announcements and guidance—announced automatically by robots or systems
+- Baggage tag printing and tracking replaced by RFID and self-service tag stations
+- Seat selection and special meal booking – self-service via online system
+
+**Where AI augments the role:**
+
+- Personalized customer service – AI-assisted quick lookup of preferences and needs
+- Real-time flight status updates and disruption handling—AI predicts and recommends solutions
+- Multilingual translation and communication — AI real-time translation assists in communication
+- Baggage anomaly handling – AI tracking and automatic lost item matching
+- Security check and boarding gate anomaly detection—AI warns of potential issues
+
+**Human moat:**
+
+- Crisis and emergency handling skills (e.g., flight cancellations, passenger emotional management)
+- Complex problem-solving and cross-department coordination (e.g., special passenger assistance, multi-airline rebooking)
+- High-touch service empathy and emotional labor (especially first class, disabled passengers).
+- Safety and compliance responsibilities (e.g., denying boarding, identifying suspicious behavior)
+- Collaboration with other airport ground services (e.g., ground handling, security)
+
+**Skills to build:**
+
+- Basic data analysis (flight delay patterns, customer preferences)
+- Use of common AI tools (e.g., self-check-in system backend, chatbot management).
+- Digital service design (optimizing self-service processes, user interface feedback)
+- Advanced Customer Communication and Conflict Resolution
+- Basic aviation safety regulations and emergency procedures.
+- Multilingual ability (especially common aviation service languages)
+
+**Key growth areas:**
 
 - Air travel rebound
 - Customer service
@@ -64,61 +100,63 @@ Air travel assistants issue tickets and boarding passes, examine documentation, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 通常不适用于此岗位，因不符合技能等级要求，但若雇主能证明稀缺性，可能担保。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Typically not applicable for this position due to skill level requirements, but may be possible if the employer can demonstrate scarcity. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air travel assistants？**
-- 喜欢航空旅行环境，擅长客户服务的人
-- 注重细节，能处理多任务和压力的人
-- 希望在航空业基层起步，逐步发展的人
+**Who is suited**
+- People who enjoy the air travel environment and excel in customer service
+- Detail-oriented, able to handle multitasking and pressure
+- People who want to start at the grassroots level in the aviation industry and develop gradually
 
-**谁不适合学Air travel assistants？**
-- 不规律作息和长时间站立
-- 对服务行业缺乏耐心
+**Who is not suited**
+- Irregular schedules and prolonged standing
+- Lack of patience for the service industry
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an aviation travel assistant?**
+A: Junior annual salary around £18,000-22,000, mid-level £22,000-28,000, senior up to £35,000.
+
+**Q: Can a foreign worker work in this occupation on a skilled worker visa?**
+A: Usually difficult because the occupation does not meet the general skill level requirements for skilled worker visas, unless the employer demonstrates special needs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Air travel assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for air travel assistants?**
-答：Entry-level salary is around £18,000-£22,000, mid-level £22,000-£28,000, and senior up to £35,000 per year.
-
-**问：Can foreign workers obtain a Skilled Worker visa for this occupation?**
-答：It is generally difficult as the occupation does not meet the skill level requirement for the Skilled Worker visa, unless the employer demonstrates exceptional need.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

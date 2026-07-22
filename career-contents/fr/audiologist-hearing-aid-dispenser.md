@@ -1,62 +1,98 @@
-# Audiologist (Hearing Aid Dispenser)（Audiologist (Hearing Aid Dispenser)）职业分析 · FR
+# Audiologist (Hearing Aid Dispenser) — career analysis · France
 
-**职业代码：J1401 – Audiologist (Hearing Aid Dispenser)。**
+**Occupation code: J1401 (ROME)**
 
-Audioprothesists assess hearing loss, select, fit, and dispense hearing aids, and provide follow-up care and rehabilitation. In France, it is a regulated paramedical profession requiring a state diploma.
+Hearing aid fitters are responsible for assessing hearing loss, selecting, adjusting, and providing hearing aids to patients, as well as offering follow-up maintenance and rehabilitation guidance. This profession is regulated as a medical auxiliary occupation in France and requires a national diploma.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 助听器技术员 | 2年（BTS） | $1,000~$15,000（公立学校学费低，私立学校较高；可通过学徒制（apprentissage）减少费用） |
-| 国家助听器验配师文凭（DE） | 3年（含BTS后） | —（DE为强制文凭，通常在公立机构免费或低费） |
-| 继续教育或专业硕士 | 1-2年 | $3,000~$15,000（可选儿童听力学、前庭康复等方向） |
+| BTS hearing aid technician | 2 Years (BTS) | $1,000~$15,000 (Public schools have lower tuition fees, while private schools have higher tuition; Apprenticeships can reduce costs) |
+| National Hearing Aid Fitter Diploma (DE) | 3 years (including after BTS) | $0~$10,000 (DE is a mandatory diploma, usually free or low-cost at public institutions) |
+| Continuing education or professional master's degree | 1-2 years | $3,000~$15,000 (Options include pediatric audiology, vestibular rehabilitation, and other specialties) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家助听器验配师文凭（DE） | 法国卫生部授权的培训学校 | 必备 | 唯一法定文凭，必须持有才能执业 |
-| BTS 助听器技术员 | 法国教育部 | 必备 | 入学DE的先决条件，部分学校可并行 |
-| 资质认证（Reconnaissance des qualifications） | 法国卫生部（ARS） | 必备 | 非欧盟文凭需通过资质认证流程，评估等效性 |
+| National Hearing Aid Fitter Diploma (DE) | Training schools authorized by the French Ministry of Health | Required | The only statutory diploma that must be held to practice |
+| BTS hearing aid technician | French Ministry of Education | Required | Prerequisites for admission to DE, some schools may offer parallel courses |
+| Qualifications (Reconnaissance des qualifications) | French Ministry of Health (ARS) | Required | Non-EU diplomas must go through a qualification certification process to assess equivalence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,000。法国人口老龄化导致听力损失患者增加，助听器验配需求持续增长。根据法国就业局（France Travail）数据，该职业未来10年就业前景良好，就业机会稳定，尤其在老年人口密集地区。
+**Job demand: high (★★★★☆).** National workforce approx. 6,000. France's aging population has led to an increase in hearing loss patients, and the demand for hearing aid fitting continues to grow. According to data from France Travail, this profession has good employment prospects over the next 10 years, with stable job opportunities, especially in areas with dense elderly populations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公立医院或听力中心，税前年薪 |
-| 中级（3-8年） | $35,000~$45,000 | 私立诊所或经验丰富者，含奖金 |
-| 高级（8年以上或独立执业） | $45,000~$65,000 | 独立诊所所有者或管理职位，税前 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Public hospitals or hearing centers, pre-tax annual salary |
+| Mid-level (3–8 years) | $35,000~$45,000 | Private clinics or experienced individuals include bonuses |
+| Senior (over 8 years or independent practice) | $45,000~$65,000 | Independent clinic owner or management position, pre-tax |
+| average salary | $29,718 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级验配师可在听力中心或医院工作，积累经验后晋升为高级验配师或团队主管。也可独立开设诊所，或转向听力康复培训、助听器技术研发等领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some hearing tests and data processing tasks, but the core value of fitters lies in patient communication, personalized tuning, and regulatory compliance—professions that are enhanced, not replaced.
+
+Junior fitters can work at hearing centers or hospitals, and after gaining experience, can be promoted to senior fitter or team leader. They can also open independent clinics or shift to fields such as hearing rehabilitation training and hearing aid technology development.
+
+**Tasks most exposed to AI:**
+
+- Standard pure tone audiometry and automatic threshold detection
+- Preliminary Hearing Aid Selection Recommendations (Based on Audiogram Matching)
+- Organize and perform simple analysis of customer follow-up data
+- Inventory management and order processing
+- Generation and archiving of hearing reports
+
+**Where AI augments the role:**
+
+- Use AI hearing diagnostic tools to improve testing accuracy and efficiency
+- Hearing aid parameters are optimized and debugged through AI simulation
+- AI-based remote follow-up and patient adherence monitoring
+- AI-assisted auditory rehabilitation training plan design
+- Automatically generate medical records with the help of natural language processing
+
+**Human moat:**
+
+- Face-to-face patient communication and empathy
+- Clinical judgment during personalized hearing aid tuning
+- Comprehensive diagnosis of complex hearing loss cases
+- Legal compliance with ethical responsibility and prescription rights
+- Patient education and long-term rehabilitation guidance
+
+**Skills to build:**
+
+- Operation of AI-assisted hearing diagnostic tools (such as Audioscan, Bose AI debugging platform).
+- Remote hearing services and telehealth platform use
+- Basic programming and data analysis (Python/R for listening data visualization)
+- Electronic medical records and medical AI software operation
+- Interdisciplinary collaboration (communication with ENT and geriatricians)
+- Continuously study updates on French national listening regulations
+
+**Key growth areas:**
 
 - Aging population
 - Hearing healthcare
@@ -65,69 +101,68 @@ Audioprothesists assess hearing loss, select, fit, and dispense hearing aids, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passport Talent - Pr（Talent Passport - Medical and paramedical profession） | 适用于持有法国认可文凭的医疗辅助专业人员，有效期4年，可续签，允许家庭团聚 |
-| Subclass Salarié（Salaried employee visa） | 若获得法国雇主工作合同，可申请受雇工作签证，需满足薪资条件 |
-| Subclass Recherche d'emploi /（Job search / Business creation visa） | 毕业生可申请1年求职签证，找到工作后转为工作签证 |
+| Subclass Passport Talent - Pr (Talent Passport - Medical and paramedical profession) | Suitable for medical support professionals holding a French-recognized diploma, valid for 4 years, renewable and allowing family reunification |
+| Subclass Salarié (Salaried employee visa) | If you obtain a French employer work contract, you can apply for an employment work visa, which must meet the salary requirements |
+| Subclass Recherche d'emploi / (Job search / Business creation visa) | Graduates can apply for a 1-year job-seeking visa, which can be converted to a work visa after finding a job |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Audiologist (Hearing Aid Dispenser)？**
-- 对听力健康有热情，具备耐心和沟通能力
-- 喜欢技术操作与客户服务结合的工作
-- 寻求稳定、受规管医疗职业的人
-
-**谁不适合学Audiologist (Hearing Aid Dispenser)？**
-- 不擅长精细手工操作或电子设备调试
-- 对重复性客户咨询感到厌倦
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about hearing health, with patience and communication skills
+- Enjoys work that combines technical operations with customer service
+- Those seeking a stable, regulated healthcare profession
+
+**Who is not suited**
+- Not skilled in fine manual operations or debugging electronic devices
+- Tired of repetitive client consultations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a hearing aid dispenser?**
+A: Junior fitters earn about 28,000-35,000 euros annually, intermediate fitters 35,000-45,000 euros, and senior or independent practitioners can earn 45,000-65,000 euros. Salaries are influenced by the workplace (public/private) and experience.
+
+**Q: How can non-EU individuals immigrate to France to become hearing aid fitters?**
+A: Non-EU diplomas must pass the reconnaissance des qualifications (reconnaissance des qualifications) accreditation by the French Ministry of Health (ARS) to assess equivalence. Afterwards, you can apply for a Passeport Talent Passport or Salarié Employment Visa. French must be at least B2 level.
+
+**Q: What diplomas are required for hearing aid fitters?**
+A: You must hold a National Hearing Aid Fitter Diploma (DE), and admission requires a BTS Hearing Aid Technician Diploma. Non-EU certificates require qualification certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Audiologist (Hearing Aid Dispenser)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an audioprothesist?**
-答：Entry-level salary is €28,000-€35,000, mid-level €35,000-€45,000, and senior or self-employed can reach €45,000-€65,000 annually, depending on employer and experience.
-
-**问：How can non-EU nationals immigrate to France as audioprothesists?**
-答：Non-EU diplomas must undergo recognition of qualifications by the French ARS. After equivalence, apply for a Talent Passport or Salarié visa. French language B2 is required.
-
-**问：What diplomas are required for audioprothesists?**
-答：A mandatory state diploma (DE) in audioprosthesis is required, preceded by a BTS in hearing aid technology. Non-EU qualifications must undergo recognition.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

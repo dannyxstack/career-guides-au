@@ -1,59 +1,95 @@
-# Zoologist（Zoologist）职业分析 · 新西兰
+# Zoologist — career analysis · New Zealand
 
-**职业代码：234522 – Zoologist。**
+**Occupation code: 234522 (ANZSCO)**
 
-Zoologists study animal behavior, ecology and conservation. This occupation is on New Zealand's Green List, offering a clear path to residence via Tier 1.
+Zoologists study animal behaviour, ecology and conservation. This occupation is on New Zealand's Green List, allowing direct residence application via Tier 1, with a clear migration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$40,000（国际生学费，年） |
-| 硕士 | 1-2年 | $35,000~$50,000（国际生学费，年） |
+| Bachelor's degree | 3 years | $30,000~$40,000 (International student tuition, per year) |
+| Master's degree | 1-2 years | $35,000~$50,000 (International student tuition, per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 理学学士（动物学方向） | 新西兰大学 | 必备 | 受雇主要求，学士学位为基本门槛 |
-| 硕士学位 | 新西兰大学 | 可选 | 高级职位和研究岗位常见要求 |
-| 雅思（学术类）总分6.5 | IDP/British Council | 必备 | 技术移民英语要求 |
+| Bachelor of Science (Zoology) | New Zealand universities | Required | As required by employers, a bachelor's degree is the basic threshold |
+| IELTS (Academic) overall 6.5. | IDP/British Council | Required | English language requirements for skilled migration |
+| Master's degree | New Zealand universities | Optional | Common requirements for senior and research positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 600。新西兰对动物学家的需求稳定，尤其在环保、农业和生物安全领域。就业前景看好，但职位数量有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 600. Demand for zoologists in New Zealand is stable, especially in environmental protection, agriculture, and biosecurity. Job prospects are favorable but positions are limited with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 研究助理或技术员 |
-| 中级（3-7年） | $70,000~$90,000 | 科学家或项目经理 |
-| 高级（7年+） | $100,000~$120,000 | 首席科学家或部门主管 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Research Assistant or Technician |
+| Mid-level (3–7 years) | $70,000~$90,000 | Scientist or project manager |
+| Senior (7+ years) | $100,000~$120,000 | Chief scientist or department head |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从研究助理或技术员起步，积累经验后可晋升为高级科学家、项目主管或部门经理。也可转向学术或咨询方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
+
+Typically start as research assistants or technicians, and with experience can advance to senior scientist, project supervisor, or department manager. Can also transition to academia or consulting.
+
+**Tasks most exposed to AI:**
+
+- Automated classification and preliminary analysis of large-scale wildlife monitoring data (e.g., camera trap image recognition)
+- Automated recording and organization of basic experimental data (e.g., behavioral observations, gene sequencing)
+- Literature review and information extraction; AI can quickly summarize relevant research findings.
+- Model building and statistical analysis, such as automatic fitting of population dynamics models
+- Generation of draft reports, AI can produce standardized descriptions from data
+
+**Where AI augments the role:**
+
+- Improve habitat assessment efficiency and accuracy through AI-driven remote sensing image analysis
+- Uses machine learning models to predict disease transmission pathways and assist in formulating intervention strategies.
+- Using natural language processing technology to quickly retrieve and integrate interdisciplinary literature
+- Using AI to simulate the impact of different management plans on populations to optimize decisions
+- Achieving more efficient field data collection through voice recognition and sensor technology
+
+**Human moat:**
+
+- Adaptive judgment and emergency response capabilities in field research
+- Communicate and coordinate conservation actions with local communities, policymakers, and other stakeholders
+- Intuitive understanding of complex ecosystem dynamics and interdisciplinary comprehensive insights
+- Subtle observation and interpretation in animal behavior research requiring long-term experience accumulation
+- Ethical decision-making and trade-offs in animal welfare (e.g., pros and cons of interventions)
+
+**Skills to build:**
+
+- Remote sensing and GIS spatial analysis (e.g., rasterio/geopandas in Python)
+- Machine learning and statistical modeling (e.g., caret in R or scikit-learn in Python)
+- Application of AI image/audio recognition tools (e.g., Wildbook, BirdNET)
+- Data visualization and communication (e.g., R Shiny, Tableau)
+- Field techniques (e.g., drone operation, biosensor deployment)
+- Scientific Writing and Interdisciplinary Collaboration Skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Zoologists study animal behavior, ecology and conservation. This occupation is o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，要求Job Offer且职业在Green List Tier 1 |
-| Subclass SMC（Skilled Migrant Category Residence Visa） | 技术移民类别，6分制，需满足薪资和学历要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可作为移民过渡 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, requiring a job offer and the occupation must be on the Green List Tier 1 |
+| Subclass SMC (Skilled Migrant Category Residence Visa) | Skilled migration category, 6-point system, must meet salary and education requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa can serve as immigration transition |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Zoologist？**
-- 热爱动物和自然，有较强的科研能力
-- 能适应野外工作，动手能力强
-- 希望在环保领域贡献并定居新西兰
-
-**谁不适合学Zoologist？**
-- 对野外生活或动物研究无兴趣
-- 不愿承受较长的学业投入
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about animals and nature, with strong research capabilities
+- Able to adapt to field work, strong hands-on skills
+- Aspiring to contribute in the environmental field and settle in New Zealand
+
+**Who is not suited**
+- No interest in fieldwork or animal research
+- Unwilling to endure a long educational commitment
+
+---
+
+## 8. FAQ
+
+**Q: Are zoologists paid well in New Zealand?**
+A: Entry-level around NZD 55,000-65,000, senior can reach over NZD 100,000, above average level.
+
+**Q: Can zoologists immigrate via the Green List?**
+A: Yes, zoologists are on Green List Tier 1; with a job offer, they can directly apply for residence.
+
+**Q: What qualifications are needed to become a zoologist?**
+A: Typically requires at least a bachelor's degree in zoology or a related field; a master's degree is more favorable for career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Zoologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is zoologist salary high in NZ?**
-答：Entry-level around NZD 55k-65k, senior up to 100k+, moderately high.
-
-**问：Can zoologists migrate via Green List?**
-答：Yes, zoologist is on Green List Tier 1, eligible for Straight to Residence with a job offer.
-
-**问：What education is needed to become a zoologist?**
-答：At least a bachelor's degree in zoology or related field; a master's is beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

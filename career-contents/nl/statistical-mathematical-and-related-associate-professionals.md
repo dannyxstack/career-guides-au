@@ -1,60 +1,96 @@
-# Statistical, Mathematical and Related Associate Professionals（Statistical, Mathematical and Related Associate Professionals）职业分析 · NL
+# Statistical, Mathematical and Related Associate Professionals — career analysis · Netherlands
 
-**职业代码：3314 – Statistical, Mathematical and Related Associate Professionals。**
+**Occupation code: 3314 (ISCO08)**
 
-In the Netherlands, these professionals collect data, perform statistical analysis, and develop mathematical models to support research, market analysis, and policy decisions.
+In the Netherlands, this occupation mainly involves data collection, statistical analysis, and mathematical modelling to support research, market studies, and government decision-making.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $12,000~$15,000（欧盟学生学费约€2,200，非欧盟约€12,000-15,000） |
-| 硕士 | 1-2年（硕士） | $15,000~$20,000（非欧盟学生学费约€15,000-20,000） |
+| Bachelor's degree | 4 years (bachelor's degree) | $12,000~$15,000 (EU student tuition approx. €2,200, non-EU approx. €12,000-15,000) |
+| Master's degree | 1-2 years (Master's) | $15,000~$20,000 (Non-EU student tuition is approximately €15,000-20,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计学或数学学士学位 | 荷兰应用科技大学或研究型大学 | 必备 | 通常要求具有相关领域学士学位 |
-| 数据分析认证 | 行业协会或商业机构 | 可选 | 如SAS认证或Google数据分析证书，非强制但有助于就业 |
+| Bachelor's degree in Statistics or Mathematics | Dutch universities of applied sciences or research universities | Required | Usually requires a bachelor's degree in a related field |
+| Data analysis certification | Industry association or business organisation | Optional | Certifications like SAS or Google Data Analytics are not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。随着大数据和人工智能的普及，荷兰对统计和数据分析人才需求持续增长，尤其在科技、金融和公共部门。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. With the rise of big data and artificial intelligence, demand for statistical and data analysis talent continues to grow in the Netherlands, especially in tech, finance, and the public sector.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $67,382 | Median salary (official: CBS median hourly wage €34.1/hour × 1976h annualized, BRC group 0412 Financial specialists and economists; P25–P75 €50,783–€91,489, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从助理数据分析师晋升为高级数据分析师或数据科学家，也可转向管理岗位，如数据团队主管。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve data processing efficiency for statistical and mathematical assistant professionals, but will also compress entry-level statistical analysis and report generation positions, requiring a shift toward more complex modeling and interpretive work.
+
+Can progress from assistant data analyst to senior data analyst or data scientist, or move to management roles such as data team lead.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, outlier detection).
+- Automated execution and reporting of standard statistical tests (e.g., t-tests, chi-square tests)
+- Automatic building and tuning of basic predictive models (e.g., linear regression)
+- Routine data visualization chart generation
+- Repetitive data queries and summarization
+
+**Where AI augments the role:**
+
+- Development and validation of complex statistical models (e.g., mixed-effects models, Bayesian analysis)
+- Discover unexpected patterns from data and generate testable hypotheses
+- Design experimental plans and sampling strategies to minimize bias
+- Translate analysis results into business decision recommendations and communicate with stakeholders.
+- Using AutoML platforms to rapidly iterate multiple models and interpret results
+
+**Human moat:**
+
+- Understand business context and ask the right research questions
+- Creative integration of unstructured, multi-source heterogeneous data
+- Communicating statistical uncertainty and limitations
+- Ethical judgment and bias identification (e.g., algorithmic fairness)
+- Domain-specific model interpretation and validation
+
+**Skills to build:**
+
+- Advanced statistical modeling in Python/R (e.g., causal inference, time series)
+- Use AutoML tools (such as H2O, AutoML) to improve efficiency
+- Data visualization and storytelling (e.g., Tableau, D3.js)
+- Machine learning fundamentals and ensemble methods (e.g., XGBoost, random forest)
+- Statistical programming and version control (Git)
+- Domain knowledge (e.g., finance, healthcare, market research)
+
+**Key growth areas:**
 
 - Data Science
 - Big Data
@@ -63,69 +99,68 @@ In the Netherlands, these professionals collect data, perform statistical analys
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有工作合同的高技能移民，收入门槛约€5,008/月（30岁以上）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，收入门槛约€5,694/月，可携家属。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的留学生或特定大学毕业的硕士，可找工作一年。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants with a work contract, income threshold approximately €5,008/month (over 30 years old). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, with an income threshold of approximately €5,694/month, and can bring family members. |
+| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated in the Netherlands or master's graduates from specific universities, allowing a one-year job search. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statistical, Mathematical and Related Associate Professionals？**
-- 喜欢数字和数据分析的人
-- 有逻辑思维和解决问题能力的人
-- 希望进入数据科学领域的新人
-
-**谁不适合学Statistical, Mathematical and Related Associate Professionals？**
-- 不擅长数学和统计的人
-- 不喜欢长时间面对电脑和数据的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like numbers and data analysis
+- People with logical thinking and problem-solving skills
+- Newcomers looking to enter data science
+
+**Who is not suited**
+- People not good at math and statistics
+- People who dislike spending long hours in front of a computer and dealing with data
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for statistical assistant professionals in the Netherlands?**
+A: Entry-level annual salary approx. €35,000-€45,000, mid-level approx. €45,000-€60,000, senior up to €80,000.
+
+**Q: Which visas are suitable for foreigners pursuing this occupation?**
+A: Common pathways: Highly Skilled Migrant, EU Blue Card, and Orientation Year for graduates.
+
+**Q: What educational background is needed for this occupation?**
+A: A bachelor's degree in statistics, mathematics, or a related field is typically required; a master's degree is more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Statistical, Mathematical and Related Associate Professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for statistical associate professionals in the Netherlands?**
-答：Entry-level salary is around €35,000-€45,000, mid-level €45,000-€60,000, and senior up to €80,000 per year.
-
-**问：Which visas are suitable for foreigners working in this occupation?**
-答：Common routes: Highly Skilled Migrant, EU Blue Card, and Orientation Year for graduates.
-
-**问：What educational background is required for this occupation?**
-答：Usually a bachelor's degree in statistics, mathematics, or related field; a master's degree is more competitive.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

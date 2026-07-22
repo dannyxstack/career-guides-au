@@ -1,59 +1,95 @@
-# Visual Artists（Visual Artists）职业分析 · ES
+# Visual Artists — career analysis · Spain
 
-**职业代码：2931 – Visual Artists。**
+**Occupation code: 2931 (CNO)**
 
-Visual artists include painters, sculptors, printmakers, etc., engaged in original art creation, exhibition, and sale of works. Often self-employed or employed by galleries and cultural institutions.
+Visual artists include painters, sculptors, printmakers, and others engaged in original art creation, exhibition, and sales of works. Usually freelancing or employed by galleries and cultural institutions.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $800~$1,500（公立大学每学分约12-35欧元，年学费约800-1500欧元） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $400~$600（公立FP中心年学费约400-600欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $800~$1,500 (Public universities cost about 12-35 euros per credit, with annual tuition around 800-1500 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $400~$600 (The annual tuition fee for public FP centers is about 400-600 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美术本科学位 | 公立/私立大学 | 可选 | 通常要求，但非强制 |
+| Bachelor's degree in Fine Arts | Public/private universities | Optional | Usually required, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 35,000。西班牙视觉艺术市场以马德里和巴塞罗那为核心，但就业竞争激烈，收入不稳定。公共文化预算有限，私人收藏和旅游艺术品需求提供一定机会。数字化艺术和NFT市场带来新增长点。
+**Job demand: low (★½☆☆☆).** National workforce approx. 35,000. The Spanish visual arts market centers around Madrid and Barcelona, but competition for jobs is fierce and income is unstable. Limited public cultural budgets, private collections, and demand for tourist artworks provide certain opportunities. The digital art and NFT markets are bringing new growth opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$24,000 | 收入不稳定，多为自由职业 |
-| 中级（3-7年） | $24,000~$40,000 | 已有画廊代理或稳定销售渠道 |
-| 高级（7年以上） | $40,000~$80,000 | 国际知名艺术家或大型公共项目合作 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$24,000 | Income is unstable, mostly freelancing |
+| Mid-level (3–7 years) | $24,000~$40,000 | Existing gallery agents or stable sales channels |
+| Senior (7+ years) | $40,000~$80,000 | Collaborations with internationally renowned artists or large public projects |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展通常从独立创作起步，逐步进入画廊代理、艺术博览会或公共艺术项目。积累声誉后可转向策展、艺术教育或艺术顾问。少数顶尖艺术家获得国际认可。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The originality of visual artists is difficult to fully replace by AI, but the automation of image generation and design will challenge commercial creation, intensifying competition at the start of entry, and proactively integrating AI tools to improve efficiency and creative boundaries.
+
+Career development usually begins with independent creation and gradually moves into gallery representation, art fairs, or public art projects. After building a reputation, you can move into curating, art education, or art consulting. A handful of top artists have gained international recognition.
+
+**Tasks most exposed to AI:**
+
+- Commercial illustration and basic graphic design
+- Batch generation of creative sketches and color schemes
+- Repetitive texture fills in digital painting
+- Social media image generation and advertising visuals
+- Artwork reproduction and partial retouching
+
+**Where AI augments the role:**
+
+- Explore innovative styles and compositions through generative adversarial networks
+- Rapidly iterate concept art and storyboards with AI
+- Leverage AI to analyze audience preferences and optimize exhibition planning
+- Use AI to assist in creating large-scale public art projects
+- Combining machine learning to create interactive digital artworks
+
+**Human moat:**
+
+- Original concepts and artistic philosophy expression
+- A subtle grasp of cultural context and emotional depth
+- The unique texture and irreparably crafted craftsmanship
+- Building interpersonal trust with curators and collectors
+- Live improvisation and performing arts
+
+**Skills to build:**
+
+- Midjourney/DALL· and other generative AI tools
+- Digital Sculpture and 3D Modeling (Blender/ZBrush)
+- AI art ethics and copyright law knowledge
+- Cross-media fusion (projection mapping, sensor interaction)
+- Social media operations and personal branding
+- Python scripts automate workflows
+
+**Key growth areas:**
 
 - Digital Art
 - NFT Market
@@ -62,65 +98,67 @@ Visual artists include painters, sculptors, printmakers, etc., engaged in origin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于画廊、文化机构等，需雇主担保，符合最低薪资要求。 |
-| Subclass Cuenta propia（Self-Employed Work Permit） | 适用于自由职业艺术家，需证明经济能力和专业背景。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed by galleries, cultural institutions, etc., requiring employer sponsorship and meeting minimum wage requirements. |
+| Subclass Cuenta propia (Self-Employed Work Permit) | Applicable to freelance artists, who must demonstrate financial capability and professional background. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Visual Artists？**
-- 有强烈创作热情和独特艺术视角的人
-- 能接受收入不稳定并自我营销的人
-- 愿意持续学习新技术（如数字艺术）的人
+**Who is suited**
+- People with a strong passion for creation and a unique artistic perspective
+- People who can accept unstable income and self-market
+- People willing to continuously learn new technologies such as digital art
 
-**谁不适合学Visual Artists？**
-- 追求稳定收入和职业保障的人
-- 不喜欢独立工作和自我推广的人
+**Who is not suited**
+- People seeking stable income and job security
+- People who dislike working independently and promoting themselves
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of visual artists in Spain?**
+A: Income varies greatly, junior about €15,000-24,000/year, mid-level €24,000-40,000, senior can reach €40,000-80,000. However, most artists have unstable income, relying on artwork sales and commissions.
+
+**Q: Can foreign visual artists immigrate to Spain?**
+A: It is more difficult because the art industry is not a sought-after profession and is mostly freelancing. You may attempt a self-employment work permit, which requires proof of financial capability, professional achievements, and suitability for the Spanish market. EU citizens enjoy free movement.
+
+**Q: What are the career prospects for visual artists in Spain?**
+A: The outlook is moderate and highly competitive, but the digitalization and NFT markets offer new opportunities. Building a personal brand and network is crucial, and public art projects and cultural tourism also provide platforms for showcasing works.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Visual Artists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for visual artists in Spain?**
-答：Income varies widely: entry-level €15k-24k, mid-level €24k-40k, senior €40k-80k per year. However, most artists have unstable income depending on sales and commissions.
-
-**问：Can foreign visual artists immigrate to Spain?**
-答：It is difficult as the art sector is not a shortage occupation and is mostly self-employed. One can apply for a self-employment work permit, requiring proof of financial means, professional achievements, and market feasibility. EU citizens enjoy free movement.
-
-**问：What are the career prospects for visual artists in Spain?**
-答：Moderate prospects: competition is fierce, but digital art and NFTs offer new opportunities. Building a personal brand and network is essential; public art projects and cultural tourism also provide exhibition platforms.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Mechanical Engineering Technician（Mechanical Engineering Technician）职业分析 · IE
+# Mechanical Engineering Technician — career analysis · Ireland
 
-**职业代码：3115 – Mechanical Engineering Technician。**
+**Occupation code: 3115 (ISCO08)**
 
-Assist mechanical engineers in design, manufacturing, testing, and maintenance of mechanical systems, including CAD drafting, equipment setup, and troubleshooting.
+Under the guidance of a mechanical engineer, provide technical support for mechanical design, manufacturing, testing, and maintenance, involving CAD drawing, equipment debugging, and troubleshooting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等证书/文凭 | 2年（高级证书） | $4,000~$8,000（学费因院校而异） |
-| 本科（荣誉学士） | 4年（本科） | $10,000~$20,000（学费因院校而异） |
+| Advanced Certificate/Diploma | 2 years (Advanced Certificate) | $4,000~$8,000 (Tuition fees vary by institution) |
+| Bachelor's (Honours) degree | 4 years (bachelor's degree) | $10,000~$20,000 (Tuition fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家高级文凭（机械工程） | 爱尔兰技术大学 | 可选 | 常见入职资格 |
-| Safe pass 安全培训证书 | FAS/SOLAS | 必备 | 施工现场必备 |
+| Safe pass safety training certificate | FAS/SOLAS | Required | Essential on construction sites |
+| National Advanced Diploma (Mechanical Engineering) | Technological University Dublin | Optional | Common entry qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,200。爱尔兰在可再生能源、制药和医疗设备领域投资增加，带动机械工程技术员需求稳定增长。预计未来五年职位增长约8%，主要集中在制造业和工程咨询领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,200. Increased investment in renewable energy, pharmaceuticals, and medical devices in Ireland is driving steady demand for mechanical engineering technicians. Expected job growth of about 8% over the next five years, mainly in manufacturing and engineering consulting.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级技术员晋升为高级技术员、团队主管，或通过深造成为机械工程师。也可向项目管理或专业领域（如HVAC、自动化）发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Entry-level positions for mechanical engineering technicians are being significantly reduced by AI automation. Repetitive design verification and document generation tasks face replacement risks, but on-site debugging and cross-physical system collaboration still preserve opportunities for humans.
+
+Can progress from junior technician to senior technician, team supervisor, or become a mechanical engineer through further study. Also possible to move into project management or specialized fields such as HVAC or automation.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate 2D engineering drawings and tolerance annotations from 3D models
+- Automatically run finite element analysis based on design parameters and generate standard reports
+- Using natural language queries to knowledge bases for fault diagnosis, replacing manual troubleshooting by junior technicians
+- Automatically write equipment operation maintenance manuals and inspection process documents
+
+**Where AI augments the role:**
+
+- AI-assisted motion interference checks and optimization suggestions for complex assemblies
+- Monitor production line equipment status in real-time via computer vision and perform predictive maintenance.
+- Uses generative design to explore multiple lightweight solutions and rapidly iterate
+- Digital twin platform integrated with AI simulation accelerates prototype verification processes
+
+**Human moat:**
+
+- Installation and commissioning of on-site equipment, and emergency judgment under abnormal conditions
+- Collaborative communication with mechanical engineers, electricians, and operators
+- Manual repair and modification of non-standard, failed, or outdated equipment
+- Intuitive experience understanding physical constraints and manufacturing processes
+
+**Skills to build:**
+
+- Digital twin and simulation software (e.g., ANSYS Twin Builder)
+- Generative design tools (e.g., nTopology)
+- Industrial IoT and Edge Computing fundamentals
+- Python programming for automated data analysis and API integration
+- Collaborative robot (cobot) integration and debugging
+- Additive manufacturing (3D printing) process design and post-processing
+
+**Key growth areas:**
 
 - Renewable Energy
 - Pharmaceutical
@@ -61,65 +94,64 @@ Assist mechanical engineers in design, manufacturing, testing, and maintenance o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺技能职业，年薪需超过32000欧元，可快速获得永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺技能职业，需通过劳动力市场测试，年薪一般不低于30000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需超过约36000欧元，可携带家属。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to shortage skill occupations, annual salary must exceed €32,000, fast track to permanent residency. |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage skilled occupations, requires labour market test, annual salary generally not less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, annual salary must exceed about €36,000, can bring family members. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineering Technician？**
-- 动手能力强，喜欢解决机械问题
-- 有工程制图和CAD基础
-- 愿意在制造或能源行业发展
-
-**谁不适合学Mechanical Engineering Technician？**
-- 缺乏耐心，讨厌重复性技术工作
-- 对安全规程和细节不敏感
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on with strong problem-solving skills for mechanical issues
+- Has engineering drawing and CAD basics.
+- Willing to develop a career in the manufacturing or energy industry
+
+**Who is not suited**
+- Lacks patience; dislikes repetitive technical work
+- Insensitive to safety regulations and details
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a mechanical engineering technician in Ireland?**
+A: Junior: approximately €28,000–35,000; mid-to-senior: up to €45,000–60,000; experienced: annual salary can exceed €60,000.
+
+**Q: What visas can mechanical engineering technicians use to immigrate to Ireland?**
+A: Can apply for Critical Skills Employment Permit (shortage occupation list), General Employment Permit, or EU Blue Card, subject to salary and education requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Mechanical Engineering Technician in Ireland?**
-答：Entry-level around €28,000-€35,000, mid-level €35,000-€45,000, senior up to €45,000-€60,000 per year.
-
-**问：What visa options are available for Mechanical Engineering Technicians to immigrate to Ireland?**
-答：Options include Critical Skills Employment Permit (if on shortage list), General Employment Permit, or EU Blue Card, subject to salary and qualification requirements.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

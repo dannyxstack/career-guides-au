@@ -1,58 +1,94 @@
-# Public Relations Professional（Public Relations Professional）职业分析 · 澳大利亚
+# Public Relations Professional — career analysis · Australia
 
-**职业代码：225311 – Public Relations Professional。**
+**Occupation code: 225311 (ANZSCO)**
 
-Public Relations Professionals manage communication between organizations and the public, develop PR strategies to protect brand image, and handle media relations and crisis communication.
+Public Relations Officers manage communication between the organization and the public, develop PR strategies to maintain brand image, handle media relations and crisis communications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（澳洲本科年均学费 AUD 30,000-45,000） |
-| 硕士 | 1.5-2年 | $35,000~$50,000（硕士年均学费 AUD 35,000-50,000） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual undergraduate tuition in Australia AUD 30,000-45,000) |
+| Master's degree | 1.5-2 years | $35,000~$50,000 (Master's annual tuition AUD 35,000–50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公关/传播/新闻学士学位 | 澳洲大学 | 可选 | 多数雇主要求相关本科学位 |
-| PRIA 会员资格 | 澳洲公共关系协会(PRIA) | 可选 | 可提升专业认可度，非强制但推荐 |
+| Bachelor's degree in PR/communications/journalism | Australian universities | Optional | Most employers require a relevant bachelor's degree |
+| PRIA membership | Public Relations Institute of Australia (PRIA) | Optional | Can enhance professional recognition, not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 22,000。澳洲公关行业就业稳步增长，数字媒体与社交平台推动需求。企业重视品牌声誉和危机管理，尤其在金融、科技与政府领域。
+**Job demand: high (★★★★☆).** National workforce approx. 22,000. Employment in Australia's PR industry is growing steadily, driven by digital media and social platforms. Companies value brand reputation and crisis management, especially in finance, technology, and government sectors.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 含奖金及补贴 |
-| 中级（3-7年） | $75,000~$95,000 | 含奖金 |
-| 高级（7年以上） | $100,000~$140,000 | 含奖金及管理职责 |
+| Median salary | $106,392 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Including bonuses and allowances |
+| Mid-level (3–7 years) | $75,000~$95,000 | Including bonus |
+| Senior (7+ years) | $100,000~$140,000 | Includes bonuses and managerial responsibilities |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径：助理/专员 → 公关经理 → 公关总监/合伙人。可转向市场营销、品牌管理或咨询岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is taking over basic PR tasks like copywriting and media monitoring on a large scale, but core functions like strategic communication, crisis management, and relationship maintenance are amplified, requiring practitioners to upgrade from executors to strategists.
+
+Career progression: Assistant/Specialist → PR Manager → PR Director/Partner. Can transition to marketing, brand management, or consulting roles.
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting basic press releases and media statements
+- Media monitoring and influence report generation
+- Social media content scheduling and automatic posting
+- Standardized responses to common media inquiries
+- Batch sending of event invitation letters and follow-up emails
+
+**Where AI augments the role:**
+
+- Using AI for media sentiment analysis and trend prediction
+- Optimizing social media ad placement and audience targeting through AI
+- Use AI to generate multiple versions of copy and conduct A/B testing
+- Quickly generate crisis simulation scenarios and response plans using AI tools
+- Develop personalized communication strategies through AI analysis of audience data.
+
+**Human moat:**
+
+- Complex stakeholder relationship management and trust building
+- On-the-spot judgment and impromptu expression in crisis communication
+- Long-term brand strategy planning and cross-department coordination
+- Design creative communication solutions for ambiguous problems
+- Internal communications requiring confidentiality or high sensitivity
+
+**Skills to build:**
+
+- Proficient in using tools like GPTs for copy editing and generating multiple versions
+- Learn basics of natural language processing to understand AI reports
+- Proficient in social media analytics tools (e.g., Brandwatch)
+- Develop data interpretation and visualization skills
+- Improve cross-cultural communication and strategic thinking
+- Familiar with AI-driven public opinion monitoring platforms
+
+**Key growth areas:**
 
 - digital PR
 - social media management
@@ -61,66 +97,65 @@ Public Relations Professionals manage communication between organizations and th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于MLTSSL职业，可独立技术移民，无需担保 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，各州对公关专员有不同要求 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保工作签证，可转186永居 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保或亲属担保，转191永居 |
+| Subclass 189 (Skilled Independent Visa) | Applicable for occupations on MLTSSL, eligible for independent skilled migration without sponsorship |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination, with varying requirements for Public Relations Professionals across states |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored work visa, can transition to 186 permanent residency |
+| Subclass 491 (Skilled Work Regional Visa) | Regional state sponsorship or family sponsorship, transition to 191 permanent residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Professional？**
-- 创意丰富、沟通能力强的人士
-- 对品牌管理和危机处理有兴趣者
-- 适应快节奏工作、抗压能力强者
-
-**谁不适合学Public Relations Professional？**
-- 不喜欢频繁与人沟通或公开演讲
-- 无法应对突发危机和高强度工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong creativity and communication skills
+- Interested in brand management and crisis handling
+- Those who adapt well to fast-paced work and handle stress
+
+**Who is not suited**
+- Dislikes frequent communication or public speaking
+- Unable to handle sudden crises and high-intensity work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for public relations specialists in Australia?**
+A: Entry-level approximately AUD 55,000-70,000, mid-level AUD 75,000-95,000, senior AUD 100,000-140,000, management roles can exceed AUD 150,000.
+
+**Q: Which Australian skilled migration visas can public relations officers apply for?**
+A: Public Relations Officer is on the MLTSSL, eligible for 189/190/482/491 visas. It is recommended to obtain a skills assessment (VETASSESS) and achieve IELTS 4 bands of 7.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Public Relations Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for PR professionals in Australia?**
-答：Entry-level AUD 55k-70k, mid-level AUD 75k-95k, senior AUD 100k-140k, management roles exceed AUD 150k.
-
-**问：Which skilled migration visas can PR professionals apply for?**
-答：PR professionals are on MLTSSL, eligible for 189/190/482/491 visas. Skills assessment by VETASSESS and IELTS 7.0 are recommended.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

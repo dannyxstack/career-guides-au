@@ -1,60 +1,96 @@
-# Senior Broadacre Crop and Livestock Farm Worker（Senior Broadacre Crop and Livestock Farm Worker）职业分析 · 澳大利亚
+# Senior Broadacre Crop and Livestock Farm Worker — career analysis · Australia
 
-**职业代码：363115 – Senior Broadacre Crop and Livestock Farm Worker。**
+**Occupation code: 363115 (ANZSCO)**
 
-Senior Broadacre Crop and Livestock Farm Workers supervise and execute crop cultivation, livestock management, and daily farm operations on large-scale farms, including operating agricultural machinery, managing irrigation systems, monitoring crop and livestock health, and coordinating farm teams.
+Senior broadacre crop and livestock farm workers are responsible for supervising and executing crop planting, livestock rearing, and daily farm operations on large farms, including operating agricultural machinery, managing irrigation systems, monitoring crop and livestock health, and coordinating farm team work.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育文凭 | 1年 | $5,000~$15,000（TAFE农业相关课程） |
-| 培训证书 | 3-6个月 | $1,000~$3,000（农业操作证书或短期课程） |
+| Vocational education diploma | 1 year | $5,000~$15,000 (TAFE agriculture-related courses.) |
+| Training certificate | 3-6 months | $1,000~$3,000 (Agricultural operations certificate or short course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业四级证书 | TAFE或注册培训机构 | 可选 | 常见资质，含作物和牲畜管理 |
-| 重型车辆驾照 | 州交通管理局 | 必备 | 操作大型农业机械必备 |
+| Heavy vehicle driving license | State Department of Transportation | Required | Essential for operating large agricultural machinery |
+| Certificate IV in Agriculture | TAFE or registered training organizations | Optional | Common qualifications, includes crop and livestock management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,000。澳洲农业是经济支柱，宽亩农场需求稳定。随着技术应用和出口市场扩大，对熟练管理工人的需求持续存在，尤其在偏远地区。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. Australian agriculture is a pillar of the economy, with steady demand on broad-acre farms. With technology adoption and export market expansion, demand for skilled management workers persists, especially in remote areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪较低，含加班和住宿补贴 |
-| 中级（3-6年） | $55,000~$70,000 | 有经验后收入提升 |
-| 高级（6年以上） | $70,000~$90,000 | 高级主管或经理级 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary is low, including overtime and accommodation subsidies |
+| Mid-level (3–6 years) | $55,000~$70,000 | Income increases with experience |
+| Senior (6+ years) | $70,000~$90,000 | Senior executive or manager level |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从普通农场工人晋升为高级工人后，可进一步成为农场主管或农场经理。积累经验后可转向农业咨询或自主经营农场。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will take over large amounts of data monitoring and clerical work, but on-site operations, equipment maintenance, and emergency decision-making still require humans; overall, risks and opportunities coexist.
+
+After progressing from general farm worker to senior worker, one can further become a farm supervisor or farm manager. With experience, one can transition to agricultural consulting or self-operated farming.
+
+**Tasks most exposed to AI:**
+
+- Manually recording crop growth data and livestock health logs
+- Generate farm production reports and compliance documents
+- Develop irrigation and fertilization schedules based on historical data
+- Basic response to remote monitoring equipment alerts
+- Automated generation of inventory counts and purchase orders
+
+**Where AI augments the role:**
+
+- Optimize planting density and harvest timing using satellite images and sensor data
+- Use AI prediction models to create precision livestock feeding plans
+- Use drones and automatic tractors for efficient patrol and operations.
+- Simulate farm operations under different weather scenarios using digital twins
+- Optimize crop rotation and product mix based on market data and AI recommendations
+
+**Human moat:**
+
+- On-site fault diagnosis and manual repair of complex equipment
+- Critical decision-making during sudden natural disasters.
+- Effective communication and on-site management with seasonal temporary workers
+- Careful observation and experiential judgment of livestock health and behavior
+- Holistic farm management intuition integrating multiple unstructured information sources
+
+**Skills to build:**
+
+- Agricultural data analysis and interpretation
+- Operation of precision agriculture software (e.g., CropX, FarmBot).
+- Automated unmanned agricultural machinery system monitoring and maintenance
+- Basic programming (Python) for automated processing of farm data
+- Digital twin and sensor network deployment basics
+- Environmental compliance and carbon accounting knowledge
+
+**Key growth areas:**
 
 - Broadacre farming
 - Agricultural technology
@@ -63,69 +99,68 @@ Senior Broadacre Crop and Livestock Farm Workers supervise and execute crop cult
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用雇主担保，需有2年相关经验 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保，可转191永居 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 州担保偏远地区签证，需有职业在州担保清单上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, requires 2 years of relevant experience |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | State-nominated regional visa requires occupation on state nomination list |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Senior Broadacre Crop and Livestock Farm Worker？**
-- 喜欢户外工作，能适应偏远地区生活
-- 具备机械操作和基本维修技能
-- 有团队协作和基础管理能力
-
-**谁不适合学Senior Broadacre Crop and Livestock Farm Worker？**
-- 无法承受体力劳动和长时间户外工作
-- 不擅长沟通和团队合作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work, able to adapt to remote area living
+- Possesses mechanical operation and basic maintenance skills
+- Have teamwork and basic management skills
+
+**Who is not suited**
+- Unable to endure physical labor and long hours of outdoor work
+- Poor at communication and teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this job?**
+A: Entry-level salary approx. AUD 45,000-55,000 per year, senior can reach AUD 70,000-90,000. Accommodation allowance or farm housing often provided, wages may be higher in remote areas.
+
+**Q: Is it easy to immigrate to Australia in this occupation?**
+A: This occupation is on the DAMA and regional sponsored list, and can immigrate via 482/494/491 visas. It requires employer sponsorship and over 2 years of experience. Skilled independent migration (189/190) is generally not possible.
+
+**Q: What qualifications or certificates are needed?**
+A: Typically requires agricultural vocational certificates (e.g., Certificate IV in Agriculture) and heavy vehicle license. University degree not required, but relevant short courses or TAFE diploma helps.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Senior Broadacre Crop and Livestock Farm Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this job?**
-答：Entry-level salary is around AUD 45,000-55,000 per year, and senior workers can earn AUD 70,000-90,000. Accommodation allowances or farm housing are often provided, and wages may be higher in remote areas.
-
-**问：Is it easy to migrate to Australia with this occupation?**
-答：This occupation is on DAMA and regional sponsorship lists. You can migrate via 482/494/491 visas but need employer sponsorship and 2+ years of experience. Independent skilled migration (189/190) is generally not available.
-
-**问：What education or certificates are required?**
-答：Usually a vocational certificate in agriculture (e.g., Certificate IV in Agriculture) and a heavy vehicle license are required. A university degree is not necessary, but short courses or TAFE diplomas are beneficial.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

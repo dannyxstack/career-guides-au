@@ -1,59 +1,95 @@
-# Arts Administrator or Manager（Arts Administrator or Manager）职业分析 · 新西兰
+# Arts Administrator or Manager — career analysis · New Zealand
 
-**职业代码：139911 – Arts Administrator or Manager。**
+**Occupation code: 139911 (ANZSCO)**
 
-Arts administrators or managers plan, organize, and direct the operations of arts organizations or projects, including budgeting, fundraising, marketing, and team management. This occupation is eligible for migration via the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but not on the Green List.
+Arts administrators or managers plan, organize, and direct the operations of arts institutions or projects, including budgeting, fundraising, marketing, and team management. This occupation can lead to immigration in New Zealand via the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV) pathways but is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（新西兰大学艺术管理或相关专业，国际生学费约30,000-45,000 NZD/年） |
-| 硕士学位 | 1-2年 | $35,000~$50,000（艺术管理硕士，国际生学费约35,000-50,000 NZD/年） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (University of New Zealand studies in arts management or related fields; international student tuition approx. 30,000-45,000 NZD/year) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Master of Arts Management, international student tuition approx. 35,000-50,000 NZD/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术管理学士/硕士 | 新西兰大学（如奥克兰大学、维多利亚大学） | 可选 | 相关学历可提高就业竞争力 |
-| 项目管理认证 | 项目管理协会（PMI） | 可选 | 非强制，但有助于晋升 |
-| 英语语言能力 | 雅思或托福 | 必备 | 移民要求雅思6.5分或以上 |
+| English language proficiency | IELTS or TOEFL | Required | Immigration requires IELTS score of 6.5 or above |
+| Bachelor's/Master's in Arts Management | New Zealand universities (e.g., University of Auckland, Victoria University of Wellington) | Optional | Relevant qualifications can improve employment competitiveness |
+| Project management certification. | Project Management Institute (PMI) | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。根据新西兰统计局和careers.govt.nz数据，艺术管理职位的就业前景稳定，受文化产业发展推动。预计未来5年岗位增长缓慢，但竞争较为激烈，主要机会在大型艺术机构和地方议会资助的活动中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. According to Statistics New Zealand and careers.govt.nz, employment prospects for arts management positions are stable, driven by the development of the cultural industry. Job growth is expected to be slow over the next 5 years, but competition is strong; major opportunities are in large arts institutions and events funded by local councils.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理角色或小型机构 |
-| 中级（3-7年） | $70,000~$95,000 | 部门经理或中型机构 |
-| 高级（7年以上） | $95,000~$130,000 | 执行总监或大型机构 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant role or small agency |
+| Mid-level (3–7 years) | $70,000~$95,000 | Department manager or medium-sized institution |
+| Senior (7+ years) | $95,000~$130,000 | Executive director or large organization. |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径通常从项目协调员或助理经理开始，逐步晋升为部门经理、执行总监或独立策展人。积累行业经验和建立人际关系网络至关重要，部分从业者可转向咨询或艺术创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Administrative tasks for arts managers (such as scheduling, budgeting, fundraising emails) are being rapidly automated by AI, but curatorial creativity, artist relationship maintenance, and strategic decision-making remain high-value human domains. Overall risk is moderate, with increasing divergence.
+
+Career progression typically starts from project coordinator or assistant manager, gradually advancing to department manager, executive director, or independent curator. Accumulating industry experience and building professional networks is crucial; some practitioners may transition to consulting or arts entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically generate exhibition schedules and resource allocation drafts
+- Automates batch processing of donor emails, fundraising emails, and tracking replies
+- AI analyzes historical data to predict ticket sales and audience flow, replacing manual reports
+- Automated review of standard risk points in contract terms (e.g., insurance, indemnity)
+- Use AI to generate first drafts of social media copy and simple designs
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of audience data to optimize exhibition flow and interactive design
+- Using natural language processing to quickly research artist backgrounds and market trends.
+- AI generates multiple fundraising plans and simulates success rates to assist decision-making
+- Automatically translates multilingual promotional materials to reach international audiences.
+- Automate financial reconciliation and budget monitoring with AI tools, freeing up time for strategic planning
+
+**Human moat:**
+
+- Build deep trust and emotional connection with artists, donors and communities
+- Curatorial creativity and narrative ability: determine the originality of exhibition themes and artwork selection
+- Flexible response to unexpected events (e.g., artist cancellations, venue issues).
+- Strategic negotiation: negotiating non-standard terms with sponsors and government agencies
+- Emotional intelligence for managing diverse teams (volunteers, interns, cross-department coordination)
+
+**Skills to build:**
+
+- Master AI tools for fundraising and marketing (e.g., Persado, Crimson Hexagon)
+- Learn the basics of data analysis (SQL/Tableau) to interpret audience behavior insights.
+- Use AI project management assistants (e.g., Asana AI or Notion AI) to boost efficiency
+- Learn basic finance and budget AI automation tools (e.g., Adaptive Insights)
+- Cultivate digital storytelling and social media strategy skills for the AI era
+- Understanding copyright and AI ethics to ensure compliant use of AI-generated content
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,67 +98,66 @@ Arts administrators or managers plan, organize, and direct the operations of art
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制（学历+工作经验+收入）要求，职业在ANZSCO中属于技能级别1-3 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需获得新西兰认证雇主的job offer，工作满2年可申请居留 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category requiring 6-point system (qualifications + work experience + income), with occupation at ANZSCO skill level 1-3 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires a job offer from a New Zealand accredited employer, eligible for residence after working for 2 years. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Arts Administrator or Manager？**
-- 对艺术和文化有热情，具备组织协调能力
-- 擅长沟通和团队合作，能处理多任务
-- 有营销或财务背景，乐于在创意行业工作
-
-**谁不适合学Arts Administrator or Manager？**
-- 缺乏人际交往技巧，不善于管理团队
-- 对行政和预算工作感到厌倦
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for arts and culture, with organizational and coordination skills
+- Good communication and teamwork skills, able to handle multiple tasks
+- Marketing or finance background, willing to work in the creative industry
+
+**Who is not suited**
+- Lacks interpersonal skills and is not good at managing teams.
+- Feeling tired of administrative and budget work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of an Art Administrator in New Zealand?**
+A: Entry-level approx. 55,000-70,000 NZD, mid-level 70,000-95,000 NZD, senior up to 130,000 NZD, depending on institution size and location.
+
+**Q: Can an art administrator immigrate to New Zealand through Skilled Migrant Category (SMC)?**
+A: Yes, this occupation is Skill Level 1 in ANZSCO, meets the 6-point system requirement (e.g., bachelor's degree + 3 years' work experience scores 6 points), and requires a job offer.
+
+**Q: What are the Employment Prospects for Arts Management Positions in New Zealand?**
+A: Employment prospects are stable but competitive, with major opportunities in cultural institutions and government-funded projects in cities like Auckland and Wellington.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Arts Administrator or Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for an arts administrator in New Zealand?**
-答：Entry-level around NZD 55,000-70,000, mid-level NZD 70,000-95,000, and senior up to NZD 130,000, depending on organization size and location.
-
-**问：Can an arts administrator immigrate to New Zealand through the Skilled Migrant Category (SMC)?**
-答：Yes, this occupation is ANZSCO Skill Level 1 and can meet the 6-point system (e.g., bachelor's degree + 3 years experience = 6 points), requiring a job offer.
-
-**问：What is the job outlook for arts administrator roles in New Zealand?**
-答：The outlook is stable but competitive, with main opportunities in cultural institutions and government-funded projects in Auckland and Wellington.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

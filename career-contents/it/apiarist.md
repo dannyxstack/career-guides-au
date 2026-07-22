@@ -1,60 +1,93 @@
-# Apiarist（Apiarist）职业分析 · IT
+# Apiarist — career analysis · Italy
 
-**职业代码：6123 – Apiarist。**
+**Occupation code: 6123 (ISCO08)**
 
-Apiarists manage bee colonies to produce honey, beeswax, and other products, ensuring bee health and reproduction. In Italy, beekeeping is a key agricultural sector, renowned for high-quality honey.
+Beekeepers manage colonies to produce honey, beeswax, and other products, ensuring bee health and reproduction. In Italy, beekeeping is an important agricultural sector, particularly known for high-quality honey.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 5年（高中） | —（意大利公立学校免费） |
-| 职业培训 | 1-2年 | $2,000~$5,000（私立培训课程费用） |
+| High school diploma | 5 years (high school) | $0~$0 (Italian public schools are free) |
+| Vocational training | 1-2 years | $2,000~$5,000 (private training course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 养蜂课程证书 | 地区农业培训中心 | 可选 | 非强制，但提升技能和就业机会 |
-| 欧盟有机养蜂认证 | 有机认证机构 | 可选 | 出口有机蜂蜜必需 |
+| Beekeeping Course Certificate | Regional agricultural training center | Optional | Not mandatory, but enhances skills and job opportunities |
+| EU organic beekeeping certification | Organic certification body | Optional | Required for exporting organic honey |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 50,000。意大利养蜂业前景稳定，受欧盟有机农业政策支持和本土高端市场需求驱动。但面临气候变化和蜂群疾病挑战，需持续创新管理技术。
+**Job demand: medium (★★½☆☆).** National workforce approx. 50,000. Prospects stable in Italian beekeeping, supported by EU organic agriculture policy and domestic high-end market demand. However challenges from climate change and colony diseases require continuous innovation in management techniques.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 受雇于蜂场或合作社 |
-| 中级（3-7年） | $25,000~$35,000 | 独立蜂场主 |
-| 高级（7年以上） | $35,000~$50,000 | 大型蜂场主或加工企业主 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Employed by a bee farm or cooperative |
+| Mid-level (3–7 years) | $25,000~$35,000 | Independent Beekeeper |
+| Senior (7+ years) | $35,000~$50,000 | Large-scale apiary owner or processing enterprise owner |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 养蜂人可从初级蜂场助理晋升为独立蜂场主，或发展蜂产品加工业务。积累经验后可参与养蜂培训、担任行业顾问，或专注于育种与科研。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall risk for beekeepers is medium-low: AI automation can take over tasks like hive monitoring and yield prediction, but on-site diagnosis and queen rearing rely heavily on human senses and experience, and organic certification and brand premium depend on manual control.
+
+Beekeepers can progress from junior apiary assistant to independent apiary owner, or develop bee product processing businesses. With experience, they can participate in beekeeping training, serve as industry consultants, or focus on breeding and research.
+
+**Tasks most exposed to AI:**
+
+- Uses AI vision system to automatically identify hive health status (e.g., varroa mite infestation) and generate reports
+- Use sensor data to predict nectar flow periods and honey production, replacing manual inspection and record-keeping.
+- Automated honey harvesting line (smart uncapping, centrifugal separation) replacing manual operations
+- Drones automatically inspect large-scale apiaries, replacing manual box-by-box checks
+
+**Where AI augments the role:**
+
+- AI-assisted queen bee marking and pedigree management to improve breeding efficiency
+- Mobile app based on historical weather and nectar data to guide mobile beekeeping routes
+- Smart beehives monitor temperature, humidity, and weight in real time, providing early warning of swarming or absconding
+- Blockchain traceability systems enhance the credibility and brand value of honey from hive to shelf.
+
+**Human moat:**
+
+- On-site diagnosis of complex diseases (such as American foulbrood) requires tactile, olfactory, and experiential judgment
+- Queen bee artificial breeding and artificial insemination require fine manual skills and genetic knowledge
+- Maintaining trust relationships with local farmers, honey sources, and certification bodies
+- Emergency decision-making in response to sudden ecological changes (e.g., pesticide poisoning, extreme weather)
+
+**Skills to build:**
+
+- IoT and sensor data analysis (e.g., Alibaba Cloud IoT, Python basics)
+- Bee colony digital twin and drone operation certificate
+- Basic machine learning (for yield prediction and health diagnostics)
+- Organic/biodynamic agricultural certification and brand marketing knowledge
+- Deep processing and quality control techniques for bee products (propolis, royal jelly)
+- Multilingual communication and cross-border compliance (EU honey labeling regulations)
+
+**Key growth areas:**
 
 - Organic beekeeping
 - Apitherapy products
@@ -63,65 +96,67 @@ Apiarists manage bee colonies to produce honey, beeswax, and other products, ens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 意大利年度配额，适用于非欧盟农业季节工，需雇主担保。 |
-| Subclass 欧盟自由流动（EU Free Movement） | 欧盟公民在意大利自由工作和居住，无需签证。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italy's annual quota applies to non-EU agricultural seasonal workers, requiring employer sponsorship. |
+| Subclass EU Freedom of Movement (EU Free Movement) | EU citizens can freely work and reside in Italy without a visa. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Apiarist？**
-- 热爱自然和户外工作的人
-- 有耐心和动手能力的人
-- 希望自主创业的农业爱好者
+**Who is suited**
+- People who love nature and outdoor work
+- People with patience and hands-on ability
+- Agricultural enthusiasts aspiring to start their own business
 
-**谁不适合学Apiarist？**
-- 不喜欢昆虫或对蜂毒过敏的人
-- 追求高薪和高社交工作的人
+**Who is not suited**
+- People who dislike insects or are allergic to bee stings
+- People seeking high salary and highly social work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of Italian beekeepers?**
+A: A junior beekeeper earns about €18,000-24,000 per year, an intermediate independent beekeeper €25,000-35,000, and a senior large-scale beekeeper €35,000-50,000.
+
+**Q: Can non-EU citizens immigrate to Italy through beekeeping work?**
+A: Non-EU citizens can work in Italian bee farms via Decreto Flussi quota work visas, but transitioning to permanent residency requires meeting residency and income conditions, and quotas are limited.
+
+**Q: What educational background is needed to become a beekeeper in Italy?**
+A: Formal qualifications are usually not required, but taking a beekeeping course (1-2 years) at a regional agricultural training centre helps acquire skills. A high school diploma is sufficient to start.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Apiarist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of beekeepers in Italy?**
-答：Entry-level beekeepers earn about €18,000-24,000 per year, mid-level independent apiaries €25,000-35,000, and senior large-scale apiaries €35,000-50,000.
-
-**问：Can non-EU citizens immigrate to Italy through beekeeping work?**
-答：Non-EU citizens can work in Italian apiaries via the Decreto Flussi quota visa, but transitioning to permanent residency requires meeting residence and income conditions, with limited quotas.
-
-**问：What educational background is needed to become a beekeeper in Italy?**
-答：No formal degree is required, but beekeeping courses (1-2 years) at regional agricultural training centers are helpful. A high school diploma is sufficient.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

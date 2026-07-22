@@ -1,61 +1,96 @@
-# Structural Metal Fabricators and Fitters（Structural Metal Fabricators and Fitters）职业分析 · 美国
+# Structural Metal Fabricators and Fitters — career analysis · United States
 
-**职业代码：51-2041 – Structural Metal Fabricators and Fitters。**
+**Occupation code: 51-2041 (SOC)**
 
-Fabricate, position, align, and fit parts of structural metal products, including shipfitters. Work in manufacturing plants, shipyards, and construction sites using welding, cutting, and measuring tools.
+Responsible for fabricating, positioning, aligning, and assembling parts of structural metal products, including ship fitters. Work in manufacturing plants, shipyards, and construction sites, using welding, cutting, and measuring tools.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（公立高中免费） |
-| 学徒制（含在职培训） | 3-4年 | $1,000~$5,000（可能需支付少量学费，但通常有薪） |
+| High school graduation | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship (including on-the-job training) | 3-4 years | $1,000~$5,000 (May require a small tuition fee, but typically paid.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入学要求 |
-| 学徒制完成证书 | 美国劳工部或州学徒机构 | 必备 | 通常需要3-4年学徒培训 |
-| 焊接认证 | 美国焊接学会（AWS） | 可选 | 非强制但有助于就业 |
+| High school diploma or equivalent | High school | Required | Basic admission requirements |
+| Certificate of apprenticeship completion | US Department of Labor or state apprenticeship agencies | Required | Usually requires 3-4 years of apprenticeship training |
+| Welding certification | American Welding Society (AWS) | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 80,000。预计2023-2033年就业增长约2%，低于平均水平。主要受基础设施建设和制造业需求驱动，但自动化可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 80,000. Employment growth of about 2% is projected from 2023-2033, below average. Driven mainly by infrastructure construction and manufacturing demand, but automation may limit growth.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级薪资，随经验增长 |
-| 中级（4-9年） | $45,000~$60,000 | 平均薪资范围 |
-| 高级（10年以上） | $60,000~$80,000 | 高经验值或主管职位 |
+| Median salary | $51,330 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level salary, increases with experience |
+| Intermediate (4-9 years) | $45,000~$60,000 | Average salary range |
+| Senior (10+ years) | $60,000~$80,000 | High experience or supervisor position. |
+| average salary | $54,030 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 从学徒或初级工开始，可晋升为高级技工、领班或主管。经验丰富者可转向质量控制、项目管理或开设自己的金属 fabrication 业务。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
+
+Starting as an apprentice or entry-level worker, you can advance to senior technician, foreman, or supervisor. Experienced workers can transition into quality control, project management, or start their own metal fabrication business.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and optimization of complex part paths
+- Robotic automated welding for repetitive welds.
+- Automatic cutting and layout based on CAD models
+- Offline programming and monitoring of batch welding of standard parts
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection and X-ray image interpretation
+- Real-time welding parameter recommendations (current/speed/wire feed).
+- Digital twin simulation to predict deformation and stress
+- Collaborative robots perform welding in high-altitude or hazardous environments.
+- AI-driven cloud database query for welding parameters
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning for on-site welding of complex structures
+- Decision-making for abnormal conditions (irregular parts/material defects)
+- Communication and safety supervision in multi-trade collaboration
+- Tactile control for non-standard hand grinding and restoration
+- Comprehensive assessment of long-term fatigue life of welded structures
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (Fanuc/ABB)
+- Use of digital welding simulation software
+- AI image recognition assists weld inspection
+- Industrial IoT and sensor data analysis
+- Project management and quality systems (CWB).
+- Knowledge of environmentally friendly welding processes and materials
+
+**Key growth areas:**
 
 - infrastructure
 - manufacturing
@@ -64,62 +99,64 @@ Fabricate, position, align, and fit parts of structural metal products, includin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 适用于临时非农业劳工，但需雇主证明劳工短缺，有年度配额限制。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 绿卡路径，需PERM劳工证，但通常需要至少2年培训或经验。普通技工可能符合，但竞争激烈。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applicable to temporary non-agricultural labor, but employers must prove labor shortage; subject to annual caps. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Green card pathway requiring PERM labor certification, but typically needs at least 2 years of training or experience. Ordinary tradespersons may qualify, but competition is high. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Structural Metal Fabricators and Fitters？**
-- 喜欢动手操作和体力工作的人
-- 注重细节和精确测量的人
-- 愿意接受学徒培训和在职学习的人
+**Who is suited**
+- People who enjoy hands-on and physical work
+- People who are detail-oriented and value precision
+- People willing to accept apprenticeship and on-the-job training
 
-**谁不适合学Structural Metal Fabricators and Fitters？**
-- 不喜户外或工厂环境工作的人
-- 追求高薪资和快速职业晋升的人
+**Who is not suited**
+- Those who dislike outdoor or factory work environments
+- Those seeking high salary and rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a structural metal fabricator?**
+A: 2023 BLS data shows median annual salary of about $45,000, ranging from $35,000 to $80,000 depending on experience and employer.
+
+**Q: As a structural metal fabricator, what is the likelihood of immigrating to the US?**
+A: Very small. This occupation usually does not meet H-1B specialty occupation requirements. H-2B temporary work visa has quotas and requires employer to prove labor shortage. EB-3 green card path is possible but requires PERM certification, difficult for those without a degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Structural Metal Fabricators and Fitters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for structural metal fabricators?**
-答：In 2023, BLS reported a median annual wage of about $45,000, ranging from $35,000 to $80,000 depending on experience and employer.
-
-**问：Is it possible to immigrate to the US as a structural metal fabricator?**
-答：Very limited. The occupation usually does not qualify for H-1B professional work. H-2B temporary visas have quotas and require labor shortage proof. EB-3 green card is possible but requires PERM certification and is challenging without a degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

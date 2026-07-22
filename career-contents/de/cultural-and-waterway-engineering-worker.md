@@ -1,60 +1,96 @@
-# Cultural and Waterway Engineering Worker（Cultural and Waterway Engineering Worker）职业分析 · DE
+# Cultural and Waterway Engineering Worker — career analysis · Germany
 
-**职业代码：3226 – Cultural and Waterway Engineering Worker。**
+**Occupation code: 3226 (KldB)**
 
-Work in the planning, construction, and maintenance of cultural heritage protection, hydraulic structures, and waterway management, including dams, canals, flood defenses, and heritage buildings.
+Engaged in planning, construction and maintenance of engineering projects such as heritage conservation, hydraulic structures and river management, involving dams, canals, flood control facilities and heritage buildings.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（企业承担学费并可获得补贴） |
-| 技术员学校 | 2年 | $1,000~$5,000（部分州免费） |
+| Vocational training (dual system) | 3 years | $0~$500 (The company covers tuition fees and can also receive subsidies) |
+| Technical school | 2 years | $1,000~$5,000 (Free in some states) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程技师认证 | 德国工商会（IHK） | 可选 | 水道工程方向，可通过继续教育获得 |
-| 职业资格认证（Anerkennung） | 德国联邦劳工局/认证机构 | 必备 | 海外学历需经认证 |
+| Professional qualification recognition (Anerkennung) | German Federal Employment Agency / certification bodies | Required | Overseas qualifications need to be assessed |
+| Civil engineering technician certification | German Chamber of Commerce and Industry (IHK) | Optional | Waterway engineering direction, can be obtained through continuing education |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。由于基础设施老化和气候变化导致防洪需求增加，德国对水道工程人员需求稳定。但岗位数量有限，且受公共预算影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Due to aging infrastructure and increased flood prevention needs from climate change, demand for waterway engineering personnel in Germany is stable. However, positions are limited and affected by public budgets.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 税前年薪 |
-| 中级（3-7年） | $42,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$70,000 | 税前年薪 |
+| Median salary | $48,612 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $42,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$70,000 | Annual pre-tax salary |
+| average salary | $51,828 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 可从技术员（Facharbeiter）晋升为工长（Meister）或技术工程师（Techniker），也可通过继续教育转向项目管理或规划岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on culture and waterway engineering occupations is mixed: routine surveying and documentation are easily automated, but on-site construction, cultural heritage restoration, and complex hydrological decisions rely on human experience, making AI more of an enhancement tool than a replacement.
+
+Progress from technician (Facharbeiter) to foreman (Meister) or technical engineer (Techniker), or move into project management or planning roles through further education.
+
+**Tasks most exposed to AI:**
+
+- Preliminary hydrological modeling and report generation based on historical data.
+- CAD drafting and standardised annotation of conventional engineering drawings
+- Numerical simulation and assessment of structural stability of heritage buildings
+- Routine monitoring data recording and anomaly alerts for river management projects.
+- Organize, archive and ensure compliance of engineering documents
+
+**Where AI augments the role:**
+
+- AI-assisted hydrological forecasting and flood risk assessment improve decision accuracy
+- Using generative design to optimize hydraulic structure plans, reducing material costs
+- AI image recognition aids in detecting cracks in cultural heritage and recommending repair solutions.
+- Drones + AI enable rapid inspection and anomaly warning for rivers, channels, and dams
+- Digital twin platform simulates water network operation in real time to assist emergency dispatch
+
+**Human moat:**
+
+- On-site construction coordination and handling of unexpected situations, relying on human intuition and experience
+- Historical assessment of cultural heritage and manual restoration decisions require cultural sensitivity
+- Communicate with local governments, communities, and environmental organizations to obtain project approvals and public support.
+- Comprehensive judgment in complex hydrological conditions involving multi-objective trade-offs
+- Engineering safety responsibility and legal compliance review must be signed off by humans
+
+**Skills to build:**
+
+- Geographic Information Systems (GIS) and remote sensing analysis
+- AI-assisted engineering software like Autodesk AI, BIM 360
+- Python/R programming for automatic hydrological data processing
+- Digital Twin Platform Operation and IoT Device Integration
+- Project management and cross-disciplinary collaboration skills
+- Digital preservation of cultural heritage and 3D scanning technology
+
+**Key growth areas:**
 
 - Infrastructure Renewal
 - Flood Protection
@@ -63,68 +99,67 @@ Work in the planning, construction, and maintenance of cultural heritage protect
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合大学学历且薪资达标者，水道工程职业通常需要资质认证 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国认可的学历或职业资格，且雇主提供工作合同 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适合尚在求职阶段的专业人才 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with a university degree and meeting salary requirements; plumbing engineering occupations typically require certification |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German-recognized qualification or vocational credential, and the employer provides an employment contract. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, suitable for professional talents still in the job-seeking stage |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cultural and Waterway Engineering Worker？**
-- 喜欢户外现场工作、对水利工程或文化遗产保护感兴趣的人
-- 有土木工程或相关技术背景，愿意通过继续教育提升技能者
-
-**谁不适合学Cultural and Waterway Engineering Worker？**
-- 偏好办公室工作或纯设计、理论工作的人
-- 不愿长期在户外或施工现场作业者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor site work and are interested in water engineering or cultural heritage protection
+- Individuals with civil engineering or related technical background, willing to upskill through continuing education
+
+**Who is not suited**
+- Those who prefer office work or purely design/theoretical work
+- Those unwilling to work outdoors or on construction sites for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Junior annual salary approx. €32,000-42,000, intermediate approx. €42,000-55,000, senior up to €55,000-70,000.
+
+**Q: How can third-country nationals immigrate to Germany to work in this occupation?**
+A: Usually requires professional qualification recognition (Anerkennung), can apply via Blue Card or skilled migration visa, but the occupation is not in shortage.
+
+**Q: What educational background is required?**
+A: Typically requires completing a 3-year dual vocational training or 2-year technician school. Overseas qualifications must be recognized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cultural and Waterway Engineering Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is around EUR 32,000-42,000, mid-level EUR 42,000-55,000, senior EUR 55,000-70,000.
-
-**问：How can a third-country national immigrate for this occupation?**
-答：Typically requires professional qualification recognition (Anerkennung). EU Blue Card or Skilled Worker visa possible, but occupation is not a shortage role.
-
-**问：What educational background is required?**
-答：Typically a 3-year dual vocational training or 2-year technician school. Foreign qualifications require recognition.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Exam invigilators（Exam invigilators）职业分析 · UK
+# Exam invigilators — career analysis · United Kingdom
 
-**职业代码：9233 – Exam invigilators。**
+**Occupation code: 9233 (SOC)**
 
-Exam invigilators set up, run and invigilate exams to ensure exams are conducted in line with the relevant regulations.
+Exam invigilators are responsible for setting up, running, and invigilating exams to ensure they are conducted in accordance with relevant regulations.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无特定学历要求 | 0年 | —（通常需要通过在职培训，无费用） |
+| No specific educational requirements | 0 years | $0~$0 (Usually requires on-the-job training, no cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | N/A | 可选 | 雇主通常提供内部培训，无需预先持有资格证书 |
+| No mandatory certificate | N/A | Optional | Employers usually provide on-the-job training, no prior qualification required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 25,000。随着英国教育体系对考试诚信的重视，监考员需求稳定。兼职和临时岗位较多，全职机会有限，但教育机构持续需要合格监考人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. With the British education system's emphasis on exam integrity, demand for invigilators is stable. Many part-time and temporary roles exist, with limited full-time opportunities, but educational institutions consistently need qualified invigilators.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-2年） | $15,000~$18,000 | 基于兼职时薪换算为全职年薪 |
-| 中级（2-5年） | $18,000~$22,000 | 有经验的监考员可能获得更高时薪 |
-| 高级（5年以上） | $22,000~$26,000 | 高级监考员或主管级别 |
+| Median salary | $20,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $15,000~$18,000 | Converted from part-time hourly wage to full-time annual salary |
+| Intermediate (2-5 years) | $18,000~$22,000 | Experienced invigilators may receive a higher hourly wage |
+| Senior (5+ years) | $22,000~$26,000 | Senior invigilator or supervisor level |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从兼职或临时监考员起步，积累经验后可晋升为高级监考员或考试主管，负责培训和管理监考团队，少数人可进入教育管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of exam invigilators (such as identity verification, exam room patrols, and violation recording) are highly standardized. AI and automation technologies will significantly reduce job demand, expected to decrease by more than 30% over the next 5-10 years.
+
+Typically start as part-time or temporary invigilators, gain experience to advance to senior invigilator or exam supervisor, responsible for training and managing invigilation teams; a few may move into educational management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated identity verification (facial recognition and document scanning)
+- Real-time exam monitoring and abnormal behavior detection (AI analysis of video)
+- Online exam anti-cheating measures (screen monitoring, keystroke logging, eye tracking)
+- Automatic exam time reminders and paper distribution/collection
+- Automatic generation and reporting of disciplinary records.
+
+**Where AI augments the role:**
+
+- Handling complex AI-marked cheating cases (e.g., proxy testing, high-tech cheating)
+- Personalized invigilation arrangements for special needs candidates (e.g., extended exam time)
+- Appeal review and manual verification after the exam
+- Exam preparation candidates use new anti-cheating software
+- Maintain physical security order during exams (e.g., leaks, panic)
+
+**Human moat:**
+
+- Investigation and judgment of complex cheating behavior (requires human law enforcement authority and empathy)
+- Flexible invigilation and humanistic care for special examinees (disabilities, psychological disorders)
+- Ultimate compliance responsibility and legal authorization for the examination process
+- On-site decision making in emergencies (e.g., exam paper leak, technical failure).
+
+**Skills to build:**
+
+- AI invigilation system operation and data analysis
+- Knowledge of exam security and privacy laws and regulations
+- Basic programming and IT troubleshooting
+- Interpersonal and conflict resolution skills
+- Experience with online exam platform management
+
+**Key growth areas:**
 
 - Stable demand
 - Part-time work
@@ -61,62 +94,64 @@ Exam invigilators set up, run and invigilate exams to ensure exams are conducted
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 此职业通常不符合技术工人签证担保要求，因其技能等级较低（RQF 3以下）。 |
-| Subclass Graduate（Graduate visa） | 允许毕业生在英国工作两年，但此职业非典型高技能岗位。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation typically does not meet skilled worker visa sponsorship requirements due to its lower skill level (below RQF 3). |
+| Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for two years, but this occupation is not a typical high-skilled role. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Exam invigilators？**
-- 喜欢教育环境且注重细节的人
-- 寻求灵活兼职工作的人
-- 有良好沟通和组织能力的人
+**Who is suited**
+- People who enjoy educational environments and are detail-oriented.
+- Those seeking flexible part-time work
+- People with good communication and organizational skills
 
-**谁不适合学Exam invigilators？**
-- 追求高薪和全职稳定职业的人
-- 不愿意处理行政和规则执行工作的人
+**Who is not suited**
+- Those seeking high salary and full-time stable career
+- People who are unwilling to handle administrative and rule enforcement work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for examination invigilators?**
+A: Usually paid hourly; full-time equivalent annual salary around £15,000-£26,000, entry-level around £15,000-£18,000, senior up to £26,000.
+
+**Q: Can exam invigilators apply for a UK work visa?**
+A: This occupation generally does not meet skilled worker visa requirements due to low skill level. A graduate visa may be applicable, but it is not a typical high-skilled role.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Exam invigilators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for exam invigilators?**
-答：They are typically paid hourly, with full-time equivalent annual salaries ranging from £15,000 to £26,000; entry-level around £15,000-£18,000, senior up to £26,000.
-
-**问：Can exam invigilators apply for a UK work visa?**
-答：This occupation typically does not meet the Skilled Worker visa requirements due to low skill level. The Graduate visa may apply but it is not typical for high-skilled roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

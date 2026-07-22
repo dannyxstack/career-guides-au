@@ -1,59 +1,95 @@
-# Civil Engineering Draftsperson（Civil Engineering Draftsperson）职业分析 · 新西兰
+# Civil Engineering Draftsperson — career analysis · New Zealand
 
-**职业代码：312211 – Civil Engineering Draftsperson。**
+**Occupation code: 312211 (ANZSCO)**
 
-Civil engineering draftspersons create detailed technical drawings for infrastructure projects using CAD software; in New Zealand, this is a long-term skill shortage occupation eligible for Green List direct residence.
+Civil engineering drafters use CAD software to create detailed construction drawings for infrastructure such as roads and bridges. In New Zealand, this occupation is on the long-term skill shortage list and can directly apply for skilled migration via the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰NZ文凭（6级） | 2年 | $20,000~$30,000（如Unitec的New Zealand Diploma in Engineering (Civil)） |
-| 本科学士学位 | 3-4年 | $30,000~$40,000（如土木工程本科，每年学费） |
+| New Zealand Diploma (Level 6) | 2 years | $20,000~$30,000 (e.g. Unitec's New Zealand Diploma in Engineering (Civil)) |
+| Bachelor's degree | 3-4 years | $30,000~$40,000 (Such as a bachelor's degree in civil engineering, annual tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰工程文凭（土木） | Unitec、WelTec等理工学院 | 可选 | 6级文凭，核心入学资格 |
-| CAD技能证书（如AutoCAD） | 培训机构或理工学院 | 可选 | 雇主常要求，非强制 |
-| 雅思总分6.5（移民要求） | IELTS | 必备 | 技术移民签证英语要求 |
+| IELTS overall 6.5 (for immigration requirements) | IELTS | Required | English requirements for skilled migration visas |
+| New Zealand Diploma in Engineering (Civil) | Polytechnics such as Unitec, WelTec | Optional | Level 6 diploma, core entry requirements |
+| CAD skills certification (e.g., AutoCAD) | Training institution or polytechnic | Optional | Often required by employers, but not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰基建投资持续增长，尤其是奥克兰和基督城的交通与水务项目，带动土木绘图员需求上升。预计未来5年就业岗位增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Infrastructure investment in New Zealand continues to grow, especially in transport and water projects in Auckland and Christchurch, driving demand for civil engineering drafters. Employment is expected to increase by about 10% over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 根据careers.govt.nz及招聘数据 |
-| 中级（3-6年） | $65,000~$85,000 | 有经验的绘图员 |
-| 高级（6年以上） | $85,000~$105,000 | 高级或团队领导 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Based on careers.govt.nz and recruitment data |
+| Mid-level (3–6 years) | $65,000~$85,000 | Experienced drafter |
+| Senior (6+ years) | $85,000~$105,000 | Senior or team leader |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级绘图员可晋升为高级绘图员、项目协调员或BIM专家，再转向工程管理或设计顾问，资质认可度高且晋升通道成熟。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
+
+Junior drafters can advance to senior drafters, project coordinators, or BIM specialists, and then move into engineering management or design consulting, with high qualification recognition and mature career progression.
+
+**Tasks most exposed to AI:**
+
+- Draw standard architectural floor plans, elevations, and sections according to engineer requirements
+- Generate material lists, annotate dimensions and notes, and other repetitive documentation
+- Check consistency between drawings and preliminary compliance
+- Convert hand-drawn sketches into CAD digital drawings
+- Perform routine pipeline and routing layout and conflict detection
+
+**Where AI augments the role:**
+
+- Use AI generative design to quickly explore structural optimization solutions and select the best options
+- Automatically generate construction progress simulations and collision detection reports via BIM and AI
+- Collaborates with AI for automatic specification review, improving drawing compliance.
+- Uses AI to assist in estimating material costs and green building performance
+- Quickly generate preliminary drawing skeletons from design specifications using natural language interfaces
+
+**Human moat:**
+
+- Understanding building codes and the deeper intent and exception clauses of local regulations
+- Make creative design judgments on non-standard, complex, or heritage buildings
+- Cross-disciplinary coordination and problem-solving with architects, engineers, and contractors
+- Field survey, handling abnormal conditions, and application decisions for special materials
+- Comprehensive assessment of aesthetic, functional, and constructability aspects of design proposals
+
+**Skills to build:**
+
+- Proficient in BIM software (e.g., Revit) for automated modeling and family creation
+- Learn generative design tools (e.g., Autodesk Generative Design)
+- Enhance ability to operate AI compliance review tools (e.g., Autodesk Insight)
+- Develop data analysis skills for cost estimation and performance simulation
+- Learn basic programming (Python/Ruby) to customize workflows and plugins
+- Enhance communication, project coordination, and on-site problem-solving skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Civil engineering draftspersons create detailed technical drawings for infrastru
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足职业要求可直接申请，无需工作转居留阶段。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制下依据学历、工作经验、新西兰雇主offer等可获得居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，持该签证工作2年后可通过Green List Tier 2转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa: if you meet the occupation requirements, you can apply directly without needing a work-to-residence stage. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category; under the 6-point system, residence can be obtained based on qualifications, work experience, and a New Zealand employer offer. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: after working for 2 years on this visa, you can apply for residence through Green List Tier 2. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering Draftsperson？**
-- 擅长计算机辅助设计和空间思维的人
-- 追求稳定移民路线且具备工程图学基础的人
-- 愿意在工程团队中承担绘图及文档工作的人
-
-**谁不适合学Civil Engineering Draftsperson？**
-- 不喜欢长时间伏案操作CAD软件的人
-- 期望快速晋升到设计或管理高层的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in computer-aided design and spatial thinking
+- Those pursuing a stable migration route with a foundation in engineering graphics
+- People willing to undertake drafting and documentation work within an engineering team
+
+**Who is not suited**
+- People who dislike spending long hours working with CAD software at a desk
+- Those seeking rapid advancement to design or senior management positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for civil engineering drafters in New Zealand?**
+A: Entry-level annual salary approx. NZD 50,000-65,000, intermediate 65,000-85,000, senior 85,000-105,000, varies by experience and project complexity.
+
+**Q: Is it easy for civil engineering draftspersons to immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1, can directly apply for the Straight to Residence Visa if education and work requirements are met; or can take the SMC skilled migration route, with relatively low immigration difficulty.
+
+**Q: What qualifications are needed for this occupation?**
+A: The most common qualifications are the New Zealand Diploma in Engineering (Level 6, 2 years) or a Bachelor's degree in Civil Engineering; CAD training is also an important skill.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Civil Engineering Draftsperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for civil engineering draftspersons in New Zealand?**
-答：Entry-level salary is around NZD 50,000-65,000, mid-level 65,000-85,000, senior 85,000-105,000, varying with experience and project complexity.
-
-**问：Is it easy for civil engineering draftspersons to immigrate to New Zealand?**
-答：This occupation is on the Green List Tier 1, eligible for Straight to Residence Visa directly; alternatively, Skilled Migrant Category is also feasible, making immigration relatively easy.
-
-**问：What education is needed for this occupation?**
-答：Common options include a New Zealand Diploma in Engineering (Level 6, 2 years) or a bachelor's degree in civil engineering, with CAD training as a key skill.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

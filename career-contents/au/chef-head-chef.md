@@ -1,163 +1,187 @@
-# 厨师/主厨（Chef）职业分析 · 澳大利亚
+# Chef / Head Chef — career analysis · Australia
 
-**职业代码：351311 – Chef。**
+**Occupation code: 351311 (ANZSCO)**
 
-厨师和主厨在餐厅、酒店、机构和活动餐饮中负责菜单研发、食材管理、团队督导和出品质量控制。澳洲餐饮业是最大的雇主行业之一，厨师长期处于全国短缺名单，是技术移民中路径最清晰的体力技能类职业之一。高端餐厅、酒店和矿山营地（FIFO）厨师薪资显著高于平均水平。
+Chefs and head chefs are responsible for menu development, ingredient management, team supervision and output quality control in restaurants, hotels, institutions and event catering. The hospitality industry is one of Australia's largest employing sectors, and chefs have consistently appeared on the national shortage list, making this one of the clearest skilled migration pathways among trade occupations. Salaries for chefs in fine dining restaurants, hotels and mine-site camps (FIFO) are significantly above average.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Commercial Cookery（SIT30821，约12~18个月） | 12~18个月（全日制含实习） | $3,000~$20,000（TAFE或私立烹饪学院；国际生约 $8,000~$18,000；是澳洲厨师最主流的资质路径） |
-| Certificate IV in Kitchen Management | 6~12个月（在Certificate III基础上） | $2,000~$10,000（主厨/厨房管理层的进阶证书） |
-| 海外厨师技能评估（TRA/Vetassess） | 3~6个月 | $300~$1,000（技术移民需要TRA（Trade Recognition Australia）技能评估；约 $300~$500 申请费） |
-| 食品安全监督员证书（Food Safety Supervisor） | 1天课程+考核 | $100~$300（澳洲所有餐饮从业者的法律必须资质（各州要求）） |
+| Certificate III in Commercial Cookery (SIT30821, approximately 12–18 months) | 12–18 months (full-time including placement) | $3,000~$20,000 (TAFE or private culinary college; approximately $8,000–$18,000 for international students; the most mainstream qualification pathway for chefs in Australia) |
+| Certificate IV in Kitchen Management | 6–12 months (building on a Certificate III) | $2,000~$10,000 (Advanced certificate for head chefs and kitchen management) |
+| Overseas chef skills assessment (TRA/Vetassess) | 3–6 months | $300~$1,000 (Skilled migration requires a TRA (Trade Recognition Australia) skills assessment; application fee approximately $300–$500) |
+| Food Safety Supervisor Certificate | 1-day course + assessment | $100~$300 (Legally required qualification for all hospitality workers in Australia (requirements vary by state)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Commercial Cookery（SIT30821） | TAFE / 认可的私立烹饪学院 | 必备 | 澳洲厨师技术移民和正式就业的核心资质；TRA技能评估的基础 |
-| TRA 技能评估（Trade Recognition Australia） | TRA / 澳洲工业部 | 可选 | 厨师技术移民（189/190/491/482）的必要步骤 |
-| Food Safety Supervisor Certificate | 各州认可培训机构 | 必备 | 餐饮场所法律必须，费用约 $100~$300 |
-| RSA（Responsible Service of Alcohol） | 各州认可机构 | 可选 | 接触酒水的餐饮从业者大多数州法律要求 |
+| Certificate III in Commercial Cookery（SIT30821） | TAFE / accredited private culinary college | Required | Core qualification for skilled migration and formal employment as a chef in Australia; the foundation for TRA skills assessment |
+| Food Safety Supervisor Certificate | Registered training organisations in each state | Required | Legally required for food and beverage venues; cost approximately $100–$300 |
+| TRA skills assessment (Trade Recognition Australia) | TRA / Department of Industry, Australia | Optional | A necessary step for chef skilled migration (189/190/491/482) |
+| RSA（Responsible Service of Alcohol） | State-recognised assessment bodies | Optional | Required by law in most states for hospitality workers who handle alcohol |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 120,000。JSA预测厨师就业至2030年净增约15,000人。餐饮业复苏（COVID后）和旅游业反弹推动强劲需求，偏远地区和矿山营地厨师（FIFO）薪资溢价显著。
+**Job demand: very high (★★★★★).** National workforce approx. 120,000. JSA forecasts a net increase of approximately 15,000 chef jobs by 2030. Post-COVID hospitality recovery and a rebound in tourism are driving strong demand, with significant salary premiums for chefs in remote areas and FIFO mining camp roles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 5,000~12,000 个 | 全国，含厨师长/副厨/糕点厨师/学徒厨师各级岗 |
-| Indeed | 3,000~8,000 个 | 含高端餐厅、酒店、机构和FIFO营地厨师岗 |
-| LinkedIn | 2,000~6,000 个 | 酒店集团和大型餐饮企业直招 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：极高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 厨师学徒 / 初级厨师（0~2年） | $55,000~$70,000 | 学徒厨师按级别支付；完成学徒后约 $60k~$70k |
-| 厨师（Commis/Chef de Partie，2~6年） | $70,000~$90,000 | 中级厨师全国均值区间；高端餐厅分部主厨可达 $85k+ |
-| 主厨（Head Chef，5~12年） | $85,000~$110,000 | SEEK 主厨均值 $85k~$100k；Indeed 均值 $84,589；悉尼主厨均值 $91,890（2026） |
-| 行政总厨 / FIFO营地主厨（10年+） | $105,000~$160,000 | 五星酒店行政总厨或矿山FIFO主厨约 $100k~$130k；悉尼/布里斯班顶级主厨约 $92k~$126k |
+| Median salary | $73,996 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Chef apprentice / Junior chef (0–2 years) | $55,000~$70,000 | Apprentice chef pay is level-based; approximately $60k–$70k upon completion of apprenticeship |
+| Cook (Commis/Chef de Partie, 2–6 years) | $70,000~$90,000 | Mid-level chef national average range; head of section at a high-end restaurant can reach $85k+ |
+| Head Chef (5–12 years) | $85,000~$110,000 | SEEK average chef salary $85k–$100k; Indeed average $84,589; Sydney chef average $91,890 (2026) |
+| Executive Chef / FIFO Camp Head Chef (10+ years) | $105,000~$160,000 | Executive Chef at a five-star hotel or a mining FIFO head chef: approx. $100k–$130k; top chefs in Sydney/Brisbane: approx. $92k–$126k |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 澳洲餐饮业COVID后全面复苏，但厨师短缺状况未有缓解——全国各地餐厅面临严重用工荒。持有证书级资格（Certificate III Hospitality/Commercial Cookery）的厨师在职业移民市场有清晰路径。矿山FIFO厨师（两周工作一周休假模式）薪资可达 $100,000~$130,000，吸引力极强。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
 
-- 高端餐厅主厨（Fine Dining）
-- 植物性/素食料理专精
-- 亚洲菜系厨师（中/日/泰/印）
-- 酒店宴会和活动餐饮
-- 偏远地区和矿山营地厨师（FIFO）
+Australia's hospitality industry has fully recovered post-COVID, but chef shortages remain unresolved — restaurants nationwide face a critical labour shortage. Chefs with certificate-level qualifications (Certificate III in Hospitality/Commercial Cookery) have a clear pathway in the skilled migration market. Mining FIFO chefs (two weeks on, one week off roster) can earn $100,000–$130,000, making the role highly attractive.
+
+**Tasks most exposed to AI:**
+
+- Standardized dish preparation (e.g., grilling, frying, and other repetitive cooking)
+- Basic food preparation (chopping, washing, sorting)
+- Inventory management and order generation (automated systems replace manual counting)
+- Precision operations like temperature monitoring and timing (sensor and AI control)
+
+**Where AI augments the role:**
+
+- Menu development: AI analyzes diner preferences and health trends to assist innovative recipes
+- Cost control: AI optimises ingredient procurement and reduces waste
+- Kitchen coordination: AI schedules multiple orders to improve meal delivery efficiency
+- Quality monitoring: Computer vision inspects dish appearance and plating consistency
+
+**Human moat:**
+
+- Creative menu development and personalization
+- Sensory evaluation of ingredient quality (smell, taste)
+- Team management and on-site decision-making under high pressure
+- Dining experience design for customer interaction
+- Cultural Heritage and Preservation of Regional Flavors
+
+**Skills to build:**
+
+- AI recipe development and data analysis tools (e.g., IBM Chef Watson)
+- Operating and maintaining smart kitchen equipment
+- Cost management software and supply chain optimization
+- Social media and digital marketing (for personal brand promotion)
+- Sustainability and zero-waste cooking philosophy
+- Cross-cultural dietary knowledge (to meet diverse customer needs)
+
+**Key growth areas:**
+
+- Fine Dining Head Chef
+- Plant-Based/Vegetarian Cuisine
+- Asian Cuisine Chef (Chinese/Japanese/Thai/Indian)
+- Hotel Banquet & Event Catering
+- Remote & Mine Camp Chef (FIFO)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，餐厅和酒店直接担保最常见路径 |
-| Subclass 186（ENS） | 雇主担保永居，需满足2年担保期 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，TRA评估 |
-| Subclass 190（Skilled Nominated） | 州提名，各州均有通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区厨师极度紧缺，加15分，多州积极提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship — direct sponsorship by restaurants and hotels is the most common pathway |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency, subject to a 2-year sponsorship period |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, listed on MLTSSL, TRA assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
+| Subclass 491 (Skilled Work Regional) | Chefs in regional areas are in extremely high demand; attracts a 15-point bonus and multiple states are actively nominating. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学厨师/主厨？**
-- 持有商业烹饪证书（Certificate III Commercial Cookery或等同资历），有2年以上厨师工作经验
-- 已通过或有意向申请TRA（Trade Recognition Australia）技能评估
-- 有亚洲菜系专精（特别是中餐/日餐/泰餐）——澳洲对亚洲菜系主厨需求极旺盛
-- 愿意接受偏远地区或矿山FIFO工作安排（薪资更高，签证更容易）
-- 英语基础可以进行基本厨房沟通（IELTS要求相对较低）
-
-**谁不适合学厨师/主厨？**
-- 无正规商业烹饪资质（家庭烹饪经验不被TRA认可）
-- 体力状况不适合长时间站立和高强度厨房环境
-- 期望在悉尼/墨尔本顶级餐厅直接担任主厨（竞争激烈；建议先积累1~2年经验）
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a Certificate III in Commercial Cookery or equivalent qualification, with more than 2 years of chef experience.
+- Has passed or intends to apply for a TRA (Trade Recognition Australia) skills assessment
+- Specialises in Asian cuisines (particularly Chinese/Japanese/Thai) — demand for Asian cuisine chefs in Australia is extremely strong
+- Willing to accept regional or mine-site FIFO work arrangements (higher salaries and easier visa pathways)
+- Basic English sufficient for essential kitchen communication (relatively lower IELTS requirement)
+
+**Who is not suited**
+- No formal commercial cookery qualifications (home cooking experience is not recognised by TRA)
+- Physical condition unsuitable for prolonged standing and high-intensity kitchen environments
+- Expecting to step directly into a head chef role at a top-tier Sydney/Melbourne restaurant (highly competitive; gaining 1–2 years of experience first is recommended)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for chefs/cooks in Australia?**
+A: Head Chef approximately $85,000–$110,000 (SEEK $85k–$100k; Indeed $84,589; Sydney average $91,890); Executive Chef approximately $105k–$160k; mine site FIFO Head Chef approximately $100k–$130k. Mid-level cook approximately $70k–$90k; apprentice cook approximately $55k–$70k.
+
+**Q: Is it easy for chefs to find work in Australia?**
+A: Very easy. Chefs are a long-term shortage occupation in Australia, with demand exceeding supply at all levels nationwide. Seek lists approximately 5,000–12,000 positions. Remote areas, mine site camps, and FIFO roles are particularly short-staffed, with employers actively offering visa sponsorship.
+
+**Q: Are Chinese chef qualifications recognised in Australia?**
+A: Through TRA (Trade Recognition Australia) skills assessment, Chinese chef work experience can be recognized. Need to provide employer reference letter (in English), work photos, and ingredient/menu records. Chinese chefs are in high demand in Australia (Chinese restaurants are the most numerous Asian restaurant category), and employer-sponsored 482 visa is the most common pathway.
+
+**Q: Will chefs be replaced by AI?**
+A: No. Cooking is one of the occupations least at risk of AI replacement. The craft of hands-on cooking, sensory judgement (taste, aroma, texture) and creative menu development cannot be replicated by AI. Automation only affects standardised fast-food production lines and does not impact chefs in formal restaurants.
+
+**Q: Is there an age limit for chefs in Australia?**
+A: In practice, older chefs (aged 40–55) are highly sought after in fine dining restaurants and hotels, where extensive cuisine experience and reliability are major advantages. However, kitchen work is physically demanding — pursuing a management track (Head Chef / Executive Chef) is recommended to reduce the pure physical workload.
+
+**Q: What qualifications do chefs need in Australia?**
+A: Certificate III in Commercial Cookery (SIT30821) is the core qualification for skilled migration and employer sponsorship as a chef in Australia. Overseas chefs must pass a TRA skills assessment (approximately $300–$500) and provide at least 3 years of cooking work experience. A Food Safety Supervisor certificate is a legal requirement for all food service workers.
+
+**Q: Is the chef qualification process for migration to Australia difficult?**
+A: Relatively low difficulty (compared to other skilled trades). TRA assessment pathway is straightforward, employer-sponsored 482 visas are very active. Listed on MLTSSL, with states actively nominating cooks. Regional 491 pathway is the easiest, offering +15 points and shorter sponsorship timelines. Recommended approach: secure an employer-sponsored offer first, then proceed with the visa application.
+
+**Q: Which is better for migrating to Australia — chef or nurse?**
+A: Both are MLTSSL shortage occupations. Nurses earn higher salaries ($95k–$120k vs. chefs $85k–$110k) and have higher English requirements (IELTS 7.0+). Chefs have lower English requirements (IELTS basic level), a simpler skills assessment pathway and faster employer sponsorship. Skilled migrants with lower English proficiency typically prefer the chef pathway; those with strong English are advised to consider nursing or other healthcare pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 主厨薪资 $85k~$100k（2026） |
-| Indeed AU | 主厨平均薪资 $84,589；悉尼 $91,890（2026） |
-| Barcats AU | 澳洲主厨真实薪资报告2026 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中低（★★☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-厨师/主厨的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲厨师/主厨工资多少？**
-答：主厨约 $85,000~$110,000（SEEK $85k~$100k；Indeed $84,589；悉尼均值 $91,890）；行政总厨约 $105k~$160k；矿山FIFO主厨约 $100k~$130k。中级厨师约 $70k~$90k，学徒厨师约 $55k~$70k。
-
-**问：澳洲厨师容易找工作吗？**
-答：极容易。厨师是澳洲长期短缺职业，全国各级别厨师供不应求。SEEK 挂牌约 5,000~12,000 个职位。偏远地区、矿山营地和FIFO岗位尤其紧缺，雇主主动提供签证担保。
-
-**问：中国厨师资历澳洲认可吗？**
-答：通过TRA（Trade Recognition Australia）技能评估，中国厨师工作经验可以认可。需要提供雇主证明信（英文）、工作照片和食材/菜单记录。中餐厨师在澳洲需求极旺盛（中餐馆是最多的亚洲餐厅类别），雇主担保482是最常见的路径。
-
-**问：厨师会被AI替代吗？**
-答：不会。烹饪是AI替代风险最低的职业之一。人工烹饪技艺、感官判断（味道/香气/质地）和创意菜单研发是AI无法复制的。自动化设备仅影响标准化快餐生产线，不影响正式餐厅厨师。
-
-**问：澳洲厨师有年龄限制吗？**
-答：实际上，年龄较大的厨师（40~55岁）在高端餐厅和酒店中非常受欢迎，丰富的菜系经验和稳定性是优势。但厨房工作体力要求高，建议关注管理层（主厨/行政总厨）发展路径以减少纯体力负担。
-
-**问：澳洲厨师需要什么资质？**
-答：Certificate III in Commercial Cookery（SIT30821）是澳洲技术移民和雇主担保的核心资质。海外厨师需要通过TRA技能评估（约 $300~$500），提供至少3年烹饪工作证明。食品安全监督员证书（Food Safety Supervisor）是所有餐饮从业者的法律要求。
-
-**问：澳洲厨师认证（移民）难吗？**
-答：难度较低（相对于其他技术职业）。TRA评估路径清晰，雇主担保482非常活跃。MLTSSL在列，各州积极提名厨师。偏远地区491路径最容易，加15分且担保时间短。建议先获取雇主担保offer，再推进签证申请。
-
-**问：厨师和护士哪个更适合移民澳洲？**
-答：两者都是MLTSSL短缺职业；护士薪资更高（$95k~$120k vs 厨师 $85k~$110k），英语要求更高（IELTS 7.0+）；厨师英语要求较低（IELTS基础级），技能评估路径更简单，雇主担保更快。英语一般的职业移民首选厨师路径，英语强的建议结合护士或其他医疗路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

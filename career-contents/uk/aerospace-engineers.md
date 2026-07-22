@@ -1,59 +1,92 @@
-# Aerospace engineers（Aerospace engineers）职业分析 · UK
+# Aerospace engineers — career analysis · United Kingdom
 
-**职业代码：2126 – Aerospace engineers。**
+**Occupation code: 2126 (SOC)**
 
-Aerospace engineers research, design, and develop aircraft, spacecraft, and their components. They oversee the entire engineering lifecycle from concept to production, ensuring safety, performance, and efficiency.
+Aerospace engineers research, design, and develop aircraft, spacecraft, and their components. They manage the entire engineering cycle from concept to production, ensuring safety, performance, and efficiency of the vehicle.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$38,000（英国本土学生学费上限9250英镑，国际学生更高） |
-| 硕士 | 1年 | $10,000~$30,000（国际学生学费通常更高，可能达35000英镑） |
+| Bachelor's degree | 3 years | $9,250~$38,000 (UK domestic student tuition fee cap is £9,250, international students pay more) |
+| Master's degree | 1 year | $10,000~$30,000 (International student tuition is usually higher, potentially up to £35,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士/硕士学位 | 大学 | 必备 | 航空工程或相关专业，受工程委员会认证 |
-| 特许工程师（CEng） | 英国工程委员会 | 可选 | 通过英国工程委员会认证，需要4年经验+考试 |
-| 安全许可 | 英国政府 | 可选 | 涉及国防项目需要安全审查 |
+| Bachelor's/Master's degree in Engineering | University | Required | Aerospace engineering or related major, accredited by the Engineering Council |
+| Chartered Engineer (CEng) | Engineering Council UK | Optional | Accredited by the UK Engineering Council, requires 4 years of experience + exam |
+| Safety clearance | UK Government | Optional | Defense-related projects require security clearance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 32,000。英国航空航天业持续增长，尤其在可持续航空、太空技术和国防领域。预计未来10年将新增数千个岗位，但受全球供应链和移民政策影响。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. The UK aerospace industry continues to grow, especially in sustainable aviation, space technology, and defense. Thousands of new jobs are expected over the next 10 years, but impacted by global supply chains and immigration policies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 起薪约28,000-35,000英镑，大型企业可能更高 |
-| 中级（3-10年） | $40,000~$65,000 | 有经验后可达45,000-60,000英镑 |
-| 高级（10年以上） | $65,000~$90,000 | 高级工程师或技术专家可达70,000-90,000英镑 |
+| Median salary | $55,839 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$40,000 | Starting salary around £28,000-35,000, possibly higher at large firms |
+| Intermediate (3-10 years) | $40,000~$65,000 | With experience, can reach £45,000–£60,000. |
+| Senior (10+ years) | $65,000~$90,000 | Senior engineers or technical experts can earn £70,000-90,000 |
+| average salary | $64,942 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级岗位如设计工程师或测试工程师，可晋升为高级工程师、项目负责人或技术专家。部分人转向管理岗位或创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aerospace engineers face mixed AI impact: analytical tasks like design optimization and simulation testing are enhanced, but lower-level tasks like multi-disciplinary integration, safety certification, and physical prototype evaluation will be automated, upgrading overall job roles.
+
+Junior roles such as design engineer or test engineer can progress to senior engineer, project lead, or technical expert. Some move into management or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for repetitive drafting and standard part library calls
+- Parametric simulation and batch result analysis based on known physical models
+- Write parts of routine test reports and compliance documents
+- Maintaining and updating metadata in engineering data management systems
+
+**Where AI augments the role:**
+
+- Using AI agents to rapidly explore design space, generating innovative aerodynamic shapes or structural layouts
+- Accelerate iteration through multiphysics simulation and ML agents, predict material fatigue and failure modes
+- Use natural language interaction to quickly retrieve regulations, standards, and historical design cases
+- Automatically generate multi-plan trade-off reports to assist team decision-making
+
+**Human moat:**
+
+- Cross-disciplinary system integration and trade-off decision-making skills
+- Responsibility for safety-critical systems and approval authority.
+- Compliance communication and contract negotiation with military and airworthiness authorities
+- Engineering judgment and innovative breakthroughs under uncertainty
+
+**Skills to build:**
+
+- AI-based optimization design methods and tools (e.g., generative design, reinforcement learning)
+- Machine learning engineering and data-driven modeling fundamentals
+- Advanced simulation software automation scripts and workflow orchestration
+- Systems Engineering and MBSE (Model-Based Systems Engineering)
+- Knowledge of AI ethics and explainability in aerospace applications
+- Rapid prototyping and 3D printing/digital twin technology.
+
+**Key growth areas:**
 
 - Sustainable aviation
 - Space technology
@@ -62,68 +95,67 @@ Aerospace engineers research, design, and develop aircraft, spacecraft, and thei
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有担保雇主的技术工人，最低薪资一般26,200英镑，但短缺职业可降至20,960英镑 |
-| Subclass Global Talent（Global Talent visa） | 适用于在航空航天领域有突出成就或潜力的研究人员，无需担保 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速成长公司的技术人才，需有雇主担保 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to skilled workers with a sponsoring employer; minimum salary generally £26,200, but can be reduced to £20,960 for shortage occupations |
+| Subclass Global Talent (Global Talent visa) | Applicable to researchers with outstanding achievements or potential in aerospace; no sponsorship required |
+| Subclass Scale-up (Scale-up visa) | For tech talent in fast-growing companies, requiring employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aerospace engineers？**
-- 热爱数学和物理，具备解决复杂工程问题的能力
-- 对航空、航天技术有强烈兴趣，愿意持续学习
-- 注重细节，有团队合作精神
-
-**谁不适合学Aerospace engineers？**
-- 不喜欢高强度数学计算和理论分析
-- 对安全和合规要求缺乏耐心
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about mathematics and physics, capable of solving complex engineering problems
+- Strong interest in aviation and aerospace technology, willing to continuously learn
+- Detail-oriented with team spirit
+
+**Who is not suited**
+- Dislikes high-intensity mathematical calculations and theoretical analysis.
+- Lack of patience for safety and compliance requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of an aerospace engineer in the UK?**
+A: Depending on experience, junior engineers earn around £28,000-40,000, mid-level £40,000-65,000, and senior up to £90,000. Average salary around £50,000.
+
+**Q: How can aerospace engineers immigrate to the UK?**
+A: Main pathway is Skilled Worker visa, requiring employer sponsorship and meeting salary threshold. This occupation is on the shortage list, so salary requirements may be reduced. Also eligible for Global Talent visa.
+
+**Q: What qualifications are needed to become an aerospace engineer?**
+A: Typically requires a bachelor's degree in aerospace engineering or related field (3 years), with a master's (1 year) advantageous. Must obtain engineering board certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aerospace engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for aerospace engineers in the UK?**
-答：Depending on experience, junior engineers earn £28,000-£40,000, mid-level £40,000-£65,000, and senior up to £90,000. The average is around £50,000.
-
-**问：How can aerospace engineers immigrate to the UK?**
-答：The main route is the Skilled Worker visa requiring employer sponsorship and meeting salary thresholds. This occupation is on the shortage list, so salary requirements may be lower. Global Talent visa is also an option.
-
-**问：What education is required to become an aerospace engineer?**
-答：A bachelor's degree in aerospace engineering or related field (3 years) is typically required; a master's degree (1 year) is advantageous. Engineering Council accreditation is needed.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

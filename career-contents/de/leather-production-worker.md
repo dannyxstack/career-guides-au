@@ -1,60 +1,96 @@
-# Leather Production Worker（Leather Production Worker）职业分析 · DE
+# Leather Production Worker — career analysis · Germany
 
-**职业代码：2831 – Leather Production Worker。**
+**Occupation code: 2831 (KldB)**
 
-Engaged in leather processing and manufacturing, including tanning, dyeing, and finishing, mainly in tanneries or leather processing plants, requiring skills in chemical treatment and machine operation.
+Engaged in leather processing and manufacturing, including tanning, dyeing, finishing, etc., mainly working in tanneries or leather processing enterprises; requires skills in chemical treatment and mechanical operation.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（由企业承担培训费用，学徒期间有津贴） |
-| 职业进阶培训 | 1-2年 | $1,000~$5,000（可考取皮革技术师傅证书） |
+| Dual vocational training | 3 years | $0~$500 (Training costs are borne by the employer, with allowances during the apprenticeship) |
+| Professional development training. | 1-2 years | $1,000~$5,000 (Can obtain a leather technician master certificate.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皮革技术工人证书 | 德国工商会(IHK) | 必备 | 完成双元制培训后获得 |
-| 皮革技术师傅 | 德国工商会(IHK) | 可选 | 进阶资格，可担任管理职位 |
+| Leather worker certificate. | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Leather technology master | German Chamber of Commerce and Industry (IHK) | Optional | Advanced qualification, suitable for management roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。德国皮革制造业受环保法规和自动化影响，就业岗位缓慢减少，但技术熟练工人仍有一定需求，尤其在手工艺和高端皮革产品领域。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. The German leather manufacturing industry is affected by environmental regulations and automation, with employment slowly declining, but skilled workers are still in demand, especially in handcraft and high-end leather products.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，行业较低 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含师傅职位 |
+| Median salary | $35,124 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, low for the industry |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual salary before tax, including tradesperson positions |
+| average salary | $38,748 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级工可通过职业培训晋升为熟练工或班组长，进一步可向技术专家或生产管理方向发展，部分可转向质量控制或研发岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core manual and chemical processing tasks for leather manufacturing workers will be largely automated, with entry-level positions shrinking sharply, but high-precision and custom work will still require humans.
+
+Entry-level workers can advance through vocational training to become skilled workers or team leaders, further to technical experts or production management, or shift to quality control or R&D.
+
+**Tasks most exposed to AI:**
+
+- Automatic tanning: AI and robots can precisely control chemical ratios and temperature, replacing manual tanning
+- Automatic dyeing: machine vision system automatically sprays or dips according to formulation, no manual color adjustment.
+- Automatic cutting: AI optimizes layout then automatically cuts leather, reducing waste and manual measurement.
+- Quality inspection: visual system automatically identifies defects, replacing manual visual inspection.
+- Finishing process: robotic arms complete repetitive surface treatments such as buffing and rolling.
+
+**Where AI augments the role:**
+
+- Complex defect analysis: AI assists in identifying rare defect causes, improving yield.
+- Customized design: AI generates customer-specific patterns, artisans manually create unique textures.
+- Process parameter optimization: AI analyzes historical data to recommend optimal tanning or dyeing parameters.
+- Supply chain management: AI predicts demand and inventory, optimizing leather procurement and production scheduling.
+- Training and knowledge transfer: AR/VR aids in passing on hands-on skills to newcomers.
+
+**Human moat:**
+
+- High-precision hand sanding and edge finishing feel (machine can't replicate ultimate tactile sensation)
+- Experience with traditional tanning formulas and special dye blending (relying on tacit knowledge)
+- Flexible judgment and repair skills for dealing with natural leather defects
+- Ability to communicate with high-end custom clients and achieve personalized needs
+- Cross-process comprehensive process understanding (full control from raw hide to finished product)
+
+**Skills to build:**
+
+- Automation equipment operation and programming (e.g., tanning, cutting robots)
+- AI-assisted design and CAD software (for customized layout and pattern design)
+- Data analysis and process optimization (using AI to analyze production data to improve quality)
+- Knowledge of leather chemistry and environmentally friendly processes (to meet green production regulations)
+- Digital supply chain management (intelligent scheduling of inventory and orders)
+- Cross-role collaboration skills (working with automation engineers and designers)
+
+**Key growth areas:**
 
 - Manufacturing decline
 - Automation impact
@@ -63,62 +99,64 @@ Engaged in leather processing and manufacturing, including tanning, dyeing, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需获得德国认可的职业资质和雇主合同 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作，需满足资质条件 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Must obtain recognized vocational qualifications and an employment contract in Germany |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job search in Germany, subject to qualification requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leather Production Worker？**
-- 喜欢手工艺和机械操作的人
-- 对化学处理过程感兴趣的人
-- 适应工业环境工作的人
+**Who is suited**
+- People who enjoy handicrafts and mechanical operation
+- Those interested in chemical processes
+- People who can adapt to industrial work environments
 
-**谁不适合学Leather Production Worker？**
-- 不适应化学气味或粉尘环境的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- Not suitable for people sensitive to chemical odors or dusty environments
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for leather goods makers?**
+A: Junior annual salary around EUR 24,000-30,000, senior up to EUR 45,000, below the German average, but master positions pay higher.
+
+**Q: How can foreigners become leather manufacturing workers through skilled migration?**
+A: Must complete recognized vocational training in Germany or hold equivalent qualifications, then apply for a skilled migration visa after credential assessment. This occupation is not in shortage, making immigration more difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Leather Production Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for leather production workers?**
-答：Entry-level annual salary is about 24,000-30,000 EUR, senior can reach 45,000 EUR, below German average, but master positions are higher.
-
-**问：How can foreigners become leather production workers via skilled migration?**
-答：Requires recognized vocational training or equivalent qualification, then apply for skilled worker visa. Not a shortage occupation, migration is challenging.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

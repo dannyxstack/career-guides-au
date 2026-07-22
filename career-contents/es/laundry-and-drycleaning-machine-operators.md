@@ -1,58 +1,92 @@
-# Laundry and Dry-Cleaning Machine Operators（Laundry and Dry-Cleaning Machine Operators）职业分析 · ES
+# Laundry and Dry-Cleaning Machine Operators — career analysis · Spain
 
-**职业代码：8170 – Laundry and Dry-Cleaning Machine Operators。**
+**Occupation code: 8170 (CNO)**
 
-Operate industrial washing, dry-cleaning, and pressing machines in laundries and dry-cleaning establishments, handling garments, textiles, and other items to ensure cleanliness and hygiene standards.
+Operate industrial laundry, dry cleaning, and ironing equipment in laundries and dry cleaners, handling clothing, textiles, and other items to ensure cleanliness and hygiene standards.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 学习操作机器和安全规程 |
+| On-the-job training | Employer | Required | Learn machine operation and safety protocols |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。该职业需求稳定，受旅游业和酒店业驱动，但自动化可能减少低技能岗位。预计未来十年就业人数小幅下降，替换需求为主。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Demand for this profession is stable, driven by tourism and hospitality, but automation may reduce low-skilled positions. Employment is expected to decline slightly over the next decade, mainly due to replacement demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 税前年薪 |
-| 中级（3-6年） | $19,000~$22,000 | 税前年薪 |
-| 高级（6年以上） | $22,000~$26,000 | 税前年薪 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $19,000~$22,000 | Annual pre-tax salary |
+| Senior (6+ years) | $22,000~$26,000 | Annual pre-tax salary |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可从操作员晋升为洗衣房主管或经理，或转向设备维护、技术支持。部分可自主创业开设小型洗衣店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Laundry and dry-cleaning workers face medium-to-high automation risk; routine tasks (sorting, adding chemicals, loading/unloading) are easily replaced by robots/smart equipment, but fine work like stain treatment still relies on humans; entry-level positions will shrink significantly.
+
+You can be promoted from operator to laundry supervisor or manager, or move into equipment maintenance and technical support. Some can start small laundries on their own.
+
+**Tasks most exposed to AI:**
+
+- Sorting clothes by color/fabric (achievable with AI vision + robotic arm)
+- Load clothes into washing/dry-cleaning machines and add detergent (automatic dosing + robotic arm)
+- Start machine and monitor process (PLC/IoT automatic control)
+- Remove clothing from machines and check for cleanliness (visual inspection)
+- Manage inventory and tags (RFID + software systems)
+
+**Where AI augments the role:**
+
+- AI-assisted stain identification and specialized treatment recommendations
+- Smart scheduling system optimizes laundry/dry cleaning process order
+- Machine predictive maintenance alerts reduce downtime
+- Customer self-service kiosks reduce front desk workload
+
+**Human moat:**
+
+- Experience with physical/chemical treatment of special stains (blood, ink, red wine, etc.)
+- Judgment on hand-care of delicate fabrics (silk, cashmere, etc.)
+- Communicate special requirements with customers and adjust processes
+- Rapid troubleshooting and manual repair when handling mechanical faults
+
+**Skills to build:**
+
+- Mastering AI-assisted stain recognition software (e.g., SpotClean AI)
+- Learn basic maintenance and programming of robots and automation equipment
+- Enhance knowledge of advanced fabric care and dyeing
+- Learn customer service and communication skills (transition to account management)
+- Familiar with smart laundry management systems (e.g., LaundryHub)
+- Learn business data analysis (to optimize operational efficiency)
+
+**Key growth areas:**
 
 - low automation risk
 - stable demand
@@ -61,64 +95,66 @@ Operate industrial washing, dry-cleaning, and pressing machines in laundries and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需由西班牙雇主提供工作合同，并证明该职位无法由欧盟公民填补。通常要求相关经验。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by an EU citizen. Relevant experience is usually required. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Laundry and Dry-Cleaning Machine Operators？**
-- 愿意从事体力劳动和重复性工作者
-- 注重卫生和细节者
-- 不追求高薪但希望稳定就业者
+**Who is suited**
+- Willing to do manual labor and repetitive work
+- Those who care about hygiene and detail
+- Not seeking high salaries but hoping for stable employment
 
-**谁不适合学Laundry and Dry-Cleaning Machine Operators？**
-- 寻求高收入或快速职业晋升者
-- 对化学清洁剂过敏或不耐烦者
+**Who is not suited**
+- Those seeking high income or rapid career advancement
+- Those who are allergic or intolerant to chemical cleaning agents
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for laundry and dry cleaning machine operators?**
+A: In Spain, the annual salary for this occupation is about €16,000-26,000, with entry-level around €16,000-19,000 and senior roles up to €26,000. Salaries are low, but may be manageable in low-cost-of-living areas.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: Difficult. This occupation is considered low-skill, and work visas are rarely obtained. Unless there is special sponsorship from a Spanish employer, the skilled migration pathway is almost impossible.
+
+**Q: What educational background is needed for this occupation?**
+A: Formal education is usually not required; employers provide on-the-job training. A few cases may require a secondary school diploma. No university or vocational training required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Laundry and Dry-Cleaning Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of laundry and dry-cleaning machine operators?**
-答：In Spain, annual salaries range from €16,000 to €26,000, with entry-level around €16,000-€19,000 and experienced up to €26,000. Pay is low but may suffice in low-cost areas.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult. This is a low-skilled occupation, rarely qualifying for work visas. Unless specifically sponsored by a Spanish employer, skilled migration paths are almost nonexistent.
-
-**问：What education is needed for this occupation?**
-答：Typically no formal education required; on-the-job training is provided by employers. Some may require secondary school diploma. No university or vocational training needed.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

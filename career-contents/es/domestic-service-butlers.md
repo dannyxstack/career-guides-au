@@ -1,60 +1,96 @@
-# Domestic Service Butlers（Domestic Service Butlers）职业分析 · ES
+# Domestic Service Butlers — career analysis · Spain
 
-**职业代码：5832 – Domestic Service Butlers。**
+**Occupation code: 5832 (CNO)**
 
-Manages household staff and oversees domestic services in high-end residences, ensuring smooth operation of cleaning, dining, and hospitality tasks.
+Responsible for managing the domestic service team for high-end homes or hotel-style residences, including cleaning, catering, and etiquette reception, ensuring efficient and orderly family operations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | $1,200~$3,000（公立学校较低，私立可能更高） |
-| 酒店管理或家政管理硕士学位 | 1-2年 | $5,000~$15,000（部分私立大学课程） |
+| Vocational Training (FP Grado Superior) | 2 years | $1,200~$3,000 (Public schools have lower rates, while private schools may have higher rates) |
+| Master's degree in Hotel Management or Domestic Management | 1-2 years | $5,000~$15,000 (Some private university courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 家政服务培训证书 | 职业培训中心或行业协会 | 可选 | 非强制，但有助于就业 |
-| 酒店管理学位 | 大学或商学院 | 可选 | 有利于晋升至高级管家 |
+| Domestic Service Training Certificate | Vocational training centers or industry associations | Optional | Not mandatory, but helpful for employment |
+| Hospitality management degree | University or business school | Optional | It is favorable for promotion to senior steward |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。由于高收入家庭和外来高端人才增多，对专业家政管家的需求稳定增长，但整体职位数量有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Due to the increase in high-income families and high-end foreign talent, the demand for professional domestic housekeepers has steadily grown, but the overall number of positions is limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$60,000 | 税前年薪，高端家庭可达更高 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$60,000 | Pre-tax annual salaries can be even higher for high-end families |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从普通家政人员起步，积累经验后可晋升为管家，再发展为高级管家或家庭经理，少数进入高端酒店管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on domestic service managers is mixed: scheduling and report generation can be automated, but high-end interpersonal services and emergency decision-making are hard to replace. Entry-level positions have been reduced due to the widespread adoption of AI tools, but the value of senior butlers has actually been amplified.
+
+Usually, they start as ordinary domestic staff, gain experience, and can be promoted to butler, then to senior butler or home manager, with a few entering high-end hotel management.
+
+**Tasks most exposed to AI:**
+
+- Use AI systems to automate shift scheduling and task assignment
+- Monitor environmental status and generate reports through smart home sensors
+- Optimize inventory management and procurement lists using algorithms
+- Automatically handle customer emails and appointment requests using natural language processing
+- Robots are used to complete routine cleaning and organizing items
+
+**Where AI augments the role:**
+
+- Leverage AI to analyze customer preferences and provide personalized service recommendations
+- Use intelligent translation tools to communicate seamlessly with multilingual clients
+- Simulate banquet arrangements and quickly adjust them using virtual reality technology
+- Use sentiment analysis tools to assess customer satisfaction and improve service
+- Rely on AI monitoring systems to identify equipment faults in real time and prevent problems
+
+**Human moat:**
+
+- Handling sudden emergencies in high-end households (such as medical emergencies and security threats)
+- Provide emotional support and interpersonal communication to build long-term trust
+- Managing complex multi-party coordination (such as collaboration among chefs, drivers, and security teams)
+- Identify implicit needs (such as unstated etiquette preferences) and make forward-looking arrangements
+- Undertaking legal and ethical responsibilities (such as privacy protection and safekeeping of valuables)
+
+**Skills to build:**
+
+- Operation and programming of smart home systems (such as Control4, Crestron).
+- Data analytics and customer relationship management (CRM) tools are used
+- Cross-cultural communication and high-end etiquette (such as multilingual services)
+- Application of AI-assisted decision-making tools (such as predictive maintenance software).
+- Basic programming (Python or RPA) to customize automated workflows
+- Emergency Management and Risk Management Certification (such as CPR, security training)
+
+**Key growth areas:**
 
 - Luxury Services
 - High-net-worth Individuals
@@ -63,64 +99,66 @@ Manages household staff and oversees domestic services in high-end residences, e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，证明职位无法在当地填补，难度较高。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, proving the position cannot be filled locally, which is quite difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Domestic Service Butlers？**
-- 有服务意识与礼仪知识的人
-- 喜欢管理团队与组织工作的人
-- 适应灵活工作时间的人
+**Who is suited**
+- People with a sense of service and knowledge of etiquette
+- People who enjoy managing teams and organizing work
+- People who adapt to flexible working hours
 
-**谁不适合学Domestic Service Butlers？**
-- 不擅长人际沟通的人
-- 追求稳定双休日的人
+**Who is not suited**
+- People not good at interpersonal communication
+- Those seeking stable weekends
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for domestic butlers?**
+A: Entry-level salaries are about 20,000-28,000 euros, intermediate 28,000-40,000 euros, and seniors can exceed 60,000 euros, depending on the employer and responsibilities.
+
+**Q: Can foreigners immigrate to Spain through the domestic housekeeper profession?**
+A: It's very difficult. This occupation is not considered in short supply and requires employers to prove that it cannot be recruited locally; it is generally only suitable for EU citizens.
+
+**Q: What promotion opportunities are available for domestic housekeepers?**
+A: They can be promoted to senior butlers or home managers, or move to high-end hotel management; a few may start housekeeping service companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Domestic Service Butlers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for domestic service butlers?**
-答：Entry-level around €20,000-€28,000, mid-level €28,000-€40,000, senior up to €60,000+ annually, depending on employer and duties.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. It is not a shortage occupation and requires employer proof of local labor shortage, usually only feasible for EU citizens.
-
-**问：What advancement opportunities exist for butlers?**
-答：Can progress to senior butler, household manager, or move into luxury hotel management; a few start their own household service companies.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

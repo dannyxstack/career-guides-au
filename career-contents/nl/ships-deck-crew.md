@@ -1,59 +1,95 @@
-# Ship's Deck Crew（Ship's Deck Crew）职业分析 · NL
+# Ship's Deck Crew — career analysis · Netherlands
 
-**职业代码：8350 – Ship's Deck Crew。**
+**Occupation code: 8350 (ISCO08)**
 
-Responsible for deck operations, mooring, lookout, and routine maintenance to ensure safe navigation, working mainly on merchant vessels, fishing boats, and offshore ships.
+Responsible for deck operations, mooring, lookout, and daily maintenance to ensure navigation safety, mainly on merchant ships, fishing vessels, and offshore vessels.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3年 | —（MBO 学费约每年 €1,200-€2,000，但可能有政府补贴） |
-| 高等职业教育 (HBO) | 4年（本科） | $9,000~$15,000（HBO 学费约每年 €2,200-€3,500，非欧盟学生更高） |
+| Secondary vocational education (MBO) | 3 years | $0~$10,000 (MBO tuition is approximately €1,200-€2,000 per year, but government subsidies may be available) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $9,000~$15,000 (HBO tuition fees are approximately €2,200-€3,500 per year, higher for non-EU students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基本安全培训 (BST) | 荷兰海事培训中心 | 必备 | STCW 公约要求，所有海员必须持有 |
-| 值班水手证书 | 荷兰海事局 | 必备 | 需通过考试，证明瞭望和操舵能力 |
-| 高级水手证书 | 荷兰海事局 | 可选 | 需至少12个月海上服务经验 |
+| Basic Safety Training (BST) | Netherlands Maritime Training Centre | Required | The STCW Convention requires that all seafarers must hold |
+| Watchkeeper certificate | Netherlands Maritime Authority | Required | Must pass tests demonstrating lookout and steering abilities. |
+| Advanced Seaman Certificate | Netherlands Maritime Authority | Optional | Requires at least 12 months of sea service experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰海运业发达，鹿特丹港是全球重要枢纽，对合格甲板船员需求稳定。但自动化趋势可能减少部分低技能岗位，且工作受经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Netherlands has a thriving maritime industry, with the Port of Rotterdam being a global hub, ensuring stable demand for qualified deck crew. However, automation trends may reduce some low-skilled jobs, and work is affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 月薪约 €2,100-€2,900，不含津贴 |
-| 中级（3-7年） | $35,000~$48,000 | 月薪约 €2,900-€4,000 |
-| 高级（7年以上） | $48,000~$60,000 | 水手长级别，月薪约 €4,000-€5,000 |
+| Median salary | $37,346 | Median salary (official: CBS median hourly wage €18.9/hour × 1976 h annualized, BRC group 1311 Beroepsgroep overig; P25–P75 €30,628–€49,400, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$35,000 | Monthly salary approximately €2,100-€2,900, excluding allowances |
+| Mid-level (3–7 years) | $35,000~$48,000 | Monthly salary approximately €2,900-€4,000 |
+| Senior (7+ years) | $48,000~$60,000 | Bosun level, monthly salary approx. €4,000-€5,000 |
+| average salary | $41,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从普通水手（OS）起步，积累经验后可晋升为高级水手（AB），再通过考试成为水手长或甲板军官（如三副、二副），最终可考取船长证书。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The tasks of ship deck crew are highly structured and repetitive, such as lookout, mooring, and recording, making them susceptible to replacement by AI-driven automated systems, but physical operations and emergency response still require humans, posing significant job risk.
+
+Starting as an Ordinary Seaman (OS), you can advance to Able Seaman (AB) with experience, then through exams become a Bosun or Deck Officer (e.g., 3rd Mate, 2nd Mate), and eventually obtain a Captain's certificate.
+
+**Tasks most exposed to AI:**
+
+- Automated lookout system replaces human visual monitoring; AI processes radar and AIS data to warn of collisions
+- Automated mooring system replaces manual heaving and winching operations
+- Electronic logs and reports are automatically generated, replacing manual navigation log recording.
+- Autonomous driving algorithms control ship course and speed, replacing manual steering
+- AI predictive maintenance systems replace equipment status checks in routine inspections
+
+**Where AI augments the role:**
+
+- AI decision support system enhances situational awareness and provides collision avoidance suggestions
+- Real-time meteorological and oceanographic data analysis optimizes route planning
+- AR headsets display overlay information, enhancing lookout efficiency at night or in fog
+- AI training simulators enhance emergency drills and skill training effectiveness
+- Remote monitoring center specialists assist with fault handling through AI systems
+
+**Human moat:**
+
+- Quick decision-making and physical operations (e.g., abandoning ship, firefighting) in emergencies.
+- Experience in manual maneuvering of complex ports and narrow waterways
+- Cross-cultural team management and passenger communication skills
+- Physical intuition and experiential judgment for ship machinery and structures
+- Legal duties and maritime law compliance responsibilities.
+
+**Skills to build:**
+
+- AI-assisted navigation system operation and data interpretation
+- Automated mooring and cargo handling equipment control
+- Data analysis fundamentals: understanding sensor outputs and predictive models
+- Remote operation and drone/ROV collaboration skills
+- Digital Security Basics: Defending Against GPS Spoofing and Cyber Attacks
+- Interdisciplinary learning: mechatronics fundamentals
+
+**Key growth areas:**
 
 - Shipping
 - Offshore Wind
@@ -62,65 +98,64 @@ Responsible for deck operations, mooring, lookout, and routine maintenance to en
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受过高等教育且找到荷兰雇主的非欧盟公民，需满足薪资门槛（2025年约 €5,600/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，需有雇主合同且薪资高于平均，可快速获得居留 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于在荷兰或世界顶尖大学取得硕士/博士学位的非欧盟毕业生，可在荷兰自由求职一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to non-EU citizens with higher education who have found an employer in the Netherlands, must meet the salary threshold (~€5,600/month in 2025) |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires an employer contract and salary above average, with fast-track residency |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For non-EU graduates with a master's or doctoral degree from a university in the Netherlands or a top global university, allows one year of free job seeking in the Netherlands |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ship's Deck Crew？**
-- 喜欢海上工作、适应长期离家
-- 动手能力强、身体健壮
-- 愿意从基层做起，逐步晋升
-
-**谁不适合学Ship's Deck Crew？**
-- 易晕船或不适应船上封闭环境
-- 追求稳定朝九晚五生活
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys working at sea and adapting to long periods away from home.
+- High hands-on ability and physical strength
+- Willing to start from entry-level and gradually advance
+
+**Who is not suited**
+- Prone to seasickness or inability to adapt to enclosed ship environments
+- Seeking a stable 9-to-5 lifestyle
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for deck crew?**
+A: Junior annual salary approx. €25,000-€35,000, senior up to €60,000; shipowners usually provide accommodation and meals, resulting in higher net income.
+
+**Q: How can non-EU citizens become deck crew in the Netherlands?**
+A: Must first obtain a job contract with a Dutch employer and apply for a highly skilled migrant visa or EU Blue Card. Also need to pass STCW training and seafarer medical examination visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Ship's Deck Crew的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for deck crew?**
-答：Entry-level annual salary ranges from €25,000 to €35,000, senior roles up to €60,000; onboard accommodation and meals are usually provided.
-
-**问：How can non-EU citizens become deck crew in the Netherlands?**
-答：You need a job offer from a Dutch employer, then apply for a Highly Skilled Migrant visa or EU Blue Card. STCW training and medical fitness certificate are required.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

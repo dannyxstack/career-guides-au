@@ -1,60 +1,96 @@
-# Ship's Deck Crew（Ship's Deck Crew）职业分析 · IT
+# Ship's Deck Crew — career analysis · Italy
 
-**职业代码：8350 – Ship's Deck Crew。**
+**Occupation code: 8350 (ISCO08)**
 
-Ship's deck crew members are responsible for navigation watches, vessel maintenance, cargo handling, and mooring operations, forming an essential part of the maritime workforce on cargo ships, passenger vessels, and fishing boats.
+Ship deck crew are responsible for navigation watches, ship maintenance, cargo loading and unloading, and berthing/unberthing operations; they are essential foundational roles in the maritime industry. They mainly work on cargo ships, passenger ships, fishing vessels, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1-2年 | $2,000~$8,000（海事培训学校课程费用） |
-| 高中文凭 | 无需额外教育 | —（仅需完成义务教育） |
+| Vocational training | 1-2 years | $2,000~$8,000 (Maritime training school course fees) |
+| High school diploma | No additional education required | $0~$0 (Only requires completion of compulsory education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全培训证书 | 意大利海岸警卫队 | 必备 | STCW公约要求的强制性培训 |
-| 水手职业资格证书 | 意大利海事局 | 必备 | 证明甲板基本操作能力 |
-| 海上急救证书 | 认可培训机构 | 必备 | 持有有效急救证书 |
-| 航海英语证书 | 国际海事组织认可机构 | 可选 | 部分船东要求，非强制 |
+| Basic safety training certificate | Italian Coast Guard | Required | Mandatory training required by the STCW Convention |
+| Seafarer qualification certificate | Italian Maritime Authority | Required | Demonstrate basic deck operation skills |
+| Maritime First Aid Certificate | Registered Training Organisation (RTO) | Required | Holds a valid first aid certificate |
+| Maritime English Certificate | International Maritime Organization recognized body | Optional | Some ship owners require it, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利海运业发达，拥有热那亚、威尼斯等重要港口，对甲板船员需求稳定。但欧盟内部船员流动性大，新入行者需适应海上工作环境。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Italy has a developed maritime industry with major ports such as Genoa and Venice, leading to stable demand for deck crew. However, crew mobility within the EU is high, and newcomers need to adapt to the offshore working environment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 包括基本工资和海上津贴 |
-| 中级（3-8年） | $26,000~$36,000 | 含加班费和奖金 |
-| 高级（8年以上） | $37,000~$50,000 | 水手长或高级水手 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Including base salary and sea allowance |
+| Mid-level (3–8 years) | $26,000~$36,000 | Including overtime pay and bonuses |
+| Senior (8+ years) | $37,000~$50,000 | Bosun or senior sailor |
+| average salary | $32,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从普通水手起步，可晋升为高级水手、水手长，再通过考取资格证书成为值班驾驶员（二副、大副），最终可担任船长。需积累航海经验与专业培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Work for ship deck crew will be partially changed by automation and AI: routine navigation monitoring and recording may be automated, but complex operational tasks and emergency decisions still rely on humans; career prospects are mixed.
+
+Starting as an ordinary sailor, one can advance to senior sailor, bosun, then pass qualification exams to become a deck officer (second mate, chief mate), and ultimately serve as captain. Requires accumulated sailing experience and professional training.
+
+**Tasks most exposed to AI:**
+
+- Automatic navigation and route optimization during navigation watch.
+- Sensor-based collision avoidance and alert monitoring
+- Automation of cargo loading and stability calculations
+- AI tools for daily log and report generation
+- Predictive maintenance diagnosis for equipment performance
+
+**Where AI augments the role:**
+
+- AI-assisted decision-making system enhances berthing safety under complex port weather conditions
+- Augmented reality (AR) systems used for repair guidance and system inspection
+- AI-driven energy management system optimizes fuel consumption
+- Automatic Identification System (AIS) data fusion provides full maritime situational awareness
+- Assisted hull external inspection and rust removal using drones and remote-controlled robots
+
+**Human moat:**
+
+- Rapid decision-making and team coordination skills in emergency situations
+- Complex manual operations, such as cable mooring and maintenance
+- Unstructured judgment of sea conditions and human factors
+- Communication and responsibility as a team leader
+- Execution of safety culture in compliance with maritime regulations
+
+**Skills to build:**
+
+- Basic programming and AI tool usage (e.g., route optimization software)
+- Data analysis and dashboard interpretation skills
+- Skills in remotely operating drones or robots.
+- Advanced maritime regulations and certification updates
+- Soft skills: cross-cultural communication and crisis management
+- Digital forensics and cybersecurity fundamentals
+
+**Key growth areas:**
 
 - Maritime trade
 - Crew shortage
@@ -63,68 +99,67 @@ Ship's deck crew members are responsible for navigation watches, vessel maintena
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能船员，需持有大学学位或同等学历及雇佣合同，薪资须达到门槛 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟低技能或季节性船员，每年有配额限制 |
-| Subclass Carta Blu UE（Carta Blu UE） | 意大利欧盟蓝卡，需满足薪资要求（约24,000欧元以上） |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled crew, requiring a university degree or equivalent and an employment contract, with salary meeting the threshold. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU low-skilled or seasonal crew, there are annual quota limits. |
+| Subclass Carta Blu UE (Carta Blu UE) | Italian EU Blue Card, requires meeting salary requirements (approximately €24,000 or more) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ship's Deck Crew？**
-- 喜欢海上生活和旅行，能适应长时间离家
-- 动手能力强，身体健康，不晕船
-- 愿意从基层做起，逐步晋升
-
-**谁不适合学Ship's Deck Crew？**
-- 不能适应颠簸和封闭环境
-- 希望稳定朝九晚五工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy life at sea and travel, able to adapt to long periods away from home
+- Strong practical skills, good health, and not prone to seasickness
+- Willing to start from entry-level and gradually advance
+
+**Who is not suited**
+- Unable to adapt to bumpy and confined environments.
+- Seeking a stable 9-to-5 job
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Italian deck crew?**
+A: Entry-level crew annual salary approx. €18,000-25,000, mid-level €26,000-36,000, senior sailors up to €37,000-50,000, including sea allowances and overtime pay.
+
+**Q: How can non-EU citizens obtain an Italian deck crew work visa?**
+A: Available through Decreto Flussi quota work visa or EU Blue Card. Quota work visa has annual caps, while EU Blue Card requires high skills and higher salary.
+
+**Q: What are the promotion opportunities for deck crew?**
+A: Advance from ordinary seaman to able seaman, bosun, then obtain STCW certificate to become an officer, eventually reaching captain, typically taking 5–10 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Ship's Deck Crew的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for deck crew in Italy?**
-答：Entry-level deck crew earn €18,000-€25,000 annually, mid-level €26,000-€36,000, and senior personnel up to €37,000-€50,000, including sea allowances and overtime.
-
-**问：How can non-EU citizens obtain a work visa for deck crew in Italy?**
-答：Via the Decreto Flussi quota work visa or EU Blue Card. The quota visa has annual limits, while the Blue Card requires high skills and higher salary.
-
-**问：What career progression opportunities exist for deck crew?**
-答：From ordinary seaman to able seaman, boatswain, then STCW-certified officer, and eventually captain, typically taking 5-10 years.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

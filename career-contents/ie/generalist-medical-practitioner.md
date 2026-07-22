@@ -1,59 +1,94 @@
-# Generalist Medical Practitioner（Generalist Medical Practitioner）职业分析 · IE
+# Generalist Medical Practitioner — career analysis · Ireland
 
-**职业代码：2211 – Generalist Medical Practitioner。**
+**Occupation code: 2211 (ISCO08)**
 
-Generalist Medical Practitioners are the backbone of Ireland's healthcare system, providing primary care, prevention, and chronic disease management in community and hospital settings. They must be registered with the Irish Medical Council.
+General practitioners are the core of the Irish healthcare system, providing primary care, preventive health, and chronic disease management in communities and hospitals. They must register with the Irish Medical Council and are mainly employed by the HSE and private clinics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学本科 | 5-6年 | $25,000~$50,000（欧盟学生学费约€3,000-5,000/年，非欧盟约€25,000-50,000/年） |
-| 全科专科培训 | 4年 | —（受薪培训，年薪约€30,000-50,000） |
+| Bachelor of Medicine (MBBS). | 5-6 years. | $25,000~$50,000 (EU student fees approx. €3,000-5,000/year, non-EU approx. €25,000-50,000/year) |
+| General specialist training | 4 years | $0~$0 (Paid training, annual salary approx. €30,000-50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰医学委员会注册 | Irish Medical Council | 必备 | 所有执业医生必须注册 |
-| 全科专科医师证书 | Irish College of General Practitioners | 必备 | 完成4年ICGP培训获得 |
-| 英语能力证明（雅思/ OET） | IELTS/OET | 可选 | 非欧盟申请人需提供 |
+| Registration with the Irish Medical Council | Irish Medical Council | Required | All practicing doctors must be registered |
+| General and Specialist Physician Certificate | Irish College of General Practitioners | Required | Obtained by completing 4-year ICGP training |
+| Proof of English proficiency (IELTS/OET) | IELTS/OET | Optional | Required for non-EU applicants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★★）。** 全国从业人数约 4,500。爱尔兰全科医生持续短缺，尤其农村地区。政府计划增加培训名额并改善留任条件，未来十年需求强劲。
+**Job demand: very high (★★★★★).** National workforce approx. 4,500. Ireland faces a persistent shortage of GPs, especially in rural areas. The government plans to increase training places and improve retention conditions, with strong demand expected over the next decade.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 住院医师及培训期 |
-| 中级（4-10年） | $90,000~$130,000 | 资浅GP或受雇于诊所 |
-| 高级（10年以上） | $130,000~$200,000 | GP合伙人或资深顾问，私立执业更高 |
+| Median salary | $110,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $60,000~$80,000 | Medical Residents and Interns |
+| Mid-level (4-10 years). | $90,000~$130,000 | Junior GP or employed by a clinic |
+| Senior (10+ years) | $130,000~$200,000 | GP partner or senior consultant, higher earnings in private practice |
+| average salary | $115,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 职业路径：住院医师→全科专科培训（4年）→GP合伙人或独立执业。可向管理、教学或公共卫生发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on general practitioner roles is mixed: automation tools will take over some administrative tasks, data entry, and initial screening, but clinical reasoning, patient communication, and complex diagnoses remain highly human-dependent; AI has strong enhancement potential but requires careful integration to maintain trust.
+
+Career path: Resident physician → General practice specialist training (4 years) → GP partner or independent practice. Can develop into management, teaching, or public health.
+
+**Tasks most exposed to AI:**
+
+- Medical record entry and basic data organization.
+- Routine test results interpretation and preliminary screening
+- Appointment scheduling and patient notification
+- Automated prescription review and duplicate prescription generation
+
+**Where AI augments the role:**
+
+- AI-assisted image reading (e.g., X-rays, skin lesions) improves diagnostic accuracy
+- Clinical decision support system alerts for drug interactions and guideline updates
+- Natural language processing automatically generates medical record summaries and referral letters
+- Remote patient monitoring data is automatically analyzed and alerts for anomalies.
+- Using knowledge retrieval tools to quickly access information on rare disease diagnosis and treatment
+
+**Human moat:**
+
+- Clinical reasoning and diagnostic decision-making in complex cases
+- Empathetic communication and patient trust building
+- Integrating multi-source information (social, psychological, family) to develop personalized treatment plans
+- Rapid response and manual handling in emergencies
+- Assume medical legal and ethical responsibilities
+
+**Skills to build:**
+
+- Use and validation of AI-assisted diagnostic tools
+- Medical data analysis and interpretation (including basics of machine learning).
+- Advanced applications and interoperability of electronic health records.
+- Telehealth consultation and communication skills.
+- Interdisciplinary collaboration and AI system management
+- Continuous learning of new technologies and evidence-based medicine updates
+
+**Key growth areas:**
 
 - Primary Care
 - Aging Population
@@ -62,68 +97,67 @@ Generalist Medical Practitioners are the backbone of Ireland's healthcare system
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业，全科医生在列。需年薪≥€32,000。可快速申请Stamp 4。家属可工作。 |
-| Subclass General Employment P（General Employment Permit） | 若未达Critical Skills标准，可申请此许可。需年薪≥€30,000。雇主需通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥€64,000（2024年标准）。提供欧盟长期居留路径。适用于高技能非欧盟医生。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to shortage occupations, GPs included. Requires annual salary ≥€32,000. Eligible for fast-track Stamp 4. Dependents can work. |
+| Subclass General Employment P (General Employment Permit) | If Critical Skills criteria are not met, this permit may be applied for. Requires annual salary ≥ €30,000. Employer must pass labour market test. |
+| Subclass EU Blue Card (EU Blue Card) | Minimum annual salary of €64,000 (2024 standard). Provides pathway to EU long-term residency. Applies to highly skilled non-EU doctors. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Generalist Medical Practitioner？**
-- 有志于长期从事社区医疗的医学毕业生
-- 适应高强度工作、具备良好沟通能力者
-- 愿意定居爱尔兰农村或偏远地区者
-
-**谁不适合学Generalist Medical Practitioner？**
-- 无法接受漫长培训周期者
-- 偏好固定工作时间、低压力环境者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical graduates aspiring to long-term community healthcare
+- Those who can adapt to high-intensity work and have good communication skills
+- Willing to settle in rural or remote areas of Ireland
+
+**Who is not suited**
+- Those who cannot accept long training cycles
+- Those who prefer fixed working hours and a low-stress environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for general practitioners in Ireland?**
+A: Junior GP annual salary around €60,000-80,000, senior GP can reach €130,000-200,000, private practice higher.
+
+**Q: How can non-EU general practitioners migrate to Ireland?**
+A: Can apply for Critical Skills Employment Permit (shortage occupation, salary ≥ €32,000) or EU Blue Card (salary ≥ €64,000). Requires IMC registration and English exam.
+
+**Q: How can overseas doctors register in Ireland?**
+A: Must apply to the Irish Medical Council (IMC), submit credential assessment, internship certificate, language test results, and pass relevant exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★★） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Generalist Medical Practitioner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Generalist Medical Practitioners in Ireland?**
-答：Entry-level GPs earn €60,000-80,000, experienced GPs up to €130,000-200,000, with private practice potentially higher.
-
-**问：How can non-EU Generalist Medical Practitioners immigrate to Ireland?**
-答：You can apply for a Critical Skills Employment Permit (shortage occupation, salary ≥€32,000) or an EU Blue Card (salary ≥€64,000). IMC registration and English test required.
-
-**问：How do overseas doctors register in Ireland?**
-答：Apply to the Irish Medical Council (IMC) with degree verification, internship proof, language scores, and pass required exams.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

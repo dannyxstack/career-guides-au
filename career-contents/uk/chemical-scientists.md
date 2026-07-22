@@ -1,58 +1,92 @@
-# Chemical scientists（Chemical scientists）职业分析 · UK
+# Chemical scientists — career analysis · United Kingdom
 
-**职业代码：2111 – Chemical scientists。**
+**Occupation code: 2111 (SOC)**
 
-Chemical scientists analyze and research physical aspects of chemical structure and change within substances, developing techniques for manufacturing or modifying natural and processed products.
+Chemical scientists analyze and research the chemical structure and changes of substances, developing chemical technologies for manufacturing or modifying natural substances and processed products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $9,250~$38,000（英国本科学费每年£9,250-£38,000，取决于大学和国籍） |
-| 硕士 | 1年 | $10,000~$30,000（硕士学费每年£10,000-£30,000） |
+| Bachelor's degree | 3-4 years | $9,250~$38,000 (UK undergraduate tuition fees range from £9,250 to £38,000 per year, depending on the university and nationality) |
+| Master's degree | 1 year | $10,000~$30,000 (Master's tuition fees £10,000-£30,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学或相关学科本科学位 | 大学 | 必备 | 通常需要2:1荣誉学位 |
-| 博士学位 | 大学 | 可选 | 研究职位通常要求博士学历 |
+| Bachelor's degree in chemistry or related discipline | University | Required | typically requires a 2:1 honours degree |
+| Doctoral degree (PhD) | University | Optional | Research positions usually require a doctoral degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 20,000。英国化工行业预计未来几年将温和增长，对化学科学家的需求稳定，尤其在制药、材料科学和绿色化学领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 20,000. The UK chemical industry is expected to grow modestly in the coming years, with stable demand for chemical scientists, especially in pharmaceuticals, materials science, and green chemistry.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 毕业生起薪约£25,000-£32,000 |
-| 中级（4-9年） | $35,000~$50,000 | 有经验化学科学家年薪£35,000-£50,000 |
-| 高级（10年以上） | $50,000~$70,000 | 高级科学家/经理年薪£50,000-£70,000+ |
+| Median salary | $39,983 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Graduate starting salary approx. £25,000-£32,000 |
+| Intermediate (4-9 years) | $35,000~$50,000 | Experienced chemical scientist: £35,000–£50,000 per year |
+| Senior (10+ years) | $50,000~$70,000 | Senior scientist/manager salary £50,000-£70,000+ per year |
+| average salary | $49,758 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级研究员可晋升为高级科学家或团队领导，也可转向项目管理或研发管理方向。学术界路径从博士后到讲师、教授。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of a chemical scientist is mixed: routine experiments and data analysis will be largely automated, but innovative research, interdisciplinary problem-solving, and experimental design remain human strengths.
+
+Junior researcher can advance to senior scientist or team leader, or move into project management or R&D management. Academic path from postdoc to lecturer, professor.
+
+**Tasks most exposed to AI:**
+
+- Automate repetitive lab operations (e.g., pipetting, titration, chromatographic injection)
+- Routine structural elucidation of compounds and spectral matching
+- Manual retrieval and organization of large-scale literature data
+- Standard report generation and quality control statistics
+
+**Where AI augments the role:**
+
+- AI-assisted molecular design and synthesis pathway planning
+- Machine learning to predict chemical properties and reactivity
+- Design and optimization of automated experimental platforms
+- Multi-scale simulation and experimental collaborative validation
+- R&D Project Management: AI Scheduling and Resource Allocation
+
+**Human moat:**
+
+- Interdisciplinary innovative thinking: combining chemistry with biology, materials, and engineering
+- Creative experimental design: ability to solve non-standard problems
+- Research ethics and safety judgment: responsible decision-making in complex situations
+- Team collaboration and communication: integrating insights from experts in different fields
+
+**Skills to build:**
+
+- Python/R programming and cheminformatics tools (RDKit, PyTorch)
+- Machine learning and data science (scikit-learn, TensorFlow)
+- Automated laboratory platform operation (liquid handling workstations, microreactors)
+- Computational chemistry and molecular simulation (DFT, MD)
+- Statistical Design of Experiments (DoE) and process optimization
+- Soft skills: interdisciplinary communication, project management.
+
+**Key growth areas:**
 
 - Pharmaceuticals
 - Green Chemistry
@@ -61,65 +95,64 @@ Chemical scientists analyze and research physical aspects of chemical structure 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得英国雇主担保的化学科学家，满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在化学领域有杰出成就或潜力的研究人员 |
-| Subclass Graduate（Graduate Visa） | 适用于在英国完成学位的毕业生，可停留2年寻找工作 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to chemical scientists with UK employer sponsorship, meeting salary and skill requirements |
+| Subclass Global Talent (Global Talent Visa) | Applicable to researchers with outstanding achievements or potential in chemistry |
+| Subclass Graduate (Graduate Visa) | Applicable to graduates who have completed a degree in the UK, allowing them to stay for 2 years to look for work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical scientists？**
-- 对化学有强烈兴趣并愿意长期钻研的人
-- 喜欢实验室工作和数据分析的人
-- 有耐心和注重细节的人
-
-**谁不适合学Chemical scientists？**
-- 不喜欢重复性实验操作的人
-- 对职业发展速度期望过高的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in chemistry and a willingness to engage in long-term research
+- People who enjoy laboratory work and data analysis
+- Patient and detail-oriented individuals
+
+**Who is not suited**
+- Those who dislike repetitive experimental operations
+- People with overly high expectations for career progression speed.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a chemical scientist?**
+A: Junior: approx £25,000-£32,000, mid-level: £35,000-£50,000, senior: £50,000-£70,000+.
+
+**Q: Can chemical scientists immigrate to the UK via skilled migration?**
+A: Yes. This occupation is on the Skilled Worker visa list and is a shortage occupation with a lower salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chemical scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for chemical scientists?**
-答：Entry-level: £25,000-£32,000; mid-level: £35,000-£50,000; senior: £50,000-£70,000+.
-
-**问：Can chemical scientists migrate to the UK via skilled work visa?**
-答：Yes. It is on the Skilled Worker list and on the shortage occupation list with lower salary thresholds.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

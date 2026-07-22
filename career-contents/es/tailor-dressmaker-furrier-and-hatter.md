@@ -1,60 +1,96 @@
-# Tailor, Dressmaker, Furrier and Hatter（Tailor, Dressmaker, Furrier and Hatter）职业分析 · ES
+# Tailor, Dressmaker, Furrier and Hatter — career analysis · Spain
 
-**职业代码：7831 – Tailor, Dressmaker, Furrier and Hatter。**
+**Occupation code: 7831 (CNO)**
 
-Professionals who make, alter, and repair custom clothing, including suits, dresses, fur garments, and hats, often working in small workshops or for individual clients.
+Engaged in customizing, altering, designing, and making clothing, including men's and women's clothing, furs, and hats, usually working for individual clients or small workshops.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立学校免费，仅需少量注册费） |
-| 职业培训（FP Grado Superior） | 2年 | —（公立学校免费，私立约2000欧元/年） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free and require only a small registration fee) |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 裁缝职业培训证书 | 西班牙教育部或自治区 | 可选 | FP Grado Medio或Superior相关专业，如Confección y Moda |
-| 商业执照 | 当地市政府 | 必备 | 开设独立工坊需申请商业活动执照 |
+| Business license | Local city council | Required | Establishing an independent workshop requires applying for a business activity license |
+| Tailor vocational training certificate | The Spanish Ministry of Education or the autonomous community | Optional | FP Grado Medio or Superior-related majors, such as Confección y Moda |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。西班牙该职业受快时尚冲击较大，传统定制需求萎缩，但高端定制和修复市场仍有稳定需求，预计从业人数缓慢下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. In Spain, this profession has been heavily impacted by fast fashion, with traditional customization demand shrinking, but the high-end customization and restoration market still has stable demand, and the number of workers is expected to slowly decline.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 受雇于工坊或服装店 |
-| 中级（4-7年） | $20,000~$28,000 | 独立裁缝或小工坊主 |
-| 高级（8年以上） | $28,000~$40,000 | 高端定制裁缝或知名工坊主 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Employed in workshops or clothing stores |
+| Mid-level (4-7 years) | $20,000~$28,000 | Independent tailors or small workshop owners |
+| Senior (8+ years) | $28,000~$40,000 | High-end tailoring or well-known workshop owners |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从学徒或裁缝助理做起，积累经验后成为独立裁缝或开设定制工坊，也可向服装设计师、服装修复师发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+You can start as an apprentice or tailor's assistant, gain experience, become an independent tailor, open a custom workshop, or develop into a fashion designer or clothing restorer.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - declining demand
 - fast fashion impact
@@ -63,62 +99,64 @@ Professionals who make, alter, and repair custom clothing, including suits, dres
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于西班牙企业的工作居留，需雇主担保，该职业非紧缺，担保难度较大。 |
-| Subclass Cuenta propia（Work Permit (Self-Employed)） | 自雇工作居留，需提交商业计划书和足够资金证明。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residence with a Spanish company; employer sponsorship needed. This occupation is not in shortage, making sponsorship difficult. |
+| Subclass Cuenta propia (Work Permit (Self-Employed)) | For self-employed residence permits, a business plan and proof of sufficient funds must be submitted. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tailor, Dressmaker, Furrier and Hatter？**
-- 对手工制作和服装设计有热情的人
-- 喜欢独立工作且注重细节的人
-- 愿意在高端定制领域深耕的人
+**Who is suited**
+- People passionate about handicrafts and fashion design
+- People who enjoy working independently and pay attention to detail
+- Those willing to deeply cultivate the high-end customization field
 
-**谁不适合学Tailor, Dressmaker, Furrier and Hatter？**
-- 追求高收入和快速晋升的人
-- 对快节奏、工业化生产环境更适应的人
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- People who are better suited to fast-paced, industrialized production environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for tailors in Spain?**
+A: Junior tailor annual salary approx. 16,000-20,000 euros, mid-level 20,000-28,000, senior up to 40,000. Salary heavily influenced by region and work pattern.
+
+**Q: Can foreign tailors immigrate to Spain?**
+A: This occupation is not on Spain's shortage list; skilled migration visas (e.g., EU Blue Card) are difficult to obtain. A more feasible path is self-employment work residency, requiring proof of sufficient financial capacity and a business plan.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tailor, Dressmaker, Furrier and Hatter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a tailor in Spain?**
-答：Entry-level tailors earn around €16,000-20,000 annually, mid-level €20,000-28,000, and senior tailors up to €40,000. Salaries vary by region and employment type.
-
-**问：Can a foreign tailor immigrate to Spain?**
-答：This occupation is not in shortage in Spain, making skilled migration visas like the EU Blue Card difficult. The self-employment work permit is more feasible, requiring a solid business plan and sufficient funds.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

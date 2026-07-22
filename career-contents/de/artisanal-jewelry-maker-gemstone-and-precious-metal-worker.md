@@ -1,62 +1,98 @@
-# Artisanal Jewelry Maker, Gemstone and Precious Metal Worker（Artisanal Jewelry Maker, Gemstone and Precious Metal Worker）职业分析 · DE
+# Artisanal Jewelry Maker, Gemstone and Precious Metal Worker — career analysis · Germany
 
-**职业代码：9352 – Artisanal Jewelry Maker, Gemstone and Precious Metal Worker。**
+**Occupation code: 9352 (KldB)**
 
-This occupation focuses on handcrafting jewelry, processing gemstones and precious metals (e.g., gold, silver, platinum). Professionals design and produce rings, necklaces, and other adornments, performing tasks like setting, engraving, casting, and repairing antique jewelry. Work typically occurs in small workshops or jewelry firms, emphasizing artistry and precision.
+This occupation focuses on handcrafting jewelry items, processing gemstones and precious metals such as gold, silver, and platinum. Practitioners design and manufacture pieces like rings and necklaces, perform setting, engraving, casting, and other techniques, and repair and restore antique jewelry. Work typically takes place in small studios or jewelry businesses, emphasizing artistry and fine craftsmanship.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育（Ausbildung） | 3年 | —（双元制培训通常免学费，企业发放津贴，少量教材费用约500欧元） |
-| 大师培训（Meister） | 1-2年（全日制） | $3,000~$8,000（进修金匠大师课程，费用约3000-8000欧元，可申请政府补助） |
-| 珠宝设计/工艺本科 | 3-4年 | —（公立大学免学费，学期费约300欧元/年，材料费另计） |
+| Dual vocational education and training (Ausbildung) | 3 years | $0~$500 (Dual system training is usually tuition-free, with companies providing allowances; minimal material costs around 500 euros.) |
+| Master craftsman training (Meister) | 1-2 years (full-time) | $3,000~$8,000 (Advanced Goldsmith Master Course, approximately €3,000-8,000, with government grant eligibility.) |
+| Bachelor's in jewelry design/craft | 3-4 years | $0~$1,500 (Public universities are tuition-free; semester fees approx. €300/year, materials extra) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金匠/银匠职业资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试，是从事该职业的基本资质 |
-| 金匠大师证书 | 德国手工业协会（HWK） | 可选 | 可选进修，获得大师称号后可独立开业并带徒 |
-| 资质认证（Anerkennung） | 德国主管机构（如IHK） | 必备 | 外国学历需通过等效性评估，可能需补充培训或考试 |
+| Gold/Silversmith qualification | German Chamber of Commerce and Industry (IHK) | Required | Completion of dual vocational training and passing the final exam is the basic qualification for this occupation |
+| Qualification recognition (Anerkennung) | German authorities (e.g., IHK) | Required | Foreign qualifications must undergo equivalence assessment, may require supplementary training or exams |
+| Master Goldsmith Certificate | German Chamber of Crafts (HWK) | Optional | Optional further study to obtain master craftsman status, allowing independent practice and taking on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。德国珠宝手工艺行业规模较小但稳定，受奢侈消费和旅游业支撑。由于数字化和3D打印兴起，传统手工岗位面临一定压力，但高端定制和修复领域仍有需求。技术工人短缺不显著，就业机会集中在专业珠宝工坊和零售店。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The German jewelry handicraft industry is small but stable, supported by luxury consumption and tourism. Due to the rise of digitalization and 3D printing, traditional manual positions face some pressure, but demand remains in high-end custom and restoration fields. There is no significant shortage of skilled workers; job opportunities are concentrated in specialized jewelry workshops and retail stores.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，双元制毕业后起薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，经验丰富后薪资上涨 |
-| 高级（7年以上或大师） | $40,000~$55,000 | 税前年薪，含大师或自雇者收入上限 |
+| Median salary | $38,532 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary, starting salary after dual system graduation |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, increases with experience |
+| Advanced (7+ years or master level) | $40,000~$55,000 | Annual pre-tax salary, including income cap for masters or self-employed |
+| average salary | $42,252 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：从学徒或初级工匠起步，积累经验后可晋升为高级珠宝师或部门主管；资深工匠可开设个人工作室或成为珠宝设计师。通过继续教育（如金匠大师Meister）可拓展技能，向教学或质检方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
+
+Career path: start as an apprentice or junior craftsman, gain experience, and advance to senior jeweler or department head; experienced craftsmen can open a personal studio or become jewelry designers. Further education (e.g., Master Goldsmith Meister) can expand skills toward teaching or quality inspection.
+
+**Tasks most exposed to AI:**
+
+- Routine metal polishing and grinding (can be automated with AI-controlled robotic arms).
+- Gem cutting and setting calculations (parametric modeling to optimize cut automatically)
+- Repetitive inlay path planning (AI vision system assisted positioning)
+- Inventory management and simple design sketch generation (generative AI for rapid output)
+- Quality inspection and sorting of batch jewelry (computer vision for automatic defect detection)
+
+**Where AI augments the role:**
+
+- Complex 3D modeling and rendering (AI generates design variants for rapid style exploration)
+- Gem optimization cutting simulation (AI analyzes internal structure of rough stone to suggest optimal facets)
+- Personalized custom design (AI generates initial plan based on client needs, then craftspeople refine)
+- Teaching and skill transfer (AR/VR simulated operations, AI real-time error feedback)
+- Repair and restoration solution assessment (AI scans damaged structures, recommends repair paths)
+
+**Human moat:**
+
+- Artistic feel of hand setting and fine metal adjustment (AI cannot replicate tactile feedback)
+- Emotional interaction skills for communicating custom needs with clients and passing on brand stories
+- Experience-based restoration of historical craftsmanship in antique jewelry repair
+- Decision-making and accountability for handling high-value, one-of-a-kind works
+- Irregularity of comprehensive creation across materials (precious metals, gemstones, enamel, etc.)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., Rhino, MatrixGold) and parametric design tools
+- Prompt engineering and image optimization for AI-assisted design platforms (e.g., Midjourney for jewelry)
+- Deepening gemology and materials science (understanding the gap between AI simulation and actual cutting)
+- Digital manufacturing processes (3D printing wax patterns, CNC engraving) operation and post-processing
+- Customer experience design (incorporating AR/VR try-ons and custom communication)
+- Sustainable/traceability technology (blockchain registering gem origin, meeting ESG requirements)
+
+**Key growth areas:**
 
 - Traditional craftsmanship
 - Luxury goods
@@ -65,69 +101,68 @@ This occupation focuses on handcrafting jewelry, processing gemstones and precio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Sec. 18b AufenthG)） | 需获得德国企业工作合同且职业资格经认证，可申请工作签证 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许来德找工一年，需资质认证或德语B1 |
-| Subclass Job Seeker（Job Seeker Visa (Sec. 20 AufenthG)） | 可获得6个月签证寻找工作，要求资质认证和德语能力 |
+| Subclass Skilled Worker (Skilled Immigration Act (Sec. 18b AufenthG)) | Need to obtain a work contract with a German company and have qualifications certified; can apply for a work visa |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allows one year of job-seeking in Germany, requires qualification recognition or German B1 |
+| Subclass Job Seeker (Job Seeker Visa (Sec. 20 AufenthG)) | Eligible for a 6-month visa to seek employment, requiring qualification certification and German language skills |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Artisanal Jewelry Maker, Gemstone and Precious Metal Worker？**
-- 热爱手工艺术和精细工作，有耐心和创造力
-- 对珠宝设计、宝石鉴定和金属加工有浓厚兴趣
-- 愿意接受长期培训并追求手工艺精湛
-
-**谁不适合学Artisanal Jewelry Maker, Gemstone and Precious Metal Worker？**
-- 追求高收入和快速职业晋升的人
-- 不喜欢重复性精密劳动或对金属过敏
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about manual arts and fine work, patient and creative
+- Strong interest in jewelry design, gemology, and metalworking
+- Willing to undergo long-term training and pursue craftsmanship
+
+**Who is not suited**
+- People pursuing high income and rapid career advancement
+- Dislikes repetitive precision work or has a metal allergy
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level approx. EUR 24,000-32,000, mid-level 32,000-40,000, senior 40,000-55,000 (pre-tax). Income varies by studio size, region, and self-employment; masters or self-employed can earn higher.
+
+**Q: How can third-country nationals immigrate to Germany to work in this occupation?**
+A: Must first pass qualification recognition (Anerkennung) to confirm that academic qualifications or training are equivalent to German standards. Then apply for a work visa (Skilled Immigration Act) or opportunity card. German usually required at B1 or above.
+
+**Q: What are the advantages of becoming a master goldsmith?**
+A: The master title allows independent studios and training apprentices, boosting income and social status; it is also key for senior positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Artisanal Jewelry Maker, Gemstone and Precious Metal Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level: €24,000-32,000; mid-level: €32,000-40,000; senior: €40,000-55,000 (gross). Income varies by workshop size, region, and self-employment.
-
-**问：How can third-country nationals immigrate to Germany for this occupation?**
-答：First obtain recognition (Anerkennung) of qualifications, then apply for a work visa (Skilled Immigration Act) or Opportunity Card. German usually requires at least B1 level.
-
-**问：What are the advantages of becoming a master goldsmith?**
-答：The master title allows independent workshop ownership, training apprentices, higher income, and social status, and is key for senior roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

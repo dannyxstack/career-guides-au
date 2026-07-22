@@ -1,60 +1,96 @@
-# Traditional and Complementary Medicine Professional（Traditional and Complementary Medicine Professional）职业分析 · IE
+# Traditional and Complementary Medicine Professional — career analysis · Ireland
 
-**职业代码：2230 – Traditional and Complementary Medicine Professional。**
+**Occupation code: 2230 (ISCO08)**
 
-In Ireland, Traditional and Complementary Medicine Professionals (e.g., acupuncturists, herbalists) provide non-mainstream healthcare services. Regulation is limited, but registration with professional bodies is common.
+In Ireland, traditional and complementary medicine practitioners (e.g., Chinese medicine practitioners, acupuncturists) provide non-mainstream healthcare services, including acupuncture, herbal medicine, massage, etc. The profession is less regulated but requires joining relevant registration bodies.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $15,000~$25,000（爱尔兰大学相关课程年学费） |
-| 文凭/证书 | 2-3年（文凭） | $8,000~$15,000（私立学院培训费用） |
+| Bachelor's degree | 4 years (bachelor's degree) | $15,000~$25,000 (Annual tuition fees for related courses at Irish universities) |
+| Diploma/Certificate | 2–3 years (diploma) | $8,000~$15,000 (Private college training fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册针灸师 | 爱尔兰针灸协会 | 可选 | 自愿注册，提升可信度 |
-| 中医师认证 | 爱尔兰中医协会 | 可选 | 部分雇主要求 |
+| Registered Acupuncturist | Acupuncture Council of Ireland | Optional | Voluntary registration to enhance credibility |
+| Traditional Chinese Medicine Practitioner Certification | Irish Traditional Chinese Medicine Association | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。爱尔兰对补充医学的需求稳定增长，公众对整体健康关注提升。但该领域竞争激烈，且不被公共医保覆盖，收入波动较大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Demand for complementary medicine is steadily growing in Ireland, driven by increasing public focus on holistic health. However, the field is competitive, not covered by public health insurance, and income can be volatile.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 受雇于诊所或自雇初期 |
-| 中级（3-7年） | $35,000~$50,000 | 稳定客户群 |
-| 高级（7年以上） | $50,000~$70,000 | 名望高或自有诊所 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Employed at a clinic or self-employed in early stages |
+| Mid-level (3–7 years) | $35,000~$50,000 | Stable client base |
+| Senior (7+ years) | $50,000~$70,000 | High reputation or own clinic |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可从初级治疗师起步，通过积累客户和经验，开设个人诊所或加入综合健康中心。部分从业者转向教学或产品开发。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Massage therapists rely heavily on manual palpation and personalized communication; AI cannot fully replace core massage operations. However, AI significantly enhances scheduling, client management, marketing, and basic health assessments, allowing practitioners to focus on clinical work.
+
+Career progression can start as a junior therapist, building a client base and experience, then opening a private practice or joining an integrated health center. Some practitioners move into teaching or product development.
+
+**Tasks most exposed to AI:**
+
+- Client appointment, scheduling, and reminders (AI voice assistants and calendar systems)
+- Initial patient health questionnaire screening and symptom recording (AI form processing and natural language understanding)
+- Simple post-treatment feedback collection (AI chatbot)
+- Marketing copy and social media content generation (AI content generation)
+- Membership management and renewal notifications (AI-driven CRM system)
+
+**Where AI augments the role:**
+
+- Personalized treatment plan design (AI analyzes client history and preferences to recommend techniques/pressure)
+- Real-time stress/comfort monitoring (AI feedback via smart wearable devices)
+- Online Continuing Education and Skills Mapping (AI recommends courses and identifies skill gaps)
+- Automated generation of health assessment reports (AI integrates client data to produce illustrated reports)
+- Multilingual services (AI translation tools assist in communicating with foreign clients).
+
+**Human moat:**
+
+- Tactile perception and manual precision (hand massage techniques AI cannot replicate).
+- Building trust and emotional connection (empathy, calming anxious clients)
+- On-site adaptability (adjusting techniques based on client reactions in real-time)
+- Personalized communication and health consultation (integrating knowledge of Chinese medicine/Western osteopathy, etc.)
+- Ethical responsibility and clinical judgment (avoid excessive force or aggravating injuries)
+
+**Skills to build:**
+
+- Basic palpation and technique refinement (deep tissue, sports massage, etc.)
+- Use of AI health management tools (e.g., AI-assisted assessment software)
+- Client psychology and communication skills
+- Basic anatomy and pathology knowledge (identifying contraindications)
+- Digital Marketing and Personal Branding (Social Media, SEO)
+- Basic data analysis (track customer improvement trends)
+
+**Key growth areas:**
 
 - Holistic Health
 - Integrative Medicine
@@ -63,65 +99,64 @@ In Ireland, Traditional and Complementary Medicine Professionals (e.g., acupunct
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达门槛（约30,000欧元） |
-| Subclass Stamp 4（Stamp 4 (Long Term Residency)） | 工作5年后可申请长期居留，允许自由更换雇主 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, annual salary must meet threshold (approx. €30,000) |
+| Subclass Stamp 4 (Stamp 4 (Long Term Residency)) | Apply for permanent residency after 5 years of work, allowing free change of employer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Traditional and Complementary Medicine Professional？**
-- 对替代医学有热情的人
-- 善于沟通和建立客户关系的人
-- 希望自主创业的人
-
-**谁不适合学Traditional and Complementary Medicine Professional？**
-- 期望高稳定收入的人
-- 不愿自雇或营销的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about alternative medicine
+- People good at communication and building client relationships
+- People who want to start their own business
+
+**Who is not suited**
+- People seeking high and stable income
+- People who are unwilling to be self-employed or engage in marketing
+
+---
+
+## 8. FAQ
+
+**Q: How much do traditional and complementary medicine professionals earn?**
+A: Income varies widely, junior levels around €25,000-35,000, senior up to €70,000, but self-employed individuals must bear marketing and operational costs.
+
+**Q: How can foreigners immigrate to Ireland for this occupation?**
+A: Requires employer sponsorship for a General Employment Permit, with a minimum annual salary. UK citizens have free movement; other EU citizens need an employment permit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Traditional and Complementary Medicine Professional为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for Traditional and Complementary Medicine Professionals?**
-答：Income varies widely; entry-level €25,000-€35,000, senior up to €70,000, but self-employed must cover marketing and practice costs.
-
-**问：How can foreigners migrate to Ireland for this profession?**
-答：Require employer sponsorship for General Employment Permit with salary threshold. UK citizens have free movement; other EU citizens need permits.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

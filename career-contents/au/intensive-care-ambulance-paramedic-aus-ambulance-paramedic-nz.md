@@ -1,61 +1,93 @@
-# Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)（Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)）职业分析 · 澳大利亚
+# Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ) — career analysis · Australia
 
-**职业代码：411112 – Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)。**
+**Occupation code: 411112 (ANZSCO)**
 
-Provides advanced life support and pre-hospital emergency care, assessing, treating, and transporting critically ill or injured patients.
+Providing advanced life support and pre-hospital emergency care at emergency medical scenes, responsible for assessment, treatment, and transport of critically ill patients.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科护理或健康科学 | 3年 | $30,000~$60,000（学费因院校而异，国际生更高） |
-| 研究生文凭 | 1年 | $15,000~$30,000（需已注册护理或相关健康学位） |
+| Bachelor's degree in nursing or health science | 3 years | $30,000~$60,000 (Tuition fees vary by institution, higher for international students) |
+| Graduate diploma | 1 year | $15,000~$30,000 (Must be registered with a nursing or related health degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 紧急救护注册或执照 | 各州救护车服务局 | 必备 | 必须获得执业资格 |
-| 高级生命支持证书 | Australian Resuscitation Council | 必备 | 岗位必备 |
-| 驾驶执照（C类及以上） | 各州交通局 | 必备 | 需驾驶救护车 |
+| Emergency medical registration or license | State ambulance services | Required | Must obtain practicing qualification |
+| Advanced life support certificate | Australian Resuscitation Council | Required | Essential for the position |
+| Driver's licence (class C or above). | State transport departments | Required | Must drive an ambulance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 15,000。澳洲人口老龄化和慢性病增加推动需求，偏远地区尤其紧缺；就业前景强劲。
+**Job demand: very high (★★★★½).** National workforce approx. 15,000. Australia's aging population and increase in chronic diseases drive demand, especially in remote areas; strong employment outlook.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 包含加班和津贴 |
-| 中级（3-7年） | $80,000~$95,000 | 含各类补贴 |
-| 高级（7年以上/重症监护） | $100,000~$120,000 | 包括值班津贴 |
+| Median salary | $148,304 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$75,000 | Including overtime and allowances |
+| Mid-level (3–7 years) | $80,000~$95,000 | Including various subsidies |
+| Advanced (over 7 years/intensive care) | $100,000~$120,000 | Includes shift allowances |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级救护员晋升至重症监护护理人员，再至团队主管或临床教育岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will enhance data monitoring and document processing, but clinical judgment and hands-on operations remain highly reliant on humans; task structure is mixed, with modest short-term job growth.
+
+Can progress from a first aider to intensive care paramedic, then to team leader or clinical educator.
+
+**Tasks most exposed to AI:**
+
+- Real-time vital signs data recording and transmission (AI can automatically collect and upload to hospitals)
+- Routine medication dose calculation (AI can automatically recommend doses based on weight and medical history)
+- Preliminary analysis of on-site emergency imaging (e.g., ultrasound) with AI-assisted anomaly detection
+- Medical report writing and shift handover documentation (AI auto summary)
+
+**Where AI augments the role:**
+
+- On-site rapid health assessment (AI-assisted analysis of multi-parameter data to indicate risks)
+- Complex medication regimen recommendations (AI integrating drug interactions and guidelines)
+- Remote specialist real-time consultation during long-distance transfers (AI stably transmits HD video and data)
+- Training and simulation drills (VR/AR combined with AI to generate high-fidelity emergency scenarios)
+
+**Human moat:**
+
+- Critical clinical judgment and decision-making in noisy and chaotic situations
+- Hands-on skills such as CPR, airway management, and venipuncture
+- High-pressure communication and empathy skills with family members and on-site personnel
+- Dynamically adjust plans based on real-time environment (accident type, traffic, weather).
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools (e.g., FDA-approved AI algorithms)
+- Enhances remote medical collaboration and data interpretation capabilities
+- Learn to use networked devices like smart stretchers and automated external defibrillators
+- Learn data ethics and privacy protection (e.g., HIPAA)
+- Basic programming skills (e.g., using Python scripts to process emergency data)
+
+**Key growth areas:**
 
 - Aged Care
 - Regional Demand
@@ -64,69 +96,68 @@ Provides advanced life support and pre-hospital emergency care, assessing, treat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skills Shortage Visa） | 需雇主担保，职业需在CSOL上 |
-| Subclass 494（Skilled Employer Sponsored Regional Visa） | 偏远地区雇主担保，可转191永居 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区指定移民协议，可能降低要求 |
+| Subclass 482 (Temporary Skills Shortage Visa) | Requires employer sponsorship; occupation must be on the CSOL |
+| Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
+| Subclass DAMA (Designated Area Migration Agreement) | Some regional designated area migration agreements may lower requirements |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)？**
-- 抗压能力强，能在高压环境下快速决策
-- 具备同理心和沟通能力，服务意识强
-- 身体健康，能胜任体力工作和轮班
-
-**谁不适合学Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)？**
-- 无法承受高压力或频繁紧急情况
-- 对血腥或创伤场景敏感不适
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong ability to handle pressure and make quick decisions under high-stress environments
+- Empathy and communication skills, strong service orientation
+- Physically fit, able to handle physical work and shift work
+
+**Who is not suited**
+- Unable to handle high pressure or frequent emergencies
+- Sensitive or uncomfortable with bloody or traumatic scenes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of intensive care paramedics in Australia?**
+A: Entry-level approx. $65k-75k, mid-level $80k-95k, senior critical care up to $100k-120k, with overtime and allowances.
+
+**Q: Can intensive care paramedics migrate to Australia via skilled migration?**
+A: Limited pathways, usually require employer sponsorship (482/494) or DAMA, not common for independent skilled migration (189/190).
+
+**Q: What qualifications are needed to become a critical care paramedic?**
+A: Typically requires a 3-year bachelor's (nursing or health science) plus a 1-year postgraduate diploma, followed by state ambulance service registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for intensive care paramedics in Australia?**
-答：Entry-level: $65k-$75k, mid-level: $80k-$95k, senior/ICU: $100k-$120k, with overtime and allowances.
-
-**问：Can intensive care paramedics migrate to Australia via skilled migration?**
-答：Limited pathways, usually requires employer sponsorship (482/494) or DAMA; not commonly on 189/190.
-
-**问：What education is needed to become an intensive care paramedic?**
-答：Typically a 3-year bachelor's degree (nursing or health science) plus a 1-year graduate diploma, followed by state ambulance service registration.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

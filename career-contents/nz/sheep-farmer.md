@@ -1,60 +1,96 @@
-# Sheep Farmer（Sheep Farmer）职业分析 · 新西兰
+# Sheep Farmer — career analysis · New Zealand
 
-**职业代码：121322 – Sheep Farmer。**
+**Occupation code: 121322 (ANZSCO)**
 
-Sheep farmers manage sheep farms including feeding, breeding, health care, wool production, and pasture maintenance. With New Zealand's strong pastoral sector, this role is eligible for Green List Tier 1 direct residence, offering a clear migration pathway.
+Sheep farmers manage sheep farms, including feeding, breeding, health management, wool production, and pasture maintenance. New Zealand's livestock industry is advanced, and this occupation can apply for residence directly through Green List Tier 1, suitable for experienced agricultural workers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 国家证书（农业） | 1-2年 | $5,000~$15,000（学费因院校和课程而异，国际学生费用更高） |
-| 农业大专文凭 | 2年 | $20,000~$35,000（塔拉纳基地区理工学院等提供，含实习） |
-| 农业学士学位 | 3-4年 | $30,000~$45,000（林肯大学等提供，含农场管理方向） |
+| National Certificate (Agriculture) | 1-2 years | $5,000~$15,000 (Tuition varies by institution and program; international students pay higher fees.) |
+| Agricultural diploma | 2 years | $20,000~$35,000 (Offered by institutes such as Taranaki Regional Institute of Technology, includes internship) |
+| Bachelor of Agriculture | 3-4 years | $30,000~$45,000 (Offered by Lincoln University, etc., including farm management direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业证书（绵羊养殖方向） | 新西兰农业培训机构 | 可选 | 推荐但非强制，提升技能 |
-| 农场安全证书 | 农业安全委员会 | 可选 | 部分雇主强制要求 |
-| 雅思总分6.5 | 移民局认可考试机构 | 必备 | 技术移民要求，需G类或A类 |
+| IELTS overall score 6.5 | Immigration-approved test institutions | Required | Skilled migration requirement, need G or A type |
+| New Zealand Certificate in Agriculture (Sheep Farming strand) | New Zealand Agricultural Training Provider | Optional | Recommended but not mandatory, to enhance skills |
+| Farm Safety Certificate | Agricultural Safety Committee | Optional | Required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。新西兰畜牧业是经济支柱，绵羊养殖需求稳定。由于劳动力短缺，农场主对熟练绵羊农民需求持续增长，尤其在南岛和北岛中部地区。预计未来5年就业机会保持良好，但需适应偏远地区生活。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. New Zealand's livestock industry is an economic pillar, with stable demand for sheep farming. Due to labor shortages, demand for skilled sheep farmers continues to grow, especially in the South Island and central North Island. Employment opportunities are expected to remain good over the next 5 years, but candidates must adapt to remote area living.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪较低，但提供食宿补贴 |
-| 中级（3-7年） | $55,000~$75,000 | 有经验后可独立管理牧场 |
-| 高级（7年以上） | $75,000~$100,000 | 农场经理或大型牧场主管 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary is lower but includes accommodation and meal subsidies |
+| Mid-level (3–7 years) | $55,000~$75,000 | Can independently manage a farm after gaining experience |
+| Senior (7+ years) | $75,000~$100,000 | Farm manager or large ranch supervisor |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 初级绵羊农民可从助理岗位起步，积累经验后晋升为农场经理，管理更大牧场和团队。部分从业者可通过土地入股成为合伙人，或转向农业咨询、羊毛分级等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Junior sheep farmers can start as assistants, gain experience to become farm managers overseeing larger pastures and teams. Some may become partners through land equity or transition to professional fields like agricultural consulting or wool grading.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Sheep farmers manage sheep farms including feeding, breeding, health care, wool 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Straight to Residence） | 该职业在绿色清单一级，符合条件可直接申请居留，需有工作offer且薪资达到中位数 |
-| Subclass SMC（Skilled Migrant Category） | 可凭相关工作经验和技术移民，但需满足6分制，薪资要求较高 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为过渡签证，可在获得认证雇主offer后工作，再申请居留 |
+| Subclass Green List T1 (Green List Straight to Residence) | This occupation is on the Green List Tier 1; eligible applicants can directly apply for residence, must have a job offer and salary at median wage. |
+| Subclass SMC (Skilled Migrant Category) | Can apply based on relevant work experience and skilled migration, but must meet the 6-point system, with higher salary requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa, allows work after obtaining a certified employer offer, then apply for residency |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sheep Farmer？**
-- 喜欢户外体力劳动和动物相处的人
-- 愿意在偏远地区长期工作，适应农场生活节奏
-- 有农业背景或相关经验，愿意持续学习新技术
-
-**谁不适合学Sheep Farmer？**
-- 无法适应乡村孤独环境和季节性高强度劳作
-- 追求高薪和城市便利生活的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and working with animals.
+- Willing to work long-term in remote areas, adapt to farm life pace
+- Has agricultural background or relevant experience, willing to continuously learn new technologies
+
+**Who is not suited**
+- Unable to adapt to remote rural life and seasonal high-intensity labor
+- People seeking high salaries and urban convenience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of sheep farmers in New Zealand?**
+A: Junior level: NZD 45,000-55,000, intermediate: NZD 55,000-75,000, senior can reach over NZD 100,000. Salary often includes free accommodation or allowances, making actual income higher.
+
+**Q: How can sheep farmers migrate to New Zealand through the Green List?**
+A: This occupation is on Green List Tier 1; you can directly apply for residence once you have a job with a certified employer and a salary at or above the median (about NZD 29.66/hour), with no waiting period.
+
+**Q: What is a typical day for a sheep farmer?**
+A: Includes early morning grazing, checking flock health, assisting with lambing, shearing, maintaining fences and pastures, and recording data. Work is seasonal, busiest during lambing and shearing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Sheep Farmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sheep farmers in New Zealand?**
-答：Entry-level around NZD 45,000–55,000, mid-level NZD 55,000–75,000, senior up to NZD 100,000+. Often includes free accommodation or subsidies.
-
-**问：How can a sheep farmer migrate via the Green List?**
-答：This role is on Green List Tier 1 – with a job offer from an accredited employer and a wage at least the median (approx. NZD 29.66/hour), you can directly apply for residence.
-
-**问：What is a typical day for a sheep farmer?**
-答：Includes early morning grazing, checking flock health, assisting lambing, shearing, maintaining fences and pastures, and record-keeping. Work is seasonal, with busy lambing and shearing periods.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

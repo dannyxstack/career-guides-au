@@ -1,62 +1,98 @@
-# Department Manager in Hypermarket（Department Manager in Hypermarket）职业分析 · FR
+# Department Manager in Hypermarket — career analysis · France
 
-**职业代码：D1509 – Department Manager in Hypermarket。**
+**Occupation code: D1509 (ROME)**
 
-Responsible for managing one or more product departments in a hypermarket, including inventory control, team leadership, sales targets, and customer service.
+Responsible for the operation of one or more merchandise departments within large supermarkets, including inventory management, team leadership, achieving sales targets, and customer service.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 1年（CAP/BEP） | —（公立学校免费，需自付材料费） |
-| 大专/本科 | 3年（Licence） | $200~$5,000（公立大学学费低，私立商学院学费较高） |
-| 学徒制 | 1-2年 | —（学徒期间带薪，企业承担培训费） |
+| High school graduation + vocational training | 1 year (CAP/BEP) | $0~$2,000 (Public schools are free of charge, but materials must be paid by the applicant) |
+| Diploma/Bachelor's degree | 3 years (Licence) | $200~$5,000 (Public universities have low tuition fees, while private business schools have higher tuition fees) |
+| Apprenticeship | 1-2 years | $0~$0 (During the apprenticeship period, the training fee is paid, and the company covers the training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大型零售管理经验 | 企业 | 必备 | 通常要求2-5年零售管理经验 |
-| CACES驾驶证（叉车等） | 法国劳动部 | 可选 | 部分部门需要操作搬运设备 |
-| 食品卫生培训 | 法国农业部 | 可选 | 生鲜部门必须持有HACCP证书 |
+| Experience in large-scale retail management | Corporate | Required | Usually, 2-5 years of retail management experience is required |
+| CACES driver's license (forklifts, etc.) | French Ministry of Labor | Optional | Some departments need to operate handling equipment |
+| Food hygiene training | French Ministry of Agriculture | Optional | The fresh food department must hold a HACCP certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 45,000。法国大型零售业面临电商竞争和成本压力，部门经理岗位需求稳定但略有下降。数字化管理和多渠道销售技能将成为关键。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. France's large retail sector faces e-commerce competition and cost pressures, with demand for department manager positions stable but slightly declining. Digital management and multi-channel sales skills will be key.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，含奖金，门店经理级别更高 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $40,000~$50,000 | Pre-tax annual salary including bonuses, store manager rank higher |
+| average salary | $46,776 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从部门经理晋升为区域经理或门店店长，也可转向采购、商品企划或供应链管理岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The risks for large supermarket department managers are mixed: structured tasks like inventory replenishment and sales reporting are easily automated by AI, but the demand for soft skills like team management and customer service is increasing, shifting job responsibilities toward higher-value activities.
+
+You can be promoted from department manager to regional manager or store manager, or move into procurement, product planning, or supply chain management roles.
+
+**Tasks most exposed to AI:**
+
+- Inventory forecasting and automatic replenishment: AI algorithms predict sales volume based on historical data, weather, and promotional activities, automatically generating orders without manual calculation.
+- Sales data report generation: The system automatically summarizes sales, profit, losses, and other metrics, generating visual reports that replace manual Excel operations.
+- Scheduling Optimization: AI automatically generates optimal scheduling based on foot traffic forecasts and employee availability, reducing managers' time investment.
+- Price tag updates: The electronic price tag system automatically synchronizes price changes, eliminating the need for manual paper label replacement.
+- Customer complaint triage: AI customer service robots handle common requests for returns and exchanges, inquiries, and only complex issues are referred to managers.
+
+**Where AI augments the role:**
+
+- Dynamic Pricing and Promotion Strategies: AI provides price elasticity analysis and promotional mix optimization suggestions, enabling managers to make smarter pricing decisions.
+- Employee Performance Insights: AI analyzes employee sales, attendance, and customer feedback data to help managers provide personalized coaching and team motivation.
+- Real-time inventory monitoring and loss prevention: AI combined with video analysis to identify suspicious behaviors and automatically warn of inventory anomalies, allowing managers to respond quickly.
+- Customer behavior analysis and product placement: AI analyzes shopping paths and dwell durations, recommends adjusting shelf layouts to boost sales.
+- Multi-department collaborative decision-making: AI integrates data from different departments to assist managers in cross-category coordinated promotions and resource allocation.
+
+**Human moat:**
+
+- Team leadership and motivation: boosting morale, resolving conflicts, and developing subordinates' soft skills that AI cannot imitate.
+- Handling abnormal events: Handling unstructured issues such as equipment failures, customer disputes, and sudden security incidents requires judgment.
+- Supplier relationship maintenance: Negotiations and building long-term trust, involving interpersonal play and emotional connections.
+- Corporate Culture Transmission: Implementing company values into daily operations to foster a team atmosphere.
+- Strategic thinking and innovation: Combining local market insights to develop differentiated competitive strategies that go beyond data-driven approaches.
+
+**Skills to build:**
+
+- Data analysis and interpretation skills: Use BI tools (such as Tableau) and basic statistical analysis to extract insights from data.
+- AI tool operation and integration: Familiar with AI systems for inventory management, scheduling, pricing, and can optimize parameters.
+- Supply chain management knowledge: Understand end-to-end supply chains to optimize logistics and inventory turnover.
+- Change management capability: Guide teams to adapt to automated processes and reduce resistance.
+- Customer Experience Design: Utilize AI data to improve service processes and enhance customer satisfaction.
+- Basic programming/automation scripts: Use Python or RPA tools to handle repetitive reporting tasks.
+
+**Key growth areas:**
 
 - Retail automation
 - Omnichannel management
@@ -65,63 +101,65 @@ Responsible for managing one or more product departments in a hypermarket, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明该职位无法由欧盟公民胜任。 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能或高薪职位，但部门经理通常达不到薪资门槛（年收入>53,000欧元）。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业学生可申请，但需在法国完成学位。 |
+| Subclass Salarié (Employee Work Permit) | An employer sponsorship is required, proving that the position cannot be held by an EU citizen. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or high-paying positions, but department managers usually do not meet the salary threshold (annual income > €53,000). |
+| Subclass Recherche emploi (Job Search Visa) | Graduates may apply, but must complete their degree in France. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Department Manager in Hypermarket？**
-- 有零售或管理经验的人
-- 能承受高压工作环境的人
-- 希望快速晋升到管理层的人
+**Who is suited**
+- People with retail or management experience
+- Those who can handle high-pressure work environments
+- Those hoping to be quickly promoted to management
 
-**谁不适合学Department Manager in Hypermarket？**
-- 不愿处理日常运营琐事的人
-- 不擅长团队管理的人
+**Who is not suited**
+- People who are unwilling to handle daily operational trivialities
+- People not skilled in team management
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for department managers in large French supermarkets?**
+A: The entry-level is about 24,000-28,000 euros per year, the intermediate 30,000-38,000 euros per year, and the senior 40,000-50,000 euros per year, all before tax.
+
+**Q: Are there pathways for foreigners to move to France as department managers?**
+A: It's very difficult. This position is not considered a shortage occupation and offers a relatively low salary, making it difficult to meet the requirements for skilled migration visas. EU citizenship is usually required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Department Manager in Hypermarket属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a department manager in a French hypermarket?**
-答：Junior: €24,000-28,000/year, mid-level: €30,000-38,000/year, senior: €40,000-50,000/year, gross.
-
-**问：Is it possible for a foreigner to migrate to France as a department manager?**
-答：Very difficult. The occupation is not in shortage and salary is too low for skilled migration visas. EU citizenship is usually required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

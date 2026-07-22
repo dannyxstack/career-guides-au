@@ -1,59 +1,95 @@
-# Mixed Production Farmers nec（Mixed Production Farmers nec）职业分析 · 澳大利亚
+# Mixed Production Farmers nec — career analysis · Australia
 
-**职业代码：121799 – Mixed Production Farmers nec。**
+**Occupation code: 121799 (ANZSCO)**
 
-Manage mixed farming operations combining crop production and livestock raising, including grains, oilseeds, vegetables, fruits, cattle, sheep, etc., overseeing daily operations, production planning, marketing, and financial management.
+Manage mixed crop and livestock farming, including grains, oilseeds, vegetables, fruits, cattle, sheep, etc., responsible for daily operations, production planning, marketing, and financial management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 农业学士 | 3-4年 | $24,000~$80,000（澳洲大学学费（国际学生）） |
-| 农业文凭 | 1-2年 | $12,000~$25,000（TAFE或私立学院学费） |
+| Bachelor of Agriculture | 3-4 years | $24,000~$80,000 (Australian university tuition fees (international students)) |
+| Diploma in Agriculture | 1-2 years | $12,000~$25,000 (TAFE or private college tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业学士学位 | 澳洲大学 | 可选 | 专业相关学位（如农业科学、农学） |
-| ANZSCO技能评估 | VetAssess | 必备 | 技术移民必须通过职业评估 |
-| 农作物种植/牲畜管理证书 | TAFE或行业机构 | 可选 | 如化学农药使用证书 |
+| ANZSCO skills assessment | VetAssess | Required | Skilled migration must pass skills assessment |
+| Bachelor of Agriculture | Australian universities | Optional | Relevant degree (e.g., Agricultural Science, Agronomy) |
+| Certificate in crop farming/animal husbandry management | TAFE or industry body | Optional | e.g., chemical pesticide use certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,200。澳洲农业持续受益于人口增长和出口需求，尤其牛肉、谷物、羊毛等农产品需求强劲。气候变化和干旱挑战促使农场向可持续和多样化经营转型，如再生农业和碳农业。技术应用（精准农业、无人机）提升效率，但劳动力短缺仍制约发展。预计未来5年就业稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 8,200. Australian agriculture continues to benefit from population growth and export demand, especially for beef, grain, wool and other agricultural products. Climate change and drought challenges are driving farms to transition to sustainable and diversified operations, such as regenerative agriculture and carbon farming. Technology applications (precision agriculture, drones) improve efficiency, but labor shortages still constrain development. Steady employment growth is expected over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 农场助理或初级经理 |
-| 中级（3-7年） | $70,000~$95,000 | 农场经理或生产主管 |
-| 高级（7年以上） | $95,000~$130,000 | 高级农场经理或农场主 |
+| Median salary | $82,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$70,000 | Farm assistant or junior manager |
+| Mid-level (3–7 years) | $70,000~$95,000 | Farm manager or production supervisor |
+| Senior (7+ years) | $95,000~$130,000 | Senior farm manager or farm owner |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 常见路径从农场工人或助理起步，积累经验后晋升为农场经理或合伙人，最终可能拥有或租赁自己的农场。也可向农业咨询、农业金融、农产品加工等方向发展。通过农业学位或短期课程提升管理技能，参与行业组织获取资源。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+A common path starts as a farm worker or assistant, gains experience, then advances to farm manager or partner, eventually possibly owning or leasing a farm. Other directions include agricultural consulting, agri-finance, and agri-processing. Management skills can be enhanced through agricultural degrees or short courses, and industry organizations provide resources.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Precision Agriculture
 - Regenerative Farming
@@ -62,65 +98,64 @@ Manage mixed farming operations combining crop production and livestock raising,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立签证，需MLTSSL职业列表，通过职业评估和EOI邀请。可永久居留。 |
-| Subclass 482（Temporary Skill Shortage Visa） | 临时技术短缺签证，雇主担保，需在MLTSSL或SROL列表。工作3年后可转186。 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区技术工作签证，需州担保，在指定偏远地区居住工作，之后可申请191永居。 |
+| Subclass 189 (Skilled Independent Visa) | Skilled Independent visa, requires MLTSSL occupation list, through skills assessment and EOI invitation. Permanent residency possible. |
+| Subclass 482 (Temporary Skill Shortage Visa) | Temporary Skill Shortage visa, employer-sponsored, requires occupation on MLTSSL or SROL. Eligible for 186 after 3 years of work. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional skilled work visa, requires state sponsorship, live and work in a specified regional area, then can apply for 191 permanent residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mixed Production Farmers nec？**
-- 热爱户外工作，能适应偏远地区和体力劳动
-- 具备经营头脑，愿意学习财务、市场、项目管理
-- 希望获得永居且愿意在偏远地区发展
-
-**谁不适合学Mixed Production Farmers nec？**
-- 不喜欢不规律工作和气候不确定性
-- 无法接受农场工作带来的孤独感
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love outdoor work, adaptable to remote areas and physical labor
+- Have a business mindset, willing to learn finance, marketing, project management
+- Seeking permanent residency and willing to work in regional areas
+
+**Who is not suited**
+- Those who dislike irregular work and climate uncertainty
+- Cannot tolerate the loneliness of farm work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of mixed crop and livestock farmers in Australia?**
+A: Entry-level approx. AUD 55k-70k, mid-level 70k-95k, senior up to AUD 130k. Income is affected by farm size, product type and market prices; farmer income is more volatile.
+
+**Q: How to migrate to Australia through the mixed crop farmer occupation?**
+A: This occupation is on the MLTSSL and CSOL, eligible for immigration through Subclass 189 Skilled Independent, 190 State Nominated, 491 Regional Skilled, or 482 Employer Sponsored. Requires a VetAssess skills assessment, typically with relevant qualifications and work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mixed Production Farmers nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Mixed Production Farmers in Australia?**
-答：Entry-level around AUD 55,000-70,000, mid-level AUD 70,000-95,000, senior up to AUD 130,000. Income varies with farm size, product type, and market prices; farm owners may experience significant fluctuations.
-
-**问：How to migrate to Australia as a Mixed Production Farmer?**
-答：This occupation is on MLTSSL and CSOL, eligible for subclass 189, 190, 491, or 482. Requires a skills assessment by VetAssess with relevant qualifications and work experience.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

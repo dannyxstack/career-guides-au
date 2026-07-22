@@ -1,60 +1,96 @@
-# Insurance Underwriter and Claims Adjuster（Insurance Underwriter and Claims Adjuster）职业分析 · FR
+# Insurance Underwriter and Claims Adjuster — career analysis · France
 
-**职业代码：C1109 – Insurance Underwriter and Claims Adjuster。**
+**Occupation code: C1109 (ROME)**
 
-Responsible for drafting insurance contract terms, risk assessment and premium setting, while handling claim investigations, loss assessment and compensation calculation. Key role in insurance company risk control and customer service.
+Responsible for drafting insurance contract terms, risk assessment, and premium determination, while also handling claims case investigations, loss assessments, and claims calculations. It is a key position in risk control and customer service within insurance companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+两年制 | 2年（BTS保险） | —（公立学校免学费，仅注册费；私立学校约3000欧元/年） |
-| 本科 | 3年（Licence专业） | —（公立大学约200-500欧元注册费；私立商校可达5000欧元/年） |
-| 硕士 | 2年（Master） | —（公立大学约400欧元注册费；高商约10000欧元/年） |
+| High school graduation + two-year program | 2 years (BTS insurance) | $0~$3,000 (Public schools offer tuition waiver, only registration fees; Private schools cost about 3,000 euros per year) |
+| Bachelor's degree | 3 years (Licence major) | $0~$5,000 (The registration fee for public universities is about 200-500 euros; Private business schools can earn up to 5,000 euros per year) |
+| Master's degree | 2 years (Master) | $0~$10,000 (The registration fee for public universities is about 400 euros; Gaoshang is about 10,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS保险（BTS Assurance） | 法国教育部 | 可选 | 国家文凭，从事保险业务的基本资格 |
-| Licence专业保险与风险管理 | 法国大学 | 可选 | 学士学位，有助于晋升管理岗位 |
-| CCM认证（Certificat de capacité en assurances） | 法国保险监管局（ACPR） | 必备 | 从事保险经纪或销售必需的职业能力证书 |
+| CCM Certification (Certificat de capacité en assurances) | French Insurance Regulatory Authority (ACPR) | Required | Professional competency certificates required for insurance brokerage or sales |
+| BTS Assurance | French Ministry of Education | Optional | National diploma, a basic qualification for engaging in insurance business |
+| Licence specializes in insurance and risk management | French universities | Optional | A bachelor's degree helps advance to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 45,000。法国保险业虽成熟，但数字化与气候变化（如自然灾害理赔增加）带来新挑战。该岗位需求稳定，尤其拥有数据分析和法律背景的复合型人才更受青睐。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Although France's insurance industry is mature, digitalization and climate change (such as increased claims from natural disasters) bring new challenges. This position has stable demand, especially for versatile talents with backgrounds in data analysis and law.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，不含奖金 |
-| 中级（3-8年） | $32,000~$45,000 | 税前年薪，视公司规模及绩效奖金 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，含团队管理职责 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (3–8 years) | $32,000~$45,000 | Pre-tax annual salary, depending on company size and performance bonuses |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary, including team management responsibilities |
+| average salary | $31,218 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级理赔员/核保助理起步，积累经验后晋升为高级核保/理赔专家，进而管理团队或转向再保险、精算等更高端领域。持有法国保险资格证书（如BTS保险、Licence专业）有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The jobs of underwriters and claims adjusters are being diverged by AI automation: data-driven risk assessment and standardized claims processing will be compressed, while complex case investigations, policy innovation, and human-machine collaborative decision-making will be amplified, making skill upgrades urgent.
+
+You can start as a junior claims adjuster/underwriting assistant, gain experience, and be promoted to senior underwriting/claims specialist, then manage teams or move into more advanced fields such as reinsurance or actuarial science. Holding French insurance qualification certificates (such as BTS Insurance, Licence Specialist) can help with promotion.
+
+**Tasks most exposed to AI:**
+
+- Standardized risk scoring and premium calculation based on historical data
+- Preliminary review and automatic calculation of compensation amounts for simple claims cases
+- Templated generation of policy terms and compliance checks
+- OCR entry and system comparison of customer identity and policy information
+- Basic classification and archiving of claim documents
+
+**Where AI augments the role:**
+
+- Using AI to simulate different underwriting scenarios to optimize personalized policy terms design
+- Through image recognition and drone imagery, complex property damage can be remotely assessed
+- Analyze customer feedback using natural language processing to improve claims processes and customer experience
+- Using predictive models to identify fraud patterns helps investigators focus on high-risk cases
+- The AI recommendation engine provides real-time reinsurance advice to optimize risk transfer strategies
+
+**Human moat:**
+
+- Determining liability in complex cases that require cross-disciplinary knowledge (law, medicine, engineering).
+- High-difficulty communication and negotiations with clients and third parties (lawyers, doctors, repair shops).
+- Qualitative assessment of new risks (such as cybersecurity and climate change) and innovative provisions
+- Making final decisions and taking responsibility for AI recommendations within ethical and regulatory frameworks
+- Soft skills for managing client emotions and maintaining long-term trust
+
+**Skills to build:**
+
+- Proficient in Python or R for insurance data analysis and modeling
+- Familiar with the application of AI/machine learning in risk assessment and fraud detection
+- Learn natural language processing tools to assist with contract review and client communication
+- Master drone operation and image analysis software (for remote damage assessment)
+- Enhance negotiation and conflict resolution capabilities to handle complex cases
+- Understand the EU AI Act and insurance regulatory compliance requirements
+
+**Key growth areas:**
 
 - Insurance
 - Risk Management
@@ -63,68 +99,67 @@ Responsible for drafting insurance contract terms, risk assessment and premium s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 受雇于法国保险公司，由雇主申请工作许可，需证明本地无合适人选。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如年薪超过33,000欧元或持有硕士文凭，可快速获得居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高学历人才，年薪需达约53,000欧元（2023标准），在法国工作18个月后可自由流动。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employed by a French insurance company, the employer must apply for a work permit and prove that there is no suitable candidate locally. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as those with an annual salary exceeding 33,000 euros or holding a master's degree, who can quickly obtain residency. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly educated non-EU talents, with an annual salary of about 53,000 euros (2023 standard), and free mobility after working in France for 18 months. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Underwriter and Claims Adjuster？**
-- 细致严谨、善于分析数据的人
-- 对法律和金融有浓厚兴趣者
-- 愿意在保险行业长期发展者
-
-**谁不适合学Insurance Underwriter and Claims Adjuster？**
-- 不喜欢重复性文书工作的人
-- 缺乏耐心与客户沟通能力者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous, rigorous, and skilled in data analysis
+- Those with a strong interest in law and finance
+- Those willing to develop long-term in the insurance industry
+
+**Who is not suited**
+- People who dislike repetitive clerical work
+- Those who lack the patience to communicate with customers
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for insurance underwriters and claims adjusters in France?**
+A: Entry-level positions earn about €25,000-32,000 before tax, mid-level salaries €32,000-45,000, and seniors up to €60,000 or above, with bonuses based on performance.
+
+**Q: How can non-EU individuals immigrate to France through this position?**
+A: You can apply through the employer-sponsored Salarié work visa, the high-skilled talent route Passeport Talent (annual salary over 33,000 euros or master's degree), or the EU Blue Card (annual salary of about 53,000 euros).
+
+**Q: What French certifications are required to work in this profession?**
+A: A mandatory CCM competency certificate (for sales-related positions), and it is recommended to obtain a BTS Insurance or Licence professional diploma to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Insurance Underwriter and Claims Adjuster的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of an insurance underwriter and claims adjuster in France?**
-答：Entry-level positions have a gross annual salary of around 25,000-32,000 EUR, mid-level 32,000-45,000 EUR, and senior up to 60,000 EUR or more, plus bonuses based on performance.
-
-**问：How can non-EU nationals immigrate to France through this occupation?**
-答：Through employer-sponsored Salarié work permit, Talent Passport (requires salary above 33,000 EUR or master's degree), or EU Blue Card (salary about 53,000 EUR).
-
-**问：What French certifications are required for this occupation?**
-答：Mandatory CCM certificate for sales-related roles, and it is recommended to obtain BTS Assurance or Licence professionnelle to enhance competitiveness.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

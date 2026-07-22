@@ -1,61 +1,96 @@
-# Pregnancy and Childbirth Follow-up Specialist（Pregnancy and Childbirth Follow-up Specialist）职业分析 · FR
+# Pregnancy and Childbirth Follow-up Specialist — career analysis · France
 
-**职业代码：J1104 – Pregnancy and Childbirth Follow-up Specialist。**
+**Occupation code: J1104 (ROME)**
 
-Responsible for medical follow-up during pregnancy and childbirth, including prenatal checkups, delivery monitoring, and postnatal care to ensure maternal and infant safety.
+Responsible for medical follow-up during pregnancy and delivery, including prenatal checkups, labor monitoring, and postpartum care, ensuring the safety of mother and baby.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 助产士国家文凭（Diplôme d'État de Sage-Femme） | 5年（含硕士） | $500~$10,000（公立大学学费低，私立院校费用高。可通过学徒制（apprentissage）减轻负担。） |
-| 加速课程（面向已有医学背景者） | 2-3年 | $5,000~$15,000（针对护士或医生转行，部分院校提供。） |
+| National Diploma in Midwives (Diplôme d'État de Sage-Femme) | 5 years (including master's) | $500~$10,000 (Public universities have low tuition fees, while private institutions have high fees. Apprenticeships can help reduce the burden.) |
+| Accelerated Course (for those with a medical background) | 2-3 years | $5,000~$15,000 (Some institutions provide this for nurses or doctors switching careers.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 助产士国家文凭（Diplôme d'État de Sage-Femme） | 法国卫生部认可的大学或学院 | 必备 | 必须持有该文凭方可执业。 |
-| 法国助产士协会注册（Ordre des Sages-Femmes） | Ordre des Sages-Femmes | 必备 | 执业前必须在行业协会注册。 |
-| 持续职业教育（DPC） | 法国健康管理局 | 必备 | 每年需参加继续教育以维持注册。 |
+| National Diploma in Midwives (Diplôme d'État de Sage-Femme) | Universities or colleges recognized by the French Ministry of Health | Required | You must hold this diploma to practice. |
+| Registered with the French Midwives Association (Ordre des Sages-Femmes) | Ordre des Sages-Femmes | Required | Registration with an industry association is required before practicing. |
+| Continuing Vocational Education (DPC) | French Health Administration | Required | Continuing education is required annually to maintain enrollment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 23,000。法国生育率稳定，助产士和产科护理人员需求持续增长。政府推动妇幼保健服务扩展，就业前景良好，尤其在偏远地区。
+**Job demand: high (★★★★☆).** National workforce approx. 23,000. France's fertility rate remains stable, and the demand for midwives and obstetric caregivers continues to grow. The government is promoting the expansion of maternal and child health services, with promising employment prospects, especially in remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公立医院或社区诊所。 |
-| 中级（4-10年） | $45,000~$60,000 | 公立医院高级职位或私立机构。 |
-| 高级（10年以上） | $60,000~$80,000 | 主管、顾问或私人诊所。 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Public hospitals or community clinics. |
+| Mid-level (4-10 years). | $45,000~$60,000 | Senior positions in public hospitals or private institutions. |
+| Senior (10+ years) | $60,000~$80,000 | Supervisors, consultants, or private clinics. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级助产士晋升为高级助产士、产科护士长或专科顾问。也可选择进修超声或胎儿医学，或转向医院管理或公共卫生领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In the next five years, AI will take over document and data analysis tasks, but core clinical judgment and emotional support will still require humans. Entry-level positions may have lower barriers due to AI assistance, but senior roles require stronger technical integration capabilities.
+
+Junior midwives can be promoted to senior midwives, head nurses in obstetrics, or specialist consultants. You can also choose to pursue further studies in ultrasound or fetal medicine, or move into hospital management or public health.
+
+**Tasks most exposed to AI:**
+
+- Prenatal checkup records and data entry
+- Routine follow-up reminders and scheduling
+- Automatic monitoring and alerts for basic health indicators (blood pressure, weight).
+- Postpartum recovery standardized information push
+- Automated processing of documents such as birth certificates
+
+**Where AI augments the role:**
+
+- AI is used to analyze pregnant women's risk scores, prioritizing intervention in high-risk cases
+- AI-driven remote monitoring provides real-time interpretation of fetal heart monitoring data
+- Personalized postpartum care plan generation (based on AI-based historical data analysis)
+- The virtual assistant answers frequently asked questions, freeing up specialists' time for complex consultations
+- AI-assisted breastfeeding position recognition and recommendations
+
+**Human moat:**
+
+- Clinical judgment and decision-making for complex obstetric complications
+- Providing emotional support and psychological counseling (such as postpartum depression identification)
+- Quick response and stress management during emergency delivery events
+- Build a long-term trusting doctor-patient relationship
+- Cross-cultural communication and personalized care
+
+**Skills to build:**
+
+- AI health data analysis tools (such as Python/R)
+- Telemedicine platform operation and integration
+- Advanced management of electronic health records (such as customized reports)
+- Communication and patient education skills (especially digital health literacy)
+- Basic machine learning concepts to understand algorithmic limitations
+- Knowledge of ethics and privacy regulations (such as GDPR).
+
+**Key growth areas:**
 
 - Maternal Health
 - Midwifery
@@ -64,69 +99,68 @@ Responsible for medical follow-up during pregnancy and childbirth, including pre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能专业人才，包括医疗专业人员，需提供工作合同或项目证明。 |
-| Subclass Salarié（Employee Visa） | 需要法国雇主担保，且职位通过劳动力市场测试（如短缺职业可豁免）。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高等教育背景且薪资达标准（2024年约年薪53,000欧元）的专业人士。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, including medical professionals, who must provide employment contracts or project certification. |
+| Subclass Salarié (Employee Visa) | A French employer sponsorship is required, and the position must pass a labor market test (exemption available for shortage occupations). |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to professionals with higher education background and salary meeting the standard (approx. €53,000 per year in 2024). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pregnancy and Childbirth Follow-up Specialist？**
-- 具备优秀沟通能力和同理心者
-- 能承受压力、适应轮班工作
-- 有志于妇幼健康事业且愿意长期学习
-
-**谁不适合学Pregnancy and Childbirth Follow-up Specialist？**
-- 厌恶高强度工作和紧急情况者
-- 不擅长团队协作或医患沟通者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Excellent communication skills and empathy
+- Able to handle pressure and adapt to shift work
+- Committed to maternal and child health and willing to study long-term
+
+**Who is not suited**
+- Dislikes high-intensity work and emergencies
+- Those who are not good at teamwork or doctor-patient communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pregnancy and childbirth follow-up specialists?**
+A: The entry-level salary is about 35,000-45,000 euros, the intermediate salary 45,000-60,000 euros, and the senior salary up to 80,000 euros. Public hospitals offer lower salaries but better benefits, while private clinics offer higher rates.
+
+**Q: How can foreign midwives immigrate to France?**
+A: You must first obtain a midwifery diploma recognized in France or pass the reconnaissance des qualifications certification. Afterwards, you can apply for a Talent Passport or Salarié visa, which can simplify the process for shortage occupations.
+
+**Q: What education is required to become a midwife in France?**
+A: Must complete a 5-year national midwifery diploma course (Diplôme d'État de Sage-Femme), including theory and clinical internships. Public university annual tuition approx. 500-1,000 euros, private institutions higher.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pregnancy and Childbirth Follow-up Specialist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pregnancy and childbirth follow-up specialists?**
-答：Entry-level annual salary is around €35,000-45,000, mid-level €45,000-60,000, and senior up to €80,000. Public hospitals offer lower salaries but good benefits, while private clinics pay more.
-
-**问：How can foreign midwives immigrate to France?**
-答：They must first obtain a recognized midwifery diploma or pass a qualification recognition process (reconnaissance des qualifications). Then they can apply for a Talent Passport or Employee visa; shortage occupations may simplify the procedure.
-
-**问：What education is required to become a midwife in France?**
-答：You need to complete a 5-year state diploma in midwifery (Diplôme d'État de Sage-Femme), including theoretical and clinical internships. Public university tuition is about €500-1,000 per year, while private institutions are more expensive.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

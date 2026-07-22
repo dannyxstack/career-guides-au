@@ -1,58 +1,91 @@
-# Veterinary Assistant（Veterinary Assistant）职业分析 · ES
+# Veterinary Assistant — career analysis · Spain
 
-**职业代码：3327 – Veterinary Assistant。**
+**Occupation code: 3327 (CNO)**
 
-Assists veterinarians in animal care, medical procedures, lab tests, and client communication in clinics or animal hospitals.
+Assisting veterinarians with animal diagnosis, care, laboratory testing, and client communication in veterinary clinics or animal hospitals is a key support role for the veterinary team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $500~$2,000（公立学校学费低，私立较高。） |
-| 高级职业培训（FP Grado Superior） | 2年 | $600~$2,500（部分课程免费或提供奖学金。） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $500~$2,000 (Public schools have lower tuition fees, while private schools have higher tuition fees.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $600~$2,500 (Some courses are free or offer scholarships.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医助理职业培训证书 | 西班牙教育部认可的职业培训中心 | 必备 | 完成FP Grado Medio或Grado Superior课程。 |
-| 动物操作与护理专项培训 | 西班牙兽医协会（OCV） | 可选 | 部分用人单位要求，非强制。 |
+| Veterinary Assistant Vocational Training Certificate | A vocational training center recognized by the Spanish Ministry of Education | Required | Complete the FP Grado Medio or Grado Superior course. |
+| Special training in animal operation and care | Spanish Veterinary Association (OCV) | Optional | Some employers require it, but not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙宠物饲养率持续上升，兽医服务需求稳定增长，兽医助理岗位在中小型诊所尤其紧缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Pet ownership rates continue to rise in Spain, and demand for veterinary services is steadily increasing. Veterinary assistant positions are especially tight in small and medium-sized clinics.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，含社保。 |
-| 中级（3-7年） | $20,000~$25,000 | 税前年薪，含补贴。 |
-| 高级（7年以上） | $25,000~$30,000 | 税前年薪，管理职责增加。 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, including social insurance. |
+| Mid-level (3–7 years) | $20,000~$25,000 | Pre-tax annual salary, including subsidies. |
+| Senior (7+ years) | $25,000~$30,000 | Pre-tax annual salary, increased management responsibilities. |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从兽医助理晋升为首席助理或动物护理技术员，也可通过进修成为兽医技师或兽医师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Veterinary assistants and laboratory animal caretakers face mixed impacts from AI/automation: repetitive cleaning, disinfection, data recording are easily replaced, but direct animal care, clinical observation, and emotional interaction requiring human empathy are hard to automate.
+
+You can advance from veterinary assistant to chief assistant or animal care technician, or through further training to become a veterinary technician or veterinarian.
+
+**Tasks most exposed to AI:**
+
+- Use automatic cleaning and disinfection equipment to clean and disinfect cages and work areas
+- Automatically record daily monitoring data like animal weight and diet via AI system.
+- Automate preparation of surgical instrument kits (e.g., sterilization, packing processes)
+- Automated feeding of feed and water using smart feeders
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools (e.g., image analysis) to identify early signs of animal diseases
+- Monitor animal vital signs in real time via wearable devices, with automatic alerts for abnormalities.
+- Use VR/AR simulation to train on complex surgical assistance procedures, enhancing skills
+- Using AI scheduling systems to optimize workflows and prioritize emergency care
+
+**Human moat:**
+
+- Careful observation of animal emotions and behavior (such as pain body language in animals)
+- Make quick decisions and perform non-standardised nursing operations in emergencies
+- Communicate with pet owners about conditions, provide emotional support, and build trust
+- Ethical judgment and sensitive operations like euthanasia in laboratory animal care
+
+**Skills to build:**
+
+- Animal medical image analysis and use of AI-assisted diagnostic tools
+- Basic data science (electronic health record analysis)
+- Advanced first aid and critical care skills.
+- Telehealth communication and care coordination skills
+- Automated cleaning equipment maintenance and minor troubleshooting
+- Knowledge of animal behavior psychology
+
+**Key growth areas:**
 
 - Pet ownership growth
 - Veterinary services demand
@@ -61,68 +94,67 @@ Assists veterinarians in animal care, medical procedures, lab tests, and client 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（受雇工作居留） | 需有西班牙雇主担保，合同符合最低工资要求。 |
-| Subclass Tarjeta azul UE（欧盟蓝卡） | 针对高技能专业人士，兽医助理通常不符合薪资门槛，但特殊情况下可申请。 |
-| Subclass Busqueda empleo（求职居留） | 毕业后可申请12个月居留寻找工作。 |
+| Subclass Cuenta ajena (Employed work residence) | A Spanish employer sponsorship is required, and the contract meets minimum wage requirements. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, veterinary assistants usually do not meet the salary threshold, but can apply under special circumstances. |
+| Subclass Busqueda empleo (Job seeking, residence, and residence) | After graduation, you can apply for a 12-month residence permit to look for work. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinary Assistant？**
-- 热爱动物并有耐心的人
-- 适应快节奏工作环境的人
-- 愿意从事体力与情感双重劳动的人
-
-**谁不适合学Veterinary Assistant？**
-- 对血液、注射等医疗操作感到不适者
-- 无法承受宠物病痛或死亡压力者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love animals and have patience
+- People who thrive in fast-paced work environments
+- People willing to engage in both physical and emotional labor
+
+**Who is not suited**
+- Those who feel uncomfortable with medical procedures such as blood or injections
+- Those who cannot bear the stress of pet illness or death
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for veterinary assistants in Spain?**
+A: Entry-level salaries are about 16,000-20,000 euros, intermediate salaries 20,000-25,000 euros, and seniors up to 30,000 euros (pre-tax annual salary).
+
+**Q: Can foreign veterinary assistants immigrate to Spain?**
+A: Yes, but you must first obtain a Spanish employer-sponsored work contract and apply for employment residence (Cuenta ajena). EU Blue cards are generally not applicable.
+
+**Q: What educational qualifications are required to become a veterinary assistant?**
+A: You need to complete the FP Grado Medio or Grado Superior vocational training in Spain, which usually lasts 2 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Veterinary Assistant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a veterinary assistant in Spain?**
-答：Entry-level around €16,000-€20,000, mid-level €20,000-€25,000, senior up to €30,000 (gross annual).
-
-**问：Can a foreign veterinary assistant immigrate to Spain?**
-答：Yes, with a job offer and a work visa (Cuenta ajena). EU Blue Card is usually not applicable.
-
-**问：What education is needed to become a veterinary assistant?**
-答：2-year vocational training (FP Grado Medio or Grado Superior) in Spain.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

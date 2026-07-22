@@ -1,62 +1,98 @@
-# Hotel-Restaurant Management Assistant（Hotel-Restaurant Management Assistant）职业分析 · FR
+# Hotel-Restaurant Management Assistant — career analysis · France
 
-**职业代码：G1401 – Hotel-Restaurant Management Assistant。**
+**Occupation code: G1401 (ROME)**
 
-Assists in the daily management of hotel or restaurant operations, including front desk, customer relations, budget control, and team coordination to ensure service quality and guest satisfaction.
+Assist with daily operations management of hotels or restaurants, including front desk reception, customer relations, budget control, and team coordination to ensure service quality and customer satisfaction.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 酒店-餐饮管理 | 2年（BTS） | $1,000~$5,000（公立院校学费低，私立商学院较高） |
-| Licence professionnelle 酒店管理 | 3年（Licence） | $2,000~$8,000（含实习，部分学校提供学徒制） |
-| 学徒制（Apprentissage） | 1-2年 | —（企业承担学费，学生获薪酬） |
+| BTS Hotel - Catering Management | 2 Years (BTS) | $1,000~$5,000 (Public institutions have lower tuition fees, while private business schools offer higher fees) |
+| Licence profession in hotel management | 3 years (Licence) | $2,000~$8,000 (Internships included, with some schools offering apprenticeship programs) |
+| Apprentissage | 1-2 years | $0~$0 (Enterprises cover tuition fees, and students receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS 酒店-餐饮管理 | 法国教育部 | 必备 | 行业基础文凭，必备 |
-| 卫生与食品安全认证 | 法国农业部 | 必备 | HACCP 培训，餐饮业必持 |
-| 英语能力证书（如TOEIC） | ETS | 可选 | 国际酒店加分项 |
+| BTS Hotel - Catering Management | French Ministry of Education | Required | Industry foundation diploma, essential |
+| Hygiene and food safety certification | French Ministry of Agriculture | Required | HACCP training is a must-have for the catering industry |
+| English proficiency certificates (such as TOEIC) | ETS | Optional | International hotels are a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国旅游业持续复苏，酒店餐饮行业对管理助理需求稳定。数字化转型和可持续发展趋势带来新机遇，但竞争仍较激烈，双语能力者更具优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. France's tourism industry continues to recover, and demand for management assistants in the hotel and catering sector remains stable. Digital transformation and sustainable development trends bring new opportunities, but competition remains fierce, and bilingual individuals have an advantage.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，巴黎略高 |
-| 中级（3-7年） | $28,000~$35,000 | 含奖金，视企业规模 |
-| 高级（7年以上） | $35,000~$45,000 | 管理岗位，大型酒店更高 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary is slightly higher in Paris |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including bonuses, depending on the size of the enterprise |
+| Senior (7+ years) | $35,000~$45,000 | Management positions are higher in large hotels |
+| average salary | $37,320 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级管理助理可晋升为部门主管（如客房部主管），再至酒店餐厅经理。积累经验后可转向连锁品牌区域管理或自主创业开设小型酒店餐饮企业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The administrative and reservation tasks of hotel-restaurant management assistants will be optimized by AI, but interpersonal coordination and on-site service will still rely on humans; Entry-level positions have narrowed due to automation, but demand for composite management positions is increasing.
+
+Junior Management Assistants can be promoted to department heads (such as housekeeping managers), and then to hotel restaurant managers. After accumulating experience, they can transition to chain brand regional management or start their own businesses to establish small hotel and catering enterprises.
+
+**Tasks most exposed to AI:**
+
+- Handling phone and online bookings and cancellations
+- Generate and send standard customer confirmation emails and invoices
+- Manage daily operational data entry and report generation
+- Respond to common customer inquiries (such as business hours and menu)
+- Monitor inventory levels and automatically trigger replenishment orders
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of customer preferences provides personalized recommendations
+- The intelligent scheduling system optimizes team human resource allocation
+- Automated budget tracking and variance analysis support decision-making
+- AI adjusts service processes and pricing based on real-time foot traffic
+- Use AI to generate multilingual marketing content and communicate with customers
+
+**Human moat:**
+
+- Handling complex customer complaints and on-site emergencies
+- Team Morale Boosting and Conflict Mediation
+- Gain insights into local cultural customs and customize your service experience
+- Cross-departmental on-site coordination (such as kitchen, front desk, guest rooms)
+- Make quick ethical judgments under high pressure
+
+**Skills to build:**
+
+- Using hotel management software (such as Opera PMS)
+- Basic data analysis and report interpretation
+- Customer Relationship Management (CRM) system operation
+- Digital marketing tools (social media management, email marketing)
+- Basic Python or SQL is used for data automation
+- User experience design thinking is used for personalized services
+
+**Key growth areas:**
 
 - Hospitality Management
 - Customer Experience
@@ -65,69 +101,68 @@ Assists in the daily management of hotel or restaurant operations, including fro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作合同至少1年，薪资不低于SMIC（约21,000欧/年），职位与学历匹配。 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，薪资门槛约47,000欧/年，需雇主出具合同，可快速获得居留。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业后1年内寻找工作，可临时居留，找到合适工作后转为工签。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, employment contract of at least 1 year, salary not lower than SMIC (approximately 21,000 EUR/year), position matching academic qualifications. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, with a salary threshold of about 47,000 euros per year, requiring an employer contract to quickly obtain residency. |
+| Subclass Recherche emploi (Job Search Visa) | Within one year after graduation, you can find a job and stay temporarily; once you find a suitable job, you can switch to a work visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel-Restaurant Management Assistant？**
-- 热爱服务业，具备良好沟通和客户导向能力
-- 有组织协调能力，能处理多重任务
-- 愿意接受灵活工时和节假日工作
-
-**谁不适合学Hotel-Restaurant Management Assistant？**
-- 不能承受高压快节奏工作环境
-- 不善于人际交往或团队协作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the service industry, with strong communication and customer-oriented abilities
+- Organizational and coordination skills, able to handle multiple tasks
+- Willing to accept flexible working hours and holiday work
+
+**Who is not suited**
+- Cannot withstand high-pressure, fast-paced work environments
+- Poor at interpersonal communication or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for hotel-restaurant management assistants?**
+A: Entry-level about €22,000-28,000 per year before tax, mid to senior level up to €45,000 per year. Paris region slightly higher, small companies may be lower.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: Mainly through work visas (Salarié) or talent passports (Passeport Talent). You need to find an employer and obtain a contract for at least one year, with a salary meeting industry standards. French B2 or above makes employment easier.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can be promoted to department head, restaurant manager, or hotel manager, or you can transition to group regional management or entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Hotel-Restaurant Management Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Hotel-Restaurant Management Assistant?**
-答：Entry-level salaries range from €22,000 to €28,000 gross per year, with experienced managers earning up to €45,000. Paris offers higher pay.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Mainly via Employee Work Permit (Salarié) or Talent Passport. Requires employer sponsorship, a 1+ year contract, and competitive salary. French B2 level helps.
-
-**问：Are there promotion opportunities?**
-答：Yes, to department head, restaurant manager, hotel manager, or regional management within chains, or starting your own business.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

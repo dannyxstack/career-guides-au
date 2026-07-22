@@ -1,160 +1,188 @@
-# 消防员（Firefighter）职业分析 · 澳大利亚
+# Firefighter — career analysis · Australia
 
-**职业代码：441211 – Firefighter。**
+**Occupation code: 441211 (ANZSCO)**
 
-消防员负责灭火、紧急救援、医疗急救响应和防火安全教育，是社区安全的核心力量。澳洲各州消防和紧急服务局（Fire and Rescue NSW、MFB/FRV、QFES等）定期招募全职消防员，竞争激烈但工作稳定、福利完善、晋升路径清晰。气候变化导致的灌木火灾频发增加了消防行业的社会重要性和人员需求。
+Firefighters are responsible for extinguishing fires, emergency rescue, medical first response and fire safety education, making them a core pillar of community safety. Fire and emergency services agencies across Australia (Fire and Rescue NSW, MFB/FRV, QFES, etc.) regularly recruit full-time firefighters — competition is strong, but the work is stable, benefits are comprehensive and career progression is clearly defined. The increasing frequency of bushfires driven by climate change has heightened both the social importance and workforce demand for the fire services sector.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中或以上学历（必须） | — | —（各州消防局要求Year 12以上；数理化基础有助于通过招募考试） |
-| Certificate III in Public Safety (Firefighting) | 由消防局招募后提供 | —（各州消防局的标准培训，录取后免费参加约6个月的学员培训） |
-| 急救证书（Certificate III/IV in First Aid） | 2~5天 | $200~$500（申请前取得可提升竞争力（现代消防员是多功能紧急救援人员）） |
-| 体能训练和准备（PAT测试） | 持续训练 | —（Physical Aptitude Test是消防员招募的核心门槛，需长期体能训练） |
+| Year 12 or above (required) | — | $0~$0 (State fire services require Year 12 or above; a background in maths and sciences helps in passing recruitment exams) |
+| Certificate III in Public Safety (Firefighting) | Provided upon recruitment by the fire service | $0~$0 (Standard training provided by state fire services; recruits attend approximately 6 months of trainee training at no cost after being accepted) |
+| First aid certificate (Certificate III/IV in First Aid) | 2–5 days | $200~$500 (Obtaining this before applying improves competitiveness (modern firefighters are multi-functional emergency response personnel)) |
+| Physical fitness training and preparation (PAT test) | Ongoing training | $0~$500 (The Physical Aptitude Test is a core requirement in firefighter recruitment and demands long-term physical fitness training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Public Safety (Firefighting and Emergency Operations) | 各州消防局/TAFE | 必备 | 消防员岗位任职的法定职业资质（录用后提供） |
-| Driver's Licence（Heavy Vehicle/MR+） | 各州道路交通局 | 可选 | 消防车驾驶资质（录用后由消防局安排培训） |
-| 急救证书（First Aid） | St John Ambulance等认可机构 | 可选 | 申请消防员岗位的加分资质 |
-| 无犯罪记录证明（National Police Check） | 澳联邦警察或州警察局 | 必备 | 所有公共安全类岗位的硬性要求 |
+| Certificate III in Public Safety (Firefighting and Emergency Operations) | State fire services/TAFE | Required | Statutory occupational qualifications required for firefighter roles (provided upon recruitment) |
+| National Police Check | Australian Federal Police or state police force | Required | Mandatory requirement for all public safety roles |
+| Driver's Licence（Heavy Vehicle/MR+） | State road and traffic authorities | Optional | Fire truck driving qualification (training arranged by the fire service after appointment) |
+| First Aid Certificate | St John Ambulance and other recognised providers | Optional | Additional qualifications that strengthen a firefighter job application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。JSA预测消防员就业至2030年稳定增长约5%。都市扩张和高密度城市开发推动城市消防需求；气候变化导致的极端天气事件（灌木火/洪水）推动紧急服务需求。消防检查员和防火安全顾问是增速最快的细分方向。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. JSA forecasts stable employment growth of approximately 5% for firefighters through to 2030. Urban expansion and high-density city development are driving demand for urban fire services; extreme weather events linked to climate change (bushfires/floods) are boosting demand for emergency services. Fire inspectors and fire safety consultants are the fastest-growing sub-specialisations.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: very high (★★★★★).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 各州消防局官网 | 50~300 个 | NSW FRNSW/VIC FRV/QLD QFES/WA DFES等按轮次招募 |
-| Seek | 100~400 个 | 含消防检查员/防火安全顾问/消防设备技术员岗 |
-| Indeed | 80~300 个 | 含私人消防安全公司和工业消防岗 |
-
-**竞争度：很高（★★★★★）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 消防员学员（培训期） | $60,000~$70,000 | 各州消防局学员培训期薪资（约6个月） |
-| 初级/正式消防员（1~5年） | $70,000~$90,000 | SEEK区间 $70k~$90k；Indeed均值 $89,193（2026） |
-| 高级消防员/Leading Firefighter（5~12年） | $88,000~$115,000 | 包含轮班津贴和加班后年薪约 $90k~$115k |
-| 消防队长/主管级（10年+） | $110,000~$160,000 | Station Officer及以上管理岗，含所有津贴补贴 |
+| Median salary | $128,596 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Firefighter Trainee (Training Period) | $60,000~$70,000 | Trainee salary during recruit training at each state's fire service (approximately 6 months) |
+| Junior/Qualified Firefighter (1–5 years) | $70,000~$90,000 | SEEK range $70k–$90k; Indeed average $89,193 (2026) |
+| Senior Firefighter / Leading Firefighter (5–12 years) | $88,000~$115,000 | Total annual salary including shift allowances and overtime approximately $90k–$115k |
+| Fire captain / supervisor level (10+ years) | $110,000~$160,000 | Station Officer and above management roles, including all allowances and supplements |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲消防服务面临城市化和气候变化双重挑战：城市高层建筑火灾风险增加；灌木火季节延长。各州消防局持续增加编制，并向消防员提供全面培训（包括医疗急救、水上救援和HAZMAT）。消防员职业非常稳定，工会保障完善，是公务员性质的高福利岗位。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
 
-- 城市消防（都市扩张）
-- 林区消防（灌木火灾季节性需求）
-- 机场消防（航空业复苏）
-- 危险品处置专家（HAZMAT）
-- 消防检查员和防火安全顾问
+Australia's fire services face the dual challenges of urbanisation and climate change: increased fire risk in high-rise urban buildings and longer bushfire seasons. State fire agencies continue to expand their workforce and provide firefighters with comprehensive training, including medical first aid, water rescue, and HAZMAT. Firefighting is a very stable career with strong union protections and excellent benefits as a public sector position.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
+
+- Urban Firefighting (Urban Expansion)
+- Forest Firefighting (Seasonal Bushfire Demand)
+- Airport Firefighting (Aviation Recovery)
+- Hazardous Materials Specialist (HAZMAT)
+- Fire Inspector and Fire Safety Consultant
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 公民/PR限制（政府服务限制） | 各州消防局正式编制通常要求澳洲公民或永居PR身份 |
-| Subclass 482（Skills in Demand（工业消防）） | 私人工业消防公司或矿区消防可能担保482 |
-| Subclass 189/190（技术移民后申请） | 建议先获得PR再申请政府消防局岗位 |
+| Subclass Citizen/PR Only (Government service restrictions) | State fire services permanent positions typically require Australian citizenship or permanent residency (PR) |
+| Subclass 482 (Skills in Demand (Industrial Fire)) | Private industrial fire protection companies or mine-site fire services may sponsor a 482 visa |
+| Subclass 189/190 (Apply after skilled migration) | It is advisable to obtain PR before applying for positions with a government fire service |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学消防员？**
-- 澳洲公民或永久居民（PR），身体健康，体能出色，能通过PAT体能测试
-- 有急救证书（First Aid/CPR）或医疗/护理背景，有志于公共安全服务事业
-- 有重型车驾照（MR或以上）或职业驾驶经验，英语沟通流利
-- 有在特定消防局所在州定居的明确计划（各州消防局独立招募）
-- 心理素质良好，能承受高压和应急情境下的快速决策
+**Who is suited**
+- Australian citizen or permanent resident (PR), physically fit with excellent physical conditioning, able to pass the PAT physical fitness test
+- Holds a First Aid/CPR certificate or has a medical/nursing background and is committed to a career in public safety services
+- Hold heavy vehicle licence (MR or above) or professional driving experience, fluent in English communication
+- A clear plan to settle in the state where a specific fire service is located (each state fire service recruits independently)
+- Strong psychological resilience, able to make rapid decisions under high pressure and emergency situations
 
-**谁不适合学消防员？**
-- 尚未获得澳洲公民或PR身份（政府消防局编制的硬性要求）
-- 体能水平未达到消防PAT测试标准（需提前至少6~12个月进行专项体能训练）
-- 期望通过消防员职业直接移民（非MLTSSL，不适合作为移民路径的首选）
+**Who is not suited**
+- Has not yet obtained Australian citizenship or permanent residency (a mandatory requirement for government fire service positions)
+- Physical fitness level does not meet the fire service PAT test standard (requires dedicated fitness training at least 6–12 months in advance)
+- Expecting to migrate directly through a firefighter career (not on the MLTSSL; not recommended as a primary migration pathway)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a firefighter in Australia?**
+A: Entry-level firefighters earn approximately $70,000–$90,000 (SEEK $70k–$90k; Indeed $89,193); senior firefighters with shift and overtime allowances earn approximately $90k–$115k; leading firefighter grades including all allowances can reach $110k–$160k.
+
+**Q: Is it easy to find work as a firefighter in Australia?**
+A: Government fire department positions are extremely competitive (acceptance rate 5-10%). Fire inspectors, industrial fire, and fire safety consultant roles have relatively lower competition. SEEK lists about 100-400 fire-related positions. Australian citizenship or PR required to apply for government fire departments.
+
+**Q: Is firefighting experience from China recognised in Australia?**
+A: Can be used as a reference but requires retraining. Each Australian state fire service has its own training and certification system. All new firefighters (including experienced ones) must complete approximately 6 months of recruit training. Chinese firefighting experience can boost your application competitiveness but does not exempt you from training requirements.
+
+**Q: Will firefighters be replaced by AI?**
+A: Risk is extremely low. Fire suppression, life rescue, and on-scene environmental assessment are roles requiring physical action that AI cannot perform. Artificial intelligence assists with fire risk prediction and dispatch optimisation, but actual firefighting tasks require human firefighters.
+
+**Q: Is there an age limit for firefighters in Australia?**
+A: Most state fire services require applicants for entry-level firefighter positions to be aged 18–35 (with some states allowing up to 40). There is no mandatory retirement age for serving firefighters (assessed on fitness and health). There are no age restrictions for fire inspector and fire safety consultant roles.
+
+**Q: What qualifications do firefighters need in Australia?**
+A: Year 12 completion is the basic requirement; a university degree is not essential but assists progression into management roles. Most important are physical fitness (passing the PAT test), first aid qualifications and English communication skills. Holding a driver's licence (MR class or above) is an advantage.
+
+**Q: Is it difficult to migrate to or get a job as a firefighter in Australia?**
+A: Government fire services require citizenship or PR and cannot be used as a primary migration pathway. It is recommended to obtain PR through other means (such as skilled migration or a partner visa) first, then apply to state fire services. Competition is intense — begin physical training and preparation 1–2 years in advance.
+
+**Q: Which has better career prospects in Australia — firefighting or policing?**
+A: Salaries are comparable (fire: $70k–$90k vs police: $55k–$75k entry-level, roughly equivalent when allowances are included); police offer broader promotion pathways; firefighting involves more varied work (medical response/HAZMAT/rescue). Both require citizenship or PR; police recruit more frequently (year-round), while fire services have relatively fewer recruitment opportunities. Choose firefighting if you are passionate about emergency medical response; choose policing if you are interested in law enforcement and investigation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 消防员薪资 $70k~$90k（2026） |
-| Indeed AU | 消防员均值 $89,193（2026） |
-| Fire and Rescue NSW | FRNSW消防员招募信息（2026） |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 很高（★★★★★） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-消防员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲消防员工资多少？**
-答：初级消防员约 $70,000~$90,000（SEEK $70k~$90k；Indeed $89,193）；含轮班和加班津贴高级消防员约 $90k~$115k；消防队长级别含所有津贴可达 $110k~$160k。
-
-**问：澳洲消防员容易找工作吗？**
-答：政府消防局名额竞争极激烈（录取率5~10%）。消防检查员、工业消防和防火安全顾问岗位竞争相对低。SEEK挂牌约100~400个消防相关职位。需要澳洲公民或PR才能申请政府消防局。
-
-**问：中国消防员经验澳洲认可吗？**
-答：可以作为参考但需重新培训。澳洲各州消防局有独立的培训和认证体系，所有新进消防员（包括有经验者）都需要完成约6个月的学员培训。中国消防经验可以提升申请竞争力，但不能豁免培训要求。
-
-**问：消防员会被AI替代吗？**
-答：风险极低。灭火操作、生命救援和现场环境判断是需要实体行动的工作，AI无法执行。人工智能辅助预测火情风险和优化调度，但实际消防任务需要有血有肉的消防员。
-
-**问：澳洲消防员有年龄限制吗？**
-答：大多数州消防局要求18~35岁（部分州放宽至40岁）申请初级消防员岗位。已在职消防员无强制退休年龄限制（按体能和健康状况评估）。消防检查员和防火安全顾问岗位无年龄限制。
-
-**问：澳洲消防员需要什么学历？**
-答：高中毕业（Year 12）是基本要求；大学学历不是必须的但有助于晋升管理岗。最重要的是体能（通过PAT测试）、急救资质和英语沟通能力。有驾照（MR级以上）有加分。
-
-**问：消防员移民/入职难吗？**
-答：政府消防局需要公民或PR资格，不能作为首选移民路径。建议先通过其他途径（如技术移民或配偶签证）获得PR，再申请各州消防局。竞争激烈，需提前1~2年进行体能训练和准备。
-
-**问：消防员和警察哪个澳洲发展更好？**
-答：薪资相近（消防 $70k~$90k vs 警察 $55k~$75k初级，含津贴后相当）；警察晋升通道更宽广；消防员工作内容更多元（医疗急救/HAZMAT/救援）。两者都要求公民或PR；警察招募更频繁（全年），消防局招募机会相对少。有医疗急救热情选消防；有执法和侦查兴趣选警察。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

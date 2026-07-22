@@ -1,59 +1,95 @@
-# Book-keepers, payroll managers and wages clerks（Book-keepers, payroll managers and wages clerks）职业分析 · UK
+# Book-keepers, payroll managers and wages clerks — career analysis · United Kingdom
 
-**职业代码：4122 – Book-keepers, payroll managers and wages clerks。**
+**Occupation code: 4122 (SOC)**
 
-Maintain and balance records of financial transactions, oversee payroll functions, and calculate hours worked, wages due, and relevant contributions and deductions.
+Responsible for maintaining and balancing financial transaction records, overseeing payroll operations, calculating work hours, gross pay, and related deductions and contributions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| A-Level 或同等学历 | 2年 | —（免费公立教育） |
-| 簿记/会计文凭（Level 3/4） | 1-2年 | $5,000~$15,000（学院或在线课程费用） |
+| A-Level or equivalent qualification | 2 years | $0~$0 (Free public education) |
+| Bookkeeping/Accounting Diploma (Level 3/4) | 1-2 years | $5,000~$15,000 (College or online course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| AAT 簿记资格 | AAT (Association of Accounting Technicians) | 可选 | 行业认可，Level 2-4 |
-| CIPP 薪资管理资格 | CIPP (Chartered Institute of Payroll Professionals) | 可选 | 薪资专业认证 |
-| ACCA 或 CIMA 部分完成 | ACCA / CIMA | 可选 | 提升职业发展 |
+| AAT bookkeeping qualification | AAT (Association of Accounting Technicians) | Optional | Industry recognized, Level 2-4 |
+| CIPP Payroll Management Qualification | CIPP (Chartered Institute of Payroll Professionals) | Optional | Professional certification in salary and remuneration |
+| Partial completion of ACCA or CIMA | ACCA / CIMA | Optional | Career advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。随着企业数字化和外包趋势，部分传统簿记岗位减少，但薪资管理和财务合规需求稳定，预计岗位数量小幅增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. As digitalization and outsourcing trends grow, some traditional bookkeeping roles decline, but payroll management and financial compliance demand remain stable, with a slight increase in job numbers expected.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 起薪约20,000英镑 |
-| 中级（3-7年） | $26,000~$35,000 | 经验丰富者可达30,000+英镑 |
-| 高级（7年以上） | $35,000~$45,000 | 薪资主管或财务经理薪资更高 |
+| Median salary | $31,560 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Starting salary around £20,000 |
+| Mid-level (3–7 years) | $26,000~$35,000 | Experienced workers can earn 30,000+ GBP |
+| Senior (7+ years) | $35,000~$45,000 | Payroll supervisors or financial managers have higher salaries |
+| average salary | $34,543 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级记账员晋升为高级簿记员、薪资主管或财务经理，也可通过考取ACCA等专业资格转型为会计师。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Bookkeeping, payroll, and wage management roles are rapidly shrinking due to automation tools; data processing and calculation tasks will be taken over by AI, but complex compliance and human judgment are still needed.
+
+Can progress from junior bookkeeper to senior bookkeeper, payroll supervisor, or financial manager, or transition to accountant by obtaining professional qualifications such as ACCA.
+
+**Tasks most exposed to AI:**
+
+- Manually enter financial transaction data.
+- Calculating employee working hours, gross pay, and tax deductions
+- Generate standardised financial statements and payroll
+- Reconcile bank statements with ledger
+- Managing employee leave and attendance records
+
+**Where AI augments the role:**
+
+- Uses AI tools to automatically classify and match transactions, improving efficiency
+- Use AI assistance for salary compliance checks and anomaly detection
+- Query financial data via natural language interface to accelerate report generation
+- With predictive analytics to optimize cash flow and budget management
+- Automate repetitive Q&A to speed up responses for customer and employee inquiries
+
+**Human moat:**
+
+- Handling complex tax and regulatory compliance issues
+- Professional judgment and investigation of unusual transactions
+- Communicate salary disputes with employees and management
+- Design and optimize financial internal control processes.
+- Coordinate cross-departmental financial data integration and interpretation
+
+**Skills to build:**
+
+- Proficient in accounting software (e.g., Xero, QuickBooks) and automation tools
+- Learn data analysis and visualization (advanced Excel, Power BI)
+- Master basic programming (Python/VBA) to automate daily tasks
+- In-depth understanding of salary regulations and tax policies
+- Enhance communication and problem-solving skills
+- Learn AI/machine learning basics to evaluate and implement new tools
+
+**Key growth areas:**
 
 - Digital Transformation
 - Payroll Compliance
@@ -62,68 +98,67 @@ Maintain and balance records of financial transactions, oversee payroll function
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，满足薪资门槛（一般26,200英镑/年，非短缺职业） |
-| Subclass Graduate（Graduate visa） | 英国毕业生可申请，有效期2年，可工作无需担保 |
-| Subclass Scale-up（Scale-up visa） | 适合快速增长企业担保，需满足薪资要求 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship and meets salary threshold (generally £26,200/year, non-shortage occupation) |
+| Subclass Graduate (Graduate visa) | UK graduates can apply, valid for 2 years, work without sponsorship |
+| Subclass Scale-up (Scale-up visa) | Suitable for fast-growing company sponsorship, must meet salary requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Book-keepers, payroll managers and wages clerks？**
-- 注重细节、喜欢处理数字的人
-- 有会计或财务背景的求职者
-- 希望稳定办公室工作的求职者
-
-**谁不适合学Book-keepers, payroll managers and wages clerks？**
-- 厌恶重复性工作的人
-- 追求高薪和快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals who enjoy working with numbers
+- Job seekers with accounting or finance background
+- Job seekers who prefer stable office work
+
+**Who is not suited**
+- People who dislike repetitive work
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for bookkeepers in the UK?**
+A: Entry-level about £20,000-26,000, mid-level £26,000-35,000, senior £35,000-45,000, salary manager can reach £50,000+.
+
+**Q: Can this occupation apply for a skilled worker visa?**
+A: Yes, but requires employer sponsorship, meeting the salary threshold (£26,200 per year), and the occupation not being on the shortage list.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically requires AAT bookkeeping certification or CIPP payroll certification, though not mandatory, they significantly improve employability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Book-keepers, payroll managers and wages clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for book-keepers in the UK?**
-答：Entry-level around £20,000-£26,000, mid-level £26,000-£35,000, senior £35,000-£45,000, payroll managers can earn over £50,000.
-
-**问：Can this occupation apply for the Skilled Worker visa?**
-答：Yes, with employer sponsorship and meeting the salary threshold (£26,200/year). It is not on the shortage list.
-
-**问：What qualifications are needed for this occupation?**
-答：Typically AAT bookkeeping or CIPP payroll certification. While not mandatory, they significantly enhance employability.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

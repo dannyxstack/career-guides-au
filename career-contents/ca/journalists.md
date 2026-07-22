@@ -1,128 +1,157 @@
-# Journalists（Journalists）职业分析 · 加拿大
+# Journalists — career analysis · Canada
 
-**职业代码：51113 – Journalists。**
+**Occupation code: 51112 (NOC)**
 
-Journalists collect, investigate, write, and report news stories for newspapers, TV, radio, and online media, requiring excellent writing, communication, and critical thinking skills.
+Canadian news reporters write reports for newspapers, television, radio, and digital media; demand for multimedia skills (text/video/podcasts) is growing. This occupation can use Express Entry or PNP skilled migration, but requires language proficiency and local experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $25,000~$50,000（加拿大本地学生学费，国际生更高） |
-| 大专文凭 | 2-3年 | $15,000~$30,000（社区学院或技术学院） |
+| Bachelor's degree (Journalism/Communication) | 4 years | $40,000~$60,000 (International student tuition costs CAD 40,000-60,000/year, depending on the university.) |
+| Postgraduate diploma/master's | 1-2 years | $25,000~$40,000 (Master's tuition total approx. 25,000-40,000 CAD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学或相关领域学位 | 大学或学院 | 可选 | 通常要求本科或大专学历 |
-| 专业认证（如加拿大新闻协会认证） | 加拿大新闻协会 | 可选 | 自愿但有助于职业发展 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Overseas qualifications must undergo ECA for immigration points. |
+| English/French language test | IELTS/CELPIP/TEF | Required | CLB 7+ for immigration threshold, CLB 9+ for journalism work |
+| Local relevant work experience | Employer | Optional | Immigration requires at least 1 year of continuous full-time paid work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 9,500。加拿大新闻行业面临数字化转型，传统媒体岗位减少，但数字媒体和内容创作领域有增长。就业竞争激烈，对多媒体技能和专业知识需求增加。
+**Job demand: medium (★★½☆☆).** National workforce approx. 11,000. Traditional media jobs in Canada are growing slowly, but digital/community media and new media companies offer new opportunities. Competition is fierce in large cities like Toronto and Vancouver, but bilingual (English/French) journalists have an advantage. Overall employment prospects are moderate, affected by media digital transformation and AI.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 视雇主和地区而定 |
-| 中级（3-7年） | $50,000~$75,000 | 视经验和媒体类型 |
-| 高级（7年以上） | $75,000~$110,000 | 包括编辑或管理职位 |
+| Median salary | $75,005 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary is low, around C$35,000 in community media or small cities. |
+| Mid-level (3–6 years) | $45,000~$60,000 | Mainstream media or digital platforms: 50,000-60,000 |
+| Senior (6+ years) | $60,000~$80,000 | Senior journalist or editor, a few can reach $90k+. |
+| average salary | $83,200 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 初级记者可晋升为高级记者、编辑或新闻总监。也可转向公共关系、内容营销或数字媒体管理。自由职业和创业机会增多。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
 
-- Digital media
-- Multimedia journalism
-- Content creation
-- Data journalism
+Entry-level journalists usually start in local media or internships, gain experience, and advance to senior reporter, columnist, or editor. They can transition to public relations, corporate communications, or digital content creation. Holding a relevant Canadian degree and multimedia skills aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
+
+- Digital Media
+- Bilingual Skills
+- Green Economy
+- Indigenous Reporting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 联邦技术移民，适合有工作经验记者 |
-| Subclass PNP（Provincial Nominee Program） | 省提名计划，部分省份有媒体相关类别 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法雇佣本地人 |
+| Subclass EE (Express Entry (FSW/CEC)) | Through Federal Skilled Worker or Canadian Experience Class, need to meet 67 points/6 factors and language requirements; NOC 51112 is TEER 1 |
+| Subclass PNP (Provincial Nominee Program) | Suitable for applicants with provincial nomination, such as Ontario, BC, requiring employer offer or relevant education/experience |
+| Subclass AIP (Atlantic Immigration Program) | Can apply with a job offer in the Atlantic provinces; lower threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Journalists？**
-- 热爱写作和新闻事业，具备好奇心和调查精神
-- 适应快节奏和截稿压力，能多任务处理
-- 擅长人际沟通，能在不同环境中工作
-
-**谁不适合学Journalists？**
-- 不喜欢频繁出差或不规律工作时间
-- 抗压能力弱，难以面对负面新闻或批评
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with excellent Chinese and English writing and communication skills
+- Adaptable to fast-paced, multitasking environments and able to work across media platforms.
+- Passionate about news and willing to accept initially low pay
+
+**Who is not suited**
+- Job seekers seeking high salary and quick returns
+- Those who dislike high-pressure deadlines or online negative reviews
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for journalists in Canada?**
+A: Entry-level journalist salary around CAD 35,000-45,000 per year; mid-level CAD 45,000-60,000; senior CAD 60,000-80,000. Major city mainstream media pay slightly higher, but overall lower than IT and other industries.
+
+**Q: What are the main pathways for journalists to immigrate to Canada?**
+A: Main pathways include Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP). Requirements include language CLB 7+, preferably one year of local work experience, and an ECA for qualifications. Some PNPs require a job offer.
+
+**Q: What is the career outlook for journalists in Canada?**
+A: Traditional media roles grow slowly, but demand exists for digital content, corporate communications, and community media. Skills in multimedia, bilingual (English-French), and data journalism are competitive. Overall prospects are moderate, affected by AI and digital transformation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Journalists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for journalists in Canada?**
-答：Entry-level journalists earn about CAD 35,000-50,000, mid-level CAD 50,000-75,000, and senior CAD 75,000-110,000, depending on experience, location, and media type.
-
-**问：What are the main immigration pathways for journalists to Canada?**
-答：Key pathways include Federal Skilled Worker (FSW), Provincial Nominee Program (PNP), and LMIA employer-sponsored work permits. Require relevant education and work experience, and English or French proficiency.
-
-**问：What is the job outlook for journalists in Canada?**
-答：The industry is digitizing; traditional media jobs are declining but digital content and multimedia journalism are growing. Competition is high, with advantages for those skilled in data journalism and multimedia.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

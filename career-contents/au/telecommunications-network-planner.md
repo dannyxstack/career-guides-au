@@ -1,59 +1,92 @@
-# Telecommunications Network Planner（Telecommunications Network Planner）职业分析 · 澳大利亚
+# Telecommunications Network Planner — career analysis · Australia
 
-**职业代码：313213 – Telecommunications Network Planner。**
+**Occupation code: 313213 (ANZSCO)**
 
-Telecommunications Network Planners design, optimize, and manage telecom network infrastructure, including mobile, fixed, and fiber networks, to ensure capacity, coverage, and performance meet current and future demands.
+Telecommunications network planners design, optimize, and manage telecom network infrastructure, including mobile, fixed, and fiber networks, ensuring capacity, coverage, and performance meet current and future needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（电信工程/电子工程） | 4年 | $30,000~$45,000（国际生年学费约30,000-45,000 AUD） |
-| 硕士（电信/网络工程） | 2年 | $35,000~$50,000（国际生年学费约35,000-50,000 AUD） |
+| Bachelor's (telecommunications engineering/electronic engineering) | 4 years | $30,000~$45,000 (Annual international student tuition approximately 30,000-45,000 AUD) |
+| Master's degree (Telecommunications/Network Engineering) | 2 years | $35,000~$50,000 (International student annual tuition approx. 35,000-50,000 AUD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：偏低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电信工程学士学位 | 澳大利亚大学 | 必备 | 通常要求工程或相关领域学位 |
-| 技能评估（Engineers Australia） | Engineers Australia | 必备 | 技术移民需通过EA职业评估 |
-| 思科CCNA/CCNP认证 | Cisco | 可选 | 非强制但显著提升竞争力 |
+| Bachelor degree in Telecommunications Engineering | Australian university | Required | Usually requires a degree in engineering or a related field |
+| Skills assessment (Engineers Australia) | Engineers Australia | Required | Skilled migration requires EA skills assessment |
+| Cisco CCNA/CCNP certification | Cisco | Optional | Not mandatory but significantly boosts competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。随着5G和光纤网络扩展，电信网络规划师需求稳定。澳洲国家宽带网络（NBN）和移动运营商持续投资，预计未来5年就业增长稳健。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,500. With the expansion of 5G and fiber networks, demand for telecom network planners is stable. Australia's National Broadband Network (NBN) and mobile operators continue investing, with steady employment growth expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 取决于雇主和地点 |
-| 中级（3-7年） | $95,000~$120,000 | 含绩效奖金 |
-| 高级（7年以上） | $125,000~$160,000 | 资深或管理层可达更高 |
+| Median salary | $118,872 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $70,000~$90,000 | Depends on the employer and location |
+| Mid-level (3–7 years) | $95,000~$120,000 | Includes performance bonuses |
+| Senior (7+ years) | $125,000~$160,000 | Senior or management level may reach higher |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★☆）。** 初级规划师可晋升为高级规划师、网络架构师或项目管理角色。积累经验后可转向顾问或管理层，如网络运营经理。
-**AI替代风险：偏低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of telecommunications network planners will be mixed: AI can automate data collection and analysis, but strategic decisions, site surveys and supplier negotiations still require human experience, overall risk is moderate.
+
+Junior planners can advance to senior planner, network architect, or project management roles. With experience, transition to consulting or management roles such as network operations manager.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate preliminary network coverage predictions and capacity planning reports
+- Use AI tools to optimize base station site selection (based on geographic and traffic data)
+- Automatically monitors network performance and generates fault alarm analysis
+- Standardized budget and cost estimation form filling
+
+**Where AI augments the role:**
+
+- AI-assisted traffic modeling and simulation for complex scenarios (e.g., 5G+IoT hybrid).
+- Using machine learning to predict future network demand and bottlenecks
+- Automatically generates multiple plan comparisons and decision recommendations.
+- Real-time AI recommendations for network optimization parameter adjustments
+
+**Human moat:**
+
+- High-level negotiation and relationship management with operators, government, and suppliers
+- Innovative network architecture design for new business scenarios (e.g., smart cities, autonomous driving)
+- Handling unstructured on-site issues (e.g., terrain, owner coordination)
+- Professional judgment in compliance and security reviews
+
+**Skills to build:**
+
+- AI/ML tool applications (e.g., Python, TensorFlow, network planning-specific AI platforms)
+- Automation script development (RPA, API integration)
+- Advanced data analysis (SQL, Tableau, geographic information systems)
+- Understanding of cutting-edge technologies such as 5G/6G and satellite communications
+- Project management and supplier management skills
+- Cross-disciplinary communication (IT and business units)
+
+**Key growth areas:**
 
 - 5G
 - NBN
@@ -62,69 +95,68 @@ Telecommunications Network Planners design, optimize, and manage telecom network
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage)） | 雇主担保临时签证，需相关学历和经验，可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，要求通过技能评估和3年相关经验 |
-| Subclass 189（Skilled Independent Visa） | 独立技术移民永居签证，需EOI打分，该职业在MLTSSL上 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得州提名 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage)) | Employer-sponsored temporary visa requiring relevant qualifications and experience, transferable to subclass 186 |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa requires skills assessment and 3 years of relevant experience. |
+| Subclass 189 (Skilled Independent Visa) | Permanent skilled migration visa requiring EOI points; this occupation is on the MLTSSL. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency visa, requires state nomination |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Telecommunications Network Planner？**
-- 对电信技术和网络设计有浓厚兴趣的人
-- 具备分析思维和问题解决能力的人
-- 愿意在快速发展的通信行业持续学习的人
-
-**谁不适合学Telecommunications Network Planner？**
-- 不喜欢技术细节和复杂系统的人
-- 寻求工作压力较小的职业的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in telecommunications technology and network design
+- People with analytical thinking and problem-solving skills
+- Those willing to continuously learn in the rapidly developing telecommunications industry
+
+**Who is not suited**
+- People who dislike technical details and complex systems.
+- People seeking careers with lower work pressure.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a telecommunications network planner?**
+A: Australian telecommunications network planners earn about AUD 70,000-160,000 annually, with junior roles at AUD 70k-90k, and senior roles reaching above AUD 125k, depending on experience and location.
+
+**Q: How can a telecommunications network planner migrate to Australia?**
+A: This occupation is on the MLTSSL, eligible for 189 Skilled Independent visa (requires EOI points) or 190 State Nominated visa, also through 482 employer sponsorship to 186 permanent residency. Requires skills assessment from Engineers Australia.
+
+**Q: What is the career development path for a telecommunications network planner?**
+A: Starting as a junior planner, you can progress to senior planner, network architect, or project manager, or move into consulting or management roles such as network operations manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 偏低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★★☆） |
-| AI替代风险 | 偏低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Telecommunications Network Planner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Telecommunications Network Planner?**
-答：Salaries in Australia range from AUD 70,000 to AUD 160,000 per year, with entry-level around 70k-90k and senior roles often exceeding 125k, depending on experience and location.
-
-**问：How can a Telecommunications Network Planner migrate to Australia?**
-答：The occupation is on the MLTSSL, allowing for skilled independent visa (189) or state-nominated visa (190). Employer-sponsored 482 visa with pathway to 186 is also possible. A skills assessment by Engineers Australia is required.
-
-**问：What is the career progression for a Telecommunications Network Planner?**
-答：Starting as a junior planner, one can advance to senior planner, network architect, or project manager, and later into consulting or management roles like network operations manager.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

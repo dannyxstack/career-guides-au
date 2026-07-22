@@ -1,62 +1,98 @@
-# Spokespersons and Public Relations Agents（Spokespersons and Public Relations Agents）职业分析 · ES
+# Spokespersons and Public Relations Agents — career analysis · Spain
 
-**职业代码：3535 – Spokespersons and Public Relations Agents。**
+**Occupation code: 3535 (CNO)**
 
-Plan and execute public communication strategies, maintain the public image of organizations or individuals, liaise with media, stakeholders, and the public, and handle crisis communication.
+Responsible for planning and executing public communication strategies, maintaining the public image of organizations or individuals, communicating with media, stakeholders, and the public, and managing crisis public relations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学年均学费约1000-3000欧元） |
-| 硕士（Máster） | 1年（Máster） | $2,000~$8,000（公立大学硕士年均学费约2000-8000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$1,500（公立FP年均学费约500-1500欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (The average annual tuition at public universities is about 1,000–3,000 euros) |
+| Máster | Year 1 (Máster) | $2,000~$8,000 (The average annual tuition for master's degrees at public universities is about 2,000–8,000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$1,500 (The average annual tuition for public FPs is about 500-1500 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 传播学或相关领域学士学位 | 西班牙大学 | 必备 | 通常要求新闻、传播、广告或公关专业学位 |
-| 硕士学历（可选） | 西班牙或国际大学 | 可选 | 战略传播或企业公关硕士可提升竞争力 |
-| 行业认证 | Dircom (Asociación de Directivos de Comunicación) | 可选 | 如Dircom认证，非强制但利于职业发展 |
+| Bachelor's degree in Communication or a related field | Spanish University | Required | Usually, a degree in journalism, communication, advertising, or public relations is required |
+| Master's degree (optional) | Spanish or international universities | Optional | A master's degree in strategic communications or corporate public relations can enhance competitiveness |
+| Industry certifications | Dircom (Asociación de Directivos de Comunicación) | Optional | For example, Dircom certification is not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙数字化转型与媒体环境变化推动公关需求增长，企业越发重视声誉管理。预计未来五年岗位增长率约10%，马德里和巴塞罗那机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spain's digital transformation and changes in the media environment are driving increased demand for PR, with companies placing greater emphasis on reputation management. Job growth is expected to be about 10% over the next five years, with more opportunities in Madrid and Barcelona.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$70,000 | 税前年薪，含管理岗 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$70,000 | Pre-tax annual salary, including management positions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级公关专员晋升为公关经理、传播总监，或专攻危机公关、数字媒体策略等领域。积累客户资源后可独立创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Spokespersons and PR agents are affected by AI: automated tools can take over tasks like media monitoring and summary writing, but core tasks like crisis PR and strategic planning rely on human judgment and empathy, making them difficult to replace.
+
+You can be promoted from junior PR specialist to PR manager, communications director, or specialize in crisis PR, digital media strategy, and related areas. After accumulating customer resources, you can start your own business.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate regular press releases and media statements
+- Real-time monitoring and aggregation of media reports and public opinion
+- Bulk responses to common public inquiries
+- Generate basic speech drafts and PPT content
+- Analyze social media data and generate reports
+
+**Where AI augments the role:**
+
+- AI tools are used for public opinion trend forecasting and early warning
+- Quickly draft crisis response plans through natural language generation
+- Use AI to analyze audience sentiment to optimize communication strategies
+- Expand international reach with AI translation and localization tools
+- Creating multimedia content using AI video and audio tools
+
+**Human moat:**
+
+- Quick decision-making in crisis communication and human empathy
+- Establish and maintain long-term relationships between media and stakeholders
+- Strategic communication planning and brand story creation
+- High emotional intelligence and judgment when handling sensitive issues
+- Represented the organization in delivering live speeches and media interviews
+
+**Skills to build:**
+
+- AI-driven public opinion monitoring and analysis tools
+- Natural Language Generation (NLG) and AI Writing Assistance
+- Social media strategy and data analysis
+- Digital video and audio content creation tools
+- AI emergency response systems in crisis management
+- Cross-cultural communication and AI translation tool applications
+
+**Key growth areas:**
 
 - Corporate communications
 - Crisis management
@@ -65,66 +101,68 @@ Plan and execute public communication strategies, maintain the public image of o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (employed)） | 由西班牙公司担保的工作居留，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 高技能专业人才签证，适用于年薪约4万欧元以上的岗位，流程较快。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留一年寻找工作，需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (employed)) | Work residency guaranteed by a Spanish company must prove that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Highly skilled professional visa for roles with annual salary around €40k+; faster process. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for one year and look for a job, but you must prove your financial capability. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Spokespersons and Public Relations Agents？**
-- 擅长沟通与写作，具备创意和策略思维
-- 对媒体和舆论有敏锐洞察力
-- 抗压能力强，能处理危机事件
+**Who is suited**
+- Skilled in communication and writing, with creativity and strategic thinking
+- Sharp insight into media and public opinion
+- Strong stress tolerance and ability to handle crisis situations
 
-**谁不适合学Spokespersons and Public Relations Agents？**
-- 不喜与人打交道或公开讲话
-- 难以处理多任务和突发事件
+**Who is not suited**
+- Dislikes interacting with people or speaking publicly
+- Difficulty handling multitasking and unexpected events
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for PR specialists in Spain?**
+A: Entry-level around 20,000–28,000 euros, mid-level 30,000–45,000, senior 45,000–70,000 euros (pre-tax annual salary).
+
+**Q: How can third-country citizens immigrate to Spain to work in public relations?**
+A: Usually requires employer sponsorship, eligible for high-skilled visa (annual salary around €40,000+) or ordinary work residence. Language and cultural adaptation are challenges.
+
+**Q: Is it necessary to go to university to work in public relations?**
+A: Usually, a relevant bachelor's degree is required, but Advanced Vocational Training (FP) can also be used as an entry-level course, followed by advancement through experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Spokespersons and Public Relations Agents属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for PR specialists in Spain?**
-答：Entry-level: €20,000-28,000; Mid-level: €30,000-45,000; Senior: €45,000-70,000 (gross annual).
-
-**问：How can third-country nationals immigrate to Spain for PR work?**
-答：Usually require employer sponsorship, eligible for Highly Qualified Professional visa (salary ~€40k+) or standard work permit. Language and cultural adaptation are challenges.
-
-**问：Is a university degree necessary for PR?**
-答：Typically a bachelor's in communications is required, but advanced vocational training (FP) can also lead to entry, with advancement through experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

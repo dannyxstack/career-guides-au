@@ -1,62 +1,98 @@
-# Long-Distance Freight Transport Driver（Long-Distance Freight Transport Driver）职业分析 · FR
+# Long-Distance Freight Transport Driver — career analysis · France
 
-**职业代码：N4101 – Long-Distance Freight Transport Driver。**
+**Occupation code: N4101 (ROME)**
 
-Drives heavy trucks for long-distance freight transport, ensuring safe and timely delivery. Requires endurance for long hours and irregular schedules, playing a key role in logistics.
+Drive heavy trucks to complete long-distance cargo transport, ensuring safe and timely delivery of goods. Adapting to long driving and irregular routines is a key link in the logistics supply chain.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Conducteur routier "marchandises" | 2年 | —（公立学校免费，私立约3000欧，可走学徒制） |
-| Bac pro Conducteur transport routier marchandises | 3年 | —（公立学校免费，可走学徒制） |
-| Titre professionnel Conducteur du transport routier de marchandises sur longue distance | 6-12个月 | $1,500~$5,000（成人职业培训，可申请个人培训账户(CPF)） |
+| CAP Conducteur routier "marchandises" | 2 years | $0~$3,000 (Public schools are free, private schools about 3,000 euros, and apprenticeships are available) |
+| Bac pro Conducteur transport routier marchandises | 3 years | $0~$3,000 (Public schools are free, and apprenticeships are available) |
+| Titre professionnel Conducteur du transport routier de marchandises sur longue distance | 6–12 months | $1,500~$5,000 (Adult vocational training can be applied for a Personal Training Account (CPF)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 重型卡车驾照(CE) | Préfecture (法国省政府) | 必备 | 必须持有CE驾照（重型卡车挂车），通过理论和路考 |
-| 职业能力证书(CAP) | Ministère de l'Éducation nationale | 必备 | CAP运输出售货物司机或同等学历 |
-| FIMO/FCO初始及继续培训 | Ministère de la Transition écologique | 必备 | 初始培训(FIMO)后每5年更新(FCO)，含驾驶、安全法规等 |
+| Heavy Truck License (CE) | Préfecture (French Provincial Government) | Required | You must hold a CE driver's license (for heavy truck trailers), pass the theory and road test |
+| Certificate of Professional Competency (CAP) | Ministère de l'Éducation nationale | Required | CAP Transport Cargo Driver or equivalent education |
+| Initial and continuing training for FIMO/FCO | Ministère de la Transition écologique | Required | After the initial training (FIMO), it is updated every 5 years (FCO), including driving and safety regulations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350,000。法国货运需求持续增长，尤其电商推动下，长途司机缺口明显。行业老龄化严重，年轻从业者短缺，未来十年大量岗位空缺。
+**Job demand: high (★★★★☆).** National workforce approx. 350,000. Freight demand in France continues to grow, especially driven by e-commerce, resulting in a significant shortage of long-haul drivers. The industry is facing severe aging, with a shortage of young workers, and a large number of job vacancies in the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含津贴 |
-| 中级（4-10年） | $30,000~$38,000 | 税前年薪，含加班和里程奖金 |
-| 高级（10年以上） | $38,000~$45,000 | 税前年薪，经验丰富或特殊运输 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, including allowances |
+| Mid-level (4-10 years). | $30,000~$38,000 | Pre-tax annual salary, including overtime and mileage bonuses |
+| Senior (10+ years) | $38,000~$45,000 | Pre-tax annual salary, experienced or specialized transportation |
+| average salary | $26,964 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初始司机晋升为资深司机、车队管理或物流调度。部分司机自营货车成为个体户，或进入培训领域担任驾校教练。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+You can be promoted from a starting driver to a senior driver, fleet manager, or logistics dispatcher. Some drivers of self-operated trucks have become self-employed or have entered the training field as driving school instructors.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - e-commerce logistics
 - driver shortage
@@ -65,65 +101,67 @@ Drives heavy trucks for long-distance freight transport, ensuring safe and timel
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇工作居留，需法国公司提供CDI合同，并通过劳动局审查雇主优先招聘本地人 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 学生毕业或学徒后求职居留，有效期1年，可工作 |
+| Subclass Salarié (Salarié (Employee)) | Requires employment residence permit, must have CDI contract from a French company, and meet labor board review of employer's priority hiring of locals. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation or apprenticeship, students seek employment and stay for one year, and are eligible to work |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Long-Distance Freight Transport Driver？**
-- 喜欢驾驶、适应长时间在路上工作的人
-- 独立工作能力强、能应对不规律作息
-- 愿意通过职业培训快速进入就业市场
+**Who is suited**
+- People who enjoy driving and are adapted to working long hours on the road
+- Strong ability to work independently and able to handle irregular schedules
+- Willing to quickly enter the job market through vocational training
 
-**谁不适合学Long-Distance Freight Transport Driver？**
-- 无法承受长时间久坐和孤独
-- 对严格安全法规和驾驶记录要求反感的人
+**Who is not suited**
+- Unable to endure prolonged sitting and loneliness
+- People who dislike strict safety regulations and driving record requirements
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for long-haul freight drivers in France?**
+A: Junior: ~25,000-30,000 EUR/year, Mid-Senior: 30,000-45,000 EUR/year, including allowances and mileage bonuses.
+
+**Q: Can Chinese drivers become long-distance drivers in France through skilled migration?**
+A: Difficult path: must have a CE driver's license and FIMO certification (may require conversion to France); Employers must prove they cannot recruit local or EU drivers. It is recommended to study abroad first or pass an apprenticeship.
+
+**Q: Is there a shortage of long-distance drivers in France?**
+A: Yes, this occupation is listed as a shortage occupation (métier en tension) with a large industry gap, especially for younger drivers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Long-Distance Freight Transport Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a long-distance truck driver in France?**
-答：Entry-level around €25,000-€30,000/year, mid-senior €30,000-€45,000/year, including allowances and bonuses.
-
-**问：Can a Chinese driver immigrate as a long-distance truck driver in France?**
-答：Difficult: must have CE license and FIMO certificate (may need conversion); employer must prove no local/EU candidate. Study or apprenticeship is recommended.
-
-**问：Is there a shortage of long-distance truck drivers in France?**
-答：Yes, it is a métier en tension (shortage occupation), with a large deficit of young drivers.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

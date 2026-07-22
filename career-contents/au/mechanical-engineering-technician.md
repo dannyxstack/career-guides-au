@@ -1,59 +1,95 @@
-# Mechanical Engineering Technician（Mechanical Engineering Technician）职业分析 · 澳大利亚
+# Mechanical Engineering Technician — career analysis · Australia
 
-**职业代码：312512 – Mechanical Engineering Technician。**
+**Occupation code: 312512 (ANZSCO)**
 
-Assist mechanical engineers in designing, testing, and manufacturing mechanical components and equipment, handling technical drawings, quality control, and maintenance as core technical support in engineering teams.
+Assist mechanical engineers in designing, testing, and manufacturing mechanical parts and equipment; handle technical drawing, quality control, and maintenance; provide core technical support to the engineering team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏易（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书IV（Diploma） | 1-2年 | $8,000~$18,000（公立TAFE学费约8000-12000澳元，私立约15000-18000澳元） |
-| 高级文凭（Advanced Diploma） | 2-3年 | $15,000~$30,000（可衔接本科学位，学费因院校而异） |
+| Certificate IV (Diploma) | 1-2 years | $8,000~$18,000 (Public TAFE tuition is about AUD 8,000-12,000, private about AUD 15,000-18,000) |
+| Advanced Diploma | 2-3 years | $15,000~$30,000 (Can lead to a bachelor's degree; tuition varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏易（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械工程技术高级文凭 | TAFE或注册培训机构 | 可选 | 核心学历要求，可完成学徒制 |
-| 工程师技师技能评估 | Engineers Australia | 必备 | 技术移民必备，需提交学历和工作经历 |
-| 工作健康与安全证书 | 各州安全机构 | 可选 | 行业基本要求，部分雇主强制 |
+| Engineer Technician Skills Assessment | Engineers Australia | Required | Required for skilled migration; need to submit education and work experience |
+| Advanced Diploma of Mechanical Engineering Technology | TAFE or registered training organizations | Optional | Core education requirement, can complete apprenticeship |
+| Work Health and Safety Certificate | State security agencies | Optional | Industry basic requirement, mandatory for some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。澳洲制造业、矿业、能源和基础设施领域持续需要机械工程技术员，预计未来五年就业稳定增长，尤其在西澳和昆士兰的矿业和油气项目中有较多机会。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Australia's manufacturing, mining, energy, and infrastructure sectors continue to need mechanical engineering technicians. Employment is expected to grow steadily over the next five years, with many opportunities especially in mining and oil/gas projects in Western Australia and Queensland.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 包括学徒及刚毕业者 |
-| 中级（3-7年） | $70,000~$90,000 | 具备独立工作能力 |
-| 高级（7年以上） | $90,000~$120,000 | 团队领导或项目主管 |
+| Median salary | $134,628 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Including apprentices and recent graduates |
+| Mid-level (3–7 years) | $70,000~$90,000 | Ability to work independently |
+| Senior (7+ years) | $90,000~$120,000 | Team leader or project supervisor |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级技术员晋升为高级技术员或团队主管，通过积累经验和进修本科工程学位后，可转为机械工程师或项目工程师，薪资和职责显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Routine design, documentation, and testing tasks for mechanical engineering technicians will be largely automated by AI tools, but on-site problem solving, cross-team coordination, and innovative design still rely on humans—the role is a mixed bag overall.
+
+Can progress from junior technician to senior technician or team supervisor; by accumulating experience and further study in an engineering bachelor's degree, can transition to mechanical engineer or project engineer, with significantly increased salary and responsibilities.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for 3D modeling of standard parts and generating 2D engineering drawings
+- Write standard test plans and record test data, generate routine quality reports
+- Standardized diagnosis of equipment faults and replacement of spare parts according to the manual
+- Extract parameters from design specifications and calculate material lists
+- Maintain equipment operation logs and preventive maintenance records
+
+**Where AI augments the role:**
+
+- Using generative design AI to rapidly generate multiple structural solutions and compare performance
+- Monitor equipment status in real-time through digital twin platforms, predict failures, and optimize maintenance plans
+- Using AI-assisted simulation tools to rapidly iterate design parameters and shorten development cycles.
+- Uses computer vision to automatically identify defects in quality inspection images, improving detection accuracy
+- Quick retrieval of technical documents and industry standards using natural language processing technology
+
+**Human moat:**
+
+- Understand the operating mechanism of physical systems, judge whether AI simulation results are real and reliable
+- Quickly diagnose non-standard faults on the manufacturing floor and make temporary repair decisions based on experience
+- Effectively communicate and collaborate with cross-functional teams (engineers, suppliers, operators)
+- Conceptualize innovative design requirements and propose feasible solutions.
+- Ensure designs comply with safety regulations and ethical requirements, assume legal responsibility
+
+**Skills to build:**
+
+- AI/Machine Learning basics: understanding how algorithms assist design optimization and prediction
+- Digital twin and simulation tools (e.g., Ansys Twin Builder)
+- Advanced CAD parametric modeling and generative design (e.g., Fusion 360 Generative Design)
+- Data analysis and visualization (Python/R, Tableau)
+- Basic knowledge of sensors and the Internet of Things (IoT)
+- Project management and agile work methods
+
+**Key growth areas:**
 
 - Manufacturing
 - Mining & Resources
@@ -62,69 +98,68 @@ Assist mechanical engineers in designing, testing, and manufacturing mechanical 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (TSS)） | 雇主担保临时签证，需担保雇主和职业在CSOL上，可转186永居 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需满足州担保要求，职业在州担保清单上 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区临时签证，5年后转191永居，职业需在相关清单 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需通过TRT或DE通道，职业在MLTSSL上 |
+| Subclass 482 (Skills in Demand (TSS)) | Employer-sponsored temporary visa; requires a sponsoring employer and occupation on the CSOL; can transition to 186 permanent visa |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency visa, requires meeting state sponsorship requirements, occupation on the state sponsorship list. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional provisional visa, transitioning to 191 permanent residence after 5 years, occupation must be on the relevant list |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires TRT or DE pathway; occupation must be on MLTSSL |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineering Technician？**
-- 动手能力强，喜欢机械和设备维护的人
-- 希望在工程领域以职业资格而非学位起步的人
-- 愿意在制造业、矿业或能源行业工作的人
-
-**谁不适合学Mechanical Engineering Technician？**
-- 不喜欢体力劳动和现场工作的人
-- 追求高薪且不愿长期从事技术岗位的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and a love for machinery and equipment maintenance.
+- Those who want to start in engineering with vocational qualifications rather than a degree
+- Willing to work in manufacturing, mining or energy industries
+
+**Who is not suited**
+- People who dislike physical labour and on-site work
+- Those seeking high pay and unwilling to stay in technical roles long-term
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a mechanical engineering technician?**
+A: Entry-level approx. A$55,000-70,000, mid-level A$70,000-90,000, senior A$90,000-120,000, depending on experience and industry.
+
+**Q: Can mechanical engineering technicians apply for skilled migration to Australia?**
+A: Yes. This occupation is on the CSOL (Core Skills Occupation List) and is eligible for 189 Skilled Independent visa, 190 State Nominated visa, or 482/186 employer-sponsored migration, but requires a skills assessment through Engineers Australia.
+
+**Q: Can mechanical engineering technicians advance to become engineers?**
+A: Yes. By pursuing a bachelor's degree in engineering and accumulating experience, you can advance to mechanical engineer or project engineer, with higher salary and career development potential.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏易（★★☆☆☆） |
-| 考证难度 | 中等偏易（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a mechanical engineering technician?**
-答：Entry-level: AUD 55,000-70,000; mid-level: 70,000-90,000; senior: 90,000-120,000, depending on experience and industry.
-
-**问：Can a mechanical engineering technician apply for skilled migration to Australia?**
-答：Yes. This occupation is on the CSOL (Core Skills Occupation List) and can apply for 189, 190, or 482/186 visas, but must pass a skills assessment by Engineers Australia.
-
-**问：Can a mechanical engineering technician become an engineer?**
-答：Yes. By completing a bachelor's degree in engineering and gaining experience, you can become a mechanical engineer or project engineer with higher salary and career prospects.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

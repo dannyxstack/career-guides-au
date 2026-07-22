@@ -1,60 +1,95 @@
-# Commercial Sales Representative（Commercial Sales Representative）职业分析 · IE
+# Commercial Sales Representative — career analysis · Ireland
 
-**职业代码：3322 – Commercial Sales Representative。**
+**Occupation code: 3322 (ISCO08)**
 
-Sells products or services to business clients, builds customer relationships, and meets sales targets.
+Responsible for promoting products or services to corporate clients, building customer relationships, and achieving sales targets.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 完成高中教育（约2年） | —（免费公立教育） |
-| 学士学位（商科相关） | 3-4年（本科） | $10,000~$25,000（每年学费，欧盟学生较低） |
+| High school diploma or equivalent | Complete high school education (approx. 2 years) | $0~$0 (Free public education) |
+| Bachelor's degree (Business related) | 3-4 years (Bachelor's degree) | $10,000~$25,000 (Annual tuition fee, lower for EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售技能认证 | Sales Institute Ireland | 可选 | 专业销售认证，提升竞争力 |
-| 行业特定认证 | 相关行业协会 | 可选 | 如制药或科技领域认证 |
+| Sales skills certification | Sales Institute Ireland | Optional | Professional sales certification to boost competitiveness |
+| Industry-specific certifications | Relevant industry associations. | Optional | such as certifications in pharmaceuticals or technology |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。爱尔兰商业销售代表需求稳定，尤其在科技、制药和金融服务领域。随着经济持续增长，企业间销售岗位预计保持中等增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for business sales representatives in Ireland is stable, particularly in technology, pharmaceuticals, and financial services. With ongoing economic growth, business-to-business sales roles are expected to see moderate growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 基础薪资加佣金 |
-| 中级（3-7年） | $45,000~$65,000 | 包括佣金和奖金 |
-| 高级（7年以上） | $70,000~$100,000 | 高额佣金及管理职责 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $45,000~$65,000 | Including commission and bonuses |
+| Senior (7+ years) | $70,000~$100,000 | High commission and management responsibilities |
+| average salary | $58,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级销售可通过业绩晋升为高级销售经理、区域销售经理或销售总监。也可转向客户管理或业务发展角色。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
+
+Junior sales can advance to senior sales manager, regional sales manager or sales director through performance. Or transition into account management or business development roles.
+
+**Tasks most exposed to AI:**
+
+- Use CRM and AI tools to automatically dial calls, screen potential clients, and send standardized follow-up emails
+- Handle common service inquiries, product introductions, and initial needs confirmation via chatbot
+- Use AI to analyze customer historical data, generating personalized sales suggestions and quotation templates.
+- Automates routine contract clause explanation, service level descriptions, and FAQ responses
+- AI-driven sales forecasting and report generation, replacing manual data collation and trend analysis
+
+**Where AI augments the role:**
+
+- AI provides customer behavior insights and real-time recommendations, helping sales reps tailor solutions and increase closing rates
+- Uses Natural Language Processing (NLP) to analyze customer call recordings, identify emotions and purchase intent, and guide communication strategies
+- Automatically records call notes, updates CRM fields, freeing up energy to focus on high-value interactions
+- AI simulates customer roles for sales practice, enhancing salespeople's ability to handle objections and negotiate
+
+**Human moat:**
+
+- Complex needs diagnosis and cross-domain solution integration, requiring understanding of customer business scenarios and pain points
+- Build long-term trust relationships and maintain connections with key decision-makers at senior levels
+- Creative negotiation, flexible pricing decisions, and contract term customization
+- Cross-team coordination (e.g., technical, legal) to deliver complex service solutions
+- Demonstrate emotional intelligence and empathy when handling unexpected client crises and complaints
+
+**Skills to build:**
+
+- Proficiency in operating and configuring mainstream CRM (e.g., Salesforce) and AI sales assistants (e.g., Gong, Clari)
+- Data analysis basics: use Python or BI tools (e.g., Tableau) to analyze sales funnel and customer profiles
+- Customer success and complex project management skills to ensure renewals and expansion sales
+- Short video script creation and social media sales skills, using AI to generate content for customer acquisition
+- Prompt engineering for AI tools, optimizing chatbot scripts and sales email generation quality
+- Cross-cultural communication and remote collaboration skills, for global service sales
+
+**Key growth areas:**
 
 - Business services
 - Technology sales
@@ -63,68 +98,67 @@ Sells products or services to business clients, builds customer relationships, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元的非紧缺职业，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪高于欧盟门槛的岗位，通常要求高等教育学历，提供更便捷的居留路径。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations with an annual salary of no less than €30,000, requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to positions with annual salary above the EU threshold, usually requiring higher education qualifications, providing a more convenient residence pathway. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commercial Sales Representative？**
-- 善于沟通、有说服力的人
-- 目标驱动、抗压能力强的人
-- 喜欢与人打交道、建立关系的人
-
-**谁不适合学Commercial Sales Representative？**
-- 不善社交、不喜欢外勤工作的人
-- 对销售指标压力敏感的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communicator, persuasive
+- Goal-driven, resilient individuals.
+- People who enjoy interacting with others and building relationships
+
+**Who is not suited**
+- People who are not sociable or dislike field work.
+- People sensitive to sales target pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for commercial sales representatives?**
+A: Entry-level annual salary approx. €30,000-40,000, intermediate €45,000-65,000, senior €70,000-100,000, plus commissions.
+
+**Q: Can a commercial sales representative immigrate to Ireland via a work visa?**
+A: Yes, but this occupation is not on the shortage list and must go through a General Employment Permit, requiring an annual salary of at least €30,000 and employer sponsorship.
+
+**Q: What are the career prospects for this occupation?**
+A: High performers can advance to sales manager, regional director, or other roles, and may also transition into marketing or business development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Commercial Sales Representative为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for commercial sales representatives?**
-答：Entry-level salary is around €30,000-€40,000, mid-level €45,000-€65,000, senior €70,000-€100,000, plus commission.
-
-**问：Can commercial sales representatives immigrate to Ireland via work visa?**
-答：Yes, but it's not on the critical skills list. Apply for a General Employment Permit with a salary ≥€30,000 and employer sponsorship.
-
-**问：What are the career prospects?**
-答：Top performers can advance to sales manager, regional director, or transition to marketing/business development.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

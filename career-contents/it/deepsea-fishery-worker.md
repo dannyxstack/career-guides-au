@@ -1,59 +1,95 @@
-# Deep-sea Fishery Worker（Deep-sea Fishery Worker）职业分析 · IT
+# Deep-sea Fishery Worker — career analysis · Italy
 
-**职业代码：6223 – Deep-sea Fishery Worker。**
+**Occupation code: 6223 (ISCO08)**
 
-Deep-sea fishery workers engage in commercial fishing in Italian waters, handling nets, processing catches, and maintaining deck equipment. The job is seasonal, mainly in southern regions and islands.
+Deep-sea fishery workers engage in commercial fishing operations in Italian waters, including operating fishing nets, handling catches, and maintaining deck equipment. The occupation is seasonal, mainly in southern and island regions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训证书 | 1年 | $1,000~$3,000（海事学校或地区培训课程） |
-| 高中文凭 | 3年 | —（公立学校免费） |
+| Vocational training certificate | 1 year | $1,000~$3,000 (Maritime school or regional training courses) |
+| High school diploma | 3 years | $0~$0 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 船员基础安全培训 | Italian Coast Guard | 必备 | 强制性的STCW基础安全培训 |
-| 渔船操作执照 | Italian Maritime Authority | 必备 | 根据吨位和航区要求 |
-| 医疗体检证书 | 授权医疗机构 | 必备 | 证明身体适合海上工作 |
+| Basic Safety Training for Crew | Italian Coast Guard | Required | Mandatory STCW basic safety training |
+| Fishing vessel operation license | Italian Maritime Authority | Required | Based on tonnage and navigation area requirements |
+| Medical examination certificate. | Authorized medical institutions | Required | Prove physical fitness for working at sea |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 25,000。意大利渔业面临欧盟配额限制和资源衰减，就业岗位缓慢减少。但当地海鲜需求稳定，部分细分领域（如可持续捕捞）需熟练工人替代老龄化劳动力。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,000. The Italian fishing industry faces EU quota restrictions and resource depletion, leading to a slow decline in jobs. However, local seafood demand remains stable, and some niche areas (e.g., sustainable fishing) need skilled workers to replace an aging workforce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，含奖金和津贴 |
-| 中级（4-7年） | $24,000~$32,000 | 税前年薪，经验丰富者可更高 |
-| 高级（8年以上） | $32,000~$45,000 | 船长或领班级别，税前年薪 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual salary before tax, including bonuses and allowances |
+| Mid-level (4-7 years) | $24,000~$32,000 | Pre-tax annual salary, higher for experienced candidates |
+| Senior (8+ years) | $32,000~$45,000 | Ship captain or chief mate level, pre-tax annual salary |
+| average salary | $29,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：消极（★☆☆☆☆）。** 初级船员可晋升为渔工长或甲板领班，积累经验后可成为船长或渔业经理。部分工人转向水产养殖或海事监管岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Deep-sea fishery workers face automation risks (navigation, monitoring) and AI augmentation opportunities (fish school prediction, catch processing), but physical labor, maritime hazards, and environmental judgment are difficult to fully replace.
+
+Entry-level crew can advance to fishing master or deck foreman; with experience, they can become captain or fisheries manager. Some workers transition to aquaculture or maritime regulatory roles.
+
+**Tasks most exposed to AI:**
+
+- Fishing vessel navigation and route planning (AIS + autopilot)
+- Fish catch classification and initial weighing (computer vision)
+- Fish school detection and net deployment position optimization (AI sonar analysis)
+- Predictive maintenance for fishing vessel equipment (IoT + machine learning)
+- Catch tracking and compliance report generation (automated data entry)
+
+**Where AI augments the role:**
+
+- AI-assisted fish school prediction (combining meteorological and oceanographic data)
+- Real-time deck safety monitoring (AI alert wearable)
+- Automation of catch processing (robot-assisted)
+- Resource management and sustainable fishing strategies (AI models)
+- Market sales data analysis (providing optimal auction timing)
+
+**Human moat:**
+
+- Decision-making in complex maritime environments (storms, currents)
+- Manual net repair and deck emergency handling
+- Judging fish behavior based on experience (limited AI data)
+- Communication and coordination with fleet and shore teams
+- Flexible operations to adapt to seasonal and regulatory changes
+
+**Skills to build:**
+
+- AI/Computer Vision Applications in Fisheries
+- Data analysis and prediction tools (Python, R)
+- Drone operation and maintenance
+- Marine sensor and IoT device management
+- Sustainable fisheries regulations and certifications
+- Deck automation system operation
+
+**Key growth areas:**
 
 - Seasonal employment
 - Sustainable fishing
@@ -62,68 +98,67 @@ Deep-sea fishery workers engage in commercial fishing in Italian waters, handlin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟工人，需大学学历或同等技能，年薪门槛约24,000欧元（待确认），但该职业通常不符合学历要求。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额签证，适用于非欧盟季节性工人，需雇主担保。适合深海渔业这种季节性工作。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 意大利工作许可，由雇主申请，需证明无欧盟公民胜任。长期合同可转为居留许可。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU workers, requires a university degree or equivalent skills, with an annual salary threshold of approximately €24,000 (to be confirmed), but this occupation usually does not meet the educational requirements. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota visa for non-EU seasonal workers, requires employer sponsorship. Suitable for seasonal work like deep-sea fishing. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Italian work permit, applied for by the employer, requiring proof that no EU citizen is available. A long-term contract can be converted into a residence permit. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Deep-sea Fishery Worker？**
-- 热爱户外和海上工作，能忍受恶劣天气
-- 体力充沛，适应高强度体力劳动
-- 愿意接受季节性工作和离家生活
-
-**谁不适合学Deep-sea Fishery Worker？**
-- 晕船或不喜欢长时间在海上
-- 追求稳定工作时间和生活规律
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and marine work, can tolerate harsh weather
+- Physically energetic, able to adapt to high-intensity physical labour
+- Willing to accept seasonal work and live away from home
+
+**Who is not suited**
+- Seasickness or dislike of long periods at sea
+- Seek stable working hours and a regular lifestyle
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of deep-sea fishery workers?**
+A: Annual starting income around €18,000-24,000; senior captains can earn up to €45,000, but work is highly seasonal.
+
+**Q: How can non-EU citizens obtain an Italian deep-sea fisheries work visa?**
+A: Primarily via Decreto Flussi annual quota work visa, requiring employer sponsorship. EU citizens have free movement.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Can advance from ordinary crew to fishing master, captain, or transition to aquaculture, fisheries management positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 消极（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Deep-sea Fishery Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for deep-sea fishery workers?**
-答：Entry-level earns €18k-24k annually, while experienced captains can earn up to €45k, but work is seasonal.
-
-**问：How can non-EU citizens get a work visa for deep-sea fishing in Italy?**
-答：Mainly through the Decreto Flussi quota work visa with employer sponsorship. EU citizens have free movement.
-
-**问：Are there promotion opportunities?**
-答：Yes, from deckhand to boatswain, captain, or transition to aquaculture and fishery management.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

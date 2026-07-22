@@ -1,60 +1,94 @@
-# Refrigeration and Air Conditioning Installation and Maintenance Technician（Refrigeration and Air Conditioning Installation and Maintenance Technician）职业分析 · FR
+# Refrigeration and Air Conditioning Installation and Maintenance Technician — career analysis · France
 
-**职业代码：I1306 – Refrigeration and Air Conditioning Installation and Maintenance Technician。**
+**Occupation code: I1306 (ROME)**
 
-Responsible for installing, commissioning, maintaining, and repairing refrigeration, air conditioning, and heat pump systems to ensure efficient and safe operation.
+Responsible for installation, commissioning, maintenance, and repair of refrigeration systems, air conditioning equipment, and heat pumps to ensure efficient and safe operation of equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP | 2年 | —（公立职业学校免费，只需注册费及材料费；学徒制有工资） |
-| BTS | 2年 | —（公立学校免费，私立学校约2000欧元/年；可学徒） |
-| Licence Pro | 1年（BTS后） | —（公立大学约200-300欧元注册费；私立则较高） |
+| CAP | 2 years | $0~$1,500 (Public vocational schools are free of charge, requiring only registration and material fees; Apprenticeships are paid) |
+| BTS | 2 years | $0~$2,000 (Public schools are free; private schools about €2,000/year; apprenticeships available.) |
+| Licence Pro | 1 year (after BTS) | $0~$3,000 (The registration fee for public universities is about 200-300 euros; Private schools are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Installateur en froid et conditionnement d'air | 法国教育部 | 必备 | 国家文凭，行业基础资格 |
-| Attestation de capacité pour la manipulation des fluides frigorigènes | 法国生态转型部 | 必备 | 制冷剂操作认证，分为I至IV类，必须持有 |
-| Carte professionnelle (qualification professionnelle) | 法国商会(CMA) | 可选 | 独立从业者需申请工匠资格或工商注册 |
+| CAP Installateur en froid et conditionnement d'air | French Ministry of Education | Required | National diploma, industry foundational qualification |
+| Attestation de capacité pour la manipulation des fluides frigorigènes | French Ministry of Ecological Transition | Required | Refrigerant operation certification, divided into Classes I to IV, is mandatory |
+| Carte professionnelle (qualification professionnelle) | French Chamber of Commerce (CMA) | Optional | Independent practitioners need to apply for craftsman qualification or business registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 65,000。法国对能源转型和热泵安装需求激增，该职业持续紧缺，尤其在IDF、奥弗涅-罗讷-阿尔卑斯等大区。学徒制培训受政府资助。
+**Job demand: very high (★★★★½).** National workforce approx. 65,000. France's demand for energy transition and heat pump installation has surged, with this profession remaining in short supply, especially in regions such as the IDF and Auvergne-Rhône-Alpes. Apprenticeship training is government-funded.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒出师后起薪约SMIC+ |
-| 中级（3-7年） | $28,000~$35,000 | 含津贴和加班 |
-| 高级（7年以上） | $35,000~$48,000 | 团队主管或技术专家可达高级别 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Starting salary after apprenticeship is about SMIC+ |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including allowances and overtime |
+| Senior (7+ years) | $35,000~$48,000 | Team leaders or technical experts can reach senior levels |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 可从学徒或CAP起步，晋升为团队主管、技术经理或创业开设自己的公司。也可向工业制冷、可再生能源系统等细分领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+You can start as an apprentice or CAP, and advance to team leader, technical manager, or start your own company. It can also develop into sub-sectors such as industrial refrigeration and renewable energy systems.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Heat pump
 - Energy transition
@@ -63,68 +97,67 @@ Responsible for installing, commissioning, maintaining, and repairing refrigerat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如工程师或专家，可获4年居留 |
-| Subclass Salarié（Salaried Employee Visa） | 需获得法国雇主工作合同，由法国劳工局审核紧缺性 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪需达约53,000欧元以上（2025年），适用于高薪职位 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents such as engineers or experts, who can obtain a 4-year residence permit |
+| Subclass Salarié (Salaried Employee Visa) | A work contract with a French employer must be obtained, and the French Labor Office will review the shortage status |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary of approximately 53,000 euros or more (2025) is required for high-paying positions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Refrigeration and Air Conditioning Installation and Maintenance Technician？**
-- 动手能力强、喜欢现场作业的人
-- 对能源转型和环保制冷技术感兴趣
-- 愿意通过学徒制学习并获得实践经验
-
-**谁不适合学Refrigeration and Air Conditioning Installation and Maintenance Technician？**
-- 不适应户外或燥热/寒冷工作环境者
-- 希望长期在办公室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and a fondness for on-site work
+- Interested in energy transition and environmentally friendly refrigeration technologies
+- Willing to learn through apprenticeships and gain practical experience
+
+**Who is not suited**
+- Those who are not suited to outdoor or hot/cold working environments
+- Those who hope to work in an office long-term
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for refrigeration and air conditioning technicians?**
+A: Junior salaries are about 22-28k euros, intermediate salaries 28-35k, and senior (supervisor/specialist) up to 35-48k euros. Overtime and allowances can add extra income.
+
+**Q: How can foreigners work in refrigeration and air conditioning in France?**
+A: Possible via Passeport Talent (requires employer contract and qualification certification) or Salarié visa. Shortage occupations may expedite labour approval, but requires French B1+ and French diploma or certified equivalency.
+
+**Q: What are the promotion paths for refrigeration and air conditioning technicians?**
+A: You can be promoted to team leader, technical manager, or start your own installation company. You can also specialize in industrial cooling, heat pumps, or renewable energy systems.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Refrigeration and Air Conditioning Installation and Maintenance Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a refrigeration and air conditioning technician?**
-答：Entry-level annual salary is about 22-28k EUR, intermediate 28-35k, senior (supervisor/expert) up to 35-48k EUR. Overtime and allowances can add extra income.
-
-**问：How can a foreigner work in refrigeration and air conditioning in France?**
-答：Via Talent Passport (requires employer contract and qualification recognition) or Salaried Employee visa. Shortage occupation may expedite labor approval, but French B1+ and diploma equivalence are needed.
-
-**问：What are the career advancement paths for a refrigeration and air conditioning technician?**
-答：Can become team supervisor, technical manager, or start own installation company. Specialization in industrial refrigeration, heat pumps, or renewable energy systems is also possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

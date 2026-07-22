@@ -1,62 +1,98 @@
-# Technical Specialist in Electrical and Electronic Testing and Quality Control（Technical Specialist in Electrical and Electronic Testing and Quality Control）职业分析 · FR
+# Technical Specialist in Electrical and Electronic Testing and Quality Control — career analysis · France
 
-**职业代码：H1504 – Technical Specialist in Electrical and Electronic Testing and Quality Control。**
+**Occupation code: H1504 (ROME)**
 
-Responsible for testing, inspection, quality control, and fault diagnosis of electrical and electronic products to ensure compliance with French and EU standards. Works in production, R&D, or third-party labs.
+Responsible for testing, inspection, quality control, and fault diagnosis of electrical and electronic products to ensure compliance with French and EU standards. Usually working in production, R&D, or third-party laboratories.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS（高级技师文凭） | 2年 | $1,000~$10,000（公立学校学费低，私立约5000-10000欧元/年；常见alternance模式免学费。） |
-| DUT（大学技术文凭） | 2年 | $500~$3,000（公立大学学费约170欧元/年，外加CVEC费用；alternance同样免费。） |
-| Licence Professionnelle（职业学士） | 1年（BTS/DUT后） | $500~$5,000（公立大学学费低，私立约4000-8000欧元/年。） |
+| BTS (Advanced Technician Diploma) | 2 years | $1,000~$10,000 (Public schools have low tuition, while private ones cost about 5,000-10,000 euros per year; Common alternance models are tuition-free.) |
+| DUT (University Technical Diploma) | 2 years | $500~$3,000 (Public university tuition is about 170 euros per year, plus CVEC fees; Alternance is also free.) |
+| Licence Professionnelle | 1 year (after BTS/DUT) | $500~$5,000 (Public universities have low tuition fees, while private ones cost about 4,000-8,000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS或DUT电气电子相关专业 | 法国教育部认可的院校 | 必备 | BTS或DUT是基本要求，部分雇主偏好Licence Professionnelle。 |
-| COTIREP认证（电气与电子行业技术资格认证） | COTIREP（法国电气电子行业委员会） | 可选 | 非强制但有助于职业发展，尤其在汽车、航空领域受认可。 |
-| ISO 9001内审员证书 | AFNOR或其他认证机构 | 可选 | 质量管理岗位加分项，非强制。 |
+| BTS or DUT Electrical and Electronic Majors or related majors | Institutions recognized by the French Ministry of Education | Required | BTS or DUT are basic requirements, and some employers prefer Licence Professionnelle. |
+| COTIREP Certification (Technical Qualification Certification for Electrical and Electronics Industry) | COTIREP (French Electrical and Electronics Industry Council) | Optional | Non-mandatory but beneficial for career development, especially recognized in the automotive and aviation sectors. |
+| ISO 9001 internal auditor certificate | AFNOR or other certification bodies | Optional | Bonus points for quality management positions, not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,000。法国在能源转型、电动汽车和工业数字化转型推动下，对电气电子质量技术员需求稳定。航空、国防和铁路领域尤其活跃，拥有BTS或DUT文凭的求职者机会较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. France has maintained stable demand for electrical and electronic quality technicians, driven by energy transition, electric vehicles, and industrial digitalization. The aviation, defense, and railway sectors are especially active, with many job opportunities for applicants with BTS or DUT diplomas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，通常为26,000-30,000欧元。 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪，含绩效奖金。 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，工程主管或专家岗可达50,000欧元以上。 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, usually €26,000–30,000. |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual salary before tax, including performance bonuses. |
+| Senior (7+ years) | $42,000~$55,000 | Pre-tax annual salary, with engineering supervisor or specialist positions reaching over 50,000 euros. |
+| average salary | $33,090 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级测试技术员晋升为高级质量工程师或实验室主管。通过获得COTIREP认证或工程师文凭（如CNAM）可转向项目管理或质量管理体系（ISO 9001）岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
+
+Candidates can be promoted from junior test technician to senior quality engineer or laboratory supervisor. By obtaining COTIREP certification or engineering diplomas (such as CNAM), you can transition to project management or quality management system (ISO 9001) positions.
+
+**Tasks most exposed to AI:**
+
+- Automated test script generation and execution; AI can automatically analyse circuit board fault modes and output test reports
+- Documentation and archiving of standard repair procedures; AI can auto-generate repair logs
+- Circuit parameter debugging based on preset rules; AI quickly determines optimal parameters through simulation
+- Diagnosis of common faults; AI quickly locates issues by matching historical data
+- Repetitive operations in equipment calibration, AI-controlled automated calibration system
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AI provides a data-driven list of potential causes; technicians quickly verify.
+- Design improvement suggestions: AI analyzes historical equipment failure data to propose circuit optimization solutions
+- Remote technical support: AI-enhanced reality glasses overlay circuit diagrams and operating instructions in real time
+- Predictive maintenance: AI predicts equipment failure, technicians intervene early.
+- Training and knowledge base: AI generates personalized learning paths and instant query assistants
+
+**Human moat:**
+
+- Fine manual operations like on-site installation and wiring
+- Creative troubleshooting for non-standard faults
+- Communicating with clients to understand needs and provide customized solutions
+- Overall debugging and coordination during cross-system integration.
+- Safety compliance responsibility and emergency response
+
+**Skills to build:**
+
+- AI-assisted diagnostic tools (e.g., ML-based fault prediction systems)
+- Programmable Automation Controller (PAC) programming.
+- IoT device configuration and data analysis
+- Augmented reality (AR) repair assistance operations
+- Python script for automating test data organization
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Énergies renouvelables
 - Véhicule électrique
@@ -65,65 +101,67 @@ Responsible for testing, inspection, quality control, and fault diagnosis of ele
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 常规工作居留，需雇主担保，工资至少SMIC（年约20,000欧元）。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于有硕士文凭或高技能人才，年薪需达约42,000欧元以上，有效期4年。 |
+| Subclass Salarié (Salarié (Employee)) | Regular work residency requires employer sponsorship, with a minimum salary of SMIC (about €20,000 per year). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for those with a master's degree or highly skilled talents, with an annual salary of about 42,000 euros or more, valid for 4 years. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Technical Specialist in Electrical and Electronic Testing and Quality Control？**
-- 喜欢动手操作、注重细节、有耐心的人
-- 具备电气电子基础知识，愿意在生产现场工作
-- 寻求稳定就业、愿意在工业领域长期发展的技术人员
+**Who is suited**
+- People who enjoy hands-on work, pay attention to details, and are patient
+- Possess basic knowledge of electrical and electronic systems, and be willing to work on production sites
+- Technicians seeking stable employment and willing to develop long-term in the industrial sector
 
-**谁不适合学Technical Specialist in Electrical and Electronic Testing and Quality Control？**
-- 偏好纯办公室工作、厌恶嘈杂环境者
-- 对重复性测试工作缺乏耐心者
+**Who is not suited**
+- Those who prefer pure office work and dislike noisy environments
+- Those who lack patience for repetitive testing work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this profession in France?**
+A: Junior technicians earn about 25,000-30,000 euros before tax, intermediate technicians up to 32,000-42,000 euros, and senior specialists or supervisors up to 42,000-55,000 euros. Salaries are influenced by industry (aviation, defense is higher), region, and experience.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: The likelihood is low. This occupation is not listed among France's shortage occupations, making employer sponsorship difficult. However, if you hold a master's degree and earn an annual salary of over 42,000 euros, you can apply for Passeport Talent. It is generally recommended to first obtain a French BTS/DUT diploma or gain local experience through alternance.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically, BTS (Advanced Technician Diploma) or DUT (University Technical Diploma) is required in the electrical and electronics field, such as BTS CIRA (Industrial Automation Control) or DUT GEII (Electrical Engineering and Industrial Information Technology). Licence Professionnelle can be further enhanced.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Technical Specialist in Electrical and Electronic Testing and Quality Control属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in France?**
-答：Junior technicians earn €25,000-30,000 gross annually, mid-level €32,000-42,000, and senior experts or supervisors €42,000-55,000. Salary varies by industry (aerospace, defense higher), region, and experience.
-
-**问：Can third-country nationals immigrate through this occupation?**
-答：It is difficult. This occupation is not on France's shortage list, making employer sponsorship challenging. However, with a master's degree and salary above €42,000, one can apply for Passeport Talent. It is recommended to obtain a French BTS/DUT diploma or accumulate local experience via alternance.
-
-**问：What education is required for this occupation?**
-答：Typically a BTS (Brevet de Technicien Supérieur) or DUT (Diplôme Universitaire de Technologie) in electrical/electronics, such as BTS CIRA (Control of Industrial Automated Systems) or DUT GEII (Electrical Engineering and Industrial Information Technology). A Licence Professionnelle can enhance prospects.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

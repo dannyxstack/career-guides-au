@@ -1,60 +1,96 @@
-# Bridge and Lock Tenders（Bridge and Lock Tenders）职业分析 · 美国
+# Bridge and Lock Tenders — career analysis · United States
 
-**职业代码：53-6011 – Bridge and Lock Tenders。**
+**Occupation code: 53-6011 (SOC)**
 
-Operate and tend bridges, canal locks, and lighthouses to permit marine passage on inland waterways, near shores, and at danger points. Includes drawbridge operators, lock operators, and slip bridge operators.
+Operate and maintain bridges, locks, and lighthouses to ensure safe vessel passage on inland waterways and nearshore waters. Includes bascule bridge operators, lock operators, and swing bridge operators.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无需大学教育 | —（通常仅需高中毕业） |
-| 在职培训 | 1-3个月 | —（雇主提供培训，可能需少量认证费用） |
+| High school diploma or equivalent | No university education required | $0~$0 (Usually only requires high school diploma) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Employer provides training, may require small certification fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 船闸操作员认证 | 美国陆军工程兵团或各州交通部门 | 必备 | 部分岗位要求，培训后考试 |
-| 海上安全培训 | 美国海岸警卫队认可的培训机构 | 可选 | 如需操作灯塔或涉及航道安全 |
+| Lock operator certification | US Army Corps of Engineers or state transportation departments | Required | Required for some positions, exam after training |
+| Maritime safety training | Training institutions recognized by the US Coast Guard | Optional | If operating lighthouses or involving navigational safety |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,200。美国就业前景稳定但有限，主要集中在河流沿岸及沿海地区。受自动化影响较小，因需要人工监控安全。预计2023-2033年就业增长率为-2%至2%，岗位数量基本持平。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,200. US employment outlook stable but limited, mainly along rivers and coastal areas. Less affected by automation due to need for human safety monitoring. Projected employment change 2023-2033: -2% to 2%, essentially flat.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 通常包括实习或学徒期 |
-| 中级（3-10年） | $45,000~$55,000 | 经验丰富的操作员 |
-| 高级（10年以上） | $55,000~$65,000 | 主管或资深操作员 |
+| Median salary | $57,700 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Usually includes an internship or apprenticeship |
+| Intermediate (3-10 years) | $45,000~$55,000 | Experienced operator |
+| Senior (10+ years) | $55,000~$65,000 | Supervisor or senior operator |
+| average salary | $55,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 通常从初级操作员开始，通过培训和经验积累晋升为高级操作员或主管。部分人可转向水上交通管理或港务监督岗位，但晋升空间有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Entry-level positions for transport/station officials (e.g., ticketing, patrol) are susceptible to replacement by self-service ticket machines and AI surveillance, but core tasks like emergency handling, law enforcement discretion, and public service still rely on humans—a mixed blessing.
+
+Usually starts as junior operator, advances to senior operator or supervisor through training and experience. Some may move into water traffic management or port authority roles, but advancement is limited.
+
+**Tasks most exposed to AI:**
+
+- Ticket Sales and Validation: Self-service ticket machines, turnstiles, and mobile payments replace manual ticketing and validation
+- Crowd Monitoring and Anomaly Detection: AI Video Analysis Automatically Identifies Crowding, Falls, Abandoned Objects, Replacing Manual Patrols
+- Routine information queries: chatbots and station apps provide route, timetable, and delay information, reducing front desk inquiries
+- Ticket compliance check: automated gates and e-ticketing systems directly detect fare evasion, replacing manual spot checks
+- Non-emergency event recording: AI automatically generates incident reports and logs, replacing manual entry
+
+**Where AI augments the role:**
+
+- Passenger guidance and complex issue handling: AI provides real-time passenger flow heat maps to assist officers in optimizing guidance routes
+- Emergency response: AI integrates sensor data (smoke, crowd flow) for rapid incident location, assisting official decision-making
+- Multilingual communication: real-time translation headsets or apps assist officers in serving non-English-speaking passengers
+- Training and procedure updates: AI generates immersive VR sim scenarios to improve emergency response training efficiency
+- Operations optimization: AI analyzes historical data to predict peak passenger flow, assisting officials in scheduling and resource allocation
+
+**Human moat:**
+
+- Discretion in on-site law enforcement: legal judgment and human consideration in deciding fare evasion or violations
+- Leadership and decision-making in emergencies: calming crowds and organizing evacuations during fires or medical emergencies.
+- Complex interpersonal communication: handling passenger complaints, lost and found, special needs (disabled, children)
+- Environmental adaptability: handle emergencies in noisy, outdoor, crowded sites
+- Local Knowledge: Familiarity with Local Transport Networks, Community Customs, Site Physical Details
+
+**Skills to build:**
+
+- AI monitoring system operation and anomaly response: learn to use video analytics platforms and set alarms
+- Data analysis basics: understanding passenger flow reports, delay statistics, using data to guide on-site management
+- Use of multilingual service tools: proficiently using real-time translation apps and multi-device setups
+- Psychological crisis intervention training: enhance ability to handle mentally disturbed or violent passengers
+- Basic programming/scripting: automate daily reports with Excel macros or low-code tools
+- Emergency management certification: obtaining NATAP (National Action Team) or similar first aid certificates
+
+**Key growth areas:**
 
 - Stable
 - Niche
@@ -63,65 +99,67 @@ Operate and tend bridges, canal locks, and lighthouses to permit marine passage 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 适用于临时非农业工人，但该职业通常不通过H-1B担保，H-2B可能适用于季节性需求 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 理论上可通过EB-3申请绿卡，但需要雇主担保且证明劳工短缺，实际非常罕见 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applies to temporary non-agricultural workers, but this occupation is not typically sponsored under H-1B; H-2B may apply for seasonal needs |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Theoretically possible via EB-3 green card, but requires employer sponsorship and proof of labor shortage; very rare in practice. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bridge and Lock Tenders？**
-- 喜欢户外工作且不介意单调重复任务的人
-- 对航海或水利设施有兴趣的人
-- 居住在内陆水道或沿海地区的人
+**Who is suited**
+- People who enjoy outdoor work and don't mind repetitive tasks
+- Those interested in navigation or water conservancy facilities
+- People living near inland waterways or coastal areas
 
-**谁不适合学Bridge and Lock Tenders？**
-- 寻求高薪或快速晋升的人
-- 希望在城市办公室工作的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Those who prefer working in city offices
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a bridge operator?**
+A: Salary is below average: entry-level approximately USD 35,000-45,000, senior managers can reach USD 65,000.
+
+**Q: Can foreigners immigrate to the US through this occupation?**
+A: Very difficult. This occupation rarely offers H-1B or green card sponsorship; typically limited to U.S. citizens or permanent residents.
+
+**Q: What qualifications are needed to become a bridge operator?**
+A: Usually only requires a high school diploma, employers provide on-the-job training, no university degree needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Bridge and Lock Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for bridge and lock tenders?**
-答：Entry-level salaries range from $35,000 to $45,000; senior supervisors can earn up to $65,000.
-
-**问：Can foreigners immigrate to the US through this occupation?**
-答：Very difficult. This occupation rarely offers H-1B or green card sponsorship; typically limited to US citizens or permanent residents.
-
-**问：What education is required to become a bridge and lock tender?**
-答：Typically only a high school diploma; employers provide on-the-job training. No college degree required.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

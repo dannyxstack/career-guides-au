@@ -1,59 +1,89 @@
-# Helpers--Production Workers（Helpers--Production Workers）职业分析 · 美国
+# Helpers--Production Workers — career analysis · United States
 
-**职业代码：51-9198 – Helpers--Production Workers。**
+**Occupation code: 51-9198 (SOC)**
 
-Help production workers by performing duties requiring less skill, such as supplying materials, cleaning work area and equipment.
+Assist production workers with low-skill tasks such as supplying materials and cleaning work areas and equipment. Apprentice workers are classified under corresponding production occupations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立学校免费） |
-| 短期在职培训 | 1个月 | —（雇主提供培训） |
+| High school diploma or equivalent | 12 years | $0~$0 (Free public schools.) |
+| Short-term on-the-job training | 1 month | $0~$500 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定要求 | 无 | 可选 | 通常无需正式证书 |
+| No specific requirements | None | Optional | Typically no formal certification required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。美国就业前景稳定，制造业自动化程度提高可能影响需求，但基础助手岗位仍有一定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. Stable employment outlook in the US; increased manufacturing automation may affect demand, but basic assistant roles still have some demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 入门级薪资 |
-| 中级（3-6年） | $30,000~$35,000 | 有经验后薪资增加 |
-| 高级（6年以上） | $35,000~$40,000 | 资深助手薪资上限 |
+| Median salary | $39,070 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$30,000 | Entry-level salary |
+| Mid-level (3–6 years) | $30,000~$35,000 | Salary increases with experience |
+| Senior (6+ years) | $35,000~$40,000 | Senior assistant salary cap |
+| average salary | $41,120 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径有限，通常可晋升为生产工人或特定操作工，需积累经验或接受培训。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Production worker assistants face ongoing job reduction due to automated production equipment and AI scheduling systems; entry-level repetitive tasks are replaced by machines, but equipment maintenance and anomaly handling still require demand.
+
+Limited career progression; typically can advance to production worker or specific operator roles, requiring experience or training.
+
+**Tasks most exposed to AI:**
+
+- Uses AI vision systems to automatically count inventory and materials, replacing manual counting
+- Robots automatically handle and sort materials, replacing manual handling
+- AI scheduling systems optimize production line processes, replacing manual task coordination
+- automatic cleaning robots perform workspace cleaning, replacing manual cleaning
+
+**Where AI augments the role:**
+
+- Receive real-time equipment status instructions via AR glasses to improve troubleshooting efficiency
+- Use AI predictive maintenance systems to detect equipment anomalies early, reducing downtime.
+- Use mobile apps to receive task instructions and record work results for improved collaboration efficiency.
+
+**Human moat:**
+
+- Handle sudden emergencies that automated equipment cannot manage (e.g., material jams, unusual equipment noises)
+- Unstructured communication and on-site coordination with human colleagues
+- Flexible adaptability in complex, non-standardized work environments
+
+**Skills to build:**
+
+- Basic industrial robot operation and programming (e.g., collaborative robot teaching)
+- Use of digital production dashboards and MES systems
+- Basic electrical and mechanical repair skills.
+- Data recording and simple analysis (e.g., Excel or tablet applications)
+- Safety awareness and emergency response training
+
+**Key growth areas:**
 
 - Manufacturing
 - Entry-level
@@ -62,61 +92,63 @@ Help production workers by performing duties requiring less skill, such as suppl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 适用于临时性非农业工作，但需雇主担保且名额有限。 |
-| Subclass EB-3（Employment-Based Third Preference） | 理论上可用于绿卡申请，但此类岗位通常不符合要求。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Suitable for temporary non-agricultural work, but requires employer sponsorship and limited quota. |
+| Subclass EB-3 (Employment-Based Third Preference) | Theoretically usable for green card applications, but such positions typically do not meet requirements. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Helpers--Production Workers？**
-- 寻求快速入门工作的体力劳动者
-- 无需高学历且愿意从事基础体力工作的人
+**Who is suited**
+- Manual laborers seeking quick entry-level jobs
+- People without high educational requirements and willing to do basic manual work
 
-**谁不适合学Helpers--Production Workers？**
-- 希望长期职业发展或高收入者
-- 无法承受高强度体力劳动的人
+**Who is not suited**
+- Those seeking long-term career development or high income
+- Those unable to handle high-intensity physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for production worker assistants?**
+A: Annual salary typically between USD 25,000 and 40,000, depending on experience and region.
+
+**Q: Can this type of occupation immigrate to the US via an H-1B visa?**
+A: Generally not, because H-1B requires a specialty occupation, while this occupation has low skill requirements. H-2B temporary worker visa may be considered, but there are limited spots.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Helpers--Production Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Helpers--Production Workers?**
-答：Annual salary typically ranges from $25,000 to $40,000, depending on experience and location.
-
-**问：Can this occupation immigrate to the US via H-1B visa?**
-答：Usually no, as H-1B requires a specialty occupation. H-2B temporary worker visa may be possible but quota-limited.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

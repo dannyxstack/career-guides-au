@@ -1,58 +1,93 @@
-# Respiratory Scientist（Respiratory Scientist）职业分析 · 澳大利亚
+# Respiratory Scientist — career analysis · Australia
 
-**职业代码：234612 – Respiratory Scientist。**
+**Occupation code: 234612 (ANZSCO)**
 
-Respiratory Scientists diagnose and manage respiratory disorders, performing lung function tests, sleep studies, and assisting in patient care. They work in hospitals, clinics, and research settings as essential allied health professionals.
+Respiratory scientists diagnose and treat respiratory diseases by assessing patients' breathing through lung function tests and sleep studies, and collaborate with doctors to develop treatment plans. They work in hospitals, clinics, and research institutions, serving as key technical experts in medical teams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（应用科学/生理学等） | 3年 | $30,000~$50,000（学费因大学而异，国际生更高） |
-| 研究生（呼吸科学硕士） | 2年 | $40,000~$60,000（部分大学要求相关背景） |
+| Bachelor's degree (applied science/physiology etc.) | 3 years | $30,000~$50,000 (Tuition fees vary by university; higher for international students.) |
+| Postgraduate (Master of Respiratory Science) | 2 years | $40,000~$60,000 (Some universities require a relevant background) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 呼吸科学学士或硕士 | 澳大利亚大学 | 必备 | 需通过ANZSCO技能评估 |
-| 注册呼吸科学家 | 澳大利亚呼吸科学协会（ARSC） | 可选 | 仅部分州要求注册 |
+| Bachelor's or Master's degree in Respiratory Science | Australian university | Required | Must pass ANZSCO skills assessment |
+| Registered respiratory scientist | Australian Respiratory Sleep Council (ARSC) | Optional | Registration required only in some states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。澳大利亚呼吸科学家需求持续增长，受慢性呼吸系统疾病（如哮喘、COPD）发病率上升及人口老龄化推动。就业前景良好，尤其在医院和专科诊所。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Demand for respiratory scientists in Australia continues to grow, driven by rising rates of chronic respiratory diseases (e.g., asthma, COPD) and an aging population. Job prospects are good, especially in hospitals and specialist clinics.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 公立医院/私人诊所 |
-| 中级（3-7年） | $80,000~$100,000 | 含专科经验 |
-| 高级（7年以上） | $100,000~$130,000 | 主管或科研职位 |
+| Median salary | $106,912 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Public hospitals/Private clinics |
+| Mid-level (3–7 years) | $80,000~$100,000 | Including associate degree experience |
+| Senior (7+ years) | $100,000~$130,000 | Supervisory or research positions |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业发展路径包括从初级呼吸科学家到高级临床专家、科室主管，或转向科研、教学、设备管理等领域。可进一步深造获得更高资格（如睡眠医学）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
+
+Career progression includes moving from junior respiratory scientist to senior clinical specialist, department head, or transitioning into research, teaching, equipment management, etc. Further study can lead to higher qualifications (e.g., sleep medicine).
+
+**Tasks most exposed to AI:**
+
+- Routine respiratory therapy data recording and report generation
+- Routine monitoring and alarm response for basic respiratory equipment (e.g., oxygen delivery devices)
+- Development of standardized respiratory therapy protocols (based on fixed guidelines)
+- Distribution of some patient education materials and basic Q&A.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient lung function data and optimize personalized treatment plans
+- Use predictive models to identify respiratory deterioration risks early and intervene proactively
+- Use smart ventilators to assist in adjusting parameters and improve ventilation efficiency
+- Managing respiratory status of multiple patients via remote monitoring systems
+- Automatically organize medical records and clinical notes using natural language processing tools
+
+**Human moat:**
+
+- Hand-eye coordination and rapid decision-making in emergency intubation and airway management
+- Comprehensive assessment and care of patients' psychological state and social factors
+- Communication and leadership skills in cross-departmental collaboration
+- Clinical experience and intuition for treating rare or complex respiratory diseases
+- Stable performance and ethical judgment in high-pressure environments like the ICU
+
+**Skills to build:**
+
+- Master AI-assisted clinical decision tools (e.g., machine learning-based respiratory prediction models)
+- Learn advanced pulmonary function test interpretation and non-invasive ventilation techniques
+- Proficient in using Electronic Health Record (EHR) systems and data analysis tools.
+- Develop management skills for telehealth and remote monitoring
+- Strengthen patient communication and health coaching skills
+- Learn basic programming or AI concepts to understand algorithm outputs
+
+**Key growth areas:**
 
 - Chronic Disease Management
 - Aging Population
@@ -61,68 +96,67 @@ Respiratory Scientists diagnose and manage respiratory disorders, performing lun
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 基于MLTSSL列表，可独立申请永久居留 |
-| Subclass 190（Skilled Nominated Visa） | 由州政府担保，需在担保州居住 |
-| Subclass 482（Temporary Skill Shortage Visa） | 由雇主担保，工作后可转186永居 |
+| Subclass 189 (Skilled Independent Visa) | Based on the MLTSSL list, can independently apply for permanent residency. |
+| Subclass 190 (Skilled Nominated Visa) | Sponsored by state government, must reside in the sponsoring state |
+| Subclass 482 (Temporary Skill Shortage Visa) | Sponsored by employer, can transition to 186 permanent residence after work |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Respiratory Scientist？**
-- 对呼吸生理学有浓厚兴趣，注重细节
-- 善于沟通，能准确解释检查结果
-- 希望在医疗领域从事技术性工作
-
-**谁不适合学Respiratory Scientist？**
-- 不喜欢与病人直接接触
-- 对重复性操作缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in respiratory physiology, detail-oriented.
+- Good communication skills to explain test results accurately.
+- Aims to work in technical roles within the medical field.
+
+**Who is not suited**
+- Dislikes direct contact with patients
+- Lacks patience for repetitive tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a respiratory scientist?**
+A: Junior salary around AUD 65,000-80,000, intermediate AUD 80,000-100,000, senior can reach over AUD 130,000, depending on experience and institution.
+
+**Q: Is it easy for respiratory scientists to immigrate to Australia?**
+A: This occupation is on the MLTSSL list, eligible for various visas such as 189/190/482, but requires skills assessment and English proficiency, with moderate competition.
+
+**Q: What qualifications are needed to become a respiratory scientist?**
+A: Typically requires a bachelor's or master's degree in respiratory science; some universities offer postgraduate courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Respiratory Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Respiratory Scientists?**
-答：Entry-level salaries range from AUD 65,000 to 80,000, mid-level 80,000 to 100,000, and senior roles up to 130,000+ depending on experience.
-
-**问：Is it easy to migrate to Australia as a Respiratory Scientist?**
-答：Yes, the occupation is on the MLTSSL, allowing 189/190/482 visas, but requires skills assessment and English proficiency.
-
-**问：What education is required to become a Respiratory Scientist?**
-答：A bachelor's degree in respiratory science or related field, or a master's degree, is typically required.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

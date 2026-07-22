@@ -1,60 +1,96 @@
-# Financial Wealth Management Consultant（Financial Wealth Management Consultant）职业分析 · FR
+# Financial Wealth Management Consultant — career analysis · France
 
-**职业代码：C1205 – Financial Wealth Management Consultant。**
+**Occupation code: C1205 (ROME)**
 
-Provides comprehensive financial planning and investment advice, including asset allocation, tax optimization, retirement, and estate planning, to help clients preserve and grow wealth.
+Clients are provided with comprehensive financial planning and investment advice, covering asset allocation, tax optimization, retirement planning, and estate planning, helping clients achieve wealth preservation and growth.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士（Licence） | 3年 | $1,000~$5,000（公立大学学费约2000欧元/年，私立商学院可达10000欧元/年） |
-| 硕士（Master） | 2年 | $3,000~$15,000（公立大学学费约3000欧元/年，高商硕士约15000欧元/年） |
+| Licence | 3 years | $1,000~$5,000 (Public university tuition is about 2,000 euros per year, while private business schools can charge up to 10,000 euros per year) |
+| Master's Degree (Master) | 2 years | $3,000~$15,000 (Public university tuition is about 3,000 euros per year, while a master's degree in higher business is about 15,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融分析师（CFA） | CFA Institute | 可选 | 国际认证，非强制但提升竞争力 |
-| 金融顾问认证（CIF） | Autorité des Marchés Financiers (AMF) | 必备 | 法国监管机构要求提供独立财务咨询者持有 |
+| Certified Financial Advisor (CIF) | Autorité des Marchés Financiers (AMF) | Required | French regulators require independent financial advisors to be held |
+| Financial Analyst (CFA) | CFA Institute | Optional | International certification, not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★½☆）。** 全国从业人数约 45,000。法国人口老龄化及财富积累需求持续推动财富管理行业发展。预计未来五年该职业需求稳定增长，尤其在高净值客户领域。金融科技发展催生新服务模式，但传统面对面咨询仍受青睐。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. France's aging population and the need for wealth accumulation continue to drive the development of the wealth management industry. Demand for this profession is expected to grow steadily over the next five years, especially in the high-net-worth client sector. Fintech has given rise to new service models, but traditional face-to-face consultations remain favored.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $50,000~$70,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $80,000~$120,000 | 税前年薪，含业绩提成 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $50,000~$70,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $80,000~$120,000 | Pre-tax annual salary, including performance commission |
+| average salary | $79,569 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 晋升路径：初级顾问→高级顾问→团队主管→部门总监或独立开设咨询事务所。也可转向私人银行、家族办公室或资产管理公司。持续学习CFA、CIF等认证有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of financial wealth management advisors is mixed with AI: tasks such as data collection, standard report generation, and compliance checks will be automated, but aspects that rely on human judgment—such as client relationships, complex financial planning, and behavioral guidance—will be enhanced by AI tools.
+
+Promotion paths: junior consultant→ senior consultant→ team leader→ department director, or independently opening a consulting firm. You can also turn to private banks, family offices, or asset management companies. Continuous learning for certifications like CFA and CIF can help with promotion.
+
+**Tasks most exposed to AI:**
+
+- Collect customer financial data and generate standard financial reports
+- Underlying portfolio performance attribution and risk indicator calculation
+- Automatically generate compliance checklists and pre-filled regulatory forms
+- Use chatbots to answer common financial inquiries from customers
+- Use AI for preliminary tax optimization calculations and pension forecasting
+
+**Where AI augments the role:**
+
+- Leverage AI to analyze customer behavior data and accurately identify potential wealth planning needs
+- By simulating investment strategies under different market scenarios through AI, clients optimize their asset allocation
+- Use natural language processing to automatically extract key points of regulatory updates and quickly provide compliance recommendations
+- Use AI tools to create personalized dynamic financial dashboards and enhance customer interaction experiences
+- Utilize machine learning models to predict customer lifecycle events and proactively provide planning recommendations
+
+**Human moat:**
+
+- Build deep trust relationships and address clients' irrational emotions and behavioral biases
+- Family dynamic coordination and psychological counseling in cross-generational wealth inheritance planning
+- Cases requiring human judgment, such as complex tax disputes and estate disputes
+- Customized structural designs for ultra-high-net-worth clients (such as family offices)
+- Professional ethics judgment and responsibility attribution in regulatory compliance
+
+**Skills to build:**
+
+- Use and optimization of AI financial analysis tools (such as Kavout, Aladdin).
+- Data visualization and interactive report design (Tableau, Power BI)
+- Behavioral finance and client psychology coaching skills
+- Advanced Tax and Estate Planning Certificates (such as CFP, TEP)
+- Cybersecurity and customer data privacy management
+- AI-based automated workflow construction (such as Zapier Financial)
+
+**Key growth areas:**
 
 - wealth management
 - retirement planning
@@ -63,65 +99,67 @@ Provides comprehensive financial planning and investment advice, including asset
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需提供年薪至少约4.5万欧元的合同，有效期4年，可续签。 |
-| Subclass Salarié（Work Permit (Salarié)） | 普通工作许可，需雇主担保，薪资符合行业标准，有效期1年，可续签。 |
+| Subclass Passeport Talent (Talent Passport) | Applies to highly skilled talent, requires a contract with annual salary of at least approx. €45,000, valid for 4 years, renewable. |
+| Subclass Salarié (Work Permit (Salarié)) | Ordinary work permit requires employer sponsorship, salary meets industry standards, valid for 1 year, renewable with the right to apply. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Financial Wealth Management Consultant？**
-- 对金融市场有浓厚兴趣，具备分析能力与客户沟通技巧者
-- 希望从事高端服务行业，追求稳定职业发展者
-- 已具备金融、经济或会计背景的求职者
+**Who is suited**
+- Strong interest in financial markets and analytical skills with client communication skills
+- Those who hope to work in high-end service industries and pursue stable career development
+- Candidates with a background in finance, economics, or accounting
 
-**谁不适合学Financial Wealth Management Consultant？**
-- 厌恶销售性质工作或不愿承担业绩压力者
-- 不善于长期学习、跟进法规变化者
+**Who is not suited**
+- Those who dislike sales-related work or are unwilling to bear performance pressure
+- Those who are not good at long-term learning or keeping up with regulatory changes
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for financial wealth management advisors?**
+A: Entry-level consultant annual salary is around €35,000 to 45,000, mid-level €50,000 to 70,000, senior €80,000 to 120,000, with performance bonuses significantly increasing income.
+
+**Q: Can non-EU citizens immigrate to France to work in this profession?**
+A: This occupation requires high French language requirements and requires AMF certification (CIF), making it difficult for non-EU applicants to obtain work visas. It is recommended to first enter through the Study Abroad or Talent Passport pathway to accumulate local resources.
+
+**Q: What are the career prospects for this occupation?**
+A: You can be promoted to senior consultant, team leader, or department director, or you can transition to private banking or start your own business. Fintech brings new opportunities, but traditional consulting demand remains solid.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Financial Wealth Management Consultant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a financial wealth management consultant?**
-答：Junior consultants earn €35,000-€45,000, mid-level €50,000-€70,000, and senior €80,000-€120,000, with bonuses based on performance.
-
-**问：Can non-EU citizens immigrate to France for this profession?**
-答：The profession requires high French proficiency and AMF certification (CIF). Non-EU applicants may find it challenging; studying in France or obtaining a Talent Passport is recommended.
-
-**问：What are the career prospects?**
-答：Promotion to senior consultant, team leader, or director; opportunities in private banking or entrepreneurship. Fintech creates new roles, but traditional advisory remains essential.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

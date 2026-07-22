@@ -1,59 +1,95 @@
-# Counsellors（Counsellors）职业分析 · UK
+# Counsellors — career analysis · United Kingdom
 
-**职业代码：3224 – Counsellors。**
+**Occupation code: 3224 (SOC)**
 
-Counsellors provide professional talking therapy to help clients address emotional, behavioral, or mental health issues, fostering personal growth and self-awareness.
+Psychologists use professional conversational techniques to help clients address emotional, behavioural, or mental health issues, promoting personal growth and self-awareness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$18,000（国际学生学费更高，约15000-28000英镑/年） |
-| 硕士 | 1-2年 | $10,000~$20,000（部分课程需相关背景） |
+| Bachelor's degree | 3 years | $9,250~$18,000 (International students pay higher tuition, around £15,000-28,000 per year) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Some courses require relevant background) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理咨询文凭/学位 | 大学或认证培训机构 | 可选 | 需BACP或UKCP认可 |
-| BACP认证 | British Association for Counselling and Psychotherapy | 必备 | 注册会员证明专业水平 |
-| DBS无犯罪记录检查 | Disclosure and Barring Service | 必备 | 与弱势群体工作需 |
+| BACP certification | British Association for Counselling and Psychotherapy | Required | Registered membership demonstrates professional level |
+| DBS criminal record check | Disclosure and Barring Service | Required | Required when working with vulnerable groups |
+| Counselling diploma/degree | University or accredited training provider | Optional | Requires BACP or UKCP accreditation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 53,000。英国对心理健康服务的需求持续增长，NHS和社区机构招聘增加，但资金限制可能影响岗位数量。
+**Job demand: high (★★★★☆).** National workforce approx. 53,000. Demand for mental health services in the UK continues to grow, with increased recruitment by the NHS and community organizations, but funding constraints may affect the number of positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | NHS Band 5或慈善机构 |
-| 中级（3-7年） | $30,000~$42,000 | NHS Band 6或经验丰富者 |
-| 高级（7年以上） | $42,000~$55,000 | 高级/主管或独立执业 |
+| Median salary | $31,124 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | NHS Band 5 or charitable organisations |
+| Mid-level (3–7 years) | $30,000~$42,000 | NHS Band 6 or experienced |
+| Senior (7+ years) | $42,000~$55,000 | Senior/Supervisor or independent practice |
+| average salary | $34,348 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级咨询师可通过积累临床时数和专业培训晋升为高级咨询师、团队主管或独立执业者，也可专攻特定领域如认知行为疗法。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of psychologists (empathy, building trust, in-depth diagnosis) are difficult to replace by AI, but AI will take over some information collection, preliminary assessment, and paperwork, while enhancing clinical reasoning, intervention design, and outcome tracking. Entry-level positions face increased competition due to widespread AI tools, but senior positions see increased value.
+
+Junior counselors can advance to senior counselors, team supervisors, or independent practitioners by accumulating clinical hours and professional training, or specialize in areas such as cognitive behavioral therapy.
+
+**Tasks most exposed to AI:**
+
+- Initial mental health screening and distribution of standardized questionnaires
+- Client appointment management, file recording and insurance form completion
+- Automated diagnostic suggestion generation based on symptom data (as an aid)
+- Push standardised self-help intervention plans for common emotional issues
+- Consultation Effect Tracking Data Summary and Report Generation
+
+**Where AI augments the role:**
+
+- Use AI to analyse customer voice/text sentiment patterns to assist diagnosis
+- Consulting skills training and supervision through AI-simulated role-playing
+- Quickly retrieve best practice cases and intervention techniques with NLP tools
+- Use AI to provide real-time feedback on non-verbal cues (such as expressions and tone) in counseling conversations.
+- Predict customer crisis risks based on big data and take preventive measures in advance
+
+**Human moat:**
+
+- Ability to Build Deep Trust and Emotional Connection
+- Handle complex, ambiguous, and non-standardized human conflicts and trauma
+- Ethical judgment and boundary management under multicultural and multi-value backgrounds
+- Improvise interventions based on body awareness, intuition and experience.
+- Human responsibility and legal accountability in crisis intervention (e.g., suicidal tendencies)
+
+**Skills to build:**
+
+- Basic machine learning and data analysis (interpreting AI-generated assessment reports)
+- Digital mental health platform operation and integration
+- Remote consulting and online community management skills
+- AI Ethics and Data Privacy Regulations
+- Cross-cultural consulting skills (adapting to global clients)
+- Communication and supervision skills in human-machine collaboration
+
+**Key growth areas:**
 
 - Mental health awareness
 - Increased NHS funding
@@ -62,65 +98,64 @@ Counsellors provide professional talking therapy to help clients address emotion
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 可在雇主担保下工作，需满足薪资门槛（通常不低于£26,200/年） |
-| Subclass Health & Care（Health and Care Worker visa） | 适用于NHS或社会护理机构，签证费较低，可带家属 |
-| Subclass Graduate（Graduate visa） | 毕业后可在英国工作两年，积累经验后转为技术工人签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | Can work under employer sponsorship, must meet salary threshold (usually at least £26,200/year) |
+| Subclass Health & Care (Health and Care Worker visa) | Applicable to NHS or social care institutions, lower visa fees, can bring dependents |
+| Subclass Graduate (Graduate visa) | You can work in the UK for two years after graduation, then switch to a Skilled Worker visa after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Counsellors？**
-- 善于倾听且富有同理心的人
-- 喜欢帮助他人解决心理问题的人
-- 能承受情绪压力并保持专业边界的人
-
-**谁不适合学Counsellors？**
-- 不愿接受长期专业培训的人
-- 难以处理强烈负面情绪的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good listeners and empathetic
+- Enjoys helping others with psychological issues
+- People who can handle emotional stress and maintain professional boundaries.
+
+**Who is not suited**
+- Person unwilling to undergo long-term professional training
+- People who have difficulty dealing with strong negative emotions.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a psychologist?**
+A: Junior approx. GBP 22,000–30,000; mid GB 30,000–42,000; senior GB 42,000–55,000. Self-employed income varies significantly.
+
+**Q: Can counsellors apply for a UK work visa?**
+A: Yes, meets Skilled Worker or Health and Care Worker visa requirements, but requires employer sponsorship and meeting the salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Counsellors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for counsellors?**
-答：Entry-level: £22,000-£30,000; mid-level: £30,000-£42,000; senior: £42,000-£55,000. Self-employed income varies.
-
-**问：Can counsellors apply for a UK work visa?**
-答：Yes, eligible for Skilled Worker or Health and Care Worker visa, requiring employer sponsorship and meeting salary thresholds.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

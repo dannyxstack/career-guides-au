@@ -1,58 +1,93 @@
-# Mathematicians, Actuaries and Statisticians（Mathematicians, Actuaries and Statisticians）职业分析 · NL
+# Mathematicians, Actuaries and Statisticians — career analysis · Netherlands
 
-**职业代码：2120 – Mathematicians, Actuaries and Statisticians。**
+**Occupation code: 2120 (ISCO08)**
 
-In the Netherlands, these professionals apply mathematical and statistical methods to analyze data in finance, insurance, government, and research, supporting decision-making and risk assessment.
+In the Netherlands, this group applies mathematical and statistical methods to analyse data in finance, insurance, government, and research, supporting decision-making and risk assessment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $2,000~$12,000（公立大学学费，欧盟学生低，非欧盟高） |
-| 硕士 | 1-2年（硕士） | $2,000~$20,000（研究型大学学费，视院校与国籍） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $2,000~$12,000 (Public university tuition fees: low for EU students, high for non-EU students) |
+| Master's degree | 1-2 years (Master's) | $2,000~$20,000 (Research university tuition, varies by institution and nationality) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算师资格 | 荷兰精算协会 (Actuarieel Instituut) | 可选 | 需通过系列考试及工作经验，非强制但就业必备 |
-| 统计学硕士学位 | 荷兰大学 | 可选 | 通常要求硕士学历，尤其是研究型职位 |
+| Actuarial Qualification | Actuarieel Instituut | Optional | Requires a series of exams and work experience; not mandatory but essential for employment |
+| Master's degree in Statistics | Netherlands universities | Optional | Usually requires a master's degree, especially for research-oriented positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。荷兰对数据分析与风险管理人才需求持续增长，尤其是在保险、银行及科技领域。预计未来五年职位增长约5-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Demand for data analysis and risk management professionals in the Netherlands continues to grow, especially in insurance, banking, and tech sectors. Job growth of about 5-10% is expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含假期津贴 |
-| 中级（4-7年） | $50,000~$70,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $75,000~$100,000 | 税前年薪，含奖金与管理津贴 |
+| Median salary | $67,382 | Median salary (official: CBS median hourly wage €34.1/hour × 1976h annualized, BRC group 0412 Financial specialists and economists; P25–P75 €50,783–€91,489, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (4-7 years) | $50,000~$70,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $75,000~$100,000 | Gross annual salary, including bonuses and management allowances |
+| average salary | $62,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级分析师可晋升为高级统计师或精算经理，进一步可任首席数据科学家或风险总监。精算师需通过荷兰精算协会考试。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
+
+Junior analysts can progress to senior statisticians or actuarial managers, and further to chief data scientists or risk directors. Actuaries must pass exams from the Dutch Actuarial Association.
+
+**Tasks most exposed to AI:**
+
+- Manual data cleaning and preprocessing, e.g., extracting and standardizing insurance data from legacy systems
+- Generating first drafts of standard actuarial reports and regulatory filings
+- Recurring rate calculations and simple reserve assessments
+- Maintain and run parametric tasks for traditional actuarial models
+
+**Where AI augments the role:**
+
+- Leveraging AI simulations and machine learning models for more precise risk modeling and forecasting
+- Automated sensitivity analysis and scenario testing to quickly assess multivariate impacts
+- Analyzing claims text and contract clauses via natural language processing to improve risk assessment
+- Dynamic pricing models: AI updates pricing strategies in real time, actuaries set rules and boundaries
+- Client and regulatory communication: AI generates visual dashboards; actuary interprets and provides advice
+
+**Human moat:**
+
+- Deep industry knowledge and regulatory compliance understanding of financial products such as insurance and superannuation
+- Professional judgment and ethical decision-making in complex, non-linear risk situations
+- Ability to communicate strategically and explain results to senior management and regulators
+- Creativity and business insight needed when designing innovative insurance products
+- Holistic thinking for interdisciplinary integration (e.g., climate risk, longevity risk)
+
+**Skills to build:**
+
+- Python or R programming for building and deploying AI models
+- Machine learning and statistical modeling (e.g., gradient boosting, neural networks)
+- AI governance and explainability (XAI), ensuring models are compliant and interpretable
+- Data engineering basics (SQL, ETL, cloud platforms like AWS/Azure)
+- Communication and visualization (Tableau/Power BI) and business report writing.
+- Knowledge of actuarial software (e.g., Prophet, AXIS) integration with AI
+
+**Key growth areas:**
 
 - Big Data
 - Risk Modeling
@@ -61,65 +96,64 @@ In the Netherlands, these professionals apply mathematical and statistical metho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需雇主担保且薪资达标（2024年€5,334/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历非欧盟人士，需工作合同及薪资门槛（2024年约€5,668/月）。 |
-| Subclass Orientation Year（Orientation Year） | 适用于荷兰毕业的硕士/博士，允许一年内找工，无需工作担保。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, requires employer sponsorship and meeting minimum salary threshold (2024: €5,334/month). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated non-EU individuals, requires a work contract and salary threshold (approx. €5,668/month in 2024). |
+| Subclass Orientation Year (Orientation Year) | Applicable to master's/PhD graduates in the Netherlands, allowing one year to find a job without a work sponsor. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mathematicians, Actuaries and Statisticians？**
-- 擅长数学与统计分析的逻辑型人才
-- 对保险、金融或大数据行业感兴趣
-- 愿意考取专业资格并持续学习
-
-**谁不适合学Mathematicians, Actuaries and Statisticians？**
-- 不喜欢处理大量数据和复杂模型
-- 抗拒压力与严格的工作期限
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- logical talent skilled in mathematics and statistical analysis
+- Interested in the insurance, finance, or big data industry
+- Willing to obtain professional qualifications and engage in continuous learning.
+
+**Who is not suited**
+- Dislikes handling large amounts of data and complex models
+- Ability to handle stress and strict deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of actuaries in the Netherlands?**
+A: Junior approx. €35k-45k, mid-level €50k-70k, senior €75k-100k, all gross annual salary.
+
+**Q: How can non-EU individuals immigrate to the Netherlands to work in statistics?**
+A: Eligible via skilled migration (employer-sponsored) or EU Blue Card, as well as a search year visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Mathematicians, Actuaries and Statisticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for actuaries in the Netherlands?**
-答：Entry-level around €35k-45k, mid-level €50k-70k, senior €75k-100k, all pre-tax annual.
-
-**问：How can non-EU nationals immigrate to the Netherlands for a statistics job?**
-答：Via Highly Skilled Migrant (employer sponsorship) or EU Blue Card, or using the Orientation Year visa.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

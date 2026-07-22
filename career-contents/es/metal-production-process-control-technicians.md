@@ -1,58 +1,94 @@
-# Metal Production Process Control Technicians（Metal Production Process Control Technicians）职业分析 · ES
+# Metal Production Process Control Technicians — career analysis · Spain
 
-**职业代码：3135 – Metal Production Process Control Technicians。**
+**Occupation code: 3135 (CNO)**
 
-Metal production process control technicians monitor and optimize metal smelting, casting, and rolling processes, adjusting parameters such as temperature, pressure, and chemical composition to ensure product quality and production efficiency.
+Metal production process control technicians are responsible for monitoring and optimizing metal smelting, casting, and rolling processes to ensure product quality and production efficiency, involving adjustments to parameters such as temperature, pressure, and chemical composition.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | —（公立FP免学费，仅注册费和材料费） |
-| 工程学士（Grado en Ingeniería） | 4年（Grado） | $1,000~$6,000（公立大学学费，视地区而定） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $0~$2,000 (Public FPs are free of tuition, only registration and material fees) |
+| Bachelor of Engineering (Grado en Ingeniería) | 4 years (Grado) | $1,000~$6,000 (Tuition fees at public universities vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属制造相关FP高级学位 | 教育部认可的FP中心 | 必备 | 常见专业：Técnico Superior en Fabricación Mecánica |
-| 职业证书（Certificado de Profesionalidad） | SEPE或培训中心 | 可选 | 如金属加工专业证书，非强制但有助于就业 |
+| Advanced FP degree related to metal manufacturing | FP centers recognized by the Ministry of Education | Required | Common specialty: Técnico Superior en Fabricación Mecánica |
+| Professional Certificate (Certificado de Profesionalidad) | SEPE or training centers | Optional | For example, a metalworking professional certificate is not mandatory but helps with employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。西班牙金属工业主要集中在巴斯克、阿斯图里亚斯和加泰罗尼亚等地区，受绿色转型和数字化影响，对掌握自动化控制技术的专业人员需求稳定。但整体就业增长缓慢，新岗位数量有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Spain's metal industry is mainly concentrated in regions such as the Basque Country, Asturias, and Catalonia. Driven by green transformation and digitalization, there is a stable demand for professionals skilled in automation control technology. However, overall employment growth is slow, and the number of new positions is limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（8年以上） | $35,000~$45,000 | 税前年薪，含主管岗位 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (8+ years) | $35,000~$45,000 | Annual salary before tax, including supervisor positions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 可从初级操作员晋升为高级技术员或生产主管，进一步可转向质量控制或工艺工程师岗位。需持续学习新技术，如工业4.0和数据分析技能，以提升竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+This profession is heavily influenced by AI automation, with control and monitoring tasks easily replaced, but complex fault diagnosis and process optimization still rely on human experience, resulting in mixed outcomes.
+
+Operators can be promoted from junior operators to senior technicians or production supervisors, and further transition to quality control or process engineer roles. Continuous learning of new technologies, such as Industry 4.0 and data analysis skills, is necessary to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of temperature, pressure, and other parameters and performing standard adjustments
+- Record production data and generate routine reports
+- Perform alarm response and reset operations according to preset rules
+- Perform repeated sample collection and rapid testing
+- Simple operation with PID circuit adjustment
+
+**Where AI augments the role:**
+
+- AI predictive models are used to optimize smelting parameters to reduce energy consumption
+- Simulating process change effects through digital twin systems
+- Using computer vision to detect surface defects in ingot castings
+- Rapid retrieval operation guidelines using natural language processing
+- Optimizing rolling rhythm based on historical data to increase output
+
+**Human moat:**
+
+- Handling abnormal multivariate coupled conditions (such as broken steel or leaking steel)
+- Comprehensively identify the root causes of product quality issues (such as inclusions and cracks)
+- On-site coordination with the repair team for emergency repairs
+- Process parameters are fine-tuned based on experience to accommodate changes in raw materials
+- Safety supervision and implementation of emergency plans
+
+**Skills to build:**
+
+- Industrial data analysis and statistical process control
+- Python or scripting basics are used to automate script writing
+- The application foundation of AI/machine learning in process control
+- Digital twin and simulation software operation
+- Advanced fault diagnosis and root cause analysis
+- Industrial IoT and sensor technology
+
+**Key growth areas:**
 
 - Industry 4.0
 - Automation
@@ -61,64 +97,63 @@ Metal production process control technicians monitor and optimize metal smelting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适合具有高等教育学历且年薪达门槛（约33,908欧元）的技术人员。 |
-| Subclass Cuenta ajena（Work permit (employed)） | 受雇工作居留，需雇主担保，适用于持有工作合同的技术人员。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for technical personnel with higher education degrees and an annual salary threshold (about 33,908 euros). |
+| Subclass Cuenta ajena (Work permit (employed)) | Employed work residence requires employer sponsorship and is suitable for technical personnel holding employment contracts. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Production Process Control Technicians？**
-- 对金属制造和自动化控制有浓厚兴趣
-- 喜欢动手操作和问题解决
-- 适应工厂环境和轮班工作
-
-**谁不适合学Metal Production Process Control Technicians？**
-- 对高温、噪音环境敏感
-- 不愿学习新技术和数字化工具
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in metal manufacturing and automation control
+- Enjoys hands-on operations and problem-solving
+- Adapt to factory environments and shift work
+
+**Who is not suited**
+- Sensitive to high temperatures and noisy environments
+- Unwillingness to learn new technologies and digital tools
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for metal production process control technicians?**
+A: Junior technicians earn about 22,000-28,000 euros annually, intermediate technicians 28,000-35,000 euros, and senior technicians up to 35,000-45,000 euros, depending on region and experience.
+
+**Q: How can third-country citizens immigrate to Spain to work in this profession?**
+A: Can apply via the EU Blue Card (requires higher education and meeting salary threshold) or a Skilled Employment Residence Permit (requires employer sponsorship). This occupation is not in demand, but large metal companies may offer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Metal Production Process Control Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for metal production process control technicians?**
-答：Entry-level technicians earn around €22,000-28,000 annually, mid-level €28,000-35,000, and senior up to €35,000-45,000, depending on region and experience.
-
-**问：How can third-country nationals immigrate to Spain for this occupation?**
-答：They can apply via the EU Blue Card (requiring higher education and minimum salary) or an employed work permit (employer sponsorship). The occupation is not on the shortage list, but large metal companies may sponsor.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,129 +1,161 @@
-# 户外探险教练（Outdoor Adventure Instructor）职业分析 · 澳大利亚
+# Outdoor Adventure Instructor — career analysis · Australia
 
-**职业代码：452413 – Outdoor Adventure Instructor。**
+**Occupation code: 452413 (ANZSCO)**
 
-户外探险教练带领并指导滑翔伞、攀岩、皮划艇、漂流、丛林徒步等户外活动，负责技能教学与安全管理。需持专项资质与急救证书，岗位多为季节性/合同制，与旅游和户外教育市场强相关。
+Outdoor adventure instructors lead and guide activities such as paragliding, rock climbing, kayaking, rafting, and bushwalking, responsible for skills teaching and safety management. Require specific qualifications and first aid certification, mostly seasonal/contract-based, strongly linked to tourism and outdoor education markets.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 专项户外资质（如 APA 滑翔伞、攀岩/绳索、皮划艇等） | 数周~数年（逐项） | $1,000~$10,000（各专项协会的教练/向导认证） |
-| 野外急救（Wilderness First Aid）+ WWCC | 数天 | $300~$1,000（户外安全与带未成年人的法定要求） |
+| Specialized outdoor qualifications (e.g., APA paragliding, climbing/rope, kayaking, etc.) | Weeks to years (itemized) | $1,000~$10,000 (Coach/guide certifications from various sport associations) |
+| Wilderness First Aid + WWCC | A few days | $300~$1,000 (Outdoor safety and legal requirements for supervising minors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专项户外教练/向导认证 | 各专项协会（如 APA、PADI 等） | 必备 | 合法带队与保险要求 |
-| 野外急救 + WWCC | 认可机构 / 各州 | 必备 | 安全与带未成年人的法定要求 |
+| Specialist outdoor instructor/guide certification | Specialized associations (e.g., APA, PADI, etc.) | Required | Legal requirements for leading groups and insurance |
+| Wilderness First Aid + WWCC | Accredited bodies / by state | Required | Safety and legal requirements for working with minors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 —。户外旅游与体验式教育需求增长，专项（滑翔伞/攀岩/水上）合格教练较稀缺；多为季节性与合同岗位，安全责任要求高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,000. Growing demand for outdoor tourism and experiential education; qualified instructors in specialties (paragliding/climbing/water sports) are scarce; mostly seasonal and contract roles with high safety responsibility.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 季节性/初级教练 | $45,000~$58,000 | 季节性，按项目计酬 |
-| 全职户外教练 | $55,000~$72,000 | 稳定带队+多专项 |
-| 资深/自营运营者 | $72,000~$120,000 | 自营探险旅游/培训公司 |
+| Median salary | $63,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Seasonal/junior coach | $45,000~$58,000 | Seasonal, paid per project |
+| Full-time Outdoor Instructor | $55,000~$72,000 | Stable team leading + multiple specialities |
+| Senior/self-employed operator | $72,000~$120,000 | Self-run adventure tourism/training company |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★☆☆）。** 体验式与冒险旅游增长；专项资质与安全记录是核心竞争力。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on outdoor adventure instructors is mixed: automation can handle back-office tasks like route planning, risk assessment, and teaching material creation, but core on-site guidance, emotional motivation, and emergency response cannot be replaced. Entry-level roles may become more accessible due to AI tools, but safety responsibilities and professional certification keep the barrier to entry relatively high.
 
-- 滑翔伞/跳伞
-- 攀岩/绳索
-- 皮划艇/漂流
-- 丛林徒步与营地教育
+Experiential and adventure tourism growth; specialist qualifications and safety record are core competitive advantages.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate activity routes and risk assessment reports
+- Create instructional videos and illustrated tutorials.
+- Monitor equipment status via AI and predict failures
+- Automatically organize client health declarations and liability waivers
+- Basic technical Q&A (e.g., equipment selection)
+
+**Where AI augments the role:**
+
+- Using AI-assisted simulators for virtual practice and skill training
+- Using AI to analyse student movement data and provide personalised feedback
+- Using AI real-time translation services to communicate with multilingual clients
+- Using natural language processing tools to quickly find latest safety regulations
+- Using AI Wearable Devices to Monitor Students' Physiological Indicators to Prevent Accidents
+
+**Human moat:**
+
+- Real-Time Judgment and Emotional Engagement in On-Site Teaching
+- Emergency decision-making and rescue skills in high-risk environments
+- Intuition based on experience and understanding of student psychology
+- Obtain accredited specialist skills (e.g., rock climbing, kayaking)
+- Build trust relationships with clients and team cohesion
+
+**Skills to build:**
+
+- Advanced first aid and wilderness medicine certificates (e.g., WFR)
+- AI-assisted Teaching Tools (e.g. Virtual Reality Systems)
+- Data analysis basics (for tracking student performance)
+- Digital Content Production (Drone Aerial Photography, Editing)
+- Multilingual communication and cross-cultural understanding
+- Knowledge of sustainable tourism and environmental ethics
+
+**Key growth areas:**
+
+- Paragliding/Skydiving
+- Rock Climbing/Ropes
+- Kayaking/Rafting
+- Bushwalking & Camp Education
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学户外探险教练？**
-- 热爱户外并具备专项技能与安全意识
-- 可接受季节性/合同制与户外作息
-- 愿意考取多项专项与急救资质
-
-**谁不适合学户外探险教练？**
-- 偏好室内稳定坐班
-- 以移民为主要目标
-- 难以承担户外安全责任与体力强度
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loving the Outdoors and Possessing Specialised Skills and Safety Awareness
+- Accepts seasonal/contract work and outdoor schedule
+- Willing to obtain multiple specialist and first aid qualifications
+
+**Who is not suited**
+- Prefer stable indoor desk job
+- Primarily targeting immigration
+- Difficulty taking on outdoor safety responsibility and physical intensity
+
+---
+
+## 8. FAQ
+
+**Q: How much do outdoor adventure instructors earn in Australia?**
+A: Seasonal/entry-level approximately $45k~$58k; full-time approximately $55k~$72k; senior/self-employed adventure operator approximately $72k~$120k.
+
+**Q: What qualifications do you need to become an outdoor adventure instructor?**
+A: Must obtain relevant association instructor/guide certification (paragliding, rock climbing, kayaking, etc.) and hold a wilderness first aid certificate; WWCC required for teaching minors. Safety record and insurance are key to practice.
+
+**Q: Can outdoor adventure instructors apply for skilled migration?**
+A: Direct skilled migration not possible. Outdoor Adventure Instructor (452413) is not on the CSOL or GSM skilled occupation lists.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | 户外/旅游教练职业概况 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中高（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-户外探险教练属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲户外探险教练收入多少？**
-答：季节性/初级约 $45k~$58k；全职约 $55k~$72k；资深/自营探险运营者约 $72k~$120k。
-
-**问：当户外探险教练需要什么资质？**
-答：需取得相应专项（滑翔伞、攀岩、皮划艇等）的协会教练/向导认证，并持野外急救证书；带未成年人需 WWCC。安全记录与保险是执业关键。
-
-**问：户外探险教练能技术移民吗？**
-答：不能直接技术移民。Outdoor Adventure Instructor (452413) 不在 CSOL 或 GSM 技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

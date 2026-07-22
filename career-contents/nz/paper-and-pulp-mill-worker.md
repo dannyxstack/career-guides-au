@@ -1,59 +1,93 @@
-# Paper and Pulp Mill Worker（Paper and Pulp Mill Worker）职业分析 · 新西兰
+# Paper and Pulp Mill Worker — career analysis · New Zealand
 
-**职业代码：839411 – Paper and Pulp Mill Worker。**
+**Occupation code: 839411 (ANZSCO)**
 
-Operate machinery, monitor production, handle raw materials and finished products, and perform maintenance and quality control in paper and pulp mills. This occupation is eligible for migration via the Accredited Employer Work Visa (AEWV) in New Zealand, but is not on the Green List or skill shortage lists; skilled migration requires alternative pathways.
+Operate machines, monitor production processes, handle raw materials and finished products, and perform equipment maintenance and quality inspection in a paper or pulp mill. This occupation in New Zealand can be sponsored under the Accredited Employer Work Visa (AEWV) but is not on the Green List or skill shortage list; skilled migration requires other pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业证书 | 3年 | —（新西兰高中教育免费（公立学校），国际生每年约1.5万NZD。） |
-| 新西兰证书（4级） | 6个月 | $5,000~$10,000（例如造纸操作技能证书，由理工学院提供。） |
+| High school graduation certificate | 3 years | $0~$0 (Secondary education in New Zealand is free at public schools; international students pay approx. NZD 15,000/yr.) |
+| New Zealand Certificate (Level 4) | 6 months. | $5,000~$10,000 (For example, papermaking operation skills certificate, provided by polytechnic institutes.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家证书（纸浆和造纸制造） | 新西兰资格认证局（NZQA） | 可选 | 非强制，但有助于就业和晋升。 |
-| 叉车操作许可证 | 新西兰就业安全局（Worksafe） | 可选 | 部分岗位需操作叉车，需通过培训考核。 |
-| 急救证书 | 新西兰认可培训提供者 | 可选 | 工作场所安全要求，常见于制造业。 |
+| New Zealand National Certificate in Pulp and Paper Manufacturing | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but it helps with employment and promotion. |
+| Forklift operation license | Worksafe New Zealand | Optional | Some roles require forklift operation, which needs training and certification. |
+| First aid certificate | New Zealand Recognised Training Providers | Optional | Workplace safety requirements, common in manufacturing. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 1,200。新西兰造纸和纸浆行业规模较小，从业人数有限。就业机会主要集中在北岛（如丰盛湾、怀卡托），受自动化影响，岗位增长缓慢。预计未来五年需求稳定，但有季节性波动。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. The New Zealand paper and pulp industry is relatively small with limited employment. Job opportunities are mainly in the North Island (e.g., Bay of Plenty, Waikato), with slow job growth due to automation. Demand is expected to remain stable over the next five years, but with seasonal fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$52,000 | 时薪约21-25NZD。 |
-| 中级（3-6年） | $52,000~$65,000 | 时薪约25-31NZD。 |
-| 高级（6年以上） | $65,000~$80,000 | 时薪约31-38NZD，含主管或技术专家。 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Hourly wage approximately 21-25 NZD. |
+| Mid-level (3–6 years) | $52,000~$65,000 | Hourly wage approximately NZD 25-31. |
+| Senior (6+ years) | $65,000~$80,000 | Hourly wage approx. NZD 31-38, including supervisor or technical expert. |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 初级工人可晋升为高级操作员、班组长或质量检查员，部分转入维护或管理岗位。需积累经验并考取相关操作证书（如叉车证）。行业转型或转向其他制造业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+paper and pulp mill workers face automation compression risks, especially in repetitive tasks like monitoring and quality inspection; however, AI-enhanced skills such as equipment maintenance and process optimization can improve efficiency and create new roles, with mixed overall impact.
+
+Junior workers can advance to senior operator, team leader, or quality inspector roles, with some transitioning to maintenance or management positions. They need to accumulate experience and obtain relevant operation certificates (e.g., forklift license). Industry transformation or moving to other manufacturing sectors.
+
+**Tasks most exposed to AI:**
+
+- Uses computer vision and sensor AI to automatically monitor process parameters like pulp concentration and temperature
+- Automated quality inspection: AI identifies paper defects and classifies them, reducing manual visual inspection
+- Raw material handling: AI-driven automated forklifts and conveyors handle raw materials and finished products
+- Basic fault alerts: AI systems automatically detect anomalies and generate maintenance notifications.
+
+**Where AI augments the role:**
+
+- AI predictive maintenance: analyzing vibration and temperature data to warn of equipment faults in advance, improving maintenance efficiency
+- Production process optimization: AI simulates adjustments to process parameters to increase output and quality.
+- Enhanced safety monitoring: AI cameras identify hazardous behaviors and alert workers in real time
+- Inventory and Order Management: AI predicts raw material demand to optimize supply chain
+- Operation training: AR+AI assisted guidance for new workers, reducing learning curve
+
+**Human moat:**
+
+- Ability to diagnose and manually repair complex equipment faults
+- Cross-disciplinary Coordination and Emergency Response
+- Adaptation and assessment of unstructured physical environments (e.g., wet/dry section anomalies)
+- Team communication and safety protocol execution
+
+**Skills to build:**
+
+- Basic programming and automated system operation (PLC, SCADA basics)
+- Data analysis and AI tools (e.g., Python, Tableau)
+- Predictive maintenance and equipment diagnostic skills
+- Safety production and emergency management knowledge
+- Digital literacy: ability to interact with AI-based systems.
+- Cross-departmental communication and team management.
+
+**Key growth areas:**
 
 - Accredited Employer Work Visa
 - Skilled Migrant Category
@@ -62,67 +96,66 @@ Operate machinery, monitor production, handle raw materials and finished product
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，满足工资和条件要求。最长3年，可续签，可申请技术移民。 |
-| Subclass SMC（Skilled Migrant Category） | 符合6分制要求（如学历+经验），但造纸厂工人通常不属技能职业，需满足工资中位数（约29.66NZD/小时）以上。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an accredited employer, meeting wage and conditions requirements. Valid for up to 3 years, renewable, and eligible for skilled migration. |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point requirement (e.g., qualification + experience), but paper mill workers are usually not in skilled occupations; must meet the median wage (approx NZD 29.66/hour) or above. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Paper and Pulp Mill Worker？**
-- 动手能力强，适应工厂环境和轮班工作。
-- 愿意在偏远地区（如北岛）工作。
-- 对化工流程或重型机械不排斥。
-
-**谁不适合学Paper and Pulp Mill Worker？**
-- 无法接受重复性体力劳动或噪音粉尘环境。
-- 期望高收入或快速移民路径。
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, adaptable to factory environment and shift work.
+- Willing to work in remote areas such as the North Island.
+- Not averse to chemical processes or heavy machinery.
+
+**Who is not suited**
+- Cannot tolerate repetitive physical labor or noisy/dusty environments.
+- Expecting high income or a fast migration pathway.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of paper mill workers?**
+A: New Zealand paper mill workers earn an hourly wage of about NZD 21-38, annual income NZD 45,000-80,000. Entry-level positions about NZD 45,000-52,000, senior technical roles can reach over NZD 65,000.
+
+**Q: How can a paper mill worker immigrate to New Zealand?**
+A: The main pathway is to obtain work through an Accredited Employer Work Visa (AEWV), then apply for Skilled Migrant Category (SMC) after gaining experience, but must meet the median wage (about NZD 29.66 per hour) and skill requirements. This occupation is not on the Green List, with no direct residence pathway.
+
+**Q: What are the job prospects for the paper manufacturing industry in New Zealand?**
+A: The industry is small with limited positions, affected by automation, and few new jobs added. However, experienced operators are still in demand, especially in the main production areas of the North Island. It is recommended to monitor regional labor markets, such as the Bay of Plenty.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Paper and Pulp Mill Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for paper and pulp mill workers?**
-答：Hourly wages range from NZD 21 to 38, with annual salaries between NZD 45,000 and 80,000. Entry-level positions earn around NZD 45,000-52,000, while senior roles can exceed NZD 65,000.
-
-**问：How can a paper and pulp mill worker immigrate to New Zealand?**
-答：The main pathway is to secure a job via the Accredited Employer Work Visa (AEWV), then apply for the Skilled Migrant Category (SMC) after meeting the median wage (approx. NZD 29.66/hour) and skill requirements. This occupation is not on the Green List, so no direct residence pathway.
-
-**问：What's the job outlook for the paper and pulp industry in New Zealand?**
-答：The industry is small with limited positions, affected by automation. However, experienced operators are still in demand, especially in the Bay of Plenty region. Monitor regional labor markets.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

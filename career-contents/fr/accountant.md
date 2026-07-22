@@ -1,63 +1,99 @@
-# Accountant（Accountant）职业分析 · FR
+# Accountant — career analysis · France
 
-**职业代码：M1203 – Accountant。**
+**Occupation code: M1203 (ROME)**
 
-Accountants manage financial records, prepare financial statements, handle tax filings, and provide financial advice. In France, they work in companies, accounting firms, or as freelancers.
+Accountants are responsible for managing financial records, preparing financial statements, handling tax filings, and providing financial consulting. In France, accountants can practice in companies, accounting firms, or as a freelancer.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS Comptabilité Gestion | 2年（BTS） | —（公立学校免费，私立学校学费约3000-15000欧元/年） |
-| Licence Professionnelle en Comptabilité | 3年（Licence） | —（公立大学学费约200-3000欧元/年，私立商学院更高） |
-| DCG/DSCG（高等会计文凭） | 3-5年 | —（可通过学徒制（apprentissage）减免学费） |
+| BTS Comptabilité Gestion | 2 Years (BTS) | $0~$15,000 (Public schools are free, while private school tuition is about 3,000–15,000 euros per year) |
+| Licence Professionnelle en Comptabilité | 3 years (Licence) | $0~$10,000 (Public university tuition is about 200-3000 euros per year, while private business schools are even higher) |
+| DCG/DSCG (Higher Diploma in Accounting) | 3-5 years | $0~$20,000 (Tuition fees can be waived through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| DCG（Diplôme de Comptabilité et de Gestion） | 法国教育部 | 必备 | 会计与管理国家文凭，是成为法定会计师的必经阶段 |
-| DSCG（Diplôme Supérieur de Comptabilité et de Gestion） | 法国教育部 | 必备 | 高等会计文凭，高级会计职位必备 |
-| Expert-comptable（法定会计师资格） | 法国会计师公会（Ordre des Experts-Comptables） | 可选 | 需通过DEC考试和3年实习，可审计财务报表 |
-| Commissaire aux comptes（法定审计师资格） | 法国审计师公会（Compagnie Nationale des Commissaires aux Comptes） | 可选 | 适合从事法定审计工作 |
+| DCG（Diplôme de Comptabilité et de Gestion） | French Ministry of Education | Required | The National Diploma in Accounting and Management is a necessary step to becoming a statutory accountant |
+| DSCG（Diplôme Supérieur de Comptabilité et de Gestion） | French Ministry of Education | Required | Advanced Accounting Diploma, essential for senior accounting positions |
+| Expert-Comprehensive (Statutory Accountant Qualification) | French Institute of Certified Public Accountants (Ordre des Experts-Comptables) | Optional | Candidates must pass the DEC exam and complete a 3-year internship to audit financial statements |
+| Commissaire aux comptes (statutory auditor qualification) | French Auditors Association (Compagnie Nationale des Commissaires aux Comptes) | Optional | Suitable for statutory audit work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 220,000。法国会计行业就业稳定，受法规复杂性和企业合规需求推动。数字化转型（如云计算、自动化）带来技能更新需求，但基础核算岗位可能减少。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 220,000. The accounting industry in France has stable employment, driven by regulatory complexity and corporate compliance requirements. Digital transformation (such as cloud computing and automation) brings a demand for skill upgrades, but basic accounting positions may decrease.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 税前年薪，通常在中小企业或会计事务所 |
-| 中级（3-7年） | $36,000~$50,000 | 税前年薪，可担任财务主管或高级会计师 |
-| 高级（7年以上） | $50,000~$80,000 | 税前年薪，含财务经理、法定会计师等 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$36,000 | Pre-tax annual salary, usually in small and medium-sized enterprises or accounting firms |
+| Mid-level (3–7 years) | $36,000~$50,000 | Pre-tax annual salary, suitable for serving as financial supervisor or senior accountant |
+| Senior (7+ years) | $50,000~$80,000 | Pre-tax annual salary, including financial manager, statutory accountant, etc |
+| average salary | $59,838 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 初级会计师可晋升至财务经理、审计经理或财务总监。也可考取法国法定会计师（Expert-comptable）资格，成立自己的事务所或担任企业财务高管。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Junior accountants can be promoted to financial manager, audit manager, or financial director. You can also obtain the French Certified Public Accountant (Expert-comptable) qualification, establish your own firm, or serve as a senior financial officer in a company.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Tax Complexity
@@ -66,69 +102,68 @@ Accountants manage financial records, prepare financial statements, handle tax f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 受雇工作居留，需获得法国雇主工作合同，符合薪资门槛（通常高于SMIC） |
-| Subclass Passeport Talent（Passeport Talent - Qualified Employee） | 人才护照-合格雇员，适用于持有硕士或以上学位，且年薪超过36,508欧元的外国雇员 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适合高技能非欧盟公民，需年薪超过53,836.50欧元（2023年标准） |
+| Subclass Salarié (Salarié (Work Permit)) | For employed work residence, you must obtain a French employer employment contract and meet the salary threshold (usually higher than SMIC). |
+| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Talent Passport – Qualified employees, applicable to foreign employees holding a master's degree or above with an annual salary exceeding 36,508 euros |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, suitable for high-skilled non-EU citizens, requiring an annual salary of over €53,836.50 (2023 standard) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Accountant？**
-- 细心、注重合规和准确性的人
-- 喜欢分析和数字工作的人
-- 追求稳定职业且有耐心考取专业资格的人
-
-**谁不适合学Accountant？**
-- 厌恶重复性工作和长时间面对数字的人
-- 希望快速晋升或频繁跳槽的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful individuals who focus on compliance and accuracy
+- People who enjoy analytics and digital work
+- Those who pursue stable careers and have the patience to obtain professional qualifications
+
+**Who is not suited**
+- People who dislike repetitive work and spending long hours in front of numbers
+- For those seeking rapid promotion or frequent job-hopping
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French accountants?**
+A: Entry-level accountants earn about €28,000-36,000 per year, mid-level €36,000-50,000, and senior (e.g., financial managers or statutory accountants) can reach €50,000-80,000. Paris region typically pays higher.
+
+**Q: How can foreign accountants immigrate to France?**
+A: You can obtain a work residence visa (employer sponsorship), Passeport Talent (annual salary >€36,508), or EU Blue Card (annual salary >€53,836). It is important to note that the French accounting industry is regulated; those wishing to become statutory accountants must pass a French language exam and certification (Reconnaissance des Qualifications).
+
+**Q: What qualifications are required for accounting in France?**
+A: Entry requires DCG (3 years) and DSCG (2 years), after which you can obtain the statutory accountant qualification (DEC+3 years internship). Foreign degrees must be assessed by the French Academic Qualification Certification (ENIC-NARIC).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Accountant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for accountants in France?**
-答：Junior accountants earn around €28,000-€36,000, mid-level €36,000-€50,000, and senior (e.g., financial manager or expert-comptable) can reach €50,000-€80,000 per year. Paris region typically offers higher salaries.
-
-**问：How can foreign accountants immigrate to France?**
-答：Via Salarié work permit (employer sponsorship), Passeport Talent (salary >€36,508), or EU Blue Card (salary >€53,837). Note that the accounting profession is regulated; to become an expert-comptable, one must pass French exams and obtain qualification recognition.
-
-**问：What qualifications are required for accounting in France?**
-答：Entry requires DCG (3 years) and DSCG (2 years), followed by the expert-comptable certification (DEC + 3 years internship). Foreign degrees need to be evaluated by ENIC-NARIC.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

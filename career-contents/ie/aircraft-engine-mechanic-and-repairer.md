@@ -1,60 +1,96 @@
-# Aircraft Engine Mechanic and Repairer（Aircraft Engine Mechanic and Repairer）职业分析 · IE
+# Aircraft Engine Mechanic and Repairer — career analysis · Ireland
 
-**职业代码：7232 – Aircraft Engine Mechanic and Repairer。**
+**Occupation code: 7232 (ISCO08)**
 
-Inspect, maintain, diagnose faults, and repair aircraft engines to ensure airworthiness. Work in hangars or workshops, requiring knowledge of mechanical and electronic systems.
+Inspect, maintain, diagnose and repair aircraft engines to ensure aircraft meet safety standards. Work in hangars or maintenance workshops; requires knowledge of mechanical and electronic systems.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（学徒期间带薪，培训费用由雇主承担） |
-| 高等证书 | 2年 | $2,000~$5,000（部分院校提供航空维修证书课程） |
+| Apprenticeship | 4 years | $0~$1,000 (Paid during apprenticeship, training costs covered by employer) |
+| Higher Certificate | 2 years | $2,000~$5,000 (Some institutions offer certificate courses in aircraft maintenance engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EASA Part-66 B1.1 执照 | 爱尔兰航空管理局 (IAA) | 必备 | 飞机机械维护执照，需通过模块考试和累积工作经验 |
-| 安全课程证书 | 雇主或培训机构 | 可选 | 如人身安全、工具使用等 |
+| EASA Part-66 B1.1 license | Irish Aviation Authority (IAA) | Required | Aircraft mechanical maintenance license, requires passing module exams and accumulating work experience |
+| Safety course certificate | Employer or training provider | Optional | e.g., personal safety, tool use |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。爱尔兰航空业持续增长，都柏林机场扩建及瑞安航空等航司机队扩张带动维修需求。预计未来5年岗位增长约8-10%，但需持有EASA执照。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Ireland's aviation industry continues to grow, with Dublin Airport expansion and fleet expansion by airlines like Ryanair driving maintenance demand. Expected job growth of about 8-10% over the next 5 years, but an EASA license is required.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒毕业后或新手机械师 |
-| 中级（3-7年） | $38,000~$50,000 | 持有执照并有经验 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或资深持证工程师 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Apprentice graduates or new mechanics |
+| Mid-level (3–7 years) | $38,000~$50,000 | Licensed and experienced |
+| Senior (7+ years) | $55,000~$70,000 | Senior or principal licensed engineer |
+| average salary | $46,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从学徒或机械师起步，考取EASA Part-66执照后可晋升为持证工程师，再发展为团队主管或质量检验员。部分人转向航空管理或技术培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers rely heavily on physical inspections, manual repairs, and on-site decisions; AI is difficult to fully replace but will take over tasks like documentation, preliminary fault diagnosis, and predictive maintenance planning, making the overall risk moderately low.
+
+Start as an apprentice or mechanic, obtain an EASA Part-66 license to advance to a licensed engineer, then progress to team leader or quality inspector. Some move into aviation management or technical training.
+
+**Tasks most exposed to AI:**
+
+- automatically generates maintenance work cards and compliance reports
+- Preliminary fault diagnosis (via AI analysis of flight data)
+- Predictive maintenance scheduling (based on sensor data)
+- Parts inventory management and automatic ordering
+- Flight and maintenance history data entry
+
+**Where AI augments the role:**
+
+- Enhances fault location accuracy (AI-assisted analysis of instrument data).
+- Optimize maintenance plan suggestions (based on historical case library)
+- Virtual reality-assisted training (for new aircraft and complex systems)
+- Real-time monitoring of aircraft health status (predicting component lifespan)
+- automatically generates maintenance work cards and compliance reports
+
+**Human moat:**
+
+- Physical maintenance and operation (disassembly, installation, commissioning)
+- Unstructured troubleshooting (on-site flexible response to anomalies)
+- Safety responsibility and regulatory compliance judgment
+- On-site communication and coordination with crew and ground staff
+- Hands-on learning ability for new aircraft systems
+
+**Skills to build:**
+
+- Learn to use aircraft diagnostic AI platforms (e.g., Airbus Skywise)
+- Master data analysis basics (Python/SQL for data maintenance)
+- Obtain certification for drone or electric aircraft maintenance.
+- Enhance automated tool operation skills (e.g., 3D printing for parts repair)
+- Reinforced composite and advanced materials repair techniques.
+- Learn cybersecurity basics (for airborne system threats)
+
+**Key growth areas:**
 
 - Aviation growth
 - Aircraft fleet expansion
@@ -63,69 +99,68 @@ Inspect, maintain, diagnose faults, and repair aircraft engines to ensure airwor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过30,000欧元的职位，需雇主担保 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如果职位在紧缺职业列表且年薪≥32,000欧元，可申请，2年后可转永居 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥一般水平的1.5倍（约40,000欧元），适合高级工程师 |
+| Subclass General Employment P (General Employment Permit) | Applies to positions with an annual salary exceeding €30,000, requiring employer sponsorship |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the shortage occupation list and annual salary ≥ €32,000, you can apply; eligible for permanent residency after 2 years |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥ 1.5 times the average (approx. €40,000), suitable for senior engineers. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Engine Mechanic and Repairer？**
-- 喜欢动手维修机械和发动机
-- 注重安全与细节
-- 愿意考取和维护专业执照
-
-**谁不适合学Aircraft Engine Mechanic and Repairer？**
-- 不善于应对高空或密闭空间工作
-- 对频繁考执照和复训感到厌烦
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on repair of machinery and engines
+- Focus on safety and detail
+- Willing to obtain and maintain professional licenses.
+
+**Who is not suited**
+- Not comfortable working at heights or in confined spaces
+- Tired of frequent licensing and retraining
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aircraft engine mechanics?**
+A: Entry-level approximately €28,000-35,000, mid-level €38,000-50,000, senior €55,000-70,000. Salary increases significantly after obtaining an EASA licence.
+
+**Q: How can foreign mechanics migrate to Ireland to work in this occupation?**
+A: Typically requires a General Employment Permit or Critical Skills Permit from the employer. Holding an EASA license and English proficiency are key.
+
+**Q: What key certifications are required?**
+A: Core requirement is EASA Part-66 B1.1 license, plus passing a series of module exams. Some employers require additional safety certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aircraft Engine Mechanic and Repairer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aircraft engine mechanics?**
-答：Entry-level: €28,000-€35,000; mid-level: €38,000-€50,000; senior: €55,000-€70,000. EASA license significantly boosts pay.
-
-**问：How can foreign mechanics migrate to Ireland for this job?**
-答：Typically need employer sponsorship via General or Critical Skills Employment Permit. EASA license and English proficiency are key.
-
-**问：What key certifications are required?**
-答：Core is EASA Part-66 B1.1 license, requiring passing modular exams. Some employers require additional safety certificates.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

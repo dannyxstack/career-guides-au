@@ -1,60 +1,96 @@
-# Dentist（Dentist）职业分析 · IE
+# Dentist — career analysis · Ireland
 
-**职业代码：2261 – Dentist。**
+**Occupation code: 2261 (ISCO08)**
 
-Dentists diagnose and treat oral diseases, including fillings, extractions, root canals, and preventive care. They work in private practices, public health services, or hospitals in Ireland.
+Dentists diagnose and treat oral diseases, including fillings, extractions, root canals, and preventive care. Dentists in Ireland typically work in private practices, public health services, or hospitals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 5年（本科） | $50,000~$70,000（欧盟学生每年约€5,000-7,000；非欧盟学生高达€30,000-50,000/年） |
-| 研究生（专科培训） | 3-4年 | $20,000~$30,000（专科培训费用因项目而异） |
+| Bachelor's degree | 5 years (bachelor's degree) | $50,000~$70,000 (EU students approx. €5,000-7,000/year; non-EU students up to €30,000-50,000/year) |
+| Postgraduate (Specialist Training) | 3-4 years | $20,000~$30,000 (Vocational training costs vary by program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰牙科委员会注册 | 爱尔兰牙科委员会 | 必备 | 所有执业牙医必须在爱尔兰牙科委员会注册 |
-| 牙科学士学位 | 认可大学 | 必备 | 需毕业于爱尔兰或欧盟认可的牙科课程 |
-| 执业保险 | 保险机构 | 必备 | 强制要求职业赔偿责任保险 |
-| 继续教育 | 爱尔兰牙科委员会 | 可选 | 需完成持续专业发展以维持注册 |
+| Irish Dental Council Registration | Irish Dental Council | Required | All practicing dentists must be registered with the Irish Dental Council |
+| Bachelor of Dental Science | Recognised university | Required | Must have graduated from a dental program recognized in Ireland or the EU |
+| Professional Indemnity Insurance | Insurance institution | Required | compulsory professional indemnity insurance |
+| Continuing education | Irish Dental Council | Optional | Must complete continuing professional development to maintain registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 2,200。爱尔兰人口增长和口腔健康意识提升推动牙医需求稳定，但供应相对充足，就业竞争中等。受COVID后口腔护理需求反弹影响，前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,200. Ireland's population growth and increased oral health awareness drive steady demand for dentists, but supply is relatively sufficient, leading to moderate employment competition. Prospects are favorable due to post-COVID rebound in oral care demand.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 私立诊所助理牙医或公立系统见习 |
-| 中级（4-10年） | $70,000~$100,000 | 经验牙医或诊所合伙人 |
-| 高级（10年以上） | $110,000~$160,000 | 专科牙医或诊所所有者 |
+| Median salary | $85,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$65,000 | Private clinic assistant dentist or public system internship |
+| Mid-level (4-10 years). | $70,000~$100,000 | Experienced dentist or clinic partner |
+| Senior (10+ years) | $110,000~$160,000 | Specialist dentist or clinic owner |
+| average salary | $91,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 牙医可从初级助理晋升为合伙人或开设私人诊所。也可专攻正畸、口腔外科等亚专业，或在学术和公共卫生领域发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+Dentists can progress from junior assistant to partner or open a private practice. They may also specialize in orthodontics, oral surgery, or pursue careers in academia and public health.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - aging population
 - preventive dentistry
@@ -63,67 +99,66 @@ Dentists diagnose and treat oral diseases, including fillings, extractions, root
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪€34,000以上的牙医职位，需雇主担保，劳动力市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 年薪€38,000以上且职业在紧缺清单上，可快速获得居留，但牙医通常不在清单中 |
-| Subclass EU Blue Card（EU Blue Card (Ireland)） | 年薪€42,000以上，需相关学历，适用于高技能岗位，牙医可能符合 |
+| Subclass General Employment P (General Employment Permit) | Applicable to dentist positions with an annual salary of €34,000 or more, requires employer sponsorship and labor market testing. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Salary above €38,000 per year and occupation on the shortage list can lead to quick residency, but dentists are usually not on the list. |
+| Subclass EU Blue Card (EU Blue Card (Ireland)) | Annual salary €42,000+, relevant qualification required, suitable for skilled positions, dentists may be eligible |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentist？**
-- 具备耐心和手巧细致的人
-- 对口腔健康有热情，愿意持续学习
-
-**谁不适合学Dentist？**
-- 对血液或口腔异味敏感的人
-- 难以承受高强度精细操作压力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and manual dexterity
+- Passionate about oral health and willing to continuously learn
+
+**Who is not suited**
+- Sensitive to blood or oral odor
+- People who struggle to withstand high-intensity fine manipulation pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for dentists in Ireland?**
+A: Junior dentist annual salary approx €45,000-65,000, mid-level approx €70,000-100,000, senior specialist or clinic owner can reach €110,000-160,000.
+
+**Q: How can non-EU dentists work in Ireland?**
+A: Must first pass qualification certification from the Irish Dental Council, usually requiring exams or supplementary courses. Then apply for a work permit, such as a General Employment Permit or Critical Skills Permit (if the occupation is on the list).
+
+**Q: How long does it take to become a dentist in Ireland?**
+A: Typically requires a 5-year undergraduate degree in dentistry, followed by 3-4 years of specialist training. EU students have lower tuition fees, while non-EU students pay higher fees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Dentist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a dentist in Ireland?**
-答：Entry-level dentists earn €45,000-65,000, mid-level €70,000-100,000, and senior specialists or practice owners can reach €110,000-160,000 per year.
-
-**问：How can non-EU dentists work in Ireland?**
-答：They must first obtain qualification recognition from the Irish Dental Council, often requiring exams or additional courses. Then apply for a work permit such as General Employment Permit or Critical Skills Permit if on the list.
-
-**问：How long does it take to become a dentist in Ireland?**
-答：Usually 5 years for a dental degree, followed by 3-4 years of specialization. Tuition fees are lower for EU students, higher for non-EU.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

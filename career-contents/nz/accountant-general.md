@@ -1,60 +1,96 @@
-# Accountant (General)（Accountant (General)）职业分析 · 新西兰
+# Accountant (General) — career analysis · New Zealand
 
-**职业代码：221111 – Accountant (General)。**
+**Occupation code: 221111 (ANZSCO)**
 
-Chartered Accountants in New Zealand manage financial reporting, tax compliance, audit, and business advisory. With CA ANZ or CPA qualifications, the role is on the Green List, offering a direct residence pathway and strong Skilled Migrant Category points.
+Certified Practicing Accountants in New Zealand prepare financial reports, handle tax compliance, conduct audits, and provide business advice; it is a high-demand occupation in the business sector. Those with CA ANZ or CPA qualifications can directly apply for residence via the Green List and also have an advantage under the Skilled Migrant Category points system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（国际生学费，新西兰本地生约1.2-1.5万NZD/年） |
-| 硕士 | 1-1.5年 | $40,000~$60,000（针对转专业或提升资质，国际生学费） |
-| 职业年（可选） | 1年 | $10,000~$20,000（部分人通过职业年满足CA ANZ要求，非必需） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (International student tuition: for New Zealand domestic students approx. NZD 12,000-15,000/year) |
+| Master's degree | 1-1.5 years | $40,000~$60,000 (International student tuition for changing majors or upgrading qualifications) |
+| Professional Year (optional) | 1 year | $10,000~$20,000 (Some people meet CA ANZ requirements through a professional year, but it's not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CA ANZ（新西兰特许会计师） | Chartered Accountants Australia and New Zealand | 必备 | 最受认可的本地资格，需完成认证学位+3年实践经验+考试，是多数雇主强制要求 |
-| CPA Australia | CPA Australia | 可选 | 在新西兰同样广泛接受，需完成认证学位+3年工作经验+考试 |
-| ACCA | Association of Chartered Certified Accountants | 可选 | 国际资格，部分雇主认可，但CA ANZ更受欢迎 |
+| CA ANZ (New Zealand Chartered Accountants) | Chartered Accountants Australia and New Zealand | Required | Most recognised local qualification, requiring a completed accredited degree + 3 years of practical experience + exam; mandatory for most employers |
+| CPA Australia | CPA Australia | Optional | Widely accepted in New Zealand as well; requires accredited degree + 3 years experience + exam |
+| ACCA | Association of Chartered Certified Accountants | Optional | International qualifications, recognized by some employers, but CA ANZ is more popular |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,000。新西兰注册会计师长期短缺，尤其在奥克兰、惠灵顿及基督城。Stats NZ预测未来5年就业增长稳定，年均新增约1500个职位。中小企业、四大会计事务所及政府部门需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 52,000. New Zealand chartered accountants are in long-term shortage, especially in Auckland, Wellington, and Christchurch. Stats NZ predicts steady employment growth over the next 5 years, with an average of about 1,500 new positions annually. Strong demand from SMEs, Big Four accounting firms, and government departments.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 常见于助理会计师、税务助理等职位 |
-| 中级（3-6年） | $75,000~$110,000 | 已获CA/CPA资格，担任会计师、高级会计师 |
-| 高级（6年以上） | $110,000~$180,000 | 财务经理、审计经理、CFO等，大所合伙人可达20万+ |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Commonly found in assistant accountant, tax assistant, etc. |
+| Mid-level (3–6 years) | $75,000~$110,000 | Holds CA/CPA qualifications, works as an accountant, senior accountant |
+| Senior (6+ years) | $110,000~$180,000 | Financial Manager, Audit Manager, CFO, etc., partner at large firms can reach 200,000+ |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级会计师可晋升为高级会计师、财务经理或审计经理；资深者成为财务总监（CFO）或合伙人。获得CA ANZ或CPA是晋升关键，许多雇主资助学习并给予带薪考试假。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Junior accountants can advance to senior accountant, financial manager, or audit manager; senior ones become CFO or partner. Obtaining CA ANZ or CPA is key to advancement, many employers sponsor studies and give paid exam leave.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Chartered Accountants in New Zealand manage financial reporting, tax compliance,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 注册会计师在绿色清单第一梯队，可直接申请居留，无需工作两年。需有CA/CPA资格或认证学位及就业。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民，职业属ANZSCO 1级，学历（本科3分）+工作经验（2-5年3分）即可达标，易获邀请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 未获资格者可通过AEWV先工作，积累经验后申请居留。雇主需为认证雇主，时薪需达中位数（约29.66NZD/时）。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Certified Public Accountant is on the Green List Tier 1, eligible for direct residence without needing to work for two years. Requires CA/CPA qualification or accredited degree and employment. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration; occupation is ANZSCO Skill Level 1; qualification (bachelor's 3 points) + work experience (2–5 years 3 points) is sufficient, easy to receive invitation. |
+| Subclass AEWV (Accredited Employer Work Visa) | Those without qualifications can first work on an AEWV, gain experience, then apply for residence. Employer must be accredited, hourly wage must reach the median (approx. 29.66 NZD/hour). |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Accountant (General)？**
-- 擅长数字分析与逻辑思考，对财务细节有耐心的人
-- 愿意投入2-3年考取CA或CPA资格，追求长期职业与移民前景的人
-- 适应税务季高强度工作，并希望在新西兰稳定发展的国际生或技术移民
-
-**谁不适合学Accountant (General)？**
-- 不喜重复性工作或高压加班，对财务数字不敏感的人
-- 无法花时间备考专业资格，或英语未达雅思7分要求的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those skilled in data analysis, logical thinking, and patient with financial details.
+- Willing to invest 2-3 years to obtain CA or CPA qualifications, pursuing long-term career and immigration prospects
+- International students or skilled migrants who adapt to high-intensity work during tax season and wish to develop stably in New Zealand.
+
+**Who is not suited**
+- People who dislike repetitive work or high-pressure overtime and are not sensitive to financial numbers
+- People unable to spend time preparing for professional qualifications, or whose English does not meet the IELTS 7 requirement
+
+---
+
+## 8. FAQ
+
+**Q: What are the conditions for a Certified Practicing Accountant to apply for direct residence on the Green List?**
+A: Must hold a New Zealand recognized qualification (e.g., accounting bachelor's or master's) and already have CA ANZ or CPA designation, plus full-time accounting job with an accredited employer. Meets conditions for direct Straight to Residence Visa with no work experience requirement.
+
+**Q: What is the average annual salary for a CPA in New Zealand?**
+A: Based on Stats NZ and careers.govt.nz data, entry-level (0-3 years) approx. NZD 55,000-75,000, intermediate (3-6 years) approx. NZD 75,000-110,000, senior (6+ years) can reach NZD 110,000-180,000. Salaries at Big Four accounting firms are typically higher; partners or CFOs can exceed NZD 200,000.
+
+**Q: Are overseas accounting qualifications (e.g., ACCA, CMA) recognized in New Zealand?**
+A: International qualifications like ACCA and CMA are recognized by some employers in New Zealand, but CA ANZ and CPA Australia are more mainstream. ACCA can apply for CA ANZ via Mutual Recognition Agreement, but needs to complete bridging courses in business law, tax, etc. Strongly recommend converting to CA ANZ to enhance employment and immigration competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Accountant (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the conditions for a Chartered Accountant to get direct residence under the Green List?**
-答：You need a New Zealand-recognized qualification (e.g., bachelor’s/master’s in accounting) and a CA ANZ or CPA qualification, plus a full-time accounting job with an accredited employer. You can apply for the Straight to Residence Visa without any work experience requirement.
-
-**问：What is the average annual salary for a Chartered Accountant in New Zealand?**
-答：According to Stats NZ and careers.govt.nz, entry-level (0-3 years) earns NZD 55,000-75,000, mid-level (3-6 years) NZD 75,000-110,000, and senior (6+ years) NZD 110,000-180,000. Big Four firms pay higher, and partners/CFOs can exceed NZD 200,000.
-
-**问：Are overseas accounting qualifications (e.g., ACCA, CMA) recognized in New Zealand?**
-答：ACCA, CMA, etc., are accepted by some employers, but CA ANZ and CPA Australia are more common. ACCA holders can apply for CA ANZ via Mutual Recognition Agreement but may need top-up courses in commercial law and tax. It's highly recommended to convert to CA ANZ for better job and migration prospects.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

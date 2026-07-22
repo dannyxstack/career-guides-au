@@ -1,60 +1,96 @@
-# Airline pilots, flight engineers and flying instructors（Airline pilots, flight engineers and flying instructors）职业分析 · 加拿大
+# Airline pilots, flight engineers and flying instructors — career analysis · Canada
 
-**职业代码：72600 – Airline pilots, flight engineers and flying instructors。**
+**Occupation code: 72600 (NOC)**
 
-Canadian pilots operate commercial, cargo and charter flights, requiring Transport Canada licenses and type ratings. The occupation is eligible for Express Entry and PNP immigration, but strict medical, language and credential assessment criteria apply.
+Canadian pilot profession, involved in commercial aviation, cargo, and charter flights, requires a flight license and type rating from Transport Canada. This occupation can qualify for Express Entry or PNP skilled migration, but must meet strict medical, language, and credential assessment requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 商用飞行执照培训（固定翼） | 12-24个月 | $60,000~$80,000（费用含理论、飞行小时及执照考试） |
-| 航空相关大专或本科学历 | 2-4年 | $30,000~$60,000（可选，部分航校提供与学院合作项目） |
+| Commercial pilot license training (fixed-wing) | 12-24 months | $60,000~$80,000 (Fees include theory, flight hours, and license exams.) |
+| Aviation-related diploma or bachelor's degree | 2-4 years | $30,000~$60,000 (Optional; some flight schools offer cooperative programs with colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大商用飞行员执照（CPL） | 加拿大交通部 | 必备 | 需通过笔试、飞行测试及体检，约150-200飞行小时 |
-| 仪器等级（IR）和多发等级（MEL） | 加拿大交通部 | 可选 | 并非强制但大部分工作必需 |
-| 航空英语能力证明（ICAO Level 4+） | 加拿大交通部 | 必备 | 强制要求，非母语者需考试 |
-| 学历认证（ECA） | WES或ICAS | 可选 | 用于Express Entry学历加分，非强制但推荐 |
+| Canadian Commercial Pilot Licence (CPL) | Transport Canada | Required | Must pass written exam, flight test, and medical exam, approx. 150–200 flight hours |
+| Aviation English proficiency proof (ICAO Level 4+) | Transport Canada | Required | Mandatory, non-native speakers need to take the test |
+| Instrument Rating (IR) and Multi-Engine Rating (MEL) | Transport Canada | Optional | Not mandatory but required for most jobs |
+| Educational credential assessment (ECA) | WES or ICAS | Optional | Used for Express Entry education points, not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。加拿大航空业正面临飞行员短缺，尤其是支线和货运航空。未来十年预计将有大量退休，新增职位需求旺盛。然而，加拿大航空市场规模小于澳洲，晋升机长需积累足够飞行小时数，竞争仍然存在。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Canada's aviation industry is facing a pilot shortage, especially in regional and cargo aviation. A large number of retirements are expected over the next decade, with strong demand for new positions. However, the Canadian aviation market is smaller than Australia's, and becoming a captain requires accumulating sufficient flight hours, so competition remains.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年，副驾驶，支线航空） | $35,000~$60,000 | 加航旗下区域航空公司或小型包机公司 |
-| 中级（3-10年，副驾驶/机长，支线或低成本） | $60,000~$100,000 | 西捷、Flair等中型航司 |
-| 高级（10年+，机长，干线航空） | $120,000~$200,000 | 加航、西捷宽体机长，含津贴 |
+| Median salary | $108,160 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry-level (0-3 years, First Officer, Regional Airline) | $35,000~$60,000 | Regional airlines or small charter companies under Air Canada |
+| Intermediate (3-10 years, co-pilot/captain, regional or low-cost) | $60,000~$100,000 | Mid-sized airlines like WestJet, Flair |
+| Senior (10+ years, captain, trunk airline) | $120,000~$200,000 | Air Canada and WestJet wide-body captain, including allowances |
+| average salary | $122,720 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 飞行员职业路径：副驾驶→机长→培训机长/检查员。大型航空公司（如加航）通常从支线航空招聘有经验的副驾驶。退役后可转任飞行教员或航空管理职位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI: automation can take over routine tasks like cruise monitoring, but takeoff/landing decisions, emergency handling, and complex weather operations still require human judgment, with licenses and safety responsibilities forming a moat.
+
+Pilot career path: First Officer → Captain → Training Captain/Checker. Major airlines (e.g., Air Canada) typically recruit experienced First Officers from regional airlines. After retirement, can transition to flight instructor or aviation management.
+
+**Tasks most exposed to AI:**
+
+- Autopilot monitoring and parameter adjustment.
+- Fuel management and route optimization calculation
+- Standard procedure communication and checklist execution.
+- Automated data acquisition and display for meteorological data
+- Automatic recording and uploading of flight logs
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance alerts to reduce mechanical failures
+- Real-time wind shear/turbulence warnings to improve flight safety
+- Intelligent route planning to save fuel and time
+- Assisted by auto-landing system to reduce workload
+- Quick query of aviation information via voice interaction.
+
+**Human moat:**
+
+- Emergency handling and decision-making in abnormal situations.
+- Complex communication and coordination with air traffic control and crew
+- Passenger safety management and crisis intervention
+- manual flying skills and situational awareness
+- Sense of responsibility for regulations and safety culture
+
+**Skills to build:**
+
+- Data-driven decision-making ability
+- AI system fault diagnosis and manual takeover
+- Advanced simulator training and scenario drills.
+- Multi-type aircraft qualification and proficiency.
+- Communication and team leadership
+- Basic programming and avionics system understanding
+
+**Key growth areas:**
 
 - Pilot Shortage
 - Express Entry
@@ -63,69 +99,68 @@ Canadian pilots operate commercial, cargo and charter flights, requiring Transpo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类，需满足CRS分数（通常470+），飞行员项目可为加分项 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安省、BC省、曼省有省提名项目，需雇主offer或已工作经历 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有job offer的飞行员 |
-| Subclass Closed WP（Employer-specific Work Permit） | 先持LMIA工签工作，再过渡移民，常见于航司直接担保 |
+| Subclass EE (Express Entry (FSW/CEC)) | Through Federal Skilled Worker or Canadian Experience Class; need CRS score (typically 470+), pilot program can be a bonus. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario, BC, and Manitoba have PNP streams requiring a job offer or work experience |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for pilots with job offers |
+| Subclass Closed WP (Employer-specific Work Permit) | Start with an LMIA work permit, then transition to immigration, common with direct airline sponsorship |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airline pilots, flight engineers and flying instructors？**
-- 有至少1,000小时飞行经验，持加拿大认可执照或可转换执照的飞行员
-- 英语流利（ICAO Level 4+），能够适应高强度培训和倒班工作
-- 通过加拿大运输部I类体检，无严重基础疾病
-
-**谁不适合学Airline pilots, flight engineers and flying instructors？**
-- 对高频飞行、长时间离家或压力环境不适应
-- 拥有澳大利亚执照但无法通过加拿大执照转换考试或飞行时数不足
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Pilots with at least 1,000 hours of flight experience and a Canadian recognized license or convertible license
+- Fluent English (ICAO Level 4+), able to handle intensive training and shift work
+- Pass Transport Canada Category I medical examination, no serious underlying conditions.
+
+**Who is not suited**
+- Not suited to frequent flying, long periods away from home, or high-pressure environments
+- Holds an Australian license but cannot pass the Canadian license conversion test or has insufficient flight hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a Canadian pilot?**
+A: Starting first officer (regional) annual salary is about CAD 35,000-60,000; intermediate first officer/captain about CAD 60,000-100,000; long-haul captain (10+ years) can reach CAD 120,000-200,000. Starting salaries are lower than Australia, but the cost of living is also lower.
+
+**Q: Is it easy for pilots to immigrate to Canada?**
+A: Relatively difficult but possible. Pilots fall under NOC TEER 0 and can use Express Entry or PNP, but must first obtain a Canadian-recognized license, typically requiring work at a Canadian airline (LMIA work visa) before applying for permanent residence. Direct overseas applications have low success rates.
+
+**Q: How to convert an Australian pilot license to a Canadian license?**
+A: Australia and Canada have a mutual recognition agreement, but you need to pass Transport Canada's written exams, flight tests, and medical exams. Usually, you need to complete Canadian regulations knowledge exams and a certain number of flight hours verification, taking about 6-12 months.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Airline pilots, flight engineers and flying instructors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a pilot in Canada?**
-答：Entry-level first officers (regional) earn CAD 35,000–60,000; mid-level captains make CAD 60,000–100,000; senior long-haul captains earn CAD 120,000–200,000. Starting pay is lower than Australia but cost of living is lower.
-
-**问：Is it easy for pilots to immigrate to Canada?**
-答：Moderately difficult but viable. Pilots fall under NOC TEER 0 and qualify for EE/PNP, but must first obtain a Canadian license and often a job offer (LMIA work permit) before PR. Direct overseas applications have low success rates.
-
-**问：How to convert an Australian pilot license to Canadian?**
-答：Australia and Canada have reciprocity, but you must pass Transport Canada written exams, flight test and medical. Typically requires Canadian aviation law exam and flight hour verification, taking 6-12 months.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

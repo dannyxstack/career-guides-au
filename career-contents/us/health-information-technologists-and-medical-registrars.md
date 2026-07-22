@@ -1,59 +1,91 @@
-# Health Information Technologists and Medical Registrars（Health Information Technologists and Medical Registrars）职业分析 · 美国
+# Health Information Technologists and Medical Registrars — career analysis · United States
 
-**职业代码：29-9021 – Health Information Technologists and Medical Registrars。**
+**Occupation code: 29-9021 (SOC)**
 
-Apply healthcare and IT knowledge to design, develop, and analyze computerized health systems; abstract, collect, and analyze patient treatment and follow-up data.
+Apply medical and information systems knowledge to design, develop, maintain, and analyze computerized medical systems; responsible for extracting, collecting, and analyzing patient treatment and follow-up information.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1万-3万美元） |
-| 硕士学位 | 2年 | $30,000~$80,000（健康信息学硕士项目总学费约3-8万美元） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities charge an average annual tuition of about $10,000-$30,000 USD.) |
+| Master's degree | 2 years | $30,000~$80,000 (Total tuition for a Master's in Health Informatics is approximately $30,000-80,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册健康信息管理员（RHIA） | 美国健康信息管理协会（AHIMA） | 可选 | 需要学士学位并通过考试 |
-| 认证健康数据分析师（CHDA） | AHIMA | 可选 | 可选认证，提升竞争力 |
-| CPHIMS | HIMSS | 可选 | 医疗信息与管理系统认证 |
+| Registered Health Information Administrator (RHIA) | American Health Information Management Association (AHIMA) | Optional | Requires a bachelor's degree and passing an exam |
+| Certified Health Data Analyst (CHDA) | AHIMA | Optional | Optional certification to boost competitiveness |
+| CPHIMS | HIMSS | Optional | Healthcare information and management systems certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。随着电子健康记录（EHR）的普及和医疗数据增长，该职业需求持续上升。美国劳工统计局预计2022-2032年就业增长16%，远高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. With the spread of electronic health records (EHRs) and growth of medical data, demand for this occupation continues to rise. The US Bureau of Labor Statistics projects 16% employment growth from 2022-2032, much faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 医疗数据专员或技术支持 |
-| 中级（3-7年） | $60,000~$85,000 | 健康信息技术分析师或项目经理 |
-| 高级（7年以上） | $85,000~$120,000 | 健康信息总监或首席信息官 |
+| Median salary | $68,020 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Medical data specialist or technical support |
+| Mid-level (3–7 years) | $60,000~$85,000 | Health information technology analyst or project manager |
+| Senior (7+ years) | $85,000~$120,000 | Health information director or chief information officer |
+| average salary | $74,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级职位通常从医疗数据录入或技术支持起步，中级可晋升为系统分析师或项目经理，高级可担任健康信息总监或首席信息官（CIO）。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core tasks of Health Information Managers (clinical coding, data management) significantly threatened by AI, but strong human decision-making needed for regulatory compliance and privacy. Entry-level roles narrowing; mid-senior roles require more composite skills due to AI tools.
+
+Entry-level typically starts in medical data entry or technical support, intermediate can advance to systems analyst or project manager, senior can become health information director or chief information officer (CIO).
+
+**Tasks most exposed to AI:**
+
+- Automated coding tools replace manual ICD coding, especially for structured medical records
+- Data quality check report generation, AI automatically marks outliers
+- Patient information entry and retrieval, AI voice and text recognition completed
+- Preliminary anomaly detection in compliance monitoring, AI scanning documents
+
+**Where AI augments the role:**
+
+- AI-driven clinical coding recommendations and rapid review to improve coding accuracy
+- AI automatically identifies sensitive information in data governance, accelerating compliance reviews
+- Machine learning for patient data analysis to support hospital performance and resource management
+- AI chatbot provides doctors with real-time coding queries to improve efficiency
+
+**Human moat:**
+
+- Human judgment in clinical coding disputes: non-standard medical records require clinical knowledge
+- Privacy compliance decisions: manual investigation and reporting of data breaches
+- Standard and training development: regulatory policy updates, internal process design
+- Cross-departmental coordination: communicate with doctors, IT, and management to resolve data issues
+
+**Skills to build:**
+
+- Advanced ICD-10-AM/ACHI coding skills
+- Data governance framework (e.g., ISO 27001)
+- AI coding tool operation and verification
+- Basic data analysis with Python/R
+- Privacy law compliance (e.g., HIPAA/Australian Privacy Act)
+
+**Key growth areas:**
 
 - Health IT
 - Electronic Health Records
@@ -62,68 +94,67 @@ Apply healthcare and IT knowledge to design, develop, and analyze computerized h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要学士及以上学位，雇主担保，每年配额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 硕士学位或学士加5年经验，需PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 学士学位或同等经验，需PERM |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or higher, employer sponsorship, limited annual quota |
+| Subclass EB-2 (Employment-Based Second Preference) | Master's degree or bachelor's plus 5 years experience, requires PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree or equivalent experience, PERM required |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health Information Technologists and Medical Registrars？**
-- 有医疗和IT交叉背景的人
-- 注重细节且善于数据分析的人
-- 希望在医疗行业稳定发展的人
-
-**谁不适合学Health Information Technologists and Medical Registrars？**
-- 不喜欢与医疗数据打交道的人
-- 希望快速升职加薪的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a background in both healthcare and IT
+- Detail-oriented and good at data analysis
+- People who want to develop steadily in the healthcare industry
+
+**Who is not suited**
+- Those who dislike working with medical data
+- Those hoping for quick promotion and salary increase
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for health information technicians?**
+A: Entry-level salary is about USD 45,000–60,000 annually, intermediate 60,000–85,000, senior 85,000–120,000, depending on experience and certifications.
+
+**Q: What is the main immigration pathway for this occupation to the US?**
+A: Primarily through H-1B work visa and EB-2/EB-3 employment-based green cards, requiring employer sponsorship and PERM labor certification.
+
+**Q: What qualifications are required?**
+A: Typically requires a bachelor's degree in health informatics, health management, or a related field; a master's degree can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Health Information Technologists and Medical Registrars的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for health information technologists?**
-答：Entry-level salary around $45,000-$60,000, mid-level $60,000-$85,000, senior $85,000-$120,000 depending on experience and certifications.
-
-**问：What are the main immigration pathways for this occupation?**
-答：Mainly through H-1B visa and EB-2/EB-3 green cards, requiring employer sponsorship and PERM labor certification.
-
-**问：What education is required?**
-答：Typically a bachelor's degree in health informatics, health administration, or related field; a master's degree can enhance competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

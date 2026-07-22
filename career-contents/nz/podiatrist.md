@@ -1,59 +1,92 @@
-# Podiatrist（Podiatrist）职业分析 · 新西兰
+# Podiatrist — career analysis · New Zealand
 
-**职业代码：252611 – Podiatrist。**
+**Occupation code: 252611 (ANZSCO)**
 
-Podiatrists in New Zealand are on the Green List, eligible for direct residence, with stable demand and competitive salaries. Typically requires completing an accredited program, registering with the Podiatry Board of New Zealand, and meeting English requirements.
+Podiatrists in New Zealand are on the Green List, eligible for direct residence pathway immigration, with stable demand and competitive salaries. Typically require completing a recognized program, registration with the Podiatrists Board of New Zealand, and meeting English requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$50,000（如奥塔哥大学等公立高校学费（国际学生）） |
-| 硕士（过渡或专科） | 1-2年 | $30,000~$40,000（部分课程为已持有学士学位者设计） |
+| Bachelor's degree | 4 years | $40,000~$50,000 (Tuition fees (international students) at public universities such as University of Otago) |
+| Master's (transitional or specialized) | 1-2 years | $30,000~$40,000 (Some courses designed for those already holding a bachelor's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 足科医师注册 | 新西兰足科医师委员会 (Podiatry Board of New Zealand) | 必备 | 必须持有认可学历并通过委员会注册，通常包括临床考试 |
-| 英语语言能力证明 | 雅思 / OET / PTE Academic | 必备 | 海外申请人需达到注册语言要求：雅思7.0（单项不低于6.5）或等同 |
-| 年度执业证书 (APC) | 新西兰足科医师委员会 | 必备 | 每年更新，完成CPD要求 |
+| Podiatrist registration | Podiatry Board of New Zealand | Required | Must hold a recognized degree and register with the board, usually including clinical exams |
+| English language proficiency proof | IELTS / OET / PTE Academic | Required | Overseas applicants must meet registration language requirements: IELTS 7.0 (no band less than 6.5) or equivalent |
+| Annual Practising Certificate (APC) | Podiatrists Board of New Zealand | Required | Annual renewal, complete CPD requirements. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 600。新西兰老龄化加剧及糖尿病病患增加，足科服务需求持续上升。未来五年就业增长稳健，尤其在公立医院和私立诊所领域。北岛主要城市机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 600. New Zealand's aging population and increase in diabetes patients are driving continued demand for podiatry services. Steady employment growth over the next five years, especially in public hospitals and private clinics. More opportunities in major cities in the North Island.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 公立医院或诊所初级职位 |
-| 中级（3-6年） | $70,000~$90,000 | 有经验者或专科方向 |
-| 高级（6年以上） | $90,000~$120,000 | 资深临床医师或诊所管理者 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level position at a public hospital or clinic |
+| Mid-level (3–6 years) | $70,000~$90,000 | Experienced individuals or specialized directions |
+| Senior (6+ years) | $90,000~$120,000 | Senior clinician or clinic manager |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级足科医师可在公立医院或私人机构受训，积累经验后晋升为高级临床医师或管理岗。也可专科化（如糖尿病足、运动足科），或开设独立诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Podiatrists' core diagnostic and surgical responsibilities are legally protected and hard to replace by AI; however, tasks like image analysis, referral reports, and medical record sorting are being enhanced by AI tools, putting entry-level positions under automation pressure.
+
+Junior podiatrists can train in public hospitals or private clinics, gain experience, and advance to senior clinician or management roles. They may also specialize (e.g., diabetic foot, sports podiatry) or open their own clinic.
+
+**Tasks most exposed to AI:**
+
+- Preliminary reading and reporting of foot X-ray/ultrasound images
+- Electronic medical record entry and structured organization of medical history
+- Automated generation and scoring of routine foot health assessment questionnaires
+- Patient follow-up appointment reminders and automatic archiving of follow-up results
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems quickly identify abnormalities like foot ulcers and fractures, improving diagnostic accuracy
+- Customize orthotic insole solutions using 3D foot scanning and AI gait analysis
+- Optimizing diabetic foot care plans with AI-analyzed remote patient monitoring data
+- Automated referral letter generation including medical summaries and key clinical findings
+
+**Human moat:**
+
+- Intraoperative Judgment and Manual Operations in Complex Foot Surgery
+- Direct patient communication for history taking, condition explanation, and trust building
+- Handling cases of rare diseases, complications with insufficient AI training data
+- Comprehensive clinical judgment of patient overall health (e.g., diabetes, circulatory system)
+
+**Skills to build:**
+
+- Operate AI image analysis tools (e.g., foot X-ray/ultrasound AI software)
+- Telemedicine platforms and wearable device data interpretation
+- Data literacy - ability to evaluate the reliability of AI diagnostic recommendations
+- Using digital health records and AI-assisted clinical decision systems
+- Orthosis 3D modelling and printing technology
+- AI monitoring tools for chronic wound management
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Podiatrists in New Zealand are on the Green List, eligible for direct residence,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 足科医师在绿色清单Tier 1，可直接申请居留，无需先工作两年。需持相关学历和注册。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 可凭工作经验和学历申请，但优先走绿色清单。需满足6分制要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 可作为过渡工作签证，为认证雇主工作，之后申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Podiatrists are on Green List Tier 1 and can apply for residence directly without working for two years. Must hold relevant qualifications and registration. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Can apply with work experience and qualifications, but prioritize Green List pathway. Must meet 6-point system requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | Can be used as a bridging work visa, work for an approved employer, then apply for residency. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Podiatrist？**
-- 具备医学或健康科学背景，对足部健康有浓厚兴趣者
-- 希望获得快速永久居留的移民申请人
-- 有耐心、沟通能力强的医疗从业者
-
-**谁不适合学Podiatrist？**
-- 不喜与人接触或无法应对患者痛苦者
-- 难以通过严格医学英语考试者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with medical or health science background and strong interest in foot health
+- Immigration applicants seeking fast permanent residency
+- Patient, communicative healthcare professional
+
+**Who is not suited**
+- Those who dislike interacting with people or cannot handle patient suffering
+- Those who struggle with rigorous medical English exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of podiatrists in New Zealand?**
+A: Entry-level annual salary approx. NZD 55,000-70,000, mid-level NZD 70,000-90,000, senior can reach NZD 90,000-120,000. Veteran or those running own clinics earn more.
+
+**Q: How can podiatrists immigrate to New Zealand via the Green List?**
+A: Podiatrists are on Green List Tier 1 and can directly apply for the Straight to Residence Visa. Need to obtain a recognized qualification, complete registration, and meet English language requirements.
+
+**Q: Is overseas podiatry education recognized in New Zealand?**
+A: Requires assessment by the New Zealand Podiatrists Board. Usually, completing an education equivalent to New Zealand standards or taking bridging courses is needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Podiatrist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for podiatrists in New Zealand?**
-答：Entry-level salary ranges from NZD 55,000 to 70,000, mid-level 70,000 to 90,000, and senior up to 90,000 to 120,000. Experienced practitioners or clinic owners may earn more.
-
-**问：How can a podiatrist migrate to New Zealand via the Green List?**
-答：Podiatrists are on Green List Tier 1, eligible for the Straight to Residence Visa. You need an accredited qualification, Podiatry Board registration, and English proficiency.
-
-**问：Is overseas podiatry education recognized in New Zealand?**
-答：It must be assessed by the Podiatry Board of New Zealand. You may need a qualification comparable to NZ standards or bridging courses.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

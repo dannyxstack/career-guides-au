@@ -1,61 +1,97 @@
-# Director (Film, Television, Radio, or Stage)（Director (Film, Television, Radio, or Stage)）职业分析 · DE
+# Director (Film, Television, Radio, or Stage) — career analysis · Germany
 
-**职业代码：9441 – Director (Film, Television, Radio, or Stage)。**
+**Occupation code: 9441 (KldB)**
 
-Directors are the core creative leaders in film, TV, radio, or stage productions, guiding actors, overseeing artistic vision, and managing the production process to deliver projects on time and within budget.
+A director is the core creative leader in film, broadcast, or stage production, responsible for guiding actors, controlling artistic style, coordinating filming or performance processes, and ensuring the project is completed on time and within budget.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（双元制） | 3年（双元制） | —（双元制培训通常由企业承担学费，学生获津贴） |
-| 本科 | 3-4年 | —（公立大学免学费，仅收学期注册费约300欧元/年） |
+| Vocational education (dual system) | 3 years (dual system) | $0~$5,000 (In dual system training, costs are usually covered by the company, and trainees receive an allowance) |
+| Bachelor's degree | 3-4 years | $0~$30,000 (Public universities are tuition-free, only a semester registration fee of about €300/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 影视专业学士学位 | 德国公立艺术大学或应用科学大学 | 可选 | 如柏林艺术大学、波茨坦影视学院，实践导向 |
-| 导演从业经验证明 | 雇主或制片方 | 可选 | 需提供作品集或项目清单，非强制但必备 |
-| 资质认证（学历认证） | 德国学历认证中心（Anabin / ZAB） | 可选 | 第三国学历需认证，非规管职业但雇主常要求 |
+| Bachelor's degree in Film and Television | German public art universities or universities of applied sciences | Optional | Such as Berlin University of the Arts and Potsdam Film School, practice-oriented |
+| Proof of Director Work Experience | Employer or production company | Optional | A portfolio or project list is required, not mandatory but essential |
+| Qualification certification (credential assessment) | German credential evaluation centre (Anabin / ZAB) | Optional | Third-country qualifications require authentication; non-regulated occupation but employers often require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。德国影视及舞台行业稳步发展，流媒体平台和本地制片需求增加，但岗位竞争激烈，自由职业比例高。德国联邦劳工局预计该领域就业机会保持稳定，项目制工作为主。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. The German film, TV and stage industry is developing steadily, with increased demand from streaming platforms and local productions, but competition is fierce and freelancing is common. The German Federal Employment Agency expects stable job opportunities in this field, mostly project-based.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 自由职业者按项目收费，年收入波动大 |
-| 中级（4-7年） | $45,000~$65,000 | 固定岗位如电视导演或副导演 |
-| 高级（8年以上） | $70,000~$100,000 | 知名导演或大型制片项目导演 |
+| Median salary | $52,800 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$40,000 | Freelancers charge per project, with high annual income variability |
+| Mid-level (4-7 years) | $45,000~$65,000 | Fixed roles like TV director or assistant director |
+| Senior (8+ years) | $70,000~$100,000 | Renowned director or director of large-scale production projects |
+| average salary | $63,372 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径通常从助理导演或制片助理起步，积累经验后可晋升为副导演、导演，资深导演可成为制片人或创意总监。部分导演转向广告、游戏过场动画或新媒体领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on the director role is mixed: on one hand, automation tools are taking over tedious technical tasks, lowering the entry barrier; on the other hand, human creativity and leadership remain core, and directors who truly understand AI can gain greater creative freedom.
+
+Career path typically starts as assistant director or production assistant, then advances to associate director, director; senior directors can become producers or creative directors. Some move to advertising, game cinematics, or new media.
+
+**Tasks most exposed to AI:**
+
+- Preliminary casting screening: AI analyzes actor resumes and performance clips to match role requirements
+- Basic storyboarding and storyboard generation: AI automatically generates visual storyboards from text.
+- Real-time cue prompting and teleprompter: AI provides actors with invisible prompting on set
+- Automated material cataloging and rough editing: AI automatically edits the first draft based on markers
+- Automated scheduling of budgets and timelines: AI optimizes shooting plans and resource allocation
+
+**Where AI augments the role:**
+
+- Creative concept and script analysis: AI generates plot variations and character arc analysis to assist director decisions
+- Visual previsualization and style exploration: AI quickly generates previews of different color palettes, lighting, and scene styles
+- On-site filming assistance: AI analyzes camera composition and actor movements in real time, providing optimization suggestions
+- Post-production effects and color grading collaboration: AI-generated pre-compositing effects, automatic color matching
+- Audience testing and feedback simulation: AI predicts audience reactions to different narrative choices based on databases
+
+**Human moat:**
+
+- Intuitive grasp of deep themes and human emotions in scripts
+- Ability for on-site improvisational guidance and actor emotion modulation
+- Cross-departmental creative leadership and final artistic decision-making authority
+- Sensitivity and judgment towards cultural context and social issues
+- Handle unforeseen on-site filming crises (weather, actor conditions, etc.)
+
+**Skills to build:**
+
+- Proficient in using AI-assisted scripting and storyboard tools (e.g., ScriptBook, Storyboard Pro AI plugins)
+- Mastering AI visual effects and real-time engines (e.g., Unreal Engine combined with AI-generated assets)
+- Data analysis and audience profiling interpretation ability
+- Human-machine collaborative team management method
+- Basic programming or script automation (e.g., Python for post-production workflows)
+- Virtual production technology (LED walls, real-time rendering)
+
+**Key growth areas:**
 
 - Streaming content
 - Independent film
@@ -64,69 +100,68 @@ Directors are the core creative leaders in film, TV, radio, or stage productions
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 若作为受雇导演且年薪不低于43,800欧元（2024年标准），可申请欧盟蓝卡，获4年居留 |
-| Subclass Skilled Worker（Skilled Worker Visa for Qualified Professionals） | 针对有大学学历的导演，需雇主提供职位，德语非强制但建议B1 |
-| Subclass Freelancer / Artist （Freelance Visa (Artist Residence Permit)） | 自雇导演可申请艺术家签证，需证明项目来源和收入，首次1-2年居留 |
+| Subclass EU Blue Card (EU Blue Card) | If employed as a director and earning at least €43,800 per year (2024 standard), one can apply for the EU Blue Card, obtaining 4 years of residence. |
+| Subclass Skilled Worker (Skilled Worker Visa for Qualified Professionals) | For directors with a university degree, the employer must provide the position; German is not mandatory but B1 is recommended. |
+| Subclass Freelancer / Artist  (Freelance Visa (Artist Residence Permit)) | Self-employed directors may apply for the artist visa, needing to prove project sources and income, first granted 1-2 years stay |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Director (Film, Television, Radio, or Stage)？**
-- 有强烈视觉叙事和创意表达能力的人
-- 能承受高压项目制工作，适应自由职业状态
-- 具有领导力和团队协作能力
-
-**谁不适合学Director (Film, Television, Radio, or Stage)？**
-- 偏好稳定朝九晚五工作安排的人
-- 缺乏项目管理和时间管理能力的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong visual storytelling and creative expression skills
+- Able to handle high-pressure project-based work and adapt to freelance status
+- Has leadership and teamwork skills.
+
+**Who is not suited**
+- People who prefer stable 9-to-5 work schedules
+- Individuals lacking project management and time management skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a German director?**
+A: German directors are often freelancers with highly variable annual income. Salaried directors earn approx. EUR 45,000-65,000 (mid-level), senior directors up to EUR 70,000-100,000. Entry-level or freelance income may be below EUR 30,000.
+
+**Q: How can a third-country director immigrate to Germany?**
+A: Immigration options include the EU Blue Card (employed and meeting salary threshold), skilled migration visa (requires university degree and employer), or artist visa (self-employed). Usually requires a portfolio and project experience; German B1 level is beneficial.
+
+**Q: What qualifications are required for a director's career?**
+A: Usually requires a bachelor's degree in film or a related field, or completion of dual vocational training. Not mandatory, but employers value practical experience and portfolios. Third-country qualifications need Anabin certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Director (Film, Television, Radio, or Stage)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a director in Germany?**
-答：Directors in Germany are often freelancers, with income varying widely. Employed directors earn around €45,000 to €65,000 per year (mid-level), while senior directors can earn €70,000 to €100,000. Entry-level or freelance income may be below €30,000.
-
-**问：How can directors from third countries immigrate to Germany?**
-答：Options include EU Blue Card (employed with salary threshold), Skilled Worker Visa (university degree and job offer), or Freelance Artist Visa. A portfolio and project experience are essential; German B1 is beneficial.
-
-**问：What qualifications are needed to become a director?**
-答：A bachelor's degree in film or related field, or completed dual vocational training, is common. Practical experience and a portfolio are crucial. Non-German degrees must be recognized via Anabin.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

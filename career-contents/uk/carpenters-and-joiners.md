@@ -1,60 +1,96 @@
-# Carpenters and joiners（Carpenters and joiners）职业分析 · UK
+# Carpenters and joiners — career analysis · United Kingdom
 
-**职业代码：5316 – Carpenters and joiners。**
+**Occupation code: 5316 (SOC)**
 
-Carpenters and joiners construct, erect, install and repair wooden structures and fittings used in internal and external frameworks, and cut, shape, fit and assemble wood to make templates, jigs, scale models and scenic equipment for theatres.
+Carpenters and joiners construct, install, and repair wooden structures and fittings, including internal and external frameworks, and cut, shape, and assemble wood for templates, jigs, scale models, and theatre sets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（雇主资助，无直接学费） |
-| BTEC文凭 | 1-2年 | $3,000~$6,000（职业院校课程） |
-| NVQ三级 | 1-2年 | $1,000~$3,000（在职评估，部分免费） |
+| Apprenticeship | 3-4 years | $0~$0 (Employer-sponsored, no direct tuition fees) |
+| BTEC diploma | 1-2 years | $3,000~$6,000 (Vocational college courses) |
+| NVQ Level 3. | 1-2 years | $1,000~$3,000 (Skills assessment while employed, partially free.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 2级或3级木工 | City & Guilds / Pearson | 必备 | 行业标准资格，多数雇主要求 |
-| CSkills健康安全测试 | CSCS | 必备 | 工地必备卡片 |
-| 职业文凭（BTEC） | Pearson | 可选 | 非必需但有助于就业 |
+| NVQ Level 2 or 3 Carpentry | City & Guilds / Pearson | Required | Industry standard qualification, required by most employers. |
+| CSkills Health Safety Test | CSCS | Required | Essential site cards |
+| Vocational Diploma (BTEC) | Pearson | Optional | Not required but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。英国建筑行业持续增长，住房需求旺盛，木工技能长期紧缺。预计未来十年就业岗位增长约5%，尤其在绿色建筑和翻新项目中需求强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The UK construction industry continues to grow with strong housing demand, and carpentry skills are in long-term shortage. Employment is expected to grow by about 5% over the next decade, with strong demand particularly in green building and renovation projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 学徒起薪约£15-20k，合格后提升 |
-| 中级（3-7年） | $28,000~$38,000 | 经验丰富的木工收入可达£35k+ |
-| 高级/主管（7年以上） | $38,000~$50,000 | 工头或项目经理可达£50k+ |
+| Median salary | $34,014 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Apprentice starting salary around £15-20k, increases after qualification |
+| Mid-level (3–7 years) | $28,000~$38,000 | Experienced carpenters can earn £35k+ |
+| Senior/Supervisor (7+ years) | $38,000~$50,000 | Foreman or project manager can reach £50k+ |
+| average salary | $37,256 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级木工通常通过学徒制进入行业，积累经验后可晋升为高级木工、工头或项目经理。也可专攻细木工、家具制造或古建筑修复等细分领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
+
+Junior carpenters typically enter the trade through apprenticeships and can progress to senior carpenter, foreperson, or project manager with experience. They may also specialize in joinery, furniture making, or heritage restoration.
+
+**Tasks most exposed to AI:**
+
+- Use BIM software for formwork design optimization (AI replaces manual calculation)
+- Automatic inspection of template dimensions and position accuracy through AI image recognition
+- Use drones or laser scanning to automatically measure field data
+- AI-generated cutting lists and material optimization plans
+- Automated template layout linked with CNC cutting.
+
+**Where AI augments the role:**
+
+- AI-assisted augmented reality (AR) headsets provide real-time template installation guidance
+- AI-driven project management tools optimize processes and resource scheduling
+- Digital twin simulates template forces to improve safety and quality
+- AI voice assistant for on-site documentation and reporting
+- Automatically generate construction progress reports and cost estimates
+
+**Human moat:**
+
+- On-site adjustment and manual fabrication of complex irregular formwork
+- Multi-trade coordination and on-site problem-solving skills
+- Experiential judgment of material properties (wood defects, humidity, etc.)
+- Client communication and understanding of customized needs
+- Physical adaptability for working at heights and heavy manual labor
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- Use of AR/VR construction assistance tools
+- CNC woodworking equipment programming and operation.
+- Basic data analysis (e.g., material utilization optimization)
+- Sustainable materials and green building practices.
+- Communication and teamwork (with AI tool assistance)
+
+**Key growth areas:**
 
 - Construction boom
 - Housing demand
@@ -63,68 +99,67 @@ Carpenters and joiners construct, erect, install and repair wooden structures an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的木工岗位，需满足薪资门槛（£26,200/年或行业现行工资）。 |
-| Subclass Scale-up（Scale-up visa） | 适合在快速增长企业工作的木工，需年薪至少£33,000。 |
-| Subclass Graduate（Graduate visa） | 完成学业的国际毕业生可在英国工作2年，积累经验后转技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to carpenter positions with employer sponsorship, must meet salary threshold (£26,200/year or industry prevailing wage). |
+| Subclass Scale-up (Scale-up visa) | Suitable for carpenters working in rapidly growing companies, requiring an annual salary of at least £33,000. |
+| Subclass Graduate (Graduate visa) | International graduates who complete their studies can work in the UK for 2 years and then switch to a Skilled Worker visa after gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Carpenters and joiners？**
-- 喜欢动手、注重细节、有空间想象力的人
-- 追求稳定就业和技能提升的务实人士
-- 愿意从事体力劳动并适应户外工作环境者
-
-**谁不适合学Carpenters and joiners？**
-- 对体力要求高、不适应脏乱环境的人
-- 不喜欢重复性手工操作或无法长时间站立工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like hands-on work, pay attention to detail, and have spatial imagination
+- Pragmatic individuals seeking stable employment and skill enhancement
+- Willing to engage in manual labor and adapt to outdoor work environments
+
+**Who is not suited**
+- Those who cannot tolerate high physical demands or dirty environments
+- People who dislike repetitive manual tasks or cannot stand for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for carpenters in the UK?**
+A: Junior carpenter annual salary approx £20,000-£28,000, intermediate £28,000-£38,000, senior up to £50,000. London area higher salary, but cost of living also high.
+
+**Q: Can carpenters come to the UK on a skilled work visa?**
+A: Yes. Carpentry is on the Skilled Worker shortage occupation list, requiring employer sponsorship and an annual salary of £26,200 or the industry standard.
+
+**Q: What qualifications are needed for carpentry work in the UK?**
+A: Typically requires NVQ Level 2/3 carpentry qualifications, CSCS card (Construction Skills Certification Scheme), and health and safety tests. Apprenticeship is the main pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Carpenters and joiners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for carpenters in the UK?**
-答：Entry-level carpenters earn around £20,000-£28,000, mid-level £28,000-£38,000, and senior up to £50,000. London pays higher but with higher living costs.
-
-**问：Can carpenters come to the UK via skilled migration?**
-答：Yes. Carpenters are on the shortage occupation list for Skilled Worker visa, requiring employer sponsorship and salary of at least £26,200 or going rate.
-
-**问：What certifications are needed to work as a carpenter in the UK?**
-答：Typically NVQ Level 2 or 3 in carpentry, CSCS card, and health and safety test. Apprenticeship is the main route.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

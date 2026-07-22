@@ -1,58 +1,94 @@
-# Head of Software Development and Programming（Head of Software Development and Programming）职业分析 · DE
+# Head of Software Development and Programming — career analysis · Germany
 
-**职业代码：4349 – Head of Software Development and Programming。**
+**Occupation code: 4349 (KldB)**
 
-Leads software development teams, sets technical strategy, manages project delivery, ensures code quality and innovation. Typically a senior management role in large enterprises or tech companies.
+Responsible for leading software development teams, setting technical strategy, managing project delivery, and ensuring code quality and innovation. Typically a senior management role in large enterprises or tech companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（计算机科学或相关领域） | 3-4年 | —（公立大学基本无学费，仅学期费约300欧元/年） |
-| 硕士（计算机科学或相关领域） | 2年 | —（公立大学硕士通常免学费） |
+| Bachelor's degree (Computer Science or related field) | 3-4 years | $0~$3,000 (Public universities have basically no tuition fees, only a semester fee of about 300 EUR per year) |
+| Master's degree (Computer Science or related field). | 2 years | $0~$3,000 (Public university master's programs are typically tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学位 | 德国高校 | 必备 | 通常需硕士以上学历，重点大学优先 |
-| PMP或同等项目管理认证 | PMI或GPM | 可选 | 非强制但普遍要求 |
+| Computer science degree | German universities | Required | Usually requires a master's degree or higher, with preference for key universities |
+| PMP or equivalent project management certification | PMI or GPM | Optional | Not mandatory but commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 45,000。德国数字化转型推动软件管理职位持续增长。受益于工业4.0和AI应用，未来5年岗位预计增长15%以上。
+**Job demand: very high (★★★★½).** National workforce approx. 45,000. Germany's digital transformation drives continuous growth in software management positions. Thanks to Industry 4.0 and AI applications, positions are expected to grow over 15% in the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 年薪毛额 |
-| 中级（3-7年） | $75,000~$95,000 | 年薪毛额 |
-| 高级（7年以上） | $100,000~$140,000 | 年薪毛额 |
+| Median salary | $70,212 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Annual gross salary |
+| Mid-level (3–7 years) | $75,000~$95,000 | Annual gross salary |
+| Senior (7+ years) | $100,000~$140,000 | Annual gross salary |
+| average salary | $73,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 通常从高级开发人员或架构师起步，逐步晋升为团队负责人、部门主管，最终成为CTO或IT总监。需持续学习新技术与管理技能。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+As an executive position, AI finds it hard to replace strategic decision-making and personnel management, but execution tasks like coding and testing will be highly automated; need to transform into an AI-driven tech leader.
+
+Usually starts as a senior developer or architect, then progresses to team lead, department head, and eventually CTO or IT director. Requires continuous learning of new technologies and management skills.
+
+**Tasks most exposed to AI:**
+
+- Code review and defect detection
+- Automated test case generation and execution
+- Basic code writing and refactoring
+- Automatic generation and maintenance of technical documents
+- Performance monitoring and anomaly alerting
+
+**Where AI augments the role:**
+
+- AI-assisted architecture design and technology selection
+- Use AI to generate code templates and prototypes
+- AI-driven project risk prediction and resource planning
+- Automated continuous integration/deployment (CI/CD) optimization
+- AI-enhanced administrative tasks such as meeting minutes and knowledge base management
+
+**Human moat:**
+
+- Technical strategy direction setting and business alignment
+- Team management and talent development, conflict mediation
+- Trade-offs and Innovation Decisions in Complex System Design
+- Cross-departmental collaboration and high-level communication
+- Unstructured problem-solving and crisis management
+
+**Skills to build:**
+
+- AI/ML basics and tool usage (e.g., Copilot, ChatGPT).
+- Generative AI programming and LLM integration
+- AI project management and agile methodologies
+- Data-driven decision-making and analysis skills
+- Technical team leadership and change management
+- Cloud computing and DevOps automation
+
+**Key growth areas:**
 
 - Digital Transformation
 - Industry 4.0
@@ -61,65 +97,64 @@ Leads software development teams, sets technical strategy, manages project deliv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合年薪至少58,400欧元（2024年标准）的管理人员，紧缺职业可降低至45,552欧元。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于有认可学历或职业资格的从业人员，需雇主offer。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许赴德找工作，但需证明语言或专业背景。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for managers earning at least €58,400 per year (2024 standard), with a reduced threshold of €45,552 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to practitioners with recognized qualifications or professional certifications, requiring a job offer from an employer. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job search visa based on points system, allowing travel to Germany to find work, but requires proof of language or professional background. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Head of Software Development and Programming？**
-- 具备技术背景和管理能力的资深开发人员
-- 善于战略规划与团队激励的领导者
-- 希望在德国IT行业担任高层职位的人
-
-**谁不适合学Head of Software Development and Programming？**
-- 偏好纯技术工作而非管理职责的人
-- 缺乏沟通或领导技能的技术人员
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Senior developer with technical background and management skills
+- Strategic planning and team-motivating leader
+- Those aiming for senior positions in the German IT industry
+
+**Who is not suited**
+- Those who prefer pure technical work over managerial responsibilities
+- Technicians lacking communication or leadership skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a software development lead?**
+A: Entry-level about EUR 55,000-70,000, intermediate EUR 75,000-95,000, senior EUR 100,000-140,000. Large tech companies or consultancies may pay more.
+
+**Q: Is it easy for foreigners to immigrate to Germany in this occupation?**
+A: Relatively easy. Due to a shortage of IT management talent, residency can be quickly obtained via an EU Blue Card or skilled migration visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 很高（★★★★★） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Head of Software Development and Programming的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for heads of software development?**
-答：Junior: €55k-70k, mid: €75k-95k, senior: €100k-140k. Large tech firms or consultancies may offer more.
-
-**问：Is it easy for foreigners to immigrate to Germany for this profession?**
-答：Relatively easy. Due to IT management shortage, you can obtain residency via EU Blue Card or Skilled Worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Furniture Finishers（Furniture Finishers）职业分析 · 美国
+# Furniture Finishers — career analysis · United States
 
-**职业代码：51-7021 – Furniture Finishers。**
+**Occupation code: 51-7021 (SOC)**
 
-Furniture Finishers shape, finish, and refinish damaged, worn, or used furniture or new high-grade furniture to specified color or finish.
+Furniture finisher shapes, finishes, and refinishes damaged, worn, or old furniture, as well as high-quality new furniture, to achieve a specified color or surface effect.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（高中或同等学历） |
-| 学徒培训 | 2-4年 | $5,000~$15,000（在职培训或社区大学课程） |
+| High school diploma | 4 years | $0~$0 (High school diploma or equivalent) |
+| Apprenticeship training | 2-4 years | $5,000~$15,000 (On-the-job training or community college courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | N/A | 可选 | 大部分州无特殊执照要求，但需掌握安全操作 |
+| No mandatory license | N/A | Optional | Most states have no special license requirements, but safe operation knowledge is needed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。随着定制家具和古董修复需求稳定，该职业就业前景保持平稳。手工技艺仍受高端市场青睐，但机械化生产可能限制岗位增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. With steady demand for custom furniture and antique restoration, employment outlook for this occupation remains stable. Handcraft skills are still valued in the high-end market, but mechanized production may limit job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级薪资较低 |
-| 中级（3-8年） | $36,000~$48,000 | 经验丰富后薪资提升 |
-| 高级（8年以上） | $48,000~$62,000 | 高级技师或自主创业可达更高 |
+| Median salary | $44,540 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level salary is relatively low |
+| Mid-level (3–8 years) | $36,000~$48,000 | Salary increases with experience |
+| Senior (8+ years) | $48,000~$62,000 | Senior technicians or self-employed can earn higher |
+| average salary | $45,300 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级工人可晋升为高级修饰工或主管，也可转向家具修复、质量控制或自主创业开设工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Furniture finishers face dual impacts from automation and AI assistance: standardized spraying can be automated, but high-precision manual finishing, color matching, and artistic restoration rely on experience and aesthetics and are currently safe; overall workload is reduced but skill requirements increase.
+
+Entry-level workers can advance to senior finisher or supervisor, or transition to furniture restoration, quality control, or start their own studio.
+
+**Tasks most exposed to AI:**
+
+- Uses automated spray painting machines for uniform primer and topcoat application
+- Automatically detect furniture surface defects and record them using AI vision system
+- Use computer color matching software to replace manual mixing of standard color paints
+- Operate CNC grinding machines for standardized surface finishing
+
+**Where AI augments the role:**
+
+- AI-assisted color matching system helps quickly match complex color formulations
+- AR try-on tools let customers preview modifications, reducing rework
+- Automated spraying combined with manual fine painting for high efficiency and quality
+- Digital archive management platforms record restoration techniques, aiding in preserving craftsmanship
+- AI analyzes wood grain to recommend optimal finishing solutions
+
+**Human moat:**
+
+- Complex hand-carved detailing and antique finishing artistic treatments
+- Restoration assessment and material identification of valuable antique furniture
+- Insight into customer needs and aesthetic decisions in client communication
+- Flexibility to adapt to irregular surface conditions during on-site repairs.
+- Mixes multiple media to create unique surface effects
+
+**Skills to build:**
+
+- Proficient in programming and operating automated spraying equipment
+- Learn AI color matching software and color management tools
+- Strengthened hand carving and fine finishing techniques
+- Mastering AR/VR presentation tools for client communication.
+- Learn digital archive management and process documentation methods
+- Enhance knowledge of furniture restoration and materials science
+
+**Key growth areas:**
 
 - Furniture restoration
 - Custom finishes
@@ -62,62 +97,64 @@ Furniture Finishers shape, finish, and refinish damaged, worn, or used furniture
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为工作不满足专业职业要求 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少雇主担保，需证明劳工短缺 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the work does not meet professional occupation requirements |
+| Subclass EB-3 (EB-3 Skilled Workers) | Very few employer sponsorships; need to prove labor shortage |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Furniture Finishers？**
-- 注重细节、有耐心的人
-- 喜欢手工艺术和木工的人
-- 愿意接受在职培训的动手型人才
+**Who is suited**
+- Detail-oriented, patient people
+- People who enjoy handicrafts and woodworking
+- Hands-on individuals willing to accept on-the-job training
 
-**谁不适合学Furniture Finishers？**
-- 追求高薪快速回报的人
-- 不愿在化学品和粉尘环境中工作的人
+**Who is not suited**
+- People seeking high salary and quick returns.
+- People unwilling to work in chemical and dust environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Are furniture finishers paid well?**
+A: Average annual salary: approximately $35,000–$45,000; senior technicians can earn over $50,000, but overall below the US national average.
+
+**Q: Is it easy for furniture finishers to immigrate to the US?**
+A: Very difficult. This occupation usually does not meet H-1B specialty occupation requirements; employer-sponsored green cards are rare, almost no skilled migration pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Furniture Finishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do furniture finishers earn high salaries?**
-答：Average annual salary ranges from $35,000 to $45,000, with experienced finishers earning over $50,000, but overall below national average.
-
-**问：Is it easy to immigrate to the US as a furniture finisher?**
-答：Very difficult. The occupation typically does not qualify for H-1B specialty occupations, and employer-sponsored green cards are rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

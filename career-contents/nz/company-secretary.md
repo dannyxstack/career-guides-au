@@ -1,59 +1,93 @@
-# Company Secretary（Company Secretary）职业分析 · 新西兰
+# Company Secretary — career analysis · New Zealand
 
-**职业代码：221211 – Company Secretary。**
+**Occupation code: 221211 (ANZSCO)**
 
-Company Secretaries ensure compliance with legal and regulatory requirements, maintain company records, manage board meetings, and act as a communication link between shareholders and directors. In New Zealand, this role can lead to residence via Skilled Migrant Category or Green List pathways, requiring relevant experience and qualifications.
+Company secretaries ensure the company complies with legal and regulatory requirements, maintain company records, manage board meetings, and act as a communication bridge between shareholders and the board. In New Zealand, this occupation is eligible for residence through skilled migration or the Green List pathway, requiring relevant experience and qualifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$40,000（新西兰大学商法相关本科年学费） |
-| 硕士 | 1-2年 | $35,000~$50,000（如法律或商业硕士年学费） |
+| Bachelor's degree | 3 years | $30,000~$40,000 (Annual tuition fees for undergraduate business law at New Zealand universities) |
+| Master's degree | 1-2 years | $35,000~$50,000 (e.g., annual tuition for a law or business master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公司秘书文凭（Diploma in Company Secretarial Practice） | Governance New Zealand | 可选 | 非强制，但显著提升就业竞争力 |
-| 特许治理专业人士（Chartered Governance Professional） | Governance New Zealand | 可选 | 高级认证，需工作经验 |
-| 注册会计师（CA）或律师资格 | NZICA / NZLS | 可选 | 部分雇主偏好 |
+| Diploma in Company Secretarial Practice | Governance New Zealand | Optional | Not mandatory, but significantly enhances employability |
+| Chartered Governance Professional | Governance New Zealand | Optional | Advanced certification requiring work experience |
+| Certified Public Accountant (CA) or legal qualification | NZICA / NZLS | Optional | Preferred by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰公司秘书需求稳定，主要集中在奥克兰和惠灵顿的大型企业及上市公司。随着监管环境复杂化，对专业治理人才的需求持续增长。预计未来5年就业增长约5%，初级岗位竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Demand for company secretaries in New Zealand is stable, mainly in large corporations and listed companies in Auckland and Wellington. As the regulatory environment becomes more complex, demand for professional governance talent continues to grow. Employment is expected to increase by about 5% over the next 5 years, with moderate competition for entry-level positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 助理或行政支持岗位 |
-| 中级（3-7年） | $85,000~$110,000 | 独立负责公司治理事务 |
-| 高级（7年以上） | $120,000~$160,000 | 上市公司或大型企业高管 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Assistant or administrative support roles |
+| Mid-level (3–7 years) | $85,000~$110,000 | Independently responsible for corporate governance matters |
+| Senior (7+ years) | $120,000~$160,000 | Executives of listed companies or large enterprises |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级公司秘书或助理可晋升至高级公司秘书，或转向法律、风险管理、合规等岗位。通过获取Governance New Zealand认证（如Chartered Governance Professional），可提升至治理总监或董事会顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Company Secretaries and Administrative Managers face high automation risk; AI can handle many clerical, compliance, and scheduling tasks, but the governance role of senior company secretaries still requires human judgment.
+
+Junior company secretary or assistant can advance to senior company secretary, or move into legal, risk management, compliance roles. Obtaining Governance New Zealand certification (e.g., Chartered Governance Professional) can lead to Governance Director or Board Advisor.
+
+**Tasks most exposed to AI:**
+
+- Document archiving and retrieval: AI automatically classifies, stores, and retrieves company records
+- Dictation transcription and meeting minutes: voice-to-text technology can auto-generate records
+- Initial compliance document review: AI can check standard documents against legal requirements
+- Schedule Management and Meeting Arrangement: Smart Calendar Tools Automatically Coordinate Time
+- Data entry and basic report generation: AI generates reports from structured data
+
+**Where AI augments the role:**
+
+- Corporate governance consulting: AI provides regulatory updates and analysis to aid decision-making.
+- Board support: AI integrates financial and legal data to improve reporting quality
+- Risk management monitoring: AI monitors compliance risk points in real time and alerts potential issues.
+- Shareholder communication: AI-generated personalized reports to improve communication efficiency
+
+**Human moat:**
+
+- Complex compliance decisions: involving legal interpretation and exception rulings
+- Strategic advice and governance: providing board with combined qualitative and quantitative insights.
+- Interpersonal trust and confidentiality: trust and confidentiality when handling sensitive information
+- Cross-departmental coordination: mediating conflicts between different stakeholders
+
+**Skills to build:**
+
+- AI tool application: learn to use compliant AI platforms and automated documentation tools
+- Data Analysis & Interpretation: Extracting insights from AI-generated reports
+- Legal and governance knowledge: deepen understanding of corporate law and governance principles
+- Communication and collaboration: improve coordination with executives and boards
+- Risk management capability: monitor and respond to new digital risks
+- Project management: managing AI-driven compliance projects and digital transformation
+
+**Key growth areas:**
 
 - Skill shortage
 - Steady demand
@@ -62,68 +96,67 @@ Company Secretaries ensure compliance with legal and regulatory requirements, ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（学历+工作经历），需ANZSCO 1-3级技能，薪资中位数以上。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 若职业在绿色清单第二梯队，工作2年后可申请居留。目前公司秘书不在绿色清单，但可通过高薪（中位数两倍）申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见工作签证，需认证雇主担保，满足薪资要求。 |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (qualifications + work experience), requires ANZSCO skill level 1-3, above median salary. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If the occupation is on the Green List Tier 2, residency can be applied for after 2 years of work. Currently, company secretary is not on the Green List, but can be applied for through high salary (twice the median). |
+| Subclass AEWV (Accredited Employer Work Visa) | The most common work visa, requiring employer sponsorship and meeting salary requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Company Secretary？**
-- 具备法律或商业背景，追求稳定职业的毕业生
-- 注重工作生活平衡，偏好办公室环境
-- 有良好沟通和组织能力，对细节高度关注
-
-**谁不适合学Company Secretary？**
-- 讨厌文书工作和规章制度的人
-- 希望快速晋升或高压力环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with legal or business background seeking stable careers
+- Focus on work-life balance, prefer office environment
+- Has good communication and organizational skills, with high attention to detail
+
+**Who is not suited**
+- Those who dislike paperwork and regulations
+- Those seeking rapid promotion or a high-pressure environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a company secretary in New Zealand?**
+A: Entry-level around NZ$65,000-80,000, mid-level NZ$85,000-110,000, senior NZ$120,000-160,000. Depends on experience and company size.
+
+**Q: Can a company secretary immigrate to NZ via the Green List?**
+A: Currently company secretary is not on the Green List, but can apply for Work to Residence (Green List Tier 2) via Skilled Migrant Category (SMC) or high salary (twice the median).
+
+**Q: How to become a company secretary in New Zealand?**
+A: Typically requires a bachelor's degree in commercial law or a related field, and 1-3 years of relevant experience. It is recommended to obtain certification from Governance New Zealand to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Company Secretary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Company Secretary in New Zealand?**
-答：Entry-level: NZD 65,000-80,000; mid-level: NZD 85,000-110,000; senior: NZD 120,000-160,000, depending on experience and company size.
-
-**问：Can a Company Secretary migrate to New Zealand via the Green List?**
-答：The role is not currently on the Green List, but you can apply through the Skilled Migrant Category or via the high-wage threshold for Work to Residence (Green List Tier 2).
-
-**问：How to become a Company Secretary in New Zealand?**
-答：Typically requires a bachelor's degree in business or law, and 1-3 years of experience. Certifications from Governance New Zealand are recommended.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

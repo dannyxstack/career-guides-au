@@ -1,61 +1,94 @@
-# Cook（Cook）职业分析 · IE
+# Cook — career analysis · Ireland
 
-**职业代码：5120 – Cook。**
+**Occupation code: 5120 (ISCO08)**
 
-Cooks are essential in Ireland's hospitality sector, preparing and cooking dishes in restaurants, hotels, pubs, and institutional kitchens.
+Chefs are core roles in Ireland's hospitality industry, responsible for preparing and cooking dishes, working in restaurants, hotels, pubs, and institutional kitchens.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育证书 | 2年 | $2,000~$5,000（公立学院学费，可能获资助） |
-| 本科（烹饪艺术） | 4年 | $10,000~$18,000（大学学费，欧盟学生较低） |
+| Vocational education certificate | 2 years | $2,000~$5,000 (Public college tuition fees, may be eligible for funding) |
+| Bachelor's degree (Culinary Arts) | 4 years | $10,000~$18,000 (University tuition fees, lower for EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 爱尔兰食品安全局 (FSAI) | 必备 | 基本要求，所有厨师必需 |
-| 专业厨师认证 | 爱尔兰酒店管理学院 | 可选 | 提升就业竞争力 |
-| 高级烹饪证书 | 爱尔兰继续教育委员会 | 可选 | 高级培训，晋升管理岗 |
+| Food safety certificate | Food Safety Authority of Ireland (FSAI) | Required | Basic requirement, necessary for all chefs |
+| Professional Chef Certification | Irish Hotel Management School | Optional | Enhance employment competitiveness |
+| Advanced cooking certificate | Further Education and Training Council of Ireland | Optional | Advanced training, promotion to management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。爱尔兰旅游业持续增长，餐饮业需求旺盛，厨师岗位空缺较多，尤其是有经验的厨师。预计未来几年就业保持稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Ireland's tourism sector continues to grow, with strong demand in hospitality and many chef vacancies, especially experienced chefs. Employment is expected to grow steadily in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含小费 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，视餐厅级别 |
-| 高级（7年以上） | $40,000~$55,000 | 行政总厨或餐厅厨师长 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including tips |
+| Mid-level (3–7 years) | $30,000~$40,000 | Gross annual salary, depending on restaurant level |
+| Senior (7+ years) | $40,000~$55,000 | Executive Chef or Head Chef |
+| average salary | $35,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业晋升路径明确：从初级厨师、部门厨师长到行政总厨或餐厅经理。也可通过进修成为西点师、营养师或开自己的餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
+
+Clear career progression path: from junior chef, section chef to executive chef or restaurant manager. Further study can lead to becoming a pastry chef, nutritionist, or opening your own restaurant.
+
+**Tasks most exposed to AI:**
+
+- Standard repetitive cooking tasks such as frying, stir-frying, and other fixed-procedure dishes can be completed by AI-controlled robots.
+- Recipe and ingredient management: AI systems can automatically optimise recipes, calculate ingredient ratios, and generate purchase lists.
+- Inventory counting and ordering: AI vision and barcode scanning systems monitor stock in real time and place orders automatically.
+- Customer ordering and order transmission: self-service kiosks and AI voice systems replace waitstaff taking and passing orders to kitchen.
+
+**Where AI augments the role:**
+
+- Menu innovation and dish development: AI analyzes dietary trends, ingredient pairings, and nutritional data to assist chefs in designing new dishes.
+- Cost control and food procurement: AI systems forecast demand, optimize purchase volumes, reduce waste, and increase profits
+- Quality control and consistency: AI vision systems monitor the color, size, and plating of each dish to ensure standard output.
+- Kitchen scheduling and workflow optimization: AI automatically schedules based on customer flow predictions and coordinates equipment usage to improve efficiency.
+
+**Human moat:**
+
+- Fine manual skills like knife work and heat control: AI cannot replicate a chef's intuition for ingredient texture and craftsmanship.
+- Creativity and personalized customization: improvise flavors and plating based on guest needs, showcasing artistry and human touch
+- Tasting and flavor assessment: human perception of subtle flavors (e.g., acidity, umami) far surpasses any sensor.
+- Kitchen leadership and team collaboration: managing kitchen staff, handling emergencies (e.g., excessive heat, customer complaints), requiring interpersonal coordination.
+
+**Skills to build:**
+
+- Learn to use AI kitchen management systems: e.g., inventory, purchasing, scheduling software such as Mozza or KitchenCUT.
+- Master food science and nutrition analysis: use AI tools to design healthy menus meeting special dietary needs.
+- Data interpretation and cost modeling: adjusting menu pricing and supply strategies based on sales data.
+- Enhance creative cooking and fusion cuisine skills: personalize services beyond standard dishes.
+- Learn to operate and maintain robotic equipment: such as automatic stir-fryers, smart ovens, etc.
+- Enhance leadership and communication skills: manage teams, train new chefs on AI tools.
+
+**Key growth areas:**
 
 - Tourism growth
 - Dining out culture
@@ -64,69 +97,68 @@ Cooks are essential in Ireland's hospitality sector, preparing and cooking dishe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于满足条件的厨师（通常需学士学位或高薪），可快速获得居留和家庭团聚 |
-| Subclass General Employment P（General Employment Permit） | 适用于大多数厨师岗位，需通过劳动力市场测试，工作时间满2年可申请长期居留 |
-| Subclass EU Blue Card（EU Blue Card） | 对非欧盟高技能厨师适用，需年薪高于€34,000且持有学位或5年经验 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to chefs meeting conditions (usually a bachelor's degree or high salary), can quickly obtain residency and family reunification |
+| Subclass General Employment P (General Employment Permit) | Applicable to most chef positions; requires passing a labor market test; after working for 2 years, you can apply for permanent residence. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled chefs, requires annual salary above €34,000 and a degree or 5 years' experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cook？**
-- 热爱烹饪和创造美食
-- 适应快节奏和高压工作环境
-- 愿意从基层做起
-
-**谁不适合学Cook？**
-- 不喜欢站立工作
-- 对卫生和细节不敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cooking and creating culinary delights
+- Adapt to fast-paced and high-pressure work environments
+- Willing to start at the grassroots level.
+
+**Who is not suited**
+- Dislikes standing work
+- Insensitive to hygiene and details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chefs in Ireland?**
+A: Junior chef annual salary approx. €22,000-28,000; mid-level €30,000-40,000; senior €40,000-55,000. Salary varies by experience, city, and restaurant tier, usually includes tips.
+
+**Q: How can non-EU chefs work in Ireland?**
+A: Can apply through a General Employment Permit, requires a job offer from an employer and passing a labour market test. Those who meet conditions can also apply for a Critical Skills Employment Permit or EU Blue Card.
+
+**Q: What certificates do chefs need?**
+A: Basic requirement is a Food Safety Certificate (FSAI). Recommended to obtain a professional chef certification or advanced cooking certificate for career advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cook为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salary levels for cooks in Ireland?**
-答：Entry-level cooks earn around EUR 22,000-28,000 per year; mid-level EUR 30,000-40,000; senior EUR 40,000-55,000. Salaries vary by experience, location, and establishment type, often including tips.
-
-**问：How can non-EU cooks work in Ireland?**
-答：Apply for a General Employment Permit with a job offer and labor market test. Eligible candidates can also apply for Critical Skills Employment Permit or EU Blue Card.
-
-**问：What certifications do cooks need?**
-答：A Food Safety Certificate from FSAI is mandatory. Professional Chef Certification and Advanced Culinary Certificate are recommended for career advancement.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

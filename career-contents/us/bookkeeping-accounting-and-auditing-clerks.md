@@ -1,61 +1,97 @@
-# Bookkeeping, Accounting, and Auditing Clerks（Bookkeeping, Accounting, and Auditing Clerks）职业分析 · 美国
+# Bookkeeping, Accounting, and Auditing Clerks — career analysis · United States
 
-**职业代码：43-3031 – Bookkeeping, Accounting, and Auditing Clerks。**
+**Occupation code: 43-3031 (SOC)**
 
-Compute, classify, and record numerical data to keep financial records complete; perform routine calculating, posting, and verifying duties for accounting purposes.
+Responsible for calculating, classifying, and recording numerical data to maintain complete financial records, including routine calculations, posting, and reconciliation, providing basic financial data for accounting.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均1-3万美元） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities average USD 10,000-30,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 簿记认证 | 美国簿记员协会 | 可选 | CB认证，非强制但提升就业竞争力 |
-| 会计学副学士学位 | 社区学院 | 必备 | 常见入职要求 |
-| 注册会计师 | 各州会计委员会 | 可选 | 高级职位可能需要，但非入门必需 |
+| Associate Degree in Accounting | Community college | Required | Common entry requirements |
+| Bookkeeping certification | American Institute of Bookkeepers | Optional | CB certification, not mandatory but enhances employment competitiveness. |
+| Registered accountant | State boards of accountancy | Optional | May be required for senior positions, but not essential for entry-level roles. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,593,200。美国劳工统计局预计2023-2033年就业增长约4%，与平均水平持平。自动化软件可能减少部分数据录入岗位，但企业财务合规需求仍支撑就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,593,200. The US Bureau of Labor Statistics projects about 4% employment growth from 2023-2033, on par with the average. Automation software may reduce some data entry roles, but corporate financial compliance needs still support employment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $34,000~$44,000 | 年均约39,000美元 |
-| 中级（4-7年） | $44,000~$56,000 | 年均约50,000美元 |
-| 高级（8年以上） | $56,000~$72,000 | 含主管职位 |
+| Median salary | $50,670 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $34,000~$44,000 | Approximately $39,000 per year on average |
+| Mid-level (4-7 years) | $44,000~$56,000 | Annual average about $50,000 |
+| Senior (8+ years) | $56,000~$72,000 | Includes supervisory positions |
+| average salary | $53,560 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级文员起步，通过积累经验和考取认证（如注册会计师）可晋升为会计主管或财务经理；也可转向专业会计、审计或税务领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will automate many data entry, reconciliation, and report generation tasks for bookkeepers, sharply reducing entry-level roles, but practitioners skilled in AI tools can transition to higher-value financial analysis roles.
+
+Start as a junior clerk, then advance to accounting supervisor or financial manager by gaining experience and certifications (e.g., CPA); can also specialize in professional accounting, auditing, or taxation.
+
+**Tasks most exposed to AI:**
+
+- Manually entering transaction data from invoices or receipts.
+- Bank reconciliation and discrepancy adjustment
+- Generate standard financial statements (e.g., trial balance, profit and loss statement)
+- Classify and code repetitive expense items.
+- Regular accounts receivable and payable processing
+
+**Where AI augments the role:**
+
+- Using AI tools for abnormal transaction detection and alerting
+- Real-time financial analysis using automated dashboards
+- Predicts cash flow trends using machine learning models.
+- Automating month-end closing process and validating data integrity
+- Automatically convert unstructured data (e.g., PDF receipts) into structured entries.
+
+**Human moat:**
+
+- Explain complex financial anomalies and provide business advice
+- Communicate financial strategies with clients and management
+- Handling non-standard transactions and accounting judgments
+- Ensure compliance and audit requirements
+- Cross-departmental collaboration and integration of financial and operational data
+
+**Skills to build:**
+
+- Familiar with cloud accounting software such as QuickBooks Online, Xero
+- Proficiency in data analysis tools (e.g., advanced Excel, Power BI)
+- Learn basics of robotic process automation (RPA)
+- Understand basic data modelling and SQL queries
+- Obtain relevant certifications (e.g., CPA, CMA)
+- Developing skills in financial report interpretation and data visualization
+
+**Key growth areas:**
 
 - Automation
 - Compliance
@@ -64,65 +100,67 @@ Compute, classify, and record numerical data to keep financial records complete;
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常需要学士学位，但此职业学历要求不严，申请难度大 |
-| Subclass EB-3（EB-3 Skilled Workers） | 难度较高，需PERM劳工证，雇主通常不愿为文员职位担保 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires a bachelor's degree, but this occupation has flexible educational requirements; applying is difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Relatively difficult, requires PERM labor certification; employers are usually unwilling to sponsor clerical positions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bookkeeping, Accounting, and Auditing Clerks？**
-- 注重细节、有条理的人
-- 喜欢数字和财务记录的人
-- 希望稳定办公室工作的人
+**Who is suited**
+- Detail-oriented, organized person
+- People who like numbers and financial records
+- People who want a stable office job
 
-**谁不适合学Bookkeeping, Accounting, and Auditing Clerks？**
-- 厌恶重复性工作的人
-- 追求高薪和快速晋升的人
+**Who is not suited**
+- People who dislike repetitive work
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for bookkeepers?**
+A: According to BLS data, 2023 median annual salary approx. USD 45,860, entry-level approx. USD 34,000, senior up to USD 70,000+. Significant regional variation; large cities pay higher.
+
+**Q: Is it easy for a foreigner to immigrate to the US as a bookkeeper through a work visa?**
+A: Difficult. This occupation is entry-level clerical; H-1B requires a specialty occupation usually needing a bachelor's degree, and employer sponsorship is low; EB-3 green card requires PERM, rarely used for this role.
+
+**Q: What educational background is required?**
+A: Typically requires an associate degree or relevant course certificate, but not mandatory. A high school diploma with relevant experience can also suffice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bookkeeping, Accounting, and Auditing Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bookkeeping clerks?**
-答：According to BLS, the median annual wage in 2023 was about $45,860; entry-level around $34,000, senior up to $70,000+; varies by location.
-
-**问：Is it easy for foreigners to immigrate as a bookkeeping clerk via work visa?**
-答：Difficult. The occupation is considered clerical; H-1B requires specialty occupation, employers rarely sponsor; EB-3 green card via PERM is uncommon.
-
-**问：What education is required?**
-答：Typically an associate degree or certificate; however, high school diploma with experience may suffice.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

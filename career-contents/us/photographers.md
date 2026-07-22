@@ -1,58 +1,94 @@
-# Photographers（Photographers）职业分析 · 美国
+# Photographers — career analysis · United States
 
-**职业代码：27-4021 – Photographers。**
+**Occupation code: 27-4021 (SOC)**
 
-Photographers capture images of people, landscapes, merchandise, or other subjects using lighting and editing software, including commercial, scientific, and photojournalism roles.
+Photographers take pictures of people, landscapes, products, etc., using lighting and editing software to create images, covering commercial, scientific, and news photography.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$30,000（社区学院或技术学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学或艺术学院学费） |
+| Associate degree | 2 years | $15,000~$30,000 (Community college or technical college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Tuition fees at public universities or art schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摄影学士学位 | 大学或艺术学院 | 可选 | 非强制，但有助于提升技能和就业 |
-| 商业摄影认证 | 专业摄影协会 | 可选 | 如PPA认证，提升专业信誉 |
+| Bachelor of Photography | University or art school | Optional | Not mandatory, but helps improve skills and employability |
+| Commercial photography certification | Professional photography association | Optional | Such as PPA certification to enhance professional credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 148,000。2022-2032年就业增长预计为5%，与所有职业平均水平相当。数字媒体和电商需求推动岗位增长，但竞争激烈，尤其自由职业领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 148,000. Employment growth from 2022-2032 is projected at 5%, similar to the average for all occupations. Demand from digital media and e-commerce drives job growth, but competition is fierce, especially in freelancing.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 助理或自由摄影师 |
-| 中级（3-7年） | $45,000~$65,000 | 商业或婚纱摄影师 |
-| 高级（7年以上） | $65,000~$90,000 | 工作室主理人或知名摄影师 |
+| Median salary | $44,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$45,000 | Assistant or freelance photographer |
+| Mid-level (3–7 years) | $45,000~$65,000 | Commercial or wedding photographer |
+| Senior (7+ years) | $65,000~$90,000 | Studio owner or renowned photographer |
+| average salary | $55,410 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 摄影师可从助理晋升为独立摄影师或工作室主理人。经验积累后可专攻婚纱、商业或医学摄影，或转型为艺术总监、视觉内容经理。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI impact on photographers' careers is mixed: basic photography and post-production are automated, but AI empowers creative expression and business efficiency, making human-machine collaboration the new normal. High freelance rates require photographers to proactively embrace tools and strengthen personal branding.
+
+Photographers can advance from assistant to independent photographer or studio owner. With experience, specialize in wedding, commercial, or medical photography, or transition to art director or visual content manager.
+
+**Tasks most exposed to AI:**
+
+- Basic colour grading and batch post-processing (exposure, colour temperature, etc., automatically preset by AI)
+- Composition and scene recognition for regular wedding/event photos (AI-assisted automatic shooting)
+- Batch product catalog image capture and processing (AI-controlled automated studio)
+- Image archiving and keyword tagging (AI automatic classification and metadata generation)
+- Basic photo retouching (blemish removal, background replacement done by generative AI in one click)
+
+**Where AI augments the role:**
+
+- AI-assisted creative composition suggestions and real-time previews (improving shooting efficiency and success rate)
+- AI-driven complex post-production (e.g., stylized filters, multi-frame compositing, portrait beautification)
+- AI enables smart photo selection and auto-generation of customer albums (saving screening time)
+- Use AI to analyse client preferences, customise shooting plans and post-processing styles
+- AI assists social media marketing (auto-generating captions and promotional materials)
+
+**Human moat:**
+
+- Advanced aesthetic and creative direction (unique control of light, composition, mood)
+- Emotional communication and customized service skills with clients
+- On-the-spot decision-making and emergency response in complex scenarios (weddings, events)
+- Attribution of authorship and personal brand value (clients pay for specific photographers)
+- Cross-disciplinary collaboration (co-creating with designers, directors, marketing teams)
+
+**Skills to build:**
+
+- Proficiently use AI photography and post-processing tools (e.g., Lightroom AI, Photoshop Generative Fill)
+- Human-machine collaborative workflows (AI assists with repetitive tasks, focus on creativity)
+- Video shooting and editing (to meet multimedia content needs)
+- Social media marketing and personal brand management
+- Customer relationship management and project quotation skills
+- Data literacy (analyzing client preferences and work performance)
+
+**Key growth areas:**
 
 - Digital Media
 - E-commerce Photography
@@ -61,68 +97,67 @@ Photographers capture images of people, landscapes, merchandise, or other subjec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等偏低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 适用于受雇于需专业知识的摄影岗位，如商业摄影师，需学士学位或同等经验。 |
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适用于在摄影领域有杰出成就的摄影师，如获得国际奖项或为知名媒体工作。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card (Advanced Degree)） | 适用于拥有硕士以上学位或杰出能力的摄影师，需PERM劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Applies to photography roles requiring specialized knowledge, such as commercial photographer, requiring a bachelor's degree or equivalent experience. |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | Applicable to photographers with outstanding achievements in the field, such as winning international awards or working for well-known media. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | Applies to photographers with a master's degree or higher, or exceptional ability; requires a PERM labor certification. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Photographers？**
-- 对视觉艺术和构图有浓厚兴趣的人
-- 具备创意、耐心和细节观察能力的人
-- 愿意适应新技术和社交媒体趋势的人
-
-**谁不适合学Photographers？**
-- 不擅长自主营销和客户沟通的人
-- 希望稳定收入和固定工作时间的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those with strong interest in visual arts and composition
+- People with creativity, patience, and attention to detail
+- Those willing to adapt to new technology and social media trends
+
+**Who is not suited**
+- People not skilled in self-marketing and customer communication
+- People seeking stable income and fixed working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for photographers in the United States?**
+A: According to BLS data, median annual salary in 2023 is about USD 40,000, lowest 10% below USD 21,000, highest 10% above USD 76,000. Freelance photographers have more variable income.
+
+**Q: Is it easy for photographers to get a US work visa?**
+A: Photographers applying for H-1B or green cards need to prove the position is a specialty occupation (usually requires a bachelor's degree). O-1 visa is for outstanding photographers but with high standards. Overall difficulty moderate to high.
+
+**Q: How to improve a photographer's market competitiveness?**
+A: Developing specialized areas (e.g., commercial, fashion, wedding), building an online portfolio, learning video and social media marketing, and obtaining relevant certifications can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等偏低（★★☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Photographers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for photographers in the US?**
-答：According to BLS, median annual wage is around $40,000 in 2023, with lowest 10% below $21,000 and highest 10% over $76,000. Freelancers' income varies.
-
-**问：Is it easy to get a US work visa as a photographer?**
-答：Photographers need to prove the position is specialty occupation (usually requiring bachelor's degree) for H-1B. O-1 is for those with extraordinary ability. Difficulty is medium-high.
-
-**问：How to improve market competitiveness as a photographer?**
-答：Specialize in niches (commercial, fashion, wedding), build online portfolio, learn video and social media marketing, and obtain relevant certifications.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

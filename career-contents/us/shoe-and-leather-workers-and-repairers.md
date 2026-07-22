@@ -1,60 +1,96 @@
-# Shoe and Leather Workers and Repairers（Shoe and Leather Workers and Repairers）职业分析 · 美国
+# Shoe and Leather Workers and Repairers — career analysis · United States
 
-**职业代码：51-6041 – Shoe and Leather Workers and Repairers。**
+**Occupation code: 51-6041 (SOC)**
 
-Construct, decorate, or repair leather and leather-like products using hand tools, including luggage, shoes, and saddles. A traditional craft trade.
+Use hand tools to make, decorate, or repair leather and similar products, such as luggage, shoes, and saddles. This occupation is in traditional handicraft industries.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常需要高中文凭，多数培训为在职学习） |
-| 职业培训或学徒制 | 1-2年 | $5,000~$15,000（社区学院或职业学校的皮革工艺课程费用） |
+| High school diploma or equivalent | None | $0~$0 (Typically requires a high school diploma, most training is on-the-job) |
+| Vocational training or apprenticeship. | 1-2 years | $5,000~$15,000 (Cost of leather craft courses at community colleges or vocational schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 该职业无法律要求的执照或认证，但雇主偏好有经验者 |
-| 职业证书 | 社区学院或行业协会 | 可选 | 如皮革工艺证书可提升就业竞争力 |
+| No mandatory certification | None | Optional | No legally required license or certification, but employers prefer experienced candidates |
+| Professional certificate | Community colleges or industry associations | Optional | Certificates like leather craft can enhance job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 6,700。美国劳工统计局预测该职业就业人数在2023-2033年间将下降约11%，主要由于自动化生产和进口替代。但高端定制及修复市场仍有稳定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 6,700. The US Bureau of Labor Statistics projects employment in this occupation will decline by about 11% from 2023 to 2033, mainly due to automation and import substitution. However, high-end custom and restoration markets still have stable demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 学徒或入门级岗位 |
-| 中级（3-7年） | $35,000~$45,000 | 熟练技工 |
-| 高级（7年以上） | $45,000~$55,000 | 高级技工或自主经营者 |
+| Median salary | $37,800 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Apprenticeship or entry-level position |
+| Mid-level (3–7 years) | $35,000~$45,000 | Skilled tradesperson |
+| Senior (7+ years) | $45,000~$55,000 | Advanced technician or self-employed |
+| average salary | $39,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从业者通常从学徒做起，积累经验后可晋升为高级技工或工头，也可自主创业开设修理店。部分人转向奢侈品维护或影视道具制作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly reduce demand for shoemaking and leather worker positions, especially in mass production, but high-end customisation and complex repairs still retain opportunities.
+
+Practitioners typically start as apprentices, then can advance to senior technician or foreman, or start their own repair shop. Some transition to luxury maintenance or film prop making.
+
+**Tasks most exposed to AI:**
+
+- Use CNC machines for leather cutting and engraving
+- Automated stitching and bonding processes
+- Design and pattern generation for standard shoe models.
+- Inventory management and order processing
+- Visual inspection in quality control (via machine vision)
+
+**Where AI augments the role:**
+
+- Using CAD software for custom footwear design
+- Custom shoe shaping through AI analysis of customer foot data
+- Use 3D scanning and printing to quickly create prototypes
+- Optimizing material management with digital inventory systems
+- Using machine learning to predict trends
+
+**Human moat:**
+
+- Complex manual repair techniques (e.g., vintage leather shoe restoration)
+- Artistic custom design ability
+- Deep intuition and experience with leather materials
+- One-on-one client communication and trust building
+- On-site judgment for handling non-standard, severely damaged items
+
+**Skills to build:**
+
+- CAD/CAM software (e.g., Rhino, AutoCAD)
+- 3D scanning and printing technology
+- Digital sewing and cutting equipment operation
+- Customer relationship management and digital marketing
+- Knowledge of sustainable materials and processes
+- Basic programming (for automated equipment debugging).
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,65 +99,67 @@ Construct, decorate, or repair leather and leather-like products using hand tool
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 该职业通常不符合H-1B专业职业要求，一般不适合 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-2/EB-3)） | 雇主担保绿卡可能性低，因工作性质非专业职业且规模小 |
+| Subclass H-1B (H-1B Specialty Occupation) | This occupation typically does not meet H-1B specialty occupation requirements and is generally not suitable |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Low likelihood of employer-sponsored green card due to non-professional nature of work and small scale |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoe and Leather Workers and Repairers？**
-- 喜欢手工制作和修复工作的人
-- 注重细节和耐心的人
-- 愿意在小众市场创业或从事高端定制的人
+**Who is suited**
+- People who enjoy handmade and restoration work
+- Detail-oriented and patient people
+- People willing to start a business or engage in high-end customization in a niche market
 
-**谁不适合学Shoe and Leather Workers and Repairers？**
-- 追求高薪和快速职业晋升的人
-- 担心行业萎缩和就业不稳定的人
+**Who is not suited**
+- People seeking high salary and fast career advancement
+- People worried about industry decline and job instability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of shoemakers and leather workers?**
+A: According to US Bureau of Labor Statistics, median annual salary in 2023 was about $33,000; entry-level positions may be below $25,000, senior technicians up to $45,000+; income varies by region and experience.
+
+**Q: Can foreigners apply for a US work visa through this occupation?**
+A: Very difficult. This occupation generally does not qualify for H-1B specialty occupation. Employer-sponsored green cards are nearly impossible. O-1 visa may be possible for exceptionally talented individuals but with high bar.
+
+**Q: What is the future outlook for this occupation?**
+A: BLS projects an 11% decline due to automation and imports. However, niche luxury repair and custom work maintain steady demand. Suitable for entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Shoe and Leather Workers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for shoe and leather workers?**
-答：According to BLS, the median annual wage in 2023 was about $33,000. Entry-level positions may earn under $25,000, while skilled workers can exceed $45,000. Income varies by location and experience.
-
-**问：Can foreigners obtain a US work visa through this occupation?**
-答：Very difficult. This occupation generally does not qualify for H-1B specialty occupation. Employer-sponsored green cards are nearly impossible. O-1 visa may be possible for exceptionally talented individuals but with high bar.
-
-**问：What is the future outlook for this occupation?**
-答：BLS projects an 11% decline due to automation and imports. However, niche luxury repair and custom work maintain steady demand. Suitable for entrepreneurship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

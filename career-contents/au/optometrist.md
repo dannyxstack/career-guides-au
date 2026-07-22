@@ -1,66 +1,96 @@
-# 验光师（Optometrist）职业分析 · 澳大利亚
+# Optometrist — career analysis · Australia
 
-**职业代码：251411 – Optometrist。**
+**Occupation code: 251411 (ANZSCO)**
 
-验光师检查和评估视觉系统，开具眼镜/隐形眼镜处方，并诊断和管理眼部疾病（治疗性验光）。澳大利亚验光师执业范围持续扩大（处方滴眼液权限），是从业人数少、收入高且PR友好的医疗职业。
+Optometrists examine and assess the visual system, prescribe glasses/contact lenses, and diagnose and manage eye conditions (therapeutic optometry). The scope of practice for optometrists in Australia continues to expand (including prescription eye drop authority), making it a low-volume, high-income, PR-friendly healthcare profession.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Optometry / Master of Optometry（4~5年） | 4~5年（全日制） | $25,000~$200,000（澳洲国际生约 $40,000~$48,000/年；政府补贴名额约 $8,000~$10,000/年） |
-| 海外资历评估（OBA + AHPRA注册） | 6~18个月 | $2,000~$7,000（含 Optometry Board of Australia 评估和AHPRA注册费） |
+| Bachelor of Optometry / Master of Optometry (4–5 years) | 4–5 years (full-time) | $25,000~$200,000 (Approx. $40,000–$48,000/year for international students in Australia; government-subsidised places approx. $8,000–$10,000/year.) |
+| Overseas qualification assessment (OBA + AHPRA registration) | 6–18 months | $2,000~$7,000 (Including assessment by the Optometry Board of Australia and AHPRA registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor/Master of Optometry | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Optometrist Registration | AHPRA / Optometry Board of Australia | 必备 | 全国统一注册，无此注册不得执业 |
-| Therapeutic Endorsement（治疗性验光认证） | AHPRA / Optometry Board | 可选 | 全国各州现已普及，增强诊疗权限 |
+| Bachelor/Master of Optometry | Recognised university | Required | Baseline qualification for AHPRA registration |
+| AHPRA Optometrist Registration | AHPRA / Optometry Board of Australia | Required | Nationally unified registration; practice is not permitted without this registration |
+| Therapeutic Endorsement | AHPRA / Optometry Board | Optional | Now widely available across all states, expanding prescribing and clinical rights |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 8,000。JSA 预测验光师至2035年就业增长约15%。人口老龄化（白内障、黄斑变性增加）、青少年近视流行和治疗性验光执业范围扩大是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. JSA projects employment growth of approximately 15% for optometrists by 2035. The main drivers are an ageing population (increasing rates of cataracts and macular degeneration), the prevalence of myopia among young people, and an expanded scope of practice for therapeutic optometry.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~900 个 | 全国，含眼镜零售连锁、独立诊所、医院和农村岗 |
-| Indeed | 250~600 个 | 含兼职和合同工 |
-| LinkedIn | 100~300 个 | 偏诊所合伙人和眼科连锁管理岗 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册验光师（0~2年） | $75,000~$95,000 | 眼镜零售连锁（OPSM/Specsavers），含基本薪 |
-| 中级验光师（2~8年） | $95,000~$125,000 | Indeed 平均 $106,055；SEEK 区间 $90k~$125k（2026） |
-| 资深验光师 / 诊所主任（8年+） | $125,000~$175,000 | 独立诊所持股或主任职位，薪资显著提升 |
-| 农村/偏远地区验光师 | $110,000~$165,000 | 农村眼科服务极度短缺，津贴和签约奖金显著 |
+| Median salary | $123,750 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Newly registered optometrist (0–2 years) | $75,000~$95,000 | Optical retail chains (OPSM/Specsavers), including base salary |
+| Intermediate optometrist (2–8 years) | $95,000~$125,000 | Indeed average $106,055; SEEK range $90k–$125k (2026) |
+| Senior Optometrist / Clinic Director (8+ years) | $125,000~$175,000 | Equity in an independent practice or director-level position leads to significantly higher remuneration |
+| Rural/remote area optometrist | $110,000~$165,000 | Severely under-served rural eye care, with notable allowances and sign-on bonuses |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★☆）。** 治疗性验光（含处方滴眼液权限）在全国各州普及，大幅提升验光师的诊疗价值。农村眼科服务严重短缺，验光师享PR快速通道。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
+
+Therapeutic optometry (including authority to prescribe eye drops) is now available across all states, significantly increasing optometrists' clinical value. There is a severe shortage of eye care services in rural areas, and optometrists benefit from an expedited PR pathway.
+
+**Tasks most exposed to AI:**
+
+- Objective refraction data collection in routine refractive exams (auto-refractor result interpretation)
+- Basic retinal image screening and grading (AI automatically labels abnormalities)
+- Patient appointment, medical record entry and other administrative paperwork (chatbots and NLP)
+- Generation of preliminary diagnostic reports for common eye diseases (AI-assisted diagnostic system)
+- Calculation and optimization of eyeglass/contact lens prescription parameters
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of OCT, visual field and other imaging data in complex case diagnosis to improve accuracy
+- Remote refraction and electronic prescription transfer to expand service scope and efficiency
+- Patient education: AI generates personalized visual health reports and follow-up reminders
+- Medication management: AI supports prescription interaction checks and efficacy predictions for eye drops
+- Clinical research: using AI to mine epidemiological trends from electronic medical records
+
+**Human moat:**
+
+- Final prescribing authority and legal responsibility (regulated by AHPRA)
+- Doctor-patient communication and trust building (complex empathy and education)
+- Clinical decision-making and experience-based judgment for atypical/multimorbidity cases
+- Surgical/therapeutic procedures (e.g., orthokeratology fitting, low vision rehabilitation)
+- Interdisciplinary collaboration (referral decisions with GPs and ophthalmologists)
+
+**Skills to build:**
+
+- Operation and interpretation of AI eye diagnosis tools (e.g., IDx-DR, Topcon AI)
+- Use of telemedicine platforms and electronic health record management
+- Statistical data analysis (Python/R) for clinical quality assessment
+- Doctor-patient communication and digital patient education skills
+- Basic programming (automated reporting and workflow optimization)
+- Regulatory updates tracking (expansion of therapeutic optometry prescribing rights in Australia)
+
+**Key growth areas:**
 
 - Therapeutic Optometry (Prescribing)
 - Myopia Control & Paediatric Optometry
@@ -70,91 +100,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，验光师为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，农村眼科服务优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区眼科服务，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; optometrist is a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, rural eye care services prioritised |
+| Subclass 491 (Skilled Work Regional) | Remote area ophthalmology services, nomination points bonus of 15 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学验光师？**
-- 已持有国内眼视光学/验光配镜学位（4~5年制）
-- 英语能力达到 OET B / IELTS 7.0
-- 接受农村就业以快速获取PR和额外补贴
-- 对眼科诊断和视觉健康管理有深厚兴趣
-- 目标是独立验光诊所合伙人或农村眼科服务
-
-**谁不适合学验光师？**
-- 英语能力较弱，OBA评估困难
-- 无法接受农村派驻
-- 只想从事纯配镜零售（澳洲更重视临床诊断）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already hold a domestic degree in optometry/optometry dispensing (4-5 year program)
+- English proficiency at OET B / IELTS 7.0
+- Accept rural employment to fast-track PR and receive additional subsidies.
+- Strong interest in ophthalmic diagnostics and visual health management
+- Goal is to become a partner in an independent optometry practice or provide rural eye care services
+
+**Who is not suited**
+- Weak English proficiency makes the OBA assessment difficult
+- Unable to accept rural postings
+- Only interested in pure optical retail (Australia places greater emphasis on clinical diagnostics)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an optometrist in Australia?**
+A: Mid-level optometrist salary approx. $95,000~$125,000 (Indeed average $106,055); senior optometrist/clinic director approx. $125k~$175k; rural areas with subsidies approx. $110k~$165k.
+
+**Q: Is it easy for optometrists to find work in Australia?**
+A: Easy. The profession has only around 8,000 practitioners, rural optometry services are in severe shortage, and licensed optometrists are hired almost immediately after registration. Chains such as Specsavers actively recruit overseas optometrists.
+
+**Q: Is a Chinese optometry degree recognised in Australia?**
+A: Complete an OBA (Optometry Board of Australia) academic assessment, then apply for AHPRA registration once standards are confirmed. The main hurdle is English proficiency (OET B / IELTS 7.0+). Assessments for graduates from certain top universities (e.g. Sun Yat-sen University) optometry programmes tend to be easier to pass.
+
+**Q: Will optometrists be replaced by AI?**
+A: Replacement risk is low. AI retinal scan diagnostics (e.g. diabetic retinopathy screening) are advancing rapidly, but prescribing, contact lens fitting, and patient consultation still require a licence. The expansion of therapeutic optometry has actually increased the value of optometrists.
+
+**Q: Is there an age limit for optometrists in Australia?**
+A: No upper age limit for practice. The working environment is comfortable, with no night shifts and no significant age restrictions — one of the least physically demanding roles in the healthcare sector.
+
+**Q: What qualifications do optometrists need in Australia?**
+A: Requires an optometry degree (Bachelor/Master of Optometry, 4–5 years). An overseas optometry/opticianry bachelor's degree (4–5 years) may be assessed through the OBA evaluation pathway.
+
+**Q: Is it difficult to become a registered optometrist in Australia?**
+A: Moderate difficulty. The OBA assessment is primarily an academic qualification review and does not involve the high-difficulty clinical examinations required for dental ADC. English proficiency is the main barrier.
+
+**Q: Which is more suitable for migrating to Australia: optometrist or dentist?**
+A: Optometrists have a smaller workforce (~8,000 vs ~18,000) with a similar supply-demand gap; dentists earn higher salaries ($130k–$220k vs $95k–$125k) but the ADC clinical examination is more difficult. Optometry offers lower work intensity, no night shifts, and an overall better work-life balance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA / Optometry Board | 验光师注册和治疗性认证要求 |
-| Indeed AU | 验光师平均薪资 $106,055（2026） |
-| Optometry Australia | 验光师行业协会和职业发展 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-验光师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲验光师工资多少？**
-答：中级验光师年薪约 $95,000~$125,000（Indeed平均$106,055）；资深验光师/诊所主任约 $125k~$175k；农村地区含补贴约 $110k~$165k。
-
-**问：澳洲验光师容易找工作吗？**
-答：容易。从业人数仅约8,000，农村眼科服务极度短缺，持证后几乎立即入职，Specsavers等连锁集团主动招募海外验光师。
-
-**问：中国验光学位澳洲认可吗？**
-答：通过 OBA（澳洲验光委员会）学历评估，确认标准后申请AHPRA注册。主要门槛是英语成绩（OET B/IELTS 7.0+）。部分顶尖院校（如中山大学）的眼视光专业评估较容易通过。
-
-**问：验光师会被AI替代吗？**
-答：替代风险较低。AI眼底扫描诊断（如糖尿病视网膜病变筛查）发展迅速，但处方开具、接触镜适配和患者咨询仍需执照。治疗性验光扩权反而增加了验光师价值。
-
-**问：澳洲验光师有年龄限制吗？**
-答：无执业年龄上限。工作环境舒适，无夜班，对年龄无明显限制，是医疗类职业中工作强度最低的之一。
-
-**问：澳洲验光师需要什么学历？**
-答：需要眼视光学位（Bachelor/Master of Optometry，4~5年制）。国内眼视光学/验光配镜本科（4~5年制）可申请OBA评估。
-
-**问：澳洲验光师认证难吗？**
-答：难度中等。OBA评估主要是学历审核，不需要像牙医ADC那样的高难度临床考试。英语是最主要门槛。
-
-**问：验光师和牙医哪个更适合移民澳洲？**
-答：验光师从业人数更少（~8,000 vs ~18,000），供需缺口相近；牙医薪资更高（$130k~$220k vs $95k~$125k），但ADC临床考试更难。验光师工作强度低、无夜班，整体生活质量更高。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

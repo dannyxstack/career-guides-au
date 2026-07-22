@@ -1,59 +1,95 @@
-# Service Station Attendant（Service Station Attendant）职业分析 · IT
+# Service Station Attendant — career analysis · Italy
 
-**职业代码：5245 – Service Station Attendant。**
+**Occupation code: 5245 (ISCO08)**
 
-Responsible for refueling, cashier duties, customer service, and basic vehicle maintenance at gas stations; an entry-level role in retail services.
+Responsible for fueling, cashiering, customer service, and basic vehicle maintenance at gas stations; an entry-level role in the retail service industry.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无学历要求 | —（无需正式教育） |
-| 职业培训 | 短期培训（3个月） | $500~$1,500（部分雇主提供免费培训） |
+| Junior high school graduation | No education requirement | $0~$0 (No formal education required) |
+| Vocational training | Short-term training (3 months) | $500~$1,500 (Some employers offer free training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主通常提供在职培训 |
+| No mandatory qualification requirements | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。意大利加油站服务员岗位需求稳定，但受自动化加油和电动汽车普及影响，长期呈缓慢下降趋势。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. Demand for petrol station attendant positions in Italy is stable, but due to the spread of automated refuelling and electric vehicles, it is slowly declining in the long term.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 基于全国平均，含津贴 |
-| 中级（2-5年） | $22,000~$26,000 | 含夜班补贴 |
-| 高级（5年以上/主管） | $26,000~$32,000 | 主管级 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $18,000~$22,000 | Based on national average, including allowances |
+| Intermediate (2-5 years) | $22,000~$26,000 | Includes night shift allowance |
+| Senior (5+ years / supervisor) | $26,000~$32,000 | Supervisor level |
+| average salary | $24,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从加油站服务员晋升为站点主管或区域经理，也可转向零售、客户服务或物流行业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Service station attendant roles will face significant impact from automated checkout and payment systems, but AI-enhanced customer service and vehicle maintenance capabilities create new value-added opportunities. While the total number of positions may decrease in the short term, the skill requirements for remaining jobs will increase.
+
+Can advance from gas station attendant to site supervisor or regional manager, or transition to retail, customer service, or logistics.
+
+**Tasks most exposed to AI:**
+
+- Checkout and settlement: AI self-service payment terminals and mobile apps complete transactions without manual pricing and payment.
+- Refuelling operation: automatic refuelling robot adapts to standard vehicles, achieving safe and efficient refuelling.
+- Inventory counting: AI vision systems automatically monitor oil and convenience store stock, providing real-time replenishment alerts.
+- Invoicing: electronic invoice system automatically generates and sends to customer email or app.
+- Simple inquiries: AI chatbots or in-site voice assistants handle common questions such as fuel prices and route guidance.
+
+**Where AI augments the role:**
+
+- Customer Relationship Maintenance: AI analyzes purchase records to recommend personalized offers and car wash services, boosting repeat purchase rates.
+- Vehicle health diagnostics: AI-assisted OBD reader quickly detects tire pressure, oil status, and provides value-added suggestions.
+- Safety management: AI cameras identify violations (e.g., smoking, not shutting down engines), automatically alert and guide staff intervention.
+- Shift optimization: AI predicts peak traffic and dynamically adjusts staffing to improve operational efficiency.
+- Training and coaching: AR/VR simulation systems enhance the effectiveness of safety and service standard training for new employees at gas stations.
+
+**Human moat:**
+
+- Complex vehicle services: handling non-standard fuel caps, older vehicles, or special fuel needs requires human judgment.
+- Emergency incident handling: unstructured issues such as oil spills or customer conflicts require on-site decision-making and calming skills.
+- High-value customer relationships: providing personalised care, empathetic communication, and trust maintenance for long-term clients.
+- Multi-task coordination: simultaneously handle fuel queue, convenience store cashier, restroom cleaning, and other ad hoc tasks.
+- Non-standard equipment maintenance: hands-on repair skills for sudden faults in old fuel dispensers, POS anomalies, etc.
+
+**Skills to build:**
+
+- AI customer service and data analysis tools (such as CRM systems, simple report analysis)
+- Basic vehicle diagnostic knowledge (OBD reading, tyre pressure monitoring) or operation of electronic assist tools
+- Non-verbal communication and conflict mediation skills (for handling dissatisfied customers)
+- Multi-tasking and priority management (using digital kanban)
+- Safety awareness and emergency response (oil spills, initial fire handling).
+- Small retail operations (inventory management, POS system troubleshooting)
+
+**Key growth areas:**
 
 - Automation
 - EV transition
@@ -62,62 +98,64 @@ Responsible for refueling, cashier duties, customer service, and basic vehicle m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟低技能工人，但加油站服务员通常不在优先职业列表中，配额有限。 |
-| Subclass 欧盟自由流动（EU Free Movement） | 仅限欧盟/EEA公民，无需签证即可在意大利工作。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU low-skilled workers, but gas station attendants are usually not on priority occupation lists, and quotas are limited. |
+| Subclass EU Freedom of Movement (EU Free Movement) | EU/EEA citizens only; no visa required to work in Italy. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Service Station Attendant？**
-- 愿意从事体力服务工作的年轻人
-- 无需高学历的求职者
-- 寻求灵活兼职或轮班工作的人
+**Who is suited**
+- Young people willing to engage in physical service work
+- Job seekers without a high degree
+- Seeking flexible part-time or shift work
 
-**谁不适合学Service Station Attendant？**
-- 追求高薪和晋升空间的人
-- 对自动化替代风险敏感的人
+**Who is not suited**
+- Those seeking high salary and advancement opportunities
+- Those sensitive to automation replacement risk
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for gas station attendants?**
+A: Entry-level annual salary is approximately €18,000–22,000, which can exceed €26,000 with experience.
+
+**Q: Can non-EU citizens immigrate to Italy through this occupation?**
+A: Very difficult. This occupation is not in high demand, and the Decreto Flussi quota is limited, usually prioritizing other industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 极低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Service Station Attendant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for service station attendants?**
-答：Entry-level annual salary ranges from €18,000 to €22,000, increasing to over €26,000 with experience.
-
-**问：Can non-EU citizens immigrate to Italy through this occupation?**
-答：Very difficult. This role is not in shortage and Decreto Flussi quotas are limited, usually prioritizing other sectors.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

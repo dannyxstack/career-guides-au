@@ -1,60 +1,96 @@
-# Office Manager（Office Manager）职业分析 · 新西兰
+# Office Manager — career analysis · New Zealand
 
-**职业代码：512111 – Office Manager。**
+**Occupation code: 512111 (ANZSCO)**
 
-Oversees daily admin, procurement, facilities and HR coordination, acting as operational hub for SMEs. This occupation is not on the Green List or long-term shortage list, making skilled migration pathways limited; typically requires an Accredited Employer Work Visa (AEWV) to work in New Zealand.
+Oversee administration, procurement, facilities and HR coordination; it is the operational hub for SMEs. This occupation is not on the Green List or Long Term Skill Shortage List, making skilled migration difficult; typically requires an Accredited Employer Work Visa (AEWV) to work in New Zealand.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（商业/管理） | 3年 | $30,000~$40,000（新西兰大学学费，国际学生年约2.5-3.5万NZD） |
-| 专科文凭（商业行政） | 2年 | $20,000~$28,000（理工学院年约1.5-2.5万NZD） |
+| Bachelor degree (Business/Management) | 3 years | $30,000~$40,000 (New Zealand university tuition, international students approximately NZD 25,000-35,000 per year) |
+| Diploma in Business Administration | 2 years | $20,000~$28,000 (Polytechnic around NZD 15,000-25,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰商业文凭（NZDipBus） | 新西兰理工学院 | 可选 | 常见学历要求，非强制 |
-| 雅思总分6.0 | IELTS | 可选 | 工签/移民英语要求 |
+| New Zealand Diploma in Business (NZDipBus) | New Zealand Institute of Technology | Optional | Common educational requirement, not mandatory |
+| IELTS overall 6.0 | IELTS | Optional | Work visa/immigration English requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,500。新西兰就业前景平稳，每年新增约200-300个岗位，主要集中在奥克兰和惠灵顿。疫情影响下远程办公趋势增加，但办公室经理需求依然稳健，未来五年增长率约3%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 6,500. New Zealand employment outlook is stable, with about 200-300 new roles annually, mainly in Auckland and Wellington. Remote work trends increased during the pandemic, but office manager demand remains steady, with a ~3% growth over the next five years.
 
-**竞争度：中等偏上（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$62,000 | 常见起薪 |
-| 中级（3-6年） | $62,000~$75,000 | 中等经验水平 |
-| 高级（7年以上） | $75,000~$95,000 | 大型企业或管理多个分支机构可达更高 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$62,000 | Common starting salary |
+| Mid-level (3–6 years) | $62,000~$75,000 | Mid-experience level. |
+| Senior (7+ years) | $75,000~$95,000 | Larger companies or those managing multiple branches can achieve higher. |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从行政助理晋升至办公室经理，再向运营经理或行政总监发展。部分人转向人力资源或财务协调岗位，积累经验后可管理更大团队或负责多分支机构事务。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Office manager roles face significant automation compression risk; AI and software directly replace core tasks like admin scheduling, document processing, and budget monitoring, but complex interpersonal coordination and strategic decisions still require humans.
+
+Can progress from administrative assistant to office manager, then to operations manager or administrative director. Some transition to HR or finance coordination roles, and with experience, can manage larger teams or multiple branch operations.
+
+**Tasks most exposed to AI:**
+
+- Schedule and meeting room coordination: AI tools automatically detect conflicts and optimize timelines
+- Purchase order processing: AI-driven system automatically matches inventory and generates orders
+- Routine financial report statistics: AI extracts data from ERP and generates monthly budget reports
+- Employee Attendance and Scheduling: AI Forecasts Staffing Needs Based on Historical Traffic
+- Office supply replenishment: AI monitors stock levels and auto-orders.
+
+**Where AI augments the role:**
+
+- Supplier negotiation: AI provides historical prices and alternative solution data to support decision-making
+- Incident coordination: AI aggregates departmental feedback in real-time and recommends solutions
+- Employee satisfaction analysis: AI processes questionnaire sentiment scores to aid benefit improvements
+- Compliance report writing: AI-generated first draft quickly finalized after human review
+- Budget alerts: AI predicts overspending risks and sends warnings
+
+**Human moat:**
+
+- Handling high-level interpersonal conflicts and sensitive employee disputes
+- Making strategic priority judgments in ambiguous situations
+- Cross-departmental cultural change and team cohesion
+- Maintain long-term trust relationships with key suppliers and clients
+- Taking ultimate responsibility for unconventional, high-risk decisions
+
+**Skills to build:**
+
+- Integrate AI office assistants (e.g., Microsoft Copilot, ChatGPT API) into task workflows
+- Learn data analysis fundamentals (SQL, BI tools) to autonomously generate management dashboards
+- Upgrade communication and negotiation skills to strengthen interpersonal moat
+- Obtain project management certification (PMP, PRINCE2) to manage AI-assisted hybrid teams
+- Learn Low-Code/Automation Platforms (Zapier, Power Automate) to Build Workflows
+- Understand basic employment laws and compliance requirements to review AI outputs
+
+**Key growth areas:**
 
 - AEWV
 - Stable Demand
@@ -63,65 +99,67 @@ Oversees daily admin, procurement, facilities and HR coordination, acting as ope
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见工作签证，需雇主获得认证，工资需达到新西兰中位数 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，但办公室经理非优先职业，需满足6分制要求，难度较大 |
+| Subclass AEWV (Accredited Employer Work Visa) | most common work visa, requires employer accreditation and salary meeting the New Zealand median |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, but office manager is not a priority occupation; must meet the 6-point system, which is quite difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Office Manager？**
-- 有2年以上行政或管理经验、希望横向转管理岗的职场人
-- 善于多任务协调、沟通能力强的细致型人才
-- 愿意从AEWV工签起步，暂不追求立即移民的申请者
+**Who is suited**
+- Professionals with over 2 years of administrative or management experience seeking a lateral move into management
+- Detail-oriented talent skilled in multitasking and strong communication
+- Applicants willing to start with an AEWV work visa and not immediately pursue residency
 
-**谁不适合学Office Manager？**
-- 期望通过技术移民快速获得居民身份的人
-- 坚持高薪、对文职工作缺乏耐心的人
+**Who is not suited**
+- Those expecting to quickly obtain permanent residency through skilled migration
+- Those who insist on high salary and lack patience for clerical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for an office manager in New Zealand?**
+A: Annual salary around NZD 60,000-80,000, junior about NZ$50,000, senior up to NZ$95,000+, depending on industry, city, and company size.
+
+**Q: Can an office manager immigrate to New Zealand via skilled migration?**
+A: This occupation is not on the Green List or long-term shortage list. Skilled Migrant Category (SMC) requires meeting the 6-point system (qualifications + experience combination), and employer sponsorship is difficult. Typically only possible via Accredited Employer Work Visa (AEWV) first, then attempting migration.
+
+**Q: What is the career path for an office manager?**
+A: Can advance from administrative assistant to office manager, then to operations manager, administrative director, or transition into specialized areas like HR, financial coordination, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（1-2年）（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏上（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Office Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Office Manager in New Zealand?**
-答：Annual salary ranges from NZD 60,000 to 80,000, with entry-level around 50,000 and senior up to 95,000+, depending on industry, city, and company size.
-
-**问：Can an Office Manager migrate to New Zealand through skilled migration?**
-答：This occupation is not on the Green List or long-term shortage list. Skilled Migrant Category (SMC) requires 6 points via qualifications and experience, but employer sponsorship is difficult. Typically only via AEWV to work first, then possible immigration.
-
-**问：What is the career progression for an Office Manager?**
-答：Can progress from Admin Assistant to Office Manager, then to Operations Manager, Admin Director, or pivot to HR/Finance coordination roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

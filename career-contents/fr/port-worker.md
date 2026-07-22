@@ -1,60 +1,95 @@
-# Port Worker（Port Worker）职业分析 · FR
+# Port Worker — career analysis · France
 
-**职业代码：N3203 – Port Worker。**
+**Occupation code: N3203 (ROME)**
 
-Performs loading, unloading, and stacking of cargo in ports using forklifts, cranes, and other equipment to ensure efficient transfer between ships and land.
+At ports, they engage in manual operations such as cargo loading, handling, and storage, using forklifts, cranes, and other equipment to ensure efficient cargo flow between ships and land.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求，但CAP或BTS物流专业有优势 | 2年（CAP） | —（公立学校免费，学徒制有工资） |
-| BTS物流与运输管理 | 2年（BTS） | —（公立学校免费，私立约3000-5000欧元/年） |
+| No educational requirements, but CAP or BTS logistics majors have advantages | 2 years (CAP) | $0~$3,000 (Public schools are free, and apprenticeships are paid) |
+| BTS Logistics and Transport Management | 2 Years (BTS) | $0~$5,000 (Public schools are free, while private ones pay about 3,000-5,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作证书（CACES R489） | 法国劳动部认可的培训组织 | 必备 | 操作叉车的必备证书，需每5年更新 |
-| 港口安全培训 | 港口管理局或雇主 | 必备 | 包括消防、急救和危险品处理 |
+| Forklift Operation Certificate (CACES R489) | A training organization recognized by the French Ministry of Labor | Required | The mandatory certificate for forklift operation must be renewed every 5 years |
+| Port safety training | Port authority or employer | Required | Including firefighting, first aid, and hazardous materials handling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 30,000。法国港口货运量稳定增长，尤其是集装箱和散货领域；但自动化趋势可能减少部分岗位，需掌握基本设备操作技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 30,000. French port cargo volume steadily increased, especially in the container and bulk cargo sectors; However, the trend toward automation may reduce some positions requiring basic equipment operation skills.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含加班费 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，领班或设备操作员 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual salary before tax, including overtime pay |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, for foremen or equipment operators |
+| average salary | $32,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从普通搬运工晋升为设备操作员（如叉车或起重机司机），或转向物流协调岗位；经验丰富者可担任团队领班或安全监督。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Port handlers face deep impacts from AI and automation, but they are not entirely irreplaceable; Manual loading and unloading and complex coordination still rely on human judgment, and entry-level positions have been greatly reduced as automation becomes widespread.
+
+You can be promoted from a regular handler to an equipment operator (such as a forklift or crane driver), or move to logistics coordination roles; Experienced candidates may serve as team leaders or safety supervisors.
+
+**Tasks most exposed to AI:**
+
+- Goods scanning and automatic sorting
+- Fixed routes for repeated handling (such as containers moving from ship to truck)
+- Inventory records and paper document processing
+- Standardized quality inspection (such as size and weight inspection)
+- Simple report generation (such as daily load summaries)
+
+**Where AI augments the role:**
+
+- AI-optimized yard layout and route planning
+- Wearable devices monitor fatigue and safety in real time
+- Machine vision assists hazardous material identification
+- Predictive Maintenance Reminders (Forklifts/Cranes)
+- Multilingual automatic translation and communication with crew members
+
+**Human moat:**
+
+- On-site judgment of sudden failures or non-standardized goods
+- Multi-equipment coordination and emergency command
+- Risk decision-making during severe weather
+- On-site customer coordination and interpersonal communication
+
+**Skills to build:**
+
+- Operation of port automation systems (such as TOS).
+- Basic programming and robot troubleshooting
+- Data analysis (Excel/SQL processing of logistics data)
+- Safety and Compliance Certification (IMO/OSHA)
+- English or multilingual communication
+- IoT device management
+
+**Key growth areas:**
 
 - port logistics
 - container handling
@@ -63,62 +98,64 @@ Performs loading, unloading, and stacking of cargo in ports using forklifts, cra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主担保，且职位需通过劳动力市场测试（优先欧盟公民），非紧缺职业获批较难。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 仅对高技能或高薪岗位开放，基层搬运工不符合条件。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Requires a French employer sponsor, and the position must pass a labour market test (priority to EU citizens); non-shortage occupations are difficult to obtain approval. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Open only to high-skilled or high-wage positions; basic warehouse workers do not qualify. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Port Worker？**
-- 体力良好、能适应户外和轮班工作的人
-- 希望快速进入劳动力市场、无需高学历者
-- 喜欢操作机械和设备的人
+**Who is suited**
+- People with good physical fitness, able to adapt to outdoor and shift work
+- Seeking quick entry into the labor market without requiring high education
+- People who enjoy operating machinery and equipment
 
-**谁不适合学Port Worker？**
-- 对高强度体力劳动不适应的人
-- 希望获得高薪或快速晋升的人
+**Who is not suited**
+- People who are not suited to high-intensity physical labor
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for port handlers?**
+A: Entry-level approx. EUR 22,000-26,000 gross; mid-level approx. EUR 26,000-32,000; senior can reach EUR 38,000. Overtime and night shift allowances can increase income.
+
+**Q: Can foreign immigrants immigrate to France through this profession?**
+A: It is difficult because the profession is not in short supply and France prioritizes hiring EU citizens. Unless you have a French employer sponsorship and obtain a labor market exemption, there is almost no pathway to skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Port Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a port worker?**
-答：Entry-level earns €22,000-€26,000 gross, mid-level €26,000-€32,000, and senior up to €38,000. Overtime and night shifts can increase earnings.
-
-**问：Can foreign immigrants migrate to France through this occupation?**
-答：Very difficult, as it is not in shortage and France prioritizes EU citizens. Unless employer-sponsored with labor market exemption, there is almost no skilled migration pathway.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

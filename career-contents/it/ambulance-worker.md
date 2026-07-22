@@ -1,59 +1,95 @@
-# Ambulance Worker（Ambulance Worker）职业分析 · IT
+# Ambulance Worker — career analysis · Italy
 
-**职业代码：3258 – Ambulance Worker。**
+**Occupation code: 3258 (ISCO08)**
 
-Ambulance workers provide emergency medical care, patient transport, and equipment operation, playing a key role in Italy's emergency medical services.
+Ambulance workers are responsible for emergency medical rescue, including on-site first aid, patient transport, and medical equipment operation, and are key members of Italy's emergency medical services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 1-2年（职业课程） | $2,000~$5,000（公立机构费用较低，私立稍高） |
-| 本科（医疗急救科学） | 3年（本科） | $3,000~$8,000（公立大学学费，可申请助学金） |
+| High school graduation + professional training | 1-2 years (vocational courses) | $2,000~$5,000 (Public institutions have lower fees, private slightly higher) |
+| Bachelor's degree (Medical Emergency Science) | 3 years (bachelor's) | $3,000~$8,000 (Tuition fees at public universities, with eligibility for financial aid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救员职业资格 | 意大利紧急医疗服务机构 | 必备 | 完成培训并通过考试 |
-| 驾驶执照B类+急救驾驶培训 | 交通管理局 | 必备 | 需额外培训 |
-| 高级生命支持证书 | 专业培训机构 | 可选 | 可选，提升竞争力 |
+| First aid occupational qualification | Italian emergency medical services provider | Required | Complete training and pass the exam |
+| Driver's license Class B + emergency driving training | Transport authority. | Required | Requires additional training |
+| Advanced life support certificate | Professional training institutions | Optional | Optional, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。意大利老龄化加剧，紧急医疗需求持续增长，预计未来5年就业岗位增加10-15%，尤其在北部和中部地区。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Italy's aging population is exacerbating, with growing demand for emergency medical services. Employment is expected to increase by 10-15% over the next 5 years, particularly in the northern and central regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，因地区而异 |
-| 中级（4-10年） | $28,000~$35,000 | 包括津贴和加班费 |
-| 高级（10年以上） | $35,000~$45,000 | 含管理职责补贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, varies by region |
+| Mid-level (4-10 years). | $28,000~$35,000 | including allowances and overtime pay |
+| Senior (10+ years) | $35,000~$45,000 | Including management responsibility allowance |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从初级急救员可晋升为高级急救员、团队负责人，或通过进修成为护士、医生，也可转向医疗调度或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of ambulance staff (on-site emergency care, patient assessment) are unlikely to be replaced by AI in the short term, but auxiliary tasks (medical records, navigation and dispatch, supply management) will see significant automation. Overall workforce numbers remain stable, but skill requirements will increase.
+
+From entry-level paramedic can advance to senior paramedic, team leader, or further study to become nurse, doctor, or move to medical dispatch or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic Generation of Electronic Medical Records and Reports
+- Optimal route planning and real-time traffic scheduling
+- Inventory count and automatic replenishment of medical supplies
+- Automatic monitoring and alerting of basic vital signs
+- Ambulance cabin environment monitoring and disinfection records
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic decision support (e.g., ECG interpretation, allergy alerts)
+- Remote medical collaboration (experts guide on-site first aid via AR glasses)
+- Multilingual real-time translation communication system
+- Patient data-driven personalized emergency care recommendations
+- Virtual reality scenarios in training and simulation drills
+
+**Human moat:**
+
+- Rapid assessment and decision-making for complex on-site injuries
+- Emotional communication and psychological support with patients and families
+- Team coordination and leadership in chaotic environments.
+- Creative problem-solving in unforeseen situations
+- Legal and ethical responsibilities (e.g., decision to terminate resuscitation)
+
+**Skills to build:**
+
+- Basic AI tool use (e.g., speech-to-text, automated reporting software)
+- Data analysis and insights (identifying trends from patient data)
+- Telemedicine collaboration technology (AR/VR device operation)
+- Cross-cultural communication and multilingual ability
+- Continuous learning and adaptability (tracking new technologies)
+- Basic programming or scripting (optimizing workflows)
+
+**Key growth areas:**
 
 - aging population
 - emergency care demand
@@ -62,69 +98,68 @@ Ambulance workers provide emergency medical care, patient transport, and equipme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能救护人员，需大学学历和合同，薪资门槛约25,000欧元/年。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民通过年度配额申请，需雇主担保，适合低级职位。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需申请工作许可，流程较长，主要针对紧缺职位。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民可直接在意大利工作，无需签证。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled ambulance personnel, requiring a university degree and contract, with a salary threshold of approximately €25,000 per year. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply through an annual quota, require employer sponsorship, suitable for lower-level positions. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers need to apply for work permits, which involves a lengthy process, mainly for occupations in shortage. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work directly in Italy without a visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ambulance Worker？**
-- 抗压能力强，能应对紧急情况
-- 身体健康，能适应轮班工作
-- 有同情心和团队合作精神
-
-**谁不适合学Ambulance Worker？**
-- 不善于在压力下冷静决策
-- 对医疗场景或血液感到不适
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong resilience to stress, able to handle emergencies
+- Physically fit and able to work shifts.
+- Possess compassion and teamwork skills
+
+**Who is not suited**
+- Not good at making calm decisions under pressure
+- Discomfort with medical scenes or blood
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for ambulance workers?**
+A: Junior annual salary €22,000-28,000, intermediate €28,000-35,000, senior up to €45,000, higher in the northern regions.
+
+**Q: How can a foreigner become an ambulance worker in Italy?**
+A: Non-EU citizens need to apply through the Decreto Flussi quota or an EU Blue Card. Employer sponsorship and professional qualification recognition are required.
+
+**Q: What educational background is required to become an ambulance worker?**
+A: At least a high school diploma and 1-2 years of professional training, or pursue a 3-year bachelor's degree in paramedical science.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Ambulance Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for ambulance workers?**
-答：Entry-level annual salary is 22,000-28,000 EUR, mid-level 28,000-35,000 EUR, senior up to 45,000 EUR, higher in northern regions.
-
-**问：How can foreigners become ambulance workers in Italy?**
-答：Non-EU citizens can apply via Decreto Flussi quota or EU Blue Card, requiring employer sponsorship and recognized qualifications.
-
-**问：What education is needed to become an ambulance worker?**
-答：At least high school diploma plus 1-2 years vocational training, or a 3-year bachelor's in emergency medical science.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

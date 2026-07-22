@@ -1,60 +1,97 @@
-# Florist（Florist）职业分析 · DE
+# Florist — career analysis · Germany
 
-**职业代码：1220 – Florist。**
+**Occupation code: 1220 (KldB)**
 
-Florists design, create and sell floral and plant arrangements, including bouquets, baskets and wedding decorations, working in flower shops, garden centers or event planning companies.
+Florists design, create, and sell floral and plant decorations, including bouquets, baskets, wedding decor, etc., often working in flower shops, garden centers, or event planning companies.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，学费由企业承担） |
-| 进阶培训（Meister） | 1-2年（全职） | $5,000~$15,000（考试费及课程费用，部分可获补贴） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Allowance during training, tuition covered by employer) |
+| Advanced training (Meister) | 1-2 years (full-time) | $5,000~$15,000 (Exam and course fees, with potential subsidies.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 花艺师职业资格证书 | 德国工商业协会（IHK） | 必备 | 完成3年双元制培训并通过结业考试 |
-| 花艺大师证书 | 德国工商业协会（IHK） | 可选 | 可选进阶，允许培训学徒和独立开店 |
+| Florist vocational qualification | German Chamber of Commerce and Industry (IHK) | Required | Completion of a 3-year dual-system training and passing the final exam |
+| Master Florist Certificate | German Chamber of Commerce and Industry (IHK) | Optional | Optional advanced level, allows training apprentices and independent shop operation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 50,000。德国花卉市场稳定，婚庆、节日等社会需求持续；但受线上电商冲击，实体花店面临竞争，就业机会总体平稳，顶尖花艺人才较稀缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. The German flower market is stable with sustained social demand from weddings and festivals; however, online e-commerce is challenging physical flower shops. Employment opportunities are generally stable, with top florists being relatively scarce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，取决于州和雇主 |
-| 中级（3-6年） | $28,000~$35,000 | 税前年薪，经验丰富者更高 |
-| 高级（6年以上/大师） | $35,000~$45,000 | 税前年薪，自雇者收入可能更高 |
+| Median salary | $31,464 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $23,000~$28,000 | Pre-tax annual salary, depending on state and employer |
+| Mid-level (3–6 years) | $28,000~$35,000 | Annual pre-tax salary, higher with experience. |
+| Senior (6+ years/Master) | $35,000~$45,000 | Pre-tax annual salary; self-employed may earn more |
+| average salary | $32,952 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 学徒可晋升为主管花艺师或店长；积累经验后可自营花店；通过大师考试成为花艺大师（Floristmeister），可培训学徒或经营大型花店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly simplify the execution of floral design but cannot replace creativity and customer interaction; overall risk is manageable, requiring proactive adoption of tools to improve efficiency.
+
+Apprentices can advance to head florist or store manager; with experience, can open their own flower shop; by passing the master exam, become a Floristmeister, able to train apprentices or operate large flower shops.
+
+**Tasks most exposed to AI:**
+
+- Automated bouquet design (rule-based and trend-driven)
+- Inventory management and procurement forecasting
+- Common flower identification and care tips
+- online order processing and basic customer Q&A
+- Flower price comparison and cost calculation
+
+**Where AI augments the role:**
+
+- Use generative AI to quickly create floral design inspiration and visualization proposals.
+- AI-assisted customer preference analysis to provide personalised recommendations
+- Smart inventory system maintains optimal freshness and turnover of flowers
+- Automated generation and performance analysis of social media content.
+- Virtual reality (VR) preview of floral arrangements for weddings and other events
+
+**Human moat:**
+
+- Unique artistic aesthetic and creativity
+- On-the-spot improvisational design and adaptability
+- Deep emotional communication and trust with clients
+- Deep understanding of local culture and seasonal floral materials
+- Fine manual skills (e.g., winding, framing).
+- Full coordination of complex events (weddings, funerals)
+
+**Skills to build:**
+
+- Floral design software (e.g., Floral Design Studio)
+- AI image generation tools (Midjourney, DALL·E)
+- Social media marketing and content management
+- Digital Inventory Management System
+- Customer relationship management (CRM) and data analysis
+- Knowledge of sustainable design and eco-friendly materials
+
+**Key growth areas:**
 
 - Floral Design
 - Event Decoration
@@ -63,65 +100,67 @@ Florists design, create and sell floral and plant arrangements, including bouque
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德找工作的6个月签证，但需证明经济能力 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制度的找工作签证，可能适用于非紧缺职业 |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month visa for job seeking in Germany, but must prove financial means |
+| Subclass Chancenkarte (Opportunity Card) | Job search visa based on a points system, may apply for non-occupations in shortage |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Florist？**
-- 热爱花卉植物、有审美创意的人
-- 愿意接受3年职业培训的年轻人
-- 细心、耐心且善于客户沟通者
+**Who is suited**
+- People who love plants and flowers with aesthetic creativity
+- Young people willing to undergo 3 years of vocational training
+- Candidates who are careful, patient, and skilled in customer communication
 
-**谁不适合学Florist？**
-- 追求高薪或快速晋升者
-- 对花粉、化学药剂过敏者
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Those allergic to pollen or chemicals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a florist in Germany?**
+A: Depending on experience level, florists typically earn between €23,000 and €45,000 pre-tax annually; masters or self-employed individuals may earn more.
+
+**Q: Can foreign florists immigrate to Germany?**
+A: Florist is not a shortage occupation in Germany, making immigration difficult. Usually requires completing a recognized 3-year dual-system training in Germany or passing qualification assessment to obtain a work visa.
+
+**Q: How can a florist advance to become a master florist?**
+A: After completing 3 years of dual-system training, attend 1-2 years of full-time master courses and pass exams to obtain the title of Master Florist, qualifying to train apprentices and open a shop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Florist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a florist in Germany?**
-答：Depending on experience, gross annual salary ranges from €23,000 to €45,000, with masters or self-employed florists potentially earning more.
-
-**问：Can foreign florists immigrate to Germany?**
-答：Floristry is not a shortage occupation, making immigration difficult. Usually requires completion of a recognized 3-year dual training in Germany or credential recognition for a work visa.
-
-**问：How can a florist become a master florist?**
-答：After completing a 3-year dual training, you can attend a 1-2 year full-time master course and pass the exam to obtain the title of Floristmeister, enabling you to train apprentices and open your own shop.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

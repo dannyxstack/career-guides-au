@@ -1,61 +1,97 @@
-# Psychology Teachers, Postsecondary（Psychology Teachers, Postsecondary）职业分析 · 美国
+# Psychology Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1066 – Psychology Teachers, Postsecondary。**
+**Occupation code: 25-1066 (SOC)**
 
-Teach psychology courses at postsecondary level, including child, clinical, and developmental psychology, often combining teaching with research.
+Teach psychology courses at universities, such as child psychology, clinical psychology, developmental psychology, etc., covering teaching and research.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士 | 4年 | $40,000~$150,000（公立大学费用较低） |
-| 博士 | 5-7年 | —（通常有全额奖学金覆盖） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Lower tuition at public universities) |
+| Doctorate | 5-7 years | $0~$200,000 (Usually covered by full scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学博士学位 | 美国大学 | 必备 | 几乎所有岗位要求 |
-| 州教学执照（如适用） | 州教育委员会 | 可选 | 仅公立社区学院要求 |
-| 心理学执照（临床教学） | 州心理学委员会 | 可选 | 如教授临床课程需持有 |
+| Doctorate in Psychology | U.S. universities | Required | Required for almost all positions |
+| State teaching license (if applicable) | State Board of Education | Optional | Required only for public community colleges |
+| Psychology license (clinical teaching) | State psychology board | Optional | If teaching clinical courses, must hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 18,200。美国就业增长稳定，因高等教育需求持续，但终身教职竞争激烈。预计2023-2033年就业增长约4%，接近平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 18,200. US employment growth is stable due to sustained higher education demand, but competition for tenure-track positions is intense. Employment is projected to grow about 4% from 2023 to 2033, near average.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授） | $55,000~$75,000 | 多数公立大学 |
-| 中级（副教授） | $70,000~$95,000 | 含终身教职 |
-| 高级（正教授） | $90,000~$140,000 | 顶尖大学更高 |
+| Median salary | $80,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (Assistant Professor) | $55,000~$75,000 | Most public universities |
+| Intermediate (Associate Professor) | $70,000~$95,000 | Includes tenure track |
+| Senior (full professor) | $90,000~$140,000 | Higher at top universities |
+| average salary | $93,860 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理教授起步，晋升副教授、教授，或转向研究型职位、行政岗（如系主任）。需持续发表研究成果。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on psychology professors is mixed: data analysis in teaching and research can be automated, but clinical supervision, ethical judgment, and interpersonal insight are irreplaceable.
+
+Usually start as assistant professor, progress to associate professor, professor, or shift to research positions, administrative roles (e.g., department chair). Requires continuous research output.
+
+**Tasks most exposed to AI:**
+
+- Use AI for literature search and systematic reviews
+- Generate statistical reports and basic data visualizations
+- Grade standardized tests and quantitative assignments
+- Record and produce basic instructional video content
+- Manage online forums and FAQs for courses
+
+**Where AI augments the role:**
+
+- Using AI to analyze large-scale behavioral data to discover new theoretical patterns
+- Provide personalized learning paths through adaptive learning platforms.
+- Use AI to simulate complex clinical cases for teaching demonstrations
+- Use natural language processing tools to assess student writing and discourse quality
+- Automatically generates research hypotheses and designs validation experiments
+
+**Human moat:**
+
+- Ethical judgments in clinical psychological assessment and supervision
+- Build deep trust relationships with students and patients
+- Interdisciplinary theory integration and critical thinking
+- Human insight and contextual understanding in qualitative research
+- Handling unstructured emotional and psychological crisis intervention
+
+**Skills to build:**
+
+- Machine learning and psychology data science (e.g., Python/R)
+- AI teaching tool design (e.g., adaptive learning platforms)
+- Application of Natural Language Processing in qualitative analysis
+- Knowledge at the intersection of AI ethics and psychology
+- Digital therapeutics and remote psychological assessment technology
+- Human-computer interaction experiment design
+
+**Key growth areas:**
 
 - stable growth
 - higher education demand
@@ -64,63 +100,68 @@ Teach psychology courses at postsecondary level, including child, clinical, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于高校教授，受年度配额限制，但高校免抽签 |
-| Subclass EB-2（EB-2 Advanced Degree） | 需PERM劳工证或国家利益豁免，适合有博士学位的教授 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于有杰出研究成果的教授 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to university professors, subject to annual quota, but universities are exempt from the lottery |
+| Subclass EB-2 (EB-2 Advanced Degree) | Requires PERM labor certification or National Interest Waiver, suitable for professors with PhD |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to professors with outstanding research achievements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Psychology Teachers, Postsecondary？**
-- 热爱教学和研究，能承受多年博士训练
-- 善于学术写作和公开发表
-- 愿意在高校环境中长期发展
+**Who is suited**
+- Loves teaching and research, able to endure years of doctoral training.
+- Skilled in academic writing and public publication
+- Willing to develop long-term in a university environment
 
-**谁不适合学Psychology Teachers, Postsecondary？**
-- 不喜欢学术研究和论文发表
-- 寻求快速高薪就业，不愿多年攻读博士
+**Who is not suited**
+- Dislikes academic research and paper publishing
+- Seeking quick high-paying employment without pursuing a PhD for many years
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for psychology professors?**
+A: US psychology professor salaries vary by rank and institution type. Assistant professors earn about $55,000-75,000, full professors up to $90,000-140,000. Top research universities pay more but are competitive.
+
+**Q: How can international people immigrate to the US through this occupation?**
+A: Typically goes through H-1B university exemption (lottery-free) or EB-2 green card. Requires PhD and published papers. University sponsorship is limited and competitive.
+
+**Q: What is the career development path for a psychology professor?**
+A: Starts as assistant professor, then a probation period of about 6 years for tenure evaluation, promotion to associate professor, and then 5-7 years to full professor. Can also move to administrative roles like department chair.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Psychology Teachers, Postsecondary属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for psychology professors?**
-答：Salaries vary by rank and institution type: assistant professors earn $55k-$75k, full professors $90k-$140k. Top research universities pay more but competition is intense.
-
-**问：How can international professionals immigrate through this occupation?**
-答：Typically via H-1B cap-exempt for universities or EB-2 green card. Requires PhD and publications. Employer sponsorship is limited and competitive.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

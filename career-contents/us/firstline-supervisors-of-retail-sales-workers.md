@@ -1,60 +1,96 @@
-# First-Line Supervisors of Retail Sales Workers（First-Line Supervisors of Retail Sales Workers）职业分析 · 美国
+# First-Line Supervisors of Retail Sales Workers — career analysis · United States
 
-**职业代码：41-1011 – First-Line Supervisors of Retail Sales Workers。**
+**Occupation code: 41-1011 (SOC)**
 
-Directly supervise and coordinate retail sales workers, handling purchasing, budgeting, accounting, and personnel.
+Directly supervise and coordinate sales activities of a retail store or department, including purchasing, budgeting, accounting, and personnel management.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 副学士学位 | 2年 | $5,000~$15,000（社区学院年均学费） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| Associate degree | 2 years | $5,000~$15,000 (Average annual tuition at community college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 高中 | 必备 | 最低要求 |
-| 零售管理认证 | 国家零售联合会 | 可选 | 非必须但有利于晋升 |
+| High school diploma | High school | Required | Minimum requirements |
+| Retail management certification | National Retail Federation | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,453,500。美国劳工统计局预计零售销售主管岗位数量基本持平，年增长约1%，因零售业自动化和电商冲击，但人员流动大仍有一定需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,453,500. The US Bureau of Labor Statistics projects retail sales supervisor positions to remain roughly flat, with annual growth of about 1%, due to retail automation and e-commerce impact, but high turnover still creates some demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 部分含佣金 |
-| 中级（3-7年） | $32,000~$42,000 | 包括业绩奖金 |
-| 高级（7年以上） | $42,000~$55,000 | 大型零售店或区域主管 |
+| Median salary | $48,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Some include commission |
+| Mid-level (3–7 years) | $32,000~$42,000 | Includes performance bonuses |
+| Senior (7+ years) | $42,000~$55,000 | Large retail store or regional supervisor |
+| average salary | $53,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 通常从销售员晋升，可发展为区域经理、店长或零售运营经理，部分进入采购或商品管理领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+Usually promoted from salesperson, can advance to regional manager, store manager, or retail operations manager, with some moving into purchasing or merchandise management.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - Retail trade
 - E-commerce impact
@@ -63,65 +99,67 @@ Directly supervise and coordinate retail sales workers, handling purchasing, bud
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少使用，因该职位通常不要求本科学位，不符合专业职业要求。 |
-| Subclass L-1（L-1 Intracompany Transferee） | 适用于跨国公司内部调派的管理人员，但需证明担任管理职务。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely used, as this position typically does not require a bachelor's degree, not meeting professional occupation requirements. |
+| Subclass L-1 (L-1 Intracompany Transferee) | Applicable for managers transferred within multinational companies, but must demonstrate managerial duties. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Retail Sales Workers？**
-- 喜欢与人打交道，善于沟通和协调
-- 有零售经验，愿意从基层做起
-- 能适应轮班和快节奏工作环境
+**Who is suited**
+- Enjoys interacting with people, good communication and coordination
+- Have retail experience, willing to start at the entry level.
+- Able to adapt to shift work and fast-paced work environment
 
-**谁不适合学First-Line Supervisors of Retail Sales Workers？**
-- 追求高收入和稳定职业前景
-- 抗拒销售压力和体力劳动
+**Who is not suited**
+- Pursuing high income and stable career prospects
+- Resistance to sales pressure and physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a retail sales supervisor?**
+A: Average annual salary in 2023 is about $37,000, junior about $27,000, senior up to $50,000+.
+
+**Q: Can a Retail Sales Supervisor apply for a US work visa?**
+A: Very difficult, as this position usually does not meet H-1B specialty occupation requirements (needs a bachelor's degree), and PERM labor certification struggles to prove market shortage.
+
+**Q: How to advance to retail regional manager?**
+A: Typically requires 3-5 years of supervisory experience, demonstrating sales performance and team management skills; some chains offer internal promotion training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
-
-First-Line Supervisors of Retail Sales Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for first-line supervisors of retail sales workers?**
-答：The average annual salary in 2023 is about $37,000, with entry-level around $27,000 and senior positions over $50,000.
-
-**问：Can a retail supervisor apply for a US work visa?**
-答：Very difficult, as the position typically does not qualify as a specialty occupation for H-1B, and PERM labor certification is hard to obtain.
-
-**问：How to advance to a retail district manager?**
-答：Typically requires 3-5 years of supervisory experience, proven sales performance and team management skills, with internal training programs offered by some chains.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

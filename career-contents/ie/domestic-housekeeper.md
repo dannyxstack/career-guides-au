@@ -1,56 +1,92 @@
-# Domestic Housekeeper（Domestic Housekeeper）职业分析 · IE
+# Domestic Housekeeper — career analysis · Ireland
 
-**职业代码：5152 – Domestic Housekeeper。**
+**Occupation code: 5152 (ISCO08)**
 
-Performs cleaning, tidying, laundry, and related housekeeping duties in hotels, private residences, or accommodation facilities to maintain a clean and orderly environment.
+Perform housekeeping services such as cleaning, tidying, laundry, etc. in hotels, private residences, or accommodation facilities to ensure a clean and organized environment.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（无） |
+| No formal education required | None | $0~$0 (None) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-（暂无从业资质数据）
+(no data)
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。爱尔兰旅游业持续增长，酒店和短租市场对家政服务需求稳定，但该职业往往通过非正式渠道招聘，就业前景平稳，增长有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Ireland's tourism industry continues to grow, and the hotel and short-term rental market has stable demand for domestic services, but this occupation is often recruited through informal channels, with stable employment prospects and limited growth.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-5年） | $28,000~$35,000 | 税前年薪 |
-| 高级（5年以上） | $32,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (5+ years) | $32,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从初级清洁工起步，积累经验后可晋升为管家、客房主管或设施管理岗位。少数进入高端私宅服务，薪资提升空间有限。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The work of home managers/domestic workers faces both automation replacement risks and potential for AI enhancement. Simple cleaning and repetitive tasks may be taken over by robots, but personalized services and customer interaction will be enhanced by AI tools.
+
+Typically start as a junior cleaner, gaining experience to advance to housekeeper, room supervisor, or facilities management roles. A few enter high-end private service, with limited salary growth potential.
+
+**Tasks most exposed to AI:**
+
+- Simple vacuuming, mopping, and other floor cleaning tasks
+- Clothing Sorting and Standardized Washing Processes
+- Repetitive tasks such as making beds and replacing towels
+- Schedule daily cleaning tasks according to preset rules
+- Inventory counting and basic replenishment
+
+**Where AI augments the role:**
+
+- Optimizing cleaning routes and task priorities through AI scheduling systems
+- Use smart sensors to detect area hygiene status and generate reports
+- using voice assistants to manage client preferences and special requests
+- Predicting consumable demand through data analysis and automatically placing orders
+- AI-assisted training for new employees, providing standardized work instructions
+
+**Human moat:**
+
+- Ability to handle personalized customer needs and unexpected situations
+- Fine care for high-value items (e.g., antiques, porcelain)
+- Building trust and long-term client relationships
+- Provide emotional support and companionship (e.g., for elderly living alone)
+- Flexibly handle unstructured tasks in complex family environments
+
+**Skills to build:**
+
+- Smart home device operation and maintenance
+- Basic data analysis skills (e.g., using spreadsheets and reporting tools)
+- Use of customer relationship management (CRM) systems
+- Basic project management (time and resource optimisation)
+- Cross-cultural communication skills (serving diverse clients).
+- First aid and emergency response skills.
+
+**Key growth areas:**
 
 - tourism
 - hospitality
@@ -59,61 +95,63 @@ Performs cleaning, tidying, laundry, and related housekeeping duties in hotels, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于27000欧元。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动，需雇主担保。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires employer sponsorship, annual salary not less than 27,000 euros. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applies to intra-company transfers within multinationals, requires employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Domestic Housekeeper？**
-- 细心、有条理、喜爱清洁工作的人
-- 希望在酒店或家政行业工作、接受体力劳动的人
+**Who is suited**
+- A person who is meticulous, organized, and enjoys cleaning work
+- People who wish to work in hospitality or housekeeping and are open to physical labor
 
-**谁不适合学Domestic Housekeeper？**
-- 期望高收入或快速职业晋升的人
-- 对重复性体力工作排斥的人
+**Who is not suited**
+- Those seeking high income or rapid career advancement
+- Those averse to repetitive physical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of domestic workers in Ireland?**
+A: Entry-level annual salary approximately 22,000-28,000 euros, mid-level 28,000-35,000 euros, senior up to 42,000 euros.
+
+**Q: Can domestic workers apply for a work visa to immigrate to Ireland?**
+A: You can apply for a general work permit, but this occupation is not in shortage, requiring employer sponsorship and meeting salary thresholds; immigration is more difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Domestic Housekeeper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for domestic housekeepers in Ireland?**
-答：Entry-level annual salary is around €22,000-28,000, mid-level €28,000-35,000, and senior up to €42,000.
-
-**问：Can a domestic housekeeper apply for a work visa to immigrate to Ireland?**
-答：Yes, a General Employment Permit is possible, but it is not a shortage occupation; requires employer sponsorship and meeting salary threshold, making immigration difficult.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

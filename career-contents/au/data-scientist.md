@@ -1,59 +1,95 @@
-# Data Scientist（Data Scientist）职业分析 · 澳大利亚
+# Data Scientist — career analysis · Australia
 
-**职业代码：224115 – Data Scientist。**
+**Occupation code: 224115 (ANZSCO)**
 
-Data Scientists use statistics, machine learning, and programming to extract insights from large datasets, driving business decisions and product optimization.
+Data scientists extract insights from massive data using statistics, machine learning, and programming techniques to support business decisions and product optimization.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$50,000（澳洲本地学费，国际生更高） |
-| 硕士 | 1-2年 | $35,000~$60,000（含专业型硕士，部分有奖学金） |
+| Bachelor's degree | 3-4 years | $30,000~$50,000 (Local tuition fees in Australia, higher for international students.) |
+| Master's degree | 1-2 years | $35,000~$60,000 (Includes professional master's degrees, some with scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IT类学位（数据科学/计算机科学/统计学） | 澳洲大学 | 必备 | 一般要求本科以上 |
-| Python/R/SQL 技能认证 | Coursera/Microsoft等 | 可选 | 非强制，但强烈推荐 |
-| ACS 技能评估 | Australian Computer Society | 必备 | 技术移民必备 |
+| IT degrees (Data Science/Computer Science/Statistics) | Australian universities | Required | Generally requires a bachelor's degree or above |
+| ACS Skills Assessment | Australian Computer Society | Required | Essential for skilled migration |
+| Python/R/SQL skill certifications | Coursera/Microsoft, etc. | Optional | Not mandatory, but strongly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 12,000。澳洲数据科学人才需求持续旺盛，尤其金融、科技和咨询行业。未来五年预计增长约15%，但初级岗位竞争激烈。
+**Job demand: very high (★★★★½).** National workforce approx. 12,000. Demand for data science talent in Australia remains strong, especially in finance, technology, and consulting. It is expected to grow by about 15% over the next five years, but competition is fierce for junior positions.
 
-**竞争度：中高（★★★½☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 视公司和地点 |
-| 中级（3-6年） | $95,000~$130,000 | 含奖金 |
-| 高级（6年以上） | $130,000~$180,000 | 或更高，含股票 |
+| Median salary | $107,744 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $70,000~$95,000 | Depends on company and location |
+| Mid-level (3–6 years) | $95,000~$130,000 | Including bonus |
+| Senior (6+ years) | $130,000~$180,000 | Or higher, including stock options |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★½）。** 数据科学家可从数据分析师晋升为首席数据科学家或AI负责人，也可横向转型为机器学习工程师或数据产品经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Data scientists can advance from data analyst to chief data scientist or AI lead, or laterally transition to machine learning engineer or data product manager.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Big Data
 - Artificial Intelligence
@@ -62,69 +98,68 @@ Data Scientists use statistics, machine learning, and programming to extract ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保工作签证，需2年工作经验 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居，需职业在MLTSSL上 |
-| Subclass 189（Skilled Independent） | 独立技术移民，需EOI打分65以上 |
-| Subclass 190（Skilled Nominated） | 州担保技术移民，提名后加5分 |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored work visa, need 2 years of work experience |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency requires the occupation to be on the MLTSSL |
+| Subclass 189 (Skilled Independent) | Independent skilled migration, requires EOI score of 65 or above |
+| Subclass 190 (Skilled Nominated) | State nominated skilled migration, add 5 points after nomination |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Data Scientist？**
-- 喜欢分析数据、解决复杂问题的逻辑型人才
-- 具备编程和数学背景，快速学习新技术者
-- 希望在科技或金融行业长期发展的人
-
-**谁不适合学Data Scientist？**
-- 不擅长沟通或展示分析结果的人
-- 对持续学习新技术缺乏兴趣的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Logical individuals who enjoy analyzing data and solving complex problems
+- Those with programming and math backgrounds who quickly learn new technologies
+- People aspiring for long-term careers in technology or finance
+
+**Who is not suited**
+- People who are not good at communicating or presenting analytical results
+- Those lacking interest in continuous learning of new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a data scientist in Australia?**
+A: Based on Seek and Indeed data, the average salary for data scientists is around AUD 120,000-140,000, with senior roles reaching over AUD 180,000.
+
+**Q: How can data scientists migrate to Australia through skilled migration?**
+A: The occupation is on the MLTSSL and can apply for 189/190/482/186 visas. Must pass ACS skills assessment and have at least 65 EOI points (190 can add 5 points).
+
+**Q: What is the difference between data science and machine learning engineers?**
+A: Data scientists focus on data exploration, statistical modeling, and business insights, while machine learning engineers are more concerned with model deployment, system architecture, and production environment optimization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Data Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a Data Scientist in Australia?**
-答：According to Seek and Indeed, average salary is around AUD 120,000-140,000, senior roles can exceed AUD 180,000.
-
-**问：How can a Data Scientist migrate to Australia via skilled migration?**
-答：The occupation is on MLTSSL, eligible for 189, 190, 482, 186 visas. Requires ACS skills assessment and EOI score of at least 65 (190 adds 5 points).
-
-**问：What's the difference between Data Scientist and Machine Learning Engineer?**
-答：Data Scientists focus on data exploration, statistical modeling and business insights, while ML Engineers focus on model deployment, system architecture and production optimization.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

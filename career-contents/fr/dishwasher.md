@@ -1,60 +1,96 @@
-# Dishwasher（Dishwasher）职业分析 · FR
+# Dishwasher — career analysis · France
 
-**职业代码：G1605 – Dishwasher。**
+**Occupation code: G1605 (ROME)**
 
-Responsible for washing dishes, kitchen utensils, and equipment in restaurants, hotels, and other food service establishments, maintaining kitchen cleanliness and hygiene.
+In restaurants, hotels, and other dining establishments, responsible for cleaning tableware, kitchenware, and related equipment, keeping kitchens clean and tidy.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常容易（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求 | 无 | —（无需正式教育，通常在职培训） |
-| CAP 餐饮服务 | 2年（CAP） | —（公立学校免费或低学费，可申请学徒制带薪学习） |
+| No education requirement | None | $0~$0 (No formal education is required, usually on-the-job training) |
+| CAP Catering Services | 2 years (CAP) | $0~$2,000 (Public schools offer free or low tuition, and paid apprenticeship programs are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：不需要（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生与食品安全培训 | 法国劳工部认可机构 | 必备 | 强制性食品安全培训，确保符合卫生标准 |
-| CAP 餐饮服务 | 法国教育部 | 可选 | 可选，有助于晋升 |
+| Hygiene and food safety training | Recognized by the French Ministry of Labor | Required | Mandatory food safety training to ensure compliance with hygiene standards |
+| CAP Catering Services | French Ministry of Education | Optional | Optional, helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 120,000。餐饮业是法国重要行业，洗碗工需求稳定，尤其在旅游城市和繁华地段。由于工作强度大、流动性高，长期从业者较少，就业机会较多，但晋升空间有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. The catering industry is an important sector in France, with stable demand for dishwashers, especially in tourist cities and bustling areas. Due to the high work intensity and high mobility, there are fewer long-term practitioners, with more job opportunities but limited room for advancement.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$24,000 | SMIC 基准，约1800-2000欧元/月税前 |
-| 中级（3-5年） | $24,000~$28,000 | 经验丰富者可能达到2000-2300欧元/月 |
-| 高级（6年以上或主管） | $28,000~$32,000 | 晋升为厨房主管或大型机构洗碗负责人 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $20,000~$24,000 | SMIC benchmark, about €1,800-2,000 per month before tax |
+| Mid-level (3–5 years) | $24,000~$28,000 | Experienced individuals may earn 2000-2300 euros per month |
+| Senior (6+ years or supervisory) | $28,000~$32,000 | Promoted to kitchen supervisor or dishwashing supervisor at large institutions |
+| average salary | $19,824 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 通常从洗碗工起步，积累经验后可晋升为厨房助理或初级厨师，部分人转向餐饮管理岗位，也可通过培训成为专业厨师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dishwashers face high automation risks, with AI and robots replacing most cleaning tasks. Entry-level positions are greatly reduced, leaving only a small demand for manual cleaning in complex kitchen environments.
+
+Usually, they start as dishwashers, gain experience, and can be promoted to kitchen assistants or junior chefs. Some people move into food and beverage management roles and can become professional chefs through training.
+
+**Tasks most exposed to AI:**
+
+- Use a dishwasher to clean tableware and kitchenware
+- Sort and stack washed tableware
+- Clean kitchen equipment and tools
+- Handling trash and waste in the dishwashing area
+- Monitor the dishwasher's operating status and add detergent
+
+**Where AI augments the role:**
+
+- Optimizing dishwashing processes and chemical usage through AI systems
+- Robots are used to automatically sort and transport tableware
+- Sensors are used to monitor equipment faults and provide early warnings
+- Reduce breakage of tableware through data analysis
+- Coordinate dishwashing and kitchen workflows with AI assistants
+
+**Human moat:**
+
+- Delicate hand-washing for fragile or expensive tableware
+- Flexible scheduling capabilities during sudden peak periods
+- Physical judgment and experience for cleaning stubborn stains
+- Efficient collaboration and communication with the kitchen team
+- Hands-on ability to maintain equipment and troubleshoot common faults
+
+**Skills to build:**
+
+- Operate and maintain automated dishwashing systems
+- Learn basic electromechanical maintenance skills
+- Master knowledge of energy saving and chemical safety
+- Enhance time management and team collaboration skills
+- Learn simple digital tools for data recording
+- Cultivate flexible adaptability across multiple positions
+
+**Key growth areas:**
 
 - stable demand
 - high turnover
@@ -63,62 +99,64 @@ Responsible for washing dishes, kitchen utensils, and equipment in restaurants, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主担保，证明无法在欧盟内招聘到合适人员。洗碗工不属于高技能职业，签证获批难度较大。 |
-| Subclass Recherche emploi（Job Search (APS)） | 完成法国学业后，可申请1年求职居留，寻找相关工作机会。 |
+| Subclass Salarié (Salarié (Employee)) | Employer sponsorship is required, proving that suitable personnel cannot be recruited within the EU. Dishwashers are not considered high-skilled professions, and obtaining visas is quite difficult. |
+| Subclass Recherche emploi (Job Search (APS)) | After completing your studies in France, you can apply for a one-year job-seeking residence to find related job opportunities. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dishwasher？**
-- 寻求快速入门工作、不介意高体力强度的人
-- 希望积累法国餐饮业经验、计划长期在餐饮行业发展的移民
-- 兼职或临时工作者
+**Who is suited**
+- Those seeking quick entry jobs who don't mind high physical intensity
+- Immigrants who wish to gain experience in the French catering industry and plan to develop long-term in the catering sector
+- Part-time or temporary workers
 
-**谁不适合学Dishwasher？**
-- 追求高收入和高职业声望的人
-- 对体力劳动敏感或不适应长时间站立、高温工作环境的人
+**Who is not suited**
+- People who pursue high income and high professional prestige
+- People who are sensitive to physical labor or are not suited to standing for long periods or working in high-temperature environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a dishwasher?**
+A: Generally, based on SMIC, the monthly pre-tax salary in 2024 is about 1,800 euros, with an annual salary of approximately 21,000-24,000 euros. Experience increases slightly, but the ceiling is low.
+
+**Q: Can you immigrate to France as a dishwasher?**
+A: The difficulty is quite high. Dishwashers are not considered high-skilled professions and are not eligible for the EU Blue Card or talent passport. Usually, an employer-sponsored work visa (Salarié) is required, and it must prove that the position cannot be filled by an EU citizen.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（½☆☆☆☆） |
-| 学习难度 | 非常容易（½☆☆☆☆） |
-| 考证难度 | 不需要（½☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Dishwasher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dishwashers?**
-答：Salaries are generally based on the SMIC, around €1,800 gross per month in 2024, with annual salaries between €21,000-24,000. Experience can bring slight increases, but the ceiling is low.
-
-**问：Can a dishwasher immigrate to France?**
-答：It is difficult. Dishwasher is not a high-skilled occupation, so it does not qualify for EU Blue Card or Talent Passport. It usually requires employer sponsorship under the Salarié visa, with proof that the position cannot be filled by an EU citizen.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

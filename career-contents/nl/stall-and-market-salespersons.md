@@ -1,58 +1,88 @@
-# Stall and Market Salespersons（Stall and Market Salespersons）职业分析 · NL
+# Stall and Market Salespersons — career analysis · Netherlands
 
-**职业代码：5211 – Stall and Market Salespersons。**
+**Occupation code: 5211 (ISCO08)**
 
-Sell goods at stalls, markets, or street stands, including food, clothing, accessories. Work environment varies; often self-employed or temporary.
+Selling goods at markets, flea markets, or street stalls, including food, clothing, accessories, etc. Work environment varies, typically self-employed or casual hire.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定要求 | 无 | —（无正式教育要求，但商业知识有益） |
-| 短期培训 | 3个月 | $500~$1,500（如卫生证书（食品摊贩）或创业课程） |
+| No specific requirements | None | $0~$0 (No formal education required, but business knowledge is beneficial) |
+| Short-term training | 3 months | $500~$1,500 (Such as a health certificate (for food vendors) or a business start-up course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 荷兰食品安全局 (NVWA) | 必备 | 食品摊贩必需 |
-| 商业执照 | 当地市政厅 | 必备 | 摊位经营需注册 |
+| Food hygiene certificate | Netherlands Food and Consumer Product Safety Authority (NVWA) | Required | Essential for Food Vendors |
+| Business license | Local municipal council | Required | Stall operation requires registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰零售业稳定，但摊贩市场受电商冲击。就业机会主要集中在旅游城市和季节性活动，预计增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Dutch retail sector is stable, but stall markets face e-commerce impact. Job opportunities are mainly in tourist cities and seasonal events, with slow expected growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 兼职或季节性，税前 |
-| 中级（3-7年） | $25,000~$35,000 | 全职或自雇，税前 |
-| 高级（7年以上） | $35,000~$50,000 | 拥有稳定摊位或连锁摊位，税前 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Part-time or seasonal, before tax |
+| Mid-level (3–7 years) | $25,000~$35,000 | Full-time or self-employed, before tax |
+| Senior (7+ years) | $35,000~$50,000 | Having a stable stall or chain stall, pre-tax |
+| average salary | $30,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：弱（★½☆☆☆）。** 初级摊贩可积累经验后自营摊位，或转向零售店管理。部分从业者通过线上渠道拓展销售，晋升空间有限。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Stall and market sales staff face high automation risk; core tasks like payment, pricing, and inventory management can be replaced by AI, lowering entry barriers but compressing income. They need to shift toward experiential services and differentiation through personal touch.
+
+Junior vendors can gain experience and then operate their own stalls, or transition to retail store management. Some practitioners expand sales through online channels; promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Complete transactions and give change using mobile payment or POS systems
+- Dynamically adjust product prices and discounts based on historical data
+- Automated inventory and replenishment management via AI system
+- Automated responses to common customer inquiries (e.g., pricing, returns and exchanges)
+
+**Where AI augments the role:**
+
+- Use AI sales dashboard to analyze customer traffic hotspots and best-selling products to optimize stall layout
+- Use AI recommendation engines to push personalized offers to repeat customers
+- Assists bargaining with real-time exchange rates and cost calculators
+
+**Human moat:**
+
+- Build trust and emotional connection with customers to provide a personalized shopping experience
+- Handling complex negotiations and special requirements with flexibility
+- Demonstrate product usage tips or stories, creating immersive scenarios
+
+**Skills to build:**
+
+- Basic data analysis (e.g., Excel, Tableau)
+- social media marketing and short video production
+- AI tool operation (smart pricing, inventory management software)
+- Cross-cultural communication and multilingual scripts
+- Ability to use small ERP systems
+
+**Key growth areas:**
 
 - Seasonal
 - Self-employment
@@ -61,65 +91,64 @@ Sell goods at stalls, markets, or street stands, including food, clothing, acces
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，但摊贩职业通常不符合要求。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 需雇主担保且薪资达标，一般不适用于此职业。 |
-| Subclass Self-Employed Permit（Self-Employed Residence Permit） | 自雇摊贩可申请，需通过荷兰商业局（RVO）评分。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions, but vendor occupations usually do not meet requirements. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship and salary threshold, generally not applicable for this occupation. |
+| Subclass Self-Employed Permit (Self-Employed Residence Permit) | Self-employed stallholders can apply, requiring assessment by the Netherlands Enterprise Agency (RVO). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stall and Market Salespersons？**
-- 喜欢自由工作环境的人
-- 善于面对面销售的人
-- 能适应户外和不规律工时的人
-
-**谁不适合学Stall and Market Salespersons？**
-- 追求稳定高薪的人
-- 不擅长与陌生人交流的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like a flexible work environment.
+- People who are good at face-to-face sales
+- Can adapt to outdoor and irregular working hours
+
+**Who is not suited**
+- Those seeking stable, high-paying jobs
+- People not good at communicating with strangers
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of stall vendors?**
+A: Income fluctuates significantly; part-time annual income is about 15,000 to 25,000 euros, while full-time can reach 35,000 to 50,000 euros, but you must manage your own profits and losses.
+
+**Q: Can non-EU citizens work as street vendors?**
+A: Yes, but need to apply for self-employment residence permit and pass business plan assessment. Regular work visa is generally not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 弱（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Stall and Market Salespersons的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for stall and market salespersons?**
-答：Income varies; part-time around €15,000-25,000, full-time up to €35,000-50,000, but self-employed bear risks.
-
-**问：Can non-EU citizens work as stall and market salespersons?**
-答：Yes, but need a self-employed residence permit and a business plan assessment. Regular work visas unlikely.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

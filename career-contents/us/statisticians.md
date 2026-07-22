@@ -1,59 +1,95 @@
-# Statisticians（Statisticians）职业分析 · 美国
+# Statisticians — career analysis · United States
 
-**职业代码：15-2041 – Statisticians。**
+**Occupation code: 15-2041 (SOC)**
 
-Statisticians develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information in various fields.
+Statisticians use mathematical and statistical theory to collect, organize, interpret numerical data, providing usable information. Can specialize in biostatistics, agricultural statistics, business statistics, or economic statistics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士学位 | 2年 | $30,000~$80,000（公立大学约3-5万美元，私立大学约5-8万美元） |
-| 博士学位 | 5年 | —（博士通常全额奖学金覆盖学费并提供生活费） |
+| Master's degree | 2 years | $30,000~$80,000 (Public universities about 30,000-50,000 USD, private universities about 50,000-80,000 USD) |
+| Doctoral degree (PhD) | 5 years | $0~$0 (Doctoral programs usually cover tuition and provide a living stipend through full scholarships.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计学硕士学位 | 大学 | 必备 | 大多数职位要求硕士学历，博士适合研发岗位 |
-| 精算师或分析师认证 | 如ASA, CQF | 可选 | 非强制但增强竞争力 |
-| 编程技能 | 自修或课程 | 可选 | Python, R, SAS等工具是必备技能 |
+| Master's degree in Statistics | University | Required | Most positions require a master's degree, PhD suitable for R&D roles |
+| Actuary or Analyst Certification | Such as ASA, CQF | Optional | Not mandatory but enhances competitiveness |
+| Programming skills | Self-study or courses | Optional | Python, R, SAS and other tools are essential skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 45,000。美国劳工统计局预计2023-2033年统计学家就业增长约30%，远高于所有职业平均水平。大数据和机器学习驱动需求，尤其在科技、医疗和政府领域。
+**Job demand: very high (★★★★½).** National workforce approx. 45,000. BLS projects 30% employment growth for statisticians from 2023-2033, much faster than average. Big data and machine learning drive demand, especially in tech, healthcare, and government.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$90,000 | 常见于政府、医疗机构或科技公司初级岗位 |
-| 中级（3-7年） | $90,000~$120,000 | 具有独立分析能力，负责项目 |
-| 高级（7年以上） | $120,000~$160,000 | 领导团队或担任首席统计师，科技行业更高 |
+| Median salary | $105,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$90,000 | Common in government, healthcare institutions, or tech company entry-level positions |
+| Mid-level (3–7 years) | $90,000~$120,000 | Has independent analytical ability, responsible for projects |
+| Senior (7+ years) | $120,000~$160,000 | Lead teams or become chief statistician, higher in tech industry |
+| average salary | $115,700 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 初级统计学家可晋升为高级统计学家、首席数据科学家或统计经理。也可转向数据科学、机器学习工程或研究方向，博士学位更易进入顶尖研发岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Junior statisticians can advance to senior statistician, chief data scientist, or statistical manager. Also can transition to data science, machine learning engineering, or research. A PhD provides easier access to top R&D positions.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Big Data
 - Machine Learning
@@ -62,68 +98,67 @@ Statisticians develop or apply mathematical or statistical theory and methods to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，要求学士以上学位，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 绿卡申请，需硕士或本科+5年经验，通常需PERM |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出人才签证，适用于发表高影响力论文或在顶尖公司任职的统计学家 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa, requires bachelor's degree or higher, subject to lottery |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Green card application requires master's or bachelor's + 5 years experience, usually needs PERM |
+| Subclass O-1 (O-1 Extraordinary Ability) | Distinguished Talent visa, applicable to statisticians with high-impact publications or positions at top companies |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statisticians？**
-- 喜欢数学和数据分析
-- 有编程基础或愿意学习编程
-- 追求稳定高薪且职业前景广阔
-
-**谁不适合学Statisticians？**
-- 不喜欢抽象数学和统计模型
-- 不耐高压或厌恶长时间编程
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys mathematics and data analysis
+- Have programming background or willing to learn programming
+- Seeking stable high salary and broad career prospects
+
+**Who is not suited**
+- Dislikes abstract math and statistical models
+- Cannot handle high pressure or dislike long programming hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for statisticians in the United States?**
+A: Statistician median annual salary about USD 95,000, entry-level about USD 65,000-90,000, senior can reach over USD 160,000, higher in tech industries.
+
+**Q: What is the main path for statisticians to immigrate to the US?**
+A: Common path is H-1B work visa followed by EB-2/EB-3 green card. Outstanding talent can apply for O-1 visa or EB-1 green card. Master's/PhD and employer support are key.
+
+**Q: What educational background is needed to become a statistician?**
+A: Typically requires a master's degree in statistics or a related field; a PhD is more suitable for R&D roles. Bachelor's graduates can work as assistants but have limited advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Statisticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for statisticians in the US?**
-答：Median annual wage for statisticians is around $95,000, with entry-level ranging from $65,000 to $90,000, and senior roles exceeding $160,000, especially in tech.
-
-**问：What are the main immigration paths for statisticians to the US?**
-答：Common path is H-1B visa followed by EB-2/EB-3 green card. Extraordinary individuals may qualify for O-1 visa or EB-1 green card. Advanced degree and employer sponsorship are crucial.
-
-**问：What education is required to become a statistician?**
-答：A master's degree in statistics or a related field is typically required; a PhD is preferred for R&D roles. Bachelor's holders may find assistant positions with limited advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

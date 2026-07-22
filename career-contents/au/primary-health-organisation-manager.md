@@ -1,61 +1,97 @@
-# Primary Health Organisation Manager（Primary Health Organisation Manager）职业分析 · 澳大利亚
+# Primary Health Organisation Manager — career analysis · Australia
 
-**职业代码：134213 – Primary Health Organisation Manager。**
+**Occupation code: 134213 (ANZSCO)**
 
-Primary Health Organisation Managers plan, organize, direct, and control the operations of primary healthcare facilities such as medical centres, community health services, and GP clinics. They ensure efficient service delivery, financial management, compliance, and coordinate teams of healthcare professionals.
+Primary health organisation managers plan, organise, direct and manage the operations of primary health care facilities, including medical centres, community health services and general practice clinics. They ensure efficient service delivery, financial management, compliance, and coordinate teams of medical professionals.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（健康管理/工商管理） | 3-4年 | $30,000~$50,000（澳洲大学学费，国际生约30,000-50,000澳元/年） |
-| 硕士（卫生服务管理/公共卫生） | 1.5-2年 | $35,000~$55,000（澳洲大学硕士学费，国际生约35,000-55,000澳元/年） |
+| Bachelor's degree (Health Management / Business Administration) | 3-4 years | $30,000~$50,000 (Australian university tuition fees for international students: approximately AUD 30,000–50,000 per year) |
+| Master's (Health Services Management / Public Health) | 1.5-2 years | $35,000~$55,000 (Master's tuition fees at Australian universities, international students approximately A$35,000-55,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康管理或相关领域学士学位 | 澳洲大学 | 必备 | 常见专业：健康管理、公共卫生、工商管理 |
-| 研究生文凭或硕士（优先） | 澳洲大学 | 可选 | 卫生服务管理、项目管理等 |
-| 相关工作经验 | 雇主 | 必备 | 通常需要3-5年医疗管理经验 |
+| Bachelor's degree in health management or a related field | Australian universities | Required | Common majors: Health Management, Public Health, Business Administration |
+| Relevant work experience | Employer | Required | Typically requires 3-5 years of healthcare management experience |
+| Postgraduate diploma or master's degree (preferred) | Australian universities | Optional | Health services management, project management, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,800。随着澳大利亚老龄化人口和慢性病管理需求的增长，初级保健服务需求持续上升。政府对基层医疗的投入和医疗改革推动该职业稳定增长。预计未来5年就业增长率约12%，尤其偏远地区需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 6,800. Due to Australia's aging population and growing demand for chronic disease management, primary care services continue to rise. Government investment in primary healthcare and health reforms drive steady growth in this occupation. Employment is expected to grow by about 12% over the next 5 years, with particularly high demand in remote areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（3-5年） | $80,000~$100,000 | 助理经理或小型诊所经理 |
-| 中级（5-10年） | $100,000~$130,000 | 中型医疗中心经理 |
-| 高级（10年以上） | $130,000~$160,000 | 大型区域经理或医疗网络总监 |
+| Median salary | $141,440 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior (3-5 years) | $80,000~$100,000 | Assistant manager or small clinic manager |
+| Intermediate (5-10 years) | $100,000~$130,000 | Medium-sized medical center manager |
+| Senior (10+ years) | $130,000~$160,000 | Regional manager or medical network director for large areas |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从临床或管理岗位起步，如注册护士、执业经理。积累经验后可晋升为区域经理、医疗网络总监或卫生服务行政总监。部分人转向政策制定或咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on primary care organization managers is mixed: automation will handle administrative tasks like scheduling and report generation, but strategic decisions, personnel management, and compliance responsibilities still require human judgment, overall demand for the role remains stable.
+
+Typically starts in clinical or management roles, such as registered nurse or practice manager. With experience, can advance to regional manager, medical network director, or health services administration director. Some transition to policy-making or consulting.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling systems replace manual shift rostering for medical staff.
+- AI financial tools automatically generate budget reports and expenditure analysis
+- Chatbots handle routine patient inquiries and appointments.
+- Automated compliance checking tools monitor regulatory adherence
+- AI-generated meeting minutes and operational statistics summaries
+
+**Where AI augments the role:**
+
+- AI optimizes resource allocation and patient flow management through data analysis
+- Smart dashboards monitor KPIs in real-time to support decision-making
+- Natural language processing tools for rapid policy document analysis
+- Predictive models identify high-risk patients for early intervention.
+- Virtual assistants enhance team communication and collaboration efficiency
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (doctors, government, communities)
+- Judgment and decision-making on regulations, ethics, and boundaries
+- Team cohesion and crisis management leadership
+- Building and maintaining local community relationships
+- Cross-departmental strategic planning and change management
+
+**Skills to build:**
+
+- Medical data analysis and visualization (Power BI, Tableau)
+- Project management (Agile/Scrum certification)
+- Health Informatics (EHR System Management)
+- Operations optimization (Lean Six Sigma)
+- Financial modeling and budget analysis
+- AI tool applications (e.g., ChatGPT for automated reporting)
+
+**Key growth areas:**
 
 - Aged Care
 - Chronic Disease Management
@@ -64,65 +100,67 @@ Primary Health Organisation Managers plan, organize, direct, and control the ope
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时工作签证，需雇主提名该职业，通常要求相关学历和3年经验。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久签证，需通过技能评估和雇主提名。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary work visa; requires employer nomination of the occupation, usually relevant qualifications and 3 years of experience. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requires skills assessment and employer nomination. |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Primary Health Organisation Manager？**
-- 有医疗背景并希望转向管理岗位的人士
-- 具备领导力和组织能力的健康专业毕业生
-- 对改善社区卫生服务有热情的管理者
+**Who is suited**
+- Individuals with a medical background looking to transition into management roles
+- Health graduates with leadership and organizational skills
+- Manager passionate about improving community health services
 
-**谁不适合学Primary Health Organisation Manager？**
-- 不擅长处理行政和财务工作的人
-- 偏好直接患者护理而非幕后管理的人
+**Who is not suited**
+- People who are not good at administrative and financial work
+- Those who prefer direct patient care over behind-the-scenes management
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a primary care organization manager?**
+A: Entry-level salary approx AUD 80,000-100,000, mid-level 100,000-130,000, senior 130,000-160,000. May be higher in remote areas or large institutions.
+
+**Q: Are there skilled migration pathways for this occupation?**
+A: This occupation is not on the CSOL/MLTSSL, so immigration is usually only possible through employer sponsorship (482/186). Some states may offer DAMA or regional sponsorship.
+
+**Q: What qualifications are needed to become a primary care organization manager?**
+A: Typically requires a bachelor's degree in health management, public health, or business administration; a master's degree is more competitive. Some positions require a medical background (e.g., registered nurse).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Primary Health Organisation Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Primary Health Organisation Managers?**
-答：Entry-level salaries range from AUD 80,000 to 100,000, mid-level from 100,000 to 130,000, and senior from 130,000 to 160,000. Salaries may be higher in remote areas or large organizations.
-
-**问：Are there skilled migration pathways for this occupation?**
-答：This occupation is not on the CSOL/MLTSSL; migration is typically via employer sponsorship (482/186), with possible DAMA or regional sponsorship in some states.
-
-**问：What qualifications are needed to become a Primary Health Organisation Manager?**
-答：Typically a bachelor's degree in health management, public health, or business administration is required. A master's degree is advantageous. Some positions require a clinical background (e.g., registered nurse).
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

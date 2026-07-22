@@ -1,60 +1,96 @@
-# Paving Stone Layer（Paving Stone Layer）职业分析 · DE
+# Paving Stone Layer — career analysis · Germany
 
-**职业代码：3221 – Paving Stone Layer。**
+**Occupation code: 3221 (KldB)**
 
-Paving stone layers install natural stone, concrete blocks, and other materials to construct sidewalks, driveways, plazas, and other outdoor surfaces. Tasks include base preparation, cutting stones, laying, and jointing.
+Paving and stonemasons lay natural stone, concrete blocks, and other materials to build outdoor surfaces such as footpaths, driveways, and plazas. Work includes base preparation, stone cutting, laying, and jointing.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常无需学费） |
-| 进修：工头/技师（Meister） | 1-2年 | $3,000~$10,000（可申请联邦资助） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Paid during training, usually no tuition fees) |
+| Further training: Master craftsman/technician (Meister) | 1-2 years | $3,000~$10,000 (Eligible for Commonwealth funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国职业培训证书（Facharbeiterbrief） | 德国工商业或手工业协会（IHK/HWK） | 必备 | 完成3年双元制培训后获得 |
-| 工头/技师证书（Meister） | 德国手工业协会（HWK） | 可选 | 可选晋升资质 |
+| German vocational training certificate (Facharbeiterbrief) | German Chamber of Commerce and Industry (IHK/HWK) | Required | Awarded after completing a 3-year dual system training |
+| Master craftsman/technician certificate (Meister) | German Chamber of Crafts (HWK) | Optional | Optional advanced qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国建筑业持续景气，基础设施翻新和城市发展项目推动需求。老龄化导致技术工人短缺，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. The German construction industry remains booming, driven by infrastructure renovation and urban development projects. An aging population leads to a shortage of skilled workers, ensuring stable employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，根据联邦各州和公司规模略有差异 |
-| 中级（3-8年） | $35,000~$45,000 | 含加班和绩效奖金 |
-| 高级（8年以上/工头） | $45,000~$55,000 | 工头或项目经理级别 |
+| Median salary | $48,612 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, slightly varies by federal state and company size |
+| Mid-level (3–8 years) | $35,000~$45,000 | Includes overtime and performance bonuses |
+| Senior (8+ years/foreman) | $45,000~$55,000 | Foreman or project manager level |
+| average salary | $51,828 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★½☆）。** 可晋升为工头、施工队长或自营企业主。通过进修可转向景观建筑或土木工程领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive, standardized tasks in paving and stonework (e.g., simple cutting, basic laying) are easily automated, but custom patterns, complex terrain handling, and aesthetic judgment still rely on human labor; AI serves more as a tool.
+
+Can be promoted to foreman, construction team leader, or self-employed business owner. Further study can lead to landscape architecture or civil engineering fields.
+
+**Tasks most exposed to AI:**
+
+- Cut stone precisely to preset dimensions using automatic cutting machines
+- Using laser screed robots for base elevation control and levelling
+- Use drawing recognition software to automatically extract laying patterns and plan layout
+- Measure site area and slope using drones or AI vision systems
+- prepares grouting materials using automated mortar mixing and conveying equipment
+
+**Where AI augments the role:**
+
+- Design complex parquet patterns using 3D modeling software and generate laying plans
+- Using AR glasses to overlay laying guidance lines in real time at construction sites
+- Coordinate underground pipelines via BIM system, optimize foundation excavation locations
+- Real-time analysis of paving smoothness by AI quality inspection system with feedback adjustments
+- Use automatic recorders to collect construction data for future maintenance traceability
+
+**Human moat:**
+
+- Aesthetic selection and color matching of special-textured stones
+- Flexible adaptability in narrow, irregular areas such as garden path corners
+- Communicate with clients to determine personalised designs and adjust plans on-site
+- Experience in handling sudden issues like foundation seepage and frost heave
+- Zero-error cutting and installation manual craftsmanship for high-value natural stone
+
+**Skills to build:**
+
+- CAD/BIM paving design software operation
+- Use of digital measuring tools such as total stations and laser levels
+- Programming and maintenance of stone CNC cutting machines
+- Basic project management and digital recording of construction progress
+- Characteristics and construction techniques of environmentally friendly mortar materials
+- Cross-trade collaboration (e.g., with landscape architects, civil engineers) communication
+
+**Key growth areas:**
 
 - Infrastructure
 - Urban Development
@@ -63,66 +99,65 @@ Paving stone layers install natural stone, concrete blocks, and other materials 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于学历对口且薪资达标者，该职业通常薪资不满足蓝卡门槛 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需德国认可的职业技能资质，由雇主担保 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 根据积分系统可在德求职一年，适合有职业资质者 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for those with relevant qualifications and salary meeting the threshold. This occupation typically does not meet Blue Card salary requirements. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | German-recognized vocational qualification required, sponsored by employer |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on the points system, can seek employment in Germany for one year, suitable for those with professional qualifications |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Paving Stone Layer？**
-- 喜欢户外体力工作、动手能力强的人
-- 注重手工艺精度和质量的人
-- 愿意接受职业培训并考取资质的人
-
-**谁不适合学Paving Stone Layer？**
-- 偏好办公室工作或低体力劳动的人
-- 无法适应户外天气变化和重复性劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes outdoor physical work and has strong hands-on skills
+- People who value handcraft precision and quality
+- Those willing to undergo vocational training and obtain qualifications
+
+**Who is not suited**
+- People who prefer office work or low-physical labor
+- People who cannot adapt to outdoor weather changes and repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a paving stone layer?**
+A: Pre-tax annual salary approximately 28,000-55,000 euros, depending on experience and region. Entry-level around 28k, senior foreman can reach 55k.
+
+**Q: How can third-country nationals immigrate to Germany as pavers/stonemasons?**
+A: Must obtain a German-recognized vocational qualification (e.g., through Annerkennung) and have employer sponsorship, applicable under skilled migration law.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Paving Stone Layer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a paving stone layer?**
-答：Gross annual salary ranges from €28,000 to €55,000 depending on experience and region. Entry-level around €28k, master craftsman up to €55k.
-
-**问：How can a third-country national migrate to Germany as a paving stone layer?**
-答：Require recognized vocational qualification (via Anerkennung) and employer sponsorship under Skilled Immigration Act.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

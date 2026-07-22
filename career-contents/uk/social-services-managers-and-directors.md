@@ -1,58 +1,94 @@
-# Social services managers and directors（Social services managers and directors）职业分析 · UK
+# Social services managers and directors — career analysis · United Kingdom
 
-**职业代码：1172 – Social services managers and directors。**
+**Occupation code: 1172 (SOC)**
 
-Social services managers and directors plan, organise, direct and co-ordinate resources to protect the welfare of vulnerable groups within local authorities, including children, families, disabled and elderly people.
+Social services managers and directors plan, organize, direct, and coordinate welfare protection resources for various vulnerable groups within local authorities, including children, families, people with disabilities, and the elderly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$12,000（英国本土学费，国际生更高） |
-| 硕士 | 1年 | $12,000~$20,000（社会工作硕士或相关管理硕士） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (UK home tuition fees; higher for international students) |
+| Master's degree | 1 year | $12,000~$20,000 (Master's degree in social work or related management master's.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作学位 | 大学 | 必备 | 通常需注册 |
-| 社会服务管理文凭 | Skills for Care | 可选 | 非强制但有益 |
+| Social work degree | University | Required | Usually requires registration. |
+| Diploma of Social Services Management | Skills for Care | Optional | Not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。随着人口老龄化和弱势群体需求增加，社会服务岗位需求稳定。政府资金变动可能影响就业，但经验丰富的经理仍受欢迎。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. With an aging population and increased needs of vulnerable groups, demand for social service roles is stable. Government funding changes may affect employment, but experienced managers remain in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 服务经理或助理主任 |
-| 中级（3-7年） | $38,000~$50,000 | 高级经理或区域主任 |
-| 高级（7年以上） | $55,000~$75,000 | 社会服务主任或局长 |
+| Median salary | $48,549 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Service manager or assistant director |
+| Mid-level (3–7 years) | $38,000~$50,000 | Senior manager or regional director |
+| Senior (7+ years) | $55,000~$75,000 | Social Services Director or Manager |
+| average salary | $50,235 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 从社会工作者晋升至团队领导，再至服务经理，最终可成为社会服务主任。也可转向非营利组织或私营医疗管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Social service managers and directors face mixed AI impact: task automation reduces clerical and scheduling roles, but AI-enhanced assessment analysis and resource coordination still rely on human judgment and ethical responsibility as core moats.
+
+From social worker to team leader, then to service manager, and eventually to director of social services. One can also move into non-profit or private healthcare management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated welfare eligibility preliminary screening and document review
+- Using AI to generate standard reports and meeting minutes
+- Automatic allocation of service resources and shift optimization
+- Data entry and information retrieval tasks
+- Rule-based compliance checks and audit screenings
+
+**Where AI augments the role:**
+
+- AI-assisted in-depth assessment of household needs and risk prediction.
+- Intelligent recommendation of personalized intervention plans and resource matching
+- Real-time dashboard to monitor service quality and budget execution
+- NLP analysis of service feedback and policy impact
+- Automated generation of cross-departmental coordination reports and summaries
+
+**Human moat:**
+
+- Deep empathy and ethical judgment for complex family dynamics
+- Handling decision-making in high-risk cases such as child protection and mental health
+- Cross-agency coordination and stakeholder negotiation
+- Creatively solving problems in regulatory grey areas.
+- Long-term trust building and support for disadvantaged groups
+
+**Skills to build:**
+
+- Data literacy and statistical analysis
+- AI/Machine Learning Fundamentals and Tool Applications
+- Digital platform project management skills
+- Ethical decision-making and AI governance knowledge
+- Communication and cross-departmental collaboration skills
+- Ability to learn and adapt to rapid policy changes
+
+**Key growth areas:**
 
 - social care demand
 - aging population
@@ -61,68 +97,67 @@ Social services managers and directors plan, organise, direct and co-ordinate re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 满足薪资要求（一般年薪至少26,200英镑），雇主担保 |
-| Subclass Health & Care（Health and Care Worker visa） | 适用于医疗和社会护理职位，费用较低且家属可工作 |
-| Subclass Graduate（Graduate visa） | 完成英国学位后可在英工作2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker visa) | Meet salary requirement (generally at least £26,200 per year), employer sponsorship |
+| Subclass Health & Care (Health and Care Worker visa) | Applicable to medical and social care positions, with lower fees and family members allowed to work. |
+| Subclass Graduate (Graduate visa) | After completing a UK degree, can work in the UK for 2 years (3 years for PhD) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social services managers and directors？**
-- 具备领导力和组织能力的社会工作者
-- 对公共政策和社会福利有热情的管理者
-- 希望在公共服务领域实现职业晋升的人
-
-**谁不适合学Social services managers and directors？**
-- 偏好低压力、固定工作时间的人
-- 不擅长应对预算压力和人员管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Social workers with leadership and organizational skills
+- Manager passionate about public policy and social welfare
+- Those seeking career advancement in the public service sector
+
+**Who is not suited**
+- People who prefer low stress and fixed working hours
+- Not good at handling budget pressure and personnel management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Social Services Managers?**
+A: Entry‑level managers earn about £28,000‑35,000 per year, senior directors up to £55,000‑75,000.
+
+**Q: Which visas can overseas applicants apply for?**
+A: Can apply for a Skilled Worker visa or Health and Care Worker visa, requiring employer sponsorship and meeting salary requirements.
+
+**Q: What qualifications are needed to become a social services manager?**
+A: Typically requires a social work degree and registration, plus many years of social work experience. Management experience is also important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Social services managers and directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for social services managers?**
-答：Entry-level managers earn around £28,000-£35,000, while senior directors can earn £55,000-£75,000.
-
-**问：What visas can overseas applicants apply for?**
-答：They can apply for the Skilled Worker visa or Health and Care Worker visa, requiring employer sponsorship and meeting salary thresholds.
-
-**问：What qualifications are needed to become a social services manager?**
-答：Usually a degree in social work plus registration, along with several years of social work experience. Management experience is also valued.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

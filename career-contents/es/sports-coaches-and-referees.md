@@ -1,61 +1,97 @@
-# Sports Coaches and Referees（Sports Coaches and Referees）职业分析 · ES
+# Sports Coaches and Referees — career analysis · Spain
 
-**职业代码：3722 – Sports Coaches and Referees。**
+**Occupation code: 3722 (CNO)**
 
-Sports coaches and referees work in sports clubs, schools, and training centers across Spain, responsible for training athletes, developing training plans, or enforcing competition rules. The occupation includes various roles such as football coaches, basketball referees, and swimming instructors.
+Sports coaches and referees work at various levels of sports clubs, schools, and training institutions in Spain, responsible for training athletes, developing training plans, or supervising the enforcement of competition rules. This profession includes various sub-roles, such as football coach, basketball referee, swimming coach, and more.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Superior） | 2年 | $3,000~$7,000（公立约500欧元/年，私立约2500-3500欧元/年） |
-| 大学本科（Grado） | 4年 | $4,000~$12,000（公立800-1500欧元/年，私立4000-8000欧元/年） |
+| Secondary Vocational Training (FP Grado Superior) | 2 years | $3,000~$7,000 (Public approx. €500/year, private approx. €2,500-3,500/year) |
+| Undergraduate (Grado) | 4 years | $4,000~$12,000 (Public schools: 800-1500 euros/year, private schools: 4000-8000 euros/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育教练执照（Técnico Deportivo） | 西班牙体育委员会（CSD） | 必备 | 通过指定机构培训和考试获得，不同运动项目有专门路径 |
-| 体育科学学位（Grado en Ciencias de la Actividad Física y el Deporte） | 西班牙大学 | 可选 | 有助于高级教练职位，非强制性但普遍要求 |
-| 急救证书（Certificado de Primeros Auxilios） | 红十字会或授权机构 | 可选 | 许多雇主或体育赛事要求持有 |
+| Sports Coach License (Técnico Deportivo) | Spanish Sports Committee (CSD) | Required | Obtained through designated training and examinations, different sports have dedicated pathways |
+| Degree in Sports Science (Grado en Ciencias de la Actividad Física y el Deporte) | Spanish University | Optional | Senior coaching positions are not mandatory but generally required |
+| First Aid Certificate (Certificado de Primeros Auxilios) | Red Cross or authorized organizations | Optional | Many employers or sports events require you to hold it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 125,000。西班牙体育产业持续增长，尤其足球、篮球和新兴运动（如电子竞技）带动了教练和裁判需求。公共和私人体育中心招聘稳定，部分岗位受季节性影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 125,000. Spain's sports industry continues to grow, especially football, basketball, and emerging sports like esports, which have driven demand for coaches and referees. Public and private sports centers have stable recruitment, with some positions affected by seasonal fluctuations.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$24,000 | 兼职或初级教练，部分收入来自按小时计费 |
-| 中级（4-7年） | $25,000~$35,000 | 全职教练或俱乐部助理裁判，含奖金 |
-| 高级（8年以上） | $36,000~$50,000 | 国家级或高级俱乐部主教练/专业裁判，收入可能更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$24,000 | Part-time or junior coaching, with part of the income coming from hourly billing |
+| Mid-level (4-7 years) | $25,000~$35,000 | Full-time coach or club assistant referee, including bonuses |
+| Senior (8+ years) | $36,000~$50,000 | National or senior club head coaches/professional referees may earn even more |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 初级角色可从体育助理或兼职教练起步，积累经验后晋升为俱乐部主教练或赛事裁判员。拥有体育科学学位或高级教练证书者，可进入省级或国家级竞技体育体系。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Sports coaches and referees are affected by AI: data analysis and video playback technologies can assist training and officiating, but core on-site guidance, emotional incentives, and instant decision-making are hard to replace.
+
+Entry-level roles can start as sports assistants or part-time coaches, and after gaining experience, can be promoted to club head coach or match referee. Those with a degree in sports science or a senior coaching certificate can enter provincial or national competitive sports systems.
+
+**Tasks most exposed to AI:**
+
+- Use video analysis software to automatically edit match footage and generate tactical reports
+- Automatically monitor athletes' fitness and generate training recommendations through wearable device data
+- AI referee systems are used to assist in determining objective rules such as offside and out-of-bounds
+- Automatically orchestrate training plans and schedules
+- Generate live text broadcasts and statistical reports for competitions
+
+**Where AI augments the role:**
+
+- Use AI to analyze opponents' tactical patterns and develop targeted strategies
+- Real-time feedback on athlete movement details through motion capture technology optimizes the technology
+- Using AI to simulate match scenarios for virtual training
+- Using big data to predict athletes' injury risks and adjust training loads
+- Using AI to assist in selecting promising athletes
+
+**Human moat:**
+
+- Adjust tactics on the spot and adapt to situations on the spot
+- Motivate team morale, handle interpersonal relationships and conflicts
+- Intuitive judgment and creative decision-making based on experience
+- Immediate judgment of safety rules and ethics
+- Communicate and coordinate with athletes, parents, clubs, and other parties
+
+**Skills to build:**
+
+- Proficient in sports data analysis software (such as Hudl, Catapult)
+- Understand basic AI concepts and be able to interpret algorithm outputs
+- Proficient in using video analysis tools and editing software
+- Learn sports science and biomechanics
+- Enhance communication and leadership courses
+- Obtain advanced coach or referee certification
+
+**Key growth areas:**
 
 - sports industry
 - health awareness
@@ -64,65 +100,67 @@ Sports coaches and referees work in sports clubs, schools, and training centers 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 由西班牙雇主担保，需证明职位无法由本地人填补，通常要求大学学历或丰富经验。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高薪或特殊才能的教练，如知名体育教练，收入门槛较高。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Sponsored by a Spanish employer, it must be proven that the position cannot be filled by a local person, usually requiring a university degree or extensive experience. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | This is suitable for coaches with high salaries or special talents, such as well-known sports coaches, which have a higher income threshold. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sports Coaches and Referees？**
-- 热爱体育运动、有耐心和沟通能力者
-- 愿意接受灵活工作时间（周末、节假日）的人群
-- 希望在体育行业建立长期职业发展的年轻人
+**Who is suited**
+- Someone who loves sports, is patient, and has good communication skills
+- People willing to accept flexible working hours (weekends, holidays).
+- Young people hoping to build long-term career development in the sports industry
 
-**谁不适合学Sports Coaches and Referees？**
-- 追求高薪和稳定工作时间的求职者
-- 不擅长人际沟通或缺乏团队合作精神的人
+**Who is not suited**
+- Job seekers seeking high salaries and stable working hours
+- People who are not good at interpersonal communication or lack team spirit
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a sports coach in Spain?**
+A: Entry-level coach salary around EUR 16,000-24,000/year, mid-level EUR 25,000-35,000, senior up to EUR 50,000+. Depends on sport, region, and employer.
+
+**Q: Can foreign sports coaches immigrate to Spain?**
+A: You may obtain a work visa (Cuenta ajena) or a highly skilled professional visa, but the Spanish employer must prove that the position cannot be filled by a local resident, and usually requires a university degree or a national-level coaching qualification.
+
+**Q: What is the career advancement path for sports coaches?**
+A: Typically, they start as assistant or junior coaches and can be promoted to head coach, sports director, or referee supervisor after gaining experience. Advanced Qualifications or Sports Degrees help you enter the professional sports field.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sports Coaches and Referees属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sports coaches in Spain?**
-答：Entry-level coaches earn about €16,000-€24,000 per year, mid-level €25,000-€35,000, and senior coaches can earn over €50,000. Actual figures vary by sport, region, and employer.
-
-**问：Can foreign sports coaches immigrate to Spain?**
-答：Yes, via work permits (Cuenta ajena) or the Highly Skilled Professional visa, but requires a Spanish employer to prove the position cannot be filled locally, and typically a university degree or national coaching certification.
-
-**问：What is the career progression for sports coaches?**
-答：Often start as assistant or entry-level coaches, then progress to head coach, sports director, or referee supervisor. Advanced certifications or a sports science degree can open doors to professional sports.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

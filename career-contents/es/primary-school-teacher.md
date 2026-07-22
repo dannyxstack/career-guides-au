@@ -1,61 +1,95 @@
-# Primary School Teacher（Primary School Teacher）职业分析 · ES
+# Primary School Teacher — career analysis · Spain
 
-**职业代码：2240 – Primary School Teacher。**
+**Occupation code: 2240 (CNO)**
 
-Teaches children aged 6-12 in primary schools in Spain, covering core subjects like language, math, and science, with a focus on holistic development and classroom management.
+In Spanish public or private primary schools, basic subjects (language, mathematics, science, etc.) for children aged 6 to 12 are taught, with an emphasis on students' holistic development and classroom management.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado en Educación Primaria） | $700~$2,500（公立大学每年学费，视自治区而定） |
-| 硕士（Máster） | 1年（Máster en Profesorado，若本科非教育类） | $1,500~$4,000（公立大学学费，用于补充教学能力） |
+| Undergraduate (Grado) | 4 years (Grado en Educación Primaria) | $700~$2,500 (Annual tuition fees for public universities vary depending on the autonomous region) |
+| Máster | 1 year (Máster en Profesorado, if the undergraduate is not educational) | $1,500~$4,000 (Public university tuition is used to supplement teaching capacity) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 小学教育本科学位 | 西班牙大学 | 必备 | 需包含教学实习 |
-| 教师资格（CAP或Máster en Profesorado） | 自治区教育部门 | 必备 | 非教育类本科需完成此硕士 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证为同等西班牙学位 |
+| Bachelor's degree in Primary Education | Spanish University | Required | Must include teaching internships |
+| Teacher Qualification (CAP or Máster en Profesorado) | Autonomous region education department | Required | Non-education bachelor's degree holders must complete this master's degree |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees must be recognized as equivalent to a Spanish degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 175,000。西班牙小学教师就业稳定，受人口出生率下降影响，岗位增长平缓。公立学校需通过竞争性考试（oposiciones）获得永久职位，私立学校需求较大。2023年从业人数约17万。
+**Job demand: medium (★★½☆☆).** National workforce approx. 175,000. Primary school teacher jobs in Spain are stable, with slow job growth due to declining birth rates. Public schools require passing competitive exams (oposiciones) for permanent positions, while private schools have higher demand. In 2023, the workforce was approximately 170,000.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公立学校临时教师或私立学校起薪 |
-| 中级（4-10年） | $30,000~$38,000 | 公立正式教师（funcionario），含工龄补贴 |
-| 高级（10年以上） | $38,000~$45,000 | 资深教师或兼任管理职务 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary for temporary teachers in public schools or private schools |
+| Mid-level (4-10 years). | $30,000~$38,000 | Public official teachers (funcionario), including seniority subsidies |
+| Senior (10+ years) | $38,000~$45,000 | Senior teachers or concurrent management positions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径：从临时教师（interino）起步，通过oposiciones成为正式教师（funcionario）。可晋升为教学协调员、副校长、校长，或转任教育督导、培训师等。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work content of primary school teachers will be moderately enhanced by AI, but core teaching and emotional education responsibilities are hard to replace, making it a 'mixed bag' profession.
+
+Career path: Start as a temporary teacher (interino) and become a full-time teacher (funcionario) through oposiciones. They can be promoted to teaching coordinator, vice principal, principal, or transfer to education supervisors or trainers.
+
+**Tasks most exposed to AI:**
+
+- Analysis of standardized test scores and scores
+- Explanation of basic knowledge points and repetitive exercises
+- Data management of student attendance and behavior records
+- Preliminary generation of lesson plans and teaching materials
+
+**Where AI augments the role:**
+
+- Customize exercises for students of different levels using the AI personalized learning platform
+- Use AI to analyze student assignments and test data to adjust teaching strategies
+- Using virtual reality tools to assist immersive teaching in subjects such as science and geography
+- AI teaching assistants manage classroom discipline and interaction, improving efficiency
+
+**Human moat:**
+
+- Emotional companionship and psychological support build trust between teachers and students
+- Creative Teaching Design and Improvisation in the Classroom
+- Moral character cultivation and social-emotional learning guidance
+- Deep communication and collaboration with parents and the community
+- Address individualized education for students with special needs
+
+**Skills to build:**
+
+- Ability to use AI educational tools (such as Knewton, Carnegie Learning)
+- A data-driven approach to teaching decision-making
+- Project-Based Learning (PBL) and Maker Education Skills
+- Interdisciplinary curriculum design skills
+- Student mental health and basic knowledge of crisis intervention
+- Digital literacy and cybersecurity awareness
+
+**Key growth areas:**
 
 - Stable
 - Public sector
@@ -64,65 +98,64 @@ Teaches children aged 6-12 in primary schools in Spain, covering core subjects l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employee Work Permit） | 需西班牙学校提供工作合同，并证明无法在欧盟找到合适人选。 |
-| Subclass Homologación（Degree Equivalence） | 非欧盟学历必须通过学历认证，耗时6个月至2年，是申请教师资格的前提。 |
+| Subclass Cuenta ajena (Employee Work Permit) | A work contract must be provided by the Spanish school and proof that suitable candidates cannot be found in the EU. |
+| Subclass Homologación (Degree Equivalence) | Non-EU qualifications must pass qualification verification, which takes 6 months to 2 years, which is a prerequisite for applying for teacher qualifications. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary School Teacher？**
-- 热爱儿童教育、有耐心和沟通能力者
-- 愿意通过竞争性考试获得稳定职位者
-- 母语为西班牙语或达到C1以上水平者
-
-**谁不适合学Primary School Teacher？**
-- 不擅长课堂管理和纪律维持者
-- 追求高薪或快速晋升者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about children's education, patient and communicative skills
+- Those willing to obtain stable positions through competitive exams
+- Native Spanish speaker or at least C1 level
+
+**Who is not suited**
+- Those who are not good at classroom management and maintaining discipline
+- Those seeking high salaries or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a primary school teacher in Spain?**
+A: Public school full-time teachers earn around €30,000–45,000 annually, private schools slightly less, and substitute teachers may earn even less.
+
+**Q: How can non-EU citizens become primary school teachers in Spain?**
+A: You must first complete academic certification (homologación), then obtain a teaching qualification (Máster en Profesorado), and finally apply for work residence (cuenta ajena) through a work contract.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Primary School Teacher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for primary school teachers in Spain?**
-答：Public school permanent teachers earn around €30,000 to €45,000 annually, while private school salaries are slightly lower.
-
-**问：How can non-EU citizens become primary school teachers in Spain?**
-答：They must first obtain degree equivalence (homologación), then complete the teacher training master's, and secure a work contract for a work permit.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

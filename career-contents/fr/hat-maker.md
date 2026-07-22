@@ -1,60 +1,96 @@
-# Hat Maker（Hat Maker）职业分析 · FR
+# Hat Maker — career analysis · France
 
-**职业代码：B1801 – Hat Maker。**
+**Occupation code: B1801 (ROME)**
 
-Designs, makes, and repairs hats, including fashion hats, traditional headwear, and custom pieces. Works in workshops or small fashion houses, requiring skills in cutting, sewing, and shaping.
+Responsible for designing, making, and repairing various types of hats, including fashion hats, traditional hat accessories, and custom hats. Usually working in handicraft workshops or small garment companies, you need to master cutting, sewing, and styling skills.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 帽子制作 | 2年（CAP） | —（公立学校免学费，仅注册费；可通过学徒制获得报酬） |
-| Bac pro 时装与制帽 | 3年（Bac pro） | —（公立学校免学费，材料费自付） |
+| CAP hat making | 2 years (CAP) | $0~$1,000 (Public schools offer tuition waiver, only registration fees; Compensation can be obtained through apprenticeships) |
+| Bac Pro fashion and hat making | 3 years (Bac pro) | $0~$1,500 (Public schools offer tuition-free fees; materials are self-paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 帽子制作 | 法国教育部 | 必备 | 基础职业文凭，通常为入门必备 |
-| Bac pro 时装 | 法国教育部 | 可选 | 可替代CAP，提供更全面的时装知识 |
+| CAP hat making | French Ministry of Education | Required | Basic vocational diplomas, usually essential for beginners |
+| Bac Pro fashion | French Ministry of Education | Optional | It can replace CAP and provide more comprehensive fashion knowledge |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 1,500。法国帽子制作师岗位有限，多集中在高级定制和传统工艺领域。就业机会主要存在于巴黎和奢侈品产区，受手工定制市场需求驱动，但整体需求稳定，竞争中等。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,500. Positions for French hat makers are limited, mostly concentrated in haute couture and traditional crafts. Job opportunities mainly exist in Paris and the luxury region, driven by demand for handmade customization, but overall demand remains stable and competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，学徒期收入较低 |
-| 中级（4-7年） | $25,000~$32,000 | 税前年薪，工作室或高级定制品牌 |
-| 高级（8年以上） | $32,000~$45,000 | 税前年薪，知名工坊或自营工作室 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, relatively low apprenticeship income |
+| Mid-level (4-7 years) | $25,000~$32,000 | Pre-tax annual salary, studio or haute couture brand |
+| Senior (8+ years) | $32,000~$45,000 | Pre-tax annual salary, well-known workshops or self-operated studios |
+| average salary | $26,988 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒晋升为高级工匠，或开设自己的帽子工作室。部分经验者转向舞台或影视行业，从事戏帽制作。也可通过艺术院校进修，提升设计能力成为创意总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The craftsmanship of hat makers is difficult to fully replace by AI in the short term, but AI filters and 3D modeling are eating into tasks like design expression and style preview, while customization, repairs, and customer communication have actually been enhanced.
+
+You can advance from apprentice to master craftsman, or open your own hat workshop. Some experienced individuals have moved into the stage or film industry, engaging in stage hat production. You can also enhance your design skills and become a creative director through further studies at art schools.
+
+**Tasks most exposed to AI:**
+
+- AI generates initial hat sketches and color schemes
+- Using 3D modeling software, the structure of the hat is automatically generated
+- Use an AI material recommendation system to match fabrics with fillings
+- AI-driven automated cutting machines complete standard pattern cutting
+- AI rendering generates e-commerce product display images and virtual try-on animations
+
+**Where AI augments the role:**
+
+- Use AI customer profiling tools to analyze trends and personalized needs
+- AI-assisted structural analysis software optimizes the stability of complex cap profiles
+- Using an AI virtual try-on system to display modification effects in real time, improving customer communication efficiency
+- Quickly estimate custom hat quotes using AI cost accounting tools
+- Track rare niche materials with AI-powered inventory management software
+
+**Human moat:**
+
+- Intuitive judgment and fine-tuning of the customer's head shape and facial contours
+- The originality of traditional hand-embroidered and beaded decorative techniques
+- Understanding and restoring historical craftsmanship and materials when restoring antique hats
+- Non-standard styling ideas across materials (such as feathers, lace, tulle).
+- Build trust with haute couture clients and deliver a unique handcrafted experience
+
+**Skills to build:**
+
+- 3D modeling and rendering (such as CLO 3D, Blender)
+- Digital fabric scanning and physical property simulation
+- AI image generation and prompt engineering
+- Basic data analysis and trend forecasting tools
+- Virtual try-on system operation and customer communication skills
+- Social media visual content creation and brand operations
+
+**Key growth areas:**
 
 - Artisanal craftsmanship
 - Haute couture
@@ -63,62 +99,64 @@ Designs, makes, and repairs hats, including fashion hats, traditional headwear, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇于法国公司的工作居留，需雇主担保，匹配职业要求 |
-| Subclass Passeport Talent（Passeport Talent） | 人才护照，适用于艺术家或手工艺人，需证明高技能或经济贡献 |
+| Subclass Salarié (Salarié) | Work residence employed by a French company requires employer sponsorship and matches occupational requirements |
+| Subclass Passeport Talent (Passeport Talent) | Talent passport, applicable to artists or craftsmen, requires proof of high skill or financial contribution |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hat Maker？**
-- 热爱手工制作和精细工艺的人
-- 有艺术审美和设计创意的人
-- 愿意从学徒做起、积累经验的人
+**Who is suited**
+- People who love handmade crafts and fine craftsmanship
+- People with artistic aesthetics and creative design skills
+- Those willing to start as apprentices and accumulate experience
 
-**谁不适合学Hat Maker？**
-- 追求高薪和快速晋升的人
-- 对重复性手工劳动缺乏耐心的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who lack patience for repetitive manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hat makers?**
+A: Entry-level annual salary about €20,000-25,000, mid-level €25,000-32,000, senior up to €45,000. Salary varies by region and employer; self-employed income fluctuates significantly.
+
+**Q: Can foreigners become French hat makers through skilled migration?**
+A: This profession is not in short supply but is relatively difficult to immigrate. Usually, a French diploma or years of experience are required, and applications are made through a work residence (Salarié) or talent passport. It is recommended to first obtain a CAP diploma and gain local experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hat Maker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a hat maker?**
-答：Entry-level earns €20-25k annually, mid-level €25-32k, senior up to €45k. Salaries vary by region and employer; self-employed income fluctuates.
-
-**问：Can foreigners migrate to France as hat makers?**
-答：This occupation is not in shortage, making migration difficult. Usually requires a French diploma or years of experience, applying via Salarié work permit or Passeport Talent. It is advisable to obtain a CAP and gain local experience.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

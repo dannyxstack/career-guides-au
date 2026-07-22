@@ -1,59 +1,95 @@
-# Defence Force Senior Officer（Defence Force Senior Officer）职业分析 · 新西兰
+# Defence Force Senior Officer — career analysis · New Zealand
 
-**职业代码：111212 – Defence Force Senior Officer。**
+**Occupation code: 111212 (ANZSCO)**
 
-Defence Force Senior Officers command and manage New Zealand Defence Force (NZDF) units across army, navy, and air force, develop strategic plans and lead military operations. This role is primarily for NZ citizens/residents, with limited migration pathways for foreign personnel.
+Senior defence force officers command and manage the land, sea, and air forces of the New Zealand Defence Force (NZDF), develop strategic plans, and lead military operations. This occupation is primarily for local military personnel in New Zealand and is not usually open to foreign migrants, but can be applied for through specific skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 军官学院培训或大学学历 | 3-4年 | —（新西兰公民可通过新西兰国防军赞助入学，费用全免；外国申请人需自费） |
-| 初级军官培训 | 1年 | —（由新西兰国防军内部培训，无直接费用） |
+| Officer academy training or university degree | 3-4 years | $0~$20,000 (New Zealand citizens can enroll through the New Zealand Defence Force sponsorship with full fee coverage; foreign applicants need to self-fund) |
+| Junior Officer Training | 1 year | $0~$0 (Provided in-house by New Zealand Defence Force, no direct cost.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国防军军官资格 | 新西兰国防军（NZDF） | 必备 | 必须完成NZDF的军官选拔和培训课程 |
-| 安全许可 | 新西兰安全情报局（NZSIS） | 必备 | 需持有新西兰最高级别安全许可，通常要求新西兰公民身份 |
-| 雅思（IELTS） | IELTS Australia | 可选 | 移民技术移民类别需雅思总分6.5 |
+| New Zealand Defence Force Officer Qualifications | New Zealand Defence Force (NZDF) | Required | Must complete NZDF officer selection and training courses. |
+| Safety clearance | New Zealand Security Intelligence Service (NZSIS) | Required | Requires holding New Zealand's highest level of security clearance, typically requiring New Zealand citizenship |
+| IELTS (International English Language Testing System) | IELTS Australia | Optional | General skilled migration requires an IELTS overall score of 6.5. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 200。新西兰国防军高级军官的就业前景稳定但竞争激烈，职位多通过内部晋升填补。预计未来五年需求保持平稳，受国防预算和国家安全政策影响。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 200. Employment prospects for Senior Officers in the New Zealand Defence Force are stable but competitive, with positions often filled through internal promotions. Demand is expected to remain steady over the next five years, influenced by defence budgets and national security policies.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 少校级别，年薪范围 |
-| 中级（4-10年） | $100,000~$130,000 | 中校级别 |
-| 高级（10年以上） | $140,000~$180,000 | 上校或准将级别 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | Major level, salary range |
+| Mid-level (4-10 years). | $100,000~$130,000 | Lieutenant Colonel level |
+| Senior (10+ years) | $140,000~$180,000 | Colonel or Brigadier level |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展通常从初级军官开始，逐步晋升至少校、中校、上校等高级职位，最高可达准将。晋升依赖绩效、服役年限和高级指挥课程，路径明确但竞争激烈。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The command decision-making and moral responsibility of senior defense force officers are hard to replace by AI, but tasks like intelligence analysis, logistics optimization, and administrative reporting will be highly automated. Entry-level positions are narrowing due to AI management tools, but demand for strategic thinking and leadership is increasing, presenting a mixed outlook for the profession.
+
+Career progression usually starts as junior officer, advancing to major, lieutenant colonel, colonel, and senior positions up to brigadier. Promotion depends on performance, years of service, and senior command courses; path is clear but competitive.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of tactical intelligence reports and preliminary threat assessment
+- Logistics supply chain optimization scheduling (e.g., supply route planning)
+- Routine Training Performance Recording and Effectiveness Statistical Analysis
+- Automated review and version control of standard operating procedure documents
+- Real-time multilingual translation and noise filtering in battlefield communications
+
+**Where AI augments the role:**
+
+- AI-assisted battlefield situational awareness integrates multi-source sensor data to improve decision-making speed
+- Smart staff system provides multi-scenario simulation and risk assessment to support commander decisions
+- AI simulates opponent behavior for war gaming, enhancing training effectiveness
+- Natural language processing to assist in quickly summarising meeting minutes and after-action reports
+- Predictive maintenance systems improve equipment availability, reducing manual inspections
+
+**Human moat:**
+
+- Making life-and-death ethical decisions in dynamic, complex environments
+- Inspire, lead diverse teams and build trust and morale
+- Intuitive judgment on incomplete, contradictory, or even deceptive information
+- Assume legal and political responsibilities as an instrument of state violence
+- Uncertainty and creativity in cross-cultural communication and diplomatic negotiation
+
+**Skills to build:**
+
+- Foundational data science analysis (Python/R, statistical modeling)
+- AI system output interpretation and validation (Explainable AI)
+- Human-computer interaction interface design and requirement definition
+- Knowledge of AI governance within ethical and legal frameworks
+- Complex systems thinking and wargaming capabilities
+- Cross-disciplinary team collaboration and technical communication
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Defence Force Senior Officers command and manage New Zealand Defence Force (NZDF
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 该职业在绿色清单Tier 1，符合条件可直接申请居留，但通常需要新西兰国防军的工作邀请 |
-| Subclass SMC（Skilled Migrant Category） | 可通过技术移民类别申请，需满足6分制，包括学历、工作经验和薪酬积分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如获得认证雇主（新西兰国防军）的工作邀请，可申请此工签，但优先考虑公民 |
+| Subclass Green List T1 (Straight to Residence Visa) | This occupation is on Green List Tier 1; eligible for direct residence application, but usually requires a job offer from New Zealand Defence Force |
+| Subclass SMC (Skilled Migrant Category) | Available through skilled migration categories, requiring 6-point system including points for education, work experience, and salary. |
+| Subclass AEWV (Accredited Employer Work Visa) | If offered a job by an accredited employer (New Zealand Defence Force), you can apply for this work visa, but citizens are given priority. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Defence Force Senior Officer？**
-- 具有领导力和战略思维的人
-- 愿意服从严格军事纪律和长期海外部署的人
-- 新西兰公民或永久居民优先
-
-**谁不适合学Defence Force Senior Officer？**
-- 不具新西兰公民身份或安全许可条件的人
-- 偏好自由职业或灵活工作时间的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with leadership and strategic thinking
+- People willing to comply with strict military discipline and long-term overseas deployments
+- New Zealand citizens or permanent residents preferred
+
+**Who is not suited**
+- Persons who do not hold New Zealand citizenship or meet security clearance requirements
+- People who prefer freelancing or flexible working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for senior officers in the New Zealand Defence Force?**
+A: Salary increases with rank and years of service. Major annual salary approx. NZ$70,000–NZ$90,000, Colonel can reach NZ$140,000–NZ$180,000.
+
+**Q: Can foreigners become senior officers in the New Zealand Defence Force through skilled migration?**
+A: This occupation is on Green List Tier 1, but typically requires New Zealand citizenship or permanent residence; foreign nationals must first obtain a job offer and meet security clearance.
+
+**Q: What is the career progression path for senior officers in the New Zealand Defence Force?**
+A: Starting from Major, promotion occurs every 3-5 years, requiring completion of advanced command courses and performance evaluations, up to the rank of Brigadier.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Defence Force Senior Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Defence Force Senior Officer in New Zealand?**
-答：Salary increases with rank and years of service: Major around NZD 70,000-90,000, Colonel up to NZD 140,000-180,000.
-
-**问：Can a foreigner become a Defence Force Senior Officer through skilled migration in New Zealand?**
-答：This role is on the Green List Tier 1, but usually requires NZ citizenship or residency; foreign nationals need a job offer and security clearance.
-
-**问：What is the career progression for a Defence Force Senior Officer in New Zealand?**
-答：Starting from Major, promotion occurs every 3-5 years, requiring completion of advanced command courses and performance reviews, up to Brigadier.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Agricultural Expert（Agricultural Expert）职业分析 · DE
+# Agricultural Expert — career analysis · Germany
 
-**职业代码：1112 – Agricultural Expert。**
+**Occupation code: 1112 (KldB)**
 
-Agricultural experts advise farms, assess soil, crops, livestock and management, optimize operations, and ensure compliance with environmental and sustainability standards.
+Agricultural experts advise agribusinesses, assess soil, crops, livestock, and farm management, develop optimization plans, and ensure compliance with environmental and sustainability standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（农业科学） | 3-4年 | —（公立大学每学期注册费约150-300欧元） |
-| 硕士（农业经济或相关） | 1-2年 | —（部分硕士项目收学费，但公立大学低费） |
+| Bachelor's (Agricultural Science) | 3-4 years | $0~$1,500 (Public universities charge a semester registration fee of approximately 150-300 euros) |
+| Master's degree (Agricultural Economics or related) | 1-2 years | $0~$1,500 (Some master's programs charge tuition, but public universities are low-cost.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业科学学士学位 | 德国大学 | 必备 | 通常为进入该领域的最低学历要求 |
-| 认证农业专家（Sachverständiger） | 德国农业协会（DLG）或州农业协会 | 可选 | 可自愿获得，增强专业信誉 |
+| Bachelor of Agricultural Science | German university | Required | Typically the minimum educational requirement to enter this field |
+| Certified Agricultural Expert (Sachverständiger) | German Agricultural Society (DLG) or State Agricultural Society | Optional | Can be obtained voluntarily to enhance professional credibility. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 5,000。德国农业正面临数字化与可持续转型，对专业顾问需求稳定。有机农业和精准农业领域增长，但整体岗位数量有限，竞争适中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. German agriculture is undergoing digital and sustainable transformation, with stable demand for professional advisors. Growth in organic farming and precision agriculture, but overall job numbers are limited with moderate competition.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，取决于雇主和地区 |
-| 中级（3-7年） | $45,000~$60,000 | 有经验的顾问或专家 |
-| 高级（7年以上） | $60,000~$80,000 | 资深专家或管理层 |
+| Median salary | $34,380 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, depends on employer and region |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced consultant or expert |
+| Senior (7+ years) | $60,000~$80,000 | Senior expert or management level |
+| average salary | $37,956 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从农业技术员或农场经理起步，积累经验后晋升为高级顾问或部门主管，也可转向研究或政策制定岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance agricultural experts' capabilities in data analysis, precision agriculture, and predictive modeling, while on-the-ground decision-making and interpersonal trust roles remain secure, with low risk.
+
+Can start as an agricultural technician or farm manager, gain experience, and advance to senior consultant or department head, or transition to research or policy-making roles.
+
+**Tasks most exposed to AI:**
+
+- Repeated soil sample data analysis
+- Routine crop growth monitoring report generation
+- Basic farm management record keeping
+- Standardized fertilizer formula recommendation
+- Simple pest and disease identification (image-based)
+
+**Where AI augments the role:**
+
+- Using satellite and drone remote sensing for precision agriculture decision-making
+- AI predictive models assist in resource optimization and risk assessment
+- Data processing and visualization enhance consulting report depth
+- Automated tools improve soil and crop monitoring efficiency
+- Intelligent recommendation systems optimize planting and breeding plans
+
+**Human moat:**
+
+- Interdisciplinary comprehensive diagnosis and complex problem-solving
+- Trust building and communication with farmers
+- Ethical judgment and long-term sustainable development strategy
+- Response to Unpredictable Events (e.g., Extreme Weather)
+- Regulatory compliance and social responsibility decision-making
+
+**Skills to build:**
+
+- Machine learning applications in agriculture
+- Remote Sensing and GIS Analysis
+- Data Science & Statistical Modeling
+- AI tool integration (e.g., precision agriculture platforms)
+- Digital farm management software
+- Sustainable agriculture and carbon accounting.
+
+**Key growth areas:**
 
 - organic farming
 - precision agriculture
@@ -61,65 +97,67 @@ Agricultural experts advise farms, assess soil, crops, livestock and management,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有学位且薪资达标者，快速获得居留与家庭团聚 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 有学位即可，无薪资下限硬性要求，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德寻找工作，适合职业不限 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with a degree and meeting salary thresholds, enabling fast residency and family reunification. |
+| Subclass Skilled Worker (Skilled Worker Visa) | A degree is required with no hard minimum salary; employer sponsorship is needed |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to come to Germany; suitable for any occupation |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural Expert？**
-- 对农业与可持续发展有强烈兴趣
-- 具备分析能力与沟通技巧
-- 愿意在乡村地区工作
-
-**谁不适合学Agricultural Expert？**
-- 不适应户外工作与田间环境
-- 追求高薪与快节奏城市生活
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in agriculture and sustainable development
+- Possess analytical skills and communication skills
+- Willing to work in rural areas
+
+**Who is not suited**
+- Not suitable for outdoor work and field environments
+- Seeking high salary and fast-paced city life
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural specialists?**
+A: Entry level around €35,000-45,000, senior up to €80,000. Income varies greatly between public institutions and private practice.
+
+**Q: How can foreigners become agricultural experts in Germany?**
+A: Requires a German-recognized agricultural degree; work via Blue Card or skilled migration visa, with language requirement usually B1 or above.
+
+**Q: What are the future development trends for this occupation?**
+A: Digitalisation and organic farming bring new opportunities, but traditional roles grow steadily; recommend learning agricultural technology.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Agricultural Expert的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural experts?**
-答：Entry level: €35k-45k, senior up to €80k, varies by employer and self-employment.
-
-**问：How can foreigners become agricultural experts in Germany?**
-答：Require a recognized agricultural degree, apply for EU Blue Card or skilled worker visa, German at least B1.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

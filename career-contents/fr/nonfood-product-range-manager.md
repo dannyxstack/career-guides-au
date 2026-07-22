@@ -1,60 +1,95 @@
-# Non-Food Product Range Manager（Non-Food Product Range Manager）职业分析 · FR
+# Non-Food Product Range Manager — career analysis · France
 
-**职业代码：D1503 – Non-Food Product Range Manager。**
+**Occupation code: D1503 (ROME)**
 
-Manages non-food product ranges in retail stores, overseeing purchasing, inventory, display, and sales strategies to ensure profitability and customer satisfaction.
+Responsible for managing non-food product lines in retail stores, including purchasing, inventory, display, and sales strategy formulation to ensure profitability and customer satisfaction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后两年（BTS/DUT） | 2年 | $4,000~$8,000（公立院校学费较低，私立商学院较高） |
-| 本科（Licence professionnelle） | 3年 | $2,000~$6,000（公立大学学费约200-500欧/年，专业方向费用另计） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒期间由企业支付学费并发放工资） |
+| The last two years of high school (BTS/DUT) | 2 years | $4,000~$8,000 (Public institutions have lower tuition fees, while private business schools have higher fees) |
+| Undergraduate (Licence professionnelle) | 3 years | $2,000~$6,000 (Tuition at public universities is about 200-500 euros per year, with specialized fees charged separately) |
+| Apprentissage | 1-2 years | $0~$0 (During the apprenticeship period, the company pays the tuition and pays the salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Management Commercial Opérationnel | 法国教育部 | 必备 | 商业管理文凭，常作为入门要求 |
-| Licence professionnelle Commerce et Distribution | 法国大学 | 可选 | 专业本科学位，提升竞争力 |
-| CACES（仓储设备操作证） | 法国劳动部 | 可选 | 若涉及仓储管理，可能需要 |
+| BTS Management Commercial Opérationnel | French Ministry of Education | Required | A diploma in business management is often used as an entry requirement |
+| Licence professionnelle Commerce et Distribution | French universities | Optional | Bachelor's degree in a major to enhance competitiveness |
+| CACES (Warehouse Equipment Operation Certificate) | French Ministry of Labor | Optional | If warehouse management is involved, it may be required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。法国零售业对产品线经理的需求稳定，特别是在大型零售商和连锁店中。随着电商发展，线上线下整合能力成为关键。预计就业前景平稳，竞争适度。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. The demand for product line managers in French retail remains steady, especially among large retailers and chains. With the development of e-commerce, the ability to integrate online and offline channels has become key. Employment prospects are expected to be stable and competition moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，不包括奖金 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，通常含绩效奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，视公司规模和责任范围 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, usually including performance bonus. |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary depends on company size and scope of responsibility |
+| average salary | $29,296 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从销售助理或部门主管起步，积累经验后晋升为产品线经理，进而可发展到品类经理或采购总监。也可转向零售咨询或供应链管理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace about 35% of tasks (data analysis, inventory forecasting, report generation), but core human competencies (negotiation, strategic decision-making, category innovation) remain irreplaceable. Proactively learn AI tools to amplify effectiveness.
+
+Typically, they start as sales assistants or department heads, gain experience, and are promoted to product line managers, eventually advancing to category managers or purchasing directors. You can also turn to retail consulting or supply chain management.
+
+**Tasks most exposed to AI:**
+
+- Periodic inventory reporting and sales data analysis
+- Automatic replenishment and purchase order generation based on historical data
+- Routine tracking and early warning of product line performance metrics
+- Preliminary comparison and screening of supplier quotations
+
+**Where AI augments the role:**
+
+- Use AI to predict consumer trends and seasonal demand
+- AI tools optimize category combinations and display plans
+- Use natural language processing (NLP) to analyze customer feedback and iterate product selection
+- Evaluate the effectiveness of promotional strategies with AI
+- Automated initial screening of contract terms and risk alerts through AI
+
+**Human moat:**
+
+- Complex business negotiations and supplier relationship management
+- Category planning and innovation at the strategic level
+- Handling unstructured issues and decision-making for abnormal events
+- Cross-departmental coordination and stakeholder management
+- Insight into subtle changes in the local market and flexible responses
+
+**Skills to build:**
+
+- AI tool applications (such as retail predictive analytics platforms, automated reporting tools)
+- Data interpretation and visualization (Tableau/Power BI)
+- Basic programming (Python or SQL for data cleaning)
+- Supply chain digital twin and analog operations
+- Consumer Behavior Psychology and Trend Research Methods
+- Agile project management and digital collaboration
+
+**Key growth areas:**
 
 - Retail Management
 - Omnichannel
@@ -63,68 +98,67 @@ Manages non-food product ranges in retail stores, overseeing purchasing, invento
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于有专业技能或高等教育背景的申请人，需雇主担保，有效期为4年 |
-| Subclass Salarié（Employee Work Permit） | 常规工作居留，需法国公司提供长期合同，并满足薪酬门槛 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高技能人才，要求年薪至少约53,000欧元（2023年标准），有效期最长4年 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for applicants with professional skills or a higher education background, requires employer sponsorship, valid for 4 years |
+| Subclass Salarié (Employee Work Permit) | Regular work residency requires a long-term contract from a French company and a salary threshold must be met |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talent, an annual salary of at least about 53,000 euros (2023 standard) is required, valid for up to 4 years |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-Food Product Range Manager？**
-- 热爱零售业，注重商业分析和数字指标
-- 擅长沟通协调，能够与供应商和团队高效合作
-- 具备组织能力，能管理多品类库存和促销
-
-**谁不适合学Non-Food Product Range Manager？**
-- 对快节奏、高压力的零售环境不适应
-- 不喜欢频繁的周期性和季节性工作变化
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about retail, focusing on business analysis and digital metrics
+- Skilled in communication and coordination, able to work efficiently with suppliers and teams
+- Possess organizational skills and be able to manage multi-category inventory and promotions
+
+**Who is not suited**
+- Cannot adapt to fast-paced, high-pressure retail environments
+- Dislikes frequent cyclical and seasonal work changes
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for non-food product line managers?**
+A: Entry-level salaries range from about 24,000 to 30,000 euros per year, intermediate salaries from 30,000 to 40,000 euros, and seniors up to over 55,000 euros, generally considered middle-income in France.
+
+**Q: As a foreigner, how can you obtain a work visa for a French non-food product line manager?**
+A: Applications can be made through the Passeport Talent Passport or Regular Work Residency (Salarié), which requires obtaining a work contract from a French employer and meeting relevant salary and experience requirements. The EU Blue Card is also eligible, but the salary threshold is higher.
+
+**Q: What educational background is required for this occupation?**
+A: Typically, a business or retail management diploma at the BTS or Licence professionnelle level is required, and apprenticeships are also common pathways. Some companies accept relevant work experience as an alternative to academic qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Non-Food Product Range Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a non-food product range manager?**
-答：Entry-level salaries range from €24,000 to €30,000 per year, mid-level from €30,000 to €40,000, and senior positions can exceed €55,000, making it a mid-range income in France.
-
-**问：How can a foreigner obtain a work visa as a non-food product range manager in France?**
-答：You can apply via the Talent Passport or standard Employee Work Permit, requiring a job offer from a French employer and meeting salary and experience criteria. The EU Blue Card is also an option but has a higher salary threshold.
-
-**问：What educational background is needed for this occupation?**
-答：Typically a BTS or Licence professionnelle in business or retail management is required; apprenticeships are also common. Some employers accept relevant work experience in lieu of formal education.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

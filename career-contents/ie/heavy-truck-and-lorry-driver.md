@@ -1,59 +1,95 @@
-# Heavy Truck and Lorry Driver（Heavy Truck and Lorry Driver）职业分析 · IE
+# Heavy Truck and Lorry Driver — career analysis · Ireland
 
-**职业代码：8332 – Heavy Truck and Lorry Driver。**
+**Occupation code: 8332 (ISCO08)**
 
-Drive heavy trucks and lorries to transport goods, a key role in Ireland's logistics sector handling domestic and international deliveries.
+Driving heavy trucks and vans to transport goods is a key role in Ireland's logistics industry, responsible for domestic and international transport tasks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3-6个月 | $1,000~$3,000（驾驶学校培训费用） |
-| 高中毕业 | 无需额外学历 | —（通常要求完成义务教育） |
+| Vocational training | 3-6 months | $1,000~$3,000 (Driving school training fees) |
+| High school graduation | No additional academic qualifications required | $0~$0 (Usually requires completion of compulsory education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| C1或C类驾驶执照 | Road Safety Authority (RSA) | 必备 | 重型卡车驾驶资格 |
-| 驾驶员专业能力证书（CPC） | RSA | 必备 | 需定期更新 |
-| 数字行车记录卡 | RSA | 必备 | 用于记录驾驶时间 |
+| C1 or C class driving license | Road Safety Authority (RSA) | Required | Heavy Truck Driving License |
+| Certificate of Professional Competence (CPC) for drivers | RSA | Required | Requires regular updates |
+| Digital tachograph card | RSA | Required | Used to record driving hours |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。爱尔兰物流业持续增长，重型卡车司机需求稳定，尤其受电子商务推动，但面临劳动力老龄化挑战，预计未来几年仍有职位空缺。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Ireland's logistics sector continues to grow, with steady demand for heavy truck drivers, especially driven by e-commerce, but faces an aging workforce; job vacancies are expected in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从普通司机晋升为团队领导或调度员，积累经验后可独立运营运输业务，或转向物流管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+Can advance from driver to team leader or dispatcher; with experience, can independently run transport operations or transition to logistics management.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - E-commerce logistics
 - Supply chain expansion
@@ -62,68 +98,67 @@ Drive heavy trucks and lorries to transport goods, a key role in Ireland's logis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于普通技术工人，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，但司机岗位通常不符合要求。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，适用于有经验司机。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to ordinary skilled workers, requires employer sponsorship, annual salary not less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but driver positions typically do not qualify. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, suitable for experienced drivers. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heavy Truck and Lorry Driver？**
-- 喜欢长途驾驶的人
-- 能适应灵活工作时间者
-- 具备基本车辆维护知识者
-
-**谁不适合学Heavy Truck and Lorry Driver？**
-- 不喜欢久坐或重复工作的人
-- 无法承受长时间离家的压力者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy long-distance driving
+- Those who can adapt to flexible working hours
+- Those with basic vehicle maintenance knowledge
+
+**Who is not suited**
+- People who dislike sitting for long periods or repetitive work
+- Those unable to withstand the pressure of long periods away from home
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a heavy truck driver?**
+A: Entry-level drivers earn around 28,000-35,000 euros per year; experienced drivers can earn 45,000-55,000 euros, depending on route and cargo type.
+
+**Q: Can overseas drivers obtain an Irish work visa?**
+A: Can apply for a General Employment Permit, requires employer sponsorship and an annual salary of at least €30,000. EU citizens have free movement rights.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Can advance to fleet supervisor, logistics manager, or buy your own truck to become an independent operator.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★★☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Heavy Truck and Lorry Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for heavy truck drivers?**
-答：Entry-level drivers earn around €28,000-€35,000 per year, while experienced drivers can earn €45,000-€55,000, depending on routes and cargo.
-
-**问：Can overseas drivers get a work visa for Ireland?**
-答：Yes, via a General Employment Permit with employer sponsorship and a salary of at least €30,000. EU citizens have free movement rights.
-
-**问：Are there career advancement opportunities?**
-答：Yes, you can advance to fleet supervisor, logistics manager, or become an owner-operator with your own truck.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

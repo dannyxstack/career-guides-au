@@ -1,60 +1,96 @@
-# Order Clerks（Order Clerks）职业分析 · 美国
+# Order Clerks — career analysis · United States
 
-**职业代码：43-4151 – Order Clerks。**
+**Occupation code: 43-4151 (SOC)**
 
-Receive and process incoming orders for materials, merchandise, classified ads, or services via mail, phone, or electronic means; duties include informing customers of prices, shipping dates, delays, preparing contracts, and handling complaints.
+Receive and process orders for materials, goods, classified ads, or services (such as repairs, installation, rental) via mail, phone, or electronic means, including notifying customers of prices, shipping dates, delays, preparing contracts, and handling complaints.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区大学学费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 最低要求 |
-| 在职培训 | 雇主 | 必备 | 通常为期数周 |
+| High school diploma or equivalent | High school | Required | Minimum requirements |
+| On-the-job training | Employer | Required | Typically lasts several weeks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 136,600。订单文员需求预计下降，因自动化和在线自助订购系统减少人工依赖，但医疗保健和建筑行业仍有一定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 136,600. Demand for order clerks is expected to decline due to automation and online self-service ordering systems reducing reliance on manual labor, but healthcare and construction industries still have some demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级薪资 |
-| 中级（3-6年） | $35,000~$42,000 | 有经验者 |
-| 高级（6年以上） | $42,000~$50,000 | 资深或主管级 |
+| Median salary | $46,170 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level salary |
+| Mid-level (3–6 years) | $35,000~$42,000 | Experienced individuals |
+| Senior (6+ years) | $42,000~$50,000 | Senior or supervisor level |
+| average salary | $48,220 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可晋升为采购经理、物流协调员或客服主管，需掌握订单管理系统和数据分析技能。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of order clerks (order entry, query response, exception handling) will be largely replaced by AI and automation systems, significantly reducing positions, but some duties requiring interpersonal communication and complex judgment may remain.
+
+Can advance to procurement manager, logistics coordinator, or customer service supervisor, requiring skills in order management systems and data analysis.
+
+**Tasks most exposed to AI:**
+
+- Receive and enter order information into ERP system via email/phone
+- Check inventory, prices, shipping dates, and notify customers.
+- Handle standardized order changes and cancellation requests
+- Generate and send templated documents like order confirmations and invoices
+- Answering common order status and delay inquiries
+
+**Where AI augments the role:**
+
+- AI-assisted rapid decision-making for complex anomalous orders (e.g., multi-item combinations, special discounts)
+- Use natural language processing to automatically generate professional customer communication emails.
+- Predicts customer order tendencies and proactively recommends through data analysis
+- AI monitors order process and automatically alerts potential delays or issues.
+- Automatically integrate multi-channel order data for supervisor analysis
+
+**Human moat:**
+
+- Handle non-standard, highly emotional customer complaints
+- Cross-departmental coordination to resolve complex logistics or configuration issues
+- Make final judgments on AI-generated order review results
+- Optimize order processes and customer experience based on industry experience
+- Maintain personalized trust in long-term client relationships
+
+**Skills to build:**
+
+- Proficient in major ERP and order management systems
+- Basic data analysis and anomaly identification skills
+- Use and maintenance of AI tools (e.g., AI customer service support platforms)
+- Strengthen communication and conflict resolution skills
+- Learn automated process design (e.g., RPA basics)
+- Project management and time management skills
+
+**Key growth areas:**
 
 - Automation Impact
 - Declining Demand
@@ -63,65 +99,67 @@ Receive and process incoming orders for materials, merchandise, classified ads, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因为订单文员通常不满足专业职业要求 |
-| Subclass EB-3（Employment-Based Third Preference） | 仅当雇主能证明劳工短缺，但极罕见 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable as order clerks usually do not meet professional occupation requirements |
+| Subclass EB-3 (Employment-Based Third Preference) | Only if employer can prove labor shortage, but extremely rare |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Order Clerks？**
-- 注重细节，善于处理重复性文书工作
-- 具备良好沟通能力，能耐心解答客户问题
-- 适应快节奏办公环境，能同时处理多项任务
+**Who is suited**
+- Detail-oriented, good at handling repetitive paperwork
+- Good communication skills, able to patiently answer customer questions
+- Able to adapt to a fast-paced office environment and handle multiple tasks simultaneously
 
-**谁不适合学Order Clerks？**
-- 不喜欢重复性工作和长时间坐在电脑前
-- 希望高薪和高成长性职业的人
+**Who is not suited**
+- Dislikes repetitive work and long hours sitting at a computer
+- people seeking high salary and high-growth careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for order clerks?**
+A: According to the U.S. Bureau of Labor Statistics, the 2022 median annual salary was about $37,000, entry-level around $30,000, and senior can reach over $45,000.
+
+**Q: Can an order clerk apply for a US work visa?**
+A: Usually not, as this occupation typically does not meet H-1B specialty occupation requirements, and employer-sponsored green cards are very difficult unless promoted to management.
+
+**Q: What is the future job outlook for order clerks?**
+A: Employment expected to decline due to automation and online ordering systems reducing demand, but opportunities remain in healthcare, construction, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Order Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Order Clerks?**
-答：According to BLS, median annual wage is about $37,000 in 2022, with entry-level around $30,000 and experienced up to $45,000.
-
-**问：Can Order Clerks apply for US work visas?**
-答：Generally no, as the occupation does not meet H-1B specialty occupation criteria, and employer-sponsored green cards are very rare unless moving into management.
-
-**问：What is the future job outlook for Order Clerks?**
-答：Employment is projected to decline due to automation and online ordering systems, though some demand remains in healthcare and construction.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

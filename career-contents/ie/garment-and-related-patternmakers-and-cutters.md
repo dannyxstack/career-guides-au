@@ -1,60 +1,93 @@
-# Garment and Related Patternmakers and Cutters（Garment and Related Patternmakers and Cutters）职业分析 · IE
+# Garment and Related Patternmakers and Cutters — career analysis · Ireland
 
-**职业代码：7532 – Garment and Related Patternmakers and Cutters。**
+**Occupation code: 7532 (ISCO08)**
 
-Create patterns and cut fabrics for garment production, ensuring precision and efficiency. Niche demand in Ireland's small textile and high-end fashion sector.
+Responsible for creating garment patterns based on designs and cutting fabric to ensure production accuracy and efficiency. The Irish textile and garment industry is small, but there is demand in high-end custom and fashion sectors.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育后职业培训 | 1-2年 | $3,000~$8,000（私立服装设计学校课程费用） |
-| 本科（服装设计/纺织） | 3-4年 | $10,000~$20,000（每年学费，公立大学） |
+| Post-secondary vocational training | 1-2 years | $3,000~$8,000 (Tuition fees for private fashion design school programs) |
+| Bachelor's degree (Fashion Design/Textiles) | 3-4 years | $10,000~$20,000 (Annual tuition, public university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 服装打版与裁剪证书 | 爱尔兰国家资格框架（NFQ） | 可选 | 非强制，但有助于就业 |
-| CAD打版技能认证 | 相关软件厂商或培训中心 | 可选 | 提升竞争力 |
+| Garment pattern making and cutting certificate | Irish National Framework of Qualifications (NFQ) | Optional | Not mandatory, but helpful for employment |
+| CAD pattern-making skills certification | relevant software vendors or training centers | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 500。爱尔兰服装制造业规模有限，就业机会主要集中在都柏林等城市的高端定制和时装设计公司。未来受快时尚和自动化影响，整体需求稳定但增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. Ireland's apparel manufacturing industry is limited, with job opportunities mainly in high-end custom and fashion design companies in cities like Dublin. Future demand is stable but slow-growing due to fast fashion and automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，学徒或初级裁剪师 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，有经验的打版师 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，资深版师或主管 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, apprentice or junior cutter |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary for an experienced pattern maker |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary, senior pattern maker or supervisor |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 初级裁剪师可晋升为打版师或样衣师，资深人员可成为版房主管或自主创业。数字化打版技能（如CAD）对职业发展至关重要。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly optimize pattern making and cutting processes, but manual precision, creative design, and fabric handling still rely on human experience—the impact on job tasks is mixed.
+
+Junior cutters can advance to pattern makers or sample makers; senior personnel can become pattern room supervisors or start their own business. Digital pattern-making skills (e.g., CAD) are crucial for career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate basic patterns and grading
+- AI nesting optimisation reduces manual trial and error
+- Automatically detect fabric defects and cutting paths
+- Generating batch cutting instructions for standard sizes
+
+**Where AI augments the role:**
+
+- AI generates multiple design variations for pattern makers to quickly screen
+- Virtual fitting and 3D sample simulation reduce physical samples
+- Real-time fabric characteristic analysis assists cutting parameter adjustment
+- AI predicts trends to guide pattern innovation
+- Automatically generate production reports and material lists
+
+**Human moat:**
+
+- Complex draping and creative deconstruction skills
+- Experienced judgment of high-end fabric characteristics
+- Collaborative intelligence to communicate design intent with designers
+- Handling adjustments for non-standard sizes and special ergonomics
+
+**Skills to build:**
+
+- 3D garment design software (e.g., CLO 3D, Marvelous Designer)
+- AI tools (such as AutoCAD enhancement plugins, Optitex nesting AI).
+- Knowledge of fabric science and sustainable materials
+- Data fundamentals and Python scripting (customized automation workflows)
+- Application of virtual reality/augmented reality fitting technology
+
+**Key growth areas:**
 
 - Stable demand
 - CAD pattern making
@@ -63,62 +96,64 @@ Create patterns and cut fabrics for garment production, ensuring precision and e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达到32,000欧元门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达到38,000欧元以上，通常要求高等教育学历。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand; requires employer sponsorship with a salary threshold of €32,000 per year. |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled positions, annual salary must exceed €38,000, usually requiring higher education qualifications. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Garment and Related Patternmakers and Cutters？**
-- 对服装制作有热情，注重细节
-- 具备手工和CAD打版技能
-- 愿意在小型工作室或自主创业
+**Who is suited**
+- Passionate about garment making, with attention to detail.
+- Skilled in manual and CAD pattern making
+- Willing to work in a small studio or be self-employed
 
-**谁不适合学Garment and Related Patternmakers and Cutters？**
-- 追求高薪和快速发展
-- 不喜欢重复性手工工作
+**Who is not suited**
+- Pursuing high salary and rapid development
+- People who dislike repetitive manual work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a garment pattern maker in Ireland?**
+A: Depending on experience, annual salary ranges from 22,000 to 45,000 euros; above-average industry levels require advanced skills or management positions.
+
+**Q: What visas can a garment pattern maker use to immigrate to Ireland?**
+A: As this occupation is not on the Critical Skills Occupation List, it typically qualifies only for a General Employment Permit, requiring employer sponsorship and meeting minimum salary thresholds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Garment and Related Patternmakers and Cutters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for garment patternmakers in Ireland?**
-答：Annual salary ranges from €22,000 to €45,000 depending on experience, with higher pay for senior roles.
-
-**问：Which visas are available for garment patternmakers to migrate to Ireland?**
-答：This occupation is not on the Critical Skills list, so only the General Employment Permit applies, requiring employer sponsorship and salary threshold.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Landscaping and grounds maintenance labourers（Landscaping and grounds maintenance labourers）职业分析 · 加拿大
+# Landscaping and grounds maintenance labourers — career analysis · Canada
 
-**职业代码：85121 – Landscaping and grounds maintenance labourers。**
+**Occupation code: 85121 (NOC)**
 
-Landscapers in Canada maintain and construct lawns, gardens, trees, and other outdoor landscapes. Stable demand; immigration possible via PNP or employer sponsorship. Suitable for those willing to do outdoor physical work.
+Canadian landscape workers maintain and build outdoor spaces like lawns, gardens, and trees, with stable demand. Immigration possible through PNP or employer sponsorship, suitable for physically fit individuals willing to work outdoors.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（通常要求高中毕业） |
-| 园艺证书 | 1年 | $3,000~$8,000（社区学院或职业学院提供的园艺证书课程） |
+| High school graduation | 12 years | $0~$0 (Usually requires high school graduation) |
+| Horticulture certificate | 1 year | $3,000~$8,000 (Horticulture certificate programs offered by community colleges or vocational schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 各省交通部门 | 必备 | 许多雇主要求有效驾驶执照 |
-| 园艺证书 | 社区学院或职业学院 | 可选 | 非强制，但有助于晋升 |
+| Driver's license | Provincial transportation departments. | Required | Many employers require a valid driver's license. |
+| Horticulture certificate | Community colleges or vocational schools | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 90,000。随着城市化和居民对美观环境的需求增加，加拿大园林工就业前景稳定。建筑和物业维护行业持续增长，但竞争较低，入门门槛不高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 90,000. With urbanization and increasing demand for aesthetically pleasing environments, the employment outlook for landscapers in Canada is stable. The construction and property maintenance industries continue to grow, but competition is low and entry barriers are modest.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 时薪约15-20加元 |
-| 中级（3-6年） | $40,000~$55,000 | 时薪约20-27加元 |
-| 高级（6年以上） | $55,000~$70,000 | 含主管或技术员职位 |
+| Median salary | $43,160 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$40,000 | Hourly wage approximately CAD 15-20 |
+| Mid-level (3–6 years) | $40,000~$55,000 | Hourly wage approximately $20-27 CAD |
+| Senior (6+ years) | $55,000~$70,000 | Including supervisor or technician positions |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 园林工可从基层劳动者晋升为园林技术员、项目经理或自主创业。积累经验后，可通过考取证书（如园林设计师）拓展职业道路。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gardeners less affected by AI; AI mainly boosts design planning and client communication. Physical labor still hard to replace, but tools can improve efficiency.
+
+Landscapers can progress from entry-level workers to landscape technicians, project managers, or self-employment. With experience, they can expand their career by obtaining certifications (e.g., landscape designer).
+
+**Tasks most exposed to AI:**
+
+- Routine lawn mowing and leaf cleanup (partially replaced by automated robots)
+- Simple irrigation system timing and monitoring (AI-optimized scheduling)
+- Vegetation growth data recording and basic analysis (AI auto-generates reports)
+
+**Where AI augments the role:**
+
+- AI generation and visual preview of landscape design proposals
+- Smart maintenance planning based on weather and soil data
+- Client needs analysis and personalized design recommendations
+- Equipment maintenance alerts and AI inventory management
+- Automated assistance for project pricing and contract management
+
+**Human moat:**
+
+- Manual operation skills for complex terrain and delicate plants
+- On-site safety judgment and emergency response capability
+- experience in caring for multiple plant species and aesthetic intuition
+- Ability to build trust through direct client communication
+- Teamwork and outdoor physical endurance
+
+**Skills to build:**
+
+- Proficiency in landscape design software (e.g., AutoCAD, SketchUp)
+- learn AI-assisted design tools (e.g., Midjourney for concept generation)
+- Acquiring knowledge of irrigation system automation and smart sensors
+- Enhancing client communication and project management skills.
+- Obtain certification as a horticulturist or landscape architect
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Employer-Sponsored
@@ -63,69 +96,68 @@ Landscapers in Canada maintain and construct lawns, gardens, trees, and other ou
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 多个省份（如萨省、曼省、BC省）的省提名项目对园林工开放，需雇主担保 |
-| Subclass TFWP（Temporary Foreign Worker Program） | 雇主可申请劳动力市场影响评估（LMIA）招聘外国园林工，工作一年后可申请移民 |
-| Subclass EE（Express Entry） | 若具备管理经验，可通过联邦技术移民或经验类移民申请，但普通园林工通常不符合直接申请条件 |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in several provinces (e.g., Saskatchewan, Manitoba, BC) are open to landscapers, requiring employer sponsorship |
+| Subclass TFWP (Temporary Foreign Worker Program) | Employers can apply for a Labour Market Impact Assessment (LMIA) to hire foreign landscapers; after one year of work, they can apply for immigration |
+| Subclass EE (Express Entry) | Those with management experience may apply through Federal Skilled Migration or Experience Class, but general gardeners typically do not meet direct eligibility criteria. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscaping and grounds maintenance labourers？**
-- 体力好，能适应户外工作
-- 喜欢动手和园艺
-- 愿意通过雇主担保移民
-
-**谁不适合学Landscaping and grounds maintenance labourers？**
-- 对高强度体力劳动不适应
-- 希望快速移民且有高学历背景
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit and able to work outdoors
+- Enjoys hands-on work and gardening
+- Willing to immigrate through employer sponsorship
+
+**Who is not suited**
+- Not adaptable to high-intensity physical labor
+- Those seeking fast immigration with a high educational background
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a landscaper in Canada?**
+A: Junior landscape gardener salary approximately CAD 30,000-40,000 per year, intermediate CAD 40,000-55,000, senior up to CAD 55,000-70,000, depending on province and experience.
+
+**Q: How can a landscaper immigrate to Canada?**
+A: Mainly through Provincial Nominee Program (PNP) or Temporary Foreign Worker Program (TFWP), requiring employer sponsorship. Some provinces like Saskatchewan and Manitoba have specific PNP streams for skilled trades.
+
+**Q: What are the employment prospects for landscapers in Canada?**
+A: Employment prospects are stable, growing with urban construction and residential maintenance demand. However, occupational entry barrier is low, competition is moderate, and promotion opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Landscaping and grounds maintenance labourers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a landscaper in Canada?**
-答：Entry-level landscapers earn about CAD 30,000-40,000, mid-level CAD 40,000-55,000, and senior up to CAD 55,000-70,000 per year, depending on province and experience.
-
-**问：How can a landscaper immigrate to Canada?**
-答：Primarily through Provincial Nominee Programs (PNP) or the Temporary Foreign Worker Program (TFWP), requiring employer sponsorship. Some provinces like Saskatchewan and Manitoba have specific streams for skilled trades.
-
-**问：What is the job outlook for landscapers in Canada?**
-答：Stable due to urban development and property maintenance; entry barriers low, competition moderate, limited upward mobility.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Automation Technician（Automation Technician）职业分析 · DE
+# Automation Technician — career analysis · Germany
 
-**职业代码：2612 – Automation Technician。**
+**Occupation code: 2612 (KldB)**
 
-Automation technicians design, program, install, and maintain automation systems such as PLCs, robots, and industrial control networks to ensure efficient production processes.
+Automation technicians are responsible for designing, programming, installing, and maintaining automation systems, such as programmable logic controllers (PLCs), robots, and industrial control networks, ensuring efficient production processes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3.5年 | —（培训期间企业支付津贴，通常无学费） |
-| 本科（工程或自动化技术） | 3-4年 | —（公立大学每学期仅少量注册费，约150-300欧元） |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$0 (During training, the company pays a stipend, usually no tuition fees.) |
+| Bachelor's degree (engineering or automation technology) | 3-4 years | $0~$1,500 (Public universities charge only a small registration fee per semester, about 150-300 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自动化技术员认证 | 德国工商会（IHK） | 必备 | 双元制培训后通过IHK考试获得 |
-| 电气工程或自动化本科学位 | 德国大学 | 可选 | 非必须，但有助于晋升 |
-| 资质认证（Anerkennung） | 德国联邦职业教育与培训办公室（BIBB） | 必备 | 海外学历需认证，通常可部分认可 |
+| Automation technician certification | German Chamber of Commerce and Industry (IHK) | Required | Obtained through IHK exam after dual vocational training |
+| Qualification recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) | Required | Overseas qualifications need certification, usually partially recognised. |
+| Bachelor's degree in electrical engineering or automation | German university | Optional | Not mandatory, but helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。德国工业4.0推动自动化需求持续增长。汽车、机械制造、化工等行业急需自动化技术员。联邦劳工局预计该领域岗位每年增长约3%。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Germany's Industry 4.0 drives continuous growth in automation demand. Automotive, machinery, chemical industries urgently need automation technicians. Federal Labour Agency expects approximately 3% annual job growth in this field.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，依地域和企业规模略有差异 |
-| 中级（3-7年） | $44,000~$54,000 | 税前年薪 |
-| 高级（7年以上） | $56,000~$70,000 | 税前年薪，含管理职责可达更高 |
+| Median salary | $50,640 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary, varies slightly by region and company size |
+| Mid-level (3–7 years) | $44,000~$54,000 | Annual pre-tax salary |
+| Senior (7+ years) | $56,000~$70,000 | Gross annual salary, higher with management responsibilities |
+| average salary | $55,152 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级技术员可向自动化工程师、系统架构师或项目管理发展。积累经验后可晋升团队负责人或技术专家，也可通过进修成为工业4.0顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will deeply change the work of electromechanical and mechatronic technicians, taking over repetitive testing and document generation while enhancing system design and data analysis capabilities, significantly altering job task structures.
+
+Junior technicians can progress to automation engineer, system architect, or project management. With experience, they can become team leaders or technical experts, or further study to become Industry 4.0 consultants.
+
+**Tasks most exposed to AI:**
+
+- Routine functional testing and parameter recording; AI can automate and generate reports
+- Fault diagnosis based on historical data; AI can quickly locate problems
+- Simple electromechanical device programming and debugging; AI can automatically optimize code
+- Parts list organization and document writing, AI can automatically generate
+- Repetitive calibration work can be automated by AI.
+
+**Where AI augments the role:**
+
+- Complex system design and integration, with AI offering simulation and optimization suggestions
+- Anomaly analysis and root cause investigation, AI-assisted data mining
+- Collaborate with engineers to develop new solutions, with AI providing feasibility simulations
+- Cross-disciplinary application of knowledge; AI rapidly provides cross-domain information
+- Project management and quality control, with AI real-time monitoring and alerts
+
+**Human moat:**
+
+- Hands-on experience solving non-standard mechanical/electrical issues
+- Innovative design and creative debugging ability
+- Cross-system integration thinking.
+- Effective communication with engineers and clients
+- On-site emergency response and safety judgment
+
+**Skills to build:**
+
+- Python/PLC programming and automation scripts
+- Digital twin and simulation tools (e.g., MATLAB/Simulink).
+- Machine learning fundamentals and data analysis
+- ROS (Robot Operating System) applications
+- IoT and industrial network protocols
+- System Integration and Project Management
+
+**Key growth areas:**
 
 - Industry 4.0
 - Smart Factory
@@ -62,68 +98,67 @@ Automation technicians design, program, install, and maintain automation systems
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高等教育毕业生，年薪门槛约43,800欧元（2024年），紧缺职业可降至约39,683欧元 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于专业技术人员，需获得德国雇主合同，学历经认证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许在德寻找工作一年，需证明语言能力或相关资质 |
+| Subclass EU Blue Card (EU Blue Card) | For higher education graduates, annual salary threshold approximately €43,800 (2024), reduced to about €39,683 for shortage occupations |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled professionals; requires a German employer contract and qualification recognition |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job search visa allowing job search in Germany for one year, requiring proof of language skills or relevant qualifications |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Automation Technician？**
-- 喜欢动手解决技术问题的人
-- 对工业自动化和编程感兴趣的人
-- 愿意持续学习新技术的人
-
-**谁不适合学Automation Technician？**
-- 不喜欢技术细节和机械工作的人
-- 不习惯轮班或生产环境压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on technical problem solving
+- For those interested in industrial automation and programming
+- People willing to continuously learn new technologies.
+
+**Who is not suited**
+- People who dislike technical details and mechanical work
+- People not accustomed to shift work or production environment stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an automation technician in Germany?**
+A: Junior annual salary about €35,000-42,000, mid-level €44,000-54,000, senior up to €70,000+.
+
+**Q: How can overseas automation technicians immigrate to Germany?**
+A: Options include the EU Blue Card (requires degree recognition) or a skilled migration visa (requires an employment contract). If qualifications are partially recognised, you can first apply for a job-seeking visa (Opportunity Card) to come to Germany.
+
+**Q: Is there room for advancement for automation technicians?**
+A: Yes, you can become an automation engineer, project leader, or transition to fields like robotics and industrial IoT, with increased salary and responsibilities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Automation Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an automation technician in Germany?**
-答：Entry-level salaries range from €35,000 to €42,000, mid-level from €44,000 to €54,000, and senior positions can exceed €70,000 annually.
-
-**问：How can an overseas automation technician migrate to Germany?**
-答：Through the EU Blue Card (requires recognized degree) or Skilled Worker visa (requires job offer). If qualifications are partially recognized, the Opportunity Card can be used for a job search.
-
-**问：Is there room for advancement for automation technicians?**
-答：Yes, they can advance to automation engineer, project lead, or specialize in robotics, IIoT, etc., with higher salary and responsibilities.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

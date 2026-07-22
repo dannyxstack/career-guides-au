@@ -1,58 +1,94 @@
-# Journalist（Journalist）职业分析 · 新西兰
+# Journalist — career analysis · New Zealand
 
-**职业代码：212111 – Journalist。**
+**Occupation code: 212111 (ANZSCO)**
 
-Journalists in New Zealand research and report news for media outlets like NZ Herald, Stuff, and RNZ, with opportunities mainly in Auckland, Wellington, and Christchurch. The occupation is not on the Green List; immigration typically requires employer sponsorship (AEWV) or Skilled Migrant Category with salary and skill level criteria.
+Journalists in New Zealand write reports and produce multimedia content for media organizations. Employment opportunities are concentrated in major media in Auckland, Wellington, and Christchurch (e.g., NZ Herald, Stuff, RNZ). This occupation is not on the Green List; typically requires employer sponsorship (AEWV) or applying via SMC skilled migration, but must meet ANZSCO skill level and salary requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（学费NZD 30,000-45,000/年（国际学生）） |
-| 研究生文凭/硕士 | 1-2年 | $40,000~$55,000（学费NZD 40,000-55,000/年（国际学生）） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Tuition NZD 30,000-45,000/year (international students)) |
+| Postgraduate diploma/master's | 1-2 years | $40,000~$55,000 (Tuition NZD 40,000-55,000/year (international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学或相关领域学士学位 | 新西兰大学（如奥克兰理工大学、梅西大学） | 可选 | 通常要求，非必须但显著提升竞争力 |
-| 工作经验/作品集 | 雇主 | 可选 | 多数雇主看重实际写作和报道经验 |
+| Bachelor's degree in journalism or related field | New Zealand universities (e.g., Auckland University of Technology, Massey University) | Optional | Usually required; not mandatory but significantly boosts competitiveness |
+| Work experience/portfolio | Employer | Optional | Most employers value practical writing and reporting experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,000。新西兰新闻业持续向数字转型，多媒体技能（视频、播客、社交媒体）需求增加。传统印刷岗位减少，但数字内容创作和区域新闻仍有需求。就业竞争激烈，自由职业和企业通讯岗位提供额外机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,000. New Zealand's journalism industry continues its digital transformation, with increasing demand for multimedia skills (video, podcast, social media). Traditional print jobs are declining, but digital content creation and regional news still have demand. Employment competition is intense; freelance and corporate communication roles offer additional opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 初级记者起薪约NZD 50,000-65,000 |
-| 中级（3-7年） | $65,000~$85,000 | 有经验记者可至NZD 65,000-85,000 |
-| 高级（7年以上） | $85,000~$110,000 | 高级记者/编辑可达NZD 85,000-110,000+ |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Starting salary for junior reporters is around NZD 50,000-65,000 |
+| Mid-level (3–7 years) | $65,000~$85,000 | Experienced journalists: NZD 65,000-85,000 |
+| Senior (7+ years) | $85,000~$110,000 | Senior journalist/editor can reach NZD 85,000–110,000+ |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 职业发展路径从初级记者到资深记者，再过渡到编辑、制片人或新闻主管。具备数据分析、视频制作和社交媒体运营能力的记者晋升更快。也可转向公关、企业通讯或内容营销领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+AI tools are significantly changing how journalists work, with automated writing and data analysis boosting efficiency, but deep investigations, exclusive reporting, and ethical judgment remain human strengths.
+
+Career path progresses from junior reporter to senior reporter, then to editor, producer, or news director. Journalists with data analysis, video production, and social media management skills advance faster. Can also transition to PR, corporate communications, or content marketing.
+
+**Tasks most exposed to AI:**
+
+- Generating structured news briefs for finance/sports
+- Transcribing interview recordings and extracting key information
+- Automatically generate formatted content for multiple platforms (e.g., social media posts)
+- Basic data cleaning and visualization in data journalism
+- Fact-checking (simple database-based verification)
+
+**Where AI augments the role:**
+
+- In-depth investigative reporting: AI-assisted data analysis and pattern recognition
+- Personalized content recommendation: AI analyzes reader preferences to optimize reporting strategies
+- Multilingual reporting: AI real-time translation and localization
+- Enhancing writing quality: AI provides grammar, style, and fact suggestions
+- Content distribution optimization: AI predicts optimal publication times and platforms
+
+**Human moat:**
+
+- Exclusive news source acquisition and interpersonal interviewing skills
+- Analysis and deep interpretation of complex event logic
+- Ethical judgment: balancing privacy, public interest, and reporting impact
+- Creative storytelling and emotional resonance skills
+- On-site adaptability and live reporting
+
+**Skills to build:**
+
+- Data analysis and data visualization tools (e.g. Python, R, Tableau)
+- Video shooting, editing, and podcast production
+- AI tool usage (e.g., ChatGPT for writing assistance, AI image generation)
+- Social media operations and audience analysis
+- Cross-platform content strategy and SEO basics
+- Project management and collaboration tools (e.g., Trello, Asana)
+
+**Key growth areas:**
 
 - Digital transformation
 - Multimedia skills demand
@@ -61,67 +97,66 @@ Journalists in New Zealand research and report news for media outlets like NZ He
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，时薪至少达到中位数（29.66 NZD/h），并满足ANZSCO技能等级要求。 |
-| Subclass SMC（Skilled Migrant Category） | 基于6分制，需满足学历、工作经验或收入要求，并从事ANZSCO 1-3级职业，薪资需达到中位数或以上。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, hourly wage at least the median ($29.66 NZD/h), and meet ANZSCO skill level requirements. |
+| Subclass SMC (Skilled Migrant Category) | Based on a 6-point scale, must meet education, work experience, or income requirements, and work in ANZSCO occupations at skill levels 1-3, with salary at or above the median. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Journalist？**
-- 具备出色写作能力和多媒体制作技能的人
-- 对时事充满热情，抗压能力强
-- 愿意在小城市或区域工作以积累经验
-
-**谁不适合学Journalist？**
-- 厌恶不确定性和截稿压力的人
-- 寻求稳定移民路径，不愿承担雇主担保风险的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with excellent writing skills and multimedia production abilities
+- Passionate about current events, with strong stress tolerance.
+- Willing to work in small cities or regions to gain experience
+
+**Who is not suited**
+- Those who dislike uncertainty and deadline pressure
+- People seeking stable immigration pathways and unwilling to take employer sponsorship risks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a journalist in New Zealand?**
+A: Junior reporters: NZD 50,000-65,000; mid-level: NZD 65,000-85,000; senior: NZD 85,000-110,000. Experienced editors or producers earn more.
+
+**Q: Can journalists apply for New Zealand skilled migration?**
+A: Yes, but immigration is difficult. The occupation falls under ANZSCO 1-3, requiring SMC (6-point system) or AEWV. Since it's not on the Green List, employer sponsorship is key, and salary must meet the median.
+
+**Q: What is the future outlook for journalism in New Zealand?**
+A: Digital and multimedia skills become essential; traditional print media roles decline, but demand for digital content creation, podcasts, and video reporting rises. Regional news still has gaps, freelance opportunities increase.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Journalist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a journalist in New Zealand?**
-答：Entry-level journalists earn NZD 50,000-65,000, mid-level NZD 65,000-85,000, and senior journalists/editors NZD 85,000-110,000.
-
-**问：Can journalists apply for skilled migration to New Zealand?**
-答：Yes, but it is challenging. The occupation is ANZSCO Skill Level 1-3, eligible for SMC (6-point system) or AEWV. As it is not on the Green List, employer sponsorship and meeting the median wage threshold are critical.
-
-**问：What is the future outlook for journalism in New Zealand?**
-答：Digital and multimedia skills are essential; traditional print roles are declining but digital content, podcasting, and video reporting are growing. Regional reporting gaps exist and freelancing opportunities are increasing.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

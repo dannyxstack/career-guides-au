@@ -1,62 +1,94 @@
-# Stonemason（Stonemason）职业分析 · NL
+# Stonemason — career analysis · Netherlands
 
-**职业代码：7113 – Stonemason。**
+**Occupation code: 7113 (ISCO08)**
 
-Stonemasons cut, carve, and install natural stone for buildings and monuments. In the Netherlands, demand is steady for restoration of historic structures and high-end residential projects.
+Stonemasons cut, carve, and install natural stone for buildings and monuments. In the Netherlands, demand is stable in historical building restoration and high-quality residential projects.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3年 | $1,000~$2,000（每年学费约1000-2000欧元，含材料费） |
-| 学徒制（BBL） | 3-4年 | —（学徒期间有工资，学费几乎免费） |
-| 短期课程（成人转行） | 1年 | $3,000~$5,000（私立职业培训中心费用） |
+| Intermediate Vocational Education (MBO) | 3 years | $1,000~$2,000 (Annual tuition fee approximately 1000-2000 euros, including materials) |
+| Apprenticeship (BBL) | 3-4 years | $0~$1,000 (Paid during apprenticeship, tuition almost free) |
+| Short-term courses (adult career change) | 1 year | $3,000~$5,000 (Private vocational training center costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石匠（MBO 2级或3级） | ROC（地区教育中心） | 必备 | 完成3年MBO课程或学徒制 |
-| VCA安全证书 | 多家认证机构 | 必备 | 建筑工地必备安全资格 |
-| 历史修复专项培训 | Erfgoed Nederland | 可选 | 非强制，但提升就业竞争力 |
+| Stonemason (MBO level 2 or 3) | ROC (Regional Education Centre) | Required | Completion of a 3-year MBO course or apprenticeship |
+| VCA safety certificate | Multiple certification bodies | Required | Essential safety qualifications for construction sites |
+| Historical restoration specialized training | Erfgoed Nederland | Optional | Not mandatory, but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。荷兰建筑业持续增长，尤其注重可持续材料（如天然石材）。石匠在修复古老运河房屋和教堂方面有独特需求，预计未来五年就业稳定增长。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,500. The Dutch construction industry is growing steadily, with a particular focus on sustainable materials (e.g., natural stone). Stonemasons are in unique demand for restoring historic canal houses and churches, with stable employment growth expected over the next five years.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $46,000~$55,000 | 税前年薪，含项目津贴，自雇收入更高 |
+| Median salary | $44,855 | Median salary (official: CBS median hourly wage €22.7/hour × 1,976h annualized, BRC group 0731 Bouwarbeiders ruwbouw; P25–P75 €35,568–€55,328, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $46,000~$55,000 | Pre-tax annual salary, includes project allowance; self-employment income is higher |
+| average salary | $40,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 学徒制后可从普通石匠晋升为项目工长或自雇工匠。通过进修可成为石材修复专家或雕塑师，或转向建筑项目管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
+
+After apprenticeship, can progress from ordinary stonemason to project foreman or self-employed artisan. Further study can lead to becoming a stone restoration expert or sculptor, or transitioning into construction project management.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for stone cutting and layout design
+- Operating automatic stone cutting machines and CNC engraving machines
+- Material quantity calculation and layout using BIM models
+- Use robots for repetitive stone handling and laying
+
+**Where AI augments the role:**
+
+- Using 3D scanning and digital twins for precise stone structure installation
+- Use AR glasses to overlay design drawings on construction sites, reducing errors
+- Using AI to optimize stone splicing plans, improving aesthetics and strength
+- Conduct drone inspections of large stone structures and remotely monitor maintenance needs.
+
+**Human moat:**
+
+- Artistic judgment for complex stone carving and hand modeling
+- Adaptive skills for integrated on-site stone and structure installation
+- Empirical judgment of stone texture, color, and physical properties
+- Ability to communicate customized design solutions with clients
+
+**Skills to build:**
+
+- CAD/BIM software operation (e.g., AutoCAD, Revit)
+- CNC stone processing equipment programming and operation
+- 3D scanning and digital modeling skills
+- Engineering surveying and precision installation technology
+- Drone operation and image analysis basics
+
+**Key growth areas:**
 
 - Historic restoration
 - Natural stone
@@ -65,66 +97,68 @@ Stonemasons cut, carve, and install natural stone for buildings and monuments. I
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有MBO或更高学历且有雇主担保的专业人士；需满足最低薪资门槛（2024年约€3,909/月）。 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 适用于在荷兰或全球顶尖大学获得硕士或博士学位的毕业生，可在一年内自由找工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需有三年以上工作经验及雇主合同，薪资门槛较高（约€5,000/月）。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to professionals with MBO or higher degree and employer sponsorship; must meet minimum salary threshold (approx. €3,909/month in 2024). |
+| Subclass Orientation Year (Orientation Year for Graduates) | Applicable to graduates with a master's or doctoral degree from a top university in the Netherlands or globally, allowing one year to freely seek employment. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, requires over three years of work experience and employer contract, with a higher salary threshold (approx. €5,000/month). |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stonemason？**
-- 喜欢手工工艺和户外工作的人
-- 对建筑与历史修复有热情的人
-- 愿意接受学徒制训练的人
+**Who is suited**
+- People who enjoy handicrafts and outdoor work
+- For those passionate about architecture and historical restoration
+- Individuals willing to undergo apprenticeship training
 
-**谁不适合学Stonemason？**
-- 偏好坐办公室或电脑工作的人
-- 对体力劳动或粉尘环境敏感的人
+**Who is not suited**
+- People who prefer working in an office or at a computer
+- People sensitive to physical labor or dusty environments.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for stonemasons in the Netherlands?**
+A: Pre-tax annual salary approx. €28,000–€55,000; entry-level around €28,000, senior up to €55,000. Self-employed or specialized restoration skills can earn higher.
+
+**Q: How can non-EU nationals immigrate to the Netherlands to work as a stonemason?**
+A: Can apply through the Highly Skilled Migrant or EU Blue Card pathways, but stonemasons are typically not classified as high-skilled; most need employer sponsorship or EU free movement (e.g., Dutch language ability).
+
+**Q: What are the career development pathways for a stonemason?**
+A: Can progress from apprentice to foreman, self-employed craftsman or stone restoration specialist. Further study can lead to construction project manager or sculptor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Stonemason属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stonemasons in the Netherlands?**
-答：Gross annual salary ranges from €28,000 to €55,000; entry-level around €28,000, senior up to €55,000. Self-employed or restoration specialists can earn more.
-
-**问：How can non-EU nationals immigrate to work as stonemasons in the Netherlands?**
-答：Through Highly Skilled Migrant or EU Blue Card routes, but stonemasonry is not typically high-skilled; most require employer sponsorship or EU free movement (e.g., Dutch language skills).
-
-**问：What are the career progression paths for stonemasons?**
-答：From apprentice to team leader, self-employed, or restoration specialist. Further education leads to construction project manager or sculptor.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

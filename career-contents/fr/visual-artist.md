@@ -1,62 +1,96 @@
-# Visual Artist（Visual Artist）职业分析 · FR
+# Visual Artist — career analysis · France
 
-**职业代码：B1101 – Visual Artist。**
+**Occupation code: B1101 (ROME)**
 
-Visual artists create works of plastic arts such as paintings, sculptures, and prints, exhibited in galleries, public spaces, or commissioned. The profession is largely freelance with irregular income, relying on individual talent and market demand.
+Visual artists engage in visual arts such as painting, sculpture, and printmaking. Their works can be displayed in galleries, exhibitions, or public spaces, and may also be commissioned. The profession is highly freelancing, with unstable income, relying on individual talent and market demand.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期课程或工作室 | 1-2年 | $2,000~$5,000（私立学校或艺术家工作室培训，费用差异大） |
-| 国家造型艺术文凭 (DNAP) | 3年（Licence） | $200~$500（公立美院学费便宜，约200-500欧元/年） |
-| 国家高级造型表现文凭 (DNSEP) | 2年（Master） | $200~$500（公立美院继续深造，学费低） |
+| Short-term courses or studios | 1-2 years | $2,000~$5,000 (Private schools or artist studio training can vary greatly in cost) |
+| National Diploma in Fine Arts (DNAP) | 3 years (Licence) | $200~$500 (Public art academies offer affordable tuition, about 200-500 euros per year) |
+| National Advanced Diploma in Styling and Expression (DNSEP) | 2 years (Master) | $200~$500 (Public art academies continue their studies with low tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家造型艺术文凭 (DNAP) | 法国文化部下属国立高等美术学院 | 可选 | 通常是进入艺术界的基本文凭 |
-| 国家高级造型表现文凭 (DNSEP) | 法国文化部下属国立高等美术学院 | 可选 | 相当于硕士水平，有助于申请驻地或教学岗位 |
-| 艺术家身份 (Maison des artistes 注册) | Maison des artistes | 可选 | 自由职业艺术家须注册以合法从事创作并享受社保 |
+| National Diploma in Fine Arts (DNAP) | It is affiliated with the National Supérieure des Beaux-Arts under the French Ministry of Culture | Optional | It is usually the basic diploma for entering the art world |
+| National Advanced Diploma in Styling and Expression (DNSEP) | It is affiliated with the National Supérieure des Beaux-Arts under the French Ministry of Culture | Optional | Equivalent to a master's degree, which helps in applying for residency or teaching positions |
+| Artist Status (Maison des artistes Registration) | Maison des artistes | Optional | Freelance artists must register to legally engage in creative work and enjoy social insurance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 65,000。法国造型艺术领域就业竞争激烈，公立机构岗位有限，私人市场和自由职业机会较多。数字化和公共艺术项目带来新机会，但整体就业增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 65,000. Job competition in France's visual arts sector is fierce, with limited positions in public institutions and plenty of private market and freelance opportunities. Digital and public art projects bring new opportunities, but overall employment growth is slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 收入不稳定，多数人年收入低于最低工资 |
-| 中级（3-10年） | $25,000~$40,000 | 有稳定销售或委托，有的需兼职教学 |
-| 高级（10年以上） | $40,000~$70,000 | 知名艺术家收入可高达10万欧以上，但极少数 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Income is unstable, with most earning less than the minimum wage annually |
+| Intermediate (3-10 years) | $25,000~$40,000 | Some have stable sales or commissions, while others require part-time teaching |
+| Senior (10+ years) | $40,000~$70,000 | Famous artists can earn over EUR 100,000, but very few |
+| average salary | $38,136 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径通常从艺术院校毕业后开始，通过参加展览、获得奖项或画廊代理逐步建立声誉。部分艺术家转向艺术教学、策展或艺术指导等关联领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI on visual artists is mixed: on one hand, generative AI can efficiently produce simulated artworks or concept sketches, squeezing out some of the commissioned and commercial illustration markets; On the other hand, AI can assist with inspiration generation, color experimentation, and digital presentation, amplifying creative possibilities, but the high-end art sector that relies on emotional expression and originality remains stable.
+
+Career development typically begins after graduating from art schools, gradually building reputation through participating in exhibitions, winning awards, or representing galleries. Some artists have turned to related fields such as art education, curation, or art direction.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate various styles of draft or concept images based on text descriptions
+- Batch generate decorative patterns, textures, or background materials
+- Automatically completes HD zooming, color correction, and basic retouching of your work
+- Generate multi-size, multi-style adapted versions for social platforms
+
+**Where AI augments the role:**
+
+- Quickly explore different compositions, colors, and material combinations using image generation models
+- Inject digital elements into traditional works through style transfer tools
+- Using AI to assist curating in audience preferences and optimize exhibition layouts
+- Use natural language generation tools to create artwork descriptions, art reviews, or proposals
+
+**Human moat:**
+
+- A unique personal artistic style and deep emotional expression
+- Internalizing the application of cultural context, metaphor, and interdisciplinary knowledge
+- Live creations, interactive installations, and other irreplaceable physical performances
+- Build interpersonal trust and consultation with clients, curators, and collectors
+- Precise control and experimentation of materials, processes, and physical media
+
+**Skills to build:**
+
+- Proficient in generative AI tools such as Stable Diffusion and Midjourney
+- Basic programming (Python, Processing) to implement the art of algorithms
+- Digital curation and social media operation capabilities
+- Cross-media creation (VR/AR, projection mapping)
+- Arts management and project negotiation skills
+- Critical thinking and copyright knowledge
+
+**Key growth areas:**
 
 - fine arts
 - freelance
@@ -65,66 +99,68 @@ Visual artists create works of plastic arts such as paintings, sculptures, and p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于在艺术、文化领域有突出成就或获得认可的外国艺术家，需提供作品集、展览证明等 |
-| Subclass Salarié（Employee） | 如果被画廊或机构聘用，可申请工作居留，但自由职业艺术家难以获得 |
-| Subclass Recherche emploi（Job Search Visa） | 法国毕业的艺术家可申请一年求职居留，寻找工作或项目机会 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to foreign artists with outstanding achievements or recognition in the fields of art and culture, requiring submission of portfolios, exhibition certificates, etc |
+| Subclass Salarié (Employee) | If hired by a gallery or institution, you can apply for a work residence permit, but freelance artists find it difficult to obtain |
+| Subclass Recherche emploi (Job Search Visa) | Artists who graduate from France can apply for a one-year job-seeking residence to find job or project opportunities |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Visual Artist？**
-- 拥有强烈的艺术创作热情和独特审美
-- 能够接受不稳定的收入和自由职业状态
-- 具备自我营销和社交能力以推广作品
+**Who is suited**
+- He possesses a strong passion for artistic creation and a unique aesthetic
+- Able to accept unstable income and freelance status
+- Possess self-marketing and social skills to promote your work
 
-**谁不适合学Visual Artist？**
-- 追求稳定收入和固定工作的人
-- 对竞争环境和批评较为敏感的人
+**Who is not suited**
+- People seeking stable income and fixed working hours
+- People who are more sensitive to the competitive environment and criticism
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of visual artists?**
+A: Income varies greatly: entry-level artists often earn EUR 15,000-25,000 per year, mid-level may reach 25,000-40,000, but most need additional jobs. Top artists can earn substantial amounts, but this is rare.
+
+**Q: How can foreign visual artists immigrate to France?**
+A: The main way is to apply for a Passeport Talent passport, which requires proof of artistic achievement (such as exhibitions or awards). It is difficult to obtain a work visa for freelance status; it is recommended to enter France first through study abroad or an art residency.
+
+**Q: What qualifications or certifications do visual artists need?**
+A: Although a mandatory diploma is not required, having a national diploma (DNAP/DNSEP) helps build credibility. Registering with Maison des artistes is a necessary step to legally engage in free creation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Visual Artist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of a visual artist?**
-答：Income varies greatly: entry-level artists often earn €15,000-25,000 per year, mid-level €25,000-40,000, but many need part-time jobs. Top artists can earn well, but they are very rare.
-
-**问：How can a foreign visual artist immigrate to France?**
-答：The main route is the Talent Passport, requiring proof of artistic achievements (exhibitions, awards). Freelance status makes it hard to get a work visa; studying or artist residencies are recommended first.
-
-**问：What qualifications or certifications does a visual artist need?**
-答：While no mandatory diploma, a national diploma (DNAP/DNSEP) helps credibility. Registering with Maison des artistes is necessary to legally work as a freelance artist.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

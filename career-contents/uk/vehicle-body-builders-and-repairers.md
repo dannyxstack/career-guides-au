@@ -1,60 +1,92 @@
-# Vehicle body builders and repairers（Vehicle body builders and repairers）职业分析 · UK
+# Vehicle body builders and repairers — career analysis · United Kingdom
 
-**职业代码：5232 – Vehicle body builders and repairers。**
+**Occupation code: 5232 (SOC)**
 
-Construct and repair the bodies of road vehicles, and fit interior and exterior fittings to vehicle bodies.
+Responsible for manufacturing and repairing body structures of road vehicles, and installing internal and external fittings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| GCSEs（中学教育） | 2年 | —（公立学校免费） |
-| 高级学徒制（Advanced Apprenticeship） | 3-4年 | —（学徒期间有工资，无学费） |
-| HND或基础学位 | 2年 | $6,000~$9,000（每年学费约6,000-9,000英镑） |
+| GCSEs (General Certificate of Secondary Education) | 2 years | $0~$0 (Free public schools.) |
+| Advanced Apprenticeship | 3-4 years | $0~$0 (Paid during apprenticeship, no tuition fees) |
+| HND or foundation degree | 2 years | $6,000~$9,000 (Annual tuition fees about £6,000-9,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 3级车身修理 | City & Guilds / IMI | 必备 | 行业标准资格 |
-| IMI车身建造与维修证书 | Institute of the Motor Industry | 可选 | 广泛认可 |
-| 机动车技术（车身）A级 | 多家颁证机构 | 可选 | 可作为高级学徒替代 |
+| NVQ Level 3 in Vehicle Body Repair | City & Guilds / IMI | Required | Industry standard qualifications |
+| Certificate II in Body Building and Repair | Institute of the Motor Industry | Optional | Widely recognized |
+| Motor Vehicle Technology (Bodywork) Class A | Multiple issuing bodies | Optional | Can substitute as an advanced apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。随着汽车保有量增加和事故修复需求稳定，该职业就业前景稳定。新能源汽车车身轻量化趋势可能带来新材料维修培训需求，总体岗位数量预计小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. With increasing vehicle ownership and stable demand for accident repair, the employment outlook for this occupation is stable. The trend toward lightweight new energy vehicle bodies may create training needs for new material repairs, and the overall number of positions is expected to grow slightly.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒期通常14,000-18,000英镑，出师后上升 |
-| 中级（3-7年） | $27,000~$35,000 | 熟练技工水平 |
-| 高级（7年以上/主管） | $36,000~$45,000 | 含奖金和加班费 |
+| Median salary | $34,999 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Apprenticeship typically £14,000-18,000, rising after qualification. |
+| Mid-level (3–7 years) | $27,000~$35,000 | Skilled worker level |
+| Senior (7+ years/supervisor) | $36,000~$45,000 | Including bonuses and overtime pay |
+| average salary | $36,525 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★½☆）。** 可从学徒晋升为熟练技工，进而成为团队主管或车间经理。也可专攻特定领域（如铝合金焊接、经典车修复）提升薪资。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on car body manufacturing and repair workers is mixed: AI-driven design, diagnostics, and process optimization will enhance some tasks, but computer vision and robotics can automate damage detection and basic repairs, compressing entry-level roles; overall risk is moderate.
+
+Can progress from apprentice to skilled tradesperson, then to team leader or workshop manager. Specialization in areas like aluminum welding or classic car restoration can increase salary.
+
+**Tasks most exposed to AI:**
+
+- Using computer vision for automatic vehicle body damage detection and size measurement
+- Robotic welding and cutting of basic sheet metal parts
+- Use AI to generate repair plans and automatically estimate labour and material costs
+- Standardized surface preparation and primer painting tasks
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex body structure deformations, providing repair path recommendations
+- Use augmented reality (AR) technology to guide precise alignment and installation
+- Virtual simulation to verify maintenance plans, reducing trial and error costs
+- Leveraging big data to optimize parts procurement and inventory management
+
+**Human moat:**
+
+- Handling customized repairs for non-standard, composite materials
+- Communicating with clients, negotiating repair plans, and on-site decision-making
+- Manual adjustment and quality control of vehicle safety-critical components
+- Cross-trade coordination (e.g., integration of circuits, mechanical components, and bodywork)
+
+**Skills to build:**
+
+- Operating AI diagnostic tools and digital measurement devices
+- Learn repair techniques for lightweight materials (carbon fiber, aluminum alloy)
+- Master 3D printing spare part design and application
+- Data analysis and basic programming (Python) to optimize processes
+- High-voltage safety and electronic systems knowledge for new energy vehicles.
+
+**Key growth areas:**
 
 - Electric vehicle body repair
 - Lightweight materials
@@ -63,68 +95,67 @@ Construct and repair the bodies of road vehicles, and fit interior and exterior 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业在可担保职业清单上，需雇主担保且满足薪资要求（一般门槛26,200英镑/年） |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请留英工作2年，积累经验后转为工签 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在车身修理领域取得杰出成就的个人，但极少适用 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the list of eligible occupations, requiring employer sponsorship and meeting salary requirements (general threshold £26,200/year) |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply to stay and work for 2 years, then switch to a work visa after gaining experience |
+| Subclass Global Talent (Global Talent Visa) | Applicable to individuals with outstanding achievements in the automotive body repair field, but rarely applied |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle body builders and repairers？**
-- 喜欢动手操作和修理车辆的人
-- 有耐心和注重细节的求职者
-- 愿意在车间环境中工作的人
-
-**谁不适合学Vehicle body builders and repairers？**
-- 不喜欢体力劳动和噪音环境的人
-- 偏好办公室工作或高学历要求的职业者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and vehicle repair
+- Job seekers with patience and attention to detail
+- People willing to work in a workshop environment
+
+**Who is not suited**
+- People who dislike physical labor and noisy environments
+- Those who prefer office work or occupations requiring higher education
+
+---
+
+## 8. FAQ
+
+**Q: Is there significant salary growth potential for vehicle body builders and repairers?**
+A: Starting salary approx GBP 20,000, rising to over GBP 35,000 with experience, supervisor up to GBP 45,000. Specializing in areas like classic car restoration or aluminum welding can further increase earnings.
+
+**Q: How can overseas applicants become vehicle body builders and repairers in the UK through skilled migration?**
+A: This occupation is on the skilled visa sponsorship list, requiring employer sponsorship and meeting salary requirements. Typically requires relevant qualifications and over 3 years of work experience.
+
+**Q: What essential certificates are needed to become a vehicle body builder and repairer?**
+A: Typically requires an NVQ Level 3 in Body Repair (awarded by City & Guilds or IMI), the industry standard qualification. Advanced apprenticeships are also common pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 积极（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Vehicle body builders and repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for vehicle body builders and repairers?**
-答：Starting salary is around £20,000, increasing to over £35,000 with experience, and up to £45,000 as a supervisor. Specializing in areas like classic car restoration or aluminum welding can further boost earnings.
-
-**问：How can overseas applicants become vehicle body builders and repairers in the UK via skilled migration?**
-答：This occupation is on the eligible occupations list for the Skilled Worker visa. You need a job offer from a licensed sponsor and meet the salary threshold. Typically, relevant qualifications and 3+ years of experience are required.
-
-**问：What mandatory qualifications are required to become a vehicle body builder and repairer?**
-答：Typically, an NVQ Level 3 in Body Repair (awarded by City & Guilds or IMI) is required. This is the industry standard qualification. Advanced apprenticeships are also a common route.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

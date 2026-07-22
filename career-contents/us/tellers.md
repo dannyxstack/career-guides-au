@@ -1,61 +1,97 @@
-# Tellers（Tellers）职业分析 · 美国
+# Tellers — career analysis · United States
 
-**职业代码：43-3071 – Tellers。**
+**Occupation code: 43-3071 (SOC)**
 
-Receive and pay out money, keep records of cash and negotiable instruments involved in financial transactions at banks or credit unions.
+Responsible for handling cash receipts and payments, processing transactions, and recording day-to-day operations of currency and negotiable instruments in financial institutions.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $5,000~$15,000（社区学院，年学费） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $5,000~$15,000 (Community college, annual tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中或GED | 必备 | 基本要求 |
-| 在职培训 | 雇主 | 必备 | 通常为期1-3个月 |
-| 出纳员认证（可选） | 美国银行家协会 | 可选 | 提升竞争力 |
+| High school diploma or equivalent | High school diploma or GED | Required | Basic requirements |
+| On-the-job training | Employer | Required | Usually 1-3 months |
+| Cashier certification (optional) | American Bankers Association | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 410,000。美国银行出纳员就业预计下降，受自动取款机、在线银行和移动支付普及影响，2023-2033年岗位数预计减少约15%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 410,000. US bank teller employment is expected to decline due to the prevalence of ATMs, online banking, and mobile payments; job numbers are projected to decrease by about 15% from 2023 to 2033.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$32,000 | 入门级，通常时薪13-15美元 |
-| 中级（3-7年） | $32,000~$38,000 | 有经验后薪资增长有限 |
-| 高级（7年以上） | $38,000~$45,000 | 高级出纳或主管级别 |
+| Median salary | $43,030 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $27,000~$32,000 | Entry-level, typically $13-15 per hour |
+| Mid-level (3–7 years) | $32,000~$38,000 | Once experienced, salary growth is limited |
+| Senior (7+ years) | $38,000~$45,000 | Senior cashier or supervisor level |
+| average salary | $42,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 出纳员可晋升为高级出纳、客户服务代表或分行管理员；部分人通过考取金融认证转向贷款、投资等岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
+
+Cashiers can advance to senior cashier, customer service representative, or branch administrator; some move into loans or investments by obtaining financial certifications.
+
+**Tasks most exposed to AI:**
+
+- Daily cash deposit, withdrawal and transfer operations
+- Standardized customer inquiry responses (e.g., account balance, transaction queries)
+- Simple product sales (e.g., opening accounts, issuing credit cards) recommendations and procedures
+- Paper document processing and data entry
+- Repetitive transaction reconciliation and report generation
+
+**Where AI augments the role:**
+
+- Using AI tools to analyze customer data for personalized financial advice
+- Efficiently handle complex customer complaints and disputes via intelligent systems
+- Use automated reporting tools to monitor anomalous transactions (anti-fraud)
+- Combining AI assistance for customer demand forecasting and cross-selling
+- Managing digital customer relationship management (CRM) systems to enhance service
+
+**Human moat:**
+
+- Complex financial product explanation and customized solution design
+- High-net-worth client relationship maintenance and trust building
+- Manual judgment and authorization for urgent or non-standard transactions
+- Emotional understanding and empathy in face-to-face communication
+- Cross-departmental coordination to resolve customer issues beyond system capabilities
+
+**Skills to build:**
+
+- Basic knowledge of Python/VBA for automated reporting and data analysis
+- Learning Customer Relationship Management (CRM) and Digital Marketing Tools
+- Obtain financial planning certifications (e.g., RG146)
+- Enhance complex communication and objection handling skills
+- Familiarity with Anti-Money Laundering (AML) and compliance regulatory processes
+- Learning AI tools in financial services (e.g., chatbot configuration)
+
+**Key growth areas:**
 
 - Automation Impact
 - Declining Demand
@@ -64,65 +100,67 @@ Receive and pay out money, keep records of cash and negotiable instruments invol
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 出纳员通常不满足专业职位要求，H-1B极少获批。 |
-| Subclass EB-3（Employment-Based Third Preference） | 极少用于出纳员，需PERM劳工证，但薪资低难通过。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Cashiers usually do not meet professional occupation requirements, and H-1B approvals are extremely rare. |
+| Subclass EB-3 (Employment-Based Third Preference) | Rarely used for cashiers, requires PERM labor certification, but low salary makes it difficult to pass. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tellers？**
-- 喜欢与人打交道、注重细节的求职者
-- 寻求入门级银行工作、无需高学历者
-- 希望获得稳定兼职或临时工作者
+**Who is suited**
+- Job seekers who enjoy interacting with people and pay attention to detail
+- Seeking entry-level banking jobs, no higher education required
+- Those seeking stable part-time or temporary work
 
-**谁不适合学Tellers？**
-- 追求高薪和职业发展者
-- 希望长期在银行业发展、不愿被自动化取代者
+**Who is not suited**
+- Those seeking high salary and career development
+- Those seeking long-term careers in banking and wanting to avoid being replaced by automation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a bank teller?**
+A: According to BLS data, median annual salary in 2023 was about $37,000, entry-level around $27,000, senior around $45,000; limited salary growth potential.
+
+**Q: Can bank tellers apply for US skilled immigration?**
+A: Very difficult. Tellers generally do not meet H-1B specialty occupation requirements, and EB-3 green card path has low salary and very low approval rate, with almost no skilled migration possibility.
+
+**Q: What is the future outlook for bank tellers?**
+A: Poor outlook. Affected by ATMs, online banking, and automation, positions are expected to continue declining. Consider transitioning to roles like customer service or financial analysis
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Tellers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for tellers?**
-答：According to BLS 2023, median annual wage is around $37,000; entry-level about $27,000; senior up to $45,000, with limited growth.
-
-**问：Can tellers apply for U.S. skilled migration?**
-答：Very difficult. Tellers rarely qualify for H-1B specialty occupations, and EB-3 green card route is nearly impossible due to low wages.
-
-**问：What is the future outlook for tellers?**
-答：Poor. Employment is projected to decline due to ATMs, online banking, and automation. Consider transitioning to customer service or financial analysis.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

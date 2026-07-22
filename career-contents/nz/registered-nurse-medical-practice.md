@@ -1,59 +1,93 @@
-# Registered Nurse (Medical Practice)（Registered Nurse (Medical Practice)）职业分析 · 新西兰
+# Registered Nurse (Medical Practice) — career analysis · New Zealand
 
-**职业代码：254422 – Registered Nurse (Medical Practice)。**
+**Occupation code: 254422 (ANZSCO)**
 
-Registered nurses in NZ provide clinical care, medication management, and patient education in hospitals, community health, and aged care. The profession is on Green List Tier 1, enabling direct residency for qualified applicants.
+Registered nurses provide clinical care, medication management, and patient education in New Zealand hospitals, community health, and aged care facilities. New Zealand faces ongoing nurse shortages; this occupation is on the Green List Tier 1, meeting immigration requirements for direct residency application.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（学士学位） | 3年 | $28,000~$40,000（新西兰大学国际学生年学费，如奥克兰理工大学） |
-| 硕士（桥梁课程，针对海外护士） | 1-2年 | $30,000~$45,000（如奥塔哥大学护理科学硕士（海外注册护士方向）） |
+| Bachelor's degree | 3 years | $28,000~$40,000 (Annual international student tuition fees at New Zealand universities, e.g., Auckland University of Technology) |
+| Master's (bridging course for overseas nurses) | 1-2 years | $30,000~$45,000 (Such as University of Otago Master of Nursing Science (Overseas Registered Nurse pathway)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册护士资格（NZRN） | 新西兰护理委员会（NCNZ） | 必备 | 通过NCNZ能力评估或完成认可课程后方可注册。 |
-| 雅思学术类7.0（各单项不低于7.0） | IELTS | 必备 | 海外申请人需满足英语要求，OET或PTE也可接受。 |
-| 适用执业证书（Annual Practising Certificate） | NCNZ | 必备 | 每年更新，需完成持续教育。 |
+| New Zealand Registered Nurse (NZRN) qualification | Nursing Council of New Zealand (NCNZ) | Required | Must register after passing NCNZ competence assessment or completing an accredited programme. |
+| IELTS Academic 7.0 (no band less than 7.0) | IELTS | Required | Overseas applicants must meet English language requirements; OET or PTE are also accepted. |
+| Annual Practising Certificate (APC) | NCNZ | Required | Renewed annually, requires continuing education. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 62,000。新西兰护士长期短缺，预计到2028年需新增超过2万名注册护士。老龄化社会和慢性病增加驱动需求，就业机会广泛，尤其在老年护理、初级保健和心理健康领域。
+**Job demand: very high (★★★★½).** National workforce approx. 62,000. New Zealand has a long-term shortage of nurses, needing over 20,000 more registered nurses by 2028. Demand driven by ageing population and chronic diseases; broad job opportunities especially in aged care, primary care, and mental health.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 依据DHB薪资标准，新毕业生约$55k-$60k。 |
-| 中级（3-7年） | $70,000~$90,000 | 经验护士通常$70k-$90k，含专科津贴。 |
-| 高级（7年以上） | $90,000~$120,000 | 护士经理或高级执业护士可达$110k+。 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | According to DHB salary scale, new graduates around $55k-$60k. |
+| Mid-level (3–7 years) | $70,000~$90,000 | Experienced nurses typically $70k-$90k, inclusive of specialty allowances. |
+| Senior (7+ years) | $90,000~$120,000 | Nurse manager or advanced practice nurse can reach $110k+. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 注册护士可晋升为临床护士专家、护士经理或高级执业护士。也可向专科领域如重症监护、急诊、肿瘤科等发展，部分通过硕士课程成为执业护士，享有独立处方权。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses are not a profession that will be replaced by AI, but one that will be reorganized by AI tools. AI will reduce the time spent on documentation, reminders, searches, and initial risk prompts, but final nursing judgment, bedside care, medication checks, patient communication, family coordination, and legal responsibility remain with registered nurses. Nurses who can use digital health tools and AI-assisted systems will be more competitive than those who only follow traditional processes.
+
+Registered nurses can advance to clinical nurse specialist, nurse manager, or advanced practice nurse. They can also specialize in areas like intensive care, emergency, oncology, etc.; some obtain a master's to become nurse practitioners with independent prescribing rights.
+
+**Tasks most exposed to AI:**
+
+- Voice transcription and structured drafts of nursing records (nurses must verify and are responsible for accurate, complete, and timely records)
+- Drafting shift handover and discharge summaries
+- Scheduling and consumables inventory tasks
+- Standard health education material compilation and personalization
+
+**Where AI augments the role:**
+
+- Risk alerts for falls, pressure injuries, sepsis, etc.
+- Medication and dosage verification reminders
+- Automatic prompts for abnormal vital signs
+- Case and evidence-based literature retrieval
+- Patient communication preparation and follow-up
+
+**Human moat:**
+
+- Registration license and legal liability
+- Bedside care and hands-on operations
+- Care relationships with patients and families
+- Clinical judgment for complex conditions
+- Multidisciplinary team coordination
+
+**Skills to build:**
+
+- Digital health / electronic health record (EHR) systems
+- Use and verification of AI-assisted risk alert tools
+- Data and evidence-based literacy
+- Communication and empathy
+- English and cross-cultural communication
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Registered nurses in NZ provide clinical care, medication management, and patien
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 注册护士为绿色清单第一梯队职业，满足资格即可直接申请居留，无需工作经历。 |
-| Subclass SMC（Skilled Migrant Category） | 可通过6分制申请，注册护士通常可获最高学历分加上工作年限分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为过渡签证，可用于先获雇主担保工作，再转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Registered nurse is on the Green List Tier 1, eligible for direct residence application if qualifications are met, without work experience. |
+| Subclass SMC (Skilled Migrant Category) | Can apply under the 6-point system; registered nurses typically get maximum points for degree plus work experience years. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa, it allows for employer-sponsored work first, then transition to permanent residence. |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered Nurse (Medical Practice)？**
-- 有耐心、同理心和良好沟通能力的人
-- 能适应轮班和高压医疗环境的人
-- 愿意在偏远或老年护理领域工作的人
-
-**谁不适合学Registered Nurse (Medical Practice)？**
-- 对血液、体液或创伤有强烈不适感的人
-- 不愿持续学习或接受严格执业监管的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with patience, empathy, and good communication skills
+- People who can adapt to shift work and high-pressure medical environments
+- Willing to work in remote or aged care settings
+
+**Who is not suited**
+- People with strong aversion to blood, bodily fluids, or trauma
+- Those unwilling to continuously learn or accept strict professional oversight
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a Registered Nurse in New Zealand?**
+A: According to careers.govt.nz, registered nurses annual salary is typically NZ$55,000-$90,000; experienced or specialist nurses can reach NZ$110,000+.
+
+**Q: How can overseas nurses immigrate to New Zealand via the Green List?**
+A: Must obtain NCNZ registration and meet English requirements (e.g., IELTS 4 bands of 7), no work experience needed to apply for Straight to Residence Visa.
+
+**Q: What is the cost of studying a nursing bachelor's degree in New Zealand?**
+A: Annual tuition for international students is approximately $28,000-$40,000, total three-year tuition is about $84k-$120k, plus living expenses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Registered Nurse (Medical Practice)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a registered nurse in NZ?**
-答：According to careers.govt.nz, RNs earn $55k-$90k, with experienced or specialist roles exceeding $110k.
-
-**问：How can overseas nurses immigrate via Green List?**
-答：They need NZ nursing registration and English (IELTS 7.0 in all bands) to apply for Straight to Residence Visa.
-
-**问：How much does a nursing bachelor's degree cost in NZ?**
-答：International fees are NZD 28k-40k per year, totaling ~84k-120k for three years, plus living costs.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

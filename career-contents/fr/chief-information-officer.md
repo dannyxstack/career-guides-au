@@ -1,61 +1,97 @@
-# Chief Information Officer（Chief Information Officer）职业分析 · FR
+# Chief Information Officer — career analysis · France
 
-**职业代码：M1803 – Chief Information Officer。**
+**Occupation code: M1803 (ROME)**
 
-Responsible for the organization's information technology strategy, system architecture design, and IT team management, ensuring that information systems support business objectives and digital transformation.
+Responsible for the company's IT strategic planning, system architecture design, and IT team management to ensure that information systems support business objectives and achieve digital transformation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（硕士） | $10,000~$20,000（公立大学硕士约3000欧元/年，商学院或工程师学院约10000-20000欧元/年） |
-| 工程师文凭或商校硕士 | 5年（工程师或商校） | $5,000~$15,000（工程师学校约5000-15000欧元/年，可走学徒制（alternance）减免学费） |
-| MBA（信息技术方向） | 1-2年 | $20,000~$40,000（顶尖商学院MBA，成本较高，可申请奖学金） |
+| Master's (BAC+5) | 5 years (Master's) | $10,000~$20,000 (A master's degree at a public university costs about 3,000 euros per year, while business schools or engineering schools earn about 10,000-20,000 euros per year) |
+| Engineer diploma or business school master's degree | 5 years (engineer or business school) | $5,000~$15,000 (Engineering schools cost about 5,000-15,000 euros per year, and tuition fees can be waived through the alternation program) |
+| MBA (Information Technology Track) | 1-2 years | $20,000~$40,000 (Top business school MBA programs with higher costs and scholarships available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息系统管理硕士（Master en management des systèmes d'information） | 法国公立大学或商学院 | 可选 | 核心学历，非强制但普遍要求 |
-| 项目管理专业认证（PMP） | Project Management Institute | 可选 | 加分项，非强制 |
-| ITIL认证 | AXELOS | 可选 | IT服务管理最佳实践，企业认可度高 |
-| CISSP或CISM（信息安全） | ISC2或ISACA | 可选 | 如涉及网络安全职责，建议持有 |
+| Master of Information Systems Management (Master en management des systèmes d'information) | French public universities or business schools | Optional | Core academic qualifications, not mandatory but generally required |
+| Project Management Professional (PMP) | Project Management Institute | Optional | Bonus points, not mandatory |
+| ITIL certification | AXELOS | Optional | Best practices in IT service management are highly recognized by enterprises |
+| CISSP or CISM (Information Security) | ISC2 or ISACA | Optional | If it involves cybersecurity responsibilities, it is recommended to hold it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国数字化转型加速，企业对信息系统总监的需求持续增长。预计2024-2030年该岗位年均增长约5%，尤其在金融、科技和制造业领域。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France's digital transformation is accelerating, and the demand for information systems directors continues to grow among companies. This position is expected to grow at an average annual rate of about 5% from 2024 to 2030, especially in finance, technology, and manufacturing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 税前年薪，视企业规模和行业而定 |
-| 中级（3-8年） | $75,000~$110,000 | 税前年薪，通常担任IT部门负责人 |
-| 高级（8年以上） | $110,000~$180,000 | 税前年薪，大型企业或CDI高管 |
+| Median salary | $92,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$75,000 | Pre-tax annual salary depends on the size of the company and the industry |
+| Mid-level (3–8 years) | $75,000~$110,000 | Pre-tax annual salary, usually serving as head of the IT department |
+| Senior (8+ years) | $110,000~$180,000 | Pre-tax annual salary, large corporations or CDI executives |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 通常从IT项目经理或架构师晋升，逐步担任IT部门主管、首席技术官，最终成为首席信息官。亦可转型为管理咨询或创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
+
+Typically, they are promoted from IT project manager or architect, gradually becoming IT department heads, chief technology officers, and eventually becoming chief information officers. You can also transition into management consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Automated project progress tracking and status report generation
+- AI-assisted code review and automated test case generation
+- standardized IT operations tasks (e.g., server monitoring, log analysis)
+- Automatically generate technical documentation and user manuals
+- Data-Driven Decision Support Reports (e.g., Cost Analysis, Resource Optimization Recommendations)
+
+**Where AI augments the role:**
+
+- Using AI to predict project risks and adjust resource allocation in advance
+- Improving team communication and problem-solving efficiency through AI chatbots
+- Use AI tools for technology selection evaluation and architecture comparison
+- Automated budget tracking and compliance checks, allowing managers to focus on strategic decisions
+- AI-driven market trend analysis to assist IT strategic planning
+
+**Human moat:**
+
+- High-level strategic decision-making and vision setting
+- Cross-departmental interest coordination and conflict resolution
+- Critical judgment and accountability for AI outputs
+- Team culture building and talent development
+- Creative solutions to complex systemic problems
+
+**Skills to build:**
+
+- AI project management tools (e.g., Jira+AI plugins, Asana smart features)
+- Basic data analysis and visualization (Python/Power BI)
+- Machine learning workflow understanding (MLOps basics)
+- AI ethics and compliance knowledge
+- Practices of Agile and DevOps combined with AI
+- Communication and change management skills
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -64,69 +100,68 @@ Responsible for the organization's information technology strategy, system archi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能专业人士，年薪需达到法国平均工资的1.5倍以上（约54000欧元），简化居留申请流程。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于欧盟以外的高学历或高技能人才，年薪门槛约52000欧元，可携带家属，快速获得长期居留。 |
-| Subclass Salarié（Employee Work Permit） | 传统工作居留，需获得法国企业雇佣并经过劳工局核准，适合初次赴法工作的技术人才。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业生或持有法国硕士文凭者可申请，有效期12个月，用于寻找工作并转换工作居留。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, with an annual salary at least 1.5 times the French average (about 54,000 euros), simplifying the residency application process. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated or highly skilled talents outside the EU, with an annual salary threshold of about 52,000 euros, allowing families to quickly obtain long-term residency. |
+| Subclass Salarié (Employee Work Permit) | Traditional work residence requires employment by a French company and approval by the Labor Department, making it suitable for technical talent first-time in France. |
+| Subclass Recherche emploi (Job Search Visa) | Graduates or holders of a French master's degree can apply, valid for 12 months, for job hunting and changing work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chief Information Officer？**
-- 具备战略思维和领导力的技术专家
-- 有IT项目经理或架构师经验，希望晋升高级管理层
-- 对数字化转型和新技术（云、AI、安全）有深刻理解
-
-**谁不适合学Chief Information Officer？**
-- 偏好纯技术工作，不愿承担管理职责
-- 不喜欢跨部门沟通和商业战略决策
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical experts with strategic thinking and leadership
+- Experience as an IT project manager or architect, hoping to advance to senior management
+- Deep understanding of digital transformation and new technologies (cloud, AI, security).
+
+**Who is not suited**
+- Prefers purely technical work and is unwilling to take on management responsibilities
+- Dislikes cross-departmental communication and business strategy decisions
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Information Systems Director in France?**
+A: Junior: approx. €55,000-75,000, mid-senior: up to €110,000-180,000, depending on company size and industry; higher in large enterprises or finance.
+
+**Q: As a non-EU citizen, how can you immigrate to France through the position of Director of Information Systems?**
+A: Applications can be made through Passeport Talent (talent passport) or the EU Blue Card (Carte bleue UE), with an annual salary of about 54,000 euros or more. A French company CDI contract must be obtained, and the company must prove that suitable candidates cannot be found for the position within the EU.
+
+**Q: What educational qualifications are required to become an Information Systems Director?**
+A: A master's degree or higher (Bac+5) is usually required, such as a master's degree in Management, Computer Science, or Information Systems. Diplomas from engineering schools or business schools are more popular. In addition, professional certifications such as PMP and ITIL can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Chief Information Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Chief Information Officer in France?**
-答：Entry-level around €55,000-75,000; mid to senior level can reach €110,000-180,000, depending on company size and industry, with higher pay in large corporations or finance.
-
-**问：How can a non-EU citizen immigrate to France through a Chief Information Officer position?**
-答：Apply for a Talent Passport or EU Blue Card, requiring a gross annual salary of at least €54,000. Need a permanent contract (CDI) and employer justification that the position cannot be filled within the EU.
-
-**问：What education is required to become a Chief Information Officer?**
-答：Typically a master's degree (Bac+5) in management, computer science, or information systems. Diplomas from engineering schools or business schools are highly valued. Professional certifications like PMP or ITIL are advantageous.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

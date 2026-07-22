@@ -1,59 +1,92 @@
-# Geoscientists, Except Hydrologists and Geographers（Geoscientists, Except Hydrologists and Geographers）职业分析 · 美国
+# Geoscientists, Except Hydrologists and Geographers — career analysis · United States
 
-**职业代码：19-2042 – Geoscientists, Except Hydrologists and Geographers。**
+**Occupation code: 19-2042 (SOC)**
 
-Study the composition, structure, and physical aspects of the Earth, using geological, physics, and mathematics knowledge for exploration of oil, gas, minerals, or groundwater, and for environmental issues.
+Study the composition, structure, and other physical properties of the Earth; use geological, physical, and mathematical knowledge to explore for oil, gas, minerals, or groundwater; or address environmental issues such as waste disposal and land reclamation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学国际生学费年均约1-3万美元） |
-| 硕士 | 2年 | $30,000~$100,000（总学费，视学校而定） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Average annual tuition for international students at public universities: approx. US$10,000-30,000) |
+| Master's degree | 2 years | $30,000~$100,000 (Total tuition, varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地质学学士学位 | 美国大学 | 必备 | 通常需要地球科学、地质学或相关领域学士学位 |
-| 专业地质学家执照（PG） | 州地质委员会 | 可选 | 部分州要求，需通过ASBOG考试和4年经验 |
-| 工程师地质师认证 | 美国地质师协会 | 可选 | 非强制，但有助于职业发展 |
+| Bachelor's degree in geology | U.S. universities | Required | Typically requires a bachelor's degree in Earth Science, Geology, or related field |
+| Professional Geologist License (PG) | State geological board | Optional | Required in some states, pass the ASBOG exam and have 4 years of experience |
+| Engineers Geoscientists certification | American Association of Petroleum Geologists | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 26,000。美国劳工统计局（BLS）预计2022-2032年就业增长约5%，与所有职业平均水平相当。需求主要来自能源和环境保护领域，尤其石油和天然气勘探，以及环境修复项目。
+**Job demand: medium (★★★☆☆).** National workforce approx. 26,000. The US Bureau of Labor Statistics (BLS) projects about 5% employment growth from 2022 to 2032, about average for all occupations. Demand mainly from energy and environmental protection, especially oil and gas exploration and environmental remediation projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $52,000~$75,000 | 含野外津贴 |
-| 中级（5-10年） | $75,000~$110,000 | 项目主管或高级地质学家 |
-| 高级（10年以上） | $110,000~$160,000 | 首席地质学家或管理层 |
+| Median salary | $101,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $52,000~$75,000 | Includes field allowances |
+| Intermediate (5-10 years) | $75,000~$110,000 | Project supervisor or senior geologist |
+| Senior (10+ years) | $110,000~$160,000 | Chief geologist or management level |
+| average salary | $116,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级岗位通常需要野外工作或实验室支持；积累经验后可晋升为项目主管、首席地质学家或部门经理。部分人转向咨询或学术研究，或进入管理层担任勘探经理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Entry-level positions often involve fieldwork or lab support; with experience, can advance to project supervisor, chief geologist, or department manager. Some transition to consulting, academia, or management as exploration managers.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Energy exploration
 - Environmental remediation
@@ -62,69 +95,68 @@ Study the composition, structure, and physical aspects of the Earth, using geolo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于地球科学家，需学士以上学位，雇主担保，年度配额有限，需抽签。 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 需硕士以上或本科+5年经验，PERM劳工证，绿卡路径。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于极少数杰出地球科学家，需证明国际认可。 |
-| Subclass TN（TN NAFTA Professional） | 仅适用于加拿大和墨西哥公民，需相关学位，无需抽签。 |
+| Subclass H-1B (H-1B Specialty Occupation) | For geoscientists, requires bachelor's degree or higher, employer sponsorship, limited annual quota, lottery required. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Requires master's degree or bachelor's with 5+ years experience, PERM labor certification, green card path. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to very few exceptional earth scientists, requiring proof of international recognition. |
+| Subclass TN (TN NAFTA Professional) | Available only to Canadian and Mexican citizens, requiring a relevant degree, no lottery needed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geoscientists, Except Hydrologists and Geographers？**
-- 对地质和地球科学有强烈兴趣者
-- 喜欢户外工作与实验室分析结合者
-- 愿意学习多学科知识（物理、化学、数学）者
-
-**谁不适合学Geoscientists, Except Hydrologists and Geographers？**
-- 不喜欢不规律野外工作环境者
-- 对漫长认证和执照考试缺乏耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in geology and earth sciences
+- Those who enjoy outdoor work combined with laboratory analysis
+- Willing to learn multidisciplinary knowledge (physics, chemistry, mathematics)
+
+**Who is not suited**
+- Those who dislike irregular fieldwork environments
+- Those lacking patience for lengthy certification and licensing exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a geoscientist?**
+A: According to BLS 2023 data, the median annual salary is approximately $83,680, with the top 10% earning over $150,000. Salary is affected by industry (oil industry typically higher) and geographic location.
+
+**Q: What is the most viable path for foreign geoscientists to immigrate to the US?**
+A: Most common is the H-1B work visa, requiring employer sponsorship and lottery; then apply for a green card via EB-2/EB-3. For Canadian and Mexican citizens, TN visa exempt from lottery.
+
+**Q: What certifications are required to become a professional geologist?**
+A: Some states require a Professional Geologist (PG) license, needing the ASBOG exam and 4 years of experience. Becoming a Certified Engineering Geologist (CEG) can also boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Geoscientists, Except Hydrologists and Geographers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geoscientists?**
-答：According to BLS 2023, median annual wage is around $83,680; top 10% earn over $150,000. Pay varies by industry (oil & gas higher) and location.
-
-**问：What is the most viable immigration path for foreign geoscientists to the US?**
-答：H-1B visa with employer sponsorship and lottery; then green card via EB-2/EB-3. TN visa for Canadian and Mexican citizens without lottery.
-
-**问：What certifications are needed to become a professional geoscientist?**
-答：Some states require Professional Geologist (PG) license via ASBOG exam and 4 years of experience. Certified Engineering Geologist (CEG) also helps.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

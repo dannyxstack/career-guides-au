@@ -1,59 +1,95 @@
-# Marketing, sales and advertising directors（Marketing, sales and advertising directors）职业分析 · UK
+# Marketing, sales and advertising directors — career analysis · United Kingdom
 
-**职业代码：1132 – Marketing, sales and advertising directors。**
+**Occupation code: 1132 (SOC)**
 
-Marketing, sales and advertising directors plan, organise and direct advertising campaigns and market research, and formulate and implement an organisation's marketing, sales and social media policies.
+Marketing, sales and advertising directors plan, organise and direct advertising activities and market research, and develop and implement an organisation's marketing, sales and social media policies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$15,000（英国本土学生学费约9,250英镑/年，国际学生约15,000-20,000英镑/年，此处为平均范围。） |
-| 硕士（可选） | 1年 | $15,000~$30,000（市场营销或MBA相关硕士课程，国际学生费用较高。） |
+| Bachelor's degree | 3 years | $9,000~$15,000 (UK domestic student tuition is approximately £9,250 per year, international students around £15,000-20,000 per year; this is an average range.) |
+| Master's degree (optional) | 1 year | $15,000~$30,000 (Master's degree in Marketing or MBA related; international student fees are higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销学士/硕士学位 | 英国大学 | 可选 | 相关学科如市场营销、商业管理或经济学。 |
-| 特许市场营销协会（CIM）资格 | CIM | 可选 | 专业资格认证，提升职业竞争力。 |
-| 专业会员资格 | 英国市场营销协会（MRS）或英国特许广告协会（IPA） | 可选 | 行业认可，有助于网络与职业发展。 |
+| Bachelor's/Master's degree in marketing | UK universities | Optional | Related disciplines such as marketing, business management, or economics. |
+| Chartered Institute of Marketing (CIM) qualification | CIM | Optional | Professional qualification to enhance career competitiveness |
+| Professional membership | Market Research Society (MRS) or Institute of Practitioners in Advertising (IPA) in the UK | Optional | Industry recognition, beneficial for networking and career development. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 38,000。随着数字化转型和竞争加剧，英国对高级营销和销售管理人才的需求持续增长。预计2023-2033年就业增长约5%，重点领域包括数字营销、数据分析和社会媒体策略。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 38,000. With digital transformation and intensified competition, demand for senior marketing and sales management talent in the UK continues to grow. Employment is projected to increase by about 5% from 2023-2033, with key areas including digital marketing, data analytics, and social media strategy.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 初级管理岗位或小型企业。 |
-| 中级（3-7年） | $55,000~$85,000 | 中型企业部门负责人或高级经理。 |
-| 高级（7年以上） | $85,000~$150,000 | 大型企业总监级，含奖金和福利。 |
+| Median salary | $94,135 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level management positions or small businesses. |
+| Mid-level (3–7 years) | $55,000~$85,000 | Department head or senior manager in a medium-sized enterprise. |
+| Senior (7+ years) | $85,000~$150,000 | Director level in large enterprises, including bonuses and benefits. |
+| average salary | $113,940 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从市场营销、销售或广告专员起步，晋升为经理，最终成为总监。也可通过MBA或专业资格认证提升竞争力，跨行业经验（如快消、科技、金融）有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Usually starts as a marketing, sales, or advertising specialist, advances to manager, and eventually director. An MBA or professional certification can boost competitiveness; cross-industry experience (e.g., FMCG, tech, finance) aids career development.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital marketing
 - Data-driven strategy
@@ -62,68 +98,67 @@ Marketing, sales and advertising directors plan, organise and direct advertising
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得受担保雇主offer的申请人，该职业在可担保职业清单上，需满足薪资门槛（通常不低于£38,700/年）。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在营销、广告或销售领域有突出成就或领导力的人才，无需雇主担保，需通过相关认可机构评估。 |
-| Subclass Scale-up（Scale-up Worker Visa） | 适用于快速增长企业（年均增长≥20%）雇佣的高技能人才，需符合薪资要求。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to applicants who have received a job offer from a sponsored employer, and the occupation is on the list of eligible occupations. Must meet the salary threshold (usually not less than £38,700/year). |
+| Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or leadership in marketing, advertising, or sales; no employer sponsorship required; must be assessed by relevant recognised authority. |
+| Subclass Scale-up (Scale-up Worker Visa) | For highly skilled talents employed by rapidly growing companies (average annual growth ≥20%), must meet salary requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marketing, sales and advertising directors？**
-- 具备战略思维和领导力，能制定并推动营销与销售策略。
-- 擅长数据分析和市场洞察，能适应数字化营销环境。
-- 有良好的沟通和谈判技巧，能够协调跨部门团队。
-
-**谁不适合学Marketing, sales and advertising directors？**
-- 不喜数字和分析工作，难以基于数据决策。
-- 抗压能力差，无法应对高强度工作和高业绩目标。
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess strategic thinking and leadership to develop and drive marketing and sales strategies.
+- Skilled in data analysis and market insights, able to adapt to digital marketing environments.
+- Good communication and negotiation skills, able to coordinate cross-departmental teams.
+
+**Who is not suited**
+- Dislike numbers and analysis, difficulty making data-driven decisions.
+- Poor stress tolerance, unable to cope with high-intensity work and high performance targets.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a Marketing Director?**
+A: UK Marketing Director salaries typically range from £85,000-£150,000 per year, with senior roles exceeding £200,000. Salaries are influenced by industry, company size, and location.
+
+**Q: How can overseas individuals become a Marketing Director in the UK via a work visa?**
+A: Typically requires applying for a Skilled Worker visa, obtaining employer sponsorship and meeting salary requirements (at least £38,700/year). You can also try the Global Talent visa, which requires demonstrating exceptional ability.
+
+**Q: What is the career development path for a Marketing Director?**
+A: Usually start as a marketing specialist or sales representative, then advance to manager, senior manager, and finally director. Accumulating cross-industry experience or obtaining an MBA can accelerate advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Marketing, sales and advertising directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a marketing director?**
-答：Marketing directors in the UK earn between £85,000 and £150,000 annually, with senior roles exceeding £200,000. Salary varies by industry, company size, and location.
-
-**问：How can overseas professionals become a marketing director in the UK via work visa?**
-答：Typically apply for a Skilled Worker visa with employer sponsorship and meet the salary threshold (min £38,700/year). Alternatively, the Global Talent visa is available for those with exceptional talent.
-
-**问：What is the career progression for a marketing director?**
-答：Typically start as a marketing executive or sales representative, progress to manager, senior manager, and eventually director. Cross-industry experience or an MBA can accelerate advancement.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

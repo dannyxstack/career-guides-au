@@ -1,59 +1,92 @@
-# Vehicle Trimmer（Vehicle Trimmer）职业分析 · 澳大利亚
+# Vehicle Trimmer — career analysis · Australia
 
-**职业代码：324212 – Vehicle Trimmer。**
+**Occupation code: 324212 (ANZSCO)**
 
-Vehicle trimmers install and repair interior trim in vehicles such as cars, trucks, and boats, including seats, door panels, headliners, and carpets, using sewing, cutting, and adhesive techniques to ensure aesthetics, comfort, and safety compliance.
+Vehicle Interior Trimmer installs and repairs interiors of cars, trucks, ships, and other vehicles, including seats, door panels, headliners, and carpets. They use sewing, cutting, and gluing techniques to ensure the interior is attractive, comfortable, and meets safety standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 | 4年 | $5,000~$15,000（含培训费和工具） |
-| 职业证书 | 1年 | $3,000~$8,000（TAFE课程费用） |
+| Apprenticeship | 4 years | $5,000~$15,000 (Includes training fees and tools) |
+| Professional certificate | 1 year | $3,000~$8,000 (TAFE course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 车辆内饰装饰工三级证书 | TAFE | 必备 | 核心从业资格，含学徒制 |
-| 车辆内饰装饰工四级证书 | TAFE | 可选 | 进阶资格，利于晋升 |
-| 技能评估 | Trades Recognition Australia | 必备 | 技术移民必要步骤 |
+| Certificate III in Automotive Interior Trimming | TAFE | Required | Core professional qualifications, including apprenticeship |
+| Skills assessment | Trades Recognition Australia | Required | Essential steps for skilled migration |
+| Certificate IV in Vehicle Interior Trim | TAFE | Optional | Advanced qualification, beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。澳洲汽车制造业虽衰退，但汽车维修和改装行业稳定，尤其是高端定制和经典车修复领域需求持续。预计未来五年就业增长平稳，年均约1000个职位空缺。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,500. Although Australia's automotive manufacturing industry has declined, the car repair and modification sector is stable, especially in high-end customization and classic car restoration, where demand continues. Employment growth is expected to be steady over the next five years, with around 1,000 job vacancies annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 学徒或刚毕业 |
-| 中级（3-7年） | $65,000~$85,000 | 熟练技工 |
-| 高级（7年以上） | $85,000~$110,000 | 资深或主管 |
+| Median salary | $100,048 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Apprentice or recent graduate |
+| Mid-level (3–7 years) | $65,000~$85,000 | Skilled tradesperson |
+| Senior (7+ years) | $85,000~$110,000 | Senior or supervisor |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级可从事缝纫或安装助手，积累经验后升为技工，再晋升为高级装饰工或主管。也可自主创业开设内饰改装店，或转向船舶、航空内饰等细分市场。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vehicle interior trimmers will face mixed AI impact: automated cutting/sewing equipment compresses entry-level positions, but AI-aided design, 3D scanning, and custom quoting tools amplify craft value; human aesthetics and handcraft detail remain core moats.
+
+Entry-level can work as sewing or installation assistants, accumulate experience to become technicians, then advance to senior decorators or supervisors. Can also start a business by opening an interior modification shop, or pivot to niche markets such as marine or aviation interiors.
+
+**Tasks most exposed to AI:**
+
+- Automatic cutting and sewing of standard seat covers and carpets
+- Inventory management and automatic ordering of interior parts
+- AI-based damage detection and repair solution generation
+- 3D scanning and digital modeling of vehicle interiors
+
+**Where AI augments the role:**
+
+- AI-assisted design tools generate customized interior solutions
+- Augmented Reality (AR) system guides precise installation and alignment
+- AI-based customer needs analysis for personalized quotes and material recommendations
+- Adaptive parameter adjustment of intelligent sewing machines improves efficiency in complex sewing.
+
+**Human moat:**
+
+- Complex stitching and embossed decorations done with fine craftsmanship
+- Creative and aesthetic restoration decisions for non-standard damage/aging
+- Communicate with clients on custom requirements and deliver art-grade interiors
+- High-maneuverability installation skills for handling irregular and extra-long interior parts
+
+**Skills to build:**
+
+- Proficient in AI-assisted design software (e.g., SolidWorks + AI plugins)
+- Learn 3D scanning and reverse engineering tools (e.g., Artec Studio)
+- Familiar with operating digital cutting and smart sewing systems
+- Enhance communication and customer service skills, especially for custom solution presentations
+- Basic programming and automated equipment maintenance knowledge
+- Learn AR-assisted installation and remote collaboration tools
+
+**Key growth areas:**
 
 - Customization
 - Classic car restoration
@@ -62,68 +95,67 @@ Vehicle trimmers install and repair interior trim in vehicles such as cars, truc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需2年相关经验 |
-| Subclass 186（Employer Nomination Scheme Visa） | 雇主担保永居签证，需职业评估和3年经验 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保临时签证，可转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires 2 years of relevant experience |
+| Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent residency visa, requires skills assessment and 3 years experience |
+| Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa with state nomination, can transition to 191 permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle Trimmer？**
-- 喜欢手工制作和细致工作的人
-- 对汽车或船舶内饰有热情，愿意学习缝纫和裁剪技能
-- 希望从事稳定技术工种，且有机会自主创业
-
-**谁不适合学Vehicle Trimmer？**
-- 对毛絮、胶水或粉尘过敏者
-- 不适应长时间坐姿或重复性劳动的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual crafting and detailed work
+- Passionate about automotive or marine interiors, willing to learn sewing and cutting skills
+- Those wishing to work in a stable technical trade with opportunities for self-employment.
+
+**Who is not suited**
+- Those allergic to lint, glue, or dust
+- Those who cannot tolerate prolonged sitting or repetitive labor.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a vehicle trimmer?**
+A: Junior annual salary approx AUD 50,000-65,000, intermediate AUD 65,000-85,000, senior up to AUD 85,000-110,000. Overtime and custom work can increase income.
+
+**Q: What are the requirements to immigrate to Australia as a vehicle interior trimmer?**
+A: TRA skills assessment required, typically with 4-year apprenticeship or equivalent experience. Eligible for 482 employer sponsorship, 186 permanent residency, or 491 regional visa. English requirement: IELTS 5.0 or above.
+
+**Q: Is there career development space for vehicle interior trimmers?**
+A: Yes, can advance from tradesperson to senior finisher, supervisor, or self-employment. Can also expand to high-end fields such as ship, aircraft interiors, or racing customization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Vehicle Trimmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a vehicle trimmer in Australia?**
-答：Entry-level salary is around AUD 50,000-65,000, mid-level AUD 65,000-85,000, and senior up to AUD 85,000-110,000 per year. Overtime and custom work can add extra income.
-
-**问：What are the requirements to migrate to Australia as a vehicle trimmer?**
-答：You need a TRA skills assessment, typically requiring 4 years of apprenticeship or equivalent experience. Eligible visas include 482, 186, and 491. English requirement is IELTS 5.0 or higher.
-
-**问：Is there career progression for vehicle trimmers?**
-答：Yes, from tradesperson to senior trimmer, supervisor, or self-employment. You can also specialize in marine, aviation, or racing car customization.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Legal Defense and Advisory（Legal Defense and Advisory）职业分析 · FR
+# Legal Defense and Advisory — career analysis · France
 
-**职业代码：K1903 – Legal Defense and Advisory。**
+**Occupation code: K1903 (ROME)**
 
-Provides legal advice, contract drafting, litigation representation, and other legal services in law firms, corporate legal departments, or public institutions.
+Providing legal consultation, contract drafting, litigation representation, and other legal services, suitable for law firms, corporate legal affairs, or public institutions.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法律硕士（Master en droit） | 5年（硕士） | $3,000~$10,000（公立大学约300-500欧/年，私立高商或法学院可达1万欧/年） |
-| 律师执业培训（CRFPA） | 2年（含实习） | $2,000~$5,000（培训费用及考试报名费） |
+| Master en droit | 5 years (Master's) | $3,000~$10,000 (Public universities about €300-500/year, private business schools or law schools can cost €10,000/year) |
+| Lawyers Practice Training (CRFPA) | 2 years (including internship) | $2,000~$5,000 (Training fees and exam registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 律师执业证书（CAPA） | 法国律师公会（CNB） | 必备 | 通过律师资格考试和实习后获得，必备执业资格 |
-| 司法考试（CRFPA） | 地区律师培训中心 | 必备 | 进入律师职业的必需考试 |
-| 法学硕士（Master 2 en droit） | 法国大学 | 可选 | 通常要求M2学位才能参加律师考试 |
+| Certificate of Solicitors (CAPA) | French Bar Association (CNB) | Required | Obtained after passing the lawyer qualification exam and internship, a mandatory practice qualification |
+| Judicial Examination (CRFPA) | Regional Lawyer Training Center | Required | A mandatory exam for entering the legal profession |
+| Master of Laws (Master 2 en droit) | French universities | Optional | An M2 degree is usually required to take the bar exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 75,000。法国法律服务业需求稳定，企业合规和数字法领域增长明显，但竞争激烈，巴黎地区机会更多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 75,000. Demand for legal services in France is stable, with significant growth in corporate compliance and digital law, but competition is fierce, and the Paris area offers more opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 初级律师或法务助理 |
-| 中级（4-8年） | $50,000~$80,000 | 资深律师或企业法务经理 |
-| 高级（9年以上） | $80,000~$150,000 | 合伙人或法务总监 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Junior lawyer or legal assistant |
+| Mid-level (4–8 years) | $50,000~$80,000 | Senior lawyers or corporate legal managers |
+| Senior (9+ years) | $80,000~$150,000 | Partner or Legal Director |
+| average salary | $51,120 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级律师可升为合伙人，或转向企业法务总监。也可专攻知识产权、税务等细分领域，提高竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
+
+Junior lawyers can be promoted to partners or transferred to corporate legal directors. It can also specialize in niche areas such as intellectual property and taxation to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automated review and keyword extraction of contracts and legal documents
+- Automatic generation of legal case search and precedent summaries.
+- Drafting standardized legal documents (e.g., wills, contract templates)
+- Classification and initial analysis of large volumes of electronic documents during the forensic phase.
+- Automatic summarization of factual sections in legal memos
+
+**Where AI augments the role:**
+
+- AI-based case prediction and litigation strategy optimization
+- Intelligent contract review system assists in identifying hidden risk clauses
+- AI-driven mock court and debate training
+- Legal knowledge graph assists in quickly cross-referencing regulations across fields
+- AI chatbot screening initial legal needs in customer service
+
+**Human moat:**
+
+- On-the-spot adaptability and persuasion skills in courtroom argument and negotiation
+- Comprehensive judgment and ethical decision-making for complex cross-disciplinary legal issues
+- Empathy to build trust with clients and understand deep needs
+- Maintaining lawyer-client privilege in the public interest
+- Unstructured, high-uncertainty exploration of emerging legal fields.
+
+**Skills to build:**
+
+- AI legal tools (e.g., Relativity, Kira Systems) operation
+- Data analysis and visualization (for predictive legal analysis)
+- Algorithm bias identification and compliance review
+- Human-machine collaborative workflow design (legal tech project management)
+- Knowledge of cybersecurity and privacy regulations
+- Advanced negotiation and complex dispute resolution
+
+**Key growth areas:**
 
 - Legal Tech
 - Compliance
@@ -64,69 +100,68 @@ Provides legal advice, contract drafting, litigation representation, and other l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高级专业人才，如律师或法务专家，需提供工作合同或项目证明。 |
-| Subclass Salarié（Employee Residence Permit） | 由法国雇主担保，适用于长期受雇于企业法务部门。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于年薪高于法国平均工资1.5倍的法律专业人士。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for senior professionals, such as lawyers or legal experts, who need to provide a work contract or project certification. |
+| Subclass Salarié (Employee Residence Permit) | Sponsored by a French employer, applicable to long-term employment in corporate legal departments. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to legal professionals with annual salary 1.5 times higher than the French average. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal Defense and Advisory？**
-- 具备逻辑思维和辩论能力的人
-- 对法律条文敏感且注重细节的人
-- 愿意长期学习并通过严苛考试的人
-
-**谁不适合学Legal Defense and Advisory？**
-- 不习惯高强度工作和紧张时限的人
-- 对法律程序感到枯燥的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with logical thinking and debating skills
+- People who are sensitive to legal provisions and pay attention to details
+- Those willing to study long-term and pass rigorous exams
+
+**Who is not suited**
+- People who are not used to high-intensity work and tight deadlines
+- People who find legal procedures tedious
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a French lawyer?**
+A: Junior lawyer annual salary approx. €35,000-45,000, partner up to €150,000+.
+
+**Q: How do foreign lawyers practice in France?**
+A: You must pass the Bar Qualification Examination (CRFPA) and obtain a CAPA certificate. Non-EU lawyers may require academic credentials and additional examinations.
+
+**Q: Is the legal profession regulated in France?**
+A: Yes, lawyers must hold a CAPA certificate and join a local bar association, which is strictly regulated to practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Legal Defense and Advisory为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a lawyer in France?**
-答：Entry-level lawyers earn around €35,000-€45,000 per year, while partners can earn over €150,000.
-
-**问：How can a foreign lawyer practice in France?**
-答：You must pass the bar exam (CRFPA) and obtain a CAPA certificate. Non-EU lawyers may need degree recognition and additional exams.
-
-**问：Is the legal profession regulated in France?**
-答：Yes, lawyers must hold a CAPA certificate and be registered with the local bar association, subject to strict regulation.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

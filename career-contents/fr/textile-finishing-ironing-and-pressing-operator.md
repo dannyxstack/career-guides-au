@@ -1,61 +1,94 @@
-# Textile Finishing, Ironing and Pressing Operator（Textile Finishing, Ironing and Pressing Operator）职业分析 · FR
+# Textile Finishing, Ironing and Pressing Operator — career analysis · France
 
-**职业代码：H2410 – Textile Finishing, Ironing and Pressing Operator。**
+**Occupation code: H2410 (ROME)**
 
-Responsible for finishing, ironing, and pressing textile products such as garments and household linens to ensure they are smooth and wrinkle-free, meeting quality standards. Works in textile factories or laundry facilities.
+Responsible for the finishing, ironing, and finishing processes of textiles (such as clothing and home textiles), ensuring products are flat, wrinkle-free, and meet quality requirements. Usually working in textile factories or laundry workshops.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或同等学历 | 2年（CAP） | —（公立学校免费，学习用品费用约数百欧元） |
-| Bac Pro 纺织专业 | 3年（Bac Pro） | —（公立教育免费，材料费自付） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒期间由企业支付薪资，培训免费） |
+| CAP or equivalent academic qualifications | 2 years (CAP) | $0~$1,000 (Public schools are free, and school supplies cost about several hundred euros) |
+| Bac Pro Textile Major | 3 years (Bac Pro) | $0~$1,500 (Public education is free; materials are self-paid) |
+| Apprentissage | 1-2 years | $0~$500 (During the apprenticeship period, the company pays the salary, and training is free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Métiers de la Mode - Vêtement flou | 法国教育部 | 可选 | 时尚与服装职业CAP，涵盖熨烫技能 |
-| CQP（职业资格认证） | 纺织行业委员会 | 可选 | 行业特有认证，部分企业要求 |
+| CAP Métiers de la Mode - Vêtement flou | French Ministry of Education | Optional | Fashion and apparel career CAP covers ironing skills |
+| CQP (Professional Qualification Certification) | Textile Industry Committee | Optional | Industry-specific certifications, required by some companies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 15,000。法国纺织业持续机械化和自动化，低技能岗位需求缓慢下降，但高端定制和特种纺织品熨烫仍有稳定需求。就业机会主要集中于产业集中的北部和东部地区。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. France's textile industry continues to be mechanized and automated, with demand for low-skilled positions slowly declining, but stable demand for high-end customization and specialty textile ironing remains. Employment opportunities are mainly concentrated in the industrial concentration of the northern and eastern regions.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等偏重（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-8年） | $26,000~$30,000 | 税前年薪 |
-| 高级（8年以上） | $30,000~$35,000 | 税前年薪（含奖金） |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $26,000~$30,000 | Annual pre-tax salary |
+| Senior (8+ years) | $30,000~$35,000 | Pre-tax annual salary (including bonuses) |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：消极（★½☆☆☆）。** 可从操作工晋升为班组组长或质量控制员，也可通过学习BTS或职业证书转向纺织技术员或生产管理岗位。部分经验丰富者可自营洗衣店或干洗店。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Repetitive ironing and organizing operations in this profession are easily replaced by automated equipment, and AI visual inspection can replace quality inspection. Entry-level positions will be greatly reduced, but equipment maintenance and abnormality handling still require manual labor.
+
+You can advance from operator to team leader or quality controller, or transition to textile technician or production management positions by studying BTS or professional certifications. Some experienced individuals can run their own laundries or dry cleaners.
+
+**Tasks most exposed to AI:**
+
+- Automated ironing machines perform standardized ironing
+- AI vision system for product quality inspection
+- Automatic folding and packaging equipment for processing finished products
+- The intelligent machine automatically adjusts the ironing process based on temperature/humidity parameters
+
+**Where AI augments the role:**
+
+- The AI-assisted fault diagnosis system helps quickly locate equipment issues
+- Data analysis tools optimize ironing parameters and energy consumption
+- Robotic collaboration systems improve the efficiency of handling complex fabrics
+- Digital twin simulations predict production bottlenecks
+
+**Human moat:**
+
+- Judgment and tactile feel for handling fragile, fine, or special textiles
+- The ability to perform emergency repairs and adjustments of ironing equipment
+- Solving process issues for non-standard products (such as custom clothing).
+- Manage coordination and supervision of multiple automated production lines
+
+**Skills to build:**
+
+- Industrial robot operation and programming
+- Automated equipment maintenance and troubleshooting
+- Use of data analysis and production monitoring systems
+- Basic electrical and mechanical maintenance skills
+- Knowledge of quality management systems (such as ISO 9001).
+- Knowledge of fabric characteristics and process optimization
+
+**Key growth areas:**
 
 - Industrial laundry
 - Textile finishing
@@ -64,64 +97,66 @@ Responsible for finishing, ironing, and pressing textile products such as garmen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work permit)） | 需雇主提供长期劳动合同，法国劳工部审核，岗位需满足当地劳动力市场测试。 |
+| Subclass Salarié (Salarié (Work permit)) | Employers must provide long-term labor contracts, be reviewed by the French Ministry of Labor, and the positions must meet local labor market tests. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Finishing, Ironing and Pressing Operator？**
-- 细心、耐心，注重细节的人
-- 希望在制造业稳定就业、不介意重复性工作的人
-- 善于手工操作、对手艺有热情的人
+**Who is suited**
+- Careful, patient, detail-oriented person
+- Those who want stable employment in manufacturing and don't mind repetitive work
+- Skilled in manual operations and passionate about craftsmanship
 
-**谁不适合学Textile Finishing, Ironing and Pressing Operator？**
-- 希望高薪或快速晋升的人
-- 对机械化和自动化感到排斥的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who feel averse to mechanization and automation
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary about €22,000-26,000, senior up to €30,000-35,000, limited growth, generally low.
+
+**Q: Can foreigners come to France through the skilled immigration route to work in this profession?**
+A: Very difficult. This occupation is not on the shortage list and has low skill requirements; the local labor market in France is well-stocked. Employer sponsorship for a work permit is usually only possible if no suitable candidate can be found within the EU.
+
+**Q: What training is needed to enter this profession?**
+A: Typically a CAP or Bac Pro relevant diploma is sufficient, also possible through apprenticeship. No university degree required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等偏重（★★★☆☆） |
-| 发展前景 | 消极（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Textile Finishing, Ironing and Pressing Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is around 22,000-26,000 EUR, senior up to 30,000-35,000 EUR, with limited growth.
-
-**问：Can foreigners migrate to France for this occupation via skilled migration?**
-答：Very difficult. It is not a shortage occupation and requires labor market testing, with ample local workforce.
-
-**问：What training is needed for this occupation?**
-答：Usually a CAP or Bac Pro in related field, or through apprenticeship. No university degree required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

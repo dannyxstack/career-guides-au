@@ -1,59 +1,88 @@
-# Street and Related Services Worker（Street and Related Services Worker）职业分析 · IT
+# Street and Related Services Worker — career analysis · Italy
 
-**职业代码：9510 – Street and Related Services Worker。**
+**Occupation code: 9510 (ISCO08)**
 
-Provides various services in streets or public places, such as street food vending, cleaning, or parking meter collection. Typically requires no higher education but must comply with local regulations.
+Providing various services on the streets or in public places, such as street food sales, cleaning, parking meter fee collection, etc. Typically no higher education required, but local regulations must be followed.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 9年（义务教育） | —（意大利义务教育免费） |
+| Junior high school graduation | 9 years (compulsory education) | $0~$0 (Compulsory education in Italy is free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 街头小贩许可证 | 当地市政厅 | 必备 | 必须获得当地许可才能合法经营 |
-| 食品卫生培训证书 | 地方卫生局 | 必备 | 如涉及食品销售需持有 |
+| Street vendor permit | Local municipal council | Required | Must obtain local permission to operate legally |
+| Food hygiene training certificate | Local Health District | Required | Must hold if involved in food sales |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。随着意大利旅游业的复苏和城市服务需求的稳定增长，该职业就业机会保持稳定，但面临自动化和人工智能的替代风险。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. With the recovery of Italy's tourism industry and steady growth in urban service demand, job opportunities for this occupation remain stable, but face risks of automation and AI substitution.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 税前年薪，通常为兼职或非正式就业 |
-| 中级（3-7年） | $18,000~$24,000 | 全职，可能含小费 |
-| 高级（7年以上） | $24,000~$30,000 | 自营摊主或主管 |
+| Median salary | $21,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $14,000~$18,000 | Annual pre-tax salary, typically for part-time or informal employment. |
+| Mid-level (3–7 years) | $18,000~$24,000 | Full-time, may include tips |
+| Senior (7+ years) | $24,000~$30,000 | Self-employed stallholder or supervisor |
+| average salary | $21,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从街头摊贩或清洁工起步，可晋升至主管或自营摊主。部分人转向旅游相关服务。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Street service work heavily relies on physical presence and simple repetitive tasks; AI and automation will significantly reduce job demand, especially for tasks like toll collection and cleaning, but human interaction and regulatory compliance still retain some human advantage.
+
+Usually start as street vendors or cleaners, with potential to advance to supervisor or self-employed stall operator. Some transition to tourism-related services.
+
+**Tasks most exposed to AI:**
+
+- Parking meter collection (replaced by mobile payments and automatic billing systems)
+- Street road cleaning (replaced by autonomous cleaning robots)
+- Simple customer inquiries (replaced by AI voice assistants and self-service kiosks)
+
+**Where AI augments the role:**
+
+- Use mobile payment data analysis to analyze foot traffic and sales timing.
+- Post real-time service locations and promotional information through social platforms
+- Using voice translation tools to serve multilingual tourists
+
+**Human moat:**
+
+- On-site incident handling and de-escalation in emergencies (e.g., traffic accidents, disputes)
+- Ability to build trust and emotional connection with regular customers
+- In-depth understanding and flexible application of local regulations and community norms
+
+**Skills to build:**
+
+- Basic digital literacy (using mobile payment terminals, managing online reviews)
+- Basic English or foreign language communication
+- Customer service and conflict resolution skills
+- Time management and multitasking
+- Basic repair skills (e.g., trolleys, cleaning equipment)
+
+**Key growth areas:**
 
 - Urban Services
 - Tourism
@@ -62,65 +91,67 @@ Provides various services in streets or public places, such as street food vendi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟劳工的季节性工作签证，适用于街头食品摊等临时工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用，因该职业不符合高技能要求。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Seasonal work visa for non-EU laborers, applicable to temporary jobs such as street food stalls. |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable, as this occupation does not meet high-skilled requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street and Related Services Worker？**
-- 喜欢户外工作、与人交往的人
-- 希望灵活工作时间的人
-- 移民初期想快速就业的人
+**Who is suited**
+- People who enjoy outdoor work and interacting with others
+- people seeking flexible working hours
+- Those seeking quick employment in initial migration stages.
 
-**谁不适合学Street and Related Services Worker？**
-- 追求高收入或职业晋升的人
-- 对工作稳定性要求高的人
+**Who is not suited**
+- People seeking high income or career advancement
+- People who require high job stability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do street service workers earn?**
+A: Income is generally low: around €14,000-18,000 annually for entry-level, up to €30,000 for senior roles, but heavily influenced by seasonality and tips.
+
+**Q: Can non-EU citizens immigrate to Italy through this occupation?**
+A: Extremely difficult, as this occupation does not meet high-skilled visa requirements and Italian immigration mainly targets seasonal work. Long-term residency is almost impossible.
+
+**Q: Does this career have growth prospects?**
+A: Average prospects, affected by automation and online services, but small opportunities remain when combined with tourism or specialty food. Limited promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Street and Related Services Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of street service workers?**
-答：Income is generally low, around €14,000-€18,000 for entry-level, up to €30,000 for senior positions, but varies with seasonality and tips.
-
-**问：Can non-EU citizens immigrate to Italy through this occupation?**
-答：Very difficult, as it does not meet high-skilled visa requirements, and immigration focuses on seasonal work. Long-term residency is nearly impossible.
-
-**问：Does this occupation have career prospects?**
-答：Prospects are average, affected by automation and online services, but niche opportunities in tourism and specialty food remain. Advancement is limited.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

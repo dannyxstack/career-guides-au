@@ -1,60 +1,93 @@
-# Financial Markets Front Office（Financial Markets Front Office）职业分析 · FR
+# Financial Markets Front Office — career analysis · France
 
-**职业代码：C1301 – Financial Markets Front Office。**
+**Occupation code: C1301 (ROME)**
 
-Works on the trading floor of banks or financial institutions, buying and selling stocks, bonds, currencies or derivatives, managing risks and generating profits. Requires quick decision-making and market insight.
+Work on the trading floors of banks or financial institutions, responsible for buying and selling stocks, bonds, foreign exchange, or derivatives, managing risk, and achieving profitability. It requires quick decision-making skills and keen market insight.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 3年（Licence） | —（公立大学学费低，高商约€10,000/年） |
-| 硕士学位 | 2年（Master） | —（顶尖高商或工程师学校学费高，公立大学几乎免费） |
-| 学徒制 | 1-2年（Apprentissage） | —（学徒制免学费，企业支付工资） |
+| Bachelor's degree | 3 years (Licence) | $0~$12,000 (Public universities have low tuition fees, with high business costs around €10,000 per year) |
+| Master's degree | 2 years (Master) | $0~$20,000 (Top commercial or engineering schools have high tuition fees, and public universities are almost free) |
+| Apprenticeship | 1-2 years (Apprentissage) | $0~$0 (The apprenticeship system is free of tuition, and the company pays the wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融硕士学位 | 大学或商学院 | 必备 | 通常要求金融、经济或工程硕士文凭 |
-| AMF认证 | Autorité des Marchés Financiers | 必备 | 法国金融市场管理局要求的合规认证 |
-| CFA证书 | CFA Institute | 可选 | 特许金融分析师，提升竞争力 |
+| Master's degree in Finance | University or business school | Required | A master's degree in finance, economics, or engineering is usually required |
+| AMF certification | Autorité des Marchés Financiers | Required | Compliance certification required by the French Financial Market Authority |
+| CFA certificate | CFA Institute | Optional | Chartered Financial Analyst to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国金融市场岗位集中在巴黎，受金融科技和欧洲监管影响，就业机会稳定但竞争激烈。大型银行和投资公司是主要雇主。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. French financial market positions are concentrated in Paris, influenced by fintech and European regulation, resulting in stable but fierce competition for employment opportunities. Large banks and investment companies are the main employers.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$80,000 | 包括奖金，税前年薪 |
-| 中级（3-7年） | $80,000~$150,000 | 含奖金，因业绩浮动大 |
-| 高级（7年以上） | $150,000~$300,000 | 含奖金和分红，上限可能更高 |
+| Median salary | $115,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$80,000 | Including bonuses and pre-tax annual salary |
+| Mid-level (3–7 years) | $80,000~$150,000 | Bonuses included, but due to large fluctuations in performance |
+| Senior (7+ years) | $150,000~$300,000 | Including bonuses and dividends, the upper limit may be even higher |
+| average salary | $79,569 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从交易助理或分析师起步，积累经验后可晋升为交易员、高级交易员，最终可能成为交易部门主管或董事总经理。部分人转向对冲基金或资产管理公司。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly amplify traders' profitability but will reduce entry-level execution positions; High-complexity decision-making and risk management still depend on humans.
+
+Typically, they start as trading assistants or analysts, and after gaining experience, can be promoted to trader, senior trader, and may eventually become trading department heads or managing directors. Some have turned to hedge funds or asset management companies.
+
+**Tasks most exposed to AI:**
+
+- Algorithmic trading replaces manual order execution, especially high-frequency market making
+- Market data monitoring and simple pattern recognition
+- Standardized derivative pricing and arbitrage calculations
+- Preliminary calculation and monitoring of trading risk limits
+
+**Where AI augments the role:**
+
+- AI analyzes massive amounts of data to uncover asymmetric trading opportunities
+- Real-time market sentiment analysis and abnormal volatility warnings
+- Automated backtesting of strategies and optimization of parameters
+- Use NLP to interpret the impact of news and financial reports
+
+**Human moat:**
+
+- Subjective judgment and flexibility under extreme market conditions
+- Interpersonal relationships and trust with clients and brokers
+- Response to unstructured, rare events
+- Complex strategy design that links across assets and markets
+
+**Skills to build:**
+
+- Python/R programming and quantitative analysis
+- Machine learning algorithms (reinforcement learning, time series)
+- Derivatives pricing and risk management mathematics
+- Hands-on use of AI tools (such as LLMs and data platforms).
+- Behavioral Finance and Macroeconomics
+- Data visualization and reporting
+
+**Key growth areas:**
 
 - Quantitative Finance
 - Algorithmic Trading
@@ -63,68 +96,67 @@ Works on the trading floor of banks or financial institutions, buying and sellin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需提供工作合同，年薪约€50,000以上，有效期4年。 |
-| Subclass Salarié（Employee Work Permit） | 标准受雇工作签证，需公司担保，主要面向非紧缺岗位。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪€53,495起（2023年），有效期4年，可带家属。 |
+| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requires work contract with annual salary approx. €50,000+, valid for 4 years. |
+| Subclass Salarié (Employee Work Permit) | Standard employment work visa, requires company sponsorship, mainly for non-urgent positions. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary starting at €53,495 (2023), valid for 4 years, and allows family members. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Markets Front Office？**
-- 数学和金融功底扎实，抗压能力强
-- 对市场数据敏感，能快速决策
-- 愿意在巴黎等金融中心工作
-
-**谁不适合学Financial Markets Front Office？**
-- 不喜欢高压和快节奏环境
-- 难以承受长时间专注和竞争
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Solid foundation in mathematics and finance, strong ability to handle pressure
+- Sensitive to market data and able to make quick decisions
+- Willing to work in financial centers like Paris
+
+**Who is not suited**
+- Dislikes high-pressure and fast-paced environments
+- Unable to endure long periods of focus and competition
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of French traders?**
+A: Junior approximately EUR 50,000-80,000 including bonus; mid-level EUR 80,000-150,000; senior can reach EUR 150,000-300,000 or more, but highly volatile.
+
+**Q: How can foreigners obtain a French trader work visa?**
+A: Usually, through the Passeport Talent Passport or EU Blue Card, you need to obtain a work contract with a French financial institution and meet annual salary requirements.
+
+**Q: What is the career development path for traders?**
+A: Starting as a trading assistant or analyst, gradually becoming a trader or senior trader, and eventually possibly promoted to department head or partner.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Financial Markets Front Office的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a trader in France?**
-答：Entry level €50-80k including bonus; mid-level €80-150k; senior €150-300k or more, but highly variable.
-
-**问：How can foreigners obtain a work visa as a trader in France?**
-答：Typically via a Talent Passport or EU Blue Card, requiring a job offer from a French financial institution meeting salary thresholds.
-
-**问：What is the career progression for a trader?**
-答：Start as a trading assistant or analyst, progress to trader, senior trader, and eventually department head or partner.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

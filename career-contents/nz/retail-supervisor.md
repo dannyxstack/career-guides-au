@@ -1,60 +1,93 @@
-# Retail Supervisor（Retail Supervisor）职业分析 · 新西兰
+# Retail Supervisor — career analysis · New Zealand
 
-**职业代码：621511 – Retail Supervisor。**
+**Occupation code: 621511 (ANZSCO)**
 
-Retail Supervisors lead sales teams, schedule shifts, manage inventory, and oversee daily operations, serving as key management roles in retail. This occupation is generally not eligible for direct skilled migration and relies on Accredited Employer Work Visas.
+Retail supervisors lead sales teams, schedule shifts, manage inventory and daily operations; it is a key management role in retail. This occupation typically cannot directly apply for residency through skilled migration categories and relies on the Accredited Employer Work Visa pathway.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（公立高中免费，国际生约1.5万-2万NZD/年） |
-| 新西兰零售管理证书 (Level 4) | 1年 | $3,000~$8,000（部分理工学院提供，线上课程更便宜） |
+| High school diploma | 3 years | $0~$0 (Public high schools are free; international students pay approx. $15,000–$20,000 NZD per year.) |
+| New Zealand Certificate in Retail (Level 4) | 1 year | $3,000~$8,000 (Offered by some polytechnics, online courses are cheaper) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰零售管理证书 (New Zealand Certificate in Retail Management, Level 4) | 各大理工学院及私校 | 可选 | 非强制，但有助于晋升 |
-| 急救证书 (First Aid Certificate) | 新西兰红十字会等 | 可选 | 部分雇主强制要求 |
+| New Zealand Certificate in Retail Management, Level 4 | Various polytechnics and private schools | Optional | Not mandatory, but helps with promotion |
+| First Aid Certificate | New Zealand Red Cross, etc. | Optional | Required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。新西兰零售业就业前景稳定，但受经济波动影响较大。预计未来5年岗位数量温和增长，竞争适中，主要集中在奥克兰、基督城等主要城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. Retail employment prospects in New Zealand are stable but heavily influenced by economic fluctuations. Moderate job growth is expected over the next 5 years, with moderate competition, mainly in major cities like Auckland and Christchurch.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 小型零售店或助理主管 |
-| 中级（3-7年） | $55,000~$70,000 | 中型超市或连锁店主管 |
-| 高级（7年以上） | $70,000~$90,000 | 大型商场或区域主管 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Small retail store or assistant supervisor |
+| Mid-level (3–7 years) | $55,000~$70,000 | Medium-sized supermarket or chain store supervisor |
+| Senior (7+ years) | $70,000~$90,000 | Large shopping malls or regional managers |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从销售员晋升为零售主管，再向店长、区域经理发展。需积累管理经验并学习供应链、财务等技能，部分大型企业提供内部培训。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
+
+Can progress from salesperson to retail supervisor, then to store manager and regional manager. Requires accumulating management experience and learning supply chain, finance skills; some large enterprises provide internal training.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates shift schedules (based on historical foot traffic and employee preferences)
+- AI for inventory forecasting and automatic replenishment ordering
+- AI analysis of sales data to generate reports and trend insights
+- AI handles common customer queries (chatbots).
+
+**Where AI augments the role:**
+
+- Monitor team performance in real-time with AI dashboards, quickly adjust strategies
+- Using AI to simulate the impact of different scheduling scenarios on sales
+- Targeted promotions and product recommendations based on AI customer profiling
+- Improving New Employee Onboarding Efficiency with AI Training Tools
+
+**Human moat:**
+
+- Team morale management and conflict mediation
+- On-Site Emergency Decision-Making (e.g., customer complaints, safety incidents)
+- Interpersonal negotiation and collaboration with superiors and suppliers
+- Communicating corporate culture and values
+
+**Skills to build:**
+
+- Retail data analysis (advanced Excel + AI analysis tools)
+- Operation of AI Scheduling and Inventory Management Software
+- Digital marketing and customer relationship management (CRM)
+- Emotional intelligence and team leadership
+- Basic finance and cost control
+- AI tool integration and workflow automation
+
+**Key growth areas:**
 
 - Moderate Growth
 - No Shortage
@@ -63,61 +96,63 @@ Retail Supervisors lead sales teams, schedule shifts, manage inventory, and over
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主认证且工资达中位数（约29.66NZD/小时），可担保配偶开放工签和子女本地读书。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requires employer accreditation and median wage (approx. 29.66 NZD/hour), can sponsor partner's open work visa and children's local schooling. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Retail Supervisor？**
-- 喜欢与人打交道、善于沟通协调
-- 有零售或销售经验，希望往管理层发展
-- 能适应轮班工作，包括周末和节假日
+**Who is suited**
+- Enjoys interacting with people, good at communication and coordination
+- Has retail or sales experience and wants to move into management
+- Able to adapt to shift work, including weekends and holidays
 
-**谁不适合学Retail Supervisor？**
-- 追求稳定朝九晚五的工作节奏
-- 希望快速获得新西兰居留权
+**Who is not suited**
+- Seeking a stable 9-to-5 work schedule
+- Seeking fast New Zealand residency
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a Retail Supervisor in New Zealand?**
+A: Entry-level approx. NZ$45,000–55,000, mid-level NZ$55,000–70,000, senior up to NZ$90,000. Small retail shops pay lower end, large chains or management reach upper end.
+
+**Q: Can a retail supervisor obtain New Zealand residency through skilled migration?**
+A: No. This occupation is not on the skilled migration or Green List; you can only work via an Accredited Employer Work Visa (AEWV) and cannot directly obtain residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Retail Supervisor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Retail Supervisors in New Zealand?**
-答：Entry-level roles earn around NZD 45,000-55,000, mid-level NZD 55,000-70,000, and senior positions up to NZD 90,000. Salaries vary by store size and location.
-
-**问：Can Retail Supervisors apply for Skilled Migrant Category residence?**
-答：No. This occupation is not on the skilled migration or Green List, and can only be worked via an Accredited Employer Work Visa without a direct residence pathway.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

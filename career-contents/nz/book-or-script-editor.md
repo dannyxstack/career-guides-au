@@ -1,59 +1,95 @@
-# Book or Script Editor（Book or Script Editor）职业分析 · 新西兰
+# Book or Script Editor — career analysis · New Zealand
 
-**职业代码：212212 – Book or Script Editor。**
+**Occupation code: 212212 (ANZSCO)**
 
-Book or Script Editors in New Zealand review, revise, and polish manuscripts and scripts to ensure content quality and linguistic accuracy. This occupation is eligible for Skilled Migrant Category or AEWV but is not on the Green List; applicants must meet the SMC six-point system.
+Book or script editors in New Zealand are responsible for reviewing, revising, and polishing written works such as books and scripts, ensuring content quality and language accuracy. This occupation can lead to immigration through Skilled Migrant Category or Accredited Employer Work Visa, but is not on the Green List and must meet SMC six-point requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $22,000~$32,000（新西兰大学文学/传媒/出版本科课程，国际学生年学费） |
-| 硕士课程 | 1-2年 | $30,000~$42,000（创作、出版或编辑硕士，国际学生年学费） |
+| Bachelor's degree | 3 years | $22,000~$32,000 (New Zealand university undergraduate programs in Arts/Media/Publishing, annual tuition for international students) |
+| Master's program | 1-2 years | $30,000~$42,000 (Master's in creative writing, publishing, or editing; annual international student tuition.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 编辑专业文凭 | 新西兰编辑协会（NZ Editors Association） | 可选 | 提升专业信誉，非强制但推荐 |
-| 雅思考试（学术类） | IDP/BC | 必备 | 移民需总分6.5，单项不低于6.0 |
-| NZQF Level 7学历 | 新西兰学历认证局（NZQA） | 可选 | SMC六分制基本要求 |
+| IELTS (Academic) | IDP/BC | Required | Immigration requires overall score of 6.5, no band below 6.0 |
+| Diploma of Editing | New Zealand Editors Association | Optional | Enhances professional credibility, optional but recommended |
+| NZQF Level 7 qualification | New Zealand Qualifications Authority (NZQA) | Optional | Basic requirements of SMC six-point system |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 800。新西兰出版和影视制作行业规模较小，编辑职位多集中在奥克兰和惠灵顿。随着数字内容增长，对编辑的需求略有上升，但竞争激烈。建议积累本地工作经验或提升项目管理技能，以提高竞争力。
+**Job demand: low (★★☆☆☆).** National workforce approx. 800. New Zealand's publishing and film/TV production industry is relatively small, with editing positions mostly concentrated in Auckland and Wellington. With the growth of digital content, demand for editors has slightly increased, but competition is fierce. It is recommended to gain local work experience or improve project management skills to enhance competitiveness.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 常见于助理编辑或校对职位 |
-| 中级（3-6年） | $55,000~$75,000 | 独立负责项目编辑 |
-| 高级（6年以上） | $75,000~$95,000 | 资深编辑或编辑总监 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Common in assistant editor or proofreading positions |
+| Mid-level (3–6 years) | $55,000~$75,000 | Independently manage project editing |
+| Senior (6+ years) | $75,000~$95,000 | Senior editor or Editorial Director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级编辑可从事校对和基础润色，资深编辑可晋升为内容总监或独立顾问。也可转向数字出版、内容策划或编辑管理岗位，或为国际客户提供远程服务。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Book or script editors will face significant AI impact: basic proofreading and formatting are highly automated, but creative content and deep narrative editing may see boosted opportunities due to AI tools, presenting a mixed outlook.
+
+Junior editors can do proofreading and basic polishing; senior editors can advance to content director or independent consultant. They can also move into digital publishing, content strategy, or editorial management, or provide remote services to international clients.
+
+**Tasks most exposed to AI:**
+
+- Grammar and spelling check
+- Basic style consistency check.
+- Format standardization (e.g., punctuation, spacing)
+- Simple fact-checking (e.g. dates, place names)
+- Automatic summary generation
+
+**Where AI augments the role:**
+
+- AI-assisted deep content analysis (e.g., character arcs, plot hole detection)
+- AI-generated creative suggestions (e.g., alternative plot directions, dialogue optimization)
+- AI-driven cross-language and cultural sensitivity checking
+- AI-assisted competitive analysis (extracting best-selling elements from similar works)
+- AI-supported version management and collaborative editing tools
+
+**Human moat:**
+
+- Deep understanding of narrative logic and emotional pacing
+- Maintain long-term creative relationships and trust with authors
+- Make subjective judgments (e.g., story value, market positioning)
+- Handling sensitive topics and ethical dilemmas
+- Creative translation and localization in a cross-cultural context
+
+**Skills to build:**
+
+- AI editing tool operation (e.g., Grammarly Premium, ProWritingAid)
+- Data analysis and reader insights (e.g., competitor analysis, market trend interpretation)
+- Meta-narrative and structural editing (e.g., three-act structure, deep character motivation development)
+- Cross-media story adaptation (e.g., novel to script, game narrative)
+- Use of project management and collaboration platforms (e.g., Slack, Trello, advanced Google Docs features)
+- Basics of copyright and contracts (legal issues related to AI-generated content)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,68 +98,67 @@ Book or Script Editors in New Zealand review, revise, and polish manuscripts and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 需满足六分制要求（学历+工作经验或收入），编辑职业属技术移民类别，但非绿色清单 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主工作合同后申请，最长3年，可转居民签证 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 编辑不在T2列表中，此路径不适用 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Must meet the six-point system requirements (qualifications + work experience or income). Editor occupation falls under Skilled Migration category but is not on the Green List. |
+| Subclass AEWV (Accredited Employer Work Visa) | Apply after obtaining a contract with an accredited employer, up to 3 years, convertible to a resident visa |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Edit not in T2 list, this path does not apply |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Book or Script Editor？**
-- 对语言和文字有强烈热情，注重细节的人
-- 具有英语文学或创意写作背景，并愿意适应新西兰市场风格的人
-- 能接受项目制工作，并善于与作者和团队协作的人
-
-**谁不适合学Book or Script Editor？**
-- 追求高薪职业的人
-- 不喜欢处理大量文本或重复性校对工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong passion for language and writing; detail-oriented.
+- Those with a background in English literature or creative writing and willing to adapt to the New Zealand market style
+- Able to work on a project basis and collaborate well with authors and teams
+
+**Who is not suited**
+- People pursuing high-paying careers
+- People who dislike handling large amounts of text or repetitive proofreading work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a book editor in New Zealand?**
+A: Annual salary for entry-level editors is about 45,000-55,000 NZD, mid-level 55,000-75,000 NZD, and senior up to 95,000 NZD. Salary is affected by employer size, location, and experience.
+
+**Q: Can an editor migrate to New Zealand via the Green List?**
+A: No. Editors are not on Green List Tier 1 or Tier 2, but can apply for Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV). Must meet SMC six-point system requirements, such as NZQF Level 7 qualification plus work experience.
+
+**Q: Are there many editing jobs in New Zealand? Which cities have the most?**
+A: Limited job positions, with around 800 employees, mainly concentrated in Auckland and Wellington. Competition is fierce, so it's recommended to focus on job openings at publishing and film companies, as well as remote opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Book or Script Editor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for book editors in New Zealand?**
-答：Entry-level editors earn NZD 45,000-55,000 per year, mid-level NZD 55,000-75,000, and senior editors up to NZD 95,000. Salaries vary by employer size, location, and experience.
-
-**问：Can editors immigrate via the Green List?**
-答：No. Editors are not on the Green List (Tier 1 or 2). They can apply for Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), requiring SMC six-point system criteria like NZQF Level 7 qualification plus work experience.
-
-**问：Are there many editing jobs in New Zealand? Which cities have the most?**
-答：Job opportunities are limited, with about 800 editors nationwide. Most positions are in Auckland and Wellington. Competition is strong; consider publishing/film companies and remote work.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

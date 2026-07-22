@@ -1,61 +1,97 @@
-# Packers nec（Packers nec）职业分析 · 新西兰
+# Packers nec — career analysis · New Zealand
 
-**职业代码：832199 – Packers nec。**
+**Occupation code: 832199 (ANZSCO)**
 
-Packers nec handle manual or machine packing, labeling, and inspecting goods in warehouses, logistics centers, and manufacturing. This role is eligible for Accredited Employer Work Visa (AEWV) but not for Skilled Migrant Category or Green List pathways, offering limited immigration options.
+Packers manually or mechanically package, label, and inspect goods, commonly found in warehouses, logistics centers, and manufacturing companies. This occupation can be employed in New Zealand via Accredited Employer Work Visa (AEWV), but does not meet skilled migration or Green List requirements, with limited immigration pathways.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训 | 2-4周 | $500~$2,000（行业机构或在线课程，如NZQA认可的包装操作培训） |
-| 在职培训 | 1-3个月 | —（雇主提供，可能涉及安全证书费用） |
+| Short-term training | 2-4 weeks | $500~$2,000 (Industry bodies or online courses, such as NZQA-approved packaging operations training) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Provided by employer, may involve safety certificate costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新手操作员证书（Forklift） | 新西兰交通局 | 可选 | 可选但加分 |
-| 单位标准证书（NZQA） | 新西兰学历认证局 | 可选 | 包装相关单位标准，如12345 |
-| 安全工作证书 | Site Safe | 可选 | 部分雇主需要 |
+| Entry-level operator certificate (Forklift) | New Zealand Transport Agency. | Optional | Optional but beneficial |
+| Unit standard certificate (NZQA) | New Zealand Qualifications Authority | Optional | Packaging related unit standards, e.g., 12345 |
+| Safety Work Certificate | Site Safe | Optional | Some employers require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。新西兰物流和制造业稳定发展，但包装工需求受自动化影响。预计2024-2029年就业机会每年增长约1%，主要来自替代职位，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. New Zealand's logistics and manufacturing sectors are stable, but demand for packers is affected by automation. Job opportunities are expected to grow about 1% annually from 2024-2029, mainly from replacement positions, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$52,000 | 多为最低工资或略高 |
-| 中级（3-5年） | $52,000~$60,000 | 需经验或额外技能 |
-| 高级（5年以上） | $60,000~$70,000 | 含主管或技术职责 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Mostly minimum wage or slightly higher |
+| Mid-level (3–5 years) | $52,000~$60,000 | Requires experience or additional skills |
+| Senior (5+ years) | $60,000~$70,000 | Including supervisory or technical responsibilities |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 包装工可从初级岗位晋升为高级包装工、组长或仓库主管。通过积累经验、学习叉车操作或质量检查技能，可转向物流协调等岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Packers (not elsewhere classified) face significant automation pressure as AI-driven machine vision and robotic arms efficiently handle repetitive tasks like packing, labeling, and inspection; however, complex packaging and anomaly handling still require human labor.
+
+Packers can advance from entry-level to senior packer, team leader, or warehouse supervisor. By gaining experience and learning forklift operation or quality inspection skills, they can move into logistics coordination roles.
+
+**Tasks most exposed to AI:**
+
+- Use machine vision to automatically identify products and apply labels
+- Automatic carton packing and sealing using robotic arms
+- Checking packaging integrity based on vision systems
+- Automatically generate and print shipping labels
+- Packaging materials moved by AGV (Automated Guided Vehicles)
+
+**Where AI augments the role:**
+
+- AI vision systems assist human eyes in high-speed, hidden defect inspection
+- AI-optimised packaging solutions reduce material waste and transport costs
+- AI scheduling system coordinates packaging order, improving assembly line efficiency
+- AI predictive maintenance reduces packaging equipment downtime
+- AI real-time translation of multilingual label content to reduce error rates
+
+**Human moat:**
+
+- Flexible packaging for fragile, irregular, or mixed products
+- Identifying subtle visual cues of packaging defects (e.g., uneven seals)
+- Quick response to urgent orders or special requirements
+- Team collaboration and communication, especially in small warehouses
+- Safety supervision and accident emergency response capabilities
+
+**Skills to build:**
+
+- Operate and maintain automated packaging equipment
+- Basic programming skills (e.g., adjusting machine vision parameters)
+- Data analysis and warehouse management software (e.g., WMS)
+- Training in quality control and defect identification
+- Lean Production and Continuous Improvement Methods
+- Safety regulations and emergency response certification
+
+**Key growth areas:**
 
 - Accredited Employer Work Visa
 - Logistics Growth
@@ -64,69 +100,68 @@ Packers nec handle manual or machine packing, labeling, and inspecting goods in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合有雇主担保的申请人，可工作3年，续签1年，但无法直接转永居。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，包装工ANZSCO等级通常为Skill Level 4-5，不符合SMC要求。 |
-| Subclass Green List Tier 1（Green List Tier 1 Direct Residence） | 绿色清单一级直接居留，包装工不在清单上。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored employer visa, suitable for applicants with employer sponsorship, allows 3 years of work, renewable for 1 year, but no direct pathway to permanent residency. |
+| Subclass SMC (Skilled Migrant Category) | Skill Migration category, Packer ANZSCO is typically Skill Level 4-5, does not meet SMC requirements. |
+| Subclass Green List Tier 1 (Green List Tier 1 Direct Residence) | Green List Tier 1 Direct Residence; packers are not on the list. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: very low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Packers nec？**
-- 喜欢体力工作、注重细节的人
-- 寻求短期就业而非移民者
-- 愿意从基层做起、学习新技能的人
-
-**谁不适合学Packers nec？**
-- 希望快速获得永居的人
-- 倾向于高薪或白领工作的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical work and are detail-oriented
+- Those seeking short-term employment rather than immigration
+- People willing to start from the bottom and learn new skills
+
+**Who is not suited**
+- Those wanting fast permanent residency
+- People who prefer high-paying or white-collar jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a packer in New Zealand?**
+A: Entry level approx NZD 45,000-52,000, with experience NZD 60,000-70,000, but limited growth.
+
+**Q: Can a packer obtain New Zealand permanent residency through skilled migration?**
+A: No, packers have an ANZSCO skill level of 4-5, which does not meet SMC or Green List requirements. They can only work under an AEWV visa and cannot directly apply for residency.
+
+**Q: What are the career development paths for a packer?**
+A: Can be promoted to team leader, warehouse supervisor, or transition to logistics coordination roles, requiring skills such as forklift operation or quality management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Packers nec为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a packer in New Zealand?**
-答：Entry-level roles pay around NZD 45,000-52,000, with experienced ones up to NZD 60,000-70,000, limited growth potential.
-
-**问：Can a packer obtain New Zealand permanent residence through Skilled Migrant Category?**
-答：No, packers are ANZSCO Skill Level 4-5, not eligible for SMC or Green List. Only AEWV work visa is possible, no direct residence pathway.
-
-**问：What are the career progression paths for a packer?**
-答：You can advance to team leader, warehouse supervisor, or logistics coordinator by learning forklift operation or quality control.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

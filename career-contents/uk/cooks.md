@@ -1,60 +1,94 @@
-# Cooks（Cooks）职业分析 · UK
+# Cooks — career analysis · United Kingdom
 
-**职业代码：5435 – Cooks。**
+**Occupation code: 5435 (SOC)**
 
-Cooks prepare, season and cook food, often using pre-prepared ingredients, in clubs, private households, fast food outlets, shops selling food cooked on the premises and the catering departments and canteens of other establishments.
+Chefs in clubs, private households, fast-food outlets, live-cooking food stores, and other institutions prepare, season, and cook food, usually using pre-prepared ingredients.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 职业培训（例如NVQ） | 1-2年 | $5,000~$15,000（包括学费和材料费，部分由雇主赞助） |
-| 学徒制 | 1-3年 | —（学徒期间有工资，无需学费） |
+| Vocational training (e.g., NVQ) | 1-2 years | $5,000~$15,000 (Includes tuition and material fees, partially sponsored by employer) |
+| Apprenticeship | 1-3 years | $0~$0 (Paid wages during apprenticeship, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 2级或3级餐饮服务 | City & Guilds 等认证机构 | 必备 | 常见业内认证，证明基本技能 |
-| 食品安全等级2 | 多种认证机构 | 必备 | 法律要求食品处理人员持有 |
+| NVQ Level 2 or 3 in hospitality services | Certification bodies such as City & Guilds | Required | Common industry certification, proving basic skills |
+| Food safety level 2 | Multiple certifying bodies | Required | legal requirement for food handlers to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 250,000。英国餐饮业持续发展，厨师需求稳定。受疫情后复苏和外卖服务增长推动，预计未来几年就业机会保持良好。但竞争可能因地区和雇主类型而异。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 250,000. The UK catering industry continues to develop, with stable demand for chefs. Driven by post-pandemic recovery and growth in delivery services, job opportunities are expected to remain good in the coming years. However, competition may vary by region and employer type.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 取决于雇主和地区 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或高级厨师 |
+| Median salary | $24,228 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Depends on employer and region |
+| Mid-level (3–7 years) | $22,000~$28,000 | Salary increases with experience |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor or senior chef |
+| average salary | $24,601 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级厨师可从厨房助手做起，积累经验后晋升为主管或高级厨师。进一步可成为行政总厨或餐饮经理。部分厨师通过专业培训或认证转向高级烹饪领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chef roles are mainly enhanced by AI, automation tools will optimise meal preparation, inventory management, and menu design, but core cooking skills and creativity still rely on humans, overall risk is low.
+
+Junior chefs can start as kitchen assistants, gain experience, and advance to supervisor or senior chef. Further progression can lead to executive chef or catering manager. Some chefs transition to advanced culinary fields through specialized training or certification.
+
+**Tasks most exposed to AI:**
+
+- Design standardised menus using an AI recipe generator
+- Automatically order ingredients through intelligent inventory system
+- Using robotic arms to complete repetitive cutting tasks
+- AI-driven oven automatically adjusts cooking parameters
+
+**Where AI augments the role:**
+
+- AI analysis of diner feedback to optimize dish flavors
+- Smart devices monitor cooking heat in real time to improve consistency of product quality
+- Predictive models help plan meal quantities and reduce waste
+- AI recommends personalized menus to enhance customer experience
+- Automated order system improves kitchen efficiency
+
+**Human moat:**
+
+- Creative dish development and flavor innovation
+- On-site improvisation and craftsmanship
+- Intuitive judgment and procurement insight for ingredient quality
+- Team management and interpersonal coordination in high-pressure environments
+
+**Skills to build:**
+
+- AI cooking tool operation (e.g., smart ovens, cooking robots)
+- Data analysis basics (reading user feedback and cost reports)
+- Digital menu design and nutrition labeling systems
+- Cross-cultural cuisine fusion and creative development
+- Supply chain management software and inventory optimization
+- Updating knowledge on food safety and compliance
+
+**Key growth areas:**
 
 - hospitality
 - takeaway
@@ -63,65 +97,67 @@ Cooks prepare, season and cook food, often using pre-prepared ingredients, in cl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的合格厨师，需满足薪资和技能要求，但通常门槛较高 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生工作两年，可作为过渡路径 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to qualified chefs with employer sponsorship, meeting salary and skill requirements, but the threshold is usually high |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work for two years and can serve as a transition pathway |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cooks？**
-- 热爱烹饪并愿意从基础学起
-- 能承受快节奏和高压工作环境
-- 适应灵活排班包括周末和节假日
+**Who is suited**
+- Passion for cooking and willingness to learn from the basics
+- Able to withstand fast-paced and high-pressure work environments
+- Adapt to flexible scheduling including weekends and holidays
 
-**谁不适合学Cooks？**
-- 不喜欢体力劳动和长时间站立
-- 追求高薪和快速晋升者
+**Who is not suited**
+- Dislikes physical labor and long periods of standing
+- Those pursuing high salary and rapid advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for chefs in the UK?**
+A: Junior chefs earn about GBP 18,000-22,000 per year, mid-level GBP 22,000-28,000, and senior can reach over GBP 35,000. Experienced head chefs earn more.
+
+**Q: Can chefs apply for a UK work visa?**
+A: Cooks are generally considered low-skilled occupations, not meeting the salary and skill requirements for the Skilled Worker visa, making applications very difficult. A few senior chefs or special positions may have opportunities, but overall immigration pathways are limited.
+
+**Q: What are the career development paths for chefs?**
+A: Starting as a kitchen hand, you can progress to chef supervisor, sous chef, or even executive chef. You can also move into catering management or start your own restaurant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Cooks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for cooks in the UK?**
-答：Entry-level cooks earn around £18,000-£22,000, mid-level £22,000-£28,000, and senior cooks up to £35,000+ per year. Experienced head chefs earn more.
-
-**问：Can cooks apply for a UK work visa?**
-答：Cooks are generally considered low-skilled and do not meet the salary and skill requirements for the Skilled Worker visa. Migration options are limited except for highly skilled chefs in specific roles.
-
-**问：What are the career progression paths for cooks?**
-答：Starting from kitchen assistant, you can progress to chef de partie, sous chef, and executive chef. Alternatively, move into catering management or start your own restaurant.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

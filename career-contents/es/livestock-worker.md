@@ -1,58 +1,92 @@
-# Livestock Worker（Livestock Worker）职业分析 · ES
+# Livestock Worker — career analysis · Spain
 
-**职业代码：9520 – Livestock Worker。**
+**Occupation code: 9520 (CNO)**
 
-Performs feeding, cleaning, milking, herding, and basic health care of livestock on farms. This role is essential to Spain's livestock sector, with stable demand in regions like Andalusia and Catalonia.
+Engaged in animal feeding, cleaning, milking, grazing, and basic health management at the livestock farm. This profession is the fundamental labor force for Spanish livestock farming, especially in stable demand in regions such as Andalusia and Catalonia.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 无 | —（无需正式学历，通常入职后培训） |
-| FP Grado Medio（中级职业培训） | 2年 | $500~$3,000（公立学校学费低，私立较高；部分课程可减免） |
+| Secondary Education | None | $0~$0 (No formal academic degree is required; training is usually provided after onboarding) |
+| FP Grado Medio (Intermediate Vocational Training) | 2 years | $500~$3,000 (Public schools have lower tuition fees, while private ones have higher fees; Some courses are eligible for waivers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 畜牧健康与安全培训 | 企业或行业协会 | 可选 | 基本培训，非强制但企业要求 |
-| 牲畜处理认证 | 西班牙农业、渔业与食品部 | 可选 | 部分大型农场要求持证上岗 |
+| Livestock health and safety training | Enterprises or industry associations | Optional | Basic training, not mandatory but required by the company |
+| Livestock handling certification | Spanish Ministry of Agriculture, Fisheries and Food | Optional | Some large farms require certification to work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。西班牙畜牧业是农业支柱之一，但自动化趋势可能减少低技能岗位需求。不过，有机牧场和特色品种养殖仍需要人工。移民工人占比较高，工作强度大，流动性强。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Livestock farming is one of the pillars of agriculture in Spain, but automation trends may reduce demand for low-skilled jobs. However, organic ranching and specialty breeding still require manual labor. The proportion of migrant workers is high, the work intensity is high, and mobility is strong.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $17,000~$21,000 | 税前年薪，含社保；通常按季节合同结算 |
-| 中级（3-7年） | $21,000~$26,000 | 税前年薪，可签订长期合同 |
-| 高级（7年以上/主管） | $26,000~$32,000 | 税前年薪，负责团队管理或特种养殖 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $17,000~$21,000 | Pre-tax annual salary, including social insurance; Usually settled on a seasonal contract |
+| Mid-level (3–7 years) | $21,000~$26,000 | Pre-tax annual salary, with the option to sign long-term contracts |
+| Senior (7+ years/supervisor) | $26,000~$32,000 | Pre-tax annual salary, responsible for team management or specialty farming |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从一般畜牧工人晋升为牧场主管或畜牧技术员，也可通过FP培训成为兽医助理或牧场经理。部分工人积累经验后自主创业经营小型牧场。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Automation risks for livestock workers are high, and repetitive physical tasks will be replaced, but large-scale farms still require certain manual monitoring and emergency response capabilities.
+
+You can be promoted from general livestock worker to ranch supervisor or livestock technician, or through FP training to become a veterinary assistant or ranch manager. Some workers accumulate experience and start their own small ranches.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems replace manual feed dispensing
+- The intelligent milking robot takes over the milking operation
+- Automatic cleaning robots perform barn cleaning
+- Sensor monitoring systems automatically record animal health data
+- Drones automatically herding to replace some manual patrols
+
+**Where AI augments the role:**
+
+- Use IoT platforms to monitor herd health and location in real time
+- Data analysis is used to optimize feed formulations and breeding cycles
+- Operation and maintenance of automated equipment (such as robotic milkers)
+- Animal behavior abnormality detection is performed using cameras and AI-assisted assistance
+
+**Human moat:**
+
+- Emergency handling and on-site diagnosis of animal epidemics
+- Manual repair capability during complex equipment failures
+- Coordinate with veterinarians to develop individualized treatment plans
+- Responding to sudden natural disasters or herd stress responses
+
+**Skills to build:**
+
+- Automated operation and maintenance of livestock equipment
+- Basic data analysis and sensor system interpretation
+- Use of livestock health management software
+- Basic robot fault troubleshooting
+- Sustainable farming practices and safety protocols
+- Fundamentals of animal husbandry economics
+
+**Key growth areas:**
 
 - organic farming
 - mechanization
@@ -61,66 +95,65 @@ Performs feeding, cleaning, milking, herding, and basic health care of livestock
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 雇主担保工作居留，需证明岗位无法在欧盟内填补。畜牧业常年缺人，西班牙劳动力市场测试相对宽松。 |
-| Subclass Arraigo social（Social roots residency） | 在西班牙居住满3年且提供工作合同可申请扎根居留。适合已在西的非法移民转为合法。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. The livestock industry has a perennial labor shortage, and Spain's labor market test is relatively relaxed. |
+| Subclass Arraigo social (Social roots residency) | After 3 years of residence in Spain and a work contract, you can apply for 'arraigo laboral'. Suitable for irregular immigrants already in Spain to regularize. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Livestock Worker？**
-- 体力好、能适应户外工作的人
-- 愿意在乡村长期生活、不介意季节短工的人
-
-**谁不适合学Livestock Worker？**
-- 希望稳定办公室工作或城市生活的人
-- 缺乏体力或对动物过敏/有健康顾虑的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical strength who can adapt to outdoor work
+- People willing to live long-term in the countryside and don't mind seasonal short-term work
+
+**Who is not suited**
+- For those who want stable office work or city life
+- People who lack physical strength or have animal allergies or health concerns
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of livestock workers?**
+A: Junior approx. €17,000-21,000 (gross), senior managers up to €32,000. Income varies by season and region, higher demand in summer.
+
+**Q: How can foreigners obtain a Spanish livestock work visa?**
+A: Main path is employer-sponsored Cuenta ajena work residence, requiring proof that no EU worker can be hired. Regularisation via 'arraigo' (3 years residence in Spain with a contract) is also possible.
+
+**Q: Do livestock workers have career development opportunities?**
+A: Yes. Can advance to farm supervisor, livestock technician, or become a veterinary assistant through FP training. Some workers start small farms. However, low-skilled roles may decline due to automation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Livestock Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a livestock worker?**
-答：Entry-level ranges from €17,000 to €21,000 gross annually; experienced supervisors can earn up to €32,000. Income varies by season and region, with higher demand in summer.
-
-**问：How can foreigners obtain a work visa for livestock work in Spain?**
-答：The main route is the employer-sponsored 'Cuenta ajena' work permit, requiring proof that no EU worker can fill the position. Also possible via 'Arraigo social' (social roots) after 3 years of residence with a work contract.
-
-**问：Is there career progression for livestock workers?**
-答：Yes. You can advance to farm supervisor, livestock technician, or become a veterinary assistant via FP training. Some workers start small farms. However, automation may reduce low-skilled positions.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

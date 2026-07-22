@@ -1,66 +1,95 @@
-# NDIS 支持协调员（NDIS Support Coordinator）职业分析 · 澳大利亚
+# NDIS Support Coordinator — career analysis · Australia
 
-**职业代码：411716 – NDIS Support Coordinator。**
+**Occupation code: 411716 (ANZSCO)**
 
-NDIS 支持协调员帮助残障计划参与者理解并落地其 NDIS 计划：对接服务商、协调支持、处理危机，是澳洲国家残障保险计划(NDIS)体系内的核心角色，需求随计划扩张持续增长，非技术移民职业。
+NDIS Support Coordinators help participants understand and implement their NDIS plans: connecting with providers, coordinating supports, and handling crises. They are a core role in Australia's National Disability Insurance Scheme (NDIS), with growing demand as the scheme expands. Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV / Diploma in Community Services / Disability（常见） | 1~2年 | $3,000~$18,000（或相关社工/护理背景） |
-| NDIS Worker Screening Check | 数周 | $100~$150（强制工牌核查） |
+| Certificate IV / Diploma in Community Services / Disability (common) | 1–2 years | $3,000~$18,000 (Or related social work/nursing background) |
+| NDIS Worker Screening Check | Several weeks | $100~$150 (Mandatory work permit check) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NDIS Worker Screening Check | 各州/领地核查机构 | 必备 | 强制 |
-| Diploma of Community Services / 相关学历 | TAFE/RTO/大学 | 可选 | 入行基础 |
+| NDIS Worker Screening Check | State/territory verification bodies | Required | Mandatory |
+| Diploma of Community Services / related qualification | TAFE/RTO/University | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 30,000。NDIS 持续扩张带动支持协调员需求稳定增长，具备专科支持协调(Specialist)能力与残障/社工背景者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. NDIS continued expansion drives stable demand for Support Coordinators; those with specialist support coordination skills and disability/social work background are highly sought after.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国 |
-| Indeed | 1,000~2,200 个 | 全国 |
-| Jora | 800~1,800 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $65,000~$78,000 | Entry |
-| 中级（3-8年） | $78,000~$92,000 | Experienced |
-| 资深 / 专科协调 | $92,000~$110,000 | Specialist |
+| Median salary | $95,888 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$78,000 | Entry |
+| Mid-level (3–8 years) | $78,000~$92,000 | Experienced |
+| Senior / Specialist Coordinator | $92,000~$110,000 | Specialist |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：支持协调员→专科支持协调→团队负责人；熟悉 NDIS 价格指南与计划落地流程者更具竞争力。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+NDIS support coordinators will not be replaced by AI; instead, AI tools (e.g. automated document processing, data analysis, service matching) will amplify their capabilities and efficiency. However, continuous learning of digital tools is needed to stay competitive.
+
+Pathway: Support Coordinator → Specialist Support Coordination → Team Leader. Those familiar with the NDIS Price Guide and plan implementation processes are more competitive.
+
+**Tasks most exposed to AI:**
+
+- Preliminary sorting and filing of plan documents
+- Standardized Query and Matching of Service Provider Information
+- Automatic generation of routine progress reports
+- Tracking and alerts for budget usage
+
+**Where AI augments the role:**
+
+- Using AI to analyze participant needs and recommend personalized service packages
+- Quickly summarizing meeting minutes and action plans using natural language processing
+- Using predictive models to identify potential crises (e.g., fund depletion) and intervene early
+- Communicate with non-English speaking participants using AI translation tools
+- Automated scheduling and reminders to reduce omissions
+
+**Human moat:**
+
+- Interpersonal communication and negotiation skills in complex cases.
+- Human empathy and judgment in crisis situations
+- In-depth Understanding and Application of NDIS Policies and Regulations
+- Trust building and relationship maintenance in cross-agency collaboration
+- Creative problem-solving in non-standard situations
+
+**Skills to build:**
+
+- Master NDIS-related digital platforms and automation tools
+- Learn fundamentals of data analysis (e.g., Excel, Power BI)
+- Enhancing project management skills (e.g., using Asana, Trello)
+- Enhancing cross-cultural communication and negotiation skills
+- Familiarity with AI-assisted decision tools (e.g., CRM systems)
+- Continuous tracking of NDIS policy changes
+
+**Key growth areas:**
 
 - NDIS Scheme Growth
 - Specialist Support Coordination
@@ -69,58 +98,59 @@ NDIS 支持协调员帮助残障计划参与者理解并落地其 NDIS 计划：
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学NDIS 支持协调员？**
-- 有社工/残障/护理背景想转协调岗者
-- 擅长沟通、协调与个案管理的人
-- 认同助残价值、抗压能力强者
-
-**谁不适合学NDIS 支持协调员？**
-- 以技术移民为目标者
-- 不擅长处理危机与复杂个案者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background in social work/disability/nursing looking to transition to a coordination role
+- Good at communication, coordination, and case management
+- Those who value disability support and have strong resilience
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those not good at handling crises and complex cases
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for NDIS support coordinators in Australia?**
+A: Approx. AUD $65K-$110K; higher for specialist support coordinators; typically classified under SCHADS Award.
+
+**Q: Can an NDIS Support Coordinator migrate via skilled visa?**
+A: Generally not; it is not on the skilled migration list and is a locally employed occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-NDIS 支持协调员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：NDIS 支持协调员澳洲薪资多少？**
-答：约 AUD $6.5万~$11万，专科支持协调更高，多按 SCHADS Award 定级。
-
-**问：NDIS 支持协调员能技术移民吗？**
-答：一般不能，不在技术移民清单上，属于本地就业型职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

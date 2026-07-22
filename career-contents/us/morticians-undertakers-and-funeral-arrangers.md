@@ -1,61 +1,97 @@
-# Morticians, Undertakers, and Funeral Arrangers（Morticians, Undertakers, and Funeral Arrangers）职业分析 · 美国
+# Morticians, Undertakers, and Funeral Arrangers — career analysis · United States
 
-**职业代码：39-4031 – Morticians, Undertakers, and Funeral Arrangers。**
+**Occupation code: 39-4031 (SOC)**
 
-Arrange and direct funeral services, including coordinating body transport, interviewing families, selecting pallbearers, and organizing religious rites. Excludes funeral home managers.
+Responsible for arranging and directing funeral services, including body transport, negotiating details with families, selecting pallbearers, coordinating religious ceremonies, etc., excluding funeral home managers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（多数殡葬科学副学士学位） |
-| 学士学位 | 4年 | $20,000~$60,000（部分大学提供殡葬科学学士） |
+| Associate degree | 2 years | $10,000~$30,000 (Most associate degrees in funeral science) |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Some universities offer a Bachelor's in Mortuary Science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬师执照 | 州殡葬委员会 | 必备 | 需通过国家委员会考试和州考试 |
-| 副学士学位 | 认证学院 | 必备 | 通常需完成殡葬科学或相关专业 |
-| 实习 | 殡仪馆 | 必备 | 1-3年学徒期 |
+| Funeral director license | State funeral board | Required | Must pass national board exam and state exam |
+| Associate degree | Accredited college | Required | Usually requires completion of funeral science or related field |
+| Internship | Funeral home | Required | 1-3 year apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 31,300。美国殡葬服务业需求稳定，受人口老龄化和死亡人数增长推动，预计2023-2033年就业岗位增长约4%，与平均水平相当。
+**Job demand: medium (★★★☆☆).** National workforce approx. 31,300. The US funeral services industry has stable demand, driven by population aging and rising death numbers. Employment is projected to grow about 4% from 2023-2033, similar to the average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门殡葬助理或实习生 |
-| 中级（3-7年） | $45,000~$60,000 | 持证殡葬师 |
-| 高级（7年以上） | $60,000~$80,000 | 首席殡葬师或小型殡仪馆经理 |
+| Median salary | $55,010 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level funeral assistant or intern |
+| Mid-level (3–7 years) | $45,000~$60,000 | Licensed funeral director. |
+| Senior (7+ years) | $60,000~$80,000 | Chief mortician or small funeral home manager |
+| average salary | $58,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从入门殡葬助理开始，积累经验后可晋升为首席殡葬师或殡仪馆经理，部分人选择开设自己的殡仪馆。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate administrative and record-keeping tasks, but core services like emotional companionship and ritual planning still rely on humans; funeral personalization will increase, but practitioners must learn digital tools to stay competitive.
+
+Start as a funeral assistant, gain experience, then advance to chief funeral director or funeral home manager; some choose to open their own funeral home.
+
+**Tasks most exposed to AI:**
+
+- Writing and editing obituaries (AI can generate drafts based on templates)
+- Manages appointment schedules and customer information (AI scheduling system)
+- Generate funeral service checklists and contracts (AI proofreading and filling)
+- Answer common questions such as pricing and processes (chatbot)
+- Create simple multimedia memorial slideshows (AI auto-synthesis)
+
+**Where AI augments the role:**
+
+- Use OCR and AI archive management to quickly retrieve historical records, enhancing family service efficiency
+- Preview funeral venue layouts via VR/AR to enhance client decision-making experience
+- AI-assisted personalized eulogy generation with adjustments after retaining family emotions
+- Social media management tools automatically publish memorial event notices to expand reach
+- Data analysis predicts seasonal demand, optimizes inventory and staff scheduling.
+
+**Human moat:**
+
+- Human care and empathy when dealing with grief and emergencies
+- Knowledge of complex rituals coordinating different religious/cultural practices
+- Fine manual operations like body makeup and embalming that require hand touch
+- Ability to build long-term trust and deliver personalized services with families
+- On-the-spot judgment in crisis response (e.g., family conflicts, equipment malfunctions)
+
+**Skills to build:**
+
+- Master funeral CRM software and digital archive management
+- Learn basic multimedia production tools (e.g., Canva, Premiere)
+- Understanding VR/AR device operation and scene design
+- Basic data analysis skills (Excel or simple BI tools)
+- Enhancing knowledge of grief counseling and communication psychology
+- Learn social media operations and online reputation management
+
+**Key growth areas:**
 
 - Aging population
 - Steady demand
@@ -64,65 +100,67 @@ Arrange and direct funeral services, including coordinating body transport, inte
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少使用，因殡葬师通常不要求学士学位 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-2/EB-3)） | 极罕见，需证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely used, as funeral directors typically do not require a bachelor's degree |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Very rare, requires proof that no qualified US workers are available |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Morticians, Undertakers, and Funeral Arrangers？**
-- 对死亡和哀悼过程有同理心的人
-- 注重细节且能处理文书工作的人
-- 愿意从事非传统工作时间的人
+**Who is suited**
+- Someone empathetic to death and grieving processes
+- Detail-oriented people who can handle paperwork
+- Willing to work non-traditional hours
 
-**谁不适合学Morticians, Undertakers, and Funeral Arrangers？**
-- 对尸体或死亡场景感到不适的人
-- 希望高收入或快速职业晋升的人
+**Who is not suited**
+- People uncomfortable with corpses or death scenes
+- People seeking high income or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for funeral directors?**
+A: According to 2023 US Bureau of Labor Statistics data, the median annual salary for funeral directors is approximately $52,000. Entry-level salaries range from $35,000 to $45,000, while senior funeral directors or managers can earn over $80,000.
+
+**Q: Can foreign funeral directors work in the US on an H-1B visa?**
+A: Very difficult. Morticians typically require an associate degree, which does not meet the H-1B bachelor's requirement. Few employers sponsor, and PERM labor certification is required. Strongly consider other countries.
+
+**Q: What education is needed to become a funeral director?**
+A: Typically requires an associate degree (2 years) in mortuary science or related field, plus passing national board exams and state licensing exams. Some states require additional internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等偏高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等偏高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Morticians, Undertakers, and Funeral Arrangers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salary levels for morticians?**
-答：According to BLS 2023 data, median annual wage for morticians is about $52,000. Entry-level salaries range from $35,000 to $45,000, while experienced or managerial roles can exceed $80,000.
-
-**问：Can foreign morticians get H-1B visa to work in the US?**
-答：Very difficult. The occupation typically requires only an associate degree, not meeting H-1B's bachelor's requirement. Employer sponsorship is rare and requires PERM labor certification. Other countries are strongly recommended.
-
-**问：What education is needed to become a mortician?**
-答：Typically an associate degree in mortuary science (2 years), plus passing national board and state licensing exams. Some states require additional apprenticeship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

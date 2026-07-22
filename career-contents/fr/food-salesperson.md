@@ -1,60 +1,96 @@
-# Food Salesperson（Food Salesperson）职业分析 · FR
+# Food Salesperson — career analysis · France
 
-**职业代码：D1106 – Food Salesperson。**
+**Occupation code: D1106 (ROME)**
 
-Sells food products in retail or wholesale settings, including fresh, dry, and prepared items, providing product information and recommendations to customers.
+Selling food through retail or wholesale channels, including fresh, dry, and cooked foods, providing customers with product information and recommendations.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 销售 | 2年（CAP） | —（公立学校免费，注册费约€500-1500/年） |
-| Bac Pro 商业 | 3年（Bac Pro） | —（公立学校免费，材料费约€200-500/年） |
+| CAP sales | 2 years (CAP) | $0~$1,500 (Public schools are free, with registration fees ranging from €500 to €1500 per year) |
+| Bac Pro Commercial | 3 years (Bac Pro) | $0~$2,000 (Public schools are free, with material fees around €200-500 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生与安全认证 | 法国农业部 | 必备 | 从事生鲜食品销售需强制持有，培训时长1-2天 |
-| CAP 销售 | 法国教育部 | 可选 | 二级职业文凭，行业常见入门资格 |
+| Food hygiene and safety certification | French Ministry of Agriculture | Required | Fresh food sales require mandatory ownership, with training lasting 1-2 days |
+| CAP sales | French Ministry of Education | Optional | Level 2 vocational diploma, a common entry qualification in the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 250,000。法国食品零售业就业稳定，受日常消费需求支撑。有机、本地及特色食品趋势带来新机会，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. Employment in France's food retail industry is stable, supported by daily consumer demand. Organic, local, and specialty food trends bring new opportunities, but competition is fierce.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，通常含利润奖金 |
-| 中级（3-7年） | $25,000~$32,000 | 税前年薪，含绩效提成 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，主管或店长级 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, usually including profit bonuses |
+| Mid-level (3–7 years) | $25,000~$32,000 | Pre-tax annual salary, including performance commission |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, supervisor or store manager level |
+| average salary | $20,592 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从销售员晋升为部门主管或店长，也可转向采购或产品管理岗位。食品工艺或营养学培训有助于发展。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Food sales staff face a mixed situation with AI: tasks like basic information queries, inventory checks, and customer recommendations will be automated, but human advantages such as interpersonal interaction, quality control judgment, and on-site service remain irreplaceable.
+
+You can be promoted from salesperson to department head or store manager, or move to procurement or product management roles. Training in food craftsmanship or nutrition helps with development.
+
+**Tasks most exposed to AI:**
+
+- Use AI chatbots or self-service terminals to answer common product questions (such as ingredients and shelf life)
+- Automatically replenish, organize shelf displays, and generate orders through the AI inventory system
+- An AI recommendation system based on customer purchase history replaces some proactive sales
+- Automated checkout and payment systems reduce cashier demand (indirect impact)
+- AI-driven dynamic pricing tag updates require no manual intervention
+
+**Where AI augments the role:**
+
+- AI-assisted sales data analysis helps develop more precise promotional strategies and personalized recommendations
+- Quickly search for product details (such as origin and nutrition information) using AI tools on mobile devices.
+- Improve sales pitching and customer service skills through AI training simulation systems
+- AI-driven demand forecasting helps optimize inventory and reduce waste
+- Using AI translation tools to serve foreign clients and expand sales reach
+
+**Human moat:**
+
+- Interpersonal communication skills that build trust and emotional connections with customers
+- Sensory judgment of food freshness and quality (smell, sight, touch)
+- Ability to handle complex on-site issues such as customer complaints and returns/exchanges
+- Cross-category matching suggestions and scenario-based sales (such as holiday gift baskets)
+- A sense of responsibility in complying with food safety regulations and hygiene standards
+
+**Skills to build:**
+
+- Master basic digital tools (such as tablet cashier, inventory management software)
+- Learn to use AI Customer Relationship Management (CRM) systems to analyze sales data
+- Enhancing cross-cultural communication and basic foreign language skills (for international clients)
+- Understand food safety regulations (such as HACCP) and labeling regulations
+- Cultivating deep product knowledge (such as origin stories and nutritional value)
+- Learn to use AI-assisted translation, search, and training tools
+
+**Key growth areas:**
 
 - local food
 - organic products
@@ -63,64 +99,66 @@ Sells food products in retail or wholesale settings, including fresh, dry, and p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 由法国雇主担保的工作居留，需提供长期劳动合同（CDI）。 |
+| Subclass Salarié (Employee (Salarié)) | Work residency sponsored by a French employer requires a long-term employment contract (CDI). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Salesperson？**
-- 喜欢与人打交道、沟通能力强的人
-- 对食品行业有热情，注重产品品质
-- 愿意在零售行业从基层做起
+**Who is suited**
+- People who enjoy interacting with others and have strong communication skills
+- Passionate about the food industry and focused on product quality
+- Willing to start from the ground up in the retail industry
 
-**谁不适合学Food Salesperson？**
-- 希望高薪或快速晋升者
-- 不擅长应对繁忙客流或体力工作者
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Not suited for handling busy customer flow or physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for food salespeople in France?**
+A: Beginner is about €20,000-25,000, intermediate is €25,000-32,000, and senior can exceed €40,000.
+
+**Q: Can non-EU citizens immigrate to France through food sales work?**
+A: It is more challenging, requiring employers to prove they cannot recruit EU candidates, usually requiring CDI contracts with high language requirements.
+
+**Q: What certificates are required for food sales?**
+A: Must hold food hygiene and safety certification, and it is recommended to obtain a CAP Sales or Bac Pro Business Diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Food Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a food salesperson in France?**
-答：Entry-level around €20,000-25,000, mid-level €25,000-32,000, senior up to €40,000+.
-
-**问：Can non-EU citizens immigrate to France as a food salesperson?**
-答：It is difficult; employers must prove no EU candidate is available, require a CDI contract, and high French proficiency.
-
-**问：What certificates are needed for food sales?**
-答：Mandatory food hygiene and safety certificate; recommended CAP sales or Bac Pro in commerce.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

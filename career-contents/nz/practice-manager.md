@@ -1,61 +1,97 @@
-# Practice Manager（Practice Manager）职业分析 · 新西兰
+# Practice Manager — career analysis · New Zealand
 
-**职业代码：134214 – Practice Manager。**
+**Occupation code: 134214 (ANZSCO)**
 
-Practice Managers oversee daily operations, financial management, HR coordination, and Medicare billing in general/specialist clinics. In New Zealand, this occupation is generally not eligible for direct skilled migration but can be accessed via Accredited Employer Work Visa (AEWV) with possible residence through work-to-residence pathways.
+Clinic managers oversee the daily operations, financial management, staff coordination, and Medicare billing of general/specialist clinics. In New Zealand, this occupation is not typically considered a direct skilled migration role, but can be pursued via an Accredited Employer Work Visa (AEWV), and possibly transition to residence through a work-to-residence pathway.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专或本科 | 2-3年 | $20,000~$45,000（商业管理、健康管理相关文凭或学位） |
-| 短期培训 | 6个月 | $3,000~$8,000（新西兰诊所管理课程，如NZMA提供的培训） |
+| Diploma or Bachelor's degree | 2-3 years | $20,000~$45,000 (Diploma or degree in business management, health management, or related fields) |
+| Short-term training | 6 months. | $3,000~$8,000 (New Zealand clinic management courses, such as training provided by NZMA) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康管理文凭 | 新西兰健康管理协会 (NZIHM) | 可选 | 非强制，但有助职业发展 |
-| 诊所管理证书 | 新西兰医学协会 (NZMA) | 可选 | 非强制，但雇主青睐 |
-| 商业管理大专 | 理工学院 | 可选 | 部分雇主要求 |
+| Diploma in Health Management | New Zealand Institute of Health Management (NZIHM) | Optional | Not mandatory, but helpful for career development |
+| Clinic management certificate | New Zealand Medical Association (NZMA) | Optional | Not mandatory, but employers prefer |
+| Diploma in Business Management | Polytechnic institute | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 2,500。新西兰社区医疗需求稳步增长，诊所经理职位保持稳定。预计未来五年就业增长约5%，主要受人口老龄化和初级保健扩张推动。竞争中等，有相关行政经验者更具优势。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,500. Community healthcare demand is steadily growing in New Zealand, and clinic manager positions remain stable. Employment is expected to grow by about 5% over the next five years, driven mainly by an aging population and primary care expansion. Competition is moderate; those with relevant administrative experience have an advantage.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 初级诊所经理或行政晋升 |
-| 中级（3-7年） | $75,000~$95,000 | 有经验的全科诊所经理 |
-| 高级（7年以上） | $100,000~$120,000 | 大型专科诊所或医疗集团经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Junior Clinic Manager or Administrative Advancement |
+| Mid-level (3–7 years) | $75,000~$95,000 | Experienced general practice clinic manager |
+| Senior (7+ years) | $100,000~$120,000 | Manager of Large Specialist Clinic or Medical Group |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从医疗行政助理、诊所协调员晋升至诊所经理，再升至区域运营经理或医疗集团管理职位。积累经验后也可创业开设医疗咨询公司。
-**AI替代风险：中低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Clinic managers' operations and financial management tasks are easily optimized by AI, but people management and patient relationships rely on human judgment; overall risks and opportunities coexist.
+
+Can progress from medical administrative assistant or clinic coordinator to clinic manager, then to regional operations manager or medical group management roles. With experience, may also start a healthcare consulting firm.
+
+**Tasks most exposed to AI:**
+
+- Appointment scheduling and reminder automation
+- Medicare billing coding and settlement
+- Financial report generation and preliminary analysis
+- Automated inventory consumable ordering
+- Patient data entry and sorting
+
+**Where AI augments the role:**
+
+- Monitoring clinic operational KPIs in real time via AI dashboards
+- AI-assisted shift optimization considering employee preferences and workload
+- Use natural language processing to analyze patient feedback and improve services
+- AI predicts patient flow to optimize resource allocation
+- Automated compliance checks to reduce manual audit burden
+
+**Human moat:**
+
+- Handling Complex Patient Complaints and Emergencies
+- Team morale building and conflict mediation.
+- Strategic negotiation with doctors and suppliers
+- Establish clinic culture and service standards
+- Judgment and interpretation in regulatory compliance
+
+**Skills to build:**
+
+- Medical data analysis and interpretation of key performance indicators
+- Advanced configuration of electronic health record systems
+- Application of AI tools in operations management (e.g., scheduling, finance)
+- Change management and employee training
+- Digital marketing and patient communication strategies
+- Basic project management and agile methodologies
+
+**Key growth areas:**
 
 - Primary Health
 - Aged Care
@@ -64,69 +100,68 @@ Practice Managers oversee daily operations, financial management, HR coordinatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，满足薪资要求。可多次续签，工作2年后可能申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不直接符合技术移民要求，但若年薪达到中位数两倍（约¥120,000）且雇主支持，可能有机会。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 该职业不在当前绿色清单上，但若将来纳入，则需工作2年转居留。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an approved employer and meeting salary requirements. Can be renewed multiple times; may apply for residency after 2 years of work. |
+| Subclass SMC (Skilled Migrant Category) | Typically does not directly meet skilled migration requirements, but may be possible if annual salary reaches twice the median (approx. ¥120,000) and employer supports. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is not currently on the Green List, but if included in the future, would require 2 years of work to transition to residency. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Practice Manager？**
-- 有医疗行政经验，希望稳定职业发展的人
-- 善于协调沟通、组织管理的人
-- 愿意在社区医疗领域长期发展的人
-
-**谁不适合学Practice Manager？**
-- 追求快速高薪或技术移民的人
-- 不喜欢处理繁琐行政和人事事务的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with medical administrative experience seeking stable career development
+- Those skilled in coordination, communication, and organization management
+- People willing to develop long-term in community healthcare
+
+**Who is not suited**
+- Those seeking quick high income or skilled migration
+- People who dislike handling tedious administrative and HR tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a clinic manager in New Zealand?**
+A: Junior: approximately 53,000-70,000 NZD, intermediate: 75,000-95,000 NZD, senior: 100,000-120,000 NZD, depending on clinic size and experience.
+
+**Q: Can a clinic manager immigrate to New Zealand through skilled migration?**
+A: Generally not possible to migrate directly via Skilled Migrant Category (SMC) because the occupation is not on the skill shortage list and ANZSCO score is low. However, can work via an Accredited Employer Work Visa (AEWV), then apply for work-to-residence.
+
+**Q: What qualifications are needed to become a clinic manager?**
+A: Not necessarily mandatory registration, but typically requires a diploma in health management or business management. Work experience is important, and many managers are promoted from medical administrative roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Practice Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for practice managers in New Zealand?**
-答：Entry-level approximately NZD 53,000-70,000, mid-level NZD 75,000-95,000, senior NZD 100,000-120,000, depending on clinic size and experience.
-
-**问：Can a practice manager migrate to New Zealand through skilled migration?**
-答：Usually not directly via Skilled Migrant Category (SMC) as the occupation is not on shortage lists and has lower ANZSCO skill level. However, you can work via Accredited Employer Work Visa (AEWV) and apply for work-to-residence.
-
-**问：What qualifications are needed to become a practice manager?**
-答：No mandatory registration, but a diploma in health management or business administration is common. Work experience is crucial; many managers advance from medical administration roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

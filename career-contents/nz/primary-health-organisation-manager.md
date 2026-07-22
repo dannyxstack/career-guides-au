@@ -1,60 +1,96 @@
-# Primary Health Organisation Manager（Primary Health Organisation Manager）职业分析 · 新西兰
+# Primary Health Organisation Manager — career analysis · New Zealand
 
-**职业代码：134213 – Primary Health Organisation Manager。**
+**Occupation code: 134213 (ANZSCO)**
 
-Primary Health Organisation Managers plan, organize, and manage primary healthcare services in New Zealand, including GP clinics, community health centers, and medical centers. This occupation offers high migration feasibility via Skilled Migrant Category (SMC) and Green List roles, with direct residence or work-to-residence pathways.
+Primary health organization managers plan, organize, and manage New Zealand's primary healthcare services, including general practices, community health centers, and medical centers. This occupation has high immigration feasibility under the Skilled Migrant Category (SMC) and Green List, achievable through direct residence or work-to-residence pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（以怀卡托大学公共卫生学士为例，国际生年学费约NZD 40,000） |
-| 研究生文凭或硕士 | 1-2年 | $35,000~$50,000（如奥塔哥大学健康领导力硕士，国际生年学费约NZD 45,000） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Taking the University of Waikato Bachelor of Public Health as an example, international tuition is approximately NZD 40,000 per year) |
+| Graduate diploma or master's degree | 1-2 years | $35,000~$50,000 (e.g., Master of Health Leadership at the University of Otago, international tuition approx. NZD 45,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生管理或工商管理硕士（MBA） | 各认证大学 | 可选 | 非强制，但强烈推荐以提升竞争力 |
-| 项目管理认证（PMP） | PMI | 可选 | 有助于管理医疗项目 |
-| 卫生部门健康和安全培训 | Worksafe NZ | 可选 | 部分雇主要求的合规培训 |
-| 英语能力考试（IELTS） | IDP或British Council | 必备 | 技术移民要求总分6.5以上 |
+| English proficiency test (IELTS) | IDP or British Council | Required | Skilled migration requires overall score 6.5 or above |
+| Master of Health Administration or MBA | Accredited universities | Optional | Not mandatory but strongly recommended to enhance competitiveness |
+| Project Management Professional (PMP) certification | PMI | Optional | Helps in managing medical projects. |
+| Health and safety training from health authorities | Worksafe NZ | Optional | Compliance training required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰初级保健领域因人口老龄化和慢性病管理需求持续增长，政府投资社区医疗导致对管理人才需求旺盛。预计未来5年就业岗位稳步增加，尤其在农村和偏远地区。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. Primary care in New Zealand is experiencing sustained growth due to an aging population and chronic disease management needs, with government investment in community healthcare driving demand for management talent. Employment opportunities are expected to increase steadily over the next 5 years, especially in rural and remote areas.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：中等偏上（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | 助理经理或小型诊所经理 |
-| 中级（3-6年） | $95,000~$120,000 | 中型社区健康中心经理 |
-| 高级（6年+） | $120,000~$160,000 | 大型初级保健组织（PHO）总经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $75,000~$95,000 | Assistant manager or small clinic manager |
+| Mid-level (3–6 years) | $95,000~$120,000 | Medium community health center manager |
+| Senior (6+ years) | $120,000~$160,000 | General Manager of a large Primary Health Organisation (PHO). |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径从初级管理员或执业医师向区域经理、执行总监发展。常见晋升包括管理更大医疗网络、政策制定或转入卫生行政部门，需积累管理经验并持续进修。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on primary care organization managers is mixed: administrative tasks are easily automated, but interpersonal coordination and accountability decisions still rely on humans. Entry-level positions may decrease, while existing roles need to embrace AI tools.
+
+Career path progresses from junior administrator or medical practitioner to regional manager, executive director. Common promotions include managing larger medical networks, policy development, or moving to health administration, requiring accumulated management experience and ongoing education.
+
+**Tasks most exposed to AI:**
+
+- Patient appointment scheduling and record management
+- Routine report generation and data analysis
+- Health insurance billing and compliance checks
+- Inventory management and routine purchase orders
+- Initial patient inquiries and triage
+
+**Where AI augments the role:**
+
+- Use AI predictive analytics to optimise clinic resource allocation
+- Enhance communication efficiency using natural language processing tools
+- Monitor patient flow and performance in real time using AI dashboards.
+- Automatically generate personalized health intervention recommendations
+- Identify community health trends through data mining
+
+**Human moat:**
+
+- Maintaining trust relationships with medical professionals and communities
+- Decision-making ability within complex ethical and legal frameworks
+- Conflict mediation and team culture shaping
+- Political sensitivity and strategic planning for local health needs
+- Handling unstructured, ambiguous and unexpected problems
+
+**Skills to build:**
+
+- Application of AI data analysis tools (e.g., Tableau, Power BI)
+- Basic programming (Python) for automation scripts
+- Health informatics (EHR system management)
+- AI ethics and compliance knowledge
+- Change management and employee training
+- Strategic thinking and system design
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Primary Health Organisation Managers plan, organize, and manage primary healthca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，需满足职业在绿色清单第一梯队，且薪资中位数以上，可立即申请 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民类别，6分制下需学历、工作经验和薪资积分，合格后申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，如不满足直接移民条件，可先持此签证工作，积累经验后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, requires occupation on Tier 1 of the Green List and salary above the median, can apply immediately |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category: under the 6-point system, requires points for education, work experience and salary; apply after qualifying |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-specific work visa: if you do not meet direct immigration requirements, you can first work on this visa, gain experience, then transition to residency. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary Health Organisation Manager？**
-- 有卫生管理或相关学位的人
-- 有医疗行业经验并希望向管理转型的专业人士
-- 具备较强沟通和领导能力的人
-
-**谁不适合学Primary Health Organisation Manager？**
-- 不喜欢复杂行政和财务管理工作的人
-- 希望完全远离临床环境的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a degree in health management or related field
+- Professionals with healthcare industry experience seeking transition to management
+- People with strong communication and leadership skills
+
+**Who is not suited**
+- People who dislike complex administrative and financial management tasks
+- People who want to stay completely away from clinical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Primary Health Organisation Manager in New Zealand?**
+A: Depending on experience and organization size, annual salary ranges from NZD 75,000 to NZD 160,000, with a median of approximately NZD 100,000.
+
+**Q: How can I immigrate to New Zealand through this occupation?**
+A: This occupation is on Tier 1 of the Green List. If salary requirements are met (currently above median wage), you can directly apply for a Straight to Residence Visa. Alternatively, you can use the SMC 6-point system or first hold an AEWV work visa then transition to residence.
+
+**Q: Are there professional certification requirements for this occupation?**
+A: There is no mandatory registration, but employers often prefer candidates with a degree in health management or MBA. Some positions require project management certifications like PMP.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等偏上（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Primary Health Organisation Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Primary Health Organisation Manager in New Zealand?**
-答：Depending on experience and organization size, annual salary ranges from NZD 75,000 to NZD 160,000, with a median around NZD 100,000.
-
-**问：How can I migrate to New Zealand through this occupation?**
-答：This occupation is on Green List Tier 1. If meeting the median wage threshold, you can apply for a Straight to Residence Visa. Alternatively, apply via SMC 6-point system or work on an AEWV then transition to residence.
-
-**问：Are there professional certification requirements for this role?**
-答：No mandatory registration, but employers prefer candidates with health management or MBA qualifications. Some roles may require project management certification like PMP.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

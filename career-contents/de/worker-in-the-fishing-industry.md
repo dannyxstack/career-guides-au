@@ -1,58 +1,91 @@
-# Worker in the Fishing Industry（Worker in the Fishing Industry）职业分析 · DE
+# Worker in the Fishing Industry — career analysis · Germany
 
-**职业代码：1140 – Worker in the Fishing Industry。**
+**Occupation code: 1140 (KldB)**
 
-Professionals involved in fishing, aquaculture, fish processing, and sales in the fishing industry.
+Professionals engaged in fishing-related work such as catching, aquaculture, fish processing, and sales.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有工资，无需学费） |
-| 专科学校（技术员） | 2年 | —（毕业后可担任管理职务） |
+| Dual vocational training | 3 years | $0~$500 (Paid training, no tuition fees) |
+| Specialist school (technician) | 2 years | $0~$1,000 (Can take on management roles after graduation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔业从业者 | 德国联邦海事和水文局 | 必备 | 完成双元制培训后获得 |
-| 船长执照 | 德国交通部 | 可选 | 需额外考试，适用于渔船驾驶 |
+| Fisheries worker | German Federal Maritime and Hydrographic Agency | Required | Obtained after completing dual system training |
+| Ship Captain License | German Federal Ministry of Transport | Optional | Requires additional exam, applicable for fishing vessel operation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国渔业从业人数稳定，但受渔业资源限制和环保政策影响，就业机会集中在北部沿海地区。技术化趋势明显，对专业养殖技能需求增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The German fishing industry has stable employment, but due to fishery resource constraints and environmental policies, job opportunities are concentrated in the northern coastal areas. The trend towards technology is evident, with increased demand for professional aquaculture skills.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，取决于雇主和地区 |
-| 中级（3-7年） | $30,000~$38,000 | 含经验积累和晋升 |
-| 高级（7年以上） | $38,000~$45,000 | 船长或管理层岗位 |
+| Median salary | $34,800 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, depends on employer and region |
+| Mid-level (3–7 years) | $30,000~$38,000 | Including experience accumulation and promotion |
+| Senior (7+ years) | $38,000~$45,000 | Captain or management positions |
+| average salary | $41,532 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级捕捞工人晋升为船长或养殖场主管，或通过进修进入渔业管理或质量监控岗位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fishing workers face risk of partial task replacement by AI, but physical operations and on-site judgment remain hard to automate, entry-level positions narrow, overall employment prospects shrink.
+
+Can progress from junior fishing worker to skipper or farm supervisor, or move into fisheries management or quality control roles through further study.
+
+**Tasks most exposed to AI:**
+
+- Automatically locate fish schools using sonar and satellite imagery.
+- Use automatic sorting systems to sort fish by size and type
+- Automated monitoring of water quality, feeding and other aquaculture management
+- Generate fishing logs and data analysis reports
+
+**Where AI augments the role:**
+
+- Using AI to analyze ocean data to improve fishing efficiency
+- Optimizing aquaculture density and health management through smart farming systems
+- Use AI to predict market demand and price fluctuations to assist sales decisions
+- Combining AI sensors for real-time monitoring of fishing net status and catch
+
+**Human moat:**
+
+- Human judgment and decision-making in complex environments (e.g., dealing with sudden weather)
+- Hands-on skills such as equipment maintenance and repair
+- Interpersonal communication and collaboration with crew, regulatory bodies, etc.
+- Systematic understanding and experience accumulation of fishery ecology
+
+**Skills to build:**
+
+- Basics of AI tools and data analysis
+- Automated equipment operation and maintenance
+- Knowledge of sustainable fisheries management
+- Digital platform marketing and sales
+- Application of sensors and IoT devices
+- Marine Ecology and Resource Management
+
+**Key growth areas:**
 
 - Sustainable fishing
 - Aquaculture expansion
@@ -61,65 +94,64 @@ Professionals involved in fishing, aquaculture, fish processing, and sales in th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人才，需年薪达到阈值（2024年约45,300欧元） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于具有德国认可职业资格的技术工人 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许未找到工作前入境寻找就业机会 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated professionals; requires annual salary threshold (approx. €45,300 in 2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled workers with recognized German vocational qualifications |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing entry to seek job opportunities before finding work |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Worker in the Fishing Industry？**
-- 喜欢户外工作和海上作业
-- 对渔业和环保有兴趣
-- 愿意在沿海地区生活
-
-**谁不适合学Worker in the Fishing Industry？**
-- 晕船或无法适应体力劳动
-- 追求高薪和快速晋升
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Prefers outdoor work and sea operations
+- Interest in fisheries and environmental protection
+- Willing to live in coastal areas
+
+**Who is not suited**
+- Seasickness or inability to perform physical labor
+- Seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of fishery workers?**
+A: Pre-tax annual salary from approx. 25,000 euros, senior positions up to 45,000 euros.
+
+**Q: How can foreigners enter the German fishing industry?**
+A: Possible via skilled migration visa, but requires recognized vocational qualifications. Dual-system training is one pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Worker in the Fishing Industry的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fishing industry workers?**
-答：Gross annual salary starts around €25,000, reaching up to €45,000 for senior positions.
-
-**问：How can foreigners enter the German fishing industry?**
-答：Via skilled worker visa with recognized qualifications. Dual vocational training is an option.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

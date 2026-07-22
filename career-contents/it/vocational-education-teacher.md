@@ -1,60 +1,95 @@
-# Vocational Education Teacher（Vocational Education Teacher）职业分析 · IT
+# Vocational Education Teacher — career analysis · Italy
 
-**职业代码：2320 – Vocational Education Teacher。**
+**Occupation code: 2320 (ISCO08)**
 
-Vocational education teachers in Italy deliver practical skills in technical schools or training centers, covering fields like industry and services, blending theory with hands-on instruction.
+Vocational education teachers in Italy teach practical skills at technical schools or training institutions, covering fields such as industry and services, combining theoretical and practical teaching.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $1,000~$4,000（公立大学学费，视家庭收入而定） |
-| 硕士 | 2年（硕士） | $1,500~$6,000（部分岗位要求硕士学历） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $1,000~$4,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years (Master's) | $1,500~$6,000 (Some positions require a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证 | 意大利教育部 | 必备 | 需通过国家考试获得，分普通和职业方向 |
-| 专业技能认证 | 相关行业协会 | 可选 | 如机电、IT等领域的行业认证，非强制但有益 |
+| Teaching license/certificate | Italian Ministry of Education | Required | Must be obtained through a national exam, with general and professional streams |
+| Professional skills certification | Relevant industry associations. | Optional | Industry certifications such as in electromechanical or IT fields, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。意大利职业教育教师需求稳定，因政府推动技能培训以降低青年失业率，但岗位多靠退休空缺和临时合同，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Demand for vocational education teachers in Italy is stable as the government promotes skills training to reduce youth unemployment, but positions mostly arise from retirement vacancies and temporary contracts, with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，公立学校固定工资 |
-| 中级（4-10年） | $32,000~$40,000 | 含年度加薪和津贴 |
-| 高级（10年以上） | $40,000~$50,000 | 含住房补贴等福利 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Gross annual salary, fixed wage in public schools. |
+| Mid-level (4-10 years). | $32,000~$40,000 | Including annual salary increases and allowances |
+| Senior (10+ years) | $40,000~$50,000 | Includes housing allowance and other benefits |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从兼职讲师起步，积累经验后转为全职，或晋升为课程协调员、培训主管，但晋升路径较窄，需持续更新行业知识。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on vocational education teachers is mixed: some repetitive teaching tasks are automated, but core practical guidance demand increases, and AI tools can enhance personalized learning design.
+
+Can start as a part-time lecturer, gain experience to transition to full-time, or advance to course coordinator or training supervisor, but promotion paths are narrow and require continuous updating of industry knowledge.
+
+**Tasks most exposed to AI:**
+
+- Generates standardized lesson plans and exam questions.
+- Automatically grading multiple-choice questions and simple assignments
+- Manage student attendance and grade records
+- Provide basic answers to common questions
+
+**Where AI augments the role:**
+
+- Using AI to generate personalized learning paths and real-time feedback
+- Analyze student skill gaps to precisely adjust teaching content
+- Create adaptive simulation environments for practical training
+- Automatically translates multilingual teaching materials.
+- Provide after-school tutoring through chatbots
+
+**Human moat:**
+
+- Hands-on practical skills demonstration and error correction
+- Assess students' comprehensive practical and soft skills
+- Establish partnerships with industry enterprises and design courses
+- Address students' emotional and career concerns
+- Customized Teaching and Creative Curriculum Development
+
+**Skills to build:**
+
+- Operation of AI teaching tools (e.g., adaptive platforms, intelligent assessment systems)
+- Data analysis (learning analytics, skills gap diagnosis)
+- Hands-on experience with cutting-edge industry technologies (e.g., robotics, new energy)
+- Digital content creation (interactive simulation, VR training).
+- Project-based learning and interdisciplinary curriculum design
+- Maintaining awareness of AI ethics and data privacy
+
+**Key growth areas:**
 
 - Technical Education
 - Digital Skills
@@ -63,63 +98,65 @@ Vocational education teachers in Italy deliver practical skills in technical sch
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需工作合同且年薪不低于欧盟标准（约25,000欧元），可携家属 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非高技能岗位，需雇主担保，配额有限且竞争激烈 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可证明，雇主需证明无法在欧盟内招到合适人选，适用于职业教师岗位 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a work contract and an annual salary not lower than the EU standard (approx. €25,000), allows accompanying family members |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-high-skilled positions, employer-sponsored, limited quota and highly competitive |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit certification; employers must prove inability to find suitable candidates within the EU, applicable to vocational teacher positions. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Vocational Education Teacher？**
-- 热爱教学并拥有行业实践经验者
-- 具备耐心和沟通能力，适应多样化学生群体
-- 愿意在意大利中小城市工作，生活成本较低
+**Who is suited**
+- Those who love teaching and have industry practical experience
+- Possess patience and communication skills, adaptable to diverse student populations
+- Willing to work in small and medium-sized Italian cities with lower living costs
 
-**谁不适合学Vocational Education Teacher？**
-- 追求高薪和快速晋升的人
-- 不熟悉意大利语且不愿学习语言者
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People unfamiliar with Italian and unwilling to learn the language
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for vocational education teachers?**
+A: Entry-level annual salary approx. EUR 25,000-32,000, senior level up to EUR 40,000-50,000, stable but slow growth in public schools.
+
+**Q: How can non-EU citizens obtain a work visa for vocational education teachers?**
+A: Can be obtained via EU Blue Card (high salary requirement) or Decreto Flussi quota visa, requires employer sponsorship and work contract; language is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Vocational Education Teacher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for vocational education teachers?**
-答：Entry-level salaries range from €25,000 to €32,000 per year, while senior teachers can earn up to €50,000, with stable but slow growth in public schools.
-
-**问：How can non-EU citizens obtain a work visa as a vocational education teacher?**
-答：Via EU Blue Card (high salary threshold) or Decreto Flussi quota visa, requiring employer sponsorship and a job contract; Italian language proficiency is key.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

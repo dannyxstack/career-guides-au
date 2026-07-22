@@ -1,61 +1,95 @@
-# Survey Research Manager（Survey Research Manager）职业分析 · FR
+# Survey Research Manager — career analysis · France
 
-**职业代码：M1401 – Survey Research Manager。**
+**Occupation code: M1401 (ROME)**
 
-Designs, organizes, and implements various surveys including market research, opinion polls, and social surveys, managing teams and ensuring data quality.
+Responsible for designing, organizing, and implementing various types of research, including market research, public opinion surveys, and social surveys, managing teams, and ensuring data quality.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT 市场营销或统计 | 2年（BTS） | —（公立院校免学费，仅注册费；私立院校费用较高） |
-| Licence 社会学或经济统计 | 3年（Licence） | —（公立大学免学费，仅注册费） |
-| Master 统计或市场研究 | 2年（Master） | —（公立大学费用低，部分专业需额外实习费用） |
+| BTS/DUT marketing or statistics | 2 Years (BTS) | $0~$5,000 (Public institutions waive tuition, only the registration fee; Private institutions have higher fees) |
+| Licence in Sociology or Economic Statistics | 3 years (Licence) | $0~$5,000 (Free tuition at public universities, registration fee only) |
+| Master in statistics or market research | 2 years (Master) | $0~$10,000 (Public universities have low fees, though some majors require additional internship fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计与调查方法硕士文凭 | Université | 可选 | 通常视为资质证明，非强制但重要 |
-| 市场研究认证（如 ESOMAR 认证） | ESOMAR | 可选 | 行业认可，提升专业形象 |
+| Master's diploma in Statistics and Survey Methods | Université | Optional | Usually considered proof of qualification, not mandatory but important |
+| Market research certification (such as ESOMAR certification) | ESOMAR | Optional | Industry recognition enhances professional image |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 21,800。法国数字化调查需求稳定，但行业竞争激烈，需掌握数据分析与项目管理技能。公共机构与私营企业均有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 21,800. France's digital survey demand remains stable, but industry competition is fierce, requiring mastery of data analysis and project management skills. Both public institutions and private enterprises have demand.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，公立机构略低 |
-| 中级（4-7年） | $35,000~$50,000 | 税前年薪，视企业规模与领域 |
-| 高级（8年以上） | $50,000~$65,000 | 税前年薪，管理层或专家 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary is slightly lower than in public institutions |
+| Mid-level (4-7 years) | $35,000~$50,000 | Pre-tax annual salary depends on the size and field of the enterprise |
+| Senior (8+ years) | $50,000~$65,000 | Pre-tax annual salary, management or expert |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从调查助理或数据分析师起步，可晋升为调查经理或研究总监；也可转向市场研究或数据科学领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will greatly improve survey supervisors' efficiency by automatically completing questionnaire design, data cleaning, and preliminary analysis, enabling them to focus on higher-value research design and strategic insights.
+
+Start as a survey assistant or data analyst and can be promoted to survey manager or research director; You can also shift to market research or data science.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation and distribution of standardized online questionnaires
+- Statistical analysis and report writing based on sample foundation
+- Data cleaning and preliminary anomaly detection
+- Automatic summary of common poll results
+
+**Where AI augments the role:**
+
+- Design of complex survey plans (AI-assisted simulation)
+- Semantic analysis and topic extraction of qualitative data
+- Multi-source data fusion and trend forecasting
+- Real-time dashboard and interactive report creation
+- Survey Quality Control (AI monitoring respondent behavior)
+
+**Human moat:**
+
+- Communicate with clients to turn ambiguous needs into research frameworks
+- Strategically interpret and make recommendations based on the survey results
+- Manage teams and coordinate cross-departmental resources
+- Ethical decision-making (privacy, bias, data security)
+- Handling non-standardized, highly complex survey projects
+
+**Skills to build:**
+
+- Python/R data processing and automation scripts
+- Natural Language Processing (NLP) analyzes unstructured data
+- AI-assisted questionnaire design and A/B testing
+- Data visualization tools (Tableau, Power BI)
+- The foundation of predictive analytics in machine learning
+- AI ethics and data governance knowledge
+
+**Key growth areas:**
 
 - Data-driven
 - Digital surveys
@@ -64,65 +98,67 @@ Designs, organizes, and implements various surveys including market research, op
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee work permit） | 需获得法国雇主提供的工作合同，并证明职位无法由当地劳动力填补。 |
-| Subclass Passeport Talent（Talents Pass） | 若具备硕士学历且年薪超过2倍最低工资（约53,000欧元），可申请人才护照。 |
+| Subclass Salarié (Employee work permit) | A work contract provided by a French employer must be obtained, and the position must prove that the position cannot be filled by local labor. |
+| Subclass Passeport Talent (Talents Pass) | If you have a master's degree and an annual salary exceeding twice the minimum wage (about €53,000), you can apply for a Talent Passport. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Survey Research Manager？**
-- 擅长沟通与组织协调，注重细节与数据准确性
-- 对社会科学或市场研究有浓厚兴趣
-- 具备团队管理潜力和分析能力
+**Who is suited**
+- Skilled in communication and organizational coordination, with a focus on details and data accuracy
+- Strong interest in social sciences or market research
+- Possess team management potential and analytical skills
 
-**谁不适合学Survey Research Manager？**
-- 不善于与人打交道或处理复杂人际关系
-- 对数字和数据不敏感，缺乏耐心
+**Who is not suited**
+- Poor at interacting with people or handling complex interpersonal relationships
+- Insensitive to numbers and data, lacking patience
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for investigation supervisors in France?**
+A: Beginner classes cost about 28,000-35,000 euros per year, intermediate 35,000-50,000 euros per year, and advanced classes up to 65,000 euros per year.
+
+**Q: How can foreigners immigrate to France to work as an investigation supervisor?**
+A: Usually, you need to obtain a work contract from a French employer and apply for a Salarié work visa; If you have a high degree and meet the salary requirement (about €53,000/year), you can apply for a talent passport.
+
+**Q: What career development paths are available for investigation supervisors?**
+A: You can be promoted to Research Director, Market Research Manager, or move into areas such as data analysis or public policy research.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Survey Research Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for survey research managers in France?**
-答：Entry-level around €28,000-35,000/year, mid-level €35,000-50,000/year, senior up to €65,000/year.
-
-**问：How can foreigners migrate to France for survey research roles?**
-答：Typically need a job contract and apply for a Salarié work permit; if highly educated and salary above €53,000/year, consider Passeport Talent.
-
-**问：What are the career progression paths for survey research managers?**
-答：Can advance to research director, market research manager, or pivot to data analysis, public policy research, etc.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,90 @@
-# Structural Iron and Steel Workers（Structural Iron and Steel Workers）职业分析 · 美国
+# Structural Iron and Steel Workers — career analysis · United States
 
-**职业代码：47-2221 – Structural Iron and Steel Workers。**
+**Occupation code: 47-2221 (SOC)**
 
-Raise, place, and unite iron or steel girders, columns, and other structural members to form completed structures or structural frameworks. May erect metal storage tanks and assemble prefabricated metal buildings.
+Responsible for hoisting, positioning, and connecting steel beams, columns, and other components, constructing building or steel structure frames, including metal tanks and prefabricated metal buildings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无特定年限 | —（通常需要高中文凭或GED，但非强制） |
-| 学徒培训 | 3-4年 | $500~$2,000（学徒期间有工资，费用主要包括工具和课程材料） |
+| High school diploma or equivalent | No specific time limit | $0~$0 (Usually requires high school diploma or GED, but not mandatory) |
+| Apprenticeship training | 3-4 years | $500~$2,000 (Apprentices receive wages; costs mainly include tools and course materials.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| OSHA 30小时建筑安全培训 | 美国职业安全与健康管理局（OSHA） | 可选 | 许多雇主强制要求，培训费用约100-200美元 |
-| 焊接认证 | 美国焊接学会（AWS） | 可选 | 虽然不是强制，但持证者更易就业，费用约300-1000美元 |
+| OSHA 30-hour construction safety training | Occupational Safety and Health Administration (OSHA) | Optional | Mandatory for many employers; training costs approximately USD 100-200 |
+| Welding certification | American Welding Society (AWS) | Optional | Although not mandatory, certification holders find it easier to get jobs; costs around $300-$1,000. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 71,000。美国劳工统计局预计2023-2033年就业增长约4%，与所有职业平均水平相近。非住宅建筑和基础设施项目需求稳定，但受经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 71,000. US Bureau of Labor Statistics projects 4% employment growth from 2023-2033, similar to average for all occupations. Non-residential building and infrastructure projects have steady demand but are affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 学徒或助手，时薪约$19-26 |
-| 中级（4-8年） | $55,000~$75,000 | 熟练工，时薪约$26-36 |
-| 高级（8年以上） | $75,000~$100,000 | 领班或工头，时薪约$36-48 |
+| Median salary | $62,780 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Apprentice or assistant, hourly wage approximately $19-26 |
+| Mid-level (4–8 years) | $55,000~$75,000 | Skilled worker, hourly wage approx. $26-36 |
+| Senior (8+ years) | $75,000~$100,000 | Foreman or supervisor, hourly rate approximately $36-48 |
+| average salary | $70,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从学徒或助手做起，积累经验后可晋升为领班、工头或钢铁安装主管。部分人通过进一步培训转向相关职业，如钢结构检验员或项目协调员。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
+
+Typically start as an apprentice or assistant, and with experience can advance to foreman, supervisor, or steel installation supervisor. Some move into related careers through further training, such as steel structure inspector or project coordinator.
+
+**Tasks most exposed to AI:**
+
+- AI-assisted automatic rebar cutting and bending
+- BIM-based automatic layout and setting out
+- Automatic rechecking of rebar positions before concrete pouring
+- Standardized Binding Robotics Operations
+
+**Where AI augments the role:**
+
+- BIM models available 24/7 to aid understanding of complex nodes
+- AR glasses overlay rebar placement drawings, reducing drawing reading errors
+- Auto stirrup bender parameters optimized by AI reduce material waste
+- On-site quality inspection using AI vision for rapid anomaly feedback
+
+**Human moat:**
+
+- Flexible tying and adjustment in complex/irregular structures
+- Adaptability to severe weather and field conditions
+- Team collaboration and problem-solving in unexpected situations.
+- Safety compliance enforcement and risk assessment
+
+**Skills to build:**
+
+- Proficiency in BIM model viewing software (e.g., Tekla, Revit)
+- Learn automated rebar processing equipment operation
+- Basic data analysis and mobile quality inspection tool usage
+- Simple AR/VR device operation and maintenance
+- Continuous learning of new standards and digital processes
+
+**Key growth areas:**
 
 - Infrastructure projects
 - Non-residential construction
@@ -61,67 +93,66 @@ Raise, place, and unite iron or steel girders, columns, and other structural mem
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职业不要求学士学位；仅极少情况如管理职位可能符合 |
-| Subclass EB-3（Employment-Based Green Card (Skilled Workers)） | 适用EB-3类，通过PERM劳工认证申请绿卡，需证明劳动力短缺 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable as this occupation does not require a bachelor's degree; only rare cases such as management roles may qualify |
+| Subclass EB-3 (Employment-Based Green Card (Skilled Workers)) | Applicable for EB-3 category, apply for green card through PERM labor certification, need to prove labor shortage. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Structural Iron and Steel Workers？**
-- 喜欢户外高空作业，不惧高
-- 体力好，注重安全，团队协作能力强
-- 愿意接受学徒培训和职业认证
-
-**谁不适合学Structural Iron and Steel Workers？**
-- 对高空作业有严重恐惧或身体条件不允许
-- 不喜欢体力劳动或户外工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor high-altitude work, not afraid of heights
+- Physically fit, safety-conscious, strong teamwork skills
+- Willing to undergo apprenticeship training and professional certification
+
+**Who is not suited**
+- Severe fear of heights or physical inability to work at heights
+- People who dislike physical labor or outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for structural steel installers?**
+A: According to BLS data, the median annual salary in 2023 was about $60,000. Entry-level about $40,000-$55,000, senior can exceed $100,000, depending on experience and region.
+
+**Q: Can structural steel erectors immigrate to the US through skilled migration?**
+A: Yes, but the path is narrow. Usually apply for a green card through EB-3 skilled worker category, requiring employer sponsorship and PERM labor certification. H-1B visa is generally not applicable as the occupation typically does not require a bachelor's degree.
+
+**Q: Is this occupation in high demand in the US?**
+A: Demand is stable, influenced by construction cycles. BLS projects 4% growth from 2023-2033, with about 5,700 new jobs annually. Infrastructure bills may increase job opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Structural Iron and Steel Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for structural iron and steel workers?**
-答：According to BLS, median annual wage was about $60,000 in 2023. Entry-level earns $40,000-$55,000, experienced up to $100,000+ depending on location and skills.
-
-**问：Can structural iron and steel workers immigrate to the US?**
-答：Yes, but limited. Generally through EB-3 skilled worker category requiring employer sponsorship and PERM. H-1B is not typical as the job does not require a bachelor's degree.
-
-**问：Is there high demand for structural iron and steel workers?**
-答：Demand is stable but cyclical. BLS projects 4% growth from 2023-2033, about 5,700 openings per year. Infrastructure bills may boost opportunities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

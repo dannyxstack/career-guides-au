@@ -1,62 +1,95 @@
-# Architect (Except Landscape and Urban Planners)（Architect (Except Landscape and Urban Planners)）职业分析 · ES
+# Architect (Except Landscape and Urban Planners) — career analysis · Spain
 
-**职业代码：2451 – Architect (Except Landscape and Urban Planners)。**
+**Occupation code: 2451 (CNO)**
 
-Architects design, plan, and oversee building projects, ensuring structural safety, functionality, and aesthetics. In Spain, it is a regulated profession requiring a university degree and official certification.
+Architects are responsible for the design, planning, and supervision of architectural projects, ensuring structural safety, functional rationality, and compliance with aesthetic requirements. In Spain, this profession is regulated and requires a university degree and official certification.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado en Arquitectura） | 5年 | $1,000~$2,000（公立大学每年学费约1000-2000欧元） |
-| 硕士（Máster Habilitante） | 1年 | $1,500~$3,000（执业必需，学费取决于学校） |
+| Underfamily (Grado en Arquitectura) | 5 years | $1,000~$2,000 (The annual tuition fee for public universities is about 1,000–2,000 euros) |
+| Master's (Máster Habilitante) | 1 year | $1,500~$3,000 (Practice is required, and tuition depends on the school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑学学位（Grado en Arquitectura） | 西班牙大学 | 必备 | 完成5年制本科 |
-| 执业硕士（Máster Habilitante） | 西班牙大学 | 必备 | 1年制硕士，毕业后可注册建筑师协会 |
-| 建筑师协会注册（COA） | 西班牙建筑师协会 | 必备 | 执业必需，需通过考试 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 外国学历需认证，流程约6-12个月 |
+| Degree in Architecture (Grado en Arquitectura) | Spanish University | Required | Completed a five-year undergraduate program |
+| Master of Practice (Máster Habilitante) | Spanish University | Required | A one-year master's program, and after graduation, you can register with the Architects Association |
+| Registered with the Institute of Architects (COA) | Spanish Institute of Architects | Required | Practice is required and requires passing an examination |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Foreign degrees require certification, and the process takes about 6-12 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 55,000。西班牙建筑行业逐步复苏，尤其可持续建筑和城市更新领域需求增长。2024年就业率预计上升，但竞争仍激烈，高端项目机会更多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. Spain's construction industry is gradually recovering, with growing demand especially in sustainable building and urban renewal. The employment rate is expected to rise in 2024, but competition remains fierce, with more opportunities in high-end projects.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪，视公司规模而定 |
-| 中级（4-7年） | $32,000~$45,000 | 税前年薪，含项目奖金 |
-| 高级（8年以上） | $48,000~$65,000 | 税前年薪，总监或合伙人级别更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Annual pre-tax salary, depending on company size |
+| Mid-level (4-7 years) | $32,000~$45,000 | Pre-tax annual salary, including project bonuses |
+| Senior (8+ years) | $48,000~$65,000 | Pre-tax annual salary, with higher levels for directors or partners |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级建筑师可晋升为项目负责人或设计总监，也可专攻可持续设计或文物保护。经验丰富后可成立个人事务所或担任大型项目首席建筑师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Junior architects can be promoted to project leader or design director, or specialize in sustainable design or heritage conservation. After gaining experience, you can establish your own firm or serve as the chief architect for large projects.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Sustainable Architecture
 - Urban Regeneration
@@ -65,69 +98,68 @@ Architects design, plan, and oversee building projects, ensuring structural safe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能工作，需大学学历及工作合同，薪资门槛约33,908欧元（2024年） |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人才，流程简化，需工作合同且学历经认证 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通工作居留，需雇主担保，学历认证后申请 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled jobs, requires a university degree and work contract, salary threshold approx. €33,908 (2024) |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, the process is simplified, requiring a work contract and certified academic qualifications |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship and can be applied for after academic verification is required |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architect (Except Landscape and Urban Planners)？**
-- 创意与技术兼备，热爱建筑设计者
-- 能承受高强度工作与项目压力者
-- 愿意接受长期教育与认证者
-
-**谁不适合学Architect (Except Landscape and Urban Planners)？**
-- 偏好稳定低压力工作环境者
-- 不擅长团队协作与客户沟通者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and technical, passionate about architectural design
+- Able to withstand high-intensity work and project pressure
+- Willing to undergo long-term education and certification
+
+**Who is not suited**
+- Those who prefer a stable, low-stress work environment
+- Those who are not good at teamwork and customer communication
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for Spanish architects?**
+A: Entry-level architect annual salary about 22,000-30,000 EUR, mid-level 32,000-45,000 EUR, senior 48,000-65,000 EUR; partners or freelancers earn more.
+
+**Q: How can foreign architects immigrate to Spain?**
+A: You must first pass the academic qualification certification (Homologación), then find a job and apply for work residence or an EU Blue Card. Registration with the Spanish Architects Association is also not mandatory but beneficial.
+
+**Q: What certifications are required to become an architect in Spain?**
+A: You must hold a 5-year Bachelor's degree in Architecture (Grado) and a 1-year Master of Practice (Máster Habilitante), and be registered with the Architects Association. Foreign degrees must be certified by the Ministry of Education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Architect (Except Landscape and Urban Planners)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for architects in Spain?**
-答：Entry-level architects earn around €22,000-30,000, mid-level €32,000-45,000, and senior €48,000-65,000 gross annually. Partners and freelancers may earn more.
-
-**问：How can foreign architects immigrate to Spain?**
-答：You must first obtain homologación of your degree, then find a job and apply for a work permit or EU Blue Card. Registration with the architects' association is mandatory.
-
-**问：What certifications are needed to work as an architect in Spain?**
-答：A 5-year Grado en Arquitectura and a 1-year Máster Habilitante are mandatory, plus registration with the Colegio de Arquitectos. Foreign degrees require homologación.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

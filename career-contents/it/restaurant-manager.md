@@ -1,62 +1,96 @@
-# Restaurant Manager（Restaurant Manager）职业分析 · IT
+# Restaurant Manager — career analysis · Italy
 
-**职业代码：1412 – Restaurant Manager。**
+**Occupation code: 1412 (ISCO08)**
 
 Restaurant managers oversee daily operations, staff management, customer service, and profitability.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定年限 | —（无强制教育要求，但常见） |
-| 酒店管理或相关领域大专/本科 | 3年（大专）或3-4年（本科） | $3,000~$8,000（公立大学费用较低） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (No mandatory educational requirements, but common) |
+| associate/bachelor's degree in hotel management or related field | 3 years (diploma) or 3-4 years (bachelor's) | $3,000~$8,000 (Lower tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HACCP食品卫生认证 | 地方卫生局 | 必备 | 食品安全管理必需 |
-| 酒店管理文凭 | ALMA国际烹饪学校等 | 可选 | 提升竞争力 |
-| 酒类服务许可证 | 地方警察局 | 必备 | 供应酒精饮品所需 |
-| 消防与安全培训 | 民防部门 | 必备 | 部分大区强制 |
+| HACCP food hygiene certification | Local Health District | Required | Essential for food safety management |
+| Liquor Service License | Local police station | Required | Required for supply of alcoholic beverages |
+| Fire and Safety Training | Civil Protection Department | Required | Mandatory in some regions |
+| Hospitality management diploma | ALMA International Culinary School, etc. | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。意大利旅游业复苏推动餐饮业增长，预计2025年前岗位需求年均增长2%。南部地区季节性用工需求大。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 85,000. Recovery of Italy's tourism industry drives growth in the hospitality sector, with job demand expected to grow by 2% annually until 2025. Southern regions have high seasonal labor demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 小规模餐厅或南部地区 |
-| 中级（3-7年） | $28,000~$38,000 | 中档餐厅或北部城市 |
-| 高级（7年以上） | $38,000~$55,000 | 高档餐厅或连锁区域经理 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Small-scale restaurants or southern regions |
+| Mid-level (3–7 years) | $28,000~$38,000 | Mid-range restaurants or northern cities |
+| Senior (7+ years) | $38,000~$55,000 | High-end restaurant or regional manager for chain stores. |
+| average salary | $34,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从服务员或厨师晋升为餐厅经理，再升至区域经理或餐饮总监。大型连锁集团提供更清晰晋升通道。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of a restaurant manager has mixed prospects: administrative tasks like scheduling, inventory, and simple reports are easily automated by AI, but core responsibilities such as interpersonal coordination, crisis management, and personalized customer experience still rely heavily on human judgment.
+
+Can progress from server or chef to restaurant manager, then to regional manager or food and beverage director. Large chain groups offer clearer promotion pathways.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and personnel optimization (AI analyzes traffic flow, employee preferences)
+- Inventory counting and automatic replenishment (AI predicts demand and generates orders)
+- Basic customer complaint classification and automated responses (AI handling common issues)
+- Financial reports and sales report generation (AI auto-summarized data)
+
+**Where AI augments the role:**
+
+- AI monitors kitchen and service efficiency in real time, assisting managers in making quick decisions.
+- AI analyzes customer feedback and social media reviews to provide personalized service suggestions
+- AI-driven dynamic pricing and menu optimization to increase profits
+- AI training system simulates complex scenarios to accelerate management skill improvement
+- AI predicts equipment faults and safety risks, reducing sudden problems
+
+**Human moat:**
+
+- Handling customer complaints, employee disputes, and other complex interpersonal interactions requiring empathy and negotiation skills
+- Quick decision-making and on-site command in emergencies (e.g., fire, food poisoning)
+- Shape restaurant culture, motivate teams, foster employee loyalty
+- Intuitive judgment on unstructured factors such as local tastes and seasonal variations
+
+**Skills to build:**
+
+- Basic data analysis and AI tool usage (e.g., Power BI, forecasting software)
+- Digital marketing and social media management (attracting online customers)
+- Agile management and change leadership (adapting to technological iterations)
+- Advanced customer experience design (personalized service processes).
+- Cross-cultural communication and multilingual skills (adapting to diverse teams and clients)
+- Financial modeling and cost control (AI-assisted refined operations).
+
+**Key growth areas:**
 
 - Tourism recovery
 - Food service expansion
@@ -65,67 +99,69 @@ Restaurant managers oversee daily operations, staff management, customer service
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟季节性工人，年度配额，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历+高薪（≥年薪24,789欧元）的管理岗位。 |
-| Subclass 自雇工作签（Self-Employment Visa） | 需提交商业计划并满足最低投资要求，适合开设自有餐厅。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民无需签证，可自由在意大利工作。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers, annual quota, requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to management positions requiring higher education degree + high salary (≥ €24,789 per year). |
+| Subclass Self-Employed Work Permit (Self-Employment Visa) | Requires submission of a business plan and meeting minimum investment requirements, suitable for opening your own restaurant. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens do not need a visa and can work freely in Italy. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Restaurant Manager？**
-- 热爱餐饮行业，具备服务意识
-- 擅长团队管理和沟通
-- 能适应快节奏、高压工作环境
+**Who is suited**
+- Passion for the food and beverage industry, strong service awareness
+- Skilled in team management and communication
+- Able to adapt to fast-paced, high-pressure work environment
 
-**谁不适合学Restaurant Manager？**
-- 不擅长时间管理和多任务处理
-- 对餐饮行业无热情或兴趣
+**Who is not suited**
+- Poor time management and multitasking ability
+- No passion or interest in the hospitality industry
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a restaurant manager in Italy?**
+A: Annual salary approximately €22,000 to €55,000 depending on experience, higher in the north and fine dining restaurants.
+
+**Q: How can non-EU citizens become restaurant managers in Italy?**
+A: Available through Decreto Flussi quota work visa (seasonal) or EU Blue Card (high-salary management position). Self-employment visa requires business plan.
+
+**Q: What certifications are needed to become a restaurant manager?**
+A: HACCP food hygiene certification and liquor service license are legal requirements; a hotel management diploma aids career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Restaurant Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a restaurant manager in Italy?**
-答：Depending on experience, annual salary ranges from €22,000 to €55,000, higher in northern regions and fine dining.
-
-**问：How can a non-EU citizen become a restaurant manager in Italy?**
-答：Via Decreto Flussi quota work visa (seasonal) or EU Blue Card (high-salary management). Self-employment visa requires a business plan.
-
-**问：What certifications are needed to work as a restaurant manager?**
-答：HACCP food hygiene certification and alcohol service license are mandatory; a hospitality diploma enhances career prospects.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

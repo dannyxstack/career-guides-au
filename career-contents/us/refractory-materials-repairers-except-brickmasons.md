@@ -1,59 +1,92 @@
-# Refractory Materials Repairers, Except Brickmasons（Refractory Materials Repairers, Except Brickmasons）职业分析 · 美国
+# Refractory Materials Repairers, Except Brickmasons — career analysis · United States
 
-**职业代码：49-9045 – Refractory Materials Repairers, Except Brickmasons。**
+**Occupation code: 49-9045 (SOC)**
 
-Build or repair industrial furnaces, kilns, boilers, and other high-temperature equipment using refractory materials to ensure thermal insulation and structural integrity.
+Build or repair industrial furnaces, boilers, and other high-temperature equipment using refractory materials, ensuring thermal insulation and structural integrity.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒制 | 4年 | —（在职培训，通常免学费） |
+| High school diploma | 4 years | $0~$5,000 (Public high schools are free) |
+| Apprenticeship | 4 years | $0~$0 (On-the-job training, usually tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒结业证书 | 美国劳工部或州学徒委员会 | 可选 | 完成4年学徒计划后可获得 |
+| Apprenticeship completion certificate | US Department of Labor or State Apprenticeship Council | Optional | Obtainable after completing a 4-year apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,600。美国制造业和能源行业对耐火材料修理工的需求稳定，但就业增长缓慢，预计2022-2032年岗位数量基本持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,600. Demand for refractory materials repairers is stable in US manufacturing and energy sectors, but job growth is slow; employment is projected to remain roughly flat from 2022 to 2032.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 起薪较低 |
-| 中级（4-9年） | $48,000~$60,000 | 中等经验薪资 |
-| 高级（10年以上） | $60,000~$75,000 | 资深工人口薪 |
+| Median salary | $61,290 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Low starting salary |
+| Intermediate (4-9 years) | $48,000~$60,000 | Mid-level experience salary |
+| Senior (10+ years) | $60,000~$75,000 | Senior tradesperson hourly wage |
+| average salary | $63,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒或助手做起，积累经验后可晋升为高级修理工或领班，少数人可转入质量控制或生产管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has moderate impact on refractory repair workers: some inspection and monitoring tasks can be automated, but manual patching and structural judgment in high-temperature environments still require humans; jobs won't disappear but tasks will adjust.
+
+Typically start as apprentices or assistants, and can progress to senior repairer or foreman with experience; a few may transition into quality control or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Regularly use infrared thermography for automatic inspection of furnace lining defects
+- Predict refractory material wear cycles based on historical data and generate maintenance plans
+- Automatically measuring crack dimensions and recording files using visual AI
+- Auto-populate maintenance logs and material consumption reports
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: accurately locating lining damage using thermal imaging and acoustic sensor data.
+- Digital twin simulation: simulate the impact of repair plans on furnace structure to optimize construction sequence
+- Material mix recommendation: AI suggests optimal refractory formulations based on furnace chemical environment
+- Remote expert guidance: AR glasses overlay AI markers to guide key repair points
+
+**Human moat:**
+
+- Fine manual patching and compaction in high-temperature, dusty environments.
+- Assess the repairability of non-standard damage (e.g., cracks in irregular furnace corners)
+- Adjust repair strategy based on historical furnace maintenance records and operational changes
+- On-site adaptability and safety judgment for high-altitude and confined space work
+
+**Skills to build:**
+
+- Operate thermal imaging cameras and AI diagnostic systems
+- Read digital twin simulation reports and adjust construction plans
+- Basic data analysis and maintenance data management
+- Use of AR-assisted maintenance equipment
+- Basic knowledge of refractory material chemical properties
+- Safety awareness in AI collaboration
+
+**Key growth areas:**
 
 - Manufacturing
 - Energy
@@ -62,59 +95,67 @@ Build or repair industrial furnaces, kilns, boilers, and other high-temperature 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职业要求，雇主担保困难。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要PERM劳工证，但雇主较少支持此类岗位移民。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet specialty occupation requirements; employer sponsorship is difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires a PERM labor certification, but employers rarely support immigration for such roles. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Refractory Materials Repairers, Except Brickmasons？**
-- 喜欢动手操作、不怕高温环境的人
-- 追求稳定工作而非高薪的人
-- 愿意接受多年在职培训的人
+**Who is suited**
+- People who enjoy hands-on work and are not afraid of high temperatures
+- People seeking stable work rather than high pay
+- People willing to undergo years of on-the-job training
 
-**谁不适合学Refractory Materials Repairers, Except Brickmasons？**
-- 不擅长体力劳动或高温工作的人
-- 期望快速晋升或移民美国的人
+**Who is not suited**
+- People not suited for manual labour or high-heat work
+- People expecting rapid promotion or immigrating to the US
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for refractory material repairers?**
+A: Entry-level annual salary approx. USD 38,000–48,000, senior roles can reach USD 60,000–75,000, generally low among US blue-collar jobs.
+
+**Q: Are refractory material repairers eligible for immigration to the U.S.?**
+A: Very difficult. This occupation is not a professional occupation; H-1B visa is generally not applicable; although EB-3 green card is theoretically possible, employers rarely support it.
+
+**Q: How to become a refractory material repairer?**
+A: Typically involves a 4-year apprenticeship combining on-the-job training and technical courses, no university degree required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Refractory Materials Repairers, Except Brickmasons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for refractory materials repairers?**
-答：Entry-level positions pay about $38,000-$48,000 per year, while senior workers can earn $60,000-$75,000, relatively low among U.S. blue-collar jobs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

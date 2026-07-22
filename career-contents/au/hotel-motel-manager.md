@@ -1,163 +1,189 @@
-# 酒店经理（Hotel or Motel Manager）职业分析 · 澳大利亚
+# Hotel / Motel Manager — career analysis · Australia
 
-**职业代码：141311 – Hotel or Motel Manager。**
+**Occupation code: 141311 (ANZSCO)**
 
-酒店经理负责酒店/汽车旅馆的整体运营管理，包括前台、客房、餐饮、销售、人员和财务管理。澳洲旅游业强劲复苏（入境和国内旅游创历史新高）推动酒店行业持续扩张，有酒店管理经验的专业人员长期短缺。五星酒店、精品度假村和大型会议酒店的酒店经理薪资溢价显著。
+Hotel managers oversee the overall operations of hotels and motels, including front desk, housekeeping, food and beverage, sales, staffing, and financial management. Australia's tourism industry has staged a strong recovery (inbound and domestic tourism at record highs), driving continued expansion in the hotel sector and a sustained shortage of experienced hospitality professionals. Salary premiums are significant for hotel managers at five-star hotels, boutique resorts, and large conference venues.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Hotel Management / Hospitality Management（3年） | 3年（全日制） | $25,000~$130,000（William Angliss、Blue Mountains International Hotel Management School等；国际生约 $28,000~$40,000/年） |
-| Diploma of Hospitality Management（SIT50422，1.5~2年） | 18~24个月 | $5,000~$30,000（TAFE或私立学院酒店管理文凭，是多数酒店经理的实际资质路径） |
-| 酒店管理实习经验（Internship/Industry Placement） | 6~12个月实习 | —（大型酒店集团（Accor/Marriott/IHG）的管理培训项目是晋升快速通道） |
-| Vetassess 技能评估 | 3~6个月 | $500~$1,500（技术移民路径必须的技能评估机构） |
+| Bachelor of Hotel Management / Hospitality Management (3 years) | 3 years (full-time) | $25,000~$130,000 (William Angliss, Blue Mountains International Hotel Management School and others; international students approx. $28,000–$40,000 per year) |
+| Diploma of Hospitality Management (SIT50422, 1.5–2 years) | 18–24 months | $5,000~$30,000 (TAFE or private college hospitality management diploma — the practical qualification pathway for most hotel managers) |
+| Hotel management internship experience (Internship/Industry Placement) | 6–12 month internship | $0~$0 (Management trainee programmes at major hotel groups (Accor/Marriott/IHG) are a fast track to promotion) |
+| Vetassess skills assessment | 3–6 months | $500~$1,500 (Skills assessment body required for skilled migration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Diploma/Bachelor of Hospitality Management | 认可的酒店管理院校 | 可选 | 技术移民评估的基础学历要求 |
-| Food Safety Supervisor Certificate | 各州认可机构 | 必备 | 酒店餐饮运营的法律要求 |
-| RSA（Responsible Service of Alcohol） | 各州认可机构 | 必备 | 酒店提供酒精服务的法律要求 |
-| Vetassess 技能评估（ANZSCO 141311） | Vetassess | 可选 | 189/190/491技术移民必须的评估 |
+| Food Safety Supervisor Certificate | State-recognised assessment bodies | Required | Legal requirements for hotel and food service operations |
+| RSA（Responsible Service of Alcohol） | State-recognised assessment bodies | Required | Legal requirements for serving alcohol at licensed venues |
+| Diploma/Bachelor of Hospitality Management | Recognised hospitality management institutions | Optional | Minimum academic qualification required for skilled migration assessment |
+| Vetassess skills assessment (ANZSCO 141311) | Vetassess | Optional | Mandatory assessment for 189/190/491 skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 35,000。JSA预测酒店经理就业至2030年增长约8%。澳洲入境旅游恢复、国内旅游旺盛和亚太地区商务旅游增长是主要驱动力。精品酒店和可持续度假村方向是增速最快的细分市场。
+**Job demand: very high (★★★★★).** National workforce approx. 35,000. JSA forecasts employment growth for hotel managers of approximately 8% by 2030. Recovery in inbound tourism, strong domestic travel, and growth in Asia-Pacific business travel are the main drivers. Boutique hotels and sustainable resorts are the fastest-growing segments.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~2,500 个 | 全国，含酒店总经理/副总经理/客房经理/前台经理岗 |
-| Indeed | 600~2,000 个 | 含国际酒店集团和独立酒店管理岗 |
-| LinkedIn | 1,000~3,000 个 | Accor/Marriott/IHG等国际酒店集团直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 助理酒店经理（0~3年） | $65,000~$82,000 | 前台经理或部门主管起薪 |
-| 酒店经理（3~10年） | $80,000~$105,000 | SEEK 区间 $80k~$100k；Indeed 均值 $88,343；Glassdoor 均值 $95,800（2026） |
-| 资深酒店总经理（10~18年） | $105,000~$160,000 | 四/五星级酒店总经理；住宿经理均值 $84,195（Indeed 2026） |
-| 区域总监 / 集团高管（15年+） | $150,000~$350,000 | Accor/Marriott/Hilton区域总监或集团高管薪资区间 |
+| Median salary | $95,004 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Assistant hotel manager (0–3 years) | $65,000~$82,000 | Starting salary for front office manager or department supervisor |
+| Hotel Manager (3–10 years) | $80,000~$105,000 | Seek range $80k–$100k; Indeed average $88,343; Glassdoor average $95,800 (2026) |
+| Senior Hotel General Manager (10–18 years) | $105,000~$160,000 | Four/five-star hotel general manager; accommodation manager average $84,195 (Indeed 2026) |
+| Regional Director / Senior Executive (15+ years) | $150,000~$350,000 | Regional Director or Group Executive salary range at Accor/Marriott/Hilton |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 澳洲旅游业（2026年产值约 $770亿）全面复苏，国际游客人数超越COVID前水平。酒店数字化转型（OTA管理/PMS系统/动态定价）成为行业标配，有酒店科技运营能力的经理人需求特别旺盛。高端住宿市场（精品酒店/豪华度假村）增速超过标准商务酒店。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
 
-- 精品酒店和生态度假村管理
-- 高端旅游目的地酒店
-- 商务会议酒店（MICE市场）
-- 数字化酒店运营（PMS/OTA管理）
-- 可持续酒店管理（绿色认证）
+Australia's tourism industry (projected value approx. $77 billion in 2026) has fully recovered, with international visitor numbers surpassing pre-COVID levels. Digital transformation in hospitality (OTA management/PMS systems/dynamic pricing) has become industry standard, and managers with hotel technology and operations capabilities are in particularly high demand. The premium accommodation market (boutique hotels/luxury resorts) is growing faster than standard business hotels.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
+
+- Boutique Hotel & Eco-Resort Management
+- High-End Destination Hotel
+- Business Conference Hotels (MICE Market)
+- Digital Hotel Operations (PMS/OTA Management)
+- Sustainable Hospitality Management (Green Certification)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，大型酒店集团和度假村最常见路径 |
-| Subclass 186（ENS） | 雇主担保永居，国际酒店集团担保路径成熟 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，Vetassess评估 |
-| Subclass 190（Skilled Nominated） | 州提名，旅游重点州（QLD/SA/TAS/NT）积极提名 |
-| Subclass 491（Skilled Work Regional） | 偏远度假村和旅游区酒店极度紧缺，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, most commonly through large hotel groups and resort operators |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; sponsorship pathways through international hotel groups are well established |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; listed on MLTSSL; Vetassess assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, with tourism-focused states (QLD/SA/TAS/NT) actively nominating |
+| Subclass 491 (Skilled Work Regional) | Remote resorts and tourist areas face extreme hotel staff shortages, +15 points |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学酒店经理？**
-- 持有酒店/hospitality管理学位或文凭，有3年以上酒店管理工作经验
-- 有国际酒店集团（Accor/Marriott/IHG/Hilton等）工作背景，英语沟通能力强
-- 熟悉PMS酒店管理系统（Opera/RMS/Maestro等）和OTA渠道管理
-- 有在旅游重点目的地（昆士兰/NT/SA/TAS）任职意愿
-- 已有澳洲酒店集团的担保意向或在同一集团内的内部调动机会
-
-**谁不适合学酒店经理？**
-- 无正规酒店管理学历或文凭（仅有服务员/前台工作经验）
-- 英语沟通能力不足以担任管理者和处理高端客户需求
-- 不接受包含周末和节假日的不规律管理工作
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a hotel/hospitality management degree or diploma with 3+ years of hotel management experience
+- Background with international hotel groups (Accor/Marriott/IHG/Hilton etc.) and strong English communication skills
+- Familiarity with PMS hotel management systems (Opera/RMS/Maestro, etc.) and OTA channel management
+- Willing to work in key tourism destinations (Queensland/NT/SA/TAS)
+- Have a letter of intent for sponsorship from an Australian hotel group or an internal transfer opportunity within the same group
+
+**Who is not suited**
+- No formal hospitality management degree or diploma (only waiter/front desk work experience)
+- Insufficient English communication skills to take on management roles or handle high-end client needs
+- Does not accept irregular management work including weekends and holidays.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a hotel manager in Australia?**
+A: Hotel Manager approx. $80,000–$105,000 (SEEK $80k–$100k; Indeed $88,343; Glassdoor $95,800); Senior four/five-star Hotel General Manager approx. $105k–$160k; Regional Director/Group Executive approx. $150k–$350k.
+
+**Q: Is it easy to find work as a hotel manager in Australia?**
+A: Easy. MLTSSL shortage occupation, with the full recovery of the tourism industry driving strong demand; SEEK lists approximately 800–2,500 positions. Managers with international hotel group experience are highly competitive, and hotel managers are in extreme shortage at remote tourism destinations (Cairns / Northern Territory / Tasmania).
+
+**Q: Is Chinese hotel management experience recognised in Australia?**
+A: Work experience at major international hotel groups operating in China (such as Jinjiang, Huazhu, or IHG) can be recognised through a Vetassess skills assessment. Internal transfers within the same international group (e.g. Accor or Marriott) tend to be the most straightforward pathway. English proficiency is the main challenge (IELTS 6.0+), and experience with PMS systems such as Opera is advantageous.
+
+**Q: Will hotel managers be replaced by AI?**
+A: No. AI optimises dynamic pricing, booking management and energy efficiency, but hotel crisis management (guest complaints/facility failures), team leadership and high-end client relationship management are core managerial responsibilities that AI cannot replace.
+
+**Q: Is there an age limit for hotel managers in Australia?**
+A: None. Managers with extensive international hotel management experience aged 40–55 are highly sought after in Australia, particularly those with five-star hotel general manager experience. Maturity and stability are strong advantages for senior hospitality management roles.
+
+**Q: What qualifications does a hotel manager need in Australia?**
+A: Large international hotel groups typically require a bachelor's degree or diploma in hotel management; however, candidates with 10+ years of general manager experience can qualify through Recognition of Prior Learning even with a lower level of formal education. Qualifications from William Angliss and Blue Mountains Hotel Management School are highly recognised within the Australian industry.
+
+**Q: Is it difficult to obtain an Australian hotel manager qualification for migration purposes?**
+A: Relatively straightforward. Listed on MLTSSL, the Vetassess assessment pathway is clear, and 482 employer sponsorship is very active (particularly with international hotel groups). Tourism-focused states such as Queensland, the Northern Territory and Tasmania actively nominate hotel management professionals. The 491 pathway through regional tourism resorts is the most accessible.
+
+**Q: Which has better career prospects in Australia — hotel manager or restaurant manager?**
+A: Hotel managers earn higher salaries ($80k–$105k vs restaurant managers at $72k–$92k) with broader career progression (regional director/group executive); restaurant manager roles are more numerous (far more restaurants than hotels across Australia), making employer sponsorship easier to obtain. Those with an international hotel group background should choose hotel manager; those with food and beverage operations experience should choose restaurant manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 酒店经理薪资 $80k~$100k（2026） |
-| Indeed AU | 酒店经理平均薪资 $88,343（2026） |
-| Glassdoor AU | 酒店经理平均薪资 $95,800（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-酒店经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲酒店经理工资多少？**
-答：酒店经理约 $80,000~$105,000（SEEK $80k~$100k；Indeed $88,343；Glassdoor $95,800）；资深四/五星酒店总经理约 $105k~$160k；区域总监/集团高管约 $150k~$350k。
-
-**问：澳洲酒店经理容易找工作吗？**
-答：容易。MLTSSL短缺职业，旅游业全面复苏推动旺盛需求，SEEK 挂牌约 800~2,500 个职位。有国际酒店集团经验的经理人竞争力极强，偏远旅游目的地（凯恩斯/北领地/塔斯马尼亚）酒店经理极度紧缺。
-
-**问：中国酒店管理经验澳洲认可吗？**
-答：通过Vetassess技能评估，中国国际酒店集团（锦江/华住/洲际等）工作经验可以认可。有同一国际集团（如Accor/Marriott）内部调动机会最为顺畅。英语能力是主要挑战（IELTS 6.0+），PMS系统操作经验（Opera等）有加分。
-
-**问：酒店经理会被AI替代吗？**
-答：不会。AI优化动态定价、预订管理和能源效率，但酒店危机管理（客户投诉/设施故障）、团队领导和高端客户关系管理是AI无法替代的核心管理职责。
-
-**问：澳洲酒店经理有年龄限制吗？**
-答：无。有丰富国际酒店管理经验的中高年龄经理人（40~55岁）在澳洲非常受欢迎，特别是有五星酒店总经理经验者。成熟稳重是高端酒店管理岗位的优势。
-
-**问：澳洲酒店经理需要什么学历？**
-答：大型国际酒店集团通常要求酒店管理本科或文凭；但有10年以上总经理经验的候选人即使学历偏低也可以通过经验评估（Recognition of Prior Learning）。William Angliss和Blue Mountains酒店管理学院毕业证书在澳洲行业内认知度高。
-
-**问：澳洲酒店经理认证（移民）难吗？**
-答：难度较低。MLTSSL在列，Vetassess评估路径清晰，雇主担保482非常活跃（特别是国际酒店集团）。昆士兰、北领地和塔斯马尼亚等旅游重点州积极提名酒店管理人员。偏远旅游度假区491路径最容易。
-
-**问：酒店经理和餐厅经理哪个澳洲发展更好？**
-答：酒店经理薪资更高（$80k~$105k vs 餐厅经理 $72k~$92k），职业发展路径更宽广（区域总监/集团高管）；餐厅经理岗位数量更多（全澳餐厅数量远多于酒店），雇主担保更容易获得。有国际酒店集团背景者选酒店经理；有餐饮运营背景者选餐厅经理。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

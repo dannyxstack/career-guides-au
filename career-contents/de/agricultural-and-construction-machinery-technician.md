@@ -1,58 +1,90 @@
-# Agricultural and Construction Machinery Technician（Agricultural and Construction Machinery Technician）职业分析 · DE
+# Agricultural and Construction Machinery Technician — career analysis · Germany
 
-**职业代码：2522 – Agricultural and Construction Machinery Technician。**
+**Occupation code: 2522 (KldB)**
 
-This profession involves maintaining, repairing, and diagnosing agricultural and construction machinery such as tractors and excavators. Tasks include troubleshooting, repairs, and regular servicing, ensuring equipment reliability in farming and construction.
+This occupation involves maintenance, repair, and technical diagnostics of agricultural and construction machinery, ensuring reliable operation of tractors, excavators, etc. Tasks include troubleshooting, repair, and regular maintenance, serving as a key support for mechanized agriculture and construction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3.5年 | —（培训期间有工资，通常无需学费） |
-| 进修大师课程 | 1年（全日制）或兼职 | $3,000~$10,000（视课程和地区而定） |
+| Dual system training | 3.5 years | $0~$0 (Paid during training, usually no tuition fees) |
+| Advanced master course | 1 year (full-time) or part-time | $3,000~$10,000 (Depends on the course and region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业与建筑机械技术员资质 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 大师（Meister）资格 | 德国工商会（IHK） | 可选 | 可提升管理能力，允许独立经营 |
+| Agricultural and construction machinery technician qualification | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Master (Meister) qualification | German Chamber of Commerce and Industry (IHK) | Optional | Enhances management skills, allows independent operation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。德国农业与建筑机械行业稳定发展，技术工人持续短缺。数字化转型（如GPS、物联网）对维修技术提出新需求，同时老旧设备替换需求大，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Germany's agriculture and construction machinery industry is developing steadily with a persistent shortage of skilled workers. Digital transformation (e.g., GPS, IoT) creates new demands for maintenance technology, while old equipment replacement needs are high, leading to good employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，东欧较低 |
-| 中级（3-8年） | $35,000~$45,000 | 税前年薪 |
-| 高级（8年以上或大师） | $45,000~$55,000 | 税前年薪，含奖金 |
+| Median salary | $45,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, lower in Eastern Europe |
+| Mid-level (3–8 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years or master) | $45,000~$55,000 | Annual pre-tax salary, including bonuses |
+| average salary | $52,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 学徒完成后可晋升为工头或技术主管，也可通过进修成为机械工程技师（Meister）或技术员。部分人员转向销售或培训岗位，或开设自己的维修店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Heavy equipment operator roles face mixed impacts from AI/automation: automated transport, loading, and basic digging tasks are at high risk of replacement, but AI-enhanced remote operation, predictive maintenance, and precision work significantly improve efficiency and safety.
+
+After apprenticeship, can advance to foreman or technical supervisor, or become a master mechanic (Meister) or technician through further study. Some move to sales or training roles, or open their own repair shops.
+
+**Tasks most exposed to AI:**
+
+- Daily equipment checks and simple maintenance log entries (replaced by AI auto-monitoring)
+- Repetitive earthmoving path planning (algorithm optimized automatically)
+- Basic digging/loading cycle operations (automated construction system takes over)
+- On-site traffic coordination and signal confirmation (replaced by AI vision and communication systems)
+
+**Where AI augments the role:**
+
+- AI-assisted remote control operation (improves safety in hazardous environments)
+- Real-time data feedback optimizes equipment posture and fuel consumption (reducing operational costs)
+- Predictive maintenance alerts reduce unplanned downtime (AI analyzes sensor data)
+- AR/VR training simulators accelerate novice proficiency (reduce training risk)
+
+**Human moat:**
+
+- Unstructured work decision-making in complex terrain (e.g., soft soil, steep slopes)
+- On-site emergency judgment and manual handling of sudden mechanical failures.
+- Scheduling and communication responsibilities for multi-device coordinated construction.
+- Human oversight for safety monitoring and accident prevention
+
+**Skills to build:**
+
+- UAV/remote operation center operation certification
+- Basic programming and IoT device debugging
+- Use of data analysis and fault diagnosis software
+- GIS and construction simulation software
+- Cross-Trade Collaboration Communication & Project Management Basics
+
+**Key growth areas:**
 
 - Digitalization
 - Electrification
@@ -61,68 +93,67 @@ This profession involves maintaining, repairing, and diagnosing agricultural and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历技术人员，若年薪达到门槛（2024年约43,800欧元）可申请。 |
-| Subclass Skilled Worker（Skilled Worker Visa for Qualified Professionals） | 适用于具有德国认可的职业资格（如双元制培训）的技术工人。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制度，允许求职者进入德国寻找工作或培训机会。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated technical personnel; if the annual salary reaches the threshold (about €43,800 in 2024), they can apply. |
+| Subclass Skilled Worker (Skilled Worker Visa for Qualified Professionals) | Applicable to skilled workers with German-recognized vocational qualifications (e.g., dual system training). |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, allows job seekers to enter Germany to look for work or training opportunities. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Construction Machinery Technician？**
-- 喜欢动手维修与机械的人
-- 愿意接受户外工作环境
-- 对农业或建筑行业感兴趣
-
-**谁不适合学Agricultural and Construction Machinery Technician？**
-- 不喜欢体力劳动或户外工作
-- 不愿持续学习新技术
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repair and mechanical work
+- Willing to work in outdoor environments
+- Interest in agriculture or construction industry
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Unwilling to continuously learn new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Germany?**
+A: Entry-level annual salary is about 28,000-35,000 EUR, experienced technicians can earn over 45,000 EUR, and master level can exceed 55,000 EUR.
+
+**Q: How can foreign skilled workers immigrate to Germany for this occupation?**
+A: Must complete recognized training in Germany or have relevant work experience and pass qualification certification. Can apply for a Skilled Worker Visa or EU Blue Card.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can be promoted to foreman or technical supervisor, or become an independent operator by passing the master exam, or transition to sales or training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Agricultural and Construction Machinery Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this profession in Germany?**
-答：Entry-level salary is around €28,000-€35,000 per year, experienced technicians can earn up to €45,000, and master craftsmen over €55,000.
-
-**问：How can foreign skilled workers migrate to Germany for this profession?**
-答：They need a recognized qualification or relevant work experience, pass credential assessment, and can apply for a Skilled Worker Visa or EU Blue Card.
-
-**问：Are there promotion opportunities in this profession?**
-答：Yes, you can become a foreman, technical supervisor, or pass the master exam to run your own business, or move into sales or training.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

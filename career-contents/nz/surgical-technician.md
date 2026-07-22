@@ -1,59 +1,93 @@
-# Surgical Technician（Surgical Technician）职业分析 · 新西兰
+# Surgical Technician — career analysis · New Zealand
 
-**职业代码：411211 – Surgical Technician。**
+**Occupation code: 411211 (ANZSCO)**
 
-Surgical technicians are essential members of the surgical team, preparing instruments, assisting surgeons, and maintaining sterile environments. The occupation has steady demand in New Zealand, with migration pathways via Green List or Skilled Migrant Category, though registration is required.
+Surgical technicians are key members of the surgical team, preparing instruments, assisting doctors, and maintaining sterile environments. In New Zealand, demand is stable; they can settle via Green List or skilled migration but must obtain registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰手术室技术文凭 | 2年 | $20,000~$30,000（公立理工院校学费，国际生约每年2-3万NZD） |
-| 海外学历评估+转换课程 | 1年 | $15,000~$25,000（需经新西兰医学科学委员会评估，补修课程） |
+| New Zealand Diploma in Operating Theatre Technology | 2 years | $20,000~$30,000 (Public polytechnic tuition fees, international students approx. NZD 20,000-30,000 per year) |
+| Overseas qualification assessment + bridging courses | 1 year | $15,000~$25,000 (Requires assessment by the New Zealand Medical Sciences Council, and supplementary courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰手术室技术国家文凭 | 新西兰医学科学委员会 | 必备 | 执业必需，需完成认证课程 |
-| CPC证书（无菌技术） | NZQA认可培训提供方 | 可选 | 部分雇主要求 |
-| 英语考试（IELTS 7.0） | IELTS | 必备 | 注册要求，各单项不低于7.0 |
+| New Zealand National Diploma in Operating Theatre Practice | Medical Sciences Council of New Zealand | Required | Mandatory for practice; requires completion of accredited courses |
+| English test (IELTS 7.0). | IELTS | Required | Registration requirement: no band less than 7.0 |
+| CPC certificate (aseptic technique) | NZQA-recognised training provider | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 950。新西兰医疗系统持续扩张，老龄化人口推升手术需求，预计手术室技师岗位在未来5年保持增长。就业机会集中在公立医院和私立手术中心，但入职竞争中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 950. New Zealand's healthcare system continues to expand, with an aging population driving surgical demand; surgical technician positions are expected to grow over the next 5 years. Job opportunities are concentrated in public hospitals and private surgical centers, with moderate competition for entry.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 公立医院起薪约5.5-6万NZD |
-| 中级（3-6年） | $65,000~$78,000 | 含薪资上涨和专科津贴 |
-| 高级（6年以上） | $78,000~$95,000 | 高级技师或主管可达9万以上 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Starting salary in public hospitals about NZ$55,000-$60,000 |
+| Mid-level (3–6 years) | $65,000~$78,000 | Includes salary increases and specialist allowances |
+| Senior (6+ years) | $78,000~$95,000 | Senior technicians or supervisors can earn over AUD 90,000 |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级技师可积累经验后专攻心脏、骨科等专科手术，或晋升为高级技师、团队负责人。部分人转向医疗设备销售或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
+
+Junior technicians can gain experience and specialize in cardiac, orthopedic, or other surgical specialties, or advance to senior technician or team leader. Some transition to medical device sales or training roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic counting and verification of surgical instruments
+- Basic real-time recording and data entry during surgical procedures
+- Automated disinfection and preparation processes for some routine surgical instruments
+- Image-based automatic identification and tracking of instruments and consumables
+
+**Where AI augments the role:**
+
+- AI-assisted surgical navigation and precise positioning, enabling technicians to adjust equipment faster
+- Smart instrument management system providing real-time inventory and usage recommendations
+- AR/VR simulation training to improve technicians' efficiency in preparing for complex surgeries
+- AI analysis of surgical workflow data to optimise instrument layout and transfer routes
+
+**Human moat:**
+
+- Maintenance and management of sterile environment during surgery
+- Real-time understanding and precise response to doctor's orders
+- Manual operation and emergency handling of complex instruments
+- Team collaboration and non-verbal communication in operating rooms
+- Clinical judgment and safety control in patient positioning
+
+**Skills to build:**
+
+- Operation of digital systems for surgical instrument management and counting
+- Basic Python or SQL for surgical data report analysis
+- Basic use of AI-assisted surgical navigation systems (e.g., Medtronic StealthStation)
+- Evidence-based medicine knowledge updates, understanding the rationale behind AI recommendations
+- Cross-disciplinary communication and agile team collaboration skills
+- Smart monitoring tools with IoT sensors in aseptic techniques
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Surgical technicians are essential members of the surgical team, preparing instr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 工作2年后可申请居留，需获得认证雇主offer并满足薪资要求 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，注册职业加学历或工作经验可获积分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需经劳动力市场测试，雇主需为认证雇主 |
+| Subclass Green List T2 (Green List Work to Residence) | May apply for residence after 2 years of work, must have accredited employer offer and meet salary requirements |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation plus qualification or work experience can earn points |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a labour market test; employer must be a certified employer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Surgical Technician？**
-- 细心、抗压能力强
-- 对手术室工作有热情，能适应倒班
-- 具备良好手眼协调和团队协作能力
-
-**谁不适合学Surgical Technician？**
-- 晕血或对医疗环境严重不适
-- 无法接受高强度节奏和随时待命的工作方式
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and strong stress tolerance
+- Passionate about operating room work, able to adapt to shift work
+- Good hand-eye coordination and teamwork skills
+
+**Who is not suited**
+- Cannot stand blood or severely uncomfortable in medical settings
+- Unable to accept high-intensity pace and on-call working style
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a surgical technologist in New Zealand?**
+A: Depending on experience, junior approx. NZD 55,000-65,000, intermediate NZD 65,000-78,000, senior up to NZD 95,000+.
+
+**Q: Can this occupation settle in New Zealand through skilled migration?**
+A: Yes, this occupation is on the Green List Tier 2; after 2 years of work you can apply for residency; it also meets the Skilled Migrant Category (SMC) requirements. You need to first obtain registration and a job offer from an accredited employer.
+
+**Q: Which overseas operating theatre technician qualifications are recognised in New Zealand?**
+A: Must have overseas qualifications assessed by the Medical Sciences Council of New Zealand (MSCNZ), may need to take additional courses or exams. Contact MSCNZ to confirm.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Surgical Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for surgical technicians in New Zealand?**
-答：Entry-level: NZD 55,000-65,000; mid-level: NZD 65,000-78,000; senior: up to NZD 95,000+.
-
-**问：Can this occupation lead to settlement via skilled migration?**
-答：Yes, it's on Green List Tier 2 (work for 2 years then residence) and eligible for SMC. Requires registration and accredited employer offer.
-
-**问：Which overseas surgical technician qualifications are recognized in New Zealand?**
-答：Overseas qualifications must be assessed by the Medical Sciences Council of New Zealand (MSCNZ); bridging courses or exams may be required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

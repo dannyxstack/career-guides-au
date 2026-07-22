@@ -1,61 +1,96 @@
-# Plumber（Plumber）职业分析 · ES
+# Plumber — career analysis · Spain
 
-**职业代码：7221 – Plumber。**
+**Occupation code: 7221 (CNO)**
 
-Plumbers install, repair, and maintain water supply, drainage, heating, and gas systems in residential, commercial, and industrial buildings.
+Plumbers are responsible for installing, repairing, and maintaining water supply, drainage, heating, and gas systems, involving residential, commercial, and industrial buildings.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio | 2年 | —（公立学校免费或低学费） |
-| FP Grado Superior | 2年 | —（可在中级后继续深造） |
+| FP Grado Medio | 2 years | $0~$3,000 (Public schools offer free or low tuition) |
+| FP Grado Superior | 2 years | $0~$4,000 (You can continue your studies after the intermediate level) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio en Fontanería | 教育部/自治区 | 可选 | 主流入门资格 |
-| 学历认证 (Homologación) | 西班牙教育部 | 必备 | 外国资质需认证 |
-| 水安装专项认证 (RITE/RAE) | 工业部/自治区 | 必备 | 燃气和水安装必须 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign qualifications must be certified |
+| Water Installation Specialized Certification (RITE/RAE) | Ministry of Industry/Autonomous Region | Required | Gas and water installations are required |
+| FP Grado Medio en Fontanería | Ministry of Education/Autonomous Region | Optional | Mainstream entry-level qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 180,000。西班牙建筑和翻新市场持续增长，加上老旧基础设施更新需求，管道工就业前景稳定。可再生能源（如太阳能热水系统）安装也带来新机会。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. The Spanish construction and renovation market continues to grow, and with the demand for upgrading aging infrastructure, plumber employment prospects remain stable. Installing renewable energy (such as solar water heating systems) also brings new opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒/雇员 |
-| 中级（3-8年） | $26,000~$35,000 | 熟练工 |
-| 高级（8年以上） | $35,000~$50,000 | 工头/自雇 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | Apprentices/employees |
+| Mid-level (3–8 years) | $26,000~$35,000 | Skilled worker |
+| Senior (8+ years) | $35,000~$50,000 | Foreman/self-employed |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从学徒或FP中级起步，积累经验后可升为工头或自雇承包商。进一步学习可转向项目管理或建筑公司技术主管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks for plumbers (diagnosis, manual operations) are not easily replaced by AI, but AI tools can greatly enhance troubleshooting and maintenance efficiency; At the same time, intelligent systems may compress some initial installation and documentation tasks, resulting in mixed outcomes.
+
+Starting as an apprentice or intermediate FP, you can gain experience and be promoted to foreman or self-employed contractor. Further studies can be directed toward project management or technical supervisors at construction companies.
+
+**Tasks most exposed to AI:**
+
+- The intelligent diagnostic system automatically analyzes the causes of pipeline blockages or leaks, reducing manual inspection steps
+- AI generates standardized maintenance reports and bills of materials, replacing manual paperwork
+- Automatically generates pipeline wiring diagrams and material calculations according to specifications, replacing primary design tasks
+- The chatbot handles common pipeline inquiries and replaces some phone and front desk inquiries
+
+**Where AI augments the role:**
+
+- AR glasses are integrated with the internal structure of the pipeline, providing real-time guidance for maintenance operations
+- AI predictive maintenance analyzes water usage data to provide early warnings of potential leaks
+- The intelligent drilling robot plans precise holes according to AI paths, reducing errors
+- Digital twin model simulation renovation plan optimizes pipeline layout
+- The AI quotation system automatically generates precise labor hours and material estimates based on parameters
+
+**Human moat:**
+
+- Delicate manual docking and welding of pipelines in complex and confined spaces
+- On-site assessment of non-standard fault causes and development of creative repair plans
+- Trust relationships established through communication and coordination with owners, property management, supervision, and other parties
+- Responsibility and commitment to rapid decision-making based on experience during emergency repairs
+- The ability to comply with health and safety regulations and respond to unexpected construction risks
+
+**Skills to build:**
+
+- Learn to use AR-assisted repair equipment and smart diagnostic devices
+- Master the Building Information Modeling (BIM) pipeline design and maintenance module
+- Learn to operate intelligent tools such as pipeline inspection robots and endoscopes
+- Basic data analysis skills: interpreting water and pressure sensor data
+- Understand the integration of automatic water valves and monitoring systems in smart homes/buildings
+- Enhance communication and project management skills, and adapt to technical collaboration roles
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -64,69 +99,68 @@ Plumbers install, repair, and maintain water supply, drainage, heating, and gas 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 受雇工作居留，需雇主担保，适用于有西班牙公司聘用的情况。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，对高技能要求，管道工通常不符合，雇主可尝试但难度大。 |
-| Subclass Busqueda empleo（Job Search Visa） | 找工作签证，允许在西班牙居留6个月寻找工作，找到后可转工作居留。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employed work residence requires employer sponsorship, applicable to cases where a Spanish company employs you. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires high skill levels; plumbers usually do not meet the requirements; employers can try it but it is challenging. |
+| Subclass Busqueda empleo (Job Search Visa) | The work-finding visa allows you to stay in Spain for 6 months to look for work, and after finding one, you can switch to work-based residence. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumber？**
-- 动手能力强、喜欢实际操作的人
-- 愿意接受体力工作、能适应户外和工地环境
-- 寻求稳定就业和自雇机会的人
-
-**谁不适合学Plumber？**
-- 不愿从事体力劳动或脏活累活的人
-- 希望快速获得高薪且不想长期积累经验的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who like practical work
+- Willing to accept physical labor and able to adapt to outdoor and construction environments
+- People seeking stable employment and self-employment opportunities
+
+**Who is not suited**
+- People unwilling to do physical labor or dirty/tough work
+- People who want to earn a high salary quickly and do not want to accumulate experience over the long term
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for plumbers in Spain?**
+A: Beginner level is about 20,000-26,000 euros, intermediate 26,000-35,000 euros, and senior or self-employed can reach 35,000-50,000 euros.
+
+**Q: How can foreigners immigrate to Spain as plumbers?**
+A: Usually, you need to obtain a work contract with a Spanish company and apply for work residency (Cuenta ajena). Homologación is required, but those without a university degree can apply for professional qualification recognition.
+
+**Q: What certificates are required to work as a plumber in Spain?**
+A: At least an FP Grado Medio diploma or equivalent certification is required. Additionally, installing a gas system requires RITE certification, and installing a drinking water system requires corresponding authorization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Plumber为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for plumbers in Spain?**
-答：Entry level around €20,000-€26,000, mid-level €26,000-€35,000, senior or self-employed up to €35,000-€50,000.
-
-**问：How can a foreigner immigrate to Spain as a plumber?**
-答：Usually requires a job offer from a Spanish company to apply for a work permit (Cuenta ajena). Credential evaluation (Homologación) is mandatory; non-university qualifications can be recognized through professional equivalence.
-
-**问：What certifications are required to work as a plumber in Spain?**
-答：At least an FP Grado Medio degree or equivalent. Additionally, RITE certification for gas installations and authorization for drinking water systems are required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

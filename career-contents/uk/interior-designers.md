@@ -1,60 +1,96 @@
-# Interior designers（Interior designers）职业分析 · UK
+# Interior designers — career analysis · United Kingdom
 
-**职业代码：3421 – Interior designers。**
+**Occupation code: 3421 (SOC)**
 
-Interior designers plan, direct, and undertake the creation of designs for interior spaces, selecting materials, colors, furniture, and decor to balance functionality and aesthetics, and oversee project implementation.
+Interior designers plan, direct, and execute interior space designs, including material selection, color schemes, furniture layout, and decoration, ensuring a balance of functionality and aesthetics, and oversee project implementation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $9,250~$15,000（英国本土学生学费上限£9,250/年，国际学生约£15,000-£25,000/年） |
-| 硕士 | 1-2年 | $10,000~$20,000（学费因学校而异） |
-| 短期课程 | 6-12个月 | $2,000~$8,000（职业培训或文凭课程） |
+| Bachelor's degree | 3-4 years | $9,250~$15,000 (UK domestic student tuition fee cap £9,250/year, international students approx £15,000-£25,000/year) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Tuition varies by school) |
+| Short-term courses | 6–12 months | $2,000~$8,000 (Vocational training or diploma course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计学位 | 英国大学 | 可选 | BA/BSc Interior Design or equivalent |
-| 英国皇家艺术学会会员 | Royal Society of Arts | 可选 | 非强制，但有助于职业发展 |
-| 特许设计师协会会员 | Chartered Society of Designers | 可选 | 专业认证，提升信誉 |
+| Interior design degree | UK universities | Optional | BA/BSc Interior Design or equivalent |
+| Fellow of the Royal Society of Arts | Royal Society of Arts | Optional | Not mandatory, but beneficial for career development |
+| Chartered Society of Designers membership | Chartered Society of Designers | Optional | Professional certification to enhance credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 53,000。英国室内设计行业预计未来几年温和增长，受翻新和商业项目需求推动，但竞争激烈。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 53,000. The UK interior design industry is expected to see moderate growth in the coming years, driven by renovation and commercial project demand, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 通常从设计助理或初级设计师开始 |
-| 中级（3-6年） | $28,000~$40,000 | 具有项目管理和独立设计能力 |
-| 高级（6年以上） | $40,000~$60,000 | 设计总监或自由职业高级顾问 |
+| Median salary | $36,485 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Usually start as a design assistant or junior designer |
+| Mid-level (3–6 years) | $28,000~$40,000 | Possesses project management and independent design capabilities |
+| Senior (6+ years) | $40,000~$60,000 | Design Director or Freelance Senior Consultant |
+| average salary | $38,597 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级设计师可发展为高级设计师、设计总监或成立个人工作室；也可专攻住宅、商业或可持续设计领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+Junior designers can progress to senior designer, design director, or start their own studio; they may also specialize in residential, commercial, or sustainable design.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - Interior design
 - Sustainable design
@@ -63,68 +99,67 @@ Interior designers plan, direct, and undertake the creation of designs for inter
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需获得雇主担保，职业在可担保清单上（SOC 3421），满足薪资门槛（一般£26,200/年或职业特定薪资）。 |
-| Subclass Global Talent（Global Talent visa） | 针对在室内设计领域有杰出成就或潜力的申请人，无需雇主担保，可灵活工作。 |
-| Subclass Graduate（Graduate visa） | 适用于在英国高校毕业的国际学生，允许在英工作2年（博士3年），积累经验后转换工作签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, occupation on the eligible list (SOC 3421), meeting salary threshold (generally £26,200/year or occupation-specific salary). |
+| Subclass Global Talent (Global Talent visa) | For applicants with outstanding achievements or potential in interior design; no employer sponsorship required, flexible work. |
+| Subclass Graduate (Graduate visa) | For international students graduating from UK universities, allows working in the UK for 2 years (PhD 3 years), then switch to work visa after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior designers？**
-- 有创意和审美能力，热爱空间设计
-- 善于沟通与客户协作
-- 注重细节且能处理多任务
-
-**谁不适合学Interior designers？**
-- 不擅长面对客户反馈和修改需求
-- 不喜欢现场监督和项目协调
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative with aesthetic sense, passionate about spatial design
+- Good communication and client collaboration skills
+- Detail-oriented and capable of multitasking
+
+**Who is not suited**
+- Not good at handling client feedback and revision requests.
+- dislikes on-site supervision and project coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for interior designers in the UK?**
+A: Junior designers earn around £20,000-£28,000 per year, mid-level around £28,000-£40,000, and senior or director level can reach £40,000-£60,000+. Salaries vary by location and experience.
+
+**Q: How can interior designers immigrate to the UK through skilled migration pathways?**
+A: The most common pathway is obtaining a Skilled Worker visa, requiring employer sponsorship and meeting salary requirements. The Global Talent visa is also possible (requires outstanding achievements). After graduation, you can first use a Graduate visa to gain experience.
+
+**Q: What are the career prospects for interior designers?**
+A: Can progress from junior designer to senior designer, design director, or establish a personal studio. Can also specialize in sustainable design, commercial spaces, etc., to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interior designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for interior designers in the UK?**
-答：Entry-level designers earn around £20,000-£28,000, mid-level £28,000-£40,000, senior/director £40,000-£60,000+, varying by location and experience.
-
-**问：How can interior designers migrate to the UK for work?**
-答：Common route: Skilled Worker visa with employer sponsorship meeting salary threshold. Alternatively, Global Talent visa (for exceptional talent) or Graduate visa (for UK graduates).
-
-**问：What are the career prospects for interior designers?**
-答：Career progression from junior to senior designer, design director, or self-employed. Specialising in sustainable design or commercial spaces can enhance prospects.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

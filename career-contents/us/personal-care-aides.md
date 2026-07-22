@@ -1,60 +1,94 @@
-# Personal Care Aides（Personal Care Aides）职业分析 · 美国
+# Personal Care Aides — career analysis · United States
 
-**职业代码：31-1122 – Personal Care Aides。**
+**Occupation code: 31-1122 (SOC)**
 
-Provide personalized assistance to individuals with disabilities or illness with daily living activities such as bathing, dressing, feeding, and toileting in various settings.
+Provide daily living activity support to individuals with disabilities or illnesses, such as bathing, dressing, eating, toileting, etc., working in various settings.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 12年 | —（通常仅要求高中文凭，无学费） |
-| 短期培训证书 | 6-12周 | $300~$2,000（社区学院或职业培训机构提供） |
+| High school graduation or equivalent | 12 years | $0~$0 (Usually only requires high school diploma, no tuition fees) |
+| Short-term Training Certificate | 6-12 weeks | $300~$2,000 (Provided by community colleges or vocational training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业 | 高中 | 必备 | 多数雇主最低要求 |
-| 护理助理认证 | 州政府 | 可选 | 部分州要求，如CNA证书 |
+| High school graduation | High school | Required | Minimum requirement for most employers |
+| Nursing assistant certification | State government | Optional | Required by some states, such as CNA certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 2,300,000。美国人口老龄化推动需求快速增长，2022-2032年岗位增长约22%，远高于平均水平，就业机会丰富。
+**Job demand: very high (★★★★½).** National workforce approx. 2,300,000. Aging population in the US drives rapid demand growth; 2022-2032 job growth is about 22%, well above average, with abundant opportunities.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 时薪约$12-$15 |
-| 中级（3-5年） | $28,000~$34,000 | 时薪约$15-$18 |
-| 高级（5年以上） | $34,000~$42,000 | 时薪约$18-$22 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Hourly wage approximately $12-$15 |
+| Mid-level (3–5 years) | $28,000~$34,000 | Hourly rate about $15-$18 |
+| Senior (5+ years) | $34,000~$42,000 | Hourly wage approximately $18-$22 |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 通常从家庭护理起步，可晋升为高级护理员、护理主管，或进修成为注册护士(LPN/RN)等。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
+
+Typically start from home care, can advance to senior caregiver, care supervisor, or further study to become a registered nurse (LPN/RN), etc.
+
+**Tasks most exposed to AI:**
+
+- Record daily care logs via AI voice assistants
+- Automated scheduling and route optimization to reduce manual dispatch
+- Using AI chatbots to handle basic customer inquiries
+- Automatically generating care plan templates to reduce paperwork
+
+**Where AI augments the role:**
+
+- Use wearable devices and AI analysis to monitor elderly activity and fall risk in real time
+- Using NLP tools to assist in recording client preferences and needs
+- AI-assisted medication reminders and dose tracking to improve accuracy
+- Using virtual reality (VR) training to enhance communication and emergency skills
+- AI-driven personalized nutrition and activity recommendations
+
+**Human moat:**
+
+- Physical assistance (e.g., moving, bathing, dressing) requires physical contact and strength
+- Emotional support and psychological comfort require empathy and trust
+- Intuitive judgment and on-the-spot adaptation in emergencies
+- Multi-Party Coordination and Communication with Families and Medical Teams
+- Cultural sensitivity and personalized care (non-standardized behaviors)
+
+**Skills to build:**
+
+- Operation and data interpretation of basic health monitoring equipment
+- Use of remote care platforms and electronic health record systems
+- Application of AI-assisted decision-making tools (e.g., risk assessment dashboards)
+- Enhanced communication and empathy skills with technological assistance
+- Basic data analysis: extracting key trends from AI reports
+- Digital literacy: learning new nursing software and wearable devices
+
+**Key growth areas:**
 
 - Aging Population
 - High Demand
@@ -63,62 +97,64 @@ Provide personalized assistance to individuals with disabilities or illness with
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 个人护理助理通常不符合H-1B专业职业要求 |
-| Subclass EB-3（EB-3 Skilled/Unskilled Worker） | 可尝试EB-3非技术类，但需雇主担保，排期长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Personal care assistants typically do not qualify for H-1B specialty occupation requirements |
+| Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Can try EB-3 unskilled, but requires employer sponsorship with long queue |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Care Aides？**
-- 有耐心和同理心者
-- 喜欢帮助他人者
-- 寻求稳定但低门槛职业者
+**Who is suited**
+- Those with patience and empathy
+- Those who enjoy helping others
+- Those seeking stable but low-barrier careers
 
-**谁不适合学Personal Care Aides？**
-- 不耐高压体力工作
-- 期望高薪者
+**Who is not suited**
+- Cannot tolerate high-pressure physical work
+- Those expecting high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a personal care assistant?**
+A: Median annual salary about $30,000, hourly wage about $14.50, junior about $25,000, senior up to $40,000.
+
+**Q: Can personal care assistants apply for a US green card?**
+A: Relatively difficult; usually requires employer-sponsored EB-3 unskilled visa, but with long wait times and need to prove labor shortage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Personal Care Aides属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Personal Care Aides?**
-答：Median annual wage about $30,000, hourly around $14.50. Entry-level $25,000, experienced up to $40,000.
-
-**问：Can Personal Care Aides get a US green card?**
-答：Difficult; typically through EB-3 unskilled worker sponsorship, but with long backlog and labor certification requirement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

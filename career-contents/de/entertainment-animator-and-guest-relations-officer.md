@@ -1,60 +1,92 @@
-# Entertainment Animator and Guest Relations Officer（Entertainment Animator and Guest Relations Officer）职业分析 · DE
+# Entertainment Animator and Guest Relations Officer — career analysis · Germany
 
-**职业代码：6313 – Entertainment Animator and Guest Relations Officer。**
+**Occupation code: 6313 (KldB)**
 
-Plans and conducts entertainment activities in hotels, resorts, or cruise ships, welcoming guests and enhancing their experience.
+Plan and execute entertainment activities in hotels, resorts, or cruise ships, welcoming guests and enhancing their experience.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业加职业培训 | 3年（双元制） | —（双元制培训通常由企业支付津贴，无学费） |
-| 专科或本科（旅游管理） | 3年（本科） | —（公立大学每学期约300欧元注册费） |
+| High school graduation plus vocational training | 3 years (dual system) | $0~$0 (Dual-system training typically provides a stipend from the company, no tuition fees) |
+| Diploma or bachelor's degree (tourism management) | 3 years (bachelor's) | $0~$1,500 (Public universities charge a registration fee of approximately 300 euros per semester.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理或旅游专业学位 | 大学或应用技术大学 | 可选 | 非强制但有助于提升竞争力 |
-| IHK酒店专业证书 | 德国工商会（IHK） | 可选 | 可自愿考取 |
+| Degree in hotel management or tourism | University or University of Applied Sciences | Optional | Not mandatory but helps enhance competitiveness |
+| IHK Hotel Specialist Certificate | German Chamber of Commerce and Industry (IHK) | Optional | Optional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。德国旅游业持续复苏，酒店及度假村对娱乐节目主持人需求稳定。但该职业受季节性影响较大，全职岗位有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Germany's tourism industry continues to recover, and demand for entertainment hosts in hotels and resorts remains stable. However, this occupation is highly seasonal, with limited full-time positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，视雇主和地区而定 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，主管级 |
+| Median salary | $40,440 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, depending on employer and location |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $38,000~$45,000 | Annual salary before tax, supervisor level |
+| average salary | $43,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为娱乐活动主管或酒店客户关系经理。积累经验后可转向活动策划或旅游管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of entertainment host and guest relations specialist has mixed prospects: AI can automate scheduling and FAQs, but creative performance, emotional interaction, and personalized service remain human strengths.
+
+Can advance to recreation activity supervisor or hotel guest relations manager. With experience, can transition to event planning or tourism management roles.
+
+**Tasks most exposed to AI:**
+
+- Generate activity schedules and standard notifications.
+- Handle common guest inquiries (e.g. WiFi password, facility locations)
+- Event registration and data sorting
+- Generate simple promotional copy and posters for events
+
+**Where AI augments the role:**
+
+- Using AI to analyze guest preferences to design personalized activities
+- Use AI translation tools to serve multilingual guests
+- Using AI monitoring devices (such as cameras) to assist safety and on-site management
+- Pre-screening guest feedback via AI chatbot, prioritising urgent issues
+
+**Human moat:**
+
+- Improvisation and stage presence skills
+- Ability to build genuine emotional connections with guests
+- On-the-spot judgment in handling emergencies (such as guest complaints, sudden illness)
+- Creating unique, non-standardized entertainment experiences
+
+**Skills to build:**
+
+- Basic AI tool use (e.g., ChatGPT, Canva AI) to assist content creation
+- Multilingual communication (especially English and local languages) to serve international guests
+- Basic data analysis (understanding guest preference statistics)
+- Event planning and project management skills
+- Basic photography/video editing to record activity highlights
+
+**Key growth areas:**
 
 - Tourism recovery
 - Event management
@@ -63,66 +95,68 @@ Plans and conducts entertainment activities in hotels, resorts, or cruise ships,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Blue Card equivalent for non-IT)） | 需获得认可的学历和雇主担保，但本职业通常不满足高薪要求。 |
-| Subclass Chancenkarte（Opportunity Card） | 适合有语言能力和部分经验者，但需自谋生计。 |
-| Subclass Job Seeker（Job Seeker Visa） | 可在德国短期找工，但娱乐行业培训岗位有限。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Blue Card equivalent for non-IT)) | Requires recognized qualifications and employer sponsorship, but this occupation usually does not meet the high salary requirement. |
+| Subclass Chancenkarte (Opportunity Card) | Suitable for people with language skills and some experience, but they need to fend for themselves. |
+| Subclass Job Seeker (Job Seeker Visa) | Can seek jobs in Germany short-term, but training positions in the entertainment industry are limited. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Entertainment Animator and Guest Relations Officer？**
-- 性格外向、善于沟通的人
-- 喜欢策划活动和娱乐他人的人
-- 能适应灵活工时和季节性工作的人
+**Who is suited**
+- People who are outgoing and good at communicating
+- People who enjoy planning events and entertaining others
+- Those who can adapt to flexible hours and seasonal work
 
-**谁不适合学Entertainment Animator and Guest Relations Officer？**
-- 偏好稳定办公室工作的人
-- 不喜欢频繁社交和体力活动的人
+**Who is not suited**
+- People who prefer stable office work
+- Those who dislike frequent socialising and physical activity
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an Entertainment Host?**
+A: Entry-level approx. €24,000-30,000; mid-level €30,000-38,000; senior €38,000-45,000; actual depends on employer and region.
+
+**Q: Can Chinese citizens immigrate to Germany through this occupation?**
+A: Relatively difficult. This occupation is not on Germany's shortage occupation list and usually does not require formal qualification recognition, so it does not meet the requirements for a Blue Card or skilled migration visa.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can advance to entertainment activity supervisor, hotel guest relations manager, or transition to event planning, tourism management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Entertainment Animator and Guest Relations Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for entertainment animators?**
-答：Entry-level around €24,000-30,000, mid-level €30,000-38,000, senior €38,000-45,000 annually, depending on employer and region.
-
-**问：Can Chinese citizens immigrate to Germany through this occupation?**
-答：It is difficult. This occupation is not on the shortage list and typically does not require formal qualification recognition, making it ineligible for Blue Card or skilled worker visa.
-
-**问：What are the career progression paths for this occupation?**
-答：You can advance to entertainment supervisor, guest relations manager, or move into event planning, tourism management, etc.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

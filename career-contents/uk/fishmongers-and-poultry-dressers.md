@@ -1,60 +1,93 @@
-# Fishmongers and poultry dressers（Fishmongers and poultry dressers）职业分析 · UK
+# Fishmongers and poultry dressers — career analysis · United Kingdom
 
-**职业代码：5433 – Fishmongers and poultry dressers。**
+**Occupation code: 5433 (SOC)**
 
-Fishmongers and poultry dressers clean, cut, and prepare fish and poultry for processing or sale. They work in retail and food processing settings such as fish markets, supermarkets, and poultry plants in the UK.
+Fishmongers and poultry processors clean, cut, and prepare fish and poultry for processing or sale. This occupation mainly works in the UK retail and food processing industry, including fish markets, supermarkets, and poultry processing plants.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 无固定时长 | —（通常不需要正规教育） |
-| 在职培训 | 1-3个月 | —（学徒制或雇主提供的培训） |
+| High school graduation | No fixed duration | $0~$0 (Typically no formal education required) |
+| On-the-job training | 1-3 months. | $0~$500 (Apprenticeship or employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 英国食品标准局认可的培训机构 | 必备 | 基本食品安全培训，多数雇主要求 |
-| 鱼类加工证书 | 行业培训机构 | 可选 | 可选，提升竞争力 |
+| Food hygiene certificate | Training institution accredited by the UK Food Standards Agency | Required | Basic food safety training, required by most employers |
+| Fish processing certificate | Industry training providers | Optional | Optional, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。英国零售和食品加工行业对鱼贩和家禽加工工的需求稳定，但自动化技术可能减少入门级岗位。预计未来五年就业人数小幅下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Demand for fishmongers and poultry processors in UK retail and food processing is stable, but automation may reduce entry-level jobs. Employment expected to decline slightly over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$21,000 | 入门级助理或学徒 |
-| 中级（3-5年） | $21,000~$25,000 | 熟练加工工 |
-| 高级（5年以上） | $25,000~$30,000 | 高级加工工或主管 |
+| Median salary | $25,394 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$21,000 | Entry-level assistant or apprentice |
+| Mid-level (3–5 years) | $21,000~$25,000 | Skilled processor |
+| Senior (5+ years) | $25,000~$30,000 | Senior processor or supervisor |
+| average salary | $27,093 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级助手晋升为高级加工工或主管。部分从业者可能转向质量控制、食品安全检查或管理岗位。经验丰富者可自营鱼摊或家禽店。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
+
+Can progress from junior assistant to senior processor or supervisor. Some may move to quality control, food safety inspection, or management. Experienced workers can run their own fish stall or poultry shop.
+
+**Tasks most exposed to AI:**
+
+- Batch cutting and segmentation of standard parts
+- Repetitive motions in deboning and skinning processes
+- Basic processing like meat grinding and sausage stuffing
+- Weighing, labeling, and packaging line operations
+
+**Where AI augments the role:**
+
+- Using AI vision systems for meat grading and defect detection
+- Optimizing cutting plans through data analysis to reduce waste
+- Manage meat preservation and turnover using smart inventory systems
+- Using augmented reality (AR) to assist training new employees in cutting techniques
+
+**Human moat:**
+
+- Hand-finishing special parts and custom cutting according to client requirements
+- Sensory judgment of meat freshness, texture, and abnormalities
+- Flexibility in handling unexpected orders and personalized needs.
+- Provide cooking advice and demonstrate cutting techniques to customers
+
+**Skills to build:**
+
+- Operation and maintenance of automated cutting equipment
+- Food quality and safety management systems (e.g., HACCP)
+- Basic data analysis and inventory management software
+- Customer service and communication skills
+- Fine hand cutting (for high-end customisation)
+- Food safety regulations and traceability knowledge
+
+**Key growth areas:**
 
 - Stable demand
 - Automation risk
@@ -63,62 +96,64 @@ Fishmongers and poultry dressers clean, cut, and prepare fish and poultry for pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 理论上可担保，但通常不用于低技能职业。薪资需达到一般门槛£26,200/年，该职业通常达不到。 |
-| Subclass Graduate（Graduate visa） | 适合毕业生积累经验，但该职业对学历无要求，签证价值有限。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Theoretically eligible for sponsorship, but usually not for low-skilled occupations. Salary must meet the general threshold of £26,200/year; this occupation typically does not reach that. |
+| Subclass Graduate (Graduate visa) | Suitable for graduates to gain experience, but the occupation has no education requirement, limiting visa value. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fishmongers and poultry dressers？**
-- 喜欢手工操作和不介意低温环境的人
-- 寻求快速就业而不需高学历的人
-- 对食品加工有兴趣的人
+**Who is suited**
+- People who enjoy hands-on work and don't mind cold environments
+- Those seeking quick employment without needing a high degree.
+- People interested in food processing
 
-**谁不适合学Fishmongers and poultry dressers？**
-- 希望高薪或快速晋升的人
-- 不喜重复性体力劳动的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- Those who dislike repetitive physical labour
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for fishmongers and poultry processors in the UK?**
+A: Average annual salary around £22,000, entry level approx £18,000, senior up to £30,000.
+
+**Q: How to immigrate to the UK to work in this occupation via a work visa?**
+A: This occupation typically does not meet skilled visa requirements due to low salary and skill level. You can try the Skilled Worker visa, but employer sponsorship is needed and the minimum salary of £26,200 is required, making it very difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（数周）（★☆☆☆☆） |
-| 学习难度 | 非常简单（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 非常困难（★★★★½） |
-
-Fishmongers and poultry dressers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for fishmongers and poultry dressers in the UK?**
-答：Average annual salary is around £22,000, with entry-level at £18,000 and senior up to £30,000.
-
-**问：How to migrate to the UK for this occupation via work visa?**
-答：This occupation typically does not qualify for skilled migrant visas due to low skill level and salary. Skilled Worker visa requires sponsorship and a minimum salary of £26,200, which is rarely met.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

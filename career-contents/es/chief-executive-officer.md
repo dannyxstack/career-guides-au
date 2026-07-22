@@ -1,60 +1,95 @@
-# Chief Executive Officer（Chief Executive Officer）职业分析 · ES
+# Chief Executive Officer — career analysis · Spain
 
-**职业代码：1120 – Chief Executive Officer。**
+**Occupation code: 1120 (CNO)**
 
-Overall responsible for corporate strategy, operations, and performance, representing board and shareholder interests.
+Fully responsible for the company's strategic direction, operational management, and performance, representing the interests of the board of directors and shareholders to formulate long-term development plans.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $5,000~$15,000（公立大学年学费约1000-3000欧元，私立更高） |
-| 硕士（Máster） | 1-2年 | $10,000~$35,000（MBA或专业硕士，顶尖商学院如IESE、ESADE费用更高） |
+| Undergraduate (Grado) | 4 years | $5,000~$15,000 (Annual tuition at public universities is about 1,000–3,000 euros, while private universities are even higher) |
+| Máster | 1-2 years | $10,000~$35,000 (MBA or professional master's programs, and top business schools like IESE and ESADE offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工商管理硕士（MBA） | 西班牙或国际商学院 | 可选 | 非强制，但多数CEO持有MBA |
-| 董事会认证 | Instituto de Consejeros-Administradores | 可选 | 上市企业董事需通过认证 |
+| Master of Business Administration (MBA) | Spanish or international business schools | Optional | Non-mandatory, but most CEOs hold an MBA |
+| Board certification | Instituto de Consejeros-Administradores | Optional | Directors of listed companies must be certified |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,000。西班牙CEO岗位集中于大型企业和跨国公司，受经济周期影响明显。数字化转型和国际化需求推动高级管理人才需求，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. CEO positions in Spain are concentrated in large corporations and multinational corporations, and are significantly affected by economic cycles. Digital transformation and internationalization are driving demand for senior management talent, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$150,000 | 小型企业或初创公司CEO薪资 |
-| 中级（3-10年） | $150,000~$400,000 | 中型企业CEO薪资 |
-| 高级（10年以上） | $400,000~$1,200,000 | 大型企业或跨国公司CEO，含奖金 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $80,000~$150,000 | Salaries for small business or startup CEOs |
+| Intermediate (3-10 years) | $150,000~$400,000 | CEO salaries of medium-sized enterprises |
+| Senior (10+ years) | $400,000~$1,200,000 | CEOs of large enterprises or multinational companies, with bonuses |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常从部门总监（如财务、运营）晋升，积累跨职能经验后可担任CEO。部分CEO通过MBA或创业背景进入，大型企业还需董事会任命。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The CEO's strategic decisions and executive responsibilities are difficult to fully replace by AI, but tasks such as data-driven analysis and report generation will be significantly automated, and their irreplaceability remains high.
+
+Usually promoted from department director (such as finance or operations), and after gaining cross-functional experience, can become CEO. Some CEOs enter through MBA or entrepreneurial backgrounds, and large companies also require board appointments.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate routine financial reports and market analysis summaries
+- Basic data collection and trend identification
+- Standardized performance monitoring dashboard production
+- Drafting internal communication emails and memos
+
+**Where AI augments the role:**
+
+- Leverage AI to analyze massive amounts of data and quickly identify business trends and risks
+- Evaluate strategic options through AI-driven simulation forecasts
+- AI assists in real-time monitoring of operational metrics and issues early warnings of anomalies
+- Use NLP tools to efficiently extract key points from board meeting minutes
+- Optimize supply chain and resource scheduling decisions with AI
+
+**Human moat:**
+
+- Handling complex interpersonal conflicts and negotiations
+- Making major strategic decisions amid ambiguity and uncertainty
+- Shaping organizational culture and employee motivation
+- Representing the company's external relations and public responsibilities
+- Unstructured problem-solving based on intuition and experience
+
+**Skills to build:**
+
+- Data literacy and AI tool application skills
+- Strategic management and complex decision-making frameworks
+- Emotional intelligence and leadership upgrades
+- AI ethics and governance knowledge
+- Learn quickly and adapt to changes
+- Cross-departmental coordination and communication
+
+**Key growth areas:**
 
 - Digital transformation
 - International expansion
@@ -63,62 +98,64 @@ Overall responsible for corporate strategy, operations, and performance, represe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙公司担保，证明岗位无法由本地人填补，通常适用于高管调动。 |
-| Subclass Busqueda empleo（Job Search Visa） | 高学历人才可在毕业后停留1年找工作，但CEO职位通常需要丰富经验。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish company guarantee is required to prove the position cannot be filled by a local resident, which is usually applicable to executive transfers. |
+| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals can stay for one year after graduation to look for a job, but CEO positions usually require extensive experience. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Chief Executive Officer？**
-- 具有战略眼光和领导力的资深管理者
-- 有跨行业经验和国际视野的人才
-- 能承受高压和长期工作投入
+**Who is suited**
+- Senior managers with strategic vision and leadership skills
+- Talent with cross-industry experience and an international perspective
+- Able to withstand high pressure and long-term work commitment
 
-**谁不适合学Chief Executive Officer？**
-- 偏好稳定工作和固定时间者
-- 缺乏人际关系和沟通技巧者
+**Who is not suited**
+- Those who prefer stable jobs and fixed hours
+- Those lacking interpersonal and communication skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary level of Spanish CEOs?**
+A: Entry-level CEO annual salary about 80,000-150,000 euros, mid-level 150,000-400,000, senior over 400,000, can reach millions in large companies.
+
+**Q: Can foreigners immigrate to Spain through the CEO position?**
+A: Very difficult. CEO position requires company sponsorship and cannot use skilled migration. Usually through internal transfer or investment migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Chief Executive Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a CEO in Spain?**
-答：Entry-level CEO earns €80k-150k, mid-level €150k-400k, senior over €400k, with top executives reaching millions.
-
-**问：Can foreigners immigrate to Spain through a CEO position?**
-答：Very difficult. CEO roles require company sponsorship and are not eligible for tech migration. Usually via intra-company transfer or investor visa.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

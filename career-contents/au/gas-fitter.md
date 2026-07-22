@@ -1,69 +1,99 @@
-# 燃气管道工（Gas Fitter）职业分析 · 澳大利亚
+# Gas Fitter — career analysis · Australia
 
-**职业代码：334112 – Gas Fitter。**
+**Occupation code: 334112 (ANZSCO)**
 
-燃气管道工（Gas Fitter）负责安装、维护和修理住宅、商业及工业场所的天然气和LPG管道系统。澳大利亚住宅燃气设备安装和商业厨房改造需求稳定，加上严格的持证要求，使持证燃气工处于持续短缺状态。
+Gas fitters install, maintain, and repair natural gas and LPG pipeline systems in residential, commercial, and industrial settings. Steady demand for residential gas appliance installation and commercial kitchen upgrades, combined with strict licensing requirements, means licensed gas fitters remain in ongoing short supply across Australia.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Gas Fitting / Plumbing (Gas Stream)（学徒） | 42~48个月 | —（各州差异；燃气持证考试费约$500~$1,000） |
-| Gas Fitting Licence（各州单独颁发） | 含在学徒内或考试获取 | $300~$800（各州持证费用不同） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Gas Fitting / Plumbing (Gas Stream) (apprenticeship) | 42–48 months | $0~$3,000 (Varies by state; gas licensing exam fees are approximately $500–$1,000) |
+| Gas Fitting Licence (issued separately by each state) | Obtained during apprenticeship or through examination | $300~$800 (Licence fees vary by state) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Gas Fitting / Plumbing (Gas Stream) | TAFE / RTO | 必备 | 执业核心资质 |
-| State Gas Fitting Licence | 各州能源安全监管机构 | 必备 | 各州单独颁发，强制执行 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Gas Fitting / Plumbing (Gas Stream) | TAFE / RTO | Required | Core practising qualifications |
+| State Gas Fitting Licence | State energy safety regulators | Required | Issued separately by each state, mandatory compliance |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。住宅新建和翻新持续带动燃气设备安装需求。氢气基础设施试点项目（2025-2030）将创造新的专项技能需求。JSA确认短缺（2025）。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Ongoing residential construction and renovation continues to drive demand for gas appliance installation. Hydrogen infrastructure pilot projects (2025–2030) will create new specialised skills requirements. JSA has confirmed a shortage (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~450 个 | 全国，住宅和商业均有 |
-| Indeed | 100~250 个 | 含LPG农村/偏远地区 |
-| LinkedIn | 40~100 个 | 偏工业和商业 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $30,000~$58,000 | Fair Work Award + 燃气津贴 |
-| 初级燃气工（1~3年） | $70,000~$90,000 | 住宅设备安装 |
-| 中级燃气工（3~8年） | $90,000~$115,000 | Seek AU 均值约$42~$52/hr（2026） |
-| 资深 / 承包商（8年+） | $110,000~$150,000 | 独立承包商，商业厨房/工业系统溢价 |
+| Median salary | $103,480 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $30,000~$58,000 | Fair Work Award + gas allowance |
+| Junior gas fitter (1–3 years) | $70,000~$90,000 | Residential equipment installation |
+| Intermediate gasfitter (3–8 years) | $90,000~$115,000 | Seek AU average approximately $42–$52/hr (2026) |
+| Senior / Contractor (8+ years) | $110,000~$150,000 | Independent contractor, with premiums for commercial kitchen/industrial systems |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：佳（★★★★☆）。** 天然气向可再生天然气（biogas/hydrogen blend）的过渡期创造技能升级需求。持证燃气工稀缺，独立承包商薪资溢价显著。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gas plumber employment demand is stable, but AI will automate administrative tasks like documentation, scheduling, and compliance checks; on-site work relies on physical skills and judgment, with low short-term replacement risk, but entry-level roles narrow due to high certification requirements.
+
+The transition from natural gas to renewable gas (biogas/hydrogen blend) is creating upskilling demand. Licensed gas fitters are scarce, and independent contractors command a significant salary premium.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of compliance check reports and maintenance records
+- AI scheduling system optimizes on-site service routes and appointment scheduling
+- Smart diagnostic tools analyzing gas system sensor data to automatically identify leak locations
+- Robot-assisted internal pipeline inspection (CCTV)
+- Handle customer inquiries and appointments via chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted design of natural gas pipeline layouts, optimizing routes and material usage
+- Augmented reality (AR) helmets displaying hidden pipe routes and repair steps
+- Using smart detectors to analyze gas composition in real time, improving leak location accuracy
+- Predictive maintenance systems pre-warn of pipeline aging based on historical data
+- Mobile app provides regulatory updates and complex installation guidance
+
+**Human moat:**
+
+- Manual skills for flexible pipe fitting in confined spaces or complex environments
+- Deep understanding of gas safety regulations and on-site judgment
+- Interpersonal skills for client communication, explaining solutions, and building trust
+- Quick decision-making and psychological resilience under emergency situations
+- On-site experience in cross-trade coordination (e.g., liaising with electricians and plumbers).
+
+**Skills to build:**
+
+- Proficient use of digital diagnostic tools and smart inspection devices
+- Learn gas system modeling software (e.g., CAD/CAM)
+- Understand the interpretation of IoT sensor data.
+- Basic programming skills for custom automation scripts
+- Improve communication and client management skills
+- Obtain gas equipment certifications for renewable energy (e.g., solar, hydrogen)
+
+**Key growth areas:**
 
 - Residential Gas Appliance Installation
 - Commercial Kitchen & HVAC
@@ -72,79 +102,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远LPG需求旺盛，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | Strong demand for LPG in regional areas, plus 15 points. |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学燃气管道工？**
-- 有管道、燃气设备安装背景，目标技能移民来澳
-- 注重安全规范，对细节要求高（燃气泄漏容错率为零）
-- 考虑独立创业做承包商，商业厨房和工业系统收入可观
-
-**谁不适合学燃气管道工？**
-- 对高风险作业（燃气泄漏危害）心理压力大
-- 不愿意持续学习更新（法规和技术标准每年更新）
-- 期望快速入行（持证周期长）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in plumbing or gas equipment installation, seeking skilled migration to Australia
+- Strong commitment to safety standards with zero tolerance for error (gas leak tolerance is zero).
+- Consider going independent as a contractor — commercial kitchen and industrial systems work can be highly lucrative
+
+**Who is not suited**
+- High psychological stress from high-risk tasks (gas leak hazards)
+- Unwilling to continuously update knowledge (regulations and technical standards change annually)
+- Expecting a quick pathway into the field (licensing process is lengthy)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for gas fitters in Australia?**
+A: A mid-level gas fitter earns approximately $90,000–$115,000 per year (approximately $42–$52/hr). Independent contractors and industrial roles can reach $110,000–$150,000.
+
+**Q: Is it easy to find work as a gas fitter in Australia?**
+A: Easy. Sustained residential and commercial demand, combined with limited supply due to high licensing barriers, typically leads to quick placement once licensed.
+
+**Q: Is domestic gas installation experience recognised in Australia?**
+A: Not directly recognized. Need to go through TRA assessment (12-18 months) and then apply for state gas licenses.
+
+**Q: Will gas fitters be replaced by robots?**
+A: Extremely low. Gas safety inspection and leak diagnosis require on-site professional judgement, and regulations mandate that licensed personnel take responsibility.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III plus state licensing is sufficient; TAFE apprenticeships are open to secondary school leavers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 334112 数据 |
-| Seek AU | Gas Fitter 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中高（★★★★☆） |
-
-燃气管道工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲燃气管道工工资多少？**
-答：中级燃气工年薪约 $90,000~$115,000（约$42~$52/hr）。独立承包商和工业方向可达 $110,000~$150,000。
-
-**问：澳洲燃气工容易找工作吗？**
-答：容易。住宅和商业需求持续，加上持证门槛高导致供给稀缺，持证后通常快速入职。
-
-**问：国内燃气安装经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）后再申请各州燃气持证。
-
-**问：燃气工会被机器人替代吗？**
-答：极低。燃气安全检测和泄漏判断需要现场专业判断，法规也要求持证人员负责。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III+州持证即可，高中毕业可入读TAFE学徒。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

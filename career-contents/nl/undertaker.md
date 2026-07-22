@@ -1,58 +1,94 @@
-# Undertaker（Undertaker）职业分析 · NL
+# Undertaker — career analysis · Netherlands
 
-**职业代码：5163 – Undertaker。**
+**Occupation code: 5163 (ISCO08)**
 
-Arrange and manage funerals, handle deceased bodies, and provide bereavement support.
+Responsible for arranging and managing funerals, handling deceased remains and burial matters, providing bereavement support and funeral services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年 | —（公立学校学费低，每年约€2,000–3,000） |
-| 在职培训 | 1-2年 | —（雇主提供培训或内部课程） |
+| Secondary vocational education | 3 years | $0~$10,000 (Public school tuition fees are low, approximately €2,000–3,000 per year) |
+| On-the-job training | 1-2 years | $0~$5,000 (employer-provided training or in-house courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬服务从业资格证书 | 殡葬行业认证机构 | 必备 | 完成培训课程并通过考试 |
-| 急救证书 | 红十字会等 | 可选 | 部分雇主要求 |
+| Funeral service practitioner qualification certificate | Funeral industry certification bodies | Required | Complete training course and pass the exam |
+| First aid certificate | Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。荷兰殡葬行业稳定，老龄化社会带来持续需求，但岗位数量有限，竞争适中。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The Dutch funeral industry is stable, with continuous demand from an ageing society, but the number of positions is limited, and competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $37,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从助理殡葬师起步，积累经验后晋升为独立殡葬师或殡仪馆经理，也可向哀伤咨询、死亡教育等方向拓展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
+
+Can start as an assistant funeral director, gain experience, and progress to become an independent funeral director or funeral home manager, or expand into grief counselling, death education, etc.
+
+**Tasks most exposed to AI:**
+
+- Write and edit draft eulogies and obituaries
+- Administrative tasks for scheduling funerals, booking venues, and coordinating suppliers
+- Creating and managing digital memorial pages or videos for the deceased
+- Basic customer inquiries and FAQ responses
+- Filing and records management
+
+**Where AI augments the role:**
+
+- Personalise funeral ceremonies with AI tools (e.g., music, image generation)
+- Optimize communication strategies with families using sentiment analysis
+- Utilizing VR/AR technology to create immersive farewell experiences
+- Automatically generate compliance documents and reports, reducing paperwork burden
+- Data-driven prediction of service demand to optimize resource scheduling
+
+**Human moat:**
+
+- In-person emotional support and empathetic communication
+- On-the-spot adaptability to handle emergencies
+- Deep understanding of cultural, religious, and family traditions
+- Authority in leading ceremonies and organizing on-site processes
+- Ability to build long-term trust relationships
+
+**Skills to build:**
+
+- Learn to use AI-assisted writing and design tools (e.g., ChatGPT, Canva)
+- Master basic data analysis (e.g., Excel, Power BI) to optimize operations
+- Enhance digital marketing skills (social media, SEO)
+- Learning VR/AR content creation tools
+- Enhanced qualifications in psychological counseling and grief therapy
+- Familiarity with Australian funeral regulations and compliance automation software
+
+**Key growth areas:**
 
 - Aging population
 - Stable demand
@@ -61,68 +97,67 @@ Arrange and manage funerals, handle deceased bodies, and provide bereavement sup
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 适合高薪技术移民，年薪需达€4,700/月（2025标准） |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或全球前200高校毕业生可申请一年求职签证 |
-| Subclass EU Blue Card（EU Blue Card） | 高薪通道，税前年薪需≥€5,331/月（2025） |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Suitable for high-salary skilled migration; annual salary must reach €4,700/month (2025 standard) |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply for a one-year job-seeking visa. |
+| Subclass EU Blue Card (EU Blue Card) | High salary pathway, pre-tax annual salary must be ≥€5,331/month (2025) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Undertaker？**
-- 具有同理心和良好沟通能力的人
-- 能够冷静处理死亡和悲伤情境的人
-- 注重细节和组织能力的人
-
-**谁不适合学Undertaker？**
-- 对死亡或遗体感到严重不适的人
-- 无法承受情绪压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and good communication skills
+- People who can calmly handle death and grief situations
+- Detail-oriented and organized individuals.
+
+**Who is not suited**
+- Individuals who experience severe discomfort with death or remains
+- People who cannot tolerate emotional stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of funeral directors in the Netherlands?**
+A: Junior annual salary approx. €24,000-30,000, intermediate €32,000-40,000, senior up to €55,000.
+
+**Q: As a non-EU citizen, how can I immigrate to the Netherlands to work as a funeral director?**
+A: Available through the Highly Skilled Migrant (kennismigrant) or EU Blue Card, requires employer sponsorship and meeting salary threshold.
+
+**Q: What certificates are needed to work as a funeral director in the Netherlands?**
+A: Must obtain a funeral service practitioner qualification and complete an accredited training course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Undertaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for undertakers in the Netherlands?**
-答：Entry-level salary ranges from €24,000 to €30,000, mid-level €32,000-€40,000, and senior up to €55,000 per year.
-
-**问：How can non-EU citizens immigrate to the Netherlands as an undertaker?**
-答：Via the Highly Skilled Migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting salary thresholds.
-
-**问：What qualifications are needed to work as an undertaker in the Netherlands?**
-答：A mandatory funeral service practitioner certificate obtained through accredited training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Town and Traffic Planner（Town and Traffic Planner）职业分析 · IT
+# Town and Traffic Planner — career analysis · Italy
 
-**职业代码：2164 – Town and Traffic Planner。**
+**Occupation code: 2164 (ISCO08)**
 
-Town and traffic planners design and manage urban and transport systems, including land-use planning, traffic network optimization, and sustainable development strategies. They collaborate with governments, developers, and communities to ensure efficient, environmentally friendly, and regulatory-compliant urban growth.
+Urban and transport planners design and manage city and transport systems, including land use planning, transport network optimization, and sustainable development strategies. They collaborate with government, developers, and the community to ensure efficient, environmentally friendly, and compliant urban development.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $500~$3,000（公立大学学费，视地区与家庭收入而定） |
-| 硕士 | 2年 | $1,000~$6,000（城市规划或交通工程硕士，公立大学） |
+| Bachelor's degree | 3 years | $500~$3,000 (Public university tuition fees, depending on region and family income) |
+| Master's degree | 2 years | $1,000~$6,000 (Master's degree in urban planning or traffic engineering from a public university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利城市规划师协会注册 | Ordine degli Architetti, Pianificatori, Paesaggisti e Conservatori | 必备 | 需通过国家考试，硕士学历及以上 |
-| 交通规划师认证 | Associazione Italiana per la Ricerca sui Sistemi di Trasporto | 可选 | 非强制但提升竞争力 |
+| Registration with the Italian Association of Urban Planners | Ordine degli Architetti, Pianificatori, Paesaggisti e Conservatori | Required | National exam required, master's degree or higher |
+| Transportation Planner Certification | Associazione Italiana per la Ricerca sui Sistemi di Trasporto | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。意大利城镇化进程缓慢但基础设施更新需求持续，尤其在铁路和城市交通领域。政府投资于可持续交通和智能城市项目，预计未来五年就业小幅增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Italy's urbanization is slow but infrastructure renewal demand persists, especially in rail and urban transport. Government invests in sustainable transport and smart city projects, with small employment growth expected over five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 公共部门或小型咨询公司 |
-| 中级（4-7年） | $35,000~$50,000 | 成熟规划师，可能担任项目负责人 |
-| 高级（8年以上） | $50,000~$75,000 | 总监级或资深顾问 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Public sector or small consulting firms |
+| Mid-level (4-7 years) | $35,000~$50,000 | Senior planner, potentially taking on project lead role |
+| Senior (8+ years) | $50,000~$75,000 | Director-level or senior consultant |
+| average salary | $45,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 规划师可从初级分析师晋升为高级规划师、项目经理，最终成为城市规划主管或独立顾问。获取专业认证（如意大利城市规划师协会注册）和硕士学历有助于职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
+
+Planners can progress from junior analyst to senior planner, project manager, and eventually to urban planning director or independent consultant. Obtaining professional certification (e.g., registration with the Italian Association of Urban Planners) and a master's degree aids career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary land use analysis report
+- Performing standardized traffic flow simulations.
+- Batch process geospatial data and create basic maps
+- Compile routine regulatory compliance checklists
+- Automatically generate meeting minutes and preliminary public opinion summaries
+
+**Where AI augments the role:**
+
+- Use AI to simulate multiple planning scenarios and assess environmental impacts.
+- Analyzing public opinion and extracting key demands using natural language processing
+- Predict urban growth trends and infrastructure needs based on machine learning
+- Automatically identify land use changes in satellite imagery
+- Optimize transport network design to reduce commute time and carbon emissions
+
+**Human moat:**
+
+- Political judgment and negotiation skills to balance multiple stakeholders' interests
+- Handling conflicting public opinions and reaching consensus
+- Deep understanding and intuition of local socioeconomic context
+- planning decisions bearing legal and ethical responsibilities
+- Creative ability to design unique community spaces
+
+**Skills to build:**
+
+- Master advanced GIS analysis and automation (ArcPy, QGIS)
+- Learn machine learning fundamentals and urban analysis applications (Scikit-learn, TensorFlow)
+- Improve data visualization and communication skills (Tableau, D3.js)
+- Keep up with updates to urban planning related laws and regulations
+- Develops public participation and conflict mediation skills
+- Learn sustainable infrastructure design principles
+
+**Key growth areas:**
 
 - Sustainable Urban Development
 - Smart City Projects
@@ -63,69 +99,68 @@ Town and traffic planners design and manage urban and transport systems, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card - Italy） | 适用于高技能非欧盟公民，需大学学历+工作合同，年薪门槛约33,500欧元（2024年）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保，受年度配额限制，适合非高技能岗位。 |
-| Subclass Autonomous Work Visa（Italy Autonomous Work Visa） | 自由职业规划师可申请，需提供专业资质和项目计划。 |
+| Subclass EU Blue Card (EU Blue Card - Italy) | Applicable to highly skilled non-EU citizens, requires university degree + employment contract, annual salary threshold approximately €33,500 (2024). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU workers, requires employer sponsorship, subject to annual quota limits, suitable for non-high-skilled positions. |
+| Subclass Autonomous Work Visa (Italy Autonomous Work Visa) | Freelance career planners can apply, requiring professional qualifications and project plan |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Town and Traffic Planner？**
-- 对城市发展和交通系统有浓厚兴趣的工程师
-- 具备系统思维和沟通能力的协调型人才
-- 愿意在公共部门或咨询行业长期发展的人
-
-**谁不适合学Town and Traffic Planner？**
-- 不喜欢与多利益相关方沟通的人
-- 追求高薪快速回报的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineers with a strong interest in urban development and transportation systems
+- Coordinating talent with systems thinking and communication skills.
+- People willing to pursue long-term careers in the public sector or consulting industry
+
+**Who is not suited**
+- People who dislike communicating with multiple stakeholders
+- People seeking high salary and quick returns.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Italian town and traffic planner?**
+A: Entry-level: approximately €25,000-35,000/year, mid-level: €35,000-50,000/year, senior: up to €75,000/year. Salary is affected by region (higher in the north) and sector (private consulting pays more than public).
+
+**Q: What are the requirements for immigrating to Italy as a town planner?**
+A: Requires an Italian employer contract to apply for an EU Blue Card (high-skilled) or Decreto Flussi work visa. Registration with the urban planners' association (Albo) is mandatory. Fluency in Italian is essential.
+
+**Q: What are the career prospects for urban planners?**
+A: Stable but slow growth. Italy's infrastructure update demand persists, but competition is fierce. Proficiency in English and EU project experience are advantageous.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Town and Traffic Planner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a town and traffic planner in Italy?**
-答：Entry-level: €25,000-35,000/year; mid-level: €35,000-50,000/year; senior: up to €75,000/year. Salaries vary by region (higher in the North) and sector (private consulting higher than public).
-
-**问：What are the conditions for immigrating to Italy as a town planner?**
-答：You need a job contract from an Italian employer and apply for an EU Blue Card (high-skilled) or Decreto Flussi work visa. Registration with the Ordine degli Architetti is mandatory. Proficiency in Italian is essential.
-
-**问：What is the career outlook for town planners?**
-答：Stable but slow-growing. Infrastructure renewal needs persist, but competition is high. Knowledge of English and EU project experience are advantageous.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

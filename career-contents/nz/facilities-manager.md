@@ -1,58 +1,94 @@
-# Facilities Manager（Facilities Manager）职业分析 · 新西兰
+# Facilities Manager — career analysis · New Zealand
 
-**职业代码：149913 – Facilities Manager。**
+**Occupation code: 149913 (ANZSCO)**
 
-Facilities managers oversee the operation and maintenance of buildings and facilities, including equipment management, space planning, security, and cleaning. In New Zealand, this occupation is eligible for the Skilled Migrant Category and AEWV but is not on the Green List.
+Facility managers are responsible for the operation and maintenance of buildings and facilities, including equipment management, space planning, security, and cleaning. This occupation is covered under New Zealand's skilled migration categories; it is not on the Green List but can be pursued via SMC or AEWV pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（公立大学学费（国际生）） |
-| 研究生文凭 | 1年 | $25,000~$35,000（如奥克兰理工大学设施管理PgDip） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Public university tuition (international students).) |
+| Graduate diploma | 1 year | $25,000~$35,000 (E.g., AUT Postgraduate Diploma in Facilities Management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：轻松（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 设施管理学士（Bachelor of Facility Management） | 梅西大学/奥克兰理工大学 | 可选 | 常见相关学位 |
-| 注册设施经理（Certified Facility Manager, CFM） | 国际设施管理协会（IFMA） | 可选 | 增加就业竞争力 |
+| Bachelor of Facility Management | Massey University / Auckland University of Technology | Optional | Common related degrees |
+| Certified Facility Manager (CFM) | International Facility Management Association (IFMA) | Optional | Enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定增长（★★★½☆）。** 全国从业人数约 3,500。新西兰建筑业持续增长，商业和公共设施管理需求旺盛。预计未来5年就业增长稳定，尤其在奥克兰、惠灵顿等主要城市。认证雇主工签（AEWV）是主要入境途径，但需满足薪资中位数要求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,500. New Zealand's construction industry continues to grow, with strong demand for commercial and public facility management. Steady employment growth expected over the next 5 years, especially in major cities like Auckland and Wellington. The Accredited Employer Work Visa (AEWV) is the main entry pathway, but must meet the median wage requirement.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 年薪范围 |
-| 中级（3-6年） | $70,000~$90,000 | 年薪范围 |
-| 高级（6年以上） | $90,000~$120,000 | 年薪范围，含管理层职位 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Annual salary range |
+| Mid-level (3–6 years) | $70,000~$90,000 | Annual salary range |
+| Senior (6+ years) | $90,000~$120,000 | Annual salary range, including management positions |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级设施管理员可通过积累经验晋升为区域设施经理或资产经理。持有相关认证（如IFMA的CFM）可加速职业发展。部分从业者转向物业管理或可持续发展协调等细分领域。
-**AI替代风险：低风险（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on facility managers (FMs) is twofold: routine admin, data analysis, and compliance monitoring tasks are easily automated, but on-site emergency response, supplier negotiation, and cross-department coordination, which rely on interpersonal trust and physical presence, are hard to replace. Overall, the role will not be fully replaced, but focus will shift to high-value decisions and exception handling.
+
+Junior facility managers can advance to regional facility manager or asset manager by gaining experience. Holding relevant certifications (e.g., IFMA's CFM) can accelerate career progression. Some practitioners move into property management or sustainability coordination niche areas.
+
+**Tasks most exposed to AI:**
+
+- Automatic assignment and status tracking of routine maintenance work orders
+- Automatic generation and preliminary investigation of anomaly alerts based on sensor data
+- Automated generation of compliance reports and energy efficiency data analysis
+- Automated management of meeting room and space bookings
+- Automated matching in supplier payment approval processes
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance: predict equipment failures through IoT data, optimize maintenance plans
+- Smart inventory alerts for consumables and automatic replenishment suggestions
+- AI assists in evaluating tenant satisfaction surveys and generating improvement plans
+- Use chatbots to handle common tenant inquiries, freeing FM time
+- Intelligent lighting and HVAC control optimization based on energy consumption models
+
+**Human moat:**
+
+- Immediate response and decision-making for on-site emergencies (e.g., water leaks, power failures)
+- Cross-supplier contract negotiation and long-term relationship management
+- Understand tenant-specific needs and provide customized solutions
+- Lead emergency evacuation drills and safety culture training
+- Handle confidential information and high-risk compliance (e.g., medical equipment rooms)
+
+**Skills to build:**
+
+- Operate and troubleshoot building management systems (BMS)
+- Basic Python or SQL (for automated report generation)
+- Data analysis and visualization (Tableau/Power BI)
+- AI Tools Like ChatGPT Assisting Client Communication
+- IoT device management and sensor data analysis
+- Sustainable operations certification (e.g., LEED GA)
+
+**Key growth areas:**
 
 - Construction Boom
 - Commercial Property Demand
@@ -61,64 +97,63 @@ Facilities managers oversee the operation and maintenance of buildings and facil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，薪资至少达到中位数（目前约29.66纽币/小时），可积累技术移民经验。 |
-| Subclass SMC（Skilled Migrant Category） | 根据6分制打分，需满足薪资中位数及技能工作经验要求。设施管理员ANZSCO等级为2，可获学历加分。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, salary at least median (currently about NZD 29.66/hour), can accumulate experience for skilled migration. |
+| Subclass SMC (Skilled Migrant Category) | Based on the 6-point system, must meet median wage and skilled work experience requirements. Facility Manager is ANZSCO Skill Level 2, eligible for qualification points. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Facilities Manager？**
-- 具有组织协调能力和多任务处理能力的人
-- 对建筑和设施运维感兴趣的人
-- 希望在非竞争性行业中稳定发展的人
-
-**谁不适合学Facilities Manager？**
-- 不善于处理日常运营细节的人
-- 不喜欢与人沟通或解决纠纷的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with organizational coordination and multitasking abilities
+- People interested in construction and facility maintenance
+- People who want stable development in a non-competitive industry
+
+**Who is not suited**
+- People who are not good at handling daily operational details
+- People who dislike communication or dispute resolution
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of facility managers in New Zealand?**
+A: Entry-level facility manager salary about NZD 55,000-70,000 per year, mid-level NZD 70,000-90,000, senior up to NZD 120,000 or more. Salary varies by experience, location, and employer.
+
+**Q: Can facility managers qualify for the Green List or skilled migration?**
+A: This occupation is not on the Green List, but can apply through Skilled Migrant Category (SMC), meeting median salary and work experience requirements. The Accredited Employer Work Visa (AEWV) is also a viable entry pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 轻松（★½☆☆☆） |
-| 职位需求量 | 稳定增长（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低风险（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Facilities Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for facilities managers in New Zealand?**
-答：Entry-level facilities managers earn between NZD 55,000-70,000 annually, mid-level NZD 70,000-90,000, and senior roles up to NZD 120,000 or more. Salaries vary by experience, location, and employer.
-
-**问：Can facilities managers apply for the Green List or Skilled Migrant Category?**
-答：This occupation is not on the Green List, but it is eligible for the Skilled Migrant Category (SMC) if the salary meets the median wage and work experience requirements. The Accredited Employer Work Visa (AEWV) is also a common pathway.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Marketing Manager（Marketing Manager）职业分析 · 新西兰
+# Marketing Manager — career analysis · New Zealand
 
-**职业代码：131112 – Marketing Manager。**
+**Occupation code: 131112 (ANZSCO)**
 
-Marketing Managers in New Zealand develop and implement marketing strategies, manage teams, and coordinate advertising, PR, and digital marketing. With digital transformation and tourism recovery, demand is growing, and the role is eligible for Skilled Migrant Category and Green List Tier 2 residency.
+Marketing managers in New Zealand are responsible for developing and executing marketing strategies, managing teams, and coordinating advertising, PR, and digital marketing activities. With the digital transformation of New Zealand businesses and tourism recovery, demand for this role continues to grow. It qualifies for skilled migration, and can apply for residence through the Skilled Migrant Category or Green List Tier 2.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（营销或商科） | 3年 | $30,000~$45,000（国际生学费，本地生约$8,000） |
-| 研究生文凭（营销） | 1年 | $25,000~$40,000（国际生学费） |
-| 硕士（营销） | 1-2年 | $40,000~$60,000（国际生学费） |
+| Bachelor's degree (Marketing or Business) | 3 years | $30,000~$45,000 (International student tuition; domestic students around $8,000) |
+| Graduate diploma (Marketing). | 1 year | $25,000~$40,000 (International student tuition) |
+| Master's (Marketing) | 1-2 years | $40,000~$60,000 (International student tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 营销学士或硕士 | 新西兰大学（如奥克兰大学） | 可选 | 通常要求，非强制 |
-| 数字营销认证 | Google Digital Garage | 可选 | 提升竞争力 |
-| 雅思7.0 | IDP/BC | 必备 | 技术移民语言要求 |
+| IELTS 7.0 | IDP/BC | Required | Language requirements for skilled migration |
+| Bachelor's or Master's in marketing | New Zealand universities (e.g., University of Auckland) | Optional | Usually required, not mandatory |
+| Digital marketing certification | Google Digital Garage | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。新西兰数字营销市场预计年增长5-8%，企业品牌竞争加剧，旅游业和科技行业对营销经理需求旺盛。奥克兰、惠灵顿和基督城为主要就业城市，中小型企业也越来越多设立营销职位。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The New Zealand digital marketing market is expected to grow 5-8% annually, with increased brand competition. Tourism and tech industries have high demand for marketing managers. Auckland, Wellington, and Christchurch are main employment cities, and SMEs are increasingly creating marketing positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理营销经理或专员 |
-| 中级（3-6年） | $75,000~$105,000 | 营销经理 |
-| 高级（6年以上） | $105,000~$150,000 | 高级经理或总监 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Assistant marketing manager or coordinator |
+| Mid-level (3–6 years) | $75,000~$105,000 | Marketing Manager |
+| Senior (6+ years) | $105,000~$150,000 | Senior manager or director |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级营销专员可晋升为营销经理（3-5年），再升至高级营销经理或营销总监（8-10年）。具备数据分析、数字营销和品牌战略能力者晋升更快，可转向CMO或创业咨询。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI significantly enhances marketing managers' data analysis and content production efficiency, but core competencies like strategic decision-making, team leadership, and client relationships remain hard to replace; overall opportunities outweigh threats.
+
+Junior marketing specialists can advance to marketing manager (3-5 years), then to senior marketing manager or marketing director (8-10 years). Those with data analysis, digital marketing, and brand strategy skills advance faster; can move to CMO or entrepreneurial consulting.
+
+**Tasks most exposed to AI:**
+
+- Automating routine reports and data analysis (e.g., Excel sorting, weekly ad performance reports)
+- Generate standardized marketing copy and social media posts
+- Execute batch email marketing and automated customer segmentation
+- Manage bidding rankings and programmatic advertising
+
+**Where AI augments the role:**
+
+- Use AI for consumer behavior prediction and market trend analysis
+- Create personalized videos, images, and copy content using AI
+- Rapidly generate A/B test plans and optimization suggestions using AI tools
+- Using AI-driven dashboards to monitor and adjust multi-channel marketing campaigns in real time
+
+**Human moat:**
+
+- Develop long-term brand strategy and annual marketing plans
+- Cross-departmental coordination and senior management communication
+- Making non-routine decisions based on market intuition and experience
+- Building and maintaining key client, media, and partner relationships
+
+**Skills to build:**
+
+- Proficiency in Python or R for marketing data analysis.
+- Proficiency in AI content generation tools (e.g., Jasper, DALL·E)
+- Learn advanced usage of Google Analytics and CRM systems
+- Enhance project management and agile marketing approaches
+- Develop data-driven decision-making and A/B test design skills
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -63,69 +95,68 @@ Marketing Managers in New Zealand develop and implement marketing strategies, ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+工作经验+薪资）可申请居留 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事营销经理职位满2年且薪资中位数以上可申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，薪资达中位数（$31.61/小时） |
-| Subclass Partnership（Partner of a New Zealander） | 如配偶为新西兰居民，可申请配偶工签或居留 |
+| Subclass SMC (Skilled Migrant Category) | Meeting the 6-point system (qualifications + work experience + salary) can apply for residence |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Hold a marketing manager position for 2 years and earn above median wage to apply for residence |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires approved employer sponsorship; salary must meet median level ($31.61/hour) |
+| Subclass Partnership (Partner of a New Zealander) | If the spouse is a New Zealand resident, may apply for a partner work visa or residence |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marketing Manager？**
-- 有数字营销和数据分析经验的求职者
-- 具备团队管理和跨文化沟通能力者
-- 希望在新西兰长期发展并争取居留权的人
-
-**谁不适合学Marketing Manager？**
-- 偏好稳定、低压力工作环境的人
-- 缺乏英语沟通和创意策略能力者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Job seekers with digital marketing and data analysis experience
+- Team management and cross-cultural communication skills preferred
+- People aiming to develop long-term in New Zealand and secure residence
+
+**Who is not suited**
+- People who prefer stable, low-pressure work environments
+- Those lacking English communication and creative strategy skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a marketing manager in New Zealand?**
+A: According to Stats NZ, a mid-level marketing manager earns about $75,000-$105,000 annually, while senior roles can reach $150,000. This is well above the median salary ($65,000), indicating a high income level.
+
+**Q: How can a marketing manager apply for New Zealand skilled migration?**
+A: Can apply through the Skilled Migrant Category (6-point system) or Green List Tier 2 (work to residence). Requires a job offer from an accredited employer, salary at median, and meeting English requirements.
+
+**Q: Is it easy to find work as a marketing manager in New Zealand?**
+A: Many opportunities, especially in Auckland and Wellington. But competition is moderate; local experience or qualifications are advantageous. Digital marketing skills and industry connections can improve success rates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 3-4年（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Marketing Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Marketing Manager in New Zealand?**
-答：According to Stats NZ, mid-level Marketing Managers earn NZ$75,000-$105,000 annually, with senior roles up to $150,000, well above the median wage ($65,000).
-
-**问：How can a Marketing Manager apply for New Zealand skilled migration?**
-答：Through Skilled Migrant Category (6-point system) or Green List Tier 2 (work to residence). Requires an accredited employer offer, salary above median, and English proficiency.
-
-**问：Is it easy to find a Marketing Manager job in New Zealand?**
-答：Opportunities are good, especially in Auckland and Wellington, but competition is moderate. Local experience or qualification helps, and digital skills boost prospects.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

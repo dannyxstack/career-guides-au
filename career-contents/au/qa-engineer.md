@@ -1,66 +1,92 @@
-# 测试工程师（QA Engineer）职业分析 · 澳大利亚
+# QA Engineer — career analysis · Australia
 
-**职业代码：261314 – QA Engineer。**
+**Occupation code: 261314 (ANZSCO)**
 
-测试工程师（QA Engineer）负责软件测试、缺陷发现和质量保证，确保产品符合功能和性能要求。澳洲软件行业高速发展，自动化测试（Selenium、Playwright、Cypress）技能的测试工程师需求持续增长，是进入IT行业的重要路径之一。
+A QA Engineer is responsible for software testing, defect identification and quality assurance, ensuring products meet functional and performance requirements. With Australia's software industry growing rapidly, demand for QA Engineers skilled in automated testing (Selenium, Playwright, Cypress) continues to rise, making it an important pathway into the IT sector.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of IT / Computer Science | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| ISTQB Foundation / Advanced Certification | 1~3个月 | $400~$1,500（行业基础认证） |
-| Test Automation Tools Portfolio (Selenium/Playwright) | 3~6个月自学 | —（实战项目组合） |
+| Bachelor of IT / Computer Science | 3 years | $25,000~$45,000 (International students approx. $100k–$140k total fees) |
+| ISTQB Foundation / Advanced Certification | 1–3 months | $400~$1,500 (Foundational industry certification) |
+| Test Automation Tools Portfolio (Selenium/Playwright) | 3–6 months of self-study | $0~$500 (Hands-on project portfolio) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of IT / Software Engineering | 认可大学 | 可选 | 入行基础 |
-| ISTQB Certified Tester Foundation Level | ISTQB | 可选 | 行业基础认证 |
-| ISTQB Advanced Test Automation Engineer | ISTQB | 可选 | 自动化测试高级认证 |
+| Bachelor of IT / Software Engineering | Recognised university | Optional | Foundation for entering the industry |
+| ISTQB Certified Tester Foundation Level | ISTQB | Optional | Foundational industry certification |
+| ISTQB Advanced Test Automation Engineer | ISTQB | Optional | Advanced certification in automated testing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 14,000。敏捷开发和DevOps的普及推动测试左移（Shift-Left Testing），测试工程师须深度融入开发流程。AI辅助测试工具快速普及改变了传统手工测试方式，但测试架构设计和质量策略制定仍需专业人员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,000. The adoption of Agile and DevOps has driven Shift-Left Testing, requiring test engineers to be deeply integrated into the development process. AI-assisted testing tools are rapidly changing traditional manual testing practices, but test architecture design and quality strategy formulation still require skilled professionals.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~380 个 | 2025年均值 |
-| Indeed | 130~260 个 | 2025年均值 |
-| LinkedIn | 170~310 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $62,000~$82,000 | Junior QA Engineer |
-| 中级（3-8年） | $85,000~$120,000 | QA/Automation Engineer |
-| 高级（8年+） | $123,000~$165,000 | Senior QA / Test Lead |
+| Median salary | $131,924 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $62,000~$82,000 | Junior QA Engineer |
+| Mid-level (3–8 years) | $85,000~$120,000 | QA/Automation Engineer |
+| Senior (8+ years) | $123,000~$165,000 | Senior QA / Test Lead |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 手工测试岗位快速减少，自动化测试框架（Selenium、Playwright）和API测试（Postman/RestAssured）成为必备技能。性能测试（JMeter、k6）和安全测试（OWASP）方向薪资溢价明显，CI/CD集成测试技能是招聘热点。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The impact of AI on test engineer roles is mixed: Repetitive tasks like automated test script writing and regression testing are easily replaced by AI, but AI also significantly improves test coverage and efficiency, while new directions like AI testing and model evaluation create new opportunities.
+
+Manual testing roles are declining rapidly; automation testing frameworks (Selenium, Playwright) and API testing (Postman/RestAssured) have become essential skills. Salary premiums are notable in performance testing (JMeter, k6) and security testing (OWASP) areas, and CI/CD integration testing skills are a key hiring focus.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating test cases and scripts from requirement documents
+- Batch execution of regression tests and result comparison
+- Automatic bug localization and classification based on historical defect data
+- Manual exploratory testing of simple functions (replaced by AI-driven tools)
+
+**Where AI augments the role:**
+
+- Use AI to recommend key test scenarios to increase test coverage depth
+- AI-assisted generation of test data and simulation of complex user behaviors
+- Automatic detection of potential defects and performance bottlenecks through AI log analysis
+- AI-driven visual testing and cross-browser compatibility checks
+
+**Human moat:**
+
+- Understanding complex business logic and end-to-end scenario design
+- Non-Functional Testing Strategies (Security, Usability, Accessibility)
+- Collaborating with development and product teams to promote quality culture
+- Innovation in testing methodologies for emerging technologies (e.g., AI models, blockchain)
+
+**Skills to build:**
+
+- AI/ML basics: understanding model training, evaluation, bias detection
+- AI testing tools: e.g., Test.ai, Applitools, Functionize
+- Advanced automation frameworks: Selenium/Playwright/Cypress + CI/CD integration
+- Data analysis and visualization: extract quality metrics from test data
+- Ability to Build Low-Code/No-Code Testing Platforms
+
+**Key growth areas:**
 
 - Test Automation (Selenium/Playwright)
 - Performance & Load Testing
@@ -69,66 +95,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，IT类 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, IT sector |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学测试工程师？**
-- 有编程基础并希望进入IT行业的转行者
-- 注重代码质量和系统可靠性的开发人员
-- 希望通过测试方向进入金融科技公司者
-
-**谁不适合学测试工程师？**
-- 不愿学习自动化框架、只做手工测试者
-- 偏好快速开发新功能而非测试验证者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Career changers with a programming background looking to enter the IT industry
+- Developers who prioritise code quality and system reliability
+- Suitable for those looking to enter fintech companies through a testing pathway
+
+**Who is not suited**
+- Those unwilling to learn automation frameworks and who only perform manual testing
+- Those who prefer rapidly building new features over testing and validation
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for test engineers in Australia?**
+A: Entry-level approx. AUD 62,000-82,000, mid-level 85,000-120,000, senior/test lead 123,000-165,000, automation and performance testing specialists additional premium.
+
+**Q: Is it easy for a QA engineer to find work in Australia?**
+A: Demand for manual testing is declining, while automation test engineers remain in sustained shortage. Seek consistently lists 200–380 active positions; proficiency in frameworks such as Selenium or Playwright is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 261314 测试工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-测试工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：测试工程师在澳洲薪资如何？**
-答：初级约AUD 6.2万~8.2万，中级8.5万~12万，高级/测试负责人12.3万~16.5万，自动化测试和性能测试专家额外溢价。
-
-**问：澳洲QA工程师好找工作吗？**
-答：手工测试需求在减少，自动化测试工程师持续紧缺，Seek常年有200~380个活跃职位，需掌握Selenium或Playwright等框架。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

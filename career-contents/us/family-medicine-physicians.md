@@ -1,61 +1,97 @@
-# Family Medicine Physicians（Family Medicine Physicians）职业分析 · 美国
+# Family Medicine Physicians — career analysis · United States
 
-**职业代码：29-1215 – Family Medicine Physicians。**
+**Occupation code: 29-1215 (SOC)**
 
-Family medicine physicians diagnose, treat, and provide preventive care to individuals and families across the lifespan, referring to specialists when needed.
+Family medicine physicians provide diagnostic, treatment, and preventive care for individuals and families of all ages, and refer to specialists when needed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（预科） | 4年 | $40,000~$200,000（根据公立/私立差异较大） |
-| 医学院（MD/DO） | 4年 | $150,000~$300,000（学费加生活费） |
-| 住院医师培训 | 3年 | —（获得薪金，约 $60,000/年） |
+| Undergraduate (foundation) | 4 years | $40,000~$200,000 (Varies significantly between public and private) |
+| Medical school (MD/DO) | 4 years | $150,000~$300,000 (Tuition plus living expenses) |
+| Residency training | 3 years | $0~$0 (Receive salary, approximately $60,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位（MD/DO） | 认证医学院 | 必备 | 完成 4 年医学院课程 |
-| 美国医师执照考试（USMLE/COMLEX） | NBME/NBOME | 必备 | 通过三步考试 |
-| 家庭医学委员会认证 | 美国家庭医学委员会（ABFM） | 必备 | 完成住院医并考试 |
-| 州行医执照 | 各州医学委员会 | 必备 | 每州要求不同 |
+| Doctor of Medicine (MD/DO) | Accredited medical school | Required | Complete 4 years of medical school |
+| United States Medical Licensing Examination (USMLE/COMLEX) | NBME/NBOME | Required | Pass a three-step exam |
+| Board certification in family medicine | American Board of Family Medicine (ABFM) | Required | Complete residency and pass exams |
+| State medical license | State Medical Boards | Required | Requirements vary by state |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 134,000。美国家庭医学医师需求持续增长，受人口老龄化和初级保健重视推动。BLS 预计 2023-2033 年就业增长约 5%，高于平均水平，特别是在农村和医疗服务不足地区。
+**Job demand: very high (★★★★½).** National workforce approx. 134,000. Demand for family medicine physicians in the US continues to grow, driven by an aging population and emphasis on primary care. BLS projects employment growth of about 5% from 2023-2033, above average, especially in rural and underserved areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（住院医师/刚完成培训） | $150,000~$200,000 | 诊所或医院雇佣 |
-| 中级（4-9 年） | $200,000~$260,000 | 经验增加薪资 |
-| 高级（10+ 年或私营） | $250,000~$350,000 | 高级或合伙医师 |
+| Median salary | $244,180 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (resident physician / just completed training) | $150,000~$200,000 | Employed by clinics or hospitals |
+| Intermediate (4-9 years) | $200,000~$260,000 | Salary increases with experience |
+| Senior (10+ years or private sector) | $250,000~$350,000 | Senior or partner physician |
+| average salary | $255,820 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常从住院医师培训开始，之后可进入私人诊所、医院或学术机构。资深医师可成为医疗主任、诊所合伙人或转入专科（如运动医学）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace family medicine physicians but will significantly enhance diagnostic efficiency and patient management; physicians need to transition to AI-collaborative decision-makers.
+
+Career path typically starts with residency training, then can move into private practice, hospital, or academia. Senior physicians can become medical directors, clinic partners, or specialize (e.g., sports medicine).
+
+**Tasks most exposed to AI:**
+
+- Automatic generation of medical records and diagnostic reports
+- Preliminary interpretation of routine laboratory results
+- Drug interactions and dosage calculations
+- Patient appointment and follow-up reminders
+- Basic health consultation (e.g., symptom self-check)
+
+**Where AI augments the role:**
+
+- Clinical decision support based on electronic health records (EHR) and literature
+- AI-assisted rapid analysis of imaging (e.g., X-ray, dermoscopy)
+- Personalized preventive health plan (risk assessment + recommendations)
+- Remote monitoring data analysis (e.g., vital signs of chronic disease patients)
+- Generation of multilingual patient communication and education materials
+
+**Human moat:**
+
+- Comprehensive judgment and clinical reasoning for complex comorbidities
+- Building trust and emotional support between doctors and patients
+- Handling unstructured symptoms and vague complaints
+- Ethical decision-making and informed consent communication
+- Manual operations such as suturing, excision and other invasive procedures
+
+**Skills to build:**
+
+- Use of Clinical AI Tools (e.g., diagnostic assistance software)
+- Biostatistics and scientific data interpretation
+- Telemedicine and digital health management
+- Communication and explanation skills for human-robot collaboration
+- AI Ethics and Data Privacy Regulations
+- Continuous learning to update clinical AI best practices
+
+**Key growth areas:**
 
 - aging population
 - primary care shortage
@@ -64,68 +100,67 @@ Family medicine physicians diagnose, treat, and provide preventive care to indiv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于医师，需通过USMLE并匹配住院医或获得工作offer |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | NIW或PERM，医师通常符合国家利益豁免 |
-| Subclass J-1 Waiver（J-1 Visa Waiver (Conrad 30)） | 外国医学毕业生在服务不足地区工作可豁免回国要求 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to physicians; must pass USMLE and match into residency or obtain a job offer |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | NIW or PERM, physicians often qualify for National Interest Waiver |
+| Subclass J-1 Waiver (J-1 Visa Waiver (Conrad 30)) | Foreign medical graduates can be exempt from returning home requirement if they work in underserved areas. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Family Medicine Physicians？**
-- 对初级保健有热情，愿意与各年龄段患者建立长期关系
-- 能在高压环境下工作，具备良好沟通和决策能力
-- 希望在医疗资源不足地区工作的医生
-
-**谁不适合学Family Medicine Physicians？**
-- 不喜欢连续面对患者和复杂病例者
-- 偏好固定工作时间或较少行政责任的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about primary care, willing to build long-term relationships with patients of all ages
+- Able to work under high pressure, with good communication and decision-making skills.
+- For doctors wishing to work in medically underserved areas
+
+**Who is not suited**
+- For those who dislike continuous patient contact and complex cases
+- People who prefer fixed working hours or fewer administrative duties
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a family medicine physician?**
+A: According to BLS 2023 data, the median annual salary for U.S. family medicine physicians is approximately $236,000, but varies by region, experience, and job type.
+
+**Q: How can foreign doctors immigrate to the US?**
+A: Common pathways include securing a residency position (J-1 or H-1B) via USMLE, completing training, then applying for H-1B or green card (EB-2 NIW). The Conrad 30 J-1 waiver program allows work in underserved areas.
+
+**Q: Is family medicine in shortage?**
+A: Yes, the US faces a shortage of primary care physicians, especially in rural and remote areas. The aging physician population increases demand, and the shortage is expected to persist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Family Medicine Physicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for family medicine physicians?**
-答：According to BLS 2023, median annual wage for family medicine physicians is about $236,000, varying by location, experience, and practice setting.
-
-**问：How can foreign physicians immigrate to the US?**
-答：Common paths include: passing USMLE to obtain residency (J-1 or H-1B), then applying for H-1B or green card (EB-2 NIW). Conrad 30 J-1 waiver allows working in underserved areas.
-
-**问：Is there a shortage in family medicine?**
-答：Yes, the US faces a primary care physician shortage, especially in rural and underserved areas. Aging workforce increases demand, with shortage expected to continue.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

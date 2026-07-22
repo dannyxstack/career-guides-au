@@ -1,62 +1,98 @@
-# Jewelry, Jewelry Making and Silversmithing（Jewelry, Jewelry Making and Silversmithing）职业分析 · FR
+# Jewelry, Jewelry Making and Silversmithing — career analysis · France
 
-**职业代码：B1603 – Jewelry, Jewelry Making and Silversmithing。**
+**Occupation code: B1603 (ROME)**
 
-Design, fabrication, repair and maintenance of jewelry, goldsmithing and silversmithing items, combining traditional craftsmanship with precision techniques.
+Engaged in the design, production, restoration, and maintenance of jewelry, gold and silverware, and valuables, covering both handicrafts and precision machining.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 珠宝制作 | 2年（CAP） | —（公立学校或学徒制免费，材料费自付） |
-| BTS 珠宝设计及工艺 | 2年（BTS） | —（公立学校学费低，私立较高） |
-| 学士或硕士珠宝设计 | 3-5年（Licence/Master） | $500~$12,000（公立大学约500欧/年，私立艺术院校高） |
+| CAP jewelry production | 2 years (CAP) | $0~$3,000 (Public schools or apprenticeships are free; materials are self-paid) |
+| BTS jewelry design and craftsmanship | 2 Years (BTS) | $0~$5,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Bachelor's or Master's degree in jewelry design | 3-5 years (Licence/Master) | $500~$12,000 (Public universities cost about 500 euros per year, while private art schools are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 珠宝制作 | 法国教育部 | 必备 | 入门级职业文凭，必备 |
-| BTS 珠宝设计及工艺 | 法国教育部 | 可选 | 高级技师文凭，提升竞争力 |
-| 专业认证（如CFA宝石学） | 法国宝石学协会 | 可选 | 非强制，但利于高端就业 |
+| CAP jewelry production | French Ministry of Education | Required | Entry-level professional diploma, essential |
+| BTS jewelry design and craftsmanship | French Ministry of Education | Optional | Senior Technician Diploma to enhance competitiveness |
+| Professional certifications (such as CFA gemology) | French Gemological Association | Optional | Not mandatory, but beneficial for high-end employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。法国珠宝金银器行业稳步发展，高端定制与修复需求稳定，但从业人数有限，竞争集中于巴黎及奢侈品产区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. The French jewelry and gold and silverware industry is steadily developing, with steady demand for high-end customization and restoration, but the number of practitioners is limited, with competition concentrated in Paris and luxury regions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒后转正 |
-| 中级（3-8年） | $30,000~$42,000 | 税前年薪，视技能与工作室 |
-| 高级（8年以上） | $45,000~$70,000 | 税前年薪，含大师级或独立设计师 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprentices after becoming full-time employees |
+| Mid-level (3–8 years) | $30,000~$42,000 | Pre-tax annual salary depends on skills and studio |
+| Senior (8+ years) | $45,000~$70,000 | Pre-tax annual salary, including master or independent designers |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒或CAP起步，逐步晋升为高级工匠、工作室主管或独立珠宝设计师，也可向奢侈品品牌管理发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
+
+You can start as an apprentice or CAP, gradually advance to senior craftsman, studio manager, or independent jewelry designer, or develop into luxury brand management.
+
+**Tasks most exposed to AI:**
+
+- Routine metal polishing and grinding (can be automated with AI-controlled robotic arms).
+- Gem cutting and setting calculations (parametric modeling to optimize cut automatically)
+- Repetitive inlay path planning (AI vision system assisted positioning)
+- Inventory management and simple design sketch generation (generative AI for rapid output)
+- Quality inspection and sorting of batch jewelry (computer vision for automatic defect detection)
+
+**Where AI augments the role:**
+
+- Complex 3D modeling and rendering (AI generates design variants for rapid style exploration)
+- Gem optimization cutting simulation (AI analyzes internal structure of rough stone to suggest optimal facets)
+- Personalized custom design (AI generates initial plan based on client needs, then craftspeople refine)
+- Teaching and skill transfer (AR/VR simulated operations, AI real-time error feedback)
+- Repair and restoration solution assessment (AI scans damaged structures, recommends repair paths)
+
+**Human moat:**
+
+- Artistic feel of hand setting and fine metal adjustment (AI cannot replicate tactile feedback)
+- Emotional interaction skills for communicating custom needs with clients and passing on brand stories
+- Experience-based restoration of historical craftsmanship in antique jewelry repair
+- Decision-making and accountability for handling high-value, one-of-a-kind works
+- Irregularity of comprehensive creation across materials (precious metals, gemstones, enamel, etc.)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., Rhino, MatrixGold) and parametric design tools
+- Prompt engineering and image optimization for AI-assisted design platforms (e.g., Midjourney for jewelry)
+- Deepening gemology and materials science (understanding the gap between AI simulation and actual cutting)
+- Digital manufacturing processes (3D printing wax patterns, CNC engraving) operation and post-processing
+- Customer experience design (incorporating AR/VR try-ons and custom communication)
+- Sustainable/traceability technology (blockchain registering gem origin, meeting ESG requirements)
+
+**Key growth areas:**
 
 - luxury goods
 - artisan craftsmanship
@@ -65,69 +101,68 @@ Design, fabrication, repair and maintenance of jewelry, goldsmithing and silvers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 由雇主担保的工作居留，需证明职位无法由欧盟公民填补。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或杰出人才，如知名工匠，需提供项目或雇主证明。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search Visa)） | 毕业后一年内寻找工作的临时居留，需持有法国文凭。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | For employer-sponsored work residence, it must be proven that the position cannot be filled by an EU citizen. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or outstanding talents, such as well-known craftsmen, who must provide proof of project or employer. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | Temporary residence permit to seek work within one year after graduation, requires a French degree. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Jewelry, Jewelry Making and Silversmithing？**
-- 对珠宝与金属工艺有浓厚兴趣，愿意投入长时间手工练习者
-- 具备精细动作能力与艺术审美者
-- 希望从事高端定制或修复工作，且接受相对缓慢的职业晋升者
-
-**谁不适合学Jewelry, Jewelry Making and Silversmithing？**
-- 追求高收入或快速致富者
-- 缺乏耐心且不擅长细致手工操作者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in jewelry and metalwork, willing to engage in long-term manual practice
+- Possess fine motor skills and artistic aesthetic sense
+- Those who want to work in high-end customization or restoration work and accept relatively slow career advancements
+
+**Who is not suited**
+- Those seeking high income or getting rich quickly
+- Lack of patience and poor at meticulous manual operation
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a jewelry artisan?**
+A: Pre-tax annual salary for French jewelry artisans ranges from approximately EUR 22,000 to EUR 70,000, entry-level EUR 22,000–28,000, mid-level EUR 30,000–42,000, senior EUR 45,000–70,000.
+
+**Q: How can foreigners work in France making jewelry, gold, and silverware?**
+A: Non-EU citizens must obtain a French diploma (such as CAP/BTS) and then apply for a Salarié or Passeport Talent visa sponsored by an employer. Certification helps with job hunting.
+
+**Q: What are the promotion paths for jewelry artisans?**
+A: You can advance from craftsman to senior craftsman, studio supervisor, independent designer, or enter a luxury brand as a technical director. It can also be shifted to teaching or restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Jewelry, Jewelry Making and Silversmithing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a jewelry artisan?**
-答：In France, gross annual salary ranges from €22,000 to €70,000, with junior €22-28k, mid €30-42k, senior €45-70k.
-
-**问：How can a foreigner work as a jewelry artisan in France?**
-答：Non-EU citizens need a French diploma (CAP/BTS), then employer sponsorship for Salarié or Passeport Talent visa. Qualification recognition helps.
-
-**问：What are the career progression paths for a jewelry artisan?**
-答：From artisan to master craftsman, studio manager, independent designer, or technical director in luxury brands. Also possible in teaching or restoration.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Construction Supervisor（Construction Supervisor）职业分析 · IE
+# Construction Supervisor — career analysis · Ireland
 
-**职业代码：3123 – Construction Supervisor。**
+**Occupation code: 3123 (ISCO08)**
 
-Construction supervisors oversee daily operations on building sites, ensuring projects are completed on time, within budget, and safely, while coordinating workers and subcontractors.
+Construction supervisors oversee daily operations on construction sites, ensuring projects are completed on time, within budget, and safely, while coordinating workers and subcontractors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（学徒制） | —（学徒制通常免费，工具和交通费用自付） |
-| 高等教育 | 3-4年（本科） | $10,000~$20,000（每年学费，部分课程有补贴） |
+| High school graduation | 4 years (apprenticeship) | $0~$5,000 (Apprenticeships are usually free; costs for tools and transport are self-funded.) |
+| Higher education | 3-4 years (Bachelor's degree) | $10,000~$20,000 (Annual tuition fees, with subsidies available for some courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 施工主管资格 | 爱尔兰建筑技能认证 | 必备 | 通常需要行业经验或相关学位 |
-| 安全培训证书 | 爱尔兰健康与安全局 | 必备 | 如Safe Pass和Manual Handling |
+| Site Supervisor qualifications | Irish Construction Skills Certification | Required | Typically requires industry experience or relevant degree |
+| Safety training certificate | Health and Safety Authority (Ireland) | Required | Such as Safe Pass and Manual Handling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。爱尔兰建筑业持续增长，受住房需求和基础设施投资驱动，施工主管需求稳定，预计未来几年就业机会良好。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. Ireland's construction industry continues to grow, driven by housing demand and infrastructure investment, with steady demand for construction supervisors and good job prospects in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 积累经验后可晋升为项目经理或施工经理，也可向专业领域如安全或质量控制发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+After gaining experience, can progress to project manager or construction manager, or specialise in areas like safety or quality control.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Housing Demand
@@ -61,68 +97,67 @@ Construction supervisors oversee daily operations on building sites, ensuring pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需满足薪资和劳动力市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，施工主管在列，可快速获得居留 |
-| Subclass EU Blue Card（EU Blue Card） | 需高薪，适合高级职位 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, subject to salary and labor market testing |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to in-demand occupations; construction supervisor is on the list, allowing for fast residency. |
+| Subclass EU Blue Card (EU Blue Card) | High salary required, suitable for senior positions |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Supervisor？**
-- 有建筑行业经验者
-- 善于管理和沟通的人
-- 注重安全与细节的人
-
-**谁不适合学Construction Supervisor？**
-- 不喜欢户外和体力劳动的人
-- 不善于压力下决策的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with experience in the construction industry
+- Good at management and communication
+- A person who prioritizes safety and attention to detail
+
+**Who is not suited**
+- People who dislike outdoor and physical work
+- People who struggle with decision-making under pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a construction supervisor?**
+A: Entry-level around 35k-45k EUR, mid-level 45k-60k EUR, senior up to 80k EUR.
+
+**Q: How can a construction supervisor immigrate to Ireland via work visa?**
+A: Eligible via General Employment Permit or Critical Skills Employment Permit; the latter requires an annual salary of at least 32k EUR and has a faster application process.
+
+**Q: What qualifications are required?**
+A: Usually requires a construction supervisor qualification and a Safe Pass safety training certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Construction Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a construction supervisor?**
-答：Entry-level around €35k-€45k, mid-level €45k-€60k, senior up to €80k per annum.
-
-**问：How can a construction supervisor immigrate to Ireland via work visa?**
-答：Through General Employment Permit or Critical Skills Employment Permit, the latter requiring salary ≥€32k and faster processing.
-
-**问：What certifications are required?**
-答：Typically a construction supervisor qualification and Safe Pass safety training certificate.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

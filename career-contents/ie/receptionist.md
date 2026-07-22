@@ -1,60 +1,96 @@
-# Receptionist（Receptionist）职业分析 · IE
+# Receptionist — career analysis · Ireland
 
-**职业代码：4226 – Receptionist。**
+**Occupation code: 4226 (ISCO08)**
 
-Receptionists are the first point of contact in an organization, greeting visitors, answering calls, handling mail, and providing general administrative support. This role is in demand across various sectors in Ireland, including offices, hotels, and medical clinics.
+A receptionist is the first point of contact at an organization's front desk or reception area, responsible for greeting visitors, answering calls, handling emails, and providing general administrative support. This occupation is in demand across various industries in Ireland, such as offices, hotels, and medical clinics.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 通常无需高等教育 | —（大多数职位仅要求高中文凭，无需额外学费） |
-| 职业培训证书 | 6个月至1年 | $500~$2,000（如FETAC Level 5或类似课程，费用因机构而异） |
+| High school diploma | Usually no higher education required | $0~$0 (Most positions only require a high school diploma, with no additional tuition fees) |
+| Vocational training certificate | 6 months to 1 year | $500~$2,000 (Such as FETAC Level 5 or similar courses, fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质要求 | 无 | 可选 | 雇主通常看重沟通能力和计算机技能，而非特定证书 |
-| 办公技能证书（如ECDL） | ECDL基金会 | 可选 | 可提升简历竞争力，但非必需 |
+| No mandatory qualification requirements | None | Optional | Employers typically value communication skills and computer skills over specific certifications. |
+| Office skills certificate (e.g., ECDL) | ECDL Foundation | Optional | Can boost resume competitiveness, but not required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。根据CSO数据，2024年爱尔兰接待员从业人数约2.5万人。随着服务业的持续增长，尤其是都柏林及主要城市的商务活动，预计该岗位需求稳定。但自动化前台系统可能影响部分低端岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. According to CSO data, approximately 25,000 people worked as receptionists in Ireland in 2024. With the continued growth of the service sector, especially business activity in Dublin and major cities, demand for this role is expected to remain stable. However, automated front desk systems may affect some lower-level positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$27,000 | 年薪约€23,000-€27,000，取决于地区和公司规模 |
-| 中级（3-7年） | $27,000~$32,000 | 年薪约€27,000-€32,000，通常具备更多职责 |
-| 高级（7年以上） | $32,000~$40,000 | 年薪可达€32,000-€40,000，晋升为办公室主管或经理 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$27,000 | Annual salary approximately €23,000-€27,000, depending on region and company size |
+| Mid-level (3–7 years) | $27,000~$32,000 | Annual salary around €27,000-€32,000, typically with more responsibilities |
+| Senior (7+ years) | $32,000~$40,000 | Annual salary of up to €32,000-€40,000, with promotion to office supervisor or manager |
+| average salary | $30,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 接待员可通过积累经验晋升为行政助理、办公室经理或客户服务主管。部分大型企业提供内部培训，支持向人力资源或市场营销等方向发展。职业路径灵活，取决于个人技能和行业偏好。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Receptionist role is highly standardized; AI voice assistants, auto-booking systems, and smart front desks are rapidly replacing core tasks like answering calls, visitor check-in, and schedule management. Entry-level roles face compression risk.
+
+Receptionists can advance to administrative assistant, office manager, or customer service supervisor through experience. Some large companies provide internal training to support moves into HR or marketing. Career paths are flexible, depending on individual skills and industry preferences.
+
+**Tasks most exposed to AI:**
+
+- Answer and transfer calls: AI voice assistants can automatically answer, categorize, and transfer calls.
+- Visitor registration and notification: self-service kiosks and facial recognition replace manual sign-in
+- Mail and letter sorting: automated sorting systems and electronic processes reduce manual handling
+- Basic query answering: chatbots can handle common questions
+- Meeting room booking & schedule coordination: online calendar system for automatic allocation & reminders
+
+**Where AI augments the role:**
+
+- Analyze visitor data through AI to optimize front desk reception processes and customer experience
+- Use natural language processing to generate multilingual welcome information and service guides
+- Leverage smart CRM systems to manage key client relationships and customize reception plans
+- Use automated reporting tools to improve statistical efficiency in administrative data
+- Quickly learn new organization policies and procedures through AI-assisted training systems
+
+**Human moat:**
+
+- Complex sentiment sensing and personalized service (e.g., comforting dissatisfied visitors)
+- Handling emergencies (e.g., conflict mediation, emergency coordination)
+- Multitasking coordination and unstructured decision-making (simultaneously handling phone calls, visitors, and internal needs)
+- Build trust and rapport (through eye contact, smiling, and body language)
+- Understand organizational culture and flexibly perform non-standardized etiquette
+
+**Skills to build:**
+
+- Master mainstream CRM and visitor management software (e.g., Envoy, Traction Guest)
+- Learn basic data analysis and use tools to optimize front-office operational metrics
+- Training AI dialogue and automated script writing capabilities
+- Improve multilingual communication and cross-cultural service skills
+- Learning event management and virtual conference platform operation
+- Master the basics of social media management and online reputation maintenance
+
+**Key growth areas:**
 
 - Customer Service
 - Administrative Support
@@ -63,63 +99,65 @@ Receptionists are the first point of contact in an organization, greeting visito
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需获得雇主担保。年薪通常需超过€27,000，且需通过劳动市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用于接待员岗位，因其薪资门槛较高（2024年约€38,000）。 |
-| Subclass Stamp 1G (Graduate S（Third Level Graduate Scheme） | 爱尔兰毕业生可申请，允许在毕业后12个月内寻找工作，无需雇主担保。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requires employer sponsorship. Annual salary typically must exceed €27,000, and a labor market test is required. |
+| Subclass EU Blue Card (EU Blue Card) | Typically not applicable to receptionist roles due to higher salary thresholds (~€38,000 in 2024). |
+| Subclass Stamp 1G (Graduate S (Third Level Graduate Scheme) | Irish graduates are eligible to apply, allowing 12 months after graduation to find work without employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Receptionist？**
-- 喜欢与人打交道、有良好沟通能力的人
-- 注重细节、能够多任务处理的人
-- 寻求稳定办公室工作、不希望高压力的人
+**Who is suited**
+- People who enjoy interacting with others and have strong communication skills
+- Detail-oriented person who can multitask
+- Those seeking a stable office job without high pressure
 
-**谁不适合学Receptionist？**
-- 希望高薪资或快速晋升的人
-- 不喜欢重复性工作或面对客户投诉的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who dislike repetitive work or dealing with customer complaints
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a receptionist in Ireland?**
+A: Entry-level receptionist annual salary around €23,000-€27,000, senior positions can reach over €40,000.
+
+**Q: Is it easy to immigrate to Ireland as a receptionist?**
+A: No, receptionist is not on Ireland's Critical Skills List, and the salary threshold is low, making general work permits difficult to obtain.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Receptionist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a receptionist in Ireland?**
-答：Entry-level receptionists earn around €23,000-€27,000 per year, while senior roles can exceed €40,000.
-
-**问：Is it easy to immigrate to Ireland as a receptionist?**
-答：No, receptionist is not on the Critical Skills Occupations List, and the low salary threshold makes it difficult to obtain a work permit.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

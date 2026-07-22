@@ -1,59 +1,95 @@
-# Preschool Teachers, Except Special Education（Preschool Teachers, Except Special Education）职业分析 · 美国
+# Preschool Teachers, Except Special Education — career analysis · United States
 
-**职业代码：25-2011 – Preschool Teachers, Except Special Education。**
+**Occupation code: 25-2011 (SOC)**
 
-Instruct preschool-aged students, following curricula or lesson plans, in activities designed to promote social, physical, and intellectual growth. Excludes special education teachers, substitute teachers, and childcare workers.
+Teaches pre-primary children, organizes activities according to curriculum or lesson plans, promoting social, physical, and intellectual development. Does not include special education teachers, substitute teachers, or childcare workers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费，含杂费和书本） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学本州学费，不含食宿） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition, including fees and books) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (In-state tuition at public universities, excluding room and board) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童发展助理（CDA） | 早期教育专业认可委员会 | 可选 | 全国认可的入门级证书，需完成120小时培训及实践 |
-| 州级学前教育执照 | 各州教育部门 | 必备 | 多数州要求公立学校学前教师持有州执照 |
-| 学士学位 | 认可高等教育机构 | 必备 | 许多州要求学士学位，尤其在公立学校 |
+| State-level preschool teaching license | State education departments | Required | Most states require public school preschool teachers to hold a state license |
+| Bachelor's degree | Recognized higher education institution. | Required | Many states require a bachelor's degree, especially in public schools |
+| Child Development Associate (CDA) | Early Childhood Education Professional Recognition Committee | Optional | Nationally recognized entry-level certificate, requires 120 hours of training and practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 540,000。美国劳工统计局预计2023-2033年该职业就业增长约4%，与所有职业平均水平持平。每年约有5.22万个职位空缺。早期教育重视程度提升推动需求。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 540,000. U.S. Bureau of Labor Statistics projects employment growth of about 4% from 2023-2033, about average for all occupations. About 52,200 job openings annually. Increased emphasis on early childhood education drives demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $29,000~$38,000 | 私立幼儿园或助理教师 |
-| 中级（4-9年） | $38,000~$48,000 | 公立学校主班教师 |
-| 高级（10年+） | $48,000~$62,000 | 学前教育主任或资深教师 |
+| Median salary | $38,140 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $29,000~$38,000 | Private kindergarten or assistant teacher |
+| Intermediate (4-9 years) | $38,000~$48,000 | Main classroom teacher in public schools |
+| Senior (10+ years) | $48,000~$62,000 | Preschool director or senior teacher |
+| average salary | $43,030 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理教师晋升为主班教师，继而成为学前教育中心主任或课程协调员。部分教师通过继续教育获得学士学位后进入小学教育。也可转向儿童发展专家或家庭教育顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
+
+Can progress from assistant teacher to lead teacher, then to preschool center director or curriculum coordinator. Some teachers obtain a bachelor's degree through continuing education and move into primary education. Could also transition to child development specialist or family education consultant.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates daily activity plans and lesson plans
+- AI analyzes child development data and generates assessment reports
+- AI handles parent communication emails, notifications, and other text tasks
+- AI management of course resource libraries and material ordering
+- AI-assisted basic English/math concept teaching exercises
+
+**Where AI augments the role:**
+
+- AI real-time observation and recording of children's learning behaviors, providing personalized teaching suggestions
+- AI analyzes early childhood development indicators to warn of potential developmental issues
+- AI assists in designing adaptive games and interactive activities to promote inclusive education
+- AI virtual characters engage in role-playing and language interaction to enrich teaching scenarios
+- AI automatically translates multilingual content, supporting multicultural family communication
+
+**Human moat:**
+
+- Build warm, trusting teacher-student relationships and provide emotional security.
+- Observing and interpreting children's nonverbal signals, emotions, and behaviors
+- Design open, exploratory curricula to stimulate creativity and curiosity
+- In-depth communication with parents to coordinate family and kindergarten education
+- Guiding children through complex social conflicts to develop social and emotional skills
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., child development analysis software)
+- Basic data analysis and evaluation report interpretation
+- Human-AI collaboration course design (e.g., adjusting activities after AI recommendations)
+- Digital communication and multimedia content creation
+- Special education and inclusive education methods
+- Child mental health and early intervention basics
+
+**Key growth areas:**
 
 - Early Childhood Education
 - Head Start Programs
@@ -62,69 +98,68 @@ Instruct preschool-aged students, following curricula or lesson plans, in activi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位，部分学前教师职位符合条件，但名额有限，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上或学士加5年经验，通过PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 需学士学位或同等经验，通过PERM劳工认证，排期较长 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明招聘不到美国工人，流程耗时1年以上 |
+| Subclass H-1B (H-1B Specialty Occupations) | Bachelor's degree required; some preschool teacher positions qualify, but with limited spots and ballot selection |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or bachelor's plus 5 years of experience, through PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires a bachelor's degree or equivalent experience, through PERM labor certification, with a long queue |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove they cannot recruit US workers, a process taking over 1 year |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Preschool Teachers, Except Special Education？**
-- 有耐心、热爱儿童教育的人
-- 善于创意活动和互动教学的人
-- 追求工作稳定和社会意义的人
-
-**谁不适合学Preschool Teachers, Except Special Education？**
-- 不擅长与幼儿相处的人
-- 对收入期望较高的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, loves children's education
+- People skilled in creative activities and interactive teaching
+- People seeking job stability and social significance
+
+**Who is not suited**
+- People who are not good with young children
+- Those with high income expectations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for preschool teachers?**
+A: Median annual salary for US preschool teachers is about USD 37,000; entry-level about USD 29,000-38,000, senior up to USD 62,000. Public schools typically pay more than private.
+
+**Q: What are the pathways for preschool teachers to immigrate to the US?**
+A: Common pathways include H-1B work visa (requires bachelor's degree) and EB-2/EB-3 employment-based green cards. However, H-1B requires a lottery, and EB-2/EB-3 have long wait times. Some states with teacher shortages may expedite the PERM process.
+
+**Q: What educational background is needed to become a preschool teacher?**
+A: Typically requires at least an associate degree, but public schools require a bachelor's. Many community colleges offer early childhood education associate programs at low cost. Licensure requirements vary by state.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Preschool Teachers, Except Special Education的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for preschool teachers?**
-答：The median annual wage is around $37,000. Entry-level positions pay $29k-$38k, while experienced teachers can earn up to $62k. Public school salaries are generally higher.
-
-**问：What are the immigration pathways for preschool teachers to the US?**
-答：Common pathways include H-1B visa (requires bachelor's) and EB-2/EB-3 green cards. H-1B is subject to cap and lottery; EB-2/EB-3 have long backlogs. Some states with teacher shortages may expedite PERM.
-
-**问：What education is needed to become a preschool teacher?**
-答：At least an associate degree is required, but a bachelor's is needed for public schools. Community colleges offer affordable early childhood education programs. Licensure requirements vary by state.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

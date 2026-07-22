@@ -1,59 +1,95 @@
-# Management Analysts（Management Analysts）职业分析 · 美国
+# Management Analysts — career analysis · United States
 
-**职业代码：13-1111 – Management Analysts。**
+**Occupation code: 13-1111 (SOC)**
 
-Management analysts conduct organizational studies, evaluate procedures, and design systems to help organizations operate more efficiently and profitably, often serving as management consultants.
+Management analysts help organizations improve efficiency and profitability by analyzing structures, evaluating processes, and designing improvements; often called management consultants.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1万美元，私立约3万美元） |
-| 硕士学位（MBA或相关） | 2年 | $40,000~$100,000（MBA项目学费差异大，公立约2万/年，私立可达5万/年） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Average annual tuition at public universities is about $10,000 USD, private about $30,000) |
+| Master's degree (MBA or related). | 2 years | $40,000~$100,000 (MBA program tuition varies greatly, public approx. $20,000/year, private up to $50,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理专业资格（PMP） | 项目管理协会（PMI） | 可选 | 非强制，但提升竞争力 |
-| 注册管理顾问（CMC） | 国际管理咨询协会（ICMCI） | 可选 | 高级认证，需经验 |
-| 六西格玛绿带/黑带 | 美国质量学会（ASQ）等 | 可选 | 常用于流程改进岗位 |
+| Project Management Professional (PMP) certification | Project Management Institute (PMI) | Optional | Not mandatory, but enhances competitiveness |
+| Certified Management Consultant (CMC) | International Council of Management Consulting Institutes (ICMCI) | Optional | Advanced certification, requires experience |
+| Six Sigma Green Belt/Black Belt | American Society for Quality (ASQ), etc. | Optional | Often used in process improvement roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 920,000。美国劳工统计局预计2023-2033年就业增长约10%，快于平均水平。企业持续寻求成本控制和效率提升，为管理分析师创造稳定需求。
+**Job demand: high (★★★★☆).** National workforce approx. 920,000. US Bureau of Labor Statistics projects employment growth of about 10% from 2023-2033, faster than average. Companies continue to seek cost control and efficiency improvements, creating steady demand for management analysts.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$80,000 | 咨询公司或内部初级分析师 |
-| 中级（3-7年） | $80,000~$120,000 | 有经验的分析师或项目经理 |
-| 高级（7年以上） | $120,000~$160,000 | 高级顾问、合伙人或总监 |
+| Median salary | $101,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$80,000 | Consulting firm or in-house junior analyst |
+| Mid-level (3–7 years) | $80,000~$120,000 | Experienced analyst or project manager |
+| Senior (7+ years) | $120,000~$160,000 | Senior consultant, partner, or director |
+| average salary | $113,790 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级分析师可晋升为高级顾问、项目经理，或成为合伙人。部分转向企业战略、运营管理或创业，也可考取PMP、CMP等认证提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
+
+Junior analysts can advance to senior consultant, project manager, or partner. Some transition to corporate strategy, operations management, or entrepreneurship, or obtain certifications like PMP or CMP to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracting and cleaning business data from CRM/ERP systems
+- Generate visual dashboards and periodic reports
+- Drafting basic requirement documents and filling templates
+- Automated data scraping and comparative analysis of market competitors
+- Automated diagnosis of process bottlenecks (e.g., time-motion analysis)
+
+**Where AI augments the role:**
+
+- Use AI to simulate financial impacts of different business strategies, accelerating iteration
+- Rapid insights from unstructured data via natural language queries
+- AI-assisted sentiment and semantic analysis of complex stakeholder interviews
+- Automatically generate preliminary solution frameworks; analysts focus on key assumption validation
+- Using AI to monitor business indicator anomalies in real time, providing early warnings for opportunities and risks
+
+**Human moat:**
+
+- Cross-departmental interest coordination and change management skills
+- Unstructured problem definition skills for ambiguous business issues
+- Understanding organizational politics and implicit needs in negotiations
+- High-level strategic communication and persuasion
+- Ethical judgment and human verification responsibility for AI outputs
+
+**Skills to build:**
+
+- Data storytelling and visualization (Tableau/Power BI + business narrative)
+- AI toolchains (e.g., ChatGPT, Copilot, AutoML platforms)
+- Basic Python/R data cleaning and automation
+- Cloud collaboration and project management tools (Jira, Confluence, Miro)
+- Agile/lean methodology practices integrated with AI.
+- Domain knowledge (e.g., healthcare, government, finance)
+
+**Key growth areas:**
 
 - Business efficiency
 - Cost optimization
@@ -62,68 +98,67 @@ Management analysts conduct organizational studies, evaluate procedures, and des
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于大型咨询公司，需学士学位以上，每年配额有限需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士学位或学士+5年经验，通过PERM劳工认证申请绿卡 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大或墨西哥公民，职业需在USMCA列表内，管理顾问在列 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common at large consulting firms, requires at least a bachelor's degree, limited annual quota requiring lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or a bachelor's degree plus 5 years of experience; apply for a green card through PERM labor certification |
+| Subclass TN (TN Status (USMCA)) | Applicable to Canadian or Mexican citizens; occupation must be on the USMCA list; management consultant is included. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Management Analysts？**
-- 善于分析和解决问题的逻辑型人才
-- 喜欢与不同团队沟通协调的人
-- 对商业运作和效率改进有热情的人
-
-**谁不适合学Management Analysts？**
-- 不喜欢频繁出差或项目变动的人
-- 偏好稳定、重复性工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Logical thinkers who are good at analyzing and solving problems
+- People who enjoy communicating and coordinating with different teams
+- Passionate about business operations and efficiency improvement
+
+**Who is not suited**
+- People who dislike frequent travel or project changes
+- People who prefer stable, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for management analysts?**
+A: Entry-level about $55,000-$80,000, mid-level $80,000-$120,000, senior $120,000-$160,000. Top consulting firms (e.g., MBB) pay more but also demand higher intensity.
+
+**Q: What are the common pathways for management analysts to immigrate to the US?**
+A: Common pathway is H-1B work visa, then green card via EB-2 or EB-3. Also possible via TN visa (Canada/Mexico citizens) or L-1 intracompany transfer.
+
+**Q: Is certification required?**
+A: Not mandatory, but certifications like PMP, CMC, Six Sigma can boost competitiveness, especially in large companies and consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Management Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for management analysts?**
-答：Entry-level: $55k-$80k; Mid-level: $80k-$120k; Senior: $120k-$160k. Top consulting firms pay higher but require more hours.
-
-**问：What are common immigration paths for management analysts to the US?**
-答：Common path: H-1B visa, then EB-2/EB-3 green card. Also TN status for Canadian/Mexican citizens or L-1 intracompany transfer.
-
-**问：Are certifications required?**
-答：Not mandatory, but PMP, CMC, Six Sigma certifications boost competitiveness, especially in large firms and consulting.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

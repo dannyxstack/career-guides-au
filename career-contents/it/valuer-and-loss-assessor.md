@@ -1,63 +1,99 @@
-# Valuer and Loss Assessor（Valuer and Loss Assessor）职业分析 · IT
+# Valuer and Loss Assessor — career analysis · Italy
 
-**职业代码：3315 – Valuer and Loss Assessor。**
+**Occupation code: 3315 (ISCO08)**
 
-Valuers and loss assessors evaluate property, vehicles, goods and handle insurance claims and loss assessments, with steady demand in Italy's insurance and real estate sectors.
+Estimators and assessors evaluate the value of property, vehicles, goods, etc., handle insurance claims and loss assessment, with stable demand in Italy's insurance and real estate sectors.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后职业培训 | 2年 | $5,000~$15,000（职业培训课程费用） |
-| 本科（经济学或法律） | 3年（本科） | $5,000~$15,000（公立大学学费） |
-| 硕士（风险管理或保险） | 2年 | $10,000~$20,000（部分大学提供专业硕士） |
+| Post-secondary vocational training | 2 years | $5,000~$15,000 (Vocational training course fees) |
+| Bachelor's degree (Economics or Law) | 3 years (bachelor's) | $5,000~$15,000 (Public university tuition) |
+| Master's degree (Risk Management or Insurance) | 2 years | $10,000~$20,000 (Some universities offer professional master's degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利评估师注册 | 意大利评估师协会 | 必备 | 需通过考试和实习，强制要求 |
-| 保险中介注册 | IVASS（意大利保险监管局） | 必备 | 从事保险估损需要注册 |
-| 房地产评估认证 | UNI EN ISO/IEC 17024认可机构 | 可选 | 非强制，但提升竞争力 |
-| 风险管理证书 | 意大利风险管理协会 | 可选 | 高级职位推荐 |
+| Italian appraiser registration | Italian Appraisers Association | Required | Requires passing exams and internship, mandatory. |
+| Insurance intermediary registration | IVASS (Italian Insurance Supervisory Authority) | Required | Registration required for insurance loss assessment |
+| Property valuation certification | UNI EN ISO/IEC 17024 accredited body | Optional | Not mandatory, but enhances competitiveness |
+| Risk management certificate | Italian Risk Management Association | Optional | Senior job recommendations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利保险业和房地产市场监管严格，估损师需求稳定。自然灾害频发推动损失评估岗位增长，但数字化工具可能影响传统评估方式，整体前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Italy's insurance and real estate industries are heavily regulated, with stable demand for loss adjusters. Frequent natural disasters drive growth in loss assessment roles, but digital tools may impact traditional assessment methods; overall outlook is stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，视公司和地区 |
-| 中级（3-7年） | $35,000~$50,000 | 含奖金 |
-| 高级（7年以上） | $50,000~$70,000 | 独立评估师或管理层 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual salary before tax, varies by company and region. |
+| Mid-level (3–7 years) | $35,000~$50,000 | Including bonus |
+| Senior (7+ years) | $50,000~$70,000 | Independent assessor or management level |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级可从保险或房地产公司助理做起，积累经验后可晋升为高级评估师或团队主管，也可向法务评估、企业风险管理等方向发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI will significantly change the work of loss adjusters and assessors, automating repetitive data analysis tasks, but core parts involving on-site inspections, complex judgments, and legal responsibilities remain human-led. Practitioners need to actively embrace AI tools to improve efficiency.
+
+Juniors can start as assistants in insurance or real estate companies, and progress to senior appraisers or team leaders, or move into legal appraisal, corporate risk management, etc.
+
+**Tasks most exposed to AI:**
+
+- Preliminary data collation and analysis for automated property valuation reports
+- Standard loss amount calculation based on historical data
+- Online image assessment for minor vehicle damage
+- Automatic Classification and Entry of Insurance Claim Documents
+- Input parameters for conventional real estate valuation models
+
+**Where AI augments the role:**
+
+- Use AI to identify anomalies and patterns in loss images.
+- Leverage big data analytics to predict market value trends
+- AI-assisted rapid generation of complex assessment report drafts
+- Using natural language processing to automatically handle customer inquiries
+- Improve valuation accuracy through machine learning models
+
+**Human moat:**
+
+- On-site inspection and physical access capability
+- Independent judgment for complex or non-standard damage
+- Legal and ethical compliance responsibilities
+- Client trust building and communication negotiation
+- Creativity in handling special cases
+
+**Skills to build:**
+
+- Machine learning fundamentals and model interpretation
+- Geographic information systems and drone operation.
+- Data visualization and analysis tools (e.g., Python, R)
+- AI-assisted assessment software operation
+- Enhance communication and client management skills
+- Interdisciplinary knowledge (e.g., law, finance)
+
+**Key growth areas:**
 
 - Insurance claims
 - Property valuation
@@ -66,66 +102,68 @@ Valuers and loss assessors evaluate property, vehicles, goods and handle insuran
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Lavoro Subordinato (（Work Visa for Employed Work） | 需雇主担保，通过Decreto Flussi配额或零工合同，适合有意大利雇主offer的申请者。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求本科以上学历，年薪高于意大利平均水平1.5倍（约5万欧元），可快速获得居留。 |
-| Subclass Lavoro Autonomo (自雇签（Self-Employment Visa） | 适合独立评估师，需提交商业计划书和资金证明，审批较严格。 |
+| Subclass Lavoro Subordinato ( (Work Visa for Employed Work) | Requires employer sponsorship through Decreto Flussi quotas or casual work contracts, suitable for applicants with an Italian employer offer. |
+| Subclass EU Blue Card (EU Blue Card) | Bachelor's degree or higher required, annual salary 1.5 times above Italian average (about €50,000), fast-track residency available. |
+| Subclass Self-employment visa (Self-Employment Visa) | Suitable for independent assessors, requiring a business plan and proof of funds, with strict approval. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Valuer and Loss Assessor？**
-- 具备细致分析能力和良好沟通能力的人
-- 对保险、法律和房产领域感兴趣的人
-- 能接受经常外出评估现场的人
+**Who is suited**
+- People with strong analytical skills and good communication abilities
+- People interested in insurance, law, and real estate
+- Those who can accept frequent site assessments
 
-**谁不适合学Valuer and Loss Assessor？**
-- 不善于处理数字和文档的人
-- 抵制数字化转型和新技术工具的人
+**Who is not suited**
+- People who are not good with numbers and documents
+- People resistant to digital transformation and new technological tools
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of loss adjusters in Italy?**
+A: Entry-level annual salary approx. €25,000-35,000, intermediate €35,000-50,000, senior €50,000-70,000; slightly higher in Milan etc., but cost of living also higher.
+
+**Q: How can non-EU citizens become loss adjusters in Italy?**
+A: Must first obtain a job offer from an Italian employer and apply for a work visa (Decreto Flussi or EU Blue Card). Self-employment visa requires a business plan and funds. Registration certification requires fluent Italian.
+
+**Q: What certifications are required to work as a loss adjuster in Italy?**
+A: Registration with the Italian Association of Valuers or the IVASS insurance intermediary register is required, passing exams and internships. Non-mandatory but recommended real estate valuation certifications can increase employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Valuer and Loss Assessor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for valuers and loss assessors in Italy?**
-答：Entry-level annual salary is around 25,000-35,000 EUR, mid-level 35,000-50,000, senior 50,000-70,000, higher in Milan but also higher living costs.
-
-**问：How can non-EU citizens become valuers/loss assessors in Italy?**
-答：Need a job offer from an Italian employer to apply for a work visa (Decreto Flussi or EU Blue Card). Self-employment visa requires business plan and funds. Certification requires fluent Italian.
-
-**问：What certifications are required to work as a valuer/loss assessor in Italy?**
-答：Must register with the Italian Association of Valuers or IVASS insurance intermediary register, pass exams and internships. Optional real estate appraisal certification boosts employability.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

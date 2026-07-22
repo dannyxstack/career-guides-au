@@ -1,58 +1,92 @@
-# Medical Transcriptionists（Medical Transcriptionists）职业分析 · 美国
+# Medical Transcriptionists — career analysis · United States
 
-**职业代码：31-9094 – Medical Transcriptionists。**
+**Occupation code: 31-9094 (SOC)**
 
-Medical transcriptionists transcribe medical reports dictated by physicians and other healthcare practitioners, covering patient visits, surgeries, and diagnostic tests, ensuring accuracy and completeness.
+Medical transcriptionists transcribe audio files of medical records, diagnostic reports, and surgery notes dictated by doctors and other healthcare professionals into written documents, ensuring accuracy and completeness.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 职业证书或副学士学位 | 1-2年 | $5,000~$20,000（社区学院或技术学校课程费用） |
+| Professional certificate or associate degree | 1-2 years | $5,000~$20,000 (Cost of courses at community colleges or technical schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医疗转录认证 | 医疗文档整合协会（AHDI） | 可选 | 自愿性认证，提升就业竞争力 |
+| Medical transcription certification | Association for Healthcare Documentation Integrity (AHDI) | Optional | Voluntary certification to enhance employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 52,000。随着电子健康记录的普及和医疗文档需求持续增长，医疗转录员岗位预计保持稳定，但增长率低于平均水平，部分工作可能被语音识别技术替代。
+**Job demand: medium (★★½☆☆).** National workforce approx. 52,000. With the spread of electronic health records and growing demand for medical documentation, medical transcriptionist positions are expected to remain stable, but growth is below average; some tasks may be replaced by voice recognition technology.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级薪资 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验者 |
-| 高级（7年以上） | $45,000~$55,000 | 资深或主管级 |
+| Median salary | $40,410 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced individuals |
+| Senior (7+ years) | $45,000~$55,000 | Senior or supervisor level |
+| average salary | $41,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★☆☆☆☆）。** 初级转录员可晋升为高级转录员、质量审核员或团队主管，也可转向医疗编码、医疗记录管理或健康信息管理等领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Medical transcriptionist is a high-risk replacement occupation with very high automation; entry-level positions have shrunk significantly, and demand will sharply decline over the next 5 years. It is recommended to transition as soon as possible.
+
+Junior transcriptionists can advance to senior transcriptionist, quality auditor, or team supervisor, or transition to fields like medical coding, medical records management, or health information management.
+
+**Tasks most exposed to AI:**
+
+- Transcribes audio files of doctor dictation into text
+- Proofread for spelling, grammar, and medical terminology errors
+- Format documents (e.g., add headings, numbering)
+- Generate standardized reports from templates
+- Managing archiving of audio files and documents
+
+**Where AI augments the role:**
+
+- Quick review and quality control after dictation using AI tools
+- Using natural language processing to optimize autocomplete for medical vocabulary
+- Improve transcription speed via AI-assisted speech recognition
+- Automated document formatting adjustments using smart templates
+- Checking clinical logic consistency with AI-driven semantic analysis
+
+**Human moat:**
+
+- Auditory adaptation and judgment for complex accents and background noise
+- Interpret ambiguous expressions in context and make clinical reasoning.
+- Assume legal responsibility and confidentiality for medical documents
+- Communicate directly with doctors to confirm record ambiguities
+
+**Skills to build:**
+
+- Master the configuration and use of AI medical transcription tools (e.g., Dragon Medical, M*Modal)
+- Learn medical coding and billing (e.g., ICD-10, CPT)
+- Deepen clinical knowledge and progress toward medical record auditing or coding specialist
+- Study data analytics and health informatics
+- Obtain medical documentation management certifications (e.g., RHDS, CHDS)
+
+**Key growth areas:**
 
 - Declining employment
 - Voice recognition technology
@@ -61,61 +95,63 @@ Medical transcriptionists transcribe medical reports dictated by physicians and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求与专业相关的本科学位，医疗转录员常不满足，签证难度大。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree in a related field; medical transcriptionists often do not meet this requirement, making visa applications difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Medical Transcriptionists？**
-- 注重细节、打字速度快的人
-- 对医学术语感兴趣者
-- 喜欢独立工作、无需过多人际沟通者
+**Who is suited**
+- Detail-oriented, fast typist
+- Those interested in medical terminology
+- Those who prefer independent work and minimal interpersonal communication
 
-**谁不适合学Medical Transcriptionists？**
-- 追求高薪或职业发展机会的人
-- 对重复性文书工作感到枯燥的人
+**Who is not suited**
+- People seeking higher salaries or career advancement opportunities
+- People who find repetitive paperwork dull
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there room for salary growth for medical transcriptionists?**
+A: Salary growth is limited; senior positions earn around USD 50k per year, with a low ceiling.
+
+**Q: Is it easy for medical transcriptionists to immigrate to the US via skilled migration?**
+A: Very difficult; this occupation usually does not meet the specialty occupation requirements for H-1B visas, is not in short supply, and employer sponsorship is extremely rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 较差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Medical Transcriptionists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for medical transcriptionists?**
-答：Salary growth is limited; senior positions earn around $55,000 annually with a low ceiling.
-
-**问：Is it easy for medical transcriptionists to immigrate to the US?**
-答：Very difficult; this occupation rarely meets H-1B specialty requirements and is not in short supply.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Occupational Health and Safety Technician（Occupational Health and Safety Technician）职业分析 · ES
+# Occupational Health and Safety Technician — career analysis · Spain
 
-**职业代码：3326 – Occupational Health and Safety Technician。**
+**Occupation code: 3326 (CNO)**
 
-Identify, assess, and control workplace hazards in companies and public institutions, ensuring compliance with occupational health and safety regulations and monitoring environmental health factors.
+Responsible for identifying, assessing, and controlling workplace risks in enterprises and public institutions, ensuring compliance with occupational health and safety regulations, and monitoring environmental health factors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立教育免费，私立约2,000欧元） |
-| 大学学位（Grado） | 4年 | $1,000~$6,000（公立大学约1,000-2,000欧元/年） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public education is free, while private education costs about 2,000 euros) |
+| University Degree (Grado) | 4 years | $1,000~$6,000 (Public universities cost about 1,000-2,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业风险预防技术员认证（Técnico en PRL） | Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) | 必备 | 通过FP或大学课程获得，需完成特定模块 |
-| 大学学位（如劳动关系、工程学） | 西班牙大学 | 可选 | 非强制但有助于晋升 |
-| 环境健康监测认证 | 各自治区卫生部门 | 可选 | 特定岗位（如食品卫生）要求 |
+| Occupational Risk Prevention Technician Certification (Técnico en PRL) | Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) | Required | Obtained through FP or university courses, specific modules must be completed |
+| University degrees (such as labor relations, engineering) | Spanish University | Optional | Not mandatory but beneficial for promotion |
+| Environmental health monitoring certification | Health departments of all autonomous regions | Optional | Specific job requirements (such as food hygiene). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙对职业健康安全技术员的需求持续增长，尤其在建筑业、制造业和公共行政部门。企业必须依法配备相关专业人员，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Spain's demand for occupational health and safety technicians continues to grow, especially in the construction, manufacturing, and public administration sectors. Enterprises must legally equip relevant professionals, ensuring stable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年收入 |
-| 中级（3-6年） | $28,000~$35,000 | 税前年收入 |
-| 高级（6年以上） | $35,000~$45,000 | 税前年收入，管理岗更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Gross annual income before tax |
+| Mid-level (3–6 years) | $28,000~$35,000 | Gross annual income before tax |
+| Senior (6+ years) | $35,000~$45,000 | Pre-tax annual income, and management positions are higher |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从初级技术员晋升为高级技术员或安全协调员，也可转向环境健康管理或安全审计领域。通过继续教育可担任企业安全负责人。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance environmental monitoring and data analysis capabilities, but on-site inspections and regulatory decisions still rely on human experience, making overall job risks controllable and demand stable.
+
+You can be promoted from junior technician to senior technician or safety coordinator, or transition to environmental health management or safety auditing. Through continuing education, you can become a corporate safety officer.
+
+**Tasks most exposed to AI:**
+
+- Automatically collects environmental monitoring data (such as noise and dust sensor readings)
+- Preliminary screening of high-risk work areas using AI algorithms
+- Generate standard compliance report templates
+- Retrospective historical accident data and automatically identify patterns
+
+**Where AI augments the role:**
+
+- Using AI predictive models to assess occupational health risk trends
+- Real-time monitoring of workers' physiological indicators through smart wearable devices
+- Automatically matches regulatory clauses with violation cases to assist compliance assessments
+- Quickly retrieve the latest occupational health standards using natural language processing
+
+**Human moat:**
+
+- Unstructured on-site safety patrols and intuitive judgment
+- Communicate with employees about subjective risk factors such as psychological stress and fatigue
+- Conduct root cause analysis and responsibility determination for complex accidents
+- Formulate and drive transformation in corporate safety culture
+
+**Skills to build:**
+
+- Data Analysis and Statistics (Python/R)
+- Machine learning fundamentals and model deployment
+- Integration of environmental sensors and the Internet of Things (IoT).
+- Digital interpretation of occupational health and safety regulations
+- Human-machine collaboration and practical application of AI tools
+- Data visualization and dashboard construction
+
+**Key growth areas:**
 
 - Occupational Health
 - Workplace Safety
@@ -62,68 +95,67 @@ Identify, assess, and control workplace hazards in companies and public institut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历或同等经验，年薪至少达西班牙平均工资1.5倍（约3.4万欧元）。 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 普通工作居留，由西班牙雇主担保，需证明岗位无法由本地人填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留最长6个月寻找工作，需提供经济证明。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled professionals requiring a university degree or equivalent experience, with annual salary at least 1.5 times the Spanish average wage (approx. €34,000). |
+| Subclass Cuenta ajena (Work Permit (employed)) | Ordinary work residence, sponsored by a Spanish employer, requires proof that the position cannot be filled by a local resident. |
+| Subclass Busqueda empleo (Job Search Visa) | Allows stay in Spain for up to 6 months to seek employment, requires proof of financial means. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Health and Safety Technician？**
-- 注重细节、有责任心的人
-- 对健康与安全法规感兴趣者
-- 希望在工业、建筑或公共部门稳定就业者
-
-**谁不适合学Occupational Health and Safety Technician？**
-- 不喜欢现场检查和文书工作的人
-- 不愿接受持续法规更新学习的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and responsible individuals
+- Those interested in health and safety regulations
+- Those seeking stable employment in industry, construction, or the public sector
+
+**Who is not suited**
+- People who dislike on-site inspections and paperwork
+- Those unwilling to engage in continuous regulatory updates learning.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for occupational risk prevention technicians?**
+A: Entry-level salaries are about 22,000-28,000 euros per year, intermediate salaries about 28,000-35,000 euros, and seniors up to 45,000 euros. Public sector salaries are more stable but promotions are slower.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: Immigration can be made through the EU Blue Card (university degree + high salary) or ordinary work residence (employer-sponsored). This occupation is in short supply and relatively easy to apply for.
+
+**Q: What certifications are required to work in this profession?**
+A: You must hold the Occupational Risk Prevention Technician certification (obtained through an FP or university course). Environmental health positions may require additional regional certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Occupational Health and Safety Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for an occupational health and safety technician?**
-答：Entry-level annual salary is around €22,000-€28,000, mid-level €28,000-€35,000, and senior up to €45,000. Public sector offers stability but slower progression.
-
-**问：How can foreigners immigrate to Spain through this profession?**
-答：Via EU Blue Card (requires degree + high salary) or regular work permit with employer sponsorship. The occupation is on the shortage list, making applications easier.
-
-**问：What certifications are required to work in this profession?**
-答：Mandatory certification as Técnico en PRL (through FP or university). Environmental health roles may require additional regional credentials.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

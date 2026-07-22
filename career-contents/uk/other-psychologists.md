@@ -1,60 +1,95 @@
-# Other psychologists（Other psychologists）职业分析 · UK
+# Other psychologists — career analysis · United Kingdom
 
-**职业代码：2226 – Other psychologists。**
+**Occupation code: 2226 (SOC)**
 
-Psychologists research, study and assess emotional, cognitive and behavioural processes and abnormalities in human beings and animals.
+Psychologists study emotional, cognitive, and behavioral processes and abnormalities in humans and animals, and assess and intervene in mental health issues.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 心理学学士 | 3年 | $9,250~$38,000（英格兰本科学费上限） |
-| 心理学硕士 | 1-2年 | $10,000~$25,000（取决于大学和课程） |
-| 博士或专业培训 | 3年 | —（NHS资助的临床心理学博士课程免学费） |
+| Bachelor of Psychology | 3 years | $9,250~$38,000 (Undergraduate tuition fee cap in England) |
+| Master of Psychology | 1-2 years | $10,000~$25,000 (Depends on the university and course) |
+| Doctoral degree or specialised training | 3 years | $0~$30,000 (NHS-funded clinical psychology doctoral courses are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英国心理学会特许会员资格 | British Psychological Society (BPS) | 必备 | 通常需要认可学位和实习 |
-| 健康与护理专业委员会注册 | Health and Care Professions Council (HCPC) | 必备 | 执业必备 |
-| 临床心理学博士学位 | 大学 | 可选 | NHS临床心理学家路径 |
+| Chartered Membership of the British Psychological Society | British Psychological Society (BPS) | Required | Usually requires a recognized degree and internship |
+| Health and Care Professions Council registration | Health and Care Professions Council (HCPC) | Required | Mandatory for practice |
+| Doctor of Clinical Psychology | University | Optional | NHS clinical psychologist pathway |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。英国对心理学家的需求稳定，尤其是在NHS、教育和社会福利领域。心理健康意识提升推动就业增长，但竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Demand for psychologists in the UK is stable, especially in the NHS, education, and social welfare sectors. Growing mental health awareness drives employment growth, but competition is strong.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | NHS Band 6-7 |
-| 中级（3-7年） | $40,000~$55,000 | NHS Band 7-8a |
-| 高级（7年以上） | $55,000~$90,000 | NHS Band 8b以上或私人执业 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$40,000 | NHS Band 6-7 |
+| Mid-level (3–7 years) | $40,000~$55,000 | NHS Band 7-8a |
+| Senior (7+ years) | $55,000~$90,000 | NHS Band 8b or above, or private practice |
+| average salary | $40,456 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级心理学家可先在NHS或慈善机构积累经验，逐步专攻临床、教育或职业心理学，最终可成为高级顾问或独立执业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Professions like clinical psychologist and psychotherapist face mixed AI impact: routine assessment and data processing can be automated, but complex treatment decisions and human-centered care remain human domain
+
+Junior psychologists can gain experience at the NHS or charities, gradually specializing in clinical, educational, or occupational psychology, eventually becoming senior consultants or independent practitioners.
+
+**Tasks most exposed to AI:**
+
+- Standardized psychological assessments and questionnaire scoring replaced by AI automated analysis
+- Information integration after preliminary diagnostic interviews generates reports via AI
+- Routine data collection (e.g., patient log analysis) is automated.
+- Simple treatment plan recommendations (e.g., behavioral interventions for mild anxiety) are assisted by AI.
+
+**Where AI augments the role:**
+
+- AI analyzes therapy conversation data in real time to help identify patient microexpressions and tone changes.
+- Large-scale public health psychological data mining to aid prevention program design
+- Virtual reality therapy and AI-driven exposure therapy tools enhance treatment outcomes
+- Natural language processing accelerates literature reviews and evidence-based practice evidence retrieval
+- Clinical decision support systems provide second opinions and reduce diagnostic bias
+
+**Human moat:**
+
+- Establish deep therapeutic alliances and trust relationships
+- Clinical judgment for managing complex comorbidity cases
+- Moral responsibility, ethical decision-making, and legal accountability
+- Provide emotional support and crisis intervention to patients
+- Interdisciplinary collaboration and personalized treatment plan development
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools, such as interpreting assessment data with machine learning models
+- Learning natural language processing for therapeutic dialogue analysis
+- Data literacy and statistical thinking (including causal inference)
+- Basics of digital therapeutic design (e.g., CBT apps)
+- AI ethics and clinical integration skills
+- Human-robot collaborative therapy protocol development
+
+**Key growth areas:**
 
 - Mental Health Awareness
 - Telepsychology
@@ -63,68 +98,67 @@ Psychologists research, study and assess emotional, cognitive and behavioural pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得认可的雇主担保，职业在可担保职业清单上 |
-| Subclass Health & Care（Health and Care Worker visa） | 适用于NHS或社会护理雇主担保，享受优先处理和较低签证费 |
-| Subclass Global Talent（Global Talent visa） | 适用于国际认可的研究人员，需获得英国研究与创新署认可 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable for approved employer sponsorship, with the occupation on the eligible occupation list |
+| Subclass Health & Care (Health and Care Worker visa) | Applicable to NHS or social care employer sponsorship, with priority processing and lower visa fees |
+| Subclass Global Talent (Global Talent visa) | Applicable to internationally recognized researchers, requires endorsement by UK Research and Innovation |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other psychologists？**
-- 对人性和行为有浓厚兴趣
-- 具备同理心和耐心
-- 愿意接受长期学术和实践训练
-
-**谁不适合学Other psychologists？**
-- 不喜欢与人深入交流
-- 抗压能力较弱
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in human nature and behavior
+- Possess empathy and patience
+- Willing to undergo long-term academic and practical training
+
+**Who is not suited**
+- Dislikes in-depth communication with people
+- Low stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for psychologists in the UK?**
+A: Entry-level psychologists earn around £28,000-40,000 per year, senior psychologists up to £55,000-90,000, and private practice may be higher.
+
+**Q: How can overseas psychologists immigrate to the UK?**
+A: Can apply for Skilled Worker or Health and Care Worker visa, requires employer sponsorship and meeting English and qualification requirements, HCPC registration is mandatory.
+
+**Q: What certifications do psychologists need in the UK?**
+A: Must have a BPS-accredited degree and HCPC registration. Clinical psychologists must also complete an NHS-funded doctoral program.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other psychologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for psychologists in the UK?**
-答：Entry-level psychologists earn around £28,000-£40,000, while senior psychologists can earn £55,000-£90,000, with private practice potentially higher.
-
-**问：How can overseas psychologists immigrate to the UK?**
-答：They can apply for a Skilled Worker or Health and Care Worker visa with employer sponsorship, meeting English and qualification requirements, and must be registered with HCPC.
-
-**问：What certifications are required for psychologists in the UK?**
-答：A BPS-accredited degree and HCPC registration are mandatory. Clinical psychologists also need a doctoral degree funded by NHS.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

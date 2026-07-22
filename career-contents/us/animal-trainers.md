@@ -1,62 +1,95 @@
-# Animal Trainers（Animal Trainers）职业分析 · 美国
+# Animal Trainers — career analysis · United States
 
-**职业代码：39-2011 – Animal Trainers。**
+**Occupation code: 39-2011 (SOC)**
 
-Train animals for riding, harness, security, performance, obedience, or assisting persons with disabilities. Accustom animals to human voice and contact, and condition them to respond to commands. May train animals to carry pack loads or work as part of a pack team.
+Train animals for riding, harness, security, performance, obedience, or assisting disabled people, accustom animals to human voice and contact, and act on command. May train animals to carry packs or work as teams.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无固定时长 | —（多数职位仅要求高中毕业） |
-| 在职培训/学徒 | 1-2年 | —（通常为在职培训，部分付费课程或学徒） |
-| 动物科学相关副学士 | 2年 | $10,000~$30,000（社区学院学费，非必需但有利） |
+| High school diploma | No fixed duration | $0~$0 (Most positions only require high school diploma) |
+| On-the-job training/apprenticeship | 1-2 years | $0~$5,000 (Typically on-the-job training, some paid courses or apprenticeships) |
+| Associate degree in animal science-related field | 2 years | $10,000~$30,000 (Community college tuition, not required but beneficial) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定国家执照 | 无 | 可选 | 多数州无强制执照，但海豚训练师等需美国海洋哺乳动物培训协会认证 |
-| CPR/急救认证 | 红十字会等 | 可选 | 建议持有，特别是服务犬训练 |
-| 驾驶执照 | 州DMV | 必备 | 可能需驾驶车辆运输动物 |
+| Driver's license | State DMV | Required | May need to drive vehicles to transport animals |
+| No specific national license | None | Optional | Most states have no mandatory license, but dolphin trainers need certification from the Alliance of Marine Mammal Parks and Aquariums |
+| CPR/First aid certification | Red Cross, etc. | Optional | Recommended, especially for service dog training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。美国动物训练师就业前景稳定，受宠物行业和娱乐产业需求推动。2023-2033年预计增长约5%，与平均水平相当。主要受限于自动化和外包，但高端表演动物训练和残疾辅助动物训练需求持续。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Employment outlook for animal trainers in the US is stable, driven by demand from the pet and entertainment industries. Expected growth of about 5% from 2023-2033, on par with average. Mainly limited by automation and outsourcing, but demand for high-end performance animal training and disability assistance animal training continues.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 动物庇护所或小公司起薪较低 |
-| 中级（3-7年） | $32,000~$45,000 | 有经验后薪资上升 |
-| 高级（7年以上） | $45,000~$60,000 | 海洋馆或大型娱乐公司可达更高 |
+| Median salary | $39,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$32,000 | Lower starting salaries at animal shelters or small companies |
+| Mid-level (3–7 years) | $32,000~$45,000 | Salary increases with experience |
+| Senior (7+ years) | $45,000~$60,000 | Higher at aquariums or large entertainment companies |
+| average salary | $47,020 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从助理训练师开始，通过积累经验可晋升为首席训练师或主管。部分转向动物表演编导、动物行为顾问或开设训练学校。海洋哺乳动物训练师需通晓潜水知识，赛马训练师需了解饲养和兽医基础。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will enhance training plans and behavior monitoring, but cannot replace non-verbal interaction, emotional connection, and on-site adaptability with animals. Entry-level positions become more competitive due to AI tools, but demand for senior trainers remains stable.
+
+Start as an assistant trainer, gain experience to become head trainer or supervisor. Some move into animal performance choreography, animal behavior consulting, or start training schools. Marine mammal trainers need diving knowledge; racehorse trainers need knowledge of feeding and veterinary basics.
+
+**Tasks most exposed to AI:**
+
+- Recording and archiving basic behavioral data
+- Reminders and tracking of regular training schedules
+- Automated playback of simple commands (e.g., voice commands)
+- Remote monitoring and abnormal alerts for animal health indicators.
+
+**Where AI augments the role:**
+
+- Uses AI behavior recognition systems to analyze animal stress signals and optimize training timing.
+- Through VR/AR simulated scenarios, safely train animals to handle complex environments (e.g., crowds, noise)
+- AI generates personalized training plans, adjusting intensity based on animal historical data.
+- Use speech synthesis and wearable devices for multi-channel command feedback
+
+**Human moat:**
+
+- Ability to build trust and emotional bonds with animals
+- Real-time interpretation of animal non-verbal signals (e.g., tail posture, eye contact)
+- Improvised judgment and safety interventions in emergencies (e.g., animal panic)
+- Ethical judgment: determining training boundaries to avoid animal abuse
+
+**Skills to build:**
+
+- Operation of animal behavior AI analysis tools (e.g., DeepLabCut)
+- Basic programming and data analysis (Python/R for behavioral logs)
+- Virtual reality training environment design
+- Frontier knowledge of animal psychology and neuroscience
+- Sensor and wearable device maintenance
+- Cross-species communication and emergency desensitization techniques.
+
+**Key growth areas:**
 
 - Pet care
 - Animal-assisted therapy
@@ -65,66 +98,68 @@ Train animals for riding, harness, security, performance, obedience, or assistin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 仅适用于需学士学位的专业训练职位（如动物行为研究），普通训练师不符合 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于国内国际知名的动物训练师（如电影动物训练） |
-| Subclass EB-3（EB-3 Skilled Worker） | 极罕见，需雇主证明无法找到美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Only applicable to professional training positions requiring a bachelor's degree (e.g., animal behavior research); general trainers do not qualify |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies only to internationally renowned animal trainers (e.g., movie animal training) |
+| Subclass EB-3 (EB-3 Skilled Worker) | Extremely rare, requires employer to prove inability to find US workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Trainers？**
-- 热爱动物并有耐心的人
-- 有动物行为学知识或经验的人
-- 能够应对体力劳动和户外工作的人
+**Who is suited**
+- People who love animals and have patience
+- People with knowledge or experience in animal behavior.
+- People who can handle physical labor and outdoor work
 
-**谁不适合学Animal Trainers？**
-- 对动物过敏或害怕动物的人
-- 追求高薪和稳定晋升的人
+**Who is not suited**
+- People allergic to or afraid of animals
+- People seeking high salary and stable promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for animal trainers?**
+A: Average annual salary for animal trainers in the US is about $35,000, entry-level about $24,000-32,000, senior can reach $60,000+, but overall low. Marine mammal trainers earn higher.
+
+**Q: Can animal trainers apply for US work visas or green cards?**
+A: Very difficult. Ordinary animal trainers do not meet H-1B specialty occupation requirements. O-1 visa for extraordinary ability applies to internationally recognized trainers (e.g., film animal training). EB-3 green card requires employer sponsorship but is extremely rare.
+
+**Q: What educational background is needed for an animal trainer?**
+A: Most positions only require a high school diploma, but an associate or bachelor's degree in animal science, biology, or related fields can increase competitiveness. On-the-job training is key; some employers recognize apprentice experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Animal Trainers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal trainers?**
-答：Animal trainers in the US earn an average annual salary of about $35,000, entry-level $24,000-$32,000, senior up to $60,000+, but overall low. Marine mammal trainers earn higher.
-
-**问：Can animal trainers apply for US work visas or green cards?**
-答：Very difficult. Ordinary trainers do not qualify for H-1B specialty occupation. O-1 visa is for internationally recognized trainers (e.g., film animal training). EB-3 green card is extremely rare.
-
-**问：What educational background is needed for animal trainers?**
-答：Most jobs require only a high school diploma, but an associate or bachelor’s in animal science, biology, or related field can be competitive. On-the-job training is key; some employers value apprenticeships.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

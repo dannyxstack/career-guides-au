@@ -1,60 +1,93 @@
-# Sports players（Sports players）职业分析 · UK
+# Sports players — career analysis · United Kingdom
 
-**职业代码：3431 – Sports players。**
+**Occupation code: 3431 (SOC)**
 
-Professional athletes train and compete individually or in teams for financial gain in their chosen sport, requiring elite physical fitness, tactical understanding, and mental resilience.
+Professional athletes compete in individual or team sports for a living through training and competition. They require extreme physical fitness, tactical understanding, and mental resilience.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学/业余训练 | 持续 | —（俱乐部训练费用，因项目而异） |
-| 体育学本科 | 3年 | $9,250~$30,000（英国本科年学费，可能获得奖学金） |
+| Secondary school / amateur training | Ongoing | $0~$5,000 (Club training costs vary by program) |
+| Bachelor's degree in sports science | 3 years | $9,250~$30,000 (Annual undergraduate tuition in the UK, with possible scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 职业运动员通常无需正式学历，靠成绩和选拔 |
-| 体育学学位 | 大学 | 可选 | 多数运动员有体育科学或相关背景 |
+| No mandatory certification | None | Optional | Professional athletes typically do not require formal education, relying on performance and selection |
+| Degree in Sports Science | University | Optional | Most athletes have a background in sports science or related fields |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常低（★☆☆☆☆）。** 全国从业人数约 5,000。英国职业体育市场规模庞大，但全职岗位极少，竞争极为激烈。近年来电竞和女性运动领域有所增长，但总体从业人数有限。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 5,000. The UK professional sports market is large, but full-time positions are very limited and competition is extremely fierce. In recent years, esports and women's sports have grown, but overall employment numbers are small.
 
-**竞争度：非常高（★★★★★）。**
-**工作强度：非常高（★★★★½）。**
+**Competition: very high (★★★★★).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 低级别联赛或青年合同 |
-| 中级（3-8年） | $30,000~$100,000 | 国家级联赛或知名项目 |
-| 高级（8年+） | $100,000~$5,000,000 | 顶级联赛与国际明星 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$30,000 | Lower league or youth contract |
+| Mid-level (3–8 years) | $30,000~$100,000 | National league or well-known project |
+| Senior (8+ years) | $100,000~$5,000,000 | Top league and international stars |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业路径包括从青少年梯队晋升、大学体育奖学金、转入半职业/职业俱乐部。后期可转型为教练、体育管理或媒体评论员。
-**AI替代风险：非常低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
+
+Career pathways include advancing from youth teams, university athletic scholarships, moving to semi-professional/professional clubs. Later, can transition to coaching, sports management, or media commentary.
+
+**Tasks most exposed to AI:**
+
+- Manual collection and analysis of game data
+- Basic training plan development and adjustment
+- Manual editing and annotation of tactical footage
+- Traditional monitoring and recording of athlete physiological indicators
+
+**Where AI augments the role:**
+
+- Uses AI video analysis to optimize personal technique and tactical decisions
+- Personalized injury prevention using wearable sensors and AI
+- Improve pre-game preparation efficiency through AI simulation of opponent strategies
+- Use AI to generate customized nutrition and recovery plans
+
+**Human moat:**
+
+- High-intensity physical fitness, speed, and skill performance
+- Intuitive judgment for on-the-spot response and teamwork
+- Competitive spirit and mental resilience
+- Perseverance and self-discipline from long-term training
+- Breaking human limits and creative race strategies
+
+**Skills to build:**
+
+- Sports data analysis and interpretation
+- Use of AI video analysis tools
+- Wearable devices and biosensor data applications
+- Personalized training programming (AI-assisted)
+- Sports Psychology and Stress Management
+- Digital media and personal brand management
+
+**Key growth areas:**
 
 - Elite sports
 - eSports
@@ -63,62 +96,64 @@ Professional athletes train and compete individually or in teams for financial g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Global Talent（Global Talent Visa） | 适用于在体育领域被国际认可或具有卓越才华的运动员，无强制雇主担保，但需通过背书申请。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 仅适用于少数职业俱乐部担保的精英运动员，且需满足薪资门槛，实际使用较少。 |
+| Subclass Global Talent (Global Talent Visa) | Applicable to athletes internationally recognized or with exceptional talent in sports; no mandatory employer sponsorship required, but endorsement application is needed. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Only applicable to elite athletes sponsored by a few professional clubs, and must meet salary thresholds, rarely used in practice. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sports players？**
-- 顶尖体育天赋与极高自律者
-- 能承受高强度训练与公众压力的人
-- 愿意在年轻时赌上职业生涯的人
+**Who is suited**
+- Top athletic talent and extremely high self-discipline
+- People who can withstand high-intensity training and public pressure
+- People willing to bet their careers while young
 
-**谁不适合学Sports players？**
-- 缺乏运动天赋或身体条件一般者
-- 追求稳定收入和长期职业保障者
+**Who is not suited**
+- Those lacking athletic talent or average physical condition
+- Those seeking stable income and long-term career security
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an athlete?**
+A: Salary range is broad: lower-tier leagues earn £15,000-30,000 per year; top stars can earn millions, but most athletes earn below average.
+
+**Q: How can overseas athletes work in the UK?**
+A: Primarily applied for through the Global Talent Visa, requiring evidence of international recognition or outstanding achievements. The Skilled Worker Visa is only for a very limited number of sponsored clubs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★★½） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常低（½☆☆☆☆） |
-| 职位需求量 | 非常低（★☆☆☆☆） |
-| 竞争度 | 非常高（★★★★★） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 非常高（★★★★½） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 非常低（½☆☆☆☆） |
-| PR友好度 | 非常低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Sports players属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sports players?**
-答：Salaries vary widely: lower leagues £15k-£30k, top stars millions, but most earn below average.
-
-**问：How can overseas athletes work in the UK?**
-答：Mainly via Global Talent Visa, requiring international recognition. Skilled Worker Visa only for a few club-sponsored elite.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

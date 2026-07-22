@@ -1,59 +1,92 @@
-# Mining Supervisor（Mining Supervisor）职业分析 · IT
+# Mining Supervisor — career analysis · Italy
 
-**职业代码：3121 – Mining Supervisor。**
+**Occupation code: 3121 (ISCO08)**
 
-Mining supervisors oversee mining operations, ensuring safe and efficient extraction of mineral resources, managing teams and coordinating production processes.
+Mining supervisors oversee mining operations, ensure safe and efficient extraction of mineral resources, manage teams, and coordinate production processes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或职业学院 | 3年（职业高中） | —（公立职业教育几乎免费） |
-| 本科（采矿工程） | 3年 | $1,500~$4,000（公立大学学费按家庭收入计算） |
+| High school or vocational school | 3 years (vocational high school) | $0~$2,000 (Public vocational education is nearly free) |
+| Bachelor's degree (Mining Engineering) | 3 years | $1,500~$4,000 (Public university tuition fees are calculated based on family income.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全协调员认证 | 意大利劳动和社会政策部 | 必备 | 强制要求，负责工作场所安全 |
-| 采矿技师文凭 | 技术学校 | 可选 | 常见资格，非强制但有利 |
-| 爆破许可证 | 国家矿业局 | 可选 | 若涉及爆破作业则需持有 |
+| Security Coordinator certification | Italian Ministry of Labour and Social Policies | Required | Mandatory; responsible for workplace safety |
+| Diploma of Mining Technician. | Technical school | Optional | Common qualification, not mandatory but advantageous |
+| Blasting License | National Mining Bureau | Optional | Must hold if involved in blasting operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 3,200。意大利矿业规模有限，但北部及撒丁岛仍有金属和非金属矿开采需求。能源转型对关键矿物（如锂、铜）的需求将带来少量就业机会，整体就业稳定。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,200. Italy's mining industry is limited in scale, but there is still demand for metal and non-metal mining in the north and Sardinia. The energy transition's need for critical minerals (such as lithium and copper) will generate a small number of job opportunities, with overall employment stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，北部地区略高 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，包括奖金 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，矿场经理级别更高 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, slightly higher in northern regions. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, including bonuses |
+| Senior (7+ years) | $45,000~$60,000 | pre-tax annual salary, higher for mine manager level |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从矿工或技术人员晋升为主管，进一步可担任矿场经理或区域运营总监。获得专业认证（如安全经理）有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will enhance planning and monitoring efficiency for mining supervisors, but automated equipment and remote control centers may reduce traditional supervisory roles; entry requires digital skills.
+
+Miners or technicians can advance to supervisor, then to mine manager or regional operations director. Obtaining professional certifications (e.g., safety manager) aids career development.
+
+**Tasks most exposed to AI:**
+
+- Manual inspection and equipment status checks (replaced by sensors and drones)
+- Daily production report generation (completed by automated data systems)
+- Simple fault diagnosis (taken over by AI predictive maintenance system)
+- On-site safety monitoring (replaced by video analysis and early warning systems)
+
+**Where AI augments the role:**
+
+- Use digital twins to optimise mining plans and schedules.
+- Reducing equipment downtime through AI-powered predictive maintenance
+- Intelligent risk analysis enhances safety management efficiency
+- Big data analytics optimizes ore grade control
+
+**Human moat:**
+
+- Emergency decision-making and on-site judgment for sudden incidents
+- Team morale management and conflict mediation
+- Experience in flexible adjustments under complex geological conditions
+- Communication and coordination with regulators and the community
+
+**Skills to build:**
+
+- Industrial IoT platform operation (e.g., SCADA systems)
+- Geographic Information System (GIS) and remote sensing data analysis
+- Automated machinery and equipment management
+- Basic data analysis in Python or SQL
+- Lean management and digital project management
+- Human-machine collaboration and cross-department communication skills
+
+**Key growth areas:**
 
 - Mining
 - Safety
@@ -62,65 +95,64 @@ Mining supervisors oversee mining operations, ensuring safe and efficient extrac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作者，年薪需达门槛（约2.5万欧元）。采矿主管符合条件，须有雇佣合同。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，非欧盟工人申请，但采矿主管职位可能不占配额，需雇主证明无法找到本地人。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 由雇主申请工作许可，获得后可在意大利工作。适用于非欧盟公民，审批时长约2-4个月。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, annual salary must meet threshold (approx. EUR 25,000). Mining supervisor qualifies, must have employment contract. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU worker applications, but mining supervisor positions may not count against the quota; employers need to prove that no local candidate can be found. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit applied for by the employer; can work in Italy upon approval. For non-EU citizens; processing takes approximately 2-4 months. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Supervisor？**
-- 有矿业或工程背景的技术人员
-- 能适应偏远矿区工作和倒班
-- 注重安全规范与团队管理
-
-**谁不适合学Mining Supervisor？**
-- 不愿在偏远地区工作的人
-- 对高强度体力劳动和风险敏感者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technicians with mining or engineering backgrounds
+- Able to adapt to remote mine site work and shift work
+- Focus on safety standards and team management
+
+**Who is not suited**
+- People unwilling to work in remote areas
+- Those sensitive to high-intensity physical labor and risks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Mining Supervisor in Italy?**
+A: entry-level salary approx. 28,000-35,000 EUR, mid-level 35,000-45,000 EUR, senior up to 60,000 EUR, higher in northern regions.
+
+**Q: How can a foreign mining supervisor obtain a work visa in Italy?**
+A: Eligible via EU Blue Card (requires annual salary above threshold) or Decreto Flussi quota work visa, but usually requires employer to prove the position cannot be filled by a local.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Mining Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining supervisors in Italy?**
-答：Entry-level annual salary is about €28,000-35,000, mid-level €35,000-45,000, and senior up to €60,000, higher in the north.
-
-**问：How can foreign mining supervisors get a work visa for Italy?**
-答：Via EU Blue Card (salary threshold applies) or Decreto Flussi quota work visa, but usually requires employer to prove no local candidate available.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

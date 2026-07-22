@@ -1,59 +1,95 @@
-# Chemical Plant Worker（Chemical Plant Worker）职业分析 · 新西兰
+# Chemical Plant Worker — career analysis · New Zealand
 
-**职业代码：839912 – Chemical Plant Worker。**
+**Occupation code: 839912 (ANZSCO)**
 
-Chemical plant workers operate and monitor production equipment in chemical, oil, and pharmaceutical plants to ensure safe and efficient production. This occupation is eligible for immigration via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but not on the Green List, requiring meeting salary thresholds.
+Chemical plant operators operate and monitor production equipment in chemical, oil, pharmaceutical plants to ensure safe and efficient production. This occupation can apply for immigration through the Accredited Employer Work Visa or Skilled Migrant Category, but is not on the Green List and must meet salary requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（仅需NCEA Level 2以上数学和科学成绩） |
-| 国家证书（操作） | 1-2年 | $5,000~$15,000（NZ Certificate in Process Operations Level 3或4，可在线学习） |
+| High school graduation | 0 years | $0~$0 (Requires only NCEA Level 2 or above in Maths and Science) |
+| National certificate (operations) | 1-2 years | $5,000~$15,000 (NZ Certificate in Process Operations Level 3 or 4, available online.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰过程操作国家证书 Level 3 | 新西兰资格认证局（NZQA）认可院校 | 可选 | 非强制但雇主优先考虑 |
-| 新西兰过程操作国家证书 Level 4 | NZQA认可院校 | 可选 | 适合有经验者，利于晋升 |
-| 急救证书 | 新西兰急救委员会 | 可选 | 部分工厂要求 |
+| New Zealand Certificate in Process Operations Level 3 | Institution recognized by NZQA | Optional | Not mandatory but preferred by employers |
+| New Zealand Certificate in Process Operations Level 4 | NZQA-recognised institution | Optional | Suitable for experienced individuals, beneficial for promotion |
+| First aid certificate | New Zealand Paramedic Board | Optional | Required by some factories |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。新西兰化工行业规模较小，就业岗位有限。随着可再生能源转型，部分化工厂可能向生物燃料或特种化学品转型，但整体需求平稳。就业机会主要集中在Taranaki、Auckland等工业区，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. New Zealand's chemical industry is small with limited job opportunities. With the renewable energy transition, some chemical plants may shift to biofuels or specialty chemicals, but overall demand is stable. Job opportunities are mainly in industrial areas like Taranaki and Auckland, with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$55,000 | 时薪约$20-$26 |
-| 中级（3-7年） | $55,000~$70,000 | 时薪约$26-$34 |
-| 高级（7年以上） | $70,000~$85,000 | 含主管职位，时薪约$34-$41 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $42,000~$55,000 | Hourly wage approximately $20-$26 |
+| Mid-level (3–7 years) | $55,000~$70,000 | Hourly rate approximately $26-$34 |
+| Senior (7+ years) | $70,000~$85,000 | Including supervisory positions, hourly rate approx. $34-$41 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作工可晋升为高级操作工或班组长，再升至生产主管。部分人通过在职培训考取国家证书（如NZ Certificate in Process Operations）后，向工艺优化或安全顾问方向发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
+
+Entry-level operators can advance to senior operator or team leader, then to production supervisor. Some pursue national certificates (e.g., NZ Certificate in Process Operations) through on-the-job training to move into process optimization or safety advisory roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of production parameters with alerts
+- Routine valve opening and temperature/pressure adjustment
+- Record production data and generate reports
+- Standardized operation of partial equipment start/stop
+- Rule-based fault detection
+
+**Where AI augments the role:**
+
+- Utilize AI predictive maintenance to reduce unplanned downtime
+- Simulate process optimization plans using digital twins
+- Analyze root causes of abnormal conditions with AI assistance
+- Use big data tools to optimize reaction conditions and energy consumption
+- Combines computer vision to automatically identify equipment defects
+
+**Human moat:**
+
+- Handling unforeseen process anomalies and emergency shutdowns
+- Cross-system (reaction, separation, utilities) coordination decisions.
+- Deep understanding and experiential judgment of complex process mechanisms
+- Efficient communication and emergency coordination with teams and external contractors
+- Non-formulaic flexible application of safety regulations
+
+**Skills to build:**
+
+- Chemical process simulation software (Aspen Plus)
+- Industrial Data Analysis and Machine Learning Basics
+- Advanced PLC/DCS programming and troubleshooting
+- Python or R for process data analysis
+- Industrial Internet of Things (IIoT) basics.
+- HAZOP and LOPA risk assessment methods.
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -62,68 +98,67 @@ Chemical plant workers operate and monitor production equipment in chemical, oil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作担保，薪资不低于中位数（2025年约$32.00/小时），可申请2-3年工签，可转居民 |
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制要求（如学历、经验、薪资），ANZSCO Level 3-4职业，薪资不低于中位数，可申请居留 |
-| Subclass Residence from Work（Residence from Work） | 持有AEWV并工作2年后，薪资达到中位数的1.5倍（约$48/小时），可申请居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Need job sponsorship from an accredited employer, salary not below median (approx. $32.00/hour in 2025), eligible for a 2-3 year work visa, can transition to residency |
+| Subclass SMC (Skilled Migrant Category) | Must meet 6-point criteria (e.g., qualifications, experience, salary), ANZSCO Level 3-4 occupation, salary not below median, eligible for residence |
+| Subclass Residence from Work (Residence from Work) | Hold AEWV and work for 2 years, salary reaches 1.5 times the median (approx. $48/hour), can apply for residence |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical Plant Worker？**
-- 喜欢动手操作、注重安全的务实人员
-- 愿意在偏远工业区（如New Plymouth）工作的人
-- 希望通过短期培训入职工厂行业的新移民
-
-**谁不适合学Chemical Plant Worker？**
-- 厌恶化学气味或危险环境的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, safety-conscious, practical person
+- People willing to work in remote industrial areas (e.g., New Plymouth)
+- New immigrants hoping to enter the factory industry through short-term training
+
+**Who is not suited**
+- People averse to chemical odors or hazardous environments
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemical plant operators?**
+A: Entry-level operators earn approximately NZD 42,000-55,000 per year, experienced ones can reach NZD 70,000-85,000. Hourly wages are usually below New Zealand's median wage (approx. NZD 32/hour in 2025), so specific conditions must be met to apply for skilled migration.
+
+**Q: How can chemical plant operators immigrate to New Zealand?**
+A: Mainly via Accredited Employer Work Visa (AEWV) first, then transfer to resident visa. If salary reaches 1.5 times median (approx. NZ$48/hour), can apply for residence. Not on Green List, no fast track.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes. Usually from operator to senior operator, team leader, or production supervisor. Also through national certification into process optimization or safety roles, with better salary and immigration prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chemical Plant Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for chemical plant workers?**
-答：Entry-level workers earn around NZ$42,000-55,000 per year, experienced up to $70,000-85,000. Hourly rates are often below the median wage (approx. NZ$32/hour in 2025), so specific conditions must be met to qualify for skilled migration.
-
-**问：How can chemical plant workers immigrate to New Zealand?**
-答：Primarily via an Accredited Employer Work Visa (AEWV) and then apply for residence if earning at least 1.5 times the median wage (approx. NZ$48/hour). Not on the Green List, so no fast track.
-
-**问：Are there career advancement opportunities?**
-答：Yes. From operator to senior operator, shift supervisor, or production manager. Also possible to move into process optimization or safety roles with national certificates.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

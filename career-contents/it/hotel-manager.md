@@ -1,58 +1,94 @@
-# Hotel Manager（Hotel Manager）职业分析 · IT
+# Hotel Manager — career analysis · Italy
 
-**职业代码：1411 – Hotel Manager。**
+**Occupation code: 1411 (ISCO08)**
 
-Hotel managers oversee daily operations including housekeeping, front desk, catering, and finance to ensure guest satisfaction.
+Hotel managers oversee daily hotel operations, including room management, front desk service, food and beverage, and finance, to ensure guest satisfaction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后文凭或学士学位 | 3年（本科） | —（公立大学学费低，私立酒店管理学院费用较高） |
-| 酒店管理大专或文凭 | 2年 | —（职业培训课程成本较低） |
+| Post-secondary diploma or bachelor's degree | 3 years (bachelor's) | $0~$15,000 (Public university tuition is low, private hotel management schools are more expensive) |
+| Diploma or Associate Degree in Hospitality Management | 2 years | $0~$8,000 (Vocational training course costs are lower) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理学位或文凭 | 意大利大学或酒店管理学院 | 可选 | 非强制但雇主偏好 |
-| 食品安全认证（HACCP） | 地区卫生局 | 必备 | 餐饮管理需要 |
+| Food safety certification (HACCP) | Regional health authority | Required | Required for food and beverage management |
+| Hotel management degree or diploma | Italian university or hospitality management school | Optional | Not mandatory, but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 42,000。意大利旅游业持续复苏，预计2024-2028年酒店管理岗位需求增长约8%，高端酒店和连锁品牌需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 42,000. Italy's tourism sector continues to recover; demand for hotel management positions is expected to grow by about 8% from 2024 to 2028, with strong demand in high-end hotels and chain brands.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，小型酒店或助理经理 |
-| 中级（4-7年） | $35,000~$50,000 | 税前年薪，中型酒店或部门经理 |
-| 高级（8年以上） | $50,000~$80,000 | 税前年薪，大型豪华酒店或集团区域经理 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, small hotel or assistant manager |
+| Mid-level (4-7 years) | $35,000~$50,000 | Annual salary before tax, mid-sized hotel or department manager |
+| Senior (8+ years) | $50,000~$80,000 | Pre-tax annual salary for regional managers of large luxury hotels or groups |
+| average salary | $46,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从部门主管（客房/餐饮）晋升至助理经理，再至酒店经理，可向区域经理或集团管理层发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of hotel manager faces automation risks and AI enhancement opportunities: repetitive operational tasks can be replaced, but strategic decision-making, interpersonal service, and crisis management skills remain crucial — a mixed bag.
+
+Progress from department head (housekeeping/restaurant) to assistant manager, then hotel manager, with potential to move to regional manager or corporate management.
+
+**Tasks most exposed to AI:**
+
+- Automation of room assignment and check-in processes.
+- Basic financial reports and budget updates
+- Inventory management and restock reminders
+- Chatbot response to common guest questions
+- Shift optimization and attendance management
+
+**Where AI augments the role:**
+
+- Data-driven revenue management and dynamic pricing
+- Personalized guest experience design (AI recommendation)
+- Employee training and performance analysis
+- Effectiveness optimization of multi-channel marketing campaigns
+- Intelligent monitoring of energy and maintenance costs
+
+**Human moat:**
+
+- Handle emergencies and customer complaints.
+- Team leadership and staff motivation
+- Personalized relationship management for high-end clients
+- Brand Culture and Service Innovation.
+- Cross-departmental coordination and strategic decision-making
+
+**Skills to build:**
+
+- Revenue Management and Data Analysis
+- Use of AI tools (e.g., ChatGPT, Power BI)
+- Digital marketing and social media management
+- Emotional intelligence and communication skills
+- Innovation management and change leadership
+- Basic programming and API understanding
+
+**Key growth areas:**
 
 - Tourism Recovery
 - Luxury Hotels
@@ -61,67 +97,66 @@ Hotel managers oversee daily operations including housekeeping, front desk, cate
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人员，需大学学历及高薪offer（年薪≥欧盟成员国标准） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 年度配额工作签证，适用于非欧盟工人，雇主需证明无法找到本地候选人 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU personnel, requiring a university degree and a high-salary job offer (annual salary ≥ EU member state threshold). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota work visa for non-EU workers; employers must prove they cannot find local candidates. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel Manager？**
-- 具备领导力和沟通能力
-- 热爱服务业和解决问题
-- 能适应灵活工作时间
-
-**谁不适合学Hotel Manager？**
-- 不善于处理客户投诉
-- 无法承受高压和快节奏工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess leadership and communication skills
+- Passion for service industry and problem solving
+- Able to adapt to flexible working hours.
+
+**Who is not suited**
+- Not good at handling customer complaints
+- Unable to handle high pressure and fast-paced work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a hotel manager in Italy?**
+A: Junior: about €28,000-35,000, mid-level €35,000-50,000, senior €50,000-80,000, pre-tax annual salary.
+
+**Q: How can non-EU citizens become hotel managers in Italy?**
+A: Can apply for an EU Blue Card (requires degree and high salary) or a Decreto Flussi quota work visa; the employer must prove that no local candidate can be found.
+
+**Q: What is the career path for a hotel manager?**
+A: From department head to assistant manager, then to general manager, can move to regional management or consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Hotel Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hotel managers in Italy?**
-答：Entry-level around €28,000-€35,000, mid-level €35,000-€50,000, senior €50,000-€80,000 gross per year.
-
-**问：How can non-EU citizens become hotel managers in Italy?**
-答：Via EU Blue Card (degree and high salary required) or Decreto Flussi quota work visa, employer must show no local candidate.
-
-**问：What is the career path for hotel managers?**
-答：From department head to assistant manager, then general manager, with potential to move into regional management or consulting.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

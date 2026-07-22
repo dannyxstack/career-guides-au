@@ -1,58 +1,87 @@
-# Kaiāwhina (Hauora) (Māori Health Assistant)（Kaiāwhina (Hauora) (Māori Health Assistant)）职业分析 · 澳大利亚
+# Kaiāwhina (Hauora) (Māori Health Assistant) — career analysis · Australia
 
-**职业代码：411512 – Kaiāwhina (Hauora) (Māori Health Assistant)。**
+**Occupation code: 411512 (ANZSCO)**
 
-Kaiāwhina (Hauora) provides culturally safe health support to Māori communities, assisting patients and families with communication and health education coordination.
+Māori health assistants provide culturally safe health support for Māori communities, assist patients and their families in communicating with healthcare providers, and coordinate health education programs.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 证书/文凭 | 1年 | $5,000~$10,000（新西兰毛利健康助理证书课程） |
+| Certificate/diploma | 1 year | $5,000~$10,000 (New Zealand Māori Health Assistant Certificate course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家毛利健康助理证书 | 新西兰学历认证局 (NZQA) | 必备 | 完成认可课程 |
+| National Certificate in Māori Health Assistance | New Zealand Qualifications Authority (NZQA) | Required | Complete an accredited course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 150。随着新西兰对文化安全护理需求的增加，该职业就业前景稳定，尤其在毛利人占比较高的地区。
+**Job demand: medium (★★½☆☆).** National workforce approx. 150. With increasing demand for culturally safe nursing in New Zealand, job prospects for this occupation are stable, especially in areas with higher Māori populations.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级薪资 |
-| 中级（3-6年） | $55,000~$65,000 | 有经验者薪资 |
-| 高级（6年以上） | $65,000~$75,000 | 高级或管理岗位薪资 |
+| Median salary | $75,920 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level salary |
+| Mid-level (3–6 years) | $55,000~$65,000 | Salary for experienced professionals |
+| Senior (6+ years) | $65,000~$75,000 | Senior or management salary |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可通过积累经验晋升为健康协调员或社区健康管理者，也可向注册护士或健康促进专员等角色发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Māori health assistant's core tasks - cultural safety support, community trust building, and personalized health navigation - are hard to replace by AI, but administrative tasks, information retrieval, and basic educational material generation can be significantly optimized, a 'mixed blessing'.
+
+Can progress to health coordinator or community health manager through experience, or develop into roles like registered nurse or health promotion officer.
+
+**Tasks most exposed to AI:**
+
+- Automated phone/SMS reminders for appointments and basic health information
+- Auto-generation and preliminary layout of health promotional materials
+- Entry of basic patient data and simple classification statistics
+
+**Where AI augments the role:**
+
+- Enhance communication accuracy with multicultural families using AI translation and voice interaction.
+- Using AI to analyze community health data, identify high-risk populations, and optimize intervention strategies
+- Generate personalized health education plans with AI assistance to enhance service coverage.
+
+**Human moat:**
+
+- Deep community trust and interpersonal empathy in Māori culture
+- Providing culturally safe health navigation in complex family dynamics
+- Explaining the cross-cultural bridge role between Western medical systems and Māori traditional concepts
+
+**Skills to build:**
+
+- Basic digital literacy and use of AI collaboration tools (e.g., health information query AI)
+- Māori cultural digital content creation and social media health communication.
+- Data Privacy and Ethics (Handling Sensitive Community Health Information)
+- Basic data analysis (identifying community needs trends).
+- Multilingual communication and cultural sensitivity training
+
+**Key growth areas:**
 
 - Community Health
 - Indigenous Health
@@ -61,62 +90,64 @@ Kaiāwhina (Hauora) provides culturally safe health support to Māori communitie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需获得新西兰雇主担保。 |
-| Subclass 187（Regional Sponsored Migration Scheme Visa） | 偏远地区雇主担保永居签证，适用于新西兰偏远地区。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa requiring New Zealand employer sponsorship. |
+| Subclass 187 (Regional Sponsored Migration Scheme Visa) | Regional Sponsored Migration Scheme visa for permanent residency, applicable to New Zealand regional areas. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kaiāwhina (Hauora) (Māori Health Assistant)？**
-- 对毛利文化和健康有热忱的人
-- 善于沟通、富有同理心的人
-- 希望在社区健康领域工作的人
+**Who is suited**
+- People passionate about Māori culture and health
+- Good communicators with empathy.
+- People who want to work in community health
 
-**谁不适合学Kaiāwhina (Hauora) (Māori Health Assistant)？**
-- 不愿面对文化敏感话题的人
-- 偏好高薪资和快速晋升的人
+**Who is not suited**
+- People unwilling to address culturally sensitive topics.
+- Those who prefer high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a health care assistant in Maori communities?**
+A: Starting annual salary around 45,000–55,000 AUD, senior level up to 65,000–75,000 AUD.
+
+**Q: Is there a pathway to migrate to Australia for this occupation?**
+A: This occupation is mainly in New Zealand; migration pathways to Australia are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Kaiāwhina (Hauora) (Māori Health Assistant)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Kaiāwhina (Hauora)?**
-答：Entry-level salary is around AUD 45,000-55,000, senior can reach AUD 65,000-75,000.
-
-**问：Are there migration pathways to Australia for this occupation?**
-答：This occupation is primarily in New Zealand, migration pathways to Australia are limited.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

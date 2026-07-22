@@ -1,62 +1,98 @@
-# Music Teacher (Private Tuition)（Music Teacher (Private Tuition)）职业分析 · 新西兰
+# Music Teacher (Private Tuition) — career analysis · New Zealand
 
-**职业代码：249214 – Music Teacher (Private Tuition)。**
+**Occupation code: 249214 (ANZSCO)**
 
-Music Teacher (Private Tuition) in New Zealand primarily provides one-on-one instruction in instruments, voice, or music theory, often self-employed or at music schools. No mandatory degree required, but strong performance and teaching skills are essential. Skilled migration options are limited; work via Accredited Employer Work Visa (AEWV) is possible, but not on the Green List, with low shortage.
+Music teachers (private) in New Zealand mainly provide one-on-one instruction in instruments, voice, or music theory, often self-employed or employed by music schools. The occupation does not require a university degree but demands strong performance and teaching skills. Skilled migration opportunities are limited; work is possible via an Accredited Employer Work Visa (AEWV), but it is generally not on the Green List and has low shortage levels.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 音乐相关文凭或证书 | 2年 | $20,000~$40,000（新西兰音乐学校或理工学院文凭课程，如National Diploma in Music） |
-| 音乐学士学位 | 3年 | $60,000~$90,000（大学学士学位，如奥克兰大学音乐学士） |
+| Music-related diploma or certificate | 2 years | $20,000~$40,000 (New Zealand music school or polytechnic diploma programs, such as National Diploma in Music) |
+| Bachelor of Music degree. | 3 years | $60,000~$90,000 (University bachelor's degree, such as a Bachelor of Music from the University of Auckland) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制注册 | 无 | 可选 | 新西兰不要求私人音乐教师强制注册，但建议获取教师资格认证以增强竞争力 |
-| 音乐考级证书（如ABRSM） | 英国皇家音乐学院联合委员会 | 可选 | 国际上认可的音乐水平证明，非强制但有助于客户信任 |
-| 警察无犯罪记录证明 | 新西兰警察局 | 可选 | 从事儿童教学可能需要，部分雇主或客户要求提供 |
-| 工作经验证明 | 过往雇主或自雇记录 | 可选 | 移民申请时需证明教学经验，如合同、推荐信等 |
+| No mandatory registration. | None | Optional | New Zealand does not require mandatory registration for private music teachers, but obtaining teacher certification is recommended to enhance competitiveness |
+| Music grade certificates (e.g., ABRSM) | Associated Board of the Royal Schools of Music | Optional | Internationally recognized proof of music proficiency, not mandatory but helps build client trust |
+| Police clearance certificate (no criminal record) | New Zealand Police | Optional | May be required for teaching children; some employers or clients may request it |
+| Work experience certificate | Previous employer or self-employment records | Optional | Immigration applications require proof of teaching experience, such as contracts, reference letters, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。新西兰音乐教师（私人课）就业前景平稳但不紧缺。人口增长和音乐兴趣稳定，但竞争较多，尤其在城市。自雇者需自行建立客户群；受雇于音乐学校或社区中心的职位有限。行业受经济波动影响，非必需品支出可能减少。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. The employment outlook for private music teachers in New Zealand is stable but not in high demand. Population growth and steady interest in music lead to competition, especially in cities. Self-employed individuals need to build their own client base; positions at music schools or community centers are limited. The industry is affected by economic fluctuations, as non-essential spending may decrease.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 按小时计费，通常每小时40-60纽元，兼职较多 |
-| 中级（3-8年） | $50,000~$70,000 | 稳定生源后，年收入可达5-7万纽元 |
-| 高级（8年以上） | $70,000~$100,000 | 知名教师或自营音乐学校，年收入可超过10万纽元，但需长期经营 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$50,000 | Charged by the hour, typically 40-60 New Zealand dollars per hour, mostly part-time |
+| Mid-level (3–8 years) | $50,000~$70,000 | With a stable student base, annual income can reach NZD 50,000-70,000. |
+| Senior (8+ years) | $70,000~$100,000 | Famous teachers or self-run music schools can earn over NZD 100,000/year, but requires long-term effort |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括积累教学经验、提高演奏水平，或进修音乐教育文凭以进入学校系统。部分教师转向音乐治疗、表演或开办音乐学校。晋升通常依赖口碑和专业技能，而非正式职位等级。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Private teaching portion of music teachers is easily replaceable by AI tools (e.g., intelligent practice assistants, music theory generators), but core values like high interaction, personalised guidance, and emotional motivation are hard to automate; career prospects are mixed.
+
+Career development pathways include accumulating teaching experience, improving performance skills, or pursuing a music education diploma to enter the school system. Some teachers transition to music therapy, performance, or opening a music school. Advancement usually relies on reputation and professional skills rather than formal job ranks.
+
+**Tasks most exposed to AI:**
+
+- Repeated explanation of basic music theory and ear training
+- Demonstration performance and correction of standard repertoire
+- Rhythm training and metronome monitoring for beginners
+- Automatic grading of music theory assignments
+- Common practice song list and progress tracking
+
+**Where AI augments the role:**
+
+- Uses AI to generate personalized practice pieces and improvisation accompaniment
+- Using AI to analyze student performances and precisely identify technical weaknesses
+- Create teaching materials and multi-style compositions using AI tools
+- Improving students' ensemble skills through AI-simulated rehearsals
+- Use AI to track and analyze student progress, customize teaching plans.
+
+**Human moat:**
+
+- One-on-one real-time emotional interaction and motivation.
+- Complex musical expression, improvisation, and personalized style guidance
+- Adjust teaching strategies based on student psychological states
+- Organize small concerts, competitions, and community events
+- Maintain long-term trust in teacher-student relationships
+
+**Skills to build:**
+
+- Use of AI music creation tools (e.g., MuseNet, AIVA).
+- Data analysis skills to track student progress
+- Digital Audio Workstation (DAW) operation
+- Programming basics (Python/MIDI processing)
+- Design and operation of online teaching platforms
+- Music therapy or special education skills
+
+**Key growth areas:**
 
 - Low demand
 - Self-employed
@@ -65,66 +101,68 @@ Music Teacher (Private Tuition) in New Zealand primarily provides one-on-one ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 如受雇于认证雇主（如音乐学校），可通过此签证工作，但需雇主支持和满足薪资要求（目前中位工资约29.66纽元/小时） |
-| Subclass SMC（Skilled Migrant Category） | 技术移民可能性低，因该职业通常不满足ANZSCO技能等级要求（需Level 1-3且收入达中位数）。若持有学位且收入较高，可尝试，但成功率低 |
-| Subclass Visitor Visa（Visitor Visa） | 短期教学或参加音乐活动，不允许工作 |
+| Subclass AEWV (Accredited Employer Work Visa) | If employed by an accredited employer (e.g., music school), can work under this visa, but requires employer support and meeting salary requirements (currently median wage about NZD 29.66/hour) |
+| Subclass SMC (Skilled Migrant Category) | Low skilled migration possibility, as the occupation usually does not meet ANZSCO skill level requirements (needs Level 1-3 and income at median). If you hold a degree and have high income, you can try, but success rate is low. |
+| Subclass Visitor Visa (Visitor Visa) | Short-term teaching or music event participation, no work allowed |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Music Teacher (Private Tuition)？**
-- 有扎实音乐演奏技能和教学热情的人
-- 喜欢自由职业、能自我营销的人
-- 有耐心，善于与不同年龄段学生沟通的人
+**Who is suited**
+- People with solid music performance skills and a passion for teaching
+- People who like freelancing and self-marketing
+- Individuals who are patient and good at communicating with students of different age groups.
 
-**谁不适合学Music Teacher (Private Tuition)？**
-- 希望稳定高薪和固定工作的人
-- 缺乏自我推广能力或不愿自雇的人
+**Who is not suited**
+- Those seeking stable high salary and fixed work
+- People who lack self-promotion skills or are unwilling to be self-employed
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the typical income for a music teacher (private lessons) in New Zealand?**
+A: Income varies widely: part-time entry-level about NZ$35,000-$50,000/year; full-time intermediate tutors with steady students about NZ$50,000-$70,000; senior or school owners can earn over NZ$100,000. Typically charged hourly at NZ$40-$60.
+
+**Q: Can a music teacher (private lessons) immigrate to New Zealand?**
+A: Quite difficult. This occupation is not on the Green List and generally does not meet the skill level requirements for skilled migration (due to self-employment or low education). The main pathway is to work in New Zealand on an AEWV visa, gain experience, and then try for other visas, but immigration prospects are not optimistic.
+
+**Q: What qualifications are needed to be a private music teacher in New Zealand?**
+A: No mandatory education requirements, but having a music diploma or bachelor's degree (e.g., University of Auckland Bachelor of Music) can increase competitiveness. Certification (e.g., ABRSM) and teaching experience are more important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Music Teacher (Private Tuition)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical income for a Music Teacher (Private Tuition) in New Zealand?**
-答：Income varies widely: entry-level part-time around NZD 35,000-50,000, mid-level full-time NZD 50,000-70,000, senior or school owners NZD 70,000-100,000+. Hourly rate is typically NZD 40-60.
-
-**问：Can a Music Teacher (Private Tuition) immigrate to New Zealand?**
-答：It's difficult. This occupation is not on the Green List and generally doesn't meet the skill level for Skilled Migrant Category (often self-employed or low qualification). The main pathway is via AEWV to work, but long-term residency prospects are limited.
-
-**问：What qualifications are needed to be a private music teacher in New Zealand?**
-答：No mandatory degree, but a diploma or bachelor's in music (e.g., University of Auckland) is advantageous. Grade certificates (e.g., ABRSM) and teaching experience are more valued.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Scribe（Scribe）职业分析 · IT
+# Scribe — career analysis · Italy
 
-**职业代码：4414 – Scribe。**
+**Occupation code: 4414 (ISCO08)**
 
-Scribes and related workers manually or using equipment copy, transcribe, and organize documents, commonly found in legal, administrative, and public service sectors. In Italy, demand is stable but gradually being replaced by digitalization.
+Copyists and related workers manually or using equipment copy, transcribe, and organize documents, commonly found in legal, administrative, and public service sectors. In Italy, demand for this occupation is stable but gradually being replaced by digitalization.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 5年（高中） | —（意大利公立高中免费） |
-| 职业培训证书 | 1-2年 | $1,000~$5,000（私立职业学校的课程费用） |
+| High school diploma | 5 years (high school) | $0~$0 (Italian public high schools are free) |
+| Vocational training certificate | 1-2 years | $1,000~$5,000 (Course fees for private vocational schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 意大利教育部 | 必备 | 至少需要高中毕业文凭 |
-| 法律抄写员认证 | 意大利司法部 | 可选 | 在法院或法律事务所工作需要 |
+| High school diploma | Italian Ministry of Education | Required | Requires at least a high school diploma |
+| Legal Transcriber Certification | Italian Ministry of Justice | Optional | Required for work in courts or law firms |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 15,000。意大利抄写员岗位受数字化影响，就业机会缓慢下降。但法律和公证行业仍需要人工抄写服务，尤其在中小城市。预计未来五年就业人数减少约5%。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. The position of copyist in Italy is affected by digitalization, with employment opportunities slowly declining. However, the legal and notary sectors still need manual copying services, especially in small and medium cities. Employment is expected to decrease by about 5% over the next five years.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，小型企业 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，中型企业 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，大型企业或法院 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, small business |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary, medium-sized enterprise |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, large companies or courts |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 职业发展路径有限，可从初级抄写员升为高级抄写员或文书主管。部分人通过进修成为法律助理或公证员，但需额外资格考试。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Scribes in Italy face high automation risk; AI transcription and document processing technology can already replace most handwriting and proofreading tasks, leading to significant shrinkage of entry-level positions.
+
+Career progression is limited, from junior copyist to senior copyist or clerical supervisor. Some advance to legal assistant or notary via further study, but additional qualification exams are required.
+
+**Tasks most exposed to AI:**
+
+- Transcribing handwritten documents into electronic text.
+- Copying and transcribing manuscripts
+- Simple proofreading and formatting adjustments
+- Document archiving and numbering
+- Fill in table content following a template
+
+**Where AI augments the role:**
+
+- Using AI-assisted transcription tools to improve efficiency
+- Supervise and correct AI-generated transcription results
+- Processing complex handwritten or non-standard format documents
+- Manage multilingual document translation and localization
+- Use OCR and NLP tools to batch process historical documents
+
+**Human moat:**
+
+- Ability to interpret complex, blurred, or damaged manuscripts
+- Precise understanding of terminology in legal, medical, or other professional fields
+- Client communication and document quality control
+- Cross-platform Document Management System Configuration and Maintenance
+- Legal compliance checks (e.g., evidence chain completeness)
+
+**Skills to build:**
+
+- Operation of AI transcription and OCR tools (e.g., ABBYY, Transkribus)
+- Document management systems (e.g., SharePoint, M-Files)
+- Basic programming (Python scripting for batch document processing)
+- Knowledge of terminology in the legal or medical field
+- Data quality audit and correction techniques
+- Cross-cultural communication and multilingual ability
+
+**Key growth areas:**
 
 - Legal transcription
 - Digital documentation
@@ -63,65 +99,67 @@ Scribes and related workers manually or using equipment copy, transcribe, and or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需有高等教育学历和年薪达到门槛（约24,000欧元）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，受年度配额限制，需雇主担保。抄写员通常不符合高技能要求。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳工局申请，证明无法找到意大利或欧盟公民胜任。抄写员岗位获批难度较大。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires higher education degree and annual salary threshold (approx. €24,000). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens, subject to annual quota, requires employer sponsorship. Copywriters typically do not meet high-skilled requirements. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply to the labor bureau, proving that no Italian or EU citizen can fill the position. Approval for scribe roles is difficult. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Scribe？**
-- 细心、耐心、注重细节的人
-- 对文书工作有热情，喜欢安静办公环境的人
+**Who is suited**
+- Detail-oriented, patient, and meticulous individuals
+- People with a passion for paperwork and a preference for a quiet office environment
 
-**谁不适合学Scribe？**
-- 追求高薪和快速职业发展的人
-- 不喜欢重复性工作的人
+**Who is not suited**
+- People pursuing high salary and fast career development
+- People who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a copywriter in Italy?**
+A: A scribe's annual salary typically ranges from 18,000 to 35,000 euros, depending on experience and employer. Junior: approximately 18,000–22,000 euros; senior: up to 35,000 euros.
+
+**Q: Can non-EU citizens immigrate to Italy through scribe jobs?**
+A: Scribe is not a high-skilled occupation, making EU Blue Card immigration difficult. Decreto Flussi work visas are quota-limited, and employers must prove they cannot hire locally. Immigration is relatively challenging.
+
+**Q: What is the career outlook for scribes? Will they be replaced by AI?**
+A: Average prospects, digitalisation and AI are replacing some work, e.g., automatic transcription. However, legal and notarial fields still require manual transcription, with slowly declining demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Scribe属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for scribes in Italy?**
-答：The annual salary for scribes in Italy ranges from 18,000 to 35,000 EUR depending on experience and employer. Entry-level earns about 18,000-22,000 EUR, senior up to 35,000 EUR.
-
-**问：Can non-EU citizens immigrate to Italy as scribes?**
-答：Scribes are not high-skilled occupations, making EU Blue Card migration difficult. Decreto Flussi work visa is quota-limited and requires employer to prove no local candidate available. Migration is challenging.
-
-**问：What is the future outlook for scribes? Will AI replace them?**
-答：Outlook is average; digitalization and AI are replacing some tasks like automatic transcription. However, legal and notary sectors still need manual scribbling, demand slowly declining.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Childcare Workers（Childcare Workers）职业分析 · 美国
+# Childcare Workers — career analysis · United States
 
-**职业代码：39-9011 – Childcare Workers。**
+**Occupation code: 39-9011 (SOC)**
 
-Attend to children at schools, businesses, private households, and childcare institutions, performing tasks such as dressing, feeding, bathing, and overseeing play.
+Caring for children in kindergartens, schools, or homes, providing daily care, play supervision, and basic educational activities to ensure child safety and health.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭/同等学历 | 3年 | —（公立高中免费） |
-| 儿童发展副学士学位 | 2年 | $10,000~$30,000（社区学院费用） |
-| 儿童发展学士学位 | 4年 | $40,000~$100,000（州立大学费用） |
+| High school diploma or equivalent | 3 years | $0~$0 (Public high schools are free) |
+| Associate degree in child development | 2 years | $10,000~$30,000 (Community college costs) |
+| Bachelor of Child Development | 4 years | $40,000~$100,000 (State university costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童发展助理(CDA)证书 | 儿童发展助理委员会 | 可选 | 国家认可的入门级证书 |
-| 州儿童保育员执照 | 州社会服务部门 | 必备 | 多数州要求，含背景调查和培训 |
-| 心肺复苏和急救认证 | 美国红十字会/美国心脏协会 | 可选 | 多数雇主要求 |
+| State childcare provider license | State social services department. | Required | Most states require, including background checks and training |
+| Child Development Associate (CDA) credential | Child Development Associate Council | Optional | Nationally recognized entry-level certificate |
+| CPR and First Aid certification | American Red Cross / American Heart Association | Optional | Most employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 614,000。美国儿童保育员需求稳定，受出生率和双职工家庭增加推动。2023-2033年就业增速约4%，与平均水平相当。州执照要求严格，但入门门槛低。
+**Job demand: medium (★★½☆☆).** National workforce approx. 614,000. Demand for childcare workers in the U.S. is stable, driven by birth rates and the increase in dual-income families. Employment growth from 2023 to 2033 is projected at about 4%, on par with the average. State licensing requirements are strict, but entry barriers are low.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入门水平 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验 |
-| 高级（7年以上） | $35,000~$42,000 | 主管或高级保育员 |
+| Median salary | $34,980 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry level |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced |
+| Senior (7+ years) | $35,000~$42,000 | Supervisor or senior childcare worker |
+| average salary | $35,030 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 初级保育员可通过经验晋升为高级保育员或团队主管，部分继续深造成为幼儿园教师或儿童发展专家。需积累经验并考取更高层次证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Childcare workers face a mixed outlook: AI can automate some administrative and monitoring tasks, but core emotional interaction and safety supervision are hard to replace.
+
+Junior childcare workers can advance to senior roles or team leaders through experience, and some further study to become kindergarten teachers or child development specialists. Requires accumulating experience and obtaining higher-level certifications.
+
+**Tasks most exposed to AI:**
+
+- Daily attendance records and pick-up/drop-off sign-ins, paper or electronic
+- Basic safety monitoring (e.g., automatically detecting dangerous behavior in children via cameras)
+- Common childcare knowledge Q&A (e.g., complementary food tips, schedule arrangement)
+- Routine activity report generation (auto-generated daily reports based on sensor data)
+- Basic instructional support (e.g., playing pre-recorded stories or arithmetic games)
+
+**Where AI augments the role:**
+
+- Combining AI to analyze each child's behavior and developmental milestones, personalizing interaction strategies
+- Use automation tools to quickly write observation records, freeing up more time for interaction with children
+- Conducting language and music activities via voice assistants or tablets
+- Use AI to automatically generate parent notifications and activity suggestions in home communication.
+- Use AI recommendation systems and gamified teaching tools to enrich course content.
+
+**Human moat:**
+
+- Quickly calm, empathize with and guide children during sudden emotional or conflict situations
+- Judge children's discomfort or injury signs based on subtle non-verbal cues
+- Build trust with parents and provide detailed daily performance of children
+- Handling unpredictable safety incidents during outdoor and free play
+- Providing one-on-one emotional attention and behavior modification for children with special needs
+
+**Skills to build:**
+
+- Basic data analysis (interpreting AI-generated child development reports)
+- Use of AI tools (e.g., smart teaching platforms, voice assistants)
+- Child mental health and behavior guidance (addressing new issues in the tech era)
+- Interdisciplinary curriculum design (integrating STEM and social-emotional learning)
+- Digital ethics and privacy protection (especially child data security)
+- Basic programming mindset (understanding how toys/robots work)
+
+**Key growth areas:**
 
 - Steady demand
 - Early childhood education
@@ -65,65 +101,67 @@ Attend to children at schools, businesses, private households, and childcare ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少适用，因通常不要求学士学位，仅限管理或教学岗位。 |
-| Subclass Green Card (PERM)（EB-3 Green Card (Skilled Workers)） | 仅当雇主证明无法找到合格美国人且岗位要求两年经验或培训，极罕见。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely applicable, as a bachelor's degree is typically not required, only for management or teaching positions. |
+| Subclass Green Card (PERM) (EB-3 Green Card (Skilled Workers)) | Only if the employer proves unable to find qualified Americans and the position requires two years experience or training, very rare. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Childcare Workers？**
-- 喜欢与儿童互动、有耐心和责任心的人
-- 寻求稳定且入门门槛低的职业者
-- 愿意从事体力活动（如抱孩子、清洁）的工作者
+**Who is suited**
+- People who enjoy interacting with children, are patient, and responsible.
+- Those seeking stable careers with low entry barriers
+- Willing to engage in physical activities (e.g., holding children, cleaning)
 
-**谁不适合学Childcare Workers？**
-- 对高噪音和情绪化环境敏感的人
-- 期望高收入和快速晋升的人
+**Who is not suited**
+- Those sensitive to high noise and emotional environments
+- Those expecting high income and rapid promotion.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of child care workers?**
+A: The average annual salary for a child care worker in the US is about $30,000, entry-level about $25,000, senior about $40,000. Pay is low but demand is stable.
+
+**Q: Can child care workers immigrate to the US through skilled migration?**
+A: Almost impossible. This occupation is typically not a professional position; H-1B visa requires a bachelor's degree, and EB-3 green card requires employer to prove labor shortage, but the government rarely approves.
+
+**Q: What are the career advancement paths for childcare workers?**
+A: Progress from junior caregiver to senior caregiver or team supervisor, then to kindergarten director. Also can become a preschool teacher or child development specialist through further education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Childcare Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for childcare workers?**
-答：The average annual salary for childcare workers in the US is about $30,000, with entry-level around $25,000 and experienced up to $40,000. Pay is low but demand is steady.
-
-**问：Can childcare workers immigrate to the US through skilled migration?**
-答：Highly unlikely. The occupation is not considered a specialty occupation; H-1B requires bachelor's degree and EB-3 green card requires labor certification, which is rarely approved for this role.
-
-**问：What are the career progression paths for childcare workers?**
-答：From entry-level to senior caregiver or team lead, then to childcare center director. Further education leads to preschool teacher or child development specialist.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

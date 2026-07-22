@@ -1,58 +1,91 @@
-# Retail sales supervisors（Retail sales supervisors）职业分析 · 加拿大
+# Retail sales supervisors — career analysis · Canada
 
-**职业代码：62010 – Retail sales supervisors。**
+**Occupation code: 62010 (NOC)**
 
-Retail sales supervisors oversee daily store operations, manage sales teams, ensure customer satisfaction, and help meet sales targets. This role has steady demand in Canada's retail sector, especially in major cities.
+Retail supervisors oversee daily operations of retail stores, manage sales teams, ensure customer satisfaction, and help achieve sales targets. Demand for this role in Canada is stable, especially in major cities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无需特定年限 | —（通常要求高中毕业，但非强制） |
-| 大学文凭或证书 | 1-2年 | $5,000~$20,000（商业或零售管理相关证书/大专，可提升竞争力） |
+| High school diploma | No specific years required | $0~$0 (Usually requires high school graduation, but not mandatory) |
+| University diploma or certificate | 1-2 years | $5,000~$20,000 (Certificate/diploma in business or retail management can boost competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 零售主管无需特定执照，但雇主可能要求相关经验或培训 |
-| 省级酒类销售培训（如适用） | 各省酒类管制机构 | 可选 | 如管理酒类销售，需完成Serving It Right等培训 |
+| No mandatory license | None | Optional | Retail supervisors do not require specific licenses, but employers may require relevant experience or training |
+| Provincial alcohol sales training (if applicable) | Provincial liquor control authorities | Optional | If managing alcohol sales, completion of Serving It Right and similar training is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。加拿大零售业持续增长，受消费支出和电子商务影响，实体店仍需要主管管理团队。预计就业前景良好，尤其在人口密集省份。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Canada's retail sector continues to grow, influenced by consumer spending and e-commerce. Physical stores still need managers to lead teams. Employment outlook is good, especially in populous provinces.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 起薪略高于最低工资，多位于小零售商 |
-| 中级（3-7年） | $40,000~$55,000 | 多数零售主管薪资在此区间，大零售商更高 |
-| 高级（7年以上） | $55,000~$75,000 | 资深主管或大店主管可达更高 |
+| Median salary | $45,760 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$40,000 | Starting salary slightly above minimum wage, mostly in small retail outlets |
+| Mid-level (3–7 years) | $40,000~$55,000 | Most retail supervisors' salaries fall within this range, higher at large retailers |
+| Senior (7+ years) | $55,000~$75,000 | Senior supervisors or large store managers can reach higher levels |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 零售主管可晋升为店长、区域经理或运营总监。积累经验后，也可转向采购、商品规划或供应链管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
+
+Retail supervisors can advance to store manager, regional manager, or operations director. With experience, they can also move into procurement, merchandise planning, or supply chain management.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates shift schedules (based on historical foot traffic and employee preferences)
+- AI for inventory forecasting and automatic replenishment ordering
+- AI analysis of sales data to generate reports and trend insights
+- AI handles common customer queries (chatbots).
+
+**Where AI augments the role:**
+
+- Monitor team performance in real-time with AI dashboards, quickly adjust strategies
+- Using AI to simulate the impact of different scheduling scenarios on sales
+- Targeted promotions and product recommendations based on AI customer profiling
+- Improving New Employee Onboarding Efficiency with AI Training Tools
+
+**Human moat:**
+
+- Team morale management and conflict mediation
+- On-Site Emergency Decision-Making (e.g., customer complaints, safety incidents)
+- Interpersonal negotiation and collaboration with superiors and suppliers
+- Communicating corporate culture and values
+
+**Skills to build:**
+
+- Retail data analysis (advanced Excel + AI analysis tools)
+- Operation of AI Scheduling and Inventory Management Software
+- Digital marketing and customer relationship management (CRM)
+- Emotional intelligence and team leadership
+- Basic finance and cost control
+- AI tool integration and workflow automation
+
+**Key growth areas:**
 
 - Retail trade
 - E-commerce impact
@@ -61,68 +94,67 @@ Retail sales supervisors oversee daily store operations, manage sales teams, ens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 零售主管属TEER 2职业，可通过联邦技术移民或加拿大经验类移民申请，需满足语言等要求。 |
-| Subclass PNP（Provincial Nominee Program） | 多个省份的省提名项目涵盖零售主管，尤其是劳动力短缺地区。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 若无法直接移民，雇主可申请LMIA支持工签，之后转为永居。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Retail supervisor is a TEER 2 occupation, eligible for Federal Skilled Worker or Canadian Experience Class immigration, subject to language and other requirements. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in multiple provinces cover retail supervisors, especially in labor shortage areas. |
+| Subclass LMIA (Labour Market Impact Assessment) | If direct immigration is not possible, the employer can apply for LMIA to support a work visa, then transition to permanent residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Retail sales supervisors？**
-- 喜欢与人打交道、有领导潜质的人
-- 追求稳定就业且不介意轮班制的人
-- 希望从基层零售晋升管理岗位的人
-
-**谁不适合学Retail sales supervisors？**
-- 厌恶销售指标压力的人
-- 偏好固定周末休息或不适应站立工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with others and have leadership potential
+- For those seeking stable employment and not minding shift work
+- People who want to advance from entry-level retail to management positions
+
+**Who is not suited**
+- People who dislike pressure from sales targets
+- Suitable for those preferring fixed weekend off or those unable to stand for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for retail supervisors in Canada?**
+A: Salary range approx. CAD 30,000–75,000/year, median around CAD 45,000, varying by region and employer. Larger retailers or higher management roles pay more.
+
+**Q: What immigration pathways are available for retail supervisors to come to Canada?**
+A: Can immigrate via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Some provinces have demand for this occupation, which can help gain PNP points.
+
+**Q: What are the career development prospects for a retail supervisor?**
+A: Could be promoted from supervisor to store manager, regional manager, or even operations director. Could also shift to retail support roles such as purchasing or merchandise planning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Retail sales supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for retail sales supervisors in Canada?**
-答：Salaries range from CAD 30,000 to 75,000 per year, with a median around CAD 45,000, varying by location and employer. Larger retailers and higher responsibility roles pay more.
-
-**问：What immigration pathways are available for retail sales supervisors to Canada?**
-答：They can immigrate via Express Entry (FSW/CEC) or Provincial Nominee Programs (PNP). Some provinces have demand for this occupation, which can help with nomination points.
-
-**问：What is the career progression for retail sales supervisors?**
-答：They can advance to store manager, regional manager, or operations director, or move into buying, merchandising, or supply chain roles.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

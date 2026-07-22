@@ -1,60 +1,95 @@
-# Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel（Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel）职业分析 · 美国
+# Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel — career analysis · United States
 
-**职业代码：41-3091 – Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel。**
+**Occupation code: 41-3091 (SOC)**
 
-Sell services to individuals or businesses, describe options, and resolve client problems. Typically achieve sales targets through phone or face-to-face communication.
+Sell various services (e.g., IT, cleaning, consulting) to individuals or businesses, describe options and solve customer problems. Usually achieve sales targets via phone or face-to-face communication.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院年均学费） |
-| 学士学位 | 4年 | $40,000~$150,000（公立大学年均学费约1万-3.5万美元） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| Associate degree | 2 years | $10,000~$30,000 (Average annual tuition at community college) |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Average annual tuition at public universities is about $10,000-$35,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | N/A | 可选 | 通常只需高中以上学历 |
-| 销售培训证书 | 国家销售协会等 | 可选 | 非强制，但有助于求职 |
-| 州级营业执照 | 州政府 | 可选 | 某些服务类型需专项执照（如保险除外） |
+| No mandatory requirements | N/A | Optional | Usually only requires high school education or above |
+| Sales training certificate | National Sales Association, etc. | Optional | Not mandatory, but helpful for job hunting |
+| State-level business license | State government | Optional | Some service types require specific licenses (e.g., insurance exclusions). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 460,200。美国服务销售代表岗位预计未来十年增长约6%，与平均水平持平。商业服务外包增加推动需求，但自动化工具可能减少部分低端岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 460,200. US sales representative positions are projected to grow about 6% over the next decade, on par with the average. Increased outsourcing of business services drives demand, but automation tools may reduce some low-end positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 含佣金 |
-| 中级（3-7年） | $50,000~$75,000 | 含佣金 |
-| 高级（7年以上） | $75,000~$120,000 | 含佣金，顶尖销售可更高 |
+| Median salary | $69,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Including commission |
+| Mid-level (3–7 years) | $50,000~$75,000 | Including commission |
+| Senior (7+ years) | $75,000~$120,000 | Includes commission; top sales can earn more |
+| average salary | $82,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级销售代表可晋升为高级销售代表、销售主管或区域销售经理。部分转向客户管理或市场营销岗位。积累客户资源后可创业或转至管理层。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
+
+Junior sales representatives can advance to senior sales rep, sales supervisor, or regional sales manager. Some move to account management or marketing. After building client base, may start own business or move to management.
+
+**Tasks most exposed to AI:**
+
+- Use CRM and AI tools to automatically dial calls, screen potential clients, and send standardized follow-up emails
+- Handle common service inquiries, product introductions, and initial needs confirmation via chatbot
+- Use AI to analyze customer historical data, generating personalized sales suggestions and quotation templates.
+- Automates routine contract clause explanation, service level descriptions, and FAQ responses
+- AI-driven sales forecasting and report generation, replacing manual data collation and trend analysis
+
+**Where AI augments the role:**
+
+- AI provides customer behavior insights and real-time recommendations, helping sales reps tailor solutions and increase closing rates
+- Uses Natural Language Processing (NLP) to analyze customer call recordings, identify emotions and purchase intent, and guide communication strategies
+- Automatically records call notes, updates CRM fields, freeing up energy to focus on high-value interactions
+- AI simulates customer roles for sales practice, enhancing salespeople's ability to handle objections and negotiate
+
+**Human moat:**
+
+- Complex needs diagnosis and cross-domain solution integration, requiring understanding of customer business scenarios and pain points
+- Build long-term trust relationships and maintain connections with key decision-makers at senior levels
+- Creative negotiation, flexible pricing decisions, and contract term customization
+- Cross-team coordination (e.g., technical, legal) to deliver complex service solutions
+- Demonstrate emotional intelligence and empathy when handling unexpected client crises and complaints
+
+**Skills to build:**
+
+- Proficiency in operating and configuring mainstream CRM (e.g., Salesforce) and AI sales assistants (e.g., Gong, Clari)
+- Data analysis basics: use Python or BI tools (e.g., Tableau) to analyze sales funnel and customer profiles
+- Customer success and complex project management skills to ensure renewals and expansion sales
+- Short video script creation and social media sales skills, using AI to generate content for customer acquisition
+- Prompt engineering for AI tools, optimizing chatbot scripts and sales email generation quality
+- Cross-cultural communication and remote collaboration skills, for global service sales
+
+**Key growth areas:**
 
 - business services outsourcing
 - digital sales tools
@@ -63,65 +98,64 @@ Sell services to individuals or businesses, describe options, and resolve client
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，销售职位可能不符合专业职务要求，但结合管理职责可申请 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需PERM劳工证，证明无美国人胜任，销售岗位有一定可行性 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明招聘努力，销售岗位成功率中等 |
+| Subclass H-1B (H-1B Specialty Occupation) | Bachelor's degree required; sales positions may not meet professional requirements but combined with management duties can apply |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification to prove no qualified US workers available; some feasibility for sales roles |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate recruitment efforts; sales roles have moderate success rate |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel？**
-- 喜欢与人沟通、具有说服力的人
-- 目标导向、抗压能力强的人
-- 愿意通过提成获得高收入的人
-
-**谁不适合学Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel？**
-- 不善言辞或社交恐惧者
-- 厌恶业绩压力和不确定性收入者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communication and have persuasive skills.
+- Goal-oriented, resilient individuals
+- People willing to earn high income through commissions.
+
+**Who is not suited**
+- People who are not articulate or have social anxiety
+- Those who dislike performance pressure and uncertain income.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for service sales representatives?**
+A: Usually base salary plus commission; base salary approx $30,000-50,000, commission depends on performance, total annual income range $35,000-120,000.
+
+**Q: Can foreign nationals apply for a US green card through a service sales representative position?**
+A: Yes, but employer must demonstrate no qualified US workers via PERM labour certification. The position generally requires complexity; incorporating management duties increases approval likelihood.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for sales representatives of services?**
-答：Typically base salary plus commission. Base salary around $30k-$50k, total income $35k-$120k depending on performance.
-
-**问：Can a foreigner obtain a US green card through a sales representative position?**
-答：Yes, but the employer must go through PERM labor certification. The job should be complex enough, possibly combining management duties to improve chances.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

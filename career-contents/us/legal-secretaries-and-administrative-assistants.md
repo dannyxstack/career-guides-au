@@ -1,62 +1,98 @@
-# Legal Secretaries and Administrative Assistants（Legal Secretaries and Administrative Assistants）职业分析 · 美国
+# Legal Secretaries and Administrative Assistants — career analysis · United States
 
-**职业代码：43-6012 – Legal Secretaries and Administrative Assistants。**
+**Occupation code: 43-6012 (SOC)**
 
-Perform secretarial duties in legal settings, using legal terminology, procedures, and documents; prepare legal papers and correspondence such as summonses, complaints, motions, and subpoenas; may assist with legal research.
+Perform secretarial duties in a legal environment, using legal terminology, procedures, and documents; prepare legal documents and correspondence such as subpoenas, pleadings, motions, and summonses; and assist with legal research.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（法律秘书或相关领域） | 2年 | $10,000~$30,000（社区学院或技术学院） |
-| 职业证书（法律行政助理） | 1年 | $5,000~$15,000（职业培训学校） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (Legal Secretary or related field) | 2 years | $10,000~$30,000 (Community college or technical college) |
+| Professional certificate (Legal Administrative Assistant) | 1 year | $5,000~$15,000 (Vocational training school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律行政助理证书 | 国家法律行政助理协会（NALAA） | 可选 | 非强制但提升就业竞争力 |
-| 秘书专业证书 | 国际行政专业人员协会（IAAP） | 可选 | 可选，展示专业技能 |
-| 高中文凭或同等学历 | 各州教育部门 | 必备 | 基本入职要求 |
+| High school diploma or equivalent | State education departments | Required | Basic entry requirements |
+| Legal administrative assistant certificate | National Association of Legal Administrative Assistants (NALAA) | Optional | Not mandatory but enhances employment competitiveness |
+| Secretarial certificate | International Association of Administrative Professionals (IAAP) | Optional | Optional, demonstrates professional skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 162,500。美国法律秘书岗位预计增长较平稳，受法律行业数字化影响，2023-2033年就业增长率约-2%至0%，但大型律所和公司法务部门需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 162,500. US legal secretary jobs expected to grow steadily, impacted by legal industry digitalization, employment growth rate 2023-2033 about -2% to 0%, but demand stable at large law firms and corporate legal departments.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 小型律所或刚入行 |
-| 中级（3-7年） | $45,000~$60,000 | 中型律所或有一定经验 |
-| 高级（7年以上） | $60,000~$80,000 | 大型律所或高级职位 |
+| Median salary | $55,570 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Small law firms or entry-level |
+| Mid-level (3–7 years) | $45,000~$60,000 | Medium-sized law firm or with some experience |
+| Senior (7+ years) | $60,000~$80,000 | Large law firms or senior positions |
+| average salary | $60,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：持平（★★☆☆☆）。** 初级法律秘书可晋升为高级法律秘书或行政助理，进一步可转向法律助理（paralegal）或办公室管理职位，需积累法律知识和沟通技能。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
+
+Junior legal secretaries can advance to senior legal secretary or administrative assistant, and further to paralegal or office management roles, requiring accumulated legal knowledge and communication skills.
+
+**Tasks most exposed to AI:**
+
+- Formatting and auto-proofreading of legal documents (e.g., CM/ECF system and AI proofreading tools)
+- Keyword-based preliminary legal and case law search (e.g., AI legal knowledge base)
+- Scheduling, meeting coordination, and automated email replies (e.g., smart calendar assistant)
+- Auto-fill and generate template documents such as complaints and contracts
+- Legal fee accounting and invoice classification processing (e.g., AI financial software)
+
+**Where AI augments the role:**
+
+- Use AI for case fact sorting and timeline visualization to quickly grasp case context
+- Use AI contract review tools (e.g., Kira Systems) for risk clause identification and compliance checks
+- Rapid Retrieval of Relevant Case Law and Regulatory Updates Using AI Legal Research Platforms (e.g., ROSS)
+- Using natural language processing tools to analyze customer emails and court notices, automatically extracting key dates and requirements
+- Use AI to draft legal memoranda, improving document drafting efficiency
+
+**Human moat:**
+
+- Deep understanding of lawyers' work habits and case priorities to provide personalized assistant services
+- Face-to-face client communication, emotional support, and relationship maintenance (trust building)
+- Real-time support for court hearings, client meetings requiring on-spot adaptability and legal knowledge
+- Legal professional judgment: fact-check and logical correction based on AI output
+- Tacit knowledge of law firm internal processes, court-specific rules, and local legal customs
+
+**Skills to build:**
+
+- Use AI legal research tools (e.g., Westlaw Edge, Lexis+ AI) for efficient searching
+- Basic operation of eDiscovery platforms (e.g., Relativity, Everlaw)
+- Basic Data Visualization Skills for creating case timelines and evidence charts
+- Application of legal document automation tools (e.g., HotDocs, Contract Express)
+- Cross-departmental coordination and project management skills (working with lawyers, clients, and courts)
+- Confidentiality and data security awareness to prevent information leaks from AI tools
+
+**Key growth areas:**
 
 - Stable demand
 - Digitalization impact
@@ -65,66 +101,68 @@ Perform secretarial duties in legal settings, using legal terminology, procedure
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 法律秘书通常不符合专业职业要求，H-1B申请困难 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需雇主担保PERM，但学历和经验要求较高，路径不常见 |
-| Subclass L-1（L-1 Intracompany Transferee） | 若在跨国律所工作，可能的内部调动路径 |
+| Subclass H-1B (H-1B Specialty Occupation) | Legal secretaries generally do not meet professional occupation requirements; H-1B application is difficult |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires employer-sponsored PERM, but education and experience requirements are high; this pathway is uncommon |
+| Subclass L-1 (L-1 Intracompany Transferee) | If working in a multinational law firm, possible internal transfer path |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Legal Secretaries and Administrative Assistants？**
-- 注重细节、组织能力强的人
-- 熟悉法律术语和文书工作的人
-- 希望在办公室环境中稳定工作的人
+**Who is suited**
+- Detail-oriented, organized individuals
+- People familiar with legal terminology and paperwork
+- Those who prefer stable work in an office environment
 
-**谁不适合学Legal Secretaries and Administrative Assistants？**
-- 不擅长重复性文书工作的人
-- 追求高薪和快速晋升的人
+**Who is not suited**
+- People who are not good at repetitive paperwork
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a legal secretary?**
+A: Junior approx. $32,000-45,000 USD, intermediate $45,000-60,000, senior $60,000-80,000, depending on experience, firm size, and location.
+
+**Q: Can a legal secretary immigrate to the US on an H-1B visa?**
+A: Difficult. Legal secretaries are generally not considered professional occupations; H-1B requires a bachelor's degree and the position to be professional, which is mostly not met. Consider other categories or internal transfer.
+
+**Q: What are the career development opportunities for a legal secretary?**
+A: Can advance to senior secretary, office manager, or transition to legal assistant (paralegal), the latter offering higher pay but requiring additional education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 持平（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Legal Secretaries and Administrative Assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for legal secretaries?**
-答：Entry-level approximately $32,000-$45,000, mid-level $45,000-$60,000, senior $60,000-$80,000, depending on experience, firm size, and location.
-
-**问：Can a legal secretary immigrate to the US via H-1B visa?**
-答：Difficult. Legal secretaries are generally not considered specialty occupations; H-1B requires a bachelor's degree and specialized knowledge, which is rarely met. Consider other categories or intra-company transfer.
-
-**问：What are career advancement opportunities for legal secretaries?**
-答：Can advance to senior secretary, office manager, or transition to paralegal, which offers higher salary and requires additional education.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

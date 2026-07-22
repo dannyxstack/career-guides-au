@@ -1,59 +1,95 @@
-# Marine Engineers and Naval Architects（Marine Engineers and Naval Architects）职业分析 · 美国
+# Marine Engineers and Naval Architects — career analysis · United States
 
-**职业代码：17-2121 – Marine Engineers and Naval Architects。**
+**Occupation code: 17-2121 (SOC)**
 
-Design, develop, and evaluate the operation of marine vessels, ship machinery, and related equipment, such as power supply and propulsion systems.
+Designs, develops, and evaluates the operation of ships, marine machinery, and related equipment, including power and propulsion systems
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $40,000~$50,000（公立大学年均学费） |
-| 硕士（硕士学位） | 2年 | $30,000~$60,000（取决于公立/私立） |
+| Bachelor's degree | 4 years | $40,000~$50,000 (Average annual tuition at public universities) |
+| Master's (Master degree) | 2 years | $30,000~$60,000 (Depends on public/private.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | ABET认证大学 | 必备 | 海洋工程或造船工程专业 |
-| 专业工程师执照 | 州工程委员会 | 可选 | 需通过FE和PE考试，部分政府职位要求 |
-| 安全培训证书 | 美国海岸警卫队 | 可选 | 如船舶安全培训，非强制但有利 |
+| Bachelor's degree in engineering | ABET-accredited university. | Required | Major in ocean engineering or naval architecture |
+| Professional Engineer License | State engineering board | Optional | Must pass FE and PE exams, some government positions require |
+| Safety training certificate | United States Coast Guard | Optional | e.g., ship safety training, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。美国海洋工程就业前景稳定，受国防和海上能源需求驱动。预计2023-2033年增长约5%，与平均水平持平。沿海地区机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. U.S. marine engineering employment outlook is stable, driven by defense and offshore energy demand. Expected growth of about 5% from 2023-2033, on par with average. More opportunities in coastal areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 起薪取决于学历和地点 |
-| 中级（4-9年） | $90,000~$120,000 | 经验积累后薪资增长 |
-| 高级（10年以上） | $120,000~$160,000 | 高级工程师或管理岗位 |
+| Median salary | $112,230 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$90,000 | Starting salary depends on education and location |
+| Intermediate (4-9 years) | $90,000~$120,000 | Salary increases with experience |
+| Senior (10+ years) | $120,000~$160,000 | Senior engineer or management positions |
+| average salary | $124,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业路径通常从初级工程师或设计师起步，可晋升为高级工程师、项目经理或技术专家。部分转向管理或船舶运营岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Career path usually starts as junior engineer or designer, can advance to senior engineer, project manager, or technical expert. Some transition to management or marine operations roles.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Marine Transportation
 - Offshore Energy
@@ -62,69 +98,68 @@ Design, develop, and evaluate the operation of marine vessels, ship machinery, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于持有学士学位以上的外国工程师，需雇主赞助，配额限制 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 针对高等学位或杰出能力者，需PERM劳工证 |
-| Subclass EB-3（EB-3 Employment-Based Green Card） | 适用于技术工人，需PERM劳工证，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出工程师，需证明国际认可，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common among foreign engineers with a bachelor's degree or higher, requires employer sponsorship, subject to quota limits |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | For advanced degrees or exceptional ability, requires PERM labor certification. |
+| Subclass EB-3 (EB-3 Employment-Based Green Card) | Applicable for skilled workers, requires PERM labor certification, long wait times |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to outstanding engineers, requires internationally recognized achievements, no labor certification needed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marine Engineers and Naval Architects？**
-- 对船舶和海洋技术有热情的人
-- 具备工程分析和解决问题能力的人
-- 愿意在沿海地区或船上工作的人
-
-**谁不适合学Marine Engineers and Naval Architects？**
-- 不喜欢结构化工作环境的人
-- 对海上或恶劣环境不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about maritime and marine technology
+- People with engineering analysis and problem-solving skills
+- People willing to work in coastal areas or on ships
+
+**Who is not suited**
+- People who dislike structured work environments
+- People who are not suited to offshore or harsh environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for marine engineers?**
+A: According to BLS data, 2023 median annual salary about $100,000, entry-level around $70,000, experienced up to $160,000.
+
+**Q: How can marine engineers immigrate to the US through work visas?**
+A: Common path is to work on an H-1B visa, then employer sponsors an EB-2 or EB-3 green card. Requires a bachelor's degree and finding a sponsoring employer.
+
+**Q: What is the career development outlook for marine engineers?**
+A: Can progress from design roles to project manager, technical director, or transition into ship operations management. With experience, you can also start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Marine Engineers and Naval Architects的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for marine engineers?**
-答：According to BLS, the median annual wage in 2023 was about $100,000, with entry-level around $70,000 and experienced up to $160,000.
-
-**问：How can marine engineers immigrate to the US via work visa?**
-答：Common path is through H-1B visa, then employer-sponsored EB-2 or EB-3 green card. Requires a bachelor's degree and employer sponsorship.
-
-**问：What are the career prospects for marine engineers?**
-答：Can advance from design roles to project manager, technical director, or ship operations management. Experienced engineers may start their own firms.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

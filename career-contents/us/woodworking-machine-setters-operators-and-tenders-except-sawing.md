@@ -1,60 +1,93 @@
-# Woodworking Machine Setters, Operators, and Tenders, Except Sawing（Woodworking Machine Setters, Operators, and Tenders, Except Sawing）职业分析 · 美国
+# Woodworking Machine Setters, Operators, and Tenders, Except Sawing — career analysis · United States
 
-**职业代码：51-7042 – Woodworking Machine Setters, Operators, and Tenders, Except Sawing。**
+**Occupation code: 51-7042 (SOC)**
 
-Set up, operate, or tend woodworking machines such as drill presses, lathes, shapers, routers, sanders, and CNC equipment. Emphasizes safety, precision, and basic maintenance.
+Operate woodworking machinery such as drill presses, lathes, shapers, sanders, etc., including CNC equipment, for wood processing. Must pay attention to safety procedures and machine maintenance.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费，但需完成学业） |
-| 在职培训（学徒期） | 1年 | —（通常带薪培训） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free but require completing coursework) |
+| On-the-job training (apprenticeship period) | 1 year | $0~$0 (Typically paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 所属州教育部门 | 必备 | 大多数雇主要求 |
-| 职业资格证书（可选） | 国家木工协会等 | 可选 | 如认证木工（Certified Woodworker）可提升竞争力 |
+| High school diploma or equivalent | State Department of Education | Required | Required by most employers |
+| Professional qualification (optional) | National Association of Home Builders, etc. | Optional | For example, Certified Woodworker can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 64,800。美国木工机械操作工岗位预计保持稳定，年均约700个空缺。建筑和家具制造需求支撑就业，但自动化可能影响增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 64,800. US woodworking machine operator positions are expected to remain stable, with about 700 annual openings. Construction and furniture manufacturing demand supports employment, but automation may affect growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级岗位 |
-| 中级（3-7年） | $35,000~$42,000 | 有经验操作工 |
-| 高级（7年以上） | $42,000~$52,000 | 资深操作工或主管 |
+| Median salary | $43,380 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level roles |
+| Mid-level (3–7 years) | $35,000~$42,000 | Experienced machine operator |
+| Senior (7+ years) | $42,000~$52,000 | Senior operator or supervisor |
+| average salary | $43,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作工可晋升为高级操作工或主管，学习CNC编程后可转向数控操作或编程岗位，进一步可成为车间经理或质量控制专家。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
+
+Entry-level operators can advance to senior operators or supervisors; learning CNC programming can lead to CNC operator or programmer roles, further to shop manager or quality control specialist.
+
+**Tasks most exposed to AI:**
+
+- AI automatically adjusts cutting parameters and paths, reducing manual setup.
+- Machine vision automatically detects wood defects, replacing manual visual inspection.
+- AI optimizes layout and cutting plans, reducing manual planning
+- Automatic tool changing and loading systems, replacing repetitive operations.
+
+**Where AI augments the role:**
+
+- AI-assisted generation of CNC machining programs to reduce programming time
+- Real-time monitoring of tool wear with alerts, improving machining quality and lifespan
+- AI simulates machining processes to optimise cutting parameters and reduce waste
+- Predictive maintenance analysis to reduce downtime
+
+**Human moat:**
+
+- Process non-standard wood components or complex custom machining
+- On-site debugging and troubleshooting of sudden mechanical failures
+- Experienced judgment of wood texture and performance
+- Implementation of safety procedures and emergency response
+
+**Skills to build:**
+
+- CNC programming and operation (e.g., G-code)
+- Computer-aided manufacturing (CAM) software
+- Basic Python or scripting language
+- Mechanical maintenance and fault diagnosis
+- Quality inspection and data analysis
+- Digital twin and simulation software
+
+**Key growth areas:**
 
 - Precision machining
 - CNC woodworking
@@ -63,61 +96,63 @@ Set up, operate, or tend woodworking machines such as drill presses, lathes, sha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Worker） | 季节性临时工作签证，但需雇主担保且配额有限 |
+| Subclass H-2B (Temporary Non-Agricultural Worker) | Seasonal temporary work visa, but requires employer sponsorship and has limited quotas. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Woodworking Machine Setters, Operators, and Tenders, Except Sawing？**
-- 喜欢动手操作机械、注重安全的人
-- 愿意从事重复性体力工作的人
-- 希望在制造业或建筑行业稳定就业的人
+**Who is suited**
+- People who enjoy hands-on work with machinery and prioritize safety
+- People willing to engage in repetitive physical work.
+- Those seeking stable employment in manufacturing or construction industries.
 
-**谁不适合学Woodworking Machine Setters, Operators, and Tenders, Except Sawing？**
-- 讨厌噪音、粉尘和体力劳动的人
-- 寻求高薪资或快速晋升机会的人
+**Who is not suited**
+- People who dislike noise, dust, and physical labor
+- Those seeking high salary or fast promotion opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for a woodworking machine operator in the US?**
+A: Junior approx. $28,000-$35,000, mid-level $35,000-$42,000, senior $42,000-$52,000.
+
+**Q: Can this occupation immigrate to the US through skilled migration?**
+A: Almost impossible; this occupation is not among common H-1B or employment green card positions, and only H-2B temporary work visa is possible, but quotas are extremely limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Woodworking Machine Setters, Operators, and Tenders, Except Sawing属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for woodworking machine operators in the US?**
-答：Entry-level $28k-$35k, mid-level $35k-$42k, senior $42k-$52k annually.
-
-**问：Can this occupation lead to US immigration?**
-答：Very difficult; not eligible for H-1B or employment-based green cards. Only possible via H-2B temporary visa with limited quotas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Thermal and Sound Insulation Installer（Thermal and Sound Insulation Installer）职业分析 · ES
+# Thermal and Sound Insulation Installer — career analysis · Spain
 
-**职业代码：7292 – Thermal and Sound Insulation Installer。**
+**Occupation code: 7292 (CNO)**
 
-Installs thermal, sound, and moisture insulation materials in buildings or industrial equipment to improve energy efficiency and reduce noise.
+Responsible for installing insulation, soundproofing, and moisture-proof materials in buildings or industrial equipment to improve energy efficiency and reduce noise.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$3,000（公立FP每年约500-1000欧元，私立3000欧元左右） |
-| 高级职业教育（FP Grado Superior） | 2年 | $500~$4,000（公立FP每年约500-1000欧元，私立4000欧元左右） |
-| 学徒制（Formación Profesional Dual） | 2-3年 | —（企业培训与学校结合，通常免学费且有津贴） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$3,000 (Public FPs pay about 500-1000 euros per year, private schools around 3000 euros) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $500~$4,000 (Public FPs pay about 500-1000 euros per year, private schools around 4000 euros) |
+| Apprenticeship (Formación Profesional Dual) | 2-3 years | $0~$1,000 (Corporate training is combined with schools, usually tuition-free and with subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业教育文凭（Técnico en Instalaciones de Producción de Calor） | 西班牙教育部 | 可选 | 相关专业学历，非强制但显著提升就业机会 |
-| 高空作业安全认证 | 西班牙劳动与社会经济部认可的培训机构 | 必备 | 安装工作常需高空作业，强制性安全培训 |
-| 职业资格认证（Certificado de Profesionalidad） | 西班牙就业服务局（SEPE） | 可选 | 特定模块如'Aislamiento térmico y acústico'可替代学历 |
+| Certification for working at heights | A training institution recognized by the Spanish Ministry of Labor and Social Economy | Required | Installation often requires high-altitude work and mandatory safety training |
+| Diploma in Secondary Vocational Education (Técnico en Instalaciones de Producción de Calor) | Spanish Ministry of Education | Optional | Relevant academic qualifications, not mandatory but significantly improve employment opportunities |
+| Professional Qualification Certification (Certificado de Profesionalidad) | Spanish Employment Service (SEPE) | Optional | Specific modules such as 'Aislamiento térmico y acústico' can substitute for academic qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,000。西班牙建筑行业回暖及节能改造需求推动该职业稳步增长，尤其在老旧建筑翻新项目中岗位需求持续上升。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 8,000. The recovery of Spain's construction industry and demand for energy-saving renovations are driving steady growth in this profession, especially with rising demand for positions in old building renovation projects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含资深技师或主管 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including senior technicians or supervisors |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级安装工晋升为高级技师、工地主管或自营承包商，部分人通过进修进入能源审计或建筑技术管理领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on thermal and acoustic material installers is mixed: automation will simplify measurement and material cutting, but the complex on-site installation environment still relies on human judgment and manual skill, and large-scale replacement will not be achieved in the short term.
+
+Junior installers can be promoted to senior technicians, site supervisors, or self-operated contractors; some enter the fields of energy auditing or building technical management through further education.
+
+**Tasks most exposed to AI:**
+
+- Generate material cut lists using laser rangefinders and AI planning software
+- Construction progress and material consumption are recorded via voice assistants or mobile apps
+- Use AI image recognition to check for warping or damage in materials
+- Automatically generates standardized installation plans that meet energy efficiency standards
+
+**Where AI augments the role:**
+
+- AR glasses overlay displays of pipe or keel positions to improve positioning accuracy
+- AI algorithms recommend the optimal material mix (e.g., balancing insulation and cost)
+- Drones or robots assist in drilling and scanning high-altitude areas
+- Real-time environmental sensor data feedback adjusts installation density
+
+**Human moat:**
+
+- On-site measurement and cutting of complex surfaces or irregular spaces
+- Manual detection and avoidance of hidden pipelines in old buildings
+- Intuitive experience of material expansion and contraction under different climates
+- Communicate needs with owners and designers and resolve on-site conflicts
+- Voluntary implementation of safety procedures (such as fall prevention and dust protection).
+
+**Skills to build:**
+
+- Interpreting the building model using BIM software
+- Operate laser rangefinders and digital levels
+- Basic Python scripts are used to automatically generate material reports
+- Construction site applications of AR devices (such as Microsoft HoloLens).
+- Energy efficiency calculations and green building standards
+- Basic control of safety inspection drones
+
+**Key growth areas:**
 
 - Energy efficiency
 - Building renovation
@@ -63,68 +97,67 @@ Installs thermal, sound, and moisture insulation materials in buildings or indus
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙公司工作合同，劳工部审核，需证明该职位无法在本地或欧盟内填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适用于年工资超过约40,000欧元的高技能岗位，该职业通常达不到要求。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留12个月寻找工作，适合已有相关技能或学历的求职者。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract with a Spanish company must be obtained, reviewed by the Ministry of Labor, and proof that the position cannot be filled locally or within the EU. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | This applies to high-skilled positions with annual salaries exceeding about 40,000 euros, which typically do not meet the requirements. |
+| Subclass Búsqueda de empleo (Job Search Visa) | Allows for a 12-month stay in Spain to look for work, suitable for job seekers who already have relevant skills or education. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Thermal and Sound Insulation Installer？**
-- 喜欢动手操作和户外工作的人士
-- 注重细节、有安全意识的人
-- 希望进入建筑行业且接受职业教育路径的人
-
-**谁不适合学Thermal and Sound Insulation Installer？**
-- 不喜体力劳动或高空作业者
-- 偏好办公室或低风险环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on activities and outdoor work
+- Detail-oriented and safety-conscious individuals
+- Those who wish to enter the construction industry and pursue a career education path
+
+**Who is not suited**
+- Those who dislike manual labor or working at heights
+- People who prefer offices or low-risk environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for thermal and soundproof installers in Spain?**
+A: Junior approximately €18,000-22,000/year, mid-senior up to €28,000-35,000/year, depending on experience and location.
+
+**Q: How can third-country citizens immigrate to Spain through this employment?**
+A: The most common way is to obtain a work contract (Cuenta ajena) from a Spanish company, which requires proving that the position is difficult to find locals. You can also try a job-seeking visa (Búsqueda de empleo).
+
+**Q: What certifications are needed to work in this occupation?**
+A: Although academic qualifications are not mandatory, holding an FP-related diploma or a Certificado de Profesionalidad can greatly increase employment opportunities. High-altitude work safety certification is a statutory requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Thermal and Sound Insulation Installer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for thermal and sound insulation installers in Spain?**
-答：Entry-level approx. €18,000-22,000/year, experienced up to €28,000-35,000/year, depending on experience and region.
-
-**问：How can third-country nationals immigrate to Spain through this occupation?**
-答：The most common route is obtaining a job contract from a Spanish company (Cuenta ajena), proving the position is hard to fill locally. A job search visa (Búsqueda de empleo) is also possible.
-
-**问：What certifications are required for this occupation?**
-答：While a degree is not mandatory, holding an FP diploma or Certificado de Profesionalidad significantly improves job prospects. Aerial work safety certification is legally required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

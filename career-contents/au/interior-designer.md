@@ -1,162 +1,187 @@
-# 室内设计师（Interior Designer）职业分析 · 澳大利亚
+# Interior Designer — career analysis · Australia
 
-**职业代码：232511 – Interior Designer。**
+**Occupation code: 232511 (ANZSCO)**
 
-室内设计师为住宅、商业和酒店空间规划功能布局和美学设计，协调建材、家具和照明采购与施工监管。澳洲建筑与装修市场持续活跃（大量新楼盘+老房翻新潮）推动对室内设计师的稳定需求。有3D可视化技能（SketchUp/Revit/3ds Max）和工程图纸能力的设计师竞争力更强。
+Interior designers plan functional layouts and aesthetic designs for residential, commercial and hospitality spaces, coordinating procurement of materials, furniture and lighting as well as overseeing construction. Australia's construction and renovation market remains consistently active — driven by new developments and a growing home renovation trend — sustaining steady demand for interior designers. Designers with 3D visualisation skills (SketchUp/Revit/3ds Max) and technical drawing capabilities are significantly more competitive.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Interior Design / Interior Architecture（3年） | 3年（全日制） | $20,000~$110,000（澳洲主流资质路径；国际生约 $25,000~$35,000/年） |
-| Diploma of Interior Design and Decoration（TAFE，1~2年） | 1~2年 | $5,000~$25,000（住宅装饰设计文凭，注重实操和材料知识） |
-| 3D设计软件技能（SketchUp/AutoCAD/Revit/3ds Max） | 3~12个月 | $300~$3,000（商业室内设计公司的实际技能要求） |
-| Decorex / Design Institute of Australia（DIA）认证 | 申请制 | $500~$2,000（澳洲室内设计师协会认证，提升专业信誉） |
+| Bachelor of Interior Design / Interior Architecture (3 years) | 3 years (full-time) | $20,000~$110,000 (The mainstream qualification pathway in Australia; approximately $25,000–$35,000/year for international students) |
+| Diploma of Interior Design and Decoration (TAFE, 1–2 years) | 1–2 years | $5,000~$25,000 (Diploma in residential decorating design, with a focus on practical skills and materials knowledge) |
+| 3D design software skills (SketchUp/AutoCAD/Revit/3ds Max) | 3–12 months | $300~$3,000 (Practical skills required in commercial interior design firms) |
+| Decorex / Design Institute of Australia (DIA) certification | Application-based | $500~$2,000 (Membership with the Design Institute of Australia, enhancing professional credibility) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Design Institute of Australia (DIA) 会员 | Design Institute of Australia | 可选 | 澳洲室内设计专业协会会员，提升专业信誉 |
-| Interior Decoration Certificate（DIA认证） | DIA | 可选 | 住宅室内装饰设计的专业认证 |
-| 建筑绘图技能（AutoCAD/Revit） | 行业技能要求 | 可选 | 商业室内设计项目的实际技能要求 |
+| Design Institute of Australia (DIA) membership | Design Institute of Australia | Optional | Member of the Design Institute of Australia, enhancing professional credibility |
+| Interior Decoration Certificate (DIA accredited) | DIA | Optional | Professional certifications for residential interior decoration design |
+| Architectural drafting skills (AutoCAD/Revit) | Industry skills requirements | Optional | Practical skills required for commercial interior design projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 20,000。JSA预测室内设计师就业至2030年基本稳定。商业空间重设计（COVID后办公室重整）和可持续绿色室内设计方向增长最快；建材和工程成本上涨影响新建项目数量。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 20,000. JSA projects relatively stable employment for interior designers through to 2030. The fastest-growing areas are commercial space redesign (post-COVID office transformations) and sustainable green interior design; rising material and construction costs are affecting the volume of new-build projects.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~800 个 | 全国，含室内设计师/家居设计顾问/空间设计师岗 |
-| Indeed | 200~600 个 | 含设计公司、建材零售和家具品牌岗 |
-| LinkedIn | 300~800 个 | 商业室内设计公司和建筑事务所直招 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级室内设计师（0~2年） | $52,000~$68,000 | 毕业设计师助理起薪 |
-| 中级室内设计师（2~8年） | $72,000~$97,000 | SEEK 区间 $80k~$95k；Indeed 均值 $93,437；Glassdoor 均值 $73,488（2026） |
-| 高级室内设计师（8~15年） | $95,000~$130,000 | SalaryExpert 资深室内设计师均值 $99,299；悉尼资深设计师约 $95,000 |
-| 室内设计总监 / 独立工作室（12年+） | $120,000~$250,000 | 独立设计工作室或大型商业项目设计总监，含项目提成 |
+| Median salary | $87,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Interior Designer (0–2 years) | $52,000~$68,000 | Graduate designer/assistant starting salary |
+| Mid-level interior designer (2–8 years) | $72,000~$97,000 | SEEK range $80k–$95k; Indeed average $93,437; Glassdoor average $73,488 (2026) |
+| Senior Interior Designer (8–15 years) | $95,000~$130,000 | SalaryExpert: Senior Interior Designer average $99,299; Sydney senior designer approximately $95,000 |
+| Interior Design Director / Independent Studio (12+ years) | $120,000~$250,000 | Design director at an independent design studio or large commercial project, including project-based commission |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲住宅翻新市场（Renovation Market）持续火热，HomeBuilder补贴政策推高需求高峰后市场趋于正常化。商业室内设计（WeWork模式崩溃后企业自建高质量办公室）有新需求。虚拟室内设计咨询（Zoom/3D软件）让设计师服务范围超越本地市场。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
 
-- 住宅室内设计（建筑市场高峰后的翻新潮）
-- 商业室内设计（后疫情办公空间重设计）
-- 酒店和零售空间设计
-- 可持续室内设计（绿色建筑）
-- 虚拟室内设计咨询（远程服务）
+Australia's residential renovation market continues to be strong, with demand normalising after the HomeBuilder grant stimulus peak. Commercial interior design has new demand (companies building high-quality offices following the collapse of the WeWork model). Virtual interior design consulting (Zoom/3D software) allows designers to serve clients beyond their local market.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
+
+- Residential Interior Design (Post-Boom Renovation Wave)
+- Commercial Interior Design (Post-pandemic Office Redesign)
+- Hotel & Retail Space Design
+- Sustainable Interior Design (Green Building)
+- Virtual Interior Design Consulting (Remote)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，建筑设计公司和室内设计公司可担保 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要VETASSESS技能评估 |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; architectural design and interior design firms can sponsor |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学室内设计师？**
-- 持有室内设计/室内建筑学位，有商业或住宅设计项目作品集
-- 掌握3D设计软件（SketchUp/AutoCAD/Revit）和效果图制作
-- 有施工图绘制能力和建材/家具知识
-- 英语沟通能力强（与客户、建筑师、承包商的协调是核心工作）
-- 有意向在建筑事务所或室内设计公司（或独立开设工作室）发展
-
-**谁不适合学室内设计师？**
-- 仅有家居装饰（软装）经验，无施工图和空间规划能力
-- 不擅长客户沟通和项目协调（室内设计50%是设计，50%是项目管理）
-- 期望通过室内设计快速获得技术移民（非短缺职业，移民难度较高）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds an interior design / interior architecture degree with a portfolio of commercial or residential design projects
+- Proficiency in 3D design software (SketchUp/AutoCAD/Revit) and rendering
+- Has construction drawing skills and knowledge of building materials/furniture.
+- Strong English communication skills (coordination with clients, architects and contractors is central to the role)
+- Interested in building a career at an architectural or interior design firm, or in establishing an independent studio
+
+**Who is not suited**
+- Only has home décor (soft furnishing) experience; lacks construction drawing and space planning skills
+- Weak client communication and project coordination skills (interior design is 50% design and 50% project management)
+- Seeking skilled migration through interior design (not a shortage occupation; migration pathway is more difficult)
+
+---
+
+## 8. FAQ
+
+**Q: How much do interior designers earn in Australia?**
+A: Mid-level interior designer approximately $72,000–$97,000 (SEEK $80k–$95k; Indeed $93,437; Glassdoor $73,488; SalaryExpert $99,299); senior designer approximately $95k–$130k; design director/independent studio approximately $120k–$250k.
+
+**Q: Is it easy for interior designers to find work in Australia?**
+A: Moderate difficulty. Demand is strong when the fit-out and renovation market is active, with around 300–800 positions listed on SEEK. Experienced designers with commercial project backgrounds (offices/retail/hospitality) enjoy stable demand, while competition for junior roles is more intense.
+
+**Q: Is overseas interior design experience recognised in Australia?**
+A: VETASSESS skills assessment accepts interior design bachelor degrees and work experience from overseas. A portfolio of commercial projects (concept designs, construction drawings, and on-site photos) is required. The Australian market places greater emphasis on spatial functionality and sustainability, so it is advisable to build knowledge of local building materials and Australian construction regulations.
+
+**Q: Will interior designers be replaced by AI?**
+A: AI rendering tools (Midjourney, Adobe Firefly) are transforming design visualisation workflows, but spatial planning decisions, material selection, construction coordination and client relationship management still require professional designers. Moving towards high-end residential design and commercial spatial strategy is an effective way to maintain a competitive edge.
+
+**Q: Is there an age limit for interior designers in Australia?**
+A: None. Experienced designers (aged 40–55) with a strong portfolio in high-end residential or commercial projects and an established client network are highly competitive in the market. Interior design is a career heavily driven by reputation and client relationships — the more experienced you are, the more valuable you become.
+
+**Q: What qualifications do interior designers need in Australia?**
+A: Large commercial design firms typically require a bachelor's degree in interior design/interior architecture; the residential decoration design market allows entry with a TAFE diploma plus a strong portfolio. DIA membership (Design Institute of Australia) enhances professional credibility.
+
+**Q: Is it difficult to become a certified interior designer in Australia as an immigrant?**
+A: Not on the MLTSSL; migration difficulty is moderate to high. Employer-sponsored 482 visa is a viable pathway, as architecture and interior design firms are capable of sponsoring. It is recommended to first enrol in an interior design or architecture-related course on a student visa, build local project experience in Australia, and then apply for sponsorship.
+
+**Q: Which offers better career prospects in Australia — interior design or architecture?**
+A: Architects have higher salaries ($90k-$150k+), but strict licensing requirements (ARB registration, 5-7 years of professional training); interior designers have lower entry barriers and a more flexible market (can operate independent studios). Those with architecture background are strongly recommended to obtain ARB registration as an architect; those with design talent but reluctant to study long term should choose interior design.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 室内设计师薪资 $80k~$95k（2026） |
-| Indeed AU | 室内设计师平均薪资 $93,437（2026） |
-| Glassdoor AU | 室内设计师平均薪资 $73,488（2026） |
-| SalaryExpert AU | 室内设计师平均薪资 $99,299（2026） |
-| Bespoke Careers Sydney | 悉尼室内设计师均值 $95,000（2026） |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-室内设计师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲室内设计师工资多少？**
-答：中级室内设计师约 $72,000~$97,000（SEEK $80k~$95k；Indeed $93,437；Glassdoor $73,488；SalaryExpert $99,299）；高级设计师约 $95k~$130k；设计总监/独立工作室约 $120k~$250k。
-
-**问：澳洲室内设计师容易找工作吗？**
-答：中等难度。建筑装修市场活跃时需求旺盛，SEEK 挂牌约300~800个职位。有商业项目经验（办公室/零售/酒店）的资深设计师需求稳定，初级职位竞争较激烈。
-
-**问：中国室内设计经验澳洲认可吗？**
-答：通过VETASSESS技能评估，中国室内设计本科学历和工作经验可以认可。需要提供商业项目作品集（方案设计+施工图+实景照片）。澳洲市场更注重空间功能性和可持续性，建议补充澳洲本地建材市场和建筑法规知识。
-
-**问：室内设计师会被AI替代吗？**
-答：AI效果图工具（Midjourney、Adobe Firefly）正在改变设计可视化流程，但空间规划决策、建材选型、施工协调和客户关系管理仍需专业设计师。向高端住宅设计和商业空间策略方向发展可有效保持竞争优势。
-
-**问：澳洲室内设计师有年龄限制吗？**
-答：无。有丰富高端住宅或商业项目经验和客户网络的资深设计师（40~55岁）在市场上非常有竞争力。室内设计是高度依赖口碑和客户关系的职业，资历越深越有价值。
-
-**问：澳洲室内设计师需要什么学历？**
-答：大型商业设计公司通常要求室内设计/室内建筑本科学历；住宅装饰设计市场可以凭TAFE文凭+强作品集入行。DIA会员资格（设计澳洲协会）提升专业信誉。
-
-**问：澳洲室内设计师认证（移民）难吗？**
-答：不在MLTSSL，移民难度中等偏高。雇主担保482是可行路径，建筑/室内设计公司有担保能力。建议先通过学生签证就读室内设计或建筑相关课程，积累澳洲本地项目经验后申请担保。
-
-**问：室内设计师和建筑师哪个澳洲发展更好？**
-答：建筑师薪资更高（$90k~$150k+），但注册要求严格（ARB注册，需要5~7年专业培训）；室内设计师入行门槛相对较低，市场更灵活（可以独立开工作室）。有建筑学背景者强烈推荐获得ARB注册成为建筑师；有设计天赋但不想长期读书者选室内设计。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

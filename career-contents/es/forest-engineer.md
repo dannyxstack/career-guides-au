@@ -1,59 +1,94 @@
-# Forest Engineer（Forest Engineer）职业分析 · ES
+# Forest Engineer — career analysis · Spain
 
-**职业代码：2423 – Forest Engineer。**
+**Occupation code: 2423 (CNO)**
 
-Forest engineers plan, manage, and protect forest resources, including ecology, timber production, fire prevention, and sustainable development.
+Forestry engineers are responsible for planning, managing, and protecting forest resources, including forest ecology, timber production, fire prevention, and sustainable development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado en Ingeniería Forestal） | 4年 | $800~$2,000（公立大学学费） |
-| 硕士（Máster en Ingeniería de Montes） | 1-2年 | $1,000~$3,000（部分大学费用更高） |
+| Family (Grado en Ingeniería Forestal) | 4 years | $800~$2,000 (Public university tuition) |
+| Master's degree (Máster en Ingeniería de Montes) | 1-2 years | $1,000~$3,000 (Some universities charge higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业工程师学位（Grado/Máster） | 西班牙大学 | 必备 | 需完成官方学位 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
-| COIM（林业工程师协会注册） | Colegio de Ingenieros de Montes | 可选 | 部分岗位要求 |
+| Forestry Engineer Degree (Grado/Máster) | Spanish University | Required | An official degree is required |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
+| COIM (registered with the Forestry Engineers Association) | Colegio de Ingenieros de Montes | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 3,500。西班牙林业受气候变化和野火风险影响，政府投资森林恢复和防火，就业稳定但增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Spain's forestry sector is affected by climate change and wildfire risks. The government invests in forest restoration and fire prevention, resulting in stable but slow employment growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$50,000 | 税前年薪，项目经理或管理岗 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$50,000 | Pre-tax annual salary, project manager or management position |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升至林业项目经理、自然保护区主任，或转向环境咨询、水资源管理领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of forestry engineers is polarized: fieldwork and complex ecological decision-making are limited to AI, but tasks such as data monitoring, statistical modeling, and documentation can be efficiently replaced by AI, leading to a reduction in some mid- and low-end positions while significantly improving efficiency for high-end positions.
+
+Promotion can be to forestry project manager, nature reserve director, or transition to environmental consulting or water resource management.
+
+**Tasks most exposed to AI:**
+
+- Forest resource inventory and growth estimation are conducted using satellite imagery and drone data
+- Automatically generates standardized documents such as forest management plans and logging plans
+- Fire risk prediction models based on historical data replace some manual assessments
+- Routine timber volume calculation and stand density measurement
+- Data aggregation from environmental monitoring sensors and automatic generation of anomaly reports
+
+**Where AI augments the role:**
+
+- AI-assisted 3D LiDAR and hyperspectral image analysis improve the accuracy of forest structure assessment
+- Machine learning algorithms optimize tree species classification and early detection of pests and diseases
+- Digital twin technology supports forest scenario simulation and ecosystem service valuation
+- Natural language processing helps review research literature and compare policy documents
+- AI-driven decision support systems enhance sustainable operations and biodiversity conservation programs
+
+**Human moat:**
+
+- On-site emergency command and decision-making under complex terrain and extreme weather
+- Coordination and conflict resolution among stakeholders (communities, governments, forestry companies).
+- Ecological ethics and legal compliance assessments, such as adjustments to the boundaries of nature reserves
+- Multi-factor integrated intuition based on long-term experience, such as predicting fire spread paths
+
+**Skills to build:**
+
+- Advanced analysis of remote sensing and geographic information systems (GIS).
+- Python/R programming and machine learning basics (especially environmental data analysis)
+- Drone operation and image processing
+- Application of digital forestry tools (such as LiDAR and AI Smart Wood platforms).
+- Project management and interdisciplinary team collaboration
+- Capabilities related to carbon sink measurement and carbon trading
+
+**Key growth areas:**
 
 - Sustainable forestry
 - Wildfire prevention
@@ -62,68 +97,67 @@ Forest engineers plan, manage, and protect forest resources, including ecology, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能人才，需工作合同且薪资达到门槛 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适用于大学学历及专业经验，快速通道 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 常规受雇工作居留，需雇主担保 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled talent, a work contract and salary must meet the threshold |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for university degrees and professional experience, fast track |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment residency requires employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forest Engineer？**
-- 热爱自然环境，对林业生态有热情
-- 具备工程规划与项目管理能力
-- 适应户外工作和出差
-
-**谁不适合学Forest Engineer？**
-- 不喜欢户外或偏远地区工作
-- 对行政和报告工作缺乏耐心
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the natural environment and passionate about forestry ecology
+- Possess engineering planning and project management capabilities
+- Adapted to outdoor work and business trips
+
+**Who is not suited**
+- Dislike working outdoors or in remote areas
+- Lack of patience with administrative and reporting work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for forestry engineers in Spain?**
+A: Entry-level salaries are about 22,000-28,000 euros per year, while seniors can earn up to 50,000 euros per year, with little difference between the public sector and private sector.
+
+**Q: How can non-EU individuals become forestry engineers in Spain?**
+A: Foreign academic qualifications must be Homologación certified, followed by an EU Blue Card or work residence application, which requires a work contract.
+
+**Q: What are the development directions for forestry engineers?**
+A: You can join environmental consulting companies, government forestry departments, or be promoted to project manager or nature reserve supervisor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forest Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for forest engineers in Spain?**
-答：Entry-level around €22,000-28,000/year, senior up to €50,000/year, similar between public and private sectors.
-
-**问：How can non-EU nationals become forest engineers in Spain?**
-答：Foreign degrees must undergo Homologación, then apply for EU Blue Card or work permit with a job offer.
-
-**问：What are the career paths for forest engineers?**
-答：Can work in environmental consulting, government forestry agencies, or advance to project manager or nature reserve director.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

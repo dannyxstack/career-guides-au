@@ -1,60 +1,93 @@
-# Metal Moulder and Coremaker（Metal Moulder and Coremaker）职业分析 · IT
+# Metal Moulder and Coremaker — career analysis · Italy
 
-**职业代码：7211 – Metal Moulder and Coremaker。**
+**Occupation code: 7211 (ISCO08)**
 
-Operate foundry equipment to produce sand molds, cores, and metal castings for automotive, machinery, and other industries.
+Operate casting equipment to produce sand molds, cores, and metal castings for industries such as automotive and machinery.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 | 3年（职业高中） | —（公立学校免学费，仅需杂费） |
-| 学徒制 | 3-4年 | —（学徒期间有工资，培训费用低） |
+| Vocational education | 3 years (vocational high school) | $0~$1,000 (Public schools are tuition-free, only miscellaneous fees required) |
+| Apprenticeship | 3-4 years | $0~$500 (Wages during apprenticeship, low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 铸造工职业资格证书 | 意大利劳动与社会政策部 | 可选 | 通过地区考试获得，部分企业要求 |
-| 安全培训证书 | 地区卫生局 | 必备 | 必须完成铸造安全培训 |
+| Safety training certificate | Regional health authority | Required | Must complete casting safety training. |
+| Foundry worker vocational qualification certificate | Italian Ministry of Labor and Social Policies | Optional | Obtained through regional exams, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。意大利传统制造业中铸造业需求稳定，但受自动化影响，岗位增速平缓，预计未来五年稍有下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. In Italy's traditional manufacturing sector, foundry demand is stable but affected by automation, with slow job growth, expected to decline slightly over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（4-8年） | $28,000~$34,000 | 税前年薪，含加班费 |
-| 高级（9年以上） | $35,000~$42,000 | 税前年薪，含工长津贴 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4–8 years) | $28,000~$34,000 | Annual salary before tax, including overtime pay |
+| Senior (9+ years) | $35,000~$42,000 | Annual pre-tax salary, including foreman allowance. |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从学徒升至熟练铸模工，再晋升为工头或铸造技师，也可转向模具设计或质量控制岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+As traditional manufacturing roles, metal moulders and coremakers face high automation risk in core tasks like moulding, sand mixing, and pouring, with AI-driven simulation and robots accelerating replacement, but complex mould adjustments still rely on human experience.
+
+Can progress from apprentice to skilled molder, then to foreman or foundry technician, or move into mold design or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate 3D printing paths for sand moulds/cores using CAD models
+- AI vision system detects casting defects in real-time and automatically sorts them
+- Robots automatically complete sand mold assembly and pouring operations
+- AI optimizes pouring parameters and adjusts cooling system
+
+**Where AI augments the role:**
+
+- AI simulation software assists in predicting casting shrinkage and porosity locations, guiding process improvements.
+- AR headset displays sand core assembly sequence and position calibration
+- AI-driven quality analysis system generates defect root cause reports
+- The digital twin system monitors the entire casting process in real time and warns of anomalies
+
+**Human moat:**
+
+- Process innovation capability for handling non-standard, small-batch castings
+- Skills in manual repair and fine-tuning of complex sand moulds/cores
+- On-site decision-making ability for multi-variety quick mold changes.
+- Team coordination and safety risk management responsibilities
+
+**Skills to build:**
+
+- Process parameter adjustment for 3D printed sand molds/cores
+- Casting simulation software (Magma, ProCAST) operation and result interpretation
+- Basic maintenance of automated production lines (robots, PLC)
+- Metallurgy and Defect Analysis (metallography, X-ray)
+- Data-driven process optimization (statistical process control)
+- Basic operations and maintenance of digital twin systems
+
+**Key growth areas:**
 
 - Foundry automation
 - Lightweight casting
@@ -63,69 +96,68 @@ Operate foundry equipment to produce sand molds, cores, and metal castings for a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，年薪需达约2.7万欧元（2024标准） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保 |
-| Subclass Nulla Osta（Nulla Osta Work Visa） | 工作许可，需通过劳工市场测试 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, annual salary must be approximately €27,000 (2024 standard) |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship |
+| Subclass Nulla Osta (Nulla Osta Work Visa) | Work permit, subject to labour market test |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Moulder and Coremaker？**
-- 动手能力强，喜欢机械操作
-- 能适应高温、嘈杂工作环境
-- 愿意从事制造业蓝领工作
-
-**谁不适合学Metal Moulder and Coremaker？**
-- 无法忍受高温和体力劳动
-- 对重复性工作感到厌倦
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, enjoys mechanical work
+- Ability to adapt to high-temperature, noisy work environments
+- Willing to engage in blue-collar manufacturing work
+
+**Who is not suited**
+- Cannot tolerate high temperatures and physical labor
+- Tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Italian metal mold makers?**
+A: Entry-level annual income approx. €22,000-€26,000, senior up to €35,000-€42,000, excluding overtime.
+
+**Q: How can non-EU citizens immigrate to Italy through this occupation?**
+A: Available via Decreto Flussi quota work visa or EU Blue Card, requires employer sponsorship and labor market test.
+
+**Q: What is the career progression path for this occupation?**
+A: Can progress from apprentice to skilled worker, foreman, and then to foundry technician or mold design role.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Metal Moulder and Coremaker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metal moulders in Italy?**
-答：Entry-level annual salary is around €22,000-€26,000, senior can reach €35,000-€42,000, excluding overtime.
-
-**问：How can non-EU citizens immigrate through this occupation in Italy?**
-答：Apply via Decreto Flussi quota work visa or EU Blue Card, requiring employer sponsorship and labor market test.
-
-**问：What is the career progression for this occupation?**
-答：From apprentice to skilled moulder, then to foreman or casting technician, and later to mold design.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

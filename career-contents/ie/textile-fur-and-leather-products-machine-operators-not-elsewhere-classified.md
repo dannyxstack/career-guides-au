@@ -1,60 +1,93 @@
-# Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified（Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified）职业分析 · IE
+# Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：8159 – Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified。**
+**Occupation code: 8159 (ISCO08)**
 
-Operate machines for textile, fur, and leather product manufacturing, including cutting, sewing, and finishing, ensuring product quality meets standards.
+Operate textile, fur and leather goods production machines, including cutting, sewing and finishing processes, to ensure product quality meets standards.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式学历 | —（多数岗位在职培训） |
-| 职业培训 | 6个月-1年 | $1,000~$5,000（FETAC证书或学徒制） |
+| High school graduation | No formal education required | $0~$0 (On-the-job training for most positions) |
+| Vocational training | 6 months to 1 year | $1,000~$5,000 (FETAC certificate or apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FETAC Level 5证书 | QQI | 可选 | 纺织操作相关课程 |
-| 健康与安全培训 | 企业 | 必备 | 基本安全知识 |
+| Health and safety training | Corporate | Required | Basic safety knowledge |
+| FETAC Level 5 certificate | QQI | Optional | Textile operation related courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500。爱尔兰纺织制造业规模较小，就业机会有限。行业自动化程度提高，但传统岗位需求稳定。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. The Irish textile manufacturing industry is relatively small with limited employment opportunities. Industry automation is increasing, but demand for traditional roles remains stable.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入门级操作员 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验的操作员或团队领导 |
-| 高级（7年以上） | $35,000~$45,000 | 生产主管或质检专家 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry-level operator |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced operator or team leader |
+| Senior (7+ years) | $35,000~$45,000 | Production supervisor or quality control specialist |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从操作员晋升为生产主管或质量控制员；进一步可转向技术或管理岗位，但需额外培训。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation involves repetitive, routine physical operations. AI and automation will significantly replace tasks such as cutting, sewing, and inspection. Entry-level positions will shrink notably, but maintenance and anomaly-handling roles will still exist.
+
+Can advance from operator to production supervisor or quality control officer; further progression to technical or managerial roles requires additional training.
+
+**Tasks most exposed to AI:**
+
+- Automated cutting system precisely cuts fabric based on digital patterns, replacing manual cutting
+- AI visual inspection replaces manual inspection of fabric defects and sewing quality
+- Robot sewing unit automatically completes standard sewing processes
+- Automated sorting and packaging systems replace manual folding and stacking
+
+**Where AI augments the role:**
+
+- AI nesting system optimizes fabric utilization; operators input parameters and monitor
+- Intelligent sewing robots require workers to program and debug sewing paths
+- Digital production management system provides real-time efficiency feedback, allowing workers to adjust equipment accordingly
+- Remote monitoring and diagnostic tools assist workers in quickly identifying machine faults.
+
+**Human moat:**
+
+- Flexible judgment when handling abnormal fabrics or special patterns
+- Multi-process coordination and production line balance optimization
+- Communicate with designers to achieve complex customization requirements.
+- Skills for fine handling and restoration of high-value fabrics
+
+**Skills to build:**
+
+- Industrial robot programming and commissioning (ABB, Kuka, etc.)
+- CAD/CAM software operation for garment design and pattern making
+- Automated equipment maintenance (PLC basics, sensor adjustment)
+- Data analysis (MES system, production and quality monitoring)
+- Lean production and process optimization
+- Knowledge of sustainable materials and eco-friendly processes.
+
+**Key growth areas:**
 
 - Stable
 - Automation
@@ -63,65 +96,67 @@ Operate machines for textile, fur, and leather product manufacturing, including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于约3万欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高技能，年薪阈值约6万欧元，此职业通常不符合。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupied occupations, requires employer sponsorship, annual salary not less than approximately EUR 30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Requires high skills, annual salary threshold about 60,000 euros; this occupation typically does not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified？**
-- 愿意从事重复性体力劳动
-- 注重细节和质量
-- 愿意在制造业环境中工作
+**Who is suited**
+- Willing to engage in repetitive physical labor
+- Attention to detail and quality
+- Willing to work in a manufacturing environment
 
-**谁不适合学Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified？**
-- 追求高薪和高发展空间
-- 对自动化替代敏感
+**Who is not suited**
+- Pursuing high salary and high growth potential
+- Sensitive to automation substitution
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in Ireland?**
+A: Annual salary typically ranges from 22,000-45,000 euros, with entry-level positions around 22,000-28,000 euros and senior positions reaching 35,000-45,000 euros.
+
+**Q: What type of visa is needed to work in this occupation in Ireland?**
+A: Generally requires a General Employment Permit, but this occupation is not in shortage; the employer must pass a labor market test, and the annual salary threshold is around €30,000.
+
+**Q: What educational background is required for this occupation?**
+A: Generally no formal qualifications required, mostly on-the-job training. Vocational training certificates such as FETAC Level 5 can increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Annual salary typically ranges from €22,000 to €45,000; entry-level around €22,000-€28,000, senior up to €35,000-€45,000.
-
-**问：What visa is needed for this occupation in Ireland?**
-答：Usually a General Employment Permit; the occupation is not on shortage list, employer must pass labor market test, salary threshold around €30,000.
-
-**问：What education is required for this occupation?**
-答：Generally no formal education required; mostly on-the-job training. Vocational certificates like FETAC Level 5 can enhance prospects.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

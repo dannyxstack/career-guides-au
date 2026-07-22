@@ -1,58 +1,94 @@
-# Plastics process operatives（Plastics process operatives）职业分析 · UK
+# Plastics process operatives — career analysis · United Kingdom
 
-**职业代码：8114 – Plastics process operatives。**
+**Occupation code: 8114 (SOC)**
 
-Plastics process operatives attend and operate moulding, extruding, thermoforming, calendering, cutting and other process equipment to produce and repair plastic products, forming a vital part of the manufacturing sector.
+Plastic processing operators operate and monitor plastic molding, extrusion, thermoforming, calendering, and cutting equipment to manufacture and repair plastic products, serving as a fundamental but essential role in manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 在职培训 | 1-2年 | —（雇主通常提供在职培训，部分通过学徒制） |
-| GCSE或同等学历 | 2年 | —（公立学校免费，但非强制性要求） |
+| On-the-job training | 1-2 years | $0~$1,000 (Employers usually provide on-the-job training, some through apprenticeships) |
+| GCSE or equivalent | 2 years | $0~$0 (Public schools are free but not compulsory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ/SVQ 2级或3级工程制造 | City & Guilds / 其他认证机构 | 可选 | 常见于塑料加工行业，提升就业竞争力 |
-| 短期操作员证书 | 行业协会或培训机构 | 可选 | 部分雇主要求，例如塑料成型操作证书 |
+| NVQ/SVQ Level 2 or 3 in Engineering Manufacturing | City & Guilds / Other certification bodies | Optional | Common in the plastic processing industry to enhance employment competitiveness. |
+| Short-term operator certificate | Industry associations or training institutions | Optional | Required by some employers, e.g., plastic molding operation certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。英国塑料行业就业人数近年稳定，但随着制造业自动化和可持续材料发展，低技能岗位需求可能小幅下降，但技术型操作员仍有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Employment in the UK plastics industry has been stable in recent years, but with manufacturing automation and sustainable materials development, demand for low-skilled roles may decline slightly, while demand for skilled operators remains.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 入门级薪资 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验操作员 |
-| 高级（7年以上） | $28,000~$35,000 | 高级/主管级别 |
+| Median salary | $32,644 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$22,000 | Entry-level salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Experienced operator |
+| Senior (7+ years) | $28,000~$35,000 | Senior/supervisory level. |
+| average salary | $32,064 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业发展路径包括晋升为生产主管、高级操作员或转向质量控制、设备维护等岗位，通过积累经验和获取相关认证可提升薪资。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The job of plastic processing operators will change profoundly due to AI and automation: repetitive monitoring and quality inspection tasks will be compressed, but complex mold debugging, process optimization, and human-machine collaboration skills will be amplified, presenting both risks and opportunities.
+
+Career development paths include promotion to production supervisor, senior operator, or transitioning to quality control, equipment maintenance roles, and increasing salary through experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Monitor injection molding machine parameters in real time and adjust manually (being replaced by AI closed-loop control systems)
+- Routine visual defect inspection (replaced by machine vision + AI)
+- Recording production reports and quality data (replaced by IoT automated collection)
+- Simple loading/unloading operations (replaced by robots + AGVs)
+- Retrieval and setting of standard process parameters (auto-recommended and executed by AI)
+
+**Where AI augments the role:**
+
+- Debugging and fault diagnosis of complex molds (AI provides decision support, human makes final judgment)
+- Optimizing molding cycles through digital twin simulation (AI simulation + human validation)
+- Flexible mold change and rapid parameter switching for multi-variety small-batch orders (AI recommended + human fine-tuning)
+- Predictive maintenance of equipment: anomaly analysis and intervention decisions (AI alerts + human execution)
+- Learn new process technologies (AI-assisted training and knowledge retrieval)
+
+**Human moat:**
+
+- On-the-spot judgment and rapid manual intervention in abnormal operating conditions
+- Cross-process communication and on-site team collaboration
+- In-depth experience in material properties and mold structures
+- Mechanical intuition and hands-on skills in complex equipment repair
+- Hand finishing and mold trial adjustments for customized products
+
+**Skills to build:**
+
+- Basic PLC programming and troubleshooting
+- Industrial robot teaching and safe operation
+- Data Analysis and MES System Operation
+- 3D printing and rapid tooling knowledge
+- Use of digital twin simulation software
+- Basic industrial English (reading equipment and maintenance manuals)
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -61,65 +97,64 @@ Plastics process operatives attend and operate moulding, extruding, thermoformin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业在英国可担保职业清单上，满足薪资门槛后可申请 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请，从事该职业积累工作经验，但需后续转工签 |
-| Subclass Scale-up（Scale-up Visa） | 在符合条件的高增长企业工作可申请 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the UK's eligible occupation list and can be applied for after meeting the salary threshold. |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply and gain work experience in this occupation, but need to switch to a work visa later |
+| Subclass Scale-up (Scale-up Visa) | Eligible for application by working at qualifying high-growth companies |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plastics process operatives？**
-- 愿意从事重复性操作工作的务实人员
-- 有机械动手能力、喜欢动手操作的人
-- 对塑料制造和工业生产感兴趣者
-
-**谁不适合学Plastics process operatives？**
-- 希望高薪资和快速晋升者
-- 不喜欢重复性体力工作或工厂环境者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Pragmatic individuals willing to engage in repetitive operational tasks.
+- People with mechanical hands-on ability who enjoy working with their hands
+- Those interested in plastic manufacturing and industrial production
+
+**Who is not suited**
+- Those seeking high salaries and rapid promotion
+- Those who dislike repetitive physical work or factory environments
+
+---
+
+## 8. FAQ
+
+**Q: Is there potential for salary growth as a plastic processing operator?**
+A: Yes, through gaining experience, advancing to supervisor, or learning advanced skills (e.g., CNC programming), you can reach over £35,000.
+
+**Q: How can overseas applicants enter this occupation via the Skilled Worker visa?**
+A: Need to obtain UK employer sponsorship, meet general salary threshold (typically around £26,200/year) and English language requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Plastics process operatives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there potential for salary growth as a plastics process operative?**
-答：Yes, through experience, promotion to supervisor, or acquiring advanced skills like CNC programming, salaries can exceed £35,000.
-
-**问：How can overseas applicants enter this occupation via Skilled Worker visa?**
-答：They need a job offer from a UK employer, meet the general salary threshold (usually around £26,200 per year) and English language requirements.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

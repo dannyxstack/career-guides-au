@@ -1,58 +1,94 @@
-# Public Relations Specialists（Public Relations Specialists）职业分析 · 美国
+# Public Relations Specialists — career analysis · United States
 
-**职业代码：27-3031 – Public Relations Specialists。**
+**Occupation code: 27-3031 (SOC)**
 
-Public Relations Specialists create and maintain a favorable public image for organizations or individuals by communicating with media, managing social media, and planning events.
+Public relations specialists shape and maintain the public image of organizations or individuals, conveying information through media releases, social media management, and event planning to help build a good reputation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费约1-2.5万美元，私立大学约2-5万美元） |
-| 硕士学位（可选） | 1-2年 | $30,000~$80,000（部分雇主偏好硕士学历，尤其竞争性岗位） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Public universities: approx. $10-$25K/year; private universities: approx. $20-$50K/year.) |
+| Master's degree (optional) | 1-2 years | $30,000~$80,000 (Some employers prefer a master's degree, especially for competitive positions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共关系认证（APR） | 公共关系协会（PRSA） | 可选 | 通过笔试和同行评审，证明专业能力 |
-| 学士学位 | 认证大学 | 必备 | 通常需公共关系、新闻、传播或相关专业 |
+| Bachelor's degree | Accredited university | Required | Typically requires a degree in public relations, journalism, communications, or related field |
+| Accreditation in Public Relations (APR) | Public Relations Society of America (PRSA) | Optional | Pass written exam and peer review to demonstrate professional competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 265,000。美国劳工统计局预计2022-2032年该职业就业增长约6%，与平均水平相当。数字媒体和社交平台的普及持续创造岗位，但竞争激烈，尤其知名机构。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 265,000. The US Bureau of Labor Statistics projects about 6% employment growth for this occupation from 2022 to 2032, about average. The proliferation of digital media and social platforms continues to create jobs, but competition is intense, especially at well-known organizations.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 入门级岗位，规模较小机构或非营利组织 |
-| 中级（3-7年） | $60,000~$85,000 | 中型企业或公关公司，需独立管理项目 |
-| 高级（7年以上） | $85,000~$120,000 | 总监级或大型企业，负责策略制定与团队管理 |
+| Median salary | $74,750 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Entry-level positions, smaller institutions or non-profit organizations |
+| Mid-level (3–7 years) | $60,000~$85,000 | Medium-sized enterprises or PR agencies, requiring independent project management |
+| Senior (7+ years) | $85,000~$120,000 | Director level or large enterprises, responsible for strategy formulation and team management |
+| average salary | $84,120 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级公关专员可晋升为高级专员、公关经理或总监，部分转向危机管理、品牌传播或企业传播。经验丰富者可开设独立公关公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is taking over basic PR tasks like copywriting and media monitoring on a large scale, but core functions like strategic communication, crisis management, and relationship maintenance are amplified, requiring practitioners to upgrade from executors to strategists.
+
+Junior PR specialists can advance to senior specialists, PR managers, or directors; some move into crisis management, brand communication, or corporate communication. Experienced individuals can start their own PR firms
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting basic press releases and media statements
+- Media monitoring and influence report generation
+- Social media content scheduling and automatic posting
+- Standardized responses to common media inquiries
+- Batch sending of event invitation letters and follow-up emails
+
+**Where AI augments the role:**
+
+- Using AI for media sentiment analysis and trend prediction
+- Optimizing social media ad placement and audience targeting through AI
+- Use AI to generate multiple versions of copy and conduct A/B testing
+- Quickly generate crisis simulation scenarios and response plans using AI tools
+- Develop personalized communication strategies through AI analysis of audience data.
+
+**Human moat:**
+
+- Complex stakeholder relationship management and trust building
+- On-the-spot judgment and impromptu expression in crisis communication
+- Long-term brand strategy planning and cross-department coordination
+- Design creative communication solutions for ambiguous problems
+- Internal communications requiring confidentiality or high sensitivity
+
+**Skills to build:**
+
+- Proficient in using tools like GPTs for copy editing and generating multiple versions
+- Learn basics of natural language processing to understand AI reports
+- Proficient in social media analytics tools (e.g., Brandwatch)
+- Develop data interpretation and visualization skills
+- Improve cross-cultural communication and strategic thinking
+- Familiar with AI-driven public opinion monitoring platforms
+
+**Key growth areas:**
 
 - Digital Media
 - Social Media
@@ -61,68 +97,67 @@ Public Relations Specialists create and maintain a favorable public image for or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 适用于学士及以上学历的公关专员，需雇主担保，年度配额有限，竞争激烈。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需硕士学历或本科加5年经验，通过PERM劳工证申请，适合高级专员。 |
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适用于在公关领域有杰出成就者，如重大活动策划、国际声誉，无需劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Applicable to PR specialists with bachelor's degree or higher, requires employer sponsorship, limited annual quota, competitive. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires a master's degree or bachelor's degree plus 5 years of experience; application through the PERM labor certification process; suitable for senior specialists. |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | For those with outstanding achievements in public relations, such as major event planning or international reputation; no labor certification required. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Specialists？**
-- 擅长写作和沟通，能快速与媒体和公众建立联系
-- 具备危机处理能力，能在压力下保持冷静
-- 对社交媒体和数字营销趋势敏感，有创意
-
-**谁不适合学Public Relations Specialists？**
-- 不擅长人际交往或公开演讲
-- 无法应对多变的工作节奏和突发危机
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in writing and communication, able to quickly connect with media and the public
+- Possess crisis management skills and stay calm under pressure
+- Sensitive to social media and digital marketing trends, creative
+
+**Who is not suited**
+- Not good at interpersonal communication or public speaking
+- Unable to cope with changing work pace and sudden crises.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of public relations specialists?**
+A: Entry-level annual salary is about $45,000-$60,000 USD, mid-level $60,000-$85,000, senior $85,000-$120,000. Salaries are higher in major cities and well-known companies, but competition is also more intense.
+
+**Q: What are the main pathways for public relations specialists to immigrate to the US?**
+A: Commonly H-1B work visa, requires employer sponsorship and bachelor's degree. Senior specialists can pursue EB-2 green card; outstanding talents can apply for O-1 visa. Note H-1B lottery cap.
+
+**Q: What core skills does a PR specialist need?**
+A: Need excellent writing, communication, media relations, social media management, event planning, and crisis management skills. Digital marketing and data analysis skills are increasingly important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Public Relations Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Public Relations Specialists?**
-答：Entry-level salaries range from $45,000 to $60,000; mid-level from $60,000 to $85,000; senior-level from $85,000 to $120,000. Higher in major cities and large firms.
-
-**问：What are the main immigration pathways for Public Relations Specialists to the US?**
-答：Common paths include H-1B visa (employer-sponsored, bachelor's degree required) and EB-2 green card for advanced degree holders. O-1 visa for extraordinary ability. H-1B subject to annual cap lottery.
-
-**问：What core skills are needed for Public Relations Specialists?**
-答：Excellent writing, communication, media relations, social media management, event planning, and crisis management. Digital marketing and data analytics skills are increasingly important.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

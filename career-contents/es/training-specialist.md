@@ -1,58 +1,94 @@
-# Training Specialist（Training Specialist）职业分析 · ES
+# Training Specialist — career analysis · Spain
 
-**职业代码：2625 – Training Specialist。**
+**Occupation code: 2625 (CNO)**
 
-Training specialists design and implement employee training programs to enhance skills and performance, commonly employed in HR departments, consulting firms, and training organizations in Spain.
+Training specialists are responsible for designing and implementing employee training programs for the company or organization to enhance team skills and performance. This profession is common in Spain in human resources departments, consulting firms, and training institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $1,000~$2,500（公立大学年学费） |
-| 硕士 | 1-2年（Máster） | $2,000~$6,000（公立大学年学费） |
+| University bachelor's degree | 4 years (Grado) | $1,000~$2,500 (Annual tuition at public universities) |
+| Master's degree | 1-2 years (Máster) | $2,000~$6,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学或人力资源学士学位 | 西班牙大学 | 可选 | 常见入门要求 |
-| 培训师认证（Certificado de Profesionalidad） | SEPE | 可选 | 非强制但有利 |
+| Bachelor's degree in Education or Human Resources | Spanish University | Optional | Common Entry Requirements |
+| Trainer Certification (Certificado de Profesionalidad) | SEPE | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙企业日益重视员工发展，培训专员需求稳定。数字化和远程培训趋势带来新机遇，但竞争也较为激烈。预计就业增长平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Spanish companies are increasingly focusing on employee development, and the demand for training specialists remains stable. Digitalization and remote training trends bring new opportunities, but competition is also fierce. Employment growth is expected to remain steady.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从培训助理晋升为培训经理或人力资源经理，也可专攻某一领域如领导力培训或技术培训，成为高级顾问或独立培训师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of training specialists will be significantly reshaped by AI: standard content generation and administrative tasks will be automated, but areas that rely on human judgment—such as personalized training design, soft skills development, and effectiveness evaluation—will become more valuable, resulting in overall polarization in the job landscape.
+
+You can advance from training assistant to training manager or human resources manager, or specialize in a specific area such as leadership training or technical training, becoming a senior consultant or independent trainer.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized training manuals, PPTs, and documents
+- Manage training schedules, student registrations, and grade records
+- Provides FAQ-style foundational answers for frequently asked questions
+- Generate basic statistical reports on training effectiveness
+- Screening and recommending online course resources
+
+**Where AI augments the role:**
+
+- Use AI to analyze employee skill gaps and develop personalized training paths
+- Immersive simulation training scenarios are designed using VR/AR technology
+- Optimize course combinations and learning rhythms through AI learning recommendation systems
+- Use natural language processing tools to assist feedback on soft skills training
+- Use data dashboards to track training effectiveness ROI in real time
+
+**Human moat:**
+
+- Complex training needs diagnostics align with organizational strategy
+- Interpersonal communication and classroom atmosphere adjustment skills
+- Flexible and on-the-spot response to students' real-time questions
+- Cross-departmental collaboration drives training implementation
+- Design innovative training formats (such as gamification and blended learning)
+
+**Skills to build:**
+
+- Operation of Learning Experience Platforms (LXP) and content creation tools such as Articulate
+- Basic Data Analysis and Visualization (Excel, Tableau)
+- AI prompt engineering and the training application of generative AI tools (ChatGPT).
+- Evaluation tool design (Digitization of the Kirkpatrick model)
+- Project management and agile training methodologies
+- Fundamentals of Neuroscience and Adult Learning Theory
+
+**Key growth areas:**
 
 - Digital Learning
 - E-learning
@@ -61,68 +97,67 @@ Training specialists design and implement employee training programs to enhance 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能员工，要求大学学历和符合薪资门槛的工作合同。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准工作居留，需雇主担保，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高学历或高收入专业人士，流程更快。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled employees, requiring a university degree and a work contract meeting the salary threshold. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residency requires employer sponsorship and proof that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated or high-income professionals, the process is faster. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Training Specialist？**
-- 喜欢与人沟通、教学和指导的人
-- 具备组织能力和创造力，能设计培训方案的人
-- 对人力资源或员工发展有热情的人
-
-**谁不适合学Training Specialist？**
-- 不喜欢频繁公开演讲或互动的人
-- 偏好重复性、技术性工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communicating, teaching, and guiding others
+- Individuals with organizational skills and creativity who can design training programs
+- People passionate about human resources or employee development
+
+**Who is not suited**
+- People who dislike frequent public speeches or interactions
+- People who prefer repetitive and technical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for training commissioners in Spain?**
+A: Junior approx. €22,000-28,000, mid-level €30,000-40,000, senior €42,000-55,000, depending on industry and location.
+
+**Q: Is it easy for foreigners to obtain a work visa for training jobs in Spain?**
+A: You can apply for the EU Blue Card or the High-Skilled Professional visa, which requires employer sponsorship and meets education/salary requirements. Competition is moderate.
+
+**Q: What is the career development path for training specialists?**
+A: Promotion to Training Manager, Human Resources Manager, or becoming an independent consultant or freelance trainer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Training Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for training specialists in Spain?**
-答：Entry-level around €22,000-28,000, mid-level €30,000-40,000, senior €42,000-55,000, depending on industry and region.
-
-**问：Is it easy for foreigners to get a work visa as a training specialist in Spain?**
-答：EU Blue Card or Highly Skilled Professional visa is possible with employer sponsorship and meeting education/salary requirements. Competition is moderate.
-
-**问：What is the career path for training specialists?**
-答：Can advance to training manager, HR manager, or become an independent consultant or freelance trainer.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

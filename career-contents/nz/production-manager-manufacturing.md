@@ -1,61 +1,97 @@
-# Production Manager (Manufacturing)（Production Manager (Manufacturing)）职业分析 · 新西兰
+# Production Manager (Manufacturing) — career analysis · New Zealand
 
-**职业代码：133512 – Production Manager (Manufacturing)。**
+**Occupation code: 133512 (ANZSCO)**
 
-Production Managers plan, coordinate and control manufacturing production processes to meet output, quality, safety and cost targets. This occupation is ANZSCO Skill Level 1, eligible for Skilled Migrant Category or Green List Tier 1 residence, requiring median wage threshold.
+Production managers plan, coordinate, and control manufacturing plant production processes to achieve output, quality, safety, and cost targets. This occupation is ANZSCO skill level 1 and can apply for residence through the Skilled Migration Category (SMC) or Green List Tier 1, meeting the median wage requirement.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（工程、管理或相关领域） | 3年 | $32,000~$45,000（奥克兰理工大学或梅西大学等公立大学学费） |
-| 硕士文凭（生产管理方向） | 1.5年 | $38,000~$55,000（研究生文凭或硕士课程） |
-| 职业证书（新西兰国家制造证书） | 6个月 | $5,000~$8,000（理工学院或行业培训组织） |
+| Bachelor's degree (Engineering, Management, or related field) | 3 years | $32,000~$45,000 (Tuition at public universities like Auckland University of Technology or Massey University) |
+| Master's degree (production management direction) | 1.5 years | $38,000~$55,000 (Postgraduate diploma or master's course) |
+| Vocational certificate (New Zealand National Certificate in Manufacturing) | 6 months. | $5,000~$8,000 (Polytechnic or industry training organization) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生产管理相关学士学位（如工程、商科） | 新西兰学历认证局（NZQA）评估 | 必备 | 海外学历需NZQA认证，通常视为等效 |
-| 新西兰国家制造证书（Level 5） | Competenz或行业培训组织 | 可选 | 非强制但有利于就业 |
-| Lean Six Sigma绿带或黑带 | 认证机构（如ASQ） | 可选 | 雇主重视持续改进技能 |
-| 雅思总分6.5或同等英语水平 | IELTS/PTE/TOFEL | 必备 | 技术移民英语要求 |
+| Bachelor's degree in production management (e.g., engineering, business) | New Zealand Qualifications Authority (NZQA) assessment | Required | Overseas qualifications need NZQA assessment, usually considered equivalent |
+| IELTS overall 6.5 or equivalent English proficiency | IELTS/PTE/TOFEL | Required | English language requirements for skilled migration |
+| New Zealand National Certificate in Manufacturing (Level 5) | Competenz or industry training organizations | Optional | Not mandatory but beneficial for employment |
+| Lean Six Sigma Green Belt or Black Belt | Certifying bodies (e.g., ASQ) | Optional | Employers value continuous improvement skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。新西兰制造业持续面临技能短缺，尤其是食品、饮料和机电产品领域。随着自动化升级，生产经理需要掌握精益生产和数字化管理技能。未来5年岗位数量预计稳定增长，年均职位空缺约300个。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. New Zealand manufacturing faces ongoing skill shortages, especially in food, beverage, and electromechanical products. With automation upgrades, production managers need lean production and digital management skills. Job numbers expected to grow steadily over next 5 years, with about 300 vacancies per year.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | 助理生产经理或小型工厂主管 |
-| 中级（3-7年） | $90,000~$120,000 | 独立负责大型生产单元 |
-| 高级（7年以上） | $130,000~$170,000 | 工厂经理或生产总监 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$85,000 | Assistant production manager or small factory supervisor |
+| Mid-level (3–7 years) | $90,000~$120,000 | Independently managing large production units |
+| Senior (7+ years) | $130,000~$170,000 | Factory manager or production director |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从生产主管或工艺工程师晋升，积累经验后可升任工厂经理或运营总监。部分人转向供应链管理或咨询。持有工程或管理学位及绿名单雇主担保可加速移民。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Production managers' core duties (interpersonal coordination, decision accountability) are hard to automate, but AI greatly optimizes data-intensive tasks like scheduling and quality inspection, reducing entry-level scheduling/statistics roles; overall mixed outlook.
+
+Typically promoted from production supervisor or process engineer; with experience, can advance to plant manager or operations director. Some transition to supply chain management or consulting. Holding an engineering or management degree and having a Green List employer sponsor can expedite immigration.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation and optimization of production scheduling and material requirement planning
+- Manual entry and initial anomaly marking of real-time quality inspection data
+- Standard daily/weekly report generation and basic variance analysis
+- Automatic alerts and scheduling for equipment maintenance times
+- Automated processing of worker attendance and output statistics
+
+**Where AI augments the role:**
+
+- Use AI production scheduling software to quickly respond to order changes and material shortages
+- Using digital twins to simulate production line bottlenecks, aiding process improvement decisions
+- Leverage AI predictive maintenance to reduce unplanned downtime
+- Using visual inspection systems to assist quality anomaly tracing
+- Optimizing energy consumption and yield metrics based on big data analysis
+
+**Human moat:**
+
+- Cross-departmental (production, engineering, supply chain) conflict coordination and resource negotiation
+- On-site leadership in sudden production incidents (e.g., equipment failure, personnel safety)
+- Flexible response to unstructured production issues (e.g., employee morale, urgent customer orders)
+- Vetoing AI solutions for safety and compliance based on industry experience
+- Developing team skills and culture building—i.e., interpersonal leadership
+
+**Skills to build:**
+
+- Lean Six Sigma (Green Belt/Black Belt) and continuous improvement methodologies
+- Industrial Internet of Things (IIoT) and MES system data analysis
+- Basic application of AI/ML in production scheduling and quality prediction
+- Production line digital twin or simulation modeling (e.g., AnyLogic)
+- Supply chain visualization and collaboration tools (e.g., Kinaxis)
+- Cross-cultural team management and digital transformation leadership
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Production Managers plan, coordinate and control manufacturing production proces
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单Tier 1职业，满足薪资中位数（2024年为29.66纽币/小时）可直接申请居留，无需工作两年。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制需满足学历、工作经验或薪资加分，当前邀请分数预计较高（约180分以上）。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，若未达直接居留标准，可通过该签证工作后转SMC或绿色清单T2。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, meeting the median wage (NZ$29.66/hour in 2024) allows direct residence application, no need to work for two years. |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category: 6-point system requires points for qualifications, work experience, or salary; current invitation scores are expected to be high (around 180+ points). |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: if direct residence criteria are not met, can work under this visa and then apply for SMC or Green List T2. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Manager (Manufacturing)？**
-- 有制造业管理经验，希望快速移民新西兰的人士
-- 具备工程或商科背景，善于团队协调和流程优化
-- 愿意在食品、机电或制药等行业扎根发展
-
-**谁不适合学Production Manager (Manufacturing)？**
-- 厌恶高压环境和轮班制工作
-- 缺乏领导力和人际关系处理能力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with manufacturing management experience who wish to immigrate to New Zealand quickly
+- Background in engineering or business, strong teamwork coordination and process optimization skills
+- Willing to develop a career in industries such as food, electromechanical, or pharmaceuticals
+
+**Who is not suited**
+- Dislikes high-pressure environments and shift work
+- Lack of leadership and interpersonal skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for production managers in New Zealand?**
+A: Junior about NZ$70,000-85,000, intermediate $90,000-120,000, senior $130,000-170,000. Immigration requires skilled migrant salary at least median (NZ$29.66/hour, about $61,600/year), actual income usually higher.
+
+**Q: What are the pathways for a production manager to immigrate to New Zealand?**
+A: The best pathway is through the Green List Tier 1 directly apply for residence (subject to meeting the median salary); alternatively, skilled migration SMC (6-point system, e.g., master's degree + 3 years experience); if not yet eligible, first apply for an AEWV work visa to gain experience.
+
+**Q: What is the employment outlook for this occupation in New Zealand?**
+A: Good. Manufacturing is a pillar of New Zealand's economy, especially food and beverage processing with stable demand. Digitalization and automation trends require tech-savvy management talent. Low unemployment, but competition from local practitioners.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Production Manager (Manufacturing)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Production Managers in New Zealand?**
-答：Entry-level: $70,000–$85,000 NZD; Mid-level: $90,000–$120,000; Senior: $130,000–$170,000. Immigration requires median wage ($29.66/hr, ~$61,600/yr), but actual pay is higher.
-
-**问：What are the migration pathways for Production Managers to New Zealand?**
-答：Best: Green List Tier 1 Straight to Residence (requires median wage); also Skilled Migrant Category (6 points system, e.g., master's degree + 3 years experience); or AEWV work visa if not yet eligible.
-
-**问：What is the job outlook for this occupation in New Zealand?**
-答：Good. Manufacturing is a key sector, especially food and beverage processing. Digitalization and automation increase demand for tech-savvy managers. Low unemployment but local competition exists.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,94 @@
-# 生产经理（Production Manager (Manufacturing)）职业分析 · 澳大利亚
+# Production Manager (Manufacturing) — career analysis · Australia
 
-**职业代码：133512 – Production Manager (Manufacturing)。**
+**Occupation code: 133512 (ANZSCO)**
 
-生产经理负责制造工厂的生产计划、质量、安全与团队，是技术移民职业（需VETASSESS评估），制造与食品/医药领域需求稳定。
+Production Managers oversee production planning, quality, safety and teams in manufacturing facilities. It is a skilled migration occupation (requiring VETASSESS assessment), with stable demand in manufacturing, food and pharmaceutical sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Engineering/Manufacturing/Business | 3~4年 | $25,000~$45,000（—） |
-| Lean/Six Sigma 认证（加分） | 数月 | $1,500~$6,000（—） |
+| Bachelor of Engineering/Manufacturing/Business | 3–4 years | $25,000~$45,000 (—) |
+| Lean/Six Sigma certification (advantageous) | Several months | $1,500~$6,000 (—) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关本科及以上 | 认可大学 | 可选 | 入行基础 |
-| VETASSESS Skills Assessment | VETASSESS | 可选 | 移民评估 |
+| Relevant bachelor's degree or above | Recognised university | Optional | Foundation for entering the industry |
+| VETASSESS Skills Assessment | VETASSESS | Optional | Migration Assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 40,000。制造自动化与本地供应链回流推动对精益与运营管理者的需求。
+**Job demand: high (★★★★☆).** National workforce approx. 40,000. Manufacturing automation and the reshoring of local supply chains are driving demand for lean and operations managers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,200 个 | 全国 |
-| Indeed | 900~1,600 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $95,000~$120,000 | — |
-| 中级 | $120,000~$150,000 | — |
-| 资深/厂长 | $150,000~$190,000 | 大型工厂 |
+| Median salary | $119,496 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $95,000~$120,000 | — |
+| Intermediate | $120,000~$150,000 | — |
+| Senior / Plant Manager | $150,000~$190,000 | Large-scale factory |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需工程/制造背景+经验；路径向运营经理、厂长发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Production managers' core duties (interpersonal coordination, decision accountability) are hard to automate, but AI greatly optimizes data-intensive tasks like scheduling and quality inspection, reducing entry-level scheduling/statistics roles; overall mixed outlook.
+
+Engineering/manufacturing background and experience required; career path leads to Operations Manager and Plant Manager roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation and optimization of production scheduling and material requirement planning
+- Manual entry and initial anomaly marking of real-time quality inspection data
+- Standard daily/weekly report generation and basic variance analysis
+- Automatic alerts and scheduling for equipment maintenance times
+- Automated processing of worker attendance and output statistics
+
+**Where AI augments the role:**
+
+- Use AI production scheduling software to quickly respond to order changes and material shortages
+- Using digital twins to simulate production line bottlenecks, aiding process improvement decisions
+- Leverage AI predictive maintenance to reduce unplanned downtime
+- Using visual inspection systems to assist quality anomaly tracing
+- Optimizing energy consumption and yield metrics based on big data analysis
+
+**Human moat:**
+
+- Cross-departmental (production, engineering, supply chain) conflict coordination and resource negotiation
+- On-site leadership in sudden production incidents (e.g., equipment failure, personnel safety)
+- Flexible response to unstructured production issues (e.g., employee morale, urgent customer orders)
+- Vetoing AI solutions for safety and compliance based on industry experience
+- Developing team skills and culture building—i.e., interpersonal leadership
+
+**Skills to build:**
+
+- Lean Six Sigma (Green Belt/Black Belt) and continuous improvement methodologies
+- Industrial Internet of Things (IIoT) and MES system data analysis
+- Basic application of AI/ML in production scheduling and quality prediction
+- Production line digital twin or simulation modeling (e.g., AnyLogic)
+- Supply chain visualization and collaboration tools (e.g., Kinaxis)
+- Cross-cultural team management and digital transformation leadership
+
+**Key growth areas:**
 
 - Lean Manufacturing
 - Automation/Industry 4.0
@@ -66,65 +97,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称TSS），按具体职责匹配ANZSCO |
-| Subclass 186（ENS） | 雇主担保永居，需相关评估 |
-| Subclass 190（Skilled Nominated） | 州提名，按各州清单 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS), matched to ANZSCO based on specific duties |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学生产经理？**
-- 制造/工程背景想做管理者
-- 擅长精益与流程优化者
-
-**谁不适合学生产经理？**
-- 不适应工厂现场与轮班者
-- 排斥安全合规工作者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Manufacturing/engineering background looking to move into management
+- Those with expertise in lean methodologies and process optimisation
+
+**Who is not suited**
+- Not suited to those who dislike factory floor work or shift rotations
+- Excluding safety and compliance workers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a production manager in Australia?**
+A: Approximately AUD 95,000-190,000; higher for large factory managers.
+
+**Q: Can production managers migrate to Australia on a skilled visa?**
+A: Yes. Production Manager (133512) is on the skilled migration list and requires a VETASSESS assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-生产经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲生产经理工资多少？**
-答：约AUD $9.5万~$19万，大型工厂厂长更高。
-
-**问：生产经理能技术移民吗？**
-答：可以。Production Manager（133512）在技术移民清单上，需VETASSESS评估。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# English Language and Literature Teachers, Postsecondary（English Language and Literature Teachers, Postsecondary）职业分析 · 美国
+# English Language and Literature Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1123 – English Language and Literature Teachers, Postsecondary。**
+**Occupation code: 25-1123 (SOC)**
 
-Teach courses in English language and literature, including linguistics and comparative literature, at the postsecondary level. Some combine teaching with research.
+Teach at universities, offering courses in English language, literature, linguistics, and comparative literature; some faculty also engage in research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士（PhD） | 5-7年 | $150,000~$250,000（含学费生活费，公立大学较便宜） |
-| 硕士（MA） | 2年 | $40,000~$80,000（部分社区学院或兼职教学岗位可接受） |
+| Doctor of Philosophy (PhD). | 5-7 years | $150,000~$250,000 (Including tuition and living expenses; public universities are cheaper.) |
+| Master of Arts (MA) | 2 years | $40,000~$80,000 (Acceptable for some community college or part-time teaching positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 通常要求英语或相关领域博士 |
-| 教学经验 | 大学 | 可选 | 助教或讲师经历 |
-| 出版记录 | 学术期刊/出版社 | 可选 | 科研型岗位需论文或专著 |
+| Doctoral degree (PhD) | University | Required | Typically requires a PhD in English or a related field. |
+| Teaching experience | University | Optional | Teaching assistant or lecturer experience |
+| Publication record | Academic journals/publishers | Optional | Research-oriented positions require papers or monographs |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 58,000。美国劳工统计局预计2023-2033年该职业就业增长率约5%，与平均水平相当。受高等教育入学率影响，但英语系学生减少可能抑制需求。
+**Job demand: medium (★★★☆☆).** National workforce approx. 58,000. The US Bureau of Labor Statistics projects about 5% employment growth for this occupation from 2023-2033, similar to the average. Affected by higher education enrollment rates, but declining numbers of English majors may suppress demand.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授） | $55,000~$75,000 | 公立大学，研究型岗位略高 |
-| 中级（副教授） | $70,000~$100,000 | 含终身教职，薪资因院校类型而异 |
-| 高级（教授） | $90,000~$150,000 | 顶尖大学或资深教授更高 |
+| Median salary | $78,760 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (Assistant Professor) | $55,000~$75,000 | Public universities, slightly higher for research roles |
+| Intermediate (Associate Professor) | $70,000~$100,000 | Includes tenure, salary varies by institution type |
+| Senior (Professor) | $90,000~$150,000 | Top universities or senior professors earn more |
+| average salary | $89,580 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从讲师或助理教授开始，通过科研成果和教学质量晋升为副教授、教授；也可转向学术管理或出版行业。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Usually starts as lecturer or assistant professor, progressing to associate professor and professor through research achievements and teaching quality; can also transition to academic management or publishing.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Online education
 - Digital humanities
@@ -62,68 +98,67 @@ Teach courses in English language and literature, including linguistics and comp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于大学教职，需雇主担保，受年度配额限制，但非营利机构豁免配额 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有高等学位的教授，需PERM或国家利益豁免 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出学者，需证明国际声誉，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common in university faculty positions, requires employer sponsorship, subject to annual quotas, but nonprofit institutions are exempt from quotas. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to professors with advanced degrees, requiring PERM or National Interest Waiver |
+| Subclass O-1 (O-1 Extraordinary Ability) | For outstanding scholars, must demonstrate international reputation, no labour certification required |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学English Language and Literature Teachers, Postsecondary？**
-- 热爱文学与教学，有志于学术研究的人
-- 愿意投入多年攻读博士并承受科研压力的人
-- 适应大学环境，擅长沟通与写作的人
-
-**谁不适合学English Language and Literature Teachers, Postsecondary？**
-- 追求高薪或快速回报的人
-- 不喜欢长期学术竞争和发表论文压力的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love literature and teaching, and are interested in academic research.
+- Those willing to spend years pursuing a PhD and enduring research pressure
+- People who adapt to university environments and are skilled in communication and writing
+
+**Who is not suited**
+- Those pursuing high salary or quick returns
+- Those who dislike long-term academic competition and the pressure of publishing papers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of university English teachers?**
+A: According to the U.S. Bureau of Labor Statistics, the median annual salary in 2023 was about $78,000, with entry-level around $55,000-75,000 and senior professors reaching over $150,000. Community colleges have lower salaries, while research universities pay more.
+
+**Q: Can foreigners become English teachers at US universities through the H-1B visa?**
+A: Yes. University faculty positions are typically H-1B cap-exempt (non-profit institutions) and do not require the lottery. However, you must prove the position is related to the applicant's field and pass the Labor Condition Application. EB-2 green cards are also a common pathway.
+
+**Q: Do you need a PhD to become a university English teacher?**
+A: Most universities (especially four-year ones) require a PhD. Community colleges or part-time positions may accept a master's, but promotion opportunities are limited. PhD takes 5-7 years, requiring publications and teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很高（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-English Language and Literature Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for postsecondary English teachers?**
-答：According to BLS, the median annual wage was $78,000 in 2023. Entry-level (assistant professor) ranges from $55,000 to $75,000, while full professors can earn over $150,000. Community colleges pay less, research universities more.
-
-**问：Can foreign nationals become English professors in the US via H-1B?**
-答：Yes. University teaching positions are generally cap-exempt for H-1B (nonprofit institutions), so no lottery needed. Must show the job is related to the applicant's field and file LCA. EB-2 green card is also common.
-
-**问：Is a PhD required to become a college English teacher?**
-答：Most universities (especially four-year) require a PhD. Community colleges or adjunct positions may accept a master's, but career advancement is limited. A PhD takes 5-7 years, involving publication and teaching.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

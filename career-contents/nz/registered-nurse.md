@@ -1,63 +1,94 @@
-# 注册护士（Registered Nurse）职业分析 · 新西兰
+# Registered Nurse — career analysis · New Zealand
 
-**职业代码：254418 – Registered Nurse。**
+**Occupation code: 254418 (ANZSCO)**
 
-注册护士在新西兰医院与社区提供护理，列入新西兰技能短缺 Green List 一级(可直接申请居留)，可走技术移民(SMC)与认可雇主工签(AEWV)，需经护理委员会(NCNZ)注册。
+Registered nurses provide care in New Zealand hospitals and communities, are on the Green List Tier 1 (direct residence pathway), can apply via Skilled Migrant Category (SMC) and Accredited Employer Work Visa (AEWV), and require registration with the Nursing Council of New Zealand (NCNZ).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| Bachelor of Nursing | 3年 | $25,000~$75,000（国际生学费更高） |
-| NCNZ 注册 + CAP 过渡课程 | 数月 | $3,000~$12,000（海外护士执业前提） |
+| Bachelor of Nursing | 3 years | $25,000~$75,000 (International students pay higher tuition fees) |
+| NCNZ registration + CAP bridging course | Several months | $3,000~$12,000 (Prerequisite for overseas nurses to practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Nursing Council of NZ (NCNZ) 注册 | NCNZ | 必备 | 强制执业 |
-| 英语成绩 (IELTS/OET) | 认可考点 | 必备 | 注册要求 |
+| Nursing Council of NZ (NCNZ) registration | NCNZ | Required | Mandatory practice |
+| English test scores (IELTS/OET) | Recognized test center | Required | Registration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 70,000。新西兰护士长期短缺、列入 Green List 一级，居留与就业通道顺畅，需求持续旺盛。
+**Job demand: very high (★★★★★).** National workforce approx. 70,000. New Zealand faces ongoing nurse shortages, with nursing on the Green List Tier 1, offering smooth residence and employment pathways in high demand.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| Seek NZ | 3,000~6,000 个 | 全国 |
-| Kiwi Health Jobs | 1,500~3,000 个 | 公立医疗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（NZD） | 备注 |
-|---|---:|---|
-| 初级 / 新毕业（0-3年） | $75,000~$85,000 | Step 起薪 |
-| 中级（3-8年） | $85,000~$100,000 | Experienced |
-| 资深 / Step 7+ | $106,000~$128,000 | Senior |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Junior / New graduate (0-3 years) | $75,000~$85,000 | Step starting salary |
+| Mid-level (3–8 years) | $85,000~$100,000 | Experienced |
+| Senior / Step 7+ | $106,000~$128,000 | Senior |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★★）。** 路径：注册护士→专科/高级护士；通过 NCNZ 注册、CAP 过渡课程与英语成绩是关键。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurse positions are enhanced rather than replaced by AI; automation will take over clerical, monitoring, and other tedious tasks, but core competencies such as clinical judgment and empathetic care will increase in value, with strong short-term demand.
+
+Path: Registered Nurse → Specialist/Senior Nurse; key steps include NCNZ registration, CAP bridging program, and English language requirements.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of nursing records, medication lists, and other paperwork
+- Continuous monitoring of vital signs and anomaly alerts via AI sensors and algorithms
+- Automated scheduling and nurse station shift optimization
+- Basic health information queries and patient education material generation
+- Partial standard drug compatibility checks and dose calculations
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems accelerate disease assessment and differential diagnosis
+- Remote monitoring platforms allow nurses to track more high-risk patients simultaneously
+- Voice transcription systems free hands for real-time nursing record entry
+- Predictive analysis to identify patient deterioration risk and enable early intervention
+- Smart recommendation of individualized care plans to improve efficiency.
+
+**Human moat:**
+
+- Clinical judgment and decision-making skills in complex conditions
+- Emotional communication and psychological support with patients and families
+- Manual skills for invasive procedures (e.g., intubation, debridement)
+- Multi-department team collaboration and emergency command skills
+- Tasks legally required to be performed by registered nurses
+
+**Skills to build:**
+
+- Advanced use of electronic health record systems
+- Operation and reliability/validity evaluation of AI-assisted diagnostic tools
+- Remote monitoring and virtual care platform applications
+- Data analysis basics (interpreting algorithm output anomalies)
+- Cross-cultural nursing communication skills
+- Lifelong learning to adapt to new digital tools
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Te Whatu Ora
@@ -66,64 +97,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass GreenList（Green List Tier 1） | 技能短缺一级，可直接申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民打分制 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认可雇主工签 |
+| Subclass GreenList (Green List Tier 1) | Skill shortage Tier 1, can directly apply for residence |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration points system |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa |
 
-**PR难度：很低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学注册护士？**
-- 想移民新西兰的护理专业者
-- 能通过 NCNZ 注册与英语考试者
-
-**谁不适合学注册护士？**
-- 不愿读护理学位或考注册者
-- 排斥轮班与临床压力者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those aiming to immigrate to New Zealand as nurses
+- Those able to pass NCNZ registration and English exams
+
+**Who is not suited**
+- Those unwilling to study a nursing degree or obtain registration
+- Those who dislike shift work and clinical pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a registered nurse in New Zealand?**
+A: Approx. NZD 75,000-128,000, senior Step 7+ higher, Auckland tends to be higher.
+
+**Q: Can registered nurses immigrate to New Zealand?**
+A: Yes, and it's straightforward. Registered nurses are on Green List Tier 1, can directly apply for residence, or via SMC/AEWV.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Seek NZ | 薪资与岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★★） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★★） |
-| PR难度 | 很低（★☆☆☆☆） |
-
-注册护士的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：新西兰注册护士薪资多少？**
-答：约 NZD $7.5万~$12.8万，资深 Step 7+ 更高，奥克兰偏高。
-
-**问：注册护士能移民新西兰吗？**
-答：可以，且很顺畅。注册护士在 Green List 一级，可直接申请居留，亦可走 SMC/AEWV。
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

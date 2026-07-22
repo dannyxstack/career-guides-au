@@ -1,60 +1,96 @@
-# Body Repairer（Body Repairer）职业分析 · FR
+# Body Repairer — career analysis · France
 
-**职业代码：I1606 – Body Repairer。**
+**Occupation code: I1606 (ROME)**
 
-Repairs vehicle body panels, welding, straightening, and surface finishing to restore damaged cars.
+Responsible for repairing, welding, shaping, and surface treatment of vehicle body sheet metal to restore damaged vehicles to their original condition.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 汽车车身维修 | 2年 | —（公立学校免费，仅注册费；学徒制带薪） |
-| Bac Pro 汽车车身维修 | 3年 | —（公立学校免费；可学徒制） |
-| BTS 汽车售后服务（可选） | 2年 | —（公立学校免费，需 Bac Pro 或 CAP 后就读） |
+| CAP car body repairs | 2 years | $0~$1,500 (Public schools are free, only the registration fee is required; Apprenticeships are paid with pay) |
+| Bac Pro car body repair | 3 years | $0~$2,000 (Public schools are free; Apprenticeship system is permitted) |
+| BTS Car After-Sales Service (Optional) | 2 years | $0~$3,000 (Public schools are free, but you need to enroll after Bac Pro or CAP) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 汽车车身维修文凭 | 法国教育部 | 必备 | 入门必需，证明基础技能 |
-| Bac Pro 汽车车身维修 | 法国教育部 | 可选 | 更高级别，可提升就业竞争力 |
-| 焊接资质认证 | AFPA 或专业机构 | 可选 | 某些雇主或特定材料（如铝）要求 |
+| CAP Diploma in Automotive Body Repair | French Ministry of Education | Required | Entry is required, demonstrating basic skills |
+| Bac Pro car body repair | French Ministry of Education | Optional | Higher levels can enhance employment competitiveness |
+| Welding qualification certification | AFPA or professional agencies | Optional | Certain employers or specific materials (such as aluminum) require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 48,000。法国汽车保有量稳定，事故维修需求持续，但电动车普及可能减少部分维修工作。整体就业前景平稳，技术熟练者仍受欢迎。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. France has stable car ownership, and the demand for accident repairs continues, but the widespread adoption of electric vehicles may reduce some repair work. Overall, employment prospects remain stable, and skilled workers remain popular.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒后转正 |
-| 中级（3-8年） | $28,000~$36,000 | 税前年薪，熟练技师 |
-| 高级（8年以上/主管） | $36,000~$50,000 | 税前年薪，含车间管理 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprentices after becoming full-time employees |
+| Mid-level (3–8 years) | $28,000~$36,000 | Pre-tax annual salary, skilled technician |
+| Senior (8+ years / Supervisor) | $36,000~$50,000 | Pre-tax annual salary, including workshop management |
+| average salary | $26,052 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒成长为资深技师，之后可晋升为车间主管或开设自己的修理店。也可专攻高端车或古董车修复。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
+
+You can grow from an apprentice to a senior technician, then be promoted to workshop supervisor or open your own repair shop. We can also specialize in restoring high-end or vintage cars.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition to automatically assess vehicle damage and generate repair plans
+- Automated quotation system generating repair quotes
+- AI scheduling optimizes the order of maintenance work orders.
+- Digital twin simulation of collision repair processes to reduce trial and error
+- Automatic logging of repair progress and work hours
+
+**Where AI augments the role:**
+
+- AR glasses display damage analysis results and repair guidance to improve accuracy
+- AI-assisted detection of hidden damage to reduce omissions
+- 3D Scanning and Printing for Rapid Custom Sheet Metal Parts
+- Smart diagnostic tools analyze structural strength and optimize repair solutions.
+- VR training system simulates multiple collision scenarios to accelerate skill improvement
+
+**Human moat:**
+
+- Complex metal forming and craft restoration (e.g., hand shaping)
+- Comprehensive judgment of vehicle body structure and mechanical properties
+- Explaining repair plans and liability determination to clients
+- Handling unique issues of non-standard, older vehicle models
+- On-site safety assessment and emergency repair decisions
+
+**Skills to build:**
+
+- Operating AI-assisted damage assessment software
+- 3D scanning and reverse engineering technology
+- High-voltage safety knowledge for new energy vehicles
+- Use digital maintenance management platform
+- New material welding and bonding processes
+- Customer communication and insurance claims coordination.
+
+**Key growth areas:**
 
 - Electric vehicle repair
 - Classic car restoration
@@ -63,68 +99,67 @@ Repairs vehicle body panels, welding, straightening, and surface finishing to re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié - Work permit） | 受雇于法国企业，需雇主申请工作许可，适合有雇主担保的技师。 |
-| Subclass Passeport Talent（Passeport Talent - Talent Passport） | 若拥有高级技能或经验，可申请人才护照，有效期4年，可携带家属。 |
-| Subclass Recherche emploi（Recherche d'emploi/création d'entreprise） | 法国毕业的外国学生可申请临时居留找工作或创业。 |
+| Subclass Salarié (Salarié - Work permit) | Employed by a French company requires the employer to apply for a work permit, suitable for technicians with an employer sponsorship. |
+| Subclass Passeport Talent (Passeport Talent - Talent Passport) | Those with advanced skills or experience can apply for a talent passport valid for 4 years and may bring family members. |
+| Subclass Recherche emploi (Recherche d'emploi/création d'entreprise) | Foreign students graduating from France can apply for temporary residence to find jobs or start businesses. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Body Repairer？**
-- 喜欢动手、对汽车维修有热情的人
-- 愿意接受学徒培训、偏好实践学习的人
-- 能承受体力劳动和一定工作压力的人
-
-**谁不适合学Body Repairer？**
-- 对体力劳动和脏污环境敏感的人
-- 希望办公室工作或高学历要求职业的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are passionate about car repair
+- Those willing to undergo apprenticeship training and prefer hands-on learning
+- People who can endure physical labor and a certain amount of work pressure
+
+**Who is not suited**
+- People sensitive to physical labor and dirty environments
+- People who prefer office work or high-education requirement careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for body repairers?**
+A: Entry-level annual income is about 22,000-28,000 euros, intermediate income is 28,000-36,000 euros, and seniors can reach up to 50,000 euros, depending on experience and skills.
+
+**Q: How can foreign body mechanics immigrate to France?**
+A: You can apply for work residency (Salarié) through employer sponsorship, or apply for a Passeport Talent passport if you possess advanced skills.
+
+**Q: What qualifications are required?**
+A: A CAP or Bac Pro diploma is usually required, which can be obtained through apprenticeships. Some senior positions may require BTS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Body Repairer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a body repairer?**
-答：Entry-level earns €22,000-€28,000, mid-level €28,000-€36,000, senior up to €50,000 annually, depending on experience.
-
-**问：How can a foreign body repairer immigrate to France?**
-答：Apply for a work permit (Salarié) with employer sponsorship, or Talent Passport (Passeport Talent) for highly skilled.
-
-**问：What education is required?**
-答：Typically a CAP or Bac Pro diploma, often via apprenticeship. Some positions require BTS.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

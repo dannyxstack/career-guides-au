@@ -1,59 +1,95 @@
-# Senior Broadacre Crop and Livestock Farm Worker（Senior Broadacre Crop and Livestock Farm Worker）职业分析 · 新西兰
+# Senior Broadacre Crop and Livestock Farm Worker — career analysis · New Zealand
 
-**职业代码：363115 – Senior Broadacre Crop and Livestock Farm Worker。**
+**Occupation code: 363115 (ANZSCO)**
 
-Supervises and performs crop production, livestock rearing, and daily farm operations on large New Zealand farms, including operating machinery, managing irrigation, monitoring health, and coordinating teams. This role offers migration opportunities via the Green List or Skilled Migrant Category.
+Responsible for overseeing and executing crop planting, livestock breeding, and daily operations on large farms in New Zealand, including operating agricultural machinery, managing irrigation systems, monitoring crop and animal health, and coordinating teams. This occupation may be eligible for migration to New Zealand via the Green List or a skills work visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰农业证书（Level 4） | 1年 | $6,000~$12,000（公立理工学院学费） |
-| 农业文凭（Level 5-6） | 2年 | $12,000~$24,000（私立培训机构可能更高） |
+| New Zealand Certificate in Agriculture (Level 4) | 1 year | $6,000~$12,000 (Public polytechnic tuition fees) |
+| Agricultural diploma (Level 5-6) | 2 years | $12,000~$24,000 (Private training providers may be higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业证书（NZ Certificate in Agriculture） | 新西兰资格认证局（NZQA） | 可选 | 通常要求Level 4，非强制但有利于就业 |
-| 农业机械操作许可证 | 新西兰交通局（NZTA）或相应培训机构 | 必备 | 操作重型机械如拖拉机、收割机需此证 |
-| 就业技能与移民英语考试成绩（如IELTS 6.5） | IELTS或其他认可机构 | 可选 | 技术移民需满足英语要求 |
+| Agricultural machinery operating license | New Zealand Transport Agency (NZTA) or corresponding training institution | Required | Operating heavy machinery like tractors and harvesters requires this license |
+| New Zealand Certificate in Agriculture (NZ Certificate in Agriculture) | New Zealand Qualifications Authority (NZQA) | Optional | Typically requires Level 4, not mandatory but beneficial for employment |
+| Employment skills and migration English test scores (e.g., IELTS 6.5) | IELTS or other recognized institutions | Optional | Skilled migration requires meeting English language requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。新西兰农业持续发展，对熟练农场工人的需求稳定。特别是技术驱动型农场需要高级工人管理现代化设备。就业前景良好，尤其在奶业、肉类和园艺产区。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. New Zealand's agricultural sector continues to grow, with steady demand for skilled farm workers. In particular, tech-driven farms require advanced workers to manage modern equipment. Job prospects are good, especially in dairy, meat, and horticulture regions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约$23-$28 |
-| 中级（3-5年） | $55,000~$70,000 | 有经验者可监督团队 |
-| 高级（5年以上） | $70,000~$90,000 | 负责农场整体运营，年薪可达$90k+ |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage: approximately $23-$28. |
+| Mid-level (3–5 years) | $55,000~$70,000 | Experienced personnel can supervise teams |
+| Senior (5+ years) | $70,000~$90,000 | Responsible for overall farm operations, annual salary up to $90k+ |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业生涯可从农场工人逐步晋升至农场经理、区域主管，甚至自己经营农场。积累经验后，可专注于特定作物或牲畜类型，或转向农业咨询、培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Traditional manual operations face the risk of automation and remote monitoring replacement, but AI-enhanced precision agriculture and data analysis capabilities will amplify the decision-making value of senior farm workers, significantly raising skill requirements for the role.
+
+A career can progress from farm worker to farm manager, regional supervisor, or even owning a farm. With experience, one can specialize in specific crops or livestock, or move into agricultural consulting and training roles.
+
+**Tasks most exposed to AI:**
+
+- Drive tractors for standardized farm operations such as seeding, fertilizing, and harvesting
+- Perform irrigation and fertilization operations based on fixed schedules or simple thresholds
+- Manual inspection and recording of crop growth status and livestock health conditions.
+- Manual operation of agricultural machinery for land leveling and material handling
+- Planting density and herd management decisions based on experience rather than data-driven methods
+
+**Where AI augments the role:**
+
+- Using drones and satellite imagery combined with AI algorithms to accurately identify crop diseases, pests, and nutrient-deficient areas
+- Real-time analysis of soil moisture, nutrients, and weather data via IoT sensors to optimize irrigation and fertilization plans
+- Using livestock management software to track each animal's health, reproduction, and feed conversion rate, aiding breeding decisions
+- Operate agricultural machinery with auto-guidance and variable rate technology to improve accuracy and efficiency
+- Using predictive models to optimize planting windows, rotation plans, and livestock marketing times
+
+**Human moat:**
+
+- Emergency judgment and hands-on repair skills for on-site mechanical failures, extreme weather, or animal disease outbreaks
+- Comprehensive understanding and long-term management experience of farm ecosystems (soil, crops, livestock)
+- Efficient communication and coordination with teams, external suppliers, farmers, and regulatory bodies.
+- Flexibility to handle non-standard tasks (e.g., irregular terrain or abnormal animal behavior)
+- strategic crop and livestock structure adjustment decisions based on local climate and market dynamics
+
+**Skills to build:**
+
+- Operation and optimization of precision agriculture tools (variable-rate fertilization, GPS navigation).
+- Data collection and analysis (Python/R, IoT platforms)
+- Operation and Data Interpretation of Agricultural Drones (Crop Protection, Surveying)
+- Advanced application of livestock management software (e.g., Herd, DairyComp)
+- Maintenance and troubleshooting of automated equipment (autonomous tractors, robotic milking)
+- Reading English technical documents and communicating with overseas suppliers
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Supervises and performs crop production, livestock rearing, and daily farm opera
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 职业在绿色清单第二梯队，工作2年后可申请居留；需满足薪资中位数要求（约$29.66/时） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用临时工作，之后可转居留路径 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，根据学历、收入、工作经验等打分；该职业需满足ANZSCO技能等级要求 |
+| Subclass Green List T2 (Green List Work to Residence) | Occupation in Tier 2 of the Green List, eligible for residence after 2 years of work; must meet the median wage requirement (approx. $29.66/hour) |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, for temporary work, with a path to residency later |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration based on education, income, work experience, etc.; this occupation must meet ANZSCO skill level requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Senior Broadacre Crop and Livestock Farm Worker？**
-- 热爱户外体力劳动，适应农场环境
-- 有农业机械操作经验或愿意学习
-- 具备基础英语沟通能力，接受偏远地区工作
-
-**谁不适合学Senior Broadacre Crop and Livestock Farm Worker？**
-- 不喜欢长时间户外工作或恶劣天气
-- 无法接受季节性工作节奏和流动性
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work, adapts to farm environment
+- Have experience in agricultural machinery operation or be willing to learn
+- Have basic English communication skills, willing to work in remote areas
+
+**Who is not suited**
+- Dislikes long outdoor work or bad weather
+- Unable to accept seasonal work pace and mobility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for Senior Broadacre Crop and Livestock Farm Workers in New Zealand?**
+A: Entry-level salary around NZ$45,000-55,000 per year, mid-level NZ$55,000-70,000, senior NZ$70,000-90,000. Salary varies by region and employer, but typically requires reaching the median wage (about NZ$61,000/year) to qualify for skilled migration.
+
+**Q: Can this occupation migrate to Australia? What are the pathways?**
+A: Yes. This occupation is on the Green List Tier 2, and you can apply for residency after 2 years of work; you can also apply via the Accredited Employer Work Visa (AEWV) or the Skilled Migrant Category (SMC, 6-point system). Must meet median wage and English requirements.
+
+**Q: What are the prerequisites for this job in New Zealand?**
+A: Typically requires agricultural-related certificates (not mandatory but helpful), machinery operation licenses (e.g., for tractors), and basic English communication skills. Some employers require over 2 years of relevant experience. Work visa holders need approved employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（1-2年）（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Senior Broadacre Crop and Livestock Farm Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Senior Broadacre Crop and Livestock Farm Worker in New Zealand?**
-答：Entry-level annual salary is around NZ$45,000-55,000, mid-level $55,000-70,000, and senior $70,000-90,000. Salaries vary by region and employer, but typically need to be above the median wage (approx. $61,000/year) for skilled migration.
-
-**问：Can this occupation lead to New Zealand residency? What are the pathways?**
-答：Yes. This occupation is on the Green List Tier 2, allowing residency after 2 years of work. It also qualifies for the Accredited Employer Work Visa (AEWV) and Skilled Migrant Category (SMC, 6-point system). Must meet median wage and English requirements.
-
-**问：What are the essential requirements for this job in New Zealand?**
-答：Typically requires a certificate in agriculture (recommended but not mandatory), a machinery license (e.g., tractor), and basic English communication skills. Some employers require 2+ years experience. Work visa holders need accreditation from an employer.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

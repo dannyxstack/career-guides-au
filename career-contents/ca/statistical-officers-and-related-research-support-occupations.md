@@ -1,58 +1,93 @@
-# Statistical officers and related research support occupations（Statistical officers and related research support occupations）职业分析 · 加拿大
+# Statistical officers and related research support occupations — career analysis · Canada
 
-**职业代码：12113 – Statistical officers and related research support occupations。**
+**Occupation code: 12113 (NOC)**
 
-Statistical officers and related research support occupations in Canada collect, analyze, and interpret data to support decision-making in government, business, and research institutions. They use statistical software and methodologies for surveys and experiments.
+In Canada, statistical officers and research support professionals collect, analyze, and interpret data to support decision-making for government, businesses, and research institutions. This role requires proficiency in statistical software and data analysis methods to support surveys and experimental designs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$80,000（学费因省份和学校而异，国际生更高） |
-| 硕士 | 2年 | $30,000~$60,000（研究型硕士通常有资助） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Tuition varies by province and school; higher for international students) |
+| Master's degree | 2 years | $30,000~$60,000 (Research master's degrees are usually funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计学或相关学科本科学位 | 大学 | 必备 | 要求至少本科，研究生学历更优 |
-| 专业统计师认证 (P.Stat.) | 加拿大统计学会 (SSC) | 可选 | 非强制但有利于晋升 |
+| Bachelor's degree in statistics or related field | University | Required | At least a bachelor's degree required, postgraduate degree preferred |
+| Professional Statistician Certification (P.Stat.) | Statistical Society of Canada (SSC) | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 11,000。随着大数据和数字化转型，加拿大对数据分析人才需求持续增长。政府、医疗、金融等领域均需统计支持，但竞争也较为激烈，预计未来5年就业增长率中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 11,000. With big data and digital transformation, demand for data analysts in Canada continues to grow. Sectors like government, healthcare, and finance need statistical support, but competition is strong, with moderate employment growth expected over the next 5 years.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 政府或研究机构起薪偏低 |
-| 中级（3-7年） | $60,000~$75,000 | 私营企业薪资更高 |
-| 高级（7年以上） | $80,000~$100,000 | 管理岗或专家岗可达六位数 |
+| Median salary | $58,677 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Low starting salary in government or research institutions |
+| Mid-level (3–7 years) | $60,000~$75,000 | Higher salaries in private enterprises |
+| Senior (7+ years) | $80,000~$100,000 | Management or specialist roles can reach six figures |
+| average salary | $64,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级统计员或研究助理起步，积累经验后可晋升为高级统计分析师、数据科学家或统计经理。部分人员可选择考取专业认证（如P.Stat.）以提升职业上限。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+the impact of AI on statistical officers and research support roles is mixed: data cleaning and basic analysis tasks are automated, but skills in advanced analysis, methodological innovation, and policy advice are enhanced by AI, raising the career bar but increasing value.
+
+Start as a junior statistician or research assistant, and progress to senior statistical analyst, data scientist, or statistical manager with experience. Some may choose to obtain professional certification (e.g., P.Stat.) to enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Automated data cleaning and preprocessing
+- Generates standard statistical tables and charts.
+- Basic hypothesis testing and descriptive statistics
+- Prepare periodic statistical reports
+
+**Where AI augments the role:**
+
+- Advanced predictive modeling using machine learning
+- AI-assisted design of complex sampling schemes and experiments
+- Automatic identification of data anomalies and causal inference
+- Natural language processing to analyze unstructured data
+- Simulation and scenario analysis to support decision-making
+
+**Human moat:**
+
+- Methodology innovation and model selection judgment
+- Explain statistical results to decision-makers and provide recommendations
+- Cross-domain problem definition and data requirement communication
+- Ethical compliance and data governance oversight
+- Discover unknown patterns and propose research hypotheses
+
+**Skills to build:**
+
+- Python/R programming and data analysis libraries
+- Machine learning and statistical modeling (e.g., scikit-learn)
+- Big data tools (SQL, Spark)
+- Data Visualization and Interactive Dashboards
+- Causal inference and experimental design
+- AI Ethics and Data Privacy Regulations
+
+**Key growth areas:**
 
 - Data Analysis
 - Government Statistics
@@ -61,67 +96,66 @@ Statistical officers and related research support occupations in Canada collect,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 符合NOC TEER 1要求，可通过联邦快速通道移民 |
-| Subclass PNP（Provincial Nominee Program） | 许多省份将统计人员列为需求职业，可走省提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 如有雇主担保，可申请工签积累加拿大经验 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Meet NOC TEER 1 requirements, eligible for Express Entry immigration |
+| Subclass PNP (Provincial Nominee Program) | Many provinces list statisticians as in-demand occupations, eligible for provincial nomination |
+| Subclass LMIA (Labour Market Impact Assessment) | With employer sponsorship, you can apply for a work visa to accumulate Canadian experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statistical officers and related research support occupations？**
-- 擅长数字和数据分析，注重细节的人
-- 有统计或数学背景，希望在加拿大政府或研究机构工作的人
-
-**谁不适合学Statistical officers and related research support occupations？**
-- 不喜欢重复性数据处理和报告撰写的人
-- 不愿考取专业认证或持续学习新统计工具的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good with numbers and data analysis, detail-oriented
+- People with statistics or mathematics background aiming to work in Canadian government or research institutions
+
+**Who is not suited**
+- Those who dislike repetitive data processing and report writing
+- Those unwilling to obtain professional certifications or continuously learn new statistical tools
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a statistical officer in Canada?**
+A: Junior: approx. CA$45,000-55,000; intermediate: CA$60,000-75,000; senior: CA$80,000-100,000. Government roles are usually lower than the private sector.
+
+**Q: How can a statistician immigrate to Canada?**
+A: This occupation is TEER 1, eligible for immigration via Federal Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., Ontario, BC). A Canadian employer sponsor can also apply for an LMIA work permit.
+
+**Q: What are the career prospects for statistical officers?**
+A: Can progress from junior analyst to senior statistician or data science manager. Obtaining professional statistician certification (P.Stat.) facilitates advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Statistical officers and related research support occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for statistical officers in Canada?**
-答：Entry-level CAD 45,000-55,000, mid-level CAD 60,000-75,000, senior CAD 80,000-100,000; government roles pay less than private sector.
-
-**问：How can statistical officers immigrate to Canada?**
-答：This TEER 1 occupation qualifies for Express Entry (FSW/CEC) and many Provincial Nominee Programs. Employer sponsorship can also lead to an LMIA work permit.
-
-**问：What is the career progression for statistical officers?**
-答：Progression from junior analyst to senior statistician or data science manager. Obtaining the Professional Statistician (P.Stat.) designation can enhance advancement.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

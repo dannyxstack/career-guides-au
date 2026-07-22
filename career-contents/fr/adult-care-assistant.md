@@ -1,60 +1,95 @@
-# Adult Care Assistant（Adult Care Assistant）职业分析 · FR
+# Adult Care Assistant — career analysis · France
 
-**职业代码：K1302 – Adult Care Assistant。**
+**Occupation code: K1302 (ROME)**
 
-Provides daily living assistance and companionship to elderly, disabled, or chronically ill adults, including personal hygiene, meals, and mobility support, typically in home or community settings.
+Providing daily care and companionship for the elderly, people with disabilities, or those with chronic illnesses, including personal hygiene, diet, mobility assistance, etc., usually working at home or in community institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 辅助护理 | 2年（CAP） | —（公立学校免费，材料费约500-3000欧元） |
-| Bac Pro 护理服务 | 3年（Bac Pro） | —（公立学校免费，注册及材料费约0-5000欧元） |
-| DEAES 国家文凭 | 1-2年（DEAES） | $1,000~$8,000（含实习，部分机构可提供融资） |
+| CAP Assisted Care | 2 years (CAP) | $0~$3,000 (Public schools are free, with material fees of about 500-3000 euros) |
+| Bac Pro Care Service | 3 years (Bac Pro) | $0~$5,000 (Public schools are free, with registration and material fees ranging from 0 to 5000 euros) |
+| DEAES National Diploma | 1-2 years (DEAES) | $1,000~$8,000 (Internships included; some institutions can provide financing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| DEAES（社会与家庭护理员国家文凭） | 法国国家劳动就业局 | 必备 | 必备职业资格，需完成培训并通过考核 |
-| CAP Accompagnant Éducatif Petite Enfance | 法国教育部 | 可选 | 虽针对儿童，但部分成人护理岗位承认 |
-| Bac Pro Services aux Personnes | 法国教育部 | 可选 | 可替代DEAES，但需额外实践认证 |
+| DEAES (National Diploma in Social and Family Caregivers) | French National Employment Agency | Required | Required professional qualifications, must complete training and pass assessments |
+| CAP Accompagnant Éducatif Petite Enfance | French Ministry of Education | Optional | Although it targets children, some adult care positions are recognized |
+| Bac Pro Services aux Personnes | French Ministry of Education | Optional | Can replace DEAES, but requires additional practice certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 350,000。法国老龄化加剧，居家护理需求持续增长；该职业被列为紧缺职业，预计未来十年就业机会显著增加。
+**Job demand: very high (★★★★½).** National workforce approx. 350,000. France's aging population is intensifying, and the demand for home care continues to grow; This occupation is classified as in short supply, with employment opportunities expected to increase significantly over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，公立机构约20000欧元，私立略低 |
-| 中级（3-8年） | $22,000~$27,000 | 含经验加成及夜班补贴 |
-| 高级（8年以上） | $26,000~$32,000 | 可晋升为团队主管或特护专员 |
+| Median salary | $24,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary is about 20,000 euros for public institutions, slightly lower for private institutions |
+| Mid-level (3–8 years) | $22,000~$27,000 | Includes experience bonus and night shift subsidy |
+| Senior (8+ years) | $26,000~$32,000 | Can be promoted to team leader or special care specialist |
+| average salary | $19,728 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级护理助理晋升为高级护理助理或团队负责人；通过继续教育可转向专业护理、社会工作者或护理管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
+
+Promotion from junior nursing assistant to senior nursing assistant or team leader; Continuing education allows for a transition to professional nursing, social worker, or nursing management positions.
+
+**Tasks most exposed to AI:**
+
+- Record daily care logs via AI voice assistants
+- Automated scheduling and route optimization to reduce manual dispatch
+- Using AI chatbots to handle basic customer inquiries
+- Automatically generating care plan templates to reduce paperwork
+
+**Where AI augments the role:**
+
+- Use wearable devices and AI analysis to monitor elderly activity and fall risk in real time
+- Using NLP tools to assist in recording client preferences and needs
+- AI-assisted medication reminders and dose tracking to improve accuracy
+- Using virtual reality (VR) training to enhance communication and emergency skills
+- AI-driven personalized nutrition and activity recommendations
+
+**Human moat:**
+
+- Physical assistance (e.g., moving, bathing, dressing) requires physical contact and strength
+- Emotional support and psychological comfort require empathy and trust
+- Intuitive judgment and on-the-spot adaptation in emergencies
+- Multi-Party Coordination and Communication with Families and Medical Teams
+- Cultural sensitivity and personalized care (non-standardized behaviors)
+
+**Skills to build:**
+
+- Operation and data interpretation of basic health monitoring equipment
+- Use of remote care platforms and electronic health record systems
+- Application of AI-assisted decision-making tools (e.g., risk assessment dashboards)
+- Enhanced communication and empathy skills with technological assistance
+- Basic data analysis: extracting key trends from AI reports
+- Digital literacy: learning new nursing software and wearable devices
+
+**Key growth areas:**
 
 - Aging population
 - Home care demand
@@ -63,68 +98,67 @@ Provides daily living assistance and companionship to elderly, disabled, or chro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 雇主担保工作居留，需提供长期劳动合同（CDI）并满足市场劳动力测试。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于紧缺职业或高技能人才，简化流程，无需劳动力测试。 |
-| Subclass Recherche emploi（Recherche emploi (Job Search Visa)） | 适合法国毕业生，可在此类职业中寻找工作。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employer-sponsored work residency requires a long-term employment contract (CDI) and meets market labor force testing. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to shortage occupations or highly skilled talent, streamlined process, no labor market test required. |
+| Subclass Recherche emploi (Recherche emploi (Job Search Visa)) | Suitable for French graduates seeking work in this field. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Adult Care Assistant？**
-- 有耐心和同理心的人
-- 喜欢直接与人接触并提供帮助
-- 希望在紧缺职业中稳定就业
-
-**谁不适合学Adult Care Assistant？**
-- 不适应体力劳动和轮班工作
-- 对低收入和职业晋升空间有限感到不满
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy
+- Enjoy direct contact with people and offering help
+- Aiming for stable employment in a shortage occupation
+
+**Who is not suited**
+- Not adapted to physical labor and shift work
+- Dissatisfaction with low income and limited career advancement opportunities
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for adult care assistants?**
+A: The pre-tax annual salary for junior employees is about 18,000–22,000 euros, and for senior employees it can reach up to 32,000 euros. Public institutions typically offer more stable income and benefits.
+
+**Q: How can third-country citizens immigrate to France through this employment?**
+A: This occupation is considered in short supply and can be immigrated through Salarié work residence (requiring employer sponsorship and labor force testing) or Passeport Talent (Essential Talent visa). Having certifications such as DEAES will significantly improve the success rate.
+
+**Q: What are the promotion paths for this profession?**
+A: You can be promoted from junior nursing assistant to senior nursing assistant, and then transition through continuing education to become a professional nurse (such as a nurse) or nursing management position.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Adult Care Assistant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for adult care assistants?**
-答：Entry-level gross annual salary is about €18,000-€22,000, while senior roles can reach €32,000. Public institutions offer more stable income and benefits.
-
-**问：How can third-country nationals immigrate to France through this occupation?**
-答：This occupation is in shortage; candidates can obtain a Salarié work permit (employer sponsorship and labor market test) or a Passeport Talent visa. Holding a DEAES or equivalent certification greatly improves chances.
-
-**问：What are the career progression paths for this role?**
-答：You can advance from junior to senior care assistant, and further via continuing education to become a specialized nurse or care manager.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

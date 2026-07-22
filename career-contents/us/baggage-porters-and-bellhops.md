@@ -1,60 +1,93 @@
-# Baggage Porters and Bellhops（Baggage Porters and Bellhops）职业分析 · 美国
+# Baggage Porters and Bellhops — career analysis · United States
 
-**职业代码：39-6011 – Baggage Porters and Bellhops。**
+**Occupation code: 39-6011 (SOC)**
 
-Handle baggage for travelers at transportation terminals or for guests at hotels or similar establishments, providing welcome and assistance.
+Transport and store luggage for guests at hotels, airports, train stations, etc., and provide welcome, directions, and taxi-hailing services.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（多数雇主仅要求高中毕业，无需正式教育费用） |
-| 在职培训 | 2周-1个月 | —（通常由雇主提供短期在岗培训，费用低或免费） |
+| High school diploma or equivalent | 0 years | $0~$0 (Most employers only require high school diploma, no formal education costs) |
+| On-the-job training | 2 weeks to 1 month | $0~$500 (Usually provided by the employer as short-term on-the-job training, low or no cost.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定执照或认证 | 无 | 可选 | 绝大多数雇主不要求正式执照或认证 |
-| 酒店业基础认证（可选） | 美国酒店与住宿协会（AHLA） | 可选 | 可提升竞争力，但非强制 |
+| No specific license or certification | None | Optional | Most employers do not require a formal license or certification |
+| Hospitality basic certification (optional) | American Hotel & Lodging Association (AHLA) | Optional | Can enhance competitiveness, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。美国旅游业与酒店业复苏带动该职业需求，但自动化与自助行李服务的发展可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Recovery in US tourism and hospitality drives demand for this occupation, but automation and self-service baggage services may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 时薪约$10.5-$14.5，含小费收入 |
-| 中级（3-7年） | $28,000~$38,000 | 时薪约$13.5-$18.3，小费较高 |
-| 高级（7年以上） | $32,000~$45,000 | 含主管或礼宾职能，小费丰厚 |
+| Median salary | $37,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$30,000 | Hourly wage approx. $10.5-$14.5, including tips |
+| Mid-level (3–7 years) | $28,000~$38,000 | Hourly wage approximately $13.5-$18.3, tips are relatively high |
+| Senior (7+ years) | $32,000~$45,000 | Includes supervisory or concierge functions, generous tips |
+| average salary | $38,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级门童晋升为行李主管或前台团队领导，部分人员转向酒店管理或礼宾岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Baggage handlers and bellhops, involving physical handling and basic greeting services, are significantly impacted by AI and automation; online self-service baggage tags and smart handling equipment gradually replace manual work, narrowing entry-level positions, but high-touch service and emergency response needs retain limited human value.
+
+Can advance from entry-level bellhop to luggage supervisor or front desk team leader; some move into hotel management or concierge roles.
+
+**Tasks most exposed to AI:**
+
+- Print baggage tags and check luggage via self-service kiosks and mobile apps
+- Use automatic transport robots or conveyor belt systems to deliver luggage to guest rooms or the luggage room.
+- Use smart access control and navigation systems to replace manual guiding and greeting
+- Provide standardized services like taxi booking and luggage storage via hotel apps or voice assistants
+
+**Where AI augments the role:**
+
+- AI translation tools assist in reception of foreign guests, improving communication efficiency
+- Smart scheduling system plans luggage transport routes to reduce waiting time
+- Personal mobile devices (e.g., tablets) for real-time guest preference queries and personalized service
+- Predictive analytics tools optimize peak-hour staffing
+- Augmented reality (AR) glasses help quickly identify guest information
+
+**Human moat:**
+
+- Empathy and adaptability when handling emergencies (e.g., damaged luggage, special guest requests)
+- Provide emotional interaction and high-star etiquette service (e.g., smiles, greetings, anniversary surprises)
+- Requires physical strength and fine operation (e.g., moving luggage racks, safely stacking fragile items)
+- Maintain brand image and guest relations in high-end venues
+
+**Skills to build:**
+
+- Use hotel management software and smart luggage systems.
+- Basic English and multilingual communication skills
+- Customer service and problem-solving skills
+- Learn to operate automated material handling equipment and perform simple troubleshooting
+- Proficient in hotel CRM tools to analyze guest preference data
+
+**Key growth areas:**
 
 - Travel & Tourism
 - Hotels
@@ -63,62 +96,64 @@ Handle baggage for travelers at transportation terminals or for guests at hotels
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 不适合，此职业通常不符合专业职业要求 |
-| Subclass EB-3（EB-3 Skilled/Unskilled Worker） | 理论上可申请EB-3非技术类，但雇主担保极少 |
+| Subclass H-1B (H-1B Specialty Occupation) | Not suitable; this occupation typically does not meet professional occupation requirements. |
+| Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Theoretically eligible for EB-3 unskilled category, but employer sponsorship is very rare |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Baggage Porters and Bellhops？**
-- 喜欢与人打交道、体力充沛的人
-- 注重服务细节、有耐心的人
-- 希望在酒店业从基层做起的人
+**Who is suited**
+- People who enjoy interacting with others and have high energy
+- People who are detail-oriented and patient in service
+- People who want to start from the ground up in the hospitality industry
 
-**谁不适合学Baggage Porters and Bellhops？**
-- 不喜欢体力劳动或久站的人
-- 期望高薪或快速晋升的人
+**Who is not suited**
+- Those who dislike physical labor or standing for long periods
+- People expecting high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the main sources of income for baggage handlers?**
+A: Basic hourly wage is low, but tips usually account for over half of total income.
+
+**Q: Can this occupation apply for a US work visa?**
+A: Extremely difficult, as this occupation typically does not require higher education, does not meet H-1B specialty occupation requirements, and few employers sponsor for EB-3 unskilled.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很难（★★★★½） |
-
-Baggage Porters and Bellhops属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the main source of income for baggage porters?**
-答：Base hourly wage is low, but tips often account for more than half of total income.
-
-**问：Can this job qualify for US work visas?**
-答：Very difficult, as it usually does not require higher education and does not meet H-1B specialty occupation criteria; EB-3 unskilled is also rarely sponsored.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,68 +1,98 @@
-# 工程造价师（Quantity Surveyor）职业分析 · 澳大利亚
+# Quantity Surveyor — career analysis · Australia
 
-**职业代码：233213 – Quantity Surveyor。**
+**Occupation code: 233213 (ANZSCO)**
 
-工程造价师（Quantity Surveyor）负责建设项目的成本估算、预算管理和合同价款结算。澳大利亚大型基建投资和住宅建设旺盛，合格QS供不应求，是高薪白领移民路径中竞争压力相对较小的职业之一。
+A Quantity Surveyor (QS) is responsible for cost estimation, budget management, and contract settlement on construction projects. Australia's large infrastructure investment and strong residential construction activity mean qualified QSs are in short supply, making this one of the higher-paying white-collar migration pathways with relatively lower competition.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Quantity Surveying / Construction Management | 3年（全日制） | $25,000~$45,000（澳洲大学学费；国际生约$30,000~$45,000/年） |
-| AIQS 会员评估（Graduate→AIQS Member） | 2~3年工作经验后 | $500~$1,500（AIQS年费约$500） |
-| CostX / Revit 专业培训 | 1~3个月 | $500~$2,000（软件培训费） |
-| AIQS / RICS 海外资质互认（移民） | 3~6个月 | $800~$2,000（评估费用） |
+| Bachelor of Quantity Surveying / Construction Management | 3 years (full-time) | $25,000~$45,000 (Australian university tuition fees; approximately AUD $30,000–$45,000 per year for international students) |
+| AIQS membership assessment (Graduate→AIQS Member) | After 2–3 years of work experience | $500~$1,500 (AIQS annual membership approximately $500) |
+| CostX / Revit professional training | 1–3 months | $500~$2,000 (Software training fees) |
+| AIQS / RICS overseas qualification recognition (migration) | 3–6 months | $800~$2,000 (Assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Quantity Surveying / Construction Economics | AIQS认可大学 | 必备 | 入行核心学历 |
-| AIQS Member (MAIQS) | Australian Institute of Quantity Surveyors | 可选 | 行业认可专业资质 |
-| RICS Member (MRICS) | Royal Institution of Chartered Surveyors | 可选 | 国际认可，海外背景移民常用 |
+| Bachelor of Quantity Surveying / Construction Economics | AIQS-accredited universities | Required | Core qualifications to enter the field |
+| AIQS Member (MAIQS) | Australian Institute of Quantity Surveyors | Optional | Industry-recognised professional qualification |
+| RICS Member (MRICS) | Royal Institution of Chartered Surveyors | Optional | Internationally recognised, commonly used by migrants with overseas backgrounds |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 12,000。联邦基建投资（2025-2029超过$1700亿）带动工程造价专业需求。住宅建设繁荣叠加建材价格波动，成本控制专家需求增加。JSA列为短缺（2025）。
+**Job demand: very high (★★★★★).** National workforce approx. 12,000. Federal infrastructure investment (over $170 billion from 2025–2029) is driving demand for quantity surveying professionals. A booming residential construction sector combined with fluctuating building material prices has increased the need for cost control specialists. JSA has listed this occupation as in shortage (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~800 个 | 全国，建筑和基建均有 |
-| Indeed | 200~450 个 | 含顾问公司 |
-| LinkedIn | 200~500 个 | 专业白领职位，LinkedIn活跃 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级QS（0~3年） | $65,000~$85,000 | 建筑公司或顾问公司 |
-| 中级QS（3~7年） | $85,000~$115,000 | Seek AU 均值约$90,000~$110,000（2026） |
-| 资深QS / 项目QS（7年+） | $115,000~$150,000 | 大型基建项目，含福利 |
-| QS经理 / 顾问合伙人 | $140,000~$200,000 | 顾问公司合伙人级别 |
+| Median salary | $115,284 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior QS (0–3 years) | $65,000~$85,000 | Construction firm or consultancy |
+| Mid-level QS (3–7 years) | $85,000~$115,000 | Seek AU average approximately $90,000–$110,000 (2026) |
+| Senior QS / Project QS (7+ years) | $115,000~$150,000 | Large infrastructure projects, including benefits |
+| QS Manager / Consultant Partner | $140,000~$200,000 | Partner-level at a consulting firm |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 5D BIM成本集成（BIM+QS）成为大型项目标准配置，掌握Revit+CostX的QS薪资溢价显著。独立顾问（consultant）市场活跃。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on quantity surveyors is mixed: automation tools handle quantity surveying, cost database analysis, and standard report generation quickly, but contract negotiation, dispute resolution, and on-site judgment still rely on human experience and responsibility; the core moat lies in legal compliance and stakeholder coordination.
+
+5D BIM cost integration (BIM + QS) is becoming standard on large projects; QS professionals skilled in Revit and CostX command a notable salary premium. The independent consultant market is active.
+
+**Tasks most exposed to AI:**
+
+- Extracting, calculating, and verifying quantity and cost data using automation software
+- Generate standardized cost budgets, cash flow forecasts, and draft final reports
+- Analog estimation and parametric cost analysis based on historical databases
+- Automated review of cost-related compliance in contract terms
+- Process automation of change orders and payment applications via RPA tools
+
+**Where AI augments the role:**
+
+- AI-assisted cost comparison and optimization suggestions for multiple design options
+- Real-time monitoring of project cost variances with early warnings and root cause analysis
+- Smart contract management platform supports clause search, risk identification, and negotiation strategy suggestions
+- Use predictive models to assess the impact of material price fluctuations on total project cost
+- Automatically generate visual cost dashboards to improve communication efficiency with clients and teams
+
+**Human moat:**
+
+- Strategy formulation and communication in complex contract negotiations, claims, and dispute resolution
+- Comprehensive judgment of non-standard project risks (e.g., geology, policy, supply chain disruptions)
+- Acting as the core coordinator and trusted intermediary among owners, contractors, and designers
+- Legal liability and professional stamp certification obligations for estimation results
+- Flexible decision-making for handling non-standard situations like site changes and rework
+
+**Skills to build:**
+
+- Integration of BIM Software (e.g., Navisworks, Revit) with Cost Data
+- Data analysis and predictive modeling (Python/R + machine learning)
+- Operation and tuning of AI contract review tools (e.g., Kira, LexisNexis)
+- Project digital delivery and integrated cost management platforms (e.g., Oracle Aconex)
+- Sustainable building and green cost assessment methods (e.g., LCC, LCA)
+- Stakeholder management and cross-cultural communication skills
+
+**Key growth areas:**
 
 - Infrastructure Project Cost Management
 - Residential & Commercial Construction
@@ -71,79 +101,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 189（Skilled Independent） | 积分制独立移民 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 189 (Skilled Independent) | Points-tested independent migration |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学工程造价师？**
-- 有工程造价、建筑成本或工程预算背景，目标技能移民来澳
-- 数字敏感、擅长合同谈判，有意在顾问公司发展
-- 有RICS或国内注册造价师资质，可快速获得AIQS认可
-
-**谁不适合学工程造价师？**
-- 完全没有建筑或工程背景（需要从本科重新学习）
-- 不愿意投标截止前加班应对高强度
-- 期望完全户外现场工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in quantity surveying, construction costing or engineering estimating, aiming for skilled migration to Australia
+- Numerically sensitive, skilled in contract negotiation, and interested in working for a consulting firm.
+- Holding RICS or a domestically registered quantity surveyor qualification can facilitate fast AIQS recognition
+
+**Who is not suited**
+- No construction or engineering background whatsoever (would need to restart from an undergraduate degree)
+- Unwilling to work overtime under high pressure ahead of tender deadlines
+- Expecting fully outdoor, on-site work only
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a quantity surveyor in Australia?**
+A: Mid-level QS annual salary approximately $85,000–$115,000. Senior QS and consulting firm partners can reach $150,000–$200,000.
+
+**Q: Is it easy to find work as a quantity surveyor in Australia?**
+A: Easy. Strong federal infrastructure investment, with Seek listing 400–800 positions; QS professionals with 3 years of experience are in high demand.
+
+**Q: Are quantity surveyor qualifications from overseas recognised in Australia?**
+A: Must be assessed by AIQS or RICS. Those with RICS qualifications can obtain mutual recognition quickly. Domestic quantity surveyor qualifications require supplementary English materials.
+
+**Q: Will QS be replaced by AI?**
+A: Partially. AI-assisted estimating (CostX/Buildsoft) is advancing, but contract legal judgement, risk assessment and client negotiation still require human input.
+
+**Q: Is an Australian local degree required?**
+A: Not necessarily. Overseas relevant qualifications can be assessed by AIQS/RICS for direct application; English proficiency is typically required at IELTS 6.5+.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 233213 数据 |
-| AIQS | 澳洲工程造价师协会 |
-| Seek AU | Quantity Surveyor 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-工程造价师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲工程造价师工资多少？**
-答：中级QS年薪约 $85,000~$115,000。资深QS和顾问公司合伙人可达 $150,000~$200,000。
-
-**问：澳洲QS容易找工作吗？**
-答：容易。联邦基建投资旺盛，Seek挂牌400~800个职位，有3年经验的QS抢手。
-
-**问：国内造价工程师澳洲认可吗？**
-答：需通过AIQS或RICS评估。有RICS资质者可快速互认。国内造价师资质需补充英文材料。
-
-**问：QS会被AI取代吗？**
-答：部分。AI辅助估价（CostX/Buildsoft）在发展，但合同法律判断、风险评估和甲方谈判仍需人工。
-
-**问：需要澳洲本地学位吗？**
-答：不一定。海外相关学历经AIQS/RICS评估认可后可直接申请，英语雅思通常要求6.5+。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Grill, Roast, and Fish Cook（Grill, Roast, and Fish Cook）职业分析 · DE
+# Grill, Roast, and Fish Cook — career analysis · Germany
 
-**职业代码：2932 – Grill, Roast, and Fish Cook。**
+**Occupation code: 2932 (KldB)**
 
-Specialist cook for grilled, roasted, and fish dishes, common in hotels, restaurants, and fast-food outlets. Requires skills in heat control, seasoning, and food preparation.
+Chef specializing in barbecue, frying, and fish dishes, commonly found in hotels, restaurants, and fast-food outlets. Must master heat control, seasoning techniques, and ingredient handling.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，无需学费） |
-| 职业学校（Berufsfachschule） | 2-3年 | —（公立学校通常免费，教材自费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance during training, no tuition fees) |
+| Vocational school (Berufsfachschule) | 2-3 years | $0~$2,000 (Public schools are usually free, but textbooks are self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 厨师职业资格证书（Ausbildungsabschluss） | 德国工商业协会（IHK） | 必备 | 完成双元制培训后获得 |
-| 外国学历认证（Anerkennung） | 德国联邦职业教育部（BIBB） | 必备 | 非欧盟学历需认证，通常要求等同德国培训 |
-| 师傅证书（Meister） | IHK | 可选 | 高级证书，可提升管理能力 |
+| Butcher's vocational qualification certificate (Ausbildungsabschluss) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Foreign qualification recognition (Anerkennung) | German Federal Ministry of Education and Research (BIBB) | Required | Non-EU qualifications require recognition, usually considered equivalent to German vocational training |
+| Master craftsman certificate (Meister) | IHK | Optional | Advanced certificate to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。德国餐饮业持续面临劳动力短缺，专业厨师需求稳定。随着休闲餐饮和旅游业的复苏，预计就业机会将持续增长。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. The German catering industry continues to face labor shortages, with stable demand for professional chefs. With the recovery of leisure dining and tourism, employment opportunities are expected to grow steadily.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，取决于餐厅档次 |
-| 中级（4-7年） | $32,000~$42,000 | 包括额外津贴和奖金 |
-| 高级（8年以上） | $40,000~$55,000 | 主厨或部门主管级别 |
+| Median salary | $35,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$32,000 | Annual pre-tax salary, depending on restaurant grade |
+| Mid-level (4-7 years) | $32,000~$42,000 | Including additional allowances and bonuses |
+| Senior (8+ years) | $40,000~$55,000 | Head Chef or Department Head level |
+| average salary | $37,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级厨师晋升为部门主管或主厨。通过进修（如Meister或技术学校）可提升管理能力或转向酒店管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Grill, fry, and fish cooks face a mixed outlook due to AI and automation: automatic grills and AI temperature control can handle some standard cooking processes, reducing demand for junior cooks; but high-end restaurants still rely on human chefs for heat control, creative seasoning, and ingredient handling. AI tools can assist in menu development and quality control, enhancing professional skills.
+
+Can progress from junior chef to department head or head chef. Further education (e.g., Meister or technical school) can enhance management skills or lead to hotel management roles.
+
+**Tasks most exposed to AI:**
+
+- Standardized barbecue temperature and time control
+- Basic frying processes (e.g., fries, pre-frozen foods)
+- Initial fish processing and descaling (if using automatic processing machine)
+- Order recording and dish tracking (via AI order system)
+- Cooking process monitoring and alerts (smart kitchen appliances handle automatically)
+
+**Where AI augments the role:**
+
+- AI recipe recommendation system optimizes seasoning based on customer preferences
+- Smart smoke and oil temperature monitoring system improves food safety
+- AI passenger flow forecasting aids preparation and dynamic menu adjustment
+- AI vision system provides real-time feedback on coloring level and ripeness
+- Digital cooking logs and quality control analysis
+
+**Human moat:**
+
+- Artistry of manual knife skills and food preparation
+- Intuitive judgment and adaptability regarding live fire conditions
+- Creative dish development and personalized flavor customization
+- Customer interaction and dining experience creation
+- Complex fish preparation (e.g., deboning whole fish, shaping)
+
+**Skills to build:**
+
+- AI cooking equipment operation and parameter adjustment
+- Digital management of food safety and HACCP
+- Basic data analysis (traffic forecasting, cost control)
+- Use of digital menu and recipe management systems
+- Innovative fusion cuisine and multicultural seasoning
+- Supply chain management and sustainable ingredient sourcing
+
+**Key growth areas:**
 
 - Skilled trade shortage
 - Gastronomy recovery
@@ -62,68 +98,67 @@ Specialist cook for grilled, roasted, and fish dishes, common in hotels, restaur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等学历人才，年薪门槛约43,800欧元（2024年），紧缺职业可降低。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于经认证的熟练工人，需雇主担保和职业认证。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许找工作和试工，适合有德语和职业经验者。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled talents, annual salary threshold approx. €43,800 (2024), lower for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applies to certified skilled workers, requires employer sponsorship and occupational certification. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking and trial work, suitable for those with German language skills and professional experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Grill, Roast, and Fish Cook？**
-- 热爱烹饪和餐饮行业
-- 能承受厨房高温和站立工作
-- 愿意接受双元制培训或职业认证
-
-**谁不适合学Grill, Roast, and Fish Cook？**
-- 不喜体力劳动和快节奏工作
-- 对油烟和高温环境敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cooking and the food industry.
+- Able to withstand kitchen heat and standing work
+- Willing to accept dual-system training or professional certification
+
+**Who is not suited**
+- Dislikes physical labor and fast-paced work
+- Sensitive to fumes and high-temperature environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a grill chef in Germany?**
+A: Pre-tax annual salary about €24,000-55,000, entry-level about €24,000-32,000, mid-to-senior can reach €40,000-55,000, depending on experience, restaurant type, and region.
+
+**Q: How can foreign chefs immigrate to Germany?**
+A: Must complete professional qualification recognition (Anerkennung) and obtain employer sponsorship. Can apply via the EU Blue Card (requires higher education) or the skilled immigration visa (Fachkräfteeinwanderungsgesetz).
+
+**Q: What training is needed to become a barbecue chef?**
+A: Usually complete 3 years of dual-system training, or study at a vocational school for 2-3 years. Low or no tuition fees, with a training allowance. Certification can also be obtained through work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Grill, Roast, and Fish Cook的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for grill cooks in Germany?**
-答：Gross annual salary ranges from €24,000 to €55,000; entry-level 24k-32k, experienced up to 55k depending on experience, restaurant type, and region.
-
-**问：How can a foreign chef immigrate to Germany?**
-答：Requires professional qualification recognition (Anerkennung) and a job offer. Options include EU Blue Card (for high qualification) or Skilled Worker Visa under the Skilled Immigration Act.
-
-**问：What training is needed to become a grill cook?**
-答：Typically a 3-year dual training (Ausbildung) or 2-3 years at a vocational school. Low or no tuition fees, with allowance during training. Work experience can also be recognized.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

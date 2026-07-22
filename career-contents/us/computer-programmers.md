@@ -1,58 +1,94 @@
-# Computer Programmers（Computer Programmers）职业分析 · 美国
+# Computer Programmers — career analysis · United States
 
-**职业代码：15-1251 – Computer Programmers。**
+**Occupation code: 15-1251 (SOC)**
 
-Computer programmers create, modify, and test code and scripts that allow computer applications to run. They work from specifications drawn up by software developers and may develop programs to store, locate, and retrieve data.
+Computer programmers write, modify, and test code to enable computer applications to run properly. They work from specifications set by software developers or web developers, and may develop programs for storing, locating, retrieving, and documenting data.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学学费水平） |
-| 副学士学位 | 2年 | $10,000~$25,000（社区学院学费） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Tuition levels at public universities) |
+| Associate degree | 2 years | $10,000~$25,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士学位 | 美国大学 | 可选 | 最常见要求 |
-| 编程认证（如Oracle Java认证） | Oracle | 可选 | 非必需但有利 |
+| Bachelor's degree in computer science | U.S. universities | Optional | Most common requirement |
+| Programming certification (e.g., Oracle Java certification) | Oracle | Optional | Not required but beneficial. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 135,530。美国计算机程序员就业前景总体稳定，但受自动化影响，部分低端编程岗位可能减少。高端程序员在金融、医疗、科技领域需求仍强。预计2022-2032年岗位数量下降约10%，但仍需补充退休人员。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 135,530. US computer programmer employment outlook is generally stable, but some low-end programming jobs may decline due to automation. Demand for high-end programmers remains strong in finance, healthcare, and technology. Employment is projected to decline about 10% from 2022-2032, but replacement needs persist.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$70,000 | 入门级薪资 |
-| 中级（3-7年） | $70,000~$100,000 | 中等经验 |
-| 高级（7年以上） | $100,000~$140,000 | 高级或专家 |
+| Median salary | $100,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$70,000 | Entry-level salary |
+| Mid-level (3–7 years) | $70,000~$100,000 | Intermediate experience |
+| Senior (7+ years) | $100,000~$140,000 | Senior or expert |
+| average salary | $105,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级程序员可向高级程序员、软件工程师或架构师发展，也可转向项目管理或技术管理岗位。积累经验后可成为团队领导或技术总监。部分程序员转向数据科学或AI领域。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI greatly improves programming efficiency, but low-level coding tasks are acceleratedly replaced; programmers need to shift to architecture design, complex system maintenance, and AI tool development, otherwise face compression risk.
+
+Junior programmers can advance to senior programmers, software engineers, or architects, or transition to project management or technical management roles. With experience, they can become team leads or technical directors. Some programmers move into data science or AI fields.
+
+**Tasks most exposed to AI:**
+
+- Write standard algorithms and business logic code
+- Fix common grammar errors and simple bugs.
+- Generate unit tests and basic documentation
+- Maintain boilerplate code in legacy codebases
+- Perform code formatting and static analysis
+
+**Where AI augments the role:**
+
+- Use AI code hints to accelerate complex module development
+- Use AI-assisted debugging tools to quickly locate deep-seated bugs
+- Generating initial architecture from natural language description of requirements
+- Automated code review and performance optimization suggestions
+- Build and fine-tune AI models to solve domain-specific problems
+
+**Human moat:**
+
+- System design and architecture decision-making ability
+- Cross-team collaboration and requirement communication skills
+- Creativity to handle unstructured, ambiguous problems
+- Review and security hardening of AI-generated code
+- Domain knowledge and algorithm innovation (e.g., invention of new algorithms)
+
+**Skills to build:**
+
+- Use of AI/ML frameworks (e.g., LangChain, TensorFlow)
+- Prompt engineering and AI toolchain construction
+- Large-scale codebase refactoring and system integration
+- Cloud-native development (Kubernetes, Serverless)
+- Secure coding and AI governance
+- Technical documentation and knowledge management
+
+**Key growth areas:**
 
 - Automation
 - Cloud Computing
@@ -61,65 +97,64 @@ Computer programmers create, modify, and test code and scripts that allow comput
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常用工作签证，要求学士学位，每年配额有限，需抽签。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有高等学位或特殊能力的专业人士，需PERM劳工证。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于技术工人、专业人士，需PERM劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Most common work visa, requires bachelor's degree, annual quota limited, subject to lottery. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For professionals with advanced degrees or exceptional skills, requires a PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | For skilled workers and professionals, requires PERM labor certification. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Programmers？**
-- 喜欢逻辑思考和解决问题的人
-- 对编程有热情，愿意持续学习新技术
-- 能承受一定工作压力，适应项目周期
-
-**谁不适合学Computer Programmers？**
-- 不喜欢长时间面对电脑和编码工作
-- 不愿随着技术更新而学习新技能
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy logical thinking and problem solving
+- Passionate about programming, willing to continuously learn new technologies
+- Able to handle certain work pressure and adapt to project cycles
+
+**Who is not suited**
+- Dislikes long hours in front of a computer and coding work
+- Unwilling to learn new skills as technology updates.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a computer programmer?**
+A: According to the US Bureau of Labor Statistics, the median annual wage for computer programmers was approximately USD 97,800 in 2022. Entry-level positions range from USD 45,000 to 70,000, while senior roles can exceed USD 140,000. Salaries vary significantly by region, industry, and experience.
+
+**Q: What are the main pathways for computer programmers to immigrate to the US?**
+A: Common pathways include the H-1B work visa (requires bachelor's degree, lottery), EB-2 or EB-3 employment-based green cards (requires PERM labor certification). Exceptional talent may apply for the O-1 visa. Canadian and Mexican citizens may consider the TN visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer Programmers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for computer programmers?**
-答：According to BLS, the median annual wage for computer programmers was about $97,800 in 2022. Entry-level positions range from $45,000 to $70,000, while senior roles can exceed $140,000. Salaries vary by location, industry, and experience.
-
-**问：What are the main immigration pathways for computer programmers to the US?**
-答：Common pathways include H-1B visa (requires bachelor's degree, lottery), EB-2 or EB-3 green card (requires PERM labor certification). Outstanding individuals may apply for O-1 visa. For Canadian and Mexican citizens, TN visa is an option.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

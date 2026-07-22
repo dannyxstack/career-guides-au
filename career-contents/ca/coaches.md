@@ -1,60 +1,95 @@
-# Coaches（Coaches）职业分析 · 加拿大
+# Coaches — career analysis · Canada
 
-**职业代码：53200 – Coaches。**
+**Occupation code: 53200 (NOC)**
 
-Swimming coaches/instructors work in pools, community centers, and private swim schools across Canada, teaching swimming skills and water safety. This occupation is eligible for immigration through PNP (e.g., OINP, BC PNP) or Express Entry, requiring certification and language proficiency.
+Swimming instructors work in pools, community centers, and private swimming schools in Canada, teaching swimming skills to all ages and promoting water safety. This occupation can lead to immigration through Provincial Nominee Programs (e.g., Ontario OINP, BC PNP) or Express Entry, requiring certification and language proficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（大多岗位仅需高中文凭） |
-| 教练培训与认证 | 6个月-1年 | $500~$2,000（如NCCP、救生员及水上安全证书费用） |
+| High school graduation | None | $0~$0 (Most positions only require a high school diploma) |
+| Coach Training and Certification | 6 months to 1 year | $500~$2,000 (e.g., NCCP, lifeguard and water safety certification fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 救生员证书 | 加拿大红十字会或 Lifesaving Society | 必备 | 入门必需，初级教学必备 |
-| NCCP 游泳教练认证 | 加拿大游泳协会 | 可选 | 竞技教练推荐，含理论及实践培训 |
-| ECA学历认证（如需） | WES或IQAS等 | 必备 | 海外学历移民需认证 |
-| 语言成绩（IELTS / CELPIP） | IRCC认可机构 | 必备 | 移民申请必需，CLB 7以上优先 |
+| Lifeguard certificate | Canadian Red Cross or Lifesaving Society | Required | Required for entry, essential for initial teaching |
+| ECA credential assessment (if needed) | WES or IQAS, etc. | Required | Overseas degree assessment required for immigration |
+| Language test scores (IELTS / CELPIP) | IRCC-recognized institution | Required | Required for immigration applications, CLB 7 or above preferred. |
+| NCCP Swimming Coach certification | Swimming Canada | Optional | Competitive coaching recommendations, including theoretical and practical training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★½☆）。** 全国从业人数约 4,500。加拿大对游泳教练的需求稳定，受水上安全意识提升和移民增长推动。岗位集中在人口密集省份（安省、BC、魁省），兼职比例高；全职机会多见于竞技俱乐部和大型社区中心。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. Demand for swimming coaches in Canada is stable, driven by increased water safety awareness and immigration growth. Jobs are concentrated in populous provinces (Ontario, BC, Quebec) with a high proportion of part-time positions; full-time opportunities are more common in competitive clubs and large community centers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 兼职时薪为主，约$15-$20/小时 |
-| 中级（3-7年） | $35,000~$45,000 | 含全职及管理兼职团队 |
-| 高级（7年以上） | $45,000~$65,000 | 竞技教练、俱乐部主管或自营 |
+| Median salary | $57,200 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Part-time hourly wage mainly, approx $15-$20/hour |
+| Mid-level (3–7 years) | $35,000~$45,000 | Includes full-time and managing part-time team |
+| Senior (7+ years) | $45,000~$65,000 | Sports coach, club director, or self-employment |
+| average salary | $68,640 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级教练可借积累教学经验晋升为高级教练、教练主管或游泳学校经理；竞争激烈的竞技方向需考取加拿大游泳教练认证（NCCP）并参与协会培训，向国家队教练发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core of a swim coach's occupation relies on interpersonal interaction, safety supervision, and personalized instruction, making it hard for AI to fully replace. However, AI tools can assist with lesson planning, progress tracking, and marketing; entry-level competition may intensify due to AI-assisted course platforms.
+
+Junior coaches can progress to senior coaches, coaching supervisors, or swimming school managers by accumulating teaching experience; competitive high-performance paths require obtaining the NCCP swimming coaching certification and participating in association training to develop toward national team coaches.
+
+**Tasks most exposed to AI:**
+
+- Automatic video analysis and feedback for basic swimming strokes
+- Automatic recording and report generation of student progress data.
+- Pool safety monitoring and warning (AI camera detects anomalies).
+- Automation of course schedule and appointment management
+
+**Where AI augments the role:**
+
+- AI-generated personalized training plans and progress tracking
+- Use AI video analysis tools to optimize swimming stroke correction
+- Handling common inquiries and sales via AI chatbot
+- Using AI to generate multilingual course descriptions and safety instructions
+- Predict dropout risk based on learner data and intervene early
+
+**Human moat:**
+
+- On-site safety monitoring and emergency response
+- Adjusting teaching methods dynamically based on learners' emotions and physical condition.
+- Build trust and long-term incentive relationships
+- Handling emergencies (e.g., cramps, panic)
+- Certification compliance and responsibility assumption
+
+**Skills to build:**
+
+- Use of AI video analysis tools (e.g., Coach's Eye)
+- Data literacy and student management system operation
+- Social media marketing and AI content generation
+- Advanced first aid and lifesaving certification
+- Multilingual communication skills.
+- Ability to design personalized teaching plans
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Express Entry
@@ -63,68 +98,67 @@ Swimming coaches/instructors work in pools, community centers, and private swim 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW / CEC)） | 需满足NOC TEER 2职位的语言及学历要求，工作满1年可入池，CRS分数460+有希望 |
-| Subclass PNP（Provincial Nominee Program） | 如安省OINP Human Capital、BC PNP Skills Immigration，需雇主offer或相关工作经验，有省提名加600分 |
-| Subclass AIP（Atlantic Immigration Program） | 适合大西洋四省雇主担保，无需LMIA，流程较快 |
+| Subclass EE (Express Entry (FSW / CEC)) | Must meet language and education requirements for NOC TEER 2 positions; eligible for pool after 1 year of work; CRS score of 460+ is promising |
+| Subclass PNP (Provincial Nominee Program) | E.g., Ontario OINP Human Capital, BC PNP Skills Immigration, requiring employer offer or relevant work experience, with provincial nomination adding 600 points. |
+| Subclass AIP (Atlantic Immigration Program) | Suitable for Atlantic Immigration Program employer sponsorship, no LMIA required, faster processing |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Coaches？**
-- 热爱水上运动、善于与人沟通，尤其是儿童教学
-- 已持有国际认可救生或教练证书，有意向通过省提名移民
-- 适应兼职或季节性工作模式，追求工作生活平衡
-
-**谁不适合学Coaches？**
-- 期望高薪及快速晋升者
-- 无法适应周末及节假日排班者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about water sports and skilled in communication, especially teaching children
+- Already holds internationally recognized lifeguard or coaching certificates, intending to immigrate through provincial nomination
+- Adaptable to part-time or seasonal work patterns, seeking work-life balance
+
+**Who is not suited**
+- Those expecting high salary and fast promotion
+- Those unable to adapt to weekend and holiday shifts.
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a swimming coach in Canada?**
+A: Part-time entry-level approx. C$28,000-35,000; full-time mid-level C$35,000-45,000; senior athletic coach can reach C$45,000-65,000. Most positions are hourly.
+
+**Q: What Canadian immigration pathways are available for swimming coaches?**
+A: Can immigrate via Express Entry (FSW/CEC), provincial nomination (e.g., Ontario, BC), or Atlantic Immigration Program. Requires CLB 7 language, ECA, and 1 year of relevant experience.
+
+**Q: What certifications are needed to become a swimming coach in Canada?**
+A: Must hold a lifeguard certificate (Red Cross/Lifesaving Society); competitive coaches recommend NCCP certification; some employers require CPR first aid certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Coaches的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for swimming coaches in Canada?**
-答：Entry-level part-time: CAD 28,000-$35,000; Mid-level full-time: $35,000-$45,000; Senior competitive coaches: $45,000-$65,000. Most are paid hourly.
-
-**问：Which Canadian immigration pathways are available for swimming coaches?**
-答：Eligible pathways include Express Entry (FSW/CEC), Provincial Nominee Programs (e.g., OINP, BC PNP), and Atlantic Immigration Program. Requirements: language CLB7, ECA, and 1 year of work experience.
-
-**问：What certifications are needed to work as a swimming coach in Canada?**
-答：Mandatory: Lifeguard certification (Red Cross/Lifesaving Society); recommended for competitive coaching: NCCP; some employers require CPR/First Aid.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

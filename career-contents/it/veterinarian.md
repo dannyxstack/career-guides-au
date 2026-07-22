@@ -1,60 +1,96 @@
-# Veterinarian（Veterinarian）职业分析 · IT
+# Veterinarian — career analysis · Italy
 
-**职业代码：2250 – Veterinarian。**
+**Occupation code: 2250 (ISCO08)**
 
-Veterinarians diagnose, treat, and prevent animal diseases and injuries, covering pets, livestock, and wildlife, and also contribute to public health and food safety.
+Veterinarians diagnose, treat, and prevent animal diseases and injuries, including pets, livestock, and wildlife, also involving public health and food safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（兽医科学） | 5年（本硕连读） | $1,000~$4,000（公立大学每年学费，视家庭收入而定） |
-| 国家资格考试 | 通过考试后注册 | $200~$500（考试及注册费用） |
-| 专科进修（可选） | 3-4年 | $5,000~$20,000（专科培训课程费用） |
+| Bachelor's degree (Veterinary Science) | 5 years (integrated bachelor's and master's) | $1,000~$4,000 (Annual tuition at public universities, based on family income) |
+| National Qualification Examination | Register after passing the exam. | $200~$500 (Exam and registration fees) |
+| Specialist Study (Optional) | 3-4 years | $5,000~$20,000 (Specialist training course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医执业资格 | 意大利卫生部 | 必备 | 完成5年本硕连读课程后通过国家考试，注册到兽医执业名册 |
-| 专业认证（专科） | 意大利兽医专业委员会 | 可选 | 如外科、内科等专科认证，非强制但提升竞争力 |
-| 欧盟境内执业认可 | 欧盟指令 | 必备 | 欧盟认证的兽医资格可在意大利直接注册 |
+| Veterinary practice qualification | Italian Ministry of Health | Required | Complete a 5-year integrated bachelor's and master's program, pass national exams, and register on the veterinary practitioners register |
+| Professional recognition within the EU | European Union Directives | Required | EU-accredited veterinary qualifications can be directly registered in Italy |
+| Professional certification (specialist) | Italian Veterinary Professional Committee | Optional | Specialty certifications (e.g., surgery, internal medicine) are non-mandatory but enhance competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。意大利兽医行业需求稳定，宠物饲养量增长推动小动物兽医需求，同时畜牧业对食品安全和动物福利要求提高，但北部地区岗位集中，南部机会相对较少。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. Demand in Italy's veterinary industry is stable, with growth in pet ownership driving demand for small animal vets, while livestock farming raises requirements for food safety and animal welfare, but jobs are concentrated in the north, with fewer opportunities in the south.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$35,000 | 公立机构或私人诊所助理兽医 |
-| 中级（4-9年） | $35,000~$50,000 | 有经验的主治兽医 |
-| 高级（10年以上） | $50,000~$80,000 | 专科医生或诊所所有者 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$35,000 | Assistant veterinarian in public institutions or private clinics |
+| Intermediate (4-9 years) | $35,000~$50,000 | Experienced lead veterinarian |
+| Senior (10+ years) | $50,000~$80,000 | Specialist doctor or clinic owner |
+| average salary | $46,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 新人通常从助理兽医起步，积累经验后可担任主治兽医或专科医生（如外科、眼科），也可转向制药、食品安全或公共卫生领域，或开设私人诊所。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
+
+Newcomers typically start as veterinary assistants, gaining experience to become lead veterinarians or specialists (e.g., surgery, ophthalmology), or transition to pharmaceuticals, food safety, public health, or private practice.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of imaging (X-ray/ultrasound) assisted by AI
+- Standardized medical record entry and prescription generation
+- Automated appointment management for routine vaccinations and deworming
+- Automated interpretation of lab sample analysis (blood count/chemistry)
+- Simple symptom consultation in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide reference for rare case identification
+- Robot-assisted surgery improves precision in minimally invasive procedures
+- Continuous monitoring of patient rehabilitation data via smart wearable devices
+- Big data analytics to predict disease outbreaks and medication trends
+- Personalized medical plan generation (based on genetics and medical history)
+
+**Human moat:**
+
+- Manual dexterity and adaptability in complex surgeries
+- Empathetic communication and trust-building with pet owners.
+- Cross-species clinical judgment (especially for large animals)
+- Ethical decisions (e.g., timing of euthanasia)
+- On-site handling ability in emergency situations
+
+**Skills to build:**
+
+- Operating AI diagnostic imaging tools and verifying results
+- Telemedicine platform usage and data analysis
+- Genomics and precision medicine knowledge
+- Basics of animal behavior and psychology
+- Advanced management of digital health records (EHR)
+- Surgical Robot Collaboration Skills
+
+**Key growth areas:**
 
 - Pet ownership growth
 - Food safety
@@ -63,68 +99,67 @@ Veterinarians diagnose, treat, and prevent animal diseases and injuries, coverin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需有工作合同且年薪不低于欧盟标准（意大利约3.5万欧元）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额制工作签证，适用于非欧盟公民，需雇主担保，兽医属于允许职业。 |
-| Subclass Autonomous Work Visa（Self-Employment Visa） | 适合计划开设私人诊所的兽医，需提供商业计划书和资金证明。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a work contract with annual salary not below the EU threshold (about €35,000 in Italy). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota-based work visa for non-EU citizens, requires employer sponsorship, veterinary profession is eligible. |
+| Subclass Autonomous Work Visa (Self-Employment Visa) | Suitable for veterinarians planning to open a private clinic, requiring a business plan and proof of funds. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian？**
-- 热爱动物并对动物福利有强烈责任感的人
-- 具备扎实的医学知识和动手能力的人
-- 能承受工作压力和处理紧急情况的人
-
-**谁不适合学Veterinarian？**
-- 对动物血液或手术感到不适的人
-- 不擅长与宠物主人沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong passion for animals and a sense of responsibility for animal welfare
+- Individuals with solid medical knowledge and hands-on skills
+- Can withstand work pressure and handle emergencies
+
+**Who is not suited**
+- People who are uncomfortable with animal blood or surgical procedures
+- People Not Skilled in Communicating with Pet Owners
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a veterinarian in Italy?**
+A: Junior veterinarians earn approx. €26,000-35,000/year, mid-level €35,000-50,000, senior or specialist up to €50,000-80,000. Private practice owners may earn more.
+
+**Q: How can non-EU veterinarians immigrate to Italy?**
+A: Available via EU Blue Card (requires a job contract and a relatively high salary) or the annual Decreto Flussi quota work visa. Self-employment visa applies for opening a clinic. EU citizens can directly have their qualifications recognised.
+
+**Q: What qualifications are needed to become a veterinarian in Italy?**
+A: Requires completion of a 5-year integrated Bachelor's and Master's program in veterinary science, and passing the national exam to obtain a practicing license. Some universities also offer English-taught programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Veterinarian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a veterinarian in Italy?**
-答：Entry-level veterinarians earn about €26,000-35,000 per year, mid-level €35,000-50,000, and senior or specialists can reach €50,000-80,000. Private practice owners may earn more.
-
-**问：How can non-EU veterinarians migrate to Italy?**
-答：Through the EU Blue Card (requires a job offer and above-average salary) or the annual Decreto Flussi quota work visa. Self-employment visa is for opening a clinic. EU citizens can have qualifications recognized directly.
-
-**问：What education is required to become a veterinarian in Italy?**
-答：A 5-year integrated master's degree in Veterinary Science, followed by a national exam for licensure. Some universities offer English-taught programs.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,72 +1,102 @@
-# 起重指挥/索具工（Construction Rigger）职业分析 · 澳大利亚
+# Dogman / Construction Rigger — career analysis · Australia
 
-**职业代码：821711 – Construction Rigger。**
+**Occupation code: 821711 (ANZSCO)**
 
-起重指挥（Dogman）负责指挥起重机操作员移动和定位重型设备及结构件；索具工（Rigger）负责连接、绑扎、固定各类起重索具。在澳大利亚，两个职能通常持有同一资质（DG/RB证书），是矿业、风电场建设、大型工程的核心技工之一。
+A Dogman directs crane operators in moving and positioning heavy equipment and structural components; a Rigger connects, secures and attaches lifting gear and rigging equipment. In Australia, both roles are typically covered by a single qualification (DG/RB licence) and are key tradespeople in mining, wind farm construction and major engineering projects.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Cert III in Rigging (CPCCRI3001 等) / 学徒或短期课程 | 12~24个月（含OJT） | $1,500~$4,000（Rigging课程非传统4年学徒，多为短期结合工作经验；考取各级HRWL证书另需考试费$300~$600/级） |
-| Dogging Licence (DG) 短课程 | 1~5天（理论+实操） | $600~$1,500（最基础的起重指挥资质，可单独持有） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（适用于有海外rigging经验的申请人） |
+| Cert III in Rigging (CPCCRI3001, etc.) / apprenticeship or short course | 12–24 months (including OJT) | $1,500~$4,000 (Rigging courses are not traditional 4-year apprenticeships — most are short programmes combined with work experience; obtaining each level of HRWL licence requires a separate exam fee of $300–$600 per level) |
+| Dogging Licence (DG) short course | 1–5 days (theory + practical) | $600~$1,500 (The most basic rigging and signalling qualification; can be held as a standalone credential) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (For applicants with overseas rigging experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| High Risk Work Licence – Dogging (DG) | SafeWork / WorkSafe 各州 | 必备 | 最基础起重指挥资质，入行起点 |
-| High Risk Work Licence – Rigging Basic (RB) | 各州 | 可选 | 含DG功能，提升薪资和就业面 |
-| High Risk Work Licence – Rigging Intermediate (RI) / Advanced (RA) | 各州 | 可选 | 大型工程、预应力和临时建筑需要 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| High Risk Work Licence – Dogging (DG) | SafeWork / WorkSafe (varies by state) | Required | The most basic rigging/dogging qualification; the entry-level starting point |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| High Risk Work Licence – Rigging Basic (RB) | All states | Optional | Includes DG functionality, enhancing salary and employment prospects |
+| High Risk Work Licence – Rigging Intermediate (RI) / Advanced (RA) | All states | Optional | Required for large-scale engineering, prestressed and temporary structures |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 14,000。矿业、基建和风电场建设带动持续需求。WA/QLD矿区FIFO岗需求旺盛，技工类岗位填补率仅54.3%（JSA 2025）。
+**Job demand: very high (★★★★★).** National workforce approx. 14,000. Mining, infrastructure and wind farm construction drive sustained demand. FIFO roles in WA/QLD mining regions are in high demand, with a skilled trade vacancy fill rate of only 54.3% (JSA 2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~450 个 | 含矿业FIFO和风电场岗 |
-| Indeed | 100~300 个 | 含承包商 |
-| LinkedIn | 50~150 个 | 偏工业和矿业 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| Dogman / 初级Rigger（持DG证，0~2年） | $65,000~$88,000 | Glassdoor Sydney ~$80k；一般建筑工程 |
-| 中级Rigger（RB证，3~8年） | $88,000~$115,000 | Vic EBA Grade 1=$60.46/hr≈$125k；全国均值约$90k~$100k |
-| 高级Rigger（RI/RA证，8年+） | $110,000~$140,000 | 大型工程和预应力结构专项 |
-| 矿业FIFO / 风电场建设（WA/QLD） | $130,000~$190,000 | 含FIFO津贴、轮班、风电场高空津贴 |
+| Median salary | $151,320 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Dogman / Entry-level Rigger (DG licence, 0–2 years) | $65,000~$88,000 | Glassdoor Sydney ~$80k; general building construction |
+| Intermediate Rigger (RB licence, 3–8 years) | $88,000~$115,000 | Vic EBA Grade 1 = $60.46/hr ≈ $125k; national average approximately $90k–$100k |
+| Senior Rigger (RI/RA licence, 8+ years) | $110,000~$140,000 | Large-scale engineering and post-tensioned/prestressed structures specialisation |
+| Mining FIFO / wind farm construction (WA/QLD) | $130,000~$190,000 | Includes FIFO allowance, shift loadings, and wind farm elevated work allowance |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 风电场大规模扩建（2030年前澳大利亚计划装机82GW）是最大新增需求驱动。矿业维持稳定基本盘。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Crane signalers/riggers are hard to fully replace by AI in physical operations and on-site judgment, but with AI-assisted remote crane operation and automatic rigging planning systems, some tasks will be automated, reducing entry opportunities for newcomers; experienced workers can enhance competitiveness by learning digital tools, showing mixed prospects.
+
+Large-scale wind farm expansion (Australia plans 82 GW of installed capacity by 2030) is the biggest driver of new demand. Mining provides a stable baseline.
+
+**Tasks most exposed to AI:**
+
+- Using visual sensors and AI algorithms to automatically calculate lifting angles, sling lengths, and center of gravity
+- Use electronic tags and RFID to auto-identify and record rigging inspection status
+- Standardized repetitive lifting operations performed by remote operators or autonomous driving systems
+- AI generates lifting plans and risk assessment reports, replacing manual paperwork
+- Real-time sensor data-based automatic load swing suppression and path planning
+
+**Where AI augments the role:**
+
+- AI-Assisted Real-Time Monitoring of Rigging Wear and Load Stress, Providing Early Warning of Fracture Risk
+- Augmented reality (AR) helmets display hoisting paths, obstacles, and weight distribution to improve operational efficiency
+- AI analyzes historical accident data to generate personalized safety reminders and optimization suggestions
+- Digital twin technology to simulate complex lifting scenarios and determine optimal plans
+- Automated document management and compliance checking tools reduce administrative burden
+
+**Human moat:**
+
+- Instant judgment and adaptability in complex on-site environments, such as sudden wind changes or ground settlement
+- Non-verbal coordination and tacit understanding with crane operators, site managers, etc.
+- Intuitive alertness and rapid intervention for unsafe behaviors and potential hazards
+- High-precision manual tying and securing of non-standard components under extreme conditions
+- Practical understanding and on-site execution of regulations and standards (e.g. AS 2550 series)
+
+**Skills to build:**
+
+- Learning to use crane remote monitoring systems and automated lifting planning software
+- Proficiency in applying augmented reality (AR) and digital twin tools on construction sites
+- Obtain advanced rigging engineering or complex lift design certification through online courses
+- Basic Data Analysis and Security Audit Tools Proficiency
+- Learn cross-disciplinary skills such as welding or structural mechanics to improve adaptability
+- Strengthen communication and team management skills, transition to project coordination roles
+
+**Key growth areas:**
 
 - Mining & Resources (FIFO WA/QLD)
 - Renewable Energy (Wind Farm Construction)
@@ -75,91 +105,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，可转186 |
-| Subclass 186（ENS） | 永居，TRT流需482满2年 |
-| Subclass 190（Skilled Nominated） | 州提名永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transition to 186. |
+| Subclass 186 (ENS) | Permanent residency; the TRT stream requires 2 years on a 482 |
+| Subclass 190 (Skilled Nominated) | State nomination for permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学起重指挥/索具工？**
-- 有重工业、建筑或矿业背景，熟悉起重设备操作
-- 接受FIFO轮班或户外重工业环境
-- 目标是矿业/风电场高薪岗
-- 希望快速取证（DG证门槛相对低）再逐步晋升
-
-**谁不适合学起重指挥/索具工？**
-- 不接受FIFO轮班或远离家人的工作模式
-- 对重物操作安全规程无法认真遵守
-- 期望室内稳定工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in heavy industry, construction or mining, with experience operating lifting equipment
+- Willing to accept FIFO rosters or outdoor heavy industry environments
+- Targeting high-paying roles in mining or wind farm sectors
+- Wish to quickly obtain certification (DG certificate threshold is relatively low) and then gradually advance
+
+**Who is not suited**
+- Not willing to accept FIFO rosters or working away from family
+- Unable to consistently follow safe manual handling procedures for heavy loads
+- Prefers stable indoor work
+
+---
+
+## 8. FAQ
+
+**Q: How much do riggers/dogmen earn in Australia?**
+A: Intermediate Rigger (RB licence) annual salary approximately $88,000–$115,000. Mining FIFO and wind farm roles can reach $130,000–$190,000. Entry-level Dogman (DG licence) approximately $65,000–$88,000.
+
+**Q: Is it easy to find work as a rigger/dogman in Australia?**
+A: Easy. Strong demand from mining, wind farm construction and major infrastructure projects. Holding an RB or higher certificate typically leads to quick employment. FIFO mine site roles are more competitive but offer double the pay.
+
+**Q: Is an overseas crane licence recognised in Australia?**
+A: Not directly recognised. A TRA assessment is required (12–18 months), followed by obtaining an Australian HRWL (DG/RB/RI/RA) before lawful operation.
+
+**Q: Will riggers and crane signal operators be replaced by robots?**
+A: Very low. On-site safety judgement, complex load decisions and emergency response are highly reliant on human expertise and cannot be replaced by automation in the short term.
+
+**Q: Are there age restrictions for riggers in Australia?**
+A: No upper age limit under law. Mining FIFO roles typically require on-site experience; the TRA mutual recognition pathway remains equally valid for those aged 40 and above.
+
+**Q: Is a university degree required?**
+A: Not required. The training threshold for DG/RB certificates is relatively low; what matters most is on-site experience and safety awareness.
+
+**Q: Are the DG and RB certificates difficult to obtain?**
+A: DG (Dogging) is relatively straightforward — 1–5 days of training and assessment; RB (Rigging Basic) requires more on-site experience and load calculation knowledge, making it moderately difficult.
+
+**Q: Which is better for migration — Rigger/Dogman or Crane Operator?**
+A: Both have similar PR pathways and comparable salaries. Crane Operator roles tend to be more stable; Rigger/Dogman can work across a wider variety of projects, with greater flexibility in mining FIFO roles. See the 'Rigger vs Crane Operator' career comparison section (coming soon).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 821711 数据 |
-| CFMEU Victoria EBA 2026 | Grade 1 = $60.46/hr |
-| Seek AU | Rigger 薪资数据（2026） |
-| Glassdoor | Dogman Rigger Sydney ~$80k |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-起重指挥/索具工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲起重指挥/索具工工资多少？**
-答：中级Rigger（RB证）年薪约 $88,000~$115,000。矿业FIFO和风电场可达 $130,000~$190,000。初级Dogman（DG证）约 $65,000~$88,000。
-
-**问：澳洲起重指挥/索具工容易找工作吗？**
-答：容易。矿业、风电场建设和大型基建需求旺盛，持RB以上证书通常很快可入职。FIFO矿区岗位竞争较激烈但薪资翻倍。
-
-**问：国内起重资质澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月），再取得澳洲HRWL（DG/RB/RI/RA）方可合法操作。
-
-**问：索具工/起重指挥会被机器人替代吗？**
-答：极低。现场安全判断、复杂荷载决策和应急处置高度依赖人工，自动化方案短期内不可替代。
-
-**问：澳洲索具工有年龄限制吗？**
-答：法律无上限。矿业FIFO通常要求有现场经验，40岁以上走TRA互认路径同样有效。
-
-**问：需要大学学历吗？**
-答：不需要。DG/RB证书培训门槛较低，重要的是现场经验和安全意识。
-
-**问：DG和RB证书难考吗？**
-答：DG（Dogging）相对容易，1~5天培训+考核；RB（Rigging Basic）需要更多现场经验和荷载计算知识，难度中等。
-
-**问：起重指挥/索具工和起重机操作员哪个更适合移民？**
-答：两者PR路径相近，薪资相当。起重机操作员（Crane Operator）岗位更稳定；索具工/Dogman可配合多种项目，矿业FIFO灵活性更高。详见「索具工 vs 起重机操作员」职业比较板块（即将上线）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

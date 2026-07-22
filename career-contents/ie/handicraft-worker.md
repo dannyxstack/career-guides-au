@@ -1,60 +1,96 @@
-# Handicraft Worker（Handicraft Worker）职业分析 · IE
+# Handicraft Worker — career analysis · Ireland
 
-**职业代码：7319 – Handicraft Worker。**
+**Occupation code: 7319 (ISCO08)**
 
-Produces or repairs handmade goods such as jewelry, ceramics, woodcarving, and other crafts not elsewhere classified.
+Engage in handicraft production not classified elsewhere, including production and restoration of traditional crafts such as jewellery, ceramics, and wood carving.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期培训 | 6个月至1年 | $1,500~$5,000（私立手工艺学校课程） |
-| 职业教育 | 2年（高级证书） | $2,000~$8,000（公共继续教育学院（PLC）课程） |
+| Short-term training | 6 months to 1 year | $1,500~$5,000 (Private craft school courses) |
+| Vocational education | 2 years (Advanced Certificate) | $2,000~$8,000 (Public Continuing Education College (PLC) courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 手工艺高级证书 | 爱尔兰继续教育与培训管理局 (QQI) | 可选 | 常见于陶瓷、珠宝等专业 |
-| 大师级工匠认证 | 爱尔兰手工艺委员会 (Craft Council of Ireland) | 可选 | 提升行业信誉 |
+| Advanced Certificate in Handicrafts | Quality and Qualifications Ireland (QQI) | Optional | Common in ceramics, jewelry, and other specialties |
+| Master Artisan Certification | Craft Council of Ireland | Optional | Enhance industry credibility. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 800。爱尔兰手工艺行业规模较小，但受益于旅游和文化创意产业的需求，就业机会稳定，竞争程度中等。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 800. The craft industry in Ireland is small in scale but benefits from demand in tourism and cultural creative sectors, offering stable job opportunities with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 受雇于手工艺作坊或零售店 |
-| 中级（3-7年） | $28,000~$35,000 | 独立工匠或工作室主管 |
-| 高级（7年+) | $35,000~$50,000 | 知名工匠、业务所有者或教学工作 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Employed in a craft workshop or retail store |
+| Mid-level (3–7 years) | $28,000~$35,000 | Independent artisan or studio supervisor |
+| Senior (7+ years) | $35,000~$50,000 | Renowned artisan, business owner, or teaching role |
+| average salary | $33,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可进阶为资深工匠、工作室主管或自主创业开设手工艺店铺，也可向艺术指导或工艺教学方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Craft workers face the dual impact of automation and AI assistance: standardized production processes are easily replaced, but custom, restoration, and original design are enhanced by AI due to client personalization needs and the value of handcraft, resulting in mixed outcomes.
+
+Can advance to senior craftsman, workshop supervisor, or start a handicraft shop; also possible to move into art direction or craft teaching.
+
+**Tasks most exposed to AI:**
+
+- Standardized repetitive manual production (e.g., batch ceramic molding)
+- Basic pattern tracing and engraving
+- Simple jewelry grinding and polishing
+- Regular material cutting and splicing
+- Inventory management and order processing (taken over by ERP+AI)
+
+**Where AI augments the role:**
+
+- AI-generated Original Design Sketches and Texture Plans
+- 3D Modeling Assists Visualization of Complex Structures
+- Smart recommendation tools and material matching
+- Natural language generation for quotes in customer-specific communications.
+- AI-assisted historical style matching in restoration work
+
+**Human moat:**
+
+- Irreplaceable artistic aesthetics and creative conception
+- In-depth customer communication and understanding of personalized needs
+- Cultural heritage and tactile control in traditional crafts
+- On-site improvisation and material adaptability
+- Human emotional value in high-end customization
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Rhino+Grasshopper)
+- Digital Sculpting and 3D Printing Technology
+- Customer relationship management and personalized marketing
+- Materials science and sustainable process knowledge
+- Basic programming (for customizing AI workflows)
+- Social media creation and personal brand building
+
+**Key growth areas:**
 
 - Cultural tourism
 - Artisan market
@@ -63,62 +99,64 @@ Produces or repairs handmade goods such as jewelry, ceramics, woodcarving, and o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业的就业许可，需雇主担保。 |
-| Subclass Stamp 4 (Long Stay)（Stamp 4 Permission） | 通过5年合法工作后可申请长期居留许可。 |
+| Subclass General Employment P (General Employment Permit) | Employment permit for non-occupied occupations, requiring employer sponsorship. |
+| Subclass Stamp 4 (Long Stay) (Stamp 4 Permission) | Eligible for long-term residence permit after 5 years of legal work. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Handicraft Worker？**
-- 有艺术天赋和手工技巧的人
-- 追求创意自由、希望自主创业的人
-- 偏好低工作强度、注重生活品质的人
+**Who is suited**
+- People with artistic talent and manual skills
+- Individuals pursuing creative freedom and aspiring to start their own business
+- People who prefer low work intensity and value quality of life
 
-**谁不适合学Handicraft Worker？**
-- 追求高收入和稳定职业晋升的人
-- 无法接受不规律收入和就业不确定性的人
+**Who is not suited**
+- People seeking high income and stable career advancement
+- Unable to accept irregular income and employment uncertainty
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a craftsman?**
+A: Annual salary for junior artisans is about €22,000-28,000, mid-level around €28,000-35,000, and senior up to €50,000. Income varies significantly.
+
+**Q: How can craftspeople migrate to Ireland?**
+A: This occupation is not on the shortage list and usually requires a General Employment Permit for a work visa, which needs employer sponsorship and an annual salary of at least 30,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a handicraft worker?**
-答：Entry-level workers earn €22,000–€28,000, mid-level €28,000–€35,000, and senior workers up to €50,000. Income varies widely.
-
-**问：How can a handicraft worker migrate to Ireland?**
-答：This occupation is not on the Critical Skills list. A General Employment Permit with employer sponsorship and a salary of at least €30,000 is required.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

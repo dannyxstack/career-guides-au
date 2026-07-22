@@ -1,58 +1,92 @@
-# Chefs and Head Cooks（Chefs and Head Cooks）职业分析 · 美国
+# Chefs and Head Cooks — career analysis · United States
 
-**职业代码：35-1011 – Chefs and Head Cooks。**
+**Occupation code: 35-1011 (SOC)**
 
-Direct kitchen operations, plan menus, order supplies, and supervise food preparation to ensure high-quality dining.
+Responsible for menu planning, ingredient procurement, kitchen management and dish preparation, ensuring high-quality restaurant operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 烹饪证书/文凭 | 1-2年 | $15,000~$40,000（社区学院或烹饪学校） |
-| 副学士学位 | 2年 | $20,000~$50,000（烹饪艺术或酒店管理） |
+| Cooking certificate/diploma | 1-2 years | $15,000~$40,000 (Community college or culinary school) |
+| Associate degree | 2 years | $20,000~$50,000 (Culinary arts or hospitality management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ServSafe 食品安全认证 | 美国国家餐饮协会 | 必备 | 多数雇主要求 |
-| 烹饪学位或证书 | 认证烹饪学校 | 必备 | 通常需要 |
+| ServSafe food safety certification | National Restaurant Association (US). | Required | Most employers require |
+| Culinary degree or certificate | Certified cooking school | Required | Typically required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 146,000。预计2023-2033年就业增长约5%，餐饮业复苏和高端餐饮需求推动岗位增加，但竞争依然激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 146,000. Employment is projected to grow about 5% from 2023-2033, driven by the recovery of the restaurant industry and demand for high-end dining, but competition remains fierce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 副厨师或主管 |
-| 中级（3-7年） | $55,000~$75,000 | 厨师长 |
-| 高级（7年以上） | $75,000~$100,000 | 行政总厨 |
+| Median salary | $62,470 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Sous chef or supervisor |
+| Mid-level (3–7 years) | $55,000~$75,000 | Head chef |
+| Senior (7+ years) | $75,000~$100,000 | Executive Chef |
+| average salary | $66,700 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从厨师晋升至厨师长，积累管理经验后可升任行政总厨或餐饮总监，也可创业开设餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
+
+Progress from chef to head chef, then with management experience can become executive chef or food and beverage director, or start own restaurant.
+
+**Tasks most exposed to AI:**
+
+- Standardized dish preparation (e.g., grilling, frying, and other repetitive cooking)
+- Basic food preparation (chopping, washing, sorting)
+- Inventory management and order generation (automated systems replace manual counting)
+- Precision operations like temperature monitoring and timing (sensor and AI control)
+
+**Where AI augments the role:**
+
+- Menu development: AI analyzes diner preferences and health trends to assist innovative recipes
+- Cost control: AI optimises ingredient procurement and reduces waste
+- Kitchen coordination: AI schedules multiple orders to improve meal delivery efficiency
+- Quality monitoring: Computer vision inspects dish appearance and plating consistency
+
+**Human moat:**
+
+- Creative menu development and personalization
+- Sensory evaluation of ingredient quality (smell, taste)
+- Team management and on-site decision-making under high pressure
+- Dining experience design for customer interaction
+- Cultural Heritage and Preservation of Regional Flavors
+
+**Skills to build:**
+
+- AI recipe development and data analysis tools (e.g., IBM Chef Watson)
+- Operating and maintaining smart kitchen equipment
+- Cost management software and supply chain optimization
+- Social media and digital marketing (for personal brand promotion)
+- Sustainability and zero-waste cooking philosophy
+- Cross-cultural dietary knowledge (to meet diverse customer needs)
+
+**Key growth areas:**
 
 - Culinary Tourism
 - Farm-to-Table
@@ -61,65 +95,64 @@ Direct kitchen operations, plan menus, order supplies, and supervise food prepar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于高端餐饮管理岗位，需学士学位或同等经验 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference） | 适用于技术工人，需PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出厨师（如获奖或媒体报道）可申请 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to high-end food service management positions, requiring bachelor's degree or equivalent experience |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference) | Applicable to skilled workers, requires PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Outstanding chefs (e.g., award-winning or media-covered) can apply |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chefs and Head Cooks？**
-- 热爱烹饪与美食
-- 具备领导力与抗压能力
-- 追求创意与团队协作
-
-**谁不适合学Chefs and Head Cooks？**
-- 无法适应快节奏工作
-- 对体力要求敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cooking and food
+- Possess leadership and stress tolerance
+- Pursuing creativity and team collaboration
+
+**Who is not suited**
+- Unable to adapt to a fast-paced work environment
+- Sensitive to physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for head chefs in the United States?**
+A: Entry-level approx. $40,000-$55,000, mid-level $55,000-$75,000, senior executive chef up to $100,000+. Higher in fine dining or luxury hotels.
+
+**Q: What are the pathways for chefs to immigrate to the US?**
+A: Common H-1B visa (requires bachelor's or equivalent experience) and EB-3 green card (PERM labor certification). Outstanding chefs may apply for O-1 visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Chefs and Head Cooks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for chefs in the US?**
-答：Entry-level $40k-$55k, mid-level $55k-$75k, senior executive chefs $75k-$100k+. Higher in fine dining or luxury hotels.
-
-**问：What are the migration pathways for chefs to the US?**
-答：Common via H-1B visa (requires bachelor's or equivalent experience) and EB-3 green card (PERM). Outstanding chefs may qualify for O-1 visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

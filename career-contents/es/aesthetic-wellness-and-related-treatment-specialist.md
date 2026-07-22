@@ -1,60 +1,92 @@
-# Aesthetic, Wellness and Related Treatment Specialist（Aesthetic, Wellness and Related Treatment Specialist）职业分析 · ES
+# Aesthetic, Wellness and Related Treatment Specialist — career analysis · Spain
 
-**职业代码：5812 – Aesthetic, Wellness and Related Treatment Specialist。**
+**Occupation code: 5812 (CNO)**
 
-Provides non-medical aesthetic and wellness treatments such as facials, body treatments, hair removal, and makeup. Requires professional training and works in beauty salons, spas, or health centers.
+Offering non-medical treatments such as beauty, spa, and massage, including facial, body care, hair removal, and makeup. Professional training certificates are required, and they usually work in beauty salons, spas, or health centers.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训 (FP Grado Medio) | 2年 | —（公立学校免费或低学费，材料费约200-500欧元/年） |
-| 高等职业培训 (FP Grado Superior) | 2年 | —（公立免费，私立约2000-4000欧元/年） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$1,000 (Public schools offer free or low tuition, with material fees around 200-500 euros per year) |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $0~$1,200 (Public schools are free, while private ones pay about 2000-4000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美容师职业资格证书 | 西班牙教育部或自治区政府 | 必备 | 完成FP Grado Medio或Grado Superior后获得，必备 |
-| 卫生与安全培训 | 自治区卫生部门 | 必备 | 部分地区要求，确保服务卫生合规 |
+| Beautician professional qualification certificate | The Spanish Ministry of Education or the autonomous community government | Required | Obtained after completing FP Grado Medio or Grado Superior—essential |
+| Health and safety training | Autonomous region health department | Required | Some regions require compliance with hygiene services |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。西班牙美容健康行业稳步增长，受旅游和健康意识推动。但服务类职业受经济周期影响，竞争较激烈。预计未来五年就业机会略有增加，但多为兼职或自雇形式。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. Spain's beauty and wellness industry is steadily growing, driven by tourism and health awareness. However, service jobs are affected by economic cycles and face fierce competition. Employment opportunities are expected to increase slightly over the next five years, but mostly in the form of part-time or self-employment.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 多为兼职或底薪加提成 |
-| 中级（4-7年） | $18,000~$24,000 | 全职，含提成和小费 |
-| 高级（8年以上） | $24,000~$35,000 | 主管或自雇，收入波动大 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Most are part-time or with a base salary plus commission |
+| Mid-level (4-7 years) | $18,000~$24,000 | Full-time, including commission and tips |
+| Senior (8+ years) | $24,000~$35,000 | Supervisors or self-employed have large income fluctuations |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从美容师或治疗师起步，积累经验后可晋升为高级治疗师、团队主管或店长。也可向医疗美容方向拓展，需额外认证。部分人选择创业开设自己的美容院或水疗中心。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Manual tasks for beauty and spa specialists (such as hair removal and facial treatments) will gradually be replaced by automated devices, but creative customization and emotional communication with clients remain human strengths, intensifying competition for entry-level positions.
+
+Usually, they start as beauticians or therapists and can be promoted to senior therapists, team supervisors, or store managers after gaining experience. It can also be expanded into medical aesthetics, requiring additional certification. Some choose to start their own beauty salons or spas.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate care recommendations and product recommendations through AI skin analyzers
+- Use an automatic hair removal device or laser equipment to complete the standard hair removal process
+- Online customer service AI for appointments, confirmations, and follow-up customer visits
+- AI generates personalized facial care plans and product combinations
+
+**Where AI augments the role:**
+
+- AI-assisted skin diagnosis improves problem identification accuracy
+- AR virtual try-on to showcase makeup effects to clients
+- AI analyzes customer preferences and customized care plans
+- Smart devices monitor care outcomes in real time and adjust parameters
+
+**Human moat:**
+
+- Sensitive perception of clients' emotional needs and empathetic communication
+- Creative solutions for special skin types or concerns
+- Cross-cultural aesthetic mastery and high-value customized services
+- Complex techniques (such as lymphatic drainage, deep tissue massage)
+
+**Skills to build:**
+
+- Learn to operate AI skin analyzers and smart care devices
+- Master the use of AR makeup try-on and virtual consultation platforms
+- Enhance customer experience management and digital marketing capabilities
+- Strengthen personalized service design and creative capabilities
+- Learn basic nutrition and health knowledge to provide value-added consultation
+
+**Key growth areas:**
 
 - Wellness tourism
 - Anti-aging services
@@ -63,66 +95,68 @@ Provides non-medical aesthetic and wellness treatments such as facials, body tre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇于西班牙美容院或水疗中心，需雇主担保，且职位需证明难以招聘本地人。 |
-| Subclass Cuenta propia（Self-Employment Work Permit） | 自雇开美容院，需提交商业计划书并证明经济能力。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，但需高学历或专业经验。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employed by a Spanish beauty salon or spa, requires employer sponsorship, and the position must demonstrate difficulty in hiring locals. |
+| Subclass Cuenta propia (Self-Employment Work Permit) | To run a beauty salon yourself, you need to submit a business plan and prove your financial capability. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you need to have a high degree or professional experience. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aesthetic, Wellness and Related Treatment Specialist？**
-- 注重外貌与健康、喜欢与人打交道的人
-- 追求灵活工作时间和自雇机会的人
-- 愿意接受短期职业培训快速就业的人
+**Who is suited**
+- People who value appearance and health and enjoy interacting with others
+- People seeking flexible working hours and self-employment opportunities
+- Those willing to accept short-term vocational training and find employment quickly
 
-**谁不适合学Aesthetic, Wellness and Related Treatment Specialist？**
-- 希望高薪或快速晋升的人
-- 不喜欢服务性工作或体力劳动的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who dislike service or manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for beauty therapists in Spain?**
+A: Salaries are relatively low, with junior positions earning about 14,000-18,000 euros per year, and senior managers about 24,000-35,000 euros per year. Income is greatly affected by commissions and tips.
+
+**Q: Can a beauty therapist immigrate to Spain?**
+A: Difficult. This occupation is not in short supply, requires employer sponsorship, and can be proven that local workers cannot be recruited. Self-employment requires sufficient funds. EU citizens can move freely.
+
+**Q: What certifications are needed to work in this occupation?**
+A: You must complete a beauty course in FP Grado Medio or Superior and obtain a professional qualification certificate. Some areas also require health training certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aesthetic, Wellness and Related Treatment Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an aesthetic treatment specialist in Spain?**
-答：Salary is relatively low: entry-level around €14,000-€18,000/year, senior supervisor €24,000-€35,000/year. Income varies with commissions and tips.
-
-**问：Can aesthetic treatment specialists immigrate to Spain?**
-答：Difficult. The occupation is not in shortage and requires employer sponsorship proving lack of local candidates. Self-employment needs sufficient funds. EU citizens have free movement.
-
-**问：What certifications are needed for this profession?**
-答：Must complete FP Grado Medio or Superior in beauty and obtain a vocational certificate. Some regions require health and safety training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

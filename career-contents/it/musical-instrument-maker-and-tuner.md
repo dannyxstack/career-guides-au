@@ -1,60 +1,96 @@
-# Musical Instrument Maker and Tuner（Musical Instrument Maker and Tuner）职业分析 · IT
+# Musical Instrument Maker and Tuner — career analysis · Italy
 
-**职业代码：7312 – Musical Instrument Maker and Tuner。**
+**Occupation code: 7312 (ISCO08)**
 
-A profession in Italy involved in making, repairing, and tuning musical instruments, including pianos, string instruments, and wind instruments, often artisanal and restoration-focused.
+Profession in Italy involving the making, repair and tuning of musical instruments, including pianos, string instruments, wind instruments, etc., mostly custom or restoration work.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭+学徒培训 | 3-4年（学徒制） | —（学徒期间工资较低，培训费用少） |
-| 专业文凭（如乐器工艺学校） | 2-3年（专科） | $5,000~$15,000（公立学校费用较低） |
+| High school diploma + apprenticeship training | 3-4 years (apprenticeship). | $0~$5,000 (Wages during apprenticeship are low, training costs are minimal) |
+| Professional diploma (e.g., from a musical instrument craft school) | 2-3 years (Diploma) | $5,000~$15,000 (Public school fees are relatively low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒结业证书 | 地方商会或行业协会 | 可选 | 证明完成学徒培训，非强制但建议 |
-| 专业调音认证（如钢琴调音师） | Associazione Italiana Accordatori Pianoforti (AIAP) | 可选 | 行业协会认证提升可信度 |
+| Apprenticeship completion certificate | Local chamber of commerce or industry association | Optional | Proof of completion of apprenticeship training, not mandatory but recommended |
+| Professional tuning certification (e.g., piano tuner) | Associazione Italiana Accordatori Pianoforti (AIAP) | Optional | Industry association certification enhances credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。意大利拥有深厚的音乐传统，手工乐器市场稳定。高端定制和修复需求存在，但大工业化生产竞争激烈。整体就业平稳，新入行者需时间建立声誉。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Italy has a deep musical tradition and a stable market for handmade instruments. There is demand for high-end customization and restoration, but competition in large-scale industrial production is fierce. Overall employment is stable; newcomers need time to build a reputation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$22,000 | 作为助手或学徒，收入较低 |
-| 中级（3-8年） | $22,000~$35,000 | 独立工作，有稳定客户 |
-| 高级（8年以上） | $35,000~$55,000 | 知名工匠或工作室负责人 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$22,000 | As an assistant or apprentice, low income |
+| Mid-level (3–8 years) | $22,000~$35,000 | Work independently with stable clients |
+| Senior (8+ years) | $35,000~$55,000 | Renowned artisan or workshop manager |
+| average salary | $30,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径通常从学徒或乐器修理店助手开始，逐步成为独立工匠或调音师。资深者可开设工作室或专攻特定乐器（如小提琴、钢琴）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Musical instrument makers and tuners in Italy face mixed AI impact: automated tools aid tuning and design, but handcraft and personalized services are hard to replace; overall demand stable but entry barriers rise.
+
+Career path usually starts as an apprentice or instrument repair shop assistant, gradually becoming an independent craftsman or tuner. Experienced individuals can open their own studios or specialize in specific instruments (e.g., violin, piano).
+
+**Tasks most exposed to AI:**
+
+- Use electronic tuners for precise pitch calibration
+- Analyzes the acoustic properties of musical instruments via software and generates manufacturing reports.
+- Automates wood cutting and component assembly (CNC machines)
+- Creating standardized descriptions for online display and sales of musical instruments
+- Basic repair diagnostics (e.g., sensor fault detection)
+
+**Where AI augments the role:**
+
+- Using acoustic simulation software to optimise instrument design
+- Using digital twin technology to customize personalized musical instrument parameters
+- AI-assisted restoration of rare ancient musical instruments (e.g., analyzing material chemical composition).
+- Generate precise tuning maintenance records and predict aging trends
+- Using AR/VR to remotely guide customers in tuning instruments
+
+**Human moat:**
+
+- Artistic judgment for fine manual polishing and acoustic fine-tuning
+- Historical materials and craft knowledge in the restoration of ancient musical instruments
+- In-depth communication with musicians to capture personalized tonal requirements
+- On-site decision-making for improvisation and adaptive repairs
+- Tactile skills in traditional woodworking and metalworking
+
+**Skills to build:**
+
+- Digital Audio Workstation (DAW) and acoustic analysis software
+- 3D modeling and CNC programming
+- Sensor technology and IoT basics
+- Materials science knowledge (acoustic properties)
+- Customer communication and customized service skills
+- Basic data analysis and automation tool usage
+
+**Key growth areas:**
 
 - artisan craftsmanship
 - instrument restoration
@@ -63,66 +99,65 @@ A profession in Italy involved in making, repairing, and tuning musical instrume
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能工种，但乐器制造师通常不满足薪资门槛。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi (Work visa quota)） | 非欧盟公民需通过年度配额申请，但自雇或艺术类工作可能适用。 |
-| Subclass 自雇签证（Lavoro Autonomo（Self-employment visa） | 作为自由职业乐器工匠可申请，需证明经济独立和专业技能。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to high-skilled occupations, but musical instrument makers typically do not meet the salary threshold. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi (Work visa quota)) | Non-EU citizens must apply through annual quotas, but self-employment or artistic work may apply. |
+| Subclass Self-Employment Visa (Lavoro Autonomo) (Self-employment visa) | Self-employed musical instrument makers can apply, requiring proof of economic independence and professional skills. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Musical Instrument Maker and Tuner？**
-- 对手工技艺和音乐有热情的人
-- 注重细节和耐心重复工作的人
-- 愿意长期学徒并建立个人品牌的人
-
-**谁不适合学Musical Instrument Maker and Tuner？**
-- 追求高薪和快速晋升的人
-- 对传统工艺不感兴趣的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about handicrafts and music
+- Detail-oriented with patience for repetitive work
+- Individuals willing to commit to a long-term apprenticeship and build a personal brand
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People not interested in traditional crafts
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for musical instrument makers in Italy?**
+A: Junior approx. €15,000-22,000/year, intermediate €22,000-35,000, senior up to €55,000, but highly dependent on region and client.
+
+**Q: How can non-EU citizens immigrate to Italy as musical instrument craftsmen?**
+A: Can apply through self-employment visa, requiring submission of business plan, professional skills proof, and sufficient funds, and does not occupy annual quota.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Musical Instrument Maker and Tuner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for musical instrument makers in Italy?**
-答：Entry-level earns about €15,000-22,000/year, mid-level €22,000-35,000, senior up to €55,000, depending on location and clientele.
-
-**问：How can non-EU citizens immigrate to Italy as instrument makers?**
-答：Apply for a self-employment visa with a business plan, proof of skills, and sufficient funds; not subject to annual quotas.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

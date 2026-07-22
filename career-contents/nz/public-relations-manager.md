@@ -1,58 +1,94 @@
-# Public Relations Manager（Public Relations Manager）职业分析 · 新西兰
+# Public Relations Manager — career analysis · New Zealand
 
-**职业代码：131114 – Public Relations Manager。**
+**Occupation code: 131114 (ANZSCO)**
 
-Public Relations Managers plan, direct, and coordinate communication between organizations and the public, managing media relations, brand image, and crisis PR. This role is eligible for Skilled Migrant Category and Accredited Employer Work Visa.
+Public relations managers plan, direct, and coordinate communication between an organization and the public, managing media relations, brand image, and crisis communication. This occupation can migrate to New Zealand through skilled migration or an accredited employer work visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（新西兰大学本科年均学费约3-5万NZD） |
-| 研究生文凭 | 1年 | $25,000~$40,000（一年制研究生文凭课程，学费约2.5-4万NZD） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (New Zealand university undergraduate tuition fees average about NZD 30,000-50,000 per year.) |
+| Graduate diploma | 1 year | $25,000~$40,000 (One-year graduate diploma course, tuition approx. $25,000-$40,000 NZD.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共关系或传播学学位 | 新西兰大学 | 可选 | 如奥克兰大学、梅西大学 |
-| PRINZ认证 | 新西兰公共关系协会 | 可选 | 认可的专业资格培训 |
+| Public relations or communications degree | New Zealand universities | Optional | Such as the University of Auckland, Massey University. |
+| PRINZ certification | Public Relations Institute of New Zealand | Optional | Recognized professional qualification training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。新西兰公共关系经理需求稳定，尤其在奥克兰和惠灵顿等大城市。随着企业对社会责任和品牌形象重视，预计未来5年就业岗位将温和增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Demand for public relations managers in New Zealand is stable, especially in major cities like Auckland and Wellington. With businesses placing greater emphasis on social responsibility and brand image, employment is expected to grow moderately over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 起步薪资约5.5-7.5万NZD |
-| 中级（3-6年） | $80,000~$110,000 | 有经验者薪资可达8-11万NZD |
-| 高级（6年以上） | $120,000~$150,000 | 高级经理或总监薪资12-15万NZD以上 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Starting salary approx. NZD 55,000-75,000 |
+| Mid-level (3–6 years) | $80,000~$110,000 | Experienced workers can earn NZD 80,000 to 110,000. |
+| Senior (6+ years) | $120,000~$150,000 | Senior manager or director salary: 120,000–150,000 NZD+. |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从公关专员或媒体协调员晋升为经理，再至高级经理或总监。拥有相关资质和丰富经验者更易进入高层管理或咨询公司。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Can advance from PR Specialist or Media Coordinator to Manager, then to Senior Manager or Director. Those with relevant qualifications and extensive experience are more likely to enter senior management or consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Moderate growth
 - Skilled Migrant Category
@@ -61,67 +97,66 @@ Public Relations Managers plan, direct, and coordinate communication between org
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足ANZSCO技能等级1-3，薪资达中位数或更高，可申请居民签证。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需有新西兰认证雇主提供工作，薪资达标后可申请。 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, requires meeting ANZSCO skill level 1-3, salary at or above the median, eligible for permanent residency visa. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires a job offer from a New Zealand accredited employer, and meeting the salary threshold is required for application. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Manager？**
-- 优秀沟通和组织能力的人
-- 对品牌管理和危机处理感兴趣
-- 希望在全球化环境中工作
-
-**谁不适合学Public Relations Manager？**
-- 不喜欢高压力工作环境
-- 不善于多任务处理
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with excellent communication and organizational skills
+- Interested in brand management and crisis handling
+- Want to work in a global environment
+
+**Who is not suited**
+- Dislikes high-pressure work environments
+- Poor at multitasking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for public relations managers in New Zealand?**
+A: Entry-level annual salary approx NZD 55k-75k, mid-level NZD 80k-110k, senior NZD 120k-150k+, depending on experience and company size.
+
+**Q: How can a Public Relations Manager immigrate to New Zealand?**
+A: Eligible via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV). SMC requires ANZSCO skill level 1-3, median wage, and points for NZ job offer. AEWV requires accredited employer job.
+
+**Q: What skills does a Public Relations Manager need?**
+A: Requires excellent writing, interpersonal communication, crisis management, and media relations skills, along with brand strategy knowledge. A relevant degree or certification is helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Public Relations Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Public Relations Manager in New Zealand?**
-答：Entry-level salary ranges from NZD 55,000 to 75,000, mid-level NZD 80,000 to 110,000, senior NZD 120,000 to 150,000+, depending on experience and company size.
-
-**问：How can a Public Relations Manager immigrate to New Zealand?**
-答：Via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV). SMC requires ANZSCO skill level 1-3 and salary at median level; AEWV requires a job offer from an accredited employer.
-
-**问：What skills are needed for a Public Relations Manager?**
-答：Excellent writing, interpersonal, crisis management, and media relations skills, plus knowledge of brand strategy. A relevant degree or certification is beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

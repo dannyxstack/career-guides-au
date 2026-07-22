@@ -1,64 +1,93 @@
-# 注册护士（Registered Nurse）职业分析 · 加拿大
+# Registered Nurse — career analysis · Canada
 
-**职业代码：31301 – Registered Nurse。**
+**Occupation code: 31301 (NOC)**
 
-注册护士在加拿大医院、社区与长期照护机构提供护理，是各省持续紧缺职业，可走快速通道(Express Entry)与省提名(PNP)技术移民，需通过 NNAS 评估与省护理学院注册。
+Registered nurses provide care in Canadian hospitals, community and long-term care facilities, and are in persistent demand across provinces. They can apply via Express Entry and Provincial Nominee Programs (PNP) after obtaining NNAS assessment and provincial nursing college registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| Bachelor of Science in Nursing (BScN) | 4年 | $30,000~$90,000（国际生学费更高） |
-| NNAS 评估 + 省护理学院注册 | 6~12个月 | $1,000~$4,000（执业前提） |
+| Bachelor of Science in Nursing (BScN) | 4 years | $30,000~$90,000 (International students pay higher tuition fees) |
+| NNAS assessment + provincial nursing college registration | 6–12 months | $1,000~$4,000 (Prerequisite for practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Provincial College of Nurses 注册 | 各省护理学院(如 CNO) | 必备 | 强制执业 |
-| NCLEX-RN 考试 | NCSBN | 必备 | 注册要求 |
-| NNAS 国际护士评估 | NNAS | 可选 | 国际申请人 |
+| Provincial College of Nurses registration | Provincial nursing colleges (e.g., CNO) | Required | Mandatory practice |
+| NCLEX-RN exam | NCSBN | Required | Registration requirements |
+| NNAS International Nurse Assessment | NNAS | Optional | International applicants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 320,000。加拿大人口老龄化与护士短缺使注册护士需求长期旺盛，各省提名与联邦快速通道均设护理优先类别。
+**Job demand: very high (★★★★★).** National workforce approx. 320,000. Canada's aging population and nurse shortage make registered nurse demand strong long-term; provincial nominations and federal Express Entry have nursing priority categories.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| Job Bank | 8,000~15,000 个 | 全国 |
-| Indeed CA | 6,000~12,000 个 | 全国 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（CAD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | Entry |
-| 中级（3-8年） | $85,000~$100,000 | Experienced |
-| 资深 / 专科 | $100,000~$120,000 | Senior |
+| Median salary | $90,002 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $70,000~$85,000 | Entry |
+| Mid-level (3–8 years) | $85,000~$100,000 | Experienced |
+| Senior / Specialist | $100,000~$120,000 | Senior |
+| average salary | $89,440 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★★）。** 路径：注册护士→专科/高级执业护士(NP)；通过 NNAS 评估、省护理学院注册与英语/法语成绩是关键。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Pathway: Registered nurse → Specialist/Advanced practice nurse (NP); key steps include NNAS assessment, provincial nursing college registration, and English/French test scores.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Express Entry Health
 - Provincial Nominee
@@ -67,65 +96,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 联邦快速通道，含 Healthcare category 类别抽签 |
-| Subclass PNP（Provincial Nominee） | 省提名，多省设护理优先流 |
-| Subclass AIP（Atlantic Immigration） | 大西洋四省雇主担保 |
+| Subclass EE (Express Entry (FSW/CEC)) | Federal Express Entry, including Healthcare category draws. |
+| Subclass PNP (Provincial Nominee) | Provincial nomination, multiple provinces have priority streams for nursing |
+| Subclass AIP (Atlantic Immigration) | Atlantic Immigration Program employer sponsorship. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学注册护士？**
-- 想移民加拿大的护理专业者
-- 能通过 NNAS 与英语/法语考试者
-- 愿在各省灵活就业者
-
-**谁不适合学注册护士？**
-- 不愿读护理学位或考注册者
-- 排斥轮班与高强度临床者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Nursing professionals wanting to immigrate to Canada
+- Those able to pass NNAS and English/French exams
+- Willing to work flexibly across provinces
+
+**Who is not suited**
+- Those unwilling to study a nursing degree or obtain registration
+- Those who dislike shift work and high-intensity clinical settings
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a registered nurse in Canada?**
+A: Approximately CAD 70,000-120,000, varies significantly by province and experience; Alberta/Ontario/BC are higher.
+
+**Q: Can a registered nurse immigrate to Canada?**
+A: Yes. Nursing is a shortage occupation, eligible for Express Entry (including healthcare category) and multiple PNP streams, requiring NNAS assessment and provincial registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★★） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-注册护士的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：加拿大注册护士薪资多少？**
-答：约 CAD $7万~$12万，省份与经验差异大，阿尔伯塔/安省/BC 偏高。
-
-**问：注册护士能移民加拿大吗？**
-答：可以。护理是紧缺职业，可走 Express Entry(含医疗类别)与多省 PNP，需 NNAS 评估与省注册。
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

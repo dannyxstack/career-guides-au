@@ -1,59 +1,95 @@
-# Commissioned Police Officer（Commissioned Police Officer）职业分析 · 新西兰
+# Commissioned Police Officer — career analysis · New Zealand
 
-**职业代码：139113 – Commissioned Police Officer。**
+**Occupation code: 139113 (ANZSCO)**
 
-A Commissioned Police Officer (ANZSCO 139113) in New Zealand is a senior management role within the police force, responsible for leading teams, resource allocation, and community safety. It is eligible for Skilled Migrant Category or direct residence, subject to NZ Police recruitment and qualification requirements.
+A Police Officer (ANZSCO 139113) in the New Zealand Police is a senior management role responsible for leading teams, resource allocation, and community policing. This occupation can be applied for through the Skilled Migrant Category (SMC) or a Direct Residence application, but must meet New Zealand Police recruitment and qualification requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中及以上学历 | 无特定要求 | —（需通过NZ Police招聘流程） |
-| 警察学院培训（晋升前） | 6个月 | —（部分费用由雇主承担） |
+| High school diploma or above | No specific requirements | $0~$0 (Must pass NZ Police recruitment process) |
+| Police academy training (pre-promotion). | 6 months. | $0~$5,000 (Partial costs borne by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰公民或常驻居民身份 | 新西兰内政部 | 必备 | 通常要求是公民或常驻居民 |
-| 警察学院培训证书 | 新西兰警察学院 | 必备 | 晋升前需完成指定课程 |
-| 背景审查和体检 | 新西兰警察局 | 必备 | 必须通过安全审查和健康检查 |
+| New Zealand citizenship or permanent residency | New Zealand Department of Internal Affairs | Required | Usually requires citizenship or permanent residency |
+| Police Academy Training Certificate | New Zealand Police College | Required | Must complete specified courses before promotion |
+| Background checks and medical examinations | New Zealand Police | Required | Must pass security clearance and health check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。新西兰警务委员会警官的就业前景稳定，受政府预算和社区安全需求影响。预计未来5年岗位数量保持平稳，部分偏远地区存在招聘困难。需通过严格的晋升筛选，有经验的候选人有优势。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Employment prospects for New Zealand Police officers are stable, influenced by government budgets and community safety needs. Expected to remain steady over the next 5 years, with some remote areas facing recruitment difficulties. Requires strict promotion screening; experienced candidates have an advantage.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$100,000 | 实习督察或初级管理岗位 |
-| 中级（4-9年） | $100,000~$130,000 | 如督察或高级警司 |
-| 高级（10年以上） | $130,000~$180,000 | 如高级督察或警司 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $80,000~$100,000 | Intern supervisor or junior management position |
+| Intermediate (4-9 years) | $100,000~$130,000 | Such as Inspector or Senior Superintendent |
+| Senior (10+ years) | $130,000~$180,000 | Such as Senior Inspector or Police Superintendent |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 晋升路径通常从警员开始，经中士、高级警司等职位，通过考核和培训逐步晋升至督察或更高。需要持续专业发展，包括领导力课程和战术培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
+
+Career progression typically starts from police constable, through sergeant, senior sergeant, etc., advancing to inspector or higher via assessments and training. Requires continuous professional development, including leadership courses and tactical training.
+
+**Tasks most exposed to AI:**
+
+- Automatic Generation of Incident Reports and Paperwork
+- Traffic violation monitoring and automatic ticket issuance
+- Crime data analysis and pattern prediction
+- Routine patrol route optimization and scheduling
+- Automatic review of surveillance video and evidence marking
+
+**Where AI augments the role:**
+
+- AI-assisted real-time translation and community communication
+- Predictive policing helps optimize police deployment
+- Digital forensics tools expedite investigations
+- Virtual reality simulation training improves tactical decision-making
+- Public opinion analysis to enhance community relationship management
+
+**Human moat:**
+
+- On-site physical intervention and use of force
+- Complex interpersonal communication and crisis negotiation
+- Law enforcement discretion and ethical judgment
+- Community trust building and multicultural understanding
+- Court testimony and legal liability
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R)
+- Digital forensics and electronic evidence handling
+- AI ethics and algorithmic bias identification
+- Cross-cultural communication and community policing
+- Fundamentals of cybercrime investigation
+- Use of VR/AR Training Tools
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +98,67 @@ A Commissioned Police Officer (ANZSCO 139113) in New Zealand is a senior managem
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 可申请技术移民，要求满足6分制标准（如学历+工作经验） |
-| Subclass Green List T2（Green List Tier 2） | 工作2年后可转居留，需认证雇主 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主提供工作机会，可申请工签 |
+| Subclass SMC (Skilled Migrant Category) | Can apply for skilled migration, meeting the 6-point system criteria (e.g., qualifications + work experience) |
+| Subclass Green List T2 (Green List Tier 2) | Can transition to residency after 2 years of work with a certified employer |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer provides job offer, eligible for work visa |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commissioned Police Officer？**
-- 有多年警务经验并希望晋升管理层的人士
-- 具备领导力、决策力及沟通能力的警察人员
-- 愿意接受高强度工作与频繁轮班的人
-
-**谁不适合学Commissioned Police Officer？**
-- 不适应高压、高风险工作环境的人
-- 无法通过严格背景审查或身体检测的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with many years of policing experience who wish to move into management
+- Police officers with leadership, decision-making, and communication skills
+- Those willing to accept high-intensity work and frequent shift rotations
+
+**Who is not suited**
+- Those unsuited to high-pressure, high-risk work environments
+- People unable to pass strict background checks or physical examinations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Police Officer in the New Zealand Police?**
+A: Junior police officer annual salary about NZ$80,000-100,000, mid-level NZ$100,000-130,000, senior up to NZ$130,000-180,000, excluding overtime and allowances.
+
+**Q: Can I, as a foreign police officer, immigrate to New Zealand?**
+A: Possible but difficult; must first obtain an Accredited Employer Work Visa (AEWV) and meet NZ Police recruitment requirements (usually citizenship or permanent residency). Some senior positions can apply for residency through SMC or Green List T2.
+
+**Q: What qualifications are needed to become a police committee officer?**
+A: Usually must start as a police officer, serve for many years, and go through internal promotion procedures. Must be a New Zealand citizen or permanent resident, pass security checks, medical exams, and police academy training. Foreign experience may be partially recognized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Commissioned Police Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Commissioned Police Officers in New Zealand?**
-答：Entry-level officers earn approximately NZD 80,000–100,000 per year, mid-level NZD 100,000–130,000, and senior officers NZD 130,000–180,000, excluding overtime and allowances.
-
-**问：Can I immigrate to New Zealand as a foreign police officer?**
-答：Yes, but it is difficult. You must first secure an AEWV with an accredited employer and meet NZ Police recruitment requirements (usually citizenship or permanent residency). Some senior roles may qualify for SMC or Green List Tier 2 residence.
-
-**问：What qualifications are needed to become a Commissioned Police Officer?**
-答：Typically begin as a constable, serve for years, and pass internal promotion. Must be a New Zealand citizen or permanent resident, pass security vetting, medical checks, and police college training. Foreign experience may be partially recognized.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

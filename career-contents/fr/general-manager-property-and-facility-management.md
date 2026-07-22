@@ -1,59 +1,95 @@
-# General Manager (Property and Facility Management)（General Manager (Property and Facility Management)）职业分析 · FR
+# General Manager (Property and Facility Management) — career analysis · France
 
-**职业代码：L1509 – General Manager (Property and Facility Management)。**
+**Occupation code: L1509 (ROME)**
 
-General managers in property and facility management oversee the overall operations of commercial or residential properties, including leasing, maintenance, finance, and team coordination, to maximize property value and meet client needs.
+The Property Integrated Management Manager is responsible for the overall operational management of commercial or residential properties, including leasing, maintenance, finance, and team coordination, ensuring maximum property value and meeting client needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年（BTS Professions Immobilières） | 2年 | $5,000~$10,000（公立学校学费较低，私立学校较高） |
-| 本科（Licence Professionnelle en Gestion Immobilière） | 3年 | $3,000~$8,000（含公立大学和商学院路径） |
-| 硕士（Master en Droit Immobilier ou Management） | 5年 | $10,000~$20,000（商学院或大学专业硕士） |
+| Second 2 Years of High School (BTS Professions Immobilières) | 2 years | $5,000~$10,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Undergraduate (Licence Professionnelle en Gestion Immobilière) | 3 years | $3,000~$8,000 (Including public university and business school pathways) |
+| Master en Droit Immobilier ou Management | 5 years | $10,000~$20,000 (A professional master's degree from a business school or university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房产经纪执照（Carte Professionnelle Gestion Immobilière） | CCI（工商会） | 必备 | 从事物业管理需持有此卡，需通过考试或满足经验条件 |
-| 国家房产管理文凭（DNI） | 教育部认可院校 | 可选 | 非强制，但有助于职业发展 |
+| Real Estate Brokerage License (Carte Professionnelle Gestion Immobilière) | CCI (Chamber of Commerce) | Required | To work in property management, you must hold this card, pass an exam, or meet experience requirements |
+| National Diploma in Property Management (DNI) | Institutions recognized by the Ministry of Education | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。法国物业管理市场稳步增长，尤其在巴黎和主要城市。数字化转型和可持续建筑需求推动行业变化，但竞争激烈。具备多语言能力和国际经验的从业者更具优势。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. The French property management market is steadily growing, especially in Paris and major cities. Digital transformation and the demand for sustainable buildings are driving industry changes, but competition is fierce. Practitioners with multilingual abilities and international experience have an advantage.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，巴黎地区偏高 |
-| 中级（4-7年） | $45,000~$60,000 | 取决于物业规模和责任范围 |
-| 高级（8年以上） | $60,000~$90,000 | 大型资产或区域经理可达 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary is relatively high in the Paris area |
+| Mid-level (4-7 years) | $45,000~$60,000 | It depends on the property size and scope of responsibility |
+| Senior (8+ years) | $60,000~$90,000 | Large asset or regional managers are available |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业生涯可从物业管理员起步，晋升为物业经理、区域经理，最终成为物业综合管理经理或资产经理。也可转向房地产投资、咨询或创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The Comprehensive Management Manager's Tasks Are Divided by AI: Data analysis and forecasting are enhanced by AI, but core responsibilities such as on-site coordination, client relations, and legal compliance still require human judgment. The overall risk is moderate, so proactive adoption of digital tools is necessary.
+
+Careers can start as property managers, advance to property managers, regional managers, and eventually become comprehensive property management managers or asset managers. You can also turn to real estate investment, consulting, or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Routine lease contract review and clause comparison (AI contract analysis tool replacement)
+- Monthly financial statement generation and basic analysis (AI automatic generation and preliminary interpretation)
+- Tenant FAQ Email Replies and Work Order Allocation (AI Chatbot and Work Order System)
+- Energy consumption data collection and basic trend analysis (AI IoT sensors and automatic reporting)
+- Supplier quotation comparison and basic purchase order processing (automatic matching and order placement by AI procurement platform)
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to detect equipment failures in advance and optimize maintenance plans
+- AI spatial analysis optimizes rental area and rental pricing strategies
+- Using natural language processing to analyze tenant satisfaction surveys and accurately pinpoint service shortcomings
+- Using AI risk assessment tools to predict tenant default risks and proactively follow up
+- Digital twin technology is used to simulate property renovation plans to assist investment decisions
+
+**Human moat:**
+
+- On-site decision-making and personnel evacuation command in emergencies (such as fires and water leaks).
+- Negotiate and maintain relationships with senior tenants, landlords, and regulatory authorities
+- Creative planning for long-term property strategies such as green operations and community building
+- Legal intuition and experience in handling complex legal disputes (such as tenant litigation and contract disputes).
+- Cross-team on-site coordination and morale boost (security, cleaning, maintenance).
+
+**Skills to build:**
+
+- Property data analysis tools (such as Power BI, Tableau)
+- Intelligent building management systems (such as Honeywell, Siemens IoT platforms)
+- Project Management Certification (PMP or Prince2)
+- Legal Fundamentals (French Commercial Leasing Law)
+- Customer Relationship Management Software (Salesforce CRM)
+- Knowledge of Sustainable Development and Energy Efficiency Management (LEED Certification)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Sustainability
@@ -62,68 +98,67 @@ General managers in property and facility management oversee the overall operati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent (Pr（Passeport Talent - Economic Contribution） | 适用于高技能人才，需提供工作合同或雇主担保，年薪通常需高于法国平均工资的1.5倍。 |
-| Subclass Salarié (Work Contra（Salarié (Employee)） | 若获得法国公司长期合同，可申请受雇工作居留，需雇主证明无法在欧盟内招聘。 |
-| Subclass Carte bleue UE (EU B（EU Blue Card） | 适用于非欧盟高技能人才，年薪需高于53,836.50欧元（2024年标准），合同至少1年。 |
+| Subclass Passeport Talent (Pr (Passeport Talent - Economic Contribution) | Suitable for highly skilled talent, requiring a work contract or employer sponsorship, with an annual salary usually 1.5 times the French average salary. |
+| Subclass Salarié (Work Contra (Salarié (Employee)) | If a long-term contract with a French company is obtained, you can apply for a salaried work residence permit, requiring employer to prove inability to hire within the EU. |
+| Subclass Carte bleue UE (EU B (EU Blue Card) | For non-EU highly skilled talent, annual salary must exceed €53,836.50 (2024 standard), contract at least 1 year. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General Manager (Property and Facility Management)？**
-- 具备组织协调和团队管理能力的人
-- 对房地产和市场有敏锐洞察力的人
-- 愿意与人沟通，处理租赁和客户关系
-
-**谁不适合学General Manager (Property and Facility Management)？**
-- 不喜欢处理行政和法律事务的人
-- 无法适应快节奏和高压环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with organizational coordination and team management skills
+- People with keen insight into real estate and the market
+- Be willing to communicate with people and handle rental and client relationships
+
+**Who is not suited**
+- People who dislike handling administrative and legal matters
+- People who cannot adapt to fast-paced and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Property Integrated Management Managers?**
+A: The pre-tax annual salary for junior employees is about 35,000-45,000 euros, intermediate salaries 45,000-60,000 euros, and seniors up to 60,000-90,000 euros. The Paris area is slightly higher.
+
+**Q: How can foreigners obtain a work visa for the French Property Management Manager?**
+A: You can use the Passeport Talent Passport or the EU Blue Card (Carte Bleue UE) pathways, requiring employer sponsorship and meeting the annual salary requirements. Alternatively, you can first hold a student visa to study abroad and then switch to work or residence.
+
+**Q: What certificates are required for comprehensive property management?**
+A: You must hold a Carte Professionnelle property management certificate, issued by the French Chamber of Commerce, and must pass an exam or prove work experience. There are also DNI diplomas that can be added for extra points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-General Manager (Property and Facility Management)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a general manager in property management?**
-答：Entry-level salary ranges from €35,000 to €45,000 gross per year, mid-level €45,000 to €60,000, and senior up to €90,000. Paris region offers higher pay.
-
-**问：How can foreigners obtain a work visa for a property management manager position in France?**
-答：Through the Passeport Talent or EU Blue Card, requiring employer sponsorship and a salary threshold. Alternatively, study in France first then switch to a work permit.
-
-**问：What certifications are required for property management?**
-答：A professional card (Carte Professionnelle) issued by the Chamber of Commerce is mandatory, requiring an exam or proven experience. A DNI diploma is optional but beneficial.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

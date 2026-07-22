@@ -1,59 +1,94 @@
-# Computer engineers (except software engineers and designers)（Computer engineers (except software engineers and designers)）职业分析 · 加拿大
+# Computer engineers (except software engineers and designers) — career analysis · Canada
 
-**职业代码：21311 – Computer engineers (except software engineers and designers)。**
+**Occupation code: 21311 (NOC)**
 
-In Canada, Telecommunications Engineers closely align with Computer engineers (NOC 21311), designing and optimizing communication networks (5G, fiber, IoT). This STEM occupation is eligible for Express Entry and PNP, requiring ECA credential assessment.
+Canadian communication engineers closely correspond to computer engineers (21231), responsible for designing, deploying, and optimizing communication networks (5G, fiber, IoT). This occupation falls under STEM category in Canada, eligible for Express Entry or PNP skilled migration; requires ECA.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（国内或加拿大本科，国际生学费较高） |
-| 硕士 | 1-2年 | $15,000~$40,000（研究生文凭或硕士学位，助学金可降低费用） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Domestic or Canadian undergraduate degree, higher tuition for international students) |
+| Master's degree | 1-2 years | $15,000~$40,000 (Graduate diploma or master's degree; grants can reduce costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES或IQAS | 必备 | 移民需ECA认证本科学位 |
-| 工程师执照（P.Eng） | 各省工程监管机构 | 可选 | 非强制，但有助于晋升和签署设计文件 |
-| 英语/法语语言考试 | IELTS/TEF Canada | 必备 | EE最低CLB 7，省提名可能更高 |
+| Educational credential assessment (ECA) | WES or IQAS | Required | Immigration requires ECA for bachelor's degree |
+| English/French language test | IELTS/TEF Canada | Required | EE minimum CLB 7, PNP may be higher |
+| Professional Engineer license (P.Eng) | Provincial engineering regulatory bodies | Optional | Not mandatory, but helpful for promotion and signing design documents |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。加拿大通信行业因5G扩展和数字基础设施投资而需求强劲。预计2023-2028年就业增长稳健，特别是在安大略省和魁北克省。电信服务提供商和云计算公司是主要雇主。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Canada's telecommunications industry sees strong demand due to 5G expansion and digital infrastructure investment. Employment growth is expected to be steady from 2023-2028, especially in Ontario and Quebec. Telecom service providers and cloud computing companies are major employers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 本科毕业起薪，取决于省份和公司 |
-| 中级（3-7年） | $80,000~$110,000 | 有P.Eng或经验后薪资上涨 |
-| 高级（7年以上） | $110,000~$150,000 | 高级工程师或管理岗位薪资范围 |
+| Median salary | $109,200 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $60,000~$80,000 | Starting salary for bachelor graduates, depending on province and company |
+| Mid-level (3–7 years) | $80,000~$110,000 | Salary increases with P.Eng or experience |
+| Senior (7+ years) | $110,000~$150,000 | Salary range for senior engineer or management positions |
+| average salary | $116,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从初级工程师起步，可晋升为高级工程师、项目经理或技术专家。经验丰富者可转向系统架构师、网络规划经理，或进入电信运营商及咨询公司担任管理职务。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Computer engineers (excluding software engineers) face mixed prospects: repetitive tasks like network configuration and troubleshooting will be automated by AI, but responsibilities like system architecture design, complex integration, and cybersecurity strategy are amplified with AI assistance; overall impact depends on the specific field.
+
+Typically starts as a junior engineer, progressing to senior engineer, project manager, or technical expert. Experienced professionals can move into system architect, network planning manager, or management roles in telecom operators and consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Automated network configuration and scripting (e.g., SDN controller, automated VLAN configuration)
+- Routine fault troubleshooting and diagnosis (AI analyzing logs and traffic patterns)
+- Basic code review and testing (AI auto-generates test cases)
+- Network monitoring alert response (AI-driven predictive maintenance)
+
+**Where AI augments the role:**
+
+- Complex network architecture design and optimization (AI-assisted simulation and capacity planning)
+- Security incident analysis and response (AI threat intelligence integration)
+- Cross-system integration solution design (AI recommends optimal API combinations)
+- Performance Bottleneck Analysis and Optimization (AI identifies hotspots and suggests optimizations)
+- Document generation and compliance reporting (AI automatically extracts data and generates reports)
+
+**Human moat:**
+
+- Emerging technology standard setting and system architecture-level decisions
+- Cross-team communication and stakeholder management
+- Complex security strategy design and compliance responsibility
+- On-site hardware debugging and emergency handling
+- Understanding business needs and designing innovative solutions
+
+**Skills to build:**
+
+- Basics of AI/ML and their applications in networking (e.g., AIOps, predictive maintenance)
+- Network automation tools (Ansible, Terraform, SDN controllers)
+- Cybersecurity (CISSP, Zero Trust Architecture)
+- Cloud platform architecture (AWS/Azure networking services)
+- Data analysis and visualization (Python, Power BI)
+- Project Management and Agile Methodologies
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee
@@ -62,68 +97,67 @@ In Canada, Telecommunications Engineers closely align with Computer engineers (N
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW / CEC)） | 联邦技术移民或加拿大经验类，需满足CRS分数要求，STEM专业有加分 |
-| Subclass PNP（Provincial Nominee Program） | 多个省份将电信工程师列为紧缺职业，如安省、BC省、阿省，可获额外加分 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有工作offer者 |
+| Subclass EE (Express Entry (FSW / CEC)) | Federal Skilled Worker Program or Canadian Experience Class, must meet CRS score requirements, STEM majors get bonus points |
+| Subclass PNP (Provincial Nominee Program) | Several provinces list telecommunications engineers as in-demand occupations, such as Ontario, BC, and Alberta, providing additional points. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program (employer-driven), suitable for those with a job offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer engineers (except software engineers and designers)？**
-- 有电信或计算机工程背景的应届毕业生或经验者
-- 希望通过STEM类职业走Express Entry的技术移民
-- 愿意在安省、BC省等电信行业集中地区发展
-
-**谁不适合学Computer engineers (except software engineers and designers)？**
-- 不愿再参加语言考试或学历认证
-- 不能接受初期可能需要从低级别岗位开始
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Fresh graduates or experienced individuals with telecommunications or computer engineering background
+- Skilled immigrants aiming for STEM occupations via Express Entry
+- Willing to develop in Ontario, BC, and other provinces with concentrated telecom industries
+
+**Who is not suited**
+- Unwilling to take language tests or credential assessments again.
+- Cannot accept starting from lower-level positions initially
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a communications engineer in Canada?**
+A: According to Job Bank, average annual salary about CAD 90,000; entry-level about 60,000-80,000, senior up to 110,000-150,000. Salary varies by province, experience, and company size.
+
+**Q: Is it easy for communication engineers to immigrate to Canada?**
+A: Relatively easy. This occupation is under EE's STEM category (NOC 21311), and many provincial PNP lists it as in-demand. Need to prepare ECA, language scores, and work experience proof.
+
+**Q: Do I need a Canadian engineering license?**
+A: Not mandatory, but P.Eng is important for signing off projects or senior design roles. Most engineering work can be done without a license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等偏高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer engineers (except software engineers and designers)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a telecommunications engineer in Canada?**
-答：According to Job Bank, the average salary is around CAD 90,000; entry-level CAD 60,000-80,000, senior CAD 110,000-150,000. Varies by province, experience, and employer size.
-
-**问：Is it easy for telecommunications engineers to immigrate to Canada?**
-答：Relatively easy. This occupation falls under STEM in Express Entry (NOC 21311) and is in demand in many PNP streams. Requires ECA, language test, and work experience proof.
-
-**问：Is a Canadian engineering license required?**
-答：Not mandatory, but P.Eng is important for signing off on designs or senior roles. Most engineering jobs can be done without it.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

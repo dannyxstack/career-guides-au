@@ -1,61 +1,93 @@
-# Steam Engine and Boiler Operator（Steam Engine and Boiler Operator）职业分析 · IT
+# Steam Engine and Boiler Operator — career analysis · Italy
 
-**职业代码：8182 – Steam Engine and Boiler Operator。**
+**Occupation code: 8182 (ISCO08)**
 
-Operate and maintain steam boilers and engines to ensure safe and efficient operation in industrial, heating, or power generation settings, typically in manufacturing, energy, and large facilities.
+Operate and maintain steam boilers and engines to ensure safe and efficient operation of industrial, heating, or power generation systems, commonly found in manufacturing, energy, and large facilities.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育文凭 | 2年 | —（公立职业学校免学费，仅少量注册费） |
-| 高中文凭+在职培训 | 1-2年 | —（通常雇主提供培训，费用低） |
+| Vocational education diploma | 2 years | $0~$2,000 (Public vocational schools are tuition-free, with only a small registration fee) |
+| High school diploma plus on-the-job training | 1-2 years | $0~$500 (Employers usually provide training at low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 锅炉操作员资质证书 | 意大利劳动与社会政策部 | 必备 | 法律要求，需通过理论和实操考试 |
-| 安全培训证书 | INAIL/地区机构 | 必备 | 针对锅炉安全操作 |
-| 相关职业教育文凭 | 公立职业学校 | 可选 | 非强制但有助于就业 |
+| Boiler operator qualification certificate | Italian Ministry of Labor and Social Policies | Required | Legal requirement, must pass theoretical and practical exams |
+| Safety training certificate | INAIL/Regional Authority | Required | For boiler safe operation |
+| Relevant vocational education diplomas | Public vocational schools | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 4,500。意大利工业部门对锅炉操作员的需求稳定，但整体就业机会较少，多集中于北部工业区。可再生能源转型可能带来少量新增岗位，但传统岗位缓慢减少。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,500. The Italian industrial sector has stable demand for boiler operators, but overall job opportunities are limited, mostly concentrated in the northern industrial areas. The renewable energy transition may bring a few new positions, but traditional roles are slowly declining.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，通常含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含加班补贴 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪，主管级别更高 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual salary before tax, usually including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual salary before tax, including overtime allowances |
+| Senior (7+ years) | $35,000~$42,000 | Pre-tax annual salary, higher for supervisor-level roles |
+| average salary | $31,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业路径从操作员起步，可通过考取高级锅炉执照晋升为高级操作员或主管，部分人转向能源管理或维护协调岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Steam engine and boiler operators face high risk of automation replacement, especially routine tasks like monitoring, adjusting, and recording will be taken over by AI, but on-site emergency response and complex repairs still require human judgment.
+
+Career path starts as an operator, and can progress to senior operator or supervisor by obtaining a higher-grade boiler license; some move into energy management or maintenance coordination roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of boiler pressure, temperature, and liquid level parameters; the AI system can automatically collect data and issue warnings for anomalies
+- Manually adjust fuel and air supply based on load demand; AI optimization algorithms can automatically control combustion efficiency.
+- Records operation logs and alarm events; AI automatically generates reports and performs correlation analysis of failure modes
+- Perform routine inspections and simple valve operations; AI robots and drones can replace some inspection tasks
+
+**Where AI augments the role:**
+
+- AI predictive maintenance systems can warn of equipment failures in advance, assisting operators in formulating maintenance plans.
+- Digital twin simulation training helps operators master complex fault handling scenarios
+- AI-assisted decision support system optimizes steam load distribution to improve energy efficiency.
+- AR glasses overlay operational data to help operators quickly locate anomalies
+
+**Human moat:**
+
+- On-site emergency response capability: sudden leaks, explosions, etc., require human intuition and decisive action.
+- Complex mechanical repairs: involve replacement of non-standard parts and precision adjustments, which AI can hardly perform remotely.
+- Cross-system coordination: communicating with downstream production departments to adjust steam supply requires interpersonal understanding
+- Old equipment maintenance: fault diagnosis of non-smart devices relies on operator experience
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Operation of predictive maintenance software (e.g., GE Predix)
+- Basic script writing in Python or R for data reporting
+- Electrical control system (PLC/SCADA) maintenance
+- Energy management optimization and carbon emissions accounting.
+
+**Key growth areas:**
 
 - Stable demand
 - Industrial maintenance
@@ -64,65 +96,67 @@ Operate and maintain steam boilers and engines to ensure safe and efficient oper
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，通过年度配额申请，需雇主担保，职业不在紧缺列表但可申请 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪高于意大利平均水平（约28,000欧元），适用于高技能岗位，锅炉操作员通常不符合 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU citizens, applies through annual quota, requires employer sponsorship, occupation is not on the shortage list but can apply |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary above the Italian average (around €28,000), applicable to high-skilled positions; boiler operators typically do not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Steam Engine and Boiler Operator？**
-- 喜欢动手操作和维护机械设备的人
-- 适应轮班和高温噪音工作环境的人
-- 寻求稳定工业就业、不介意体力劳动的人
+**Who is suited**
+- People who enjoy hands-on operation and maintenance of machinery and equipment.
+- Comfortable with shift work and high temperature/high noise work environments
+- People seeking stable industrial employment who do not mind physical labor
 
-**谁不适合学Steam Engine and Boiler Operator？**
-- 厌恶重复性体力劳动和单调环境的人
-- 希望快速晋升或高薪的人
+**Who is not suited**
+- People who dislike repetitive physical labor and monotonous environments
+- Individuals seeking rapid promotion or high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for steam engine and boiler operators?**
+A: Salary is relatively low to medium level, with entry-level around €23,000–€28,000, senior level up to €42,000, but growth potential is limited.
+
+**Q: Can non-EU citizens immigrate to Italy through this occupation?**
+A: This occupation is not on the shortage list, making immigration difficult. The main pathway is through the Decreto Flussi annual quota, which is highly competitive and requires employer sponsorship.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can progress from operator to senior operator, boiler room supervisor, or transition to energy management, maintenance coordination roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Steam Engine and Boiler Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for steam engine and boiler operators?**
-答：Salaries are moderately low, ranging from €23,000-28,000 for entry-level to up to €42,000 for senior roles, with limited growth potential.
-
-**问：Can non-EU citizens immigrate to Italy through this occupation?**
-答：This occupation is not on the shortage list, making immigration difficult. The main route is via the Decreto Flussi annual quota, but competition is high and employer sponsorship is required.
-
-**问：What are the career progression paths?**
-答：Operators can advance to senior operator, boiler room supervisor, or transition to energy management or maintenance coordination roles.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

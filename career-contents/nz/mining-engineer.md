@@ -1,59 +1,95 @@
-# Mining Engineer（Mining Engineer）职业分析 · 新西兰
+# Mining Engineer — career analysis · New Zealand
 
-**职业代码：233611 – Mining Engineer。**
+**Occupation code: 233611 (ANZSCO)**
 
-Mining engineers in New Zealand plan, design, and supervise mining operations, including open-pit/underground mining, mineral processing, and safety management. Listed on Green List Tier 1, offering a direct residence pathway.
+New Zealand mining engineers plan, design, and supervise mining operations, including open-pit/underground mines, mineral processing, and safety management. This occupation is on the Green List (Tier 1), allowing direct residency applications with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 工程学士（荣誉） | 4年 | $35,000~$45,000（年均学费（国际生）） |
-| 工程硕士 | 1-2年 | $40,000~$50,000（年均学费（国际生）） |
+| Bachelor of Engineering (Honours) | 4 years | $35,000~$45,000 (Average annual tuition (international students)) |
+| Master's degree in Engineering | 1-2 years | $40,000~$50,000 (Average annual tuition (international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士（荣誉）采矿工程 | University of Otago (唯一开设院校) | 必备 | 需具备4年制工程学位，且通过Washington Accord认证 |
-| 注册专业工程师（CPEng） | 工程新西兰（Engineering New Zealand） | 可选 | 需3年以上工作经验及能力评估，部分雇主强制要求 |
-| 雅思6.5（单项≥6.0） | IELTS | 必备 | 移民语言要求 |
+| Bachelor of Engineering (Honours) in Mining Engineering | University of Otago (only institution offering it) | Required | Requires a 4-year engineering degree accredited by Washington Accord |
+| IELTS 6.5 (no band below 6.0) | IELTS | Required | Immigration language requirement |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Requires 3+ years of work experience and competency assessment; mandatory for some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。新西兰采矿业规模较小，但南岛（如西海岸、奥塔哥）的金矿、煤矿及黄金勘探活动持续，未来五年就业平稳，年增长率约2-3%。需注意行业岗位受全球大宗商品价格波动影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. New Zealand's mining industry is small scale, but gold and coal mining and gold exploration activities in the South Island (e.g., West Coast, Otago) continue. Employment is stable over the next five years with annual growth of about 2-3%. Industry positions are influenced by global commodity price fluctuations.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 起薪约7-9万，含津贴 |
-| 中级（3-7年） | $95,000~$120,000 | 项目工程师/现场主管 |
-| 高级（7年以上） | $130,000~$160,000 | 技术经理/顾问 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | Starting salary around 70,000-90,000, including allowances |
+| Mid-level (3–7 years) | $95,000~$120,000 | Project engineer/site supervisor |
+| Senior (7+ years) | $130,000~$160,000 | Technical manager/consultant |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级工程师（0-5年）可积累现场经验，考取专业工程师注册；中级（5-10年）可晋升为项目主管或运营经理；高级（10年以上）可任技术总监或咨询顾问，或转向矿山规划/资源评估专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
+
+Junior engineers (0-5 years) can gain field experience and obtain professional engineer registration; mid-level (5-10 years) can advance to project supervisor or operations manager; senior (10+ years) can become technical director or consultant, or shift to mine planning or resource assessment specialist.
+
+**Tasks most exposed to AI:**
+
+- Manual drafting of mine design and construction drawings
+- Resource reserve estimation based on experience
+- Manually write routine mining plans and progress reports
+- Manual monitoring of equipment status and energy consumption
+- On-site Inspections for Hazard Identification
+
+**Where AI augments the role:**
+
+- Use AI for 3D modeling of ore deposits and resource assessment
+- Optimizing autonomous truck routes and blasting plans using AI
+- Using machine learning to predict rock mass stability and support requirements
+- Integrating digital twin technology for real-time monitoring and adjustment of mining operations
+- Quickly parse geological reports and compliance documents using natural language processing
+
+**Human moat:**
+
+- Decision-making under complex geological conditions
+- Communication and coordination with government/community/Indigenous peoples
+- Safety regulation enforcement and emergency incident command
+- Multidisciplinary team collaboration integrating AI recommendations
+- Comprehensive assessment of ethics and environmental impact
+
+**Skills to build:**
+
+- Geostatistics and machine learning applied to resource modeling
+- Operation and configuration of automated scheduling systems (e.g., Minestar)
+- Python/R data analysis and digital twin platform usage
+- Mine simulation software (e.g., Vulcan, Surpac) with AI plugins
+- Project Management and Cross-Departmental AI Solution Integration
+- Data visualization and report automation tools
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,67 +98,66 @@ Mining engineers in New Zealand plan, design, and supervise mining operations, i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 职业在绿色列表Tier 1上，满足资格可一步到位直接申请居留，无需先工作两年。 |
-| Subclass SMC（Skilled Migrant Category） | 可通过6分制技术移民申请，需满足学历、工作经验和薪资要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未直接满足居留条件，可先通过认证雇主工签入境工作，后再转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Occupation is on the Green List Tier 1, qualified applicants can directly apply for residence in one step, without needing to work for two years first. |
+| Subclass SMC (Skilled Migrant Category) | Eligible for the 6-point skilled migration scheme, requiring qualifications, work experience, and salary requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct residence conditions are not met, can first enter on a sponsored employer work visa, then later switch to residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Engineer？**
-- 拥有采矿工程或相关工程学位，并希望快速移民新西兰的人
-- 具备矿山现场经验、擅长规划与安全管理，能适应偏远地区工作环境
-
-**谁不适合学Mining Engineer？**
-- 无法接受长期在偏远矿区工作，偏好城市白领环境的人
-- 对语言要求（雅思6.5）有困难，或不愿投入多年教育和注册过程的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a mining engineering or related engineering degree who wish to immigrate to New Zealand quickly
+- Experienced in mine site operations, skilled in planning and safety management, adaptable to remote work environments
+
+**Who is not suited**
+- People who cannot accept long-term work in remote mining areas and prefer urban white-collar environments
+- Those who have difficulty with language requirements (IELTS 6.5) or are unwilling to invest years of education and registration process
+
+---
+
+## 8. FAQ
+
+**Q: How do salaries for mining engineers in New Zealand compare to Australia?**
+A: New Zealand salaries are significantly lower than Australia. Junior mining engineer annual salary in Australia is about 120,000-150,000 AUD, while in New Zealand only 70,000-90,000 NZD. Senior positions in Australia can reach 200,000+ AUD, in New Zealand about 130,000-160,000 NZD.
+
+**Q: What conditions are required for mining engineers to immigrate to New Zealand?**
+A: Need a New Zealand-recognized bachelor's degree in mining engineering (e.g., from University of Otago), IELTS 6.5 (no band below 6), and a job from an accredited employer to apply directly for residence via Green List Tier 1, without work experience requirements.
+
+**Q: Are there many employment opportunities for mining engineers in New Zealand?**
+A: Limited opportunities, with only about 800 practitioners nationwide. Main employers are small gold mines (e.g., OceanaGold) and coal companies, with jobs concentrated on the West Coast and Otago regions. It is recommended to contact potential employers in advance or gain experience in Australia first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 较难（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Mining Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How do salaries for mining engineers in New Zealand compare to Australia?**
-答：Salaries in New Zealand are significantly lower. In Australia, entry-level roles earn AUD 120,000-150,000, while in NZ it's NZD 70,000-90,000. Senior roles in Australia can exceed AUD 200,000, vs NZD 130,000-160,000.
-
-**问：What are the requirements for mining engineers to migrate to New Zealand?**
-答：You need a recognised Bachelor of Engineering (Honours) in Mining Engineering (e.g., from University of Otago), IELTS 6.5 (no band less than 6.0), and a job offer from an accredited employer, then you can apply for a Straight to Residence Visa under Green List Tier 1.
-
-**问：Are there many job opportunities for mining engineers in New Zealand?**
-答：Opportunities are limited, with only about 800 practitioners nationwide. Main employers include small gold mines (e.g., OceanaGold) and coal companies, concentrated on the West Coast and Otago. It's advisable to contact employers in advance or gain experience in Australia first.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

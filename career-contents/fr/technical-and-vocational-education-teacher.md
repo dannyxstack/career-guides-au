@@ -1,60 +1,95 @@
-# Technical and Vocational Education Teacher（Technical and Vocational Education Teacher）职业分析 · FR
+# Technical and Vocational Education Teacher — career analysis · France
 
-**职业代码：K2109 – Technical and Vocational Education Teacher。**
+**Occupation code: K2109 (ROME)**
 
-Teach technical and vocational subjects in French secondary schools or training centers (e.g., Lycée professionnel, CFA), combining theory with hands-on practice to prepare students for CAP, Bac Pro, and other vocational qualifications.
+Teach professional technical courses at French secondary schools or vocational education institutions (such as Lycée professionnel, CFA), covering industries such as industry, commerce, and services, emphasizing the integration of practical skills with theory, and guiding students to obtain vocational diplomas like CAP and Bac Pro.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 技术教师证书（CAPLP） | 2年（Master MEEF） | $500~$10,000（公立大学学费低，私立高等师范学校费用较高，可通过apprentissage减免） |
-| 职业学士（Licence Pro）或硕士（Master） | 3-5年（Licence+Master） | $3,000~$15,000（公立大学每年约3000欧，私立商学院或工程师学院较高） |
-| CAP/Bac Pro+职业经验 | 2-4年 | —（可通过学徒制（apprentissage）免费学习并获得工资） |
+| Technical Teacher Certificate (CAPLP) | 2 years (Master MEEF) | $500~$10,000 (Public universities have low tuition fees, while private higher normal schools have higher fees, which can be waived through apprentissance) |
+| Vocational Bachelor (Licence Pro) or Master's | 3-5 years (Licence + Master) | $3,000~$15,000 (Approximately €3,000 per year at public universities, higher at private business schools or engineering schools) |
+| CAP/Bac Pro+ professional experience | 2-4 years | $0~$5,000 (You can study for free and earn a salary through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中学技术教师证书（CAPLP） | 法国教育部 | 必备 | 通过外部竞考（concours）获得，要求硕士学历或同等经验，是公立学校任教的必要条件 |
-| 职业培训经理证书（Titre de formateur） | 法国劳动部 | 可选 | 私立培训机构任教可能需要，非强制但有利于就业 |
-| CQP（职业资格认证） | 行业认证机构 | 必备 | 部分行业（如电工、焊接）要求持有CQP才能教授特定技能课程 |
+| Certificate of Technical Teacher in Secondary School (CAPLP) | French Ministry of Education | Required | Obtaining it through external competitions (concours), requiring a master's degree or equivalent experience, is a necessary condition for teaching in public schools |
+| CQP (Professional Qualification Certification) | Industry certification bodies | Required | Some industries (such as electricians and welding) require a CQP to teach specific skills courses |
+| Professional Training Manager Certificate (Titre de formateur) | French Ministry of Labor | Optional | Private training institutions may require teaching, are not mandatory, but are beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国政府持续推动职业教育改革，以降低青年失业率并填补技能缺口，预计未来十年对技术教师的需求保持稳定增长，尤其在工业、数字技术、绿色能源等紧缺领域。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. The French government continues to promote vocational education reforms to reduce youth unemployment and fill skill gaps, and is expected to maintain steady growth in demand for technical teachers over the next decade, especially in scarce sectors such as industry, digital technology, and green energy.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税后约1900-2400欧元/月（取决于学校类型和地区） |
-| 中级（4-10年） | $30,000~$40,000 | 包括津贴和加班费，税后约2300-3200欧元/月 |
-| 高级（10年以上） | $40,000~$50,000 | 包括高级教师津贴和奖金，税后约3200-4200欧元/月 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | After tax, about 1900-2400 euros/month (depending on school type and region) |
+| Mid-level (4-10 years). | $30,000~$40,000 | Including allowances and overtime pay, the after-tax amount is about 2300-3200 euros per month |
+| Senior (10+ years) | $40,000~$50,000 | Including senior teacher allowances and bonuses, after tax about 3200-4200 euros per month |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从企业技术岗位转入教育领域，先获得CAPES或CAPLP等教师资格，逐步晋升为高级教师、教学协调员或教育顾问，也可转向职业培训中心管理或课程开发岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate lower- and mid-level tasks in course management, but strengthening teachers' roles as practical mentors and assessors is a mixed process; Proactively upgrade skills to stay relevant.
+
+Typically, students transition from technical positions in enterprises to the education sector, first obtaining teaching qualifications such as CAPES or CAPLP, then gradually advancing to senior teachers, teaching coordinators, or educational consultants, and can also transition to vocational training center management or curriculum development roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates standardized course syllabi and exam question banks
+- AI-corrected multiple-choice and foundational essay questions
+- Create and maintain online learning resources and video tutorials
+- Automatically records and analyzes student attendance and performance data
+- Provides operational tips for basic programming or software operations
+
+**Where AI augments the role:**
+
+- Immersive skills training using AI simulation software (such as welding and CNC machine tools)
+- With the help of intelligent tutoring systems, students can diagnose their mastery in real time and tailor their teaching accordingly
+- Optimize course design through data analysis, focusing on changing industry demands
+- Use automated evaluation tools to quickly provide feedback on the quality of your work (such as code and design drawings)
+- Integrate industry databases to provide students with customized career development advice
+
+**Human moat:**
+
+- Hands-on guidance for on-site demonstration and correction of complex operations
+- Qualitative judgments assessing students' non-technical qualities (professional ethics, teamwork).
+- Design interdisciplinary projects to inspire innovative thinking and problem-solving skills
+- Establish trust between teachers and students and provide personalized care through tailored instruction
+- Updating professional certification standards to keep pace with industry technology
+
+**Skills to build:**
+
+- Master AI teaching tools (such as adaptive learning platforms, virtual lab software)
+- Fundamentals of learning data analysis, interpreting learning behavior data to improve teaching
+- Proficient in at least one advanced technology required for industry certification (such as CNC programming and industrial robots)
+- Develop blended teaching design capabilities and integrate online and offline practical training
+- Enhance communication and tutoring skills to meet the diverse needs of students
+- Participate in industry cooperation projects to stay informed about cutting-edge technology trends
+
+**Key growth areas:**
 
 - Vocational reform
 - Skills shortage
@@ -63,65 +98,67 @@ Teach technical and vocational subjects in French secondary schools or training 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 适用于获得法国雇主（如公立学校或私立培训机构）工作合同的外国教师，需申请工作许可，薪资需达到法定最低标准（约1.5倍SMIC） |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于在紧缺领域（如数字技术、工程）拥有高技能或资历的教师，薪资要求较高（约2倍SMIC），可快速获得居留 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业生或已获工作许可但失业者可申请该临时居留，有效期12个月，用于寻找教学工作 |
+| Subclass Salarié (Salarié (Employee)) | This applies to foreign teachers who have contracts with French employers (such as public schools or private training institutions) and must apply for a work permit, with a salary meeting the statutory minimum standard (about 1.5 times the SMIC). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for teachers with high skills or qualifications in scarce fields such as digital technology and engineering, with higher salary requirements (about twice the SMIC rate), allowing for quick residency |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Graduates or those who have obtained a work permit but are unemployed can apply for this temporary residence, valid for 12 months, to find teaching work |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical and Vocational Education Teacher？**
-- 热爱教学且具备扎实行业技术经验的人
-- 希望从事稳定公职（法国教师为公务员）并有志于参与职业教育改革的人
-- 具有良好沟通能力和耐心，能适应多元学生背景的人
-
-**谁不适合学Technical and Vocational Education Teacher？**
-- 不愿参加严格竞考（concours）或无法接受低起始薪资的人
-- 对行政工作或学生纪律问题缺乏耐心的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and possessing solid industry technical experience
+- Those who wish to pursue stable public positions (French teachers are civil servants) and are interested in participating in vocational education reform
+- Individuals with good communication skills and patience, able to adapt to diverse student backgrounds
+
+**Who is not suited**
+- Those unwilling to participate in strict concours or unable to accept low starting salaries
+- People who lack patience for administrative work or student discipline issues
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for technical and vocational education teachers?**
+A: Junior teachers earn about 25,000-30,000 euros before tax, intermediate teachers about 30,000-40,000 euros, and senior teachers up to 50,000 euros. Public school teachers' salaries are subject to the civil servant pay scale, but they enjoy stable benefits and holidays.
+
+**Q: How can foreign teachers obtain a French work visa?**
+A: You must first pass the French Teacher Qualification Examination (CAPLP) or obtain an equivalent qualification recognized in France, then be offered a work contract by a public school or private institution. You can apply for a Salarié work visa, or if your field is in high demand, you can try the Passeport Talent Passport.
+
+**Q: Is French teacher certification required?**
+A: To teach in public schools, one must hold a CAPLP certificate, which is obtained through a national competition. Private institutions may accept industry qualifications or trainer certificates issued by the French Ministry of Labor. Foreign qualifications must be certified by ENIC-NARIC.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Technical and Vocational Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for technical and vocational education teachers?**
-答：Entry-level salaries range from €25,000 to €30,000 gross per year, mid-level from €30,000 to €40,000, and senior teachers can earn up to €50,000. Public school teachers follow a fixed pay scale with good benefits and holidays.
-
-**问：How can foreign teachers obtain a French work visa?**
-答：They must pass the French teacher recruitment exam (CAPLP) or obtain a recognized equivalent qualification, then secure a job offer from a public school or private institution. They can apply for a Salarié work visa, or if in a shortage field, a Passeport Talent.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

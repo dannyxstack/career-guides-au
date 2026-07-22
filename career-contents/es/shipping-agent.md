@@ -1,58 +1,94 @@
-# Shipping Agent（Shipping Agent）职业分析 · ES
+# Shipping Agent — career analysis · Spain
 
-**职业代码：3523 – Shipping Agent。**
+**Occupation code: 3523 (CNO)**
 
-Shipping agents coordinate vessel arrivals/departures, cargo handling, documentation, and liaise with port authorities, customs, and shippers, playing a key role in port logistics.
+Shipping agents are responsible for coordinating ship entry and exit, cargo loading and unloading, document processing, and communication with ports, customs, cargo owners, and other parties. They are key positions in port logistics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Superior en Transporte y Logística | 2年（FP Superior） | —（公立学校免学费，仅注册费和材料费） |
-| Grado en Logística o Náutica | 4年（Grado） | $1,000~$4,000（公立大学每年学费，视地区而定） |
+| FP Grado Superior en Transporte y Logística | 2 years (FP Superior) | $0~$1,500 (Public schools are free of tuition, except for registration and material fees) |
+| Grado en Logística o Náutica | 4 years (Grado) | $1,000~$4,000 (Annual tuition fees for public universities vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior en Transporte y Logística | Ministerio de Educación | 可选 | 职业教育学位，行业普遍认可 |
-| Grado en Logística | Universidad | 可选 | 大学本科学位，可提升竞争力 |
+| FP Grado Superior en Transporte y Logística | Ministerio de Educación | Optional | Vocational education degrees, widely recognized by the industry |
+| Grado en Logística | Universidad | Optional | A bachelor's degree can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 3,500。西班牙港口贸易持续增长，尤其是巴塞罗那、瓦伦西亚、阿尔赫西拉斯等主要港口，船务代理需求稳定。数字化转型提升效率，但经验丰富的代理仍紧缺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,500. Spanish port trade continues to grow, especially at major ports such as Barcelona, Valencia, and Algeciras, where demand for shipping agents remains stable. Digital transformation boosts efficiency, but experienced agents remain in short supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视港口和公司规模 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，主管或经理级 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary depends on the port and company size |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary, supervisor or manager level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级单证员晋升为资深代理、部门主管，或转向货运代理、物流管理岗位。具备多语言能力和国际物流经验者发展更佳。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core coordination and communication functions of shipping agencies are not easily automated, but tasks such as data processing and document inspection face risks of AI substitution, resulting in a mixed overall situation.
+
+You can be promoted from junior document officer to senior agent or department supervisor, or move to freight forwarding or logistics management positions. Those with multilingual abilities and international logistics experience will have better prospects.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and verify standardized documents such as bills of lading and manifests
+- Rule-based customs declarations and compliance checks
+- Prediction and scheduling optimization of vessel arrival times
+- Automatic notification of cargo tracking and abnormal alerts
+- Automated processing of expense calculation and billing generation
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of port congestion data optimizes vessel berthing plans
+- Real-time translation and cross-cultural communication support enhance international coordination efficiency
+- Predictive maintenance recommendations to reduce the risk of vessel delays
+- Multi-source data integration to provide customized logistics reports for customers
+- Blockchain technology enhances document security and traceability
+
+**Human moat:**
+
+- Emergency coordination and multi-party negotiations in emergencies
+- Interpretation of complex trade terms and legal risk assessment
+- Establish long-term trust relationships with ports, customs, cargo owners, and others
+- The ability to handle non-standardized, ambiguous, or compliance disputes
+- Tacit knowledge of local port operating practices
+
+**Skills to build:**
+
+- Proficient in using logistics AI tools (such as predictive analytics, RPA)
+- Proficient in Python or SQL for data cleaning and analysis
+- Learn about changes in customs and trade regulations and digital declaration systems
+- Enhance negotiation and crisis communication skills
+- Learn about blockchain applications in supply chains
+- Obtain logistics certifications such as CIPS or CILT
+
+**Key growth areas:**
 
 - Port Trade Growth
 - Digitalization
@@ -61,64 +97,63 @@ Shipping agents coordinate vessel arrivals/departures, cargo handling, documenta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的工作居留，适用于受雇于西班牙公司的船务代理。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 高技能人才签证，适合年薪超过一定门槛的专业人士，流程更快。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residency applies to shipping agents employed by Spanish companies. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | The High-Skilled Talent visa is suitable for professionals whose annual salary exceeds a certain threshold, with a faster process. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shipping Agent？**
-- 具备良好沟通协调能力的人
-- 对物流和国际贸易感兴趣的人
-- 能适应不定时工作和港口环境的人
-
-**谁不适合学Shipping Agent？**
-- 不擅长处理繁琐单证和细节的人
-- 抗拒高压和快节奏工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good communication and coordination skills
+- For those interested in logistics and international trade
+- People who can adapt to irregular work hours and port environments
+
+**Who is not suited**
+- People who are not good at handling complicated documents and details
+- People who resist high-pressure and fast-paced work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for shipping agents in Spain?**
+A: Junior approx. €22,000-28,000, mid-level €30,000-38,000, senior €40,000-55,000 (annual pre-tax salary).
+
+**Q: How can non-EU citizens obtain a work visa for Spanish shipping agents?**
+A: You can obtain an employer-sponsored work residence (Cuenta ajena) or a highly skilled worker visa (Altamente cualificado), which requires meeting educational and work experience requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Shipping Agent的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a shipping agent in Spain?**
-答：Entry-level: €22,000-28,000; mid-level: €30,000-38,000; senior: €40,000-55,000 (gross annual).
-
-**问：How can non-EU citizens obtain a work visa as a shipping agent in Spain?**
-答：Via employer-sponsored work permit (Cuenta ajena) or highly skilled visa (Altamente cualificado), requiring relevant qualifications and experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Warehouse Operations and Order Preparation（Warehouse Operations and Order Preparation）职业分析 · FR
+# Warehouse Operations and Order Preparation — career analysis · France
 
-**职业代码：N1103 – Warehouse Operations and Order Preparation。**
+**Occupation code: N1103 (ROME)**
 
-Responsible for receiving, storing, picking, packing, and shipping goods in a warehouse to ensure accurate and efficient order preparation.
+Responsible for receiving, storing, picking, packing, and shipping goods within the warehouse, ensuring orders are prepared accurately and efficiently.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业+职业培训 | 1年（CAP） | —（可通过学徒制免费学习，政府补贴） |
-| 高中毕业+专业培训 | 2年（Bac Pro Logistique） | —（公立学校免费，私立需学费） |
+| Junior high school graduation + vocational training | 1 year (CAP) | $0~$1,000 (You can study for free through an apprenticeship system, with government subsidies) |
+| High school graduation + professional training | 2 years (Bac Pro Logistique) | $0~$3,000 (Public schools are free, private schools require tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES 1/3/5 叉车驾驶证书 | 法国劳动部认证机构 | 必备 | 必备，用于驾驶叉车等设备，每5年更新 |
-| SST 急救培训 | 法国劳动部 | 可选 | 推荐，提升安全能力 |
+| CACES 1/3/5 forklift driving certificate | Certification body of the French Ministry of Labor | Required | Essential, used for driving forklifts and other equipment, updated every 5 years |
+| SST first aid training | French Ministry of Labor | Optional | Recommendation, enhancing safety capabilities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 320,000。电商和物流业持续增长，仓储岗位需求旺盛。自动化普及可能减少低技能岗位，但订单准备员仍保持稳定需求。
+**Job demand: high (★★★★☆).** National workforce approx. 320,000. E-commerce and logistics continue to grow, with strong demand for warehousing positions. The widespread adoption of automation may reduce low-skilled jobs, but demand for order preparers remains stable.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | SMIC起薪，约1800€/月 |
-| 中级（3-7年） | $26,000~$30,000 | 含技能奖金 |
-| 高级（7年以上） | $30,000~$36,000 | 团队主管或资深岗位 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | SMIC starts at about €1800/month |
+| Mid-level (3–7 years) | $26,000~$30,000 | Including skill bonus |
+| Senior (7+ years) | $30,000~$36,000 | Team leader or senior position |
+| average salary | $33,114 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可晋升为仓库主管、物流协调员或仓库经理，也可通过培训转向供应链管理或物流规划。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Inventory managers and order pickers face high risk of automation; AI and robots will significantly replace repetitive picking, counting, etc., reducing entry-level positions, but technical maintenance and exception handling roles remain in demand.
+
+You can be promoted to warehouse supervisor, logistics coordinator, or warehouse manager, or through training, you can transition to supply chain management or logistics planning.
+
+**Tasks most exposed to AI:**
+
+- Pick order items using handheld scanners or voice systems
+- Manually counting inventory and updating records
+- Moving goods using forklifts or pallet jacks
+- Restocking shelves or picking locations
+- Pack and label items according to orders
+
+**Where AI augments the role:**
+
+- Use AI to optimize picking paths and order allocation plans
+- Real-time inventory monitoring and automatic replenishment using IoT sensors and predictive algorithms
+- Managing automated warehousing systems (e.g., robot cluster coordination).
+- Identify inventory anomalies and develop countermeasures through data analysis.
+- Training operators on AI-assisted picking equipment.
+
+**Human moat:**
+
+- Handle exceptions (e.g., damage, misplacement, system failures)
+- Optimizing warehouse layout and process design
+- Cross-departmental coordination and client communication
+- Flexible adaptation to complex physical environments (e.g., irregular cargo)
+- Safety supervision and compliance management
+
+**Skills to build:**
+
+- Advanced operation of Warehouse Management Systems (WMS)
+- Robotic Process Automation (RPA) basics
+- Data analysis and inventory forecasting
+- Automated equipment maintenance (e.g., AGVs, sorters)
+- Supply Chain Management Basics
+- AI tool integration (e.g., recommendation systems, visual recognition)
+
+**Key growth areas:**
 
 - E-commerce boom
 - Logistics expansion
@@ -61,62 +97,67 @@ Responsible for receiving, storing, picking, packing, and shipping goods in a wa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 由雇主担保的工作居留，需要获得法国劳动局（France Travail）的批准。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才或紧缺职业，但仓储岗通常不适用，除非管理职位。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪至少53,000€（2025标准），仓储岗不易达到。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employer-sponsored work residence requires approval from the French Labour Bureau (France Travail). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talent or in scarce occupations, but warehouse positions are usually not suitable except for management positions. |
+| Subclass Carte bleue UE (EU Blue Card) | Requires annual salary of at least EUR 53,000 (2025 standard); warehouse roles rarely meet this. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Warehouse Operations and Order Preparation？**
-- 喜欢体力活动、操作设备的人
-- 注重效率、有条理的人
-- 适应轮班和快节奏工作的人
-
-**谁不适合学Warehouse Operations and Order Preparation？**
-- 不喜重复性体力劳动的人
-- 追求高薪和快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical activity and operating equipment
+- Efficient and organized people
+- People who adapt to shifts and fast-paced work
+
+**Who is not suited**
+- Those who dislike repetitive physical labour
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for warehouse order preparers?**
+A: Entry-level salaries are about 22,000-26,000 euros, intermediate salaries about 26,000-30,000 euros, and seniors up to 36,000 euros, including bonuses and overtime.
+
+**Q: How can foreigners obtain a French work visa through this profession?**
+A: An employer-sponsored application for Salarié work residence is required, proving that the position cannot recruit EU residents. You must have a language foundation (French A2/B1) and a CACES certificate.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: You can be promoted to warehouse supervisor, logistics coordinator, or through training to transition to supply chain management, inventory control, and more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Warehouse Operations and Order Preparation的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a warehouse order preparer?**
-答：Entry-level annual salary is around €22,000-€26,000, mid-level €26,000-€30,000, and senior up to €36,000, including bonuses and overtime.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

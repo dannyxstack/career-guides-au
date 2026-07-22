@@ -1,60 +1,96 @@
-# Loan and Credit Salespersons（Loan and Credit Salespersons）职业分析 · ES
+# Loan and Credit Salespersons — career analysis · Spain
 
-**职业代码：3402 – Loan and Credit Salespersons。**
+**Occupation code: 3402 (CNO)**
 
-Specialize in selling loans, credit cards, mortgages, and other financial products to individuals or businesses, assessing client creditworthiness and closing deals. Employed by banks, credit institutions, and financial intermediaries.
+Responsible for promoting loans, credit cards, mortgages, and other financial products to individuals or enterprises, assessing customer credit risk and facilitating transactions. They are typically employed by banks, credit institutions, and financial intermediaries.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或FP中等职业培训 | 2年（FP Grado Superior en Administración y Finanzas） | —（公立FP学费低，约0-2000欧元/年；私立较高） |
-| 大学本科（商科/经济学） | 4年（Grado） | $1,000~$6,000（公立大学学费约1000-2000欧元/年；私立6000-12000欧元/年） |
+| High school graduates or FP secondary vocational training | 2 years (FP Grado Superior en Administración y Finanzas) | $0~$2,000 (Public FP tuition is low, about 0-2000 euros per year; Private schools have higher rates) |
+| Undergraduate (Business/Economics) | 4 years (Grado) | $1,000~$6,000 (Public university tuition is about 1000-2000 euros per year; Private 6,000-12,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性执照，但雇主偏好金融相关学位 | 西班牙公立或私立大学 | 可选 | 商科、经济学或金融学位有助于入职 |
-| 西班牙国家银行（Banco de España）认证（高级职位） | Banco de España | 可选 | 从事信贷中介或高级销售可能需要注册，但非入门要求 |
+| No mandatory license, but employers prefer finance-related degrees | Public or private universities in Spain | Optional | Degrees in business, economics, or finance help with entry |
+| Banco de España Certification (Senior Position) | Banco de España | Optional | Engaging in credit brokerage or senior sales may require registration, but it is not an entry requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 18,000。西班牙信贷市场与经济活动密切相关，经济复苏期需求稳定；但数字化转型和线上贷款平台的兴起可能削弱传统销售岗位。未来就业基本持平，有销售能力者仍有机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 18,000. Spain's credit market is closely linked to economic activity, with stable demand during economic recovery periods; However, the rise of digital transformation and online lending platforms may weaken traditional sales roles. Future employment is basically flat, and those with sales skills still have opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 底薪+佣金，浮动大 |
-| 中级（3-7年） | $24,000~$36,000 | 固定佣金比例提升 |
-| 高级（7年以上） | $36,000~$50,000 | 团队主管或大客户经理 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Base salary + commission, large fluctuations |
+| Mid-level (3–7 years) | $24,000~$36,000 | Fixed commission ratio increased |
+| Senior (7+ years) | $36,000~$50,000 | Team Leader or Key Account Manager |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级销售员可晋升为高级客户经理或团队主管，未来可转向商业分析、风险控制或信贷管理岗位。部分人通过考取金融认证提升至投资顾问或私人银行家。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI is reshaping the core tasks of credit officers: risk assessment and compliance checks will be largely automated, but customer communication and complex decisions still require humans; entry-level roles are narrowing, but senior roles are growing due to AI amplifying capabilities.
+
+Junior salespeople can be promoted to senior account managers or team leaders, and may later transition to roles in business analysis, risk control, or credit management. Some have advanced to investment advisory or private banker status by obtaining financial certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracts key indicators from credit reports and financial data and generates preliminary risk assessments
+- Automatically approve or reject standard loan applications based on historical data and rule engines
+- Automated compliance checks, comparing regulatory requirements with loan documents
+- Generate standardized loan documents and reports
+- Track loan repayments and automatically send reminders or flag overdue accounts
+
+**Where AI augments the role:**
+
+- Using AI prediction models to more accurately assess credit risk for complex borrowers.
+- Analyze unstructured customer data (e.g., social media, financial invoices) using natural language processing to support decision-making
+- Using AI to optimize loan product portfolios and pricing strategies
+- efficiently managing large volumes of client files and documents with automation tools
+- Use AI to simulate loan portfolio risk under different economic scenarios
+
+**Human moat:**
+
+- Build trust with clients, understand their unique financial situations, and recommend customized solutions
+- Handle exceptional cases and complex situations, such as special payment arrangements or fraud investigations
+- Final loan approval responsibility and regulatory compliance responsibility
+- Extracting key information through in-depth interviews (e.g., borrower's genuine repayment willingness)
+- Cross-departmental coordination (e.g., legal, risk management) to resolve disputes
+
+**Skills to build:**
+
+- AI/machine learning basics, especially credit risk modelling
+- Data analysis tools (Python, R, SQL)
+- Operating fintech platforms (e.g., cloud-based loan management systems)
+- Complex communication and sales skills (cross-cultural negotiation)
+- Regulatory compliance knowledge update (e.g., CCPA, Basel III)
+- Digital marketing and customer relationship management (CRM)
+
+**Key growth areas:**
 
 - digital lending
 - fintech competition
@@ -63,64 +99,66 @@ Specialize in selling loans, credit cards, mortgages, and other financial produc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Third-country)） | 需获得西班牙公司工作合同，且雇主证明无法在欧盟内招聘到合适人选。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，但销售类通常要求年薪超过33,908欧元（2023标准），且需大学学历或5年相关经验。 |
+| Subclass Cuenta ajena (Work Contract (Third-country)) | You must obtain a work contract with a Spanish company, and the employer can prove that suitable candidates cannot be recruited within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, but sales positions typically require an annual salary exceeding 33,908 euros (2023 standards) and a university degree or 5 years of relevant experience. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Loan and Credit Salespersons？**
-- 具备优秀沟通与推销能力的人
-- 喜欢目标驱动、业绩导向的工作环境
+**Who is suited**
+- Individuals with excellent communication and sales skills
+- Enjoy a goal-driven, performance-oriented work environment
 
-**谁不适合学Loan and Credit Salespersons？**
-- 厌恶销售压力和不稳定收入的人
-- 偏好稳定、低强度工作的人
+**Who is not suited**
+- People who dislike sales pressure and unstable income
+- People who prefer stable, low-intensity work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of loan salespeople stable?**
+A: Income is mainly base salary plus commission. Entry-level annual salary approximately EUR 18,000-24,000, senior can reach EUR 50,000, but performance fluctuates greatly and is unstable.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: It's very difficult. Non-EU citizens must have employer-sponsored work contracts, and sales positions are not in short supply, with strict approval by immigration authorities. The EU Blue Card requires a high salary and education, with high entry requirements.
+
+**Q: Is a university degree required?**
+A: Not mandatory, but employers tend to hire candidates with business or economics backgrounds. The FP Financial Management Diploma is also available for entry-level students.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Loan and Credit Salespersons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income stable for loan salespersons?**
-答：Income is base salary plus commission; entry-level earns €18k-€24k per year, senior up to €50k, but fluctuates with performance.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. Non-EU nationals need employer sponsorship, and sales roles are not shortage occupations. EU Blue Card requires high salary and degree, which is challenging.
-
-**问：Is a university degree required?**
-答：Not mandatory, but employers prefer candidates with business or economics backgrounds. FP diploma in finance is also acceptable.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Physicist（Physicist）职业分析 · 新西兰
+# Physicist — career analysis · New Zealand
 
-**职业代码：234914 – Physicist。**
+**Occupation code: 234914 (ANZSCO)**
 
-Physicists in New Zealand work in research, university teaching, and medical physics (e.g., radiotherapy). Clear migration pathways, Green List occupation, competitive salaries, but limited job openings.
+Physicists in New Zealand primarily work in scientific research, university teaching, and medical physics (e.g., radiotherapy). Skilled migration pathways are clear, with occupations on the Green List, competitive salaries, but limited job openings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（物理学） | 3年 | $25,000~$40,000（国际生年学费） |
-| 硕士（物理学或医学物理） | 2年 | $35,000~$50,000（国际生年学费） |
-| 博士（物理学） | 3-4年 | $6,500~$9,000（博士生通常有奖学金覆盖） |
+| Bachelor's degree (Physics) | 3 years | $25,000~$40,000 (Annual tuition fees for international students) |
+| Master's degree (Physics or Medical Physics) | 2 years | $35,000~$50,000 (Annual tuition fees for international students) |
+| Doctorate (Physics) | 3-4 years | $6,500~$9,000 (PhD students usually have scholarship coverage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学士 | 新西兰大学 | 必备 | 本科必修 |
-| 医学物理住院培训 | 新西兰医学物理学院 | 可选 | 临床方向需完成2年ACPSEM培训 |
-| ACPSEM认证 | 澳大利亚及新西兰医学物理科学家学院 | 可选 | 医学物理师执业必需 |
-| IELTS 6.5 | IDP/BC | 必备 | 技术移民语言要求 |
+| Bachelor of Science in Physics | New Zealand universities | Required | Undergraduate compulsory. |
+| IELTS 6.5 | IDP/BC | Required | Language requirements for skilled migration |
+| Medical physics residency training | New Zealand Institute of Medical Physics | Optional | For clinical pathways, completion of 2 years of ACPSEM training is required. |
+| ACPSEM certification | Australasian College of Physical Scientists and Engineers in Medicine | Optional | Required for medical physicist practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。物理学家就业市场较小，主要集中在奥克兰、惠灵顿和基督城的大学及研究机构。医疗物理师需求稳定，得益于人口老龄化和医疗技术发展。未来5年岗位增长缓慢，但毕业生供应有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. The job market for physicists is small, mainly concentrated in universities and research institutions in Auckland, Wellington, and Christchurch. Demand for medical physicists is stable, driven by an aging population and medical technology development. Job growth over the next 5 years will be slow, but graduate supply is limited, making competition moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 大学研究助理或初级医学物理师 |
-| 中级（4-9年） | $80,000~$110,000 | 博士后、讲师或医学物理师 |
-| 高级（10年+） | $120,000~$150,000 | 高级研究员、教授或首席医学物理师 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$75,000 | University research assistant or junior medical physicist. |
+| Intermediate (4-9 years) | $80,000~$110,000 | Postdoctoral fellow, lecturer, or medical physicist |
+| Senior (10+ years) | $120,000~$150,000 | Senior researcher, professor, or chief medical physicist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：早期从事实验/理论研究或临床医学物理培训（2年）；中期可晋升为高级研究员或首席医学物理师；后期可进入管理层（如研究主任、医疗物理部门主管）或转向数据科学、金融分析等跨领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The physicist's work will undergo profound changes: AI can automate data analysis and simulation, but theoretical innovation, experimental design, and complex physical intuition still rely on humans; it is a mixed blessing.
+
+Career path: early stage involves experimental/theoretical research or clinical medical physics training (2 years); mid-career can advance to senior researcher or chief medical physicist; later stage can progress to management (e.g., research director, head of medical physics department) or transition to cross-disciplinary fields such as data science or financial analysis.
+
+**Tasks most exposed to AI:**
+
+- Automated parameter scanning and optimization for physical simulations
+- Automated preprocessing and statistical inference of experimental data.
+- Automatically generate standard physics reports and literature reviews
+- Repetitive numerical calculations and symbolic algebraic derivation
+- Automatically detect device anomalies and trigger calibration processes
+
+**Where AI augments the role:**
+
+- Use AI to accelerate theoretical derivation and hypothesis testing
+- AI-assisted design of complex experiments and optimisation of measurement plans
+- Automatically discovering new physical patterns from massive data
+- AI-driven high-dimensional parameter space exploration and visualization
+- Improve the accuracy of physical models through machine learning
+
+**Human moat:**
+
+- Propose original physical theories and hypotheses
+- Design breakthrough experiments and explain unexpected results
+- Comprehensive judgment and innovation in interdisciplinary physics problems
+- Physical intuition and simplification in complex system modeling
+- Teaching, science communication, and ethical decision-making
+
+**Skills to build:**
+
+- Machine learning frameworks (TensorFlow/PyTorch)
+- Integration of scientific computing with AI tools (e.g., PyTorch for physics simulations)
+- Data science and statistical programming (Python/R)
+- Quantum computing fundamentals and AI cross-applications
+- Automatic differentiation and symbolic AI (e.g., Mathematica automation)
+- AI model interpretability and physical consistency verification
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Physicists in New Zealand work in research, university teaching, and medical phy
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 直接居留签证：物理学教师及医学物理师符合条件的可直接申请，无需工作2年。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民：基于6分制，物理学家通常可获硕士/博士加分，达到6分即可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签：适用于未达绿色清单标准的岗位，需认证雇主担保。 |
+| Subclass Green List T1 (Straight to Residence) | Direct residence visa: Physics teachers and medical physicists who meet the requirements can apply directly without needing to work for 2 years. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration: Based on the 6-point system, physicists can typically gain points for master's/doctorate degrees, reaching 6 points to apply. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: applies to roles not meeting the Green List criteria; requires accredited employer sponsorship. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicist？**
-- 对物理研究有深厚兴趣，愿从事学术或医疗物理的人
-- 能够接受较小就业市场，愿意在主要城市工作的人
-- 具备较强数理分析能力，未来希望移民新西兰的人
-
-**谁不适合学Physicist？**
-- 追求高薪快钱、不愿长期学习的人
-- 希望在新西兰偏远地区轻松找到工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with deep interest in physics research, willing to pursue academic or medical physics
+- Those able to accept a smaller job market and willing to work in major cities
+- People with strong mathematical and analytical skills who wish to immigrate to New Zealand in the future
+
+**Who is not suited**
+- People chasing high pay and quick money, unwilling to learn long-term
+- Those looking to easily find work in New Zealand's regional areas
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physicists in New Zealand?**
+A: Entry-level around NZD 60,000-75,000, mid-level NZD 80,000-110,000, senior NZD 120,000-150,000. Medical physicists earn higher, while university lecturers earn moderate incomes.
+
+**Q: Is it easy for physicists to immigrate to New Zealand?**
+A: Relatively easy. Physicists on Green List Tier 1 (physics teachers/medical physicists) can directly apply for residency; other physicists can apply via SMC 6-point system (master's degree + 3-5 years experience, etc.).
+
+**Q: Besides research and teaching, what other career paths are there for physicists?**
+A: Can enter fields such as data science, financial modeling, software development, defense technology. Medical physicists in New Zealand are in shortage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Physicist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physicists in New Zealand?**
-答：Entry-level: NZD 60,000-75,000; mid-level: 80,000-110,000; senior: 120,000-150,000. Medical physicists earn higher, university lecturers moderate.
-
-**问：Is it easy for physicists to migrate to New Zealand?**
-答：Relatively easy. Physicists on Green List Tier 1 (physics teacher/medical physicist) qualify for Straight to Residence; others via SMC 6-point system (e.g., master's + 3-5 years experience).
-
-**问：Besides research and teaching, what other career paths are there for physicists?**
-答：Data science, financial modeling, software development, defense technology. Medical physics is a shortage occupation in New Zealand.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

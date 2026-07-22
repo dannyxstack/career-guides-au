@@ -1,60 +1,96 @@
-# Receptionist (Except Hotel)（Receptionist (Except Hotel)）职业分析 · ES
+# Receptionist (Except Hotel) — career analysis · Spain
 
-**职业代码：4412 – Receptionist (Except Hotel)。**
+**Occupation code: 4412 (CNO)**
 
-Receptionists in non-hotel settings (e.g., offices, clinics, firms) handle visitor greeting, phone calls, mail distribution, and basic administrative support. The role requires strong communication and multitasking skills in a stable work environment.
+In non-hotel institutions (such as companies, clinics, firms, etc.), responsible for visitor reception, call forwarding, email distribution, and basic administrative support. Stable work environment, with high demands on communication skills and multitasking.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育（ESO）或职业教育（FP Básico） | 2年（FP Básico） | —（公立免费或低学费） |
-| 中级职业培训（FP Grado Medio）行政方向 | 2年 | —（公立免费，私立约2000欧/年） |
+| Secondary Education (ESO) or Vocational Education (FP Básico) | 2nd year (FP Básico) | $0~$1,500 (Public schools offer free or low tuition) |
+| Intermediate Vocational Training (FP Grado Medio) Administrative Direction | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 通常雇主仅要求高中毕业或同等学历，但具备行政相关培训更受青睐 |
-| 计算机操作证书（如Word、Excel） | 各地培训中心或FP | 可选 | 非强制，但有助于提升竞争力 |
+| No mandatory certificate | None | Optional | Typically, employers only require a high school diploma or equivalent, but administrative training is preferred |
+| Computer operation certificates (such as Word, Excel) | Training centers or workshops in various locations | Optional | Not mandatory, but helps improve competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙前台接待岗位需求平稳，随着数字化发展，部分行政工作被自动化，但面对面接待仍不可替代。马德里、巴塞罗那等大城市就业机会较多，薪资增长缓慢。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. Demand for receptionist positions in Spain remains stable. With digital development, some administrative tasks have been automated, but face-to-face reception remains irreplaceable. Large cities like Madrid and Barcelona offer more job opportunities, but wage growth is slow.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含奖金 |
-| 中级（3-6年） | $22,000~$26,000 | 税前年薪 |
-| 高级（6年以上或行政主管） | $26,000~$32,000 | 税前年薪，通常需兼管其他行政事务 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–6 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (over 6 years or administrative supervisor) | $26,000~$32,000 | Pre-tax annual salary, usually requiring concurrent administrative management |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业路径清晰：从初级前台可晋升为行政助理、办公室主管或客户服务经理。积累经验后也可转向人力资源、秘书或行政专员岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Receptionist positions are mixed due to AI: routine tasks (call forwarding, schedule management) are easily automated, but core responsibilities like interpersonal reception and emotional labor are hard to replicate by AI. The total number of positions may shrink, but the added value of retained positions increases.
+
+Clear career path: you can advance from junior front desk to administrative assistant, office supervisor, or customer service manager. After gaining experience, you can also move on to HR, secretary, or administrative specialist roles.
+
+**Tasks most exposed to AI:**
+
+- Call Answering and Forwarding: AI voice assistants can directly handle call classification, transfer, and simple queries.
+- Visitor Registration and Check-in: Self-service registration terminals and visitor management systems replace manual recording.
+- Email sorting and notifications: The automatic routing system distributes emails according to preset rules, requiring no manual operation.
+- Meeting room reservations and schedule coordination: AI coordination tools can automatically match meeting rooms with participants.
+- Basic Q&A: Knowledge base chatbot answers frequently asked questions (address, office hours, etc.).
+
+**Where AI augments the role:**
+
+- Personalized visitor reception: AI provides visitor preference profiles, allowing receptionists to prepare in advance.
+- Multilingual translation support: Real-time translation tools assist in welcoming visitors of different languages.
+- Data analysis drives efficiency: AI analyzes visitor peak traffic to optimize scheduling and reception processes.
+- Intelligent reminders and prioritization: AI extracts urgent matters from cluttered information to speed up responses.
+- Training and knowledge updates: AI simulates various communication scenarios to help receptionists practice crisis management.
+
+**Human moat:**
+
+- Complex Emotional Management: Calming angry visitors and handling complaints require empathy and adaptability.
+- Non-standardized decision-making: the ability to judge visitor intent and flexibly deviate from the process.
+- Create a personal experience: Create a warm first impression through tone, smile, and body language.
+- Cross-departmental coordination: In emergencies, contact multiple departments and follow up, requiring interpersonal chain communication.
+- Trust and privacy handling: Human judgment when handling sensitive information (such as visitor identity verification).
+
+**Skills to build:**
+
+- Proficient in CRM and front-end automation platforms (such as Envoy, Skedda)
+- Basic data analysis and reporting capabilities (visitor traffic optimization)
+- Conflict resolution and crisis communication training
+- Multilingual services (English + local language, supplemented by AI translation tools)
+- Advanced features of the digital office suite (such as Outlook automatic rules, Teams integration)
+- Basic project management skills (coordinating event reception and tracking)
+
+**Key growth areas:**
 
 - Digitization
 - Administrative Support
@@ -63,65 +99,67 @@ Receptionists in non-hotel settings (e.g., offices, clinics, firms) handle visit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 适用于有西班牙公司提供工作合同的外籍人士，需满足劳动力市场测试等条件。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留最多1年寻找工作，但通常针对高素质人才，前台岗位获批可能性低。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | It is suitable for foreigners with work contracts offered by Spanish companies and must meet conditions such as labor market testing. |
+| Subclass Busqueda empleo (Job Search Visa) | Allowed to stay in Spain for up to 1 year to seek employment, but typically for highly skilled talent; approval for front-desk roles is unlikely. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Receptionist (Except Hotel)？**
-- 性格耐心细致，善于沟通者
-- 希望在办公室环境稳定工作者
-- 刚入职场或寻求过渡性工作的人
+**Who is suited**
+- Patient and meticulous personality, good communicator
+- Workers who want to maintain stability in the office environment
+- People who are just starting out in the workforce or seeking transitional work
 
-**谁不适合学Receptionist (Except Hotel)？**
-- 追求高薪和快速晋升的人
-- 不喜重复性行政事务或厌恶电话沟通的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Dislikes repetitive administrative tasks or dislikes phone communication
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for non-hotel front desk staff in Spain?**
+A: Pre-tax annual salary is about 18,000–26,000 euros, depending on experience and region. Madrid and Barcelona are slightly higher.
+
+**Q: Can foreigners immigrate to Spain through front-of-the-desk positions?**
+A: It is quite challenging because this position is not a high-skilled occupation and there is a sufficient local labor force in Spain. Typically, employers are required to prove that suitable local employees cannot be found.
+
+**Q: What are the promotion paths for front desk reception?**
+A: They can transition to roles such as administrative assistant, office supervisor, customer service manager, or human resources specialist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Receptionist (Except Hotel)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a non-hotel receptionist in Spain?**
-答：Gross annual salary ranges from €18,000 to €26,000, depending on experience and location. Higher in Madrid and Barcelona.
-
-**问：Can a foreigner immigrate to Spain through a receptionist job?**
-答：It is difficult because the occupation is not considered high-skilled, and there is sufficient local labor. Employers usually need to prove they cannot find suitable local candidates.
-
-**问：What are the career advancement paths for a receptionist?**
-答：Opportunities include administrative assistant, office supervisor, customer service manager, or HR specialist.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

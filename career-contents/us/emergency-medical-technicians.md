@@ -1,59 +1,95 @@
-# Emergency Medical Technicians（Emergency Medical Technicians）职业分析 · 美国
+# Emergency Medical Technicians — career analysis · United States
 
-**职业代码：29-2042 – Emergency Medical Technicians。**
+**Occupation code: 29-2042 (SOC)**
 
-Emergency Medical Technicians assess injuries and administer basic emergency care, often transporting patients to medical facilities.
+Emergency Medical Technicians (EMTs) assess injuries and provide basic emergency medical care, potentially transporting patients to medical facilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| EMT基础培训课程 | 3-6个月 | $1,000~$3,000（社区学院或培训中心课程费用） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费总估算） |
+| EMT basic training course | 3-6 months | $1,000~$3,000 (Tuition for courses at community colleges or training centers) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition total estimate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家注册EMT（NREMT）认证 | 国家紧急医疗技术员注册处 | 必备 | 通过认知和技能考试获取 |
-| 州级EMT执照 | 各州卫生部门 | 必备 | 各州要求不同，通常需NREMT认证 |
-| CPR认证 | 美国心脏协会等 | 必备 | 通常为入职前提 |
+| National Registry of Emergency Medical Technicians (NREMT) certification | National Registry of Emergency Medical Technicians | Required | Obtained through cognitive and skills exams |
+| State EMT license. | State health departments | Required | Requirements vary by state, typically require NREMT certification |
+| CPR certification | American Heart Association, etc. | Required | Usually a prerequisite for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 262,100。美国劳工统计局预测2023-2033年EMT岗位增长约7%，快于平均水平，受老龄化人口和紧急医疗服务需求推动。
+**Job demand: high (★★★★☆).** National workforce approx. 262,100. The U.S. Bureau of Labor Statistics projects EMT positions to grow about 7% from 2023 to 2033, faster than average, driven by an aging population and demand for emergency medical services.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $31,000~$39,000 | 年薪中位数约36,000美元 |
-| 中级（3-7年） | $39,000~$48,000 | 年薪中位数约43,000美元 |
-| 高级（7年以上） | $48,000~$60,000 | 年薪中位数约51,000美元 |
+| Median salary | $44,470 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $31,000~$39,000 | Median annual salary around $36,000 |
+| Mid-level (3–7 years) | $39,000~$48,000 | Median annual salary approximately US$43,000 |
+| Senior (7+ years) | $48,000~$60,000 | Median annual salary about $51,000 |
+| average salary | $46,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：EMT-Basic→EMT-Advanced→Paramedic；可晋升为主管、调度员或进入医疗管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Career path: EMT-Basic → EMT-Advanced → Paramedic; can advance to supervisor, dispatcher, or medical management roles.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - aging population
 - rural healthcare demand
@@ -62,68 +98,67 @@ Emergency Medical Technicians assess injuries and administer basic emergency car
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常需要本科学位，EMT可能不符合专业职位要求，较少使用。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，EMT可申请但雇主赞助较少。 |
-| Subclass TN（TN NAFTA Professional） | 仅适用于加拿大和墨西哥公民，需符合特定职业列表。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires a bachelor's degree; EMT may not meet professional position requirements and is less commonly used. |
+| Subclass EB-3 (EB-3 Skilled Workers) | PERM Labour Certification required; EMTs can apply but employer sponsorship is rare. |
+| Subclass TN (TN NAFTA Professional) | Applies only to Canadian and Mexican citizens, must meet specific occupation list. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Emergency Medical Technicians？**
-- 希望在医疗领域快速就业的人
-- 喜欢紧急情况和户外工作的人
-- 有同情心和抗压能力的人
-
-**谁不适合学Emergency Medical Technicians？**
-- 对血液和创伤敏感的人
-- 不适合高强度轮班工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People seeking quick employment in the healthcare field
+- People who like emergency situations and outdoor work
+- People with empathy and resilience.
+
+**Who is not suited**
+- Sensitive to blood and trauma.
+- Not suitable for those who cannot handle high-intensity shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for EMTs in the US?**
+A: EMT median annual salary around $37,000, entry-level $31,000-$39,000, senior up to $50,000-$60,000, but overtime and allowances can increase income.
+
+**Q: How can foreign EMTs immigrate to the US?**
+A: Main pathway is EB-3 green card (PERM required), but employer sponsorship is scarce; TN visa only for Canadian and Mexican citizens; H-1B generally not applicable.
+
+**Q: What education is needed to become an EMT?**
+A: Complete state-approved EMT training (120-150 hours) and pass NREMT exam; some pursue an associate degree for advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Emergency Medical Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of EMTs in the US?**
-答：Median annual wage is about $37,000; entry-level $31,000-$39,000, experienced up to $50,000-$60,000 with overtime.
-
-**问：How can foreign EMTs immigrate to the US?**
-答：Main path is EB-3 green card (PERM) but employer sponsorship is rare; TN visa only for Canadians/Mexicans; H-1B typically not applicable.
-
-**问：What education is needed to become an EMT?**
-答：Complete a state-approved EMT course (120-150 hours) and pass NREMT exam; some pursue an associate degree for advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

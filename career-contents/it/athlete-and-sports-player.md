@@ -1,60 +1,95 @@
-# Athlete and Sports Player（Athlete and Sports Player）职业分析 · IT
+# Athlete and Sports Player — career analysis · Italy
 
-**职业代码：3421 – Athlete and Sports Player。**
+**Occupation code: 3421 (ISCO08)**
 
-Athletes and sports players in Italy compete professionally in sports such as football, basketball, volleyball, cycling, skiing, and athletics, with income highly dependent on the sport, individual achievements, and sponsorships.
+Athletes and sports players in Italy engage in professional sports competitions or performances, primarily active in popular sports such as football, basketball, and volleyball, as well as traditional strength areas like cycling, skiing, and athletics. Income heavily depends on the sport, personal achievements, and commercial sponsorships.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业（部分项目可接受） | 12年（基础教育） | —（公立教育免费） |
-| 体育科学本科（可选） | 3年 | $1,500~$4,000（公立大学年学费） |
+| High school diploma (accepted for some programs) | 12 years (basic education) | $0~$0 (Public education is free) |
+| Sport Science Bachelor (Optional) | 3 years | $1,500~$4,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育执照（由各运动联合会颁发） | 意大利国家奥林匹克委员会（CONI）或相关运动联合会 | 必备 | 职业运动员需注册并获得参赛许可 |
-| 反兴奋剂培训证书 | 意大利反兴奋剂组织（NADO Italia） | 必备 | 所有职业运动员必须完成 |
+| sports licence (issued by sports federations) | Italian National Olympic Committee (CONI) or related sports federation | Required | Professional athletes must register and obtain competition permits |
+| Anti-Doping Training Certificate | Italian Anti-Doping Organization (NADO Italia) | Required | All professional athletes must complete |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 50,000。体育产业在意大利保持稳定，足球等热门项目集中度高，但其他项目就业机会有限。国家体育协会和俱乐部持续招募有潜力的人才，但竞争激烈，职业寿命较短。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. The sports industry in Italy remains stable, with high concentration in popular sports like football, but limited job opportunities in others. National sports associations and clubs continue to recruit talented individuals, but competition is fierce and career longevity is short.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$40,000 | 低级别联赛或非热门项目 |
-| 中级（3-10年） | $50,000~$150,000 | 意甲普通球员或主流项目运动员 |
-| 高级（10年以上/顶级球员） | $200,000~$2,000,000 | 顶级足球明星或国际级运动员 |
+| Median salary | $100,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$40,000 | Lower-level leagues or less popular sports |
+| Intermediate (3-10 years) | $50,000~$150,000 | Average Serie A player or athlete in mainstream sports |
+| Senior (10+ years/top player) | $200,000~$2,000,000 | Top-tier football stars or international-level athletes |
+| average salary | $410,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从青少年俱乐部起步，逐步进入专业青训营，晋升至职业俱乐部或国家队。退役后可转型为教练、体育管理、体育营销或媒体评论员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on athletes and sports players: tasks like training analysis and tactical simulation are enhanced by AI, but core physical competition and on-the-spot performance are hard to replace. Entry-level roles may narrow due to data-driven selection.
+
+Typically start at youth clubs, progress to professional academies, and advance to professional clubs or national teams. After retirement, can transition to coaching, sports management, sports marketing, or media commentary.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates match technical statistics reports.
+- AI analyzes opponent tactics and develops countermeasures
+- AI used for basic fitness testing and injury risk assessment
+- AI-generated media interview drafts and social media content
+
+**Where AI augments the role:**
+
+- AI video analysis assists tactical review and individual skill improvement
+- AI wearable devices monitor physiological data in real-time to optimize training intensity
+- AI simulates opponent behavior for training and combat
+- AI-assisted nutrition and recovery plan formulation
+- AI predicts injury risks using historical data.
+
+**Human moat:**
+
+- High-intensity physical contact and on-the-spot adaptability
+- Team rapport and leadership development
+- The shaping of sportsmanship and public image
+- Unique talent and intuition
+- Unpredictability of live performances
+
+**Skills to build:**
+
+- Sports data analysis and interpretation
+- Use of AI video analysis tools
+- Fundamentals of sports biomechanics
+- Digital Content Creation & Personal Brand Management
+- Basic programming and data visualization
+- Sports Psychology and Stress Management
+
+**Key growth areas:**
 
 - football
 - cycling
@@ -63,66 +98,68 @@ Athletes and sports players in Italy compete professionally in sports such as fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟运动员，需获得年薪不低于约2.5万欧元的工作合同。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟体育工作者，需雇主申请，受年度配额限制。 |
-| Subclass Sporting Visa (Visto（Visto per Attività Sportiva） | 专为职业运动员设计的临时居留许可，需意大利体育俱乐部或联合会担保。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU athletes; requires a work contract with an annual salary of no less than approximately 25,000 euros. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU sports workers; requires employer application, subject to annual quota limits. |
+| Subclass Sporting Visa (Visto (Visto per Attività Sportiva) | Temporary residence permit designed for professional athletes, requires sponsorship by an Italian sports club or federation. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Athlete and Sports Player？**
-- 从小接受专业体育训练且有突出天赋的人
-- 具备高度自律和团队协作能力的人
-- 能承受高强度训练和公众压力的人
+**Who is suited**
+- People who have received professional sports training from a young age and have outstanding talent
+- People with high self-discipline and teamwork skills
+- People who can withstand high-intensity training and public pressure
 
-**谁不适合学Athlete and Sports Player？**
-- 缺乏长期职业规划和伤病承受能力的人
-- 不习惯高强度竞争和不稳定收入的人
+**Who is not suited**
+- Those lacking long-term career planning and ability to withstand injuries
+- People not accustomed to high-intensity competition and unstable income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of Italian athletes?**
+A: Income varies greatly; top football players can earn millions of euros annually, while athletes in lower leagues or less popular sports may earn less than 20,000 euros. Commercial sponsorships are an important source of income.
+
+**Q: How can non-EU athletes obtain an Italian work visa?**
+A: Applications are possible via the EU Blue Card (high-salary contract) or sports visa (requires club sponsorship). Employers must demonstrate that the position cannot be filled by an Italian or EU citizen.
+
+**Q: What are the career transition options for Italian athletes after retirement?**
+A: Common transition paths include coaching, sports management, sports marketing, media commentary, or sports science-related careers. Some athletes choose entrepreneurship or other business fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Athlete and Sports Player属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for athletes in Italy?**
-答：Income varies greatly; top football players can earn millions of euros annually, while athletes in lower leagues or less popular sports may earn less than €20,000. Sponsorships are a significant income source.
-
-**问：How can non-EU athletes obtain a work visa in Italy?**
-答：They can apply via the EU Blue Card (high salary contract) or a sports visa (club sponsorship). The employer must prove the position cannot be filled by an Italian or EU citizen.
-
-**问：What career transition options are available for retired athletes in Italy?**
-答：Common paths include coaching, sports management, sports marketing, media commentary, or sports science-related professions. Some athletes start businesses or enter other commercial fields.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

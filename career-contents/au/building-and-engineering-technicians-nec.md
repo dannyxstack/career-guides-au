@@ -1,59 +1,95 @@
-# Building and Engineering Technicians nec（Building and Engineering Technicians nec）职业分析 · 澳大利亚
+# Building and Engineering Technicians nec — career analysis · Australia
 
-**职业代码：312999 – Building and Engineering Technicians nec。**
+**Occupation code: 312999 (ANZSCO)**
 
-Covers diverse technical support roles in building and engineering not elsewhere classified, including drafting, site supervision, material testing and construction coordination.
+Covers technical support roles not separately classified in architecture and engineering, responsible for drafting, site supervision, material testing, and construction coordination.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| TAFE高级文凭/副学士 | 2年 | $12,000~$25,000（公立TAFE课程费用） |
-| 大学本科（工程或建筑相关） | 4年 | $30,000~$45,000（国际学生年均学费） |
+| TAFE Advanced Diploma/Associate Degree | 2 years | $12,000~$25,000 (Public TAFE course fees) |
+| Bachelor's degree (Engineering or Architecture related). | 4 years | $30,000~$45,000 (Average annual tuition fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程或建筑领域大专/高级文凭 | 澳洲TAFE或认证大学 | 必备 | 多数职位要求 |
-| 职业注册（如适用） | 相关州或地区工程师注册机构 | 可选 | 非强制，但提升就业竞争力 |
-| 技能评估（移民用） | Engineers Australia或VETASSESS | 可选 | 技术移民必须通过 |
+| Diploma/advanced diploma in engineering or construction | Australian TAFE or accredited university | Required | Required for most positions |
+| Professional registration (if applicable) | Relevant state or territory engineering registration body | Optional | Not mandatory, but enhances employment competitiveness |
+| Skills assessment (for immigration) | Engineers Australia or VETASSESS | Optional | Must pass for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,200。受益于澳洲基建投资与建筑活动稳定，岗位需求持续增长。各州均有需求，尤其在新州和维州。
+**Job demand: high (★★★★☆).** National workforce approx. 4,200. Benefiting from Australia's infrastructure investment and stable construction activity, demand for positions continues to grow. Demand exists across all states, especially in NSW and VIC.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 包括建筑绘图员、现场技术员 |
-| 中级（3-7年） | $75,000~$95,000 | 具有独立工作能力 |
-| 高级（7年以上） | $100,000~$130,000 | 高级技术员或项目监督 |
+| Median salary | $153,608 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | including architectural draftspersons and site technicians |
+| Mid-level (3–7 years) | $75,000~$95,000 | Ability to work independently. |
+| Senior (7+ years) | $100,000~$130,000 | Senior technician or project supervisor |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级技术员晋升为高级技术员或项目协调员，部分积累经验后转项目经理或工程师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Building and engineering technicians (other) face mixed AI impact: routine drafting, testing, documentation tasks will be automated, but on-site coordination, complex fault diagnosis, and cross-team communication still require humans; opportunities and challenges coexist.
+
+Can progress from junior technician to senior technician or project coordinator; some transition to project manager or engineer with experience.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for routine 2D/3D drafting and modifications
+- Conducting repetitive tests such as material strength and durability according to standard procedures
+- Compile daily construction reports, inspection reports, and other documents for archiving
+- Preliminary calculation of bill of quantities and budget
+- Automatically extract component dimensions and quantity lists from design drawings.
+
+**Where AI augments the role:**
+
+- Rapidly explore multiple structural solutions using AI generative design tools
+- Monitor construction sites in real time and predict safety risks using digital twin platforms
+- Using computer vision to automatically detect material defects or construction deviations
+- Use natural language processing to quickly retrieve technical specifications and past cases
+- Using machine learning to optimize construction schedules and resource allocation
+
+**Human moat:**
+
+- Flexible decision-making and emergency response in unpredictable on-site environments
+- Coordinate and communicate with construction teams, owners, designers, and other parties
+- Diagnose and repair non-standard, complex system faults.
+- Understand and balance multiple objectives including economic, safety and environmental factors.
+- Intuitive judgment of overall project feasibility based on long-term experience
+
+**Skills to build:**
+
+- Advanced operation of BIM and digital twin software (e.g., Revit, Navisworks)
+- Python or R scripting for automated data analysis and report generation
+- Application of AI-generated design tools (e.g., Generative Design)
+- IoT and sensor data interpretation, instrument debugging
+- Project management and agile methodologies, adapted for cross-functional collaboration
+- Basic machine learning concepts, able to apply pre-trained models to assist decision-making
+
+**Key growth areas:**
 
 - Infrastructure construction
 - Renewable energy projects
@@ -62,69 +98,68 @@ Covers diverse technical support roles in building and engineering not elsewhere
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有担保雇主和职业在CSOL上 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，适用于482转186或直接申请 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得州政府提名 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居签证，需职业在MLTSSL上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires a sponsoring employer and an occupation on the CSOL |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa for 482 to 186 transition or direct application |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
+| Subclass 189 (Skilled Independent Visa) | Skilled Independent Permanent Visa, requires occupation on the MLTSSL |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building and Engineering Technicians nec？**
-- 喜欢动手解决建筑/工程实际问题的技术人员
-- 希望获得稳定就业且愿意积累经验逐步晋升的人
-- 适应现场与办公室结合的工作环境
-
-**谁不适合学Building and Engineering Technicians nec？**
-- 不擅长团队协作和沟通
-- 追求高薪且不愿从基层做起
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technicians who enjoy hands-on solving of construction/engineering practical problems.
+- Those who want stable employment and are willing to gain experience and gradually advance
+- Adapt to a work environment combining field and office
+
+**Who is not suited**
+- Not good at teamwork and communication
+- seeking high salary and unwilling to start from entry-level
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for architectural and engineering technicians?**
+A: Entry-level approximately AUD 55,000-70,000, intermediate AUD 75,000-95,000, senior AUD 100,000-130,000, depending on experience, location, and employer.
+
+**Q: Can this occupation migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the MLTSSL and can apply for 189, 190, and 482/186 visas. Requires completing relevant qualifications and passing a skills assessment through Engineers Australia or VETASSESS.
+
+**Q: What are the career development paths?**
+A: Can progress from junior technician to senior technician, project coordinator, or site supervisor. Some become engineers or project managers through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Building and Engineering Technicians nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Building and Engineering Technicians?**
-答：Entry level: AUD 55k-70k, mid-level: AUD 75k-95k, senior: AUD 100k-130k, depending on experience, location and employer.
-
-**问：Can this occupation lead to a skilled migration visa to Australia?**
-答：Yes. It is on MLTSSL, eligible for 189, 190 and 482/186 visas. Requires relevant qualification and skills assessment by Engineers Australia or VETASSESS.
-
-**问：What are the career progression paths?**
-答：From junior technician to senior technician, project coordinator or site supervisor. Some pursue further study to become engineer or project manager.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Police Inspector and Detective（Police Inspector and Detective）职业分析 · IT
+# Police Inspector and Detective — career analysis · Italy
 
-**职业代码：3355 – Police Inspector and Detective。**
+**Occupation code: 3355 (ISCO08)**
 
-Responsible for criminal investigations, case solving, and supervising police operations, a senior role in Italy's law enforcement system.
+Responsible for criminal investigations, case solving, and supervising police operations, a senior role in the Italian law enforcement system.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中 | 5年（高中） | —（公立学校免费） |
-| 警察学院培训 | 2-3年 | —（部分培训由警局资助） |
+| High school | 5 years (high school) | $0~$0 (Free public schools.) |
+| Police academy training | 2-3 years | $0~$5,000 (Some training is funded by the police) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利国籍 | 意大利政府 | 必备 | 必须为意大利公民 |
-| 无犯罪记录 | 司法部 | 必备 | 背景审查 |
-| 体检合格 | 指定医疗机构 | 必备 | 身体和心理测试 |
+| Italian citizenship | Italian government | Required | Must be an Italian citizen |
+| No criminal record | Department of Justice. | Required | Background check |
+| Physically fit | Designated medical institution | Required | Physical and psychological tests |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。意大利公共安全需求稳定，但预算限制可能影响招聘，晋升机会有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Public safety demand in Italy is stable, but budget constraints may affect hiring, and promotion opportunities are limited.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 税前年薪 |
-| 中级（4-10年） | $40,000~$50,000 | 税前年薪 |
-| 高级（10年以上） | $55,000~$70,000 | 税前年薪 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | Annual pre-tax salary |
+| Mid-level (4-10 years). | $40,000~$50,000 | Annual pre-tax salary |
+| Senior (10+ years) | $55,000~$70,000 | Annual pre-tax salary |
+| average salary | $46,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从警员做起，通过考试和年限晋升至督察，可进一步升任高级警官。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI impact on police inspectors and detectives is mixed: it can automate data analysis, surveillance review, and report generation, significantly boosting efficiency; however, key tasks like field investigations, interrogations, and decision-making rely on human judgment and are less replaceable.
+
+Typically start as police officers, advance to inspector through exams and years of service, and can further rise to senior officer.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyze crime data patterns and generate preliminary reports
+- Reviewing surveillance videos and using AI to identify suspicious behavior
+- Automatically organize case files and documents, reducing paperwork
+- Predict crime hotspot areas based on historical data
+
+**Where AI augments the role:**
+
+- Using AI tools to accelerate evidence correlation analysis and discover complex case clues.
+- Simulating crime scenes using AI to assist in investigative strategy planning.
+- AI-assisted real-time intelligence integration to enhance on-site decision speed
+- Use natural language processing to quickly summarize large volumes of witness statements
+- AI-driven facial recognition and database matching to accurately identify suspects
+
+**Human moat:**
+
+- Physical operations for site inspection and evidence collection.
+- Interpersonal interaction in interrogation and assessment of testimony credibility
+- Quick decision-making and tactical command in emergencies
+- Ultimate responsibility for ethical judgment and legal compliance.
+
+**Skills to build:**
+
+- AI forensic tools (e.g., evidence analysis software)
+- Data Science and Crime Pattern Analysis
+- Digital forensics (mobile phones, computers, networks)
+- AI ethics and legal compliance knowledge
+- Cross-departmental collaboration and communication skills
+- Basic programming (Python) for custom analysis
+
+**Key growth areas:**
 
 - Public Safety
 - Organized Crime
@@ -64,62 +98,64 @@ Responsible for criminal investigations, case solving, and supervising police op
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，但警察职位通常要求公民身份。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 针对非欧盟工人的年度配额，警察职位不适用。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, but police positions usually require citizenship. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota for non-EU workers; police positions are exempt. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Police Inspector and Detective？**
-- 有强烈正义感的人
-- 适应高压和轮班工作的人
-- 愿意接受严格纪律训练的人
+**Who is suited**
+- People with a strong sense of justice.
+- Suitable for those who can handle high pressure and shift work.
+- People willing to accept rigorous discipline training
 
-**谁不适合学Police Inspector and Detective？**
-- 不想移民的人
-- 对危险环境敏感的人
+**Who is not suited**
+- People not seeking immigration
+- People sensitive to hazardous environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a police inspector in Italy?**
+A: Entry-level annual salary around €30,000–€35,000; senior level up to €55,000–€70,000.
+
+**Q: Can a foreigner become a police inspector in Italy?**
+A: Typically requires Italian citizenship, making immigration extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Police Inspector and Detective属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of police inspectors in Italy?**
-答：Entry-level annual salary is about 30,000-35,000 EUR, senior can reach 55,000-70,000 EUR.
-
-**问：Can foreigners become police inspectors in Italy?**
-答：Usually requires Italian citizenship, so migration is extremely difficult.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Footwear Production Machine Operator（Footwear Production Machine Operator）职业分析 · 新西兰
+# Footwear Production Machine Operator — career analysis · New Zealand
 
-**职业代码：711711 – Footwear Production Machine Operator。**
+**Occupation code: 711711 (ANZSCO)**
 
-Operate specialized machinery in footwear manufacturing, including cutting, stitching, and molding. This occupation is not on New Zealand's skilled migration shortage list and typically requires an AEWV work visa.
+Operate specialized machines in footwear manufacturing enterprises to perform cutting, stitching, molding and other processes. This occupation is not on New Zealand's skilled migration shortage list; typically requires entry via the AEWV work visa.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期在职培训 | 1-3个月 | —（多数雇主提供在岗培训，无学费） |
-| 制造技能证书（Level 2-3） | 6个月至1年 | $2,000~$5,000（部分理工学院或行业培训机构提供课程） |
+| Short-term on-the-job training | 1-3 months. | $0~$1,000 (Most employers provide on-the-job training, no tuition fees) |
+| Manufacturing skills certificate (Level 2-3) | 6 months to 1 year | $2,000~$5,000 (Some polytechnics or industry training institutions offer courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰制造技能证书（Level 2） | 新西兰技能组织（NZ Skills） | 可选 | 非强制，但有助于就业 |
-| 工作健康与安全证书 | 各种培训机构 | 可选 | 部分雇主要求 |
+| New Zealand Certificate in Manufacturing Skills (Level 2) | New Zealand Skills (NZ Skills) | Optional | Not mandatory, but helpful for employment |
+| Work Health and Safety Certificate | Various training institutions | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 150。新西兰鞋类制造业规模小，受进口冲击，就业机会有限。岗位主要集中在奥克兰等地少数工厂，预计未来十年需求平稳或微降。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 150. New Zealand's footwear manufacturing industry is small, impacted by imports, with limited job opportunities. Jobs are mainly concentrated in a few factories in Auckland and other areas, with demand expected to be stable or slightly declining over the next decade.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$50,000 | 时薪约23-26纽元 |
-| 中级（2-5年） | $50,000~$60,000 | 时薪约25-30纽元 |
-| 高级（5年以上） | $60,000~$70,000 | 时薪约30-35纽元，含主管津贴 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$50,000 | Hourly rate about NZD 23-26 |
+| Intermediate (2-5 years) | $50,000~$60,000 | Hourly rate approximately 25-30 NZD |
+| Senior (5+ years) | $60,000~$70,000 | Hourly wage approx. NZD 30-35, including supervisor allowance |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从初级操作员晋升为高级操作员或生产线主管，也可横向转型至质量控制或设备维护岗位。需积累经验并可能获得相关证书。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
+
+Can progress from junior operator to senior operator or production line supervisor, or laterally transfer to quality control or equipment maintenance roles. Requires accumulating experience and possibly obtaining relevant certificates.
+
+**Tasks most exposed to AI:**
+
+- Uses machine vision to identify shoe component defects and automatically reject
+- Programming and execution of automated sewing and bonding processes
+- Automatically adjust machine parameters (e.g., stitch length, glue amount) based on order data
+- Monitoring and fault alarming of automated conveyor and sorting systems
+- Using AI quality inspection systems to replace manual inspection
+
+**Where AI augments the role:**
+
+- Real-time equipment monitoring via digital twin technology to predict maintenance needs
+- Use AI to optimize production scheduling and material delivery
+- Use AR glasses to assist complex assembly or repair
+- Identify production line bottlenecks through data analysis to improve overall efficiency
+- Collaborative robots working with humans for high-precision processes
+
+**Human moat:**
+
+- Handling non-standard, complex, or easily deformable flexible materials (e.g., leather)
+- Quickly diagnose and repair mechanical faults in automated equipment
+- Negotiate process adjustments with designers and quality inspectors
+- rapid changeover and adjustment in small-batch, high-variety production
+
+**Skills to build:**
+
+- Automated equipment programming and debugging (PLC/robots)
+- Industrial data analysis and basic statistics
+- Flexible production and quick-change technology.
+- Basic mechanical repair and mechatronics knowledge
+- Human-robot collaboration safety standards
+- Digital production management system operation
+
+**Key growth areas:**
 
 - Declining
 - Import Competition
@@ -63,64 +98,66 @@ Operate specialized machinery in footwear manufacturing, including cutting, stit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签是主要路径，需找到认证雇主并满足工资要求（中位数时薪29.66纽元）。 |
-| Subclass SMC（Skilled Migrant Category） | 该职业通常不满足技术移民要求，除非薪资达中位数两倍或拥有高学历匹配。 |
+| Subclass AEWV (Accredited Employer Work Visa) | The Accredited Employer Work Visa is the main pathway; you need to find an accredited employer and meet the wage requirement (median hourly wage NZD 29.66). |
+| Subclass SMC (Skilled Migrant Category) | This occupation usually does not meet skilled migration requirements unless the salary reaches twice the median or the applicant has a matching high-level degree. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Footwear Production Machine Operator？**
-- 适应重复性体力劳动且注重安全操作的人
-- 愿意在制造业工厂工作，对职业晋升期望不高的人
+**Who is suited**
+- People who can adapt to repetitive physical labor and prioritize safe operations
+- Those willing to work in manufacturing plants with low expectations for career advancement
 
-**谁不适合学Footwear Production Machine Operator？**
-- 寻求高薪或快速技术移民通道的人
-- 无法接受倒班或噪音、粉尘环境的人
+**Who is not suited**
+- Those seeking high salary or fast-track skilled migration pathways
+- People who cannot accept shift work or noisy/dusty environments.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for a shoemaking machine operator in New Zealand?**
+A: Junior position annual salary about NZ$45,000-50,000, hourly about NZ$23-26, below the median wage.
+
+**Q: Can shoemaking machine operators immigrate to New Zealand through the Green List?**
+A: No. This occupation is not on the Green List, nor is it a skilled migration shortage occupation; immigration is extremely difficult.
+
+**Q: Does this occupation have career prospects in New Zealand?**
+A: Limited prospects. The industry is impacted by imports, with few job openings and stagnant growth, limited career advancement opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Footwear Production Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a Footwear Production Machine Operator in New Zealand?**
-答：Entry-level positions pay around NZD 45,000-50,000 per year, with an hourly rate of NZD 23-26, below the median wage.
-
-**问：Can a Footwear Production Machine Operator immigrate to New Zealand via the Green List?**
-答：No. This occupation is not on the Green List or any skill shortage list, making immigration very difficult.
-
-**问：What are the career prospects for this occupation in New Zealand?**
-答：Limited. The industry faces import competition, few jobs, and minimal advancement opportunities.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

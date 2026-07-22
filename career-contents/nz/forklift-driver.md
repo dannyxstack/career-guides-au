@@ -1,58 +1,94 @@
-# Forklift Driver（Forklift Driver）职业分析 · 新西兰
+# Forklift Driver — career analysis · New Zealand
 
-**职业代码：721311 – Forklift Driver。**
+**Occupation code: 721311 (ANZSCO)**
 
-Forklift drivers operate forklifts to move goods in warehouses, distribution centers, factories, and construction sites. While not on the Green List, this role can lead to residence through the Skilled Migrant Category after gaining experience under an Accredited Employer Work Visa (AEWV).
+Forklift operators move goods using forklifts in warehouses, distribution centers, factories, and construction sites. Although not on the Green List, this role can lead to skilled migration via the Accredited Employer Work Visa (AEWV) after gaining experience, serving as a foundational job in logistics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 岗前培训 | 1-2周 | $300~$800（通过培训机构获得Licence to Operate a Forklift（F Endorsement）） |
-| 在职培训（初级） | 1-3个月 | —（雇主通常提供在职培训，无额外费用） |
+| Pre-job training | 1-2 weeks | $300~$800 (Obtain Licence to Operate a Forklift (F Endorsement) through a training provider) |
+| On-the-job training (entry-level) | 1-3 months. | $0~$0 (Employers usually provide on-the-job training at no extra cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作执照（F Endorsement） | WorkSafe NZ认可的培训机构 | 必备 | 必须持有该执照才能合法操作叉车，需通过理论和实践考试 |
-| 安全证书（Site Safe） | Site Safe | 可选 | 建筑工地操作叉车时通常需要，提高安全意识 |
+| Forklift operator license (F Endorsement). | WorkSafe NZ accredited training provider | Required | This license is required to legally operate a forklift, and both theoretical and practical exams must be passed. |
+| Safety certificate (Site Safe) | Site Safe | Optional | Often required when operating forklifts on construction sites to enhance safety awareness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 18,000。受电商和物流业持续增长驱动，叉车操作员需求稳定，预计未来5年岗位数量增长约5%。主要集中在奥克兰和基督城等物流枢纽，就业机会充足。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 18,000. Driven by continued growth in e-commerce and logistics, demand for forklift operators is stable, with an estimated 5% increase in positions over the next 5 years. Concentrated in logistics hubs like Auckland and Christchurch, with ample job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 时薪约$23-$26，部分雇主提供加班补贴 |
-| 中级（3-5年） | $55,000~$65,000 | 时薪约$26-$31，具备经验后薪资提升 |
-| 高级（5年以上） | $65,000~$75,000 | 时薪约$31-$36，可兼任主管或培训职责 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Hourly wage approx. $23-$26, some employers offer overtime pay. |
+| Mid-level (3–5 years) | $55,000~$65,000 | Hourly wage approximately $26-$31, increases with experience |
+| Senior (5+ years) | $65,000~$75,000 | Hourly wage approx. $31-$36, may serve as supervisor or trainer |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级叉车操作员可通过积累经验晋升为高级操作员或仓库主管；部分人可考取重型车辆驾照转向卡车驾驶；也有机会转型为物流协调员或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Forklift operator roles face automation risk; warehouse automation (e.g., AGVs) will replace some repetitive handling tasks, but safety supervision and complex environment operations still rely on humans.
+
+Entry-level forklift operators can advance to senior operator or warehouse supervisor through experience; some may obtain heavy vehicle licenses to shift to truck driving; also opportunities to transition to logistics coordinator or trainer
+
+**Tasks most exposed to AI:**
+
+- Transport goods along fixed routes in the warehouse
+- Pallet access operations in automated warehouses
+- RFID or barcode-based cargo information recording
+- Inventory counting and simple statistical report generation
+- Basic vehicle fault diagnosis and repair reporting
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize forklift route planning, improving efficiency
+- Machine vision-assisted positioning for precise stacking and retrieval
+- Real-time battery and mechanical status monitoring with preventive maintenance alerts
+- Digital Task Assignment to Reduce Waiting and Idle Time
+- Warehouse digital twin simulation to train new operators
+
+**Human moat:**
+
+- Precision handling of unstable cargo or non-standard items
+- Manual Judgment and Adjustment in Confined or Cluttered Environments
+- On-site handling of sudden mechanical failures or safety incidents
+- Communicating and coordinating with warehouse staff, drivers, etc.
+- Comply with safety regulations and assume legal responsibilities
+
+**Skills to build:**
+
+- Operating automated warehouse systems (e.g., WMS, AGV scheduling)
+- Basic data analysis skills (e.g., Excel reports, KPI interpretation)
+- Learning to operate various special vehicles (e.g., high-reach forklifts, telescopic forklifts)
+- Acquire skills in forklift electronic diagnostics and maintenance
+- Understanding warehouse safety regulations and smart logistics standards
+- Basic English reading and writing skills (adapted for international logistics systems)
+
+**Key growth areas:**
 
 - Logistics growth
 - E-commerce demand
@@ -61,67 +97,66 @@ Forklift drivers operate forklifts to move goods in warehouses, distribution cen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见路径，需获得认证雇主的工作offer，时薪不低于中位数（$29.66/小时），可累计工作经验 |
-| Subclass SMC（Skilled Migrant Category） | 通过AEWV工作3年后，满足6分制要求（如收入达中位数1.5倍或积累行业经验）可申请居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common path: obtain a job offer from an accredited employer, hourly wage no less than median ($29.66/hour), can accumulate work experience |
+| Subclass SMC (Skilled Migrant Category) | After working 3 years on AEWV, meeting 6-point system requirements (e.g., earning 1.5x median wage or accumulating industry experience) can apply for residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forklift Driver？**
-- 喜欢体力劳动、身体强壮且注重安全的人
-- 希望快速进入新西兰劳动力市场、积累工作经验的人
-- 对物流行业感兴趣，愿意从基础岗位做起的人
-
-**谁不适合学Forklift Driver？**
-- 对重复性体力劳动感到厌倦或身体无法承受的人
-- 希望直接通过绿色清单快速移民、无需等待的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical labor, are physically strong, and prioritize safety
+- Those wishing to quickly enter the New Zealand labour market and gain work experience
+- People interested in the logistics industry and willing to start from entry-level positions
+
+**Who is not suited**
+- Those who are tired of repetitive physical labor or cannot physically handle it
+- Those hoping to immigrate quickly via Green List without waiting
+
+---
+
+## 8. FAQ
+
+**Q: How much do forklift operators earn?**
+A: Junior salary approximately NZD $48,000-$55,000 (hourly $23-$26), mid-level $55,000-$65,000, senior up to $75,000. Overtime and holding multiple licenses can increase income.
+
+**Q: Can a forklift operator immigrate to New Zealand?**
+A: Yes, but need to gain experience through AEWV work visa, then apply for Skilled Migrant Category. Must meet median hourly wage or work for 3 years to meet 6-point system requirements.
+
+**Q: Which cities have the most job opportunities?**
+A: Logistics hubs like Auckland, Waikato, and Canterbury have high demand; large warehouses and distribution centers frequently hire.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forklift Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for forklift drivers?**
-答：Entry-level annual salary is around NZD 48,000-55,000 ($23-$26/hr), mid-level NZD 55,000-65,000, and senior up to NZD 75,000. Overtime and multiple licenses can boost earnings.
-
-**问：Can forklift drivers immigrate to New Zealand?**
-答：Yes, via the AEWV route, then apply under the Skilled Migrant Category after gaining experience. Must earn at least median wage or meet 6-point system after 3 years.
-
-**问：Which cities have the most job opportunities?**
-答：Auckland, Waikato, and Canterbury have high demand, especially in large warehouses and distribution centers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Court Reporters and Simultaneous Captioners（Court Reporters and Simultaneous Captioners）职业分析 · 美国
+# Court Reporters and Simultaneous Captioners — career analysis · United States
 
-**职业代码：27-3092 – Court Reporters and Simultaneous Captioners。**
+**Occupation code: 27-3092 (SOC)**
 
-Capture, store, retrieve, and transcribe pretrial and trial proceedings verbatim using stenography equipment. Also includes captioners who provide real-time captions for broadcasts.
+Capture, store, retrieve, and transcribe pretrial and court proceedings or other information verbatim using shorthand methods and equipment. Includes operating computer-aided transcription equipment to provide real-time or recorded broadcast captions for hearing-impaired viewers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 专科证书或副学士学位 | 2-3年 | $10,000~$30,000（持牌速记学校或社区学院课程） |
-| 学士学位（可选） | 4年 | $40,000~$120,000（更注重整体教育，非必需） |
+| Certificate or associate degree | 2-3 years | $10,000~$30,000 (Courses at licensed shorthand schools or community colleges) |
+| Bachelor's degree (optional) | 4 years | $40,000~$120,000 (More emphasis on overall education, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册专业记录员（RPR） | 国家法庭记录员协会（NCRA） | 可选 | 全国认可，需通过笔试和技能考试 |
-| 州执照或认证 | 各州法院或监管机构 | 必备 | 约25个州要求持证，条件各异 |
-| 速记技能证书 | 技术学校或NCRA | 可选 | 证明最低225 wpm速度 |
+| State license or certification | State courts or regulatory agencies | Required | About 25 states require licensing, with varying conditions |
+| Registered Professional Reporter (RPR) | National Court Reporters Association (NCRA) | Optional | Nationally recognized; requires passing a written and skills exam |
+| Shorthand Skills Certificate | Technical school or NCRA | Optional | Prove minimum speed of 225 wpm |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。根据BLS预测，2023-2033年就业增长率约4%，与所有职业平均水平相当。法院系统及广播字幕需求稳定，但技术替代（如自动语音识别）可能抑制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. According to BLS projections, employment growth from 2023-2033 is about 4%, similar to the average for all occupations. Demand is stable for court systems and broadcast captioning, but technological substitution (e.g., automatic speech recognition) may slow growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 新手或自由职业初期 |
-| 中级（3-7年） | $50,000~$75,000 | court reporter多年经验 |
-| 高级（7年以上） | $75,000~$110,000 | 实时字幕员或资深自由职业者 |
+| Median salary | $72,420 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Beginner or early freelance stage |
+| Mid-level (3–7 years) | $50,000~$75,000 | Court reporter with many years of experience |
+| Senior (7+ years) | $75,000~$110,000 | Real-time captioner or senior freelancer |
+| average salary | $78,760 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从初级记录员或法庭记者起步，积累经验后可成为自由职业者、实时字幕员或晋升为首席记录员。部分人转向广播字幕或法律转录管理岗位。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of court stenographers are highly threatened by AI, but legal processes still require human verification and real-time adaptation, making the outlook mixed.
+
+Start as a junior recorder or court reporter, gain experience, and can become a freelancer, real-time captioner, or advance to chief reporter. Some transition to broadcast captioning or legal transcription management.
+
+**Tasks most exposed to AI:**
+
+- Real-time speech-to-text (AI speech recognition replaces manual transcription)
+- Proofreading and formatting of court transcripts (AI auto-proofreading)
+- Generate court hearing summaries and indexes (NLP automatically extracts key information)
+- Manage electronic documents and audio recordings (AI auto-archiving)
+- Basic timestamps and labels (AI-generated)
+
+**Where AI augments the role:**
+
+- Multi-speaker identification and labeling (AI-assisted distinguishing speakers)
+- Automatic prompts from a professional terminology database (AI-assisted recording accuracy).
+- Real-time translation of speech into multilingual text (AI-assisted multilingual courts)
+- Intelligent retrieval of historical records and precedents (AI-assisted quick search)
+- Generate structured court transcript drafts (AI-assisted first draft, manual refinement)
+
+**Human moat:**
+
+- Understanding of legal procedures and compliance judgment.
+- Ability to handle accents, dialects, and complex language scenarios adaptively
+- Ethical judgment and confidentiality regarding sensitive or controversial content
+- Interpersonal coordination and emergency handling at court scenes
+
+**Skills to build:**
+
+- Operation and calibration of AI voice recognition tools (e.g., Otter.ai, Rev)
+- Use of legal tech platforms (e.g., CaseLines)
+- Data privacy and compliance management
+- Advanced legal English and professional terminology
+- Human-machine collaboration for editing and quality control.
+- Basic programming scripts (Python for automated text processing)
+
+**Key growth areas:**
 
 - Steady demand
 - Court reporting
@@ -64,66 +99,68 @@ Capture, store, retrieve, and transcribe pretrial and trial proceedings verbatim
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 理论上符合专业职业要求，但通常不被视为典型H-1B职业，雇主赞助较少。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出能力，如国家级认证或奖项，极少适用。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-2/EB-3)） | 需PERM劳工认证，雇主须证明无本土可用人才，困难。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Theoretically meets professional occupation requirements, but typically not viewed as a typical H-1B occupation; employer sponsorship is rare. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate extraordinary ability, such as national certification or awards, rarely applicable. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | PERM labor certification required; employer must prove no available domestic workers, difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Court Reporters and Simultaneous Captioners？**
-- 喜欢细节和准确性、打字速度快（225+ wpm）的人
-- 能长时间集中注意力处理法律或广播内容
-- 愿意通过速记学校获得认证并持续提升技能
+**Who is suited**
+- People who love detail and accuracy, fast typing speed (225+ wpm)
+- Can concentrate for long periods on legal or broadcast content
+- Willing to obtain certification through shorthand school and continuously improve skills
 
-**谁不适合学Court Reporters and Simultaneous Captioners？**
-- 对长时间高强度打字和曲背姿势不适应
-- 倾向于通过自动语音识别替代人工转录工作
+**Who is not suited**
+- Unsuitable for prolonged high-intensity typing and hunched postures.
+- Tends to replace manual transcription work with automatic speech recognition
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for court reporters?**
+A: According to BLS 2023 data, the median annual salary is about $63,000, but entry-level can be below $35,000, while senior real-time captioners can exceed $100,000. Salary is heavily influenced by experience, location, and freelance work.
+
+**Q: Can foreigners obtain a US work visa or green card through this occupation?**
+A: Very difficult. The occupation is not in STEM or common H-1B categories, and employer sponsorship is extremely rare. PERM requires proving no qualified US workers, and automatic speech recognition technology has reduced employer demand for foreign workers. There are almost no immigration pathways.
+
+**Q: Will automatic speech recognition (ASR) replace court reporters?**
+A: Some risk, but court and broadcast environments demand high accuracy, so manual stenography remains trusted. Real-time captioners may be less affected, but overall employment growth forecast is only 4%.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Court Reporters and Simultaneous Captioners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for court reporters?**
-答：According to BLS 2023, median annual wage is about $63,000, but entry-level may be below $35,000, while experienced real-time captioners can exceed $100,000. Salary varies by experience, location, and freelance status.
-
-**问：Can foreigners get a work visa or green card through this occupation?**
-答：Very difficult. This occupation is not common for H-1B. PERM requires demonstrating no qualified US workers, and ASR reduces demand. Almost no immigration pathway.
-
-**问：Will ASR replace court reporters?**
-答：Risk exists, but high accuracy required in court/broadcast contexts favors human stenographers. Real-time captioners are less impacted, but growth is only 4%.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

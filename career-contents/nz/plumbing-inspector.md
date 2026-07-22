@@ -1,59 +1,95 @@
-# Plumbing Inspector（Plumbing Inspector）职业分析 · 新西兰
+# Plumbing Inspector — career analysis · New Zealand
 
-**职业代码：312115 – Plumbing Inspector。**
+**Occupation code: 312115 (ANZSCO)**
 
-Inspecting plumbing installations and repairs for compliance with building codes, ensuring safe water and gas systems. Stable demand in NZ with migration options via Skilled Migrant or Green List.
+Responsible for inspecting water pipe installation, maintenance, and repair to ensure compliance with building codes, and to guarantee the safety of water supply, drainage, and gas systems. Demand is stable in New Zealand, and residency can be applied for through skilled migration or the Green List pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 水管工程证书 | 2-3年 | $8,000~$15,000（学费因学校和地区而异） |
-| 相关大专或本科 | 3-4年 | $20,000~$40,000（含实践课程） |
+| Certificate in Plumbing Engineering | 2-3 years | $8,000~$15,000 (Tuition fees vary by school and region) |
+| Related diploma or bachelor's degree | 3-4 years | $20,000~$40,000 (Includes practical courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰水管工注册（Plumber Registration） | Plumbers, Gasfitters and Drainlayers Board | 必备 | 必须持有 |
-| 国家级水管工证书（NZ Certificate in Plumbing） | 技能组织（如BCITO） | 必备 | 培训后获得 |
-| 英语能力测试（如IELTS） | IDP或British Council | 可选 | 移民要求，不低于6.5 |
+| New Zealand Plumber Registration | Plumbers, Gasfitters and Drainlayers Board | Required | Must hold |
+| National Certificate in Plumbing (NZ Certificate in Plumbing) | Skills organization (e.g., BCITO) | Required | Obtained after training |
+| English proficiency test (e.g., IELTS) | IDP or British Council | Optional | Immigration requirement, not lower than 6.5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 800。新西兰建筑业持续发展，水管检查员需求稳定。奥克兰、基督城等城市增长较快，预计未来5年岗位数量小幅增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 800. New Zealand's construction industry continues to develop, with stable demand for plumbing inspectors. Faster growth in cities like Auckland and Christchurch, expected slight increase in positions over next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 视地区和雇主而定 |
-| 中级（3-6年） | $70,000~$90,000 | 含经验证书加成 |
-| 高级（6年以上） | $90,000~$110,000 | 主管或顾问级别 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Depends on region and employer |
+| Mid-level (3–6 years) | $70,000~$90,000 | Includes bonus for experience and certification |
+| Senior (6+ years) | $90,000~$110,000 | managerial or consultant level |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级检查员晋升为高级检查员、团队主管或顾问。积累经验后可专攻燃气或消防系统，或转型为建筑合规经理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will compress demand for water pipe inspectors, automating routine inspection tasks, but legal review responsibilities remain protected, and entry-level positions may narrow.
+
+Can advance from junior inspector to senior inspector, team leader, or consultant. With experience, can specialize in gas or fire systems, or transition to building compliance manager.
+
+**Tasks most exposed to AI:**
+
+- Use AI vision systems to automatically check pipe connections and cracks, replacing manual visual inspection.
+- Uses machine learning models to analyze stress test data and auto-generate compliance reports
+- Inspection of drainage pipes internally using drones and robot dogs, replacing human entry into confined spaces
+- Automatically extract piping layouts from Building Information Models (BIM), compare with standards, and flag violations.
+- Use voice assistant to record inspection results on-site, replacing handwritten notes and data entry
+
+**Where AI augments the role:**
+
+- AI assists real-time monitoring of complex piping systems, providing anomaly alerts and diagnostic suggestions
+- Using augmented reality (AR) to overlay hidden pipeline routes, improving on-site inspection accuracy
+- Using historical data to predict high-risk buildings, optimizing inspection scheduling and resource allocation.
+- Quick retrieval of building codes through natural language processing to ensure inspections comply with the latest regulations
+- AI generates draft inspection reports, saving time after manual review
+
+**Human moat:**
+
+- Creative diagnosis and repair decisions for non-standard faults
+- Communicate and coordinate with owners and contractors, explain compliance requirements and promote rectification
+- Physical operations and judgment in complex sites (such as old buildings)
+- Assume legal liability, sign inspection certificates, require professional judgment and experience
+- Rapid response and risk assessment in emergency scenarios (e.g., gas leaks)
+
+**Skills to build:**
+
+- AI/ML fundamentals: understanding the principles and limitations of automated inspection tools
+- Data analysis skills: interpret sensor and monitoring data, identify anomaly patterns
+- Digital twin and BIM: familiarity with Building Information Modeling for virtual inspections
+- Drone and robot operation: master the use of remote inspection equipment
+- Communication and training: explain AI inspection results and recommendations to non-technical personnel
+- Continuous learning: track building code updates and emerging inspection technologies
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Inspecting plumbing installations and repairs for compliance with building codes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Straight to Residence） | 符合资格可直接申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 评分制技术移民，需要6分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可转居留 |
+| Subclass Green List T1 (Green List Straight to Residence) | Eligible can directly apply for residence. |
+| Subclass SMC (Skilled Migrant Category) | Points-based skilled migration requiring a score of 6 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa leading to permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumbing Inspector？**
-- 喜欢技术检查、注重细节的人
-- 有建筑或水管背景、希望移民新西兰的人
-- 善于沟通、能独立工作的人
-
-**谁不适合学Plumbing Inspector？**
-- 不适应户外或施工现场环境的人
-- 不注重合规细节的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy technical inspection and pay attention to details
+- Individuals with a construction or plumbing background seeking to migrate to New Zealand
+- People who are good at communication and able to work independently
+
+**Who is not suited**
+- People not suited for outdoor or construction site environments
+- Individuals who do not pay attention to compliance details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plumbing inspectors in New Zealand?**
+A: Entry-level annual salary approximately NZD 55,000-70,000, mid-level NZD 70,000-90,000, senior up to NZD 110,000.
+
+**Q: Is it easy for a pipe inspector to immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1, eligible for direct residence and skilled migration; good opportunity.
+
+**Q: What qualifications are needed to work in New Zealand?**
+A: Must hold Plumbers Board registration, typically requiring completion of the NZ Certificate in Plumbing and passing the exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plumbing Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Plumbing Inspector in New Zealand?**
-答：Entry-level: NZ$55,000-70,000; mid-level: $70,000-90,000; senior: up to $110,000.
-
-**问：Is it easy to immigrate as a Plumbing Inspector to New Zealand?**
-答：Yes, it's on Green List Tier 1, eligible for Straight to Residence, and also under Skilled Migrant.
-
-**问：What qualifications are required to work in New Zealand?**
-答：Must be registered with Plumbers Board, typically holding NZ Certificate in Plumbing and passing exams.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

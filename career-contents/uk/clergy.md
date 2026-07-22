@@ -1,60 +1,96 @@
-# Clergy（Clergy）职业分析 · UK
+# Clergy — career analysis · United Kingdom
 
-**职业代码：2463 – Clergy。**
+**Occupation code: 2463 (SOC)**
 
-Clergy provide spiritual guidance, conduct worship according to their faith, and perform religious ceremonies such as weddings and funerals, while engaging in community outreach.
+Clergy provide spiritual guidance and religious services, lead worship, sermons, weddings, funerals, etc., and participate in community care and charitable activities.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（神学） | 3年 | $9,250~$12,000（英国大学本科学费每年约9,250-12,000英镑） |
-| 硕士（神学/牧职） | 1-2年 | $10,000~$18,000（硕士学费每年约10,000-18,000英镑） |
+| Bachelor's degree (Theology) | 3 years | $9,250~$12,000 (UK undergraduate tuition fees: approximately £9,250-12,000 per year) |
+| Master (Theology / Pastoral Ministry) | 1-2 years | $10,000~$18,000 (Master's tuition about £10,000-18,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位（本科/硕士） | 英国大学 | 必备 | 多数教派要求相关学位 |
-| 按立/圣职认证 | 所属教派（如英国圣公会） | 必备 | 完成神学培训和教区考察后按立 |
+| Theology degree (Bachelor/Master) | UK universities | Required | Most denominations require a relevant degree |
+| Ordination/holy orders certification | Denomination (e.g., Anglican) | Required | Ordained after completing theological training and diocesan examination |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 35,000。英国宗教多元化趋势下，神职人员需求稳定，但全职岗位有限，多数教区面临老龄化，部分职位需要非传统背景人才。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 35,000. Under the trend of religious diversification in the UK, demand for clergy is stable, but full-time positions are limited; most dioceses face aging, and some positions require non-traditional backgrounds.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-5年） | $25,000~$30,000 | 助理牧师或副牧师，含住房补贴 |
-| 中级（5-15年） | $30,000~$40,000 | 教区牧师或主任牧师 |
-| 高级（15年以上） | $40,000~$50,000 | 主教或大教堂高级神职人员 |
+| Median salary | $31,183 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry-level (0-5 years) | $25,000~$30,000 | Assistant pastor or associate pastor, including housing allowance |
+| Intermediate (5-15 years) | $30,000~$40,000 | Parish priest or senior pastor |
+| Senior (15+ years) | $40,000~$50,000 | Bishop or cathedral senior clergy |
+| average salary | $33,840 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 通常从助理牧师或副牧师起步，经过数年实践后可晋升为主管牧师或教区长，部分可进入教区管理或神学教育领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on clergy is primarily replacement, especially in text generation, ritual assistance, and information retrieval tasks, but core spiritual care, interpersonal interaction, and sacred rituals remain difficult to automate, with significant compression risks.
+
+Typically start as assistant or associate pastors, and after several years of practice advance to senior pastor or rector; some may move into diocesan administration or theological education.
+
+**Tasks most exposed to AI:**
+
+- Generating texts such as sermon drafts, prayers, religious education materials
+- Manage religious activity schedules, appointments, notifications, and other administrative coordination
+- Retrieving religious materials, interpreting catechisms and other knowledge inquiries
+- Provide initial spiritual comfort and FAQ through chatbots
+- Analyze community data to optimize charity activities and resource allocation
+
+**Where AI augments the role:**
+
+- Using AI translation tools to provide spiritual guidance to multilingual communities
+- Identify community needs and design targeted care activities using data analysis
+- Use AI to assist in creating multimedia evangelistic content (e.g., video, audio)
+- Providing immersive religious ceremony experiences through virtual reality technology
+- Use automation tools to improve the organizational efficiency of religious education courses
+
+**Human moat:**
+
+- Spiritual authority and sacredness in presiding over holy rites (such as Communion, Baptism)
+- Provide deep empathy and complex emotional support (e.g., end-of-life care)
+- Build long-term trust relationships and mediate conflicts within communities
+- Handling ethical dilemmas and personalized spiritual care
+- Conveying non-verbal ritual atmosphere and symbolic meaning
+
+**Skills to build:**
+
+- Deep learning AI writing tools (e.g., ChatGPT) to improve sermon material quality
+- Master data analysis and visualization skills to optimize community services.
+- Learn multimedia production (video editing, VR/AR) to enrich religious experiences
+- Cross-cultural communication and multilingual skills to serve diverse communities
+- Knowledge of ethics and AI governance for responsible technology use
+- Online community management and digital stewardship skills
+
+**Key growth areas:**
 
 - Stable demand
 - Aging clergy
@@ -63,61 +99,63 @@ Clergy provide spiritual guidance, conduct worship according to their faith, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 可用于神职人员职业，需雇主担保，薪资需达到一般门槛（£26,200）或行业特定薪资 |
-| Subclass Graduate（Graduate visa） | 允许毕业生在英国工作2-3年，但神职人员职位通常需按立，毕业生可能难直接胜任 |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for clergy roles, requires employer sponsorship, salary must meet general threshold (£26,200) or occupation-specific salary |
+| Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for 2-3 years, but clergy positions usually require ordination, making it difficult for graduates to directly take on such roles |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Clergy？**
-- 有强烈宗教信仰和使命感者
-- 擅长公众演讲和社区沟通者
+**Who is suited**
+- Individuals with strong religious faith and sense of mission
+- People skilled in public speaking and community communication
 
-**谁不适合学Clergy？**
-- 对低薪和长时间工作接受度低者
-- 不认同固定教义和仪式者
+**Who is not suited**
+- Those with low tolerance for low pay and long working hours
+- Those who do not identify with fixed doctrines and rituals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level for clergy?**
+A: Junior clergy earn approximately £25,000-30,000 per year, mid-level around £30,000-40,000, and senior bishops can earn over £50,000, often with housing allowances.
+
+**Q: Can clergy apply for a UK Skilled Worker visa?**
+A: Yes, clergy are on the UK occupation list but must meet salary thresholds and employer sponsorship requirements, and competition is fierce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★½☆） |
-| 学习难度 | 中等（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Clergy属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for clergy?**
-答：Entry-level clergy earn £25,000-£30,000, mid-level £30,000-£40,000, and senior bishops up to £50,000, often with housing allowance.
-
-**问：Can clergy apply for the Skilled Worker visa?**
-答：Yes, clergy are eligible, but must meet salary thresholds and obtain employer sponsorship, with strong competition.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

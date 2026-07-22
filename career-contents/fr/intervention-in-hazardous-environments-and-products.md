@@ -1,61 +1,96 @@
-# Intervention in Hazardous Environments and Products（Intervention in Hazardous Environments and Products）职业分析 · FR
+# Intervention in Hazardous Environments and Products — career analysis · France
 
-**职业代码：I1503 – Intervention in Hazardous Environments and Products。**
+**Occupation code: I1503 (ROME)**
 
-Intervention in hazardous environments (toxic, radioactive, biological) for detection, cleanup, and maintenance, ensuring safety compliance. Involves nuclear, chemical, asbestos sectors, requiring protective gear and specialized equipment.
+Conducts inspection, cleaning, and maintenance in toxic, radioactive, and biohazardous environments to ensure safety and compliance. Fields involving nuclear industry, chemical engineering, asbestos removal, and other sectors require wearing protective equipment and using specialized equipment.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 2年（CAP/BTS） | —（可通过学徒制免费学习并获薪） |
-| 本科 | 3年（Licence professionnelle） | $200~$10,000（公立大学学费低，私立院校较高） |
+| High school graduation + professional training | 2 years (CAP/BTS) | $0~$5,000 (Students can study for free and receive a salary through apprenticeships) |
+| Bachelor's degree | 3 years (Licence professionnelle) | $200~$10,000 (Public universities have lower tuition fees, while private institutions offer higher tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CATEC（高空作业） | INRS | 必备 | 部分高空作业必备 |
-| SSIAP（消防与安全） | APS | 可选 | 消防干预相关 |
-| 辐射防护培训（PCR） | Autorité de sûreté nucléaire | 必备 | 核环境工作必需 |
+| CATEC (Work at Heights) | INRS | Required | Essential for some high-altitude operations |
+| Radiation Protection Training (PCR) | Autorité de sûreté nucléaire | Required | Nuclear environment work is essential |
+| SSIAP (Fire and Safety) | APS | Optional | Fire intervention related |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国核能、化工及环保法规严格，石棉清除和核废料处理需求稳定。行业老龄化明显，年轻技术人员缺口大，未来十年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France has strict regulations on nuclear, chemical, and environmental protection, and the demand for asbestos removal and nuclear waste treatment remains stable. The industry is clearly aging, there is a large shortage of young technicians, and employment prospects are promising over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，含危险津贴 |
-| 中级（4-9年） | $35,000~$45,000 | 税前年薪，具备经验及证书后 |
-| 高级（10年以上/专家） | $46,000~$60,000 | 税前年薪，含管理或专家岗位 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, including hazard allowance |
+| Intermediate (4-9 years) | $35,000~$45,000 | Pre-tax annual salary, with experience and certificates provided |
+| Senior (Over 10 years / Expert) | $46,000~$60,000 | Pre-tax annual salary, including management or expert positions |
+| average salary | $24,630 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从技术员晋升为团队主管或安全专家，也可通过继续教育转向辐射防护或工业健康安全领域。部分经验者可转任培训师或检查员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation will have a mixed impact on hazardous materials removal workers: remote sensing and robots can replace some high-risk identification and cleanup tasks, but strict regulations, on-site judgment, and physical operation requirements remain core human advantages.
+
+You can be promoted from technician to team leader or safety expert, or through continuing education to move into radiation protection or industrial health and safety. Some experienced candidates may transition to trainers or inspectors.
+
+**Tasks most exposed to AI:**
+
+- Using drones or robots for initial detection and localization of hazardous materials.
+- Automated sampling and analysis (e.g., air monitoring laboratory processes)
+- Standardized decontamination and packaging processes (e.g., robot-operated)
+- Generate compliance reports and checklists (AI auto-fill)
+
+**Where AI augments the role:**
+
+- AI-assisted real-time hazard identification and on-site risk assessment
+- Wearable sensors to monitor worker health and issue alerts
+- Automated document management and compliance checks
+- Remote specialist systems provide complex treatment plans
+- Intelligent planning of optimal removal routes and equipment scheduling
+
+**Human moat:**
+
+- On-site safety decisions and emergency handling
+- Manual handling of precise or non-standard dangerous goods
+- Regulatory compliance judgment and documentation
+- Client communication and on-site coordination
+- Physical fitness and adaptability to harsh environments
+
+**Skills to build:**
+
+- Robot operation and maintenance
+- Use of AI risk assessment tools (e.g., AI-assisted monitoring software)
+- Data analysis and compliance reporting automation
+- Drone operation and image analysis
+- Dangerous goods education consulting and training
+- Continuously update regulatory knowledge
+
+**Key growth areas:**
 
 - nuclear decommissioning
 - asbestos removal
@@ -64,67 +99,66 @@ Intervention in hazardous environments (toxic, radioactive, biological) for dete
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue européen（EU Blue Card） | 针对高等学历（Bac+3以上）高技能岗位，年薪需达到53,000欧元以上。 |
-| Subclass Passeport Talent（Talent Passport） | 面向专业人才，如工程师或专家，合同期至少1年，无需申请劳工许可。 |
-| Subclass Salarié（Salarié Work Permit） | 需法国雇主担保，且通过劳动局审核（紧缺职业可简化）。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业生可申请，有效期1年，用于寻找对口工作。 |
+| Subclass Carte bleue européen (EU Blue Card) | For high-skilled positions with higher education (Bac+3 or above), an annual salary of at least 53,000 euros is required. |
+| Subclass Passeport Talent (Talent Passport) | For professionals such as engineers or experts, the contract period is at least one year, and no labor permit is required. |
+| Subclass Salarié (Salarié Work Permit) | Must be sponsored by a French employer and approved by the Labor Bureau (shortage occupations can be simplified). |
+| Subclass Recherche emploi (Job Search Visa) | Graduates can apply, valid for one year, to find targeted jobs. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Intervention in Hazardous Environments and Products？**
-- 具备动手能力和安全意识者
-- 能承受高风险环境者
-- 喜欢户外和现场工作而非办公室者
-
-**谁不适合学Intervention in Hazardous Environments and Products？**
-- 对有害物质过敏或畏惧者
-- 极度追求低风险环境者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for those with hands-on skills and safety awareness
+- Able to withstand high-risk environments
+- Those who prefer outdoor and on-site work rather than office work
+
+**Who is not suited**
+- Those allergic or afraid of harmful substances
+- Those who are extremely pursuing a low-risk environment
+
+---
+
+## 8. FAQ
+
+**Q: How is hazard pay calculated in salary?**
+A: Hazard allowances are usually 10%-30% of salary, with higher rates for positions at nuclear facilities or asbestos removal sites, depending on company policy.
+
+**Q: How is foreign education recognized in France?**
+A: Academic credentials must be accredited through the ENIC-NARIC center, and supplementary training may be required to meet French professional standards.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Intervention in Hazardous Environments and Products为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is hazard pay calculated?**
-答：Hazard pay is typically 10%-30% of base salary, higher for nuclear or asbestos roles, depending on company policy.
-
-**问：How are foreign qualifications recognized in France?**
-答：Recognition via ENIC-NARIC center; additional training may be required to meet French standards.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Probation Officers and Correctional Treatment Specialists（Probation Officers and Correctional Treatment Specialists）职业分析 · 美国
+# Probation Officers and Correctional Treatment Specialists — career analysis · United States
 
-**职业代码：21-1092 – Probation Officers and Correctional Treatment Specialists。**
+**Occupation code: 21-1092 (SOC)**
 
-Provide social services to assist in rehabilitation of law offenders in custody or on probation or parole, making recommendations for rehabilitation plans including conditional release and employment stipulations.
+Provides social services to incarcerated, probation, or parole offenders, assists in rehabilitation, develops rehabilitation plans, and recommends educational, employment, and other correctional measures.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（刑事司法、社会工作、心理学等相关专业） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Majors such as Criminal Justice, Social Work, Psychology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认可大学 | 必备 | 通常需要刑事司法或相关领域学位 |
-| 州级执照/认证 | 各州矫正委员会 | 必备 | 多数州要求通过考试和背景调查 |
-| 工作经验 | 雇主 | 可选 | 部分职位要求1-2年相关经验 |
+| Bachelor's degree | Recognised university | Required | Typically requires a degree in criminal justice or related field |
+| State-level license/certification | State correctional boards | Required | Most states require passing an exam and background check |
+| Work experience | Employer | Optional | Some positions require 1-2 years of relevant experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 96,400。美国劳工统计局预计2023-2033年就业增长4%，平均每年约7900个职位空缺，受司法系统持续需求和替代退休人员驱动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 96,400. The US Bureau of Labor Statistics projects 4% employment growth from 2023-2033, with about 7,900 annual job openings, driven by ongoing judicial system demand and replacement of retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 州或地方政府初级职位 |
-| 中级（4-7年） | $55,000~$75,000 | 有经验者或联邦系统 |
-| 高级（8年以上） | $75,000~$100,000 | 主管或联邦职位 |
+| Median salary | $66,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | State or local government entry-level positions |
+| Mid-level (4-7 years) | $55,000~$75,000 | Experienced professionals or federal system |
+| Senior (8+ years) | $75,000~$100,000 | Supervisory or federal positions |
+| average salary | $73,130 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从助理或初级职位起步，积累经验后可晋升为高级缓刑官或主管，部分转向联邦系统或矫正管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
+
+Typically start as assistant or entry-level officers, progress to senior probation officers or supervisors, and some transition to federal systems or correctional management roles.
+
+**Tasks most exposed to AI:**
+
+- shift scheduling and attendance record automation
+- Prisoner file entry and standardized report generation
+- Real-time anomaly detection alerts from security cameras (AI video analysis)
+- Routine patrol route planning and task assignment
+
+**Where AI augments the role:**
+
+- AI-assisted risk assessment system improves accuracy in predicting inmate behavior
+- Smart monitoring systems reduce manual patrol workload, focusing on key interventions
+- Data analysis tools optimize recidivism rate statistics and rehabilitation program effectiveness evaluation.
+- Virtual training systems simulate conflict scenarios to improve response capabilities
+
+**Human moat:**
+
+- Immediate judgment and physical intervention skills in high-risk conflicts
+- Humane assessment and trust building with prisoners' psychological behavior
+- Human decision-making and coordination in emergencies (riots, medical emergencies)
+- Discretion in law enforcement under legal and ethical constraints
+
+**Skills to build:**
+
+- Behavioral psychology and crisis intervention techniques
+- AI monitoring system operation and data analysis basics
+- Conflict de-escalation and negotiation communication skills.
+- Application of digital prison management software.
+- Understanding of ethics and privacy regulations
+- Cross-cultural sensitivity and social service collaboration
+
+**Key growth areas:**
 
 - steady demand
 - correctional reform
@@ -63,65 +96,67 @@ Provide social services to assist in rehabilitation of law offenders in custody 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 政府机构不常担保，但联邦或非营利组织可能申请 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 需雇主担保且证明劳工短缺，难度大 |
+| Subclass H-1B (H-1B Specialty Occupations) | Government agencies rarely sponsor, but federal or non-profit organizations may apply |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Requires employer sponsorship and proof of labor shortage, difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Probation Officers and Correctional Treatment Specialists？**
-- 对社会公正有强烈使命感的人
-- 善于沟通和解决冲突者
-- 希望在公共部门稳定就业的人
+**Who is suited**
+- People with a strong sense of social justice
+- Good at communication and conflict resolution
+- People looking for stable employment in the public sector
 
-**谁不适合学Probation Officers and Correctional Treatment Specialists？**
-- 不愿面对高压力和高风险工作环境的人
-- 缺乏耐心和同情心的人
+**Who is not suited**
+- People unwilling to face high-pressure and high-risk work environments
+- Those lacking patience and compassion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for probation officers?**
+A: Entry-level salary about $40,000-55,000/year, mid-level $55,000-75,000, senior $75,000-100,000, federal system slightly higher.
+
+**Q: How can a foreigner become a US probation officer?**
+A: Usually requires US citizenship or green card. Extremely difficult for international applicants, as most positions require US citizenship.
+
+**Q: What qualifications are required?**
+A: At least a bachelor's degree, commonly in criminal justice, social work, psychology, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Probation Officers and Correctional Treatment Specialists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a probation officer?**
-答：Entry-level salaries range from $40,000 to $55,000, mid-level $55,000-$75,000, senior $75,000-$100,000, with federal positions higher.
-
-**问：How can a foreigner become a probation officer in the US?**
-答：Most positions require US citizenship or permanent residency, making it extremely difficult for international applicants.
-
-**问：What education is required?**
-答：A bachelor's degree in criminal justice, social work, psychology, or a related field is typically required.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

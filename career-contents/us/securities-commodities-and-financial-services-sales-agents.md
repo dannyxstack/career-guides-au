@@ -1,60 +1,93 @@
-# Securities, Commodities, and Financial Services Sales Agents（Securities, Commodities, and Financial Services Sales Agents）职业分析 · 美国
+# Securities, Commodities, and Financial Services Sales Agents — career analysis · United States
 
-**职业代码：41-3031 – Securities, Commodities, and Financial Services Sales Agents。**
+**Occupation code: 41-3031 (SOC)**
 
-Buy and sell securities or commodities in investment and trading firms, or provide financial services to businesses and individuals. May advise customers about stocks, bonds, mutual funds, commodities, and market conditions.
+Buying and selling securities or commodities for investment and trading firms, or providing financial services to businesses and individuals. May advise clients on stocks, bonds, mutual funds, commodities, and market conditions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费约$10,000-$25,000；私立大学约$35,000-$50,000） |
-| 金融相关硕士（可选） | 1-2年 | $30,000~$80,000（可提升竞争力，但非必需） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities is about $10,000-$25,000; at private universities, about $35,000-$50,000) |
+| Finance-related master's degree (optional) | 1-2 years | $30,000~$80,000 (Can enhance competitiveness but is not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Series 7 执照 | FINRA | 必备 | 通用证券代表执照，允许交易股票、债券等 |
-| Series 63 执照 | NASAA | 必备 | 州证券法执照，多数州要求 |
-| Series 65 或 66 执照 | NASAA | 可选 | 提供投资咨询建议所需 |
-| CFA 特许金融分析师 | CFA Institute | 可选 | 高级资格，提升分析和投资管理能力 |
+| Series 7 license | FINRA | Required | General Securities Representative License, allows trading stocks, bonds, etc. |
+| Series 63 license | NASAA | Required | State securities law license, required in most states |
+| Series 65 or 66 license | NASAA | Optional | Required to provide investment advisory advice |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | Advanced qualifications to enhance analytical and investment management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 486,200。美国劳工统计局预计2023-2033年该职业就业增长约7%，高于所有职业平均水平。金融市场的复杂性和退休投资需求推动增长，但电子交易可能限制部分岗位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 486,200. The US Bureau of Labor Statistics projects employment in this occupation to grow about 7% from 2023 to 2033, faster than the average for all occupations. Complexity of financial markets and demand for retirement investments drive growth, but electronic trading may limit some positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$70,000 | 底薪加佣金，总收入波动大 |
-| 中级（3-7年） | $70,000~$120,000 | 建立客户基础后佣金收入增加 |
-| 高级（7年以上） | $120,000~$200,000 | 顶级销售代理年收入可超过$200,000 |
+| Median salary | $78,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$70,000 | Base salary plus commission, total income fluctuates significantly |
+| Mid-level (3–7 years) | $70,000~$120,000 | Commission income increases after building a client base |
+| Senior (7+ years) | $120,000~$200,000 | Top sales agents can earn over $200,000 annually |
+| average salary | $109,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏乐观（★★★½☆）。** 初级代理可晋升为高级代理、团队主管或分支机构经理；积累客户资源后转向私人财富管理或机构销售；也可考取CFA等资格进入投资分析或组合管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Financial sales agents' work is highly divergent: standardized trade execution and information retrieval will be replaced by AI, but relationship maintenance, complex financial solution customization, and regulatory compliance still rely on human judgment. Entry-level roles like order entry have significantly narrowed, while senior advisor roles have increased in value due to AI enhancement.
+
+Junior agents can advance to senior agent, team supervisor, or branch manager; with accumulated client resources, transition to private wealth management or institutional sales; or pursue CFA to enter investment analysis or portfolio management.
+
+**Tasks most exposed to AI:**
+
+- Automatically execute stock, bond, and commodity orders through algorithms, no manual order placement
+- AI automatically generates market analysis reports and investment briefs
+- AI-driven chatbots handle common customer inquiries (e.g., account inquiries, transaction confirmations)
+- Rule-based system automatically identifies potential suspicious transactions and triggers alerts
+
+**Where AI augments the role:**
+
+- AI analyzes customer transaction history and risk preferences to assist in generating personalized investment portfolio recommendations
+- Real-time market sentiment monitoring and event impact simulation to improve decision quality for advisors
+- Automatically generate compliance checklists and regulatory reports to reduce paperwork time
+- Predict upselling and cross-selling opportunities through customer behavior models
+
+**Human moat:**
+
+- Build deep trust relationships, understand clients' non-financial needs (e.g., family wealth inheritance, emotional needs)
+- Provide qualitative judgment and real-time adjustments to investment strategies in complex market environments
+- Take on personalized responsibility for one-on-one consulting and crisis communication with high-net-worth clients
+- Ethical judgment and interpretation concerning regulatory grey areas and new financial products
+
+**Skills to build:**
+
+- Financial data analysis tools (e.g., Python, R, SQL).
+- Understanding of AI/machine learning applications in portfolio optimization
+- Customer Relationship Management (CRM) and AI-enhanced customer interaction platforms
+- Regulatory technology (RegTech) and compliance automation tools
+- Understanding of complex financial derivative pricing models
+- Soft skills: negotiation, empathy, crisis communication
+
+**Key growth areas:**
 
 - Financial Markets
 - Retirement Planning
@@ -63,69 +96,68 @@ Buy and sell securities or commodities in investment and trading firms, or provi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于持有学士学位并在证券公司或金融机构担任专业职务的申请人，需雇主担保并抽签。 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 需硕士学位或本科加5年经验，通过PERM劳工认证申请绿卡。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需至少2年培训或经验，雇主担保，排期较长。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主证明无法找到美国工人，之后可申请职业移民绿卡。 |
+| Subclass H-1B (H-1B Specialty Occupation) | For applicants with a bachelor's degree holding a professional role in a securities company or financial institution; requires employer sponsorship and lottery. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Requires a master's degree or bachelor's plus 5 years of experience, applying for a green card through PERM labor certification. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, employer sponsorship, and longer waiting times. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find US workers, then can apply for employment-based green card. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Securities, Commodities, and Financial Services Sales Agents？**
-- 善于沟通和建立人际关系的销售型人才
-- 对金融市场有浓厚兴趣，抗压能力强
-- 愿意持续学习考取执照和认证
-
-**谁不适合学Securities, Commodities, and Financial Services Sales Agents？**
-- 不擅长主动拓客或不愿意面对业绩压力
-- 对高风险波动环境感到不适
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Sales-oriented talent with good communication and relationship-building skills
+- Strong interest in financial markets and high stress tolerance.
+- Willing to continuously study for licenses and certifications
+
+**Who is not suited**
+- Not good at proactive client acquisition or unwilling to face performance pressure
+- Uncomfortable with high-risk volatile environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for a securities sales agent?**
+A: Usually base salary plus commission; junior agents base salary about $40,000-$50,000, with commission annual income can reach over $70,000. Senior agents' income primarily comes from commission and bonuses.
+
+**Q: How can Chinese applicants enter this occupation through H-1B and green card pathways?**
+A: Requires a US employer to sponsor an H-1B work visa, requiring a bachelor's degree or higher. The employer can then apply for an EB-2 or EB-3 employment-based green card through PERM labor certification, with a priority date wait of about 2-4 years.
+
+**Q: What licenses are needed to sell securities in the US?**
+A: Must pass FINRA Series 7 and Series 63 exams; Series 65 or 66 required if providing investment advice. Some employers offer training and reimburse exam fees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏乐观（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Securities, Commodities, and Financial Services Sales Agents的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for securities sales agents?**
-答：Typically base salary plus commission. Entry-level agents earn $40,000-$50,000 base, with total compensation up to $70,000+. Senior agents earn mostly from commissions and bonuses.
-
-**问：How can Chinese nationals enter this occupation via H-1B and green card?**
-答：Require U.S. employer sponsorship for H-1B visa with bachelor's degree. Then employer can file PERM labor certification for EB-2/EB-3 green card, with wait times of 2-4 years.
-
-**问：What licenses are required to work as a securities sales agent in the U.S.?**
-答：Must pass FINRA Series 7 and Series 63 exams. Series 65 or 66 needed for investment advice. Some employers provide training and reimburse exam fees.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

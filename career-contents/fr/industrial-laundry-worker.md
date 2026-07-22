@@ -1,60 +1,93 @@
-# Industrial Laundry Worker（Industrial Laundry Worker）职业分析 · FR
+# Industrial Laundry Worker — career analysis · France
 
-**职业代码：K2201 – Industrial Laundry Worker。**
+**Occupation code: K2201 (ROME)**
 
-Operates industrial washing and drying equipment to clean, press, and fold large volumes of linens and uniforms for hotels, hospitals, and other institutions.
+Operate specialized equipment at industrial laundry plants to wash, iron, and organize large quantities of linens (such as hotel sheets and hospital uniforms) to ensure hygiene standards.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求 | 无 | —（通常在职培训） |
-| CAP 洗衣工 | 2年（CAP） | —（可通过学徒制免费学习） |
+| No education requirement | None | $0~$0 (Usually on-the-job training) |
+| CAP laundry | 2 years (CAP) | $0~$500 (You can study for free through an apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Blanchisserie | 法国教育部 | 可选 | 工业洗衣职业证书，非强制但优先 |
-| CQP 操作员 | 行业分支委员会 | 可选 | 在职培训后获得，提升技能 |
+| CAP Blanchisserie | French Ministry of Education | Optional | Industrial Laundry Professional Certificate, not mandatory but preferred |
+| CQP operators | Industry branch committees | Optional | Gain skills after on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 25,000。法国工业洗衣业受旅游和医疗行业需求支撑，自动化程度提高但人工操作仍不可或缺。就业稳定，但岗位增长缓慢，主要替代退休人员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. France's industrial laundry industry is supported by demand from tourism and healthcare, with increased automation but manual operations still indispensable. Employment is stable, but job growth is slow, mainly replacing retirees.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $21,000~$24,000 | 按SMIC起薪 |
-| 中级（3-5年） | $25,000~$28,000 | 含经验与加班 |
-| 高级（主管/技师） | $30,000~$35,000 | 生产主管或设备维护 |
+| Median salary | $26,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $21,000~$24,000 | Salary starts at SMIC |
+| Mid-level (3–5 years) | $25,000~$28,000 | Including experience and overtime |
+| Senior (Supervisor/Technician) | $30,000~$35,000 | Production supervisor or equipment maintenance |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 从操作员可晋升为生产线主管、质量控制员或设备维护技术员。经验丰富者可转向后勤管理或培训岗。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+In laundry worker roles, routine washing and ironing tasks are easily replaced by automation, but AI-driven intelligent sorting, quality inspection, and personalized services will enhance efficiency, while human skills like customer communication and complex stain treatment remain defensible.
+
+Operators can be promoted to production line supervisors, quality controllers, or equipment maintenance technicians. Experienced candidates can move to logistics management or training positions.
+
+**Tasks most exposed to AI:**
+
+- Clothing sorting: AI vision system automatically identifies fabric type, color, and stains, guiding machine sorting
+- Regular washing: Automatic washing machine completes cleaning according to preset programs, no manual operation required
+- Basic ironing: automatic ironing machines or robots handle standardized items such as shirts and bed sheets
+- Inventory tracking: RFID and AI systems automatically record the flow of garments in and out of storage
+
+**Where AI augments the role:**
+
+- Special stain treatment: AI provides recommended solutions, workers combine experience to remove stubborn stains
+- Quality inspection: AI vision assists workers in checking clothing defects after washing, improving consistency.
+- Personalized service: AI analyzes customer preferences to recommend tailored care plans (e.g., scent type, folding method)
+- Predictive maintenance of equipment: AI monitors machine status, provides early fault warnings, reducing downtime
+
+**Human moat:**
+
+- Complex communication: handling special client requests or complaints, requiring interpersonal understanding and negotiation
+- Fine manual work: hand-washing high-quality fabrics, repairing decorative details, and other precision operations
+- Cross-domain management: coordinating washing, storage, distribution, and other processes, requiring organizational skills.
+- Emergency response: handling machine malfunctions, chemical spills, and other unexpected incidents
+
+**Skills to build:**
+
+- AI Equipment Operation and Monitoring: Learn to use smart laundry systems and robot interfaces
+- Basic programming and data analysis: understanding algorithm principles to optimize washing parameters and processes
+- Advanced textile knowledge: mastering different fabric properties and care methods
+- Customer service and communication: enhance cross-cultural service skills, handle personalised needs
+- Fault diagnosis and maintenance: master common troubleshooting and preventive maintenance for AI equipment
+- Environmental and safety compliance: familiarity with energy-saving and emission reduction standards, as well as chemical management
+
+**Key growth areas:**
 
 - hospitality
 - healthcare linen
@@ -63,64 +96,66 @@ Operates industrial washing and drying equipment to clean, press, and fold large
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明无法招聘欧盟员工。工业洗衣岗位通常不满足紧缺条件，获批较难。 |
-| Subclass Recherche emploi（Job Seeker Visa） | 适用于已在法国完成学业的外国人，12个月内找工作。对低技能岗位意义不大。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, must prove inability to recruit EU workers. Industrial laundry positions usually do not meet shortage conditions, making approval difficult. |
+| Subclass Recherche emploi (Job Seeker Visa) | For foreigners who have completed studies in France, looking for work within 12 months. Not very useful for low-skilled positions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Industrial Laundry Worker？**
-- 体力好、适应重复性工作者
-- 希望快速就业、无需高学历者
+**Who is suited**
+- Good physical strength and adaptability to repetitive work
+- Those seeking quick employment without requiring a high degree of education
 
-**谁不适合学Industrial Laundry Worker？**
-- 寻求高薪或高职业声望者
-- 希望远程或灵活工作者
+**Who is not suited**
+- Those seeking high salaries or high professional prestige
+- Hope for remote or flexible workers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for industrial laundry workers?**
+A: Entry-level positions pay about 21,000-24,000 euros per year (before tax), starting salary at SMIC France. Supervisor levels can exceed 30,000 euros.
+
+**Q: Can third-country citizens immigrate to France through this job?**
+A: extremely difficult. This position is considered low-skilled, employers must prove they cannot recruit EU citizens, and it is generally not a shortage occupation.
+
+**Q: What are the career development paths?**
+A: You can be promoted from operator to production line supervisor, quality control or equipment maintenance technician, or transition to logistics management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Industrial Laundry Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for an industrial laundry worker?**
-答：Entry-level positions pay around €21,000-€24,000 per year (gross), based on the French SMIC. Supervisors can earn over €30,000.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：Very difficult. This is a low-skilled job; employers must prove no EU candidate is available, and it's not a shortage occupation.
-
-**问：What are the career progression paths?**
-答：From operator to shift supervisor, quality control, or equipment maintenance technician, or logistics management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Public Servant / Government Administration Officer（Public Servant / Government Administration Officer）职业分析 · 新西兰
+# Public Servant / Government Administration Officer — career analysis · New Zealand
 
-**职业代码：531112 – Public Servant / Government Administration Officer。**
+**Occupation code: 531112 (ANZSCO)**
 
-New Zealand government administration officers perform administrative coordination, policy implementation, customer service and project management within the public service. This is a non-skilled migration occupation, primarily for locals and citizens, with very few opportunities for foreign workers to obtain work visas or residency.
+New Zealand government administrative officers work in the public service, handling administrative coordination, policy implementation, customer service, and project management. This is a non-skilled-migration occupation, primarily for local residents and citizens; very few foreigners obtain work visas or residency through this role.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学士 | 3年 | $22,000~$35,000（国际学生年均学费，但本地公民可享政府补贴或学生贷款） |
-| 硕士（公共管理） | 1-2年 | $26,000~$45,000（国际学生年均学费，部分职位有内部晋升培训无需学历） |
+| Bachelor's degree | 3 years | $22,000~$35,000 (Annual tuition fees for international students, but local citizens may receive government subsidies or student loans) |
+| Master's (Public Administration) | 1-2 years | $26,000~$45,000 (Average annual tuition for international students; some positions offer internal promotion training without requiring a degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共管理/行政管理学士学位 | 新西兰各大学 | 可选 | 非强制但常见，部分岗位接受相关工作经验 |
-| 公共服务入职培训 | Te Kawa Mataaho（公共服务委员会） | 必备 | 入职后完成，部分岗位需通过安全审查 |
+| Public service induction training | Te Kawa Mataaho (Public Service Commission) | Required | Completed after starting; some positions require security clearance |
+| Bachelor's degree in Public Administration/Administrative Management | New Zealand universities | Optional | Not mandatory but common; some roles accept relevant work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 66,000。新西兰公共服务部门员工总数约6.6万人（2024年），行政岗位未来5年需求稳定，但主要面向本地公民或居民开放，外籍人员几乎无法通过该职业获得工签或移民。
+**Job demand: medium (★★★☆☆).** National workforce approx. 66,000. New Zealand public service employs about 66,000 people (2024). Demand for administrative roles is stable over the next 5 years, but primarily open to local citizens or residents. Foreign nationals can hardly obtain a work visa or residency through this occupation.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$68,000 | 通常对应行政助理（AO）或行政官（AO）级别 |
-| 中级（4-7年） | $70,000~$90,000 | 高级行政官（SAO）或团队领导 |
-| 高级（8年以上） | $95,000~$120,000 | 政策顾问、经理或高级专家 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$68,000 | Typically corresponds to Administrative Officer (AO) or Executive Officer level |
+| Mid-level (4-7 years) | $70,000~$90,000 | Senior Administrative Officer (SAO) or team leader |
+| Senior (8+ years) | $95,000~$120,000 | Policy Advisor, Manager, or Senior Specialist |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径通常从行政助理（AO）起步，晋升至高级行政官（SAO）、团队领导或政策顾问，需积累内部经验和参加公共服务培训，晋升周期约3-5年。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Government administrative officers' office work is largely automatable, but complex tasks like decision-making, negotiation, and policy formulation are hard to replace; overall risks and opportunities coexist. Entry-level positions are compressed, but demand for new skills increases.
+
+Career progression usually starts from Administrative Officer (AO), advancing to Senior Administration Officer (SAO), team leader, or policy advisor. Requires accumulating internal experience and participating in public service training; promotion cycle is about 3-5 years.
+
+**Tasks most exposed to AI:**
+
+- Data entry and file archiving
+- Standard email replies and customer inquiries
+- Report generation and basic document drafting
+- Policy document information retrieval and summarization
+- Simple compliance checks and data comparison
+
+**Where AI augments the role:**
+
+- Using AI tools for policy impact simulation and predictive analysis
+- Quick drafting of policy proposals using natural language processing
+- AI-assisted decision support systems improve efficiency in complex judgments
+- Real-time tracking of project progress and risks using automated monitoring systems
+- Data analysis tools to optimize public service allocation and budgets
+
+**Human moat:**
+
+- Multi-stakeholder negotiation and consensus building
+- Final decision-making involving ethical, legal, or political implications
+- Handling ambiguous, unstructured problems and crisis response
+- Building public trust and face-to-face service delivery
+- Institutional innovation and complex policy design
+
+**Skills to build:**
+
+- Basic data analysis and visualization
+- Application of AI tools in public administration
+- Project management methodologies (Agile, Lean)
+- Basic programming (Python/R) and automation scripts
+- Knowledge of ethical and compliant AI use
+- Digital transformation leadership
+
+**Key growth areas:**
 
 - Government sector
 - Stable employment
@@ -63,65 +99,67 @@ New Zealand government administration officers perform administrative coordinati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 极少情况下，若政府部门获得认证雇主资质，可能担保外籍行政人员，但实际名额极少，多限于特殊技能岗位。 |
-| Subclass SMC（Skilled Migrant Category） | 该职业不在技术移民清单，无法通过此路径申请居留。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Rarely, if a government department is a certified employer sponsor, it may sponsor foreign administrative staff, but actual quotas are minimal, mostly limited to specialized skill roles. |
+| Subclass SMC (Skilled Migrant Category) | This occupation is not on the skilled migration list, so cannot apply for residency through this pathway. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Servant / Government Administration Officer？**
-- 新西兰公民或居民，希望在公共部门稳定工作
-- 具备良好沟通和行政组织能力，致力于公共服务
-- 愿意接受较低的薪资增长但工作与生活平衡
+**Who is suited**
+- New Zealand citizen or resident, seeking stable work in the public sector
+- People with good communication and administrative organizational skills, committed to public service
+- Willing to accept lower salary growth but better work-life balance
 
-**谁不适合学Public Servant / Government Administration Officer？**
-- 希望移民新西兰的外籍人士，职业移民路径极窄
-- 追求快速晋升和高收入者
+**Who is not suited**
+- For foreigners wishing to immigrate to New Zealand, the skilled migration pathway is extremely narrow
+- Those seeking rapid promotion and high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for New Zealand government administrative officers?**
+A: Entry-level annual salary approximately NZ$55,000–$68,000; mid-level $70,000–$90,000; senior $95,000–$120,000; higher than private sector equivalent roles but slower growth.
+
+**Q: Can foreigners immigrate to New Zealand through a government administrative officer position?**
+A: Generally not. This occupation is not on the skilled migration list or green list, and government agencies prioritize hiring local citizens or residents, almost never offering work visa sponsorship.
+
+**Q: What qualifications are needed to enter the New Zealand public service?**
+A: Typically requires New Zealand citizenship or residency, a bachelor's degree (preferably in public administration or related field), and passing a security background check. Some positions accept internal promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Public Servant / Government Administration Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for government administration officers in New Zealand?**
-答：Entry-level salaries range from NZD 55,000 to 68,000, mid-level 70,000 to 90,000, and senior 95,000 to 120,000 per year, higher than private sector but with slower growth.
-
-**问：Can foreigners immigrate to New Zealand through the government administration officer role?**
-答：Generally no. This occupation is not on the Skilled Migrant Category or Green List, and government departments almost always hire citizens or residents, rarely offering visa sponsorship.
-
-**问：What qualifications are needed to enter the New Zealand public service?**
-答：Typically require New Zealand citizenship or residency, a bachelor's degree (preferably in public administration or related), and passing a security clearance. Some roles allow internal promotion without a degree.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

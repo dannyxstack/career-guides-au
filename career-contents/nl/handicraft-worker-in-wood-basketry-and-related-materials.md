@@ -1,60 +1,96 @@
-# Handicraft Worker in Wood, Basketry and Related Materials（Handicraft Worker in Wood, Basketry and Related Materials）职业分析 · NL
+# Handicraft Worker in Wood, Basketry and Related Materials — career analysis · Netherlands
 
-**职业代码：7317 – Handicraft Worker in Wood, Basketry and Related Materials。**
+**Occupation code: 7317 (ISCO08)**
 
-In the Netherlands, handicraft workers in wood, basketry and related materials create and repair items using traditional techniques, often self-employed or in small workshops.
+In the Netherlands, handcrafting and repairing items made of wood, basket, and other natural materials, covering traditional crafts like furniture making and basket weaving, often as self-employed or in small workshops.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-4年 | —（公立学校学费约€2,000/年，可能获得补贴） |
-| 学徒制 | 2-4年 | —（边工作边学习，培训费用由雇主承担） |
+| Secondary vocational education (MBO) | 2-4 years | $0~$2,000 (Public school tuition about €2,000/year, with possible subsidies) |
+| Apprenticeship | 2-4 years | $0~$500 (Learn while working, with training costs covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO木工或手工艺文凭 | ROC（地区培训中心） | 可选 | 荷兰中等职业教育文凭，常见入门资质 |
-| 自雇资质 (KVK注册) | 荷兰商会 (KVK) | 必备 | 自雇手工艺人需在KVK注册 |
+| Self-employment qualification (KVK registration) | Netherlands Chamber of Commerce (KVK) | Required | Self-employed artisans must register with the KVK |
+| MBO diploma in woodworking or handicraft | ROC (Regional Training Centre) | Optional | Dutch secondary vocational education diploma, common entry-level qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。荷兰对传统手工艺的需求稳定，因消费者偏爱手工制品和可持续生产，但竞争来自进口廉价产品。预计就业机会缓慢增长，主要依赖旅游业和当地市场。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. Demand for traditional crafts in the Netherlands is stable, as consumers prefer handmade goods and sustainable production, but competition comes from cheap imported products. Employment opportunities are expected to grow slowly, mainly relying on tourism and the local market.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，受雇或初期自雇 |
-| 中级（3-8年） | $28,000~$36,000 | 税前年薪，有经验工匠 |
-| 高级（8年以上） | $36,000~$50,000 | 税前年薪，知名工匠或工作室主理人 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, employed or early self-employed |
+| Mid-level (3–8 years) | $28,000~$36,000 | Annual pre-tax salary, experienced tradesperson. |
+| Senior (8+ years) | $36,000~$50,000 | Pre-tax annual salary, renowned artisan or studio owner |
+| average salary | $33,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 手工艺人可从学徒晋升为熟练工匠，或开设自己的工作室。部分人转向教学、展览或与设计师合作，提升作品价值。数字化营销有助于扩大客户群。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Traditional craft roles face the risk of being compressed by automation; AI-driven design software and CNC engraving will replace some repetitive production, but customization and restoration skills remain a moat.
+
+Craftworkers can progress from apprentice to skilled artisan or open their own studio. Some move into teaching, exhibitions, or collaborate with designers to enhance value. Digital marketing helps expand customer base.
+
+**Tasks most exposed to AI:**
+
+- Use CNC equipment for standardized wood carving and hollow pattern production
+- Use AI tools to generate repetitive basket weaving patterns
+- Automatically detect and classify material defects using computer vision
+- Automatically generate product drawings based on customer-provided dimensions
+- Using printing or laser engraving to mass-produce decorative patterns
+
+**Where AI augments the role:**
+
+- Using AI to generate complex weaving structures or mortise-and-tenon solutions to accelerate prototype design
+- Restore missing parts of antique furniture via 3D scanning and modeling
+- Using natural language processing to analyze customer preferences and recommend personalized design solutions
+- AI-driven inventory management system optimizes natural material procurement and cutting utilization.
+- Augmented reality tools help customers visualize custom furniture in a space.
+
+**Human moat:**
+
+- Artistic hand feel for manual carving, polishing, and surface finishing.
+- Intuitive grasp of natural materials (wood grain, rattan flexibility)
+- Experience-based judgment required for restoring ancient or unique artifacts
+- Deep empathy for communicating custom requirements with clients
+- Creating designs with historical or cultural significance that cannot be replicated by algorithms
+
+**Skills to build:**
+
+- Proficient in CAD/3D modeling software (e.g. Fusion 360, Rhinoceros)
+- Master digital manufacturing tools (CNC programming, laser cutter operation)
+- Basic programming skills (automating tasks with Python scripts or generating art patterns)
+- Social media and e-commerce operations (showcasing works, attracting custom orders)
+- Knowledge of sustainable materials (certified wood, properties of synthetic alternatives)
+- Digital management of project budgets and quotations
+
+**Key growth areas:**
 
 - sustainability
 - local craftsmanship
@@ -63,66 +99,68 @@ In the Netherlands, handicraft workers in wood, basketry and related materials c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能非欧盟公民，但手工艺人通常薪资金额不满足门槛，需雇主担保且薪资达标 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 需雇主担保，薪资门槛较高，手工艺人通常不符合 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 为在荷兰毕业的非欧盟学生提供一年找工作时间，可从事手工艺工作 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, but artisans usually do not meet the salary threshold; employer sponsorship and salary compliance are required. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Requires employer sponsorship, with a high salary threshold; craftspeople are usually not eligible. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Provides one year of job search time for non-EU graduates in the Netherlands, allowing them to work in craft occupations. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Handicraft Worker in Wood, Basketry and Related Materials？**
-- 喜欢手工制作、耐心细致、注重细节的人
-- 追求自雇自由、独立工作方式的人
-- 对传统工艺和可持续材料有热情的人
+**Who is suited**
+- People who enjoy handicrafts, are patient and meticulous, and pay attention to detail
+- People seeking self-employment freedom and independent work style
+- People passionate about traditional craftsmanship and sustainable materials
 
-**谁不适合学Handicraft Worker in Wood, Basketry and Related Materials？**
-- 追求高收入或稳定职业发展的人
-- 不喜欢体力劳动或重复性工作的人
+**Who is not suited**
+- People pursuing high income or stable career development
+- People who dislike physical labor or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a Dutch woodwork craftsman?**
+A: Junior craftsmen have a pre-tax annual salary of approximately €22,000-€28,000, experienced workers can reach €36,000-€50,000, and self-employed income fluctuates significantly.
+
+**Q: How can non-EU citizens immigrate to the Netherlands for craft work?**
+A: Artisans typically do not qualify for high-skilled migration routes; possible via EU Blue Card or knowledge migration route (employer sponsorship and salary threshold required), but the bar is high. A more feasible option is finding a job through the Netherlands' Orientation Year visa after graduation.
+
+**Q: What educational background is needed to become a carpenter in the Netherlands?**
+A: Typically requires completion of MBO (secondary vocational education) in carpentry or handicraft courses, or participation in apprenticeship training. Self-employed must register with the Dutch Chamber of Commerce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Worker in Wood, Basketry and Related Materials属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a wood handicraft worker in the Netherlands?**
-答：Entry-level gross annual salary is around €22,000-€28,000, experienced workers earn €36,000-€50,000, self-employed income varies.
-
-**问：How can non-EU citizens immigrate to the Netherlands for handicraft work?**
-答：Handicraft workers usually don't qualify for high-skilled migration. EU Blue Card or Highly Skilled Migrant routes require employer sponsorship and high salary thresholds. The Orientation Year visa for Dutch graduates is more feasible.
-
-**问：What education is needed to become a wood handicraft worker in the Netherlands?**
-答：Typically, an MBO (secondary vocational education) diploma in woodworking or craft, or an apprenticeship. Self-employed must register with the Dutch Chamber of Commerce (KVK).
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

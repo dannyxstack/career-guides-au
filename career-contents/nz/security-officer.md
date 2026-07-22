@@ -1,59 +1,91 @@
-# Security Officer（Security Officer）职业分析 · 新西兰
+# Security Officer — career analysis · New Zealand
 
-**职业代码：442217 – Security Officer。**
+**Occupation code: 442217 (ANZSCO)**
 
-Security officers in New Zealand protect people and property, manage access, and respond to emergencies. This occupation is eligible for AEWV but not on the Green List or long-term shortage list; Skilled Migrant Category requires high wages or work experience.
+New Zealand security personnel are responsible for protecting people and property, visitor management, and emergency response. This occupation can lead to immigration via the Accredited Employer Work Visa (AEWV), but is not on the Green List or long-term skill shortage list; skilled migration requires meeting high salary or work experience requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训 | 1周 | $200~$500（基础安保证书课程（如COA）） |
-| 大专文凭 | 1年 | $10,000~$15,000（新西兰私立培训机构的风险管理大专） |
+| Short-term training | 1 week | $200~$500 (Basic security certificate course (e.g., COA)) |
+| Diploma | 1 year | $10,000~$15,000 (Diploma in Risk Management from a New Zealand private training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安保人员执业证书（COA） | 新西兰内政部 | 必备 | 从事安保工作必须持有 |
-| 急救证书 | 新西兰红十字会 | 可选 | 部分雇主要求 |
-| 风险管理文凭 | 新西兰私立培训机构 | 可选 | 利于晋升管理岗 |
+| Security personnel license (COA) | New Zealand Department of Internal Affairs | Required | Must hold for security work |
+| First aid certificate | New Zealand Red Cross | Optional | Some employers require |
+| Diploma of Risk Management | New Zealand private training establishment | Optional | Beneficial for promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★½☆）。** 全国从业人数约 8,000。新西兰安保行业需求稳定，年均增长约2%，受商业安全和活动安保驱动。但市场饱和，初级岗位竞争较大，高级岗位（如监控中心经理）更紧缺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,000. Security industry demand in New Zealand is stable, growing about 2% annually, driven by commercial security and event security. However, the market is saturated, with more competition for entry-level roles, while advanced roles (e.g., monitoring center manager) are in higher demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约$22-$26 |
-| 中级（3-6年） | $55,000~$70,000 | 时薪约$26-$33 |
-| 高级（6年+） | $70,000~$90,000 | 主管或监控中心经理 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly rate around $22-$26 |
+| Mid-level (3–6 years) | $55,000~$70,000 | Hourly wage approximately $26-$33 |
+| Senior (6+ years) | $70,000~$90,000 | Supervisor or monitoring center manager |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级安保员起步，可晋升为高级安保员、安保主管或监控中心经理。部分进入企业安全管理部门或私营调查领域，需积累经验及取得相关认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
+
+Starting as a junior security officer, can advance to senior security officer, security supervisor, or monitoring center manager. Some move into corporate security management or private investigation, requiring experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- AI video surveillance automatically detects abnormal events and alerts
+- Automated visitor registration and identity verification systems replace manual registration
+- AI-driven patrol robots replacing fixed-route patrols
+
+**Where AI augments the role:**
+
+- AI video analysis assisting real-time threat assessment and decision-making
+- AI report generation tools quickly summarize event logs
+- AI voice assistant supports emergency response communication and coordination
+- AI training simulators improve exercise effectiveness
+
+**Human moat:**
+
+- On-site emergency judgment and crisis intervention ability
+- Interpersonal communication and persuasion with clients, visitors, and law enforcement
+- Legal compliance and licensing liability (e.g., use-of-force boundaries)
+- Risk assessment intuition in complex physical environments
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Basic cybersecurity knowledge (integration of physical security and IT)
+- Emergency communication and coordination software (e.g., Duress system).
+- Advanced training in conflict resolution and counter-terrorism awareness.
+- Data privacy regulations and compliance (Australian Privacy Act)
+- Digital reporting and visualization tools (e.g., Tableau)
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,68 +94,67 @@ Security officers in New Zealand protect people and property, manage access, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，时薪达到中位数（$29.66/小时） |
-| Subclass SMC（Skilled Migrant Category） | 若时薪达到中位数1.5倍（$44.49/小时）或具有丰富经验可申请 |
-| Subclass Green List T2（Green List Tier 2） | 仅限特定安保管理岗位，需工作2年转居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must obtain a job offer from a certified employer, with an hourly wage reaching the median ($29.66/hour) |
+| Subclass SMC (Skilled Migrant Category) | If hourly wage reaches 1.5x median ($44.49/hour) or have extensive experience, can apply |
+| Subclass Green List T2 (Green List Tier 2) | Limited to specific security management roles; requires 2 years of work before residence |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Security Officer？**
-- 希望快速就业、接受轮班工作的人群
-- 有安保或军人背景，寻求新西兰工作机会者
-- 具备良好沟通和应急处理能力的人
-
-**谁不适合学Security Officer？**
-- 对低薪资和夜班工作敏感者
-- 追求高薪或快速移民路径者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those seeking quick employment and willing to work shift work
+- Those with security or military backgrounds seeking job opportunities in New Zealand
+- Those with good communication and emergency response skills
+
+**Who is not suited**
+- Those sensitive to low salary and night shift work
+- Those seeking high salary or fast immigration pathway
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for security personnel in New Zealand?**
+A: Entry-level security officer annual salary is about NZ$45,000-55,000, mid-level NZ$55,000-70,000, senior supervisor up to NZ$70,000-90,000. Note that the median wage is $29.66/hour, and most roles start below this.
+
+**Q: Can security personnel immigrate to New Zealand?**
+A: Yes, but paths are limited. Most common is the Accredited Employer Work Visa (AEWV), requiring hourly wage at median. Skilled migration requires high salary or extensive experience. Green list only for management roles.
+
+**Q: What license is required for security work in New Zealand?**
+A: Must hold a New Zealand Department of Internal Affairs issued security officer certificate (COA), obtained through background check and training. Some employers may also require a First Aid certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Security Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a security officer in New Zealand?**
-答：Entry-level salary is NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior supervisor NZD 70,000-90,000. Median wage is $29.66/hr, but many start below.
-
-**问：Can a security officer migrate to New Zealand?**
-答：Yes, but limited. Common route is AEWV with median wage. Skilled Migrant Category requires high pay or experience. Green List only for management roles.
-
-**问：What license is required to work as a security officer in New Zealand?**
-答：A mandatory Certificate of Approval (COA) from the Department of Internal Affairs, requiring background check and training. Some employers may also require first aid certification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

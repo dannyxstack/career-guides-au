@@ -1,61 +1,96 @@
-# Supervisors and Managers - Technical Media Design（Supervisors and Managers - Technical Media Design）职业分析 · DE
+# Supervisors and Managers - Technical Media Design — career analysis · Germany
 
-**职业代码：2329 – Supervisors and Managers - Technical Media Design。**
+**Occupation code: 2329 (KldB)**
 
-Lead teams in technical media design, coordinate multimedia projects, and ensure designs meet technical specs and business goals.
+Responsible for leading the technical media design team, coordinating multimedia projects, ensuring designs meet technical specifications and business objectives.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制大学/应用科学大学本科 | 3-4年 | —（公立大学免学费，仅学期费） |
-| 双元制培训（媒体设计） | 3年 | —（培训期间有津贴） |
+| dual system university / university of applied sciences bachelor's degree | 3-4 years | $0~$1,500 (Public universities are tuition-free, only semester fees apply.) |
+| Dual System Training (Media Design) | 3 years | $0~$0 (Allowance during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体设计学位或同等学历 | 大学/应用科学大学 | 可选 | 大部分雇主要求 |
-| 项目管理认证（如PMP） | PMI | 可选 | 对管理岗位有利 |
-| 领导力培训 | 商会/私人机构 | 可选 | 非强制但提升竞争力 |
+| Media design degree or equivalent qualification | University / University of Applied Sciences | Optional | Most employers require |
+| Project management certification (e.g., PMP) | PMI | Optional | Beneficial for management positions |
+| Leadership training | Chamber of commerce/private institution | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。数字化转型推动媒体设计需求增长，但管理岗位竞争激烈。人工智能工具辅助设计，但战略决策仍需人力。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Digital transformation drives demand for media design, but management roles are competitive. AI tools assist design, but strategic decisions still need human input.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪 |
-| 中级（3-7年） | $55,000~$70,000 | 税前年薪 |
-| 高级（7年以上） | $75,000~$95,000 | 税前年薪 |
+| Median salary | $44,688 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $55,000~$70,000 | Annual pre-tax salary |
+| Senior (7+ years) | $75,000~$95,000 | Annual pre-tax salary |
+| average salary | $48,780 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 可从高级设计师晋升为团队主管，再升至部门经理或创意总监。积累项目管理经验后也可转向咨询或自由职业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will profoundly change the role of technical media design directors: automated layout and basic image generation replace some tasks, but management duties such as strategic decision-making, creative leadership, budget management, and team coordination are enhanced by AI tools, resulting in a mixed overall impact.
+
+Can be promoted from senior designer to team leader, then to department manager or creative director. After accumulating project management experience, can also move into consulting or freelancing.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized design drafts and layouts
+- AI batch processing of basic images and videos
+- Automated tracking and reporting of project progress
+- Automated replies for some client communication templates
+
+**Where AI augments the role:**
+
+- Rapidly iterate using AI-generated creative prototypes
+- Optimizing design decisions through AI analysis of user data
+- Use AI tools to automatically beautify and fix design details
+- Simulate the effects of different technical solutions using AI
+- Use AI to assist in generating project documents and presentation materials.
+
+**Human moat:**
+
+- Strategic creative direction and visual narrative decision-making
+- Cross-team collaboration and stakeholder management
+- High-level oversight of budget, resources, and risks
+- Maintain consistency of brand tone
+- Interpersonal communication and negotiation skills
+
+**Skills to build:**
+
+- Advanced applications of AI design tools (e.g., Midjourney, DALL·E, Adobe Firefly)
+- Data visualization and AI-driven user research analysis
+- Basic programming (Python/JavaScript) for customizing AI workflows
+- Automated configuration of project management software (such as Jira)
+- Knowledge of AI ethics and copyright compliance
+- Rapid prototyping and A/B testing methodology
+
+**Key growth areas:**
 
 - Digital Transformation
 - Multimedia Growth
@@ -64,69 +99,68 @@ Lead teams in technical media design, coordinate multimedia projects, and ensure
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪达门槛的技术媒体设计主管，通常需大学学位 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 若职位被认可为技术工种，可走技术移民法，需资质认证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职机会卡，允许来德找工一年 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to technical media design managers earning above the salary threshold, typically requiring a university degree. |
+| Subclass Skilled Worker (Skilled Immigration Act) | If the position is recognised as a skilled trade, it can follow the skilled migration law, requiring qualifications assessment. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job seeker opportunity card, allowing one year to find work in Germany |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors and Managers - Technical Media Design？**
-- 热爱创意与技术结合
-- 具备领导力与沟通能力
-- 适应快节奏项目环境
-
-**谁不适合学Supervisors and Managers - Technical Media Design？**
-- 偏好独立执行而非管理协调
-- 对技术细节不感兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about combining creativity with technology
+- Possess leadership and communication skills
+- Adapt to fast-paced project environment
+
+**Who is not suited**
+- Prefers independent execution over management coordination
+- Not interested in technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Technical Media Design Supervisor in Germany?**
+A: Pre-tax annual salary approx. EUR 40,000-95,000, junior 40,000-50,000, intermediate 55,000-70,000, senior 75,000-95,000, varies by experience, region, and company size.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Can apply via EU Blue Card (high salary) or Skilled Immigration Act (requires qualification recognition). Opportunity card allows job search in Germany first. Management roles usually require German B2 or above.
+
+**Q: What is the career progression path for this occupation?**
+A: From senior designer to team lead, then to creative director or department manager. Alternatively, move to freelance or consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors and Managers - Technical Media Design为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a technical media design manager in Germany?**
-答：Gross annual salary ranges from €40,000 to €95,000, depending on experience, location, and company size.
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：Via EU Blue Card (high salary) or Skilled Immigration Act (requires qualification recognition). The Opportunity Card allows job search. German B2+ is usually required.
-
-**问：What is the career progression for this occupation?**
-答：From senior designer to team lead, then creative director or department head. Alternatively, move to freelancing or consulting.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

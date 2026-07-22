@@ -1,59 +1,95 @@
-# Steel erectors（Steel erectors）职业分析 · UK
+# Steel erectors — career analysis · United Kingdom
 
-**职业代码：5311 – Steel erectors。**
+**Occupation code: 5311 (SOC)**
 
-Steel erectors fit and erect structural metal framework for buildings and other structures such as metal chimneys, playing a crucial role in construction.
+Steel structure installers are responsible for installing and erecting metal structural frameworks for buildings and other structures (such as metal chimneys), and are a key trade in the construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（学徒期间有工资，通常免费培训） |
-| 职业培训课程 | 6个月-1年 | $1,000~$3,000（短期课程费用，部分可由雇主资助） |
+| Apprenticeship | 2-4 years | $0~$0 (Paid during apprenticeship, usually free training) |
+| Vocational training courses | 6 months to 1 year | $1,000~$3,000 (Short course costs, may be partly sponsored by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CSCS 卡 | Construction Skills Certification Scheme | 必备 | 建筑行业必备，证明安全培训合格 |
-| NVQ 2级或3级钢结构安装 | City & Guilds 或其他认证机构 | 可选 | 行业认可的职业资格 |
-| 高空作业证书 | IPAF 或 PASMA | 可选 | 涉及高空作业时的必要证书 |
+| CSCS card | Construction Skills Certification Scheme | Required | Essential in the construction industry, certifies safety training completion |
+| NVQ Level 2 or 3 in Steel Structure Installation | City & Guilds or other certifying body | Optional | Industry-recognized professional qualifications |
+| Elevated work platform certificate | IPAF or PASMA | Optional | Required certificates when working at heights. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。英国建筑行业持续发展，基础设施项目（如高铁 HS2 和核电站）推动需求。钢结构安装工就业前景良好，但受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. The UK construction industry continues to develop, with infrastructure projects (such as HS2 high-speed rail and nuclear power plants) driving demand. Employment prospects for steel fixers are good but are affected by economic cycles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 包括学徒毕业后 |
-| 中级（3-7年） | $30,000~$38,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $40,000~$50,000 | 包括主管和项目监工 |
+| Median salary | $35,824 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Including after apprenticeship graduation |
+| Mid-level (3–7 years) | $30,000~$38,000 | Salary increases with experience |
+| Senior (7+ years) | $40,000~$50,000 | Includes supervisors and project superintendents |
+| average salary | $38,257 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级钢结构安装工可通过学徒制积累经验，晋升为高级安装工、团队主管或项目监工。也可向钢结构设计或工程管理方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall risk for steel structure installers is mixed: programmed assembly and integrated monitoring replace some blueprint reading and measurement marking, but onsite complex tasks like lifting, welding, and safety checks still rely on human judgement and physical operation; AI is more an aid than a replacement.
+
+Junior steel structure installers can gain experience through apprenticeships and advance to senior installer, team leader, or project supervisor. They can also move into steel structure design or project management.
+
+**Tasks most exposed to AI:**
+
+- Use BIM software to automatically generate installation diagrams and parts lists, replacing manual diagram viewing and quantity takeoff
+- AI vision system automatically checks weld quality and dimensional deviations, replacing manual inspection
+- Drones or robots for automatic rigging attachment and bolt fastening, reducing repetitive high-altitude work
+- Robotic welding and assembly of prefabricated steel structure modules, replacing extensive on-site welding.
+- IoT-based automatic path planning and obstacle avoidance for cranes, reducing manual guidance
+
+**Where AI augments the role:**
+
+- AI-assisted lifting plan optimisation, dynamically recommending optimal hoisting paths based on weather and load
+- AR helmets superimpose 3D models of installation nodes, aiding positioning and sequence inspection, reducing rework.
+- AI-driven structural health monitoring system for real-time fatigue damage alerts, enhancing safety
+- Digital twin simulates the entire installation process, predicting collision and interference issues to improve efficiency
+- Smart wearable devices monitor workers' heart rate and environment, linking to emergency response systems
+
+**Human moat:**
+
+- Design and adjustment of lifting and temporary support solutions under complex site conditions
+- Safety supervision and emergency response decision-making in multi-trade coordination
+- Manual correction and fine welding of non-standard components
+- Practical operation and response in harsh environments like heights and confined spaces
+- Legal and contractual responsibility for structural load-bearing and safety signing
+
+**Skills to build:**
+
+- Reading and model correction using BIM software (e.g., Tekla Structures)
+- Operation and data interpretation of drones and automated measuring instruments
+- Programming and collaborative operation of smart cranes and robotic assistive equipment
+- Fundamentals of Structural Mechanics and Failure Analysis, used for AI warning validation
+- Fundamentals of digital security and IoT device maintenance
+- Advanced welding techniques and international certifications (e.g., AWS D1.1)
+
+**Key growth areas:**
 
 - Infrastructure projects
 - Construction demand
@@ -62,68 +98,67 @@ Steel erectors fit and erect structural metal framework for buildings and other 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适合通过雇主担保的技术工人，钢结构安装工在可担保职业列表中，且为紧缺职业，薪资门槛较低。 |
-| Subclass Graduate（Graduate visa） | 不适合，因为通常不需要学位。 |
-| Subclass Scale-up（Scale-up visa） | 适合高增长企业的高技能工人，但钢结构安装工通常不适用。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for skilled workers via employer sponsorship; steel structural installers are on the eligible occupation list and are in demand, with a lower salary threshold. |
+| Subclass Graduate (Graduate visa) | Not suitable because a degree is typically not required. |
+| Subclass Scale-up (Scale-up visa) | Suitable for high-skilled workers in high-growth enterprises, but structural steel installers are generally not eligible. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Steel erectors？**
-- 喜欢户外体力工作的人
-- 注重安全、细心负责的人
-- 愿意通过学徒制学习技能的人
-
-**谁不适合学Steel erectors？**
-- 对高空作业感到恐惧的人
-- 偏好室内办公桌工作的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical work
+- Safety-focused, careful, and responsible individuals
+- People willing to learn skills through an apprenticeship
+
+**Who is not suited**
+- People with fear of working at heights
+- People who prefer indoor desk work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for structural steel installers?**
+A: Junior: approx. £22,000-28,000, mid-level: £30,000-38,000, senior: up to £40,000-50,000. Overtime and bonuses can increase earnings.
+
+**Q: Can overseas workers become UK steel erectors through skilled migration?**
+A: Yes. Structural steel installers are on the eligible occupations list for the Skilled Worker visa, and as a shortage occupation, they can benefit from a lower salary threshold. Employer sponsorship is required.
+
+**Q: How can steel structure installers advance?**
+A: Usually start as an apprentice, gain experience to become a senior installer, then advance to team leader or project supervisor. Can also transition to steel detailing or engineering management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Steel erectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for steel erectors?**
-答：Entry-level around £22,000-£28,000, mid-level £30,000-£38,000, senior up to £40,000-£50,000. Overtime and bonuses can increase earnings.
-
-**问：Can overseas workers become steel erectors in the UK through skilled migration?**
-答：Yes. Steel erectors are on the Skilled Worker visa eligible occupations list and as a shortage occupation enjoy lower salary thresholds. Employer sponsorship required.
-
-**问：How can steel erectors progress their career?**
-答：Start as an apprentice, gain experience to become senior erector, then progress to team supervisor or project supervisor. Alternatively, move into detailing or engineering management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Supervisors, furniture and fixtures manufacturing（Supervisors, furniture and fixtures manufacturing）职业分析 · 加拿大
+# Supervisors, furniture and fixtures manufacturing — career analysis · Canada
 
-**职业代码：92022 – Supervisors, furniture and fixtures manufacturing。**
+**Occupation code: 92022 (NOC)**
 
-Supervise daily operations in furniture and fixtures manufacturing plants, ensuring efficient production processes, quality control, and team management.
+Responsible for overseeing daily operations of a furniture and fixture manufacturing factory, ensuring efficient production processes, quality control compliance, and managing the team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无固定年限 | —（通常需要高中文凭） |
-| 大专或学徒 | 2年 | $5,000~$15,000（家具制造或相关领域的大专课程或学徒） |
-| 本科学位 | 4年 | $20,000~$60,000（工商管理或工程学位可提升晋升机会） |
+| High school graduation | No fixed duration | $0~$0 (Typically requires a high school diploma) |
+| Diploma or apprenticeship | 2 years | $5,000~$15,000 (Furniture manufacturing or related field diploma or apprenticeship) |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Business administration or engineering degree can enhance promotion opportunities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 省级教育部门 | 必备 | 基本要求 |
-| 行业经验 | 雇主 | 可选 | 通常需要几年家具制造经验 |
-| 主管培训证书 | 省级行业协会 | 可选 | 如安大略省家具协会 |
-| 健康与安全认证 | 省级劳工部门 | 可选 | 如WHMIS、CPR |
+| High school diploma | Provincial education department | Required | Basic requirements |
+| Industry experience | Employer | Optional | Usually requires several years of furniture manufacturing experience |
+| Supervisor training certificate | Provincial industry association | Optional | Such as the Ontario Furniture Manufacturers Association |
+| Health and safety certification. | Provincial labour department | Optional | e.g., WHMIS, CPR |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,400。加拿大住宅和商业建筑需求稳定，推动家具制造业发展。预计就业前景中等，但自动化和进口竞争可能影响需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,400. Stable demand for residential and commercial buildings in Canada drives furniture manufacturing growth. Employment outlook is moderate, but automation and import competition may affect demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 起薪多在45,000加元左右 |
-| 中级（3-7年） | $52,000~$68,000 | 经验提升后薪资增长 |
-| 高级（7年以上） | $68,000~$85,000 | 高级主管或大型工厂薪资更高 |
+| Median salary | $59,280 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $42,000~$52,000 | Starting salary around CAD 45,000 |
+| Mid-level (3–7 years) | $52,000~$68,000 | Salary increases with experience |
+| Senior (7+ years) | $68,000~$85,000 | Higher salary for senior supervisors or large factories |
+| average salary | $62,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径包括生产经理、工厂经理或运营总监。积累经验后可转向更广泛的制造业管理层。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Supervisory and coordination duties of furniture manufacturing supervisors are not easily replaced, but tasks like production planning and quality inspection can be automated by AI; overall risk is moderate, a mixed impact.
+
+Career progression includes production manager, factory manager, or operations director. With experience, can transition to broader manufacturing management.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and optimization: AI automatically creates production plans and adjusts capacity allocation
+- Quality inspection: computer vision systems automatically identify product defects
+- Inventory management: AI predicts material demand and automatically places replenishment orders.
+- Report generation: automatically summarize KPIs such as output and efficiency and generate reports
+- Equipment monitoring: IoT sensors monitor equipment status in real-time and provide alerts
+
+**Where AI augments the role:**
+
+- Team management: AI provides employee performance data and training recommendations to assist personnel decisions
+- Process improvement: AI analyzes production data and recommends process optimization solutions
+- Customer communication: AI quickly generates quotes and delivery plans, enabling supervisors to respond faster.
+- Safety monitoring: AI monitors worker behavior, automatically identifies violations and alerts
+- Cost control: AI analyzes material and energy consumption in real-time to support cost reduction decisions
+
+**Human moat:**
+
+- Complex problem-solving: handling unexpected equipment failures, worker conflicts, and other non-standard events
+- Cross-department coordination: communicate with design, sales, and installation teams to resolve material or delivery issues
+- Employee motivation and management: personalised guidance, resolving team morale issues
+- Emergency decision-making: rapidly allocate resources during crises such as power outages or raw material shortages
+- Supplier relationship: long-term negotiation and trust-building
+
+**Skills to build:**
+
+- Proficient in AI production scheduling and quality monitoring software (e.g., Siemens Opcenter).
+- Data analysis: proficient in Python or Excel for KPI analysis
+- Sensor and IoT basics: understanding MES systems and device data interfaces
+- Robot operation and maintenance: ability to debug automated production lines
+- Digital safety management: master smart security systems (e.g., video analytics)
+- Project management and agile methodologies: improve team collaboration efficiency
+
+**Key growth areas:**
 
 - Manufacturing
 - Supervisory
@@ -64,66 +100,65 @@ Supervise daily operations in furniture and fixtures manufacturing plants, ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类移民，需满足工作经验要求 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名计划，部分省份对制造业主管有需求 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地工人 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份移民试点计划，适合在海洋省份工作 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Through Federal Skilled Worker Program or Canadian Experience Class, must meet work experience requirements |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, some provinces have demand for manufacturing supervisors |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa; must prove inability to hire local workers |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for working in the maritime provinces |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, furniture and fixtures manufacturing？**
-- 有制造业基层经验，希望晋升管理层的人
-- 注重团队管理和生产流程优化的人
-- 适应工厂环境，能承受工作压力的人
-
-**谁不适合学Supervisors, furniture and fixtures manufacturing？**
-- 不喜欢体力劳动或工厂嘈杂环境的人
-- 缺乏耐心和人际沟通能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with grassroots manufacturing experience seeking management advancement
+- People focused on team management and production process optimization
+- Those who can adapt to factory environments and handle work pressure
+
+**Who is not suited**
+- Those who dislike manual labor or noisy factory environments
+- People lacking patience and interpersonal communication skills.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a Furniture Manufacturing Supervisor in Canada?**
+A: Based on experience, the average annual salary ranges from CAD 52,000 to CAD 68,000, with senior supervisors reaching CAD 85,000.
+
+**Q: As a furniture manufacturing supervisor, what are the pathways to immigrate to Canada?**
+A: Main pathways include Express Entry (FSW/CEC), Provincial Nominee Program (PNP), Atlantic Immigration Program (AIP), and LMIA employer-sponsored work visa. It is recommended to accumulate at least 2 years of work experience and obtain language test scores.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, furniture and fixtures manufacturing的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a furniture manufacturing supervisor in Canada?**
-答：Depending on experience, the average salary ranges from CAD 52,000 to CAD 68,000, with senior supervisors earning up to CAD 85,000.
-
-**问：What are the immigration pathways for a furniture manufacturing supervisor to Canada?**
-答：Key pathways include Express Entry (FSW/CEC), Provincial Nominee Programs (PNP), Atlantic Immigration Program (AIP), and employer-sponsored LMIA work permits. It is recommended to have at least 2 years of experience and language test scores.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

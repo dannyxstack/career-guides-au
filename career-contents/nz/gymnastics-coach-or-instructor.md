@@ -1,59 +1,92 @@
-# Gymnastics Coach or Instructor（Gymnastics Coach or Instructor）职业分析 · 新西兰
+# Gymnastics Coach or Instructor — career analysis · New Zealand
 
-**职业代码：452312 – Gymnastics Coach or Instructor。**
+**Occupation code: 452312 (ANZSCO)**
 
-Teaches gymnastics skills including technique, balance, and flexibility to individuals or groups. Can migrate via AEWV or Skilled Migrant Category, but not on Green List.
+Teach gymnastics skills to individuals or groups, including technique, balance, and flexibility training, for children and adults. New Zealand immigration possible via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category, but not a Green List occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书/文凭 | 1年 | $5,000~$15,000（新西兰体育学院等机构提供） |
-| 本科 | 3年 | $30,000~$45,000（大学体育科学相关专业） |
+| Certificate/diploma | 1 year | $5,000~$15,000 (Provided by institutions like New Zealand Sports Institute) |
+| Bachelor's degree | 3 years | $30,000~$45,000 (University degree in sports science or related field.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体操教练证书 | 新西兰体操组织（Gymnastics New Zealand） | 必备 | 基础要求，涵盖教学和安全 |
-| 儿童保护培训 | Sports NZ | 必备 | 针对儿童教练的强制培训 |
-| 急救证书 | St John或红十字会 | 可选 | 普遍要求 |
+| Gymnastics coach certificate | Gymnastics New Zealand | Required | Basic requirements, covering teaching and safety |
+| Child Protection Training | Sports NZ | Required | Mandatory training for children's coaches |
+| First aid certificate | St John or Red Cross | Optional | Commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰体操教练需求稳定，随体育产业和健康意识提升而增长。但受人口规模限制，新增岗位有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Demand for gymnastics coaches in New Zealand is stable, growing with the sports industry and health awareness. However, due to population size, new positions are limited, and competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 兼职或全职助理教练 |
-| 中级（3-7年） | $50,000~$65,000 | 主教练或专职教练 |
-| 高级（7年以上） | $65,000~$80,000 | 高级教练或管理者 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Part-time or Full-time Assistant Coach |
+| Mid-level (3–7 years) | $50,000~$65,000 | Head coach or full-time coach |
+| Senior (7+ years) | $65,000~$80,000 | Senior coach or manager |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径：从助理教练晋升为主教练，再至运动项目主管或俱乐部经理。也可转向体育管理或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The physical demands and personalised teaching needs of gymnastics coaches are hard to fully replace by AI, but AI tools will optimise training analysis, lesson planning, and administration; overall, a mixed impact.
+
+Career progression: from assistant coach to head coach, then to sports program director or club manager. Also possible to move into sports management or start your own business.
+
+**Tasks most exposed to AI:**
+
+- Basic Motion Video Recording and Replay Analysis (AI auto-marking keyframes and pose scoring)
+- Generation of standard action sequences in training class scheduling (AI generates initial draft of personalized training plans)
+- Administrative records such as student attendance and grade tracking (AI auto-syncs and generates reports)
+- Standardized instruction for general warm-up stretching exercises (AI videos may replace some instructions).
+
+**Where AI augments the role:**
+
+- Use AI motion capture system to analyze student posture in real-time and provide precise feedback
+- Based on AI-generated student progress curves, precisely adjust training intensity and focus.
+- Using AI to simulate risk scenarios and assist in developing safety protection plans
+- AI automatically generates training video highlights and progress reports to enhance teaching effectiveness
+
+**Human moat:**
+
+- On-site real-time movement correction and protection (physical contact and instant judgment)
+- Emotional motivation and psychological counseling (building trust, overcoming fear).
+- Creative curriculum arrangement and personalized adaptation (designing smooth transitions tailored to learners' characteristics)
+- Safety management and emergency handling (fall protection, equipment inspection, etc., for unforeseen situations)
+
+**Skills to build:**
+
+- AI sports analysis software (e.g., Kinduct, Coach's Eye) operation
+- Data interpretation and visualization skills (understanding sports biomechanics data)
+- Sports psychology and motivation techniques
+- Digital content creation (producing AI-assisted training tutorial videos)
+- Programming basics (Python or R for custom analysis scripts)
+- Knowledge of equipment technical maintenance (smart devices and sensors)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,64 +95,63 @@ Teaches gymnastics skills including technique, balance, and flexibility to indiv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 通过认证雇主申请，工作满一定年限后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求，包括学历、工作经验和薪资 |
+| Subclass AEWV (Accredited Employer Work Visa) | Apply through an accredited employer; eligible for residency after a certain period of employment |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements, including education, work experience, and salary |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gymnastics Coach or Instructor？**
-- 热爱体育与教学，有耐心和沟通能力
-- 有体操或运动背景，愿意持续学习
-- 希望在体育行业长期发展
-
-**谁不适合学Gymnastics Coach or Instructor？**
-- 对高体力活动和重复性教学不喜
-- 追求高薪或快速通过移民通道
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports and teaching, with patience and communication skills
+- Having gymnastics or sports background, willing to continuously learn
+- Aiming for long-term career in the sports industry
+
+**Who is not suited**
+- Dislikes high physical activity and repetitive teaching
+- Pursuing high salary or fast migration pathway
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a gymnastics coach in New Zealand?**
+A: Junior: approx. NZD 40,000-50,000, mid-level: 50,000-65,000, senior: up to approx. NZD 80,000.
+
+**Q: Can a gymnastics coach immigrate via the Green List?**
+A: No. This occupation is not on the Green List, but residency can be applied for through the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV) pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Gymnastics Coach or Instructor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for gymnastics coaches in New Zealand?**
-答：Entry-level around NZ$40,000-50,000, mid-level NZ$50,000-65,000, senior up to NZ$80,000.
-
-**问：Can gymnastics coaches migrate via the Green List?**
-答：No. It's not on the Green List, but can use SMC or AEWV pathways.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

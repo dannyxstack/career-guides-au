@@ -1,59 +1,95 @@
-# Biological Technicians（Biological Technicians）职业分析 · 美国
+# Biological Technicians — career analysis · United States
 
-**职业代码：19-4021 – Biological Technicians。**
+**Occupation code: 19-4021 (SOC)**
 
-Biological technicians assist biological and medical scientists by setting up, operating, and maintaining lab instruments, monitoring experiments, collecting samples, and recording results.
+Biotechnicians assist biological and medical scientists in experiments, operate and maintain lab instruments, collect and analyze samples, and record data.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费，每年约$5,000-$15,000） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学每年约$10,000-$30,000） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition, approximately $5,000-$15,000 per year.) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities about $10,000-$30,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学或相关领域学士学位 | 大学 | 可选 | 许多岗位要求学士学位 |
-| 实验室安全认证 | OSHA或其他机构 | 可选 | 部分雇主要求 |
-| 良好实验室规范（GLP）培训 | 雇主提供 | 可选 | 制药行业常见 |
+| Bachelor's degree in biology or related field. | University | Optional | Many positions require a bachelor's degree |
+| Laboratory safety certification | OSHA or other agencies | Optional | Some employers require |
+| Good Laboratory Practice (GLP) training | Provided by employer | Optional | Common in the pharmaceutical industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 87,400。美国劳工统计局预计该职业2022-2032年就业增长约5%，与平均水平持平。生物技术研发投入增加将推动需求，尤其在制药和医疗诊断领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 87,400. The U.S. Bureau of Labor Statistics projects employment for this occupation to grow about 5% from 2022 to 2032, about as fast as the average. Increased investment in biotechnology R&D will drive demand, especially in pharmaceuticals and medical diagnostics.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 年薪中位数约$38,000 |
-| 中级（3-7年） | $45,000~$60,000 | 年薪中位数约$52,000 |
-| 高级（7年以上） | $60,000~$80,000 | 年薪中位数约$70,000 |
+| Median salary | $57,510 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Median annual salary approx. $38,000 |
+| Mid-level (3–7 years) | $45,000~$60,000 | Median annual salary approx $52,000 |
+| Senior (7+ years) | $60,000~$80,000 | Median annual salary approximately $70,000 |
+| average salary | $61,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级技术员可晋升为高级技术员或实验室主管，部分转向质量控制、研发或销售岗位。拥有学士学位者可攻读硕士或博士，成为科学家或项目经理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will largely take over data recording and standard experimental procedures, but experimental design, anomaly diagnosis, and interdisciplinary collaboration still rely on humans, job numbers stable but competition increases at entry level.
+
+Junior technicians can advance to senior technicians or lab supervisors, with some transitioning to quality control, R&D, or sales roles. Those with a bachelor's degree can pursue a master's or doctorate to become scientists or project managers.
+
+**Tasks most exposed to AI:**
+
+- Automatically record experimental data, such as using an electronic lab notebook (ELN) to capture results
+- Routine sample preparation and staining processes are completed by automated liquid handling workstations
+- Basic microscopy image counting and classification, replaced by computer vision models
+- Standard statistical calculations and chart generation, automatically output by AI analysis platform
+- Inventory management and ordering of lab consumables, automatically triggered by smart system
+
+**Where AI augments the role:**
+
+- AI-assisted experiment design, predicting optimal reaction conditions and parameter combinations
+- High-throughput sequencing data analysis, machine learning models to quickly identify genetic variants
+- Literature review and knowledge retrieval, large language models instantly summarize relevant research
+- Diagnosis of abnormal experiment results, AI recommends potential causes and validation experiments
+- Multi-omics data integration analysis, automatically discover biomarker associations
+
+**Human moat:**
+
+- Design original experimental protocols and hypotheses, requiring deep understanding of biological mechanisms
+- Judging reliability and repeatability of results, identifying systematic errors and false positives
+- Communicate and coordinate with interdisciplinary teams to translate experimental needs into technical specifications
+- Flexibility in handling unstructured, low-quality, or abnormal samples
+- Interpretation of ethical and safety regulations and on-site compliance decisions
+
+**Skills to build:**
+
+- Python/R programming for automated data processing and modeling
+- Machine learning basics applied to omics data analysis
+- Laboratory automation system operation and maintenance
+- Use of bioinformatics tools (e.g., BLAST, Galaxy)
+- Data visualization and interactive report generation (e.g., Tableau)
+- Knowledge of Good Laboratory Practice (GLP) and Quality Assurance (QA)
+
+**Key growth areas:**
 
 - Biotechnology
 - Pharmaceutical R&D
@@ -62,69 +98,68 @@ Biological technicians assist biological and medical scientists by setting up, o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于学士学位以上职位，需抽签，配额有限。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需PERM劳工证，适用于硕士以上或高级学位持有者。 |
-| Subclass EB-3（Employment-Based Third Preference） | 需PERM，适用于学士学位或同等经验。 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大和墨西哥公民，生物技术员可符合资格。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to positions requiring bachelor's degree or above, subject to lottery with limited quotas |
+| Subclass EB-2 (Employment-Based Second Preference) | A PERM labour certification is required, applicable to those with a master's degree or higher or advanced degree holders. |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires PERM, applicable for bachelor's degree or equivalent experience. |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens; biotechnicians may qualify. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biological Technicians？**
-- 喜欢实验室工作，注重细节和准确性
-- 对生物科学和医学研究有浓厚兴趣
-- 愿意在团队中支持科学家工作
-
-**谁不适合学Biological Technicians？**
-- 不喜欢重复性实验操作
-- 对严格的安全规程感到压抑
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys laboratory work, attention to detail and accuracy
+- Strong interest in biological sciences and medical research
+- Willing to support scientists in a team
+
+**Who is not suited**
+- Dislikes repetitive experimental operations
+- Feel constrained by strict safety regulations.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a biotechnician?**
+A: According to BLS data, the median annual salary for US biotechnologists in 2022 was approximately $48,000, with entry-level around $35,000 and senior roles up to $70,000.
+
+**Q: Is it easy for biotechnology technicians to immigrate to the US?**
+A: This occupation can immigrate via H-1B and EB-2/EB-3 green cards, but H-1B requires lottery, PERM process is cumbersome. Overall feasible, but requires employer sponsorship.
+
+**Q: What qualifications are needed to become a biotechnician?**
+A: Typically requires a bachelor's degree in biology or a related field, but an associate degree can also provide entry, and some positions accept relevant experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Biological Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a biological technician?**
-答：According to BLS, the median annual wage for biological technicians in 2022 was about $48,000, with entry-level around $35,000 and senior up to $70,000.
-
-**问：Is it easy to immigrate to the US as a biological technician?**
-答：This occupation is eligible for H-1B and EB-2/EB-3 green cards, though H-1B requires lottery and PERM is complex. Feasible but employer sponsorship needed.
-
-**问：What education is needed to become a biological technician?**
-答：Typically a bachelor's degree in biology or related field, though an associate degree can suffice for entry-level; some positions accept relevant experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

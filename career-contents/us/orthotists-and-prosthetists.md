@@ -1,60 +1,94 @@
-# Orthotists and Prosthetists（Orthotists and Prosthetists）职业分析 · 美国
+# Orthotists and Prosthetists — career analysis · United States
 
-**职业代码：29-2091 – Orthotists and Prosthetists。**
+**Occupation code: 29-2091 (SOC)**
 
-Orthotists and prosthetists design, measure, fit, and adapt orthopedic braces and prostheses for patients with disabling conditions, restoring mobility and improving quality of life through customized devices.
+Orthotists and prosthetists are responsible for designing, measuring, fabricating, and fitting orthoses, prostheses, and other assistive devices to help patients restore limb function or improve quality of life. This occupation requires a combination of clinical assessment, manual fabrication, and technical application skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$150,000（学费因公立/私立而异） |
-| 硕士（矫形器与假肢） | 2-3年 | $30,000~$90,000（认证项目通常在公立大学） |
-| 实习/住院 | 1年 | —（带薪实习，但需完成认证要求） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Tuition varies by public/private institution) |
+| Master's degree (Orthotics and Prosthetics) | 2-3 years | $30,000~$90,000 (Certification programs are typically at public universities) |
+| Internship/residency | 1 year | $0~$0 (Paid internship, but must complete certification requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ABC认证矫形器与假肢技师（CPO） | 美国矫形器与假肢认证委员会（ABC） | 必备 | 需硕士学历+完成住院实习+通过考试 |
-| 州执业许可 | 各州卫生委员会 | 必备 | 多数州要求持有ABC认证或同等资格方可执业 |
-| 硕士学位（矫形器与假肢） | CAAHEP认证大学 | 必备 | 执业必需，涵盖临床与制作技能 |
+| ABC certified orthotist and prosthetist (CPO) | American Board for Certification in Orthotics, Prosthetics & Pedorthics (ABC) | Required | Requires master's degree + completion of residency + passing exams |
+| State practice license | State health boards | Required | Most states require ABC certification or equivalent to practice |
+| Master's degree (Orthotics and Prosthetics). | CAAHEP-accredited university | Required | Mandatory for practice, covering clinical and fabrication skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 9,000。美国劳工统计局预计该职业2023-2033年就业增长约15%，远快于平均水平。人口老龄化和糖尿病相关截肢增加推动需求，技术进步如3D打印和智能假肢也创造新机会。
+**Job demand: high (★★★★☆).** National workforce approx. 9,000. US Bureau of Labor Statistics projects employment growth for this occupation at about 15% from 2023-2033, much faster than average. Aging population and diabetes-related amputations increase demand, technological advances such as 3D printing and smart prosthetics also create new opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 刚获得认证的从业者 |
-| 中级（3-8年） | $75,000~$95,000 | 有经验的临床技师 |
-| 高级（8年以上） | $95,000~$130,000 | 管理者或专家 |
+| Median salary | $81,110 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Newly certified practitioners |
+| Mid-level (3–8 years) | $75,000~$95,000 | Experienced clinical technician |
+| Senior (8+ years) | $95,000~$130,000 | Manager or specialist |
+| average salary | $83,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径包括从初级技师到高级临床专家、团队主管或诊所经理。部分从业者进入研发或销售领域，或攻读博士学位从事学术研究。获得美国矫形器与假肢认证委员会（ABC）认证是核心要求。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some standardized measurement and documentation tasks, but core human-machine collaboration, custom design and handcraft skills still rely on humans—a mixed outlook.
+
+Career progression includes from entry-level technician to senior clinical expert, team supervisor, or clinic manager. Some practitioners move into R&D or sales, or pursue a PhD for academic research. Certification from the American Board for Certification in Orthotics, Prosthetics & Pedorthics (ABC) is a core requirement.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial design drafts for standard orthoses/prostheses.
+- Automatically parse 3D scan data and output preliminary measurement reports
+- Automatically manages patient records, insurance coding, and document organisation
+- Handle routine inquiries and appointment scheduling via chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of dynamic prosthetic fitting parameters to improve comfort and functionality
+- Using machine learning to analyze gait data to assist in personalized adjustment plans
+- Combined with VR simulation to preview adaptation effects, reducing trial and error
+- AI provides the latest material and component recommendations, improving production efficiency.
+- Real-time adjustment of orthosis pressure distribution via remote monitoring
+
+**Human moat:**
+
+- Clinical palpation and dynamic assessment to determine patient-specific needs
+- Hand carving and custom shaping skills
+- Build trust and empathy with patients, handle complex psychological needs.
+- Interdisciplinary team collaboration and treatment plan integration decisions
+
+**Skills to build:**
+
+- Proficient in CAD/CAM and 3D printing technologies for prosthetic design
+- Learn sports analysis software and pressure sensor data analysis
+- Enhancing telemedicine and digital patient management tool application
+- Enhance knowledge of materials science (e.g., carbon fiber composites)
+- Learn basic programming and AI tools (e.g., generative design software)
+- Enhancing soft skills: communication, counseling, and patient education
+
+**Key growth areas:**
 
 - Aging population
 - Diabetes-related amputations
@@ -63,68 +97,67 @@ Orthotists and prosthetists design, measure, fit, and adapt orthopedic braces an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需雇主担保，从事专业职位，每年配额有限，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需拥有硕士以上学位或特殊能力，可通过PERM劳工认证申请 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于本科或以下学历，需PERM，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires employer sponsorship for a professional position; annual quota limited, lottery required |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or higher, or special ability, can apply via PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or below; requires PERM, longer wait times |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthotists and Prosthetists？**
-- 对解剖学和生物力学有浓厚兴趣的人
-- 喜欢动手制作和手工工艺的人
-- 有耐心和同理心，愿意与患者长期合作的人
-
-**谁不适合学Orthotists and Prosthetists？**
-- 不喜欢与患者直接接触和沟通的人
-- 对重复性手工工作缺乏耐心的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in anatomy and biomechanics
+- Someone who enjoys hands-on making and crafts
+- Someone with patience and empathy, willing to work with patients long-term
+
+**Who is not suited**
+- Those who dislike direct contact and communication with patients
+- Those impatient with repetitive manual work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Orthotists and Prosthetists?**
+A: According to BLS data, 2023 median annual salary approx. USD 78,000. Entry-level technicians around USD 55,000-75,000, senior up to USD 130,000. Salary depends on experience, location, and employer type (hospital, private clinic, etc.).
+
+**Q: How to become an orthotist/prosthetist in the US with a foreign degree?**
+A: Usually requires a degree evaluated as equivalent to a US master's degree, then completing a CAAHEP-accredited residency (1 year) and passing the ABC certification exam. H-1B visa is common but requires employer sponsorship; EB-2/EB-3 green cards require the PERM process.
+
+**Q: What educational background is required for this occupation?**
+A: Must obtain a master's degree in orthotics and prosthetics from a CAAHEP-accredited program (usually 2-3 years). Undergraduate studies can be in biology, engineering, or health sciences. After graduation, must complete a 1-year residency and pass the ABC certification exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Orthotists and Prosthetists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for orthotists and prosthetists?**
-答：According to BLS, median annual wage is $78,000 in 2023. Entry-level: $55,000-$75,000; experienced: up to $130,000. Varies by experience, location, and employer type.
-
-**问：How can foreign-trained professionals become orthotists/prosthetists in the US?**
-答：Usually requires evaluation of foreign degree equivalent to US master's, completion of a CAAHEP-accredited residency (1 year), and passing ABC certification. H-1B visa is common; EB-2/EB-3 green card requires PERM.
-
-**问：What education is required for this career?**
-答：A master's degree in orthotics and prosthetics from a CAAHEP-accredited program (2-3 years) is mandatory. Undergraduate degree in biology, engineering, or health sciences is common. Followed by 1-year residency and ABC certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

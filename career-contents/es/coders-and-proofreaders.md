@@ -1,60 +1,92 @@
-# Coders and Proofreaders（Coders and Proofreaders）职业分析 · ES
+# Coders and Proofreaders — career analysis · Spain
 
-**职业代码：4222 – Coders and Proofreaders。**
+**Occupation code: 4222 (CNO)**
 
-Responsible for coding and proofreading manuscripts or printed materials to ensure accurate typesetting and error-free layout. Typically employed by publishing houses, printing companies, or media organizations.
+Responsible for text coding, proofreading, and correction of manuscripts or printed materials to ensure accurate layout. Usually works in publishers, printing plants, or media organizations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $1,000~$3,000（公立学校学费较低，私立较高） |
-| 大学本科（Grado） | 4年（Grado） | $800~$2,000（年学费，视公立/私立而定） |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $1,000~$3,000 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Undergraduate (Grado) | 4 years (Grado) | $800~$2,000 (Annual tuition fees vary depending on whether the school is public or private) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印刷技术职业培训证书 | 教育部认可的职业学校 | 可选 | FP Grado Superior en Producción Gráfica 或类似 |
-| 语言能力证书 | 西班牙语语言学校 | 可选 | 高级西班牙语水平，尤其是语法和拼写能力 |
+| Printing Technology Vocational Training Certificate | Vocational schools recognized by the Ministry of Education | Optional | FP Grado Superior en Producción Gráfica or similar |
+| Language proficiency certificate | Spanish language school | Optional | Advanced Spanish proficiency, especially grammar and spelling skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 2,500。随着数字化转型，传统印刷校对岗位需求减少，但电子出版和内容管理领域仍有一定需求。预计未来五年就业机会略有下降，竞争激烈。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,500. With digital transformation, demand for traditional print proofreading positions has decreased, but there is still some demand in the fields of electronic publishing and content management. Job opportunities are expected to decline slightly over the next five years, with fierce competition.
 
-**竞争度：竞争大（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$36,000 | 税前年薪 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$36,000 | Annual pre-tax salary |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级校对员晋升为高级校对员或排版主管，或转向数字内容编辑、质量控制等岗位。具备多语言技能或技术背景者更有优势。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI-assisted automatic proofreading and code generation tools will significantly reduce the number of traditional coders and proofreaders, but high-end positions proficient in AI proofreading system configuration and multilingual text review will still be in demand.
+
+You can be promoted from junior proofreader to senior proofreader or typesetting supervisor, or move to positions such as digital content editing or quality control. Those with multilingual skills or a technical background have an advantage.
+
+**Tasks most exposed to AI:**
+
+- Basic text proofreading and spell checking
+- Standard format encoding (such as XML, HTML tag addition)
+- Repetitive manual comparison between original and typesetting drafts
+- Simple pre-print layout error correction
+
+**Where AI augments the role:**
+
+- Use AI proofreading tools to quickly pinpoint complex grammatical and logical errors
+- Use AI-assisted multilingual text consistency checks
+- Improve proofreading efficiency through AI text analysis patterns
+
+**Human moat:**
+
+- Proofreading for ambiguous context, rhetorical complexity, or culturally sensitive content
+- Customized proofreading rules and AI model training
+- Final quality audit and communication with the client
+- Proofreading new media formats (such as video subtitles).
+
+**Skills to build:**
+
+- AI proofreading tool configuration and optimization (such as Grammarly, Acrolinx)
+- Fundamentals of Natural Language Processing and Model Fine-tuning
+- Multilingual proofreading ability
+- Data annotation and training set construction
+- Project management and quality control
+- Basic programming (Python script automation)
+
+**Key growth areas:**
 
 - Digital transition
 - Automation
@@ -63,62 +95,64 @@ Responsible for coding and proofreading manuscripts or printed materials to ensu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 受雇工作居留，需获得西班牙公司的工作合同，且岗位需符合市场需求。 |
-| Subclass Busqueda empleo（Job Search Visa） | 求职签证，允许高学历人才在西班牙居留6个月寻找工作。 |
+| Subclass Cuenta ajena (Work Contract) | For employment-based residence, you must obtain a work contract with a Spanish company, and the position must meet market demand. |
+| Subclass Busqueda empleo (Job Search Visa) | Job seeker visas allow highly educated individuals to stay in Spain for 6 months looking for work. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coders and Proofreaders？**
-- 对文字细节敏感、耐心的人
-- 具备良好西班牙语语法知识的人
-- 愿意接受数字转型并学习新技能的人
+**Who is suited**
+- People sensitive to the details of words and patient in writing
+- Individuals with good knowledge of Spanish grammar
+- People willing to embrace digital transformation and learn new skills
 
-**谁不适合学Coders and Proofreaders？**
-- 追求高薪职业的人
-- 不喜欢重复性工作的人
+**Who is not suited**
+- People pursuing high-paying careers
+- People who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for coders and proofreaders?**
+A: Entry-level salaries are about 18,000-24,000 euros, intermediate salaries about 24,000-30,000 euros, and seniors up to 36,000 euros. Salaries are influenced by experience, geography, and company size.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: It's very difficult. This occupation is not considered a shortage occupation in Spain, and the job market is shrinking. Generally, you need to apply for employment residency through a work contract, but employer sponsorship is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 竞争大（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Coders and Proofreaders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for coders and proofreaders?**
-答：Entry-level annual salary is around €18,000-€24,000, mid-level €24,000-€30,000, and senior up to €36,000. Salary varies by experience, location, and company size.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. This occupation is not in shortage and the job market is shrinking. Typically requires a work contract for a work permit, but employer sponsorship is difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Registrars, restorers, interpreters and other occupations related to museum and art galleries（Registrars, restorers, interpreters and other occupations related to museum and art galleries）职业分析 · 加拿大
+# Registrars, restorers, interpreters and other occupations related to museum and art galleries — career analysis · Canada
 
-**职业代码：53100 – Registrars, restorers, interpreters and other occupations related to museum and art galleries。**
+**Occupation code: 53100 (NOC)**
 
-Work in museums, galleries, and cultural heritage institutions on collection registration, restoration, conservation, exhibition planning, and public interpretation to preserve and communicate cultural heritage.
+Engage in collection registration, restoration, conservation, exhibition planning, and public interpretation in museums, galleries, and cultural heritage institutions to ensure the preservation and dissemination of cultural heritage.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（学费因省份和学校而异） |
-| 硕士 | 1-2年 | $15,000~$40,000（博物馆学或文物保护硕士） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Tuition varies by province and school.) |
+| Master's degree | 1-2 years | $15,000~$40,000 (Master's degree in museology or cultural heritage conservation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博物馆研究或相关领域学位 | 大学 | 必备 | 通常要求本科或以上学历，专业如博物馆学、艺术史、考古学等 |
-| 文物保护认证 | 加拿大文物保护协会(CAC) | 可选 | 从事修复工作可能需要认证 |
+| Museum Studies or related degree | University | Required | Typically requires a bachelor's degree or higher in fields such as museology, art history, archaeology, etc. |
+| Heritage conservation certification | Canadian Association for Conservation (CAC) | Optional | Certification may be required for restoration work. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。加拿大文化产业发展推动博物馆和美术馆就业需求稳定增长，预计未来几年职位数量温和上升，但竞争较为激烈，尤其在大城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Canada's cultural industry development drives steady growth in museum and gallery employment demand, with a moderate increase in positions expected in the coming years, but competition remains fierce, especially in large cities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 助理或技术员职位 |
-| 中级（3-7年） | $45,000~$60,000 | 登记员或修复师 |
-| 高级（7年以上） | $60,000~$85,000 | 高级修复师或部门主管 |
+| Median salary | $42,702 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant or technician positions |
+| Mid-level (3–7 years) | $45,000~$60,000 | Registrar or restorer |
+| Senior (7+ years) | $60,000~$85,000 | Senior restorer or department head |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径通常从助理或技术人员起步，积累经验后可晋升为高级修复师、登记主管或策展人，部分可进入管理或研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
+
+Career progression usually starts as assistant or technician. With experience, can advance to senior restorer, registration supervisor, or curator, and some may move into management or research roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic classification and indexing: AI automatically assigns metadata tags and classification numbers based on content
+- OCR text recognition and basic proofreading of digital archives
+- Simple keyword-based search and file retrieval
+- Automated monitoring and alerts for routine preservation status
+- Generating standardized descriptions and summaries
+
+**Where AI augments the role:**
+
+- Using AI tools for large-scale archival content mining and correlation analysis
+- Improve accuracy and semantic understanding of archival retrieval through natural language processing
+- Using machine learning to assist in appraising archival value and prioritizing preservation
+- Use automated workflows to accelerate digital restoration and format migration.
+- Uses AI to generate preliminary curation reports and exhibition suggestions
+
+**Human moat:**
+
+- High-level archival appraisal and value judgment (e.g., determining which materials are worth permanent preservation)
+- Handle ambiguous, damaged, or extremely unstructured physical archives.
+- Complex communication and ethical decision-making with donors and researchers.
+- Interdisciplinary knowledge integration and historical background interpretation.
+- Develop and oversee rules and quality assurance of AI systems
+
+**Skills to build:**
+
+- Python data analysis and AI tool integration (e.g., text classification with TensorFlow)
+- Digital curation and metadata standards (e.g., Dublin Core, EAD).
+- Database management and SQL queries
+- Basic statistics and data visualization (for analyzing usage patterns)
+- Project Management and AI Ethics Awareness
+- Familiar with cloud platforms and digital preservation technology
+
+**Key growth areas:**
 
 - Cultural Heritage
 - Museum Studies
@@ -61,68 +97,67 @@ Work in museums, galleries, and cultural heritage institutions on collection reg
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 通过FSW类快速通道移民，需满足学历、语言和工作经验要求 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安大略省、BC省）可通过省提名移民，需有雇主offer或相关经验 |
-| Subclass LMIA（Labour Market Impact Assessment） | 若获得雇主担保，可通过LMIA工签后申请永久居民 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Immigrate through the FSW class under Express Entry, requiring qualifications in education, language, and work experience |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) offer provincial nomination for immigration, requiring a job offer or relevant experience |
+| Subclass LMIA (Labour Market Impact Assessment) | If employer-sponsored, you can apply for permanent residence after obtaining an LMIA work permit |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registrars, restorers, interpreters and other occupations related to museum and art galleries？**
-- 对历史、艺术和文化有浓厚兴趣的人
-- 具备细致耐心和良好沟通能力的人
-- 愿意在非盈利或公共部门工作的人
-
-**谁不适合学Registrars, restorers, interpreters and other occupations related to museum and art galleries？**
-- 追求高薪和快速晋升的人
-- 不喜欢公共演讲和公众互动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in history, art, and culture
+- People with meticulous patience and good communication skills
+- People willing to work in non-profit or public sectors
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike public speaking and public interaction
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a museum guide in Canada?**
+A: Entry-level guide salary is about CAD 35,000-45,000, senior guides can exceed CAD 60,000, but overall salary levels are lower than the private sector.
+
+**Q: How can overseas museum professionals immigrate to Canada?**
+A: Eligible via Express Entry (FSW category) or provincial nomination programs, requiring relevant education and work experience; some provinces (e.g., Ontario) offer additional support for cultural workers.
+
+**Q: What certifications are needed for cultural relic restoration?**
+A: Although not mandatory, the Canadian Association for Conservation (CAC) offers professional certification that aids employment and career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Registrars, restorers, interpreters and other occupations related to museum and art galleries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a museum interpreter in Canada?**
-答：Entry-level interpreters earn around CAD 35,000-45,000, while senior interpreters can exceed CAD 60,000, though overall pay is lower than in the private sector.
-
-**问：How can overseas museum professionals immigrate to Canada?**
-答：They may apply through Express Entry (FSW) or Provincial Nominee Programs, requiring relevant education and experience; some provinces (e.g., Ontario) offer additional streams for cultural workers.
-
-**问：What certifications are needed for conservation work?**
-答：While not mandatory, certification from the Canadian Association for Conservation (CAC) is beneficial for employment and career advancement.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

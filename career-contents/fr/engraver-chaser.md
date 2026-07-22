@@ -1,62 +1,96 @@
-# Engraver - Chaser（Engraver - Chaser）职业分析 · FR
+# Engraver - Chaser — career analysis · France
 
-**职业代码：B1303 – Engraver - Chaser。**
+**Occupation code: B1303 (ROME)**
 
-Specializes in engraving and chasing on metals, stone, and glass for jewelry, art, and decorative objects, using hand tools and machinery.
+Engaged in carving and embossing techniques for materials such as metal, stone, and glass, including both hand and mechanical engraving, used in jewelry, artworks, decorative items, and industrial goods.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 雕刻 | 2年（CAP） | —（公立学校免费，材料费约500-5000欧元） |
-| BMA 雕刻 | 2年（BMA） | —（公立学校免费，材料费约1000-8000欧元） |
-| DNMADE 文凭 | 3年（DNMADE） | —（公立学校免费，材料费约2000-15000欧元） |
+| CAP engraving | 2 years (CAP) | $0~$5,000 (Public schools are free, with material costs of about 500-5000 euros) |
+| BMA engraving | 2 years (BMA) | $0~$8,000 (Public schools are free, and material fees range from about 1,000 to 8,000 euros) |
+| DNMADE diploma | 3 years (DNMADE) | $0~$15,000 (Public schools are free, with material fees ranging from about 2,000 to 15,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 雕刻 | 法国教育部 | 必备 | 基础从业资格证书，通常需有学徒培训 |
-| BMA 雕刻 | 法国教育部 | 可选 | 高级技术文凭，提升专业水平 |
-| DNMADE 应用艺术文凭 | 法国教育部 | 可选 | 高等艺术教育，侧重创作与设计 |
+| CAP engraving | French Ministry of Education | Required | Basic professional qualification certificates usually require apprenticeship training |
+| BMA engraving | French Ministry of Education | Optional | Advanced technical diplomas to enhance professional standards |
+| DNMADE Diploma in Applied Arts | French Ministry of Education | Optional | Higher art education focuses on creation and design |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 4,500。法国传统手工艺行业持续稳定，但数字化制造兴起对低端雕刻岗位有冲击。高端定制和修复领域需求稳定，学徒制是主要入门途径。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,500. France's traditional handicraft industry remains stable, but the rise of digital manufacturing is impacting low-end carving positions. Demand in high-end customization and restoration is stable, with apprenticeships being the main entry point.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常为行业最低工资 |
-| 中级（4-8年） | $28,000~$38,000 | 经验丰富后薪资提升，取决于技能和雇主 |
-| 高级（9年以上） | $38,000~$55,000 | 顶尖工匠或自主经营者可达更高，但波动大 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary is usually the industry's minimum wage |
+| Mid-level (4–8 years) | $28,000~$38,000 | Salary increases after gaining experience depend on skills and employer |
+| Senior (9+ years) | $38,000~$55,000 | Top craftsmen or independent operators can reach even higher levels, but the price fluctuates greatly |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业生涯可从学徒工起步，逐步晋升为高级工匠或工作室主管。部分从业者开设个人工作室，或转向奢侈品品牌、博物馆修复领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on engravers and embossers is mixed: repetitive mechanical engraving tasks will be replaced, but advanced hand carving, artistic creativity, and material perception remain moats that AI finds hard to replicate.
+
+A career can start as an apprentice and gradually advance to senior craftsman or studio supervisor. Some practitioners have opened personal studios or shifted to luxury brands and museum restoration fields.
+
+**Tasks most exposed to AI:**
+
+- Batch engraving of standard patterns using CNC machine tools
+- Automatically generate digital design drafts of embossed or embossed designs
+- Check the quality of the engraved surface and adjust parameters through computer vision
+- Repetitive manual carvings such as letters and simple geometric patterns
+
+**Where AI augments the role:**
+
+- AI generates complex creative patterns, accelerating design iteration
+- 3D scanning and AI-assisted restoration or replication of antique carvings
+- Real-time simulation of engraving effects reduces trial and error costs
+- Automatically optimizes toolpath and process parameters to improve accuracy
+
+**Human moat:**
+
+- Advanced hand-carving techniques (such as free curves and subtle textures)
+- Intuitive perception of material properties (hardness, texture).
+- Personal style and emotional expression in artistic creation
+- The ability to communicate deeply with clients in customized projects
+- Knowledge of historical styles and traditional craftsmanship
+
+**Skills to build:**
+
+- Proficient in CAD/CAM design software (such as Rhino, Fusion 360)
+- Learn AI-assisted design tools (such as Midjourney, Stable Diffusion)
+- Understand CNC machine tool programming and automated operation
+- Enhance knowledge of materials science (properties of metals, stone, glass)
+- Develop communication skills between art appreciation and custom design
+- Learn 3D scanning and reverse engineering techniques
+
+**Key growth areas:**
 
 - Luxury goods
 - Art restoration
@@ -65,66 +99,68 @@ Specializes in engraving and chasing on metals, stone, and glass for jewelry, ar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需获得法国雇主工作合同，申请受雇居留许可，通过法国劳工局审核。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或特殊才能人才，如手工艺大师，需提供作品证明和项目计划。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后可申请12个月临时居留用于找工作，找到工作后转工签。 |
+| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract from a French employer, apply for an employment residence permit, and pass the review by the French Labor Department. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | This is suitable for highly skilled or special talents, such as master craftsmen, who must provide proof of work and a project plan. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for 12 months of temporary residence to find a job, and after finding a job, you can switch to a work visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Engraver - Chaser？**
-- 热爱传统手工艺和精密手工操作的人
-- 有耐心、注重细节和审美能力
-- 愿意通过长期学徒制积累经验
+**Who is suited**
+- People who love traditional crafts and precise handicrafts
+- Be patient, pay attention to detail, and have a sense of aesthetics
+- Willing to gain experience through long-term apprenticeships
 
-**谁不适合学Engraver - Chaser？**
-- 追求快速高薪或大规模就业的人
-- 对重复性手工操作缺乏耐心的人
+**Who is not suited**
+- People seeking fast, high salaries or large-scale employment
+- People who lack patience for repetitive manual operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for engravers in France?**
+A: Entry level carver annual salary approx. €22,000-28,000, mid-level up to €38,000, senior or self-employed can reach €55,000+, but income is unstable and depends on personal reputation.
+
+**Q: Can foreigners immigrate to France through the engraver profession?**
+A: It's very difficult. This occupation is not in short demand in France and requires French communication and local certification. Usually, only those holding a high-end talent passport (such as a master craftsman) can immigrate through Passeport Talent.
+
+**Q: What is the career development path for engravers?**
+A: Typically, they start as CAP apprentices and gain experience before obtaining a BMA or DNMADE diploma. You can be promoted to studio supervisor, independent craftsman, or enter the luxury goods and restoration sectors. Some have established personal studios.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 困难（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Engraver - Chaser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for engravers in France?**
-答：Entry-level engravers earn about €22,000-€28,000 gross annually; mid-level up to €38,000; senior or self-employed can exceed €55,000, but income is variable.
-
-**问：Can foreigners immigrate to France as engravers?**
-答：Very difficult. The occupation is not in shortage and requires French language and local certification. Only highly skilled master craftsmen may qualify for Passeport Talent.
-
-**问：What is the career path for engravers?**
-答：Typically start as CAP apprentice, gain experience, then pursue BMA or DNMADE. Can advance to studio supervisor, independent craftsman, or enter luxury/restoration fields. Some open their own workshops.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

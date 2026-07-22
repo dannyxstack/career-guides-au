@@ -1,58 +1,94 @@
-# Upholsterers（Upholsterers）职业分析 · UK
+# Upholsterers — career analysis · United Kingdom
 
-**职业代码：5411 – Upholsterers。**
+**Occupation code: 5411 (SOC)**
 
-Upholsterers upholster vehicle, aircraft and other seating, fix trimmings to the interiors of vehicles and aircraft, upholster furniture such as chairs and sofas, and make mattresses, curtains and other soft furnishings.
+Furniture upholsterers are responsible for upholstering vehicles, aircraft, and other seats, installing vehicle and aircraft interior trims, making upholstery for chairs, sofas and other furniture, as well as mattresses, curtains, and other soft furnishings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（英国学徒制通常免学费，雇主承担培训费用） |
-| 职业课程 | 6个月-1年 | $1,000~$4,000（如City & Guilds软包课程，费用因机构而异） |
+| Apprenticeship | 2-4 years | $0~$3,000 (The British apprenticeship system is usually tuition-free, with employers covering training costs.) |
+| Vocational courses | 6 months to 1 year | $1,000~$4,000 (e.g., City & Guilds soft furnishing courses, costs vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 软包高级学徒 | 英国政府/行业机构 | 可选 | Level 3 Apprenticeship，涵盖传统和现代软包技术 |
-| City & Guilds软包证书 | City & Guilds | 可选 | Level 2/3，行业认可，非强制但有利就业 |
+| Advanced apprentice in soft furnishing | UK government/industry bodies | Optional | Level 3 Apprenticeship, covering traditional and modern upholstery techniques. |
+| City & Guilds Upholstery Certificate | City & Guilds | Optional | Level 2/3, industry recognised, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。英国软包行业就业前景稳定，受疫情后家居翻新和汽车/航空内饰维修需求推动。预计2023-2033年岗位数量小幅增长，年招聘约500-800个，主要因退休人员补充。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,000. The UK upholstery industry has stable employment prospects, driven by post-pandemic home renovation and automotive/aviation interior repair demand. Jobs are expected to grow slightly from 2023-2033, with around 500-800 annual openings, mainly due to retirements.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或新入行，基于最低工资 |
-| 中级（3-7年） | $24,000~$32,000 | 熟练工，可独立完成标准软包 |
-| 高级（7年以上） | $32,000~$42,000 | 高级或主管，包括汽车/航空内饰等专业领域 |
+| Median salary | $27,909 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or new entrant, paid at minimum wage |
+| Mid-level (3–7 years) | $24,000~$32,000 | Skilled worker, can independently complete standard soft packaging |
+| Senior (7+ years) | $32,000~$42,000 | Senior or supervisor, including specialized areas such as automotive/aviation interiors |
+| average salary | $29,597 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 学徒起步后可晋升为高级软包工或主管，也可专攻古董家具修复或汽车内饰领域。部分从业者创立自己的软包工作室，或转向室内装潢设计相关岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's direct impact on furniture upholstery work is moderate, but automated cutting, design software, and 3D scanning will compress entry-level positions; professional skills remain irreplaceable.
+
+Starting as an apprentice, you can advance to senior upholsterer or supervisor, or specialize in antique furniture restoration or automotive interiors. Some practitioners start their own upholstery studios or move into interior design roles.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for basic layout and pattern design
+- Obtains seat dimensions via 3D scanning to generate cutting templates.
+- Automated cutting machines cut fabric and foam.
+- Robot-assisted repetitive sewing operations
+- Material inventory management and purchase order automation
+
+**Where AI augments the role:**
+
+- AI design tools provide personalized customization solutions, accelerating design iterations
+- AR/VR to display finished product effects, reducing physical sample production
+- Intelligent sewing machines automatically adjust stitch density to improve quality.
+- Predictive maintenance system monitors equipment, reducing downtime
+- Online platform matches customer demand with surplus materials, optimizing resources
+
+**Human moat:**
+
+- Hand shaping and upholstery of complex curved and irregular furniture
+- Antique furniture restoration and traditional craft preservation.
+- Customer communication and personalized aesthetic customization
+- On-site installation, commissioning, and troubleshooting
+- Quality control and final manual adjustments
+
+**Skills to build:**
+
+- CAD/3D modeling software (e.g., Rhinoceros, SolidWorks)
+- CNC cutting and automated sewing equipment operation
+- AR/VR display and customer interaction tools
+- Knowledge of sustainable materials and eco-friendly processes.
+- Project management and digital workflow management
+- Basic programming and equipment fault diagnosis
+
+**Key growth areas:**
 
 - Custom Furniture
 - Automotive Interiors
@@ -61,67 +97,66 @@ Upholsterers upholster vehicle, aircraft and other seating, fix trimmings to the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 可获雇主担保，适合有经验者；需满足薪资门槛（一般年薪£26,200或行业标准） |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许在英国工作2年（博士3年），无雇主担保要求，但需先完成学位 |
+| Subclass Skilled Worker (Skilled Worker visa) | Employer sponsorship available, suitable for experienced candidates; must meet salary threshold (generally £26,200 per year or industry standard) |
+| Subclass Graduate (Graduate visa) | Graduate visa allows working in the UK for 2 years (3 years for PhD), no employer sponsorship required, but degree must be completed first. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Upholsterers？**
-- 动手能力强且注重细节的人
-- 喜欢传统手工艺和修复工作的人
-- 愿意学习并适应不同材料和技术的人
-
-**谁不适合学Upholsterers？**
-- 对重复性工作缺乏耐心的人
-- 职业发展追求高薪或快速晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and attention to detail.
+- People who enjoy traditional crafts and restoration work
+- People willing to learn and adapt to different materials and techniques
+
+**Who is not suited**
+- Those who lack patience for repetitive work
+- People seeking high salary or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an upholsterer in the UK?**
+A: Average annual salary around £22,000-£30,000, beginners about £18,000-£24,000, experienced can reach over £32,000. Salaries are higher in the automotive and aviation sectors.
+
+**Q: Can a soft packer immigrate to the UK on a Skilled Worker visa?**
+A: Yes, soft-pack workers are on the eligible occupation list, but usually require employer sponsorship and meeting salary requirements (generally £26,200/year). Experienced skilled workers are more likely to secure sponsorship.
+
+**Q: Is upholstery a shortage occupation in the UK?**
+A: Not a shortage occupation on the Immigration Skilled List (ISL), but local skill shortages exist in some areas such as regional/rural regions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Upholsterers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an upholsterer in the UK?**
-答：Average salary is around £22,000-£30,000 per year, with entry-level around £18,000-£24,000 and senior roles up to £32,000+. Automotive and aerospace sectors pay higher.
-
-**问：Can an upholsterer migrate to the UK via a Skilled Worker visa?**
-答：Yes, upholsterers are eligible for sponsorship, but typically require a job offer meeting the salary threshold (usually £26,200/year). Experienced workers have better chances.
-
-**问：Is upholsterer on the UK shortage occupation list?**
-答：No, it is not on the Immigration Salary List (ISL), but there are local skill shortages in some regions (e.g., rural areas).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

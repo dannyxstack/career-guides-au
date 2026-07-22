@@ -1,60 +1,95 @@
-# Tv, video and audio servicers and repairers（Tv, video and audio servicers and repairers）职业分析 · UK
+# Tv, video and audio servicers and repairers — career analysis · United Kingdom
 
-**职业代码：5243 – Tv, video and audio servicers and repairers。**
+**Occupation code: 5243 (SOC)**
 
-TV, video and audio engineers install, service and repair domestic television, video and audio appliances. They typically work in electronics repair shops or home appliance service companies.
+TV, video, and audio repair engineers install, repair, and maintain household TV, video, and audio equipment. This is a skilled trade, usually working in electronics repair shops or home appliance service companies.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（学徒期间有薪资，无需学费） |
-| 职业教育（BTEC/C&G） | 1-2年 | $1,000~$3,000（课程费用，部分政府资助） |
+| Apprenticeship | 3-4 years | $0~$0 (Paid during apprenticeship, no tuition fees) |
+| Vocational education (BTEC/C&G) | 1-2 years | $1,000~$3,000 (Course fees, partially government-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子维修相关NVQ或BTEC文凭 | City & Guilds / Pearson | 可选 | 通常需要三级文凭（Level 3 Diploma） |
-| 电气安全认证（如PAT测试证书） | City & Guilds | 可选 | 非强制但受雇主欢迎 |
+| NVQ or BTEC Diploma in Electronics Repair | City & Guilds / Pearson | Optional | Typically require a Level 3 Diploma |
+| Electrical safety certification (e.g., PAT test certificate) | City & Guilds | Optional | Not mandatory but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 5,400。随着智能电视和家庭娱乐系统的普及，电视维修工程师的需求保持稳定。但由于许多设备变得高度集成，维修难度增加，可能限制就业增长。预计未来几年就业岗位略有下降，但替换需求仍存在。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,400. With the popularity of smart TVs and home entertainment systems, demand for TV repair engineers remains stable. However, as many devices become highly integrated, repair difficulty increases, potentially limiting employment growth. A slight decrease in jobs is expected in the coming years, but replacement demand persists.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 通常为基础薪资，随着经验增长 |
-| 中级（3-7年） | $25,000~$32,000 | 持有证书和一定经验 |
-| 高级（7年以上） | $33,000~$40,000 | 资深工程师或团队主管 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Typically base salary, increasing with experience. |
+| Mid-level (3–7 years) | $25,000~$32,000 | Hold a certificate and have some experience |
+| Senior (7+ years) | $33,000~$40,000 | Senior engineer or team supervisor |
+| average salary | $36,436 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏低（★★☆☆☆）。** 职业发展路径：从学徒或初级技术员起步，积累经验后可晋升为高级工程师或团队主管。部分人可进修电子工程学位，转向更复杂的工业电子维修或研发岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Smart home technology (smart TVs, voice assistants) has driven automation in diagnostics and configuration, but physical repairs (soldering, power boards) still rely on manual labor. Entry-level roles are narrowing due to integrated repairs, but system-level repairs and remote diagnostics bring new opportunities.
+
+Career path: start as an apprentice or junior technician, gain experience, and advance to senior engineer or team supervisor. Some may pursue a degree in electronic engineering and transition to more complex industrial electronic repair or R&D roles.
+
+**Tasks most exposed to AI:**
+
+- Using multimeters and other instruments to diagnose common faults (being replaced by AI-assisted diagnostic systems)
+- Adjust circuit parameters based on fault codes (replaced by automatic calibration program)
+- Consulting paper maintenance manuals (replaced by AI knowledge bases and AR guidance)
+- Replacement of simple components such as fuses and interfaces (replaced by user self-repair and modular replacement)
+
+**Where AI augments the role:**
+
+- Use AI to analyze fault logs and historical data to quickly locate complex issues
+- Real-time maintenance guidance via AR glasses overlaying circuit diagrams and test points
+- Use smart diagnostic tool to automatically scan equipment and generate repair recommendations
+- Remotely view equipment status and user errors via cloud platforms
+- AI-based inventory management system predicts spare parts demand
+
+**Human moat:**
+
+- Precision manual soldering, chip-level repair (BGA ball placement)
+- Safe operation and safety awareness involving high-voltage power supplies (CRT/switch-mode power supplies)
+- Physical adjustment of non-standard mechanical structures (e.g., VCR tape path)
+- Specialised knowledge and experience with older equipment (analogue circuits, professional audio)
+- Ability to communicate with users and explain technical issues during on-site service
+
+**Skills to build:**
+
+- Learning IoT and smart home protocols (e.g., MQTT, Zigbee)
+- Master basic embedded system debugging
+- Proficient in digital signal processing and RF fundamentals
+- Learn to use AI-assisted diagnostic tools (e.g., Fluke Connect, TSI Analysis)
+- Obtain manufacturer certifications (e.g., Sony, Samsung authorized repair)
+- Enhancing customer communication and remote support skills
+
+**Key growth areas:**
 
 - Stable
 - Moderate replacement demand
@@ -63,65 +98,67 @@ TV, video and audio engineers install, service and repair domestic television, v
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 此职业不在可担保职业清单中，通常无法申请Skilled Worker签证。 |
-| Subclass Graduate（Graduate visa） | 完成合格课程的国际学生可申请，但需找到相关工作才能转换为其他签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the list of eligible occupations for sponsorship, so it is generally not possible to apply for a Skilled Worker visa. |
+| Subclass Graduate (Graduate visa) | International students who complete an eligible course may apply, but must find relevant work to convert to another visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tv, video and audio servicers and repairers？**
-- 喜欢动手修理电子设备的人
-- 有耐心和细致观察力的人
-- 愿意持续学习新技术的人
+**Who is suited**
+- People who enjoy hands-on repair of electronic devices
+- A person with patience and keen observation
+- People willing to continuously learn new technologies.
 
-**谁不适合学Tv, video and audio servicers and repairers？**
-- 不喜欢接触旧设备和可能肮脏工作环境的人
-- 期望高薪和快速晋升的人
+**Who is not suited**
+- People who dislike working with old equipment and potentially dirty environments
+- People seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a TV repair engineer?**
+A: Depending on experience, entry-level is approximately £18,000-24,000, mid-level £25,000-32,000, senior £33,000-40,000.
+
+**Q: Can I immigrate to the UK through the TV repair engineer occupation?**
+A: This occupation is currently not on the eligible occupation list and is not in demand, so the possibility of immigrating through a skilled work visa is very low.
+
+**Q: What qualifications are needed to become a TV repair engineer?**
+A: Typically requires completing a Level 3 NVQ or BTEC Diploma in electronics repair, or qualifications through an apprenticeship. Electrical safety certifications (e.g., PAT testing) are also helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tv, video and audio servicers and repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a TV repair engineer?**
-答：Entry-level around £18,000-£24,000, mid-level £25,000-£32,000, senior £33,000-£40,000.
-
-**问：Can I immigrate to the UK as a TV repair engineer?**
-答：This occupation is not on the eligible occupation list for skilled worker visas and is not a shortage occupation, making migration difficult.
-
-**问：What qualifications are needed to become a TV repair engineer?**
-答：Typically a Level 3 NVQ or BTEC Diploma in electronics repair, or an apprenticeship. Electrical safety certification (e.g., PAT testing) is also beneficial.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

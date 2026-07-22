@@ -1,59 +1,93 @@
-# Special Education Teacher（Special Education Teacher）职业分析 · 新西兰
+# Special Education Teacher — career analysis · New Zealand
 
-**职业代码：241511 – Special Education Teacher。**
+**Occupation code: 241511 (ANZSCO)**
 
-Special Education Teachers support students with additional learning needs in the education system, with stable demand in New Zealand and a clear immigration pathway via the Green List.
+Special education teachers support students with additional learning needs in the education system. Demand for such teachers in New Zealand is stable, and they can directly apply for residence via the Green List, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $50,000~$70,000（国内学生国际生费用，本地生约低30%） |
-| 硕士 | 1-2年 | $30,000~$50,000（适合已有本科学位者） |
+| Bachelor's degree | 4 years | $50,000~$70,000 (Domestic and international student fees: local students about 30% lower) |
+| Master's degree | 1-2 years | $30,000~$50,000 (Suitable for those who already have a bachelor's degree.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教学资格注册 | 新西兰教学委员会 | 必备 | 必须持有临时或完全注册方可任教 |
-| 特殊教育大专/本科 | 新西兰大学或理工学院 | 必备 | 认可学历包括教育学士（特殊教育） |
-| 英语能力证明 | IELTS/TOEFL等 | 必备 | 国际申请人需达到雅思7.0（各单项7.0）或同等 |
+| Teaching qualification registration | Teaching Council of Aotearoa New Zealand | Required | Must hold provisional or full registration to teach |
+| Special Education Diploma/Degree | New Zealand universities or polytechnics | Required | Recognized qualifications include a Bachelor of Education (Special Education) |
+| English proficiency proof | IELTS/TOEFL etc. | Required | International applicants need to achieve IELTS 7.0 (each band 7.0) or equivalent |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰教育系统持续扩大对特殊教育的投资，预计未来五年特殊教育教师需求将保持增长，尤其在奥克兰、坎特伯雷等地区，就业机会充足。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. New Zealand's education system continues to expand investment in special education, with demand for special education teachers expected to remain strong over the next five years, particularly in Auckland and Canterbury, offering ample job opportunities.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 基于公立学校薪酬阶梯 |
-| 中级（4-7年） | $65,000~$80,000 | 含额外职务津贴 |
-| 高级（8年+） | $80,000~$100,000 | 主管或专家级别 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Based on public school salary scale |
+| Mid-level (4-7 years) | $65,000~$80,000 | Includes additional duty allowance |
+| Senior (8+ years) | $80,000~$100,000 | Supervisor or Specialist Level |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级教师可通过积累经验晋升为高级教师或部门主管，也可向教育顾问、评估专家等专业岗位发展，或进入大学从事教研工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
+
+Junior teachers can be promoted to senior teachers or department heads through experience, or move into specialized roles such as education consultant or assessment specialist, or enter university for teaching and research.
+
+**Tasks most exposed to AI:**
+
+- Generating personalized learning materials (e.g., simplified texts, practice exercises)
+- Recording and organizing student progress data (e.g., IEP progress)
+- Automated scoring of standardized tests (e.g., basic subjects)
+- Provide virtual assistant-level basic Q&A (e.g., repetitive teaching instructions)
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Use voice-to-text tools to record classroom interactions in real time, focus on teaching
+- Using adaptive learning platforms to customize learning paths for students of different abilities
+- Communicate with multilingual families using AI translation tools
+- Tracking long-term development with data analysis tools, optimizing teaching plans
+
+**Human moat:**
+
+- Emergency behavior intervention (e.g., immediate response to emotional outbursts)
+- Building trust relationships and emotional support (empathy, body language)
+- Interdisciplinary collaborative decision-making (jointly develop plans with therapists and parents)
+- Ethical judgment (e.g., balancing privacy, personalization, and fairness)
+
+**Skills to build:**
+
+- Using IEP management software (e.g., SpedTrack)
+- Proficiency in data analysis tools (e.g., Excel, Tableau for student progress tracking)
+- Learn AI-assisted teaching platforms (e.g., Knewton, DreamBox)
+- Basic Programming/Automation Scripts (e.g., Python for Batch Material Generation)
+- Digital accessibility tools (e.g., screen readers, assistive technology)
+- Online collaboration platforms (e.g., Google Classroom, collaborative documents)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Special Education Teachers support students with additional learning needs in th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 符合资格可直接申请居留，无需先工作 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，有硕士学位加3分，新西兰工作加3分可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如不符合直接居留，可先持AEWV工作后转居留 |
+| Subclass Green List T1 (Straight to Residence) | Eligible to directly apply for residency without needing to work first |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, a master's degree adds 3 points, and New Zealand work experience adds 3 points for eligibility. |
+| Subclass AEWV (Accredited Employer Work Visa) | If not eligible for direct residence, can first work on AEWV then transition to residence |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Education Teacher？**
-- 有耐心和同情心，善于沟通的人
-- 愿意在多元文化环境中工作的人
-- 希望获得新西兰永久居留权的教育从业者
-
-**谁不适合学Special Education Teacher？**
-- 不喜欢与有行为挑战的学生相处的人
-- 无法适应户外或非传统教学环境的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and good communicators
+- People willing to work in a multicultural environment
+- Education practitioners seeking New Zealand permanent residency
+
+**Who is not suited**
+- People who dislike working with students with behavioral challenges
+- People unable to adapt to outdoor or non-traditional teaching environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for special education teachers?**
+A: Entry level annual salary approx. NZD 55,000-65,000, senior up to NZD 80,000-100,000, with generous public school holidays and benefits.
+
+**Q: How can special education teachers immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1 and can apply directly for residence; or via Skilled Migrant Category (6-point system), usually requiring teacher registration and qualifications.
+
+**Q: How to get overseas qualifications assessed?**
+A: Must pass New Zealand Teaching Council assessment and complete a short training course (e.g., bridging course), costing about NZD 10,000-20,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Special Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for Special Education Teachers?**
-答：Entry-level salary ranges from NZD 55,000 to 65,000, with senior roles reaching NZD 80,000 to 100,000, plus generous school holidays and benefits.
-
-**问：How can Special Education Teachers immigrate to New Zealand?**
-答：This occupation is on the Green List Tier 1, allowing direct residence application; alternatively, through Skilled Migrant Category (6-point system), typically requiring teacher registration and qualification.
-
-**问：How to recognize overseas qualifications?**
-答：Assessment by the New Zealand Teaching Council is required, plus a bridging course costing around NZD 10,000-20,000.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

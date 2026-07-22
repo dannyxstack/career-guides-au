@@ -1,60 +1,92 @@
-# Handicraft Worker Not Elsewhere Classified（Handicraft Worker Not Elsewhere Classified）职业分析 · IT
+# Handicraft Worker Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：7319 – Handicraft Worker Not Elsewhere Classified。**
+**Occupation code: 7319 (ISCO08)**
 
-Handicraft workers include artisans in wood carving, glassblowing, ceramics, jewelry making, and similar traditional crafts, typically working in small studios or self-employed, producing unique handmade products.
+Handicraft workers include practitioners of traditional skills such as wood carving, glass blowing, ceramics, and jewelry making, typically working in small studios or self-employed, producing unique handcrafted products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3年（职业院校） | —（公立职业学校通常免费或低学费） |
-| 学徒制 | 3-4年 | —（学徒期间有工资，培训成本低） |
-| 本科 | 3年（应用艺术学院） | $2,000~$9,000（公立大学学费按家庭收入分级） |
+| Vocational training | 3 years (vocational school) | $0~$5,000 (Public vocational schools are often free or low-tuition) |
+| Apprenticeship | 3-4 years | $0~$3,000 (Paid during apprenticeship, low training costs) |
+| Bachelor's degree | 3 years (College of Applied Arts) | $2,000~$9,000 (Public university tuition fees are based on family income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业技术文凭 | 地区职业教育机构 | 必备 | 完成职业院校课程后获得 |
-| 工匠认证 | 当地商会 | 可选 | 注册为工匠需证明技能和经验 |
-| 卫生和安全证书 | 地区卫生局 | 必备 | 涉及化学品或机械操作时必需 |
+| Vocational diploma | Regional Vocational Education Institution | Required | Obtained after completing vocational school courses |
+| Health and safety certificate | Regional health authority | Required | Required when handling chemicals or operating machinery |
+| Trade certification | Local Chamber of Commerce | Optional | Registration as a tradesperson requires proof of skills and experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。意大利手工艺行业受旅游和出口驱动，但面临年轻从业者短缺和机械化竞争。官方通过“工匠法”支持，但整体就业增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. Italy's handicraft industry is driven by tourism and exports, but faces a shortage of young workers and competition from mechanization. Official support through the 'Artisan Law' exists, but overall employment growth is slow.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$22,000 | 学徒或初级工匠，收入不稳定 |
-| 中级（3-8年） | $22,000~$35,000 | 熟练工匠，可能受雇于工作室 |
-| 高级（8年以上） | $30,000~$50,000 | 大师级工匠或自营工作室主 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$22,000 | Apprentice or junior tradesperson with unstable income |
+| Mid-level (3–8 years) | $22,000~$35,000 | Skilled artisan, possibly employed in a studio |
+| Senior (8+ years) | $30,000~$50,000 | Master craftsperson or self-employed studio owner |
+| average salary | $29,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可从学徒晋升为熟练工匠，进而独立经营工作室或创立品牌。部分人转向奢侈品修复或定制服务，提升附加值。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace manual design, marketing, and documentation tasks in handcrafting, but also enhances creative exploration and personalized customization capabilities, requiring artisans to shift toward high-creativity and high-tactile fields.
+
+Practitioners can progress from apprentice to skilled craftsman, then independently run a studio or start a brand. Some transition to luxury restoration or custom services to add value.
+
+**Tasks most exposed to AI:**
+
+- Use software to generate standardized product or pattern design drafts
+- Write product descriptions, marketing copy, and social media content.
+- Clerical work managing inventory, orders, and customer records
+- Conduct basic market trend analysis to guide creative direction
+
+**Where AI augments the role:**
+
+- Using generative AI to explore new materials, shapes, and process combinations.
+- Achieve highly personalized customization by analyzing customer preference data through AI
+- Use AI-assisted tools to optimize mathematical models for intricate carving or inlay work
+
+**Human moat:**
+
+- High-level craftsmanship and tactile material experience
+- Original artistic aesthetics and cultural narrative ability
+- Impromptu customer communication and understanding of customised needs
+- Deep restoration and heritage skills for traditional crafts
+
+**Skills to build:**
+
+- Using AI design tools (e.g., Midjourney, Stable Diffusion) for creative iteration
+- Learn digital modeling and 3D printing-assisted production techniques
+- Social media and personal branding management skills
+- Customer experience design and personalized service capability
+- Knowledge of composite materials and sustainable processes
+- Basic data analysis and pricing strategy
+
+**Key growth areas:**
 
 - craft revival
 - luxury goods
@@ -63,65 +95,64 @@ Handicraft workers include artisans in wood carving, glassblowing, ceramics, jew
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，但手工艺通常不满足薪资门槛（年薪需≥28,074欧元） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，用于非欧盟季节性工人，但手工艺不常见 |
-| Subclass 自雇签证（Self-Employment Visa） | 需证明有足够资金和商业计划，适合个体工匠 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, but crafts usually do not meet the salary threshold (annual salary must be ≥€28,074). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU seasonal workers, but crafts are uncommon |
+| Subclass Self-employed Visa (Self-Employment Visa) | Must demonstrate sufficient funds and a business plan, suitable for individual artisans |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Handicraft Worker Not Elsewhere Classified？**
-- 对手工创作有热情，注重细节的人
-- 愿意接受学徒制培训的年轻人
-- 有商业头脑，能自营工作室的工匠
-
-**谁不适合学Handicraft Worker Not Elsewhere Classified？**
-- 追求高收入和高稳定就业的人
-- 不习惯独立工作或手工劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone passionate about handcrafting with attention to detail
+- Young people willing to undergo apprenticeship training
+- Craftsmen with business acumen who can run their own studio
+
+**Who is not suited**
+- For those seeking high income and stable employment
+- People who are not comfortable with independent work or manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of craft workers?**
+A: Entry-level annual income is about 15,000-22,000 EUR, senior craftsmen can reach 50,000 EUR, but self-employed income fluctuates greatly.
+
+**Q: How can foreign artisans immigrate to Italy?**
+A: Possible via self-employment visa, requiring proof of funds and business plan; or via EU Blue Card but requiring high salary; quota work visa is uncommon.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Worker Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for handicraft workers?**
-答：Entry-level annual income ranges from 15,000 to 22,000 EUR, while senior artisans can reach 50,000 EUR, but self-employed income varies.
-
-**问：How can foreign artisans immigrate to Italy?**
-答：Via self-employment visa requiring proof of funds and business plan; EU Blue Card with high salary threshold; quota work visa is uncommon.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

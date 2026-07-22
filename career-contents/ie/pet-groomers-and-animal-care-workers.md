@@ -1,61 +1,97 @@
-# Pet Groomers and Animal Care Workers（Pet Groomers and Animal Care Workers）职业分析 · IE
+# Pet Groomers and Animal Care Workers — career analysis · Ireland
 
-**职业代码：5164 – Pet Groomers and Animal Care Workers。**
+**Occupation code: 5164 (ISCO08)**
 
-Provide grooming, cleaning, and basic care services for pets, including bathing, trimming, nail care, and dental cleaning, as well as caring for boarding animals.
+Provide pet grooming, cleaning, and basic care services, including bathing, trimming fur, nail care, and teeth cleaning, as well as caring for boarded animals.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训课程 | 6个月至1年 | $1,000~$5,000（私立培训学院费用） |
-| 学徒培训 | 2年 | —（在职培训与兼职课程结合） |
+| Vocational training courses | 6 months to 1 year | $1,000~$5,000 (Private training college fees) |
+| Apprenticeship training | 2 years | $0~$2,000 (Combination of on-the-job training and part-time courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物护理及美容认证 | City & Guilds | 可选 | 国家认可的宠物美容认证 |
-| 宠物急救证书 | 爱尔兰红十字会 | 可选 | 基本急救技能，部分雇主要求 |
-| 动物行为学培训 | 各类培训机构 | 可选 | 有助于处理不同性格的动物 |
+| Animal care and grooming certification | City & Guilds | Optional | Nationally recognized pet grooming certification |
+| Pet first aid certificate | Irish Red Cross | Optional | Basic first aid skills, required by some employers |
+| Animal behavior training | Various training institutions | Optional | Helpful for handling animals with different temperaments |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。爱尔兰宠物拥有率持续增长，推动宠物美容和护理服务需求上升。该职业预计未来五年就业机会稳定增长，尤其在都柏林和科克等城市区域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Pet ownership in Ireland continues to grow, driving demand for pet grooming and care services. This occupation is expected to see steady employment growth over the next five years, especially in urban areas like Dublin and Cork.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 实习或助理岗位 |
-| 中级（3-7年） | $28,000~$36,000 | 独立美容师 |
-| 高级（7年以上） | $36,000~$45,000 | 资深技师或店长 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Intern or assistant position |
+| Mid-level (3–7 years) | $28,000~$36,000 | Independent beautician |
+| Senior (7+ years) | $36,000~$45,000 | Senior Technician or Store Manager |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级美容师或护理员起步，可通过积累经验、获得专业认证晋升为高级美容师或店长。部分从业者选择自主创业开设宠物美容店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pet groomers and animal care workers face mixed prospects: administrative tasks such as appointment booking and record-keeping are easily automated by AI, but core parts involving animal behavior, safety, and grooming artistry still require human intuition and skill.
+
+Start as a junior beautician or caregiver and progress to senior beautician or store manager through experience and professional certifications. Some choose to start their own pet grooming business.
+
+**Tasks most exposed to AI:**
+
+- Automated booking and customer communication (AI chatbot)
+- Pet profile and health record management (AI system)
+- Basic bathing and blow-drying (automated equipment)
+- Inventory and Supplies Management (AI Prediction System)
+- Simple beauty package recommendation (AI recommendation algorithm)
+
+**Where AI augments the role:**
+
+- Using AI diagnostic tools to assist in identifying skin issues or parasites
+- Using AI behavior analysis to predict pet emotions for safety protection
+- Design personalized beauty looks using AR/VR tools.
+- Optimize Supply Chain and Product Selection with AI Inventory Systems
+- Uses AI to generate customized care reports for pet owners.
+
+**Human moat:**
+
+- Safe handling and trust-building for stressed, aggressive, or injured animals
+- Beauty art creativity (e.g., creative styling, breed standard judging)
+- Observing animals' non-verbal signals on-site and adjusting techniques in real time
+- Provide emotional support and personalized advice to pet owners
+- Judgment for handling medical emergencies (e.g., allergies, injuries)
+
+**Skills to build:**
+
+- Basic veterinary care and first aid skills
+- Animal behavior and positive reinforcement training
+- Digital business management (CRM, online booking)
+- AI-assisted diagnostic tool operation
+- Social media marketing and customer relationship management
+- Advanced beauty techniques (e.g., competition-level styling)
+
+**Key growth areas:**
 
 - Pet ownership increase
 - Premium grooming services
@@ -64,65 +100,67 @@ Provide grooming, cleaning, and basic care services for pets, including bathing,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达到€30,000以上。 |
-| Subclass Stamp 4（Stamp 4 Permission） | 持有工作许可满5年可申请永居，无需雇主担保。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requires employer sponsorship, annual salary must exceed €30,000. |
+| Subclass Stamp 4 (Stamp 4 Permission) | 5 years of work permit eligible for permanent residence, no employer sponsorship required. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pet Groomers and Animal Care Workers？**
-- 喜欢动物并有耐心的人
-- 手巧且注重细节
-- 愿意与宠物主人良好沟通
+**Who is suited**
+- People who like animals and have patience
+- Manual dexterity and attention to detail
+- Willing to communicate well with pet owners
 
-**谁不适合学Pet Groomers and Animal Care Workers？**
-- 对动物毛发或卫生敏感
-- 无法应对不配合或攻击性动物
+**Who is not suited**
+- Sensitive to animal hair or hygiene
+- Unable to handle uncooperative or aggressive animals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do pet groomers earn?**
+A: Entry-level annual salary around €22,000-€28,000, mid-level €28,000-€36,000, senior or store manager up to €45,000. Income depends on experience and client base.
+
+**Q: Can pet groomers immigrate to Ireland?**
+A: This occupation is not on the critical skills occupation list; immigration requires a general work permit with employer sponsorship and annual salary above €30,000.
+
+**Q: What qualifications are required to become a pet groomer?**
+A: Typically requires completing a pet grooming training course (6 months to 1 year) or an apprenticeship. Certifications such as City & Guilds are not mandatory but helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pet Groomers and Animal Care Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for pet groomers?**
-答：Entry-level €22,000-€28,000, mid-level €28,000-€36,000, senior or manager up to €45,000. Income depends on experience and client base.
-
-**问：Can pet groomers immigrate to Ireland?**
-答：This occupation is not on the Critical Skills list; migration requires a General Employment Permit with employer sponsorship and a salary above €30,000.
-
-**问：What qualifications are needed?**
-答：Typically a pet grooming course (6 months to 1 year) or apprenticeship. Certifications like City & Guilds are beneficial but not mandatory.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

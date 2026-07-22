@@ -1,58 +1,94 @@
-# Post Office Counter Clerks（Post Office Counter Clerks）职业分析 · ES
+# Post Office Counter Clerks — career analysis · Spain
 
-**职业代码：4446 – Post Office Counter Clerks。**
+**Occupation code: 4446 (CNO)**
 
-Post office counter clerks handle mail, parcels, money transfers, and postal savings services, providing counter assistance to customers.
+Post office counter staff handle mail, parcels, remittances, and postal savings services, providing counter services to customers.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育后 | 2年（FP Grado Medio） | $1,000~$3,000（公立FP学费低，约每年500-1500欧元） |
+| After compulsory education | 2 years (FP Grado Medio) | $1,000~$3,000 (Public FP tuition is low, about 500-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 义务教育毕业证书 | 西班牙教育部 | 必备 | 基本要求 |
+| Compulsory education graduation certificate | Spanish Ministry of Education | Required | Basic requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 15,000。西班牙邮政业稳定，但数字化转型导致部分岗位减少，柜台需求缓慢下降。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. The Spanish postal industry is stable, but digital transformation has led to a reduction in some positions, and demand for counters is slowly declining.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$30,000 | 税前年薪，含主管 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$30,000 | Pre-tax annual salary, including supervisors |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可从柜台职员晋升为邮政主管或转向物流管理岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Post office counter staff face the dual impact of automation replacement and AI enhancement. Routine transactions are being replaced by digital channels, but tasks like complex consultation and dispute resolution are instead enhanced by AI tools, resulting in a mixed overall job structure.
+
+You can be promoted from counter staff to postal supervisor or shift to logistics management positions.
+
+**Tasks most exposed to AI:**
+
+- Basic mail and parcel handling operations (weighing, labeling, scanning)
+- Standard remittance and postal savings transaction processing
+- Simple customer inquiries (postage, business hours)
+- Manual sorting and delivery route planning
+- Fill out and enter paper forms
+
+**Where AI augments the role:**
+
+- Quickly answer complex policies and cross-border mailing rules using the AI knowledge base
+- Recommend additional services (insurance, courier) to customers through an intelligent recommendation system.
+- AI-assisted identity verification and fraud detection enhance security
+- Use chatbots to pre-screen customer questions, allowing humans to focus on high-value interactions
+- Real-time data analysis optimizes window scheduling and resource allocation
+
+**Human moat:**
+
+- Handling abnormal situations (damaged packages, dispute claims)
+- Providing emotional support and personalized services (elderly clients, complaint relief)
+- Cross-departmental coordination to resolve non-standardized issues
+- Compliance judgment and responsibility discretion for sensitive mailed items
+- Build trust and customer loyalty face-to-face
+
+**Skills to build:**
+
+- Digital tools and self-service terminal maintenance capabilities
+- Customer Relationship Management (CRM) software operation
+- Data privacy and compliance knowledge
+- Cross-selling and business referral techniques
+- Conflict mediation and complex problem resolution
+- Basic AI tool usage (knowledge base, chatbot backend)
+
+**Key growth areas:**
 
 - Stable
 - Digitalization impact
@@ -61,60 +97,62 @@ Post office counter clerks handle mail, parcels, money transfers, and postal sav
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，但非紧缺职业，获批难度高 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, but it is not a shortage occupation, so approval is more difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Post Office Counter Clerks？**
-- 喜欢稳定、规律工作的人
-- 注重公共服务、善于沟通的人
+**Who is suited**
+- People who enjoy stable and regular work
+- People who value public service and are good at communication
 
-**谁不适合学Post Office Counter Clerks？**
-- 追求高薪和职业发展的人
-- 对数字化缺乏兴趣的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People who lack interest in digitalization
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for post office counter staff?**
+A: The junior salary is about 18,000-22,000 euros, the intermediate 22,000-26,000 euros, and the senior level up to 30,000 euros.
+
+**Q: Can post office counter clerks immigrate to Spain?**
+A: This profession is not in short supply, and third-country immigration has almost no pathways, only through non-work visas such as family reunification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Post Office Counter Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a post office counter clerk?**
-答：Entry-level annual salary is about €18,000-€22,000, mid-level €22,000-€26,000, and senior up to €30,000.
-
-**问：Can a post office counter clerk immigrate to Spain?**
-答：This occupation is not in shortage; immigration for third-country nationals is nearly impossible, only via family reunification or non-work visas.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

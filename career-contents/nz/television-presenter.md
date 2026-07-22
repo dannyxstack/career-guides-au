@@ -1,58 +1,94 @@
-# Television Presenter（Television Presenter）职业分析 · 新西兰
+# Television Presenter — career analysis · New Zealand
 
-**职业代码：212114 – Television Presenter。**
+**Occupation code: 212114 (ANZSCO)**
 
-Hosts TV shows, interviews guests, and moderates discussions; requires excellent communication and improvisation skills. In New Zealand, employment mainly via Accredited Employer Work Visa or Skilled Migrant Category, but competition is high.
+Hosting, interviewing guests, and guiding discussions on TV programs, requiring excellent communication and improvisation skills. In New Zealand, this occupation mainly immigrates through Accredited Employer Work Visa or Skilled Migrant Category, but competition is fierce.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（3年） | 3年 | $22,000~$40,000（大学传媒/电视专业学费（NZD/年）） |
-| 文凭/证书（1-2年） | 1-2年 | $12,000~$25,000（理工学院或私立培训机构学费） |
+| Bachelor's degree (3 years) | 3 years | $22,000~$40,000 (University Media/TV tuition fees (NZD/year)) |
+| Diploma/certificate (1-2 years) | 1-2 years | $12,000~$25,000 (Tuition fees at polytechnics or private training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广播与传媒学士学位 | 大学 | 可选 | 如奥克兰大学、惠灵顿维多利亚大学提供相关课程 |
-| 广播证书（Certificate in Broadcasting） | 技术学院 | 可选 | 如NZ Broadcasting School文凭 |
+| Bachelor of Broadcasting and Media | University | Optional | For example, the University of Auckland and Victoria University of Wellington offer relevant courses |
+| Certificate in Broadcasting | Technical college | Optional | For example, a diploma from NZ Broadcasting School |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 600。新西兰电视行业规模较小，岗位有限，且受新媒体冲击。就业前景一般，数字媒体技能成为加分项。
+**Job demand: low (★★☆☆☆).** National workforce approx. 600. New Zealand's television industry is small, with limited positions and impacted by new media. Employment prospects are average; digital media skills are a plus.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 初级电视主持人或助理 |
-| 中级（3-7年） | $60,000~$85,000 | 有经验的主持人 |
-| 高级（8年+） | $85,000~$120,000 | 知名主持人或兼制片人 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Junior TV presenter or assistant |
+| Mid-level (3–7 years) | $60,000~$85,000 | Experienced host |
+| Senior (8+ years) | $85,000~$120,000 | Well-known host or also producer |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从助理主持人或记者起步，逐步晋升为主持人、制片人或内容总监。多元化技能（如社交媒体运营）有助发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The core of a TV host's role—impromptu expression, emotional connection, and on-site adaptability—is hard to replace by AI, but tasks like scriptwriting, material organization, and basic broadcasting will be automated, intensifying competition for entry-level positions, while AI tools can enhance content creation and data analysis efficiency.
+
+Can start as assistant host or reporter and progress to host, producer, or content director. Diversified skills (e.g., social media operations) help development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate press releases and teleprompter scripts
+- Basic news broadcasting and weather forecast reporting
+- Editing and post-dubbing (AI voice synthesis)
+- Standardized interview question generation and on-site data statistics
+- Automated social media posting and public opinion monitoring reports
+
+**Where AI augments the role:**
+
+- AI-assisted real-time translation and multilingual simultaneous interpretation to expand international interviewing capabilities
+- AI analyses audience feedback and viewership data to optimise hosting style and topics
+- Using virtual studios and AR technology to enhance programme visual effects
+- AI-assisted script polishing and creative brainstorming to enhance content depth
+- Automatically generate program summaries and short video clips to improve content distribution efficiency
+
+**Human moat:**
+
+- Improvisation and tension-easing skills
+- Real emotional connection and empathy with guests and audiences
+- Personal branding and distinctive voice/temperament
+- In-depth understanding and critical questioning of complex social issues
+- Handling unexpected situations during live broadcasts (e.g., equipment failure, guests losing control)
+
+**Skills to build:**
+
+- AI content creation tools (e.g., ChatGPT for script assistance, DALL·E for visual assets)
+- Data analysis basics (using Tableau or Python to analyze viewership/interaction data)
+- Multi-platform content creation (short videos, podcasts, live streaming sales)
+- Virtual Production and AR/VR Technologies (e.g., basic Unreal Engine operations)
+- Social media operations and fan community management
+- Cross-cultural communication and foreign language skills (especially for international interviews)
+
+**Key growth areas:**
 
 - Digital Media
 - Freelance
@@ -61,68 +97,67 @@ Hosts TV shows, interviews guests, and moderates discussions; requires excellent
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需找到认证雇主，工资达标（通常中位数以上） |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需满足6分制（学历+经验），职业在ANZSCO 1-3级 |
-| Subclass Other（Specific Purpose Work Visa） | 特定目的工签，如短期节目制作 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa; requires a job offer from an accredited employer and meeting salary thresholds (usually above the median). |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires meeting the 6-point system (qualifications + experience), with occupation at ANZSCO 1-3 level |
+| Subclass Other (Specific Purpose Work Visa) | Specific purpose visa, e.g., short-term program production |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Television Presenter？**
-- 擅长即兴表达和表演者
-- 对媒体行业有热情且接受不稳定工作
-- 具备网络内容制作能力者
-
-**谁不适合学Television Presenter？**
-- 偏好稳定工作和朝九晚五者
-- 内向且不习惯镜头前生活
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at improvisation and performance
+- Passionate about the media industry and comfortable with unstable work
+- Those with web content production skills
+
+**Who is not suited**
+- Those who prefer stable work and a 9-to-5 schedule
+- Introverted and not accustomed to being in front of the camera
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a TV presenter?**
+A: Junior annual salary approx. 4.5-6k NZD, intermediate 6-8.5k, senior 8.5-12k NZD (famous hosts earn more, but positions are rare).
+
+**Q: Can TV presenters immigrate to New Zealand?**
+A: Yes, but requires employer sponsorship through the Skilled Migrant Category or AEWV pathway. As ANZSCO skill level 2-3 occupations, wage requirements must be met, and competition is intense.
+
+**Q: How to start a career as a television host?**
+A: Typically requires a media degree or broadcasting certificate, with internship experience gained at local stations or web programs. Building a personal portfolio and social media presence is important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Television Presenter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for TV presenters?**
-答：Entry-level: NZD 45k-60k, mid: NZD 60k-85k, senior: NZD 85k-120k (famous presenters may earn more, but positions are rare).
-
-**问：Can TV presenters migrate to New Zealand?**
-答：Yes, with employer sponsorship via Skilled Migrant Category or AEWV. As ANZSCO skill level 2-3, must meet wage requirements, and competition is high.
-
-**问：How to start a career as a TV presenter?**
-答：Typically requires a media degree or broadcasting certificate, gain internship experience, start in local or online shows. Building a portfolio and social media presence is key.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

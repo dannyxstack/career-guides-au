@@ -1,62 +1,98 @@
-# Jewelers, Goldsmiths and Silversmiths（Jewelers, Goldsmiths and Silversmiths）职业分析 · ES
+# Jewelers, Goldsmiths and Silversmiths — career analysis · Spain
 
-**职业代码：7613 – Jewelers, Goldsmiths and Silversmiths。**
+**Occupation code: 7613 (CNO)**
 
-This occupation involves designing, manufacturing, and repairing jewelry items such as rings, necklaces, and earrings using precious metals and gemstones. Workers need skills in metalworking, stone setting, and engraving, with demand in both traditional and modern jewelry sectors in Spain.
+This profession involves designing, manufacturing, and restoring jewelry using precious metals and gemstones, including rings, necklaces, earrings, and more. Practitioners need to master handcrafted skills such as metalworking, setting, and carving, which are in demand in both Spain's traditional and modern jewelry industries.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | $500~$2,000（公立FP每学年约500-2000欧元，含材料费） |
-| 职业培训（FP Grado Superior） | 2年 | $800~$3,000（高级珠宝制造专业，私校费用较高） |
-| 学士学位（Grado） | 4年 | $1,000~$6,000（如美术或设计专业珠宝方向，公立大学学费约1000-3000欧元/年） |
+| Vocational Training (FP Grado Medio) | 2 years | $500~$2,000 (Public FP costs about 500-2000 euros per academic year, including material fees) |
+| Vocational Training (FP Grado Superior) | 2 years | $800~$3,000 (Majors in fine jewelry manufacturing, with higher tuition fees for private schools) |
+| Bachelor's Degree (Grado) | 4 years | $1,000~$6,000 (For fine arts or design majors in jewelry, public university tuition is about 1000-3000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 珠宝设计师证 | 行业协会（如ASEMEI） | 可选 | 非强制，但有助于就业 |
-| FP珠宝技术员文凭 | 教育部/培训中心 | 可选 | 常见入职资格 |
-| 熟练工匠认证（Maestro Artesano） | 自治区政府 | 可选 | 对自营或大师资质有益 |
+| Jewelry designer certificate | Industry associations (such as ASEMEI) | Optional | Not mandatory, but helpful for employment |
+| FP Jewelry Technician Diploma | Ministry of Education/Training Center | Optional | Common entry qualifications |
+| Skilled Craftsman Certification (Maestro Artesano) | Autonomous region government | Optional | Beneficial for self-operated or master qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。西班牙珠宝业受旅游和品牌店支撑，但在疫情后电商冲击下小型作坊面临压力。马德里、巴塞罗那和安达卢西亚是主要就业区域。总体就业保持稳定，但竞争激烈，高技能工匠更受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Spain's jewelry industry is supported by tourism and branded stores, but small workshops are under pressure due to the post-pandemic impact of e-commerce. Madrid, Barcelona, and Andalusia are the main employment regions. Overall employment remains stable, but competition is fierce, with highly skilled craftsmen being more popular.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或助理金匠，税前年薪 |
-| 中级（3-8年） | $24,000~$35,000 | 有经验工匠，有时加提成 |
-| 高级（8年以上） | $35,000~$50,000 | 大师级或工作室主管 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or assistant goldsmith, pre-tax annual salary |
+| Mid-level (3–8 years) | $24,000~$35,000 | Experienced craftsmen sometimes receive commissions |
+| Senior (8+ years) | $35,000~$50,000 | Master-level or studio director |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 初级学徒或珠宝学校毕业后可成为助理工匠，积累经验后成为独立金匠或银匠，也可晋升为工作室主管或开设自有品牌。部分从业者转向珠宝设计、古董修复或拍卖行评估方向。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
+
+After graduating from a junior apprentice or jewelry school, you can become an assistant craftsman, gain experience as an independent goldsmith or silversmith, or be promoted to studio manager or start your own brand. Some practitioners have turned to jewelry design, antique restoration, or auction house appraisals.
+
+**Tasks most exposed to AI:**
+
+- Routine metal polishing and grinding (can be automated with AI-controlled robotic arms).
+- Gem cutting and setting calculations (parametric modeling to optimize cut automatically)
+- Repetitive inlay path planning (AI vision system assisted positioning)
+- Inventory management and simple design sketch generation (generative AI for rapid output)
+- Quality inspection and sorting of batch jewelry (computer vision for automatic defect detection)
+
+**Where AI augments the role:**
+
+- Complex 3D modeling and rendering (AI generates design variants for rapid style exploration)
+- Gem optimization cutting simulation (AI analyzes internal structure of rough stone to suggest optimal facets)
+- Personalized custom design (AI generates initial plan based on client needs, then craftspeople refine)
+- Teaching and skill transfer (AR/VR simulated operations, AI real-time error feedback)
+- Repair and restoration solution assessment (AI scans damaged structures, recommends repair paths)
+
+**Human moat:**
+
+- Artistic feel of hand setting and fine metal adjustment (AI cannot replicate tactile feedback)
+- Emotional interaction skills for communicating custom needs with clients and passing on brand stories
+- Experience-based restoration of historical craftsmanship in antique jewelry repair
+- Decision-making and accountability for handling high-value, one-of-a-kind works
+- Irregularity of comprehensive creation across materials (precious metals, gemstones, enamel, etc.)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., Rhino, MatrixGold) and parametric design tools
+- Prompt engineering and image optimization for AI-assisted design platforms (e.g., Midjourney for jewelry)
+- Deepening gemology and materials science (understanding the gap between AI simulation and actual cutting)
+- Digital manufacturing processes (3D printing wax patterns, CNC engraving) operation and post-processing
+- Customer experience design (incorporating AR/VR try-ons and custom communication)
+- Sustainable/traceability technology (blockchain registering gem origin, meeting ESG requirements)
+
+**Key growth areas:**
 
 - Handcrafted Jewelry Demand
 - Sustainable Luxury
@@ -65,68 +101,67 @@ This occupation involves designing, manufacturing, and repairing jewelry items s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，通常要求职位为高技能。珠宝师一般不符合高技能路径，但可申请普通工作居留，需证明职位无法在欧盟填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 适用于在西班牙完成学位的非欧盟毕业生，可在毕业后6个月内寻找工作。 |
-| Subclass Autónomo（Self-Employment Visa） | 适合作为自由职业者或成立工作室的珠宝师，需提交商业计划并满足投资要求。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, and the position is usually highly skilled. Jewelers generally do not qualify for the high-skilled pathway but can apply for ordinary work residence, provided they prove the position cannot be filled in the EU. |
+| Subclass Busqueda empleo (Job Search Visa) | This applies to non-EU graduates who have completed their degree in Spain and can look for jobs within 6 months of graduation. |
+| Subclass Autónomo (Self-Employment Visa) | Jewelers suitable for freelancing or establishing studios must submit a business plan and meet investment requirements. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Jewelers, Goldsmiths and Silversmiths？**
-- 对珠宝设计和手工制作有热情的人群
-- 具有精细手工技能和耐心的人
-
-**谁不适合学Jewelers, Goldsmiths and Silversmiths？**
-- 不希望从事精细手工劳动的人
-- 追求高薪且申请永居便利的移民
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- A group passionate about jewelry design and handmade crafts
+- People with fine handicraft skills and patience
+
+**Who is not suited**
+- People who do not want to engage in fine manual labor
+- Immigrants seeking high salaries and convenient permanent residency applications
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for jewelers in Spain?**
+A: Junior jewellers earn around EUR 18,000-24,000 per year, intermediate EUR 24,000-35,000, and senior up to EUR 50,000. Salary is influenced by region, experience, and studio size; higher in Madrid and Barcelona.
+
+**Q: How can non-EU citizens immigrate to Spain to pursue a career as a jeweler?**
+A: Immigration can be made through work residence (employer sponsorship) or self-employment visa (business plan required). Since jewelers are not in short supply, ordinary work residence may face labor market tests, and self-employment visas require proof of financial capability.
+
+**Q: What career development paths are available for jewelers?**
+A: Can become an independent designer, studio head, antique jewelry restorer, or move into jewelry brand management, wholesale, or retail. Some pursue further study to enter jewelry appraisal or evaluation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Jewelers, Goldsmiths and Silversmiths为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of jewelers in Spain?**
-答：Junior jewelers earn €18,000-24,000 annually, mid-level €24,000-35,000, and senior up to €50,000. Salaries vary by region, experience, and studio size, higher in Madrid and Barcelona.
-
-**问：How can non-EU citizens immigrate to work as a jeweler in Spain?**
-答：Obtain a work visa with employer sponsorship or a self-employment visa with a business plan. As jewelers are not in shortage, standard work permits may require a labor market test; self-employment requires proof of financial solvency.
-
-**问：What are the career development paths for jewelers?**
-答：Possibilities include becoming an independent designer, workshop supervisor, antique jewelry restorer, or moving into brand management, wholesale, or retail. Some pursue further education in gemology or appraisal.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

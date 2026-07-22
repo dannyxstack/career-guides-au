@@ -1,60 +1,93 @@
-# Umpires, Referees, and Other Sports Officials（Umpires, Referees, and Other Sports Officials）职业分析 · 美国
+# Umpires, Referees, and Other Sports Officials — career analysis · United States
 
-**职业代码：27-2023 – Umpires, Referees, and Other Sports Officials。**
+**Occupation code: 27-2023 (SOC)**
 
-Officiate at competitive athletic events, detect infractions, and enforce rules to ensure fair play.
+Enforce rules in competitive sports events, judge fouls according to regulations, and execute penalties to ensure fair play.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（高中文凭即可，无直接教育成本） |
-| 裁判培训课程 | 数月至1年 | $500~$3,000（各地体育协会或培训机构提供的认证课程） |
+| High school graduation | 12 years | $0~$0 (High school diploma required, no direct education costs.) |
+| Referee training course | Several months to 1 year | $500~$3,000 (Certification courses offered by local sports associations or training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 裁判认证 | 国家或地方体育协会 | 必备 | 通常需通过规则考试和实操评估 |
-| 急救证书 | 美国红十字会等 | 可选 | 部分赛事要求具备 |
+| Referee certification | National or local sports associations | Required | Usually requires passing a rules exam and practical assessment |
+| First aid certificate | American Red Cross, etc. | Optional | Some events require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 13,500。美国劳工统计局预计2022-2032年就业增长约6%，增速与平均水平相当，体育赛事需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 13,500. U.S. Bureau of Labor Statistics projects about 6% employment growth from 2022-2032, similar to average, with stable demand for sports events.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 兼职或业余赛事裁判 |
-| 中级（3-10年） | $35,000~$60,000 | 半职业或大学赛事裁判 |
-| 高级（10年以上） | $60,000~$100,000 | 职业联赛（如NBA、NFL）裁判 |
+| Median salary | $40,710 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $15,000~$30,000 | Part-time or amateur event referee |
+| Intermediate (3-10 years) | $35,000~$60,000 | Semi-professional or university sport umpire |
+| Senior (10+ years) | $60,000~$100,000 | Professional league (e.g., NBA, NFL) referee |
+| average salary | $53,010 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从地方业余比赛裁判起步，逐步晋升至大学或职业联赛；需持续更新规则知识并积累经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will assist referees with video replay, offside calls, etc., improving accuracy; but on-field judgment, rule interpretation, and maintaining order remain human responsibilities, not replaceable in the short term.
+
+Can start as a referee for local amateur competitions, gradually advance to college or professional leagues; need to continuously update rule knowledge and accumulate experience.
+
+**Tasks most exposed to AI:**
+
+- Automated offside detection system replaces some offside decisions by assistant referees
+- Electronic scoring and timing devices replace manual recording
+- AI video replay system automatically marks foul events
+- Automatically compile game statistics (such as at-bats) replacing manual compilation
+
+**Where AI augments the role:**
+
+- AI video analysis assists with replay decisions, reducing disputes.
+- Real-time data dashboards providing player movement, heart rate, and other metrics to assist officiating
+- Auto-clipping foul segments for post-match review training
+- AI simulates different penalty scenarios to improve referee decision-making training efficiency
+
+**Human moat:**
+
+- On-field instant judgment requires human understanding of game tempo and spirit
+- Interpreting rules and managing player emotions and conflicts requires high emotional intelligence
+- The ultimate responsibility and accountability for rulings legally rests with human referees
+- Referee authority and credibility in key matches (e.g., finals) are irreplaceable
+
+**Skills to build:**
+
+- Master the operation and judging criteria of standard video replay systems
+- Learn basic data analysis, understand player tracking data
+- Learning knowledge graph applications for sports rulebooks
+- Improve understanding of cross-sport rules (for multi-event officiating).
+- Practice decision-making training using AI simulation platforms for judgment calls
+- Study sports psychology to improve interpersonal communication and conflict management
+
+**Key growth areas:**
 
 - Professional Sports Growth
 - Youth Sports Expansion
@@ -63,63 +96,65 @@ Officiate at competitive athletic events, detect infractions, and enforce rules 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因非专业职业 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅极少数国际知名裁判可申请 |
-| Subclass Green Card (PERM)（EB-2/EB-3 Green Card） | 移民途径极少，团队通常不赞助 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as it is a non-professional occupation |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only extremely internationally renowned referees can apply |
+| Subclass Green Card (PERM) (EB-2/EB-3 Green Card) | Very few immigration pathways; teams usually do not sponsor |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Umpires, Referees, and Other Sports Officials？**
-- 热爱体育、熟悉规则的人
-- 能够承受压力、快速决策
-- 善于沟通和冲突解决
+**Who is suited**
+- People passionate about sports and familiar with rules
+- Able to handle pressure and make quick decisions
+- Good communication and conflict resolution skills
 
-**谁不适合学Umpires, Referees, and Other Sports Officials？**
-- 无法忍受现场观众压力
-- 希望稳定高薪工作
+**Who is not suited**
+- Cannot tolerate live audience pressure
+- Those seeking stable high-salary jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do referees earn?**
+A: Junior part-time referees earn about $15,000-30,000 per year, while professional league referees can earn $60,000-100,000.
+
+**Q: Can referees immigrate to the US through employment?**
+A: Almost impossible. This occupation is not a professional occupation, employers usually do not sponsor work visas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
-
-Umpires, Referees, and Other Sports Officials属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for umpires?**
-答：Entry-level part-time officials earn $15,000-$30,000, while professional league referees can make $60,000-$100,000.
-
-**问：Can umpires immigrate to the US via employment?**
-答：Very unlikely. This occupation is not a specialty occupation and employers rarely sponsor work visas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

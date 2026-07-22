@@ -1,60 +1,89 @@
-# Floor Attendant（Floor Attendant）职业分析 · FR
+# Floor Attendant — career analysis · France
 
-**职业代码：G1501 – Floor Attendant。**
+**Occupation code: G1501 (ROME)**
 
-Responsible for cleaning, tidying, and maintaining hotel guest rooms, ensuring cleanliness and comfort to provide guests with a high-quality stay experience.
+Responsible for cleaning, organizing, and maintaining hotel rooms, ensuring tidiness and comfort to provide guests with a high-quality stay.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求，在职培训 | 短期培训（1-2个月） | —（通常由雇主提供培训，无学费。） |
-| CAP Agent de propreté et d'hygiène | 2年（CAP） | —（公立学校免费或低学费，学徒制有工资。） |
+| No specific educational requirements, on-the-job training | Short-term training (1-2 months) | $0~$500 (Training is usually provided by employers and there is no tuition fee.) |
+| CAP Agent de propreté et d'hygiène | 2 years (CAP) | $0~$1,000 (Public schools offer free or low tuition, and apprenticeships are paid.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无需特定执照 | 无 | 可选 | 基本无需强制认证，雇主通常提供在职培训。 |
-| 语言能力（法语） | 无 | 可选 | 基本法语沟通能力对工作有帮助。 |
+| No specific license required | None | Optional | Mandatory certification is basically not required, and employers usually provide on-the-job training. |
+| Language proficiency (French) | None | Optional | Basic French communication skills are helpful for the job. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 180,000。法国旅游业持续发展，酒店业对楼层服务员的需求稳定。但受自动化和智能化影响，低端岗位增长有限，高端酒店需求更旺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 180,000. France's tourism industry continues to develop, and the hotel industry's demand for floor attendants remains stable. However, due to automation and intelligence, growth in low-end jobs is limited, while demand for high-end hotels is stronger.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $19,000~$22,000 | 税前年薪，通常按SMIC（最低工资）起步。 |
-| 中级（3-5年） | $22,000~$26,000 | 税前年薪，有经验后略有提升。 |
-| 高级（6年以上或主管） | $26,000~$32,000 | 税前年薪，主管级别可能有额外津贴。 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $19,000~$22,000 | Pre-tax annual salary usually starts at SMIC (Minimum Wage). |
+| Mid-level (3–5 years) | $22,000~$26,000 | Pre-tax annual salary, slightly increased with experience. |
+| Senior (6+ years or supervisory) | $26,000~$32,000 | Pre-tax annual salary, with additional allowances for supervisor levels. |
+| average salary | $22,326 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从楼层服务员晋升为楼层主管或客房部经理，积累经验后可转向更高端的酒店或度假村，也可通过培训进入酒店管理领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core cleaning and organizing tasks for floor attendants can be automated and replaced, but the hotel industry still has rigid demands for interpersonal interaction and standardization, leading to fewer positions and higher skill requirements.
+
+You can be promoted from floor attendant to floor supervisor or housekeeping manager, and after gaining experience, you can move on to higher-end hotels or resorts, or enter the hotel management field through training.
+
+**Tasks most exposed to AI:**
+
+- Room cleaning and bed arrangement (replacing robot vacuum cleaners and automatic bed-making machines)
+- Room supplies replenishment and inventory counting (AI inventory management system automatically triggers replenishment)
+- Garbage collection and sorting (replacing automated sorting robots)
+
+**Where AI augments the role:**
+
+- Use AI scheduling systems to optimize cleaning routes and priorities
+- Real-time sensor data is used to monitor guest room status (such as humidity and temperature) and adjust services
+- Receive instant guest cleaning requests via mobile apps and respond quickly
+
+**Human moat:**
+
+- Handling special guest requests (such as allergens, personalized arrangements)
+- Meticulous room inspection and deep cleaning (corner and stains)
+- Flexibility in handling emergencies such as vomit or damaged items
+
+**Skills to build:**
+
+- Operation of hotel management software (such as Opera PMS).
+- Use of AI room management systems (such as automatic cleaning scheduling).
+- Basic English and cross-cultural communication
+- Customer complaint handling and emergency response
+- Maintenance and troubleshooting of cleaning equipment
+
+**Key growth areas:**
 
 - Tourism revival
 - Staff turnover
@@ -63,61 +92,63 @@ Responsible for cleaning, tidying, and maintaining hotel guest rooms, ensuring c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇工作居留，需获得法国雇主工作合同，且满足最低工资要求。 |
+| Subclass Salarié (Salarié) | For employment-based residence, you must obtain a work contract with a French employer and meet minimum wage requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Floor Attendant？**
-- 注重细节、爱整洁的人
-- 体力好、能适应站立工作的人
-- 希望快速就业、无高学历要求的人
+**Who is suited**
+- Detail-oriented and tidy people
+- Someone physically fit and able to stand for long periods
+- People seeking quick employment with no high degree requirements
 
-**谁不适合学Floor Attendant？**
-- 寻求高薪或快速晋升的人
-- 不喜欢重复性体力劳动的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who dislike repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does the salary for floor attendants include tips?**
+A: Tips are usually not included, mainly from a fixed salary. High-end hotels may offer tips, but they are not common.
+
+**Q: Can foreigners immigrate to France as floor attendants?**
+A: It is difficult because the occupation is not in urgent demand and pays relatively low, making it difficult to meet the work-stay requirements. Usually, sponsorship from high-end hotels is required, but the chances are small.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Floor Attendant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does the salary of a floor attendant include tips?**
-答：Usually not; it relies on fixed wages. Tips may occur in high-end hotels but are not common.
-
-**问：Can a foreigner immigrate to France as a floor attendant?**
-答：It is difficult as the occupation is not in shortage and salaries are low, making it hard to meet work permit requirements. Sponsorship by luxury hotels is possible but rare.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

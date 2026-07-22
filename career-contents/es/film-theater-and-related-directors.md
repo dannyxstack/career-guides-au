@@ -1,62 +1,96 @@
-# Film, Theater and Related Directors（Film, Theater and Related Directors）职业分析 · ES
+# Film, Theater and Related Directors — career analysis · Spain
 
-**职业代码：2934 – Film, Theater and Related Directors。**
+**Occupation code: 2934 (CNO)**
 
-Direct and oversee creative and artistic aspects of film, television, theater productions, coordinating script, performance, cinematography, and design to achieve the desired artistic vision.
+Responsible for creative guidance and artistic supervision of film, television, theater, and other film and stage works, coordinating scriptwriting, performance, photography, and art to ensure artistic quality.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学年学费，如UCM、UPF） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$8,000（私立或公立硕士，如ESCAC、ECAM） |
-| 职业培训（FP） | 2年（FP Grado Superior） | —（公立FP几乎免费，如影像与声音专业） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Annual tuition fees for public universities, such as UCM and UPF) |
+| Máster | 1-2 years (Máster) | $2,000~$8,000 (Private or public master's degrees, such as ESCAC and ECAM) |
+| Vocational Training (FP) | 2 years (FP Grado Superior) | $0~$1,000 (Public FPs are almost free, such as imaging and sound majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 非欧盟学历需认证方可从事受规管工作，但导演并非强制 |
-| 电影或视听艺术学位 | 西班牙大学或电影学院 | 可选 | 虽非强制但行业通行要求 |
-| 作品集与行业经验 | 行业实践 | 可选 | 实际作品集比学历更重要 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Non-EU qualifications require certification to engage in regulated work, but directing is not mandatory |
+| Degree in Film or Audiovisual Arts | Spanish universities or film schools | Optional | Although not mandatory, it is a common industry requirement |
+| Portfolio and industry experience | Industry practice | Optional | The actual portfolio is more important than the academic credentials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。西班牙影视行业受流媒体平台（Netflix、Amazon Prime）本地制作投入推动，对导演需求持续增长。但职位竞争激烈，多数为项目制短期合同，自由职业比例高。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,500. The Spanish film and television industry is driven by local production investment from streaming platforms (Netflix, Amazon Prime), with demand for directors continuing to grow. However, the competition for positions is fierce, with most being project-based short-term contracts and a high proportion of freelancers.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：极高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$30,000 | 助理导演或低预算短片导演 |
-| 中级（3-7年） | $30,000~$50,000 | 电视台或中等预算电影导演 |
-| 高级（7年以上） | $50,000~$120,000 | 知名导演或大型制作导演 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$30,000 | Assistant director or low-budget short film director |
+| Mid-level (3–7 years) | $30,000~$50,000 | TV station or mid-budget film directors |
+| Senior (7+ years) | $50,000~$120,000 | Renowned directors or major production directors |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展通常从助理导演、短片导演起步，积累作品后晋升为长片导演或电视导演。少数可成为知名艺术总监或制片人，收入与行业声誉高度相关。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
+
+Career development usually starts as an assistant director or short film director, and after accumulating a portfolio, is promoted to feature film director or television director. A few can become well-known art directors or producers, with income closely tied to industry reputation.
+
+**Tasks most exposed to AI:**
+
+- Use AI for script sentiment analysis, scene matching, and automatic shooting plan generation
+- AI-assisted budget preparation, scheduling optimisation, and cost forecasting.
+- Automatically generate shooting permit applications, contract drafts, and other paperwork
+- AI editing tools automatically select best shots, rough cut, and color correction
+- AI-generated temporary visual effects and background music demos
+
+**Where AI augments the role:**
+
+- AI tools quickly generate multiple script variants, aiding creative decision-making.
+- AI audience analysis tools help predict market response to different casting choices and endings
+- AI monitors footage in real time, automatically flagging technical issues (e.g., focus, exposure).
+- Tedious tasks like automatic rotoscoping and face replacement in AI-assisted post-production.
+- AI-driven virtual production (real-time rendering on LED walls), reducing location costs
+
+**Human moat:**
+
+- team leadership and cross-departmental communication skills
+- Artistic intuition and original creative decision-making
+- Flexible handling of on-site emergencies (e.g., weather, actor emotions)
+- Interpretation of deep emotional and social connotations of scripts
+
+**Skills to build:**
+
+- AI script analysis and screenwriting tools (e.g., ChatGPT, Final Draft AI plugins)
+- Virtual production technology (Unreal Engine, real-time rendering)
+- Data analysis basics (audience preferences, box office prediction models)
+- AI video editing software (e.g., DaVinci Resolve AI features, Adobe Premiere Pro Sensei)
+- Project management and remote collaboration tools (Asana, Frame.io)
+
+**Key growth areas:**
 
 - Streaming boom
 - Local content production
@@ -65,66 +99,68 @@ Direct and oversee creative and artistic aspects of film, television, theater pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit as employee） | 受雇于西班牙制作公司，需公司担保，适用于固定职位。 |
-| Subclass Cuenta propia（Self-employment visa） | 自由职业导演可申请，需证明商业计划及足够收入。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，但导演通常难以满足薪资标准（年薪需约33,908欧元）。 |
+| Subclass Cuenta ajena (Work permit as employee) | Employed by a Spanish production company, requires company sponsorship, suitable for fixed positions. |
+| Subclass Cuenta propia (Self-employment visa) | Freelance directors can apply, but must prove a business plan and sufficient income. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, but directors often struggle to meet salary standards (annual salary is about 33,908 euros). |
+
+**PR friendliness: low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Film, Theater and Related Directors？**
-- 具有强烈艺术表达欲和叙事能力的创意人才
-- 能承受高压项目制工作、适应自由职业模式者
-- 具备领导力和团队协作能力的综合型人才
+**Who is suited**
+- Creative talents with a strong desire for artistic expression and narrative ability
+- Able to handle high-pressure project-based work and adapt to the freelance model
+- A well-rounded talent with leadership and teamwork skills
 
-**谁不适合学Film, Theater and Related Directors？**
-- 追求稳定9-5工作节奏者
-- 不愿长期面对收入不确定性和行业竞争压力者
+**Who is not suited**
+- Those who pursue a stable 9-to-5 work rhythm
+- Those unwilling to face long-term income uncertainty and industry competition pressures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of Spanish directors?**
+A: Junior director: approx. €18,000-30,000, mid: €30,000-50,000, senior/well-known: €50,000-120,000. Income heavily depends on project scope and reputation.
+
+**Q: How can non-EU directors immigrate to Spain?**
+A: The main pathway is to be employed by a Spanish production company (Cuenta ajena) or apply for a self-employment visa (Cuenta propia) as a freelancer. The EU Blue Card has limited applicability due to higher salary requirements.
+
+**Q: Do directors need academic credentials?**
+A: Directors are not regulated professions, and academic credentials are not mandatory. But the industry norm is to have a degree or training in a film field, along with a solid portfolio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 极高（★★★★½） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Film, Theater and Related Directors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for directors in Spain?**
-答：Entry-level directors earn about 18,000-30,000 EUR, mid-level 30,000-50,000 EUR, and high-profile directors can reach 50,000-120,000 EUR annually. Income heavily depends on project scale and reputation.
-
-**问：How can non-EU directors immigrate to Spain?**
-答：Main paths are being hired by a Spanish production company (Cuenta ajena) or applying for a self-employment visa (Cuenta propia). The EU Blue Card has limited applicability due to high salary requirements.
-
-**问：Is degree homologation required for directors?**
-答：Directing is not a regulated profession, so homologation is not mandatory. However, a film-related degree or training and a strong portfolio are standard in the industry.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Building Structure Cleaners（Building Structure Cleaners）职业分析 · IT
+# Building Structure Cleaners — career analysis · Italy
 
-**职业代码：7133 – Building Structure Cleaners。**
+**Occupation code: 7133 (ISCO08)**
 
-Building structure cleaners clean exterior and interior surfaces of buildings, including glass facades, walls, and roofs.
+Building structure cleaners clean the exterior and interior surfaces of buildings, including glass curtain walls, facades, and roofs.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 6个月 | $1,000~$3,000（包括安全培训课程） |
-| 高中文凭 | 无需 | —（通常要求初中及以上学历） |
+| Vocational training | 6 months. | $1,000~$3,000 (Includes safety training courses) |
+| High school diploma | None | $0~$0 (Usually requires junior high school education or above) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业安全认证 | INAIL | 必备 | 法律要求 |
-| 脚手架搭建培训 | 各区域劳动局 | 可选 | 部分雇主要求 |
-| 危险化学品操作证 | ISPESL | 可选 | 如使用化学清洁剂 |
+| Certification for working at heights | INAIL | Required | Legal requirement |
+| Scaffolding erection training | Regional labor offices | Optional | Some employers require |
+| Dangerous Chemicals Operation Certificate | ISPESL | Optional | If using chemical cleaning agents |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利建筑业稳定发展，城市维护需求持续，预计就业机会平稳增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Stable development in Italy's construction industry, with ongoing urban maintenance needs, leading to steady job growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班费 |
-| 中级（3-8年） | $22,000~$28,000 | 税前年薪，含津贴 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含团队管理职责 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual salary before tax, including overtime pay |
+| Mid-level (3–8 years) | $22,000~$28,000 | Annual pre-tax salary, including allowances |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, including team management responsibilities |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通清洁工晋升为团队主管或特种清洁技术员，掌握高空作业技能后薪资提升显著。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Building structure cleaners face automation compression risk. Tasks like exterior cleaning may be replaced by drones and robots, but tasks requiring licenses and liability insurance still retain human roles.
+
+Can be promoted from general cleaner to team supervisor or special cleaning technician, with significant salary increase after acquiring high-altitude work skills.
+
+**Tasks most exposed to AI:**
+
+- Clean exterior walls using high-pressure water jets or chemical agents
+- Clean glass curtain walls with high-altitude rope work
+- Roof debris removal and simple maintenance
+- Periodic repetitive facade cleaning
+
+**Where AI augments the role:**
+
+- AI plans cleaning routes and optimizes chemical ratios.
+- UAV inspection to identify dirty areas
+- Digital twin simulation of cleaning effectiveness
+- Precise application of cleaning agents by automatic spraying equipment
+- Real-time sensor feedback adjusts cleaning intensity.
+
+**Human moat:**
+
+- Flexible judgment in handling complex stains (e.g., bird remains, oil stains)
+- Safety risk assessment and emergency rescue capabilities
+- Communicating with customers to customize cleaning solutions
+- Professional responsibility requiring a high-altitude work permit
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- Fundamentals of programming smart cleaning equipment
+- AI image recognition for stain analysis
+- High-altitude work safety regulations updated
+- Low-voltage fault troubleshooting and basic repairs.
+
+**Key growth areas:**
 
 - urban maintenance
 - facade restoration
@@ -64,66 +97,68 @@ Building structure cleaners clean exterior and interior surfaces of buildings, i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，每年有名额限制，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可，需雇主申请，审核居留和工作条件。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工人，通常要求大学学历，本职业一般不适用。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, annual quota applies, requires employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit requires employer application, reviewing residence and working conditions. |
+| Subclass EU Blue Card (EU Blue Card) | Targeted at high-skilled workers, usually requiring a university degree; this occupation generally does not apply. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Building Structure Cleaners？**
-- 身体健康、不恐高者
-- 喜欢户外工作、动手能力强的人
-- 寻求稳定低门槛就业者
+**Who is suited**
+- Physically fit and not afraid of heights
+- People who enjoy outdoor work and are hands-on
+- For those seeking stable employment with low entry barriers
 
-**谁不适合学Building Structure Cleaners？**
-- 对高空作业恐惧者
-- 追求高薪和快速晋升者
+**Who is not suited**
+- Those with a fear of heights
+- Those pursuing high salary and rapid advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of building structure cleaners in Italy?**
+A: Junior pre-tax annual salary approx. €18,000-€22,000, senior up to €35,000, depending on experience and skills.
+
+**Q: How can non-EU citizens obtain a work visa as a building structure cleaner in Italy?**
+A: The main pathway is through the Decreto Flussi quota work visa, requiring employer sponsorship and meeting quota requirements.
+
+**Q: What mandatory certifications are required to work in this occupation?**
+A: Must obtain safety certification for working at heights (INAIL); others like scaffolding training certificate are not mandatory but beneficial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Building Structure Cleaners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of building structure cleaners in Italy?**
-答：Junior annual salary ranges from 18,000 to 22,000 EUR, senior up to 35,000 EUR, depending on experience.
-
-**问：How can non-EU citizens obtain a work visa for building structure cleaners in Italy?**
-答：The main route is the Decreto Flussi work visa, requiring employer sponsorship and quota availability.
-
-**问：What mandatory certifications are required for this occupation?**
-答：Mandatory height safety certification (INAIL); others like scaffolding training are optional but beneficial.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

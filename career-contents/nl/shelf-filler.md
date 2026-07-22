@@ -1,58 +1,93 @@
-# Shelf Filler（Shelf Filler）职业分析 · NL
+# Shelf Filler — career analysis · Netherlands
 
-**职业代码：9334 – Shelf Filler。**
+**Occupation code: 9334 (ISCO08)**
 
-Shelf fillers stock merchandise on shelves in retail stores, ensuring products are well-organized and fully stocked. It is an entry-level role requiring physical stamina and basic organizational skills.
+Shelf stockers are responsible for placing goods on shelves in retail environments such as supermarkets and stores, ensuring adequate inventory and tidy displays. This position is typically entry-level and requires physical labor and basic organizational skills.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常无需特定学历，雇主提供在职培训） |
+| No formal education required | None | $0~$0 (Usually no specific degree required, employers provide on-the-job training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 荷兰法律不要求特定资格，但雇主可能偏好有零售经验者 |
+| No mandatory certificate | None | Optional | Dutch law does not require specific qualifications, but employers may prefer retail experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰零售业就业稳定，货架补货员需求受消费市场驱动，但自动化库存系统可能减少部分岗位。整体前景平稳，流动性高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Retail employment in the Netherlands is stable, with shelf-filler demand driven by the consumer market, but automated inventory systems may reduce some positions. Overall outlook is steady with high turnover.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按最低工资标准支付 |
-| 中级（3-6年） | $26,000~$30,000 | 可能包括加班补贴 |
-| 高级（6年以上） | $30,000~$35,000 | 若晋升至主管级别，薪资可达此范围 |
+| Median salary | $22,131 | Median salary (official: CBS median hourly wage €11.2/hour × 1976 hours annualized, BRC group 1221 Loaders, unloaders and shelf fillers; P25–P75 €13,634–€33,790, CBS 2024) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually paid at minimum wage |
+| Mid-level (3–6 years) | $26,000~$30,000 | May include overtime allowance |
+| Senior (6+ years) | $30,000~$35,000 | If promoted to supervisor level, salary can reach this range |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 货架补货员可晋升为部门主管、仓库主管或采购助理。通常需要积累零售经验和基本管理技能，部分雇主提供内部培训。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+For shelf fillers, AI and automation will compress entry-level positions but enhance core tasks; workers must shift to complex inventory management and customer service or risk replacement.
+
+Shelf filler can advance to department supervisor, warehouse supervisor or purchasing assistant. Typically need retail experience and basic management skills; some employers provide internal training.
+
+**Tasks most exposed to AI:**
+
+- Conduct inventory counts using handheld scanning devices
+- Move goods from the back warehouse to shelves according to preset rules
+- Detect shelf gaps and trigger automatic restocking orders.
+- Generate and print price tags and promotional labels.
+
+**Where AI augments the role:**
+
+- Optimize replenishment routes and timing through AI systems to improve efficiency
+- Dynamically adjust display strategies using real-time sales data
+- Quickly identify out-of-stock locations using augmented reality (AR) devices
+- Predict seasonal demand changes by analyzing historical data with AI
+- Using mobile robots to assist with moving heavy objects, reducing physical exertion
+
+**Human moat:**
+
+- Handle special customer inquiries and personalized needs.
+- Flexibly handle emergencies (e.g., damaged goods, temporary promotions)
+- Artistic arrangement to maintain shelf aesthetics and brand image
+- Coordinate with suppliers on new product launch and return processes.
+- Monitor perishable product shelf life and make quality judgments
+
+**Skills to build:**
+
+- Inventory management software (e.g., Oracle NetSuite, SAP) operation
+- Basic data analysis and visualization (Excel, Power BI)
+- Use of retail AI tools (e.g., automated replenishment systems)
+- Human-Machine Collaboration and Robot Operation Basics
+- Customer service and communication skills
+- Supply Chain Basics
+
+**Key growth areas:**
 
 - Stable demand
 - Retail automation
@@ -61,62 +96,67 @@ Shelf fillers stock merchandise on shelves in retail stores, ensuring products a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业生或全球前200大学毕业生可在毕业后一年内寻找工作，无需工作许可即可从事任何工作，包括货架补货员。 |
-| Subclass EU Free Movement（EU/EEA Citizen Free Movement） | 欧盟/欧洲经济区公民无需签证即可在荷兰自由工作和居住。 |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Dutch graduates or graduates from the world's top 200 universities can search for jobs for up to one year after graduation without a work permit, and can work in any job, including shelf stocking. |
+| Subclass EU Free Movement (EU/EEA Citizen Free Movement) | EU/EEA citizens can work and live in the Netherlands freely without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shelf Filler？**
-- 体力好、能长时间站立和行走的人
-- 注重细节、喜欢整洁陈列的人
-- 希望快速就业或兼职的求职者
+**Who is suited**
+- Physically fit individuals able to stand and walk for long periods
+- People who pay attention to detail and enjoy neat displays
+- Job seekers looking for quick employment or part-time work
 
-**谁不适合学Shelf Filler？**
-- 寻求高薪或长远职业发展者
-- 偏好脑力劳动而非体力工作者
+**Who is not suited**
+- Seeking high salary or long-term career development
+- Those who prefer mental work over physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a shelf restocker?**
+A: Entry-level position annual salary approx. €22,000-26,000, mid-level approx. €26,000-30,000, senior or supervisor can reach €30,000-35,000. Usually paid according to Dutch minimum wage, may include overtime allowance.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Shelf fillers do not meet the requirements for highly skilled migrants or the EU Blue Card due to low salary thresholds. However, graduates holding an Orientation Year visa or EU citizens can work freely in this occupation.
+
+**Q: Is there room for advancement for shelf fillers?**
+A: Yes. Internal promotion to department supervisor, warehouse manager, or purchasing assistant is possible, typically requiring 1-3 years of experience and management training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shelf Filler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for shelf fillers?**
-答：Entry-level salaries range from €22,000 to €26,000 per year, intermediate from €26,000 to €30,000, and senior/supervisor level can reach €30,000-€35,000. Pay is typically based on the Dutch minimum wage, with possible overtime allowances.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Shelf filler does not meet the requirements for Highly Skilled Migrant or EU Blue Card due to low salary. However, graduates with an Orientation Year visa or EU/EEA citizens can work freely.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

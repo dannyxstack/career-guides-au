@@ -1,60 +1,96 @@
-# Chemical Technical Engineer（Chemical Technical Engineer）职业分析 · ES
+# Chemical Technical Engineer — career analysis · Spain
 
-**职业代码：2465 – Chemical Technical Engineer。**
+**Occupation code: 2465 (CNO)**
 
-Chemical Technical Engineers design, optimize, and monitor chemical processes to ensure safe, efficient, and environmentally compliant production. They work in chemical, pharmaceutical, and energy industries, bridging R&D and industrial operations.
+Chemical technology engineers are responsible for the design, optimization, and monitoring of chemical processes, ensuring production is safe, efficient, and compliant with environmental standards. They work in industries such as chemicals, pharmaceuticals, and energy, serving as bridges between research and industrial production.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado en Ingeniería Química） | 4年 | $1,000~$2,500（公立大学学费） |
-| 硕士（Máster en Ingeniería Química） | 1-2年 | $1,500~$4,000（部分硕士更专业） |
-| 高级职业培训（FP Grado Superior en Química） | 2年 | $500~$1,500（更侧重实践） |
+| Underfamily (Grado en Ingeniería Química) | 4 years | $1,000~$2,500 (Public university tuition) |
+| Master's Degree (Máster en Ingeniería Química) | 1-2 years | $1,500~$4,000 (Some master's programs are more specialized) |
+| Advanced Vocational Training (FP Grado Superior en Química) | 2 years | $500~$1,500 (It places greater emphasis on practical application) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学工程本科学位 | 西班牙大学 | 必备 | 需完成4年制Grado |
-| 官方资质注册（Colegio Oficial） | 西班牙官方工程师协会 | 可选 | 非强制但利于执业 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
+| Bachelor's degree in Chemical Engineering | Spanish University | Required | Completion of the 4-year Grado program is required |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
+| Official Qualification Registration (Colegio Oficial) | Spanish Official Engineers' Association | Optional | It is not mandatory but beneficial for practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。西班牙化工行业稳步发展，受能源转型与绿色化工推动，对化工技术工程师需求稳定。2023年就业率达85%以上，且老龄化导致替换需求增加。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Spain's chemical industry is steadily developing, driven by energy transition and green chemicals, resulting in a steady demand for chemical engineers. In 2023, the employment rate exceeded 85%, and an aging population led to increased replacement demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径清晰：初级工程师→项目主管→技术经理→工厂总监。也可向研发、环保咨询或学术领域发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
+
+Career advancement paths are clear: junior engineer→ project supervisor→ technical manager→ plant director. You can also develop into research and development, environmental consulting, or academia.
+
+**Tasks most exposed to AI:**
+
+- Drawing routine process flow diagrams and piping and instrumentation diagrams
+- Optimization calculation of reactor yield based on historical data
+- Generate draft standardized safety assessment reports
+- Routine laboratory experiment design and data recording
+- Generate equipment specifications and purchase orders
+
+**Where AI augments the role:**
+
+- Accelerate catalyst design and molecular simulation with AI to shorten R&D cycles
+- Using machine learning to predict equipment corrosion rates and optimize maintenance schedules
+- AI-assisted real-time monitoring and anomaly detection improve process safety.
+- Simulating Process Change Impacts Using Digital Twins to Reduce Trial Costs
+- Automatically generating multiple project options and comparing economic indicators to aid decision-making
+
+**Human moat:**
+
+- Innovation in complex chemical process mechanisms and novel reaction route design
+- Cross-Disciplinary (Mechanical, Electrical, Environmental) System Integration and Trade-offs
+- Instantaneous judgment and physical intervention under emergency accident conditions
+- Deep understanding of customer needs and customization of bespoke process solutions
+- Responsibility and accountability in safety, environmental, and ethical decisions
+
+**Skills to build:**
+
+- AI-assisted process simulation (Aspen Plus + ML)
+- Big data analysis and machine learning (Python/SciKit-learn)
+- Digital twin platform (AVEVA/Siemens) operation
+- Process control and automation (DCS/PLC basics)
+- Interdisciplinary communication and project management (PMP)
+- Sustainable design (carbon capture, green hydrogen processes)
+
+**Key growth areas:**
 
 - Green Chemistry
 - Energy Transition
@@ -63,68 +99,67 @@ Chemical Technical Engineers design, optimize, and monitor chemical processes to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能工作者，要求大学学历+工作合同，薪资门槛约€33,908（2023） |
-| Subclass Altamente cualificad（Highly Skilled Professional） | Ley 14/2013，适合科技/工程类，快速通道 |
-| Subclass Cuenta ajena（Employed Work Permit） | 标准工作居留，需雇主担保 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled workers, university degree + employment contract is required, with a salary threshold of approximately €33,908 (2023) |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Ley 14/2013, suitable for technology/engineering fields, fast track |
+| Subclass Cuenta ajena (Employed Work Permit) | Standard work residence requires employer sponsorship |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical Technical Engineer？**
-- 对化学与工程有浓厚兴趣的人
-- 喜欢解决实际工业问题的人
-- 愿意在化工、能源等行业工作的人
-
-**谁不适合学Chemical Technical Engineer？**
-- 不习惯工厂环境与倒班的人
-- 对高度规范化流程感到枯燥的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in chemistry and engineering
+- People who like to solve real industrial problems
+- People willing to work in industries such as chemicals and energy
+
+**Who is not suited**
+- People who are not used to factory environments and shift shifts
+- People who find highly standardized processes tedious
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemical technology engineers in Spain?**
+A: Entry-level approx. €24,000-32,000, mid-level €32,000-45,000, senior up to €60,000. Large chemical companies pay higher.
+
+**Q: How can non-EU citizens immigrate to Spain to become chemical technology engineers?**
+A: You can use the EU Blue Card (work contract + degree) or the Highly Skilled Professional visa (Ley 14/2013). Academic credentials (Homologación) are required.
+
+**Q: What is the outlook for this profession in Spain?**
+A: Benefiting from green chemical and energy transition, demand is steadily growing. High employment rate, clear career progression.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Chemical Technical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Chemical Technical Engineers in Spain?**
-答：Junior: €24k-€32k, Mid: €32k-€45k, Senior: up to €60k. Larger chemical firms pay more.
-
-**问：How can non-EU citizens immigrate to Spain as Chemical Technical Engineers?**
-答：Via EU Blue Card (job offer + degree) or Highly Skilled Professional visa (Ley 14/2013). Requires homologación of foreign degree.
-
-**问：What are the prospects for this occupation in Spain?**
-答：Driven by green chemistry and energy transition, demand is growing. High employment rate and clear career progression.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

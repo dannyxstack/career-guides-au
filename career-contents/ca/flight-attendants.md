@@ -1,59 +1,95 @@
-# Flight Attendants（Flight Attendants）职业分析 · 加拿大
+# Flight Attendants — career analysis · Canada
 
-**职业代码：64311 – Flight Attendants。**
+**Occupation code: 64311 (NOC)**
 
-Flight attendants in Canada fall under NOC 64311, ensuring cabin safety and passenger service. This occupation is eligible for skilled migration via Express Entry or Provincial Nominee Program, requiring adequate language and education. Airlines like Air Canada and WestJet actively recruit, valuing multilingual skills.
+Flight attendants in Canada are classified under NOC 64311, responsible for cabin safety and passenger service. This occupation can use Express Entry or Provincial Nominee Programs for immigration, but language and education requirements must be met. Canadian airlines such as Air Canada and WestJet continuously recruit, and multilingual skills are advantageous.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（免费公立教育） |
-| 大学或学院文凭 | 2-4年 | $15,000~$40,000（国际学生学费较高，但高中后即可应聘） |
+| High school diploma | 12 years | $0~$0 (Free public education) |
+| University or college diploma | 2-4 years | $15,000~$40,000 (International student tuition is higher, but can apply after high school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 加拿大各省教育部 | 必备 | 最低学历要求 |
-| 乘务员初始培训 | 航空公司 | 必备 | 受雇后参加，约6周，费用由公司承担 |
-| 语言能力证明 | IELTS或CELPIP | 可选 | 移民需CLB 7，工作至少CLB 5 |
+| High school diploma | Provincial/territorial ministries of education in Canada | Required | Minimum Education Requirement |
+| Flight attendant initial training | Airline | Required | Attended after employment, about 6 weeks, cost covered by the company |
+| Language proficiency proof | IELTS or CELPIP | Optional | Immigration requires CLB 7, work requires at least CLB 5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 17,000。加拿大航空业稳步复苏，国内和国际航线需求回升，预计未来5年岗位增长约5%。主要雇主包括加航、西捷、越洋航空等，竞争中等，但多语种（如普通话、法语）应聘者更具竞争优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 17,000. Canada's aviation industry is steadily recovering, with domestic and international route demand rising; estimated job growth of about 5% over next 5 years. Major employers include Air Canada, WestJet, Air Transat, etc. Competition is moderate, but multilingual candidates (e.g., Mandarin, French) have a competitive edge.
 
-**竞争度：中等偏低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 新乘务员（国际航线略高） |
-| 中级（3-7年） | $50,000~$70,000 | 资深乘务员 |
-| 高级（7年以上） | $70,000~$95,000 | 乘务长或主管 |
+| Median salary | $65,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$50,000 | New flight attendant (slightly higher for international routes) |
+| Mid-level (3–7 years) | $50,000~$70,000 | Senior flight attendant |
+| Senior (7+ years) | $70,000~$95,000 | Chief purser or supervisor |
+| average salary | $79,040 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级乘务员可晋升为资深乘务员、乘务长，部分转入地面管理或培训岗位。发展路径清晰，但需积累飞行小时和服务经验，高级职位通常需5年以上经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on flight attendant roles is mixed: automation can handle administrative tasks like booking and documentation, but core safety and emotional service are hard to replace, overall risk is moderate.
+
+Junior flight attendants can advance to senior flight attendant, purser, or transition to ground management or training roles. Career path is clear but requires accumulating flight hours and service experience; senior positions typically need 5+ years of experience.
+
+**Tasks most exposed to AI:**
+
+- In-flight meal and duty-free inventory management and automated stocktaking
+- Passenger document verification and self-check-in guidance before boarding
+- Routine safety demonstration video playback replaces manual demonstrations
+- Automatic generation and push of standard notifications for flight delays/cancellations
+- AI handling of passenger complaint classification and initial responses
+
+**Where AI augments the role:**
+
+- AI-assisted real-time translation tools enhance multilingual service capabilities
+- Smart health monitoring system assists in identifying sudden illnesses in travelers
+- Data analytics optimizes personalized passenger services and satisfaction.
+- VR training systems improve emergency drill efficiency
+- AI scheduling systems allocate flight tasks more fairly and efficiently.
+
+**Human moat:**
+
+- On-the-spot judgment and handling of in-cabin safety incidents (e.g., hijacking, medical emergencies).
+- Emotional labor and empathetic communication to calm anxious passengers
+- Cross-cultural sensitivity and personalized service (e.g., special dietary needs)
+- Team collaboration and leadership for coordinated command in emergencies
+- Creative problem-solving in non-standard scenarios (e.g., passenger conflict mediation)
+
+**Skills to build:**
+
+- Learn to use cabin AI interaction systems and data dashboards.
+- Basic knowledge of first aid and mental health
+- Enhance cross-cultural communication and third language skills
+- Studying aviation safety management and crisis simulation drills
+- Cultivate digital literacy: online passenger service and feedback analysis
+- Obtain additional certifications for aviation safety officers or emergency management
+
+**Key growth areas:**
 
 - Airline recovery
 - Multilingual demand
@@ -62,65 +98,64 @@ Flight attendants in Canada fall under NOC 64311, ensuring cabin safety and pass
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 需满足工作经验、语言和学历要求；乘务员属TEER 4，需雇主LMIA或省提名加分 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安省、BC省有旅游/服务业提名项目，需雇主offer |
-| Subclass AIP（Atlantic Immigration Program） | 海洋四省航空业雇主担保，适合在该地区找到工作 |
+| Subclass EE (Express Entry (FSW/CEC)) | Must meet work experience, language, and education requirements; flight attendant is TEER 4, requiring employer LMIA or provincial nomination points |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and BC have tourism/service industry nomination programs requiring a job offer. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Canada aviation industry employer sponsorship, suitable for those with a job offer in the region |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Flight Attendants？**
-- 具备良好沟通能力和服务意识，能适应倒班和长时间站立的求职者。
-- 拥有第二外语（如普通话、法语）的人员，在加拿大航空业更具优势。
-- 有志于通过工作逐步移民加拿大，愿意从初级岗位做起的人。
-
-**谁不适合学Flight Attendants？**
-- 无法接受不规律作息、高压环境和频繁出差者不适合。
-- 缺乏耐心和团队合作精神，难以应对紧急情况者不建议从事。
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Job seekers with good communication skills and service awareness, able to adapt to shifts and long periods of standing.
+- Having a second foreign language (e.g., Mandarin, French) offers advantages in Canada's aviation industry.
+- People aspiring to gradually immigrate to Canada through work, willing to start from junior positions.
+
+**Who is not suited**
+- Those unable to tolerate irregular schedules, high-pressure environments, or frequent travel are not suitable.
+- Not recommended for those lacking patience and teamwork skills, or unable to handle emergencies.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for flight attendants in Canada?**
+A: Entry-level flight attendant annual salary about CAD 35,000-50,000, mid-level CAD 50,000-70,000, senior (e.g., purser) up to CAD 70,000-95,000. International routes usually pay more, but flight hour rates should be considered.
+
+**Q: Can a flight attendant immigrate to Canada through Express Entry?**
+A: Yes, but note that NOC 64311 is a TEER 4 occupation, requiring high CRS scores in EE (usually LMIA or provincial nomination points). It is recommended to work on a work permit first then apply for PNP, or have a spouse as the main applicant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等偏低（★½☆☆☆） |
-| 考证难度 | 易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Flight Attendants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for flight attendants in Canada?**
-答：Entry-level flight attendants earn CAD 35,000-50,000/year; mid-level CAD 50,000-70,000; senior (e.g., purser) CAD 70,000-95,000. International routes may pay more, but hourly pay varies.
-
-**问：Can flight attendants immigrate to Canada via Express Entry?**
-答：Yes, but NOC 64311 is TEER 4, requiring high CRS score (often with LMIA or PNP nomination). It's advisable to work first with a work permit, then apply for PNP or have a spouse as principal applicant.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

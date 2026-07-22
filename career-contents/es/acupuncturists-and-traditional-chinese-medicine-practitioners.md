@@ -1,62 +1,98 @@
-# Acupuncturists and Traditional Chinese Medicine Practitioners（Acupuncturists and Traditional Chinese Medicine Practitioners）职业分析 · ES
+# Acupuncturists and Traditional Chinese Medicine Practitioners — career analysis · Spain
 
-**职业代码：3331 – Acupuncturists and Traditional Chinese Medicine Practitioners。**
+**Occupation code: 3331 (CNO)**
 
-Professionals in acupuncture, naturopathy, homeopathy, traditional Chinese medicine, and Ayurveda in Spain, typically working in private clinics or health centers.
+Professionals practicing acupuncture, naturopathy, homeopathy, traditional Chinese medicine, and Ayurveda in Spain usually provide services through private clinics or health centers.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$5,000（公立大学年学费） |
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$3,000（公立FP中心年学费） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$10,000（私立大学或课程） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$5,000 (Annual tuition at public universities) |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$3,000 (Annual tuition fees for public FP centers) |
+| Máster | 1-2 years (Máster) | $2,000~$10,000 (Private universities or courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 针灸师/中医师资格认证 | 西班牙针灸与传统中医协会（AETC） | 可选 | 行业认可证书，非强制但增加就业竞争力 |
-| 自然疗法或顺势疗法文凭 | 各类私立院校 | 可选 | 部分专业协会认证课程 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 若持有外国学历，需通过学历认证方可从事 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | If you hold a foreign degree, you must pass academic certification before you can work |
+| Acupuncturist/Traditional Chinese Medicine Practitioner Qualification Certification | Spanish Association of Acupuncture and Traditional Chinese Medicine (AETC) | Optional | Industry recognition certificates, non-mandatory but enhancing employment competitiveness |
+| A diploma in naturopathy or homeopathy | Various types of private institutions | Optional | Some professional association certified courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 1,500。随着替代医学和健康意识提升，西班牙对非西医疗法的需求缓慢增长，但就业机会有限，竞争主要来自已执业者。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,500. With the rise of alternative medicine and health awareness, Spain's demand for non-Western medical practices has grown slowly, but job opportunities are limited, and competition mainly comes from those already practicing.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，通常兼职或按次收费 |
-| 中级（4-7年） | $24,000~$36,000 | 税前年薪，有稳定客户群 |
-| 高级（8年以上） | $36,000~$50,000 | 税前年薪，开设诊所或知名专家 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, usually part-time or charged per use |
+| Mid-level (4-7 years) | $24,000~$36,000 | Pre-tax annual salary, with a stable client base |
+| Senior (8+ years) | $36,000~$50,000 | Pre-tax annual salary, opening a clinic or a well-known specialist |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★☆☆）。** 职业路径可从诊所基础岗位晋升到高级治疗师或开设自己的诊所，也可以通过继续教育拓展至教学或科研领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on acupuncturists and traditional Chinese medicine practitioners is mixed: some tasks such as diagnostic assistance and paperwork may be automated, but core links like personalized treatment, manual therapy, and doctor-patient trust are hard to replace.
+
+Career paths can be advanced from basic clinic positions to senior therapists or open their own clinics, or further education can expand into teaching or research.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation of patient history records and basic consultation reports
+- Preliminary diagnostic recommendations and syndrome differentiation based on the symptom database
+- Literature search and evidence matching for treatment plans
+- Standardized health education in remote consultations
+- Scheduling and payment for administrative tasks
+
+**Where AI augments the role:**
+
+- Using AI to assist the four diagnostic methods (such as tongue diagnosis and pulse diagnosis image analysis) improves syndrome differentiation accuracy
+- Intelligently recommends personalized acupuncture point combinations and traditional Chinese medicine formulas
+- Remotely track patient efficacy and dynamically adjust regimens through wearable devices
+- AI-driven evidence-based medicine tools assist in developing multimodal treatment plans for complex cases
+- Automatically generates treatment records and informed consent documents, saving time for patient communication
+
+**Human moat:**
+
+- Personalized syndrome differentiation, treatment, and manual operation based on a holistic view of traditional Chinese medicine
+- Establish long-term, trusting doctor-patient relationships and emotional support
+- Combining experience and intuitive judgment when dealing with chronic complex diseases
+- Dynamic comprehensive assessment of patients' constitution, emotions, and lifestyle habits
+- Acupuncture, tuina, and other physical operations that require both tactile and physical sensations
+
+**Skills to build:**
+
+- Learn how to operate and interpret AI-assisted diagnostic tools (such as four-diagnostic instruments and tongue analysis software).
+- Master basic data analysis skills and understand patient treatment data trends
+- Enhance cross-cultural communication skills to address diverse patient groups
+- Learn how to use telemedicine platforms and online health management skills
+- Strengthen clinical research design capabilities and optimize plans using real-world data
+- Learn evidence-based practices in integrative medicine (integrated Chinese and Western medicine).
+
+**Key growth areas:**
 
 - Alternative Medicine
 - Wellness Tourism
@@ -65,69 +101,68 @@ Professionals in acupuncture, naturopathy, homeopathy, traditional Chinese medic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 受雇于西班牙诊所或健康中心，由雇主担保工作居留。 |
-| Subclass Cuenta propia（Self-Employed Work Permit） | 作为自雇人士开设诊所，需证明经济能力及专业资格。 |
-| Subclass Alta cualificación（Highly Qualified Professional） | 若学历符合高技能标准（欧盟蓝卡），但中医师通常不属紧缺。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Employed by a clinic or health center in Spain, with employer-sponsored work residency. |
+| Subclass Cuenta propia (Self-Employed Work Permit) | To run a clinic as a self-employed person, you must prove your financial capability and professional qualifications. |
+| Subclass Alta cualificación (Highly Qualified Professional) | If the education meets the high-skill standard (EU Blue Card), but TCM practitioners are usually not in short supply. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Acupuncturists and Traditional Chinese Medicine Practitioners？**
-- 对替代医学有强烈兴趣并愿意长期学习者
-- 有中医或自然疗法背景，希望在欧洲实践者
-- 适应自雇或小型诊所工作模式者
-
-**谁不适合学Acupuncturists and Traditional Chinese Medicine Practitioners？**
-- 追求高收入和稳定就业者
-- 不愿投入多年学习认证者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in alternative medicine and willingness to study long-term
+- Those with a background in traditional Chinese medicine or natural therapy who wish to practice in Europe
+- Those who are suited to self-employment or small clinic work modes
+
+**Who is not suited**
+- Seeking high incomes and stable employment
+- Applicants who are unwilling to invest years of learning for certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an acupuncturist in Spain?**
+A: Entry-level salaries are about 18,000-24,000 euros per year, intermediate salaries 24,000-36,000 euros per year, and seniors can earn up to 50,000 euros per year, but most are self-employed.
+
+**Q: Can foreign TCM practitioners immigrate to Spain?**
+A: Yes, but you need academic certification (Homologación) and proof of finding an employer or self-employment. It's not a high-demand occupation and is more challenging.
+
+**Q: What educational qualifications are required to practice acupuncture in Spain?**
+A: Usually, a Grado or FP Superior-related degree is required, as well as professional association certification, while foreign degrees must be recognized by the Ministry of Education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定增长（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Acupuncturists and Traditional Chinese Medicine Practitioners为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for acupuncturists in Spain?**
-答：Entry-level €18,000-24,000/year, mid-level €24,000-36,000/year, senior up to €50,000/year, mostly self-employed.
-
-**问：Can foreign TCM practitioners immigrate to Spain?**
-答：Yes, but require degree homologation and a job offer or self-employment proof; not a shortage occupation, so difficult.
-
-**问：What education is required to practice acupuncture in Spain?**
-答：A relevant Grado or FP Superior degree and professional certification; foreign degrees must be homologated.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

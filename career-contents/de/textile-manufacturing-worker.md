@@ -1,58 +1,93 @@
-# Textile Manufacturing Worker（Textile Manufacturing Worker）职业分析 · DE
+# Textile Manufacturing Worker — career analysis · Germany
 
-**职业代码：2812 – Textile Manufacturing Worker。**
+**Occupation code: 2812 (KldB)**
 
-Textile manufacturing workers operate machines to produce fabrics, yarns, and textiles, including spinning, weaving, knitting, and finishing processes. They work mainly in textile mills and garment factories.
+Textile manufacturing workers operate machines to produce fabrics, yarns, and textiles, including spinning, weaving, knitting, and finishing processes. Work mainly in textile mills and garment factories, a traditional manufacturing industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（双元制培训期间有工资，无学费） |
-| 纺织技师进修 | 1-2年（全职） | $2,000~$5,000（州立学校收费低，私立学校较高） |
+| Dual vocational training | 3 years (dual system) | $0~$0 (Dual system training includes a salary, no tuition fees) |
+| Textile technician further training | 1-2 years (full-time) | $2,000~$5,000 (Public schools have low fees, private schools are higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织制造工人职业资格证书 | 德国工商业联合会 (IHK) | 必备 | 通过双元制培训后的结业考试 |
-| 外国学历认证 | 德国联邦职业资格认证局 (BQFG) | 必备 | 若海外学历需在德国认可 |
+| Vocational qualification certificate for textile manufacturing workers | German Chamber of Commerce and Industry (IHK) | Required | Passing the final exam after dual-system training |
+| Foreign degree recognition | German Federal Office for Professional Qualifications (BQFG) | Required | Overseas degrees must be recognized in Germany. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：偏低（★★☆☆☆）。** 全国从业人数约 75,000。德国纺织业面临自动化升级和海外竞争，就业岗位缓慢减少，但技术熟练的工人仍有需求，尤其是在技术纺织品和功能性面料领域。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 75,000. The German textile industry faces automation upgrades and overseas competition, with employment slowly declining, but skilled workers remain in demand, especially in technical textiles and functional fabrics.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$32,000 | 培训后入职起薪 |
-| 中级（3-7年） | $33,000~$40,000 | 有经验工人 |
-| 高级（7年以上/技师） | $40,000~$50,000 | 技师或主管薪资 |
+| Median salary | $36,264 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $27,000~$32,000 | Starting salary after training |
+| Mid-level (3–7 years) | $33,000~$40,000 | Experienced workers |
+| Senior (7+ years / Technician). | $40,000~$50,000 | Technician or supervisor salary |
+| average salary | $39,492 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从业者可晋升为纺织技师或生产主管，也可通过进修转向技术纺织品研发或质量控制。部分人可成为纺织机械工程师。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Many repetitive tasks of textile manufacturing workers (e.g., operating textile machines, quality inspection) will be replaced by AI and automation systems, leading to significant reduction in job demand, though roles in machine maintenance and process optimization may see slight growth.
+
+Employees can advance to textile technician or production supervisor roles, or move into technical textile R&D or quality control through further study. Some can become textile machinery engineers.
+
+**Tasks most exposed to AI:**
+
+- Automatic textile machine operation and monitoring (AI adjusts parameters in real-time)
+- Visual inspection of fabric surface defects (AI image recognition)
+- Yarn Tension and Speed Adjustment (AI Closed-Loop Control)
+- Production Log Recording and Report Generation (AI Auto-Summary)
+- Simple dyeing and finishing process parameter setting (AI optimized formula).
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance (analyzing sensor data to predict faults).
+- Intelligent scheduling system optimizes production plans (AI adjusts dynamically based on orders and inventory)
+- Digital twin simulates process improvement (AI recommends optimal parameter combinations)
+- AI-assisted quality traceability (quickly locate problem batches and stages)
+- Remote expert system collaboration (AR+AI guided complex fault repair)
+
+**Human moat:**
+
+- Handling machine anomalies and shutdowns (requires hands-on diagnostic repair)
+- Flexible process adjustments for customized, small-batch textiles
+- Communicating special material requirements with suppliers and customers
+- Safety procedure execution and emergency response
+
+**Skills to build:**
+
+- Industrial robot operation and programming (e.g., PLC basics)
+- Use of data analysis and predictive maintenance tools
+- Digital twin or MES system operation
+- Statistical methods for quality management (SPC)
+- Basic English (reading equipment manuals)
+- Materials science knowledge (properties of new fibers)
+
+**Key growth areas:**
 
 - Automation
 - Technical Textiles
@@ -61,65 +96,64 @@ Textile manufacturing workers operate machines to produce fabrics, yarns, and te
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等学历且工资达标者，通常要求年薪不低于约43,800欧元（2024），纺织行业通常不达标。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 具有德国认可的职业资格或双元制培训证明，可申请技术移民签证。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制的求职机会卡，允许来德国找工作一年，需满足基本条件。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to those with higher education and meeting salary thresholds, typically requiring an annual salary of no less than about EUR 43,800 (2024). The textile industry usually does not meet this threshold. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Those with German-recognized vocational qualifications or dual-system training certificates can apply for a Skilled Migration visa. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job search opportunity card, allows coming to Germany to look for work for one year, must meet basic conditions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Textile Manufacturing Worker？**
-- 对制造工艺有耐心和手工技巧的人
-- 愿意接受双元制培训的年轻人
-- 希望稳定工作且不介意体力劳动的人
-
-**谁不适合学Textile Manufacturing Worker？**
-- 追求高收入或快速晋升的人
-- 不喜欢重复性或体力工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and manual skills for manufacturing processes
+- Young people willing to undergo dual-system training
+- For those seeking stable work and not minding physical labor
+
+**Who is not suited**
+- Those pursuing high income or rapid promotion
+- People who dislike repetitive or physical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for textile manufacturing workers?**
+A: Annual salary for German textile workers ranges from approximately EUR 27,000 to EUR 50,000, entry-level about EUR 27,000–32,000, senior technicians up to EUR 40,000–50,000.
+
+**Q: How can foreigners immigrate to Germany through textile work?**
+A: Requires completing recognized vocational training or overseas qualification assessment, then applying for a Skilled Worker Visa. The Opportunity Card can also be used to find work.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Textile Manufacturing Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for textile manufacturing workers?**
-答：Annual salary ranges from €27,000 to €50,000; entry-level €27,000-€32,000, senior technician €40,000-€50,000.
-
-**问：How can foreigners immigrate to Germany for textile work?**
-答：Need a recognized vocational qualification or foreign credential assessment, then apply for a Skilled Worker Visa. Opportunity Card is also an option.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,131 +1,169 @@
-# Cafe Worker（Cafe Worker）职业分析 · 新西兰
+# Cafe Worker — career analysis · New Zealand
 
-**职业代码：431211 – Cafe Worker。**
+**Occupation code: 431511 (ANZSCO)**
 
-Cafe workers in NZ handle orders, prepare beverages and light meals, operate cash registers, and maintain cleanliness. This role is typically filled via AEWV with limited skilled migration prospects, serving as a pathway to hospitality management.
+Baristas are central to New Zealand's coffee culture, responsible for making high-quality drinks. Cafe managers handle daily operations; this is a viable skilled migration path (Cafe Manager is ANZSCO 141111 and can apply for SMC or Green List Tier 2).
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业 | 无需学历 | —（通常无学历要求） |
-| 新西兰咖啡馆上岗证或短训班 | 2周至3个月 | $500~$2,000（培训班费用，含咖啡制作等技能） |
+| Short-term course (barista training) | 1-3 months. | $500~$1,500 (Private training schools or online courses, e.g., NZ Barista School) |
+| Certificate/diploma (hospitality management) | 6 months to 1 year | $5,000~$15,000 (Polytechnic or training institution, such as Toi Ohomai) |
+| Diploma (Hospitality Management) | 2 years | $20,000~$35,000 (Public polytechnic, such as Ara Institute of Canterbury) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书（Food Safety Certificate） | NZQA认可的培训机构 | 必备 | 通常要求持证上岗，培训1-2天 |
-| LCQ（酒类服务执照） | NZQA | 可选 | 如提供酒精饮品则需考取 |
-| 咖啡师培训证书 | 私立培训机构 | 可选 | 提升竞争力，非强制 |
+| IELTS score (immigration requirement) | IELTS | Required | SMC requires overall IELTS score of 6.5 or above, Green List T2 must also meet |
+| NZ Certificate in Food and Beverage Service (Level 3) | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but common in employer requirements |
+| Barista Certificate | New Zealand Coffee School | Optional | Demonstrate espresso skills; industry recognized |
+| Manager's Certificate (Alcohol Licensing) | Local Council | Optional | If selling alcoholic beverages, a liquor licence is required; this is a new regulation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 21,000。新西兰咖啡馆服务业持续增长，尤其在奥克兰、惠灵顿等城市。受旅游业和国际学生推动，但就业竞争中等，初级岗位较多。长期看，经验积累后可晋升主管或店长。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. New Zealand's coffee culture thrives, with many specialty cafes in Wellington and Auckland. Tourism and local consumption continue to drive demand, but competition for entry-level barista roles is moderate; experienced cafe managers have good job prospects due to shortages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $44,000~$46,000 | 按最低工资标准计时约22.70-23.50纽币/小时，全职年薪约45k |
-| 中级（2-5年） | $48,000~$55,000 | 含小费或提成，视咖啡技能 |
-| 高级（5年以上/主管） | $55,000~$65,000 | 含管理职责 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Most baristas earn ~$23-$26 per hour |
+| Mid-level (3–5 years) | $55,000~$62,000 | Including foreman or supervisory duties |
+| Senior (5+ years, manager) | $65,000~$80,000 | Café manager median annual salary approx. $68,000 |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 常见晋升路径：咖啡馆服务员 → 高级服务员/主管 → 店长/区域经理。亦可转向酒店餐饮或自创咖啡馆。部分通过积累经验后获得雇主支持办理工签转居留。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI impact on baristas and café managers is mixed: automated ordering and inventory management replace some administrative tasks, but the craft of specialty coffee and customer experience are enhanced by AI assistance (e.g., recipe optimization, training simulations).
 
-- AEWV
-- Tourism-driven
-- Hospitality
-- Part-time
+Progress from barista to senior barista or supervisor, then to café manager, gaining operational and management experience. Some choose to start their own independent café or move into hospitality management, food and beverage training, etc.
+
+**Tasks most exposed to AI:**
+
+- Automated ordering system (self-service kiosk or app ordering)
+- Inventory management and replenishment alerts (AI predicts consumption)
+- Basic coffee making (fully automatic machines)
+- Scheduling and payroll calculation (AI scheduling software).
+- Simple customer Q&A (AI chatbot)
+
+**Where AI augments the role:**
+
+- AI formula optimization (analyzing flavor data to suggest new blends)
+- Training simulations (VR/AR guiding latte art and extraction techniques)
+- Customer relationship management (CRM system recommends personalized services)
+- Cost control (real-time data analysis to reduce waste)
+- Social media marketing (AI-generated content and placement strategies)
+
+**Human moat:**
+
+- Manual latte art and creative beverage design (artistic)
+- Customer emotional engagement and community building (human touch)
+- Coffee bean tasting and purchasing decisions (sensory experience)
+- On-site incident handling (machine breakdowns, guest complaints)
+- Team Management and Training (Soft Skills)
+
+**Skills to build:**
+
+- Coffee science and tasting (SCA certification).
+- AI tool application (formula optimization, data analysis)
+- Digital marketing (social media and e-commerce)
+- Financial and inventory management software (e.g., Xero, Marketman)
+- Communication and customer experience design
+- Small business management (budgeting, hiring)
+
+**Key growth areas:**
+
+- Skilled Migrant Category
+- Green List Tier 2
+- Cafe Manager Shortage
+- Tourism Growth
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 主要途径，需认证雇主担保。满足工资中位数要求（时薪29.66纽币）可申请工签，但通常服务员薪资较低，可能需达中位数以上才能申请 |
-| Subclass SMC（Skilled Migrant Category） | 咖啡馆服务员不属于技术移民职业，除非晋升管理岗且薪资达中位数1.5倍 |
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 不适用 |
+| Subclass Green List T2 (Green List Work to Residence (Tier 2)) | A café manager (ANZSCO 141111) can apply for this visa and transfer to residence after 2 years of work. Must meet median wage (about $29.66/hour). |
+| Subclass AEWV (Accredited Employer Work Visa) | — |
+| Subclass SMC (Skilled Migrant Category) | — |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cafe Worker？**
-- 喜欢与人交流、服务意识强的人
-- 愿意以低门槛进入新西兰劳动力市场、积累经验后再转管理或自雇的人
-
-**谁不适合学Cafe Worker？**
-- 希望直接通过技术移民快速获得居留权的人
-- 无法承受长时间站立和快节奏工作压力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about coffee culture and craftsmanship
+- Aspiring to restaurant management and planning long-term settlement in New Zealand
+- People who enjoy dealing with others and can adapt to a fast-paced work environment
+
+**Who is not suited**
+- Those not used to waking up early and working during peak hours
+- Those with high salary expectations (mid-level for entry-level positions)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for baristas in New Zealand?**
+A: Junior barista annual salary approx. 45,000-52,000 NZD (hourly $23-26), experienced manager can reach 65,000-80,000 NZD.
+
+**Q: Can barista/cafe managers immigrate through skilled migration?**
+A: Cafe Manager (ANZSCO 141111) is a Green List Tier 2 occupation, eligible for residence after 2 years of work, and can also apply for SMC. Barista (entry-level) is not a migration occupation.
+
+**Q: What are the career development paths for a barista?**
+A: Can progress from junior barista to senior barista, supervisor, then café manager. Some start their own business or move into catering training, coffee roasting, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cafe Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a cafe worker in New Zealand?**
-答：Entry-level full-time salary is about NZ$44,000-46,000 at minimum wage; experienced baristas earn NZ$48,000-55,000; supervisors NZ$55,000-65,000. Tips extra.
-
-**问：Can a cafe worker immigrate to New Zealand via skilled migration?**
-答：Generally not directly. One can work under AEWV, then advance to management (e.g., cafe manager) to apply for SMC, requiring salary at 1.5x median and occupation at skill level.
-
-**问：What are the career advancement opportunities for cafe workers in NZ?**
-答：Typical path: cafe worker → senior barista → supervisor → store manager → area manager. Obtaining LCQ and food safety certificates enhances prospects, or transition to hospitality management.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

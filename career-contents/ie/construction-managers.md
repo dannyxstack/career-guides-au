@@ -1,59 +1,95 @@
-# Construction Managers（Construction Managers）职业分析 · IE
+# Construction Managers — career analysis · Ireland
 
-**职业代码：1323 – Construction Managers。**
+**Occupation code: 1323 (ISCO08)**
 
-Construction managers oversee the planning, coordination, and execution of construction projects, ensuring timely, budget-compliant, and safe completion.
+Construction managers oversee the planning, coordination, and execution of building projects, ensuring they are completed on time, within budget, and safely.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$25,000（欧盟学生学费较低，非欧盟较高） |
-| 硕士 | 1-2年（硕士） | $12,000~$30,000（项目管理或建筑工程硕士） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$25,000 (EU students have lower tuition fees, non-EU higher) |
+| Master's degree | 1-2 years (Master's) | $12,000~$30,000 (Master's in project management or construction engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑管理学位 | 爱尔兰大学 | 必备 | 通常需相关学士学位 |
-| 特许建造师 | CIOB | 可选 | 非强制，但利于晋升 |
-| 安全培训 | Safepass | 必备 | 工地必备证书 |
+| Degree in construction management | Irish universities | Required | Typically requires a related bachelor's degree |
+| Safety training | Safepass | Required | Essential site certificates |
+| Chartered Builder | CIOB | Optional | Not mandatory, but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。爱尔兰建筑业持续增长，尤其是住宅和基础设施项目需求旺盛，预计未来十年就业增长强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. The Irish construction industry is experiencing sustained growth, especially with strong demand for residential and infrastructure projects, with strong employment growth expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$70,000 | 税前年薪 |
-| 高级（7年以上） | $80,000~$110,000 | 税前年薪 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$70,000 | Annual pre-tax salary |
+| Senior (7+ years) | $80,000~$110,000 | Annual pre-tax salary |
+| average salary | $65,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从项目经理晋升为高级项目经理、区域经理或公司董事，积累经验后可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Can progress from project manager to senior project manager, regional manager or company director, and can start your own business after gaining experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Green building
@@ -62,65 +98,64 @@ Construction managers oversee the planning, coordination, and execution of const
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业，无需劳动力市场测试，2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，年薪不低于30000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能人才，年薪需高于爱尔兰平均工资的1.5倍 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to shortage occupations, no labor market testing required, eligible for permanent residency after 2 years |
+| Subclass General Employment P (General Employment Permit) | Requires a labour market test, with an annual salary not less than 30,000 euros |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled talent, annual salary must be at least 1.5 times the Irish average wage. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Managers？**
-- 有工程或建筑背景
-- 善于管理团队和项目
-- 能承受工地压力
-
-**谁不适合学Construction Managers？**
-- 不喜户外工作
-- 缺乏组织能力
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- With an engineering or construction background
+- Good at managing teams and projects.
+- Able to withstand pressure on construction sites
+
+**Who is not suited**
+- Dislikes outdoor work
+- Lack of organizational skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for construction managers in Ireland?**
+A: Annual salary: approximately 35,000-45,000 EUR for junior, 50,000-70,000 EUR for mid-level, and 80,000-110,000 EUR for senior, depending on experience and project.
+
+**Q: As a non-EU citizen, how can I immigrate to Ireland through the construction manager occupation?**
+A: Eligible for Critical Skills Employment Permit (in-demand occupation), can transfer to permanent residence after 2 years; or General Employment Permit, requires labour market test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Construction Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for construction managers in Ireland?**
-答：Entry-level salary is around €35,000-45,000, mid-level €50,000-70,000, senior €80,000-110,000, depending on experience and project.
-
-**问：How can non-EU citizens immigrate to Ireland as a construction manager?**
-答：Apply for Critical Skills Employment Permit (shortage occupation) with path to permanent residence after 2 years, or General Employment Permit requiring labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

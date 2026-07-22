@@ -1,60 +1,95 @@
-# Travel Sales Consultant（Travel Sales Consultant）职业分析 · FR
+# Travel Sales Consultant — career analysis · France
 
-**职业代码：G1303 – Travel Sales Consultant。**
+**Occupation code: G1303 (ROME)**
 
-Travel sales consultants sell travel products such as flights, hotels, and holiday packages, provide personalized itinerary advice, and achieve sales targets.
+Travel sales consultants are responsible for promoting travel products to clients, including airline tickets, hotels, vacation packages, and more, offering personalized itinerary recommendations and achieving sales targets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（BTS Tourism） | $3,000~$8,000（公立学校学费低，私立学校较高） |
-| 本科 | 3年（Licence en Tourisme） | $3,000~$10,000（公立大学学费约3000欧/年，私立更贵） |
-| 硕士 | 2年（Master en Tourisme） | $5,000~$15,000（可提升管理职位竞争力） |
+| High school graduation + vocational training | 2nd year (BTS Tourism) | $3,000~$8,000 (Public schools have lower tuition fees, while private schools have higher fees) |
+| Bachelor's degree | 3 years (Licence en Tourisme) | $3,000~$10,000 (Public university tuition is about 3,000 euros per year, while private universities are more expensive) |
+| Master's degree | 2 years (Master en Tourisme) | $5,000~$15,000 (This can enhance the competitiveness of management positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 旅游销售经验 | 雇主 | 必备 | 通常要求至少1年经验 |
-| 语言能力认证 | 法国教育部或行业协会 | 可选 | 英语流利，其他语言加分 |
-| 旅游产品知识证书 | 旅行社协会 | 可选 | 如CERTI'TOUR，非强制但受雇主认可 |
+| Travel sales experience | Employer | Required | Usually, at least one year of experience is required |
+| Language proficiency certification | The French Ministry of Education or industry associations | Optional | Fluent in English, with other languages as a plus |
+| Tourism Product Knowledge Certificate | Travel Agency Association | Optional | For example, CERTI'TOUR, which is not mandatory but is recognized by the employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 45,000。法国旅游业持续复苏，在线预订增长推动对销售顾问的需求，但竞争激烈。旺季招聘增加，岗位集中在旅行社和旅游运营商。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. France's tourism industry continues to recover, with growth in online bookings driving demand for sales consultants, but competition is fierce. Peak season hiring increases, with positions concentrated in travel agencies and tour operators.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 资深销售或团队组长 |
-| 高级（7年以上） | $35,000~$45,000 | 主管或产品经理 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Including bonus |
+| Mid-level (3–7 years) | $28,000~$35,000 | Senior salespeople or team leaders |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor or product manager |
+| average salary | $35,178 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级销售顾问晋升为高级顾问、团队主管或产品经理。积累客户资源后，可转向旅游策划或创业开设旅行社。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
+
+Promotion from junior sales consultant to senior consultant, team leader, or product manager. After accumulating customer resources, you can turn to travel planning or start a travel agency business.
+
+**Tasks most exposed to AI:**
+
+- Handle price comparison and booking for transportation (airline tickets, train tickets) and accommodation
+- Generate standard travel itineraries and quotes
+- Answering common travel policy questions (e.g., visas, baggage rules)
+- Maintain client travel files and preference records
+- Sell standardized tourism packages
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer historical data and proactively recommend personalized destinations and experiences
+- Using real-time exchange rates and price prediction tools to optimize client travel budgets
+- Providing immersive travel advice through AI translation and local information aggregation platforms
+- Use virtual reality (VR) preview tools to sell high-end travel products
+- Automates generation of alternative solutions for emergencies (e.g., flight cancellations)
+
+**Human moat:**
+
+- Ability to handle complex emergencies involving multi-country visas, special routes, health risks, etc.
+- Build high-trust relationships with clients, understand their unspoken preferences
+- Sales skills to deliver compelling travel narratives and value propositions
+- Negotiation skills for coordinating multiple suppliers and local resources to address non-standard needs
+
+**Skills to build:**
+
+- Proficiency in mainstream AI travel tools (e.g., Hopper, Tripadvisor integration platforms)
+- Learn the basics of data analysis (e.g., Python/pandas) to interpret customer insights
+- Strengthen high-end customer service and crisis management communication skills
+- Familiarity with VR/AR travel demonstration tools.
+- Learn social media marketing and content creation (e.g., Xiaohongshu, Instagram) to attract clients.
+- Obtain professional travel certifications (e.g., CTC, Certified Travel Counselor)
+
+**Key growth areas:**
 
 - Digital sales
 - Sustainable tourism
@@ -63,68 +98,67 @@ Travel sales consultants sell travel products such as flights, hotels, and holid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇工作居留，需雇主担保，合同符合法定工资 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 人才护照，适合高技能或高学历，简化手续 |
-| Subclass Carte bleue UE（Carte Bleue Européenne (EU Blue Card)） | 欧盟蓝卡，要求年薪高于1.5倍平均工资，约53,000€起 |
+| Subclass Salarié (Salarié (Employee)) | Employed work residence requires employer sponsorship, and the contract meets the statutory wage requirements |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passport, suitable for high skills or education, simplified procedures |
+| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | The EU Blue Card requires an annual salary above 1.5 times the average salary, starting at about €53,000 |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Travel Sales Consultant？**
-- 喜欢与人沟通、服务意识强的人
-- 对旅游行业有热情，乐于学习产品知识
-- 具备销售能力和抗压能力
-
-**谁不适合学Travel Sales Consultant？**
-- 不善于与人打交道或内向者
-- 厌恶业绩压力和销售指标
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communication and have a strong service orientation
+- Passionate about the tourism industry and eager to learn product knowledge
+- Possess sales capabilities and stress tolerance
+
+**Who is not suited**
+- Those who are not good at socializing or are introverted
+- Dislike performance pressure and sales targets
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for travel sales consultants?**
+A: Entry-level approx. EUR 22,000-28,000, senior up to EUR 45,000 including bonuses. Basic salary is relatively low, mainly relying on commissions.
+
+**Q: Is it feasible for foreigners to immigrate to France to engage in tourism sales?**
+A: It is feasible, but requires employer sponsorship. Through Salarié residency or Passeport Talent. Fluency in French is key.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can be promoted to senior sales, team leader, product manager, or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Travel Sales Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for travel sales consultants?**
-答：Entry-level around €22k-28k, senior up to €45k including bonuses. Base salary is low, mainly commission-based.
-
-**问：Is it feasible for foreigners to migrate to France for travel sales?**
-答：Yes, with employer sponsorship via Salarié or Passeport Talent. French fluency is key.
-
-**问：Is there career progression in this profession?**
-答：Yes, to senior sales, team leader, product manager, or self-employment.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Transport Operations Inspector（Transport Operations Inspector）职业分析 · 新西兰
+# Transport Operations Inspector — career analysis · New Zealand
 
-**职业代码：599518 – Transport Operations Inspector。**
+**Occupation code: 599518 (ANZSCO)**
 
-Transport Operations Inspectors in New Zealand oversee and inspect public transport and freight operations, ensuring compliance with safety regulations (e.g., NZ Transport Agency rules). This role is eligible for skilled migration via SMC or Green List if linked to specific transport roles, often requiring employer sponsorship.
+Transport Operations Inspectors in New Zealand oversee and inspect the operations of public transport and freight transport systems, ensuring compliance with New Zealand transport safety regulations (e.g., NZ Transport Agency rules). This occupation can follow the skilled migration pathway, but typically requires employer sponsorship or combination with Green List roles.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书/文凭（Level 4-5） | 1年 | $5,000~$12,000（新西兰理工学院的运输与物流证书课程） |
-| 学士学位（Level 7） | 3年 | $15,000~$25,000（如运输管理或物流学士，大学或理工学院） |
+| Certificate/Diploma (Level 4-5) | 1 year | $5,000~$12,000 (Transport and Logistics Certificate programme at a New Zealand polytechnic.) |
+| Bachelor's degree (Level 7) | 3 years | $15,000~$25,000 (e.g., bachelor's degree in transport management or logistics, from a university or polytechnic) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰驾照（1类或2类） | 新西兰交通局（NZTA） | 必备 | 基本要求，视检查车辆类型而定 |
-| 运输运营管理证书（Level 4） | 新西兰技能组织（NZQA认可） | 可选 | 行业常见资格证 |
-| 核准检查员认证 | NZ Transport Agency | 必备 | 部分职位强制要求 |
+| New Zealand driver's license (Class 1 or 2) | New Zealand Transport Agency (NZTA) | Required | basic requirements, depending on the type of vehicle inspected |
+| Approved inspector certification. | NZ Transport Agency | Required | Mandatory for some positions. |
+| Certificate in Transport Operations Management (Level 4) | New Zealand Skills Organisation (NZQA recognised) | Optional | Common industry certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰运输业持续增长，尤其是物流和公共交通领域。政府投资基础设施和安全管理，检查员需求稳定。预计未来5年就业机会小幅增长，但竞争中等，特别在有丰富经验或特定认证时更易就业。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. New Zealand's transport sector continues to grow, especially in logistics and public transport. Government investment in infrastructure and safety management keeps demand for inspectors stable. Moderate job growth expected over the next 5 years, with medium competition, and easier employment for those with extensive experience or specific certifications.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 含津贴 |
-| 中级（4-7年） | $70,000~$85,000 | 常需加班 |
-| 高级（8年以上） | $90,000~$110,000 | 管理岗或专家岗 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Includes allowances. |
+| Mid-level (4-7 years) | $70,000~$85,000 | Often requires overtime |
+| Senior (8+ years) | $90,000~$110,000 | Management or specialist position |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★☆☆）。** 初级检查员可从助理或合规岗位起步，积累经验后晋升为高级检查员或团队主管。部分人转向安全管理顾问或运输公司高管。获得新西兰国家运输安全认证（如NTA）可加速晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on transport inspector jobs is mixed: standardized document review and record checking may be taken over by AI, but tasks involving physical safety inspections and on-site judgment still rely on human experience; AI enhancement tools can improve efficiency, but legal liability transfer is limited.
+
+Junior inspectors can start as assistants or in compliance roles, gain experience, and advance to senior inspector or team supervisor. Some transition to safety management consultants or transport company executives. Obtaining New Zealand National Transport Safety certification (e.g., NTA) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Automatically read and verify shipping documents (e.g., bills of lading, safety certificates) for compliance
+- Use computer vision to inspect cargo placement for safety compliance
+- Generate standardized inspection reports and auto-archive
+- Real-time monitoring of vehicle or equipment status anomalies via sensor data
+
+**Where AI augments the role:**
+
+- Use augmented reality (AR) to overlay equipment historical data for on-site defect detection
+- Prioritize high-risk or high-value inspection tasks using AI prediction models
+- Use natural language processing to automatically extract regulatory updates and link them to checklists.
+- Combine satellite imagery and logistics data to proactively identify safety hazards on transport routes
+- Remote preliminary inspection via drones or robots, reducing human entry into hazardous areas
+
+**Human moat:**
+
+- Non-standardized sensory judgment of physical defects in transport equipment (e.g., tapping to assess weld quality)
+- Quickly develop on-site safety response plans in emergency situations (e.g., leaks, structural deformation)
+- Communicate effectively with drivers, shippers, and other roles, balancing efficiency and safety
+- Taking legal responsibility for permits (signing inspection reports responsible for safety incidents).
+
+**Skills to build:**
+
+- Learn to use AI-assisted inspection tools (e.g., computer vision inspection systems)
+- Basic data analysis skills to interpret abnormal sensor reports
+- Improving cross-team collaboration and decision-making in emergency situations
+- Familiar with latest transport safety regulations (e.g., DOT, FAA, IMO updates)
+- Learning to operate drones or remote inspection equipment
+
+**Key growth areas:**
 
 - Stable demand
 - Infrastructure investment
@@ -62,68 +95,67 @@ Transport Operations Inspectors in New Zealand oversee and inspect public transp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 若职业在ANZSCO Skill Level 1-3且评分达标（6分制），可申请居留 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 若雇主满足绿色清单要求，工作2年后可转居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见的工签路径，需认证雇主担保 |
+| Subclass SMC (Skilled Migrant Category) | If the occupation is at ANZSCO Skill Level 1-3 and the score meets the requirements (6-point system), residence can be applied for. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If the employer meets Green List requirements, can apply for residency after 2 years of work. |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common work visa pathway, requires accredited employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Transport Operations Inspector？**
-- 具有物流或运输背景，注重细节和安全合规的人
-- 喜欢现场工作，能适应户外和不同天气条件
-- 寻求稳定职业，愿意通过认证提升技能
-
-**谁不适合学Transport Operations Inspector？**
-- 不擅长沟通或冲突处理，因为需要与司机和管理层交涉
-- 希望快速晋升或高薪，行业薪资增长平缓
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone with a logistics or transport background, detail-oriented and safety compliant
+- Enjoy hands-on work, adaptable to outdoor and various weather conditions
+- Seeking stable career, willing to gain skills through certification
+
+**Who is not suited**
+- Poor at communication or conflict resolution, as it requires liaising with drivers and management
+- Hoping for quick promotion or high salary, industry salary growth is flat
+
+---
+
+## 8. FAQ
+
+**Q: What Qualifications Are Needed to Enter This Industry?**
+A: Typically requires an NZQA-recognized Transport Operations Certificate (Level 4) or relevant bachelor's degree, and holds a New Zealand driver's license. Employers may require approved inspector certification.
+
+**Q: Is this occupation easy to immigrate to New Zealand?**
+A: Immigration is possible but not a priority occupation. If you have a certified employer offer and meet SMC 6-point or Green List Tier 2 criteria, you may apply for residence. Note ANZSCO skill level and salary requirements.
+
+**Q: What are the future employment prospects?**
+A: New Zealand transport safety regulations are tightening, creating steady demand for inspectors. However, competition for entry-level roles is moderate; those with experience and certifications can more easily secure senior positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Transport Operations Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What qualifications are needed to enter this field?**
-答：Typically a NZQA-recognized transport operations certificate (Level 4) or a relevant bachelor's degree, plus a New Zealand driver's license. Employers may require an approved inspector certification.
-
-**问：Is it easy to immigrate to New Zealand for this occupation?**
-答：Yes, but not a priority. With a job offer from an accredited employer and meeting SMC 6-point or Green List Tier 2 criteria, residency is possible. Pay attention to ANZSCO skill level and salary thresholds.
-
-**问：What are the future job prospects?**
-答：Demand is stable due to stricter transport safety regulations. Entry-level competition is moderate; experienced and certified professionals have better prospects for senior roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

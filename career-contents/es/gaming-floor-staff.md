@@ -1,60 +1,94 @@
-# Gaming Floor Staff（Gaming Floor Staff）职业分析 · ES
+# Gaming Floor Staff — career analysis · Spain
 
-**职业代码：4443 – Gaming Floor Staff。**
+**Occupation code: 4443 (CNO)**
 
-Provide customer service in casinos, bingo halls, or gaming rooms, including exchanging chips, operating gaming equipment, enforcing rules, and maintaining premises order.
+Providing services to customers in casinos, bingo halls, or game halls, including chip exchange, operating gaming equipment, ensuring compliance with game rules, and maintaining order on the premises.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（通常只需高中文凭，部分雇主提供内部培训） |
-| 职业培训（FP） | 2年（FP Grado Medio） | $500~$2,000（餐饮或娱乐服务相关专业非必需但有利） |
+| High school graduation | No higher education required | $0~$0 (Usually, only a high school diploma is required, and some employers offer in-house training) |
+| Vocational Training (FP) | 2 years (FP Grado Medio) | $500~$2,000 (Majors related to food or entertainment services are not essential but beneficial) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性认证 | 雇主 | 可选 | 多数雇主提供在职培训 |
-| 赌博执照（部分大区要求） | 大区政府 | 可选 | 可能需要无犯罪记录证明及培训 |
+| No mandatory certification | Employer | Optional | Most employers provide on-the-job training |
+| Gambling license (required in some regions) | Regional government | Optional | A certificate of no criminal record and training may be required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。西班牙博彩业受经济周期和法规变化影响较大，大城市如马德里、巴塞罗那就业机会较多，但整体需求稳定。自动化可能减少部分岗位，但人际服务仍不可替代。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Spain's gambling industry is heavily affected by economic cycles and regulatory changes. Large cities like Madrid and Barcelona offer more job opportunities, but overall demand remains stable. Automation may reduce some jobs, but interpersonal services remain irreplaceable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，通常包含小费 |
-| 中级（3-7年） | $20,000~$25,000 | 含小费及加班费 |
-| 高级（7年以上） | $25,000~$30,000 | 主管级别，税前年薪 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, usually including tips |
+| Mid-level (3–7 years) | $20,000~$25,000 | Includes tips and overtime pay |
+| Senior (7+ years) | $25,000~$30,000 | Supervisor level, pre-tax annual salary |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 可从普通服务员晋升为区域主管或经理，部分转向赌场管理或酒店娱乐部门。需积累客户服务经验和行业知识，考取相关证书可增加晋升机会。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+This profession faces a situation where automation is replaced by AI enhancement: basic transaction and monitoring tasks can be automated, but human judgment processes such as interpersonal interaction, violation resolution, and emergency response are instead amplified by AI tools.
+
+Employees can be promoted from regular waiters to regional supervisors or managers, with some shifting to casino management or hotel entertainment departments. Accumulate customer service experience and industry knowledge; obtaining relevant certificates can increase promotion opportunities.
+
+**Tasks most exposed to AI:**
+
+- AI facial recognition and electronic monitoring replace manual patrols to detect cheating or violations.
+- Automated chip exchange machines and digital payments reduce manual exchange tasks.
+- AI chatbots handle common customer inquiries (such as rule explanations and venue guidance).
+- The electronic gaming table automatically records bets and payouts, reducing repeated dealer operations.
+
+**Where AI augments the role:**
+
+- AI analyzes customer behavior data to assist employees in providing personalized recommendations and VIP services.
+- The real-time risk scoring system helps employees quickly identify problematic gamblers and strengthen responsible gambling.
+- Multilingual real-time translation tools enable staff to communicate seamlessly with foreign visitors.
+- The training system uses VR/AR to simulate complex scenarios, enhancing employees' ability to handle violations.
+- Dynamic scheduling and passenger flow forecasting optimize human resource allocation and reduce air consumption costs.
+
+**Human moat:**
+
+- Offer comfort and mediation during emotional upheaval or sudden conflicts.
+- Value judgments and judgments are made for vague or undefined violations.
+- Build trust with regular customers and provide experiences that go beyond standardized services.
+- Quickly take manual emergency measures when AI systems falsely report or fail.
+
+**Skills to build:**
+
+- Conflict management and psychological counseling techniques
+- Data Interpretation and Basic Analysis (Understanding AI Report)
+- Multilingual service capabilities (English + local language)
+- VR/AR device operation and basic troubleshooting
+- Knowledge of responsible gambling policies and customer protection regulations
+- Interpersonal communication and advanced customer service skills
+
+**Key growth areas:**
 
 - Casino
 - Gaming
@@ -63,65 +97,67 @@ Provide customer service in casinos, bingo halls, or gaming rooms, including exc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 需西班牙雇主提供工作合同，证明职位无法由本地人填补，通常要求非技术岗位。 |
-| Subclass Busqueda empleo（Job Search Visa (Búsqueda de Empleo)） | 允许在西班牙居留并寻找工作，但需证明经济能力，且转换工作居留较难。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | A work contract from a Spanish employer is required to prove that the position cannot be filled by a local person, usually requiring a non-technical position. |
+| Subclass Busqueda empleo (Job Search Visa (Búsqueda de Empleo)) | You are allowed to stay in Spain and look for work, but you must prove financial capability, and changing jobs is more difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gaming Floor Staff？**
-- 喜欢与人互动、服务意识强的人
-- 能适应轮班制（包括夜间和周末）的人
-- 对博彩行业有一定兴趣，且能遵守严格规定的人
+**Who is suited**
+- People who enjoy interacting with others and have a strong sense of service
+- People who can adapt to shift work (including nights and weekends).
+- People who have a certain interest in the gambling industry and can comply with strict regulations
 
-**谁不适合学Gaming Floor Staff？**
-- 不适应夜班和周末工作的人
-- 对赌博有道德顾虑或易成瘾倾向的人
+**Who is not suited**
+- People who are not used to night shifts or weekend work
+- People with moral concerns or tendencies toward addiction to gambling
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can arcade staff increase their income through tips?**
+A: Yes, in Spanish casinos, tips are an important part of the income, usually given directly by customers or distributed collectively, which can increase monthly income by 200-500 euros.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: It is more difficult because this occupation is not considered high-skilled or in short supply, and employers usually need to prove that suitable local employees cannot be found, and the wages are low, making it difficult to meet residency requirements.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can be promoted from regular waiter to regional supervisor, duty manager, or casino manager, usually requiring 3-5 years of experience and internal training. Some people shift to hotel entertainment management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Gaming Floor Staff属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can gaming floor staff increase income through tips?**
-答：Yes, tips are a significant part of income in Spanish casinos, either given directly by customers or pooled and distributed, potentially adding €200-500 per month.
-
-**问：Can foreigners migrate to Spain through this occupation?**
-答：It is difficult as the occupation is not considered skilled or in shortage; employers must prove inability to hire locally, and low wages make it hard to meet residency requirements.
-
-**问：Are there career advancement opportunities?**
-答：Yes, from floor staff to supervisor, shift manager, or casino manager, typically requiring 3-5 years experience and internal training; some transition to hotel entertainment management.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

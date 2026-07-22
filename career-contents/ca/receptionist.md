@@ -1,61 +1,97 @@
-# Receptionist（Receptionist）职业分析 · 加拿大
+# Receptionist — career analysis · Canada
 
-**职业代码：14101 – Receptionist。**
+**Occupation code: 14101 (NOC)**
 
-Greet visitors, answer phones, schedule appointments, and provide basic administrative support. In Canada, this is a low-skilled occupation generally ineligible for federal skilled immigration, but may qualify for provincial nominee or employer-sponsored programs.
+Greet visitors, answer phones, schedule appointments, and provide basic administrative support. In Canada, it is a low-skilled occupation that typically cannot apply directly through Federal Skilled Migration, but may be eligible for Provincial Nominee or employer-sponsored immigration.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（加拿大公立高中免费） |
-| 大学文凭或证书 | 1年 | $5,000~$15,000（社区学院行政管理证书） |
+| High school graduation | 12 years | $0~$0 (Canadian public high schools are free) |
+| University diploma or certificate | 1 year | $5,000~$15,000 (Community college administrative certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 可选 | 移民可能需要 |
-| 语言成绩（IELTS） | IELTS | 可选 | CLB 4-5 |
-| 急救证书 | 红十字会等 | 可选 | 部分雇主要求 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Optional | May be required for immigration |
+| Language test scores (IELTS) | IELTS | Optional | CLB 4-5 |
+| First aid certificate | Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。加拿大前台岗位需求稳定，尤其在服务业、医疗和公司办公室。就业前景与地区经济相关，大城市机会更多。自动化可能减少部分岗位，但人际互动技能仍受欢迎。
+**Job demand: medium (★★★☆☆).** National workforce approx. 120,000. Front-office positions in Canada have stable demand, especially in services, healthcare, and corporate offices. Employment prospects relate to the regional economy, with more opportunities in large cities. Automation may reduce some positions, but interpersonal skills are still valued.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约14-17加元 |
-| 中级（3-5年） | $35,000~$42,000 | 时薪约17-21加元 |
-| 高级（5年以上） | $40,000~$50,000 | 时薪约20-25加元，或转管理岗更高 |
+| Median salary | $43,680 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage approximately CAD 14-17 |
+| Mid-level (3–5 years) | $35,000~$42,000 | Hourly wage about CAD 17-21 |
+| Senior (5+ years) | $40,000~$50,000 | Hourly wage about CAD 20-25, or higher in management roles |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 前台可晋升至行政助理、办公室经理或客户服务主管。积累经验后转向更高级行政角色或特定行业如医疗前台。通常需要额外培训或证书提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Front desk roles are at high risk due to AI phone systems, self-check-in, and virtual assistants, with core tasks significantly reduced.
+
+Front desk can advance to administrative assistant, office manager, or customer service supervisor. With experience, can move to higher administrative roles or specific industries like medical front desk. Typically requires additional training or certification to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Answering and screening calls via AI voice assistants
+- Use self-service kiosks or mobile apps to register visitors
+- Automatically schedule and manage meeting rooms using AI scheduling tools
+- FAQ answered by chatbot.
+- AI email sorting and basic administrative task automation.
+
+**Where AI augments the role:**
+
+- Real-time suggestions when AI assists in handling complex complaints
+- Using AI to analyze visitor data and optimize reception processes
+- Serving multilingual visitors via AI translation tools
+- AI assists in managing emergency procedures such as evacuation
+- AI-driven CRM system personalises visitor experience
+
+**Human moat:**
+
+- Need to respond flexibly to emergencies on site
+- Handling highly emotional or sensitive interpersonal interactions
+- Managing complex, non-standard administrative coordination
+- Representing the company's image in high-end client reception
+- Monitor and intervene in AI system erroneous outputs
+
+**Skills to build:**
+
+- Proficient in mainstream CRM and automated reception software
+- Learn basic data analysis to optimize processes
+- Enhance cross-cultural communication and conflict resolution skills
+- Short-term customer service management or administration supervisor course
+- Learn AI tool prompt engineering to assist work
+- Familiarity with Privacy Regulations to Address Data Compliance Issues
+
+**Key growth areas:**
 
 - Employer Sponsorship
 - Provincial Nominee
@@ -64,70 +100,69 @@ Greet visitors, answer phones, schedule appointments, and provide basic administ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份有低技能职业通道，需雇主offer，如安省雇主担保、萨省经验类 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合低技能职业，需雇主支持 |
-| Subclass RNIP（Rural and Northern Immigration Pilot） | 偏远地区试点，需雇主offer，适合前台 |
-| Subclass TFWP（Temporary Foreign Worker Program） | 临时外劳，积累经验后可能转永久居民 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have low-skilled worker streams requiring employer offers, such as Ontario Employer Job Offer and Saskatchewan Experience streams. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for low-skill occupations, requires employer support |
+| Subclass RNIP (Rural and Northern Immigration Pilot) | Rural and northern immigration pilot, requires employer offer, suitable for front desk roles |
+| Subclass TFWP (Temporary Foreign Worker Program) | Temporary foreign workers may become permanent residents after gaining experience |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Receptionist？**
-- 有良好沟通能力和服务意识的人
-- 希望在加拿大积累工作经验后转岗的人
-- 愿意接受雇主担保移民路径的人
-
-**谁不适合学Receptionist？**
-- 追求快速高薪的移民路径
-- 不愿从事重复性接待工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good communication skills and service orientation
+- People hoping to gain Canadian work experience before moving to another role
+- People willing to accept employer-sponsored immigration pathways.
+
+**Who is not suited**
+- Seeking fast and high-paying immigration pathway
+- Those unwilling to do repetitive reception work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a front desk receptionist in Canada?**
+A: Entry-level: about CAD 28,000-35,000; intermediate: CAD 35,000-42,000; senior: up to CAD 50,000.
+
+**Q: Can a receptionist immigrate to Canada?**
+A: Generally not eligible for Federal Skilled Worker Program, but can immigrate through employer-sponsored streams like Provincial Nominee (e.g., Ontario Employer Job Offer) or Atlantic Immigration Program, requiring a Canadian job offer.
+
+**Q: What education is needed to work as a front desk agent?**
+A: Usually high school graduation is sufficient, but holding an administrative certificate or diploma is more competitive. Canadian community colleges offer one-year certificate programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Receptionist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a receptionist in Canada?**
-答：Entry-level: $28,000-$35,000 CAD; Mid-level: $35,000-$42,000 CAD; Senior: up to $50,000 CAD.
-
-**问：Can a receptionist immigrate to Canada?**
-答：Generally not through federal skilled programs, but may via provincial nominee (e.g., Ontario Employer Job Offer) or Atlantic Immigration Program with a job offer.
-
-**问：What education is needed to be a receptionist?**
-答：High school diploma is typical, but a certificate or diploma in office administration from a college enhances prospects.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

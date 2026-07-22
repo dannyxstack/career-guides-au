@@ -1,61 +1,95 @@
-# Clergy（Clergy）职业分析 · 美国
+# Clergy — career analysis · United States
 
-**职业代码：21-2011 – Clergy。**
+**Occupation code: 21-2011 (SOC)**
 
-Clergy conduct religious worship, provide spiritual guidance and moral support to members of religious faiths or denominations.
+Clergy conduct religious ceremonies, provide spiritual guidance and moral support, serving religious communities and members.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 神学学士 | 4年 | $40,000~$200,000（私立神学院学费较高，公立大学较低） |
-| 神学硕士 | 3年 | $30,000~$150,000（许多教派要求硕士学历） |
+| Bachelor of Theology | 4 years | $40,000~$200,000 (Private theological seminaries have higher tuition, while public universities are lower.) |
+| Master of Divinity | 3 years | $30,000~$150,000 (Many denominations require a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位 | 认可的神学院或大学 | 必备 | 大多数教派要求神学学士或硕士 |
-| 教派任命 | 宗教教派 | 必备 | 完成教派认可的培训和考核 |
-| 临床牧关教育 | 美国牧关教育协会 | 可选 | 部分职位如医院牧师要求 |
+| Theology degree | Accredited seminary or university | Required | Most denominations require a bachelor's or master's degree in theology |
+| Religious appointment | Religious denomination | Required | Complete denomination-approved training and assessment |
+| Clinical pastoral education | American Council on Education | Optional | Some positions such as hospital chaplains require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 437,000。美国神职人员就业前景稳定，受宗教组织需求影响。预计2022-2032年就业增长约2%，慢于平均水平。主要受人口老龄化和精神关怀需求驱动。
+**Job demand: medium (★★★☆☆).** National workforce approx. 437,000. Employment prospects for U.S. clergy are stable, influenced by demand from religious organizations. Projected 2% employment growth from 2022 to 2032, slower than average, driven by aging population and spiritual care needs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$50,000 | 助理牧师或小型教会 |
-| 中级（5-15年） | $50,000~$75,000 | 中型教会或主任牧师 |
-| 高级（15年以上） | $75,000~$120,000 | 大型教会或教区主管 |
+| Median salary | $60,810 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $35,000~$50,000 | Assistant pastor or small church |
+| Intermediate (5-15 years) | $50,000~$75,000 | Medium-sized church or senior pastor |
+| Senior (15+ years) | $75,000~$120,000 | Large church or diocese director |
+| average salary | $66,860 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径通常从助理牧师或宗教教育者开始，逐步晋升为高级牧师或宗教领袖。部分神职人员可担任教区主管、神学院教师或宗教组织行政职务。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of clergy such as doctrinal interpretation, emotional comfort, and leading ceremonies are difficult to automate, but administrative tasks, sermon text generation, and faith education will be significantly enhanced or partially replaced by AI, leading to job transformation rather than disappearance.
+
+Career paths typically start as assistant clergy or religious educators, progressing to senior clergy or religious leaders. Some clergy can serve as parish heads, seminary teachers, or administrative roles in religious organizations.
+
+**Tasks most exposed to AI:**
+
+- Generate routine sermon drafts and religious education materials
+- Manage donation records, event schedules, and email responses
+- Provide standardized online faith-based counseling or psychological support
+- Transcribe and translate religious texts and ritual content.
+
+**Where AI augments the role:**
+
+- Using AI to analyze community needs and tailor more relevant spiritual care programs
+- Using AI assistance to quickly write personalized eulogies, wedding vows, and teaching materials
+- Supports multilingual and cross-cultural pastoral care through AI translation and interfaith databases
+- Use AI tools to create multimedia preaching content (video, interactive Q&A)
+- Use AI to analyze church or temple operational data to optimize charitable resource allocation
+
+**Human moat:**
+
+- Provide genuine empathy and ritual that algorithms cannot replace during funerals and crisis intervention
+- Deep trust and spiritual guidance built through personal character and long-term relationships
+- Creative, non-formulaic interpretation of sacred texts in specific contexts
+- Lead offline collective rituals (worship, ceremonies, sacraments) with on-site spirituality and order
+
+**Skills to build:**
+
+- AI-assisted content generation tools (e.g., ChatGPT, image/video generation)
+- Community data analysis and CRM tool usage
+- Digital media production and online community management
+- Psychological counseling and crisis intervention skills.
+- Multilingual ability (proficient in at least one second language)
+- Cross-training on AI ethics and religious applications
+
+**Key growth areas:**
 
 - Spiritual care
 - Community outreach
@@ -64,65 +98,67 @@ Clergy conduct religious worship, provide spiritual guidance and moral support t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass R-1（Religious Worker Visa） | 专门面向宗教工作者，从事宗教职业或神职工作。需雇主担保，有效期最长5年。 |
-| Subclass EB-4（Special Immigrant (Religious Workers)） | 宗教工作者绿卡，适用于从事宗教职业的移民。需雇主担保，有年度配额。 |
+| Subclass R-1 (Religious Worker Visa) | Specifically for religious workers, engaged in religious or clerical duties. Requires employer sponsorship, valid for up to 5 years. |
+| Subclass EB-4 (Special Immigrant (Religious Workers)) | Religious worker green card, applicable to immigrants in religious occupations. Requires employer sponsorship with annual cap. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Clergy？**
-- 具有强烈宗教信仰和使命感的人
-- 善于倾听和提供精神支持者
-- 在公共演讲和社区组织方面有天赋者
+**Who is suited**
+- People with strong religious beliefs and sense of mission
+- Those who are good at listening and providing spiritual support
+- Those with talent in public speaking and community organization
 
-**谁不适合学Clergy？**
-- 不喜欢与人群打交道或公开演讲者
-- 对宗教教义和仪式缺乏兴趣者
+**Who is not suited**
+- Those who dislike interacting with crowds or public speaking
+- Those who lack interest in religious doctrines and rituals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for clergy?**
+A: According to BLS data, the median annual salary for US clergy in 2023 was around $56,000. Entry-level positions earn about $35,000-$50,000, senior positions can reach over $120,000, but income varies greatly by church size and location.
+
+**Q: How can foreign clergy immigrate to the US?**
+A: Foreign clergy can work temporarily via the R-1 religious worker visa (up to 5 years) or obtain permanent residence through the EB-4 religious worker green card. Must be sponsored by a US religious organization and demonstrate religious occupation. EB-4 has a global annual cap of 10,000, but the religious category is rarely filled.
+
+**Q: What educational background is needed to become a clergy member?**
+A: Most denominations require at least a Bachelor of Theology, many require a master's degree. Usually need to complete seminary courses and pass denominational ordination assessments. Some roles like hospital chaplains also require Clinical Pastoral Education (CPE).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Clergy属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for clergy?**
-答：According to BLS, the median annual wage for clergy was about $56,000 in 2023. Entry-level positions range from $35,000 to $50,000, while senior roles can exceed $120,000, depending on congregation size and location.
-
-**问：How can foreign clergy immigrate to the US?**
-答：Foreign clergy can work temporarily on an R-1 Religious Worker Visa (up to 5 years) or obtain permanent residence via EB-4 Special Immigrant (Religious Workers). Requires sponsorship from a US religious organization and proof of religious occupation. EB-4 has an annual cap of 10,000 globally, but religious category is rarely fully used.
-
-**问：What education is required to become clergy?**
-答：Most denominations require at least a Bachelor's in Theology, and many require a Master's. Typically involves seminary coursework and denominational ordination. Some roles like hospital chaplains also require Clinical Pastoral Education (CPE).
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

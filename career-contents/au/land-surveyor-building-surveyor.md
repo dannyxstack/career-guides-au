@@ -1,162 +1,186 @@
-# 测量师/建筑测量师（Land Surveyor / Building Surveyor）职业分析 · 澳大利亚
+# Land Surveyor / Building Surveyor — career analysis · Australia
 
-**职业代码：232611 – Land Surveyor / Building Surveyor。**
+**Occupation code: 232611 (ANZSCO)**
 
-测量师（Land Surveyor）确定土地界限、坐标和地形特征，是建筑开发和基础设施工程的基础专业；建筑测量师（Building Surveyor）负责建筑审批、法规合规和竣工检查；工程量测量师（Quantity Surveyor）负责建设成本估算和合同管理。三类测量师均在澳洲技术短缺名单，就业市场强劲。
+Land Surveyors determine land boundaries, coordinates and topographic features — a foundational profession for property development and infrastructure projects. Building Surveyors handle building approvals, regulatory compliance and completion inspections. Quantity Surveyors manage construction cost estimation and contract administration. All three surveying specialisations appear on Australia's skills shortage lists, and the job market is strong across the board.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Surveying / Geospatial Science（3~4年） | 3~4年 | $30,000~$130,000（主要澳洲大学提供测量学位；国际生约 $28,000~$40,000/年） |
-| Registered Surveyor（注册测量师，职业执照） | 学位后2年专业经验 | $500~$2,000（向各州测量师注册局申请；是独立执业的法律要求） |
-| 无人机（UAV）操作执照（RPA Operator Certificate） | 1~3天 | $500~$2,000（CASA颁发；商业无人机测量的必要资质） |
-| Vetassess/AIBS技能评估（移民） | 3~6个月 | $500~$1,500（技术移民必须的学历和经验评估） |
+| Bachelor of Surveying / Geospatial Science (3–4 years) | 3–4 years | $30,000~$130,000 (Major Australian universities offer surveying degrees; international students approximately $28,000–$40,000/year) |
+| Registered Surveyor (professional licence) | 2 years of professional experience post-degree | $500~$2,000 (Apply to each state's surveyor registration board; a legal requirement for independent practice) |
+| UAV Operator Certificate (RPA Operator Certificate) | 1–3 days | $500~$2,000 (Issued by CASA; required qualification for commercial drone surveying) |
+| Vetassess/AIBS skills assessment (migration) | 3–6 months | $500~$1,500 (Skills and experience assessment required for skilled migration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Registered Surveyor（注册测量师） | 各州测量师注册局（如NSW BOSSI/VIC LMA） | 可选 | 独立执业的法律要求；是最高测量专业资质 |
-| Bachelor of Surveying/Geospatial Science | BOSSI/AIBS认可大学 | 必备 | 技术移民评估的基础学历要求 |
-| AIBS 会员资格（建筑测量师） | Australian Institute of Building Surveyors | 可选 | 建筑测量师专业资质；是建筑审批工作的行业标准 |
-| AIQS 会员资格（工程量测量师） | Australian Institute of Quantity Surveyors | 可选 | QS专业认可资质；技术移民评估机构 |
+| Bachelor of Surveying/Geospatial Science | BOSSI/AIBS-accredited university | Required | Minimum academic qualification required for skilled migration assessment |
+| Registered Surveyor | State surveyor registration boards (e.g. NSW BOSSI / VIC LMA) | Optional | Legal requirement for independent practice; the highest professional surveying qualification |
+| AIBS membership (Building Surveyor) | Australian Institute of Building Surveyors | Optional | Professional qualification for building surveyors; the industry standard for building approval work |
+| AIQS membership (Quantity Surveyor) | Australian Institute of Quantity Surveyors | Optional | QS professional accreditation body; skills migration assessment authority |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 12,000。JSA预测测量师就业至2030年增长约12%。澳洲大规模基础设施投资（铁路/公路/住房供应计划）和矿业扩张持续推动需求。无人机和激光扫描技术正在提升测量效率并创造新专业方向。
+**Job demand: very high (★★★★★).** National workforce approx. 12,000. JSA forecasts approximately 12% employment growth for surveyors to 2030. Large-scale infrastructure investment (rail/road/housing supply programmes) and mining expansion continue to drive demand. Drone and laser scanning technologies are improving surveying efficiency and creating new specialist roles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~1,200 个 | 全国，含土地测量师/建筑测量师/工程量测量师各类岗 |
-| Indeed | 300~900 个 | 含政府测量局、建筑公司和工程咨询公司岗 |
-| LinkedIn | 400~1,200 个 | 大型工程测量公司（Aurecon/GHD/Jacobs）直招 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级测量师（0~3年） | $70,000~$90,000 | 毕业生起薪；含Graduate Surveyor岗 |
-| 有经验测量师（3~8年） | $95,000~$125,000 | 土地测量师 SEEK $100k~$120k；Indeed $114,081（2026） |
-| 建筑测量师/工程量测量师（3~8年） | $105,000~$135,000 | 建筑测量师 SEEK $110k~$130k；工程量测量师 SEEK $95k~$115k；Indeed $108,111（2026） |
-| 注册测量师/高级（8年+） | $130,000~$200,000 | 矿区测量师（WA）约 $150k~$200k；注册测量师高级岗 $130k+ |
+| Median salary | $120,432 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Surveyor (0–3 years) | $70,000~$90,000 | Graduate starting salary; includes Graduate Surveyor roles |
+| Experienced quantity surveyor (3–8 years) | $95,000~$125,000 | Land Surveyor SEEK $100k–$120k; Indeed $114,081 (2026) |
+| Building surveyor/quantity surveyor (3–8 years) | $105,000~$135,000 | Building surveyor SEEK $110k–$130k; quantity surveyor SEEK $95k–$115k; Indeed $108,111 (2026) |
+| Registered Surveyor / Senior (8+ years) | $130,000~$200,000 | Mining surveyors (WA) approximately $150k–$200k; registered surveyor senior roles $130k+ |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 澳洲各州政府大规模基础设施投资（NSW Suburban Rail Loop/QLD Olympics基础设施/WA METRONET）创造大量测量岗位。无人机测量（UAV）和BIM数字建模正在改变行业工作方式，掌握这些技术的测量师需求量大且薪资溢价显著。WA矿业繁荣推动矿区测量师（Mine Surveyor）薪资超过 $160k。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
 
-- 无人机测量（UAV Survey）和激光雷达（LiDAR）
-- BIM（建筑信息模型）与数字测量整合
-- 矿区测量（WA/QLD矿业繁荣）
-- 基础设施测量（铁路/公路大型项目）
-- 建筑/工程量测量师（Quantity Surveyor）
+Large-scale government infrastructure investment across Australian states (NSW Suburban Rail Loop / QLD Olympics infrastructure / WA METRONET) is creating a high volume of surveying roles. Drone surveying (UAV) and BIM digital modelling are transforming the industry, with strong demand and notable salary premiums for surveyors skilled in these technologies. WA's mining boom is pushing Mine Surveyor salaries above $160k.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation of land boundary coordinates and drawing generation (AI+GPS+remote sensing)
+- Automated building code compliance review (NLP comparing regulatory databases)
+- Automated bill of quantities extraction and cost estimation (AI parsing BIM models)
+- Automated as-built scanning and deviation report generation (drones + point cloud processing)
+
+**Where AI augments the role:**
+
+- AI-assisted field survey: real-time 3D terrain generation from LiDAR point clouds for improved efficiency
+- Smart contract management: AI analyzes historical dispute data to flag risky clauses
+- Automated regulatory updates and impact assessment: AI tracks legislative changes and links them to projects under review
+- Building material price prediction: machine learning models optimize cost estimation accuracy
+
+**Human moat:**
+
+- On-site signing and legal liability (registered surveyor regulatory requirements)
+- Multi-party interest coordination and arbitration (communication with developers, government, community)
+- On-Site Judgment of Complex Boundary/Property Disputes (Relying on Experience and Legal Interpretation)
+- Adaptability to Unforeseen On-Site Conditions (e.g., Underground Obstacles)
+
+**Skills to build:**
+
+- Drone aerial survey and LiDAR data processing
+- BIM and automated modeling tools (e.g., Revit, Civil 3D)
+- Python/R programming for automated reporting and data analysis
+- Application of AI compliance review tools (e.g., automatic building code checks)
+- Digital twin platform integration and management
+- Contract management and dispute mediation skills
+
+**Key growth areas:**
+
+- UAV Surveying & LiDAR
+- BIM & Digital Surveying Integration
+- Mine Surveying (WA/QLD Mining Boom)
+- Infrastructure Surveying (Rail/Road Large Projects)
+- Building/Quantity Surveyor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保；工程公司、矿业公司和政府测量机构担保活跃 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列（测量师类别） |
-| Subclass 190（Skilled Nominated） | 各州基础设施重点项目积极提名（NSW/QLD/WA） |
-| Subclass 491（Skilled Work Regional） | 偏远矿区测量师极度短缺（WA内陆/QLD矿区） |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; engineering firms, mining companies and government surveying agencies are active sponsors |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; MLTSSL listed (surveying category) |
+| Subclass 190 (Skilled Nominated) | Active nomination through state infrastructure priority projects (NSW/QLD/WA) |
+| Subclass 491 (Skilled Work Regional) | Surveyors are in extreme shortage in remote mining regions (WA inland / QLD mining areas) |
 
-**PR难度：很低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学测量师/建筑测量师？**
-- 持有测量学/地理空间科学或相关工程学位，有3年以上测量工作经验
-- 熟悉GNSS/GPS测量技术、GIS软件（ArcGIS/MapInfo）和BIM平台
-- 持有或愿意申请CASA无人机操作执照（UAV Survey是当前最受欢迎技能）
-- 有意向在基础设施或矿业重点州（WA/QLD/NSW）工作
-- 愿意接受FIFO（飞进飞出）矿区工作安排（薪资显著更高）
-
-**谁不适合学测量师/建筑测量师？**
-- 持有土木工程或建筑设计学位但无专业测量学位（需要专门的测量学历）
-- 完全回避户外外业工作（测量工作有较多现场外业内容）
-- 期望快速注册成为独立执业测量师（注册需要学位+2年工作经验的积累）
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a degree in Surveying/Geospatial Science or a related engineering field, with 3+ years of surveying experience
+- Familiarity with GNSS/GPS surveying technology, GIS software (ArcGIS/MapInfo), and BIM platforms
+- Hold or willing to obtain a CASA drone operator licence (UAV Survey is currently the most in-demand skill)
+- Willingness to work in infrastructure or mining-focused states (WA/QLD/NSW)
+- Willing to work FIFO (fly-in fly-out) mining rosters (significantly higher pay)
+
+**Who is not suited**
+- Holds a civil engineering or architectural design degree but no specialist surveying degree (a dedicated surveying qualification is required)
+- Completely avoiding outdoor fieldwork (surveying involves significant on-site field work)
+- Expect to quickly register as an independent practicing surveyor (registration requires a degree + 2 years of work experience accumulation)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a surveyor in Australia?**
+A: Entry-level surveyor around $70k-$90k; experienced land surveyor around $95k-$125k (Seek $100k-$120k; Indeed $114,081); building surveyor around $105k-$135k (Seek $110k-$130k); quantity surveyor around $95k-$135k (Indeed $108,111); mining surveyor around $150k-$200k.
+
+**Q: Is it easy for surveyors to find work in Australia?**
+A: Very easy. A MLTSSL shortage occupation, with strong demand driven by an infrastructure supercycle and mining boom. SEEK consistently lists 400–1,200+ positions; those with a surveying degree and UAV skills have a near 100% employment rate.
+
+**Q: Is surveying experience from China recognised in Australia?**
+A: Skills can be assessed through Vetassess (land surveying) or AIBS (building surveying) / AIQS (quantity surveying), and relevant overseas work experience is recognised. English-language project evidence is required. Independent practice in Australia also requires a registered surveyor licence (degree + 2 years' experience).
+
+**Q: Will surveyors be replaced by AI?**
+A: Moderate risk. AI-assisted point cloud processing, map generation and compliance checking are improving efficiency; however, field surveys, legal boundary determinations and building approval decisions require the professional judgement and legal accountability of registered surveyors. Surveyors with UAV/BIM digital skills have greater long-term resilience against AI than those relying solely on traditional fieldwork.
+
+**Q: Is there an age limit for surveyors in Australia?**
+A: None. Experienced registered surveyors (aged 40–55) with a strong background in large-scale projects (infrastructure/mining) are extremely scarce in Australia. The physical demands of fieldwork are relatively modest — particularly for building surveyors and quantity surveyors — making it a profession that is sustainable through to retirement age.
+
+**Q: What qualifications do surveyors need in Australia?**
+A: A Bachelor of Surveying / Geospatial Science is the core requirement (3–4 years); building surveyors may be accepted with a relevant engineering/architecture degree; quantity surveyors can qualify through an AIQS-accredited degree pathway. Those holding a surveying-related degree from overseas will need to have it recognised by an appropriate skills assessment body (Vetassess/AIBS/AIQS).
+
+**Q: Is it difficult to become a registered surveyor in Australia (for migration purposes)?**
+A: Low difficulty. Surveyors are on the MLTSSL, with a smooth PR pathway. Vetassess/AIBS assessment process is clear; state infrastructure projects actively nominate for subclass 190; FIFO roles in mining companies have active employer sponsorship. The main challenges are qualification assessment time (3-6 months) and the 2-year experience requirement for a registered surveyor license.
+
+**Q: Which has better career prospects in Australia — land surveying or quantity surveying?**
+A: Land surveyors do more fieldwork and earn more (mining sites $150k–$200k), with more acute shortages; Quantity Surveyors (QS) work primarily indoors, enjoy a broader job market (driven by large-scale construction projects) and stable salaries ($95k–$135k). Choose land surveying if you enjoy outdoor technical work and mining opportunities; choose QS if you prefer indoor contract management and cost control.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 土地测量师 $100k~$120k；建筑测量师 $110k~$130k；QS $95k~$115k（2026） |
-| Indeed AU | 测量师均值 $114,081；QS均值 $108,111（2026） |
-| BOSSI NSW | NSW注册测量师信息 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 很低（★☆☆☆☆） |
-
-测量师/建筑测量师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲测量师工资多少？**
-答：初级测量师约 $70k~$90k；有经验土地测量师约 $95k~$125k（SEEK $100k~$120k；Indeed $114,081）；建筑测量师约 $105k~$135k（SEEK $110k~$130k）；工程量测量师约 $95k~$135k（Indeed $108,111）；矿区测量师约 $150k~$200k。
-
-**问：澳洲测量师容易找工作吗？**
-答：非常容易。MLTSSL短缺职业，基础设施超级周期和矿业繁荣推动旺盛需求。SEEK常年在线400~1200+职位，有测量学位和UAV技能者就业率接近100%。
-
-**问：中国测量经验澳洲认可吗？**
-答：通过Vetassess（土地测量）或AIBS（建筑测量）/AIQS（工程量测量）技能评估，中国测量工作经验可以认可。需要提供英文项目经历证明。澳洲独立执业还需要注册测量师执照（学位+2年经验）。
-
-**问：测量师会被AI替代吗？**
-答：中等风险。AI辅助点云处理、地图生成和合规核查正在提升效率；但实地测量、法律边界裁定和建筑审批决策需要注册测量师的专业判断和法律责任承担。掌握UAV/BIM数字技术的测量师比纯传统外业测量师有更好的未来抗AI性。
-
-**问：澳洲测量师有年龄限制吗？**
-答：无。有丰富大型项目经验（基础设施/矿业）的资深注册测量师（40~55岁）在澳洲极为稀缺。外业体能要求较低（尤其建筑测量师和工程量测量师），是可持续发展至退休年龄的专业职业。
-
-**问：澳洲测量师需要什么学历？**
-答：Bachelor of Surveying / Geospatial Science是核心要求（3~4年）；建筑测量师可接受相关工程/建筑学位；工程量测量师可通过AIQS认可学位路径。持有中国测量相关学位者需通过技能评估机构（Vetassess/AIBS/AIQS）认可。
-
-**问：澳洲测量师认证（移民）难吗？**
-答：难度较低。测量师在MLTSSL，PR路径顺畅。Vetassess/AIBS评估路径清晰；各州基础设施项目积极提名190；矿业公司FIFO岗位雇主担保活跃。主要挑战是学历评估时间（3~6个月）和注册测量师执照的工作经验积累（2年）。
-
-**问：土地测量师和工程量测量师哪个澳洲发展更好？**
-答：土地测量师外业多、收入高（矿区 $150k~$200k），短缺更严重；工程量测量师（QS）以室内工作为主，就业市场更广（大量建设项目需要），薪资稳定（$95k~$135k）。喜欢户外测量技术和矿业机会选土地测量师；喜欢室内合同管理和成本控制选工程量测量师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

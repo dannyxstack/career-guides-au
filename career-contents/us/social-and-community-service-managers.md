@@ -1,59 +1,95 @@
-# Social and Community Service Managers（Social and Community Service Managers）职业分析 · 美国
+# Social and Community Service Managers — career analysis · United States
 
-**职业代码：11-9151 – Social and Community Service Managers。**
+**Occupation code: 11-9151 (SOC)**
 
-Plan, direct, or coordinate activities of social service programs or community outreach organizations, overseeing budgets, policies, and participant benefits.
+Plan, direct, or coordinate activities of social service programs or community outreach organizations; oversee budgets, policies, and participant welfare.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学年均1-3万，私立3-5万） |
-| 硕士学位（MSW） | 2年 | $30,000~$120,000（常见，部分项目提供奖学金） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public university annual average NZD 10,000-30,000, private NZD 30,000-50,000) |
+| Master's degree (MSW) | 2 years | $30,000~$120,000 (Common, some programs offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作硕士（MSW） | CSWE认证大学 | 可选 | 许多雇主优先考虑，尤其临床方向 |
-| 临床社会工作执照（LCSW） | 州许可委员会 | 可选 | 若涉及临床监督，需通过考试与督导经验 |
-| 项目管理认证（PMP） | PMI | 可选 | 非必需但有助于高级管理岗位 |
+| Master of Social Work (MSW) | CSWE-accredited university | Optional | Many employers prioritize, especially for clinical roles |
+| Licensed Clinical Social Worker (LCSW) | State licensing board | Optional | If involving clinical supervision, requires exams and supervisory experience |
+| Project Management Professional (PMP) certification | PMI | Optional | Not required but helpful for senior management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 173,000。预计2020-2030年就业增长12%，高于平均水平。老龄化人口与精神健康需求推动岗位增加。
+**Job demand: high (★★★★☆).** National workforce approx. 173,000. Employment is projected to grow 12% from 2020 to 2030, faster than average. An aging population and mental health needs drive job growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$62,000 | 多见于非营利组织 |
-| 中级（3-7年） | $62,000~$82,000 | 政府或大型机构中等岗位 |
-| 高级（7年以上） | $82,000~$110,000 | 区域总监或执行董事，资金充足机构可达更高 |
+| Median salary | $80,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$62,000 | More common in non-profit organisations |
+| Mid-level (3–7 years) | $62,000~$82,000 | Mid-level positions in government or large institutions |
+| Senior (7+ years) | $82,000~$110,000 | Regional Director or Executive Director, higher in well-funded institutions |
+| average salary | $88,880 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从社会工作者或项目协调员晋升，可发展为区域总监或执行董事。硕士学历（MSW）与临床执照有助于高级职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
+
+Typically promoted from social worker or project coordinator, can develop into regional director or executive director. A master's degree (MSW) and clinical license help for advanced roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating operational reports, compliance documents, and KPI dashboards
+- Using AI for Social/Medical Insurance Claims Review and Anomaly Alerts
+- AI-optimized shift scheduling systems reduce manual scheduling workload
+- Transcribing and organising meeting minutes and action items via voice AI
+- Automatically monitor budget expenditure deviations and generate warning notifications
+
+**Where AI augments the role:**
+
+- AI analyzing patient flow and resource gaps to assist department budgeting and workforce planning
+- Utilizing predictive models to optimize long-term care needs and resource allocation
+- AI-assisted review of policy changes' impact on institutional compliance, providing compliance risk scores
+- Analyze employee feedback and satisfaction surveys via NLP to assist team management decisions
+- AI automatically matches patients/clients with available service resources to improve service coordination efficiency
+
+**Human moat:**
+
+- Face-to-face family communication, team motivation, and conflict mediation
+- Making final decisions in complex ethical and legal situations
+- Handling Unstructured Crises (e.g., Sudden Outbreaks, Casualties)
+- Establish and maintain cross-agency collaboration networks and trust relationships
+- Judging and refining AI suggestions based on organizational culture and values
+
+**Skills to build:**
+
+- Data analysis and visualization (Tableau, Power BI)
+- Medical/social insurance policy knowledge and compliance management
+- AI tool applications (ChatGPT, Copilot, low-code platforms)
+- Change management and organizational psychology
+- Basic programming skills (Python/R for automated reporting)
+- Interpersonal communication and conflict resolution skills
+
+**Key growth areas:**
 
 - aging population
 - mental health services
@@ -62,68 +98,67 @@ Plan, direct, or coordinate activities of social service programs or community o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等偏低（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士及以上学位，社会服务经理符合专业职位要求，但名额竞争激烈。 |
-| Subclass EB-2（EB-2 Advanced Degree） | 硕士学位或学士加5年经验，需PERM劳工认证。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 学士学位或2年培训经验，需PERM劳工认证。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or higher; social services manager meets professional visa requirements but quota is competitive. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or bachelor's plus 5 years experience, requires PERM labor certification. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Bachelor's degree or 2 years of training experience, requiring PERM labor certification. |
 
-**PR难度：中等偏高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social and Community Service Managers？**
-- 有社会正义感、擅长沟通与协调
-- 具备领导力和财务管理能力
-- 适应非营利或政府机构工作节奏
-
-**谁不适合学Social and Community Service Managers？**
-- 厌恶行政琐事和预算压力
-- 不喜与弱势群体高频率互动
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Socially conscious, strong communication and coordination skills
+- Possess leadership and financial management skills
+- Adapt to the pace of non-profit or government agency work
+
+**Who is not suited**
+- Dislike administrative chores and budget pressure
+- Dislike high-frequency interaction with vulnerable groups
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a social and community service manager?**
+A: Salary range approx. $45,000-$110,000 USD, median around $70,000. Non-profits lower, government agencies higher.
+
+**Q: How difficult is it to immigrate to the US in this occupation?**
+A: Common pathway is H-1B or EB-2/EB-3 green card. Requires employer sponsorship and PERM labor certification. Highly competitive; a master's degree and extensive experience are recommended.
+
+**Q: What are the future prospects?**
+A: Strong growth, driven by aging population and mental health needs. Many opportunities for promotion to regional director or executive director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等偏低（★★½☆☆） |
-| PR难度 | 中等偏高（★★★☆☆） |
-
-Social and Community Service Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of Social and Community Service Managers?**
-答：Salary ranges from $45,000 to $110,000, with median around $70,000. Nonprofits pay less; government pays more.
-
-**问：How difficult is immigration for this occupation?**
-答：Common pathways: H-1B or EB-2/EB-3 green card. Employer sponsorship required with PERM labor cert. Competitive; MSW and experience help.
-
-**问：What is the future outlook?**
-答：Strong growth due to aging population and mental health needs. Good advancement to director or executive roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

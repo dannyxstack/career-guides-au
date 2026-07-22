@@ -1,59 +1,93 @@
-# Horticultural Crop Growers nec（Horticultural Crop Growers nec）职业分析 · 新西兰
+# Horticultural Crop Growers nec — career analysis · New Zealand
 
-**职业代码：121699 – Horticultural Crop Growers nec。**
+**Occupation code: 121699 (ANZSCO)**
 
-Plan, manage and harvest horticultural crops like flowers, nursery stock, vegetables and fruit. Requires skills in irrigation, fertilisation and pest control. Eligible for residence via Green List or Skilled Migrant Category, particularly for experienced workers.
+Responsible for planning, managing, and harvesting horticultural crops such as flowers, seedlings, vegetables, and fruits; requires knowledge of irrigation, fertilization, and pest control. This occupation is eligible for New Zealand residency through the Green List or skilled migration pathways, especially suitable for those with several years of experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书/大专 | 1-2年 | $10,000~$25,000（如新西兰国立理工学院(NMIT)的园艺证书或大专课程） |
-| 本科 | 3年 | $25,000~$40,000（如林肯大学或梅西大学的园艺科学本科） |
+| Certificate/Diploma | 1-2 years | $10,000~$25,000 (Such as horticulture certificates or diploma courses from New Zealand's National Institute of Technology (NMIT)) |
+| Bachelor's degree | 3 years | $25,000~$40,000 (Such as Lincoln University or Massey University's Bachelor of Horticultural Science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰园艺证书 (New Zealand Certificate in Horticulture) | 新西兰学历认证局 (NZQA) 认可的教育机构 | 可选 | 基础资格，非强制但有助于就业 |
-| 农业化学应用许可证 (Approved Handler Certificate) | 新西兰环境保护局 (EPA) | 必备 | 如需使用农药，必须持有此证 |
-| IELTS 6.5分或同等英语水平 | 雅思考试主办方 | 可选 | 技术移民需满足英语要求 |
+| Approved Handler Certificate for agricultural chemical application | Environmental Protection Authority (EPA) New Zealand | Required | This certificate is required to use pesticides |
+| New Zealand Certificate in Horticulture | Educational institutions recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Basic qualification, not mandatory but helpful for employment. |
+| IELTS 6.5 or equivalent English proficiency | IELTS test organizers | Optional | Skilled migration requires meeting English language requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。新西兰园艺产业持续增长，尤其是水果（奇异果、苹果）和葡萄酒产区需求旺盛。预计未来五年岗位数量稳定增长，但受季节性和天气影响。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. New Zealand's horticulture industry continues to grow, especially in fruit (kiwifruit, apples) and wine regions with strong demand. Job numbers expected to grow steadily over the next five years, but subject to seasonality and weather.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约$22-$26 |
-| 中级（3-7年） | $55,000~$70,000 | 时薪约$26-$34，可担任主管 |
-| 高级（7年以上） | $70,000~$95,000 | 时薪约$34-$45，含管理职责 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly rate around $22-$26 |
+| Mid-level (3–7 years) | $55,000~$70,000 | Hourly rate approximately $26-$34, can serve as a supervisor |
+| Senior (7+ years) | $70,000~$95,000 | Hourly rate approximately $34-$45, including management duties |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级工人可晋升为种植主管或农场经理，积累经验后可与大型园艺企业合作或独立承包。部分从业者转向农业咨询或有机认证等领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation brings mixed prospects for horticultural crop growers: data monitoring and documentation tasks are reduced, but decision-making, manual operations, and on-site management are still hard to replace; entry-level positions face increased competition due to automation tools, but experienced growers remain scarce.
+
+Entry-level workers can advance to planting supervisor or farm manager; with experience, they can collaborate with large horticultural companies or work as independent contractors. Some practitioners transition into agricultural consulting or organic certification.
+
+**Tasks most exposed to AI:**
+
+- Crop growth data recording and basic analysis (AI generates reports automatically)
+- Routine irrigation and fertilization operations (automated systems act on sensor-based decisions)
+- Initial pest and disease identification (AI image recognition replaces manual inspections)
+- Inventory management and order processing (ERP system automation)
+
+**Where AI augments the role:**
+
+- Yield prediction and planting planning (AI optimizes solutions based on climate and soil data)
+- Precise water and fertilizer management (sensors + AI real-time parameter adjustment to reduce waste)
+- Market analysis and sales strategy (AI predicts price trends, guides variety selection)
+- Remote monitoring and fault warning (drones + AI to identify early problems, improving response speed)
+- New variety breeding (AI analysis of genetic data to accelerate breeding decisions)
+
+**Human moat:**
+
+- Complex on-site decision-making (e.g., integrated judgment on soil anomalies, sudden pests/diseases).
+- Manual fine skills (e.g., grafting, pruning, quality grading)
+- Interpersonal negotiation and relationship maintenance with clients and suppliers
+- Variety innovation and ecological management (long-term vision and cross-disciplinary integration skills)
+
+**Skills to build:**
+
+- Data analysis and basic statistics (understanding sensor and AI reports)
+- Smart agricultural equipment operation (drones, automatic irrigation systems)
+- Precision agriculture software (e.g., FarmLogs, Trimble Ag)
+- Basic programming (Python/R for custom reports)
+- Sustainable agricultural practices (reduce AI energy consumption and ecological impact)
+- Knowledge of business and marketing (direct-to-consumer sales)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Plan, manage and harvest horticultural crops like flowers, nursery stock, vegeta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证：需持相关学历和3年以上经验，有雇主offer且薪资中位数以上。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民类别：基于6分制，根据学历、经验、薪资打分，满足180分（旧）或6分（新）可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签：适合无直接居留资格者，工作24个月后可申请居留（如符合绿色清单T2）。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa: requires relevant qualifications and 3+ years of experience, with an employer offer and salary above the median. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category: Based on a 6-point system, scoring on qualifications, experience, and salary; eligible with 180 points (old) or 6 points (new). |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: suitable for those without direct residence eligibility; after working for 24 months, you can apply for residence (if meeting Green List T2). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Horticultural Crop Growers nec？**
-- 喜欢户外工作和动手操作的人
-- 对可持续农业和食品安全有兴趣的人
-- 愿意学习农业技术和管理技能的人
-
-**谁不适合学Horticultural Crop Growers nec？**
-- 不适应体力劳动和户外天气变化的人
-- 追求高薪和快节奏办公室环境的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor work and hands-on tasks
+- Those interested in sustainable agriculture and food safety
+- People willing to learn agricultural technology and management skills
+
+**Who is not suited**
+- People not suited to physical labor and outdoor weather changes
+- Those seeking high salaries and fast-paced office environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for horticultural crop growers?**
+A: Junior: about NZD 45,000-55,000, mid-level: NZD 55,000-70,000, senior: NZD 70,000-95,000, management roles may be higher.
+
+**Q: How to immigrate to New Zealand through this occupation?**
+A: Main pathway: Green List Tier 1 Direct Residence (requires 3 years experience + qualification + median wage); or SMC skilled migration (6-point system); or can work on AEWV for 24 months and then apply for residence (if meeting Tier 2).
+
+**Q: What qualifications are needed to become a horticultural crop grower?**
+A: Typically requires a diploma or bachelor's degree in horticulture, but experienced workers can obtain positions through hands-on learning; certifications (e.g., Approved Handler) can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短至中等（★★☆☆☆） |
-| 学习难度 | 适中（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Horticultural Crop Growers nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for horticultural crop growers?**
-答：Entry-level NZD 45,000-55,000, mid-level 55,000-70,000, senior 70,000-95,000; management roles may be higher.
-
-**问：How to immigrate to New Zealand through this occupation?**
-答：Main pathways: Green List Tier 1 Straight to Residence (3 years experience + qualification + median wage); SMC Skilled Migrant Category (6-point system); or AEWV work visa leading to residence after 24 months (if Tier 2 eligible).
-
-**问：What qualifications are needed to become a horticultural crop grower?**
-答：Typically a diploma or degree in horticulture, but experienced workers can learn on the job. Certifications like Approved Handler boost competitiveness.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

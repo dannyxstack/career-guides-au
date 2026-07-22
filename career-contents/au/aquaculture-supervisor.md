@@ -1,59 +1,94 @@
-# Aquaculture Supervisor（Aquaculture Supervisor）职业分析 · 澳大利亚
+# Aquaculture Supervisor — career analysis · Australia
 
-**职业代码：363111 – Aquaculture Supervisor。**
+**Occupation code: 363111 (ANZSCO)**
 
-Oversees daily operations of aquaculture farms, including breeding, feeding, and harvesting of fish, shellfish, or aquatic plants, ensuring productivity and biosecurity.
+Responsible for overseeing daily operations of aquaculture farms, including reproduction, feeding, and harvesting of fish, shellfish, or aquatic plants, ensuring production efficiency and biosecurity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 III / IV | 1-2年 | $5,000~$15,000（公立TAFE费用，国际生更高） |
-| 大专或学士学位 | 2-4年 | $20,000~$60,000（大学学费，有奖学金机会） |
+| Certificate III / IV in Vocational Education | 1-2 years | $5,000~$15,000 (Public TAFE fees, higher for international students) |
+| Associate degree or bachelor's degree | 2-4 years | $20,000~$60,000 (University tuition, with scholarship opportunities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖证书 III | TAFE或注册培训机构 | 可选 | 基础操作资格 |
-| 水产养殖文凭 | TAFE或大学 | 可选 | 提升管理能力 |
-| VETASSESS技能评估 | VETASSESS | 必备 | 技术移民必需 |
+| VETASSESS skills assessment | VETASSESS | Required | Essential for skilled migration |
+| Certificate III in Aquaculture. | TAFE or registered training organizations | Optional | Basic operation qualification |
+| Diploma of Aquaculture | TAFE or university | Optional | Enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。随着澳大利亚对可持续海鲜需求的增长，水产养殖业持续扩张，预计未来五年就业机会稳定增加，尤其在西澳和塔斯马尼亚。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. With growing demand for sustainable seafood in Australia, the aquaculture industry continues to expand, with stable employment growth expected over the next five years, especially in Western Australia and Tasmania.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 包括奖励工资 |
-| 中级（3-7年） | $70,000~$85,000 | 视农场规模 |
-| 高级（7年+） | $90,000~$110,000 | 主管/经理级别 |
+| Median salary | $77,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$65,000 | Includes bonus pay |
+| Mid-level (3–7 years) | $70,000~$85,000 | Depends on farm size |
+| Senior (7+ years) | $90,000~$110,000 | Supervisor/Manager level |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级水产养殖工人可晋升为主管，再发展为农场经理或区域运营经理；也可转向技术顾问或水质管理专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
+
+Junior aquaculture workers can advance to supervisor, then farm manager or regional operations manager; they can also transition to technical advisor or water quality management specialist.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems take over scheduled and quantitative feeding tasks
+- Water quality sensors automatically monitor and record parameters like pH and dissolved oxygen.
+- Drones or underwater robots automatically inspect fish cages, replacing manual visual inspection
+- AI video analysis automatically counts fish schools and detects diseases or abnormal behavior
+- Environmental control systems (e.g., aerators) automatically start/stop based on sensor data
+
+**Where AI augments the role:**
+
+- AI-assisted water quality data analysis to predict algal blooms or disease outbreaks, guiding preventive measures
+- Automated feeding systems optimize feeding strategies based on fish activity data to improve feed conversion rates
+- Digital twin models simulate different breeding scenarios to assist production planning
+- Wearable devices monitor worker health to prevent heatstroke or fatigue
+- AI document assistant automatically generates farming logs and compliance reports
+
+**Human moat:**
+
+- On-site response capability for sudden equipment failures, extreme weather, and other abnormal conditions
+- Manual experience-based judgement of fish and shrimp behaviour and health (e.g., abnormal swimming, colour changes)
+- Interpersonal and negotiation skills in coordinating with suppliers, veterinarians, and regulatory bodies
+- On-site safety judgment and emergency rescue (e.g., drowning, electric shock)
+
+**Skills to build:**
+
+- Learn to use mainstream smart aquaculture platforms (e.g., AquaManager, eFishery)
+- Basic data processing and analysis skills (Excel or simple BI tools)
+- Basic skills in operating and maintaining automatic feeding systems, drones, and ROVs.
+- Understand working principles of aquaculture Internet of Things (IoT) sensors
+- Sustainable farming principles (e.g., antibiotic reduction, carbon footprint accounting)
+- English communication skills to suit international companies or export requirements
+
+**Key growth areas:**
 
 - Aquaculture
 - Sustainable seafood
@@ -62,68 +97,67 @@ Oversees daily operations of aquaculture farms, including breeding, feeding, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时签证，需有雇主提名 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需通过技能评估 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需州政府邀请（通常有地区限制） |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区临时签证，转191永居 |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, requires employer nomination |
+| Subclass 186 (Employer Nomination Scheme) | Permanent residency visa via employer sponsorship, requiring skills assessment |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residency visa, requiring state government invitation (usually with regional restrictions). |
+| Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa, transitioning to 191 permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture Supervisor？**
-- 喜欢户外和体力劳动，对水产养殖或海洋生物有热情
-- 具备管理能力和团队合作精神，能适应偏远地区生活
-
-**谁不适合学Aquaculture Supervisor？**
-- 不能接受季节性劳动或不规律的工作时间
-- 对鱼类或水生生物无兴趣，不喜欢潮湿环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and physical work, passionate about aquaculture or marine biology
+- Possess management skills and team spirit, able to adapt to regional living
+
+**Who is not suited**
+- Cannot accept seasonal labor or irregular work hours
+- No interest in fish or aquatic life, dislikes humid environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical salary for an aquaculture manager in Australia?**
+A: Entry-level approximately AUD 55,000-65,000, mid-level AUD 70,000-85,000, senior AUD 90,000-110,000, depending on experience and farm size.
+
+**Q: Can an aquaculture supervisor apply for skilled migration?**
+A: Yes. This occupation is on the CSOL and can lead to migration via visas 189/190/491/482/186, requiring a skills assessment through VETASSESS.
+
+**Q: What are the prospects for this occupation?**
+A: Growing demand for seafood in Australia drives industry expansion, especially sustainable farming. Career progression to farm manager or technical advisor, with good prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aquaculture Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for an Aquaculture Supervisor in Australia?**
-答：Entry-level around AUD 55,000-65,000, mid-level AUD 70,000-85,000, senior AUD 90,000-110,000, depending on experience and farm size.
-
-**问：Can an Aquaculture Supervisor apply for skilled migration?**
-答：Yes. This occupation is on the CSOL, eligible for 189/190/491/482/186 visas, requiring a VETASSESS skills assessment.
-
-**问：What are the career prospects for this occupation?**
-答：Growing demand for sustainable seafood drives industry expansion, especially in WA and Tasmania. Advancement to farm manager or technical consultant is possible.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

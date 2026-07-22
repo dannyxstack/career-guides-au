@@ -1,60 +1,96 @@
-# Glass Processing Worker（Glass Processing Worker）职业分析 · 新西兰
+# Glass Processing Worker — career analysis · New Zealand
 
-**职业代码：839916 – Glass Processing Worker。**
+**Occupation code: 839916 (ANZSCO)**
 
-In New Zealand, glass processing workers operate machinery to cut, grind, drill and polish glass products, widely used in construction and automotive industries. They may immigrate via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but are not on the Green List.
+In New Zealand, glass processors operate machines to cut, grind, drill, and polish glass products, widely used in construction and automotive industries. Can immigrate via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 培训课程 | 6个月至1年 | $5,000~$15,000（课程费用，含材料费） |
-| 在职培训 | 1-2年 | —（雇主出资培训或少量注册费） |
-| 学徒制 | 3-4年 | —（学徒期工资制，费用极低） |
+| Training course | 6 months to 1 year | $5,000~$15,000 (Course fees, including materials) |
+| On-the-job training | 1-2 years | $0~$5,000 (Employer-funded training or a small registration fee) |
+| Apprenticeship | 3-4 years | $0~$2,000 (Apprenticeship wage system with very low costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰玻璃加工国家证书 | 新西兰资格认证局(NZQA) | 可选 | 非强制，但有助于就业和移民加分 |
-| 工地安全卡 | Site Safe | 必备 | 建筑业必备安全资质 |
-| 英语语言能力(IELTS 6.0) | IELTS | 可选 | 技术移民要求 |
+| Construction safety card | Site Safe | Required | Mandatory safety qualification in construction |
+| New Zealand National Certificate in Glass Processing | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but beneficial for employment and immigration points |
+| English language proficiency (IELTS 6.0) | IELTS | Optional | Skilled migration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。新西兰建筑业持续增长，玻璃加工工需求稳定。奥克兰和基督城重建项目提供较多机会，但岗位竞争中等，薪资增长平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. New Zealand's construction industry continues to grow, with steady demand for glass processors. Reconstruction projects in Auckland and Christchurch offer more opportunities, but competition is moderate and salary growth is stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 初入行，通常时薪22-27 NZD |
-| 中级（3-6年） | $55,000~$70,000 | 熟练技工，时薪27-35 NZD |
-| 高级（6年以上） | $70,000~$85,000 | 主管或高级技工，时薪35-42 NZD |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level, typically NZD 22-27 per hour. |
+| Mid-level (3–6 years) | $55,000~$70,000 | Skilled worker, hourly rate NZD 27-35 |
+| Senior (6+ years) | $70,000~$85,000 | Supervisor or senior technician, hourly rate NZD 35-42 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级操作员可晋升为高级技工或团队主管，也可转向质检或生产管理。经验丰富者可自营小型玻璃加工厂。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Glass processor cutting and grinding processes are easily replaced by CNC and AI vision, but on-site measurement, custom processing, and installation still require manual judgment, with both risks and opportunities.
+
+Entry-level operators can advance to senior technicians or team supervisors, or transition to quality inspection or production management. Experienced individuals can run their own small glass processing factories.
+
+**Tasks most exposed to AI:**
+
+- Using CAD drawings to automatically program cutting paths, replacing manual measurement and marking.
+- AI visual inspection for defects replaces manual visual inspection and measurement.
+- Automated edge grinding and drilling machines replace manual grinding and drilling
+- Batch cutting of standard glass is done by machines.
+- Automated layout software optimizes glass utilization, reducing manual layout.
+
+**Where AI augments the role:**
+
+- AI assists in designing complex curved glass to improve processing accuracy.
+- AR glasses overlay blueprints onto actual glass to assist with drilling positioning
+- Real-time quality monitoring systems auto-adjust parameters via sensor feedback
+- Intelligent maintenance systems predict equipment failures and reduce downtime
+- Digital twin simulates processing to optimize processes in advance
+
+**Human moat:**
+
+- On-site measurement of non-standard irregular glass dimensions and curvature
+- On-the-spot judgment and coordination in complex installation environments
+- hand engraving and surface finishing of custom art glass
+- Communication and responsibility when handling customer complaints and rework
+- Manual repair and adjustment of old equipment
+
+**Skills to build:**
+
+- CNC programming and operation (e.g., CAD/CAM)
+- Commissioning of automated equipment for deep processing of glass
+- Application of AI quality inspection software
+- BIM (Building Information Modelling) fundamentals
+- Safety regulations and manual skills (e.g., glass cutting, polishing)
+- Equipment maintenance and fault diagnosis
+
+**Key growth areas:**
 
 - Construction boom
 - Auckland rebuild
@@ -63,68 +99,67 @@ In New Zealand, glass processing workers operate machinery to cut, grind, drill 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制要求（学历+工作经验+新西兰offer） |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 绿色清单二级，需工作2年后转居留（本职业不在当前绿色清单上，但如符合某些建筑细分可考虑） |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, eligible for residence after 3 years of work |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, must meet the 6-point system requirements (qualifications + work experience + New Zealand job offer). |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, requires 2 years of work before transitioning to residency (this occupation is not currently on the Green List, but may be considered if it falls under certain construction subcategories). |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass Processing Worker？**
-- 动手能力强，习惯体力劳动的人
-- 希望在建筑行业稳定就业，不急于高薪的人
-- 愿意通过工签积累经验后申请居留的人
-
-**谁不适合学Glass Processing Worker？**
-- 追求高薪且不愿从事体力劳动的人
-- 缺乏耐心从事重复性机械操作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and accustomed to physical work
+- People who want stable employment in the construction industry and are not in a rush for high salary
+- Those willing to gain experience on a work visa before applying for permanent residency
+
+**Who is not suited**
+- Those pursuing high salary and unwilling to do physical labor
+- Lack of patience for repetitive mechanical tasks
+
+---
+
+## 8. FAQ
+
+**Q: What Is the Salary Level for Glass Processors in New Zealand?**
+A: Entry-level annual salary about $45,000-$55,000 NZD, intermediate $55,000-$70,000 NZD, senior up to $85,000 NZD, industry average hourly wage about $28 NZD.
+
+**Q: Can glass processing workers immigrate to New Zealand?**
+A: Can apply for Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC, 6-point system), but this occupation is not on the Green List, so direct fast-track residence is not available. Need to accumulate work experience and gain points through salary or qualifications.
+
+**Q: Do I need a New Zealand local qualification?**
+A: Not mandatory, but holding a New Zealand National Certificate (Glass Processing) helps with employment and immigration; a site safety card is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Glass Processing Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass processing workers in New Zealand?**
-答：Entry-level annual salary is around NZD 45,000-55,000, intermediate NZD 55,000-70,000, senior up to NZD 85,000; average hourly rate about NZD 28.
-
-**问：Can glass processing workers immigrate to New Zealand?**
-答：Yes, via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC, 6-point system), but it's not on the Green List so no fast-track residence. Need work experience and points from salary or qualifications.
-
-**问：Do I need a local qualification?**
-答：Not mandatory, but a National Certificate in Glass Processing helps with employment and immigration; a Site Safety Card is compulsory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Dentists（Dentists）职业分析 · 加拿大
+# Dentists — career analysis · Canada
 
-**职业代码：31110 – Dentists。**
+**Occupation code: 31110 (NOC)**
 
-Dentists in Canada diagnose and treat oral diseases, with stable demand and shortages in rural areas. Immigration possible via provincial licensure and recognized degrees, with some PNP streams prioritizing dentists.
+Dentists in Canada diagnose and treat oral diseases; demand is stable, especially in remote areas. Immigration via provincial license and recognized qualifications; some PNPs prioritize.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（预牙医） | 3-4年 | $60,000~$120,000（需完成本科学位，通常为科学相关） |
-| 牙医博士 (DDS/DMD) | 4年 | $160,000~$280,000（从认证牙科学校毕业，学费因校而异） |
+| Undergraduate (pre-dentistry) | 3-4 years | $60,000~$120,000 (Must complete a bachelor's degree, usually science-related) |
+| Doctor of Dental Surgery (DDS/DMD) | 4 years | $160,000~$280,000 (Graduate from an accredited dental school; tuition varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大牙科认证考试 (AFK) | NDEB | 必备 | 外国牙医需通过NDEB考试获取执照 |
-| 省牙科执照 | 各省牙科协会 | 必备 | 如安大略省牙科协会( RCDSO) |
-| 语言考试 | IELTS/CELPIP | 必备 | 通常要求CLB 7-8 |
+| Canadian Dental Certification Exam (AFK). | NDEB | Required | Foreign dentists must pass the NDEB exam to obtain a license |
+| Provincial dental license | Provincial dental associations. | Required | e.g., Royal College of Dental Surgeons of Ontario (RCDSO) |
+| Language test | IELTS/CELPIP | Required | Usually requires CLB 7-8 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 23,000。加拿大牙医就业前景良好，人口老龄化和口腔保健意识提高推动需求。偏远地区机会更多，但城市竞争略高。
+**Job demand: high (★★★★☆).** National workforce approx. 23,000. The employment outlook for dentists in Canada is good, driven by an aging population and increased awareness of oral health care. More opportunities exist in remote areas, but competition is slightly higher in cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$120,000 | 受雇于诊所或公立机构 |
-| 中级（3-8年） | $120,000~$180,000 | 有经验，可能合伙 |
-| 高级（8年以上） | $180,000~$300,000 | 诊所所有者或专科牙医 |
+| Median salary | $110,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $80,000~$120,000 | Employed by clinics or public institutions |
+| Mid-level (3–8 years) | $120,000~$180,000 | Experienced, possibly partnership. |
+| Senior (8+ years) | $180,000~$300,000 | Clinic owner or specialist dentist |
+| average salary | $124,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级牙医可晋升为合伙人或开设私人诊所，也可专攻正畸、口腔外科等。学术路线可成为大学讲师或研究员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentist roles are less affected by AI automation; AI is more of an assistive diagnostic tool (e.g., image analysis) enhancing efficiency, but core clinical procedures and patient communication still rely on humans. Overall demand is stable, with shortages in remote areas.
+
+Junior dentists can become partners or open private clinics, or specialize in orthodontics, oral surgery, etc. Academic route can lead to university lecturer or researcher.
+
+**Tasks most exposed to AI:**
+
+- Preliminary analysis of routine X-rays and oral images, AI can automatically mark abnormal areas
+- Automated Q&A system for patient appointment, reminders, and basic consultation
+- Digital design and 3D printing of laboratory guides and temporary crowns
+- Natural language processing for insurance billing codes and simple medical record notes
+- Template generation for routine dental examination reports
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyzing images, laser scans, and other data to improve detection accuracy for caries, periodontal disease, etc.
+- Digital treatment planning: AI simulates orthodontic, implant and other plans to optimize surgical pathways
+- Patient education and communication: AI generates personalized oral hygiene advice and visual demonstrations
+- Remote consultation and referral: AI organizes medical records and matches experts, improving efficiency
+- Clinical database analysis: AI mines group treatment data to support evidence-based decision-making
+
+**Human moat:**
+
+- Tactile feel and adaptability in complex surgical procedures (such as extracting impacted wisdom teeth, placing dental implants)
+- Building trust with patients, managing anxiety and subjective experiences of pain
+- Cross-medical background comprehensive judgment (e.g., oral manifestations of systemic diseases)
+- Ethical responsibility and legal risk assumption (e.g., medical malpractice determination)
+- Advanced clinical aesthetics and personalized restoration design
+
+**Skills to build:**
+
+- Use and interpretation of digital oral imaging AI software (e.g., Dental AI, Overjet).
+- Application of 3D printing and CAD/CAM in dental prosthetics
+- Operation of telemedicine consultation platforms and patient management
+- Medical data privacy protection and AI ethics standards
+- Continuously learn the latest AI developments to maintain diagnostic authority
+- Cross-disciplinary collaboration (e.g., communicating requirements with AI development teams)
+
+**Key growth areas:**
 
 - Healthcare demand
 - Aging population
@@ -62,68 +98,67 @@ Dentists in Canada diagnose and treat oral diseases, with stable demand and shor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 满足CRS评分即可申请，但需先通过ECA认证学历和语言考试 |
-| Subclass PNP（Provincial Nominee Program） | 许多省份优先医疗职业，如安省、BC省、阿省，提供快捷提名 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省针对医疗人才有专门通道 |
+| Subclass EE (Express Entry (FSW/CEC)) | Applicable if CRS score is sufficient, but ECA credential assessment and language test are needed first |
+| Subclass PNP (Provincial Nominee Program) | Many provinces prioritize healthcare occupations, e.g., Ontario, BC, Alberta, offering expedited nominations |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces have specific pathways for healthcare talent |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentists？**
-- 已完成牙科学位并有一定临床经验者
-- 愿意在偏远地区工作以换取更快移民者
-- 资金充足，能承担加拿大牙科认证和进修费用者
-
-**谁不适合学Dentists？**
-- 不愿再耗时耗力通过NDEB考试和实习者
-- 对高强度工作和患者沟通缺乏耐心者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who have completed a dentistry degree and have some clinical experience
+- Those willing to work in remote areas for faster immigration
+- Those with sufficient funds to cover Canadian dental certification and further study costs.
+
+**Who is not suited**
+- Those unwilling to spend time and effort on NDEB exams and internships
+- Those lacking patience for high-intensity work and patient communication.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of dentists in Canada?**
+A: Average annual salary approx. CAD 120,000–180,000, entry-level approx. CAD 80,000–120,000, senior or specialist up to CAD 300,000+.
+
+**Q: What steps are needed for foreign dentists to immigrate to Canada?**
+A: Must first complete ECA credential assessment and language tests, then NDEB's AFK exam and clinical assessment. Obtain provincial license to apply for EE or PNP.
+
+**Q: Is the NDEB exam difficult?**
+A: Difficult, with a pass rate of about 50–60%, requiring extensive preparation. But once passed, the immigration prospects are very good.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 中等偏高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dentists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dentists in Canada?**
-答：Average salary is around CAD 120,000-180,000, with entry-level at 80,000-120,000 and experienced or specialists over 300,000.
-
-**问：What are the steps for foreign dentists to immigrate to Canada?**
-答：You need ECA for degree, language test, NDEB AFK exam and clinical evaluation, obtain provincial license, then apply via EE or PNP.
-
-**问：Is the NDEB exam difficult?**
-答：It is challenging, with a pass rate of 50-60%; requires extensive preparation. But once passed, immigration prospects are excellent.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

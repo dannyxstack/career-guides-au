@@ -1,59 +1,95 @@
-# Occupational Therapist（Occupational Therapist）职业分析 · 新西兰
+# Occupational Therapist — career analysis · New Zealand
 
-**职业代码：252411 – Occupational Therapist。**
+**Occupation code: 252411 (ANZSCO)**
 
-Occupational therapists help people with disabilities, elderly, and injured individuals regain daily living and working abilities, working in public hospitals, community health, ACC, and aged care, listed on Green List Tier 1 for direct residence.
+Occupational therapists help New Zealanders with disabilities, the elderly, and those injured or ill to regain daily living and working abilities, serving in public hospitals, community health, ACC, and aged care facilities. This occupation is on the Green List direct residence pathway, with a clear immigration route.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$20,000（奥克兰理工大学等，国际生学费约NZD 30,000-40,000/年，本地生约NZD 6,000-7,000/年） |
-| 硕士（转换课程） | 2年 | $20,000~$30,000（适用于非OT本科背景，奥塔哥大学等，国际生学费约NZD 35,000-45,000/年） |
+| Bachelor's degree | 4 years | $15,000~$20,000 (Auckland University of Technology, etc.; international tuition approx. NZD 30,000-40,000/year, domestic approx. NZD 6,000-7,000/year) |
+| Master's (Conversion) | 2 years | $20,000~$30,000 (For non-OT bachelor's background, University of Otago etc., international student tuition approximately NZD 35,000-45,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业治疗师注册 | 新西兰职业治疗委员会（OTBNZ） | 必备 | 必须注册，需通过新西兰认可课程或海外资格评估 |
-| 年度执业证书（APC） | OTBNZ | 必备 | 每年更新，确保执业能力 |
-| 雅思学术类 | IDP或British Council | 可选 | 海外申请人需总分7.0，单项不低于6.5（英语国家毕业可豁免） |
+| Occupational therapist registration | Occupational Therapy Board of New Zealand (OTBNZ) | Required | Must be registered, requiring completion of a New Zealand-approved course or overseas qualification assessment |
+| Annual Practising Certificate (APC) | OTBNZ | Required | Renewed annually to ensure competency |
+| IELTS Academic | IDP or British Council | Optional | Overseas applicants need an overall score of 7.0, no sub-score below 6.5 (exempt if graduated from an English-speaking country) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,800。新西兰职业治疗师需求持续旺盛，受老龄化人口、ACC伤害康复需求及心理健康服务扩展推动。预计未来5年就业增长强劲，尤其在奥克兰、基督城等城市及偏远地区。注册资格是入门关键。
+**Job demand: high (★★★★☆).** National workforce approx. 2,800. Demand for occupational therapists in New Zealand remains strong, driven by aging population, ACC injury rehabilitation needs, and expansion of mental health services. Employment growth expected to be strong over next 5 years, especially in cities like Auckland, Christchurch, and remote areas. Registration is key for entry.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $58,000~$68,000 | 公立医院DHB起薪约NZD 55,000-65,000，私立机构略高 |
-| 中级（4-7年） | $70,000~$85,000 | 高级临床或团队领导角色 |
-| 高级（8年以上） | $85,000~$105,000 | 管理职位或专家级，最高可达NZD 110,000+（如精神健康领域） |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $58,000~$68,000 | Public hospital DHB starting salary approx. NZD 55,000-65,000; private sector slightly higher |
+| Mid-level (4-7 years) | $70,000~$85,000 | Senior clinical or team leadership role |
+| Senior (8+ years) | $85,000~$105,000 | Managerial or specialist roles, up to NZD 110,000+ (e.g., mental health field) |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级治疗师可晋升为高级临床专家、团队领导或转向管理岗位（如服务经理）。也可专攻神经康复、心理社会或儿童领域，或进入学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
+
+Entry-level therapists can advance to senior clinical experts, team leaders, or move into management roles (e.g., service manager). They can also specialize in neurorehabilitation, psychosocial, or pediatric areas, or move into academia.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized assessment scales and score statistics
+- Use NLP to analyze patient diaries and generate rehabilitation progress summaries.
+- AI voice assistants record therapy sessions and summarize key points
+- Robot-assisted completion of repetitive limb training exercises
+- Automated scheduling and medical record archiving
+
+**Where AI augments the role:**
+
+- AI provides personalized activity recommendations and adaptive rehabilitation plans
+- Wearable device data analysis aids in identifying patient fatigue and risks
+- Virtual reality (VR) simulations of daily scenarios for desensitization training
+- Generative AI creating visual teaching aids and home practice guides
+- Predictive models for early warning of functional decline and intervention strategy adjustment
+
+**Human moat:**
+
+- Building and maintaining therapeutic relationships face-to-face
+- Unstructured activity analysis, improvisation, and creative adaptation
+- Assessing real-world engagement in complex social contexts
+- Human-Centered Communication and Decision-Making in Interdisciplinary Team Collaboration
+- Emotional guidance and motivation for patients/family members
+
+**Skills to build:**
+
+- Use and tuning of AI rehabilitation plan generation tools
+- Wearable device data analysis and visual interpretation
+- VR/AR therapy content design and basic programming
+- Human-robot collaborative therapy process design and ethical evaluation
+- Application of digital health records and intelligent reporting systems
+- AI-based remote rehabilitation monitoring and intervention
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Occupational therapists help people with disabilities, elderly, and injured indi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 可直接申请居留，无需先工作，满足注册和薪资要求（中位数以上NZD 29.66/时） |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，注册后可直接获得5分，再满足其他条件快速移民 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未满足直接居留条件，可先持AEWV工作2年后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct application for residency possible without prior work, meeting registration and salary requirements (above median NZD $29.66/hour) |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, you can get 5 points directly after registration, then meet other conditions for fast immigration. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you do not immediately meet residence requirements, you can first work on an AEWV for 2 years and then apply for residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Therapist？**
-- 有耐心和同理心，善于与人沟通合作
-- 喜欢解决问题，能创造性设计康复方案
-- 希望获得新西兰居留权，职业稳定且受尊重
-
-**谁不适合学Occupational Therapist？**
-- 不喜欢频繁的手部或体力劳动（如转移患者）
-- 对医学或康复流程缺乏兴趣
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, good at communicating and cooperating with others
+- Enjoys problem-solving and can creatively design rehabilitation plans
+- Seeking New Zealand residency, stable and respected career
+
+**Who is not suited**
+- people who dislike frequent manual or physical labor (e.g., transferring patients)
+- Lacks interest in medical or rehabilitation processes
+
+---
+
+## 8. FAQ
+
+**Q: How can overseas occupational therapists migrate to New Zealand?**
+A: Must first register with OTBNZ (assess qualifications and English), then apply for a Green List Straight to Residence Visa, or first work on an AEWV then transition to residence.
+
+**Q: What is the salary level for occupational therapists in New Zealand?**
+A: Entry-level annual salary approximately NZD 58,000-68,000, mid-level NZD 70,000-85,000, senior up to NZD 85,000-105,000, with slight differences between public and private sectors.
+
+**Q: Where are the job opportunities for occupational therapists in New Zealand concentrated?**
+A: Mainly concentrated in public hospitals (DHBs), ACC rehabilitation, community health, aged care, and schools. Greater demand in remote areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Occupational Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How can an overseas occupational therapist immigrate to New Zealand?**
-答：First obtain OTBNZ registration (assessment of qualifications and English), then apply for Green List Straight to Residence Visa, or work on an AEWV and later apply for residence.
-
-**问：What is the salary range for occupational therapists in New Zealand?**
-答：Entry-level NZD 58,000-68,000, mid-level NZD 70,000-85,000, senior NZD 85,000-105,000, varying between public and private sectors.
-
-**问：Which sectors have the most job opportunities for occupational therapists in New Zealand?**
-答：Mainly in public hospitals (DHBs), ACC rehabilitation, community health, aged care, and schools. Demand is higher in rural areas.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

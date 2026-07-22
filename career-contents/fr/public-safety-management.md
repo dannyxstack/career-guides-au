@@ -1,61 +1,96 @@
-# Public Safety Management（Public Safety Management）职业分析 · FR
+# Public Safety Management — career analysis · France
 
-**职业代码：K1704 – Public Safety Management。**
+**Occupation code: K1704 (ROME)**
 
-Plans, organizes, coordinates and supervises public safety operations including police, fire and rescue services.
+Responsible for planning, organizing, coordinating, and supervising public safety operations, including police, fire, and rescue services.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后文凭（BAC+2） | 2年（BTS） | —（公立学校低学费，部分为学徒制带薪） |
-| 本科（BAC+3） | 3年（Licence） | —（公立大学学费低） |
-| 硕士（BAC+5） | 2年（Master） | —（公立大学学费低，部分高商昂贵） |
+| Post-High School Diploma (BAC+2) | 2 Years (BTS) | $0~$5,000 (Public schools offer low tuition, with some paid apprenticeships) |
+| Undergraduate (BAC+3) | 3 years (Licence) | $0~$5,000 (Public university tuition is low) |
+| Master's (BAC+5) | 2 years (Master) | $0~$10,000 (Public universities have low tuition fees, while some commercial colleges are expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共安全管理硕士 | 法国大学 | 可选 | Master en management de la sécurité publique |
-| 国家警察竞赛 | 法国内政部 | 必备 | Concours de la police nationale，管理岗位需通过 |
+| National police competition | French Ministry of the Interior | Required | Concours de la police nationale, management positions must be passed |
+| Master of Public Safety Management | French universities | Optional | Master en management de la sécurité publique |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国公共安全管理岗位稳定，受政府预算影响，未来需求持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Public safety management positions in France are stable, influenced by government budgets, with future demand stable.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，公共部门 |
-| 中级（4-10年） | $35,000~$50,000 | 税前年薪 |
-| 高级（10年以上） | $50,000~$70,000 | 税前年薪，高级管理岗位 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, public sector |
+| Mid-level (4-10 years). | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (10+ years) | $50,000~$70,000 | Pre-tax annual salary, senior management position |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从基层警员或消防员晋升至部门主管、区域安全总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will optimize scheduling and paperwork, but frontline command and discretionary decisions still rely on human experience, with both risks and opportunities.
+
+Employees can be promoted from grassroots police officers or firefighters to department heads or regional safety directors.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patrol reports and case documents
+- Predictive analytics-based police dispatch and route planning
+- Initial anomaly detection in surveillance video
+- Automated processing of standardized incident reports
+- Basic Crime Data Statistics and Trend Reports
+
+**Where AI augments the role:**
+
+- Using AI real-time crime maps to optimize tactical deployment
+- Assist in interrogations and witness interviews via voice analysis tools
+- AI-based training simulations to enhance decision-making skills
+- Smart evidence management system improves case processing efficiency
+- AI risk assessment tools enhance community policing strategies
+
+**Human moat:**
+
+- Improvisation and command in on-site emergencies
+- Community trust-based conflict mediation and negotiation
+- Complex rulings on legal, procedural and ethical boundaries
+- Motivating and leading teams to collaborate under high pressure
+- Handle human-centric, unstructured community relations
+
+**Skills to build:**
+
+- Data-driven policing and predictive analytics tools
+- AI evidence analysis systems (e.g., video, communication records)
+- Basic programming and automation workflows (Python, RPA)
+- Technical communication and digital leadership
+- Ethics and privacy compliance decision-making skills
+- Crisis communication and cross-department coordination
+
+**Key growth areas:**
 
 - Public safety
 - Security management
@@ -64,68 +99,67 @@ Plans, organizes, coordinates and supervises public safety operations including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需雇主担保 |
-| Subclass Salarié（Employee） | 受雇工作居留，需雇主担保 |
+| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requires employer sponsorship. |
+| Subclass Salarié (Employee) | Employed work residence requires employer sponsorship |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Safety Management？**
-- 具有领导力和组织能力，能在压力下工作
-- 对公共安全有强烈责任感
-- 愿意接受严格的选拔和培训
-
-**谁不适合学Public Safety Management？**
-- 不善于处理紧急情况
-- 不愿意服从纪律和层级管理
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Leadership and organizational skills, able to work under pressure
+- Strong sense of responsibility for public safety
+- Willing to undergo rigorous selection and training
+
+**Who is not suited**
+- Not good at handling emergencies
+- Unwillingness to obey discipline and hierarchical management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for public safety management?**
+A: The entry-level annual salary is about 28,000-35,000 euros, and the senior can reach up to 70,000 euros.
+
+**Q: Can foreigners work in public safety management in France?**
+A: Foreign applicants are usually required to pass competitive exams, with preference given to EU citizens, while opportunities for non-EU citizens are limited.
+
+**Q: What qualifications are required?**
+A: Usually, a relevant master's degree and passing the national police competition are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Public Safety Management为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for public safety management?**
-答：Entry-level annual salary is about €28,000-35,000, senior can reach €70,000.
-
-**问：Can foreigners work in public safety management in France?**
-答：Foreign applicants usually need to pass competitive exams, priority given to EU citizens, limited opportunities for non-EU.
-
-**问：What qualifications are required?**
-答：Typically a relevant master's degree and passing the national police competition.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

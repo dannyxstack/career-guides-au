@@ -1,59 +1,95 @@
-# Draughtspersons（Draughtspersons）职业分析 · IE
+# Draughtspersons — career analysis · Ireland
 
-**职业代码：3118 – Draughtspersons。**
+**Occupation code: 3118 (ISCO08)**
 
-Draughtspersons use CAD software to convert concepts from engineers and architects into detailed technical drawings and plans, playing a key role in construction, manufacturing, and infrastructure projects.
+Draftspersons use computer-aided design (CAD) software to transform engineers' and architects' concepts into detailed technical drawings and plans, playing a key role in construction, manufacturing, and infrastructure projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭/本科学位 | 3-4年 | $10,000~$25,000（爱尔兰公立大学年学费约€10,000-€25,000（欧盟学生较低）） |
-| 高级文凭/研究生证书 | 1年 | $8,000~$15,000（研究生课程年学费） |
+| Higher education diploma/bachelor's degree | 3-4 years | $10,000~$25,000 (Annual tuition fees at Irish public universities are about €10,000-€25,000 (lower for EU students)) |
+| Advanced Diploma/Graduate Certificate | 1 year | $8,000~$15,000 (Annual tuition fee for postgraduate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家制图员认证 | 爱尔兰工程师协会 | 可选 | 专业认证，提升就业竞争力 |
-| CAD软件认证 | Autodesk等 | 可选 | 如AutoCAD认证，非强制但雇主青睐 |
-| 相关学位/文凭 | 爱尔兰高等教育机构 | 必备 | 工程制图或相关领域文凭/学位 |
+| Relevant degree/diploma | Irish higher education institutions | Required | Diploma/degree in engineering drafting or related field |
+| National Cartographer Certification | Engineers Ireland | Optional | Professional certification to enhance employment competitiveness |
+| CAD software certification | Autodesk etc. | Optional | Certifications like AutoCAD, not mandatory but preferred by employers. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,200。爱尔兰建筑业和基础设施投资持续增长，推动制图员需求稳定。预计未来五年职位增长约8%，尤其在可再生能源和交通项目领域。
+**Job demand: high (★★★★☆).** National workforce approx. 5,200. Ireland's construction industry and infrastructure investment continue to grow, driving steady demand for draftspersons. An estimated 8% job growth over the next five years, especially in renewable energy and transport projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$65,000 | 税前年薪 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$65,000 | Annual pre-tax salary |
+| average salary | $43,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 制图员可晋升为高级制图员、项目协调员或设计经理。通过获取工程师资格或专攻BIM（建筑信息模型），可进入更高级的技术管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools will automate many repetitive drafting tasks, but strengthen the role of drafters in conceptual design, plan optimization, and collaboration. Entry-level positions may shrink due to automation, but senior drafters will leverage AI to improve efficiency and quality.
+
+Draftspersons can advance to senior draftsperson, project coordinator, or design manager. By obtaining engineer qualifications or specialising in BIM (Building Information Modelling), they can enter higher-level technical management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized 2D engineering drawings and annotations
+- Automatically project and generate multiple views from a 3D model and update them
+- Using AI to check drawings for dimension errors, clashes, and compliance issues
+- Batch processing of drawing layer management, print settings, and other repetitive tasks.
+- Automatically completes parametric drawing of common components based on historical data
+
+**Where AI augments the role:**
+
+- Use AI to quickly generate multiple design sketches from vague concepts for initial selection.
+- use AI to analyze structure, materials, and cost data to assist design decisions
+- Use natural language commands to quickly modify drawing parameters and layout
+- AI-assisted collision detection and design consistency checking, reducing manual verification
+- When collaborating with engineers and architects, AI generates real-time visualization solutions for communication
+
+**Human moat:**
+
+- Ability to understand and convert unstructured needs into technical solutions
+- Cross-disciplinary coordination skills (with architects, structural engineers, etc.)
+- Creative design ability under constraints (cost, regulations, materials)
+- Overall control and judgment of complex systems (e.g., large buildings, machinery)
+- Decision-making authority to assume legal responsibility for drawings and design review
+
+**Skills to build:**
+
+- Master BIM software (e.g., Revit) and parametric modeling (e.g., Grasshopper)
+- Learn AI-assisted design tools (e.g., Autodesk Generative Design)
+- Enhance foundational engineering knowledge (materials, mechanics, construction processes)
+- Enhancing data processing and analysis skills (e.g., Python script automation)
+- Proficiency in Collaborative Design Platforms (e.g., BIM 360, Navisworks)
+- Enhance soft skills in project management and communication collaboration.
+
+**Key growth areas:**
 
 - CAD
 - BIM
@@ -62,68 +98,67 @@ Draughtspersons use CAD software to convert concepts from engineers and architec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，制图员在列，需年薪€32,000以上，可快速申请居留 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需通过劳动力市场测试，年薪不低于€30,000 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，需年薪€41,000以上（2024标准） |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, including draftspersons, requires annual salary above €32,000, fast-track residence application |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires labor market test, annual salary not less than €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, requiring an annual salary of €41,000 or more (2024 standard) |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Draughtspersons？**
-- 注重细节、有条理的人
-- 喜欢技术绘图和设计软件的人
-- 希望在工程领域稳定发展的人
-
-**谁不适合学Draughtspersons？**
-- 不喜欢长时间面对电脑屏幕的人
-- 缺乏耐心处理重复性制图任务的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized person
+- People who enjoy technical drawing and design software
+- For those seeking stable development in engineering
+
+**Who is not suited**
+- People who dislike long hours in front of a computer screen
+- Individuals lacking patience for repetitive drafting tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of cartographers?**
+A: Junior draftsperson annual salary approx. €28,000-€35,000, mid-level €35,000-€50,000, senior can reach over €65,000, depending on experience and industry.
+
+**Q: Which visa can a draftsperson use to immigrate to Ireland?**
+A: Draftsperson is on the Critical Skills Employment Permit list, eligible for fast-track application if salary requirements are met, also available through General Employment Permit or EU Blue Card.
+
+**Q: What are the career advancement paths for a draftsperson?**
+A: Can be promoted to senior cartographer, design manager, or become an engineer, BIM expert through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Draughtspersons的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for draughtspersons?**
-答：Entry-level draughtspersons earn €28,000-€35,000, mid-level €35,000-€50,000, and senior up to €65,000+, depending on experience and sector.
-
-**问：Which visa can draughtspersons use to migrate to Ireland?**
-答：Draughtspersons are eligible for the Critical Skills Employment Permit, or alternatively the General Employment Permit or EU Blue Card.
-
-**问：What are the career progression paths for draughtspersons?**
-答：They can advance to senior draughtsperson, design manager, or pursue further education to become an engineer or BIM specialist.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

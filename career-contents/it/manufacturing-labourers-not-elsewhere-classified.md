@@ -1,58 +1,93 @@
-# Manufacturing Labourers Not Elsewhere Classified（Manufacturing Labourers Not Elsewhere Classified）职业分析 · IT
+# Manufacturing Labourers Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：9329 – Manufacturing Labourers Not Elsewhere Classified。**
+**Occupation code: 9329 (ISCO08)**
 
-Perform basic manual tasks in manufacturing, such as lifting, cleaning, packing, and assisting machine operations, typically requiring low to moderate skills.
+Engaging in basic manual labor in the manufacturing industry, including handling, cleaning, packaging, and machine auxiliary operations, typically requiring no highly specialized skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 10年（初中） | —（公立学校免费） |
-| 职业培训 | 1-2年 | $500~$3,000（地区职业中心或私营机构课程） |
+| Compulsory education | 10 years (junior high school) | $0~$0 (Free public schools.) |
+| Vocational training | 1-2 years | $500~$3,000 (Courses at regional career centers or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 大多数雇主仅要求基本读写能力 |
-| 安全培训证书 | 地区安全机构 | 可选 | 如使用机器或化学品的岗位需要 |
+| No mandatory requirements | None | Optional | Most employers only require basic literacy |
+| Safety training certificate | Regional security agency | Optional | Required for positions using machinery or chemicals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。意大利制造业就业稳定，但自动化趋势可能减少低技能岗位需求，劳动力市场对灵活从业者仍有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Italy’s manufacturing sector offers stable employment, but automation trends may reduce demand for low-skilled jobs; the labour market still has demand for flexible workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含福利 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$30,000 | 税前年薪，含加班 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including benefits |
+| Mid-level (3–7 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$30,000 | Annual pre-tax salary, including overtime |
+| average salary | $24,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业路径有限，可从普通劳工晋升为生产线组长或质检员，但需额外培训或经验积累。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Manufacturing general workers face high automation risk; repetitive physical tasks will be largely replaced by robots, vision inspection, and automated guided vehicles. Entry-level positions will shrink sharply, but equipment maintenance and coordination roles will increase slightly.
+
+Career path limited; can advance from general laborer to production line supervisor or quality inspector, but requires additional training or experience accumulation.
+
+**Tasks most exposed to AI:**
+
+- Repetitive material handling and palletizing
+- Basic cleaning and tidying work
+- Simple packaging and box sealing operation
+- Manual quality visual inspection and counting
+- fixed route material delivery
+
+**Where AI augments the role:**
+
+- Use handheld terminals or AR glasses to receive digital instructions, improving accuracy
+- Operate semi-automated equipment, such as collaborative robot-assisted assembly
+- Monitor production line anomalies through data dashboards and report promptly
+- Use AI-driven predictive maintenance tools to provide equipment status feedback
+- Learn basic programming, adjust automation workstation parameters
+
+**Human moat:**
+
+- Flexible physical ability for handling unstructured scenarios (e.g., irregular workpiece handling)
+- Ability to quickly adapt to task switching in high-mix, low-volume production
+- Communication and adaptability to collaborate with colleagues on complex assembly
+- Rapid diagnosis and manual intervention for on-site anomalies (e.g., equipment jams, quality deviations)
+
+**Skills to build:**
+
+- Basic digital literacy: scanning, touchscreen operation, digital records
+- Basic operation and safety protocols for collaborative robots.
+- Simple sensor identification and alarm processing
+- Lean production and 5S management
+- Automated logistics system (AGV/conveyor) anomaly handling
+- Basic English or technical document reading
+
+**Key growth areas:**
 
 - Stable demand
 - Automation impact
@@ -61,67 +96,66 @@ Perform basic manual tasks in manufacturing, such as lifting, cleaning, packing,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟低技能劳工，每年配额限制，需雇主担保。 |
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民无需签证，可直接在意大利工作。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to low-skilled non-EU workers, subject to annual quota, requires employer sponsorship. |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens do not need a visa and can work directly in Italy. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manufacturing Labourers Not Elsewhere Classified？**
-- 能适应重复性体力劳动，不介意倒班
-- 希望快速进入劳动力市场，无需高学历
-- 愿意在制造业地区如伦巴第、威尼托工作
-
-**谁不适合学Manufacturing Labourers Not Elsewhere Classified？**
-- 追求高收入和职业发展空间
-- 对工作环境和安全要求极高
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to handle repetitive physical labor, not averse to shift work
+- Aims to enter the labour market quickly without requiring a high level of education
+- Willing to work in manufacturing regions like Lombardy, Veneto
+
+**Who is not suited**
+- Seeking high income and career development opportunities
+- Highly demanding work environment and safety requirements
+
+---
+
+## 8. FAQ
+
+**Q: As a manufacturing labourer, can the salary support living expenses?**
+A: Entry-level annual salary around €18,000-22,000; in northern Italy it covers basic living costs but limited savings.
+
+**Q: How can non-EU citizens obtain this type of work visa?**
+A: Requires the Decreto Flussi quota system, with the employer submitting the application; annual quota limited and highly competitive.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Limited; can advance to team leader or quality inspector, but usually requires additional training or experience accumulation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Manufacturing Labourers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can a manufacturing labourer earn a living wage?**
-答：Entry-level salary is around €18,000-€22,000, enough for basic living in northern Italy but limited savings.
-
-**问：How can non-EU citizens get a work visa for this job?**
-答：Must apply through the Decreto Flussi quota system; employer submits application. Annual quotas are limited and competitive.
-
-**问：Are there promotion opportunities?**
-答：Limited; can advance to team leader or quality inspector with additional training or experience.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Livestock Farm Labourer（Livestock Farm Labourer）职业分析 · IE
+# Livestock Farm Labourer — career analysis · Ireland
 
-**职业代码：9212 – Livestock Farm Labourer。**
+**Occupation code: 9212 (ISCO08)**
 
-Livestock farm labourers care for animals, including feeding, cleaning shelters, assisting with breeding and health management, forming a key part of Ireland's agricultural workforce.
+Livestock farm workers care for animals, including feeding, cleaning sheds, assisting with breeding and health management, and are an important part of the Irish agricultural workforce.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无要求 | —（通常无正式学历要求） |
-| 职业培训 | 6个月至1年 | $2,000~$4,000（如Teagasc的畜牧课程） |
+| High school graduation | No requirements | $0~$0 (Usually no formal education requirements.) |
+| Vocational training | 6 months to 1 year | $2,000~$4,000 (Livestock courses such as Teagasc) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Safe Pass安全认证 | SOLAS | 必备 | 建筑工地安全必需 |
-| Manual Handling培训 | Teagasc | 可选 | 手动操作培训，雇主通常要求 |
+| Safe Pass safety certification | SOLAS | Required | Essential for construction site safety. |
+| Manual Handling training | Teagasc | Optional | Manual operation training, usually required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★½☆）。** 全国从业人数约 12,000。爱尔兰畜牧业发达，对畜牧农场工人持续有需求。未来5年就业预计保持稳定，但受自动化和移民政策影响。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Ireland has a strong livestock industry with ongoing demand for farm workers. Employment is expected to remain stable over the next 5 years, though affected by automation and immigration policies.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪 |
-| 中级（3-5年） | $28,000~$35,000 | 税前年薪 |
-| 高级（5年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (5+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常从基础劳力开始，积累经验后可升任主管或牧场经理。也可通过培训转向更专业的畜牧技术员岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
+
+Typically start with basic labor, gain experience to advance to supervisor or ranch manager. Can also transition to more specialized livestock technician roles through training.
+
+**Tasks most exposed to AI:**
+
+- Basic health data entry and case organization
+- Translation and localisation of standard health education materials
+- Appointment management and follow-up reminder calls
+- Basic chronic disease knowledge Q&A (e.g., diabetes diet)
+
+**Where AI augments the role:**
+
+- Use AI to analyze community health data to identify high-risk groups and trends
+- Use generative AI to create multilingual, culturally adapted educational videos and diagrams
+- Preliminary health screening and triage via AI voice assistants
+- Use AI-enabled remote monitoring tools to track chronic patient conditions
+- AI-assisted report writing and policy proposal generation
+
+**Human moat:**
+
+- Cultural safety practices: deep understanding of Indigenous customs, history, and trust building
+- Community Relationship Maintenance: Face-to-Face Emotional Support and Crisis Intervention
+- Cross-cultural medical translation and advocacy: accurately convey medical information while preserving patient dignity
+- Complex Ethical Decisions: Balancing Traditional and Modern Medicine
+- On-site visits and home care: hands-on work that cannot be replaced by a screen
+
+**Skills to build:**
+
+- Master community health data analysis tools (e.g., Power BI, Tableau)
+- Learn to create AI-driven health education content (e.g., Canva, Synthesia)
+- Familiarity with telehealth platforms and electronic health record systems
+- Basic natural language processing knowledge: for evaluating AI translation quality
+- Trauma-informed care and mental health first aid certification
+- Project management skills: coordinating multiple partners
+
+**Key growth areas:**
 
 - Livestock farming
 - Sustainable agriculture
@@ -61,64 +96,63 @@ Livestock farm labourers care for animals, including feeding, cleaning shelters,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺职业，需要劳工市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用于农场工人，因薪资要求较高 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requiring Labour Market Testing |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable to farm workers due to higher salary requirements |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Livestock Farm Labourer？**
-- 喜欢户外体力工作
-- 对动物有爱心和耐心
-- 适应早起和不规律工作时间
-
-**谁不适合学Livestock Farm Labourer？**
-- 无法适应体力劳动
-- 对动物过敏或不喜欢动物
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work
+- Kindness and patience towards animals
+- Adapt to early and irregular working hours
+
+**Who is not suited**
+- Unable to adapt to physical labor
+- Allergic to animals or dislike animals
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of livestock farm workers?**
+A: Entry-level annual salary approx. €23,000–28,000, senior up to €42,000.
+
+**Q: How can non-EU citizens apply for work visas?**
+A: Can apply through the General Employment Permit, but the employer must prove that no local workers are available.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★½☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Livestock Farm Labourer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for livestock farm labourers?**
-答：Entry-level annual salary is about €23,000-€28,000, experienced up to €42,000.
-
-**问：How can non-EU citizens apply for a work visa?**
-答：They can apply for a General Employment Permit, requiring the employer to show no local candidates.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

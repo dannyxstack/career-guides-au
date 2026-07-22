@@ -1,59 +1,95 @@
-# Education Administrators, Kindergarten through Secondary（Education Administrators, Kindergarten through Secondary）职业分析 · 美国
+# Education Administrators, Kindergarten through Secondary — career analysis · United States
 
-**职业代码：11-9032 – Education Administrators, Kindergarten through Secondary。**
+**Occupation code: 11-9032 (SOC)**
 
-Plan, direct, or coordinate academic, administrative, or auxiliary activities of kindergarten through secondary schools, including principals and assistant principals.
+Plan, direct, or coordinate academic, administrative, or support activities for preschools, primary schools, and secondary schools, including principals, deputy principals, and academic directors responsible for school operations and management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $30,000~$120,000（公立大学州内学费约3-5万，私立大学约8-12万） |
-| 硕士学位 | 2年 | $20,000~$80,000（教育管理或相关专业硕士，公立大学约2-4万，私立约5-8万） |
+| Bachelor's degree | 4 years | $30,000~$120,000 (Public university in-state tuition approx. $30,000-$50,000, private university approx. $80,000-$120,000) |
+| Master's degree | 2 years | $20,000~$80,000 (Master's in education management or related field, public universities about €20,000-40,000, private about €50,000-80,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州级校长执照 | 州教育委员会 | 必备 | 通常要求硕士学位、教学经验和通过考试 |
-| 教师执照 | 州教育委员会 | 必备 | 多数州要求具有有效的教师执照 |
-| 学校管理者证书 | 州教育委员会 | 必备 | 部分州要求额外的管理者认证 |
+| State principal license | State Board of Education | Required | Usually requires a master's degree, teaching experience, and passing exams |
+| Teaching license | State Board of Education | Required | Most states require a valid teaching license |
+| School administrator certificate | State Board of Education | Required | Some states require additional manager certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 303,200。美国劳工统计局预计2022-2032年该职业就业增长约4%，略低于平均水平。增长主要来自学校入学率变化和对教育质量的关注，但预算限制可能影响招聘。
+**Job demand: medium (★★½☆☆).** National workforce approx. 303,200. The US Bureau of Labor Statistics projects about 4% employment growth for this occupation from 2022 to 2032, slightly below average. Growth is driven by changes in school enrollment and focus on education quality, but budget constraints may affect hiring.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $50,000~$70,000 | 助理校长或小型学校管理者 |
-| 中级（5-10年） | $70,000~$100,000 | 中小学校长或学区中层 |
-| 高级（10年以上） | $100,000~$150,000 | 大型学校校长或学区高级领导 |
+| Median salary | $105,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $50,000~$70,000 | Assistant principal or small school administrator |
+| Intermediate (5-10 years) | $70,000~$100,000 | Primary/secondary school principal or district middle manager |
+| Senior (10+ years) | $100,000~$150,000 | Large school principal or senior district leader |
+| average salary | $116,100 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从教师起步，逐步晋升为部门主任、副校长，最终成为校长或学区行政人员。博士学位和丰富教学经验有助于晋升到更高管理职位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
+
+Typically start as teachers, then progress to department head, vice principal, and finally principal or district administrator. A doctoral degree and extensive teaching experience help advance to higher management positions.
+
+**Tasks most exposed to AI:**
+
+- Develops standardized courseware and teaching materials
+- Marking objective homework and exam papers
+- Answer common course questions (FAQ)
+- Track student learning progress and generate reports.
+- Basic skill demonstrations (e.g., software operation steps)
+
+**Where AI augments the role:**
+
+- Use AI to analyze student data and customize personalized learning paths.
+- Using AI to simulate complex industry scenarios to enhance practical teaching quality.
+- Using NLP tools to provide real-time translation of multilingual teaching content.
+- Use AI assessment tools to quickly diagnose trainees' skill gaps
+- Automatically generate industry case studies to keep courses relevant
+
+**Human moat:**
+
+- Industry hands-on experience and on-site teaching demonstration
+- High emotional intelligence interpersonal communication and student psychological support
+- Handle classroom emergencies and flexibly adjust teaching pace
+- Enterprise Customized Training Needs Analysis and Solution Design
+- Professional ethics and compliance judgment (e.g., certificate verification).
+
+**Skills to build:**
+
+- Learning Design and AI course tools (e.g., Articulate 360+AI plugins)
+- Data analysis basics (Python/R, for evaluating training effectiveness).
+- Soft skills enhancement: coaching, facilitating discussions, cross-cultural communication
+- Master mainstream AI teaching platforms (e.g., Canvas with AI, Squirrel AI).
+- Application of industry digital tools (e.g., VR/AR simulation teaching)
+- Project management (full process management of training programs)
+
+**Key growth areas:**
 
 - Education Reform
 - School Enrollment
@@ -62,67 +98,66 @@ Plan, direct, or coordinate academic, administrative, or auxiliary activities of
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 适用于具有硕士或以上学位的教育管理者，学校可作为雇主担保 |
-| Subclass EB-2（Employment-Based Immigration: Second Preference） | 具有高等学位或特殊能力的教育管理者可通过PERM申请绿卡 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference） | 适用于拥有学士学位的教育管理者，需PERM劳工证 |
+| Subclass H-1B (Specialty Occupations) | Applicable to education administrators with a master's degree or higher, schools can act as sponsoring employers |
+| Subclass EB-2 (Employment-Based Immigration: Second Preference) | Educational administrators with advanced degrees or special abilities can apply for a green card via PERM |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference) | Applicable to education administrators with a bachelor's degree, requiring PERM labor certification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education Administrators, Kindergarten through Secondary？**
-- 热爱教育事业，具备领导力和沟通能力的人
-- 拥有教学经验，希望转向管理岗位的教师
-
-**谁不适合学Education Administrators, Kindergarten through Secondary？**
-- 不喜欢处理行政事务和人际冲突的人
-- 追求稳定低压力工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love education and have leadership and communication skills
+- Teachers with teaching experience looking to move into management roles
+
+**Who is not suited**
+- People who dislike administrative tasks and interpersonal conflict
+- Individuals seeking stable low-stress work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for education administrators in primary and secondary schools?**
+A: According to BLS data, the median annual salary for elementary and secondary education administrators in 2022 was $101,320. Entry-level positions about $50,000-70,000, senior roles up to $150,000+.
+
+**Q: How can international individuals immigrate to the US for K-12 education administration?**
+A: Typically requires a US master's degree and state license. Can be sponsored by schools via H-1B work visa, then apply for green card through EB-2 or EB-3. Some states have special programs for international teachers.
+
+**Q: What certifications are needed to become a primary/secondary education administrator?**
+A: Typically requires a valid teaching license, a master's degree (education administration or related field), and a state-issued principal or administrator license. Most states require passing exams and teaching experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较难（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Education Administrators, Kindergarten through Secondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for education administrators in K-12 schools?**
-答：According to BLS, the median annual wage for education administrators in K-12 schools was $101,320 in 2022. Entry-level positions earn around $50,000-70,000, while senior roles can exceed $150,000.
-
-**问：How can international professionals migrate to the US for K-12 education administration?**
-答：Typically requires a US master's degree and state licensure. Schools can sponsor H-1B visas, then apply for green cards via EB-2 or EB-3. Some states have special programs for international educators.
-
-**问：What certifications are required to become a K-12 education administrator?**
-答：Typically requires a valid teaching license, a master's degree in educational administration or related field, and a state-issued principal or administrator license. Most states require exams and teaching experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

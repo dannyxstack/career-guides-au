@@ -1,60 +1,96 @@
-# Solicitor（Solicitor）职业分析 · 新西兰
+# Solicitor — career analysis · New Zealand
 
-**职业代码：271311 – Solicitor。**
+**Occupation code: 271311 (ANZSCO)**
 
 Solicitors provide legal advice, draft contracts, and represent clients in court. New Zealand has stable demand for commercial, property, and family lawyers, with clear immigration pathways via Green List direct residence.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 法学本科（LLB） | 4年 | $40,000~$60,000（奥克兰大学等公立大学年学费约NZD 40,000-60,000） |
-| 法律实践课程（Profs） | 1年 | $15,000~$25,000（学院制法律实践课程学费约NZD 15,000-25,000） |
-| 实习律师课程 | 6个月 | $5,000~$10,000（实习律师培训及考试费用约NZD 5,000-10,000） |
+| Bachelor of Laws (LLB) | 4 years | $40,000~$60,000 (Annual tuition at public universities like the University of Auckland is about NZD 40,000-60,000) |
+| Practical Legal Training (PLT) | 1 year | $15,000~$25,000 (College-based legal practice course fees approximately NZD 15,000-25,000) |
+| Practical legal training course | 6 months. | $5,000~$10,000 (Intern lawyer training and exam costs approximately NZD 5,000-10,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰法学学士（LLB）或海外同等学历 | 新西兰大学或NZQA认证海外机构 | 必备 | 需通过NZQA评估，部分海外学历需补修课程 |
-| 法律实践课程（Professional Legal Studies Course） | 新西兰法律研究学院（Institute of Professional Legal Studies） | 必备 | 完成理论及实务培训 |
-| 新西兰律师执业证书（Practising Certificate） | 新西兰法律协会（NZLS） | 必备 | 每年续签，需满足CPD要求 |
+| New Zealand Bachelor of Laws (LLB) or overseas equivalent | New Zealand university or NZQA-accredited overseas institution | Required | Requires NZQA assessment, some overseas qualifications need supplementary courses |
+| Professional Legal Studies Course | Institute of Professional Legal Studies, New Zealand | Required | Complete theoretical and practical training |
+| New Zealand Practising Certificate | New Zealand Law Society (NZLS) | Required | Annual renewal, must meet CPD requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 12,000。新西兰法律行业持续增长，尤其商业法、房产法和家庭法律师缺口明显。政府鼓励海外律师满足新西兰法律协会（NZLS）资质要求后入职，未来五年就业增长约10%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. New Zealand's legal industry is growing steadily, especially in commercial law, property law, and family law where there is a clear shortage of lawyers. The government encourages overseas lawyers to meet NZLS qualification requirements before employment, with an estimated 10% employment growth over the next five years.
 
-**竞争度：中高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 毕业生起薪约NZD 65,000-85,000 |
-| 中级（4-7年） | $90,000~$130,000 | 资深律师年薪约NZD 90,000-130,000 |
-| 高级（8年以上） | $140,000~$200,000 | 合伙律师或专业领域律师可达NZD 140,000-200,000+，部分顶级律所更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Graduate starting salary approximately NZD 65,000-85,000 |
+| Mid-level (4-7 years) | $90,000~$130,000 | Senior lawyer annual salary approximately NZD 90,000-130,000 |
+| Senior (8+ years) | $140,000~$200,000 | Partnership or specialist lawyers can earn NZD 140,000-200,000+, some top firms more |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级事务律师通常执业2-3年后可升为资深律师，继而成为合伙人或独立执业。也可转入公司法务或政府部门，薪资随经验显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
+
+Junior solicitors typically become senior solicitors after 2-3 years, then partners or practice independently. They can also move to corporate legal departments or government, with salary increasing significantly with experience.
+
+**Tasks most exposed to AI:**
+
+- Legal document review and due diligence (AI can quickly scan large volumes of contracts)
+- Legal research and case study (AI can precisely locate relevant statutes and precedents)
+- Basic contract drafting and template generation (AI auto-generates first draft from parameters)
+- Electronic Discovery and Data Organization (AI-Automated Classification and Tagging of Evidence)
+- Compliance monitoring and regulatory update tracking (AI continuously monitors regulatory changes)
+
+**Where AI augments the role:**
+
+- Complex legal analysis and strategy formulation (AI provides data support, lawyers make professional judgments)
+- Client consultation and relationship management (AI-assisted initial screening, lawyers focus on human communication)
+- Trial preparation and mock debates (AI predicts opposing arguments, helping lawyers rehearse)
+- Legal risk prediction and quantification (AI analyzes historical data, lawyers identify key risks)
+- Cross-domain knowledge integration (AI quickly integrates non-legal information, e.g., technology, finance)
+
+**Human moat:**
+
+- Court defense and negotiation skills (human emotional intelligence and on-the-spot adaptability irreplaceable)
+- Complex Ethical Judgment and Professional Responsibility (AI Cannot Assume Legal Liability)
+- Long-term trust relationships and customer loyalty (based on personal connections and reputation)
+- Creative legal strategies and case breakthroughs (require human experience and intuition)
+- Cross-cultural communication and empathy (critical in family law and immigration law)
+
+**Skills to build:**
+
+- Use of AI legal tools (e.g., Kira Systems, ROSS Intelligence)
+- Data analysis and legal technology (Python basics, legal statistics)
+- Interdisciplinary knowledge (tech law, data privacy law, energy law)
+- Advanced negotiation and communication skills
+- Project management and team collaboration
+- Business acumen and client development
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Solicitors provide legal advice, draft contracts, and represent clients in court
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 满足绿色清单直接居留条件，无需先工作两年，需获得认证雇主offer，并通过NZLS资质评估 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需6分制（学历+工作经验+薪资），律师职业通常可获高学历加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可用于过渡或无法直接满足Green List要求的情况，工作后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List direct residence requirements, no need to work for two years first, requires a job offer from an accredited employer and NZLS qualification assessment |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migration category requires a 6-point system (qualifications + work experience + salary). Legal professionals often receive additional points for higher qualifications. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for transition or when Green List requirements are not met; can lead to residence after work |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Solicitor？**
-- 法律本科或硕士毕业，愿意投入长时间学习和认证
-- 抗压能力强，擅长逻辑分析和辩论
-- 希望在新西兰通过职业实现快速移民
-
-**谁不适合学Solicitor？**
-- 无法接受高强度工作（如长期加班、紧迫截止日期）
-- 对严格合规和续证要求感到负担的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduate with a law bachelor's or master's degree, willing to invest in long-term study and certification
+- Strong stress tolerance, good at logical analysis and debate
+- Hoping to achieve rapid immigration through a career in New Zealand
+
+**Who is not suited**
+- Unable to handle high-intensity work (e.g., long overtime, tight deadlines)
+- Those who feel burdened by strict compliance and renewal requirements.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a conveyancing solicitor in New Zealand?**
+A: Junior lawyers earn approximately NZD 65,000-85,000 per year, mid-level NZD 90,000-130,000, and senior lawyers or partners can reach NZD 140,000-200,000 or more. Salaries at large commercial law firms are higher, but competition is intense.
+
+**Q: How can overseas lawyers immigrate to New Zealand?**
+A: Overseas lawyers must first have their qualifications assessed by NZLA and other bodies, complete New Zealand law courses (e.g., legal practice course), and obtain a New Zealand practicing certificate. Then they can apply under the Green List T1 Straight to Residence or SMC skilled migration category. A certified employer offer is key.
+
+**Q: What is the career progression path for law firm lawyers?**
+A: Typically start as junior lawyer, advance to senior lawyer after 2-3 years, then can choose to become partner (equity/non-equity) or move to corporate legal, government legal advisor. Specialization (e.g., commercial law, intellectual property) can accelerate advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Solicitor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for solicitors in New Zealand?**
-答：Junior solicitors earn around NZD 65,000-85,000, mid-level NZD 90,000-130,000, and senior/partner levels NZD 140,000-200,000+. Large commercial firms offer higher pay but are more competitive.
-
-**问：How can overseas lawyers immigrate to New Zealand?**
-答：Overseas lawyers must have their qualifications assessed by NZLA, complete bridging courses (e.g., Professional Legal Studies), and obtain a New Zealand Practising Certificate. Then apply via Green List T1 Straight to Residence or SMC Skilled Migrant Category. A job offer from an accredited employer is key.
-
-**问：What is the career progression for solicitors?**
-答：Typically start as a junior, advance to senior after 2-3 years, then become a partner (equity/non-equity) or move to in-house counsel or government legal adviser. Specializing in areas like commercial law or IP can accelerate progression.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

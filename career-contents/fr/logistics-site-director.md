@@ -1,60 +1,95 @@
-# Logistics Site Director（Logistics Site Director）职业分析 · FR
+# Logistics Site Director — career analysis · France
 
-**职业代码：N1302 – Logistics Site Director。**
+**Occupation code: N1302 (ROME)**
 
-Oversees the overall operations of a logistics site (warehouse, distribution center), including team management, process optimization, cost control, and customer service, ensuring efficient and safe logistics operations.
+Responsible for managing the overall operation of logistics sites (warehouses, distribution centers), including team leadership, process optimization, cost control, and customer service, ensuring efficient and safe logistics operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 2年（BTS） | $5,000~$12,000（公立学校学费低，私立商校较高） |
-| 本科 | 3年（Licence） | $8,000~$20,000（可含学徒制（apprentissage），学费由企业承担） |
-| 硕士 | 2年（Master） | $10,000~$25,000（顶尖商学院或物流专业硕士） |
+| High school graduation + professional training | 2 Years (BTS) | $5,000~$12,000 (Public schools have lower tuition fees, while private commercial schools have higher fees) |
+| Bachelor's degree | 3 years (Licence) | $8,000~$20,000 (Apprenticeship may be included, with tuition fees covered by the company) |
+| Master's degree | 2 years (Master) | $10,000~$25,000 (Master's degree in logistics from top business schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物流与运输管理硕士 | 法国大学或商学院 | 可选 | 常为企业优先要求，非强制但显著提升竞争力 |
-| CACES（操作员证书） | 法国职业安全机构 | 可选 | 对现场作业理解有帮助，非总监强制要求 |
-| 驾照B类 | 法国行政机构 | 可选 | 部分站点要求自驾出差 |
+| Master of Logistics and Transportation Management | French universities or business schools | Optional | It is often a priority requirement for enterprises, not mandatory but significantly enhancing competitiveness |
+| CACES (Operator Certificate) | French occupational safety agency | Optional | It helps with understanding on-site operations and is not mandatory by the supervisor |
+| Category B driver's license | French administrative bodies | Optional | Some stations require self-driving trips |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。随着电子商务和供应链复杂化，物流站点总监需求稳定。法国物流业持续增长，但自动化可能减少部分岗位，复合型管理人才仍抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. As e-commerce and supply chains become more complex, the demand for logistics site directors remains stable. France's logistics industry continues to grow, but automation may reduce some positions, and versatile management talent remains in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，通常包括奖金 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪，大型企业可能更高 |
-| 高级（7年以上） | $60,000~$85,000 | 税前年薪，含利润分享和绩效奖金 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, usually including bonuses |
+| Mid-level (3–7 years) | $45,000~$60,000 | Pre-tax annual salaries may be higher for large companies |
+| Senior (7+ years) | $60,000~$85,000 | Pre-tax annual salary, including profit sharing and performance bonuses |
+| average salary | $52,284 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从物流主管、运营经理晋升，或向供应链总监、区域运营总监发展。需积累多站点管理经验及掌握数字化工具（WMS、TMS）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of the logistics site director will be redefined by AI automation: daily scheduling, report generation, and process monitoring will be compressed, but strategic planning, team management, and customer relationships will be amplified, requiring proactive embrace of technological change.
+
+You can be promoted from logistics supervisor or operations manager, or develop to supply chain director or regional operations director. Accumulate experience in multi-site management and master digital tools (WMS, TMS).
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates daily operational reports and KPI dashboards
+- Automatically formulate personnel scheduling and vehicle scheduling plans using optimization algorithms
+- Monitor warehouse operational compliance through computer vision and trigger alerts
+- The AI system automatically handles customer inquiries and preliminary complaint classification
+
+**Where AI augments the role:**
+
+- AI-assisted predictive analytics optimize inventory levels and purchasing decisions
+- Use natural language processing tools to quickly aggregate multi-source information to assist decision-making
+- Digital twin models simulate the impact of different operational strategies
+- The real-time data analysis dashboard supports rapid on-site problem diagnosis
+- Automation tools assist with employee training and quality inspections
+
+**Human moat:**
+
+- On-the-spot judgment and crisis management in emergencies
+- Build trust and collaborative relationships with suppliers, customers, and teams
+- Understand complex organizational politics and drive cross-departmental change
+- Creative solution design for unstructured problems
+- The ultimate commitment to safety, compliance, and ethical responsibility
+
+**Skills to build:**
+
+- Proficient in data analysis tools (such as Python/Pandas, Tableau)
+- Learn advanced configuration and automation interfaces for warehouse management systems (WMS).
+- Familiar with fundamental AI/machine learning concepts and their applications in logistics
+- Enhance change management, leadership, and communication soft skills
+- Learn about sustainable logistics and green operating practices
+- Master project management and Lean Six Sigma methods
+
+**Key growth areas:**
 
 - E-commerce logistics
 - Supply chain digitalization
@@ -63,68 +98,67 @@ Oversees the overall operations of a logistics site (warehouse, distribution cen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能管理岗位，需提供年薪至少1.5倍SMIC（约37000€）的合同，有效期4年 |
-| Subclass Salarié（Employee (Salarié)） | 受雇工作居留，需雇主担保，薪资符合法国标准，有效期1年可续 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪至少53300€（2023），需高资质，有效期4年 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled management positions, a contract with an annual salary of at least 1.5 times SMIC (approximately €37,000) is required, valid for 4 years |
+| Subclass Salarié (Employee (Salarié)) | Residence permit for employed work requires employer sponsorship, salary meets French standards, valid for 1 year and renewable |
+| Subclass Carte bleue UE (EU Blue Card) | Annual salary at least €53,300 (2023), high qualifications required, valid for 4 years |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Logistics Site Director？**
-- 具备领导力和抗压能力，能管理大型团队
-- 擅长流程优化和数据分析
-- 有供应链或物流背景，熟悉WMS/TMS系统
-
-**谁不适合学Logistics Site Director？**
-- 不善于处理突发问题和时间压力
-- 避免办公室政治，偏好独立工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess leadership and stress tolerance, and be able to manage large teams
+- Skilled in process optimization and data analysis
+- Background in supply chain or logistics, familiar with WMS/TMS systems
+
+**Who is not suited**
+- Not good at handling unexpected issues and time pressure
+- Avoid office politics and prefer independent work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for logistics site directors?**
+A: France: junior ~€35k-45k, mid-level €45k-60k, senior up to €85k+. Higher salaries in large corporations or group logistics centers, including bonuses.
+
+**Q: Can logistics site directors apply for skilled immigration to France?**
+A: Yes, you can. This occupation is a high-demand position that can be immigrated through Passeport Talent or the EU Blue Card, requires employer sponsorship, and meets salary requirements.
+
+**Q: What are the career prospects for this occupation?**
+A: Good. E-commerce and supply chain transformation drive demand; promotion to Supply Chain Director or Regional Operations Director requires mastery of digital and automation skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Logistics Site Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Logistics Site Director?**
-答：In France, entry-level ranges from €35k-45k, mid-level €45k-60k, and senior can exceed €85k gross annually, with bonuses.
-
-**问：Can a Logistics Site Director apply for French skilled migration?**
-答：Yes. It is a shortage occupation, eligible for Talent Passport or EU Blue Card, requiring employer sponsorship and a qualifying salary.
-
-**问：What are the career prospects for this occupation?**
-答：Good. E-commerce and supply chain transformation drive demand; progression to Supply Chain Director or Regional Operations Director is possible with digital and automation skills.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

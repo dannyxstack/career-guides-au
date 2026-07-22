@@ -1,58 +1,94 @@
-# Environmental Science Teachers, Postsecondary（Environmental Science Teachers, Postsecondary）职业分析 · 美国
+# Environmental Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1053 – Environmental Science Teachers, Postsecondary。**
+**Occupation code: 25-1053 (SOC)**
 
-Teach environmental science courses at the postsecondary level, often combining teaching with research.
+Teaching environmental science courses at colleges or universities, including combining teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5年 | $100,000~$200,000（含学费与生活费） |
-| 硕士学位 | 2年 | $40,000~$80,000（部分学校提供助教奖学金） |
+| Doctoral degree (PhD) | 5 years | $100,000~$200,000 (Including tuition and living expenses) |
+| Master's degree | 2 years | $40,000~$80,000 (Some schools offer teaching assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 通常需要 |
-| 教学经验 | 大学 | 可选 | 助教或讲师经历 |
+| Doctoral degree (PhD) | University | Required | Typically required |
+| Teaching experience | University | Optional | Teaching assistant or lecturer experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,000。美国环境科学教授岗位增长稳定，受环保政策和可再生能源研究推动，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. US environmental science professor positions grow steadily, driven by environmental policies and renewable energy research, but competition is fierce.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理教授或讲师 |
-| 中级（4-9年） | $70,000~$90,000 | 副教授 |
-| 高级（10年以上） | $90,000~$130,000 | 正教授 |
+| Median salary | $94,980 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant professor or lecturer |
+| Intermediate (4-9 years) | $70,000~$90,000 | associate professor |
+| Senior (10+ years) | $90,000~$130,000 | Full professor |
+| average salary | $103,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从讲师或助理教授起步，晋升副教授、正教授，可兼任系主任或研究机构负责人。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall job outlook for environmental science professors is mixed: AI can automate some literature searches, data preprocessing, and basic teaching assessments, but core field research design, interdisciplinary thinking, and ethical judgment are hard to replace, while AI can significantly enhance data analysis and simulation teaching.
+
+Usually start as lecturer or assistant professor, progress to associate professor, full professor, may also serve as department chair or research institute director.
+
+**Tasks most exposed to AI:**
+
+- Automated literature review and citation management, e.g., using AI to quickly screen large numbers of papers and generate summaries
+- Automated basic lab data processing and chart generation, such as statistical tests and visualization reports
+- Automate repetitive teaching Q&A, such as using AI chatbots to answer common course questions
+- Automated exam scoring and assignment grading, especially multiple-choice and standardized tests
+- Automate some administrative tasks, such as course scheduling, student grade recording, and report generation
+
+**Where AI augments the role:**
+
+- Use AI for environmental modeling and complex system simulation to accelerate research on climate change or ecological processes
+- Use natural language processing tools to quickly extract key information from unstructured environmental reports to assist empirical research
+- Use AI-driven data analysis platforms to uncover hidden patterns in data, enhancing paper quality
+- Using virtual reality and AI-generated content to enhance immersive experiences in field trip teaching
+- AI-assisted personalized learning platform, tailoring teaching plans and feedback based on student foundations
+
+**Human moat:**
+
+- Field surveys and experimental design: requiring on-site judgment, problem-solving, and safety responsibility
+- Interdisciplinary integration ability: comprehensive analysis combining environmental science with social, policy, and economic factors.
+- Research ethics and academic integrity: supervise student research behavior, prevent data falsification and plagiarism
+- Advanced critical thinking: evaluate AI output reliability, identify model bias and limitations
+- Interpersonal communication and persuasion: collaborating with policymakers, communities, and businesses to drive application of outcomes
+
+**Skills to build:**
+
+- Machine learning and environmental data analysis: master tools like scikit-learn, TensorFlow in Python/R
+- Advanced applications in remote sensing and GIS: using AI to automatically interpret remote sensing images, such as land use classification
+- Science communication and digital storytelling: using data visualization tools and AI-generated reports to communicate to non-specialist audiences.
+- AI ethics and explainability: understanding fairness, transparency, and governance frameworks for environmental AI applications
+- Interdisciplinary collaboration: work with computer scientists and statisticians to develop environmental models
+- Teaching technology integration: master the integration of learning management systems (LMS) with AI tutoring tools
+
+**Key growth areas:**
 
 - Environmental policy
 - Renewable energy
@@ -61,65 +97,64 @@ Teach environmental science courses at the postsecondary level, often combining 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 大学教授常用H-1B签证，需大学担保，名额有限。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于拥有高等学位的教授，通过PERM或国家利益豁免申请绿卡。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主通过劳工证申请永久居留，过程通常需1-2年。 |
+| Subclass H-1B (H-1B Specialty Occupations) | University professors commonly use H-1B visas, requiring university sponsorship with limited slots. |
+| Subclass EB-2 (Employment-Based Second Preference) | For professors with advanced degrees, applying for green card via PERM or National Interest Waiver. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers apply for permanent residence through labor certification, a process that typically takes 1-2 years. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Science Teachers, Postsecondary？**
-- 热爱环境科学并有研究热情的人
-- 擅长教学与沟通，能够引导学生
-- 追求学术稳定与终身教职的人
-
-**谁不适合学Environmental Science Teachers, Postsecondary？**
-- 不喜欢长时间学术写作与发表压力
-- 偏好高薪与快速晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about environmental science and research
+- Skilled in teaching and communication, able to guide students
+- Those seeking academic stability and tenure
+
+**Who is not suited**
+- Don't like the pressure of long-term academic writing and publishing
+- Those who prefer high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an environmental science professor?**
+A: Median annual salary for US environmental science professors is about USD 80,000, assistant professors starting at USD 55,000-70,000, full professors can earn over USD 130,000, depending on institution type and location.
+
+**Q: Is it difficult for foreigners to immigrate to the US as environmental science professors?**
+A: Moderately difficult. Requires a doctoral degree, typically works under H-1B visa, then applies for EB-2 green card. Competition is fierce, but university support is strong.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Environmental Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an environmental science professor?**
-答：Median salary around $80,000; assistant professors start at $55,000-$70,000; full professors can earn over $130,000, depending on institution and location.
-
-**问：Is it difficult for foreigners to immigrate as environmental science professors in the US?**
-答：Moderately difficult. Requires a PhD, typically via H-1B then EB-2 green card. Competitive but universities provide strong support.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

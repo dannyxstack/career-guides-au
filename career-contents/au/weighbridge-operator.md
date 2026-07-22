@@ -1,59 +1,95 @@
-# Weighbridge Operator（Weighbridge Operator）职业分析 · 澳大利亚
+# Weighbridge Operator — career analysis · Australia
 
-**职业代码：712922 – Weighbridge Operator。**
+**Occupation code: 712922 (ANZSCO)**
 
-Weighbridge operators operate weighbridge systems to measure the weight of trucks, trains, and other vehicles, record data, and issue tickets. They work in mining, agriculture, waste management, and logistics to ensure legal loading and accurate billing.
+Weighbridge operator operates the weighbridge system to measure the weight of goods on trucks, trains, etc., records data and issues tickets. Common in mining, agriculture, waste management and logistics, ensuring compliant loading and accurate billing.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期培训或证书 | 2-6周 | $500~$3,000（可在TAFE或私人培训机构完成） |
-| 在职培训 | 1-3个月 | —（通常由雇主提供，成本较低） |
+| Short-term training or certificate | 2-6 weeks | $500~$3,000 (Can be completed at TAFE or private training institution) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Usually provided by employers, with low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 暂无强制要求 | N/A | 可选 | 通常只需高中毕业及在岗培训，部分雇主偏好持有称重证书或驾照 |
+| No mandatory requirements | N/A | Optional | Usually only requires high school graduation and on-the-job training; some employers prefer candidates with a weighing certificate or driver's license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 5,000。澳洲矿业与农业持续发展，物流需求稳定，地磅操作员在偏远地区及港口枢纽有稳定就业机会。预计未来5年岗位数量小幅增长，但自动化称重系统可能影响部分基础岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. With the continued development of Australia's mining and agriculture industries, logistics demand remains stable, providing steady employment opportunities for weighbridge operators in remote areas and port hubs. The number of positions is expected to grow slightly over the next five years, but automated weighing systems may affect some basic roles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $50,000~$60,000 | 通常为全职，含加班费 |
-| 中级（2-5年） | $60,000~$75,000 | 含技能津贴与轮班补贴 |
-| 高级（5年以上） | $75,000~$90,000 | 通常为主管或偏远地区岗位 |
+| Median salary | $104,988 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $50,000~$60,000 | Usually full-time, including overtime pay |
+| Intermediate (2-5 years) | $60,000~$75,000 | Including skill allowance and shift allowance |
+| Senior (5+ years) | $75,000~$90,000 | Usually supervisory or remote area positions |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 通常从称重助手或行政岗起步，可晋升为地磅主管、物流协调员或运输调度员。部分操作员通过培训转往采矿或农业设备操作领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of weighbridge operators will be replaced by automated systems; entry-level positions shrink, but on-site supervision and anomaly handling still need humans; overall job numbers decline.
+
+Usually starts as a weighbridge assistant or admin role, can advance to weighbridge supervisor, logistics coordinator, or transport dispatcher. Some operators move into mining or agricultural equipment operation through training.
+
+**Tasks most exposed to AI:**
+
+- Read and record weighbridge data
+- Issuing paper tickets and entering into the system
+- Simple fault troubleshooting (e.g., weighing anomalies)
+- Vehicle guidance and queue management
+- Check goods information against data for matching
+
+**Where AI augments the role:**
+
+- AI-assisted monitoring of weighing anomalies and data verification.
+- Automated report generation and compliance analysis
+- Remote centralized monitoring of multi-site weighbridge operations
+- Digital twin system predicts equipment maintenance cycles
+- Intelligent logistics system integration optimizes loading plans
+
+**Human moat:**
+
+- On-site safety supervision and emergency handling.
+- Manual diagnosis and repair of equipment mechanical faults
+- Interpersonal communication and coordination with drivers and dispatchers
+- Judgment and handling of non-standard goods (e.g., dangerous goods, oversized items)
+- Understand and implement industry compliance and audit requirements
+
+**Skills to build:**
+
+- Operation and maintenance of weighbridge automation systems
+- Basic data analysis and report generation
+- Equipment fault diagnosis and basic repair
+- Safety and compliance knowledge (e.g., legal, environmental)
+- Communication and customer service skills
+- Use of IoT and remote monitoring systems
+
+**Key growth areas:**
 
 - Mining
 - Logistics
@@ -62,62 +98,64 @@ Weighbridge operators operate weighbridge systems to measure the weight of truck
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需雇主证明无法招到本地人，地磅操作员为ANZSCO技能等级4职业，要求较低。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保签证，适合在指定偏远地区工作的地磅操作员。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requiring the employer to prove inability to hire locally. Weighbridge operators are ANZSCO Skill Level 4 occupations, with lower requirements. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa suitable for weighbridge operators working in designated regional areas. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Weighbridge Operator？**
-- 注重细节、能久坐并适应轮班工作
-- 对矿业、农业或物流行业感兴趣
-- 愿意在偏远地区或工业区就业
+**Who is suited**
+- Detail-oriented, able to sit for long periods, and adaptable to shift work
+- Interest in mining, agriculture, or logistics industries
+- Willing to work in remote or industrial areas
 
-**谁不适合学Weighbridge Operator？**
-- 希望快速晋升或高薪职业
-- 不适应单调重复的办公环境
+**Who is not suited**
+- Looking for fast promotion or high-paying career
+- Not suited to monotonous and repetitive office environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary of a weighbridge operator?**
+A: Annual salary around AUD 50,000-90,000, entry-level about AUD 50,000-60,000, senior or remote area up to AUD 75,000-90,000.
+
+**Q: Can weighbridge operators migrate to Australia?**
+A: Limited pathways. Typically only through employer sponsorship (482 or 494 visa for regional areas), requiring employer cooperation. Skilled migration (189/190) is generally not feasible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Weighbridge Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a weighbridge operator?**
-答：Annual salary ranges from AUD 50,000 to 90,000, entry-level AUD 50-60k, senior or remote roles up to AUD 75-90k.
-
-**问：Can a weighbridge operator migrate to Australia?**
-答：Limited. Usually only through employer sponsorship (482 or regional 494), with employer support. General skilled migration (189/190) is generally not available.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

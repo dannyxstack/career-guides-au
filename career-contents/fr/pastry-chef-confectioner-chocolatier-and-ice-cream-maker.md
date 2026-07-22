@@ -1,60 +1,94 @@
-# Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker（Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker）职业分析 · FR
+# Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker — career analysis · France
 
-**职业代码：D1104 – Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker。**
+**Occupation code: D1104 (ROME)**
 
-Professionals specializing in pastries, candies, chocolates, and ice cream, working in upscale hotels, patisseries, or artisan boutiques, requiring precision in recipes and artistic decoration skills.
+Professionals responsible for making pastries, candies, chocolates, and ice creams are commonly found in high-end hotels, dessert shops, or independent workshops, requiring precise recipes and artistic decoration skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Pâtissier | 2年 | —（公立学校免费，私立约1000-2000欧元/年） |
-| BTS Pâtisserie (暂时无此BTS，实为MC或BTM) | 2年 | —（实习与学徒制通常免费） |
-| BP Pâtissier或高等甜点文凭（如Ferrandi） | 2年 | $8,000~$15,000（私立名厨学校费用较高，通常8k-15k欧元/年） |
+| CAP Pâtissier | 2 years | $0~$2,000 (Public schools are free, private approx. €1,000-2,000 per year) |
+| BTS Pâtisserie (currently not a BTS, but actually MC or BTM) | 2 years | $0~$3,000 (Internships and apprenticeships are usually free) |
+| BP Pâtissier or Higher Dessert Diploma (such as Ferrandi) | 2 years | $8,000~$15,000 (Private celebrity chef schools are expensive, usually 8,000 to 15,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Pâtissier | 法国教育部 | 必备 | 国家文凭，行业入门必备 |
-| LCMB（液化糖浆安全证书） | 法国劳工部 | 可选 | 特定岗位（如重型设备操作）可能需要 |
-| BP Pâtissier | 法国教育部 | 可选 | 高级职业证书，提升管理能力 |
+| CAP Pâtissier | French Ministry of Education | Required | National diploma, essential for industry entry |
+| LCMB (Liquefied Syrup Safety Certificate) | French Ministry of Labor | Optional | Specific positions (such as heavy equipment operation) may require them |
+| BP Pâtissier | French Ministry of Education | Optional | Advanced professional certificates to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国对优质手工甜点需求稳定，尤其在旅游区和高端餐饮业。虽然自动化部分环节，但创意和手工技能仍不可替代。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. France has stable demand for high-quality handmade desserts, especially in tourist areas and the upscale dining industry. Although some steps are automated, creativity and manual skills remain irreplaceable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 一般为SMIC（法定最低工资）基础上浮 |
-| 中级（3-7年） | $26,000~$35,000 | 酒店或知名甜品店主厨 |
-| 高级（7年以上） | $36,000~$55,000 | 米其林餐厅甜点主厨或工坊主厨 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Generally, it is based on the SMIC (statutory minimum wage). |
+| Mid-level (3–7 years) | $26,000~$35,000 | Chefs at hotels or famous dessert shops |
+| Senior (7+ years) | $36,000~$55,000 | Michelin-starred restaurant dessert chefs or workshop chefs |
+| average salary | $23,388 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 从学徒（CAP）开始，可晋升为主厨（Chef pâtissier），或开设独立甜品店。海外经验（如米其林餐厅）可加速职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
+
+Starting from an apprentice (CAP), you can be promoted to Chef pâtissier or open an independent dessert shop. Overseas experience (such as Michelin-starred restaurants) can accelerate career development.
+
+**Tasks most exposed to AI:**
+
+- Standardized dish preparation (e.g., grilling, frying, and other repetitive cooking)
+- Basic food preparation (chopping, washing, sorting)
+- Inventory management and order generation (automated systems replace manual counting)
+- Precision operations like temperature monitoring and timing (sensor and AI control)
+
+**Where AI augments the role:**
+
+- Menu development: AI analyzes diner preferences and health trends to assist innovative recipes
+- Cost control: AI optimises ingredient procurement and reduces waste
+- Kitchen coordination: AI schedules multiple orders to improve meal delivery efficiency
+- Quality monitoring: Computer vision inspects dish appearance and plating consistency
+
+**Human moat:**
+
+- Creative menu development and personalization
+- Sensory evaluation of ingredient quality (smell, taste)
+- Team management and on-site decision-making under high pressure
+- Dining experience design for customer interaction
+- Cultural Heritage and Preservation of Regional Flavors
+
+**Skills to build:**
+
+- AI recipe development and data analysis tools (e.g., IBM Chef Watson)
+- Operating and maintaining smart kitchen equipment
+- Cost management software and supply chain optimization
+- Social media and digital marketing (for personal brand promotion)
+- Sustainability and zero-waste cooking philosophy
+- Cross-cultural dietary knowledge (to meet diverse customer needs)
+
+**Key growth areas:**
 
 - Artisan pastry
 - Bean-to-bar chocolate
@@ -63,68 +97,67 @@ Professionals specializing in pastries, candies, chocolates, and ice cream, work
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (Profession Artistique et Culturelle)） | 适用于艺术家或手工艺人才，需提供作品集或雇主合同，有效期4年。 |
-| Subclass Salarié（Salarié (Employed Worker)） | 需获得法国雇主工作合同（CDI），且薪资不低于SMIC，可转长期居留。 |
-| Subclass Recherche emploi（Job Seeker (for graduates)） | 法国或欧盟硕士毕业生可申请一年找工作签证，找到工作后换工签。 |
+| Subclass Passeport Talent (Talent Passport (Profession Artistique et Culturelle)) | Suitable for artists or craftsmen, requires a portfolio or employer contract, valid for 4 years. |
+| Subclass Salarié (Salarié (Employed Worker)) | You must obtain a French employer work contract (CDI) and earn a salary not lower than SMIC to qualify for long-term residence. |
+| Subclass Recherche emploi (Job Seeker (for graduates)) | French or EU master's graduates can apply for a one-year job search visa and exchange for a work visa after finding a job. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker？**
-- 热爱手工制作和美食艺术，有耐心和注重细节的人
-- 愿意从学徒做起，逐步积累经验的人
-- 有创意，并想开设自己甜品店的人
-
-**谁不适合学Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker？**
-- 不喜欢早起和长时间站立的人
-- 对重复性操作和压力敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about handicrafts and the art of food, patient and detail-oriented
+- Those who are willing to start as apprentices and gradually gain experience
+- Creative people who want to open their own dessert shop
+
+**Who is not suited**
+- People who dislike getting up early and standing for long periods
+- People sensitive to repetitive operations and stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French pastry chefs?**
+A: Entry-level about €25k, mid to senior can reach €55k, celebrity chefs or self-employed can be higher.
+
+**Q: How can non-EU pastry chefs immigrate to France?**
+A: You can use the Passeport Talent Passport or Salarié work visa, which requires a contract from a French employer. A CAP diploma helps with the visa.
+
+**Q: Is the qualification of a Chinese pastry chef recognized in France?**
+A: Partial recognition is required through the French CAP exam or reconnaissance des qualifications; it is recommended to obtain CAP first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 一般（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pastry Chef, Confectioner, Chocolatier, and Ice Cream Maker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a pastry chef in France?**
-答：Entry-level around €25k, senior up to €55k, higher for renowned chefs or self-employed.
-
-**问：How can non-EU pastry chefs immigrate to France?**
-答：Through Talent Passport or Salarié visa, requiring a French employer contract; CAP diploma facilitates the process.
-
-**问：Are Chinese pastry qualifications recognized in France?**
-答：Require CAP exam or recognition of qualifications; it is advisable to obtain CAP.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

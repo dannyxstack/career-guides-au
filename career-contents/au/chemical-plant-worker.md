@@ -1,59 +1,95 @@
-# Chemical Plant Worker（Chemical Plant Worker）职业分析 · 澳大利亚
+# Chemical Plant Worker — career analysis · Australia
 
-**职业代码：839912 – Chemical Plant Worker。**
+**Occupation code: 839912 (ANZSCO)**
 
-Chemical Plant Workers operate and maintain chemical production equipment, monitor reaction processes, and ensure safe and efficient operations. Tasks include handling raw materials, inspecting equipment, troubleshooting, and recording production data. Work is typically in chemical plants or refineries, requiring strict adherence to safety protocols.
+Chemical plant workers are responsible for operating and maintaining chemical production equipment, monitoring reaction processes, and ensuring safe and efficient production. This role involves raw material handling, equipment inspection, troubleshooting, and recording production data. The work environment is typically in chemical plants or refineries, requiring strict adherence to safety protocols.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 III/IV | 1-2年 | $4,000~$15,000（TAFE课程费用，国际生更高） |
-| 短期培训/学徒制 | 2-4年 | —（雇主资助学徒，培训费用极低） |
+| Certificate III/IV | 1-2 years | $4,000~$15,000 (TAFE course fees, higher for international students) |
+| Short-term training/apprenticeship | 2-4 years | $0~$5,000 (Employer-sponsored apprenticeship with very low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 过程制造证书 III | TAFE或注册培训机构 | 必备 | 核心资质，涵盖操作安全与设备维护 |
-| 危险品处理许可 | 州工作安全机构 | 必备 | 根据工作场所要求，处理化学品需持有 |
-| 工作安全白卡 | SafeWork NSW等 | 必备 | 建筑/工业现场基本安全卡 |
+| Certificate III in Process Manufacturing | TAFE or registered training organizations | Required | Core qualifications covering operational safety and equipment maintenance |
+| Hazardous materials handling permit | State workplace safety agency | Required | Depending on workplace requirements, a license is required to handle chemicals |
+| Construction Safety White Card | SafeWork NSW, etc. | Required | Basic safety card for construction/industrial sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,800。澳洲化工厂工人就业前景稳定，受化工、矿业和制造业需求支撑。未来5年预计小幅增长，但自动化可能影响增速。偏远地区就业机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 6,800. Employment prospects for chemical plant workers in Australia are stable, supported by demand from the chemical, mining, and manufacturing industries. Slight growth is expected over the next 5 years, but automation may affect the growth rate. More opportunities in regional areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $52,000~$65,000 | 起薪较低，含轮班津贴 |
-| 中级（3-7年） | $65,000~$82,000 | 经验丰富者可获更高津贴 |
-| 高级（7年以上） | $80,000~$100,000 | 含主管或高级操作员岗位 |
+| Median salary | $78,988 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $52,000~$65,000 | Low starting salary, includes shift allowances. |
+| Mid-level (3–7 years) | $65,000~$82,000 | Higher allowances for experienced staff |
+| Senior (7+ years) | $80,000~$100,000 | Includes supervisor or senior operator positions |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：从操作员起步，可晋升为高级操作员或班组长，再进入生产主管或工艺技术员岗位。部分工人通过TAFE获得更高资质后转岗为工艺工程师或安全专员。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
+
+Career progression: start as an operator, advance to senior operator or team leader, then to production supervisor or process technician. Some workers transition to process engineer or safety officer after obtaining higher qualifications through TAFE.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of production parameters with alerts
+- Routine valve opening and temperature/pressure adjustment
+- Record production data and generate reports
+- Standardized operation of partial equipment start/stop
+- Rule-based fault detection
+
+**Where AI augments the role:**
+
+- Utilize AI predictive maintenance to reduce unplanned downtime
+- Simulate process optimization plans using digital twins
+- Analyze root causes of abnormal conditions with AI assistance
+- Use big data tools to optimize reaction conditions and energy consumption
+- Combines computer vision to automatically identify equipment defects
+
+**Human moat:**
+
+- Handling unforeseen process anomalies and emergency shutdowns
+- Cross-system (reaction, separation, utilities) coordination decisions.
+- Deep understanding and experiential judgment of complex process mechanisms
+- Efficient communication and emergency coordination with teams and external contractors
+- Non-formulaic flexible application of safety regulations
+
+**Skills to build:**
+
+- Chemical process simulation software (Aspen Plus)
+- Industrial Data Analysis and Machine Learning Basics
+- Advanced PLC/DCS programming and troubleshooting
+- Python or R for process data analysis
+- Industrial Internet of Things (IIoT) basics.
+- HAZOP and LOPA risk assessment methods.
+
+**Key growth areas:**
 
 - Chemical Manufacturing
 - Mining Support
@@ -62,69 +98,68 @@ Chemical Plant Workers operate and maintain chemical production equipment, monit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需2年相关工作经验和中长期清单职业 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需482过渡或直接申请，职业在MLTSSL |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需职业在州担保清单，各州要求不同 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区临时签证，后转191永居，需州或亲属担保 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requiring 2 years of relevant work experience and an occupation on the Medium and Long-term Strategic Skills List (MLTSSL) |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, via 482 transition or direct application, occupation on MLTSSL. |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residency visa, requires occupation on the state nomination list, requirements vary by state |
+| Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa, then transfer to 191 permanent residence, requires state or family sponsorship |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical Plant Worker？**
-- 喜欢动手操作、在工业环境中工作的人
-- 能适应轮班和体力劳动，注重安全规范
-- 愿意在偏远地区或化工基地工作者
-
-**谁不适合学Chemical Plant Worker？**
-- 对化学试剂或刺激性气味敏感者
-- 厌恶重复性体力劳动或倒班者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work in industrial environments
+- Able to adapt to shift work and physical labor, with emphasis on safety regulations
+- Willing to work in remote areas or chemical bases
+
+**Who is not suited**
+- Those sensitive to chemical reagents or irritating odors
+- Those who dislike repetitive physical labor or shift work
+
+---
+
+## 8. FAQ
+
+**Q: Does the salary for chemical plant workers include overtime pay?**
+A: Usually paid hourly, with overtime at 1.5-2 times the base rate; actual income varies by shift and overtime.
+
+**Q: How can chemical plant workers immigrate to Australia?**
+A: Must pass a skills assessment (TRA), meet English and age requirements, primarily through employer-sponsored visas (482/186) or the 491 regional visa.
+
+**Q: What career advancement opportunities do chemical plant workers have?**
+A: Can be promoted to senior operator, team leader, production supervisor, or transition to process technician, safety specialist through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chemical Plant Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does the salary include overtime pay?**
-答：Typically hourly wage; overtime is paid at 1.5-2x base rate. Actual income varies with shifts and overtime.
-
-**问：How can a Chemical Plant Worker migrate to Australia?**
-答：Requires skills assessment (TRA), meet English and age criteria. Main pathways: 482/186 employer sponsorship or 491 regional visa.
-
-**问：What career progression opportunities exist?**
-答：Can advance to senior operator, shift supervisor, production manager, or move to process technician or safety officer via further study.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

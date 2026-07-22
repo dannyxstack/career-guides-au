@@ -1,60 +1,93 @@
-# Glazier（Glazier）职业分析 · ES
+# Glazier — career analysis · Spain
 
-**职业代码：7293 – Glazier。**
+**Occupation code: 7293 (CNO)**
 
-Glaziers install, replace, and repair glass windows, mirrors, glass facades and other glass products in construction, renovation, and maintenance projects. They are essential skilled tradespeople in the building industry.
+Glassworkers are responsible for installing, replaceing, and repairing glass windows, mirrors, glass curtain walls, and other glass products in construction, decoration, and maintenance projects. They are an important technical occupation in building construction and maintenance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $300~$1,500（公立FP学费低，材料费另计） |
-| 高级职业培训（FP Grado Superior） | 2年 | $400~$2,000（更侧重项目管理与复杂系统安装） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $300~$1,500 (Public FP tuition is low, with additional material fees) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $400~$2,000 (Focuses more on project management and complex system installation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃工职业培训文凭 | 西班牙教育部认可的FP学校 | 可选 | 建议完成FP Grado Medio或Grado Superior相关专业 |
-| 高空作业安全认证 | 西班牙劳动与社会经济部认可的培训机构 | 必备 | 从事高层玻璃安装需持有 |
+| Certification for working at heights | A training institution recognized by the Spanish Ministry of Labor and Social Economy | Required | Applicants engaged in high-rise glass installation must hold a license |
+| Glassworker vocational training diploma | FP schools recognized by the Spanish Ministry of Education | Optional | It is recommended to complete FP Grado Medio or Grado Superior-related majors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。西班牙建筑业复苏推动玻璃工需求稳定增长，尤其在旧楼翻新和节能玻璃安装领域。马德里、巴塞罗那等大城市及沿海旅游区持续有招聘需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. The recovery of Spain's construction industry has driven steady growth in demand for glassworkers, especially in the renovation of old buildings and the installation of energy-efficient glass. Major cities like Madrid and Barcelona, as well as coastal tourist areas, continue to see recruitment demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 含工头或项目负责人 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Including foremen or project leaders |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 玻璃工通常从学徒做起，积累经验后可晋升为工头或项目主管，也可选择专攻安全玻璃、艺术玻璃或幕墙系统等高附加值方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
+
+Glassworkers usually start as apprentices and can be promoted to foremen or project supervisors after gaining experience, or choose to specialize in high value-added fields such as safety glass, artistic glass, or facade systems.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Construction recovery
 - Energy-efficient glazing
@@ -63,62 +96,64 @@ Glaziers install, replace, and repair glass windows, mirrors, glass facades and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 由西班牙雇主担保的工作居留，需证明职位无法由本地或欧盟公民填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许居留6个月寻找工作，但需证明足够经济能力。 |
+| Subclass Cuenta ajena (Employed Work Permit) | For work residence sponsored by a Spanish employer, it must be proven that the position cannot be filled by a local or EU citizen. |
+| Subclass Busqueda empleo (Job Search Visa) | Allow 6 months of stay to look for work, but you must prove sufficient financial capability. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Glazier？**
-- 喜欢动手操作和户外工作
-- 注重细节和精准测量
-- 愿意接受安全培训并从事高空作业
+**Who is suited**
+- Enjoys hands-on and outdoor work
+- Attention to detail and precise measurement
+- Willing to receive safety training and engage in high-altitude operations
 
-**谁不适合学Glazier？**
-- 恐高或不适应粉尘环境
-- 寻求高薪职业者
+**Who is not suited**
+- Afraid of heights or unsuitable for dusty environments
+- Looking for high-paying professionals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a glassworker in Spain?**
+A: Junior glazier salary approx. €18,000-22,000 per year, experienced foreman up to €28,000-35,000. Overtime and project bonuses are common ways to increase income.
+
+**Q: Can glassworkers go to Spain through skilled immigration?**
+A: Glassworkers are not considered high-skilled professions; third-country immigrants usually require employer sponsorship (work residence in Cuenta ajena) and local recruitment is preferred. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Glazier属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a glazier in Spain?**
-答：Entry-level glaziers earn €18,000-€22,000 annually, while experienced foremen can reach €28,000-€35,000. Overtime and project bonuses are common.
-
-**问：Can a glazier migrate to Spain as a skilled worker?**
-答：Glazier is not a high-skilled occupation. Third-country nationals usually need employer sponsorship (Cuenta ajena) and a labor market test. EU citizens can move freely.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

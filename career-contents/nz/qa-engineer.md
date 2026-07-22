@@ -1,60 +1,92 @@
-# QA Engineer（QA Engineer）职业分析 · 新西兰
+# QA Engineer — career analysis · New Zealand
 
-**职业代码：261314 – QA Engineer。**
+**Occupation code: 261314 (ANZSCO)**
 
-QA Engineers ensure software quality; demand is steady with immigration pathways via AEWV or Skilled Migrant Category (Green List Tier 1).
+Test engineers in IT handle quality assurance, demand stable; can migrate to New Zealand via accredited employer work visa or skilled migration (Green List Tier 1).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（新西兰大学IT本科年均学费约$30k-$45k） |
-| 硕士 | 1-2年 | $35,000~$50,000（硕士课程年均学费约$35k-$50k） |
-| 短期培训 | 6个月 | $5,000~$15,000（自动化测试培训或证书课程） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition for IT bachelor's in New Zealand universities approx. $30k-$45k) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Average annual master's tuition ~$35k-$50k) |
+| Short-term training | 6 months. | $5,000~$15,000 (Automated testing training or certification course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ISTQB认证 | ISTQB | 可选 | 国际软件测试资格认证，非强制但雇主偏好 |
-| 计算机相关学位 | 大学/理工学院 | 可选 | 大多数雇主要求IT或相关领域学士学位 |
-| 新西兰IT职业注册 | ITPNZ | 可选 | 技术移民加分可选，非强制 |
+| ISTQB certification | ISTQB | Optional | International Software Testing Qualifications Board certification, not mandatory but preferred by employers. |
+| Computer-related degree | University/polytechnic | Optional | Most employers require a bachelor's degree in IT or a related field. |
+| New Zealand IT professional registration | ITPNZ | Optional | Optional for skilled migration points, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。新西兰IT行业持续增长，测试工程师需求稳健，尤其是自动化测试（Selenium、Playwright）技能。奥克兰、惠灵顿机会多，但初级职位竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's IT industry continues to grow; demand for test engineers is steady, especially in automation testing (Selenium, Playwright). Opportunities are abundant in Auckland and Wellington, but junior positions face moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 主要手动测试或基础自动化 |
-| 中级（3-6年） | $80,000~$110,000 | 具自动化测试经验，可独立设计框架 |
-| 高级（6年+） | $120,000~$150,000 | 技术领导者，性能或安全测试专家 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Mainly manual testing or basic automation |
+| Mid-level (3–6 years) | $80,000~$110,000 | Experience with automated testing, able to design frameworks independently |
+| Senior (6+ years) | $120,000~$150,000 | Technical leader, performance or security testing specialist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从手动测试转向自动化测试，可晋升为高级QA、测试经理或质量架构师。积累自动化经验后薪资和移民机会显著提升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on test engineer roles is mixed: Repetitive tasks like automated test script writing and regression testing are easily replaced by AI, but AI also significantly improves test coverage and efficiency, while new directions like AI testing and model evaluation create new opportunities.
+
+Shift from manual testing to automation testing; can advance to senior QA, test manager, or quality architect. Accumulating automation experience significantly boosts salary and immigration opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating test cases and scripts from requirement documents
+- Batch execution of regression tests and result comparison
+- Automatic bug localization and classification based on historical defect data
+- Manual exploratory testing of simple functions (replaced by AI-driven tools)
+
+**Where AI augments the role:**
+
+- Use AI to recommend key test scenarios to increase test coverage depth
+- AI-assisted generation of test data and simulation of complex user behaviors
+- Automatic detection of potential defects and performance bottlenecks through AI log analysis
+- AI-driven visual testing and cross-browser compatibility checks
+
+**Human moat:**
+
+- Understanding complex business logic and end-to-end scenario design
+- Non-Functional Testing Strategies (Security, Usability, Accessibility)
+- Collaborating with development and product teams to promote quality culture
+- Innovation in testing methodologies for emerging technologies (e.g., AI models, blockchain)
+
+**Skills to build:**
+
+- AI/ML basics: understanding model training, evaluation, bias detection
+- AI testing tools: e.g., Test.ai, Applitools, Functionize
+- Advanced automation frameworks: Selenium/Playwright/Cypress + CI/CD integration
+- Data analysis and visualization: extract quality metrics from test data
+- Ability to Build Low-Code/No-Code Testing Platforms
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +95,67 @@ QA Engineers ensure software quality; demand is steady with immigration pathways
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿名单第一梯队，满足工资中位数要求可申请直接居留。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民6分制，需满足学历、工作经验等积分要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可在新西兰工作2-3年后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1, meeting the median wage requirement allows direct application for residence. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migrant 6-point system requiring points for education, work experience, etc. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can transfer to residence after working in New Zealand for 2-3 years. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学QA Engineer？**
-- 逻辑思维强、注重细节、有编码或自动化兴趣的IT毕业生
-- 有手动测试经验、希望转型自动化的在职人士
-- 寻求稳定移民路径、愿意学习新工具（Cypress/Playwright）的从业者
-
-**谁不适合学QA Engineer？**
-- 不喜欢重复性工作或缺乏耐心分析缺陷的人
-- 不愿持续学习新技术（如CI/CD、性能测试）的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- IT graduates with strong logical thinking, attention to detail, and interest in coding or automation
+- Working professionals with manual testing experience who want to transition to automation.
+- Seeking stable immigration pathways, willing to learn new tools (Cypress/Playwright)
+
+**Who is not suited**
+- Those who dislike repetitive work or lack patience to analyze defects
+- People unwilling to continuously learn new technologies (e.g., CI/CD, performance testing)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Test Engineer in New Zealand?**
+A: Mid-level automation test engineer salary is typically $80k-$110k, senior can reach $120k-$150k. Manual testing is slightly lower, around $55k-$75k.
+
+**Q: How can test engineers immigrate to New Zealand?**
+A: If the position is on the Green List (Tier 1), meeting the median wage ($29.66/hour) allows direct residence application; also possible via the Skilled Migrant Category 6-point system or through an AEWV work visa transition.
+
+**Q: How is career development for test engineers in New Zealand?**
+A: Can progress from manual testing to automated testing, performance testing, then to test manager or quality architect, with promising salary and immigration prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 良好（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-QA Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a QA Engineer in New Zealand?**
-答：Mid-level automation QA earns NZD $80k-$110k; senior up to $120k-$150k. Manual testing is lower at $55k-$75k.
-
-**问：How can a QA Engineer immigrate to New Zealand?**
-答：If the role is on Green List Tier 1 and you meet median wage ($29.66/hr), you can apply for Straight to Residence. Alternatively, Skilled Migrant Category or AEWV visa.
-
-**问：What is the career progression for QA Engineers in NZ?**
-答：Progress from manual to automation, performance testing, to Test Manager or QA Architect; salaries and PR prospects improve significantly.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

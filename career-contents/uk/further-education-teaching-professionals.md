@@ -1,59 +1,92 @@
-# Further education teaching professionals（Further education teaching professionals）职业分析 · UK
+# Further education teaching professionals — career analysis · United Kingdom
 
-**职业代码：2312 – Further education teaching professionals。**
+**Occupation code: 2312 (SOC)**
 
-Teach trade, technical, commercial, and academic courses in further education colleges, sixth-form colleges, and adult education centres to students aged 16 and above, helping them gain vocational qualifications or progress to higher education.
+Teaches trade, technical, business, and academic courses at further education colleges, sixth-form colleges, and adult education institutions for students aged 16 and over, helping them gain vocational qualifications or progress to higher education.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $9,250~$12,000（每年学费，国际学生更高） |
-| PGCE或同等教师资格 | 1年 | $9,000~$15,000（国际学生学费更高） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (Annual tuition fees are higher for international students.) |
+| PGCE or equivalent teaching qualification | 1 year | $9,000~$15,000 (International students pay higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高等教育教师资格 | 教育与培训基金会 | 必备 | 通常通过PGCE、Cert Ed或Level 5 Diploma in Education and Training获得 |
-| 学科相关学士学位 | 大学 | 必备 | 教授特定学科需相关学位 |
-| 提升的DBS检查 | 披露与禁止服务 | 必备 | 所有教育岗位必需 |
+| Higher Education Teaching Qualification | Education and Training Foundation | Required | Usually obtained through PGCE, Cert Ed, or Level 5 Diploma in Education and Training |
+| Bachelor's degree in a related field | University | Required | A relevant degree is required to teach a specific subject. |
+| Enhanced DBS check | Disclosure and Barring Service | Required | Required for all education positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。英国继续教育领域面临教师短缺，尤其是STEM、英语和数学等学科。政府加大对职业教育的投入，预计未来几年需求稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The UK further education sector faces teacher shortages, especially in STEM, English, and mathematics. Government investment in vocational education is increasing, with demand expected to grow steadily in the coming years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 取决于地区和机构类型 |
-| 中级（3-8年） | $32,000~$42,000 | 包括高级讲师和课程负责人 |
-| 高级（8年以上） | $42,000~$55,000 | 包括部门主管和副校长 |
+| Median salary | $42,218 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Depends on region and institution type |
+| Mid-level (3–8 years) | $32,000~$42,000 | Including senior lecturers and course coordinators |
+| Senior (8+ years) | $42,000~$55,000 | Including department heads and deputy principals |
+| average salary | $43,649 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径通常从讲师起步，可晋升为高级讲师、课程主管、部门负责人，甚至学院副校长或校长。也可转向教育政策、培训咨询或高等教育领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Continuing education teaching professionals will not be easily replaced by AI but must actively embrace AI tools for personalised teaching and automating administrative tasks to improve efficiency and teaching outcomes, otherwise they may fall behind peers.
+
+Career path usually starts as lecturer, progressing to senior lecturer, course head, department head, and even deputy principal or principal of a college. Can also move into education policy, training consultancy, or higher education.
+
+**Tasks most exposed to AI:**
+
+- Standardized course content delivery (e.g., basic theory, factual knowledge)
+- Automated grading of student assignments and exams.
+- Automated FAQ answering (chatbots)
+- Automation of administrative tasks such as teaching calendars and notices
+
+**Where AI augments the role:**
+
+- Using AI to analyze student behavior data for personalized learning pathway recommendations
+- Design interactive and immersive teaching content (e.g., VR/case simulations) with AI assistance
+- Access AI-generated teaching cases and latest industry trends in real time to enrich classes
+- Automatically generate learning progress reports to assist teachers in personalized tutoring
+
+**Human moat:**
+
+- Face-to-face interaction, motivation, and emotional support (especially for adult students returning to school)
+- Teaching high-skill, high-risk practical courses (e.g., internships, welding, nursing)
+- Designing course content and evaluating whether AI tools are suitable for specific student groups
+- Collaborate with industry companies to ensure course content meets actual job requirements
+
+**Skills to build:**
+
+- Use of AI teaching tools (e.g., adaptive learning platforms, intelligent tutoring systems)
+- Data analytics and learning analytics (interpreting student data to adjust teaching)
+- Digital content creation and course design (integrating multimedia and interactive elements)
+- Project management and cross-departmental collaboration (with business partners)
+- Coaching and mentoring techniques (for adult learners)
+- Continuous learning and updating of industry expertise
+
+**Key growth areas:**
 
 - Further Education
 - Vocational Training
@@ -62,68 +95,67 @@ Teach trade, technical, commercial, and academic courses in further education co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合技术工人签证条件，可担保继续教育教师职位 |
-| Subclass T2 (General)（Tier 2 (General) Visa） | 适用于有雇主担保的技术工作者 |
-| Subclass Graduate（Graduate Visa） | 允许毕业生在英国工作两年，获取教学经验后转换为Skilled Worker |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meets skilled worker visa requirements; can sponsor continuing education teacher positions. |
+| Subclass T2 (General) (Tier 2 (General) Visa) | Applicable to employer-sponsored skilled workers |
+| Subclass Graduate (Graduate Visa) | Allows graduates to work in the UK for two years, then switch to Skilled Worker after gaining teaching experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Further education teaching professionals？**
-- 热爱教学和与学生互动的人
-- 具备特定行业经验并希望传授技能的人
-- 追求稳定职业和学校假期的人
-
-**谁不适合学Further education teaching professionals？**
-- 不喜欢行政工作和文书任务的人
-- 无法适应学生多样化需求和行为管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love teaching and interacting with students
+- People with specific industry experience who want to pass on their skills
+- For those seeking job stability and school holidays
+
+**Who is not suited**
+- People who dislike administrative work and paperwork
+- Those who cannot adapt to diverse student needs and behavior management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for continuing education teachers?**
+A: Primary teacher annual salary approx £25,000-32,000, intermediate approx £32,000-42,000, senior up to £42,000-55,000.
+
+**Q: Can continuing education teachers apply for skilled worker visas?**
+A: Yes, continuing education teachers are on the skilled worker visa list of eligible occupations, requiring employer sponsorship and meeting salary requirements.
+
+**Q: What are the career advancement opportunities?**
+A: Can advance from lecturer to senior lecturer, course director, department head, or even college leadership. Can also move into educational consulting or higher education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Further education teaching professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for further education teachers?**
-答：Entry-level teachers earn around £25,000-£32,000, mid-level £32,000-£42,000, and senior roles £42,000-£55,000.
-
-**问：Can further education teachers apply for a Skilled Worker visa?**
-答：Yes, further education teachers are eligible for the Skilled Worker visa, requiring a sponsored job and meeting salary thresholds.
-
-**问：What are the career progression opportunities?**
-答：You can progress from lecturer to senior lecturer, curriculum manager, head of department, or college leadership. Also possible to move into education consultancy or higher education.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

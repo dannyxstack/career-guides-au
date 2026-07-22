@@ -1,61 +1,94 @@
-# Sawmill and Woodworking Machine Operators（Sawmill and Woodworking Machine Operators）职业分析 · ES
+# Sawmill and Woodworking Machine Operators — career analysis · Spain
 
-**职业代码：8144 – Sawmill and Woodworking Machine Operators。**
+**Occupation code: 8144 (CNO)**
 
-Operate saws, planers, sanders and other woodworking machinery to process logs, boards and cork products. Work in sawmills, furniture workshops or construction sites.
+Operate woodworking machinery such as saws, planers, sanders, and other woodworking machines to process logs, boards, and cork products. Work in a lumber processing plant, furniture workshop, or construction site.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP中级 | 2年 | —（公立教育免费，仅注册费约200-600欧元/年） |
-| FP高级 | 2年 | —（公立教育免费，材料费约200-500欧元/年） |
+| FP Intermediate | 2 years | $0~$1,000 (Public education is free, with registration fees ranging from about 200 to 600 euros per year) |
+| FP Senior Class | 2 years | $0~$1,200 (Public education is free, with material fees of about 200-500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工机械操作员职业培训证书 | 西班牙教育部/自治区 | 可选 | FP Grado Medio在森林业或木工相关专业 |
-| 高空作业安全证 | 劳工部认可培训机构 | 可选 | 部分岗位需要操作高空设备 |
-| 学历认证 | 西班牙教育部 | 必备 | 若于第三国取得相关学历需申请homologación |
+| Qualification recognition | Spanish Ministry of Education | Required | If you obtain the relevant degree in a third country, you must apply for homologación |
+| Woodworking machinery operator vocational training certificate | Spanish Ministry of Education/Autonomous Community | Optional | FP Grado Medio specializes in forestry or woodworking-related fields |
+| High-altitude work safety certificate | Training institutions recognized by the Ministry of Labor | Optional | Some positions require operating high-altitude equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 32,000。西班牙建筑业回暖带动木材需求，但自动化可能减少低技能岗位。就业机会集中在北部林区（加利西亚、巴斯克）及木制品出口企业。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. The recovery of Spain's construction industry is driving demand for wood, but automation may reduce low-skilled jobs. Employment opportunities are concentrated in the northern forest regions (Galicia, Basque Country) and wood product export enterprises.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含社保分摊 |
-| 中级（3-8年） | $22,000~$28,000 | 税前年薪，含社保分摊 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，主管或技术员级别 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including social insurance contributions |
+| Mid-level (3–8 years) | $22,000~$28,000 | Pre-tax annual salary, including social insurance contributions |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, supervisor or technician level |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从操作员可晋升为产线组长或质检员。考取FP高级文凭后有机会成为技术主管或木材工艺师。部分转向家具制造或安装服务。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Sawmills and woodworking operators face a severe risk of automation compression: machine vision and robotic arms can replace core tasks like sorting and cutting, lowering entry barriers but greatly reducing the number of positions, leaving only a small number of tasks requiring complex judgment or maintenance.
+
+Operators can be promoted to production line leader or quality inspector. After obtaining the FP Advanced Diploma, there is an opportunity to become a technical supervisor or woodcrafter. Some have shifted towards furniture manufacturing or installation services.
+
+**Tasks most exposed to AI:**
+
+- Machine vision and quality sensors are used to automatically detect wood defects and perform graded sorting
+- Wood cutting plans and cutting are automatically completed using CNC saws and optimization software
+- Uses robotic arms and conveyor belt systems to automatically transport, stack, and pack timber
+- With IoT sensors and predictive maintenance algorithms, equipment status is automatically monitored and alerted in advance
+
+**Where AI augments the role:**
+
+- AI-assisted scheduling systems help operators optimize multi-order prioritization and capacity allocation
+- The digital twin model allows operators to remotely simulate and debug complex cutting procedures
+- AR glasses overlay real-time data (such as tool wear and moisture content) to guide operation
+- AI analyzes historical fault data to assist in diagnosing the causes of mechanical abnormalities
+
+**Human moat:**
+
+- Experience in manual judgment and fine-tuning when handling irregular, irregular, or high-value wood
+- Hands-on ability to quickly diagnose and repair sudden failures in automated equipment
+- Flexible on-site adjustments for customer customization needs (such as special textures and non-standard dimensions).
+- The ability to coordinate wood craftsmanship directly with architects and furniture designers
+
+**Skills to build:**
+
+- Basic Python or PLC programming (for setting automation parameters)
+- Operation and maintenance of CNC woodworking equipment (CNC, laser cutting).
+- Knowledge of process parameters such as wood drying and moisture content testing
+- Predictive maintenance and equipment fault diagnosis skills
+- Digital scheduling and basic use of ERP systems
+- Safety Standards and Environmental Protection Regulations (Dust, Noise, Waste Disposal)
+
+**Key growth areas:**
 
 - automation
 - construction recovery
@@ -64,66 +97,68 @@ Operate saws, planers, sanders and other woodworking machinery to process logs, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需西班牙雇主担保，且合同符合最低薪资要求。适用该职业，但非紧缺故批准门槛较高。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 通常不适用，因职业通常不满足高技能要求（本科或同等学历）。 |
-| Subclass Busqueda empleo（Job Search Visa (24 months)） | 可在西班牙境内求职，但需证明有足够经济能力。不易获批。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Spanish employer sponsorship is required, and the contract meets minimum wage requirements. This applies to this occupation, but since it is not urgent, the approval threshold is relatively high. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Usually not applicable, as the occupation typically does not meet high-skill requirements (bachelor's degree or equivalent). |
+| Subclass Busqueda empleo (Job Search Visa (24 months)) | You can apply for jobs within Spain, but you must prove sufficient financial capability. It is not easy to obtain approval. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sawmill and Woodworking Machine Operators？**
-- 动手能力强、细心且能适应嘈杂环境的人
-- 希望进入建筑或家具行业且不介意体力劳动的人
-- 在林业或木工领域有经验但学历不高的人
+**Who is suited**
+- Strong hands-on skills, careful attention, and able to adapt to noisy environments
+- People who wish to enter the construction or furniture industry and don't mind manual labor
+- People with experience in forestry or woodworking but not highly educated
 
-**谁不适合学Sawmill and Woodworking Machine Operators？**
-- 追求高薪或快速移民的人
-- 对重复性体力工作敏感或厌恶噪音粉尘的人
+**Who is not suited**
+- Those seeking high salary or fast immigration.
+- People sensitive to repetitive physical work or who dislike noise and dust
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in Spain?**
+A: Junior approximately 18,000-22,000 euros/year, intermediate 22,000-28,000, senior 28,000-35,000. After tax, approximately 70-75%.
+
+**Q: Is it easy for third-country nationals to immigrate to Spain through this employment?**
+A: It's harder. This occupation is not in urgent demand, employer sponsorship approvals are strict, and degree verification takes a long time. It is recommended to consider other occupations that are easier to immigrate.
+
+**Q: Are there promotion opportunities?**
+A: You can be promoted to production supervisor or quality inspector, or to become a carpentry technician through FP advancement. Some people turned to furniture design or installation services.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sawmill and Woodworking Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Spain?**
-答：Entry level around €18,000-22,000/year, mid-level €22,000-28,000, senior €28,000-35,000. Net approx 70-75%.
-
-**问：Is it easy for third-country nationals to migrate to Spain through this occupation?**
-答：Difficult. Not a shortage occupation, employer sponsorship is strict, and degree homologation takes time. Consider other careers.
-
-**问：Are there advancement opportunities?**
-答：Yes, to production supervisor or quality inspector, or via higher FP to technician roles. Some move into furniture design or installation.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

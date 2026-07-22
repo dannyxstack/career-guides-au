@@ -1,56 +1,85 @@
-# Water and Firewood Collectors（Water and Firewood Collectors）职业分析 · NL
+# Water and Firewood Collectors — career analysis · Netherlands
 
-**职业代码：9624 – Water and Firewood Collectors。**
+**Occupation code: 9624 (ISCO08)**
 
-This occupation is virtually non-existent in the formal Dutch labor market due to widespread piped water and central heating. It only occurs in a few rural or self-sufficient settings.
+In the Netherlands, this occupation barely exists in the formal labor market due to the widespread availability of tap water and central heating. Only a few rural areas or self-sufficient lifestyles maintain it.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（不需要教育投入） |
+| No formal education required | None | $0~$0 (No educational investment required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定资格 | N/A | 可选 | 该职业无官方资格要求 |
+| No specific qualifications | N/A | Optional | No official qualification requirements for this occupation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 50。荷兰该职业就业前景极低，技术替代和社会基础设施完善导致需求近乎为零。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. 50. Job prospects in the Netherlands for this occupation are extremely low; near-zero demand due to technological substitution and well-established social infrastructure.
 
-**竞争度：无竞争（½☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very low (½☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 极低，通常为兼职或临时收入 |
+| Median salary | $17,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$20,000 | Very low, usually part-time or casual income |
+| average salary | $17,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极差（½☆☆☆☆）。** 无职业发展路径，该角色为边缘化或临时性活动。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very low (½☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation has nearly disappeared in the Netherlands due to the prevalence of tap water and energy infrastructure; AI/automation further reduces residual demand, with almost no development space.
+
+No career progression path; this role is marginalised or temporary.
+
+**Tasks most exposed to AI:**
+
+- Manual water extraction and bucket carrying
+- Chopping wood, splitting wood and transporting firewood
+- Daily inspection of water and firewood reserves
+- Processing water and wood using simple tools
+
+**Where AI augments the role:**
+
+- Using sensors and IoT to monitor household water consumption and wood stock
+- Use drones or small robots to explore further collection points
+- Optimize collection routes and schedules via mobile apps.
+
+**Human moat:**
+
+- Decision-making ability to survive in a completely infrastructure-free environment
+- Ability to adapt to extreme weather and emergencies
+- Community culture and ceremonial aspects of traditional hand-harvesting
+
+**Skills to build:**
+
+- Operation and maintenance of modern water and energy systems
+- Sustainable resource management and planning
+- Fundamentals of IoT and Smart Home Technology
+- Knowledge of ecological restoration and environmental protection
+
+**Key growth areas:**
 
 - Negligible
 - Automation
@@ -59,61 +88,63 @@ This occupation is virtually non-existent in the formal Dutch labor market due t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 不适用，该职业不符合高技术移民收入门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用，职业不符合蓝卡要求。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Not applicable, as this occupation does not meet the high-skilled immigration income threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable; the occupation does not meet blue card requirements. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Water and Firewood Collectors？**
-- 仅适合极端自给自足生活方式追求者
-- 不适合任何正规就业目标人群
+**Who is suited**
+- Only suitable for those pursuing an extreme self-sufficient lifestyle
+- Not suitable for any formal employment target group
 
-**谁不适合学Water and Firewood Collectors？**
-- 任何寻求稳定正规就业者
-- 希望移民荷兰的海外申请人
+**Who is not suited**
+- Anyone seeking stable and formal employment
+- Overseas applicants looking to immigrate to the Netherlands
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in the Netherlands?**
+A: Almost no formal salary, typically very low casual income, annual income may be below €15,000.
+
+**Q: Can I immigrate to the Netherlands through this occupation?**
+A: Not possible. This occupation does not meet any work visa requirements and earnings are far below the threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | very low (½☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very low (½☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（½☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 无竞争（½☆☆☆☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极差（½☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极难（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Water and Firewood Collectors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in the Netherlands?**
-答：There is virtually no formal salary; income is very low and temporary, often below €15,000 per year.
-
-**问：Can I immigrate to the Netherlands through this occupation?**
-答：No. This occupation does not meet any work visa requirements and income is far below thresholds.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

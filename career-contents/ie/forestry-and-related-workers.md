@@ -1,61 +1,94 @@
-# Forestry and Related Workers（Forestry and Related Workers）职业分析 · IE
+# Forestry and Related Workers — career analysis · Ireland
 
-**职业代码：6210 – Forestry and Related Workers。**
+**Occupation code: 6210 (ISCO08)**
 
-Perform tasks related to forest cultivation, conservation, harvesting, and timber transport, including planting, pruning, felling, and fire prevention in Ireland.
+Engage in forest planting, maintenance, harvesting, and timber transport in Ireland, including tree planting, pruning, logging, and forest fire prevention tasks.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 不适用 | —（通常无需正规教育，在职培训为主） |
-| 证书/文凭 | 1-2年 | $2,000~$8,000（如Teagasc林业证书或FETAC文凭） |
+| High school graduation | Not applicable | $0~$0 (Typically no formal education required, on-the-job training) |
+| Certificate/diploma | 1-2 years | $2,000~$8,000 (Such as Teagasc Forestry Certificate or FETAC Diploma) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 链锯操作证书 | FSC或Teagasc | 必备 | 操作链锯必备 |
-| 急救证书 | 红十字会等 | 必备 | 林业工作安全要求 |
-| 喷洒农药证书 | Teagasc | 可选 | 如涉及化学除草 |
+| Chainsaw operation certificate | FSC or Teagasc | Required | Essential for operating chainsaws |
+| First aid certificate | Red Cross, etc. | Required | Forestry work safety requirements |
+| Pesticide spraying certificate | Teagasc | Optional | If chemical weed control is involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。爱尔兰林业就业预计保持稳定，受可持续林业政策和可再生能源需求推动，但机械化可能减少部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Forestry employment in Ireland is expected to remain stable, driven by sustainable forestry policies and renewable energy demand, but mechanization may reduce some roles.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前，取决于雇主和地区 |
-| 中级（3-7年） | $32,000~$40,000 | 包括有经验的操作员和团队领导 |
-| 高级（7年以上） | $40,000~$50,000 | 主管或森林经理级别 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax, depending on employer and region. |
+| Mid-level (3–7 years) | $32,000~$40,000 | Including experienced operators and team leaders |
+| Senior (7+ years) | $40,000~$50,000 | Supervisor or forest manager level |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级工人可通过经验积累晋升为林业主管或森林经理，也可向保育或环保领域转型。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Forestry workers face mixed AI impacts: repetitive physical tasks (e.g., logging measurement) are automated, but AI enhances ecological monitoring and smart planning, while complex field operations and emergency judgement remain human strongholds.
+
+Entry-level workers can advance to forestry supervisor or forest manager through experience, or transition into conservation or environmental fields.
+
+**Tasks most exposed to AI:**
+
+- Using drones for forest resource survey and mapping
+- Automatically records felling volume and tree species distribution via GPS and sensors
+- Using AI algorithms to optimize planting spacing and harvesting routes
+- Scheduling and monitoring of automated irrigation and fertilization systems
+
+**Where AI augments the role:**
+
+- AI-assisted early warning for pests and diseases and precision pesticide application
+- Using satellite remote sensing data to guide selective logging and increase timber value
+- Intelligent decision support system optimizes logging plans to match market demand
+- Digital twin simulating the ecological impact of different harvesting plans.
+
+**Human moat:**
+
+- Safely operating heavy machinery in complex terrains like steep and muddy areas
+- On-site decision-making in emergencies (e.g., equipment failure, forest fires)
+- Intuitive knowledge of local tree species growth habits.
+- Artificial intervention and adjustment of cross-species ecological balance
+
+**Skills to build:**
+
+- Drone operation and image analysis
+- GIS Geographic Information System application
+- Using mobile phones/tablets for mobile data collection
+- Basic data analysis and Excel/dashboard operations
+- Knowledge of forest ecology and sustainable management
+- Communication and collaboration (working with AI advisory systems)
+
+**Key growth areas:**
 
 - Sustainable forestry
 - Mechanization
@@ -64,62 +97,64 @@ Perform tasks related to forest cultivation, conservation, harvesting, and timbe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪通常不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，年薪门槛较高（约40,000欧元），林业工人通常不符合。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, annual salary usually no less than €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers with a high annual salary threshold (approx. €40,000); forestry workers generally do not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Forestry and Related Workers？**
-- 喜欢户外体力工作的人
-- 对可持续林业和环境保护感兴趣的人
-- 愿意学习操作机械设备的人
+**Who is suited**
+- People who enjoy outdoor physical work
+- People interested in sustainable forestry and environmental protection
+- People willing to learn to operate mechanical equipment
 
-**谁不适合学Forestry and Related Workers？**
-- 不喜户外或体力劳动的人
-- 不愿意接受季节性工作和不稳定收入的人
+**Who is not suited**
+- People who dislike outdoor or physical labor.
+- People unwilling to accept seasonal work and unstable income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of forestry workers?**
+A: Junior annual salary approximately 25,000-32,000 euros, senior up to 50,000 euros, but affected by seasonality and contract-based employment.
+
+**Q: Can foreign forestry workers immigrate to Ireland?**
+A: Forestry workers are not on Ireland's shortage occupation list; immigration typically requires a General Employment Permit, but the threshold is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Forestry and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for forestry workers?**
-答：Entry-level annual salary ranges from €25,000 to €32,000, with senior positions up to €50,000, but affected by seasonality and contract work.
-
-**问：Can foreign forestry workers immigrate to Ireland?**
-答：Forestry workers are not on the critical skills list and usually require a General Employment Permit, which has higher thresholds.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

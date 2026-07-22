@@ -1,60 +1,94 @@
-# Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders（Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders）职业分析 · 美国
+# Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders — career analysis · United States
 
-**职业代码：51-4122 – Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders。**
+**Occupation code: 51-4122 (SOC)**
 
-Set up, operate, or tend automated welding, soldering, brazing machines or robots to join or treat metal products. Typically work in high-volume manufacturing settings such as automotive or shipbuilding.
+Responsible for setting up, operating, or overseeing automated equipment such as welding, brazing, soldering robots, or laser cutters to join or process metal parts. Typically works in high-volume manufacturing environments like automotive or shipbuilding.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 高中 | —（公立高中免费） |
-| 职业证书或短期培训 | 6个月至1年 | $5,000~$15,000（技术学校或社区学院） |
+| High school diploma or equivalent | High school | $0~$0 (Public high schools are free) |
+| Vocational certificate or short-term training | 6 months to 1 year | $5,000~$15,000 (Technical school or community college.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接认证（如AWS Certified Welder） | 美国焊接协会（AWS） | 可选 | 非强制但雇主青睐，提升就业竞争力。 |
-| OSP认证（操作员技能） | AWS | 可选 | 证明机器人焊接操作能力。 |
+| Welding certification (e.g., AWS Certified Welder) | American Welding Society (AWS) | Optional | Not mandatory but favored by employers, enhancing employment competitiveness |
+| OSP certification (Operator Skills) | AWS | Optional | Proves ability to operate robotic welding. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 89,500。美国制造业回流和新基础设施项目将推动需求，但自动化可能限制岗位增长。预计2023-2033年就业变化约为-1%至2%，年均约2.5万个职位空缺，主要因退休人员更替。
+**Job demand: medium (★★½☆☆).** National workforce approx. 89,500. U.S. manufacturing reshoring and new infrastructure projects will drive demand, but automation may limit job growth. Employment change from 2023-2033 is estimated at -1% to 2%, with about 25,000 annual openings mainly due to replacement of retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起始薪资，取决于地区和雇主。 |
-| 中级（3-10年） | $38,000~$48,000 | 具有经验后薪资提升。 |
-| 高级（10年以上） | $50,000~$62,000 | 资深技师或主管级别。 |
+| Median salary | $47,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary, depending on location and employer. |
+| Intermediate (3-10 years) | $38,000~$48,000 | Salary increases with experience. |
+| Senior (10+ years) | $50,000~$62,000 | Senior technician or supervisor level. |
+| average salary | $50,220 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 可通过积累经验晋升为焊接技师、机器人编程员或生产主管。获得AWS认证或副学士学位有助于转向更专业的焊接机器人维护或质量控制角色。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+Can advance through experience to welding technician, robotics programmer, or production supervisor. AWS certification or an associate degree helps transition to specialized welding robot maintenance or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,65 +97,67 @@ Set up, operate, or tend automated welding, soldering, brazing machines or robot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求学士学位，此职业不满足，极少使用。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要2年经验或培训，但雇主担保难度大，排期长。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree; this occupation does not meet it, rarely used. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires 2 years experience or training, but employer sponsorship is difficult with long waiting periods. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders？**
-- 动手能力强、喜欢制造和金属加工的人
-- 能在工业环境中承受一定体力工作的人
-- 愿意接受夜班或加班的人
+**Who is suited**
+- Individuals with strong hands-on skills and interest in manufacturing and metalworking
+- People who can handle physical work in industrial environments
+- Those willing to accept night shifts or overtime
 
-**谁不适合学Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders？**
-- 希望办公室白领工作的人
-- 对重复性劳动和噪音敏感的人
+**Who is not suited**
+- Those who want office white-collar jobs
+- Those sensitive to repetitive work and noise
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for welding machine operators in the industry?**
+A: This occupation has relatively low pay, with a median of about $45,000, below the blue-collar average. However, holding AWS certification or mastering robot programming can increase to over $60,000.
+
+**Q: Is it easy to apply for a US green card for this occupation?**
+A: Very difficult. The occupation is typically not considered a professional position; H-1B and EB-2/EB-3 green cards require a bachelor's degree, which is hard to meet. Only in rare cases through EB-3 unskilled workers (extremely long wait times) or L-1 intracompany transfer, but realistic feasible paths are very few.
+
+**Q: How to advance from operator to welding technician or supervisor?**
+A: After accumulating 2-3 years of experience, obtain AWS welding certification and learn robot programming (e.g., FANUC, ABB). Can enter a community college for an associate degree and progress to welding engineer or production supervisor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for welding machine operators?**
-答：This occupation has lower pay, with median around $45,000, below the average for trades. However, AWS certification or robot programming skills can push it above $60,000.
-
-**问：Is it easy to get a US green card for this occupation?**
-答：Very difficult. The occupation is not considered professional; H-1B and EB-2/EB-3 require a bachelor's degree. Only rare EB-3 unskilled or L-1 intracompany transfer might apply, but feasible paths are very limited.
-
-**问：How to advance from operator to technician or supervisor?**
-答：After 2-3 years, obtain AWS welding certification and learn robot programming (e.g., FANUC, ABB). Pursue an associate degree at community college to move toward welding engineer or production supervisor.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

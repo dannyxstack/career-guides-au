@@ -1,61 +1,93 @@
-# Automotive and Watercraft Service Attendants（Automotive and Watercraft Service Attendants）职业分析 · 美国
+# Automotive and Watercraft Service Attendants — career analysis · United States
 
-**职业代码：53-6031 – Automotive and Watercraft Service Attendants。**
+**Occupation code: 53-6031 (SOC)**
 
-Service automobiles, buses, trucks, boats with fuel, lubricants, and accessories; collect payments; may perform minor repairs such as tire changes or light replacements.
+Refueling and lubricating vehicles such as cars, buses, trucks, and boats; replacing parts; collecting service fees; and sometimes performing simple tire and light repairs.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 在职培训 | 1个月 | —（雇主提供培训） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1 month | $0~$0 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育部门 | 必备 | 通常要求 |
-| 驾驶执照 | 州机动车管理局 | 必备 | 需有效驾照以移动车辆 |
-| ASE认证（可选） | 国家汽车服务卓越研究所 | 可选 | 提升就业竞争力 |
+| High school diploma or equivalent | State education department | Required | Usually required |
+| Driver's license | State motor vehicle department | Required | Need a valid driver's license to move vehicles |
+| ASE certification (optional) | National Institute of Automotive Service Excellence | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 132,000。美国劳工统计局预计该职业就业增长缓慢，约2-4%，受自动驾驶和电动车普及影响，传统加油需求可能下降，但维护服务仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 132,000. The U.S. Bureau of Labor Statistics expects slow job growth for this occupation, about 2-4%. Due to the popularity of autonomous driving and electric vehicles, traditional refueling demand may decline, but maintenance services will still be needed.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 多为最低工资水平 |
-| 中级（3-5年） | $28,000~$35,000 | 含小费或提成 |
-| 高级（5年以上） | $32,000~$40,000 | 可能晋升为主管 |
+| Median salary | $35,670 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Mostly at minimum wage level |
+| Mid-level (3–5 years) | $28,000~$35,000 | Includes tips or commissions |
+| Senior (5+ years) | $32,000~$40,000 | May advance to supervisor |
+| average salary | $36,780 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：负面（★½☆☆☆）。** 可晋升为服务主管、维修技师或店面经理，也可通过考取ASE认证转向更专业的汽车维修领域。不过晋升空间有限，多为内部提拔。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI and automation will significantly replace routine tasks for vehicle and watercraft service attendants within 5-10 years, such as self-service fuel pumps and automatic payment systems, leading to a sharp decline in job demand.
+
+Can advance to service supervisor, repair technician, or store manager, or move to more specialized automotive repair via ASE certification. However, advancement opportunities are limited, mostly internal promotion.
+
+**Tasks most exposed to AI:**
+
+- Collect fuel and service fees through self-service payment terminals
+- Use automatic oil guns and sensors to refuel vehicles and add lubricants
+- Record and report fuel inventory data.
+- Handle cash and credit card transactions
+
+**Where AI augments the role:**
+
+- Using a mobile app to schedule and optimize service processes
+- Use AR glasses to assist with vehicle inspections (e.g. tire pressure and lights)
+- Detects equipment failure alerts via remote monitoring systems
+- Automatically generate service reports and customer invoices
+
+**Human moat:**
+
+- On-site judgment and handling of special situations (e.g., fuel leaks)
+- Communicate with clients and provide personalized service
+- Perform non-standard repairs (e.g., replace complex parts)
+- Follow safety protocols and respond to emergencies
+
+**Skills to build:**
+
+- Basic maintenance skills (e.g., tires, lights)
+- Service process automation tools (e.g., POS systems)
+- Customer service and communication skills
+- Basic data entry and inventory management
+- Safety and emergency response training.
+
+**Key growth areas:**
 
 - Slow growth
 - Electric vehicle shift
@@ -64,65 +96,67 @@ Service automobiles, buses, trucks, boats with fuel, lubricants, and accessories
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 该职业通常不符合H-1B专业职位要求，极少申请。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 需雇主担保，但教育要求低，满足技能要求可能可行，但成功率低。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招到美国工人，但该职业工资低，PERM难度大。 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation typically does not meet H-1B specialty occupation requirements and is rarely sponsored. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Requires employer sponsorship, but education requirements are low; meeting skill requirements may be possible, but success rate is low. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate inability to hire U.S. workers, but the occupation has low wages, making PERM difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Automotive and Watercraft Service Attendants？**
-- 偏好动手操作、喜欢户外工作的人
-- 寻求入门级工作、无需高等教育的人
+**Who is suited**
+- Prefers hands-on work and outdoor activities
+- Seeking entry-level jobs, no higher education required
 
-**谁不适合学Automotive and Watercraft Service Attendants？**
-- 追求高薪和职业发展的人
-- 不适应户外体力劳动和较低收入的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People who are not suited to outdoor physical labor and low income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a car service attendant?**
+A: Average annual salary about USD 28,000-35,000, entry-level near minimum wage, tips can supplement income.
+
+**Q: Is it possible for this occupation to immigrate to the US?**
+A: Very difficult. This occupation does not meet H-1B specialty occupation requirements, and PERM green card applications are hindered by low wages and labor surplus.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Can advance to service supervisor, maintenance technician, or store manager, but requires additional training and certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 负面（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Automotive and Watercraft Service Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for automotive service attendants?**
-答：Average annual salary ranges from $28,000 to $35,000; entry-level near minimum wage with possible tips.
-
-**问：Is migration possible for this occupation?**
-答：Very difficult. Not eligible for H-1B; PERM green card is challenging due to low wages and abundant domestic labor.
-
-**问：Are there advancement opportunities?**
-答：Can advance to service supervisor, mechanic, or store manager with additional training and certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

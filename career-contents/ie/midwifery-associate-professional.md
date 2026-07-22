@@ -1,58 +1,91 @@
-# Midwifery Associate Professional（Midwifery Associate Professional）职业分析 · IE
+# Midwifery Associate Professional — career analysis · Ireland
 
-**职业代码：3222 – Midwifery Associate Professional。**
+**Occupation code: 3222 (ISCO08)**
 
-Midwifery associate professionals in Ireland assist registered midwives in providing antenatal, intrapartum, and postnatal care, working in hospitals, clinics, or home settings to ensure maternal and infant health.
+In the Irish healthcare system, midwifery associate professionals assist registered midwives in providing pre-pregnancy, childbirth, and postnatal care, typically in hospitals, community clinics, or home settings, ensuring maternal and infant safety and health.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭 | 2年 | $4,000~$8,000（欧盟学生费用，非欧盟约15000欧元/年） |
-| 本科 | 4年（助产学学士） | $10,000~$20,000（非欧盟学生费用更高） |
+| Higher education diploma | 2 years | $4,000~$8,000 (EU student fees, non-EU approx. €15,000/year) |
+| Bachelor's degree | 4 years (Bachelor of Midwifery) | $10,000~$20,000 (Higher fees for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 助产士助理文凭 | 爱尔兰护理与助产委员会 | 必备 | 必须完成认可的文凭课程 |
-| 生命支持证书 | 爱尔兰复苏委员会 | 可选 | 基本生命支持或新生儿复苏 |
+| Diploma of Midwifery Assistant | Nursing and Midwifery Board of Ireland | Required | Must complete an accredited diploma course |
+| Life Support Certificate | Irish Recovery Committee | Optional | Basic life support or neonatal resuscitation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。爱尔兰面临助产士短缺，尤其在偏远地区。政府计划增加教育名额和招聘海外人才，预计就业增长稳定，但竞争因欧盟自由流动而适中。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. Ireland faces a midwife shortage, especially in remote areas. The government plans to increase educational slots and recruit overseas talent. Employment growth is expected to be stable, but competition is moderate due to EU free movement.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公共医疗服务HSE工资表 |
-| 中级（3-7年） | $35,000~$42,000 | 包括经验津贴 |
-| 高级（7年以上） | $42,000~$50,000 | 高级助理或管理角色 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | HSE pay scale for public health services |
+| Mid-level (3–7 years) | $35,000~$42,000 | Including experience allowance |
+| Senior (7+ years) | $42,000~$50,000 | Senior assistant or management role |
+| average salary | $38,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从助理晋升为注册助产士，需完成学位课程和注册；也可向护理管理、教育或专科领域发展，如新生儿护理或社区健康。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on midwife assistant professionals is generally positive with low automation risk, but AI tools can significantly improve efficiency and decision support. Caution is needed as entry-level roles may narrow slightly due to rising skill requirements.
+
+Progression from assistant to registered midwife requires completing a degree program and registration; can also advance to nursing management, education, or specialty areas such as neonatal care or community health.
+
+**Tasks most exposed to AI:**
+
+- Automatically record maternal vital signs and medical record data
+- Generate standardized prenatal examination report templates
+- Preliminary fetal heart rate pattern recognition via AI systems
+- Handles appointment reminders and follow-up scheduling
+
+**Where AI augments the role:**
+
+- AI real-time monitoring alerts for abnormal maternal indicators, aiding rapid decision-making
+- Intelligently allocates care priorities and optimizes maternity ward resource scheduling.
+- Improve response ability in emergency scenarios through AI simulation training
+- Remote monitoring systems support expert consultation in community childbirth
+- AI-driven knowledge base for quick access to the latest maternal and infant care guidelines
+
+**Human moat:**
+
+- Emotional support and psychological reassurance for mothers and their families
+- Acute observation and immediate manual intervention for complex childbirth complications
+- Ability to coordinate and communicate across interdisciplinary teams
+- Integrated decision-making combining unstructured information in clinical judgment
+
+**Skills to build:**
+
+- Proficiency with electronic health records and AI-assisted tools
+- Basic data analysis and interpretation (e.g., fetal monitoring curves)
+- Telemedicine operation and communication skills
+- AI Ethics and Privacy Protection Knowledge
+- Cross-cultural nursing skills
+
+**Key growth areas:**
 
 - Maternal health
 - Rural healthcare
@@ -61,65 +94,64 @@ Midwifery associate professionals in Ireland assist registered midwives in provi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于助产士助理，需雇主担保，年薪不低于30,000欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 可能适用于注册助产士，但助理角色通常不符合 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育学历，年薪不低于40,000欧元，助产士助理可能符合 |
+| Subclass General Employment P (General Employment Permit) | For midwife assistants, requires employer sponsorship, annual salary no less than €30,000 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | May apply to registered midwives, but assistant roles typically do not qualify |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education degree, annual salary not less than 40,000 euros, midwife assistant may qualify |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Midwifery Associate Professional？**
-- 对母亲和婴儿健康有热情的人
-- 能在压力下保持冷静并处理紧急情况
-- 愿意在偏远或社区环境中工作
-
-**谁不适合学Midwifery Associate Professional？**
-- 无法承受高强度倒班工作的人
-- 对血液或医疗紧急情况不适的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about the health of mothers and babies
+- Ability to stay calm under pressure and handle emergencies
+- Willing to work in remote or community settings
+
+**Who is not suited**
+- People who cannot handle high-intensity shift work
+- People uncomfortable with blood or medical emergencies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an Irish midwifery assistant?**
+A: Entry-level annual salary is approximately €28,000-35,000, mid-level €35,000-42,000, and senior up to €50,000.
+
+**Q: How can a foreign midwife assistant immigrate to Ireland?**
+A: Must obtain employer sponsorship and apply for a General Employment Permit, with an annual salary of at least €30,000; EU citizens can move freely but need to register
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Midwifery Associate Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for midwifery associate professionals in Ireland?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €35,000-42,000, senior up to €50,000.
-
-**问：How can foreign midwifery associate professionals migrate to Ireland?**
-答：They need employer sponsorship and a General Employment Permit with a minimum salary of €30,000; EU citizens can work freely but must register.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

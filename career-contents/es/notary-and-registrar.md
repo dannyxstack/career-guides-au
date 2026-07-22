@@ -1,62 +1,95 @@
-# Notary and Registrar（Notary and Registrar）职业分析 · ES
+# Notary and Registrar — career analysis · Spain
 
-**职业代码：2591 – Notary and Registrar。**
+**Occupation code: 2591 (CNO)**
 
-Notaries and registrars are senior legal professionals in Spain's judicial service, responsible for drafting, certifying, and preserving public documents such as deeds, wills, corporate registrations, and property records. They are civil service positions requiring a national competitive exam.
+Notaries and registrars are senior legal professionals in Spain's judicial services, responsible for drafting, authenticating, and preserving public documents such as deeds, wills, company registrations, and real estate registrations. This position falls under the senior civil service track and requires passing a national competitive exam.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法学学士（Grado en Derecho） | 4年 | $1,200~$6,000（公立大学学费，按学年计） |
-| 法学硕士（Máster en Abogacía） | 1-2年 | $3,000~$10,000（需完成执业律师硕士课程） |
+| Bachelor of Laws (Grado en Derecho) | 4 years | $1,200~$6,000 (Public university tuition fees are calculated by academic year) |
+| Master of Laws (Máster en Abogacía) | 1-2 years | $3,000~$10,000 (Completion of a master's program in practicing lawyers is required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学学位（Grado en Derecho） | 西班牙公立或私立大学 | 必备 | 必须获得西班牙认可的法学学士学位 |
-| 执业律师硕士（Máster en Abogacía） | 西班牙大学 | 必备 | 通过课程后参加全国律师资格考试 |
-| 国家竞争考试（Oposición） | 西班牙司法部 | 必备 | 通过统一的公证员/登记官考试，涵盖法律知识、实务等 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需进行官方认证，等同于西班牙法学学位 |
+| Law Degree (Grado en Derecho) | Public or private universities in Spain | Required | A Bachelor of Laws degree recognized in Spain is required |
+| Master of Practice (Máster en Abogacía) | Spanish University | Required | After passing the course, take the national lawyer qualification exam |
+| National Competitive Examination (Oposición) | Spanish Ministry of Justice | Required | Passing the unified notary/registrar exam, covering legal knowledge, practical skills, and more |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees require official recognition, equivalent to a Spanish law degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。西班牙公证员与登记官职位受国家司法体系严格控制，每年通过统一招生考试（oposiciones）录取人数有限，通常为50-100人。因退休潮即将来临，未来5-10年将有约30%职位空缺，预计竞争仍激烈，但机会增加。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. The positions of notaries and registrars in Spain are strictly regulated by the national judicial system, with a limited number of admissions each year through the unified entrance exam (oposiciones), usually 50-100 people. With the retirement wave approaching, about 30% of job openings will be available over the next 5-10 years. Competition is expected to remain fierce, but opportunities are increasing.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $30,000~$45,000 | 试用期或较小城市岗位 |
-| 中级（5-15年） | $50,000~$70,000 | 稳定执业后 |
-| 高级（15年以上） | $80,000~$120,000 | 大城市或高资历 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $30,000~$45,000 | Probation period or positions in smaller cities |
+| Intermediate (5-15 years) | $50,000~$70,000 | After stabilizing his practice, |
+| Senior (15+ years) | $80,000~$120,000 | Big cities or high qualifications |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业路径清晰：通过oposiciones考试后，先担任临时公证员或登记官；积累5-10年经验后可晋升至更高级别法院或城市；少数可进入司法部或担任公证协会领导职务；薪资随资历显著增长。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core responsibilities of document authentication and legal adjudication for notaries and registrars are difficult to replace due to legal validity and ethical accountability, but AI will significantly take over tasks such as document drafting, information retrieval, and compliance checks, leading to a shift in skill requirements for some positions, resulting in an overall mixed trend.
+
+Clear career path: after passing the oposiciones exam, first serve as a temporary notary or registrar; After accumulating 5-10 years of experience, you can be promoted to higher-level courts or cities; A few may enter the Ministry of Justice or hold leadership positions in notary associations; Salaries increase significantly with seniority.
+
+**Tasks most exposed to AI:**
+
+- Draft draft standard contracts and wills, with AI automatically generating templates
+- Verification and transcription of repetitive information in real estate registration
+- Automated compliance checks for legal documents (such as formatting and signature requirements)
+- Preliminary verification of customer identity verification
+
+**Where AI augments the role:**
+
+- AI-assisted legal research: Quickly retrieve relevant precedents and regulations
+- Automated document management systems improve archiving and retrieval efficiency
+- AI-driven risk detection: Identifying potential fraud or clause conflicts in documents
+- The intelligent Q&A system improves the response speed of customer inquiries
+
+**Human moat:**
+
+- The legal effect of final signing and notarization is related to personal professional responsibility
+- Human judgments and moral judgments in complex legal disputes
+- Customer trust and confidentiality obligations in special circumstances
+- Statutory qualifications granted by national exams and regulatory compliance
+
+**Skills to build:**
+
+- AI document automation tools (such as ContractPodAi) for operation
+- Legal data analysis and AI audit methods
+- Blockchain evidence storage and smart contract technology
+- Cross-disciplinary compliance knowledge (digital identity, electronic seal regulations)
+- Human-machine collaboration process design and project management
+- Advanced ethics and risk communication
+
+**Key growth areas:**
 
 - Civil service exam
 - Judicial reform
@@ -65,68 +98,67 @@ Notaries and registrars are senior legal professionals in Spain's judicial servi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 西班牙受雇工作居留，需有雇主担保。因该职位为公务员性质，外国籍人员通常难以直接获得，需先通过学历认证和考试。 |
-| Subclass Ley 14/2013（Highly Skilled Professional Visa） | 高技能专业人才签证，适用于年薪超55,000欧元的外籍专业人士。但公证员通常不对外开放，实际操作困难。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employed work residence in Spain, employer sponsorship is required. Since this position is a civil servant, foreign nationals are usually difficult to obtain directly and must first pass academic certification and examinations. |
+| Subclass Ley 14/2013 (Highly Skilled Professional Visa) | The Highly Skilled Professional visa is suitable for foreign professionals with an annual salary exceeding 55,000 euros. However, notaries are usually not open to the public, making practical operations difficult. |
 
-**PR难度：极高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Notary and Registrar？**
-- 具有西班牙国籍或欧盟公民身份的法律毕业生
-- 愿意投入多年准备国家竞争考试的考生
-- 追求职业稳定性和高社会地位的人士
-
-**谁不适合学Notary and Registrar？**
-- 非欧盟公民且无西班牙居留权者
-- 希望快速获得工作签证或移民路径的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Legal graduates with Spanish nationality or EU citizenship
+- Candidates willing to devote years of preparation for the national competitive exam
+- People seeking career stability and high social status
+
+**Who is not suited**
+- Non-EU citizens without Spanish residency
+- Those who want to quickly obtain a work visa or immigration pathway
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for notaries in Spain?**
+A: Notary salary varies with experience and city: entry-level approx. EUR 30,000-45,000, intermediate EUR 50,000-70,000, senior up to EUR 80,000-120,000. Additionally, practice income includes service fees, so actual total income is higher.
+
+**Q: Can non-EU citizens become Spanish notaries through skilled migration?**
+A: extremely difficult. Notaries belong to the Spanish civil service system and usually require Spanish nationality or EU citizenship. Non-EU citizens must first obtain permanent residency or citizenship in Spain, and pass language and academic credential verification, making the exams highly competitive.
+
+**Q: What educational background is required to become a notary?**
+A: You must obtain a Bachelor of Laws degree in Spain (4 years), complete a Master of Practice (1-2 years), pass the national bar qualification exam, and finally pass the national competitive notary exam. The entire process usually takes 6-8 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Notary and Registrar为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for notaries in Spain?**
-答：Notary salaries vary by experience and city: entry-level around €30,000-45,000, mid-level €50,000-70,000, senior €80,000-120,000 gross per year. Actual total income can be higher due to service fees.
-
-**问：Can non-EU citizens become notaries in Spain through skilled migration?**
-答：Very difficult. Notaries are civil servants requiring Spanish or EU citizenship. Non-EU citizens would need permanent residency or naturalization, plus language and degree homologation, and face intense exam competition.
-
-**问：What education is required to become a notary?**
-答：A Spanish law degree (4 years), a master's in legal practice (1-2 years), national bar exam, and finally a competitive state exam for notaries. The process typically takes 6-8 years.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

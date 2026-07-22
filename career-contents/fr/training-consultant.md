@@ -1,59 +1,93 @@
-# Training Consultant（Training Consultant）职业分析 · FR
+# Training Consultant — career analysis · France
 
-**职业代码：K2101 – Training Consultant。**
+**Occupation code: K2101 (ROME)**
 
-Training consultants analyze training needs, design curricula, implement programs, and evaluate outcomes for companies, public institutions, and individuals, supporting career development and organizational growth.
+Training consultants provide training needs analysis, course design, program implementation, and effectiveness evaluation services for enterprises, public institutions, and individuals, supporting professional competency enhancement and organizational development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（Licence） | $8,000~$15,000（公立大学学费约184欧元/年，私立商学院或 spécialisé 课程费用较高） |
-| 硕士 | 2年（Master） | $10,000~$20,000（公立大学Master学费约250欧元/年，私立学校或专业硕士（Mastère Spécialisé）费用较高） |
-| 学徒制 | 1-2年（Apprentissage） | —（学徒制通常由企业承担学费并提供薪水，无需个人支付） |
+| Bachelor's degree | 3 years (Licence) | $8,000~$15,000 (Public university tuition is about 184 euros per year, while private business schools or spécialisé courses are more expensive) |
+| Master's degree | 2 years (Master) | $10,000~$20,000 (Tuition for a public master's degree is about 250 euros per year, while private schools or professional master's programs (Mastère Spécialisé) are more expensive) |
+| Apprenticeship | 1-2 years (Apprentissage) | $0~$0 (Apprenticeships are usually funded by companies that cover tuition fees and provide salaries, without individual payment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 培训工程师或培训顾问认证 | 法国职业资格目录（RNCP） | 可选 | 部分培训顾问持有RNCP认证的培训经理或培训工程师文凭 |
-| CPF (Compte Personnel de Formation) 顾问资质 | France Compétences | 必备 | 提供CPF相关培训的顾问需通过Qualiopi认证 |
+| CPF (Compte Personnel de Formation) consultant qualification | France Compétences | Required | Consultants providing CPF-related training must be Qualiopi certified |
+| Training engineer or training consultant certification | French Directory of Professional Qualifications (RNCP) | Optional | Some training consultants hold RNCP-certified training manager or training engineer diplomas |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国数字化转型与技能更新需求旺盛，培训顾问岗位持续增长，尤其在职业培训、继续教育领域。政府资助的学徒制和CPF（个人培训账户）推动行业扩张。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France has strong demand for digital transformation and skill upgrades, with training consultant positions continuing to grow, especially in vocational training and continuing education. Government-funded apprenticeships and CPFs (Personal Training Accounts) are driving industry expansion.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，管理岗或资深顾问可达更高 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Pre-tax annual salary, management positions, or senior consultants can reach even higher |
+| average salary | $49,548 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级培训顾问可向高级顾问、培训经理、学习与发展总监晋升，也可专攻特定领域（如数字化学习、合规培训），或独立创业成为自由顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Training and Development Manager roles will see task restructuring: routine training design, evaluation and compliance documentation are accelerated by AI, but strategic planning, personalised coaching and cross-departmental change management still require deep human involvement, presenting both risks and opportunities.
+
+Junior training consultants can be promoted to senior consultants, training managers, or Director of Learning and Development, specializing in specific areas (such as digital learning and compliance training), or starting their own businesses as freelance consultants.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate standardized training materials (e.g., online courses, manuals)
+- Automatically compile basic training participation rates, pass rates, and other data to generate reports
+- Recommend standardized learning paths based on employee past data
+- Answering common policy or process questions (chatbots replacing some Q&A tasks)
+
+**Where AI augments the role:**
+
+- AI analyzes skills gap data to precisely identify training needs, assisting in designing targeted solutions
+- Quickly review course content compliance using natural language processing.
+- Using Virtual Reality (VR)/Augmented Reality (AR) to Create Immersive Simulation Training Scenarios
+- AI dynamically tracks employee learning behaviour and adjusts training pace and content in real time
+
+**Human moat:**
+
+- Design leadership development programs for organizational change, requiring deep understanding of corporate culture
+- One-on-one coaching and coaching-style feedback to build emotional trust
+- Coordinate interests across departments and drive the implementation of cross-functional training strategies
+- Evaluate training ROI and communicate persuasively to superiors and stakeholders
+- Handling sensitive employee development issues (e.g., performance improvement plans)
+
+**Skills to build:**
+
+- Learning Management System (LMS) advanced configuration and data analysis
+- AI-assisted course generation tools (e.g., ChatGPT/Claude)
+- Data analysis and visualisation (for evaluating training effectiveness)
+- Project management and change management methodologies
+- Basics of virtual reality/augmented reality content design
+- Strategic communication and high-level influence.
+
+**Key growth areas:**
 
 - E-learning
 - Digital transformation
@@ -62,68 +96,67 @@ Training consultants analyze training needs, design curricula, implement program
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，包括培训顾问，需满足学历及薪资要求（通常年薪≥53,495欧元） |
-| Subclass Salarié（Salaried Employee） | 受雇于法国公司的培训顾问可申请此类工作居留，需公司提供工作合同并证明岗位无法由本地劳动力填补 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于非欧盟高技能人才，年薪需达到1.5倍法国平均工资（约53,495欧元） |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, including training consultants, who must meet educational and salary requirements (usually annual salary ≥ €53,495). |
+| Subclass Salarié (Salaried Employee) | Training consultants employed by French companies can apply for this type of work residence, which requires the company to provide a work contract and prove that the position cannot be filled by local labor |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to highly skilled non-EU talents, with an annual salary at least 1.5 times the French average (about €53,495). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Training Consultant？**
-- 善于沟通、分析需求并提供解决方案的人
-- 热爱终身学习、关注教育技术与行业趋势的人
-- 有企业培训或人力资源管理背景的人
-
-**谁不适合学Training Consultant？**
-- 不喜欢频繁与人打交道或出差的人
-- 缺乏组织协调及项目管理能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication, analyzing needs, and providing solutions
+- People who love lifelong learning and pay attention to educational technology and industry trends
+- Individuals with a background in corporate training or human resource management
+
+**Who is not suited**
+- People who dislike frequent interactions or business trips
+- People who lack organizational, coordination, and project management skills
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for training consultants in France?**
+A: Junior training consultants earn about 30,000-38,000 euros annually, intermediate 38,000-50,000 euros, and senior 50,000-70,000 euros. Freelance consultants charge daily fees, ranging from 500 to 1,000 euros per day.
+
+**Q: How can non-EU citizens immigrate to France through a training consultant career?**
+A: You can immigrate through Passeport Talent (annual salary ≥ €53,495) or Salarié work residence immigration. A contract with a French employer must be obtained, and it must be proven that the position cannot be filled by local labor. EU citizens can move freely.
+
+**Q: What educational qualifications are required to become a training consultant?**
+A: Usually, a bachelor's degree or above is required, with common majors such as education, psychology, human resources, or business. France recognizes Licence (3 years) or Master (5 years) diplomas, and practical experience can also be gained through apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Training Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a training consultant in France?**
-答：Entry-level training consultants earn €30,000-38,000 gross annually, mid-level €38,000-50,000, senior €50,000-70,000. Freelancers may charge €500-1,000 per day.
-
-**问：How can non-EU citizens immigrate to France as a training consultant?**
-答：Via Talent Passport (salary ≥ €53,495) or Salaried Employee work permit. Requires a job offer from a French employer and proof that the position cannot be filled locally. EU citizens have free movement.
-
-**问：What education is needed to become a training consultant?**
-答：Typically a bachelor's degree or higher in education, psychology, HR, or business. In France, a Licence (3 years) or Master (5 years) is common, and apprenticeship provides practical experience.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

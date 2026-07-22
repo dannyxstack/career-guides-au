@@ -1,59 +1,95 @@
-# Interior Designer and Decorator（Interior Designer and Decorator）职业分析 · IE
+# Interior Designer and Decorator — career analysis · Ireland
 
-**职业代码：3432 – Interior Designer and Decorator。**
+**Occupation code: 3432 (ISCO08)**
 
-Interior designers and decorators plan, design, and furnish interior spaces to create functional, aesthetic, and client-tailored environments. They consult with clients, develop design concepts, select materials and furnishings, and oversee project implementation.
+Interior designers and decorators plan, design, and arrange indoor spaces to create functional, aesthetically pleasing environments that meet client needs. They consult with clients, develop design plans, select furniture, materials, and color schemes, and oversee project execution.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | $15,000~$25,000（爱尔兰国立与理工学院学费，欧盟学生通常较低） |
-| 专科或高级文凭 | 2年 | $10,000~$18,000（部分理工学院提供低成本短期课程） |
+| Bachelor's degree | 3-4 years | $15,000~$25,000 (Tuition fees at Irish national and institutes of technology are generally lower for EU students.) |
+| Specialist or Advanced Diploma | 2 years | $10,000~$18,000 (Some polytechnics offer low-cost short courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计学位 | 爱尔兰国立大学或理工学院 | 可选 | 通常需本科以上学历 |
-| 专业认证 | 爱尔兰室内设计师协会 (IIDA) | 可选 | 非强制但提升就业竞争力 |
-| CAD/Revit证书 | Autodesk授权中心 | 可选 | 行业常用软件技能 |
+| Interior design degree | Irish national university or institute of technology | Optional | Usually, a bachelor's degree or above is required |
+| Professional certification | Interior Designers Institute of Ireland (IIDA) | Optional | Not mandatory but enhances employment competitiveness |
+| CAD/Revit certification | Autodesk Authorized Training Center | Optional | Industry-specific software skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 2,800。爱尔兰建筑与房地产业持续增长，商业与住宅室内设计需求稳定。都市更新与可持续设计趋势推动就业。预计未来五年增长温和。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,800. Ireland's construction and real estate sectors continue to grow, with stable demand for commercial and residential interior design. Urban renewal and sustainable design trends drive employment. Moderate growth expected over the next five years.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，起薪较低 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪，经验丰富者可达 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，主管或总监级别 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, with a relatively low starting salary. |
+| Mid-level (3–7 years) | $35,000~$50,000 | Pre-tax annual salary, available to experienced candidates |
+| Senior (7+ years) | $50,000~$70,000 | Pre-tax annual salary, supervisor or director level |
+| average salary | $44,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级设计师可晋升为高级设计师或设计经理，部分转向专业领域（如绿色设计、酒店设计）或自主创业。经验丰富者可能成为设计总监或开设个人工作室。
-**AI替代风险：中等偏低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+Junior designers can advance to senior designer or design manager, some specialise in areas (e.g. green design, hospitality design) or start their own business. Experienced ones may become design directors or open personal studios.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - Urban Renewal
 - Sustainable Design
@@ -62,67 +98,66 @@ Interior designers and decorators plan, design, and furnish interior spaces to c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，年薪需达30,000欧元以上，适用于非紧缺职业。 |
-| Subclass EU Blue Card（EU Blue Card） | 年薪需达约42,000欧元，适用于高技能岗位，需相关学位与工作合同。 |
+| Subclass General Employment P (General Employment Permit) | Employer sponsorship required, annual salary must exceed €30,000, applicable to non-occupations in demand. |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary must be around €42,000, applicable to high-skilled positions; requires relevant degree and job contract. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Designer and Decorator？**
-- 具备创意与审美能力，善于沟通协调
-- 精通设计软件（如AutoCAD、SketchUp）
-- 对建筑与室内空间有热情
-
-**谁不适合学Interior Designer and Decorator？**
-- 不擅长与人沟通或处理客户需求
-- 对细节和项目管理缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possesses creativity and aesthetic sense, with good communication and coordination skills.
+- Proficient in design software (such as AutoCAD, SketchUp)
+- Passionate about architecture and interior spaces
+
+**Who is not suited**
+- Not good at communicating with people or handling customer needs.
+- Impatience with details and project management.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for interior designers in Ireland?**
+A: Junior annual salary around €28,000-€35,000, mid-to-senior can reach €50,000-€70,000. Self-employed designers have variable income.
+
+**Q: What are the requirements for an overseas interior designer to immigrate to Ireland?**
+A: Employer-sponsored work permit (General Employment Permit) required, with annual salary of at least €30,000, or via EU Blue Card (annual salary of at least €42,000). Relevant degree and work experience are crucial.
+
+**Q: What educational background is needed to become an interior designer in Ireland?**
+A: Typically requires a bachelor's degree or advanced diploma in interior design or related field. It is recommended to obtain professional certifications such as CAD or Revit to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等偏低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Interior Designer and Decorator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for interior designers in Ireland?**
-答：Entry-level salaries range from €28,000 to €35,000, while senior designers can earn €50,000 to €70,000. Self-employed designers may have variable income.
-
-**问：What are the requirements for overseas interior designers to migrate to Ireland?**
-答：A General Employment Permit (salary ≥€30,000) or EU Blue Card (salary ≥€42,000) with employer sponsorship is required. Relevant degree and experience are essential.
-
-**问：What educational background is needed to become an interior designer in Ireland?**
-答：A bachelor's degree or advanced diploma in interior design or related field is typical. Professional CAD/Revit certifications are recommended.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

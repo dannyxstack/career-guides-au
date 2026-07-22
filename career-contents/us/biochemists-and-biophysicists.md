@@ -1,59 +1,95 @@
-# Biochemists and Biophysicists（Biochemists and Biophysicists）职业分析 · 美国
+# Biochemists and Biophysicists — career analysis · United States
 
-**职业代码：19-1021 – Biochemists and Biophysicists。**
+**Occupation code: 19-1021 (SOC)**
 
-Study the chemical composition or physical principles of living cells and organisms, conducting research on metabolism, reproduction, growth, and heredity, often in pharma, biotech, and academia.
+Study chemical composition or physical principles of living cells and organisms, involving metabolism, reproduction, growth, and genetics; common in pharmaceuticals, biotechnology, and research institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（生物化学或相关领域） | 4年 | $40,000~$160,000（公立大学学费约$40,000，私立约$160,000（四年总费用）） |
-| 博士（生物化学或生物物理学） | 5-6年 | —（博士通常有全额奖学金或助教津贴，学费减免） |
-| 博士后（1-3年） | 1-3年 | —（博士后获得薪资而非支付学费） |
+| Bachelor's (biochemistry or related field) | 4 years | $40,000~$160,000 (Public university tuition approx. $40,000, private approx. $160,000 (total four-year cost)) |
+| PhD (biochemistry or biophysics) | 5-6 years. | $0~$0 (Doctoral students usually have full scholarships or teaching assistantships with tuition waivers) |
+| Postdoctoral (1-3 years) | 1-3 years | $0~$0 (Postdocs receive a salary instead of paying tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位（Ph.D.） | 大学 | 必备 | 几乎为所有研究职位所需；部分入门职位可接受硕士 |
-| 博士后研究经历 | 研究机构/大学 | 可选 | 常见于学术和工业研究岗位 |
+| Doctorate (Ph.D.) | University | Required | Required for nearly all research positions; some entry-level positions may accept a master's degree. |
+| Postdoctoral research experience | Research institutions/universities | Optional | Common in academic and industrial research positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 38,000。预计至2033年就业增长约7%，快于平均水平，受生物技术和制药研发需求推动。博士学位通常为入门要求。
+**Job demand: high (★★★★☆).** National workforce approx. 38,000. Projected employment growth of about 7% through 2033, faster than average, driven by demand for biotechnology and pharmaceutical R&D. A PhD is usually required for entry.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 博士后或初级科学家薪资 |
-| 中级（4-9年） | $75,000~$110,000 | 资深科学家或项目经理 |
-| 高级（10年以上） | $110,000~$175,000 | 首席科学家或部门主管 |
+| Median salary | $127,410 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | postdoctoral or junior scientist salary |
+| Intermediate (4-9 years) | $75,000~$110,000 | Senior scientist or project manager |
+| Senior (10+ years) | $110,000~$175,000 | Chief scientist or department head |
+| average salary | $129,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径从博士后研究到独立研究员或首席科学家，可转向管理、专利法或创业。高级职位如部门主任或首席科学官。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on biochemists and biophysicists is mixed: routine data processing and literature analysis tasks will be automated, but experimental design, innovative discovery, and high-level hypothesis derivation still rely heavily on human intelligence.
+
+Career progression from postdoctoral research to independent researcher or chief scientist, with possible moves into management, patent law, or entrepreneurship. Senior positions include department director or chief scientific officer.
+
+**Tasks most exposed to AI:**
+
+- Literature review and data mining (automatic extraction and summarization of relevant research)
+- Preliminary processing of experimental data (e.g., baseline correction and peak identification for chromatographic and mass spectrometry data)
+- Initial screening for gene sequence alignment and protein structure prediction
+- Automated generation of lab reports (template-based result description)
+- Reagent inventory management and automated order tracking.
+
+**Where AI augments the role:**
+
+- High-throughput experiment design (AI-optimized experimental parameters and conditions)
+- Drug-Target Interaction Prediction (Accelerating Lead Compound Discovery)
+- Accelerated computing for protein folding and molecular dynamics simulation
+- Multi-omics data integration analysis (systems biology from genome to metabolome)
+- Research hypothesis generation and validation (AI proposes novel associations from existing data)
+
+**Human moat:**
+
+- Propose Original Scientific Hypotheses and Design Validation Experiments
+- Cross-disciplinary insight (linking biochemical findings to fields like medicine, engineering)
+- Intuitive judgment and deep questioning of abnormal results
+- Hands-on operation of laboratory experiments and handling of unexpected issues
+- Peer review and research ethics judgment
+
+**Skills to build:**
+
+- Python/R programming and machine learning frameworks (e.g., TensorFlow, PyTorch)
+- Bioinformatics tools (e.g., AlphaFold2, Rosetta, AutoDock)
+- Operation and programming of automated experimental platforms (e.g., liquid handling workstations)
+- Systems biology and network analysis methods
+- AI-assisted drug discovery and clinical trial design
+- Data visualization and science communication (using AI to generate data stories)
+
+**Key growth areas:**
 
 - Biotechnology
 - Pharmaceutical R&D
@@ -62,68 +98,67 @@ Study the chemical composition or physical principles of living cells and organi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation Visa） | 常见于生物技术和制药公司，要求本科学位以上，每年抽签 |
-| Subclass EB-2（Employment-Based Green Card (Advanced Degree)） | 适用于博士学位持有者，需PERM劳工证或国家利益豁免 |
-| Subclass O-1（Extraordinary Ability Visa） | 适用于在生物化学领域有杰出成就的研究人员 |
+| Subclass H-1B (Specialty Occupation Visa) | Common in biotech and pharmaceutical companies, requires bachelor's degree or higher, annual lottery |
+| Subclass EB-2 (Employment-Based Green Card (Advanced Degree)) | Applicable to PhD holders, requiring a PERM labor certification or national interest waiver |
+| Subclass O-1 (Extraordinary Ability Visa) | Applicable to researchers with outstanding achievements in biochemistry |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biochemists and Biophysicists？**
-- 对生物化学和分子生物学有浓厚兴趣，愿意长期攻读博士学位
-- 喜欢实验研究和数据分析，具备耐心和细致
-- 希望从事科研或生物技术行业的高学历人才
-
-**谁不适合学Biochemists and Biophysicists？**
-- 不愿投入5-6年博士及博士后训练的人
-- 偏好固定工时、低压力工作环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in biochemistry and molecular biology, willing to pursue a long-term PhD
+- Enjoys experimental research and data analysis, with patience and attention to detail.
+- High-education talent aspiring to work in research or biotechnology.
+
+**Who is not suited**
+- People who are unwilling to invest 5-6 years in PhD and postdoctoral training.
+- People who prefer fixed hours and low-stress work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a biochemist?**
+A: 2023 median annual salary for US biochemists and biophysicists about $102,270, entry-level about $60,000, senior up to $170,000+.
+
+**Q: How can a biochemist immigrate to the US?**
+A: Common pathways include H-1B work visa (employer sponsorship and lottery required) and EB-2 green card (via PERM or National Interest Waiver). A PhD and publication record can help.
+
+**Q: What qualifications are needed to become a biochemist?**
+A: Research positions usually require a PhD; bachelor's and master's can work as lab technicians or assistants. PhD programs take 5-6 years and often require postdoctoral experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Biochemists and Biophysicists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for biochemists?**
-答：The median annual wage in 2023 was about $102,270, with entry-level around $60,000 and senior exceeding $170,000.
-
-**问：How can biochemists immigrate to the US?**
-答：Common paths include H-1B visa (employer-sponsored, lottery) and EB-2 green card via PERM or National Interest Waiver. PhD and publications help.
-
-**问：What education is needed to become a biochemist?**
-答：Research positions typically require a PhD; bachelor's or master's can qualify for lab technician roles. PhD takes 5-6 years, often followed by postdoc.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Computer and Office Equipment Maintenance Technician（Computer and Office Equipment Maintenance Technician）职业分析 · FR
+# Computer and Office Equipment Maintenance Technician — career analysis · France
 
-**职业代码：I1401 – Computer and Office Equipment Maintenance Technician。**
+**Occupation code: I1401 (ROME)**
 
-Responsible for installing, maintaining, and troubleshooting computer hardware, printers, network equipment and office automation systems, providing on-site or remote technical support.
+Responsible for the installation, maintenance, and troubleshooting of computer hardware, printers, network equipment, and office automation systems, providing on-site or remote technical support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年 | 2年（BTS SIO） | —（公立学校学费低，私立约5000-15000欧元/年） |
-| 本科 | 3年（licence pro） | —（公立大学学费约170欧元/年，私立约3000-10000欧元/年） |
-| 学徒制 | 1-2年 | —（学徒制免费且带薪，需与企业签约） |
+| High school graduation + 2 years | 2 years (BTS SIO) | $0~$15,000 (Public schools have low tuition fees, while private ones cost about 5,000–15,000 euros per year) |
+| Bachelor's degree | 3 years (License Pro) | $0~$10,000 (Tuition at public universities is about 170 euros per year, while private tuition is about 3,000-10,000 euros per year) |
+| Apprenticeship | 1-2 years | $0~$0 (Apprenticeships are free and paid, and require a contract with a company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术服务支持认证 | 法国国家职业证书委员会（CNCP） | 可选 | 如CQP TSI，非强制但提升就业竞争力 |
-| CompTIA A+ | CompTIA | 可选 | 国际认可的硬件/软件故障排除认证 |
-| BTS SIO文凭 | 法国教育部 | 可选 | 信息技术服务组织BTS，常见入门文凭 |
+| Information technology service support certification | French National Certificate Commission (CNCP) | Optional | For example, CQP TSI is non-mandatory but enhances employment competitiveness |
+| CompTIA A+ | CompTIA | Optional | Internationally recognized hardware/software troubleshooting certifications |
+| BTS SIO diploma | French Ministry of Education | Optional | Information technology service organizations like BTS, commonly an entry-level diploma |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 85,000。法国数字化转型持续推动需求，中小企业对IT支持依赖度高。虽非紧缺职业，但经验丰富者就业稳定。预计未来五年岗位数量缓慢增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 85,000. France's digital transformation continues to drive demand, with SMEs highly dependent on IT support. Although not in short supply, experienced professionals have stable employment. The number of job openings is expected to grow slowly over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，通常包括奖金 |
-| 中级（4-7年） | $32,000~$40,000 | 包含经验丰富的技术员 |
-| 高级（8年以上） | $42,000~$50,000 | 团队负责人或专家级别 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, usually including bonuses |
+| Mid-level (4-7 years) | $32,000~$40,000 | Includes experienced technicians |
+| Senior (8+ years) | $42,000~$50,000 | Team leader or expert level |
+| average salary | $52,452 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 可从初级技术员晋升为高级工程师或团队负责人，也可转向专业方向（如网络安全、云服务）。拥有BTS或licence后可通过继续教育获得更高级文凭。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
+
+You can be promoted from junior technician to senior engineer or team leader, or switch to professional paths such as cybersecurity or cloud services. After obtaining a BTS or licence, you can obtain a higher diploma through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automate common IT issues (e.g., password resets, network connection resets) via AI chatbots
+- AI auto-diagnosing hardware faults and recommending replacement parts
+- Automated script writing and execution (e.g., system log analysis, patch installation)
+- Knowledge base retrieval and answer delivery (AI replaces manual document searching)
+
+**Where AI augments the role:**
+
+- AI-assisted root cause analysis for complex problems (providing fault trees, log correlation suggestions)
+- AI-driven monitoring and early warning system to proactively detect potential system failures
+- Automatically generate customer reports and technical documents to improve communication efficiency
+- AI tools accelerate new employee training (simulating fault scenarios)
+- Real-time multilingual translation support to expand service scope
+
+**Human moat:**
+
+- Diagnosis and debugging of cross-system integration issues (involving legacy systems, cloud services, etc.).
+- Empathetic communication and conflict resolution with clients under high pressure
+- Creative problem-solving for non-standard, undocumented faults
+- Decision-making in safety-sensitive scenarios (e.g., disconnecting network vs. restoring data)
+- Deep adaptation and optimization of software and hardware for specific business scenarios
+
+**Skills to build:**
+
+- Cloud infrastructure (AWS/Azure/GCP) management and troubleshooting
+- Automation operation tools (Ansible, Terraform, PowerShell)
+- AI/ML fundamentals (able to understand model outputs, fine-tune prompts)
+- Cybersecurity basics (e.g., vulnerability patching, auditing)
+- Data analysis and visualization (SQL, Python, Power BI)
+- Advanced client management and project management certifications (ITIL, PMP)
+
+**Key growth areas:**
 
 - Digital Transformation
 - SME IT Support
@@ -63,69 +98,68 @@ Responsible for installing, maintaining, and troubleshooting computer hardware, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇工作居留，需获得法国公司工作合同，工资不低于法国最低工资标准1.5倍 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 人才护照，针对高技能人才，需年薪不低于约53,000欧元或持有硕士以上学历 |
-| Subclass Carte bleue UE（Carte Bleue Européenne (EU Blue Card)） | 欧盟蓝卡，需工作合同且年薪不低于约53,000欧元（2025年标准） |
-| Subclass Recherche emploi（Recherche d'Emploi (Job Search)） | 毕业求职居留，适用于在法获得硕士以上学历者，有效期12个月 |
+| Subclass Salarié (Salarié (Employee)) | For employed residence, you need a work contract with a French company, with salary at least 1.5 times the French minimum wage. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | The Talent Passport, for highly skilled personnel, requires an annual salary of no less than approximately 53,000 euros or a master's degree or above |
+| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | EU Blue Card, requires a work contract and an annual salary of no less than approximately 53,000 euros (2025 standard) |
+| Subclass Recherche emploi (Recherche d'Emploi (Job Search)) | Graduate job seeking residence is available to those who have obtained a master's degree or above in France, valid for 12 months |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer and Office Equipment Maintenance Technician？**
-- 喜欢动手解决硬件和软件问题的人
-- 乐于提供客户支持并善于沟通的人
-- 希望在IT领域快速入门并积累经验的人
-
-**谁不适合学Computer and Office Equipment Maintenance Technician？**
-- 对重复性维修工作感到厌倦的人
-- 不喜欢与客户直接打交道的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy solving hardware and software problems hands-on
+- Someone who enjoys providing customer support and is good at communication
+- Those who want to quickly get started in the IT field and gain experience
+
+**Who is not suited**
+- People tired of repetitive repair work
+- People who dislike direct client interaction.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for computer maintenance technicians?**
+A: Entry-level salaries are about 25,000-30,000 euros annually, intermediate salaries 32,000-40,000 euros, and seniors up to 50,000 euros. Salary levels are considered moderately low within the IT industry, but there is limited room for improvement after gaining experience.
+
+**Q: What are the main pathways for foreign technicians to immigrate to France?**
+A: You can use the Salarié work residence (if you find an employer), Passeport Talent Passport (high salary or high education), or EU Blue Card. French language proficiency (B1/B2) and a French diploma significantly improve your chances of success.
+
+**Q: Does this occupation have promotion opportunities?**
+A: You can be promoted to IT Support Supervisor, System Administrator, or switch to specializations such as cybersecurity or cloud computing. It is recommended to broaden development paths through continuing education (such as Licence Pro or Engineering Diploma).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中低（★½☆☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer and Office Equipment Maintenance Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for computer maintenance technicians?**
-答：Entry-level annual salary is about €25,000-30,000, mid-level €32,000-40,000, senior up to €50,000. It is moderate-low in IT sector, with limited growth after experience.
-
-**问：What are the main migration pathways for foreign technicians to France?**
-答：Visa options include Salarié (employee), Passeport Talent (high salary or degree), or EU Blue Card. French language skills (B1/B2) and a French diploma significantly improve chances.
-
-**问：Is there room for career advancement?**
-答：You can advance to IT support manager, system administrator, or specialize in cybersecurity/cloud. Pursuing further education (e.g., licence pro or engineering degree) helps.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

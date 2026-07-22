@@ -1,59 +1,91 @@
-# Bleaching, Dyeing and Fabric Cleaning Machine Operator（Bleaching, Dyeing and Fabric Cleaning Machine Operator）职业分析 · NL
+# Bleaching, Dyeing and Fabric Cleaning Machine Operator — career analysis · Netherlands
 
-**职业代码：8154 – Bleaching, Dyeing and Fabric Cleaning Machine Operator。**
+**Occupation code: 8154 (ISCO08)**
 
-Operate bleaching, dyeing and cleaning machines to treat textiles, yarns or leather, ensuring color and cleanliness meet specifications.
+Operate bleaching, dyeing, and washing machines to process textiles, yarn, or leather, ensuring color and cleanliness meet specifications.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-3年 | $1,200~$6,000（学费因学校而异，可能获得政府补贴） |
+| Secondary vocational education (MBO) | 2-3 years | $1,200~$6,000 (Tuition fees vary by school; government subsidies may be available.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO纺织技术文凭 | 荷兰职业教育学校（ROC） | 可选 | 部分雇主偏好相关专业背景 |
-| 在职培训证书 | 雇主 | 必备 | 通常提供机器操作与安全培训 |
+| On-the-job training certificate | Employer | Required | Usually provides machine operation and safety training |
+| MBO Textile Technology Diploma | Dutch vocational education school (ROC) | Optional | Some employers prefer relevant educational background |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。荷兰纺织制造业规模较小且持续萎缩，自动化替代部分岗位，预计就业需求平稳下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. The textile manufacturing industry in the Netherlands is small and shrinking, with automation replacing some positions, and employment demand is expected to steadily decline.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $28,000~$34,000 | 税前年薪 |
-| 高级（7年以上） | $34,000~$40,000 | 含主管职责 |
+| Median salary | $44,262 | Median salary (official: CBS median hourly wage €22.4/hr × 1976h annualized, BRC group 0771 Productiemachinebedieners; P25–P75 €35,568–€53,352, CBS 2024) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Senior (7+ years) | $34,000~$40,000 | Includes supervisory duties |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从操作员起步，可晋升为生产主管或质量控制技术员；横向可转向纺织机械维修或化工相关岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+This occupation relies heavily on physical operations and perception; direct AI replacement is limited. However, AI significantly amplifies efficiency through recipe optimization, defect detection, and quality control. Low-end entry-level roles may decrease due to automated recipes, but overall risk is manageable, requiring adaptation to human-machine collaboration.
+
+Usually starts as an operator, can advance to production supervisor or quality control technician; lateral moves to textile machinery maintenance or chemical-related roles.
+
+**Tasks most exposed to AI:**
+
+- Formula calculation and parameter adjustments (AI generates optimal solutions using historical data)
+- Daily color consistency inspection (machine vision + AI real-time analysis)
+- Equipment operating status recording and basic fault diagnosis (predictive maintenance system)
+- Chemical dosage calculation and inventory tracking (automated inventory management)
+
+**Where AI augments the role:**
+
+- AI provides real-time process optimization suggestions, reducing trial-and-error costs.
+- Machine vision assists defect detection, improving quality consistency.
+- Predictive maintenance alerts reduce downtime
+- Digital twin simulation to accelerate new recipe development
+
+**Human moat:**
+
+- Handling unexpected fabric/leather anomalies (e.g., uneven dyeing, chemical burns)
+- Manual equipment repair and calibration (relying on touch and experience)
+- communicate with clients on special effects requirements (non-standard aesthetics)
+- Overseeing chemical safety and environmental compliance (legal responsibilities)
+
+**Skills to build:**
+
+- AI-assisted dye formula software operation
+- Basic maintenance and calibration of machine vision systems.
+- Data analysis and process optimization (Python basics)
+- Fault diagnosis and maintenance of automation equipment
+- Chemical safety and environmental regulation updates
+
+**Key growth areas:**
 
 - textile manufacturing decline
 - automation
@@ -62,63 +94,65 @@ Operate bleaching, dyeing and cleaning machines to treat textiles, yarns or leat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能职位，但此职业通常不符合薪资门槛（2024年要求年薪约56,000欧元） |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育背景及高薪，此职业通常不适用 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于在荷兰毕业的国际学生，可在一年内找工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled positions, but this occupation typically does not meet the salary threshold (2024 requirement: approximately €56,000 per year) |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education background and high salary; this occupation is typically not applicable |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For international students graduating in the Netherlands, allows job search within one year. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bleaching, Dyeing and Fabric Cleaning Machine Operator？**
-- 愿意从事重复性体力工作的人
-- 对纺织工艺感兴趣的人
-- 能适应倒班和工作环境嘈杂的人
+**Who is suited**
+- People willing to engage in repetitive physical work.
+- People interested in textile processes.
+- Those who can adapt to shift work and noisy environments
 
-**谁不适合学Bleaching, Dyeing and Fabric Cleaning Machine Operator？**
-- 希望高薪或快速晋升的人
-- 不愿在制造业环境工作的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who are unwilling to work in a manufacturing environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation in the Netherlands?**
+A: Entry-level annual salary around €24,000-€28,000, reaching €34,000-€40,000 with experience.
+
+**Q: Is it easy for foreigners to obtain a work visa for this occupation?**
+A: Difficult; this occupation is not considered high-skilled immigration and cannot meet the Highly Skilled Migrant salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bleaching, Dyeing and Fabric Cleaning Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in the Netherlands?**
-答：Entry-level annual salary is around €24,000-28,000, rising to €34,000-40,000 with experience.
-
-**问：Is it easy for foreigners to get a work visa for this occupation?**
-答：It is difficult, as the occupation does not qualify for the Highly Skilled Migrant scheme due to salary thresholds.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

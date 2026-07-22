@@ -1,59 +1,95 @@
-# Business and related research professionals（Business and related research professionals）职业分析 · UK
+# Business and related research professionals — career analysis · United Kingdom
 
-**职业代码：2434 – Business and related research professionals。**
+**Occupation code: 2434 (SOC)**
 
-Business and related research professionals carry out a variety of research activities for broadcast and print media, police and armed forces intelligence services, national security agencies, and other non-scientific areas.
+Business and Related Research Professionals conduct various research activities for broadcasting, print media, police and military intelligence, national security agencies, and other non-scientific fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$15,000（英国本土学费约9,250英镑/年；国际学生约15,000-25,000英镑/年） |
-| 硕士 | 1年 | $12,000~$25,000（一年制硕士学费，本土学生约12,000-18,000英镑；国际学生约20,000-35,000英镑） |
+| Bachelor's degree | 3 years | $9,250~$15,000 (UK domestic tuition is about £9,250/year; international students about £15,000-25,000/year) |
+| Master's degree | 1 year | $12,000~$25,000 (One-year master's tuition: approximately £12,000-18,000 for domestic students; approximately £20,000-35,000 for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会科学/传媒/政治学学士学位 | 英国大学 | 必备 | 相关领域学位，通常要求2:1以上 |
-| 研究技能培训 | 国家统计办公室（ONS）或专业机构 | 可选 | 定量定性研究方法培训，非必须但有利于就业 |
-| 安全审查（Security Clearance） | 英国政府 | 可选 | 从事情报、国防相关工作需通过安全审查，通常要求英国国籍 |
+| Bachelor's degree in Social Sciences/Media/Political Science | UK universities | Required | Degree in a related field, usually requiring a 2:1 or above |
+| Research skills training | National Statistical Office (ONS) or professional bodies | Optional | Training in quantitative and qualitative research methods, not mandatory but beneficial for employment |
+| Security Clearance | UK Government | Optional | Intelligence and defense-related work requires security clearance, typically UK nationality |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 42,000。英国就业前景稳定，受媒体、情报和政府机构持续需求驱动。数字化转型和数据驱动决策推动了岗位增长，但竞争激烈。预计2023-2033年就业人数小幅增长约5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 42,000. UK employment prospects are stable, driven by sustained demand from media, intelligence, and government sectors. Digital transformation and data-driven decision-making boost job growth, but competition is fierce. Employment is projected to grow slightly by about 5% from 2023-2033.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入门级薪资，常见于研究助理或初级分析师 |
-| 中级（4-7年） | $30,000~$42,000 | 有经验的研究员或高级分析师 |
-| 高级（8年+） | $45,000~$65,000 | 研究经理、首席研究员或顾问 |
+| Median salary | $41,128 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry-level salary, common for research assistants or junior analysts |
+| Mid-level (4-7 years) | $30,000~$42,000 | Experienced researcher or senior analyst |
+| Senior (8+ years) | $45,000~$65,000 | Research manager, principal researcher, or consultant |
+| average salary | $47,328 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径：初级研究员→高级研究员→研究经理或首席研究员。可转向媒体编辑、政策顾问或情报分析等方向。部分人进入学术界或创办研究咨询公司。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Some tasks for business and related researchers (data collection, report generation) are easily automated by AI, but core capabilities like strategic analysis and client communication still rely on human judgment. AI is a powerful tool; active learning and adaptation are needed.
+
+Career path: Junior Researcher → Senior Researcher → Research Manager or Principal Researcher. Can transition to media editor, policy advisor, or intelligence analysis. Some enter academia or start research consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Market research data collection and cleaning
+- Industry report templating and writing
+- Competitor information monitoring and classification.
+- Automatic generation and basic interpretation of statistical charts
+- Quick search and summarization of background documents and literature
+
+**Where AI augments the role:**
+
+- Leveraging AI for large-scale public opinion analysis and sentiment detection
+- Predict market trends through machine learning models
+- AI-assisted establishment of dynamic competitive intelligence dashboard
+- Automatically generate multilingual research briefs
+- Natural language processing to improve coding efficiency for qualitative interviews
+
+**Human moat:**
+
+- Deep Customer Understanding and Needs Discovery
+- Cross-domain business insights and strategic recommendations
+- Complex stakeholder relationship coordination
+- Decision-making based on incomplete information
+- Ethical and compliance risk awareness
+
+**Skills to build:**
+
+- Python/R data analysis and automation scripting
+- Use of AI tools (e.g., ChatGPT, Copilot) to optimize workflows
+- Data visualization and advanced chart creation.
+- Business Model Thinking and Strategic Frameworks
+- Project management and agile working methods
+- Critical thinking and problem reframing
+
+**Key growth areas:**
 
 - Research
 - Media
@@ -62,69 +98,68 @@ Business and related research professionals carry out a variety of research acti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于被英国雇主担保的研究岗位，满足薪资门槛（通常£26,200/年或行业标准）。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在媒体、研究领域有杰出成就或潜力的顶尖人才，无需雇主担保，可自雇。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请2年（本科/硕士）或3年（博士）工作签证，无雇主担保要求，可积累经验。 |
-| Subclass Scale-up（Scale-up visa） | 适用于在符合条件的高增长企业从事研究工作，首6个月需雇主担保，后续灵活。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to research positions sponsored by a UK employer, meeting the salary threshold (usually £26,200/year or industry standard). |
+| Subclass Global Talent (Global Talent visa) | For top talents with outstanding achievements or potential in media and research fields; no employer sponsorship needed, can be self-employed. |
+| Subclass Graduate (Graduate visa) | UK graduates can apply for a 2-year (bachelor's/master's) or 3-year (PhD) work visa without employer sponsorship, allowing them to gain experience. |
+| Subclass Scale-up (Scale-up visa) | Applies to research work in eligible high-growth enterprises; employer sponsorship required for first 6 months, flexible thereafter. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Business and related research professionals？**
-- 喜欢研究和分析复杂信息的批判性思考者
-- 对媒体、政治、社会议题有浓厚兴趣的人
-- 具备优秀书面和口头沟通能力的人
-
-**谁不适合学Business and related research professionals？**
-- 厌恶写作和长篇报告的人
-- 不擅长处理模糊信息和竞争压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Critical thinker who enjoys researching and analyzing complex information
+- Those with a strong interest in media, politics, and social issues
+- People with excellent written and verbal communication skills
+
+**Who is not suited**
+- People who dislike writing and long reports
+- Those not adept at handling ambiguous information and competitive pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for commercial researchers?**
+A: Entry-level salary around £22,000-28,000, mid-level £30,000-42,000, senior up to £65,000. Salaries are higher in media and private sectors than in the public sector.
+
+**Q: How can overseas applicants become business researchers in the UK through a work visa?**
+A: The most common pathway is the Skilled Worker visa, requiring employer sponsorship and meeting the salary threshold (usually at least £26,200). For outstanding achievements in media or research, the Global Talent visa may be an option.
+
+**Q: What is the career progression path for this occupation?**
+A: Typically start as a junior researcher or assistant, gain experience, and then advance to senior researcher or research manager. They can also move laterally to roles such as media editor, policy advisor, or market research director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Business and related research professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for business researchers?**
-答：Entry-level salaries are around £22,000-£28,000, mid-level £30,000-£42,000, and senior up to £65,000. Media and private sector pay higher than public sector.
-
-**问：How can overseas applicants become business researchers in the UK via work visa?**
-答：The most common route is the Skilled Worker visa, requiring employer sponsorship and meeting the salary threshold (usually at least £26,200). Those with outstanding achievements in media or research may apply for a Global Talent visa.
-
-**问：What is the career progression for this occupation?**
-答：Typically starts as a junior researcher or assistant, then progresses to senior researcher or research manager. Lateral moves into media editing, policy advising, or market research director are also common.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

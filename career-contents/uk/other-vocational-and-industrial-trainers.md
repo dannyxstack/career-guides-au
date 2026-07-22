@@ -1,60 +1,93 @@
-# Other vocational and industrial trainers（Other vocational and industrial trainers）职业分析 · UK
+# Other vocational and industrial trainers — career analysis · United Kingdom
 
-**职业代码：3574 – Other vocational and industrial trainers。**
+**Occupation code: 3574 (SOC)**
 
-Other vocational and industrial trainers provide instruction in manual, manipulative and other vocational skills and advise on, plan and organise vocational instruction within industrial, commercial and other establishments.
+Other vocational and industrial trainers provide manual, operational, and other vocational skills training in industrial, commercial, and other institutions, and are responsible for planning and organizing vocational guidance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中及同等学历 | 2年 | —（通常无额外费用） |
-| 职业培训文凭 | 1-2年 | $3,000~$8,000（如City & Guilds培训师证书） |
-| 教学资格证书（如PTLLS） | 6个月-1年 | $500~$2,000（非强制但有助于职业发展） |
+| High school and equivalent. | 2 years | $0~$0 (Usually no extra fees) |
+| Vocational training diploma | 1-2 years | $3,000~$8,000 (e.g., City & Guilds trainer certificate) |
+| Teaching qualification (e.g., PTLLS) | 6 months to 1 year | $500~$2,000 (Not mandatory but beneficial for career development) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 培训师证书（如PTLLS） | City & Guilds | 可选 | 基础教学资格，非强制但常用 |
-| 行业职业资格证书 | 相关行业机构 | 必备 | 根据培训领域，如建筑、护理等 |
-| 持续专业发展（CPD） | 各类培训机构 | 可选 | 保持技能更新 |
+| Industry vocational qualification certificates | Relevant industry bodies | Required | Depending on training area, such as construction, nursing, etc. |
+| Trainer certificate (e.g., PTLLS) | City & Guilds | Optional | Basic teaching qualification, not mandatory but commonly used |
+| Continuing Professional Development (CPD) | Various training institutions | Optional | Keep skills updated |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。英国对职业技能培训需求稳定，尤其在制造业、建筑业和护理行业。政府推动学徒制和技能提升计划，预计就业机会平稳增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Demand for vocational skills training in the UK is stable, especially in manufacturing, construction, and nursing. The government promotes apprenticeships and upskilling programs, with employment expected to grow steadily.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 通常为培训助理或初级培训师 |
-| 中级（3-7年） | $25,000~$35,000 | 独立负责培训课程 |
-| 高级（7年以上） | $35,000~$45,000 | 培训主管或经理 |
+| Median salary | $36,357 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$25,000 | Typically a training assistant or junior trainer. |
+| Mid-level (3–7 years) | $25,000~$35,000 | Independently responsible for training courses |
+| Senior (7+ years) | $35,000~$45,000 | Training supervisor or manager |
+| average salary | $38,385 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级培训师可晋升为高级培训师、培训主管或培训经理。部分人转向教育管理或咨询岗位。持续专业发展（CPD）和获得教学资格（如PTLLS）有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on vocational trainers is mixed: routine training tasks (e.g., basic course delivery) are easily automated by AI, but high-value aspects (e.g., custom course design, industry insights) will be enhanced by AI, requiring proactive transformation.
+
+Junior trainers can progress to senior trainer, training supervisor or training manager. Some move into education management or consultancy. Continuing professional development (CPD) and obtaining teaching qualifications (e.g. PTLLS) aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Repetitive training courses delivered via standard operating procedures
+- Automated testing and assessment of basic knowledge and safety regulations
+- Manual retrieval and organization of training content (e.g., extracting key points from documents)
+- Training attendance management and routine feedback collection
+
+**Where AI augments the role:**
+
+- Uses AI to analyze learner data, personalize training pace and content.
+- Creating immersive hands-on training environments using AI simulators (e.g., VR/AR)
+- Use AI-assisted instructional design tools to quickly generate interactive courses and assessment materials
+- Update courses to match the latest skill requirements by analyzing industry trend data with AI.
+
+**Human moat:**
+
+- On-site demonstration and safety supervision for complex, high-risk operation training
+- Personalised tutoring and psychological support for special-needs students
+- Cross-industry experience integration and innovative teaching method design.
+- Customer relationship maintenance and customized training program consulting
+
+**Skills to build:**
+
+- AI teaching tools: mastering AI plugins of mainstream LMS platforms and automatic content generation tools
+- Data analysis: able to interpret learning analytics data to optimize training effectiveness
+- VR/AR Content Development: Basic 3D modeling and interaction design
+- Instructional design models: Deep dive into systematic design frameworks like ADDIE and SAM
+- Industry frontier knowledge: maintain sensitivity to technological changes in target industries
+- Soft skills: enhance participant engagement through storytelling and improvisational activities
+
+**Key growth areas:**
 
 - Vocational training
 - Skills development
@@ -63,68 +96,67 @@ Other vocational and industrial trainers provide instruction in manual, manipula
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，职业在可担保职业清单上，年薪不低于£26,200（或现行工资标准）。 |
-| Subclass Graduate（Graduate visa） | 适合在英国完成学位的毕业生，可工作2-3年，无雇主担保要求。 |
-| Subclass Scale-up（Scale-up visa） | 适合在符合条件的快速增长企业工作，需雇主担保初始阶段。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, occupation on the eligible list, and annual salary of at least £26,200 (or the prevailing wage rate). |
+| Subclass Graduate (Graduate visa) | For graduates who completed their degree in the UK, allowing 2-3 years of work without employer sponsorship requirements. |
+| Subclass Scale-up (Scale-up visa) | Suited for qualifying rapidly growing businesses, requiring employer sponsorship at the initial stage |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other vocational and industrial trainers？**
-- 喜欢教学和指导他人的人
-- 具有行业经验并愿意分享技能的人
-- 追求工作稳定和规律生活的人
-
-**谁不适合学Other vocational and industrial trainers？**
-- 不愿意面对不同学习能力学员的人
-- 追求高薪和高职业声望的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy teaching and guiding others
+- Individuals with industry experience willing to share skills
+- People who seek job stability and a regular lifestyle
+
+**Who is not suited**
+- People unwilling to face students with different learning abilities
+- People pursuing high salary and high career prestige
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for trainers?**
+A: Junior trainer annual salary approx. £20,000-25,000, mid-level approx. £25,000-35,000, senior up to £35,000-45,000.
+
+**Q: Can a trainer immigrate to the UK via a Skilled Worker visa?**
+A: Yes, trainers are on the list of eligible occupations for skilled worker visas, requiring employer sponsorship and meeting salary requirements.
+
+**Q: Is a teaching qualification required?**
+A: Not mandatory, but holding a teaching qualification such as PTLLS can improve employment competitiveness. Industry professional qualifications are usually required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other vocational and industrial trainers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for trainers?**
-答：Entry-level trainers earn around £20,000-£25,000, mid-level £25,000-£35,000, and senior trainers £35,000-£45,000 per year.
-
-**问：Can trainers migrate to the UK via a Skilled Worker visa?**
-答：Yes, trainers are eligible for the Skilled Worker visa if sponsored by an employer and meeting salary thresholds.
-
-**问：Is a teaching qualification required?**
-答：It is not mandatory, but holding a teaching qualification like PTLLS enhances employability. Industry-specific vocational qualifications are usually required.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

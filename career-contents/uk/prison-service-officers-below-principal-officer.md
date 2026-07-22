@@ -1,61 +1,96 @@
-# Prison service officers (below principal officer)（Prison service officers (below principal officer)）职业分析 · UK
+# Prison service officers (below principal officer) — career analysis · United Kingdom
 
-**职业代码：3314 – Prison service officers (below principal officer)。**
+**Occupation code: 3314 (SOC)**
 
-Prison service officers direct, coordinate, and participate in guarding inmates and maintaining discipline in prisons and other detention centres.
+Prison service officers are responsible for guiding, coordinating, and participating in supervising prisoners, maintaining order and discipline in prisons and other detention centers.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学教育 | 无 | —（通常要求 GCSE 英语和数学（C/4级）或同等学历） |
-| 入职培训 | 12周 | —（由监狱服务提供带薪培训） |
+| Secondary Education | None | $0~$0 (Usually requires GCSE English and Maths (Grade C/4) or equivalent) |
+| Onboarding training | 12 weeks | $0~$0 (Paid training provided by prison services) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| GCSE 英语和数学（C/4级） | 考试委员会 | 必备 | 通常要求 |
-| 监狱服务入职培训结业 | 英格兰及威尔士监狱服务 | 必备 | 必须完成 |
-| 安全等级审查 | 政府 | 必备 | 必须通过安全审查 |
+| GCSE English and Mathematics (grade C/4) | Examination board | Required | Usually required |
+| Completion of Prison Service Induction Training | England and Wales Prison Service | Required | Must be completed |
+| Security clearance review | Government. | Required | Must pass security clearance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。英国监狱系统面临人员短缺和老化问题，政府持续招聘，但预算限制影响岗位增长。未来五年需求稳定，有一定就业机会。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. The UK prison system faces staffing shortages and aging issues; government continues to recruit, but budget constraints affect job growth. Demand will remain stable over the next five years, offering some job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$27,000 | 新入职 officer 起薪约 £23,000 |
-| 中级（4-10年） | $27,000~$34,000 | 约 £27,000-£34,000 |
-| 高级（10年以上） | $34,000~$42,000 | 高级 officer 或主管可达 £42,000 |
+| Median salary | $41,287 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $23,000~$27,000 | Starting salary for new officer approximately £23,000 |
+| Mid-level (4-10 years). | $27,000~$34,000 | Approx £27,000-£34,000 |
+| Senior (10+ years) | $34,000~$42,000 | Senior officer or supervisor up to £42,000 |
+| average salary | $41,305 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从基层 officer 开始，积累经验后可晋升为 senior officer、principal officer，或转入管理、培训、特殊任务（如反恐）岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate the paperwork and monitoring tasks of prison service officers, but face-to-face prisoner control, crisis intervention, and legal procedural responsibilities still rely heavily on human judgment. The position will not disappear, but entry requirements will increase.
+
+Typically start as a base-level officer, then can be promoted to senior officer, principal officer, or move into management, training, special tasks (e.g., counter-terrorism).
+
+**Tasks most exposed to AI:**
+
+- Alarm response for automated monitoring systems (e.g., electronic fence anomalies)
+- Generate daily reports and inmate behavior records (AI auto-summary)
+- Standardized patrol route planning (dynamically optimized by AI)
+- Prisoner roll call and identity verification (biometrics + AI)
+
+**Where AI augments the role:**
+
+- Use AI behavior analysis to warn of inmate violence tendencies and intervene early
+- Simulating crisis scenarios such as riots and hijackings through VR training
+- AI-assisted interrogation records and sentiment analysis to improve negotiation efficiency
+- Real-time translation system supports communication with foreign inmates
+- AI scheduling optimizes police allocation, reducing shift fatigue
+
+**Human moat:**
+
+- Physical confrontation ability to subdue violent prisoners directly
+- Experience-based interpersonal insight and emotional empathy in crisis negotiation
+- Intuitive judgment and humane care for prisoners' mental health status
+- Final decision accountability in legal procedure compliance
+- Leadership that quickly establishes order in chaotic environments
+
+**Skills to build:**
+
+- Learning to use prison-specific AI monitoring and risk prediction systems
+- Master data analysis and basic reporting tools (e.g., Python, Excel)
+- Enhance communication and negotiation skills (to intervene after AI alerts)
+- Undergo VR simulation training to reinforce crisis response muscle memory.
+- Learning basic psychology and mental health recognition
+- Understand forensic technology regulations to ensure compliant AI use
+
+**Key growth areas:**
 
 - stable demand
 - staff retention issues
@@ -64,67 +99,66 @@ Prison service officers direct, coordinate, and participate in guarding inmates 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 监狱服务官在可担保职业清单中，但通常仅限有经验者，薪资需达到 £26,200 或 going rate（如适用） |
-| Subclass Graduate（Graduate Visa） | 允许在英完成学位的毕业生工作2年（博士3年），但转工签仍需满足薪资要求 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Prison service officer is on the eligible occupation list but typically only for experienced workers; salary must meet £26,200 or the going rate (if applicable) |
+| Subclass Graduate (Graduate Visa) | Allows graduates who have completed a degree in the UK to work for 2 years (3 years for PhD), but switching to a work visa still requires meeting salary requirements |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Prison service officers (below principal officer)？**
-- 渴望从事公共安全与司法工作，具备高度纪律性和责任感的人
-- 能应对高压环境，善于沟通和冲突管理的人
-
-**谁不适合学Prison service officers (below principal officer)？**
-- 不喜严格规章制度和轮班制的人
-- 无法承受高强度压力和心理负担的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals who aspire to work in public safety and justice, with high discipline and a sense of responsibility.
+- Individuals who can handle high-pressure environments, are good at communication and conflict management
+
+**Who is not suited**
+- People who dislike strict regulations and shift work
+- People unable to handle high-intensity stress and psychological burden
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for prison service officers?**
+A: Junior approx £23,000-£27,000, mid-level £27,000-£34,000, senior £34,000-£42,000, with additional allowances in London.
+
+**Q: How to get a UK prison service officer work visa as a foreigner?**
+A: This occupation is on the Skilled Worker occupation list, but requires employer sponsorship and meeting the salary threshold (£26,200 or going rate). It is recommended to first obtain a UK degree or gain qualifications through other pathways.
+
+**Q: What are the career advancement opportunities?**
+A: Can progress from officer to senior officer, principal officer, or move into training, safety management, administration and other positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Prison service officers (below principal officer)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for prison service officers?**
-答：Entry level: £23,000-£27,000; Mid-level: £27,000-£34,000; Senior: £34,000-£42,000, with London weighting.
-
-**问：How can a foreigner obtain a Skilled Worker visa as a prison service officer?**
-答：The role is eligible for Skilled Worker sponsorship but requires a job offer from a licensed sponsor and meeting the salary threshold (£26,200 or going rate). A UK degree or prior experience is recommended.
-
-**问：What are the promotion opportunities?**
-答：Career progression includes senior officer, principal officer, or roles in training, security management, and administration.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

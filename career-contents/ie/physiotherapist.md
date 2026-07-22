@@ -1,59 +1,94 @@
-# Physiotherapist（Physiotherapist）职业分析 · IE
+# Physiotherapist — career analysis · Ireland
 
-**职业代码：2264 – Physiotherapist。**
+**Occupation code: 2264 (ISCO08)**
 
-Physiotherapists help patients restore function, relieve pain, and promote health through exercise, manual therapy, and physical modalities. High demand in Ireland, especially in aging care and sports medicine.
+Physiotherapists help patients restore function, relieve pain, and promote health through exercise, manual therapy, and physical modalities. In Ireland, this profession is in high demand, especially in aging societies and sports medicine.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（荣誉）学位 | 4年 | $15,000~$25,000（欧盟学生约€15000-€25000/年，非欧盟更高） |
-| 硕士预注册课程 | 2年 | $10,000~$20,000（针对非物理治疗背景毕业生） |
+| Bachelor's degree (Honours) | 4 years | $15,000~$25,000 (EU students approx €15,000-€25,000/year, non-EU higher) |
+| Pre-master's pathway program | 2 years | $10,000~$20,000 (For graduates without a physiotherapy background) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CORU注册 | CORU | 必备 | 所有在爱尔兰执业的物理治疗师必须在CORU注册 |
-| ISCP会员 | Irish Society of Chartered Physiotherapists | 可选 | 非强制，但提供专业发展资源 |
-| 基本生命支持证书 | 认可培训机构 | 可选 | 通常工作所需 |
+| CORU registration | CORU | Required | All physiotherapists practicing in Ireland must be registered with CORU. |
+| ISCP member | Irish Society of Chartered Physiotherapists | Optional | Not mandatory, but professional development resources are provided |
+| Basic Life Support (BLS) certificate | Registered Training Organisation (RTO) | Optional | Usually required for the job |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,000。爱尔兰物理治疗师就业前景乐观，受老龄化人口和运动损伤增多驱动。医院、私人诊所、社区康复中心均有需求，预计未来十年岗位增长约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 4,000. Employment prospects for physiotherapists in Ireland are optimistic, driven by an aging population and increased sports injuries. Demand exists in hospitals, private clinics, and community rehabilitation centers, with an estimated job growth of about 15% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$43,000 | 公立医院薪资按HSE工资表 |
-| 中级（3-8年） | $45,000~$60,000 | 包括私立诊所和高级职位 |
-| 高级（8年+） | $60,000~$80,000 | 顾问级或管理职位可能更高 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$43,000 | Public hospital salary according to the HSE pay scale |
+| Mid-level (3–8 years) | $45,000~$60,000 | Includes private clinics and senior positions. |
+| Senior (8+ years) | $60,000~$80,000 | Consultant-level or management positions may be higher |
+| average salary | $53,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级物理治疗师可晋升为高级治疗师、团队主管或专科顾问（如神经康复、肌肉骨骼），也可转向管理或学术研究。需持续职业发展（CPD）以维持注册。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
+
+Junior physiotherapist can advance to senior therapist, team leader or specialist consultant (e.g. neurological rehab, musculoskeletal), or move into management or academic research. Requires ongoing professional development (CPD) to maintain registration.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patient assessment reports and rehabilitation progress records
+- Automatically adjust basic training plans using AI analysis of sports data.
+- Replaces measurement work in routine posture analysis and gait assessment
+- Automating patient appointments, follow-ups, and insurance coding entry.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient biomechanical data to provide precise rehabilitation advice
+- Use virtual reality and wearable devices to monitor and optimize patient training in real time
+- Quickly retrieve latest research and practice guidelines through natural language processing.
+- AI-assisted image recognition helps quickly locate musculoskeletal abnormalities.
+- Remote rehabilitation platforms support patient home training and progress tracking
+
+**Human moat:**
+
+- Manual manipulation skills (joint mobilization, soft tissue release, etc.)
+- Clinical reasoning and comprehensive judgment of complex cases
+- Patient psychological support and behavior change motivation
+- Interdisciplinary team collaboration and individualized treatment plan customization
+- Final decision-making authority involving medical liability and patient safety
+
+**Skills to build:**
+
+- Proficiency in electronic health record systems and clinical decision support tools
+- Learn biomechanical data analysis and wearable device interpretation.
+- Familiar with remote rehabilitation platforms and virtual reality rehabilitation technology
+- Improve communication skills for patient education and health behavior coaching
+- understand AI ethics and privacy regulations in rehabilitation
+- Participating in interdisciplinary digital health project practice
+
+**Key growth areas:**
 
 - Aging population
 - Sports injuries
@@ -62,68 +97,67 @@ Physiotherapists help patients restore function, relieve pain, and promote healt
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业，需年薪€32,000以上，可带家属，2年后可申请居留 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪€30,000以上岗位，需劳动市场测试，可转Critical Skills |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需€60,000以上（或短缺职业€40,000），可快速获居留 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, requires annual salary of €32,000+, allows bringing family, eligible for permanent residence after 2 years |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary above €30,000, requires labour market testing, can transition to Critical Skills |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens with an annual salary of €60,000 or more (or €40,000 for shortage occupations), enabling fast residency. |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 具备同理心和沟通能力，乐于帮助他人
-- 对运动科学和人体解剖学有浓厚兴趣
-- 能在多学科团队中协作并独立解决问题
-
-**谁不适合学Physiotherapist？**
-- 排斥长时间站立和体力劳动
-- 不擅长与患者沟通或情绪管理
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess empathy and communication skills, willing to help others
+- Strong interest in sports science and human anatomy
+- Able to collaborate in multidisciplinary teams and solve problems independently
+
+**Who is not suited**
+- Avoiding prolonged standing and physical labor.
+- Poor at patient communication or emotional management
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a physiotherapist in Ireland?**
+A: Entry-level approximately €35,000–€43,000, mid-level approximately €45,000–€60,000, senior up to €80,000+. Private clinics may offer higher pay.
+
+**Q: How can non-EU physiotherapists migrate to Ireland?**
+A: Available via Critical Skills Employment Permit (requires CORU registration and annual salary ≥€32,000) or General Employment Permit. EU citizens can move freely.
+
+**Q: How can overseas physiotherapists obtain CORU registration?**
+A: Must submit academic credential assessment, proof of language (IELTS 7.0 or equivalent), and clinical experience. May need to complete adaptation period or exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Physiotherapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a physiotherapist in Ireland?**
-答：Entry-level €35,000-€43,000, mid-level €45,000-€60,000, senior up to €80,000+. Private practice may offer higher pay.
-
-**问：How can non-EU physiotherapists immigrate to Ireland?**
-答：Via Critical Skills Employment Permit (requires CORU registration and salary ≥€32,000) or General Employment Permit. EU citizens have free movement.
-
-**问：How can overseas physiotherapists obtain CORU registration?**
-答：Submit qualification verification, English language proof (IELTS 7.0 or equivalent), and clinical experience. May require adaptation period or exam.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

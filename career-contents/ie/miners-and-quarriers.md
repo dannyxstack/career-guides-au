@@ -1,61 +1,94 @@
-# Miners and Quarriers（Miners and Quarriers）职业分析 · IE
+# Miners and Quarriers — career analysis · Ireland
 
-**职业代码：8111 – Miners and Quarriers。**
+**Occupation code: 8111 (ISCO08)**
 
-Workers extracting minerals and stone from underground or open-pit mines and quarries, operating drilling, blasting and earthmoving machinery.
+In Ireland, working in underground or open-cut mining and quarrying, operating excavation and loading equipment, etc.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职高 | 4年（职高） | —（公立高中/职高免费） |
-| 学徒制 | 2-4年 | —（通常有薪培训） |
+| High school / vocational high school | 4 years (vocational high school) | $0~$0 (Free public high school / vocational school) |
+| Apprenticeship | 2-4 years | $0~$1,000 (Usually paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矿山安全证书 | 爱尔兰健康与安全管理局（HSA） | 必备 | 强制性安全培训 |
-| 爆破作业许可证 | HSA | 必备 | 从事爆破作业必备 |
-| 重型设备操作证 | SOLAS | 可选 | 证明操作挖掘机/装载机能力 |
+| Mine safety certificate | Ireland's Health and Safety Authority (HSA) | Required | Mandatory safety training |
+| Blasting operation permit | HSA | Required | Essential for blasting operations |
+| Heavy equipment operator license | SOLAS | Optional | Demonstrate ability to operate excavator/loaders |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。爱尔兰矿业规模较小，就业需求平稳，受制于环保政策和资源储量，新岗位有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The mining industry in Ireland is relatively small, with stable but limited employment demand due to environmental policies and resource reserves; new positions are limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含主管岗位 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual salary before tax, including supervisor positions |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从普通矿工晋升为设备操作主管或矿场监督，但晋升空间狭窄，需积累重工业经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will change mining and quarrying work, with some tasks being replaced, but complex equipment operation, on-site judgement, and safety responsibilities still require humans; overall, risks and opportunities coexist.
+
+Can be promoted from general miner to equipment operation supervisor or mine supervisor, but promotion space is narrow, requiring accumulation of heavy industry experience.
+
+**Tasks most exposed to AI:**
+
+- Automatic drilling and blasting design using GPS and sensors
+- Autonomous mining trucks for ore transportation.
+- AI surveillance system for mine safety patrol
+- Automated crushing and screening processes
+
+**Where AI augments the role:**
+
+- AI analysis of geological data to assist in locating mineral deposits
+- Remote control cabin combined with AR technology for precise excavation
+- Predictive maintenance systems reduce equipment failures
+- Intelligent scheduling to optimize mining efficiency
+
+**Human moat:**
+
+- Equipment fault diagnosis and on-site repair under complex formation conditions
+- Emergency decision-making and rescue command for sudden safety incidents
+- On-site communication with high-risk collaborators such as blasters and geologists.
+- Environmentally sensitive reclamation and ecological restoration responsibilities
+
+**Skills to build:**
+
+- Automated mining system operation and monitoring
+- Drone inspection and data collection
+- Basic data analysis and geological modeling
+- AR/VR Assisted Operational Skills
+- Electrical and hydraulic system maintenance
+- Safety production management and compliance knowledge
+
+**Key growth areas:**
 
 - Mining
 - Quarrying
@@ -64,65 +97,67 @@ Workers extracting minerals and stone from underground or open-pit mines and qua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用于采矿工，除非有特殊技能。 |
-| Subclass EU Freedom of Moveme（EU/EEA/Swiss citizen free movement） | 欧盟公民可自由在爱尔兰工作，无需许可。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, with an annual salary of no less than 30,000 euros. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Usually not applicable for mining workers unless they have special skills. |
+| Subclass EU Freedom of Moveme (EU/EEA/Swiss citizen free movement) | EU citizens can work freely in Ireland without a permit. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Miners and Quarriers？**
-- 体力好、适应户外及地下工作
-- 愿意在偏远地区工作
+**Who is suited**
+- Good physical condition, adaptable to outdoor and underground work
+- Willing to work in remote areas.
 
-**谁不适合学Miners and Quarriers？**
-- 不喜体力劳动或危险环境
-- 寻求高学历或办公室工作
+**Who is not suited**
+- Dislike physical labor or hazardous environments.
+- Seeking higher education or office work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for miners in Ireland?**
+A: Junior miner annual salary approx. €28,000-35,000, senior or supervisor up to €45,000-55,000.
+
+**Q: Can a miner immigrate to Ireland through a work visa?**
+A: This occupation is not on the shortage list; it requires applying for a General Employment Permit with an annual salary threshold of €30,000, and employer sponsorship is needed.
+
+**Q: What are the career advancement paths for miners?**
+A: Can advance to equipment operations supervisor, mine supervisor, or safety officer, but requires additional training and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Miners and Quarriers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for miners and quarriers in Ireland?**
-答：Entry-level miners earn around €28,000-35,000 per year, while experienced or supervisory roles can reach €45,000-55,000.
-
-**问：Can miners and quarriers immigrate to Ireland through a work visa?**
-答：This occupation is not on the Critical Skills list; a General Employment Permit is required with a salary threshold of €30,000 and employer sponsorship.
-
-**问：What are the career progression opportunities for miners?**
-答：Progression to equipment supervisor, mine foreman, or safety officer is possible with additional training and experience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Television Presenter（Television Presenter）职业分析 · 澳大利亚
+# Television Presenter — career analysis · Australia
 
-**职业代码：212114 – Television Presenter。**
+**Occupation code: 212114 (ANZSCO)**
 
-Television presenters host TV programs, introduce content, interview guests, guide discussions, and maintain audience engagement. Tasks include script work, improvisation, and collaboration with production teams.
+Television presenters introduce content, interview guests, lead discussions, and maintain audience engagement in TV programmes. The role involves scriptwriting, live improvisation, and collaboration with the production team.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位（传媒/新闻/影视） | 3年 | $20,000~$45,000（公立大学国际学费/年） |
-| 职业文凭（广播或表演） | 1-2年 | $10,000~$20,000（TAFE或私立学院总学费） |
+| Bachelor's degree (Communications/Journalism/Film and Television) | 3 years | $20,000~$45,000 (Annual international tuition at public universities) |
+| Vocational diploma (broadcasting or performance) | 1-2 years | $10,000~$20,000 (Total tuition fees at TAFE or private colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 传媒或新闻学士学位 | 澳洲大学 | 可选 | 首选学历，非强制但极大提升竞争力 |
-| 广播培训证书 | 社区广播协会或TAFE | 可选 | 提供实战经验 |
-| 媒体行业经验 | 用人单位 | 可选 | 通常需实习或作品集 |
+| Bachelor's degree in media or journalism | Australian universities | Optional | Preferred qualification; not mandatory but greatly enhances competitiveness |
+| Certificate in Broadcast Training | Community Broadcasting Association or TAFE | Optional | Provides practical experience |
+| Media industry experience | Employer | Optional | Usually requires internship or portfolio |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 6,000。澳洲电视行业受流媒体冲击，传统电视主持人岗位增长缓慢。但数字内容和多元平台兴起，为多才多艺的主持人创造新机会。预计未来五年就业增长约5%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 6,000. Australia's TV industry is impacted by streaming services, with slow growth for traditional TV host positions. However, the rise of digital content and multi-platforms creates new opportunities for versatile hosts. Employment growth of about 5% is expected over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 小型电视台或地区台 |
-| 中级（3-7年） | $70,000~$100,000 | 城市电视台或全国性频道 |
-| 高级（7年以上） | $100,000~$200,000 | 主流电视网主持人或制片人 |
+| Median salary | $113,308 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Small TV station or regional station |
+| Mid-level (3–7 years) | $70,000~$100,000 | City television station or national channel |
+| Senior (7+ years) | $100,000~$200,000 | Mainstream TV network host or producer |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：助理或记者→新闻主持人或专题节目主持人→资深主持人或制片人→媒体主管或独立制作人。也可转向在线内容创作或品牌代言。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core skills of TV hosts (improvised communication, emotional connection) are hard to replace in the short term, but tasks like script writing and data sorting have been penetrated by AI, intensifying competition for entry-level roles. Proactively embracing AI tools to enhance efficiency is necessary.
+
+Career path: assistant or journalist → news anchor or feature program host → senior host or producer → media executive or independent producer. May also transition to online content creation or brand endorsement.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate opening remarks, transitions, and interview outlines (optimized based on audience data)
+- Real-time speech-to-text and translation, replacing some simultaneous interpretation and subtitling work
+- AI editing assistant automatically extracts highlight clips and adds subtitles
+- Virtual anchors replacing hosts for non-peak hours or low-interaction programs
+
+**Where AI augments the role:**
+
+- Real-time AI sentiment analysis helps adjust tone and interaction strategies.
+- Automatically generate multilingual content to expand international audience
+- AI-driven personalized recommendations and audience engagement analysis.
+- Virtual scenes and AR teleprompters enhance program visual effects
+
+**Human moat:**
+
+- Improvisation, quick thinking, and sense of humor (handling unexpected situations)
+- Deep empathy and humanized interviewing (guiding genuine emotional expression)
+- Creative planning and narrative structure design (creating unique program IP)
+- Brand trust building (maintaining long-term audience relationships)
+
+**Skills to build:**
+
+- AI text and video generation tools (e.g., ChatGPT, Sora)
+- Data-driven content strategy and audience analysis
+- Multi-platform live streaming and short video operation skills.
+- Virtual/Augmented Reality (VR/AR) production basics
+- Basic video editing and AI-assisted post-production
+- Second language (for multilingual AI translation enhancement)
+
+**Key growth areas:**
 
 - Digital Media
 - Multimedia Skills
@@ -64,63 +97,65 @@ Television presenters host TV programs, introduce content, interview guests, gui
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，适用职业清单，但电视主持人不在核心职业清单上，极少获批 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，但电视主持人不在州担保常见职业中，几乎不可行 |
-| Subclass 494（Skilled Employer Sponsored Regional Visa） | 偏远地区雇主担保，可能适用于大型网络，但非常罕见 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, applicable occupation list. However, TV presenters are not on the core occupation list, making approvals extremely rare. |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination, but TV presenter is not a common occupation for state nomination, making it almost unfeasible |
+| Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, possible for large networks but very rare |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Television Presenter？**
-- 有出色口才和镜头感
-- 适应高压和公众关注
-- 具备新闻敏感性和即兴能力
+**Who is suited**
+- Excellent eloquence and camera presence
+- Able to handle high pressure and public scrutiny
+- Possess news sensitivity and improvisation skills
 
-**谁不适合学Television Presenter？**
-- 内向且不愿公开表演
-- 无法接受不规律工作时间
+**Who is not suited**
+- Introverted and unwilling to perform publicly
+- Unable to accept irregular working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for TV presenters?**
+A: Junior about A$55,000-70,000, mid-level A$70,000-100,000, senior A$100,000-200,000, well-known presenters may earn more.
+
+**Q: Can a TV host immigrate through skilled migration?**
+A: Almost impossible. This occupation is not on the skilled occupation list and cannot apply for 189/190 visas. Employer sponsorship (482) is rarely approved.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Television Presenter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a television presenter?**
-答：Entry-level AUD 55,000-70,000; mid-level AUD 70,000-100,000; senior AUD 100,000-200,000, top presenters higher.
-
-**问：Can television presenters migrate via skilled visas?**
-答：Very unlikely. The occupation is not on the skilled occupation list, making 189/190 visas impossible. Employer sponsorship (482) is rare.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

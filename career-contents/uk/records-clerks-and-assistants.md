@@ -1,60 +1,92 @@
-# Records clerks and assistants（Records clerks and assistants）职业分析 · UK
+# Records clerks and assistants — career analysis · United Kingdom
 
-**职业代码：4131 – Records clerks and assistants。**
+**Occupation code: 4131 (SOC)**
 
-Records clerks and assistants maintain and update electronic and/or hard copy documents, correspondence and other records, and organise their storage. They ensure information is orderly and traceable in public sectors, businesses, and various organisations.
+Archivists and assistants maintain and update electronic and/or paper files, correspondence, and other records, and organize their storage. They ensure information is orderly and traceable in the public sector, businesses, and various organizations.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中（A-Levels） | 2年 | —（公立学校免费） |
-| 大专/本科（可选） | 2-3年 | $9,250~$30,000（年学费，国际生更高） |
+| High school (A-Levels) | 2 years | $0~$0 (Free public schools.) |
+| Diploma/Bachelor's degree (optional) | 2-3 years | $9,250~$30,000 (Annual tuition fees, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息与记录管理证书 | ARMA International | 可选 | 可选的行业认证 |
-| 商业管理或相关领域文凭 | 各类继续教育学院 | 可选 | 提升求职竞争力 |
+| Certificate in Information and Records Management | ARMA International | Optional | Optional industry certifications |
+| Diploma in business management or related field | Various further education colleges | Optional | Improve job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 85,000。随着数字化转型，纸质档案管理需求下降，但电子记录管理需求稳定。政府、医疗、金融和大型企业仍需要大量档案管理员，整体就业前景平稳，年增长率约1%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 85,000. With digital transformation, demand for paper-based records management has declined, but electronic records management remains stable. Government, healthcare, finance, and large enterprises still require many records managers. Overall employment outlook is stable, with an annual growth rate of about 1%.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 入门级薪资 |
-| 中级（3-7年） | $23,000~$28,000 | 有经验后薪资上涨 |
-| 高级（7年以上） | $29,000~$35,000 | 高级专员或主管级别 |
+| Median salary | $28,656 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level salary |
+| Mid-level (3–7 years) | $23,000~$28,000 | Salary increases with experience |
+| Senior (7+ years) | $29,000~$35,000 | Senior specialist or supervisor level |
+| average salary | $29,985 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★☆☆☆）。** 初级档案助理可通过积累经验晋升为高级档案管理员或记录经理，进而向信息治理、数据保护或档案管理主管发展。部分人通过考取职业资格转向信息管理专业角色。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly reduce demand for archivists and assistants; daily record updates, archival searches, and other core tasks can be automated, with entry-level jobs notably decreasing.
+
+Junior archive assistants can advance to senior archive administrators or records managers by gaining experience, and then progress to information governance, data protection, or archive management leadership. Some transition to information management professional roles by obtaining vocational qualifications.
+
+**Tasks most exposed to AI:**
+
+- Automatic classification and filing of electronic documents and paper letters
+- Automatic retrieval and viewing based on keywords or metadata
+- Automation of record updates and version control
+- Automatic generation and distribution of standard letters and template documents.
+
+**Where AI augments the role:**
+
+- Data extraction and integration for complex queries and analysis reports
+- Human review of document compliance checks and anomaly marking
+- Optimization of archival classification schemes and metadata design
+- Quality monitoring of cross-system data migration and format conversion
+
+**Human moat:**
+
+- Ethical judgment and security responsibility in handling sensitive or confidential records
+- Non-standard archive appraisal and classification decisions requiring domain knowledge
+- Data governance and compliance interpretation in response to regulatory changes
+- Soft skills in teamwork and cross-departmental communication
+
+**Skills to build:**
+
+- Proficient in electronic document management systems (e.g., Alfresco/SharePoint)
+- Big data analytics and visualization tools (e.g., Power BI, Tableau)
+- Basic data cleaning and automation scripts (Python/RPA)
+- Information governance and compliance regulations (e.g., GDPR)
+- Metadata standard design and knowledge organization methods
+
+**Key growth areas:**
 
 - Data Management
 - Digital Records
@@ -63,64 +95,66 @@ Records clerks and assistants maintain and update electronic and/or hard copy do
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业通常不在可担保职业清单上，雇主难以担保工签。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is usually not on the eligible occupation list, making it difficult for employers to sponsor a work visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Records clerks and assistants？**
-- 注重细节、有条理的人
-- 喜欢在办公室环境中进行文档管理的人
-- 寻求稳定而不是高薪的人
+**Who is suited**
+- Detail-oriented, organized person
+- Someone who enjoys document management in an office environment
+- People seeking stability rather than high salary
 
-**谁不适合学Records clerks and assistants？**
-- 追求高薪和快速发展的人
-- 希望从事创造性和高自主性工作的人
+**Who is not suited**
+- Those pursuing high salary and rapid development
+- People who desire creative and highly autonomous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for archivists in the UK?**
+A: Entry-level archivist salary is about GBP 18,000-22,000 per year, mid-level about GBP 23,000-28,000, and senior up to GBP 29,000-35,000.
+
+**Q: Can archivists apply for a UK work visa?**
+A: This occupation is usually not on the eligible occupations list for skilled worker visas, making it difficult for employers to sponsor, so skilled migration pathways are not common.
+
+**Q: What advancement opportunities are there for archivists?**
+A: Can progress from junior assistant to senior archivist, records manager, and then to information governance or data protection officer roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Records clerks and assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a records clerk in the UK?**
-答：Entry-level records clerks earn around £18,000-£22,000 per year, mid-level £23,000-£28,000, and senior roles £29,000-£35,000.
-
-**问：Can a records clerk get a UK work visa?**
-答：This occupation is generally not on the eligible list for the Skilled Worker visa, making employer sponsorship rare and migration path limited.
-
-**问：What career progression is available for records clerks?**
-答：Progression from junior assistant to senior clerk, records manager, and then roles in information governance or data protection.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

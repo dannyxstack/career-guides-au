@@ -1,57 +1,90 @@
-# Seafood Process Worker（Seafood Process Worker）职业分析 · 新西兰
+# Seafood Process Worker — career analysis · New Zealand
 
-**职业代码：831313 – Seafood Process Worker。**
+**Occupation code: 831313 (ANZSCO)**
 
-Seafood process workers clean, shell, cut, and pack seafood in factories or on vessels, ensuring hygiene and quality standards. This role typically enters New Zealand via the Accredited Employer Work Visa (AEWV), and while not on the Green List, progression to supervisory or technician roles may open Skilled Migrant Category pathways.
+Seafood processing workers are responsible for cleaning, shelling, cutting, and packaging seafood in factories or on ships, ensuring compliance with hygiene standards. This occupation typically enters New Zealand via an Accredited Employer Work Visa (AEWV); with experience and promotion to supervisor or technical roles, it may meet skilled migration requirements, but it is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无学历要求（在岗培训） | 1个月 | —（部分雇主提供免费培训） |
+| No education requirement (on-the-job training) | 1 month | $0~$1,000 (Some employers offer free training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全工作证书 | NZQA认可培训机构 | 可选 | 部分雇主要求，涵盖食品安全与卫生 |
-| 新西兰食品安全证书 | 新西兰初级产业部 | 可选 | 非强制，但有助于就业 |
+| Safety Work Certificate | NZQA-recognised training provider | Optional | Some employers require it, covering food safety and hygiene |
+| New Zealand Food Safety Certificate | New Zealand Ministry for Primary Industries | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。新西兰海鲜加工业作为出口支柱之一，需求稳定，尤其在基督城、尼尔森、因弗卡吉尔等沿海地区，初级岗位持续招聘。但受季节波动影响，就业机会可能随捕鱼旺季而变化。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. New Zealand's seafood processing industry, as a key export pillar, has stable demand, particularly in coastal areas like Christchurch, Nelson, and Invercargill, with ongoing recruitment for entry-level roles. However, seasonal fluctuations may cause job opportunities to vary with fishing peak seasons.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$52,000 | 最低工资标准附近 |
-| 中级（3-5年） | $52,000~$60,000 | 含加班和旺季补贴 |
-| 高级（5年以上/主管） | $60,000~$75,000 | 主管或资深技工 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Near minimum wage levels |
+| Mid-level (3–5 years) | $52,000~$60,000 | Including overtime and seasonal allowances. |
+| Senior (5+ years / supervisor) | $60,000~$75,000 | Supervisor or senior tradesperson |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 入门级岗位可晋升至生产线主管、质量检查员或设备操作员。积累经验后，有机会转向更高级的海鲜技术岗位（如海鲜分级师），或通过管理培训进入工厂管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on seafood processing workers is mixed: repetitive tasks (e.g., sorting, weighing) are easily automated, but physical handling, hygiene judgment, and handling multiple varieties still rely on humans. Total positions may shrink, but technology-assisted efficiency improves, requiring workers to upgrade digital and mechanical skills.
+
+Entry-level positions can advance to production line supervisor, quality inspector, or equipment operator. With experience, opportunities exist to move to higher-level seafood technology roles (e.g., seafood grader) or enter factory management through management training.
+
+**Tasks most exposed to AI:**
+
+- Use machine vision to automatically sort seafood by species and size
+- Automated weighing and packaging sealing process
+- Inventory counting and initial quality screening based on sensor data.
+- Record and upload batch processing information to the cloud system
+
+**Where AI augments the role:**
+
+- AI-assisted vision systems help identify parasites or foreign objects, improving inspection accuracy
+- Real-time data analysis optimises shift schedules and cutting plans on the production line, reducing waste
+- Wearable devices monitor worker fatigue and posture to prevent injuries
+- AI predicts demand to guide raw material procurement and inventory management
+
+**Human moat:**
+
+- Complex manual shelling and cutting techniques (e.g., handling fragile shrimp and crabs)
+- On-site judgment of seafood freshness and hygiene risks (sensory experience)
+- Handling non-standard, irregularly shaped individuals
+- Emergency equipment repair and troubleshooting
+
+**Skills to build:**
+
+- Basic mechanical operation and maintenance (e.g., automatic sorting machines)
+- Digital literacy: using tablets/phones to record data and read dashboards
+- Food safety and HACCP knowledge advancement
+- Basic data analysis (e.g., Excel, simple visualization)
+- Equipment troubleshooting and simple repairs
+- English communication skills (to collaborate with QC or engineers)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -60,67 +93,66 @@ Seafood process workers clean, shell, cut, and pack seafood in factories or on v
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，是海鲜加工工人的主要工签路径，需雇主获得认证 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需职位达到ANZSCO技能等级3-4并满足收入要求，通常需晋升至主管职位才行 |
+| Subclass AEWV (Accredited Employer Work Visa) | The Accredited Employer Work Visa is the main work visa pathway for seafood processing workers, requiring employer accreditation. |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, requiring an occupation at ANZSCO skill level 3-4 and meeting income requirements; usually requires promotion to a supervisory role. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Seafood Process Worker？**
-- 愿意从事体力劳动且能适应低温工作环境
-- 需要短期即可入职的初级工作者
-- 寻求通过工签进入新西兰并愿意从基层做起的人
-
-**谁不适合学Seafood Process Worker？**
-- 希望快速获得居留权的人
-- 对重复性体力劳动敏感或无法适应海鲜腥味的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to perform physical labor and adapt to cold working environments
+- For entry-level workers who can start immediately
+- Seeking individuals who want to enter New Zealand on a work visa and are willing to start from entry-level positions
+
+**Who is not suited**
+- People seeking to obtain residency quickly
+- Those sensitive to repetitive physical labor or unable to tolerate the smell of seafood
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for seafood processing workers?**
+A: Junior: NZD 45,000~52,000; mid-level: NZD 52,000~60,000; senior supervisor: up to NZD 60,000~75,000.
+
+**Q: Can seafood processing workers immigrate through the Green List?**
+A: No. This occupation is not on the Green List; you need to gain experience via an AEWV work visa. If promoted to supervisor or related technical role and meet SMC conditions, you may apply for skilled migration.
+
+**Q: How difficult is it to immigrate to New Zealand as a seafood processing worker?**
+A: High difficulty. Direct skilled migration applications usually do not meet ANZSCO skill level requirements; must first work via AEWV for at least 2-3 years and advance to a migration-eligible position.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Seafood Process Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for seafood process workers?**
-答：Entry-level: NZD 45,000-52,000; mid-level: NZD 52,000-60,000; senior/supervisor: up to NZD 60,000-75,000.
-
-**问：Can seafood process workers immigrate via the Green List?**
-答：No. This occupation is not on the Green List. The usual pathway is via the AEWV, followed by Skilled Migrant Category if promoted to supervisor or technician.
-
-**问：How difficult is it to immigrate to New Zealand as a seafood process worker?**
-答：Relatively high. The role generally doesn't meet Skilled Migrant Category skill level directly; you typically work on an AEWV for 2-3 years and seek promotion to a migratable position.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

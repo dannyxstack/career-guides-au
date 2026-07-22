@@ -1,60 +1,96 @@
-# Actor（Actor）职业分析 · 新西兰
+# Actor — career analysis · New Zealand
 
-**职业代码：211111 – Actor。**
+**Occupation code: 211111 (ANZSCO)**
 
-Actors portray characters in film, TV, and theatre. Migration pathways are limited in New Zealand, typically requiring accredited employer support or specific visa routes due to restricted skill shortage.
+Actors use performance to create characters, conveying emotions and stories in film, television, theatre, and other media. Skilled migration in New Zealand is restricted, usually requiring accredited employer support or a specific visa pathway, with limited short-term work opportunities.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 戏剧本科 | 3年 | $40,000~$60,000（公立大学学费，如惠灵顿维多利亚大学） |
-| 表演文凭 | 2年 | $25,000~$40,000（理工学院或私立院校，如新西兰表演艺术学校） |
+| Bachelor of Drama | 3 years | $40,000~$60,000 (Public university tuition fees, e.g., Victoria University of Wellington) |
+| Performance Diploma | 2 years | $25,000~$40,000 (Polytechnics or private institutions, such as the New Zealand College of Performing Arts) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演艺术证书 | 新西兰资格认证局 (NZQA) | 可选 | 通常需完成三级或以上证书课程 |
-| 结业证书 | 新西兰电影委员会 | 可选 | 短期工作坊证明，非强制但有利 |
+| Performing arts certificate | New Zealand Qualifications Authority (NZQA) | Optional | Typically requires a certificate III or higher course |
+| Certificate of completion | New Zealand Film Commission | Optional | Short workshop certificate, not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,000。新西兰影视产业规模小，就业机会集中在奥克兰和惠灵顿。根据 Stats NZ，行业增长缓慢，竞争激烈，兼职和短期合同为主。未来五年需求平稳，但全职岗位稀缺。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,000. New Zealand's film and TV industry is small, with job opportunities concentrated in Auckland and Wellington. According to Stats NZ, industry growth is slow, competition is fierce, and part-time and short-term contracts are common. Demand will be stable over the next five years, but full-time positions are scarce.
 
-**竞争度：高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 兼职或小型制作角色 |
-| 中级（4-7年） | $45,000~$70,000 | 电视连续剧或电影配角 |
-| 高级（8年以上） | $70,000~$120,000 | 主角、知名演员或导演 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $30,000~$45,000 | Part-time or small-scale production role |
+| Mid-level (4-7 years) | $45,000~$70,000 | Supporting role in a TV series or film |
+| Senior (8+ years) | $70,000~$120,000 | Lead, well-known actor, or director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 演员通常从社区剧场或短片起步，逐步参与电视剧或电影小角色。有经验的演员可晋升至主角、导演或制片，但多数人需兼做其他工作。专业培训和人脉积累是关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Actors face competition from AI deepfakes and virtual characters, but human emotional expression and live interaction remain irreplaceable. Entry-level roles are more competitive due to digital auditions and AI casting tools, while high-end performance demand may increase.
+
+Actors typically start from community theatre or short films, gradually moving to small roles in TV series or films. Experienced actors can advance to leading roles, directing, or producing, but most need to supplement with other work. Professional training and networking are key.
+
+**Tasks most exposed to AI:**
+
+- Background extras and stunt doubles replaced by AI-generated digital characters
+- Basic audition video screening is automated by AI
+- Partial dialogue re-recording and dubbing replaced by speech synthesis
+- capture and digital rendering of standard expressions and movements
+- Simple roles (e.g., extras in ads) played by virtual actors
+
+**Where AI augments the role:**
+
+- AI-assisted script analysis and character profiling to enhance performance depth
+- Virtual reality rehearsals to help actors preview different scenes
+- AI-generated multilingual dubbing to expand international reach of works
+- Digital makeup and effects preview to save trial time
+- AI affective computing feedback to optimize consistency of emotional expression.
+
+**Human moat:**
+
+- Improv performance and unpredictable emotional interaction
+- Real-time audience feedback and interaction in live theatre
+- Deep psychological portrayal and empathy for complex roles
+- Unique humanistic understanding in cross-cultural performance
+- Creative collaboration with directors and fellow actors
+
+**Skills to build:**
+
+- AI tools (e.g., deepfake detection, virtual character collaboration)
+- Digital media production (self-directed short videos)
+- Augmented Reality/Virtual Reality Performance Skills
+- Emotional computing and human-robot interaction performance
+- Multilingual voice dubbing and lip-sync skills
+- Data analysis (audience preference insights)
+
+**Key growth areas:**
 
 - Limited Demand
 - Project-Based Work
@@ -63,69 +99,68 @@ Actors portray characters in film, TV, and theatre. Migration pathways are limit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主支持，符合薪资要求，职业在ANZSCO 1-3级，但演员通常技能等级为1级，可申请 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 演员不在绿色清单直接职业中，但若雇主担保且满足条件可走WTR，但极少 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民需高学位、时薪至少1.5倍中位数，演员通常达不到薪资门槛 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, meets salary requirements, and occupation is in ANZSCO levels 1-3; actors are typically skill level 1 and eligible to apply. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Actors are not on the direct Green List occupations, but if employer-sponsored and meeting conditions, they may go through WTR, though rarely |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires a high degree and hourly wage at least 1.5 times the median; actors typically do not meet the salary threshold. |
 
-**PR难度：高（★★★★★）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Actor？**
-- 对表演有强烈热情，愿意从底层逐步积累经验的人
-- 拥有即兴创作和适应能力，能承受不稳定收入的自由职业者
-- 打算建立广泛人脉并可能从事幕后工作的多才多艺者
-
-**谁不适合学Actor？**
-- 追求稳定全职工作和高收入，无法接受周期性失业的人
-- 不擅长自我推销或缺乏表演训练基础的人
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong passion for performance, willing to build experience from the ground up
+- Freelancers with improvisation and adaptability skills who can tolerate unstable income
+- Versatile individuals who plan to build a broad network and may work behind the scenes
+
+**Who is not suited**
+- For those pursuing stable full-time work and high income, unable to accept periodic unemployment.
+- Those not skilled at self-promotion or lacking basic performance training
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an actor in New Zealand?**
+A: According to Careers.govt.nz, the median annual salary for actors is about NZD 52,000, but most earn far less, with part-time or temporary work common.
+
+**Q: Can actors immigrate to New Zealand through skilled migration?**
+A: Very difficult because actors are not on the Green List, and salaries typically do not meet skilled migration requirements (above median hourly wage). Requires employer sponsorship, an innovation visa, or investment migration.
+
+**Q: What training is needed to become an actor in New Zealand?**
+A: Many actors complete a Bachelor of Drama (3 years) at national universities or a Diploma in Performance (2 years) at private institutions, but formal qualifications are not mandatory; experience and connections are more important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★★☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★½） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Actor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an actor in New Zealand?**
-答：According to Careers.govt.nz, median salary is around NZD 52,000, but many earn less due to part-time or temporary roles.
-
-**问：Can an actor migrate to New Zealand through skilled migration?**
-答：Extremely difficult; actor is not on the Green List, and salaries rarely meet the threshold for Skilled Migrant Category. Employer sponsorship or investor route may be alternatives.
-
-**问：What training is needed to become an actor in New Zealand?**
-答：Many complete a Bachelor of Drama (3 years) or diploma (2 years), but formal qualifications are not mandatory; experience and networking are key.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

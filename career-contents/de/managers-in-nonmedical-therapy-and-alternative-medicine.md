@@ -1,61 +1,97 @@
-# Managers in Non-Medical Therapy and Alternative Medicine（Managers in Non-Medical Therapy and Alternative Medicine）职业分析 · DE
+# Managers in Non-Medical Therapy and Alternative Medicine — career analysis · Germany
 
-**职业代码：8179 – Managers in Non-Medical Therapy and Alternative Medicine。**
+**Occupation code: 8179 (KldB)**
 
-Managers overseeing non-medical therapy services such as physiotherapy, occupational therapy, and speech therapy, responsible for team leadership and business operations.
+Responsible for managing and leading teams and operations in non-physician therapy fields, including physiotherapy, occupational therapy, speech therapy and other health-related services.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（治疗师方向） | 3年（双元制） | —（培训期间有工资补贴） |
-| 本科（健康管理/治疗学） | 3-4年 | —（公立大学基本免学费，仅少量学期费） |
+| Dual vocational training (therapy direction) | 3 years (dual system) | $0~$500 (Salary subsidies during training) |
+| Bachelor's degree (Health Management/Therapeutics) | 3-4 years | $0~$1,500 (Public universities basically have no tuition fees, only a small semester fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 治疗师执业许可（如物理治疗师） | 各州卫生局 | 必备 | 需完成培训并通过国家考试 |
-| 管理相关进修（如健康管理硕士） | 大学或商学院 | 可选 | 非强制但利于晋升 |
-| 资质认证（外国学历） | 各州认可机构 | 必备 | 第三国学历需认证 |
+| Therapist licensure (e.g., physical therapist) | State health departments | Required | Must complete training and pass national examination |
+| Qualification recognition (foreign qualifications) | State-recognised assessment bodies | Required | Third-country qualifications need authentication |
+| Advanced studies in management (e.g., Master of Health Administration) | University or business school | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。德国老龄化推动康复治疗需求增长，该领域管理岗位持续扩大。数字化和跨学科合作带来新发展，但受法规和资质认证限制。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 15,000. Germany's ageing population drives growing demand for rehabilitation therapy, with management roles in this field expanding. Digitalisation and interdisciplinary collaboration bring new developments, but are limited by regulations and qualification requirements.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪 |
+| Median salary | $42,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Annual pre-tax salary |
+| average salary | $44,076 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从治疗师晋升至部门主管，再至区域经理。需积累临床经验并通过进修获得管理资质。部分路径可进入健康管理或政策领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Non-physician therapy and naturopathy managers face mixed AI impacts: routine administrative and data tasks are easily automated, but core management decisions, patient trust, and multidisciplinary coordination remain human moats.
+
+Typically progresses from therapist to department head, then to regional manager. Requires accumulation of clinical experience and obtaining management qualifications through further education. Some pathways lead into health management or policy areas.
+
+**Tasks most exposed to AI:**
+
+- Optimize shift scheduling and appointment booking
+- Treatment records and reimbursement document generation
+- Standardized reporting and compliance checks
+- Basic customer inquiries and FAQ responses
+- Operational data statistics and simple analysis.
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient data to assist in personalized treatment plan design
+- Efficiently write clinical reports using natural language processing tools
+- Using predictive models to optimize staff scheduling and resource allocation
+- Quickly update industry knowledge through AI learning platforms
+- Use automated tools to track patient recovery progress and alert for abnormalities
+
+**Human moat:**
+
+- Coordination and decision-making for complex interdisciplinary treatment plans
+- Addressing deep emotional and trust needs of patients and their families
+- Dealing with emergencies and clinical ethical judgments
+- Motivate, train and evaluate multi-disciplinary therapy teams
+- Develop and maintain non-standard treatment quality systems
+
+**Skills to build:**
+
+- AI-assisted decision-making and data analysis tools (e.g., Tableau, Power BI)
+- Clinical workflow automation platform operation
+- Digital transformation and project management
+- Knowledge of data privacy and healthcare regulations compliance
+- Psychology and Conflict Management
+- Basic programming and AI model understanding
+
+**Key growth areas:**
 
 - Healthcare management
 - Aging population
@@ -64,66 +100,65 @@ Managers overseeing non-medical therapy services such as physiotherapy, occupati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等学历且薪资达门槛（2025年约45,000欧元）的非欧盟管理人才。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于具有德国认可资质的专业人才，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德寻找工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU management talent with higher education and salary meeting the threshold (approx. €45,000 in 2025). |
+| Subclass Skilled Worker (Skilled Worker Visa) | For professionals with recognized German qualifications, employer sponsorship required. |
+| Subclass Chancenkarte (Opportunity Card) | Job seeker visa based on points system, allows coming to Germany to find a job. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers in Non-Medical Therapy and Alternative Medicine？**
-- 有治疗师背景并希望转向管理岗位者
-- 具备跨学科团队管理能力的健康专业人员
-- 对健康行业改革和数字化感兴趣的管理者
-
-**谁不适合学Managers in Non-Medical Therapy and Alternative Medicine？**
-- 缺乏临床经验或无相关资质者
-- 不愿承担运营和人事管理责任者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a therapist background who wish to transition to management roles.
+- Health professionals with interdisciplinary team management skills.
+- Managers interested in health industry reform and digitalization
+
+**Who is not suited**
+- Those lacking clinical experience or relevant qualifications
+- Those unwilling to take on operational and people management responsibilities
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a non-physician therapy manager?**
+A: Junior manager salary in Germany is about €40,000-50,000 per year, mid-level €50,000-65,000, and senior up to €85,000.
+
+**Q: How can therapists of Chinese background immigrate to Germany for management roles?**
+A: Must first obtain recognized therapist qualification in Germany, accumulate clinical experience, then enter management roles via Blue Card or skilled migration visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Managers in Non-Medical Therapy and Alternative Medicine为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for managers in non-medical therapy?**
-答：In Germany, entry-level managers earn €40,000-50,000, mid-level €50,000-65,000, and senior up to €85,000 annually.
-
-**问：How can a therapist from China migrate to Germany for a management role?**
-答：First obtain recognition of your therapy qualification in Germany, gain clinical experience, then apply for EU Blue Card or Skilled Worker Visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

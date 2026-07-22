@@ -1,59 +1,95 @@
-# Disability Support Worker（Disability Support Worker）职业分析 · 新西兰
+# Disability Support Worker — career analysis · New Zealand
 
-**职业代码：423312 – Disability Support Worker。**
+**Occupation code: 423312 (ANZSCO)**
 
-Disability Support Workers in New Zealand provide daily care and community participation support for people with disabilities. The role has stable demand and is eligible for AEWV work visa, with potential for skilled migration after meeting specific criteria.
+Disability support workers in New Zealand provide daily care and community participation support for people with disabilities, with stable demand. This occupation can use the AEWV visa or apply for skilled migration after meeting certain conditions, but usually requires working in New Zealand for a period.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰健康与福祉证书（4级） | 1年 | $5,000~$15,000（私立培训机构学费） |
-| 新西兰健康与福祉大专（5级） | 2年 | $15,000~$30,000（理工学院学费） |
+| New Zealand Certificate in Health and Wellbeing (Level 4) | 1 year | $5,000~$15,000 (Private training institution tuition fees) |
+| New Zealand Diploma in Health and Wellbeing (Level 5) | 2 years | $15,000~$30,000 (Polytechnic tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰健康与福祉证书（4级） | NZQA认可机构 | 可选 | 行业推荐，非强制 |
-| 弱势儿童工作检查 | 新西兰警方 | 必备 | 必须通过 |
-| 急救证书 | 新西兰圣约翰或红十字 | 可选 | 雇主常要求 |
+| Working with Vulnerable Children Check. | New Zealand Police. | Required | Must pass |
+| New Zealand Certificate in Health and Wellbeing (Level 4) | NZQA-recognised institution | Optional | Industry recommendation, not mandatory |
+| First aid certificate | New Zealand St John or Red Cross | Optional | Employers often require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,000。新西兰残障支持工需求持续增长，因人口老龄化和政府对社区护理的重视。尤其在奥克兰、基督城等城市，就业机会较多。预计未来5年就业人数将增加约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. Demand for disability support workers in New Zealand continues to grow due to an aging population and government emphasis on community care. Especially in cities like Auckland and Christchurch, job opportunities are plentiful. Employment is expected to increase by about 15% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 取决于雇主和地区 |
-| 中级（3-5年） | $55,000~$65,000 | 通常需持有相关证书 |
-| 高级（5年以上） | $65,000~$80,000 | 包括团队领导角色 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Depends on employer and region |
+| Mid-level (3–5 years) | $55,000~$65,000 | Usually requires holding relevant certification |
+| Senior (5+ years) | $65,000~$80,000 | Including team leadership roles |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级残障支持工可积累经验后晋升为高级支持工或团队主管，部分可转向专职医疗岗位如康复助理。获得新西兰相关证书（如NZ Certificate in Health and Wellbeing）有助于职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Disability support work heavily relies on interpersonal care and on-site adaptability; AI can hardly replace core care duties, but backend tasks like documentation and behavior analysis can be automated. Overall risk is moderately low.
+
+Entry-level disability support workers can accumulate experience and advance to senior support worker or team leader, some can transition to allied health roles like rehabilitation assistant. Obtaining a relevant New Zealand certificate (e.g., NZ Certificate in Health and Wellbeing) aids career development.
+
+**Tasks most exposed to AI:**
+
+- Auto-generation and archiving of daily activity records
+- Basic behavioral data analysis and report writing
+- Automated management of medication reminders and schedule planning
+- Remote monitoring and anomaly alert system
+- Standardized communication with medical teams
+
+**Where AI augments the role:**
+
+- AI-assisted generation of personalised support plans and behaviour intervention strategies
+- Use wearable device data to adjust care strategies in real-time
+- Automatically organizing interview records through natural language processing
+- AI-driven risk prediction helps prevent crisis events
+- Virtual reality simulation training to improve communication and first aid skills
+
+**Human moat:**
+
+- Face-to-face emotional support and trust building
+- Complex crisis intervention and emotional soothing skills
+- Deep understanding and flexible response to individual needs
+- Ethical Judgment and Sensitive Information Handling
+- Cross-disciplinary team collaboration and communication
+
+**Skills to build:**
+
+- Learning to use electronic health records (EHR) and behavior management software
+- Mastery of basic data analysis and report generation tools
+- Understand AI-assisted care planning (e.g., platforms like Turing Complete)
+- Enhance certification in crisis intervention and behavioral support
+- Develop cross-cultural communication and family communication skills.
+- Familiarity with NDIS (National Disability Insurance Scheme) related digital tools
+
+**Key growth areas:**
 
 - Community care
 - Aged care
@@ -62,65 +98,64 @@ Disability Support Workers in New Zealand provide daily care and community parti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需找到认证雇主，时薪达到中位数（2024年约$29.66/小时），可申请3年工签 |
-| Subclass SMC（Skilled Migrant Category） | 若满足6分制要求（如新西兰学历加工作经验），可申请技术移民 |
-| Subclass Green List T2（Green List Tier 2） | 残障支持工不在绿色清单上，但相关护理职业可能在未来调整 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must find an accredited employer, hourly wage reaches the median (approx. $29.66/hour in 2024), eligible for a 3-year work visa. |
+| Subclass SMC (Skilled Migrant Category) | If meeting the 6-point system requirements (e.g., New Zealand qualifications plus work experience), can apply for skilled migration |
+| Subclass Green List T2 (Green List Tier 2) | Disability support worker is not on the Green List, but related care occupations may be adjusted in the future |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Disability Support Worker？**
-- 有耐心和同理心，喜欢帮助他人
-- 愿意从事体力劳动，能适应轮班制
-- 希望在新西兰积累护理工作经验，逐步申请移民
-
-**谁不适合学Disability Support Worker？**
-- 不擅长与残障人士沟通
-- 对工作稳定性要求极高，不愿从AEWV起步
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, enjoys helping others
+- Willing to engage in physical labor and able to adapt to shift work
+- Hope to accumulate nursing work experience in New Zealand and gradually apply for immigration
+
+**Who is not suited**
+- Not adept at communicating with people with disabilities.
+- Extremely high demand for job stability; unwilling to start with AEWV
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a disability support worker in New Zealand?**
+A: Entry-level annual salary about 45,000-55,000 NZD, mid-level 55,000-65,000, senior up to 65,000-80,000. Salary increases with experience and qualifications, but overall at a medium level.
+
+**Q: What are common pathways for disability support workers to immigrate to New Zealand?**
+A: The most common path is to first work in New Zealand on an AEWV visa, gain experience, then apply for Skilled Migrant Category (SMC). Although this occupation is currently not on the Green List, it is still possible to immigrate if the 6-point system requirements are met.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较易（★½☆☆☆） |
-| 考证难度 | 较易（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Disability Support Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Disability Support Workers in New Zealand?**
-答：Entry-level annual salary is around NZD 45,000-55,000, mid-level NZD 55,000-65,000, and senior NZD 65,000-80,000. Pay increases with experience and qualifications.
-
-**问：What is the common migration path for Disability Support Workers to New Zealand?**
-答：Most commonly, start with an AEWV work visa, gain experience in New Zealand, then apply for Skilled Migrant Category (SMC). Although not on the Green List, SMC under the 6-point system is possible.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

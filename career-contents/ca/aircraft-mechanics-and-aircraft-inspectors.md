@@ -1,59 +1,95 @@
-# Aircraft mechanics and aircraft inspectors（Aircraft mechanics and aircraft inspectors）职业分析 · 加拿大
+# Aircraft mechanics and aircraft inspectors — career analysis · Canada
 
-**职业代码：72404 – Aircraft mechanics and aircraft inspectors。**
+**Occupation code: 72404 (NOC)**
 
-Responsible for maintaining, repairing, and inspecting aircraft and their components to ensure flight safety. Tasks include diagnosing faults, performing routine maintenance, replacing parts, and logging repairs.
+Responsible for maintaining, repairing, and inspecting aircraft and their components to ensure flight safety. Work includes diagnosing faults, performing routine maintenance, replacing parts, and recording maintenance logs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 航空维修文凭 | 2-3年 | $15,000~$30,000（公立学院学费，不含生活费等） |
-| 学徒制 | 4年 | —（边工作边学习，学费低但收入低） |
+| Aviation Maintenance Diploma | 2-3 years | $15,000~$30,000 (Public college tuition, excluding living expenses, etc.) |
+| Apprenticeship | 4 years | $0~$5,000 (Learn while working, low tuition but low income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 飞机维修工程师（AME）执照 | 加拿大交通部 | 必备 | 必须通过笔试和实际经验要求，分M1（小型飞机）和M2（大型飞机） |
-| 加拿大航空维修技师证书 | 加拿大交通部 | 必备 | 通过完成认可课程或学徒制获得 |
-| 安全培训 | 雇主 | 可选 | 包括危险品处理、工具使用等 |
+| Aircraft Maintenance Engineer (AME) license | Transport Canada | Required | Must pass a written exam and meet practical experience requirements, divided into M1 (small aircraft) and M2 (large aircraft) |
+| Canadian Aircraft Maintenance Technician Certificate | Transport Canada | Required | Obtained through completing a recognized course or apprenticeship |
+| Safety training | Employer | Optional | Including hazardous materials handling, tool use, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,000。加拿大航空业持续复苏，飞机机械师需求稳定。预计2023-2031年岗位空缺约1.2万，主要因退休人员增加和航空出行增长。
+**Job demand: high (★★★★☆).** National workforce approx. 13,000. Canada's aviation industry is recovering steadily, with steady demand for aircraft mechanics. About 12,000 job openings are expected from 2023 to 2031, mainly due to retirements and growth in air travel.
 
-**竞争度：偏低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 学徒或新认证技师的起薪 |
-| 中级（3-7年） | $55,000~$75,000 | 持有AME执照并有经验 |
-| 高级（7年以上） | $75,000~$95,000 | 资深技师或检查员，包含加班 |
+| Median salary | $81,120 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Starting salary for apprentices or newly certified technicians |
+| Mid-level (3–7 years) | $55,000~$75,000 | Hold an AME license with experience |
+| Senior (7+ years) | $75,000~$95,000 | Senior technician or inspector, including overtime |
+| average salary | $81,120 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒晋升为持证技师，再成为团队主管或检查员。积累经验后可转向航空管理、质量控制或培训岗位，部分人成立维修公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Can progress from apprentice to licensed technician, then to team leader or inspector. With experience, can move into aviation management, quality control, or training roles; some start their own maintenance companies.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aerospace recovery
 - Retirement wave
@@ -62,68 +98,67 @@ Responsible for maintaining, repairing, and inspecting aircraft and their compon
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 若教育、工作经验、语言达标，可通过FSW申请永久居民 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如BC、安省、魁省）有航空技工优先邀请 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，之后转经验类移民 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | If education, work experience and language meet requirements, can apply for permanent residence through FSW |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario, Quebec) offer priority invitations for aviation technicians. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, then transition to experience-based immigration |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft mechanics and aircraft inspectors？**
-- 喜欢动手维修机械的人
-- 注重安全细节并有耐心的人
-- 愿意轮班并适应机场环境的人
-
-**谁不适合学Aircraft mechanics and aircraft inspectors？**
-- 不喜欢体力劳动或户外工作的人
-- 无法接受严格监管和经常考试的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on mechanical repair
+- People who pay attention to safety details and are patient.
+- People willing to work shifts and adapt to the airport environment
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Those who cannot accept strict regulation and frequent exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the earning potential for an aircraft mechanic?**
+A: Junior annual salary approx. CAD$40,000-55,000, senior up to CAD$75,000-95,000. Overtime, night shift allowances, and remote area allowances can increase income.
+
+**Q: How can overseas aircraft mechanics immigrate to Canada?**
+A: Common pathways include: through Express Entry's FSW (requiring work experience, language, education), or obtaining an LMIA work permit then proceeding via CEC, or applying for a Provincial Nominee Program (PNP), especially in high-demand provinces.
+
+**Q: What are the challenges to obtaining a Canadian AME license?**
+A: The challenge is to complete a course or apprenticeship at a recognized training institution in Canada, pass the transport department written test, and accumulate 48-60 months of full-time work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 偏低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aircraft mechanics and aircraft inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the earning potential for aircraft mechanics?**
-答：Entry-level salary is around CAD 40,000-55,000; senior can earn CAD 75,000-95,000. Overtime, night shift premiums, and remote area allowances boost income.
-
-**问：How can foreign aircraft mechanics immigrate to Canada?**
-答：Common routes: Express Entry FSW (requires experience, language, education), LMIA work permit then CEC, or Provincial Nominee Program (PNP) in high-demand provinces.
-
-**问：What are the challenges to obtain a Canadian AME license?**
-答：Challenges include completing an accredited training program or apprenticeship in Canada, passing Transport Canada exams, and accumulating 48-60 months of full-time work experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

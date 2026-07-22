@@ -1,59 +1,93 @@
-# Speech Pathologist（Speech Pathologist）职业分析 · 新西兰
+# Speech Pathologist — career analysis · New Zealand
 
-**职业代码：252711 – Speech Pathologist。**
+**Occupation code: 252711 (ANZSCO)**
 
-Speech-language therapists in New Zealand are registered health professionals with high demand. After registration with the NZSTA, they qualify for the Green List Tier 1 direct residence pathway.
+Speech therapists are registered health professionals in New Zealand with high demand. After registration with the New Zealand Speech-language Therapists' Association, they can apply for residence directly via the Green List, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（言语治疗学士） | 4年 | $28,000~$40,000（新西兰大学如奥克兰大学、坎特伯雷大学年学费） |
-| 硕士（言语治疗硕士） | 2年 | $35,000~$50,000（适合本科非言语治疗背景，如梅西大学） |
+| Bachelor's degree (Bachelor of Speech Therapy) | 4 years | $28,000~$40,000 (Annual tuition at NZ universities like University of Auckland, University of Canterbury) |
+| Master's (Master of Speech-Language Pathology) | 2 years | $35,000~$50,000 (Suitable for those without a speech therapy undergraduate background, e.g., Massey University) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰言语治疗师协会注册 | 新西兰言语治疗师协会 | 必备 | 毕业并完成实习后申请，必须注册才能执业 |
-| 临床实习证明 | 大学 | 必备 | 至少400小时督导实习 |
-| 雅思总分7.0（各单项不低于7.0） | IDP或BC | 必备 | 非英语母语者需提供，用于注册和移民 |
+| Registration with the New Zealand Speech-language Therapists' Association | New Zealand Speech-language Therapists' Association | Required | Apply after graduation and completing internship; must be registered to practice |
+| Proof of clinical internship | University | Required | At least 400 hours of supervised internship |
+| IELTS overall 7.0 (no band below 7.0) | IDP or BC | Required | Required for non-native English speakers, for registration and immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 1,800。新西兰言语治疗师长期短缺，尤其是偏远地区。随着人口老龄化和早期干预意识增强，预计未来5年就业增长强劲，毕业生就业率接近100%。
+**Job demand: very high (★★★★½).** National workforce approx. 1,800. New Zealand has a long-term shortage of speech therapists, especially in remote areas. With an aging population and increased awareness of early intervention, employment is expected to grow strongly over the next five years, with nearly 100% graduate employment rate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $59,000~$72,000 | 公立医院或学校起薪，私人诊所可能更高 |
-| 中级（4-7年） | $73,000~$90,000 | 经验丰富后薪资上涨 |
-| 高级（8年以上） | $91,000~$120,000 | 高级临床或管理职位，可超130000 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $59,000~$72,000 | Starting salary at public hospitals or schools; private clinics may pay more. |
+| Mid-level (4-7 years) | $73,000~$90,000 | Salary increases with experience |
+| Senior (8+ years) | $91,000~$120,000 | Senior clinical or management positions, can exceed 130,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级言语治疗师可在公立医院、学校或私人诊所积累经验。晋升路径包括高级临床治疗师、团队领导或自主开设诊所，也可转向学术研究或政策制定。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Speech therapists are less affected by AI, with low automation displacement risk, but AI tools can significantly enhance diagnosis, reporting, and remote service capabilities; proactive adoption of new technologies to improve efficiency and service scope is needed.
+
+Entry-level speech pathologists can gain experience in public hospitals, schools, or private clinics. Advancement paths include senior clinical therapist, team leader, or opening own practice; can also move into academic research or policy development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized assessment reports and progress records
+- Speech analysis software assists in evaluating pronunciation accuracy
+- AI chatbots provide basic exercise guidance in remote therapy
+- Automated scheduling and patient appointment management
+
+**Where AI augments the role:**
+
+- AI voice recognition for real-time patient speech analysis and treatment feedback
+- Machine learning models predict patient recovery progress and personalize treatment adjustments
+- Virtual reality (VR)/augmented reality (AR) therapy scenario design and interaction
+- Big data analysis of patient treatment outcomes to optimize treatment strategies
+- Natural language processing to automatically generate patient home exercise materials
+
+**Human moat:**
+
+- Ability to build trust and emotional connection with patients
+- Personalized treatment design for complex communication disorders
+- Cross-disciplinary team collaboration (doctors, schools, families)
+- Ethical judgment and professional responsibility (e.g., child protection, informed consent)
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools (e.g., voice analysis software)
+- Telehealth platform and digital treatment resource integration
+- Data analysis and result interpretation (Excel/R/Python basics)
+- Virtual reality therapy content design and interactive techniques
+- Patient education and training ability with digital health tools
+- Ethics and privacy regulations (e.g., Australian NDIS, HIPAA)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Speech-language therapists in New Zealand are registered health professionals wi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 注册言语治疗师可在新西兰找到工作后直接申请居留，无需等待2年 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制，学历（3-5分）+工作经验（1-3分）满足6分后可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未达到居留要求，可先持工签工作，积累经验后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Registered speech therapists can apply for residence directly after finding a job in New Zealand, without waiting 2 years. |
+| Subclass SMC (Skilled Migrant Category) | Through the 6-point system, qualifications (3-5 points) + work experience (1-3 points) meet 6 points to apply |
+| Subclass AEWV (Accredited Employer Work Visa) | If residence requirements not met, can work on a work visa first, gain experience, then switch to residence |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Speech Pathologist？**
-- 耐心且善于沟通的人
-- 对儿童教育或康复有热情
-- 希望在海外获得稳定职业发展的人
-
-**谁不适合学Speech Pathologist？**
-- 不喜与人深度交流或承受情感压力
-- 寻求快速低投入移民路径者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and good communicator
+- Passionate about children's education or rehabilitation.
+- Those seeking stable career development overseas
+
+**Who is not suited**
+- Disliking deep communication with others or emotional pressure
+- Those seeking a fast, low-investment immigration pathway
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a speech pathologist in New Zealand?**
+A: Junior annual salary around NZD 59,000-72,000, senior up to NZD 90,000-120,000. Private clinics or self-employment income is higher.
+
+**Q: What conditions are required for speech therapists to immigrate to New Zealand?**
+A: Must obtain New Zealand registration as a speech-language therapist, typically requiring a recognized qualification and IELTS 7.0. Registration qualifies for Green List Tier 1 direct residence.
+
+**Q: How to become a speech therapist in New Zealand?**
+A: Must complete a bachelor's or master's degree in speech therapy (e.g., 4-year undergraduate at University of Auckland or 2-year master's at Massey University), and pass registration and internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Speech Pathologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a speech-language therapist in New Zealand?**
-答：Entry-level salary ranges from NZ$59,000 to $72,000; senior roles can earn $91,000 to $120,000+.
-
-**问：What are the requirements for a speech-language therapist to migrate to New Zealand?**
-答：You need registration with NZSTA, recognized qualification, and IELTS 7.0. Once registered, you qualify for Green List Tier 1 direct residence.
-
-**问：How to become a speech-language therapist in New Zealand?**
-答：Complete a speech-language therapy bachelor's (4 years) or master's (2 years) program, then register with NZSTA and complete clinical placements.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

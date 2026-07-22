@@ -1,67 +1,93 @@
-# 地板工（Floor Finisher）职业分析 · 澳大利亚
+# Floor Finisher — career analysis · Australia
 
-**职业代码：394111 – Floor Finisher。**
+**Occupation code: 394111 (ANZSCO)**
 
-地板工（Floor Finisher）负责铺设、磨光和修复木地板、地毯、乙烯基等各类地面材料。澳大利亚住宅翻新市场强劲，新建公寓装修需求稳定，持证地板工需求量持续超过供给。
+A Floor Finisher installs, sands, and repairs timber floors, carpet, vinyl, and other floor coverings. Australia's strong residential renovation market and steady demand from new apartment fit-outs mean demand for licensed floor finishers consistently outpaces supply.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Flooring Technology (MSF30313)（学徒） | 36~42个月 | —（各州差异；工具费约$800~$1,500（打磨机、铺设工具等）） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Flooring Technology (MSF30313) (Apprenticeship) | 36–42 months | $0~$2,000 (Varies by state; tool costs approximately $800–$1,500 (grinders, laying tools, etc.)) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Flooring Technology (MSF30313) | TAFE / RTO | 必备 | 执业核心资质 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Flooring Technology (MSF30313) | TAFE / RTO | Required | Core practising qualifications |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。住宅翻新（木地板修复/更换）是最大需求驱动，Seek挂牌量稳定。JSA列为短缺职业（2025）。新公寓竣工带来装修装饰阶段的地板安装需求。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Residential renovation (timber floor restoration/replacement) is the largest demand driver, with stable listings on Seek. JSA has listed it as a shortage occupation (2025). New apartment completions are generating flooring installation demand during the fit-out phase.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~400 个 | 全国，住宅翻新和新建均有 |
-| Indeed | 100~250 个 | 含承包商 |
-| LinkedIn | 30~80 个 | 偏商业装修 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~3年） | $28,000~$52,000 | Fair Work Award |
-| 初级地板工（1~3年） | $55,000~$72,000 | 住宅铺设 |
-| 中级地板工（3~8年） | $72,000~$92,000 | Seek AU 均值约$35~$42/hr（2026） |
-| 资深 / 承包商（8年+） | $90,000~$120,000 | 独立承包商按平米计价，高端硬木修复溢价 |
+| Median salary | $72,800 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–3 years) | $28,000~$52,000 | Fair Work Award |
+| Junior flooring installer (1–3 years) | $55,000~$72,000 | Residential laying |
+| Intermediate floor layer (3–8 years) | $72,000~$92,000 | Seek AU average approximately $35–$42/hr (2026) |
+| Senior / Contractor (8+ years) | $90,000~$120,000 | Independent contractors charge per square metre, with a premium for high-end hardwood restoration |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：佳（★★★★☆）。** 工程木地板（engineered timber）和豪华乙烯基（LVP）安装量增长，替代传统实木。独立承包商市场活跃，熟练工人供不应求。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Flooring workers are minimally affected by AI automation, but digital tools and new material technologies will reshape some tasks; demand remains stable, requiring adaptation to tech-assisted construction and management.
+
+Installation volumes for engineered timber and luxury vinyl plank (LVP) flooring are growing, replacing traditional solid timber. The independent contractor market is active with strong demand for skilled tradespeople.
+
+**Tasks most exposed to AI:**
+
+- Manual room measurement and material calculation (AI vision + software assistance)
+- Conventional grinding and cutting path planning (automated equipment)
+- Inventory management, order processing (replaced by ERP systems)
+
+**Where AI augments the role:**
+
+- Use AI to scan rooms to generate 3D models, optimising material cutting and layout
+- Real-time display of laying alignment and level calibration via AR glasses
+- AI predicts material waste and procurement needs to reduce waste
+- Smart tools automatically record construction data and generate quality inspection reports
+
+**Human moat:**
+
+- Manual custom installation on complex uneven floors
+- On-site flexible handling of uneven substrates and irregular corners
+- Client communication, aesthetic advice, and personalized design
+- Multi-material seam treatment and fine finishing techniques
+
+**Skills to build:**
+
+- Digital measurement and modeling software (e.g., Span, FARO)
+- AR/VR-assisted construction tool operation
+- Installation techniques for eco-friendly/new materials (LVT, cork)
+- Project management and client quotation software (e.g., Buildertrend).
+- Basic data analysis (material optimization, cost accounting)
+- Sustainable Construction Certification (e.g., Green Star)
+
+**Key growth areas:**
 
 - Residential Timber Flooring
 - Commercial Carpet & Vinyl
@@ -70,79 +96,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学地板工？**
-- 有地板、木工或装修背景，目标技能移民来澳
-- 追求手工艺精度，喜欢看到地板修复前后的对比效果
-- 考虑独立创业做承包商，住宅翻新市场空间大
-
-**谁不适合学地板工？**
-- 膝关节或腰部有慢性伤病（跪地作业多）
-- 对化学品（清漆、溶剂）过敏
-- 期望快速低门槛入行
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in flooring, carpentry or renovation, targeting skilled migration to Australia
+- Enjoys craft precision and seeing the before-and-after results of floor restoration
+- Considering going independent as a contractor — strong market for residential renovation work
+
+**Who is not suited**
+- Chronic knee or lower back injury (role involves frequent kneeling)
+- Allergic to chemicals (varnishes, solvents)
+- Seeking a fast, low-barrier entry into the industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a floor layer in Australia?**
+A: Mid-level flooring installers earn approx. $72,000–$92,000/year (approx. $35–$42/hr). Independent contractors charging per square metre can earn $90,000–$120,000.
+
+**Q: Is it easy for a flooring installer to find work in Australia?**
+A: Easy. The residential renovation market remains consistently strong, with 200–400 positions listed on Seek and JSA confirming ongoing shortages.
+
+**Q: Is domestic flooring installation experience recognised in Australia?**
+A: Not directly recognised. TRA assessment required (12–18 months).
+
+**Q: Will flooring workers be replaced by robots?**
+A: Extremely low. Sanding judgement and timber grain restoration are hand skills with no mature automation solution.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III is sufficient; TAFE entry is available to high school graduates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 394111 数据 |
-| Seek AU | Floor Finisher 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-地板工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲地板工工资多少？**
-答：中级地板工年薪约 $72,000~$92,000（约$35~$42/hr）。独立承包商按平米计价可达 $90,000~$120,000。
-
-**问：澳洲地板工容易找工作吗？**
-答：容易。住宅翻新市场持续旺盛，Seek挂牌200~400个职位，JSA确认持续短缺。
-
-**问：国内地板安装经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）。
-
-**问：地板工会被机器人替代吗？**
-答：极低。打磨工艺判断和木纹修复技艺是手工技能，无成熟自动化方案。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III即可，高中毕业可入读TAFE。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

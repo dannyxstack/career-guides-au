@@ -1,60 +1,91 @@
-# Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic（Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4191 – Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4191 (SOC)**
 
-Set up, operate, or tend heating equipment like furnaces and induction machines to temper, harden, or anneal metal or plastic objects.
+Operate or maintain heat treatment equipment such as quenching furnaces, induction heaters, etc., to perform annealing, tempering, hardening and other heat treatments on metal or plastic.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 在职培训或学徒制 | 1-2年 | —（雇主提供培训或社区学院课程） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| On-the-job training or apprenticeship | 1-2 years | $0~$5,000 (Employer-provided training or community college courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 州教育部门 | 必备 | 基本入职要求 |
-| 热处理认证（可选） | 美国金属热处理协会 | 可选 | 提升竞争力 |
+| High school diploma | State education department | Required | Basic entry requirements |
+| Heat Treatment Certification (optional) | American Metal Heat Treating Association | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。该职业就业前景稳定，制造业自动化趋势下对熟练操作工需求保持平稳，预计2023-2033年就业增长约3%，低于平均水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Employment outlook is stable; automation trends in manufacturing keep demand for skilled operators steady, with projected growth of about 3% from 2023-2033, below average.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 起薪较低 |
-| 中级（3-7年） | $38,000~$48,000 | 经验积累后薪资上升 |
-| 高级（7年以上） | $48,000~$60,000 | 高级操作员或班组长薪资 |
+| Median salary | $48,750 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$38,000 | Low starting salary |
+| Mid-level (3–7 years) | $38,000~$48,000 | Salary increases with experience |
+| Senior (7+ years) | $48,000~$60,000 | Senior operator or shift leader salary |
+| average salary | $50,450 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径：从初级操作员起步，积累经验后可晋升为高级操作员或班组长，部分可转向质量控制或工艺工程师岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Metal and plastic heat treatment equipment operators face automation compression risk—AI and robots can precisely control temperature curves and replace manual loading, but equipment maintenance and anomaly handling still require human judgment. Entry-level jobs are declining due to digital control systems, but demand for senior technicians is stable.
+
+Career path: Start as a junior operator; gain experience to advance to senior operator or team leader; some may transition to quality control or process engineer roles.
+
+**Tasks most exposed to AI:**
+
+- Uses preset programs to automatically complete parameter settings and monitoring for annealing, tempering, and other heat treatment processes
+- Automatically adjusts furnace temperature, hold time, and cooling rate via sensors and AI algorithms
+- Robotic arms automatically load and unload workpieces, replacing manual handling
+- Vision-based real-time quality inspection, automatic sorting of defective products
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of heat treatment process parameters to improve material performance consistency
+- Digital twin technology simulates heat treatment processes, reducing trial-and-error costs.
+- Predictive maintenance systems provide early warning of equipment failures, reducing downtime
+- Augmented Reality (AR)-assisted equipment repair and operation guidance
+
+**Human moat:**
+
+- Manual emergency intervention capability when handling unexpected situations such as equipment abnormalities and material deformation
+- Experience understanding metallurgical principles and customizing heat treatment processes for special materials
+- Quality responsibility and compliance judgment for key components such as construction steel and aerospace aluminum.
+
+**Skills to build:**
+
+- PLC programming and industrial robot operation
+- Basics of metallurgy (phase transformation, stress analysis)
+- Data analysis and statistical process control
+- Knowledge of industrial IoT and sensor networks.
+- Automated equipment maintenance and fault diagnosis
+
+**Key growth areas:**
 
 - slow growth
 - automation impact
@@ -63,62 +94,64 @@ Set up, operate, or tend heating equipment like furnaces and induction machines 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需通过PERM劳工认证，但雇主赞助少见 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, but employer sponsorship is rare |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic？**
-- 喜欢动手操作机器
-- 能适应高温车间环境
-- 追求稳定而非高薪
+**Who is suited**
+- Enjoys operating machines by hand
+- Able to adapt to high-temperature workshop environment
+- Seek stability rather than high salary
 
-**谁不适合学Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic？**
-- 不喜欢体力劳动
-- 希望快速晋升或高收入
+**Who is not suited**
+- Dislikes physical labor.
+- Those seeking quick promotion or high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a heat treatment operator?**
+A: Average annual salary around $42,000, entry-level about $32,000, senior up to $55,000.
+
+**Q: Is it easy to immigrate to the US through a work visa for this occupation?**
+A: Not easy. Usually no bachelor's degree required, but H-1B applications difficult and EB-3 green card employer sponsorship limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for heat treating equipment operators?**
-答：Average annual salary is around $42,000, with entry-level at $32,000 and experienced up to $55,000.
-
-**问：Is it easy to immigrate to the US through this occupation?**
-答：No. It generally does not require a bachelor's degree, making H-1B sponsorship difficult, and employer-sponsored EB-3 green cards are rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

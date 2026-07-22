@@ -1,61 +1,97 @@
-# General Internal Medicine Physicians（General Internal Medicine Physicians）职业分析 · 美国
+# General Internal Medicine Physicians — career analysis · United States
 
-**职业代码：29-1216 – General Internal Medicine Physicians。**
+**Occupation code: 29-1216 (SOC)**
 
-Diagnose and treat a wide range of internal organ diseases in adults and adolescents, primarily in outpatient settings, managing common medical conditions and chronic diseases.
+Diagnose and treat internal organ diseases in adults and adolescents, primarily providing non-surgical medical care in outpatient settings, covering common internal medicine conditions and chronic disease management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（预医学） | 4年 | $100,000~$200,000（公立大学至私立大学学费差异大） |
-| 医学院（MD/DO） | 4年 | $150,000~$300,000（含学费、生活费，平均债务约20万美元） |
-| 住院医师培训（内科） | 3年 | —（带薪培训，年薪约6-7万美元） |
+| Bachelor's (pre-medicine) | 4 years | $100,000~$200,000 (Tuition fees vary greatly between public and private universities) |
+| Medical school (MD/DO) | 4 years | $150,000~$300,000 (Including tuition and living expenses, average debt about $200,000 USD.) |
+| Residency training (Internal Medicine) | 3 years | $0~$0 (Paid training, annual salary around USD 60,000-70,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（MD/DO） | 经认证的美国或加拿大医学院 | 必备 | 必须从LCME或COCA认证医学院毕业 |
-| 美国医师执照考试（USMLE） | 美国医学考试委员会（NBME） | 必备 | 需通过Step 1、Step 2 CK、Step 3 |
-| 内科住院医师培训结业 | ACGME认证培训项目 | 必备 | 完成3年住院医师培训 |
-| 美国内科医学委员会（ABIM）认证 | 美国内科医学委员会 | 可选 | 通过考试获得内科专科认证 |
+| Medical degree (MD/DO) | an accredited US or Canadian medical school | Required | Must graduate from an LCME- or COCA-accredited medical school |
+| United States Medical Licensing Examination (USMLE) | National Board of Medical Examiners (NBME) | Required | Must pass Step 1, Step 2 CK, Step 3 |
+| Completion of internal medicine residency training | ACGME-accredited training program | Required | Complete 3 years of residency training |
+| American Board of Internal Medicine (ABIM) certification | American Board of Internal Medicine | Optional | Obtaining internal medicine specialist certification through exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 95,000。美国内科医生持续短缺，老龄化人口增加需求，未来十年就业增长约7%，高于平均水平。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 95,000. US internists face ongoing shortage; aging population increases demand; employment growth over the next decade is about 7%, above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $180,000~$220,000 | 住院医生完成后首份工作 |
-| 中级（5-15年） | $220,000~$300,000 | 含经验及绩效奖金 |
-| 高级（15年以上） | $300,000~$400,000 | 含专科主任或合伙人收入 |
+| Median salary | $256,560 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $180,000~$220,000 | First job after completing residency |
+| Intermediate (5-15 years) | $220,000~$300,000 | Includes experience and performance bonus |
+| Senior (15+ years) | $300,000~$400,000 | Includes income for department heads or partners |
+| average salary | $267,200 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 完成住院医师培训后可选择专科进修，如心脏病学、胃肠病学，或晋升为科室主任、医务总监，也可进入学术研究或医疗管理领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+GP's core diagnostic responsibilities in Canada are protected by regulation, hard for AI to replace; but administrative tasks and some diagnostic support will be automated. Short-term entry barriers due to credential assessment and licensing won't lower; long-term need to adapt to AI tools for efficiency.
+
+After completing residency training, can choose specialization such as cardiology or gastroenterology, or advance to department head, medical director, or pursue academic research or healthcare management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate medical records and clinical notes
+- Guideline-based standard prescription recommendations and drug interaction checks
+- Preliminary screening of imaging reports (e.g., X-rays, skin photos)
+- Appointment management, patient reminders, and follow-up tracking
+- Remote triage and health consultation for simple cases.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems improve accuracy of rare disease identification
+- Use Clinical Decision Support Systems (CDSS) to optimize treatment plan selection
+- Predict patient risks (e.g., diabetes complications) through data analysis
+- Quickly retrieve latest medical literature and guidelines using NLP
+- Remote monitoring AI tools expand chronic disease management capabilities
+
+**Human moat:**
+
+- Clinical reasoning and comprehensive judgment of complex cases
+- Build trust and empathetic communication with patients
+- Managing multimorbidity and uncertain clinical scenarios.
+- Performing invasive procedures (e.g., suturing, joint injections)
+- Assume legal and ethical responsibilities (informed consent, reporting obligations)
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools (e.g., Ada, IBM Watson Health)
+- Integration and use of clinical decision support systems (CDSS)
+- Medical data analysis and statistics (e.g., Python/R basics)
+- Advanced features of telemedicine platforms and digital health records
+- Medical AI Ethics & Regulatory Knowledge
+- Patient communication and AI interpretation skills
+
+**Key growth areas:**
 
 - Aging population
 - Primary care shortage
@@ -64,68 +100,67 @@ Diagnose and treat a wide range of internal organ diseases in adults and adolesc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 适用于医疗机构雇佣的内科医生，需有USMLE及住院医师培训，通常由医院或诊所担保 |
-| Subclass EB-2（Employment-Based Second Preference (Advanced Degree)） | 持有MD学位并通过PERM劳工认证，适用于高级学位医师 |
-| Subclass J-1 Waiver（Conrad 30 Waiver） | 外国医学毕业生可通过在指定短缺地区服务换得豁免回国两年要求，之后转为H-1B或绿卡 |
+| Subclass H-1B (Specialty Occupations) | Applicable to internists employed by medical institutions, requiring USMLE and residency training, usually sponsored by hospitals or clinics |
+| Subclass EB-2 (Employment-Based Second Preference (Advanced Degree)) | Holds an MD degree and passes PERM labor certification; applicable to advanced degree physicians |
+| Subclass J-1 Waiver (Conrad 30 Waiver) | Foreign medical graduates can serve in designated shortage areas to obtain a waiver for the two-year home residency requirement, then transition to H-1B or green card |
 
-**PR难度：中高（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General Internal Medicine Physicians？**
-- 对内科疾病有强烈兴趣的医学毕业生
-- 抗压能力强、能适应长时间工作
-- 有耐心管理慢性病患者的沟通者
-
-**谁不适合学General Internal Medicine Physicians？**
-- 厌恶高压力、快节奏工作环境
-- 不愿接受长时间培训和持续学习
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical graduates with strong interest in internal medicine
+- Strong stress tolerance and ability to work long hours.
+- Communicator with patience in managing chronic disease patients
+
+**Who is not suited**
+- Dislikes high-stress, fast-paced work environments
+- Unwilling to undergo long-term training and continuous learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for general internists?**
+A: Junior approx. $180,000-$220,000, mid-level $220,000-$300,000, senior $300,000-$400,000, depending on region, experience, and institution.
+
+**Q: How can foreign doctors immigrate through US work visas?**
+A: Common path: complete training on a J-1 visa, then apply for a waiver and switch to an H-1B or EB-2 green card; or directly apply for H-1B (requires USMLE)
+
+**Q: What are the career development paths for physicians?**
+A: Can further specialize as a medical specialist (e.g., cardiology), or move into hospital management, medical education, or research.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
-
-General Internal Medicine Physicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a general internist?**
-答：Entry-level: $180k-$220k; mid-level: $220k-$300k; senior: $300k-$400k, depending on location, experience, and practice setting.
-
-**问：How can foreign physicians immigrate via US work visas?**
-答：Common paths: J-1 visa with Conrad 30 waiver, then H-1B or EB-2; or direct H-1B if USMLE passed.
-
-**问：What are the career advancement paths for internists?**
-答：Subspecialize, or move into hospital administration, medical education, or research.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

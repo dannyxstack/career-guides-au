@@ -1,61 +1,92 @@
-# Sports coaches, instructors and officials（Sports coaches, instructors and officials）职业分析 · UK
+# Sports coaches, instructors and officials — career analysis · United Kingdom
 
-**职业代码：3432 – Sports coaches, instructors and officials。**
+**Occupation code: 3432 (SOC)**
 
-Work with amateur and professional sportspeople to enhance performance, encourage participation in sport, supervise recreational activities, and officiate at sporting events.
+Responsible for training amateur and professional athletes, enhancing sports performance, encouraging participation in sports, supervising recreational activities (such as canoeing and mountaineering), and organizing and officiating sports events according to established rules.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位（体育科学相关） | 3年 | $9,000~$12,000（英国本科年均学费） |
-| 国家体育教练资质（Level 2-3） | 6-12个月 | $500~$2,000（认证课程费用） |
-| 硕士或专业证书（运动表现分析等） | 1年 | $10,000~$15,000（提升竞争力） |
+| Bachelor's degree (sports science related) | 3 years | $9,000~$12,000 (Average annual tuition for UK undergraduate studies) |
+| National sports coaching qualification (Level 2-3) | 6–12 months | $500~$2,000 (Certification course fees) |
+| Master's degree or professional certificate (e.g., in sports performance analysis) | 1 year | $10,000~$15,000 (Boosting competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教练认证（如UK Coaching认证） | UK Coaching | 可选 | 特定运动项目可能需要 |
-| 急救证书（Emergency First Aid） | St John Ambulance等 | 必备 | 广泛要求 |
-| 保护儿童与弱势群体培训（Safeguarding） | 体育管理机构 | 必备 | 普遍要求 |
-| DBS（无犯罪记录证明） | 英国政府 | 必备 | 与青少年工作必备 |
+| Emergency First Aid certificate | St John Ambulance etc. | Required | Widely required |
+| Safeguarding training for children and vulnerable groups (Safeguarding) | Sports management organisations | Required | Commonly required |
+| DBS (Police Clearance Certificate) | UK Government | Required | Essential for working with youth |
+| Coach certification (e.g., UK Coaching certification) | UK Coaching | Optional | Specific sports may require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 52,000。英国体育行业持续增长，政府推动全民运动与精英体育发展，就业前景稳定。社区体育和学校体育需求较大，但全职职位竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 52,000. The UK sports industry continues to grow, with government promoting mass participation and elite sports, leading to stable employment prospects. Demand is high in community and school sports, but full-time positions are competitive.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 部分为兼职或小时制 |
-| 中级（4-7年） | $25,000~$35,000 | 含全职教练或学校体育协调员 |
-| 高级（8年以上） | $35,000~$55,000 | 精英教练或高级裁判，部分可达更高 |
+| Median salary | $30,108 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Some are part-time or hourly |
+| Mid-level (4-7 years) | $25,000~$35,000 | Includes full-time coaches or school sports coordinators. |
+| Senior (8+ years) | $35,000~$55,000 | Elite coach or senior referee, some can earn higher |
+| average salary | $36,985 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从助理教练或裁判起步，积累经验后晋升为主教练或赛事官员。部分从业者转向体育管理、运动科学或创办个人培训业务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on sports coaches, instructors, and referees is mixed: data processing and rule adjudication tasks are easily automated, but personalized guidance, emotional motivation, and complex decision-making remain human advantages.
+
+Can start as an assistant coach or referee, gaining experience to advance to head coach or event official. Some practitioners transition to sports management, sports science, or start their own training businesses.
+
+**Tasks most exposed to AI:**
+
+- Basic data statistics and match video analysis (AI-generated reports)
+- Rule adjudication (e.g., Hawk-Eye system replacing line umpires)
+- Training Plan Generation and Progress Tracking (AI Personalized Solutions)
+
+**Where AI augments the role:**
+
+- Athlete Performance Data Analysis (AI Real-time Insights)
+- Opponent tactic simulation and strategy optimization (AI model deduction)
+- Injury prevention and recovery monitoring (AI analysis of physiological data)
+- Automatic labelling and key action extraction from training videos
+
+**Human moat:**
+
+- On-the-spot athlete motivation and psychological counseling
+- Flexibly adjust training methods based on athlete personality
+- Complex decisions (e.g., tactical adjustments, referee disputed calls)
+- Build team culture and trust relationships
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python, Tableau)
+- Basic sports science knowledge (biomechanics, exercise physiology)
+- Operating digital training platforms (e.g., Hudl, Catapult)
+- Communication and leadership (emotional intelligence)
+- Use of referee decision support systems (e.g., VAR)
+
+**Key growth areas:**
 
 - Sports participation
 - Grassroots coaching
@@ -64,68 +95,67 @@ Work with amateur and professional sportspeople to enhance performance, encourag
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 符合条件的雇主可担保，需满足薪资门槛（通常£26,200/年或行业标准）。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，允许在英国工作2年（博士3年），积累经验后转工签。 |
-| Subclass Global Talent（Global Talent visa） | 适用于体育领域杰出人才，需通过认可机构背书，无薪资上限限制。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Eligible employers can sponsor, subject to meeting the salary threshold (usually £26,200/year or industry standard). |
+| Subclass Graduate (Graduate visa) | UK graduates can apply, allowing work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
+| Subclass Global Talent (Global Talent visa) | For outstanding talent in sports fields, requires endorsement by a recognized body, with no salary cap restrictions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sports coaches, instructors and officials？**
-- 热爱体育和运动的人
-- 善于沟通和指导他人的人
-- 持有特定运动项目证书或相关学位的人
-
-**谁不适合学Sports coaches, instructors and officials？**
-- 不喜欢户外活动或体力劳动的人
-- 缺乏耐心和随机应变能力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about sports and exercise
+- People who are good at communicating and guiding others
+- Individuals with specific sports certificates or related degrees.
+
+**Who is not suited**
+- People who dislike outdoor activities or physical labor
+- People lacking patience and adaptability
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a sports coach in the UK?**
+A: Entry-level approx £18,000-£25,000, mid-level £25,000-£35,000, senior can reach over £55,000.
+
+**Q: What visa can overseas sports coaches use to work in the UK?**
+A: The main pathway is the Skilled Worker visa, requiring a sponsoring employer and meeting salary requirements; outstanding talents can apply for the Global Talent visa.
+
+**Q: Do you need a university degree to become a sports coach?**
+A: Not mandatory, but a relevant degree can enhance competitiveness. Many employers value practical experience and coaching certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sports coaches, instructors and officials的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sports coaches in the UK?**
-答：Entry-level around £18,000-£25,000, mid-level £25,000-£35,000, senior can exceed £55,000.
-
-**问：What visa can overseas sports coaches use to work in the UK?**
-答：Mainly Skilled Worker visa with a sponsoring employer meeting salary threshold; exceptional talent can apply for Global Talent visa.
-
-**问：Do you need a university degree to become a sports coach?**
-答：Not mandatory, but a relevant degree improves competitiveness. Employers value practical experience and coaching qualifications.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

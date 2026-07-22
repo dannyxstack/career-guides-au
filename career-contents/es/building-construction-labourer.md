@@ -1,60 +1,93 @@
-# Building Construction Labourer（Building Construction Labourer）职业分析 · ES
+# Building Construction Labourer — career analysis · Spain
 
-**职业代码：9602 – Building Construction Labourer。**
+**Occupation code: 9602 (CNO)**
 
-Performs manual tasks on construction sites such as moving materials, digging, cleaning, and assisting tradespeople. No special skills required, but good physical condition and safety awareness are needed.
+Engage in physical labor on construction sites, including material transport, digging, cleaning the site, assisting craftsmen, etc. This position does not require professional skills, but physical fitness and compliance with safety regulations are required.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求 | 无 | —（通常无需教育，但部分公司要求初中学历） |
-| 基础安全培训 | 1-2周 | $100~$300（建筑安全课程（如PRL证书）） |
+| No education requirement | None | $0~$0 (Education is usually not required, but some companies require a junior high school diploma) |
+| Basic safety training | 1-2 weeks | $100~$300 (Building Safety Courses (such as PRL certificates)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全培训证书 | 西班牙劳工部认可机构 | 必备 | 必选；施工前需完成8小时安全培训 |
-| 初中学历 | 西班牙教育部 | 可选 | 常见要求，但非强制 |
+| Basic safety training certificate | Recognized by the Spanish Ministry of Labor | Required | must be selected; An 8-hour safety training must be completed before construction |
+| He has a junior high school education | Spanish Ministry of Education | Optional | Common requirement but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 450,000。西班牙建筑业近年因经济复苏和基础设施投资有所回暖，但该岗位受季节性及经济周期影响大。未来五年就业机会稳定，但竞争中等，非紧缺职业。
+**Job demand: medium (★★½☆☆).** National workforce approx. 450,000. Spain's construction industry has rebounded in recent years due to economic recovery and infrastructure investment, but this position is heavily affected by seasonality and economic cycles. Employment opportunities will be stable over the next five years, but competition will be moderate, and non-shortage jobs will be available.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，按最低工资标准 |
-| 熟练（3-5年） | $20,000~$25,000 | 含加班及奖金 |
-| 高级（5年以上/主管） | $25,000~$32,000 | 晋升为工头或熟练工后薪资 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary is based on the minimum wage standard |
+| Proficient (3-5 years) | $20,000~$25,000 | Including overtime and bonuses |
+| Senior (5+ years / supervisor) | $25,000~$32,000 | Promotion to foreman or skilled worker with post-worker salary |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可通过积累经验晋升为熟练工（如抹灰工、砌砖工）或工地主管，也可通过参加职业教育（FP）获得技术证书转行。长期发展依赖技能提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Manual tasks such as repetitive handling, cleaning, and other manual tasks for construction site movers are easily replaced by automated machinery and robots, significantly reducing entry-level positions.
+
+Through accumulating experience, you can be promoted to skilled worker (such as plasterer or bricklayer) or site supervisor, and you can also change careers by obtaining technical certificates through vocational education (FP). Long-term development depends on skill improvement.
+
+**Tasks most exposed to AI:**
+
+- Manual material handling is replaced by AGVs and conveyor systems
+- On-site cleaning is taken over by automated cleaning robots
+- Earthwork such as excavation has been replaced by remote-controlled excavators
+- Material loading and unloading are replaced by electric lifting platforms and robotic arms
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize handling routes and task allocation, improving efficiency
+- Wearable devices monitor worker safety and fatigue, enhancing risk warnings
+- AR headsets provide real-time construction instructions, reducing communication errors
+- Unmanned transport vehicles assist with long-distance material transfer
+
+**Human moat:**
+
+- Flexible adaptability and judgment in complex unstructured environments
+- Efficient collaboration and communication with craftsmen and supervisors
+- Deep understanding of building safety regulations and supervision of their implementation
+- Ability to handle emergencies and make temporary adjustments
+
+**Skills to build:**
+
+- Automated equipment operation and basic maintenance
+- Basic application of Building Information Modeling (BIM)
+- Use of construction site safety monitoring systems
+- Basic data entry and intelligent scheduling system operation
+- Forklift and other power equipment operation certificates
+- Teamwork and communication skills
+
+**Key growth areas:**
 
 - Construction recovery
 - Infrastructure investment
@@ -63,65 +96,67 @@ Performs manual tasks on construction sites such as moving materials, digging, c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 通过雇主担保申请工作居留，需证明岗位无法由本地人填补（但该职业通常不满足条件） |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙停留6个月寻找工作，但找到雇主担保难度大 |
+| Subclass Cuenta ajena (Work permit (employed)) | To apply for work residency through employer sponsorship, it is necessary to prove that the position cannot be filled by a local resident (although the occupation usually does not meet the requirements). |
+| Subclass Busqueda empleo (Job search visa) | You are allowed to stay in Spain for 6 months to look for work, but finding an employer sponsorship is difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Building Construction Labourer？**
-- 体力好且不介意户外工作的人
-- 希望快速进入劳动市场、无学历要求的人
-- 愿意从事重复性体力劳动的人
+**Who is suited**
+- People with good stamina who don't mind working outdoors
+- Those who want to enter the labor market quickly and have no educational requirements
+- Willing to perform repetitive physical labor
 
-**谁不适合学Building Construction Labourer？**
-- 追求高薪或职业发展空间的人
-- 无法承受长时间站立、搬运重物的人
+**Who is not suited**
+- Those pursuing high salary or career advancement opportunities
+- People who cannot stand for long periods or carry heavy objects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for construction movers in Spain?**
+A: Entry-level positions earn about 16,000-20,000 euros annually, skilled workers up to 20,000-25,000 euros, and foremen or senior positions up to 32,000 euros.
+
+**Q: Can foreigners immigrate to Spain through construction movers?**
+A: It's very difficult. This occupation is not in short supply, employer-sponsored immigration is nearly impossible, and it usually requires local labor. It is recommended to immigrate through other skilled occupations.
+
+**Q: What educational qualifications are required to become a construction mover?**
+A: No formal education required, but safety training (PRL certificate) is needed. Some companies require junior high school completion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Building Construction Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a building construction labourer in Spain?**
-答：Entry-level positions pay €16,000-€20,000 annually; experienced workers earn €20,000-€25,000; supervisors can reach €32,000.
-
-**问：Can foreigners immigrate to Spain as a building construction labourer?**
-答：It is very difficult. The occupation is not in shortage, employer sponsorship is unlikely, and local labour is preferred. Consider skilled occupations instead.
-
-**问：What education is required to be a building construction labourer?**
-答：No formal education is usually required, but safety training (PRL certificate) is mandatory. Some companies require compulsory secondary education.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

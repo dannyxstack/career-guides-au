@@ -1,59 +1,94 @@
-# Solar Panel Installer（Solar Panel Installer）职业分析 · ES
+# Solar Panel Installer — career analysis · Spain
 
-**职业代码：7294 – Solar Panel Installer。**
+**Occupation code: 7294 (CNO)**
 
-Install solar photovoltaic panels on rooftops or ground mounts, including racking, wiring, inverter connection, and system commissioning. Key role in Spain's renewable energy sector.
+Responsible for installing solar photovoltaic panels on rooftops or floors, including mounting brackets, wiring inverter connections, system commissioning, and maintenance. It is a core technical position in Spain's renewable energy industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $500~$3,000（公立学校学费低，私立较高） |
-| 高级职业培训（FP Grado Superior） | 2年 | $600~$4,000（如'可再生能源'专业，含实习） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $500~$3,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $600~$4,000 (For example, the 'Renewable Energy' major includes internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 低压电气安装认证（Certificado de Instalador Eléctrico de Baja Tensión） | 西班牙工业、贸易与旅游部 | 必备 | 部分自治大区要求，允许进行电气连接作业 |
-| 高空作业安全培训 | 经认可的培训机构（如FUNDAE） | 必备 | 屋顶安装必备，通常为短期课程 |
-| 可再生能源技术学位（Grado en Energías Renovables） | 西班牙大学 | 可选 | 非强制，但有利于晋升管理岗位 |
+| Certification for Low-Voltage Electrical Installation (Certificado de Instalador Eléctrico de Baja Tensión) | Spanish Ministry of Industry, Trade and Tourism | Required | Some autonomous regions require permitted electrical connection work |
+| Safety training for working at heights | Accredited training institutions (such as FUNDAE) | Required | Roof installation is essential, usually for short-term courses |
+| Degree in Renewable Energy Technology (Grado en Energías Renovables) | Spanish University | Optional | Non-mandatory, but beneficial for promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 28,000。西班牙2030年可再生能源目标（74%电力来自可再生能源）推动光伏安装需求持续增长。2023年新增光伏装机容量超8GW，带动安装工岗位年均增长15%。补贴政策（如自消费激励）和电价上涨进一步加速市场扩张。
+**Job demand: very high (★★★★½).** National workforce approx. 28,000. Spain's 2030 renewable energy target (74% of electricity coming from renewable sources) is driving continued growth in photovoltaic installation demand. In 2023, new photovoltaic installed capacity exceeded 8GW, driving an average annual growth of 15% in installer positions. Subsidy policies (such as self-consumption incentives) and rising electricity prices further accelerated market expansion.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$26,000 | 税前年薪，含社保 |
-| 中级（3-5年） | $26,000~$34,000 | 具备独立安装和故障排除能力 |
-| 高级（6年以上） | $34,000~$45,000 | 含项目主管或团队负责人 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $20,000~$26,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–5 years) | $26,000~$34,000 | Capable of independent installation and troubleshooting |
+| Senior (6+ years) | $34,000~$45,000 | Including project supervisors or team leaders |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可晋升为项目主管、安装团队负责人，或转向光伏系统设计、运维工程师。积累经验后可成立自己的安装公司，或进入储能系统安装等新兴领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation tools are optimizing the site selection, design, and monitoring processes for solar panel installation, but physical installation, wiring, and on-site commissioning still require manual labor, resulting in a mixed overall situation for positions and moderate risks associated with core task automation.
+
+You can be promoted to project supervisor, installation team leader, or move to photovoltaic system design and operation engineer. After gaining experience, you can establish your own installation company or enter emerging fields such as energy storage system installation.
+
+**Tasks most exposed to AI:**
+
+- Roof solar irradiance analysis and optimal tilt angle calculation
+- Photovoltaic array layout design and shadow simulation
+- System performance monitoring and fault prediction
+- Remote parameter settings for serial inverters are optimized
+
+**Where AI augments the role:**
+
+- AI-assisted site surveying and 3D modeling improve installation accuracy
+- Augmented reality (AR) guides wiring and mounting brackets
+- Intelligent diagnostic tools assist in troubleshooting system faults
+- Drone patrols replace some high-altitude inspection tasks
+- Data-driven maintenance plans optimize component cleaning and replacement cycles
+
+**Human moat:**
+
+- Roof structural load-bearing assessment and decision-making on reinforcement schemes
+- Customized installation path planning for complex rooftop environments
+- High-voltage DC safety operation and on-site emergency response
+- Communicate, coordinate, and handle special customer requests with the owner
+- Multi-trade on-site collaboration and construction schedule adjustment
+
+**Skills to build:**
+
+- Electrical System Design and Photovoltaic Simulation Software (Homer, PVsyst)
+- Basic programming (Python) is used for data analysis and automation scripts
+- Drone operation and inspection image analysis
+- Knowledge of energy storage system integration
+- Fundamentals of smart grids and energy management systems
+- Experience in configuring waste-to-energy and hybrid energy systems
+
+**Key growth areas:**
 
 - Renewable Energy
 - Solar PV
@@ -62,68 +97,67 @@ Install solar photovoltaic panels on rooftops or ground mounts, including rackin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙雇主担保的工作居留，需证明职位无法在本地市场填补。Solar installer 属于紧缺职业，获批率较高。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，要求拥有高等教育学历或至少3年相关经验。收入需达到最低工资的1.5倍（2024年约40,000欧元）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高技能人才（Ley 14/2013），适用于年薪超过34,000欧元的职位，流程较快。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by Spanish employer, must prove position cannot be filled locally. Solar installer is a shortage occupation with high approval rate. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring higher education or at least 3 years of relevant experience. The income must reach 1.5 times the minimum wage (approximately 40,000 euros in 2024). |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly skilled talent (Ley 14/2013), applicable to positions with annual salaries over 34,000 euros, the process is relatively fast. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Solar Panel Installer？**
-- 喜欢户外工作、动手能力强的人
-- 关注环保和可再生能源发展的人
-- 愿意通过职业培训快速进入职场的人
-
-**谁不适合学Solar Panel Installer？**
-- 畏惧高空作业或不适应户外极端天气的人
-- 对电气或建筑工程无基本兴趣的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are hands-on
+- Those who care about environmental protection and the development of renewable energy
+- People willing to quickly enter the workforce through vocational training
+
+**Who is not suited**
+- People who fear working at heights or are not suited to extreme outdoor weather
+- People with no basic interest in electrical or construction engineering
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for solar panel installers in Spain?**
+A: Pre-tax annual salary is about 25,000-35,000 euros, entry-level salary about 20,000-26,000 euros, and seniors up to 45,000 euros. Salary is affected by region, employer, and experience; subsidies and overtime are calculated separately.
+
+**Q: How can foreigners immigrate to Spain through solar installation work?**
+A: Common path: secure a job contract with a Spanish employer and apply for work residence (Cuenta ajena), or meet the high salary criteria for an EU Blue Card. This occupation is in shortage, making sponsorship relatively easy.
+
+**Q: What are the career prospects for solar installers?**
+A: Promotion can be to installation supervisor, project manager, or shift to photovoltaic system design, operation and maintenance, and energy storage installation. With Spain's green energy transition, demand continues to grow, and entrepreneurial opportunities abound.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Solar Panel Installer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a solar panel installer in Spain?**
-答：Gross annual salary ranges from €25,000 to €35,000, with entry-level around €20,000-€26,000 and senior up to €45,000. Varies by region, employer, and experience; bonuses and overtime extra.
-
-**问：How can foreigners migrate to Spain as a solar panel installer?**
-答：Common path: obtain a job offer from a Spanish employer and apply for a work permit (Cuenta ajena), or EU Blue Card if salary threshold met. This occupation is in shortage, facilitating sponsorship.
-
-**问：What are the career prospects for solar panel installers?**
-答：Can advance to installation supervisor, project manager, or transition to PV system design, maintenance, and energy storage. Growing demand due to Spain's green energy transition, plus self-employment opportunities.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

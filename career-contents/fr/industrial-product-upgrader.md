@@ -1,60 +1,94 @@
-# Industrial Product Upgrader（Industrial Product Upgrader）职业分析 · FR
+# Industrial Product Upgrader — career analysis · France
 
-**职业代码：K2304 – Industrial Product Upgrader。**
+**Occupation code: K2304 (ROME)**
 
-Responsible for modifying, upgrading, and revalorizing industrial products to improve performance or extend lifespan, involving repair, refurbishment, and technical upgrades.
+Responsible for transforming, upgrading, and adding value to industrial products, improving performance or extending lifespan, involving maintenance, refurbishment, and technical transformation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS（高级技术员文凭） | 2年 | $2,000~$8,000（公立学校学费低，私立约8000欧） |
-| Licence professionnelle（职业学士） | 3年（含BTS） | $3,000~$12,000（含BTS后加读1年） |
-| Ingénieur（工程师文凭） | 5年 | $10,000~$30,000（公立工程师学院学费约10000欧/年） |
+| BTS (Advanced Technician Diploma) | 2 years | $2,000~$8,000 (Public schools have low tuition fees, while private ones cost about 8,000 euros) |
+| Licence professionnelle | 3 years (including BTS) | $3,000~$12,000 (After including BTS, you can study for one additional year) |
+| Ingénieur (Engineering Diploma) | 5 years | $10,000~$30,000 (The tuition fee for public engineering colleges is about 10,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQPM（职业资格认证） | AFPI / UIMM | 可选 | 法国金属加工行业认可的资格 |
-| BTS Conception et réalisation de systèmes automatiques | 法国教育部 | 可选 | 相关专业文凭，非强制但受雇主青睐 |
-| Carte professionnelle (若涉及电气安全) | DIRECCTE | 必备 | 从事电气升级需持有 |
+| Carte professionnelle (if electrical safety is involved) | DIRECCTE | Required | Electrical upgrades require holding these documents |
+| CQPM (Professional Qualification Certification) | AFPI / UIMM | Optional | Qualifications recognized by the French metalworking industry |
+| BTS Conception et réalisation de systèmes automatiques | French Ministry of Education | Optional | Relevant professional diplomas, not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。法国工业4.0和循环经济政策推动下，产品升级需求持续增长。企业注重延长设备寿命和降低浪费，该职业在制造业、能源和运输领域有稳定需求。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Driven by France's Industry 4.0 and circular economy policies, demand for product upgrades continues to grow. Companies focus on extending equipment lifespan and reducing waste, with stable demand in manufacturing, energy, and transportation sectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，通常为BTS或Licence毕业起薪 |
-| 中级（3-7年） | $32,000~$40,000 | 具有独立项目能力 |
-| 高级（7年以上） | $42,000~$55,000 | 工程师或项目经理级别 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, usually starting salary for BTS or Licence graduates |
+| Mid-level (3–7 years) | $32,000~$40,000 | Possess independent project capabilities |
+| Senior (7+ years) | $42,000~$55,000 | Engineer or project manager level |
+| average salary | $24,630 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术员晋升为高级工程师或项目经理，也可转向研发或质量管理。通过继续教育获得工程师文凭后，可进入更高技术管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The tasks of industrial product upgrade specialists include both repair, refurbishment, and technical transformation. AI is highly efficient in diagnosis, design optimization, and process monitoring, but physical operations, on-site judgment, and customer communication still rely on humans, resulting in mixed outcomes.
+
+You can be promoted from technician to senior engineer or project manager, or move into R&D or quality management. After obtaining an engineering diploma through continuing education, students can enter higher technical management positions.
+
+**Tasks most exposed to AI:**
+
+- Product fault diagnosis and cause analysis (AI for rapid positioning based on historical data)
+- Standard design for upgrade solutions (AI-generated multiple options to choose from)
+- Document and report writing (AI-generated technical documents)
+- Repeatability detection and data recording (automated sensors and AI analysis)
+
+**Where AI augments the role:**
+
+- Generation of creative solutions for complex technological upgrades (AI provides extensive references and simulations)
+- Quality monitoring and predictive maintenance during the upgrade process (AI real-time data analysis and early warning)
+- Customer needs analysis and customized recommendations (AI processing of customer feedback data)
+- Cross-disciplinary knowledge integration (AI rapid search for relevant technical materials)
+- Training and knowledge transfer (AI-generated training materials and simulated environments)
+
+**Human moat:**
+
+- On-site Hands-on Operations and Temporary Fault Response (Physical Environment Assessment)
+- In-depth communication with clients to understand implicit needs
+- Unique experience and intuition for old products
+- Human final decisions regarding safety and compliance
+
+**Skills to build:**
+
+- Use of AI-assisted diagnostic tools (such as predictive maintenance software)
+- Digital twin and simulation skills
+- Data analysis and visualisation (Python/Tableau)
+- IoT sensor integration and debugging
+- Customer communication and requirements analysis skills
+- Continuous learning and interdisciplinary technology integration
+
+**Key growth areas:**
 
 - Industry 4.0
 - Circular Economy
@@ -63,68 +97,67 @@ Responsible for modifying, upgrading, and revalorizing industrial products to im
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于工程师或高技能人才，需提供工作合同，无劳动力市场测试 |
-| Subclass Salarié（Employee Work Permit） | 常规工作居留，需法国公司担保并通过劳动力市场测试 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高薪职位（年薪≥53,000欧），快速通道 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for engineers or highly skilled talents, requiring a work contract and no labor market testing |
+| Subclass Salarié (Employee Work Permit) | Regular work residency requires a French company sponsorship and labor market testing |
+| Subclass Carte bleue UE (EU Blue Card) | For high-paying positions (annual salary ≥ 53,000 euros), fast track |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Product Upgrader？**
-- 喜欢动手操作和技术改造的人
-- 有机械或电气背景的工程师
-- 追求稳定就业的制造业从业者
-
-**谁不适合学Industrial Product Upgrader？**
-- 不喜欢车间环境的人
-- 追求纯脑力工作而非技术操作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and technical modifications
+- Engineers with a background in mechanical or electrical engineering
+- Manufacturing workers seeking stable employment
+
+**Who is not suited**
+- People who dislike the workshop environment
+- People who pursue pure intellectual work rather than technical operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for industrial product upgrade specialists?**
+A: Junior positions are about 24k-30k euros, intermediate 32k-40k euros, senior 42k-55k euros (pre-tax annual salary), and engineers are even higher.
+
+**Q: How can third-country citizens immigrate to France to pursue this profession?**
+A: You can choose through Passeport Talent (with employment contract) or Carte bleue UE (high salary), with company guarantees being key. Shortage occupations can simplify procedures.
+
+**Q: What French certifications are required?**
+A: Usually, a BTS or Licence Pro diploma is required, and CQPM certification is popular. If electrical work is involved, Carte professionnelle is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial Product Upgrader的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of an Industrial Product Upgrader?**
-答：Junior: €24k-30k, mid-level: €32k-40k, senior: €42k-55k (gross annual). Higher for engineer positions.
-
-**问：How can third-country nationals migrate to France for this occupation?**
-答：Via Talent Passport (job contract) or EU Blue Card (high salary). Employer sponsorship is key. Shortage occupation may simplify procedures.
-
-**问：What French certifications are required?**
-答：Typically a BTS or Licence pro diploma. CQPM certification is valued. For electrical work, a Carte professionnelle is mandatory.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

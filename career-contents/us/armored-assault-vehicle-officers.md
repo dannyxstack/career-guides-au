@@ -1,61 +1,96 @@
-# Armored Assault Vehicle Officers（Armored Assault Vehicle Officers）职业分析 · 美国
+# Armored Assault Vehicle Officers — career analysis · United States
 
-**职业代码：55-1013 – Armored Assault Vehicle Officers。**
+**Occupation code: 55-1013 (SOC)**
 
-Direct the operation of tanks, light armor, and amphibious assault vehicle units during combat on land or in aquatic environments, including targeting and firing systems, advanced communications and navigation, and personnel/equipment transport.
+Commands tank, light armored vehicle, and amphibious assault vehicle units in land or water operations; responsible for targeting and firing systems, advanced communication and navigation equipment operation, personnel and equipment transport, and tactical planning.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $50,000~$120,000（通过ROTC或军事学院可获全额资助） |
-| 军官基础课程 | 4个月 | —（由美国陆军提供，免费） |
+| Bachelor's degree | 4 years | $50,000~$120,000 (Full funding available through ROTC or military academies) |
+| Officer basic course | 4 months | $0~$0 (Provided by the U.S. Army, free of charge) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军官委任 | 美国陆军 | 必备 | 需完成ROTC、军官候选人学校或军事学院 |
-| 装甲军官基础课程 | 美国陆军装甲学校 | 必备 | 岗位培训，涵盖战术与武器系统 |
-| 秘密级安全许可 | 美国国防部 | 必备 | 背景调查后授予 |
+| Officer appointment | United States Army | Required | Must complete ROTC, Officer Candidate School, or Military Academy |
+| Armor Officer Basic Course | United States Army Armor School | Required | On-the-job training covering tactics and weapon systems |
+| Secret level security clearance | U.S. Department of Defense | Required | Granted after background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 5,500。因军事需求稳定，但整体军队规模受国防预算影响，未来十年就业增长缓慢（约0-2%），职业流动性有限。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 5,500. Due to stable military demand, but overall military size is affected by defense budgets, with slow employment growth over the next decade (about 0-2%) and limited career mobility.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | O-1至O-2军官薪资加津贴 |
-| 中级（4-10年） | $65,000~$90,000 | O-3至O-4军官薪资及住房补贴 |
-| 高级（10年以上） | $100,000~$140,000 | O-5及以上军衔，含福利 |
+| Median salary | $77,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$60,000 | O-1 to O-2 officer salary plus allowances |
+| Mid-level (4-10 years). | $65,000~$90,000 | O-3 to O-4 officer salary and housing allowance |
+| Senior (10+ years) | $100,000~$140,000 | O-5 and above rank, including benefits |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径通常从排长到连指挥官、营级参谋，再上升到营指挥官、旅级职位，需完成各级军事教育和指挥经验积累。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on armored assault vehicle officers is mixed: automated targeting and navigation systems will reduce some operational skills, but tactical decision-making, command flexibility, and ethical judgment enhanced by AI will improve overall combat effectiveness; however, reliability of human-machine collaboration and battlefield uncertainty remain core challenges.
+
+Promotion path typically goes from platoon leader to company commander, battalion staff, then battalion commander, and brigade-level positions, requiring completion of military education and command experience at each level.
+
+**Tasks most exposed to AI:**
+
+- Manual target aiming and fire control calculation
+- Routine communication and navigation equipment operation
+- Basic vehicle condition monitoring and fault reporting
+- Topographic map analysis (replaced by real-time AI terrain integration)
+- Calculation and scheduling of standard tactical formations
+
+**Where AI augments the role:**
+
+- AI-assisted real-time battlefield situational awareness and threat prioritization
+- Multi-sensor data fusion supports tactical decision-making
+- Predictive maintenance and logistics optimization
+- Adaptive opponent generation in simulation training
+- Tactical planning of human-machine coordinated formations (unmanned vehicles and command vehicles)
+
+**Human moat:**
+
+- unstructured decision-making in complex battlefield environments
+- Joint-force command and ethical judgment
+- Real-time risk balancing and life-or-death decisions
+- Innovative tactical design and adaptive leadership
+- Build team trust and morale
+
+**Skills to build:**
+
+- Human-machine collaborative tactical design and command.
+- AI/Machine Learning fundamentals and military data literacy
+- Electronic warfare and cyber defense basics
+- Advanced situational awareness and multi-domain operations knowledge
+- Cross-domain communication and alliance collaboration
+- Adaptive leadership and complex systems thinking
+
+**Key growth areas:**
 
 - Military operations
 - Defense technology
@@ -64,65 +99,67 @@ Direct the operation of tanks, light armor, and amphibious assault vehicle units
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（Extraordinary Ability） | 仅适用于具有非凡能力的军事专家，罕见 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 外籍人士需通过PERM劳工证，通常需豁免或特殊安排，极其困难 |
+| Subclass O-1 (Extraordinary Ability) | Only for military experts with extraordinary abilities, rare |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Foreign nationals need PERM labor certification, usually requiring exemption or special arrangement, extremely difficult |
+
+**PR friendliness: very high (★★★★½).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armored Assault Vehicle Officers？**
-- 有强烈军事领导意愿的人
-- 体能优异且能适应高压环境
-- 愿意长期服役并接受频繁调动
+**Who is suited**
+- A person with a strong desire for military leadership.
+- Excellent physical fitness and ability to adapt to high-pressure environments
+- Willing to serve long-term and accept frequent relocations
 
-**谁不适合学Armored Assault Vehicle Officers？**
-- 追求稳定生活节奏的人
-- 非美国公民或无法获得安全许可者
+**Who is not suited**
+- People seeking a stable life rhythm
+- Non-US citizens or those unable to obtain security clearance
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for an armored assault vehicle officer?**
+A: Entry-level (O-1/O-2) annual salary about 40,000-60,000 USD, mid-level (O-3/O-4) about 65,000-90,000 USD, senior (O-5 and above) up to 100,000-140,000 USD, plus housing and living allowances.
+
+**Q: Can foreigners immigrate to the US through this occupation?**
+A: Almost impossible. This position is limited to US citizens only due to the need for a secret security clearance and involvement in national defense secrets, with no regular skilled migration pathway.
+
+**Q: What educational background is needed to become an armored assault vehicle officer?**
+A: A bachelor's degree is typically required; a commission can be obtained through ROTC, Officer Candidate School, or a military academy, followed by completion of the Armor Officer Basic Course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（★★★★½） |
-| PR难度 | 极高（★★★★½） |
-
-Armored Assault Vehicle Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Armored Assault Vehicle Officers?**
-答：Entry-level (O-1/O-2) $40k-$60k, mid-level (O-3/O-4) $65k-$90k, senior (O-5+) $100k-$140k, plus allowances.
-
-**问：Can a foreign national immigrate to the US through this occupation?**
-答：Almost impossible. The position is restricted to US citizens due to security clearance and defense secrets; no regular immigration path exists.
-
-**问：What education is required to become an Armored Assault Vehicle Officer?**
-答：Typically a bachelor's degree, commissioned through ROTC, OCS, or military academy, followed by Armor Officer Basic Course.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Supervisors - Plastics and Rubber Production and Processing（Supervisors - Plastics and Rubber Production and Processing）职业分析 · DE
+# Supervisors - Plastics and Rubber Production and Processing — career analysis · Germany
 
-**职业代码：2219 – Supervisors - Plastics and Rubber Production and Processing。**
+**Occupation code: 2219 (KldB)**
 
-Oversees production processes in plastics and rubber manufacturing, coordinates teams to ensure efficiency and quality standards are met, requiring experience in production management.
+Responsible for overseeing the production process of plastic and rubber products, coordinating team work to ensure production efficiency and quality standards; requires production management experience
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（培训期间有工资，通常由企业承担费用） |
-| 技术员进修 | 2年（全职） | $5,000~$15,000（州立学校学费低，私立较高，可申请教育贷款） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$0 (Training is paid, usually covered by the employer) |
+| Technician further training | 2 years (full-time) | $5,000~$15,000 (State schools have lower tuition, private schools higher; education loans available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 塑料与橡胶工艺技师认证 | 德国工商业行会 (IHK) | 必备 | 通过双元制培训后获得，行业普遍认可 |
-| 生产技术员（国家认证） | 德国联邦经济与能源部 | 可选 | 高级职务优先要求，可在线课程学习 |
+| Plastics and Rubber Process Technician Certification | German Chamber of Commerce and Industry (IHK) | Required | Widely recognized in the industry, obtained after dual-system training |
+| Production Technician (National Certification) | German Federal Ministry for Economic Affairs and Energy | Optional | Preferred requirement for senior roles, can be studied via online courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。德国塑料和橡胶行业面临技术工人短缺，主管岗位需求稳定，尤其是具备技术背景的管理人员。随着自动化和绿色转型，对优化生产流程的领导者需求将持续。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 15,000. Germany's plastics and rubber industry faces skilled worker shortages; supervisor roles are stable, especially those with technical backgrounds. With automation and green transition, demand for leaders optimizing production processes will continue.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，取决于地区和企业规模 |
-| 中级（4-7年） | $43,000~$52,000 | 西部和大型企业薪资较高 |
-| 高级（8年以上） | $53,000~$65,000 | 包括奖金和津贴 |
+| Median salary | $39,180 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary, depending on region and company size |
+| Mid-level (4-7 years) | $43,000~$52,000 | Salaries are higher in the west and at large enterprises |
+| Senior (8+ years) | $53,000~$65,000 | Including bonuses and allowances |
+| average salary | $41,808 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从生产技师晋升为班组长，再至生产主管。进修技术管理或工程学位后可向生产经理或厂长发展，也可转向质量管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI risk for plastic and rubber production supervisors is mixed: tasks like production scheduling and quality inspection face automation, but core management skills like team coordination, anomaly handling, and equipment optimization still rely on humans and require AI-augmented decision-making.
+
+Can progress from production technician to team leader, then to production supervisor. Further study in technical management or engineering can lead to production manager or plant manager roles, or pivot to quality management positions.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling based on historical data
+- Defect identification in quality inspection (AI vision replacement)
+- Remote diagnosis and alarm handling for routine equipment faults
+- Automated generation and trend analysis of production reports
+
+**Where AI augments the role:**
+
+- Use AI to analyze production data and optimize process parameters
+- Reducing unplanned downtime through predictive maintenance systems
+- Assist in complex equipment debugging using augmented reality.
+- Using digital twins to simulate production process improvements
+
+**Human moat:**
+
+- Cross-team communication and conflict mediation
+- Emergency command for safety incidents
+- Supplier and customer relationship management
+- Process innovation for non-standard orders
+- Employee training and skill transfer
+
+**Skills to build:**
+
+- Data analysis and statistical process control (e.g., SPC)
+- AI tool applications (predictive maintenance, digital twin)
+- Business process automation (RPA, low-code platforms)
+- Lean production and continuous improvement methodology
+- human-machine collaborative team management
+
+**Key growth areas:**
 
 - Automation
 - Green transformation
@@ -63,67 +96,69 @@ Oversees production processes in plastics and rubber manufacturing, coordinates 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得德国认可的职业教育学历，并由德国雇主担保的技术工人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，可来德国寻找工作，要求具备相关资质。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需证明经济能力。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled workers with a recognized German vocational education qualification and sponsored by a German employer. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job search visa for coming to Germany to find work, requiring relevant qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to find employment; must prove financial means. |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Supervisors - Plastics and Rubber Production and Processing？**
-- 有生产管理经验，希望进入德国制造业的技术人才
-- 已完成塑料/橡胶相关职业培训，寻求晋升的主管
-- 动手能力强，善于协调团队和优化流程
-- 愿意在德国的工业区域（如巴登-符腾堡州、北莱茵-威斯特法伦州）工作
+**Who is suited**
+- Technical talent with production management experience seeking to enter German manufacturing
+- Completed plastic/rubber vocational training, seeking promotion to supervisor
+- Strong hands-on skills, good at coordinating teams and optimizing processes
+- Willing to work in German industrial regions (e.g., Baden-Württemberg, North Rhine-Westphalia)
 
-**谁不适合学Supervisors - Plastics and Rubber Production and Processing？**
-- 不擅长团队管理和压力应对
-- 对工业化生产线工作环境不适应
+**Who is not suited**
+- Not good at team management and handling pressure
+- Not adapted to the industrial production line work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a plastics and rubber production supervisor in Germany?**
+A: Entry-level annual salary approx. 35,000-42,000 euros, mid-level approx. 43,000-52,000 euros, senior up to 65,000+ euros, depending on region and company size.
+
+**Q: How can a Chinese plastic production supervisor immigrate to Germany?**
+A: Typically requires accredited vocational qualification in Germany and a job contract with a German company to apply for a skilled worker visa. Alternatively, a Chancenkarte or job-seeking visa may be possible based on qualifications and experience.
+
+**Q: What are the career development paths for a plastic and rubber production supervisor?**
+A: Can advance to Production Manager or Plant Manager by further studying technician or engineering degrees. Can also transition to roles in quality management, process optimization, or technical sales.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors - Plastics and Rubber Production and Processing属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plastics and rubber production supervisor in Germany?**
-答：Entry-level annual salary ranges from €35,000 to €42,000, mid-level from €43,000 to €52,000, and senior level can exceed €65,000, depending on region and company size.
-
-**问：How can a Chinese plastics production supervisor immigrate to Germany?**
-答：Typically requires recognition of vocational qualifications, a job offer from a German company, and application for a Skilled Worker Visa. Alternatively, Opportunity Card or Job Seeker Visa may be options.
-
-**问：What are the career paths for a plastics and rubber production supervisor?**
-答：Further training as a technician or engineer can lead to production manager or plant manager roles. Transitions into quality management, process optimization, or technical sales are also possible.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

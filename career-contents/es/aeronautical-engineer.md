@@ -1,60 +1,93 @@
-# Aeronautical Engineer（Aeronautical Engineer）职业分析 · ES
+# Aeronautical Engineer — career analysis · Spain
 
-**职业代码：2434 – Aeronautical Engineer。**
+**Occupation code: 2434 (CNO)**
 
-Professional engineer engaged in the design, development, testing, and maintenance of aircraft, spacecraft, and aerospace systems, covering aerodynamics, propulsion, structural design, and avionics.
+Engineering professionals engaged in the design, development, testing, and maintenance of aircraft, spacecraft, and aviation systems, covering areas such as aerodynamics, propulsion systems, structural design, and avionics.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $5,000~$12,000（公立大学年均学费，具体因校而异） |
-| 硕士（Máster） | 1-2年 | $3,000~$15,000（专业硕士，部分项目需额外费用） |
+| Undergraduate (Grado) | 4 years | $5,000~$12,000 (The average annual tuition fees at public universities vary by school) |
+| Máster | 1-2 years | $3,000~$15,000 (Professional master's degree; some programs require additional fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学位认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行学位认证，方可从事受规管工程职业 |
-| 专业工程师资质（Ingeniero Aeronáutico） | 西班牙工程师协会（COIAE） | 可选 | 虽非强制，但注册可增加职业机会 |
+| Engineering Degree Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require degree certification before engaging in regulated engineering professions |
+| Professional Engineer Qualification (Ingeniero Aeronáutico) | Spanish Engineers Association (COIAE) | Optional | Although not mandatory, registration can increase career opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。西班牙航空工程师就业前景中等偏上，受航空航天工业（如空客西班牙分部）和国防项目驱动。需关注欧盟蓝卡和学历认证，初学者可先积累经验。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. The employment outlook for Spanish aerospace engineers is above average, driven by the aerospace industry (such as Airbus's Spain branch) and defense projects. Pay attention to the EU Blue Card and academic credential verification; beginners can start by gaining experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 税前年薪，起薪通常在28k-32k欧元 |
-| 中级（4-7年） | $38,000~$52,000 | 具经验工程师，薪资范围取决于项目和公司 |
-| 高级（8年以上） | $52,000~$75,000 | 高级工程师或项目经理，顶级岗位可达80k+ |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$38,000 | Pre-tax annual salary, with starting salaries usually between 28k and 32k euros |
+| Mid-level (4-7 years) | $38,000~$52,000 | Experienced engineers, salary range depends on the project and company |
+| Senior (8+ years) | $52,000~$75,000 | Senior engineers or project managers, with top-tier positions reaching up to 80k+ |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级设计师或系统工程师起步，积累经验后可晋升为项目负责人或技术专家，最终成为工程经理或首席工程师。也可转向研发或学术领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance aeronautical engineers' design optimization and simulation capabilities, but as it gradually takes over conventional mathematical modeling and documentation tasks, the overall impact on the profession is mixed.
+
+Starting as a junior designer or systems engineer, you can gain experience and be promoted to project leader or technical expert, and eventually become an engineering manager or chief engineer. It can also be turned into research and development or academic fields.
+
+**Tasks most exposed to AI:**
+
+- Preliminary aerodynamic estimation and manual calculations
+- Standard structural analysis and fatigue life calculation
+- Design documents and compliance reports are generated automatically
+- Basic statistics and reports of test data
+
+**Where AI augments the role:**
+
+- Multidisciplinary Design Optimization (MDO) and Topology Optimization
+- High-precision computational fluid dynamics (CFD) simulation
+- Data-driven fault prediction and health management
+- Intelligent generative design candidate selection
+
+**Human moat:**
+
+- Aircraft airworthiness certification and safety decision-making
+- Cross-system integration and system-level innovation
+- Team leaders and stakeholders communicate
+- Explanation of physical experiments and test flight results
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning
+- AI-enhanced CFD/structural simulation tools (such as ANSYS AI)
+- MBSE and digital twin technology
+- Airworthiness regulations and AI/ML certification requirements
+- Project management and agile development
+- Generative design tools (e.g., nTopology)
+
+**Key growth areas:**
 
 - Aerospace
 - Aircraft Design
@@ -63,69 +96,68 @@ Professional engineer engaged in the design, development, testing, and maintenan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及不低于西班牙平均工资1.5倍的合同（约40k欧元）。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人士，简化流程，需大学学历及高薪合同。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准工作居留，需雇主担保，受劳工市场测试影响。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU citizens who require a university degree and a contract not less than 1.5 times the Spanish average salary (about 40k euros). |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, simplified processes, university degree and high-paying contracts are required. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residency, requires employer sponsorship, subject to labor market testing. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aeronautical Engineer？**
-- 热爱航空与技术，具备扎实的数学和物理基础
-- 善于解决复杂工程问题，注重细节与安全
-- 愿意接受长期学习和持续专业发展
-
-**谁不适合学Aeronautical Engineer？**
-- 不喜严格规范和高安全要求的职业
-- 不愿频繁更新知识或面对国际竞争
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about aviation and technology, with a solid foundation in mathematics and physics
+- Skilled at solving complex engineering problems, focusing on details and safety
+- Willing to accept long-term learning and continuous professional development
+
+**Who is not suited**
+- They dislike jobs with strict regulations and high safety requirements
+- Unwilling to frequently update knowledge or face international competition
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for aeronautical engineers in Spain?**
+A: Entry-level: approximately €28,000–38,000; mid-level: €38,000–52,000; senior: up to €75,000 or more, depending on experience and company.
+
+**Q: How can a non-EU citizen become a Spanish aerospace engineer?**
+A: You must first complete academic qualification (Homologación), then obtain a work permit through an EU Blue Card or a High-Skilled Talent visa. Employer sponsorship is key.
+
+**Q: Is Spanish aerospace engineer a scarce profession?**
+A: Although not currently on the official shortage list of professions, there are still opportunities in aerospace, especially for experienced engineers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Aeronautical Engineer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an aeronautical engineer in Spain?**
-答：Entry-level: €28k-38k, mid-level: €38k-52k, senior: €52k-75k+, depending on experience and company.
-
-**问：How can a non-EU citizen become an aeronautical engineer in Spain?**
-答：First, obtain degree recognition (Homologación), then secure a job offer and apply for an EU Blue Card or Highly Qualified Professional visa.
-
-**问：Is aeronautical engineer a shortage occupation in Spain?**
-答：Currently not on the official shortage list, but opportunities exist in aerospace, especially for experienced engineers.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

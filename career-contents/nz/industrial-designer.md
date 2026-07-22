@@ -1,59 +1,92 @@
-# Industrial Designer（Industrial Designer）职业分析 · 新西兰
+# Industrial Designer — career analysis · New Zealand
 
-**职业代码：232312 – Industrial Designer。**
+**Occupation code: 232312 (ANZSCO)**
 
-Industrial designers in New Zealand focus on the aesthetics and functionality of products, working in manufacturing, tech firms, or design consultancies. They can qualify for residence via the Green List or Skilled Migrant Category, requiring relevant qualifications and a portfolio.
+Industrial designers in New Zealand mainly engage in product appearance and functional design, employed in manufacturing, tech companies, or design consultancies. They can obtain residency via the Green List or Skilled Migrant Category, requiring relevant qualifications and portfolio.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$42,000（国际学生年均学费，奥克兰与专业相关） |
-| 硕士 | 1.5-2年 | $35,000~$48,000（国际学生年均学费，研究型更贵） |
+| Bachelor's degree | 3-4 years | $30,000~$42,000 (Annual tuition for international students, Auckland and major-related) |
+| Master's degree | 1.5-2 years | $35,000~$48,000 (Average annual tuition for international students, more expensive for research degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 设计学士（工业设计） | 奥克兰理工大学、惠灵顿维多利亚大学等 | 必备 | 核心学历，需获得新西兰学历评估（NZQA）认可 |
-| 作品集 | 自行准备 | 必备 | 展示设计能力和项目经验，求职和移民评审必需 |
-| 雅思总分6.5分 | IELTS | 可选 | 技术移民或注册时需要，单项不低于6.0 |
+| Bachelor of Design (Industrial Design) | Auckland University of Technology, Victoria University of Wellington, etc. | Required | Core qualification, needs to be recognized by the New Zealand Qualifications Authority (NZQA) |
+| Portfolio | Prepare on your own | Required | Demonstrate design ability and project experience, essential for job applications and immigration assessment |
+| IELTS overall score of 6.5 | IELTS | Optional | Required for skilled migration or registration, no band less than 6.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。新西兰制造业和科技初创企业对工业设计师需求稳定，但职位数量有限，竞争中等。奥克兰和基督城是主要就业中心，绿色清单 Tier 2 类别为有两年工作经验者提供直接居留路径。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. Demand for industrial designers is stable in New Zealand's manufacturing and tech startup sectors, but job numbers are limited and competition is moderate. Auckland and Christchurch are main employment hubs. The Green List Tier 2 category offers a direct residence pathway for those with two years of experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 大部分初级职位薪资在$55k-$65k |
-| 中级（3-8年） | $75,000~$95,000 | 具有经验的设计师薪资可达$85k |
-| 高级（8年以上） | $100,000~$130,000 | 设计经理或首席设计师薪资更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Most entry-level positions have salaries between $55k-$65k. |
+| Mid-level (3–8 years) | $75,000~$95,000 | Experienced designers can earn up to $85k |
+| Senior (8+ years) | $100,000~$130,000 | Design manager or chief designer salary is higher |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级设计师可在制造企业或设计工作室积累经验，成为高级设计师或设计主管。部分转向用户体验（UX）设计或产品管理，或创业成立独立设计事务所。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will revolutionize the visualization and modeling processes of industrial design, but the value of humans in creativity, user insight, and cross-disciplinary collaboration becomes more prominent; practitioners need to accelerate their transition to strategic design.
+
+Junior designers can gain experience in manufacturing companies or design studios, becoming senior designers or design directors. Some transition to UX design or product management, or start their own independent design firms.
+
+**Tasks most exposed to AI:**
+
+- Multi-plan concept generation and rapid rendering
+- Parameter-based repetitive 3D modeling and modification
+- Standardized writing of product specification sheets
+- Initial classification and report generation from user research data
+
+**Where AI augments the role:**
+
+- Use AI generative design to explore innovative forms and structures
+- AI-driven user behaviour simulation and usability testing
+- Real-time AI rendering and design review accelerate iteration
+- AI-assisted material performance prediction and sustainable design
+
+**Human moat:**
+
+- Interdisciplinary innovative thinking and design strategy formulation
+- Deep understanding of user emotions, culture, and social motivations.
+- Qualitative insights from complex user research and usability testing
+- Strategic communication and coordination with engineers, marketing, and clients
+
+**Skills to build:**
+
+- Generative AI tools (e.g., DALL·E, Midjourney) for concept design
+- Parametric and algorithmic design (e.g., Grasshopper, Fusion 360 generative design)
+- User research and data-driven design decisions (including foundational AI data analysis).
+- VR/AR prototype design and interactive experience
+- Knowledge of Sustainable Design and Life Cycle Assessment
+- Project management design and cross-team leadership
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Industrial designers in New Zealand focus on the aesthetics and functionality of
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 工业设计师在绿色清单Tier 2中，需有认证雇主和至少两年相关工作经验，工作两年后申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 基于6分制，拥有本科+工作经验可累计分数，满足分数即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主工作offer后可申请，最长3年，可作为移民跳板 |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Industrial designers are on the Green List Tier 2, requiring a certified employer and at least two years of relevant work experience; they can apply for residence after two years of work. |
+| Subclass SMC (Skilled Migrant Category) | Based on a 6-point system, having a bachelor's degree plus work experience accumulates points, and meeting the score threshold allows application. |
+| Subclass AEWV (Accredited Employer Work Visa) | Can apply after obtaining accredited employer job offer; up to 3 years, can serve as a stepping stone to residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Designer？**
-- 有创意和审美能力，喜欢通过设计解决实际问题
-- 具备手绘和三维建模技能（如SolidWorks），并能独立完成作品集
-- 愿意在制造业、科技或创新领域发展
-
-**谁不适合学Industrial Designer？**
-- 对严格的工作流程和客户需求反馈缺乏耐心
-- 不擅长团队协作或沟通
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and aesthetically aware, enjoys solving practical problems through design
+- Proficient in hand-drawing and 3D modeling skills (e.g., SolidWorks), and able to independently complete a portfolio.
+- Willing to develop in manufacturing, technology, or innovation fields
+
+**Who is not suited**
+- Lack of patience with strict workflows and customer needs feedback
+- Not good at teamwork or communication.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an industrial designer in New Zealand?**
+A: Junior approx. $55k-$70k, mid-level $75k-$95k, senior $100k-$130k. Varies by experience, location, and company size.
+
+**Q: Can industrial designers migrate directly to New Zealand via the Green List?**
+A: Yes. Industrial designers are on the Green List Tier 2 (work to residence), requiring a certified employer offer and at least 2 years of relevant work experience. After 2 years of work, you can apply for residence. You can also apply via skilled migration (6-point system: bachelor's degree + experience).
+
+**Q: Are there many job opportunities for industrial designers in New Zealand?**
+A: Limited but stable positions. Mainly in manufacturing, tech companies, and design consultancies in Auckland and Christchurch. Competition is moderate; those with a portfolio and local experience have an advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an industrial designer in New Zealand?**
-答：Entry-level: $55k-$70k, mid-level: $75k-$95k, senior: $100k-$130k. Varies by experience, location, and company size.
-
-**问：Can industrial designers immigrate to New Zealand via the Green List?**
-答：Yes. Industrial designers are on the Green List Tier 2 (Work to Residence), requiring an accredited employer job offer and at least 2 years of relevant work experience, with residence eligibility after 2 years of work. Alternatively, the Skilled Migrant Category (6-point system) is also available.
-
-**问：Are there many job opportunities for industrial designers in New Zealand?**
-答：Job numbers are limited but stable. Concentrated in Auckland and Christchurch in manufacturing, tech firms, and design consultancies. Competition is moderate; a strong portfolio and local experience are advantageous.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

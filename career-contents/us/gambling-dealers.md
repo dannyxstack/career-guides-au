@@ -1,60 +1,92 @@
-# Gambling Dealers（Gambling Dealers）职业分析 · 美国
+# Gambling Dealers — career analysis · United States
 
-**职业代码：39-3011 – Gambling Dealers。**
+**Occupation code: 39-3011 (SOC)**
 
-Operate table games such as blackjack, roulette, and poker. Distribute cards or chips, calculate bets, and pay winnings. Work in casinos and gaming venues.
+Operates table games (such as blackjack, roulette, poker), deals cards or distributes chips to players, calculates bets and pays winnings. Work environment is typically in casinos or gaming venues.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 无需正规教育 | —（多数赌场要求高中文凭，无学费） |
-| 赌场培训项目 | 2-6周 | $200~$500（赌场或私立学校提供的发牌培训，费用视机构而定） |
+| High school graduation | No formal education required | $0~$0 (Most casinos require a high school diploma; no tuition fees.) |
+| Casino training program | 2-6 weeks | $200~$500 (Dealer training provided by casinos or private schools, cost varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 赌场执照 | 州赌博监管机构 | 必备 | 多数州要求发牌员获得执照，需背景调查和指纹 |
-| 发牌培训证书 | 赌场或培训学校 | 可选 | 非强制但雇主偏好有培训经验的申请者 |
+| Casino license | State gambling regulatory agency | Required | Most states require licensure for dispensers, including background checks and fingerprints |
+| License training certificate. | Casino or training school. | Optional | Not mandatory but employers prefer applicants with training experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 81,000。美国赌场发牌员就业预计增长较慢，部分因在线赌博替代和自动化压力。但实体赌场在拉斯维加斯、大西洋城等地仍有需求，岗位竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 81,000. Employment for US casino dealers is expected to grow slowly, partly due to online gambling substitution and automation pressures. However, physical casinos in Las Vegas, Atlantic City, etc. still have demand; job competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 时薪+小费，底薪低但小费可观 |
-| 中级（3-7年） | $30,000~$45,000 | 经验丰富后小费收入增加 |
-| 高级（7年以上） | $40,000~$60,000 | 高级发牌员或主管，小费更高 |
+| Median salary | $34,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $20,000~$30,000 | Hourly wage plus tips; low base pay but good tips |
+| Mid-level (3–7 years) | $30,000~$45,000 | Tips increase with experience |
+| Senior (7+ years) | $40,000~$60,000 | Senior dealer or supervisor, higher tips |
+| average salary | $42,550 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从初级发牌员可晋升为高级发牌员、赌桌主管，再至赌场经理。部分赌场提供内部培训项目，经验丰富者也可转向其他博彩岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Casino dealers face high automation risk; online gambling and self-service tables will reduce traditional positions, but physical casinos still need human staff for complex interactions and compliance.
+
+From junior dealer, you can advance to senior dealer, table supervisor, and then casino manager. Some casinos offer internal training programs, and experienced individuals can also move to other gaming positions.
+
+**Tasks most exposed to AI:**
+
+- Automated card dealers replace standard game operations for blackjack, roulette, etc.
+- Electronic gaming tables automatically calculate bets and pay out winnings
+- Online betting platforms replace live table game dealing
+- AI-based odds calculation and real-time statistical data provision
+
+**Where AI augments the role:**
+
+- AI-assisted monitoring of player behavior improves anti-fraud efficiency
+- Smart systems provide real-time odds analysis and game strategy recommendations
+- AI optimizes table scheduling and player flow
+- Virtual reality enhances gaming experience while retaining human commentary
+
+**Human moat:**
+
+- Interpersonal communication skills to handle player disputes and unusual situations
+- Deep understanding of gambling compliance and regulatory rules
+- Providing personalized services and enhancing player loyalty
+- Multitasking ability for managing multiple complex games simultaneously
+
+**Skills to build:**
+
+- Learn to use casino management software and AI monitoring tools
+- Proficiency in online gambling platform operation and digital payment processing
+- Improve customer service and conflict resolution skills
+- Obtain gambling regulatory compliance certification
+- Learn basic data analysis and report generation.
+
+**Key growth areas:**
 
 - Slow growth
 - Online gambling impact
@@ -63,62 +95,64 @@ Operate table games such as blackjack, roulette, and poker. Distribute cards or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 赌场发牌员通常不属于专业职业，H-1B申请困难 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要雇主担保PERM，但该职业技术含量低，难以通过 |
+| Subclass H-1B (H-1B Specialty Occupation) | Casino dealers are typically not professional occupations, H-1B application is difficult |
+| Subclass EB-3 (EB-3 Skilled Workers) | requires employer-sponsored PERM, but this occupation has low skill content and is difficult to pass |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gambling Dealers？**
-- 善于快速计算和人际交往的人
-- 能适应夜晚、周末工作，抗压能力强
-- 对赌场环境有兴趣，无赌博瘾
+**Who is suited**
+- People good at quick calculations and interpersonal skills
+- Can adapt to night and weekend work, strong stress resilience
+- Interest in casino environment with no gambling addiction
 
-**谁不适合学Gambling Dealers？**
-- 反感吸烟或嘈杂环境的人
-- 不擅长数学或注意力不集中的人
+**Who is not suited**
+- Those who dislike smoking or noisy environments
+- Those who are not good at math or have short attention spans
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much does a casino dealer earn?**
+A: Base salary is low, often near minimum wage, but tips are substantial. Annual total income about $30,000-$50,000; top casino dealers can earn over $60,000.
+
+**Q: Can casino dealers immigrate to the U.S. through a work visa?**
+A: Very difficult. This occupation is not a professional role, making H-1B and green card applications nearly impossible. Unless transitioning to a casino management role, the skilled migration path is extremely narrow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Gambling Dealers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a gambling dealer?**
-答：Base salary is low, often near minimum wage, but tips can be substantial. Total annual income ranges from $30,000 to $50,000, with senior dealers at top casinos earning over $60,000.
-
-**问：Can a gambling dealer immigrate to the US via work visa?**
-答：Very difficult. The occupation is not a specialty occupation, making H-1B and green card applications nearly impossible unless transitioning to management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

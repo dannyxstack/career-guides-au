@@ -1,59 +1,95 @@
-# General and Operations Managers（General and Operations Managers）职业分析 · 美国
+# General and Operations Managers — career analysis · United States
 
-**职业代码：11-1021 – General and Operations Managers。**
+**Occupation code: 11-1021 (SOC)**
 
-Plan, direct, or coordinate operations of public or private sector organizations, overseeing multiple departments or locations. Duties include formulating policies, managing daily operations, and planning resource use, too diverse to classify into one functional area.
+Plan, direct or coordinate operations of public or private sector organizations, overseeing multiple departments or locations. Duties cover policy formulation, daily operations management and resource planning, too broad to be classified under a single management function.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费范围） |
-| 工商管理硕士（MBA） | 2年 | $50,000~$200,000（顶尖商学院费用较高） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition range) |
+| Master of Business Administration (MBA) | 2 years | $50,000~$200,000 (Top business schools have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 管理学学士 | 大学 | 必备 | 常见入门要求 |
-| PMP认证 | 项目管理协会 | 可选 | 提升竞争力 |
-| MBA | 商学院 | 可选 | 高级职位偏好 |
+| Bachelor of Management | University | Required | Common Entry Requirements |
+| PMP certification | Project Management Institute | Optional | Boosting competitiveness |
+| MBA | Business school | Optional | Preference for senior roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500,000。美国劳工统计局预计2023-2033年岗位增长约6%，与平均水平相当。企业扩张和复杂运营需求将推动需求，但自动化可能影响部分行政任务。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500,000. The U.S. Bureau of Labor Statistics projects about 6% job growth from 2023 to 2033, about as fast as the average. Business expansion and complex operational needs will drive demand, but automation may impact some administrative tasks.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$80,000 | 小公司或助理职位 |
-| 中级（3-7年） | $80,000~$120,000 | 中型公司部门经理 |
-| 高级（7年以上） | $120,000~$200,000 | 大型企业或高管 |
+| Median salary | $105,770 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$80,000 | Small company or assistant role |
+| Mid-level (3–7 years) | $80,000~$120,000 | Department Manager at a Medium-sized Company |
+| Senior (7+ years) | $120,000~$200,000 | Large enterprises or executives |
+| average salary | $134,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从部门经理或项目经理晋升，逐步积累跨职能经验。可向区域副总裁、首席运营官（COO）或首席执行官（CEO）发展，或转入咨询领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI/automation has mixed effects on general managers and operations managers: data analysis, report generation, and process monitoring tasks are taken over, but strategic decision-making, interpersonal coordination, and crisis handling skills become more valued.
+
+Typically promoted from department manager or project manager, gradually accumulating cross-functional experience. Can advance to regional vice president, COO, or CEO, or transition into consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate daily operation reports and performance dashboards
+- Use AI to predict demand and optimize inventory and supply chain scheduling
+- Automated approval standard processes (e.g., purchase orders, expense reports)
+- Using chatbots to handle common employee inquiries and shift adjustments
+- Automatically monitor compliance indicators and trigger alerts
+
+**Where AI augments the role:**
+
+- Use AI to simulate different strategic scenarios (such as market expansion, cost reduction) to aid decision-making
+- Quickly obtain cross-department key data insights through natural language queries
+- Optimize team staffing and project resource allocation using AI tools
+- Using AI to analyze customer feedback and employee comments to improve services or processes
+- Monitor organizational health in real time via AI-driven dashboards and intervene early
+
+**Human moat:**
+
+- Strategic judgment and goal-setting in ambiguous, high-uncertainty environments
+- Complex interpersonal coordination, conflict mediation, and team motivation
+- Shaping and transmitting organizational culture and values
+- Quick decision-making in responding to sudden crises (e.g., PR, supply chain disruptions)
+- Deep communication and trust building with high-level stakeholders (board, clients, government)
+
+**Skills to build:**
+
+- Data storytelling and decision visualization (e.g., Tableau, Power BI)
+- AI/machine learning basic concepts and business scenario application assessment
+- Agile management methods and cross-functional team collaboration tools (e.g., Jira, Asana)
+- Change management and organizational psychology
+- Strategic financial analysis and cost modeling
+- Digital twin and process mining technologies (e.g., Celonis)
+
+**Key growth areas:**
 
 - Business Expansion
 - Operational Efficiency
@@ -62,69 +98,68 @@ Plan, direct, or coordinate operations of public or private sector organizations
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于跨国公司管理岗位，需学士学位，年度配额竞争激烈。 |
-| Subclass L-1A（L-1A Intracompany Transferee Executive or Manager） | 跨国公司内部高管或经理调派，无年度配额，需在海外关联公司工作一年。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需高等学位或杰出能力，通过PERM劳工认证，为绿卡途径。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于学士学位或技术工人，同样需PERM，排期较长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common in management roles at multinational companies, requires bachelor's degree, annual quota competitive. |
+| Subclass L-1A (L-1A Intracompany Transferee Executive or Manager) | Intra-company transfer for executives or managers in multinational companies; no annual cap, must have worked one year in an overseas affiliated company. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires higher degree or exceptional ability, PERM labour certification, for green card pathway. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to bachelor's degree or skilled workers, also requires PERM, with long waits. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General and Operations Managers？**
-- 具备领导力和战略思维者
-- 擅长跨部门协调和决策者
-- 适应快节奏和多任务环境者
-
-**谁不适合学General and Operations Managers？**
-- 偏好单一职能深度工作者
-- 不擅长人际沟通和冲突管理
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with leadership and strategic thinking
+- Skilled in cross-departmental coordination and decision-making
+- Those who thrive in fast-paced, multitasking environments
+
+**Who is not suited**
+- Prefers in-depth work in a single function
+- Not skilled in interpersonal communication and conflict management.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a general manager and operations manager?**
+A: BLS 2023 data shows median annual wage of about $100,000, varying significantly by industry, company size, and region.
+
+**Q: As a general manager, what are the US work visa options?**
+A: Common options: H-1B (requires professional position), L-1A (intracompany transferee for managers), and EB-2/EB-3 green cards (based on PERM). L-1A has no quota, H-1B requires lottery.
+
+**Q: What qualifications are needed to become a general manager?**
+A: Typically requires a bachelor degree in business administration or related field. MBA or related master's preferred for senior roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-General and Operations Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for General and Operations Managers?**
-答：According to BLS 2023 data, the median annual salary is about $100,000, varying by industry, company size, and location.
-
-**问：What work visa options are available for General and Operations Managers in the US?**
-答：Common options include H-1B (specialty occupation), L-1A (intracompany manager transfer), and EB-2/EB-3 green cards via PERM. L-1A has no cap, H-1B subject to lottery.
-
-**问：What education is required to become a General Manager?**
-答：Typically a bachelor's degree in business administration or related field. Advanced positions prefer an MBA or master's degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

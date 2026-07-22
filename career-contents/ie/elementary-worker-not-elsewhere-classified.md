@@ -1,60 +1,93 @@
-# Elementary Worker Not Elsewhere Classified（Elementary Worker Not Elsewhere Classified）职业分析 · IE
+# Elementary Worker Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：9629 – Elementary Worker Not Elsewhere Classified。**
+**Occupation code: 9629 (ISCO08)**
 
-Performs simple manual or service support tasks not elsewhere classified, such as cleaning, lifting, and packing, widely needed across Irish sectors.
+Engage in unskilled simple physical labor or support work, including cleaning, moving, packaging, etc., with widespread demand across industries in Ireland.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无 | —（无特定学历要求） |
-| 短期职业培训 | 1-2个月 | $200~$500（如安全搬运证书） |
+| Junior high school graduation | None | $0~$0 (No specific educational requirements) |
+| Short-term vocational training | 1-2 months | $200~$500 (E.g., safety handling certificate.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业安全证书 | HSA | 可选 | 推荐，部分雇主要求 |
-| 手动搬运培训 | FETAC | 可选 | 常见入门培训 |
+| Occupational safety certificate | HSA | Optional | Recommended, required by some employers |
+| Manual handling training | FETAC | Optional | Common Entry-Level Training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。爱尔兰该岗位需求稳定，受物流、零售和清洁服务行业增长推动。预计到2025年就业人数小幅增长，但自动化和外迁可能影响部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Demand for this role in Ireland is stable, driven by growth in logistics, retail, and cleaning services. Employment is expected to grow slightly by 2025, but automation and offshoring may affect some roles.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按最低工资 |
-| 中级（3-5年） | $26,000~$30,000 | 含加班等因素 |
-| 高级（5年以上） | $30,000~$35,000 | 升至主管或资深岗位 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, usually based on minimum wage |
+| Mid-level (3–5 years) | $26,000~$30,000 | Including overtime and other factors |
+| Senior (5+ years) | $30,000~$35,000 | Advance to supervisor or senior role |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径有限，通常可升至主管或转至半熟练岗位。积累经验后有机会进入运输、仓储或制造领域担任操作员。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation mainly involves simple manual labor with high automation risk. AI and robots will massively replace tasks such as handling, packaging, and cleaning. The number of positions is expected to shrink, but there will still be some demand in logistics and cleaning sectors.
+
+Limited promotion paths, typically to supervisor or semi-skilled roles. With experience, opportunities to work as operators in transport, warehousing, or manufacturing.
+
+**Tasks most exposed to AI:**
+
+- Use automated guided vehicles (AGVs) or robots to move goods
+- Automatic packaging machines replace manual packaging
+- AI scheduling system optimizes cleaning and garbage collection routes
+- Automated inventory management reduces manual counting
+
+**Where AI augments the role:**
+
+- AI-assisted navigation systems help improve handling efficiency
+- Wearable devices provide real-time job guidance and safety alerts
+- Digital platforms match temporary workers with short-term tasks
+- Predictive maintenance systems reduce equipment downtime
+
+**Human moat:**
+
+- Ability to adapt to complex and dynamic unstructured environments
+- Quality inspection and anomaly handling requiring careful judgment
+- Service warmth and flexibility in interpersonal interactions
+- On-site safety supervision and emergency response
+
+**Skills to build:**
+
+- Operate basic digital equipment and scanning tools.
+- Basic English communication and customer service
+- Simple data analysis and reporting
+- Learning to use a Warehouse Management System (WMS)
+- Safety procedures and first aid knowledge
+- Cross-role adaptability
+
+**Key growth areas:**
 
 - Warehouse expansion
 - E-commerce growth
@@ -63,65 +96,67 @@ Performs simple manual or service support tasks not elsewhere classified, such a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3万欧元的非紧缺岗位，需雇主担保。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，适合大型物流企业。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage positions with an annual salary below 30,000 euros, requiring employer sponsorship. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer within multinational corporations, suitable for large logistics companies. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Elementary Worker Not Elsewhere Classified？**
-- 寻求快速就业且不介意体力劳动的人
-- 暂时过渡性工作者
-- 无英语基础但需工作的人
+**Who is suited**
+- For those seeking quick employment and not minding physical labor
+- Temporary transitional workers
+- For those with no English foundation but needing to work
 
-**谁不适合学Elementary Worker Not Elsewhere Classified？**
-- 追求高收入和职业发展者
-- 对工作稳定性要求高的人
+**Who is not suited**
+- High income and career advancement seekers
+- People who require high job stability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual salary for entry-level workers in Ireland?**
+A: Entry-level positions are typically paid at the minimum wage (approximately €11.30/hour), with a full-time annual salary of around €22,000-€26,000 before tax.
+
+**Q: How can non-EU citizens immigrate to Ireland through such jobs?**
+A: Such jobs usually do not meet the skills shortage list, requiring a general work permit with employer sponsorship, but with low income, making subsequent long-term residency difficult.
+
+**Q: Are there opportunities for promotion?**
+A: Limited promotion paths, typically advancing to team leader or moving to semi-skilled operator roles, such as forklift driver.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 极低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Elementary Worker Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for entry-level elementary workers in Ireland?**
-答：Entry-level roles are typically paid at the minimum wage (approx. €11.30/hour), with full-time annual salary around €22,000-€26,000 before tax.
-
-**问：How can non-EU citizens immigrate through such jobs in Ireland?**
-答：These jobs rarely qualify for critical skills; a General Employment Permit is needed with employer sponsorship. Low income makes long-term residence difficult.
-
-**问：Are there promotion opportunities?**
-答：Limited; usually to team supervisor or semi-skilled operator roles like forklift driver.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,95 @@
-# Construction Electrician（Construction Electrician）职业分析 · ES
+# Construction Electrician — career analysis · Spain
 
-**职业代码：7510 – Construction Electrician。**
+**Occupation code: 7510 (CNO)**
 
-Installs, maintains, and repairs electrical systems in construction sites, including wiring, distribution boards, lighting, and grounding, ensuring compliance with safety regulations.
+Install, maintain, and repair electrical systems on construction sites, including wiring, distribution boxes, lighting, and grounding systems, ensuring compliance with safety regulations.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费，私立约每年1500欧元） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约每年2000欧元） |
-| 学徒制 | 3-4年 | —（在职培训，公司支付薪水） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$3,000 (Public schools free, private approximately 1,500 EUR per year) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$4,000 (Public schools are free, while private ones cost about 2,000 euros per year) |
+| Apprenticeship | 3-4 years | $0~$1,000 (On-the-job training, with salary paid by the company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑电工资质（Instalador Electricista de Baja Tensión） | 西班牙工业部认可的认证机构 | 必备 | 完成FP Grado Medio或相应培训后获得，必须注册 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国电工学历需认证，过程复杂 |
-| 高空作业证 | 西班牙劳动部认可的培训机构 | 可选 | 特定工作场景必需 |
+| Building Electricista (Instalador Electricista de Baja Tensión) | A certification body recognized by the Spanish Ministry of Industry | Required | Obtained after completing FP Grado Medio or the corresponding training, registration is required |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country electrical engineering credentials require certification, and the process is complex |
+| Working at heights certificate | Training institutions recognized by the Spanish Ministry of Labor | Optional | Required for specific work scenarios |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。西班牙建筑业复苏和可再生能源项目推动电工需求稳定增长，预计2023-2027年就业率增长约5%，但受经济周期影响明显。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The recovery of Spain's construction industry and renewable energy projects have driven steady growth in demand for electricians, with employment expected to grow by about 5% from 2023 to 2027, though the impact of economic cycles is significant.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年收入 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年收入 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年收入，工头或项目经理更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Gross annual income before tax |
+| Mid-level (3–7 years) | $28,000~$35,000 | Gross annual income before tax |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual income, foremen or project managers have higher income |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级电工开始，积累经验后可晋升为工头或电气监理，进一步可成为独立承包商或项目经理。也可以向工业电工或可再生能源领域转型。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
+
+Starting as a junior electrician, after gaining experience, you can be promoted to foreman or electrical supervisor, and further become an independent contractor or project manager. It can also transition into industrial electrical or renewable energy sectors.
+
+**Tasks most exposed to AI:**
+
+- Manual preparation of wiring plans and material lists (AI can automatically optimize generation)
+- Basic electrical safety calculations (e.g., load calculations, wire sizing)
+- Standardized test recording and report writing
+- Remote diagnosis of simple faults (via AI vision and sensor data)
+
+**Where AI augments the role:**
+
+- Using AI tools to assist in designing complex electrical systems (e.g., PV array layout)
+- Using AI-enhanced augmented reality (AR) for concealed line location and installation guidance
+- Improve preventive maintenance efficiency with AI failure prediction systems
+- Automatic translation of technical documents and compliance requirements using AI for cross-language tasks
+
+**Human moat:**
+
+- On-site operational safety responsibilities and licensing legal requirements
+- Human judgment and emergency handling for complex fault diagnosis
+- Communication and compliance sign-offs with clients, contractors, and regulators
+- Practical hands-on ability in harsh environments (heights, confined spaces)
+
+**Skills to build:**
+
+- Integration of smart building systems (BMS, IoT)
+- Renewable energy system design (photovoltaic, energy storage)
+- Electrical Automation and PLC Programming Basics
+- Data analysis/fault prediction software use
+- Project management and cost estimation
+- Digital work platforms (e.g., SimPRO, ServiceM8)
+
+**Key growth areas:**
 
 - Construction
 - Renewable Energy
@@ -65,69 +98,68 @@ Installs, maintains, and repairs electrical systems in construction sites, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需西班牙公司担保，证明职位无法在本地填补，申请周期长 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高等学历，薪资门槛较高（约年薪33000欧元），电工通常不满足要求 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，但需证明经济能力 |
+| Subclass Cuenta ajena (Work Permit for Employees) | A Spanish company sponsorship is required, proving that the position cannot be filled locally, and the application process is lengthy |
+| Subclass Tarjeta azul UE (EU Blue Card) | This applies to those with higher education, with a relatively high salary threshold (about 33,000 euros per year), and electricians usually do not meet the requirements |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must prove your financial capability |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Electrician？**
-- 动手能力强，喜欢户外工作
-- 能适应体力劳动和工地环境
-- 对电气系统有浓厚兴趣
-
-**谁不适合学Construction Electrician？**
-- 不擅长体力劳动或高空作业
-- 对频繁出差或工地调动不适应
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and enjoys outdoor work
+- Able to adapt to physical labor and construction site environments
+- Strong interest in electrical systems
+
+**Who is not suited**
+- Not suited for manual labour or work at heights
+- Not suitable for frequent business trips or site transfers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for construction electricians?**
+A: Junior: about EUR 22,000-28,000, intermediate: EUR 28,000-35,000, senior: EUR 35,000-45,000, foreman can exceed EUR 50,000.
+
+**Q: Is it easy for electricians in a third country to immigrate to Spain?**
+A: Difficult. Spain has strict certification requirements for electricians, requiring qualification assessment and local license, and employer sponsorship is difficult.
+
+**Q: What education is needed to become a construction electrician?**
+A: Typically, it is necessary to complete two years of FP Grado Medio (secondary vocational education) or apprenticeship, and then obtain the low-voltage electrical qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Construction Electrician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a construction electrician?**
-答：Entry-level around €22,000-28,000, mid-level €28,000-35,000, senior €35,000-45,000, foremen can exceed €50,000.
-
-**问：Is it easy for a third-country electrician to immigrate to Spain?**
-答：Difficult. Strict certification requirements: need homologation of qualifications and local license, employer sponsorship is challenging.
-
-**问：What education is needed to become a construction electrician?**
-答：Usually a 2-year FP Grado Medio (intermediate vocational training) or apprenticeship, followed by a low-voltage electrician certification.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

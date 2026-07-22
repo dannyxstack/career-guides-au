@@ -1,61 +1,95 @@
-# Train Controller（Train Controller）职业分析 · 澳大利亚
+# Train Controller — career analysis · Australia
 
-**职业代码：712918 – Train Controller。**
+**Occupation code: 712918 (ANZSCO)**
 
-Train controllers monitor and coordinate train movements to ensure safe, punctual, and efficient rail network operations. They use communication and signaling systems to issue instructions, manage emergencies, and optimize traffic flow.
+Train dispatchers monitor and coordinate train operations to ensure safe, punctual, and efficient railway network operation. They issue instructions using communication and signal systems, handle emergencies, and optimize train flow.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业培训证书 | 6个月 | $3,000~$8,000（TAFE或培训机构提供的铁路运营证书） |
-| 在职培训 | 1-2年 | —（雇主提供带薪培训） |
+| Vocational training certificate | 6 months. | $3,000~$8,000 (Rail operations certificate from TAFE or training provider) |
+| On-the-job training | 1-2 years | $0~$5,000 (Employer-provided paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 铁路运营四级证书 | TAFE Queensland or equivalent | 必备 | 核心资质，涵盖信号系统、运营程序和安全规程 |
-| 无线电操作员证书 | Australian Communications and Media Authority (ACMA) | 必备 | 用于合法操作铁路通信设备 |
-| 铁路安全认证 | Rail industry operator (e.g., Sydney Trains) | 必备 | 雇主提供的安全培训和认证 |
+| Certificate IV in Rail Operations | TAFE Queensland or equivalent | Required | Core qualification, covering signal systems, operating procedures and safety regulations |
+| Radio operator certificate | Australian Communications and Media Authority (ACMA) | Required | Used for legally operating railway communication equipment |
+| Rail safety certification | Rail industry operator (e.g., Sydney Trains) | Required | Safety training and certification provided by the employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,200。随着澳洲铁路基础设施投资扩大（如城市轨道交通和货运线路），对列车调度员的需求稳定增长。该职业受自动化影响有限，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 4,200. With the expansion of Australian railway infrastructure investments (e.g., urban rail transit and freight lines), demand for train dispatchers is steadily growing. This occupation has limited exposure to automation, ensuring good employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 培训期或入门级调度员 |
-| 中级（3-7年） | $85,000~$105,000 | 独立负责调度，可能轮班 |
-| 高级（7年以上） | $110,000~$135,000 | 资深调度员或团队领导，含加班津贴 |
+| Median salary | $104,988 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Trainee or entry-level scheduler |
+| Mid-level (3–7 years) | $85,000~$105,000 | Independently responsible for scheduling, may require shift work |
+| Senior (7+ years) | $110,000~$135,000 | Senior scheduler or team leader, including overtime allowance |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级调度员可晋升为高级调度员或值班经理，也可转向运营管理、安全或规划岗位。考取铁路运营相关证书和积累经验是关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Junior dispatchers can advance to senior dispatcher or shift manager, or move into operations management, safety, or planning roles. Obtaining railway operations certificates and accumulating experience is key.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Rail network expansion
 - Urban transit projects
@@ -64,65 +98,67 @@ Train controllers monitor and coordinate train movements to ensure safe, punctua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需雇主证明无法本地招聘 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需满足技能和英语要求 |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires employer to demonstrate inability to recruit locally |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa, requiring skills and English proficiency. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Train Controller？**
-- 适合能承受压力、决策迅速、注重安全细节的人
-- 适合喜欢稳定工作环境、适应轮班制度的人
-- 适合对铁路运营感兴趣、善于使用通信技术的人
+**Who is suited**
+- Suitable for people who can handle pressure, make quick decisions, and pay attention to safety details.
+- Suitable for those who like a stable work environment and adapt to shift systems
+- Suitable for those interested in railway operations and skilled in using communication technology
 
-**谁不适合学Train Controller？**
-- 不适合无法应对紧急情况或高度紧张环境的人
-- 不适合不愿轮班或长期在控制室工作的人
+**Who is not suited**
+- Not suitable for those who cannot handle emergencies or high-stress environments
+- Not suitable for those unwilling to work shifts or long hours in a control room
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a train dispatcher?**
+A: Junior annual salary approx AUD $65,000-80,000, mid-level $85,000-105,000, senior up to $110,000-135,000, including overtime allowances.
+
+**Q: Can a train controller migrate to Australia through skilled migration?**
+A: This occupation is not on the skilled occupation list, limiting skilled migration pathways, but may be possible through employer sponsorship (482/186) or DAMA.
+
+**Q: Is the work pressure high?**
+A: Work pressure is high, requiring real-time monitoring and handling of delays and emergencies; shift work may also disrupt daily routines.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Train Controller属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a train controller?**
-答：Entry-level salary is around AUD 65,000-80,000, mid-level AUD 85,000-105,000, and senior AUD 110,000-135,000 including overtime.
-
-**问：Can a train controller migrate to Australia through skilled migration?**
-答：This occupation is not on the skilled occupation list, but employer-sponsored visas (482/186) or DAMA may be possible.
-
-**问：Is the job stressful?**
-答：Yes, it requires real-time monitoring, handling delays and emergencies, and shift work can disrupt routine.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Mining Supervisor（Mining Supervisor）职业分析 · IE
+# Mining Supervisor — career analysis · Ireland
 
-**职业代码：3121 – Mining Supervisor。**
+**Occupation code: 3121 (ISCO08)**
 
-Oversees mining operations, ensuring safety, efficiency, and regulatory compliance, managing mining teams and equipment.
+Supervise mining operations to ensure safety, efficiency and regulatory compliance, manage mining teams and equipment operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 2年（学徒制或职教证书） | —（部分课程免费或低费） |
-| 高等教育文凭 | 3年（高等证书） | $10,000~$15,000（年学费） |
+| High school graduation | 2 years (apprenticeship or vocational qualification) | $0~$2,000 (Some courses are free or low-cost) |
+| Higher education diploma | 3 years (Advanced Diploma) | $10,000~$15,000 (Annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采矿工程文凭 | 爱尔兰技术大学 | 可选 | 相关学历 |
-| 急救证书 | 安全机构 | 必备 | 多数雇主要求 |
-| 重型设备操作证 | FÁS/SOLAS | 可选 | 部分岗位要求 |
+| First aid certificate | Safety authority | Required | Most employers require |
+| Diploma of Mining Engineering | Technological University Dublin | Optional | Related qualification |
+| Heavy equipment operator license | FÁS/SOLAS | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。爱尔兰矿业就业稳定，受全球大宗商品需求和国内基础设施项目影响。预计未来几年保持平稳增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Mining employment in Ireland is stable, influenced by global commodity demand and domestic infrastructure projects. Steady growth is expected in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（4-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（8年以上） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从采矿操作员晋升为主管，再晋升为采矿经理或区域运营经理。需积累经验和相关资格。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+About 40% of mining supervisor duties can be optimized by AI but not fully replaced; safety oversight and team management remain core defenses, with mixed implications.
+
+You can progress from mining operator to supervisor, then to mining manager or regional operations manager. Requires experience and relevant qualifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate daily production reports and compliance documents
+- Automatic equipment fault alerts based on IoT data
+- AI-optimized blasting design and mining path planning
+- Automated inventory management and supply chain scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted real-time security risk analysis and decision recommendations.
+- Digital twin simulations improve the efficiency of emergency drills.
+- Automatically monitor mineral quality and adjust beneficiation processes
+- Intelligent scheduling systems improve team collaboration efficiency
+- AR remote expert support for complex fault diagnosis
+
+**Human moat:**
+
+- Emergency incident command and team trust
+- Cross-occupation communication coordination and conflict resolution
+- Intuitive judgment on mining site uncertainties
+- Regulatory compliance judgment and ethical responsibility
+- training new employees and passing on tacit knowledge
+
+**Skills to build:**
+
+- AI and IoT Data Analysis Fundamentals
+- Digital twin and simulation software operation
+- Use and maintenance of automated scheduling systems
+- Cross-cultural Leadership and Change Management
+- Cybersecurity and data privacy fundamentals
+- Sustainable mining and environmental management
+
+**Key growth areas:**
 
 - Sustainable Mining
 - Automation
@@ -62,67 +97,66 @@ Oversees mining operations, ensuring safety, efficiency, and regulatory complian
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺技能职业，年薪需达到64,000欧元以上或有相关学位。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary threshold of approximately €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to skilled occupations in shortage; annual salary must reach €64,000+ or hold a relevant degree. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Supervisor？**
-- 有领导能力的人
-- 适应户外和体力工作的人
-- 注重安全规范的人
-
-**谁不适合学Mining Supervisor？**
-- 不喜欢体力劳动的人
-- 不适应轮班工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with leadership skills
+- People suited for outdoor and physical work
+- People who prioritise safety compliance
+
+**Who is not suited**
+- People who dislike physical labor.
+- People who cannot adapt to shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mining supervisors?**
+A: Junior annual salary about €35,000–45,000, senior up to €60,000–80,000.
+
+**Q: What visa is needed to immigrate to Ireland?**
+A: Immigration is possible through a General Employment Permit or Critical Skills Employment Permit, requiring employer sponsorship.
+
+**Q: How to advance to a mining supervisor role?**
+A: Usually start as mining operators, gain experience, and obtain relevant certifications before promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mining Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Mining Supervisor?**
-答：Entry-level salary is around €35,000-€45,000 per year, while senior roles can reach €60,000-€80,000.
-
-**问：What visa is needed to migrate to Ireland?**
-答：You can apply for a General Employment Permit or Critical Skills Employment Permit, requiring employer sponsorship.
-
-**问：How to become a Mining Supervisor?**
-答：Typically start as a mining operator, gain experience and obtain relevant certifications to advance.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

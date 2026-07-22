@@ -1,60 +1,93 @@
-# Traditional and Complementary Medicine Associate Professional（Traditional and Complementary Medicine Associate Professional）职业分析 · IE
+# Traditional and Complementary Medicine Associate Professional — career analysis · Ireland
 
-**职业代码：3230 – Traditional and Complementary Medicine Associate Professional。**
+**Occupation code: 3230 (ISCO08)**
 
-In Ireland, traditional and complementary medicine associate professionals assist practitioners in providing acupuncture, herbal medicine, and other non-mainstream healthcare services, primarily in private clinics and wellness centers.
+In Ireland, traditional and complementary medicine associate professionals assist practitioners in providing non-mainstream medical services such as acupuncture and herbal medicine, primarily working in private clinics and health centers.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级文凭/本科 | 3年 | $10,000~$20,000（每年学费，部分课程需额外材料费） |
-| 硕士 | 1-2年 | $12,000~$25,000（每年学费，研究型课程可能更高） |
+| Advanced Diploma/Bachelor's degree | 3 years | $10,000~$20,000 (Annual tuition fees, some courses require additional material fees) |
+| Master's degree | 1-2 years | $12,000~$25,000 (Annual tuition fees, may be higher for research-based courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰补充医学协会认证 | Irish Association of Complementary Medicine | 可选 | 行业自愿认证，增强雇主信任 |
-| 专业实践保险 | 多家保险公司 | 必备 | 执业必需，保障责任 |
+| Professional Indemnity Insurance | Multiple insurance companies | Required | Mandatory for practice, ensures liability. |
+| Irish Complementary Medicine Association certification | Irish Association of Complementary Medicine | Optional | Industry voluntary certification to enhance employer trust |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 500。随着公众对替代疗法兴趣增加，该职业需求稳步增长，但受限于正规医疗系统认可度较低，就业机会集中在私营领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 500. Demand for this occupation is steadily growing as public interest in alternative therapies increases, but employment opportunities are concentrated in the private sector due to lower recognition within the formal healthcare system.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，通常为兼职或按小时计费 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪，全职且有一定客户群 |
-| 高级（7年以上） | $50,000~$80,000 | 税前年薪，自主执业或知名诊所 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary, typically for part-time or hourly work |
+| Mid-level (3–7 years) | $35,000~$50,000 | Pre-tax annual salary, full-time with a certain client base |
+| Senior (7+ years) | $50,000~$80,000 | Pre-tax annual salary, self-employed or at a well-known clinic |
+| average salary | $45,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，通常通过积累经验和进修获得更高级认证，少数可转向自主执业或教学培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some tasks of traditional and complementary medicine assistant professionals are easily automated by AI (such as case records and information retrieval), but core diagnosis and treatment rely on patient trust and personalized palpation. AI serves more as a supplementary tool to enhance non-invasive assessment and knowledge management.
+
+Career advancement paths are limited; usually, higher-level certifications are obtained through accumulated experience and further study, with a few transitioning to independent practice or teaching/training.
+
+**Tasks most exposed to AI:**
+
+- Electronic recording and organization of patient history and symptoms
+- Database-based query for herbal compatibility and contraindications
+- Automatic generation of basic health assessment reports
+- Automation of appointment management and reminders
+
+**Where AI augments the role:**
+
+- AI-assisted pulse diagnosis or tongue image analysis for reference.
+- Use natural language processing to retrieve latest complementary medicine research literature
+- Virtual training for acupuncture or tuina techniques via AI simulator
+- Personalized health recommendations based on patient data
+
+**Human moat:**
+
+- Requires the intuition and fine adjustments of human palpation and manual therapy
+- Building trust and empathetic communication with patients
+- Comprehensive assessment of complex symptoms and ethical decision-making.
+- Understanding of traditional culture and creation of individualized treatment plans
+
+**Skills to build:**
+
+- Basic data analysis and AI tools (e.g., symptom analysis software)
+- Digital health record management
+- Evidence-based medicine updates on herbal medicines and dietary supplements
+- Patient Communication and Health Coaching Technology
+- Operating telemedicine platforms
+- Interdisciplinary collaboration (e.g., with Western medicine doctors, nutritionists)
+
+**Key growth areas:**
 
 - Alternative Medicine
 - Wellness Tourism
@@ -63,65 +96,67 @@ In Ireland, traditional and complementary medicine associate professionals assis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪门槛约33,000欧元，但该职业通常不符合条件。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, with an annual salary of no less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual salary threshold of approximately €33,000, but this occupation usually does not meet the criteria. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Traditional and Complementary Medicine Associate Professional？**
-- 对替代医学有热情的人
-- 注重工作生活平衡的从业者
-- 自主创业倾向者
+**Who is suited**
+- People passionate about alternative medicine
+- Practitioners who prioritize work-life balance
+- Entrepreneurial inclination
 
-**谁不适合学Traditional and Complementary Medicine Associate Professional？**
-- 追求高薪和稳定职业的人
-- 偏好主流医疗体系者
+**Who is not suited**
+- Those seeking high salary and stable careers.
+- Those who prefer mainstream healthcare systems
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for traditional and complementary medicine assistant professionals in Ireland?**
+A: Entry-level annual salary approximately €25,000-35,000, mid-level €35,000-50,000, senior up to €80,000, but mostly part-time or self-employed.
+
+**Q: How can foreigners immigrate to Ireland through this occupation?**
+A: This occupation is not on the skills shortage list; immigration requires a General Employment Permit with employer sponsorship and an annual salary of at least €30,000.
+
+**Q: What are the necessary certifications to practice in Ireland?**
+A: Although not mandatory, registration with the Irish Association of Complementary Medicine and obtaining professional practice insurance is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Traditional and Complementary Medicine Associate Professional属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for traditional and complementary medicine associate professionals in Ireland?**
-答：Entry-level annual salary ranges from €25,000 to €35,000, mid-level €35,000 to €50,000, and senior up to €80,000, though many work part-time or self-employed.
-
-**问：How can foreigners immigrate to Ireland through this occupation?**
-答：This occupation is not on the critical skills list; immigration requires a General Employment Permit with employer sponsorship and a salary of at least €30,000 per year.
-
-**问：What certifications are required to practice in Ireland?**
-答：While no mandatory registration exists, obtaining certification from the Irish Association of Complementary Medicine and professional indemnity insurance is recommended.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

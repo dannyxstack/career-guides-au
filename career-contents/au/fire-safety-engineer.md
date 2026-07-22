@@ -1,66 +1,95 @@
-# 消防安全工程师（Fire Safety Engineer）职业分析 · 澳大利亚
+# Fire Safety Engineer — career analysis · Australia
 
-**职业代码：233916 – Fire Safety Engineer。**
+**Occupation code: 233916 (ANZSCO)**
 
-消防安全工程师运用工程原理设计建筑物防火系统、制定疏散方案并进行火灾风险评估。澳洲建筑规范持续严格化，加之高密度住宅、数据中心和隧道项目增多，消防安全工程师需求持续走强，是极度紧缺的专业工程师之一。
+Fire safety engineers apply engineering principles to design fire protection systems for buildings, develop evacuation plans, and conduct fire risk assessments. With Australia's building codes becoming increasingly stringent, and a growing number of high-density residential, data centre, and tunnel projects, demand for fire safety engineers continues to rise — making them one of the most critically in-demand specialist engineers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Fire Safety/Mechanical/Civil Engineering | 4年 | $32,000~$55,000（国际生约$160k总费） |
-| Graduate Certificate in Fire Safety Engineering | 6~12个月 | $15,000~$30,000（可在职进修） |
-| SFPE Membership / AFSET Registration | 视经验而定 | $500~$3,000（专业执照） |
+| Bachelor of Fire Safety/Mechanical/Civil Engineering | 4 years | $32,000~$55,000 (Approximately $160k total cost for international students) |
+| Graduate Certificate in Fire Safety Engineering | 6–12 months | $15,000~$30,000 (Available via part-time study while working) |
+| SFPE Membership / AFSET Registration | Depending on experience | $500~$3,000 (Professional licence) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Engineering (Fire/Civil/Mechanical) | 认可大学 | 必备 | 入行基础 |
-| MIEAust / CPEng | Engineers Australia | 可选 | 专业执照 |
-| SFPE Member / AFSET Registration | SFPE / 各州消防局 | 可选 | 行业权威认证 |
+| Bachelor of Engineering (Fire/Civil/Mechanical) | Recognised university | Required | Foundation for entering the industry |
+| MIEAust / CPEng | Engineers Australia | Optional | Professional licence |
+| SFPE Member / AFSET Registration | SFPE / State Fire Authorities | Optional | Industry authority certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 3,500。澳洲各州强化《建筑规范》（NCC/BCA）合规审查，2025-2030年高层住宅和大型公共建筑消防性能化设计需求旺盛。新兴的储能系统（锂电池）消防安全标准推动专业需求进一步上升。
+**Job demand: very high (★★★★★).** National workforce approx. 3,500. Australian states are strengthening compliance reviews under the National Construction Code (NCC/BCA), with strong demand for performance-based fire safety design in high-rise residential and large public buildings from 2025 to 2030. Emerging fire safety standards for energy storage systems (lithium batteries) are further driving demand for specialists.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 60~120 个 | 2025年均值 |
-| Indeed | 30~70 个 | 2025年均值 |
-| LinkedIn | 50~100 个 | 2025年均值 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $78,000~$100,000 | Graduate Fire Engineer |
-| 中级（3-8年） | $105,000~$145,000 | Fire Safety Engineer |
-| 高级（8年+） | $150,000~$210,000 | Principal Fire Engineer |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $78,000~$100,000 | Graduate Fire Engineer |
+| Mid-level (3–8 years) | $105,000~$145,000 | Fire Safety Engineer |
+| Senior (8+ years) | $150,000~$210,000 | Principal Fire Engineer |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 性能化消防设计（Performance-Based Fire Engineering）替代传统处方式方法成主流，FDS等火焰模拟软件是标配工具。SFPE认证和澳洲消防工程师协会（AFAC/AFSET）资质日益受重视。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-enhanced profession: AI tools will significantly improve the efficiency of fire simulation, code review, and report generation, but core design decisions and compliance responsibilities still rely on human engineers.
+
+Performance-Based Fire Engineering is replacing traditional prescriptive approaches as the mainstream method, with flame simulation software such as FDS becoming standard tools. SFPE certification and qualifications from the Australasian fire engineering bodies (AFAC/AFSET) are increasingly valued.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard fire system preliminary design drawings (sprinklers, alarms)
+- AI-based fire simulation software for automated parametric scenario analysis
+- Automatically review designs for compliance with Australian Building Code (NCC) and flag deviations
+- Automatically generate first drafts of fire risk assessment reports in standard format
+
+**Where AI augments the role:**
+
+- Use AI for multivariate fire dynamic simulation to quickly optimize evacuation plans.
+- AI-assisted review of fire compartmentation strategies for complex buildings (e.g. hospitals, data centres)
+- Improving risk assessment accuracy by analyzing historical fire data through machine learning
+- AI tools automatically generate compliance checklists, reducing manual verification time
+- Integrating BIM and AI for real-time collision detection between building design and fire systems
+
+**Human moat:**
+
+- Engineering judgment in innovative fire protection system design (e.g., new materials, structures)
+- Deep understanding and comprehensive decision-making on building purpose, personnel characteristics, and operating conditions
+- Qualification requirements to assume legal and professional responsibility and sign compliance certification documents
+- Cross-disciplinary coordination and communication with architects, structural engineers, and clients
+- Creative solution design for rare or unconventional fire scenarios
+
+**Skills to build:**
+
+- AI fire simulation tools (e.g., FDS integrated with machine learning plugins)
+- Automated compliance review software (e.g. AI-NCC Checker)
+- BIM and AI integration (Autodesk Revit + Dynamo + AI plugins)
+- Data-driven risk assessment methods (Python/R basics + fire databases)
+- Advanced Application of Performance-Based Fire Design
+- Cross-domain AI collaboration: designing integration of fire alarm systems with smart building AI
+
+**Key growth areas:**
 
 - High-Rise Residential Compliance
 - Data Centre Fire Safety
@@ -69,66 +98,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，工程紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, engineering shortage |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：较易（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学消防安全工程师？**
-- 有机械/土木工程背景并对消防安全感兴趣者
-- 希望从事高价值专业咨询工作者
-- 喜欢结合法规与工程设计的工作者
-
-**谁不适合学消防安全工程师？**
-- 不愿深入研究建筑规范者
-- 偏好大批量重复性工作者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a mechanical/civil engineering background who are interested in fire safety
+- Those wishing to engage in high-value professional consulting work
+- Likes combining regulations and engineering design work
+
+**Who is not suited**
+- Those unwilling to thoroughly study building codes
+- Prefers high-volume, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a fire safety engineer in Australia?**
+A: Junior approx. AUD 78,000-100,000, mid-level 105,000-145,000, senior/principal engineer up to 150,000-210,000, one of the highest salary premiums in engineering.
+
+**Q: Is it easy to find work as a fire safety engineer in Australia?**
+A: Extremely few practitioners nationwide, in a state of critical shortage, with stable recruitment demand from major construction consulting firms and government agencies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 233916 消防安全工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较难（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较易（★★☆☆☆） |
-
-消防安全工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：消防安全工程师澳洲薪资如何？**
-答：初级约AUD 7.8万~10万，中级10.5万~14.5万，主任/高级工程师可达15万~21万，是工程行业薪资溢价最高的专业之一。
-
-**问：澳洲消防安全工程师好找工作吗？**
-答：全澳从业者极少，处于极度紧缺状态，大型建筑咨询公司和政府机构均有稳定招聘需求。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

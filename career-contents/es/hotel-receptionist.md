@@ -1,60 +1,96 @@
-# Hotel Receptionist（Hotel Receptionist）职业分析 · ES
+# Hotel Receptionist — career analysis · Spain
 
-**职业代码：4422 – Hotel Receptionist。**
+**Occupation code: 4422 (CNO)**
 
-Hotel receptionists are the face of hospitality, managing check-in/out, reservations, guest inquiries, and administrative tasks. Requires strong communication, multitasking, and basic English.
+The hotel front desk receptionist is the core of hotel guest service, responsible for check-in and check-out, booking management, customer inquiries, and administrative matters. This position requires good communication skills, multitasking abilities, and basic English proficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $300~$1,000（公立FP学费低，约300-600欧元/年；私立约1000欧元） |
-| 高级职业教育（FP Grado Superior） | 2年 | $400~$1,500（公立约400-800欧元/年；私立约1500欧元；可获旅游管理高级技术员） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学约1000-2000欧元/年；私立约4000欧元；如旅游或酒店管理学位） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $300~$1,000 (Public FP tuition is low, about 300-600 euros per year; Private ones cost about 1000 euros) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $400~$1,500 (Public fees about 400-800 euros per year; Private about 1500 euros; Eligible for Senior Tourism Management Technician) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public universities: approximately €1,000-2,000 per year; private: around €4,000; e.g. tourism or hospitality management degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 旅游或酒店管理学位/文凭 | 西班牙大学或FP学校 | 可选 | 虽非强制，但可显著提升竞争力 |
-| 外语能力证明（如B2英语） | 语言学校或官方考试 | 可选 | 多数酒店要求英语，其他语言加分 |
-| 急救与安全培训 | 红十字会或认证机构 | 可选 | 部分酒店要求 |
+| Degree/diploma in tourism or hotel management | Spanish universities or FP schools | Optional | Although not mandatory, it can significantly enhance competitiveness |
+| Proof of foreign language proficiency (such as B2 English) | Language schools or official exams | Optional | Most hotels require English, with extra points for other languages |
+| First aid and safety training | Red Cross or certification bodies | Optional | Some hotels require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。西班牙旅游业复苏强劲，2025年酒店业预计增长3-5%。但该职位竞争激烈，数字化自助服务可能减少部分需求。季节性旅游地区（如巴塞罗那、马略卡）机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Spain's tourism industry is recovering strongly, with the hotel sector expected to grow by 3-5% by 2025. However, the position is highly competitive, and digital self-service may reduce some of the demand. Seasonal tourist destinations (such as Barcelona and Mallorca) offer more opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，包括部分奖金 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上/主管级） | $26,000~$32,000 | 税前年薪，通常含福利 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, including some bonuses |
+| Mid-level (3–7 years) | $20,000~$26,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7 years or more / Supervisor level) | $26,000~$32,000 | Pre-tax annual salary, usually including benefits |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级前台可晋升为前台主管（约2-3年），再升至前台经理或客房部经理。也可横向转入预订部、客服中心或会展管理。语言能力（英/德/法语）是晋升关键。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Junior front desk staff can be promoted to front desk supervisor (about 2-3 years), then to front desk manager or housekeeping manager. You can also transfer horizontally to the reservation department, customer service center, or exhibition management. Language proficiency (English/German/French) is key to promotion.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Tourism Recovery
 - Digital Check-in
@@ -63,68 +99,67 @@ Hotel receptionists are the face of hospitality, managing check-in/out, reservat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需西班牙公司提供工作合同，并证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 高技能专业人才签证（Ley 14/2013），适用于年薪约需达35,000欧元以上的岗位，但前台通常不满足。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适用于高等教育+高薪职位（年薪约34,000欧元），接待员一般不符合。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employment-based work residence, a Spanish company must provide a work contract and prove that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | The Highly Skilled Professional Visa (Ley 14/2013) is suitable for positions with an annual salary of approximately 35,000 euros or more, but the front desk usually does not meet this requirement. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card applies to higher education + high-paying positions (annual salary about 34,000 euros), and receptionists generally do not qualify. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel Receptionist？**
-- 擅长人际沟通、服务意识强的求职者
-- 具备基础外语能力（英/德/法语）者
-- 喜欢快节奏、多任务环境，适应轮班制
-
-**谁不适合学Hotel Receptionist？**
-- 不喜夜班、周末工作的人
-- 追求高薪或快速晋升者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Candidates skilled in interpersonal communication and with a strong sense of service
+- Possess basic foreign language skills (English/German/French).
+- They enjoy fast-paced, multitasking environments and adapt to shift work
+
+**Who is not suited**
+- People who dislike night shifts or weekend jobs
+- Those seeking high salaries or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for hotel front desk staff in Spain?**
+A: Entry-level approx. €18,000/year pre-tax, mid-level approx. €23,000, supervisor level up to €30,000. Usually includes free or low-cost accommodation, language training and other benefits.
+
+**Q: How can foreigners immigrate to Spain through hotel front desk work?**
+A: Usually, a company-sponsored work residence permit (Cuenta ajena) is required, proving that the position cannot be filled by a local resident. Because these non-scarce occupations offer lower wages, the success rate is lower.
+
+**Q: What are the promotion paths for hotel front desks?**
+A: Promotions can be made to Front Desk Supervisor, Front Desk Manager, Housekeeping Manager, or Reservations Manager. It can also be expanded into exhibition planning, customer relationship management, and other fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Hotel Receptionist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a hotel receptionist in Spain?**
-答：Junior entry-level: around €18,000; mid-level: €23,000; supervisor level: up to €30,000 gross annually. Benefits may include free/cheap meals and accommodation.
-
-**问：How can foreigners migrate to Spain as a hotel receptionist?**
-答：You need a company-sponsored work permit (Cuenta ajena). Since the role is not a shortage occupation and salary is low, the success rate is low.
-
-**问：What are the career progression paths for a hotel receptionist?**
-答：Can advance to front desk supervisor, front office manager, reservations manager, or move to events planning and customer relations.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

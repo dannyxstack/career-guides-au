@@ -1,58 +1,91 @@
-# Product and Industrial Designer（Product and Industrial Designer）职业分析 · DE
+# Product and Industrial Designer — career analysis · Germany
 
-**职业代码：9310 – Product and Industrial Designer。**
+**Occupation code: 9310 (KldB)**
 
-Product and industrial designers develop the appearance, function, and user experience of manufactured products, blending art and engineering for industries like furniture, electronics, and automotive.
+Product and industrial designers develop and design the appearance, function, and user experience of industrial products, blending art and engineering for industries like furniture, electronics, and automotive.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（公立大学每学期注册费约150-500欧元） |
-| 硕士 | 2-3年 | —（部分硕士项目免学费） |
+| Bachelor's degree | 3-4 years | $0~$5,000 (Registration fees at public universities about 150-500 euros per semester) |
+| Master's degree | 2-3 years | $0~$5,000 (Some master's programs are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 产品设计学士/硕士学位 | 德国应用科学大学或艺术学院 | 必备 | 多数企业要求设计相关学历 |
-| 作品集 | 个人 | 可选 | 求职关键，展示设计能力 |
+| Bachelor's/Master's degree in Product Design | German University of Applied Sciences or Art College | Required | Most companies require a design-related degree |
+| Portfolio | Personal | Optional | Key for job applications, demonstrates design ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。德国工业设计就业稳定，制造业和初创公司需求持续，特别是在可持续设计和数字产品领域。数字经济推动UI/UX设计师需求增长。但竞争激烈，机会集中于大公司和设计咨询机构。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. German industrial design offers stable employment, with continuous demand from manufacturing and startups, especially in sustainable design and digital products. The digital economy drives demand for UI/UX designers. However, competition is fierce, and opportunities are concentrated in large companies and design consultancies.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 年薪，税前 |
-| 中级（4-7年） | $42,000~$55,000 | 年薪，税前 |
-| 高级（8年以上） | $55,000~$75,000 | 年薪，税前 |
+| Median salary | $69,132 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual salary, pre-tax |
+| Mid-level (4-7 years) | $42,000~$55,000 | Annual salary, pre-tax |
+| Senior (8+ years) | $55,000~$75,000 | Annual salary, pre-tax |
+| average salary | $71,604 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可晋升为设计主管、创意总监或设计经理，也可转型为UX/UI设计师或自主创业。资深设计师可担任项目负责人或进入设计咨询高层。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Product and industrial design roles will be deeply reshaped by AI: routine modelling and layout tasks are automated, but creative concepts, user research, and interdisciplinary integration skills become more critical.
+
+Can progress to design director, creative director, or design manager; also can transition to UX/UI designer or start own business. Senior designers can serve as project leads or enter design consulting senior roles.
+
+**Tasks most exposed to AI:**
+
+- Quickly generate product concept sketches and multiple design renderings
+- Automatic layout and size optimization (based on parametric rules)
+- Basic ergonomic simulation and adaptability testing
+- Extract design trend reports from historical data
+
+**Where AI augments the role:**
+
+- Using generative AI for creative ideation and rapid prototype iteration
+- Analyse user behaviour and product interaction through AI simulation
+- Automatically generate BOMs and production documents, shortening development cycles
+- Data-driven design improvements based on user feedback
+
+**Human moat:**
+
+- Define product core value and user needs insights
+- Cross-disciplinary collaboration (engineering, marketing, manufacturing) decisions
+- Brand aesthetics and emotional design judgment
+- Creative problem-solving for ambiguous requirements and complex constraints
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Midjourney, generative design software)
+- Data-driven user research methods (e.g., heatmaps, A/B testing)
+- Human-computer interaction and UX prototype design.
+- Sustainable design and life cycle assessment
+- Agile development and interdisciplinary communication
+- 3D printing and rapid prototyping technology.
+
+**Key growth areas:**
 
 - Sustainability Design
 - User Experience (UX)
@@ -61,68 +94,67 @@ Product and industrial designers develop the appearance, function, and user expe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于有德国认可学历且年薪超过阈值的非欧盟申请人，2024年阈值约43,800欧元（紧缺职业）。 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 适用于具有德国认可学历并获得工作合同的非欧盟技术工人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许在德国寻找工作，需具备职业资格或工作经验。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU applicants with a recognized German degree and salary above the threshold, approximately €43,800 in 2024 (for shortage occupations). |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to non-EU skilled workers with a recognized German qualification and a job offer. |
+| Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on a points system, allowing job search in Germany; requires professional qualifications or work experience. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product and Industrial Designer？**
-- 具备创造力和艺术天赋的人
-- 注重产品用户体验的人
-- 对工业制造和材料工艺感兴趣的人
-
-**谁不适合学Product and Industrial Designer？**
-- 偏好稳定、重复性工作的人
-- 不喜欢不断学习新设计软件的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and artistic talent
+- People who focus on product user experience
+- Those interested in industrial manufacturing and materials processes
+
+**Who is not suited**
+- People who prefer stable, repetitive work
+- People who dislike constantly learning new design software
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a product designer in Germany?**
+A: Entry-level annual salary approximately €32,000–40,000, mid-level €42,000–55,000, senior can exceed €75,000.
+
+**Q: How can foreign product designers immigrate to Germany?**
+A: Possible via EU Blue Card (subject to salary threshold), skilled migration work permit, or opportunity card. All require German-recognized qualifications or credential recognition.
+
+**Q: What educational background is needed to become a product designer?**
+A: Typically requires a bachelor's or master's degree in product design or industrial design, offered by German universities of applied sciences and art schools.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Product and Industrial Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for product designers in Germany?**
-答：Entry-level salary is around 32,000-40,000 EUR, mid-level 42,000-55,000 EUR, and senior can exceed 75,000 EUR annually.
-
-**问：How can foreign product designers immigrate to Germany?**
-答：Via EU Blue Card (salary threshold), skilled work permit, or Opportunity Card. A recognized degree or credential evaluation is required.
-
-**问：What education is needed to become a product designer?**
-答：A bachelor's or master's degree in product design or industrial design is typically required, offered by German universities of applied sciences and art schools.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

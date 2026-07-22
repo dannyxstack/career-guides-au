@@ -1,59 +1,92 @@
-# Dietitians and nutritionists（Dietitians and nutritionists）职业分析 · 加拿大
+# Dietitians and nutritionists — career analysis · Canada
 
-**职业代码：31121 – Dietitians and nutritionists。**
+**Occupation code: 31121 (NOC)**
 
-Dietitians in Canada provide clinical nutrition assessment, dietary planning, and disease management in hospitals, long-term care, community health, and private practice. This healthcare support profession is eligible for Federal Skilled Worker (FSW) and Provincial Nominee Programs (PNP) with stable job prospects.
+Dietitians in Canada provide clinical nutrition assessments, dietary plans, and disease nutrition management, serving hospitals, long-term care facilities, community health centers, and private clinics. As allied health professionals, they can apply through Federal Skilled Worker (FSW) and Provincial Nominee Program (PNP), with stable employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$120,000（加拿大本科国际生学费） |
-| 实习/实习培养 | 1年 | $10,000~$20,000（实习期间费用（部分带薪）） |
+| Bachelor's degree | 4 years | $80,000~$120,000 (Tuition fees for international undergraduate students in Canada) |
+| Internship/practical training | 1 year | $10,000~$20,000 (Costs during internship (some paid).) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证 (ECA) | WES/ICES等 | 必备 | 海外学历需ECA用于移民申请 |
-| 省营养师执照 | 各省营养师监管机构（如CDBC、CDO） | 必备 | 必须在执业所在省注册，通常需通过Canadian Dietetic Registration Exam (CDRE) |
-| 语言考试 | IELTS/CELPIP/TEF | 必备 | 移民需CLB 7（听力/口语/阅读/写作），执照通常要求更高 |
+| Educational Credential Assessment (ECA) | WES/ICES etc. | Required | Overseas qualifications require ECA for immigration applications |
+| Provincial dietitian license | Provincial dietitian regulatory bodies (e.g., CDBC, CDO) | Required | Must register in the province of practice, usually by passing the Canadian Dietetic Registration Exam (CDRE) |
+| Language test | IELTS/CELPIP/TEF | Required | Immigration requires CLB 7 (listening/speaking/reading/writing); license usually requires higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大老龄化加剧，医院、养老院及社区健康服务对营养师需求持续上升。BC省、安省和魁省就业机会最多，预计未来十年岗位增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada's aging population is increasing demand for dietitians in hospitals, nursing homes, and community health services. BC, Ontario, and Quebec offer the most job opportunities, with an estimated 10% growth over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 医院或社区机构入门级 |
-| 中级（3-7年） | $70,000~$90,000 | 主管或糖尿病教育者 |
-| 高级（7年以上） | $90,000~$110,000 | 临床经理或私人顾问 |
+| Median salary | $86,590 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level at hospitals or community institutions. |
+| Mid-level (3–7 years) | $70,000~$90,000 | Supervisor or diabetes educator |
+| Senior (7+ years) | $90,000~$110,000 | Clinical Manager or Private Consultant |
+| average salary | $83,200 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级营养师可晋升为临床营养主管、糖尿病教育者或公共卫生营养师。资深者可转型为营养咨询公司创始人或大学研究员，收入随经验和认证提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dietitians face mixed AI impact: routine diet plans and nutritional assessments are easily automated, but clinical decision-making, behavior change guidance and other high-level services require human empathy and experience, providing a deeper moat.
+
+Junior nutritionists can advance to clinical nutrition manager, diabetes educator, or public health nutritionist. Senior practitioners can transition to nutrition consulting firm founder or university researcher, with income increasing with experience and certification.
+
+**Tasks most exposed to AI:**
+
+- Generating individualized dietary plans based on standard guidelines
+- Nutrition calculation and recipe nutrition analysis
+- Automated patient diet recording and anomaly alerts
+- Routine nutrition screening and risk assessment reports
+
+**Where AI augments the role:**
+
+- Use AI to analyze the correlation between dietary patterns and health data
+- Provides personalized recipe plans via AI recommendation system
+- Using natural language processing tools to automatically generate nutrition education materials
+- Remote patient monitoring and follow-up with AI assistance
+
+**Human moat:**
+
+- Face-to-face dietary behavior counseling and motivational interviewing
+- Nutritional support plan formulation for complex diseases (e.g., kidney failure, ICU patients)
+- Clinical decision-making and ethical responsibility in multidisciplinary teams
+- Cultural sensitivity and individualized psychological guidance.
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python/R for nutrition big data)
+- Electronic Health Records (EHR) and smart nutrition software operation
+- Application of remote health monitoring and digital therapy platforms
+- Cross-cultural communication and behavior change guidance skills
+- Clinical research design and evidence-based nutrition updates
+- AI Ethics and Privacy Protection Knowledge
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare expansion
@@ -62,68 +95,67 @@ Dietitians in Canada provide clinical nutrition assessment, dietary planning, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass FSW（Federal Skilled Worker） | 满足CRS分数要求，通过Express Entry申请，适合有工作经验和学历的海外申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名，如安省、BC省、阿省，通常需要雇主offer或相关工作经验 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有该地区雇主offer的申请人 |
+| Subclass FSW (Federal Skilled Worker) | Meets CRS score requirements, apply through Express Entry, suitable for overseas applicants with work experience and education |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations, such as Ontario, BC, Alberta; usually require employer offer or relevant work experience |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer from an employer in that region |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitians and nutritionists？**
-- 具有临床营养或相关本科学历者
-- 有耐心、沟通能力强的医疗从业者
-- 愿意在偏远省份通过PNP移民的申请人
-
-**谁不适合学Dietitians and nutritionists？**
-- 不愿意进行学历认证和省级执照考试的人
-- 追求高薪但不愿承担医疗责任的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a bachelor's degree in clinical nutrition or a related field
+- Patient, communicative healthcare professional
+- Applicants willing to immigrate through PNP in remote provinces
+
+**Who is not suited**
+- Those unwilling to undergo academic credential assessment and provincial licensing exams
+- People seeking high pay but unwilling to take medical responsibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a dietitian in Canada?**
+A: Salary range approx. $55,000-$110,000 CAD; entry-level $55,000-$70,000, mid-level $70,000-$90,000, senior $90,000-$110,000. Private practice may earn more.
+
+**Q: Can overseas dietitians immigrate to Canada?**
+A: Yes, typically through Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP). Requires ECA, language proficiency, and provincial dietitian license (via CDRE).
+
+**Q: Must Canadian dietitians be registered?**
+A: Yes, must register with the dietitian regulatory body in the province of practice, pass the Canadian Dietetic Registration Exam (CDRE), and meet internship or work experience requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Dietitians and nutritionists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary of a dietitian in Canada?**
-答：Salaries range from CAD 55,000 to 110,000: entry-level 55k-70k, mid-level 70k-90k, senior 90k-110k. Private practice may yield higher income.
-
-**问：Can overseas dietitians immigrate to Canada?**
-答：Yes, typically via Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP). Requirements include ECA, language proficiency, and provincial licensure (CDRE).
-
-**问：Is registration mandatory for dietitians in Canada?**
-答：Yes, registration with the provincial regulatory body is mandatory, requiring passing the CDRE and meeting internship or experience requirements.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

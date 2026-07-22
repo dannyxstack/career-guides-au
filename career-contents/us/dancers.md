@@ -1,61 +1,96 @@
-# Dancers（Dancers）职业分析 · 美国
+# Dancers — career analysis · United States
 
-**职业代码：27-2031 – Dancers。**
+**Occupation code: 27-2031 (SOC)**
 
-Perform dances. May perform on stage, for broadcasting, or for video recording.
+Performers who express through dance, may perform on stage, television, or video.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 舞蹈培训/高中后非学位 | 1-3年 | $10,000~$50,000（私立舞蹈学校或工作室培训费用） |
-| 本科学位 | 4年 | $80,000~$200,000（大学舞蹈专业学费） |
+| Dance training/non-degree post-secondary | 1-3 years | $10,000~$50,000 (Training fees at private dance schools or studios) |
+| Bachelor's degree | 4 years | $80,000~$200,000 (University dance program tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞蹈训练证明 | 舞蹈学校或大学 | 可选 | 非强制，但提升竞争力 |
-| 试镜成功 | 演出团体 | 必备 | 需通过面试和试镜 |
-| 专业舞蹈证书 | 舞蹈教师协会等 | 可选 | 教学或演出资质 |
+| Successful audition | Performance group | Required | Must pass an interview and audition |
+| Dance training certification | Dance school or university | Optional | Not mandatory, but enhances competitiveness |
+| Professional dance certificate | Dance Teachers' Association, etc. | Optional | Teaching or performance qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 45,000。美国劳工统计局预计2022-2032年就业增长约3%，慢于平均水平。竞争激烈，多数职位为兼职。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 45,000. The US Bureau of Labor Statistics projects about 3% employment growth from 2022-2032, slower than average. Competition is strong; most positions are part-time.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$45,000 | 多为兼职，收入不稳定 |
-| 中级（3-10年） | $40,000~$70,000 | 剧团或巡演舞者 |
-| 高级（10年以上/首席） | $60,000~$120,000 | 主要舞团独舞或编舞 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$45,000 | Mostly part-time, unstable income |
+| Intermediate (3-10 years) | $40,000~$70,000 | Theatre or touring dancer. |
+| Senior (10+ years/principal) | $60,000~$120,000 | Principal dance soloist or choreographer |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 舞者通常从群舞起步，经验丰富后可晋升为独舞或首席舞者，也可转向编舞、教学或艺术管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on dancers is polarizing: automation reduces some technical, repetitive visual effects and choreography tasks, but AI-enhanced stage effects, personalized teaching, and creative tools amplify demand for visual expression and interactive experiences in dance.
+
+Dancers typically start in the corps de ballet; with experience, can advance to soloist or principal dancer, or move into choreography, teaching, or arts management.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of basic choreography (e.g., AI automatically arranges simple group dances based on music)
+- Precise replication and correction of dance movements (AI monitors and adjusts repetitive training movements)
+- Real-time automated control of stage lighting and visual effects (AI generates lighting based on dance dynamics)
+- Standard movement correction in dance teaching (AI video analysis replaces manual feedback)
+- Motion capture and animation generation for virtual dancer roles (partially replacing understudies/backup dancers)
+
+**Where AI augments the role:**
+
+- Use AI to generate personalized dance training plans (analyze weaknesses and customize exercises)
+- Create immersive interactive dance experiences through AR/VR and AI (enhancing performance uniqueness)
+- Use AI to analyze audience emotions (expressions/applause) to adjust improvisational performance in real time
+- Automatically generate music visualization dance design (precise matching of music and motion)
+- Use AI tools to quickly create dance concept videos (reduce choreography trial-and-error costs).
+
+**Human moat:**
+
+- Emotional appeal and live interaction in improvisational performances
+- Artistic expression blending personal style and originality
+- Complex narrative dance choreography (emotional transitions and plot logic)
+- Cross-cultural dance fusion innovation (non-standardized movement design)
+- Expression and critique of social issues using the body as a medium
+
+**Skills to build:**
+
+- Operation and debugging of AI choreography tools (e.g., DeepMotion, Rokoko)
+- Data-driven dance analysis (motion capture technology and data analysis)
+- Interactive performance system design (sensors, projection mapping, and real-time feedback)
+- Basic programming and visual effects software (TouchDesigner, Unity)
+- Multimedia content creation and personal brand management (using AI to generate promotional materials)
+- Interdisciplinary Collaboration Skills (collaborating with programmers and designers to develop digital works)
+
+**Key growth areas:**
 
 - low growth
 - competition intense
@@ -64,66 +99,68 @@ Perform dances. May perform on stage, for broadcasting, or for video recording.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出艺术能力，适合知名舞者 |
-| Subclass P-1（P-1 Internationally Recognized Athlete/Entertainer） | 国际知名表演团体成员可申请 |
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位且与舞蹈专业相关，极少用于舞者 |
+| Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate outstanding artistic ability, suitable for well-known dancers |
+| Subclass P-1 (P-1 Internationally Recognized Athlete/Entertainer) | Members of internationally renowned performance groups may apply |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree related to dance, rarely used for dancers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dancers？**
-- 热爱舞蹈并愿意长期高强度训练
-- 有表演欲望和舞台表现力
-- 能接受不稳定收入和频繁试镜
+**Who is suited**
+- Passionate about dance and willing to undergo long-term intense training
+- Has a desire to perform and stage presence
+- Able to accept unstable income and frequent auditions
 
-**谁不适合学Dancers？**
-- 追求稳定收入和全职工作
-- 不适应频繁流动和竞争压力
+**Who is not suited**
+- Seeking stable income and full-time work
+- People who are not suited to frequent relocation and competitive pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for dancers in the US?**
+A: According to BLS, median annual salary for dancers in 2023 is approx. $45,000, but most work part-time, actual income varies widely.
+
+**Q: What are the main pathways for foreign dancers to immigrate to the U.S.?**
+A: Primarily through O-1 extraordinary ability visa or P-1 internationally recognized performer visa, requiring high international recognition.
+
+**Q: What can dancers transition into?**
+A: Common transition directions include choreographer, dance teacher, fitness coach, arts management, or physiotherapist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Dancers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dancers in the US?**
-答：According to BLS, the median annual wage for dancers in 2023 is about $45,000, but many work part-time, so actual incomes vary widely.
-
-**问：What are the main immigration pathways for foreign dancers to the US?**
-答：Mainly through O-1 Extraordinary Ability visa or P-1 Internationally Recognized Entertainer visa, requiring significant international recognition.
-
-**问：What career transitions are common for dancers?**
-答：Common transitions include choreography, dance teaching, fitness instruction, arts management, or physical therapy.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

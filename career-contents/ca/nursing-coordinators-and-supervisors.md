@@ -1,60 +1,95 @@
-# Nursing coordinators and supervisors（Nursing coordinators and supervisors）职业分析 · 加拿大
+# Nursing coordinators and supervisors — career analysis · Canada
 
-**职业代码：31300 – Nursing coordinators and supervisors。**
+**Occupation code: 31300 (NOC)**
 
-Coordinate and supervise nursing staff, ensuring high-quality care delivery in hospitals, nursing homes, and community health centers.
+Responsible for coordinating and supervising nursing staff to ensure high-quality care. They work in medical facilities, nursing homes, and community health centers, managing care processes and staff scheduling.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（护理学学士） | 4年 | $40,000~$80,000（加拿大大学本科护理学费年均1-2万CAD，四年来回合计。） |
-| 注册护士（RN）执照 | 通过NCLEX-RN考试 | $3,000~$5,000（包括考试费、辅导及注册费。） |
+| Bachelor's degree (Bachelor of Nursing) | 4 years | $40,000~$80,000 (Canadian university undergraduate nursing tuition averages C$10,000-20,000 per year, total over four years.) |
+| Registered Nurse (RN) License | Pass the NCLEX-RN exam | $3,000~$5,000 (Includes exam fees, coaching, and registration fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册护士执照 | 省级护理监管机构 | 必备 | 必须通过NCLEX-RN考试并在所在省注册。 |
-| 加拿大护理认证（CNA Certification） | 加拿大护士协会 | 可选 | 可选，但有助于晋升主管职位。 |
-| 硕士学位（护理管理） | 大学 | 可选 | 部分雇主偏好或要求硕士学历。 |
-| 心肺复苏（CPR）证书 | 加拿大红十字会等 | 必备 | 基本要求。 |
+| Registered nurse license | Provincial nursing regulatory body | Required | Must pass the NCLEX-RN exam and register in the province. |
+| Cardiopulmonary resuscitation (CPR) certificate. | Canadian Red Cross, etc. | Required | Basic requirement. |
+| Canadian Nursing Certification (CNA Certification) | Canadian Nurses Association | Optional | Optional, but helps in promotion to supervisor positions. |
+| Master's degree (Nursing Management) | University | Optional | Some employers prefer or require a master's degree. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 26,500。加拿大人口老龄化持续推动护理需求增长，就业前景良好。Job Bank 评为未来三年需求旺盛，尤其在长期护理和社区护理领域。
+**Job demand: high (★★★★☆).** National workforce approx. 26,500. Canada's aging population continues to drive demand for nursing care, with favorable job prospects. Job Bank rates it as high demand for the next three years, especially in long-term care and community care.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$87,000 | 取决于省份和机构，安省和BC省较高。 |
-| 中级（3-7年） | $87,000~$105,000 | 通常已获得主管职位。 |
-| 高级（7年以上） | $105,000~$130,000 | 大型医院或护理机构的高级管理职位。 |
+| Median salary | $96,574 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $70,000~$87,000 | Depends on province and institution, higher in Ontario and BC. |
+| Mid-level (3–7 years) | $87,000~$105,000 | Usually hold a supervisory position. |
+| Senior (7+ years) | $105,000~$130,000 | Senior management positions in large hospitals or nursing facilities. |
+| average salary | $93,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从注册护士晋升而来，可进一步发展为护理主任、临床护理专家或医疗管理职位。持续教育和认证（如加拿大护理认证）可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of care coordinators and supervisors involves personnel management, process optimization, and clinical judgment. AI can automate scheduling and data management but cannot replace interpersonal coordination and leadership, resulting in a mixed overall impact.
+
+Typically promoted from Registered Nurse, with further advancement to Director of Nursing, Clinical Nurse Specialist, or Medical Management roles. Continuing education and certifications (e.g., Canadian nursing certification) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated staff scheduling and attendance management
+- Generate and distribute care plans and reports
+- Preliminary data analysis and quality indicator tracking
+- Patient record entry and basic compliance checks
+
+**Where AI augments the role:**
+
+- Use AI to predict patient flow and optimize resource allocation
+- Real-time monitoring of care quality through AI tools for timely intervention
+- Automatically organize meeting minutes and policy updates using natural language processing technology
+- Uses decision support systems to develop evidence-based nursing plans
+- Automated training material generation, personalised employee learning paths
+
+**Human moat:**
+
+- Complex interpersonal communication and conflict mediation
+- Team morale and culture building
+- On-site decision-making and command in emergency situations
+- Cross-departmental coordination and stakeholder management
+- Personalized coaching and career development guidance for nursing staff
+
+**Skills to build:**
+
+- Nursing management information system operation (e.g., Epic, Cerner)
+- Data analysis and visualization (Power BI, Tableau)
+- Leadership and change management
+- Knowledge of AI applications in healthcare
+- Quality improvement methodologies (Lean, Six Sigma)
+- Communication and conflict resolution skills.
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease management
@@ -63,68 +98,67 @@ Coordinate and supervise nursing staff, ensuring high-quality care delivery in h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker / Canadian Experience Class） | 适合有至少一年加拿大护理工作经验或海外经验的注册护士，通过快速通道获得永居。 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对护理人员的省提名项目，如安省、BC省、阿尔伯塔省等，通常要求雇主担保。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，之后转为永居。 |
+| Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Suitable for registered nurses with at least one year of Canadian nursing experience or overseas experience, obtaining permanent residency through Express Entry. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for nursing workers in various provinces, such as Ontario, BC, and Alberta, usually require employer sponsorship. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, then transition to permanent residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nursing coordinators and supervisors？**
-- 有经验的注册护士希望转向管理岗位
-- 具备领导力、沟通能力和组织能力的人
-- 愿意在医疗行业长期发展并能承受工作压力的人
-
-**谁不适合学Nursing coordinators and supervisors？**
-- 不喜欢直接管理他人或处理人员冲突的人
-- 无法适应轮班或高强度工作节奏的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experienced registered nurses looking to transition into management
+- Someone with leadership, communication, and organizational skills
+- People willing to develop long-term in the medical industry and able to handle work pressure
+
+**Who is not suited**
+- People who dislike directly managing others or handling personnel conflicts
+- Those unable to adapt to shift work or high-intensity pace.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for care coordinators and supervisors?**
+A: Annual salary generally between CAD 70,000 and 130,000, entry-level around CAD 70,000-87,000, senior up to CAD 105,000-130,000, depending on province, experience, and institution size.
+
+**Q: How can overseas registered nurses immigrate to Canada as care coordinators?**
+A: Can be done via Express Entry (requires language scores and ECA credential assessment) or provincial nominee programs. In most cases, must pass the NCLEX-RN exam and obtain provincial registration. Some provinces have dedicated nursing immigration streams.
+
+**Q: What educational background is needed to become a care coordinator?**
+A: Typically requires a Bachelor of Nursing and a registered nurse license. A master's degree (e.g., in nursing management) is not mandatory but helps with advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Nursing coordinators and supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for nursing coordinators and supervisors?**
-答：Annual salary ranges from CAD 70,000 to 130,000, with entry-level at 70,000-87,000 and senior roles up to 105,000-130,000, depending on province, experience, and employer.
-
-**问：How can overseas registered nurses immigrate to Canada as nursing coordinators?**
-答：Through Express Entry (requiring language scores and ECA) or Provincial Nominee Programs. Most need to pass NCLEX-RN and obtain provincial registration. Some provinces have dedicated nursing streams.
-
-**问：What education is required to become a nursing coordinator?**
-答：A Bachelor of Science in Nursing is typically required, along with RN licensure. A master's degree (e.g., in nursing administration) is beneficial but not mandatory.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

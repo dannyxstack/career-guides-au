@@ -1,63 +1,99 @@
-# Orthopedic Surgeons, Except Pediatric（Orthopedic Surgeons, Except Pediatric）职业分析 · 美国
+# Orthopedic Surgeons, Except Pediatric — career analysis · United States
 
-**职业代码：29-1242 – Orthopedic Surgeons, Except Pediatric。**
+**Occupation code: 29-1242 (SOC)**
 
-Orthopedic surgeons diagnose and perform surgery to treat musculoskeletal disorders such as arthritis, fractures, and sports injuries, representing a high-paying specialty in surgery.
+Orthopedic surgeons diagnose and surgically treat diseases and injuries of the musculoskeletal system, including arthritis, fractures, sports injuries, etc., a high-paying and specialized surgical field.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（4年制大学） | 4年 | $50,000~$200,000（公立大学年均约1.3万-2.5万美元；私立大学年均约3万-5万美元） |
-| 医学院（MD或DO） | 4年 | $150,000~$300,000（公立医学院年均约3.7万-5.5万美元；私立医学院年均约5万-7万美元） |
-| 住院医师培训 | 5年 | —（住院医师期间有薪资，约每年6万-7万美元，无需额外学费） |
+| Bachelor's (4-year university) | 4 years | $50,000~$200,000 (Public universities average about USD 13,000–25,000 per year; private universities average about USD 30,000–50,000 per year.) |
+| Medical school (MD or DO) | 4 years | $150,000~$300,000 (Public medical schools average approximately USD 37,000-55,000 per year; private medical schools average approximately USD 50,000-70,000 per year) |
+| Residency training | 5 years | $0~$0 (Resident doctors receive a salary, about $60,000-$70,000 USD per year, with no additional tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位 | 美国医学院校 | 必备 | 需完成4年医学院课程并授予MD或DO学位 |
-| 美国医生执照（USMLE或COMLEX） | 美国医学执照联合会 | 必备 | 通过Step 1、Step 2 CK和CS、Step 3考试；多数州要求USMLE |
-| 骨科外科专科认证 | 美国骨科外科委员会 | 必备 | 完成住院医后通过笔试和口试获得认证，每10年更新 |
-| 州执业许可 | 各州医疗委员会 | 必备 | 在执业所在州申请，需通过背景调查等 |
+| Doctor of Medicine (MD) | U.S. medical schools | Required | Must complete a 4-year medical school program and be awarded an MD or DO degree |
+| U.S. medical license (USMLE or COMLEX) | United States Medical Licensing Federation | Required | Pass Step 1, Step 2 CK and CS, and Step 3 exams; most states require USMLE |
+| Orthopaedic surgical specialty certification | American Board of Orthopaedic Surgery | Required | After residency, pass written and oral exams for certification, renewed every 10 years |
+| State practice license | State medical boards | Required | Apply in the state of practice; background check required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 20,500。美国老龄化加剧及运动损伤增多推动需求增长。BLS预测2022-2032年就业增长约3%，与所有职业平均水平持平。医院和专科诊所是主要雇主。
+**Job demand: high (★★★★☆).** National workforce approx. 20,500. Aging US population and rising sports injuries drive demand. BLS projects 3% employment growth from 2022 to 2032, average for all occupations. Hospitals and clinics are main employers.
 
-**竞争度：很高（住院医匹配竞争激烈）（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $300,000~$450,000 | 住院医结束后首份工作，通常为医院或诊所雇佣 |
-| 中级（4-10年） | $450,000~$600,000 | 经验积累，可能开始开设私人诊所或成为合伙人 |
-| 高级（10年以上） | $600,000~$800,000 | 专科领域权威，手术量高，收入可达百万美元 |
+| Median salary | $358,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $300,000~$450,000 | First job after residency, usually employed by a hospital or clinic |
+| Mid-level (4-10 years). | $450,000~$600,000 | Experience accumulation, may start a private clinic or become a partner |
+| Senior (10+ years) | $600,000~$800,000 | Authoritative in the specialty, high surgical volume, income can reach millions of USD. |
+| average salary | $373,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从完成住院医师培训后开始，可晋升为外科主治医生、科室主任；也可进入学术领域任教授。部分医生开设私人诊所或专攻亚专业（如关节置换、脊柱手术）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core surgical operations of orthopedic surgeons are difficult to replace by AI, but AI significantly enhances capabilities in imaging diagnosis, surgical planning, and postoperative monitoring, while entry-level repetitive tasks (e.g., residency) may be reduced.
+
+Typically starts after completing residency training; can advance to attending surgeon, department head; or enter academia as a professor. Some doctors open private practices or specialize in subspecialties (e.g., joint replacement, spinal surgery).
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation and labeling of routine fracture X-rays and CT images
+- Standard guideline-based preoperative risk assessment and medication dosage calculation
+- Routine vital sign monitoring and simple complication alerts in postoperative follow-up
+- Template-based descriptions and coding generation in medical records
+- Literature search and structured evidence synthesis
+
+**Where AI augments the role:**
+
+- AI-assisted 3D modeling and personalized surgical simulation to improve implant fit accuracy
+- Real-time intraoperative navigation and robot-assisted operations, improving minimally invasive surgery precision
+- Machine learning predicts risks of post-surgical complications like infection and thrombosis, optimizing recovery plans
+- AI quickly syncs images and marks suspicious areas during remote consultations, improving collaboration efficiency
+- Intelligent analysis of wearable device data for remote postoperative monitoring and early warning
+
+**Human moat:**
+
+- Complex trauma, deformity correction, etc., require surgical decisions with high manual skills and anatomical insight
+- Humanistic care in communicating with patients and families about conditions, explaining risks, and obtaining informed consent
+- Ability to respond to emergencies such as sudden heavy bleeding or accidental nerve injury during surgery
+- Leadership and communication responsibilities in interdisciplinary team coordination (anesthesia, nursing, rehabilitation)
+- Undertakes final legal and ethical responsibility for surgery, comprehensive judgment of patient long-term prognosis
+
+**Skills to build:**
+
+- Use and validation of AI image reading tools (e.g., AI-assisted X-ray/CT analysis software)
+- Operation and maintenance of surgical robots and computer navigation systems
+- Basic programming and data analysis (Python, R) for clinical research and AI result interpretation
+- Basic knowledge of biomechanics and 3D printed implant design
+- Application of telemedicine platforms and patient monitoring systems
+- Ability to critically evaluate AI recommendation systems in evidence-based medicine
+
+**Key growth areas:**
 
 - Aging population
 - Sports injuries increase
@@ -66,67 +102,69 @@ Orthopedic surgeons diagnose and perform surgery to treat musculoskeletal disord
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于受雇于医院或医疗机构的医生；需通过USMLE且获得州许可；名额有限但医疗行业常豁免 |
-| Subclass J-1（J-1 Exchange Visitor (Physician)） | 用于外国医学毕业生在美国进行住院医师培训；结束后需回母国2年，但可申请豁免 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在骨科领域取得杰出成就的医生，如发表大量论文、获得奖项；无需名额限制 |
-| Subclass EB-2 NIW（EB-2 National Interest Waiver） | 如从事偏远地区医疗服务可申请国家利益豁免，无需劳工证，绿卡路径 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applies to doctors employed by hospitals or medical institutions; requires passing USMLE and obtaining state license; limited spots but healthcare industry often exempts |
+| Subclass J-1 (J-1 Exchange Visitor (Physician)) | For foreign medical graduates to do residency training in the US; must return to home country for 2 years after, but can apply for a waiver. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to doctors with outstanding achievements in orthopedics, such as publishing numerous papers or receiving awards; no quota limits |
+| Subclass EB-2 NIW (EB-2 National Interest Waiver) | Those working in remote area medical services may apply for a National Interest Waiver, no labor certification required, green card pathway. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Orthopedic Surgeons, Except Pediatric？**
-- 喜欢外科手术、动手能力强的人
-- 能承受长时间高强度工作和巨大压力的人
-- 对肌肉骨骼系统有浓厚兴趣并愿意终身学习的人
+**Who is suited**
+- Surgery enthusiasts with strong hands-on skills
+- People who can endure long hours of high-intensity work and great pressure
+- People with a strong interest in the musculoskeletal system and a willingness to learn lifelong
 
-**谁不适合学Orthopedic Surgeons, Except Pediatric？**
-- 不愿接受长达10年以上培训和高压工作节奏的人
-- 对医疗风险和责任恐惧、情绪敏感的人
+**Who is not suited**
+- Those unwilling to accept over 10 years of training and high-pressure work pace
+- People sensitive to medical risk and liability fears and emotional distress
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of orthopedic surgeons?**
+A: According to BLS and Medscape data, the average annual salary for orthopedic surgeons in the US in 2023 was approximately $557,000, with senior surgeons earning over $800,000. Income varies significantly by region, experience, and practice setting.
+
+**Q: How can foreign doctors immigrate to the US to become orthopedic surgeons?**
+A: Typical path: Pass the USMLE to obtain US medical qualifications, apply for a J-1 visa for residency training, then work on an H-1B or O-1 visa and apply for EB-2/EB-3 green card. J-1 may have a home residency requirement, which can be waived.
+
+**Q: How many years to become an orthopedic surgeon?**
+A: Typically takes 13-15 years: 4 years undergraduate + 4 years medical school + 5 years orthopedic residency. Some doctors also need 1-2 years of fellowship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 很高（住院医匹配竞争激烈）（★★★★☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Orthopedic Surgeons, Except Pediatric属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an orthopedic surgeon?**
-答：According to BLS and Medscape, the average annual salary for orthopedic surgeons in the US in 2023 is about $557,000, with experienced surgeons earning over $800,000. Income varies significantly by region, experience, and practice type.
-
-**问：How can foreign doctors immigrate to the US to become orthopedic surgeons?**
-答：Typical path: Pass USMLE to become qualified, apply for J-1 visa for residency, then work on H-1B or O-1 visa and apply for EB-2/EB-3 green card. J-1 may require a 2-year home residence, but waivers are possible.
-
-**问：How many years does it take to become an orthopedic surgeon?**
-答：Typically 13-15 years: 4 years undergraduate + 4 years medical school + 5 years orthopedic residency. Some pursue 1-2 additional years of fellowship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,93 @@
-# Bar Attendant（Bar Attendant）职业分析 · 新西兰
+# Bar Attendant — career analysis · New Zealand
 
-**职业代码：431111 – Bar Attendant。**
+**Occupation code: 431111 (ANZSCO)**
 
-Bar attendants/bar managers mix and serve drinks, manage bar operations in New Zealand. While not on the Green List or shortage list, the role allows for work via AEWV or Skilled Migrant Category if high salary or other criteria are met, making migration feasible but limited.
+Mixing drinks, managing operations in bars, restaurants, hotels, etc. Practitioners need liquor license or manager certificate. This occupation can use Accredited Employer Work Visa (AEWV) or Skilled Work Visa for employment in NZ, but not on Green List or shortage list. Skilled migration requires meeting high salary or additional conditions; immigration path relatively limited.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期课程（调酒/酒水服务） | 3个月 | $1,500~$4,000（新西兰私立培训机构提供，如NZMA或Skills Active课程） |
-| 酒店管理大专 | 1-2年 | $18,000~$35,000（公立理工学院（如Otago Polytechnic）费用，国际学生学费较高） |
-| 酒店管理本科 | 3年 | $70,000~$100,000（大学如AUT、惠灵顿维多利亚大学，国际学生总学费） |
+| Short course (bartending/drink service) | 3 months | $1,500~$4,000 (Provided by private training institutions in New Zealand, such as NZMA or Skills Active courses) |
+| Diploma in hotel management | 1-2 years | $18,000~$35,000 (Fees at public polytechnics (e.g., Otago Polytechnic), higher tuition for international students) |
+| Bachelor's in Hospitality Management | 3 years | $70,000~$100,000 (Universities such as AUT and Victoria University of Wellington, total international student tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卖酒执照（LCQ） | 新西兰酒店业协会(Hospitality NZ) | 必备 | 法律规定任何负责供应酒类的人员必须持有，在线培训+考试 |
-| 经理证书（GM License） | 新西兰酒店业协会(Hospitality NZ) | 必备 | 酒吧经理必须持有，需完成培训课程 |
-| 新西兰服务资格证（NZ Certificate in Hospitality） | Skills Active | 可选 | Level 3或4课程，有助于就业 |
-| 雅思成绩（技术移民） | IELTS | 可选 | 技术移民要求总分6.5，单项不低于6.0 |
+| Liquor Control Licence (LCQ) | Hospitality New Zealand (Hospitality NZ) | Required | Legally required for anyone responsible for supplying alcohol; online training and exam |
+| Manager license (GM License) | Hospitality New Zealand (Hospitality NZ) | Required | Bar managers must hold; requires completing a training course |
+| New Zealand Certificate in Hospitality (Level 3) | Skills Active | Optional | Level 3 or 4 course, helpful for employment. |
+| IELTS score (for skilled migration). | IELTS | Optional | Skilled migration requires overall band 6.5, no band below 6.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 35,000。新西兰旅游和酒店业持续复苏，奥克兰、皇后镇等旅游地酒吧岗位需求稳定，但竞争激烈。初级岗位供过于求，高级酒吧经理或调酒师（如精通鸡尾酒）仍有机会。建议积累2年以上经验并考取酒牌，增强竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. New Zealand's tourism and hospitality industry continues to recover; bar job demand is stable in tourist destinations like Auckland and Queenstown, but competition is fierce. Junior positions are oversupplied; senior bar managers or mixologists (e.g., proficient in cocktails) still have opportunities. It is recommended to accumulate 2+ years of experience and obtain a liquor license to enhance competitiveness.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 调酒师/吧员新手，时薪约$22-26 |
-| 中级（2-5年） | $55,000~$65,000 | 有经验的调酒师/主管，时薪约$26-31 |
-| 高级（5年以上） | $65,000~$80,000 | 酒吧经理/高级调酒师，时薪约$31-38，部分含小费 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Entry-level bartender/bar staff, hourly rate approximately $22-26 |
+| Intermediate (2-5 years) | $55,000~$65,000 | Experienced bartender/supervisor, hourly wage about $26-31 |
+| Senior (5+ years) | $65,000~$80,000 | Bar manager/senior bartender, hourly wage approximately $31-38, some include tips |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从调酒师可晋升为高级调酒师、酒吧主管、酒吧经理，或转向侍酒师、餐饮管理。积累经验后考取经理证书(GM License)可管理大型酒吧。部分从业者创业开设自己的酒吧。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bartenders/bar managers face AI automation taking over ordering, inventory, and other admin tasks, but core skills like creative mixology, customer experience, and human interaction are amplified; the moat lies in sensory creation and personalized service.
+
+Bartenders can advance to senior bartender, bar supervisor, bar manager, or transition to sommelier or food and beverage management. With experience, obtaining a manager license (GM License) allows managing large bars. Some start their own bar businesses.
+
+**Tasks most exposed to AI:**
+
+- Processing orders and payments automatically via voice or self-service terminals
+- AI automatically analyzes sales data to optimize inventory management and replenishment
+- Automated system monitors wine consumption and generates purchase suggestions
+- Robots making basic beverages (e.g., coffee, simple cocktails)
+
+**Where AI augments the role:**
+
+- AI recommendation systems to innovate cocktail recipes based on customer preferences
+- Multilingual Customer Service Using Natural Language Processing
+- AI analyzes trend data to optimize wine lists and pricing strategies
+- Virtual reality training to improve bartending skills and situational response
+
+**Human moat:**
+
+- The delicate balance of creative mixology and sensory tasting
+- Building emotional connections and personalized interaction with customers
+- Interpersonal wisdom for managing teams and handling emergencies
+- Understanding and applying local culture and seasonal ingredients
+
+**Skills to build:**
+
+- Using bar management software and POS system advanced features
+- Learning data analysis tools to interpret customer behavior and sales trends
+- Master tuning and validation of AI recipe generators
+- Obtain international bartender certification or WSET wine certificate
+- Develop online brand marketing and social media operation skills
+
+**Key growth areas:**
 
 - Hospitality rebound
 - Tourism-driven demand
@@ -64,68 +96,67 @@ Bar attendants/bar managers mix and serve drinks, manage bar operations in New Z
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，时薪不低于中位数（2024年约$29.66），可续签，最长5年，可转居民签 |
-| Subclass SMC（Skilled Migrant Category） | 若时薪达到中位数的1.5倍（约$44.49）且工作满12个月，可申请6分制技术移民；但职业非短缺，需高薪加分 |
-| Subclass Other（Work to Residence (WTR)） | 若雇主担保且薪资达标，部分路径可转居留，但酒吧岗位不直接属于绿名单 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, hourly wage not below the median (approx. $29.66 in 2024), renewable, up to 5 years, can convert to resident visa |
+| Subclass SMC (Skilled Migrant Category) | If hourly wage reaches 1.5 times the median (approx. $44.49) and worked for 12 months, can apply under six-point skilled migration; but occupation is not in shortage, requires high salary points. |
+| Subclass Other (Work to Residence (WTR)) | If employer-sponsored and salary meets requirements, some pathways lead to residency, but bar roles are not directly on the Green List |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bar Attendant？**
-- 热爱社交、善于与顾客沟通的人
-- 对调酒工艺和饮品创新有兴趣，愿意学习酒水知识
-- 适应快节奏、晚班和周末工作环境
-
-**谁不适合学Bar Attendant？**
-- 不喜熬夜、无法适应站立工作和嘈杂环境，对酒精敏感
-- 追求稳定工作时间和高起薪，缺乏耐心或服务意识
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy socializing and communicating with customers
+- Interest in bartending craft and beverage innovation, willing to learn drink knowledge
+- Adaptable to fast-paced, evening, and weekend work environments
+
+**Who is not suited**
+- People who dislike staying up late, cannot handle standing work or noisy environments, or are sensitive to alcohol
+- Seeking stable working hours and high starting salary; lacking patience or service awareness.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a bartender in New Zealand?**
+A: Junior bartender annual salary about NZD 45,000-55,000, intermediate about NZD 55,000-65,000, senior bar manager up to NZD 65,000-80,000+, some including tips.
+
+**Q: Can a bartender immigrate to New Zealand via the Green List?**
+A: No. Bartender is not on the Green List. However, if the hourly wage reaches 1.5 times the median (approx. $44.49), they can apply under the Skilled Migrant Category (SMC) with the 6-point system, requiring accredited employer sponsorship.
+
+**Q: What is the career progression path for bartenders?**
+A: Can advance from bartender to senior bartender, bar supervisor, bar manager, or obtain sommelier certification to move into high-end dining. With experience and capital, can start own bar.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bar Attendant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bar attendant in NZ?**
-答：Entry-level salary is around NZD 45,000-55,000; experienced up to NZD 65,000; bar managers can earn over NZD 80,000, tips may apply.
-
-**问：Can a bar attendant migrate through the Green List?**
-答：No, it's not on the Green List. However, if earning at least 1.5x the median wage (approx. $44.49/hour), you may qualify for Skilled Migrant Category under the 6-point system, requiring an accredited employer.
-
-**问：What is the career path for a bar attendant?**
-答：Progress to senior bartender, supervisor, bar manager, or become a sommelier. With experience, one can open their own bar.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Interior designers and interior decorators（Interior designers and interior decorators）职业分析 · 加拿大
+# Interior designers and interior decorators — career analysis · Canada
 
-**职业代码：52121 – Interior designers and interior decorators。**
+**Occupation code: 52121 (NOC)**
 
-Interior designers and interior decorators plan and beautify interior spaces, focusing on functionality and aesthetics to meet client needs.
+Interior designers and interior decorators plan and beautify indoor spaces, focusing on functionality and aesthetic design to meet client needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 文凭/副学士 | 2年 | $10,000~$20,000（公立学院室内设计文凭） |
-| 学士学位 | 4年 | $30,000~$60,000（大学室内设计学士） |
+| Diploma/Associate degree. | 2 years | $10,000~$20,000 (Public college interior design diploma) |
+| Bachelor's degree | 4 years | $30,000~$60,000 (Bachelor of Interior Design (University)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计认证（NCIDQ） | CIDQ | 必备 | 北美通用，含考试与工作经验要求 |
-| 省级注册或执照 | 各省监管机构（如ARIDO） | 必备 | 安省、魁省等部分地区要求 |
-| AutoCAD/Revit技能认证 | Autodesk | 可选 | 非强制但增强就业竞争力 |
+| National Council for Interior Design Qualification (NCIDQ) | CIDQ | Required | Valid in North America, includes exam and work experience requirements |
+| Provincial registration or licence | Provincial regulatory bodies (e.g., ARIDO). | Required | Required in some regions such as Ontario and Quebec |
+| AutoCAD/Revit skill certification | Autodesk | Optional | Not mandatory but enhances job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。加拿大建筑与房地产行业稳定发展，室内设计需求持续增长，尤其在多伦多、温哥华等城市。Job Bank 展望为良好，就业机会中等。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. Canada's construction and real estate industry is growing steadily, with increasing demand for interior design, especially in cities like Toronto and Vancouver. Job Bank outlook is good, with moderate employment opportunities.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 助理设计师 |
-| 中级（3-7年） | $45,000~$65,000 | 设计师 |
-| 高级（7年以上） | $65,000~$90,000 | 设计总监/资深设计师 |
+| Median salary | $60,008 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant designer |
+| Mid-level (3–7 years) | $45,000~$65,000 | Designer |
+| Senior (7+ years) | $65,000~$90,000 | Design Director / Senior Designer |
+| average salary | $66,560 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★☆☆）。** 初级设计师可晋升为资深设计师、设计总监或开设个人工作室。需持续学习软件技能和项目管理能力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+Junior designers can advance to senior designer, design director, or start their own studio. Need to continuously learn software skills and project management.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - Green design
 - Smart home
@@ -62,68 +98,67 @@ Interior designers and interior decorators plan and beautify interior spaces, fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Federal Skilled Worker / Canadian Experience Class） | 满足工作经验与语言要求即可申请，通常需大专学历 |
-| Subclass PNP（Provincial Nominee Program） | 部分省提名有设计类职业，需雇主担保或特定条件 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地人，可获工签后移民 |
+| Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | Applicants can apply by meeting work experience and language requirements, usually requiring a diploma |
+| Subclass PNP (Provincial Nominee Program) | Some provincial nominations include design occupations, requiring employer sponsorship or specific conditions |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer proves unable to hire locally, can obtain work visa then immigrate |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior designers and interior decorators？**
-- 有创造力、审美能力强的人
-- 善于沟通、理解客户需求的人
-- 熟悉设计软件并能管理项目的人
-
-**谁不适合学Interior designers and interior decorators？**
-- 不喜欢与客户频繁沟通的人
-- 无法承受 deadline 压力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative people with strong aesthetic ability
+- Person who is good at communicating and understanding customer needs
+- Someone familiar with design software and able to manage projects
+
+**Who is not suited**
+- People who dislike frequent communication with clients
+- People who cannot handle deadline pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for interior designers in Canada?**
+A: According to experience, average annual salary is about CA$50,000, senior can reach CA$90,000.
+
+**Q: How can interior designers immigrate to Canada via Express Entry?**
+A: Requires work experience (NOC 52121) and language proficiency (CLB 7), typically a diploma or higher degree, meeting the points threshold.
+
+**Q: Is it necessary to be certified to work as an interior designer in Canada?**
+A: Some provinces mandate registration or licensure (e.g., ARIDO membership required in Ontario), NCIDQ certification is nationally recognized but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interior designers and interior decorators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an interior designer in Canada?**
-答：Depending on experience, average salary is around CAD 50,000, senior up to CAD 90,000.
-
-**问：How can an interior designer immigrate to Canada via Express Entry?**
-答：Meet work experience (NOC 52121) and language requirements (CLB 7), typically a diploma or degree, and score enough points.
-
-**问：Do interior designers need a license in Canada?**
-答：Some provinces require registration (e.g., ARIDO in Ontario), NCIDQ is national but not mandatory.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

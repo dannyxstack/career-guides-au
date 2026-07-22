@@ -1,59 +1,95 @@
-# Heavy Truck and Lorry Driver（Heavy Truck and Lorry Driver）职业分析 · IT
+# Heavy Truck and Lorry Driver — career analysis · Italy
 
-**职业代码：8332 – Heavy Truck and Lorry Driver。**
+**Occupation code: 8332 (ISCO08)**
 
-Drives heavy trucks and lorries for goods transport in Italy, requiring a C or E license and compliance with EU driving time regulations.
+Working in Italy as a heavy truck or van driver, responsible for long-distance or short-distance cargo transport, requiring a C or E class driving license and compliance with EU working time regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 6个月 | $1,500~$3,000（驾驶学校培训及考试费用） |
-| 执照考试 | 1-2个月 | $200~$500（理论及实践考试费用） |
+| Vocational training | 6 months. | $1,500~$3,000 (Driving school training and examination fees.) |
+| Licensing exam | 1-2 months | $200~$500 (Theory and practical exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| C类驾驶执照 | 意大利交通部 | 必备 | 驾驶重型卡车的基本要求 |
-| CQC职业资格证 | 意大利交通部 | 必备 | 专业驾驶员职业能力证书 |
-| ADR危险品运输证书 | 意大利交通部 | 可选 | 如需运输危险品 |
+| Class C driver's license | Italian Ministry of Transport | Required | Basic requirements for driving heavy trucks |
+| CQC professional qualification certificate | Italian Ministry of Transport | Required | Professional driver competency certificate |
+| ADR Dangerous Goods Transport Certificate | Italian Ministry of Transport | Optional | If transporting dangerous goods |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。意大利物流行业对重型卡车司机需求稳定，由于司机老龄化严重，年轻司机短缺，预计未来几年就业机会将持续增长。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. The Italian logistics industry has a stable demand for heavy truck drivers. Due to an aging driver population and a shortage of young drivers, job opportunities are expected to continue growing in the coming years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，国际长途通常更高 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, international long-distance calls are usually higher |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从区域配送司机晋升为长途国际司机，或成为车队主管、物流协调员。部分司机自雇经营运输业务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+Can progress from regional delivery driver to international long-haul driver, or become fleet supervisor, logistics coordinator. Some drivers are self-employed in transport business.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - e-commerce logistics
 - driver shortage
@@ -62,68 +98,67 @@ Drives heavy trucks and lorries for goods transport in Italy, requiring a C or E
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工人，但司机岗位薪资通常低于门槛，较少使用。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 意大利年度配额工作签证，适用于非欧盟工人，司机属于优先职业。 |
-| Subclass Nulla Osta per Lavor（Nulla Osta for Subordinate Work） | 雇主需提交工作许可申请，证明无法在欧盟内招聘到合适人选。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU high-skilled workers, but driver positions typically have salaries below the threshold and are less commonly used. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Italy's annual quota work visa, applicable to non-EU workers; drivers are a priority occupation. |
+| Subclass Nulla Osta per Lavor (Nulla Osta for Subordinate Work) | Employers must submit a work permit application, proving that no suitable candidate can be recruited within the EU. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heavy Truck and Lorry Driver？**
-- 喜欢开车和长途旅行的人
-- 能够适应灵活工作时间及夜间驾驶
-- 具备责任感和安全意识
-
-**谁不适合学Heavy Truck and Lorry Driver？**
-- 不喜欢长时间单独工作的人
-- 无法应对交通压力及恶劣天气条件
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving and long-distance travel
+- Able to adapt to flexible working hours and night driving
+- Sense of responsibility and safety awareness
+
+**Who is not suited**
+- People who dislike working alone for long periods
+- Unable to cope with traffic pressure and severe weather conditions
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a heavy truck driver in Italy?**
+A: Junior driver salary approximately €22,000–28,000 per year, intermediate €28,000–35,000, senior up to €45,000 (international long-haul).
+
+**Q: How can non-EU citizens obtain a work visa for truck driving in Italy?**
+A: Mainly through the Decreto Flussi annual quota work visa; employers must prove inability to recruit within the EU. The EU Blue Card is also an option, but salary thresholds are high.
+
+**Q: What licenses and certificates are needed to become a truck driver in Italy?**
+A: Must hold a Class C driving license and a CQC (Professional Driver Competency Certificate); if transporting dangerous goods, an ADR certificate is also required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Heavy Truck and Lorry Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for heavy truck drivers in Italy?**
-答：Entry-level drivers earn €22,000-28,000, mid-level €28,000-35,000, and senior drivers up to €45,000 (international routes).
-
-**问：How can non-EU citizens obtain a work visa as a truck driver in Italy?**
-答：Mainly through the Decreto Flussi quota work visa. Employers must prove no suitable EU candidate. EU Blue Card is possible but salary thresholds are high.
-
-**问：What licenses and certificates are required to become a truck driver in Italy?**
-答：A C category license and CQC (Certificate of Professional Competence) are mandatory. ADR certificate is required for dangerous goods transport.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

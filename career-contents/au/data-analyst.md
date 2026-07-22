@@ -1,68 +1,98 @@
-# 数据分析师（ICT Business Analyst）职业分析 · 澳大利亚
+# Data Analyst — career analysis · Australia
 
-**职业代码：262111 – ICT Business Analyst。**
+**Occupation code: 262111 (ANZSCO)**
 
-数据分析师通过SQL、Python、Power BI和Tableau等工具分析业务数据，支持企业决策。澳洲数字经济转型和政府开放数据政策驱动持续高需求，是IT类就业量最大、入门门槛相对较低的职业之一，适合技术+商业双背景的人才。
+Data analysts use tools such as SQL, Python, Power BI and Tableau to analyse business data and support organisational decision-making. Australia's digital economy transformation and government open data policies are driving sustained high demand, making this one of the highest-employment and relatively lower-barrier IT roles — well suited to candidates with both technical and business backgrounds.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Data Science / Statistics / Computer Science / Business（3~4年） | 3~4年（全日制） | $25,000~$160,000（或相关本科学历+自学BI工具（Power BI/Tableau认证）） |
-| Power BI / Tableau / Google Data Analytics 认证 | 1~3个月 | $200~$2,000（快速上手BI工具，Google Data Analytics Certificate约 $50/月） |
-| ACS 技能评估（189/190签证） | 2~6个月 | $500~$1,500（技术移民必须） |
+| Bachelor of Data Science / Statistics / Computer Science / Business (3–4 years) | 3–4 years (full-time) | $25,000~$160,000 (Or a relevant bachelor's degree plus self-taught BI tools (Power BI/Tableau certification)) |
+| Power BI / Tableau / Google Data Analytics certification | 1–3 months | $200~$2,000 (Get up to speed quickly with BI tools — Google Data Analytics Certificate is approximately $50/month) |
+| ACS skills assessment (189/190 visa) | 2–6 months | $500~$1,500 (Required for skilled migration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Data Science / Statistics / Computer Science | 认可大学 | 可选 | 行业通用基础学历 |
-| Microsoft Power BI Data Analyst Associate (PL-300) | Microsoft | 可选 | 澳洲市场最广泛要求的BI分析认证 |
-| Tableau Desktop Specialist / Certified Associate | Tableau/Salesforce | 可选 | 与Power BI并列最受欢迎的可视化工具认证 |
-| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
+| Bachelor of Data Science / Statistics / Computer Science | Recognised university | Optional | Foundational qualification accepted across the industry |
+| Microsoft Power BI Data Analyst Associate (PL-300) | Microsoft | Optional | The most widely required BI analytics certification in the Australian market |
+| Tableau Desktop Specialist / Certified Associate | Tableau/Salesforce | Optional | One of the most popular data visualisation tool certifications, on par with Power BI |
+| ACS Skills Assessment | Australian Computer Society | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 95,000。JSA 预测数据和商业分析师至2035年就业增长约20%。AI增强分析（AI-assisted analytics）推动对能解读AI输出的高级分析师需求增加。
+**Job demand: very high (★★★★★).** National workforce approx. 95,000. JSA forecasts approximately 20% employment growth for data and business analysts to 2035. AI-assisted analytics is driving increased demand for senior analysts who can interpret AI outputs.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,500~5,000 个 | 全国，含BI分析师、数据工程师、报告分析师和业务系统分析师岗 |
-| Indeed | 1,500~3,500 个 | 含政府、金融和医疗机构分析师岗 |
-| LinkedIn | 3,000~6,000 个 | 各行业BI和数据岗 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级数据分析师（0~2年） | $65,000~$85,000 | 含毕业生和转行者，政府岗起薪略高 |
-| 中级数据分析师（2~5年） | $85,000~$115,000 | SEEK 区间 $95k~$115k；Indeed 平均 $100,656（2026） |
-| 高级数据分析师（5~8年） | $115,000~$145,000 | 含团队Lead和BI架构师 |
-| 数据科学家 / 数据工程师（进阶） | $120,000~$180,000 | Python/Spark/ML技能升级后的薪资区间 |
+| Median salary | $127,972 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Data Analyst (0–2 years) | $65,000~$85,000 | Includes graduates and career changers; government roles offer slightly higher starting salaries |
+| Mid-level Data Analyst (2–5 years) | $85,000~$115,000 | SEEK range $95k–$115k; Indeed average $100,656 (2026) |
+| Senior data analyst (5–8 years) | $115,000~$145,000 | Including Team Leads and BI Architects |
+| Data Scientist / Data Engineer (Advanced) | $120,000~$180,000 | Salary range after upskilling in Python/Spark/ML |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 数据工程（DE）技能（Spark/dbt/Airflow）使数据分析师升级为数据工程师，薪资溢价 $20k~$35k。Power BI和Tableau技能是澳洲市场最广泛要求的BI工具。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Data engineering (DE) skills (Spark / dbt / Airflow) enable data analysts to transition into data engineering roles, with a salary premium of $20k–$35k. Power BI and Tableau are the most widely required BI tools in the Australian market.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Business Intelligence & Reporting
 - Data Engineering & ETL Pipelines
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，数据分析为短缺类别 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，NSW/VIC/QLD通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区IT/数据岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship available; data analytics is a shortage category |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, NSW/VIC/QLD pathway |
+| Subclass 491 (Skilled Work Regional) | Regional IT/data roles — 15-point bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学数据分析师？**
-- 有SQL和数据分析工作经验（2年以上）
-- 熟悉Power BI或Tableau，有数据可视化项目经验
-- 有Python/R统计分析能力（可显著提升薪资竞争力）
-- 英语能力达到 IELTS 6.0+ / PTE 50+
-- 目标是政府、金融或医疗行业数据岗（稳定且需求旺盛）
-
-**谁不适合学数据分析师？**
-- 仅有Excel经验，无SQL基础
-- 不愿意学习Python/数据工程技能（长期发展受限）
-- 英语沟通能力较弱（数据分析需要向业务团队汇报）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Work experience in SQL and data analysis (2+ years)
+- Proficient in Power BI or Tableau, with experience in data visualisation projects
+- Python/R statistical analysis skills (can significantly boost salary competitiveness)
+- English proficiency of IELTS 6.0+ / PTE 50+
+- Targeting data roles in government, finance or healthcare (stable and in high demand)
+
+**Who is not suited**
+- Excel experience only, no SQL foundation
+- Unwilling to learn Python or data engineering skills (limits long-term career growth)
+- Weak English communication skills (data analysis requires reporting to business teams)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a data analyst in Australia?**
+A: Mid-level data analysts approximately $85,000–$115,000 (Indeed average $100,656); senior analysts approximately $115k–$145k; advanced data scientists/engineers approximately $120k–$180k.
+
+**Q: Is it easy to find work as a data analyst in Australia?**
+A: Straightforward. Seek lists approx. 2,500–5,000 positions, with broad demand driven by digital transformation across all industries — one of the highest-volume IT roles available. Entry-level competition is strong; a combination of SQL, Power BI, and Python is highly competitive.
+
+**Q: Is Chinese data analytics experience recognised in Australia?**
+A: Complete an ACS skills assessment (academic review); skills in Power BI/Tableau/SQL are internationally recognised. It is recommended to obtain the Power BI PL-300 certification in advance to strengthen your competitiveness.
+
+**Q: Will data analysts be replaced by AI?**
+A: Simple report automation is being disrupted by AI tools, but the ability to translate data insights into business strategy, manage data quality and guide AI analytics cannot be replaced. It is recommended to develop towards data engineering or AI analyst roles.
+
+**Q: Is there an age limit for data analysts in Australia?**
+A: None. Analysts with an industry background (e.g. finance + data, healthcare + data) have an added advantage in the market; age is not a barrier.
+
+**Q: What qualifications do data analysts need in Australia?**
+A: A degree in data science, statistics, or computer science is the most common background, but candidates from unrelated disciplines with hands-on SQL, Power BI, and Python skills can also enter through employer sponsorship (subclass 482 visa).
+
+**Q: Is it difficult to become a certified data analyst in Australia (for migration purposes)?**
+A: Low to moderate difficulty. ACS assessment is straightforward; Power BI PL-300 certification is relatively accessible; 189/190 EOI scores are favourable for experienced candidates. One of the easiest IT occupations for skilled migration.
+
+**Q: Which is better for migrating to Australia — data analyst or ML engineer?**
+A: Data analysts have a much larger job market (Seek ~3,000+ vs ML ~600) with lower entry barriers, making them better suited for a faster migration pathway; ML engineers command higher salaries ($131k–$165k vs $95k–$115k) but face higher entry requirements (typically a master's degree). It is recommended to migrate first as a data analyst, then transition towards ML roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 数据分析师薪资 $95k~$115k（2026） |
-| Indeed AU | 数据分析师平均薪资 $100,656（2026） |
-| ACS | 技能评估机构 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-数据分析师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲数据分析师工资多少？**
-答：中级数据分析师约 $85,000~$115,000（Indeed均值 $100,656）；高级分析师约 $115k~$145k；进阶数据科学家/工程师约 $120k~$180k。
-
-**问：澳洲数据分析师容易找工作吗？**
-答：容易。Seek 挂牌约 2500~5000 个职位，各行业数字化驱动广泛需求，是IT类就业量最大的职业之一。初级岗竞争较激烈，SQL+Power BI+Python组合竞争力强。
-
-**问：中国数据分析经验澳洲认可吗？**
-答：通过 ACS 技能评估（学历审核），Power BI/Tableau/SQL等技能是国际通用的。建议提前考取Power BI PL-300认证以增强竞争力。
-
-**问：数据分析师会被AI替代吗？**
-答：简单的报告自动化受AI工具冲击，但将数据洞察转化为业务策略、管理数据质量和指导AI分析方向的能力不可替代。建议向数据工程师或AI分析师方向发展。
-
-**问：澳洲数据分析师有年龄限制吗？**
-答：无。具有行业背景（如金融+数据、医疗+数据）的分析师在市场上具有额外优势，年龄不是障碍。
-
-**问：澳洲数据分析师需要什么学历？**
-答：数据科学/统计/CS相关学位是主流，但具备SQL+Power BI+Python实战能力的非相关学历者也可通过雇主担保（482签证）入职。
-
-**问：澳洲数据分析师认证（移民）难吗？**
-答：难度中低。ACS评估不难；Power BI PL-300认证相对容易；189/190 EOI分数对有经验者友好。是IT类移民难度最低的职业之一。
-
-**问：数据分析师和ML工程师哪个更适合移民澳洲？**
-答：数据分析师就业量更大（Seek ~3000+ vs ML ~600），门槛更低，适合快速移民；ML工程师薪资更高（$131k~$165k vs $95k~$115k），门槛更高（通常需硕士）。建议先以数据分析师身份移民，再向ML方向发展。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

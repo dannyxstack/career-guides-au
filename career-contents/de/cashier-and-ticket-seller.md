@@ -1,60 +1,96 @@
-# Cashier and Ticket Seller（Cashier and Ticket Seller）职业分析 · DE
+# Cashier and Ticket Seller — career analysis · Germany
 
-**职业代码：6211 – Cashier and Ticket Seller。**
+**Occupation code: 6211 (KldB)**
 
-Cashiers and ticket sellers handle cash and cashless transactions in retail stores, supermarkets, ticket offices, etc., provide customer service, and operate cash register equipment. This is a sales support role requiring basic German communication skills.
+Cashiers and ticket sellers handle cash and non-cash transactions in retail stores, supermarkets, ticket offices, etc., provide customer service, and operate cash registers. This occupation is a sales support role with certain requirements for German communication skills.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式学历（在职培训） | 1-3个月 | —（企业提供内部培训，费用由雇主承担） |
-| 双元制职业培训（零售销售员） | 2年（双元制） | —（培训期间有津贴，月薪约800-1100欧元） |
+| No formal education required (on-the-job training) | 1-3 months. | $0~$0 (Company provides internal training at employer's expense) |
+| Dual vocational training (retail salesperson) | 2 years (dual system) | $0~$0 (Allowance during training, monthly salary approx. 800-1100 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质要求 | 无 | 可选 | 通常仅需初中毕业证书，企业提供上岗培训 |
-| 零售销售员职业培训证书 | 德国工商会 (IHK) | 可选 | 完成2年双元制培训后获得，提升就业竞争力 |
+| No mandatory qualification requirements | None | Optional | Typically only requires a junior high school diploma, with on-the-job training provided by the employer |
+| Retail Salesperson Vocational Training Certificate | German Chamber of Commerce and Industry (IHK) | Optional | Awarded after completing a 2-year dual training program, enhancing employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 680,000。德国零售业和旅游业的收银岗位需求稳定，但受自助结账和在线购票影响，就业增长有限。数字化可能导致部分岗位减少，但实体店和现场售票仍有需求，尤其在旅游业和活动行业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 680,000. Cashier positions in German retail and tourism remain stable but face limited growth due to self-checkout and online ticketing. Digitization may reduce some roles, but physical stores and on-site ticket sales are still needed, especially in tourism and events.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，取决于行业和地区 |
-| 中级（3-7年） | $28,000~$34,000 | 税前年薪，大型零售企业可能更高 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含主管职责 |
+| Median salary | $38,592 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Gross annual salary, depending on industry and region |
+| Mid-level (3–7 years) | $28,000~$34,000 | Annual salary before tax, may be higher at large retail enterprises |
+| Senior (7+ years) | $32,000~$40,000 | Annual salary before tax, including supervisory duties |
+| average salary | $45,084 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 初级收银员可晋升为高级收银员、值班经理或零售主管。通过参加职业培训（如零售管理）可转岗至采购、库存管理等职位。积累经验后也可向客户服务或销售专员方向发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Cashiers face significant automation compression; AI and self-service devices can handle most transactions, but human interaction, exception handling, and complex service scenarios still require humans, overall risk medium to high.
+
+Junior cashiers can advance to senior cashier, shift manager, or retail supervisor. Through vocational training (e.g., retail management), they can transition to roles in purchasing, inventory management, etc. With experience, they can also move into customer service or sales specialist positions.
+
+**Tasks most exposed to AI:**
+
+- Scan product barcodes and calculate total price
+- Process credit/debit card payments
+- Verifying check authenticity
+- Print and provide receipts
+- Handle simple returns and exchanges
+
+**Where AI augments the role:**
+
+- Provide personalized recommendations by analyzing customer purchase behavior with AI
+- Use AI to optimize cashier layout and queue management
+- Using voice assistants to quickly look up product information
+- Using AI tools for fraud detection and abnormal transaction handling
+- Engage customers through mobile apps to enhance loyalty
+
+**Human moat:**
+
+- Handle complex customer complaints and disputes
+- Handling emergencies (e.g., system failures, robberies)
+- Provide personalized service and emotional interaction.
+- Manage non-electronic payment processes such as cash and change
+- Maintain safety and order in the checkout area.
+
+**Skills to build:**
+
+- Customer service and communication skills
+- Basic cash management and counting skills
+- Use self-checkout systems and mobile payment devices
+- Data analysis and sales insights
+- Multitasking ability.
+- Ability to learn new technologies
+
+**Key growth areas:**
 
 - retail automation
 - self-checkout
@@ -63,65 +99,67 @@ Cashiers and ticket sellers handle cash and cashless transactions in retail stor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker Visa (Cha（Opportunity Card (Chancenkarte)） | 适用于评分制求职者，可在德国停留6个月寻找工作，但该岗位非紧缺，需证明德语能力 |
-| Subclass Skilled Worker Visa（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 若持有认可的职业培训证书，可申请技术移民签证，但收银员岗位通常不满足高技能要求 |
+| Subclass Job Seeker Visa (Cha (Opportunity Card (Chancenkarte)) | Applicable to points-based job seekers, allowing a 6-month stay in Germany to find a job, but this role is not in shortage, and German language proficiency must be demonstrated |
+| Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | If holding a recognized vocational training certificate, can apply for skilled migration visa, but cashier roles typically do not meet high-skill requirements. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cashier and Ticket Seller？**
-- 喜欢与人打交道、沟通能力强的求职者
-- 希望快速入职、无需高学历的群体
-- 对零售或旅游行业有热情的人员
+**Who is suited**
+- Job seekers who enjoy interacting with people and have strong communication skills
+- For those seeking quick employment without requiring high education
+- People passionate about the retail or tourism industry
 
-**谁不适合学Cashier and Ticket Seller？**
-- 追求高薪和快速职业发展的人士
-- 缺乏耐心、不擅长处理现金或数字设备的人
+**Who is not suited**
+- Individuals seeking high salary and rapid career advancement
+- Those lacking patience or not skilled at handling cash or digital devices
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for a cashier in Germany?**
+A: The pre-tax annual salary for entry-level cashier positions in Germany is approximately €22,000-28,000, with an hourly wage of about €11-13. Eastern regions are slightly lower than the West.
+
+**Q: Can a cashier apply for a German skilled migration visa?**
+A: Generally difficult, as cashiers are not in demand or high-skilled occupations. However, if you hold a recognized retail vocational training certificate in Germany, you can apply through the Skilled Migration Act, though competition is fierce and the salary threshold is high.
+
+**Q: Will self-checkout replace cashiers?**
+A: The trend toward self-checkout and online ticketing has indeed reduced demand for traditional cashiers, but complex transactions, customer service, and loss prevention still require human staff. The number of positions is expected to decline slowly, not disappear entirely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Cashier and Ticket Seller属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for cashiers in Germany?**
-答：Starting gross annual salary for cashiers is about €22,000-28,000, with hourly wages around €11-13. East Germany is slightly lower.
-
-**问：Can a cashier apply for a German skilled worker visa?**
-答：It is difficult as it is not a shortage or high-skilled occupation. However, holders of a recognized retail vocational training certificate may apply, but competition is high and salary thresholds apply.
-
-**问：Will self-checkout replace cashiers?**
-答：Self-checkout and digital ticketing reduce demand for traditional cashiers, but human staff are still needed for complex transactions, customer service, and security. Jobs are expected to slowly decline, not disappear.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

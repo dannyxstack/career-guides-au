@@ -1,60 +1,96 @@
-# Joiner（Joiner）职业分析 · 新西兰
+# Joiner — career analysis · New Zealand
 
-**职业代码：331213 – Joiner。**
+**Occupation code: 331213 (ANZSCO)**
 
-Joiners are skilled tradespeople in New Zealand specializing in crafting and installing wooden components like doors, windows, cabinets and furniture. Listed on Green List Tier 1, this occupation offers a direct pathway to residence under the Skilled Migrant Category 6-point system.
+Joinery is a key trade in New Zealand's construction industry, specializing in manufacturing and installing wooden components such as doors, windows, cabinets, and furniture. This occupation is on the Green List Tier 1, eligible for direct residency, with high immigration feasibility under the Skilled Migrant 6-point system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $6,000~$12,000（学徒期间可通过工读结合降低费用，部分培训由雇主资助） |
-| 预学徒培训 | 6个月至1年 | $3,000~$6,000（适合入门，提供基础木工技能） |
+| Apprenticeship | 3-4 years | $6,000~$12,000 (During apprenticeship, costs can be reduced through a combination of work and study, with some training funded by employers) |
+| Pre-apprenticeship training | 6 months to 1 year | $3,000~$6,000 (Suitable for beginners, provides basic carpentry skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰木工证书（LBP） | 新西兰建筑许可局 | 必备 | 从事建筑木工必备，细木工通常需持有。要求理论和实践考试。 |
-| 国家木工证书（Level 4） | 新西兰学历认证局（NZQA） | 必备 | 学徒期满后获得，证明熟练技工水平。 |
-| 安全培训卡（Site Safe） | Site Safe | 可选 | 工地安全培训，多数雇主要求。 |
-| 英语能力（IELTS） | 英国文化协会等 | 必备 | 技术移民要求IELTS 6.5分，配偶可加分。 |
+| New Zealand Carpentry Certificate (LBP) | New Zealand Building Consent Authority | Required | Essential for construction carpentry; joiners usually need to hold it. Requires theory and practical exams. |
+| National Certificate in Carpentry (Level 4) | New Zealand Qualifications Authority (NZQA) | Required | Obtained after completing apprenticeship, certifying skilled tradesperson level |
+| English proficiency (IELTS) | British Council, etc. | Required | Skilled migration requires IELTS 6.5; spouse can add points. |
+| Site Safety Card (Site Safe) | Site Safe | Optional | Construction site safety training, required by most employers. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。新西兰住房和商业建筑持续增长，细木工需求稳定。据MBIE预测，2025年前建筑业保持强劲，熟练细木工短缺明显，尤其在南岛和奥克兰地区。持LBP认证后就业机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. New Zealand's housing and commercial construction continue to grow, with steady demand for joinery. According to MBIE, the construction sector will remain strong until 2025, with a clear shortage of skilled joiners, especially in the South Island and Auckland. Holding LBP certification leads to more job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或新移民常见薪资 |
-| 中级（3-6年） | $55,000~$70,000 | 熟练工，持有LBP证书 |
-| 高级（6年以上） | $70,000~$90,000 | 工头或自主创业，可达10万以上 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Common salary for apprentices or new migrants |
+| Mid-level (3–6 years) | $55,000~$70,000 | Skilled worker, holding an LBP certificate |
+| Senior (6+ years) | $70,000~$90,000 | Foreman or self-employed, can reach over 100,000 |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：正面（★★★★☆）。** 初期通常担任学徒或工场助理，2-4年后成为熟练工。积累经验后晋升为工头、项目经理或自主创业。通过新西兰木工协会(NZCB)认证可提升职业高度。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
+
+Initially usually start as an apprentice or workshop assistant, becoming a qualified tradesperson after 2-4 years. With experience, progress to foreperson, project manager, or self-employment. Certification through the New Zealand Certified Builders Association (NZCB) can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Use BIM software for formwork design optimization (AI replaces manual calculation)
+- Automatic inspection of template dimensions and position accuracy through AI image recognition
+- Use drones or laser scanning to automatically measure field data
+- AI-generated cutting lists and material optimization plans
+- Automated template layout linked with CNC cutting.
+
+**Where AI augments the role:**
+
+- AI-assisted augmented reality (AR) headsets provide real-time template installation guidance
+- AI-driven project management tools optimize processes and resource scheduling
+- Digital twin simulates template forces to improve safety and quality
+- AI voice assistant for on-site documentation and reporting
+- Automatically generate construction progress reports and cost estimates
+
+**Human moat:**
+
+- On-site adjustment and manual fabrication of complex irregular formwork
+- Multi-trade coordination and on-site problem-solving skills
+- Experiential judgment of material properties (wood defects, humidity, etc.)
+- Client communication and understanding of customized needs
+- Physical adaptability for working at heights and heavy manual labor
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- Use of AR/VR construction assistance tools
+- CNC woodworking equipment programming and operation.
+- Basic data analysis (e.g., material utilization optimization)
+- Sustainable materials and green building practices.
+- Communication and teamwork (with AI tool assistance)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Joiners are skilled tradespeople in New Zealand specializing in crafting and ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 细木工在Tier 1列表，可直接申请居留，无需工作满2年。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，职业注册可加分，移民机会高。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于临时工作，积累经验后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Joinery is on the Tier 1 list and can directly apply for residency without working for 2 years. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, occupational registration can earn points, offering high immigration prospects. |
+| Subclass AEWV (Accredited Employer Work Visa) | Suitable for temporary work, then transition to residence after gaining experience. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Joiner？**
-- 热爱木工动手实操者
-- 希望在建筑行业快速移民的人
-- 有耐心且注重细节的匠人
-
-**谁不适合学Joiner？**
-- 不喜欢体力劳动或户外工作的人
-- 追求高薪白领岗位者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on woodworking
+- People who want to immigrate quickly through the construction industry
+- A patient and detail-oriented craftsman
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Those pursuing high-paying white-collar positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary for a joiner in New Zealand?**
+A: Junior: approx NZ$45,000-55,000, mid: $55,000-70,000, senior: $70,000-90,000; higher with experience or self-employment.
+
+**Q: How can a joiner immigrate to New Zealand?**
+A: Joiner is on Green List Tier 1, eligible for Straight to Residence Visa without needing 2 years of work. Also can use SMC 6-point system, under 55 years old, meet English requirement.
+
+**Q: Is a New Zealand local certificate required?**
+A: Yes, LBP carpentry certification and NZQA national certificate are necessary for practice; overseas experience may require assessment and possible additional training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 正面（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Joiner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for a joiner in New Zealand?**
-答：Entry-level: NZD 45,000-55,000; intermediate: NZD 55,000-70,000; senior: NZD 70,000-90,000; self-employed can earn more.
-
-**问：How can a joiner immigrate to New Zealand?**
-答：Joiners are on Green List Tier 1, eligible for a Straight to Residence Visa without a 2-year work requirement. Alternatively, apply under the SMC 6-point system, age under 55 and meet English requirements.
-
-**问：Do I need New Zealand qualifications?**
-答：Yes, the LBP license and NZQA National Certificate are mandatory. Overseas experience may be assessed, possibly requiring bridging training.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

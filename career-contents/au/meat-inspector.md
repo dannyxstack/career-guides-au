@@ -1,60 +1,96 @@
-# Meat Inspector（Meat Inspector）职业分析 · 澳大利亚
+# Meat Inspector — career analysis · Australia
 
-**职业代码：311312 – Meat Inspector。**
+**Occupation code: 311312 (ANZSCO)**
 
-Meat Inspectors work in abattoirs and meat processing plants, inspecting livestock and poultry carcasses to ensure compliance with hygiene and safety standards, prevent disease transmission, and guarantee food safety. The role demands keen observation skills and knowledge of food safety regulations.
+Meat inspectors work in slaughterhouses and meat processing plants, inspecting livestock and poultry products for compliance with hygiene and safety standards, preventing disease spread and ensuring food safety. This role requires keen observation and knowledge of food safety regulations.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书III/IV | 1-2年 | $5,000~$15,000（TAFE等公立机构费用较低） |
-| 理学或相关学士学位 | 3年 | $30,000~$45,000（大学学费，国际生更高） |
+| Certificate III/IV in Vocational Education | 1-2 years | $5,000~$15,000 (TAFE and other public institutions have lower fees) |
+| Bachelor's degree in science or related field | 3 years | $30,000~$45,000 (University tuition, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 肉类检查三级证书 | TAFE或注册培训机构 | 必备 | 核心职业资格 |
-| 食品安全培训 | 各州食品安全机构 | 可选 | 部分雇主要求 |
+| Certificate III in Meat Processing | TAFE or registered training organizations | Required | Core occupational qualification |
+| Food safety training | State food safety agencies | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。澳洲肉类加工业持续稳定，食品安全监管严格，肉类检查员需求保持稳健。预计未来五年就业增长平稳，受人口增长和出口需求支撑。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. The Australian meat processing industry is consistently stable, with strict food safety regulations, keeping demand for meat inspectors robust. Employment growth is expected to remain steady over the next five years, supported by population growth and export demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 起薪约5.5万澳元 |
-| 中级（3-7年） | $65,000~$80,000 | 经验积累后薪资提升 |
-| 高级（7年以上） | $80,000~$95,000 | 高级检查员或主管级别 |
+| Median salary | $69,160 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$65,000 | Starting salary approximately AUD 55,000 |
+| Mid-level (3–7 years) | $65,000~$80,000 | Salary increases with experience |
+| Senior (7+ years) | $80,000~$95,000 | Senior inspector or supervisor level |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从初级检查员起步，积累经验后可晋升为高级检查员或主管，也可转向食品安全管理或政府监管岗位。部分人通过进修进入兽医公共卫生领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Visual inspection tasks for meat inspectors are easily automated by AI, but key duties involving sensory judgment, regulatory interpretation, and on-site decision-making still rely on humans; overall, there are both risks and opportunities.
+
+Usually starts as a junior inspector, with experience can advance to senior inspector or supervisor, or move into food safety management or government regulatory roles. Some enter veterinary public health through further study.
+
+**Tasks most exposed to AI:**
+
+- Using computer vision systems to automatically detect surface defects and foreign objects in meat products
+- Automatically record environmental indicators like temperature and humidity through sensor data
+- Use image recognition to automatically match meat labels with animal identification
+- Automatically complete routine compliance report generation based on databases.
+- AI analyzes historical data to predict potential health risk batches
+
+**Where AI augments the role:**
+
+- AI provides real-time detection analysis to assist inspectors in focusing on high-risk areas.
+- Enhanced data analysis capabilities to quickly locate pollution sources in the supply chain
+- Smart wearable devices assist in recording on-site inspection results, reducing paperwork.
+- AI simulation training system to improve new employees' speed in identifying complex lesions
+- Remote expert system provides instant diagnostic support via AR glasses
+
+**Human moat:**
+
+- Judgment of non-visual senses such as abnormal odors and textures
+- Dynamically adjusting inspection priorities in complex production environments
+- Interprets and applies constantly changing food safety regulations
+- Communicate effectively with slaughterhouse managers and drive corrective actions
+- Decision-making skills when handling ethical issues such as animal welfare
+
+**Skills to build:**
+
+- Mastering operation and parameter calibration of AI detection systems
+- Data analysis basics, able to interpret trend reports and take action
+- Food Safety Regulation Updates and Compliance Management Skills
+- Cross-departmental communication and crisis management skills
+- Basic programming skills for interacting with automated systems
+- Continuous learning ability to adapt to technological iterations.
+
+**Key growth areas:**
 
 - Food safety
 - Export demand
@@ -63,69 +99,68 @@ Meat Inspectors work in abattoirs and meat processing plants, inspecting livesto
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，职业在CSOL上，满足基本要求后可申请 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保，职业在相关清单上 |
-| Subclass 186（Employer Nomination Scheme Visa） | 雇主担保永居，需482过渡后申请 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, occupation is on the CSOL, eligible to apply after meeting basic requirements |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state nomination, with occupation on the relevant list. |
+| Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent residency, requires transition after a 482 visa |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meat Inspector？**
-- 对食品安全有热情、细心严谨的人
-- 能适应屠宰场环境、体力较好的人
-- 寻求稳定职业且愿意在偏远地区工作的人
-
-**谁不适合学Meat Inspector？**
-- 对血腥或动物尸体感到不适的人
-- 不喜欢重复性检查工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with passion for food safety who are detail-oriented and meticulous.
+- People who can adapt to slaughterhouse environments and are physically strong
+- People seeking stable careers and willing to work in regional areas
+
+**Who is not suited**
+- People who are uncomfortable with blood or animal carcasses
+- Those who dislike repetitive inspection work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Meat Inspector?**
+A: Junior approx. AUD $55,000-65,000, intermediate $65,000-80,000, senior $80,000-95,000, varies by region and experience.
+
+**Q: How can meat inspectors immigrate to Australia?**
+A: Work can be through the 482 employer-sponsored temporary visa, or immigrate via the 491 Skilled Work Regional (Provisional) visa, then transition to 186 permanent residence. The occupation is on the CSOL.
+
+**Q: What is the career progression path for a meat inspector?**
+A: Progress from inspector to senior inspector, supervisor, or shift to food safety management, government regulatory roles, or further study to become a veterinary public health specialist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Meat Inspector为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Meat Inspector?**
-答：Entry-level earns around AUD 55,000-65,000, mid-level AUD 65,000-80,000, and senior AUD 80,000-95,000, varying by location and experience.
-
-**问：How can a Meat Inspector migrate to Australia?**
-答：Options include the 482 Temporary Skill Shortage visa via employer sponsorship, or the 491 Skilled Work Regional visa for regional areas, then transitioning to the 186 permanent visa. The occupation is on the CSOL.
-
-**问：What is the career progression for a Meat Inspector?**
-答：From inspector to senior inspector, supervisor, or move into food safety management, government regulation, or further study to become a veterinary public health specialist.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

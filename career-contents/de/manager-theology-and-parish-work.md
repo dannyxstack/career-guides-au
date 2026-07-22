@@ -1,60 +1,96 @@
-# Manager - Theology and Parish Work（Manager - Theology and Parish Work）职业分析 · DE
+# Manager - Theology and Parish Work — career analysis · Germany
 
-**职业代码：8339 – Manager - Theology and Parish Work。**
+**Occupation code: 8339 (KldB)**
 
-Leads religious communities or parishes, overseeing worship services, community activities, pastoral care, and administrative tasks.
+Lead a religious community or parish, responsible for religious ceremonies, community activities, pastoral care, and administrative affairs.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 神学硕士 | 5年（大学） | —（部分州免学费，仅收学期费） |
-| 神学学士 | 3年（大学） | —（公立大学基本免学费） |
+| Master of Divinity | 5 years (university) | $0~$1,500 (Some states offer free tuition, only charging semester fees) |
+| Bachelor of Theology | 3 years (university) | $0~$1,500 (Public universities are essentially tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学硕士学位 | 大学 | 必备 | 通常为德国福音派或天主教神学院 |
-| 牧师任命 | 教会 | 必备 | 需通过教会内部考试和任命程序 |
+| Master of Theology degree | University | Required | Usually from German Protestant or Catholic seminaries |
+| Pastoral appointment | Church | Required | Must pass the church's internal exam and appointment process |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。德国宗教社区结构稳定，但受世俗化影响，需求缓慢下降。岗位多由神职人员内部晋升，市场较小。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The structure of religious communities in Germany is stable, but affected by secularization, demand is slowly declining. Positions are mostly filled through internal promotion among clergy, with a small market.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，按教会薪资标准 |
-| 中级（3-7年） | $45,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$70,000 | 税前年薪，含领导职责 |
+| Median salary | $67,416 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, according to church salary scale |
+| Mid-level (3–7 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$70,000 | Annual salary before tax, including leadership responsibilities |
+| average salary | $65,376 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从神职人员或社区工作者晋升至领导岗位，需进一步神学教育或管理培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of Theology and Community Work Manager faces automation risks in administrative tasks, while AI can enhance community services and content creation. However, core pastoral care and parish leadership require deep interpersonal trust and emotional intelligence, making it an area difficult for AI to replace.
+
+Advancement from clergy or community worker to leadership roles requires further theological education or management training.
+
+**Tasks most exposed to AI:**
+
+- Automation of religious ceremony scheduling and attendee management
+- AI generation and auditing of parish financial reports and donation records
+- Automatic drafting of community event promotional materials (e.g., press releases, social media posts)
+- Preliminary AI response for standardized counselling in pastoral care
+- Automated processing of parish data statistics and member trend analysis
+
+**Where AI augments the role:**
+
+- AI-assisted personalized pastoral care: providing customized spiritual support suggestions by analyzing member data
+- Use NLP tools to quickly retrieve and summarise theological literature, improving sermon preparation efficiency
+- AI-driven community needs analysis to optimize event planning and resource allocation
+- Multilingual AI translation tool supports cross-cultural community communication, expanding parish influence
+- AI-assisted ethical decision-making simulations for exploring and educating on complex moral issues
+
+**Human moat:**
+
+- Face-to-face pastoral care and end-of-life companionship, requiring deep emotional resonance
+- Presiding over religious ceremonies and sacraments requires human authority and spiritual presence
+- Handle community conflicts and crisis psychological intervention, relying on trust and intuition
+- Innovative interpretation of theological doctrines and moral leadership require human wisdom and experience
+- Building and maintaining long-term trust among parish members, which algorithms cannot replace
+
+**Skills to build:**
+
+- Knowledge at the intersection of AI ethics and theology (e.g., algorithmic bias and moral decision-making)
+- Data analysis basics: use Python or low-code tools to analyze community engagement data
+- Digital chaplaincy skills: use of online counseling platforms and virtual worship tools
+- AI content creation tools (e.g., ChatGPT, DALL-E) assist in designing promotional materials
+- Advanced use of community management software (e.g. Church Community Builder)
+- Multimedia production (video editing, podcasting) to expand online presence
+
+**Key growth areas:**
 
 - Secularization
 - Stable demand
@@ -63,65 +99,64 @@ Leads religious communities or parishes, overseeing worship services, community 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需有德国认可的神学学位及教会工作合同 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适合有神学背景者先入境找工作 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognized theology degree and a church employment contract. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for those with theology background to first enter the country for job seeking |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manager - Theology and Parish Work？**
-- 有深厚宗教信仰并愿意投身教会工作的人
-- 具备神学背景和领导能力的人
-- 能接受相对稳定但收入不高的职业
-
-**谁不适合学Manager - Theology and Parish Work？**
-- 对宗教无兴趣或持批判态度的人
-- 追求高薪和快速职业发展的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong religious beliefs willing to dedicate themselves to church work
+- People with a theological background and leadership skills
+- Able to accept a relatively stable but low-income career
+
+**Who is not suited**
+- Those with no interest in religion or with a critical attitude towards it
+- People pursuing high salary and fast career development
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Theology and Community Work Managers?**
+A: Pre-tax annual salary is approximately EUR 35,000-70,000, depending on church size, region, and experience.
+
+**Q: Can foreigners become a theology manager through skilled migration?**
+A: Yes, but it is difficult, requiring a German-recognised university theology degree and obtaining a church work contract, usually needing qualification recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Manager - Theology and Parish Work为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Manager - Theology and Parish Work?**
-答：Pretax annual salary ranges from €35,000 to €70,000, depending on church size, region, and experience.
-
-**问：Can foreigners become a theology manager via skilled migration?**
-答：Yes, but it is challenging. Requires a recognized theology degree and a church job offer, often needing credential recognition.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

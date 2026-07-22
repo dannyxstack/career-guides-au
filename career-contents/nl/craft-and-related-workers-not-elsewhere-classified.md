@@ -1,60 +1,94 @@
-# Craft and Related Workers Not Elsewhere Classified（Craft and Related Workers Not Elsewhere Classified）职业分析 · NL
+# Craft and Related Workers Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：7549 – Craft and Related Workers Not Elsewhere Classified。**
+**Occupation code: 7549 (ISCO08)**
 
-Covers a variety of craft occupations not elsewhere classified, such as jewelry making, musical instrument manufacturing, and glassware production, requiring manual skills and precision.
+Covers various craft occupations not separately classified, such as jewelry making, musical instrument making, and glassware manufacturing, often requiring manual skills and meticulous operation.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3-4年（MBO） | —（荷兰政府资助，学费低廉） |
-| 学徒制 | 2-4年 | —（边工作边学习，企业承担大部分费用） |
+| Secondary vocational education | 3-4 years (MBO) | $0~$2,000 (Funded by the Dutch government, low tuition fees) |
+| Apprenticeship | 2-4 years | $0~$1,000 (Work and study simultaneously, with the company covering most costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO文凭（中等职业教育） | 荷兰教育机构 | 必备 | 通常为入门要求 |
-| 行业认证（如金匠、乐器制作） | 行业组织 | 可选 | 自愿但有利就业 |
+| MBO diploma (secondary vocational education). | Dutch educational institution | Required | Typically an entry-level requirement |
+| Industry certifications (e.g., goldsmithing, musical instrument making) | Industry organizations. | Optional | Voluntary but Beneficial for Employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,000。荷兰手工艺行业规模较小，就业增长平稳，受自动化和进口影响，部分领域就业机会有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,000. The Dutch handicraft industry is small in scale, with steady employment growth. Affected by automation and imports, job opportunities are limited in some areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径通常从学徒开始，逐步成为熟练工匠，少数可自主创业或成为高级技师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI tools will enhance craftspeople's design capabilities and precision, but abstract creativity and artistic aesthetics remain core human strengths; the overall career outlook is optimistic.
+
+Career development paths usually start from apprenticeship, gradually becoming skilled craftsmen, with a few being able to start their own businesses or become senior technicians.
+
+**Tasks most exposed to AI:**
+
+- Repetitive manual grinding and polishing procedures
+- Standardized parts cutting and assembly
+- Simple visual inspection in quality testing
+- Basic calculation and selection of material properties
+
+**Where AI augments the role:**
+
+- Use AI to generate complex patterns and structural design solutions
+- Precise assembly guidance using AR glasses
+- Use AI to predict material behaviour to optimise process workflows
+- Achieve personalized customization through AI analysis of customer preferences.
+
+**Human moat:**
+
+- Unique artistic creativity and aesthetic judgment
+- High-precision manual control with haptic feedback
+- Deep understanding of traditional craft culture background.
+- On-site problem-solving and adaptability
+- Client communication and custom requirement interpretation.
+
+**Skills to build:**
+
+- AI-assisted design software (e.g., generative tools)
+- 3D printing and CNC machining operations
+- Basic knowledge of sensors and the Internet of Things (IoT)
+- Digital modeling and visual representation
+- Interdisciplinary materials knowledge (new composite materials)
+- Customer experience design and consultation communication
+
+**Key growth areas:**
 
 - Automation impact
 - Niche specialization
@@ -63,62 +97,64 @@ Covers a variety of craft occupations not elsewhere classified, such as jewelry 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Permit） | 适合高技能手工艺人才，需雇主担保且工资达到门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历手工艺专家，要求较高薪资。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Suitable for high-skilled craft workers, requires employer sponsorship and meeting the salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated artisan specialists, requiring higher salary. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Craft and Related Workers Not Elsewhere Classified？**
-- 喜欢手工制作、注重细节的人
-- 愿意接受低薪但追求技艺的人
-- 有创业意向的独立工匠
+**Who is suited**
+- Enjoys handcrafting and pays attention to detail
+- Individuals willing to accept low pay but pursue craftsmanship
+- Independent artisans with entrepreneurial intentions
 
-**谁不适合学Craft and Related Workers Not Elsewhere Classified？**
-- 追求高收入和快速晋升的人
-- 缺乏耐心、不喜欢重复性工作的人
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- Lack patience, dislike repetitive work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for craft workers?**
+A: Entry-level annual salary approx. €22,000-28,000, senior up to €45,000, generally below national average.
+
+**Q: Can foreigners emigrate to the Netherlands through handicraft occupations?**
+A: Difficult, as the occupation is not in shortage and immigration policies favor high-skilled or highly educated individuals. Only a few high-end craft specialists may qualify through skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Craft and Related Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for craft workers?**
-答：Entry-level annual salary is around EUR 22,000-28,000, up to EUR 45,000 for senior roles, below national average.
-
-**问：Can foreigners immigrate to the Netherlands through craft occupations?**
-答：It is difficult as the occupation is not in shortage and immigration policies favor high-skilled or highly educated workers. Only a few high-end craft experts may qualify for Highly Skilled Migrant permit.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Parking Inspector（Parking Inspector）职业分析 · 澳大利亚
+# Parking Inspector — career analysis · Australia
 
-**职业代码：561913 – Parking Inspector。**
+**Occupation code: 561913 (ANZSCO)**
 
-Parking Inspectors enforce parking regulations by patrolling streets and parking areas, issuing tickets for violations to ensure traffic flow and public safety. They are typically employed by local governments as frontline public administration roles.
+Parking enforcement officers enforce parking regulations, patrol streets and parking lots, issue tickets for illegally parked vehicles, and ensure traffic flow and public safety. These positions are typically employed by local governments and are front-line public administration roles.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 3年 | —（公立高中免费） |
-| 职业培训或短期课程 | 6个月 | $1,200~$3,500（如公共服务或执法基础证书） |
+| High school graduation | 3 years | $0~$0 (Public high schools are free) |
+| Vocational training or short-term courses | 6 months. | $1,200~$3,500 (e.g., public service or law enforcement foundation certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无/极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制学历要求 | N/A | 可选 | 高中毕业即可，部分雇主偏好有相关经验 |
-| 驾驶执照 | 州/领地交通局 | 必备 | 通常要求持有有效的C类或以上驾照 |
-| 在职培训 | 雇主（地方政府） | 可选 | 入职后接受停车法规、报告撰写等培训 |
+| Driver's license | State/Territory Transport Authority | Required | Typically requires a valid Class C or higher driver's license |
+| No mandatory education requirement | N/A | Optional | High school diploma required, some employers prefer relevant experience |
+| On-the-job training | Employer (Local Government) | Optional | On-the-job training in parking regulations, report writing, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,600。澳洲城市化持续，车辆保有量增长，地方政府对停车管理的需求稳定。该职位受自动化冲击有限，因需现场判断和执法裁量。预计未来5年就业保持平稳或小幅增长。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,600. Australia's ongoing urbanization and vehicle ownership growth ensure stable demand for parking management. This role is limitedly affected by automation due to the need for on-site judgment and enforcement discretion. Employment is expected to remain stable or grow slightly over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 地方政府工资标准，含津贴 |
-| 中级（3-7年） | $60,000~$75,000 | 含加班和绩效奖励 |
-| 高级/主管（7年以上） | $75,000~$90,000 | 主管级别，管理团队 |
+| Median salary | $74,516 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$60,000 | Local government salary standards, including allowances |
+| Mid-level (3–7 years) | $60,000~$75,000 | Including overtime and performance bonuses |
+| Senior/Supervisor (7+ years) | $75,000~$90,000 | Supervisor level, managing a team |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级停车检查员可晋升为高级检查员或主管，负责培训新人和调配资源。部分人员转入交通管理、社区安全或地方政府行政岗位。需积累执法经验和沟通技巧。
-**AI替代风险：低风险（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly reduce parking inspector positions; automatic license plate recognition, mobile payments, and smart surveillance can already replace most on-site inspections and ticket issuance, leading to decreased demand.
+
+Junior parking inspectors can advance to senior inspector or supervisor, responsible for training new staff and allocating resources. Some transition to traffic management, community safety, or local government administration roles. Requires accumulation of enforcement experience and communication skills.
+
+**Tasks most exposed to AI:**
+
+- Automatic detection of illegal parking and generation of fines via automatic number plate recognition (ANPR) cameras
+- Use mobile payment data and digital permit systems to verify parking payment compliance
+- Automated patrol route planning and violation record generation
+- Analyse parking occupancy rates in real time via AI to adjust enforcement priorities
+- Using chatbots to handle standard parking fine appeals and inquiries
+
+**Where AI augments the role:**
+
+- Use data analysis to optimize parking policies (e.g., dynamic pricing, time slot adjustments)
+- Handle complex or disputed compliance cases using AI-assisted decision-making tools
+- Manage multiple areas simultaneously via mobile apps and remote monitoring
+- Boosts administrative efficiency with automated report generation
+- Deploy law enforcement resources ahead of peak events using predictive models
+
+**Human moat:**
+
+- Handle complex enforcement scenarios involving personal safety and emergency vehicle access
+- Flexible judgment for special situations (e.g., severe weather, special events)
+- Ability to communicate face-to-face with the public and mediate conflicts
+- Legal knowledge and evidence chain integrity assurance
+- Emergency coordination skills during equipment failure or power outages
+
+**Skills to build:**
+
+- Data analysis and report interpretation (e.g., Excel, Tableau)
+- AI tool operation (e.g., automated enforcement system monitoring software)
+- Conflict resolution and customer service skills
+- Basic legal knowledge (administrative fine procedures, appeal process).
+- Project management (e.g., piloting new technology or optimizing processes)
+- Learn to use municipal digital platforms (e.g., online payment systems)
+
+**Key growth areas:**
 
 - Stable
 - Urbanisation
@@ -64,66 +100,68 @@ Parking Inspectors enforce parking regulations by patrolling streets and parking
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 停车检查员通常不在技术职业清单上，482签证不适用 |
-| Subclass 189（Skilled Independent Visa） | 该职业不在MLTSSL上，无法申请189 |
-| Subclass 190（Skilled Nominated Visa） | 几乎无州担保可能，因为非紧缺且低技能 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Parking inspectors are typically not on skilled occupation lists, so 482 visa is not applicable |
+| Subclass 189 (Skilled Independent Visa) | This occupation is not on the MLTSSL, so cannot apply for 189. |
+| Subclass 190 (Skilled Nominated Visa) | Almost no possibility of state nomination, as it is not in shortage and is low-skilled. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Parking Inspector？**
-- 喜欢户外工作、独立执行任务的人
-- 具备良好沟通和冲突处理能力的人
-- 注重规则和细节、有责任心的人
+**Who is suited**
+- People who enjoy outdoor work and independent tasks
+- People with good communication and conflict management skills
+- People who are rule-oriented, detail-focused, and responsible
 
-**谁不适合学Parking Inspector？**
-- 不擅长与人打交道、应对冲突的人
-- 希望高薪或快速发展职业的人
+**Who is not suited**
+- People who are not good at dealing with interpersonal relationships or conflicts
+- People seeking high salary or rapid career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a parking inspector?**
+A: Junior approx. 50,000-60,000 AUD, mid-level 60,000-75,000, senior manager up to 90,000. Starting salary is low, but stable with government benefits.
+
+**Q: Can a parking inspector immigrate to Australia?**
+A: Almost impossible. This occupation is not on the skilled migration occupation list and is not a shortage occupation. Only a very few remote area DAMA agreements may cover it, but this is extremely rare.
+
+**Q: Does this career have growth prospects?**
+A: Career prospects are stable but limited. Advancement to parking management supervisor, traffic compliance officer, or local government administrative roles is possible, but cross-industry opportunities are few.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无/极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低风险（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Parking Inspector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Parking Inspector?**
-答：Entry level AUD 50,000-60,000, mid-level AUD 60,000-75,000, senior/supervisor up to AUD 90,000. Starting salary is low but stable with government benefits.
-
-**问：Can a Parking Inspector migrate to Australia?**
-答：Almost impossible. The occupation is not on the skilled occupation list and not in shortage. Only very remote DAMA agreements may cover it, but rare.
-
-**问：Does this career have good prospects?**
-答：Stable but limited. Progression to parking supervisor, traffic compliance officer, or local government admin, but cross-industry opportunities are few.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

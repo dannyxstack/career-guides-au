@@ -1,60 +1,92 @@
-# First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand（First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand）职业分析 · 美国
+# First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand — career analysis · United States
 
-**职业代码：53-1042 – First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand。**
+**Occupation code: 53-1042 (SOC)**
 
-Directly supervise and coordinate the activities of helpers, laborers, or material movers, hand to ensure efficient and safe operations.
+Directly supervises and coordinates the activities of movers, laborers, or manual material handlers, ensuring efficient and safe work.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 危险品操作认证（如适用） | OSHA或其他相关机构 | 可选 | 处理危险材料时需要 |
-| 叉车操作证书 | OSHA认证培训机构 | 必备 | 通常需要操作叉车 |
+| Forklift operator certificate | OSHA-authorized training provider | Required | Usually requires operating a forklift |
+| Dangerous goods handling certification (if applicable) | OSHA or other relevant agencies. | Optional | Required when handling hazardous materials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 180,500。随着物流和电子商务的持续增长，该职业需求稳定，但自动化可能影响就业增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 180,500. With the continued growth of logistics and e-commerce, demand for this occupation is stable, but automation may impact employment growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 基于BLS数据 |
-| 中级（3-7年） | $45,000~$60,000 | 具有经验和管理能力 |
-| 高级（7年以上） | $60,000~$80,000 | 负责大型团队或复杂操作 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Based on BLS data |
+| Mid-level (3–7 years) | $45,000~$60,000 | Having experience and management skills |
+| Senior (7+ years) | $60,000~$80,000 | Responsible for large teams or complex operations |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从搬运工做起，晋升为主管后，可进一步晋升为仓库经理或物流经理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Entry-level positions for movers and material handling supervisors (movers) are being heavily compressed by automated guided vehicles and robots, but supervisory and scheduling responsibilities are partially enhanced by AI scheduling systems; overall job numbers are decreasing.
+
+Usually start as a handler, then advance to supervisor, and further to warehouse manager or logistics manager.
+
+**Tasks most exposed to AI:**
+
+- Manual handling and stacking of goods (replaced by AMR/forklift AGV)
+- On-site attendance and scheduling (automatically assigned by WMS scheduling system)
+- Manual inventory movement recording (replaced by RFID/sensor real-time tracking)
+- Simple safety patrol (covered by AI visual monitoring system)
+
+**Where AI augments the role:**
+
+- Abnormal event handling (supervisor prioritizes after system alarm)
+- Multi-device coordination strategy (fleet scheduling optimization based on real-time data)
+- Employee training and compliance guidance (AI-assisted generation of training materials)
+- Cross-department communication and resource integration (AI summarizes multi-source information)
+
+**Human moat:**
+
+- Complex on-site decision-making (unstructured handling of equipment failures and emergencies)
+- Team motivation and safety management (humane communication and discipline enforcement)
+- Cross-functional collaboration (coordination with transport manager, warehouse manager)
+- Non-standardized material handling (manual solutions for irregular or fragile items)
+
+**Skills to build:**
+
+- Warehouse Management System (WMS) operation and configuration
+- Monitoring and exception handling of automated material handling equipment (AGV/AMR).
+- Data analysis (Excel/Power BI) to optimize handling efficiency.
+- Safety compliance and emergency response (OSHA standards)
+- Cross-departmental coordination and communication
+- Project Management (Lean Six Sigma)
+
+**Key growth areas:**
 
 - Warehousing
 - E-commerce
@@ -63,65 +95,67 @@ Directly supervise and coordinate the activities of helpers, laborers, or materi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 该职业通常不符合H-1B专业职业要求，因不需学士学位。 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers, Professionals, and Other Workers)） | 可能通过EB-3其他工人类别申请，但需PERM劳工证，且排期较长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | This occupation typically does not qualify for H-1B professional specialty due to not requiring a bachelor's degree. |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers, Professionals, and Other Workers)) | May apply through EB-3 Other Workers category, but requires PERM labor certification and long wait times. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand？**
-- 喜欢体力劳动和管理工作
-- 善于沟通和团队协调
-- 有物流或仓储经验
+**Who is suited**
+- Those who enjoy physical labor and management work
+- Good communication and team coordination skills
+- Experience in logistics or warehousing
 
-**谁不适合学First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand？**
-- 不喜欢户外或体力劳动
-- 希望高薪且快速晋升
+**Who is not suited**
+- Dislikes outdoor or manual labor
+- Desiring high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation?**
+A: According to BLS, the average annual salary in 2023 was around USD 55,000, but depends on location and experience.
+
+**Q: Can this occupation immigrate to the US via skilled migration?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and EB-3 other worker backlogs are long.
+
+**Q: How to advance to logistics manager?**
+A: Usually requires several years of supervisory experience and may require further study in logistics management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation?**
-答：According to BLS, the average annual salary in 2023 is about $55,000, varying by location and experience.
-
-**问：Can one immigrate to the US through this occupation?**
-答：Very difficult. This occupation usually does not qualify for H-1B specialty occupation, and EB-3 other worker has long backlog.
-
-**问：How to advance to logistics manager?**
-答：Typically requires several years of supervisory experience and may require a degree in logistics management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

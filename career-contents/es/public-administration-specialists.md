@@ -1,58 +1,92 @@
-# Public Administration Specialists（Public Administration Specialists）职业分析 · ES
+# Public Administration Specialists — career analysis · Spain
 
-**职业代码：2623 – Public Administration Specialists。**
+**Occupation code: 2623 (CNO)**
 
-Public Administration Specialists analyze policies, manage projects, and optimize public services in government agencies, public institutions, or international organizations, ensuring efficient use of resources and effective policy implementation.
+Public management experts are responsible for policy analysis, project management, and public service optimization in government departments, public institutions, or international organizations, ensuring efficient use of public resources and effective policy implementation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学每年约1000-2000欧元，私立较高） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$12,000（公共管理或相关领域，公立大学约2000-4000欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Public universities charge about EUR 1,000-2,000 per year; private ones are higher.) |
+| Máster | 1-2 years (Máster) | $2,000~$12,000 (Public administration or related fields, public universities cost about 2000-4000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共管理或相关学科学位 | 大学 | 必备 | 通常要求本科以上学历，政治学、法学、经济学等专业 |
-| 公务员考试（Oposiciones） | 西班牙公共行政机构 | 必备 | 进入政府部门需通过公开竞争考试 |
+| A degree in Public Administration or a related discipline | University | Required | Usually, a bachelor's degree or above is required, majoring in political science, law, economics, or similar fields |
+| Civil Service Examination (Oposiciones) | Spanish public administration | Required | To enter government departments, one must pass an open competitive exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 125,000。西班牙公共管理领域职位稳定，受老龄化影响，退休人员增加带来岗位空缺。数字化和透明度改革创造新需求，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 125,000. Positions in Spain's public administration sector are stable, but due to an aging population, the increase in retirees has created vacancies. Digital and transparency reforms create new demands, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 技术员或初级分析师 |
-| 中级（3-7年） | $30,000~$45,000 | 有经验的分析师或项目经理 |
-| 高级（7年以上） | $45,000~$65,000 | 部门主管或高级顾问 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Technician or junior analyst |
+| Mid-level (3–7 years) | $30,000~$45,000 | Experienced analyst or project manager |
+| Senior (7+ years) | $45,000~$65,000 | Department Head or Senior Consultant |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 常见晋升路径：技术员→分析师→部门主管→高级管理职位，也可通过进修硕士提升至高层决策岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Policy analysts face mixed prospects: AI can assist with data collection, literature reviews, and drafting reports, but policy advice involves trade-offs, ethical judgment, and public accountability, making core decisions hard to automate. Entry-level roles are compressed due to automation, but demand for senior analysis increases.
+
+Common promotion paths: Technician→ analyst→ department head, → senior management positions, and can also advance to senior decision-making positions through master's studies.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and organization of policy-related information from government databases, academic journals, and news
+- Generate policy briefs and draft reports (e.g., background, data, option comparisons)
+- Performing basic calculations and visualizations for quantitative analysis (e.g., cost-benefit, regression models)
+- Translate or summarize multilingual policy documents
+
+**Where AI augments the role:**
+
+- Using AI to rapidly simulate the economic and social impacts of different policy options (e.g., system dynamics models)
+- Analyze opinion distribution in large volumes of public feedback or hearing records using natural language processing
+- Use AI tools to extract stakeholder positions, conflict points, and consensus areas
+- Discover cross-disciplinary policy links and innovative solutions through intelligent search and knowledge graphs
+
+**Human moat:**
+
+- Weighing trade-offs and making value judgments in conflicting goals (e.g., efficiency vs. equity)
+- Ethical assessment of hidden impacts on vulnerable groups
+- Providing feasible advice in politically sensitive scenarios and bearing public accountability.
+- Integrate divergent views of multiple stakeholders and reach consensus
+- Writing persuasive narratives targeting political leaders and the public
+
+**Skills to build:**
+
+- Python or R for policy simulation and data analysis
+- Natural language processing tools (e.g., ChatGPT API) for document summarization and opinion mining
+- Causal inference methods (e.g., difference-in-differences, regression discontinuity)
+- Data visualization (e.g., Tableau, D3.js)
+- AI ethics and bias audit knowledge
+- Systems Thinking and Complex System Modeling
+
+**Key growth areas:**
 
 - Digitalization
 - Policy Analysis
@@ -61,68 +95,67 @@ Public Administration Specialists analyze policies, manage projects, and optimiz
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 受雇于西班牙公共或私营机构的工作居留，需雇主担保 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，要求合同年薪不低于西班牙平均工资的1.5倍 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 针对高学历或专业人才，流程较快，可携带家属 |
+| Subclass Cuenta ajena (Employed Work Permit) | Work residence employed by Spanish public or private institutions requires employer sponsorship |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, the contract annual salary is required to be no less than 1.5 times the average salary in Spain |
+| Subclass Altamente cualificad (Highly Qualified Professional) | For highly educated or professional talents, the process is relatively quick, and family members can be brought along |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Administration Specialists？**
-- 对公共政策和公共服务有热情的人群
-- 善于分析和解决问题，具备良好沟通能力
-- 愿意通过公务员考试获取稳定职位
-
-**谁不适合学Public Administration Specialists？**
-- 不愿面对官僚程序和高度规范环境
-- 追求快速职业晋升和高薪回报
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about public policy and public services
+- Good at analyzing and solving problems, with good communication skills
+- Willing to obtain stable positions through the civil service exam
+
+**Who is not suited**
+- Unwilling to face bureaucratic procedures and highly regulated environments
+- Pursue rapid career advancement and high salary returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for public administration specialists?**
+A: Beginner is about 22,000-30,000 euros, intermediate is 30,000-45,000 euros, and advanced can go up to 65,000 euros. Civil servant salaries are stable, with additional benefits.
+
+**Q: How can foreigners enter the field of public administration in Spain?**
+A: A work visa is required, such as Cuenta Ajena or an EU Blue Card. Some positions require passing the civil service exam, but positions in international organizations or policy analysts may not require an exam.
+
+**Q: Is Spanish diploma certification required?**
+A: For civil service exams, foreign qualifications must undergo homologación certification. Private or international organizations may not require it.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Public Administration Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of Public Administration Specialists?**
-答：Entry-level ranges from €22,000 to €30,000, mid-level €30,000 to €45,000, and senior up to €65,000. Public sector salaries are stable with additional benefits.
-
-**问：How can foreigners enter the public administration field in Spain?**
-答：Requires a work visa such as Cuenta ajena or EU Blue Card. Some positions require passing Oposiciones, but roles in international organizations or policy analysis may not.
-
-**问：Is homologation of foreign degrees required?**
-答：For Oposiciones, foreign degrees must undergo homologación. Private or international organizations may not require it.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

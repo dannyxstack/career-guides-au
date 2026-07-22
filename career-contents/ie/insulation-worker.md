@@ -1,59 +1,95 @@
-# Insulation Worker（Insulation Worker）职业分析 · IE
+# Insulation Worker — career analysis · Ireland
 
-**职业代码：7124 – Insulation Worker。**
+**Occupation code: 7124 (ISCO08)**
 
-Install insulation materials (e.g., fiberglass, foam board) in building walls, pipes, and roofs to improve energy efficiency and reduce noise. The role has steady demand in Ireland's construction sector, particularly in green retrofit projects.
+Responsible for installing insulation materials (e.g., glass wool, foam boards) on building walls, pipes, and roofs to improve energy efficiency and reduce noise. This occupation has stable demand in Ireland’s construction industry, especially in green building retrofit projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（学徒制） | —（学徒期间可获得薪水，培训费用低） |
-| 职业教育文凭 | 1-2年 | $2,000~$6,000（如FETAC Level 5相关课程） |
+| High school graduation | 4 years (apprenticeship) | $0~$3,000 (Apprentices receive a salary and training costs are low) |
+| Vocational education diploma | 1-2 years | $2,000~$6,000 (e.g. FETAC Level 5 related course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰建筑技工注册 | 爱尔兰建筑管理局 | 必备 | 强制要求，通过学徒制或经验认证获得 |
-| Safe Pass健康安全卡 | 爱尔兰企业局 | 必备 | 所有建筑工地必须持有 |
-| CSCS技能卡 | CSCS爱尔兰 | 可选 | 证明技能等级，非强制但有利就业 |
+| Irish construction tradesperson registration | Building Regulations Ireland | Required | Mandatory, obtained through apprenticeship or experience certification |
+| Safe Pass Health and Safety Card | Enterprise Ireland | Required | Mandatory for all construction sites |
+| CSCS Skills Card | CSCS Ireland | Optional | Proof of skill level, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰政府大力推动建筑节能改造，2023-2030年预计新建住宅年均增长2万套，保温工人需求持续增长。但受住房市场波动影响，短期就业可能略有起伏。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. The Irish government is vigorously promoting building energy efficiency renovations. From 2023 to 2030, new housing construction is expected to grow by an average of 20,000 units per year, leading to sustained demand for insulation workers. However, due to fluctuations in the housing market, short-term employment may experience slight ups and downs.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒工资约为最低工资标准上浮 |
-| 中级（3-7年） | $34,000~$42,000 | 熟练技工，通常时薪约18-22欧元 |
-| 高级（7年以上） | $45,000~$55,000 | 资深或主管级，加班费另计 |
+| Median salary | $38,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Apprentice wages are approximately the minimum wage plus a premium |
+| Mid-level (3–7 years) | $34,000~$42,000 | Skilled tradesperson, typically hourly wage around 18-22 euros |
+| Senior (7+ years) | $45,000~$55,000 | Senior or supervisory level, overtime pay separate |
+| average salary | $38,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级保温工人可逐步晋升为高级技工、施工监理或项目协调员。通过积累经验并考取更高等级资质（如FETAC Level 6），可转向建筑管理或能源评估岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's overall impact on insulation workers is mixed: task automation is moderate, but AI-enhanced tools improve measurement, material optimization, and inspection efficiency, while the green energy transition creates new demand; core installation skills still require human labor.
+
+Junior insulation workers can gradually advance to senior technician, construction supervisor, or project coordinator. By accumulating experience and obtaining higher-level qualifications (such as FETAC Level 6), they can move into construction management or energy assessment roles.
+
+**Tasks most exposed to AI:**
+
+- Manual measurement and calculation of insulation material dimensions (AI vision + automatic calculation)
+- Manual inspection of insulation thickness (AI sensor automatic scanning)
+- Simple repetitive cutting and laying work (CNC cutting machines + robotic laying)
+- Material inventory management and order generation (AI inventory system)
+- Energy Consumption Assessment Report Writing (AI Auto-generated)
+
+**Where AI augments the role:**
+
+- AI thermal imaging analysis helps identify thermal bridge locations in buildings, improving installation accuracy.
+- AI design software optimizes material cutting plans to reduce waste
+- Drone + AI inspection of high-rise building insulation integrity
+- AI project management system coordinates multiple insulation teams in real time
+- Augmented reality (AR) assists in displaying hidden pipe locations to avoid installation errors
+
+**Human moat:**
+
+- On-site application and manual finishing of complex non-planar surfaces
+- Flexible operation in confined spaces within old buildings
+- Communicate customized solutions for specific client needs (e.g., noise-sensitive areas)
+- Safety judgment and emergency response for working at heights
+- Interpersonal Communication and On-site Decision-Making in Multi-task Coordination
+
+**Skills to build:**
+
+- Operate smart measuring instruments and AI analysis software.
+- Basic programming skills to debug automated cutting equipment
+- Read and understand insulation layer design in BIM models
+- Familiarity with green building certification standards (e.g., LEED, Passivhaus)
+- Data analysis and report writing skills
+- Cross-occupation collaboration and use of digital communication tools
+
+**Key growth areas:**
 
 - Energy efficiency
 - Green building
@@ -62,68 +98,67 @@ Install insulation materials (e.g., fiberglass, foam board) in building walls, p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保。年薪不低于30,000欧元，广告招聘要求严格。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，年薪需达一般就业许可的1.5倍。保温工人通常不满足此门槛。 |
-| Subclass Stamp 1A (Training)（Training Permit） | 适用于实习生或学徒，需雇主提供培训计划。年薪要求较低。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requiring employer sponsorship. Annual salary not less than €30,000, with strict advertising requirements. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, with an annual salary of at least 1.5 times the general employment permit. Insulation workers typically do not meet this threshold. |
+| Subclass Stamp 1A (Training) (Training Permit) | Applicable to interns or apprentices; requires employer to provide training plan. Lower annual salary requirement. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insulation Worker？**
-- 喜欢动手操作、体力较好的人
-- 对建筑节能环保感兴趣的人
-- 愿意接受学徒培训、从基层做起的人
-
-**谁不适合学Insulation Worker？**
-- 对高空作业或密闭空间感到不适的人
-- 偏好室内办公、少体力劳动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and have good physical strength
+- People interested in building energy efficiency and environmental protection
+- Those willing to undergo apprenticeship training and start from the ground up
+
+**Who is not suited**
+- People who are uncomfortable with working at heights or in confined spaces
+- People who prefer indoor office work and less physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary level of insulation workers in Ireland?**
+A: Junior approximately €25,000-32,000, intermediate €34,000-42,000, senior €45,000-55,000. Overtime and project bonuses can increase total income.
+
+**Q: Can insulation workers immigrate to Ireland on a work visa?**
+A: Yes, but this occupation is not on the Critical Skills list, so a General Employment Permit is required. The employer must demonstrate that no local candidates are available, and the annual salary must exceed €30,000.
+
+**Q: Do insulation workers have career progression paths?**
+A: Yes, workers can advance to senior technician, team leader, or even enter project management or energy efficiency consulting. Obtaining a FETAC Advanced Certificate or a construction management qualification can accelerate promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Insulation Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for an insulation worker in Ireland?**
-答：Entry-level: €25,000-€32,000; mid-level: €34,000-€42,000; senior: €45,000-€55,000. Overtime and project bonuses can increase total earnings.
-
-**问：Can an insulation worker immigrate to Ireland via a work visa?**
-答：Yes, but the occupation is not on the Critical Skills list. A General Employment Permit is required, with employer proof of local recruitment difficulty and min. salary €30,000.
-
-**问：Is there a career progression path for insulation workers?**
-答：Yes, from worker to senior technician, team leader, or into project management/energy consultancy. FETAC advanced certificates or construction management degrees can accelerate advancement.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

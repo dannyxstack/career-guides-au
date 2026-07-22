@@ -1,59 +1,92 @@
-# Engineers, Not Elsewhere Classified（Engineers, Not Elsewhere Classified）职业分析 · ES
+# Engineers, Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2439 – Engineers, Not Elsewhere Classified。**
+**Occupation code: 2439 (CNO)**
 
-Covers engineering roles not classified elsewhere, including emerging or interdisciplinary fields, involved in design, R&D, and technical management.
+Covers engineering positions not explicitly listed in other categories, including engineers from various emerging or interdisciplinary fields engaged in design, R&D, technical management, and more.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学年均学费约1000-2000欧元，私立高达6000欧元。） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（硕士学费因公立/私立差异大。） |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (The average annual tuition at public universities is about 1,000-2,000 euros, while private universities can be as high as 6,000 euros.) |
+| Máster | 1-2 years | $2,000~$12,000 (Master's tuition fees vary greatly between public and private institutions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学位（Grado/Máster） | 西班牙大学 | 必备 | 需为西班牙认可的高等教育机构颁发 |
-| 外国学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国工程师需进行学历对等认证方可执业 |
-| 专业工程师协会注册 | 相应工程协会（如COGITI） | 可选 | 某些领域要求注册以承担法律责任 |
+| Engineering Degree (Grado/Máster) | Spanish University | Required | It must be issued to a higher education institution recognized in Spain |
+| Homologación (Homologación) of Foreign Academic Credentials | Spanish Ministry of Education | Required | Third-country engineers must undergo equivalent academic certification before they can practice |
+| Registered with professional engineering associations | Corresponding engineering associations (such as COGITI) | Optional | Certain areas require registration to bear legal liability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 15,000。西班牙数字化转型和可再生能源投资带动对跨领域工程人才的需求，但该类别岗位分散，就业机会集中于大型企业和科技初创。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. Spain's digital transformation and renewable energy investments have driven demand for cross-disciplinary engineering talent, but this category is fragmented, with employment concentrated among large enterprises and tech startups.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 应届毕业生或初级工程师 |
-| 中级（3-7年） | $32,000~$45,000 | 具有独立项目能力的工程师 |
-| 高级（7年以上） | $45,000~$65,000 | 高级工程师或团队领导 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Recent graduates or junior engineers |
+| Mid-level (3–7 years) | $32,000~$45,000 | Engineers with independent project capabilities |
+| Senior (7+ years) | $45,000~$65,000 | Senior engineers or team leaders |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可向项目经理、技术总监或专业领域专家发展，也可通过继续教育和认证转向更高阶的工程管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on fire safety engineers is mixed: routine document review and basic risk assessment can be automated, but on-site decision-making, compliance responsibility, and human factor judgment remain core human barriers.
+
+You can develop into project managers, technical directors, or specialists, or move into higher-level engineering management roles through continuing education and certification.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of standard fire system design drawings and calculations
+- Preliminary fire risk assessment report based on historical data.
+- Automated checking of building code compliance items (e.g., sprinkler spacing)
+- Drafting and filing routine inspection reports
+
+**Where AI augments the role:**
+
+- AI optimizes fire simulation software for rapid iteration of evacuation plans
+- Real-time monitoring of building sensors, AI early warning of potential fire hazards
+- Enhanced virtual reality fire drills for better training outcomes
+- AI-assisted analysis of complex combustion models to optimize material selection
+
+**Human moat:**
+
+- Human judgment and flexible response in on-site safety inspections
+- Final project sign-off and legal liability acceptance
+- Communication skills to coordinate multiple stakeholders (owners, fire department, insurance)
+- Interdisciplinary innovative solutions for emerging risks (e.g., lithium battery fires)
+
+**Skills to build:**
+
+- Mastering AI-Enhanced Fire Simulation Software like Fire Dynamics Simulator
+- Learn Python/R for fire data analysis and predictive modeling
+- Obtain high-end certifications such as CFPS (Certified Fire Protection Specialist)
+- Enhance practical ability in using AI tools for compliance review.
+- Elective courses in crisis management and leadership
+- Understanding IoT sensors and Building Information Modeling (BIM) integration
+
+**Key growth areas:**
 
 - Digitalization
 - Renewable Energy
@@ -62,68 +95,67 @@ Covers engineering roles not classified elsewhere, including emerging or interdi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能职位，满足学历和薪资门槛（通常不低于西班牙平均工资的1.5倍）。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙公司担保的工作居留，需证明职位难以在本地填补。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许高学历人才在西班牙停留最多1年寻找工作。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, meeting education and salary thresholds (usually not less than 1.5 times the Spanish average wage). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish company requires proof that the position is difficult to fill locally. |
+| Subclass Búsqueda de empleo (Job Search Visa) | Highly educated talents are allowed to stay in Spain for up to one year to look for work. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineers, Not Elsewhere Classified？**
-- 具有工程学位、希望从事跨领域技术工作的人
-- 具备新技术（如AI、可再生能源）背景的工程师
-- 愿意通过学历认证进入西班牙市场的国际人才
-
-**谁不适合学Engineers, Not Elsewhere Classified？**
-- 希望快速取得执业资格的第三国工程师
-- 偏好单一专业领域而不愿跨学科的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with engineering degrees who wish to work in interdisciplinary technical fields
+- Engineers with backgrounds in new technologies such as AI and renewable energy
+- International talents willing to enter the Spanish market through academic credentials
+
+**Who is not suited**
+- Third-country engineers seeking rapid professional qualification.
+- People who prefer a single professional field and are unwilling to interdisciplinary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this profession in Spain?**
+A: Junior engineer salary about €22,000-30,000 per year, mid-level €32,000-45,000, senior can reach €65,000+ depending on industry, region, and experience.
+
+**Q: How can third-country citizens immigrate to Spain through this employment?**
+A: You can use the EU Blue Card or the Work Residence Pathway. A recognized engineering degree must be obtained and certified by Homologación. Employer sponsorship is key.
+
+**Q: Are Chinese engineering degrees recognized in Spain?**
+A: Typically, a Homologación is required, and the process may take 1-2 years. Some university degrees can shorten the process through prior agreements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Engineers, Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Spain?**
-答：Junior engineers earn €22,000-€30,000, mid-level €32,000-€45,000, and senior up to €65,000+ per year, depending on industry, region, and experience.
-
-**问：How can third-country nationals migrate to Spain through this occupation?**
-答：Via EU Blue Card or work permit. Requires an accredited engineering degree and homologación. Employer sponsorship is essential.
-
-**问：Is a Chinese engineering degree recognized in Spain?**
-答：Typically requires homologación, which may take 1-2 years. Some university agreements can expedite the process.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

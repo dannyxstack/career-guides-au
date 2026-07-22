@@ -1,60 +1,96 @@
-# Secretary (General)（Secretary (General)）职业分析 · IE
+# Secretary (General) — career analysis · Ireland
 
-**职业代码：4120 – Secretary (General)。**
+**Occupation code: 4120 (ISCO08)**
 
-Responsible for daily administrative tasks, answering phones, scheduling meetings, and filing documents, providing essential office support in businesses and organisations.
+Responsible for daily administrative tasks, answering phone calls, scheduling meetings, organizing files, and other office support duties, serving as an indispensable supporting role in enterprises and organizations.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无正式要求 | —（通常高中毕业即可，在职培训为主） |
-| 职业培训证书 | 6个月至1年 | $1,000~$3,000（如FETAC Level 5行政课程） |
+| High school graduation | No formal requirements | $0~$0 (Typically requires high school graduation, with on-the-job training as the main focus) |
+| Vocational training certificate | 6 months to 1 year | $1,000~$3,000 (e.g., FETAC Level 5 Administration Course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主通常要求高中毕业和基本计算机技能 |
-| 行政助理/秘书职业证书 | FETAC/QQI | 可选 | 自愿性证书，可提升竞争力 |
+| No mandatory qualification requirements | None | Optional | Employers typically require high school diploma and basic computer skills. |
+| Administrative Assistant/Secretary vocational certificate | FETAC/QQI | Optional | Voluntary certificate to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。爱尔兰秘书岗位需求稳定，随着企业数量增加和行政工作数字化，就业机会保持平稳。预计未来五年就业增长率约为5%，主要集中在都柏林等城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Demand for secretarial roles in Ireland is stable, with steady employment opportunities as the number of businesses grows and administrative work digitalizes. The projected employment growth rate over the next five years is around 5%, mainly in cities like Dublin.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级秘书可晋升为高级秘书、行政主管或办公室经理，也可转向人力资源、财务等专业领域。积累经验后有机会成为执行助理或部门协调员。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The impact of AI on secretarial work is mixed: large volumes of document processing and scheduling tasks will be automated, but the value of interpersonal coordination, complex communication, and judgment will increase.
+
+Junior secretaries can advance to senior secretary, executive assistant, or office manager, or move into specialized fields like HR or finance. With experience, opportunities arise as executive assistant or department coordinator.
+
+**Tasks most exposed to AI:**
+
+- Scheduling and meeting room booking (AI auto-conflict resolution)
+- File archiving and basic document formatting (AI-automated classification and formatting)
+- Call forwarding and basic inquiry response (replaced by AI voice assistants)
+- Data entry and simple data organization (AI automatic extraction and summarization)
+- Drafting meeting minutes (AI speech-to-text + summarization)
+
+**Where AI augments the role:**
+
+- Rapid retrieval and synthesis of information (AI search + knowledge base to support decision-making)
+- Multilingual translation and cross-cultural communication (AI real-time translation)
+- Email drafting and report writing (AI provides templates and suggestions)
+- Optimize travel costs and suggest itineraries (AI price comparison and recommendations)
+- Complex task tracking and priority reminders (AI project management tool)
+
+**Human moat:**
+
+- Handle vague, unstructured instructions from superiors and translate them into action
+- Ability and judgment to maintain high-level confidential and sensitive information
+- Adapting and making decisions quickly in high-pressure environments
+- Building long-term trust and coordinating multiple interests.
+- Proactively anticipate needs rather than passively execute instructions
+
+**Skills to build:**
+
+- Proficient in advanced AI office tools (e.g., Copilot, Notion AI)
+- Data organization and basic analysis (Excel + AI plugins)
+- Project management and coordination of complex tasks.
+- Interdepartmental Communication and Conflict Resolution
+- Basic Business Understanding and Commercial Judgment
+- Time Management and Multi-Task Priority Setting
+
+**Key growth areas:**
 
 - Administrative Support
 - Digital Transformation
@@ -63,65 +99,67 @@ Responsible for daily administrative tasks, answering phones, scheduling meeting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于€34,000的非欧盟申请人，需有雇主担保和劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪至少€34,000（2025年），通常对高级秘书或行政主管适用。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-EU applicants earning under €34,000/year, requiring employer sponsorship and labour market test. |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €34,000 (2025), usually applicable to senior secretaries or administrative supervisors. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Secretary (General)？**
-- 注重细节、组织能力强的人
-- 喜欢稳定办公室工作的人
-- 善于沟通和协调的人
+**Who is suited**
+- Detail-oriented, organized individuals
+- People who prefer stable office jobs
+- People who are good at communication and coordination
 
-**谁不适合学Secretary (General)？**
-- 对重复性工作缺乏耐心的人
-- 不擅长多任务处理的人
+**Who is not suited**
+- Those who lack patience for repetitive work
+- People not good at multitasking
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for secretaries in Ireland?**
+A: Junior secretary annual salary approx. 22,000-28,000 euros, mid-level approx. 28,000-35,000 euros, senior can reach 45,000 euros. Salary varies by experience and industry.
+
+**Q: How can non-EU citizens immigrate to Ireland through secretarial work?**
+A: Usually requires a General Employment Permit (annual salary below €34,000) or EU Blue Card (annual salary at least €34,000), both involving employer sponsorship and labor market testing. This occupation is not on the shortage list, making immigration more difficult.
+
+**Q: Is there room for promotion as a secretary?**
+A: Yes. Can advance to senior secretary, executive assistant, office manager, or transition to specialized areas such as human resources or finance. With experience, can also become an executive assistant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Secretary (General)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for secretaries in Ireland?**
-答：Entry-level secretaries earn around €22,000-€28,000, mid-level €28,000-€35,000, and senior up to €45,000 annually, depending on experience and industry.
-
-**问：How can non-EU citizens immigrate to Ireland as a secretary?**
-答：Usually require a General Employment Permit (salary under €34,000) or EU Blue Card (salary at least €34,000), both needing employer sponsorship and labour market test. This occupation is not on the shortage list, making immigration challenging.
-
-**问：Is there career progression for secretaries?**
-答：Yes. Can advance to senior secretary, administrative supervisor, office manager, or move into HR, finance, etc. Experienced secretaries may become executive assistants.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

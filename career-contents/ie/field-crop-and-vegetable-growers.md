@@ -1,62 +1,96 @@
-# Field Crop and Vegetable Growers（Field Crop and Vegetable Growers）职业分析 · IE
+# Field Crop and Vegetable Growers — career analysis · Ireland
 
-**职业代码：6111 – Field Crop and Vegetable Growers。**
+**Occupation code: 6111 (ISCO08)**
 
-Field crop and vegetable growers in Ireland cultivate crops such as cereals, potatoes, and vegetables. Tasks include land preparation, sowing, fertilizing, irrigating, pest control, and harvesting.
+Work in Ireland involves planting, managing, and harvesting field crops and vegetables, including grains, potatoes, and vegetables. Tasks include land preparation, sowing, fertilizing, irrigation, pest and disease control, and harvesting.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式学历 | —（通常通过在职培训积累经验） |
-| 农业相关证书/文凭 | 1-2年 | $3,000~$8,000（如Teagasc提供的农业课程） |
-| 农业学士学位 | 3-4年 | $6,000~$15,000（大学学费，如UCD或Trinity） |
+| High school graduation | No formal education required | $0~$0 (Typically gain experience through on-the-job training) |
+| Agriculture-related certificate/diploma | 1-2 years | $3,000~$8,000 (agricultural courses such as those provided by Teagasc) |
+| Bachelor of Agriculture | 3-4 years | $6,000~$15,000 (University tuition fees, such as at UCD or Trinity) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业技能证书 | Teagasc | 可选 | 完成Teagasc的农业课程可获得证书 |
-| Safe Pass（安全通行证） | SOLAS | 必备 | 从事农业建筑工作需持有 |
-| Pesticide Application Certificate | Department of Agriculture | 必备 | 使用农药需持有此证书 |
+| Safe Pass | SOLAS | Required | Must hold a license to work in agricultural construction |
+| Pesticide Application Certificate | Department of Agriculture | Required | A license is required to use pesticides. |
+| Agricultural skill certificate | Teagasc | Optional | Completing Teagasc's agricultural courses leads to certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。爱尔兰农业部门对可持续和有机农业的需求增长，同时面临劳动力老龄化和季节性劳动力短缺问题。未来就业机会稳定，但依赖季节性移民劳动力。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Ireland's agricultural sector sees growing demand for sustainable and organic farming, while facing an aging workforce and seasonal labor shortages. Future employment opportunities are stable but rely on seasonal migrant labor.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，通常为时薪制 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，包含奖金 |
-| 高级（7年以上/农场经理） | $40,000~$60,000 | 税前年薪，农场经理收入更高 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, typically hourly wage basis |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, including bonuses |
+| Senior (7+ years / farm manager) | $40,000~$60,000 | Annual salary before tax; farm managers earn more. |
+| average salary | $37,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级工人可通过经验积累晋升为农场主管或农场经理；或通过专业培训转向有机农业、农业技术顾问等岗位。也可自主创业经营家庭农场。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Field crop and vegetable growers are mixedly affected by AI: repetitive planting and monitoring tasks can be automated, but parts relying on soil feel, real-time decisions, and equipment maintenance require human experience; entry barriers rise with the spread of precision agriculture tools.
+
+Entry-level workers can advance to farm supervisor or farm manager through experience, or transition to organic farming, agricultural technology consulting, etc., via specialized training. They can also start their own family farm.
+
+**Tasks most exposed to AI:**
+
+- Using drones or satellite imagery for crop growth monitoring and pest/disease identification
+- Automated irrigation and fertilization decisions based on soil sensor data
+- Autonomous tractors for tillage, seeding, and harvesting
+- Use machine learning models to predict weather and yield for planning agricultural schedules.
+
+**Where AI augments the role:**
+
+- AI analyzes multi-source data (satellites, sensors) to provide precise farm management recommendations, improving decision quality
+- Real-time crop health warning systems help rapidly respond to pests and diseases, reducing pesticide use.
+- Automated machinery handles repetitive labor, allowing farmers to focus on variety optimization and soil conservation.
+- Price and market forecasting tools to assist in developing sales strategies and increase revenue
+
+**Human moat:**
+
+- Flexibility to adapt to irregular terrain or adverse weather
+- Soil feel and crop intuition based on years of experience
+- Trust relationships and negotiation skills with equipment suppliers and buyers
+- Systems thinking integrating ecological diversity and sustainable agricultural practices
+- Hands-on repair skills for unstructured faults (e.g., accidental mechanical damage)
+
+**Skills to build:**
+
+- Precision agriculture software and drone operation certification
+- Agricultural data analysis basics (R/Python and GIS)
+- Smart Irrigation and Variable Rate Technology (VRT)
+- Mechanical and electronic repair and IoT device commissioning
+- Sustainable agriculture certifications (e.g., organic, regenerative farming)
+- Agricultural English and technical document reading
+
+**Key growth areas:**
 
 - Sustainable Agriculture
 - Organic Farming
@@ -65,69 +99,68 @@ Field crop and vegetable growers in Ireland cultivate crops such as cereals, pot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于大多数非欧盟公民，需获得工作邀请，年薪一般不低于30000欧元。 |
-| Subclass Seasonal Employment （Seasonal Employment Permit） | 针对季节性农业工作，有效期最长9个月，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达到一定门槛（约36781欧元），但农业岗位通常不符合。 |
+| Subclass General Employment P (General Employment Permit) | Applies to most non-EU citizens; must have a job offer with annual salary generally not less than 30,000 euros. |
+| Subclass Seasonal Employment  (Seasonal Employment Permit) | For seasonal agricultural work, valid up to 9 months, requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with a minimum annual salary threshold (about €36,781), but agricultural positions usually do not qualify. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Field Crop and Vegetable Growers？**
-- 喜欢户外体力劳动，对农业有热情
-- 愿意在偏远地区工作，适应季节性忙碌
-- 有农业背景或相关培训意愿
-
-**谁不适合学Field Crop and Vegetable Growers？**
-- 不适应体力劳动或户外恶劣天气
-- 追求高收入或快速职业晋升
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work and has a passion for agriculture.
+- Willing to work in regional areas and adapt to seasonal busy periods
+- Has agricultural background or willingness to undergo relevant training
+
+**Who is not suited**
+- Not suited for physical labor or harsh outdoor weather
+- Pursuing high income or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: How much do field crop and vegetable growers earn in Ireland?**
+A: Entry-level income approximately 25,000-30,000 EUR/year, experienced workers can reach 40,000-60,000 EUR/year. Seasonal workers may earn less.
+
+**Q: How can non-EU citizens obtain residency in Ireland through agricultural work?**
+A: Available through a general employment permit or seasonal employment permit. The general permit requires a job offer with annual salary at least €30,000. The seasonal permit is for short-term work. Long-term residency requires switching to another visa type.
+
+**Q: What educational background is needed to become a field crop and vegetable grower in Ireland?**
+A: No formal education required, but a Teagasc agricultural certificate or related degree enhances competitiveness. Experience is more important than qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Field Crop and Vegetable Growers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for field crop and vegetable growers in Ireland?**
-答：Entry-level salary is around €25,000-€30,000 per year, rising to €40,000-€60,000 for experienced farm managers. Seasonal workers may earn less.
-
-**问：How can non-EU citizens obtain residency through agricultural work in Ireland?**
-答：Via General Employment Permit (job offer, salary >€30k) or Seasonal Employment Permit (max 9 months). Long-term residency requires switching to other visa types.
-
-**问：What education is needed to become a field crop and vegetable grower in Ireland?**
-答：No formal education required, but a Teagasc agricultural certificate or degree improves prospects. Experience is valued more than education.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

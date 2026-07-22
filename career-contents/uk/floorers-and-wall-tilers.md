@@ -1,59 +1,95 @@
-# Floorers and wall tilers（Floorers and wall tilers）职业分析 · UK
+# Floorers and wall tilers — career analysis · United Kingdom
 
-**职业代码：5322 – Floorers and wall tilers。**
+**Occupation code: 5322 (SOC)**
 
-Floorers and wall tilers lay carpets, linoleum, composite flooring, and tiles to decorate and protect floors and walls in buildings. They require skills in precise measuring, cutting, and installation, commonly working on residential and commercial renovation projects.
+Floor layers and wall tilers are responsible for laying carpets, linoleum, composite flooring, and tiles to decorate and protect floors and walls. This occupation requires precise measuring, cutting, and installation skills, commonly used in residential and commercial renovation projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（学徒期间工资覆盖培训费用，部分学徒无学费） |
-| 职业培训课程 | 6个月-1年 | $2,000~$5,000（学院或私人培训机构提供，包含材料费） |
+| Apprenticeship | 2-4 years | $0~$1,000 (Apprenticeship wages cover training costs; some apprenticeships have no tuition fees) |
+| Vocational training courses | 6 months to 1 year | $2,000~$5,000 (Provided by colleges or private training providers, including material costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 2级或3级在铺地或贴砖 | City & Guilds / 其他认证机构 | 可选 | 行业标准资格，通常通过学徒获得 |
-| 健康与安全证书 (CSCS卡) | CSCS | 必备 | 上工地的必备安全认证 |
-| 英国驾照 | DVLA | 可选 | 因需携带工具到不同工地 |
+| Health and safety certificate (CSCS card) | CSCS | Required | Mandatory safety certification for construction sites |
+| NVQ Level 2 or 3 in flooring or tiling | City & Guilds / Other certification bodies | Optional | Industry-standard qualifications, typically obtained through an apprenticeship |
+| UK driver's license | DVLA | Optional | Because tools need to be carried to different worksites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 28,000。英国建筑行业持续增长，住宅翻新和新建项目需求旺盛，预计未来几年地板和瓷砖工的就业机会保持稳定增长。老龄化劳动力导致技能短缺，新进入者就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 28,000. The UK construction industry continues to grow, with strong demand for residential renovation and new build projects. Employment opportunities for floor and tile layers are expected to remain stable and growing in the coming years. An aging workforce leads to a skills shortage, offering good job prospects for new entrants.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 学徒或新手，基本工资较低 |
-| 中级（3-7年） | $28,000~$38,000 | 熟练技工，可独立完成项目 |
-| 高级（7年以上） | $38,000~$50,000 | 高级技工或工头，年收入可更高 |
+| Median salary | $32,861 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Apprentice or beginner, lower base salary |
+| Mid-level (3–7 years) | $28,000~$38,000 | Skilled worker capable of completing projects independently. |
+| Senior (7+ years) | $38,000~$50,000 | Senior technician or foreman, annual income can be higher |
+| average salary | $33,794 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级地板工或瓷砖工可通过学徒积累经验，晋升为高级技工或工长。部分人可自主创业，承接小型合同。也可向项目管理或装修顾问方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Many measuring and cutting tasks for floor and tile layers can be replaced by AI-assisted automated tools, but on-site fine work, material adaptation, and client communication still rely on manual labor; overall, it is a mixed state of partial replacement by AI but skill enhancement.
+
+Junior floor layers or tilers can gain experience through apprenticeships and advance to senior technician or foreman. Some become self-employed undertaking small contracts. They can also move into project management or renovation consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatic cutting machine precisely cuts tiles and flooring materials according to CAD drawings
+- AI vision system automatically measures wall and floor dimensions and generates cutting plans.
+- Robotic installation of standard-sized laminate flooring
+- AI-optimized material layout to reduce waste
+- Online AR tools allow clients to preview installation effects themselves, reducing manual communication
+
+**Where AI augments the role:**
+
+- AI-assisted design tools quickly generate complex parquet and pattern schemes
+- AR glasses overlay construction drawings onto actual site dimensions, reducing measurement errors
+- AI diagnostic tools analyze underlying conditions and recommend optimal adhesives and underlayments
+- Digital project management platform coordinating materials and progress across multiple construction sites
+- AI prediction tools help plan inventory and supply chain
+
+**Human moat:**
+
+- Fine edge finishing for irregular shapes, corners, and contoured substrates
+- Process judgment and hands-on practice for repairing old uneven substrates
+- Communicate aesthetic preferences and special requirements on-site with clients
+- Comprehensive quality control for concealed works such as waterproofing and soundproofing
+- Hand-restoring traditional techniques on heritage buildings or special materials
+
+**Skills to build:**
+
+- Reading and modifying construction drawings using CAD/BIM software
+- CNC cutting machine and automated tool operation
+- Use of AR/VR spatial measurement and visualization tools.
+- Basic programming skills (Python/VBA) for customized cutting optimization
+- Application of digital project management platforms (e.g., Procore, PlanGrid)
+- Knowledge of materials science and environmental certification (e.g., low-carbon flooring)
+
+**Key growth areas:**
 
 - construction growth
 - renovation demand
@@ -62,68 +98,67 @@ Floorers and wall tilers lay carpets, linoleum, composite flooring, and tiles to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合技术工人签证条件，职业在可担保清单上，需雇主担保且薪资达标 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可通过此路径工作2年（博士3年），积累经验后转技术工人签证 |
-| Subclass Global Talent（Global Talent Visa） | 不适用，此路径针对杰出人才，非技工类 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meets skilled worker visa requirements; occupation on the eligible occupation list; requires employer sponsorship and meeting salary threshold |
+| Subclass Graduate (Graduate Visa) | UK graduates can work through this route for 2 years (3 years for PhDs) and then switch to a Skilled Worker visa after gaining experience. |
+| Subclass Global Talent (Global Talent Visa) | Not applicable, this pathway is for outstanding talents, not tradespeople |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floorers and wall tilers？**
-- 动手能力强、喜欢体力劳动的人
-- 注重细节、有空间感的人
-- 愿意自主学习和接受学徒培训的人
-
-**谁不适合学Floorers and wall tilers？**
-- 对粉尘和胶水等物质过敏的人
-- 不喜欢体力劳动和长时间站立的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong practical skills who enjoy physical work
+- Detail-oriented people with a sense of spatial awareness
+- People willing to self-study and undergo apprenticeship training
+
+**Who is not suited**
+- People allergic to dust, glue, and similar substances
+- People who dislike physical labor and prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for floor and wall tilers?**
+A: Junior around £20,000-28,000, mid-level £28,000-38,000, senior up to £38,000-50,000, piece-rate workers may earn more.
+
+**Q: Can overseas floor layers immigrate to the UK via a Skilled Worker visa?**
+A: Yes. This occupation is on the skilled work visa sponsorship list and is in shortage, making employer sponsorship highly feasible. Must meet salary threshold and English requirements.
+
+**Q: What are the career development pathways for floor layers and tile setters?**
+A: Can start as an apprentice, become a skilled tradesperson, then advance to foreman or project manager, or start your own renovation company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Floorers and wall tilers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for floorers and wall tilers?**
-答：Entry-level around £20,000-£28,000, experienced £28,000-£38,000, senior up to £38,000-£50,000; piece-rate workers may earn more.
-
-**问：Can overseas floorers migrate to the UK via a Skilled Worker visa?**
-答：Yes. This occupation is on the eligible list and is on the shortage list, making employer sponsorship feasible. Must meet salary threshold and English requirements.
-
-**问：What are the career progression paths for floorers and wall tilers?**
-答：Start as an apprentice, progress to skilled tradesperson, then foreman or project manager, or start your own contracting business.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

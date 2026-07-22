@@ -1,61 +1,95 @@
-# Manufacturing Labourers Not Elsewhere Classified（Manufacturing Labourers Not Elsewhere Classified）职业分析 · NL
+# Manufacturing Labourers Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：9329 – Manufacturing Labourers Not Elsewhere Classified。**
+**Occupation code: 9329 (ISCO08)**
 
-Perform general physical tasks in manufacturing not elsewhere classified, including搬运, cleaning, packaging, and basic machine operation, serving as foundational support in production.
+Engage in general physical labor not specifically classified in the manufacturing industry, including handling, cleaning, packaging, and simple machine operation, serving as a basic support role in the production process.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 无 | —（通常无需正规教育，但需基本读写能力） |
-| 职业培训（MBO-1或2） | 1-2年 | $500~$2,000（部分雇主提供内部培训，职业学校课程费用低） |
+| No formal education requirements | None | $0~$0 (Usually no formal education required, but basic literacy is needed) |
+| Vocational training (MBO-1 or 2) | 1-2 years | $500~$2,000 (Some employers provide internal training, vocational school course fees are low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 多数岗位无硬性证书要求 |
-| 健康证明 | 职业健康服务机构 | 可选 | 部分岗位需证明身体健康 |
-| 安全操作证（如VCA） | 荷兰安全认证机构 | 可选 | 工厂安全要求时需持有 |
+| No mandatory qualification | None | Optional | Most positions have no mandatory certification requirements |
+| Health certificate | Occupational Health Service Organizations | Optional | Some positions require proof of good health. |
+| Safety operation certificate (e.g., VCA) | Dutch safety certification body | Optional | Required to hold when factory safety requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。荷兰制造业持续自动化，低技能劳工需求缓慢下降；但物流和食品加工等细分领域仍有一定就业机会，岗位流动性较高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. Manufacturing in the Netherlands continues to automate, with low-skilled labour demand slowly declining; however, some job opportunities remain in sub-sectors such as logistics and food processing, with high job mobility.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含基本工资和津贴 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，随经验增长 |
-| 高级（7年以上） | $36,000~$42,000 | 税前年薪，含组长或技术岗位津贴 |
+| Median salary | $32,011 | Median salary (Official: CBS median hourly wage €16.2/hour × 1976h annualized, BRC group 0781 Hulpkrachten bouw en industrie; P25–P75 €30,035–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, including base salary and allowances |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual pre-tax salary, increases with experience |
+| Senior (7+ years) | $36,000~$42,000 | Pre-tax annual salary, including allowances for team leader or technical positions |
+| average salary | $33,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 通常从基础劳工做起，通过积累经验可晋升为生产线组长或质检员；部分人可通过在职培训转向机器操作或维修技工岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+In this occupation, repetitive manual tasks such as heavy lifting, cleaning, and packaging will be largely replaced by automated equipment (e.g., AGVs, robotic arms) and AI scheduling systems, leading to significant job reduction and retraining pressure for low-skilled workers.
+
+Typically start as basic laborers, and through experience can advance to production line leader or quality inspector; some may transition to machine operation or maintenance technician roles through on-the-job training.
+
+**Tasks most exposed to AI:**
+
+- Automated guided vehicles (AGVs) replace manual handling and material movement
+- Smart sorting systems replacing manual packaging and sorting
+- AI scheduling optimization replaces manual coordination and route planning
+- Robotic arms replacing repetitive machine operations (e.g., palletizing, loading/unloading)
+
+**Where AI augments the role:**
+
+- Use wearable devices (AR glasses) to receive real-time operation instructions, improving accuracy
+- Use AI scheduling systems to coordinate multiple devices and improve efficiency
+- Monitor equipment status via IoT to assist preventive maintenance
+- Use mobile devices for data recording and reporting, simplifying paperwork
+
+**Human moat:**
+
+- Ability to handle abnormal situations (equipment failure, material damage) flexibly.
+- Fine tactile skills for complex manual operations (non-standard component assembly).
+- Multi-task coordination and on-site problem-solving skills.
+- Non-verbal signals (eye contact, gestures) for team collaboration communication
+- Conscious observance of safety regulations and risk perception
+
+**Skills to build:**
+
+- Basic programming: PLC, robot teaching, or AGV path setup
+- Digital literacy: using mobile devices, barcode scanners, and WMS systems
+- Data analysis: understand simple reports and optimize material flow.
+- Preventive maintenance: inspect equipment and perform minor repairs
+- Safety awareness: mastering safety distance rules between humans and collaborative robots
+- Communication and coordination: efficiently collaborate with the automation system operations team
+
+**Key growth areas:**
 
 - Automation impact
 - Logistics demand
@@ -64,66 +98,68 @@ Perform general physical tasks in manufacturing not elsewhere classified, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于技术移民，但此职业通常不符合高技能要求 |
-| Subclass Orientation Year（Orientation Year） | 适用于荷兰毕业国际生，寻找工作机会 |
-| Subclass Regular Work Permit（Regular Work Permit (GVVA)） | 雇主担保劳工许可，需证明欧盟公民无法填补职位 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled migration, but this occupation usually does not meet high-skilled requirements |
+| Subclass Orientation Year (Orientation Year) | Applicable to international graduates in the Netherlands seeking job opportunities |
+| Subclass Regular Work Permit (Regular Work Permit (GVVA)) | Employer-sponsored work permit, need to prove EU citizens cannot fill the position |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Manufacturing Labourers Not Elsewhere Classified？**
-- 愿意从事体力劳动且适应重复性工作者
-- 学历不高但急需就业者
-- 希望快速进入劳动市场积累经验者
+**Who is suited**
+- Willing to engage in physical labor and adapt to repetitive tasks
+- People with lower education levels but in urgent need of employment
+- Those who want to quickly enter the labor market to gain experience
 
-**谁不适合学Manufacturing Labourers Not Elsewhere Classified？**
-- 追求高薪资或职业发展空间者
-- 无法承受高强度体力工作或单调环境者
+**Who is not suited**
+- Those seeking high salary or career development opportunities
+- Those unable to endure high-intensity physical work or monotonous environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: what are the salary levels for manufacturing labourers?**
+A: Entry-level annual salary is approximately €25,000-30,000, rising to €36,000-42,000 with experience, but overall it is relatively low.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: Very difficult. This occupation is not in the high-skilled migration category; employers must prove they cannot find an EU citizen, and immigration policy favors high-skilled talent.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Limited promotion prospects, but can progress to production line team leader, quality inspector, or skilled operator through on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Manufacturing Labourers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for manufacturing labourers?**
-答：Entry-level annual salary is around EUR 25,000-30,000, increasing to EUR 36,000-42,000 with experience, but generally low.
-
-**问：Can foreigners immigrate to the Netherlands through this occupation?**
-答：Very difficult. This occupation is not under highly skilled migrant criteria; employers must prove no EU candidate is available, and policies favor high-skilled workers.
-
-**问：Is there career progression in this occupation?**
-答：Limited, but one can advance to team leader, quality inspector, or machine operator through on-the-job training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

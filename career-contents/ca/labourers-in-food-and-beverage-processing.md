@@ -1,60 +1,96 @@
-# Labourers in food and beverage processing（Labourers in food and beverage processing）职业分析 · 加拿大
+# Labourers in food and beverage processing — career analysis · Canada
 
-**职业代码：95106 – Labourers in food and beverage processing。**
+**Occupation code: 95106 (NOC)**
 
-Perform material handling, cleaning, packaging, and basic processing tasks in food and beverage manufacturing plants; entry-level manual labor position.
+Performs material handling, cleaning, packaging, and basic processing tasks in food and beverage manufacturing plants; an entry-level manual labor position.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（通常无需高等教育） |
-| 在职培训 | 数周至数月 | —（雇主提供基本技能培训） |
+| High school graduation | 12 years | $0~$0 (Usually no higher education required) |
+| On-the-job training | A few weeks to several months | $0~$0 (Employer provides basic skills training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 各省食品安全机构 | 可选 | 部分省份要求，如安省食品安全培训证书 |
-| 高中文凭 | 各省教育部 | 可选 | 基本学历要求 |
+| Food safety certificate | Provincial food safety agencies | Optional | Some provinces require a food safety training certificate, e.g., Ontario. |
+| High school diploma | Provincial education ministries. | Optional | Basic education requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。加拿大食品加工业规模庞大，岗位需求稳定，但自动化趋势可能减缓增长。安大略省、魁北克省和阿尔伯塔省就业机会较多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 65,000. Canada's food processing industry is large with stable job demand, but automation trends may slow growth. More job opportunities in Ontario, Quebec, and Alberta.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$35,000 | 最低工资起薪 |
-| 中级（2-5年） | $35,000~$42,000 | 含加班可达 |
-| 高级（5年以上） | $42,000~$50,000 | 可能转为设备操作员 |
+| Median salary | $41,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $28,000~$35,000 | Minimum wage starting salary |
+| Intermediate (2-5 years) | $35,000~$42,000 | With overtime, up to |
+| Senior (5+ years) | $42,000~$50,000 | May transition to equipment operator |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从生产线工人起步，可晋升为团队负责人或质检员。部分工人通过积累经验转向设备操作或维修岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+This role is mainly physical and repetitive, with high automation risk; AI and robots will gradually replace packaging, quality inspection, and material handling; entry-level positions are clearly shrinking.
+
+Usually starting as a production line worker, can advance to team leader or quality inspector. Some workers transition to equipment operation or maintenance roles through experience.
+
+**Tasks most exposed to AI:**
+
+- Use pallet jacks and forklifts to transport raw materials and finished products
+- Operate packaging equipment such as filling, sealing, and labeling machines
+- Perform simple visual inspections of products
+- Manually clean production equipment and work areas
+- Weigh and mix ingredients according to recipe
+
+**Where AI augments the role:**
+
+- Assist precision quality inspection with AI vision systems.
+- Use predictive maintenance tools to reduce equipment downtime
+- Optimize material flow using intelligent scheduling systems
+- Using collaborative robots to reduce physical strain
+- Receive real-time production instructions via digital platforms
+
+**Human moat:**
+
+- Handle non-routine issues such as equipment failures
+- Flexible sorting in unstructured environments
+- Quickly adapt to switching between multiple product lines
+- Teamwork and communication skills
+- Understanding and enforcement of food safety regulations.
+
+**Skills to build:**
+
+- Collaborative robot programming and operation
+- Basic PLC and automation equipment debugging
+- Use of data analysis and production monitoring software.
+- Knowledge of lean production and process optimization
+- Food safety and quality management systems
+- Operation of digital tools such as ERP/MES systems
+
+**Key growth areas:**
 
 - Food processing
 - Manufacturing
@@ -63,66 +99,65 @@ Perform material handling, cleaning, packaging, and basic processing tasks in fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主获得LMIA后可申请工签，此职业通常需要LMIA |
-| Subclass PNP（Provincial Nominee Program） | 某些省份的省提名项目可能涵盖食品加工工人 |
-| Subclass Temporary Foreign Wo（Temporary Foreign Worker Program） | 通过劳工市场影响评估（LMIA）获得封闭工签 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a work permit after obtaining an LMIA; this occupation usually requires an LMIA |
+| Subclass PNP (Provincial Nominee Program) | Some provincial nominee programs may include food processing workers. |
+| Subclass Temporary Foreign Wo (Temporary Foreign Worker Program) | Obtain a closed work permit through Labour Market Impact Assessment (LMIA) |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Labourers in food and beverage processing？**
-- 寻求快速就业且无需高学历的人
-- 愿意从事体力劳动和倒班工作的人
-- 希望积累加拿大本地工作经验的新移民
-
-**谁不适合学Labourers in food and beverage processing？**
-- 期望高薪或职业晋升快的人
-- 无法适应重复性体力劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People seeking quick employment without requiring a high degree
+- People willing to do physical labor and shift work
+- New immigrants hoping to gain Canadian local work experience
+
+**Who is not suited**
+- Those expecting high salary or fast career advancement.
+- People who cannot adapt to repetitive physical labor.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for food and beverage processing workers?**
+A: Annual salary for entry-level workers around CAD 28,000-35,000, usually paid hourly, possibly including overtime. Senior workers or equipment operators can reach CAD 42,000-50,000.
+
+**Q: Is it difficult for food and beverage processing workers to immigrate to Canada?**
+A: This occupation falls under low-skilled categories; direct Express Entry immigration is difficult, usually requiring LMIA work permits or provincial nomination programs. Some provinces have targeted pilot projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Labourers in food and beverage processing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for food and beverage processing labourers?**
-答：Entry-level workers earn around CAD 28,000-35,000 annually, often hourly with overtime. Senior workers or equipment operators can reach CAD 42,000-50,000.
-
-**问：Is it difficult for food processing labourers to immigrate to Canada?**
-答：This occupation is low-skilled, making direct Express Entry immigration difficult. Usually requires LMIA work permit or PNP. Some provinces have targeted pilot programs.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

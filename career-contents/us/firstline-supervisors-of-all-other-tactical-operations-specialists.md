@@ -1,58 +1,89 @@
-# First-Line Supervisors of All Other Tactical Operations Specialists（First-Line Supervisors of All Other Tactical Operations Specialists）职业分析 · 美国
+# First-Line Supervisors of All Other Tactical Operations Specialists — career analysis · United States
 
-**职业代码：55-2013 – First-Line Supervisors of All Other Tactical Operations Specialists。**
+**Occupation code: 55-2013 (SOC)**
 
-Supervise and coordinate the activities of all other tactical operations specialists, often in law enforcement, military, or emergency response settings.
+Supervises and coordinates activities of various tactical operations specialists, may also perform the work of those supervised, commonly in law enforcement, military, and emergency response.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院费用） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 执法或军事背景 | 相关机构 | 必备 | 通常要求有多年战术操作经验 |
-| 主管培训认证 | 州或联邦机构 | 可选 | 如FBI LEEDA、FEMA ICS认证 |
+| Law enforcement or military background | Relevant institutions. | Required | Typically requires years of tactical operational experience |
+| Supervisor training certification | State or federal agencies | Optional | Such as FBI LEEDA, FEMA ICS certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。受公共安全需求驱动，预计就业增长稳定。联邦和地方政府的预算会影响招聘节奏，但关键岗位需求持续。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Driven by public safety needs, employment growth is expected to be stable. Federal and local government budgets affect hiring pace, but demand for key positions persists.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 来自OEWS类似职业估算 |
-| 中级（4-9年） | $75,000~$100,000 | 含州和联邦职位 |
-| 高级（10年以上） | $100,000~$130,000 | 高级主管或指挥岗位 |
+| Median salary | $87,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$75,000 | Estimated from similar OEWS occupations |
+| Intermediate (4-9 years) | $75,000~$100,000 | Includes state and federal positions |
+| Senior (10+ years) | $100,000~$130,000 | Senior executive or command role |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从战术操作专员晋升为主管，再向高级指挥职位（如行动指挥官、安全总监）发展。跨部门调岗或升迁至管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will greatly optimize intelligence analysis and resource allocation, but tactical field decisions, ethical judgment, and team morale maintenance still require human supervisors.
+
+Typically promotes from tactical operations specialist to supervisor, then to senior command roles (e.g., operations commander, security director). Cross-departmental transfer or promotion to management.
+
+**Tasks most exposed to AI:**
+
+- Optimization of regular patrol routes and resource scheduling (replaced by AI algorithms)
+- Initial screening and correlation analysis of intelligence data (automated by AI tools)
+- Generation of report templates and data entry (automated by AI),
+- Standardized procedural training drill assessments (replaced by AI simulation systems).
+
+**Where AI augments the role:**
+
+- Utilize AI for real-time threat assessment and risk prediction to improve decision speed and accuracy
+- Leverage AI-driven communication platforms to efficiently coordinate multi-department joint actions
+- Immersive training for complex scenarios using AI simulation systems.
+- Use AI analysis tools to extract key intelligence from massive data to support strategic planning.
+
+**Human moat:**
+
+- Moral judgment and ethical decision-making under high pressure,
+- Motivate and lead the team, maintain morale and cohesion,
+- On-site adaptability to complex, ambiguous, and non-standard situations
+- Ability to build trust and communicate effectively in cross-agency collaboration.
+
+**Skills to build:**
+
+- AI/data analysis basics (e.g., Python, data visualization)
+- Emergency management information systems and decision support tools operation
+- Human-machine collaboration and AI output quality review skills
+- Advanced negotiation and conflict resolution skills,
+- Systems thinking and multi-source information integration ability
+
+**Key growth areas:**
 
 - public safety
 - government spending
@@ -61,68 +92,67 @@ Supervise and coordinate the activities of all other tactical operations special
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于私营部门高级战术主管，但政府职位更常见于绿卡申请。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需高级学位或特殊能力，适用于具有学士加5年经验的申请人。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于拥有学士学位或2年经验的人员，PERM流程。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to senior tactical managers in the private sector, but government positions are more common for green card applications. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires an advanced degree or exceptional ability, applicable to applicants with a bachelor's plus 5 years' experience. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for individuals with a bachelor's degree or 2 years of experience, PERM process. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学First-Line Supervisors of All Other Tactical Operations Specialists？**
-- 有执法/军事背景的领导者
-- 擅长高压环境决策
-- 渴望公共安全职业发展
-
-**谁不适合学First-Line Supervisors of All Other Tactical Operations Specialists？**
-- 厌恶官僚和办公室政治
-- 偏好常规作息工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Leaders with law enforcement/military background
+- Adept at decision-making in high-pressure environments
+- Aspiring for public safety career development
+
+**Who is not suited**
+- Dislike bureaucracy and office politics
+- Prefer routine work schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of tactical operations specialist supervisors?**
+A: According to OEWS estimates, annual salary is about $55,000 to $130,000 USD, depending on experience, location, and employer (federal wages are higher).
+
+**Q: How can a foreign national obtain a US green card through this occupation?**
+A: Typically through EB-2 or EB-3 pathways, requiring employer-sponsored PERM. Government positions may require citizenship, with more opportunities at private contractors.
+
+**Q: What experience is needed to become a supervisor?**
+A: Typically requires 5+ years of tactical operations experience, such as SWAT, military special forces, or emergency response, and supervisory training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-First-Line Supervisors of All Other Tactical Operations Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for First-Line Supervisors of Tactical Operations Specialists?**
-答：Estimated annual salary ranges from $55,000 to $130,000, depending on experience, location, and employer (federal pays higher).
-
-**问：How can foreigners obtain a green card through this occupation?**
-答：Typically via EB-2 or EB-3, requiring employer PERM sponsorship. Government jobs may require citizenship; private contractor roles offer more opportunities.
-
-**问：What experience is needed to become a supervisor?**
-答：Typically 5+ years of tactical operations experience (e.g., SWAT, military special forces, emergency response) plus supervisory training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

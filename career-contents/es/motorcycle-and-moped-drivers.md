@@ -1,60 +1,92 @@
-# Motorcycle And Moped Drivers（Motorcycle And Moped Drivers）职业分析 · ES
+# Motorcycle And Moped Drivers — career analysis · Spain
 
-**职业代码：8440 – Motorcycle And Moped Drivers。**
+**Occupation code: 8440 (CNO)**
 
-Work driving motorcycles or mopeds in Spain, typically for courier, food delivery, or short-distance urban transport. Low skill entry barrier but high work intensity and unstable income.
+Working in Spain as a motorcycle or moped usually involves courier services, food delivery, or short-distance urban transport. This profession has low skill requirements and a low entry barrier, but the work intensity is high and income is unstable.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（仅需摩托车驾照（AM/A1/A2）） |
-| 基础职业培训（FP Básica） | 1-2年 | —（公立学校免费，私立约3000欧元） |
+| No formal education required | None | $0~$0 (Only a motorcycle license (AM/A1/A2) is required.) |
+| Basic Vocational Training (FP Básica) | 1-2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摩托车驾照（AM/A1/A2/B） | 西班牙交通总局（DGT） | 必备 | 根据摩托车排量需相应级别驾照，B照可驾驶125cc以下轻便摩托车 |
-| 自雇注册（Autónomo） | 社保局（Seguridad Social） | 可选 | 如作为自由职业者从事配送，需注册并缴纳社保 |
+| Motorcycle license (AM/A1/A2/B) | Spanish Directorate of Transport (DGT) | Required | Depending on the motorcycle's displacement, a corresponding level of license is required; a B license allows riding light motorcycles under 125cc |
+| Self-employment registration (Autónomo) | Social Security Bureau (Seguridad Social) | Optional | If you are a freelancer engaged in delivery, you must register and pay social insurance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。西班牙电商和外卖平台需求持续增长，摩托车驾驶员岗位数量稳定。但就业多为临时或自雇形式，缺乏社保保障，长期前景一般。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand from Spanish e-commerce and food delivery platforms continues to grow, and the number of motorcycle driver positions remains stable. However, most employment is temporary or self-employed, lacking social security protection, and has average long-term prospects.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $14,000~$18,000 | 多为自雇或临时合同，实际收入波动大 |
-| 中级（2-5年） | $18,000~$24,000 | 部分受雇于大型配送公司，有稳定底薪加提成 |
-| 高级（5年以上） | $24,000~$30,000 | 可升至车队主管或调度岗位 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $14,000~$18,000 | Most are self-employed or under temporary contracts, with significant fluctuations in actual income |
+| Intermediate (2-5 years) | $18,000~$24,000 | Some are employed by large delivery companies, with stable base salaries plus commissions |
+| Senior (5+ years) | $24,000~$30,000 | Promotion can be to fleet supervisor or dispatch positions |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业晋升空间有限，通常可转向配送站主管或物流调度岗位，但需要额外培训和经验积累。部分驾驶员可能转型为货车司机或创业开设小型配送公司。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI and automation will significantly reduce motorcycle driver positions within 5-10 years, while automated route planning and unmanned delivery technologies will replace many simple delivery tasks, retaining only complex urban road conditions and interpersonal interaction positions.
+
+Career advancement opportunities are limited; you can usually move to distribution station supervisors or logistics dispatch roles, but this requires additional training and experience. Some drivers may transition to truck drivers or start small delivery companies.
+
+**Tasks most exposed to AI:**
+
+- GPS-based automatic route planning and optimal route selection
+- Repetitive short-distance delivery tasks (such as from restaurants to fixed pickup points)
+- Simple parcel delivery and signature confirmation process
+- Some traffic rules (such as speed limit recognition) can be taken over by autonomous driving systems
+
+**Where AI augments the role:**
+
+- AI-assisted navigation and real-time traffic information prompts improve delivery efficiency
+- The intelligent scheduling system optimizes order allocation and order selection
+- In-vehicle cameras and sensors enhance driving safety monitoring
+- Voice assistants handle customer communications and exceptional situations
+
+**Human moat:**
+
+- Flexible adaptability in complex urban environments such as crowded streets and temporary obstacles
+- Emotional communication and trust are built through direct interaction with customers
+- Physical operation experience for handling non-standard parts (such as fragile products and fresh produce).
+- Rapid judgment and ethical decision-making in sudden traffic incidents
+
+**Skills to build:**
+
+- Learn the basic skills of operating and maintaining drone/unmanned delivery vehicles
+- Master basic AI scheduling system usage and data analysis skills
+- Enhance customer service skills to meet high-value or special delivery needs
+- Obtain advanced motorcycle safety driving certification (such as defensive driving)
+- Learn multi-mode transport coordination skills (combining cycling, walking, etc.)
+
+**Key growth areas:**
 
 - Gig Economy
 - Delivery Services
@@ -63,65 +95,67 @@ Work driving motorcycles or mopeds in Spain, typically for courier, food deliver
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 受雇于西班牙公司的工作居留，需雇主担保。摩托车驾驶员职位通常不被视为高技能，获批率较低。 |
-| Subclass Autónomo（Self-Employment Visa） | 自雇居留，适用于计划在西班牙设立个人配送业务者。需提交商业计划并证明经济能力。 |
+| Subclass Cuenta ajena (Work Contract Visa) | Work residence employed by a Spanish company requires employer sponsorship. Motorcycle driver positions are generally not considered highly skilled, with low approval rates. |
+| Subclass Autónomo (Self-Employment Visa) | Self-employed residence, suitable for those planning to set up a personal delivery business in Spain. A business plan must be submitted and financial capability demonstrated. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motorcycle And Moped Drivers？**
-- 喜欢户外工作、灵活时间安排的人
-- 接受自雇模式、能承受收入不稳定的年轻人
-- 作为短期过渡或兼职的劳动者
+**Who is suited**
+- People who enjoy outdoor work and flexible scheduling
+- Young people who accept self-employment and can afford unstable incomes
+- For short-term transitional or part-time workers
 
-**谁不适合学Motorcycle And Moped Drivers？**
-- 寻求稳定收入和高福利保障的求职者
-- 不习惯长时间骑行或城市复杂交通环境的人
+**Who is not suited**
+- Job seekers seeking stable income and high welfare protection
+- People who are not used to long rides or the complex urban traffic environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a motorcycle driver?**
+A: Pre-tax annual salary approx. 14,000-30,000 EUR; couriers employed by platforms (e.g., Glovo, Uber Eats) are typically paid per delivery, monthly income between 1,200-2,000 EUR, but no paid leave.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: The likelihood is low. This position is not considered high-skilled, and employer-sponsored work residency approval is difficult. Self-employed immigrants need to prove financial strength and business plans, but the food delivery business is highly competitive and has a low success rate.
+
+**Q: What documents are required to work in this profession?**
+A: You must hold a valid motorcycle license (AM/A1/A2/B), as well as a residence permit or work permit. Self-employed individuals must also register as individual businesses (autónomo) and pay social insurance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Motorcycle And Moped Drivers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for motorcycle drivers?**
-答：Gross annual salary ranges from €14,000 to €30,000. Platform riders (e.g., Glovo, Uber Eats) are paid per delivery, earning €1,200-€2,000 monthly, but without paid leave.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Low probability. The job is not considered high-skilled, making employer-sponsored work permits difficult. Self-employment visa requires strong business plan and financial proof, but competition in delivery sector is high.
-
-**问：What documents are required for this job?**
-答：Valid motorcycle license (AM/A1/A2/B) and residence/work permit. Self-employed must register as autónomo and pay social security contributions.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Building and Premises Maintenance Worker（Building and Premises Maintenance Worker）职业分析 · FR
+# Building and Premises Maintenance Worker — career analysis · France
 
-**职业代码：I1203 – Building and Premises Maintenance Worker。**
+**Occupation code: I1203 (ROME)**
 
-Responsible for daily maintenance, repair, and upkeep of buildings and premises, including plumbing, electrical, heating, and ventilation systems to ensure safe operation.
+Responsible for the daily maintenance, repair, and upkeep of buildings and premises, including systems such as water, electricity, heating, and ventilation, ensuring the safe operation of facilities.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或Bac Pro | 2年 | —（公立学校免费，材料费自付） |
-| BTS | 2年 | —（公立学校免费，私立学校收费） |
-| 学徒制 | 1-2年 | —（学徒期间带薪，培训免费） |
+| CAP or Bac Pro | 2 years | $0~$3,000 (Public schools are free; materials are self-paid) |
+| BTS | 2 years | $0~$5,000 (Public schools are free, private schools are charged) |
+| Apprenticeship | 1-2 years | $0~$0 (The apprenticeship period is paid, and training is free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Maintenance des bâtiments | 法国教育部 | 可选 | 基础职业文凭，无需强制性 |
-| BTS Maintenance des bâtiments | 法国教育部 | 可选 | 高级技师文凭，提升竞争力 |
-| Carte professionnelle (若涉及燃气等) | Préfecture | 可选 | 从事特定危险工作时需要 |
+| CAP Maintenance des bâtiments | French Ministry of Education | Optional | Basic vocational diploma, no mandatory requirement |
+| BTS Maintenance des bâtiments | French Ministry of Education | Optional | Senior Technician Diploma to enhance competitiveness |
+| Carte professionnelle (if gas is involved, etc.) | Préfecture | Optional | Required for specific hazardous work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 250,000。法国建筑维护行业需求稳定，受老旧建筑翻新和节能改造推动，就业前景良好。预计未来十年岗位增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. Demand in France's building maintenance industry is stable, driven by renovations of old buildings and energy-saving upgrades, resulting in promising employment prospects. Job growth is expected to be about 5% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$27,000 | 税前年薪，含学徒可能更低 |
-| 中级（4-8年） | $28,000~$35,000 | 税前年薪，含补贴 |
-| 高级（9年以上） | $36,000~$45,000 | 税前年薪，主管或专家级别 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$27,000 | Pre-tax annual salary, including apprentices, may be even lower |
+| Mid-level (4–8 years) | $28,000~$35,000 | Annual salary before tax, including allowances |
+| Senior (9+ years) | $36,000~$45,000 | Pre-tax annual salary, supervisor or expert level |
+| average salary | $34,560 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级维护工晋升为高级技师或团队主管，也可通过培训转向节能改造或智能建筑系统等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Although the work of building and site maintenance workers involves physical operations, AI and automation will take over some diagnostic, scheduling, and documentation tasks, while enhancing preventive maintenance capabilities. Positions will not disappear, but skill demands will shift toward technology and management.
+
+You can be promoted from junior maintenance worker to senior technician or team leader, or through training, transition to specialized fields such as energy-saving retrofits or smart building systems.
+
+**Tasks most exposed to AI:**
+
+- Sensor-based equipment condition monitoring reports are automatically generated
+- Remote expert system for fault diagnosis (AI preliminary assessment)
+- Automatic allocation and scheduling of routine maintenance work orders
+- Building energy consumption data analysis and energy-saving recommendations
+- Inventory spare parts demand forecast
+
+**Where AI augments the role:**
+
+- Obtain repair guidance and historical records through AR glasses
+- Use predictive maintenance algorithms to optimize repair plans
+- Use mobile apps to quickly record on-site issues and generate reports
+- Integration with smart building systems improves fault response efficiency
+- Repair solutions are simulated with digital twins
+
+**Human moat:**
+
+- On-site diagnosis and creative repair of complex faults
+- Compliance assessment involving regulations and safety standards
+- Communicate with clients and make decisions in emergencies
+- Manual precision operations (such as precision component replacement)
+- Comprehensive maintenance experience for multi-system integration
+
+**Skills to build:**
+
+- Operation and troubleshooting of intelligent building systems
+- Use of data analysis and predictive maintenance software
+- Mobile work order management and collaboration tool
+- Basic knowledge of electrical automation and the Internet of Things
+- Energy-saving technologies and green building maintenance
+- Communication and client management skills
+
+**Key growth areas:**
 
 - Energy efficiency renovation
 - Building automation
@@ -65,66 +101,65 @@ Responsible for daily maintenance, repair, and upkeep of buildings and premises,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，匹配ROME职业 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适用于高技能或紧缺职业，需满足薪资等条件 |
-| Subclass Recherche emploi（Job Search Permit） | 毕业后找工居留，可在法停留一年找工作 |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship and matches ROME occupations |
+| Subclass Passeport Talent (Talent Passport) | Talent passport, suitable for high-skilled or in-demand occupations, requires meeting salary and other conditions |
+| Subclass Recherche emploi (Job Search Permit) | After graduation, you can find work and stay for a year, and look for a job |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building and Premises Maintenance Worker？**
-- 动手能力强、喜欢操作工具和机械的人
-- 愿意学习多种技能（水电、木工等）的务实者
-- 能接受户外作业和一定体力劳动的人
-
-**谁不适合学Building and Premises Maintenance Worker？**
-- 不喜欢体力劳动或户外工作的人
-- 追求高薪和快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy operating tools and machinery
+- Pragmatic individuals willing to learn various skills (electrical, woodworking, etc.).
+- Able to handle outdoor work and some physical labor
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for building maintenance workers in France?**
+A: Entry-level is about 22-27k euros per year, while upper-intermediate can reach 28-45k euros per year, but note regional differences (Paris is higher).
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: You can apply for a Salarié work residence or Passeport Talent passport, but employer sponsorship and a diploma recognized by France are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Building and Premises Maintenance Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for building maintenance workers in France?**
-答：Entry-level about €22-27k/year, mid to senior €28-45k/year, with regional variations (higher in Paris).
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：You can apply for a Salarié work permit or Passeport Talent, requiring employer sponsorship and a recognized diploma.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

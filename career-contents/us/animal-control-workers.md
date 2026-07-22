@@ -1,60 +1,92 @@
-# Animal Control Workers（Animal Control Workers）职业分析 · 美国
+# Animal Control Workers — career analysis · United States
 
-**职业代码：33-9011 – Animal Control Workers。**
+**Occupation code: 33-9011 (SOC)**
 
-Handle animals for investigations of mistreatment, or control of abandoned, dangerous, or unattended animals to ensure public safety and animal welfare.
+Responsible for investigating animal cruelty, controlling or sheltering abandoned, dangerous, or unattended animals, maintaining public safety and animal welfare.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士或证书课程 | 1-2年 | $5,000~$20,000（社区大学或技术学院） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree or certificate programs | 1-2 years | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物控制认证 | 全美动物控制协会 (NACA) | 必备 | 许多州或市要求，涵盖人道处理与法规 |
-| 驾驶员执照 | 州机动车辆管理局 | 必备 | 需持有效驾驶执照，常要求清洁记录 |
+| Animal Control Certification | National Animal Control Association (NACA) | Required | Many states or cities require, covering humane handling and regulations |
+| Driver's license | State motor vehicle department | Required | Must hold a valid driver's licence, often requires a clean record |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 15,000。美国就业前景稳定，随着公众动物保护意识增强及城市宠物数量增长，岗位需求缓慢增加，但受政府预算限制。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. U.S. employment outlook is stable, with slow job growth due to increasing public awareness of animal protection and rising pet numbers in cities, but constrained by government budgets.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级，通常受政府薪资表约束 |
-| 中级（3-7年） | $40,000~$55,000 | 经验增加及额外认证可提升薪资 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或高级官员岗位，含多年经验与领导职责 |
+| Median salary | $45,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level, typically bound by government salary scales |
+| Mid-level (3–7 years) | $40,000~$55,000 | Increased experience and additional certifications can raise salary |
+| Senior (7+ years) | $55,000~$70,000 | Supervisor or senior officer roles, involving years of experience and leadership responsibilities |
+| average salary | $48,440 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从动物控制官员起步，积累经验后可晋升为高级官员或主管，部分人转向动物福利组织管理或动物执法领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Animal control officer work involves extensive field enforcement and animal handling, AI cannot fully replace; but administrative tasks like report writing and data entry will be automated, while AI tools can aid decision-making and training, overall risk is manageable.
+
+Typically start as Animal Control Officer, gain experience to advance to senior officer or supervisor; some move into animal welfare organization management or animal law enforcement.
+
+**Tasks most exposed to AI:**
+
+- Write and handle animal shelter and law enforcement reports
+- Data entry and record management, such as animal ledger
+- Receive and dispatch simple complaints via phone or online system.
+- Preliminary inspection and triage of basic hazards
+
+**Where AI augments the role:**
+
+- Use computer vision and sensors to monitor animal conditions, early warning of health or behavioral abnormalities
+- Using AI to analyze animal abuse case data, identify patterns and trends, assist investigation prioritization
+- Use virtual reality to simulate dangerous scenarios to train officers for emergencies
+- Use drones and GPS to track stray animals, improving capture efficiency
+
+**Human moat:**
+
+- Judgment and empathy in on-site law enforcement, e.g., calming frightened animals
+- Communication and mediation skills with pet owners and the public
+- Ability to respond on the spot and physically control in complex hazardous environments
+- Understanding and application of animal welfare laws and ethics.
+
+**Skills to build:**
+
+- Knowledge of animal behavior and practical experience
+- Basic data analysis and reporting tool usage
+- Familiar with IoT devices such as drones and surveillance cameras.
+- Crisis communication and conflict mediation skills
+- Legal Process and Case Management Software Skills
+
+**Key growth areas:**
 
 - Animal Welfare
 - Public Safety
@@ -63,65 +95,67 @@ Handle animals for investigations of mistreatment, or control of abandoned, dang
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少数情况，需雇主担保且证明无法找到本地工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Rare cases, requires employer sponsorship and proof of inability to find local workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Control Workers？**
-- 热爱动物并愿意处理危险情形的人
-- 具备耐心和良好沟通能力，适合在政府或非营利组织工作
-- 能适应不定时工作和户外环境
+**Who is suited**
+- People who love animals and are willing to handle dangerous situations
+- Patient with good communication skills, suitable for work in government or non-profit organizations
+- Able to adapt to irregular hours and outdoor environments
 
-**谁不适合学Animal Control Workers？**
-- 无法承受动物受虐场面或高强度压力的人
-- 不擅长与公众沟通或处理冲突的人
+**Who is not suited**
+- Unable to bear scenes of animal abuse or high levels of stress
+- People who are not good at communicating with the public or handling conflicts.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for animal control officers?**
+A: According to BLS data, the average annual salary in 2023 was approximately $45,000, ranging from $30,000 to $70,000 depending on experience and location.
+
+**Q: Can animal management officers work in the US through skilled migration pathways?**
+A: Extremely difficult. This occupation typically does not meet H-1B bachelor's degree requirements, and PERM labor certification is also hard to obtain; immigration pathways are very limited.
+
+**Q: How to become an animal management officer?**
+A: Usually requires a high school diploma or equivalent, certification training through organizations like NACA, and meeting state or city specific requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Animal Control Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for animal control workers?**
-答：According to BLS, the average annual salary in 2023 is about $45,000, ranging from $30,000 to $70,000 depending on experience and location.
-
-**问：Can animal control workers migrate to the US through skilled migration?**
-答：Very difficult. The occupation rarely meets H-1B bachelor's degree requirements, and PERM labor certification is hard to obtain; migration paths are limited.
-
-**问：How to become an animal control worker?**
-答：Usually requires a high school diploma or equivalent, certification from agencies like NACA, and fulfilling state or local requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

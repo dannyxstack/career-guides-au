@@ -1,59 +1,94 @@
-# Tree and Shrub Crop Growers（Tree and Shrub Crop Growers）职业分析 · NL
+# Tree and Shrub Crop Growers — career analysis · Netherlands
 
-**职业代码：6112 – Tree and Shrub Crop Growers。**
+**Occupation code: 6112 (ISCO08)**
 
-Cultivate, manage and harvest tree and shrub crops such as fruit trees, berries and ornamental shrubs, often in orchards or nurseries.
+An agricultural worker responsible for planting, cultivating, and harvesting trees and shrub crops (e.g., fruit trees, berries, ornamental shrubs), typically in orchard or nursery operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | —（荷兰公立职业学校（MBO）学费约每年€1,000-2,000，欧盟/EEA学生可免学费） |
-| 应用科学大学本科 | 4年 | $9,000~$15,000（非欧盟学生本科园艺/农业科学每年€9,000-15,000） |
+| Secondary vocational education | 2-3 years | $0~$2,000 (Tuition fees at Dutch public vocational schools (MBO) are approximately €1,000-2,000 per year; EU/EEA students may be exempt.) |
+| Bachelor's degree at a University of Applied Sciences | 4 years | $9,000~$15,000 (Non-EU students: bachelor's in horticulture/agricultural science €9,000–15,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业资格 | 荷兰教育、文化和科学部 | 可选 | MBO农业方向毕业证书，证明具备种植实践技能 |
-| 植物保护产品使用许可证 | 荷兰食品和消费品安全局（NVWA） | 必备 | 需通过考试获得，方可购买和使用农药 |
-| 食品安全认证 | GlobalG.A.P. 或类似机构 | 可选 | 出口导向型农场常要求，非强制但有助于就业 |
+| Plant Protection Product Use Permit | Netherlands Food and Consumer Product Safety Authority (NVWA) | Required | Must pass an exam to obtain before purchasing and using pesticides. |
+| Agricultural vocational qualification | Ministry of Education, Culture and Science of the Netherlands | Optional | MBO agriculture graduation certificate, demonstrating practical planting skills. |
+| Food safety certification | GlobalG.A.P. or similar body | Optional | Export-oriented farms often require it, not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。荷兰农业高度集约化，园艺业（包括果树和观赏灌木）是其出口强项。受可持续农业和有机种植趋势推动，该职业需求稳定，但面临劳动力成本上升和自动化替代压力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Dutch agriculture is highly intensive; horticulture (including fruit trees and ornamental shrubs) is an export strength. Driven by sustainable farming and organic trends, demand for this occupation is stable, but faces rising labor costs and automation pressure.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，具管理职责 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，农场主或技术经理 |
+| Median salary | $34,975 | Median salary (Official: CBS employee hourly median €17.7/hour × 1976h annualized, BRC group 0912 Hoveniers, tuinders en kwekers; P25–P75 €31,023–€43,867, CBS 2024) |
+| Entry level (0–3 years) | $23,000~$28,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary with management responsibilities |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, farm owner or technical manager |
+| average salary | $32,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从普通种植工可晋升为农场主管或生产经理；通过进修园艺技术或农业管理课程，可向农业顾问或自有农场主发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI tools will significantly enhance the decision-making and efficiency of tree and shrub crop growers, but will not fully replace their physical labor and on-site judgment; instead, it will amplify their professional value.
+
+Can advance from general grower to farm supervisor or production manager; through further study in horticulture or agricultural management, progress to agricultural advisor or own farm owner.
+
+**Tasks most exposed to AI:**
+
+- Scheduling of planting plans (e.g., irrigation, fertilization timing) based on historical data
+- Simple pest and disease image recognition and early warning notifications.
+- Standardised production forecasting and inventory records
+- Repetitive soil sensor data sorting
+- Collection and summarization of basic market information
+
+**Where AI augments the role:**
+
+- Using drones and satellite imagery for high-precision crop health monitoring
+- AI-assisted real-time decision-making: dynamically adjust irrigation and fertilization plans based on environmental data
+- Collaborative work with automated pruning robots to reduce manual labor intensity
+- AI-driven market prediction tool optimizes sales timing and pricing strategies
+- Remotely centralized management of production activities across multiple plots via IoT systems
+
+**Human moat:**
+
+- On-site comprehensive judgment ability: flexible response to abnormal weather and sudden pest outbreaks
+- Intuitive decision-making based on long-term farming experience (e.g., variety selection, soil fine-tuning)
+- Fine tactile sensitivity in manual tasks (e.g., pruning, grafting, harvesting ripeness assessment)
+- Building and maintaining interpersonal trust relationships with clients/suppliers.
+
+**Skills to build:**
+
+- Basics of IoT and sensor data analysis
+- Drone operation and image interpretation
+- Use of precision agriculture software (e.g., FarmBeats, Climate FieldView)
+- Basic Python or R programming (for custom analysis)
+- Knowledge of sustainable agriculture and ecological management
+- Digital transformation project management skills
+
+**Key growth areas:**
 
 - Orchard expansion
 - Organic farming
@@ -62,68 +97,67 @@ Cultivate, manage and harvest tree and shrub crops such as fruit trees, berries 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，年薪门槛约€5,600/月（2024年），农业技术岗位可能符合 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 适用于有雇主担保的非欧盟技术移民，年薪门槛约€4,500/月（30岁以下€3,500） |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰大学毕业或全球前200高校毕业生可申请一年求职签证，找到工作后可转工作签证 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, with an annual salary threshold of approximately €5,600/month (2024); agricultural technology roles may qualify. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applies to non-EU skilled migrants with employer sponsorship; annual salary threshold approximately €4,500/month (€3,500 for under 30) |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply for a one-year job-seeking visa, which can be converted to a work visa upon finding employment |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tree and Shrub Crop Growers？**
-- 喜欢户外体力劳动，对园艺/果树种植有热情
-- 愿意接受季节性工作节奏和自然条件挑战
-- 具备基础植物学知识或愿意从零学习
-
-**谁不适合学Tree and Shrub Crop Growers？**
-- 无法承受重复性体力劳动及户外恶劣天气
-- 追求高薪或室内办公环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor manual labor, passionate about gardening/fruit tree cultivation
+- Willing to accept seasonal work pace and natural condition challenges
+- Basic knowledge of botany or willingness to learn from scratch
+
+**Who is not suited**
+- Unable to endure repetitive physical labor and harsh outdoor weather
+- Pursuing high salary or indoor office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of Dutch tree and shrub crop growers?**
+A: Entry-level approximately €23,000-28,000/year, senior up to €45,000/year, below average Dutch salary, but usually includes accommodation or allowance.
+
+**Q: How can non-EU citizens obtain a Dutch agricultural work visa?**
+A: Possible via high-skilled migration (employer-sponsored) or EU Blue Card (requires higher salary). Seasonal work can apply for a seasonal labour visa.
+
+**Q: What are the future development prospects for this occupation in the Netherlands?**
+A: due to automation and climate change, traditional planting jobs may decline, but organic farming and precision agriculture technology jobs will increase
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tree and Shrub Crop Growers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for tree and shrub crop growers in the Netherlands?**
-答：Entry-level €23,000-28,000/year, senior up to €45,000/year, below national average but often includes housing or allowances.
-
-**问：How can non-EU citizens obtain a work visa for agriculture in the Netherlands?**
-答：Through Highly Skilled Migrant (employer-sponsored) or EU Blue Card (higher salary). Seasonal workers can apply for a seasonal labor visa.
-
-**问：What is the future outlook for this occupation in the Netherlands?**
-答：Traditional roles may decline due to automation, but demand for organic and precision agriculture specialists will grow.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

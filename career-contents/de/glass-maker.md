@@ -1,60 +1,92 @@
-# Glass Maker（Glass Maker）职业分析 · DE
+# Glass Maker — career analysis · Germany
 
-**职业代码：2131 – Glass Maker。**
+**Occupation code: 2131 (KldB)**
 
-Glass makers melt, shape, anneal, and finish glass products, including flat glass, container glass, and specialty glass for industrial or decorative use.
+Glass makers are responsible for melting, forming, annealing, and processing glass products, covering the production and finishing of flat glass, container glass, and specialty glass.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏易（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 玻璃工艺技师（双元制） | 3年 | —（培训期间有津贴） |
-| 玻璃技术员（继续教育） | 2年（全职） | $1,000~$5,000（可选全日制或兼职） |
+| Glass process technician (dual system) | 3 years | $0~$500 (Allowance during training) |
+| Glass Technician (continuing education). | 2 years (full-time) | $1,000~$5,000 (Available full-time or part-time) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃制造工职业培训毕业证 | 德国工商会IHK | 必备 | 完成双元制培训即可获得 |
-| 大师证书（玻璃工艺） | 德国手工业协会HWK | 可选 | 晋升管理岗位推荐 |
+| Glass maker vocational training diploma | German Chamber of Commerce (IHK). | Required | Completion of the dual training system is sufficient to obtain |
+| Master Certificate (Glass Craftsmanship) | German Chamber of Skilled Crafts HWK | Optional | Recommended for promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：平稳（★★½☆☆）。** 全国从业人数约 25,000。德国玻璃行业受建筑和汽车工业需求支撑，但自动化程度提高，就业岗位缓慢减少。具备特种玻璃技能者仍有机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The German glass industry is supported by demand from the construction and automotive sectors, but automation is increasing, leading to a slow decline in jobs. Opportunities still exist for those with specialty glass skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，东德较低 |
-| 中级（3-7年） | $34,000~$42,000 | 含加班与津贴 |
-| 高级（7年以上/技师） | $42,000~$52,000 | 大师/主管级更高 |
+| Median salary | $40,704 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary, lower in East Germany |
+| Mid-level (3–7 years) | $34,000~$42,000 | Including overtime and allowances |
+| Senior (7+ years / Technician). | $42,000~$52,000 | Master/supervisor level higher |
+| average salary | $43,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从操作工起步，可晋升为班组长、生产主管，或通过继续教育成为玻璃工艺技师或工业大师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Glass and ceramics manufacturing, decorating, and finishing workers face medium automation risk; manual finishing and artistic design tasks still rely on humans, but standardized product forming, defect detection, etc., will be gradually replaced by AI machine vision and robots.
+
+Start as an operator, can advance to team leader, production supervisor, or become a glass technology technician or industrial master through further education.
+
+**Tasks most exposed to AI:**
+
+- Repetitive cup and dish forming operations (replaced by machine pressing/slip casting)
+- Standardised product surface sanding and polishing (robot automatic sanding)
+- Basic quality defect detection (AI visual inspection replaces human eye)
+- Simple pattern screen printing (replaced by automated printing machines)
+
+**Where AI augments the role:**
+
+- Decorative design (AI-generated patterns and color schemes assist creation)
+- Kiln temperature curve optimization (AI prediction model improves yield rate)
+- Custom product modeling (3D scanning and AI-assisted rapid mold generation)
+- Production scheduling and defect root cause analysis (AI data mining to aid decision-making)
+
+**Human moat:**
+
+- Manual fine finishing and repair (e.g., kintsugi, cold working of glass)
+- Artistic, non-standard design (customized client needs)
+- Manual forming of complex non-standard parts (shapes that cannot be produced by machines).
+- Inheritance of traditional craftsmanship skills and on-site problem diagnosis
+
+**Skills to build:**
+
+- 3D modeling software (Blender/Rhino) and digital design
+- AI-assisted design tools (e.g., Midjourney generates ceramic patterns)
+- Robot and automation equipment programming and maintenance
+- Fundamentals of materials science (ceramic/glass composition and processing)
+- Data analysis and process optimization (Python basics)
+
+**Key growth areas:**
 
 - energy-efficient glass
 - automated production
@@ -63,68 +95,67 @@ Glass makers melt, shape, anneal, and finish glass products, including flat glas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（EU Blue Card） | 若具备高等教育学历且年薪达标（2024年约43,800欧元）可申请。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职居留许可，允许在德寻找工作。 |
+| Subclass Skilled Worker (EU Blue Card) | If you have a higher education degree and meet the annual salary threshold (approx. EUR 43,800 in 2024), you can apply. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking residence permit, allowing job search in Germany. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass Maker？**
-- 动手能力强、对高温环境不畏惧的人
-- 愿意接受职业教育而非大学的人
-- 对工艺流程和材料科学感兴趣的人
-
-**谁不适合学Glass Maker？**
-- 极度厌恶体力劳动和高温环境的人
-- 追求高薪且快速晋升的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with strong hands-on skills and who are not afraid of high-temperature environments
+- Those willing to pursue vocational education rather than university
+- For those interested in process engineering and materials science
+
+**Who is not suited**
+- For those who strongly dislike physical labor and high-temperature environments
+- People seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a glass manufacturing worker in Germany?**
+A: Annual pre-tax salary approximately €30,000-45,000, depending on experience and location.
+
+**Q: Is it easy for foreign glass workers to immigrate to Germany?**
+A: Requires completing qualification recognition (Anerkennung), and German usually needs to be at least B1, which is somewhat challenging.
+
+**Q: What are the career advancement pathways for glass manufacturing workers?**
+A: Can be promoted to production supervisor, or become glass craft master or technician through further training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏易（★★☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 平稳（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Glass Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a glass maker in Germany?**
-答：Gross annual salary ranges from €30,000 to €45,000, depending on experience and region.
-
-**问：Is it easy for foreign glass makers to immigrate to Germany?**
-答：Recognition of qualifications (Anerkennung) is required, and German at B1 level is usually needed, making it moderately difficult.
-
-**问：What are the career advancement paths for glass makers?**
-答：Possible paths include becoming a production supervisor, or further education to become a master craftsman or technician.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

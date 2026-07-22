@@ -1,60 +1,94 @@
-# Food Manufacturing Workers (without Specialization)（Food Manufacturing Workers (without Specialization)）职业分析 · DE
+# Food Manufacturing Workers (without Specialization) — career analysis · Germany
 
-**职业代码：2920 – Food Manufacturing Workers (without Specialization)。**
+**Occupation code: 2920 (KldB)**
 
-Food manufacturing workers produce various food items such as bread, meat, dairy, and beverages, involving raw material processing, mixing, baking, and packaging. In Germany, this occupation is typically entered through dual vocational training.
+Food manufacturing workers produce various food items such as bread, meat, dairy products, and beverages, including operations like raw material processing, mixing, baking, and packaging. In Germany, this occupation is typically entered through dual vocational training.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常免费） |
-| 职业进修（如食品技术员） | 1-2年 | $500~$3,000（部分课程可获资助） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Paid during training, usually free) |
+| Professional development (e.g., food technologist) | 1-2 years | $500~$3,000 (Partial course funding available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品行业职业培训证书 | 德国工商会（IHK） | 必备 | 完成双元制培训后获得 |
-| 食品安全与卫生证书 | 相关行业协会 | 必备 | 通常由雇主组织培训 |
+| Certificate in Food Industry Vocational Training | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Food safety and sanitation certificate | Relevant industry associations. | Required | Training is usually organized by the employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 280,000。德国食品制造业就业前景稳定，行业受经济周期影响较小。由于人口老龄化和技术工人短缺，熟练工人需求持续。自动化和数字化趋势要求工人具备更多技术技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 280,000. Employment prospects in the German food manufacturing industry are stable, with less impact from economic cycles. Due to an ageing population and skilled worker shortages, demand for skilled workers persists. Automation and digitalisation trends require workers to have more technical skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，取决于地区和公司 |
-| 中级（3-6年） | $30,000~$38,000 | 税前年薪，有经验后增加 |
-| 高级（6年以上） | $38,000~$45,000 | 税前年薪，包括班组长等职位 |
+| Median salary | $38,760 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, depending on location and company |
+| Mid-level (3–6 years) | $30,000~$38,000 | Gross annual salary, increases with experience |
+| Senior (6+ years) | $38,000~$45,000 | Annual pre-tax salary, including positions such as team leaders. |
+| average salary | $41,568 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括从初级工人到专业操作员、班组长、生产主管。通过继续教育可成为食品技术员或工业大师。也有机会转向质量管理或产品开发领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Food manufacturing workers (Germany) face significant automation reduction, as automated production lines and AI quality inspection will replace many repetitive tasks, decreasing entry-level positions but increasing demand for equipment maintenance and process optimization skills.
+
+Career progression includes moving from entry-level worker to specialist operator, team leader, production supervisor. Through continuing education, become a food technician or industrial master. Opportunities also exist in quality management or product development.
+
+**Tasks most exposed to AI:**
+
+- Raw material weighing and mixing
+- Monitor baking and steaming processes
+- Product packaging and labeling.
+- Production line inspections and basic quality testing
+
+**Where AI augments the role:**
+
+- Using AI vision systems to detect product defects
+- Optimizing production process parameters through data analysis.
+- Use robots for flexible packaging operations
+- Monitor equipment health with IoT
+
+**Human moat:**
+
+- Equipment fault diagnosis and repair
+- New formula development
+- Food safety regulation enforcement and record keeping
+- Flexible scheduling for high-mix, low-volume production
+- Collaborative decision-making with quality control and engineering teams
+
+**Skills to build:**
+
+- Automated equipment operation and programming (PLC basics)
+- Data analysis basics (Python/R)
+- Industrial robot collaboration technology
+- Food Safety Management Certification (HACCP)
+- Lean production and process optimization
+- Digital maintenance (predictive maintenance tools)
+
+**Key growth areas:**
 
 - Stable demand
 - Automation
@@ -63,69 +97,68 @@ Food manufacturing workers produce various food items such as bread, meat, dairy
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Employment Visa for Skilled Workers） | 需取得德国认可的职业资格（如双元制培训证书），找到雇主后可申请。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作时间1年，需有基本语言能力。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国6个月寻找工作，需证明足够生活费。 |
+| Subclass Skilled Worker (Employment Visa for Skilled Workers) | Must obtain a German-recognised vocational qualification (e.g., dual-system training certificate) and secure an employer to apply. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, allows up to 1 year to find work in Germany, requires basic language skills. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, must prove sufficient living expenses. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Food Manufacturing Workers (without Specialization)？**
-- 喜欢动手操作和实际工作的人
-- 对食品生产和卫生标准有浓厚兴趣
-- 愿意通过双元制培训获得职业资格
-
-**谁不适合学Food Manufacturing Workers (without Specialization)？**
-- 不喜欢重复性体力劳动的人
-- 追求高收入和快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and practical work
+- Strong interest in food production and hygiene standards
+- Willing to obtain vocational qualifications through dual-system training
+
+**Who is not suited**
+- People who dislike repetitive physical labor
+- Those seeking high income and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for food manufacturing workers?**
+A: Junior pre-tax annual salary about €24,000-30,000, increasing to €38,000-45,000 with experience. Salary varies by region, company size, and job responsibilities.
+
+**Q: How can foreigners enter the German food manufacturing industry?**
+A: Usually requires completion of a recognized vocational training program in Germany (dual system) or passing a qualification recognition process. If you have relevant experience, you can apply for an opportunity card or job seeker visa, then switch to a work visa after finding an employer.
+
+**Q: What are the promotion opportunities for food manufacturing workers?**
+A: Can be promoted from junior worker to specialized operator, team leader, or production supervisor. Through continuing education, can become a food technician or industrial master, or move into quality control or product development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Food Manufacturing Workers (without Specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for food manufacturing workers?**
-答：Entry-level positions have a gross annual salary of about €24,000-30,000, which can increase to €38,000-45,000 with experience. Salary varies by region, company size, and job responsibilities.
-
-**问：How can a foreigner enter the food manufacturing industry in Germany?**
-答：Typically, you need to complete recognized vocational training (dual system) in Germany or through a qualification recognition procedure. If you have relevant experience, you can apply for an Opportunity Card or Job Seeker Visa, then switch to a work visa after finding an employer.
-
-**问：What are the promotion opportunities for food manufacturing workers?**
-答：You can advance from entry-level worker to specialized operator, team leader, or production supervisor. Through further education, you can become a food technician or industrial master, or move into quality control or product development.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

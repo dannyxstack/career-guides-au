@@ -1,60 +1,90 @@
-# Loom and Other Weaving Machine Operators（Loom and Other Weaving Machine Operators）职业分析 · ES
+# Loom and Other Weaving Machine Operators — career analysis · Spain
 
-**职业代码：8152 – Loom and Other Weaving Machine Operators。**
+**Occupation code: 8152 (CNO)**
 
-Operate looms, knitting machines, and other weaving equipment to produce fabric from yarn. Typically employed in textile manufacturing, the work is repetitive with focus on machine maintenance and safety.
+Operate looms, knitting machines, and other textile equipment to weave yarns into fabric. Usually working in textile manufacturing, the work is highly repetitive, requiring attention to machine maintenance and safety.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费，仅少量注册费） |
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立学校免费，相关专业如纺织生产） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$600 (Public schools are free, with only a small registration fee) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$800 (Public schools are free, and related majors such as textile production are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP中等职业教育文凭（纺织生产） | 教育部认可的职业教育中心 | 可选 | 非强制，但雇主偏好 |
-| 职业安全与健康培训 | 企业或外部培训机构 | 必备 | 通常由雇主提供 |
+| Occupational safety and health training | Enterprises or external training institutions | Required | Typically provided by employer |
+| FP Diploma in Secondary Vocational Education (Textile Production) | A vocational education center recognized by the Ministry of Education | Optional | Not mandatory, but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,500。西班牙纺织业在部分自治区（如加泰罗尼亚、瓦伦西亚）仍有基础，但整体自动化趋势导致就业机会减少。预计未来5年岗位缓慢下降，但技术型操作员仍有机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. Spain's textile industry still has a foundation in some autonomous communities (such as Catalonia and Valencia), but the overall trend toward automation has led to fewer job opportunities. Positions are expected to decline slowly over the next five years, but there are still opportunities for technical operators.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,500~$21,000 | 税前年薪，含常规补贴 |
-| 中级（4-7年） | $21,000~$25,000 | 税前年薪，视经验与技能 |
-| 高级（8年以上） | $25,000~$30,000 | 税前年薪，主管或高级技师 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,500~$21,000 | Pre-tax annual salary, including regular subsidies |
+| Mid-level (4-7 years) | $21,000~$25,000 | Pre-tax annual salary depends on experience and skills |
+| Senior (8+ years) | $25,000~$30,000 | Pre-tax annual salary, supervisor or senior technician |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级操作员可晋升为高级技师或生产线主管。通过进修FP高等职业培训，可转向设备维护或质量控制岗位。部分人员可向纺织工艺设计师发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Loom operators face high automation risks; AI and intelligent machines will significantly replace repetitive tasks, significantly reducing the number of positions, but machine maintenance and abnormality handling still require manual labor.
+
+Junior operators can be promoted to senior technician or production line supervisor. Through advanced FP vocational training, you can move into equipment maintenance or quality control positions. Some personnel may develop into textile process designers.
+
+**Tasks most exposed to AI:**
+
+- Monitor the loom's operation and adjust parameters such as tension and speed
+- Handle routine faults such as yarn breakage and shuttle replacement
+- Set the machine program according to the process card
+- Record output and downtime
+
+**Where AI augments the role:**
+
+- Using AI vision systems to detect fabric surface defects in real time to assist in quality judgment
+- Optimize process parameters through data analysis to improve efficiency
+- Predictive maintenance alerts reduce unplanned downtime
+
+**Human moat:**
+
+- Diagnosis and repair of complex machine faults
+- Rapid changeover capability for small-batch production of multiple varieties
+- Judgment of subjective quality such as fabric feel and appearance
+
+**Skills to build:**
+
+- Basic programming and PLC operation
+- Fault diagnosis and maintenance of automation equipment
+- Data analysis tools (such as Excel, Simple BI)
+- Knowledge of mechanical and electrical integration
+- Ability to read technical manuals in English
+
+**Key growth areas:**
 
 - Automation
 - Textile Industry Decline
@@ -63,61 +93,63 @@ Operate looms, knitting machines, and other weaving equipment to produce fabric 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主担保，证明职位无法由本地人填补。由于非紧缺，获签难度大。 |
-| Subclass Arraigo social（Social Roots Residence） | 在西班牙非法居住满3年可申请，需工作合同。间接途径，不适用直接技术移民。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish employer sponsorship is required, proving that the position cannot be filled by a local resident. Because it is not urgent, obtaining a visa is difficult. |
+| Subclass Arraigo social (Social Roots Residence) | You can apply after having lived illegally in Spain for 3 years, and a work contract is required. Indirect routes are not eligible for direct skilled migration. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Loom and Other Weaving Machine Operators？**
-- 喜欢动手操作机器、注重细节的动手型人才
-- 愿意接受重复性工作、在制造业环境工作
+**Who is suited**
+- A hands-on talent who enjoys operating machines and pays attention to detail
+- Willing to accept repetitive work and work in manufacturing environments
 
-**谁不适合学Loom and Other Weaving Machine Operators？**
-- 追求高薪或快速晋升者
-- 希望从事创造性或社交性工作的人
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- People who wish to engage in creative or social work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for loom operators?**
+A: The entry-level annual salary is about 18,500-21,000 euros, and the senior salary can reach up to 30,000 euros. Salaries are below the Spanish average, with limited increases.
+
+**Q: Can third-country citizens immigrate to Spain through this employment?**
+A: Difficult. This occupation is not in shortage and employer sponsorship is hard to obtain. Consider other more technical textile or engineering positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Loom and Other Weaving Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for loom operators?**
-答：Entry-level salary is around €18,500-21,000 per year, while senior operators can earn up to €30,000. Salaries are below the Spanish average with limited growth.
-
-**问：Can third-country nationals immigrate to Spain through this occupation?**
-答：Difficult; the occupation is not in shortage, and employer sponsorship is rarely approved. Consider more skilled textile or engineering roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

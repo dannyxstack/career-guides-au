@@ -1,60 +1,96 @@
-# Cleaners of Vehicles and Equipment（Cleaners of Vehicles and Equipment）职业分析 · 美国
+# Cleaners of Vehicles and Equipment — career analysis · United States
 
-**职业代码：53-7061 – Cleaners of Vehicles and Equipment。**
+**Occupation code: 53-7061 (SOC)**
 
-Wash or clean vehicles, machinery, and other equipment using water, cleaning agents, brushes, cloths, and hoses.
+Use water, detergents, brushes, cloths, and hoses to clean or wash vehicles, machinery, and other equipment, excluding cleaners other than domestic cleaning.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（通常在职培训） |
-| 高中文凭或同等学历 | 0年 | —（多数雇主偏好但非必需） |
+| No education requirement | 0 years | $0~$0 (Usually on-the-job training) |
+| High school diploma or equivalent | 0 years | $0~$0 (Preferred but not required by most employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常1-2个月短期培训 |
-| 驾驶执照 | 州机动车管理局 | 可选 | 用于移动车辆 |
+| On-the-job training | Employer | Required | Typically 1-2 months of short-term training |
+| Driver's license | State motor vehicle department | Optional | Used to move vehicles. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 475,000。美国劳工统计局预计2023-2033年该职业就业增长约5%，与所有职业平均水平相当。需求受运输和汽车销售行业影响，自动洗车技术可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 475,000. The US Bureau of Labor Statistics projects about 5% employment growth for this occupation from 2023-2033, about average for all occupations. Demand is affected by transportation and auto sales industries; automatic car wash technology may limit growth.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 时薪约11.5-14.4美元 |
-| 中级（3-5年） | $30,000~$36,000 | 时薪约14.4-17.3美元 |
-| 资深（5年以上） | $36,000~$44,000 | 时薪约17.3-21.2美元 |
+| Median salary | $35,830 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Hourly wage approx $11.5-14.4 USD |
+| Mid-level (3–5 years) | $30,000~$36,000 | Hourly wage approx. $14.4-$17.3 |
+| Senior (5+ years) | $36,000~$44,000 | Hourly wage about $17.3-$21.2 |
+| average salary | $36,980 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径有限，通常可升为车队主管或洗车场经理。经验积累后可转向设备维护或特种车辆清洁。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Vehicle and equipment cleaning jobs are at high risk of automation because cleaning tasks can be replaced by standardized solutions like automatic car wash systems and dry-cleaning robots, with low entry barriers and high labor cost sensitivity.
+
+Limited career progression, typically to fleet supervisor or car wash manager. With experience, can move to equipment maintenance or specialty vehicle cleaning.
+
+**Tasks most exposed to AI:**
+
+- Use high-pressure water and foam to clean vehicle exteriors
+- Wipe vehicle interior surfaces using brushes and cloths
+- Start and monitor automatic car wash programs
+- Drag hoses and organize cleaning tools
+- Clean large machinery (e.g., truck cabs) according to standard procedures
+
+**Where AI augments the role:**
+
+- Use AI vision systems to identify stubborn stains and guide manual spot treatment
+- Batch scheduling of automatic car wash equipment using robot control interface
+- Use IoT sensors to monitor cleaning quality and generate reports
+- Train and manage automated cleaning system operators
+- Designing cleaning solutions for special materials or precision equipment
+
+**Human moat:**
+
+- Handle non-standard, complex, or irregularly shaped cleaning tasks
+- Fine operations using toxic or highly corrosive cleaning agents
+- Manual cleaning of high-end or sensitive equipment (e.g., medical instruments)
+- On-site quick assessment of anomalies (e.g., leaks, damage) and taking action
+- Communicate with clients about customized cleaning requirements and provide on-site service
+
+**Skills to build:**
+
+- Operation and maintenance of automatic cleaning equipment
+- Basic data analysis and report generation
+- Robot troubleshooting and basic programming
+- Knowledge of eco-friendly cleaning chemicals
+- Customer service and communication skills
+- Time management and multitasking
+
+**Key growth areas:**
 
 - Moderate growth
 - Automation impact
@@ -63,65 +99,67 @@ Wash or clean vehicles, machinery, and other equipment using water, cleaning age
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 此职业通常不符合专业职位要求，雇主担保困难。 |
-| Subclass Green Card (PERM)（EB-3 Skilled/Unskilled） | 极少数低技能工人绿卡，但认证不易。 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation typically does not meet professional position requirements, making employer sponsorship difficult. |
+| Subclass Green Card (PERM) (EB-3 Skilled/Unskilled) | Very few green cards for low-skilled workers, but certification is not easy. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaners of Vehicles and Equipment？**
-- 能承受体力劳动和户外工作
-- 注重细节，责任心强
-- 寻求快速就业无需学历者
+**Who is suited**
+- Able to handle physical labor and outdoor work
+- Detail-oriented, strong sense of responsibility
+- Those seeking quick employment without a degree
 
-**谁不适合学Cleaners of Vehicles and Equipment？**
-- 期望高薪或职业晋升者
-- 对化学清洁剂过敏或身体较弱者
+**Who is not suited**
+- Those seeking high salary or career advancement
+- Those allergic to chemical cleaners or with weaker physical conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for a vehicle cleaner?**
+A: According to BLS 2023 data, median annual salary is about $30,000, hourly wage about $14.40.
+
+**Q: Can this occupation apply for a US work visa?**
+A: This occupation typically does not meet H-1B specialty occupation requirements; employer-sponsored green card (EB-3 unskilled) is also extremely difficult, not suitable for immigration path.
+
+**Q: What training or qualification is required?**
+A: Usually only requires on-the-job training, about 1-2 months to become proficient. Some employers require a driver's license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Cleaners of Vehicles and Equipment属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a Vehicle Cleaner?**
-答：According to BLS 2023, median annual wage is about $30,000, hourly about $14.40.
-
-**问：Can this occupation apply for a US work visa?**
-答：This job typically does not qualify for H-1B; EB-3 unskilled green card is also very difficult, not a viable migration route.
-
-**问：What training or qualification is required?**
-答：Usually on-the-job training for 1-2 months. Some employers require a driver's license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,96 @@
-# 助产士（Midwife）职业分析 · 澳大利亚
+# Midwife — career analysis · Australia
 
-**职业代码：254111 – Midwife。**
+**Occupation code: 254111 (ANZSCO)**
 
-助产士为孕妇提供产前、分娩和产后护理，是澳洲医疗系统中不可或缺的核心医疗专业人员。澳洲持续增长的出生率和助产士短缺使该职业长期处于紧缺状态，AHPRA注册助产士可独立开业，职业发展空间广阔。
+Midwives provide antenatal, birth and postnatal care for pregnant women, and are indispensable core healthcare professionals in the Australian medical system. Australia's sustained birth rate growth and midwife shortage keep this profession in long-term high demand; AHPRA-registered midwives can practise independently, with broad career development opportunities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Midwifery (3yr direct entry) | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| Graduate Entry Midwifery (post-nursing) | 2年 | $20,000~$38,000（护士转读路径） |
-| AHPRA Registration as Midwife | 毕业后申请 | $200~$500（年度注册费） |
+| Bachelor of Midwifery (3yr direct entry) | 3 years | $25,000~$45,000 (International students approx. $100k–$140k total fees) |
+| Graduate Entry Midwifery (post-nursing) | 2 years | $20,000~$38,000 (Nurse-to-degree transition pathway) |
+| AHPRA Registration as Midwife | Apply after graduation | $200~$500 (Annual registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Midwifery | 认可大学 | 必备 | 执业必备学历 |
-| AHPRA Registered Midwife | AHPRA | 必备 | 法定注册资质 |
-| Eligible Midwife (Medicare access) | AHPRA / DoH | 可选 | 独立开业所需 |
+| Bachelor of Midwifery | Recognised university | Required | Essential qualification for practice |
+| AHPRA Registered Midwife | AHPRA | Required | Statutory registration requirement |
+| Eligible Midwife (Medicare access) | AHPRA / DoH | Optional | Required for independent practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极旺（★★★★★）。** 全国从业人数约 20,000。澳洲各州推进助产士主导护理（Midwifery-Led Care）模式，2025-2030年对注册助产士的需求持续增长。农村和偏远地区助产服务严重不足，政府提供额外激励吸引助产士赴偏远地区工作。
+**Job demand: very high (★★★★★).** National workforce approx. 20,000. As Australian states and territories advance Midwifery-Led Care models, demand for registered midwives is expected to grow steadily from 2025 to 2030. Midwifery services are severely undersupplied in rural and remote areas, and the government offers additional incentives to attract midwives to these locations.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~550 个 | 2025年均值 |
-| Indeed | 180~350 个 | 2025年均值 |
-| LinkedIn | 200~400 个 | 2025年均值 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $68,000~$85,000 | Graduate/New Grad Midwife |
-| 中级（3-8年） | $87,000~$110,000 | Registered Midwife |
-| 高级（8年+） | $112,000~$145,000 | Senior Midwife / Team Leader |
+| Median salary | $109,928 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $68,000~$85,000 | Graduate/New Grad Midwife |
+| Mid-level (3–8 years) | $87,000~$110,000 | Registered Midwife |
+| Senior (8+ years) | $112,000~$145,000 | Senior Midwife / Team Leader |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 助产士主导护理模式（MGP）在各大医院快速扩张，持续助产护理（Caseload Midwifery）成为改善母婴结局的主流实践。远程护理和数字化孕产妇监测技术为偏远地区助产服务提供了新方式。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
+
+Midwifery Group Practice (MGP) models are expanding rapidly across major hospitals, and caseload midwifery is becoming mainstream practice for improving maternal and infant outcomes. Remote care and digital maternal monitoring technology are providing new ways to deliver midwifery services in regional and remote areas.
+
+**Tasks most exposed to AI:**
+
+- Automatic entry and organization of routine prenatal electronic records
+- Guideline-based routine pregnancy risk assessment report generation
+- Automatic Analysis of Birth Monitoring Data and Anomaly Alerts
+- AI voice automated outbound calls and basic screening for postpartum follow-up
+- Automatic Filling and Coding of Standardized Descriptions in Medical Records
+
+**Where AI augments the role:**
+
+- AI assisted fetal monitoring interpretation to improve anomaly recognition accuracy
+- AI-assisted measurement and preliminary diagnosis of prenatal ultrasound images
+- AI recommendation for personalized birth plans based on historical data
+- AI-driven continuous obstetric education simulation training and skill assessment
+- Real-time AI translation and information integration in telemedicine consultations
+
+**Human moat:**
+
+- Manual assistance maneuvers and emergency judgment in complex deliveries
+- Emotional communication, psychological comfort, and education with mothers and families
+- Clinical Leadership and Decision-Making in Cross-Disciplinary Team Collaboration
+- Rapid clinical reasoning in unpredictable obstetric emergencies
+- Sensitive understanding of maternal cultural background and personal preferences
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools in obstetrics (e.g., smart monitors)
+- Clinical data analysis and information system management
+- Telehealth consultation and digital health education skills
+- Interventional prenatal examination techniques (e.g., ultrasound-guided)
+- Cross-cultural communication and psychological support skills
+- Simulation training for maternal and infant emergencies and team collaboration
+
+**Key growth areas:**
 
 - Midwifery Group Practice
 - Remote & Rural Birthing Services
@@ -69,66 +99,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，医疗紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名，医疗类优先 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship available; healthcare shortage occupation |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination, healthcare occupations prioritised |
 
-**PR难度：较易（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学助产士？**
-- 对孕产妇和新生儿护理充满热情者
-- 能承受轮班和紧急情况高压工作者
-- 希望在医疗系统中独立执业者
-
-**谁不适合学助产士？**
-- 无法承受轮班和夜班工作者
-- 不擅长在高压情绪化环境下工作者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about maternal and neonatal care
+- Able to handle the high pressure of shift work and emergency situations
+- Those seeking independent practice within the healthcare system
+
+**Who is not suited**
+- Those unable to manage shift work and night shifts
+- Not suited to working in high-pressure, emotionally charged environments
+
+---
+
+## 8. FAQ
+
+**Q: What are midwife salaries like in Australia?**
+A: Entry-level approximately AUD 68,000-85,000, mid-level 87,000-110,000, senior/head midwife 112,000-145,000, with additional allowances for night shifts and rural areas.
+
+**Q: Is it easy for midwives to find work in Australia?**
+A: This is a long-term, acutely short-supply occupation. Seek consistently lists 300–550 active positions, with even greater shortages in rural and remote areas. Employment is typically available immediately after AHPRA registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 254111 助产士数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极旺（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较易（★★☆☆☆） |
-
-助产士的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：助产士在澳洲薪资如何？**
-答：初级约AUD 6.8万~8.5万，中级8.7万~11万，高级/主任助产士11.2万~14.5万，夜班和农村地区有额外津贴。
-
-**问：澳洲助产士好找工作吗？**
-答：是长期极度紧缺职业，Seek常年有300~550个活跃职位，农村和偏远地区更缺，AHPRA注册后基本可立即就业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

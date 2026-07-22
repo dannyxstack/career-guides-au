@@ -1,61 +1,97 @@
-# Financial and Investment Adviser（Financial and Investment Adviser）职业分析 · IE
+# Financial and Investment Adviser — career analysis · Ireland
 
-**职业代码：2412 – Financial and Investment Adviser。**
+**Occupation code: 2412 (ISCO08)**
 
-Financial and investment advisers provide advice on investment strategies, financial planning, and risk management to help individuals and businesses achieve financial goals.
+Financial and investment advisors provide clients with investment strategies, financial planning, and risk management advice to help individuals and businesses achieve financial goals.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（商科/金融） | 3-4年 | $15,000~$25,000（爱尔兰公立大学学费，非欧盟学生更高） |
-| 硕士（金融/投资分析） | 1-2年 | $20,000~$35,000（硕士课程提升竞争力，部分学校提供奖学金） |
+| Bachelor's degree (business/finance) | 3-4 years | $15,000~$25,000 (Irish public university tuition fees, higher for non-EU students) |
+| Master's (Finance/Investment Analysis) | 1-2 years | $20,000~$35,000 (Master's programs enhance competitiveness; some schools offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| QFA（合格财务顾问） | 爱尔兰金融服务协会（IFSA） | 必备 | 从事零售投资产品的法定要求 |
-| CFA（特许金融分析师） | CFA协会 | 可选 | 国际认可，提升职业前景 |
-| RIA（注册投资顾问） | 爱尔兰央行 | 必备 | 提供特定投资服务需注册 |
+| QFA (Qualified Financial Adviser) | Irish Financial Services Association (IFSA) | Required | Legal requirement for dealing in retail investment products |
+| RIA (Registered Investment Adviser) | Central Bank of Ireland | Required | Registration required to provide specific investment services |
+| CFA (Chartered Financial Analyst) | CFA Institute | Optional | International recognition, enhanced career prospects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏高（★★★★☆）。** 全国从业人数约 8,000。爱尔兰金融服务业持续增长，投资顾问需求稳定，尤其都柏林等金融中心。受监管合规要求推动，专业认证持证者更具优势。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 8,000. Ireland's financial services sector continues to grow, with steady demand for investment advisors, especially in financial hubs like Dublin. Driven by regulatory compliance requirements, those with professional certifications have an advantage.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 底薪加佣金 |
-| 中级（3-7年） | $50,000~$75,000 | 含绩效奖金 |
-| 高级（7年以上） | $80,000~$120,000 | 资深顾问或管理层 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $50,000~$75,000 | Includes performance bonuses |
+| Senior (7+ years) | $80,000~$120,000 | Senior consultant or management level |
+| average salary | $67,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级顾问可晋升为高级顾问、投资经理或财务总监。积累客户群后可独立执业或加入精品咨询公司。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Junior consultants can advance to senior consultant, investment manager, or financial controller. After building a client base, they can practice independently or join a boutique consulting firm.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Wealth Management
 - ESG Investing
@@ -64,66 +100,65 @@ Financial and investment advisers provide advice on investment strategies, finan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过60,000欧元或紧缺职业；可带家属，2年后可申请长居。 |
-| Subclass General Employment P（General Employment Permit） | 年薪需达30,000欧元以上，需劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪至少33,585欧元（2024年标准），2年后可转其他欧盟国家。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for annual salary over €60,000 or occupations in shortage; can bring family, eligible for permanent residence after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Annual salary must exceed 30,000 Euros, and a labor market test is required. |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of at least €33,585 (2024 standard); after 2 years, can transfer to other EU countries. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial and Investment Adviser？**
-- 对金融市场有浓厚兴趣者
-- 善于分析数据和沟通者
-- 追求稳定职业且愿意持续学习考证者
-
-**谁不适合学Financial and Investment Adviser？**
-- 厌恶数字和细节者
-- 不喜绩效考核压力者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in financial markets
+- Those skilled in data analysis and communication
+- Those pursuing stable careers and willing to continuously study for certifications
+
+**Who is not suited**
+- Dislikes numbers and details
+- Those who dislike performance review pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary ceiling for a financial investment advisor?**
+A: Senior consultants can earn over €120,000 per year, with partners earning even more. Salary is performance-based, and top consultants have substantial income.
+
+**Q: How can overseas applicants obtain an Irish work permit?**
+A: Eligible for a Critical Skills Employment Permit (annual salary over €60,000) or a General Employment Permit (annual salary over €30,000). Employer sponsorship required; QFA qualification can increase success rate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等偏高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Financial and Investment Adviser为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for financial investment advisers?**
-答：Senior advisers can earn over €120,000 per year, with partner-level roles higher. Compensation is performance-based.
-
-**问：How can overseas applicants obtain an Irish work permit?**
-答：Apply for a Critical Skills Employment Permit (€60k+ salary) or General Employment Permit (€30k+). Employer sponsorship required; QFA certification helps.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

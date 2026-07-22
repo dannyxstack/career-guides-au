@@ -1,61 +1,96 @@
-# Terrazzo Workers and Finishers（Terrazzo Workers and Finishers）职业分析 · 美国
+# Terrazzo Workers and Finishers — career analysis · United States
 
-**职业代码：47-2053 – Terrazzo Workers and Finishers。**
+**Occupation code: 47-2053 (SOC)**
 
-Terrazzo workers apply a mixture of cement, sand, pigment, or marble chips to floors, stairways, and cabinet fixtures to create durable and decorative surfaces.
+Terrazzo workers mix cement, sand, pigment, or marble chips and apply to floors, stairs, and countertops to create durable and decorative surfaces.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（带薪学徒，费用较低） |
-| 高中文凭 | 4年 | —（通常要求高中或同等学历） |
+| Apprenticeship | 3-4 years | $0~$5,000 (Paid apprenticeship, low cost) |
+| High school diploma | 4 years | $0~$0 (Usually requires high school diploma or equivalent) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水磨石工学徒证书 | 美国劳工部学徒计划 | 可选 | 完成3-4年学徒制 |
-| OSHA安全认证 | 美国职业安全与健康管理局 | 可选 | 部分雇主或州要求 |
-| 承包商执照 | 州级许可机构 | 可选 | 部分州要求独立承包商持有 |
+| Terrazzo worker apprenticeship certificate | US Department of Labor apprenticeship program | Optional | Complete a 3-4 year apprenticeship |
+| OSHA safety certification | U.S. Occupational Safety and Health Administration | Optional | Required by some employers or states |
+| Contractor license | State licensing authority | Optional | Some states require independent contractors to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,300。美国劳工统计局预计2022-2032年就业增长约为4%，与所有职业平均水平相当。建筑行业持续需求，但自动化技术可能影响部分工作。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,300. The US Bureau of Labor Statistics projects employment growth of about 4% from 2022 to 2032, about as fast as the average for all occupations. Ongoing demand in construction, but automation may affect some tasks.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 学徒或入门级 |
-| 中级（4-9年） | $48,000~$62,000 | 熟练工 |
-| 高级（10年以上） | $65,000~$85,000 | 工头或承包商 |
+| Median salary | $76,170 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Apprentice or entry-level |
+| Intermediate (4-9 years) | $48,000~$62,000 | Skilled worker |
+| Senior (10+ years) | $65,000~$85,000 | Foreman or contractor |
+| average salary | $84,920 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从学徒开始，逐步成为熟练工。经验丰富后可晋升为工头、承包商，或转向相关领域如瓷砖铺设、石材安装。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Terrazzo Workers and Finishers face medium automation risk; AI/robots will gradually replace repetitive tasks like material mixing and surface polishing, but on-site installation, complex pattern customization, and client communication still rely on human skills.
+
+Usually starts as an apprentice, gradually becoming a skilled worker. With experience, can advance to foreman, contractor, or transition to related fields such as tiling or stone installation.
+
+**Tasks most exposed to AI:**
+
+- Automatically mix water and material mixtures
+- Using robots for surface polishing and grinding
+- Automatically generate construction drawings and material lists via AI algorithms
+- Remote-controlled equipment automatically completes paving and leveling
+
+**Where AI augments the role:**
+
+- AI-assisted design tools rapidly generate complex patterns and color schemes
+- Augmented Reality (AR) guides precise positioning of marble fragments and inlays
+- Smart sensors monitor surface flatness and curing degree in real time
+- Automated construction scheduling and project management
+- Customer interactive 3D preview of decoration effects
+
+**Human moat:**
+
+- Artistic aesthetic judgment on material texture and color matching
+- Manual finishing and creative inlay on complex irregular surfaces.
+- Flexibility to handle on-site unexpected situations (e.g., uneven ground, material defects)
+- Customer communication and custom solution design skills
+- Safety regulation compliance and team collaboration supervision
+
+**Skills to build:**
+
+- Operating CNC waterjet machines and automatic polishing equipment
+- Learn design software such as CAD/Revit for pattern design.
+- Proficient in using augmented reality (AR) assisted construction tools
+- Basic programming and automated equipment maintenance
+- Knowledge of green sustainable materials and environmentally friendly construction techniques
+- Project management and customer service communication
+
+**Key growth areas:**
 
 - construction
 - infrastructure
@@ -64,65 +99,67 @@ Terrazzo workers apply a mixture of cement, sand, pigment, or marble chips to fl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 用于临时非农业工人，但通常不适用于长期移民 |
-| Subclass Green Card (EB-3)（EB-3 Skilled Worker） | 需PERM劳工证，雇主担保，但此职业市场小，赞助较难 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Used for temporary non-agricultural workers, but generally not applicable for permanent immigration |
+| Subclass Green Card (EB-3) (EB-3 Skilled Worker) | Requires a PERM labor certification and employer sponsorship, but this occupation has a small market, making sponsorship difficult. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Terrazzo Workers and Finishers？**
-- 喜欢动手和体力工作
-- 注重细节和装饰效果
-- 愿意学习传统工艺技能
+**Who is suited**
+- Enjoys hands-on and physical work
+- Attention to detail and decorative finish
+- Willing to learn traditional craft skills
 
-**谁不适合学Terrazzo Workers and Finishers？**
-- 偏好办公室或低体力工作
-- 需要稳定高薪收入
+**Who is not suited**
+- Prefer office or low-physical work
+- Need stable high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for terrazzo workers?**
+A: According to BLS, the median annual salary for terrazzo workers in 2023 was approximately $49,000, with a range of $30,000–$80,000.
+
+**Q: Can terrazzo workers come to the US on an H-1B visa?**
+A: Usually not, because this occupation is not a Specialty Occupation. H-2B temporary visa is often used, but the green card path is difficult.
+
+**Q: What education is needed to become a terrazzo worker?**
+A: Typically requires a high school diploma, followed by 3-4 years of apprenticeship or on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Terrazzo Workers and Finishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a terrazzo worker?**
-答：According to BLS, the median annual wage for terrazzo workers was about $49,000 in 2023, with a range of $30,000 to $80,000.
-
-**问：Can a terrazzo worker come to the US on an H-1B visa?**
-答：Typically no, as the occupation is not considered a specialty occupation. H-2B temporary visa is possible, but green card pathway is difficult.
-
-**问：What education is needed to become a terrazzo worker?**
-答：Typically a high school diploma and completion of a 3-4 year apprenticeship or on-the-job training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Orthoptist（Orthoptist）职业分析 · 澳大利亚
+# Orthoptist — career analysis · Australia
 
-**职业代码：251412 – Orthoptist。**
+**Occupation code: 251412 (ANZSCO)**
 
-Orthoptists diagnose and treat visual disorders such as strabismus, amblyopia, and binocular vision abnormalities, improving patients' visual quality through non-surgical methods.
+Orthoptists diagnose and treat vision disorders such as strabismus, amblyopia, and binocular vision abnormalities, improving patients' visual quality through non-surgical methods.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（澳洲大学本科年均学费） |
-| 硕士 | 2年 | $35,000~$50,000（部分大学提供硕士课程，年均学费） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Average annual tuition for Australian undergraduate degrees) |
+| Master's degree | 2 years | $35,000~$50,000 (Some universities offer master's programs, with annual tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视轴矫正学学士 | 澳洲大学 | 必备 | 认证课程，如悉尼大学、拉筹伯大学 |
-| 注册视轴矫正师 | 澳大利亚医学委员会(AHPRA) | 必备 | 通过澳洲视轴矫正师考试后注册 |
-| 技能评估 | 澳大利亚医学委员会(AMC)或指定机构 | 可选 | 用于技术移民，需满足语言和学历要求 |
+| Bachelor of Orthoptics | Australian universities | Required | Accredited courses, such as at University of Sydney, La Trobe University |
+| Registered Orthoptist | Australian Medical Council (AHPRA) | Required | Register after passing the Australian orthoptist examination |
+| Skills assessment | Australian Medical Council (AMC) or designated bodies | Optional | For skilled migration; requires meeting language and education requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。澳洲人口老龄化和儿童视力筛查普及推动需求增长，就业前景良好，尤其在公立医院和私人眼科诊所。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Australia's aging population and prevalence of children's vision screening drive demand growth, good job prospects, especially in public hospitals and private ophthalmology clinics.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 公立医院或私人诊所初级岗位 |
-| 中级（3-7年） | $85,000~$105,000 | 有经验者，可负责复杂病例 |
-| 高级（7年以上） | $110,000~$140,000 | 高级临床专家或管理岗位 |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $65,000~$80,000 | Junior position at a public hospital or private clinic |
+| Mid-level (3–7 years) | $85,000~$105,000 | Experienced personnel can handle complex cases |
+| Senior (7+ years) | $110,000~$140,000 | Senior clinical expert or management roles |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级视轴矫正师晋升为高级临床专家或管理岗位，也可转向眼科研究或教育领域，需积累临床经验并取得相关认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Orthoptists' work will be significantly enhanced rather than replaced by AI. AI-assisted diagnostic tools can improve screening efficiency for strabismus and amblyopia, but visual training, patient communication, and personalized treatment design still require human input. Entry-level positions are slightly reduced due to the prevalence of AI diagnostic tools, but overall demand is growing.
+
+Progress from entry-level orthoptist to senior clinical specialist or management role, or transition to ophthalmic research or education, requiring clinical experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Automated refraction screening: AI can automatically perform preliminary refraction tests, replacing traditional manual processes.
+- Strabismus angle measurement: AI-based image analysis automatically measures strabismus angle, reducing manual calculation.
+- Standard visual function testing: AI-driven adaptive test programs replace some standardized checks.
+- Data entry and report generation: automatically generate preliminary reports to reduce paperwork time
+
+**Where AI augments the role:**
+
+- Improved diagnostic accuracy: AI-assisted analysis of visual field and binocular function data to identify early abnormalities.
+- Remote vision screening: AI-driven remote platforms expand service reach, supporting primary care.
+- Personalized training plans: AI generates customized vision training plans based on patient data.
+- Treatment monitoring and adjustment: AI analyses training progress and automatically recommends optimisation plans
+- Patient education material generation: AI generates visual educational content to improve compliance
+
+**Human moat:**
+
+- Complex binocular vision function assessment and diagnosis
+- Communication and trust-building with patients (especially children)
+- Development of personalized non-standard treatment plans
+- Interdisciplinary collaboration (with ophthalmologists, neurologists, etc.)
+- Clinical judgment and ethical decision-making
+
+**Skills to build:**
+
+- Use of AI diagnostic tools (e.g., automatic strabismus screening systems)
+- Data analysis and interpretation (visual electrophysiological data)
+- Operating telemedicine platforms
+- Patient communication and education skills (especially for children)
+- basic programming and automation workflows (e.g., Python scripts)
+- AI Ethics and Data Privacy Compliance Knowledge
+
+**Key growth areas:**
 
 - Aging Population
 - Increased Screening
@@ -62,69 +97,68 @@ Orthoptists diagnose and treat visual disorders such as strabismus, amblyopia, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需有澳洲雇主提名 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需满足职业评估和语言要求 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居签证，基于EOI打分，需在MLTSSL清单上 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得州政府提名 |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires Australian employer nomination |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requiring skills assessment and language proficiency |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled permanent visa, based on EOI points, requires occupation be on the MLTSSL |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthoptist？**
-- 对眼科学和视觉系统有浓厚兴趣
-- 具备耐心和细致沟通能力，适合与儿童及老年患者工作
-- 寻求稳定且受尊重的医疗职业
-
-**谁不适合学Orthoptist？**
-- 无法接受长时间精细操作和重复性检查
-- 对医疗环境中的紧张和高责任感到压力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in ophthalmology and the visual system
+- Patient and detail-oriented communication skills, suitable for working with children and elderly patients
+- Seeking a stable and respected medical career
+
+**Who is not suited**
+- Cannot tolerate prolonged fine operations and repetitive inspections
+- Feels stressed by the intensity and high responsibility in healthcare settings
+
+---
+
+## 8. FAQ
+
+**Q: Is there significant room for salary growth for orthoptists?**
+A: Salary increases significantly with experience; senior positions can reach over AUD 140,000, with additional allowances possible in shortage areas.
+
+**Q: How difficult is it for orthoptists to immigrate to Australia?**
+A: This occupation is on the MLTSSL and can lead to immigration via 189/190/482/186 visas. It requires a skills assessment and English test. The pathway is clear but competition is moderate.
+
+**Q: How can overseas qualifications become registered orthoptists in Australia?**
+A: Requires accredited qualification and passing AHPRA registration exam; may need additional bridging courses or placements; it is recommended to consult the Orthoptics Association of Australia.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Orthoptist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth for orthoptists?**
-答：Salary increases notably with experience, with senior roles reaching over AUD 140,000, plus potential allowances in shortage areas.
-
-**问：How difficult is it to migrate to Australia as an orthoptist?**
-答：This occupation is on the MLTSSL, eligible for 189/190/482/186 visas, requiring skills assessment and English test; pathway is clear but moderately competitive.
-
-**问：How can overseas qualifications become registered orthoptists in Australia?**
-答：Require accredited qualifications and pass AHPRA registration exams, often with bridging courses or internships; consult Orthoptics Australia.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

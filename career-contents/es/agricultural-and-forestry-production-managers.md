@@ -1,60 +1,96 @@
-# Agricultural and Forestry Production Managers（Agricultural and Forestry Production Managers）职业分析 · ES
+# Agricultural and Forestry Production Managers — career analysis · Spain
 
-**职业代码：1311 – Agricultural and Forestry Production Managers。**
+**Occupation code: 1311 (CNO)**
 
-Plan, organize, and supervise production activities on farms, ranches, or forest estates, including crop cultivation, livestock breeding, and forestry operations, managing budgets, personnel, and equipment to ensure productivity and sustainability.
+Responsible for planning, organizing, and supervising production activities at farms, ranches, or forest farms, including crop cultivation, livestock breeding, forestry operations, managing budgets, personnel, and equipment to ensure production efficiency and sustainable development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立学校几乎免费，仅注册费和杂费） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学每年约1000-2000欧元，私立更高） |
-| 硕士（Máster） | 1年 | $1,500~$8,000（农业管理或林学相关硕士，视学校和专业而异） |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are almost free, with only registration and miscellaneous fees) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public universities charge approx. €1,000–2,000 per year; private universities are higher.) |
+| Máster | 1 year | $1,500~$8,000 (Master's degrees in agricultural management or forestry, depending on the school and major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业或林业学士学位 | 西班牙公立大学 | 可选 | 通常要求相关领域学位，如农业工程、森林工程 |
-| 高级职业培训（FP Grado Superior）文凭 | 教育部认可的职业教育中心 | 可选 | 如农业和畜牧业生产管理等专业 |
-| 农药使用许可证（Carné de aplicador de productos fitosanitarios） | 各自治区农业部门 | 必备 | 如涉及农药施用则必须持有 |
+| Pesticide Use Permit (Carné de aplicador de productos fitosanitarios) | Agricultural departments of all autonomous regions | Required | If pesticide application is involved, it must be held |
+| Bachelor's degree in agriculture or forestry | Public universities in Spain | Optional | Degrees in relevant fields such as agricultural engineering or forest engineering are usually required |
+| Advanced Vocational Training (FP Grado Superior) diploma | A vocational education center recognized by the Ministry of Education | Optional | For example, majors such as agriculture and animal husbandry production management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 9,500。西班牙农业和林业面临现代化和可持续转型，对懂管理、会技术的高素质生产经理需求稳定。虽然行业整体就业增长缓慢，但大型有机农场、精准农业和林产品企业需要专业管理人才。
+**Job demand: medium (★★½☆☆).** National workforce approx. 9,500. Spanish agriculture and forestry are undergoing modernization and sustainable transformation, with a steady demand for highly qualified production managers who understand management and skills. Although overall industry employment growth is slow, large organic farms, precision agriculture, and forest product companies require professional management talent.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪，视地区和农场规模 |
-| 中级（3-7年） | $30,000~$45,000 | 税前年薪，管理更大型农场或多种作物 |
-| 高级（7年以上） | $45,000~$65,000 | 税前年薪，大型庄园或林业企业生产总监 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Pre-tax annual salary, depending on region and farm size |
+| Mid-level (3–7 years) | $30,000~$45,000 | Pre-tax annual salary, managing larger farms or multiple crops |
+| Senior (7+ years) | $45,000~$65,000 | Pre-tax annual salary, production director for large estates or forestry enterprises |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从小型农场主管或技术员起步，逐步晋升为大型农场经理、区域生产总监，或转向农业咨询、农业科技公司管理岗位。也可通过深造进入农业经济或环境管理领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+You can start as a supervisor or technician on a small farm, gradually advance to a large farm manager, regional production director, or move into agricultural consulting or management roles in agricultural technology companies. You can also pursue further studies in agricultural economics or environmental management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Agri-tech
 - Organic farming
@@ -63,69 +99,68 @@ Plan, organize, and supervise production activities on farms, ranches, or forest
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 由西班牙雇主担保的工作居留，适用于正式雇佣合同，需证明职位无法由本地人填补（部分情况可豁免） |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人员，需大学学位或5年相关经验，薪资门槛约年薪33,909欧元（2023年） |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 适用于高级管理或技术岗位，快速办理，需学历和劳动合同 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留最多6个月寻找工作，需完成高等教育或职业培训 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Work residency sponsored by Spanish employers, applicable to formal employment contracts, requires proof that the position cannot be filled by a local resident (exemption may be granted in some cases). |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree or 5 years relevant experience, salary threshold about €33,909 per year (2023). |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Suitable for senior management or technical roles, fast processing, requires qualifications and an employment contract. |
+| Subclass Busqueda empleo (Job Search Visa) | Allows up to 6 months stay in Spain to seek work, requires completed higher education or vocational training. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Forestry Production Managers？**
-- 热爱户外和农业劳动，有农场或林业背景的人
-- 具备管理能力和农业技术知识，愿意在农村地区工作
-- 追求稳定就业，不介意季节性工作节奏
-
-**谁不适合学Agricultural and Forestry Production Managers？**
-- 无法适应体力劳动和户外恶劣天气的人
-- 希望在城市工作、追求快节奏职业发展的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love outdoor and agricultural work, with a farm or forestry background
+- Possess management skills and agricultural technical knowledge, and be willing to work in rural areas
+- Pursue stable employment and don't mind seasonal work rhythms
+
+**Who is not suited**
+- People who cannot adapt to physical labor and harsh outdoor weather
+- Those who want to work in cities and pursue fast-paced career development
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural, livestock, and forestry production managers in Spain?**
+A: Entry-level approx. €22,000–€30,000, mid-level €30,000–€45,000, senior €45,000–€65,000 (pre-tax annual salary). Salaries higher in large enterprises or organic agriculture, but regional variations are significant.
+
+**Q: How can foreigners obtain a work visa for Spanish Agricultural, Animal Husbandry, and Forestry Production Managers?**
+A: Possible through employer-sponsored work residence (Cuenta ajena), EU Blue Card (requires annual salary ≥€33,909), or high-skilled visa (Ley 14/2013). Rural areas in Spain have labor shortages, offering some opportunities.
+
+**Q: What are the career prospects for this occupation?**
+A: You can be promoted to large farm managers or regional directors, or move to agricultural consulting or agri-tech companies. Modernization of Spanish agriculture and trends in organic farming bring new opportunities, but growth in traditional jobs is limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Agricultural and Forestry Production Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural and forestry production managers in Spain?**
-答：Entry-level €22,000-30,000, mid-level €30,000-45,000, senior €45,000-65,000 (gross annual). Large firms or organic farming pay more, but regional variation is significant.
-
-**问：How can foreigners get a work visa for agricultural production manager in Spain?**
-答：Via employer-sponsored work permit (Cuenta ajena), EU Blue Card (salary ≥€33,909), or Highly Skilled Visa (Ley 14/2013). Rural labor shortages provide some opportunities.
-
-**问：What are the career prospects for this occupation?**
-答：Progression to large farm manager, regional director, or transition to agri-consulting, agri-tech. Modernization and organic farming trends offer new opportunities, but traditional roles have limited growth.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

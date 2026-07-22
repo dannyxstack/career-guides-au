@@ -1,60 +1,95 @@
-# Building Automation Technician（Building Automation Technician）职业分析 · 新西兰
+# Building Automation Technician — career analysis · New Zealand
 
-**职业代码：342115 – Building Automation Technician。**
+**Occupation code: 342115 (ANZSCO)**
 
-Install, commission, and maintain building management systems (BMS/BAS) for HVAC, lighting, and security. Growing demand in green buildings and smart buildings, with favourable immigration pathways under Green List and Skilled Migrant Category.
+In the construction industry, install, commission, and maintain building management systems (BMS/BAS), responsible for HVAC, lighting, and security integration. New Zealand's green building and smart building demand is growing; this occupation stands out on immigration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家认证（NZ Certificate） | 2年 | $10,000~$25,000（理工学院或私立培训机构） |
-| 电气工程或相关本科 | 3年 | $35,000~$50,000（大学学费） |
+| New Zealand National Certificate (NZ Certificate) | 2 years | $10,000~$25,000 (Polytechnics or private training institutions) |
+| Bachelor's degree in Electrical Engineering or related field | 3 years | $35,000~$50,000 (University tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气工程师注册（EWRB） | 电气工人注册委员会 | 必备 | 从事独立电气工作的必备注册 |
-| BMS系统认证 | 霍尼韦尔、西门子等厂商 | 可选 | 非强制，但提升竞争力 |
-| 工作安全证书（Site Safe） | Site Safe | 必备 | 施工现场必备 |
-| 雅思6.5分 | 雅思 | 可选 | 技术移民要求 |
+| Electrical Engineer Registration (EWRB) | Electrical Workers Registration Board | Required | Required registration for independent electrical work |
+| Site Safe Certificate | Site Safe | Required | Essential on construction sites |
+| BMS system certification | Manufacturers such as Honeywell, Siemens | Optional | Not mandatory, but enhances competitiveness |
+| IELTS 6.5 | IELTS | Optional | Skilled migration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350。新西兰建筑业持续扩张，商业和住宅楼宇智能化趋势强劲，楼宇自动化技术员需求稳步增长。奥克兰、基督城等主要城市项目密集，持证人员供不应求。
+**Job demand: high (★★★★☆).** National workforce approx. 350. New Zealand's construction industry continues to expand, with a strong trend toward smart commercial and residential buildings, leading to steady growth in demand for building automation technicians. Major cities like Auckland and Christchurch have dense project pipelines, and certified professionals are in short supply.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 实习或助理角色 |
-| 中级（3-6年） | $70,000~$90,000 | 独立工作，可带领小团队 |
-| 高级（6年以上） | $90,000~$120,000 | 主管或系统工程师级别 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Internship or assistant roles |
+| Mid-level (3–6 years) | $70,000~$90,000 | Work independently, can lead small teams |
+| Senior (6+ years) | $90,000~$120,000 | Supervisor or system engineer level |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 从初级的调试助理晋升为独立技术员，再发展为项目主管或BMS系统工程师。积累3-5年经验后可转向节能咨询或物联网系统集成，薪资提升明显。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Building automation technicians have mixed prospects: AI will take over programming, configuration, and fault diagnosis, but on-site installation, commissioning, and complex system integration still require human decisions. Market demand grows due to green building and data center expansion.
+
+Progress from junior commissioning assistant to independent technician, then to project supervisor or BMS system engineer. After 3-5 years of experience, can move into energy consulting or IoT system integration with significant salary growth.
+
+**Tasks most exposed to AI:**
+
+- Basic programming and controller parameter configuration of BMS systems
+- Routine fault diagnosis (analyzing historical data via self-learning algorithms).
+- Automated energy report generation and compliance checks
+- Sensor calibration and data cleaning
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance models to optimize equipment maintenance plans
+- System debugging and energy-saving strategy testing through digital twin simulation
+- Using Natural Language Processing to Quickly Locate Technical Documents and Solutions
+- AI-assisted design of complex control logic (e.g., multi-zone demand response)
+- Auto-generate commissioning reports and project documents
+
+**Human moat:**
+
+- Installation and commissioning of sensors and actuators in complex on-site environments
+- Cross-system (BACnet/Modbus) integration and protocol troubleshooting
+- Coordinate requirements with owners, architects, and contractors
+- Provide creative solutions for incomplete or contradictory technical specifications
+- Safety and compliance judgment (e.g. fire protection logic for life safety)
+
+**Skills to build:**
+
+- Advanced BMS programming (e.g., Tridium Niagara 4, BACnet scripting)
+- Data analysis and visualization (Python, Power BI)
+- Digital twin and simulation tools (e.g., EnergyPlus, SimScale)
+- Basic cybersecurity (especially BMS system integration with IT networks)
+- Project management and communication skills
+- Continuous learning of new AI applications in HVAC control
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +98,67 @@ Install, commission, and maintain building management systems (BMS/BAS) for HVAC
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，符合条件的楼宇自动化技术员可通过该路径快速申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，凭借该职业的学历和工作经验可申请，满足6分制要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡性工作签证，需有符合条件的雇主担保。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, eligible building automation technicians can quickly apply for residence through this pathway. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, eligible to apply with qualifications and work experience in the occupation, meeting the 6-point system requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, as a transitional work visa, requires a qualifying employer sponsor. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Automation Technician？**
-- 有电气或自动化教育背景
-- 动手能力强且乐于现场作业
-- 对智能建筑和节能技术感兴趣
-
-**谁不适合学Building Automation Technician？**
-- 不喜户外或施工现场工作
-- 对编程或系统调试缺乏耐心
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- With electrical or automation education background
+- Strong hands-on skills and enjoys on-site work
+- Interested in smart buildings and energy-saving technologies
+
+**Who is not suited**
+- Dislikes outdoor or construction site work
+- Lack of patience for programming or system debugging
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary for building automation technicians in New Zealand?**
+A: Entry-level 55,000-70,000 NZD; mid-level 70,000-90,000 NZD; senior can reach 120,000 NZD.
+
+**Q: Is it easy to immigrate to New Zealand in this occupation?**
+A: Relatively easy; this occupation is on the Green List Tier 1, allowing direct residence application, or via skilled migration.
+
+**Q: What qualifications are needed to work in this occupation?**
+A: Typically requires a qualification in electrical engineering or a 2-year NZ certificate, plus EWRB registration and Site Safe safety certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Building Automation Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a building automation technician in New Zealand?**
-答：Entry-level NZ$55,000-70,000, mid-level NZ$70,000-90,000, senior up to NZ$120,000.
-
-**问：Is immigration easy for this occupation in New Zealand?**
-答：Relatively easy. The occupation is on Green List Tier 1, eligible for straight to residence visa, also qualifies for Skilled Migrant Category.
-
-**问：What qualifications are required for this occupation?**
-答：Typically need an electrical engineering related qualification or a 2-year NZ certificate, plus EWRB registration and Site Safe card.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

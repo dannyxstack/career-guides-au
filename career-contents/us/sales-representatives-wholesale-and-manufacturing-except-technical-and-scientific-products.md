@@ -1,59 +1,95 @@
-# Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products（Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products）职业分析 · 美国
+# Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products — career analysis · United States
 
-**职业代码：41-4012 – Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products。**
+**Occupation code: 41-4012 (SOC)**
 
-Sell goods for wholesalers or manufacturers to businesses or groups, requiring substantial product knowledge.
+Sell non-technical and scientific products to businesses or groups on behalf of wholesalers or manufacturers, requiring in-depth knowledge of the products sold.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学士学位（商科/通讯等） | 4年 | $40,000~$120,000（公立大学年均1万-3万美元） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Bachelor's degree (business/communications etc.) | 4 years | $40,000~$120,000 (Public university average USD 10,000-30,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入职要求 |
-| 学士学位 | 大学 | 可选 | 偏好商科、市场营销等专业 |
-| 驾驶证 | 州机动车管理局 | 必备 | 通常需要出差拜访客户 |
+| High school diploma or equivalent | High school | Required | Basic entry requirements |
+| Driving license | State motor vehicle department | Required | Usually requires travel to visit clients |
+| Bachelor's degree | University | Optional | Preference for business, marketing, or related majors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,320,000。预计2023-2033年就业增长约1%-3%，增速缓慢。电子商务发展对传统销售模式构成挑战，但专业销售人才仍受青睐。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,320,000. Projected employment growth of about 1%-3% from 2023-2033, slow growth. E-commerce poses challenges to traditional sales models, but professional sales talent remains favored.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 底薪加佣金 |
-| 中级（3-5年） | $50,000~$75,000 | 含佣金和奖金 |
-| 高级（5年以上） | $75,000~$120,000 | 含高额佣金 |
+| Median salary | $72,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Base salary plus commission |
+| Mid-level (3–5 years) | $50,000~$75,000 | Includes commission and bonuses |
+| Senior (5+ years) | $75,000~$120,000 | Includes high commission |
+| average salary | $82,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径可从初级销售代表晋升至区域销售经理、全国销售经理，或转向产品管理、市场营销等职位。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
+
+Career path can progress from junior sales representative to regional sales manager, national sales manager, or transition to product management, marketing, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate customer quotes and product specifications
+- Use CRM automation for customer information collection and initial screening
+- Automatically generate sales reports and performance analysis.
+- Basic customer email responses and FAQ replies
+- Automated query for product inventory and pricing data
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of customer historical data to predict purchase intent and optimal contact timing
+- Intelligent recommendation of personalized product combinations and cross-selling opportunities
+- Provides real-time negotiation advice and script optimization via natural language processing
+- Automatically record and analyze meeting content, extracting key action items
+- Using virtual presentation tools to improve remote product demonstrations
+
+**Human moat:**
+
+- Complex negotiations and relationship management for building long-term trust
+- Creative solutions for handling customer complaints and exceptional situations
+- Cross-departmental coordination and integration of customised solutions
+- In-depth industry knowledge and professional judgment
+- Emotional resonance and real-time response to unexpressed customer needs.
+
+**Skills to build:**
+
+- CRM and sales automation tool operation (e.g., Salesforce, HubSpot)
+- Data analysis and visualization (Tableau, Power BI, SQL)
+- Use of AI-assisted sales tools (e.g., Conversica, Gong)
+- Digital communication and virtual presentation skills
+- Basic programming logic (to understand AI output).
+- Industry-specific technical knowledge (e.g., materials science, supply chain)
+
+**Key growth areas:**
 
 - Moderate Demand
 - E-commerce Impact
@@ -62,65 +98,64 @@ Sell goods for wholesalers or manufacturers to businesses or groups, requiring s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需学士学位的专业职位，雇主担保，每年配额抽签。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或本科加5年经验，PERM劳工认证，排期较长。 |
-| Subclass EB-3（Employment-Based Third Preference） | 本科或同等经验，PERM劳工认证，排期较长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional positions requiring a bachelor's degree; employer-sponsored; annual quota lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's or bachelor's plus 5 years experience, PERM labor certification, long wait times. |
+| Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree or equivalent experience, PERM labor certification, long wait times. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products？**
-- 善于沟通和人际交往
-- 自我驱动，抗压能力强
-- 对产品或行业有浓厚兴趣
-
-**谁不适合学Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products？**
-- 不擅长主动销售或应对拒绝
-- 偏好固定工作时间与地点
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communication and interpersonal skills
+- Self-driven, strong stress resistance
+- Strong interest in the product or industry
+
+**Who is not suited**
+- Not good at proactive sales or handling rejection
+- Prefer fixed working hours and location
+
+---
+
+## 8. FAQ
+
+**Q: What is the main source of income for sales representatives?**
+A: Typically composed of base salary plus commission; commission rates vary by industry and company; top salespeople can earn far above base salary.
+
+**Q: Is it easy to apply for sales representative roles via H-1B?**
+A: Somewhat difficult. Must prove the position requires a bachelor's degree and is a professional occupation, with salary meeting current wage standards.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the main income source for sales representatives?**
-答：Typically base salary plus commission; commission varies by industry and company, top performers earn far more.
-
-**问：Is it easy to get H-1B for sales representatives?**
-答：Moderately difficult. Must prove the job requires a bachelor's degree and is a specialty occupation; salary must meet prevailing wage.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

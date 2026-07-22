@@ -1,60 +1,94 @@
-# Document Distribution Worker（Document Distribution Worker）职业分析 · FR
+# Document Distribution Worker — career analysis · France
 
-**职业代码：M1603 – Document Distribution Worker。**
+**Occupation code: M1603 (ROME)**
 
-Distributes documents, parcels, or promotional materials along designated routes or to specific locations, typically working for courier companies, logistics centers, or administrative departments.
+Responsible for distributing documents, parcels, or promotional materials to customers by route or location, commonly found in courier companies, logistics centers, or administrative logistics departments.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需特定学历 | 无要求 | —（只需基础培训，部分企业提供在职培训） |
-| CAP（职业能力证书） | 2年（CAP） | —（可通过学徒制完成，企业承担学费） |
+| No specific degree required | No requirements | $0~$500 (Only basic training is required; some companies offer on-the-job training) |
+| CAP (Professional Competency Certificate) | 2 years (CAP) | $0~$15,000 (It can be completed through an apprenticeship system, with the company covering the tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| B类驾驶执照（如需驾驶） | Préfecture | 必备 | 驾驶轻型车辆分发文件时必需 |
-| CACES（搬运设备操作证） | INRS | 可选 | 如使用叉车等设备，建议持有但非强制 |
+| Class B driver's license (driving required) | Préfecture | Required | Required when distributing documents while driving a light vehicle |
+| CACES (Handling Equipment Operation Certificate) | INRS | Optional | If using equipment such as forklifts, it is recommended to have one but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。法国文件分发岗位受电子商务增长推动，需求稳定，但自动化分拣系统可能替代部分人工。职业多为短期合同，流动性大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. French document distribution positions are driven by e-commerce growth and stable demand, but automated sorting systems may replace some manual labor. Most professions are short-term contracts, with high mobility.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，通常为SMIC水平 |
-| 中级（3-7年） | $24,000~$28,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $28,000~$32,000 | 税前年薪，如晋升主管或调度 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, usually at the SMIC level |
+| Mid-level (3–7 years) | $24,000~$28,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $28,000~$32,000 | Pre-tax annual salary, such as promotion to supervisor or dispatcher |
+| average salary | $25,020 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从基层分发员可晋升为团队主管、配送调度员或物流协调员。需积累路线管理经验或考取驾驶相关资质。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
+
+Distributors can be promoted from grassroots distributors to team supervisors, delivery dispatchers, or logistics coordinators. Needs to accumulate route management experience or obtain relevant driving qualifications.
+
+**Tasks most exposed to AI:**
+
+- Manual route planning
+- Customer phone notifications and delivery confirmations
+- Organisation and filing of paper delivery receipts
+- Generate simple anomaly reports
+
+**Where AI augments the role:**
+
+- Real-time dynamic route optimization to improve delivery efficiency
+- Smart package sorting and loading suggestions
+- Customer preference analysis and personalized services
+- Vehicle maintenance warnings and energy consumption management
+- Automated document processing frees up time for service
+
+**Human moat:**
+
+- Driving judgment and emergency handling in complex traffic environments
+- Trust and communication in face-to-face customer handovers
+- Last 100-meter flexible delivery (e.g., upstairs, drop-off points)
+- Familiarity with local neighborhoods and community relations
+
+**Skills to build:**
+
+- Use logistics scheduling software (e.g., Onfleet, Route4Me)
+- Basic data analysis skills
+- Customer service and emotional management
+- New energy vehicle driving and charging operations
+- Basic troubleshooting and emergency response
+- Digital receipt and electronic payment system operation
+
+**Key growth areas:**
 
 - e-commerce logistics
 - last-mile delivery
@@ -63,65 +97,67 @@ Distributes documents, parcels, or promotional materials along designated routes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 适用于已获得法国雇主工作合同的外国人，需证明职位无法由本地人填补。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Seeker Visa)） | 允许在法国寻找工作，有效期1年，找到工作后可转工签。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | This applies to foreigners who have already obtained a work contract with a French employer, and must prove that the position cannot be filled by a local resident. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Seeker Visa)) | You are allowed to find work in France, valid for one year, and can convert to a work visa after finding a job. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Document Distribution Worker？**
-- 希望快速就业、无需高学历的人群
-- 喜欢户外流动工作、有良好体力者
-- 需要灵活工时或兼职工作的人
+**Who is suited**
+- People who want to find jobs quickly and do not require a high degree of education
+- Those who enjoy outdoor mobile work and have good physical stamina
+- People who need flexible hours or part-time jobs
 
-**谁不适合学Document Distribution Worker？**
-- 追求稳定长期职业发展的人
-- 不喜体力劳动或户外工作环境的人
+**Who is not suited**
+- People who pursue stable long-term career development
+- People who dislike physical labor or outdoor work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for document distributors?**
+A: Junior employees earn an annual salary of about 20,000-24,000 euros (before tax), increasing to 28,000-32,000 euros with experience.
+
+**Q: Can foreigners immigrate to France through this profession?**
+A: The chances are very low. These positions are not urgently needed; employers must prove they cannot hire local workers, pay relatively low wages, and have difficulty obtaining work visas.
+
+**Q: What are the career advancement paths?**
+A: You can be promoted to distribution team supervisor, logistics dispatcher, or warehouse manager, and you need to develop management skills or obtain logistics-related certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Document Distribution Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for document distribution workers?**
-答：Entry-level annual salary is around €20,000-24,000 (gross), increasing to €28,000-32,000 with experience.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：It is unlikely. The occupation is not in shortage, employers must prove inability to hire locally, and low salary makes work permit approval difficult.
-
-**问：What are the career advancement paths?**
-答：Possible progression to distribution team supervisor, logistics scheduler, or warehouse manager, requiring management skills or logistics certifications.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Substance Abuse and Behavioral Disorder Counselors（Substance Abuse and Behavioral Disorder Counselors）职业分析 · 美国
+# Substance Abuse and Behavioral Disorder Counselors — career analysis · United States
 
-**职业代码：21-1011 – Substance Abuse and Behavioral Disorder Counselors。**
+**Occupation code: 21-1011 (SOC)**
 
-Counsel individuals, families, or groups with alcohol, tobacco, drug, gambling, or eating disorders; may engage in prevention programs.
+Provide counseling and prevention services for addictions such as alcohol, tobacco, drugs, gambling, or eating disorders, serving individuals, families, or groups.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士或本科学位 | 2-4年 | $15,000~$80,000（社区大学或州立大学学费） |
-| 硕士学位（部分州要求） | 2年 | $30,000~$120,000（多数州需要硕士学位以获得高级执照） |
+| Associate or bachelor's degree | 2-4 years | $15,000~$80,000 (Community college or state university tuition fees) |
+| Master's degree (required in some states) | 2 years | $30,000~$120,000 (Most states require a master's degree for advanced licensure.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物质滥用咨询师执照 | 州卫生厅或认证委员会 | 必备 | 多数州要求通过考试和督导经验 |
-| 国家认证咨询师 | NBCC | 可选 | 虽非强制，但增强就业竞争力 |
-| CPR/急救证书 | 美国红十字会等 | 可选 | 许多雇主要求 |
+| Substance abuse counselor license | State health department or certification board | Required | Most states require passing an exam and supervised experience |
+| National Certified Counselor | NBCC | Optional | Although not mandatory, it enhances employment competitiveness |
+| CPR/first aid certificate | American Red Cross, etc. | Optional | Required by many employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 112,000。美国成瘾问题持续增多，加之行为健康服务需求上升，该职业就业预计未来十年增长约18%，远超平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 112,000. Addiction problems in the US continue to rise, along with increasing demand for behavioral health services, leading to an expected 18% employment growth over the next decade, much faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级职位，通常需要督导 |
-| 中级（3-7年） | $45,000~$60,000 | 独立执业或中级职位 |
-| 高级（7年以上） | $60,000~$80,000 | 临床主管或私人诊所 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level position, usually requires supervision |
+| Mid-level (3–7 years) | $45,000~$60,000 | Independent practice or mid-level position |
+| Senior (7+ years) | $60,000~$80,000 | Clinical supervisor or private practice |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级咨询师逐步积累经验，可晋升为临床主管或项目协调员；部分人员继续攻读硕士后成为执照独立咨询师或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
+
+Progress from junior consultant to clinical supervisor or project coordinator; some pursue a master's to become licensed independent consultants or open private practices.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial psychological counseling reports and clinical notes
+- Use natural language processing for symptom screening and preliminary assessment
+- Manage patient appointments, billing, and electronic health records
+- Provides standardized mental health education content.
+- Analyze patient feedback data to generate summary reports
+
+**Where AI augments the role:**
+
+- Real-time insight into patients' unspoken emotions through AI sentiment analysis
+- Using VR/AR for exposure therapy and situational simulation training
+- AI-assisted diagnostic tools improve accuracy and efficiency
+- Personalized treatment plan generation based on big data analysis
+- AI real-time monitoring and early warning system in remote psychological counseling
+
+**Human moat:**
+
+- Building deep trust and therapeutic alliance
+- Judgment to handle complex trauma and ethical dilemmas.
+- Empathy and non-verbal communication skills like body language
+- Cross-cultural sensitivity and individualized care
+- Immediate response capability in crisis intervention.
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools
+- Application of digital therapy platforms (e.g., VR therapy)
+- Data privacy and ethical compliance management
+- Remote consultation technology and human-machine collaboration models
+- Clinical integration of emotion recognition AI tools
+- Continuous learning ability to keep up with technological updates
+
+**Key growth areas:**
 
 - Addiction Treatment
 - Behavioral Health
@@ -62,65 +97,64 @@ Counsel individuals, families, or groups with alcohol, tobacco, drug, gambling, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位以上，雇主担保，每年配额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合硕士以上学历者，需PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合学士学位或同等经验者，需PERM劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | requires bachelor's degree or higher, employer sponsorship, limited annual quota |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for those with a master's degree or above, requires PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or equivalent experience, requires PERM labor certification |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Substance Abuse and Behavioral Disorder Counselors？**
-- 有同理心和耐心，愿意帮助成瘾或行为问题人群
-- 具备良好沟通和人际交往能力
-- 能承受情感压力，并有自我照顾意识
-
-**谁不适合学Substance Abuse and Behavioral Disorder Counselors？**
-- 对成瘾问题有偏见或无法保持中立态度
-- 情绪不稳定或难以应对客户创伤经历
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Empathy and patience, willing to help people with addiction or behavioral issues
+- Possess good communication and interpersonal skills
+- Able to handle emotional stress and practice self-care
+
+**Who is not suited**
+- Bias against addiction issues or inability to maintain a neutral stance
+- Emotionally unstable or difficulty coping with client trauma experiences
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a substance abuse counselor?**
+A: Entry-level: approximately $35,000-$45,000; mid-level: approximately $45,000-$60,000; senior: approximately $60,000-$80,000, varying by region, employer, and experience.
+
+**Q: Is it feasible to immigrate to the US through H-1B or green card for this occupation?**
+A: Feasible but competitive. Requires bachelor's degree or higher, employer sponsorship, and passing license exams. Green card typically requires PERM labor certification; overall timeline is long.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Substance Abuse and Behavioral Disorder Counselors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for substance abuse counselors?**
-答：Entry-level: $35,000-$45,000; mid-level: $45,000-$60,000; senior: $60,000-$80,000, varying by location, employer, and experience.
-
-**问：Is immigration via H-1B or green card feasible for this occupation?**
-答：Yes, but competitive. Requires bachelor's degree or higher, employer sponsorship, and licensure. Green card usually needs PERM labor certification; the process is lengthy.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

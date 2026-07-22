@@ -1,59 +1,95 @@
-# Heavy Forklift and Handling Equipment Operator（Heavy Forklift and Handling Equipment Operator）职业分析 · FR
+# Heavy Forklift and Handling Equipment Operator — career analysis · France
 
-**职业代码：N1104 – Heavy Forklift and Handling Equipment Operator。**
+**Occupation code: N1104 (ROME)**
 
-Operates heavy forklifts, reach stackers, and container handlers to load, unload, stack, and transport goods in warehouses, ports, and logistics hubs.
+Operate heavy handling equipment such as forklifts, reach stackers, and container forklifts, and complete cargo loading, stacking, and transfer tasks at warehouses, ports, and logistics centers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Conducteur d'engins de manutention et de chantier | 2年（CAP） | —（公立学校免费或低学费，学徒制带薪） |
-| CACES 认证培训（职业资格） | 1-3个月 | $500~$2,000（培训费用因类别而异，可个人自费或雇主资助） |
+| CAP Conducteur d'engins de manutention et de chantier | 2 years (CAP) | $0~$1,000 (Public schools offer free or low tuition, and apprenticeships are paid) |
+| CACES Certification Training (Professional Qualification) | 1-3 months. | $500~$2,000 (Training fees vary by category and can be either self-funded or employer-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES 操作许可（R489 类别） | CNAM / 认证培训机构 | 必备 | 法国法定强制证书，每5年更新，按设备类型分不同类别 |
-| CAP Conducteur d'engins | 法国教育部 | 可选 | 推荐文凭，提供系统培训，有助于晋升 |
-| FIMO 运输从业资格（若涉及公共道路） | DREAL | 可选 | 若需驾驶重型卡车混合任务，需此许可 |
+| CACES Operating License (R489 category) | CNAM / Certified Training Institution | Required | French mandatory certificates are renewed every five years and are categorized by equipment type |
+| CAP Conducteur d'engins | French Ministry of Education | Optional | Diploma recommendations and systematic training are provided to aid promotion |
+| FIMO Transport Qualification (if involving public roads) | DREAL | Optional | If you need to drive a hybrid heavy truck for a mission, this permit is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国物流业持续增长，电商和港口贸易推动需求稳定。该职业受自动化影响中等，但复杂环境仍需熟练操作员。就业机会集中于大型物流平台和港口。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's logistics industry continues to grow, with e-commerce and port trade driving stable demand. This profession is moderately affected by automation, but complex environments still require skilled operators. Job opportunities are concentrated in large logistics platforms and ports.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $23,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-5年） | $28,000~$34,000 | 税前年薪，含加班与津贴 |
-| 高级（5年以上） | $34,000~$40,000 | 税前年薪，含夜间或周末补贴 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $23,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–5 years) | $28,000~$34,000 | Pre-tax annual salary, including overtime and allowances |
+| Senior (5+ years) | $34,000~$40,000 | Pre-tax annual salary, including night or weekend allowances |
+| average salary | $29,094 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从操作员晋升为团队负责人、调度员或仓库主管。积累经验后可考取更高级设备执照，或转向物流管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive operations by heavy handling equipment operators (such as route planning and cargo identification) will be replaced by AI automation, but on-site safety judgment, complex scenario response, and equipment maintenance still rely on human experience, with overall risks being moderately high.
+
+Operators can be promoted to team leader, dispatcher, or warehouse supervisor. After gaining experience, you can obtain higher-level equipment licenses or move into logistics management positions.
+
+**Tasks most exposed to AI:**
+
+- Fixed-route cargo handling and stacking within warehouses
+- Automated picking and sorting based on labels or orders
+- Basic monitoring of equipment status and fault alarms
+- Weighing and dimension measurement during loading
+- Routine inventory counting and data entry
+
+**Where AI augments the role:**
+
+- AI-assisted real-time path optimization and obstacle avoidance
+- The ability to remotely control and operate multiple devices
+- Predictive maintenance reminders and fault diagnosis
+- Augmented reality (AR) overlay loading guidance
+- Voice or gesture command control reduces physical effort
+
+**Human moat:**
+
+- Emergency handling of on-site emergencies (such as cargo slipping or equipment jamming).
+- Intuitive judgment and operation of different cargo characteristics (fragile, hazardous materials).
+- Safe driving in extreme weather or insufficient lighting conditions
+- Efficient communication and coordination with customers and warehouse managers
+- Skills in minor repairs, calibration, and maintenance of equipment
+
+**Skills to build:**
+
+- Basic programming and system interaction skills (such as operating automated task scheduling software)
+- Remote control and monitoring system usage
+- Basic maintenance of equipment electrical and hydraulic systems
+- Learn data analysis and inventory management systems
+- Teamwork and emergency communication training
+- Updates on security awareness and compliance knowledge
+
+**Key growth areas:**
 
 - e-commerce logistics
 - port automation
@@ -62,68 +98,67 @@ Operates heavy forklifts, reach stackers, and container handlers to load, unload
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Work Permit)） | 由法国雇主担保，需证明招聘困难（紧缺职业可简化程序），获得工作许可后可申请居留。 |
-| Subclass Passeport Talent（Talent Passport） | 若属于公司内部调动或高技术岗位，可申请此签证，有效期4年，配偶可随行工作。 |
-| Subclass Recherche emploi（Job Search (After Study)） | 法国毕业留学生可申请找工作签证，期间可全职工作，找到对口工作后转工签。 |
+| Subclass Salarié (Employee (Work Permit)) | Sponsored by a French employer, requiring proof of recruitment difficulties (for shortage occupations with simplified procedures), residence can be applied for after obtaining a work permit. |
+| Subclass Passeport Talent (Talent Passport) | For intra-company transfers or high-skilled roles, this visa is available, valid for 4 years, spouse can work. |
+| Subclass Recherche emploi (Job Search (After Study)) | French graduates can apply for a work-seeking visa, during which they can work full-time and transfer to a work visa after finding a matching job. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heavy Forklift and Handling Equipment Operator？**
-- 喜欢操作重型设备、动手能力强的实操型人才
-- 能适应轮班制、户外或仓库环境的工作
-- 希望通过短期培训快速进入劳动力市场的人
-
-**谁不适合学Heavy Forklift and Handling Equipment Operator？**
-- 追求高薪且不愿从事体力劳动的人
-- 对重复性操作或倒班工作感到厌倦的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Practical talents who enjoy operating heavy equipment and have strong hands-on skills
+- Able to adapt to shift work, outdoor or warehouse environments
+- Those hoping to quickly enter the labor market through short-term training
+
+**Who is not suited**
+- Those pursuing high salary and unwilling to do physical labor
+- People who are tired of repetitive tasks or shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for heavy handling equipment operators in France?**
+A: Entry-level is about 23k-28k euros/year, intermediate 28k-34k euros/year, senior-34k-40k euros/year, with overtime and night shift subsidies to increase income.
+
+**Q: How can Chinese people become French heavy handling equipment operators through skilled migration?**
+A: A French employer-sponsored application for the Salarié work visa is required, and the process can be simplified for jobs in short supply. It is recommended to obtain the CACES certificate in France first, or to gain experience through apprenticeships.
+
+**Q: What mandatory certificates are required for this profession?**
+A: France legally requires CACES operating licenses (R489 category), classified by equipment type and renewed every 5 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Heavy Forklift and Handling Equipment Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for heavy handling equipment operators in France?**
-答：Entry-level: €23k-€28k/year; Mid-level: €28k-€34k/year; Senior: €34k-€40k/year, with overtime and shift allowances.
-
-**问：How can Chinese nationals migrate to France as a heavy handling equipment operator?**
-答：Obtain a job offer from a French employer for a Salarié work permit. The occupation is in shortage, simplifying sponsorship. Getting a CACES certificate in France or completing an apprenticeship helps.
-
-**问：What mandatory certifications are required for this occupation?**
-答：The CACES permit (R489 category) is legally required, with different categories for equipment types, and must be renewed every 5 years.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Sales and Marketing Managers（Sales and Marketing Managers）职业分析 · ES
+# Sales and Marketing Managers — career analysis · Spain
 
-**职业代码：1221 – Sales and Marketing Managers。**
+**Occupation code: 1221 (CNO)**
 
-Sales and marketing managers develop sales strategies, manage teams, drive revenue growth, and coordinate marketing campaigns. They are key decision-makers linking products to customers.
+The Sales and Marketing Director is responsible for formulating the company's sales strategy, managing the sales team, driving revenue growth, and coordinating marketing activities. They are the key decision-makers connecting products with customers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（Grado en ADE, Marketing等） | $2,000~$12,000（公立大学约2000€/年，私立约12000€/年） |
-| 硕士 | 1年（Máster en Dirección Comercial） | $3,000~$18,000（商学院如IESE、ESADE学费较高） |
+| Bachelor's degree | 4 years (Grado en ADE, Marketing, etc.) | $2,000~$12,000 (Public universities about €2,000/year, private about €12,000/year) |
+| Master's degree | 1 year (Máster en Dirección Comercial) | $3,000~$18,000 (Business schools such as IESE and ESADE have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工商管理或市场营销学位 | 西班牙大学 | 可选 | 普遍要求，但非强制 |
-| 销售管理认证 | ESIC、EAE等商学院 | 可选 | 提升竞争力 |
+| Degree in Business Administration or Marketing | Spanish University | Optional | Universally required, but not mandatory |
+| Sales Management Certification | ESIC, EAE, and other business schools | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。西班牙数字化经济转型推动对销售总监的需求持续增长，尤其在科技、消费品和B2B服务领域。旅游业复苏也带来零售和酒店业销售管理岗位增加。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Spain's digital economic transformation is driving a continued growth in demand for sales directors, especially in the technology, consumer goods, and B2B services sectors. The recovery in tourism has also led to an increase in sales management positions in retail and hospitality.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 多为区域销售经理或初级总监 |
-| 中级（3-7年） | $45,000~$70,000 | 中型企业销售总监或大型企业部门主管 |
-| 高级（7年以上） | $70,000~$120,000 | 大型跨国公司销售副总裁或总经理 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Most are regional sales managers or junior directors |
+| Mid-level (3–7 years) | $45,000~$70,000 | Sales Director of medium-sized enterprises or department heads of large enterprises |
+| Senior (7+ years) | $70,000~$120,000 | Vice President or General Manager of Sales at a large multinational company |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业晋升路径通常从销售代表或市场专员起步，晋升至区域销售经理、全国销售经理，最终达到销售总监或商务副总裁。部分人可转型为总经理或创业者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Career advancement usually starts as a sales representative or marketing specialist, then advances to regional sales manager, national sales manager, and finally to sales director or vice president of business. Some may transition into general managers or entrepreneurs.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-commerce Expansion
@@ -61,68 +97,67 @@ Sales and marketing managers develop sales strategies, manage teams, drive reven
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高薪职位（2025年门槛约40,000€/年），需本科以上学历及工作合同。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于高管或高技能岗位，需年薪高于阈值（约56,000€/年），可快速获得居留。 |
-| Subclass Cuenta ajena（Employed Work Permit） | 标准工作居留，需雇主担保，适用所有薪资水平，审批周期较长。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-paying positions (2025 threshold about €40,000/year), requiring a bachelor's degree or above and a work contract. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for executives or high-skilled positions, requiring an annual salary above the threshold (about €56,000/year) to quickly obtain residency. |
+| Subclass Cuenta ajena (Employed Work Permit) | Standard work residence requires employer sponsorship, applies to all salary levels, and has a relatively long approval process. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales and Marketing Managers？**
-- 擅长战略规划和团队管理的人士
-- 具备较强沟通和谈判能力的职业人士
-- 愿意承受业绩压力、追求高薪的人
-
-**谁不适合学Sales and Marketing Managers？**
-- 不喜频繁出差和社交的安静型人格
-- 对数字分析和市场数据不敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals skilled in strategic planning and team management
+- Professionals with strong communication and negotiation skills
+- People willing to bear performance pressure and pursue high salaries
+
+**Who is not suited**
+- A quiet personality who dislikes frequent business trips and socializing
+- Those not sensitive to data analysis and market data
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sales directors in Spain?**
+A: Entry-level approx. €35,000–45,000, mid-level €45,000–70,000, senior €70,000–120,000. Tech and finance sectors generally pay higher than retail.
+
+**Q: How can foreigners obtain a Spanish Sales Director work visa?**
+A: You can use the EU Blue Card (annual salary ≥€40,000) or the Highly Skilled Professional visa (annual salary ≥€56,000). Bachelor's degree or above and employer contract required.
+
+**Q: Is a sales director required to have Spanish academic credentials?**
+A: Official academic qualification recognition (homologación) is usually not required, but companies may require notarized translation of qualifications. Business school qualifications are more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sales and Marketing Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sales directors in Spain?**
-答：Entry-level: €35k-€45k; mid-level: €45k-€70k; senior: €70k-€120k. Tech and finance sectors pay above average.
-
-**问：How can foreigners obtain a work visa as a sales director in Spain?**
-答：Via EU Blue Card (salary ≥€40k) or Highly Qualified Professional visa (salary ≥€56k). Requires bachelor's degree and job offer.
-
-**问：Do sales directors need Spanish qualification recognition?**
-答：Official homologation is not mandatory, but companies may require notarized translation. Business school credentials are valued.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

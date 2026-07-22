@@ -1,59 +1,95 @@
-# Biological Science Technicians (except in health areas)（Biological Science Technicians (except in health areas)）职业分析 · ES
+# Biological Science Technicians (except in health areas) — career analysis · Spain
 
-**职业代码：3141 – Biological Science Technicians (except in health areas)。**
+**Occupation code: 3141 (CNO)**
 
-Biological science technicians assist biologists in research by performing lab and field tasks such as sample collection, experimentation, data analysis, and equipment maintenance, mainly in agriculture, environmental protection, and biotechnology.
+Bioscience technicians assist biologists in scientific research in laboratories and field environments, involving sample collection, experimental operations, data analysis, and equipment maintenance, mainly applied in agriculture, environmental protection, and biotechnology.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业教育（FP Grado Superior） | 2年 | $500~$2,000（公立FP学费较低，私立较高） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学年学费约1000-2000欧，私立较高） |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $500~$2,000 (Public FP tuition is lower, while private schools are higher) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities is about 1000-2000 euros, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学或相关领域学位 | 大学 | 必备 | 学士学位（Grado）为常见入门要求 |
-| FP Grado Superior in Laboratory Analysis | 职业教育机构 | 可选 | 实验分析高级职业培训证书，可替代部分学历要求 |
-| 在职实验室安全培训 | 雇主或职业机构 | 可选 | 非强制但通常要求 |
+| Degree in biology or a related field | University | Required | A bachelor's degree (Grado) is a common entry requirement |
+| FP Grado Superior in Laboratory Analysis | Vocational education institutions | Optional | Advanced vocational training certificate in experimental analysis, which can replace some academic requirements |
+| On-the-job laboratory safety training | Employer or professional agency | Optional | Not mandatory, but usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙生物科学技师就业前景稳定，受欧盟绿色转型和生物经济战略推动，环保监测、农业科技及制药研发领域需求增长。但职位多集中于公共研究机构和私营企业，竞争中等，薪资增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Employment prospects for bioscience technicians in Spain are stable, driven by the EU's green transition and bioeconomy strategies, with growing demand in environmental monitoring, agricultural technology, and pharmaceutical R&D. However, most positions are concentrated in public research institutions and private companies, with moderate competition and slow salary growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，公立机构略低 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，私营企业略高 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，包括主管或专家岗 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary is slightly lower than in public institutions |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary is slightly higher for private companies |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, including supervisor or specialist positions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级技师通常从实验室助理做起，积累经验后可晋升为高级技师或实验室主管。部分人通过深造获得硕士学位后转向研究岗位，或在生物技术公司担任技术专家。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will largely take over data recording and standard experimental procedures, but experimental design, anomaly diagnosis, and interdisciplinary collaboration still rely on humans, job numbers stable but competition increases at entry level.
+
+Junior technicians usually start as laboratory assistants and can be promoted to senior technicians or laboratory supervisors after gaining experience. Some pursue research careers or become technical specialists in biotechnology companies after earning a master's degree.
+
+**Tasks most exposed to AI:**
+
+- Automatically record experimental data, such as using an electronic lab notebook (ELN) to capture results
+- Routine sample preparation and staining processes are completed by automated liquid handling workstations
+- Basic microscopy image counting and classification, replaced by computer vision models
+- Standard statistical calculations and chart generation, automatically output by AI analysis platform
+- Inventory management and ordering of lab consumables, automatically triggered by smart system
+
+**Where AI augments the role:**
+
+- AI-assisted experiment design, predicting optimal reaction conditions and parameter combinations
+- High-throughput sequencing data analysis, machine learning models to quickly identify genetic variants
+- Literature review and knowledge retrieval, large language models instantly summarize relevant research
+- Diagnosis of abnormal experiment results, AI recommends potential causes and validation experiments
+- Multi-omics data integration analysis, automatically discover biomarker associations
+
+**Human moat:**
+
+- Design original experimental protocols and hypotheses, requiring deep understanding of biological mechanisms
+- Judging reliability and repeatability of results, identifying systematic errors and false positives
+- Communicate and coordinate with interdisciplinary teams to translate experimental needs into technical specifications
+- Flexibility in handling unstructured, low-quality, or abnormal samples
+- Interpretation of ethical and safety regulations and on-site compliance decisions
+
+**Skills to build:**
+
+- Python/R programming for automated data processing and modeling
+- Machine learning basics applied to omics data analysis
+- Laboratory automation system operation and maintenance
+- Use of bioinformatics tools (e.g., BLAST, Galaxy)
+- Data visualization and interactive report generation (e.g., Tableau)
+- Knowledge of Good Laboratory Practice (GLP) and Quality Assurance (QA)
+
+**Key growth areas:**
 
 - Green Biotechnology
 - Environmental Monitoring
@@ -62,65 +98,64 @@ Biological science technicians assist biologists in research by performing lab a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位及工作合同，薪资门槛约3.5万欧元（2025年），可带家属。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历技术人才，需西班牙公司聘用，审批较快，可转长期居留。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保，适用于有工作经验但非高薪职位。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a university degree and work contract. The salary threshold is approximately €35,000 (2025), and family members can accompany. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated technical talents, must be hired by Spanish companies, approval is relatively fast, and long-term residence can be transferred. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residence requires employer sponsorship, suitable for positions with work experience but not with high salaries. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biological Science Technicians (except in health areas)？**
-- 喜欢实验室工作和数据分析的细心人士
-- 对环境科学或生物技术有浓厚兴趣
-- 愿意从基层技术岗位开始积累经验
-
-**谁不适合学Biological Science Technicians (except in health areas)？**
-- 追求高薪和快速晋升的人
-- 不习惯重复性实验操作和严格流程
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who enjoys lab work and data analysis is attentive
+- Strong interest in environmental science or biotechnology
+- Willing to start from grassroots technical positions to accumulate experience
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Not accustomed to repetitive experimental operations and strict procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bioscience technicians in Spain?**
+A: Junior annual salary about €20,000-25,000, intermediate €26,000-32,000, senior €33,000-40,000. Public institutions pay lower but stable, private sector slightly higher.
+
+**Q: How can non-EU citizens immigrate to Spain through this employment?**
+A: Can apply via EU Blue Card (requires degree and work contract, annual salary around EUR 35,000+) or Highly Skilled Professional Visa (Ley 14/2013), with the latter having faster approval.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Biological Science Technicians (except in health areas)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biological science technicians in Spain?**
-答：Entry-level annual salary is around €20,000-€25,000, mid-level €26,000-€32,000, senior €33,000-€40,000. Public sector pays less but offers stability.
-
-**问：How can non-EU citizens migrate to Spain through this occupation?**
-答：Options include the EU Blue Card (requires degree and job offer with salary above ~€35,000) or the Highly Skilled Professional visa (Ley 14/2013), which has faster processing.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

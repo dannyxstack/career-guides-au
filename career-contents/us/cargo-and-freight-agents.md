@@ -1,60 +1,92 @@
-# Cargo and Freight Agents（Cargo and Freight Agents）职业分析 · 美国
+# Cargo and Freight Agents — career analysis · United States
 
-**职业代码：43-5011 – Cargo and Freight Agents。**
+**Occupation code: 43-5011 (SOC)**
 
-Cargo and freight agents coordinate the movement of shipments, handle bills of lading, arrange pickup and delivery, and ensure efficient flow of goods via air, rail, and truck.
+Freight forwarders coordinate cargo transportation, handle bills of lading, arrange pickups and deliveries, ensuring efficient flow of goods via air, rail, and road transport.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（高中或同等学历，免费公立教育） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院物流/供应链专业，年均学费$5000-$15000） |
+| High school diploma | 4 years | $0~$0 (High school diploma or equivalent, free public education) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college logistics/supply chain programs, annual tuition $5,000-$15,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 货运代理证书 | 国际航空运输协会（IATA） | 可选 | 自愿认证，提升竞争力 |
-| 美国海关报关执照 | 美国海关与边境保护局 | 必备 | 处理国际货运清关必备 |
+| U.S. Customs broker license | U.S. Customs and Border Protection | Required | Essential for handling international cargo customs clearance |
+| Freight forwarding certificate | International Air Transport Association (IATA) | Optional | Voluntary certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 94,000。美国货运代理就业前景稳定，受全球贸易和电商增长推动。预计2023-2033年就业增长约3%，与平均水平持平。大型物流中心和港口地区机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 94,000. US freight forwarding employment prospects are stable, driven by global trade and e-commerce growth. Employment growth is projected at about 3% from 2023-2033, on par with the average. More opportunities in large logistics hubs and port areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 年薪区间，通常包含绩效奖金 |
-| 中级（3-7年） | $42,000~$55,000 | 经验增加，责任加大 |
-| 高级（7年以上） | $55,000~$72,000 | 主管或专家角色 |
+| Median salary | $52,260 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Annual salary range, typically including performance bonuses |
+| Mid-level (3–7 years) | $42,000~$55,000 | Increased experience, greater responsibility |
+| Senior (7+ years) | $55,000~$72,000 | Supervisor or Specialist Role |
+| average salary | $57,230 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级货运代理可晋升为高级代理、团队主管或运营经理。积累经验后可转向供应链管理、物流协调或客户管理岗位。获得认证（如CSCP）可加速晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Freight forwarding is undergoing profound change due to AI automation: some tasks are compressed, but the overall role is amplified—low-value paperwork and tracking are replaced, while strategic coordination and client advisory become core moats.
+
+Junior freight forwarders can advance to senior forwarder, team supervisor, or operations manager. With experience, they can move into supply chain management, logistics coordination, or customer management roles. Obtaining certifications (e.g., CSCP) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and check bills of lading, manifests, and other transport documents
+- Use RPA or API to automatically update shipment status and notify customers
+- AI chatbots handle routine customer inquiries (e.g., freight quotes, estimated arrival times)
+- Automatically optimize transportation routes and carrier selection based on historical data
+
+**Where AI augments the role:**
+
+- Uses AI to analyze multi-dimensional data and recommend optimal transport combinations (cost, time, carbon emissions) for complex goods
+- Identifies potential delays or customs risks early through predictive analysis and proactively develops contingency plans
+- AI-assisted generation of customized supply chain reports to enhance customer negotiation leverage
+- Real-time anomaly event monitoring and alerting, supporting rapid decision-making
+
+**Human moat:**
+
+- Ability to handle emergencies (e.g., port strikes, last-minute route changes due to bad weather)
+- Building long-term trust and personalized service with carriers and clients
+- Professional judgment and responsibility for regulations, hazardous materials, and trade compliance
+- Cross-cultural communication and flexible coordination of multiple stakeholder interests
+
+**Skills to build:**
+
+- Master logistics TMS/ERP systems and API integration basics
+- Data analysis and visualization tools (Advanced Excel, Tableau, basic Python)
+- Supply chain risk management and predictive analytics
+- In-depth understanding of international trade regulations (e.g., customs codes, sanctions lists)
+- Ability to use AI tools (e.g., ChatGPT for report assistance, RPA process design)
+
+**Key growth areas:**
 
 - Global Trade
 - E-commerce
@@ -63,65 +95,67 @@ Cargo and freight agents coordinate the movement of shipments, handle bills of l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常需要本科学位，但本职业通常只要求高中文凭，很难符合H-1B专业职位要求。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-3)） | 可能需要雇主担保，但职业类别不属于高技能，PERM劳工证获批难度大。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires a bachelor's degree, but this occupation typically only needs a high school diploma, making it difficult to meet H-1B specialty occupation requirements. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | May require employer sponsorship, but the occupation is not classified as high-skilled; PERM labor certification approval is difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cargo and Freight Agents？**
-- 注重细节、沟通能力强的人
-- 喜欢物流供应链行业、不怕快节奏工作的人
-- 对国际货运和贸易有兴趣的人
+**Who is suited**
+- Detail-oriented with strong communication skills
+- Someone who likes logistics supply chain industry and is not afraid of fast-paced work
+- Those interested in international freight and trade
 
-**谁不适合学Cargo and Freight Agents？**
-- 追求高薪或高学历要求的人
-- 不愿处理繁琐文书和协调工作的人
+**Who is not suited**
+- Those seeking high salary or high education requirements
+- People who dislike dealing with tedious paperwork and coordination work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for freight forwarders?**
+A: According to BLS data, the median annual salary for US freight forwarders in 2023 was about $46,000. Entry-level positions range from $32,000-$42,000, while senior or supervisory roles can reach over $70,000. Salaries vary by region, experience, and company size.
+
+**Q: Can freight forwarders immigrate to the US through work visas?**
+A: This occupation typically only requires a high school diploma, making it hard to meet H-1B professional position requirements. Employer-sponsored green cards (EB-3) are also difficult because PERM labor certification requires proving no qualified US workers, and this occupation has low barriers and high competition. Immigration pathways are very limited.
+
+**Q: What are the career development paths for a freight forwarder?**
+A: Can start as a junior agent, gain experience to become a senior agent, team leader, or operations manager. Can also transition to supply chain analysis, logistics management, or account management. Obtaining IATA freight forwarding certification or CSCP can boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 困难（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Cargo and Freight Agents属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cargo and freight agents?**
-答：According to BLS, the median annual wage for cargo and freight agents in 2023 was about $46,000. Entry-level positions range from $32,000 to $42,000, while senior or supervisory roles can exceed $70,000. Salary varies by location, experience, and employer.
-
-**问：Can cargo and freight agents immigrate to the US through work visas?**
-答：This occupation typically requires only a high school diploma, making it difficult to qualify for H-1B specialty occupation status. Employer-sponsored green cards (EB-3) are also challenging because PERM labor certification requires proving no qualified US workers are available, and this low-barrier occupation has ample domestic supply. Immigration pathways are very limited.
-
-**问：What are the career advancement paths for cargo and freight agents?**
-答：Starting as a junior agent, you can advance to senior agent, team lead, or operations manager. Alternatively, move into supply chain analysis, logistics management, or account management. Earning IATA cargo agent certification or CSCP can boost your prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

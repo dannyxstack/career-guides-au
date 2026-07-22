@@ -1,60 +1,96 @@
-# Craft and Related Workers Not Elsewhere Classified（Craft and Related Workers Not Elsewhere Classified）职业分析 · IT
+# Craft and Related Workers Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：7549 – Craft and Related Workers Not Elsewhere Classified。**
+**Occupation code: 7549 (ISCO08)**
 
-Covers various skilled manual trades not elsewhere classified, including musical instrument making, jewelry crafting, and hand carving, common in Italian small workshops and luxury industries.
+Covers various skilled manual occupations not elsewhere classified, including musical instrument making, jewelry processing, hand carving, etc., common in Italian small workshops and the luxury goods industry.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育与培训 | 3年（职业学校） | —（公立学校免费或低学费） |
-| 学徒制 | 3-4年 | —（带薪学徒） |
+| Vocational Education and Training | 3 years (vocational school) | $0~$5,000 (Public schools offer free or low tuition) |
+| Apprenticeship | 3-4 years | $0~$0 (Paid apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格认证 | 大区及行业协会 | 可选 | 某些行业（如珠宝）要求认证 |
-| 高中毕业证书 | 教育部 | 可选 | 基础要求，非强制但常见 |
+| Professional certification | Regional and industry associations | Optional | Some industries (e.g., jewelry) require certification |
+| High school graduation certificate | Ministry of Education | Optional | Basic requirements, not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 50,000。意大利手工技艺需求稳定，尤其在奢侈品、修复和定制制造领域。但数字化和自动化可能减少低端岗位，高端工匠持续短缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 50,000. Demand for Italian craftsmanship remains stable, especially in luxury goods, restoration, and custom manufacturing. However, digitization and automation may reduce low-end positions, while high-end artisans continue to be in short supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 学徒或入门级 |
-| 中级（4-8年） | $25,000~$35,000 | 熟练工匠 |
-| 高级（8年以上） | $35,000~$50,000 | 大师级或自主经营 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Apprentice or entry-level |
+| Mid-level (4–8 years) | $25,000~$35,000 | Skilled tradesperson |
+| Senior (8+ years) | $35,000~$50,000 | Master level or self-employed |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒开始，逐步成为熟练工匠；可晋升为工坊主管或自主创业开工作室。部分从业者通过持续学习专攻高价值领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Handicraft and related workers not elsewhere classified are affected to varying degrees by AI: repetitive, standardized manual tasks are easily replaced by automation, while highly creative, personalized, and customized handicraft skills are amplified by AI-assisted tools (e.g., AI design, 3D modeling). The overall outlook is mixed; those who actively embrace digitalization will prevail.
+
+Usually start as an apprentice, gradually become a skilled craftsman; can advance to workshop supervisor or start own studio. Some practitioners specialize in high-value fields through continuous learning.
+
+**Tasks most exposed to AI:**
+
+- Standardised jewellery grinding and polishing
+- Basic assembly and tuning of musical instruments
+- Repeating pattern reproduction in hand carving
+- Traditional mold making and casting processes
+- Simple wood/stone cutting and shaping
+
+**Where AI augments the role:**
+
+- Conceive personalized jewelry/musical instrument designs using AI design software
+- Accelerated prototyping through 3D scanning and modeling
+- Using AI quality inspection system to improve product precision
+- Using AR/VR for complex assembly guidance
+- Customized client communication and quoting via digital platforms
+
+**Human moat:**
+
+- Highly customized artistic creation and aesthetic judgment
+- Experience and tactile feel of handling rare materials
+- On-site repair and adaptation of complex non-standard parts
+- Cultural story interpretation through in-depth communication with clients
+- Overall process control through multi-process integration
+
+**Skills to build:**
+
+- CAD/CAM and 3D modeling (e.g., Rhino, Fusion 360)
+- Digital fabrication equipment operator (3D printing, CNC engraving)
+- AI-assisted design tools (e.g. Midjourney, DALL-E for concept design)
+- Materials science and sustainable process knowledge
+- Digital customer management and custom platform operations
+- Cross-sector collaboration and project management skills
+
+**Key growth areas:**
 
 - Artisan revival
 - Luxury goods
@@ -63,66 +99,68 @@ Covers various skilled manual trades not elsewhere classified, including musical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟工人，要求大学学历或5年经验，年薪门槛约42,000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保，无学历硬性要求。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，由雇主申请，需通过劳工市场测试。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU workers: university degree or 5 years' experience, annual salary threshold ~€42,000. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU workers, requires employer sponsorship, no strict educational requirements. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, applied by employer, subject to labor market test. |
+
+**PR friendliness: medium-high (★★★½☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Craft and Related Workers Not Elsewhere Classified？**
-- 喜欢手工制作的人
-- 追求传统技艺的人
-- 愿意从学徒做起的人
+**Who is suited**
+- People who enjoy handmade crafting
+- People who pursue traditional crafts
+- People willing to start as apprentices
 
-**谁不适合学Craft and Related Workers Not Elsewhere Classified？**
-- 不喜欢重复性体力劳动的人
-- 期望高薪快速回报的人
+**Who is not suited**
+- People who dislike repetitive physical labor
+- People expecting high salary and quick returns
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for Italian manual workers?**
+A: Entry level: approximately €18,000-25,000 annual salary; senior level: up to €35,000-50,000, depending on industry and experience.
+
+**Q: How can non-EU citizens obtain a work visa for Italy?**
+A: Can apply through Decreto Flussi quota work visa or EU Blue Card, requires employer sponsorship and meeting salary requirements.
+
+**Q: What promotion opportunities are there for manual workers?**
+A: Can progress from apprentice to skilled artisan, then to workshop supervisor or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★★★½☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Craft and Related Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for craft workers in Italy?**
-答：Entry-level about €18,000-25,000 per year, senior up to €35,000-50,000, depending on industry and experience.
-
-**问：How can non-EU citizens get a work visa for Italy?**
-答：Via Decreto Flussi quota work visa or EU Blue Card, requiring employer sponsorship and meeting salary thresholds.
-
-**问：What career progression opportunities exist for craft workers?**
-答：From apprentice to skilled craftsman, then workshop supervisor or self-employment.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

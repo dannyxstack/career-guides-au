@@ -1,62 +1,92 @@
-# Auctioneer（Auctioneer）职业分析 · 新西兰
+# Auctioneer — career analysis · New Zealand
 
-**职业代码：611111 – Auctioneer。**
+**Occupation code: 611111 (ANZSCO)**
 
-Auctioneers conduct auctions, appraise items, and manage bidding. This occupation is not on New Zealand's skills shortage list, with limited migration options primarily through employer sponsorship or local experience.
+Auctioneers conduct auctions, assess item values, and guide bidding. This occupation is not on New Zealand's skill shortage list for skilled migration, with limited migration pathways mainly relying on local experience or specific employer sponsorship.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰高中毕业（NCEA Level 2） | 2年 | —（公立中学学费约0-5000 NZD/年（国际生）） |
-| 商业或市场营销Diploma | 1年 | $12,000~$20,000（理工学院如Unitec学费） |
-| 房地产执照课程（可选） | 3个月 | $2,000~$5,000（如Real Estate Institute of New Zealand提供） |
+| New Zealand high school graduation (NCEA Level 2) | 2 years | $0~$5,000 (Public high school tuition is approximately 0-5000 NZD/year (international students)) |
+| Diploma in Business or Marketing | 1 year | $12,000~$20,000 (Tuition fees at institutes of technology like Unitec) |
+| Real estate licence course (optional) | 3 months | $2,000~$5,000 (As provided by the Real Estate Institute of New Zealand) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家商业文凭（Level 5） | 理工学院或私立培训机构 | 可选 | 非强制，但有助于就业 |
-| 房地产中介执照（可选） | Real Estate Authority | 可选 | 若从事房地产拍卖则需要 |
-| 拍卖师认证（Voluntary） | 拍卖师协会（如NZAA） | 可选 | 自愿认证，提升专业度 |
+| New Zealand National Diploma in Business (Level 5) | Polytechnics or private training institutions | Optional | Not mandatory, but helpful for employment |
+| Real estate agent license (optional) | Real Estate Authority | Optional | Required for real estate auction work |
+| Auctioneer Certification (Voluntary) | Auctioneer association (e.g., NZAA) | Optional | Voluntary certification to enhance professionalism |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800。新西兰拍卖师就业市场较小，主要存在于房地产、艺术品和二手品行业。经济增长放缓可能抑制拍卖需求，但线上拍卖平台发展提供了新机遇。整体就业增长缓慢，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. New Zealand's auctioneer job market is small, mainly in real estate, art, and second-hand goods. Economic slowdown may dampen demand, but online auction platforms offer new opportunities. Overall job growth is slow, competition moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 多为佣金制，基础薪资低 |
-| 中级（3-7年） | $60,000~$90,000 | 含佣金，收入波动大 |
-| 高级（7年以上） | $90,000~$150,000 | 知名拍卖师或自有业务 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Mostly commission-based with low base salary. |
+| Mid-level (3–7 years) | $60,000~$90,000 | Includes commission, income fluctuates significantly |
+| Senior (7+ years) | $90,000~$150,000 | Well-known auctioneer or own business |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏低（★★☆☆☆）。** 初级拍卖师可晋升为高级拍卖师或拍卖行经理，也可转向专业资产评估师。建立客户网络和行业声誉是关键。部分拍卖师开设独立拍卖公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Auctioneers' core tasks such as bid calling, item presentation, and client relationship management are less affected by AI, but tasks like valuation, document processing, and data analysis are being replaced by AI tools, leading to stable or slightly reduced demand and fewer entry-level opportunities.
+
+Junior auctioneers can advance to senior auctioneer or auction house manager, or move into professional asset appraisal. Building client networks and industry reputation is key. Some auctioneers set up independent auction houses.
+
+**Tasks most exposed to AI:**
+
+- Basic item value assessment and price estimation (AI auto-valuation based on historical data)
+- Auction catalog generation and description writing (natural language generation to automatically create product introductions)
+- Auction result statistics and report compilation (AI automatically generates sales analysis reports)
+- Customer information management and basic communication (chatbot handles common inquiries)
+
+**Where AI augments the role:**
+
+- Real-time bidding data analysis: AI provides bidding patterns and price trends, assisting auctioneers in adjusting pace.
+- Customer profiling and precision marketing: AI analyzes customer preferences to improve auction item and buyer matching efficiency
+- Remote auction technology: AI-driven virtual auction platforms expand participation and enhance interactive experiences
+
+**Human moat:**
+
+- On-site hosting and atmosphere creation: the ability to engage the audience and respond on the spot is hard to replace by AI
+- Complex negotiation and bargaining: human judgment required for high-value, scarce, or disputed items
+- Customer Trust Relationship Building: Long-term maintenance of trust between buyers and sellers requires interpersonal skills and reputation
+
+**Skills to build:**
+
+- AI valuation tools (e.g., pricing models, database queries)
+- Data analysis basics (auction data visualization and interpretation)
+- Digital marketing and social media management
+- Remote auction platform operation and virtual hosting skills
+- Advanced Negotiation and Conflict Mediation
+
+**Key growth areas:**
 
 - Online Auctions
 - Fragmented Market
@@ -65,65 +95,67 @@ Auctioneers conduct auctions, appraise items, and manage bidding. This occupatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需要获得认证雇主的工作邀请，且雇主需证明无法招到本地人。该职业不在绿名单，无法直接申请SMC。 |
-| Subclass SMC（Skilled Migrant Category） | 无法直接通过该职业申请，但若有其他高技能工作或学历，可通过配偶或加分方式申请。 |
+| Subclass AEWV (Accredited Employer Work Visa) | A job offer from an accredited employer is required, and the employer must prove they cannot find local workers. This occupation is not on the Green List, so it cannot directly apply for SMC. |
+| Subclass SMC (Skilled Migrant Category) | Cannot apply directly through this occupation, but can apply through spouse or bonus points if you have other high-skilled jobs or qualifications. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Auctioneer？**
-- 善于沟通、有说服力的人群
-- 喜欢快节奏和社交环境的人
-- 具有销售和谈判技巧的人
+**Who is suited**
+- People good at communication and persuasion
+- People who enjoy fast-paced and social environments
+- People with sales and negotiation skills
 
-**谁不适合学Auctioneer？**
-- 不喜欢应对压力和不确定性的人
-- 寻求稳定移民路径的人
+**Who is not suited**
+- People who dislike coping with pressure and uncertainty
+- People seeking a stable immigration pathway
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for auctioneers in New Zealand?**
+A: Junior auctioneers earn around NZD 45,000–55,000 per year, intermediate NZD 60,000–90,000, senior NZD 90,000–150,000. Income varies greatly, most includes commission.
+
+**Q: Can an auctioneer migrate to New Zealand through skilled migration?**
+A: No. This occupation is not on the Green List or Long Term Skill Shortage List and cannot directly apply for skilled migration. An Accredited Employer Work Visa is required, followed by other pathways (e.g., partner) for residency.
+
+**Q: What qualifications do auctioneers need?**
+A: No mandatory qualifications, but a business diploma or real estate license (e.g., for real estate auctions) is advantageous. Membership in the New Zealand Auctioneers Association is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏低（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Auctioneer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for auctioneers in New Zealand?**
-答：Entry-level auctioneers earn NZD 45,000-55,000, mid-level NZD 60,000-90,000, and senior NZD 90,000-150,000, with significant commissions.
-
-**问：Can auctioneers migrate to New Zealand through skilled migration?**
-答：No. Auctioneer is not on the Green List or skills shortage list. The only option is an AEWV, with limited pathway to residency.
-
-**问：What qualifications are needed to become an auctioneer?**
-答：No mandatory qualifications, but a business diploma or real estate license is beneficial. Joining a professional association like NZAA is recommended.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

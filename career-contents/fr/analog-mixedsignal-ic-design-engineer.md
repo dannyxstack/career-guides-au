@@ -1,144 +1,171 @@
-# 模拟/混合信号 IC 设计工程师（Analog / Mixed-Signal IC Design Engineer）职业分析 · FR
+# Analog / Mixed-Signal IC Design Engineer — career analysis · France
 
-**职业代码：H1202 – Analog / Mixed-Signal IC Design Engineer。**
+**Occupation code: H1202-AMS (ROME)**
 
-模拟/混合信号 IC 设计工程师设计芯片中的模拟与数模混合模块，如 ADC/DAC、PLL、电源管理(PMIC)、射频前端与高速接口，是公认最难自动化、最依赖经验直觉的芯片设计方向，专家极为稀缺。
+Analog/mixed-signal IC design engineers design analog and digital-analog hybrid modules in chips, such as ADC/DAC, PLL, power management (PMIC), RF front-end, and high-speed interfaces, which are recognized as the most difficult to automate and most rely on intuitive experience in chip design, with experts in extremely scarce.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 认可电子/微电子/计算机工程学位（部分岗位需硕士） | 4~6 年 | $20,000~$200,000（本地生较低，国际生较高） |
-| 专业方向进阶（仿真/RTL/验证/储能等） | 6~24 个月 | $2,000~$40,000（岗位核心工具链与方法学实操） |
-| 学历认证/职业评估（学历认证（ENIC-NARIC）） | 2~6 个月 | $500~$3,000（技术移民与执业所需） |
+| Recognized degrees in Electronics/Microelectronics/Computer Engineering (some positions require a master's) | 4~6 years | $20,000~$200,000 (Local students are relatively low, while international students are higher) |
+| Advanced professional directions (simulation/RTL/verification/energy storage, etc.) | 6~24 months | $2,000~$40,000 (Core Toolchain and Methodology Practical Practice for Positions) |
+| Academic Credentials / Career Assessment (Academic Credential Certification (ENIC-NARIC)) | 2~6 months | $500~$3,000 (Skilled Immigration and Practice Requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可工程学位 / 学历认证（学历认证（ENIC-NARIC）） | 学历认证（ENIC-NARIC） | 必备 | 执业与技术移民评估基础 |
-| 岗位核心工具/方法学能力 | 项目实践 | 可选 | 如并网仿真、RTL/时序、UVM 验证、储能标准等 |
+| Recognized Engineering Degrees / Academic Credentials (Academic Credentials (ENIC-NARIC)) | Academic Credentials (ENIC-NARIC) | Required | Basics of Assessment for Practice and Skilled Migration |
+| Core tools/methodological competencies for the position | Project practice | Optional | Such as grid-connected simulation, RTL/timing, UVM verification, energy storage standards, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★½☆☆）。** 全国从业人数约 300。在法国，全球芯片自主与 AI 加速需求外溢，模拟/混合信号 IC 设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
+**Job demand: medium (★★½☆☆).** National workforce approx. 300. In France, global chip autonomy and AI are accelerating the spillover of demand, leading to scarce and even scarcer positions for analog/mixed-signal IC design engineers, while senior talent is in high demand and salaries are at the high end of electronic engineering.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| Indeed FR | 5~40 个 | 模拟/混合信号 IC 设计工程师及相邻岗位（法国） |
-| APEC | 10~50 个 | 模拟/混合信号 IC 设计工程师及相邻岗位（法国） |
-| LinkedIn | 15~70 个 | 模拟/混合信号 IC 设计工程师及相邻岗位（法国） |
-
-**竞争度：极低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Beginner (0~3 years) | $42,000~$55,000 | Starting salary, depending on employer and region (€42,000~€55,000) |
+| Intermediate Level (3~7 years) | $55,000~$75,000 | Industry median range (€55,000~€75,000) |
+| Senior/Director (8+) | $75,000~$95,000 | Senior/Expert, including project allowance (€75,000~€95,000) |
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 5. Future outlook / AI exposure
 
-| 经验水平 | 年薪（EUR） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $42,000~$55,000 | 起薪，随雇主与地区（€42,000~€55,000） |
-| 中级（3~7 年） | $55,000~$75,000 | 行业中位区间（€55,000~€75,000） |
-| 资深/主任（8 年+） | $75,000~$95,000 | 资深/专家，含项目津贴（€75,000~€95,000） |
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
+
+Analog IC design is a typical example of AI enhancement rather than replacement: AI tools can accelerate simulation, layout optimization, and yield analysis, but core circuit intuition, process deviation debugging, and system-level compromises still require human experts, making positions scarce due to the surge in chip demand.
+
+French AI accelerators and low-power/simulation design are the main focus, with engineers skilled in RTL/timing/layout in short supply; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
+
+**Tasks most exposed to AI:**
+
+- Automated dimensional synthesis and simulation of conventional DCDC/op-amp topologies
+- DRC/LVS violations in layout design are automatically corrected
+- Automatic analysis and report generation of process corner simulation data
+- rapid modeling and optimization of parameters such as ADC/DAC linearity
+- Natural language generation of design documents and debugging records
+
+**Where AI augments the role:**
+
+- AI-assisted circuit topology search and historical project recommendations accelerate innovative design
+- Machine learning predicts performance drift under PVT (process-voltage-temperature) changes
+- Reinforcement learning automatically searches for optimal trade-offs such as PLL bandwidth and phase margin
+- The AI layout generator combines engineering experience to automatically wind wires and meet EM/IR constraints
+- Automated design and deployment of digitally assisted analog modules (such as ADC background calibration).
+
+**Human moat:**
+
+- In-depth understanding of process physical effects (such as substrate noise, mismatch, thermal gradient).
+- System-level compromises and top-level architecture decisions across modules (RF, power, digital).
+- Negotiate process deviations and improve yield rates with wafer fabs, packaging, and testing teams
+- Invention of innovative circuit architectures (such as low-power SAR ADC, fully digital PLL).
+- The reliability and robustness of complex analog IP design requires years of experience
+
+**Skills to build:**
+
+- Machine learning tools (Python/R) are used for simulation data analysis and model prediction
+- Advanced layout automation tools (such as Cadence Virtuoso AI-Centric)
+- Mixed-signal verification methodologies (UVM analog, SystemVerilog-AMS)
+- Digital-Assisted Analog Design (Calibration, Digital Correction Algorithms)
+- System-level modeling (Verilog-AMS/Simulink) combined with AI optimization
+- Project management and cross-team collaboration to develop AI tool application strategies
+
+**Key growth areas:**
+
+- Data Converters (ADC/DAC) & PLL/Clocks
+- Power Management IC (PMIC) & LDO
+- RF/Wireless Frontend (RFIC)
+- Sensor Interfaces & Signal Chains
+- SerDes & High-Speed Analog Interfaces
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 6. Migration pathways / PR
 
-**发展前景：很好（★★★★☆）。** 法国 AI 加速器与低功耗/模拟设计为主线，掌握 RTL/时序/版图的工程师稀缺；AI 辅助有限，架构与流片责任高度专业。
-**AI替代风险：极低（★☆☆☆☆）。**
 
-主要增长方向：
-
-- 数据转换器(ADC/DAC)与 PLL/时钟
-- 电源管理 IC(PMIC)与 LDO
-- 射频/无线前端(RFIC)
-- 传感器接口与信号链
-- SerDes 与高速模拟接口
-
----
-
-## 6. 移民路径 / PR难度
-
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
-
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（人才护照） | Passeport Talent（salarié qualifié）：合格工程师多年居留 |
-| Subclass Salarié（受雇居留） | Carte de séjour salarié：雇主合同工作居留 |
+| Subclass Passeport Talent (Talent passport) | Passeport Talent (salarié qualifié): multi-year residence for qualified engineers |
+| Subclass Salarié (Employment and residence) | Carte de séjour salarié: employer contract work residence |
 
-**PR难度：中低（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学模拟/混合信号 IC 设计工程师？**
-- 相关工程背景，愿深耕能源/半导体新兴方向
-- 掌握或愿学岗位核心工具与方法学
-- 希望进入长期增长赛道并考虑技术移民
-- 细致、责任心强，能承担工程判断
-
-**谁不适合学模拟/混合信号 IC 设计工程师？**
-- 数理/工程基础薄弱且不愿长期投入
-- 排斥标准、合规与安全为核心的工程工作
-- 期望短期速成、不接受多年经验积累
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Relevant engineering background, willing to focus on emerging energy/semiconductor fields.
+- Master or wish to learn core tools and methodologies for the position
+- Those hoping to enter the long-term growth track and considering skilled migration
+- Meticulous, highly responsible, able to make engineering judgments
+
+**Who is not suited**
+- Weak mathematical or engineering foundations and unwillingness to invest long-term
+- Engineering work centered on standards, compliance, and safety
+- Expect short-term quick success, not years of accumulated experience
+
+---
+
+## 8. FAQ
+
+**Q: How much do analog/mixed-signal IC design engineers in France earn?**
+A: Entry-level is about €42,000~€55,000; Senior is about €75,000~€95,000 (EUR). Salaries vary by region, industry, and project; see the pay schedule for details.
+
+**Q: What is the demand for analog/mixed-signal IC design engineers in France?**
+A: In France, global chip autonomy and AI are accelerating the spillover of demand, leading to scarce and even scarcer positions for analog/mixed-signal IC design engineers, while senior talent is in high demand and salaries are at the high end of electronic engineering.
+
+**Q: Is overseas experience recognized in France?**
+A: Overseas degrees require accreditation (ENIC-NARIC) certification/assessment; Core tools and project experience for the position are direct bonuses.
+
+**Q: Will analog/mixed-signal IC design engineers be replaced by AI?**
+A: Low risk. AI-assisted analysis and generation, but engineering design, safety compliance, and responsibility judgment are handled by certified engineers, making it an AI-enhanced position.
+
+**Q: Can analog/mixed-signal IC design engineers immigrate to France for technical immigration?**
+A: Yes. It is classified as a skilled engineering occupation and can use France's corresponding skilled migration/employer sponsorship pathways; specific requirements see visa table.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| talent.com / Glassdoor FR | 电子工程中位约 €63k（起步 €39k，资深 FPGA/模拟 >€85k） |
-| Glassdoor FR | 数据中心工程师约 €51.5k（€43k~€60k） |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 中等偏低（★★½☆☆） |
-| 竞争度 | 极低（★½☆☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中低（★★½☆☆） |
-
-模拟/混合信号 IC 设计工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：法国模拟/混合信号 IC 设计工程师工资多少？**
-答：初级约 €42,000~€55,000；资深约 €75,000~€95,000（EUR）。薪资随地区、行业与项目而定，具体见薪资表。
-
-**问：模拟/混合信号 IC 设计工程师在法国需求怎样？**
-答：在法国，全球芯片自主与 AI 加速需求外溢，模拟/混合信号 IC 设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
-
-**问：海外经验在法国认可吗？**
-答：海外学历需经学历认证（ENIC-NARIC）认证/评估；岗位核心工具与项目经验是直接加分项。
-
-**问：模拟/混合信号 IC 设计工程师会被 AI 替代吗？**
-答：风险低。AI 辅助分析与生成，但工程设计、安全合规与责任判断由持证工程师承担，属 AI 增强型岗位。
-
-**问：模拟/混合信号 IC 设计工程师能在法国技术移民吗？**
-答：能。归入紧缺工程职业，可走法国对应的技术移民/雇主担保通道；具体门槛见签证表。
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

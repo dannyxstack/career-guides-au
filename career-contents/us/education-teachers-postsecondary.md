@@ -1,59 +1,95 @@
-# Education Teachers, Postsecondary（Education Teachers, Postsecondary）职业分析 · 美国
+# Education Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1081 – Education Teachers, Postsecondary。**
+**Occupation code: 25-1081 (SOC)**
 
-Teach education courses at postsecondary institutions, covering counseling, curriculum, instruction, teacher training, and ESL. Includes both teaching-focused and teaching-research combined roles.
+Teach education courses at universities or colleges, such as counseling, curriculum design, teaching instruction, teacher education, and teaching English as a second language, including both teaching-focused and teaching-research combined roles.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-7年 | $100,000~$200,000（含学费及生活费，不同院校差异大） |
-| 硕士 | 2年 | $40,000~$80,000（部分社区学院仅要求硕士，但晋升受限） |
+| Doctorate | 5-7 years | $100,000~$200,000 (including tuition and living costs, varies greatly by institution) |
+| Master's degree | 2 years | $40,000~$80,000 (Some community colleges only require a master's degree, but promotion prospects are limited) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 四年制大学通常要求教育学或相关领域博士 |
-| 教师资格证 | 州教育委员会 | 可选 | 部分社区学院要求，但非普遍 |
-| 教学经验 | 雇主 | 可选 | 通常要求中小学教学经验 |
+| Doctoral degree (PhD) | University | Required | Four-year universities typically require a PhD in education or related field |
+| Teaching license/certificate | State Board of Education | Optional | Some community colleges require it, but not universal |
+| Teaching experience | Employer | Optional | Typically requires primary or secondary school teaching experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 62,500。预计2023-2033年就业增长约4-6%，与平均水平相近。高等教育入学人数波动，但退休教师更替和在线教育需求支撑就业。博士学历要求严格限制竞争。
+**Job demand: medium (★★½☆☆).** National workforce approx. 62,500. Employment is projected to grow about 4-6% from 2023 to 2033, similar to the average. Higher education enrollment fluctuates, but replacement of retiring teachers and demand for online education support jobs. Strict doctoral degree requirements limit competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 社区学院或非终身轨讲师 |
-| 中级（4-9年） | $65,000~$90,000 | 助理教授或终身轨初期 |
-| 高级（10年以上） | $90,000~$130,000 | 正教授或系主任 |
+| Median salary | $75,350 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Community college or non-tenure track lecturer |
+| Intermediate (4-9 years) | $65,000~$90,000 | Assistant professor or early tenure-track |
+| Senior (10+ years) | $90,000~$130,000 | Full professor or department head |
+| average salary | $79,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从助理教授起步，晋升副教授、正教授。研究型大学要求持续发表成果；社区学院更侧重教学。部分转向教育管理（系主任、院长）或教育政策领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pressure on higher education pedagogy teachers' core teaching and research tasks from AI, especially course content generation and assessment grading, but personalized guidance and practical supervision still require human experience. Competition increases for entry-level roles, while strategic decision-making and ethical oversight value of senior teachers grows.
+
+Usually start as assistant professor, advance to associate professor and full professor. Research universities require continuous publications; community colleges focus more on teaching. Some move into education management (department chair, dean) or education policy.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines, lecture notes, and standardized test question banks
+- AI-based automatic grading and feedback system for assignments
+- Fully automated delivery and Q&A of foundational education theory courses (e.g., MOOC + chatbot).
+- Automated responses and data analysis for common student inquiries
+- Automatic compilation of educational research literature, generation of first draft literature reviews
+
+**Where AI augments the role:**
+
+- Use learning analytics systems to accurately track student performance and personalize teaching strategies.
+- Use AI simulators to design high-fidelity teaching scenarios (e.g., classroom management simulations, crisis intervention drills)
+- Use natural language processing tools to quickly analyse large volumes of teaching feedback and optimise course design
+- AI-assisted educational experiment design, data processing, and visualization to accelerate research output
+- AI teaching assistants provide real-time answers in online courses, freeing teachers' time for deep interaction and supervision
+
+**Human moat:**
+
+- Immediate emotional feedback and trust-building in face-to-face teaching
+- Critical thinking and demonstration of ethical and social justice issues in education
+- Practical guidance in teacher education such as internship supervision and teaching reflection leadership
+- Analysis, interpretation, and adaptive curriculum development of complex educational policies
+- Innovative integration and regional implementation of interdisciplinary curriculum design.
+
+**Skills to build:**
+
+- Use of educational data mining and learning analytics tools (e.g., Tableau, Python data analysis)
+- Ability to integrate adaptive learning platforms (e.g., Knewton, ALEKS) into courses
+- AI education ethics and fairness assessment methods
+- Educational technology prototype design and user research (e.g., UX design basics)
+- Effective use and review of AI collaboration tools (e.g., ChatGPT, Scite) in academic writing
+- Project management and cross-department coordination skills (to drive AI education project implementation)
+
+**Key growth areas:**
 
 - Postsecondary Education
 - Online Learning Growth
@@ -62,69 +98,68 @@ Teach education courses at postsecondary institutions, covering counseling, curr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation） | 大学常申请H-1B，需证明职位专业性强，博士学历符合要求 |
-| Subclass EB-2（Advanced Degree Professional） | 博士学历可申请EB-2，需PERM或国家利益豁免 |
-| Subclass EB-3（Skilled Worker） | 硕士学历或本科加经验可走EB-3，排期较长 |
-| Subclass TN（Trade NAFTA） | 加拿大或墨西哥公民可申请TN签证，需符合教授职业类别 |
+| Subclass H-1B (Specialty Occupation) | Universities often apply for H-1B, need to prove the position is highly specialized, doctoral degree meets requirements |
+| Subclass EB-2 (Advanced Degree Professional) | PhD holders can apply for EB-2, requiring PERM or National Interest Waiver |
+| Subclass EB-3 (Skilled Worker) | A master's degree or bachelor's plus experience can qualify for EB-3, but the queue is long. |
+| Subclass TN (Trade NAFTA) | Canadian or Mexican citizens can apply for TN visa, must qualify under professor occupation category |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education Teachers, Postsecondary？**
-- 热爱教学与学术研究，有耐心和沟通能力
-- 具备教育行业工作经验，追求终身教授职位
-- 能承受发表压力，适应高校非升即走文化
-
-**谁不适合学Education Teachers, Postsecondary？**
-- 不喜欢学术写作和长期研究项目
-- 对低薪和缓慢晋升缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and academic research, patient and communicative
+- Experience in education industry, pursuing a tenured professor position
+- able to withstand publication pressure, adapt to the 'up-or-out' culture in academia
+
+**Who is not suited**
+- Those who dislike academic writing and long-term research projects
+- Lack of patience for low pay and slow advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for health education teachers in the United States?**
+A: According to BLS, the median annual salary in 2023 was about USD 65,000, but salaries range from USD 45,000 for community college lecturers to USD 130,000 for research university full professors.
+
+**Q: How can a foreign PhD in Education use H-1B to teach at a US university?**
+A: Must obtain a university faculty job offer; H-1B applies. Universities are cap-exempt and can apply anytime. Can later switch to EB-2/3 green card via PERM or NIW.
+
+**Q: What non-academic careers can higher education pedagogy teachers transition to?**
+A: Can transition to educational policy analysis, teacher training program supervisor, curriculum designer at edtech companies, or district administrative roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Education Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for postsecondary education teachers in the US?**
-答：According to BLS, the median annual wage is about $65,000 in 2023, ranging from $45,000 for community college instructors to over $130,000 for full professors at research universities.
-
-**问：How can a foreign PhD in education obtain an H-1B to teach at a US university?**
-答：Secure a teaching position at a university; H-1B is cap-exempt for higher education institutions. Then transition to EB-2/3 green card via PERM or NIW.
-
-**问：What non-academic careers can postsecondary education teachers transition to?**
-答：They can move into education policy analysis, teacher training program management, edtech curriculum design, or school district administration.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

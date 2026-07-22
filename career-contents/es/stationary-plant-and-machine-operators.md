@@ -1,60 +1,96 @@
-# Stationary Plant and Machine Operators（Stationary Plant and Machine Operators）职业分析 · ES
+# Stationary Plant and Machine Operators — career analysis · Spain
 
-**职业代码：8199 – Stationary Plant and Machine Operators。**
+**Occupation code: 8199 (CNO)**
 
-Operate and monitor stationary industrial machinery and equipment, including power generation, manufacturing, and processing machinery. Responsible for setup, operation, monitoring, and adjustment to ensure efficient and safe production. This occupation covers various fixed plant operators not classified elsewhere.
+Operate and maintain fixed industrial machinery and equipment, including power generation, manufacturing, and processing equipment. Responsible for setting up, running, monitoring, and adjusting machines to ensure efficient and safe production. This profession covers multiple categories of fixed equipment operators not classified in other categories.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校几乎免费，私立约1,000-2,000欧元） |
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立学校免费，私立约1,500-3,000欧元） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are almost free, while private schools cost about 1,000–2,000 euros) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$3,000 (Public schools are free, private ones about 1,500–3,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业教育文凭（Técnico en Instalaciones de Producción de Calor） | 西班牙教育部 | 可选 | 相关FP专业学历，部分岗位要求 |
-| 职业安全培训（PRL） | 认可培训机构 | 必备 | 一般要求完成基础职业风险预防课程 |
+| Occupational Safety Training (PRL) | Registered Training Organisation (RTO) | Required | Generally, completion of basic occupational risk prevention courses is required |
+| Diploma in Vocational Education (Técnico en Instalaciones de Producción de Calor) | Spanish Ministry of Education | Optional | Relevant FP major education, some job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 20,000。西班牙工业领域对固定设备操作员的需求稳定，随着自动化和技术升级，对具备多技能和适应新技术能力的操作员需求增加。但整体就业增长速度中等，部分行业受经济周期影响。
+**Job demand: medium (★★★☆☆).** National workforce approx. 20,000. Demand for fixed equipment operators in Spain's industrial sector remains stable, and with automation and technological upgrades, the need for multi-skilled and adaptable operators is increasing. However, overall employment growth is moderate, and some industries are affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$38,000 | 税前年薪，含主管职位 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$38,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为高级操作员、团队主管或生产主管。通过获得更复杂的机械认证和跨行业经验，可转向维护技术员或工艺工程师角色。持续学习新技术和自动化系统是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation will significantly transform the profession: routine monitoring tasks are easily replaced, but complex fault handling and process optimization capabilities are enhanced, resulting in a mixed impact across the profession.
+
+Promotion from junior operator to senior operator, team leader, or production supervisor. By obtaining more complex mechanical certifications and cross-industry experience, you can transition to the roles of maintenance technician or process engineer. Continuous learning about new technologies and automated systems is key.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring of machine operating status (replacing automatic sensors with AI prediction)
+- Parameter adjustment and simple fault reset (AI optimization algorithm handover)
+- Production data recording and reporting (replacing automated collection systems)
+- Daily Inspections (Performed by Drones and Robots)
+- Repetitive manual operations (such as belt start/stop, valve position adjustment)
+
+**Where AI augments the role:**
+
+- Predictive maintenance (AI analysis of vibration and temperature data to provide early fault warnings)
+- Complex process optimization (AI simulation of optimal parameter combinations)
+- Human-Machine Collaboration (AR-assisted repair and remote expert support)
+- Improved production efficiency (AI scheduling and real-time adjustments)
+- Security monitoring (computer vision for identifying dangerous behaviors)
+
+**Human moat:**
+
+- Creative diagnostic and manual repair capabilities for sudden failures
+- Experience in cross-system coordination and equipment upgrades and transformation
+- Emergency decision-making and safety control in high-risk environments
+- Collaborate with process engineers to solve root causes
+- Experience in maintaining old or non-standard equipment
+
+**Skills to build:**
+
+- Sensor data interpretation and use of AI predictive maintenance tools
+- Industrial Internet of Things (IIoT) platform operation
+- Basic Data Analysis (Python/R) and Visualization
+- Human-robot collaborative robot (Cobot) programming and maintenance
+- Fundamentals of Automated Control Systems (PLC/DCS)
+- Basic applications of digital twin software
+
+**Key growth areas:**
 
 - Automation
 - Industrial machinery
@@ -63,65 +99,67 @@ Operate and monitor stationary industrial machinery and equipment, including pow
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙雇主担保的工作居留，需证明职位难以在本地劳动力市场填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留寻找工作，但需有足够经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof that the position is difficult to fill in the local labor market. |
+| Subclass Busqueda empleo (Job Search Visa) | Residency in Spain is allowed to seek work, but you must have sufficient financial means. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stationary Plant and Machine Operators？**
-- 喜欢动手操作和维修机械的人
-- 适应在工厂、车间等环境工作
-- 注重安全规程并愿意轮班工作
+**Who is suited**
+- People who enjoy hands-on operation and mechanical maintenance
+- Adapted to work in factories, workshops, and similar environments
+- Pay attention to safety procedures and be willing to work in shifts
 
-**谁不适合学Stationary Plant and Machine Operators？**
-- 偏好办公室静坐工作
-- 对重复性操作缺乏耐心
+**Who is not suited**
+- Prefer sedentary office work
+- Lacks patience for repetitive tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in Spain?**
+A: Entry-level operator annual salary around €18,000-24,000, experienced up to €30,000-38,000. Salary affected by industry, region, and company size.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: The difficulty is quite high. This occupation is not considered a scarce occupation in Spain, so employers must conduct labor market testing. It is recommended to first obtain legal residency through other channels, or to consider the free movement of EU citizens.
+
+**Q: What educational background is required to become a fixed equipment operator?**
+A: Typically, completion of FP Grado Medio or Superior-related specializations is required, such as installation of thermal energy production equipment. Some positions require high school graduates plus on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Stationary Plant and Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Spain?**
-答：Entry-level operators earn around €18,000-€24,000 per year, while experienced ones can reach €30,000-€38,000. Salaries vary by industry, region, and company size.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is challenging. The occupation is not on the shortage list, and employers must pass a labor market test. It is advisable to obtain residency through other means or consider EU free movement.
-
-**问：What education is required to become a stationary plant operator?**
-答：Typically, a relevant FP Grado Medio or Superior degree, such as Heat Production Facilities Installation. Some positions accept high school diploma plus on-the-job training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

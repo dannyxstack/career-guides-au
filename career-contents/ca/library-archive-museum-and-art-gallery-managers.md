@@ -1,58 +1,94 @@
-# Library, archive, museum and art gallery managers（Library, archive, museum and art gallery managers）职业分析 · 加拿大
+# Library, archive, museum and art gallery managers — career analysis · Canada
 
-**职业代码：50010 – Library, archive, museum and art gallery managers。**
+**Occupation code: 50010 (NOC)**
 
-Plan, organize, direct, control and evaluate the operations of libraries, archives, museums and art galleries, ensuring effective resource management and promoting cultural heritage and public education.
+Responsible for planning, organizing, directing, and controlling the operations of libraries, archives, museums, and galleries, ensuring effective resource management and promoting cultural heritage and public education.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$60,000（需相关专业，如图书馆学、博物馆学等） |
-| 硕士 | 2年 | $15,000~$40,000（通常为图书馆信息学或博物馆研究硕士） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Requires relevant majors such as library science, museum studies, etc.) |
+| Master's degree | 2 years | $15,000~$40,000 (Typically a Master's degree in Library and Information Science or Museum Studies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆学或信息科学硕士学位 | 加拿大图书馆协会认可院校 | 可选 | 高级职位通常要求 |
-| 省级注册或认证 | 各省文化机构协会 | 必备 | 部分省份要求 |
+| Provincial registration or certification | Provincial cultural institution associations | Required | Required in some provinces |
+| Master's Degree in Library Science or Information Science | Institutions recognized by the Canadian Library Association | Optional | Senior positions usually require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,300。加拿大文化机构持续发展，数字化转型和专业管理需求增加，但受政府预算影响，就业机会稳定，竞争中等。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,300. The Canadian cultural sector continues to grow, with increasing demand for digital transformation and professional management, but is affected by government budgets. Employment opportunities are stable with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理经理或小型机构 |
-| 中级（3-7年） | $70,000~$95,000 | 中型机构部门经理 |
-| 高级（7年以上） | $95,000~$130,000 | 大型机构高级管理层 |
+| Median salary | $93,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant manager or small institution |
+| Mid-level (3–7 years) | $70,000~$95,000 | Mid-sized organization department manager. |
+| Senior (7+ years) | $95,000~$130,000 | Senior management in large institutions |
+| average salary | $97,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从图书馆员、档案管理员或策展人晋升，积累管理经验后可担任高级管理职位或大型机构主管。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI brings significant efficiency gains in information retrieval and content management, but managers are hard to replace in core duties like strategic decision-making, community relations, and ethical review — a 'mixed blessing' overall.
+
+Usually promoted from librarian, archivist, or curator; with management experience can advance to senior management roles or head of large institutions.
+
+**Tasks most exposed to AI:**
+
+- Automated cataloging and metadata management (AI-driven classification system)
+- Exhibition commentary and basic guided tours (voice assistants and AR tours)
+- Routine file organization and digital scanning (robotic process automation)
+- Library borrowing and return processing (self-checkout systems and AI monitoring)
+- Visitor traffic statistics and preliminary exhibition effect analysis (sensors and AI analysis)
+
+**Where AI augments the role:**
+
+- Use AI to analyze collection data to optimize exhibition planning and layout.
+- Use natural language processing to assist in writing curatorial texts and educational materials
+- Uses predictive models to manage collection preservation environment and preventive maintenance
+- Enhancing remote access and interaction experience with virtual reality/augmented reality
+- Use an AI recommendation system to personalize resources and activities for visitors
+
+**Human moat:**
+
+- institutional strategic direction decision-making and resource allocation
+- Community relationship maintenance and public participation activity design
+- Cultural sensitivity and ethical review (e.g., repatriation disputes)
+- Cross-departmental collaboration and team leadership
+- Crisis management (e.g., salvaging collections during natural disasters)
+
+**Skills to build:**
+
+- Digital curation and metadata standards (e.g., Dublin Core)
+- AI tools (e.g., machine learning basics, natural language processing applications)
+- Data analysis and visualization (Python/R + Tableau)
+- Agile project management methodology
+- User Experience Design (UX) and Interactive Media Development
+- Knowledge of intellectual property and ethical regulations
+
+**Key growth areas:**
 
 - Digital curation
 - Cultural heritage management
@@ -61,68 +97,67 @@ Plan, organize, direct, control and evaluate the operations of libraries, archiv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 通过FSW移民，需满足工作经验、语言等要求 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份有文化管理岗位提名机会 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法找到本地人 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | To immigrate via FSW, you must meet work experience, language, and other requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have nomination opportunities for cultural management positions |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requires demonstrating inability to find local workers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Library, archive, museum and art gallery managers？**
-- 热爱文化事业，具有管理能力和领导力
-- 善于沟通协调，能够与不同背景人员合作
-- 对数字化转型和文化遗产保护有浓厚兴趣
-
-**谁不适合学Library, archive, museum and art gallery managers？**
-- 不喜欢行政管理和预算规划工作
-- 对公共教育和社区服务缺乏热情
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cultural affairs, with management skills and leadership
+- Good communication and coordination skills, able to collaborate with people from diverse backgrounds
+- Strong interest in digital transformation and cultural heritage preservation
+
+**Who is not suited**
+- Dislike for administrative management and budget planning work
+- Lack of passion for public education and community service
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Junior approx. 55,000-70,000 CAD, intermediate 70,000-95,000, senior 95,000-130,000, varies by region and institution size.
+
+**Q: What are the pathways to immigrate to Canada?**
+A: Mainly through Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP), some require employer-sponsored LMIA work permits.
+
+**Q: What qualifications are required?**
+A: Typically requires a master's degree in library science or museum studies; some roles accept a bachelor's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Library, archive, museum and art gallery managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level around CAD 55,000-70,000, mid-level 70,000-95,000, senior 95,000-130,000, varies by region and institution size.
-
-**问：What are the immigration pathways to Canada?**
-答：Mainly through Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP), some require LMIA employer sponsorship.
-
-**问：What education is required?**
-答：Typically a master's degree in library science or museum studies; some positions accept a bachelor's degree.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

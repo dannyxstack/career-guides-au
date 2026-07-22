@@ -1,58 +1,94 @@
-# Crop Farm Labourers（Crop Farm Labourers）职业分析 · IE
+# Crop Farm Labourers — career analysis · Ireland
 
-**职业代码：9211 – Crop Farm Labourers。**
+**Occupation code: 9211 (ISCO08)**
 
-Crop farm labourers perform daily tasks such as planting, cultivating, weeding, and harvesting crops, as well as maintaining farm equipment and facilities. The work is often seasonal and physically demanding.
+Crop farm laborers perform daily fieldwork such as sowing, planting, weeding, and harvesting, as well as maintaining farm equipment and facilities. This occupation is typically seasonal and physically demanding.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（通常在职培训） |
-| 高中毕业 | 1年（证书课程） | $500~$2,000（部分农业课程可选） |
+| No formal education requirements | None | $0~$0 (Usually on-the-job training) |
+| High school graduation | 1 year (certificate program) | $500~$2,000 (Some agricultural courses are optional) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性资格要求 | 无 | 可选 | 通常雇主提供培训 |
-| 安全培训证书 | FÁS或私人机构 | 可选 | 推荐但非强制 |
+| No mandatory qualification requirements | None | Optional | Training is usually provided by the employer |
+| Safety training certificate | FÁS or private institutions | Optional | Recommended but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。爱尔兰农业依赖欧盟自由流动劳动力，脱欧后劳动力短缺加剧。预计未来几年需求稳定，但机械化可能减少部分岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Ireland's agriculture relies on EU free movement of labor; labor shortages worsened after Brexit. Demand expected to be stable in the coming years, but mechanization may reduce some positions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：极高（★★★★½）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 最低工资或略高 |
-| 中级（3-7年） | $26,000~$30,000 | 有经验后稍有增加 |
-| 高级（7年以上） | $30,000~$35,000 | 主管或特殊技能 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Minimum wage or slightly higher |
+| Mid-level (3–7 years) | $26,000~$30,000 | Slightly higher after experience |
+| Senior (7+ years) | $30,000~$35,000 | Supervisor or specialized skills. |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，可通过经验晋升为农场主管或农场经理，或转向园艺、林业等相关领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Crop farm laborers face high risk of compression due to AI automation; many repetitive field tasks will be replaced, but small plots and fine work still require manual labor.
+
+Career progression paths are limited; advancement to farm supervisor or farm manager is possible through experience, or transitioning to related fields such as horticulture or forestry.
+
+**Tasks most exposed to AI:**
+
+- Replacing manual seeding with automatic seeders
+- Autonomous harvesters replacing manual harvesting
+- AI weed recognition robots replace manual weeding
+- Drone monitoring replaces manual inspection of crop health
+- Smart irrigation systems replacing manual watering
+
+**Where AI augments the role:**
+
+- AI-assisted pest and disease monitoring improves early warning efficiency.
+- Drones spray pesticides, reducing manual safety risks.
+- Data analysis to optimize planting plans and crop rotation
+- Sensor networks monitor soil moisture in real time, assisting precision irrigation
+- Automatically records production data, facilitating farm management decisions.
+
+**Human moat:**
+
+- Flexible judgment for handling complex terrain
+- On-site decision-making for unexpected weather
+- Tips for hand-picking delicate fruits
+- Small plots or non-standardized farming
+- Direct communication and coordination with farm owners
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- Basics of agricultural data analysis
+- Automated equipment operation and troubleshooting
+- Precision agriculture software applications
+- Knowledge of sustainable agricultural practices
+- Basic programming and AI literacy
+
+**Key growth areas:**
 
 - seasonal work
 - mechanization
@@ -61,68 +97,67 @@ Crop farm labourers perform daily tasks such as planting, cultivating, weeding, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元。 |
-| Subclass Seasonal Employment （Seasonal Employment Permit） | 针对季节性农业工作，最长9个月。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作，但该职业通常不符合条件，因教育要求较低。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary threshold of approximately €30,000. |
+| Subclass Seasonal Employment  (Seasonal Employment Permit) | For seasonal agricultural work, up to 9 months. |
+| Subclass EU Blue Card (EU Blue Card) | For skilled work, but this occupation usually does not qualify due to lower education requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Crop Farm Labourers？**
-- 体力好、适应户外工作
-- 愿意从事季节性工作
-- 不介意重复性劳动
-
-**谁不适合学Crop Farm Labourers？**
-- 寻求稳定、全年就业
-- 不愿从事高强度体力劳动
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good physical fitness, adaptable to outdoor work.
+- Willing to work in seasonal jobs
+- Don't mind repetitive work
+
+**Who is not suited**
+- Seeking stable, year-round employment
+- Unwilling to engage in high-intensity physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for crop farm labourers?**
+A: Starting annual salary around 22,000-26,000 euros, senior positions up to 35,000 euros. Pay is usually hourly, depending on season and employer.
+
+**Q: can EU citizens work in this profession in Ireland?**
+A: Yes, EU citizens can freely move for work. Non-EU citizens need a work permit, and seasonal work has specific visas.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Limited career advancement, can progress to farm supervisor or manager, or transition to other agricultural roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 极高（★★★★½） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Crop Farm Labourers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for crop farm labourers?**
-答：Entry-level positions earn around €22,000-€26,000 annually, while senior roles can reach €35,000. Pay is often hourly and varies by season and employer.
-
-**问：Can EU citizens work in this occupation in Ireland?**
-答：Yes, EU citizens have freedom of movement. Non-EU citizens need a work permit, with specific visas for seasonal work.
-
-**问：Are there promotion opportunities?**
-答：Limited; can advance to farm supervisor or manager, or transition to other agricultural roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

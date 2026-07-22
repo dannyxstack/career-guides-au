@@ -1,59 +1,93 @@
-# Cabinet-maker（Cabinet-maker）职业分析 · IE
+# Cabinet-maker — career analysis · Ireland
 
-**职业代码：7522 – Cabinet-maker。**
+**Occupation code: 7522 (ISCO08)**
 
-Cabinet-makers design, construct, and install custom cabinets and furniture, typically using wood and other materials. This role is in steady demand within Ireland's construction sector.
+Cabinet makers design, build, and install custom cabinets and furniture, typically using wood and other materials. This occupation has stable demand in Ireland's construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年（含在职培训） | —（学徒期间有工资，培训费用低） |
-| 职业证书 | 2年（全日制） | $2,000~$6,000（部分课程由SOLAS资助） |
+| Apprenticeship | 4 years (including on-the-job training). | $0~$5,000 (Wages during apprenticeship, low training costs) |
+| Professional certificate | 2 years (full-time) | $2,000~$6,000 (Some courses are funded by SOLAS) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级证书（木工与细木工） | QQI或SOLAS | 必备 | 行业认可的资格，通常通过学徒获得 |
-| 安全证书（Safe Pass） | SOLAS | 必备 | 所有建筑工人必须持有 |
-| CSCS卡 | Construction Skills Certification Scheme | 可选 | 证明技能水平，部分雇主要求 |
+| Advanced Certificate (Carpentry and Joinery) | QQI or SOLAS | Required | Industry-recognized qualification, typically gained through an apprenticeship |
+| Safety certificate (Safe Pass) | SOLAS | Required | All construction workers must hold |
+| CSCS card | Construction Skills Certification Scheme | Optional | Demonstrating skill level, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。爱尔兰建筑业持续增长，尤其是住宅和商业装修项目推动了对橱柜制造工的需求。预计未来五年就业机会稳定，但受经济周期影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The Irish construction industry is growing steadily, especially residential and commercial renovation projects drive demand for cabinet makers. Employment opportunities are expected to be stable over the next five years but subject to economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒毕业后起薪 |
-| 中级（3-7年） | $32,000~$42,000 | 有经验的工匠 |
-| 高级（7年以上） | $42,000~$55,000 | 高级工匠或主管 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Apprentice starting salary after graduation |
+| Mid-level (3–7 years) | $32,000~$42,000 | Experienced tradesperson. |
+| Senior (7+ years) | $42,000~$55,000 | Senior craftsman or supervisor |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从学徒开始，可晋升为高级工匠、工头或自雇承包商。经验丰富者可转向设计或项目管理，或创办自己的木工企业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for cabinet makers is polarised: automation will replace repetitive processing and layout tasks, but AI-driven design tools and custom client demands enhance creative and precision work, increasing the value of high-skilled roles.
+
+Start as an apprentice, progress to advanced tradesperson, foreman, or self-employed contractor. Experienced workers can move into design or project management, or start their own joinery business.
+
+**Tasks most exposed to AI:**
+
+- Manual measurement and sketching (replaced by AI scanning and automatic modeling)
+- Material layout optimization (AI algorithm automatically calculates optimal cutting plan)
+- Repetitive drilling and slotting (automated by CNC machines)
+- Inventory management and order management (replaced by AI forecasting and ERP systems)
+
+**Where AI augments the role:**
+
+- Custom design (AI generates multiple options for client selection)
+- Structural strength verification (AI simulation analysis of force and durability)
+- Construction installation guidance (AR glasses with digital annotations overlay)
+- Cost estimation & quoting (AI quickly generates based on historical data)
+
+**Human moat:**
+
+- On-site installation and adjustment (manual adaptation for non-standard spaces)
+- Pure manual finishing of complex curved or irregular shapes.
+- In-depth communication with clients regarding aesthetic and functional requirements
+- Judging wood characteristics (grain, moisture content, etc. – tacit knowledge)
+- Traditional joinery techniques (e.g., mortise and tenon joints)
+
+**Skills to build:**
+
+- CNC programming and operation
+- CAD/CAM software (e.g., SolidWorks, Cabinet Vision)
+- AI-assisted design tools (e.g., Midjourney for furniture)
+- Data analysis and ERP system usage
+- Augmented Reality (AR)-Assisted Installation Technology
+- Knowledge of sustainable materials and smart home integration
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -62,68 +96,67 @@ Cabinet-makers design, construct, and install custom cabinets and furniture, typ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需获得工作offer，年薪通常不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，需年薪达到一定门槛（2025年约33,000欧元），但橱柜制造工通常不符。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 橱柜制造工不在紧缺职业列表上，通常不适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires a job offer, annual salary usually not less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled positions requiring a minimum annual salary threshold (approx. €33,000 in 2025), but cabinet makers are generally not eligible. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Cabinetmaker is not on the skilled occupation list and is generally not applicable. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cabinet-maker？**
-- 喜欢动手制作和精细木工的人
-- 愿意从事体力劳动并注重细节的人
-- 希望在建筑行业获得稳定职业的人
-
-**谁不适合学Cabinet-maker？**
-- 对重复性体力劳动不耐受的人
-- 不喜欢手工工具和木工机械的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on making and fine woodworking
+- People willing to do physical labor and pay attention to detail
+- Individuals seeking stable careers in the construction industry
+
+**Who is not suited**
+- People intolerant of repetitive physical labor
+- People who dislike hand tools and woodworking machinery
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for cabinet makers in Ireland?**
+A: Entry-level annual salary approx. €25,000-32,000; mid-level €32,000-42,000; senior up to €55,000. Self-employed income may be higher.
+
+**Q: How can an overseas cabinet maker immigrate to Ireland?**
+A: Must obtain a job offer and apply for a General Employment Permit, with annual salary typically reaching €30,000 or more. This occupation is not on the Critical Skills list.
+
+**Q: What qualifications are needed to become a cabinet maker in Ireland?**
+A: Usually requires completing a 4-year apprenticeship and obtaining a QQI Advanced Certificate, or holding a relevant vocational certificate. Safe Pass card is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Cabinet-maker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for cabinet-makers in Ireland?**
-答：Entry-level annual salary is around €25,000-32,000, mid-level €32,000-42,000, and senior up to €55,000. Self-employed earnings can be higher.
-
-**问：How can overseas cabinet-makers immigrate to Ireland?**
-答：You need a job offer and apply for a General Employment Permit, typically with a salary above €30,000. This occupation is not on the Critical Skills list.
-
-**问：What qualifications are needed to become a cabinet-maker in Ireland?**
-答：Typically a 4-year apprenticeship with a QQI Advanced Certificate, or a relevant vocational qualification. A Safe Pass is mandatory.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

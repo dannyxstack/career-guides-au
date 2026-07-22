@@ -1,59 +1,90 @@
-# Odd-job Person（Odd-job Person）职业分析 · NL
+# Odd-job Person — career analysis · Netherlands
 
-**职业代码：9622 – Odd-job Person。**
+**Occupation code: 9622 (ISCO08)**
 
-Odd-job persons perform various temporary, informal tasks such as moving, cleaning, gardening, typically in the informal economy.
+Gig workers perform various temporary, informal jobs such as moving, cleaning, gardening, etc., often in the informal economy.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（零工通常不需要正规教育） |
-| 短期培训 | 数周 | $500~$1,500（如清洁或园艺短期课程） |
+| No formal education requirements | None | $0~$0 (Gig work typically requires no formal education) |
+| Short-term training | Several weeks | $500~$1,500 (Short courses such as cleaning or gardening) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格 | 无 | 可选 | 零工无需特定资格 |
+| No mandatory qualifications | None | Optional | no specific qualifications required for gig work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 50,000。荷兰非正规就业市场受经济波动影响大，但零工需求稳定，尤其在物流和家政服务领域。自动化可能减少部分基础工作机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. The Dutch informal employment market is highly influenced by economic fluctuations, but gig work demand remains stable, especially in logistics and domestic services. Automation may reduce some basic job opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $15,000~$20,000 | 基于兼职或临时工作 |
-| 中级（2-5年） | $20,000~$28,000 | 有经验后收入提升 |
-| 高级（5年以上） | $28,000~$35,000 | 建立客户网络后可能的收入 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $15,000~$20,000 | Based on part-time or casual work |
+| Intermediate (2-5 years) | $20,000~$28,000 | Income increases with experience |
+| Senior (5+ years) | $28,000~$35,000 | Potential income after building a client network |
+| average salary | $24,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常无固定晋升路径，但积累技能后可转向专业领域如家政管理或小型创业。
-**AI替代风险：高（★★★★½）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: very high (★★★★½).**
 
-主要增长方向：
+Gig workers face a very high risk of automation; many physical, standardised temporary jobs (e.g., moving, cleaning) will be replaced by AI robots. Competition for entry-level positions intensifies, and income is unstable.
+
+Typically no fixed promotion path, but skills can be transferred to specialised fields such as household management or small business start-ups.
+
+**Tasks most exposed to AI:**
+
+- Sweep floors on fixed routes (indoor cleaning robots replacement)
+- Simple handling and stacking of items (replaced by automated warehousing systems)
+- Voice-command-based appointment and schedule management (AI voice assistant replacement)
+- Basic garden pruning (replaced by automatic lawnmowers)
+
+**Where AI augments the role:**
+
+- Efficiently match gig work through online platforms (assisted by AI recommendation algorithms)
+- Use project management tools to track the progress of multiple gig tasks.
+- Use photo recognition software to provide more precise home cleaning or repair quotes
+
+**Human moat:**
+
+- Requires adaptability and creative problem-solving skills (e.g., complex furniture assembly)
+- Face-to-face communication with clients to build trust and long-term relationships
+- Handling unstructured and unpredictable on-site situations (e.g., unexpected damage)
+- Master traditional craftsmanship skills (e.g., fine woodworking, garden design)
+
+**Skills to build:**
+
+- Learn to use gig recommendation platforms (e.g., TaskRabbit, Upwork)
+- Familiarity with basic project management tools (Trello, Asana)
+- Improving client communication and negotiation skills
+- Learn simple manual skills (woodworking, mending)
+- Obtain safety certifications (e.g., first aid, working at heights)
+
+**Key growth areas:**
 
 - Informal Economy
 - Gig Economy
@@ -62,62 +93,64 @@ Odd-job persons perform various temporary, informal tasks such as moving, cleani
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Non-EU: No specific （No specific visa） | 零工通常不符合荷兰工作签证条件，仅限欧盟公民自由流动。 |
-| Subclass EU Free Movement（EU/EEA Freedom of Movement） | 欧盟公民可自由在荷兰从事零工，无需额外许可。 |
+| Subclass Non-EU: No specific  (No specific visa) | Gig work typically does not meet Dutch work visa requirements; only EU citizens have free movement. |
+| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU citizens are free to do gig work in the Netherlands without additional permits. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Odd-job Person？**
-- 需要灵活工作时间的个人
-- 寻求快速入职且低学历门槛者
-- 适应非正规经济环境的人士
+**Who is suited**
+- Individuals who need flexible working hours
+- Seeking fast onboarding and low educational threshold
+- People who thrive in the informal economy
 
-**谁不适合学Odd-job Person？**
-- 追求稳定收入和职业晋升者
-- 依赖工作签证的非欧盟公民
+**Who is not suited**
+- Those seeking stable income and career advancement
+- Non-EU citizens dependent on work visas
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income for gig workers?**
+A: Annual income for gig workers in the Netherlands typically ranges from €15,000 to €35,000, depending on workload and client network.
+
+**Q: Can non-EU citizens do gig work in the Netherlands?**
+A: Non-EU citizens usually cannot obtain a work visa for gig jobs, as such work does not meet high-skilled immigration or Blue Card requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（½☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★½） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Odd-job Person属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for odd-job persons?**
-答：In the Netherlands, odd-job persons earn between €15,000 and €35,000 per year, depending on workload and client network.
-
-**问：Can non-EU citizens work as odd-job persons in the Netherlands?**
-答：Non-EU citizens generally cannot obtain a work visa for odd jobs, as they do not meet the requirements for highly skilled migrant or EU Blue Card schemes.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

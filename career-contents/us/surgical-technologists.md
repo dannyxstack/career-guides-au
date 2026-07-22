@@ -1,59 +1,93 @@
-# Surgical Technologists（Surgical Technologists）职业分析 · 美国
+# Surgical Technologists — career analysis · United States
 
-**职业代码：29-2055 – Surgical Technologists。**
+**Occupation code: 29-2055 (SOC)**
 
-Surgical technologists assist surgeons and nurses in the operating room, preparing instruments, adjusting equipment, passing tools, and maintaining a sterile environment during surgical procedures.
+Surgical technicians assist surgeons and nurses in the operating room, preparing instruments, adjusting equipment, passing tools, and ensuring a sterile environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$40,000（社区学院或技术学校学费） |
-| 证书/文凭 | 1年 | $5,000~$15,000（短期课程费用） |
+| Associate degree | 2 years | $15,000~$40,000 (Community college or technical school tuition) |
+| Certificate/diploma | 1 year | $5,000~$15,000 (Short-term course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认证手术技师 | 国家手术技术与外科辅助委员会 | 必备 | 通过NBSTSA考试获得，多数雇主要求 |
-| CPR认证 | 美国心脏协会等 | 必备 | 基本生命支持认证 |
-| 副学士学位 | 认可的教育机构 | 可选 | CAAHEP认证项目 |
+| Certified surgical technologist | National Surgical Technology and Surgical Assistance Committee | Required | Obtained through the NBSTSA exam, required by most employers. |
+| CPR certification | American Heart Association, etc. | Required | Basic Life Support certification. |
+| Associate degree | Recognized educational institution | Optional | CAAHEP-accredited programs |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 110,000。美国手术技师就业前景良好，预计2023-2033年增长约6%，主要受人口老龄化和手术需求增加驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 110,000. U.S. surgical technologist employment outlook is favorable, with projected growth of about 6% from 2023-2033, driven mainly by an aging population and increased surgical demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$52,000 | 包括实习生和新人 |
-| 中级（4-9年） | $52,000~$68,000 | 有经验者 |
-| 高级（10年以上） | $68,000~$85,000 | 首席技师或管理者 |
+| Median salary | $64,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$52,000 | Includes interns and newcomers |
+| Intermediate (4-9 years) | $52,000~$68,000 | Experienced individuals |
+| Senior (10+ years) | $68,000~$85,000 | Chief Technician or Manager |
+| average salary | $68,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级手术技师可积累经验后晋升为首席手术技师或手术室管理者，或进一步深造成为注册护士或外科助理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
+
+Junior surgical technologists can gain experience and advance to lead surgical technologist or operating room manager, or further study to become a registered nurse or surgical assistant.
+
+**Tasks most exposed to AI:**
+
+- Automatic counting and verification of surgical instruments
+- Basic real-time recording and data entry during surgical procedures
+- Automated disinfection and preparation processes for some routine surgical instruments
+- Image-based automatic identification and tracking of instruments and consumables
+
+**Where AI augments the role:**
+
+- AI-assisted surgical navigation and precise positioning, enabling technicians to adjust equipment faster
+- Smart instrument management system providing real-time inventory and usage recommendations
+- AR/VR simulation training to improve technicians' efficiency in preparing for complex surgeries
+- AI analysis of surgical workflow data to optimise instrument layout and transfer routes
+
+**Human moat:**
+
+- Maintenance and management of sterile environment during surgery
+- Real-time understanding and precise response to doctor's orders
+- Manual operation and emergency handling of complex instruments
+- Team collaboration and non-verbal communication in operating rooms
+- Clinical judgment and safety control in patient positioning
+
+**Skills to build:**
+
+- Operation of digital systems for surgical instrument management and counting
+- Basic Python or SQL for surgical data report analysis
+- Basic use of AI-assisted surgical navigation systems (e.g., Medtronic StealthStation)
+- Evidence-based medicine knowledge updates, understanding the rationale behind AI recommendations
+- Cross-disciplinary communication and agile team collaboration skills
+- Smart monitoring tools with IoT sensors in aseptic techniques
+
+**Key growth areas:**
 
 - Aging population
 - Surgical volume increase
@@ -62,68 +96,67 @@ Surgical technologists assist surgeons and nurses in the operating room, prepari
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需专业知识的职业，手术技师通常需副学士学位，但可能符合条件 |
-| Subclass EB-3（EB-3 Skilled Workers） | 绿卡类别，需PERM劳工证，适合有经验的手术技师 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保的永久居留路径，需证明劳工短缺 |
+| Subclass H-1B (H-1B Specialty Occupations) | Suitable for occupations requiring specialized knowledge; surgical technologists typically need an associate degree but may qualify. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card category requiring PERM labor certification, suitable for experienced surgical technologists |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residency pathway, requiring proof of labor shortage |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Surgical Technologists？**
-- 注重细节且能在高压环境下保持冷静的人
-- 喜欢团队合作并协助他人的人
-- 对医学手术有浓厚兴趣并有良好动手能力的人
-
-**谁不适合学Surgical Technologists？**
-- 对血液和手术场景感到不适的人
-- 无法长时间站立或应对快节奏工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are detail-oriented and remain calm under pressure
+- People who enjoy teamwork and helping others.
+- People with strong interest in medical procedures and good manual skills
+
+**Who is not suited**
+- People uncomfortable with blood and surgical scenes
+- Those unable to stand for long periods or cope with fast-paced work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for surgical technicians?**
+A: US surgical technologist median annual salary about USD 55,000, entry-level about USD 40,000, senior up to USD 85,000.
+
+**Q: What are the pathways for surgical technologists to immigrate to the US?**
+A: Immigration possible via H-1B work visa or EB-3 green card (requires PERM), but employer sponsorship and proof of labor shortage are needed.
+
+**Q: What certifications are needed to become a surgical technologist?**
+A: Most employers require passing the NBSTSA certified surgical technologist exam and holding CPR certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Surgical Technologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for surgical technologists?**
-答：The median annual wage for surgical technologists in the US is about $55,000, with entry-level around $40,000 and experienced up to $85,000.
-
-**问：What are the immigration pathways for surgical technologists to the US?**
-答：Surgical technologists can immigrate via H-1B visa or EB-3 green card (with PERM), requiring employer sponsorship and labor shortage proof.
-
-**问：What certifications are required to become a surgical technologist?**
-答：Most employers require the Certified Surgical Technologist (CST) credential from NBSTSA and CPR certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Potter（Potter）职业分析 · NL
+# Potter — career analysis · Netherlands
 
-**职业代码：7314 – Potter。**
+**Occupation code: 7314 (ISCO08)**
 
-Potters shape, decorate, and fire clay products such as pottery, porcelain, and ceramic art, using hand techniques or machinery. In the Netherlands, they work mainly in traditional and contemporary studios, with some in industrial settings.
+Potters shape, decorate, and fire clay products by hand or machine, including pottery, porcelain, and artistic ceramics. This occupation is mainly found in traditional and contemporary studios in the Netherlands, with some engaged in industrial ceramic production.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（MBO） | 3-4年 | $1,000~$2,000（荷兰公立MBO学费约每年1000-2000欧元，可能有政府补贴。） |
-| 短期课程/学徒制 | 1-2年 | $500~$3,000（私人工作室或机构的短期课程费用差异较大。） |
+| Vocational education (MBO) | 3-4 years | $1,000~$2,000 (Dutch public MBO tuition fees are about €1,000-2,000 per year, possibly with government subsidies.) |
+| Short-term courses/apprenticeships | 1-2 years | $500~$3,000 (Short-term course fees for private studios or institutions vary significantly.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO陶瓷工艺文凭 | 荷兰职业教育机构（如ROC） | 可选 | 部分MBO课程提供陶瓷专项文凭。 |
-| 学徒制证书 | 荷兰中小企业协会（MKB） | 可选 | 通过企业内培训获得，非强制但有助于就业。 |
+| MBO Ceramic Process Diploma | Dutch vocational education institutions (e.g., ROC) | Optional | Some MBO courses offer a diploma in ceramics. |
+| Apprenticeship certificate | Netherlands Association of Small and Medium Enterprises (MKB) | Optional | Obtained through in-house training, not mandatory but helpful for employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。荷兰陶工就业前景稳定但规模较小，受手工市场与旅游纪念品需求驱动。自动化对工业岗位有一定影响，但手工定制与艺术陶瓷领域保持韧性。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. Employment prospects for Dutch potters are stable but the sector is small, driven by the handicraft market and demand for tourist souvenirs. Automation has some impact on industrial positions, but handmade and artistic ceramics remain resilient.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，多为全职或兼职 |
-| 中级（3-7年） | $28,000~$36,000 | 有经验的独立陶工或工作室雇员 |
-| 高级（7年以上） | $36,000~$50,000 | 知名艺术家或工作室所有者收入可能更高 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, mostly full-time or part-time |
+| Mid-level (3–7 years) | $28,000~$36,000 | Experienced independent potter or studio employee. |
+| Senior (7+ years) | $36,000~$50,000 | Well-known artists or studio owners may earn more |
+| average salary | $33,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级陶工通常从助理或工作室学徒起步，通过积累技术可晋升为独立陶工或工作室负责人。部分转向陶瓷设计或教学，少数开办个人工作室或参与艺术展览。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Potters face dual impacts from automation and AI: repetitive forming and glazing processes may be replaced by robots, but the value of creative design, customized works, and manual skills is enhanced by digital tools. Traditional potters must transform into creative craftsmen integrating AI-assisted design, or entry-level positions will shrink significantly.
+
+Junior potters usually start as assistants or studio apprentices, and can advance to independent potters or studio heads by accumulating skills. Some shift to ceramic design or teaching, while a few open personal studios or participate in art exhibitions.
+
+**Tasks most exposed to AI:**
+
+- Batch clay mixing and kneading: AI-controlled automated mixers ensure precise proportioning and uniform kneading.
+- Standard shaping and trimming: CNC pottery wheels can precisely replicate mold shapes.
+- Basic glaze mixing and application: glaze formula database combined with spray robots for consistent coverage.
+- Kiln temperature monitoring and firing: AI system adjusts temperature curve in real time to optimize yield rate.
+- Product inventory management and order processing: ERP system automatically matches inventory with customer demand.
+
+**Where AI augments the role:**
+
+- Creative design: AI generators (such as Midjourney) assist in exploring forms, textures, and glaze combinations to inspire creativity.
+- Customized service: customers upload photos or descriptions, and AI automatically generates personalized ceramic designs.
+- Firing optimization: AI predicts kiln airflow and temperature distribution to reduce cracking and glaze defects.
+- Quality inspection: computer vision identifies tiny cracks or glaze defects to improve yield rate.
+- Digital marketing: AI tools analyze customer preferences and automatically generate social media content and product descriptions.
+
+**Human moat:**
+
+- Handcrafted feel and irreproducibility: consumer appreciation for unique, handcrafted traces (e.g., fingerprints, pores).
+- Artistic intuition and cultural narrative: deep expressive ability to integrate personal experience and regional traditions into creation.
+- Live demonstrations and interactive teaching: directly communicate with audiences and impart skills in studios or exhibitions.
+- Material experiments and accidental effects: actively explore clay properties, using kiln transformations to produce unpredictable artistic effects.
+- Complex customization and restoration: manual restoration skills for reconstructing shapes and filling defects from ancient pottery fragments.
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Generative Design, Midjourney) for rapid prototype iteration.
+- Digital modeling and 3D printing: Mastering Rhinoceros, ZBrush, or Blender to create complex molds.
+- Data-driven glaze management: learn to use formula databases and spectrometers to optimize glazes.
+- E-commerce and social media operations: use AI to analyze consumer trends and build a personal brand.
+- Cross-media collaboration ability: collaborating with digital artists and interaction designers to develop ceramic installations.
+- Sustainable Materials Knowledge: Research low-energy firing processes and circular clay technologies.
+
+**Key growth areas:**
 
 - Handmade Craft
 - Artisan Revival
@@ -63,66 +99,68 @@ Potters shape, decorate, and fire clay products such as pottery, porcelain, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需年薪约€5,000以上，陶工通常难达门槛。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 需雇主担保且年薪达€5,000+（2025年），陶工极少符合。 |
-| Subclass Self-employed visa（Self-employed visa (Independent Entrepreneur)） | 适用于计划在荷设立工作室的自由职业者，需通过积分评估。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires annual salary of approximately €5,000+; potters usually cannot meet this threshold. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship and annual salary of €5,000+ (2025), potters rarely qualify. |
+| Subclass Self-employed visa (Self-employed visa (Independent Entrepreneur)) | Applies to freelancers planning to set up a studio in the Netherlands, requires points-based assessment. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Potter？**
-- 对陶瓷艺术有热情且耐心细致的人
-- 愿意从事手工创作并接受不稳定收入的人
-- 有创业精神并希望开设个人工作室的人
+**Who is suited**
+- Person with passion for ceramic art and patience, attention to detail
+- People willing to engage in manual creation and accept unstable income
+- Entrepreneurial individuals wishing to set up their own studio
 
-**谁不适合学Potter？**
-- 追求高薪和稳定职业发展的人
-- 不擅长精细手工操作或缺乏耐心的人
+**Who is not suited**
+- People seeking high salary and stable career development
+- People not skilled in fine manual work or lacking patience
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for a Dutch potter?**
+A: Junior potter pre-tax annual salary approx. €22,000-28,000, intermediate €28,000-36,000, senior €36,000-50,000. Income varies significantly based on experience and market.
+
+**Q: Can non-EU individuals immigrate to the Netherlands through the potter occupation?**
+A: Extremely difficult. Tilers don't meet high-skilled migration or EU Blue Card salary requirements and usually can only come via self-employment visa, but must pass points assessment and face strict scrutiny.
+
+**Q: What are the career paths for potters in the Netherlands?**
+A: Can progress from studio assistant to independent potter, or move into ceramic design, teaching. A few successful ones start personal studios or become ceramic artists.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Potter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for potters in the Netherlands?**
-答：Entry-level potters earn approximately €22,000-€28,000 gross per year, mid-level €28,000-€36,000, and senior €36,000-€50,000. Income varies significantly by experience and market.
-
-**问：Can non-EU individuals immigrate to the Netherlands as a potter?**
-答：It is very difficult. Potters do not meet the salary thresholds for highly skilled migrant or EU Blue Card. Self-employment visa is possible but requires a points-based assessment and strict review.
-
-**问：What are the career paths for potters in the Netherlands?**
-答：Potters can progress from studio assistant to independent potter, or move into ceramic design, teaching. A few succeed in opening a personal studio or becoming ceramic artists.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Mechanical Production Unit Operator（Mechanical Production Unit Operator）职业分析 · FR
+# Mechanical Production Unit Operator — career analysis · France
 
-**职业代码：H2503 – Mechanical Production Unit Operator。**
+**Occupation code: H2503 (ROME)**
 
-Operates mechanical or metalworking production units, sets up, monitors, and adjusts machines to ensure product quality and production efficiency.
+Operate machining or metalworking production units, responsible for setting up, monitoring, and adjusting machines to ensure product quality and production efficiency.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育文凭 | 2年（CAP） | —（公立学校免费或低学费，学徒制可获薪酬） |
-| 技师文凭 | 2年（BTS） | —（公立学校免费，私立学校需学费） |
+| Vocational education diploma | 2 years (CAP) | $0~$5,000 (Public schools offer free or low tuition, and apprenticeships can be paid) |
+| Technician diploma | 2 Years (BTS) | $0~$8,000 (Public schools are free, while private schools require tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 机械加工 | 法国教育部 | 可选 | 基础操作资格，非强制但普遍要求 |
-| CACES 机械操作证书 | 法国国家职业安全研究所 | 可选 | 操作特定起重或搬运设备时需持有 |
+| CAP machining | French Ministry of Education | Optional | Basic operational qualifications, not mandatory but generally required |
+| CACES Mechanical Operation Certificate | French National Institute for Occupational Safety | Optional | Held when operating specific lifting or handling equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国机械制造业稳定，但自动化趋势减少低技能岗位。需掌握数控和编程技能以保持竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's machinery manufacturing sector is stable, but automation is decreasing in low-skilled positions. Mastering CNC and programming skills is necessary to stay competitive.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含技能津贴 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including skills allowance |
+| average salary | $38,868 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为生产主管、工艺工程师或质量检验员；通过学徒培训或继续教育提升技能。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The work of machine production unit operators will be mixed due to AI and automation: routine monitoring and adjustment tasks will be replaced, but complex tasks such as machine setup, troubleshooting, and continuous improvement will be enhanced, with job demands shifting toward higher skill levels.
+
+Promotion possible to production supervisor, process engineer, or quality inspector; Enhance skills through apprenticeship training or continuing education.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of machine operating parameters (such as speed, temperature, pressure)
+- Perform simple machine adjustments according to preset programs
+- Record production data and generate standard reports
+- Detect and troubleshoot common, recurring mechanical failures
+
+**Where AI augments the role:**
+
+- Use an AI predictive maintenance system to analyze equipment status and schedule repairs in advance
+- Optimize machining parameters and toolpaths through digital twin simulation
+- Use augmented reality (AR) to assist in complex assembly or calibration tasks
+- Real-time process adjustments based on AI quality inspection systems reduce defect rates
+- Optimize production scheduling and material flow with machine learning algorithms
+
+**Human moat:**
+
+- Adaptability to handle non-standard and flexible production tasks
+- Intuitive judgment of subtle equipment abnormalities (such as abnormal noise or odors).
+- Multi-process coordination and cross-departmental communication and decision-making capabilities
+- On-site safety responsibility and emergency shutdown decision-making authority
+- In-depth understanding of complex machining processes and experience with manual fine-tuning
+
+**Skills to build:**
+
+- Industrial robot programming and teaching
+- PLC and SCADA system operation
+- Data analysis and foundational machine learning applications
+- CAD/CAM software and CNC programming
+- IoT device connection and debugging
+- Lean Production and Six Sigma methodology
+
+**Key growth areas:**
 
 - automation
 - CNC programming
@@ -63,61 +98,63 @@ Operates mechanical or metalworking production units, sets up, monitors, and adj
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 由法国雇主担保，需证明职位无法由欧盟公民填补 |
+| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, it must be proven that the position cannot be filled by an EU citizen |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mechanical Production Unit Operator？**
-- 喜欢动手操作机器的人
-- 注重细节和质量的人
-- 愿意接受轮班工作的人
+**Who is suited**
+- People who enjoy hands-on machine operation.
+- Detail- and quality-oriented person
+- People willing to work shifts
 
-**谁不适合学Mechanical Production Unit Operator？**
-- 不喜欢重复性工作的人
-- 不擅长基本数学和测量的人
+**Who is not suited**
+- People who dislike repetitive work
+- People who are not good at basic math and measurement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: The junior salary ranges from about 22,000 to 26,000 euros per year, while the senior can reach up to 40,000 euros, depending on skills and experience.
+
+**Q: Can foreigners immigrate to France through this employment?**
+A: The difficulty is quite high. This occupation is not considered a shortage occupation; employers must prove they cannot find EU candidates and that salaries must meet a certain threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mechanical Production Unit Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is around €22,000-€26,000, while senior operators can earn up to €40,000, depending on skills and experience.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：It is difficult. This occupation is not on the shortage list; employers must prove no EU candidate is available, and salary must meet certain thresholds.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

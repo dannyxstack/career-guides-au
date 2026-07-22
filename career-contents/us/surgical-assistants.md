@@ -1,59 +1,93 @@
-# Surgical Assistants（Surgical Assistants）职业分析 · 美国
+# Surgical Assistants — career analysis · United States
 
-**职业代码：29-9093 – Surgical Assistants。**
+**Occupation code: 29-9093 (SOC)**
 
-Assist surgeons during operations, including making incisions, closing sites, manipulating tissues, and implanting devices, under supervision and per state laws.
+Assist surgeons during operations, potentially including incisions, suturing, tissue handling, device implantation, subject to state laws and physician supervision.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位或证书课程 | 2年 | $10,000~$30,000（社区学院或技术学校） |
-| 学士学位（可选） | 4年 | $40,000~$120,000（大学学位增加竞争力） |
+| Associate degree or certificate program | 2 years | $10,000~$30,000 (Community college or technical school) |
+| Bachelor's degree (optional) | 4 years | $40,000~$120,000 (University degree increases competitiveness.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 外科助理认证 | 国家外科技术与外科助理委员会(NBSTSA) | 必备 | 通过认证考试，部分州要求 |
-| 心肺复苏(CPR)认证 | 美国心脏协会(AHA) | 必备 | 基本安全要求 |
-| 学士学位 | 认可大学 | 可选 | 非必需但有助于晋升 |
+| Surgical assistant certification | National Board of Surgical Technology and Surgical Assisting (NBSTSA) | Required | Must pass certification exam; required in some states |
+| Cardiopulmonary resuscitation (CPR) certification | American Heart Association (AHA) | Required | Basic safety requirements |
+| Bachelor's degree | Recognised university | Optional | Not required but helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。美国外科助理需求稳定，受手术量增长和医生分工细化推动，但岗位数量有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for US surgical assistants is stable, driven by surgical volume growth and physician specialization, but positions are limited with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 包括刚获得认证和少量经验者 |
-| 中级（3-7年） | $60,000~$80,000 | 经验丰富，可独立辅助手术 |
-| 高级（7年以上） | $80,000~$110,000 | 资深助理或主管，大型医院或专科 |
+| Median salary | $66,800 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Includes those newly certified and with little experience |
+| Mid-level (3–7 years) | $60,000~$80,000 | Experienced, capable of independently assisting in surgery |
+| Senior (7+ years) | $80,000~$110,000 | Senior assistant or supervisor, large hospital or specialty |
+| average salary | $72,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级助理晋升为高级外科助理或手术室主管，需积累手术经验和继续教育，部分转向医生助手或医疗管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
+
+Can advance from junior assistant to senior surgical assistant or operating room supervisor, requiring accumulated surgical experience and continuing education; some transition to physician assistant or healthcare management.
+
+**Tasks most exposed to AI:**
+
+- Automatic counting and verification of surgical instruments
+- Basic real-time recording and data entry during surgical procedures
+- Automated disinfection and preparation processes for some routine surgical instruments
+- Image-based automatic identification and tracking of instruments and consumables
+
+**Where AI augments the role:**
+
+- AI-assisted surgical navigation and precise positioning, enabling technicians to adjust equipment faster
+- Smart instrument management system providing real-time inventory and usage recommendations
+- AR/VR simulation training to improve technicians' efficiency in preparing for complex surgeries
+- AI analysis of surgical workflow data to optimise instrument layout and transfer routes
+
+**Human moat:**
+
+- Maintenance and management of sterile environment during surgery
+- Real-time understanding and precise response to doctor's orders
+- Manual operation and emergency handling of complex instruments
+- Team collaboration and non-verbal communication in operating rooms
+- Clinical judgment and safety control in patient positioning
+
+**Skills to build:**
+
+- Operation of digital systems for surgical instrument management and counting
+- Basic Python or SQL for surgical data report analysis
+- Basic use of AI-assisted surgical navigation systems (e.g., Medtronic StealthStation)
+- Evidence-based medicine knowledge updates, understanding the rationale behind AI recommendations
+- Cross-disciplinary communication and agile team collaboration skills
+- Smart monitoring tools with IoT sensors in aseptic techniques
+
+**Key growth areas:**
 
 - Surgical volume increase
 - Aging population
@@ -62,68 +96,67 @@ Assist surgeons during operations, including making incisions, closing sites, ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等学历，雇主担保，配额有限 |
-| Subclass EB-3（EB-3 Skilled Workers） | 绿卡类别，需PERM劳工证，排期较长 |
-| Subclass Green Card (PERM)（Green Card (PERM)） | 通过劳工证流程申请，雇主支持 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or equivalent, employer sponsorship, limited quota |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card category requiring PERM labor certification with a long wait period |
+| Subclass Green Card (PERM) (Green Card (PERM)) | Apply via labor certification process with employer support |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Surgical Assistants？**
-- 具备医疗背景或兴趣者
-- 能承受高压工作环境的人
-- 喜欢动手操作及团队协作的人
-
-**谁不适合学Surgical Assistants？**
-- 对血液和手术场景不适者
-- 不愿长时间站立或轮班工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those with a medical background or interest.
+- Those who can handle high-pressure work environments
+- People who enjoy hands-on work and teamwork
+
+**Who is not suited**
+- Those uncomfortable with blood and surgical scenes
+- People who cannot tolerate long periods of standing or shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a surgical assistant?**
+A: Depending on experience, annual salary about 45,000-110,000 USD, median around 70,000 USD. Higher in hospitals and specializations.
+
+**Q: What visa can a surgical assistant use to immigrate to the US?**
+A: Common path is the H-1B work visa (requires bachelor's degree) and EB-3 employment-based green card, both requiring employer sponsorship and passing certification or equivalent academic assessment.
+
+**Q: What certifications are required for a surgical assistant?**
+A: typically requires the Certified Surgical Assistant (CSA) credential from NBSTSA; some states also require a state license or additional exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Surgical Assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for surgical assistants?**
-答：Annual salary ranges from $45,000 to $110,000 depending on experience, with median around $70,000.
-
-**问：What visas can surgical assistants use to immigrate to the US?**
-答：Common paths include H-1B visa (requires bachelor's degree) and EB-3 green card, both requiring employer sponsorship and credential evaluation.
-
-**问：What certifications are required for surgical assistants?**
-答：Usually requires Certified Surgical Assistant (CSA) from NBSTSA; some states require additional license or exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

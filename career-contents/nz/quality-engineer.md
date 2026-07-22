@@ -1,59 +1,94 @@
-# Quality Engineer（Quality Engineer）职业分析 · 新西兰
+# Quality Engineer — career analysis · New Zealand
 
-**职业代码：233917 – Quality Engineer。**
+**Occupation code: 233917 (ANZSCO)**
 
-Quality Engineers in New Zealand ensure products meet standards in manufacturing, construction, and food processing. This occupation offers stable demand with Skilled Migrant Category and Green List direct residence pathways.
+Quality Engineers in New Zealand ensure products meet standards in manufacturing, construction, and food processing. This occupation offers immigration via Skilled Migrant or Green List direct residence route, with steady demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（工程或相关领域） | 3年 | $35,000~$50,000（大学学费，如奥克兰理工大学每年约3.5-5万纽元） |
-| 研究生文凭或硕士（质量或工程管理） | 1-2年 | $40,000~$60,000（提升竞争力，如梅西大学质量系统硕士约4-6万纽元） |
+| Bachelor's degree (engineering or related field) | 3 years | $35,000~$50,000 (University tuition, e.g., Auckland University of Technology approximately NZD 35,000-50,000 per year) |
+| Postgraduate diploma or master's (quality or engineering management) | 1-2 years | $40,000~$60,000 (To enhance competitiveness, e.g., Massey University's Master of Quality Systems costs approx NZD 40,000-60,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ISO 9001内审员证书 | 新西兰认证机构，如SGS或BSI | 可选 | 非强制，但雇主普遍要求 |
-| 工程文凭或注册资格 | 新西兰工程协会（Engineering New Zealand） | 可选 | 可注册为专业工程师，增强移民申请 |
-| 英语能力证明（如IELTS 6.5） | 移民局认可机构 | 必备 | 技术移民要求至少6.5分 |
+| English proficiency proof (e.g., IELTS 6.5) | Department of Home Affairs recognized body | Required | Skilled migration requires at least 6.5 IELTS |
+| ISO 9001 internal auditor certificate | New Zealand accreditation bodies, such as SGS or BSI | Optional | Not mandatory, but commonly required by employers |
+| Engineering diploma or registration | Engineering New Zealand | Optional | Eligible to register as a professional engineer, enhancing immigration applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,500。随着新西兰制造业和建筑业复苏，以及食品出口持续增长，质量工程师需求预计保持稳定。ISO 9001认证经验者优先，奥克兰和坎特伯雷就业机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. With the recovery of New Zealand's manufacturing and construction sectors, along with continued growth in food exports, demand for quality engineers is expected to remain stable. Experience with ISO 9001 certification is preferred, with more job opportunities in Auckland and Canterbury.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 根据Careers NZ数据 |
-| 中级（3-7年） | $75,000~$95,000 | 拥有ISO经验者可达上限 |
-| 高级（7年以上） | $100,000~$125,000 | 质量经理或专家角色 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | According to Careers NZ data |
+| Mid-level (3–7 years) | $75,000~$95,000 | Those with ISO experience can reach the upper limit. |
+| Senior (7+ years) | $100,000~$125,000 | Quality manager or specialist role |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★★☆）。** 从初级质量工程师可晋升为高级质量工程师、质量经理或体系审核员。积累经验后，可转向全面质量管理或供应链质量角色，薪资逐步提升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Quality engineers face medium automation risk in Australia, but AI enhancement potential is high. Routine document review and basic statistical analysis are easily replaceable, but system decisions and client communication still rely on human judgment—the career outlook is mixed.
+
+From a junior quality engineer, one can advance to senior quality engineer, quality manager, or system auditor. With experience, you can move into total quality management or supply chain quality roles, with gradual salary increases.
+
+**Tasks most exposed to AI:**
+
+- Automated document review and compliance checks: AI quickly scans standards, drawings, and procedure documents to identify non-conformities
+- Basic statistical analysis: AI automatically generates control charts, calculates CPK, etc., reducing manual calculations
+- Defect image recognition: AI vision systems automatically detect product surface defects
+- Report generation: AI extracts data from databases and generates standard quality reports
+
+**Where AI augments the role:**
+
+- Root cause analysis assistance: AI clusters historical defect data to provide root cause hypotheses and validation suggestions
+- Supplier review optimization: AI analyzes supplier performance data, recommends review priorities and risk levels
+- Intelligent maintenance of system documents: AI-assisted updating of quality manuals and process documents to maintain version consistency
+- Customer complaint trend early warning: AI analyzes complaint texts to forecast systemic quality issues
+- Customized training: AI recommends personalized quality training content based on employee role and performance data
+
+**Human moat:**
+
+- Quality system design and improvement decisions (e.g., ISO 9001 transition strategy)
+- Cross-departmental coordination and driving quality culture change
+- Manage major customer complaints and recall events
+- Regulatory interpretation and approval in high-risk industries (e.g., defense, healthcare)
+- Complex root cause analysis and verification of corrective action effectiveness
+
+**Skills to build:**
+
+- Latest versions of ISO 9001:2015 and AS/NZS related standards
+- AI-assisted quality analysis tools (e.g., Minitab AI module, JMP)
+- Process mining and robotic process automation basics
+- Data visualization and communication (Tableau, Power BI)
+- Supply chain and project management fundamentals
+- Knowledge of specific industry regulations in Australia
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +97,67 @@ Quality Engineers in New Zealand ensure products meet standards in manufacturing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（学历、经验、注册等），可申请永居 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事职业清单中职位，工作2年后可申请永居 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可后续转永居 |
+| Subclass SMC (Skilled Migrant Category) | Meet 6-point system requirements (qualifications, experience, registration, etc.) to apply for permanent residence |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work in a listed occupation for 2 years, then eligible for permanent residence |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can later transition to permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Quality Engineer？**
-- 具备工程或质量管理背景的毕业生
-- 有ISO体系实施或审计经验的专业人士
-- 希望在制造业或建筑行业长期发展的人
-
-**谁不适合学Quality Engineer？**
-- 不喜欢频繁文档工作和流程审核的人
-- 不打算进行持续学习或认证的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with engineering or quality management background
+- Professionals with experience in implementing or auditing ISO systems
+- Those hoping for long-term development in manufacturing or construction industries
+
+**Who is not suited**
+- Those who dislike frequent documentation and process audits
+- People not planning to pursue continuous learning or certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a quality engineer in New Zealand?**
+A: Junior quality engineer annual salary about NZ$55,000-70,000, intermediate about NZ$75,000-95,000, senior up to NZ$100,000-125,000.
+
+**Q: Can a Quality Engineer immigrate to New Zealand via the Green List?**
+A: Quality Engineer is currently on the Green List Tier 2 (Work to Residence); can apply for permanent residence after working for 2 years. Also eligible via the 6-point skilled migrant category.
+
+**Q: In which industries in New Zealand are quality engineers in high demand?**
+A: Main demand comes from manufacturing (food, wood, metal), construction, and engineering consulting, especially ISO 9001-certified companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Quality Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a Quality Engineer in New Zealand?**
-答：Entry-level Quality Engineers earn NZD 55,000-70,000 per year, mid-level NZD 75,000-95,000, and senior NZD 100,000-125,000.
-
-**问：Can a Quality Engineer immigrate through the Green List?**
-答：Quality Engineers are on the Green List Tier 2 (Work to Residence), allowing residence after 2 years of work. SMC 6-point system also applies.
-
-**问：Which industries have high demand for Quality Engineers in NZ?**
-答：Key industries include manufacturing (food, wood, metal), construction, and engineering consulting, especially ISO 9001 certified companies.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

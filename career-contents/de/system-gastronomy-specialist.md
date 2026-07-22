@@ -1,60 +1,93 @@
-# System Gastronomy Specialist（System Gastronomy Specialist）职业分析 · DE
+# System Gastronomy Specialist — career analysis · Germany
 
-**职业代码：6331 – System Gastronomy Specialist。**
+**Occupation code: 6331 (KldB)**
 
-System gastronomy specialists work in chain fast-food restaurants, coffee shops, or branded eateries, handling standardized food preparation, customer service, inventory management, and team coordination to ensure operational efficiency and service quality.
+System catering specialists work in chain fast food, coffee shops, or brand restaurants, responsible for standardized food preparation, customer service, inventory management, and team coordination, ensuring operational efficiency and service quality.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（双元制培训期间有津贴，通常无需学费） |
-| 在职培训 | 6个月至1年 | $1,000~$3,000（企业内部培训或职业进修课程） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$500 (Dual system training provides allowances, typically no tuition fees) |
+| On-the-job training | 6 months to 1 year | $1,000~$3,000 (In-house training or professional development courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 餐饮管理职业培训证书 | 德国工商会 (IHK) | 必备 | 完成系统餐饮业双元制培训后获得，全国认可 |
-| 食品安全认证 | 德国卫生部门 | 可选 | 在岗前必须完成，部分州有额外要求 |
+| Food and beverage management vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing the dual vocational training in the system catering industry, nationally recognised |
+| Food safety certification | German health department | Optional | Must be completed before starting work; some states have additional requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 200,000。德国餐饮业持续增长，系统餐饮因标准化和品牌效应需求稳定。但受自动化影响，部分岗位可能减少。整体就业前景中等，有经验者可晋升管理层。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 200,000. Germany's catering industry continues to grow, with system catering maintaining stable demand due to standardization and brand effects. However, automation may reduce some positions. Overall employment prospects are moderate; experienced staff can advance to management.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，因地区和雇主而异 |
-| 中级（3-7年） | $30,000~$38,000 | 含主管级岗位 |
-| 高级（7年以上） | $38,000~$48,000 | 分店经理或区域经理级别 |
+| Median salary | $33,552 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, varies by region and employer |
+| Mid-level (3–7 years) | $30,000~$38,000 | Including supervisory roles |
+| Senior (7+ years) | $38,000~$48,000 | Branch manager or regional manager level |
+| average salary | $35,868 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业发展路径：从基层员工（如服务员、厨师）晋升为团队主管、分店经理，再到区域经理或培训师。也可转向餐饮质量管控、供应链管理等方向。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on system catering specialists is mixed: standardized processes are easily automated, but tasks such as on-site coordination and customer interaction still require human judgment. Entry-level positions are slightly reduced due to the prevalence of AI tools.
+
+Career development path: from entry-level roles (e.g., waiter, chef) to team supervisor, branch manager, then regional manager or trainer. Can also transition to food quality control, supply chain management, etc.
+
+**Tasks most exposed to AI:**
+
+- Standardising timing and ingredient portions in food production processes
+- Inventory counting and automatic replenishment
+- Customer order and payment processing
+- Shift scheduling and task assignment
+
+**Where AI augments the role:**
+
+- Customer personalized recommendations and promotional strategy formulation
+- Inventory demand forecasting and supply chain optimization
+- Employee training and performance analysis
+- Quality monitoring and anomaly warning
+
+**Human moat:**
+
+- On-site customer service and complaint handling
+- Team collaboration and emergency command
+- Sensory judgment and innovation in food quality
+- Build emotional connection with customers
+
+**Skills to build:**
+
+- AI-driven inventory management and forecasting tool operation
+- Digital order and payment system management
+- Data analysis and basic Excel skills
+- Customer Relationship Management (CRM) software application
+- Basic programming or automation scripting
+- Cross-cultural communication and team leadership
+
+**Key growth areas:**
 
 - Fast food expansion
 - Brand consistency demand
@@ -63,66 +96,68 @@ System gastronomy specialists work in chain fast-food restaurants, coffee shops,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需德国认可的学历或职业资格，雇主担保，德语通常需B1以上。本职业非紧缺，但可申请。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许找工作一年，适合有餐饮经验但无直接工作offer者。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月找工作，需证明经济能力和德语基础。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a German-recognised qualification or vocational certificate, employer sponsorship, and German usually at B1 or above. This occupation is not on the shortage list but is eligible for application. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allows one year of job search, suitable for those with food service experience but no direct job offer. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to look for work; requires proof of financial means and basic German skills. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学System Gastronomy Specialist？**
-- 喜欢快节奏工作环境的人
-- 具备团队合作精神和客户服务意识的人
-- 愿意从基层做起并逐步晋升的人
+**Who is suited**
+- People who enjoy a fast-paced work environment
+- People with teamwork spirit and customer service awareness
+- For those willing to start from the bottom and progress gradually
 
-**谁不适合学System Gastronomy Specialist？**
-- 希望高薪工作的人
-- 不适应轮班制和体力劳动的人
+**Who is not suited**
+- People seeking high-paying jobs
+- People who are not suited to shift work and physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for systematic catering specialists?**
+A: Junior pre-tax annual salary approximately EUR 24,000-30,000, intermediate EUR 30,000-38,000, senior EUR 38,000-48,000, above average for hospitality but below high-skill occupations.
+
+**Q: How can non-EU citizens immigrate to Germany through this occupation?**
+A: Must complete recognized vocational training or a degree in Germany, obtain an employer contract, and then apply for a skilled worker visa. This occupation is not in shortage, competition is high, and a German language level of at least B2 is recommended.
+
+**Q: What promotion opportunities exist in system catering?**
+A: Can advance from entry-level staff to team supervisor, store manager, regional manager, or transition to functions such as procurement, training, and quality control.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-System Gastronomy Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for system gastronomy specialists?**
-答：Entry-level gross annual salary is around €24,000-€30,000, mid-level €30,000-€38,000, senior €38,000-€48,000, above the hospitality average but lower than skilled technical roles.
-
-**问：How can non-EU citizens immigrate through this occupation?**
-答：Requires a recognized vocational training or degree, a job offer, and a Skilled Worker Visa. This occupation is not on the shortage list, so competition is high; German B2 or higher is recommended.
-
-**问：What are the career advancement opportunities in system gastronomy?**
-答：Path from entry-level to shift supervisor, store manager, regional manager, or move into procurement, training, or quality control.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

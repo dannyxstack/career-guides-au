@@ -1,60 +1,96 @@
-# Data Entry Clerk（Data Entry Clerk）职业分析 · IE
+# Data Entry Clerk — career analysis · Ireland
 
-**职业代码：4132 – Data Entry Clerk。**
+**Occupation code: 4132 (ISCO08)**
 
-Data entry clerks transfer data from source documents into computer systems accurately, typically involving keyboarding and basic verification. The role has stable demand in administrative support but is increasingly impacted by automation.
+Data entry operators are responsible for accurately entering data from source documents into computer systems, typically involving keyboard input and basic verification. This occupation has stable demand in administrative support but is significantly affected by automation.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 无（通常高中毕业即可） | —（通常不需要高等教育） |
-| 职业培训证书 | 3-6个月 | $500~$1,500（速成课程，提升打字速度与软件技能） |
+| High school diploma | None (usually high school diploma or equivalent is sufficient) | $0~$0 (Usually does not require higher education.) |
+| Vocational training certificate | 3-6 months | $500~$1,500 (Crash course to improve typing speed and software skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 欧洲计算机使用执照（ECDL） | ECDL基金会 | 可选 | 非必需，但常见于招聘要求 |
-| 打字速度证书 | 各类培训机构 | 可选 | 通常要求每分钟50-70词 |
+| European Computer Driving Licence (ECDL) | ECDL Foundation | Optional | Not required, but common in job listings |
+| Typing speed certificate | Various training institutions | Optional | Typically requires 50-70 words per minute. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。爱尔兰数据录入员就业前景平稳，年增长率约1%。数字转型可能减少低技能岗位，但医疗、金融等领域仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. Employment prospects for data entry operators in Ireland are stable, with an annual growth rate of about 1%. Digital transformation may reduce low-skilled jobs, but demand remains in sectors like healthcare and finance.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，取决于行业和地点 |
-| 中级（3-7年） | $28,000~$35,000 | 含经验与技能加成 |
-| 高级（7年以上） | $35,000~$42,000 | 含主管职责 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, depending on industry and location |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including experience and skill bonuses |
+| Senior (7+ years) | $35,000~$42,000 | Includes supervisory duties |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径有限，通常向高级数据录入、团队主管或转向数据分析/行政助理发展。需提升技能以保持竞争力。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Data entry roles face high automation risk; AI and RPA will largely replace pure keyboard entry and basic verification tasks, significantly reducing entry-level positions, but the remaining complex data cleaning and process optimization work will require higher skills.
+
+Limited advancement paths, typically to senior data entry, team leader, or transitioning to data analysis/administrative assistant. Need to upskill to stay competitive.
+
+**Tasks most exposed to AI:**
+
+- Key-by-key data entry from paper documents or scanned copies
+- Performs format checks and simple repetitive validation of entered data (e.g., missing fields)
+- Copy and paste structured data from one system to another
+- Generating reports or summary tables from fixed templates
+- Manage paper file archiving and indexing
+
+**Where AI augments the role:**
+
+- AI-assisted document parsing and OCR error correction to improve data entry speed and accuracy
+- Smart data validation tools automatically flag outliers for manual review
+- Speech-to-text + natural language processing for colloquial data entry
+- AI-driven data quality dashboard, real-time monitoring and cleaning prompts
+- Robotic Process Automation (RPA) orchestrates multi-system data synchronization, freeing up manual processing time
+
+**Human moat:**
+
+- Interpret data semantics and context (e.g., fuzzy handwriting, industry jargon)
+- Processing unstructured data (e.g., complex forms, nested tables)
+- Design and optimize data entry processes and quality rules
+- Communicate data standards and exception handling strategies with business departments
+- Confidentiality and secure operation of compliance-sensitive data
+
+**Skills to build:**
+
+- Basic development of RPA tools (e.g., UiPath, Automation Anywhere)
+- Basic data cleaning and automation scripts using Python or SQL
+- Configuration and tuning of AI/OCR tools (such as ABBYY, Tesseract)
+- Data quality analysis and visualization tools (e.g., advanced Excel functions, Power BI)
+- Basic project management and process mapping skills.
+- Communication and collaboration skills (cross-team data standards alignment)
+
+**Key growth areas:**
 
 - Administrative Support
 - Data Management
@@ -63,64 +99,66 @@ Data entry clerks transfer data from source documents into computer systems accu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于30,000欧元的非紧缺职业，需劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪33,000欧元以上的岗位，但数据录入员通常不满足技能要求 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage with annual salary below €30,000, requires labour market testing |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for positions with an annual salary above EUR 33,000, though data entry clerks typically do not meet skill requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Data Entry Clerk？**
-- 打字速度快、注重细节的人
-- 寻求低门槛入门行政工作的人
+**Who is suited**
+- Fast typist with attention to detail
+- People seeking low-barrier entry-level administrative jobs
 
-**谁不适合学Data Entry Clerk？**
-- 追求高薪或职业发展空间的人
-- 不愿从事重复性工作的人
+**Who is not suited**
+- Those pursuing high salary or career advancement opportunities
+- People unwilling to do repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a data entry officer?**
+A: Entry-level approximately €22,000-28,000, mid-level €28,000-35,000, senior up to €42,000.
+
+**Q: Can a data entry clerk apply for an Irish work visa?**
+A: You can apply for a General Employment Permit, but this occupation is not in shortage and requires a labor market test. Annual salary must exceed 27,000 euros.
+
+**Q: What are the career advancement paths for a data entry operator?**
+A: Typically can advance to team leader or transition to roles such as data analyst or administrative assistant, requiring additional training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Data Entry Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a data entry clerk?**
-答：Entry-level around €22,000-28,000, mid-level €28,000-35,000, senior up to €42,000.
-
-**问：Can a data entry clerk apply for an Irish work visa?**
-答：Yes, a General Employment Permit is possible but requires a labor market test. The salary must exceed €27,000.
-
-**问：What is the career progression for a data entry clerk?**
-答：Typically to team supervisor or transition to data analyst/administrative assistant with additional training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

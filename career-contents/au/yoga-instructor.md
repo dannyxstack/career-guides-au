@@ -1,129 +1,161 @@
-# 瑜伽教练（Yoga Instructor）职业分析 · 澳大利亚
+# Yoga Instructor — career analysis · Australia
 
-**职业代码：452111 – Yoga Instructor。**
+**Occupation code: 452111Y (ANZSCO)**
 
-瑜伽教练带领团体或私人瑜伽课程，涵盖哈他、流瑜伽、阴瑜伽及孕产/理疗等方向（ANZSCO 归入 452111 Fitness Instructor）。多为按课时或自营，收入与排课量、私教和线上会员相关。
+Yoga instructors lead group or private yoga classes, covering Hatha, Vinyasa, Yin, and prenatal/therapeutic streams (ANZSCO 452111 Fitness Instructor). Mostly paid per session or self-employed, income depends on class load, private sessions, and online memberships.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 瑜伽教师培训（200/500 小时 RYT） | 1~6个月 | $2,000~$8,000（国际通行的 Yoga Alliance RYT 认证） |
-| 急救与 CPR 证书 | 1天 | $100~$250（执业与保险常见要求） |
+| Yoga teacher training (200/500-hour RYT) | 1–6 months | $2,000~$8,000 (Internationally recognized Yoga Alliance RYT certification) |
+| First Aid and CPR certificate | 1 day | $100~$250 (Common practice and insurance requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Registered Yoga Teacher（RYT-200/500） | Yoga Alliance / 认可培训机构 | 可选 | 行业通行资质 |
-| 急救/CPR + 职业责任保险 | — | 必备 | 工作室授课与自营常见要求 |
+| First aid/CPR + professional liability insurance | — | Required | Common requirements for studio teaching and self-employment |
+| Registered Yoga Teacher（RYT-200/500） | Yoga Alliance / accredited training provider | Optional | Industry-recognised credential |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 —。身心健康与减压需求推动瑜伽稳定增长；企业瑜伽、孕产与理疗方向单价较高。岗位以兼职/自雇为主，个人品牌与社群经营是关键。
+**Job demand: medium (★★½☆☆).** National workforce approx. 10,000. Health and stress reduction needs drive steady growth in yoga; corporate yoga, prenatal/postnatal, and therapeutic streams have higher rates. Jobs are mainly part-time/self-employed, with personal branding and community management being key.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 兼职瑜伽教练 | $40,000~$58,000 | 按课时，$50~$90/节常见 |
-| 全职瑜伽教练 | $55,000~$78,000 | 稳定排课+私教 |
-| 资深/自营工作室 | $78,000~$140,000 | 团课+私教+线上会员 |
+| Median salary | $78,000 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Part-time yoga instructor | $40,000~$58,000 | Per session, $50~$90 common |
+| Full-time yoga instructor | $55,000~$78,000 | Stable scheduling + private tutoring |
+| Senior/self-owned studio | $78,000~$140,000 | Group classes + personal training + online memberships |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★☆☆）。** 线上会员制与录播课成为重要收入来源；理疗/孕产等专项方向提升专业溢价。
-**AI替代风险：很低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will not replace yoga instructors but will amplify their value: by generating personalized training plans, real-time pose correction, and automated client management, allowing instructors to focus more on emotional connection and safety protection.
 
-- 工作室团课
-- 私教/企业瑜伽
-- 线上课程与会员
-- 孕产/理疗瑜伽细分
+Online memberships and recorded courses become important income sources; specialized directions like physiotherapy or maternity enhance professional premium.
+
+**Tasks most exposed to AI:**
+
+- AI-generated standard yoga sequences and course syllabi
+- AI video analysis automatically assesses student posture and provides basic feedback
+- Automatically generate client progress reports and exercise logs
+- Replacing Recording and Playback of Generic Online Yoga Courses
+- Automated scheduling, appointment reminders and payment processing
+
+**Where AI augments the role:**
+
+- AI-assisted personalized pose adjustments, real-time analysis of body symmetry and force points
+- Using AI to generate customized yoga sequences (based on injury history and goals)
+- AI-driven customer relationship management: automatically identify renewal points and perform sentiment analysis
+- Leveraging AI to create high-quality content (short videos, live subtitles, multilingual translations) to expand influence
+- AI simulates different body types to help coaches rehearse teaching plans
+
+**Human moat:**
+
+- Safety protection: timely manual adjustments and injury prevention on site
+- Empathy and emotional resonance: building trust through observing subtle expressions and tone
+- Personalised Therapy Assessment: Combining Medical Knowledge with Intuitive Judgment
+- Community Building: Creating a Sense of Belonging and Group Dynamics
+- Ethical responsibility: judgement with special populations (pregnancy, post-injury rehabilitation)
+
+**Skills to build:**
+
+- AI-assisted posture analysis tools (e.g., Kinetisense) application
+- Basic Data Science: Interpreting Client Data and Optimising Programs
+- Video content production and AI editing
+- Deepened knowledge of sports anatomy and rehabilitation
+- Counselling skills (stress management, mindfulness guidance)
+- Online brand operations and AI customer service system management
+
+**Key growth areas:**
+
+- Studio Group Classes
+- Personal Training/Corporate Yoga
+- Online Courses & Memberships
+- Pregnancy/Physical Therapy Yoga
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学瑜伽教练？**
-- 热爱瑜伽并持续精进
-- 善于社群与个人品牌经营
-- 对孕产/理疗等专项有兴趣
-
-**谁不适合学瑜伽教练？**
-- 追求固定坐班与稳定月薪
-- 以移民为主要目标
-- 不愿经营客户与线上内容
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about yoga and continuous improvement
+- Good at community and personal brand management
+- Interest in specialized areas such as prenatal/postnatal or therapeutic yoga
+
+**Who is not suited**
+- Seek fixed office-based work and stable monthly salary
+- Primarily targeting immigration
+- Unwilling to manage clients and online content
+
+---
+
+## 8. FAQ
+
+**Q: How much do yoga instructors earn in Australia?**
+A: Part-time about $40k~$58k ($50~$90 per session); full-time about $55k~$78k; senior/self-operated studio about $78k~$140k (including online memberships).
+
+**Q: Can yoga instructors get a skilled migration visa?**
+A: Cannot directly migrate via skilled migration. Yoga instructors are classified under Fitness Instructor (452111) in ANZSCO, not on CSOL or GSM skilled migration lists.
+
+**Q: What Qualifications Do You Need to Be a Yoga Instructor?**
+A: Industry standard is 200/500-hour RYT (Yoga Alliance) certification; studio teaching and self-employment usually require first aid/CPR certificate and professional liability insurance. No university degree needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | Yoga / Fitness Instructor 薪资区间 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★½☆☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 中低（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中高（★★★☆☆） |
-| AI替代风险 | 很低（★½☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-瑜伽教练属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲瑜伽教练收入多少？**
-答：兼职约 $40k~$58k（$50~$90/节）；全职约 $55k~$78k；资深/自营工作室约 $78k~$140k（含线上会员）。
-
-**问：瑜伽教练能技术移民吗？**
-答：不能直接技术移民。瑜伽教练在 ANZSCO 归入 Fitness Instructor (452111)，不在 CSOL 或 GSM 技术移民清单上。
-
-**问：当瑜伽教练需要什么资质？**
-答：行业通行的是 200/500 小时 RYT（Yoga Alliance）认证；工作室授课与自营通常需急救/CPR 证书与职业责任保险。无需大学学历。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

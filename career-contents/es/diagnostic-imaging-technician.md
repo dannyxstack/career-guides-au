@@ -1,61 +1,97 @@
-# Diagnostic Imaging Technician（Diagnostic Imaging Technician）职业分析 · ES
+# Diagnostic Imaging Technician — career analysis · Spain
 
-**职业代码：3312 – Diagnostic Imaging Technician。**
+**Occupation code: 3312 (CNO)**
 
-Diagnostic Imaging Technicians operate X-ray, CT, MRI and other medical imaging equipment to assist physicians in diagnosis. They ensure image quality and patient safety with knowledge of radiation protection.
+Diagnostic imaging technicians are responsible for operating medical imaging equipment such as X-rays, CT, and MRI, assisting doctors in disease diagnosis. Knowledge of radiation protection is required to ensure image quality and patient safety.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立学校学费低廉） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学费用） |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public school tuition is low) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public university costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 诊断影像技术高级技工证书 | 西班牙教育部 | 必备 | 通过FP Grado Superior课程获得 |
-| 辐射安全培训 | 西班牙核安全委员会 | 必备 | 必要补充培训 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 外国学历需认证 |
+| Senior Technician Certificate in Diagnostic Imaging Technology | Spanish Ministry of Education | Required | Obtained through the FP Grado Superior course |
+| Radiation safety training | Spanish Nuclear Safety Commission | Required | Necessary supplementary training |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Foreign qualifications need accreditation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 18,000。西班牙医疗体系对影像技师需求稳定，受人口老龄化和技术进步推动，就业前景良好。公立与私立医院均提供岗位，部分偏远地区紧缺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 18,000. Spain's healthcare system has stable demand for imaging technicians, driven by population aging and technological advances, with promising employment prospects. Both public and private hospitals offer positions, with some remote areas facing shortages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公立医院起薪 |
-| 中级（4-7年） | $28,000~$35,000 | 含私立机构 |
-| 高级（8年以上） | $35,000~$45,000 | 主管或专科技师 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Starting salary in public hospitals. |
+| Mid-level (4-7 years) | $28,000~$35,000 | Including private institutions |
+| Senior (8+ years) | $35,000~$45,000 | Supervisor or specialist technician |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技师可向专科影像（如MRI、核医学）发展，或晋升为科室主管。通过继续教育可转岗为医学物理师或放射治疗师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on medical radiation technologists is mixed: routine tasks like standardized image acquisition and quality control face replacement risks, but AI enhances diagnostic image analysis, optimizes scan protocols and human-machine collaborative decisions, while legal and ethical responsibilities require human oversight. Overall demand for the role is stable, with slightly higher entry barriers.
+
+Junior technicians can develop into specialized imaging (such as MRI, nuclear medicine) or be promoted to department head. Through continuing education, you can transition to become a medical physicist or radiation therapist.
+
+**Tasks most exposed to AI:**
+
+- Automatically perform positioning and scan parameter settings for routine X-ray, CT, and MRI scans
+- Automatically generate standard positioning guidance and correct minor deviations
+- Automatically completing image quality assessment and repeat scan determination
+- Auto-archive, tag, and transmit medical images to PACS system
+- Automatically performs patient registration, position confirmation, and voice command verification
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of abnormal image areas to improve technicians' sensitivity to lesions
+- AI optimizes scan sequences and dose parameters to improve image quality and patient safety
+- AI provides real-time step prompts and potential risk alerts, reducing human error.
+- AI generates draft reports; technicians only need to review and modify, improving efficiency
+- AI-driven virtual patient simulation training accelerates skill acquisition and assessment
+
+**Human moat:**
+
+- Non-standard scanning decisions and adjustments under complex anatomical variations or pathological conditions
+- Individualized operations and emotional support for critically ill or injured patients (e.g., trauma, children)
+- Manual emergency operations and clinical judgment during equipment failure
+- Cross-department communication, radiation safety compliance, and patient education with human touch
+- Has legal and ethical responsibility for final image quality and diagnostic basis.
+
+**Skills to build:**
+
+- Certification in operating multimodal imaging equipment (CT, MRI, PET-CT)
+- Use of AI-based image analysis tools (e.g., CAD, deep learning post-processing)
+- Radiation dose optimisation and quality management
+- Patient communication and emergency handling (including trauma, pediatrics, geriatric care)
+- Advanced imaging informatics and PACS system features (AI integration, remote collaboration)
+- Continuing education certification (e.g., CAMRT-related AI and new technology courses)
+
+**Key growth areas:**
 
 - Aging population
 - Technological advances
@@ -64,66 +100,65 @@ Diagnostic Imaging Technicians operate X-ray, CT, MRI and other medical imaging 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于大学学位及工作合同，快速处理 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准工作居留，需雇主担保 |
-| Subclass Busqueda empleo（Job Search Visa） | 毕业生可在西班牙求职一年 |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for university degrees and work contracts, processed quickly |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residence requires employer sponsorship |
+| Subclass Busqueda empleo (Job Search Visa) | Graduates can job hunt in Spain for one year |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Diagnostic Imaging Technician？**
-- 注重细节、有责任心的人群
-- 对医学影像技术感兴趣者
-- 希望在医疗行业稳定发展的人
-
-**谁不适合学Diagnostic Imaging Technician？**
-- 对辐射敏感或过度担忧者
-- 不善于与患者沟通者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who pay attention to details and are responsible
+- Those interested in medical imaging technology
+- People who want to develop steadily in the healthcare industry
+
+**Who is not suited**
+- Those sensitive to radiation or overly worried
+- Those who are not good at communicating with patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for diagnostic imaging technicians?**
+A: Entry-level annual salaries are about 22,000-28,000 euros, senior technicians can earn up to 45,000 euros, and private institutions may earn even more.
+
+**Q: How can a foreign degree become a Spanish imaging technician?**
+A: Academic credentials (Homologación) must be completed, along with training or supplementary courses required by Spain.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Diagnostic Imaging Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for diagnostic imaging technicians?**
-答：Entry-level annual salary is about €22,000-28,000, senior technicians can reach €45,000, and private institutions may pay more.
-
-**问：How to become an imaging technician in Spain with a foreign degree?**
-答：You need to get your degree recognized (Homologación) and complete additional training required by Spain.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

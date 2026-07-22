@@ -1,60 +1,96 @@
-# Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments（Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments）职业分析 · ES
+# Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments — career analysis · Spain
 
-**职业代码：5831 – Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments。**
+**Occupation code: 5831 (CNO)**
 
-Oversee and coordinate cleaning and maintenance teams in offices, hotels, restaurants, hospitals and other establishments, ensuring hygiene and facility functionality.
+Responsible for supervising and coordinating cleaning and maintenance teams in offices, hotels, restaurants, hospitals, and other venues to ensure environmental hygiene and normal facility operation.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio (中等职业培训) | 2年 | $300~$2,000（公立学校学费约300欧元/年，私立约1500欧元/年） |
-| FP Grado Superior (高级职业培训) | 2年 | $400~$2,500（公立约400欧元/年，私立可达2500欧元/年） |
+| FP Grado Medio (Secondary Vocational Training) | 2 years | $300~$2,000 (Public school tuition is about 300 euros per year, private tuition about 1500 euros per year) |
+| FP Grado Superior (Advanced Vocational Training) | 2 years | $400~$2,500 (Public about €400/year, private up to €2,500/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Técnico Superior en Gestión de Alojamientos Turísticos | Ministerio de Educación y Formación Profesional | 可选 | 旅游住宿管理高级文凭，包含清洁与维护管理模块 |
-| Certificado de Profesionalidad en Limpieza en Espacios Abiertos e Instalaciones Industriales | SEPE | 可选 | 清洁专业能力证书，非强制但有利于就业 |
+| FP Técnico Superior en Gestión de Alojamientos Turísticos | Ministerio de Educación y Formación Profesional | Optional | Advanced Diploma in Tourism Accommodation Management, including Cleaning and Maintenance Management modules |
+| Certificado de Profesionalidad en Limpieza en Espacios Abiertos e Instalaciones Industriales | SEPE | Optional | Cleaning professional competency certificate, non-mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 58,000。西班牙旅游业和酒店业持续复苏，推动了对维护清洁主管的需求。该职位在大型酒店、商业中心和医院稳定招聘，但季节性波动较大。
+**Job demand: low (★½☆☆☆).** National workforce approx. 58,000. Spain's tourism and hotel industries continue to recover, driving demand for maintenance and cleaning supervisors. This position offers stable recruitment in large hotels, commercial centers, and hospitals, but fluctuates seasonally.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，通常包括少量奖金 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，可能包含加班和绩效 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，大型酒店或商业设施主管可达更高 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, usually including a small bonus |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, which may include overtime and performance |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salaries, such as for large hotel or commercial facility managers, can be even higher |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从清洁工/维护工晋升为主管，再升任设施经理或区域运营经理。考取FP高级文凭或专业认证（如清洁管理）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This profession is affected by AI's mixed effects: administrative tasks like scheduling and reporting are easily automated, but core responsibilities like on-site supervision and interpersonal coordination are hard to replace; Entry-level positions have increased efficiency requirements due to tool applications, but overall demand remains stable.
+
+Employees can be promoted from cleaner/maintenance staff to supervisor, then to facilities manager or regional operations manager. Obtaining an FP Advanced Diploma or professional certification (such as cleaning management) can help with promotion.
+
+**Tasks most exposed to AI:**
+
+- Cleaning and maintenance scheduling and personnel allocation (replacing AI optimized scheduling systems)
+- Generation of work quality inspection reports (AI automatically aggregates sensor and visual data)
+- Inventory management and consumables ordering (AI predictive replenishment)
+- Customer complaint grading and preliminary response (AI customer service agent)
+- Daily inspection records and abnormality reporting (AI visual monitoring automatic recognition)
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance alerts to schedule repairs in advance
+- Real-time monitoring of cleaning/maintenance progress via AI dashboards to optimize resource allocation
+- Leverage AI to analyze customer satisfaction data and adjust service priorities
+- Training new employees with AI (VR simulation of cleaning processes)
+- Use AI to assist budgeting and performance analysis
+
+**Human moat:**
+
+- On-site decision-making ability to handle emergencies (such as sudden leaks and emergency cleaning).
+- Interpersonal communication and team motivation (resolving employee conflicts, maintaining customer relationships)
+- Assessment of non-standardized tasks (such as special stain treatment, historic building maintenance)
+- On-site safety and compliance supervision (ensuring standardized operations and preventing accidents)
+- Cross-departmental coordination (communication with hotel front desk, restaurant managers, etc.)
+
+**Skills to build:**
+
+- Digital scheduling and work management software (such as ManagingCleaning, Zira)
+- Basic data analysis (Excel/Tableau) is used for performance tracking
+- AI tool applications (such as intelligent inspection systems, ChatGPT report writing)
+- Customer service and conflict resolution skills
+- Basic English (used for equipment operation manuals or communication with foreign employees)
+- Lean Management and Six Sigma (Process Optimization)
+
+**Key growth areas:**
 
 - tourism recovery
 - hospitality demand
@@ -63,65 +99,64 @@ Oversee and coordinate cleaning and maintenance teams in offices, hotels, restau
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work contract (employed)） | 受雇工作居留，需雇主提供合同并证明无法在欧盟内找到合适人选。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，面向高技能专业人才（需大学学历或5年相关经验），此职位通常不符合薪资门槛。 |
+| Subclass Cuenta ajena (Work contract (employed)) | For employment-based work residence, the employer must provide a contract and prove that no suitable candidate can be found within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card targets highly skilled professionals (requiring a university degree or 5 years of relevant experience), and this position usually does not meet the salary threshold. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments？**
-- 有组织和管理能力，注重细节
-- 具备基本西班牙语沟通能力
-- 愿意适应轮班工作制度
-
-**谁不适合学Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments？**
-- 不适应体力劳动和清洁场景
-- 不善于处理客户投诉和突发问题
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Organizational and management skills, attention to detail
+- Basic Spanish communication skills
+- Willing to adapt to shift work systems
+
+**Who is not suited**
+- Not suitable for physical labor and cleaning scenarios
+- Poor at handling customer complaints and unexpected issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for cleaning supervisors in Spain?**
+A: Entry-level is about 18,000-22,000 euros per year, mid-to-high-end can reach 28,000-35,000 euros per year, and large hotels or high-end commercial facilities may be even higher.
+
+**Q: Can cleaning supervisors immigrate to Spain through skilled work?**
+A: The difficulty is quite high. This position is not classified as a high-skilled shortage occupation; it usually requires the employer to provide a regular work contract (Cuenta ajena) and passes a labor market test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cleaning supervisors in Spain?**
-答：Entry-level ranges from €18,000 to €22,000/year, mid-level to senior up to €28,000-€35,000/year, higher in large hotels or premium commercial facilities.
-
-**问：Can cleaning supervisors immigrate to Spain as skilled workers?**
-答：It is difficult. This occupation is not listed as a shortage skilled role; generally requires a standard work contract (Cuenta ajena) with a labor market test.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

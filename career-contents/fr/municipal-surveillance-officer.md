@@ -1,60 +1,95 @@
-# Municipal Surveillance Officer（Municipal Surveillance Officer）职业分析 · FR
+# Municipal Surveillance Officer — career analysis · France
 
-**职业代码：K1707 – Municipal Surveillance Officer。**
+**Occupation code: K1707 (ROME)**
 
-Municipal Surveillance Officers patrol municipal areas to ensure public order and safety, monitor violations (e.g., littering, noise complaints), and report to law enforcement. This role is a local government employee position, typically requiring French citizenship or long-term residency.
+Municipal ombudsmen patrol within municipal areas to ensure public order and safety, monitor violations (such as littering and noise disturbances), and report to law enforcement. This position belongs to local government employees and usually requires French citizenship or long-term residence.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+短期培训 | 1年（CAP或同等） | —（可通过学徒制（apprentissage）免费学习并获得津贴） |
-| BAC+2（大专） | 2年（BTS或DEUST） | $1,000~$10,000（公立大学费用低，私立学校较高） |
+| High school graduation + short-term training | 1 year (CAP or equivalent) | $0~$3,000 (Students can study for free through apprenticeships and receive stipends) |
+| BAC+2 (Associate Degree) | 2 years (BTS or DEUST) | $1,000~$10,000 (Public universities have lower fees, while private schools have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市政监察员资格证（Carte professionnelle） | 地方政府（Mairie） | 必备 | 由雇主提供在职培训后颁发，必须持有才能执行任务 |
-| 法国国籍或欧盟长期居留 | 法国政府 | 必备 | 由于涉及公共权力，通常要求法国国籍或欧盟公民 |
+| Carte professionnelle (Municipal Ombudsman) Qualification Certificate | Local Government (Mairie) | Required | It is issued after on-the-job training provided by the employer and must be held to perform the task |
+| French nationality or long-term residence in the EU | The French government | Required | Because public authority is involved, French nationality or EU citizenship is usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国市政监察员需求稳定，受地方财政影响较大。随着公众对公共安全和生活质量的关注增加，岗位数量缓慢增长。但竞争激烈，因该职位通常提供稳定工作和福利。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Demand for municipal inspectors in France is stable and is heavily influenced by local finances. As public concern for public safety and quality of life increases, the number of job openings has grown slowly. However, competition is fierce, as the position usually offers stable work and benefits.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，包括津贴 |
-| 中级（3-7年） | $24,000~$28,000 | 税前年薪，根据资历和岗位 |
-| 高级（7年以上） | $28,000~$32,000 | 税前年薪，可能含团队负责人津贴 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, including allowances |
+| Mid-level (3–7 years) | $24,000~$28,000 | Pre-tax annual salary is based on seniority and position |
+| Senior (7+ years) | $28,000~$32,000 | Pre-tax annual salary, possibly including team leader allowance |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从巡逻岗位起步，可晋升为团队负责人或协调员。一些监察员通过内部考试进入国家警察或宪兵队。长期可转向市政安全管理或政策制定岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Patrols and evidence collection for municipal inspectors are easily automated by AI, but law enforcement discretion, conflict mediation, and complex environment assessment still rely on humans, resulting in mixed outcomes for the position.
+
+Usually starting from patrol positions, you can be promoted to team leader or coordinator. Some inspectors enter the national police or gendarmerie through internal exams. In the long term, they can transition to positions in municipal safety management or policy formulation.
+
+**Tasks most exposed to AI:**
+
+- Automatically detecting violations using fixed cameras or drones (such as littering and noise disturbances)
+- Generate standardized patrol logs and violation reports
+- Automatically recognizes license plates and faces and compares them to the database
+- Handling simple citizen complaints through chatbots
+- Automatically dispatch patrol routes and resource allocation
+
+**Where AI augments the role:**
+
+- AI image recognition assists in quickly locating problematic urban areas, improving inspection efficiency
+- Data analysis tools predict high-violation periods and hotspots to optimize patrol plans
+- Mobile terminals receive real-time regulatory updates and case libraries to support on-site decision-making
+- Augmented reality glasses overlay violation records and historical information to assist on-site evidence collection
+- Intelligent voice transcription and summarization tools to quickly record dispute processes
+
+**Human moat:**
+
+- Complex on-site decisions involving personal safety and enforcement discretion
+- Interpersonal communication skills such as conflict mediation and emotional soothing
+- Cross-departmental coordination and community relationship maintenance
+- Flexible interpretation of legal provisions and discretionary penalties
+- Creative adaptation in emergent, unstructured events
+
+**Skills to build:**
+
+- AI monitoring system operation and data interpretation
+- Data analysis and visualization (such as Tableau, Python)
+- Conflict mediation and crisis communication skills
+- Basic ability to update public legal knowledge
+- Proficient in digital reporting and mobile office tools
+- Fundamentals of Urban GIS and Geospatial Analysis
+
+**Key growth areas:**
 
 - Public Safety
 - Urban Order
@@ -63,64 +98,66 @@ Municipal Surveillance Officers patrol municipal areas to ensure public order an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié) Work Permit） | 适用于在法国找到工作的外国人，但该职位通常优先考虑欧盟公民，非欧盟申请人需证明无合适欧盟候选人。 |
+| Subclass Salarié (Employee (Salarié) Work Permit) | This applies to foreigners seeking work in France, but the position usually prefers EU citizens; non-EU applicants must prove that there are no suitable EU candidates. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Municipal Surveillance Officer？**
-- 喜欢社区服务、维护公共秩序的人
-- 希望获得稳定地方政府工作的人
-- 法语流利且熟悉法国法规的人
+**Who is suited**
+- People who enjoy community service and maintaining public order
+- People who hope to secure stable jobs in local government
+- Someone fluent in French and familiar with French regulations
 
-**谁不适合学Municipal Surveillance Officer？**
-- 非欧盟公民且无长期居留身份的人
-- 追求高薪或快速职业晋升的人
+**Who is not suited**
+- Non-EU citizens without long-term residence status
+- People pursuing high salary or fast career promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary of municipal inspectors?**
+A: Pre-tax annual salary is about 20,000-32,000 euros, entry-level salary about 20,000-24,000 euros, and seniors about 28,000-32,000 euros. Salary levels in France are considered moderately low.
+
+**Q: Can non-EU citizens work as municipal ombudsmen?**
+A: It's very difficult. This position usually requires French nationality or long-term EU residency, as it involves public authority and law enforcement. Non-EU citizens can hardly obtain work visas.
+
+**Q: Are there promotion opportunities for municipal inspectors?**
+A: Yes, you can be promoted to team leader or coordinator. Some people transfer to the National Police or Gendarmerie through internal exams, but promotion opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Municipal Surveillance Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Municipal Surveillance Officer?**
-答：Gross annual salary ranges from €20,000 to €32,000; entry-level around €20,000-€24,000, senior around €28,000-€32,000. It is moderately low in France.
-
-**问：Can non-EU citizens work as Municipal Surveillance Officers?**
-答：Very difficult. The role usually requires French citizenship or EU long-term residency due to public authority duties. Non-EU citizens rarely obtain work permits.
-
-**问：Are there promotion opportunities for Municipal Surveillance Officers?**
-答：Yes, to team leader or coordinator. Some transfer to national police or gendarmerie via internal exams, but advancement is limited.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

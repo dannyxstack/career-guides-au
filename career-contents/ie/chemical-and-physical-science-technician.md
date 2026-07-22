@@ -1,58 +1,93 @@
-# Chemical and Physical Science Technician（Chemical and Physical Science Technician）职业分析 · IE
+# Chemical and Physical Science Technician — career analysis · Ireland
 
-**职业代码：3111 – Chemical and Physical Science Technician。**
+**Occupation code: 3111 (ISCO08)**
 
-In Ireland, Chemical and Physical Science Technicians support scientific research in labs and industrial settings, performing experiments, maintaining equipment, and analyzing data, crucial in pharma, biotech, and environmental sectors.
+In Ireland, chemical and physical science technicians support scientific research in laboratories and industrial settings, conducting experiments, maintaining equipment, and analyzing data. They play a key role in pharmaceuticals, biotechnology, and environmental fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等证书或文凭 | 2年 | $10,000~$15,000（学费因院校而异） |
-| 学士学位（本科） | 3-4年 | $15,000~$25,000（爱尔兰大学学费） |
+| Advanced certificate or diploma | 2 years | $10,000~$15,000 (Tuition fees vary by institution) |
+| Bachelor's degree | 3-4 years | $15,000~$25,000 (Irish university tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 科学实验室技术文凭 | 爱尔兰理工学院 | 可选 | 常见入门资格 |
-| 化学或物理相关学位 | 爱尔兰大学 | 可选 | 部分雇主要求 |
+| Diploma of Science Laboratory Technology | Institute of Technology, Ireland | Optional | Common entry qualifications |
+| Degree in chemistry or physics | Irish universities | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。爱尔兰制药和生物技术行业持续增长，预计2024-2030年对科学技师的需求将上升，尤其在都柏林和科克等主要产业集群地区。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Ireland's pharmaceutical and biotechnology industry continues to grow, with demand for science technicians expected to rise from 2024-2030, especially in major industry clusters like Dublin and Cork.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年收入 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年收入 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年收入 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Gross annual income before tax |
+| Mid-level (3–7 years) | $38,000~$48,000 | Gross annual income before tax |
+| Senior (7+ years) | $48,000~$60,000 | Gross annual income before tax |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级技师晋升为高级技师或实验室主管，也可通过进修成为研究科学家或质量保证专家，职业路径清晰。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on chemical and physical science technician roles is mixed: routine laboratory operations and data processing will be automated, but AI enhances skills in instrument maintenance, complex experimental design, and innovative research, requiring practitioners to upgrade to advanced analysis and technical management.
+
+Can progress from junior technician to senior technician or laboratory supervisor, or become a research scientist or quality assurance specialist through further study, with a clear career path.
+
+**Tasks most exposed to AI:**
+
+- Routine sample preparation and repetitive experimental operations
+- Basic data recording, sorting, and preliminary statistical analysis.
+- Instrument calibration and basic fault troubleshooting
+- Standard report generation and document writing
+
+**Where AI augments the role:**
+
+- Use AI to analyze complex experimental data and uncover hidden patterns
+- Optimise experimental parameters and processes through machine learning
+- AI-assisted automatic maintenance and predictive repair of instruments
+- Use AI simulation and modeling to assist research design
+- AI automates sample tracking and lab inventory management
+
+**Human moat:**
+
+- Interdisciplinary innovative thinking and complex problem solving
+- Critical judgment for new method development and validation
+- On-site troubleshooting and repair for equipment failures
+- Communication and collaboration with researchers and engineers
+- Ultimate responsibility for safety and ethical decisions
+
+**Skills to build:**
+
+- Python/R data analysis and automation scripting
+- Machine learning basics and applications (e.g., scikit-learn)
+- Use of Laboratory Information Management Systems (LIMS)
+- Data visualization and report automation (e.g., Tableau)
+- AI-Driven Instrument Operation and Maintenance
+- Design of Experiments (DoE) and statistical methods
+
+**Key growth areas:**
 
 - Pharmaceutical
 - Biotechnology
@@ -61,68 +96,67 @@ In Ireland, Chemical and Physical Science Technicians support scientific researc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于科学技师，属于紧缺职业列表，可快速获得居留权。 |
-| Subclass General Employment P（General Employment Permit） | 若不在紧缺列表，可申请，需劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，收入达标可申请。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to Science Technicians, included on the critical skills list, enabling fast-track residence permits. |
+| Subclass General Employment P (General Employment Permit) | If not on the shortage list, can apply but requires labor market testing |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions, can apply if income meets requirements. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical and Physical Science Technician？**
-- 注重细节、动手能力强的人
-- 对科学实验和数据分析感兴趣的人
-- 愿意在实验室环境下工作的人
-
-**谁不适合学Chemical and Physical Science Technician？**
-- 不喜欢重复性工作的人
-- 对化学物质或辐射环境敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on person
+- People interested in scientific experiments and data analysis
+- Those willing to work in a laboratory environment
+
+**Who is not suited**
+- People who dislike repetitive work
+- Individuals sensitive to chemicals or radiation environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemical and physical science technicians in Ireland?**
+A: Junior salary approximately EUR 30,000-38,000 per year, intermediate EUR 38,000-48,000, senior up to EUR 60,000.
+
+**Q: How to immigrate to Ireland as a Chemical and Physical Science Technician?**
+A: Apply via the Critical Skills Employment Permit or General Employment Permit; the EU Blue Card is also applicable. Requires employer sponsorship.
+
+**Q: What educational background is required?**
+A: Typically requires advanced certificate or relevant degree, such as a bachelor's in chemistry or physics.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Chemical and Physical Science Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Chemical and Physical Science Technicians in Ireland?**
-答：Entry-level annual salary is about €30,000-38,000, mid-level €38,000-48,000, senior up to €60,000.
-
-**问：How to migrate to Ireland as a Chemical and Physical Science Technician?**
-答：Apply via Critical Skills Employment Permit (shortage occupation) or General Employment Permit, also eligible for EU Blue Card. Employer sponsorship required.
-
-**问：What educational background is required?**
-答：Typically a higher certificate or relevant degree, such as a Bachelor's in Chemistry or Physics.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

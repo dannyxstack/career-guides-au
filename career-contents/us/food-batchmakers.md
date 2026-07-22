@@ -1,60 +1,94 @@
-# Food Batchmakers（Food Batchmakers）职业分析 · 美国
+# Food Batchmakers — career analysis · United States
 
-**职业代码：51-3092 – Food Batchmakers。**
+**Occupation code: 51-3092 (SOC)**
 
-Operate equipment to mix or blend ingredients in food manufacturing, including candy and cheese making.
+Equipment operator who mixes or blends ingredients in food manufacturing, including candy and cheese making.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常不需要额外费用） |
-| 在职培训 | 1-3个月 | —（雇主提供培训） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no additional cost) |
+| On-the-job training | 1-3 months. | $0~$0 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 大多数雇主只要求高中文凭 |
-| 食品加工证书 | 社区学院 | 可选 | 可选，有助于晋升 |
+| No mandatory requirements | None | Optional | Most employers require only a high school diploma |
+| Food Processing Certificate | Community college | Optional | Optional, helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 75,000。美国食品制造业稳定增长，受消费需求驱动，就业机会多数在大型食品加工厂。自动化可能影响部分岗位，但手工技能仍受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 75,000. The US food manufacturing industry is growing steadily, driven by consumer demand, with most job opportunities in large food processing plants. Automation may affect some positions, but manual skills remain in demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级工资 |
-| 中级（3-7年） | $35,000~$45,000 | 经验丰富操作员 |
-| 高级（7年以上） | $45,000~$55,000 | 高级技师或班组长 |
+| Median salary | $42,290 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced operator |
+| Senior (7+ years) | $45,000~$55,000 | Senior technician or team leader |
+| average salary | $43,750 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级操作员可晋升为高级操作员或班组长，积累经验后可转岗为质量控制或生产主管。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Food ingredient technicians primarily handle standardized ingredient weighing, mixing, and simple equipment operation, which are highly repetitive and rule-based, easily replaced by automation. AI and robots will significantly reduce positions, drastically cutting entry-level job opportunities.
+
+Entry-level operators can advance to senior operators or team leads, and with experience transition to quality control or production supervisor roles.
+
+**Tasks most exposed to AI:**
+
+- Weigh and feed solid/liquid raw materials according to formula
+- Operate mixers and blending tanks for timed mixing
+- Records batch raw material usage and production parameters
+- Conduct simple sensory checks (color, smell) on raw materials and semi-finished products
+- Clean mixing equipment and work areas
+
+**Where AI augments the role:**
+
+- Adjust raw material ratios and mixing parameters through AI formula optimization system
+- Using sensor data and AI prediction models for preventive maintenance of equipment
+- Simulate production results of different batches using digital twin systems
+- Real-time product inspection using AI-driven quality inspection systems
+
+**Human moat:**
+
+- Flexibly handle raw material batch variations (e.g., moisture content, viscosity fluctuations)
+- Quick manual intervention during sudden equipment failures or raw material abnormalities
+- Experimental blending of new raw materials or non-standard formulas
+- Multi-functional coordination with production supervisors, quality inspectors, and maintenance workers
+
+**Skills to build:**
+
+- Basic industrial automation programming (PLC basics)
+- Food processing data analysis (recipe optimization and quality control)
+- Industrial robot operation and maintenance (collaborative robots)
+- Digital management software for food production (e.g., MES)
+- HACCP and food safety traceability system knowledge
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Food Manufacturing
 - Automation
@@ -63,62 +97,64 @@ Operate equipment to mix or blend ingredients in food manufacturing, including c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因职业通常不要求学士学位 |
-| Subclass EB-3（Employment-Based Third Preference） | 仅当雇主提供PERM劳工证且职位符合要求时可能，但极少见 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (Employment-Based Third Preference) | Possible only if the employer provides a PERM labor certification and the position meets requirements, but extremely rare |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Batchmakers？**
-- 喜欢动手操作
-- 适应站立工作
-- 对食品制造感兴趣
+**Who is suited**
+- Enjoys hands-on work
+- Able to stand while working
+- Interested in food manufacturing
 
-**谁不适合学Food Batchmakers？**
-- 不喜欢重复劳动
-- 希望高薪和晋升机会
+**Who is not suited**
+- Dislikes repetitive work
+- Those seeking high salaries and promotion opportunities.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a food ingredient handler?**
+A: Annual salary typically between $28,000 and $55,000, depending on experience and location.
+
+**Q: Are there pathways for food ingredient workers to immigrate to the US?**
+A: Almost none, as the occupation typically does not meet educational requirements for H-1B or green card applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Food Batchmakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Food Batchmakers?**
-答：Annual salary typically ranges from $28,000 to $55,000 depending on experience and location.
-
-**问：Are there immigration pathways to the US for Food Batchmakers?**
-答：Very limited, as the occupation typically does not meet education requirements for H-1B or green card.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

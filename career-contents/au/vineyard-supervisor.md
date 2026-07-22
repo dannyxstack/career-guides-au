@@ -1,59 +1,94 @@
-# Vineyard Supervisor（Vineyard Supervisor）职业分析 · 澳大利亚
+# Vineyard Supervisor — career analysis · Australia
 
-**职业代码：363117 – Vineyard Supervisor。**
+**Occupation code: 363117 (ANZSCO)**
 
-Vineyard Supervisor oversees daily vineyard operations including planting, pruning, irrigation, and harvesting to ensure grape yield and quality meet standards.
+Vineyard Supervisor oversees the daily operations of viticulture, including planting, pruning, irrigation, and harvesting, ensuring grape yield and quality meet standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书（Certificate III/IV） | 1-2年 | $5,000~$15,000（TAFE或私立学院，含实习） |
-| 相关学士学位（如农业科学、葡萄栽培） | 3-4年 | $30,000~$60,000（大学学费，每年约1-2万澳元） |
+| Vocational Education Certificate (Certificate III/IV) | 1-2 years | $5,000~$15,000 (TAFE or private college, including internship.) |
+| Relevant bachelor's degree (e.g. Agricultural Science, Viticulture) | 3-4 years | $30,000~$60,000 (University tuition, about AUD $10,000-20,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 葡萄栽培与酿酒文凭（Diploma of Viticulture） | TAFE或认证培训机构 | 可选 | 提升管理技能，非强制但受雇主青睐 |
-| 农业四级证书（Certificate IV in Agriculture） | TAFE | 可选 | 常见入职要求 |
-| 职业安全与健康培训（White Card） | SafeWork NSW等 | 必备 | 建筑工地（含农业）必备 |
+| Occupational Safety and Health Training (White Card) | SafeWork NSW, etc. | Required | Essential for construction sites (including agriculture) |
+| Diploma of Viticulture | TAFE or accredited training institution | Optional | Enhance management skills, not mandatory but favored by employers |
+| Certificate IV in Agriculture | TAFE | Optional | Common entry requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,500。澳洲葡萄酒产业持续增长，尤其在南澳、新州和维多利亚州，对经验丰富的葡萄园主管需求稳定。气候变化和可持续农业实践带来新挑战，但就业前景总体积极。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 2,500. The Australian wine industry continues to grow, especially in South Australia, New South Wales, and Victoria, with stable demand for experienced vineyard supervisors. Climate change and sustainable farming practices present new challenges, but overall employment prospects are positive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 含奖金及季节性加班 |
-| 中级（3-7年） | $65,000~$80,000 | 取决于葡萄园规模和产量 |
-| 高级（7年以上） | $80,000~$100,000 | 大型酒庄或管理多个葡萄园 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$65,000 | Including bonuses and seasonal overtime |
+| Mid-level (3–7 years) | $65,000~$80,000 | Depends on vineyard size and yield |
+| Senior (7+ years) | $80,000~$100,000 | Large winery or managing multiple vineyards |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从葡萄园工人晋升为主管，再至农场经理或区域运营经理。积累经验后可进入酿酒厂管理或农业咨询领域，或自主经营葡萄园。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
+
+Can progress from vineyard worker to supervisor, then to farm manager or regional operations manager. With experience, can move into winery management, agricultural consulting, or running one's own vineyard.
+
+**Tasks most exposed to AI:**
+
+- Manually recording temperature, rainfall, and pest data
+- Routine grapevine pruning pattern recognition and decision-making
+- Calculation and adjustment of irrigation schedules
+- Yield prediction and harvest time estimation
+
+**Where AI augments the role:**
+
+- Using AI vision systems to quickly identify pests, diseases, and nutrient deficiency symptoms
+- Optimize irrigation and fertilization plans using sensors and algorithms
+- Use drones or robots for large vineyard inspection
+- Predict yield, disease risks, and optimal harvest time based on historical data
+- Automated recording and generation of compliance reports
+
+**Human moat:**
+
+- Intuition and hands-on experience with soil and plant physiology
+- Handle complex environmental variables (e.g., microclimate, soil heterogeneity)
+- Fine manual tasks such as pruning and harvesting
+- On-site communication and coordination with farm teams and suppliers
+- Response to emergencies (e.g., equipment failure, extreme weather)
+
+**Skills to build:**
+
+- Operation and maintenance of agricultural IoT devices
+- Basic data analysis (Excel, Python, or specialized agricultural software)
+- Drone operation and image analysis
+- Sustainable agriculture management practices
+- Basic mechanical maintenance and troubleshooting of automation systems
+- Digital record keeping and compliance report generation
+
+**Key growth areas:**
 
 - Wine Industry Growth
 - Sustainable Viticulture
@@ -62,69 +97,68 @@ Vineyard Supervisor oversees daily vineyard operations including planting, pruni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保，职业在短期清单上，可转186 |
-| Subclass 186（Employer Nomination Scheme Visa） | 雇主担保永居，需通过职业评估和三年工作经验 |
-| Subclass 494（Skilled Employer Sponsored Regional Visa） | 偏远地区雇主担保，转191永居 |
-| Subclass 491（Skilled Work Regional Visa） | 州担保偏远地区临时签证，转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, occupation on short-term list, can transition to 186 |
+| Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent residency requires skills assessment and three years of work experience |
+| Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, transitioning to 191 permanent residence |
+| Subclass 491 (Skilled Work Regional Visa) | State-nominated regional provisional visa, transitioning to 191 permanent residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vineyard Supervisor？**
-- 热爱户外工作和农业实践
-- 具备管理能力和团队协作精神
-- 愿意在偏远地区或乡村生活
-
-**谁不适合学Vineyard Supervisor？**
-- 不喜欢体力劳动和季节性工作强度
-- 期待高薪快速回报
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for outdoor work and agricultural practices
+- Possess management skills and teamwork spirit
+- Willing to live in remote or regional areas
+
+**Who is not suited**
+- Dislikes physical labor and seasonal work intensity
+- Expecting high salary and quick returns
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for vineyard supervisors?**
+A: Junior annual salary approx. 5.5-6.5k AUD, intermediate 6.5-8k, senior (7+ years) up to 8-10k AUD, some include bonuses. Higher in remote areas.
+
+**Q: What are the immigration pathways for vineyard supervisors?**
+A: Can migrate via employer sponsorship (482/186/494) or regional state nomination (491). Requires skills assessment, typically relevant degree and at least 2-3 years of experience.
+
+**Q: What skills does a vineyard supervisor need?**
+A: Requires knowledge of viticulture, team management, equipment operation (e.g., tractors), pest and disease control, irrigation system management, and basic financial record-keeping.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Vineyard Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Vineyard Supervisor?**
-答：Entry-level earns AUD 55,000-65,000, mid-level AUD 65,000-80,000, senior (7+ years) up to AUD 80,000-100,000, with bonuses in some cases.
-
-**问：What are the migration pathways for a Vineyard Supervisor?**
-答：Employer sponsorship (482/186/494) or regional state nomination (491). Requires skills assessment, relevant qualification, and 2-3 years experience.
-
-**问：What skills are needed for a Vineyard Supervisor?**
-答：Viticulture knowledge, team management, equipment operation (e.g., tractors), pest and disease control, irrigation management, and basic record-keeping.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

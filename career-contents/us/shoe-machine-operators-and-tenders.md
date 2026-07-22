@@ -1,60 +1,95 @@
-# Shoe Machine Operators and Tenders（Shoe Machine Operators and Tenders）职业分析 · 美国
+# Shoe Machine Operators and Tenders — career analysis · United States
 
-**职业代码：51-6042 – Shoe Machine Operators and Tenders。**
+**Occupation code: 51-6042 (SOC)**
 
-Operate or tend a variety of machines to join, decorate, reinforce, or finish shoes and shoe parts.
+Operate or tend various machines to assemble, decorate, reinforce, or finish footwear and footwear parts.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常无需高等教育） |
-| 在职培训 | 1-3个月 | —（雇主提供，可能涉及材料费） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no higher education required) |
+| On-the-job training | 1-3 months. | $0~$1,000 (Provided by employer, may cover material costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定法定资格 | 无 | 可选 | 多数雇主要求高中文凭并提供在职培训 |
-| 安全培训 | 雇主或职业安全机构 | 可选 | 涉及机器操作安全，非强制性但通常要求 |
+| No specific legal qualifications | None | Optional | Most employers require a high school diploma and provide on-the-job training |
+| Safety training | Employer or occupational safety agency | Optional | Involves machine operation safety, not mandatory but usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 5,600。该职业在美国就业前景不佳，受自动化和海外制造影响，岗位数量预计下降。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 5,600. The employment outlook for this occupation in the US is poor, with job numbers expected to decline due to automation and overseas manufacturing.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 取决于地区和雇主 |
-| 中级（3-5年） | $28,000~$35,000 | 有经验后薪资稍有提升 |
-| 高级（5年以上） | $32,000~$40,000 | 管理或技术岗位可达上限 |
+| Median salary | $35,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Depends on region and employer |
+| Mid-level (3–5 years) | $28,000~$35,000 | Slight salary increase with experience |
+| Senior (5+ years) | $32,000~$40,000 | Management or technical roles can reach the upper limit. |
+| average salary | $36,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径有限，通常可向制鞋机器技工、生产线主管或质量控制员发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
+
+Limited advancement paths; typically can progress to shoe machine technician, production line supervisor, or quality control inspector.
+
+**Tasks most exposed to AI:**
+
+- Uses machine vision to identify shoe component defects and automatically reject
+- Programming and execution of automated sewing and bonding processes
+- Automatically adjust machine parameters (e.g., stitch length, glue amount) based on order data
+- Monitoring and fault alarming of automated conveyor and sorting systems
+- Using AI quality inspection systems to replace manual inspection
+
+**Where AI augments the role:**
+
+- Real-time equipment monitoring via digital twin technology to predict maintenance needs
+- Use AI to optimize production scheduling and material delivery
+- Use AR glasses to assist complex assembly or repair
+- Identify production line bottlenecks through data analysis to improve overall efficiency
+- Collaborative robots working with humans for high-precision processes
+
+**Human moat:**
+
+- Handling non-standard, complex, or easily deformable flexible materials (e.g., leather)
+- Quickly diagnose and repair mechanical faults in automated equipment
+- Negotiate process adjustments with designers and quality inspectors
+- rapid changeover and adjustment in small-batch, high-variety production
+
+**Skills to build:**
+
+- Automated equipment programming and debugging (PLC/robots)
+- Industrial data analysis and basic statistics
+- Flexible production and quick-change technology.
+- Basic mechanical repair and mechatronics knowledge
+- Human-robot collaboration safety standards
+- Digital production management system operation
+
+**Key growth areas:**
 
 - Automation Impact
 - Offshoring
@@ -63,62 +98,64 @@ Operate or tend a variety of machines to join, decorate, reinforce, or finish sh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适合，该职业不符合专业职位要求 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保绿卡路径，但需求极低 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not suitable; the occupation does not meet professional position requirements |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card path, but demand is very low |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoe Machine Operators and Tenders？**
-- 对制鞋工艺有热情者
-- 偏好重复性体力工作的人
-- 学历不高但愿意学习技能的人
+**Who is suited**
+- People passionate about shoemaking techniques
+- People who prefer repetitive physical work
+- People with low education but willing to learn skills
 
-**谁不适合学Shoe Machine Operators and Tenders？**
-- 希望高薪和晋升机会者
-- 不喜欢重复性机器操作的人
+**Who is not suited**
+- For those seeking high salary and promotion opportunities
+- People who dislike repetitive machine operations.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a shoemaking machine operator?**
+A: Average annual salary about $28,000 to $35,000, experienced up to $40,000.
+
+**Q: Is there a US work visa or green card path for this occupation?**
+A: Rarely available; this occupation typically does not meet H-1B specialty occupation requirements, and employer-sponsored green cards are extremely rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Shoe Machine Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for shoe machine operators?**
-答：Average annual salary ranges from $28,000 to $35,000, with experienced workers earning up to $40,000.
-
-**问：Are there US work visa or green card paths for this occupation?**
-答：Almost none; it typically does not qualify for H-1B specialty occupation, and employer-sponsored green cards are extremely rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Registered specialist nurses（Registered specialist nurses）职业分析 · UK
+# Registered specialist nurses — career analysis · United Kingdom
 
-**职业代码：2233 – Registered specialist nurses。**
+**Occupation code: 2233 (SOC)**
 
-Registered specialist nurses provide specialised nursing care, plan ongoing treatment, take responsibility for patients within their sphere of practice, assist doctors, and work within healthcare teams while advising on nursing practices.
+Registered specialist nurses provide specialist care and ongoing treatment to patients, manage patient care within their scope of practice, assist doctors and collaborate with other healthcare professionals, and provide nursing education and counseling.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位（护理） | 3年 | $30,000~$45,000（国际生学费，含实习） |
-| 专科护理硕士 | 1年 | $15,000~$25,000（国际生学费） |
+| Bachelor's degree (Nursing) | 3 years | $30,000~$45,000 (International student tuition, including internship.) |
+| Master of Nursing (Specialty) | 1 year | $15,000~$25,000 (International student tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册护士资格（NMC注册） | Nursing and Midwifery Council (NMC) | 必备 | 必修，通过护理学位及NMC考试 |
-| 专科护理硕士/研究生文凭 | 认证大学 | 可选 | 通常为专科护士岗位要求 |
-| 高级生命支持证书 | Resuscitation Council UK | 可选 | 许多专科岗位要求 |
+| Registered Nurse Qualification (NMC Registration) | Nursing and Midwifery Council (NMC) | Required | Mandatory, pass nursing degree and NMC exam |
+| Master of Specialist Nursing / Graduate Diploma | Accredited university | Optional | Usually requires a specialist nurse position |
+| Advanced life support certificate | Resuscitation Council UK | Optional | Required by many specialist positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。英国专科护士需求持续增长，受老龄化社会及NHS扩张影响，预计就业岗位将增长约15-20%。尤其在急症、社区及专科诊所领域紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Demand for UK specialist nurses continues to grow, driven by an aging society and NHS expansion; employment is expected to increase by about 15-20%. Particularly in demand in acute care, community, and specialist clinics.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | Band 5-6, NHS薪资 |
-| 中级（3-8年） | $34,000~$42,000 | Band 6-7 |
-| 高级（8年以上） | $42,000~$55,000 | Band 7-8，含临床专家或管理岗 |
+| Median salary | $45,140 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Band 5-6, NHS pay scales |
+| Mid-level (3–8 years) | $34,000~$42,000 | Band 6-7 |
+| Senior (8+ years) | $42,000~$55,000 | Band 7-8, including clinical specialist or management roles |
+| average salary | $46,165 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级护士通过专科培训（如重症监护、肿瘤学）晋升为专科护士，后可晋升为临床护理专家、护理顾问、护理管理或教育科研岗。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Impact of AI/automation on registered specialist nurses is mixed: some documentation and data analysis tasks will be replaced, but direct patient care, clinical judgment, and team collaboration are hard to automate; AI can enhance diagnostic assistance and individualized care planning.
+
+Entry-level nurses can advance to specialist nurses through specialised training (e.g., intensive care, oncology), then progress to clinical nurse specialist, nursing consultant, nursing management, or education and research roles.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Auto-entry and summary generation for electronic health records
+- Automated generation of standardised nursing care plans based on guidelines
+- Drug interaction checks and dose calculations
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: image analysis, pathology result interpretation
+- Personalised care plans: predictive models based on patient data
+- Real-time translation and multilingual patient communication
+- Remote monitoring and telehealth platform management
+- Clinical decision support: immediate reference to latest research evidence
+
+**Human moat:**
+
+- Complex Clinical Judgment and Emergency Decision Making
+- Emotional support and human care
+- Cross-disciplinary team communication and collaboration
+- Empathy and personalized guidance in patient education
+- Fine manual dexterity and adaptability in technical operations
+
+**Skills to build:**
+
+- Use of AI-assisted clinical decision tools
+- Telemedicine and digital health platform operation
+- Basic data analysis and AI ethics
+- Cross-disciplinary collaboration and leadership
+- Advanced communication and patient education skills
+- Continuous learning: Evidence-based nursing practice updates
+
+**Key growth areas:**
 
 - ageing population
 - NHS expansion
@@ -64,69 +99,68 @@ Registered specialist nurses provide specialised nursing care, plan ongoing trea
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker visa） | 适用于医疗专业人员，包括专科护士，享有快速通道及较低费用。 |
-| Subclass Skilled Worker（Skilled Worker visa） | 若雇主担保，专科护士符合资格，但需满足薪资门槛。 |
-| Subclass Global Talent（Global Talent visa） | 仅适用于具有杰出成就或领导力的资深护理专家。 |
+| Subclass Health & Care Worker (Health and Care Worker visa) | Applicable to medical professionals, including specialist nurses, with fast track and lower fees. |
+| Subclass Skilled Worker (Skilled Worker visa) | If employer-sponsored, specialized nurses are eligible, but must meet salary thresholds. |
+| Subclass Global Talent (Global Talent visa) | Only applicable to senior nursing specialists with outstanding achievements or leadership. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered specialist nurses？**
-- 有护理背景并希望专攻特定领域的人
-- 有爱心且能承受高强度工作的人
-- 希望在英国NHS体系内稳定发展的人
-
-**谁不适合学Registered specialist nurses？**
-- 不喜欢临床工作或轮班的人
-- 无法承受心理压力或快速决策压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a nursing background who want to specialise in a specific area
+- People with compassion and ability to handle high-intensity work
+- Those who want to develop steadily within the UK NHS system
+
+**Who is not suited**
+- People who dislike clinical work or shift work
+- Those unable to handle psychological pressure or rapid decision-making pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a registered specialist nurse?**
+A: Entry-level approximately £28,000-£34,000, mid-level £34,000-£42,000, senior up to £55,000+, depending on experience and NHS band.
+
+**Q: How can foreign nurses become specialist nurses in the UK through skilled migration?**
+A: Requires NMC registration, typically an English test (IELTS 7.0 or OET), a computer test and internship, then you can apply for a Health & Care Worker visa.
+
+**Q: What positions can a specialized nurse advance to?**
+A: Can advance to clinical nurse specialist, nursing consultant, nursing manager, education or research roles; some may become advanced clinical practitioners (ACPs).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Registered specialist nurses为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a registered specialist nurse?**
-答：Entry level around £28,000-£34,000, mid-level £34,000-£42,000, senior up to £55,000+, depending on experience and NHS band.
-
-**问：How can a foreign nurse become a specialist nurse in the UK via skilled migration?**
-答：Requires NMC registration, typically English test (IELTS 7.0 or OET), computer-based test, and supervised practice, then apply for Health and Care Worker visa.
-
-**问：What career progression is available for specialist nurses?**
-答：Can advance to clinical nurse specialist, nurse consultant, nursing manager, educator, researcher, or advanced clinical practitioner.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

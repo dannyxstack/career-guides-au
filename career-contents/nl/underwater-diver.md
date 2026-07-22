@@ -1,61 +1,94 @@
-# Underwater Diver（Underwater Diver）职业分析 · NL
+# Underwater Diver — career analysis · Netherlands
 
-**职业代码：7541 – Underwater Diver。**
+**Occupation code: 7541 (ISCO08)**
 
-Underwater divers perform inspections, repairs, construction, and rescue operations underwater, typically in offshore energy, ports, and bridge engineering.
+Underwater divers perform inspection, maintenance, construction and rescue work, commonly used in offshore energy, ports and bridge engineering.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（MBO） | 3-4年 | $5,000~$15,000（公立学校学费，每年约1000-4000欧元） |
-| 高级潜水培训 | 1-2年 | $10,000~$25,000（国际潜水学校证书课程） |
+| Vocational education (MBO) | 3-4 years | $5,000~$15,000 (Public school tuition fees, approximately €1,000-4,000 per year) |
+| Advanced dive training | 1-2 years | $10,000~$25,000 (International diving school certification course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业潜水员证书 | 荷兰潜水中心（NDC） | 必备 | 需通过理论和实践考试 |
-| 国际潜水学校协会（ADS）认证 | ADS | 可选 | 国际认可，提升就业机会 |
-| 健康证明 | 职业健康服务机构 | 必备 | 每年体检，确保潜水健康 |
+| Commercial diver certificate | Dutch Diving Center (NDC) | Required | Must pass theoretical and practical exams |
+| Health certificate | Occupational Health Service Organizations | Required | Annual medical examination to ensure fitness for diving |
+| International Diving Schools Association (ADS) certification | ADS | Optional | International recognition, enhancing employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。荷兰海上风电场扩张和港口维护需求稳定，潜水员就业前景良好，但需持有专业资质。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Due to steady expansion of Dutch offshore wind farms and port maintenance needs, job prospects for divers are good, but professional qualifications are required.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含海上津贴 |
-| 中级（3-8年） | $45,000~$60,000 | 税前年薪，视技能和项目 |
-| 高级（8年以上） | $60,000~$80,000 | 税前年薪，含监督职责 |
+| Median salary | $22,329 | Median salary (official: CBS employee hourly median €11.3/hr × 1976h annualized, BRC group 1122 Keukenhulpen; P25–P75 €15,808–€31,418, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual salary before tax, including sea allowance |
+| Mid-level (3–8 years) | $45,000~$60,000 | Pre-tax annual salary, depending on skills and project |
+| Senior (8+ years) | $60,000~$80,000 | Annual pre-tax salary, including supervisory duties |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从商业潜水员晋升为潜水监督或水下项目经理，需积累经验和取得高级证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of underwater divers is less affected by AI automation, but remote-operated and autonomous underwater vehicles (AUVs) will take over some inspection tasks, while enhancing detection and data processing capabilities. High-risk operations still require human flexibility and manual skills.
+
+Can progress from commercial diver to dive supervisor or underwater project manager, requiring experience accumulation and advanced certifications.
+
+**Tasks most exposed to AI:**
+
+- Routine underwater structural inspection and video recording
+- Simple measurement of underwater environmental parameters (temperature, pressure)
+- Repetitive underwater cleaning (e.g., hull fouling)
+- Basic underwater welding positioning assistance
+
+**Where AI augments the role:**
+
+- AI-assisted real-time data analysis helps identify structural defects
+- Augmented reality (AR) helmet overlays repair guides.
+- Coordinated operation of autonomous underwater vehicles (AUVs)
+- Intelligent underwater communication and positioning systems
+
+**Human moat:**
+
+- Flexible adaptability in complex underwater environments
+- Fine manual operations (e.g., underwater welding, cutting)
+- Human intuition and judgment in emergency rescue
+- Team collaboration and on-site communication coordination
+- Psychological and physical adaptation to high-pressure environments
+
+**Skills to build:**
+
+- ROV (Remotely Operated Vehicle) operation and maintenance
+- Underwater sonar and imaging data analysis
+- Use of underwater AI-assisted software (e.g., automatic defect recognition)
+- Advanced Underwater Welding and Cutting Technology Certification
+- Underwater communication and diving equipment electronic repair
+
+**Key growth areas:**
 
 - Offshore wind
 - Underwater inspection
@@ -64,68 +97,67 @@ Underwater divers perform inspections, repairs, construction, and rescue operati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需雇主担保，年收入门槛约€5,000/月 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育及高薪职位，需雇主担保，年收入门槛约€56,000 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, requiring employer sponsorship, with an annual income threshold of approximately €5,000/month. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education and high-paid positions, requires employer sponsorship, annual income threshold of approximately €56,000 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Underwater Diver？**
-- 身体强健，无恐水症
-- 有机械或工程背景
-- 能适应高压和孤立工作环境
-
-**谁不适合学Underwater Diver？**
-- 有慢性健康问题（如耳鼻喉疾病）
-- 不喜欢封闭空间或高强度体力劳动
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong, no fear of water
+- Mechanical or Engineering Background
+- Able to adapt to high-pressure and isolated work environments.
+
+**Who is not suited**
+- With chronic health issues (e.g., ear, nose, and throat conditions)
+- Dislikes confined spaces or heavy physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an underwater diver in the Netherlands?**
+A: Entry-level approximately €35,000-45,000, mid-level €45,000-60,000, senior up to €80,000.
+
+**Q: How can non-EU citizens obtain a Dutch diver work visa?**
+A: Usually requires employer sponsorship, applying for Highly Skilled Migrant or EU Blue Card, meeting income threshold.
+
+**Q: What diving certificates are needed to work in the Netherlands?**
+A: Must hold a commercial diver certificate (e.g., NDC) and a valid health certificate; ADS certification is also common.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Underwater Diver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for underwater divers in the Netherlands?**
-答：Entry-level around €35,000-45,000, mid-level €45,000-60,000, senior up to €80,000.
-
-**问：How can non-EU citizens obtain a work visa as a diver in the Netherlands?**
-答：Generally requires employer sponsorship for Highly Skilled Migrant or EU Blue Card, meeting income thresholds.
-
-**问：What diving certifications are needed to work in the Netherlands?**
-答：A commercial diver certificate (e.g., NDC) and valid medical fitness are mandatory; ADS certification is also common.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

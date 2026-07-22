@@ -1,66 +1,95 @@
-# 采购专员（Procurement Officer）职业分析 · 澳大利亚
+# Procurement Officer — career analysis · Australia
 
-**职业代码：591211 – Procurement Officer。**
+**Occupation code: 591211 (ANZSCO)**
 
-采购专员是澳洲商业行业的重要职业，需求稳定，具备相关资质即可入行。澳洲商业行业持续扩张，为专业人员提供良好的职业发展机会。
+Procurement officers are an important occupational group in Australian business, with stable demand and accessible entry requirements for those with relevant qualifications. Australia's business sector continues to expand, offering strong career development opportunities for professionals.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Relevant qualification for Procurement Officer | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Relevant qualification for Procurement Officer | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 22,000。2025-2030年澳洲商业行业持续扩张，采购专员需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 22,000. From 2025 to 2030, Australia's commercial sector will continue to expand, keeping demand for procurement officers in steady growth; those with relevant certifications and experience will enjoy strong employment prospects.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| Median salary | $88,764 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，采购专员须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Procurement specialist roles are mixed under AI influence: routine procurement process automation compresses entry-level positions, but strategic sourcing, supplier relationship management, and data analysis skills are amplified by AI, increasing demand for hybrid talents.
+
+Demands for digital skills and professional certifications continue to rise, requiring procurement officers to continuously update their expertise to keep pace with industry changes.
+
+**Tasks most exposed to AI:**
+
+- Daily Purchase Order Generation and Tracking, AI Can Automate the Procure-to-Pay Process
+- Supplier quote comparison and initial screening; AI tools can batch analyze prices and delivery history.
+- Inventory level monitoring and automatic replenishment alerts, managed by predictive algorithms.
+- Drafting contract clause templates: AI can generate drafts based on compliance databases.
+- Basic compliance checks, such as qualification verification and risk score automation
+
+**Where AI augments the role:**
+
+- Strategic supplier evaluation and negotiation: AI provides data support to analyze supplier performance, risks, and market conditions.
+- Demand forecasting and inventory optimization: AI models predict demand to assist procurement planning and reduce inventory costs.
+- Contract lifecycle management: AI monitors contract execution, reminds of renewals, analyzes clause risks, and improves management efficiency.
+- Market intelligence gathering: AI tracks raw material price fluctuations and geopolitical risks in real time to aid decisions.
+- Internal stakeholder coordination: AI organizes department needs and auto-generates procurement proposals.
+
+**Human moat:**
+
+- Complex negotiation and supplier relationship management: requires interpersonal communication, trust building, and strategic gameplay.
+- Cross-departmental stakeholder coordination: understanding business scenarios, resolving conflicts, cannot be fully algorithmized
+- Quality control and exception handling: identify unstructured issues in quality, delivery, etc., and make on-site decisions.
+- Ethical and compliance judgment: handling grey-area matters like ethical sourcing and anti-corruption requires human judgment.
+
+**Skills to build:**
+
+- Data analysis and visualization (Excel, Power BI, SQL)
+- Use of AI procurement tools (e.g., SAP Ariba, Coupa smart features)
+- Supply chain risk management (predictive analytics)
+- Contract law basics and negotiation skills
+- Project management (PMP or lean supply chain)
+- Digital procurement strategies (indirect procurement, electronic bidding)
+
+**Key growth areas:**
 
 - Australia Wide Growth
 - Regional Demand
@@ -69,64 +98,65 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学采购专员？**
-- 对商业行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
+**Who is suited**
+- Those with a passion for the commercial sector
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
 
-**谁不适合学采购专员？**
-- 不了解澳洲商业行业规范者
-- 不愿持续学习更新技能者
+**Who is not suited**
+- Unfamiliar with Australian business industry standards
+- Those unwilling to continuously learn and update their skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salaries for procurement officers in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy for a procurement officer to find work in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 591211 采购专员数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-采购专员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：采购专员在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
-
-**问：澳洲采购专员好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

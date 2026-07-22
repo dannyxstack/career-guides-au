@@ -1,59 +1,94 @@
-# Tourist Information Officer（Tourist Information Officer）职业分析 · 新西兰
+# Tourist Information Officer — career analysis · New Zealand
 
-**职业代码：451611 – Tourist Information Officer。**
+**Occupation code: 451611 (ANZSCO)**
 
-Provides travel information, itinerary planning, and ticket booking services at visitor centers or information desks, enhancing tourist experience and promoting local tourism resources and activities. Eligible for AEWV and skilled migrant pathway, but not on Green List.
+At visitor centres or information desks, provide tourists with travel information, route planning, ticket booking services, enhancing visitor experience and promoting local tourism resources and activities. As an Accredited Employer Work Visa (AEWV) occupation, can apply for skilled migration but is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家旅游证书（4级） | 1年 | $12,000~$20,000（理工学院或私立培训机构，如奥塔哥理工学院） |
-| 旅游管理大专（5级） | 2年 | $25,000~$35,000（公立理工学院，如怀卡托理工学院） |
+| New Zealand National Certificate in Tourism (Level 4) | 1 year | $12,000~$20,000 (Polytechnics or private training providers, such as the Otago Polytechnic) |
+| Diploma of Tourism Management (Level 5) | 2 years | $25,000~$35,000 (Public polytechnics, such as Waikato Institute of Technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家旅游证书（4级） | 新西兰学历认证局（NZQA） | 可选 | 非强制，但常见入门要求 |
-| 急救证书 | 新西兰圣约翰或红十字会 | 可选 | 部分雇主要求 |
-| 酒牌（如涉及售票活动） | 新西兰内政部 | 可选 | 若提供酒精饮料相关服务则要求 |
+| New Zealand National Certificate in Tourism (Level 4) | New Zealand Qualifications Authority (NZQA) | Optional | Not Mandatory, but Common Entry Requirement |
+| First aid certificate | St John New Zealand or Red Cross | Optional | Some employers require |
+| Liquor license (if involving ticket sales activities) | New Zealand Department of Internal Affairs | Optional | Required if providing alcohol-related services |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 3,500。新西兰旅游业复苏推动需求增长，但岗位季节性明显，北岛热门景区（如皇后镇、罗托鲁瓦）机会较多。预计未来5年就业增长温和，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. New Zealand's tourism recovery drives demand growth, but roles are seasonal with more opportunities in popular North Island destinations (e.g., Queenstown, Rotorua). Moderate employment growth expected over the next 5 years, with medium competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$52,000 | 时薪约22-26纽元 |
-| 中级（3-6年） | $52,000~$62,000 | 时薪约26-31纽元 |
-| 高级（6年以上） | $62,000~$75,000 | 主管或高级顾问，时薪约31-38纽元 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Hourly wage approximately 22-26 NZD |
+| Mid-level (3–6 years) | $52,000~$62,000 | Hourly wage approximately 26-31 NZD |
+| Senior (6+ years) | $62,000~$75,000 | Supervisor or senior consultant, hourly wage approximately 31-38 NZD |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级信息官晋升为高级顾问或团队主管，需积累客户服务与本地知识。可转向旅游产品开发、目的地营销或旅游管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
+
+Progress from junior information officer to senior consultant or team leader, requiring accumulated customer service and local knowledge. Can transition to tourism product development, destination marketing, or tourism management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated AI tour commentary: standard attraction information is replaced by AI voice guides or apps
+- Basic travel itinerary inquiries: standardized Q&A on dates, transportation, tickets, weather, etc., handled by AI chatbots
+- Online booking and order processing: automation of flight, hotel, and ticket reservation and confirmation processes
+- FAQ responses: routine questions (hours, routes) handled by AI customer service
+- Multilingual real-time translation: AI translation earphones reduce the need for language switching in human commentary
+
+**Where AI augments the role:**
+
+- Personalized itinerary customization: AI analyzes tourist preferences (interests, budget) to generate custom routes, consultant refines and finalizes
+- Real-time information enhancement: AI provides real-time updates on traffic, weather, and events, allowing guides to adjust arrangements
+- Multimodal interpretation assistance: AR/VR overlays historical images or 3D models to enhance on-site interpretation
+- Customer Relationship Management: AI analyzes customer feedback and historical data to help advisors make targeted recommendations and follow-ups
+- Content creation and promotion: AI-assisted writing of travelogues and social media content to enhance personal brand influence
+
+**Human moat:**
+
+- On-site emotional interaction and empathy: ability to handle tourist emotions and emergencies (e.g., lost persons, discomfort)
+- Cultural depth and storytelling interpretation: combining attractions with cultural context to create unique narrative experiences
+- Emergency decision-making and flexible adjustment: handling non-standard scenarios like weather changes, safety incidents
+- Local network and resource coordination: familiarity with local restaurants, drivers, and attractions to ensure service quality
+- The bridging role of language and culture: particularly Mandarin-speaking tour guides are irreplaceable in cross-cultural communication
+
+**Skills to build:**
+
+- AI tool application: Proficient in using ChatGPT, Copilot, etc. to generate itineraries and respond to customers
+- Digital content creation: shooting/editing short videos, writing travelogues, managing social media
+- Data analysis basics: use Excel or simple BI tools to analyze customer preferences and travel trends
+- Crisis management certifications: First aid, risk management, etc., enhance on-site value
+- Second foreign language: besides Chinese, learning Korean/Japanese can expand client base
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Provides travel information, itinerary planning, and ticket booking services at 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需有雇主担保，符合中位数工资要求（时薪29.66纽元，2024年标准），可转居民签证 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制要求（学历、工作经验等），需有工作offer |
-| Subclass Partnership（Partner of a New Zealander Work Visa） | 若配偶为新西兰居民或公民，可申请配偶工签，自由工作 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, meets median wage requirement (NZD $29.66 per hour, 2024 standard), can transition to resident visa |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (education, work experience, etc.), must have a job offer |
+| Subclass Partnership (Partner of a New Zealander Work Visa) | If the spouse is a New Zealand resident or citizen, they can apply for a partner work visa and work freely |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tourist Information Officer？**
-- 热情好客、善于沟通，热爱旅游与新西兰文化
-- 乐于助人，能处理多任务与突发情况
-- 英语流利，有第二语言优势（如中文、日语、韩语）
-
-**谁不适合学Tourist Information Officer？**
-- 不喜欢与人交流，缺乏耐心
-- 追求高薪或快速晋升，该行业薪资增长有限
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hospitable, good communication, love for travel and New Zealand culture
+- Helpful, able to handle multitasking and emergencies
+- Fluent in English, with an advantage in a second language (such as Chinese, Japanese, Korean)
+
+**Who is not suited**
+- Dislikes interacting with people, lacks patience
+- Pursuing high salary or rapid promotion, salary growth in this industry is limited
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a tourism information officer?**
+A: Entry-level annual salary around NZD 45,000-52,000, mid-level NZD 52,000-62,000, senior NZD 62,000-75,000. Overtime with allowance possible during peak seasons.
+
+**Q: Can a tourism information officer obtain New Zealand residency through skilled migration?**
+A: Yes. You can accumulate experience through the accredited employer work visa (AEWV) and then apply for the Skilled Migrant Category (SMC). This occupation is not on the Green List, but it is still possible if salary and points requirements are met.
+
+**Q: What qualifications are needed to become a Tourism Information Officer?**
+A: Usually requires a New Zealand National Certificate in Tourism (Level 4) or related diploma, but extensive customer service experience may also be considered.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tourist Information Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Tourist Information Officer?**
-答：Entry-level annual salary is around NZD 45,000-52,000, mid-level 52,000-62,000, senior 62,000-75,000. Overtime during peak seasons may be compensated.
-
-**问：Can a Tourist Information Officer obtain New Zealand residency through skilled migration?**
-答：Yes. Start with an Accredited Employer Work Visa (AEWV), gain experience, then apply for Skilled Migrant Category (SMC). Although not on Green List, meeting salary and points criteria is possible.
-
-**问：What qualifications are needed to work as a Tourist Information Officer?**
-答：Typically a New Zealand Certificate in Tourism (Level 4) or diploma is preferred, but extensive customer service experience may also be accepted.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

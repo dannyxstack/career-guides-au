@@ -1,61 +1,97 @@
-# Real Estate Agents and Property Administrators（Real Estate Agents and Property Administrators）职业分析 · ES
+# Real Estate Agents and Property Administrators — career analysis · Spain
 
-**职业代码：3534 – Real Estate Agents and Property Administrators。**
+**Occupation code: 3534 (CNO)**
 
-Real estate agents and property administrators mediate the sale, purchase, and rental of properties, and manage daily operations including contract negotiation, marketing, tenant relations, and financial reporting.
+Real estate agents and property managers are responsible for intermediary services for real estate sales and leasing, as well as daily property management, including contract negotiations, marketing, tenant relationship maintenance, and financial reporting.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育及职业培训（FP） | 2年（FP Grado Superior） | —（公立FP免学费，仅注册费及材料费） |
-| 大学本科（Grado） | 4年（Grado） | $1,000~$6,000（公立大学年学费；私立更高） |
+| Secondary Education and Vocational Training (FP) | 2 years (FP Grado Superior) | $0~$2,000 (Public FPs are free of tuition, except for registration and material fees) |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$6,000 (annual tuition fees at public universities; Private schools are even higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房地产经纪人资质（API） | 西班牙房地产经纪人协会（API） | 可选 | 非强制但行业认可度高，需通过考试 |
-| 大学学位（经济学/法律/工程学等） | 西班牙大学 | 可选 | 利于就业但非强制 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学位需认证方可从事受规管领域（如物业管理相关的法律事务） |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees must be certified to engage in regulated fields (such as legal matters related to property management). |
+| Real Estate Agent Qualification (API) | Spanish Association of Real Estate Agents (API) | Optional | Not mandatory but highly recognized by the industry, requiring passing an exam |
+| University Degrees (Economics/Law/Engineering, etc.) | Spanish University | Optional | Beneficial for employment but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。西班牙房地产市场持续活跃，尤其在大城市和旅游区，对房地产代理和专业物业管理的需求稳定。数字化转型和法规更新要求从业者不断提升技能，但总体就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. Spain's real estate market remains active, especially in major cities and tourist areas, with steady demand for real estate agents and professional property management. Digital transformation and regulatory updates require practitioners to continuously upskill, but overall employment prospects are positive.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 底薪加佣金，实际收入波动大 |
-| 中级（3-7年） | $26,000~$40,000 | 含佣金和奖金 |
-| 高级（7年以上） | $40,000~$60,000 | 资深代理人或物业经理，高收入依赖于业绩 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$25,000 | Base salary plus commission, actual income fluctuates greatly |
+| Mid-level (3–7 years) | $26,000~$40,000 | Includes commission and bonuses |
+| Senior (7+ years) | $40,000~$60,000 | Senior agents or property managers whose high income depends on performance |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级销售代理晋升为资深顾问、团队主管，或开设自己的中介公司。物业管理员可发展为区域经理、资产经理或进入房地产开发领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
+
+You can be promoted from junior sales agent to senior consultant, team leader, or even establish your own agency. Property managers can develop into regional managers, asset managers, or enter the real estate development sector.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of property descriptions/ad copy
+- AI chatbot handles tenant common questions and schedules property viewings
+- Smart matching system auto-pushes properties to potential clients
+- Automated Generation of Lease Contracts and Property Management Reports
+- AI analyzes market data to generate automated valuation reports
+
+**Where AI augments the role:**
+
+- AI-assisted precision analysis of customer needs and market trends to improve recommendation matching rates
+- Virtual property tours and AI video guides to enhance remote marketing effectiveness
+- AI predicts tenant default risk, optimizing property portfolio strategies
+- Automated CRM systems capture customer behavior data to support personalized services
+- AI chatbot-assisted multilingual communication (e.g., Chinese) to expand service scope
+
+**Human moat:**
+
+- High-value negotiation, complex contract clause interpretation, and legal dispute resolution
+- Building deep personal relationships and client trust (especially Chinese-speaking community)
+- On-site property inspections, maintenance quality assessment, and supplier management
+- Personalized home buying/rental strategy recommendations integrating emotional and financial considerations
+- Interpersonal glue for multi-stakeholder coordination (owners, tenants, strata committees)
+
+**Skills to build:**
+
+- Master real estate CRM software (e.g., Salesforce, PropertyMe)
+- Basic data analysis (advanced Excel or Python/Pandas)
+- AI marketing tools (CANVA AI, ChatGPT copy optimization)
+- Virtual property viewing technology (3D scanning, VR tour operation)
+- Bilingual communication and cross-cultural negotiation skills
+- Digital compliance awareness (privacy laws, legal validity of e-contracts)
+
+**Key growth areas:**
 
 - Digital transformation
 - Property technology (PropTech)
@@ -64,66 +100,65 @@ Real estate agents and property administrators mediate the sale, purchase, and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employee)） | 受雇于西班牙房地产公司，由雇主担保工作居留，需证明职位无法由本地人填补 |
-| Subclass Altamente cualificad（Highly qualified professional (Ley 14/2013)） | 适用于高学历或高收入人才，需年薪达西班牙平均工资2倍以上（约40,000€+） |
-| Subclass Busqueda empleo（Job search visa） | 允许毕业生在西班牙居留1年寻找工作，找到后可转为工作居留 |
+| Subclass Cuenta ajena (Work permit (employee)) | Employed by a Spanish real estate company and sponsored by an employer, you must prove that the position cannot be filled by a local resident |
+| Subclass Altamente cualificad (Highly qualified professional (Ley 14/2013)) | Applicable to highly educated or high-income individuals, requiring an annual salary at least twice the Spanish average wage (approximately €40,000+). |
+| Subclass Busqueda empleo (Job search visa) | Graduates are allowed to stay in Spain for one year to find a job, and after finding one, they can convert to work residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Real Estate Agents and Property Administrators？**
-- 善于沟通和谈判的人
-- 对房地产市场有浓厚兴趣
-- 具备销售和客户服务能力
-
-**谁不适合学Real Estate Agents and Property Administrators？**
-- 不喜欢业绩压力的人
-- 不擅长多任务处理
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People good at communication and negotiation
+- He has a strong interest in the real estate market
+- Possess sales and customer service capabilities
+
+**Who is not suited**
+- People who dislike performance pressure
+- Not good at multitasking.
+
+---
+
+## 8. FAQ
+
+**Q: Is the income of a real estate agent mainly based on base salary or commission?**
+A: Most real estate agents mainly earn commissions, with a relatively low base salary (about €1,200-1,500/month). Junior agents earn about €18,000–€25,000 per year, but outstanding agents can earn over €50,000.
+
+**Q: How can foreigners become real estate agents in Spain?**
+A: You can obtain a work residence permit (Cuenta ajena) by being employed by a Spanish company, or apply for a highly skilled professional visa (with an annual salary of about €40,000+). Diplomas must be certified by the Spanish Ministry of Education (Homologación), but registration as an API is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Real Estate Agents and Property Administrators为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is a real estate agent's income primarily from base salary or commission?**
-答：Most agents earn mainly from commission, with a low base salary (around €1,200-1,500/month). Entry-level annual income is around €18,000-25,000, but top performers can exceed €50,000.
-
-**问：How can a foreigner become a real estate agent in Spain?**
-答：By obtaining a work permit sponsored by a Spanish company (Cuenta ajena) or a highly qualified professional visa (salary ~€40,000+). Foreign degrees must be homologated, but API certification is optional.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

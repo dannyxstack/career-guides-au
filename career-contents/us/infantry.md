@@ -1,62 +1,97 @@
-# Infantry（Infantry）职业分析 · 美国
+# Infantry — career analysis · United States
 
-**职业代码：55-3016 – Infantry。**
+**Occupation code: 55-3016 (SOC)**
 
-Infantry soldiers operate weapons and equipment in ground combat, including rifles, machine guns, and mortars, and perform reconnaissance, position construction, and communications.
+Infantry are the core of US ground combat forces, responsible for operating weapons, reconnoitering terrain, establishing positions and communications, and executing combat missions.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（公立高中免费） |
-| 基础战斗训练 | 10周 | —（军队提供并支付薪酬） |
-| 高级步兵训练 | 14周 | —（军队提供并支付薪酬） |
+| High school graduation | 4 years | $0~$0 (Public high schools are free) |
+| Basic combat training | 10 weeks | $0~$0 (Provided and paid by the military) |
+| Advanced infantry training | 14 weeks | $0~$0 (Provided and paid by the military) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国公民或永久居民 | 美国政府 | 必备 | 参军须为美国公民或绿卡持有者 |
-| ASVAB考试成绩 | 美国国防部 | 必备 | 军事职业能力倾向测验，步兵要求通常较低 |
-| 体能测试 | 美国陆军 | 必备 | 通过陆军战斗体能测试 |
+| US citizen or permanent resident | U.S. government | Required | Military service requires US citizenship or green card |
+| ASVAB test scores | U.S. Department of Defense | Required | Armed Services Vocational Aptitude Battery, infantry requirements are usually lower |
+| Physical fitness test | United States Army | Required | Pass the Army Combat Fitness Test |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 200,000。美国军事人员需求稳定，受国防预算和全球战略影响，但步兵岗位数量有限，竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 200,000. US military personnel demand is stable, influenced by defense budgets and global strategy, but infantry positions are limited and competitive.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：非常高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 基础薪资，不含津贴和福利 |
-| 中级（4-10年） | $35,000~$50,000 | 包括晋升和岗位津贴 |
-| 高级（10年以上） | $50,000~$70,000 | 包括军衔津贴和特殊技能津贴 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Basic salary, excluding allowances and benefits |
+| Mid-level (4-10 years). | $35,000~$50,000 | Includes promotions and job allowances |
+| Senior (10+ years) | $50,000~$70,000 | Includes rank allowance and special skill allowance |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 步兵可晋升为班长、排长等指挥职位，或转入特种部队、军事训练等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on infantry roles is mixed: autonomous weapons and reconnaissance drones will replace some combat tasks, but AI enhances situational awareness and decision-making, while core combat responsibilities remain with humans.
+
+Infantry can be promoted to squad leader, platoon leader, etc., or transfer to special forces, military training, and other specialized areas.
+
+**Tasks most exposed to AI:**
+
+- Unmanned reconnaissance drones performing terrain reconnaissance and target acquisition
+- automatic weapon systems (e.g., sentry guns) for area defense
+- AI-assisted shooting calculation and ballistic correction
+- Autonomous vehicle transport tasks in logistics supply.
+- Automation of battlefield communication relay and signal processing
+
+**Where AI augments the role:**
+
+- AI-enhanced battlefield situational awareness and real-time threat warning
+- Smart armor and wearable devices provide vital sign monitoring and injury assessment
+- AI-assisted tactical decision-making to optimize troop deployment and routes.
+- Drone swarm cooperative control, improving reconnaissance and strike efficiency
+- Train AI opponents in simulators and generate adaptive scenarios
+
+**Human moat:**
+
+- Hand-to-hand combat and complex situational judgment in close-quarters battle
+- Identifying civilians and enemy personnel and adjudicating rules of engagement
+- Lead a team in high-pressure, unknown environments for on-the-spot decision making
+- Moral responsibility and legal accountability, such as compliance with war laws
+- Non-verbal communication and team cohesion, morale maintenance
+
+**Skills to build:**
+
+- Drone operation and counter-drone technology
+- Data analysis and battlefield intelligence interpretation.
+- Basic human-machine collaboration and AI system maintenance
+- Cyber warfare fundamentals and communication security
+- Mental resilience and stress management training
+- Cross-cultural communication and civil action skills
+
+**Key growth areas:**
 
 - Defense
 - Combat
@@ -65,64 +100,66 @@ Infantry soldiers operate weapons and equipment in ground combat, including rifl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 非公民参军可快速入籍，但直接雇佣步兵担保绿卡极为罕见。 |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Non-citizens can gain fast-track citizenship by joining the military, but direct employment as an infantry soldier sponsoring a green card is extremely rare. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Infantry？**
-- 身体强壮、纪律性强的个人
-- 有志于军事职业生涯的人
-- 能适应高压和危险环境的人
+**Who is suited**
+- Individuals who are physically strong and disciplined.
+- Those aspiring to a military career
+- Those who can handle high pressure and dangerous environments
 
-**谁不适合学Infantry？**
-- 不适应严格纪律和体力劳动的人
-- 追求高薪和平稳生活的人
+**Who is not suited**
+- Those who cannot adapt to strict discipline and physical labor
+- People seeking high salary and stable life
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for infantry soldiers?**
+A: Infantry basic salary is low, but the military provides free room and board, medical care, and veterans' education benefits, making the actual value higher.
+
+**Q: Can non-US citizens immigrate through infantry occupations?**
+A: Possible, non-citizens who join the military can obtain citizenship through expedited naturalization, but specific conditions apply; not direct occupational migration.
+
+**Q: What are the career transition opportunities for infantry veterans?**
+A: After military service, can work in security, law enforcement, logistics, or learn other skills through military education funding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 非常高（★★★★½） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Infantry属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for infantry soldiers?**
-答：Basic pay is low, but the military provides free housing, meals, healthcare, and veteran education benefits, making total compensation competitive.
-
-**问：Can non-citizens immigrate through infantry?**
-答：Yes, non-citizens can enlist and gain expedited citizenship, but it is not a direct employment-based immigration path.
-
-**问：What career transitions are available after infantry?**
-答：Veterans can enter security, law enforcement, logistics, or use military education benefits to learn new skills.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

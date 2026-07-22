@@ -1,61 +1,96 @@
-# Gymnastics Coach or Instructor（Gymnastics Coach or Instructor）职业分析 · 澳大利亚
+# Gymnastics Coach or Instructor — career analysis · Australia
 
-**职业代码：452312 – Gymnastics Coach or Instructor。**
+**Occupation code: 452312 (ANZSCO)**
 
-Gymnastics coach or instructor teaches gymnastics skills to individuals or groups, including techniques, balance, and flexibility training, for children, youth, and adults. Workplaces include sports clubs, schools, and fitness centers.
+A gymnastics coach or instructor teaches individual or group gymnastics skills, including technique, balance and flexibility training, for children, teenagers and adults. Workplaces include sports clubs, schools and fitness centres.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育与培训证书 | 6-12个月 | $2,000~$6,000（TAFE或私立培训机构课程） |
-| 体育科学或相关本科 | 3年 | $30,000~$45,000（大学本科学费（国际学生较高）） |
+| Vocational education and training certificate | 6–12 months | $2,000~$6,000 (TAFE or private training institution courses) |
+| Bachelor's degree in sports science or related field | 3 years | $30,000~$45,000 (University undergraduate tuition (higher for international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体操教练认证 | Gymnastics Australia | 必备 | Gymnastics Australia提供1-3级教练认证，通常需完成相关培训课程 |
-| 急救证书 | 澳洲认可培训机构 | 必备 | 包括HLTAID003或HLTAID011，确保安全教学 |
-| 儿童工作检查 | 各州政府 | 必备 | 与儿童工作时必须持有 |
+| Gymnastics coach certification. | Gymnastics Australia | Required | Gymnastics Australia offers Level 1-3 coach certification, usually requiring completion of relevant training courses. |
+| First aid certificate | Australia Recognised Training Institution. | Required | Includes HLTAID003 or HLTAID011 to ensure safe teaching |
+| Working with Children Check | State governments | Required | Must hold when working with children |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,200。澳洲体育运动参与度持续上升，儿童体育培训需求旺盛，预计未来5年体操教练就业增长稳健。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,200. Participation in Australian sports is rising, demand for children's sports training is strong, and employment growth for gymnastics coaches is expected to be steady over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 兼职或全职初级教练 |
-| 中级（3-7年） | $55,000~$70,000 | 经验教练，可负责更多班级 |
-| 高级（7年以上） | $70,000~$90,000 | 主教练或俱乐部经理 |
+| Median salary | $74,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Part-time or full-time junior coach |
+| Mid-level (3–7 years) | $55,000~$70,000 | Experienced coach to manage more classes |
+| Senior (7+ years) | $70,000~$90,000 | Head coach or club manager |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：从助理教练起步，积累经验后晋升为高级教练或主教练，可转向体育管理、健身教练或开设自己的体操学校。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of a gymnastics coach, such as hands-on demonstrations, safety protection, and emotional motivation, are difficult to automate, but AI has strong potential to enhance training plan development, motion analysis, administrative management, and standardized teaching, presenting a mixed outlook.
+
+Career path: start as an assistant coach, gain experience to advance to senior coach or head coach, or move into sports management, fitness coaching, or starting your own gymnastics school.
+
+**Tasks most exposed to AI:**
+
+- AI takes over motion analysis: real-time video AI evaluates movement correctness and generates correction suggestions (e.g., pose detection), reducing manual observation by coaches.
+- AI-generated training plans: Automatically compile periodized fitness/technical training programs based on athlete data and goals.
+- AI handles administration and scheduling: automates course arrangement, student progress tracking, and parent communication.
+- AI provides basic teaching demonstrations: standardized motion demonstrations via VR/AR, replacing some repetitive demonstrations.
+
+**Where AI augments the role:**
+
+- AI-enhanced motion capture: uses wearable sensors and video analysis to provide deep biomechanical data, helping coaches accurately identify technical flaws.
+- AI personalized training optimization: dynamically adjust training intensity and content based on learners' historical data and real-time performance.
+- AI injury prevention: predicting injury risk through movement pattern analysis and recommending preventive training.
+- AI-assisted virtual teaching: use digital humans for remote one-on-one guidance, expanding coach service scope.
+- AI-generated teaching videos and lesson plans: quickly produce high-quality demonstration videos and customised learning materials.
+
+**Human moat:**
+
+- On-site safety protection: protective techniques and emergency intervention (e.g., spotting) in gymnastics training require human intuition and reaction.
+- Emotional motivation and trust: building a coach-student psychological connection, inspiring confidence, and overcoming fear, especially in children and athletes.
+- Non-verbal communication and team atmosphere: coordinate group cooperation through body language, expressions, and energy.
+- Creative choreography and artistic expression: designing floor exercise and dance routines that showcase aesthetics and personality.
+- Coach intuition and experience: making flexible decisions in complex situations (e.g. player injury, overtraining)
+
+**Skills to build:**
+
+- Sports biomechanics data interpretation: understand AI-generated biomechanics reports and translate them into practical training adjustments.
+- AI training tool operation: proficient in video analysis software, wearable sensors, and VR teaching platforms.
+- Personalized teaching and communication: tailor teaching strategies for different age groups and levels.
+- Knowledge of sports injury prevention and rehabilitation: proactive prevention and basic rehabilitation guidance combined with AI alerts.
+- Digital content creation: using AI tools to produce instructional videos, animations, and interactive tutorials.
+- Course Design & Business Capability: Using AI to analyse market trends and design differentiated course packages.
+
+**Key growth areas:**
 
 - Recreational participation
 - Youth sports
@@ -64,64 +99,66 @@ Gymnastics coach or instructor teaches gymnastics skills to individuals or group
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 仅适用于少数体育相关职业，体操教练通常不符合标准职业清单要求 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Only applies to a few sport-related occupations; gymnastics coaches usually do not meet standard occupation list requirements. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gymnastics Coach or Instructor？**
-- 热爱体操运动并乐于教学的人
-- 有耐心和沟通能力，尤其擅长与儿童相处
-- 希望从事体育行业，工作灵活且体力活跃
+**Who is suited**
+- Someone who loves gymnastics and enjoys teaching
+- Patient and communicative, especially good with children
+- Wishing to work in the sports industry, with flexible work and physical activity
 
-**谁不适合学Gymnastics Coach or Instructor？**
-- 寻求高薪或快速移民的人
-- 不喜体力活动或不适应嘈杂环境
+**Who is not suited**
+- People seeking high salary or fast-track migration
+- Those who dislike physical activity or cannot adapt to noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual salary for a gymnastics coach?**
+A: Entry-level approx. AUD $45,000-$55,000, mid-level $55,000-$70,000, senior head coach up to $70,000-$90,000.
+
+**Q: Can gymnastics coaches migrate to Australia?**
+A: Virtually no skilled migration pathway. This occupation is not on CSOL/MLTSSL, so cannot apply for 189/190/482 (except employer-sponsored DAMA, but rare).
+
+**Q: What certifications are required to be a gymnastics coach?**
+A: Must obtain Gymnastics Australia certified coaching qualification and first aid certificate. Working with children also requires a Working with Children Check.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Gymnastics Coach or Instructor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a gymnastics coach?**
-答：Entry-level around AUD 45,000-55,000, mid-level AUD 55,000-70,000, senior head coach up to AUD 70,000-90,000.
-
-**问：Can a gymnastics coach migrate to Australia?**
-答：Very limited migration pathways. The occupation is not on CSOL/MLTSSL, so 189/190/482 visas are not available (except rare DAMA employer sponsorship).
-
-**问：What qualifications are needed to be a gymnastics coach?**
-答：You need Gymnastics Australia coaching certification, first aid certificate (HLTAID003/011), and a Working with Children Check.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

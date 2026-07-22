@@ -1,57 +1,93 @@
-# Assemblers (vehicles and metal goods)（Assemblers (vehicles and metal goods)）职业分析 · UK
+# Assemblers (vehicles and metal goods) — career analysis · United Kingdom
 
-**职业代码：8142 – Assemblers (vehicles and metal goods)。**
+**Occupation code: 8142 (SOC)**
 
-Assemblers (vehicles and metal goods) undertake routine assembly of vehicles and other metal goods or components such as frames, axles, wire brushes and wheels.
+Performing routine assembly of vehicles and other metal products or components, such as assembling frames, axles, wire brushes, and wheels.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 2年 | —（通常在岗培训，无需额外学费） |
-| 学徒制 | 2-4年 | —（政府资助，雇主支付工资） |
+| High school diploma or equivalent | 2 years | $0~$0 (Usually on-the-job training, no additional tuition fees) |
+| Apprenticeship | 2-4 years | $0~$0 (Government-funded, employer pays wages.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 雇主通常提供在岗培训 |
+| No mandatory certificate | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 72,000。英国制造业持续复苏，加上基础设施和交通运输领域投资增加，预计未来五年装配工需求稳定，但自动化和离岸外包可能抑制增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 72,000. As UK manufacturing continues to recover, coupled with increased investment in infrastructure and transport, demand for assemblers is expected to remain stable over the next five years, though automation and offshoring may curb growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 入门级年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $28,000~$35,000 | 资深或带团队薪资 |
+| Median salary | $31,919 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level annual salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Salary increases with experience |
+| Senior (7+ years) | $28,000~$35,000 | Salary for senior or team-leading roles. |
+| average salary | $34,352 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从生产线上手，积累经验后可晋升为团队组长或质检员，也可通过内部培训转向更高级的制造技术岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation mainly involves repetitive physical assembly tasks. AI and automation will significantly replace some operations, leading to reduced job demand, but complex assembly relying on hand-eye coordination will remain.
+
+Usually start on the production line, can advance to team leader or quality inspector with experience, or transition to more advanced manufacturing technology roles through internal training.
+
+**Tasks most exposed to AI:**
+
+- Tightening standard bolts using tightening tools
+- Repeatedly install pre-formed metal parts according to drawings
+- Performing simple assembly tasks at fixed intervals on a production line
+- Manually checking part dimensions (can be replaced by vision systems)
+- Move and position heavy metal raw materials
+
+**Where AI augments the role:**
+
+- Use AR glasses to receive real-time assembly instructions, improving efficiency
+- Use AI quality inspection system to assist in judging assembly quality
+- Optimize assembly sequence through digital twin simulation
+- Using collaborative robots for heavy lifting to reduce physical fatigue
+- Predict tool wear using data analysis tools to reduce downtime.
+
+**Human moat:**
+
+- Flexible adaptation capability for handling non-standard or deformed parts
+- Multi-step coordination and fine operations in complex assembly
+- Experiential judgment to resolve on-site equipment anomalies or assembly issues
+- Teamwork and communication, especially cross-trade coordination
+- Safety compliance awareness, especially involving critical structural components
+
+**Skills to build:**
+
+- Basic programming and robot operation (e.g., teaching collaborative robots)
+- Use of digital tools (AR-assisted systems, MES operation)
+- Quality control and data analysis (SPC, etc.)
+- Automated equipment maintenance and fault diagnosis
+- Lean production and process optimization methods
+- Advanced manual skills such as welding or sheet metal work
+
+**Key growth areas:**
 
 - Manufacturing
 - Automotive
@@ -60,67 +96,66 @@ Assemblers (vehicles and metal goods) undertake routine assembly of vehicles and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合技术工人签证要求，通常需雇主担保，满足最低薪资门槛（£26,200）但此职业通常薪资较低，可能需满足新 entrant 条件。 |
-| Subclass Graduate（Graduate Visa） | 适合应届毕业生在英国工作两年，积累经验后转其他签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meets skilled worker visa requirements, typically requires employer sponsorship and meets the minimum salary threshold (£26,200), but this occupation usually pays lower, may need to meet new entrant conditions. |
+| Subclass Graduate (Graduate Visa) | Suitable for recent graduates to work in the UK for two years, gain experience, then switch to another visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Assemblers (vehicles and metal goods)？**
-- 喜欢动手操作、注重细节的人
-- 适合寻求稳定制造业工作的人
-- 愿意接受在职培训、无需高学历的人
-
-**谁不适合学Assemblers (vehicles and metal goods)？**
-- 希望高薪资或快速晋升的人
-- 不喜重复性体力工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Suitable for those seeking stable manufacturing jobs
+- Those willing to undergo on-the-job training, no high education required
+
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who dislike repetitive physical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Vehicle and Metal Products Assembler?**
+A: Entry-level annual salary around £18,000-22,000, mid-level around £22,000-28,000, senior up to £35,000.
+
+**Q: As an overseas applicant, can you come to the UK for this occupation via a skilled worker visa?**
+A: Yes, but salary is usually below the general skilled worker visa threshold (£26,200); if a new graduate (new entrant), a lower salary requirement (£20,960) may apply, but the employer must hold a sponsorship license.
+
+**Q: What is the career progression path for this occupation?**
+A: Can advance from assembler to production line lead, quality inspector, or transition to more advanced manufacturing technology roles through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Assemblers (vehicles and metal goods)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for assemblers (vehicles and metal goods)?**
-答：Entry-level annual salary is around £18,000-£22,000, mid-level £22,000-£28,000, and senior up to £35,000.
-
-**问：Can overseas applicants get a Skilled Worker visa for this occupation?**
-答：Yes, but salary is often below the general threshold (£26,200). New entrants (e.g., recent graduates) may qualify at a lower rate (£20,960). Employer sponsorship is required.
-
-**问：What is the career progression for this occupation?**
-答：Assemblers can advance to team leader, quality inspector, or move into advanced manufacturing roles through additional training.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

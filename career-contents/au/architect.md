@@ -1,68 +1,95 @@
-# 建筑师（Architect）职业分析 · 澳大利亚
+# Architect — career analysis · Australia
 
-**职业代码：232111 – Architect。**
+**Occupation code: 232111 (ANZSCO)**
 
-建筑师规划和设计建筑物、城市综合体和基础设施，覆盖住宅、商业、工业和政府设施。澳洲住房危机（各州政府建设目标）和可持续建筑需求推动工作量持续增加，是设计类职业中移民友好度最高的职业之一。
+Architects plan and design buildings, urban complexes and infrastructure, covering residential, commercial, industrial and government facilities. Australia's housing crisis (state government construction targets) and demand for sustainable buildings are driving a sustained increase in workload, making this one of the most migration-friendly roles in the design sector.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor + Master of Architecture（5~6年） | 5~6年（全日制） | $40,000~$250,000（澳洲建筑师注册要求：5年专业学位（AACA认证的Bachelors+Masters路径）） |
-| 两年实习记录（Graduate Experience Record） | 2年有监督的实践经验 | —（毕业后在注册建筑师监督下完成AACA规定的实践能力记录） |
-| AACA架构师认证考试（APE） | 6~12个月准备 | $1,500~$4,000（澳洲建筑师注册的最终考试，通过后可在各州建筑师委员会注册） |
+| Bachelor + Master of Architecture (5–6 years) | 5–6 years (full-time) | $40,000~$250,000 (Australian architect registration requirements: 5-year professional degree (AACA-accredited Bachelor's + Master's pathway)) |
+| Two-year Graduate Experience Record | 2 years of supervised practical experience | $0~$0 (Complete the AACA practice record of competencies under the supervision of a registered architect after graduation) |
+| AACA Architecture Program of Experience (APE) | 6–12 months of preparation | $1,500~$4,000 (The final examination for architect registration in Australia; passing allows registration with the architects board in each state) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| AACA认证建筑学位（Bachelor+Master of Architecture） | AACA认证大学 | 必备 | 澳洲建筑师注册的基础学历要求 |
-| AACA APE（Architectural Practice Exam） | Architects Accreditation Council of Australia | 可选 | 建筑师注册必须通过的专业实践考试 |
-| 各州建筑师委员会注册（e.g. Architects Board WA） | 各州建筑师委员会 | 可选 | 州注册是独立执业和使用「建筑师」职称的法律要求 |
-| Green Star AP / LEED AP（可持续建筑认证） | GBCA / USGBC | 可选 | 可持续建筑认证，显著提升政府和商业项目竞争力 |
+| AACA-accredited architecture degree (Bachelor + Master of Architecture) | AACA-accredited university | Required | Minimum academic qualification required for architect registration in Australia |
+| AACA APE（Architectural Practice Exam） | Architects Accreditation Council of Australia | Optional | Professional practice exam required for architect registration |
+| State architectural board registration (e.g. Architects Board WA) | State architects boards | Optional | State registration is a legal requirement for independent practice and use of the title 'Architect' |
+| Green Star AP / LEED AP (sustainable building certification) | GBCA / USGBC | Optional | Sustainable building certification, significantly improving competitiveness for government and commercial projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 22,000。JSA 预测建筑师至2035年就业增长约8%。各州政府社会住房计划（NSW/VIC/QLD各州均有10年建设目标）是主要驱动力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 22,000. JSA projects approximately 8% employment growth for architects by 2035. Government social housing programmes across NSW, VIC and QLD (each with 10-year construction targets) are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~2,000 个 | 全国，含注册建筑师、建筑设计师、项目建筑师和BIM专员岗 |
-| Indeed | 600~1,500 个 | 含住宅、商业和政府项目建筑师岗 |
-| LinkedIn | 1,000~2,500 个 | 大型建筑设计公司直招 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 建筑师助理（毕业~注册前） | $60,000~$82,000 | 注册前的实习阶段，需要2年实践记录 |
-| 注册建筑师（3~8年） | $85,000~$115,000 | SEEK 区间 $90k~$110k；Indeed 平均 $92,411（2026） |
-| 高级/项目建筑师（8~15年） | $115,000~$155,000 | BIM专精和可持续设计资质提升薪资竞争力 |
-| 合伙人 / 设计总监（15年+） | $155,000~$270,000 | 设计事务所合伙人和大型开发商设计总监，Indeed 高端 $169k |
+| Median salary | $120,016 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Architectural Graduate (Post-graduation to registration) | $60,000~$82,000 | Pre-registration internship phase requiring 2 years of documented practical experience |
+| Registered Architect (3–8 years) | $85,000~$115,000 | SEEK range $90k–$110k; Indeed average $92,411 (2026) |
+| Senior/Project Architect (8–15 years) | $115,000~$155,000 | BIM specialisation and sustainable design credentials improve salary competitiveness |
+| Partner / Design Director (15+ years) | $155,000~$270,000 | Design firm partner or senior design director at a major developer, Indeed top end $169k |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 参数化设计（Grasshopper/Rhino）和BIM（建筑信息模型，Revit）是2025-2026年薪资溢价最高的技能方向。可持续设计（绿色建筑/碳中和设计）资质显著提升竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Parametric design (Grasshopper/Rhino) and BIM (Building Information Modelling, Revit) are the highest salary-premium skill areas in 2025–2026. Sustainable design credentials (green building/carbon-neutral design) significantly boost competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Sustainable & Green Architecture
 - Social & Affordable Housing
@@ -72,91 +99,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，建筑师为短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | AACA技能评估+EOI，邀请制 |
-| Subclass 190（Skilled Nominated） | 州提名，NSW/VIC/QLD住房项目多 |
-| Subclass 491（Skilled Work Regional） | 偏远地区建筑岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; architect is a shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | AACA skills assessment + EOI, invitation-based |
+| Subclass 190 (Skilled Nominated) | State nomination, with many housing projects in NSW/VIC/QLD |
+| Subclass 491 (Skilled Work Regional) | Regional construction role, +15 points |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学建筑师？**
-- 持有建筑学本科+硕士学历（AACA认证路径或海外同等学历）
-- 有注册建筑师实践经验（2年以上有监督），英语能力强
-- 熟悉Revit/BIM和可持续设计（Green Star/LEED加分项）
-- 英语能力达到 IELTS 7.0+（建筑师客户沟通要求高）
-- 目标是住宅开发或政府项目（需求最旺盛的方向）
-
-**谁不适合学建筑师？**
-- 学历周期不够（5年以上才能满足AACA评估）
-- 英语能力较弱，无法胜任设计汇报和客户沟通
-- 不接受较长的注册前实习阶段（薪资偏低）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a Bachelor's and Master's degree in Architecture (via AACA recognition pathway or equivalent overseas qualification)
+- Holds registered architect practice experience (2+ years supervised) with strong English proficiency
+- Proficiency in Revit/BIM and sustainable design (Green Star/LEED are advantageous)
+- English proficiency of IELTS 7.0+ (architects are required to communicate effectively with clients)
+- Targeting residential development or government projects (the highest-demand sectors)
+
+**Who is not suited**
+- Insufficient academic duration (AACA assessment requires 5+ years)
+- Insufficient English proficiency to handle design presentations and client communication
+- Not comfortable with a lengthy pre-registration internship period (lower pay)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an architect in Australia?**
+A: Registered Architect approx. $85,000–$115,000 (Indeed average $92,411); Senior/Project Architect approx. $115k–$155k; Design Director/Partner approx. $155k–$270k.
+
+**Q: Is it easy for architects to find work in Australia?**
+A: Moderate difficulty. Seek lists approximately 800–2,000 positions, with the housing crisis boosting demand, but competition for pre-registration roles is strong. Registered architects with BIM/sustainable design skills are in short supply.
+
+**Q: Is a Chinese architecture degree recognised in Australia?**
+A: Skills assessment through AACA (Architects Accreditation Council of Australia), taking about 6-18 months and costing approximately $770-$1,500. Degrees from top Chinese architecture schools (Tongji/Tsinghua/Southeast University) usually pass AACA assessment but require detailed course documentation.
+
+**Q: Will architects be replaced by AI?**
+A: Moderate risk. AI assists with design generation and BIM coordination, but creative design decisions, client relationship management, and building regulation compliance judgements require a registered architect and cannot be replaced.
+
+**Q: Are there age limits for architects in Australia?**
+A: None. Experienced senior architects (aged 40–55) with extensive commercial or government project portfolios are highly sought after by major developers and design firms.
+
+**Q: What qualifications do architects need in Australia?**
+A: You must hold an AACA-accredited 5-year architecture degree (Bachelor + Master pathway), plus 2 years of practical experience and the APE examination, before you can be formally registered as an architect.
+
+**Q: Is Australian architect registration (for migration) difficult?**
+A: Difficulty is moderately high. AACA assessment is more rigorous than EA (Engineers Australia) and takes longer; the APE exam requires systematic preparation. However, the housing crisis has increased employer-sponsored 482 visa opportunities.
+
+**Q: Which is better for migrating to Australia — architecture or civil engineering?**
+A: Civil engineers have greater employment volume (Seek ~4,000 vs architects ~1,000) with comparable salaries, and the Engineers Australia assessment is simpler than AACA. Architecture involves more creative work and suits design-oriented individuals; civil engineering is more technical with a smoother migration pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 建筑师薪资 $90k~$110k（2026） |
-| Indeed AU | 建筑师平均薪资 $92,411；高端 $169,000（2026） |
-| AACA（Architects Accreditation Council of Australia） | 建筑师学历评估和APE考试 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★★） |
-| 学习难度 | 很高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-建筑师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲建筑师工资多少？**
-答：注册建筑师约 $85,000~$115,000（Indeed均值 $92,411）；高级/项目建筑师约 $115k~$155k；设计总监/合伙人约 $155k~$270k。
-
-**问：澳洲建筑师容易找工作吗？**
-答：中等难度。Seek 挂牌约 800~2000 个职位，住房危机推高需求，但注册前实习期岗位竞争较激烈。注册建筑师+BIM/可持续设计技能者供不应求。
-
-**问：中国建筑学学历澳洲认可吗？**
-答：通过 AACA（Architects Accreditation Council of Australia）技能评估，周期约6~18个月，费用约 $770~$1,500。中国顶尖建筑院校（同济/清华/东南大学）的学历通常能通过AACA评估，但需要详细课程证明。
-
-**问：建筑师会被AI替代吗？**
-答：风险中等。AI辅助生成方案和BIM协调，但创意设计决策、客户关系管理和建筑法规合规判断需要注册建筑师负责，不可替代。
-
-**问：澳洲建筑师有年龄限制吗？**
-答：无。有丰富商业/政府项目经验的资深建筑师（40~55岁）在大型开发商和设计事务所备受青睐。
-
-**问：澳洲建筑师需要什么学历？**
-答：必须持有AACA认证的5年建筑学专业学位（Bachelor+Master路径），再加2年实践+APE考试，才能正式注册为注册建筑师。
-
-**问：澳洲建筑师认证（移民）难吗？**
-答：难度中高。AACA评估比EA（工程师）严格，周期较长；APE考试需要系统准备。但住房危机推高了雇主担保482签证的机会。
-
-**问：建筑师和土木工程师哪个更适合移民澳洲？**
-答：土木工程师就业量更大（Seek ~4000 vs 建筑师 ~1000），薪资相当，EA评估比AACA更简单。建筑师创意成分更高，适合设计型人才；土木工程师技术性更强，移民路径更顺畅。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,92 @@
-# Precision-instrument Maker and Repairer（Precision-instrument Maker and Repairer）职业分析 · IT
+# Precision-instrument Maker and Repairer — career analysis · Italy
 
-**职业代码：7311 – Precision-instrument Maker and Repairer。**
+**Occupation code: 7311 (ISCO08)**
 
-Precision-instrument makers and repairers manufacture, calibrate, and repair precision measuring instruments, clocks, optical devices, etc., requiring fine manual skills and mechanical knowledge. Italy's strong manufacturing sector provides steady demand.
+Precision instrument makers and repairers manufacture, calibrate, and repair precision measuring instruments, clocks, optical instruments, etc., requiring excellent craftsmanship and mechanical knowledge. As a manufacturing powerhouse, Italy has stable demand for this occupation in the high-end manufacturing sector.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后职业培训 | 3年（职业院校） | —（公立学校免学费，仅注册费） |
-| 学徒制 | 3-4年 | —（学徒期间有工资） |
+| Post-secondary vocational training | 3 years (vocational school) | $0~$5,000 (Public schools offer no tuition, only a registration fee) |
+| Apprenticeship | 3-4 years | $0~$0 (Paid during apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书（Qualifica Professionale） | 大区职业培训中心 | 必备 | 完成培训后获得，证明基本技能 |
-| CNC操作认证 | 行业协会 | 可选 | 可选但提升竞争力 |
+| Qualifica Professionale | Regional vocational training center | Required | Obtained after training, certifying basic skills |
+| CNC operation certification | Industry association | Optional | Optional but enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。意大利高端制造业（如航空航天、医疗器械）持续发展，对精密仪器技师需求稳定。但年轻从业者减少，老龄化加剧，未来可能出现技能缺口。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Italy's high-end manufacturing (e.g., aerospace, medical devices) continues to develop, with stable demand for precision instrument technicians. However, fewer young workers and an aging workforce may lead to future skill gaps.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（8年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (8+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $31,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒晋升为高级技师，或专精于特定领域（如钟表修复、光学仪器）。部分人可开设独立工作室，或转向质量控制、技术销售等岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will take over standardized calibration and data recording tasks, but high-end restoration and custom manufacturing still rely on human touch and judgment. This occupation will not be fully replaced but rather split into standardized production lines and bespoke customization tracks.
+
+Can advance from apprentice to senior technician, or specialize in a specific field (e.g., watch restoration, optical instruments). Some may open independent studios or transition into quality control, technical sales, etc.
+
+**Tasks most exposed to AI:**
+
+- Repeated part dimension measurement and recording (replaced by AI vision and automated instruments)
+- Calibration process for standard instruments (taken over by AI automatic calibration algorithms)
+- Remote diagnosis of common faults (AI knowledge base provides solutions)
+- Inventory management and material procurement (optimised by AI prediction systems)
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis (AI-generated fault trees and historical cases)
+- Fine-tuning decisions in precision adjustment (AI provides real-time compensation suggestions)
+- Customized instrument design (AI-assisted 3D modeling and tolerance analysis)
+- Repair plan optimization (AI compares efficiency and cost of multiple approaches)
+- Multi-domain knowledge quick retrieval (AI integrating optics, mechanics, electronics materials)
+
+**Human moat:**
+
+- Manual finishing and tactile feedback (e.g., micron-level polishing, balance tuning)
+- Repair of non-standard/antique instruments (no blueprints, no spare parts)
+- Communicate with clients to understand custom requirements and translate them into technical solutions
+- On-site emergency repairs (decision-making in uncontrollable environments)
+
+**Skills to build:**
+
+- Using AI-assisted fault diagnosis tools (e.g., image-based inspection systems)
+- CNC machine and 3D printing operation (for manufacturing replacement parts)
+- Digital measurement and reverse engineering software (e.g., CAD, laser scanning).
+- IoT sensor and smart instrument debugging.
+- Python scripts (automating repetitive data collection)
+- Client communication and project management skills
+
+**Key growth areas:**
 
 - Precision manufacturing
 - Aerospace instruments
@@ -61,68 +95,67 @@ Precision-instrument makers and repairers manufacture, calibrate, and repair pre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟公民，需大学学历或同等经验，年薪门槛约31,000欧元（2025年） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保，无学历要求但需职业资格 |
-| Subclass Nulla Osta (Work Per（Nulla Osta al Lavoro） | 雇主向移民局申请工作许可，获批后可申请工作签证，适用于短缺职业 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU citizens, requires a university degree or equivalent experience, with an annual salary threshold of approximately €31,000 (2025). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applies to non-EU workers, requires employer sponsorship, no academic qualifications but occupational qualification needed |
+| Subclass Nulla Osta (Work Per (Nulla Osta al Lavoro) | Employers apply to the Department of Home Affairs for work permission; once approved, work visa can be applied for, applicable to shortage occupations |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Precision-instrument Maker and Repairer？**
-- 耐心细致、动手能力强的人
-- 对精密机械和仪器有浓厚兴趣的人
-- 愿意接受长期学徒培训的人
-
-**谁不适合学Precision-instrument Maker and Repairer？**
-- 不喜欢重复性精细工作的人
-- 寻求快速升职和高薪的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, meticulous, and highly skilled in hands-on work
+- People with a strong interest in precision machinery and instruments.
+- Those willing to undergo long-term apprenticeship training
+
+**Who is not suited**
+- Those who dislike repetitive fine work
+- Those seeking rapid promotion and high salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for precision instrument manufacturing and repair technicians?**
+A: Entry-level annual salary approx. €20,000–28,000, mid-level €28,000–35,000, senior €35,000–45,000. Experienced or specialized roles can earn more.
+
+**Q: How can foreign precision instrument technicians immigrate to Italy?**
+A: Accessible via EU Blue Card (requires meeting salary threshold) or Decreto Flussi work visa (requires employer sponsorship). Professional certifications are key.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Can progress from junior technician to senior technician, or become a workshop supervisor or quality control specialist; may also start their own repair workshop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Precision-instrument Maker and Repairer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for precision-instrument makers and repairers?**
-答：Entry-level annual salary is around 20,000-28,000 EUR, mid-level 28,000-35,000, senior 35,000-45,000. Experienced specialists may earn more.
-
-**问：How can foreign precision-instrument technicians immigrate to Italy?**
-答：Via EU Blue Card (requires salary threshold) or Decreto Flussi work visa (employer sponsorship). Vocational qualification is key.
-
-**问：Is there career progression in this occupation?**
-答：You can advance from junior to senior technician, or become a workshop supervisor, quality control specialist, or start your own repair studio.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Skilled Poultry And Rabbit Farmers（Skilled Poultry And Rabbit Farmers）职业分析 · ES
+# Skilled Poultry And Rabbit Farmers — career analysis · Spain
 
-**职业代码：6205 – Skilled Poultry And Rabbit Farmers。**
+**Occupation code: 6205 (CNO)**
 
-Skilled workers engaged in poultry and rabbit breeding, feeding, health monitoring, and production record keeping, ensuring animal welfare and productivity.
+Responsible for the breeding, management, health monitoring, and production records of poultry and rabbits, ensuring animal welfare and production efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立院校几乎免费，仅注册费） |
-| 高等职业教育（FP Grado Superior） | 2年 | $500~$4,000（私立院校费用较高） |
-| 大学本科（Grado） | 4年 | $1,000~$12,000（农学或动物科学专业，公立大学学费较低） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public institutions are almost free, with only a registration fee) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $500~$4,000 (Private institutions charge higher fees.) |
+| Undergraduate (Grado) | 4 years | $1,000~$12,000 (Majors in agriculture or animal science, with lower tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物健康证书 | 西班牙农业、渔业和食品部（MAPA） | 必备 | 特定农场要求持有，证明掌握生物安全和疾病防控知识 |
-| FP Grado Medio 或 Superior 学历 | 教育文化和体育部认可的院校 | 可选 | 多数雇主偏好职业教育背景，非强制但具竞争力 |
-| 农药施用许可证 | 自治区农业部门 | 可选 | 从事植物保护工作时需要 |
-| 学历认证（Homologación） | 西班牙教育文化和体育部 | 必备 | 第三国学历需认证为同等学位方可从事受规管职业 |
+| Animal health certificate | Spanish Ministry of Agriculture, Fisheries and Food (MAPA) | Required | Specific farms are required to possess knowledge of biosecurity and disease prevention |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education, Culture and Sports | Required | Third-country diplomas must be certified as equivalent to be allowed to engage in regulated occupations |
+| FP Grado Medio or Superior degree | Institutions recognized by the Ministry of Education, Culture and Sports | Optional | Most employers prefer a vocational education background, which is not mandatory but competitive |
+| Pesticide Applicator License | Autonomous region agricultural department | Optional | Required when engaged in plant protection work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。西班牙家禽和家兔养殖业稳定，但面临集约化与动物福利法规升级双重压力；就业机会集中在大型农场和合作社，年需求平稳，需掌握自动化和生物安全技能。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. Spain's poultry and rabbit farming industry is stable but faces dual pressures from intensification and upgraded animal welfare regulations; Job opportunities are concentrated in large farms and cooperatives, with stable annual demand and the need to master automation and biosafety skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，包含社保 |
-| 中级（3-6年） | $22,000~$28,000 | 有经验技工或主管级 |
-| 高级（6年以上） | $28,000~$35,000 | 农场经理或技术专家 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–6 years) | $22,000~$28,000 | Experienced technicians or supervisors at the supervisory level |
+| Senior (6+ years) | $28,000~$35,000 | Farm managers or technical experts |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级饲养员可晋升为养殖主管或农场经理；横向可转向畜牧业其他工种（如猪、牛养殖）；进修动物技术或兽医专业后可进入质检或技术服务岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
+
+Junior breeders can be promoted to breeding supervisors or farm managers; Horizontally, it can shift to other animal husbandry trades (such as pig and cattle farming); After further studies in animal technology or veterinary medicine, students can enter quality inspection or technical service positions.
+
+**Tasks most exposed to AI:**
+
+- Automated collection of soil moisture and nutrient data with report generation
+- Optimizing fertilization/irrigation plans based on historical yield and weather data.
+- Use drones to patrol fields and automatically identify pest and disease areas
+- Automated agricultural machinery scheduling and path planning
+
+**Where AI augments the role:**
+
+- AI-assisted precision fertilization decisions to increase crop yield
+- Uses computer vision to monitor livestock health in real time and warn of disease.
+- Smart sensor network optimizes irrigation and energy consumption
+- Machine learning predicts market demand to guide production planning
+
+**Human moat:**
+
+- On-site emergency response and complex fault diagnosis
+- Unstructured communication and coordination with farm workers and contractors
+- Ethical judgment of animal welfare and herd health management
+- Comprehensive production decisions across seasons and sites
+
+**Skills to build:**
+
+- Precision agriculture software (e.g., Climate FieldView)
+- UAV operation and remote sensing data analysis
+- Python/R basics and agricultural data analysis
+- IoT device configuration and maintenance
+- Project management and team management skills
+- Biosecurity protocols and animal health management
+
+**Key growth areas:**
 
 - Automation Integration
 - Animal Welfare Compliance
@@ -64,68 +97,67 @@ Skilled workers engaged in poultry and rabbit breeding, feeding, health monitori
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，由雇主担保，适用于长期合同；需证明岗位无法在欧盟内招聘。 |
-| Subclass Altamente cualificad（High-Skilled Professional Visa (EU Blue Card equivalent)） | 高技能专业人才签证，要求大学学历或5年经验，年薪符合门槛（约33,908欧元），快速通道。 |
-| Subclass Busqueda empleo（Job-Seeker Visa） | 求职签证，允许在西班牙居留6个月寻找工作，需证明足够资金。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence, sponsored by the employer, applies to long-term contracts; You must prove that the position cannot be recruited within the EU. |
+| Subclass Altamente cualificad (High-Skilled Professional Visa (EU Blue Card equivalent)) | The highly skilled professional visa requires a university degree or 5 years of experience, with an annual salary meeting the threshold (about €33,908), and is a fast-track entry. |
+| Subclass Busqueda empleo (Job-Seeker Visa) | The job seeker visa allows you to stay in Spain for 6 months to find a job, and you need to prove sufficient funds. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Skilled Poultry And Rabbit Farmers？**
-- 热爱动物和户外工作，不介意体力劳动和农场环境
-- 有农业或畜牧背景，或愿意接受职业教育培训
-- 希望在西班牙农村地区稳定生活，寻求中等收入工作
-
-**谁不适合学Skilled Poultry And Rabbit Farmers？**
-- 无法适应长时间站立、体力劳动和季节性加班
-- 对动物传染病或生物安全措施缺乏耐心和细心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves animals and outdoor work, and doesn't mind manual labor or farm environments
+- Having an agricultural or livestock background, or willing to receive vocational training
+- Those who hope to live stably in rural Spain and seek middle-income jobs
+
+**Who is not suited**
+- Unable to adapt to long periods of standing, physical labor, and seasonal overtime
+- Lack of patience and attention to detail regarding animal infectious diseases or biosecurity measures
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for poultry farming technicians in Spain?**
+A: Annual salary tax for junior technicians is about €18,000–22,000; Intermediate: 22,000-28,000 euros; Senior or management positions can earn between 28,000 and 35,000 euros. Salaries vary depending on region, farm size, and experience.
+
+**Q: How can third-country citizens immigrate to Spain through the poultry farming technician profession?**
+A: Employer sponsorship is possible through employment-based work residence (Cuenta ajena); If your education or experience meets the high skill threshold, you can apply for the highly skilled professional visa (EU Blue Card). The job-seeking visa (Búsqueda de empleo) is also suitable for job hunting after entry.
+
+**Q: Is higher education required for poultry farming?**
+A: Not necessarily. Spanish FP vocational education (Grado Medio/Superior) is a common path; A university degree in agriculture helps advance to management positions. Third-country diplomas must be certified by homologación.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Skilled Poultry And Rabbit Farmers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for skilled poultry farmers in Spain?**
-答：Entry-level annual gross salary is around €18,000-22,000; mid-level €22,000-28,000; senior or management €28,000-35,000. Varies by region, farm size, and experience.
-
-**问：How can third-country nationals immigrate to Spain as skilled poultry farmers?**
-答：Obtain a work permit (Cuenta ajena) with employer sponsorship, or apply for the EU Blue Card (Altamente cualificado) if meeting salary and qualification thresholds. The job-seeker visa allows entry to find work.
-
-**问：Is higher education necessary for poultry farming?**
-答：Not necessarily. Vocational training (FP) is common; a university degree in agriculture aids management. Foreign qualifications require homologación.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

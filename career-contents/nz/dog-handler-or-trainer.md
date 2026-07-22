@@ -1,58 +1,90 @@
-# Dog Handler or Trainer（Dog Handler or Trainer）职业分析 · 新西兰
+# Dog Handler or Trainer — career analysis · New Zealand
 
-**职业代码：361111 – Dog Handler or Trainer。**
+**Occupation code: 361111 (ANZSCO)**
 
-Steady demand in pet, security, and service-dog sectors; migration prospects tied to employer sponsorship and personal expertise, not on Green List.
+Demand is stable in the pet, security, and service dog fields; immigration opportunities are closely tied to employer sponsorship and personal skills, and this occupation is not a directly listed shortage occupation on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短课程/学徒 | 6个月至1年 | $3,000~$8,000（大部分 vocational 课程不含证书，实际操作培训班） |
-| 大专/职业资格证书 | 1-2年 | $12,000~$25,000（NZ Certificate in Animal Technology 或同类课程） |
+| Short course/apprenticeship | 6 months to 1 year | $3,000~$8,000 (Most vocational courses do not include certificates; hands-on training classes) |
+| Diploma/Occupational Certificate. | 1-2 years | $12,000~$25,000 (NZ Certificate in Animal Technology or equivalent course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰动物技术证书(NZ Certificate in Animal Technology) | 新西兰学历认证局(NZQA) | 可选 | 部分雇主可能要求 |
-| 国际犬只训练资格(如IAABC、CCPDT) | 国际协会 | 可选 | 非必须，但可显著提升信誉 |
+| New Zealand Certificate in Animal Technology | New Zealand Qualifications Authority (NZQA) | Optional | Some employers may require |
+| International dog training qualifications (e.g., IAABC, CCPDT) | International association | Optional | Not required, but can significantly enhance credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。随着宠物经济和服务犬（如导盲犬）需求增长，岗位保持稳定。但并非高增长职业，就业机会多集中在奥克兰、基督城等城市，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. With the growth of the pet economy and service dogs (e.g., guide dogs), the role remains stable. However, it is not a high-growth occupation, with job opportunities concentrated in cities like Auckland and Christchurch, and competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 宠物店或小型训练学校 |
-| 中级（3-7年） | $55,000~$75,000 | 专业训练机构或高需求地区 |
-| 高级（8年以上） | $75,000~$100,000 | 顶级专家或自主创业 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$55,000 | Pet store or small training school |
+| Mid-level (3–7 years) | $55,000~$75,000 | Professional training institutions or high-demand areas |
+| Senior (8+ years) | $75,000~$100,000 | Top expert or self-employed entrepreneur |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从宠物犬行为纠正入门，后转向竞技训练、工作犬（警犬、搜救犬）或开设工作室。高级阶段可考取国际认证（如IAABC、CCPDT）并开拓咨询业务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The outlook for dog trainer roles is mixed: basic behaviour training is easily replaceable by AI/automation, but advanced behaviour modification and custom service dog training rely on interpersonal trust and flexible judgment, making them less automatable.
+
+Can start with pet dog behavior correction, then move into competitive training, working dogs (police dogs, search and rescue dogs), or open a studio. Advanced stages can lead to international certifications (e.g., IAABC, CCPDT) and consulting business.
+
+**Tasks most exposed to AI:**
+
+- Automated basic obedience training (e.g., repetitive teaching of simple commands like sit, down, come)
+- Automatically generate training reports and progress records using AI behavior analysis tools
+- Use automated feeding/reward systems to implement scheduled positive reinforcement
+- AI-driven simulated canine behavior software for training students to identify common issues
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of canine behavior videos, providing rapid diagnosis and training suggestions
+- Use wearable sensors to track dogs' physiological states (heart rate, stress levels) to optimize training intensity
+- Automated customer communication and scheduling systems, freeing up time to focus on training
+- AI-generated personalized training plans (combining breed, age, and historical behavior data)
+
+**Human moat:**
+
+- Intuitive understanding and instant reaction to canine emotions and body language
+- Build trust with dog owners, handling anxious or resistant clients
+- Applying judgment and experience in complex scenarios (e.g., aggressive correction, trauma dog rehabilitation)
+- On-the-spot real-time adjustment of training programs (non-standardized scenarios)
+
+**Skills to build:**
+
+- Behavioral psychology and learning theories (e.g., operant conditioning, desensitization therapy)
+- Data analytics basics (interpreting AI behaviour reports, adjusting training strategies)
+- Human-machine collaboration training tool operation (e.g., remote control reward devices, behavior tracking apps)
+- Customer communication and online teaching skills (for online consultation and remote guidance)
+- Professional training certification for special dog breeds and working dogs (service dogs, search and rescue dogs)
+
+**Key growth areas:**
 
 - Pet industry growth
 - Service animal demand
@@ -61,68 +93,67 @@ Steady demand in pet, security, and service-dog sectors; migration prospects tie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见的工签途径，需认证雇主offer且薪资达标（高于中位数）。 |
-| Subclass SMC（Skilled Migrant Category） | 若薪资达到中位数1.5倍或更高（目前约$43.32/小时），可尝试技术移民。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 如满足特定ANZSCO要求，且薪资不低于中位数1.5倍，可工作2年后申请居留。但该职业不在Green List中，需个案评估。 |
+| Subclass AEWV (Accredited Employer Work Visa) | The most common work visa pathway, requiring a certified employer offer and meeting the salary threshold (above the median). |
+| Subclass SMC (Skilled Migrant Category) | If the salary reaches 1.5 times the median or higher (currently approximately $43.32/hour), one may try skilled migration. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If specific ANZSCO requirements are met and salary is not less than 1.5 times the median, you can apply for residence after working for 2 years. However, this occupation is not on the Green List and requires case-by-case assessment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dog Handler or Trainer？**
-- 热爱动物且对行为科学有耐心的人
-- 具备沟通能力，能教导主人正确训练方法
-- 希望在新西兰从事稳定、低AI取代风险的职业
-
-**谁不适合学Dog Handler or Trainer？**
-- 追求高薪水、高增长行业的人
-- 不喜欢体力劳动和户外工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those who love animals and have patience for behavioral science.
+- Have communication skills to teach owners correct training methods
+- Hope to pursue a stable, low AI replacement risk career in New Zealand.
+
+**Who is not suited**
+- People pursuing high salary, high-growth industries
+- People who dislike physical labor and outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for dog trainers in New Zealand?**
+A: Entry-level about NZD $40,000–55,000; mid-to-senior up to $75,000–100,000; self-employment or specializing in working dog training yields higher income.
+
+**Q: Can dog trainers migrate to New Zealand?**
+A: Not on the Green List direct shortage occupations, but can gain experience with an AEWV visa, and attempt SMC skilled migration after meeting salary thresholds. Few successful cases, requiring employer support and higher salary.
+
+**Q: What qualifications or certifications does a dog trainer need?**
+A: While not legally mandatory, the New Zealand Certificate in Animal Technology or international certifications (IAABC, CCPDT) can significantly improve employment and income prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Dog Handler or Trainer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dog trainers in New Zealand?**
-答：Entry-level around NZD 40,000-55,000 per year, mid to senior level up to NZD 100,000, with self-employment or specialization in working dogs yielding higher.
-
-**问：Can a dog trainer immigrate to New Zealand?**
-答：No Green List status; possible via AEWV work visa then SMC if salary meets threshold (≥1.5x median). Cases are limited; strong employer sponsorship and income needed.
-
-**问：What qualifications or certifications do dog trainers need?**
-答：No mandatory license, but NZ Certificate in Animal Technology or international credentials (IAABC, CCPDT) boost employability and earning potential.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

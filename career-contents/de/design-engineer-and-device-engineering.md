@@ -1,58 +1,94 @@
-# Design Engineer and Device Engineering（Design Engineer and Device Engineering）职业分析 · DE
+# Design Engineer and Device Engineering — career analysis · Germany
 
-**职业代码：2722 – Design Engineer and Device Engineering。**
+**Occupation code: 2722 (KldB)**
 
-Responsible for product design and device development, covering mechanical, electronic, and systems engineering, from concept to technical realization.
+Responsible for product design and equipment development, covering mechanical, electronic, and systems engineering, from concept to production.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制大学（DH） | 3年 | —（通常带薪，学费低或无） |
-| 应用科学大学硕士 | 2年 | $300~$1,500（学期费，国际生部分州收学费） |
+| Dual university (DH) | 3 years | $0~$500 (Usually paid, with low or no tuition fees) |
+| Master's from a University of Applied Sciences | 2 years | $300~$1,500 (Semester fees, some states charge tuition for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | 德国大学 | 必备 | 机械、电气或相关专业 |
-| 资质认证（Anerkennung） | 德国认证机构（如ZAB） | 必备 | 海外学历需认证 |
+| Bachelor's degree in engineering | German university | Required | Mechanical, electrical, or related majors |
+| Qualification recognition (Anerkennung) | German credential evaluation bodies (e.g., ZAB) | Required | Overseas degrees need credential evaluation. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 245,000。德国工业4.0推动对设计工程师的需求，尤其在汽车、机械制造和自动化领域。预计未来5年岗位增长5-10%，数字化与绿色转型带来新机遇。
+**Job demand: high (★★★★☆).** National workforce approx. 245,000. German Industry 4.0 drives demand for design engineers, especially in automotive, machinery, and automation sectors. Job growth of 5-10% expected over the next 5 years, with digitalization and green transition creating new opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪 |
-| 中级（4-7年） | $55,000~$70,000 | 税前年薪 |
-| 高级（8年以上） | $70,000~$90,000 | 税前年薪 |
+| Median salary | $54,156 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $55,000~$70,000 | Annual pre-tax salary |
+| Senior (8+ years) | $70,000~$90,000 | Annual pre-tax salary |
+| average salary | $58,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从技术员晋升为项目经理或研发主管，通过继续教育（如技术管理硕士）向高层发展。双元制大学路径也常见。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on design and equipment engineering is mixed: AI enhances conceptual design, simulation, and parameter optimization, but physical prototyping, system integration, and compliance verification still require human judgment.
+
+Can advance from technician to project manager or R&D supervisor, and progress to senior roles through continuing education (e.g., Master's in Technology Management). The dual university pathway is also common.
+
+**Tasks most exposed to AI:**
+
+- 3D Modeling and 2D Drafting of Standard Parts
+- Basic Finite Element Analysis and Simulation
+- Simple optimization of design parameters and comparison of alternatives
+- Automatic BOM generation and bill of materials maintenance
+- Routine report generation of equipment operation data
+
+**Where AI augments the role:**
+
+- Multiphysics coupled simulation and design space exploration
+- Rapid concept design and iteration based on generative AI
+- Real-time monitoring analysis and predictive maintenance decisions
+- Interdisciplinary system integration and fault diagnosis
+- Design compliance auto-check and document generation.
+
+**Human moat:**
+
+- Complex system architecture and innovative concept design
+- Cross-domain safety and reliability decision-making
+- Experimental verification and physical prototype problem solving
+- In-depth understanding of client needs and communication coordination
+- Engineering ethics and regulatory compliance judgment
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., generative design software)
+- System modeling and multiphysics simulation
+- Fundamentals of data science and machine learning
+- Agile development and digital twin technology
+- Interdisciplinary collaboration and systems engineering methodology
+- AI ethics and risk management in engineering
+
+**Key growth areas:**
 
 - Industry 4.0
 - Digitalization
@@ -61,65 +97,64 @@ Responsible for product design and device development, covering mechanical, elec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历工程师，薪资门槛较低（2024年约4.3万欧），快速永居 |
-| Subclass Skilled Worker（Skilled Employment Visa） | 与雇主绑定，需学历认证，适用于工程岗位 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，可在德找工作1年，适合无雇主但高潜力求职者 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated engineers, with a lower salary threshold (approximately €43,000 in 2024), leading to fast permanent residency. |
+| Subclass Skilled Worker (Skilled Employment Visa) | Tied to employer, requires qualification assessment, applicable for engineering roles |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking in Germany for 1 year, suitable for high-potential applicants without employer sponsorship |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Design Engineer and Device Engineering？**
-- 有机械/电子工程背景
-- 喜欢产品开发与技术创新
-- 愿意在德学习或认证学历
-
-**谁不适合学Design Engineer and Device Engineering？**
-- 不擅长团队协作与跨部门沟通
-- 对文件规范与认证流程缺乏耐心
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in mechanical/electronic engineering
+- Like product development and technological innovation
+- Willing to study or obtain certified qualification in Germany
+
+**Who is not suited**
+- Not good at teamwork and cross-department communication
+- Lack of patience with document standards and certification processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Design Engineer in Germany?**
+A: Junior about 45,000-55,000 EUR, mid-level 55,000-70,000 EUR, senior 70,000-90,000 EUR. Varies by industry and region.
+
+**Q: How can overseas qualifications be recognized for engineering roles in Germany?**
+A: Requires recognition of qualifications (Anerkennung) through ZAB assessment. Most engineering bachelor's degrees are comparable to German degrees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Design Engineer and Device Engineering的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for design engineers in Germany?**
-答：Junior: €45k-55k, mid-level: €55k-70k, senior: €70k-90k. Varies by industry and region.
-
-**问：How can overseas qualifications be recognized for engineering roles in Germany?**
-答：Requires credential evaluation (Anerkennung) via ZAB. Most engineering bachelor's degrees are recognized as equivalent.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

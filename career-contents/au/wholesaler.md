@@ -1,59 +1,95 @@
-# Wholesaler（Wholesaler）职业分析 · 澳大利亚
+# Wholesaler — career analysis · Australia
 
-**职业代码：133312 – Wholesaler。**
+**Occupation code: 133312 (ANZSCO)**
 
-Wholesalers purchase large quantities of goods from producers and distribute them to retailers, businesses, or institutions, managing supply chains, inventory, and sales teams to bridge production and end markets.
+Wholesalers purchase large quantities of goods and distribute them to retailers, businesses, or institutions, managing supply chains, inventory, and sales teams, serving as the key intermediary between production and end markets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（多数职位仅需高中文凭，在职培训即可） |
-| 商科/管理学士学位 | 3年 | $30,000~$50,000（澳洲大学年均学费约1-1.7万澳元，国际学生更高） |
+| High school graduation | 0 years | $0~$0 (Most positions require only a high school diploma and on-the-job training) |
+| Bachelor's Degree in Business/Management | 3 years | $30,000~$50,000 (Annual tuition fees at Australian universities average about AUD 10,000-17,000, higher for international students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商科学位（推荐） | 澳洲大学 | 可选 | 非强制，但有助于晋升和竞争 |
-| 供应链管理证书 | Australian Institute of Management (AIM) | 可选 | 提升专业技能 |
-| 销售培训课程 | 各类培训机构 | 可选 | 企业常提供内部培训 |
+| Business degree (recommended) | Australian universities | Optional | Not mandatory, but helps with promotion and competitiveness |
+| Supply chain management certificate | Australian Institute of Management (AIM) | Optional | Enhance professional skills |
+| Sales training courses | Various training institutions | Optional | Employers often provide internal training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。澳洲批发业受消费需求、国际贸易和物流效率影响，预计未来五年就业稳定。电商发展推动渠道变革，但整体从业人数变化不大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Australia's wholesale industry is influenced by consumer demand, international trade, and logistics efficiency, with stable employment expected over the next five years. E-commerce drives channel changes, but overall workforce numbers remain fairly stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 包括销售代表、采购助理等 |
-| 中级（3-7年） | $75,000~$100,000 | 独立负责产品线或客户群 |
-| 高级（7年以上） | $100,000~$150,000 | 管理团队或大型客户 |
+| Median salary | $95,992 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Includes sales representatives, purchasing assistants, etc. |
+| Mid-level (3–7 years) | $75,000~$100,000 | Independently responsible for a product line or customer segment |
+| Senior (7+ years) | $100,000~$150,000 | Manage teams or large clients |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：销售代表/采购助理 → 批发商/区域经理 → 高级批发商/供应链总监。可转向零售管理、进出口贸易或自主创业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Wholesalers are vulnerable to AI automation in tasks like procurement, inventory management, and market analysis, reducing entry-level roles, but complex negotiations and client relationship management still require humans.
+
+Career path: Sales Representative/Procurement Assistant → Wholesaler/Regional Manager → Senior Wholesaler/Supply Chain Director. Can transition to retail management, import/export trade, or start own business.
+
+**Tasks most exposed to AI:**
+
+- Automated order processing and inventory replenishment decisions
+- Demand forecasting and procurement planning based on historical data
+- Respond to basic customer inquiries and price quotes
+- Supply chain document organization and compliance report generation
+- Price trend analysis and market report writing
+
+**Where AI augments the role:**
+
+- Use AI to analyze market data and identify new growth opportunities.
+- Use predictive tools to optimize inventory levels and reduce holding costs
+- Automated report generation to focus on strategic negotiations
+- AI-assisted risk modelling to address supply chain fluctuations
+- Improving customer service efficiency through chatbots
+
+**Human moat:**
+
+- Long-term trust relationships with suppliers and key clients
+- Strategy and emotional intelligence in complex business negotiations
+- Cross-departmental coordination and team leadership
+- Quick response to unpredictable market changes
+- Industry-specific knowledge and experience judgment
+
+**Skills to build:**
+
+- AI-driven supply chain management tools (e.g., Blue Yonder)
+- Data analysis and visualization (Python/Power BI)
+- Advanced Negotiation and Relationship Management
+- Digital platform operations (B2B e-commerce)
+- Agile project management methodology
+- Risk management and compliance
+
+**Key growth areas:**
 
 - Stable
 - E-commerce growth
@@ -62,69 +98,68 @@ Wholesalers purchase large quantities of goods from producers and distribute the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于被担保的批发商职位，需雇主担保和职业清单（如ANZSCO 133312在ROL上） |
-| Subclass 186（Employer Nomination Scheme） | 临时签证转永居，需雇主提名并满足条件 |
-| Subclass 190（Skilled Nominated Visa） | 需州政府担保，部分州可能提名批发商 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保，适合愿意在偏远地区工作的批发商 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable to sponsored wholesale positions requiring employer sponsorship and occupation list (e.g., ANZSCO 133312 on ROL) |
+| Subclass 186 (Employer Nomination Scheme) | Temporary visa to permanent residency requires employer nomination and meeting conditions |
+| Subclass 190 (Skilled Nominated Visa) | State nomination required; some states may nominate wholesalers |
+| Subclass 491 (Skilled Work Regional Visa) | Regional state sponsorship, suitable for wholesalers willing to work in remote areas |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wholesaler？**
-- 擅于沟通和谈判，有销售或采购经验
-- 具备供应链管理兴趣，能处理多任务
-- 愿意出差、适应快节奏工作环境
-
-**谁不适合学Wholesaler？**
-- 不喜欢频繁与人打交道
-- 对数字分析和库存管理缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in communication and negotiation, with sales or procurement experience
+- interested in supply chain management, able to handle multiple tasks
+- Willing to travel and adapt to a fast-paced work environment
+
+**Who is not suited**
+- Dislikes frequent interaction with people
+- Lacks patience with data analysis and inventory management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for wholesalers?**
+A: Entry-level annual salary approx. AUD 55,000–75,000, mid-level AUD 75,000–100,000, senior can exceed AUD 100,000. Performance bonuses are a significant income source.
+
+**Q: Can wholesalers immigrate to Australia?**
+A: Yes, but requires employer sponsorship (482/186) or state nomination (190/491). The occupation is on the ROL regional occupation list, and individual circumstances must be considered.
+
+**Q: What is the career progression path for a wholesaler?**
+A: Start as a sales representative or procurement assistant, advance to regional manager, category manager, and eventually become supply chain director or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Wholesaler的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a wholesaler?**
-答：Entry-level salary ranges from AUD 55,000 to 75,000, mid-level 75,000 to 100,000, and senior can exceed 100,000. Performance bonuses are common.
-
-**问：Can a wholesaler migrate to Australia?**
-答：Yes, via employer sponsorship (482/186) or state nomination (190/491). The occupation is on the ROL, so regional pathways are common.
-
-**问：What is the career progression for a wholesaler?**
-答：Start as a sales representative or purchasing assistant, progress to regional manager, category manager, and eventually supply chain director or entrepreneur.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

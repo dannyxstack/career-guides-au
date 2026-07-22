@@ -1,60 +1,96 @@
-# Street Vendor（Street Vendor）职业分析 · 新西兰
+# Street Vendor — career analysis · New Zealand
 
-**职业代码：621713 – Street Vendor。**
+**Occupation code: 621713 (ANZSCO)**
 
-Street vendors sell food, drinks or goods at markets, events or temporary stalls; work is flexible but income unstable. Migration via skilled categories is unlikely; requires employer sponsorship or self-employment.
+Street vendors sell food, drinks, or small goods at markets, events, or temporary stalls, offering flexible work but unstable income. Low feasibility for skilled migration, requiring employer sponsorship or self-employment.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（通常不需要正式教育，但食品安全培训可能需要少量费用。） |
-| 食品安全证书课程 | 1-3个月 | $200~$500（提供基本食品安全知识，非强制但有益。） |
+| No education requirement | 0 years | $0~$0 (Usually no formal education required, but food safety training may involve a small cost.) |
+| Food Safety Certificate Course | 1-3 months. | $200~$500 (Provides basic food safety knowledge, not mandatory but beneficial.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 新西兰初级产业部认可的培训机构 | 可选 | 销售食品时可能需要，部分地方强制。 |
-| 英语语言测试（如雅思） | IDP或British Council | 可选 | 移民途径中要求，技术移民需总分6.5。 |
+| Food safety certificate | Training provider recognized by New Zealand Ministry for Primary Industries | Optional | May be required when selling food; mandatory in some places. |
+| English language test (e.g., IELTS) | IDP or British Council | Optional | Required for immigration pathway; skilled migration needs overall score of 6.5. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。新西兰街头小贩就业前景受旅游业和活动经济影响，疫情后缓慢复苏。从业者多为兼职或自雇，收入波动大。政府鼓励正规化，但整体需求平稳。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,000. Employment prospects for street vendors in New Zealand are influenced by tourism and event economy, with slow recovery post-pandemic. Most workers are part-time or self-employed, with fluctuating income. The government encourages formalization, but overall demand is stable.
 
-**竞争度：适中（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $25,000~$35,000 | 兼职或非高峰期，收入不稳定。 |
-| 中级（2-5年） | $35,000~$50,000 | 全职且经验丰富，旺季收入较高。 |
-| 高级（5年以上） | $45,000~$60,000 | 拥有固定客户群或品牌，收入仍受波动影响。 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $25,000~$35,000 | Part-time or off-peak hours, unstable income. |
+| Intermediate (2-5 years) | $35,000~$50,000 | Full-time and experienced, higher income during peak seasons. |
+| Senior (5+ years) | $45,000~$60,000 | Having a steady client base or brand, income is still subject to fluctuations. |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 常见发展路径包括积累客户后开设固定摊位或小型店铺，或转向餐饮管理。少数人通过品牌化扩大业务，但晋升空间有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on street vendors is mixed: sales and payment processes can be automated, but core tasks like interpersonal interaction, on-site adaptability, and food preparation are hard to replace. Entry barriers are lowered by vending machines and e-commerce platforms, but flexibility and low skill requirements still retain opportunities.
+
+Common career path includes building client base to open a fixed stall or small shop, or transitioning into catering management. Some expand through branding, but promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Payment collection and change-giving: replaced by mobile payments and self-checkout
+- Inventory management and replenishment: AI prediction system automatically optimizes
+- Simple food preparation (e.g., hot dogs, drinks): automated cooking equipment
+- Customer acquisition and advertising: digital marketing platform takeover
+- Business hours recording and tax filing: automated financial software
+
+**Where AI augments the role:**
+
+- Personalized recommendations: AI analyzes customer preferences to recommend popular products
+- Pricing strategy: dynamic pricing tools optimize profits
+- Social Media Marketing: AI-Generated Content to Attract Customers
+- Supply Chain Management: Predictive Analytics to Reduce Waste
+- Compliance and licensing reminders: AI tracks regulatory changes
+
+**Human moat:**
+
+- Ability to build trust and intimate relationships with customers.
+- Creativity and skill in making specialty food items live on-site
+- Flexibly responding to emergencies (weather, crowds)
+- Local knowledge (knowing which products sell well in which locations)
+- The brand story and human touch brought by handmade production
+
+**Skills to build:**
+
+- Use mobile payments and simple POS systems
+- Social media operations and content creation
+- Basic food hygiene and safety knowledge
+- Basic data analysis (sales trends)
+- Customer service and communication skills
+- Learn to use inventory management apps.
+
+**Key growth areas:**
 
 - Limited
 - Self-employment
@@ -63,68 +99,67 @@ Street vendors sell food, drinks or goods at markets, events or temporary stalls
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 若雇主为认证雇主，可申请此工签，但街头小贩职位的雇主认证较难。 |
-| Subclass SMC（Skilled Migrant Category） | 若收入达到中位数工资（约$29.66/小时）且技能符合，可申请，但街头小贩通常不被视为技能职业。 |
+| Subclass AEWV (Accredited Employer Work Visa) | If the employer is an accredited sponsor, this work visa can be applied for, but accreditation for street vendor positions is difficult. |
+| Subclass SMC (Skilled Migrant Category) | If income meets the median wage (~$29.66/hour) and skills are relevant, application is possible, but street vendors are generally not considered skilled occupations. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Street Vendor？**
-- 喜欢自由工作、不介意收入波动的人
-- 有创业精神、愿意自雇的人
-- 善于与人打交道、热爱户外工作的人
-
-**谁不适合学Street Vendor？**
-- 追求稳定收入和全职工作保障的人
-- 希望快速获得新西兰永久居留权的技术移民
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working freely and don't mind income fluctuations
+- Entrepreneurial individuals willing to work self-employed
+- People who are good with others and enjoy outdoor work
+
+**Who is not suited**
+- People seeking stable income and full-time job security
+- Skilled migrants seeking quick NZ permanent residency
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a street vendor in New Zealand?**
+A: Average annual salary about NZ$35,000 to NZ$50,000, but heavily influenced by season and location; many are part-time.
+
+**Q: Can street vendors immigrate to New Zealand through skilled migration?**
+A: Opportunities are very low because the occupation is not listed as a skilled occupation, typically requires employer sponsorship, and the salary is unlikely to reach the median wage.
+
+**Q: Do I need a local New Zealand qualification?**
+A: Food safety training is usually required when selling food but is not mandatory. International qualifications are not recognized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 适中（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Street Vendor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a street vendor in New Zealand?**
-答：Average annual salary ranges from NZD 35,000 to 50,000, but varies greatly by season and location; many work part-time.
-
-**问：Can a street vendor immigrate to New Zealand through skilled migration?**
-答：Chances are low, as the occupation is not classified as skilled; it typically requires employer sponsorship and income may not meet median wage.
-
-**问：Are local New Zealand qualifications required?**
-答：Food safety training is often needed for selling food but not mandatory. International qualifications are not recognized.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

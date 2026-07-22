@@ -1,60 +1,95 @@
-# Industrial Quality Management and Engineering（Industrial Quality Management and Engineering）职业分析 · FR
+# Industrial Quality Management and Engineering — career analysis · France
 
-**职业代码：H1502 – Industrial Quality Management and Engineering。**
+**Occupation code: H1502 (ROME)**
 
-Designs, implements and optimizes industrial quality management systems to ensure product compliance and improve production efficiency through continuous improvement.
+Responsible for designing, implementing, and optimizing the industrial quality management system to ensure products meet standards and improve production efficiency through continuous improvement.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（工程师学院或硕士） | $500~$8,000（公立大学约500-1000欧/年，私立工程师学院约5000-8000欧/年） |
-| 本科（Bac+3） | 3年（licence professionnelle） | $500~$5,000（公立大学约500-1500欧/年，私立约3000-5000欧/年） |
-| BTS/DUT（Bac+2） | 2年 | $200~$1,500（公立院校约200-500欧/年，私立约1000-1500欧/年） |
+| Master's (BAC+5) | 5 years (engineering school or master's) | $500~$8,000 (Public universities approx. €500-1000/year, private engineering schools approx. €5000-8000/year.) |
+| Undergraduate (Bac+3) | 3 years (licence professionnelle) | $500~$5,000 (Public universities approx. €500-1,500/year; private approx. €3,000-5,000/year.) |
+| BTS/DUT（Bac+2） | 2 years | $200~$1,500 (Public institutions about €200-500/year, private about €1,000-1,500/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师文凭（Diplôme d'Ingénieur） | 工程师学院（CTI认证） | 可选 | 推荐，尤其来自认证工程师学院 |
-| 六西格玛绿带/黑带 | 认证培训机构（如ASQ） | 可选 | 加分项，非强制 |
-| ISO 9001内审员 | 认证机构（如AFNOR） | 可选 | 行业常见要求 |
+| Diplôme d'Ingénieur (Engineer Diploma) | College of Engineering (CTI Accredited) | Optional | Recommended, especially from the Certified Engineer Academy |
+| Six Sigma Green Belt/Black Belt | Certified training institutions (such as ASQ) | Optional | Bonus points, not mandatory |
+| ISO 9001 internal auditor | Certification bodies (such as AFNOR) | Optional | Common industry requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国工业4.0转型推动质量工程师需求增长，尤其在汽车、航空航天、制药等领域。预计未来5年岗位增长约5-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. France's Industry 4.0 transformation has driven increased demand for quality engineers, especially in automotive, aerospace, and pharmaceutical sectors. Job growth is expected to be about 5-10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 税前年薪，视行业和地区 |
-| 中级（4-7年） | $40,000~$50,000 | — |
-| 高级（8年以上） | $52,000~$65,000 | 税前年薪，可至管理岗 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$38,000 | Annual pre-tax salary, varies by industry and region |
+| Mid-level (4-7 years) | $40,000~$50,000 | — |
+| Senior (8+ years) | $52,000~$65,000 | Pre-tax annual salary, available for management positions |
+| average salary | $51,528 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从质量技术员可晋升为质量工程师、质量经理，再至质量总监或六西格玛黑带。也可转向供应链管理或工艺工程。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial quality management and engineering professions face dual impacts in the AI era: standardized quality inspection and data monitoring tasks are easily automated, but complex problem diagnosis, system optimization, and cross-departmental coordination still require human judgment, presenting both opportunities and challenges.
+
+You can advance from quality technician to quality engineer, quality manager, then to quality director or Six Sigma Black Belt. It can also be shifted to supply chain management or process engineering.
+
+**Tasks most exposed to AI:**
+
+- Routine quality inspection and data recording, such as using automated visual inspection systems instead of manual visual inspection
+- Based on standard quality report generation, AI can automatically summarize, analyze, and generate documentation
+- Simple defect classification and routine monitoring of Statistical Process Control (SPC).
+- Preliminary review and compliance checks of supplier quality documents
+
+**Where AI augments the role:**
+
+- Leverage machine learning and statistical analysis to quickly identify the root causes of quality issues
+- AI predictive models optimize quality precautions and process parameters
+- Using digital twin technology to simulate the effectiveness of quality improvement plans
+- Use AI-driven visualization tools to efficiently communicate quality performance with teams and management
+- Discover hidden opportunities for quality improvement from massive production data
+
+**Human moat:**
+
+- In-depth analysis and creative resolution of the root causes of complex quality issues
+- Cross-departmental coordination and decision-making required for establishing and maintaining quality management systems (such as ISO 9001).
+- Crisis management and communication during customer complaints and major quality incidents
+- Assess the quality impact of new technologies and design regulatory validation protocols
+- Cultivate and guide the team's quality awareness and culture of continuous improvement
+
+**Skills to build:**
+
+- Master basic programming (Python/R) and data analysis (Pandas, Scikit-learn)
+- Familiar with the application of AI quality inspection tools (such as the computer vision library OpenCV).
+- Learn Statistical Process Control (SPC) and Six Sigma methodologies
+- Learn about digital twins and factory simulation software (such as AnyLogic, Simio)
+- Strengthen lean management and project management (such as PMP) capabilities
+- Develop cross-departmental communication and change management skills
+
+**Key growth areas:**
 
 - Industry 4.0
 - Lean Manufacturing
@@ -63,68 +98,67 @@ Designs, implements and optimizes industrial quality management systems to ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue européen（EU Blue Card） | 适合年薪超过53,000欧元（2024标准）的高技能岗位，快速通道 |
-| Subclass Passeport Talent（Talent Passport） | 针对高学历/高技能人才，无薪资门槛，有效期4年 |
-| Subclass Salarié（Salaried Employee） | 受雇工作居留，需雇主担保，可转长期居留 |
+| Subclass Carte bleue européen (EU Blue Card) | Suitable for high-skilled positions with an annual salary exceeding 53,000 euros (2024 standard), with a fast track |
+| Subclass Passeport Talent (Talent Passport) | For highly educated/highly skilled talents, there is no salary threshold, and the validity period is 4 years |
+| Subclass Salarié (Salaried Employee) | For employed work residence, employer sponsorship is required, and the residence can be converted to long-term residence |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Quality Management and Engineering？**
-- 注重细节、逻辑思维强，擅长分析和解决问题
-- 对工业流程和标准化有热情，喜欢持续改进
-- 具备跨部门沟通能力，能在压力下工作
-
-**谁不适合学Industrial Quality Management and Engineering？**
-- 不喜欢重复性检查和数据统计工作
-- 无法适应工厂或车间环境，对噪音/加班敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, strong logical thinking, and skilled at analyzing and solving problems
+- Passionate about industrial processes and standardization, and enjoys continuous improvement
+- Possess cross-departmental communication skills and be able to work under pressure
+
+**Who is not suited**
+- Dislikes repetitive checks and data statistics
+- Unable to adapt to factory or workshop environments, sensitive to noise/overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for quality engineers in France?**
+A: Junior: approx. EUR 32,000-38,000, intermediate: EUR 40,000-50,000, senior: EUR 52,000-65,000. Automotive/pharmaceutical sectors pay higher, with bonuses common.
+
+**Q: How can Chinese engineers work in quality management in France through technical migration?**
+A: You can apply for an EU Blue Card (annual salary ≥53k euros) or a talent passport. Must be employed by a French employer and have a professional match. France recognizes Chinese engineering diplomas, but recommends passing WES certification or CTI assessment.
+
+**Q: Is there a shortage of quality engineers in France?**
+A: Yes, especially in industrial automation, aviation, and medical devices. The French government listed it as métier en tension.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Industrial Quality Management and Engineering的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for quality engineers in France?**
-答：Entry-level around €32-38k, mid-level €40-50k, senior €52-65k. Higher in automotive/pharma, often with bonuses.
-
-**问：How can Chinese engineers migrate to France for quality management?**
-答：Apply for EU Blue Card (salary ≥€53k) or Talent Passport. Requires a job offer from a French employer and relevant degree. French recognition of Chinese engineering diplomas is possible via WES or CTI evaluation.
-
-**问：Is quality engineering in demand in France?**
-答：Yes, especially in automation, aerospace, and medical devices. It's listed as a 'métier en tension' by the French government.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

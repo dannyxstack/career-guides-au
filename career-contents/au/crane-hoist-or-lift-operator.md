@@ -1,61 +1,97 @@
-# Crane, Hoist or Lift Operator（Crane, Hoist or Lift Operator）职业分析 · 澳大利亚
+# Crane, Hoist or Lift Operator — career analysis · Australia
 
-**职业代码：712111 – Crane, Hoist or Lift Operator。**
+**Occupation code: 712111 (ANZSCO)**
 
-Operates cranes, hoists, or lifts to move heavy materials in construction, manufacturing, mining, and transport. Requires high concentration and strict safety compliance.
+Operate cranes, hoisting equipment, or lifts to move heavy loads in construction, manufacturing, mining, and transport. Requires high concentration and strict adherence to safety regulations.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业培训 | 6个月-1年 | $5,000~$15,000（TAFE或RTO提供起重机操作证书课程） |
-| 在职培训 | 6-12个月 | —（雇主提供实操培训，可能需要自费获取额外执照） |
+| Vocational training | 6 months to 1 year | $5,000~$15,000 (TAFE or RTO provides crane operator certificate courses) |
+| On-the-job training | 6–12 months | $0~$5,000 (Employers provide hands-on training, but additional licenses may require self-funding.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高风险工作执照（起重机操作） | SafeWork NSW / 各州工作安全局 | 必备 | 根据起重机类型（如塔吊、移动式）需不同执照 |
-| 白卡（通用建筑工地入场证） | SafeWork NSW / 各州认可机构 | 必备 | 所有建筑工人必备 |
-| 起重机操作三级证书 | TAFE / RTO | 可选 | 部分雇主偏好持证者，非强制但有助于就业 |
+| High-risk work license (crane operation) | SafeWork NSW / state work safety authorities | Required | Different licenses are required depending on crane type (e.g., tower crane, mobile crane) |
+| White Card (General Construction Induction Card) | SafeWork NSW / state-accredited bodies | Required | Essential for all construction workers |
+| Certificate III in Crane Operations | TAFE / RTO | Optional | Some employers prefer certified individuals, not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。澳洲基建投资和采矿需求持续，起重机操作员就业稳定。未来五年预计温和增长，尤其偏远地区和大型项目。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Australia's infrastructure investment and mining demand keep crane operator employment stable. Moderate growth expected over the next five years, especially in remote areas and large projects.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 小型起重机操作员或学徒 |
-| 中级（3-8年） | $75,000~$95,000 | 移动式起重机或塔吊操作员 |
-| 高级（8年以上） | $95,000~$130,000 | 大型塔吊或特种起重设备操作员，含加班和津贴 |
+| Median salary | $177,372 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Small crane operator or apprentice |
+| Mid-level (3–8 years) | $75,000~$95,000 | Mobile crane or tower crane operator |
+| Senior (8+ years) | $95,000~$130,000 | Large tower crane or special lifting equipment operator, including overtime and allowances |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级阶段操作小型起重机，可晋升为操作大型塔吊或移动式起重机，进而成为团队主管、培训师或安全督导。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Crane operators face partial risk of automation by AI, but human judgment remains indispensable in complex environment control, safety decisions, and non-standardized tasks; AI mainly augments rather than fully replaces.
+
+Starting from entry-level operation of small cranes, can progress to operating large tower cranes or mobile cranes, then become team supervisor, trainer, or safety supervisor.
+
+**Tasks most exposed to AI:**
+
+- Basic lifting path planning (AI automatically calculates optimal trajectory)
+- Load monitoring and early warning (sensors + AI real-time analysis)
+- Routine equipment inspection (AI visual inspection replacing manual visual check)
+- Operation recording and report generation (AI automatically generates logs)
+- Repetitive lifting under standard working conditions (performed by automated cranes)
+
+**Where AI augments the role:**
+
+- AI-assisted field of view enhancement (AR overlay load data and blind spot monitoring)
+- Intelligent collision avoidance system (AI alerts and avoidance suggestions)
+- Remote expert support (AI transmits real-time data to guide complex operations)
+- Predictive maintenance (AI analyzes historical data to predict failures)
+- Training and simulation (VR+AI simulating various dangerous scenarios).
+
+**Human moat:**
+
+- Decision-making in complex or unstructured environments (e.g., heights, confined spaces)
+- Safety emergency response and human-machine coordination (multi-trade cooperation)
+- Legal regulations and compliance responsibilities (licensed operation and on-site management)
+- Equipment anomaly diagnosis and manual repair
+- Flexible handling of on-site emergencies (e.g., weather changes, unstable ground)
+
+**Skills to build:**
+
+- Use of AI-assisted operation and monitoring systems
+- Basic programming and sensor maintenance
+- Data interpretation and anomaly analysis
+- Emergency management and decision-making in complex environments
+- Drone coordinated operation (remote view)
+- Continuous learning and communication skills
+
+**Key growth areas:**
 
 - Infrastructure boom
 - Mining sector demand
@@ -64,68 +100,67 @@ Operates cranes, hoists, or lifts to move heavy materials in construction, manuf
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage (TSS)） | 雇主担保临时工作签证，需满足2年工作经验及职业评估 |
-| Subclass 186（Employer Nomination Scheme (ENS)） | 雇主担保永居签证，需通过技能评估及提名职业 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区州担保临时签证，需满足特定州要求和职业列表 |
+| Subclass 482 (Temporary Skill Shortage (TSS)) | Employer-sponsored temporary work visa, requiring 2 years of work experience and skill assessment |
+| Subclass 186 (Employer Nomination Scheme (ENS)) | Employer-sponsored permanent residence visa, requires skills assessment and nominated occupation |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Temporary visa for regional state sponsorship, requiring specific state requirements and occupation lists |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Crane, Hoist or Lift Operator？**
-- 不惧高空作业、责任心强的人
-- 喜欢操作机械、注重安全规范的人
-
-**谁不适合学Crane, Hoist or Lift Operator？**
-- 恐高或对高度敏感者
-- 无法适应户外和倒班工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are not afraid of working at heights and have a strong sense of responsibility
+- People who enjoy operating machinery and prioritise safety compliance
+
+**Who is not suited**
+- Those with a fear of heights or who are sensitive to heights
+- Those unable to adapt to outdoor and shift work.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for crane operators?**
+A: Entry-level about A$55,000-75,000, mid-level A$75,000-95,000, senior up to A$95,000-130,000, with higher pay in remote areas and mining projects.
+
+**Q: Can a crane operator stay in Australia through skilled migration?**
+A: Limited possibilities. This occupation is usually not on the CSOL/MLTSSL, but immigration is possible through employer sponsorship (482/186) or regional state sponsorship (491), subject to state nomination requirements.
+
+**Q: What certificates are needed to become a crane operator?**
+A: Must hold a high-risk work license (depending on crane type) and a white card. A Certificate III is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 良好（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Crane, Hoist or Lift Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for crane operators?**
-答：Entry-level AUD 55k-75k, mid-level AUD 75k-95k, senior up to AUD 95k-130k, with higher rates in remote areas and mining projects.
-
-**问：Can a crane operator migrate to Australia via skilled migration?**
-答：Limited. Not on CSOL/MLTSSL generally, but possible via employer sponsorship (482/186) or regional state sponsorship (491), subject to state nomination requirements.
-
-**问：What certificates are needed to become a crane operator?**
-答：A high-risk work license (specific to crane type) and a White Card. A Certificate III is recommended.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

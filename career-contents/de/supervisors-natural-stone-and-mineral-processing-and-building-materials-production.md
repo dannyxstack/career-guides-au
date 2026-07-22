@@ -1,60 +1,92 @@
-# Supervisors - Natural Stone and Mineral Processing and Building Materials Production（Supervisors - Natural Stone and Mineral Processing and Building Materials Production）职业分析 · DE
+# Supervisors - Natural Stone and Mineral Processing and Building Materials Production — career analysis · Germany
 
-**职业代码：2129 – Supervisors - Natural Stone and Mineral Processing and Building Materials Production。**
+**Occupation code: 2129 (KldB)**
 
-Supervises daily operations in natural stone, mineral processing, and building materials production, ensuring efficient, safe, and quality-compliant workflows. Typically requires technical background and several years of experience.
+Oversees daily operations of natural stone, mineral processing, and building material production lines, ensuring efficient, safe, and quality-compliant processes. Typically requires relevant technical background and years of experience.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（建筑材料技术） | 3年（双元制） | —（培训期间有工资，通常免学费，仅材料费） |
-| 技术员（建筑材料技术） | 2年（全日制） | —（公立学校通常低学费或免费） |
+| Dual vocational training (building materials technology) | 3 years (dual system) | $0~$500 (Paid during training, usually tuition-free, only material costs) |
+| Technician (Building Materials Technology) | 2 years (full-time) | $0~$3,000 (Public schools usually have low tuition or are free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认证主管（IHK） | 工商业协会（IHK） | 可选 | 通常需通过考试，证明管理技能 |
-| 职业培训毕业证书 | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 完成双元制培训后获得 |
+| Vocational training graduation certificate | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Obtained after completing dual system training |
+| Certified Supervisor (IHK) | Chamber of Industry and Commerce (IHK) | Optional | Usually requires passing an exam to demonstrate management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国建筑行业持续稳定发展，对建筑材料需求旺盛，该岗位就业前景良好。数字化和环保转型带来新挑战，但熟练监督人才仍紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. The German construction industry continues to develop steadily, with strong demand for construction materials; this position has good employment prospects. Digitalization and environmental transformation bring new challenges, but skilled supervisors remain in high demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $36,000~$42,000 | 税前年薪 |
-| 中级（3-7年） | $42,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$60,000 | 税前年薪 |
+| Median salary | $43,200 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $36,000~$42,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $42,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$60,000 | Annual pre-tax salary |
+| average salary | $45,312 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从技术工人起步，积累经验后晋升为班组长或主管，再有机会升至生产经理或厂长。继续教育（如技术员、工长）可加速晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will optimize quality monitoring and process scheduling, but this occupation relies on physical supervision and complex fault handling; short-term replacement risk is moderate, requiring proactive transition.
+
+Typically start as skilled workers, gain experience to become team leaders or supervisors, then advance to production managers or plant managers. Continuing education (e.g., technician, foreman) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Using computer vision for product defect detection
+- Sensor-based automated quality report generation
+- AI optimization of production scheduling and inventory management
+- Automation of routine equipment monitoring and alarm handling
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance reduces downtime.
+- Digital twin simulation optimizes production processes
+- Real-time data analysis to support decision-making
+- Augmented reality (AR) supports remote expert guidance
+
+**Human moat:**
+
+- Handle sudden equipment failures and unstructured problems.
+- Coordinate cross-departmental multi-trade communication
+- Ensure safe production and compliance responsibilities
+- Process improvement and innovation decisions
+
+**Skills to build:**
+
+- Data analysis and statistical process control
+- AI/machine learning fundamentals and applications.
+- Digital twins and Industrial Internet of Things
+- Automation system integration and maintenance
+- Project Management and Lean Production
+
+**Key growth areas:**
 
 - Construction boom
 - Green building materials
@@ -63,69 +95,68 @@ Supervises daily operations in natural stone, mineral processing, and building m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且薪资达标者，需大学学位，年薪门槛约43,800欧元（2024年） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于拥有德国认可职业资格的技术人才，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德国寻找工作，无需雇主担保 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to those with higher education and meeting salary criteria, requiring a university degree, with an annual salary threshold of approximately €43,800 (2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | For skilled professionals with recognized German vocational qualifications, requiring employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Job seeker visa based on a points system, allows coming to Germany to find work without employer sponsorship |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors - Natural Stone and Mineral Processing and Building Materials Production？**
-- 有技术背景并希望晋升管理岗位的人
-- 喜欢动手和现场监督工作的人
-- 对建筑材料行业有热情的人
-
-**谁不适合学Supervisors - Natural Stone and Mineral Processing and Building Materials Production？**
-- 不喜欢户外或工厂环境的人
-- 不擅长与人沟通和团队管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a technical background who want to advance to management roles
+- People who enjoy hands-on and on-site supervisory work
+- People passionate about the building materials industry
+
+**Who is not suited**
+- Those who dislike outdoor or factory environments
+- People who are not good at communication and team management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Junior supervisor annual salary approx. €36,000–42,000, intermediate up to €50,000, senior supervisor up to €60,000, depending on experience and company size
+
+**Q: How can foreign nationals apply for a work visa for this position?**
+A: If you have a recognized vocational qualification in Germany, you can immigrate via the Skilled Worker Visa or EU Blue Card. If you have no job offer yet, you can apply for a Chancenkarte (Opportunity Card) to seek work in Germany.
+
+**Q: What are the career development paths for this occupation?**
+A: Can progress from tradesperson to supervisor, then to production manager or plant manager. Further education to become technician or foreman can accelerate advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors - Natural Stone and Mineral Processing and Building Materials Production为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level supervisors earn around €36,000-42,000 gross annually, mid-level up to €50,000, and senior up to €60,000, depending on experience and company size.
-
-**问：How can foreigners apply for a work visa for this occupation?**
-答：If you have a recognized vocational qualification, you can apply for a Skilled Worker Visa or EU Blue Card. If no job offer yet, you can apply for the Opportunity Card (Chancenkarte) to search for a job in Germany.
-
-**问：What are the career development paths for this occupation?**
-答：You can advance from skilled worker to supervisor, then to production manager or plant manager. Further education as a technician or master craftsman can accelerate promotion.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

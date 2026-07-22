@@ -1,60 +1,94 @@
-# Hotel Concierge（Hotel Concierge）职业分析 · FR
+# Hotel Concierge — career analysis · France
 
-**职业代码：G1701 – Hotel Concierge。**
+**Occupation code: G1701 (ROME)**
 
-Hotel concierges provide personalized services to guests, such as arranging transportation, booking restaurants, and recommending attractions, ensuring a comfortable and satisfying stay.
+Hotel concierges are responsible for providing personalized services to guests, such as arranging transportation, booking restaurants, and recommending attractions, ensuring a comfortable and satisfying stay.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（BTS 或同等） | —（可通过学徒制（apprentissage）免费学习并获报酬） |
-| 本科 | 3年（Licence） | $200~$10,000（公立大学学费低，私立酒店管理学院学费较高） |
+| High school graduation + vocational training | 2 years (BTS or equivalent) | $0~$5,000 (You can study for free and receive compensation through apprenticeships) |
+| Bachelor's degree | 3 years (Licence) | $200~$10,000 (Public universities have low tuition fees, while private hotel management colleges have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS 酒店餐饮管理（BTS Hôtellerie-Restauration） | 法国教育部 | 可选 | 最相关文凭，含实习 |
-| 金钥匙资格（Les Clefs d'Or） | 国际金钥匙组织 | 可选 | 礼宾最高荣誉，需多年经验并经过严格评选 |
+| BTS Hotel Catering Management (BTS Hôtellerie-Restauration) | French Ministry of Education | Optional | Most relevant diplomas, including internships |
+| Golden Key Qualification (Les Clefs d'Or) | International Golden Key Organization | Optional | The highest honor for concierge, requiring years of experience and rigorous selection |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 12,000。法国旅游业持续发展，高端酒店需求稳定，礼宾岗位就业前景良好。季节性波动较大，但永久性职位在四星级以上酒店较常见。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. France's tourism industry continues to develop, demand for high-end hotels is stable, and job prospects for concierge positions are promising. Seasonal fluctuations are significant, but permanent positions are more common in hotels above four stars.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常含餐补和小费 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，四星级以上酒店 |
-| 高级（7年以上或首席礼宾） | $35,000~$50,000 | 税前年薪，豪华五星级酒店或大型连锁 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, usually including meal allowances and tips |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, hotels rated above four stars |
+| Senior (7 years or more or Chief Concierge) | $35,000~$50,000 | Pre-tax annual salary, luxury five-star hotels or large chains |
+| average salary | $29,004 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：初级礼宾员 -> 助理首席礼宾员 -> 首席礼宾员（可加入金钥匙组织） -> 礼宾部经理 -> 酒店前厅部经理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will take over routine tasks like information retrieval, booking, and translation, lowering the skill threshold but also creating higher demand for personalized service and local expertise. Concierge roles will not disappear, but responsibilities will shift toward high-value experience design.
+
+Career Promotion Path: Junior Concierge - > Assistant Chief Concierge - > Chief Concierge (can join the Golden Key organization) - > Concierge Manager - > Hotel Front Office Manager.
+
+**Tasks most exposed to AI:**
+
+- Use search engines to search for information on attractions and restaurants
+- Simple reservations by phone or email (such as restaurants or taxis)
+- Multilingual translation services (replaced by AI real-time translation)
+- Print and deliver regular travel guides or maps
+
+**Where AI augments the role:**
+
+- Use the AI recommendation engine to customize personalized itinerary suggestions for guests
+- AI sentiment analysis predicts guest needs and proactively provides services
+- Use automated tools to manage customer preference databases and increase repeat purchases
+- Utilize intelligent concierge systems to handle multiple guest requests simultaneously to improve efficiency
+- Provide 24/7 rapid responses through a virtual concierge chatbot
+
+**Human moat:**
+
+- Build emotional bonds and trust with guests
+- Response and empathy in handling unexpected situations (such as flight cancellations or medical emergencies).
+- In-depth knowledge of unique local experiences (non-standard recommendations)
+- The private and personalized interpersonal services that high-end clients need
+
+**Skills to build:**
+
+- Operation and customization of AI concierge platforms (such as ConciergeAI).
+- Basics of Customer Relationship Management (CRM) and Data Analysis
+- Cross-cultural communication and emotional intelligence
+- Emergency management and resource coordination capabilities
+- Digital content creation (such as social media recommendations)
+- Second Service Language (Non-common Language)
+
+**Key growth areas:**
 
 - Luxury tourism
 - Personalization
@@ -63,65 +97,67 @@ Hotel concierges provide personalized services to guests, such as arranging tran
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 获得法国雇主工作合同后申请，需通过劳动局审核（缺乏本地劳动力论证）。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，但礼宾通常难以符合条件，除非在豪华酒店管理层。 |
+| Subclass Salarié (Employee Work Permit) | After obtaining a work contract from a French employer, applications must pass review by the Labor Bureau (lacking local labor validation). |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, but concierges are often difficult to qualify unless in luxury hotel management. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hotel Concierge？**
-- 乐于助人、善于沟通、有服务热情的人
-- 喜欢与人打交道、适应灵活工作时间的人
-- 有语言天赋（尤其英语、法语）的人
+**Who is suited**
+- Helpful people, good communicators, and enthusiastic about service
+- People who enjoy interacting with people and adapt to flexible working hours
+- People with language talent (especially English and French).
 
-**谁不适合学Hotel Concierge？**
-- 不善于应对高强度压力和投诉处理的人
-- 不愿轮班或周末工作的人
+**Who is not suited**
+- People who are not good at handling high-intensity stress and complaints
+- People who don't want to work shifts or weekends
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hotel concierges?**
+A: Entry-level pre-tax annual salary is about 22,000-28,000 euros, intermediate salary 28,000-35,000 euros, and senior (such as chief concierge) up to 35,000-50,000 euros. Salaries are influenced by the hotel's star rating, region, and tips.
+
+**Q: How can foreigners become concierges in French hotels?**
+A: You must obtain a work contract from a French employer and apply for employment residence (Salarié). Fluency in French (B2 or above) is usually required, and having a hotel management diploma (such as BTS) is an advantage.
+
+**Q: Do Chamberlains Have Career Development Opportunities?**
+A: Opportunities to be promoted to chief concierge or even front office manager, or join the International Golden Key. You can also shift to high-end private butlers or travel consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Hotel Concierge属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hotel concierges?**
-答：Entry-level salary is around €22,000-28,000 gross per year, mid-level €28,000-35,000, and senior (e.g., chief concierge) can reach €35,000-50,000, depending on hotel star rating, location, and tips.
-
-**问：How can a foreigner become a hotel concierge in France?**
-答：You need a job offer from a French employer and apply for a Salarié work permit. Proficiency in French (B2 or above) is usually required, and a hospitality diploma (e.g., BTS) is an advantage.
-
-**问：Is there career progression for concierges?**
-答：Opportunities include promotion to chief concierge or front office manager, joining Les Clefs d'Or, or transitioning to luxury personal concierge or travel consulting.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Cattle or Horse Breeding Farmer（Cattle or Horse Breeding Farmer）职业分析 · FR
+# Cattle or Horse Breeding Farmer — career analysis · France
 
-**职业代码：A1407 – Cattle or Horse Breeding Farmer。**
+**Occupation code: A1407 (ROME)**
 
-Responsible for daily care, breeding, health management and pasture maintenance of cattle or horses, ensuring animal welfare and productivity.
+Responsible for the daily feeding, breeding, health management, and pasture maintenance of livestock such as cattle and horses, ensuring animal welfare and production efficiency.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（CAP agricole） | $500~$5,000（公立农业高中费用低，私立培训较高） |
-| 农业技师文凭 | 2年（BTSA productions animales） | $1,000~$8,000（可通过学徒制减免学费） |
-| 农业工程师或兽医学 | 5-6年（Master/Diplôme d'ingénieur） | $5,000~$15,000（公立大学费用较低） |
+| High school graduation + vocational training | 2 years (CAP agricole) | $500~$5,000 (Public agricultural high schools have lower fees, while private training is more expensive) |
+| Agricultural Technician Diploma | 2 years (BTSA productions animales) | $1,000~$8,000 (Tuition fees can be waived through apprenticeships) |
+| Agricultural engineer or veterinarian | 5-6 years (Master/Diplôme d'ingénieur) | $5,000~$15,000 (Lower tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 非必需，但推荐农业职业能力证书 | 法国农业部 | 可选 | 对于受雇或补贴，CAP/BTS优先 |
+| Not required, but the agricultural vocational competency certificate is recommended | French Ministry of Agriculture | Optional | For employment or subsidies, CAP/BTS is preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。法国畜牧业面临现代化和可持续转型，有机和本地化需求增长，但竞争加剧，小型农场需优化生产链。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. France's livestock industry is facing modernization and sustainable transformation, with growing demand for organic and localized products, but intensified competition means small farms need to optimize their production chains.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 受雇饲养员或农场工人 |
-| 中级（3-7年） | $28,000~$40,000 | 农场主管或小型农场主 |
-| 高级（7年以上） | $40,000~$60,000 | 大型农场主或畜牧顾问 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Employed as a breeder or farm worker |
+| Mid-level (3–7 years) | $28,000~$40,000 | Farm supervisors or small farm owners |
+| Senior (7+ years) | $40,000~$60,000 | Large farm owners or livestock consultants |
+| average salary | $20,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级饲养员晋升为农场主管，积累经验后可独立经营农场或转向畜牧顾问、配种专家等岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+You can be promoted from junior breeder to farm supervisor, and after accumulating experience, you can independently run your farm or transition to roles such as livestock consultant or breeding expert.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Organic farming
 - Animal welfare
@@ -63,65 +99,67 @@ Responsible for daily care, breeding, health management and pasture maintenance 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇于法国农场或养殖企业，需获得工作合同和劳工许可 |
-| Subclass Passeport Talent（Talent Passport） | 适用于农业创新或管理人才，需证明项目经济/科学价值 |
+| Subclass Salarié (Employee Work Permit) | Employment at French farms or breeding enterprises requires obtaining a work contract and labor permit |
+| Subclass Passeport Talent (Talent Passport) | Applicable to agricultural innovation or management talent, requiring proof of the project's economic and scientific value |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cattle or Horse Breeding Farmer？**
-- 喜爱户外体力劳动，对动物有耐心和责任心
-- 愿意在乡村地区长期生活，具备基本农业管理知识
-- 能承受季节性高强度工作，如产仔期和收割季
+**Who is suited**
+- Enjoys outdoor physical labor and is patient and responsible toward animals
+- Willingness to live long-term in rural areas and possess basic agricultural management knowledge
+- Able to withstand seasonal high-intensity work, such as farrowing and harvest seasons
 
-**谁不适合学Cattle or Horse Breeding Farmer？**
-- 不耐受体力劳动或恶劣天气
-- 寻求高薪或快速晋升的金融/IT背景人士
+**Who is not suited**
+- Intolerance to physical labor or harsh weather
+- Financial/IT backgrounds seeking high salaries or rapid promotions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the wage level for cattle and horse farming?**
+A: Employee herder annual salary around €22,000-28,000, farm owner or advisor up to €40,000-60,000; profits are highly affected by market price fluctuations.
+
+**Q: Can foreigners engage in cattle and horse breeding in France?**
+A: Employed livestock workers can apply for the Salarié work visa, but need a French employer contract, and agricultural positions are not in shortage, making immigration difficult.
+
+**Q: What qualifications are needed for this occupation?**
+A: Minimum usage is 2 years CAP agricole, BTSA is more advantageous; Large farms or management require an engineer or veterinary diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cattle or Horse Breeding Farmer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cattle/horse breeding?**
-答：Employee herders earn about €22k-28k per year, while farm owners or advisors can reach €40k-60k, heavily influenced by market prices.
-
-**问：Can foreigners work in cattle/horse breeding in France?**
-答：Foreign employees can apply for a Salarié work permit with a French contract, but the occupation is not shortage-listed, making immigration difficult.
-
-**问：What education is required for this profession?**
-答：A 2-year CAP agricole is the minimum; BTSA is preferred; for large farms or management, an engineering or veterinary degree is recommended.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

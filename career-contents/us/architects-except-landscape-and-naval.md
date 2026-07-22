@@ -1,58 +1,91 @@
-# Architects, Except Landscape and Naval（Architects, Except Landscape and Naval）职业分析 · 美国
+# Architects, Except Landscape and Naval — career analysis · United States
 
-**职业代码：17-1011 – Architects, Except Landscape and Naval。**
+**Occupation code: 17-1011 (SOC)**
 
-Architects plan and design structures such as private residences, office buildings, theaters, and factories, ensuring functionality, safety, and aesthetics. They collaborate with clients, engineers, and construction teams while adhering to building codes.
+Architects design plans for residential, office, theater, factory, and other buildings, ensuring functionality, safety, and aesthetics. They collaborate with clients, engineers, and construction teams, adhering to building codes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 5年 | $50,000~$200,000（建筑学学士（B.Arch）通常为5年制，学费因院校而异） |
-| 硕士学位 | 2-3年 | $40,000~$150,000（建筑学硕士（M.Arch）适合非建筑背景或深造者） |
+| Bachelor's degree | 5 years | $50,000~$200,000 (Bachelor of Architecture (B.Arch) typically 5 years, tuition varies by institution) |
+| Master's degree | 2-3 years | $40,000~$150,000 (Master of Architecture (M.Arch) suitable for non-architecture background or further study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册建筑师（RA） | 美国全国建筑注册委员会（NCARB） | 必备 | 需通过建筑师注册考试（ARE），满足教育及实习经验要求 |
-| LEED认证 | 美国绿色建筑委员会（USGBC） | 可选 | 可持续建筑认证，提升竞争力 |
+| Registered Architect (RA) | National Council of Architectural Registration Boards (NCARB) | Required | Must pass the Architect Registration Exam (ARE) and meet education and internship requirements |
+| LEED certification | U.S. Green Building Council (USGBC) | Optional | Sustainable building certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 125,900。美国劳工统计局预计2022-2032年建筑师岗位增长约5%，略低于平均水平。可持续设计和绿色建筑的需求将推动部分增长，但行业竞争激烈，经济波动影响建筑投资。
+**Job demand: medium (★★★☆☆).** National workforce approx. 125,900. The US Bureau of Labor Statistics projects architect job growth of about 5% from 2022-2032, slightly below average. Demand for sustainable design and green buildings will drive some growth, but competition is intense and economic fluctuations affect construction investment.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 实习或见习建筑师 |
-| 中级（4-7年） | $70,000~$95,000 | 具有注册资格的项目建筑师 |
-| 高级（8年以上） | $95,000~$130,000 | 高级建筑师、设计主管或合伙人；高薪可超150,000 |
+| Median salary | $99,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Intern or graduate architect |
+| Mid-level (4-7 years) | $70,000~$95,000 | Registered project architect |
+| Senior (8+ years) | $95,000~$130,000 | Senior architect, design director, or partner; high salary can exceed 150,000 |
+| average salary | $106,260 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级建筑师通常从绘图员或项目助理做起，积累经验后晋升为项目经理或高级建筑师。取得注册建筑师资格后，可独立执业或成为合伙人，部分转向城市规划或室内设计领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Junior architects usually start as drafters or project assistants, progressing to project manager or senior architect with experience. After becoming a registered architect, they can practice independently or become partners, with some transitioning to urban planning or interior design.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Sustainable Design
 - Green Building
@@ -61,65 +94,64 @@ Architects plan and design structures such as private residences, office buildin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于建筑师等专业职位，需学士以上学位，年度配额竞争激烈 |
-| Subclass EB-2（EB-2 Advanced Degree） | 适用于硕士以上或特殊才能者，需PERM劳工证，绿卡排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出建筑师，需证明国际认可，无配额限制 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional positions such as architects, requiring bachelor's degree or above, with annual quota competition intense |
+| Subclass EB-2 (EB-2 Advanced Degree) | For master's degree or above or those with exceptional ability, requires PERM labor certification, green card wait is long |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to outstanding architects, requiring international recognition, no quota limit |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architects, Except Landscape and Naval？**
-- 有创意和审美能力的人
-- 善于沟通和团队协作的人
-- 对建筑技术及可持续设计感兴趣的人
-
-**谁不适合学Architects, Except Landscape and Naval？**
-- 缺乏耐心和细节关注的人
-- 不擅长应对法规和规范的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and aesthetic ability
+- People who are good at communication and teamwork
+- People interested in construction technology and sustainable design
+
+**Who is not suited**
+- People lacking patience and attention to detail.
+- People who are not good at dealing with regulations and standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for architects?**
+A: According to BLS data, the median annual salary for architects in 2023 was about $82,000; entry-level ranges $50,000-$70,000; senior positions can exceed $120,000. Salary varies with experience, location, and company size.
+
+**Q: How can architects abroad immigrate to the US?**
+A: Common route is to first work on an H-1B work visa, then employer applies for EB-2 or EB-3 green card. Note H-1B lottery and backlog issues. O-1 visa applies to extraordinary talent.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Architects, Except Landscape and Naval的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for architects?**
-答：According to BLS, the median annual wage for architects was about $82,000 in 2023, with entry-level around $50,000-$70,000 and senior exceeding $120,000. Salary varies by experience, location, and firm size.
-
-**问：How can foreign architects immigrate to the US?**
-答：Common path: obtain H-1B work visa first, then employer sponsors EB-2 or EB-3 green card. Be aware of H-1B lottery and visa backlogs. O-1 visa is for individuals with extraordinary ability.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

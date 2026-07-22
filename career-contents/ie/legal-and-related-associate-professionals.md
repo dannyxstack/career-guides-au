@@ -1,58 +1,89 @@
-# Legal and Related Associate Professionals（Legal and Related Associate Professionals）职业分析 · IE
+# Legal and Related Associate Professionals — career analysis · Ireland
 
-**职业代码：3411 – Legal and Related Associate Professionals。**
+**Occupation code: 3411 (ISCO08)**
 
-Legal associate professionals support lawyers, judges, and companies with case preparation, legal research, and document management. In Ireland, they work in law firms, corporate legal departments, and government agencies, forming a key part of the legal system.
+Legal assistant professionals support lawyers, judges, and companies, handling case preparation, legal research, and document management. In Ireland, they work mainly in law firms, corporate legal departments, and government agencies, forming a key part of the legal system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭 | 1-2年 | $5,000~$12,000（继续教育课程学费） |
-| 本科 | 3-4年 | $10,000~$20,000（爱尔兰大学法律相关专业年学费） |
+| Higher education diploma | 1-2 years | $5,000~$12,000 (Continuing education course fees) |
+| Bachelor's degree | 3-4 years | $10,000~$20,000 (Annual tuition fees for law-related programs at Irish universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律助理证书 | 爱尔兰法律教育委员会 (Law Society of Ireland) | 可选 | 部分雇主偏好或要求 |
-| 职业经验 | 雇主 | 必备 | 通常需要1-3年相关工作经验 |
+| Professional experience | Employer | Required | Typically requires 1-3 years of relevant work experience |
+| Paralegal certificate | Law Society of Ireland | Optional | Preferred or required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,500。爱尔兰法律服务业持续增长，受经济和监管需求推动。就业前景稳定，尤其在公司法、知识产权和数据保护领域需求较大。预计未来五年就业人数小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,500. The Irish legal services sector continues to grow, driven by economic and regulatory demand. Employment prospects are stable, with strong demand particularly in corporate law, intellectual property, and data protection. A slight increase in employment is expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，可能含奖金 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Annual salary before tax, may include bonuses |
+| average salary | $44,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径包括从初级助理到高级法律秘书或法律经理。积累经验后可考取律师资格或转向公司法务、合规等岗位。部分可通过继续教育晋升为律师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The daily document processing, legal research, and contract drafting work of legal assistant professionals are being rapidly replaced by AI, but high-value analysis, client communication, and compliance responsibilities remain irreplaceable.
+
+Career paths range from junior assistant to senior legal secretary or legal manager. With experience, you can qualify as a lawyer or transition to corporate legal, compliance, etc. Some advance to lawyer through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Standard paragraph drafting and template filling for contracts/legal documents
+- Basic retrieval and summary generation of case law and regulations
+- Document proofreading, formatting consistency, and version management
+- Standard Q&A and initial consultation triage for common legal issues
+
+**Where AI augments the role:**
+
+- AI-assisted similarity matching and trend analysis for complex cases
+- Automatically generate a first draft of due diligence report for manual refinement
+- Real-time regulatory update monitoring and risk alert notification
+
+**Human moat:**
+
+- Provide strategic legal advice and risk assessment to clients
+- Oral advocacy and impromptu response when negotiating or appearing in court on behalf of clients
+- Interpersonal communication and trust-building between judge/client/opponent
+- Independent judgment and creative resolution of ambiguous or novel legal issues
+
+**Skills to build:**
+
+- AI legal tool operations (e.g., Reverie, Kira Systems)
+- Data analysis and visualization (for evidence collation and trend presentation)
+- Advanced communication and negotiation skills (focusing on complex interest coordination)
+- Legal project management (coordinating AI tools and manual processes)
+- Ethical compliance knowledge (understanding AI output bias and confidentiality boundaries)
+
+**Key growth areas:**
 
 - Corporate Law
 - Data Protection
@@ -61,64 +92,63 @@ Legal associate professionals support lawyers, judges, and companies with case p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪一般不低于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作，年薪门槛约45,000欧元，需相关工作经验和学历。 |
+| Subclass General Employment P (General Employment Permit) | For non-shortage occupations, requires employer sponsorship, annual salary generally not less than 30,000 Euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to skilled work, annual salary threshold around €45,000, requires relevant work experience and qualifications. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal and Related Associate Professionals？**
-- 注重细节和文书工作的人
-- 对法律领域有兴趣但不想成为律师的人
-- 有良好沟通和组织能力的人
-
-**谁不适合学Legal and Related Associate Professionals？**
-- 不喜欢重复性文书工作的人
-- 希望快速晋升到高收入职位的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- people who pay attention to detail and paperwork
+- People interested in law but who do not want to become lawyers
+- People with good communication and organizational skills
+
+**Who is not suited**
+- People who dislike repetitive clerical work
+- People seeking fast promotion to high-income positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a legal assistant?**
+A: Junior approximately €28,000-€35,000, intermediate €35,000-€50,000, senior up to €70,000.
+
+**Q: How can foreigners immigrate to Ireland through this occupation?**
+A: Typically requires employer-sponsored General Employment Permit, eligible if annual salary meets requirements. Not a shortage occupation, but job opportunities exist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Legal and Related Associate Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for legal associate professionals?**
-答：Entry-level: €28,000-€35,000; mid-level: €35,000-€50,000; senior: up to €70,000.
-
-**问：How can foreigners immigrate to Ireland through this occupation?**
-答：Typically via a General Employment Permit with employer sponsorship and minimum salary threshold. Not on shortage list but opportunities exist.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Public Works Duct Installer（Public Works Duct Installer）职业分析 · ES
+# Public Works Duct Installer — career analysis · Spain
 
-**职业代码：7223 – Public Works Duct Installer。**
+**Occupation code: 7223 (CNO)**
 
-Installs ductwork for ventilation, smoke extraction, and other systems in public works projects, involving cutting, assembly, sealing, and fixing. Requires knowledge of blueprints, materials, and safety standards.
+Installing ventilation, smoke exhaust, and other pipeline systems in public works projects involves cutting, assembly, sealing, and fixing. Familiarity with drawings, materials, and safety regulations is required.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业教育（FP Grado Medio） | 2年 | $200~$1,500（公立学校学费低，私立较高） |
-| 高级职业教育（FP Grado Superior） | 2年 | $300~$2,000（可在暖通空调或施工领域深造） |
+| Intermediate Vocational Education (FP Grado Medio) | 2 years | $200~$1,500 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $300~$2,000 (Advanced studies in HVAC or construction fields are possible) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio 安装与维护技术员 | 教育部或认可培训中心 | 必备 | 基础职业资格 |
-| 高空作业证 | 劳动部门授权机构 | 可选 | 部分高空安装必需 |
-| 焊接认证 | 培训机构或行业协会 | 可选 | 提升竞争力 |
+| FP Grado Medio installation and maintenance technician | The Ministry of Education or accredited training centers | Required | Basic professional qualifications |
+| Working at heights certificate | Authorized agencies by the labor department | Optional | Some are required for high-altitude installation |
+| Welding certification | Training institutions or industry associations | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,800。西班牙基建投资与建筑行业复苏带动需求，尤其在城市更新与大型公共工程领域。未来五年预计稳定增长，需持证上岗。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,800. Spain's infrastructure investment and recovery in the construction sector are driving demand, especially in urban renewal and large-scale public works. Stable growth is expected over the next five years, and certification is required to employ.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（4-7年） | $23,000~$28,000 | 税前年薪 |
-| 高级（8年以上） | $29,000~$35,000 | 含主管津贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $23,000~$28,000 | Annual pre-tax salary |
+| Senior (8+ years) | $29,000~$35,000 | Including supervisor allowance |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升为安装主管、项目协调员或自雇承包商。通过获取更高级认证（如焊接）或进修建筑相关学位，向技术经理发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Some tasks for public works pipeline installers can be automated (such as cutting and BIM review), but on-site installation, sealing, and safety responsibilities are difficult to replace; The AI era requires a transition to digital image reading and intelligent tools.
+
+Promotion is possible to installation supervisor, project coordinator, or self-employed contractor. Develop into a technical manager by obtaining more advanced certifications (such as welding) or pursuing a construction-related degree.
+
+**Tasks most exposed to AI:**
+
+- Pipe cutting parameter calculation and layout based on BIM model
+- Standard steel pipe thread cutting and pre-assembly
+- Repeatable and simple pipeline bracket positioning and drilling
+- Generate written records and reports of on-site installation progress
+- Automatic verification of material lists and replenishment reminders
+
+**Where AI augments the role:**
+
+- AR glasses assist pipeline alignment and concealed engineering inspection
+- The AI vision system detects sealing defects or leaks in real time
+- Drones/robots inspect high-altitude pipelines for thermal imaging analysis
+- The voice assistant records installation issues and automatically generates tickets
+- AI-assisted generation of optimized cutting solutions to reduce waste
+
+**Human moat:**
+
+- Manual cold bending of complex irregular pipes and on-site adaptation
+- Sealing, waterproofing, and strength assessment in non-standard structures
+- On-site coordination and safety monitoring responsibilities across multiple trades
+- Ability to make temporary decisions when drawings deviate from actual conditions
+- Regulatory compliance inspections (fire prevention and smoke exhaust standards) and signing off on accountability
+
+**Skills to build:**
+
+- Basic BIM model operations and panel diagram viewing
+- Laser measurement and digital staking tools
+- AI-assisted cutting programming (such as CNC plasma)
+- Intelligent control system for electrical/pneumatic tools
+- Basic data analysis and reporting software (Excel/Tableau)
+- Safety regulations and the use of intelligent inspection systems
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Urban renewal
@@ -64,61 +100,63 @@ Installs ductwork for ventilation, smoke extraction, and other systems in public
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employee)） | 需西班牙公司担保，劳工市场测试，非紧缺职业，获批难度较大。 |
+| Subclass Cuenta ajena (Work Permit (Employee)) | Requires a Spanish company guarantee, labor market testing, non-urgently needed occupations, and is relatively difficult to obtain. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Works Duct Installer？**
-- 动手能力强、喜欢户外和体力劳动的人
-- 愿意学习技术图纸和安全规范的人
-- 希望在建筑行业获得稳定工作的人
+**Who is suited**
+- People with strong hands-on skills who enjoy outdoor and physical labor
+- Those willing to learn technical drawings and safety standards
+- People hoping to secure stable jobs in the construction industry
 
-**谁不适合学Public Works Duct Installer？**
-- 偏好室内办公室工作的人
-- 对高空作业或体力要求感到不适的人
+**Who is not suited**
+- Those who prefer indoor office work
+- People who feel uncomfortable working at heights or demanding physical strength
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for pipe installers in Spain?**
+A: Entry-level salaries range from about 18,000 to 22,000 euros per year, while seniors can earn up to 35,000 euros per year, depending on experience and certification.
+
+**Q: Can I, as a foreigner, immigrate to Spain through this employment?**
+A: It is very challenging, the occupation is not in short supply, requires employer sponsorship, and passes a labor market test. It is recommended to consider the free movement of EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Public Works Duct Installer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a duct installer in Spain?**
-答：Entry-level around €18,000-22,000/year, senior up to €35,000/year depending on experience and certifications.
-
-**问：Can I immigrate to Spain through this occupation as a foreigner?**
-答：Difficult, as it is not a shortage occupation and requires employer sponsorship with labour market test. EU freedom of movement is more feasible.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

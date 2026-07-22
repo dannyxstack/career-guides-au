@@ -1,58 +1,94 @@
-# Entertainment and Recreation Managers, Except Gambling（Entertainment and Recreation Managers, Except Gambling）职业分析 · 美国
+# Entertainment and Recreation Managers, Except Gambling — career analysis · United States
 
-**职业代码：11-9072 – Entertainment and Recreation Managers, Except Gambling。**
+**Occupation code: 11-9072 (SOC)**
 
-Plan, direct, or coordinate entertainment and recreational activities and operations of a recreational facility, including cruise ships and parks.
+Plan, direct, or coordinate the operations of recreational and leisure activities and facilities (including cruise ships and parks).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1万-3万美元） |
-| 副学士学位 | 2年 | $20,000~$60,000（社区学院年均学费约5千-1.5万美元） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities charge an average annual tuition of about $10,000-$30,000 USD.) |
+| Associate degree | 2 years | $20,000~$60,000 (Annual tuition at community colleges is about $5,000-$15,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 休闲管理或相关领域学士学位 | 大学或学院 | 必备 | 通常要求本科以上学历 |
-| 急救与心肺复苏认证 | 美国红十字会或其他认可机构 | 可选 | 部分雇主强制要求 |
+| Bachelor's degree in Leisure Management or related field | University or college | Required | Usually requires a bachelor's degree or higher |
+| First aid and CPR certification | American Red Cross or other recognized organizations | Optional | Required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 32,200。根据BLS预测，2023-2033年该职业就业增长约5%，与平均水平相当。随着休闲娱乐需求持续增加，就业机会稳定，但竞争依然激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,200. According to BLS, employment in this occupation is projected to grow about 5% from 2023-2033, about as fast as average. As demand for leisure and recreation continues to increase, job opportunities are stable, but competition remains strong.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 助理或协调员级别 |
-| 中级（3-7年） | $55,000~$80,000 | 经理级别 |
-| 高级（7年以上） | $80,000~$120,000 | 高级经理或总监 |
+| Median salary | $79,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Assistant or coordinator level |
+| Mid-level (3–7 years) | $55,000~$80,000 | Manager level |
+| Senior (7+ years) | $80,000~$120,000 | Senior manager or director |
+| average salary | $89,750 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级职位可从活动协调员或主管起步，积累经验后晋升为经理或区域经理。大型娱乐场所（如主题公园、游轮公司）提供更清晰的晋升路径，部分可升至总监级别。
-**AI替代风险：较高（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The role of recreation and leisure manager will be partially restructured by AI: administrative tasks like scheduling and customer response are compressed, but human core competencies such as creative planning, safety supervision, and team leadership are amplified. Mixed outlook overall.
+
+Entry-level roles can start as event coordinator or supervisor, then progress to manager or regional manager. Large entertainment venues (e.g., theme parks, cruise lines) offer clearer advancement paths, some up to director level.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and booking system that reduces manual scheduling work.
+- AI-driven customer service chatbots handle common inquiries and complaints
+- AI report generation based on historical data, replacing some data analysis tasks.
+- Smart ticketing and inventory management system to optimize ticket sales and merchandise replenishment
+- Automation of standard activity workflows, such as email notifications and form distribution
+
+**Where AI augments the role:**
+
+- Use AI to analyze visitor traffic and preferences to optimize event timing and venue layout.
+- Provide immersive previews via AI virtual reality tools to enhance event marketing
+- AI-assisted creative generation for quickly developing multiple event themes and decoration plans
+- Real-time monitoring of AI system feedback, dynamically adjusting field service and resource allocation
+- AI-driven employee training simulator to enhance team emergency response
+
+**Human moat:**
+
+- Handle sudden security incidents and customer conflicts, requiring emotional judgment and immediate decision-making
+- Maintain key client relationships and build trust in community partnerships
+- Creative direction control to ensure event uniqueness and brand consistency
+- Lead diverse teams, fostering an inclusive and efficient work culture.
+- Compliance and risk management, especially involving minors and special activities
+
+**Skills to build:**
+
+- Data analysis and AI collaboration: use Python or low-code tools to analyze operational data
+- Application of AI content generation tools (e.g., ChatGPT, Midjourney)
+- Digital marketing and social media management, combined with AI for personalized promotion
+- Basic VR/AR technology applications for event preview and remote collaboration.
+- Cross-cultural communication and crisis management to enhance handling of complex interpersonal scenarios
+- Agile project management and automation workflow tools (e.g., Trello, Zapier)
+
+**Key growth areas:**
 
 - Leisure facilities
 - Event planning
@@ -61,69 +97,68 @@ Plan, direct, or coordinate entertainment and recreational activities and operat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于获得学士学位并受雇于娱乐管理相关职位的专业人士，需抽签。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于具有至少两年经验或培训的熟练工人，需PERM劳工证。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在娱乐管理领域有杰出成就者，如管理著名活动或设施。 |
-| Subclass Green Card (PERM)（Green Card via PERM Labor Certification） | 雇主赞助的永久居留路径，需证明无法找到合格美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to professionals with a bachelor's degree employed in recreation management-related positions; requires lottery. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Applies to skilled workers with at least two years of experience or training; requires PERM labor certification. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for those with outstanding achievements in entertainment management, such as managing famous events or facilities. |
+| Subclass Green Card (PERM) (Green Card via PERM Labor Certification) | Employer-sponsored permanent residency pathway, requiring proof that no qualified US workers can be found. |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Entertainment and Recreation Managers, Except Gambling？**
-- 喜欢组织活动与人互动
-- 有领导力与客户服务意识
-- 能适应灵活工作时间（包括周末和节假日）
-
-**谁不适合学Entertainment and Recreation Managers, Except Gambling？**
-- 不喜嘈杂或高压环境
-- 追求规律办公时间
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys organizing activities and interacting with people
+- Has leadership and customer service orientation
+- Can adapt to flexible working hours (including weekends and holidays).
+
+**Who is not suited**
+- Dislike noisy or high-pressure environments
+- Pursue regular office hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Entertainment and Recreation Manager?**
+A: According to BLS data, the median annual salary for recreation and leisure managers in 2023 was about $62,000, but ranges from entry-level around $40,000 to senior over $120,000.
+
+**Q: How can entertainment and recreation managers immigrate to the US through work visas?**
+A: Common path includes H-1B professional occupation visa (needs bachelor's degree) and EB-3 employment-based green card (needs PERM labor certification). O-1 visa for extraordinary ability. Competition is intense; relevant management experience recommended.
+
+**Q: Is this occupation in high demand in the US?**
+A: BLS forecasts 2023-2033 employment growth of about 5%, on par with average. However, demand is slightly higher in popular areas such as Florida and California due to tourism and leisure spending.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-Entertainment and Recreation Managers, Except Gambling的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Entertainment and Recreation Managers?**
-答：According to BLS, the median annual wage for Entertainment and Recreation Managers was about $62,000 in 2023, ranging from $40,000 for entry-level to over $120,000 for senior positions.
-
-**问：How can Entertainment and Recreation Managers immigrate to the US via work visa?**
-答：Common paths include H-1B specialty occupation visa (requiring bachelor's degree) and EB-3 green card (with PERM labor certification). O-1 visa is for extraordinary talent. Competition is significant; relevant management experience is recommended.
-
-**问：Is there high demand for this occupation in the US?**
-答：BLS projects a 5% growth from 2023-2033, about average. Demand is slightly higher in popular tourist areas like Florida and California, driven by leisure spending.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Textile Products Machine Operator Not Elsewhere Classified（Textile Products Machine Operator Not Elsewhere Classified）职业分析 · ES
+# Textile Products Machine Operator Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：8159 – Textile Products Machine Operator Not Elsewhere Classified。**
+**Occupation code: 8159 (CNO)**
 
-Operates textile machinery to produce various textile products such as weaving, knitting, and embroidery; responsible for machine setup, operation monitoring, and basic maintenance.
+Operate textile machinery to produce various textile products, such as weaving, knitting, embroidery, etc.; responsible for machine debugging, operation monitoring, and basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训中级（FP Grado Medio） | 2年 | —（公立学校免费或低学费） |
-| 职业培训高级（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,500 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织生产职业培训证书 | 西班牙教育部或自治区 | 可选 | 完成FP Grado Medio纺织相关课程可获得 |
+| Textile Production Vocational Training Certificate | The Spanish Ministry of Education or the autonomous community | Optional | Earned by completing FP Grado Medio textile-related courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。西班牙纺织业规模有限且持续萎缩，受亚洲进口冲击，就业前景一般。该岗位自动化风险中等，需求主要来自高端或特种纺织品领域。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. Spain's textile industry is limited in scale and continues to shrink, affected by Asian imports, with average employment prospects. This position carries moderate automation risk, with demand mainly coming from high-end or specialty textiles sectors.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含双薪 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$30,000 | 含主管或技术岗位 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including double salary |
+| Mid-level (3–7 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$30,000 | Including supervisory or technical positions |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从操作员晋升为组长或生产主管，也可通过学习提升为纺织技术员或质检员。需积累机械操作经验，转型其他行业机器操作也较可行。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Conventional monitoring, debugging, and quality inspection tasks for textile machinery operators face the risk of automated substitution, but AI enhances predictive maintenance, process optimization, and automated programming capabilities, while retaining reliance on human advantages such as handling abnormal tactile sensations and flexible switching in small batches.
+
+You can be promoted from operator to team leader or production supervisor, or through learning to become a textile technician or quality inspector. It is necessary to accumulate mechanical operation experience, and transitioning to machine operation in other industries is also feasible.
+
+**Tasks most exposed to AI:**
+
+- Routine machine operation monitoring (AI vision system real-time monitoring of yarn breakage and defects and automatic shutdown/adjustment)
+- Simple quality inspection (AI visual inspection replaces manual visual inspection of fabric surface defects)
+- Basic fault diagnosis and alarm response (AI self-diagnosis system prompts fault codes and resolution steps)
+- Production data recording and report generation (MES system automatically collects data and generates reports)
+
+**Where AI augments the role:**
+
+- AI-assisted process parameter optimization (automatically adjusting tension, speed, and temperature based on fabric feedback)
+- Predictive maintenance (AI analysis of vibration and temperature data to warn of mechanical wear)
+- Digital operation guide (AR glasses overlay operation steps and real-time parameters)
+- Small-batch rapid pattern changeover (AI algorithm generates new pattern/yarn parameter setting schemes)
+- Remote expert collaboration (AI translation of voice commands and retrieving historical repair cases)
+
+**Human moat:**
+
+- Addressing unstructured yarn/fabric feel issues (such as fuzziness and subtle uneven tension sensations)
+- Trial and error adjustments for new fabrics or special processes (requires intuitive experience)
+- Fast switching and problem-solving during multi-variety mixed-line production (flexible strain capability)
+- Emergency handling of unexpected equipment failures (complex mechanical maintenance and manual restoration)
+- Communication and coordination with upstream and downstream processes (dyeing, finishing, cutting) (interpersonal collaboration)
+
+**Skills to build:**
+
+- Basic PLC programming and touchscreen configuration (Siemens, Mitsubishi, etc.)
+- Industrial data collection and analysis (SQL, Python Pandas, Excel advanced analysis)
+- Automation equipment debugging and maintenance (servo drive, variable frequency drive parameter adjustment)
+- Digital tools: MES system operation, ERP basics, RFID tracking
+- AI Cognition: Understand basic machine learning concepts and be able to annotate training data (such as defect images)
+- Communication English: Understand the equipment's English manuals and participate in cross-border equipment commissioning
+
+**Key growth areas:**
 
 - Automation
 - Technical Textiles
@@ -62,64 +97,66 @@ Operates textile machinery to produce various textile products such as weaving, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙公司工作合同，雇主担保。该职业非紧缺，获批难度较大。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Must obtain a work contract with a Spanish company and an employer sponsorship. This occupation is not in urgent need and is difficult to approve. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Products Machine Operator Not Elsewhere Classified？**
-- 动手能力强，喜欢操作机械的人
-- 能接受倒班和重复性工作的人
-- 愿意学习基本机械维护技能的人
+**Who is suited**
+- Strong hands-on skills and a fondness for operating machinery
+- People who can accept shift work and repetitive tasks
+- Those willing to learn basic mechanical maintenance skills
 
-**谁不适合学Textile Products Machine Operator Not Elsewhere Classified？**
-- 希望高薪或快速晋升的人
-- 对纺织粉尘或噪音敏感的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People sensitive to textile dust or noise
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in Spain?**
+A: Junior operators earn about 18,000-22,000 euros annually, with experience reaching 26,000-30,000 euros, but there is limited room for salary growth.
+
+**Q: Can Chinese citizens come to Spain through skilled immigration to work in this profession?**
+A: This profession is not considered a scarce job in Spain, employer sponsorship is difficult, and the skilled migration pathway is almost impossible.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: You can be promoted to production team leader or supervisor, or transition to textile technician or quality inspector, but the overall career ceiling is relatively low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Textile Products Machine Operator Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Spain?**
-答：Entry-level operators earn around €18,000-22,000 annually, with experienced workers reaching €26,000-30,000, but salary growth is limited.
-
-**问：Can Chinese citizens immigrate to Spain through this occupation?**
-答：This occupation is not in shortage, making employer sponsorship difficult; technical migration is almost non-viable.
-
-**问：Are there promotion opportunities in this occupation?**
-答：You can advance to team leader or supervisor, or move into textile technician or quality control roles, but the career ceiling is low.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Refuse Sorter（Refuse Sorter）职业分析 · IE
+# Refuse Sorter — career analysis · Ireland
 
-**职业代码：9612 – Refuse Sorter。**
+**Occupation code: 9612 (ISCO08)**
 
-Sorts and separates recyclable materials and waste at processing facilities or recycling centers to facilitate resource recovery.
+Responsible for sorting and separating recyclables and waste at waste treatment plants or recycling centers to ensure resource recovery and reuse.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 短期培训证书 | 1-3个月 | $500~$1,500（由环保机构或培训机构提供） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Short-term Training Certificate | 1-3 months. | $500~$1,500 (Provided by environmental agencies or training institutions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 手动搬运安全培训 | 安全卫生局 | 必备 | 入门级培训，通常由雇主提供 |
-| 废物分类操作员证书 | 爱尔兰废物管理协会 | 可选 | 非强制但有助于晋升 |
+| Manual handling safety training | Safety and Health Bureau | Required | Entry-level training, usually provided by the employer |
+| Waste Classification Operator Certificate | Irish Waste Management Association | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。随着爱尔兰推行循环经济和碳减排目标，垃圾分类需求增长，预计就业机会稳定，但自动化可能影响低技能岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. With Ireland's circular economy and carbon reduction targets, demand for waste sorting is growing, and employment opportunities are expected to be stable, but automation may affect low-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税后约2000-2400欧元/月 |
-| 中级（3-7年） | $30,000~$35,000 | 含加班费可达更高 |
-| 高级（7年以上） | $35,000~$40,000 | 主管级约40000欧元 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Approximately €2,000-2,400 per month after tax |
+| Mid-level (3–7 years) | $30,000~$35,000 | Can be higher with overtime pay |
+| Senior (7+ years) | $35,000~$40,000 | Supervisor level approximately 40,000 euros |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可通过经验积累晋升为分拣线主管或质量检查员，也可转向废物管理运营或环保技术员岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Waste sorters face a very high risk of automation. AI vision and robotics can already sort waste efficiently, significantly reducing demand for this role.
+
+Can advance through experience to sorting line supervisor or quality inspector, or transition to waste management operations or environmental technician roles.
+
+**Tasks most exposed to AI:**
+
+- Identifying and sorting recyclables (e.g., plastic, metal, paper)
+- Manually sorting waste on a conveyor belt
+- Place sorted materials into corresponding collection containers
+- Inspect and remove contaminated items
+- Record sorting volume and type.
+
+**Where AI augments the role:**
+
+- Monitor the operation status of the automatic sorting system
+- Handle abnormal items that the system cannot identify
+- Maintain and calibrate sorting robot equipment
+- Optimize sorting processes to improve efficiency
+- Train new employees in using automated systems
+
+**Human moat:**
+
+- Handling hazardous waste (e.g., chemical containers, needles)
+- Manual identification and sorting of complex or irregular items
+- Manually restoring production processes during unexpected failures
+- Safety Supervision and Emergency Response
+- Communicates environmental recycling knowledge with the community
+
+**Skills to build:**
+
+- Operate and maintain automatic sorting equipment
+- Data analysis and process optimization
+- Mechanical repair basics
+- Hazardous waste disposal certification
+- Basic programming (PLC or robot control)
+- Team management and communication
+
+**Key growth areas:**
 
 - Waste management
 - Recycling
@@ -63,63 +99,65 @@ Sorts and separates recyclable materials and waste at processing facilities or r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30000欧元。垃圾分拣工不属紧缺职业，签证申请可能困难。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高技能，年薪需达约40000欧元，本职业通常不达标。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 仅限紧缺职业列表内职业，本职业不在列表中。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand, requires employer sponsorship, annual salary not less than 30,000 euros. Waste sorter is not an occupation in demand, visa application may be difficult. |
+| Subclass EU Blue Card (EU Blue Card) | Requires high skills with an annual salary of around €40,000, typically not met by this occupation. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Limited to occupations on the Skilled Occupation List; this occupation is not on the list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Refuse Sorter？**
-- 能适应体力劳动和重复性工作者
-- 对环保和资源回收有兴趣者
-- 愿意从事户外或处理厂工作环境者
+**Who is suited**
+- Able to handle physical labor and repetitive tasks
+- For those interested in environmental protection and resource recycling
+- Willing to work outdoors or in processing plant environments
 
-**谁不适合学Refuse Sorter？**
-- 不能忍受脏乱、气味和噪音环境者
-- 期望高薪或快速职业发展者
+**Who is not suited**
+- Those unable to tolerate dirty, smelly, or noisy environments
+- Those expecting high salary or rapid career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for waste sorters in Ireland?**
+A: Entry-level annual salary is about 25000-30000 EUR, intermediate 30000-35000 EUR, and supervisory level can reach 40000 EUR.
+
+**Q: Can foreigners immigrate to Ireland through the position of waste sorter?**
+A: This occupation is not in shortage; work permit application thresholds are high, usually requiring employer proof of inability to recruit local staff.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Refuse Sorter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for refuse sorters in Ireland?**
-答：Entry-level salary is approx. €25,000-30,000 per year, mid-level €30,000-35,000, and supervisor level up to €40,000.
-
-**问：Can foreigners immigrate to Ireland as a refuse sorter?**
-答：This occupation is not on the shortage list; work permit applications require proof that no local worker is available.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

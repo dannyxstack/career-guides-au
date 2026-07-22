@@ -1,60 +1,93 @@
-# Infantry Officers（Infantry Officers）职业分析 · 美国
+# Infantry Officers — career analysis · United States
 
-**职业代码：55-1016 – Infantry Officers。**
+**Occupation code: 55-1016 (SOC)**
 
-Direct, train, and lead infantry units in ground combat operations, including deployment of weapons and equipment, management of field communications, coordination with support units, and strategic planning.
+Command, train, and lead infantry units in ground combat operations, responsible for deploying infantry weapons, vehicles, and equipment, managing field communications, coordinating armor, artillery, and air support, and conducting strategic and tactical planning.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位（ROTC或军官学校） | 4年 | —（军官学校免费并有津贴；ROTC奖学金可覆盖学费，自费则约4-20万美元） |
+| Bachelor's degree (ROTC or military academy) | 4 years | $0~$200,000 (Officer school is free with stipends; ROTC scholarships can cover tuition; self-funded costs about US$40,000-200,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国陆军军官委任（Commission） | 美国陆军 | 必备 | 必须通过ROTC、军官学校或候补军官学校获得委任 |
-| 安全许可（Security Clearance） | 美国国防部 | 必备 | 需要机密或最高机密许可，通常由军队处理 |
-| 基础军官领导力课程（BOLC） | 美国陆军 | 必备 | 完成步兵基础军官领导力课程 |
+| U.S. Army Officer Commission | United States Army | Required | Must obtain commission via ROTC, military academy, or OCS |
+| Security Clearance | U.S. Department of Defense | Required | Requires secret or top-secret clearance, usually handled by the military |
+| Basic Officer Leader Course (BOLC) | United States Army | Required | Complete the Infantry Basic Officer Leadership Course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。美国国防预算稳定，步兵军官需求与国家安全政策相关，竞争激烈但职业稳定，晋升路径明确。由于军事职业特殊性，民间就业机会有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The US defense budget is stable; infantry officer demand is tied to national security policy. Competition is high but careers are stable with clear promotion paths. Due to the nature of military occupations, civilian job opportunities are limited.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 包括基本工资和津贴，根据军衔和地区调整 |
-| 中级（4-10年） | $60,000~$90,000 | 包括基本工资、住房津贴和特殊职责津贴 |
-| 高级（10年以上） | $90,000~$130,000 | 包括基本工资、领导津贴和可能的战斗津贴 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$60,000 | Includes base salary and allowances, adjusted according to rank and region |
+| Mid-level (4-10 years). | $60,000~$90,000 | Includes base salary, housing allowance, and special duty allowance |
+| Senior (10+ years) | $90,000~$130,000 | Includes base salary, leadership allowance, and possible combat pay |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从排长逐步晋升至连长、营长等高级指挥职位，也可转入参谋或特种作战领域。退役后可在国防承包商、政府机构或安全咨询领域发展。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core leadership decisions and battlefield adaptability of infantry officers are difficult to automate, but AI will significantly enhance their capabilities in intelligence analysis, situational awareness, and administrative processes, and may also replace some monitoring and recording tasks.
+
+Progress from platoon leader to company commander, battalion commander, and other senior command positions; can also transfer to staff or special operations. After retirement, can develop in defense contractors, government agencies, or security consulting.
+
+**Tasks most exposed to AI:**
+
+- Autonomous scheduling and data analysis of battlefield surveillance and patrol drones
+- Automatic generation of combat reports and records (e.g., after-action reports)
+- AI-optimized allocation of logistics supplies and ammunition inventory
+- Automation of basic communication relay and spectrum management.
+
+**Where AI augments the role:**
+
+- AI-assisted tactical decision-making: real-time integration of multi-source intelligence to recommend courses of action.
+- Augmented reality training system simulates complex battlefield environments.
+- AI tool for battle plan simulation and risk assessment
+- Intelligent monitoring and early warning of soldier health and fatigue status
+- Adaptive learning system personalizes officer command skills improvement
+
+**Human moat:**
+
+- Ability to make quick decisions in the face of uncertainty on the battlefield.
+- Motivate and lead soldiers to complete missions under extreme stress
+- Understand rules and legal boundaries, assume ethical responsibility
+- Unstructured problem-solving based on experience and intuition
+
+**Skills to build:**
+
+- AI and data analysis basics (understanding algorithm outputs and limitations)
+- Tactical deployment and coordinated command of unmanned systems
+- Fundamentals of cyber warfare and electronic warfare
+- Cross-domain joint command (land, sea, air, space, cyber).
+- Cognitive flexibility and rapid decision-making training
+- Psychology of grassroots soldier management
+
+**Key growth areas:**
 
 - National Security
 - Defense Budget
@@ -63,65 +96,67 @@ Direct, train, and lead infantry units in ground combat operations, including de
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少用于军事职位，通常需要民间对口技能 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 非公民通常先通过军人归化捷径获得公民身份，PERM不常用 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely used for military positions; typically requires civilian equivalent skills |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Non-citizens often take the path to citizenship through military naturalization, PERM is uncommon. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Infantry Officers？**
-- 具有强烈领导欲和团队合作精神的人
-- 适应高压和体力挑战的环境
-- 愿意服从命令并忠诚于国家
+**Who is suited**
+- People with strong leadership desire and teamwork spirit
+- Ability to adapt to high-pressure and physically demanding environments
+- Willing to follow orders and be loyal to the country
 
-**谁不适合学Infantry Officers？**
-- 不喜严格纪律和等级制度的人
-- 寻求快速移民或稳定民间职业者
+**Who is not suited**
+- People who dislike strict discipline and hierarchy.
+- Those seeking fast immigration or stable civilian careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for infantry officers?**
+A: Entry-level: USD 40,000-60,000; mid-level: USD 60,000-90,000; senior: USD 90,000-130,000, including allowances.
+
+**Q: Are infantry officers eligible for US immigration easily?**
+A: Extremely difficult. Military positions typically require US citizenship; non-citizens can enlist and naturalize through the MAVNI program, but slots are limited and currently paused.
+
+**Q: What can infantry officers do after retiring?**
+A: Can transition to defense contractors, government agencies, security consulting, project management, leveraging leadership and security clearance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
-
-Infantry Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an Infantry Officer?**
-答：Entry-level $40,000-$60,000, mid-level $60,000-$90,000, senior $90,000-$130,000 including allowances.
-
-**问：Is it easy for Infantry Officers to immigrate to the US?**
-答：Very difficult. Military positions generally require US citizenship; non-citizens may enlist via MAVNI program but it is currently suspended.
-
-**问：What can Infantry Officers do after retirement?**
-答：Transition to defense contractors, government agencies, security consulting, or project management, leveraging leadership and security clearance.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

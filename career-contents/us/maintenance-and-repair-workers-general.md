@@ -1,60 +1,92 @@
-# Maintenance and Repair Workers, General（Maintenance and Repair Workers, General）职业分析 · 美国
+# Maintenance and Repair Workers, General — career analysis · United States
 
-**职业代码：49-9071 – Maintenance and Repair Workers, General。**
+**Occupation code: 49-9071 (SOC)**
 
-Perform work involving skills of multiple maintenance or craft occupations to keep machines, mechanical equipment, or building structures in repair.
+Perform tasks involving two or more maintenance or process occupations to keep machines, mechanical equipment, or building structures in good working order.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立中学免费） |
-| 在职培训或学徒期 | 1-4年 | —（通常带薪学习） |
+| High school diploma or equivalent | 4 years | $0~$0 (Free public secondary school) |
+| On-the-job training or apprenticeship | 1-4 years | $0~$0 (Typically paid study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 大多数雇主要求 |
-| 技术认证（如EPA Section 608） | 美国环保署 | 可选 | 处理制冷剂需要 |
+| High school diploma or equivalent | High school | Required | Required by most employers |
+| Technical certifications (e.g., EPA Section 608) | US Environmental Protection Agency | Optional | Handling refrigerants requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 1,499,500。美国劳工统计局预计2022-2032年该职业就业增长约3%，与所有职业平均水平相近。每年约有15.6万个职位空缺，主要来自替换退休人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,499,500. US Bureau of Labor Statistics projects employment growth of about 3% from 2022-2032, similar to the average for all occupations. About 156,000 job openings annually, mainly from replacing retirees.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $29,600~$38,000 | 入门级别，通常需要在职培训 |
-| 中级（4-7年） | $38,000~$50,000 | 具备经验后薪资提升 |
-| 高级（8年以上） | $50,000~$64,000 | 包括主管或专精技能者 |
+| Median salary | $49,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $29,600~$38,000 | Entry level, usually requires on-the-job training |
+| Mid-level (4-7 years) | $38,000~$50,000 | Salary increases with experience |
+| Senior (8+ years) | $50,000~$64,000 | Includes supervisors or those with specialized skills |
+| average salary | $53,780 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业晋升路径通常从学徒或初级技工开始，积累经验后可晋升为高级技工、主管或设施经理，也可通过考取特定技能认证（如HVAC、电气）增加薪资和职级。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Maintenance and repair work is mixed in terms of AI impact: routine inspections and documentation may be automated, but on-site troubleshooting and complex repairs still rely on human experience and hands-on skills; overall demand is stable, and skill requirements will increase
+
+Career progression typically starts with an apprenticeship or junior tradesperson, with experience leading to senior tradesperson, supervisor, or facility manager. Earning specialized certifications (e.g., HVAC, electrical) can increase salary and rank.
+
+**Tasks most exposed to AI:**
+
+- Automatically schedules maintenance plans and generates reports through sensors and AI predictive maintenance systems
+- Use AI vision inspection equipment for simple surface defect identification and classification
+- Automated tool management: RFID and IoT for automatic inventory counting and restocking
+- AI-assisted remote diagnosis: Central system automatically analyzes equipment logs and provides preliminary maintenance recommendations
+
+**Where AI augments the role:**
+
+- AR glasses or tablets provide superimposed repair instructions and parts identification, improving on-site repair efficiency
+- AI-assisted fault diagnosis: input symptoms, system recommends most likely fault causes and repair steps
+- Smart repair documentation: natural language generation technology automatically creates repair records and operation manuals
+- Real-time query of spare parts inventory, technical specifications, and safety regulations via voice assistant
+
+**Human moat:**
+
+- Handling unstructured, unpredictable field faults (e.g., rusted parts, non-standard modifications)
+- Multi-trade comprehensive diagnostic skills (mechanical, electrical, hydraulic system interaction issues)
+- Customer communication and on-site service adaptability
+- Ability to make independent decisions in environments without network or data access
+
+**Skills to build:**
+
+- Basic programming and IoT device configuration
+- Data Analysis and Predictive Maintenance Software Operation
+- Use of AR/VR-assisted maintenance systems
+- Electrical and electronic circuit troubleshooting (including PLC basics)
+- Knowledge of safety procedures and hazardous materials handling compliance
+
+**Key growth areas:**
 
 - Repair
 - Building Maintenance
@@ -63,65 +95,67 @@ Perform work involving skills of multiple maintenance or craft occupations to ke
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 用于临时性非农业工作，需雇主担保，名额有限且受季节限制， |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 通过PERM劳工认证申请永久居留，但通用维修工通常难以达到要求的高技能标准 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | For temporary non-agricultural work, requires employer sponsorship, limited quota and subject to seasonal restrictions |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Apply for permanent residency through PERM labor certification, but general repair workers usually struggle to meet high-skill requirements |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Maintenance and Repair Workers, General？**
-- 喜欢动手操作和修理工作
-- 不介意体力劳动和偶尔加班
-- 希望在不需要长期高等学历的情况下稳定就业
+**Who is suited**
+- Like hands-on and repair work
+- Not minding physical labor and occasional overtime
+- Looking for stable employment without needing long-term higher education
 
-**谁不适合学Maintenance and Repair Workers, General？**
-- 偏好办公室工作或低体力劳动
-- 对薪资增长有较高期待
+**Who is not suited**
+- Prefers office work or low physical labor
+- High expectations for salary growth
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a general maintenance worker?**
+A: According to 2023 BLS data, median annual salary is about $44,800, but entry-level around $30,000, and senior or supervisor roles up to $60,000+.
+
+**Q: Can foreign workers get an H-1B visa for general maintenance work?**
+A: Usually not. H-1B requires a specialty occupation (typically bachelor's degree or higher), while general maintenance workers usually do not need a degree. H-2B visa is for non-agricultural temporary workers, but slots are limited and highly seasonal.
+
+**Q: What education is required to become a general repair technician?**
+A: Usually requires only a high school diploma; most skills are acquired through on-the-job training or apprenticeships. Some community colleges offer relevant certificate programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Maintenance and Repair Workers, General属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for general maintenance workers?**
-答：According to BLS 2023 data, median annual wage is about $44,800; entry-level around $30,000; senior or supervisory roles may exceed $60,000.
-
-**问：Can foreign workers get H-1B for general maintenance work?**
-答：Generally no. H-1B requires a specialty occupation (usually bachelor's degree), but maintenance work typically does not. H-2B is possible for temporary non-agricultural work but capped and seasonal.
-
-**问：What education is needed to become a general maintenance worker?**
-答：Typically a high school diploma, with most skills learned on-the-job or through apprenticeships. Some community colleges offer certificate programs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

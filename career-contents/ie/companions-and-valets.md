@@ -1,60 +1,94 @@
-# Companions and Valets（Companions and Valets）职业分析 · IE
+# Companions and Valets — career analysis · Ireland
 
-**职业代码：5162 – Companions and Valets。**
+**Occupation code: 5162 (ISCO08)**
 
-Provide personalized companionship, dressing, and travel assistance for employers, typically in affluent households or luxury hotels.
+Provides employers with personalized care, dressing, travel arrangements, and other high-end lifestyle assistance, commonly found in wealthy families or luxury hotels.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 2年（高中证书） | —（公立学校免费） |
-| 职业培训 | 6个月-1年 | $2,000~$5,000（私立培训机构课程） |
+| Secondary Education | 2 years (High School Certificate) | $0~$1,000 (Free public schools.) |
+| Vocational training | 6 months to 1 year | $2,000~$5,000 (Private training institution courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 爱尔兰心脏基金会 | 可选 | 推荐但非强制 |
-| 酒店服务文凭 | 爱尔兰酒店管理学院 | 可选 | 提升竞争力 |
+| First aid certificate | Irish Heart Foundation | Optional | Recommended but not mandatory |
+| Diploma of Hospitality Services | Irish Hotel Management School | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。随着高净值人群增加，爱尔兰高端生活服务需求稳定，但该职业在官方技能短缺清单之外，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. With the increase in high-net-worth individuals, the demand for high-end lifestyle services in Ireland is stable, but as this occupation is outside the official skills shortage list, competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪 |
-| 中级（3-8年） | $30,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $30,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $38,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从私人助理晋升为管家或生活方式经理，也可转向酒店礼宾或高端客户服务管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will handle transactional tasks like scheduling and outfit suggestions, but the demand for humanized companionship, privacy trust, and emotional insight from high-net-worth clients will increase. Entry-level virtual butler positions will be impacted, but experienced personal butlers will gain value.
+
+Can progress from personal assistant to house manager or lifestyle manager, or move into hotel concierge or luxury client service management.
+
+**Tasks most exposed to AI:**
+
+- Use AI scheduling assistants to automatically coordinate employer meetings, travel, and events
+- Generate daily outfit plans and manage wardrobe using AI styling tools
+- Basic inquiries, ride-hailing, food ordering, and other tasks handled by an AI voice assistant
+- Automated filling of travel documents, visa forms, and itinerary forms
+- AI system records employer preferences and predicts subsequent needs
+
+**Where AI augments the role:**
+
+- AI provides personalized suggestions on diet, health, and social activities to assist butlers in decision-making
+- Effectively communicate with AI translation tools and multilingual service providers
+- Predicting employers' unspoken needs through data analysis (e.g., preparing anniversary gifts in advance)
+- AI security monitoring system assists in safeguarding the security and privacy of the employer's residence
+
+**Human moat:**
+
+- Building deep trust relationships, addressing employers' unspoken emotions and expectations
+- Stay calm and handle diplomatically high-pressure, unexpected situations (e.g., crisis PR, family conflicts).
+- Master high-end social etiquette, wine tasting, art appreciation, and other cultural capital
+- Provide non-functional value to employers: genuine companionship and emotional support
+
+**Skills to build:**
+
+- AI tool applications: schedule management, outfit recommendations, data analysis
+- Emotional intelligence and EQ training
+- High-end service etiquette and cross-cultural communication
+- Basic financial knowledge (managing employer's personal finances)
+- Crisis management and confidentiality agreement execution
+- Luxury goods authentication and maintenance knowledge
+
+**Key growth areas:**
 
 - Personal service
 - Luxury hospitality
@@ -63,62 +97,64 @@ Provide personalized companionship, dressing, and travel assistance for employer
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，年薪门槛通常30,000欧元以上，该职业通常不满足紧缺清单要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪超过38,000欧元，通常不适用于此类低技能职业。 |
+| Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, annual salary threshold usually above 30,000 euros; this occupation typically does not meet shortage list requirements. |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of over €38,000, typically not applicable to such low-skilled occupations. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Companions and Valets？**
-- 注重细节、服务意识强的人
-- 喜欢灵活工作时间的人
-- 热爱与人打交道并提供个性化服务的人
+**Who is suited**
+- People with strong attention to detail and service orientation
+- People who prefer flexible working hours
+- People who enjoy interacting with and providing personalized service to others
 
-**谁不适合学Companions and Valets？**
-- 不习惯高强度私人服务的人
-- 追求稳定作息和低压力工作的人
+**Who is not suited**
+- People not accustomed to high-intensity personal services
+- People seeking stable routines and low-stress jobs.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a companion and valet in Ireland?**
+A: Junior: approximately 22,000-30,000 euros; senior: up to 45,000-60,000 euros, depending on employer and responsibilities.
+
+**Q: Can foreigners obtain an Irish work visa through this occupation?**
+A: Difficult because the occupation is not on the shortage list; requires employer sponsorship with a salary meeting the threshold, and the success rate is low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Companions and Valets属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for companions and valets in Ireland?**
-答：Entry-level earns €22,000-30,000; senior up to €45,000-60,000, depending on employer and duties.
-
-**问：Can foreigners obtain an Irish work visa through this occupation?**
-答：It is difficult as it is not on the shortage list; employer sponsorship and salary threshold required, success rate low.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

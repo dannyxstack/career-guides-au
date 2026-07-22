@@ -1,58 +1,94 @@
-# Calibration Technologists and Technicians（Calibration Technologists and Technicians）职业分析 · 美国
+# Calibration Technologists and Technicians — career analysis · United States
 
-**职业代码：17-3028 – Calibration Technologists and Technicians。**
+**Occupation code: 17-3028 (SOC)**
 
-Execute or adapt procedures for calibrating measurement devices, applying knowledge of measurement science, mathematics, physics, chemistry, and electronics. May perform preventive maintenance and corrective actions.
+Responsible for executing or adjusting calibration procedures for measuring equipment, applying measurement science, mathematics, physics, chemistry, and electronics knowledge, sometimes under the guidance of engineering staff. May include preventive maintenance and corrective actions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位（Associate Degree） | 2年 | $10,000~$30,000（社区学院学费，州内/外差异大） |
-| 职业证书（Certificate） | 1年 | $5,000~$15,000（技术学校或社区学院） |
+| Associate Degree | 2 years | $10,000~$30,000 (Community college tuition varies significantly between in-state and out-of-state) |
+| Certificate | 1 year | $5,000~$15,000 (Technical school or community college.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 校准技术员证书（Certified Calibration Technician, CCT） | 美国质量协会（ASQ） | 可选 | 需工作经验并通过考试 |
-| 焊接认证（如需涉及压力设备） | 美国焊接学会（AWS） | 可选 | 特定行业要求 |
+| Certified Calibration Technician (CCT) | American Society for Quality (ASQ) | Optional | Requires work experience and passing an exam |
+| Welding certification (if pressure equipment is involved) | American Welding Society (AWS) | Optional | Specific industry requirements. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 52,000。美国劳工统计局预计2022-2032年该职业就业增长约5%，与平均水平相当。制造业、航空航天、医疗设备等行业需求稳定，精密制造和自动化趋势推动岗位需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 52,000. The U.S. Bureau of Labor Statistics projects about 5% employment growth for this occupation from 2022 to 2032, about as fast as average. Demand is steady in manufacturing, aerospace, medical devices, and other industries; precision manufacturing and automation trends drive job demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级薪资，取决于地区和行业 |
-| 中级（3-7年） | $55,000~$70,000 | 有一定经验和认证后薪资提升 |
-| 高级（7年以上） | $70,000~$90,000 | 资深技术员或主管级别 |
+| Median salary | $67,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level salary, depends on region and industry |
+| Mid-level (3–7 years) | $55,000~$70,000 | Salary increases with experience and certification |
+| Senior (7+ years) | $70,000~$90,000 | Senior technician or supervisor level |
+| average salary | $74,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级的校准技术员可通过积累经验和专业认证晋升为高级校准技术员、校准主管或质量工程师。也可转向计量学、质量控制或工程管理方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
+
+Entry-level calibration technicians can advance to senior calibration technician, calibration supervisor, or quality engineer through experience and professional certifications. May also move into metrology, quality control, or engineering management.
+
+**Tasks most exposed to AI:**
+
+- Automated test script generation and execution; AI can automatically analyse circuit board fault modes and output test reports
+- Documentation and archiving of standard repair procedures; AI can auto-generate repair logs
+- Circuit parameter debugging based on preset rules; AI quickly determines optimal parameters through simulation
+- Diagnosis of common faults; AI quickly locates issues by matching historical data
+- Repetitive operations in equipment calibration, AI-controlled automated calibration system
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AI provides a data-driven list of potential causes; technicians quickly verify.
+- Design improvement suggestions: AI analyzes historical equipment failure data to propose circuit optimization solutions
+- Remote technical support: AI-enhanced reality glasses overlay circuit diagrams and operating instructions in real time
+- Predictive maintenance: AI predicts equipment failure, technicians intervene early.
+- Training and knowledge base: AI generates personalized learning paths and instant query assistants
+
+**Human moat:**
+
+- Fine manual operations like on-site installation and wiring
+- Creative troubleshooting for non-standard faults
+- Communicating with clients to understand needs and provide customized solutions
+- Overall debugging and coordination during cross-system integration.
+- Safety compliance responsibility and emergency response
+
+**Skills to build:**
+
+- AI-assisted diagnostic tools (e.g., ML-based fault prediction systems)
+- Programmable Automation Controller (PAC) programming.
+- IoT device configuration and data analysis
+- Augmented reality (AR) repair assistance operations
+- Python script for automating test data organization
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Precision Manufacturing
 - Automation
@@ -61,64 +97,63 @@ Execute or adapt procedures for calibrating measurement devices, applying knowle
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需要学士学位或同等经验，校准技术员通常需要副学士学位，可能符合专业职业要求 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年培训或经验，可通过PERM劳工认证申请绿卡 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree or equivalent experience; calibration technicians usually need an associate degree, may meet professional occupation requirements |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, can apply for green card through PERM labor certification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Calibration Technologists and Technicians？**
-- 细心、精确，喜欢动手操作设备
-- 对测量科学和电子学有兴趣
-- 愿意在制造业、实验室或现场工作
-
-**谁不适合学Calibration Technologists and Technicians？**
-- 不喜重复性工作或严格遵循程序
-- 对数学和物理缺乏兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Attentive, precise, and enjoys hands-on operation of equipment
+- Interest in measurement science and electronics
+- Willing to work in manufacturing, labs, or on-site
+
+**Who is not suited**
+- Dislikes repetitive work or strictly following procedures
+- Lack of interest in math and physics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a calibration technician?**
+A: Entry-level: approximately USD 40,000-55,000; mid-level: USD 55,000-70,000; senior: USD 70,000-90,000, depending on experience and certifications.
+
+**Q: Can calibration technicians apply for US work visas or green cards?**
+A: Typically through H-1B or EB-3 green card paths. Requires employer sponsorship and meeting education or experience requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Calibration Technologists and Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for calibration technicians?**
-答：Entry-level: $40,000-$55,000; Mid-level: $55,000-$70,000; Senior: $70,000-$90,000.
-
-**问：Can calibration technicians apply for US work visa or green card?**
-答：Yes, typically through H-1B or EB-3 green card, with employer sponsorship and required qualifications.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

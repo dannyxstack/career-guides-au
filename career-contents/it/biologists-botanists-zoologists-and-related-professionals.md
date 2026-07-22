@@ -1,62 +1,98 @@
-# Biologists, Botanists, Zoologists and Related Professionals（Biologists, Botanists, Zoologists and Related Professionals）职业分析 · IT
+# Biologists, Botanists, Zoologists and Related Professionals — career analysis · Italy
 
-**职业代码：2131 – Biologists, Botanists, Zoologists and Related Professionals。**
+**Occupation code: 2131 (ISCO08)**
 
-In Italy, these professionals work in biodiversity research, ecological monitoring, biotechnology and environmental protection, mainly in universities, research institutes and environmental organizations.
+In Italy, professionals in this field work on biodiversity research, ecological monitoring, biotechnology, and environmental protection, typically at universities, research institutions, and environmental organizations.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $500~$3,000（公立大学学费，基于家庭收入） |
-| 硕士 | 2年（硕士） | $1,000~$4,000（公立大学学费，部分奖学金可减免） |
-| 博士 | 3-4年（博士） | —（博士通常有奖学金覆盖学费及生活费） |
+| Bachelor's degree | 3 years (bachelor's) | $500~$3,000 (Public university fees, based on family income) |
+| Master's degree | 2 years (Master's) | $1,000~$4,000 (Public university tuition, some scholarships may be waived) |
+| Doctorate | 3-4 years (PhD) | $0~$3,000 (PhD programs usually have scholarships covering tuition and living expenses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学或相关学科学位 | 意大利大学 | 必备 | 职业必备，本科及以上 |
-| 博士或专业硕士 | 大学或研究机构 | 可选 | 研究型岗位通常要求博士学历 |
-| 专业注册（如生物学家注册） | Ordine Nazionale dei Biologi | 可选 | 从事某些临床或咨询工作需注册 |
+| Degree in biology or related field | Italian universities | Required | Essential for the profession, bachelor's degree or higher |
+| Doctorate or professional master's degree | University or research institution | Optional | Research positions typically require a doctoral degree |
+| Professional registration (e.g., biologist registration) | Ordine Nazionale dei Biologi | Optional | Registration required for certain clinical or consulting work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利对生物科学人才需求稳定，尤其是环境监测、生物技术和可持续农业领域。政府科研投入持续，但竞争激烈，职位多集中在北部发达地区。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. Demand for bioscience talent in Italy is steady, especially in environmental monitoring, biotechnology, and sustainable agriculture. Government research investment continues, but competition is fierce, with most positions concentrated in the developed northern regions.
 
-**竞争度：激烈（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪，公共研究机构或大学合同 |
-| 中级（3-8年） | $30,000~$45,000 | 税前年薪，有经验的研究员或项目经理 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，高级研究员、教授或私营企业高管 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$30,000 | Pre-tax annual salary, public research institution or university contract |
+| Mid-level (3–8 years) | $30,000~$45,000 | Annual pre-tax salary for experienced researchers or project managers |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary for senior researcher, professor, or private sector executive |
+| average salary | $38,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：初级研究员/技术员 → 高级研究员/项目负责人 → 研究主管/教授。部分转向工业研发或自主创业，如生态咨询公司。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on biologists and similar professionals is mixed: data analysis and literature reviews will be automated, but experiment design, fieldwork, and ethical judgment still rely on humans, with increased competition for entry-level positions.
+
+Career development path: Junior researcher/technician → Senior researcher/project leader → Research director/professor. Some move to industrial R&D or start their own business, e.g., eco-consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Species identification and classification under a traditional microscope (replaced by computer vision)
+- Manual literature search and data extraction (replaced by natural language processing)
+- Basic statistical analysis and report generation (replaced by automated analysis tools).
+- Repetitive laboratory sample handling and recording (replaced by robotic process automation)
+- Manual sorting of ecological monitoring data (replaced by IoT sensors + AI).
+
+**Where AI augments the role:**
+
+- AI accelerates genomic sequence analysis and pattern discovery
+- AI simulates ecosystem dynamics to optimize conservation strategies
+- AI-assisted drug molecular design (computational biology)
+- AI-driven automated biodiversity image monitoring
+- AI integrates multi-source data to predict biological invasion risks
+
+**Human moat:**
+
+- Creativity in experiment design, hypothesis formulation and validation
+- Field sampling and conservation decision-making for rare species.
+- Judgment and public communication of ethical dilemmas (e.g., gene editing)
+- Systems thinking for interdisciplinary integration (ecological, social, economic)
+- Responsibility attribution and professional certification under the regulatory framework.
+
+**Skills to build:**
+
+- Python/R programming and machine learning applications
+- Bioinformatics tools (e.g., AlphaFold, BLAST)
+- Data visualization and interactive reporting (e.g., R Shiny, Tableau)
+- Automated laboratory equipment operation and process optimization
+- Science communication and policy advocacy skills
+- AI ethics and biosecurity regulations knowledge
+
+**Key growth areas:**
 
 - Life sciences
 - Environmental protection
@@ -65,70 +101,69 @@ In Italy, these professionals work in biodiversity research, ecological monitori
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟公民，要求大学学历及不低于本地平均工资1.5倍的合同，快速获得工作和居留许可。 |
-| Subclass Work Visa (Lavoro Su（Work Visa (Subordinate Employment)） | 基于雇主担保的工作签证，需通过劳动市场测试（Nulla Osta），适用于非紧缺职业。 |
-| Subclass Self-Employment Visa（Self-Employment Visa (Lavoro Autonomo)） | 适用于计划以自由职业或创业形式在意大利工作的生物学家，需证明有足够资源及商业计划。 |
-| Subclass Researcher Visa（Researcher Visa (Visto per Ricercatori)） | 针对受雇于认可研究机构的研究人员，流程简化，无需劳动市场测试。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable for highly skilled non-EU citizens, requiring a university degree and a contract at least 1.5 times the local average wage, for fast-track work and residence permits. |
+| Subclass Work Visa (Lavoro Su (Work Visa (Subordinate Employment)) | Employer-sponsored work visa requiring labour market testing (Nulla Osta), applicable to non-shortage occupations. |
+| Subclass Self-Employment Visa (Self-Employment Visa (Lavoro Autonomo)) | For biologists planning to work as freelancers or start a business in Italy, need to prove sufficient resources and a business plan. |
+| Subclass Researcher Visa (Researcher Visa (Visto per Ricercatori)) | For researchers employed by accredited research institutions, streamlined process with no labour market test. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologists, Botanists, Zoologists and Related Professionals？**
-- 热爱自然与科学研究，有较强实验和数据分析能力
-- 愿意从事学术或公共研究机构工作，接受相对较低起薪
-- 具备多语言能力（英语+意大利语）的求职者
-
-**谁不适合学Biologists, Botanists, Zoologists and Related Professionals？**
-- 追求高薪或快速致富者
-- 不喜欢实验室或野外工作，偏好高强度商业环境
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and scientific research, with strong experimental and data analysis skills
+- Willing to work in academic or public research institutions, accepting relatively lower starting salaries
+- Job seekers with multilingual skills (English + Italian)
+
+**Who is not suited**
+- Those seeking high salary or quick wealth
+- Prefers high-intensity business environments over laboratory or fieldwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of biologists in Italy?**
+A: Junior researchers earn around €22,000-30,000 per year, mid-level €30,000-45,000, senior up to €60,000. Academic salaries are lower than private sector but offer high stability.
+
+**Q: How can Chinese citizens immigrate to Italy as biologists through work?**
+A: Common pathways include applying for an EU Blue Card (requires high-salary contract) or a researcher visa (sponsored by an accredited institution). Italian proficiency is a plus but not required.
+
+**Q: Is pursuing a PhD in Biology in Italy recommended?**
+A: Recommended, PhD usually has scholarships covering tuition and living costs, with better opportunities in academia or R&D after graduation, but takes 3-4 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★½☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Biologists, Botanists, Zoologists and Related Professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biologists in Italy?**
-答：Entry-level researchers earn around €22,000-30,000 per year, mid-level €30,000-45,000, and senior up to €60,000. Academic salaries are lower than private sector but offer stability.
-
-**问：How can Chinese citizens immigrate to Italy as biologists?**
-答：Common paths include the EU Blue Card (requires high-salary contract) or Researcher Visa (sponsored by recognized institution). Italian language proficiency is a plus but not mandatory.
-
-**问：Is it recommended to pursue a PhD in biology in Italy?**
-答：Yes, PhD programs typically offer scholarships covering tuition and living costs, leading to better opportunities in academia or R&D, though it requires 3-4 years.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

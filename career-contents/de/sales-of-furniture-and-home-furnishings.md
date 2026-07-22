@@ -1,60 +1,93 @@
-# Sales of Furniture and Home Furnishings（Sales of Furniture and Home Furnishings）职业分析 · DE
+# Sales of Furniture and Home Furnishings — career analysis · Germany
 
-**职业代码：6225 – Sales of Furniture and Home Furnishings。**
+**Occupation code: 6225 (KldB)**
 
-Advise customers on furniture and home furnishings, manage sales, visual merchandising, and inventory in retail stores.
+Selling, customer consulting, display, and inventory management in furniture and homeware stores, providing personalized shopping advice.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 2-3年 | —（培训期间有薪资） |
-| 短期培训/在职 | 3-6个月 | $500~$2,000（部分零售企业提供内部培训） |
+| Vocational training (dual system) | 2-3 years | $0~$0 (Paid during training) |
+| Short-term training/on-the-job. | 3-6 months | $500~$2,000 (Some retail companies provide internal training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售销售员职业资格 | 德国工商会(IHK) | 必备 | 双元制培训后获得 |
-| 专业销售员（家具方向） | IHK | 可选 | 可选的进阶认证 |
+| Retail Salesperson Qualifications | German Chamber of Commerce and Industry (IHK) | Required | Obtained after dual-system training |
+| Professional salesperson (furniture focus) | IHK | Optional | Optional advanced certifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。德国房地产市场稳健，家居消费持续，但电商竞争加剧。实体店销售岗位需求平稳，数字化技能成为加分项。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Germany's real estate market is stable, household consumption continues, but e-commerce competition intensifies. Demand for in-store sales positions is steady, and digital skills are a plus.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含店长职位 |
+| Median salary | $39,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual salary before tax, including store manager positions |
+| average salary | $48,612 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从销售员晋升为部门主管、店长或采购专员，也可转向家居设计咨询或电子商务运营。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Furniture and home furnishings salespersons face a high risk of automation; AI-driven virtual showrooms and smart recommendation systems will reduce traditional sales roles, especially standardized advisory and inventory management tasks.
+
+Can advance from salesperson to department manager, store manager, or procurement specialist, or transition to interior design consulting or e-commerce operations.
+
+**Tasks most exposed to AI:**
+
+- Use intelligent recommendation systems to automatically generate personalised home styling plans, replacing manual consultation
+- AI virtual showrooms and AR try-out features let customers preview furniture effects themselves
+- Automated inventory management system tracks inventory in real-time, reducing manual counts.
+- Handle common inquiries (e.g., size, material) via chatbot
+
+**Where AI augments the role:**
+
+- AI-assisted customer data analysis helps salespeople accurately identify customer preferences and budgets
+- Enhance on-site display experience and improve customer engagement using AR/VR tools
+- AI supply chain forecasting optimizes inventory management, reducing shortages and overstock
+- Automated sales report generation, freeing salespeople to focus on high-value client interactions
+
+**Human moat:**
+
+- Analysis of complex customer needs (e.g., spatial layout, style integration)
+- Emotional connection and trust building (e.g., family use scenario suggestions)
+- Flexibility in handling return/exchange disputes and customer complaints
+- Customised sales services for non-standard products (e.g., antique furniture)
+
+**Skills to build:**
+
+- Learn to use AR/VR display tools to enhance customer experience
+- Proficient in customer relationship management (CRM) systems and data analysis
+- Learn supply chain and inventory management software
+- Enhance communication and negotiation skills, focus on high-value clients
+- Learn basic home design knowledge (e.g., color, ergonomics)
+- Mastering live-streaming sales techniques (e.g., social media sales)
+
+**Key growth areas:**
 
 - e-commerce integration
 - home renovation demand
@@ -63,66 +96,68 @@ Advise customers on furniture and home furnishings, manage sales, visual merchan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且薪资达标（2024年约43,800欧元），本职业通常不满足 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需职业资格认证且雇主担保，本职位多数不被视为专业人才 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分，无需雇主，可在德国找任何工作，本职业可能适用 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and meeting the salary threshold (approx. €43,800 in 2024); this occupation typically does not meet it. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires professional qualification and employer sponsorship; most roles in this occupation are not considered skilled professionals |
+| Subclass Chancenkarte (Opportunity Card) | Based on points, no employer needed, can find any job in Germany; this occupation may qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales of Furniture and Home Furnishings？**
-- 擅长沟通和销售的人
-- 对家居设计有热情的人
-- 愿意在零售业工作的人
+**Who is suited**
+- People who are good at communication and sales
+- People passionate about home design
+- Those willing to work in retail
 
-**谁不适合学Sales of Furniture and Home Furnishings？**
-- 偏好独立工作的人
-- 不喜欢客户互动的人
+**Who is not suited**
+- Prefer working independently
+- People who dislike customer interaction
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for furniture salespeople in Germany?**
+A: Junior: approx. €24,000-30,000, senior up to €45,000 (pre-tax annual salary).
+
+**Q: Can foreigners work as furniture salespeople?**
+A: Yes, but fluent German is required, and skilled migration visas are generally not applicable for this type of occupation. The Opportunity Card may be used to seek an employer.
+
+**Q: How to get promoted from salesperson?**
+A: After gaining experience, you can advance to department head, store manager, or move into procurement or e-commerce roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales of Furniture and Home Furnishings属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a furniture salesperson in Germany?**
-答：Entry-level €24,000-€30,000, senior up to €45,000 (gross annual).
-
-**问：Can foreigners work as furniture salespersons?**
-答：Yes, but require fluent German. Skilled migration visas rarely apply; Opportunity Card possible.
-
-**问：How to advance from salesperson?**
-答：After experience, become department manager, store manager, or move to purchasing/e-commerce.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

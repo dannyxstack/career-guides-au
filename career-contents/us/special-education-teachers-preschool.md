@@ -1,60 +1,94 @@
-# Special Education Teachers, Preschool（Special Education Teachers, Preschool）职业分析 · 美国
+# Special Education Teachers, Preschool — career analysis · United States
 
-**职业代码：25-2051 – Special Education Teachers, Preschool。**
+**Occupation code: 25-2051 (SOC)**
 
-Teach academic, social, and life skills to preschool-aged students with learning, emotional, or physical disabilities, including those with visual, hearing, or intellectual impairments.
+Teaching academic, social, and life skills to preschool children with learning, emotional, or physical disabilities, including those with visual, hearing, or intellectual impairments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$40,000（公立大学年学费约1-2万美元，私立约3-4万美元） |
-| 硕士学位（可选） | 2年 | $30,000~$60,000（硕士可提升薪资和就业机会） |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Public university tuition approx. $10,000-20,000 per year, private $30,000-40,000.) |
+| Master's degree (optional) | 2 years | $30,000~$60,000 (Master's degree can increase salary and job opportunities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州教师资格证 | 州教育委员会 | 必备 | 需通过Praxis考试等，各州要求不同 |
-| 特殊教育认可 | 州教育委员会 | 必备 | 部分州要求额外特殊教育认证 |
-| CPR和急救认证 | 美国红十字会等 | 可选 | 通常为聘用条件 |
-| 行为干预认证 | 行为分析师认证委员会 | 可选 | 如BCBA，提升专业竞争力 |
+| State Teacher License | State Board of Education | Required | Must pass Praxis exams, etc., with varying state requirements |
+| Special education accreditation | State Board of Education | Required | Some states require additional special education certification. |
+| CPR and first aid certification | American Red Cross, etc. | Optional | Usually a condition of employment |
+| Behavioral intervention certification | Behavior Analyst Certification Board | Optional | Such as BCBA, to enhance professional competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 121,600。美国学前特殊教育教师需求持续增长，主要受早期干预意识提升和联邦法律推动。2023-2033年预计就业增长约8%，快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 121,600. Demand for preschool special education teachers in the U.S. continues to rise, driven by increased awareness of early intervention and federal laws. Employment is projected to grow about 8% from 2023-2033, faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 取决于地区和雇主 |
-| 中级（4-9年） | $55,000~$70,000 | 具备经验和额外认证 |
-| 高级（10年以上） | $70,000~$90,000 | 包括协调员和主管职位 |
+| Median salary | $64,830 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Depends on region and employer |
+| Intermediate (4-9 years) | $55,000~$70,000 | With experience and additional certifications |
+| Senior (10+ years) | $70,000~$90,000 | Includes coordinator and supervisor roles |
+| average salary | $76,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从普通教育或特殊教育学士起步，积累经验后可晋升为特殊教育协调员、课程专家或学校管理人员。部分教师通过攻读硕士或博士进入大学或研究机构。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
+
+Usually starts with a bachelor's degree in general or special education, then progresses to special education coordinator, curriculum specialist, or school administrator. Some teachers pursue master's or doctoral degrees to enter universities or research institutions.
+
+**Tasks most exposed to AI:**
+
+- Generating personalized learning materials (e.g., simplified texts, practice exercises)
+- Recording and organizing student progress data (e.g., IEP progress)
+- Automated scoring of standardized tests (e.g., basic subjects)
+- Provide virtual assistant-level basic Q&A (e.g., repetitive teaching instructions)
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Use voice-to-text tools to record classroom interactions in real time, focus on teaching
+- Using adaptive learning platforms to customize learning paths for students of different abilities
+- Communicate with multilingual families using AI translation tools
+- Tracking long-term development with data analysis tools, optimizing teaching plans
+
+**Human moat:**
+
+- Emergency behavior intervention (e.g., immediate response to emotional outbursts)
+- Building trust relationships and emotional support (empathy, body language)
+- Interdisciplinary collaborative decision-making (jointly develop plans with therapists and parents)
+- Ethical judgment (e.g., balancing privacy, personalization, and fairness)
+
+**Skills to build:**
+
+- Using IEP management software (e.g., SpedTrack)
+- Proficiency in data analysis tools (e.g., Excel, Tableau for student progress tracking)
+- Learn AI-assisted teaching platforms (e.g., Knewton, DreamBox)
+- Basic Programming/Automation Scripts (e.g., Python for Batch Material Generation)
+- Digital accessibility tools (e.g., screen readers, assistive technology)
+- Online collaboration platforms (e.g., Google Classroom, collaborative documents)
+
+**Key growth areas:**
 
 - Special Education
 - Early Intervention
@@ -63,69 +97,68 @@ Teach academic, social, and life skills to preschool-aged students with learning
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于持有学士以上学位且雇主支持的职位，但学校类H-1B有配额限制。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于硕士以上或杰出能力者，需PERM劳工证。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM流程申请绿卡，雇主需证明无法找到合适美国工人。 |
-| Subclass J-1（Exchange Visitor (J-1) Visa） | 用于临时教师交流项目，可能受两年回国服务限制。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable for positions with a bachelor's degree or higher and employer sponsorship, but school-based H-1B has quota limits. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to those with master's degree or above or exceptional ability, requires PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for a green card through the PERM process, where the employer must demonstrate that no suitable U.S. workers are available. |
+| Subclass J-1 (Exchange Visitor (J-1) Visa) | Used for temporary teacher exchange programs, may be subject to a two-year home residence requirement. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Education Teachers, Preschool？**
-- 有耐心和同理心，喜欢与儿童相处
-- 能适应高强度情绪劳动和多样化教学需求
-- 具备跨学科知识和行为管理能力
-
-**谁不适合学Special Education Teachers, Preschool？**
-- 难以应对行为挑战或情绪波动
-- 不喜欢重复性文书工作和多任务处理
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, enjoys working with children
+- Able to handle high emotional labor and diverse teaching needs.
+- Possessing interdisciplinary knowledge and behavior management skills
+
+**Who is not suited**
+- Difficulty handling behavioural challenges or emotional fluctuations
+- Dislikes repetitive paperwork and multitasking
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a preschool special education teacher in the US?**
+A: According to BLS 2023 data, average annual salary is about $62,000, but entry-level positions are around $45,000-$55,000, and senior positions can reach $90,000.
+
+**Q: How can foreign teachers work in the US on a work visa for special education?**
+A: Common paths include H-1B visa (requires bachelor's degree and employer sponsorship) and J-1 exchange visitor visa. School-related H-1B is subject to caps; early planning needed. Green card typically through EB-2 or PERM.
+
+**Q: What certifications do special education teachers need?**
+A: Must hold a state teaching license and pass the Praxis exam; some states require special education endorsement. Also, CPR and first aid certification are often hiring conditions; behavior intervention certification like BCBA can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Special Education Teachers, Preschool的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for preschool special education teachers in the US?**
-答：According to BLS 2023 data, the average annual salary is about $62,000, with entry-level positions at $45,000-$55,000 and senior roles up to $90,000.
-
-**问：How can foreign teachers work in the US as special education teachers via work visa?**
-答：Common paths include H-1B (requires bachelor's degree and employer sponsorship) and J-1 exchange visitor visa. School-based H-1B is subject to cap, requiring early planning. Green card typically via EB-2 or PERM.
-
-**问：What certifications are required for special education teachers?**
-答：Must hold state teacher certification and pass Praxis exams; some states require special education endorsement. CPR and first aid are often required; BCBA certification can enhance competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

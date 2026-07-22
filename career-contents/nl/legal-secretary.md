@@ -1,61 +1,97 @@
-# Legal Secretary（Legal Secretary）职业分析 · NL
+# Legal Secretary — career analysis · Netherlands
 
-**职业代码：3342 – Legal Secretary。**
+**Occupation code: 3342 (ISCO08)**
 
-Legal secretaries provide administrative support to lawyers, including document management, scheduling, and client communication, serving as key coordinators in legal teams.
+Legal secretaries provide administrative support to lawyers, including document management, scheduling, and client communication, acting as a key coordination role in the legal team.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | $1,000~$6,000（每年学费，视学校和课程而定） |
-| 高等教育（HBO） | 4年（本科） | $2,000~$10,000（每年学费，公立大学对欧盟学生较低） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $1,000~$6,000 (Annual tuition fee, depending on the school and course) |
+| Higher vocational education (HBO) | 4 years (bachelor's degree) | $2,000~$10,000 (Annual tuition fees are lower for EU students at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律秘书文凭 | 荷兰职业教育机构（ROC） | 可选 | MBO级别课程，涵盖法律术语和行政技能 |
-| 法律助理证书 | 荷兰律师协会（NOvA） | 可选 | 高级培训，非强制但有利于晋升 |
-| 荷兰语流利 | 无特定机构 | 必备 | 大多数法律工作需精通荷兰语 |
+| Fluent in Dutch | No specific institution | Required | Most legal jobs require fluency in Dutch |
+| Diploma of Legal Secretary | Netherlands vocational education institutions (ROC) | Optional | MBO-level courses covering legal terminology and administrative skills |
+| Paralegal certificate | The Netherlands Bar Association (NOvA) | Optional | Advanced training, not mandatory but beneficial for promotion. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰法律服务业稳定，但数字化导致传统秘书需求略降，具备专业技能者仍有机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. The Dutch legal services industry is stable, but digitalization has slightly reduced demand for traditional secretaries; those with specialized skills still have opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，包括假期津贴 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，视事务所规模和专业领域 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含高级法律秘书或团队主管 |
+| Median salary | $48,214 | Median salary (official: CBS median employee hourly wage €24.4/hour × 1976h annualized, BRC group 0432 Secretaries; P25–P75 €41,694–€53,747, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary, including holiday allowance |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual salary before tax, depending on the size of the firm and the area of expertise |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary, including senior legal secretary or team supervisor |
+| average salary | $40,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏弱（★★☆☆☆）。** 可从初级秘书晋升为高级秘书或法律助理，也可向专业领域（如公司法、知识产权）发展，或转向法律项目管理。
-**AI替代风险：中等偏高（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
+
+Can progress from junior secretary to senior secretary or legal assistant, or specialise in areas like corporate law, intellectual property, or move into legal project management.
+
+**Tasks most exposed to AI:**
+
+- Formatting and auto-proofreading of legal documents (e.g., CM/ECF system and AI proofreading tools)
+- Keyword-based preliminary legal and case law search (e.g., AI legal knowledge base)
+- Scheduling, meeting coordination, and automated email replies (e.g., smart calendar assistant)
+- Auto-fill and generate template documents such as complaints and contracts
+- Legal fee accounting and invoice classification processing (e.g., AI financial software)
+
+**Where AI augments the role:**
+
+- Use AI for case fact sorting and timeline visualization to quickly grasp case context
+- Use AI contract review tools (e.g., Kira Systems) for risk clause identification and compliance checks
+- Rapid Retrieval of Relevant Case Law and Regulatory Updates Using AI Legal Research Platforms (e.g., ROSS)
+- Using natural language processing tools to analyze customer emails and court notices, automatically extracting key dates and requirements
+- Use AI to draft legal memoranda, improving document drafting efficiency
+
+**Human moat:**
+
+- Deep understanding of lawyers' work habits and case priorities to provide personalized assistant services
+- Face-to-face client communication, emotional support, and relationship maintenance (trust building)
+- Real-time support for court hearings, client meetings requiring on-spot adaptability and legal knowledge
+- Legal professional judgment: fact-check and logical correction based on AI output
+- Tacit knowledge of law firm internal processes, court-specific rules, and local legal customs
+
+**Skills to build:**
+
+- Use AI legal research tools (e.g., Westlaw Edge, Lexis+ AI) for efficient searching
+- Basic operation of eDiscovery platforms (e.g., Relativity, Everlaw)
+- Basic Data Visualization Skills for creating case timelines and evidence charts
+- Application of legal document automation tools (e.g., HotDocs, Contract Express)
+- Cross-departmental coordination and project management skills (working with lawyers, clients, and courts)
+- Confidentiality and data security awareness to prevent information leaks from AI tools
+
+**Key growth areas:**
 
 - Digitalization
 - Legal Tech
@@ -64,69 +100,68 @@ Legal secretaries provide administrative support to lawyers, including document 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟移民，需雇主担保，年薪门槛约€5,008/月（2024年30岁以上）。 |
-| Subclass Orientation Year (zo（Orientation Year） | 荷兰及部分海外高校毕业生可在毕业后1年内申请，允许自由工作，年薪无门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人才，需雇主担保及年薪至少€5,331/月（2024年）。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU immigrants, requires employer sponsorship, annual salary threshold approximately €5,008/month (for age 30+ in 2024). |
+| Subclass Orientation Year (zo (Orientation Year) | Graduates from Dutch and some overseas universities can apply within 1 year of graduation, allowing free work with no salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU talent, requires employer sponsorship and annual salary of at least €5,331/month (2024). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal Secretary？**
-- 注重细节、组织能力强的人
-- 能在压力下工作、多任务处理者
-- 对法律行业感兴趣但不想成为律师者
-
-**谁不适合学Legal Secretary？**
-- 不喜欢重复性文书工作的人
-- 希望高薪快速晋升者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized individuals
+- Able to work under pressure and multitask
+- Those interested in the legal field but not wanting to become lawyers
+
+**Who is not suited**
+- People who dislike repetitive clerical work
+- Those seeking high salaries and rapid promotions
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a legal secretary in the Netherlands?**
+A: Based on experience, junior approximately €25,000-€35,000, mid-level €35,000-€45,000, senior up to €55,000 (annual salary before tax).
+
+**Q: How can non-EU citizens immigrate to the Netherlands through a legal secretary position?**
+A: You can apply for a Highly Skilled Migrant visa (requires employer sponsorship and meeting the salary threshold) or an Orientation Year visa (for graduates).
+
+**Q: What languages do legal secretaries need to master?**
+A: Dutch fluency is mandatory, English proficiency is a plus; some international law firms require English working ability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏弱（★★☆☆☆） |
-| AI替代风险 | 中等偏高（★★★☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Legal Secretary为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a legal secretary in the Netherlands?**
-答：Depending on experience, entry-level earns €25,000-€35,000, mid-level €35,000-€45,000, and senior up to €55,000 (gross annual).
-
-**问：How can non-EU citizens migrate to the Netherlands as a legal secretary?**
-答：They can apply for a Highly Skilled Migrant visa (employer-sponsored with salary threshold) or an Orientation Year visa (for graduates).
-
-**问：What languages are required for a legal secretary?**
-答：Fluent Dutch is mandatory; good English is a plus, and some international firms require English proficiency.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

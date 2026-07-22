@@ -1,60 +1,96 @@
-# Shipbuilding Technician（Shipbuilding Technician）职业分析 · DE
+# Shipbuilding Technician — career analysis · Germany
 
-**职业代码：2524 – Shipbuilding Technician。**
+**Occupation code: 2524 (KldB)**
 
-Responsible for ship construction, repair, and modification, including structural design, material selection, welding, and assembly, ensuring compliance with technical specifications and safety standards.
+Responsible for ship construction, repair, and modification, including structural design, material selection, welding, and assembly, ensuring vessels meet technical specifications and safety standards.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期有津贴，企业承担学费） |
-| 本科（船舶工程） | 3-4年 | —（公立大学基本免学费，仅收注册费） |
+| Dual vocational training | 3.5 years | $0~$5,000 (Allowance during training period; the company covers tuition fees.) |
+| Bachelor's degree (Naval Architecture) | 3-4 years | $0~$1,500 (Public universities are essentially tuition-free, only charging registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 船舶建造技工资格 | 工商会 (IHK) | 可选 | 双元制结业后获得，非强制但必备 |
-| 焊接证书 | 德国焊接协会 (DVS) | 可选 | 部分岗位要求特定焊接方法资质 |
+| Shipbuilding technician qualification | Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing the dual system, not mandatory but essential |
+| Welding certificate | German Welding Society (DVS) | Optional | Some positions require specific welding method qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。德国造船业以海军舰船和特种船舶为主，从业人数约1.5万，未来受国防订单和绿色船舶技术推动，就业稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. German shipbuilding focuses on naval ships and special vessels, employing around 15,000 people. Future driven by defense orders and green ship technology, job stability is high.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 双元制毕业后起薪 |
-| 中级（3-7年） | $40,000~$50,000 | 含技术熟练工 |
-| 高级（7年以上） | $52,000~$65,000 | 含项目经理或技师 |
+| Median salary | $45,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$38,000 | Starting salary after dual system graduation |
+| Mid-level (3–7 years) | $40,000~$50,000 | Includes skilled trades |
+| Senior (7+ years) | $52,000~$65,000 | Including project manager or technician |
+| average salary | $52,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 可从技术员晋升为项目经理或船舶工程师，需积累经验并考取资质认证，部分人转向海上风电或游艇制造。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Shipbuilding technician jobs are mixed with AI/automation: design and quality inspection are enhanced, but physical tasks like welding and assembly are hard to replace; entry-level positions have narrowed due to CAD/CAM.
+
+Can advance from technician to project manager or marine engineer, requiring experience and qualifications; some move into offshore wind or yacht manufacturing.
+
+**Tasks most exposed to AI:**
+
+- 2D drawing generation and standard part selection
+- Welding parameter optimization and automatic weld inspection
+- Material list and cutting path planning
+- Preliminary structural strength calculation
+- Production schedule planning and coordination
+
+**Where AI augments the role:**
+
+- Generative AI-based structural design iteration
+- Digital twin-assisted assembly process simulation
+- AI quality inspection for analyzing weld defect patterns
+- AR glasses assisting with complex assembly instructions
+- Programming and maintenance of automated welding robots
+
+**Human moat:**
+
+- On-site contingency response and temporary repair decision-making
+- Commissioning and validation of new joining processes
+- Multi-trade coordination and safety supervision
+- Manual welding and assembly in extreme environments
+- Customer needs communication and customized solution design
+
+**Skills to build:**
+
+- Digital twin and BIM technology.
+- Offline programming for industrial robots
+- AI-assisted design tools
+- Optimisation of automated welding process parameters
+- Data analysis and predictive maintenance
+- Project management and cross-team collaboration
+
+**Key growth areas:**
 
 - Naval shipbuilding
 - Green ship technology
@@ -63,66 +99,65 @@ Responsible for ship construction, repair, and modification, including structura
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且年薪达标（2024年约43,800欧元），船舶工程师可申请 |
-| Subclass Skilled Worker（Skilled Immigration Act (Employment Visa)） | 双元制培训后，获得工作合同即可申请 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许未找到工作前入境寻找机会 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree and salary threshold (approx. 43,800 euros in 2024), marine engineers can apply. |
+| Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | After dual-system training, can apply once you have a work contract. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shipbuilding Technician？**
-- 喜欢动手操作和机械工程
-- 对船舶或海洋技术感兴趣
-- 愿意在造船厂现场工作
-
-**谁不适合学Shipbuilding Technician？**
-- 不喜欢体力劳动或户外工作
-- 不擅长精确和重复性任务
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes hands-on work and mechanical engineering
+- Interest in ships or marine technology
+- Willing to work on-site at a shipyard
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Not good at precise and repetitive tasks
+
+---
+
+## 8. FAQ
+
+**Q: Is there significant salary growth potential for shipbuilding technicians?**
+A: Junior annual income approximately EUR 32,000-38,000, senior can reach EUR 50,000-65,000, moderate growth potential, moving into management or engineering roles can significantly increase.
+
+**Q: How to immigrate to Germany for shipbuilding as a non-EU citizen?**
+A: Can apply for a skilled migration visa after obtaining a work contract through dual vocational training, or have a bachelor's degree in marine engineering to apply for a Blue Card EU.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Shipbuilding Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth for shipbuilding technicians?**
-答：Entry-level annual salary is around 32,000-38,000 EUR, senior can reach 50,000-65,000 EUR, with moderate growth; moving to management or engineering roles can increase significantly.
-
-**问：How can non-EU citizens immigrate to Germany for shipbuilding?**
-答：You can obtain a skilled worker visa after completing a dual vocational training and getting a job offer, or apply for an EU Blue Card with a bachelor's degree in naval engineering.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

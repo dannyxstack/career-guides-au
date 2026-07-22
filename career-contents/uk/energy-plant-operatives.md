@@ -1,59 +1,95 @@
-# Energy plant operatives（Energy plant operatives）职业分析 · UK
+# Energy plant operatives — career analysis · United Kingdom
 
-**职业代码：8133 – Energy plant operatives。**
+**Occupation code: 8133 (SOC)**
 
-Energy plant operatives operate boilers, turbines, compressors, and generators to ensure safe and efficient power plant operations, including thermal, nuclear, and renewable energy facilities.
+Power plant operators operate boilers, turbines, compressors, generators, etc., ensuring safe and efficient operation, covering traditional thermal, nuclear, and renewable energy plants.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 2年 | —（部分雇主提供学徒制，带薪培训） |
-| 国家高级证书（NVQ Level 3） | 2年 | $5,000~$12,000（可在学院或通过学徒制完成） |
+| High school diploma or equivalent | 2 years | $0~$0 (Some employers offer apprenticeships with paid training) |
+| National Vocational Qualification Level 3 (NVQ Level 3) | 2 years | $5,000~$12,000 (Can be completed at a college or through an apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 3级 工程维护/操作 | City & Guilds / EAL | 可选 | 电厂操作常见资格 |
-| 锅炉操作证书 | 锅炉操作认证机构 | 可选 | 部分雇主要求 |
-| 高压电气安全证书 | 国家电力安全机构 | 必备 | 高压设备操作必备 |
+| High-voltage electrical safety certificate | National Electric Power Safety Authority | Required | Essential for high-pressure equipment operation |
+| NVQ Level 3 Engineering Maintenance/Operations | City & Guilds / EAL | Optional | Common qualifications for power plant operations |
+| Boiler operation certificate | Boiler operation certification body | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。英国向净零排放转型，可再生能源电厂（风电、太阳能等）投资增加，带动相关操作岗位需求。传统电厂逐步退役，但运维岗位仍存。预计未来十年就业稳定，年均岗位增长率约2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. As the UK transitions to net zero, investment in renewable energy plants (wind, solar, etc.) is increasing, driving demand for related operational roles. Traditional power plants are gradually decommissioned, but maintenance positions remain. Employment is expected to be stable over the next decade, with an average annual growth rate of about 2%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒或新入行 |
-| 中级（3-7年） | $28,000~$35,000 | 持证并有经验 |
-| 高级（7年以上） | $35,000~$45,000 | 高级操作员或主管 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprentice or new entrant |
+| Mid-level (3–7 years) | $28,000~$35,000 | Certified and experienced |
+| Senior (7+ years) | $35,000~$45,000 | Senior operator or supervisor |
+| average salary | $57,264 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级操作员通过培训和经验积累可晋升为高级操作员或值班主管。部分可转向电厂维护、控制室调度或能源管理岗位。持国家高级证书（NVQ Level 3）或工程学位可加速晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The overall impact on power plant operators is mixed: routine monitoring and data recording tasks will be automated by AI, but critical operational decisions, emergency response, and compliance responsibilities still rely on humans; AI plays a more supportive role.
+
+Junior operators can advance to senior operators or shift supervisors through training and experience. Some can move to power plant maintenance, control room dispatching or energy management roles. Holding a national advanced certificate (NVQ Level 3) or engineering degree can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Monitor dashboard parameters in real-time and record abnormal data
+- Regularly record equipment operation logs and reports.
+- Start and stop routine auxiliary equipment through fixed procedures
+- Adjust simple control parameters based on preset thresholds.
+- Generate daily operation reports based on templates
+
+**Where AI augments the role:**
+
+- AI predictive maintenance systems help operators identify equipment issues early, reducing unplanned downtime.
+- Intelligent scheduling algorithms optimize load distribution to improve power generation efficiency.
+- Digital twin platform assists operators in simulating emergency scenarios and training decision-making skills
+- AI visual inspection automatically detects pipeline leaks or abnormal emissions, reducing response time
+- Integrated control panel aggregates data from multiple sources to assist operators in quickly assessing working conditions
+
+**Human moat:**
+
+- On-site diagnosis and emergency response capabilities for unexpected failures
+- Compliance decision-making and signing responsibilities related to safety, environment, and regulations
+- Judgment and manual intervention in multi-system coordination conditions
+- Cross-departmental communication and coordination with maintenance teams and dispatch centers
+- Intuitive alerts and prevention of abnormal trends based on experience
+
+**Skills to build:**
+
+- Foundations of Industrial IoT & Data Analytics
+- Operation and anomaly handling of AI-assisted control systems
+- Use of digital twins and simulation tools
+- Cross-system fault diagnosis (mechanical, electrical, control)
+- Risk-oriented decision-making and compliance knowledge
+- Automation and robotic process collaboration skills
+
+**Key growth areas:**
 
 - Renewable energy
 - Net zero transition
@@ -62,68 +98,67 @@ Energy plant operatives operate boilers, turbines, compressors, and generators t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，职业在可担保列表中，年薪通常不低于£25,600（或行业标准） |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业，需雇主担保，年薪不低于£33,000 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，允许工作2年（博士3年），之后可转工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, occupation on the eligible list, annual salary usually not less than £25,600 (or industry standard). |
+| Subclass Scale-up (Scale-up visa) | Applicable to high-growth businesses, requires employer sponsorship, annual salary not less than £33,000 |
+| Subclass Graduate (Graduate visa) | UK university graduates can apply, allowing 2 years of work (3 for PhD), then can switch to work visa |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Energy plant operatives？**
-- 对机械和电气系统感兴趣的人
-- 能适应轮班工作和体力劳动的人
-- 注重安全规范、动手能力强的人
-
-**谁不适合学Energy plant operatives？**
-- 不喜户外或高温嘈杂环境的人
-- 追求朝九晚五固定作息的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in mechanical and electrical systems
+- People able to adapt to shift work and physical labor
+- People who value safety standards and have strong hands-on abilities
+
+**Who is not suited**
+- People who dislike outdoors or hot, noisy environments
+- People seeking a fixed 9-to-5 routine
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a power plant operator in the UK?**
+A: Entry-level about £22,000-£28,000, mid-level £28,000-£35,000, senior up to £45,000+.
+
+**Q: How can foreign electricians or power plant operators immigrate to the UK?**
+A: Requires a Skilled Worker visa with employer sponsorship. Usually need relevant qualifications (e.g., NVQ) and English ability. Experienced individuals may qualify for shortage occupations.
+
+**Q: How to become a power plant operator?**
+A: Typically obtained through an apprenticeship (2-4 years) leading to an NVQ Level 3 certificate, or by entering after graduating in engineering. Some employers offer in-house training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Energy plant operatives的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for energy plant operatives in the UK?**
-答：Entry-level: £22,000-£28,000; mid-level: £28,000-£35,000; senior: up to £45,000+.
-
-**问：How can overseas energy plant operatives migrate to the UK?**
-答：Require a Skilled Worker visa with employer sponsorship. Typically need relevant qualifications (e.g., NVQ) and English proficiency. Experienced operatives may qualify for shortage occupations.
-
-**问：How to become an energy plant operative?**
-答：Typically via apprenticeship (2-4 years) with NVQ Level 3, or after an engineering degree. Some employers offer internal training.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

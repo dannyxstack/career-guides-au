@@ -1,62 +1,98 @@
-# Leisure or Tourist Accommodation Manager（Leisure or Tourist Accommodation Manager）职业分析 · FR
+# Leisure or Tourist Accommodation Manager — career analysis · France
 
-**职业代码：G1403 – Leisure or Tourist Accommodation Manager。**
+**Occupation code: G1403 (ROME)**
 
-Responsible for overall management of leisure facilities or tourist accommodation, including team leadership, customer service, marketing, and financial performance.
+Responsible for overall operational management of leisure venues or tourist accommodation facilities, including team leadership, customer service, marketing promotion, and financial performance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS旅游管理 | 2年（BTS） | $3,000~$8,000（公立学校约3000欧/年，私立约8000欧/年） |
-| Licence专业方向 | 3年（Licence） | $3,000~$10,000（公立大学约3000欧/年，私立约10000欧/年） |
-| 学徒制 | 2年（学徒合同） | —（企业承担学费，学徒有工资） |
+| BTS Travel Management | 2 Years (BTS) | $3,000~$8,000 (Public schools approximately EUR 3,000/year, private about EUR 8,000/year.) |
+| Licence specialization | 3 years (Licence) | $3,000~$10,000 (Public universities cost about 3,000 euros per year, private universities about 10,000 euros per year) |
+| Apprenticeship | 2 years (apprenticeship contract) | $0~$0 (The company covers tuition, and apprentices receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS旅游管理 | 法国教育部 | 可选 | 行业入门文凭，部分企业要求 |
-| Licence酒店与旅游管理 | 大学 | 可选 | 含金量较高，利于晋升 |
-| Master旅游管理 | 大学/商学院 | 可选 | 管理层必备，尤其是集团职位 |
+| BTS Travel Management | French Ministry of Education | Optional | Industry entry-level diploma, required by some companies |
+| Licence Hotel and Tourism Management | University | Optional | It is highly valuable and beneficial for promotion |
+| Master in Tourism Management | University/Business School | Optional | A must-have for management, especially for group positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 85,000。法国旅游业持续复苏，休闲住宿管理岗位需求稳定，尤其在旅游旺季和新兴生态旅游地区。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 85,000. France's tourism industry continues to recover, with stable demand for leisure accommodation management positions, especially during peak tourist seasons and emerging eco-tourism areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $45,000~$65,000 | 税前年薪，区域经理级别更高 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $45,000~$65,000 | Pre-tax annual salary, with higher regional manager levels |
+| average salary | $37,320 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从部门主管晋升至区域经理或连锁集团运营总监，也可自主创业经营民宿或小型酒店。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+You can be promoted from department head to regional manager or chain group operations director, or start your own business to run homestays or small hotels.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Sustainable Tourism
 - Digital Booking
@@ -65,66 +101,68 @@ Responsible for overall management of leisure facilities or tourist accommodatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 受雇于法国企业的工作居留，需获得劳工许可 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才或创新项目，门槛较高 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高薪职位，年薪需超过欧盟蓝卡门槛（约5.4万欧） |
+| Subclass Salarié (Employee (Salarié)) | Work residence employed by a French company requires obtaining a labor permit |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled talents or innovative projects, with a relatively high entry threshold |
+| Subclass Carte bleue UE (EU Blue Card) | For high-paying roles, annual salary must exceed the EU Blue Card threshold (approx. €54k). |
+
+**PR friendliness: medium-high (★★★½☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leisure or Tourist Accommodation Manager？**
-- 热爱旅游行业，具备客户服务意识
-- 有管理团队经验，善于沟通协调
-- 法语流利，英语良好
+**Who is suited**
+- Passionate about the tourism industry and possessing a customer service mindset
+- Experience in managing teams, skilled in communication and coordination
+- Fluent in French, good English
 
-**谁不适合学Leisure or Tourist Accommodation Manager？**
-- 不适应季节性工作节奏或周末轮班
-- 缺乏管理兴趣，偏好单一任务
+**Who is not suited**
+- Not adapting to seasonal work rhythms or weekend shifts
+- Lack of management interest and preference for single tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for leisure accommodation management managers?**
+A: Junior approx EUR 24k-30k, mid-level EUR 32k-42k, senior EUR 45k-65k (pre-tax annual salary), regional manager up to EUR 80k+.
+
+**Q: Can foreigners immigrate to France through this employment?**
+A: It's harder. This position usually requires fluency in French and a sufficient pool of local candidates. Salarié residency can be applied for through corporate sponsorship, but proof is required that EU staff cannot be recruited.
+
+**Q: What is the career progression path for this occupation?**
+A: From department heads to regional managers and then to operations directors of chain groups, entrepreneurs can also open homestays or small hotels.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Leisure or Tourist Accommodation Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for leisure accommodation managers?**
-答：Entry-level: €24k-30k, mid: €32k-42k, senior: €45k-65k (gross annual); regional managers can exceed €80k.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：Difficult. French fluency is required, and local candidates are abundant. Company sponsorship for Salarié permit is possible but requires proof of no EU candidate.
-
-**问：What is the career progression?**
-答：From department supervisor to regional manager to operations director of a chain, or starting your own B&B or small hotel.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

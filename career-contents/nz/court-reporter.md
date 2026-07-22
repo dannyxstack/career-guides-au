@@ -1,58 +1,91 @@
-# Court Reporter（Court Reporter）职业分析 · 新西兰
+# Court Reporter — career analysis · New Zealand
 
-**职业代码：591113 – Court Reporter。**
+**Occupation code: 591113 (ANZSCO)**
 
-Court reporters record courtroom proceedings and hearings with high accuracy and speed. This occupation is eligible for skilled migration and AEWV in New Zealand but is not on the Green List shortage list.
+Court reporters in New Zealand's judicial system are responsible for recording court proceedings and hearings, requiring high accuracy and fast typing skills. This occupation can immigrate via Skilled Migrant or Accredited Employer Work Visa, but it is not a Green List shortage occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书/文凭 | 1年 | $5,000~$10,000（速记或法律秘书短期课程） |
-| 本科 | 3年 | $30,000~$50,000（法律研究或相关专业） |
+| Certificate/diploma | 1 year | $5,000~$10,000 (Short course in shorthand or legal secretarial) |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Legal studies or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 速记证书 | 新西兰职业培训组织或私立机构 | 必备 | 需完成速记速度和准确性测试 |
-| 法律术语知识 | 雇主或培训机构 | 可选 | 非强制，但有利就业 |
+| Shorthand certificate | New Zealand vocational training organizations or private institutions | Required | Must complete a shorthand speed and accuracy test |
+| Knowledge of legal terminology | Employer or training provider | Optional | Not mandatory, but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 120。新西兰司法系统稳定，法庭速记员需求平稳，但岗位有限，主要集中在奥克兰、惠灵顿等大城市。数字化录音技术可能影响部分初级岗位需求，但专业速记员仍受法院和律所青睐。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 120. New Zealand's judicial system is stable, and demand for court reporters is steady, but positions are limited, mainly in major cities like Auckland and Wellington. Digital recording technology may impact some entry-level demand, but professional stenographers remain favored by courts and law firms.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 常见于法院或转录公司 |
-| 中级（3-6年） | $55,000~$70,000 | 经验丰富，法院或知名律所 |
-| 高级（6年以上） | $70,000~$90,000 | 高级法院速记员或自雇独立转录 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Commonly found in courts or transcription companies |
+| Mid-level (3–6 years) | $55,000~$70,000 | Experienced, working in courts or prestigious law firms |
+| Senior (6+ years) | $70,000~$90,000 | Senior court stenographer or self-employed independent transcriptionist |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级速记员可积累经验后晋升为高级速记员或法院记录管理员，部分转行至法律秘书或转录服务企业。需持续更新法律术语和速记技术。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI voice recognition and natural language processing are rapidly eroding the core skills of court stenographers—real-time transcription and proofreading. Entry-level demand has shrunk significantly, but senior court stenographers still need to handle complex court records and transition to legal process management and quality oversight that AI cannot replace.
+
+Junior stenographers can advance to senior stenographers or court record administrators after gaining experience, and some transition to legal secretaries or transcription service companies. They need to continuously update legal terminology and shorthand techniques.
+
+**Tasks most exposed to AI:**
+
+- Use stenotype machines or voice transcription devices to generate real-time court transcripts
+- Proofreading and editing repetitive legal language in routine court proceedings
+- Generate standardized court summaries with timestamps
+- Processing records for uncontested informal hearings
+
+**Where AI augments the role:**
+
+- Using AI transcription drafts to accelerate final record generation, focusing on verifying legal terminology accuracy
+- AI marks key contradictions in witness testimony in real-time to improve court efficiency
+- Using AI to automatically organize indexes and timecodes, freeing time for contract review
+- Assisted identification of speakers via AI voice analysis and managing multi-person conversation records
+
+**Human moat:**
+
+- Deep understanding of legal procedures, evidence rules, and adjudication standards
+- Precise hearing and manual correction in noisy or slurred speech scenarios
+- Declassification of sensitive information (e.g., trade secrets, minors involved in cases)
+- On-site rapid response and subtitle synchronisation (e.g., sudden interruptions, judge instructions)
+- Troubleshooting court technology systems (stenography equipment, real-time captioning software)
+
+**Skills to build:**
+
+- Master the parameter tuning of AI real-time transcription tools (e.g., Otter.ai, Nuance Dragon)
+- Learning Python or low-code platforms for automatic formatting of transcribed text
+- Improve Typing Speed for Legal Terminology in English (especially Latin terms common in Australian case law)
+- Obtaining court process management certification (e.g., APEC hearing coordinator qualification)
+- Develop courtroom data analysis skills (e.g., counting frequency of witness testimony citations)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -61,67 +94,66 @@ Court reporters record courtroom proceedings and hearings with high accuracy and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 若职业在ANZSCO技能等级1-3中，可通过6分制申请技术移民，需满足分数要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主担保，可申请最长3年工签，积累经验后可能转其他类别。 |
+| Subclass SMC (Skilled Migrant Category) | If the occupation is in ANZSCO skill levels 1-3, you can apply for skilled migration under the 6-point system, subject to meeting points requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | With accredited employer sponsorship, can apply for a work visa up to 3 years, may switch to other categories after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Court Reporter？**
-- 打字速度极快且准确，达到每分钟80词以上
-- 细心专注，能适应法庭高压环境
-- 对法律术语有浓厚兴趣
-
-**谁不适合学Court Reporter？**
-- 不喜欢长时间集中注意力
-- 对法律或司法流程缺乏兴趣
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Typing speed extremely fast and accurate, reaching over 80 words per minute
+- Attentive and detail-oriented, able to handle high-pressure court environments
+- Strong interest in legal terminology
+
+**Who is not suited**
+- Dislikes prolonged concentration.
+- Lack of interest in law or judicial processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for court reporters in New Zealand?**
+A: Junior salary approx NZD 45,000-55,000 per year, intermediate NZD 55,000-70,000, senior up to NZD 70,000-90,000.
+
+**Q: Can a court reporter migrate to New Zealand via the Green List?**
+A: Court reporters are not on the Green List and cannot directly apply for Tier 1 or Tier 2 residence, but can use the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV) pathways.
+
+**Q: What education is needed to become a court stenographer?**
+A: Typically requires completion of a shorthand certificate or legal secretary course, or a law-related bachelor's degree. A university degree is not necessary, but specialized training is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Court Reporter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for court reporters in New Zealand?**
-答：Entry-level: NZD 45,000-55,000; mid-level: NZD 55,000-70,000; senior: NZD 70,000-90,000 per year.
-
-**问：Can court reporters immigrate to New Zealand via the Green List?**
-答：Court reporters are not on the Green List, so they cannot apply for Tier 1 or Tier 2 residence. However, they may use the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV).
-
-**问：What education is needed to become a court reporter?**
-答：Generally requires a shorthand certificate or legal secretary course; a law-related bachelor's degree is optional. Formal degree is not mandatory but specialized training is essential.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

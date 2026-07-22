@@ -1,62 +1,98 @@
-# Construction Company Directors（Construction Company Directors）职业分析 · ES
+# Construction Company Directors — career analysis · Spain
 
-**职业代码：1316 – Construction Company Directors。**
+**Occupation code: 1316 (CNO)**
 
-Direct and oversee construction company operations, including strategic planning, project management, budget control, and compliance with safety and quality standards.
+Responsible for strategic planning, operational management, and project decision-making for construction companies, supervising construction safety and quality standards, and coordinating resources and budgets.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $2,000~$12,000（公立大学约2000欧/年，私立约12000欧/年） |
-| 硕士（Máster） | 1-2年 | $3,000~$18,000（专业硕士如建筑管理方向） |
-| 职业培训（FP Grado Superior） | 2年 | $1,000~$5,000（建筑或土木相关高级培训） |
+| Undergraduate (Grado) | 4 years | $2,000~$12,000 (Public universities cost about 2,000 euros per year, private universities about 12,000 euros per year) |
+| Máster | 1-2 years | $3,000~$18,000 (Professional master's degree such as Construction Management) |
+| Vocational Training (FP Grado Superior) | 2 years | $1,000~$5,000 (Advanced training related to architecture or civil engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程或建筑学学位 | 西班牙大学 | 必备 | 通常要求建筑、土木工程相关本科或硕士 |
-| 注册建筑师或工程师（Colegiado） | 相应行业协会（Colegio Profesional） | 可选 | 部分管理职位可能要求行业注册 |
-| 项目管理认证（PMP等） | PMI或其他机构 | 可选 | 非强制，但提升竞争力 |
+| Degrees in civil engineering or architecture | Spanish University | Required | Typically, a bachelor's or master's degree in architecture or civil engineering is required |
+| Registered Architect or Engineer (Colegiado) | Relevant Industry Associations (Colegio Profesional) | Optional | Some management positions may require industry registration |
+| Project Management Certification (PMP, etc.) | PMI or other institutions | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。西班牙建筑业稳步复苏，住房翻新与基建投资持续增长，对高级管理人才需求稳定。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. Spain's construction industry is steadily recovering, with continued growth in housing renovation and infrastructure investment, and stable demand for senior management talent.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $40,000~$55,000 | 项目经理或部门主管 |
-| 中级（5-10年） | $55,000~$75,000 | 区域经理或运营总监 |
-| 高级（10年以上） | $75,000~$120,000 | 公司董事或CEO |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $40,000~$55,000 | Project manager or department head |
+| Intermediate (5-10 years) | $55,000~$75,000 | Regional Manager or Operations Director |
+| Senior (10+ years) | $75,000~$120,000 | Company director or CEO |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从项目经理或技术总监晋升为区域经理、运营总监，最终可担任公司董事或CEO。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Promote from project manager or technical director to regional manager or operations director, and ultimately serve as company director or CEO.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Green building
 - Infrastructure
@@ -65,66 +101,68 @@ Direct and oversee construction company operations, including strategic planning
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能人才，需大学学历和较高年薪（约33,908欧元以上） |
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，通过劳动市场测试 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高学历或高薪管理人才，可简化流程 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled talents who require a university degree and a relatively high annual salary (approximately €33,908 or above) |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship required, labor market testing |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly educated or high-paid management talents, processes can be simplified |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Construction Company Directors？**
-- 具备土木工程或建筑背景的高级管理人才
-- 对大型建筑项目有丰富协调经验者
-- 愿意承担高强度工作责任与决策压力
+**Who is suited**
+- Senior management talents with backgrounds in civil engineering or architecture
+- Extensive coordination experience for large-scale construction projects
+- Willing to take on high-intensity work responsibilities and decision-making pressure
 
-**谁不适合学Construction Company Directors？**
-- 缺乏领导与团队管理能力者
-- 不喜欢频繁出差与现场工作
+**Who is not suited**
+- Lack of leadership and team management skills
+- Dislikes frequent business trips and on-site work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for construction company directors in Spain?**
+A: Junior: approx. €40,000–55,000, Mid-level: €55,000–75,000, Senior: can reach over €120,000 (pre-tax annual salary).
+
+**Q: Can foreigners become directors of Spanish construction companies through skilled migration?**
+A: Yes, but employer sponsorship and meeting high salary requirements (EU Blue Card about €33,908/year), or through a highly skilled professional visa. Because it is a non-urgently needed occupation, competition is fierce.
+
+**Q: What is the career development path for directors of construction companies?**
+A: Typically, they are promoted from project manager or technical manager to regional/operations director, and eventually become a director or CEO.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Construction Company Directors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for construction company directors in Spain?**
-答：Entry-level: €40,000-€55,000; mid-level: €55,000-€75,000; senior: up to €120,000+ (gross annual).
-
-**问：Can foreigners migrate to Spain as construction company directors?**
-答：Yes, through employer sponsorship and EU Blue Card (minimum salary ~€33,908/year) or Highly Qualified Professional visa. It's not a shortage occupation, so competition exists.
-
-**问：What is the career progression for construction company directors?**
-答：Typically from project manager or technical manager to regional/operations director, then to director or CEO.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Appraisers（Appraisers）职业分析 · ES
+# Appraisers — career analysis · Spain
 
-**职业代码：3405 – Appraisers。**
+**Occupation code: 3405 (CNO)**
 
-Appraisers assess the value of real estate, personal property, or business assets for purposes such as sale, mortgage, insurance, or taxation, providing professional valuation reports.
+Appraisers are responsible for assessing the value of real estate, movable property, or commercial assets, and provide professional valuation reports for purposes such as sales, mortgages, insurance, or taxation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,200~$2,500（公立大学学费每年约1200-2500欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | $300~$600（公立FP中心每年约300-600欧元） |
+| Undergraduate (Grado) | 4 years | $1,200~$2,500 (Tuition at public universities is about 1,200–2,500 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $300~$600 (Public FP centers cost about 300-600 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房地产估价师认证 | 西班牙经济与数字转型部（Ministerio de Asuntos Económicos y Transformación Digital） | 必备 | 需通过考试并在注册估价师协会登记 |
-| 经济学、工商管理或相关学位 | 大学 | 可选 | 通常要求相关专业学士学位 |
-| 硕士专业进修 | 大学或商学院 | 可选 | 房地产估值硕士可提升竞争力 |
+| Real estate appraiser certification | Spanish Ministry of Economic and Digital Transformation (Ministerio de Asuntos Económicos y Transformación Digital) | Required | Candidates must pass an exam and register with the Chartered Appraisers Association |
+| Degree in economics, business administration, or related fields | University | Optional | A bachelor's degree in a relevant field is usually required |
+| Master's professional advanced studies | University or business school | Optional | A master's degree in real estate valuation can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。西班牙房地产市场活跃，对估价师需求稳定。受银行、保险公司及政府部门雇佣，就业前景良好。需关注经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Spain's real estate market is active, with stable demand for appraisers. Employed by banks, insurance companies, and government departments, with good employment prospects. Attention should be paid to the impact of the economic cycle.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $30,000~$42,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $30,000~$42,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业发展可从初级估价师升至高级估价师或团队主管，也可独立执业成为合伙人。资深估价师可担任仲裁专家或开设估值事务所。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The core professional judgment and legal responsibilities of appraisers are hard to replace, but routine tasks such as data collection, preliminary analysis, and report writing will be significantly automated. The overall job will show a "task reconstruction" rather than disappear, requiring proactive adoption of AI tools to improve efficiency and value.
+
+Career development can be from junior appraiser to senior appraiser or team leader, or to become a partner in independent practice. Senior appraisers can serve as arbitration experts or open valuation firms.
+
+**Tasks most exposed to AI:**
+
+- Automatically extract comparable case and market data from real estate registration and transaction databases
+- Preliminary valuation modeling and statistical calculations, such as regression analysis and depreciation calculations
+- Automatically generates draft standard format valuation reports and base charts
+- Regularly review and update summaries of market trends and regulatory changes
+- Batch processing valuation requests for small-scale, low-complexity assets
+
+**Where AI augments the role:**
+
+- AI quickly aggregates massive market data to help identify abnormal valuation signals and regional trends
+- Automatically verifies the validity of valuation model assumptions and parameters, reducing human calculation errors
+- Automatically detects property conditions and estimates repair costs through image recognition technology
+- Real-time push of relevant regulations, case law, and policy changes to enhance compliance analysis
+- Use natural language processing to quickly review key information in contract terms and title documents
+
+**Human moat:**
+
+- Qualitative judgment of special and complex assets (such as estates, artworks, and litigation targets).
+- Communication, negotiation, and trust building with clients, lawyers, and banks
+- Reasonable explanation of valuation assumptions and professional defense in contentious situations
+- Intuition and insight into regional hidden market factors (such as community reputation and planning trends).
+
+**Skills to build:**
+
+- AI valuation platforms (such as HouseCanary, REIwise) are used for data validation and anomaly detection
+- Master basic Python/R skills, able to write scripts for automated data cleaning and report generation
+- Learn machine learning interpretive techniques (SHAP, LIME) to explain model results to non-technical clients
+- Strengthen a deep understanding of real estate law, tax law, and accounting standards, especially in cases where AI struggles to handle gray areas
+- Enhance visual communication capabilities, using dynamic dashboards to present valuation logic and risk to stakeholders
+- Master Prompt Engineering and efficiently use large language models to assist in report writing and information retrieval
+
+**Key growth areas:**
 
 - Real Estate
 - Valuation
@@ -62,65 +97,64 @@ Appraisers assess the value of real estate, personal property, or business asset
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历及工作合同，年薪门槛约34,000欧元。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 面向高学历专业人士，审批快速，可携带家属。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保及劳工市场测试。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with an annual salary threshold of about 34,000 euros. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Designed for highly educated professionals, approval is fast, and family members can be brought along. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residency requires employer sponsorship and labor market testing. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Appraisers？**
-- 对房地产市场和财务分析感兴趣的人
-- 具备细致观察力和良好沟通能力的人
-- 希望拥有稳定职业且可独立执业的人
-
-**谁不适合学Appraisers？**
-- 不喜欢频繁出差和实地考察的人
-- 对数字和数据分析不敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those interested in the real estate market and financial analysis
+- People with keen observation and good communication skills
+- Those who want stable careers and the ability to practice independently
+
+**Who is not suited**
+- People who dislike frequent business trips and field trips
+- People who are not sensitive to numbers and data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for appraisers in Spain?**
+A: Starting valuer salary around 20,000-28,000 EUR per year, intermediate around 30,000-42,000, senior can reach 45,000-60,000. Self-employed income higher but more variable.
+
+**Q: How can third-country citizens immigrate to Spain through the appraiser profession?**
+A: Can apply through EU Blue Card (requires work contract and degree) or high-skilled professional visa (Ley 14/2013). Spanish internal valuation certification benefits immigration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Appraisers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for appraisers in Spain?**
-答：Entry-level appraisers earn around €20,000-28,000 per year, mid-level €30,000-42,000, and senior €45,000-60,000. Self-employed appraisers may earn more but with higher variability.
-
-**问：How can third-country nationals immigrate to Spain as an appraiser?**
-答：They can apply for an EU Blue Card (requires job offer and degree) or the Highly Qualified Professional visa (Ley 14/2013). Having Spanish appraiser certification is advantageous.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

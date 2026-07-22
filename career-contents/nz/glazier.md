@@ -1,59 +1,92 @@
-# Glazier（Glazier）职业分析 · 新西兰
+# Glazier — career analysis · New Zealand
 
-**职业代码：333311 – Glazier。**
+**Occupation code: 333311 (ANZSCO)**
 
-Glaziers install glass in buildings. This occupation is on New Zealand's Green List, with ongoing shortage, offering migration via Accredited Employer Work Visa or direct residence.
+Glaziers install building glass, a green list occupation for NZ skilled migration with ongoing shortage; immigrate via Accredited Employer Work Visa or Straight to Residence pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰证书（建筑工程） | 1-2年 | $5,000~$15,000（公立理工学院学费） |
-| 在职培训（行业学徒） | 3-4年 | —（雇主资助，可能收材料费） |
+| New Zealand Certificate in Construction (Building) | 1-2 years | $5,000~$15,000 (Public polytechnic tuition fees) |
+| on-the-job training (industry apprenticeship) | 3-4 years | $0~$3,000 (Employer-sponsored, may charge material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰玻璃行业注册 (NZ Certified Glazier) | 新西兰玻璃协会 | 必备 | 从业必备，需通过理论和实践考试 |
-| 建筑工地安全卡 (Site Safe) | Site Safe New Zealand | 必备 | 工地安全认证 |
-| 新西兰驾照（Class 2或以上） | NZTA | 可选 | 部分工作要求，便于运输材料 |
+| NZ Certified Glazier | Glass New Zealand | Required | Required for practice; must pass theoretical and practical exams. |
+| Construction site safety card (Site Safe) | Site Safe New Zealand | Required | Construction safety certification |
+| New Zealand driver's license (Class 2 or above) | NZTA | Optional | Some jobs require it for easy material transport |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰建筑业景气，基督城重建、奥克兰住宅开发及商业幕墙需求旺盛，玻璃工持续短缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's construction industry is booming, with strong demand for Christchurch reconstruction, Auckland residential development, and commercial curtain walls. There is a persistent shortage of glaziers, offering good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或初级员工 |
-| 中级（3-5年） | $60,000~$75,000 | 熟练玻璃工 |
-| 高级（5年以上） | $80,000~$100,000 | 高级技工或主管 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or entry-level employee |
+| Mid-level (3–5 years) | $60,000~$75,000 | Skilled glazier |
+| Senior (5+ years) | $80,000~$100,000 | Senior technician or supervisor |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为高级玻璃工、工地主管或自雇承包商。企业通常提供在职培训，积累经验后工资增长显著。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on glaziers is mixed: automated measurement and cutting software will compress junior roles, but on-site skills like installation and sealing remain in high demand, with certified senior workers still scarce.
+
+Can advance to senior glazier, site supervisor, or self-employed contractor. Employers often provide on-the-job training, with significant pay growth after gaining experience.
+
+**Tasks most exposed to AI:**
+
+- Automatic measurement and optimized nesting of glass sizes
+- CNC automation for standard glass cutting
+- Glass panel numbering and positioning based on BIM model
+- Automation of inventory management and order recording
+
+**Where AI augments the role:**
+
+- On-site installation precision verification using AR glasses
+- Using AI visual inspection to check seal quality after glass installation
+- High-rise curtain wall glass inspection using drones or robots
+- Optimize glass transportation and handling routes using AI
+
+**Human moat:**
+
+- Glass adjustment and sealing craftsmanship under complex working conditions
+- Physical Fitness and Emergency Handling for Safe Large-Glass Handling and High-Altitude Work
+- Communicate customised glass solutions with clients and architects.
+- On-site Judgment and Resolution of Unforeseen Problems
+
+**Skills to build:**
+
+- Mastering digital measurement and CAD/BIM software
+- Learn to use AR-assisted installation tools
+- Basic robot or drone operation and maintenance
+- Mastering construction techniques for new sealant materials
+- Enhance high-altitude work safety certification and collaboration skills
+- Learning to apply AI quality inspection tools
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Building & Construction
@@ -61,68 +94,67 @@ Glaziers install glass in buildings. This occupation is on New Zealand's Green L
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence - Green List Occupation） | 工作2年后可申请居留；需职位匹配ANZSCO且薪资达标 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历/经验+薪资）可申请；绿色清单职业有优势 |
-| Subclass AEWV（Accredited Employer Work Visa） | 常见临时工签，需认证雇主担保，有效期最长3年 |
+| Subclass Green List T2 (Work to Residence - Green List Occupation) | May apply for residency after 2 years of work; requires ANZSCO-matched occupation and meeting salary threshold. |
+| Subclass SMC (Skilled Migrant Category) | Eligible under the 6-point system (qualifications/experience + salary); Green List occupations have an advantage |
+| Subclass AEWV (Accredited Employer Work Visa) | Common temporary work visa, requires accredited employer sponsorship, valid up to 3 years. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glazier？**
-- 动手能力强、喜爱户外工作的人
-- 有建筑或玻璃安装经验者
-- 愿意接受职业培训并考取执照的人
-
-**谁不适合学Glazier？**
-- 不习惯高空或体力劳动的人
-- 追求高薪但不愿从学徒做起的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are hands-on and enjoy outdoor work
+- Those with construction or glass installation experience
+- People willing to undergo vocational training and obtain licenses
+
+**Who is not suited**
+- People uncomfortable with heights or physical labor
+- Those seeking high pay but unwilling to start as an apprentice
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for glaziers in New Zealand?**
+A: Junior annual salary about 45,000-55,000 NZD, mid-level 60,000-75,000, senior up to 80,000-100,000. Overtime and commissions can increase income.
+
+**Q: How can a glazier obtain New Zealand residency through skilled migration?**
+A: This occupation is on the Green List Tier 2; work for 2 years to apply for residence, or use the SMC 6-point system with qualifications/experience and salary to accumulate points.
+
+**Q: What are the career prospects for a glass installer?**
+A: Due to the continued construction boom and shortage of skilled tradesmen, demand for glaziers is strong, with many opportunities for advancement to supervisor or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Glazier的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glaziers in New Zealand?**
-答：Entry-level salary is about NZD 45,000-55,000 per year, mid-level NZD 60,000-75,000, and senior NZD 80,000-100,000. Overtime and bonuses can increase earnings.
-
-**问：How can a glazier obtain New Zealand residence through skilled migration?**
-答：This occupation is on Green List Tier 2; work for 2 years and apply for residence. Alternatively, use the SMC 6-point system with qualifications/experience and salary.
-
-**问：What is the career outlook for glaziers?**
-答：With the ongoing construction boom and shortage of skilled tradespeople, demand for glaziers is strong. Advancement to supervisor or self-employment is common.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

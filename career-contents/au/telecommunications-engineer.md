@@ -1,63 +1,94 @@
-# 通信工程师（Telecommunications Engineer）职业分析 · 澳大利亚
+# Telecommunications Engineer — career analysis · Australia
 
-**职业代码：263311 – Telecommunications Engineer。**
+**Occupation code: 263311 (ANZSCO)**
 
-通信工程师设计、部署和优化通信网络（5G、光纤、IoT），是MLTSSL上的技术移民职业（需Engineers Australia评估），需求强。
+Telecommunications engineers design, deploy and optimise communications networks (5G, fibre, IoT). It is a skilled migration occupation on the MLTSSL (requiring Engineers Australia assessment) with strong demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Engineering (Telecommunications/Electronics) | 4年 | $28,000~$48,000（—） |
-| Master of Engineering（加分） | 1.5~2年 | $30,000~$55,000（—） |
+| Bachelor of Engineering (Telecommunications/Electronics) | 4 years | $28,000~$48,000 (—) |
+| Master of Engineering (advantageous) | 1.5–2 years | $30,000~$55,000 (—) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Engineers Australia 评估 / CPEng | Engineers Australia | 可选 | 移民与执业 |
-| 相关工程本科 | 认可大学 | 可选 | 入行基础 |
+| Engineers Australia assessment / CPEng | Engineers Australia | Optional | Migration and professional registration |
+| Relevant engineering undergraduate degree | Recognised university | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 15,000。5G扩展、光纤升级和IoT推动通信工程需求，技能稀缺薪资较高。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. 5G rollout, fibre upgrades and IoT are driving demand for telecommunications engineers, with skill scarcity supporting higher salaries.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~1,600 个 | 全国 |
-| LinkedIn | 900~1,700 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $80,000~$100,000 | — |
-| 中级（3-8年） | $100,000~$130,000 | — |
-| 资深/架构 | $130,000~$160,000 | — |
+| Median salary | $145,444 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $80,000~$100,000 | — |
+| Mid-level (3–8 years) | $100,000~$130,000 | — |
+| Senior/Architect | $130,000~$160,000 | — |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需通信/电子工程学位+EA评估；可向网络架构、技术经理发展。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
+
+Telecommunications/electronic engineering degree and EA assessment required; career path leads to Network Architect and Technical Manager roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically generate network configuration scripts and parameter optimisation solutions
+- Use AI Monitoring Systems to Automatically Detect and Locate Root Causes of Network Faults
+- Automated Generation of Standardized Network Performance Reports and Compliance Documents
+- Automatically perform spectrum planning and interference analysis using AI algorithms
+- Handle common user inquiries and ticket assignments using chatbots
+
+**Where AI augments the role:**
+
+- Using AI simulators to quickly validate 5G/fibre optic network designs
+- Proactively optimizing network capacity and coverage with AI predictive analytics
+- Improving complex link budget accuracy using AI-assisted engineering calculations
+- Use AI-driven digital twin platforms for iterative network planning
+- Using AI Tools to Automatically Generate Project Documents and Test Reports
+
+**Human moat:**
+
+- Cross-vendor heterogeneous network integration architecture design decisions
+- Client needs analysis and customized solution design
+- Handling operator compliance certifications and safety audits
+- Innovative network optimization strategies (non-standard scenarios)
+- High-Level Technical Communication with Clients and Team Members
+
+**Skills to build:**
+
+- AI/machine learning basics (for network optimization prediction)
+- Python or MATLAB script automation
+- Digital twin and network simulation tools (e.g., NS-3)
+- Cloud computing and SDN/NFV technologies
+- Data analysis (Pandas, TensorFlow)
+- Project management and requirements analysis (Agile)
+
+**Key growth areas:**
 
 - 5G/6G Networks
 - Fibre/NBN
@@ -66,66 +97,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent） | 独立技术移民，MLTSSL |
-| Subclass 190（Skilled Nominated） | 州提名 |
-| Subclass 491（Skilled Work Regional） | 偏远加分 |
-| Subclass 482（Skills in Demand） | 雇主担保 |
+| Subclass 189 (Skilled Independent) | Independent skilled migration, MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination |
+| Subclass 491 (Skilled Work Regional) | Regional Sponsored |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学通信工程师？**
-- 对网络与通信技术有兴趣者
-- 想走工程类技术移民者
-
-**谁不适合学通信工程师？**
-- 不愿读工程学位者
-- 排斥现场与值班者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an interest in networking and communications technology
+- Those pursuing a skilled migration visa in an engineering occupation
+
+**Who is not suited**
+- Unwilling to complete an engineering degree
+- Not suitable for field work or on-call duties
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a telecommunications engineer in Australia?**
+A: Approx. AUD $80,000-$160,000.
+
+**Q: Can telecommunications engineers migrate to Australia on a skilled visa?**
+A: Yes. Telecommunications Engineer (263311) is on the MLTSSL, requires an Engineers Australia assessment, and is eligible for the 189/190/491 visa pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-通信工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲通信工程师工资多少？**
-答：约AUD $8万~$16万。
-
-**问：通信工程师能技术移民吗？**
-答：可以。Telecommunications Engineer（263311）在MLTSSL上，需Engineers Australia评估，可走189/190/491。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

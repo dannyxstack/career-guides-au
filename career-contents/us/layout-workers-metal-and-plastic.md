@@ -1,59 +1,95 @@
-# Layout Workers, Metal and Plastic（Layout Workers, Metal and Plastic）职业分析 · 美国
+# Layout Workers, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4192 – Layout Workers, Metal and Plastic。**
+**Occupation code: 51-4192 (SOC)**
 
-Lay out reference points and dimensions on metal or plastic workpieces for further processing, including shipfitters.
+Mark reference points and dimensions on metal or plastic workpieces to prepare for subsequent machining, including ship fitters.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立学校免费） |
-| 学徒制（在职培训） | 4年 | —（通常带薪，培训材料少量费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Free public schools.) |
+| Apprenticeship (on-the-job training) | 4 years | $0~$1,000 (Usually paid, with minor costs for training materials) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业文凭 | 高中 | 必备 | 基本要求 |
-| 在职培训（学徒） | 雇主 | 必备 | 通常4年完成 |
-| 认证布局工（自愿） | NIMS（国家金属加工技能协会） | 可选 | 提升就业竞争力 |
+| High school diploma | High school | Required | Basic requirements |
+| On-the-job training (apprenticeship) | Employer | Required | Typically completed in 4 years |
+| Certified Layout Technician (voluntary) | NIMS (National Institute for Metalworking Skills) | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。美国制造业复苏带动需求，但自动化可能限制增长，年均岗位约2000个。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. U.S. manufacturing recovery drives demand, but automation may limit growth; about 2000 annual job openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级岗位 |
-| 中级（3-10年） | $40,000~$55,000 | 经验丰富后提升 |
-| 高级（10年以上） | $55,000~$70,000 | 主管或专家级 |
+| Median salary | $63,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level roles |
+| Intermediate (3-10 years) | $40,000~$55,000 | Improvement after gaining experience |
+| Senior (10+ years) | $55,000~$70,000 | Supervisor or expert level |
+| average salary | $66,520 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒/助手起步，积累经验后可晋升为高级布局工、主管或质检员。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Some tasks of metal and plastic layout workers can be automated (e.g., digital measuring and layout), but core tasks relying on spatial judgment, material properties, and on-site adjustments remain hard to replace. AI/automation will assist rather than fully replace, and job roles will upgrade towards digitalization and programming.
+
+Start as an apprentice/assistant, and with experience can advance to senior layer, supervisor, or quality inspector.
+
+**Tasks most exposed to AI:**
+
+- Manually mark reference points and dimensions on workpieces using lasers or traditional tools
+- Check dimensional consistency between blueprints and workpieces
+- Generate paper or simple electronic marked-up drawings
+- Repetitive cutting and scribing tasks
+- Approximate size estimation based on experience
+
+**Where AI augments the role:**
+
+- AI-assisted generation of optimized layout plans to reduce material waste
+- Augmented Reality (AR) overlay marking guidance improves positioning accuracy for complex workpieces
+- Real-time feedback from automated measuring equipment speeds up the verification process
+- Digital twin simulates thermal deformation or stress to optimize marker placement
+- Predict material bending/shrinkage via machine learning to improve tolerance control
+
+**Human moat:**
+
+- Intuitive judgment of deformation in processing metals/plastics and other materials
+- Spatial marking and adjustment for non-standard or complex surfaces
+- Communicating and collaborating on-site with welders, assemblers, etc., to resolve unexpected issues
+- Comply with safety regulations and technical standards, handle abnormal conditions
+- Training apprentices, passing on experiential knowledge
+
+**Skills to build:**
+
+- CAD/CAM software operation (e.g., AutoCAD, SolidWorks)
+- Laser measurement and digital marking equipment operation
+- Basic programming skills (macros or simple CNC code)
+- Data analysis and quality statistical process control
+- Digital document management and collaboration tools.
+- Continuous learning of agile manufacturing or lean production principles
+
+**Key growth areas:**
 
 - Manufacturing
 - Shipbuilding
@@ -62,65 +98,64 @@ Lay out reference points and dimensions on metal or plastic workpieces for furth
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等经验，通常不适用于此职业，但特殊情况下可申请。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年培训或经验，可申请职业移民绿卡。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 雇主需证明无法招聘到美国工人，流程较长。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent experience; generally not applicable for this occupation, but may apply under special circumstances. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, can apply for employment-based green card. |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Employers must prove they cannot hire US workers, the process is lengthy. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Layout Workers, Metal and Plastic？**
-- 动手能力强，喜欢精密工作
-- 能看懂机械图纸和尺寸标注
-- 耐心细致，注重准确性
-
-**谁不适合学Layout Workers, Metal and Plastic？**
-- 不喜欢重复性体力工作
-- 对工业环境不适应
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong practical skills, enjoys precision work
+- Able to read mechanical drawings and dimension markings.
+- Patient and meticulous, with attention to accuracy
+
+**Who is not suited**
+- Dislikes repetitive physical work
+- Unaccustomed to industrial environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for metal and plastic layout workers?**
+A: According to BLS data, the 2023 median annual salary is approximately $45,000, and experienced workers can earn up to $70,000.
+
+**Q: Is this occupation suitable for US work visa applications?**
+A: Usually not through H-1B, but possible via EB-3 green card pathway, requiring employer sponsorship and labor certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Layout Workers, Metal and Plastic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Layout Workers, Metal and Plastic?**
-答：According to BLS, the median annual wage in 2023 is about $45,000, with experienced workers earning up to $70,000.
-
-**问：Is this occupation suitable for US work visas?**
-答：Generally not for H-1B, but EB-3 green card is possible with employer sponsorship and PERM.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

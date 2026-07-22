@@ -1,60 +1,96 @@
-# Real Estate Property Manager（Real Estate Property Manager）职业分析 · FR
+# Real Estate Property Manager — career analysis · France
 
-**职业代码：C1502 – Real Estate Property Manager。**
+**Occupation code: C1502 (ROME)**
 
-Manages rental properties including tenant relations, rent collection, lease administration, and maintenance coordination to ensure efficient and compliant operations.
+Responsible for daily management of leased properties, tenant relationship maintenance, rent collection, contract management, and maintenance coordination to ensure compliant and efficient property operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 物业管理 | 2年（BTS） | —（公立学校低廉；私立学校较高） |
-| Licence 专业执照 | 3年（Licence） | —（公立大学成本低） |
-| Master 专业硕士 | 2年（Master） | —（部分商学院收费较高） |
+| BTS Property Management | 2 Years (BTS) | $0~$8,000 (Public schools are cheap; Private schools have higher rates) |
+| Licence professional license | 3 years (Licence) | $0~$15,000 (Public universities have low costs) |
+| Master's in Professional Studies | 2 years (Master) | $0~$20,000 (Some business schools charge relatively high fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物业管理职业卡 | 法国商业与房地产管理协会 | 必备 | 从事物业管理需持有专业卡（carte professionnelle） |
-| 民事责任保险 | 保险公司 | 必备 | 法律要求持有职业民事责任保险 |
-| BTS 物业管理文凭 | 法国教育部 | 可选 | 行业认可的专业文凭 |
+| Property Management Professional Card | French Association of Business and Real Estate Management | Required | Property management requires a professional card (carte professionnelle) |
+| Civil liability insurance | Insurance companies | Required | The law requires holding professional civil liability insurance |
+| BTS Property Management Diploma | French Ministry of Education | Optional | Industry-recognized professional diploma |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。法国租赁市场需求稳定，尤其在大型城市，专业物业管理需求持续增长。数字化工具应用提升效率，但竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. Demand in France's rental market is stable, especially in large cities, where the need for professional property management continues to grow. Digital tool applications improve efficiency, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$60,000 | 税前年薪，含奖金 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$60,000 | Annual pre-tax salary, including bonuses |
+| average salary | $54,432 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级物业助理晋升为物业经理、区域经理，或转向资产管理、房地产投资等方向。积累经验后可独立管理大型资产组合。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI and automation are reshaping the role of accommodation services managers; some administrative and scheduling tasks are being replaced, but core responsibilities like customer experience and crisis management are amplified by AI, increasing the demand for human-centered service and management skills
+
+You can be promoted from junior property assistant to property manager or regional manager, or transition to asset management, real estate investment, and other directions. After gaining experience, you can independently manage large asset portfolios.
+
+**Tasks most exposed to AI:**
+
+- Manual room inventory management systems replaced by AI prediction systems
+- Manual occupancy rate and revenue reports replaced by automated tools
+- Phone bookings and inquiries are gradually being replaced by chatbots and self-service portals
+- Customer complaint classification and basic responses are handled automatically by NLP
+- Employee scheduling optimization algorithm fully replaces manual scheduling
+
+**Where AI augments the role:**
+
+- AI predicts demand to assist in developing dynamic pricing strategies, improving profit margins
+- Customer review analysis tool helps managers precisely identify service improvement areas.
+- Smart security and energy systems provide real-time anomaly alerts to assist management decisions
+- Multilingual translation tools facilitate cross-cultural communication
+- AI-recommended vendors and venue layout optimization for meeting and event planning
+
+**Human moat:**
+
+- On-the-spot judgment to handle emergencies (e.g., fires, complaint escalations).
+- Ability to build emotional connections for customer loyalty and personalized care
+- Team morale management and culture building
+- Final interpretation and enforcement responsibility for compliance and security policies
+- Complex negotiations (e.g., large group contracts, supplier disputes)
+
+**Skills to build:**
+
+- Advanced operation of hotel management software (PMS, RMS)
+- Data visualization and basic statistical analysis
+- Generative AI for marketing copy and customer replies
+- Social media management and reputation management
+- Basic Python or low-code automation tool application
+- Service design and user experience optimization
+
+**Key growth areas:**
 
 - Urbanization
 - Digitalization
@@ -63,68 +99,67 @@ Manages rental properties including tenant relations, rent collection, lease adm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国公司，公司提供工作合同并申请工作许可。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高级专业人才，需符合学历或薪酬要求。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，要求高学历及不低于1.5倍法国平均工资。 |
+| Subclass Salarié (Salarié (Employee)) | Employed by a French company that provides a work contract and applies for a work permit. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for senior professionals, requiring compliance with educational background or salary requirements. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a high degree of education and no less than 1.5 times the French average wage. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Real Estate Property Manager？**
-- 善于沟通与协调
-- 有耐心处理租户问题
-- 具备基本财务与法律知识
-
-**谁不适合学Real Estate Property Manager？**
-- 不擅长客户服务
-- 无法应对多重任务压力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and coordination
+- Be patient in handling tenant issues
+- Basic financial and legal knowledge
+
+**Who is not suited**
+- Not good at customer service
+- Unable to handle the pressure of multiple tasks
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for property managers in France?**
+A: Junior approx. €24,000-30,000, mid-level €30,000-42,000, senior €42,000-60,000 (gross annual salary).
+
+**Q: What residence permits are required for foreigners working in property management in France?**
+A: You can apply for a Salarié work residence permit, or the Passeport Talent Passport, or the EU Blue Card. You must first obtain an offer from a French employer.
+
+**Q: What qualifications must property management in France hold?**
+A: Must have a professional card (carte professionnelle) and civil liability insurance. Although BTS or above diplomas are not mandatory, they are common.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Real Estate Property Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for property managers in France?**
-答：Entry-level around €24,000-€30,000, mid-level €30,000-€42,000, senior €42,000-€60,000 (gross annual).
-
-**问：What residence permits are needed for foreign property managers in France?**
-答：You can apply for Salarié (employee) residence, Passeport Talent, or EU Blue Card, all requiring a job offer from a French employer.
-
-**问：What qualifications are mandatory for property managers in France?**
-答：A professional card (carte professionnelle) and civil liability insurance are mandatory. A BTS or higher diploma is common but not mandatory.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

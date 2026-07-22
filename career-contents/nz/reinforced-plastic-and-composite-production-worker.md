@@ -1,59 +1,95 @@
-# Reinforced Plastic and Composite Production Worker（Reinforced Plastic and Composite Production Worker）职业分析 · 新西兰
+# Reinforced Plastic and Composite Production Worker — career analysis · New Zealand
 
-**职业代码：711515 – Reinforced Plastic and Composite Production Worker。**
+**Occupation code: 711515 (ANZSCO)**
 
-This occupation involves manual and machine-assisted production of fiberglass, carbon fiber composites for marine, automotive, and construction sectors. Not on Green List; work via AEWV, later eligible for SMC if meeting wage thresholds.
+This occupation in New Zealand involves manual and machine-assisted manufacturing of composite products such as fiberglass and carbon fiber, e.g., boats, car parts, and building components. Currently not on the Green List shortage, but can gain experience via Accredited Employer Work Visa (AEWV) and apply for Skilled Migrant Category (SMC) after meeting income requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰学历认证（NZQA）2-3级证书 | 6个月 | $3,000~$8,000（例如NZ Certificate in Composite Manufacturing (Level 3)，学费含材料费。） |
-| 学徒制或在职培训 | 2年 | —（雇主提供培训，可能需自费短课程。） |
+| New Zealand Qualifications Authority (NZQA) Level 2-3 certificate | 6 months. | $3,000~$8,000 (For example, NZ Certificate in Composite Manufacturing (Level 3), tuition includes material costs.) |
+| Apprenticeship or on-the-job training | 2 years | $0~$5,000 (Employer provides training; may need to self-fund short courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰复合材料制造3级证书 | NZQA / 理工学院 | 可选 | 非强制，但雇主优先考虑。 |
-| 健康与安全意识培训 | Site Safe等机构 | 必备 | 常见雇主安全要求，如Passport。 |
-| 国际英语语言测试系统（IELTS） | British Council等 | 可选 | 技术移民需雅思总分6.5或以上。 |
+| Health and safety awareness training | Organizations like Site Safe | Required | Common employer security requirements, such as Passport. |
+| New Zealand Certificate in Composites Manufacturing Level 3 | NZQA / Polytechnic | Optional | Not mandatory, but preferred by employers. |
+| International English Language Testing System (IELTS) | British Council, etc. | Optional | Skilled migration requires an overall IELTS score of 6.5 or higher. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 1,800。新西兰复合材料行业规模较小，主要集中在地中海式船艇制造和高端定制领域。就业机会有限但稳定，年增长约1-2%，受建筑和运输业需求波动影响。奥克兰和坎特伯雷地区需求相对集中。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,800. New Zealand's composites industry is relatively small, mainly focused on Mediterranean-style boat building and high-end custom areas. Job opportunities are limited but stable, with annual growth of about 1-2%, influenced by demand fluctuations in construction and transportation. Demand is relatively concentrated in Auckland and Canterbury regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 时薪约$24-28，加班或计件可更高。 |
-| 中级（4-7年） | $58,000~$70,000 | 常有技能津贴或项目奖金。 |
-| 高级（8年以上） | $72,000~$90,000 | 含主管或QA角色。 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Hourly rate about $24-28, can be higher with overtime or piecework. |
+| Mid-level (4-7 years) | $58,000~$70,000 | Often includes skill allowances or project bonuses. |
+| Senior (8+ years) | $72,000~$90,000 | Includes supervisor or QA role. |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 初级工人可晋升为高级层压技师、主管或质量控制员。积累5-10年经验后可转向模具设计或生产管理，部分人自立开设小型工坊。行业认证如NZQA相关证书有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The nature of work for Metal and Plastic Mould, Core and Casting Machine Operators is mixed: AI and automation will replace many standardized operational tasks, but will also enhance capabilities, such as optimizing production through AI predictive maintenance, improving quality control and efficiency. Thus, automation is high but human experience remains indispensable.
+
+Junior workers can advance to senior laminating technician, supervisor, or quality controller. After 5-10 years of experience, they can transition to mold design or production management, and some start their own small workshops. Industry certifications such as NZQA-related certificates aid career development.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine operating status (parameters such as temperature and pressure)
+- Perform repetitive loading and unloading operations
+- Perform standard quality checks (e.g., dimensions, appearance)
+- Record production data and fill out work orders
+- Perform simple machine adjustments (e.g., temperature, speed adjustments)
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance systems to detect equipment failures early
+- Use AI to optimize process parameters to improve yield
+- Use digital twin technology to simulate and optimize production processes
+- Automatically identify defects through AI visual inspection systems
+- Use AI scheduling systems to optimize production scheduling and material management.
+
+**Human moat:**
+
+- Handle debugging and troubleshooting of complex molds
+- Conduct trials and optimize process parameters for new materials
+- Making judgments and decisions in emergencies or non-standard conditions
+- Maintain and manage automation systems to ensure safety
+- Cross-departmental communication and coordination to resolve production bottlenecks
+
+**Skills to build:**
+
+- Industrial robot programming and commissioning (e.g., FANUC, ABB)
+- Data analysis and statistical process control (SPC)
+- PLC and SCADA system operation
+- Fundamentals of 3D printing and additive manufacturing
+- Python or R for production data analysis
+- Internet of Things (IoT) device configuration and maintenance
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,65 +98,67 @@ This occupation involves manual and machine-assisted production of fiberglass, c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 主要工签路径，需认证雇主、中位数薪资（2024年约$29.66/小时），可带家属，工作3年后可申请居民签。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需达到6分（如学历+工作经验+薪资）。薪资不低于中位数1.5倍（约$44.49/小时）或2倍（$59.32/小时）可得更高分。 |
-| Subclass GFWR（Green Family Work Residence） | 该职业非绿色清单，不直接适用。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Main work visa pathway; requires accredited employer, median salary (about $29.66/hour in 2024), can bring family, eligible for residence visa after 3 years of work. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires a score of 6 (e.g., qualifications + work experience + salary). Salary not less than 1.5 times the median (approx. $44.49/hour) or 2 times ($59.32/hour) yields higher scores. |
+| Subclass GFWR (Green Family Work Residence) | This occupation is not on the Green List and is not directly applicable. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Reinforced Plastic and Composite Production Worker？**
-- 动手能力强、喜欢制作实体产品的人
-- 对玻璃钢、碳纤维等材料操作有兴趣的技工
-- 愿意在奥克兰或基督城工作、接受车间环境的人
-
-**谁不适合学Reinforced Plastic and Composite Production Worker？**
-- 不擅长重复性体力劳动或对树脂气味敏感的人
-- 追求高薪快移民、不愿从基础做起的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy creating physical products
+- Tradespeople interested in working with materials like fiberglass and carbon fiber
+- People willing to work in Auckland or Christchurch and accept a workshop environment
+
+**Who is not suited**
+- Those not suited for repetitive manual labor or sensitive to resin odors
+- Those seeking high salary and fast immigration, unwilling to start from the basics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for reinforced plastic and composite production workers in New Zealand?**
+A: Starting salary approx. NZD 48,000-55,000 per year, mid-level NZD 58,000-70,000, senior NZD 72,000-90,000. Salary influenced by experience, employer, and region; slightly higher in Auckland.
+
+**Q: Can this occupation lead to skilled migration settlement in New Zealand?**
+A: Yes, but not under the Green List direct pathway. Usually first obtain an AEWV work visa, gain experience and increase salary to over 1.5 times the median, then apply for SMC skilled migration. Difficulty moderate to high, need a total score of 6 points.
+
+**Q: Does this occupation have career prospects in New Zealand?**
+A: Industry is stable but small, with limited senior positions. Can transition to quality control, production management, or entrepreneurship. It is recommended to also learn mould design or automation technology to increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Reinforced Plastic and Composite Production Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for reinforced plastic and composite production workers in New Zealand?**
-答：Entry-level salary is around NZD 48,000-55,000 per year; experienced workers earn NZD 58,000-70,000; senior roles NZD 72,000-90,000. Dependent on experience, employer, and location.
-
-**问：Can this occupation lead to permanent residence via skilled migration?**
-答：Yes, but not through Green List. Typical path: AEWV work visa, gain experience, reach 1.5x median wage, then apply under SMC (needs 6 points). Moderate difficulty.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

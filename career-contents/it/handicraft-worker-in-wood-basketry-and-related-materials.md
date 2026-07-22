@@ -1,60 +1,96 @@
-# Handicraft Worker in Wood, Basketry and Related Materials（Handicraft Worker in Wood, Basketry and Related Materials）职业分析 · IT
+# Handicraft Worker in Wood, Basketry and Related Materials — career analysis · Italy
 
-**职业代码：7317 – Handicraft Worker in Wood, Basketry and Related Materials。**
+**Occupation code: 7317 (ISCO08)**
 
-In Italy, handicraft workers create wooden furniture, baskets, woven items and related products using traditional techniques. They are typically employed in small workshops, custom studios, or the souvenir sector, with a strong emphasis on manual skills and artisan creativity.
+In Italy, artisans use traditional techniques to make wooden furniture, baskets, weavings, and other artistic or functional items. This occupation relies heavily on manual skills and is commonly found in small workshops, custom studios, or the souvenir trade.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职校 | 3年 | —（公立职业学校的木工/手工艺课程通常免费或收取少量注册费） |
-| 高等技术教育(ITS) | 2年 | $1,000~$4,000（高等技术学院的木材工艺课程，部分有资助） |
+| High School / Vocational School | 3 years | $0~$5,000 (Woodworking/craft courses at public vocational schools are usually free or charge a small registration fee.) |
+| Institute of Technical Education (ITE) | 2 years | $1,000~$4,000 (Wood technology courses at higher technical colleges, some with funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工/手工艺人职业资格证 | 各地区手工业协会 (Confartigianato, CNA) | 必备 | 需通过理论及实践考试，证明掌握传统手工技能 |
-| 安全与健康培训证书 | 地方卫生局或培训机构 | 必备 | 涉及工具使用、粉尘防护等安全知识 |
+| Woodworker/artisan qualification certificate. | Regional artisan associations (Confartigianato, CNA) | Required | Must pass theoretical and practical exams to demonstrate mastery of traditional manual skills |
+| Safety and health training certificate | local health authority or training institution | Required | Involves safety knowledge such as tool use and dust protection |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 45,000。意大利手工艺行业受旅游经济和高端定制市场支撑，但面临工业化冲击和年轻人兴趣下降。北部及托斯卡纳等传统产区仍有稳定需求。整体就业保持平稳，但增长空间有限。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 45,000. The Italian handicraft industry is supported by tourism and high-end custom markets but faces industrialization challenges and declining youth interest. Traditional production areas in the north and Tuscany still have stable demand. Overall employment remains steady, but growth potential is limited.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 学徒或新手收入较低，常为兼职或按件计酬 |
-| 中级（3-8年） | $20,000~$28,000 | 熟练手工艺人，在工作室或自营 |
-| 高级（8年以上） | $28,000~$38,000 | 大师级工匠或工作室主管，可接高端定制订单 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $16,000~$20,000 | Apprentices or beginners earn lower income, often part-time or piecework |
+| Mid-level (3–8 years) | $20,000~$28,000 | Skilled artisan, working in a studio or self-employed |
+| Senior (8+ years) | $28,000~$38,000 | Master craftsman or workshop supervisor, able to take high-end custom orders |
+| average salary | $25,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：不稳定（★★☆☆☆）。** 职业发展从学徒开始，后成为熟练手工艺人，可晋升为工作室主管或大师级工匠。部分人可自创品牌或从事教学与修复工作。数字化营销能力有助于拓展客户。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a significant impact on Italian wood, basket weaving and related material craftspeople: parametric design and generative AI can complete traditional hand-drawn designs, while 3D printing and CNC can replace some repetitive production, narrowing entry-level positions, but highly customised and artistic works still have a market.
+
+Career development starts with an apprenticeship, then becomes a skilled artisan, with promotion to studio manager or master craftsman. Some may start their own brand or work in teaching and restoration. Digital marketing skills help expand client base.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate weaving/woodworking design drawings based on customer size parameters
+- Use a CNC engraving machine to cut and engrave complex patterns
+- Repetitive standardized processes such as basket weaving and wood strip splicing
+- Clerical work such as inventory management, order processing, and customer communication
+- Product photography, description writing, and online store listing
+
+**Where AI augments the role:**
+
+- Using AI generative design to explore more forms and structural possibilities
+- Customer preview using 3D scanning and digital twins
+- Optimise product style and pricing through social media data analysis
+- Quickly label wood defects and recommend cutting plans using AI tools
+- Use AI-assisted color/texture matching to improve design consistency
+
+**Human moat:**
+
+- The tactile feel, detail, and irreproducibility of manual craftsmanship
+- Customized communication and aesthetic judgment through deep co-creation with clients
+- Cultural heritage and innovative interpretation of traditional crafts
+- On-site debugging, repair, and flexible adaptation based on material characteristics
+- Emotional value of brand story and craftsmanship spirit
+
+**Skills to build:**
+
+- Proficiency in AI design software (e.g., Adobe Firefly, Rhino+Grasshopper)
+- Learn to operate digital manufacturing equipment such as CNC and 3D printing
+- Social media marketing and e-commerce platform (Etsy etc.) operations
+- Basic knowledge of materials science (properties of wood/plant fibers)
+- Customer experience design and customized service process management
+- Basic data analysis and inventory management tools (Excel/Lightroom)
+
+**Key growth areas:**
 
 - Artisan craftsmanship
 - Custom furniture
@@ -63,68 +99,67 @@ In Italy, handicraft workers create wooden furniture, baskets, woven items and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Work Visa Quota (Decreto Flussi)） | 适用于非欧盟技术工人，但手工艺人通常不在紧缺职业名单中，配额有限且竞争激烈 |
-| Subclass Lavoro Autonomo (自雇签（Self-Employment Visa） | — |
-| Subclass EU Blue Card（EU Blue Card） | 对高技能人才开放，但手工艺人薪资通常低于蓝卡门槛（2023年约3万欧元），不符合要求 |
+| Subclass Decreto Flussi quota work visa (Work Visa Quota (Decreto Flussi)) | For non-EU skilled workers, but tradespeople are typically not on the shortage occupation list, with limited quotas and fierce competition. |
+| Subclass Self-employment visa (Self-Employment Visa) | — |
+| Subclass EU Blue Card (EU Blue Card) | Open to highly skilled talent, but artisan wages are usually below the Blue Card threshold (about €30,000 in 2023), so they do not meet the requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Handicraft Worker in Wood, Basketry and Related Materials？**
-- 喜爱手工制作、有耐心和创造力的艺术型人才
-- 愿意接受传统工艺培训并能适应小型工匠作坊环境的人
-
-**谁不适合学Handicraft Worker in Wood, Basketry and Related Materials？**
-- 追求高薪和快速晋升的人
-- 对重复性手工劳动或身体强度高的工作不耐受的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Artistic individuals who enjoy handcrafting, have patience and creativity
+- Individuals willing to undergo traditional craft training and adaptable to small artisan workshop environments
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who are intolerant of repetitive manual labour or high-physical-intensity work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average monthly salary of an Italian artisan?**
+A: Junior craftsperson monthly salary around 1,400-1,700 euros, intermediate around 1,700-2,300 euros, senior up to 2,500-3,200 euros. Self-employed income varies greatly.
+
+**Q: Can non-EU citizens immigrate to Italy through craftsperson work?**
+A: Low possibility. Artisans are not on Italy's shortage occupation list, making work permits difficult to obtain. Self-employment visas require proof of financial means and have limited quotas. Recommended for EU citizens or those holding family reunion visas.
+
+**Q: What career development paths are available for Italian artisans?**
+A: Starting as an apprentice, one can advance to studio supervisor or independent master after gaining experience. Some create their own brands or move into restoration or teaching fields. They can also collaborate with the tourism and design industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 不稳定（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Worker in Wood, Basketry and Related Materials为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average monthly salary of a handicraft worker in Italy?**
-答：Entry-level earn around €1,400-€1,700 per month, mid-level €1,700-€2,300, and senior up to €2,500-€3,200. Self-employed incomes vary greatly.
-
-**问：Can non-EU citizens immigrate to Italy as handicraft workers?**
-答：It is difficult. Handicraft workers are not on the shortage occupation list, making work permits scarce. Self-employment visa requires proof of funds, and quotas are limited. EU citizens or family reunion visa holders have better chances.
-
-**问：What are the career paths for handicraft workers in Italy?**
-答：Start as apprentice, then become skilled artisan, workshop supervisor, or master craftsman. Some launch their own brand or move into restoration or teaching. Collaboration with tourism and design sectors is also common.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

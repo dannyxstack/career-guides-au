@@ -1,163 +1,188 @@
-# 大学讲师（高校教师）（University Lecturer）职业分析 · 澳大利亚
+# University Lecturer / Academic — career analysis · Australia
 
-**职业代码：242111 – University Lecturer。**
+**Occupation code: 242111 (ANZSCO)**
 
-大学讲师负责本科和研究生课程的教学、科研和学术服务，是澳洲高等教育体系的核心专业人员。澳洲37所大学提供稳定的学术就业市场，但竞争激烈，通常需要博士学位和发表记录。是学术背景人士的主流就业方向之一。
+University lecturers are responsible for undergraduate and postgraduate teaching, research, and academic service, and are core professionals within Australia's higher education system. Australia's 37 universities offer a stable academic job market, though competition is intense and a doctoral degree along with a publication record is typically required. It is one of the primary career paths for those with an academic background.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 博士学位（PhD，3~5年） | 3~5年（全日制） | —（博士学位是大学讲师职位的基本要求；澳洲公民/PR读博通常免学费；国际生约 $30,000~$42,000/年） |
-| 博士后研究（Postdoctoral Research，可选但竞争性强） | 1~3年 | —（博士后通常获得薪酬（HEW Level 6-7，约 $90,000~$100,000）；是竞争全职讲席前的主流学术路径） |
-| 学术英语和科研写作能力 | 持续提升 | —（期刊发表记录（Publication Record）和科研经费申请（Grant Application）能力是竞争讲席的关键） |
+| Doctoral degree (PhD, 3–5 years) | 3–5 years (full-time) | $0~$150,000 (A PhD is the baseline requirement for university lecturer positions; Australian citizens/PR holders typically study for a PhD fee-free; international students pay approx. $30,000–$42,000 per year) |
+| Postdoctoral Research (optional but highly competitive) | 1–3 years | $0~$0 (Postdoctoral researchers are typically paid (HEW Level 6–7, approx. $90,000–$100,000); this is the mainstream academic pathway before competing for a full-time lectureship) |
+| Academic English and research writing skills | Continuous improvement | $0~$5,000 (Publication record and grant application ability are key to competing for academic positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位（PhD） | 澳洲或国际认可大学 | 必备 | 绝大多数大学讲师职位的硬性学历要求 |
-| 高校教学资格认证（GCHE/教学法证书） | 各大学教学与学习中心 | 可选 | 部分大学要求，提升教学法能力和晋升竞争力 |
-| 期刊发表记录（Publication Record） | 学术期刊（Q1/ABDC A/A*） | 可选 | 不是正式证书，但是竞争全职讲席职位的实际必要条件 |
-| 科研经费记录（ARC/NHMRC等） | 澳洲科研委员会（ARC）等资助机构 | 可选 | 是晋升副教授和教授的关键绩效指标 |
+| Doctorate (PhD) | Australian or internationally recognised university | Required | The mandatory qualification requirement for the vast majority of university lecturer positions |
+| Higher education teaching qualification (GCHE / pedagogical certificate) | University teaching and learning centres | Optional | Required by some universities to enhance pedagogical skills and promotion competitiveness |
+| Publication record | Academic journals (Q1/ABDC A/A*) | Optional | Not a formal certificate, but a practical prerequisite for competing for full-time lecturing positions |
+| Research funding records (ARC/NHMRC, etc.) | Australian Research Council (ARC) and other funding bodies | Optional | A key performance indicator for promotion to Associate Professor and Professor |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。JSA预测大学讲师至2035年就业稳定增长约5%。AI与数据科学、网络安全和医疗健康相关学科的讲师需求增长最快，国际学生市场的持续活跃也支撑整体教学岗位数量。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. JSA projects stable employment growth of approximately 5% for university lecturers by 2035. Demand is growing fastest for lecturers in AI and data science, cybersecurity, and health-related disciplines, with continued activity in the international student market also supporting overall teaching position numbers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~2,500 个 | 全国，含讲师/高级讲师/副教授/教授和博士后岗 |
-| Indeed | 600~2,000 个 | 含37所大学的学术岗和研究员岗 |
-| LinkedIn | 1,000~3,000 个 | 大学直招，学术猎头活跃 |
-
-**竞争度：很高（★★★★☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 博士后研究员（0~3年，HEW 6-7级） | $88,000~$104,000 | 博士后典型薪资区间（全澳大学HEW薪资表） |
-| 讲师 / Lecturer A/B（3~8年，HEW 8-9级） | $105,000~$135,000 | SEEK 区间 $125k~$130k；Indeed 均值 $124,444；Glassdoor 均值 $112,596（2026） |
-| 高级讲师 / Senior Lecturer（8~15年） | $130,000~$175,000 | HEW 10级高级讲师，含科研绩效奖金 |
-| 副教授 / 教授（15年+） | $170,000~$280,000 | 副教授约 $160k~$195k；教授约 $185k~$280k（含大学津贴和科研经费） |
+| Median salary | $152,048 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Postdoctoral researcher (0–3 years, HEW levels 6–7) | $88,000~$104,000 | Typical postdoctoral salary range (Australian university HEW pay scales) |
+| Lecturer / Lecturer A/B (3–8 years, HEW Level 8–9) | $105,000~$135,000 | Seek range $125k–$130k; Indeed average $124,444; Glassdoor average $112,596 (2026) |
+| Senior Lecturer (8–15 years) | $130,000~$175,000 | HEW Level 10 Senior Lecturer, including research performance bonus |
+| Associate Professor / Professor (15+ years) | $170,000~$280,000 | Associate Professor approx. $160k–$195k; Professor approx. $185k–$280k (including university allowances and research funding) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲高校正面临合同制教职（Casual/Sessional）比例过高的结构性问题，全职讲席（Continuing/Ongoing）竞争激烈。AI辅助教学和在线课程扩展对传统教学模式有影响，但科研产出和研究型讲师职位持续增长。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
 
-- AI & Data Science学术研究
-- 在线教育与EdTech
-- 国际学生教育（亚洲市场）
-- 工程与技术学科
-- 医疗健康研究
+Australian universities face a structural issue with an excessively high proportion of casual and sessional teaching staff, and competition for continuing/ongoing full-time positions is intense. AI-assisted teaching and the expansion of online courses are impacting traditional teaching models, but research output and research-focused academic positions continue to grow.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
+
+- AI & Data Science Academic Research
+- Online Education & EdTech
+- International Student Education (Asia Market)
+- Engineering & Technology
+- Healthcare Research
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，大学可直接担保学术岗位候选人 |
-| Subclass 186（ENS） | 雇主担保永居，大学担保路径成熟 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要技能评估+EOI，博士学位加分 |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区大学（Armidale/Wagga Wagga等），加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; universities can directly sponsor candidates for academic positions |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; university sponsorship pathways are well established |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, requires skills assessment + EOI, PhD degrees receive bonus points. |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
+| Subclass 491 (Skilled Work Regional) | Regional university (Armidale/Wagga Wagga etc.), +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学大学讲师（高校教师）？**
-- 持有博士学位（相关学科），有科研发表记录（期刊/会议论文）
-- 有教学经验（本科/研究生课程辅导），英语学术写作能力极强
-- AI/数据科学/网络安全/医疗健康等高需求学科背景（竞争优势最大）
-- 已获得澳洲大学博士后职位（是进入全职讲席的主流通道）
-- 接受合同制/临时岗位作为全职讲席的过渡期
-
-**谁不适合学大学讲师（高校教师）？**
-- 仅持有硕士学位，无博士学位（绝大多数讲师职位的硬性要求）
-- 期望快速（5年内）获得全职稳定讲席（竞争极激烈，通常需要10年+积累）
-- 学术英语写作能力不足以发表国际期刊论文
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a doctoral degree (in a relevant discipline) with a research publication record (journal articles and/or conference papers)
+- Teaching experience (undergraduate/postgraduate tutoring) and strong academic writing skills in English
+- Background in high-demand disciplines such as AI, data science, cybersecurity, or healthcare (greatest competitive advantage)
+- Have obtained a postdoctoral position at an Australian university (the mainstream pathway to a full-time lectureship)
+- Open to contract/casual roles as a transitional step toward a full-time lecturing position
+
+**Who is not suited**
+- Holds only a master's degree with no doctorate (a hard requirement for the vast majority of lecturer positions)
+- Expecting to secure a full-time, tenured lectureship quickly (within 5 years) — competition is extremely fierce and typically requires 10+ years of experience
+- Academic English writing skills insufficient for publishing in international journals
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a university lecturer in Australia?**
+A: Lecturer (Lecturer A/B) approximately $105,000–$135,000 (Seek $125k–$130k; Indeed $124,444; Glassdoor $112,596); Senior Lecturer approximately $130k–$175k; Associate Professor approximately $170k–$195k; Professor approximately $185k–$280k. Salaries are transparent (HEW pay scales) and grow steadily.
+
+**Q: Is it easy to find work as a university lecturer in Australia?**
+A: Competition for full-time lectureship positions is intense (difficult), but postdoctoral and contract teaching roles are relatively accessible. Demand for lecturers in AI, data science, and cybersecurity outstrips supply. Seek lists approximately 800–2,500 academic positions (including full-time, contract, and postdoctoral roles).
+
+**Q: Is teaching experience from Chinese universities recognised in Australia?**
+A: PhDs from Chinese 985/211 universities are generally recognised by Australian universities. Chinese publication records (SSCI/SCI/EI journals) have some recognition in Australian academia. Main challenges are English academic writing ability and building local academic networks. University-sponsored 482 visa is the most direct path.
+
+**Q: Will university lecturers be replaced by AI?**
+A: Partial impact. Online teaching content and standardised course assessment are affected by AI tools; however, original research, research supervision (PhD/master's students), academic judgement, and research collaboration relationships remain irreplaceable. AI has in fact increased demand for AI subject lecturers (those who research AI).
+
+**Q: Is there an age limit for university lecturers in Australia?**
+A: None. Academia places particular value on accumulated experience; senior professors (aged 55–70) are typically the highest-paid and most respected academics. Mid-career PhD graduates (aged 40+) also have strong opportunities in the Australian academic market, particularly those with an industry background.
+
+**Q: What qualifications does a university lecturer need in Australia?**
+A: A PhD is a hard requirement for the vast majority of lecturer positions. Some practice-based disciplines (business/design) may accept a master's degree plus extensive industry experience; however, research-focused universities (the Group of Eight) require a PhD in almost 100% of cases.
+
+**Q: Is it difficult to get certified as a university lecturer in Australia for migration purposes?**
+A: The migration pathway itself is straightforward (university-sponsored 482 visa is well-defined), but securing a lecturer position is highly competitive. It is recommended to complete a PhD and postdoctoral work at an Australian university and transition naturally into a full-time lectureship application.
+
+**Q: Which is more suitable for migrating to Australia — a university lecturer or a primary/secondary school teacher?**
+A: The migration pathway for primary and secondary school teachers is more certain (MLTSSL + AITSL assessment) with stronger job security (shortage occupation); university lecturers earn higher salaries ($105k–$280k vs teachers $95k–$140k) but face intense competition requiring a doctoral degree and publication record. Those with a PhD and academic background should consider university lecturing; those with teaching experience (especially STEM) should consider school teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 大学讲师薪资 $125k~$130k（2026） |
-| Indeed AU | 大学讲师平均薪资 $124,444（2026） |
-| Glassdoor AU | 讲师平均薪资 $112,596（2026） |
-| AcademicJobs.com | 澳洲大学教授薪资指南2026 |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 很高（★★★★☆） |
-| 收入水平 | 很高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-大学讲师（高校教师）的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲大学讲师工资多少？**
-答：讲师（Lecturer A/B）约 $105,000~$135,000（SEEK $125k~$130k；Indeed $124,444；Glassdoor $112,596）；高级讲师约 $130k~$175k；副教授约 $170k~$195k；教授约 $185k~$280k。薪资透明（HEW薪资表）且稳定增长。
-
-**问：澳洲大学讲师容易找工作吗？**
-答：全职讲席竞争激烈（难），但博士后和合同制教学岗相对容易。AI/数据科学/网络安全学科的讲师供不应求。Seek 挂牌约 800~2,500 个学术岗（含全职/合同制/博士后）。
-
-**问：中国大学教师经验澳洲认可吗？**
-答：中国985/211高校博士学位通常被澳洲大学认可。中国大学发表记录（SSCI/SCI/EI期刊）在澳洲学术市场有一定认可度。主要挑战是英语学术写作能力和在澳洲本地建立学术网络。通过大学担保482签证是最直接路径。
-
-**问：大学讲师会被AI替代吗？**
-答：部分影响。在线教学内容和标准化课程评估受AI工具影响；但原创科研、研究指导（博士/硕士生）、学术判断和科研合作关系不可替代。AI实际上增加了对AI学科讲师（研究AI的人）的需求。
-
-**问：澳洲大学讲师有年龄限制吗？**
-答：无。学术界特别尊重经验积累，资深教授（55~70岁）通常是薪资最高和最受尊重的学术人员。中年博士毕业生（40+岁）在澳洲学术市场也有很好的机会，特别是有行业经验背景者。
-
-**问：澳洲大学讲师需要什么学历？**
-答：博士学位（PhD）是绝大多数讲师职位的硬性要求。部分实践类学科（商科/设计）可能接受硕士+丰富行业经验；但学术型大学（G8集团）几乎100%要求博士。
-
-**问：澳洲大学讲师认证（移民）难吗？**
-答：移民路径本身不难（大学担保482清晰），但获得讲师职位本身极具竞争性。建议通过在澳洲大学完成博士+博士后的路径，自然过渡到全职讲席申请。
-
-**问：大学讲师和中小学教师哪个更适合移民澳洲？**
-答：中小学教师移民路径更确定（MLTSSL+AITSL评估），就业保障更强（短缺职业）；大学讲师薪资更高（$105k~$280k vs 教师 $95k~$140k），但竞争极激烈，需要博士学位和发表记录。有博士学位和学术背景者选大学讲师，有教学经验（特别是STEM）者选中小学教师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

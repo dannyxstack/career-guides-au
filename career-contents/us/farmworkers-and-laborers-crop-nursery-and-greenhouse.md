@@ -1,58 +1,92 @@
-# Farmworkers and Laborers, Crop, Nursery, and Greenhouse（Farmworkers and Laborers, Crop, Nursery, and Greenhouse）职业分析 · 美国
+# Farmworkers and Laborers, Crop, Nursery, and Greenhouse — career analysis · United States
 
-**职业代码：45-2092 – Farmworkers and Laborers, Crop, Nursery, and Greenhouse。**
+**Occupation code: 45-2092 (SOC)**
 
-Manually plant, cultivate, and harvest crops, fruits, nuts, and horticultural specialties using hand tools; duties include tilling, fertilizing, transplanting, weeding, pruning, applying pesticides, and packing produce.
+Engage in manual planting, cultivating, and harvesting of vegetables, fruits, nuts, horticultural crops, and field crops using tools such as shovels and shears, including fertilizing, transplanting, weeding, pruning, spraying pesticides, sorting, packing, and loading.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 无需正规教育 | 0 | —（通常只需短期培训） |
+| No formal education required | 0 | $0~$0 (Typically requires only short-term training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农药施用许可证 | 各州农业部门 | 必备 | 如需喷洒农药，需通过考试获得 |
+| Pesticide Applicator License | State departments of agriculture | Required | If spraying pesticides, must pass exam to obtain |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500,300。美国农场工人就业前景总体稳定，但受机械化替代影响，增长率低于平均水平。2023-2033年预计下降4%。部分种植业（如温室和苗圃）需求仍存在，但岗位竞争较激烈，季节性明显。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500,300. The employment outlook for US farm workers is generally stable but below average due to mechanization, with a projected 4% decline from 2023 to 2033. Demand persists in some sectors (e.g., greenhouses and nurseries), but competition is high and work is seasonal.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$32,000 | 时薪约$13.5-$15.4 |
-| 中级（3-5年） | $32,000~$37,000 | 含加班和季节性收入 |
-| 高级（5年以上/领班） | $37,000~$45,000 | 含管理职责 |
+| Median salary | $35,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$32,000 | Hourly wage about $13.5-$15.4 |
+| Mid-level (3–5 years) | $32,000~$37,000 | Including overtime and seasonal income |
+| Senior (5+ years/team leader) | $37,000~$45,000 | Includes management responsibilities |
+| average salary | $37,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从季节性或临时工开始，积累经验后可晋升为农场领班或主管，部分转向设备操作或农业技术岗位。少数人通过经验积累成为独立农场经营者。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Farm workers (crops, nurseries, greenhouses) face very high automation replacement risk: repetitive physical tasks (e.g., weeding, picking, sorting) are rapidly covered by agricultural robots and AI vision systems; entry-level positions are shrinking significantly, leaving only irregular or high-precision manual operations
+
+Usually start as seasonal or temporary workers, gain experience to advance to farm supervisor or manager, some move to equipment operation or agricultural technology roles. A few become independent farm operators through experience.
+
+**Tasks most exposed to AI:**
+
+- Manual weeding and thinning (replaced by AI vision-guided robots)
+- Fruit and vegetable picking based on ripeness judgment (replaced by computer vision and robotic arms)
+- Sorting and grading agricultural products (replaced by AI spectral analysis and automated sorting lines)
+- Pesticide spraying (replaced by drones and automatic spray robots)
+- Manual loading and handling (replaced by automated guided vehicles).
+
+**Where AI augments the role:**
+
+- AI-assisted yield prediction and planting planning (improving decision accuracy)
+- Drones and sensors monitor crop health (enhancing early pest and disease identification)
+- Smart irrigation and fertilization scheduling (reducing waste, improving efficiency)
+- Automatic generation of farm records and compliance documents (reducing administrative burden)
+
+**Human moat:**
+
+- Handle unexpected issues in complex, unstructured environments (e.g., manual response to mechanical failures)
+- Precision crop management (e.g., high-value grape pruning, oddly shaped fruit picking)
+- Communication and collaboration with farm managers, agronomists, and other high-level professionals
+- Temporary emergency tasks in extreme weather or remote locations
+
+**Skills to build:**
+
+- Agricultural robot operation and basic maintenance.
+- Drone operation and image analysis
+- IoT and smart irrigation system management
+- Agricultural Data Analysis (e.g., yield data interpretation).
+- Automated equipment fault diagnosis
+- Technical communication and procurement negotiations with AI vendors
+
+**Key growth areas:**
 
 - Manual labor
 - Seasonal work
@@ -61,65 +95,67 @@ Manually plant, cultivate, and harvest crops, fruits, nuts, and horticultural sp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Worker） | 适用于临时或季节性农业工作，雇主需证明劳工短缺，需通过劳工部认证。 |
-| Subclass H-1B（H-1B Specialty Occupation） | 极少用于农场工人，通常要求本科学位，不适用。 |
+| Subclass H-2A (H-2A Temporary Agricultural Worker) | Applicable to temporary or seasonal agricultural work; employers must demonstrate labor shortage and obtain certification from the Department of Labor. |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely used for farm workers; usually requires a bachelor's degree, not applicable. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Farmworkers and Laborers, Crop, Nursery, and Greenhouse？**
-- 能适应户外体力劳动和季节性工作
-- 不介意重复性劳动和季节失业
-- 愿意接受较低薪资和艰苦条件
+**Who is suited**
+- Able to handle outdoor physical labor and seasonal work
+- Not averse to repetitive work and seasonal unemployment
+- Willing to accept lower pay and harsh conditions
 
-**谁不适合学Farmworkers and Laborers, Crop, Nursery, and Greenhouse？**
-- 偏好稳定室内办公环境
-- 希望高收入或职业晋升快速
+**Who is not suited**
+- Prefer stable indoor office environment
+- Those seeking high income or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the median annual salary for a farm worker?**
+A: According to BLS 2023 data, median annual salary for farm workers (crops, nurseries, greenhouses) is about 32,000 USD, median hourly wage about 15.4 USD, but seasonal fluctuations are large.
+
+**Q: What are the main pathways for agricultural workers to immigrate to the US?**
+A: The most common is the H-2A temporary agricultural worker visa, which does not require a university degree, but the employer must prove that no local workers are available. Obtaining an employment-based green card (EB-3) is very difficult because this occupation typically does not meet the criteria for skilled workers.
+
+**Q: What licenses or certifications are required for farm workers?**
+A: Usually no formal education or license required. If applying pesticides, must pass state exams to obtain a pesticide applicator license. Safety training (e.g., farm safety) may be provided by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Farmworkers and Laborers, Crop, Nursery, and Greenhouse属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the median annual wage for farmworkers?**
-答：According to BLS 2023, the median annual wage for farmworkers (crop, nursery, greenhouse) is about $32,000; median hourly wage is $15.40, with significant seasonal fluctuations.
-
-**问：What is the main immigration pathway for agricultural workers to the US?**
-答：The most common is the H-2A temporary agricultural worker visa, which does not require a college degree but requires employer certification of labor shortage. Permanent residency (EB-3) is extremely difficult as the occupation typically does not qualify as skilled.
-
-**问：What licenses or certifications do farmworkers need?**
-答：Generally no formal education or license required. However, if handling pesticides, a state-issued pesticide applicator license is mandatory. Safety training may be provided by employers.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

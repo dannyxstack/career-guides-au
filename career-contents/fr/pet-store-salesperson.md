@@ -1,60 +1,96 @@
-# Pet Store Salesperson（Pet Store Salesperson）职业分析 · FR
+# Pet Store Salesperson — career analysis · France
 
-**职业代码：D1210 – Pet Store Salesperson。**
+**Occupation code: D1210 (ROME)**
 
-Sells pets and pet supplies in retail stores; advises customers on animal care, manages inventory and cash register. Requires knowledge of animals and customer service skills.
+Engaged in pet sales, customer consultation, and animal care for pets and pet supplies in pet stores, responsible for product display, inventory management, and cashiering. Knowledge of animals and service awareness are required.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+短期培训 | 1年（CAP） | $500~$3,000（公立CAP免费，私立培训约500-3000欧元） |
-| 高中毕业+2年 | 2年（BTS） | $500~$5,000（BTS在公立学校免费，私立约3000-5000欧元/年） |
+| High school graduation + short-term training | 1 year (CAP) | $500~$3,000 (Public CAP is free, while private training costs about 500-3000 euros) |
+| High school graduation + 2 years | 2 Years (BTS) | $500~$5,000 (BTS is free at public schools, private schools around €3,000-5,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 宠物店销售员职业资格证书（CAP） | 法国教育部 | 可选 | 动物销售必备证书 |
-| 宠物美容师证书 | 法国美容协会 | 可选 | 提升竞争力 |
+| Pet Store Salesperson Professional Qualification Certificate (CAP) | French Ministry of Education | Optional | Essential certificate for animal sales |
+| Pet groomer certificate | French Beauty Association | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国宠物产业持续增长，宠物店销售员需求稳定，但竞争较大。数字化和线上销售带来挑战，实体店需强化体验服务。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. France's pet industry continues to grow, with stable demand for pet store salespeople but fierce competition. Digitalization and online sales bring challenges, and physical stores need to enhance experiential services.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，通常为SMIC起 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上或店长） | $30,000~$38,000 | 税前年薪，管理层薪资 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, usually starting at SMIC |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7 years or more or store manager) | $30,000~$38,000 | Pre-tax annual salary, management-level salary |
+| average salary | $22,701 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为店长、区域经理或采购专员。也可转向宠物护理、宠物美容或动物卫生等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Routine tasks for pet store salespeople (such as cashier and product introduction) are easily replaced by AI, but animal care and personalized customer relationships still rely on humans, and positions will shift toward 'digital assistance + experiential services.'
+
+You can be promoted to store manager, regional manager, or purchasing specialist. You can also shift to specialized fields such as pet care, pet grooming, or animal hygiene.
+
+**Tasks most exposed to AI:**
+
+- Use the cashier system to settle payments and issue receipts
+- Providing customers with standardized product information and price inquiries
+- Restocking recommendations based on inventory records
+- Handle common customer inquiries via chatbot
+- Record and remind clients to book beauty or foster care services
+
+**Where AI augments the role:**
+
+- Use AI tools to analyze customer purchase histories and recommend personalized pet foods or supplies
+- AI image recognition enables rapid diagnosis of pet fur, teeth, and other health issues, assisting sales
+- Use AR to simulate the effects of pet toys or furniture at home, enhancing the customer experience
+- AI-generated social media marketing content attracts online customers to the store
+- Use inventory forecasting AI to optimize orders and reduce losses
+
+**Human moat:**
+
+- On-site observation and management of pet behavior, emotions, and health status
+- Build long-term trust with pet owners and provide emotional support
+- Handle sudden pet stress reactions or health emergencies in real time
+- On-site food or care plans are prepared according to individual pet differences
+- Plan and execute in-store pet interaction activities (such as adoption days and training sessions)
+
+**Skills to build:**
+
+- Pet nutrition and basic veterinary nursing knowledge
+- Use CRM, chatbots, and AI inventory management tools
+- Social media content creation and digital marketing basics
+- Operation and demonstration capabilities of AR/VR devices
+- Data Analysis: Interpreting sales reports and customer profiles
+- Emergency handling of sudden pet health incidents
+
+**Key growth areas:**
 
 - Pet industry growth
 - Digitalization
@@ -63,65 +99,67 @@ Sells pets and pet supplies in retail stores; advises customers on animal care, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Visa） | 需雇主担保，职位需满足法国劳动力市场需求，非紧缺职业，获批难度较大。 |
-| Subclass Passeport Talent（Talent Passport） | 需证明高技能或高学历，零售业销售员很难达到要求。 |
+| Subclass Salarié (Employee Visa) | Employer sponsorship is required; the position must meet the demands of the French labor market, not in urgent demand, and is relatively difficult to approve. |
+| Subclass Passeport Talent (Talent Passport) | Retail salespeople find it difficult to meet the requirement to prove high skill or education. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pet Store Salesperson？**
-- 喜欢动物、有耐心和服务意识的人
-- 追求稳定零售工作、不要求高薪的人
-- 希望在宠物行业积累经验后转向专业领域的人
+**Who is suited**
+- People who love animals, are patient, and have a sense of service
+- Those seeking stable retail jobs and not demanding high salaries
+- Those who wish to gain experience in the pet industry and then transition to professional fields
 
-**谁不适合学Pet Store Salesperson？**
-- 追求高薪和快速晋升的人
-- 对动物过敏或不愿处理动物排泄物的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People allergic to animals or unwilling to handle animal waste
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pet store salespeople in France?**
+A: French pet shop salespeople earn about 17,000–32,000 euros after tax annually; entry-level staff usually earn SMIC (about 20,000 euros before tax), and store managers can earn up to 35,000 euros.
+
+**Q: Can foreigners work as sales staff at French pet shops?**
+A: It can be done, but it's difficult. Employer-sponsored work visa (Salarié) is required, non-essential occupations, and must also have French language skills and animal knowledge. EU citizens are free to work.
+
+**Q: What training is needed to become a pet store salesperson?**
+A: Usually, CAP pet shop salespeople or BTS pet technicians are required, with apprenticeship options available. Training lasts 1-2 years, and public schools are free.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pet Store Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a pet store salesperson in France?**
-答：In France, the annual gross salary ranges from €20,000 for entry-level to €38,000 for store managers, net around €17,000-€32,000.
-
-**问：Can foreigners work as pet store salespersons in France?**
-答：Yes but difficult. Requires employer sponsorship for a work visa (Salarié). Not a shortage occupation; French language and animal knowledge required. EU citizens can work freely.
-
-**问：What training is needed to become a pet store salesperson?**
-答：Usually a CAP in pet store sales or BTS in pet technology, apprenticeship possible. Duration 1-2 years, free in public schools.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

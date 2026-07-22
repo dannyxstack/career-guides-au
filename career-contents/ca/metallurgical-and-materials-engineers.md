@@ -1,59 +1,94 @@
-# Metallurgical and Materials Engineers（Metallurgical and Materials Engineers）职业分析 · 加拿大
+# Metallurgical and Materials Engineers — career analysis · Canada
 
-**职业代码：21322 – Metallurgical and Materials Engineers。**
+**Occupation code: 21322 (NOC)**
 
-Metallurgical and materials engineers study the properties, processing, and extraction of metals and alloys, developing improved materials for industrial manufacturing, and are a stable STEM occupation for Canadian skilled immigration.
+Metallurgical and materials engineers study the properties, processing, and extraction of metals and alloys, developing improved materials for industrial manufacturing. It is a stable STEM occupation for Canadian skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$150,000（加拿大大学工程本科，学费因学校差异大） |
-| 硕士 | 1-2年 | $30,000~$60,000（研究型硕士通常有奖学金，授课型自费） |
+| Bachelor's degree | 4 years | $80,000~$150,000 (Undergraduate engineering tuition at Canadian universities varies significantly by institution.) |
+| Master's degree | 1-2 years | $30,000~$60,000 (Research master's degrees often have scholarships; coursework master's are self-funded.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程专业认证（P.Eng） | 各省工程师协会（如PEO, APEGA） | 必备 | 需要获得工程师执照才能独立执业，对部分雇主是强制要求 |
-| ECA学历认证 | WES或IQAS等指定机构 | 必备 | 移民申请必备，评估海外学历等同于加拿大水平 |
-| 雅思或CELPIP语言成绩 | IELTS或CELPIP | 必备 | CLB 7以上是EE申请的基本要求 |
+| Professional Engineering (P.Eng) certification | Provincial engineering associations (e.g., PEO, APEGA) | Required | Need to obtain a professional engineer license to practice independently; mandatory for some employers |
+| ECA (Educational Credential Assessment). | A designated body such as WES or IQAS | Required | Essential for immigration applications, assesses overseas qualifications as equivalent to Canadian level |
+| IELTS or CELPIP language scores | IELTS or CELPIP | Required | CLB 7 or above is a basic requirement for EE application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。加拿大矿业和金属加工行业需求稳定，尤其在阿尔伯塔省和安大略省。随着绿色能源和电动汽车产业发展，对轻量化、耐腐蚀材料等需求增长，预计未来十年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Demand in Canada's mining and metal processing industry is stable, especially in Alberta and Ontario. With the growth of green energy and electric vehicle industries, demand for lightweight, corrosion-resistant materials is increasing, and the employment outlook over the next decade is good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 毕业生起薪，因地区和行业而异 |
-| 中级（4-7年） | $80,000~$110,000 | 大多数工程师处于此区间 |
-| 高级（8年以上） | $110,000~$150,000 | 资深工程师或管理职位 |
+| Median salary | $100,006 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $60,000~$80,000 | Graduate starting salary, varies by region and industry. |
+| Mid-level (4-7 years) | $80,000~$110,000 | Most engineers fall within this range |
+| Senior (8+ years) | $110,000~$150,000 | Senior engineer or management position |
+| average salary | $104,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业发展路径从初级工程师到高级工程师、项目经理或技术专家。可晋升为首席冶金师、材料科学总监，或转向研发、咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of metallurgical and materials engineers is mixed in terms of automation: some tasks like data analysis and material screening are enhanced by AI, but experiments, field operations, and high-risk decisions still require human experience, with an overall manageable impact.
+
+Career progression from junior engineer to senior engineer, project manager, or technical expert. Can advance to chief metallurgist, materials science director, or move into R&D and consulting.
+
+**Tasks most exposed to AI:**
+
+- Collation and preliminary analysis of material performance data (e.g., regression modeling, chart generation)
+- Calculation and simulation of standard alloy composition
+- Automatic generation of routine lab reports and test documents
+- Screen candidate material ratios based on historical data.
+
+**Where AI augments the role:**
+
+- Using AI to accelerate microstructure image recognition and defect detection in materials
+- Predict the properties of new alloys through machine learning, shortening the R&D cycle.
+- Optimise process parameters for smelting, heat treatment, etc. using digital twins
+- AI-Assisted Design of Composite Laminate Structures to Improve Design Efficiency
+- Automatically parses literature to extract relationships between material properties and processes.
+
+**Human moat:**
+
+- On-site process fault diagnosis and decision-making under abnormal conditions
+- Engineering judgment in material selection communication with clients and regulators
+- Creative experimental design for new materials and processes
+- Interdisciplinary problem-solving ability for non-standard, multi-variable coupling issues
+- Safety and environmental compliance responsibilities: signing, auditing, risk assessment
+
+**Skills to build:**
+
+- Python data analysis and machine learning (e.g., scikit-learn, TensorFlow)
+- Materials informatics and database management (e.g., MatWeb, CIT)
+- Digital twins and finite element simulation (e.g., ANSYS, COMSOL).
+- Industrial automation control fundamentals (understanding of PLC, SCADA systems)
+- Ethics and reliability assessment of AI tools in R&D
+- Project management and cross-department collaboration (Agile, Scrum).
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee
@@ -62,68 +97,67 @@ Metallurgical and materials engineers study the properties, processing, and extr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (Federal Skilled Worker Program)） | 符合NOC 21322的FSW类别，需要至少一年工作经验，通过CRS评分获得邀请 |
-| Subclass PNP（Provincial Nominee Program） | 阿尔伯塔省、安大略省等矿业省份的省提名项目，有定向邀请STEM职业 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省（如新斯科舍省）的雇主驱动移民项目 |
+| Subclass EE (Express Entry (Federal Skilled Worker Program)) | Fits NOC 21322 in the FSW category; requires at least one year of work experience; obtain an invitation through CRS score assessment |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs in mining provinces like Alberta and Ontario have targeted invitations for STEM occupations. |
+| Subclass AIP (Atlantic Immigration Program) | Employer-driven immigration program for Atlantic provinces (e.g., Nova Scotia). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metallurgical and Materials Engineers？**
-- 有冶金、材料工程或化学工程背景的毕业生
-- 希望在矿业、能源或制造业发展的技术人才
-- 愿意在资源丰富的省份（如阿尔伯塔）工作的申请人
-
-**谁不适合学Metallurgical and Materials Engineers？**
-- 不愿意接受工程执照考试和继续教育的人
-- 对偏远地区工作环境敏感的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with a background in metallurgy, materials engineering or chemical engineering
+- Skilled talent hoping to develop in mining, energy, or manufacturing
+- Applicants willing to work in resource-rich provinces (e.g., Alberta)
+
+**Who is not suited**
+- Those unwilling to take engineering license exams and continuing education
+- People sensitive to remote area working environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate salary for metallurgical engineers in Canada?**
+A: Junior CAD 60,000-80,000, intermediate 80,000-110,000, senior 110,000-150,000+, depending on province and industry.
+
+**Q: How can metallurgical engineers immigrate to Canada?**
+A: Primarily through Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP), need to meet Express Entry pool requirements, with stable STEM career advantages.
+
+**Q: Is a Canadian engineer licence required?**
+A: Although not mandatory, many employers prefer or require a P.Eng license, especially for projects involving signing off.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Metallurgical and Materials Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for metallurgists in Canada?**
-答：Entry-level CAD 60,000–80,000; mid-level CAD 80,000–110,000; senior CAD 110,000–150,000+, varying by province and industry.
-
-**问：How can a metallurgist immigrate to Canada?**
-答：Primarily through Federal Skilled Worker (FSW) under Express Entry or Provincial Nominee Programs (PNP), requiring EE eligibility with a stable STEM occupational advantage.
-
-**问：Is a Canadian engineering license required?**
-答：Not mandatory but many employers prefer or require P.Eng, especially for signing off on projects.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

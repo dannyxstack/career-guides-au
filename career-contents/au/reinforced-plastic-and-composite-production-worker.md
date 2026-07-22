@@ -1,60 +1,96 @@
-# Reinforced Plastic and Composite Production Worker（Reinforced Plastic and Composite Production Worker）职业分析 · 澳大利亚
+# Reinforced Plastic and Composite Production Worker — career analysis · Australia
 
-**职业代码：711515 – Reinforced Plastic and Composite Production Worker。**
+**Occupation code: 711515 (ANZSCO)**
 
-Operate equipment and machines to manufacture reinforced plastic and composite products, such as boat hulls and auto parts, involving mold preparation, lamination, curing, and finishing.
+Operate equipment and machinery to manufacture reinforced plastic and composite products such as boat hulls, auto parts, etc. Involves mold preparation, lamination, curing, trimming, and finishing.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 | 1年 | $5,000~$15,000（TAFE或私立院校的复合材料加工证书） |
-| 学徒制 | 3-4年 | —（在职培训为主，部分课程费用） |
+| Vocational education certificate | 1 year | $5,000~$15,000 (TAFE or private institution certificate in composite materials processing) |
+| Apprenticeship | 3-4 years | $0~$5,000 (Mainly on-the-job training, partial course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 复合材料加工三级证书 | TAFE或注册培训机构 | 必备 | 行业认可的基础资格 |
-| 工作健康与安全培训 | SafeWork Australia | 必备 | 处理化学品和树脂所需 |
+| Certificate III in Composite Processing | TAFE or registered training organizations | Required | Industry-recognized basic qualification |
+| Work health and safety training | SafeWork Australia | Required | Required for handling chemicals and resins |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。随着航空航天、汽车、建筑等行业对轻质高强度复合材料需求增长，该职位就业前景稳定。澳洲制造业复苏和国防项目推动部分需求，但总体劳动力规模较小。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,500. With growing demand for lightweight, high-strength composite materials in aerospace, automotive, construction and other industries, employment prospects for this role are stable. Australia's manufacturing recovery and defence projects drive some demand, but the overall workforce is small.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级工资，加班和轮班补贴可能增加 |
-| 中级（3-6年） | $55,000~$70,000 | 有经验的熟练工人 |
-| 高级（6年以上） | $70,000~$90,000 | 高级技工或主管级别 |
+| Median salary | $88,816 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level salary; overtime and shift allowances may apply |
+| Mid-level (3–6 years) | $55,000~$70,000 | experienced skilled worker |
+| Senior (6+ years) | $70,000~$90,000 | Senior technician or supervisor level |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从生产工人晋升为高级技师、主管或质量检验员。积累经验后也可转向复合材料设计或工艺工程岗位，需额外培训。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The nature of work for Metal and Plastic Mould, Core and Casting Machine Operators is mixed: AI and automation will replace many standardized operational tasks, but will also enhance capabilities, such as optimizing production through AI predictive maintenance, improving quality control and efficiency. Thus, automation is high but human experience remains indispensable.
+
+Can advance from production worker to senior technician, supervisor, or quality inspector. With experience, can also transition to composite design or process engineering roles, requiring additional training.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine operating status (parameters such as temperature and pressure)
+- Perform repetitive loading and unloading operations
+- Perform standard quality checks (e.g., dimensions, appearance)
+- Record production data and fill out work orders
+- Perform simple machine adjustments (e.g., temperature, speed adjustments)
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance systems to detect equipment failures early
+- Use AI to optimize process parameters to improve yield
+- Use digital twin technology to simulate and optimize production processes
+- Automatically identify defects through AI visual inspection systems
+- Use AI scheduling systems to optimize production scheduling and material management.
+
+**Human moat:**
+
+- Handle debugging and troubleshooting of complex molds
+- Conduct trials and optimize process parameters for new materials
+- Making judgments and decisions in emergencies or non-standard conditions
+- Maintain and manage automation systems to ensure safety
+- Cross-departmental communication and coordination to resolve production bottlenecks
+
+**Skills to build:**
+
+- Industrial robot programming and commissioning (e.g., FANUC, ABB)
+- Data analysis and statistical process control (SPC)
+- PLC and SCADA system operation
+- Fundamentals of 3D printing and additive manufacturing
+- Python or R for production data analysis
+- Internet of Things (IoT) device configuration and maintenance
+
+**Key growth areas:**
 
 - Composite materials
 - Lightweight manufacturing
@@ -63,65 +99,64 @@ Operate equipment and machines to manufacture reinforced plastic and composite p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，该职业不在短期或中期清单上，需DAMA或劳工协议 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保，适用于DAMA或指定区域移民协议 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa; occupation not on short-term or medium-term lists, requires DAMA or labour agreement |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, applicable under DAMA or Designated Area Migration Agreements |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Reinforced Plastic and Composite Production Worker？**
-- 喜欢动手操作、从事制造工作的人
-- 对复合材料或轻质材料感兴趣且注重细节的人
-- 愿意在工厂或车间环境中工作，能接受化学气味的人
-
-**谁不适合学Reinforced Plastic and Composite Production Worker？**
-- 对化学树脂或粉尘过敏或敏感的人
-- 追求高薪或快速职业晋升的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and manufacturing
+- Those interested in composite or lightweight materials and detail-oriented.
+- People willing to work in a factory or workshop environment and can tolerate chemical odors
+
+**Who is not suited**
+- People who are allergic or sensitive to chemical resins or dust
+- People pursuing high salary or fast career promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for reinforced plastic and composite production workers?**
+A: Annual salary for this role in Australia is around AUD 45,000-90,000, junior AUD 45,000-55,000, mid-level AUD 55,000-70,000, senior up to AUD 70,000-90,000. Overtime and shift work can increase income.
+
+**Q: Are there skilled migration opportunities for this occupation?**
+A: This occupation is usually not on the CSOL/MLTSSL list, limiting skilled migration pathways. Only possible through DAMA or labor agreements for employer sponsorship (482/494), with high requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Reinforced Plastic and Composite Production Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a Reinforced Plastic and Composite Production Worker?**
-答：Annual salary in Australia ranges from AUD 45,000 to 90,000, with entry-level at 45k-55k, mid-level 55k-70k, senior up to 70k-90k. Overtime and shift allowances can increase earnings.
-
-**问：Are there skilled migration opportunities for this occupation?**
-答：This occupation is typically not on the CSOL/MLTSSL, so skilled migration routes are limited. Employer sponsorship (482/494) may be possible only through DAMA or labor agreements.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

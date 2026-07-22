@@ -1,59 +1,95 @@
-# Pharmacists（Pharmacists）职业分析 · 美国
+# Pharmacists — career analysis · United States
 
-**职业代码：29-1051 – Pharmacists。**
+**Occupation code: 29-1051 (SOC)**
 
-Pharmacists dispense prescribed medications and provide information to patients and health practitioners on drug usage, dosage, interactions, and side effects.
+Pharmacists dispense prescription medications, provide medication guidance and consultation to patients and healthcare professionals, ensuring safe and effective use of drugs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士（Pharm.D.） | 4年 | $120,000~$200,000（公立大学学费约$30,000/年，私立高达$50,000/年） |
-| 学士预科 | 2-4年 | $40,000~$120,000（部分学校要求完成预科课程） |
+| Doctor of Pharmacy (Pharm.D.) | 4 years | $120,000~$200,000 (Public university tuition about $30,000/year, private up to $50,000/year) |
+| Pre-bachelor program | 2-4 years | $40,000~$120,000 (Some schools require completion of a foundation course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药剂学博士（Pharm.D.） | ACPE认证的药学院 | 必备 | 必须从认证项目毕业 |
-| 州执照 | 各州药房委员会 | 必备 | 需通过NAPLEX和MPJE考试 |
-| BLS认证（可选） | 美国心脏协会等 | 可选 | 部分岗位要求基本生命支持 |
+| Doctor of Pharmacy (Pharm.D.) | ACPE-accredited pharmacy school | Required | Must graduate from an accredited program |
+| State license | State pharmacy boards | Required | Must pass NAPLEX and MPJE exams |
+| BLS certification (optional). | American Heart Association, etc. | Optional | Some positions require basic life support |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 325,600。美国劳工统计局预计2023-2033年药剂师就业增长约3%，与所有职业平均增速相近。人口老龄化和慢性病增加将推动需求，但自动化部分抵消增长。
+**Job demand: high (★★★★☆).** National workforce approx. 325,600. The US Bureau of Labor Statistics projects about 3% growth in pharmacist employment from 2023 to 2033, similar to the average for all occupations. An aging population and increasing chronic diseases will drive demand, but automation will partially offset growth.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $100,000~$120,000 | 零售药房常见起点 |
-| 中级（4-10年） | $120,000~$140,000 | 医院或临床岗位 |
-| 高级（10年以上/主管） | $140,000~$160,000 | 药房主管或专科药师 |
+| Median salary | $140,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $100,000~$120,000 | Common starting point in retail pharmacy |
+| Mid-level (4-10 years). | $120,000~$140,000 | Hospital or clinical positions |
+| Senior (10+ years/Supervisory) | $140,000~$160,000 | Pharmacy supervisor or specialist pharmacist. |
+| average salary | $140,920 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业发展路径包括从社区或医院药剂师起步，逐步晋升为药房主管、临床药学专家或药剂学博士（Pharm.D.）项目教师。也可转向制药行业或监管机构。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
+
+Career development path includes starting as a community or hospital pharmacist, gradually advancing to pharmacy director, clinical pharmacy specialist, or Pharm.D. program instructor. Also possible to transition to pharmaceutical industry or regulatory agencies.
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks
+- Standardized drug dispensing and dose calculation
+- Inventory management and automatic replenishment
+- Drug information retrieval and simple medication consultation
+- Automatic bill reconciliation with insurance systems
+
+**Where AI augments the role:**
+
+- Use AI to predict individual drug responses and adverse reaction risks
+- Personalized medication regimen optimization based on clinical data
+- Smart triage and remote patient medication follow-up
+- Improved Vaccine Management and Promotion Efficiency
+- Pharmacoeconomic analysis and real-world evidence generation
+
+**Human moat:**
+
+- Medication management and clinical decision-making for complex cases.
+- Face-to-face patient consultation and medication adherence intervention
+- Coordination and communication within multidisciplinary healthcare teams
+- Ethical decision-making and pharmaceutical legal compliance judgment
+- Patient education on emerging therapies (e.g., gene therapy)
+
+**Skills to build:**
+
+- AI-driven clinical decision support system operation
+- Pharmacogenomics and precision medication analysis
+- Telemedicine and digital health tool application
+- Statistical data analysis and real-world research skills
+- Medical ethics and privacy protection compliance knowledge
+- Vaccine management and public health skills
+
+**Key growth areas:**
 
 - Aging Population
 - Chronic Disease Management
@@ -62,68 +98,67 @@ Pharmacists dispense prescribed medications and provide information to patients 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见的工作签证，需雇主担保且抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需PERM劳工证，适合硕士以上或特殊能力者 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 需PERM，适合学士学位或同等经验 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common work visa, requires employer sponsorship and lottery |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires PERM labor certification; suitable for those with master's degree or above or special skills. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | PERM required, suitable for bachelor's degree or equivalent experience |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacists？**
-- 细心谨慎，注重药物安全
-- 善于沟通，能提供患者咨询
-- 愿意持续学习新药知识
-
-**谁不适合学Pharmacists？**
-- 不喜欢与人沟通
-- 难以承受高压工作环境
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful and prudent, focusing on medication safety
+- Good communication skills, able to provide patient counseling
+- Willingness to continuously learn new drug knowledge
+
+**Who is not suited**
+- Dislikes communicating with people
+- Cannot handle high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a pharmacist in the US?**
+A: According to BLS, the median annual salary for pharmacists in 2023 was about $132,750.
+
+**Q: How do foreign pharmacists immigrate to the US?**
+A: Typical path: via H-1B work visa, then employer-sponsored EB-2 or EB-3 green card. Requires US Pharm.D. degree and state license.
+
+**Q: What are the requirements for a Pharmacist to apply for an H-1B visa?**
+A: Requires US Pharm.D. degree or equivalent, pass NAPLEX and state law exams for licensure, then sponsored by a pharmacy or hospital.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Pharmacists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pharmacists in the US?**
-答：According to BLS, the median annual wage for pharmacists was $132,750 in 2023.
-
-**问：How can foreign pharmacists immigrate to the US?**
-答：Common path: H-1B visa followed by employer-sponsored EB-2 or EB-3 green card. Requires US Pharm.D. and state license.
-
-**问：What are the requirements for pharmacists applying for H-1B?**
-答：Requires US Pharm.D. or equivalent, passing NAPLEX and state law exam, and employer sponsorship from a pharmacy or hospital.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

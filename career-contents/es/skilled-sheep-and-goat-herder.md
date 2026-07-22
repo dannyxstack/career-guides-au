@@ -1,60 +1,95 @@
-# Skilled Sheep And Goat Herder（Skilled Sheep And Goat Herder）职业分析 · ES
+# Skilled Sheep And Goat Herder — career analysis · Spain
 
-**职业代码：6202 – Skilled Sheep And Goat Herder。**
+**Occupation code: 6202 (CNO)**
 
-Responsible for daily feeding, grazing, health management and breeding of sheep and goats, ensuring herd welfare and productivity. Typically works on small to medium-sized farms, involving outdoor labor and seasonal tasks.
+Responsible for the daily feeding, grazing, health management, and breeding of sheep and goats, ensuring herd welfare and production efficiency. They usually work on small to medium-sized ranches, involving outdoor labor and seasonal tasks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费，教材自费） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费，部分私立课程收费） |
-| 农业工程本科（Grado en Ingeniería Agrícola） | 4年 | $1,000~$6,000（公立大学学费按学分收取，约25-35欧元/学分） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools offer free or low tuition, with self-paid textbooks) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,500 (Public schools offer free or low tuition, while some private courses charge fees) |
+| Undergraduate Agricultural Engineering (Grado en Ingeniería Agrícola) | 4 years | $1,000~$6,000 (Public university tuition is charged by credit, about 25-35 euros per credit) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 畜牧技术员证书（Técnico en Producción Agropecuaria） | 西班牙教育部（MEFP） | 必备 | 通过FP Grado Medio获得，必备入门资格 |
-| 兽医助理认证 | 西班牙兽医协会（COLV） | 可选 | 非强制，但有助于晋升和薪资提升 |
-| 农药使用许可证（Carné de Manipulador de Plaguicidas） | 农业、渔业和食品部（MAPA） | 可选 | 若涉及化学处理则需持有 |
+| Livestock Technician Certificate (Técnico en Producción Agropecuaria) | Spanish Ministry of Education (MEFP) | Required | Obtained through FP Grado Medio, a mandatory entry qualification |
+| Veterinary Assistant Certification | Spanish Veterinary Association (COLV) | Optional | Not mandatory, but beneficial for advancement and salary increase |
+| Pesticide Use Permit (Carné de Manipulador de Plaguicidas) | Ministry of Agriculture, Fisheries and Food (MAPA) | Optional | If chemical treatment is involved, it must be held |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。西班牙是欧盟最大羊奶生产国，但行业面临老龄化与劳动力短缺。山区放牧需求稳定，但机械化程度低；移民工人占比较高，但技能类岗位仍有缺口。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Spain is the EU's largest producer of goat milk, but the industry faces aging and labor shortages. Mountainous grazing demand is stable but mechanization is low; Migrant workers account for a high proportion, but there is still a gap in skilled job positions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，含社保，通常为季节性合同 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪，具固定合同和额外福利 |
-| 高级（7年以上） | $26,000~$32,000 | 税前年薪，多为牧场主管或经理级别 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, including social insurance, is usually a seasonal contract |
+| Mid-level (3–7 years) | $20,000~$26,000 | Pre-tax annual salary, with a fixed contract and additional benefits |
+| Senior (7+ years) | $26,000~$32,000 | Pre-tax annual salaries are mostly at the ranch supervisor or manager level |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通畜牧员晋升为牧场主管，或自主经营小型牧场。积累经验后可考取兽医技术认证或转向农业企业管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
+
+You can be promoted from ordinary livestock farmer to ranch supervisor, or run a small ranch independently. After gaining experience, you can obtain veterinary technical certification or transition to agricultural enterprise management.
+
+**Tasks most exposed to AI:**
+
+- Basic health data entry and case organization
+- Translation and localisation of standard health education materials
+- Appointment management and follow-up reminder calls
+- Basic chronic disease knowledge Q&A (e.g., diabetes diet)
+
+**Where AI augments the role:**
+
+- Use AI to analyze community health data to identify high-risk groups and trends
+- Use generative AI to create multilingual, culturally adapted educational videos and diagrams
+- Preliminary health screening and triage via AI voice assistants
+- Use AI-enabled remote monitoring tools to track chronic patient conditions
+- AI-assisted report writing and policy proposal generation
+
+**Human moat:**
+
+- Cultural safety practices: deep understanding of Indigenous customs, history, and trust building
+- Community Relationship Maintenance: Face-to-Face Emotional Support and Crisis Intervention
+- Cross-cultural medical translation and advocacy: accurately convey medical information while preserving patient dignity
+- Complex Ethical Decisions: Balancing Traditional and Modern Medicine
+- On-site visits and home care: hands-on work that cannot be replaced by a screen
+
+**Skills to build:**
+
+- Master community health data analysis tools (e.g., Power BI, Tableau)
+- Learn to create AI-driven health education content (e.g., Canva, Synthesia)
+- Familiarity with telehealth platforms and electronic health record systems
+- Basic natural language processing knowledge: for evaluating AI translation quality
+- Trauma-informed care and mental health first aid certification
+- Project management skills: coordinating multiple partners
+
+**Key growth areas:**
 
 - organic livestock
 - precision livestock farming
@@ -63,67 +98,66 @@ Responsible for daily feeding, grazing, health management and breeding of sheep 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 需西班牙雇主提供工作合同，并证明职位无法由本地人填补。适用于长期受雇。 |
-| Subclass Altamente cualificad（High-skilled professional (Ley 14/2013)） | 若符合大学本科或以上学历，可申请高技能人才签证，流程更快。 |
+| Subclass Cuenta ajena (Work permit (employed)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by a local resident. Suitable for long-term employment. |
+| Subclass Altamente cualificad (High-skilled professional (Ley 14/2013)) | If you have a bachelor's degree or above, you can apply for a highly skilled worker visa, which is a faster process. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Skilled Sheep And Goat Herder？**
-- 喜爱户外体力劳动且适应乡村生活的人
-- 有动物饲养或农业背景者
-- 愿意接受季节性工作和收入波动者
-
-**谁不适合学Skilled Sheep And Goat Herder？**
-- 偏好城市稳定环境和固定作息者
-- 对动物福利或高强度体力工作缺乏耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and are adapted to rural life
+- Those with a background in animal husbandry or agriculture
+- Willing to accept seasonal jobs and income fluctuates
+
+**Who is not suited**
+- Those who prefer a stable urban environment and a fixed routine
+- Those who lack patience for animal welfare or high-intensity physical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary for this occupation?**
+A: Entry-level around €16,000-20,000, 3-7 years experience €20,000-26,000, senior supervisor/manager €26,000-32,000 (pre-tax).
+
+**Q: Is it easy for foreigners to immigrate to Spain through this profession?**
+A: This occupation is classified as a Spanish shortage occupation (difícil cobertura) and is relatively easy to obtain work residency. Employer sponsorship is required, and the high-skilled visa pathway is also suitable.
+
+**Q: Are there any requirements for academic credential verification?**
+A: If you hold an overseas relevant degree, you need to obtain degree recognition (homologación), but a FP certificate can also be used for direct job search, and a bachelor's degree is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Skilled Sheep And Goat Herder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for this occupation?**
-答：Entry-level around €16,000-20,000, mid-level €20,000-26,000, senior/supervisor €26,000-32,000 (gross).
-
-**问：Is it easy for foreigners to immigrate to Spain through this occupation?**
-答：This occupation is listed as a shortage occupation (difícil cobertura), making it relatively easier to obtain a work permit. Requires employer sponsorship and is also eligible for the high-skilled visa.
-
-**问：Are there any credential evaluation requirements?**
-答：If you hold a foreign degree, homologación is needed. However, FP (vocational training) certificates are sufficient and do not require evaluation for job applications.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

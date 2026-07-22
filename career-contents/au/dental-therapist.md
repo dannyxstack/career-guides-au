@@ -1,130 +1,158 @@
-# Dental Therapist（Dental Therapist）职业分析 · 澳大利亚
+# Dental Therapist — career analysis · Australia
 
-**职业代码：411214 – Dental Therapist。**
+**Occupation code: 411111 (ANZSCO)**
 
-Dental therapists focus on children's and adolescents' oral health, performing preventive care, fillings, and extractions in public clinics and school dental programs.
+Dental therapists are an important occupation in Australia's healthcare sector, with stable demand and a clear pathway to entry for suitably qualified candidates. The Australian healthcare industry continues to expand, offering strong career development opportunities for professionals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma of Dental Therapy | 2年 | $20,000~$30,000（TAFE或私立学院学费） |
-| Bachelor of Oral Health (Dental Therapy) | 3年 | $40,000~$60,000（大学学费，年费用） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科治疗师注册 | 澳大利亚牙科委员会（Dental Board of Australia） | 必备 | 必须注册才能执业 |
-| 技能评估 | 澳大利亚牙科委员会（ADC） | 可选 | 移民所需 |
-| 心肺复苏（CPR）证书 | 认可培训机构 | 可选 | 部分雇主需要 |
+| Relevant qualification for Dental Therapist | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。澳洲对牙科治疗师需求稳定，尤其在偏远地区。政府推动儿童口腔健康计划，就业增长平缓但持续。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,000. Australia's healthcare sector continues to expand in 2025–2030, with demand for dental therapists maintaining steady growth; employment prospects are strong for those with relevant qualifications and experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 公立诊所或学校项目 |
-| 中级（3-7年） | $75,000~$90,000 | 经验丰富者 |
-| 高级（7年以上） | $90,000~$110,000 | 主管或偏远地区额外补贴 |
+| Median salary | $148,304 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级治疗师晋升为高级治疗师、临床主管或口腔健康协调员，也可进修成为牙医或公共卫生专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
 
-- Aged Care
-- Rural Health
-- Preventive Dentistry
-- Child Dental Health
+The growing adoption of digital technology and increasing professional certification requirements mean dental therapists must continually update their skills to keep pace with industry change.
+
+**Tasks most exposed to AI:**
+
+- Caries detection and basic X-ray interpretation
+- Basic Treatment Plan Generation (e.g., filling plans)
+- Patient Appointment Scheduling and Medical Record Organization
+- Drug dosage calculation and side effect alerts
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis improves diagnostic accuracy
+- Digital treatment planning to improve filling/restoration outcomes
+- Smart patient management system optimizes appointments and follow-ups
+- Virtual assistant provides personalized oral health education
+
+**Human moat:**
+
+- Clinical operation skills (e.g., fillings, sealants)
+- Ability to build trust and communicate with patients
+- Clinical judgment for handling complex cases
+- Fine hand movements and hand-eye coordination
+- Techniques for soothing children and anxious patients
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic software (e.g., DEXIS, Pearl)
+- Digital impressions and CAD/CAM operation
+- Data analysis to interpret oral health trends in patient populations
+- Remote dental consultation and collaboration skills
+- Interdisciplinary collaboration (with dentists, hygienists)
+- Lifelong learning and adaptability to new technologies
+
+**Key growth areas:**
+
+- Australia Wide Growth
+- Regional Demand
+- Digital Transformation
+- Ageing Population
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于MLTSSL职业，可独立技术移民 |
-| Subclass 190（Skilled Nominated Visa） | 州担保加分，各州医疗职业优先 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保工作签证后转186永久居留 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区工作可走DAMA或州担保 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Therapist？**
-- 喜欢儿童口腔健康工作
-- 愿意在偏远地区服务
-- 注重预防保健而非复杂手术
-
-**谁不适合学Dental Therapist？**
-- 希望高收入者
-- 不愿与儿童打交道
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who are passionate about the healthcare industry
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
+
+**Who is not suited**
+- Those unfamiliar with Australian healthcare industry standards and regulations
+- Those unwilling to continuously learn and update their skills
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for dental therapists in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy for dental therapists to find work in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Dental Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dental therapists in Australia?**
-答：Entry-level: AUD 65,000-75,000; mid-level: AUD 75,000-90,000; senior: AUD 90,000-110,000.
-
-**问：What are the migration pathways for dental therapists to Australia?**
-答：Options include 189 Skilled Independent, 190 State Nominated, 482 Temporary Skill Shortage, and 491 Regional visas. Requires Dental Board registration and ADC skills assessment.
-
-**问：Can a dental therapist become a dentist?**
-答：Yes. By completing additional dental degree programs (e.g., Bachelor of Dentistry), some credits may be recognized.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

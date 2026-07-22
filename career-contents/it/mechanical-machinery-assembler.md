@@ -1,60 +1,93 @@
-# Mechanical Machinery Assembler（Mechanical Machinery Assembler）职业分析 · IT
+# Mechanical Machinery Assembler — career analysis · Italy
 
-**职业代码：8211 – Mechanical Machinery Assembler。**
+**Occupation code: 8211 (ISCO08)**
 
-In Italy, Mechanical Machinery Assemblers assemble, adjust, and maintain various mechanical equipment, widely employed in manufacturing, automation lines, and heavy machinery. The role requires technical proficiency, typically gained through vocational training or apprenticeships.
+In Italy, mechanical assemblers are responsible for assembling, debugging, and maintaining various mechanical equipment, widely used in manufacturing, automated production lines, and heavy machinery sectors. This occupation requires high technical proficiency and typically vocational training or apprenticeship experience.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后职业培训 | 2-3年（职业院校） | —（公立职业院校学费极低或免费，仅需支付少量注册费和材料费） |
-| 学徒制 | 3-4年（在职+学校） | —（学徒期间有工资，培训费用由企业承担） |
+| Post-secondary vocational training | 2-3 years (vocational school) | $0~$1,000 (Tuition at public vocational schools is very low or free, with only a small registration fee and material costs required.) |
+| Apprenticeship | 3-4 years (on-the-job + school) | $0~$500 (Paid during apprenticeship, training costs covered by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证书（机械装配方向） | Regione / Istituto Tecnico Superiore | 可选 | 由大区或高等技术学院颁发，证明基础装配技能 |
-| 安全培训证书（如DLgs 81/08） | ASL / Accredited Training Body | 必备 | 工作场所安全法规要求的培训证书 |
+| Safety training certificate (e.g., DLgs 81/08) | ASL / Accredited Training Body | Required | Training Certificate Required by Workplace Safety Regulations |
+| Vocational qualification (Mechanical Assembly direction) | Regione / Istituto Tecnico Superiore | Optional | Issued by a regional or higher technical college, certifying basic assembly skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。意大利制造业尤其是机械和自动化领域需求稳定，随着工业4.0推进，具备数字化技能的装配工更受欢迎。但整体就业增长缓慢，地区差异明显（北部工业区机会更多）。
+**Job demand: medium (★★★☆☆).** National workforce approx. 120,000. Italy's manufacturing industry, especially machinery and automation, has stable demand. With Industry 4.0 progress, assemblers with digital skills are more sought after. However, overall employment growth is slow with significant regional differences (more opportunities in northern industrial areas).
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，北部工业区更高 |
-| 中级（4-7年） | $28,000~$35,000 | 含专业证书或特定技能 |
-| 高级（8年以上） | $35,000~$45,000 | 团队主管或技术专家角色 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, higher in northern industrial areas |
+| Mid-level (4-7 years) | $28,000~$35,000 | Includes professional certification or specific skills |
+| Senior (8+ years) | $35,000~$45,000 | Team supervisor or technical expert role |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级装配工晋升为高级技师或团队主管，也可通过进修成为自动化系统集成专家或质量控制工程师。部分人员可转向机械设计或技术销售岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The task composition of mechanical assemblers is polarized: repetitive assembly and quality inspection steps are easily automated, but complex debugging, on-site fault diagnosis, and non-standard assembly are enhanced by AI due to reliance on physical perception and adaptability.
+
+Can progress from junior assembler to senior technician or team leader, or through further study become an automation systems integration specialist or quality control engineer. Some may move into mechanical design or technical sales roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive tightening and assembly of standard parts: automatically completed by collaborative robot at preset torque
+- Routine appearance and size quality inspection: machine vision system detects and records defects in real time
+- Execution of standard operating instructions: AR glasses overlay virtual arrows to guide workers' operations, replacing manual memory
+- Simple fault code troubleshooting: AI diagnostic tool automatically locates issues and provides repair suggestions
+
+**Where AI augments the role:**
+
+- Planning of complex non-standard assembly: AI recommends optimal assembly sequence and tool combinations
+- Fine-tuning critical fit clearances: smart monitoring systems provide real-time feedback on interference, workers perform precise adjustments
+- On-site fault root cause analysis: AI quickly lists possible causes based on historical maintenance data to assist worker decision-making.
+- Flexible assembly for high-mix, low-volume production: after digital twin simulation verification, workers quickly change fixtures based on virtual guidance.
+
+**Human moat:**
+
+- On-the-spot judgment and manual fitting skills for abnormal conditions (e.g., deformation, misalignment)
+- Ability to measure, modify, and adapt non-standard parts for old equipment
+- Intuitive troubleshooting skills for combined mechanical, electrical, and hydraulic faults during cross-system debugging
+- Assessment and emergency handling of on-site safety risks (e.g., equipment jams, oil leaks)
+
+**Skills to build:**
+
+- Collaborative robot programming and safe operation
+- Industrial Internet of Things (IIoT) data reading and basic analysis
+- 3D model viewing and simple CAD modifications
+- Post-processing and repair of additive manufacturing (3D printing) parts
+- Human-Robot Collaboration in diverse scenarios
+- Basic English (for reading English repair manuals and fault diagnosis software interfaces)
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,69 +96,68 @@ In Italy, Mechanical Machinery Assemblers assemble, adjust, and maintain various
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民通过年度配额申请工作签证，需雇主担保，机械装配工属于可申请的技术工种 |
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高等学历且薪资达标者，机械装配工通常不符合学历要求，除非有工程学位 |
-| Subclass Autonomous Work Visa（Self-Employment Visa） | 如作为自由职业者提供装配服务，需证明经济实力和商业计划 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work visas through annual quotas, requiring employer sponsorship; mechanical assemblers are among the eligible skilled trades. |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to those with higher education and meeting salary requirements; mechanical assemblers usually do not meet education requirements unless they have an engineering degree. |
+| Subclass Autonomous Work Visa (Self-Employment Visa) | If providing assembly services as a freelancer, you need to demonstrate financial capacity and a business plan |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Machinery Assembler？**
-- 喜欢动手操作、有机械直觉的人
-- 愿意从基层做起、通过学徒积累经验的人
-- 适应工厂环境、体力较好且注重安全规范的人
-
-**谁不适合学Mechanical Machinery Assembler？**
-- 偏好办公室工作、不喜欢噪音或脏污环境的人
-- 希望快速晋升或高薪、缺乏耐心做重复性工作的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like hands-on work and have mechanical intuition
+- People willing to start at entry level and gain experience through apprenticeships
+- Suitable for people who adapt to factory environments, have good physical strength, and focus on safety regulations.
+
+**Who is not suited**
+- People who prefer office work and dislike noisy or dirty environments.
+- People who want quick promotion or high salary, lacking patience for repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mechanical assemblers in Italy?**
+A: Entry-level salary approx. €22,000–28,000/year, mid-level up to €35,000, senior or manager around €45,000. Salaries vary significantly by region and industry, with higher pay in manufacturing-intensive northern regions.
+
+**Q: How can non-EU citizens immigrate to Italy as mechanical assemblers?**
+A: Main pathway is through the Decreto Flussi annual quota work visa, requiring a job offer from an Italian employer. This occupation is not on the high-skilled Blue Card priority list, so quota work visa is more common. Stay updated on annual quota application windows.
+
+**Q: What are the career development paths for a mechanical assembler?**
+A: Can progress from junior assembler to senior technician, team leader, or production manager. Also can move into robot maintenance, technical sales, etc., by learning automation or programming.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Mechanical Machinery Assembler为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mechanical machinery assemblers in Italy?**
-答：Entry-level annual salary ranges from €22,000 to €28,000; mid-level up to €35,000; senior or team lead can reach €45,000. Salaries vary by region and industry, with higher pay in the northern industrial areas.
-
-**问：How can non-EU citizens migrate to Italy as a mechanical machinery assembler?**
-答：The main route is the Decreto Flussi work visa with annual quotas, requiring a job offer from an Italian employer. This occupation is not prioritized for EU Blue Card, so quota-based work visa is more common. Monitor the annual quota application windows.
-
-**问：What are the career progression paths for mechanical machinery assemblers?**
-答：Starting as junior assembler, you can advance to senior technician, team leader, or production manager. Additional training in automation or programming can open doors to robotics maintenance or technical sales.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

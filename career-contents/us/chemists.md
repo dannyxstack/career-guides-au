@@ -1,60 +1,92 @@
-# Chemists（Chemists）职业分析 · 美国
+# Chemists — career analysis · United States
 
-**职业代码：19-2031 – Chemists。**
+**Occupation code: 19-2031 (SOC)**
 
-Conduct qualitative and quantitative chemical analyses or experiments in laboratories for quality or process control or to develop new products or knowledge.
+Perform qualitative and quantitative chemical analysis or experiments in a lab for quality control, process control, or new product development. Excludes biochemists and geoscientists.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $25,000~$50,000（公立大学年均学费约2.5万-5万美元） |
-| 硕士学位 | 2年 | $30,000~$60,000（硕士学位可提升薪资和职位） |
-| 博士学位 | 5-6年 | —（博士通常有薪资或奖学金，但机会成本高） |
+| Bachelor's degree | 4 years | $25,000~$50,000 (Public university average annual tuition approx. USD 25,000-50,000) |
+| Master's degree | 2 years | $30,000~$60,000 (A master's degree can increase salary and position) |
+| Doctoral degree (PhD) | 5-6 years. | $0~$30,000 (PhD programs usually offer stipends or scholarships, but opportunity cost is high) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学学士学位 | 认证大学 | 必备 | 必备，通常为化学或相关领域 |
-| 美国化学会认证 | 美国化学会(ACS) | 可选 | 非强制，但提升就业竞争力 |
-| 良好实验室规范培训 | 雇主或机构 | 可选 | 许多实验室要求GLP培训 |
+| Bachelor of Chemistry | Accredited university | Required | Required, typically in chemistry or related field |
+| American Chemical Society certification | American Chemical Society (ACS) | Optional | Not mandatory, but enhances employment competitiveness |
+| Good laboratory practice training | Employer or institution | Optional | Many labs require GLP training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 85,200。美国化学家就业预计增长约4%（2023-2033年），慢于平均水平。制药、环境和材料科学领域需求稳定，但自动化可能减少部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,200. Employment of chemists in the US is projected to grow about 4% (2023-2033), slower than average. Demand is stable in pharmaceuticals, environmental science, and materials science, but automation may reduce some positions.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$65,000 | 学士学位起薪 |
-| 中级（3-7年） | $65,000~$85,000 | 硕士或几年经验 |
-| 高级（7年以上） | $85,000~$120,000 | 博士学位或管理职位 |
+| Median salary | $91,240 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $48,000~$65,000 | Starting salary for bachelor's degree |
+| Mid-level (3–7 years) | $65,000~$85,000 | Master's degree or several years of experience. |
+| Senior (7+ years) | $85,000~$120,000 | Doctoral degree or management positions. |
+| average salary | $100,450 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从初级化学师或实验室技术员起步，晋升为高级化学师、首席科学家或研发经理。博士学历者更易进入研发管理岗位。也可转向质控、法规事务或技术销售。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of chemists will undergo complex changes: AI automation will take over routine experiments and data analysis, but experimental design, anomaly diagnosis, and cross-department collaboration will be enhanced by AI, making the overall outlook mixed.
+
+Usually start as a junior chemist or lab technician, advance to senior chemist, principal scientist, or R&D manager. Doctoral degree holders more easily enter R&D management. Can also switch to QC, regulatory affairs, or technical sales.
+
+**Tasks most exposed to AI:**
+
+- Routine sample preparation and automated instrument operation
+- Automatic identification and report generation for standard analytical data (e.g., HPLC, GC spectra)
+- Repetitive inspection and pass/fail determination in quality control
+- Manual retrieval and extraction of literature data
+
+**Where AI augments the role:**
+
+- AI-assisted experimental design: predicts reaction conditions and product properties via machine learning
+- Abnormal pattern recognition: AI analyses complex data to identify potential faults or new discoveries
+- Multi-source data integration: AI integrates literature, lab records, and supply chain information to support decision-making
+- Virtual experiment simulation: AI digital twins reduce physical trial and error
+
+**Human moat:**
+
+- Design of creative experimental schemes and hypothesis generation
+- Interdisciplinary problem-solving (e.g., collaborating with engineers, biologists)
+- Regulatory compliance judgment and ethical responsibility
+- Qualitative analysis of highly non-standard samples or new substances
+
+**Skills to build:**
+
+- Python/R programming and data analysis.
+- Machine learning basics and cheminformatics tools
+- AI-assisted laboratory automation system management
+- Interdisciplinary communication and project management
+- Advanced statistics and Design of Experiments (DoE)
+
+**Key growth areas:**
 
 - pharmaceutical
 - environmental analysis
@@ -63,68 +95,67 @@ Conduct qualitative and quantitative chemical analyses or experiments in laborat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见工作签证，要求学士以上学位，由雇主担保，每年配额竞争激烈。 |
-| Subclass EB-2（Employment-Based Immigrant Visa (EB-2)） | 适合硕士及以上学历或特殊能力者，需PERM劳工认证，绿卡路径。化学家常见。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在化学领域有杰出成就者，如顶尖期刊论文、重要奖项，无需劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Most common work visa, requires a bachelor's degree or higher, employer-sponsored, with intense annual quota competition. |
+| Subclass EB-2 (Employment-Based Immigrant Visa (EB-2)) | Suitable for master's degree or above or those with special abilities; requires PERM labor certification, green card pathway. Common for chemists. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to those with outstanding achievements in chemistry, such as top journal papers or major awards; no labor certification required. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemists？**
-- 注重细节、喜欢实验室工作的人
-- 对化学分析和技术问题有耐心的人
-- 追求稳定就业和清晰职业路径的人
-
-**谁不适合学Chemists？**
-- 不喜欢重复性实验操作的人
-- 对精确度和严格规程感到压力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, enjoy laboratory work
+- Patient with chemical analysis and technical issues
+- People seeking stable employment and clear career paths
+
+**Who is not suited**
+- Those who dislike repetitive experimental operations
+- People stressed by precision and strict procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemists?**
+A: US chemist median annual salary about $80,000, entry-level about $50,000, senior up to $120,000. Salary influenced by education, experience, and industry (pharmaceuticals higher).
+
+**Q: What are the pathways for chemists to immigrate to the US?**
+A: Common H-1B work visa (requires bachelor's degree or higher) and EB-2 green card (master's degree or higher). Outstanding individuals may use O-1 visa. Employer sponsorship and PERM labor certification are required.
+
+**Q: What degree is needed to become a chemist?**
+A: At least a bachelor's degree in chemistry or a related field. Master's or PhD can increase salary and position, especially in R&D. ACS accreditation also helps.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★★☆☆） |
-| 学习难度 | 中（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Chemists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for chemists?**
-答：Median annual wage for chemists in the US is about $80,000, entry-level around $50,000, senior up to $120,000. Salary varies by education, experience, and industry (pharmaceutical pays higher).
-
-**问：What are the immigration pathways for chemists to the US?**
-答：Common pathways include H-1B work visa (requires bachelor's degree or higher) and EB-2 green card (master's or higher). Extraordinary chemists can use O-1 visa. Employer sponsorship and PERM labor certification required.
-
-**问：What degree is needed to become a chemist?**
-答：At least a bachelor's degree in chemistry or related field. Master's or PhD increases salary and advancement opportunities, especially in R&D. ACS certification is beneficial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

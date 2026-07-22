@@ -1,60 +1,93 @@
-# Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)（Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)）职业分析 · 澳大利亚
+# Kaiāwhina Kohanga Reo (Māori Language Nest Assistant) — career analysis · Australia
 
-**职业代码：422113 – Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)。**
+**Occupation code: 422113 (ANZSCO)**
 
-Kaiawhina Kohanga Reo supports Māori language revitalization in early childhood settings, assisting teachers with cultural activities and helping children learn te reo Māori.
+Māori language nest assistant supports the revitalisation of the Māori language in early childhood education settings, assists teachers with cultural activities, and helps children learn the Māori language.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 早期教育文凭 | 1年 | $5,000~$15,000（澳洲TAFE或私立院校） |
-| 毛利文化培训 | 6个月 | $2,000~$5,000（社区组织提供） |
+| Early childhood education diploma | 1 year | $5,000~$15,000 (Australian TAFE or private institutions) |
+| Māori culture training | 6 months. | $2,000~$5,000 (Offered by community organizations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 早期教育与护理三级证书 | TAFE | 可选 | 部分雇主要求 |
-| 毛利语言能力证明 | 毛利语言委员会 | 可选 | 非强制但优先 |
+| Certificate III in Early Childhood Education and Care | TAFE | Optional | Some employers require |
+| Evidence of Māori language proficiency | Maori Language Commission | Optional | Non-mandatory but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（★☆☆☆☆）。** 全国从业人数约 50。该职业主要在新西兰，澳洲需求极低。澳洲仅少量毛利社区有相关岗位，就业前景有限。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 50. This occupation is mainly in New Zealand, with very low demand in Australia. Only a few Māori communities in Australia have related positions, with limited employment prospects.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 兼职为主 |
-| 中级（3-5年） | $55,000~$65,000 | 全职 |
-| 高级（5年以上） | $65,000~$75,000 | 含管理职责 |
+| Median salary | $69,784 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Mainly part-time |
+| Mid-level (3–5 years) | $55,000~$65,000 | Full-time |
+| Senior (5+ years) | $65,000~$75,000 | Includes management responsibilities |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展路径有限，可向早期教育主管或毛利文化顾问方向发展，但受地区限制。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Some administrative and content preparation tasks of Māori language nest assistants can be automated by AI, but core language teaching, cultural transmission, and emotional interaction rely on humans, making the overall outlook mixed.
+
+Career progression is limited; can move towards early childhood education supervisor or Māori cultural advisor roles, but constrained by region.
+
+**Tasks most exposed to AI:**
+
+- Prepare daily language teaching materials (e.g., flashcards, stories)
+- Record children's learning progress and generate simple reports
+- Responding to common language questions (e.g., word meanings)
+- Schedule arrangement and basic communication notifications
+
+**Where AI augments the role:**
+
+- Using AI voice tools to improve Maori pronunciation accuracy
+- Using AI to Customise Teaching Content to Suit Different Children's Progress
+- Create new cultural stories using translation and generative tools
+- Analyze children's participation data to adjust teaching methods
+
+**Human moat:**
+
+- Emotional support in face-to-face interaction with young children
+- Transferring tacit knowledge of Māori cultural taboos, values, etc.
+- On-the-spot response to children's needs and behavior management
+- Community relationship building and parent communication
+
+**Skills to build:**
+
+- Advanced Māori oral language and rhetoric skills
+- Digital teaching tools (e.g., speech recognition software)
+- Cross-cultural communication and community coordination
+- Basic child psychology knowledge.
+- Use of AI-assisted tools for course design
+- Cultural sensitivity and adaptability
+
+**Key growth areas:**
 
 - Māori language
 - early childhood
@@ -63,62 +96,64 @@ Kaiawhina Kohanga Reo supports Māori language revitalization in early childhood
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 仅适用于有雇主担保的特定情况，极难获批。 |
-| Subclass 190（Skilled Nominated Visa） | 不在职业清单上，无法申请。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Only applicable in specific employer-sponsored cases, extremely difficult to obtain approval. |
+| Subclass 190 (Skilled Nominated Visa) | Not on the occupation list, cannot apply. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)？**
-- 毛利文化传承者或社区工作者
-- 热爱早期儿童教育并希望融入文化元素的人
-- 愿意在特定社区（如新西兰或澳洲毛利社区）工作的人
+**Who is suited**
+- Māori cultural custodian or community worker
+- People who are passionate about early childhood education and want to incorporate cultural elements
+- Willing to work in specific communities (e.g., Māori communities in New Zealand or Australia)
 
-**谁不适合学Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)？**
-- 追求高薪或快速职业发展的人
-- 希望移民澳洲并获得永久居留权的人
+**Who is not suited**
+- People seeking high salary or rapid career advancement
+- People who want to immigrate to Australia and obtain permanent residency.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in Australia?**
+A: Low salary, entry-level approx. AUD $45,000-$55,000, senior up to $75,000, but full-time opportunities are limited.
+
+**Q: Are there Australian skilled migration pathways for this occupation?**
+A: Almost none. This occupation is not on Australia's skilled occupation list, so immigration via common pathways like 189/190/491 is not possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 极低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 几乎无（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Australia?**
-答：Salaries are low, entry-level around AUD 45,000-55,000, senior up to AUD 75,000, but full-time opportunities are limited.
-
-**问：Are there Australian skilled migration pathways for this occupation?**
-答：Almost none. This occupation is not on Australian skilled occupation lists and cannot migrate via 189/190/491.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

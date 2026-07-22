@@ -1,60 +1,96 @@
-# Dancer（Dancer）职业分析 · NL
+# Dancer — career analysis · Netherlands
 
-**职业代码：2653 – Dancer。**
+**Occupation code: 2653 (ISCO08)**
 
-In the Netherlands, dancers and choreographers work in performing arts, dance education, and entertainment, often on a freelance or short-term contract basis.
+In the Netherlands, dancers and choreographers primarily work in performing arts, dance education, and entertainment, often as freelancers or on short-term contracts.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 预科 | 2年 | $10,000~$15,000（预科课程学费，公立院校较低） |
-| 本科 | 4年（本科） | $15,000~$20,000（荷兰公立大学本科学费，非欧盟学生较高） |
+| Foundation course | 2 years | $10,000~$15,000 (Foundation course tuition fees are lower at public institutions.) |
+| Bachelor's degree | 4 years (bachelor's degree) | $15,000~$20,000 (Tuition fees for public Dutch universities are higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞蹈学位或同等学历 | 荷兰艺术院校（如阿姆斯特丹艺术学院） | 必备 | 通常需要专业舞蹈训练背景 |
-| 教师资格（如需教学） | 荷兰舞蹈教师协会 | 可选 | 若从事舞蹈教学工作可能需要 |
+| Dance degree or equivalent qualification | Dutch art schools (e.g., Amsterdam University of the Arts) | Required | Professional dance training background is usually required |
+| Teaching qualification (if required for teaching) | Dutch Dance Teachers Association | Optional | May be required if engaged in dance teaching |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 2,500。荷兰表演艺术行业规模较小但稳定，舞蹈演员竞争激烈，就业机会主要集中在阿姆斯特丹、鹿特丹等大城市。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,500. The Dutch performing arts industry is small but stable, with fierce competition for dancers, and job opportunities mainly concentrated in major cities like Amsterdam and Rotterdam.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 税前年薪，自由职业者收入不稳定 |
-| 中级（3-7年） | $30,000~$45,000 | 税前年薪，受雇于舞团或机构 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，知名编舞或首席舞者 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$30,000 | Pre-tax annual salary, freelancer income is unstable |
+| Mid-level (3–7 years) | $30,000~$45,000 | Annual salary before tax, employed by a dance company or institution |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, renowned choreographer or lead dancer |
+| average salary | $38,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括从舞者晋升为首席舞者、编舞者或舞蹈教师，部分可转向艺术管理或舞蹈治疗等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on dancers and choreographers is mixed: creative tools improve choreography efficiency, but standardized performance tasks face automation risks; live improvisation and emotional expression remain human strengths.
+
+Career progression pathways include advancing from dancer to principal dancer, choreographer, or dance teacher, with some transitioning to arts management or dance therapy.
+
+**Tasks most exposed to AI:**
+
+- Basic dance moves demonstration and teaching.
+- Standardized choreography process for repetitive combination arrangements
+- Initial screening of candidates in virtual auditions.
+- Basic coordination of performance costumes and stage lighting
+- Automatic editing and labeling of dance training videos
+
+**Where AI augments the role:**
+
+- Use AI motion capture and generation tools to quickly explore choreography ideas.
+- Optimize performance pacing through AI analysis of audience feedback
+- Use virtual reality technology for remote rehearsal collaboration.
+- Use AI music generator to match dance rhythm and mood
+- Using data analysis to predict trends and design dance moves
+
+**Human moat:**
+
+- Improvisation and emotional expression in live performances
+- Unique choreographic narrative ability blending cultural backgrounds
+- Subtle interpretation and conveyance of non-verbal body language
+- Human care and leadership in team collaboration
+- Safety judgment and adaptability in high-risk performances
+
+**Skills to build:**
+
+- Use of AI choreography tools (e.g. MotionBank, Routemaster)
+- Motion capture and real-time rendering technology
+- Multi-platform distribution and marketing of digital dance works
+- Collaborative AI creative workflow design
+- Data analysis interpreting audience preferences and trends
+- Applications of virtual reality and augmented reality in performances.
+
+**Key growth areas:**
 
 - Contemporary dance
 - Freelance economy
@@ -63,65 +99,67 @@ In the Netherlands, dancers and choreographers work in performing arts, dance ed
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Kennismigrant） | 适用于受雇于认可担保人的高技能移民，通常需要至少本科或同等学历及符合薪资门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需有工作合同及高于平均水平的薪资。 |
+| Subclass Highly Skilled Migra (Kennismigrant) | Applies to highly skilled migrants employed by an approved sponsor, typically requiring at least a bachelor's degree or equivalent and meeting a salary threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires a work contract and above-average salary. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dancer？**
-- 对舞蹈有极高热情且愿意接受不稳定收入的人
-- 具备优秀身体素质和艺术表现力的人
-- 愿意不断学习和适应不同舞蹈风格的人
+**Who is suited**
+- People with high passion for dance and willingness to accept unstable income
+- Individuals with excellent physical fitness and artistic expression
+- People willing to continuously learn and adapt to different dance styles
 
-**谁不适合学Dancer？**
-- 追求稳定高收入和长期就业保障的人
-- 不喜欢频繁流动和短期合同工作模式的人
+**Who is not suited**
+- People seeking stable income and long-term job security
+- Dislikes frequent mobility and short-term contract work patterns
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a dancer in the Netherlands?**
+A: Average pre-tax annual salary around €25,000-40,000, but freelancer income varies widely.
+
+**Q: How can non-EU dancers immigrate to the Netherlands?**
+A: Possible via highly skilled migrant (Kennismigrant) or EU Blue Card, but requires a recognized sponsor and meeting the salary requirement.
+
+**Q: What qualifications are needed to teach dance in the Netherlands?**
+A: Typically requires a bachelor's degree in dance or equivalent, and may require registered dance teacher certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Dancer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dancers in the Netherlands?**
-答：Average gross annual salary is around €25,000-€40,000, but freelancers have variable income.
-
-**问：How can non-EU dancers migrate to the Netherlands?**
-答：Via the Highly Skilled Migrant scheme (Kennismigrant) or EU Blue Card, requiring a recognized sponsor and meeting salary thresholds.
-
-**问：What qualifications are needed to teach dance in the Netherlands?**
-答：Typically a bachelor's degree in dance or equivalent, and possibly registration as a dance teacher.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

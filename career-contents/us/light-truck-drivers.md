@@ -1,61 +1,97 @@
-# Light Truck Drivers（Light Truck Drivers）职业分析 · 美国
+# Light Truck Drivers — career analysis · United States
 
-**职业代码：53-3033 – Light Truck Drivers。**
+**Occupation code: 53-3033 (SOC)**
 
-Drive light vehicles (GVW < 26,001 lbs) to pick up and deliver merchandise from distribution centers; may load/unload.
+Drive light trucks (gross weight under 26,001 lbs) to pick up goods from distribution centers and deliver to customers, may need to load and unload cargo.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立学校免费） |
-| 商业驾驶执照培训 | 3-6个月 | $3,000~$10,000（私立驾校费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Free public schools.) |
+| Commercial driver's license training | 3-6 months | $3,000~$10,000 (Private driving school fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 各州机动车辆管理局 | 可选 | 驾驶总重量超过26,000磅的车辆需持有CDL；轻型卡车通常仅需普通驾照，但部分雇主要求CDL。 |
-| 驾驶记录检查 | 雇主 | 必备 | 无重大交通违规记录 |
-| 毒品测试 | 雇主或第三方 | 必备 | 入职前及随机抽查 |
+| Driving record check | Employer | Required | No major traffic violations |
+| Drug testing | Employer or third party | Required | Pre-employment and random checks |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | Driving vehicles with a gross weight over 26,000 lbs requires a CDL; light trucks usually only require a regular driver's license, but some employers require a CDL. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,138,200。随着电商持续增长，轻型卡车司机需求稳定。BLS预计2022-2032年就业增长约5%，与平均水平持平。运输和仓储行业扩张带来机会。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,138,200. With continued e-commerce growth, light truck driver demand is stable. BLS projects about 5% employment growth from 2022 to 2032, on par with the average. Expansion in the transportation and warehousing sector creates opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级时薪约$14-18 |
-| 中级（3-6年） | $36,000~$45,000 | 经验司机时薪约$18-22 |
-| 高级（6年以上） | $45,000~$60,000 | 资深司机或带特殊认证者时薪可达$28+ |
+| Median salary | $44,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level hourly wage approx. $14-18 |
+| Mid-level (3–6 years) | $36,000~$45,000 | Experienced drivers earn about $18-22 per hour |
+| Senior (6+ years) | $45,000~$60,000 | Experienced drivers or those with special certifications can earn $28+/hour |
+| average salary | $48,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级司机起步，积累经验后可晋升为调度员、路线规划师或车队主管。部分司机可转向重型卡车驾驶或物流管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+Starting as a junior driver, gaining experience to advance to dispatcher, route planner, or fleet supervisor. Some drivers can transition to heavy truck driving or logistics management.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - E-commerce growth
 - Last-mile delivery
@@ -64,63 +100,65 @@ Drive light vehicles (GVW < 26,001 lbs) to pick up and deliver merchandise from 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因轻型卡车司机不满足专业职业要求。极少情况可用。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 理论上可能，但需PERM和雇主担保，因职业准入门槛低，很难证明劳工短缺。 |
-| Subclass TN（TN NAFTA Professional） | 不适用，该职业不在TN职业列表中。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable, as light truck drivers do not meet professional occupation requirements. Rare cases may apply. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Theoretically possible, but requires PERM and employer sponsorship; due to low entry barriers, proving labor shortage is difficult. |
+| Subclass TN (TN NAFTA Professional) | Not applicable, as this occupation is not on the TN list. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Light Truck Drivers？**
-- 喜欢驾驶和户外工作的人
-- 注重工作稳定性而非高薪者
-- 能够适应长时间坐姿和灵活排班的人
+**Who is suited**
+- People who enjoy driving and outdoor work
+- Those who value job stability over high salary
+- People who can adapt to prolonged sitting and flexible scheduling
 
-**谁不适合学Light Truck Drivers？**
-- 不擅长长时间驾驶或久坐者
-- 寻求高技术移民路径的人
+**Who is not suited**
+- People not suited for long drives or prolonged sitting
+- People seeking high-skilled migration pathways
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a light truck driver?**
+A: According to BLS data, the average annual salary in 2023 was about $40,000-45,000, beginners around $30,000, experienced up to $60,000.
+
+**Q: Can light truck drivers immigrate to the US via work visas?**
+A: Very difficult. This occupation is not a professional role; H-1B does not apply. EB-3 green card requires PERM, but the Department of Labor often finds no labor shortage for this role, making employer sponsorship hard to succeed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Light Truck Drivers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for light truck drivers?**
-答：According to BLS, the average annual salary is about $40,000-45,000; entry-level around $30,000, experienced up to $60,000.
-
-**问：Can light truck drivers immigrate via work visa?**
-答：Very difficult. Not a specialty occupation; H-1B not applicable. EB-3 green card requires PERM, but DOL often deems no labor shortage, making sponsorship hard.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

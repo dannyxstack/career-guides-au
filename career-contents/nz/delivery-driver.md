@@ -1,59 +1,93 @@
-# Delivery Driver（Delivery Driver）职业分析 · 新西兰
+# Delivery Driver — career analysis · New Zealand
 
-**职业代码：732111 – Delivery Driver。**
+**Occupation code: 732111 (ANZSCO)**
 
-Delivery drivers in New Zealand have stable demand, delivering parcels and food via motorcycle or van. Migration options are limited, often requiring employer sponsorship or meeting Green List criteria.
+Demand for delivery drivers in New Zealand is stable, driving motorcycles or small vans for parcel and food delivery. Skilled migration pathways are limited, usually requiring employer sponsorship or meeting specific Green List conditions.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新手培训 | 1周 | $300~$800（基础安全及配送流程培训） |
+| Novice training. | 1 week | $300~$800 (Basic safety and delivery process training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰1类驾照 | 新西兰交通局 (NZTA) | 必备 | 驾驶摩托或轻型车辆必需; 可驾驶2.5吨以下厢式货车 |
-| SPL/Licence Endorsement | NZ Police | 可选 | 部分食物配送需持有安全执照 |
+| New Zealand Class 1 Driver License | New Zealand Transport Agency (NZTA) | Required | Required for riding motorcycles or light vehicles; can drive vans under 2.5 tons |
+| SPL/Licence Endorsement | NZ Police | Optional | Some food delivery requires a safety license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。电商和外卖行业推动配送司机需求持续增长，但从业人数较多，竞争中等。预计未来5年职位增长稳定，但季节性波动明显。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. E-commerce and food delivery industries drive continued growth in demand for delivery drivers, but the number of workers is high and competition is moderate. Expected stable job growth over the next 5 years, but with seasonal fluctuations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 时薪约$22-26，通常按件计薪 |
-| 中级（2-5年） | $55,000~$65,000 | 时薪约$27-32，含小费及里程补贴 |
-| 高级（5年以上/独立承包人） | $65,000~$80,000 | 自备车辆，收入可达$70k+，但需自负车辆成本 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Hourly pay approx. $22-26, usually paid per piece |
+| Intermediate (2-5 years) | $55,000~$65,000 | Hourly wage about $27-32, including tips and mileage allowance |
+| Advanced (5+ years / independent contractor) | $65,000~$80,000 | Own vehicle required; income up to $70k+, but vehicle costs are at your own expense |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级司机可通过积累经验晋升为调度员、车队主管或拥有自己配送车辆的独立承包人。也可考取重型车辆驾照转为卡车司机。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
+
+Entry-level drivers can advance to dispatcher, fleet supervisor, or independent contractor with their own delivery vehicle by gaining experience. They can also upgrade to a heavy vehicle license and become truck drivers.
+
+**Tasks most exposed to AI:**
+
+- Manual route planning
+- Customer phone notifications and delivery confirmations
+- Organisation and filing of paper delivery receipts
+- Generate simple anomaly reports
+
+**Where AI augments the role:**
+
+- Real-time dynamic route optimization to improve delivery efficiency
+- Smart package sorting and loading suggestions
+- Customer preference analysis and personalized services
+- Vehicle maintenance warnings and energy consumption management
+- Automated document processing frees up time for service
+
+**Human moat:**
+
+- Driving judgment and emergency handling in complex traffic environments
+- Trust and communication in face-to-face customer handovers
+- Last 100-meter flexible delivery (e.g., upstairs, drop-off points)
+- Familiarity with local neighborhoods and community relations
+
+**Skills to build:**
+
+- Use logistics scheduling software (e.g., Onfleet, Route4Me)
+- Basic data analysis skills
+- Customer service and emotional management
+- New energy vehicle driving and charging operations
+- Basic troubleshooting and emergency response
+- Digital receipt and electronic payment system operation
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,69 +96,68 @@ Delivery drivers in New Zealand have stable demand, delivering parcels and food 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见路径，需获得认证雇主聘用且工资达到中位数（2024年$29.66/小时） |
-| Subclass SMC（Skilled Migrant Category） | 极少数情况可申请，需雇主担保且工资至少达中位数的1.5倍（$44.50/小时），通常不符合技能要求 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 配送司机不在绿色清单上，但若职位被归类为相关技能短缺（需特定条件） |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common path: need to be employed by an accredited employer and meet median wage ($29.66/hour in 2024) |
+| Subclass SMC (Skilled Migrant Category) | Rarely applicable, requires employer sponsorship and salary at least 1.5 times the median ($44.50/hour), usually does not meet skill requirements. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Delivery driver is not on the Green List, but if the position is classified as a relevant skill shortage (specific conditions apply) |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Delivery Driver？**
-- 喜欢户外工作、适应灵活时间的人
-- 有良好驾驶记录和客户服务意识者
-- 希望快速入门、无需高学历的求职者
-
-**谁不适合学Delivery Driver？**
-- 追求高薪或稳定晋升路径者
-- 厌恶长时间奔波、恶劣天气或体力劳作者
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and flexible hours
+- Has a good driving record and customer service awareness
+- Job seekers who want a quick start without high educational requirements
+
+**Who is not suited**
+- Those seeking high salary or stable career advancement paths
+- Those who dislike long hours of travel, bad weather, or physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for courier drivers in New Zealand?**
+A: Entry-level hourly wage approx. $22-27, annual income $45k-55k; mid-level $27-32/hour, annual income $55k-65k; senior independent contractors can earn $65k-80k annually, but must cover vehicle maintenance and insurance.
+
+**Q: Can delivery drivers obtain New Zealand permanent residency through skilled migration?**
+A: Very difficult. This occupation is not on the Green List and typically requires working for years under an Accredited Employer Work Visa (AEWV), with wages significantly above the median to apply for Skilled Migrant Category (SMC). Rarely, if the employer can prove the role meets skill shortage criteria, it may qualify for Green List T2 to residence.
+
+**Q: How can delivery drivers improve their career prospects?**
+A: Can upgrade to higher-class licenses (e.g., Class 2/4/5) to become a truck driver; or progress toward dispatching, fleet management, or logistics operations. Accumulating client resources leads to independent contracting, offering higher income but greater risk.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Delivery Driver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for delivery drivers in NZ?**
-答：Entry-level hourly rate is NZ$22-27, annual $45k-55k; intermediate $27-32/hr, $55k-65k; experienced contractors can earn $65k-80k but must cover vehicle costs.
-
-**问：Can a delivery driver get NZ residency through skilled migration?**
-答：Very difficult. The occupation is not on the Green List; most enter via Accredited Employer Work Visa (AEWV), and need to earn well above median wage to qualify for Skilled Migrant Category. Rare cases may qualify for Green List Tier 2 if deemed shortage role.
-
-**问：How to advance as a delivery driver?**
-答：Obtain higher license classes (2/4/5) to become a truck driver, or move into dispatching, fleet management, or logistics. With enough clients, become an independent contractor for higher pay but more risk.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

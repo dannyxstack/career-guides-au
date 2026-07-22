@@ -1,59 +1,94 @@
-# Structural Engineer（Structural Engineer）职业分析 · 新西兰
+# Structural Engineer — career analysis · New Zealand
 
-**职业代码：233214 – Structural Engineer。**
+**Occupation code: 233214 (ANZSCO)**
 
-Structural engineers design and analyze load-bearing structures for buildings, bridges, and infrastructure, ensuring safety and stability. With ongoing infrastructure investment in New Zealand, this role is in chronic shortage and eligible for Green List direct residence.
+Structural engineers design and analyze load-bearing structures of buildings, bridges, infrastructure to ensure safety and stability. With ongoing infrastructure investment in New Zealand, this occupation is in long-term shortage and eligible for direct residence via the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（荣誉工程学士） | 4年 | $35,000~$45,000（新西兰大学国际生学费，如奥克兰大学） |
-| 硕士（工程硕士） | 1-2年 | $40,000~$55,000（部分雇主青睐硕士，可加速注册） |
+| Bachelor's degree (Honours in Engineering) | 4 years | $35,000~$45,000 (International student tuition at New Zealand universities, e.g., University of Auckland) |
+| Master's (Master of Engineering) | 1-2 years | $40,000~$55,000 (Some employers prefer a master's degree, which can accelerate registration.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰特许专业工程师（CPEng） | Engineering New Zealand | 必备 | 注册需3-5年经验与面试，强制要求 |
-| 华盛顿协议认证工程学位 | 大学 | 可选 | 需受新西兰工程局（EngNZ）认可 |
-| 雅思学术类或同等英语考试 | IELTS | 必备 | 要求总分6.5，单项6.0 |
+| Chartered Professional Engineer (CPEng) in New Zealand | Engineering New Zealand | Required | Registration requires 3-5 years of experience and an interview, mandatory |
+| IELTS Academic or equivalent English test | IELTS | Required | Requires overall score 6.5, with no band below 6.0 |
+| Washington Accord accredited engineering degree | University | Optional | Must be recognized by Engineering New Zealand (EngNZ). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 1,800。新西兰住房和基础设施投资强劲，尤其在奥克兰、基督城等地区。结构工程师需求稳定，预计未来5年就业增长10-15%，但人才供应不足，雇主招聘困难。
+**Job demand: very high (★★★★½).** National workforce approx. 1,800. New Zealand's housing and infrastructure investment is strong, especially in regions like Auckland and Christchurch. Demand for structural engineers is stable, with employment projected to grow 10-15% over the next 5 years, but talent supply is insufficient, making recruitment difficult for employers.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-4年） | $60,000~$80,000 | 初入职，需经验积累 |
-| 中级（4-8年） | $85,000~$110,000 | 取得CPEng后薪资明显提升 |
-| 高级（8年以上） | $120,000~$150,000 | 主管或项目经理可达 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry-level (0-4 years) | $60,000~$80,000 | Entry-level, requires experience accumulation |
+| Mid-level (4–8 years) | $85,000~$110,000 | Significant salary increase after obtaining CPEng |
+| Senior (8+ years) | $120,000~$150,000 | Supervisor or project manager can reach |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：优（★★★★½）。** 职业路径：初级工程师（2-3年）→ 中级工程师（4-6年）→ 高级/主管工程师（7+年）→ 项目经理或技术总监。取得CPEng注册后晋升更快，薪资增幅显著。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on structural engineers is mixed: routine calculations and drafting tasks will be automated, but design decisions, compliance approvals, and on-site coordination still rely on human experience and responsibility, certified engineers may become even rarer.
+
+Career path: Junior engineer (2-3 years) → Mid-level engineer (4-6 years) → Senior/Lead engineer (7+ years) → Project manager or Technical director. Obtaining CPEng registration accelerates promotion with significant salary increases.
+
+**Tasks most exposed to AI:**
+
+- Routine structural calculations and finite element analysis (e.g. load combinations, preliminary member sizing)
+- Automated standard look-up and compliance checking
+- Drawing repetitive details in construction blueprints
+- Document management (e.g., auto-generating calculation sheets, report templates)
+
+**Where AI augments the role:**
+
+- Rapid generation of multi-option structural models for performance comparison
+- Real-time Structural Design Optimization (Reduce Material Usage, Lower Costs)
+- Automatically identify design conflicts and suggest adjustment strategies
+- Predict potential risks during construction phases based on historical project data
+- Integrate BIM with digital twins for lifecycle monitoring
+
+**Human moat:**
+
+- Key Design Decisions and Innovative Solution Development
+- Assess structural safety and compliance in ambiguous or new scenarios
+- Cross-disciplinary coordination (architecture, mechanical/electrical, construction) and communication.
+- Registered engineer's legal liability and professional signing authority
+- Emergency response to unforeseen on-site situations
+
+**Skills to build:**
+
+- Proficiency in parametric structural design tools (e.g., Grasshopper + Karamba3D)
+- Learning AI-assisted design software (e.g. Autodesk Forma, BIM 360 Analysis)
+- Improving programming skills (Python application in structure optimization)
+- Familiarity with digital twins and structural health monitoring systems
+- Strengthen project management and cross-team collaboration skills
+- Understanding Methods for Verification and Validation of AI-generated Results
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Structural engineers design and analyze load-bearing structures for buildings, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：优（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 可直接申请居留，无需工作满2年。需有新西兰认可雇主offer且满足学历/薪资要求（至少中位数薪资）。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，可通过学历、注册、薪资满足分数要求，适合有新西兰学历或工作经验者。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于找到雇主但尚未满足直接居留条件者，后期可转居民签证。 |
+| Subclass Green List T1 (Straight to Residence) | Can directly apply for residency without working for 2 years. Need a job offer from a New Zealand accredited employer and meet qualification/salary requirements (at least median wage). |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration system; can meet points through qualifications, registration, or salary; suitable for those with NZ qualifications or work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for those who have found an employer but not yet met direct residence conditions, can later convert to resident visa. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Structural Engineer？**
-- 擅长数学、物理和逻辑分析，对建筑结构有浓厚兴趣
-- 愿意投入长时间学习和考取注册资质
-- 有团队协作能力，适应项目制工作节奏
-
-**谁不适合学Structural Engineer？**
-- 不擅长严谨计算和细节检查，容易烦躁
-- 不喜欢反复修改方案或应对施工现场突发问题
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at math, physics, and logical analysis, with strong interest in building structures
+- Willing to invest time in long-term study and obtaining registered qualifications
+- Has teamwork skills, adapts to project-based work pace.
+
+**Who is not suited**
+- Not good at rigorous calculations and detail checking, easily irritated
+- Dislikes repeated revisions or dealing with on-site construction emergencies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for structural engineers in New Zealand?**
+A: Entry-level approximately NZD 60,000-80,000, mid-level 80,000-110,000, senior 120,000-150,000. Salary increases significantly after obtaining CPEng registration, and continues to rise with experience.
+
+**Q: What is the pathway for structural engineers to immigrate to New Zealand?**
+A: Preferred Green List direct residence visa, requires an accredited employer job offer and salary at median wage (approx. 29.66 NZD/hour). Alternatively, via SMC 6-point system, or hold AEWV and then apply for residence.
+
+**Q: What registrations are required for structural engineers in New Zealand?**
+A: Must obtain CPEng (Chartered Professional Engineer) qualification from Engineering New Zealand, typically requiring 3-5 years of experience and passing an interview. Some sectors also require specific certifications, such as structural safety certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 优（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 优（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Structural Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for structural engineers in New Zealand?**
-答：Entry-level: NZD 60,000-80,000; mid-level: NZD 85,000-110,000; senior: NZD 120,000-150,000. CPEng registration boosts salary significantly.
-
-**问：What is the migration pathway for structural engineers to New Zealand?**
-答：The best route is Green List Straight to Residence Visa, requiring a job offer from an accredited employer and salary at median wage (approx. NZD 29.66/hour). SMC 6-point system or AEWV to residence are also options.
-
-**问：What registration/license is required for structural engineers in New Zealand?**
-答：CPEng (Chartered Professional Engineer) from Engineering New Zealand is mandatory, requiring 3-5 years of experience and an interview. Some sectors may require additional certifications like Structural Safety.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

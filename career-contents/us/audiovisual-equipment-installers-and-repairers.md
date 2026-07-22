@@ -1,60 +1,92 @@
-# Audiovisual Equipment Installers and Repairers（Audiovisual Equipment Installers and Repairers）职业分析 · 美国
+# Audiovisual Equipment Installers and Repairers — career analysis · United States
 
-**职业代码：49-2097 – Audiovisual Equipment Installers and Repairers。**
+**Occupation code: 49-2097 (SOC)**
 
-Install, repair, or adjust audio, video, and other electronic entertainment equipment in homes or venues; perform routine maintenance.
+Install, repair, and commission audio, TV, camera, and other electronic entertainment equipment in residential or commercial premises; perform routine maintenance.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无需 | —（多数雇主提供在职培训） |
-| 社区学院/技术学校证书 | 1-2年 | $5,000~$15,000（电子技术或相关领域） |
+| High school diploma or equivalent | None | $0~$0 (Most employers provide on-the-job training) |
+| Community college/technical school certificate | 1-2 years | $5,000~$15,000 (Electronics technology or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子技术证书 | 社区学院或技术学校 | 可选 | 非必须但有助于就业 |
-| 制造商特定认证 | 如 Crestron、Extron 等 | 可选 | 提升竞争力 |
+| Certificate in Electronics Technology. | Community college or technical school | Optional | Not required but helpful for employment |
+| Manufacturer-specific certification | e.g., Crestron, Extron | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 27,000。美国视听设备安装维修职业就业增长平稳，预计2022-2032年增长约5%，受智能家居和商业视听系统需求推动，但自动化维修技术可能抑制部分岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 27,000. Employment for audio-visual equipment installers and repairers in the US is projected to grow about 5% from 2022-2032, driven by demand for smart home and commercial AV systems, but automated repair technologies may limit some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 学徒或初级安装员 |
-| 中级（4-7年） | $42,000~$55,000 | 独立安装维修员 |
-| 高级（8年以上） | $55,000~$75,000 | 高级技师或主管 |
+| Median salary | $52,600 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Apprentice or entry-level installer |
+| Mid-level (4-7 years) | $42,000~$55,000 | Independent installation and maintenance technician |
+| Senior (8+ years) | $55,000~$75,000 | Senior technician or supervisor |
+| average salary | $57,930 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级安装技术员起步，可晋升为高级维修专家或团队主管；部分人转向系统集成或音视频工程师，需积累经验并获取制造商认证。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Audiovisual equipment installers and repairers face compression from AI automating some diagnostics and troubleshooting tasks, but AI enhances field troubleshooting, remote collaboration, and system integration design. Demand for diverse skills; entry-level positions are squeezed by smart tools, but advanced service and customized installation retain human advantages.
+
+Start as a junior installation technician, advance to senior maintenance specialist or team supervisor; some transition to system integration or audio-visual engineer, requiring experience and manufacturer certifications.
+
+**Tasks most exposed to AI:**
+
+- Use AI diagnostic tools to automatically identify equipment fault codes, replacing manual repetitive troubleshooting
+- AI-driven automatic configuration systems (e.g., auto audio equalization, video correction) reducing manual adjustments
+- Remote monitoring and AI predictive maintenance, replacing regular on-site inspections
+- AI customer self-service troubleshooting guides, reducing need for junior technical support
+
+**Where AI augments the role:**
+
+- AI-assisted fault diagnosis system provides real-time repair suggestions, improving efficiency in solving complex problems
+- AR glasses overlay installation diagrams and wiring paths to enhance installation accuracy and speed.
+- AI-optimized audio/video parameter settings for quick best results
+- AI-driven inventory and parts forecasting to optimize spare parts management.
+
+**Human moat:**
+
+- Design customized system integration solutions in complex environments (e.g., large stages, multi-function meeting rooms)
+- Handling compatibility issues of non-standard equipment, legacy systems, and mixed products from multiple manufacturers
+- On-site client communication, understanding needs, and adaptability
+- Responsibility judgment and compliance execution involving safety regulations (e.g., electrical, fire protection)
+
+**Skills to build:**
+
+- Network protocols and IP audio/video technologies (AVoIP, Dante, NDI)
+- Scripting (Python/JavaScript) for automated configuration and system integration
+- AI/Machine learning basics, understanding principles of AI diagnostic tools
+- AR/VR device operation and virtual commissioning
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Smart Home Integration
 - Commercial AV Systems
@@ -63,62 +95,64 @@ Install, repair, or adjust audio, video, and other electronic entertainment equi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，但此职业通常不满足专业职位要求，雇主担保困难。 |
-| Subclass Green Card (PERM)（EB-3 Skilled Worker） | 需证明劳工短缺，但此职业非高技能，PERM申请挑战大。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, but this occupation typically does not meet professional position requirements, making employer sponsorship difficult. |
+| Subclass Green Card (PERM) (EB-3 Skilled Worker) | must demonstrate labor shortage, but this occupation is not high-skilled, making PERM applications challenging. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Audiovisual Equipment Installers and Repairers？**
-- 喜欢动手修理电子设备
-- 能够灵活适应不同工作地点
-- 对音视频技术有热情
+**Who is suited**
+- Enjoy hands-on electronic device repair
+- Able to adapt flexibly to different work locations.
+- Passion for audio and video technology
 
-**谁不适合学Audiovisual Equipment Installers and Repairers？**
-- 期待高薪或快速晋升
-- 不愿出差或在现场工作
+**Who is not suited**
+- Expecting high salary or rapid promotion
+- Unwilling to travel or work on-site.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for audiovisual equipment installers and repairers?**
+A: Entry-level annual salary approx. $32,000-$42,000, senior can reach $55,000-$75,000, lower than the US average overall.
+
+**Q: Can I immigrate to the US as this occupation through skilled migration?**
+A: Very difficult; typically does not meet H-1B professional position requirements; employer-sponsored PERM green card is also extremely challenging; consider other occupations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Audiovisual Equipment Installers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for audiovisual equipment installers?**
-答：Entry-level salaries range from $32,000 to $42,000; experienced technicians can earn $55,000 to $75,000 annually.
-
-**问：Can this occupation lead to a US work visa?**
-答：It is extremely difficult; typically does not meet H-1B specialty occupation criteria, and PERM sponsorship is challenging.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

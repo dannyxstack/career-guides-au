@@ -1,60 +1,90 @@
-# Crane, Hoist and Lift Operator（Crane, Hoist and Lift Operator）职业分析 · ES
+# Crane, Hoist and Lift Operator — career analysis · Spain
 
-**职业代码：8332 – Crane, Hoist and Lift Operator。**
+**Occupation code: 8332 (CNO)**
 
-Operates cranes, forklifts, hoists and similar material handling equipment to load, unload and transport goods in warehouses, ports and construction sites. Performs daily checks, safe operation and basic maintenance.
+Operate material handling equipment such as cranes, forklifts, and hoists, and load, unload, and transport goods at warehouses, ports, construction sites, and other locations. Responsible for daily equipment inspection, safe operation, and basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年（FP Grado Medio） | —（公立学校免费，私立约2000-4000欧元） |
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | —（公立免费，私立约2500-5000欧元） |
+| Vocational Training (FP Grado Medio) | 2 years (FP Grado Medio) | $0~$4,000 (Public schools are free, private ones about 2000-4000 euros) |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $0~$5,000 (Public schools are free, private ones about 2,500-5,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作证（Carnet de Carretillero） | Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) | 必备 | 强制性，需通过培训和考试 |
-| 起重机操作证（Carnet de Operador de Grúa） | INSST | 可选 | 根据起重机型式可选，部分岗位强制 |
+| Forklift operator certificate (Carnet de Carretillero) | Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) | Required | Mandatory and requires training and examination |
+| Crane Operation Certificate (Carnet de Operador de Grúa) | INSST | Optional | Optional depending on crane type, mandatory for some positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 95,000。西班牙物流和建筑业持续增长，港口贸易和电商仓储对物料搬运设备操作员需求稳定。自动化趋势可能影响部分岗位，但熟练操作员仍将短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 95,000. Spain's logistics and construction industries continue to grow, with stable demand for material handling equipment operators in port trade and e-commerce warehousing. The automation trend may affect some positions, but skilled operators will remain in short supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班及补贴 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含技能津贴 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含主管津贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including overtime and subsidies |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, including skills allowance |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级叉车操作员晋升为高级起重机操作员、团队主管或设备调度员。积累经验后可考取更高级别操作证，或转向设备维修、物流管理岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Crane operators face mixed impacts from AI/automation: high-precision tasks (e.g., lift path planning) will be enhanced, but routine monitoring operations may be automated, requiring a shift to remote control and smart construction sites.
+
+Promotion from junior forklift operator to senior crane operator, team supervisor, or equipment dispatcher. After gaining experience, you can obtain higher-level operation certificates or move on to equipment maintenance or logistics management positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic lifting path planning and correction based on cameras and sensors
+- Basic monitoring and alarm response (AI real-time monitoring of load, wind speed, etc.)
+- Simple lifting tasks with low precision requirements (e.g., precast component lifting)
+
+**Where AI augments the role:**
+
+- AI-assisted real-time load calculation and anti-sway control to improve lifting accuracy and efficiency
+- Simulate complex lifting plans via digital twins to reduce trial lift risks
+- Remote control center integrating multi-source data (weather, site layout) to optimize multi-machine coordination
+
+**Human moat:**
+
+- Human Decision-Making and Emergency Response in High-Risk Environments (e.g., sudden strong winds, equipment failure)
+- On-site condition assessment and fine-tuning (e.g., foundation settlement, confined space operations)
+- Efficient communication and coordination with ground command teams (unstructured environments)
+- Licensed compliance and safety responsibility attribution (legal and insurance requirements mandate human accountability)
+
+**Skills to build:**
+
+- Remote Console Operation and Multi-Machine Coordination Systems
+- Digital twin simulation and scenario simulation for intelligent cranes
+- Basic data analysis and anomaly identification (sensor data interpretation)
+- Basic use of BIM and construction site IoT platforms
+- Advanced lifting plan design and calculation (e.g., wind turbine blade installation)
+
+**Key growth areas:**
 
 - Logistics
 - Warehousing
@@ -63,65 +93,67 @@ Operates cranes, forklifts, hoists and similar material handling equipment to lo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，证明岗位无法在本地市场填补。适合有经验的操作员。 |
-| Subclass Busqueda empleo（Job-seeking visa） | 允许在西班牙停留6个月寻找工作，找到工作后可转为工作居留。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, proving that the position cannot be filled in the local market. Suitable for experienced operators. |
+| Subclass Busqueda empleo (Job-seeking visa) | You are allowed to stay in Spain for 6 months to look for work, and after finding a job, you can convert to working residence. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crane, Hoist and Lift Operator？**
-- 喜欢动手操作、注重安全规范的人
-- 希望在物流、建筑行业稳定就业的人
-- 愿意接受轮班和户外工作的人
+**Who is suited**
+- People who enjoy hands-on operations and pay attention to safety and regulations
+- People who hope to find stable employment in the logistics and construction industries
+- Those willing to accept shift work and outdoor work
 
-**谁不适合学Crane, Hoist and Lift Operator？**
-- 不擅长体力劳动或高空作业的人
-- 追求办公室环境和固定周末休息的人
+**Who is not suited**
+- People not suited for physical labor or working at heights
+- People who seek an office environment and a fixed weekend off
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for crane operators in Spain?**
+A: Entry-level annual salary around €18,000-22,000, mid-level €22,000-28,000, senior up to €35,000. Overtime and night shift allowances are common.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: The difficulty is quite high. This occupation is not a high-skilled shortage occupation; employer-sponsored work residency (Cuenta ajena) is required, and it must be proven that the position cannot be filled locally. EU citizens enjoy free movement.
+
+**Q: What certificates are required to operate forklifts or cranes?**
+A: The forklift operator license (Carnet de Carretillero) is mandatory and issued by INSST. The crane operation certificate (Carnet de Operador de Grúa) can be selected or mandatory depending on the model of the machine.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Crane, Hoist and Lift Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for crane operators in Spain?**
-答：Entry-level annual salary is around €18,000-22,000, mid-level €22,000-28,000, senior up to €35,000. Overtime and night shift allowances are common.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It's difficult. This occupation is not a high-skilled shortage occupation; it requires employer sponsorship (Cuenta ajena) and proof that the position cannot be filled locally. EU citizens have free movement.
-
-**问：What certifications are needed to operate forklifts or cranes?**
-答：Forklift license (Carnet de Carretillero) is mandatory, issued by INSST. Crane operator license (Carnet de Operador de Grúa) is optional or mandatory depending on crane type.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

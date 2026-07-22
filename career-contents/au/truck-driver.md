@@ -1,71 +1,101 @@
-# 卡车司机（Truck Driver (General)）职业分析 · 澳大利亚
+# Truck Driver — career analysis · Australia
 
-**职业代码：733111 – Truck Driver (General)。**
+**Occupation code: 733111 (ANZSCO)**
 
-卡车司机驾驶重型货运卡车（HR/HC/MC）运输货物，覆盖城市配送、长途公路运输和矿业重型物料运输。澳大利亚物流行业庞大，卡车司机长期短缺，是技术移民中较受欢迎的运输类职业。
+Truck drivers operate heavy freight vehicles (HR/HC/MC) to transport goods across urban delivery, long-haul road transport and heavy mining haulage. Australia's logistics industry is large and truck drivers are in long-term shortage, making this one of the more popular transport occupations for skilled migrants.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 重型车驾驶执照培训（HR / HC / MC Licence） | 1~4周（视执照类型） | $1,500~$5,000（HR 约 $1,500~$2,500；HC 约 $2,500~$4,000；MC（Road Train）约 $4,000~$5,000+） |
-| 危险品运输资质（ADG / DG Licence） | 1~2天 | $300~$600（运输危险品的额外资质，薪资溢价） |
-| Certificate III in Driving Operations（可选） | 3~6个月 | —（各州补贴，提升就业竞争力） |
+| Heavy vehicle licence training (HR / HC / MC Licence) | 1–4 weeks (depending on licence type) | $1,500~$5,000 (HR approx. $1,500–$2,500; HC approx. $2,500–$4,000; MC (Road Train) approx. $4,000–$5,000+) |
+| Dangerous Goods transport certification (ADG / DG Licence) | 1–2 days | $300~$600 (Additional qualifications for transporting dangerous goods, with a salary premium) |
+| Certificate III in Driving Operations (optional) | 3–6 months | $0~$800 (State government subsidies to boost employment competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Heavy Rigid Licence (HR) | 各州交通局 / TMC | 必备 | 驾驶刚性重型卡车的标准执照 |
-| Heavy Combination Licence (HC) | 各州交通局 / TMC | 可选 | 驾驶半挂卡车/拖挂车的执照，薪资提升显著 |
-| Multi-Combination Licence (MC) | 各州交通局 / TMC | 可选 | 驾驶Road Train（公路列车），WA长途运输必须 |
-| Dangerous Goods Certificate (ADG) | 认可RTO | 可选 | 运输危险品额外资质，薪资溢价10~15% |
+| Heavy Rigid Licence (HR) | State transport authorities / TMC | Required | Standard licence for driving rigid heavy trucks |
+| Heavy Combination Licence (HC) | State transport authorities / TMC | Optional | Licence to drive semi-trailer/articulated vehicles, with a significant salary uplift |
+| Multi-Combination Licence (MC) | State transport authorities / TMC | Optional | Driving Road Trains, required for long-haul transport in WA |
+| Dangerous Goods Certificate (ADG) | Approved RTO | Optional | Additional qualification for transporting dangerous goods, with a 10–15% salary premium |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 200,000。Jobs and Skills Australia 预测运输和物流行业至2030年缺口持续扩大。电商最后一公里配送和矿业运输是两大持续增量方向。
+**Job demand: very high (★★★★★).** National workforce approx. 200,000. Jobs and Skills Australia projects a persistent shortfall in the transport and logistics sector through to 2030. E-commerce last-mile delivery and mining transport are the two main areas of sustained growth.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 5,000~9,000 个 | 全国，含城市配送、长途和矿业运输，是挂牌量最多的职业之一 |
-| Indeed | 3,000~5,000 个 | 含兼职、合同工和过夜长途 |
-| LinkedIn | 500~1,200 个 | 偏物流企业直招和车队管理岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新手 HR 司机（0~2年） | $55,000~$70,000 | 城市配送，Road Transport Award 最低工资 |
-| HC 司机（2~5年） | $70,000~$88,000 | 半挂拖运，含夜班/长途溢价 |
-| HC/MC 长途司机（5年+） | $88,000~$110,000 | Indeed 全国平均约 $37.63/hr（约 $78k~$85k）；HC+加班约 $95k |
-| Road Train MC 司机（WA） | $100,000~$130,000 | WA 公路列车（Road Train）MC执照司机薪资最高 |
-| 矿业 FIFO 重型运输司机（WA/QLD） | $120,000~$170,000 | 矿区重型车辆运输，轮班津贴+FIFO补贴 |
+| Median salary | $101,920 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level HR driver (0–2 years) | $55,000~$70,000 | Urban delivery, minimum wage under the Road Transport Award |
+| HC driver (2–5 years) | $70,000~$88,000 | Semi-trailer haulage, including night shift / long-haul loadings |
+| HC/MC long-haul driver (5+ years) | $88,000~$110,000 | Indeed national average approximately $37.63/hr (around $78k–$85k); with HC and overtime approximately $95k |
+| Road Train MC Driver (WA) | $100,000~$130,000 | WA road train (Road Train) MC licence drivers command the highest salaries |
+| Mining FIFO heavy transport driver (WA/QLD) | $120,000~$170,000 | Heavy vehicle transport in mining sites, with shift allowances and FIFO supplements |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较佳（★★★★☆）。** 电商配送、矿业重型运输和基建项目驱动需求。自动驾驶卡车处于测试阶段，短期内无法在复杂公路条件下商业化替代人工驾驶。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
+
+Demand is driven by e-commerce delivery, heavy transport in mining, and infrastructure projects. Autonomous trucks are still in the testing phase and cannot commercially replace human drivers on complex road conditions in the short term.
+
+**Tasks most exposed to AI:**
+
+- Long-distance highway driving (autonomous truck pilot programs)
+- Basic route planning and GPS navigation adjustments
+- Basic vehicle status monitoring and routine inspection recording
+- Standardized cargo handling (integration with automated warehousing)
+- Fatigue driving risk detection (AI takeover warning)
+
+**Where AI augments the role:**
+
+- Dynamic route optimization (real-time traffic, weather, queue times)
+- Vehicle maintenance prediction (AI analysis engine data for early warning)
+- Delivery confirmation and customer communication (auto-photo, e-signature)
+- Multimodal transport coordination (rail, port, warehouse system integration)
+- Driving safety assistance (collision warning, blind spot monitoring)
+
+**Human moat:**
+
+- Complex loading/unloading and on-site flexibility (e.g., construction sites, refrigerated trucks)
+- Driving on unstructured roads in remote areas
+- Customer relationships and non-standard delivery requirements
+- Rapid decision-making in emergencies (accidents, failures)
+- Compliance and safety responsibilities (cargo inspection, dangerous goods transport)
+
+**Skills to build:**
+
+- Autonomous driving system operation and monitoring
+- Use of logistics scheduling software and multimodal transport platforms
+- Basic Maintenance of New Energy Trucks (Electric/Hydrogen)
+- Safety compliance and digital document management
+- Customer communication and on-site problem solving
+- Basic data analysis (fuel efficiency, route optimization)
+
+**Key growth areas:**
 
 - Long-Haul Freight & Road Trains
 - Mining & Resources FIFO Haulage
@@ -75,90 +105,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，需CSOL在列，部分卡车司机职类已纳入 |
-| Subclass 186（ENS） | 雇主担保永居，需较长在澳工作经验 |
-| Subclass 190（Skilled Nominated） | 部分州提名，WA对重型驾驶员有较大需求 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名，矿业和农业物流运输地区机会较多 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; requires inclusion on the CSOL; some truck driver occupational categories have been included |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency requires substantial Australian work experience |
+| Subclass 190 (Skilled Nominated) | Some state nominations available; WA has strong demand for heavy vehicle drivers |
+| Subclass 491 (Skilled Work Regional) | Regional nomination; more opportunities in mining and agricultural logistics and transport regions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学卡车司机？**
-- 有重型车驾驶经验，希望快速来澳就业
-- 接受长途过夜驾驶或FIFO矿业运输模式
-- 目标是矿业高薪（$120k~$170k）或长途Road Train路线
-- 作为技能移民的过渡职业，取证快、就业快
-
-**谁不适合学卡车司机？**
-- 有明显晕动症或不适合长时间驾驶
-- 担忧自动驾驶替代（长期看此风险真实存在）
-- 无法接受长途过夜或FIFO远离家庭的工作模式
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has heavy vehicle driving experience and is looking for fast employment pathways to Australia
+- Willing to undertake long-haul overnight driving or FIFO mining transport roles
+- Aim for high-paying mining jobs ($120k-$170k) or long-haul Road Train routes.
+- A transitional occupation for skilled migration — quick to certify and quick to find employment
+
+**Who is not suited**
+- Prone to motion sickness or unsuitable for extended driving
+- Concern about autonomous vehicles replacing the role (this risk is real in the long term)
+- Unable to accept long-haul overnight travel or FIFO arrangements away from family
+
+---
+
+## 8. FAQ
+
+**Q: How much do truck drivers earn in Australia?**
+A: HC long-haul truck drivers earn approximately $88,000–$110,000 per year; mining FIFO heavy transport can reach $120k–$170k; Road Train MC drivers in WA can earn $100k–$130k.
+
+**Q: Is it easy to find work as a truck driver in Australia?**
+A: Very easy. Seek consistently lists 5,000–9,000 positions and is one of the highest-volume occupations on the platform; HC/MC long-haul truck drivers are in extreme shortage.
+
+**Q: Is a Chinese heavy vehicle licence recognised in Australia?**
+A: Not directly recognised. You will need to obtain the relevant heavy vehicle licence category (HR/HC/MC) in Australia; those with prior heavy vehicle driving experience generally pass the tests more quickly.
+
+**Q: Will truck drivers be replaced by autonomous vehicles?**
+A: Moderate risk, but limited in the short term. Autonomous trucks (e.g. Rio Tinto AHS mining trucks) are already operating in closed mine sites, but large-scale commercial autonomous long-haul road transport is unlikely before 2030.
+
+**Q: Is there an age limit for truck drivers in Australia?**
+A: No legal upper limit, but heavy long-haul driving is advisable under 55. No age restriction on the licence itself; skilled migration points scoring offers no bonus for applicants aged 45 and over.
+
+**Q: Do truck drivers in Australia need a university degree?**
+A: Not at all. Holding the appropriate class of heavy vehicle licence is sufficient — it is one of the highest-paying occupations with the lowest entry barriers.
+
+**Q: Is it difficult to get a truck driver licence in Australia?**
+A: Certification difficulty is relatively low. It mainly involves driving skills and an Australian road rules test; those with heavy vehicle driving experience typically obtain their licence within 1–4 weeks.
+
+**Q: Which is better for migrating to Australia — truck driver or forklift operator?**
+A: Truck drivers earn higher salaries (HC ~$90k+ vs forklift ~$75k), have clearer PR pathways, and more high-paying mining FIFO opportunities. Forklift licensing is faster to obtain (1–3 days), making it a good transitional option for quick employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Indeed AU | 卡车司机平均时薪 $37.63（2026） |
-| SEEK AU | 卡车司机薪资及职位需求数据（2026） |
-| Australian Trucking Association | 行业短缺报告和薪资标准 |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 较佳（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较高（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-卡车司机为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲卡车司机工资多少？**
-答：HC长途司机年薪约 $88,000~$110,000；矿业FIFO重型运输可达 $120k~$170k；Road Train MC司机在WA可达 $100k~$130k。
-
-**问：澳洲卡车司机容易找工作吗？**
-答：极容易。Seek 常年挂牌 5,000~9,000 个职位，是所有职业中挂牌量最多之一，HC/MC长途司机极度短缺。
-
-**问：中国重型驾照澳洲认可吗？**
-答：不直接认可。需在澳考取对应类别（HR/HC/MC）的重型车执照，有国内重型驾驶经验者通常可较快通过考试。
-
-**问：卡车司机会被自动驾驶替代吗？**
-答：中等风险，但短期有限。自动驾驶卡车（如Rio Tinto AHS矿用卡车）已在封闭矿区运营，但公路长途运输的商业化自动驾驶2030前难以大规模普及。
-
-**问：澳洲卡车司机有年龄限制吗？**
-答：法律上无上限，但重型长途驾驶建议55岁以下。驾照无年龄限制，移民打分45岁以上无加分。
-
-**问：澳洲卡车司机需要大学学历吗？**
-答：完全不需要。持有对应类别重型车执照即可，是准入门槛最低的高薪类职业之一。
-
-**问：澳洲卡车司机难学吗？**
-答：取证难度较低。主要是驾驶技能和澳洲道路法规考试，有国内重型驾驶经验者通常 1~4周即可取证。
-
-**问：卡车司机和叉车操作员哪个更适合移民澳洲？**
-答：卡车司机薪资更高（HC ~$90k+ vs 叉车 ~$75k），PR路径更清晰，矿业FIFO高薪机会更多。叉车入门更快（1~3天取证），适合快速就业的过渡选择。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

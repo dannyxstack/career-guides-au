@@ -1,59 +1,94 @@
-# Actuary（Actuary）职业分析 · 新西兰
+# Actuary — career analysis · New Zealand
 
-**职业代码：224111 – Actuary。**
+**Occupation code: 224111 (ANZSCO)**
 
-Actuaries use mathematical and statistical methods to assess financial risks in insurance and pensions. This is a high-skilled shortage occupation in New Zealand with a clear Green List migration pathway.
+Actuaries use mathematical and statistical methods to assess financial risks such as insurance and pensions, and are high-skilled shortage occupations in New Zealand. Can apply for residency directly via the Green List, with a clear immigration path.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（精算/数学/统计） | 3年 | $30,000~$40,000（国际生学费，奥克兰大学等） |
-| 研究生文凭（精算科学） | 1年 | $25,000~$35,000（如惠灵顿维多利亚大学） |
+| Bachelor's degree (Actuarial Science/Mathematics/Statistics) | 3 years | $30,000~$40,000 (International student tuition, University of Auckland etc.) |
+| Postgraduate Diploma (Actuarial Science) | 1 year | $25,000~$35,000 (Such as Victoria University of Wellington) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算师协会准会员（Associate） | 新西兰精算师协会 (NZSA) | 必备 | 通过专业考试，是执业基本要求 |
-| 精算师协会正会员（Fellow） | 新西兰精算师协会 (NZSA) | 可选 | 资深标志，考试+经验 |
-| 雅思总分7.0（各单项≥6.5） | IELTS | 必备 | 移民语言要求 |
+| Associate of the Institute of Actuaries | New Zealand Society of Actuaries (NZSA) | Required | Passing professional exams is a basic licensing requirement |
+| IELTS overall 7.0 (each band ≥ 6.5) | IELTS | Required | Immigration language requirement |
+| Fellow of the Society of Actuaries | New Zealand Society of Actuaries (NZSA) | Optional | Senior credential, exam + experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 500。新西兰精算师需求稳定，受保险和养老金市场驱动。数字保险与气候变化风险评估带来新机遇，但从业人数少，竞争适中。预计未来5年就业增长约5%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 500. Demand for actuaries in New Zealand is stable, driven by insurance and pension markets. Digital insurance and climate change risk assessment bring new opportunities, but the workforce is small with moderate competition. Expected employment growth of about 5% in the next 5 years.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 应届或准会员 |
-| 中级（3-6年） | $90,000~$130,000 | 准会员或经验晋升 |
-| 高级（6年+） | $140,000~$200,000 | 正会员或管理层 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Fresh graduate or associate member |
+| Mid-level (3–6 years) | $90,000~$130,000 | Associate membership or promotion through experience |
+| Senior (6+ years) | $140,000~$200,000 | Full member or management level |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级分析师晋升至精算师需通过专业考试（约5-8年）。资深后可担任首席精算师或风险总监，也可跨行业进入银行、投资领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
+
+Advancement from junior analyst to actuary requires passing professional exams (about 5-8 years). Senior roles can become chief actuary or risk director, or move into banking and investment sectors.
+
+**Tasks most exposed to AI:**
+
+- Manual data cleaning and preprocessing, e.g., extracting and standardizing insurance data from legacy systems
+- Generating first drafts of standard actuarial reports and regulatory filings
+- Recurring rate calculations and simple reserve assessments
+- Maintain and run parametric tasks for traditional actuarial models
+
+**Where AI augments the role:**
+
+- Leveraging AI simulations and machine learning models for more precise risk modeling and forecasting
+- Automated sensitivity analysis and scenario testing to quickly assess multivariate impacts
+- Analyzing claims text and contract clauses via natural language processing to improve risk assessment
+- Dynamic pricing models: AI updates pricing strategies in real time, actuaries set rules and boundaries
+- Client and regulatory communication: AI generates visual dashboards; actuary interprets and provides advice
+
+**Human moat:**
+
+- Deep industry knowledge and regulatory compliance understanding of financial products such as insurance and superannuation
+- Professional judgment and ethical decision-making in complex, non-linear risk situations
+- Ability to communicate strategically and explain results to senior management and regulators
+- Creativity and business insight needed when designing innovative insurance products
+- Holistic thinking for interdisciplinary integration (e.g., climate risk, longevity risk)
+
+**Skills to build:**
+
+- Python or R programming for building and deploying AI models
+- Machine learning and statistical modeling (e.g., gradient boosting, neural networks)
+- AI governance and explainability (XAI), ensuring models are compliant and interpretable
+- Data engineering basics (SQL, ETL, cloud platforms like AWS/Azure)
+- Communication and visualization (Tableau/Power BI) and business report writing.
+- Knowledge of actuarial software (e.g., Prophet, AXIS) integration with AI
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Actuaries use mathematical and statistical methods to assess financial risks in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Straight to Residence） | 可直接申请居留，无需先工作。需满足薪资中位数（时薪$31.61+）及NZSA准会员资格。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，有工作offer及工作经验可获积分。需满60分（海外学历+工作经验） |
-| Subclass AEWV（Accredited Employer Work Visa） | 如不符合直录居留，可先持此工签工作两年后申请居留。 |
+| Subclass Green List T1 (Green List Straight to Residence) | Can apply for residence directly without working first. Must meet the median salary (hourly $31.61+) and NZSA associate membership. |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: points awarded for job offer and work experience. Must meet 60 points (overseas qualifications + work experience) |
+| Subclass AEWV (Accredited Employer Work Visa) | If not eligible for direct residence, you can first work on this visa for two years and then apply for residence. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Actuary？**
-- 数学与统计能力强，喜欢解决复杂问题
-- 愿意投入多年考取专业资格
-- 希望在金融行业获得高薪与稳定发展
-
-**谁不适合学Actuary？**
-- 不喜欢长时间考试与认证压力
-- 偏好快速从学校进入职场，不愿长期培训
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong math and statistics skills, enjoys solving complex problems.
+- Willing to invest years to obtain professional qualifications
+- Wishing to obtain high salary and stable development in the financial industry
+
+**Who is not suited**
+- Dislikes long exams and certification pressure
+- Prefer quick transition from school to workplace, unwilling to undergo long training
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for actuaries in New Zealand?**
+A: Junior salary approx. NZ$65,000-85,000/year, mid-level $90,000-130,000, senior $140,000-200,000+, depending on experience and certifications.
+
+**Q: Can actuaries immigrate to New Zealand via the Green List?**
+A: Yes. Actuaries are on the Green List Tier 1, meeting salary requirements and NZSA associate membership to directly apply for residency.
+
+**Q: What certifications are needed to become an actuary in New Zealand?**
+A: Must become an Associate or Fellow member of the New Zealand Society of Actuaries (NZSA) and pass exams from the Australian and New Zealand Institute of Actuaries (ANZIA).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Actuary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for actuaries in NZ?**
-答：Entry-level: NZD 65k-85k; mid-level: NZD 90k-130k; senior: NZD 140k-200k+ depending on experience and qualifications.
-
-**问：Can actuaries immigrate to NZ via the Green List?**
-答：Yes. Actuary is on Green List Tier 1. You can apply for direct residence if you meet salary threshold and have NZSA Associate membership.
-
-**问：What certification is required to work as an actuary in NZ?**
-答：You need to be an Associate or Fellow of the New Zealand Society of Actuaries (NZSA) via exams from the Australian and New Zealand Institute of Actuaries (ANZIA).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

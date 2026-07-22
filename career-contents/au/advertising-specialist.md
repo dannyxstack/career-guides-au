@@ -1,61 +1,95 @@
-# Advertising Specialist（Advertising Specialist）职业分析 · 澳大利亚
+# Advertising Specialist — career analysis · Australia
 
-**职业代码：225111 – Advertising Specialist。**
+**Occupation code: 225111 (ANZSCO)**
 
-Advertising Specialists plan, coordinate and execute advertising campaigns, conducting market research to develop strategies, create copy, and select media channels to boost brand awareness and product sales.
+Advertising specialists plan, coordinate, and execute advertising campaigns, formulate strategies through market research, write copy, and select media channels to enhance brand awareness and product sales.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（澳洲大学商科或市场营销本科，年均学费约1-1.7万澳元） |
-| 硕士 | 1.5-2年 | $40,000~$60,000（市场营销或广告硕士，年均学费约2-3万澳元） |
-| 文凭 | 1年 | $10,000~$20,000（TAFE广告或数字营销文凭，适合转行者） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Australian university bachelor's degree in business or marketing, average annual tuition approximately AUD 10,000-17,000.) |
+| Master's degree | 1.5-2 years | $40,000~$60,000 (Marketing or Advertising master's degree, average annual tuition about AUD 20,000-30,000) |
+| Diploma | 1 year | $10,000~$20,000 (TAFE advertising or digital marketing diploma, suitable for career changers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销学士 | 澳洲大学 | 可选 | 常见入学要求，大部分雇主偏好 |
-| 广告或市场营销硕士 | 澳洲大学 | 可选 | 可提升竞争力 |
-| 数字营销认证 | Google、Facebook等 | 可选 | 如Google Ads认证，加分项 |
-| 职业评估 | VETASSESS | 必备 | 技术移民需通过VETASSESS评估，需相关学历和工作经验 |
+| Skills assessment | VETASSESS | Required | Skilled migration requires a VETASSESS assessment, relevant qualifications, and work experience |
+| Bachelor of Marketing | Australian universities | Optional | Common entry requirements, most employers prefer |
+| Master's degree in advertising or marketing | Australian universities | Optional | Can enhance competitiveness |
+| Digital marketing certification | Google, Facebook, etc. | Optional | E.g., Google Ads certification, a bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。澳洲广告业持续增长，受数字化转型和在线广告需求驱动。预计未来五年就业岗位稳步增加，竞争激烈但机遇多，尤其在悉尼和墨尔本。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. The Australian advertising industry continues to grow, driven by digital transformation and demand for online advertising. Employment is expected to increase steadily over the next five years, with fierce competition but many opportunities, especially in Sydney and Melbourne.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 入门级广告专员，通常需学士学位 |
-| 中级（3-6年） | $75,000~$100,000 | 有经验者，可独立管理项目 |
-| 高级（6年以上） | $100,000~$130,000 | 高级专员或经理，含奖金 |
+| Median salary | $101,764 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Entry-level advertising specialist, usually requiring a bachelor's degree |
+| Mid-level (3–6 years) | $75,000~$100,000 | Experienced, can independently manage projects. |
+| Senior (6+ years) | $100,000~$130,000 | Senior Officer or Manager, Including Bonuses |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级广告专员可晋升为高级专员、广告经理、创意总监或客户总监。也可转向数字营销、品牌管理或媒体策划等方向。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will automate ad placement and data reporting, but strategic creativity and client relationships remain core; overall job demand stable, skill requirements upgraded.
+
+Junior advertising specialists can advance to senior specialist, advertising manager, creative director, or account director. They can also move into digital marketing, brand management, or media planning.
+
+**Tasks most exposed to AI:**
+
+- Programmatic ad placement and optimization
+- Basic ad copy generation and A/B testing
+- Ad campaign data reporting and preliminary analysis
+- Media resource price comparison and procurement
+
+**Where AI augments the role:**
+
+- Using AI for audience insights and precise targeting
+- Quickly generate creative materials using AI tools
+- Use machine learning to analyze ad performance and optimize strategies
+- Automated multi-channel ad placement and budget allocation
+- Use natural language generation to write personalized marketing copy
+
+**Human moat:**
+
+- Brand strategy and creative direction decision-making
+- Customer relationship management and deep need insight
+- Cross-media integrated marketing planning skills
+- Compliance risk judgment and ethical oversight
+
+**Skills to build:**
+
+- Advanced Digital Advertising Platform Operations (e.g., Google Ads, Facebook Ads Manager)
+- Data analysis and visualization (SQL, Tableau, Python)
+- AI-assisted creative tools (e.g., Jasper, DALL·E).
+- Marketing automation tools (HubSpot, Marketo)
+- Customer relationship management (CRM) and communication skills
+- A/B testing and experimental design methodology
+
+**Key growth areas:**
 
 - Digital Advertising
 - Social Media Marketing
@@ -64,69 +98,68 @@ Advertising Specialists plan, coordinate and execute advertising campaigns, cond
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 需雇主担保，职业在CSOL上，工作经验要求 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居，需获得州提名，职业在州担保清单上 |
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，需高分，职业在MLTSSL上（广告专员不在MLTSSL，通常走190） |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保，临时签证转永居 |
+| Subclass 482 (Skills in Demand Visa) | Requires employer sponsorship, occupation on CSOL, work experience required |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, requires state nomination; occupation must be on the state nomination list |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled migration requires high scores, occupation must be on MLTSSL (Advertising Specialist is not on MLTSSL, usually goes through 190) |
+| Subclass 491 (Skilled Work Regional Visa) | Remote area state sponsorship, temporary visa to permanent residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Advertising Specialist？**
-- 具备创意和写作能力，喜欢策划活动的人
-- 对市场趋势敏感，善于数据分析的人
-- 沟通能力强，能适应快节奏团队合作的人
-
-**谁不适合学Advertising Specialist？**
-- 厌恶压力，无法应对截止日期的人
-- 不擅长数字工具和社交媒体的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and writing skills who enjoy planning events
+- Those sensitive to market trends and skilled in data analysis
+- People with strong communication skills who can adapt to fast-paced team collaboration
+
+**Who is not suited**
+- People who dislike pressure and cannot handle deadlines
+- People who are not good with digital tools and social media
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Advertising Specialist in Australia?**
+A: Depending on experience, entry-level approx. AUD 55,000-75,000, mid-level $75,000-100,000, senior $100,000-130,000. Sydney and Melbourne are usually higher.
+
+**Q: Can an advertising specialist immigrate to Australia through skilled migration?**
+A: Yes, but must pass a VETASSESS skills assessment, usually requiring a bachelor's degree in a related field plus 1 year of work experience. This occupation is on the CSOL and can apply for visa subclasses 482, 190, 491.
+
+**Q: What are the career development paths for an Advertising Specialist?**
+A: Can progress from junior specialist to senior specialist, advertising manager, creative director, or account director. Can also move into digital marketing, brand management, or media planning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Advertising Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Advertising Specialist in Australia?**
-答：Entry-level: AUD 55,000-75,000; mid-level: AUD 75,000-100,000; senior: AUD 100,000-130,000. Higher in Sydney and Melbourne.
-
-**问：Can Advertising Specialists migrate to Australia via skilled migration?**
-答：Yes, through VETASSESS assessment requiring a relevant bachelor's degree plus one year work experience. The occupation is on CSOL, eligible for 482, 190, and 491 visas.
-
-**问：What are the career progression paths for an Advertising Specialist?**
-答：From junior to senior specialist, advertising manager, creative director, or account director. Also possible to move into digital marketing, brand management, or media planning.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

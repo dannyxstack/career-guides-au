@@ -1,62 +1,98 @@
-# Career/Technical Education Teachers, Middle School（Career/Technical Education Teachers, Middle School）职业分析 · 美国
+# Career/Technical Education Teachers, Middle School — career analysis · United States
 
-**职业代码：25-2023 – Career/Technical Education Teachers, Middle School。**
+**Occupation code: 25-2023 (SOC)**
 
-Teach occupational, vocational, or technical subjects to middle school students, preparing them for high school or careers. Excludes special education and substitute teachers.
+Teach career, technical, or trade-related subjects in U.S. junior high or middle schools to prepare students for high school or employment, excluding special education and substitute teachers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费约1-2.5万美元） |
-| 教师资格证书 | 1-2年 | $5,000~$15,000（包括考试和实习费用） |
-| 硕士学位（可选） | 2年 | $30,000~$60,000（有助于晋升和加薪） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities is about USD 10,000-25,000.) |
+| Teaching qualification | 1-2 years | $5,000~$15,000 (Includes exam and internship fees) |
+| Master's degree (optional) | 2 years | $30,000~$60,000 (Helps with promotion and salary increases.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认证大学 | 必备 | 通常需教育或职业技术相关专业 |
-| 州教师资格证 | 州教育委员会 | 必备 | 需通过Praxis考试和实习 |
-| 背景调查 | 州政府 | 必备 | 所有公立学校教师必须通过 |
+| Bachelor's degree | Accredited university | Required | Usually requires a degree in education or vocational training related fields |
+| State Teacher License | State Board of Education | Required | Must pass the Praxis exam and internship |
+| Background check | State government | Required | All public school teachers must pass |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。美国中学职业技术教师需求稳定，因职业教育日益受重视；预计2022-2032年就业增长约3%，略低于平均水平，但退休和转岗带来一定空缺。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. Demand for secondary school career and technical education teachers in the U.S. is stable as vocational education gains importance; employment is projected to grow about 3% from 2022 to 2032, slightly below average, but retirements and transfers create openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 底薪，因州和学区差异大 |
-| 中级（4-10年） | $45,000~$60,000 | 通常有经验加薪 |
-| 高级（10年以上） | $55,000~$80,000 | 包括硕士学位和行政职责 |
+| Median salary | $65,030 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Base salary, varies greatly by state and school district |
+| Mid-level (4-10 years). | $45,000~$60,000 | Typically salary increases with experience |
+| Senior (10+ years) | $55,000~$80,000 | Includes master's degree and administrative responsibilities |
+| average salary | $71,590 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径通常从教师起步，可晋升为教学主任、课程协调员或学校行政人员，部分人转向职业咨询或教育政策领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on secondary vocational technology teachers is mixed: some tasks (e.g., basic skills training, lesson material preparation) can be automated, but core duties like hands-on practice guidance, career counseling, and safety supervision are hard to replace.
+
+Career path usually starts as a teacher, advancing to teaching director, curriculum coordinator, or school administrator; some move into career counseling or education policy.
+
+**Tasks most exposed to AI:**
+
+- Automates basic skills training and repetitive exercises (e.g., typing, simple programming)
+- Generating and grading standardized tests and assignments
+- Create basic courseware and instructional videos
+- Record and manage student attendance and grades
+- Answer common technical operational questions
+
+**Where AI augments the role:**
+
+- Utilizing AI simulators for training on complex equipment operation
+- Personalized instruction via adaptive learning platforms
+- Uses AI to analyze student performance data to adjust teaching strategies.
+- Use AI tools to develop customized course content.
+- Integrated AI assistant provides real-time technical guidance
+
+**Human moat:**
+
+- Hands-on practice guidance and safety supervision
+- Career counselling and employment guidance
+- Managing classroom discipline and student behavior
+- Assess students' soft skills and career readiness
+- Maintaining industry partnerships
+
+**Skills to build:**
+
+- Use and integration of AI teaching tools
+- Data analysis and learning assessment
+- Latest industry technologies (e.g., robotics, 3D printing)
+- Online and blended teaching strategies
+- Career counseling and guidance skills
+- Project management and collaboration tools
+
+**Key growth areas:**
 
 - Vocational education
 - CTE growth
@@ -65,66 +101,68 @@ Teach occupational, vocational, or technical subjects to middle school students,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 教师通常需要本科以上学历，但中小学教师一般不符合H-1B专业职位要求，除非是特殊领域 |
-| Subclass EB-2（EB-2 Advanced Degree） | 需要有硕士以上学位或特殊能力，但中小学教师路径极少数 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招到合格美国教师，难度大，几乎不适用 |
+| Subclass H-1B (H-1B Specialty Occupations) | Teachers typically need a bachelor's degree or higher, but primary and secondary school teachers generally do not meet H-1B specialty occupation requirements unless in a specialized field |
+| Subclass EB-2 (EB-2 Advanced Degree) | Require master's degree or higher or exceptional ability, but very few pathways for primary/secondary teachers |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to hire qualified US teachers; difficult and nearly inapplicable. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Career/Technical Education Teachers, Middle School？**
-- 热爱教学和青少年，有耐心和沟通能力
-- 具备职业技术背景，如木工、计算机或医护
-- 寻求稳定假期和公立学校福利的人
+**Who is suited**
+- passionate about teaching and youth, with patience and communication skills
+- Possess vocational or technical background such as carpentry, computing, or healthcare
+- Suitable for those seeking stable holidays and public school benefits.
 
-**谁不适合学Career/Technical Education Teachers, Middle School？**
-- 不适应课堂管理或压力环境
-- 追求高收入或快速移民的人
+**Who is not suited**
+- Not suited for classroom management or stressful environments
+- Those pursuing high income or fast immigration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a secondary vocational technical teacher?**
+A: Salary varies by region and experience; entry-level is about USD 35,000-45,000, mid-to-senior level can reach USD 60,000-80,000, but overall it is lower than other professional occupations.
+
+**Q: Can foreigners immigrate to the US through this occupation?**
+A: Very difficult. Primary and secondary school teachers are not common H-1B professions, and employers must prove inability to find qualified Americans; PERM labor certification is nearly impossible.
+
+**Q: What qualifications are needed?**
+A: Requires at least a bachelor's degree and state teaching certification, usually through exams and internships; some positions require a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Career/Technical Education Teachers, Middle School属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for career/technical education teachers?**
-答：Salaries vary by location and experience; entry-level around $35k-$45k, senior up to $60k-$80k, but lower than many professional roles.
-
-**问：Can foreigners immigrate to the US through this career?**
-答：Very difficult. Middle school teachers do not typically qualify for H-1B, and PERM labor certification is nearly impossible due to sufficient domestic supply.
-
-**问：What qualifications are needed?**
-答：At least a bachelor's degree and state teaching license, usually requiring exams and student teaching; a master's degree is beneficial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

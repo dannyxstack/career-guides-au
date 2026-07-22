@@ -1,58 +1,94 @@
-# Kitchen Staff（Kitchen Staff）职业分析 · FR
+# Kitchen Staff — career analysis · France
 
-**职业代码：G1602 – Kitchen Staff。**
+**Occupation code: G1602 (ROME)**
 
-Kitchen staff prepare ingredients, cook dishes, clean utensils, and maintain kitchen hygiene, forming the foundation of the food service industry.
+Kitchen staff are responsible for preparing ingredients, cooking dishes, washing tableware, and maintaining kitchen hygiene—they are fundamental roles in the food and beverage industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 烹饪培训 | 2年 | —（公立学校低学费，可通过学徒制免学费） |
-| Bac Pro 烹饪 | 3年 | —（公立职业高中免费，私立学校费用较高） |
+| CAP culinary training | 2 years | $0~$5,000 (Public schools have low tuition fees and can be exempted through apprenticeships) |
+| Bac Pro cooking | 3 years | $0~$7,000 (Public vocational high schools are free, while private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Cuisine | 法国教育部 | 可选 | 基础职业资格证书，非强制但广泛认可 |
-| HACCP 卫生认证 | 法国农业部或认证机构 | 可选 | 食品安全培训，部分雇主强制要求 |
+| CAP Cuisine | French Ministry of Education | Optional | Basic vocational qualification certificates, not mandatory but widely recognized |
+| HACCP hygiene certification | The French Ministry of Agriculture or certification bodies | Optional | Food safety training, mandatory by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450,000。法国餐饮业持续缺人，尤其在旅游旺季和巴黎等大城市，厨房员工需求旺盛，就业机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 450,000. France's restaurant industry continues to face labor shortages, especially during peak tourist seasons and major cities like Paris, where kitchen staff demand is strong and job opportunities are abundant.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | 税前年薪，通常为SMIC起薪 |
-| 中级（3-7年） | $24,000~$28,000 | 具有经验后薪资提升 |
-| 高级（7年以上） | $28,000~$35,000 | 可晋升为副厨师长或部门主管 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$24,000 | Pre-tax annual salary, usually starting at SMIC |
+| Mid-level (3–7 years) | $24,000~$28,000 | Salary increases with experience |
+| Senior (7+ years) | $28,000~$35,000 | Promotion can be to sous chef or department head |
+| average salary | $23,772 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从厨房员工晋升为助理厨师、部门厨师长，甚至主厨，也可转向酒店或集体餐饮管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Kitchen staff face high automation risks, with AI and robots gradually replacing repetitive tasks. Competition for entry-level positions is intensifying, but supervisory and creative roles are less affected.
+
+Chefs can be promoted from kitchen staff to assistant chefs, department head chefs, or even head chefs, and can also transition to hotel or collective catering management positions.
+
+**Tasks most exposed to AI:**
+
+- Cutting and pre-processing of ingredients (such as cutting vegetables and peeling)
+- Washing and disinfecting tableware
+- Automated execution of basic cooking (such as cooking noodles and French fries).
+- Inventory counting and ordering
+- Temperature Records and Hygiene Checks
+
+**Where AI augments the role:**
+
+- Recipe Development and Flavor Optimization (AI Analysis Preference)
+- Dish variety innovation (generating new combinations)
+- Kitchen workflow scheduling
+- Customer preference prediction and personalized menus
+- Food safety monitoring and early warning
+
+**Human moat:**
+
+- Creative dish development and culinary art
+- Customer on-site interaction and feedback adjustments
+- Complex cooking techniques and handicrafts
+- Kitchen team management and crisis management
+- Multitasking coordination and flexible adaptability
+
+**Skills to build:**
+
+- AI-assisted recipe design and data analysis
+- Operation and maintenance of automated kitchen equipment
+- Food safety and quality control systems
+- Catering cost and inventory management software
+- Multilingual communication and customer service
+- Basic programming and robot collaboration
+
+**Key growth areas:**
 
 - Tourism
 - Seasonal Demand
@@ -61,67 +97,66 @@ Kitchen staff prepare ingredients, cook dishes, clean utensils, and maintain kit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 受雇工作居留，需雇主提供CDI合同并满足薪资门槛 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 人才护照，适用于高技能或高薪资岗位，但厨房员工通常难以达到薪资门槛 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | For employed work residence, the employer must provide a CDI contract and meet the salary threshold |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passports are suitable for high-skilled or high-paying positions, but kitchen staff often struggle to meet the salary threshold |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Kitchen Staff？**
-- 热爱烹饪和餐饮行业，能承受快节奏工作环境
-- 愿意从基层做起，无学历门槛，适合职业转型者
-- 注重团队合作和卫生规范
-
-**谁不适合学Kitchen Staff？**
-- 难以适应长时间站立和高温厨房环境
-- 期望高薪或快速晋升者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about cooking and the food and beverage industry, able to handle a fast-paced work environment
+- Willing to start from the grassroots, with no educational requirements, suitable for career transitioners
+- Emphasize teamwork and hygiene standards
+
+**Who is not suited**
+- Difficulty adapting to long periods of standing and high-temperature kitchen environments
+- Those expecting high salary or fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for kitchen staff in France?**
+A: Junior kitchen staff pre-tax annual salary approx. €21,000–24,000, senior staff can reach €35,000.
+
+**Q: How can foreigners obtain a work visa for French kitchen staff?**
+A: You can use the Salarié (Employed Work Residence) visa, which requires employer sponsorship and meets minimum wage requirements. Talent passports are usually not applicable.
+
+**Q: What promotion opportunities are available for kitchen staff?**
+A: You can be promoted to assistant chef, department head chef, or even head chef, and you can also transition to restaurant management or entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Kitchen Staff的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for kitchen staff in France?**
-答：Entry-level kitchen staff earn around €21,000-€24,000 gross annually, while senior staff can earn up to €35,000.
-
-**问：How can foreigners obtain a work visa for kitchen staff in France?**
-答：Through the Salarié (employee) work permit, requiring employer sponsorship and meeting minimum salary thresholds. The Talent Passport is usually not applicable.
-
-**问：What career advancement opportunities exist for kitchen staff?**
-答：Kitchen staff can advance to commis chef, chef de partie, or head chef, and may also transition into food service management or entrepreneurship.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

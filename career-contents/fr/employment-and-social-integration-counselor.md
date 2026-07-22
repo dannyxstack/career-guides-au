@@ -1,60 +1,95 @@
-# Employment and Social Integration Counselor（Employment and Social Integration Counselor）职业分析 · FR
+# Employment and Social Integration Counselor — career analysis · France
 
-**职业代码：K1801 – Employment and Social Integration Counselor。**
+**Occupation code: K1801 (ROME)**
 
-Provides personalized career guidance, develops employment plans, facilitates social integration, and connects job seekers with employers and public resources.
+Providing personalized career guidance for job seekers, developing employment plans, assisting in social integration, and connecting enterprises with public resources.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（Licence） | $200~$5,000（公立大学学费约200-3000欧元/年，私立可高达5000欧元） |
-| 硕士 | 2年（Master） | $250~$5,000（公立大学学费约250-4000欧元/年，私立约3000-5000欧元） |
+| Bachelor's degree | 3 years (Licence) | $200~$5,000 (Public university tuition is about 200-3000 euros per year, while private universities can charge up to 5000 euros) |
+| Master's degree | 2 years (Master) | $250~$5,000 (Public university tuition is about 250-4000 euros per year, while private tuition is about 3000-5000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会职业融入顾问文凭（DE CESF） | 法国社会事务部 | 可选 | 国家文凭，适用于社会服务领域 |
-| 职业发展顾问认证（COP） | France Compétences | 可选 | 注册于RNCP，非强制但受雇主青睐 |
+| Diploma in Social and Professional Integration Consultant (DE CESF) | French Ministry of Social Affairs | Optional | National diplomas, applicable to the social service sector |
+| Career Development Consultant Certification (COP) | France Compétences | Optional | Registered with RNCP, not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国持续推动就业与社会融合政策，此类顾问需求稳定，尤其在优先社区和长期失业人群服务领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France continues to promote employment and social integration policies, with stable demand for such consultants, especially in priority communities and services for chronically unemployed populations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 税前年薪，公共部门略低 |
-| 中级（4-7年） | $29,000~$36,000 | 含经验及项目管理职责 |
-| 高级（8年以上） | $36,000~$45,000 | 团队主管或专家岗位 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$29,000 | Pre-tax annual salary is slightly lower in the public sector |
+| Mid-level (4-7 years) | $29,000~$36,000 | Experience and project management responsibilities |
+| Senior (8+ years) | $36,000~$45,000 | Team leader or expert positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从基层顾问晋升至团队主管或项目经理，亦可转向人力资源、职业培训或社会政策研究领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly improve the efficiency and service quality of employment consultants by automating administrative tasks and enhancing data-driven decision-making, but it will not replace core interpersonal and guidance functions.
+
+You can advance from frontline consultant to team leader or project manager, or move into human resources, vocational training, or social policy research.
+
+**Tasks most exposed to AI:**
+
+- Resume keyword optimization and initial matching screening
+- Automatic capture and classification of job posting information
+- Standard error checks on job application materials
+- Automatic scheduling and notification of training schedules
+- Automated feedback for basic interview simulations
+
+**Where AI augments the role:**
+
+- Use AI to analyze labor market trends and accurately match job positions
+- Providing 24/7 job search consultations with the help of chatbots
+- Automatically generate personalized career reports through natural language processing
+- Use predictive models to identify risks of premature customer exit and proactively intervene
+- Using AI translation tools to serve immigrant job seekers across languages
+
+**Human moat:**
+
+- Deep trust builds relationships and emotional support
+- Personalized interventions for complex social integration barriers
+- Cross-agency resource coordination and interest negotiation
+- Cultural sensitivity assessment and conflict mediation
+- Creative solutions to unstructured and ambiguous problems
+
+**Skills to build:**
+
+- Use of AI tools (such as ChatGPT, workforce analytics platforms)
+- Social network analysis and resource mapping
+- Multicultural communication and cross-cultural mediation
+- Digital literacy (virtual collaboration, fundamentals of data analysis)
+- Occupational psychological counseling skills
+- Major languages for immigrants other than French (such as English and Arabic)
+
+**Key growth areas:**
 
 - Social Inclusion
 - Career Coaching
@@ -63,63 +98,65 @@ Provides personalized career guidance, develops employment plans, facilitates so
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主工作合同且通过劳动局审核，非紧缺职业担保较难 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高学历或高技能人才，需符合薪资门槛（年薪>53,000欧元） |
-| Subclass Recherche emploi（Job Search Visa） | 法国硕士毕业可申请一年求职签证，找到工作后转换工签 |
+| Subclass Salarié (Employee Work Permit) | You must obtain a French employer's employment contract and pass the Labor Bureau's review; non-urgent job sponsorship is relatively difficult |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly educated or highly skilled talents, must meet the salary threshold (annual salary > 53,000 euros) |
+| Subclass Recherche emploi (Job Search Visa) | French master's graduates can apply for a one-year job-seeking visa and convert to a work visa after finding a job |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Employment and Social Integration Counselor？**
-- 喜欢与人沟通、有耐心和同理心的人
-- 对社会政策与公共服务有热情者
-- 具备跨文化背景或语言优势者
+**Who is suited**
+- People who enjoy communicating with others, are patient, and empathetic
+- Those passionate about social policy and public services
+- Candidates with cross-cultural backgrounds or language advantages
 
-**谁不适合学Employment and Social Integration Counselor？**
-- 偏好高薪或快速晋升者
-- 不擅长行政文书与多任务处理者
+**Who is not suited**
+- Preference for high salaries or rapid promotions
+- Not good at administrative paperwork or multitasking
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salaries of employment consultants in France?**
+A: Entry-level approximately €24,000-29,000/year, mid-level €29,000-36,000/year, senior up to €45,000/year. Public sector salaries are generally lower than private sector.
+
+**Q: Is it easy for foreigners to become employment consultants in France?**
+A: Non-urgently needed occupations; foreign academic credentials must be certified, and French must be at least C1. Generally, you need to first obtain a French diploma or pass the high-paying Passeport Talent pathway, which is generally more difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Employment and Social Integration Counselor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for employment counselors in France?**
-答：Entry-level around €24,000-29,000/year, mid-level €29,000-36,000/year, senior up to €45,000/year. Public sector salaries are generally lower than private.
-
-**问：Is it easy for foreigners to work as an employment counselor in France?**
-答：This is not a shortage occupation; foreign qualifications require recognition, and French must be at least C1. Generally, obtaining a French degree or high salary via Talent Passport is needed; overall quite difficult.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

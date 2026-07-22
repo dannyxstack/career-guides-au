@@ -1,59 +1,93 @@
-# Members of Executive and Legislative Bodies（Members of Executive and Legislative Bodies）职业分析 · ES
+# Members of Executive and Legislative Bodies — career analysis · Spain
 
-**职业代码：1111 – Members of Executive and Legislative Bodies。**
+**Occupation code: 1111 (CNO)**
 
-Individuals exercising executive or legislative powers at national, regional, or local levels, including government ministers, parliament members, and mayors.
+Personnel exercising national, autonomous region, or local administrative and legislative powers, including government ministers, deputies, mayors, and other senior political officials.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,500~$20,000（公立大学约1500€/年，私立约10000-20000€/年） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$25,000（公共管理或政治学硕士，公立约2000€/年，私立最高25000€） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,500~$20,000 (Public universities about €1,500/year, private about €10,000-20,000/year) |
+| Máster | 1-2 years (Máster) | $2,000~$25,000 (Master's degree in Public Administration or Political Science: Public about €2,000 per year, private up to €25,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制学历要求 | 不适用 | 可选 | 法律未规定正式学历，但多数成员拥有大学学位，尤其是法律、经济或政治科学领域 |
+| No specific mandatory academic requirements are required | Not applicable | Optional | The law does not specify formal academic qualifications, but most members hold university degrees, especially in law, economics, or political sciences |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。该职业受政治周期影响，职位数量固定且竞争激烈。西班牙公共部门效率改革和数字化可能改变工作方式，但总体需求稳定。需通过选举或政治任命获得职位。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. This profession is influenced by political cycles, with a fixed number of positions and intense competition. Spain's public sector efficiency reforms and digitalization may change the way work is done, but overall demand remains stable. Positions must be obtained through elections or political appointments.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$50,000 | 地方议员或初级顾问 |
-| 中级（3-10年） | $50,000~$80,000 | 自治区议员或中央政府中层官员 |
-| 高级（10年以上） | $80,000~$150,000 | 部长、国务秘书或大区主席 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$50,000 | Local councilors or junior advisors |
+| Intermediate (3-10 years) | $50,000~$80,000 | Autonomous region deputies or mid-level officials of the central government |
+| Senior (10+ years) | $80,000~$150,000 | Minister, State Secretary, or Regional President |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从政党基层或公共管理岗位起步，积累政治经验和人脉后可竞选更高职位。部分成员在任期结束后回归私营部门或高级公务员岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the analytical, decision-support, and communication abilities of executive and legislative members, but legal and ethical responsibilities will still be borne by humans, and overall positions will be enhanced rather than replaced by AI.
+
+Usually, they start in grassroots positions in political parties or public administration, and after accumulating political experience and connections, they can run for higher positions. Some members return to private sector or senior civil service positions after their terms end.
+
+**Tasks most exposed to AI:**
+
+- Drafted the first draft of the standard report and memorandum
+- Organize and summarize meeting minutes and hearing materials
+- Preliminary screening of recurring issues in public consultation feedback
+- Automatically generate quantitative analyses of policy impact assessments
+
+**Where AI augments the role:**
+
+- Utilizing AI to simulate and forecast policy proposals
+- Quickly analyze the complexity of legislative proposals through natural language processing
+- Use AI-driven public opinion tools to monitor public feedback in real time
+- Promote international policy coordination through automatic translation and cross-language AI
+
+**Human moat:**
+
+- Final decision-making responsibility under the framework of the Constitution and Law
+- Human judgment and political intuition in conflicts of interest
+- Face-to-face negotiations and persuasion with voters and interest groups
+- Moral trade-offs and emergency response rights in crisis
+- Final interpretation and supervision of systems and procedures
+
+**Skills to build:**
+
+- Data literacy and statistical modeling
+- AI policy analysis tools are used
+- Natural Language Processing Prompt Engineering
+- Ethics and compliance review capabilities
+- Cross-cultural communication and digital diplomacy
+- Agile decision-making and crisis management
+
+**Key growth areas:**
 
 - Political cycle
 - Digital government
@@ -62,61 +96,63 @@ Individuals exercising executive or legislative powers at national, regional, or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 通常不适用于政治职位，外籍人士极难获得此类岗位的工作许可。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Generally not applicable to political positions, where it is extremely difficult for foreigners to obtain work permits for such positions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Members of Executive and Legislative Bodies？**
-- 具有强烈政治抱负和公共政策兴趣的人
-- 擅长社交、谈判和公众演讲者
-- 愿意接受高度公开 scrutiny 和不规律工作时间的人
+**Who is suited**
+- People with strong political ambitions and interest in public policy
+- Skilled in socializing, negotiation, and public speaking
+- Willing to accept highly open scrutiny and irregular working hours
 
-**谁不适合学Members of Executive and Legislative Bodies？**
-- 不希望生活在公众视线下的人
-- 缺乏抗压能力和灵活应变能力的人
+**Who is not suited**
+- People who do not want to live in the public eye
+- People who lack stress resistance and adaptability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for members of Spain's executive and legislative bodies?**
+A: Salaries vary by position level: local councilors typically earn €30,000–€50,000 per year, mid-level officials in the autonomous region or central government earn €50,000–€80,000, and senior officials such as ministers can earn €80,000–€150,000.
+
+**Q: Can foreigners become Spanish political officials through skilled migration?**
+A: Almost impossible. Political positions are usually reserved for Spanish citizens through elections or political appointments; foreigners cannot apply through the regular skilled migration route.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Members of Executive and Legislative Bodies属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for members of executive and legislative bodies in Spain?**
-答：Salaries vary by position: local councilors earn €30,000-50,000/year, regional or central government mid-level officials €50,000-80,000, and senior officials like ministers €80,000-150,000.
-
-**问：Can foreign nationals become political officials in Spain through skilled migration?**
-答：Almost impossible. Political positions are generally reserved for Spanish citizens via elections or political appointments, and are not accessible through standard skilled migration routes.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

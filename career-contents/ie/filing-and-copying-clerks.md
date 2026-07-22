@@ -1,59 +1,89 @@
-# Filing and Copying Clerks（Filing and Copying Clerks）职业分析 · IE
+# Filing and Copying Clerks — career analysis · Ireland
 
-**职业代码：4415 – Filing and Copying Clerks。**
+**Occupation code: 4415 (ISCO08)**
 
-Responsible for filing, copying, scanning, and basic document management to ensure orderly storage and quick retrieval of office documents.
+Responsible for document filing, photocopying, scanning, and basic document management, ensuring orderly storage and quick retrieval of office files.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无 | —（无需高等教育） |
-| 职业培训课程 | 6个月 | $500~$1,500（如办公室行政技能证书） |
+| High school graduation | None | $0~$0 (No higher education required) |
+| Vocational training courses | 6 months. | $500~$1,500 (e.g., Office Administrative Skills Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 雇主通常提供在职培训 |
+| No mandatory certification | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,800。爱尔兰数字化办公趋势减少对纯纸质文件管理的需求，但中小企业和公共部门仍有稳定岗位，预计就业小幅下降。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,800. Ireland's digital office trend reduces demand for purely paper-based document management, but SMEs and the public sector still have stable positions, with employment expected to decline slightly.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入门级薪资 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验者 |
-| 高级（7年以上） | $35,000~$42,000 | 主管或资深职位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry-level salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced individuals |
+| Senior (7+ years) | $35,000~$42,000 | Supervisor or senior position |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为行政主管、办公室经理或转岗至数据录入、档案管理等专业化职位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+File clerks face very high automation risk; AI and digital document management will significantly replace core tasks, leading to a notable reduction in positions.
+
+Can advance to administrative supervisor, office manager, or transfer to specialized roles such as data entry and records management.
+
+**Tasks most exposed to AI:**
+
+- Automated scanning, OCR recognition, and electronic filing replace manual filing
+- AI-driven document classification and indexing replace manual sorting
+- Cloud storage and retrieval systems eliminate the need for physical photocopying
+- Digital signatures and workflow automation reduce paper document processing
+
+**Where AI augments the role:**
+
+- AI-assisted document quality check to improve accuracy
+- Automate workflow tracking to improve archiving efficiency
+- AI-generated metadata to enhance document retrievability
+
+**Human moat:**
+
+- Physical security for handling sensitive or confidential documents
+- Flexible processing of customized, non-standard documents
+- Cross-departmental coordination and judgment of exceptions
+
+**Skills to build:**
+
+- Proficient in document management systems (e.g., SharePoint, Alfresco)
+- Learn OCR and document processing automation tools
+- Enhance data privacy and compliance knowledge
+- Learn basic programming (e.g., Python script automation)
+- Develop process optimization and project management skills
+
+**Key growth areas:**
 
 - Digitization
 - Office automation
@@ -62,62 +92,64 @@ Responsible for filing, copying, scanning, and basic document management to ensu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于该职业，需雇主担保，年薪不低于30,000欧元（2024年标准） |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，需在该公司工作至少6个月 |
+| Subclass General Employment P (General Employment Permit) | Applicable for this occupation, requires employer sponsorship with an annual salary of no less than €30,000 (2024 standard) |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, must have worked for that company for at least 6 months |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Filing and Copying Clerks？**
-- 细心有条理，适合重复性工作
-- 希望快速进入职场，无需高学历
-- 偏好稳定低压力工作环境
+**Who is suited**
+- Attentive and organized, suitable for repetitive work
+- Hope to quickly enter the workforce without a high degree
+- Preference for stable, low-stress work environment.
 
-**谁不适合学Filing and Copying Clerks？**
-- 追求高薪和职业发展
-- 不适应单调重复性任务
+**Who is not suited**
+- Pursuing high salary and career development.
+- Not suited for repetitive tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a file archiving clerk?**
+A: Entry-level annual income approx. €22,000-28,000, senior up to €42,000, but generally low.
+
+**Q: Can foreigners immigrate to Ireland with this occupation?**
+A: Difficult, usually requires employer-sponsored general employment permit, and salary threshold may be higher than actual level.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Filing and Copying Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for filing and copying clerks?**
-答：Entry-level annual income is around €22,000-€28,000, senior roles can reach €42,000, but overall it's low.
-
-**问：Can foreigners immigrate to Ireland with this occupation?**
-答：It's challenging; typically requires a General Employment Permit with salary thresholds that may exceed actual levels.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

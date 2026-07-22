@@ -1,60 +1,96 @@
-# Sales Administration Officer（Sales Administration Officer）职业分析 · FR
+# Sales Administration Officer — career analysis · France
 
-**职业代码：M1701 – Sales Administration Officer。**
+**Occupation code: M1701 (ROME)**
 
-Sales Administration Officer supports the sales team by managing orders, customer contracts, and post-sale processes to ensure efficient sales operations.
+Sales executives are responsible for supporting the sales team, managing orders, customer contracts, and after-sales processes to ensure efficient and smooth sales operations.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+2（BTS） | 2年 | $500~$5,000（公立学校学费低，私立商校较高） |
-| BAC+3（Licence professionnelle） | 3年 | $3,000~$8,000（可通过学徒制（apprentissage）降低费用） |
+| BAC+2（BTS） | 2 years | $500~$5,000 (Public schools have lower tuition fees, while private commercial schools have higher fees) |
+| BAC+3（Licence professionnelle） | 3 years | $3,000~$8,000 (Apprenticeships can reduce costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Support à l'Action Managériale | 教育部 | 可选 | 销售行政常见学历要求 |
-| Licence professionnelle en commerce | 大学 | 可选 | 部分企业优先考虑 |
+| BTS Support à l'Action Managériale | Ministry of Education | Optional | Common educational requirements for sales administration |
+| Licence professionnelle en commerce | University | Optional | Some companies prioritize this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。法国销售行政岗位需求稳定，尤其在B2B领域。数字化工具普及提升了效率，但企业对客户关系维护的需求不减，预计未来几年就业机会保持平稳增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Demand for sales administrative positions in France is stable, especially in the B2B sector. The widespread adoption of digital tools has boosted efficiency, but the demand for customer relationship maintenance remains strong, and job opportunities are expected to grow steadily in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级销售行政可发展为高级销售行政或销售经理助理，也可转向采购、物流或客户关系管理。积累经验后，有机会晋升为销售运营经理或区域销售主管。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI is rapidly replacing core tasks of administrative assistants, such as schedule management, document processing, and data entry. Competition for entry-level roles is increasing, and purely clerical jobs face a risk of being reduced.
+
+Junior sales administration can develop into senior sales administration or sales manager assistant, or transition to procurement, logistics, or customer relationship management. After gaining experience, there is an opportunity to be promoted to Sales Operations Manager or Regional Sales Supervisor.
+
+**Tasks most exposed to AI:**
+
+- Schedule management and coordination: AI calendar tools automatically optimize conflicts and send invitations
+- Document processing and formatting: AI automatically generates meeting minutes and report layouts
+- Data entry and organization: automatic information extraction via OCR and smart forms.
+- Basic client inquiry responses: chatbots handle common queries
+- Travel booking and reimbursement: automated systems for price comparison, form filling, and approval
+
+**Where AI augments the role:**
+
+- Complex communication and multi-party coordination: AI-assisted information integration, human-led negotiation
+- Sensitive information handling: AI filters risks, humans make final decisions
+- Executive support: AI provides data summaries, humans handle non-routine requests
+- Office process optimization: AI analyzes bottlenecks, humans design improvement plans
+- Crisis management: AI warns of anomalies, humans respond quickly.
+
+**Human moat:**
+
+- Ability to handle highly confidential or sensitive information
+- Unstructured problem-solving and on-site adaptation
+- Complex coordination across cultures and multiple stakeholders
+- Emotional intelligence for building trust and networks
+- Understanding of organizational implicit culture and power structures
+
+**Skills to build:**
+
+- Use of AI office tools (e.g., Copilot, Zapier, Notion AI)
+- Basic data analysis and visualization (Excel, Power BI)
+- Project Management Fundamentals (PMP or Agile methods)
+- Advanced communication and negotiation skills
+- Digital security and compliance knowledge
+- Basic programming (Python scripting for repetitive tasks)
+
+**Key growth areas:**
 
 - E-commerce expansion
 - CRM software adoption
@@ -63,66 +99,68 @@ Sales Administration Officer supports the sales team by managing orders, custome
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主提供工作合同，符合薪资要求，适合长期工作 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能岗位，薪资需达一定门槛（约36,000欧/年），可加速居留申请 |
-| Subclass Carte bleue UE（EU Blue Card） | 需至少年薪53,000欧（2024年），通常不适用此职业 |
+| Subclass Salarié (Salarié (Employee)) | Employers must provide a work contract, meet salary requirements, and be suitable for long-term employment |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled positions, requiring a salary threshold (about 36,000 EUR/year) to accelerate residence applications |
+| Subclass Carte bleue UE (EU Blue Card) | A minimum annual salary of 53,000 euros (2024) is required, and this occupation is generally not applicable |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Administration Officer？**
-- 具备良好组织能力和沟通技巧者
-- 希望从事商业支持职能、稳定工作的人
-- 有BTS/Licence商科学历的毕业生
+**Who is suited**
+- Possess strong organizational and communication skills
+- Those who wish to engage in business support functions and secure jobs
+- Graduates with a BTS/Licence business degree
 
-**谁不适合学Sales Administration Officer？**
-- 追求高薪或快速晋升者
-- 偏好独立工作、不喜欢处理行政细节的人
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- People who prefer independent work and dislike dealing with administrative details
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for sales administration?**
+A: Entry-level is about 24,000-28,000 euros per year, intermediate 28,000-35,000 euros, and advanced up to 45,000 euros (before tax).
+
+**Q: Is it easy for sales executives to come to France through skilled migration?**
+A: Not easy. This position is not in short supply, with a high threshold for employer-sponsored visas, usually requiring internal transfers or existing work permits.
+
+**Q: What educational qualifications are required for sales administration?**
+A: Minimum BTS (2-year program), more requirements Licence professionnelle (3-year program), business or management majors preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Administration Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Sales Administration Officer?**
-答：Junior: €24,000-€28,000/year, mid-level: €28,000-€35,000, senior: up to €45,000 (gross).
-
-**问：Is it easy to migrate to France as a Sales Administration Officer?**
-答：Not easy. This role is not a shortage occupation, employer sponsorship is challenging; usually requires internal transfer or existing work permit.
-
-**问：What education is needed to become a Sales Administration Officer?**
-答：Minimum BTS (2-year), more often Licence professionnelle (3-year) in business or management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

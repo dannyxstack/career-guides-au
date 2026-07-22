@@ -1,60 +1,96 @@
-# Product Management and Management（Product Management and Management）职业分析 · FR
+# Product Management and Management — career analysis · France
 
-**职业代码：M1703 – Product Management and Management。**
+**Occupation code: M1703 (ROME)**
 
-Product managers oversee the entire product lifecycle from market research and planning to launch and lifecycle management, coordinating technical, design, and marketing teams to ensure products meet user needs and achieve business goals.
+The product manager is responsible for managing the entire process from market research and product planning to product launch and lifecycle, coordinating technical, design, and marketing departments to ensure products meet user needs and achieve business goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（硕士，如高商或工程师学院） | $8,000~$15,000（年均学费，公立大学约3000-5000欧元，高商约8000-15000欧元） |
-| 本科（Bac+3） | 3年（licence） | $3,000~$5,000（公立大学年均约2770欧元（非欧盟学生），但可申请奖学金） |
-| 学徒制（Apprentissage） | 1-2年（硕士阶段） | —（企业承担学费，学生获薪资，适合法国或欧盟居民） |
+| Master's (BAC+5) | 5 years (Master's degree, such as Higher Commercial or Engineering College) | $8,000~$15,000 (Annual tuition is about 3,000-5,000 euros for public universities and about 8,000-15,000 euros for higher commercial schools) |
+| Undergraduate (Bac+3) | 3 years (licence) | $3,000~$5,000 (Public universities average about €2,770/year (non-EU students), but scholarships are available.) |
+| Apprentissage | 1-2 years (Master's level) | $0~$0 (Companies cover tuition fees, students receive salaries, and are suitable for residents of France or the EU) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 产品管理认证（如Scrum Product Owner） | Scrum.org或相关机构 | 可选 | 非强制但增强竞争力 |
-| MBA或管理学硕士 | 法国大学或高等商学院 | 可选 | 高商文凭受雇主青睐 |
-| 项目管理专业认证（PMP） | PMI | 可选 | 部分企业要求 |
+| Product management certification (such as Scrum Product Owner) | Scrum.org or related institutions | Optional | Not mandatory but enhances competitiveness |
+| MBA or Master of Management | French universities or business schools | Optional | Higher commercial diplomas are favored by employers |
+| Project Management Professional (PMP) | PMI | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国数字化转型推动产品管理岗位需求持续增长，尤其在科技、电商、金融服务领域。预计未来五年岗位增长率约15%，巴黎及主要科技中心就业机会集中。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's digital transformation has driven continuous growth in demand for product management positions, especially in technology, e-commerce, and financial services. Job growth is expected to be about 15% over the next five years, with concentrated employment opportunities in Paris and major technology centers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，巴黎地区偏高 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪，视行业与企业 |
-| 高级（7年以上） | $65,000~$90,000 | 税前年薪，含股票期权可能更高 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary is relatively high in the Paris area |
+| Mid-level (3–7 years) | $45,000~$65,000 | Pre-tax annual salary depends on the industry and the company |
+| Senior (7+ years) | $65,000~$90,000 | Pre-tax annual salary, including stock options, may be even higher |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级产品经理可晋升为高级产品经理、产品总监或首席产品官。也可横向转型为项目管理、战略咨询或创业。需持续学习敏捷方法、数据分析及AI产品知识。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The product manager role will not disappear, but large volumes of data collection, documentation, and other analytical tasks will be automated by AI; Meanwhile, AI will greatly enhance product decision-making and user insights, shifting work focus toward higher-level strategies and collaboration.
+
+Junior Product Managers can be promoted to Senior Product Manager, Product Director, or Chief Product Officer. You can also transition horizontally into project management, strategic consulting, or entrepreneurship. Continuous learning of agile methodologies, data analysis, and AI product knowledge is required.
+
+**Tasks most exposed to AI:**
+
+- Market data collection and preliminary analysis report generation
+- Automatic updates and maintenance of competitor function comparison tables
+- Basic writing and template filling for Product Requirements Documents (PRD).
+- Compiling user feedback, extracting keywords, and analyzing sentiment
+- Automatic recording and distribution of version release logs and meeting minutes
+
+**Where AI augments the role:**
+
+- Using AI for user behavior prediction and optimization of A/B testing solutions
+- Automatically generate user profiles and market segmentation insights through NLP tools
+- Use AI to simulate the financial impact of different product strategies
+- Quickly generate interactive design drafts using AI-powered prototyping tools
+- Automatically recommends optimal product iteration priorities based on historical data
+
+**Human moat:**
+
+- Cross-departmental interest coordination aligns with strategic goals
+- Intuitive judgment and creative decision-making in an uncertain market environment
+- Deep User Empathy and Demand Mining (Non-Data Level)
+- High-level business negotiation and organizational change leadership
+- Define the long-term vision and culture of the product
+
+**Skills to build:**
+
+- AI/Machine Learning Fundamentals and Applications (such as training simple models and calling APIs)
+- Data-driven product decisions (SQL, data visualization, A/B test design)
+- Prompt engineering and integration with AI tools (Copilot, Notion AI, etc.)
+- Business Sensitivity (Market Strategy, Financial Analysis, ROI Calculation)
+- Agile management and cross-cultural collaboration skills (especially for multinational teams)
+- Advanced User Research Methods (Mixed Qualitative and Quantitative)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Agile Product Management
@@ -63,68 +99,67 @@ Product managers oversee the entire product lifecycle from market research and p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适合高技能人才，如产品经理，需提供工作合同或项目计划，有效期4年，可续签，家属可随行。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合年薪超过53,836.50欧元（2024年标准）的产品经理，有效期4年，可带家属，欧盟内自由流动。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 适用于持工作合同的产品经理，需雇主担保，居留有效期1-4年，可转为长期居留。 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as product managers, who need to provide a work contract or project plan, valid for 4 years, renewable and allowed for family members to accompany the contract. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for product managers with an annual salary over €53,836.50 (2024 standard), valid for 4 years, can bring family members, and allows free movement within the EU. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Suitable for product managers with employment contracts, requiring employer sponsorship, residence validity period of 1-4 years, and can be converted to long-term residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product Management and Management？**
-- 具备跨部门协调能力，善于沟通与解决问题的人
-- 对技术与商业都有兴趣，能快速学习新领域的人
-- 有数据分析与战略思维，喜欢驱动产品从0到1的人
-
-**谁不适合学Product Management and Management？**
-- 偏好稳定、重复性工作的人
-- 不擅长快速变化与模糊环境的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with cross-departmental coordination skills and good communication and problem-solving skills
+- People interested in both technology and business and able to quickly learn new fields
+- People with data analysis and strategic thinking, who enjoy driving products from zero to one
+
+**Who is not suited**
+- People who prefer stable, repetitive work
+- Not suited for fast-changing and ambiguous environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for product managers in France?**
+A: Entry-level is about 35k-45k euros, intermediate is 45k-65k, and advanced can reach over 90k. The Paris area has higher salaries, and tech companies offer more competitive salaries.
+
+**Q: How can non-EU citizens immigrate to France as a product manager?**
+A: You can apply for a Passeport Talent passport or EU Blue Card, which requires a work contract and meets the salary requirements. It is also possible through the Salarié (Employed Work Residence) pathway.
+
+**Q: Is product manager a sought-after profession in France?**
+A: Yes, especially in digital and IT fields. The French government has listed product management and related positions on the shortage occupation list, with recruitment difficulties in some industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Product Management and Management的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for product managers in France?**
-答：Entry-level: €35k-45k, mid-level: €45k-65k, senior: €65k-90k+. Salaries are higher in Paris and in tech companies.
-
-**问：How can non-EU citizens migrate to France as a product manager?**
-答：Apply for a Passeport Talent or EU Blue Card with a job offer meeting salary thresholds. Employee work permit (Salarié) is also possible.
-
-**问：Is product manager a shortage occupation in France?**
-答：Yes, especially in digital and IT sectors. France lists product management as a high-demand occupation, with recruitment challenges in some industries.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

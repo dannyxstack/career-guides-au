@@ -1,60 +1,96 @@
-# Director of Road Passenger Transport Operations（Director of Road Passenger Transport Operations）职业分析 · FR
+# Director of Road Passenger Transport Operations — career analysis · France
 
-**职业代码：N4202 – Director of Road Passenger Transport Operations。**
+**Occupation code: N4202 (ROME)**
 
-Plans, organizes, and oversees daily road passenger transport (bus, coach) operations, ensuring safety, punctuality, and efficiency while managing driver teams and scheduling systems.
+Responsible for planning, organizing, and supervising the daily operations of highway passenger transport (buses, long-distance coaches, etc.) to ensure safety, punctuality, and efficiency, and managing the driver team and dispatch system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业会考+专业培训 | 1-2年（CAP/BAC Pro） | —（公立学校免费，私立3000欧元） |
-| 本科（Licence Professionnelle） | 3年 | —（公立大学注册费约170欧元/年，私立高商5000欧元/年） |
-| 硕士（Master） | 5年 | —（公立大学仅注册费，高商学费可达10000欧元/年） |
+| High school graduation exam + professional training | 1-2 years (CAP/BAC Pro) | $0~$3,000 (Public schools are free, private schools are 3,000 euros) |
+| Bachelor's Degree (Licence Professionnelle) | 3 years | $0~$5,000 (Public university registration fees approx €170/year; private business schools €5,000/year) |
+| Master's Degree (Master) | 5 years | $0~$10,000 (Public universities only charge a registration fee, while high business tuition can reach up to 10,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 客运从业资格证（CAP Conducteur） | 法国国家教育与职业资格委员会（CNCP） | 必备 | 需通过FIMO培训并获CAP或同等文凭 |
-| FIMO（基础职业技能证书） | 法国交通部 | 必备 | 所有客运司机必须持有，运营管理岗建议持有 |
-| 安全与合规培训 | 法国职业安全与健康委员会（CNAM） | 可选 | 涉及运输安全法规，建议定期更新 |
+| Passenger Transport Qualification Certificate (CAP Conducteur) | French National Commission for Education and Professional Qualifications (CNCP) | Required | FIMO training and a CAP or equivalent diploma are required |
+| FIMO (Basic Vocational Skills Certificate) | French Ministry of Transport | Required | All passenger transport drivers must hold it; operations management positions recommend holding it |
+| Safety and compliance training | French Occupational Safety and Health Committee (CNAM) | Optional | Regarding transportation safety regulations, regular updates are recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,500。法国客运市场稳定，随着绿色出行政策推广和区域交通需求增长，该职位需求平稳。数字化调度和电动化转型带来新挑战，但总体就业机会良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. The French passenger transport market is stable, with demand for this position steady due to the promotion of green travel policies and growing regional transportation demand. Digital scheduling and electrification transformation bring new challenges, but overall job opportunities are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $35,000~$45,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，含奖金和利润分享 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary, including bonuses and profit sharing |
+| average salary | $52,632 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从调度员、车队经理晋升至运营总监，再至区域或全国运输总监。也可转向物流、供应链管理或咨询领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Many core responsibilities of the Director of Highway Passenger Transport Operations (such as data analysis and scheduling optimization) will be greatly enhanced by AI, but areas related to safety, compliance, personnel management, and emergency handling still rely on human experience and judgment, making them positions that have been amplified rather than replaced in the AI era.
+
+Drivers can be promoted from dispatchers and fleet managers to operations directors, and then to regional or national transportation directors. It can also be expanded into logistics, supply chain management, or consulting.
+
+**Tasks most exposed to AI:**
+
+- Generate and adjust departure schedules based on historical data
+- Forecasting of routine vehicle maintenance needs and scheduling of maintenance plans
+- Driver Scheduling and Shift Optimization (Considering Labor Laws and Preferences)
+- Passenger flow statistics and analysis and temporary capacity allocation recommendations
+- Automatic generation of standardized operation reports (on-time rate, fuel consumption, etc.)
+
+**Where AI augments the role:**
+
+- Dynamically optimize routes and scheduling using real-time traffic and weather data
+- Enhance safety and energy-saving management through driver behavior analysis systems
+- Forecasting models are used for peak passenger flow warnings and resource pre-allocation
+- Leverage the collaboration platform to achieve real-time cross-departmental coordination (maintenance, security).
+- AI simulation tools are used for new route planning and efficiency evaluation
+
+**Human moat:**
+
+- On-site command and decision-making for complex emergencies (traffic accidents, vehicle breakdowns, severe weather).
+- Team morale management, driver psychological counseling, and labor relations coordination
+- Communicate and negotiate compliance with high-level government regulators, communities, and unions
+- Develop and maintain a safety culture to ensure all personnel comply with safety protocols
+- Make strategic direction decisions when the data is ambiguous or incomplete
+
+**Skills to build:**
+
+- Operational Data Analysis (Python/SQL/BI Tools)
+- Basic concepts of AI/ML and application of predictive models
+- Human-Machine Collaboration Management (Leadership + Technical Competency)
+- Emergency Management and Crisis Communication
+- Digital tools for supply chain and scheduling systems (such as TMS)
+- Basic programming skills (for automated processes)
+
+**Key growth areas:**
 
 - Green mobility
 - Digital dispatching
@@ -63,65 +99,67 @@ Plans, organizes, and oversees daily road passenger transport (bus, coach) opera
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent - Qualified Employee） | 适用于高技能管理岗位，需提供年薪至少40万欧元（但实际门槛较低）的合同，有效期4年。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 受雇于法国公司，需获得工作许可，有效期1年，可续签。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合高等教育学历+高薪，年薪需超过法定门槛（约5.4万欧元），有效期1-4年。 |
+| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Applicable to high-skilled management positions, requiring a contract with an annual salary of at least €400,000 (though the actual threshold is lower), valid for 4 years. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employed by a French company, requires a work permit valid for 1 year, renewable. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for higher education degree + high salary. Annual salary must exceed statutory threshold (approx. EUR 54,000). Valid 1–4 years. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Director of Road Passenger Transport Operations？**
-- 有管理经验、善于协调调度的人员
-- 对交通运输行业有热情，能承受较大工作压力
-- 具备战略思维和数字化工具应用能力
-
-**谁不适合学Director of Road Passenger Transport Operations？**
-- 不善于多任务处理、抗压能力弱
-- 不愿意处理突发事故和乘客投诉
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Personnel with management experience and skilled in coordination and scheduling
+- Passionate about the transportation industry and able to handle high work pressure
+- Possess strategic thinking and the ability to apply digital tools
+
+**Who is not suited**
+- Not good at multitasking, weak stress tolerance
+- Unwilling to handle sudden accidents and passenger complaints
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Road Passenger Transport Operations Directors?**
+A: Entry-level annual salary about €28,000-€35,000, mid-level €35,000-€45,000, senior up to €60,000. Salary is affected by company size, region, and experience.
+
+**Q: Is it easy for third-country citizens to immigrate to France through this position?**
+A: This position is a management position and can apply for Passeport Talent or the EU Blue Card. France's transportation industry is in short supply, but relevant academic qualifications and French language proficiency (B2 or above) are required, with good matching and a high success rate.
+
+**Q: What are the mandatory qualification requirements for highway passenger transport operations directors in France?**
+A: Must hold a passenger transport qualification certificate (CAP Conducteur or equivalent) and have completed FIMO training. Additionally, it is recommended to have a safety compliance training certificate, but it is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Director of Road Passenger Transport Operations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Director of Road Passenger Transport Operations?**
-答：Entry-level: €28,000-35,000; mid-level: €35,000-45,000; senior: up to €60,000. Varies by company size, region, and experience.
-
-**问：Is it easy for third-country nationals to immigrate to France through this occupation?**
-答：It is a management role eligible for Passeport Talent or EU Blue Card. France faces driver shortages, and with relevant degree and French (B2+), success rate is favorable.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

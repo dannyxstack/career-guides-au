@@ -1,58 +1,93 @@
-# Composer（Composer）职业分析 · 澳大利亚
+# Composer — career analysis · Australia
 
-**职业代码：211211 – Composer。**
+**Occupation code: 211211 (ANZSCO)**
 
-Composers create original musical works including symphonies, film scores, and popular songs, often collaborating with performers, conductors, or producers.
+Composers create original music works, including symphonies, film scores, pop songs, etc., usually collaborating with performers, conductors, or producers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（每年学费，澳洲本地生约1万澳元，国际生3-4.5万澳元） |
-| 硕士学位 | 1-2年 | $35,000~$50,000（每年学费，国际生适用） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition: approximately AUD 10,000 for domestic students, AUD 30,000-45,000 for international students) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Annual tuition fees, applicable to international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 音乐学士（作曲方向） | 澳洲大学（如悉尼音乐学院、墨尔本大学） | 可选 | 非强制但强烈推荐 |
-| 作品集 | 自备 | 可选 | 求职和升学关键，展示作曲能力 |
+| Bachelor of Music (Composition) | Australian universities (e.g., Sydney Conservatorium of Music, University of Melbourne) | Optional | Not mandatory but strongly recommended |
+| Portfolio | Self-provided | Optional | Key for job seeking and further studies, demonstrating composition ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 3,500。澳洲作曲家就业前景一般，受数字化和全球竞争影响，但电影、游戏和广告行业需求稳定。预计未来五年岗位数量保持稳定。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,500. Employment prospects for Australian composers are generally fair, affected by digitalization and global competition, but demand in film, gaming, and advertising industries is stable. The number of positions is expected to remain stable over the next five years.
 
-**竞争度：竞争激烈（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 自由职业者收入可能更低 |
-| 中级（3-8年） | $60,000~$90,000 | 含稳定合同或兼职教学 |
-| 高级（8年以上） | $90,000~$130,000 | 知名电影/游戏配乐师或音乐总监 |
+| Median salary | $91,832 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $40,000~$60,000 | Freelancers may have lower income |
+| Mid-level (3–8 years) | $60,000~$90,000 | Includes stable contracts or part-time teaching |
+| Senior (8+ years) | $90,000~$130,000 | Renowned film/game composer or music director |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展可从自由作曲家晋升为音乐总监、电影配乐师或音乐制作人。部分作曲家转向教学或音乐管理领域。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
+
+Career progression can advance from freelance composer to music director, film scorer, or music producer. Some composers move into teaching or music management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates background music or simple scores
+- Basic music transcription and arrangement assistance
+- Basic practice accompaniment in music teaching
+- Automation in audio recording and mixing
+
+**Where AI augments the role:**
+
+- Using AI for music composition inspiration and melody generation
+- Analyzes performance and pitch using AI
+- Use AI tools for music marketing and track recommendation
+- AI-assisted ear training and music theory teaching
+- AI-generated dynamic lighting and visual effects synchronized with live performances
+
+**Human moat:**
+
+- Ability to perform live improvisation and interact with the audience.
+- Unique emotional expression and artistic interpretation
+- Personalized guidance and feedback in teaching.
+- Artistic director role for complex music projects
+- Build personal brand and fan community
+
+**Skills to build:**
+
+- AI Music Generation Tools (e.g., MuseNet, AIVA)
+- Digital audio workstation (DAW) and plugins
+- Basics of music data analysis and recommendation algorithms
+- Multimedia performance technology (lighting, projection, VR)
+- Online teaching platform and content creation
+- Copyright management and music marketing knowledge
+
+**Key growth areas:**
 
 - Digital music production
 - Film scoring
@@ -61,69 +96,68 @@ Composers create original musical works including symphonies, film scores, and p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 适用于被澳洲雇主担保的作曲家，需符合市场薪资要求 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需482后转或直接申请 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，部分州可能担保，需职业评估 |
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，需在MLTSSL清单上且分数达标 |
+| Subclass 482 (Skills in Demand Visa) | For composers sponsored by an Australian employer, must meet market salary requirements |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires transfer from 482 or direct application |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, some states may sponsor, requires skills assessment |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent migration; must be on the MLTSSL and meet points threshold |
 
-**PR难度：困难（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Composer？**
-- 具有出色音乐创作和理论能力的人
-- 愿意接受自由职业和不稳定收入的人
-- 有强烈自我驱动力和人际沟通能力的人
-
-**谁不适合学Composer？**
-- 寻求稳定收入和固定工作场所的人
-- 不喜欢独立工作和长期项目周期的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with exceptional music composition and theory skills.
+- People willing to accept freelance work and unstable income
+- People with strong self-motivation and interpersonal communication skills
+
+**Who is not suited**
+- People seeking stable income and a fixed workplace
+- People who dislike independent work and long project cycles
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of composers?**
+A: Income varies widely: junior freelance composers earn about AUD 40,000-60,000 annually, senior film composers can reach over AUD 90,000, but most need multiple income sources.
+
+**Q: How can composers immigrate to Australia?**
+A: Requires a skills assessment (e.g., VETASSESS), usually a bachelor's degree and relevant work experience. Can apply for 482 employer sponsorship or 190 state nomination, but competition is fierce.
+
+**Q: What is the employment outlook for composers?**
+A: Job numbers will remain stable over the next five years, but demand for traditional composition may decline due to AI composition technology; still opportunities in film and gaming industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 竞争激烈（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Composer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for composers?**
-答：Income varies widely; entry-level freelance composers earn around AUD 40,000-60,000, while senior film scorers may earn over AUD 90,000, but many have multiple income streams.
-
-**问：How can composers migrate to Australia?**
-答：You need a skills assessment (e.g., VETASSESS), usually requiring a bachelor's degree and relevant experience. You may apply for the 482 employer-sponsored visa or 190 state nomination, but competition is high.
-
-**问：What is the job outlook for composers?**
-答：Employment is projected to remain stable over the next five years, but traditional composing may decline due to AI technology, with opportunities in film and gaming.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

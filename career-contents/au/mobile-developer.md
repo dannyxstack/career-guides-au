@@ -1,66 +1,94 @@
-# 移动应用开发工程师（Mobile Developer）职业分析 · 澳大利亚
+# Mobile Developer — career analysis · Australia
 
-**职业代码：261319 – Mobile Developer。**
+**Occupation code: 261319 (ANZSCO)**
 
-移动应用开发工程师为iOS和Android平台设计和构建移动应用程序，是澳洲数字经济的重要组成部分。金融科技、医疗健康和政府数字服务领域的移动化需求持续增长，React Native和Flutter跨平台技能尤为受到雇主青睐。
+Mobile application developers design and build apps for iOS and Android platforms, forming an important part of Australia's digital economy. Demand for mobile solutions continues to grow in fintech, healthcare and government digital services, with React Native and Flutter cross-platform skills particularly valued by employers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of IT / Computer Science / Software Eng | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| iOS / Android Developer Portfolio Projects | 6~12个月自学 | —（开源项目和App Store上架经验） |
-| Google Associate Android Dev / Apple Dev Cert | 2~3个月 | $200~$1,000（平台认证加分） |
+| Bachelor of IT / Computer Science / Software Eng | 3 years | $25,000~$45,000 (International students approx. $100k–$140k total fees) |
+| iOS / Android Developer Portfolio Projects | 6–12 months of self-study | $0~$2,000 (Open-source project and App Store publishing experience) |
+| Google Associate Android Dev / Apple Dev Cert | 2–3 months | $200~$1,000 (Platform certification bonus) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of IT / Software Engineering | 认可大学 | 可选 | 入行基础 |
-| Google Associate Android Developer | Google | 可选 | Android认证 |
-| Apple Developer Program Certification | Apple | 可选 | iOS开发账号+上架经验 |
+| Bachelor of IT / Software Engineering | Recognised university | Optional | Foundation for entering the industry |
+| Google Associate Android Developer | Google | Optional | Android certification |
+| Apple Developer Program Certification | Apple | Optional | iOS developer account and app submission experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 12,000。澳洲移动支付、数字健康管理和政府服务App化趋势2025-2030年持续推进，跨平台开发（React Native/Flutter）技能使单人开发者效率倍增，推动对高质量移动开发人才的需求持续增长。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Australia's trends toward mobile payments, digital health management and government service apps will continue to advance from 2025 to 2030. Cross-platform development skills (React Native/Flutter) multiply individual developer productivity, driving sustained demand for high-quality mobile development talent.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 150~280 个 | 2025年均值 |
-| Indeed | 100~200 个 | 2025年均值 |
-| LinkedIn | 130~250 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $70,000~$92,000 | Junior Mobile Developer |
-| 中级（3-8年） | $95,000~$140,000 | Mobile Developer |
-| 高级（8年+） | $145,000~$200,000 | Senior / Lead Mobile Dev |
+| Median salary | $131,924 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $70,000~$92,000 | Junior Mobile Developer |
+| Mid-level (3–8 years) | $95,000~$140,000 | Mobile Developer |
+| Senior (8+ years) | $145,000~$200,000 | Senior / Lead Mobile Dev |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 原生iOS（Swift）和Android（Kotlin）开发仍是高薪方向，但React Native和Flutter正在快速获得市场份额。AI功能集成（机器学习SDK、LLM API调用）成为高级移动开发工程师的新差异化技能。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Mobile app development engineers are mixed by AI: routine UI coding and testing tasks are highly automated, but AI enhances personalized design, cross-platform optimization, and user behavior analysis. Overall demand is steadily rising.
+
+Native iOS (Swift) and Android (Kotlin) development remain high-paying specialisations, but React Native and Flutter are rapidly gaining market share. AI feature integration (machine learning SDKs, LLM API calls) is becoming a key differentiating skill for senior mobile developers.
+
+**Tasks most exposed to AI:**
+
+- Template-based UI layout and style code generation
+- Automated Execution of Unit and Regression Tests
+- Basic API calls and data binding
+- Simple bug fixes and performance tuning
+
+**Where AI augments the role:**
+
+- AI-assisted generation of component libraries to accelerate UI development
+- Using large models for user behavior analysis and personalized recommendations
+- AI-driven cross-platform code conversion and optimization
+- Smart Debugging Assistant for Complex Issue Identification
+- Auto-generate documents and code comments
+
+**Human moat:**
+
+- Cross-platform architecture design and performance optimization skills
+- Understanding business needs and innovative design
+- Awareness of security compliance and sensitive data handling
+- Experience design for complex user interactions
+
+**Skills to build:**
+
+- React Native / Flutter cross-platform development
+- AI/ML model integration (TensorFlow Lite, etc.)
+- Cloud-native development (AWS Amplify, Firebase).
+- Low-code platforms (Mendix, OutSystems)
+- User behavior analysis tools (Mixpanel, Amplitude)
+- Data privacy and compliance (GDPR, HIPAA)
+
+**Key growth areas:**
 
 - React Native Cross-Platform Apps
 - Flutter Development
@@ -69,66 +97,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，IT紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; IT is a shortage occupation |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学移动应用开发工程师？**
-- 热爱移动产品开发，有强烈的产品感者
-- 希望在金融科技或数字健康领域发展者
-- 能同时掌握iOS和Android跨平台开发者
-
-**谁不适合学移动应用开发工程师？**
-- 偏好后端或基础设施开发者
-- 不喜欢频繁适配不同设备和系统版本者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about mobile product development with a strong product instinct
+- Those looking to build a career in fintech or digital health
+- Developer proficient in both iOS and Android cross-platform development
+
+**Who is not suited**
+- Preference for backend or infrastructure developers
+- Not suited to those who dislike frequent compatibility work across different devices and system versions
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for mobile app developers in Australia?**
+A: Junior: approx. AUD 70,000–92,000; mid-level: AUD 95,000–140,000; senior/Lead Developer: AUD 145,000–200,000; fintech companies offer a clear salary premium.
+
+**Q: Is it easy to find a mobile development role in Australia?**
+A: Demand remains strong, with Seek showing 150-280 active positions regularly. React Native and Flutter cross-platform skills are most popular, with highest demand in Sydney and Melbourne's fintech clusters.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 261319 移动开发工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-移动应用开发工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：移动应用开发工程师在澳洲薪资如何？**
-答：初级约AUD 7万~9.2万，中级9.5万~14万，高级/Lead开发工程师14.5万~20万，金融科技公司薪资溢价明显。
-
-**问：澳洲移动开发岗位好找吗？**
-答：需求持续旺盛，Seek常年有150~280个活跃职位，React Native和Flutter跨平台技能最受欢迎，悉尼和墨尔本金融科技集群需求最旺。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

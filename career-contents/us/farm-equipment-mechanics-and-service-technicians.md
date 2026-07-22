@@ -1,58 +1,92 @@
-# Farm Equipment Mechanics and Service Technicians（Farm Equipment Mechanics and Service Technicians）职业分析 · 美国
+# Farm Equipment Mechanics and Service Technicians — career analysis · United States
 
-**职业代码：49-3041 – Farm Equipment Mechanics and Service Technicians。**
+**Occupation code: 49-3041 (SOC)**
 
-Diagnose, adjust, repair, or overhaul farm machinery and vehicles such as tractors, harvesters, dairy equipment, and irrigation systems.
+Responsible for diagnosing, adjusting, repairing, or overhauling agricultural machinery and vehicles, such as tractors, harvesters, milking equipment, and irrigation systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 大专或职业培训 | 2年 | $10,000~$30,000（社区学院或职业学校） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree or vocational training | 2 years | $10,000~$30,000 (Community college or vocational school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ASE认证 | 美国汽车服务卓越协会 | 可选 | 可选但雇主偏好的行业认证 |
-| EPA 609认证 | 美国环保署 | 必备 | 处理制冷剂必需 |
+| EPA 609 certification | US Environmental Protection Agency | Required | Handling refrigerants is mandatory |
+| ASE certification | Automotive Service Excellence (ASE) | Optional | Optional but employer-preferred industry certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 41,200。美国就业前景稳定，自动化农业和大型设备维护需求持续增长。2022-2032年预计就业增长5%，与所有职业平均水平相当。
+**Job demand: high (★★★★☆).** National workforce approx. 41,200. U.S. employment outlook is stable, with growing demand for automated agriculture and large equipment maintenance. Employment is projected to grow 5% from 2022-2032, about the average for all occupations.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级薪资 |
-| 中级（3-7年） | $42,000~$55,000 | 经验丰富后薪资上涨 |
-| 高级（7年以上） | $55,000~$70,000 | 高级技师或主管 |
+| Median salary | $56,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level salary |
+| Mid-level (3–7 years) | $42,000~$55,000 | Salary increases with experience |
+| Senior (7+ years) | $55,000~$70,000 | Senior technician or supervisor |
+| average salary | $57,290 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助手晋升为技师、高级技师或车间主管，部分经验丰富者可从事设备销售或农场管理。持续学习新设备技术是关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
+
+Can advance from assistant to technician, senior technician, or workshop supervisor; experienced workers may move into equipment sales or farm management. Continuous learning of new equipment technology is key.
+
+**Tasks most exposed to AI:**
+
+- Routine crop health monitoring and data collection via drones and remote sensing
+- Generate standardized planting and fertilization plans based on historical data and models
+- Scheduling and adjustment of automated irrigation systems
+- Standard Pest and Disease Identification and Basic Control Recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyse multi-source data such as soil sensors and satellite imagery to optimise irrigation and fertilisation decisions
+- Using predictive models to provide early warning of pests, diseases, and weather risks, and formulate precise intervention plans
+- Using intelligent decision support systems to simulate different planting strategies, improving yield and sustainability
+- Crop growth full-cycle simulation and management using digital twin technology
+
+**Human moat:**
+
+- Hands-on Operations like On-site Soil Sampling, Equipment Repair, and Emergency Response
+- Interpersonal communication and collaboration with farmers, local governments, and research institutions
+- Strategic planting planning integrating multiple factors (market, regulations, ecology)
+- Flexible judgment and problem-solving for non-standard, sudden farm issues
+- Sustainable agriculture, organic certification, etc., requiring expert manual review for professional judgment
+
+**Skills to build:**
+
+- Precision agriculture technology (drone operation, GPS navigation, variable rate fertilization)
+- Agricultural data analysis and visualization (Python/R, GIS)
+- Smart irrigation and IoT platform management
+- Agricultural AI tools (crop models, prediction algorithms)
+- Sustainable agriculture practices and carbon accounting
+- Project management and farm advisory communication skills
+
+**Key growth areas:**
 
 - Agricultural machinery
 - Precision farming
@@ -61,69 +95,68 @@ Diagnose, adjust, repair, or overhaul farm machinery and vehicles such as tracto
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Worker） | 季节性农业工人签证，但机械师通常不适用；可尝试H-2B。实际常见路径为通过雇主担保申请H-1B或绿卡（若职位符合专业要求）。 |
-| Subclass H-1B（H-1B Specialty Occupation） | 若职位要求至少本科学位（如农业工程相关），但通常机械师不满足专业职业要求，较难获得。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 若雇主愿意担保PERM劳工证，可申请EB-3绿卡，但需证明无合适美国工人。 |
-| Subclass TN（TN NAFTA Professional） | 墨西哥或加拿大公民若符合专业职业要求（如农业工程师）可申请，但通常机械师不符合。 |
+| Subclass H-2A (H-2A Temporary Agricultural Worker) | Seasonal agricultural worker visa, but mechanics are usually not eligible; H-2B may be an option. A common actual path is employer-sponsored H-1B or green card (if the position meets professional requirements). |
+| Subclass H-1B (H-1B Specialty Occupation) | If the position requires at least a bachelor's degree (e.g., in agricultural engineering), but typically mechanics do not meet the professional occupation requirements, making it difficult to obtain. |
+| Subclass EB-3 (EB-3 Skilled Workers) | If the employer is willing to sponsor a PERM labor certification, an EB-3 green card can be applied for, but it must be demonstrated that no suitable US worker is available. |
+| Subclass TN (TN NAFTA Professional) | Mexican or Canadian citizens can apply if they meet professional occupational requirements (e.g., agricultural engineer), but generally mechanics do not qualify. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farm Equipment Mechanics and Service Technicians？**
-- 喜欢动手维修机械的人
-- 对农业技术有兴趣的人
-- 愿意在乡村或农场工作的人
-
-**谁不适合学Farm Equipment Mechanics and Service Technicians？**
-- 不喜欢户外或体力工作的人
-- 不愿接触油污和机械噪音的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on mechanical repair
+- Those interested in agricultural technology
+- People willing to work in rural or farm settings
+
+**Who is not suited**
+- People who dislike outdoor or physically demanding work
+- People unwilling to come into contact with oil, grease, and machinery noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a farm equipment mechanic?**
+A: US Bureau of Labor Statistics 2023 data shows the median annual salary for this occupation is approximately USD 47,000, with a salary range from USD 32,000 for entry-level to USD 70,000 for senior technicians.
+
+**Q: Can farm equipment mechanics immigrate to the US on a work visa?**
+A: This occupation typically does not meet H-1B professional occupation requirements, but EB-3 green card (via PERM) or H-2B seasonal visa may be possible. Actual immigration pathway is difficult; consider Canada or Australia instead.
+
+**Q: Which US states have the highest demand for this occupation?**
+A: Agricultural states such as California, Iowa, Texas, Illinois, and Nebraska have high demand for this occupation, and salaries are relatively competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Farm Equipment Mechanics and Service Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for farm equipment mechanics?**
-答：According to BLS 2023 data, the median annual wage is around $47,000, with salaries ranging from $32,000 for entry-level to $70,000 for experienced mechanics.
-
-**问：Can farm equipment mechanics immigrate to the US via work visa?**
-答：This occupation generally does not qualify for H-1B specialty occupation status, but EB-3 green card via PERM or H-2B seasonal visa may be possible. Immigration pathway is challenging; consider Canada or Australia instead.
-
-**问：Which US states have the highest demand for farm equipment mechanics?**
-答：Agricultural states such as California, Iowa, Texas, Illinois, and Nebraska have high demand and competitive wages.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

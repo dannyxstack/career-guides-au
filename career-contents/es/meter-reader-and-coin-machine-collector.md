@@ -1,60 +1,92 @@
-# Meter Reader and Coin Machine Collector（Meter Reader and Coin Machine Collector）职业分析 · ES
+# Meter Reader and Coin Machine Collector — career analysis · Spain
 
-**职业代码：9434 – Meter Reader and Coin Machine Collector。**
+**Occupation code: 9434 (CNO)**
 
-Reads utility meters and collects coins from recreational and vending machines, records readings and performs basic equipment maintenance.
+Responsible for reading water, electricity, and gas meter data, collecting entertainment and vending machine coins, recording instrument readings, and maintaining equipment base operation.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 2年（FP Grado Medio） | $500~$2,000（公立FP费用较低，私人机构稍高。） |
-| 无学历要求 | 在职培训 | —（多数雇主提供短期岗位培训。） |
+| Junior high school graduation | 2 years (FP Grado Medio) | $500~$2,000 (Public FPs have lower fees, while private institutions have slightly higher fees.) |
+| No education requirement | On-the-job training | $0~$500 (Most employers offer short-term job training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶证B类 | 西班牙交通总局(DGT) | 必备 | 需驾驶公司车辆进行巡查。 |
-| FP Grado Medio: 设施维护相关 | 西班牙教育部认可院校 | 可选 | 非强制，但增加竞争优势。 |
+| Category B driver's license | Spanish Directorate of Transport (DGT) | Required | Company vehicles must be driven for inspections. |
+| FP Grado Medio: Facility maintenance-related | Recognized by the Spanish Ministry of Education | Optional | Non-mandatory, but it increases competitive advantage. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。西班牙数字化与智能计量推广可能减少传统岗位需求，但老旧设备维护与偏远地区仍有少量需求。行业整体平稳，岗位增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. The promotion of digitalization and smart metering in Spain may reduce demand for traditional jobs, but there is still limited demand for maintenance of aging equipment and in remote areas. The industry is generally stable, with slow job growth.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 含加班与补贴。 |
-| 中级（3-7年） | $19,000~$22,000 | 经验增加后浮动较小。 |
-| 高级（7年以上） | $22,000~$26,000 | 可能需兼管多区域。 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Including overtime and subsidies. |
+| Mid-level (3–7 years) | $19,000~$22,000 | Fluctuations are smaller after gaining experience. |
+| Senior (7+ years) | $22,000~$26,000 | It may be necessary to oversee multiple regions simultaneously. |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可向仪器仪表维修、设备巡检或初级技术岗转型。部分从业者通过培训晋升为智能电表安装技术员或设备服务代表。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Utility meter readers face high automation due to smart meters and remote reading technology, leading to sharp job decline and severely limited career prospects.
+
+Candidates can transition to instrument and meter maintenance, equipment inspection, or junior technical positions. Some practitioners are promoted through training to become smart meter installation technicians or equipment service representatives.
+
+**Tasks most exposed to AI:**
+
+- Manually recording electricity, gas, and water meter readings
+- On-site inspection of measuring equipment faults (initial judgment)
+- Generate manual meter reading reports.
+- Reading meters along a fixed route
+
+**Where AI augments the role:**
+
+- Use mobile apps or handheld terminals to assist with remote confirmation of abnormal readings.
+- Identify potential leaks or tampering by analyzing consumption patterns via AI
+- Use autonomous inspection drones or robots for meter reading in high-risk areas
+- Provide energy advice to clients based on AI-generated energy saving reports.
+
+**Human moat:**
+
+- Equipment fault diagnosis and repair in complex on-site environments.
+- In-person communication with clients over billing disputes or safety issues
+- Decision-making ability in emergencies (e.g., gas leaks)
+- Manual calibration and maintenance of old mechanical watch heads
+
+**Skills to build:**
+
+- Basic data analysis and anomaly detection
+- Mobile device and specialized app operation
+- Customer service and communication skills
+- Basic electrical/mechanical repair knowledge
+- Drone or robot operation and maintenance
+
+**Key growth areas:**
 
 - stability
 - limited demand
@@ -63,61 +95,63 @@ Reads utility meters and collects coins from recreational and vending machines, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（受雇工作居留） | 需雇主担保，证明岗位无法在本地填补。但因技能要求低，移民通道极为狭窄。 |
+| Subclass Cuenta ajena (Employed work residence) | Employer sponsorship is required, proving that the position cannot be filled locally. However, due to the low skill requirements, the immigration pathway is extremely narrow. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Meter Reader and Coin Machine Collector？**
-- 希望快速上岗、无需高学历者
-- 适应户外作业与体力劳动的人
-- 喜欢稳定、低压力工作的人
+**Who is suited**
+- Those who want to start quickly without a high level of education
+- People who are adapted to outdoor work and physical labor
+- People who enjoy stable, low-stress work
 
-**谁不适合学Meter Reader and Coin Machine Collector？**
-- 寻求高薪与技术移民机会者
-- 追求职业成长与晋升空间的人
+**Who is not suited**
+- Those seeking high-paying and skilled immigration opportunities
+- People seeking career growth and advancement opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there significant room for salary growth in this profession?**
+A: Not much, senior salary cap around €26,000, industry automation and digitalization trends may further compress salary growth.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: It's almost impossible, the job skills are low, competition for jobs in Spain is fierce, and job sponsorship is rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Meter Reader and Coin Machine Collector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth for this occupation?**
-答：No, the top salary is around €26,000; automation and digitalization may further limit increases.
-
-**问：Can foreigners immigrate through this occupation?**
-答：Nearly impossible due to low skill requirements and high local competition for such posts.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

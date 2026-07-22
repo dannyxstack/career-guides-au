@@ -1,58 +1,91 @@
-# Medical and Dental Prosthetic Technician（Medical and Dental Prosthetic Technician）职业分析 · IT
+# Medical and Dental Prosthetic Technician — career analysis · Italy
 
-**职业代码：3214 – Medical and Dental Prosthetic Technician。**
+**Occupation code: 3214 (ISCO08)**
 
-Medical and dental prosthetic technicians fabricate, repair, and customize dentures, crowns, bridges, and other oral prostheses, also working on medical prosthetics. In Italy, they work in dental labs or hospitals, requiring fine manual skills and material knowledge.
+Medical and dental prosthetic technicians make, repair, and customize dentures, crowns, bridges, and other oral prostheses, and also work on medical prosthetics like artificial limbs. In Italy, this occupation is mainly in dental labs or hospitals, requiring fine manual skills and material knowledge.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训文凭 | 3年 | $1,000~$5,000（公立职业学校几乎免费，私立学校费用不等） |
-| 大学学士学位 | 3年（本科） | $500~$3,000（公立大学学费按收入计算） |
+| Vocational training diploma | 3 years | $1,000~$5,000 (Public vocational schools are almost free, while private school fees vary) |
+| Bachelor's degree | 3 years (bachelor's) | $500~$3,000 (Public university tuition fees are calculated based on income.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科技师执业资格 | 意大利卫生部 | 必备 | 完成培训后通过国家考试 |
-| ISO 13485 质量管理体系认证 | 认证机构 | 可选 | 非强制，但提高就业竞争力 |
+| Dental technician qualification | Italian Ministry of Health | Required | Pass a national exam after completing training |
+| ISO 13485 quality management system certification | Certification bodies | Optional | Not mandatory, but enhances employability competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。意大利人口老龄化推动牙科和义肢需求增长，但就业竞争温和。公共医疗系统稳定，私人牙科市场活跃，预计有持续需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Italy's aging population drives demand for dentistry and prosthetics, but job competition is moderate. The public healthcare system is stable, private dental market is active, with sustained demand expected.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，公立机构较低 |
-| 中级（4-10年） | $26,000~$35,000 | 税前年薪，私立实验室较高 |
-| 高级（10年以上） | $35,000~$45,000 | 税前年薪，主管或自雇 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual salary before tax; lower in public institutions. |
+| Mid-level (4-10 years). | $26,000~$35,000 | Pre-tax annual salary, higher in private labs |
+| Senior (10+ years) | $35,000~$45,000 | Annual salary before tax, for supervisors or self-employed |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初期可在技工室或医院实习，积累经验后晋升为高级技师或主管，部分人可能开设自己的牙科技工室。向数字化牙科（CAD/CAM）转型可拓宽职业路径。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will have a mixed impact on medical and dental prosthesis technicians: routine drafting and design work will be automated, but customized, high-precision manual crafting and patient communication skills remain a moat. Overall job numbers are stable, skill requirements upgrade.
+
+Initially, you can intern in a technician's workshop or hospital, gain experience, and then advance to senior technician or supervisor; some may open their own dental laboratory. Transitioning to digital dentistry (CAD/CAM) can broaden career paths.
+
+**Tasks most exposed to AI:**
+
+- Digital design of standard dentures and crowns using CAD software
+- Automated layout and grinding of restorations (e.g. CAM machine operation)
+- Standardized model generation based on scan data
+- Inventory management and order tracking.
+
+**Where AI augments the role:**
+
+- AI-assisted design software improves the efficiency and accuracy of complex restoration design
+- Smart scanning and diagnostic analysis help technicians quickly obtain patient oral data.
+- AI-driven material performance simulation optimization solution selection
+- Enhanced communication with dentists and prosthetists via remote collaboration platforms
+
+**Human moat:**
+
+- Personalised aesthetic judgment and manual fine adjustment (e.g., biomimetic colouring)
+- Handling complex maxillofacial defects, biomechanical adaptation
+- Ability to communicate clinical needs directly with dentists/doctors
+- Innovative Restoration Design (New Solutions Without AI Database Support)
+
+**Skills to build:**
+
+- CAD/CAM software operation (e.g., 3Shape, exocad)
+- Knowledge of 3D printing and CNC precision machining
+- Digital oral scanning and data analysis
+- Materials science (bioceramics, composite resins, etc.)
+- Interpersonal communication and clinical collaboration skills
+- Basic programming and AI tool application
+
+**Key growth areas:**
 
 - Aging population
 - Digital dentistry
@@ -61,65 +94,64 @@ Medical and dental prosthetic technicians fabricate, repair, and customize dentu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需有高工资门槛，适合中级以上技师。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民通过年度配额申请，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可，由雇主申请，需证明无合适欧盟候选人。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a high salary threshold, suitable for intermediate or senior technicians. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply through annual quotas, requiring employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit, applied by employer, must demonstrate no suitable EU candidate. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical and Dental Prosthetic Technician？**
-- 注重细节、有耐心的人
-- 喜欢手工技艺和精密工作的人
-- 对医疗保健行业有兴趣的人
-
-**谁不适合学Medical and Dental Prosthetic Technician？**
-- 追求高薪和快速晋升的人
-- 不能长期遵循医嘱和规范的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient people
+- People who enjoy handcrafts and precision work
+- People interested in the healthcare industry
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who cannot long-term follow medical advice and regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dental technicians in Italy?**
+A: Entry-level annual income about €20,000–€26,000, senior up to €45,000. Self-employment or running a lab may yield higher income but also higher risk.
+
+**Q: How can non-EU individuals immigrate to Italy to work in this occupation?**
+A: Available through the Decreto Flussi quota work visa or EU Blue Card, requiring employer sponsorship. Occupation not in shortage in Italy; immigration barrier moderate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Medical and Dental Prosthetic Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dental technicians in Italy?**
-答：Entry-level annual salary is about €20,000-€26,000, while senior technicians can earn up to €45,000. Self-employment may yield higher income but with risks.
-
-**问：How can non-EU nationals immigrate to Italy for this occupation?**
-答：They can apply for the Decreto Flussi work visa or EU Blue Card with employer sponsorship. The profession is not on shortage list; migration is moderate.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

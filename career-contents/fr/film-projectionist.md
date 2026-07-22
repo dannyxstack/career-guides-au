@@ -1,60 +1,91 @@
-# Film Projectionist（Film Projectionist）职业分析 · FR
+# Film Projectionist — career analysis · France
 
-**职业代码：E1204 – Film Projectionist。**
+**Occupation code: E1204 (ROME)**
 
-Operates film projection equipment to ensure high-quality playback in cinemas or events. Includes digital and film projection, equipment maintenance, and troubleshooting.
+Responsible for operating film projection equipment to ensure high-quality screening of films in theaters or events. This includes digital and film projection, equipment maintenance, and troubleshooting.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP放映员 | 2年（CAP） | —（公立学校免费，学徒制有补贴） |
-| BTS视听技术 | 2年（BTS） | —（公立学校免费，私立学校约8000欧元/年） |
+| CAP projectionists | 2 years (CAP) | $0~$5,000 (Public schools are free, and apprenticeships are subsidized) |
+| BTS audio-visual technology | 2 Years (BTS) | $0~$8,000 (Public schools are free, while private schools cost about 8,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP放映员职业资格 | CPNEF de l'audiovisuel | 可选 | 行业推荐资格，非强制 |
-| 数字影院认证（DCI） | 数字电影倡议组织 | 可选 | 部分影院要求，证明数字放映能力 |
+| CQP projectionist professional qualification | CPNEF de l'audiovisuel | Optional | Industry recommendation qualification, not mandatory |
+| Digital Cinema Certification (DCI) | Digital Film Initiative | Optional | Some cinemas require proof of digital projection capability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。法国电影放映行业受数字化转型影响，岗位需求稳定但增长缓慢。独立影院和大型连锁影院均需放映员，但自动化趋势减少入门级岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The French film screening industry has been affected by digital transformation, with stable but slow growth in job demand. Both independent cinemas and large chain cinemas need projectionists, but automation is decreasing entry-level positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★★☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 含奖金 |
-| 高级（7年以上） | $32,000~$40,000 | 包含技术管理职责 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Including bonus |
+| Mid-level (3–7 years) | $26,000~$32,000 | Including bonus |
+| Senior (7+ years) | $32,000~$40,000 | Includes technical management responsibilities |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从初级放映助手到首席放映员，可晋升为影院技术经理。部分放映员转行影视制作或设备销售与维护。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The core tasks of projectionists (equipment operation and maintenance) are easily automated, but immersive cinema experiences and emergency response still require humans; the number of positions has decreased, but quality has improved.
+
+From junior projection assistant to chief projectionist, you can be promoted to cinema technical manager. Some projectionists switched to film production or equipment sales and maintenance.
+
+**Tasks most exposed to AI:**
+
+- Automatic playback and scheduling of digital projectors
+- Equipment status monitoring and simple fault diagnosis (AI automatic reporting)
+- Film Key Management and Distribution (Digital Processes)
+- Automatic calibration of projection quality (brightness and color)
+
+**Where AI augments the role:**
+
+- AI-assisted preventive maintenance prediction enhances equipment reliability
+- Automated processes allow projectionists to manage multiple theaters simultaneously
+- AI analyzes audience data to optimize scheduling and screening parameters
+
+**Human moat:**
+
+- Manual troubleshooting and repair of complex faults
+- Experience maintaining special formats (film, IMAX 3D).
+- Real-time communication and emergency response with the cinema team
+- Manual inspection and adjustment of the artistic quality of film screenings
+
+**Skills to build:**
+
+- Digital projection system and automated platform operation
+- Basic IT and network troubleshooting
+- Equipment electronics and mechanical maintenance skills
+- Data analysis and cinema operations optimization
+- Customer service and event planning capabilities
+
+**Key growth areas:**
 
 - Digital transition
 - 4K projection
@@ -63,65 +94,67 @@ Operates film projection equipment to ensure high-quality playback in cinemas or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇工作居留，需雇主担保，适用于有合同的外国员工 |
-| Subclass Passeport Talent（Passeport Talent） | 人才护照，适用于具有特殊才能或高技能的专业人士 |
+| Subclass Salarié (Salarié) | Employed work residence requires employer sponsorship and applies to foreign employees with contracts |
+| Subclass Passeport Talent (Passeport Talent) | The Talent Passport is suitable for professionals with special talents or high skills |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Film Projectionist？**
-- 热爱电影技术，注重细节
-- 适应灵活工作时间和排班
-- 动手能力强，善于设备维护
+**Who is suited**
+- Passionate about film technology and attention to detail
+- Adapt to flexible working hours and scheduling
+- Strong hands-on skills and skilled in equipment maintenance
 
-**谁不适合学Film Projectionist？**
-- 寻求高薪职业者
-- 无法接受晚班和周末工作
+**Who is not suited**
+- Looking for high-paying professionals
+- Unable to accept night shifts or weekend work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for film projectionists?**
+A: The entry-level annual salary is about 22,000-26,000 euros, and the senior can reach up to 40,000 euros.
+
+**Q: Can foreigners apply for a work visa for film projectionists?**
+A: Yes, but employer sponsorship is required. Because these are non-urgently needed occupations, obtaining visas is quite difficult.
+
+**Q: What is the career development path for film projectionists?**
+A: You can be promoted to technical manager or move into equipment sales, film post-production, and similar roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★★☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Film Projectionist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a film projectionist?**
-答：Entry-level annual salary is around €22,000-€26,000, and senior can reach €40,000.
-
-**问：Can foreigners apply for a work visa as a film projectionist?**
-答：Yes, but requires employer sponsorship. Due to non-shortage occupation, visa approval is difficult.
-
-**问：What is the career path for a film projectionist?**
-答：Can advance to technical manager or transition to equipment sales, post-production, etc.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

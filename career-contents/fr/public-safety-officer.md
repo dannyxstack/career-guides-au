@@ -1,62 +1,97 @@
-# Public Safety Officer（Public Safety Officer）职业分析 · FR
+# Public Safety Officer — career analysis · France
 
-**职业代码：K1706 – Public Safety Officer。**
+**Occupation code: K1706 (ROME)**
 
-Public Safety Officers maintain public order, prevent crime, handle emergencies, and enforce laws within the French National Police or Gendarmerie.
+Public safety officers are responsible for maintaining public order, preventing crime, handling emergencies, and enforcing laws within the French National Police or Gendarmerie units.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业直接进入警察学院 | 2年（警察学院培训） | —（培训期间带薪，无需学费） |
-| 大学本科（法律/安全相关） | 3年（Licence） | $200~$2,000（公立大学学费低，每年约200欧元起） |
-| 作为宪兵（Gendarme）需要高中毕业+军事训练 | 1年（军事训练） | —（训练期间带薪） |
+| After graduating from high school, he entered the police academy directly | 2 years (Police Academy training) | $0~$0 (Training is paid, with no tuition fees) |
+| Undergraduate (Law/Security-related) | 3 years (Licence) | $200~$2,000 (Public universities have low tuition fees, starting at about 200 euros per year) |
+| To be a Gendarme, you need to graduate from high school + military training | 1 year (military training) | $0~$0 (Paid training periods) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家警察学院毕业证书 | 法国国家警察学院 | 必备 | 完成培训后获得，是担任警员的必要条件 |
-| 法国国籍（或欧盟国籍） | 法国政府 | 必备 | 大多数公共安全职位要求法国或欧盟国籍 |
-| 体能与心理测试合格 | 招聘部门 | 必备 | 通过体能测试和心理评估 |
+| Diploma from the National Police Academy | French National Police Academy | Required | Obtaining this upon completion of training is a necessary condition for becoming a police officer |
+| French nationality (or EU nationality) | The French government | Required | Most public safety positions require French or EU nationality |
+| Physical fitness and psychological tests passed | Recruitment department | Required | Through physical fitness tests and psychological assessments |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 240,000。法国政府持续加强安保投入，尤其在反恐和大型活动安保领域，岗位需求稳定。但公共安全职位竞争激烈，需通过严格选拔。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 240,000. The French government continues to increase investment in security, especially in counter-terrorism and large-scale event security, where job demand remains stable. However, public safety positions are highly competitive and require strict selection processes.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，含津贴和补贴 |
-| 中级（3-10年） | $33,000~$42,000 | 税前年薪，视职级和地区而定 |
-| 高级（10年以上/警官级别） | $45,000~$60,000 | 税前年薪，含管理职责补贴 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$32,000 | Pre-tax annual salary, including allowances and subsidies |
+| Intermediate (3-10 years) | $33,000~$42,000 | Pre-tax annual salary depends on job grade and region |
+| Senior (over 10 years / Officer level) | $45,000~$60,000 | Annual salary before tax, including management responsibility allowance |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业晋升路径：从基层警员到警长、指挥官，或通过内部考试成为警官（Officier），最终可升至高级管理职位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+While the paperwork, surveillance, and data analysis tasks of public safety officials are easily automated by AI, on-site law enforcement, interpersonal judgment, and legal responsibility are hard to replace, and job demand may be slightly limited.
+
+Career Promotion Path: From junior police officer to sergeant, commander, or through internal exams to become an Officier, you can ultimately advance to senior management positions.
+
+**Tasks most exposed to AI:**
+
+- Camera-based intelligent monitoring and automatic detection of abnormal behavior
+- Text generation and preliminary analysis of standard reports
+- Automatic traffic violation identification and ticket generation
+- Task allocation and route optimization in the dispatch center
+- Automatic classification and labeling of evidence photos
+
+**Where AI augments the role:**
+
+- AI-assisted real-time threat assessment accelerates on-site decision-making
+- Big data analysis predicts crime hotspots and optimizes patrol routes
+- Smart translation devices help communicate with multilingual citizens
+- AI simulation training systems enhance tactical and negotiation skills
+- Drones and robots assist in high-altitude or hazardous environment reconnaissance
+
+**Human moat:**
+
+- Human judgment and moral trade-offs in on-site emergency decision-making
+- The rationality and responsibility of the use of force
+- Interpersonal skills to build trust with citizens and mediate conflicts
+- Discretion in legal proceedings and the credibility of testimony
+- A deep understanding of local community culture and social relations
+
+**Skills to build:**
+
+- Use of AI forensic and data analysis tools
+- Drone and robot operation and maintenance
+- Cybersecurity and digital crime fundamentals
+- Emotional intelligence and crisis negotiation skills
+- Cross-cultural communication and conflict resolution
+- Data-driven policing strategy learning
+
+**Key growth areas:**
 
 - Counter-terrorism
 - Public security
@@ -65,68 +100,67 @@ Public Safety Officers maintain public order, prevent crime, handle emergencies,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 适用于在法国警察部门获得雇佣合同的外国公民，但通常要求欧盟国籍。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 对于高级专家或研究员，但公共安全岗位极少开放给非欧盟公民。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | This applies to foreign citizens who obtain employment contracts with French police departments, but usually requires EU nationality. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For senior experts or researchers, but public safety positions are rarely open to non-EU citizens. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Safety Officer？**
-- 具有强烈责任心和服务精神的人
-- 能承受高压和轮班工作的人
-- 希望通过严格选拔进入公务员体系的人
-
-**谁不适合学Public Safety Officer？**
-- 非欧盟国籍且不打算通过归化入籍的人
-- 不习惯纪律严明和体力要求较高的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong sense of responsibility and a spirit of service
+- People who can handle high pressure and shift work
+- Those hoping to enter the civil service system through rigorous selection
+
+**Who is not suited**
+- Non-EU nationals who do not intend to naturalize through naturalization
+- People who are not used to strict discipline or high physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for public safety officers?**
+A: Junior police officer pretax annual salary around €26,000-32,000, can exceed €50,000 with rank and experience. Salary includes base pay, allowances, and overtime.
+
+**Q: Can non-EU citizens work in public safety in France?**
+A: French or EU nationality is usually required. In very rare cases, non-EU citizens can apply through skilled migration pathways (such as talent passports), but this is extremely difficult and requires strict qualification and language requirements.
+
+**Q: How to be promoted to senior officer?**
+A: Internal promotions require competitive exams or training at the National Police Academy (Officier). Usually, years of experience, good performance, and further training are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Public Safety Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Public Safety Officer?**
-答：Entry-level officers earn €26,000-€32,000 gross annually, rising to over €50,000 with experience and rank, including allowances and overtime.
-
-**问：Can non-EU citizens work in French public safety?**
-答：Generally requires French or EU nationality. Non-EU citizens rarely qualify; exceptions via Talent Passport are extremely difficult and require rigorous certification and language skills.
-
-**问：How to advance to senior officer?**
-答：Promotion through competitive exams or Officer training at the National Police Academy, requiring years of experience, good performance, and additional training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

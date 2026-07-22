@@ -1,59 +1,92 @@
-# Pipe fitters（Pipe fitters）职业分析 · UK
+# Pipe fitters — career analysis · United Kingdom
 
-**职业代码：5214 – Pipe fitters。**
+**Occupation code: 5214 (SOC)**
 
-Pipe fitters install, maintain and repair pipe systems in major utilities, industrial and construction settings, ensuring safe and efficient operation.
+Pipe fitters install, maintain, and repair piping systems in major utilities, industrial, and construction environments, ensuring safe and efficient pipeline operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高级学徒 | 3-4年 | —（学徒期间有工资，培训费用由政府和雇主承担） |
-| 高等国家文凭/学位 | 2-3年 | $9,000~$12,000（英格兰本科生学费约9250英镑/年） |
+| Advanced Apprenticeship | 3-4 years | $0~$0 (Apprentices receive wages during training, with costs covered by the government and employer.) |
+| Higher National Diploma/Degree | 2-3 years | $9,000~$12,000 (Undergraduate tuition fees in England are approximately £9,250 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 管道工高级学徒证书 | 英国学徒制 | 必备 | 需完成3-4年学徒项目并考核通过 |
-| NVQ/SVQ 3级管道工程 | 城市行业协会或EAL | 必备 | 国家级职业资格，证明技能水平 |
-| 燃气安全注册证书 | 燃气安全注册机构 | 可选 | 若涉及燃气管道安装需该证书 |
+| Advanced Certificate for Pipe Trades (Plumber) | UK Apprenticeship | Required | Must complete a 3-4 year apprenticeship program and pass assessment |
+| NVQ/SVQ Level 3 Pipework | City & Guilds or EAL | Required | National vocational qualification, certifying skill level |
+| Gas Safety Registration Certificate | Gas safety registered body | Optional | If involved in gas pipeline installation, this certificate is required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。英国基础设施投资和房屋建设需求持续，管道安装工需求稳定。预计未来十年岗位增长约5%，尤其在水务和能源领域。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. UK infrastructure investment and housing demand continue, resulting in stable demand for pipe installers. Expected job growth of about 5% over the next decade, particularly in water and energy sectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 学徒期满后起薪 |
-| 中级（3-7年） | $28,000~$38,000 | 有经验且持有相关证书 |
-| 高级（7年以上） | $38,000~$50,000 | 高级管道工或主管，含加班 |
+| Median salary | $42,580 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Starting salary after completing apprenticeship |
+| Mid-level (3–7 years) | $28,000~$38,000 | Experienced and holding relevant certifications |
+| Senior (7+ years) | $38,000~$50,000 | Senior plumber or supervisor, including overtime |
+| average salary | $40,698 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒起步，逐步晋升为高级管道工、主管或项目经理。也可通过进一步培训专攻燃气、蒸汽或冷冻管道系统。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI/automation on pipe fitters is mixed: AI planning tools and digital twins optimize design, but on-site installation still relies on manual work. Automated pre-cutting and welding robots can handle repetitive tasks, while complex system diagnostics, material adaptation, and on-site adaptability remain human strengths.
+
+Can start as an apprentice and progress to senior plumber, supervisor, or project manager. May also specialise in gas, steam, or refrigeration pipe systems through further training.
+
+**Tasks most exposed to AI:**
+
+- Use AI for pipeline system layout design and bill of materials generation
+- Automatic pipe bender precisely bends pipes based on digital models
+- Robotic welding standard interfaces and flanges
+- Visual inspection of pipe interiors using drones or cameras
+
+**Where AI augments the role:**
+
+- AR glasses overlay pipe routing and joint positions to improve installation accuracy
+- AI system predicts pipe material corrosion and provides replacement recommendations based on historical data
+- Digital twin simulating pipe stress under different working conditions to assist design decisions
+- Mobile app automatically records construction progress and quality inspection reports, reducing paperwork
+
+**Human moat:**
+
+- Pipe layout in complex spaces and on-site manual pipe bending
+- Repair and modification of non-standard interfaces in old pipeline systems
+- Safety judgment for installation of high-pressure, toxic, or flammable medium pipelines
+- Coordinate on-site with welders, civil workers etc. for emergency adjustments
+
+**Skills to build:**
+
+- Application of digital construction management software
+- Arduino/Raspberry Pi pipeline sensor integration
+- BIM modeling and pipeline system simulation
+- Automated welding robot programming and debugging
+- Data analysis fundamentals: pipeline corrosion trend prediction
+- Safety regulation updates and emergency plan development
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Net zero transition
@@ -62,68 +95,67 @@ Pipe fitters install, maintain and repair pipe systems in major utilities, indus
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得英国雇主担保的管道安装工，需满足薪资门槛（通常至少£26,200/年） |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业雇用的技术工人，需至少£33,000年薪 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可获2年工作签证，积累经验后可转技术工人签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for pipe fitters obtaining UK employer sponsorship, must meet salary threshold (usually at least £26,200/year) |
+| Subclass Scale-up (Scale-up visa) | Applies to skilled workers employed by high-growth companies, requiring a minimum salary of at least £33,000 per year. |
+| Subclass Graduate (Graduate visa) | UK graduates can obtain a 2-year work visa, and after gaining experience, they can switch to a Skilled Worker visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pipe fitters？**
-- 喜欢动手操作，注重细节和安全规范
-- 愿意在室外及不同环境下工作
-- 有解决问题的能力和良好的体力
-
-**谁不适合学Pipe fitters？**
-- 对高空或密闭空间工作感到不适
-- 不喜欢体力劳动或定期加班
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work, attention to detail, and safety compliance
+- Willing to work outdoors and in different environments
+- Ability to solve problems and good physical strength.
+
+**Who is not suited**
+- Discomfort working at heights or in confined spaces
+- Those who dislike physical labor or regular overtime
+
+---
+
+## 8. FAQ
+
+**Q: How much does a pipe fitter earn in the UK?**
+A: Entry-level pipe fitter salary around GBP 20,000–28,000 per year, experienced can reach GBP 38,000–50,000. Overtime and additional certifications can further increase income.
+
+**Q: Can a pipe fitter apply for a UK work visa?**
+A: Yes, plumbers are on the occupation list and can come to the UK for work via a skilled worker visa, requiring employer sponsorship and an annual salary of at least £26,200.
+
+**Q: What are the career prospects for a pipe fitter?**
+A: Good prospects, with stable demand driven by UK infrastructure investment and the net-zero transition. With experience, you can progress to supervisory or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pipe fitters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a pipe fitter in the UK?**
-答：Entry-level pipe fitters earn around £20,000-£28,000, experienced ones can reach £38,000-£50,000 with overtime and additional certifications.
-
-**问：Can a pipe fitter apply for a UK work visa?**
-答：Yes, pipe fitters are eligible for the Skilled Worker visa with employer sponsorship and a salary of at least £26,200 per year.
-
-**问：What is the career outlook for pipe fitters?**
-答：Good prospects due to UK infrastructure investment and net zero transition. Experienced workers can advance to supervisory or management roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

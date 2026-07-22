@@ -1,58 +1,94 @@
-# Science Technicians nec（Science Technicians nec）职业分析 · 新西兰
+# Science Technicians nec — career analysis · New Zealand
 
-**职业代码：311499 – Science Technicians nec。**
+**Occupation code: 311499 (ANZSCO)**
 
-Provide technical support in labs or research settings, assisting with experiments, data analysis, and equipment maintenance. Eligible for Skilled Migrant Category but not on Green List; require accredited employer sponsorship.
+Assist scientists in laboratories or research institutions with experiments, data analysis, and equipment maintenance. Eligible for skilled migration (SMC), but not a Green List priority occupation; requires accredited employer support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（新西兰本科年均学费） |
-| 硕士 | 1-2年 | $35,000~$50,000（硕士年学费，研究型更贵） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Average annual tuition fees for undergraduate programs in New Zealand) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Annual tuition fees for master's degrees, research-based programs are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 科学相关学士学位 | 认可大学 | 必备 | 必备，专业如化学、生物、物理 |
-| 英语语言成绩（雅思6.5） | IELTS | 必备 | 移民要求，各单项不低于6.0 |
+| Bachelor's degree in Science | Recognised university | Required | Essential, such as chemistry, biology, physics |
+| English language proficiency (IELTS 6.5) | IELTS | Required | Immigration requirement: no band less than 6.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,800。新西兰科学技术领域持续增长，尤其在生物技术、环境科学和食品科技方面，岗位需求稳定。但竞争中等，初级职位较多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,800. New Zealand's science and technology sector continues to grow, especially in biotechnology, environmental science, and food technology, with stable demand. However, competition is moderate, with many entry-level positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 平均约5万纽币 |
-| 中级（3-7年） | $55,000~$70,000 | 视领域和认证 |
-| 高级（7年+） | $70,000~$90,000 | 主管或专家岗位 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Average approximately NZ$50,000 |
+| Mid-level (3–7 years) | $55,000~$70,000 | Depends on field and certification |
+| Senior (7+ years) | $70,000~$90,000 | Supervisor or specialist position |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级技术员晋升为高级技术员或实验室主管，也可转向研发、质量管理或销售工程师等岗位，需积累经验并考取专业证书。
-**AI替代风险：中低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Repetitive tasks like experiments and data recording by other science technicians are easily automated by AI, but equipment maintenance and on-site problem solving still require humans. NZ migration pathways are limited; active skill upgrading is needed to avoid shrinking job opportunities.
+
+Can progress from junior technician to senior technician or lab supervisor, or transition to roles in R&D, quality management, or sales engineering, requiring experience accumulation and professional certifications.
+
+**Tasks most exposed to AI:**
+
+- Routine experimental operations and data recording, performed 24/7 by AI lab robots
+- Basic data sorting and statistical report generation; natural language tools can auto-output
+- Status monitoring and simple alarms for lab equipment; AI prediction system can take over
+- Literature search and information summarization, which large models can quickly complete
+- standardized reagent preparation and sample management, replaced by automated workflows
+
+**Where AI augments the role:**
+
+- Experimental design and optimization: AI simulations can quickly screen parameters to assist research direction decisions.
+- Complex data analysis: machine learning models identify patterns overlooked by traditional methods
+- Equipment fault diagnosis: AI analyzes historical data to predict maintenance needs, reducing downtime
+- Literature knowledge association: large models integrate cross-disciplinary papers to inspire new experimental ideas
+- integrated laboratory process automation: using low-code platforms to connect instruments, data, and reports
+
+**Human moat:**
+
+- Problem diagnosis and emergency response in unstructured environments
+- Interdisciplinary experimental scheme design and innovative thinking.
+- Dependence on sensory experience such as abnormal instrument sounds and smells
+- Communicating experimental needs with scientists and coordinating team work
+- Responsibility for judgment and execution of experimental ethics and safety regulations
+
+**Skills to build:**
+
+- Python/R for data analysis and machine learning libraries (e.g., scikit-learn)
+- Laboratory Information Management System (LIMS) Operation and Configuration
+- AI experiment design tools (e.g., Claude for Science)
+- Basic integration knowledge of automation hardware (robotic arms, sensors)
+- Data visualization and reporting automation (e.g., Tableau, Power BI)
+- Scientific computing and simulation software (e.g. MATLAB)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -61,67 +97,66 @@ Provide technical support in labs or research settings, assisting with experimen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需要凑满6分（学历+工作年限），有新西兰工作offer |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，常见路径，工作满一定年限后可申请SMC |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires 6 points (qualifications + work experience) with a New Zealand job offer |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, common pathway; eligible for SMC after working for a certain number of years |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Science Technicians nec？**
-- 喜欢实验室工作，细心且有条理
-- 拥有科学学士学位，希望在新西兰积累经验
-- 愿意从基层技术员做起，逐步晋升
-
-**谁不适合学Science Technicians nec？**
-- 不喜欢重复性实验操作
-- 英语水平较低，无法满足雅思6.5
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys laboratory work, meticulous and organized
+- Holds a Bachelor's degree in Science and wants to gain experience in New Zealand
+- Willing to start as a junior technician and gradually advance
+
+**Who is not suited**
+- Dislikes repetitive experimental operations
+- Low English proficiency; cannot meet IELTS 6.5
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical salary for this occupation in New Zealand?**
+A: Junior technician earns about NZD 45,000-55,000 per year, mid-level 55,000-70,000, senior up to 70,000-90,000. Salaries vary slightly by industry and region.
+
+**Q: As a science and technology professional, is it easy to immigrate to New Zealand?**
+A: Can apply through Skilled Migrant Category (SMC), but not a Green List occupation; requires a New Zealand job offer and accredited employer support. Migration difficulty is moderate; it is recommended to accumulate over 2 years of experience.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can advance from technician to senior technician, laboratory supervisor, or move into areas such as R&D and quality control. Continuous learning and obtaining professional certifications can help with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Science Technicians nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for this occupation in NZ?**
-答：Entry-level technicians earn NZD 45,000–55,000, mid-level 55,000–70,000, and senior 70,000–90,000 per year, varying by sector and location.
-
-**问：Is it easy to migrate to NZ as a science technician?**
-答：You can apply via Skilled Migrant Category (SMC), but it's not on Green List, so an NZ job offer and accredited employer are needed. Difficulty is moderate; gaining 2+ years experience helps.
-
-**问：Are there career advancement opportunities?**
-答：Yes, from technician to senior technician, lab supervisor, or into R&D/quality control. Continued learning and certifications are beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

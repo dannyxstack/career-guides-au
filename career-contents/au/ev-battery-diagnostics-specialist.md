@@ -1,150 +1,172 @@
-# 电动车电池诊断专家（EV Battery Diagnostics Specialist）职业分析 · 澳大利亚
+# EV Battery Diagnostics Specialist — career analysis · Australia
 
-**职业代码：312412 – EV Battery Diagnostics Specialist。**
+**Occupation code: 312412-EVBD (ANZSCO)**
 
-电动车电池诊断专家负责高压电池组的故障诊断、健康状态(SoH)评估、模组维修与更换，横跨 EV 售后、保修与储能运维，需要高压安全资质与诊断工具经验。这是随 EV 保有量上升而快速兴起的技术专才岗，介于电子技术员与电工之间。
+Electric vehicle battery diagnostic experts are responsible for fault diagnosis of high-voltage battery packs, State of Health (SoH) assessment, module repair and replacement, spanning EV after-sales, warranty, and energy storage operation and maintenance, requiring high-voltage safety qualifications and diagnostic tool experience. This is a technical specialist position that has rapidly emerged alongside the increase in EV ownership, positioned between electronics technicians and electricians.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 汽车电气/机电 Certificate III~IV 或电子技术文凭 | 1~2 年 | $4,000~$20,000（TAFE 或 RTO；EV/高压方向加分） |
-| 高压电动车安全资质（De-energise / HV EV 培训） | 数天~数周 | $500~$3,000（高压电池作业法定安全要求） |
-| OEM 诊断系统与电池维修培训 | 数周~数月 | $1,000~$8,000（品牌诊断工具与维修体系） |
+| Automotive Electrical/Mechatronics Certificate III~IV or Electronic Technology Diploma | 1~2 years | $4,000~$20,000 (TAFE or RTO; EV/high-voltage direction is a plus) |
+| High-voltage electric vehicle safety qualification (De-energise / HV EV training) | Days to weeks | $500~$3,000 (Legal safety requirements for high-voltage battery operations) |
+| OEM diagnostic system and battery repair training | A few weeks to several months | $1,000~$8,000 (Brand diagnostic tools and maintenance systems) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高压电动车作业安全资质（HV/De-energise） | 认可 RTO / OEM | 必备 | 高压电池作业法定安全门槛 |
-| 汽车电气/机电 Certificate III~IV | TAFE / RTO | 必备 | 从业基础资质 |
-| OEM 诊断系统认证 | 各汽车厂商 | 可选 | 售后与保修诊断岗常要求 |
+| High-voltage electric vehicle operation safety qualification (HV/De-energise) | Recognized RTO/OEM | Required | Legal safety threshold for high-voltage battery operations |
+| Automotive Electrical/Mechatronics Certificate III~IV | TAFE / RTO | Required | Basic professional qualifications |
+| OEM diagnostic system certification | Various automakers | Optional | After-sales and warranty diagnostic staff are often required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 2,000。澳洲 EV 保有量快速上升带来庞大的电池售后、保修与诊断需求，OEM 与独立维修体系都缺高压诊断人才；但作为技术员级岗位，技术移民路径较受限，多依赖雇主担保。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,000. The rapid increase in Australian EV ownership has led to huge demand for battery after-sales, warranty, and diagnostics. Both OEMs and independent repair systems lack high-voltage diagnostic talent; However, as a technician-level position, the pathway for skilled migration is relatively limited, and employer sponsorship is often relied upon.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~350 个 | EV/电池技术员、诊断、售后岗 |
-| Indeed | 80~300 个 | 含 EV 技师、电池技术员岗 |
-| Jora | 100~300 个 | 电池技术员与 EV 维保岗 |
-
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级/电池技术员（0~3 年） | $63,000~$80,000 | 电池技术员均值约 $63k，EV 方向更高 |
-| 诊断专家（3~7 年） | $80,000~$105,000 | EV 电池系统技术员约 $80k~$113k |
-| 资深/技术主管（8 年+） | $105,000~$130,000 | 资深高压诊断/团队主管 |
+| Median salary | $111,384 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior/Battery Technician (0~3 years) | $63,000~$80,000 | Battery technicians average about $63k, with EVs going even higher |
+| Diagnostic Specialist (3~7 years) | $80,000~$105,000 | EV battery system technicians earn about $80k~$113k |
+| Senior / Technical Supervisor (8+ years) | $105,000~$130,000 | Senior high-pressure diagnostician/team leader |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 2026 年高压电池诊断、SoH 评估与梯次利用成为热点，掌握 OEM 诊断系统与高压安全规程者最抢手。诊断工具与 AI 辅助读取数据，但高压拆装与现场判断仍需人工，AI 替代为部分。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
 
-- 高压电池组诊断与故障定位
-- 电池健康(SoH)评估与二次利用/梯次利用
-- EV 售后与保修诊断(OEM 体系)
-- 电池维修与模组更换(高压安全)
-- 储能电池现场诊断与运维
+By 2026, high-voltage battery diagnostics, SoH evaluation, and cascade utilization will become hot topics, with those skilled in OEM diagnostic systems and high-voltage safety protocols being the most sought after. Diagnostic tools and AI-assisted data reading, but high-voltage disassembly and on-site judgment still require manual labor, with AI replacing parts of the work.
+
+**Tasks most exposed to AI:**
+
+- Automatic battery data collection and initial abnormal screening
+- Automatic fault code analysis and report generation based on standard processes
+- Standardized operations such as torque and connection checks when replacing modules
+
+**Where AI augments the role:**
+
+- AI models are used to predict battery health deterioration trends and optimize maintenance plans
+- Using historical data and AI assistance, it quickly locates the root causes of complex faults
+- After AI-generated diagnostic recommendations, experts validate and adjust the plan
+- Combining AR/VR with AI to remotely guide on-site maintenance operations
+
+**Human moat:**
+
+- High-voltage safe operation and emergency response responsibilities
+- A deep understanding of the mechanisms of battery electrochemical behavior
+- Creative diagnosis for handling non-standard and rare faults
+- Customer trust and the final judgment for warranty decisions
+
+**Skills to build:**
+
+- Battery Management System (BMS) and diagnostic software are used
+- Fundamentals of machine learning and data annotation skills
+- High-voltage electrician certificate and safety qualifications
+- Awareness of the diversity of electric vehicle models and battery chemistry
+- Practical ability in electrical measurement and maintenance
+
+**Key growth areas:**
+
+- High-Voltage Battery Pack Diagnostics & Fault Localization
+- Battery SoH assessment & second-life use
+- EV After-Sales & Warranty Diagnostics (OEM Systems)
+- Battery Repair & Module Replacement (High Voltage Safety)
+- Energy Storage Battery Field Diagnostics & Maintenance
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (SID)） | 雇主担保；EV/电池维保企业担保为主要通道 |
-| Subclass 186（ENS 雇主提名） | 雇主担保永居，需 2~3 年担保经验 |
-| Subclass 491（偏远地区担保） | 偏远地区提名，技术员岗更依赖此通道 |
+| Subclass 482 (Skills in Demand (SID)) | Employer sponsorship; EV/battery maintenance company guarantees are the main channels |
+| Subclass 186 (ENS Employer Nomination) | Employer-sponsored permanent residency requires 2~3 years of sponsorship experience |
+| Subclass 491 (Guarantees for remote areas) | Nominations from remote areas, and technician positions rely more on this channel |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电动车电池诊断专家？**
-- 有汽车电气/机电或电子技术员背景，想切入 EV 电池方向
-- 愿意考取高压电动车作业安全资质并做现场诊断
-- 对电池健康评估、故障定位与维修有兴趣
-- 接受以雇主担保为主的移民路径
-
-**谁不适合学电动车电池诊断专家？**
-- 排斥动手维修与高压作业风险
-- 希望走独立技术移民的快速通道（此岗受限）
-- 不愿学习 OEM 诊断系统与安全规程
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background as automotive electrical/electromechanical or electronic technicians want to enter the EV battery field
+- Willing to obtain high-voltage electric vehicle operation safety qualifications and conduct on-site diagnosis
+- Interested in battery health assessment, fault localization, and repair
+- Accept immigration pathways primarily based on employer sponsorship
+
+**Who is not suited**
+- Dislikes hands-on repairs and high-risk work pressure
+- Those seeking the fast-track independent skilled migration (this position is limited)
+- Unwilling to learn OEM diagnostic systems and safety protocols
+
+---
+
+## 8. FAQ
+
+**Q: How much does an Australian electric vehicle battery diagnostic specialist earn?**
+A: Junior/battery technician about $63K~$80K; Diagnostic specialists $80k~$105k (EV battery system technicians about $80k~$113k); Senior/Supervisor: $105k~$130k.
+
+**Q: What are the requirements for this position?**
+A: Ascend. The rapid growth in EV ownership has led to a large demand for battery after-sales, warranty, and diagnostics. Both OEMs and independent repair systems lack expertise in high-voltage diagnostics.
+
+**Q: Is overseas automotive electrical/battery experience recognized in Australia?**
+A: Must obtain local automotive electrical/electromechanical qualifications and high-voltage electric vehicle safety certifications; Overseas EV diagnosis and repair experience is helpful, but high-voltage operation qualifications are a hard hurdle.
+
+**Q: Will it be replaced by AI?**
+A: Part. Diagnostic readings and fault code analysis can be automated, but high-voltage battery disassembly, module replacement, and on-site safety assessments still require manual labor, requiring human-machine collaboration.
+
+**Q: Is skilled immigration possible?**
+A: It is more difficult to immigrate independently. As a technician-level position, the path is limited, mainly relying on 482 employer sponsorship or regional nominations. It is recommended to first accumulate employment in Australia before advancing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Indeed AU | Battery Technician 澳洲均值约 $63,124 |
-| VisaSponsor Jobs | Electrical Engineering Technician – EV Battery Systems 约 $80k~$112,882 |
-| SEEK AU | Battery Technician 与 EV 技师岗在招 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-电动车电池诊断专家为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电动车电池诊断专家工资多少？**
-答：初级/电池技术员约 $63k~$80k；诊断专家 $80k~$105k（EV 电池系统技术员约 $80k~$113k）；资深/主管 $105k~$130k。
-
-**问：这个岗位需求怎样？**
-答：上行。EV 保有量快速增长带来大量电池售后、保修与诊断需求，OEM 与独立维修体系都缺高压诊断熟手。
-
-**问：海外汽车电气/电池经验澳洲认可吗？**
-答：需取得本地汽车电气/机电资质与高压电动车安全资质；海外 EV 诊断与维修经验有帮助，但高压作业资质是硬门槛。
-
-**问：会被 AI 替代吗？**
-答：部分。诊断读数与故障码分析可自动化，但高压电池拆装、模组更换与现场安全判断仍需人工，属人机协作。
-
-**问：能技术移民吗？**
-答：较难独立移民。作为技术员级岗位路径受限，主要依赖 482 雇主担保或偏远地区提名，建议先在澳就业积累再推进。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

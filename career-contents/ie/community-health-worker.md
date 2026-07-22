@@ -1,59 +1,95 @@
-# Community Health Worker（Community Health Worker）职业分析 · IE
+# Community Health Worker — career analysis · Ireland
 
-**职业代码：3253 – Community Health Worker。**
+**Occupation code: 3253 (ISCO08)**
 
-Community health workers provide health promotion, preventive care, and basic clinical support in primary care settings, serving diverse communities.
+Community health workers provide health promotion, preventive care, and basic clinical support in primary care settings, serving multicultural communities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后培训 | 1年（证书） | $1,000~$3,000（FETAC/QQI 5级证书课程，学费约1000-3000欧元） |
-| 大专 | 2年（高等证书） | $4,000~$8,000（高等证书课程，每年学费约2000-4000欧元） |
+| Post-high school training | 1 year (certificate) | $1,000~$3,000 (FETAC/QQI Level 5 certificate course, tuition about €1,000-3,000) |
+| Diploma | 2 years (Advanced Certificate) | $4,000~$8,000 (Higher certificate program, annual tuition approximately 2000-4000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社区健康工作证书 | QQI (Quality and Qualifications Ireland) | 必备 | 完成QQI 5级证书课程 |
-| CPR/急救证书 | Irish Red Cross or St. John Ambulance | 必备 | 基本急救和心肺复苏认证 |
-| 保护弱势群体培训 | Tusla (Child and Family Agency) | 必备 | 针对儿童和弱势成人的保护培训 |
+| Community health work certificate. | QQI (Quality and Qualifications Ireland) | Required | Complete a QQI Level 5 certificate course |
+| CPR/first aid certificate | Irish Red Cross or St. John Ambulance | Required | Basic first aid and CPR certification |
+| Training in protecting vulnerable groups. | Tusla (Child and Family Agency) | Required | Protection training for children and vulnerable adults |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,000。爱尔兰社区健康服务需求持续增长，尤其在农村和移民社区。政府扩张基层医疗计划推动就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 3,000. Demand for community health services in Ireland continues to grow, particularly in rural and immigrant communities. Government expansion of primary care programs drives favorable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | 根据HSE薪资标准 |
-| 中级（3-7年） | $33,000~$40,000 | 含经验津贴 |
-| 高级（7年以上） | $40,000~$48,000 | 含管理职责津贴 |
+| Median salary | $36,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$33,000 | According to HSE salary standards |
+| Mid-level (3–7 years) | $33,000~$40,000 | Includes experience allowance. |
+| Senior (7+ years) | $40,000~$48,000 | Including management responsibility allowance |
+| average salary | $37,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可晋升为高级社区健康工作者、团队负责人或健康促进专家。部分人员可深造成为注册护士或公共卫生专业人员。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Community health workers' core value lies in interpersonal trust and localized services; AI cannot easily replace their emotional support and community liaison functions. However, administrative tasks such as data management and educational material generation will be greatly enhanced by AI, requiring practitioners to shift to higher-value personalized guidance roles.
+
+Can advance to senior community health worker, team leader, or health promotion specialist. Some may further study to become registered nurses or public health professionals.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate health promotion materials and FAQ content
+- using chatbots for initial health screening and appointment reminders
+- Automatically record and organize customer follow-up records and basic data entry
+- Generate personalized health action plan drafts based on standard protocols
+- Automatically identify community health trends and generate reports via algorithms
+
+**Where AI augments the role:**
+
+- AI-assisted personalized health advice: generate customized intervention plans based on resident health data
+- Smart customer relationship management system: automatically flag high-risk families and remind follow-up
+- Multilingual real-time translation: facilitating seamless communication with residents from different language backgrounds
+- VR/AR simulation training: for health literacy education and behavior change skill practice
+- Predictive analytics tools: identify potential health crises in communities and plan resources in advance.
+
+**Human moat:**
+
+- Build deep trust and empathetic communication
+- Creative problem-solving in complex social situations.
+- Cultural sensitivity assessment and localized intervention design
+- Multi-agency coordination and advocacy for community resource integration
+- Intuitive judgment and ethical decision-making in unstructured information
+
+**Skills to build:**
+
+- Basic data analysis and visualization (e.g., Excel, Tableau)
+- Proficient in operating CRM and health information exchange platforms
+- Learn to use AI health tools (e.g., ChatGPT, AI assessment assistants)
+- Enhance cross-cultural communication and community fundraising skills
+- Participate in data privacy and ethics training
+- Develop skills in project management and community program evaluation
+
+**Key growth areas:**
 
 - Primary Care Expansion
 - Community Health
@@ -62,68 +98,67 @@ Community health workers provide health promotion, preventive care, and basic cl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于3万欧元的非关键技能职业，但全球市场存在 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪至少达爱尔兰平均工资1.5倍的高技能工作者 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于职业清单上的短缺职业，年薪需达到一定门槛 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-critical skill occupations with annual salary not less than 30,000 euros, but exists in the global market |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers earning at least 1.5 times the Irish average annual salary |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for shortage occupations on the occupation list, with an annual salary meeting a certain threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Community Health Worker？**
-- 有社区服务和健康促进热情的人
-- 善于沟通和跨文化工作
-- 希望在基层医疗领域长期发展
-
-**谁不适合学Community Health Worker？**
-- 偏好高薪职业
-- 不愿在多元文化环境中工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about community service and health promotion
+- Good at communication and cross-cultural work
+- Aspiring to develop long-term in primary healthcare
+
+**Who is not suited**
+- Prefer high-paying occupations
+- Unwilling to work in a multicultural environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for community health workers?**
+A: Junior around €28,000-33,000, mid-level up to €40,000, senior around €48,000.
+
+**Q: How can overseas individuals immigrate to Ireland through this occupation?**
+A: Requires employer sponsorship, applying for a general employment permit or critical skills employment permit. Community health workers are in shortage occupations, but relevant qualifications are usually needed.
+
+**Q: What certifications are required?**
+A: Must hold a QQI Level 5 certificate, CPR/first aid certificate, and child protection training certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Community Health Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a community health worker?**
-答：Entry-level ranges from €28,000 to €33,000, mid-level up to €40,000, senior around €48,000.
-
-**问：How can overseas workers immigrate through this occupation?**
-答：Require employer sponsorship for General or Critical Skills Employment Permit. The role is on the shortage list, but qualifications needed.
-
-**问：What certifications are required?**
-答：Mandatory QQI Level 5 certificate, CPR/First Aid, and child protection training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

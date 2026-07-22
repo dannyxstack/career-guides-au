@@ -1,60 +1,94 @@
-# Scribe（Scribe）职业分析 · NL
+# Scribe — career analysis · Netherlands
 
-**职业代码：4414 – Scribe。**
+**Occupation code: 4414 (ISCO08)**
 
-Manually or using electronic devices to transcribe documents such as court records, meeting minutes, or manuscripts, requiring high accuracy and confidentiality.
+Responsible for manually or electronically transcribing documents such as court records, meeting minutes, or manuscripts. Work typically requires high accuracy and confidentiality.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 1-2年 | —（公立学校学费低，可能另有材料费） |
-| 在职培训 | 6个月至1年 | —（雇主提供培训或自费短期课程） |
+| Secondary vocational education | 1-2 years | $0~$1,000 (Public schools have low tuition fees, with possible additional material costs) |
+| On-the-job training | 6 months to 1 year | $0~$500 (Employer-provided training or self-funded short courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰语能力证明 | DUO或认证机构 | 必备 | 需达到B2或以上水平，尤其法律转录 |
-| 速记或转录证书 | ROC或私立学校 | 可选 | 非强制但有利于就业 |
+| Dutch language proficiency proof | DUO or accredited body | Required | Must reach B2 or higher, especially for legal transcription |
+| Shorthand or transcription certificate | ROC or private school | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 200。随着数字化转型，传统抄写员需求下降，但法律、医疗等领域对专业转录员仍有稳定需求。自动化工具可能替代部分工作，但高精度和保密性要求使人工仍不可或缺。
+**Job demand: low (★½☆☆☆).** National workforce approx. 200. With digital transformation, demand for traditional scribes is declining, but there is still steady demand for professional transcribers in fields like law and healthcare. Automation tools may replace some tasks, but high accuracy and confidentiality requirements make human transcription indispensable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，全职 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，含专业领域经验 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，含自由职业者收入 |
+| Median salary | $43,472 | Median salary (official: CBS median hourly wage €22.0/hour × 1,976 hours annualized, BRC group 0431 Administratief medewerkers; P25–P75 €34,975–€52,166, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual salary before tax, full-time |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, including specialized field experience |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary, including freelance income |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级抄写员可通过积累经验转向专业领域（如法律或医疗转录），或发展为校对员、编辑。少数人可成为自由职业者或成立转录公司。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Copyist tasks are highly automatable; entry-level positions are shrinking rapidly. AI transcription and natural language processing can efficiently convert handwriting or speech to text with low error rates and very low costs. This occupation's job numbers in the Netherlands will decline significantly, leaving only a few special scenarios in legal or historical fields requiring extremely high accuracy and confidentiality.
+
+Junior transcribers can move into specialized fields (e.g., legal or medical transcription) through experience, or become proofreaders or editors. A few can become freelancers or start their own transcription companies.
+
+**Tasks most exposed to AI:**
+
+- Manually transcribe or transcribe audio files; AI voice recognition can directly output text
+- Digitization of handwritten documents; OCR technology is highly mature.
+- Real-time generation of meeting or court transcripts; AI-assisted transcription systems can automate the process
+- repetitive file copying, such as producing multiple copies, replaced by automated printing and scanning systems.
+- Basic proofreading and formatting adjustments; AI grammar check tools can automatically correct them
+
+**Where AI augments the role:**
+
+- AI-assisted recognition of complex manuscripts or ancient scripts, improving transcription accuracy
+- Manual verification of key terms and context after automatic speech-to-text.
+- Use AI to search and cross-reference historical materials, enhancing the value of transcribed content
+- AI generates summaries or indexes to help quickly locate key information in documents
+- Use AI tools to achieve multilingual real-time translation and transcription, expanding service scope.
+
+**Human moat:**
+
+- Human judgment in highly confidential scenarios (e.g., legal, medical, government classified documents)
+- Ability to decipher handwritten ancient scripts, non-standard formats, or severely degraded documents
+- Ultimate responsibility for the accuracy and legal validity of the content
+- Complex context understanding and precise grasp of specialized terminology
+
+**Skills to build:**
+
+- Proficient in using and correcting AI voice transcription tools (such as Otter.ai, Rev, etc.)
+- Digitizing learning materials and archival management software (e.g., Adobe Acrobat, OCR tools)
+- Improve foreign language skills, especially professional terminology in legal and medical fields
+- Master data privacy and confidential document handling protocols (e.g., GDPR-related)
+- Learn basic data analysis to structurally organize transcription content
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,65 +97,67 @@ Manually or using electronic devices to transcribe documents such as court recor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟公民，需雇主担保，年薪门槛约€5,000+/月 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需至少€5,331/月（2024年标准） |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled non-EU citizens, requires employer sponsorship, monthly salary threshold approximately €5,000+ |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talents, requiring at least €5,331/month (2024 standard) |
+
+**PR friendliness: high (★★★★☆).**
+
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Scribe？**
-- 注重细节、打字速度快的人
-- 喜欢独立工作、有良好语言能力的人
-- 对法律或医疗领域感兴趣的人
+**Who is suited**
+- Detail-oriented, fast typist
+- People who enjoy independent work and have good language skills
+- People interested in legal or medical fields
 
-**谁不适合学Scribe？**
-- 追求高薪和快速职业发展者
-- 不喜欢重复性工作或长时间坐着的人
+**Who is not suited**
+- Those seeking high salary and rapid career development
+- People who dislike repetitive work or sitting for long periods
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of scribes in the Netherlands?**
+A: Entry-level full-time annual salary approx. €25,000-32,000, senior can reach €40,000-50,000. Freelancers' income varies significantly.
+
+**Q: Can non-EU citizens immigrate to the Netherlands as copyists?**
+A: Relatively difficult. This occupation usually does not meet the high-skilled immigration salary threshold, but may qualify through the EU Blue Card or highly skilled migrant scheme, requiring employer sponsorship and meeting the annual salary threshold. It is recommended to consider related high-paying occupations.
+
+**Q: What is the demand outlook for copyists in the Netherlands?**
+A: Demand is generally declining due to automation and digitalization. However, stable demand remains in specialized fields like law and healthcare, especially for work requiring high confidentiality and accuracy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Scribe属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for scribes in the Netherlands?**
-答：Entry-level full-time annual salary ranges from €25,000 to €32,000, senior up to €40,000-€50,000. Freelance income varies.
-
-**问：Can non-EU citizens immigrate to the Netherlands as scribes?**
-答：Difficult. The occupation usually does not meet the salary threshold for highly skilled migration, but EU Blue Card or Highly Skilled Migrant scheme may apply if employer sponsors and salary meets thresholds. Consider related higher-paying roles.
-
-**问：What is the demand outlook for scribes in the Netherlands?**
-答：Overall demand is declining due to automation and digitalization. However, niche fields like legal and medical transcription still offer stable demand, especially for roles requiring high confidentiality and accuracy.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

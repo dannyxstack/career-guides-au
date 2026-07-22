@@ -1,65 +1,96 @@
-# 交通 / 车站官员（Transport / Station Officer）职业分析 · 澳大利亚
+# Transport / Station Officer — career analysis · Australia
 
-**职业代码：451612 – Transport / Station Officer。**
+**Occupation code: 451612 (ANZSCO)**
 
-交通/车站官员在州公共交通系统(如 Sydney Trains、各州运输局)负责车站运营、乘客服务、安全巡查与票务合规(授权官员/Authorised Officer)，由政府运输机构雇用、有轮班津贴，是稳定的公共部门蓝领/服务岗，非技术移民职业。
+Transport/station officers in state public transport systems (e.g., Sydney Trains, state transport authorities) handle station operations, passenger services, safety patrols, and ticket compliance (Authorised Officers). Employed by government transport agencies with shift allowances, these are stable public sector blue-collar/service roles, not skilled migration occupations.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 + 入职带薪培训 | 数周 | —（雇主提供） |
-| Authorised Officer / 安全培训 | 数周 | —（岗位要求） |
+| High School + paid on-the-job training | Several weeks | $0~$0 (Provided by employer) |
+| Authorised Officer / Safety training | Several weeks | $0~$500 (Job requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 入职运营 / 授权官员培训 | 州运输机构 | 必备 | 强制 |
-| National Police Check | 各州 | 必备 | 强制 |
+| Induction/authorized officer training | State transport authorities | Required | Mandatory |
+| National Police Check | All states | Required | Mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 30,000。公共交通运营与安全需求支撑稳定招聘，轮班与津贴使实际收入高于基本工资。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 30,000. Stable recruitment is supported by public transport operations and safety needs; shift work and allowances make actual earnings higher than base salary.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 各州 transport 官网 | 600~1,400 个 | 州政府 |
-| Seek | 500~1,100 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$68,000 | 含培训期 |
-| 中级（3-8年） | $68,000~$78,000 | 含轮班津贴 |
-| 资深 / 值班 | $78,000~$90,000 | 含加班 |
+| Median salary | $69,160 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$68,000 | Including training period |
+| Mid-level (3–8 years) | $68,000~$78,000 | Includes shift allowances |
+| Senior / on-call | $78,000~$90,000 | Including overtime |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 路径：车站官员→高级/值班经理→运营岗；授权官员资格与轮班经验影响收入。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Entry-level positions for transport/station officials (e.g., ticketing, patrol) are susceptible to replacement by self-service ticket machines and AI surveillance, but core tasks like emergency handling, law enforcement discretion, and public service still rely on humans—a mixed blessing.
+
+Pathway: Station officer → Senior/Duty manager → Operations; Authorised Officer qualification and shift experience affect income.
+
+**Tasks most exposed to AI:**
+
+- Ticket Sales and Validation: Self-service ticket machines, turnstiles, and mobile payments replace manual ticketing and validation
+- Crowd Monitoring and Anomaly Detection: AI Video Analysis Automatically Identifies Crowding, Falls, Abandoned Objects, Replacing Manual Patrols
+- Routine information queries: chatbots and station apps provide route, timetable, and delay information, reducing front desk inquiries
+- Ticket compliance check: automated gates and e-ticketing systems directly detect fare evasion, replacing manual spot checks
+- Non-emergency event recording: AI automatically generates incident reports and logs, replacing manual entry
+
+**Where AI augments the role:**
+
+- Passenger guidance and complex issue handling: AI provides real-time passenger flow heat maps to assist officers in optimizing guidance routes
+- Emergency response: AI integrates sensor data (smoke, crowd flow) for rapid incident location, assisting official decision-making
+- Multilingual communication: real-time translation headsets or apps assist officers in serving non-English-speaking passengers
+- Training and procedure updates: AI generates immersive VR sim scenarios to improve emergency response training efficiency
+- Operations optimization: AI analyzes historical data to predict peak passenger flow, assisting officials in scheduling and resource allocation
+
+**Human moat:**
+
+- Discretion in on-site law enforcement: legal judgment and human consideration in deciding fare evasion or violations
+- Leadership and decision-making in emergencies: calming crowds and organizing evacuations during fires or medical emergencies.
+- Complex interpersonal communication: handling passenger complaints, lost and found, special needs (disabled, children)
+- Environmental adaptability: handle emergencies in noisy, outdoor, crowded sites
+- Local Knowledge: Familiarity with Local Transport Networks, Community Customs, Site Physical Details
+
+**Skills to build:**
+
+- AI monitoring system operation and anomaly response: learn to use video analytics platforms and set alarms
+- Data analysis basics: understanding passenger flow reports, delay statistics, using data to guide on-site management
+- Use of multilingual service tools: proficiently using real-time translation apps and multi-device setups
+- Psychological crisis intervention training: enhance ability to handle mentally disturbed or violent passengers
+- Basic programming/scripting: automate daily reports with Excel macros or low-code tools
+- Emergency management certification: obtaining NATAP (National Action Team) or similar first aid certificates
+
+**Key growth areas:**
 
 - Public Transport Ops
 - Customer Safety
@@ -68,57 +99,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学交通 / 车站官员？**
-- 能轮班、擅长乘客服务与安全处置者
-- 想要无需学位的稳定公职者
-
-**谁不适合学交通 / 车站官员？**
-- 排斥夜班/轮班与户外作业者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who can work shifts and are skilled in passenger service and safety management
+- Those seeking a stable public sector role without a degree requirement
+
+**Who is not suited**
+- Excludes night shifts/rotating shifts and outdoor work
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of transport/station officers?**
+A: Around AUD 58,000-90,000, shift and overtime allowances have significant impact.
+
+**Q: Can a station officer immigrate via skilled migration?**
+A: No, it is a state government public transport local role and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-交通 / 车站官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：交通/车站官员薪资多少？**
-答：约 AUD $5.8万~$9万，轮班与加班津贴影响较大。
-
-**问：车站官员能技术移民吗？**
-答：不能，属于州政府公共交通本地岗，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

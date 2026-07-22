@@ -1,61 +1,97 @@
-# Dental Technician（Dental Technician）职业分析 · DE
+# Dental Technician — career analysis · Germany
 
-**职业代码：8254 – Dental Technician。**
+**Occupation code: 8254 (KldB)**
 
-Dental technicians fabricate dental prosthetics such as crowns, bridges, dentures, and orthodontic appliances in specialized laboratories, playing a key role in oral healthcare.
+Dental technicians create dentures, crowns, bridges, and other dental prostheses in laboratories, playing an essential technical role in the oral healthcare team.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育（Ausbildung） | 3.5年 | —（双元制期间学校免费，企业提供津贴） |
-| 本科（B.Sc. Dental Technology） | 3-4年 | —（公立大学免学费，每学期仅注册费） |
+| Dual vocational education and training (Ausbildung) | 3.5 years | $0~$500 (During the dual system, school is free and companies provide an allowance.) |
+| Bachelor's degree (B.Sc. Dental Technology). | 3-4 years | $0~$1,500 (Public universities are tuition-free, only semester registration fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科技师职业资格证（Gesellenbrief） | 德国工商业协会（IHK） | 必备 | 完成双元制培训并通过考试 |
-| 大师证书（Meisterbrief） | IHK | 可选 | 可独立开业或带徒 |
-| 外国学历认证（Anerkennung） | 各州主管机构 | 必备 | 第三国学历需经过资质认证方可从业 |
+| Dental Technician Professional Qualification Certificate (Gesellenbrief) | German Chamber of Commerce and Industry (IHK) | Required | Complete dual training and pass the exam |
+| Foreign qualification recognition (Anerkennung) | State regulating authorities | Required | Qualifications from third-country institutions require accreditation to practice |
+| Master craftsman certificate (Meisterbrief) | IHK | Optional | Able to operate independently or take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 24,000。德国老龄化加剧，对假牙和修复体的需求持续增长。数字化技术（CAD/CAM）的普及正在改变工作方式，但手工技能依然重要。就业机会稳定，尤其在老龄化严重的地区。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 24,000. Germany's aging population drives growing demand for dentures and prosthetics. Digital technology (CAD/CAM) is changing the work process, but manual skills remain important. Employment opportunities are stable, especially in regions with high aging rates.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，基于行业平均 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，视经验和技能 |
-| 高级（7年以上/大师） | $40,000~$55,000 | 税前年薪，含管理或自主创业 |
+| Median salary | $44,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual salary before tax, based on industry average |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, depending on experience and skills |
+| Advanced (7+ years / Expert) | $40,000~$55,000 | Annual pre-tax salary, including management or self-employment |
+| average salary | $49,008 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从学徒或技术员起步，可晋升为实验室主管、技术总监或开设自己的牙科技工室。通过继续教育可专攻数字化牙科、种植体修复或美学修复。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will automate tasks such as crown design and 3D modeling, but manual finishing of prosthetics and patient customization still rely on technician skills, presenting mixed prospects for the role.
+
+Career path: start as an apprentice or technician, progress to lab supervisor, technical director, or open your own dental lab. Further education can lead to specialization in digital dentistry, implant restoration, or aesthetic restoration.
+
+**Tasks most exposed to AI:**
+
+- Create initial designs for crowns and bridges using traditional wax patterns
+- Manually perform model scanning and 3D data collection.
+- Selecting denture materials based on standard databases
+- Repetitive basic grinding and polishing tasks
+- Generate simple occlusal record reports
+
+**Where AI augments the role:**
+
+- Use AI-assisted design software to quickly generate 3D models of restorations, improving design precision
+- Optimize manufacturing processes by using AI to predict material shrinkage and fit
+- Use digital occlusal analysis tools to improve denture functional fit
+- Use AI-assisted automated tooth arrangement system to accelerate full denture production
+- Using machine learning to compare patient tooth morphology databases for personalized design
+
+**Human moat:**
+
+- Color and form artistic judgment in complex aesthetic reconstruction
+- Interpreting skills to communicate patient clinical needs with dentists
+- Manual adjustment and fine polishing for rare cases.
+- Hands-on experience with innovative materials and implant systems
+- Comprehensive problem-solving skills for handling complaints and rework
+
+**Skills to build:**
+
+- Proficient in AI-integrated design software such as EXOCAD and 3Shape
+- Operation and maintenance of digital scanning and 3D printing equipment
+- Basic knowledge of oral anatomy and materials science
+- Data analysis and quality monitoring (e.g., SPC)
+- Cross-team collaboration and clinical communication skills
+- Adaptability for continuous learning of new AI tools
+
+**Key growth areas:**
 
 - Digital Dentistry
 - Aging Population
@@ -64,69 +100,68 @@ Dental technicians fabricate dental prosthetics such as crowns, bridges, denture
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 有德国认可的职业资格即可申请工作签证，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许未找到工作前入境寻找机会 |
-| Subclass Job Seeker Visa（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicants with a recognized professional qualification in Germany can apply for a work visa; employer sponsorship required. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
+| Subclass Job Seeker Visa (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Technician？**
-- 有手工技能和精细操作能力的人
-- 对口腔医学和材料学感兴趣的人
-- 愿意接受3-4年职业培训的人
-
-**谁不适合学Dental Technician？**
-- 不擅长时间管理和重复性工作的人
-- 对化学材料或粉尘敏感的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with manual skills and fine manipulation ability
+- People interested in stomatology and materials science
+- Those willing to undergo 3-4 years of vocational training
+
+**Who is not suited**
+- People who are not good at time management and repetitive work
+- People sensitive to chemical materials or dust
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of dental technicians?**
+A: Junior: approx. €26,000–32,000/year; senior up to €55,000/year; self-employed earn more.
+
+**Q: How can a third-country dental technician immigrate to Germany?**
+A: Requires passing the German official qualification recognition (Anerkennung) first, then applying for a skilled migration visa. Dual-system training or a bachelor's degree can apply directly.
+
+**Q: What is the work environment like?**
+A: Primarily works in a lab, closely collaborating with dentists. Digital equipment is widespread, but handcrafting still holds an important role.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Dental Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dental technicians?**
-答：Entry-level earns around €26,000-32,000/year, experienced up to €55,000/year, self-employed can earn more.
-
-**问：How can a third-country dental technician immigrate to Germany?**
-答：You need to get your qualifications recognized (Anerkennung), then apply for a skilled worker visa. Completing German vocational training or a bachelor's degree allows direct application.
-
-**问：What is the work environment like?**
-答：Work is mainly in laboratories, closely collaborating with dentists. Digital equipment is common, but manual craftsmanship remains important.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

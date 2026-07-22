@@ -1,58 +1,94 @@
-# Microbiologist（Microbiologist）职业分析 · 澳大利亚
+# Microbiologist — career analysis · Australia
 
-**职业代码：234517 – Microbiologist。**
+**Occupation code: 234517 (ANZSCO)**
 
-Microbiologists study microorganisms such as bacteria, viruses, and fungi, their structures, functions, and behaviors, contributing to healthcare, agriculture, food safety, and environmental protection.
+Microbiologists study the structure, function, and behavior of microorganisms (such as bacteria, viruses, fungi) and play a role in fields such as healthcare, agriculture, food, and environmental protection.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（学士） | 3-4年 | $30,000~$45,000（科学学士（微生物学方向），年学费约AUD 30,000-45,000） |
-| 硕士 | 1-2年 | $35,000~$50,000（理学硕士（微生物学），年学费约AUD 35,000-50,000） |
+| Bachelor's degree | 3-4 years | $30,000~$45,000 (Bachelor of Science (Microbiology), annual tuition approximately AUD 30,000-45,000.) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Master of Science (Microbiology), annual tuition approx AUD 35,000-50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 理学学士（微生物学或相关领域） | 澳洲大学 | 必备 | 通常要求科学学士学位，主修微生物学 |
-| 技能评估（VETASSESS） | VETASSESS | 必备 | 移民必须通过VETASSESS职业评估，ANZSCO 234517为Group A，需本科学位且专业高度相关 |
+| Bachelor of Science (Microbiology or related field) | Australian universities | Required | Typically requires a Bachelor of Science degree, majoring in microbiology |
+| Skills assessment (VETASSESS) | VETASSESS | Required | Migration requires VETASSESS skills assessment; ANZSCO 234517 is Group A, requiring a bachelor's degree with a highly relevant major |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。澳洲微生物学家需求稳定，受医疗、制药和生物技术行业推动。COVID-19 疫情后公共卫生领域关注度提升，预计未来五年就业增长稳健。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,500. Demand for microbiologists in Australia is stable, driven by the healthcare, pharmaceutical, and biotechnology industries. Post-COVID-19, public health focus has increased, with steady employment growth expected over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 实验室助理或初级微生物学家 |
-| 中级（3-7年） | $75,000~$95,000 | 资深微生物学家或实验室主管 |
-| 高级（7年以上） | $95,000~$120,000 | 首席科学家或研究经理 |
+| Median salary | $80,288 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Laboratory assistant or junior microbiologist. |
+| Mid-level (3–7 years) | $75,000~$95,000 | Senior microbiologist or laboratory manager. |
+| Senior (7+ years) | $95,000~$120,000 | Chief Scientist or Research Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级岗位积累实验室经验后，可晋升为高级科学家或团队主管；进修博士或转向研究管理、法规事务或质量控制领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core experimental and data analysis tasks of microbiologists are being replaced by AI automation tools, but in areas requiring causal reasoning and creative problem-solving, such as pathogenic mechanism research and new antibiotic development, AI enhances human capabilities. Entry-level competition intensifies, but value of senior scientists increases.
+
+After gaining lab experience in junior roles, one can advance to senior scientist or team supervisor; pursuing a PhD or moving into research management, regulatory affairs, or quality control.
+
+**Tasks most exposed to AI:**
+
+- Routine microbiological identification and enumeration (automatic colony counter, mass spectrometry identification)
+- Metagenomic data analysis and sequence assembly (AI workflow automation)
+- Drug sensitivity test result interpretation (AI pattern recognition)
+- Experimental records and data collation (AI auto-generates reports)
+- Culture media preparation and sterilization processes (automated robotics)
+
+**Where AI augments the role:**
+
+- Predict microbial metabolic pathways and gene functions (AI models accelerate hypothesis generation).
+- virtual screening and design of drug molecules (generative AI-assisted new drug development)
+- Large-scale epidemiological data analysis (AI identifies outbreak patterns)
+- Electron microscope image analysis (AI recognition of subcellular structures)
+- Experiment protocol optimization (AI recommends optimal experimental conditions)
+
+**Human moat:**
+
+- Proposing original scientific questions and designing validation experiments
+- Interdisciplinary integration (e.g., microbiology & immunology, ecology)
+- Communicating and collaborating with clinicians and pharmaceutical companies.
+- Regulatory compliance and ethical judgment (e.g., biosafety levels)
+- Creative problem-solving skills for handling experimental accidents and failures
+
+**Skills to build:**
+
+- Bioinformatics and AI/ML algorithms (e.g., genomic analysis tools)
+- Advanced statistics and experimental design (e.g., Bayesian methods)
+- Automated laboratory operations (e.g., liquid handling workstation programming)
+- Interdisciplinary collaboration skills (work with IT, data scientists)
+- Intellectual property and commercialisation mindset (patents, startups)
+- Continuously learning new AI tools (e.g., using AlphaFold3)
+
+**Key growth areas:**
 
 - Healthcare
 - Biotechnology
@@ -61,69 +97,68 @@ Microbiologists study microorganisms such as bacteria, viruses, and fungi, their
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage)） | 雇主担保临时签证，需相关学历和2年工作经验，可转186永居 |
-| Subclass 189（Skilled Independent (Points-tested)） | 独立技术移民，职业在MLTSSL清单上，通过技能评估，达到分数要求 |
-| Subclass 190（Skilled Nominated (Points-tested)） | 州担保技术移民，职业在州担保名单上，需获得州提名 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区技术移民临时签证，满足条件后可转191永居 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage)) | Employer-sponsored temporary visa, requiring relevant qualifications and 2 years of work experience, can transition to 186 permanent residency. |
+| Subclass 189 (Skilled Independent (Points-tested)) | Skilled independent migration; occupation on the MLTSSL list; pass skills assessment; meet points requirement. |
+| Subclass 190 (Skilled Nominated (Points-tested)) | State-sponsored skilled migration; occupation on state nomination list, requires state nomination. |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Regional skilled migration provisional visa; can transfer to 191 permanent residency after meeting conditions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Microbiologist？**
-- 对微观生命科学有强烈好奇心，喜欢实验操作和数据分析
-- 注重细节、有耐心，能反复进行精确实验
-- 希望从事医疗、药企或研究机构稳定工作
-
-**谁不适合学Microbiologist？**
-- 不喜欢长时间在实验室工作或面对复杂生物样本
-- 对重复性实验和严格流程感到枯燥
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong curiosity about micro-life sciences, enjoy experimental operations and data analysis.
+- Detail-oriented and patient, able to perform precise experiments repeatedly
+- Seeking stable work in healthcare, pharmaceutical companies, or research institutions
+
+**Who is not suited**
+- For those who dislike long hours in the lab or working with complex biological samples.
+- Finds repetitive experiments and strict procedures dull
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a microbiologist in Australia?**
+A: Junior: approximately AUD 60,000-75,000, mid-level: approximately AUD 75,000-95,000, senior: up to AUD 95,000-120,000.
+
+**Q: Can microbiologists migrate to Australia through skilled migration?**
+A: Yes. ANZSCO 234517 is on the MLTSSL, eligible for 189, 190, 491 visas, or via 482 employer sponsorship to 186.
+
+**Q: What are the career progression paths for a microbiologist?**
+A: Progress from junior lab technician to senior scientist, team leader, or transition to quality control, regulatory affairs, R&D management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Microbiologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a microbiologist in Australia?**
-答：Entry-level: AUD 60,000-75,000; mid-level: AUD 75,000-95,000; senior: AUD 95,000-120,000 per year.
-
-**问：Can microbiologists migrate to Australia via skilled migration?**
-答：Yes. ANZSCO 234517 is on the MLTSSL, eligible for 189, 190, 491 visas, or via 482 employer sponsorship to 186.
-
-**问：What are the career progression paths for microbiologists?**
-答：From entry-level lab technician to senior scientist or team leader, or transition to quality control, regulatory affairs, or R&D management.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

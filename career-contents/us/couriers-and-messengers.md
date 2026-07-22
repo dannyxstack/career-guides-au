@@ -1,61 +1,95 @@
-# Couriers and Messengers（Couriers and Messengers）职业分析 · 美国
+# Couriers and Messengers — career analysis · United States
 
-**职业代码：43-5021 – Couriers and Messengers。**
+**Occupation code: 43-5021 (SOC)**
 
-Pick up and deliver messages, documents, packages, and other items between offices or departments within an establishment or directly to other businesses, traveling by foot, bicycle, motorcycle, automobile, or public conveyance.
+Responsible for delivering letters, documents, parcels, and other items by walking, cycling, motorcycling, driving, or using public transport between offices, businesses, or individuals.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常只需高中文凭，在职培训） |
-| 短期职业培训 | 1-3个月 | $500~$2,000（可选配送效率、客户服务等课程） |
+| High school diploma or equivalent | None | $0~$0 (Usually requires only a high school diploma with on-the-job training) |
+| Short-term vocational training | 1-3 months. | $500~$2,000 (Optional courses in delivery efficiency, customer service, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 有效驾驶执照 | 各州机动车管理局 | 必备 | 驾驶机动车配送需持有C类驾照 |
-| 雇主背景调查 | 雇主 | 必备 | 部分雇主要求通过背景调查 |
-| 快递员培训证书 | 美国快递协会等 | 可选 | 非强制性，但有助于就业 |
+| Valid driver's license | State motor vehicle departments | Required | Driving a motor vehicle for delivery requires a Class C license |
+| Employer background check | Employer | Required | Some employers require background checks |
+| Courier training certificate | American Express Association, etc. | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 175,000。该职业就业前景相对稳定，受电商和本地配送需求支撑，但自动化（如无人机、无人车）和电子通信可能抑制增长，预计2023-2033年就业变化约为-2%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 175,000. The employment outlook for this occupation is relatively stable, supported by e-commerce and local delivery demand, but automation (e.g., drones, unmanned vehicles) and electronic communications may suppress growth. Projected employment change from 2023-2033 is approximately -2%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 通常按小时计薪，约$12-$15/小时 |
-| 中级（3-5年） | $32,000~$40,000 | 经验丰富者平均约$16-$19/小时 |
-| 高级（5年以上） | $40,000~$50,000 | 主管或调度岗位可达$20-$24/小时 |
+| Median salary | $39,200 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Usually paid hourly, about $12-$15/hour |
+| Mid-level (3–5 years) | $32,000~$40,000 | Experienced workers average about $16-$19/hour |
+| Senior (5+ years) | $40,000~$50,000 | supervisor or dispatcher roles can reach $20-$24/hour |
+| average salary | $40,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：普通（★★☆☆☆）。** 通常从入门级快递员起步，可晋升为调度员、配送主管或运营经理，也可转向物流协调、仓库管理等相关岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
+
+Typically starts as an entry-level courier, can advance to dispatcher, delivery supervisor, or operations manager, and can also transition to related roles such as logistics coordinator or warehouse manager.
+
+**Tasks most exposed to AI:**
+
+- Manual route planning
+- Customer phone notifications and delivery confirmations
+- Organisation and filing of paper delivery receipts
+- Generate simple anomaly reports
+
+**Where AI augments the role:**
+
+- Real-time dynamic route optimization to improve delivery efficiency
+- Smart package sorting and loading suggestions
+- Customer preference analysis and personalized services
+- Vehicle maintenance warnings and energy consumption management
+- Automated document processing frees up time for service
+
+**Human moat:**
+
+- Driving judgment and emergency handling in complex traffic environments
+- Trust and communication in face-to-face customer handovers
+- Last 100-meter flexible delivery (e.g., upstairs, drop-off points)
+- Familiarity with local neighborhoods and community relations
+
+**Skills to build:**
+
+- Use logistics scheduling software (e.g., Onfleet, Route4Me)
+- Basic data analysis skills
+- Customer service and emotional management
+- New energy vehicle driving and charging operations
+- Basic troubleshooting and emergency response
+- Digital receipt and electronic payment system operation
+
+**Key growth areas:**
 
 - E-commerce delivery
 - Local logistics
@@ -64,67 +98,69 @@ Pick up and deliver messages, documents, packages, and other items between offic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 快递员通常不符合专业职业要求，雇主担保困难。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需至少2年培训或经验，但快递员通常被视为非技术工人，EB-3排期长且门槛高。 |
-| Subclass TN（TN Status (USMCA)） | 仅限美加墨特定职业，快递员不在列表内。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需证明无美国工人胜任，快递员市场劳动力充足，认证困难。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Couriers usually do not meet professional occupation requirements, making employer sponsorship difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, but couriers are typically considered unskilled workers; EB-3 has long wait times and high barriers. |
+| Subclass TN (TN Status (USMCA)) | Only for specific occupations in US, Mexico, Canada; delivery drivers are not on the list. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Must prove no US workers are available; courier market has ample labor, making certification difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Couriers and Messengers？**
-- 喜欢户外活动、步行或骑行的人
-- 希望快速就业、无需高等教育的人
-- 善于时间管理和路线规划的人
+**Who is suited**
+- People who enjoy outdoor activities, walking, or cycling
+- Those who want quick employment without higher education
+- People good at time management and route planning
 
-**谁不适合学Couriers and Messengers？**
-- 不愿长时间在户外工作或应对恶劣天气的人
-- 追求高薪资和职业晋升空间的人
+**Who is not suited**
+- Those unwilling to work outdoors for long periods or in adverse weather
+- Those seeking high salary and career advancement opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of a courier?**
+A: Median annual salary for US couriers is about US$33,000; beginners about US$25,000–32,000; senior or dispatcher roles can reach US$40,000–50,000.
+
+**Q: Can couriers apply for US work visas or green cards?**
+A: Very difficult. Couriers are generally not considered professional occupations; H-1B and EB-3 thresholds are high; PERM labor certification requires proving no US workers are available, but the occupation has ample labor supply.
+
+**Q: What educational background is needed to become a courier?**
+A: Usually only requires a high school diploma or equivalent; employers provide on-the-job training. Some positions require a valid driver's license and passing a background check.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 普通（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Couriers and Messengers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for couriers and messengers?**
-答：Median annual wage is around $33,000; entry-level $25,000-$32,000; senior or dispatch roles $40,000-$50,000.
-
-**问：Can couriers and messengers get a US work visa or green card?**
-答：Very difficult. The occupation is not considered specialty; H-1B/EB-3 thresholds are high; PERM requires proving no US workers available, but labor supply is abundant.
-
-**问：What education is needed to become a courier/messenger?**
-答：Typically a high school diploma or equivalent; on-the-job training provided. Some roles require a valid driver's license and background check.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

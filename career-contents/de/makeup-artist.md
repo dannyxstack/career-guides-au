@@ -1,60 +1,96 @@
-# Make-up Artist（Make-up Artist）职业分析 · DE
+# Make-up Artist — career analysis · Germany
 
-**职业代码：8234 – Make-up Artist。**
+**Occupation code: 8234 (KldB)**
 
-Make-up artists apply makeup, hairstyling, and special effects for actors, models, and performers in film, television, theater, and photography, playing a key role in the creative industry.
+Makeup artists apply makeup, hairstyling, and special effects for actors and models in film, theatre, photography, and other creative industries.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（双元制培训通常免学费，企业支付津贴） |
-| 私立职业学校 | 1-2年 | $5,000~$20,000（私立学校需自付学费） |
+| Dual vocational training | 3 years | $0~$500 (Dual-system training is usually tuition-free, with companies providing allowances.) |
+| Private vocational school | 1-2 years | $5,000~$20,000 (Private schools require self-funded tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化妆师职业资格证书 | 德国工商业协会 (IHK) | 必备 | 完成双元制培训后获得，国家认可 |
-| 资质认证 (Anerkennung) | 德国认可机构 | 可选 | 外国资格需认证，非强制但有利求职 |
+| Makeup artist vocational qualification certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training, nationally recognized |
+| Qualification recognition (Anerkennung) | German accreditation body | Optional | Foreign qualifications need to be assessed; it's not mandatory but helpful for job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国影视和媒体产业稳步发展，化妆师需求稳定，但竞争激烈。自雇形式常见，全职职位多集中于大型制作公司和剧院。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The German film and media industry is growing steadily, with stable demand for makeup artists but intense competition. Self-employment is common, full-time positions are mostly in large production companies and theaters.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，通常含奖金 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，视项目而定 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，含首席化妆师 |
+| Median salary | $28,968 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, usually including bonuses |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary, depending on the project |
+| Senior (7+ years) | $40,000~$55,000 | Annual salary before tax, including chief makeup artist |
+| average salary | $30,984 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径包括从助理化妆师到首席化妆师，可专攻特效化妆或时尚造型。有经验者可晋升为部门主管或开办自己的化妆学校。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Makeup artists face mixed impacts from AI: tasks like basic makeup, special effects references, and client communication can be assisted or even partially replaced by AI tools, but on-site creation, artistic expression, and real-time interaction remain core advantages; entry-level positions face some risk of compression.
+
+Career paths include moving from assistant makeup artist to lead makeup artist, with specialization in special effects makeup or fashion styling. Experienced professionals can advance to department head or start their own makeup school.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate makeup design proposals and inspiration reference images
+- Analyze customer facial features through AI and recommend matching makeup.
+- Automatically generate basic makeup previews (like one-click makeup application in photo editing software).
+- AI-driven virtual try-on tools replace some offline makeup consultations
+- Automated suggestions for basic hairstyling and colour matching
+
+**Where AI augments the role:**
+
+- Using AI to quickly generate multiple makeup style renders to assist client decisions
+- Uses AI to analyze film/TV scripts or character settings, automatically recommending style references
+- Using AI-driven smart lighting and camera systems to enhance visibility of live effects
+- Optimize workflows using AI tools, such as automatically recording customer preferences and product inventory
+- Accelerates special effects design using AI-generated templates or simulation assets.
+
+**Human moat:**
+
+- On-site skin tactile judgment and real-time adjustment ability
+- Creative Artistic Expression Based on Emotional Resonance and Scene Atmosphere
+- Delicate manual intervention for skin tone, skin texture, and facial expression dynamics
+- Ability to build trust and personalized communication with clients
+- Emergency response to unexpected situations (e.g., allergic reactions, special effects)
+
+**Skills to build:**
+
+- Proficient in using AI makeup design tools (e.g., ModiFace, YouCam)
+- Proficient in digital media technology, able to combine VR/AR for previsualisation
+- Learn basic data analysis to understand customer preference profiles.
+- Cultivate cross-media innovation skills, such as stage makeup combining virtual and real elements
+- Improve project management and client communication skills, using AI to optimize service experience
+- Ongoing tracking of new manufacturing materials and high-efficiency AI-assisted hardware
+
+**Key growth areas:**
 
 - Creative Industries
 - Film & TV Production
@@ -63,69 +99,68 @@ Make-up artists apply makeup, hairstyling, and special effects for actors, model
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用高薪职位，年薪需达门槛（2025年约43,800欧元），但化妆师通常较难达到 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国认可的职业资格及工作合同，适合完成双元制培训者 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的找工作签证，允许来德国寻找工作或实习 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-paying positions, annual salary must meet threshold (approx. €43,800 in 2025), but makeup artists often find this difficult. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognised professional qualification and employment contract, suitable for those who have completed dual vocational training |
+| Subclass Chancenkarte (Opportunity Card) | Job search visa based on a points system, allowing you to come to Germany to find a job or internship. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Make-up Artist？**
-- 热爱艺术和创意，对化妆有浓厚兴趣
-- 具备良好的沟通和团队协作能力
-- 能灵活应对不规律的工作时间和项目制工作
-
-**谁不适合学Make-up Artist？**
-- 追求稳定收入和工作时间者
-- 对化学产品敏感或不愿频繁出差者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about art and creativity, with strong interest in makeup
+- Good communication and teamwork skills
+- Able to flexibly handle irregular working hours and project-based work
+
+**Who is not suited**
+- Those seeking stable income and working hours
+- Those sensitive to chemical products or unwilling to travel frequently
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for makeup artists in Germany?**
+A: Junior annual salary is about EUR 24,000-30,000, senior can reach 40,000-55,000, but income fluctuates greatly due to project impact, and self-employed can earn more.
+
+**Q: How can a foreign makeup artist immigrate to Germany?**
+A: Must pass qualification assessment, complete dual vocational training or obtain a German-recognized degree, then apply for a skilled migration visa or opportunity card.
+
+**Q: How to become a makeup artist in Germany?**
+A: The main pathway is completing 3-year dual vocational training or attending a private school for 1-2 years. Dual training is tuition-free with a stipend.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Make-up Artist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a make-up artist in Germany?**
-答：Entry-level annual salary is about €24,000-30,000 gross, senior can reach €40,000-55,000, but income varies greatly with projects; freelancers can earn more.
-
-**问：How can foreign make-up artists immigrate to Germany?**
-答：Need to have qualifications recognized, complete dual vocational training or obtain a German-recognized degree, then apply for a skilled worker visa or opportunity card.
-
-**问：How to become a make-up artist in Germany?**
-答：Main pathway is a 3-year dual vocational training (tuition-free with allowance) or 1-2 years at a private school.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

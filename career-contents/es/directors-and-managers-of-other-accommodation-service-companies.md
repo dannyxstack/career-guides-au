@@ -1,60 +1,96 @@
-# Directors And Managers Of Other Accommodation Service Companies（Directors And Managers Of Other Accommodation Service Companies）职业分析 · ES
+# Directors And Managers Of Other Accommodation Service Companies — career analysis · Spain
 
-**职业代码：1419 – Directors And Managers Of Other Accommodation Service Companies。**
+**Occupation code: 1419 (CNO)**
 
-Manage accommodation service companies excluding hotels, such as hostels, resorts, and B&Bs, setting operational strategies, controlling budgets, enhancing guest satisfaction, and overseeing daily operations.
+Responsible for managing various types of accommodation service enterprises beyond hotels, such as hostels, resorts, and homestays, formulating operational strategies, controlling budgets, improving customer satisfaction, and supervising daily operations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 旅游与酒店管理高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费，私立约500欧元/年） |
-| 旅游或企业管理本科（Grado） | 4年 | $1,000~$6,000（公立大学约1000-3000欧元/年，私立可达6000欧元/年） |
+| Advanced Vocational Training in Tourism and Hotel Management (FP Grado Superior) | 2 years | $0~$500 (Public schools are free, private schools about 500 euros per year) |
+| Bachelor of Tourism or Business Management (Grado) | 4 years | $1,000~$6,000 (Public universities cost about 1,000-3,000 euros per year, while private universities can pay up to 6,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求，但偏好酒店管理或旅游相关学位 | 西班牙大学或职业培训中心 | 可选 | 拥有FP或Grado学历有助于提升竞争力 |
-| 企业运营与财务管理能力（非正式认证） | 西班牙商会或行业协会 | 可选 | 可通过短期课程获得，非强制 |
+| No mandatory qualifications, but preference is given to hotel management or tourism-related degrees | Spanish universities or vocational training centers | Optional | Having an FP or Grado degree helps enhance competitiveness |
+| Corporate Operations and Financial Management Competency (Informal Certification) | Spanish chambers of commerce or industry associations | Optional | Available through short-term courses, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙旅游业持续复苏，非传统住宿需求增长（如乡村民宿、青年旅舍），但行业竞争激烈，小型住宿企业面临数字化和可持续转型压力，就业机会稳定但增速放缓。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Spain's tourism industry continues to recover, with growing demand for non-traditional accommodations (such as rural homestays and hostels), but competition in the industry is fierce. Small accommodation companies face pressures for digitalization and sustainable transformation, with stable job opportunities but slowing growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 小型住宿企业或副经理职位 |
-| 中级（3-7年） | $30,000~$40,000 | 中型连锁住宿区域经理 |
-| 高级（7年以上） | $45,000~$60,000 | 大型集团运营总监或自有品牌创始人 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Small accommodation enterprises or deputy manager positions |
+| Mid-level (3–7 years) | $30,000~$40,000 | Regional Manager of a mid-sized chain accommodation |
+| Senior (7+ years) | $45,000~$60,000 | Operations Director of a large group or founder of a private label |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径：部门主管 → 小型住宿经理 → 区域运营经理 → 连锁住宿集团总监。也可自主创业开设民宿或加盟品牌，需积累管理经验与行业人脉。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation are reshaping the role of accommodation services managers; some administrative and scheduling tasks are being replaced, but core responsibilities like customer experience and crisis management are amplified by AI, increasing the demand for human-centered service and management skills
+
+Career paths: Department Supervisor→ Small Lodging Manager → Regional Operations Manager→ Chain Lodging Group Director. You can also start your own business, open a homestay or franchise brand, which requires accumulating management experience and industry connections.
+
+**Tasks most exposed to AI:**
+
+- Manual room inventory management systems replaced by AI prediction systems
+- Manual occupancy rate and revenue reports replaced by automated tools
+- Phone bookings and inquiries are gradually being replaced by chatbots and self-service portals
+- Customer complaint classification and basic responses are handled automatically by NLP
+- Employee scheduling optimization algorithm fully replaces manual scheduling
+
+**Where AI augments the role:**
+
+- AI predicts demand to assist in developing dynamic pricing strategies, improving profit margins
+- Customer review analysis tool helps managers precisely identify service improvement areas.
+- Smart security and energy systems provide real-time anomaly alerts to assist management decisions
+- Multilingual translation tools facilitate cross-cultural communication
+- AI-recommended vendors and venue layout optimization for meeting and event planning
+
+**Human moat:**
+
+- On-the-spot judgment to handle emergencies (e.g., fires, complaint escalations).
+- Ability to build emotional connections for customer loyalty and personalized care
+- Team morale management and culture building
+- Final interpretation and enforcement responsibility for compliance and security policies
+- Complex negotiations (e.g., large group contracts, supplier disputes)
+
+**Skills to build:**
+
+- Advanced operation of hotel management software (PMS, RMS)
+- Data visualization and basic statistical analysis
+- Generative AI for marketing copy and customer replies
+- Social media management and reputation management
+- Basic Python or low-code automation tool application
+- Service design and user experience optimization
+
+**Key growth areas:**
 
 - boutique accommodation
 - digitalisation
@@ -63,65 +99,67 @@ Manage accommodation service companies excluding hotels, such as hostels, resort
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 受雇于西班牙住宿公司，由雇主提供工作合同并申请工作居留，需证明职位无法由本地人填补。 |
-| Subclass Cuenta propia（Self-Employment Visa） | 自主创业开设住宿企业，需提交商业计划并证明足够资金，适合有经验的管理者。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Employed by a Spanish accommodation company, with the employer providing a work contract and applying for work residence, it is necessary to prove that the position cannot be filled by a local resident. |
+| Subclass Cuenta propia (Self-Employment Visa) | To start a lodging business independently, you need to submit a business plan and prove sufficient funds, suitable for experienced managers. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Directors And Managers Of Other Accommodation Service Companies？**
-- 有酒店或住宿行业一线服务经验者
-- 具备财务管理与团队领导能力者
-- 愿意适应旅游季节性和灵活工作时间者
+**Who is suited**
+- Frontline service experience in the hotel or accommodation industry
+- Possess financial management and team leadership skills
+- Those willing to adapt to travel seasons and flexible working hours
 
-**谁不适合学Directors And Managers Of Other Accommodation Service Companies？**
-- 偏好稳定双休且固定工作时间者
-- 对客户投诉和突发事件缺乏耐心者
+**Who is not suited**
+- Those who prefer stable weekends off and fixed working hours
+- Those who lack patience for customer complaints and emergencies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Junior positions earn about 22,000-28,000 euros per year, intermediate salaries 30,000-40,000 euros, and senior positions 45,000-60,000 euros, with profit sharing available for senior positions.
+
+**Q: How can non-EU individuals immigrate to Spain to pursue this profession?**
+A: The main pathway is Employed Work Residence (Cuenta ajena), which requires employer certification of job scarcity; or apply for self-employment residency (Cuenta propia) to start a business independently, but both must meet immigration law requirements for funding and business plans.
+
+**Q: What are the prospects for future career development?**
+A: Promotion to regional operations manager or group director is possible, or you can accumulate experience and start your own boutique accommodation business. Experience in digital marketing and sustainable tourism will be an advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Directors And Managers Of Other Accommodation Service Companies属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level salary is around €22,000-28,000, mid-level €30,000-40,000, and senior €45,000-60,000 annually, with profit sharing for top positions.
-
-**问：How can non-EU nationals immigrate to Spain for this occupation?**
-答：Main pathways are employed work visa (Cuenta ajena) requiring employer justification of scarcity, or self-employment visa (Cuenta propia) with a business plan. Both must meet financial and legal requirements.
-
-**问：What are the future career prospects?**
-答：Advancement to regional operations manager or group director is possible, or entrepreneurship in boutique accommodation. Digital marketing and sustainable tourism experience are assets.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

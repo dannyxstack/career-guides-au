@@ -1,60 +1,95 @@
-# Postal Service Clerks (Except Counter Clerks)（Postal Service Clerks (Except Counter Clerks)）职业分析 · ES
+# Postal Service Clerks (Except Counter Clerks) — career analysis · Spain
 
-**职业代码：4221 – Postal Service Clerks (Except Counter Clerks)。**
+**Occupation code: 4221 (CNO)**
 
-Sort, process, and prepare mail and parcels for delivery, excluding counter services.
+Responsible for sorting, sorting, preparing for delivery, and mail handling of letters and parcels, excluding counter pickup and delivery services.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业或同等学历 | 无需正式学历 | —（通常无需学历，仅需简短培训） |
-| 中等职业教育（FP Grado Medio） | 2年 | —（部分学校低学费，或免费） |
+| Junior high school graduate or equivalent | No formal education required | $0~$0 (Usually, no academic qualifications are required, only brief training) |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,000 (Some schools offer low or free tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性证书 | 不适用 | 可选 | 一般无法律规定的强制性资格 |
-| 内部培训证书 | 西班牙邮政（Correos） | 可选 | 企业内训，非必需但有利于录用 |
+| No mandatory certificates | Not applicable | Optional | Generally, there are no legally mandated mandatory qualifications |
+| Internal training certificates | Spanish Post (Correos) | Optional | Internal corporate training is not necessary but beneficial for hiring |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 32,000。随着数字化通信增长，传统邮件量持续下降，就业岗位预计缓慢减少，但包裹业务因电商保持稳定。
+**Job demand: low (★½☆☆☆).** National workforce approx. 32,000. With the growth of digital communications, traditional mail volume continues to decline, jobs are expected to shrink slowly, but parcel business remains stable due to e-commerce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 税前年薪，含基本工资 |
-| 中级（3-7年） | $19,000~$23,000 | 税前年薪，包含绩效 |
-| 高级（7年以上） | $23,000~$28,000 | 税前年薪，含津贴 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Annual pre-tax salary, including base pay |
+| Mid-level (3–7 years) | $19,000~$23,000 | Pre-tax annual salary, including performance |
+| Senior (7+ years) | $23,000~$28,000 | Annual pre-tax salary, including allowances |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：负面（★☆☆☆☆）。** 可从分拣员晋升至邮件处理主管或邮政运营协调员，或转向物流、快递领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Postal service clerk jobs are severely threatened by AI automation; many routine tasks can be replaced by machines, significantly reducing positions.
+
+You can be promoted from sorter to mail handling supervisor or postal operations coordinator, or transition to logistics and courier services.
+
+**Tasks most exposed to AI:**
+
+- Counter reception for sending and receiving mail and parcels, weighing, and billing
+- Sell standardized products like stamps and postal money orders
+- Mechanized sorting of letters and packages
+- Automatic verification of correct postage
+- Standardized responses for handling customer inquiries
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly look up addresses and postal codes
+- Using intelligent sorting systems to improve mail processing efficiency
+- Optimize inventory management through automated reporting
+- Use AI to assist in tracking packages and processing claims
+- Provides multilingual customer service via voice assistants
+
+**Human moat:**
+
+- Handling complex, non-standard customer complaints and disputes
+- Perform safety inspections requiring on-site judgment (e.g., suspicious packages)
+- Provide humane and personalized service experience
+- Manage documents and procedures related to legal compliance
+
+**Skills to build:**
+
+- Learn email automated sorting systems and smart device operation
+- Proficient in basic data analysis and report generation skills
+- Improve complex problem-solving skills in customer service
+- Familiarity with email tracking software and automated claims systems
+- Learn basic IT troubleshooting to maintain self-service terminals
+- Develop communication and conflict resolution skills
+
+**Key growth areas:**
 
 - declining mail volume
 - e-commerce parcel growth
@@ -63,65 +98,67 @@ Sort, process, and prepare mail and parcels for delivery, excluding counter serv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需雇主担保，但此类非技术岗位难以获得许可。 |
-| Subclass Busqueda empleo（Job Search Visa） | 求职签证，允许在西班牙停留寻找工作，但需高学历或紧缺职业。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship, but such non-technical positions are difficult to obtain permits. |
+| Subclass Busqueda empleo (Job Search Visa) | Job-seeking visa allows staying in Spain to look for work, but requires high education or in-demand occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Postal Service Clerks (Except Counter Clerks)？**
-- 喜欢稳定、重复性工作的人
-- 对邮政流程有耐心的人
-- 寻求轻松入门的人
+**Who is suited**
+- Those who enjoy stable, repetitive work
+- People who are patient with postal processes
+- For those seeking an easy start
 
-**谁不适合学Postal Service Clerks (Except Counter Clerks)？**
-- 寻求高收入和晋升机会的人
-- 厌恶单调工作的人
+**Who is not suited**
+- People seeking high income and promotion opportunities
+- People who dislike monotonous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for postal service personnel?**
+A: Entry-level annual salary approx. €16,000-19,000, senior positions up to €23,000-€28,000, slightly below Spanish average wage.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: Almost impossible. This occupation is not a high-skilled position, making it difficult to obtain work permits, and currently it is not a shortage occupation.
+
+**Q: Does this job offer room for advancement?**
+A: limited opportunities to be promoted to supervisor or shift to logistics coordination roles, but overall the promotion path is narrow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 负面（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Postal Service Clerks (Except Counter Clerks)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for postal service clerks?**
-答：Entry-level salaries range from €16,000 to €19,000, while senior positions can reach €23,000 to €28,000, slightly below the national average.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Almost impossible. It is a low-skilled occupation, not in shortage, and work permits are rarely granted.
-
-**问：Are there career advancement opportunities?**
-答：Limited: possible promotion to supervisor or logistics coordinator, but overall narrow career path.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

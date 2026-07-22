@@ -1,58 +1,91 @@
-# Public relations and communications directors（Public relations and communications directors）职业分析 · UK
+# Public relations and communications directors — career analysis · United Kingdom
 
-**职业代码：1133 – Public relations and communications directors。**
+**Occupation code: 1133 (SOC)**
 
-Public relations and communications directors plan, organise, direct and co-ordinate the public relations, communications and public information activities of an organisation or on behalf of clients, managing media relations and brand reputation.
+Public Relations and Communications Director: plans, organises, and coordinates an organisation's PR, communications, and public information activities, managing media relations and brand reputation on behalf of the organisation or clients.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $20,000~$30,000（英国本科国际生学费约20,000-30,000英镑/年） |
-| 硕士 | 1年 | $25,000~$35,000（英国硕士国际生学费约25,000-35,000英镑/年） |
+| Bachelor's degree | 3 years | $20,000~$30,000 (UK undergraduate international tuition approx £20,000-30,000 per year) |
+| Master's degree | 1 year | $25,000~$35,000 (UK master's international student tuition fees are approximately £25,000-£35,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公关或传播相关学位 | 英国大学 | 可选 | 通常要求公共关系、传播学或市场营销学士学位 |
-| 特许公共关系协会（CIPR）认证 | CIPR | 可选 | 非强制，但有助于职业发展 |
+| Degree in public relations or communications | UK universities | Optional | Usually requires a bachelor's degree in public relations, communications, or marketing |
+| Chartered Institute of Public Relations (CIPR) accreditation | CIPR | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。预计2023-2033年该职业增长约6%，受数字化传播和品牌管理需求推动。大型企业、政府机构和非营利组织是主要雇主。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Projected growth of about 6% for this occupation from 2023-2033, driven by digital communication and brand management needs. Major employers include large companies, government agencies, and non-profits.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 助理或经理级别 |
-| 中级（3-7年） | $45,000~$65,000 | 公关经理或高级经理 |
-| 高级（7年以上） | $65,000~$100,000 | 总监或主管级别 |
+| Median salary | $72,887 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant or manager level |
+| Mid-level (3–7 years) | $45,000~$65,000 | Public Relations Manager or Senior Manager |
+| Senior (7+ years) | $65,000~$100,000 | Director or supervisor level |
+| average salary | $84,306 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从公关专员、媒体关系经理等岗位晋升，需积累行业经验和人脉。可向首席营销官或战略传播副总裁等高管职位发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate and enhance the work of PR directors, compressing entry-level positions but amplifying strategic value; requires mastering AI tools and data-driven communication.
+
+Usually promoted from roles such as PR specialist or media relations manager, requiring accumulation of industry experience and networks. Can progress to executive positions like Chief Marketing Officer or Vice President of Strategic Communications.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates press releases and media briefings (e.g., using natural language generation models)
+- Social media content scheduling and publishing management (via AI scheduling tools)
+- Media monitoring and public opinion report automation (AI-driven aggregation and analysis)
+- Data-driven basic media relationship analysis (e.g., identifying high-impact journalists)
+
+**Where AI augments the role:**
+
+- Real-time public opinion analysis and sentiment monitoring in crisis communication (AI provides data insights)
+- Personalised media relations maintenance (AI identifies key journalist interests)
+- Multilingual content localization and adaptive adjustment (AI translation and context optimization)
+- Data-driven polishing of executive speeches and KOL scripts (AI-assisted style matching)
+
+**Human moat:**
+
+- Strategic reputation management: Making ethical judgments and long-term reputational decisions in complex crises
+- Key stakeholder relationships: build and maintain high-level trust and personal connections
+- Creative storytelling: Combining brand stories with cultural trends to evoke emotional resonance
+- Cross-departmental leadership: aligning CEO, Legal, Marketing etc. to reach consensus
+
+**Skills to build:**
+
+- Prompt engineering for AI content generation tools (e.g., ChatGPT, Jasper)
+- Social media AI analytics and dashboards (e.g., Brandwatch, Sprout Social)
+- Data analysis basics (using Python/R for quantitative sentiment analysis)
+- Digital marketing automation platforms (e.g., HubSpot, Marketo)
+- Operating crisis management AI simulation platforms
+- Creative thinking and strategic planning skills
+
+**Key growth areas:**
 
 - Digital Communication
 - Brand Reputation
@@ -61,65 +94,64 @@ Public relations and communications directors plan, organise, direct and co-ordi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的公关总监职位，符合技术工人签证要求。 |
-| Subclass Global Talent（Global Talent visa） | 适用于公认的行业领袖或新兴领导者，无需雇主担保。 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速增长公司的公关总监，满足薪资和资格要求。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to Public Relations Director positions with employer sponsorship, meeting skilled worker visa requirements. |
+| Subclass Global Talent (Global Talent visa) | For recognized industry leaders or emerging leaders; no employer sponsorship required. |
+| Subclass Scale-up (Scale-up visa) | Suitable for PR directors in fast-growing companies, meeting salary and qualification requirements. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public relations and communications directors？**
-- 具备优秀沟通和人际交往能力的人
-- 擅长战略思维和媒体关系管理的人
-- 抗压能力强、能处理危机公关的人
-
-**谁不适合学Public relations and communications directors？**
-- 不适应高强度工作节奏的人
-- 不善于与人打交道或处理负面信息的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with excellent communication and interpersonal skills
+- People who are skilled in strategic thinking and media relations management
+- People with strong stress resistance and crisis PR skills.
+
+**Who is not suited**
+- People who are not suited to high-intensity work pace
+- People who are not good at dealing with others or handling negative information
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Public Relations Director?**
+A: Junior approximately £35,000-45,000, mid-level £45,000-65,000, senior up to £100,000+.
+
+**Q: How can an overseas PR director immigrate to the UK?**
+A: Can apply through the Skilled Worker visa (requires employer sponsorship), Global Talent visa (requires industry recognition), or Scale-up visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Public relations and communications directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for public relations directors?**
-答：Entry-level around £35,000-45,000, mid-level £45,000-65,000, senior can exceed £100,000.
-
-**问：How can overseas public relations directors migrate to the UK?**
-答：Via Skilled Worker visa (employer sponsorship), Global Talent visa (industry recognition), or Scale-up visa.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

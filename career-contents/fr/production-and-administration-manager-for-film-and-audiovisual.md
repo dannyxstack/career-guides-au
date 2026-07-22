@@ -1,60 +1,96 @@
-# Production and Administration Manager for Film and Audiovisual（Production and Administration Manager for Film and Audiovisual）职业分析 · FR
+# Production and Administration Manager for Film and Audiovisual — career analysis · France
 
-**职业代码：L1302 – Production and Administration Manager for Film and Audiovisual。**
+**Occupation code: L1302 (ROME)**
 
-Manages film, TV, advertising, and audiovisual projects, overseeing production planning, budgeting, scheduling, and administrative coordination from pre-production to distribution.
+Responsible for production management, budget control, scheduling, and administrative coordination of film, television, advertising, and audiovisual projects, ensuring smooth operation from early preparation to post-release of projects.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士（Licence） | 3年 | $3,000~$12,000（公立大学学费约3000€/年；私立电影学校8000-12000€/年；可通过学徒制（apprentissage）减免部分费用。） |
-| 硕士（Master） | 2年 | $4,000~$15,000（公立大学Master约4000€/年；顶尖私校（如La Fémis、Louis Lumière）学费高，但文凭受行业认可。） |
+| Licence | 3 years | $3,000~$12,000 (Public university tuition is about €3000 per year; Private film schools: €8,000-12,000/year; Apprenticeships can partially reduce or exempt fees.) |
+| Master's Degree (Master) | 2 years | $4,000~$15,000 (A public university master's about €4000/year; Top private schools (such as La Fémis and Louis Lumière) charge high tuition fees, but diplomas are recognized by the industry.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CNC认可专业文凭 | 法国国家电影中心（CNC）认可的院校 | 可选 | 部分制作岗位要求CNC认可的学历，尤其是申请公共资助项目时。 |
-| 项目管理认证（PMP或PRINCE2） | PMI或AXELOS | 可选 | 非强制，但有助于提升管理能力及竞争力。 |
+| CNC-recognized professional diploma | A school accredited by the French National Center of Cinematographic Studies (CNC). | Optional | Some fabrication positions require CNC-recognized academic qualifications, especially when applying for public funding projects. |
+| Project management certification (PMP or PRINCE2) | PMI or AXELOS. | Optional | Non-mandatory, but helps improve management capabilities and competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国影视制作行业持续增长，流媒体平台需求旺盛，但竞争激烈；就业集中在巴黎及周边，自由职业者比例高；政府扶持政策（如CNC资助）稳定行业岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The French film and television production industry continues to grow, with strong demand for streaming platforms but fierce competition; Employment is concentrated in Paris and its surroundings, with a high proportion of freelancers; Government support policies (such as CNC subsidies) stabilize industry positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 固定合同（CDI）或项目合同，税前年薪。 |
-| 中级（4-7年） | $35,000~$45,000 | 具有一定经验的项目经理或制作协调员。 |
-| 高级（8年以上） | $50,000~$70,000 | 制作总监或执行制片人，大型项目收入更高。 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Fixed contracts (CDI) or project contracts, pre-tax annual salary. |
+| Mid-level (4-7 years) | $35,000~$45,000 | Project managers or production coordinators with some experience. |
+| Senior (8+ years) | $50,000~$70,000 | Production directors or executive producers earn higher income for large projects. |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 起步常从制片助理或协调员做起，积累经验后可晋升为制片经理或执行制片人；部分转向内容策略、发行管理或独立制片；拥有项目管理认证（如PMP）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is reshaping film and audiovisual production management, automating administrative tasks such as budgeting and scheduling, while enhancing creative coordination and data-driven decision-making capabilities. However, humans remain irreplaceable in complex interpersonal coordination and handling emergencies.
+
+Starting as a production assistant or coordinator, gaining experience can lead to promotion to production manager or executive producer; Some shifted toward content strategy, distribution management, or independent production; Having project management certifications (such as PMP) helps with promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated budget tracking and report generation
+- Automatic scheduling and conflict detection
+- Invoice and contract administrative handling
+- Data entry and progress updates
+- Regular email and notification distribution
+
+**Where AI augments the role:**
+
+- AI-assisted storyboard script generation and visual rehearsal
+- AI analyzes script budgets and scenario complexity
+- AI optimizes filming schedules and resource allocation
+- AI-driven post-production collaboration and asset management
+- AI monitors project risks in real time and provides early warnings
+
+**Human moat:**
+
+- Complex interpersonal negotiations and emergency crisis management
+- Creative direction control and team motivation
+- Balancing cross-departmental interests and decision-making balances
+- Industry connections and resource mobilization capabilities
+- Subjective judgment and aesthetic judgment of artistic quality
+
+**Skills to build:**
+
+- AI project management tools (such as Smartsheet, Monday.com AI features)
+- Basic Data Analysis and Visualization (Python/Excel + BI Tools)
+- AI script analysis software (such as ScriptBook)
+- Digital collaboration platform and cloud-based workflow management
+- Financial modeling and forecasting automation skills
+- Agile and hybrid project management approaches
+
+**Key growth areas:**
 
 - Streaming boom
 - French film tax credit
@@ -63,65 +99,67 @@ Manages film, TV, advertising, and audiovisual projects, overseeing production p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于艺术文化行业的高技能人才，需提供项目合同或证明。有效期最长4年，可携带家属。 |
-| Subclass Salarié（Salarié (Work Permit)） | 需获得法国雇主的工作合同，并通过法国劳工局审核。适用于长期雇佣。 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled talent in arts and culture, requiring project contract or proof. Valid up to 4 years, can bring family. |
+| Subclass Salarié (Salarié (Work Permit)) | You must obtain a work contract from a French employer and pass the review by the French Labor Department. Suitable for long-term employment. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Production and Administration Manager for Film and Audiovisual？**
-- 有艺术敏感度且善于组织协调的人
-- 能在高压环境下管理多任务的人
-- 热爱影视行业并愿意从基层做起的人
+**Who is suited**
+- Someone with artistic sensitivity and good at organizing and coordinating
+- People who can manage multiple tasks under high pressure
+- Someone who loves the film and television industry and is willing to start from the grassroots
 
-**谁不适合学Production and Administration Manager for Film and Audiovisual？**
-- 偏好固定作息和稳定工作环境的人
-- 不擅长人际沟通或冲突解决的人
+**Who is not suited**
+- People who prefer a fixed schedule and a stable work environment
+- People who are not good at interpersonal communication or conflict resolution
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for film and television production management positions in France?**
+A: Entry-level salaries are about 24,000-30,000 euros, intermediate salaries 35,000-45,000 euros, and seniors up to 50,000-70,000 euros. Freelancers' income fluctuates significantly in project-based contracts.
+
+**Q: How can foreigners enter the French film and television production industry?**
+A: Applications can be made through Passeport Talent, requiring a project contract or employment intent from a French company. French proficiency is an important plus, and it is recommended to have relevant academic qualifications or experience.
+
+**Q: What are the career advancement paths for this occupation?**
+A: Starting as a production assistant, you gradually advance to production coordinator and production manager, and may eventually become an executive producer or production director. You can also shift to content development, distribution, or independent production.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Production and Administration Manager for Film and Audiovisual属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for film production management in France?**
-答：Entry-level positions earn €24,000-€30,000 annually; mid-level €35,000-€45,000; senior roles €50,000-€70,000. Freelancers may have variable income.
-
-**问：How can foreigners enter the French film production industry?**
-答：Apply for a Talent Passport (Passeport Talent) with a project contract or job offer from a French company. French language skills and relevant qualifications/experience are essential.
-
-**问：What are the career progression paths?**
-答：Start as a production assistant, move to coordinator, then manager, and eventually executive producer or head of production. Alternatively, shift to content development, distribution, or independent production.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

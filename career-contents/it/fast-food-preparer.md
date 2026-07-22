@@ -1,60 +1,94 @@
-# Fast Food Preparer（Fast Food Preparer）职业分析 · IT
+# Fast Food Preparer — career analysis · Italy
 
-**职业代码：9411 – Fast Food Preparer。**
+**Occupation code: 9411 (ISCO08)**
 
-Responsible for preparing and cooking fast food items such as burgers, fries, and sandwiches in fast-food outlets, ensuring food quality and hygiene standards.
+Responsible for preparing and cooking fast food items such as burgers, fries, and sandwiches in fast food restaurants, takeaway shops, etc., ensuring food quality and hygiene standards.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无特定要求 | —（通常仅需初中毕业，无需高等教育） |
-| 职业培训 | 短期课程（数周至数月） | $500~$2,000（餐饮卫生和基础烹饪课程，部分由雇主提供） |
+| Compulsory education | No specific requirements | $0~$0 (Typically only requires junior high school education, no higher education needed) |
+| Vocational training | Short-term courses (weeks to months) | $500~$2,000 (Basic food hygiene and cooking courses, some provided by employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 各地区卫生局 | 必备 | 强制要求，需参加培训并通过考试 |
-| HACCP 认证 | 认可培训机构 | 可选 | 部分雇主要求，但非强制 |
+| Food hygiene certificate | Regional health bureaus | Required | Mandatory; requires training and passing an exam. |
+| HACCP certification | Registered Training Organisation (RTO) | Optional | Required by some employers, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 80,000。意大利快餐业持续增长，受旅游业和年轻人消费习惯驱动，但就业竞争激烈，岗位多为兼职或临时工。
+**Job demand: medium (★★★☆☆).** National workforce approx. 80,000. Italy's fast food industry continues to grow, driven by tourism and youth spending habits, but job competition is fierce and positions are often part-time or temporary.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $15,000~$18,000 | 税前年薪，通常为兼职或最低工资 |
-| 中级（2-5年） | $18,000~$22,000 | 全职岗位，含加班费 |
-| 高级（5年以上/主管） | $22,000~$28,000 | 厨房主管或店长级别 |
+| Median salary | $20,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $15,000~$18,000 | Pre-tax annual salary, usually part-time or minimum wage |
+| Intermediate (2-5 years) | $18,000~$22,000 | Full-time position, including overtime pay. |
+| Senior (5+ years / supervisor) | $22,000~$28,000 | Kitchen supervisor or store manager level |
+| average salary | $20,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从基础制备员晋升为厨房主管或店长，需积累经验和参加内部培训，部分连锁企业提供管理培训生项目。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Fast food preparation roles are highly structured; AI and automation will significantly reduce demand—smart cooking equipment, self-service ordering, and robotic food assembly systems can handle most made-to-order tasks. Entry-level positions will shrink, and survivors will need to shift to equipment maintenance and quality control.
+
+Can advance from basic preparer to kitchen supervisor or store manager by accumulating experience and participating in internal training; some chain enterprises offer management trainee programs.
+
+**Tasks most exposed to AI:**
+
+- Bulk produce fries and chicken nuggets using automatic fryers; AI adjusts oil temperature and time based on orders.
+- Use intelligent dispensing machines to accurately allocate hamburger patties, cheese, and sauces according to recipes
+- Automated cup recognition and drink dispensing via automatic beverage machine, no manual operation needed
+- Automatically identify food freshness based on a camera vision detection system and reject unqualified items
+- AI scheduling system automatically plans meal preparation order, replacing manual memory and scheduling
+
+**Where AI augments the role:**
+
+- AI predicts customer flow peaks, prepares semi-finished products in advance, and optimizes scheduling to improve efficiency
+- Smart inventory systems monitor ingredient consumption in real-time, automatically reorder supplies, reduce waste
+- AI-driven training simulators help new employees quickly master standardized operating procedures.
+- Data analysis tools help managers optimize menu combinations and pricing strategies.
+
+**Human moat:**
+
+- On-site troubleshooting skills for handling unexpected equipment failures (e.g., fryer tripping, POS system freezing)
+- Judgment to flexibly adjust recipes for special dietary needs (gluten-free, allergens)
+- Human responsibility and detail checks to maintain kitchen hygiene standards and food safety compliance
+- Ability to multitask and prioritize under pressure during peak periods, and team communication skills
+
+**Skills to build:**
+
+- Operate and maintain automated kitchen equipment (smart ovens, self-service ordering systems)
+- Basic data analysis skills (interpret sales forecast reports, adjust inventory)
+- Standardized training in sensory evaluation of food quality (smell, sight)
+- Basic digital literacy (using tablets to manage orders and inventory)
+- Health and safety compliance knowledge (systems such as HACCP)
+- Customer service and conflict handling (dealing with complaints and special requests)
+
+**Key growth areas:**
 
 - Quick Service
 - Tourism
@@ -63,62 +97,64 @@ Responsible for preparing and cooking fast food items such as burgers, fries, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Work Visa for Non-EU Workers (Decreto Flussi)） | 适用于非欧盟国家工人，需雇主担保，每年配额有限，多针对低技能劳工 |
-| Subclass EU Blue Card（EU Blue Card） | 仅适用于高技能职业，快餐制备员不符合条件 |
+| Subclass Decreto Flussi quota work visa (Work Visa for Non-EU Workers (Decreto Flussi)) | Applicable to non-EU workers, requires employer sponsorship, annual quota limited, mostly for low-skilled labor |
+| Subclass EU Blue Card (EU Blue Card) | Only for high-skilled occupations; fast food preparers do not qualify |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fast Food Preparer？**
-- 喜欢快节奏工作环境的人
-- 适应倒班和站立工作的人
-- 对餐饮行业有热情但无需高学历的人
+**Who is suited**
+- People who enjoy a fast-paced work environment
+- People who can adapt to shift work and standing jobs
+- People passionate about the hospitality industry but without a need for high education
 
-**谁不适合学Fast Food Preparer？**
-- 希望高薪或稳定晋升的人
-- 无法适应高强度体力劳动或晚班的人
+**Who is not suited**
+- Those seeking high salary or stable promotion
+- People unable to handle high-intensity physical labor or night shifts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a fast food preparer?**
+A: Junior annual salary approx. €15,000–€18,000; mid-to-senior level can reach €28,000; mostly at minimum wage level.
+
+**Q: Can foreigners apply for a work visa as a fast food preparer in Italy?**
+A: Yes, but through the Decreto Flussi quota work visa, with limited opportunities; employers must prove inability to hire within the EU.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fast Food Preparer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a fast food preparer?**
-答：Entry-level annual salary is around €15,000-18,000, while senior roles can reach €28,000, mostly at minimum wage level.
-
-**问：Can foreigners apply for a work visa as a fast food preparer in Italy?**
-答：Yes, but through the Decreto Flussi quota system, opportunities are limited, and employers must prove they cannot hire within the EU.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

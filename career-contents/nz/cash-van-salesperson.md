@@ -1,60 +1,93 @@
-# Cash Van Salesperson（Cash Van Salesperson）职业分析 · 新西兰
+# Cash Van Salesperson — career analysis · New Zealand
 
-**职业代码：621711 – Cash Van Salesperson。**
+**Occupation code: 621711 (ANZSCO)**
 
-Cash van salespersons drive trucks along designated routes to sell daily necessities (e.g., bread, drinks) to retail stores or households and collect cash directly. The occupation has stable demand in NZ but limited skilled migration pathways, typically relying on Accredited Employer Work Visa (AEWV) or specific industry agreements.
+Cash van salesperson drives a van along a set route to sell daily goods (e.g., bread, drinks) to retail stores or households, collecting cash directly. This occupation has stable demand in New Zealand, but skilled migration pathways are limited, typically relying on the Accredited Employer Work Visa (AEWV) or specific industry agreements.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（高中毕业即可，无需高等教育费用） |
-| 无正式培训 | 1-3个月在职培训 | —（雇主通常提供在岗培训，成本低） |
+| High school graduation | 0 years | $0~$0 (High school diploma required, no higher education costs) |
+| No formal training. | 1-3 months on-the-job training | $0~$500 (Employers often provide on-the-job training, low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰全驾照（Class 1） | 新西兰交通局（NZTA） | 必备 | 必须持有全驾照，部分雇主需要Class 2或F驾照 |
-| LEAPS销售培训 | LEAPS Sales Training | 可选 | 可选，但有助于提升销售技巧 |
+| New Zealand Full Driver Licence (Class 1) | New Zealand Transport Agency (NZTA) | Required | Must hold a full driver's license; some employers require Class 2 or F license |
+| LEAPS Sales Training | LEAPS Sales Training | Optional | Optional, but helps improve sales skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。新西兰零售与配送行业持续增长，尤其是奥克兰和基督城等城市，对现金货车销售员需求稳定。但自动化与在线支付可能减少现金交易岗位。未来5年就业岗位预计保持平稳，略有增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. New Zealand's retail and distribution industry continues to grow, especially in cities like Auckland and Christchurch, with steady demand for cash van salespersons. However, automation and online payments may reduce cash-handling roles. Employment is expected to remain stable with slight growth over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 含基本工资加佣金 |
-| 中级（4-7年） | $55,000~$70,000 | 经验丰富，客户基础稳定 |
-| 高级（8年以上） | $70,000~$85,000 | 高级销售员或路线主管 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Includes base salary plus commission |
+| Mid-level (4-7 years) | $55,000~$70,000 | Experienced with a stable client base. |
+| Senior (8+ years) | $70,000~$85,000 | Senior salesperson or route supervisor |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级销售员晋升为高级销售员或路线主管，负责管理多条路线和团队。经验丰富者可转向销售管理或物流协调职位。部分人通过积累客户资源成为独立分销商。
-**AI替代风险：中低风险（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Cash van salespeople face high automation risk: core tasks such as route planning, inventory management, and payment reconciliation can be replaced by AI and digital systems. Entry-level positions will significantly shrink, and it is recommended to transition to retail management or supply chain roles as soon as possible.
+
+Can progress from junior salesperson to senior salesperson or route supervisor, managing multiple routes and teams. Experienced individuals may move into sales management or logistics coordination roles. Some become independent distributors by building client networks.
+
+**Tasks most exposed to AI:**
+
+- Route planning: AI algorithm optimizes delivery routes, no manual planning needed
+- Inventory management: automated replenishment system monitors inventory in real time, reducing manual counting
+- Payment collection and reconciliation: Digital payment systems settle automatically, replacing cash collection and manual bookkeeping.
+- Customer order processing: online ordering platforms replace on-site sales and handwritten orders.
+
+**Where AI augments the role:**
+
+- Customer relationship management: AI tools analyze purchase history to recommend personalized product combinations
+- Sales efficiency: real-time dashboards display hot-selling items and inventory alerts to aid decision-making
+- Market intelligence: AI aggregates competitor pricing and promotional information to optimize pricing strategies
+- Compliance and reporting: Automatically generate sales reports and tax records, reducing paperwork
+
+**Human moat:**
+
+- Interpersonal Trust and Negotiation: Build long-term relationships with business owners and handle complex customer emotions
+- Adapting to unstructured environments: handling road changes and emergencies (e.g., vehicle breakdowns)
+- New product promotion and display: manually adjust product displays to create visual appeal.
+- Local knowledge: understand the special needs of the community and provide personalised services (e.g., credit arrangements).
+
+**Skills to build:**
+
+- Proficient in digital payment systems (e.g., Square, EFTPOS)
+- Learn basic data analysis (Excel, dashboards)
+- Familiarity with inventory management software (e.g., TradeGecko)
+- Improve negotiation and customer relationship management (CRM tools)
+- Learn driving assistance systems (e.g., GPS fleet management)
+- Obtain a higher commercial vehicle driving license (e.g. Class 2)
+
+**Key growth areas:**
 
 - Low Growth
 - AEWV
@@ -63,69 +96,68 @@ Cash van salespersons drive trucks along designated routes to sell daily necessi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见路径。需雇主为认证雇主，薪资达到中位数（约29.66NZ$/h）并符合市场标准。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合ANZSCO技能等级1-3要求（该职业为等级5），极难申请。仅在其他技能高的情况下作为额外工作加分。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 不包含该职业。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common pathway. Requires employer to be accredited, salary to reach median (approx. NZ$29.66/h) and meet market rate. |
+| Subclass SMC (Skilled Migrant Category) | Usually does not meet ANZSCO skill level 1-3 requirement (this occupation is level 5), very difficult to apply. Only added as extra work points if other skills are high. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Does not include this occupation. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cash Van Salesperson？**
-- 喜欢驾驶和户外工作的人
-- 具备良好沟通和销售技巧的人
-- 能够独立工作并管理现金交易的人
-
-**谁不适合学Cash Van Salesperson？**
-- 不擅长与人交谈或销售的人
-- 无法接受体力劳动和长时间驾驶的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving and outdoor work
+- People with good communication and sales skills
+- Someone who can work independently and manage cash transactions
+
+**Who is not suited**
+- People who are not good at conversing or selling
+- Those unable to perform physical labor and long driving hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a cash van salesperson in New Zealand?**
+A: Based on experience, annual salary typically ranges from NZ$45,000 to NZ$70,000, with senior roles reaching NZ$85,000. Salary usually includes base pay and commission.
+
+**Q: Can a cash van salesperson apply for New Zealand residency through skilled migration?**
+A: Generally not. This occupation is at skill level 5 in ANZSCO, not meeting the skill requirements for the Skilled Migrant Category (SMC). The main visa pathway is the Accredited Employer Work Visa (AEWV), requiring employer assistance.
+
+**Q: What are the career advancement prospects for this occupation in New Zealand?**
+A: Career progression includes becoming a senior salesperson, route supervisor, or sales manager. With experience, you can also move into logistics or supply chain management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中低风险（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cash Van Salesperson为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a cash van salesperson in New Zealand?**
-答：Depending on experience, annual salary typically ranges from NZD 45,000 to 70,000, with senior roles up to NZD 85,000. Salary usually includes base pay plus commissions.
-
-**问：Can a cash van salesperson apply for New Zealand residence through skilled migration?**
-答：Usually not. This occupation is ANZSCO skill level 5, not eligible for Skilled Migrant Category (SMC). The main visa pathway is Accredited Employer Work Visa (AEWV) requiring employer sponsorship.
-
-**问：What are the career advancement prospects for this occupation in New Zealand?**
-答：Advancement includes becoming a senior salesperson, route supervisor, or sales manager. With experience, one can move into logistics or supply chain management roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

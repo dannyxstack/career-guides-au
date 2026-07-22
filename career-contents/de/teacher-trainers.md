@@ -1,61 +1,97 @@
-# Teacher Trainers（Teacher Trainers）职业分析 · DE
+# Teacher Trainers — career analysis · Germany
 
-**职业代码：8414 – Teacher Trainers。**
+**Occupation code: 8414 (KldB)**
 
-Teacher trainers train future educators in higher education or further training institutions, covering curriculum design, teaching guidance, educational theory, and practical supervision, playing a key role in Germany's education system.
+Teacher Trainer is responsible for training future teachers in higher or continuing education institutions, covering curriculum design, teaching guidance, education theory delivery, and practical supervision. It is a key supporting role in the German education system.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（教师培训） | 4年（全学历） | —（德国公立大学基本免学费，仅收学期注册费约100-300欧元/学期） |
-| 硕士（教育科学） | 2年（全学历） | —（部分大学收取学费，但大部分公立大学仍免学费） |
+| Bachelor's degree (teacher training) | 4 years (all qualifications) | $0~$1,500 (German public universities are generally tuition-free, only charging a semester fee of about €100-300) |
+| Master of Education Science | 2 years (full qualification) | $0~$1,500 (Some universities charge tuition fees, but most public universities are still tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师培训专业硕士学位 | 德国大学 | 必备 | 通常要求完成教师培训专业（Lehramt）或教育科学硕士，并具备2年以上教学经验 |
-| 教师资格证书 | 各州教育部 | 必备 | 通过国家教师资格考试（Staatsexamen）或同等认证，外籍学历需资质认证（Anerkennung） |
-| 博士学历（可选） | 德国大学 | 可选 | 高校教师培训师常需博士学位，尤其晋升教授职位时 |
+| Master's degree in teacher training | German university | Required | Usually requires completion of a teacher training program (Lehramt) or Master of Education Science, with over 2 years of teaching experience. |
+| Teaching qualification | State education departments | Required | Requires passing the state teaching examination (Staatsexamen) or equivalent certification, foreign qualifications need recognition (Anerkennung) |
+| Doctoral degree (optional) | German university | Optional | University teachers/trainers often need a doctoral degree, especially for promotion to professor positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,000。德国面临教师短缺，教师培训师需求稳定。数字化教学和跨文化教育带来新课题，该职业在高校和教育机构中地位重要，就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. Germany faces teacher shortages, with stable demand for teacher trainers. Digital teaching and intercultural education bring new topics. This role is important in universities and educational institutions, with good job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $45,000~$55,000 | 高校讲师或培训中心初级职位，税后约2400-3000欧元/月 |
-| 中级（5-10年） | $55,000~$70,000 | 有经验的教师培训师，或担任系副主任等职位 |
-| 高级（10年以上） | $70,000~$90,000 | 资深教授或教育项目负责人，含绩效奖金 |
+| Median salary | $64,044 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry-level (0-5 years) | $45,000~$55,000 | Junior positions at universities or training centers, after tax about 2,400-3,000 euros per month |
+| Intermediate (5-10 years) | $55,000~$70,000 | Experienced teacher trainer, or serving as deputy department head, etc. |
+| Senior (10+ years) | $70,000~$90,000 | Senior professor or education program manager, including performance bonuses |
+| average salary | $64,920 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从教师经验起步，晋升路径包括：高校讲师、教育系主任、教育研究负责人或进入教育管理部门。继续攻读博士学位可成为教授。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The position of teacher trainer will not be completely replaced, but AI will significantly reduce entry-level, standardized training design work while amplifying the demand for high-interaction teaching supervision and personalized guidance; the career core will upgrade to 'AI instructional designer' and 'human-machine collaboration mentor'.
+
+Usually starts with teaching experience, with progression including: university lecturer, education department head, education research director, or into education administration. Further PhD study can lead to professor.
+
+**Tasks most exposed to AI:**
+
+- Creation and updating of standardized training materials (e.g., handouts, PPTs, case libraries)
+- Automatic generation and analysis of basic teaching assessment reports
+- Daily management and attendance recording of remote classrooms
+- Knowledge base Q&A for common teaching issues
+- Training schedule management and student notifications, etc.
+
+**Where AI augments the role:**
+
+- Use AI to analyze student learning behavior data and personalize teaching strategies
+- Conduct high-fidelity teaching simulations and feedback using AI-powered classroom systems
+- Use natural language processing tools to quickly generate teaching cases and assessment questions
+- Conduct international teacher training using AI-assisted translation and multilingual tools
+- Leverage AI efficiency tools to optimize full lifecycle management of training programs
+
+**Human moat:**
+
+- Human empathy and emotional support in complex educational settings
+- In-depth guidance on teachers' practical knowledge (e.g., classroom management techniques)
+- Handling unstructured, high-conflict student counselling and professional ethics decisions
+- Ability to design interdisciplinary, innovative training programs
+- Maintaining long-term trust relationships with schools and educational institutions
+
+**Skills to build:**
+
+- Use of AI education tools (e.g., adaptive learning platforms, intelligent assessment systems)
+- Basics of data analysis and learning analytics
+- Human-computer interaction design (designing AI-assisted teaching workflows)
+- Cross-cultural communication and remote training skills.
+- EdTech project management (e.g., Scrum/Agile)
+- Critical thinking and ethical judgment in education
+
+**Key growth areas:**
 
 - digital learning
 - inclusive education
@@ -64,69 +100,68 @@ Teacher trainers train future educators in higher education or further training 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高校教师或研究人员，要求年薪达标（2025年约48,300欧元）及高等教育学历 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 若获得大学教职或培训岗位，可凭工作合同申请，无需劳动力市场测试 |
-| Subclass Job Seeker Visa（Opportunity Card (Chancenkarte)） | 基于积分制的机会卡，适合来德国寻找工作，包括教师培训领域 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for university lecturers or researchers, requiring an annual salary threshold (approx. €48,300 in 2025) and higher education degree |
+| Subclass Skilled Worker (Skilled Immigration Act) | If you obtain a university teaching position or training role, you can apply with a work contract without a labor market test |
+| Subclass Job Seeker Visa (Opportunity Card (Chancenkarte)) | Opportunity card based on a points system, suitable for those seeking work in Germany, including in teacher training |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Teacher Trainers？**
-- 热爱教育、有志于培养未来教师的师范毕业生
-- 具有丰富教学经验并希望从事学术指导的教师
-- 在教育学领域有研究兴趣并追求学术职业者
-
-**谁不适合学Teacher Trainers？**
-- 不愿面对繁重的备课、科研和行政杂务者
-- 偏好直接教学而非培训他人者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Teacher training graduates who are passionate about education and dedicated to nurturing future teachers
+- Teachers with rich teaching experience who wish to engage in academic guidance
+- Those with research interests in the field of education and pursuing an academic career.
+
+**Who is not suited**
+- Those who are not willing to face heavy lesson planning, research, and administrative tasks
+- Prefers direct teaching rather than training others
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a teacher trainer?**
+A: Starting salary for teacher trainers in Germany is about €45,000-55,000 per year, intermediate about €55,000-70,000, and senior professors can earn over €90,000, depending on the state and institution.
+
+**Q: How to become a German teacher trainer with a non-EU qualification?**
+A: Must have qualifications assessed through recognition procedures (Anerkennung), typically requiring a Master's in Education and supplementary knowledge of the German education system. Can apply for an Opportunity Card or Blue Card to come to Germany.
+
+**Q: What are the career development paths for teacher trainers?**
+A: Can advance to professor, education department head, education researcher, or transition into education policy and management roles. Also can focus on online education or international education cooperation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Teacher Trainers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for teacher trainers?**
-答：Starting salary around €45K-55K/year, mid-level €55K-70K, senior professors up to €90K+, depending on state and institution.
-
-**问：How can non-EU qualifications become a teacher trainer in Germany?**
-答：Requires recognition (Anerkennung) of your degree, usually a Master's in education, plus supplementary knowledge of German education system. Opportunity Card or Blue Card possible.
-
-**问：What are the career paths for teacher trainers?**
-答：Potential to become professor, department head, educational researcher, or move into education policy/management. Also specialise in e-learning or international cooperation.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

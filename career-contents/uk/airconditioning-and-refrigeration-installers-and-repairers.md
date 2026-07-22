@@ -1,58 +1,92 @@
-# Air-conditioning and refrigeration installers and repairers（Air-conditioning and refrigeration installers and repairers）职业分析 · UK
+# Air-conditioning and refrigeration installers and repairers — career analysis · United Kingdom
 
-**职业代码：5225 – Air-conditioning and refrigeration installers and repairers。**
+**Occupation code: 5225 (SOC)**
 
-Install, service and repair air-conditioning and refrigeration systems in factories, offices, shops and homes. Requires electrical and mechanical skills, and knowledge of refrigerant handling.
+Responsible for installing, maintaining, and repairing air conditioning and refrigeration systems in factories, offices, shops, and homes. Requires electrical and mechanical skills, and familiarity with refrigerant handling.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高级学徒制 | 3-4年 | —（学徒期间有薪，培训基本免费） |
-| BTEC/国家文凭 | 2年 | $3,000~$6,000（全日制课程费用） |
+| Advanced apprenticeship | 3-4 years | $0~$1,000 (Paid during apprenticeship, training mostly free) |
+| BTEC/National Diploma | 2 years | $3,000~$6,000 (Full-time Course Fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制冷剂处理认证（F-Gas） | City & Guilds / CITB | 必备 | 法律要求，需通过考试 |
-| NVQ 3级空调与制冷 | City & Guilds | 可选 | 行业标准资格 |
+| Refrigerant Handling Certification (F-Gas) | City & Guilds / CITB | Required | Legal requirement, must pass an exam |
+| NVQ Level 3 in Air Conditioning and Refrigeration | City & Guilds | Optional | Industry standard qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 38,000。英国对制冷工程师需求稳定，受气候变化及老系统升级推动。净零排放政策推动热泵安装，创造额外工作机会。预计未来5年岗位增长约8%。
+**Job demand: high (★★★★☆).** National workforce approx. 38,000. Demand for refrigeration engineers in the UK is stable, driven by climate change and upgrades to older systems. Net-zero policies promote heat pump installations, creating additional job opportunities. An 8% growth in positions is expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒/实习期 |
-| 中级（3-7年） | $30,000~$40,000 | 持证技术员 |
-| 高级（7年以上） | $42,000~$55,000 | 主管或自雇 |
+| Median salary | $41,166 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprenticeship / internship period |
+| Mid-level (3–7 years) | $30,000~$40,000 | Certified technician |
+| Senior (7+ years) | $42,000~$55,000 | Supervisor or self-employed |
+| average salary | $45,432 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒成长为高级技术员，晋升到团队主管、项目经理或自雇。也可通过培训专攻热泵、工业制冷或绿色技术。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+Can progress from apprentice to senior technician, advance to team leader, project manager, or self-employment. Can also specialize in heat pumps, industrial refrigeration, or green technology through training.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Green skills
 - Heat pump installation
@@ -61,67 +95,66 @@ Install, service and repair air-conditioning and refrigeration systems in factor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 如果雇主担保且符合薪资门槛，可获工签。该职业在紧缺职业清单上，薪资要求为25,600英镑或行业通行薪资。热泵相关岗位可能适用更宽松要求。 |
-| Subclass Global Talent（Global Talent Visa） | 不适合普通技术岗位，主要为杰出人才设计。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | If employer-sponsored and meets the salary threshold, a work visa can be obtained. This occupation is on the shortage occupation list, with a salary requirement of £25,600 or the going rate for the industry. Heat pump-related roles may be eligible under more relaxed requirements. |
+| Subclass Global Talent (Global Talent Visa) | Not suitable for general skilled positions; designed primarily for outstanding talent. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Air-conditioning and refrigeration installers and repairers？**
-- 动手能力强，喜欢技术工作
-- 能适应户外及高空作业
-- 希望在绿色建筑行业长期发展
-
-**谁不适合学Air-conditioning and refrigeration installers and repairers？**
-- 对噪音和灰尘敏感
-- 不愿持续学习新技术
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on and enjoys technical work
+- Able to work outdoors and at heights
+- Hoping for long-term development in the green building industry
+
+**Who is not suited**
+- Sensitive to noise and dust
+- Unwilling to continuously learn new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an air conditioning and refrigeration installation and repair worker?**
+A: The average annual salary in the UK is approximately £35,000. Entry-level ranges from £22,000 to £28,000, while senior roles can reach £55,000. Salaries are higher in London and the Southeast.
+
+**Q: Is it easy for this occupation to apply for a UK work visa?**
+A: This occupation is on the skills shortage list for skilled work visas, with a lower salary threshold (£25,600 or the going rate). Employer sponsorship is required, and applicants must have relevant qualifications and English proficiency.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can progress from technician to senior engineer, team leader, or project manager. Also can specialize in green technologies like heat pump installation, or start a business as self-employed. Continuously obtaining advanced certifications aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Air-conditioning and refrigeration installers and repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for air-conditioning and refrigeration installers and repairers?**
-答：The average UK salary is around £35,000. Entry-level positions range from £22,000 to £28,000, while experienced workers can earn up to £55,000. London and the South East offer higher pay.
-
-**问：Is it easy to get a UK work visa for this occupation?**
-答：This occupation is on the Shortage Occupation List for Skilled Worker visas, with a lower salary threshold (£25,600 or the going rate). Employer sponsorship is required, along with relevant qualifications and English proficiency.
-
-**问：What are the career progression opportunities?**
-答：Opportunities include advancing to senior technician, team leader, or project manager. Specialising in green tech like heat pump installation or self-employment are also common. Continuous certification helps progression.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

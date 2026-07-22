@@ -1,60 +1,92 @@
-# Beef Cattle Farm Worker（Beef Cattle Farm Worker）职业分析 · 新西兰
+# Beef Cattle Farm Worker — career analysis · New Zealand
 
-**职业代码：842311 – Beef Cattle Farm Worker。**
+**Occupation code: 842311 (ANZSCO)**
 
-Beef Cattle Farm Workers handle daily feeding, grazing, fence maintenance, health monitoring, and basic veterinary assistance. This ANZSCO Skill Level 5 role is generally not eligible for skilled migration but can work in New Zealand via Accredited Employer Work Visa (AEWV).
+Beef cattle farm workers are mainly responsible for cattle feeding, grazing, fence maintenance, health monitoring, and basic veterinary assistance. This occupation is ANZSCO Skill Level 5, usually not eligible for skilled migration, but can work on New Zealand farms through an Accredited Employer Work Visa (AEWV).
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | N/A | —（无强制教育要求，通常需要新西兰NCEA Level 1或同等学历） |
-| 农业证书或短期培训 | 6个月 | $2,000~$5,000（如新西兰农业培训组织(Agriculture ITO)提供的课程） |
+| High school diploma | N/A | $0~$0 (No mandatory education requirements, usually need NZ NCEA Level 1 or equivalent) |
+| Agricultural certificate or short training | 6 months. | $2,000~$5,000 (Such as courses offered by the Agriculture Industry Training Organisation (Agriculture ITO) in New Zealand) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业证书（奶牛/肉牛） | 新西兰农业培训组织 | 可选 | 非强制性，但有助于就业和晋升 |
-| 全驾照（至少Class 1） | 新西兰交通局 | 必备 | 许多农场要求驾驶农用车辆 |
+| Full driver's license (at least Class 1) | New Zealand Transport Agency. | Required | Many farms require driving agricultural vehicles |
+| New Zealand Certificate in Agriculture (Dairy/Beef Cattle) | New Zealand Agricultural Training Organisation | Optional | Not mandatory, but helpful for employment and promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。新西兰肉牛产业稳定，但劳动力季节性强，北岛和东海岸需求较多。该职业自动化影响较低，但移民门槛高，职位更依赖本地劳动力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. New Zealand's beef cattle industry is stable, but labour is highly seasonal, with more demand in the North Island and East Coast. This occupation has low automation impact, but high immigration barriers mean roles rely more on local labour.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $43,000~$49,000 | 最低工资约$22.70/小时，全职年薪约$43,000 |
-| 中级（3-6年） | $49,000~$55,000 | 有经验工人年薪约$50,000-$55,000 |
-| 高级（6年以上） | $55,000~$65,000 | 高级牧工或主管可达$65,000 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $43,000~$49,000 | Minimum wage approx. $22.70/hour, full-time annual salary approx. $43,000 |
+| Mid-level (3–6 years) | $49,000~$55,000 | Experienced workers earn approximately $50,000-$55,000 per year |
+| Senior (6+ years) | $55,000~$65,000 | Senior pastoral worker or supervisor can reach $65,000 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从肉牛农场工人可晋升为高级牧工或农场主管，也可积累经验转向肉牛养殖管理。但晋升机会有限，需额外培训或转至技能职业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Beef cattle farm workers face high automation risk; repetitive physical tasks such as grazing, cleaning, fence checking are easily replaced by robots and sensors, reducing entry-level positions, requiring upskilling or moving to adjacent occupations.
+
+Beef cattle farm workers can advance to senior stockperson or farm supervisor, and gain experience to move into beef cattle management. However, promotion opportunities are limited and may require additional training or transition to skilled occupations.
+
+**Tasks most exposed to AI:**
+
+- Automated milking and feeding systems replace manual feeding
+- Drone patrol replaces manual herding and fence inspection
+- IoT sensors automatically monitor cattle health
+- Automated cleaning robots to clean cattle sheds
+
+**Where AI augments the role:**
+
+- AI analyzes cattle behavior data to assist early disease diagnosis
+- Precision farming systems optimize feed ratios and weight gain plans.
+- Mobile apps enable task scheduling and remote collaboration
+- Virtual training simulations enhance new workers' operational skills
+
+**Human moat:**
+
+- Complex veterinary emergency and disease diagnosis
+- Handling cattle stress and abnormal behavior
+- On-site repair decisions during mechanical breakdowns
+- In-depth communication and collaboration with farmers and veterinarians
+
+**Skills to build:**
+
+- Smart agricultural machinery operation and maintenance
+- Basic data analysis (Excel/SQL)
+- Precision agriculture software use
+- Drone inspection operations.
+- Basic veterinary nursing knowledge
+
+**Key growth areas:**
 
 - Accredited Employer Work Visa
 - Seasonal Labour
@@ -63,64 +95,66 @@ Beef Cattle Farm Workers handle daily feeding, grazing, fence maintenance, healt
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于获认可的雇主担保，职位为低技能，最长3年，需满足工资中位数$29.66/小时（2024年） |
-| Subclass Seasonal（Recognised Seasonal Employer Scheme） | 季节工计划，适用于短期季节性工作，如肉牛农场放牧，需雇主担保 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable for employment with an accredited employer; position is low-skilled, up to 3 years, must meet the median wage of $29.66/hour (2024). |
+| Subclass Seasonal (Recognised Seasonal Employer Scheme) | Seasonal worker program, applicable for short-term seasonal work such as cattle farm grazing, requires employer sponsorship |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Beef Cattle Farm Worker？**
-- 喜欢户外体力劳动、适应乡村生活的人
-- 对农业有热情且愿意接受季节性工作的人
+**Who is suited**
+- Someone who enjoys outdoor physical labor and is adapted to rural life
+- People passionate about agriculture and willing to take on seasonal work
 
-**谁不适合学Beef Cattle Farm Worker？**
-- 希望快速获得新西兰居留权的人
-- 不擅长体力劳动或天气适应能力差的人
+**Who is not suited**
+- People who want to quickly obtain New Zealand residence
+- People not suitable for physical labor or poor weather adaptability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much does a beef cattle farm worker earn per year?**
+A: Entry-level worker annual salary approx. NZ$43,000-49,000; experienced workers can earn NZ$55,000-65,000.
+
+**Q: Can beef cattle farm workers immigrate to New Zealand?**
+A: Generally no, as it is a low-skilled occupation. It can only work through an Accredited Employer Work Visa (AEWV) and cannot directly apply for skilled migration.
+
+**Q: What visas are suitable for beef cattle farm workers?**
+A: Mainly Accredited Employer Work Visa (AEWV) and Recognised Seasonal Employer (RSE) scheme, both requiring employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Beef Cattle Farm Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a Beef Cattle Farm Worker?**
-答：Entry-level workers earn NZD 43,000-49,000 per year, while experienced workers can earn NZD 55,000-65,000.
-
-**问：Can a Beef Cattle Farm Worker immigrate to New Zealand?**
-答：Generally no, as it is a low-skilled occupation. Only possible via Accredited Employer Work Visa, not skilled migration.
-
-**问：What visas are suitable for Beef Cattle Farm Workers?**
-答：Mainly Accredited Employer Work Visa (AEWV) and Recognised Seasonal Employer (RSE) scheme, both requiring employer sponsorship.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

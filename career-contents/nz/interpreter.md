@@ -1,59 +1,94 @@
-# Interpreter（Interpreter）职业分析 · 新西兰
+# Interpreter — career analysis · New Zealand
 
-**职业代码：272413 – Interpreter。**
+**Occupation code: 272413 (ANZSCO)**
 
-Interpreters provide language conversion services in conferences, legal, medical, and other settings, requiring NAATI or New Zealand equivalent certification. There is steady demand in New Zealand, with migration options via Skilled Migrant Category or Green List.
+Interpreters provide language conversion services in meetings, legal, medical, and other settings, requiring NAATI or New Zealand-related certification. Demand for interpreters in New Zealand is stable, and immigration can be applied through the Skilled Migrant Category or Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 口译文凭或学士学位 | 1-3年 | $20,000~$60,000（新西兰理工学院或大学学费，国际生较贵） |
-| NAATI认证课程 | 6个月-1年 | $10,000~$20,000（额外认证培训） |
+| Interpreting diploma or bachelor's degree | 1-3 years | $20,000~$60,000 (Tuition fees at New Zealand polytechnics or universities, which are expensive for international students) |
+| NAATI accredited course. | 6 months to 1 year | $10,000~$20,000 (Additional certification training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NAATI认证（对口译等级） | National Accreditation Authority for Translators and Interpreters | 必备 | 新西兰认可，是移民加分项 |
-| 新西兰口译证书 | NZSTI or AUT | 可选 | 也可替代NAATI |
-| 语言能力证明（雅思/PTE） | IELTS/PTE | 必备 | 一般需雅思7.0以上 |
+| NAATI certification (for interpreter level) | National Accreditation Authority for Translators and Interpreters | Required | Recognized in New Zealand, adds points for immigration |
+| Language proficiency proof (IELTS/PTE) | IELTS/PTE | Required | Generally requires IELTS 7.0 or higher |
+| New Zealand interpreting certificate | NZSTI or AUT | Optional | Can also replace NAATI |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰因多元文化和旅游需求，口译员就业前景良好，尤其在奥克兰和惠灵顿等多元文化城市。医疗和法律领域对口译需求增长，但兼职多，全职机会有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Due to multiculturalism and tourism demand, interpreter employment prospects are good in New Zealand, especially in multicultural cities like Auckland and Wellington. Demand for interpreters in medical and legal fields is growing, but many are part-time; full-time opportunities are limited.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 通常兼职或按小时计薪，此年化为全职估计 |
-| 中级（3-6年） | $60,000~$80,000 | 专业领域如医疗口译 |
-| 高级（6年以上） | $80,000~$100,000 | 法庭或会议口译高薪 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Usually part-time or hourly; this annualized figure is a full-time estimate |
+| Mid-level (3–6 years) | $60,000~$80,000 | Specialized fields such as medical interpreting |
+| Senior (6+ years) | $80,000~$100,000 | High pay for court or conference interpreting |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★☆☆）。** 初级口译员可从社区口译做起，积累经验后转向专业领域（如法庭、医疗），或成为会议口译。有经验者可晋升为团队主管或开设自由职业机构，提升收入。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
+
+Entry-level interpreters can start with community interpreting, gain experience, then move to specialized fields (e.g., court, medical), or become conference interpreters. Experienced interpreters can advance to team lead or start freelance agencies, increasing income.
+
+**Tasks most exposed to AI:**
+
+- Standard conference interpreting (e.g., business negotiations)
+- Simple telephone interpreting or community interpreting
+- Basic subtitling/transcription proofreading
+- Standardized oral exam scoring
+
+**Where AI augments the role:**
+
+- Real-time captioning assisting interpretation (AI providing background information)
+- Term base management (AI automatically extracts terms)
+- AI speech-to-text note-taking assistance during simultaneous interpretation
+- Remote interpreting platforms (AI optimizes audio/video).
+- Quality self-check (AI playback comparison against standard translation)
+
+**Human moat:**
+
+- Cultural context understanding and emotional conveyance
+- Rapid decision-making under high pressure
+- Confidentiality and ethical judgment
+- Interpretation of Non-Verbal Signals (Tone, Body Language)
+- Transcreation and rhetorical refinement
+
+**Skills to build:**
+
+- Specialized domain knowledge (legal, medical, financial)
+- AI-assisted translation tools (e.g., Otter.ai, SDL Trados)
+- Remote interpreting platform operations
+- Terminology management and data annotation
+- On-site equipment commissioning and troubleshooting
+- Advanced cross-cultural communication skills
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +97,67 @@ Interpreters provide language conversion services in conferences, legal, medical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 口译员属ANZSCO Skill Level 1，可申请技术移民，需满足分数及语言要求 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 口译员不在主要绿名单，但可能通过T2路径申请，需雇主担保 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如无移民计划，可通过认证雇主申请临时工签，需雇主担保 |
+| Subclass SMC (Skilled Migrant Category) | Interpreters are ANZSCO Skill Level 1, can apply for skilled migration, must meet points and language requirements |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Interpreters are not on the primary Green List but may apply through the T2 pathway, requiring employer sponsorship. |
+| Subclass AEWV (Accredited Employer Work Visa) | If no immigration plan, can apply for a temporary work visa through an accredited employer, requiring employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interpreter？**
-- 具备双语或多语能力且热爱跨文化沟通的人
-- 适应灵活工作时间（如自由职业）
-- 有耐心和良好记忆力的人
-
-**谁不适合学Interpreter？**
-- 不愿处理复杂敏感信息（如医疗、法律内容）的人
-- 寻求稳定全职且高薪工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with bilingual or multilingual skills and a passion for cross-cultural communication
+- Adaptable to flexible working hours (e.g., freelancing).
+- People with patience and good memory
+
+**Who is not suited**
+- People unwilling to handle complex sensitive information (e.g., medical or legal content).
+- People seeking stable full-time and high-paying jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an interpreter in New Zealand?**
+A: Entry-level about NZD 45,000-60,000/year, intermediate NZD 60,000-80,000, senior NZD 80,000-100,000. Many interpreters charge hourly, around NZD 30-80/hour.
+
+**Q: How can interpreters immigrate to New Zealand through skilled migration?**
+A: Must obtain NAATI or equivalent certification, meeting degree and/or work experience requirements of the 6-point system; usually bachelor's degree plus relevant experience.
+
+**Q: What certification is required to work as an interpreter in New Zealand?**
+A: NAATI certification is most common, but New Zealand local interpreting certificates (e.g., NZSTI) are also accepted. Legal or medical interpreting usually requires certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interpreter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an interpreter in New Zealand?**
-答：Entry-level around NZ$45,000-60,000 per year, mid-level NZ$60,000-80,000, senior NZ$80,000-100,000. Many interpreters charge hourly, NZ$30-80 per hour.
-
-**问：How can interpreters apply for skilled migration to New Zealand?**
-答：You need NAATI or equivalent certification, meet the 6-point system requirements regarding qualifications and/or work experience, typically a bachelor's degree plus relevant experience.
-
-**问：What certification is required to work as an interpreter in New Zealand?**
-答：NAATI certification is most common, but local New Zealand interpreter certificates (e.g., from NZSTI) are also accepted. Legal or medical interpreting often mandates certification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

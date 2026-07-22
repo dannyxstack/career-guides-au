@@ -1,60 +1,95 @@
-# Charcuterie - Delicatessen Specialist（Charcuterie - Delicatessen Specialist）职业分析 · FR
+# Charcuterie - Delicatessen Specialist — career analysis · France
 
-**职业代码：D1103 – Charcuterie - Delicatessen Specialist。**
+**Occupation code: D1103 (ROME)**
 
-Charcuterie specialists prepare and sell cooked meats, cold cuts, and delicatessen platters, working in food shops, supermarkets, or catering businesses, with skills in meat processing, seasoning, preservation, and presentation.
+Cooked food processors are responsible for preparing and selling cooked meat products, cold cuts, and cooked platters. They usually work in food stores, supermarkets, or catering businesses, and must master skills in meat processing, seasoning, preservation, and presentation.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 熟食师 | 2年（CAP） | —（公立学校免费或低学费，私立约5000-15000€；可通过学徒制(apprentissage)获得报酬） |
-| BM 熟食业大师 | 2年（BM补充） | $5,000~$20,000（通常在职培训，费用因学校而异） |
+| CAP Chef | 2 years (CAP) | $0~$15,000 (Public schools offer free or low tuition, private schools about €5,000–15,000; Compensation can be obtained through apprenticeships) |
+| BM Delicatessen Master | 2 years (BM supplement) | $5,000~$20,000 (On-the-job training is usually on-the-job training, with costs varying by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Charcutier-Traiteur | 法国教育部 | 必备 | 熟食师职业资格证，行业入门必备 |
-| Brevet de Maîtrise (BM) en charcuterie-traiteur | 法国手工业协会(CMA) | 可选 | 高级职业证书，适合自主创业或主管职位 |
+| CAP Charcutier-Traiteur | French Ministry of Education | Required | The cooked food specialist professional qualification certificate is essential for entering the industry |
+| Brevet de Maîtrise (BM) en charcuterie-traiteur | French Handicraft Association (CMA) | Optional | Advanced professional certificate, suitable for entrepreneurship or supervisory positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国熟食行业需求稳定，受本地消费和旅游餐饮支撑。随着手工食品和传统技艺复兴，具备认证的熟食师在中小城市和乡村旅游区就业机会较多，但大城市竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand in France's deli industry is stable, supported by local consumption and tourism dining. With the revival of handcrafted foods and traditional crafts, certified cooked food specialists have more job opportunities in small and medium-sized cities and rural tourist areas, but competition in large cities is fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常为SMIC水平 |
-| 中级（3-7年） | $26,000~$32,000 | 包括熟食部门主管或主厨 |
-| 高级（7年以上） | $32,000~$40,000 | 含自主创业店主或大型企业高级技师 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually at the SMIC level |
+| Mid-level (3–7 years) | $26,000~$32,000 | Including the head chef or head chef of the cooked food department |
+| Senior (7+ years) | $32,000~$40,000 | Including self-employed store owners or senior technicians from large enterprises |
+| average salary | $24,012 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初期在熟食店或超市熟食柜担任操作员；积累经验后可升任熟食部门主管或主厨；也可自主开设熟食店；进一步可考取CAP或BM认证，从事培训或质量管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The risks for deli processors are mixed: AI automation will take over formula and inventory management, but manual cutting, plattering aesthetics, and customer interaction are hard to replace, requiring a shift toward high value-added deli innovation and experiential services.
+
+Initially, work as an operator in deli stores or supermarket deli cabinets; After gaining experience, you can be promoted to head or head chef of the cooked food department; You can also open your own deli store; Further qualification can be obtained for CAP or BM certification, and you can work in training or quality management.
+
+**Tasks most exposed to AI:**
+
+- Automated formula management system optimizes seasoning ratios and shelf life calculations
+- The AI vision system automatically detects whether the platter and platter meet the standards
+- The intelligent inventory system forecasts sales and automatically replenishes goods
+- Online order system and automated packaging assembly line reduce manual handling
+
+**Where AI augments the role:**
+
+- AI-assisted design of personalized cooked food platters, based on customer preferences and nutritional analysis
+- The digital recipe recommendation engine improves the efficiency of new product development
+- Automated labeling and traceability systems enhance food safety compliance capabilities
+- Social media content generation tools help product marketing and customer engagement
+- Smart devices monitor the maturity status of cooked foods, improving quality consistency
+
+**Human moat:**
+
+- The artistry of meticulous hand-cutting and plating
+- Intuitive judgment of flavors and creative blending
+- Personalized services that build trust with regular customers
+- On-site handling of emergencies (such as special customer requirements or quality anomalies)
+- Delivering the spirit of craftsmanship and brand story experience
+
+**Skills to build:**
+
+- Food supply chain digital management software
+- AI-assisted formula design and nutrition analysis tools
+- Customer relationship management (CRM) and data analysis
+- Social media content production and e-commerce operations
+- Operation of food safety and traceability systems
+- Advanced cutting and plattering techniques
+
+**Key growth areas:**
 
 - Artisanal food
 - Local produce trend
@@ -63,65 +98,67 @@ Charcuterie specialists prepare and sell cooked meats, cold cuts, and delicatess
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需雇主担保，工作合同至少一年，薪资不低于SMIC。该职业属于非紧缺，需证明本地无合适人选。 |
-| Subclass Recherche emploi（Job Search Visa (for graduates)） | 法国毕业生可申请12个月求职居留，找到对口工作后可转为工作居留。 |
+| Subclass Salarié (Salarié (Work Permit)) | Requires employer sponsorship, employment contract of at least one year, salary not less than SMIC. This occupation is not in shortage, must prove no suitable local candidate. |
+| Subclass Recherche emploi (Job Search Visa (for graduates)) | French graduates can apply for a 12-month job-seeking residence permit, and after finding a relevant job, they can convert to work-based residence. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Charcuterie - Delicatessen Specialist？**
-- 对传统手工食品制作有热情的人
-- 愿意在厨房或店铺环境中站班工作
-- 希望从事本地化、不易被自动化替代的技艺型职业
+**Who is suited**
+- People passionate about traditional handmade food making
+- Willing to stand and work in kitchen or shop environment
+- Those who want to pursue localized skilled professions that are not easily replaced by automation
 
-**谁不适合学Charcuterie - Delicatessen Specialist？**
-- 不适应早起和长时间站立工作的人
-- 追求高薪或快速晋升的求职者
+**Who is not suited**
+- People who are not suited to early starts and long periods of standing
+- Job seekers pursuing high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there significant room for salary growth for cooked food processors?**
+A: Starting salary near SMIC (about 22,000€/year), mid-level up to 32,000€ with experience, senior or self-employed may exceed 40,000€, but overall growth is limited, industry income is below average.
+
+**Q: Can third-country citizens immigrate to France through a cooked food processor?**
+A: It's very difficult. This occupation is not listed as a shortage occupation and has a low entry threshold, with a sufficient local labor force in France. Employers must prove that suitable employees cannot be recruited within the EU, and immigration officers tend to reject such applications. It is recommended to consider other paths.
+
+**Q: What are the promotion paths for cooked food processors?**
+A: You can be promoted from operator to head of the deli department or chef, or pass the Brevet de Maîtrise exam to open your own restaurant. Additionally, they can shift to roles such as food training, quality inspection, or food research and development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Charcuterie - Delicatessen Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth for charcuterie specialists?**
-答：Entry-level salary is near SMIC (~€22,000/yr), mid-level can reach €32,000, and senior roles or self-employment may exceed €40,000, but overall growth is limited; industry income is below average.
-
-**问：Can third-country nationals immigrate to France as charcuterie specialists?**
-答：Very difficult. This trade is not on the shortage list and has low barriers; local workforce is sufficient. Employers must prove no EU candidate is available, and visa officers tend to reject such applications. Consider alternative pathways.
-
-**问：What are the career advancement paths for charcuterie specialists?**
-答：From operator to department head or chef, or obtain Brevet de Maîtrise to open your own shop. Also possible to move into food training, quality control, or R&D.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

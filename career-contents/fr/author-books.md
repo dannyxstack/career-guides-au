@@ -1,60 +1,95 @@
-# Author (Books)（Author (Books)）职业分析 · FR
+# Author (Books) — career analysis · France
 
-**职业代码：E1102 – Author (Books)。**
+**Occupation code: E1102 (ROME)**
 
-Writes fiction, non-fiction, academic works, etc., independently or commissioned, involving research, editing, and publishing processes.
+Writing novels, nonfiction books, academic works, etc., independently or on commission, involving research, editing, and publishing processes.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后专门培训 | 1-2年（CAP/BTS） | —（公立学校低学费，私立约3000-5000欧元） |
-| 本科（ licence ） | 3年 | —（公立大学约170欧注册费，私立昂贵） |
+| Specialized training after high school | 1-2 years (CAP/BTS) | $0~$5,000 (Public schools have low tuition fees, while private ones cost about 3,000-5,000 euros) |
+| Bachelor's Degree (licence) | 3 years | $0~$10,000 (The registration fee for public universities is about 170 euros, while private universities are expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 文学或写作相关文凭 | 法国大学或私立学院 | 可选 | 非强制，但有助于提升竞争力 |
-| 作者身份认证（ Maison des Écrivains ） | Maison des Écrivains et de la Littérature | 可选 | 自愿注册，提供职业支持 |
+| Diplomas related to literature or writing | French universities or private colleges | Optional | Not mandatory, but helps improve competitiveness. |
+| Authorship Certification (Maison des Écrivains) | Maison des Écrivains et de la Littérature | Optional | Voluntary registration provides career support |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 45,000。法国图书出版市场稳定，但竞争激烈。数字出版和自出版兴起带来新机遇，传统出版岗位增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 45,000. The French book publishing market is stable but highly competitive. The rise of digital publishing and self-publishing brings new opportunities, while traditional publishing jobs are growing slowly.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 多基于版税，收入不稳定 |
-| 中级（3-10年） | $25,000~$45,000 | 稳定出版合同加版税 |
-| 高级（10年以上） | $45,000~$80,000 | 畅销作家或跨媒体合作 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Most are based on royalties, and their income is unstable |
+| Intermediate (3-10 years) | $25,000~$45,000 | Stable publishing contracts plus royalties |
+| Senior (10+ years) | $45,000~$80,000 | Bestselling authors or cross-media collaborations |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理作家起步，晋升为独立作家或签约作家，部分转向编辑、文学翻译或数字内容创作。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on writers and authors is mixed: automation can generate basic content and assist editing, compressing entry-level jobs; but creative writing, deep narrative, and unique style still require humans, and AI tools can enhance research and drafting efficiency.
+
+You can start as an assistant writer and advance to independent or contract writer, with some shifting to editing, literary translation, or digital content creation.
+
+**Tasks most exposed to AI:**
+
+- Generate standardized news reports or product descriptions based on keywords
+- Automated social media posts, ad copy, and email drafts
+- Basic proofreading, grammar checking, and style consistency adjustments
+- Generate templated scripts or story outlines
+- Drafting initial versions of data reports and simple technical documents
+
+**Where AI augments the role:**
+
+- Use AI to generate creative inspiration and story outlines, broaden thinking.
+- Using AI for background research, fact-checking, and data integration
+- Multiple rounds of iterative revision and polishing with AI assistance
+- AI translation tools help writers reach international readers and quickly translate drafts
+- Using AI to analyse reader feedback and optimise content strategy
+
+**Human moat:**
+
+- Original storytelling, emotional depth, and character development
+- Cultural context understanding and nuanced language expression
+- Critical thinking and argumentation on complex topics
+- Collaboration and negotiation with editors, publishers, and other stakeholders
+- Personal brand building and audience relationship management
+
+**Skills to build:**
+
+- Proficient in using ChatGPT, Claude and other LLMs for writing assistance
+- Mastering AI Prompt Engineering
+- Learning management platforms (e.g., WordPress) integrated with AI plugins
+- Data analysis fundamentals, using tools (e.g., Google Analytics) to optimize content
+- Multimedia narrative skills (video scripts, podcasts, etc.)
+- Copyright and ethics knowledge to ensure AI output compliance
+
+**Key growth areas:**
 
 - Self-publishing
 - E-books
@@ -63,63 +98,65 @@ Writes fiction, non-fiction, academic works, etc., independently or commissioned
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (Cultural/Artistic)） | 适用于知名作家或艺术家，需证明突出成就 |
-| Subclass Salarié（Employee (Salarié)） | 受雇于出版社或文化机构，需雇主担保 |
-| Subclass Recherche emploi（Job Seeker (Recherche d'emploi)） | 毕业后的求职签证，限学生转换 |
+| Subclass Passeport Talent (Talent Passport (Cultural/Artistic)) | Applicable to well-known writers or artists, requiring proof of outstanding achievements |
+| Subclass Salarié (Employee (Salarié)) | Employment with publishers or cultural institutions requires employer sponsorship |
+| Subclass Recherche emploi (Job Seeker (Recherche d'emploi)) | Post-graduation job search visas are limited to student conversion |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Author (Books)？**
-- 热爱写作、有创意和毅力
-- 能承受收入不稳定和孤独工作
-- 有良好语言表达和研究能力
+**Who is suited**
+- Passionate about writing, creative, and persistent
+- Able to endure unstable income and working alone
+- Good language communication and research skills
 
-**谁不适合学Author (Books)？**
-- 追求稳定高收入
-- 不喜欢独立工作或缺乏自律
+**Who is not suited**
+- Pursue stable and high income
+- Dislikes working independently or lacks self-discipline
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How do writers get paid?**
+A: Entry-level author salary about 15,000-25,000 euros/year, mid-level 25,000-45,000, senior up to 80,000, but often relies on royalties, income fluctuates.
+
+**Q: Is it easy for writers to immigrate to France?**
+A: It is more difficult, requiring a talent passport or employment with a French institution, and proof of outstanding achievements, usually only for well-known writers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Author (Books)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an author?**
-答：Junior authors earn €15,000-25,000, mid-level €25,000-45,000, senior up to €80,000, but income is royalty-based and volatile.
-
-**问：Is it easy for authors to migrate to France?**
-答：Difficult; requires a Talent Passport or employment by a French entity, with proven outstanding achievements, usually only for established authors.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

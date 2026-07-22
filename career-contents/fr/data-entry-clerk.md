@@ -1,62 +1,97 @@
-# Data Entry Clerk（Data Entry Clerk）职业分析 · FR
+# Data Entry Clerk — career analysis · France
 
-**职业代码：M1606 – Data Entry Clerk。**
+**Occupation code: M1606 (ROME)**
 
-Responsible for accurate and efficient entry of data from paper or electronic documents into computer systems, ensuring database integrity and accuracy.
+Responsible for accurately and efficiently entering data from paper or electronic documents into the computer system, ensuring the integrity and accuracy of the database.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP/BEP（职业证书） | 2年 | —（公立学校免费，私立学校约3000欧元） |
-| Bac Pro（职业高中） | 3年 | —（公立高中免费，私立高中学费不等） |
-| BTS/DUT（大专） | 2年 | $2,000~$10,000（公立学校学费较低，私立约10000欧元） |
+| CAP/BEP (Professional Certificate) | 2 years | $0~$3,000 (Public schools are free, while private schools cost about 3,000 euros) |
+| Bac Pro (vocational high school) | 3 years | $0~$5,000 (Public high schools are free, private high school fees vary.) |
+| BTS/DUT (Associate Degree) | 2 years | $2,000~$10,000 (Public school tuition is relatively low, while private ones cost about 10,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| TOSA certification (Excel or Data Entry) | TOSA/Le Robert | 可选 | 常见的数据录入技能认证，非强制 |
-| C2i (Certificat Informatique et Internet) | 法国教育部 | 可选 | 计算机与互联网证书，部分雇主要求 |
-| Bac Pro Gestion-Administration | 法国教育部 | 可选 | 管理与行政职业高中文凭，对岗位有帮助 |
+| TOSA certification (Excel or Data Entry) | TOSA/Le Robert | Optional | Common data entry skills certification, not mandatory |
+| C2i (Certificat Informatique et Internet) | French Ministry of Education | Optional | Computer and Internet certification, required by some employers |
+| Bac Pro Gestion-Administration | French Ministry of Education | Optional | A high school diploma in management and administration is helpful for the job |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。数据录入员在法国需求稳定，但受自动化和AI影响，岗位增长缓慢。主要集中在行政外包、医疗档案管理、物流等领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. The demand for data entry officers in France is stable, but job growth has been slow due to automation and AI. Mainly focused on administrative outsourcing, medical record management, logistics, and other fields.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，通常为SMIC起薪 |
-| 中级（3-7年） | $25,000~$30,000 | 税前年薪，视经验与技能而定 |
-| 高级（7年以上） | $30,000~$35,000 | 税前年薪，含主管或质量控制岗位 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, usually starting at SMIC |
+| Mid-level (3–7 years) | $25,000~$30,000 | Pre-tax annual salary depends on experience and skills |
+| Senior (7+ years) | $30,000~$35,000 | Pre-tax annual salary, including supervisor or quality control positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从初级数据录入员晋升为高级数据录入员、团队主管或数据质量分析师。通过额外培训可转向数据分析或数据库管理方向。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Data entry officers face significant risks of replacement by AI and automation technologies, especially OCR and intelligent parsing of structured data. Entry-level positions are rapidly being squeezed, requiring a shift toward data verification and process management.
+
+You can advance from junior data entry specialist to senior data entry officer, team leader, or data quality analyst. Additional training can lead to a shift toward data analysis or database management.
+
+**Tasks most exposed to AI:**
+
+- Batch scanning of paper documents and OCR recognition and entry
+- Copy-paste standardized fields in spreadsheets
+- Import data from PDFs into the database according to fixed templates
+- Highly repetitive data verification and format adjustment
+- Data classification and archiving based on simple rules
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly locate and fix OCR recognition errors
+- Identify key information in unstructured documents with AI assistance
+- Use smart spreadsheet tools to automatically generate data summaries and statistical reports
+- Manage multi-source data import tasks with automated process orchestration tools
+- Use AI for data quality monitoring and anomaly alerts
+
+**Human moat:**
+
+- Handling complex non-standard inputs such as handwriting and low-quality scans
+- Cross-system data consistency verification and anomaly detection
+- Understanding the ambiguous match between industry terminology and contextual semantics
+- Communicate with customers to confirm data accuracy and completeness
+- Manual audit responsibilities for data privacy and security compliance
+
+**Skills to build:**
+
+- Master OCR post-processing tools (such as ABBYY FineReader, Tesseract)
+- Learn low-code automation platforms (such as UiPath, Power Automate)
+- Basic SQL and database management skills
+- Data quality management and anomaly detection methods
+- Python scripts are used for data cleaning and validation
+- Understand data privacy regulations such as GDPR
+
+**Key growth areas:**
 
 - Automation
 - Data Quality
@@ -65,65 +100,67 @@ Responsible for accurate and efficient entry of data from paper or electronic do
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明职位难以找到欧盟候选人。数据录入员不属于紧缺职业，通过难度较大。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，但数据录入员通常不符合条件。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that it is difficult to find EU candidates for the position. Data entry specialists are not in short supply and are quite difficult to pass. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, but data entry officers are usually not eligible. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Data Entry Clerk？**
-- 注重细节、耐心、耐坐办公桌的人群
-- 希望快速进入职场、无需高等教育背景的人
-- 追求稳定、重复性工作节奏的人
+**Who is suited**
+- People who pay attention to detail, are patient, and have a desk that can be enduring
+- Those who want to quickly enter the workforce without a higher education background
+- People who pursue a stable, repetitive work rhythm
 
-**谁不适合学Data Entry Clerk？**
-- 追求高薪与职业晋升空间的人
-- 难以适应单调工作、寻求创意挑战的人
+**Who is not suited**
+- People who pursue high salaries and career advancement opportunities
+- People who find it hard to adapt to monotonous work and seek creative challenges
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for data entry officers?**
+A: French data entry clerk annual pre-tax salary typically between €20,000 and €35,000, entry-level about €20,000, senior up to €35,000.
+
+**Q: Can data entry officers apply for skilled immigration in France?**
+A: Data entry clerks are not in France's shortage occupations; immigrating via regular work residence (Salarié) or Talent Passport is difficult, employer must prove inability to find EU candidates.
+
+**Q: What promotion opportunities are available for data entry specialists?**
+A: You can be promoted to data quality analyst, database administrator, team leader, or through training to switch to data analysis or administrative assistant paths.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Data Entry Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for data entry clerks?**
-答：In France, the gross annual salary for data entry clerks ranges from €20,000 to €35,000, with entry-level around €20,000 and senior up to €35,000.
-
-**问：Can data entry clerks apply for French skilled migration?**
-答：Data entry clerks are not on the shortage list; obtaining a Salarié work permit or Talent Passport is difficult, as employers must prove no EU candidate is available.
-
-**问：What are the career advancement opportunities for data entry clerks?**
-答：Opportunities include promotion to data quality analyst, database administrator, team leader, or transitioning to data analysis or administrative assistant roles with additional training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

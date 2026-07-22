@@ -1,58 +1,94 @@
-# Street Food Salespersons（Street Food Salespersons）职业分析 · NL
+# Street Food Salespersons — career analysis · Netherlands
 
-**职业代码：5212 – Street Food Salespersons。**
+**Occupation code: 5212 (ISCO08)**
 
-Street food salespersons sell fast food and beverages at street markets, festivals, and events in the Netherlands, often self-employed or employed by small stalls.
+Street food vendors sell fast food and beverages in Dutch street markets and festival events, usually self-employed or working for small stalls.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 4年（中等教育） | —（公立教育免费） |
-| 职业培训 | 1-2年（职业课程） | $500~$5,000（部分课程可通过政府补贴减免） |
+| High school diploma | 4 years (secondary education) | $0~$0 (Public education is free) |
+| Vocational training | 1-2 years (vocational courses) | $500~$5,000 (Some courses may be subsidised by government grants) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 荷兰食品与消费品安全局（NVWA） | 必备 | 法律规定必须持有，确保食品安全 |
-| 创业证书 | 荷兰商会（KVK） | 可选 | 自营者建议持有 |
+| Food hygiene certificate | Netherlands Food and Consumer Product Safety Authority (NVWA) | Required | Legally required to ensure food safety |
+| Entrepreneurship certificate | Netherlands Chamber of Commerce (KVK) | Optional | Recommended for self-employed individuals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。荷兰街头食品市场稳定，受旅游和本地消费驱动，但受季节性影响较大。预计未来五年就业人数基本持平，竞争适中。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The Dutch street food market is stable, driven by tourism and local consumption, but is significantly affected by seasonality. Employment is expected to remain roughly flat over the next five years, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，兼职或季节性工作 |
-| 中级（3-6年） | $24,000~$32,000 | 税前年薪，全职 |
-| 高级（6年以上） | $30,000~$45,000 | 税前年薪，含自营收入 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, part-time or seasonal work |
+| Mid-level (3–6 years) | $24,000~$32,000 | Annual salary before tax, full-time |
+| Senior (6+ years) | $30,000~$45,000 | Pre-tax annual salary, including self-employment income |
+| average salary | $28,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从摊位助手开始，积累经验后可成为独立摊主或扩展至多个摊位。部分销售人员转向餐饮管理或开设固定店铺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not completely replace street food vendors, but it will significantly change work methods: payment automation reduces labor needs, operational tools increase efficiency, while personalized recommendations and inventory management requirements grow, requiring workers to learn new skills.
+
+Start as a stall assistant, gain experience to become an independent stallholder or expand to multiple stalls. Some salespeople move into catering management or open fixed shops.
+
+**Tasks most exposed to AI:**
+
+- Manual Cash Transactions and Change Giving
+- Simple inventory recording and counting
+- Fixed slogan-style customer outreach
+- Timing and temperature monitoring in basic cooking processes.
+- Traditional menu design and pricing
+
+**Where AI augments the role:**
+
+- Using AI recommendation systems to analyze sales data to optimize menus and pricing.
+- Precision marketing via social media and AI-generated content.
+- Use payment and inventory automation systems to reduce human errors
+- Enhancing customer service experience using tablet ordering and CRM tools
+- Use AI to analyze weather and foot traffic trends to forecast inventory needs
+
+**Human moat:**
+
+- On-site interpersonal interaction and relationship maintenance with customers
+- Human judgment on food taste and freshness
+- Creative ability in stall layout and atmosphere creation
+- Ability to handle sudden complaints or allergy issues.
+- Local food culture and reputation: heritage and innovation
+
+**Skills to build:**
+
+- Digital payment system operation
+- Basic Data Analysis (Inventory, Sales Trends)
+- Social media marketing and content creation (AI-assisted)
+- Food safety and hygiene management
+- Customer Relationship Management (CRM) tools are used
+- Simple catering equipment maintenance and troubleshooting
+
+**Key growth areas:**
 
 - seasonal demand
 - food truck culture
@@ -61,68 +97,67 @@ Street food salespersons sell fast food and beverages at street markets, festiva
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需年薪至少€5,331/月（2024年标准） |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需雇主担保，年薪门槛约€4,500-€6,500/月 |
-| Subclass Orientation Year（Orientation Year） | 适用于荷兰高校毕业的外国学生，允许1年内寻找工作，无薪资门槛 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens requiring a minimum annual salary of €5,331/month (2024 standard) |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants requiring employer sponsorship, salary threshold approx. €4,500-€6,500/month |
+| Subclass Orientation Year (Orientation Year) | Applicable to foreign students graduating from Dutch universities, allowing 1 year to find a job, no salary threshold |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Street Food Salespersons？**
-- 喜欢与人交流，性格外向
-- 适应灵活工作时间和户外工作环境
-- 有志于自主创业或经营小本生意
-
-**谁不适合学Street Food Salespersons？**
-- 对收入稳定性要求高
-- 不擅长体力劳动或长时间站立
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys interacting with people, outgoing personality
+- Adaptable to flexible working hours and outdoor work environments
+- Those aspiring to start their own business or run a small enterprise
+
+**Who is not suited**
+- High demand for income stability
+- Not suited for physical labor or prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of street food vendors in the Netherlands?**
+A: Annual salary for full-time employees is approximately €24,000-€32,000 (pre-tax); income for self-employed individuals varies widely and can reach €30,000-€45,000.
+
+**Q: How can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: This occupation usually does not meet the salary requirements for high-skilled migration but may be possible through a startup visa (self-employment) or partner visa. It is recommended to consult the Dutch Immigration and Naturalisation Service (IND).
+
+**Q: What certificates are needed to sell street food in the Netherlands?**
+A: Must hold a food hygiene certificate (Hygiënecode) recognized by the NVWA. Self-employed individuals are advised to complete entrepreneurship training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Street Food Salespersons的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for street food salespersons in the Netherlands?**
-答：Full-time employees earn around €24,000-€32,000 (pre-tax) per year, while self-employed can earn €30,000-€45,000 depending on season.
-
-**问：How can non-EU citizens migrate to the Netherlands through this occupation?**
-答：This occupation typically does not meet high-skilled migrant salary thresholds, but self-employment or partner visas may be options. Consult IND.
-
-**问：What certifications are required for street food sales in the Netherlands?**
-答：A food hygiene certificate (Hygiënecode) from NVWA is mandatory. Self-employed persons are advised to complete entrepreneurship training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

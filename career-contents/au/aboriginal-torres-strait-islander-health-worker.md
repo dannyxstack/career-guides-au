@@ -1,65 +1,95 @@
-# 原住民健康工作者（Aboriginal & Torres Strait Islander Health Worker）职业分析 · 澳大利亚
+# Aboriginal & Torres Strait Islander Health Worker — career analysis · Australia
 
-**职业代码：411511 – Aboriginal & Torres Strait Islander Health Worker。**
+**Occupation code: 411511 (ANZSCO)**
 
-原住民健康工作者在原住民社区控制的健康服务(ACCHO)及公立医疗系统中提供文化安全的初级医疗、健康教育与个案支持，受 Aboriginal and Torres Strait Islander Health Award 覆盖，是政府资助、澳洲特有的岗位，偏远地区薪资更高，非技术移民职业。
+Aboriginal Health Workers provide culturally safe primary healthcare, health education, and case support at Aboriginal Community Controlled Health Services (ACCHOs) and public hospitals. Covered by the Aboriginal and Torres Strait Islander Health Award, this is a government-funded, Australia-specific role with higher pay in remote areas. It is a non-skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III/IV in Aboriginal and/or Torres Strait Islander PHC | 1~2年 | —（多有补贴） |
-| 注册(Health Practitioner)所需 Cert IV | 1~2年 | —（AHPRA 注册路径） |
+| Certificate III/IV in Aboriginal and/or Torres Strait Islander PHC | 1–2 years | $0~$8,000 (Often subsidised) |
+| Cert IV required for Health Practitioner registration | 1–2 years | $0~$9,000 (AHPRA registration pathway) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Cert III/IV in ATSI Primary Health Care | TAFE/RTO | 必备 | 入行基础 |
-| AHPRA 注册（Health Practitioner 岗位） | AHPRA / 相关委员会 | 可选 | 注册岗位强制 |
+| Cert III/IV in ATSI Primary Health Care | TAFE/RTO | Required | Foundation for entering the industry |
+| AHPRA registration (for Health Practitioner roles) | AHPRA / Relevant board | Optional | Mandatory for registered positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 12,000。Closing the Gap 政策与 ACCHO 扩张推动稳定需求，持注册资格(Health Practitioner)及偏远地区从业者收入更高。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Closing the Gap policy and ACCHO expansion drive stable demand; those with registration (Health Practitioner) and working in remote areas earn higher.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,300 个 | 全国 |
-| Health Workforce | 400~900 个 | ACCHO/公立 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $60,000~$72,000 | Award 起薪 |
-| 中级（3-8年） | $75,000~$95,000 | Experienced |
-| 资深 / 注册从业者 | $95,000~$120,000 | 偏远更高 |
+| Median salary | $75,920 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$72,000 | Award starting salary |
+| Mid-level (3–8 years) | $75,000~$95,000 | Experienced |
+| Senior / Registered practitioner | $95,000~$120,000 | Higher in regional areas |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：健康工作者→注册健康从业者(Practitioner)→团队/项目负责人；文化身份与社区联系是核心优势。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
+
+Pathway: health worker → registered health practitioner → team/project lead; cultural identity and community connections are core strengths.
+
+**Tasks most exposed to AI:**
+
+- Basic health data entry and case organization
+- Translation and localisation of standard health education materials
+- Appointment management and follow-up reminder calls
+- Basic chronic disease knowledge Q&A (e.g., diabetes diet)
+
+**Where AI augments the role:**
+
+- Use AI to analyze community health data to identify high-risk groups and trends
+- Use generative AI to create multilingual, culturally adapted educational videos and diagrams
+- Preliminary health screening and triage via AI voice assistants
+- Use AI-enabled remote monitoring tools to track chronic patient conditions
+- AI-assisted report writing and policy proposal generation
+
+**Human moat:**
+
+- Cultural safety practices: deep understanding of Indigenous customs, history, and trust building
+- Community Relationship Maintenance: Face-to-Face Emotional Support and Crisis Intervention
+- Cross-cultural medical translation and advocacy: accurately convey medical information while preserving patient dignity
+- Complex Ethical Decisions: Balancing Traditional and Modern Medicine
+- On-site visits and home care: hands-on work that cannot be replaced by a screen
+
+**Skills to build:**
+
+- Master community health data analysis tools (e.g., Power BI, Tableau)
+- Learn to create AI-driven health education content (e.g., Canva, Synthesia)
+- Familiarity with telehealth platforms and electronic health record systems
+- Basic natural language processing knowledge: for evaluating AI translation quality
+- Trauma-informed care and mental health first aid certification
+- Project management skills: coordinating multiple partners
+
+**Key growth areas:**
 
 - Closing the Gap
 - ACCHO Sector
@@ -68,58 +98,59 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学原住民健康工作者？**
-- 原住民/托雷斯海峡岛民社区成员
-- 认同文化安全与社区健康者
-- 愿在偏远地区服务者
-
-**谁不适合学原住民健康工作者？**
-- 以技术移民为目标者
-- 无法建立社区信任与文化联系者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Aboriginal/Torres Strait Islander community member
+- Those who embrace cultural safety and community health
+- Those willing to serve in regional areas
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those unable to build community trust and cultural connections
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an Indigenous health worker?**
+A: Approx. AUD 60,000-120,000, higher in remote areas and for registered health practitioners.
+
+**Q: Can this occupation migrate via skilled visa?**
+A: No, it is a local government-funded role serving Indigenous communities, not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-原住民健康工作者属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：原住民健康工作者薪资多少？**
-答：约 AUD $6万~$12万，偏远地区与注册健康从业者更高。
-
-**问：这个职业能技术移民吗？**
-答：不能，是面向原住民社区、政府资助的本地岗位，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

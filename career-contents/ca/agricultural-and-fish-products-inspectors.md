@@ -1,59 +1,94 @@
-# Agricultural and fish products inspectors（Agricultural and fish products inspectors）职业分析 · 加拿大
+# Agricultural and fish products inspectors — career analysis · Canada
 
-**职业代码：22111 – Agricultural and fish products inspectors。**
+**Occupation code: 22111 (NOC)**
 
-Agricultural and fish products inspectors examine food and agricultural products to ensure compliance with quality, safety, and labeling standards, protecting consumer interests.
+Agricultural and fish inspectors examine food and agricultural products to ensure they meet quality, safety, and labeling standards, protecting consumer rights.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $10,000~$20,000（公立学院，国际生费用更高） |
-| 本科学位 | 4年 | $40,000~$80,000（大学，国际生学费约为2-3倍） |
+| Diploma | 2 years | $10,000~$20,000 (Public institution, international students pay higher fees.) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (University, international student tuition fees approximately 2-3 times domestic fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | 加拿大食品安全协会 | 可选 | 非强制但有利于就业 |
-| 省级检验员执照 | 省级农业部门 | 必备 | 联邦检验员需通过CFIA认证 |
-| HACCP认证 | 国际HACCP联盟 | 可选 | 许多雇主优先考虑 |
+| Provincial inspector licence | Provincial agriculture department | Required | Federal inspectors must obtain CFIA certification |
+| Food safety certification | Canadian Food Inspection Agency | Optional | Not mandatory but beneficial for employment |
+| HACCP certification | International HACCP Alliance. | Optional | Many employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,800。加拿大食品安全法规严格，该职业需求稳定，尤其在安大略省和不列颠哥伦比亚省。预计未来十年岗位增长平稳，受退休人员更替影响。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,800. Canada has strict food safety regulations, and demand for this occupation is stable, especially in Ontario and British Columbia. Job growth is expected to be steady over the next decade, driven by replacement of retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 起薪约$20-25/小时 |
-| 中级（3-7年） | $50,000~$68,000 | 年薪中位数约$58,000 |
-| 高级（7年以上） | $68,000~$85,000 | 高级检验员或主管可达$80,000以上 |
+| Median salary | $72,800 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$50,000 | Starting salary around $20-25/hour |
+| Mid-level (3–7 years) | $50,000~$68,000 | Median annual salary approximately $58,000 |
+| Senior (7+ years) | $68,000~$85,000 | Senior inspector or supervisor can earn $80,000+ |
+| average salary | $81,120 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级检验员晋升为高级检验员、主管或政策制定者，也可通过继续教育转向食品安全管理或科研岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Some tasks of agricultural inspectors can be automated by AI, such as data recording and preliminary analysis, but on-site judgment and regulatory decisions still require humans; AI can enhance monitoring efficiency and predictive capabilities, presenting both opportunities and challenges.
+
+Can progress from junior inspector to senior inspector, supervisor, or policy maker, or shift to food safety management or scientific research through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate inspection reports and fill compliance forms
+- Primary screening of agricultural product quality using AI vision systems
+- Automatic marking of suspicious batches through data analysis
+- Automated recording and tracking of inspection history
+
+**Where AI augments the role:**
+
+- Using drones and sensors for real-time farm compliance monitoring
+- AI predictive analytics to identify high-risk areas and prioritize inspections
+- Use AR headset to remotely obtain expert guidance for on-site judgment
+- Automatically retrieve regulatory changes and prompt updates to inspection standards
+- Integrates IoT data for full supply chain traceability
+
+**Human moat:**
+
+- Sensory judgment in complex onsite environments (e.g., abnormal odors, textures)
+- Communication and negotiation skills to address farmer resistance
+- Interpretation of and discretion over ambiguous regulations.
+- Emergency decision-making ability in handling incidents
+- Cross-departmental coordination and enforcement authority
+
+**Skills to build:**
+
+- Use of drones and remote sensing data analysis tools
+- Proficiency in AI-assisted inspection software (e.g., data visualization, anomaly detection).
+- Understand the application of IoT sensors in agriculture
+- Data analysis and basic statistical skills
+- Continuously learn regulatory changes and adapt to digital compliance systems
+- Communication and conflict resolution skills.
+
+**Key growth areas:**
 
 - Quality Control
 - Food Safety
@@ -62,68 +97,67 @@ Agricultural and fish products inspectors examine food and agricultural products
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 如果符合FSW或CEC条件，可通过快速通道移民。相关NOC为TEER 2，通常需要大专以上学历和1年工作经验。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略、BC省有定向邀请，农业或食品加工背景优先。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适用于有加拿大雇主offer的情况。 |
+| Subclass Express Entry (Federal Skilled Worker) | If eligible for FSW or CEC, can immigrate via Express Entry. Related NOC is TEER 2, typically requiring a diploma or higher and 1 year of work experience. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have targeted invitations, prioritizing agriculture or food processing backgrounds. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa for those with a job offer from a Canadian employer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and fish products inspectors？**
-- 细心且注重细节的人
-- 对食品安全和农业感兴趣的人
-- 愿意接受户外或工厂环境工作的人
-
-**谁不适合学Agricultural and fish products inspectors？**
-- 不喜欢重复性检查工作的人
-- 在压力下难以保持客观判断的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and meticulous person
+- People interested in food safety and agriculture
+- Those willing to work in outdoor or factory environments
+
+**Who is not suited**
+- Those who dislike repetitive inspection work
+- People who struggle to remain objective under pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of agricultural product inspectors?**
+A: Entry-level annual salary is around CAD 40,000-50,000, mid-level CAD 50,000-68,000, and senior can reach over CAD 85,000. Federal government roles generally offer better pay.
+
+**Q: How to become a Canadian agricultural products inspector through skilled migration?**
+A: Immigration is possible through Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Relevant education and work experience are required, usually a diploma or higher, and a provincial license may be needed.
+
+**Q: What is the future outlook for this occupation?**
+A: Due to continuously strengthening food safety regulations, demand is stable. Replacement of retirees brings job opportunities, but competition is moderate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural and fish products inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural inspectors?**
-答：Entry-level annual salary is about CAD 40,000-50,000, mid-level CAD 50,000-68,000, and senior can exceed CAD 85,000. Federal government positions usually offer better pay.
-
-**问：How to immigrate as an agricultural inspector to Canada?**
-答：You can immigrate through Express Entry (FSW/CEC) or Provincial Nominee Programs (PNP). Relevant education and work experience are required, typically a diploma or degree, and provincial licensing may be needed.
-
-**问：What is the future outlook for this occupation?**
-答：Demand is stable due to ongoing food safety regulations. Job openings arise from retirements, but competition is moderate.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

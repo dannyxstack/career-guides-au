@@ -1,59 +1,94 @@
-# Physiotherapists（Physiotherapists）职业分析 · UK
+# Physiotherapists — career analysis · United Kingdom
 
-**职业代码：2221 – Physiotherapists。**
+**Occupation code: 2221 (SOC)**
 
-Physiotherapists use massage, exercise, hydrotherapy, and electrotherapy to rehabilitate patients, restore movement, and improve quality of life.
+Physiotherapists use techniques such as massage, exercise therapy, hydrotherapy, and electrotherapy to help patients restore motor function, relieve pain, and improve quality of life.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$38,000（英国学生学费约£9,250/年，国际学生£15,000-£38,000/年） |
-| 硕士（加速课程） | 2年 | $10,000~$40,000（适用于已获相关学位者，学费约£10,000-£40,000/年） |
+| Bachelor's degree | 3 years | $9,250~$38,000 (UK student tuition approx. £9,250/year, international students £15,000-£38,000/year) |
+| Masters (Accelerated Program) | 2 years | $10,000~$40,000 (Applicable to those with relevant degree, tuition approx £10,000-£40,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理治疗学位 | HCPC认可大学 | 必备 | 需完成HCPC认可的物理治疗本科学位或硕士加速课程 |
-| HCPC注册 | Health and Care Professions Council | 必备 | 所有物理治疗师必须在HCPC注册 |
-| CSP会员 | Chartered Society of Physiotherapy | 可选 | 非强制，但专业会员资格有助职业发展 |
+| Physical therapy degree. | HCPC recognised university | Required | Must complete an HCPC-accredited bachelor's degree in physiotherapy or an accelerated master's program |
+| HCPC registration | Health and Care Professions Council | Required | All physiotherapists must register with the HCPC. |
+| CSP member | Chartered Society of Physiotherapy | Optional | Not mandatory, but professional membership aids career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 58,000。随着老龄化人口增长和对非手术康复需求的增加，英国物理治疗师需求持续上升。NHS和私营机构均有大量岗位，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 58,000. With an aging population and growing demand for non-surgical rehabilitation, demand for physiotherapists in the UK continues to rise. Both NHS and private sectors offer abundant positions, with good employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | NHS Band 5，私营机构可能稍高 |
-| 中级（3-8年） | $35,000~$45,000 | NHS Band 6-7，或私营专科治疗师 |
-| 高级（8年以上） | $45,000~$60,000 | NHS Band 8a以上，或私营诊所主任 |
+| Median salary | $43,532 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | NHS Band 5, may be higher in private sector |
+| Mid-level (3–8 years) | $35,000~$45,000 | NHS Band 6-7, or private specialist therapist |
+| Senior (8+ years) | $45,000~$60,000 | NHS Band 8a and above, or director of a private clinic |
+| average salary | $43,457 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级物理治疗师晋升为高级专科治疗师（如运动损伤、神经康复），可转向管理岗位（如部门主管）或学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
+
+Progress from junior physiotherapist to senior specialist (e.g., sports injuries, neurological rehabilitation), or transition into management (e.g., department head) or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patient assessment reports and rehabilitation progress records
+- Automatically adjust basic training plans using AI analysis of sports data.
+- Replaces measurement work in routine posture analysis and gait assessment
+- Automating patient appointments, follow-ups, and insurance coding entry.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient biomechanical data to provide precise rehabilitation advice
+- Use virtual reality and wearable devices to monitor and optimize patient training in real time
+- Quickly retrieve latest research and practice guidelines through natural language processing.
+- AI-assisted image recognition helps quickly locate musculoskeletal abnormalities.
+- Remote rehabilitation platforms support patient home training and progress tracking
+
+**Human moat:**
+
+- Manual manipulation skills (joint mobilization, soft tissue release, etc.)
+- Clinical reasoning and comprehensive judgment of complex cases
+- Patient psychological support and behavior change motivation
+- Interdisciplinary team collaboration and individualized treatment plan customization
+- Final decision-making authority involving medical liability and patient safety
+
+**Skills to build:**
+
+- Proficiency in electronic health record systems and clinical decision support tools
+- Learn biomechanical data analysis and wearable device interpretation.
+- Familiar with remote rehabilitation platforms and virtual reality rehabilitation technology
+- Improve communication skills for patient education and health behavior coaching
+- understand AI ethics and privacy regulations in rehabilitation
+- Participating in interdisciplinary digital health project practice
+
+**Key growth areas:**
 
 - Aging Population
 - Rehabilitation Demand
@@ -62,68 +97,67 @@ Physiotherapists use massage, exercise, hydrotherapy, and electrotherapy to reha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 物理治疗师在可担保职业列表中，满足薪资要求即可申请 |
-| Subclass Health & Care Worker（Health and Care Worker Visa） | 符合条件的医疗专业人员可享受快速通道和较低申请费 |
-| Subclass Graduate（Graduate Visa） | 在英国取得学位后可申请，允许工作2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker Visa) | Physiotherapists are on the eligible occupation list; you can apply if you meet the salary requirements. |
+| Subclass Health & Care Worker (Health and Care Worker Visa) | Eligible medical professionals can access fast-track processing and lower application fees |
+| Subclass Graduate (Graduate Visa) | After obtaining a degree in the UK, you can apply; allows work for 2 years (3 years for PhD) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapists？**
-- 喜欢与人沟通、帮助他人康复的人
-- 对运动和人体解剖学有浓厚兴趣的人
-- 能够耐心、细致地制定个性化治疗方案的人
-
-**谁不适合学Physiotherapists？**
-- 不喜欢高强度体力劳动和长时间站立的人
-- 对患者慢性病痛或康复进展缓慢缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who enjoys communicating with and helping others recover
+- People with a strong interest in sports and human anatomy
+- A person who can patiently and carefully develop personalized treatment plans
+
+**Who is not suited**
+- Those who dislike intense physical labour and prolonged standing.
+- Those who lack patience with patients' chronic pain or slow rehabilitation progress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physiotherapists?**
+A: Entry-level approx £28k-£35k, mid-level £35k-£45k, senior £45k-£60k; NHS and private sector differences are minor.
+
+**Q: What are the pathways for physiotherapists to immigrate to the UK?**
+A: Can apply for Skilled Worker or Health & Care Worker visa, requires HCPC registration and employer sponsorship.
+
+**Q: What qualifications are needed to become a physiotherapist?**
+A: Must complete an HCPC-approved degree and register with HCPC; CSP membership is not mandatory but recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physiotherapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for physiotherapists?**
-答：Entry-level £28k-£35k, mid-level £35k-£45k, senior £45k-£60k, similar in NHS and private sectors.
-
-**问：What are the migration routes for physiotherapists to the UK?**
-答：Skilled Worker or Health and Care Worker visas require HCPC registration and employer sponsorship.
-
-**问：What qualifications are needed to become a physiotherapist?**
-答：An HCPC-approved degree and HCPC registration. CSP membership is optional but recommended.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

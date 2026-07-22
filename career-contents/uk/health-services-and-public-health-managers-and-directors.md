@@ -1,59 +1,95 @@
-# Health services and public health managers and directors（Health services and public health managers and directors）职业分析 · UK
+# Health services and public health managers and directors — career analysis · United Kingdom
 
-**职业代码：1171 – Health services and public health managers and directors。**
+**Occupation code: 1171 (SOC)**
 
-Health services and public health managers and directors plan, organise, direct and coordinate the resources and activities of health care providers and purchasers at both district and unit levels, ensuring effective delivery and quality of healthcare.
+Health Services and Public Health Managers and Directors plan, organize, direct, and coordinate resources and activities of healthcare providers and purchasers at regional and unit levels, ensuring effective service delivery and quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $15,000~$25,000（英国本科生学费（英格兰）） |
-| 硕士学位（医疗管理或相关领域） | 1年 | $15,000~$30,000（硕士学费范围） |
+| Bachelor's degree | 3 years | $15,000~$25,000 (UK undergraduate tuition fees (England)) |
+| Master's degree (Healthcare Management or related field) | 1 year | $15,000~$30,000 (Master's tuition range) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医疗管理硕士 | 英国大学 | 可选 | 优先考虑，非强制 |
-| 健康与安全认证 | NHS或相关机构 | 可选 | 管理岗位常见要求 |
-| 皇家公共卫生学会会员 | 皇家公共卫生学会 | 可选 | 部分高级职位要求 |
+| Master of Healthcare Administration | UK universities | Optional | Preferred, not mandatory |
+| Health and safety certification. | NHS or related bodies | Optional | Common requirements for management roles |
+| Member of the Royal Society for Public Health | Royal Society for Public Health | Optional | Requirements for some senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。随着英国人口老龄化和医疗需求增加，该职业就业前景良好，NHS 和私营医疗机构均需要经验丰富的管理者。预计未来几年就业机会稳步增长。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 35,000. With an aging UK population and rising healthcare demand, employment prospects are good for this role. The NHS and private healthcare providers need experienced managers. Steady job growth is expected in coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 助理经理或部门协调员 |
-| 中级（3-8年） | $45,000~$65,000 | 部门经理或项目负责人 |
-| 高级（8年以上） | $65,000~$100,000 | 董事或执行董事 |
+| Median salary | $61,573 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant Manager or Department Coordinator |
+| Mid-level (3–8 years) | $45,000~$65,000 | Department manager or project leader |
+| Senior (8+ years) | $65,000~$100,000 | Director or Executive Director |
+| average salary | $71,598 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从临床或管理岗位起步，逐步晋升为部门主管、区域经理，最终成为董事或执行级别职位。可通过 MBA 或医疗管理硕士加速晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance rather than replace health service managers, but will reduce low-level administrative and data roles; key decisions still require humans.
+
+Typically progresses from clinical or management roles to department head, regional manager, and eventually director or executive level positions. Can be accelerated with an MBA or Master of Health Administration.
+
+**Tasks most exposed to AI:**
+
+- Medical record coding and medical record organization
+- Basic data report generation
+- Preliminary screening for compliance checks
+- Appointment scheduling and resource allocation optimization
+- Standardized patient satisfaction survey analysis
+
+**Where AI augments the role:**
+
+- Demand forecasting and resource allocation (AI model assisted)
+- Real-time quality monitoring and early warning
+- Evidence-based policy simulation and impact evaluation
+- Patient triage and personalized service planning
+- Automated Generation of Communication and Reports
+
+**Human moat:**
+
+- Strategic decision-making and resource trade-offs
+- Cross-department coordination and interest balancing
+- Ethical judgment and high-risk decision-making
+- Crisis management and uncertainty response
+- Building trust with doctors, government, and the public
+
+**Skills to build:**
+
+- AI and Machine Learning Fundamentals (Predictive Modeling)
+- Data visualization and business intelligence tools
+- Medical information systems (EPIC/Cerner)
+- Project Management and Agile Methodologies
+- Communication and change management
+- Basic programming (Python/SQL)
+
+**Key growth areas:**
 
 - Increasing demand
 - Ageing population
@@ -62,68 +98,67 @@ Health services and public health managers and directors plan, organise, direct 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的合格专业人士，需满足薪资和技能要求。 |
-| Subclass Health & Care（Health and Care Worker visa） | 专门为医疗专业人员设计，享有优先处理和降低费用。 |
-| Subclass Global Talent（Global Talent visa） | 面向在公共卫生领域有突出成就的领导者，无需雇主担保。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to qualified professionals with employer sponsorship, must meet salary and skill requirements. |
+| Subclass Health & Care (Health and Care Worker visa) | Designed specifically for medical professionals, with priority processing and reduced fees. |
+| Subclass Global Talent (Global Talent visa) | For leaders with outstanding achievements in public health, no employer sponsorship required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health services and public health managers and directors？**
-- 有医疗或管理背景的人
-- 善于领导和组织协调的人
-- 对公共卫生政策感兴趣的人
-
-**谁不适合学Health services and public health managers and directors？**
-- 不喜欢处理行政事务的人
-- 抗压能力较弱的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for those with medical or management background
+- People who are good at leadership and coordination
+- Those interested in public health policy
+
+**Who is not suited**
+- People who dislike handling administrative tasks
+- People with low stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Entry-level around £35,000-45,000, mid-level £45,000-65,000, senior £65,000-100,000, NHS directors can earn over £100,000.
+
+**Q: What work visas can international migrants apply for?**
+A: Can apply for a Skilled Worker visa (employer-sponsored), Health and Care Worker visa (priority processing), or Global Talent visa (requires outstanding achievements).
+
+**Q: What professional qualifications are needed?**
+A: Typically requires a relevant bachelor's degree; a master's degree (e.g., Master of Healthcare Management) is advantageous. Some senior roles require membership in the Royal Society for Public Health.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Health services and public health managers and directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level salaries range from £35,000 to £45,000, mid-level from £45,000 to £65,000, senior from £65,000 to £100,000, with NHS directors exceeding £100,000.
-
-**问：Which work visas can international migrants apply for?**
-答：You can apply for the Skilled Worker visa (with employer sponsorship), Health and Care Worker visa (priority processing), or Global Talent visa (for exceptional leaders).
-
-**问：What professional qualifications are required?**
-答：A relevant bachelor's degree is required; a master's degree (e.g., in healthcare management) is advantageous. Some senior roles require membership of the Royal Society for Public Health.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

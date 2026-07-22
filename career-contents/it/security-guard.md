@@ -1,58 +1,91 @@
-# Security Guard（Security Guard）职业分析 · IT
+# Security Guard — career analysis · Italy
 
-**职业代码：5414 – Security Guard。**
+**Occupation code: 5414 (ISCO08)**
 
-Security guards protect property and people, perform patrols, monitoring, and access control. In Italy, demand is stable, especially in commercial areas and public events.
+Security personnel are responsible for protecting property and people, carrying out patrols, surveillance, and access control. In Italy, demand for this occupation is stable, especially in commercial areas and public event venues.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无特定年限 | —（义务教育后免费） |
-| 职业培训课程 | 3-6个月 | $500~$2,000（私立培训机构费用） |
+| High school graduation | No specific time limit | $0~$0 (Free after compulsory education) |
+| Vocational training courses | 3-6 months | $500~$2,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保安资质证书 | 意大利内政部 | 必备 | 完成培训并通过考试，强制性 |
-| 武器使用许可 | 警察局 | 可选 | 如需持枪，需额外申请 |
+| Security guard certificate | Italian Ministry of Interior | Required | Complete training and pass examination, mandatory |
+| Weapons use licenses | Police station | Optional | If carrying a firearm is required, an additional application is needed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 120,000。意大利保安岗位需求稳定，随着安全需求增加和旅游业复苏，就业机会预计小幅增长。私营安保公司是主要雇主。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. Demand for security guards in Italy is stable, with employment opportunities expected to grow modestly due to increased security needs and tourism recovery. Private security companies are the main employers.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，主管级 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual salary before tax, supervisor level |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可晋升为保安主管、安全经理或转向专业安保领域（如现金押运）。部分人通过考试成为私人侦探或加入执法机构。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Security work is not easily fully replaced, but AI will take over tasks such as fixed-post monitoring, electronic patrols, and basic visitor registration, leading to a reduction in entry-level positions. Meanwhile, skills such as complex emergency response, manual patrol judgment, and customer service are enhanced by AI, requiring improved human-machine collaboration.
+
+Can advance to security supervisor, security manager, or transition to specialized security fields (e.g., cash escort). Some become private detectives or join law enforcement agencies through exams.
+
+**Tasks most exposed to AI:**
+
+- Automatically detect intrusions and abnormal behavior via video analysis, replacing long-term human monitoring.
+- Automatic access control system (facial recognition/QR code) replaces manual identity verification and registration
+- Robots patrol electronically along preset routes, replacing some manual patrols.
+- Automatically generate patrol logs and incident reports, replacing manual records
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of surveillance video, quick event playback, key frame identification, improving investigation efficiency
+- Smart scheduling system optimizes patrol routes based on real-time risk, enhancing manual patrol accuracy
+- AI voice assistants help handle visitor inquiries, improving service response speed and professionalism.
+- Receive AI alerts on mobile terminals, guiding security personnel to prioritize high-risk areas and improve emergency response.
+
+**Human moat:**
+
+- Handling physical conflicts, violent incidents, and other high-risk interventions requires human judgment and physical strength
+- Situational understanding and flexible communication for suspicious behavior (e.g., dispute mediation)
+- Humanized reassurance and emotional interaction, such as calming public sentiment.
+- Legal compliance and ethical judgment, such as reasonable use of force boundaries.
+
+**Skills to build:**
+
+- Operation and maintenance of smart security systems (video analysis, access control, alarm platforms)
+- Fundamental data analysis and report interpretation (e.g., event statistics, risk heat maps)
+- Human-machine collaboration communication skills (coordinating with AI scheduling and robots)
+- Emergency Management and Crisis Intervention (Conflict Resolution, First Aid)
+- Service Awareness in Digital Transformation (Visitor Self-Service System Guidance)
+- Continuous learning and tool adaptability
+
+**Key growth areas:**
 
 - surveillance technology
 - private security
@@ -61,67 +94,66 @@ Security guards protect property and people, perform patrols, monitoring, and ac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，但保安通常不满足薪资要求（需高于平均工资1.5倍） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民可通过年度配额申请工作签证，需雇主担保 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, but security guards usually do not meet salary requirements (must be 1.5 times the average wage) |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens can apply for a work visa through annual quotas, requiring employer sponsorship |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Security Guard？**
-- 喜欢规律工作，注重安全
-- 耐心细致，能适应夜班
-- 有较强观察力和责任心
-
-**谁不适合学Security Guard？**
-- 偏好创意或自由职业
-- 无法适应长时间站立或巡逻
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Prefers routine work and prioritizes safety
+- Patient and meticulous, able to adapt to night shifts
+- Has strong observation skills and sense of responsibility
+
+**Who is not suited**
+- Prefer creative or freelance work
+- Unable to adapt to prolonged standing or patrolling
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a security guard in Italy?**
+A: Junior security guard annual pre-tax salary approx. €18,000-22,000, senior up to €35,000.
+
+**Q: Can non-EU citizens immigrate to Italy through security work?**
+A: It's difficult. Security guards are not high-skilled occupations and cannot apply for the EU Blue Card; only through the Decreto Flussi quota visa, but spaces are limited and require employer sponsorship.
+
+**Q: What certificates are needed to work as a security guard in Italy?**
+A: Must complete security training and pass the Department of Home Affairs exam to obtain a security license. A weapons permit is also required to carry firearms.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Security Guard的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for security guards in Italy?**
-答：Entry-level guards earn €18,000-22,000 gross annually, senior guards up to €35,000.
-
-**问：Can non-EU citizens immigrate to Italy as security guards?**
-答：Difficult. It's not high-skilled; only possible via Decreto Flussi quota visa with employer sponsorship.
-
-**问：What qualifications are needed to be a security guard in Italy?**
-答：Must complete a training course and pass an exam by the Ministry of Interior. Firearm permit required if armed.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

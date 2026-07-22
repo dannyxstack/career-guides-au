@@ -1,61 +1,93 @@
-# Plumbing Inspector（Plumbing Inspector）职业分析 · 澳大利亚
+# Plumbing Inspector — career analysis · Australia
 
-**职业代码：312115 – Plumbing Inspector。**
+**Occupation code: 312115 (ANZSCO)**
 
-Plumbing inspectors examine plumbing installations, maintenance, and repairs to ensure compliance with building codes and standards, ensuring safety and legality of water supply, drainage, and gas systems. They typically work on construction sites, for government agencies, or consulting firms.
+Plumbing inspectors are responsible for inspecting plumbing installation, maintenance, and repairs to ensure compliance with building codes and standards, ensuring the safety and compliance of water supply, drainage, and gas systems. Typically work at construction sites, government agencies, or consulting firms.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 管道工学徒及职业证书 | 4年 | $5,000~$15,000（TAFE学费） |
-| 管道检查员培训课程 | 1年 | $2,000~$8,000（短期培训） |
+| Plumber apprenticeship and vocational certificate | 4 years | $5,000~$15,000 (TAFE tuition fees) |
+| Pipeline inspector training course | 1 year | $2,000~$8,000 (Short-term training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 管道工执照 | 各州监管机构 | 必备 | 通常需要先成为持证管道工 |
-| 建筑检查员认证 | 澳洲建筑检查员协会（ABI） | 可选 | 非必须但有助于就业 |
-| VET学历 | TAFE | 必备 | 如管道工程三级证书 |
+| Plumber license | State regulatory bodies | Required | Usually requires first becoming a licensed plumber. |
+| VET qualification | TAFE | Required | Such as Certificate III in Plumbing |
+| Building Inspector Certification | Australian Building Inspectors Association (ABI) | Optional | Not required but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,000。由于澳洲持续的基础设施建设和建筑活动，水管检查员需求稳定。未来五年就业增长预计中等，受住宅和商业建筑投资驱动。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,000. Due to Australia's ongoing infrastructure construction and building activities, demand for plumbing inspectors remains stable. Employment growth over the next five years is expected to be moderate, driven by residential and commercial building investment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 取决于雇主和地区 |
-| 中级（3-7年） | $80,000~$100,000 | 含额外补贴 |
-| 高级（7年以上） | $100,000~$130,000 | 主管或政府职位 |
+| Median salary | $118,560 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Depends on employer and region |
+| Mid-level (3–7 years) | $80,000~$100,000 | Including additional subsidies |
+| Senior (7+ years) | $100,000~$130,000 | Executive or government positions |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径可从检查员晋升为高级检查员、主管或进入政府监管机构。有经验者也可转行至建筑项目管理或合规咨询。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+For pipe inspectors, AI is both a threat and a helper—it can automatically handle document comparison and photo recording, but core tasks like on-site judgment, compliance discretion, and communication remain stable, so it's a mixed blessing.
+
+Career progression can go from inspector to senior inspector, supervisor, or into government regulatory agencies. Experienced individuals can also transition to construction project management or compliance consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically compare photos with specification texts to generate defect reports
+- Automatic marking of pipeline directions and material types through image recognition
+- AI filling standard checklists and archiving
+- Automatically generates inspection schedules and route optimisation based on historical data
+
+**Where AI augments the role:**
+
+- AI provides real-time alerts of potential violation points after on-site photos
+- Using AR to overlay drawings and hidden pipeline information to assist inspection
+- Automatic transcription of voice recordings into structured inspection notes.
+- View AI-generated compliance risk ratings, focusing on key areas
+
+**Human moat:**
+
+- Empirical judgment on non-standard and legacy systems.
+- Communicate and negotiate with the construction party and owner, exercise discretion.
+- Takes legal responsibility by signing off on inspection results
+- On-site response to sudden leaks and pipeline emergencies
+
+**Skills to build:**
+
+- Use AI image annotation and automatic report tools
+- Understanding building information modeling and digital twins.
+- Data analysis fundamentals to assess AI-generated compliance risk scores
+- Enhance communication and conflict mediation skills
+- Learning to operate drones or robots for inspection assistance
+
+**Key growth areas:**
 
 - Infrastructure boom
 - Regulatory compliance
@@ -64,70 +96,69 @@ Plumbing inspectors examine plumbing installations, maintenance, and repairs to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：受限（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 需雇主担保，职业在CSOL上。适用于有经验的检查员。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居，需职业评估和三年工作经验。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居，仅部分州将检查员列入清单。 |
-| Subclass 494（Skilled Employer Sponsored Regional Visa） | 偏远地区雇主担保，适合偏远地区职位。 |
+| Subclass 482 (Skills in Demand Visa) | Requires employer sponsorship; occupation is on the CSOL. Suitable for experienced inspectors. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requiring skills assessment and three years of work experience. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, only some states include inspectors on the list. |
+| Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, suitable for positions in regional areas. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumbing Inspector？**
-- 对建筑规范和管道系统有浓厚兴趣的人
-- 注重细节、有责任心且沟通能力强的人
-- 愿意在户外和建筑工地工作的人
-
-**谁不适合学Plumbing Inspector？**
-- 不喜欢现场检查和频繁出差的人
-- 害怕高空作业或狭小空间的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in building codes and plumbing systems
+- People who are detail-oriented, responsible, and have strong communication skills.
+- People willing to work outdoors and on construction sites
+
+**Who is not suited**
+- Those who dislike on-site inspections and frequent travel
+- People afraid of working at heights or in confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary outlook for a plumbing inspector?**
+A: Australian plumbing inspector annual salary around AUD $65k-$130k, increasing with experience. Government positions usually have better benefits.
+
+**Q: Can overseas water inspectors immigrate to Australia?**
+A: Yes, but with limited pathways. Occupations usually require employer sponsorship (482/186), some states can sponsor 190. Must pass TRA skills assessment and meet language requirements.
+
+**Q: What qualifications are needed to become a plumbing inspector?**
+A: Typically need to first obtain a plumber’s license (through an apprenticeship), then gain experience. Some employers require building inspector certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 受限（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Plumbing Inspector为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for plumbing inspectors?**
-答：Plumbing inspectors in Australia earn between AUD 65,000 and AUD 130,000 annually, increasing with experience. Government positions often offer better benefits.
-
-**问：Can overseas plumbing inspectors migrate to Australia?**
-答：Yes, but options are limited. Usually requires employer sponsorship (482/186). Some states offer 190 nomination. Must pass TRA skills assessment and meet English requirements.
-
-**问：What qualifications are needed to become a plumbing inspector?**
-答：Typically requires a plumber's license (via apprenticeship) and experience. Some employers require building inspector certification.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

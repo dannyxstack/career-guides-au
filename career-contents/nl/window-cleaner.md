@@ -1,58 +1,94 @@
-# Window Cleaner（Window Cleaner）职业分析 · NL
+# Window Cleaner — career analysis · Netherlands
 
-**职业代码：9123 – Window Cleaner。**
+**Occupation code: 9123 (ISCO08)**
 
-Window cleaners clean building windows using specialized equipment to ensure cleanliness and safety.
+Window cleaners use professional equipment to clean building windows, ensuring a tidy appearance and safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1年（职业培训） | $500~$2,000（私立培训机构费用） |
-| 高中毕业 | 无 | —（通常无需正规教育） |
+| Vocational training | 1 year (vocational training) | $500~$2,000 (Private training institution fees) |
+| High school graduation | None | $0~$0 (Usually no formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业证书 | 荷兰安全与健康局 | 必备 | 操作升降设备所需 |
-| 急救证书 | 红十字会 | 必备 | 安全要求 |
+| Elevated work platform certificate | Netherlands Safety and Health Authority | Required | Required for operating lifting equipment |
+| First aid certificate | Red Cross | Required | Safety requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。荷兰窗户清洁工需求稳定，受商业和住宅建筑维护需求推动。行业竞争中等，有经验的工人更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand for window cleaners in the Netherlands is stable, driven by commercial and residential building maintenance needs. Competition is moderate, with experienced workers more sought after.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-6年） | $30,000~$38,000 | 税前年薪 |
-| 高级（6年以上） | $38,000~$45,000 | 税前年薪，含奖金 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 1121 Schoonmakers; P25–P75 €32,011–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (6+ years) | $38,000~$45,000 | Annual pre-tax salary, including bonuses |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级工人晋升为团队主管或自主创业。获得专业高空作业证书可增加晋升机会。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Window cleaners face high risk of automation replacement, as AI-driven drones and robotics can already efficiently clean low- and mid-rise building windows, entry-level positions significantly reduced, demand shifting to high-rise cleaning.
+
+Can progress from junior worker to team supervisor or start their own business. Obtaining a professional high-altitude work certificate can increase promotion opportunities.
+
+**Tasks most exposed to AI:**
+
+- Clean low-rise building windows using common tools (scraper, sponge)
+- Inspect cleaning quality through manual visual checks.
+- Using ladders for standard-height cleaning tasks
+- Handle routine stains (e.g., dust, rainwater marks)
+- Recording Completion of Cleaning Tasks
+
+**Where AI augments the role:**
+
+- Using AI planning system to optimize cleaning routes and schedules
+- Using drones equipped with cameras for aerial inspections and real-time feedback.
+- Use a smart cleaning agent dosing system to improve efficiency
+- Get remote expert guidance via AR glasses to handle difficult stains
+- Use data analytics tools to predict cleaning needs under different weather conditions
+
+**Human moat:**
+
+- Safety risk assessment and emergency response for working at heights
+- Manual fine cleaning of special materials (e.g., historic building glass, photovoltaic panels)
+- Communicate with clients on customized solutions and on-site problem solving
+- Operate flexibly in complex structures (slopes, curves)
+- Maintaining client relationships and providing personalized services
+
+**Skills to build:**
+
+- High-altitude rope work (industrial rope access)
+- Drone operation and maintenance
+- Smart cleaning equipment repair and programming
+- Safety regulations and risk assessment certification
+- client communication and project management
+- Basic data analysis and cleaning scheduling software
+
+**Key growth areas:**
 
 - urban maintenance
 - commercial cleaning
@@ -61,67 +97,66 @@ Window cleaners clean building windows using specialized equipment to ensure cle
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能工人，薪资需达到门槛，对窗户清洁工不常见 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，薪资要求较高，不适用 |
-| Subclass Orientation Year（Orientation Year） | 过渡居留许可，在荷兰寻找工作，需满足教育背景 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled workers, salary must meet threshold, uncommon for window cleaners |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, salary requirement is high, not applicable |
+| Subclass Orientation Year (Orientation Year) | Transitional residence permit to seek employment in the Netherlands, subject to meeting educational requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Window Cleaner？**
-- 喜欢户外工作且不恐高的人
-- 体力好并注重安全细节的人
-
-**谁不适合学Window Cleaner？**
-- 对高度恐惧或无法适应户外天气的人
-- 不注重安全规范的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are not afraid of heights
+- Physically fit person with attention to safety details
+
+**Who is not suited**
+- For those with high fear or inability to adapt to outdoor weather
+- People who disregard safety regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a window cleaner?**
+A: Entry-level annual salary about €24,000-€30,000, senior up to €45,000.
+
+**Q: How can non-EU citizens immigrate to the Netherlands to work as window cleaners?**
+A: Usually requires employer sponsorship for a skilled migration visa, but window cleaners typically do not meet the high-skilled threshold. The local labor supply in the Netherlands is sufficient, limiting opportunities for overseas candidates.
+
+**Q: Is a professional license required?**
+A: Requires a working at heights certificate and first aid certificate, issued by the Dutch Labour Inspectorate and the Red Cross.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Window Cleaner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for window cleaners?**
-答：Entry-level annual salary is about €24,000-€30,000, senior up to €45,000.
-
-**问：How can non-EU citizens migrate to the Netherlands as window cleaners?**
-答：Usually requires employer sponsorship for a Highly Skilled Migrant permit, but window cleaners typically do not meet the salary threshold. Local labor supply is sufficient, limiting opportunities for overseas candidates.
-
-**问：Is a professional license required?**
-答：Yes, a working-at-height certificate and first aid certificate are required, issued by the Dutch Safety and Health Authority and Red Cross.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

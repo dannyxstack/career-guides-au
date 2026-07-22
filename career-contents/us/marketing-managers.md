@@ -1,59 +1,91 @@
-# Marketing Managers（Marketing Managers）职业分析 · 美国
+# Marketing Managers — career analysis · United States
 
-**职业代码：11-2021 – Marketing Managers。**
+**Occupation code: 11-2021 (SOC)**
 
-Plan, direct, or coordinate marketing policies and programs, such as determining demand, developing pricing strategies, and overseeing product development to maximize profits or market share.
+Plan, direct, or coordinate marketing policies and programs, including determining product and service needs, developing pricing strategies, and overseeing product development to maximize company profits or market share.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均约1万-3万美元，私立大学约4万-6万美元） |
-| 硕士学位 | 2年 | $30,000~$100,000（MBA或市场营销硕士，总学费约3万-10万美元） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities: approx. $10,000–$30,000 AUD per year; private: $40,000–$60,000 AUD.) |
+| Master's degree | 2 years | $30,000~$100,000 (MBA or Marketing Master's, total tuition approx. $30,000-$100,000 USD.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销学士学位 | 大学 | 可选 | 通常要求，但经验可替代 |
-| 数字营销认证 | Google、HubSpot等 | 可选 | 非必需但加分 |
-| 专业销售认证（CPSP） | 美国销售协会 | 可选 | 可选 |
+| Bachelor's degree in Marketing | University | Optional | Usually required, but experience may substitute |
+| Digital marketing certification | Google, HubSpot, etc. | Optional | Not required but a plus |
+| Certified Professional Sales Person (CPSP) | US Sales Association | Optional | Optional |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 382,000。美国劳工统计局预计2023-2033年市场营销经理岗位增长约6%，快于所有职业平均水平。数字营销和数据分析技能的提升将推动需求。
+**Job demand: high (★★★★☆).** National workforce approx. 382,000. The U.S. Bureau of Labor Statistics projects about 6% growth for marketing manager positions from 2023 to 2033, faster than the average for all occupations. Enhanced digital marketing and data analytics skills will drive demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$85,000 | 通常为助理营销经理或营销专员 |
-| 中级（3-7年） | $85,000~$130,000 | 营销经理或高级专员 |
-| 高级（7年以上） | $130,000~$200,000 | 营销总监或高级经理 |
+| Median salary | $166,790 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$85,000 | Typically an assistant marketing manager or marketing specialist. |
+| Mid-level (3–7 years) | $85,000~$130,000 | Marketing Manager or Senior Specialist |
+| Senior (7+ years) | $130,000~$200,000 | Marketing director or senior manager |
+| average salary | $177,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★☆）。** 职业发展路径通常从营销专员或品牌经理起步，晋升至高级营销经理、营销总监，最终可至首席营销官（CMO）。MBA或相关硕士学位有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI significantly enhances marketing managers' data analysis and content production efficiency, but core competencies like strategic decision-making, team leadership, and client relationships remain hard to replace; overall opportunities outweigh threats.
+
+Career path typically starts as marketing specialist or brand manager, advancing to senior marketing manager, marketing director, and eventually chief marketing officer (CMO). An MBA or relevant master's degree aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automating routine reports and data analysis (e.g., Excel sorting, weekly ad performance reports)
+- Generate standardized marketing copy and social media posts
+- Execute batch email marketing and automated customer segmentation
+- Manage bidding rankings and programmatic advertising
+
+**Where AI augments the role:**
+
+- Use AI for consumer behavior prediction and market trend analysis
+- Create personalized videos, images, and copy content using AI
+- Rapidly generate A/B test plans and optimization suggestions using AI tools
+- Using AI-driven dashboards to monitor and adjust multi-channel marketing campaigns in real time
+
+**Human moat:**
+
+- Develop long-term brand strategy and annual marketing plans
+- Cross-departmental coordination and senior management communication
+- Making non-routine decisions based on market intuition and experience
+- Building and maintaining key client, media, and partner relationships
+
+**Skills to build:**
+
+- Proficiency in Python or R for marketing data analysis.
+- Proficiency in AI content generation tools (e.g., Jasper, DALL·E)
+- Learn advanced usage of Google Analytics and CRM systems
+- Enhance project management and agile marketing approaches
+- Develop data-driven decision-making and A/B test design skills
+
+**Key growth areas:**
 
 - Digital Marketing
 - Data Analytics
@@ -62,69 +94,68 @@ Plan, direct, or coordinate marketing policies and programs, such as determining
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于专业职位，需学士学位，有年度配额限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上学位或特殊才能，通常需PERM劳工认证 |
-| Subclass L-1A（Intracompany Transferee Executive or Manager） | 适用于跨国公司内部调动的经理，无需配额 |
-| Subclass O-1（Individuals with Extraordinary Ability） | 适用于在营销领域有杰出成就者，无配额限制 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional positions, requires a bachelor's degree, subject to annual quota limits |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or higher or extraordinary ability, usually requires PERM labor certification |
+| Subclass L-1A (Intracompany Transferee Executive or Manager) | Applicable to managers of intra-company transfers; no quota needed |
+| Subclass O-1 (Individuals with Extraordinary Ability) | Applicable to those with outstanding achievements in marketing, no quota limit |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marketing Managers？**
-- 具备创意和数据分析能力的人
-- 喜欢战略规划和团队协作的人
-- 适应快节奏工作环境的人
-
-**谁不适合学Marketing Managers？**
-- 不擅长沟通和人际交往的人
-- 厌恶数字和数据分析的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and data analysis skills
+- those who enjoy strategic planning and teamwork
+- People who thrive in fast-paced work environments
+
+**Who is not suited**
+- People who are not good at communication and interpersonal skills
+- People who dislike numbers and data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a marketing manager in the US?**
+A: According to 2023 BLS data, the median annual salary for marketing managers in the US is about $156,000. Entry-level positions pay around $55,000-$85,000, while senior roles can exceed $200,000.
+
+**Q: Is it easy for marketing managers to apply for a U.S. green card?**
+A: relatively moderate difficulty. Usually applied via EB-2 or EB-3 categories, requiring employer support and PERM labor certification. H-1B visa has quota limits, but L-1 or O-1 visas may be alternatives.
+
+**Q: What education is needed to become a marketing manager?**
+A: Typically requires a bachelor's degree in business administration, marketing, or related field. Many employers prefer a master's degree (e.g. MBA).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Marketing Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Marketing Managers in the US?**
-答：According to BLS 2023, the median annual wage for Marketing Managers is about $156,000. Entry-level positions range from $55,000-$85,000, while senior roles can exceed $200,000.
-
-**问：Is it easy for Marketing Managers to get a US green card?**
-答：It's moderately difficult. Typically through EB-2 or EB-3 with employer sponsorship and PERM certification. H-1B has a cap, but L-1 or O-1 could be alternatives.
-
-**问：What education is required to become a Marketing Manager?**
-答：A bachelor's degree in business, marketing, or a related field is typically required. Many employers prefer a master's degree (e.g., MBA).
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

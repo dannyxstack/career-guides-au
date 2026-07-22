@@ -1,129 +1,167 @@
-# Aquaculture and marine harvest labourers（Aquaculture and marine harvest labourers）职业分析 · 加拿大
+# Aquaculture and marine harvest labourers — career analysis · Canada
 
-**职业代码：85102 – Aquaculture and marine harvest labourers。**
+**Occupation code: 85103 (NOC)**
 
-Perform tasks related to aquaculture and marine harvesting, including feeding, net maintenance, harvesting, and cleaning of aquatic species.
+Aquaculture workers in Canada engage in the cultivation, harvesting, and daily care of aquatic organisms such as fish and shellfish. This occupation falls under NOC 2021 TEER 5, usually does not require higher education, and can immigrate through provincial nominee programs (e.g., Atlantic Immigration Program), but requires employer sponsorship.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常仅需高中文凭，无额外学费） |
-| 职业培训证书 | 6个月至1年 | $3,000~$10,000（社区学院或海洋培训项目，费用不等） |
+| High school graduation | 12 years | $0~$0 (Public high schools are free) |
+| Vocational training certificate | 6 months. | $2,000~$5,000 (e.g., Fisheries or aquaculture certificates; some provinces offer subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海上安全证书 | 加拿大交通部 | 必备 | 部分岗位需船舶操作安全培训 |
-| 急救证书 | 加拿大红十字会等 | 可选 | 常见要求 |
-| 食品处理证书 | 省级卫生机构 | 可选 | 若涉及加工环节可能需要 |
+| ECA education credential assessment (if applicable) | WES or IQAS | Optional | If an overseas qualification is used for immigration points, an ECA (Educational Credential Assessment) is required |
+| Provincial industry certifications (e.g., fish health management) | Provincial agriculture/fisheries departments | Optional | Required by some employers, but not mandatory nationwide |
+| Language proficiency (CLB 4-5). | IELTS or CELPIP | Optional | Meets minimum language requirements for provincial nomination, usually CLB 4 or above. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。加拿大水产养殖业在BC省、纽芬兰和拉布拉多省等地持续发展，受海鲜需求增长推动，就业前景稳定，但季节性较强。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,200. Canada's aquaculture industry is mainly concentrated in coastal provinces (e.g., British Columbia, Nova Scotia, Newfoundland), and is expected to maintain stable development due to global seafood demand growth and government support. However, the occupation is subject to seasonal and regional limitations, with less impact from automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 时薪约15-20加元 |
-| 中级（3-6年） | $40,000~$50,000 | 时薪约20-25加元 |
-| 高级（6年以上） | $50,000~$60,000 | 主管岗位可达6万以上 |
+| Median salary | $40,560 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage approximately CAD 16-20 |
+| Mid-level (3–6 years) | $35,000~$45,000 | Including overtime and seasonal bonuses |
+| Senior (6+ years) | $45,000~$55,000 | Such as serving as a supervisor or technician |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从普通劳工起步，积累经验后可晋升为养殖场主管或技术员，少数可转向水产养殖管理或质量控制岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
 
-- Aquaculture expansion
-- Sustainable seafood
-- Coastal communities
-- Seasonal labor
+Entry-level aquaculture workers can advance to farming supervisor or technician, or transition to fishery management, quality control through short-term training. Due to low entry barriers, advancement often relies on experience and employer recognition.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding system replaces manual scattering
+- Drone/underwater robot inspection of cages replaces manual patrols
+- Water quality sensors automatically monitor, replacing manual sampling
+- Automated sorting and counting systems replace manual sorting
+- Robotic arms replacing manual net pulling in fishing operations
+
+**Where AI augments the role:**
+
+- Data analysis tools assist in optimizing breeding density and feeding strategies
+- Remote sensing and GIS technology enhance sea area site selection and disaster warning
+- Machine vision aids early disease identification, improving diagnostic accuracy
+- Automated record-keeping systems improve production ledger management efficiency
+- Predictive models assist in weather and market supply-demand forecasting.
+
+**Human moat:**
+
+- Equipment maintenance and troubleshooting in complex environments
+- Empirical diagnosis of sudden illnesses or abnormal behaviors
+- Government/community communication and compliance management
+- On-site decision-making for biosafety and emergency response
+- Fine manual operations such as parent selection and surgical tagging
+
+**Skills to build:**
+
+- Automated farming system operation and maintenance
+- Basic troubleshooting of sensors and IoT devices
+- Basic data analysis and visualization
+- Drone/underwater robot operation
+- Aquatic disease diagnosis and biosecurity knowledge
+- Sustainable aquaculture regulations and certification standards
+
+**Key growth areas:**
+
+- Atlantic Immigration Program
+- Employer-driven
+- Regional PNP
+- Seasonal work
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地人，获得LMIA后可以申请工签 |
-| Subclass Atlantic Immigration（Atlantic Immigration Program） | 大西洋省份雇主担保，可能适用于水产养殖岗位 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如BC省、纽芬兰）可能通过省提名吸纳水产工人，但通常要求雇主担保 |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants who find an employer in the aquaculture industry in Atlantic provinces like Nova Scotia and Newfoundland. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Nova Scotia) have PNP streams for fisheries, requiring employer offer |
+| Subclass TFWP (Temporary Foreign Worker Program) | Temporary foreign workers, often seasonal, can transition to permanent residence |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture and marine harvest labourers？**
-- 喜欢户外和体力劳动，能适应海上及寒冷环境
-- 愿意从基层做起，对水产行业有兴趣
-- 有耐心处理重复性工作，注重安全
-
-**谁不适合学Aquaculture and marine harvest labourers？**
-- 希望高收入或快速晋升
-- 无法适应季节性失业，偏好室内工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to live in remote coastal areas and engage in physical labor
+- Those with fishing or agriculture background seeking low-barrier immigration to Canada.
+- Able to adapt to seasonal, high-intensity outdoor work
+
+**Who is not suited**
+- Pursuing high salary or rapid career progression
+- Dislike outdoor harsh environments or being away from cities
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for aquaculture workers in Canada?**
+A: Entry-level salary about C$28,000-35,000/year, senior up to C$45,000-55,000. Income varies significantly by season and location, often includes overtime pay.
+
+**Q: How can aquaculture workers immigrate to Canada?**
+A: Main pathway is through provincial nomination (e.g., Atlantic Immigration Program) or temporary foreign worker program to permanent residence. Requires employer sponsorship and typically at least CLB 4 language score. Express Entry does not apply to TEER 5 occupations.
+
+**Q: What educational background is required?**
+A: Typically only high school diploma required; some employers may require short vocational training certificates (e.g., aquaculture certificate). Overseas credentials need ECA for immigration applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aquaculture and marine harvest labourers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for aquaculture labourers?**
-答：Entry-level wage is around CAD 15-20 per hour, annual income CAD 30,000-40,000; experienced workers can earn CAD 50,000-60,000.
-
-**问：Can aquaculture labourers immigrate through skilled worker programs?**
-答：This occupation is generally not in high-skilled categories for Express Entry; main pathways are LMIA work permits or employer-driven programs like Atlantic Immigration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

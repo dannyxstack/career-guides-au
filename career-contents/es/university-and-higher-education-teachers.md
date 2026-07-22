@@ -1,60 +1,96 @@
-# University and Higher Education Teachers（University and Higher Education Teachers）职业分析 · ES
+# University and Higher Education Teachers — career analysis · Spain
 
-**职业代码：2210 – University and Higher Education Teachers。**
+**Occupation code: 2210 (CNO)**
 
-Teach and conduct research at universities and higher education institutions, typically requiring a PhD, and engage in curriculum development, mentoring graduate students, and academic activities.
+Teaching and research at universities, technical colleges, or higher education institutions usually require a doctoral degree, as well as participation in curriculum development, supervising graduate students, and academic activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 博士学位 | 4年（Doctorado） | $3,000~$8,000（公立大学每年约500-1500欧元，私立较高） |
-| 硕士学位 | 1-2年（Máster） | $2,000~$6,000（特殊专业学费有所差异） |
-| 学士学位 | 4年（Grado） | $1,000~$4,000（公立大学学费较低，私立较高） |
+| Doctoral degree (PhD) | 4 years (Doctorado) | $3,000~$8,000 (Public universities approx. €500-€1,500 per year; private higher.) |
+| Master's degree | 1-2 years (Máster) | $2,000~$6,000 (Tuition fees for special majors vary) |
+| Bachelor's degree | 4 years (Grado) | $1,000~$4,000 (Public universities have lower tuition, private universities higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 西班牙教育部认可的大学 | 必备 | 学术型博士，通常需完成论文和答辩 |
-| 大学教师资格认证（ACREDITACIÓN） | ANECA或地方评估机构 | 必备 | 用于申请正式教职，分不同级别 |
-| 科研产出（Sexenios） | 国家科研评估委员会（CNEAI） | 可选 | 每六年评估科研产出，影响晋升 |
+| Doctoral degree (PhD) | A university recognized by the Spanish Ministry of Education | Required | Academic PhDs usually require completion of a thesis and defense |
+| University Teacher Qualification Certification (ACREDITACIÓN) | ANECA or local assessment agencies | Required | Used to apply for formal teaching positions, with different levels |
+| Research Outputs (Sexenios) | National Research Evaluation Council (CNEAI) | Optional | Research output is evaluated every six years, affecting promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。西班牙高等教育入学率稳定，但公共预算紧缩导致教职竞争激烈。老龄化教师退休可能带来一定职位空缺，但总体需求增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Higher education enrollment rates in Spain remain stable, but tight public budgets have led to fierce competition for teaching positions. Aging teacher retirement may create some job vacancies, but overall demand growth is slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 助理教授或合同教师 |
-| 中级（4-10年） | $38,000~$50,000 | 副教授或稳定职位 |
-| 高级（10年以上） | $50,000~$70,000 | 正教授或系主任，含补貼 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$38,000 | Assistant professor or contract teacher |
+| Mid-level (4-10 years). | $38,000~$50,000 | Associate professor or stable position |
+| Senior (10+ years) | $50,000~$70,000 | Full professor or department chair, including subsidy |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从助理教授（Profesor Ayudante Doctor）开始，经过考核晋升为副教授（Profesor Titular de Universidad），最终可成为正教授（Catedrático）。需要持续科研产出和教学评估。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core teaching and administrative tasks for university teachers face pressure from AI automation, but in-depth research, personalized tutoring, and innovative thinking remain human strengths, resulting in a mixed overall situation.
+
+Usually, the candidate starts as an assistant professor (Profesor Ayudante Doctor), is promoted through assessments to associate professor (Profesor Titular de Universidad), and ultimately becomes a full professor (Catedrático). Ongoing research output and teaching evaluation are required.
+
+**Tasks most exposed to AI:**
+
+- Automatic grading and assignment feedback (multiple-choice, short-answer questions)
+- Generate standardized courseware and teaching syllabi
+- Automated Q&A for Common Academic Questions (Based on Knowledge Base)
+- Literature review and basic data extraction
+- Administrative affairs (class scheduling, grade management)
+
+**Where AI augments the role:**
+
+- AI-assisted personalized learning path design and recommendations
+- Use large language models to accelerate the reading and summarization of research literature
+- AI tools assist in experimental design, simulation, and data analysis
+- AI-based academic writing polishing and grammar checking
+- Virtual laboratories and enhanced remote interactive teaching
+
+**Human moat:**
+
+- In-depth academic research and theoretical innovation
+- Experiential, emotional, and moral support in graduate supervision
+- Interdisciplinary integration and critical thinking of complex real cases
+- Decisions in curriculum development that reflect cultural, social, and ethical values
+- Motivation, leadership, and teamwork in face-to-face interactions
+
+**Skills to build:**
+
+- Operation and integration of AI educational tools (such as adaptive learning platforms).
+- Data Analysis and AI Fundamentals (Python, Statistics)
+- Application of machine learning and natural language processing in scientific research
+- Digital Teaching Methods (Blended Learning, Flipped Classroom)
+- Interdisciplinary curriculum design skills
+- Academic Technology Ethics and AI Governance Knowledge
+
+**Key growth areas:**
 
 - Research
 - Digitalization
@@ -63,68 +99,67 @@ Teach and conduct research at universities and higher education institutions, ty
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高学历专业人士，需有工作合同及符合最低工资标准，适合博士学历的研究或教学职位 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 根据Ley 14/2013，适用于高校科研或教学岗位，要求硕士学位或以上，快速审批 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由大学担保的工作居留，需证明职位无法在本地找到合适人选 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly educated professionals, a work contract and meeting minimum wage standards are required, suitable for research or teaching positions with a doctoral degree |
+| Subclass Altamente cualificad (Highly Qualified Professional) | According to Ley 14/2013, applicable to university research or teaching positions, requiring a master's degree or above, expedited approval |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For university-sponsored work residence, it must prove that suitable candidates cannot be found locally |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学University and Higher Education Teachers？**
-- 热爱学术研究和教学，喜欢独立工作环境
-- 具备出色科研能力和论文发表记录
-- 愿意长期投入博士及博士后阶段
-
-**谁不适合学University and Higher Education Teachers？**
-- 追求快速高薪及高社会地位的从业者
-- 不喜欢长期学术竞争和不确定的教职路径
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about academic research and teaching, and enjoys an independent work environment
+- Possess outstanding research capabilities and a proven track record of publications
+- Willing to dedicate long-term to doctoral and postdoctoral research stages
+
+**Who is not suited**
+- Professionals seeking fast, high salaries and high social status
+- Dislike long-term academic competition and uncertain career paths in academia
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for university teachers in Spain?**
+A: Junior lecturer salary about €30,000-38,000/year, associate professor €40,000-50,000, full professor €50,000-70,000. Public universities have fixed salaries plus research grants.
+
+**Q: How can foreigners become university teachers in Spain?**
+A: A doctoral degree must be obtained and certified by ANECA. You can apply for an EU Blue Card or a highly skilled talent visa. Competition is fierce, so it is recommended to start as a postdoctoral researcher or visiting scholar to gain experience.
+
+**Q: What educational background is needed to become a university teacher?**
+A: Bachelor's, master's, and doctoral degrees are usually required, with a dissertation required during the doctoral period. Some fields require postdoctoral experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-University and Higher Education Teachers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of university teachers in Spain?**
-答：Entry-level lecturers earn about €30,000-38,000 annually, associate professors €38,000-50,000, and full professors €50,000-70,000. Public universities have fixed salaries plus research grants.
-
-**问：How can a foreigner become a university teacher in Spain?**
-答：Requires a PhD and ANECA accreditation. EU Blue Card or Highly Qualified Professional visa can be applied. Competition is fierce; consider postdoc or visiting scholar positions first.
-
-**问：What education is needed to become a university teacher?**
-答：Typically a bachelor's, master's, and PhD with a thesis. Postdoctoral experience may be required in some fields.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

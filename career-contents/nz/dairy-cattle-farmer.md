@@ -1,58 +1,94 @@
-# Dairy Cattle Farmer（Dairy Cattle Farmer）职业分析 · 新西兰
+# Dairy Cattle Farmer — career analysis · New Zealand
 
-**职业代码：121313 – Dairy Cattle Farmer。**
+**Occupation code: 121313 (ANZSCO)**
 
-Manage daily operations of dairy cattle farms, including feeding, breeding, health management and milk production, ensuring profitability and animal welfare. This occupation is eligible for Green List Tier 1 direct residence and Skilled Migrant Category.
+Manage daily operations of a dairy farm, including feeding, breeding, health management, and milk production, ensuring farm profitability and animal welfare. This occupation is eligible for direct residence or skilled migration via the Green List in New Zealand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家农业证书（3级） | 1年 | $5,000~$15,000（通过学校或培训机构，部分可获资助） |
-| 农业管理文凭（5级） | 2年 | $15,000~$30,000（理工学院或大学课程，国际生费用较高） |
+| New Zealand National Certificate in Agriculture (Level 3) | 1 year | $5,000~$15,000 (Through schools or training institutions, some may receive funding) |
+| Diploma in Agriculture Management (Level 5) | 2 years | $15,000~$30,000 (Polytechnic or university courses, higher fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家农业证书（Level 3） | NZQA认可培训机构 | 可选 | 基础资格，非强制但有助于就业 |
-| 农业管理文凭（Level 5） | 林肯大学、Primary ITO等 | 可选 | 经理岗位常要求，提升移民机会 |
+| National Certificate in Agriculture (Level 3) | NZQA-recognised training provider | Optional | Basic qualification, not mandatory but helpful for employment. |
+| Diploma in Agriculture Management (Level 5) | Lincoln University, Primary ITO, etc. | Optional | Often required for manager positions, enhancing immigration opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。新西兰乳制品行业是经济支柱，持续需要熟练奶牛养殖者。就业前景稳定，主要产区如怀卡托、坎特伯雷需求旺盛，受国际市场波动影响较小。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The New Zealand dairy industry is the backbone of the economy, with a continuous need for skilled dairy farmers. Employment prospects are stable, with strong demand in major regions like Waikato and Canterbury, less affected by international market fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 牧工或助理职位 |
-| 中级（3-6年） | $55,000~$75,000 | 畜群经理或助理农场经理 |
-| 高级（6年以上） | $75,000~$100,000 | 农场经理或大型农场管理者 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Stockperson or assistant positions |
+| Mid-level (3–6 years) | $55,000~$75,000 | Herd manager or assistant farm manager |
+| Senior (6+ years) | $75,000~$100,000 | Farm manager or large farm operator |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从初级牧工起步，晋升至畜群经理、农场经理，高级可成为农场主或顾问。积累经验后可通过绿色清单移民，实现长期居留。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Starting as a junior stockman, advancing to herd manager, farm manager, and senior roles as farm owner or consultant. With experience, can migrate via the Green List for long-term residency.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +97,67 @@ Manage daily operations of dairy cattle farms, including feeding, breeding, heal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 奶牛养殖者属于绿色清单一梯级，满足薪资和资格要求可直接申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，基于工作、学历、收入评分申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为临时工作签证，可积累经验后转居留。 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Dairy cattle farmers are in Tier 1 of the Green List, meeting salary and qualification requirements for direct residence application. |
+| Subclass SMC (Skilled Migrant Category) | Apply for residence via the 6-point skilled migration system, based on work, qualifications, and income scoring. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, as a temporary work visa, can accumulate experience and then transition to residency. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dairy Cattle Farmer？**
-- 热爱农场生活和动物，能适应体力劳动和户外工作
-- 拥有农业相关学历或实践经验，愿意迁移至新西兰乡村
-- 计划通过绿色清单实现快速移民并获得长期居留
-
-**谁不适合学Dairy Cattle Farmer？**
-- 不适应早班、长时间工作和季节性压力
-- 偏好城市生活和办公室工作环境
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love farm life and animals, able to adapt to physical labor and outdoor work
+- Agricultural qualifications or practical experience, willing to relocate to rural New Zealand.
+- Planning to achieve fast-track immigration and long-term residence through the Green List
+
+**Who is not suited**
+- Difficulty adapting to early shifts, long hours, and seasonal pressure.
+- Preference for urban life and office work environment.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a dairy farmer in New Zealand?**
+A: Entry-level approx. NZ$45,000-55,000, mid-level NZ$55,000-75,000, senior up to NZ$100,000.
+
+**Q: How can dairy farmers immigrate to New Zealand via the Green List?**
+A: This occupation is on Tier 1 of the Green List; requires a job offer from an accredited employer, meeting salary requirements (median wage or above), with no waiting period to apply for residence.
+
+**Q: What qualifications are needed to become a dairy farmer in New Zealand?**
+A: No formal qualification is usually required, but relevant agricultural certificates or diplomas (such as the National Certificate in Agriculture Level 3 or Diploma in Agricultural Management) can significantly improve job and migration prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Dairy Cattle Farmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for dairy cattle farmers in New Zealand?**
-答：Entry-level around NZD 45,000-55,000, mid-level NZD 55,000-75,000, senior up to NZD 100,000.
-
-**问：How can dairy cattle farmers migrate to New Zealand through the Green List?**
-答：This occupation is on Green List Tier 1. You need a job offer from an accredited employer, meet salary requirements (at least median wage), and can apply for residence directly.
-
-**问：What qualifications are needed to become a dairy cattle farmer in New Zealand?**
-答：Formal qualifications are not mandatory, but a National Certificate in Agriculture (Level 3) or Diploma in Farm Management improves job prospects and migration eligibility.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

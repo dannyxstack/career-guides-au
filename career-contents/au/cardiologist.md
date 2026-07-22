@@ -1,59 +1,94 @@
-# Cardiologist（Cardiologist）职业分析 · 澳大利亚
+# Cardiologist — career analysis · Australia
 
-**职业代码：253312 – Cardiologist。**
+**Occupation code: 253312 (ANZSCO)**
 
-Cardiologists are medical specialists who diagnose and treat heart and blood vessel disorders, performing clinical consultations, interventional procedures, and research, and are in high demand in Australia's healthcare system.
+Cardiologists are doctors who specialize in diagnosing and treating heart and vascular diseases, engaged in clinical practice, interventional surgery, and research. In the Australian healthcare system, it's a high-income, high-demand specialist occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 医学本科（学士） | 5-6年 | $100,000~$200,000（含学费，国际学生更高） |
-| 内科基础培训及专科培训 | 6-8年 | —（实习及住院医师期间有薪水，培训费及考试费额外） |
+| Bachelor of Medicine (MBBS) | 5-6 years. | $100,000~$200,000 (Including tuition fees, higher for international students) |
+| Basic physician training and specialist training | 6-8 years | $0~$50,000 (Paid during internship and residency, with additional training and exam fees covered) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（MBBS或MD） | 澳大利亚医学委员会认可的大学 | 必备 | 必须完成 |
-| 澳大利亚医学委员会注册 | 澳大利亚医学委员会（AHPRA） | 必备 | 必须持有一般注册 |
-| 心脏病专科医师资格（FRACP） | 澳大利亚皇家内科医师学会（RACP） | 必备 | 完成专科培训后获得 |
+| Medical degree (MBBS or MD) | Universities accredited by the Australian Medical Council. | Required | Must be completed |
+| Medical Board of Australia Registration | Australian Medical Council (AHPRA) | Required | Must hold general registration |
+| Cardiology Specialist Qualification (FRACP) | Royal Australasian College of Physicians (RACP) | Required | Obtained after completing specialized training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 2,500。随着人口老龄化和心血管疾病发病率上升，澳大利亚心脏病专家的需求持续强劲。偏远地区和公立医院尤其短缺，职业前景广阔。
+**Job demand: very high (★★★★½).** National workforce approx. 2,500. With an aging population and rising cardiovascular disease incidence, demand for cardiologists in Australia remains strong. Shortages are especially acute in rural areas and public hospitals, offering promising career prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $150,000~$200,000 | 包括实习医生及专科培训初期 |
-| 中级（3-10年） | $250,000~$350,000 | 公立医院顾问或专科医生 |
-| 高级（10年以上） | $400,000~$600,000 | 私立执业或资深顾问医生 |
+| Median salary | $188,240 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $150,000~$200,000 | Including interns and early specialist training |
+| Intermediate (3-10 years) | $250,000~$350,000 | Public hospital consultant or specialist doctor |
+| Senior (10+ years) | $400,000~$600,000 | Private practice or senior consultant doctor |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 从住院医师开始，经过基础培训（如内科）后进入心脏病专科培训（通常需6-8年），可晋升为心脏科顾问医生、科室主任或进入私立执业。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on cardiologists is mixed: diagnostic imaging and data analysis will be greatly enhanced, but core tasks like interventional procedures and patient communication are hard to replace; the profession remains high-value and stable overall.
+
+Starting as a resident medical officer, after basic training (e.g., in internal medicine) enter cardiology specialty training (usually 6-8 years), can progress to consultant cardiologist, department head, or private practice.
+
+**Tasks most exposed to AI:**
+
+- Automatically interpret routine ECG and echocardiogram reports
+- Analyze patient electronic health records to screen for clinical trial candidates
+- Generate standardised medical documents and referral letters
+- Use AI prediction models for preliminary cardiovascular risk assessment
+
+**Where AI augments the role:**
+
+- AI-assisted real-time analysis of imaging data to improve diagnostic accuracy
+- Using decision support tools to optimize drug and device treatment plans
+- Manage chronic heart failure patients via remote monitoring AI systems
+- Automatically extract key medical record information to shorten preoperative preparation time
+- Uses AI simulation training to improve interventional surgery planning accuracy
+
+**Human moat:**
+
+- Clinical reasoning and multifactorial judgment for complex cases
+- Hand-eye coordination and real-time decision-making in high-precision interventional procedures
+- Emotional communication and shared decision-making with patients and families
+- Assume ultimate medical responsibility within legal and ethical frameworks
+- Cross-specialty collaborative leadership and teaching skills
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools (e.g., AI ECG analysis software)
+- Learn basic data science and machine learning concepts
+- Proficient in remote patient monitoring and digital health platforms
+- Enhance clinical decision-making skills under human-machine collaboration
+- Study the ethics and regulations of medical artificial intelligence.
+- Develop cross-disciplinary communication and leadership skills
+
+**Key growth areas:**
 
 - Aging Population
 - Cardiovascular Disease
@@ -62,69 +97,68 @@ Cardiologists are medical specialists who diagnose and treat heart and blood ves
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立签证，适用于在MLTSSL列表上的职业，无需担保 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州政府提名 |
-| Subclass 482（Temporary Skill Shortage Visa） | 临时技能短缺签证，需雇主担保，后可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需雇主提名 |
+| Subclass 189 (Skilled Independent Visa) | Skilled Independent visa, for occupations on the MLTSSL, no sponsorship required |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination |
+| Subclass 482 (Temporary Skill Shortage Visa) | Temporary Skill Shortage visa, requires employer sponsorship, then can transition to 186 |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cardiologist？**
-- 对心血管医学有浓厚兴趣，愿意投入长期学习（至少10年）
-- 抗压能力强，能应对高强度的临床工作
-- 具备出色的手工操作能力（如介入手术）
-
-**谁不适合学Cardiologist？**
-- 无法承受长时间、高压力的训练和工作
-- 对持续学习和考试感到厌倦
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in cardiovascular medicine and willingness to commit to long-term study (at least 10 years).
+- Strong stress tolerance to handle high-intensity clinical work
+- Excellent manual dexterity (e.g., for interventional surgery)
+
+**Who is not suited**
+- Unable to endure long hours, high-pressure training and work
+- Tired of continuous learning and exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a cardiologist?**
+A: The average annual salary for cardiologists in Australia is approximately A$300,000-450,000, entry-level around A$150,000-200,000, and senior can exceed A$600,000.
+
+**Q: Which visas can cardiologists use to immigrate to Australia?**
+A: Cardiologists are on the MLTSSL and can immigrate via 189, 190, 482, and 186 visas, requiring the AMC exam and AHPRA registration.
+
+**Q: How many years does it take to become a cardiologist in Australia?**
+A: Typically takes 12-14 years: 5-6 years medical bachelor's + 1 year internship + 3 years internal medicine foundation + 3-4 years cardiology specialization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Cardiologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cardiologist?**
-答：The average salary for a cardiologist in Australia is around AUD 300,000-450,000, with entry-level at AUD 150,000-200,000 and senior exceeding AUD 600,000.
-
-**问：Which visas can a cardiologist use to migrate to Australia?**
-答：Cardiologists are on the MLTSSL and can apply for visas 189, 190, 482, and 186, requiring AMC exams and AHPRA registration.
-
-**问：How long does it take to become a cardiologist in Australia?**
-答：Typically 12-14 years: 5-6 years medical school + 1 year internship + 3 years basic physician training + 3-4 years cardiology advanced training.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

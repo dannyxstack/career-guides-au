@@ -1,59 +1,95 @@
-# Roofers, roof tilers and slaters（Roofers, roof tilers and slaters）职业分析 · UK
+# Roofers, roof tilers and slaters — career analysis · United Kingdom
 
-**职业代码：5314 – Roofers, roof tilers and slaters。**
+**Occupation code: 5314 (SOC)**
 
-Roofers, roof tilers and slaters cover roofs and exterior walls with felting, sheeting, slates, tiles and thatch to provide a waterproof surface.
+Roofers, roof tilers, and slaters cover roofs and external walls using materials such as linoleum, sheets, slates, tiles, and thatch to provide waterproof surfaces.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（通常有薪，无需学费） |
-| 职业培训课程 | 6-12个月 | $1,000~$4,000（部分课程可获资助） |
+| Apprenticeship | 2-4 years | $0~$0 (Usually paid, no tuition fees) |
+| Vocational training courses | 6–12 months | $1,000~$4,000 (Partial course funding available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 2级/3级屋顶工 | City & Guilds 或类似机构 | 必备 | 学徒期间获得，行业标准资格 |
-| CSCS 卡 | Construction Skills | 必备 | 建筑工地必备安全卡 |
-| 高空作业培训 | 培训机构 | 可选 | 建议持有，提升竞争力 |
+| NVQ Level 2/3 Roofing Worker | City & Guilds or similar institution | Required | Obtained during apprenticeship, industry-standard qualification |
+| CSCS card | Construction Skills | Required | Essential safety card for construction sites |
+| High-altitude work training | Training institution | Optional | Recommended for enhanced competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。英国建筑行业持续增长，加之老旧房屋屋顶维修需求，屋顶工岗位需求稳定。新建筑项目和绿色屋顶技术发展也带来额外机会。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. The UK construction industry continues to grow, along with the demand for roof repairs on older houses, ensuring stable demand for roofers. New building projects and the development of green roofing technologies also bring additional opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 学徒或新手 |
-| 中级（3-7年） | $28,000~$35,000 | 经验丰富的屋顶工 |
-| 高级（7年以上） | $35,000~$45,000 | 高级技工或主管 |
+| Median salary | $31,906 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Apprentice or beginner |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced roofer |
+| Senior (7+ years) | $35,000~$45,000 | Senior technician or supervisor |
+| average salary | $39,150 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从学徒开始，积累经验后可晋升为监工、项目经理，或自主创业成为承包商。部分屋顶工会选择专攻历史建筑修复或绿色屋顶安装。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Among the tasks of a roofer, measuring, material cutting, and document processing are easily replaced by AI/automation, but working at heights, complex waterproofing node handling, and on-site safety judgment heavily rely on human experience; overall risks and opportunities coexist.
+
+Typically start as an apprentice, with experience leading to roles as supervisor, project manager, or self-employment as a contractor. Some roof tilers specialise in restoring historic buildings or installing green roofs.
+
+**Tasks most exposed to AI:**
+
+- Use drones for roof inspection and photography
+- AI automatically generates material lists and cutting optimization plans
+- Automatic roof area measurement and quotation based on satellite imagery
+- Automated tile cutting and dimension marking
+- AI weather system automatically adjusts construction schedules
+
+**Where AI augments the role:**
+
+- AR glasses overlay waterproofing layer installation guidance and quality inspection markers in real time
+- AI diagnostic tools assist in identifying roof leak points and repair solutions.
+- Smart safety vest monitors posture and provides early warnings for high-altitude work
+- Comparison of 3D scans and BIM models to ensure installation accuracy
+- Voice control tool for hands-free access to installation manuals and specifications.
+
+**Human moat:**
+
+- Manual handling of waterproofing nodes for complex irregular roofs
+- On-site visual inspection and risk assessment of old building structural strength
+- Safety decisions and team coordination in severe weather
+- Communicate with clients about customized appearance needs and handcraft them
+- Assembly techniques and empirical adjustments for different tiles/plates
+
+**Skills to build:**
+
+- Drone operation and aerial image analysis
+- BIM basics and 3D modeling software (e.g., SketchUp)
+- Use of smart measurement tools (laser distance meter + app)
+- Basic data analysis (Excel, material quantity optimization)
+- AR/VR-aided construction operation training
+- Solar roof integrated installation technology
+
+**Key growth areas:**
 
 - Infrastructure
 - Green roofs
@@ -62,68 +98,67 @@ Roofers, roof tilers and slaters cover roofs and exterior walls with felting, sh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合紧缺职业，薪资门槛较低，可用5年经验替代学历。 |
-| Subclass Scale-up（Scale-up Visa） | 适用于有扩展计划的企业，需工作邀请和薪资符合要求。 |
-| Subclass Graduate（Graduate Visa） | 适合完成学徒或职业培训的毕业生，可在英国工作2年。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | On the shortage occupation list, lower salary threshold, 5 years of experience can substitute for a degree. |
+| Subclass Scale-up (Scale-up Visa) | Applicable to businesses with expansion plans, requires a job offer and salary to meet requirements. |
+| Subclass Graduate (Graduate Visa) | Suitable for graduates who have completed an apprenticeship or vocational training; can work in the UK for 2 years. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roofers, roof tilers and slaters？**
-- 喜欢户外体力劳动，不恐高
-- 注重细节和防水质量
-- 愿意接受学徒培训
-
-**谁不适合学Roofers, roof tilers and slaters？**
-- 不适应高空或恶劣天气工作
-- 寻求室内舒适办公环境
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor physical labor and not afraid of heights
+- Attention to detail and waterproofing quality
+- Willing to accept apprenticeship training
+
+**Who is not suited**
+- Unable to adapt to high-altitude or adverse weather work
+- Seeking a comfortable indoor office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a roofer?**
+A: Entry-level approx £20,000-£28,000, senior up to £35,000-£45,000, higher with overtime or self-employment.
+
+**Q: can a roofer immigrate to the UK on a work visa?**
+A: Yes, roofers are on the Skilled Worker visa shortage occupation list, have a lower salary threshold, and require a job offer and meeting English requirements.
+
+**Q: What are the career development opportunities for roofers?**
+A: Can advance to supervisor, project manager, or specialize in historic building restoration, green roofs, or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Roofers, roof tilers and slaters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for roofers?**
-答：Entry-level around £20,000-£28,000, senior up to £35,000-£45,000, more with overtime or self-employment.
-
-**问：Can roofers migrate to the UK on a work visa?**
-答：Yes, roofers are on the shortage occupation list for Skilled Worker visas, with lower salary thresholds and a job offer required.
-
-**问：What career progression opportunities exist for roofers?**
-答：Progress to supervisor, project manager, specialize in heritage restoration or green roofs, or start own business.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

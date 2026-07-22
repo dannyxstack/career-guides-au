@@ -1,61 +1,96 @@
-# Industrial Equipment Installation and Maintenance Technician（Industrial Equipment Installation and Maintenance Technician）职业分析 · FR
+# Industrial Equipment Installation and Maintenance Technician — career analysis · France
 
-**职业代码：I1304 – Industrial Equipment Installation and Maintenance Technician。**
+**Occupation code: I1304 (ROME)**
 
-Install, commission, and perform preventive/corrective maintenance on industrial machinery, automation systems, and electromechanical equipment to ensure continuous plant operation.
+Responsible for installation, commissioning, preventive maintenance, and fault diagnosis of industrial production lines, automation systems, and electromechanical equipment, ensuring continuous factory operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 或 DUT 工业维护 | 2年（BTS） | —（公立学校学费低，学徒制可免学费并获津贴） |
-| Licence professionnelle 维护工程 | 3年（Licence） | —（可经BTS后继续1年获得） |
-| CAP 工业设备维护 | 2年（CAP） | —（职业教育路线，注重实操） |
+| BTS or DUT industrial maintenance | 2 Years (BTS) | $0~$5,000 (Public schools have low tuition fees, and apprenticeships can be tuition-free and receive subsidies) |
+| Licence professionnelle maintenance engineering | 3 years (Licence) | $0~$8,000 (You can continue to obtain it for one year after BTS) |
+| CAP industrial equipment maintenance | 2 years (CAP) | $0~$3,000 (Vocational education track, emphasizing practical application) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQPM 工业设备维护技术员 | UIMM / AFPA | 可选 | 法国金属工业联合会颁发，行业广泛认可 |
-| 电工资质 (Habilitation électrique) | 雇主或认证培训机构 | 必备 | 高低压作业必备，通常由企业安排考试 |
-| 焊接证书（如适用） | 法国焊接协会 (IS) | 可选 | 若岗位涉及焊接则需持有对应等级证书 |
-| 高空作业证书 | INRS / 授权培训机构 | 必备 | 涉及高空维护作业时强制要求 |
+| Habilitation Qualification | Employers or certified training institutions | Required | High and low voltage operations are essential and usually arranged by companies for exams |
+| Elevated work platform certificate | INRS / Authorized Training Institution | Required | Mandatory requirements for high-altitude maintenance operations |
+| CQPM Industrial Equipment Maintenance Technician | UIMM / AFPA | Optional | Awarded by the French Metals Industry Federation and widely recognized by the industry |
+| Welding certificate (if applicable) | French Welding Association (IS) | Optional | If the position involves welding, the corresponding level certificate must be held |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。法国再工业化与能源转型推动工业设备维护需求持续增长，尤其在自动化、机器人领域人才缺口明显。预计未来5年岗位增速约10%，部分行业（如汽车、制药）尤为紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. France's reindustrialization and energy transition have driven continuous growth in demand for industrial equipment maintenance, especially in automation and robotics, where there is a significant talent gap. It is expected that job growth will be about 10% over the next five years, with certain industries (such as automotive and pharmaceuticals) facing particularly tight demands.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$32,000 | 税前年薪，BTS毕业起薪约28k-30k |
-| 中级（3-7年） | $33,000~$40,000 | 具备独立诊断与维修能力，可带团队 |
-| 高级（7年以上） | $42,000~$50,000 | 主管或专家岗，部分需轮班或待命津贴 |
+| Median salary | $36,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$32,000 | Pre-tax annual salary: BTS graduates start at about 28k-30k |
+| Mid-level (3–7 years) | $33,000~$40,000 | Capable of independent diagnosis and repair, able to lead a team |
+| Senior (7+ years) | $42,000~$50,000 | Supervisor or expert positions, some require shift work or on-call allowances |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从技术员晋升为维护团队主管、工业维护工程师或设备项目经理。通过继续教育（如CQPM）可转向自动化或机器人专家岗位，也可考取电工或焊接资质拓宽技能。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+Technicians can be promoted to maintenance team leaders, industrial maintenance engineers, or equipment project managers. Through further education (such as CQPM), you can transition to automation or robotics specialist positions, or obtain electrician or welding qualifications to broaden your skills.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industrie 4.0
 - Robotique
@@ -64,68 +99,67 @@ Install, commission, and perform preventive/corrective maintenance on industrial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于工程师或技术专家，需提供高技能合同，无劳动力市场测试，可携带家属 |
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需法国雇主担保，通过劳动局审批（可豁免紧缺岗位测试） |
-| Subclass Carte bleue UE（EU Blue Card） | 要求年薪高于1.5倍平均工资（约53k欧元），适合高级岗位；可自由在其他欧盟国工作 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for engineers or technical experts, requires high-skilled contracts, no labor market testing, and allows family members |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires a French employer sponsor and approval by the Labor Bureau (exemption from the shortage position test). |
+| Subclass Carte bleue UE (EU Blue Card) | Annual salary must be above 1.5 times the average salary (about 53k euros), suitable for senior positions; freedom to work in other EU countries |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Equipment Installation and Maintenance Technician？**
-- 动手能力强、喜欢机械和电气维修的人
-- 愿意在工业现场工作、能适应轮班或待命
-- 注重实践、不排斥继续学习和考证
-
-**谁不适合学Industrial Equipment Installation and Maintenance Technician？**
-- 对油污、噪音或户外爬高不适者
-- 偏好办公室坐班或规律作息者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and a passion for mechanical and electrical repairs
+- Willing to work on industrial sites and able to adapt to shift shifts or standby
+- Emphasize practical experience, do not reject continued learning and certification
+
+**Who is not suited**
+- For those uncomfortable with oil stains, noise, or outdoor climbing heights
+- Those who prefer office work or maintain a regular schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this profession in France?**
+A: Entry-level is about €28k-32k, intermediate is 33k-40k, senior-level is 42k-50k, plus shift/on-call allowance. Salaries vary greatly depending on industry and region.
+
+**Q: How can foreign skilled immigrants obtain a French work visa?**
+A: You can apply for Passeport Talent (with a high-skilled contract) or Salarié (employer-sponsored stay). The EU Blue Card requires an annual salary above approximately 53,000 euros. Shortage positions may be exempt from labor market testing.
+
+**Q: What local French certifications are required?**
+A: Habilitation qualification is mandatory, and the high-altitude work certificate depends on the position. The CQPM or BTS diploma is a common entry requirement. Overseas qualifications must be verified.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Industrial Equipment Installation and Maintenance Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in France?**
-答：Entry-level: €28k-32k, mid-level: €33k-40k, senior: €42k-50k, plus shift/on-call allowances. Salary varies by industry and region.
-
-**问：How can a foreign skilled worker obtain a French work visa?**
-答：Apply for Talent Passport (requires high-skill contract) or Salarié (employer sponsorship). EU Blue Card required salary above ~€53k. Shortage occupations may bypass labor market test.
-
-**问：What local certifications are required?**
-答：Electrical authorization (Habilitation électrique) is mandatory, work-at-height certificate if needed. CQPM or BTS diploma is typical entry requirement. Foreign qualifications need recognition.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

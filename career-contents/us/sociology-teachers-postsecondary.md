@@ -1,60 +1,96 @@
-# Sociology Teachers, Postsecondary（Sociology Teachers, Postsecondary）职业分析 · 美国
+# Sociology Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1067 – Sociology Teachers, Postsecondary。**
+**Occupation code: 25-1067 (SOC)**
 
-Teach sociology courses at postsecondary institutions, including both teaching and research on social structures, group behavior, and societal issues.
+Teach sociology courses at higher education institutions, including teaching and research. Study social structures, group behavior, and social issues.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-7年 | $50,000~$150,000（视学校类型和资助情况，公立大学学费较低） |
-| 硕士 | 2年 | $30,000~$80,000（部分硕士可作为跳板，但正式教职通常要求博士） |
+| Doctorate | 5-7 years | $50,000~$150,000 (Depending on school type and funding, public universities have lower tuition.) |
+| Master's degree | 2 years | $30,000~$80,000 (A master's degree can serve as a stepping stone, but formal teaching positions usually require a PhD.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会学博士 | 大学 | 必备 | 核心学历要求 |
-| 教学经验 | 任职机构 | 可选 | 通常需要助教或讲师经验 |
+| PhD in Sociology | University | Required | Core educational requirements |
+| Teaching experience | Employing institution | Optional | Usually requires teaching assistant or lecturer experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 14,000。美国劳工统计局预测2022-2032年社会学教师就业增长约5%，与平均水平相当。博士毕业生竞争激烈，终身教职岗位有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 14,000. The U.S. Bureau of Labor Statistics projects about 5% growth for sociology teachers from 2022 to 2032, similar to the average. Competition is fierce for PhD graduates, with limited tenure-track positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理教授或讲师 |
-| 中级（4-9年） | $75,000~$100,000 | 副教授 |
-| 高级（10年以上） | $100,000~$150,000 | 正教授 |
+| Median salary | $84,290 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Assistant professor or lecturer |
+| Intermediate (4-9 years) | $75,000~$100,000 | associate professor |
+| Senior (10+ years) | $100,000~$150,000 | Full professor |
+| average salary | $96,980 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 晋升路径：助理教授→副教授→正教授，或转向研究机构/政府部门。终身教职需发表高质量研究成果。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI both compresses some teaching and research tasks and amplifies output capacity through data analysis and automation tools; sociology professors need to proactively transform to balance risks and opportunities.
+
+Career progression: Assistant Professor → Associate Professor → Full Professor, or transition to research institutions/government. Tenure requires high-quality research publications.
+
+**Tasks most exposed to AI:**
+
+- Basic statistical data analysis and questionnaire coding
+- Automatic grading and scoring of coursework and exams
+- Preliminary literature search and abstract generation
+- Generation of repetitive teaching materials (e.g., slides)
+- Recording and distributing some standardized online course content
+
+**Where AI augments the role:**
+
+- Utilize AI for large-scale social network analysis and text mining
+- Assists in coding qualitative interview data using natural language processing tools
+- Design interactive AI simulation cases for teaching
+- Using predictive models to optimise research design and social intervention plans
+- Quickly generate research visualization charts and reports using AI tools
+
+**Human moat:**
+
+- Critical thinking and theoretical construction skills
+- Ethical judgment and academic integrity maintenance
+- Emotional interaction and personalized guidance in teaching
+- Interdisciplinary comprehensive research and practical problem solving
+- Professional judgment in social context understanding and policy advice
+
+**Skills to build:**
+
+- Python/R programming and statistical analysis
+- Machine learning basics and applications in social sciences
+- Practice of natural language processing in text analysis
+- Data visualization and interactive display tools
+- New norms for AI ethics and academic integrity
+- Online teaching platforms and AI-assisted instructional design
+
+**Key growth areas:**
 
 - Academia
 - Research
@@ -63,67 +99,66 @@ Teach sociology courses at postsecondary institutions, including both teaching a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学通常作为非营利机构免抽签，可直接申请H-1B |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 通常需PERM劳工证，但大学职位可申请国家利益豁免(NIW) |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于有突出研究成果的学者 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过劳工证申请绿卡，雇主需证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Universities, often non-profit, are exempt from the lottery and can directly apply for H-1B |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Usually requires PERM labor certification, but university positions can apply for National Interest Waiver (NIW) |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to scholars with outstanding research achievements |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for a green card through labor certification; employer must prove inability to find qualified US workers |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sociology Teachers, Postsecondary？**
-- 热爱学术研究和教学
-- 喜欢深入分析社会问题
-- 有耐心从事长期科研项目
-
-**谁不适合学Sociology Teachers, Postsecondary？**
-- 偏好稳定高薪工作
-- 不喜欢竞争激烈的学术环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about academic research and teaching
+- Enjoys in-depth analysis of social issues
+- Patience to engage in long-term research projects
+
+**Who is not suited**
+- Prefers stable, high-paying jobs
+- Dislikes highly competitive academic environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a sociology professor?**
+A: Annual salary for sociology professors in the US ranges from about 55,000 to 150,000 USD, depending on title, institution type, and region. Community colleges pay lower, research universities higher.
+
+**Q: How can foreign scholars immigrate to the US through sociology professor positions?**
+A: Usually enter via H-1B visa (university cap-exempt), then apply for green card through EB-2 NIW or PERM. Requires PhD and research achievements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Sociology Teachers, Postsecondary为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sociology professors?**
-答：Salaries range from $55,000 to $150,000 annually, depending on rank, institution type, and location. Community colleges pay less, research universities pay more.
-
-**问：How can foreign scholars immigrate to the US as sociology professors?**
-答：Typically via H-1B visa (universities are cap-exempt), then EB-2 NIW or PERM green card. Requires PhD and research achievements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

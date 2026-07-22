@@ -1,58 +1,94 @@
-# Elementary Workers Not Elsewhere Classified（Elementary Workers Not Elsewhere Classified）职业分析 · NL
+# Elementary Workers Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：9629 – Elementary Workers Not Elsewhere Classified。**
+**Occupation code: 9629 (ISCO08)**
 
-Performs simple and repetitive tasks such as cleaning, carrying, packing, and basic assembly, requiring no special skills or training.
+Perform various simple, repetitive tasks such as cleaning, carrying, packaging, and simple assembly, requiring no special skills or training.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 0年 | —（通常不需要正式教育，雇主提供短期培训。） |
+| No formal education requirements | 0 years | $0~$0 (Formal education is usually not required; employers provide short-term training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无 | 无 | 可选 | 该职业通常不要求正式资格，但某些岗位可能需要健康证明或基本安全培训。 |
+| None | None | Optional | This occupation typically does not require formal qualifications, but some positions may need health certificates or basic safety training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。荷兰初级工人需求稳定，受自动化和低技能移民影响，就业前景一般，但物流和清洁领域仍有岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Demand for junior workers in the Netherlands is stable, but due to automation and low-skilled immigration, employment prospects are average, though positions still exist in logistics and cleaning.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，通常按小时计薪，约€14-16/小时。 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，经验丰富者可晋升为高级工人或监工。 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，包括监工和团队领导岗位。 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, usually paid hourly, approximately €14-16/hour. |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual salary before tax, experienced workers can be promoted to senior workers or supervisors. |
+| Senior (7+ years) | $32,000~$40,000 | Annual salary before tax, including supervisor and team leader positions. |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 多为临时或兼职岗位，晋升路径有限；可通过积累经验转为技术工种或晋升为监工，但需要额外培训。
-**AI替代风险：高（★★★★½）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: very high (★★★★½).**
 
-主要增长方向：
+Unclassified entry-level workers face extremely high risk of automation replacement; a large number of simple repetitive tasks (such as carrying, cleaning, packaging) can be directly taken over by robots/automation systems, and entry-level positions are shrinking, causing high pressure to change careers.
+
+Mostly temporary or part-time positions with limited promotion paths; can transition to skilled trades or become a supervisor through experience, but requires additional training.
+
+**Tasks most exposed to AI:**
+
+- Repetitive lifting and stacking tasks (replaced by AGVs/robotic arms)
+- Basic cleaning and sweeping (replaced by robotic vacuums/automated cleaning equipment)
+- Simple product packaging and sealing (replaced by automated packaging lines)
+- Sorting and classification (replaced by visual recognition + robotic sorting systems)
+- Basic assembly work (replaced by collaborative robots)
+
+**Where AI augments the role:**
+
+- Operate automated equipment (e.g., AGV dispatch systems, robot control panels)
+- Using mobile terminals to receive task instructions and report progress (e.g., task management apps)
+- Use augmented reality (AR) glasses for equipment maintenance guidance.
+- Using voice assistants or chatbots for job guidance and safety reminders
+- Learn basic programming (e.g., adjusting robot grasping parameters) to improve efficiency
+
+**Human moat:**
+
+- Ability to make flexible decisions and solve problems in unstructured, dynamic environments
+- Complex Manual Operations (such as precision assembly, special material handling)
+- Quality control and anomaly handling requiring human judgment
+- Communication and customer service (e.g., on-site coordination, complaint handling)
+- Safety supervision and emergency response (such as fire, chemical spills, etc.)
+
+**Skills to build:**
+
+- Basics of automated equipment operation and maintenance (e.g., use of robot teach pendants)
+- Digital literacy: using tablets, scanners, and task management software
+- Basic programming logic (e.g., introductory Python, simple PLC debugging)
+- Safety awareness and emergency response (especially in scenarios involving automated equipment)
+- Cross-skill learning ability (e.g., transferring to electromechanical maintenance or quality control)
+- Communication and teamwork (adapting to human-machine hybrid teams)
+
+**Key growth areas:**
 
 - Stable demand
 - Automation impact
@@ -61,65 +97,67 @@ Performs simple and repetitive tasks such as cleaning, carrying, packing, and ba
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 高技能移民签证，但普通初级工人通常不符合薪资门槛。 |
-| Subclass EU Freedom of Moveme（EU/EEA Free Movement） | 欧盟公民可自由在荷兰工作，不需要签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | High-skilled migration visa, but ordinary entry-level workers usually do not meet the salary threshold. |
+| Subclass EU Freedom of Moveme (EU/EEA Free Movement) | EU citizens can freely work in the Netherlands without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Elementary Workers Not Elsewhere Classified？**
-- 寻求快速就业且无需高学历的人
-- 适应体力劳动和重复性工作的人
-- 临时工作或兼职工作者
+**Who is suited**
+- People seeking quick employment without requiring a high degree
+- People suited to physical labor and repetitive work
+- Temporary or part-time workers
 
-**谁不适合学Elementary Workers Not Elsewhere Classified？**
-- 希望高收入和职业发展的人
-- 对自动化风险敏感的人
+**Who is not suited**
+- People seeking high income and career development
+- People sensitive to automation risk
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for entry-level workers?**
+A: Annual salary for entry-level workers approximately €25,000-€30,000 before tax, paid hourly.
+
+**Q: How can non-EU citizens work in this occupation?**
+A: Non-EU citizens typically require employer sponsorship, but low-skilled occupations may find it difficult to obtain high-skilled migration visas; seasonal work permits could be considered.
+
+**Q: What training is required?**
+A: Usually no formal training required; employers provide on-the-job guidance. Some roles require safety certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（½☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★½） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Elementary Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for entry-level elementary workers?**
-答：Entry-level elementary workers earn approximately €25,000-€30,000 gross per year, paid hourly.
-
-**问：How can non-EU citizens work in this occupation?**
-答：Non-EU citizens typically need employer sponsorship, but low-skilled roles rarely qualify for Highly Skilled Migrant visa; seasonal work permits may be an option.
-
-**问：What training is required?**
-答：No formal training is usually required; employers provide on-the-job instruction. Some roles may require safety certificates.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

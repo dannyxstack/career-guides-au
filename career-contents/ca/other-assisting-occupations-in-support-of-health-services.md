@@ -1,60 +1,94 @@
-# Other assisting occupations in support of health services（Other assisting occupations in support of health services）职业分析 · 加拿大
+# Other assisting occupations in support of health services — career analysis · Canada
 
-**职业代码：33109 – Other assisting occupations in support of health services。**
+**Occupation code: 33109 (NOC)**
 
-This occupation includes assistants in health services performing non-clinical support tasks such as cleaning medical equipment and transporting patients.
+This occupation includes support workers in health services, such as medical equipment cleaners and patient transporters, responsible for non-clinical daily support tasks.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常要求高中毕业） |
-| 短期培训证书 | 6个月 | $1,000~$5,000（医院或职业培训机构提供） |
+| High school diploma | None | $0~$0 (Usually requires high school graduation) |
+| Short-term Training Certificate | 6 months. | $1,000~$5,000 (Provided by hospitals or vocational training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 省级认证机构 | 可选 | 部分雇主要求 |
-| WHMIS证书 | 加拿大职业健康与安全中心 | 可选 | 工作场所危险品信息系统 |
+| First aid certificate | Provincial certification bodies | Optional | Some employers require |
+| WHMIS certificate | Canadian Centre for Occupational Health and Safety | Optional | Workplace Hazardous Materials Information System |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。随着加拿大人口老龄化，健康服务需求增长，该职业就业前景良好，预计未来几年就业机会稳步增加。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. With Canada's aging population and growing health service demand, the employment outlook for this occupation is good, with steady job growth expected in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 时薪约$15-18 |
-| 中级（3-6年） | $38,000~$45,000 | 时薪约$18-22 |
-| 高级（6年以上） | $45,000~$52,000 | 时薪约$22-25 |
+| Median salary | $47,840 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$38,000 | Hourly wage about USD 15-18 |
+| Mid-level (3–6 years) | $38,000~$45,000 | Hourly wage approximately $18-22 |
+| Senior (6+ years) | $45,000~$52,000 | Hourly wage around $22-25 |
+| average salary | $49,920 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从辅助岗位可晋升为高级辅助人员或转向临床支持角色，部分人通过进修成为医疗技术人员或护士。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed impacts on this occupation: simple patient transport and equipment cleaning tasks face replacement risks, but complex work such as coordination assistance, equipment maintenance, and emotional support is enhanced, leading to a diverging job structure overall.
+
+Auxiliary staff can advance to senior auxiliary roles or clinical support positions; some become medical technicians or nurses through further study.
+
+**Tasks most exposed to AI:**
+
+- Use Automated Guided Vehicles (AGV) to transport patients or supplies
+- Ultraviolet or robotic automatic cleaning of medical equipment and rooms
+- Automatically verify inventory and records through voice or image recognition systems
+- Smart scheduling system automatically coordinates non-clinical support tasks
+
+**Where AI augments the role:**
+
+- Using mobile apps and sensor networks to monitor equipment status and provide early fault warnings
+- Optimize workflows and resource allocation using AI-assisted decision support systems
+- Enhance emergency response and equipment operation skills through VR/AR training systems
+- AI-driven patient triage system helps prioritise emergency transport needs
+- Automated report generation tools reduce work recording time from hours to minutes.
+
+**Human moat:**
+
+- Flexibly respond to patient emergencies in urgent and unstructured environments
+- Interpersonal communication and emotional support, such as reassuring anxious patients or families
+- Multi-tasking coordination and on-site judgment (e.g., handling multiple emergencies simultaneously)
+- Manual repair and diagnosis of non-standard faults in complex medical equipment
+
+**Skills to build:**
+
+- Basic maintenance and troubleshooting of medical equipment
+- Operate AI-assisted workflow management software (e.g., Epic, Cerner)
+- Data analysis and visualisation (Excel, Tableau) for performance monitoring
+- Basic first aid and patient communication skills
+- Robotic Process Automation (RPA) tool application
+- Team collaboration and agile management methods (e.g., Scrum)
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare expansion
@@ -63,62 +97,64 @@ This occupation includes assistants in health services performing non-clinical s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但对低技能岗位获批较难 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能通过低技能类别提名，但机会有限 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, but approval is difficult for low-skilled positions |
+| Subclass PNP (Provincial Nominee Program) | Some states may nominate through lower-skilled categories, but opportunities are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other assisting occupations in support of health services？**
-- 耐心细致的人
-- 身体健康能承受体力劳动
-- 希望快速进入医疗行业的人
+**Who is suited**
+- Patient and detail-oriented person
+- Physically fit and able to handle manual labour
+- Individuals looking to quickly enter the healthcare industry
 
-**谁不适合学Other assisting occupations in support of health services？**
-- 不适应体力劳动的人
-- 期望高薪资的人
+**Who is not suited**
+- Those who are not suited for physical labor
+- Those expecting high salaries
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level salary about 30k-38k CAD annually, senior up to 45k-52k CAD, relatively low.
+
+**Q: Is this occupation easy to immigrate to Canada?**
+A: Difficult. This occupation usually does not meet Express Entry requirements; only a few PNP low-skilled streams or LMIA may be possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other assisting occupations in support of health services属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range?**
-答：Entry-level annual salary is around CAD 30,000-38,000, and experienced workers earn CAD 45,000-52,000.
-
-**问：Is this occupation good for immigration?**
-答：Not really. It rarely qualifies for Express Entry; only a few PNP low-skilled streams or LMIA may apply.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Accounting Clerk（Accounting Clerk）职业分析 · ES
+# Accounting Clerk — career analysis · Spain
 
-**职业代码：4111 – Accounting Clerk。**
+**Occupation code: 4111 (CNO)**
 
-Office support staff responsible for recording financial transactions, processing accounts, and preparing reports, performing daily accounting tasks in SMEs or finance departments.
+Office support personnel responsible for recording financial transactions, handling accounts, and preparing reports, and performing daily accounting work in SMEs or finance departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
-| 大学本科（Grado） | 4年 | $1,500~$8,000（公立大学每年约1500-3000欧元） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $0~$3,000 (Public schools offer free or low tuition) |
+| Undergraduate (Grado) | 4 years | $1,500~$8,000 (Public universities approximately 1,500-3,000 EUR per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 会计文员职业资格证书 | 西班牙教育部（MEFP） | 可选 | 通过FP Grado Superior获得，非强制但优先 |
-| 商科学位 | 西班牙大学 | 可选 | 替代FP，更有利于晋升 |
+| Accounting clerk professional qualification certificate | Spanish Ministry of Education (MEFP) | Optional | Obtained through FP Grado Superior, not mandatory but prioritized |
+| Business degree. | Spanish University | Optional | Replacing FPs is more advantageous for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 380,000。西班牙数字化和外包趋势下，基础会计文员需求稳定但增长缓慢；企业合规要求增加推动部分岗位需求，整体竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 380,000. Under the trends of digitalization and outsourcing in Spain, demand for basic accounting clerks remains stable but grows slowly; Increased compliance requirements drive demand for some positions, with overall competition moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual pre-tax salary |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从会计文员晋升为高级会计文员、会计主管，再通过深造成为会计师或财务分析师，或转向审计和税务领域。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will automate many data entry, reconciliation, and report generation tasks for bookkeepers, sharply reducing entry-level roles, but practitioners skilled in AI tools can transition to higher-value financial analysis roles.
+
+You can advance from accounting clerk to senior accounting clerk or accounting supervisor, then through Shenzhen Accounting to become an accountant or financial analyst, or transition into auditing and tax fields.
+
+**Tasks most exposed to AI:**
+
+- Manually entering transaction data from invoices or receipts.
+- Bank reconciliation and discrepancy adjustment
+- Generate standard financial statements (e.g., trial balance, profit and loss statement)
+- Classify and code repetitive expense items.
+- Regular accounts receivable and payable processing
+
+**Where AI augments the role:**
+
+- Using AI tools for abnormal transaction detection and alerting
+- Real-time financial analysis using automated dashboards
+- Predicts cash flow trends using machine learning models.
+- Automating month-end closing process and validating data integrity
+- Automatically convert unstructured data (e.g., PDF receipts) into structured entries.
+
+**Human moat:**
+
+- Explain complex financial anomalies and provide business advice
+- Communicate financial strategies with clients and management
+- Handling non-standard transactions and accounting judgments
+- Ensure compliance and audit requirements
+- Cross-departmental collaboration and integration of financial and operational data
+
+**Skills to build:**
+
+- Familiar with cloud accounting software such as QuickBooks Online, Xero
+- Proficiency in data analysis tools (e.g., advanced Excel, Power BI)
+- Learn basics of robotic process automation (RPA)
+- Understand basic data modelling and SQL queries
+- Obtain relevant certifications (e.g., CPA, CMA)
+- Developing skills in financial report interpretation and data visualization
+
+**Key growth areas:**
 
 - Digitalization
 - Compliance
@@ -61,67 +97,66 @@ Office support staff responsible for recording financial transactions, processin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Contracted Employment)） | 由西班牙雇主担保的工作居留，适用于非欧盟申请人，需工作合同且符合最低薪资要求。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 高技能专业人员签证，要求年薪约40,000欧元以上，会计文员通常不达此标准。 |
+| Subclass Cuenta ajena (Work Permit (Contracted Employment)) | Work residency sponsored by Spanish employers is available to non-EU applicants, requires a work contract, and meets minimum wage requirements. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | High-skilled professional visa requires annual salary around €40,000+; accounting clerks usually do not meet this threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Accounting Clerk？**
-- 注重细节、有条理的细致型人才
-- 希望在财务领域起步的应届生或转行者
-- 偏好稳定办公室工作、非高压环境者
-
-**谁不适合学Accounting Clerk？**
-- 追求高薪和快速晋升的进取型人才
-- 厌恶重复性记账工作、易感枯燥者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, well-organized, and meticulous talents
+- Fresh graduates or career changers hoping to start in the finance field
+- Preference for stable office work and non-high-pressure environments
+
+**Who is not suited**
+- Enterprising talents who pursue high salaries and rapid promotion
+- Dislikes repetitive bookkeeping and tends to be easily bored
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for accounting clerks in Spain?**
+A: The entry-level annual salary is about 18,000-22,000 euros, the intermediate salary about 22,000-28,000 euros, and the senior salary can reach up to 35,000 euros.
+
+**Q: Can non-EU individuals immigrate to Spain through accounting clerk positions?**
+A: Yes, you need a Spanish employer-sponsored work residence application (Cuenta ajena); The high-skilled visa is usually not applicable due to the salary threshold.
+
+**Q: What educational qualifications are required to become an accounting clerk?**
+A: Usually requires FP Grado Superior (2 years) or a bachelor's degree in business from a university; FP is more hands-on in practice, while undergraduate programs are more beneficial for long-term development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Accounting Clerk的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for accounting clerks in Spain?**
-答：Entry-level salary is around €18,000-22,000, mid-level €22,000-28,000, senior up to €35,000.
-
-**问：Can non-EU nationals immigrate to Spain as an accounting clerk?**
-答：Yes, through employer-sponsored work permit (Cuenta ajena); the highly skilled visa is rarely applicable due to salary threshold.
-
-**问：What education is needed to become an accounting clerk?**
-答：Typically a FP Grado Superior (2 years) or a university degree in business; FP is more practical, while a degree helps with career advancement.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

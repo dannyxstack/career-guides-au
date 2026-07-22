@@ -1,59 +1,91 @@
-# Betting Sales Employees（Betting Sales Employees）职业分析 · ES
+# Betting Sales Employees — career analysis · Spain
 
-**职业代码：4442 – Betting Sales Employees。**
+**Occupation code: 4442 (CNO)**
 
-Sell lottery tickets, accept bets, pay out winnings, and maintain records at betting establishments.
+Responsible for selling lottery tickets, accepting bets, paying prizes, and maintaining records at gambling venues (such as betting shops and casinos).
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 不要求正式教育 | 无 | —（通常接受短期在职培训） |
-| FP Básico（基础职业培训） | 2年 | —（公立学校免费或少量注册费） |
+| No formal education is required | None | $0~$0 (Usually includes short-term on-the-job training) |
+| FP Básico (Basic Vocational Training) | 2 years | $0~$600 (Public schools offer free or a small registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 岗位培训证书 | 雇主 | 必备 | 由雇主提供，通常包括游戏规则、现金处理、客户服务等 |
+| Job training certificate | Employer | Required | Provided by employers, it usually includes game rules, cash handling, customer service, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。西班牙博彩业体量较大，但线上平台增长对实体岗位造成压力，整体岗位数量稳定，进入门槛低，流动性高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Spain's gaming industry is relatively large, but the growth of online platforms puts pressure on physical positions. The overall number of positions is stable, entry barriers are low, and liquidity is high.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 税前年薪，含餐补等 |
-| 中级（3-6年） | $19,000~$22,000 | 税前年薪 |
-| 高级（6年以上） | $22,000~$26,000 | 税前年薪，如晋升主管 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Pre-tax annual salary, including meal allowance, etc |
+| Mid-level (3–6 years) | $19,000~$22,000 | Annual pre-tax salary |
+| Senior (6+ years) | $22,000~$26,000 | Pre-tax annual salary, such as promotion to supervisor |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 无明确晋升路径，可转向收银主管或博彩区经理，或通过获得FP文凭进入赌场管理岗。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The work of gaming salespeople is highly standardized and digitalized; AI and automation will largely replace manual work, leading to a significant reduction in positions, lowering entry barriers, but disappearing high-paying opportunities.
+
+There is no clear promotion path; you can move to cashier supervisor or gaming area manager, or enter casino management positions by obtaining an FP diploma.
+
+**Tasks most exposed to AI:**
+
+- Bets can be placed via self-service betting machines or online platforms, with no human intervention required
+- Automatically calculates winnings, verifies winning tickets, and pays out prizes
+- Automatically generate and maintain betting and payment records
+- Customer identity verification and age checks are automatically completed by the AI system
+
+**Where AI augments the role:**
+
+- AI analyzes betting data to assist salespeople in providing personalized recommendations to customers
+- Real-time risk monitoring tools help identify problematic gambling behaviors
+- Augmented reality interfaces enhance in-store experience and increase customer engagement
+- The intelligent system automatically processes compliance reports, reducing paperwork for salespeople
+
+**Human moat:**
+
+- Handling complex customer complaints or disputes requires empathy and judgment
+- Building trust and personalized service in high-value customer relationships
+- Understand local gambling regulations and policies, and provide compliance advice
+- Manual operation in emergencies or non-standard situations (such as system failures).
+
+**Skills to build:**
+
+- Master the operation and maintenance of self-service betting machines and payment systems
+- Learn basic data analytics and Customer Relationship Management (CRM) systems
+- Enhance communication and conflict resolution skills to handle high-risk clients
+- Familiar with online gambling platforms and mobile applications
+- Learn about responsible gambling practices and customer protection policies
+
+**Key growth areas:**
 
 - Stable
 - Gaming industry
@@ -62,63 +94,65 @@ Sell lottery tickets, accept bets, pay out winnings, and maintain records at bet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 需要雇主担保，但此职业不符合高技能要求，通常只适用于已有合法身份的人。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Employer sponsorship is required, but this profession does not meet the high-skill requirements and is usually only suitable for those with legal status. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Betting Sales Employees？**
-- 喜欢与人打交道、处理现金
-- 希望在低门槛岗位短期就业
+**Who is suited**
+- Enjoy interacting with people and handling cash
+- Those hoping to find short-term employment in low-threshold positions
 
-**谁不适合学Betting Sales Employees？**
-- 寻求高收入和职业发展
-- 不擅长夜间和轮班工作
+**Who is not suited**
+- Seek high income and career development
+- Not good at night or shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for gaming salespeople?**
+A: Entry-level annual salary approx. EUR 16,000-19,000, senior up to EUR 26,000, but growth potential is limited.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It is almost impossible; this profession does not meet the requirements for high-skilled immigration and does not require academic qualifications.
+
+**Q: What certificates are needed?**
+A: Usually, only on-the-job training from the employer is required, with no nationwide unified certification requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Betting Sales Employees属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for betting sales employees?**
-答：Entry-level annual salary is around €16,000-€19,000, senior up to €26,000 but growth is limited.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Almost impossible, as it does not meet high-skilled immigration criteria and requires no formal education.
-
-**问：What certifications are required?**
-答：Usually only on-the-job training from the employer, no national certification required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

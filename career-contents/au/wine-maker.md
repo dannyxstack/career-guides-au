@@ -1,59 +1,93 @@
-# Wine Maker（Wine Maker）职业分析 · 澳大利亚
+# Wine Maker — career analysis · Australia
 
-**职业代码：234213 – Wine Maker。**
+**Occupation code: 234213 (ANZSCO)**
 
-Wine Makers manage the entire winemaking process from grape harvesting, fermentation, aging to bottling, ensuring wine quality and style. They combine scientific knowledge with artistic taste, playing a key role in Australia's wine industry.
+A winemaker manages the entire wine production process from grape harvesting, fermentation, aging to bottling, ensuring wine quality and style. Requires a combination of scientific knowledge and artistic taste, playing a core role in the Australian wine industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（如阿德莱德大学酿酒学本科，国际生年学费约3-4.5万澳元） |
-| 硕士 | 1.5-2年 | $35,000~$50,000（如阿德莱德大学葡萄酒商科硕士，总学费约5-8万澳元） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (E.g., University of Adelaide winemaking bachelor's: international student tuition approx. AUD 30,000-45,000/year) |
+| Master's degree | 1.5-2 years | $35,000~$50,000 (For example, University of Adelaide Master of Wine Business, total tuition about A$50,000-$80,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酿酒学或相关科学学位 | 大学 | 必备 | 通常要求葡萄栽培与酿酒学学士或相关科学学位 |
-| VET酿酒文凭 | TAFE | 可选 | 部分从业者通过TAFE酿酒文凭入行 |
-| 技能评估 | VETASSESS | 必备 | 技术移民需通过VETASSESS Group B评估 |
+| Degree in oenology or related science | University | Required | Typically requires a Bachelor's degree in Viticulture and Oenology or a related science degree |
+| Skills assessment | VETASSESS | Required | Skilled migration requires assessment through VETASSESS Group B |
+| VET Diploma of Wine Making | TAFE | Optional | Some practitioners enter the industry through a TAFE winemaking diploma |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。澳大利亚葡萄酒产业持续增长，出口需求稳定，尤其高档葡萄酒市场扩大。酿酒师在巴罗莎、猎人谷等产区需求稳定，但竞争激烈。预计未来五年就业增长温和。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Australia's wine industry continues to grow with stable export demand, especially in the premium wine market. Winemakers are in steady demand in regions like Barossa and Hunter Valley, but competition is strong. Employment growth is expected to be moderate over the next five years.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 助理酿酒师或酿酒师助理 |
-| 中级（3-8年） | $65,000~$90,000 | 酿酒师 |
-| 高级（8年以上） | $90,000~$130,000 | 首席酿酒师或酒厂经理 |
+| Median salary | $114,088 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Assistant Winemaker or Winemaker Assistant |
+| Mid-level (3–8 years) | $65,000~$90,000 | Winemaker |
+| Senior (8+ years) | $90,000~$130,000 | Head Winemaker or Winery Manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级酿酒师可晋升为高级酿酒师、首席酿酒师，或转向酒庄管理、葡萄酒咨询、出口市场营销等岗位。积累经验后也可创立自有品牌。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core sensory tasting and blending decisions of winemakers are not easily replaced by AI, but repetitive tasks such as data collection and quality monitoring will be automated, making this a mixed-blessing occupation.
+
+Entry-level winemakers can advance to senior winemaker, head winemaker, or transition to winery management, wine consulting, export marketing, etc. With experience, they can also start their own brands.
+
+**Tasks most exposed to AI:**
+
+- Monitor fermentation parameters like temperature and sugar levels: repetitive data recording and alarm response
+- Quality grading and basic screening based on historical data
+- Inventory management and automated wine cellar handling scheduling
+- Standardized testing of physicochemical indicators such as alcohol content and acidity
+
+**Where AI augments the role:**
+
+- Utilizing sensor data and machine learning to optimize fermentation paths and blend recipes
+- Using AI to analyze grape quality spectral data to assist harvest decisions
+- Use digital twins to simulate the impact of different aging conditions on flavor.
+- Automatically generate production reports and provide real-time anomaly diagnosis suggestions.
+- Using image recognition to automatically assess grape ripeness and damage
+
+**Human moat:**
+
+- Artistic decision-making in sensory evaluation and flavor blending
+- Cross-departmental collaboration with grape growers and sales teams
+- Flexible experience in dealing with sudden climate events and pests
+- Brand story creation and customer experience innovation
+
+**Skills to build:**
+
+- Data analysis (Python/R for fermentation modeling)
+- Sensor and IoT device management
+- Operation and maintenance of automated brewing equipment
+- Fundamentals of vineyard remote sensing and image recognition
+- Application of digital twin simulation software
+- Knowledge of sustainable brewing and carbon footprint management
+
+**Key growth areas:**
 
 - Premium wine export
 - Sustainable winemaking
@@ -62,69 +96,68 @@ Wine Makers manage the entire winemaking process from grape harvesting, fermenta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于MLTSSL职业，无需州担保，可直接永居 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，南澳、西澳等葡萄酒产区有额外优势 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保工作签证，后续可转186永居 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保临时签证，满足条件转191永居 |
+| Subclass 189 (Skilled Independent Visa) | Applicable to MLTSSL occupations, no state nomination required, direct permanent residency |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination; South Australia, Western Australia and other wine regions have additional advantages |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored work visa, can later transition to 186 permanent residency. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional State Sponsored Temporary Visa, eligible to transfer to 191 Permanent Residence upon meeting conditions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wine Maker？**
-- 热爱葡萄酒文化和酿造工艺，具备科学背景和耐心
-- 愿意在产区生活，适应季节性高强度工作（如采收季）
-- 有创业精神，未来可能建立自有酒庄或品牌
-
-**谁不适合学Wine Maker？**
-- 对长期在乡村或偏远地区工作感到不适应者
-- 无法承受采收季长时间体力劳动和压力者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about wine culture and winemaking, with a scientific background and patience.
+- Willing to live in the production area and adapt to seasonal high-intensity work (e.g., harvest season).
+- Entrepreneurial spirit, possibly establishing own winery or brand in the future
+
+**Who is not suited**
+- Those uncomfortable with long-term rural or remote work
+- Those unable to endure long hours of physical labour and stress during harvest season
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for brewers?**
+A: Junior winemaker salary approx. AUD 50,000-65,000, mid-level AUD 65,000-90,000, senior/head winemaker up to AUD 90,000-130,000. Salary varies greatly by winery size and region.
+
+**Q: How do winemakers immigrate to Australia?**
+A: Winemaker is on the MLTSSL, eligible for 189 Skilled Independent visa, 190 State Nominated (South Australia, Western Australia, etc.), 482 Employer Sponsored, or 491 Regional visa. Requires VETASSESS skills assessment.
+
+**Q: What are the career development paths for a winemaker?**
+A: Can advance from assistant winemaker to winemaker, chief winemaker, or move into winery management, wine consulting, export marketing etc. After gaining experience, can also start own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Wine Maker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Wine Maker?**
-答：Entry-level Wine Makers earn around AUD 50,000-65,000, mid-level AUD 65,000-90,000, and senior chief winemakers can earn AUD 90,000-130,000. Salary varies by winery size and region.
-
-**问：How can a Wine Maker migrate to Australia?**
-答：Wine Maker is on the MLTSSL, eligible for 189 Skilled Independent, 190 State Nomination (e.g., SA, WA), 482 Employer Sponsorship, or 491 Regional visas. Requires VETASSESS skills assessment.
-
-**问：What are the career progression paths for a Wine Maker?**
-答：Progression from assistant winemaker to winemaker, chief winemaker, or into winery management, wine consulting, export marketing. Experienced winemakers may start their own label.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Beautician and Related Worker（Beautician and Related Worker）职业分析 · IT
+# Beautician and Related Worker — career analysis · Italy
 
-**职业代码：5142 – Beautician and Related Worker。**
+**Occupation code: 5142 (ISCO08)**
 
-Beauticians provide facial treatments, makeup, nail care, and hairdressing services, working in beauty salons, spas, and hair salons, requiring good customer service skills.
+Beauticians provide facial treatments, makeup, nail care, hairstyling, and other services, primarily working in beauty salons, spas, and salons. They must have good customer service skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训证书 | 1年 | $2,000~$5,000（公立或私立培训机构） |
-| 高中后专业课程 | 2年 | $4,000~$10,000（私立美容学校） |
+| Vocational training certificate | 1 year | $2,000~$5,000 (Public or private training institutions) |
+| Post-secondary vocational courses | 2 years | $4,000~$10,000 (Private beauty schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美容师资格证书 | 地区卫生局 | 必备 | 强制要求，证明基本技能 |
-| 美甲师证书 | 私人认证机构 | 可选 | 非强制，但增强竞争力 |
-| 卫生与安全培训 | 地方卫生部门 | 必备 | 强制，涉及消毒和卫生规范 |
+| Beautician qualification certificate | Regional health authority | Required | Mandatory requirement, proof of basic skills |
+| Health and safety training | Local Health Department | Required | Mandatory, involves disinfection and hygiene standards |
+| Nail technician certificate | Private certification body | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。意大利美容行业受旅游业和本地消费驱动，预计未来五年需求稳定增长，但受经济波动影响，就业机会主要集中在城市地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Italy's beauty industry is driven by tourism and local consumption, with steady demand growth expected over the next five years, but affected by economic fluctuations, job opportunities are mainly concentrated in urban areas.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 税前年薪 |
-| 中级（3-7年） | $20,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$40,000 | 税前年薪，店长或自雇收入更高 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$20,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$40,000 | Pre-tax annual salary; store managers or self-employed individuals earn higher incomes. |
+| average salary | $25,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 美容师可从初级技师晋升为高级美容师、店长或自主创业开设美容院。持续培训和学习新技术有助于职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core manual services of beauticians (e.g., facial treatments) are hard to replace by AI in the short term, but peripheral tasks like consultation, booking, and marketing are being streamlined by AI tools; entry-level roles face increased competition due to AI.
+
+Beauticians can progress from junior technician to senior beautician, store manager, or start their own beauty salon. Continuous training and learning new skills aid career development.
+
+**Tasks most exposed to AI:**
+
+- Customer consultation and appointment scheduling (AI chatbot)
+- Product recommendations and sales scripts (AI-based personalized recommendations).
+- Basic skincare regimen design (AI skin analysis tool)
+- social media marketing content generation (AI copywriting and image generation)
+- Customer profile management and follow-up (AI customer relationship management system)
+
+**Where AI augments the role:**
+
+- Skin analysis and diagnosis (AI skin scanner provides precise data)
+- Personalised care plan design (AI recommends product combinations based on big data)
+- Service process optimization (AI scheduling and booking system improves efficiency).
+- Skills teaching and training (AI simulator assists in learning new skills)
+- Customer feedback analysis and service improvement (AI sentiment analysis tools)
+
+**Human moat:**
+
+- Handcraft skills (e.g., fine makeup, massage techniques)
+- Customer trust and emotional connection (interpersonal interaction is irreplaceable)
+- Immediate judgment and flexible adjustment to individual customer needs.
+- Creative and aesthetic skills (e.g., personalized styling design)
+
+**Skills to build:**
+
+- AI skin analysis tool operation (e.g., skin scanner).
+- Foundations of customer data analysis (using AI tools to optimise services)
+- Digital marketing skills (social media management and content creation)
+- Virtual consultation and remote service capabilities
+- Continuous learning of new beauty techniques and product knowledge
+- Enhance communication and emotional intelligence
+
+**Key growth areas:**
 
 - Beauty Industry Growth
 - Spa Tourism
@@ -62,68 +97,67 @@ Beauticians provide facial treatments, makeup, nail care, and hairdressing servi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人才，美容师通常不满足高技能要求，但若持有管理职位可能适用 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，美容行业通常列入配额，需雇主担保 |
-| Subclass 自由职业者签证（Freelance Visa） | 适用于自雇美容师，需证明足够收入和专业技能 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for highly skilled non-EU talent; beauticians typically do not meet high-skill requirements, but may qualify if holding a management position |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers; beauty industry is usually included in the quota, requiring employer sponsorship |
+| Subclass Freelance Visa (Freelance Visa) | Applies to self-employed beauticians, requiring proof of sufficient income and professional skills |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Beautician and Related Worker？**
-- 对美容有热情，注重细节
-- 善于沟通，有客户服务意识
-- 愿意持续学习新技术
-
-**谁不适合学Beautician and Related Worker？**
-- 对化学产品敏感或过敏
-- 无法接受长时间站立工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about beauty, detail-oriented
+- Good communication skills with customer service awareness
+- Willingness to continuously learn new technologies
+
+**Who is not suited**
+- Sensitive or allergic to chemical products
+- Unable to tolerate prolonged standing work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Italian beauticians?**
+A: Junior beauticians earn about 15,000-20,000 EUR per year, seniors up to 28,000-40,000 EUR; self-employed income is higher but more volatile.
+
+**Q: How can non-EU citizens immigrate to Italy as beauticians?**
+A: Mainly through Decreto Flussi work visa, requiring employer sponsorship and meeting annual quotas. Freelancer visa also possible but needs proof of sufficient clients and income.
+
+**Q: What qualifications are needed to work as a beautician in Italy?**
+A: Must obtain a beautician qualification certificate issued by the regional health bureau and complete hygiene and safety training. Private certifications such as nail technician certificates can increase employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Beautician and Related Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for beauticians in Italy?**
-答：Entry-level beauticians earn around €15,000-20,000 annually, while senior beauticians can earn €28,000-40,000. Self-employed beauticians may earn more but with higher variability.
-
-**问：How can non-EU citizens immigrate to Italy as a beautician?**
-答：Primarily through the Decreto Flussi work visa, requiring employer sponsorship and meeting annual quotas. Alternatively, a freelance visa is possible but requires proof of sufficient clients and income.
-
-**问：What qualifications are needed to work as a beautician in Italy?**
-答：A beautician license from the regional health authority is mandatory, along with health and safety training. Optional certifications like nail technician can enhance employability.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

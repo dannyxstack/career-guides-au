@@ -1,60 +1,91 @@
-# Train Driver（Train Driver）职业分析 · FR
+# Train Driver — career analysis · France
 
-**职业代码：N4301 – Train Driver。**
+**Occupation code: N4301 (ROME)**
 
-Operates passenger or freight trains, ensuring safe and punctual travel while adhering to signals and dispatch instructions.
+Responsible for driving passenger or freight trains, ensuring safe and punctual operation, and following signals and dispatch instructions.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业后培训 | 1年（内部培训） | —（SNCF或私营公司提供带薪培训） |
-| BTS或同等学历 | 2年（BTS） | $5,000~$15,000（少数私立学校提供相关课程） |
+| Training after high school graduation | 1 year (internal training) | $0~$0 (SNCF or private companies offer paid training) |
+| BTS or equivalent education | 2 Years (BTS) | $5,000~$15,000 (A few private schools offer related courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 火车司机驾驶证（Titre de conduite） | EPSF（法国铁路安全局） | 必备 | 必须通过体检、心理测试和理论/实践考试 |
-| 铁路信号与安全培训 | 雇主 | 必备 | 获证后每两年复训 |
+| Train Driver's License (Titre de conduite) | EPSF (French Railway Safety Agency) | Required | You must pass a medical examination, psychological test, and theoretical/practical exams |
+| Railway signaling and safety training | Employer | Required | After certification, retraining is conducted every two years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国铁路网持续现代化，SNCF和私营运营商对火车司机需求稳定，预计未来十年岗位数保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's railway network continues to modernize, with stable demand for train drivers from SNCF and private operators, and job openings are expected to remain steady over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 税前年薪，含津贴 |
-| 中级（4-10年） | $38,000~$45,000 | 税前年薪，含加班和夜班补贴 |
-| 高级（10年以上） | $48,000~$55,000 | 税前年薪，包括高级司机奖金 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | Annual pre-tax salary, including allowances |
+| Mid-level (4-10 years). | $38,000~$45,000 | Pre-tax annual salary, including overtime and night shift allowances |
+| Senior (10+ years) | $48,000~$55,000 | Pre-tax annual salary, including senior driver bonuses |
+| average salary | $30,120 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理司机晋升为司机长，或转向调度、培训等岗位；需通过内部培训和考试。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Train drivers' work is mixed with AI-driven automation: routine monitoring and speed adjustment can be automated, but responsibilities such as handling sudden faults, assessing complex road conditions, and collaborating with dispatchers still require human responsibility.
+
+Drivers can be promoted from assistant drivers to chief drivers, or move to positions such as dispatching or training; Internal training and examinations are required.
+
+**Tasks most exposed to AI:**
+
+- Real-time speed adjustment and braking operation
+- Routine signal monitoring and confirmation
+- Acceleration and deceleration control under the automatic train operation system
+
+**Where AI augments the role:**
+
+- The driver's cab integrated information system assists decision-making
+- The AI early warning system predicts track obstacles in advance
+- Intelligent scheduling system optimizes operation chart adjustments
+
+**Human moat:**
+
+- Emergency response to sudden accidents (such as derailment and fire)
+- Manual judgment and decision-making during severe weather
+- Communicate and coordinate non-standard with dispatchers and maintenance teams
+- Legal liability in abnormal circumstances
+
+**Skills to build:**
+
+- Operation and monitoring of train automation systems
+- Fault diagnosis and rapid response capabilities
+- Non-technical Decision-Making Capability (Crisis Communication)
+- Basic data analysis and report writing
+- Continuously learn new regulations and safety standards
+- Multitasking management (monitoring multiple systems simultaneously)
+
+**Key growth areas:**
 
 - Railway modernization
 - High-speed rail expansion
@@ -63,62 +94,64 @@ Operates passenger or freight trains, ensuring safe and punctual travel while ad
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 适用于已获法国雇主工作合同的外国人，需证明无欧盟候选人 |
-| Subclass Recherche emploi（Recherche d'emploi） | 毕业生居留，可在法求职一年 |
+| Subclass Salarié (Salarié) | For foreigners who have obtained an employment contract with a French employer; requires proof that no EU candidate is available |
+| Subclass Recherche emploi (Recherche d'emploi) | Graduate residence permit allows job searching in France for one year. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Train Driver？**
-- 注重安全、纪律性强的人
-- 能适应轮班和不规律作息的人
-- 对铁路技术感兴趣的人
+**Who is suited**
+- People who value safety and have strong discipline
+- People who can adapt to shift work and irregular routines
+- People interested in railway technology
 
-**谁不适合学Train Driver？**
-- 不能接受长时间独处工作的人
-- 对严格时间表压力敏感的人
+**Who is not suited**
+- People who cannot accept working alone for long periods
+- People sensitive to strict schedules
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for train drivers in France?**
+A: Entry-level around €30,000, mid-level €40,000, senior up to €55,000 gross annual salary.
+
+**Q: Can foreigners become train drivers in France?**
+A: It is very difficult, requiring a French driver's license and language skills, and railway companies prioritize EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Train Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a train driver in France?**
-答：Entry-level around €30,000, mid-career €40,000, senior up to €55,000 gross annual.
-
-**问：Can a foreigner become a train driver in France?**
-答：Very difficult; requires French license and language skills, and companies prioritize EU citizens.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

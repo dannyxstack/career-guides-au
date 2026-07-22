@@ -1,69 +1,99 @@
-# 律师（事务律师）（Solicitor）职业分析 · 澳大利亚
+# Solicitor / Lawyer — career analysis · Australia
 
-**职业代码：271311 – Solicitor。**
+**Occupation code: 271311 (ANZSCO)**
 
-律师（Solicitor）为客户提供法律建议、合同起草、争议解决和法庭代理服务，覆盖商业法、房产、家庭、劳动法和刑事等多个法律领域。澳洲法律市场虽竞争激烈，但商业法（特别是科技/AI/能源转型方向）的律师和公司内部法律顾问（In-house Counsel）需求旺盛，是高门槛高薪资的顶级专业职业。
+A Solicitor provides clients with legal advice, contract drafting, dispute resolution, and court representation services, covering areas such as commercial law, property, family, employment, and criminal law. While the Australian legal market is highly competitive, demand is strong for lawyers in commercial law (particularly in technology/AI/energy transition) and in-house counsel roles, making it a top-tier profession with high entry barriers and strong remuneration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| LLB / JD 法律学位（3~4年） | LLB 4~5年（本科），或 JD 3年（研究生） | $35,000~$220,000（是澳洲律师资格的基本学历要求；国际生费用约 $35,000~$55,000/年） |
-| PLT（Practical Legal Training）实习培训 | 6~12个月 | $3,000~$15,000（完成学位后必须完成PLT+受监督执业期方可注册律师；费用约 $3,000~$8,000） |
-| 律师注册（Admission to the Bar） | 1~3个月申请 | $500~$2,000（向各州最高法院申请律师注册，是合法执业的法律要求） |
-| VETASSESS 技能评估（189/190签证） | 2~6个月 | $600~$2,000（技术移民必须（使用VETASSESS评估海外法律学历）；注意澳洲法律资格认证门槛高） |
+| LLB / JD law degree (3–4 years) | LLB 4–5 years (undergraduate), or JD 3 years (postgraduate) | $35,000~$220,000 (The fundamental academic requirement for an Australian practising certificate; international student tuition approx. $35,000–$55,000/year) |
+| PLT (Practical Legal Training) placement | 6–12 months | $3,000~$15,000 (After completing a law degree, PLT and a supervised practice period must be completed before admission as a solicitor; costs approximately $3,000–$8,000) |
+| Admission to the Bar | 1–3 months to apply | $500~$2,000 (Applying to the Supreme Court of each state for admission as a lawyer is a legal requirement for lawful practice.) |
+| VETASSESS skills assessment (189/190 visa) | 2–6 months | $600~$2,000 (Required for skilled migration (overseas law qualifications must be assessed by VETASSESS); note that the threshold for recognising Australian legal qualifications is high) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Admission to Practice（律师注册） | 各州最高法院（Supreme Court） | 必备 | 澳洲合法执业律师的法律要求，是所有律师的基础执照 |
-| Practising Certificate（执业证书） | 各州律师协会（Law Society / Law Institute） | 必备 | 每年更新的执业证书，是澳洲律师执业的法律要求 |
-| Accredited Specialist（认证专家） | 各州律师协会 | 可选 | 在特定法律领域（商业法/家庭法等）的专业认证，提升信誉和薪资 |
-| VETASSESS 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须（海外法律学历评估） |
+| Admission to Practice (lawyer registration) | State Supreme Courts | Required | The legal requirement to practise law in Australia; the foundational licence for all lawyers |
+| Practising Certificate | State-based Law Societies / Law Institutes | Required | An annually renewed practising certificate is a legal requirement for practising as a lawyer in Australia |
+| Accredited Specialist | State law societies | Optional | Specialist accreditation in a particular area of law (commercial law, family law, etc.), enhancing credibility and salary |
+| VETASSESS skills assessment | VETASSESS | Optional | Mandatory for 189/190 skilled migration visa (overseas law qualification assessment) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 90,000。JSA预测律师至2035年就业增长约8%。AI监管法、数据隐私法（Privacy Act改革2025）和能源转型法律咨询是2025-2030年增长最快的法律专业方向。
+**Job demand: high (★★★★☆).** National workforce approx. 90,000. JSA projects lawyer employment to grow by approximately 8% by 2035. AI regulation law, data privacy law (Privacy Act reform 2025), and energy transition legal advisory are the fastest-growing legal practice areas from 2025 to 2030.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~6,000 个 | 全国，含律师、法律顾问、内部法律顾问和合规官岗 |
-| Indeed | 1,500~4,000 个 | 含律所、政府法律部门和大型企业法律团队岗 |
-| LinkedIn | 3,000~8,000 个 | 律所直招和顶级法律猎头 |
-
-**竞争度：很高（★★★★☆）。**
-**工作强度：极高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业律师 / 首年律师（0~2年） | $70,000~$95,000 | 顶级律所（MinterEllison/Clayton Utz/Allens）毕业律师起薪 |
-| 执业律师（2~7年） | $90,000~$130,000 | SEEK 区间 $95k~$115k；Indeed 均值 $113,923（2026） |
-| 高级律师 / Senior Associate（7~12年） | $130,000~$200,000 | 顶级律所高级律师，含可能的合伙人路径加速分红 |
-| 合伙人 / 公司内部总法律顾问（12年+） | $200,000~$600,000 | 顶级律所合伙人或大型上市公司General Counsel，含分红 |
+| Median salary | $107,640 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate / First-Year Lawyer (0–2 years) | $70,000~$95,000 | Graduate lawyer starting salary at top-tier firms (MinterEllison/Clayton Utz/Allens) |
+| Practising Lawyer (2–7 years) | $90,000~$130,000 | SEEK range $95k–$115k; Indeed average $113,923 (2026) |
+| Senior Lawyer / Senior Associate (7–12 years) | $130,000~$200,000 | Senior lawyer at a top-tier firm, including accelerated profit-sharing on a potential partnership track |
+| Partner / General Counsel (12+ years) | $200,000~$600,000 | Partner at a top-tier law firm or General Counsel at a large listed company, including profit sharing |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 科技法律（Technology Law）和AI监管咨询是2025年澳洲法律行业增速最快的专精方向，各大科技公司和政府机构急需科技律师。Privacy Act 2025改革推动对数据隐私律师的强劲需求。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
+
+Technology Law and AI regulatory advisory are the fastest-growing specialisations in the Australian legal industry in 2025, with major tech companies and government agencies urgently seeking technology lawyers. The Privacy Act 2025 reforms are driving strong demand for data privacy lawyers.
+
+**Tasks most exposed to AI:**
+
+- Legal document review and due diligence (AI can quickly scan large volumes of contracts)
+- Legal research and case study (AI can precisely locate relevant statutes and precedents)
+- Basic contract drafting and template generation (AI auto-generates first draft from parameters)
+- Electronic Discovery and Data Organization (AI-Automated Classification and Tagging of Evidence)
+- Compliance monitoring and regulatory update tracking (AI continuously monitors regulatory changes)
+
+**Where AI augments the role:**
+
+- Complex legal analysis and strategy formulation (AI provides data support, lawyers make professional judgments)
+- Client consultation and relationship management (AI-assisted initial screening, lawyers focus on human communication)
+- Trial preparation and mock debates (AI predicts opposing arguments, helping lawyers rehearse)
+- Legal risk prediction and quantification (AI analyzes historical data, lawyers identify key risks)
+- Cross-domain knowledge integration (AI quickly integrates non-legal information, e.g., technology, finance)
+
+**Human moat:**
+
+- Court defense and negotiation skills (human emotional intelligence and on-the-spot adaptability irreplaceable)
+- Complex Ethical Judgment and Professional Responsibility (AI Cannot Assume Legal Liability)
+- Long-term trust relationships and customer loyalty (based on personal connections and reputation)
+- Creative legal strategies and case breakthroughs (require human experience and intuition)
+- Cross-cultural communication and empathy (critical in family law and immigration law)
+
+**Skills to build:**
+
+- Use of AI legal tools (e.g., Kira Systems, ROSS Intelligence)
+- Data analysis and legal technology (Python basics, legal statistics)
+- Interdisciplinary knowledge (tech law, data privacy law, energy law)
+- Advanced negotiation and communication skills
+- Project management and team collaboration
+- Business acumen and client development
+
+**Key growth areas:**
 
 - Technology Law & AI Regulation
 - Cybersecurity & Data Privacy Law
@@ -73,90 +103,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，律所可担保有本地化评估路径的候选人 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，VETASSESS评估（注意澳洲法律资格认证较复杂） |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; law firms can sponsor candidates with a localised assessment pathway |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; VETASSESS assessment applies (note that Australian legal qualification recognition is relatively complex) |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR难度：很高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学律师（事务律师）？**
-- 持有法律学位（LLB/JD/相当学历）并已在澳洲完成PLT+律师注册
-- 英语法律写作能力极强（IELTS 8.0+，商业法律文件和合同要求高）
-- 有商业法/科技法/能源转型法律方向专精（薪资溢价最高）
-- 目标是大型商业律所（MinterEllison/Allens/Herbert Smith Freehills）或上市公司In-house Counsel
-- 有中国国际业务法律背景（中澳交叉法律业务是独特优势）
-
-**谁不适合学律师（事务律师）？**
-- 英语法律写作能力不足以撰写复杂英语合同和法律意见书
-- 无意愿承担顶级律所的高强度工作文化（60~80小时/周）
-- 海外法律学历评估路径不明确，无意进行本地化认证补充学习
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a law degree (LLB/JD or equivalent) and has completed PLT and been admitted as a lawyer in Australia
+- Exceptionally strong legal writing skills in English (IELTS 8.0+; high standards required for commercial legal documents and contracts)
+- Specialisation in commercial law / technology law / energy transition law (highest salary premium)
+- Targeting large commercial law firms (MinterEllison / Allens / Herbert Smith Freehills) or listed company in-house counsel roles
+- Background in Chinese international business law (cross-jurisdictional Australia–China legal work is a distinctive advantage)
+
+**Who is not suited**
+- Insufficient English legal writing skills to draft complex contracts and legal opinions
+- No desire to take on the high-intensity work culture of top-tier law firms (60–80 hours per week)
+- The overseas legal qualification assessment pathway is unclear, with no intention of undertaking supplementary localisation study or recognition
+
+---
+
+## 8. FAQ
+
+**Q: How much do lawyers earn in Australia?**
+A: Practising solicitors earn approximately $90,000–$130,000 (Indeed average $113,923; SEEK $95k–$115k); Senior Associates earn approximately $130k–$200k; Partners/General Counsel earn approximately $200k–$600k.
+
+**Q: Is it easy to find work as a lawyer in Australia?**
+A: Overall moderate difficulty, but varies greatly by specialization. Tech law, data privacy law, and energy transition lawyers are in high demand; family law and criminal law roles are more competitive. Seek lists about 2,000-6,000 positions.
+
+**Q: Is a Chinese law qualification recognised in Australia?**
+A: Complex. A Chinese law qualification requires a VETASSESS skills assessment and may also require additional Australian law coursework (typically a Graduate Diploma of Australian Law). After completion, you must still apply for Admission to the Bar. It is recommended to pursue a JD (Juris Doctor) through an Australian university to obtain local qualifications directly.
+
+**Q: Will lawyers be replaced by AI?**
+A: Partial impact. AI (Harvey AI/Clio/LexisNexis AI) can already automate initial contract review and legal research, affecting junior lawyers' workloads; however, courtroom strategy, negotiation skills, complex legal judgement and client relationships remain completely irreplaceable. AI has actually increased demand for technology lawyers (those regulating AI itself).
+
+**Q: Is there an age limit to become a lawyer in Australia?**
+A: None. Senior partners (aged 40–60) are the most valuable assets at law firms. There is also no age barrier to entering the legal profession — some people complete a JD after the age of 40 and go on to practise successfully. However, the return on investment should be carefully evaluated.
+
+**Q: What qualifications do you need to become a lawyer in Australia?**
+A: An Australian-recognised law degree (LLB/JD) + PLT + admission to the bar. Overseas legal qualifications require additional assessment; it is generally recommended to obtain local qualifications through an Australian university JD program (typically a 2-year accelerated program).
+
+**Q: Is it difficult to get recognised as a lawyer in Australia (migration pathway)?**
+A: Very difficult — the most complex skilled migration pathway among business occupations. Overseas legal qualifications face a high recognition threshold; migrants typically need to undertake supplementary Australian legal studies. Employer-sponsored visa subclass 482 (direct sponsorship by a top-tier law firm) is recommended as the most practical fast-track pathway.
+
+**Q: Which is more suitable for migrating to Australia — lawyer or accountant?**
+A: The migration pathway for accountants is more established (MLTSSL + CPA/CAANZ assessment) with lower barriers; lawyers have a higher salary ceiling (partner level $200k–$600k) but a more complex migration pathway requiring re-certification of Australian legal qualifications. Those with an accounting background should pursue the accountant pathway; those with a legal background and very strong English may consider the JD pathway to obtain Australian legal qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 律师薪资 $95k~$115k（2026） |
-| Indeed AU | 律师平均薪资 $113,923（2026） |
-| Law Society NSW | 律师注册和执业信息 |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 很高（★★★★☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 很高（★★★★☆） |
-
-律师（事务律师）的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲律师工资多少？**
-答：执业律师约 $90,000~$130,000（Indeed均值 $113,923；SEEK $95k~$115k）；高级律师/Senior Associate约 $130k~$200k；合伙人/General Counsel约 $200k~$600k。
-
-**问：澳洲律师容易找工作吗？**
-答：整体中等难度，但细分方向差异大。科技法、数据隐私法和能源转型法律律师供不应求；家庭法和刑事法岗位竞争较激烈。Seek 挂牌约 2,000~6,000 个职位。
-
-**问：中国法律学历澳洲认可吗？**
-答：复杂。中国法律学历需要通过VETASSESS技能评估，并可能需要额外补充澳洲法律课程（通常是Graduate Diploma of Australian Law）。完成后仍需申请Admission to the Bar（律师注册）。建议通过澳洲大学攻读JD（法律硕士）直接获取本地资格。
-
-**问：律师会被AI替代吗？**
-答：部分影响。AI（Harvey AI/Clio/LexisNexis AI）已能自动化合同初审和法律研究，影响初级律师工作量；但法庭策略、谈判技巧、复杂法律判断和客户关系完全不可替代。AI反而增加了对科技法律师（监管AI本身）的需求。
-
-**问：澳洲律师有年龄限制吗？**
-答：无。资深合伙人（40~60岁）是律所最核心的资产。转行成为律师的年龄门槛也无限制，有人在40岁后完成JD并成功执业。但投入产出比需要认真评估。
-
-**问：澳洲律师需要什么学历？**
-答：澳洲认可的法律学位（LLB/JD）+PLT+律师注册（Admission to the Bar）。海外法律学历需要额外评估，通常建议通过澳洲大学JD（通常2年制加速项目）获取本地资格。
-
-**问：澳洲律师认证（移民）难吗？**
-答：非常难，是商业类移民路径最复杂的职业。海外法律学历认证门槛高；移民后通常需要补充澳洲法律学习。建议通过雇主担保482（顶级律所直接担保）作为最可行的快速路径。
-
-**问：律师和会计师哪个更适合移民澳洲？**
-答：会计师移民路径更成熟（MLTSSL+CPA/CAANZ评估），门槛更低；律师薪资上限更高（合伙人 $200k~$600k），但移民路径更复杂，需要澳洲法律资格重新认证。有会计背景者首选会计师；有法律背景且英语极强者，可考虑JD路径重新获取澳洲律师资格。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

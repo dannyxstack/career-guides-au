@@ -1,60 +1,92 @@
-# Contractors and supervisors, pipefitting trades（Contractors and supervisors, pipefitting trades）职业分析 · 加拿大
+# Contractors and supervisors, pipefitting trades — career analysis · Canada
 
-**职业代码：72012 – Contractors and supervisors, pipefitting trades。**
+**Occupation code: 72012 (NOC)**
 
-Supervise and coordinate activities of plumbers and related workers, overseeing on-site installation, maintenance, and repair of piping systems.
+Supervise and coordinate the activities of plumbers and related workers, responsible for on-site management of pipe system installation, maintenance, and repair.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无需 | —（无直接费用） |
-| 管道工学徒 | 4-5年 | $500~$2,000（注册费及工具） |
-| 主管培训课程 | 6个月-1年 | $1,000~$5,000（领导力/项目管理课程） |
+| High school graduation | None | $0~$0 (No direct fees) |
+| Plumber apprentice | 4-5 years | $500~$2,000 (Registration fees and tools) |
+| Supervisor training courses | 6 months to 1 year | $1,000~$5,000 (Leadership/Project Management Courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级管道工认证 | 各省学徒培训机构 | 必备 | 需完成学徒期并通过考试 |
-| 红印认证（Red Seal） | 加拿大红印项目 | 可选 | 跨省执业资格，非强制但推荐 |
-| 安全培训（WHMIS/OSSA） | 省级安全机构 | 可选 | 常见雇主强制要求 |
+| Provincial plumber certification | Provincial apprenticeship training institutions | Required | Must complete apprenticeship and pass exams |
+| Red Seal certification | Canadian Red Seal program | Optional | Interprovincial practice certification, not mandatory but recommended |
+| Safety training (WHMIS/OSSA) | Provincial safety authority | Optional | Commonly mandatory for employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 16,500。加拿大建筑行业持续增长，管道工程需求稳定。大型基础设施项目和住房建设推动岗位增长，未来十年前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 16,500. Canada's construction industry continues to grow, with stable demand for pipefitting. Large infrastructure projects and housing construction drive job growth, with positive prospects for the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒完成后转正 |
-| 中级（4-7年） | $75,000~$90,000 | 具有监管职责 |
-| 高级（8年以上） | $95,000~$120,000 | 主管或承包商 |
+| Median salary | $100,048 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$70,000 | Full-time employment after apprenticeship |
+| Mid-level (4-7 years) | $75,000~$90,000 | With supervisory responsibilities |
+| Senior (8+ years) | $95,000~$120,000 | Supervisor or contractor |
+| average salary | $97,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从管道工晋升至主管，再至项目经理或自营承包商。需积累技术经验及管理能力，部分考取红印认证(Red Seal)提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Impact of AI/automation on this occupation is mixed: design optimisation and document processing can be enhanced by AI, but on-site supervision, emergency decision-making and human coordination are hard to replace.
+
+Progress from plumber to supervisor, then to project manager or self-employed contractor. Requires accumulation of technical experience and management skills; some obtain Red Seal certification to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary design drawings and material lists for piping systems
+- Automatically generate work progress reports and compliance checklists
+- Using AI to optimize pipeline layout to reduce material waste
+- Basic fault diagnosis via AI-assisted remote guidance
+
+**Where AI augments the role:**
+
+- Using AI for pressure simulation and flow analysis in complex piping systems
+- Improve installation accuracy through real-time guidance overlaid via AR
+- Predict maintenance needs and schedule preventive repairs based on historical data
+- Uses computer vision to automatically inspect weld and joint quality
+
+**Human moat:**
+
+- Rapid on-site decision-making in emergencies (e.g., leaks, pipe bursts)
+- Communication and coordination with clients and other engineering contractors
+- fault diagnosis and repair for non-standard or legacy systems
+- Supervise team safety operations and ensure compliance
+
+**Skills to build:**
+
+- BIM and piping design software (e.g., Revit MEP)
+- AI-assisted project management tools (e.g., Procore AI)
+- Data analysis basics (material costs, schedule optimization)
+- Digital Twin and IoT Monitoring System Operation
+- Communication and conflict resolution skills
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Skilled trades shortage
@@ -63,68 +95,67 @@ Supervise and coordinate activities of plumbers and related workers, overseeing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 需满足工作经验和语言要求，职位属国家职业分类B类，可获加分。 |
-| Subclass PNP（Provincial Nominee Program） | 多个省份对管道行业主管有优先申请通道，如BC省、安省、阿尔伯塔省。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可证明无法招到本地工人，支持申请工签或永久居民。 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Must meet work experience and language requirements; position falls under national occupation classification category B, can receive bonus points. |
+| Subclass PNP (Provincial Nominee Program) | Multiple provinces have priority application channels for pipeline industry supervisors, such as BC, Ontario, and Alberta. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can prove inability to hire local workers and support work visa or permanent residence applications. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Contractors and supervisors, pipefitting trades？**
-- 有多年管道工经验并希望晋升管理层的人
-- 动手能力强且善于团队协调的人
-- 愿意在建筑工地现场工作的人
-
-**谁不适合学Contractors and supervisors, pipefitting trades？**
-- 不喜欢户外或体力工作的人
-- 寻求完全办公室工作环境的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experienced plumbers seeking promotion to management
+- Hands-on person with strong team coordination skills
+- Individuals willing to work on construction sites
+
+**Who is not suited**
+- People who dislike outdoor or physically demanding work
+- Individuals seeking a fully office-based work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a plumbing supervisor in Canada?**
+A: Depending on experience, annual salary ranges from CAD 75,000 to CAD 120,000, with senior executives or self-employed contractors earning more.
+
+**Q: How can a foreign plumber immigrate to Canada?**
+A: Can apply through Provincial Nominee Program (PNP) or Express Entry's Federal Skilled Trades Program; some provinces have dedicated streams, or transition via LMIA work permit.
+
+**Q: Is it mandatory to hold a Red Seal endorsement?**
+A: Red Seal certification is not mandatory but helps with interstate employment and competitiveness. Provincial plumbing certification is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Contractors and supervisors, pipefitting trades的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a pipefitting supervisor in Canada?**
-答：Depending on experience, annual salary ranges from CAD 75,000 to CAD 120,000, with senior supervisors or self-employed contractors earning more.
-
-**问：How can a foreign plumber immigrate to Canada?**
-答：You can apply through Provincial Nominee Programs (PNP) or the Federal Skilled Trades program under Express Entry, with some provinces having dedicated streams, or through an LMIA work permit.
-
-**问：Is the Red Seal certification mandatory?**
-答：Red Seal is not mandatory but helps with interprovincial mobility and competitiveness. Provincial plumbing certification is required.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

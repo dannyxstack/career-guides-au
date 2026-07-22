@@ -1,61 +1,96 @@
-# Plastics Fabricator or Welder（Plastics Fabricator or Welder）职业分析 · 澳大利亚
+# Plastics Fabricator or Welder — career analysis · Australia
 
-**职业代码：711513 – Plastics Fabricator or Welder。**
+**Occupation code: 711513 (ANZSCO)**
 
-Plastics Fabricators or Welders cut, weld, shape, and assemble plastic materials using heat guns, extruders, and other equipment to produce pipes, tanks, ventilation systems, and other products. They are in steady demand in Australia's manufacturing and construction sectors.
+Plastic fabrication workers or welders cut, weld, shape, and assemble plastic materials using heat guns, extruders, and other equipment to manufacture products such as pipes, tanks, and ventilation systems. Demand is steady in Australia's manufacturing and construction industries.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 III | 2年 | $8,000~$15,000（TAFE或私立院校学费） |
-| 学徒制 | 3-4年 | —（在职培训，可能获得补贴） |
+| Vocational education certificate III | 2 years | $8,000~$15,000 (TAFE or private institution tuition fees) |
+| Apprenticeship | 3-4 years | $0~$0 (On-the-job training, may receive subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 塑料加工技术证书 III | TAFE或注册培训机构 | 必备 | 核心资格，涵盖焊接和 fabrication |
-| 高空作业证 | 安全培训机构 | 可选 | 部分岗位需要 |
-| 焊接操作证 | 认证机构 | 可选 | 塑料焊接专用证 |
+| Certificate III in Plastic Processing Technology | TAFE or registered training organizations | Required | Core qualification, covering welding and fabrication |
+| Working at heights certificate | Safety training provider | Optional | Some roles require |
+| Welding operation certificate | Certification bodies | Optional | Plastic welding specialist certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 20,000。澳洲塑料制造业从业人数约2万人，预计未来五年保持稳定。随着建筑和基础设施需求持续，塑料焊接工岗位将维持中等水平，部分地区如昆士兰和新南威尔士州机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 20,000. The Australian plastic manufacturing industry employs about 20,000 people and is expected to remain stable over the next five years. With ongoing demand in construction and infrastructure, jobs for plastic welders will stay at a moderate level, with more opportunities in regions like Queensland and New South Wales.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 全职 |
-| 中级（3-5年） | $60,000~$75,000 | 全职 |
-| 高级（5年以上） | $75,000~$90,000 | 含主管或技师 |
+| Median salary | $88,816 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$60,000 | Full-time |
+| Mid-level (3–5 years) | $60,000~$75,000 | Full-time |
+| Senior (5+ years) | $75,000~$90,000 | Including supervisor or technician |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级塑料焊工可晋升为高级技工或主管，也可转向质量检测或生产管理。取得相关资质后，可自主创业或进入工程领域。经验丰富者薪资增长显著。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Plastic welding and manufacturing work is mixed in its impact from AI: repetitive cutting and welding tasks face high automation pressure, but on-site customization, complex repairs, and multi-material adaptation still require human judgment; AI tools can serve as technical aids to improve efficiency.
+
+Junior plastic welders can advance to senior technician or supervisor, or shift to quality inspection or production management. With relevant qualifications, they can start their own business or enter the engineering field. Experienced workers see significant salary growth.
+
+**Tasks most exposed to AI:**
+
+- Repetitive CNC cutting and edge trimming of plastic sheets
+- Automatic hot melt welding of standard pipe fittings
+- Simple assembly and quality checks in batch production
+- Automatic tube bending and forming based on CAD drawings
+- Material identification and classification in inventory management.
+
+**Where AI augments the role:**
+
+- View welding parameters and defect warnings in real time using AR glasses
+- Using AI quality inspection systems to analyze weld porosity and strength
+- AI-generated visual process guidance handles complex geometric shapes.
+- Optimize welding sequence of large storage tanks using digital twin simulation
+- Automatically generate CNC programs for customized plastic parts
+
+**Human moat:**
+
+- Manual repair and modification capabilities for non-standard on-site structures.
+- Experience in process parameter debugging for specialty plastics (e.g., PVDF, ECTFE)
+- Responsibility judgment for welding in confined/hazardous spaces (e.g., chemical plant pipes)
+- Communicate customization needs with clients and quickly create prototypes
+
+**Skills to build:**
+
+- Programming and operation of mainstream CNC welding equipment (e.g., Leister, Mecal)
+- Basic Python script for automated path generation
+- 3D scanning and reverse modeling (Geomagic, Fusion 360)
+- Application of AI visual inspection tools (such as Industrial AI cloud platform).
+- Use of welding simulation software (Simufact Welding)
+- Safety code interpretation and on-site risk assessment (WHS standards)
+
+**Key growth areas:**
 
 - Manufacturing
 - Construction
@@ -64,69 +99,68 @@ Plastics Fabricators or Welders cut, weld, shape, and assemble plastic materials
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，需满足职业清单要求 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区州担保，需职业在相关清单上 |
-| Subclass 482（Temporary Skills Shortage） | 雇主担保临时签证，需雇主提名和中长期职业清单 |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship; must meet occupation list requirements |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Regional state sponsorship requires the occupation to be on the relevant list |
+| Subclass 482 (Temporary Skills Shortage) | Employer-sponsored temporary visa, requires employer nomination and a Medium and Long-term Strategic Skills List occupation. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plastics Fabricator or Welder？**
-- 喜欢动手操作和精密工作的人
-- 对制造业或建筑行业感兴趣
-- 愿意在偏远地区工作以获得移民机会
-
-**谁不适合学Plastics Fabricator or Welder？**
-- 不喜欢体力劳动或车间环境
-- 寻求快速移民通道或高薪职业
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and precision work
+- Interest in manufacturing or construction industry
+- Willing to work in remote areas for migration opportunities
+
+**Who is not suited**
+- Dislike physical labor or workshop environment.
+- Seeking fast-track migration pathways or high-paying careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plastic welders?**
+A: Entry-level annual salary approx. AUD $50,000-60,000; senior can reach AUD $75,000-90,000. Overtime and night shift allowances can increase income.
+
+**Q: Can plastic manufacturing workers or welders immigrate to Australia?**
+A: This occupation is on the regional sponsored visa (494/491) but not on the Core Skills Occupation List (CSOL), so it cannot apply for 189/190 visas. Requires employer sponsorship or state nomination.
+
+**Q: What are the career advancement opportunities for plastic welders?**
+A: Can be promoted to supervisor, quality inspector, or production manager; can also become an engineer or entrepreneur through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Plastics Fabricator or Welder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for plastics fabricators or welders?**
-答：Entry-level salary is about AUD 50,000-60,000 per year, while experienced workers can earn AUD 75,000-90,000. Overtime and shift allowances can increase earnings.
-
-**问：Can plastics fabricators or welders immigrate to Australia?**
-答：This occupation is eligible for regional sponsored visas (494/491) but is not on the Core Skills Occupation List (CSOL), so it cannot apply for 189/190 visas. Employer sponsorship or state nomination is required.
-
-**问：What are the career advancement opportunities for plastics welders?**
-答：They can advance to supervisor, quality inspector, or production manager. Further study can lead to engineering roles or self-employment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

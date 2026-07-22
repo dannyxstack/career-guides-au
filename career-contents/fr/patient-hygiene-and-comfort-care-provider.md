@@ -1,60 +1,94 @@
-# Patient Hygiene and Comfort Care Provider（Patient Hygiene and Comfort Care Provider）职业分析 · FR
+# Patient Hygiene and Comfort Care Provider — career analysis · France
 
-**职业代码：J1501 – Patient Hygiene and Comfort Care Provider。**
+**Occupation code: J1501 (ROME)**
 
-Provides daily hygiene and comfort care to patients in hospitals, nursing homes, or at home, including bathing, dressing, mobilization, and pressure ulcer prevention.
+Providing daily hygiene care and comfort care for patients in hospitals, nursing homes, or homes, including bathing, changing clothes, mobility, and pressure ulcer prevention.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 护理助理 | 2年（CAP） | —（公立学校免费或低学费，可通过学徒制带薪学习） |
-| DEAS 国家护理助理文凭 | 1年（DEAS） | $1,000~$3,000（需完成理论+实习，部分机构免学费） |
+| CAP nursing assistant | 2 years (CAP) | $0~$1,500 (Public schools offer free or low tuition and can be studied through paid apprenticeships) |
+| DEAS National Diploma in Nursing Assistant | 1 year (DEAS) | $1,000~$3,000 (Requires completion of theory + internship; some institutions waive tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家护理助理文凭（DEAS） | 法国卫生与社会事务部（DRJSCS） | 必备 | 从事该职业的法定要求，需通过培训或学徒获得 |
-| CAP 护理助理（CAP AEPE） | 法国教育部 | 可选 | 可作为入门资格，但DEAS更受雇主青睐 |
+| National Diploma in Nursing Assistant (DEAS) | French Ministry of Health and Social Affairs (DRJSCS) | Required | The legal requirements for this profession must be obtained through training or apprenticeships |
+| CAP Care Assistant (CAP AEPE) | French Ministry of Education | Optional | It can serve as an entry-level qualification, but DEAS is more favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 250,000。法国老龄化加剧，长期护理需求持续增长，该职业就业前景稳定，尤其在养老机构和家庭护理服务领域。
+**Job demand: very high (★★★★½).** National workforce approx. 250,000. With France's aging population intensifying and the demand for long-term care continuing to grow, the employment prospects for this profession remain stable, especially in elderly care institutions and home care services.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，通常在医院或养老院全职 |
-| 中级（4-10年） | $24,000~$29,000 | 含经验补贴及夜班/加班费 |
-| 高级（10年以上） | $29,000~$35,000 | 含职称晋升及专项技能津贴 |
+| Median salary | $26,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, usually full-time in hospitals or nursing homes |
+| Mid-level (4-10 years). | $24,000~$29,000 | Includes experience allowance and night/overtime pay |
+| Senior (10+ years) | $29,000~$35,000 | Includes professional title promotion and special skill allowances |
+| average salary | $23,583 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★★☆）。** 可从护理员晋升为高级护理助理或专科护理员（如老年护理、临终关怀），也可通过继续教育成为护士或护理协调员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some repetitive tasks in this profession (such as recording and monitoring) are easily replaced by AI, but core interpersonal care and complex physiological care are difficult to automate. Overall risk is moderate, and skill upgrades can enhance competitiveness.
+
+Nurses can be promoted from nurses to senior nursing assistants or specialist nurses (such as aged care and hospice care), or through continuing education to become nurses or nursing coordinators.
+
+**Tasks most exposed to AI:**
+
+- Daily vital sign monitoring and recording (AI can automatically collect and analyze data)
+- Automatic pressure ulcer risk assessment and early warning (AI analyzes skin condition through image recognition)
+- Patient mobility assistance (automated lifting equipment reduces manpower requirements)
+- Generation and tracking of health care execution checklists (AI optimized scheduling and task allocation)
+
+**Where AI augments the role:**
+
+- AI-assisted decision making for pressure ulcer prevention (combined with real-time data recommendations for turning the skin)
+- Intelligent patient comfort monitoring (warning of discomfort via wearable devices)
+- Personalized care plan optimization (AI analysis of historical data provides recommendations)
+- Remote Family Communication (AI-generated easy-to-understand nursing reports)
+- Training and skill enhancement (VR simulation of complex nursing scenarios)
+
+**Human moat:**
+
+- Positioning and transfer of complex patient positions (requiring sensory assessment and adaptation)
+- Emotional comfort and psychological support (human empathy is irreplaceable)
+- Handling emergencies (such as rapid responses when patients struggle or fall)
+- Communicating sensitive matters with family members (requires building trust and detailed explanations)
+
+**Skills to build:**
+
+- Master basic data analysis and AI tool operation
+- Learn to use smart care devices (such as electric turning beds and smart air cushions)
+- Cultivating communication and empathy skills (handling complex interpersonal scenarios that AI cannot handle)
+- Learn advanced patient safety and emergency response skills
+- Learn about digital health record systems and remote monitoring platforms
+- Master the latest evidence-based practices in pressure ulcer prevention and wound care
+
+**Key growth areas:**
 
 - Aging population
 - Home care expansion
@@ -63,69 +97,68 @@ Provides daily hygiene and comfort care to patients in hospitals, nursing homes,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明该职位难以在欧盟招聘，需获得工作许可 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或紧缺职业，但护理助理通常不在此列，需个案评估 |
-| Subclass Recherche emploi（Job Search Visa） | 完成法国学业后可在法寻找工作，但护理助理职业需通过资质认证 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that the position is difficult to recruit in the EU and requires a work permit |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for high-skilled or in-demand occupations, but nursing assistants are usually not included and require case evaluation |
+| Subclass Recherche emploi (Job Search Visa) | After completing your studies in France, you can find a job there, but the nursing assistant profession requires certification |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Patient Hygiene and Comfort Care Provider？**
-- 有耐心、同理心，愿意从事一线照护工作
-- 善于沟通，能配合医护团队工作
-- 愿意学习基本护理技能，适应轮班制
-
-**谁不适合学Patient Hygiene and Comfort Care Provider？**
-- 无法承受高强度体力劳动和情绪压力
-- 不愿从事个人卫生护理工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and willing to work on the front lines of care
+- Good communication skills and ability to cooperate with the medical team
+- Willing to learn basic nursing skills and adapt to shift work.
+
+**Who is not suited**
+- Unable to endure high-intensity physical labor and emotional stress
+- Unwilling to engage in personal hygiene care
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for caregivers?**
+A: The entry-level annual salary is about 20,000-24,000 euros, with experienced workers able to increase to around 30,000 euros, with extra allowances for night shifts and overtime.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: You must first obtain a DEAS diploma and complete the Reconnaissance des qualifications, then apply for a work permit (Salarié) from the employer, but this occupation is not considered a priority category for in-demand talent.
+
+**Q: What promotion opportunities are available for caregivers?**
+A: Promotion to Senior Care Assistant, Care Coordinator, or Registered Nurse (IDE) through continuing education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Patient Hygiene and Comfort Care Provider为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for care providers?**
-答：Entry-level annual salary is around €20,000-€24,000, rising to €30,000 with experience, plus allowances for night shifts and overtime.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Obtain the DEAS diploma and complete qualification recognition (Reconnaissance des qualifications), then have an employer apply for a work permit (Salarié). It is not a priority shortage occupation.
-
-**问：What are the career advancement opportunities?**
-答：Can advance to senior care assistant, care coordinator, or become a registered nurse (IDE) through further education.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Wind Turbine Technician（Wind Turbine Technician）职业分析 · 新西兰
+# Wind Turbine Technician — career analysis · New Zealand
 
-**职业代码：342114 – Wind Turbine Technician。**
+**Occupation code: 342114 (ANZSCO)**
 
-Wind turbine technicians install, maintain, and repair wind turbines. With New Zealand's fast-growing wind energy sector, technicians are in shortage and can apply for residence via Green List.
+Wind turbine technicians install, maintain, and repair wind turbines. New Zealand's wind energy sector is growing rapidly, with a shortage of technicians, making them eligible for direct residence via the Green List.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭（2年） | 2年 | $15,000~$25,000（理工学院学费，国际生约2万-3万纽币/年） |
-| 电气学徒制（4年） | 4年 | —（学徒期间带薪学习，学费极低） |
+| Diploma (2 years) | 2 years | $15,000~$25,000 (Polytechnic tuition: international students NZ$20,000-30,000 per year) |
+| Electrical apprenticeship (4 years). | 4 years | $0~$5,000 (Paid learning during apprenticeship, very low tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰电气注册电工 | 人力资源管理局 | 可选 | 若涉及高压电气工作则需注册 |
-| 安全证书（如高空作业、急救） | 行业培训机构 | 可选 | 雇主通常要求 |
-| 雅思6.0（移民申请） | 移民局 | 可选 | 技术移民需满足语言要求 |
+| New Zealand Electrical Registered Electrician | Human Resources Authority | Optional | Requires registration if involving high-voltage electrical work |
+| Safety certificates (e.g., working at height, first aid) | Industry training providers | Optional | Employers typically require |
+| IELTS 6.0 (for immigration application) | Immigration department | Optional | Skilled migration requires meeting language requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450。新西兰风能投资增长强劲，预计未来5年需求持续上升，尤其在南岛和北岛风电场。技术工人短缺，就业前景乐观。
+**Job demand: high (★★★★☆).** National workforce approx. 450. New Zealand wind energy investment is growing strongly, with demand expected to continue rising over the next 5 years, especially in South Island and North Island wind farms. There is a shortage of skilled workers, and employment prospects are optimistic.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 通常带薪培训，起薪约5.5万纽币 |
-| 中级（3-6年） | $75,000~$95,000 | 可独立工作，薪资6.5-8万纽币 |
-| 高级（6年以上） | $95,000~$120,000 | 含管理职责或海上风电补贴 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Usually paid training, starting salary around NZD 55,000 |
+| Mid-level (3–6 years) | $75,000~$95,000 | Can work independently, salary NZD 65,000-80,000 |
+| Senior (6+ years) | $95,000~$120,000 | Includes management duties or offshore wind subsidies |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级技术员可升级为高级技术员、团队领导或现场经理，也可转向海上风电或项目管理。持证后薪资提升显著。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Wind turbine technician roles are mixed regarding AI/automation impact: predictive maintenance and remote monitoring enhance efficiency, but physical operations still rely on humans; automation compresses basic diagnostic roles but adds advanced data analysis and system optimization roles.
+
+Junior technicians can advance to senior technician, team leader, or site manager, or transition to offshore wind or project management. Salaries increase significantly after certification.
+
+**Tasks most exposed to AI:**
+
+- Regular manual patrols replaced by drone and sensor automatic detection
+- Basic fault diagnosis is taken over by AI predictive analysis systems
+- Automated generation of maintenance logs and reports
+- Simple part replacement is assisted by robots
+- Inventory management and parts ordering optimized by AI systems
+
+**Where AI augments the role:**
+
+- AI predictive maintenance systems provide early fault warnings, improving inspection efficiency
+- Augmented reality (AR) headsets provide remote expert guidance to assist complex repairs
+- Using digital twin technology to simulate turbine operation and optimize maintenance strategies
+- Data analytics dashboards visualise performance metrics to aid decision-making
+- Automated scheduling system optimizes FIFO shifts and task allocation
+
+**Human moat:**
+
+- Flexible Operation and Emergency Response in High-Altitude Hazardous Environments
+- Creative diagnosis and repair of complex mechanical faults
+- Supervisory responsibility for on-site safety standards and team collaboration
+- Communication and coordination with power operators, engineers, and regulators
+- Manual judgment and adaptive adjustments in adverse weather
+
+**Skills to build:**
+
+- Learning UAV and sensor maintenance and data analysis
+- Mastering digital twin and AR/VR-assisted maintenance techniques
+- Improve programming skills in Python or R for monitoring data scripts
+- Obtain electrical and mechanical combined maintenance certification (e.g. NVQ Level 4)
+- Enhanced Safety Regulations and Emergency Response Training (e.g., GWO certificate)
+- Learn cloud platforms and IoT data analysis basics
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -64,66 +100,65 @@ Wind turbine technicians install, maintain, and repair wind turbines. With New Z
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence (WTR)） | 工作满2年后申请居留，需雇主担保 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，本科学历+工作可获足够分数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，最长3年，可转其他移民路径 |
+| Subclass Green List T2 (Work to Residence (WTR)) | Apply for residency after 2 years of work, requires employer sponsorship |
+| Subclass SMC (Skilled Migrant Category) | 6-point system; bachelor's degree plus work can earn sufficient points |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, up to 3 years, transferable to other immigration pathways |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wind Turbine Technician？**
-- 喜欢户外和体力工作
-- 有电气或机械背景
-- 愿意在偏远地区工作
-
-**谁不适合学Wind Turbine Technician？**
-- 恐高或畏风
-- 不喜欢不规律工时
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes outdoor and physical work
+- Electrical or mechanical background
+- Willing to work in remote areas.
+
+**Who is not suited**
+- Fear of heights or wind
+- Dislikes irregular working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a wind turbine technician?**
+A: New Zealand average annual salary approximately NZ$70,000-90,000, senior up to NZ$120,000.
+
+**Q: Can this occupation lead to immigration?**
+A: Yes. This occupation is on the Green List Tier 2; after 2 years of work, you can apply for residence. Also eligible under SMC 6-point system.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Wind Turbine Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for wind turbine technicians?**
-答：The average annual salary is NZD 70,000-90,000, with senior roles up to NZD 120,000.
-
-**问：Can this occupation lead to residence?**
-答：Yes. It is on Green List Tier 2 (Work to Residence) and also eligible for Skilled Migrant Category (6-point system).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

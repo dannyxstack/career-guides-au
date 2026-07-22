@@ -1,62 +1,95 @@
-# Geologist（Geologist）职业分析 · DE
+# Geologist — career analysis · Germany
 
-**职业代码：4212 – Geologist。**
+**Occupation code: 4212 (KldB)**
 
-Geologists study Earth's composition, structure, and history, conduct mineral and energy resource exploration, assess geohazards, and provide geological consulting for civil engineering projects.
+Geologists study the Earth's composition, structure, and history, explore mineral and energy resources, assess geological hazard risks, and provide geological consulting for civil engineering projects.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（大学） | —（公立大学免学费，仅学期费） |
-| 硕士 | 2年（大学） | —（多数公立大学无学费） |
-| 博士 | 3-5年（大学） | —（通常带薪职位） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,000 (Public universities are tuition-free, only semester fees apply.) |
+| Master's degree | 2 years (university) | $0~$1,500 (Most public universities have no tuition fees) |
+| Doctorate | 3-5 years (university) | $0~$500 (Usually paid positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地质学或相关专业硕士学位 | 德国大学 | 必备 | 通常要求硕士学历 |
-| 资质认证（Anerkennung） | 德国认证机构 | 必备 | 外国学历需认证 |
-| 德国地质学家协会会员 | BDG | 可选 | 非强制但有利 |
+| Master's degree in geology or related field | German university | Required | Typically requires a master's degree |
+| Qualification recognition (Anerkennung) | German certification body | Required | Foreign qualifications need accreditation |
+| Member of the German Geologist Association | BDG | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国在能源转型、原材料供应和基础设施扩建方面需要地质学专家，尤其在碳储存、地热能及近海工程领域就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Germany needs geological experts for the energy transition, raw material supply, and infrastructure expansion, particularly in carbon storage, geothermal energy, and offshore engineering, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 税前年薪 |
-| 中级（3-7年） | $52,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪 |
+| Median salary | $63,144 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $42,000~$52,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $52,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Annual pre-tax salary |
+| average salary | $70,008 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展可从初级地质学家晋升为项目负责人、首席地质学家，或进入管理层如勘探经理。也可转向学术研究或跨入环境、工程咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Career progression can range from junior geologist to project lead, chief geologist, or into management roles like exploration manager. Also possible to move into academic research or cross into environmental and engineering consulting.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Energy Transition
 - Geothermal Energy
@@ -65,66 +98,65 @@ Geologists study Earth's composition, structure, and history, conduct mineral an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历人才，要求年薪达到门槛（2024年约43,800欧元），地质学通常符合。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于有德国认可学历或职业资格的技术移民，需雇主担保。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需证明经济能力。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated talent, requiring annual salary to meet the threshold (approx. €43,800 in 2024), geology usually qualifies. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled migration with German-recognized qualifications or vocational credentials, requires employer sponsorship. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to find employment; must prove financial means. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geologist？**
-- 对地球科学有浓厚兴趣，喜欢户外和野外工作
-- 具备分析思维和解决问题的能力
-- 愿意学习德语并融入德国职场
-
-**谁不适合学Geologist？**
-- 不喜欢长时间户外作业或出差
-- 对严格的安全法规和认证流程感到不耐烦
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in earth sciences, enjoys outdoor and fieldwork
+- Possesses analytical thinking and problem-solving skills
+- Willing to learn German and integrate into the German workplace
+
+**Who is not suited**
+- Dislike long outdoor work or frequent travel.
+- Impatience with strict safety regulations and certification processes.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geologists in Germany?**
+A: Junior geologist annual salary approx. €42,000-52,000, mid-level €52,000-65,000, senior up to €85,000+, depending on industry and region.
+
+**Q: How can foreign geologists immigrate to Germany?**
+A: Must hold a German-recognized geology degree or pass qualification certification; eligible for EU Blue Card or skilled migration visa. German B1 or above is helpful for employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Geologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geologists in Germany?**
-答：Entry-level geologists earn around €42,000-€52,000, mid-level €52,000-€65,000, and senior up to €85,000+, depending on industry and region.
-
-**问：How can foreign geologists immigrate to Germany?**
-答：Need a recognized geology degree or pass qualification recognition, can apply for EU Blue Card or Skilled Worker visa. German B1+ helps.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

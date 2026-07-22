@@ -1,60 +1,94 @@
-# Cleaner（Cleaner）职业分析 · DE
+# Cleaner — career analysis · Germany
 
-**职业代码：5410 – Cleaner。**
+**Occupation code: 5410 (KldB)**
 
-Responsible for daily cleaning and maintenance of buildings, offices, and public facilities, including floor cleaning, waste disposal, disinfection, and basic upkeep.
+Responsible for daily cleaning and maintenance of buildings, offices, and public facilities, including floor cleaning, waste disposal, disinfection, and simple upkeep.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式培训 | 直接上岗 | —（多数雇主提供在职培训） |
-| 双元制职业培训（卫生清洁专员） | 2-3年 | —（培训期间有津贴） |
+| No formal training required | Directly start work | $0~$0 (Most employers provide on-the-job training) |
+| Dual vocational training (hygiene cleaning specialist) | 2-3 years | $0~$0 (Allowance during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无需（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | - | 可选 | 雇主通常要求基本德语能力 |
-| 专业清洁认证（可选） | IHK或手工业协会 | 可选 | 提升竞争力 |
+| No mandatory certificate | - | Optional | Employers usually require basic German language skills. |
+| Professional cleaning certification (optional) | IHK or Chamber of Crafts | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 650,000。德国清洁行业持续稳定，需求来自人口老龄化和卫生标准提高。虽然AI无法完全替代，但薪资增长有限，从业人员短缺主要体现在专业清洁领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 650,000. The German cleaning industry remains stable, with demand driven by an ageing population and rising hygiene standards. Although AI cannot fully replace workers, wage growth is limited, and shortages mainly affect specialist cleaning areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上/主管） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $33,420 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years/supervisor) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $35,700 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级清洁工可晋升为领班或清洁主管，或通过培训转向专业清洁（如建筑清洁、工业清洁）。少数人自主创业开办清洁公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cleaners face automation risk, but complex cleaning, disinfection, and client interaction tasks are AI-enhanced. Entry-level positions may shrink, but overall demand remains stable.
+
+Junior cleaners can advance to team leader or cleaning supervisor, or transition to specialized cleaning (e.g., construction cleaning, industrial cleaning) through training. A few start their own cleaning companies.
+
+**Tasks most exposed to AI:**
+
+- Use robotic vacuum cleaners and floor scrubbers to automatically clean large floor areas
+- Automatic monitoring of bin capacity and scheduling of collection using sensors and IoT devices
+- Use automated disinfection robots for routine surface disinfection
+- Optimize cleaning routes and schedules using AI scheduling systems
+
+**Where AI augments the role:**
+
+- AI-assisted identification of pollution levels in specific areas to guide targeted cleaning
+- Use AR glasses to display cleaning steps and missed spots, improving quality
+- AI analyzes allergen or pathogen data to develop targeted disinfection plans
+- Receive real-time work orders and customer feedback via a mobile application, improving response speed
+- Smart cleaning equipment provides operation guidance and maintenance alerts
+
+**Human moat:**
+
+- Fine cleaning, stain removal, and other tasks requiring tactile feedback and judgment
+- Handle emergencies (e.g., liquid spills, odor investigation)
+- Communicate with clients, understand special needs, and provide personalized service
+- Monitor automated equipment operation and handle anomalies
+
+**Skills to build:**
+
+- Operate and maintain intelligent cleaning robots.
+- Basic data analysis, understanding cleaning scheduling systems
+- Professional cleaning techniques (e.g., deep carpet cleaning, stone care)
+- Certification in safety and disinfection standards (e.g., ISO 9001)
+- English communication skills, adaptable to international clients
+- Use digital tools to record and report work
+
+**Key growth areas:**
 
 - Aging workforce
 - Increasing hygiene standards
@@ -63,65 +97,67 @@ Responsible for daily cleaning and maintenance of buildings, offices, and public
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 可申请6个月求职签证，但清洁工非短缺职业，雇主担保难度大 |
-| Subclass Skilled Worker（Skilled Workers Visa） | 需至少两年职业培训且获认可，清洁工通常不符合条件 |
+| Subclass Job Seeker (Job Seeker Visa) | Can apply for a 6-month job-seeking visa, but cleaner is not a shortage occupation, employer sponsorship is difficult. |
+| Subclass Skilled Worker (Skilled Workers Visa) | Requires at least two years of vocational training and recognition; cleaners generally do not meet the conditions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaner？**
-- 愿意从事体力劳动、无需高学历的人
-- 想快速就业、不介意薪资较低者
-- 有基本德语能力、希望稳定工作的人
+**Who is suited**
+- People willing to do physical labor, no higher education required
+- Those who want quick employment and don't mind lower pay
+- People with basic German skills seeking stable employment
 
-**谁不适合学Cleaner？**
-- 追求高薪和职业声望的人
-- 希望长期在德国定居并转移民者
+**Who is not suited**
+- People seeking high salaries and professional prestige
+- Those hoping to settle in Germany long-term and immigrate
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of cleaners?**
+A: Junior cleaner annual salary approx. €22,000-28,000; supervisor up to €45,000. Usually below German average.
+
+**Q: Can foreigners work as cleaners and immigrate to Germany?**
+A: Cleaner is not on Germany's shortage occupation list, employer sponsorship is difficult. Unless through other pathways (e.g., family reunification), it is hard to obtain permanent residence through this occupation.
+
+**Q: What training is required to become a cleaner?**
+A: No training required for formal employment; employers provide on-the-job guidance. For improvement, IHK's cleaning professional certification courses are available.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无需（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cleaners?**
-答：Entry-level cleaners earn around €22,000-28,000 per year, while supervisors can earn up to €45,000. Salaries are generally below the German average.
-
-**问：Can foreigners work as cleaners and immigrate to Germany?**
-答：Cleaners are not on the shortage occupation list, making employer sponsorship difficult. Permanent residency through this occupation is unlikely unless via other routes (e.g., family reunion).
-
-**问：What training is required to become a cleaner?**
-答：No formal training is required; employers provide on-the-job guidance. For advancement, IHK certified courses in specialized cleaning are available.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

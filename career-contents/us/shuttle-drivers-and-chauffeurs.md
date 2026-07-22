@@ -1,62 +1,96 @@
-# Shuttle Drivers and Chauffeurs（Shuttle Drivers and Chauffeurs）职业分析 · 美国
+# Shuttle Drivers and Chauffeurs — career analysis · United States
 
-**职业代码：53-3053 – Shuttle Drivers and Chauffeurs。**
+**Occupation code: 53-3053 (SOC)**
 
-Drive a motor vehicle to transport passengers on a planned or scheduled basis. May collect a fare. Includes nonemergency medical transporters and hearse drivers.
+Drive a motor vehicle to transport passengers on a scheduled or regular basis, may collect fares. Includes non-emergency medical transport drivers and hearse drivers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 驾驶员培训课程 | 数周 | $300~$1,500（私立驾校费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Driver training courses | Several weeks | $300~$1,500 (Private driving school fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾照（CDL） | 美国各州机动车辆管理局 | 可选 | 驾驶载客16人以上车辆需持有 |
-| 普通驾照 | 美国各州机动车辆管理局 | 必备 | 所有司机必须持有 |
-| 背景调查 | 雇主或政府机构 | 必备 | 安全敏感职位要求 |
-| 心肺复苏（CPR）认证 | 美国红十字会等 | 可选 | 部分雇主或客户要求 |
+| Ordinary driver's license | US state motor vehicle departments | Required | All drivers must hold |
+| Background check | employer or government agency | Required | Requirement for security-sensitive positions |
+| Commercial Driver's License (CDL) | US state motor vehicle departments | Optional | Required when driving vehicles carrying 16+ passengers |
+| Cardiopulmonary resuscitation (CPR) certification | American Red Cross, etc. | Optional | Required by some employers or clients |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 135,200。美国劳工统计局预计2023-2033年就业增长约4%，与所有职业平均水平相当。人口老龄化和旅游需求增长将推动需求，但自动驾驶技术可能带来冲击。
+**Job demand: medium (★★½☆☆).** National workforce approx. 135,200. The US Bureau of Labor Statistics projects about 4% employment growth from 2023 to 2033, about average for all occupations. An aging population and growth in tourism demand will drive demand, but autonomous driving technology may cause disruptions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 时薪约12-17美元 |
-| 中级（3-5年） | $35,000~$45,000 | 时薪约17-22美元 |
-| 高级（5年以上） | $45,000~$55,000 | 含小费和加班，年薪可达5万以上 |
+| Median salary | $37,290 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Hourly wage about $12-$17 |
+| Mid-level (3–5 years) | $35,000~$45,000 | Hourly wage about USD 17-22 |
+| Senior (5+ years) | $45,000~$55,000 | Including tips and overtime, annual salary can reach over AUD 50,000 |
+| average salary | $39,880 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级司机可晋升为车队调度员、运输经理或自行创业。部分司机通过获取商业驾照（CDL）转向校车或长途巴士驾驶。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
+
+Entry-level drivers can advance to fleet dispatcher, transport manager, or start their own business. Some drivers switch to school bus or long-distance bus driving by obtaining a commercial driver's license (CDL).
+
+**Tasks most exposed to AI:**
+
+- Manual route planning
+- Customer phone notifications and delivery confirmations
+- Organisation and filing of paper delivery receipts
+- Generate simple anomaly reports
+
+**Where AI augments the role:**
+
+- Real-time dynamic route optimization to improve delivery efficiency
+- Smart package sorting and loading suggestions
+- Customer preference analysis and personalized services
+- Vehicle maintenance warnings and energy consumption management
+- Automated document processing frees up time for service
+
+**Human moat:**
+
+- Driving judgment and emergency handling in complex traffic environments
+- Trust and communication in face-to-face customer handovers
+- Last 100-meter flexible delivery (e.g., upstairs, drop-off points)
+- Familiarity with local neighborhoods and community relations
+
+**Skills to build:**
+
+- Use logistics scheduling software (e.g., Onfleet, Route4Me)
+- Basic data analysis skills
+- Customer service and emotional management
+- New energy vehicle driving and charging operations
+- Basic troubleshooting and emergency response
+- Digital receipt and electronic payment system operation
+
+**Key growth areas:**
 
 - Passenger transport
 - Non-emergency medical transport
@@ -65,65 +99,67 @@ Drive a motor vehicle to transport passengers on a planned or scheduled basis. M
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因学历要求不符 |
-| Subclass EB-3（EB-3 Skilled Worker） | 极少见，需雇主担保且证明本国工人不足 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as education requirements do not match |
+| Subclass EB-3 (EB-3 Skilled Worker) | Very rare; requires employer sponsorship and proof of insufficient domestic workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shuttle Drivers and Chauffeurs？**
-- 持有有效驾照且驾驶记录良好
-- 喜欢与人打交道，服务意识强
-- 能适应弹性工作时间包括周末和节假日
+**Who is suited**
+- Holding a valid driver's license with a good driving record
+- Enjoys interacting with people, strong service orientation
+- Able to work flexible hours including weekends and holidays.
 
-**谁不适合学Shuttle Drivers and Chauffeurs？**
-- 不擅长长时间驾驶或应对交通拥堵
-- 需要稳定高收入或快速职业晋升者
+**Who is not suited**
+- Not good at long-distance driving or dealing with traffic congestion
+- Those needing stable high income or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a shuttle bus driver?**
+A: According to BLS data, the median average annual salary in 2023 was about USD 35,000, entry-level about USD 25,000-35,000, and senior can reach USD 45,000-55,000 (including tips).
+
+**Q: Is it easy for a shuttle bus driver to obtain a US work visa or green card?**
+A: Very difficult. This occupation typically requires a high school diploma and does not meet H-1B professional position standards. Only very few employers may sponsor through EB-3 unskilled category, but quotas are tight and wait times long.
+
+**Q: How to advance from shuttle bus driver?**
+A: Obtaining a CDL allows driving school buses or long-distance coaches; with experience, can advance to fleet dispatcher, transport manager, or buy your own vehicle to operate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Shuttle Drivers and Chauffeurs属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for shuttle drivers?**
-答：According to BLS, the median annual wage in 2023 was about $35,000; entry-level earns $25,000-$35,000, experienced up to $45,000-$55,000 including tips.
-
-**问：Is it easy for shuttle drivers to get a US work visa or green card?**
-答：Very difficult. The job typically requires only a high school diploma, not meeting H-1B criteria. Only rare EB-3 unskilled sponsorship is possible, with long backlogs.
-
-**问：How can a shuttle driver advance?**
-答：Obtaining a CDL allows driving school buses or coaches; experience can lead to fleet dispatcher, transport manager, or owning your own vehicle.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

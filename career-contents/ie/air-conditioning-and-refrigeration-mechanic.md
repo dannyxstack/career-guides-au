@@ -1,59 +1,93 @@
-# Air Conditioning and Refrigeration Mechanic（Air Conditioning and Refrigeration Mechanic）职业分析 · IE
+# Air Conditioning and Refrigeration Mechanic — career analysis · Ireland
 
-**职业代码：7127 – Air Conditioning and Refrigeration Mechanic。**
+**Occupation code: 7127 (ISCO08)**
 
-Air Conditioning and Refrigeration Mechanics install, maintain, and repair air conditioning, refrigeration, and heating systems, essential in construction and industrial sectors.
+Air conditioning and refrigeration mechanics install, maintain, and repair air conditioning, refrigeration, and heating systems, and are indispensable trades in the construction and industrial sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（雇主资助，可能涉及少量材料费） |
-| 高级证书 | 2年（全日制） | $2,000~$6,000（理工学院课程，可申请奖学金） |
+| Apprenticeship | 4 years | $0~$5,000 (Employer-sponsored, may involve minor material costs) |
+| Advanced certificate | 2 years (full-time) | $2,000~$6,000 (Polytechnic courses, scholarships available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家学徒制证书 | SOLAS | 必备 | 完成4年学徒培训并通过考试 |
-| 安全培训证书 | FÁS或认可机构 | 必备 | 包括手动搬运、工作许可证等 |
-| 制冷剂处理证书 | 环保署 | 必备 | 处理氟化温室气体的法定要求 |
+| National apprenticeship certificate | SOLAS | Required | Complete 4-year apprenticeship and pass exams |
+| Safety training certificate | FÁS or recognised body | Required | Including manual handling, work permits, etc. |
+| Refrigerant handling certificate | Environmental Protection Agency | Required | Statutory requirements for handling fluorinated greenhouse gases |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。随着建筑业的持续发展和对能效需求增加，空调和制冷机械师的就业前景看好。预计未来几年需求稳定增长。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,500. With the ongoing development of the construction industry and increasing demand for energy efficiency, the employment outlook for air conditioning and refrigeration mechanics is positive. Steady demand growth is expected in the coming years.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒完成后起薪 |
-| 中级（3-7年） | $35,000~$48,000 | 熟练技工平均薪资 |
-| 高级（7年以上） | $48,000~$60,000 | 主管或项目经理 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary after apprenticeship completion. |
+| Mid-level (3–7 years) | $35,000~$48,000 | Average salary of skilled tradesperson |
+| Senior (7+ years) | $48,000~$60,000 | Supervisor or project manager |
+| average salary | $42,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒晋升为熟练技工，进而担任主管、项目经理或自主创业。也可通过继续教育向暖通空调工程或能源管理方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+Can advance from apprentice to skilled technician, then to supervisor, project manager, or self-employment. Further education can lead to HVAC engineering or energy management.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Green building
 - Energy efficiency
@@ -62,68 +96,67 @@ Air Conditioning and Refrigeration Mechanics install, maintain, and repair air c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，需有工作offer，薪资门槛€32,000（2023年），可带家属，2年后可转永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需劳动市场测试，薪资不低于€27,000，每年配额限制。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技术人才，薪资门槛€56,450（2023年），有工作offer，允许欧盟内流动。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for shortage occupations, requires a job offer, salary threshold €32,000 (2023), can bring family, can transfer to permanent residence after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires labor market testing, salary not less than €27,000, annual quota restrictions. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled talent, salary threshold €56,450 (2023), with a job offer, allows mobility within the EU. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Air Conditioning and Refrigeration Mechanic？**
-- 动手能力强、喜欢技术工作的人
-- 愿意从事户外和现场工作的人
-- 有耐心和解决问题能力的人
-
-**谁不适合学Air Conditioning and Refrigeration Mechanic？**
-- 不喜体力劳动或长时间站立的人
-- 不适应不定期加班和紧急维修工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and an interest in technical work.
+- People willing to work outdoors and on-site
+- People with patience and problem-solving abilities
+
+**Who is not suited**
+- People who dislike manual labor or standing for long periods
+- People who are not suited to irregular overtime and emergency repair work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of air conditioning and refrigeration mechanics?**
+A: Entry-level annual salary approx. 28,000-35,000 EUR, mid-level 35,000-48,000 EUR, senior up to 48,000-60,000 EUR; overtime and allowances can increase income.
+
+**Q: How can overseas individuals immigrate to Ireland through this occupation?**
+A: This occupation is on the Critical Skills list and eligible for a Critical Skills Employment Permit. Apply directly after receiving a job offer; spouse can work; can switch to permanent residence after 2 years.
+
+**Q: What education is needed to become an air conditioning and refrigeration mechanic?**
+A: Typically through a 4-year apprenticeship; can also seek apprenticeship after obtaining an advanced certificate from a relevant polytechnic. Earn wages during apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Air Conditioning and Refrigeration Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Air Conditioning and Refrigeration Mechanics?**
-答：Entry-level salaries range from €28,000 to €35,000, mid-level from €35,000 to €48,000, and senior roles up to €60,000, with overtime and allowances.
-
-**问：How can overseas workers immigrate to Ireland through this occupation?**
-答：This occupation is on the Critical Skills list, eligible for a Critical Skills Employment Permit. Apply directly with a job offer; spouse can work, and permanent residence is possible after 2 years.
-
-**问：What education is required to become an Air Conditioning and Refrigeration Mechanic?**
-答：Typically a 4-year apprenticeship, or an advanced certificate from an institute of technology followed by an apprenticeship. Apprentices earn wages during training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

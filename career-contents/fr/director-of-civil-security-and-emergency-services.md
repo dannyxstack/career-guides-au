@@ -1,62 +1,97 @@
-# Director of Civil Security and Emergency Services（Director of Civil Security and Emergency Services）职业分析 · FR
+# Director of Civil Security and Emergency Services — career analysis · France
 
-**职业代码：K1702 – Director of Civil Security and Emergency Services。**
+**Occupation code: K1702 (ROME)**
 
-Coordinates and manages civil security and emergency operations in France, including fire, natural disasters, and major accidents. Supervises response teams, develops contingency plans, and allocates resources to ensure public safety.
+Responsible for coordinating and managing civil safety and rescue operations in France, including emergency responses to fires, natural disasters, and major accidents. Supervise rescue teams, formulate emergency plans, manage resource allocation, and ensure public safety.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后初级培训（CAP/BEP） | 2年（CAP） | —（可通过学徒制免费学习，部分学校收费） |
-| 短期职业本科（Licence professionnelle） | 3年（Licence） | $3,000~$8,000（公立大学学费约3000欧元/年，私立院校更高） |
-| 硕士（Master） | 5年（Master） | $5,000~$15,000（公立大学约5000欧元/年，私立商学院可达15000欧元） |
+| Post-High School Junior Training (CAP/BEP) | 2 years (CAP) | $0~$3,000 (Students can study for free through apprenticeships, with some schools charging fees) |
+| Short-term Vocational Undergraduate (Licence Professionnelle) | 3 years (Licence) | $3,000~$8,000 (Tuition at public universities is about 3,000 euros per year, while private institutions offer higher fees) |
+| Master's Degree (Master) | 5 years (Master) | $5,000~$15,000 (Public universities around €5,000/year, private business schools up to €15,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家民事安全文凭（DNSC） | 法国内政部 | 必备 | 担任指挥职务的必备文凭，涵盖应急管理和危机应对 |
-| 消防员高级培训（FMPA） | 国家消防员培训中心 | 必备 | 针对消防指挥官的培训课程，需多年经验 |
-| 救援管理证书（CGR） | 法国红十字会或同等机构 | 可选 | 非强制，但有助于晋升 |
+| National Civil Security Diploma (DNSC) | French Ministry of the Interior | Required | A mandatory diploma for command positions, covering emergency management and crisis response |
+| Advanced Firefighter Training (FMPA) | National Firefighter Training Center | Required | Training courses for fire commanders require years of experience |
+| Rescue Management Certificate (CGR) | The French Red Cross or equivalent organizations | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。受气候变化和自然灾害增多影响，法国对民事安全专业人才需求持续上升。政府加大投入，岗位稳定，但竞争激烈，需长期培训和经验积累。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Due to climate change and increasing natural disasters, France's demand for civil security professionals continues to rise. The government increased investment, and the positions were stable, but competition was fierce and long-term training and experience accumulation were needed.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$45,000 | 税前年薪，含补贴 |
-| 中级（5-10年） | $45,000~$60,000 | 税前年薪 |
-| 高级（10年以上） | $60,000~$85,000 | 税前年薪，含管理津贴 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $35,000~$45,000 | Annual salary before tax, including allowances |
+| Intermediate (5-10 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (10+ years) | $60,000~$85,000 | Pre-tax annual salary, including management allowance |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常从基层消防或救援人员起步，通过晋升至中高级指挥官，最终可担任省级或国家级安全部门主管。需多年实战经验及高级管理培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on civil safety and rescue command is mixed: automation can take over data analysis and resource scheduling, but decision-making responsibilities and legal risks still fall on humans, and the unpredictability of on-site command limits AI replacement.
+
+Career paths typically start as grassroots firefighters or rescue personnel, advance through promotion to mid-to-senior commanders, and eventually become heads of provincial or national security departments. Years of practical experience and senior management training are required.
+
+**Tasks most exposed to AI:**
+
+- Real-time disaster monitoring and data analysis (AI automatically identifies disaster patterns in satellite images)
+- Resource scheduling and route optimization (AI algorithms automatically assign fire trucks and rescue teams)
+- Standardized report generation (AI automatically writes accident summaries and resource consumption reports)
+- Preliminary screening of multi-department communication coordination (AI automatic classification and distribution of alert information)
+- Scene generation in training simulation (AI automatically creates realistic emergency drill environments)
+
+**Where AI augments the role:**
+
+- Crisis decision support (AI provides real-time risk assessment and optimal course of action recommendations)
+- Resource forecasting and preventive deployment (AI analysis of historical data to predict high-incidence areas)
+- Enhanced visualization of on-site command (AI overlaying real-time drone footage and maps)
+- Cross-departmental intelligent translation and information integration (AI unifies data formats across different systems)
+- Post-event review and strategy optimization (AI identifies response bottlenecks and areas for improvement)
+
+**Human moat:**
+
+- Make fast, high-responsibility decisions under high pressure
+- Build trust and communicate with rescue personnel, the public, and government officials
+- Flexible plans are adjusted according to unpredictable on-site conditions
+- Legal and ethical judgments (such as whether to risk entering dangerous areas)
+- Team morale and corporate culture building
+
+**Skills to build:**
+
+- Use and validation of AI decision support tools (such as disaster simulation software)
+- Fusion analysis of drone and IoT data
+- Basic programming or data analysis skills in the field of public safety
+- Crisis communication and public information release strategies
+- Operation of the cross-departmental digital collaboration platform
+- AI-assisted decision review under ethical and legal frameworks
+
+**Key growth areas:**
 
 - Climate change response
 - Natural disaster preparedness
@@ -65,66 +100,68 @@ Coordinates and manages civil security and emergency operations in France, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需雇主担保及高学历，可在法国合法工作 |
-| Subclass Salarié（Employee Visa） | 受雇工作居留，需雇主提供工作合同，并满足法国劳动市场调节条件 |
-| Subclass Carte bleue UE（EU Blue Card） | 面向高学历人才，最低年薪要求约5.4万欧元，可在欧盟内流动 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requires employer sponsorship and higher education, legal to work in France. |
+| Subclass Salarié (Employee Visa) | For employed work residence, the employer must provide a work contract and meet the conditions for adjusting the French labor market |
+| Subclass Carte bleue UE (EU Blue Card) | Targets highly educated talents, minimum annual salary requirement approximately €54,000, allows mobility within the EU. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Director of Civil Security and Emergency Services？**
-- 有强烈社会责任感和领导力的人
-- 能承受高压、擅长快速决策的人
-- 有公共管理或应急管理背景的人
-
-**谁不适合学Director of Civil Security and Emergency Services？**
-- 无法适应轮班和随时待命工作模式的人
-- 对创伤和紧急情况敏感、心理承受力弱的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong sense of social responsibility and leadership
+- Someone who can handle high pressure and excels at quick decision-making
+- People with backgrounds in public administration or emergency management
+
+**Who is not suited**
+- People who cannot adapt to shift and on-call work modes
+- People sensitive to trauma and emergencies, with weak psychological resilience
+
+---
+
+## 8. FAQ
+
+**Q: Does this occupation have high salary growth potential?**
+A: With experience and job promotion, salaries can increase from 35,000 euros at junior level to 85,000 euros at seniors, but the growth is relatively moderate and mainly depends on promotion.
+
+**Q: How can non-EU citizens enter this profession?**
+A: You must first obtain a French work contract and immigrate through a talent passport or EU Blue Card. Since positions usually require French nationality or long-term residency, this poses significant challenges for foreigners.
+
+**Q: How competitive is the pressure of this profession?**
+A: Competition is fierce because there are few positions and internal promotion paths are clear, often requiring you to start from the grassroots and undergo years of selection.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Director of Civil Security and Emergency Services为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth in this career?**
-答：With experience and promotion, salary can increase from €35,000 to €85,000, but growth is gradual and largely depends on advancement.
-
-**问：How can non-EU citizens enter this profession?**
-答：They need a French work contract and can apply for a Talent Passport or EU Blue Card. However, positions often require French citizenship or long-term residency, posing a major challenge.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

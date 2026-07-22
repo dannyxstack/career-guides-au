@@ -1,60 +1,92 @@
-# Builder's Labourer（Builder's Labourer）职业分析 · 新西兰
+# Builder's Labourer — career analysis · New Zealand
 
-**职业代码：821111 – Builder's Labourer。**
+**Occupation code: 821111 (ANZSCO)**
 
-Builder's Labourers perform physical tasks on construction sites, assisting tradespeople with bricklaying, concreting, and scaffolding. No formal qualifications required, but good physical fitness is essential. This occupation can lead to immigration via the Accredited Employer Work Visa (AEWV), but is not on the Green List or core skilled migration list.
+Construction workers are entry-level manual laborers on construction sites, assisting tradespeople with tasks like bricklaying, concrete, scaffolding, etc. No formal education required, but good physical fitness is needed. This occupation can immigrate through the Accredited Employer Work Visa (AEWV), but is not on the Green List or the Skilled Migrant Category core list.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训 | 1-3年 | —（通常由雇主提供，无需学费） |
-| 证书课程 | 6个月 | $3,000~$8,000（如新西兰建筑业培训组织（BCITO）的初级证书） |
+| On-the-job training | 1-3 years | $0~$2,000 (Usually provided by the employer, no tuition fees) |
+| Certificate course | 6 months. | $3,000~$8,000 (e.g., the BCITO entry-level certificate in New Zealand) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰建筑工地安全卡（Site Safe） | Site Safe | 必备 | 基本安全培训，部分工地要求 |
-| 驾驶执照 | 新西兰交通局 | 可选 | 可能需Class 1或2驾照，便于运输材料 |
+| Site Safe card for New Zealand construction sites | Site Safe | Required | Basic safety training, required on some sites |
+| Driver's license | New Zealand Transport Agency. | Optional | May require a Class 1 or 2 license for transporting materials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 35,000。新西兰建筑业持续增长，住房和基础设施需求旺盛，建筑工人需求稳定。预计未来5年就业机会保持良好水平。
+**Job demand: very high (★★★★½).** National workforce approx. 35,000. New Zealand's construction industry continues to grow, with strong demand for housing and infrastructure, ensuring stable demand for construction workers. Employment opportunities are expected to remain good over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $40,000~$50,000 | 最低工资或略高 |
-| 中级（2-5年） | $50,000~$65,000 | 有经验后薪资上升 |
-| 高级（5年以上） | $65,000~$80,000 | 可晋升为工头或高技能工人 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $40,000~$50,000 | Minimum wage or slightly higher |
+| Intermediate (2-5 years) | $50,000~$65,000 | Salary increases with experience |
+| Senior (5+ years) | $65,000~$80,000 | Can be promoted to foreman or highly skilled worker |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 建筑工人可通过积累经验晋升为熟练技工（如木工、砌砖工），进而获得更高薪资和移民机会。部分人可成为工地主管或自雇承包商。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical tasks of construction workers face automation squeeze; low entry barriers but high replacement risk, requiring shift to skilled roles to maintain job security.
+
+Construction workers can advance to skilled trades (e.g., carpentry, bricklaying) through experience, leading to higher wages and immigration opportunities. Some may become site supervisors or self-employed contractors.
+
+**Tasks most exposed to AI:**
+
+- Bricklaying and concrete paving are being replaced by bricklaying robots and concrete laser screed machines
+- Repetitive connection work in scaffolding erection is replaced by automated scaffolding systems
+- Material handling and cleaning replaced by autonomous transport robots
+- On-site measuring and marking replaced by laser scanning and BIM automation
+
+**Where AI augments the role:**
+
+- Display blueprints and construction instructions via AR helmets, improving precision and efficiency
+- AI scheduling system optimizes material and tool delivery, reducing waiting time.
+- Drone inspection for high-altitude work, assisting safety monitoring and quality checks
+
+**Human moat:**
+
+- Flexibility to adapt in complex environments, such as handling irregular structures
+- Judgment and manual adjustment experience with imperfect materials
+- Teamwork and on-site communication, especially decision-making in emergencies
+- Human-robot collaboration trust in hazardous operations such as heights and confined spaces
+
+**Skills to build:**
+
+- Operating semi-automated equipment, such as bricklaying robots.
+- Understanding BIM models and digital construction instructions
+- Basic programming and robot maintenance skills
+- Ability to integrate safety regulations with AI-assisted systems.
+- English communication skills to match technical documents
+- Learn new construction techniques such as modular assembly
+
+**Key growth areas:**
 
 - AEWV
 - Construction Boom
@@ -63,69 +95,68 @@ Builder's Labourers perform physical tasks on construction sites, assisting trad
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需有认证雇主，从事建筑工人工作，可累积经验后申请居留，但无直接绿色清单通道。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民要求ANZSCO技能等级4-5需时薪达$25.29或更高，建筑工人通常符合，但需雇主支持。 |
-| Subclass Green List T2（Green List Tier 2） | 建筑工人不在绿色清单上，但相关技工职位（如木工）可能适用。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer, working as a construction laborer, can accumulate experience to apply for residency, but no direct green list pathway. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires ANZSCO skill level 4-5 to have a hourly wage of $25.29 or higher; construction workers usually meet this, but employer sponsorship is needed. |
+| Subclass Green List T2 (Green List Tier 2) | Construction workers are not on the Green List, but related skilled trades (e.g., carpentry) may apply. |
 
-**PR难度：较难（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Builder's Labourer？**
-- 身体强壮，能适应户外体力劳动
-- 愿意从基层做起，积累经验后提升技能
-- 持有新西兰有效驾照者优先
-
-**谁不适合学Builder's Labourer？**
-- 无法承受重体力劳动或恶劣天气
-- 期望高薪和快速晋升者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong, able to handle outdoor manual work
+- Willing to start from the ground up, gain experience then improve skills
+- Hold a valid New Zealand driver's license preferred.
+
+**Who is not suited**
+- Unable to handle heavy physical labor or harsh weather conditions
+- Those seeking high salaries and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for construction workers?**
+A: Entry-level about NZ$40,000-50,000, mid-level NZ$50,000-65,000, senior up to NZ$80,000. Overtime or night shifts provide extra income.
+
+**Q: How can construction workers immigrate to New Zealand?**
+A: Accredited Employer Work Visa (AEWV) is the main pathway; after working for a certain period, can apply for skilled migration. Construction workers are not on the Green List, but becoming a tradesperson increases the possibility.
+
+**Q: Do construction workers have career development prospects?**
+A: Yes, through apprenticeships to become tradespeople such as carpenters or bricklayers, with better salary and immigration prospects. Can also advance to site supervisor or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较难（★★★½☆） |
-
-Builder's Labourer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Builder's Labourer?**
-答：Entry-level: $40,000-$50,000, intermediate: $50,000-$65,000, senior: $65,000-$80,000. Overtime and night shifts may provide extra income.
-
-**问：How can a Builder's Labourer immigrate to New Zealand?**
-答：The Accredited Employer Work Visa (AEWV) is the primary pathway. After gaining experience, you may apply for skilled residence. This occupation is not on the Green List, but progression to tradesperson improves chances.
-
-**问：What is the career progression for a Builder's Labourer?**
-答：Yes, through apprenticeships to become a carpenter, bricklayer, or other tradesperson, leading to higher pay and better immigration prospects. Or progress to site supervisor or self-employment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

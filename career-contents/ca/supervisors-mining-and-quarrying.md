@@ -1,59 +1,92 @@
-# Supervisors, mining and quarrying（Supervisors, mining and quarrying）职业分析 · 加拿大
+# Supervisors, mining and quarrying — career analysis · Canada
 
-**职业代码：82020 – Supervisors, mining and quarrying。**
+**Occupation code: 82020 (NOC)**
 
-Supervises mining operations, ensures safety and production targets. Eligible for Express Entry and PNP immigration, suitable for experienced overseas applicants.
+Responsible for supervising mining operations, ensuring safety and output at Canadian mines; a technical management role. This occupation can lead to immigration via Express Entry or PNP, especially suitable for overseas applicants with relevant experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专或矿工培训 | 2年 | $15,000~$30,000（矿业技术学院的文凭课程） |
-| 本科工程学位 | 4年 | $60,000~$120,000（采矿工程学士，对管理岗位有帮助） |
+| Associate degree or miner training | 2 years | $15,000~$30,000 (Diploma programs at mining technology institutes.) |
+| Bachelor's degree in engineering | 4 years | $60,000~$120,000 (Bachelor's degree in mining engineering, helpful for management roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 证明海外学历等同于加拿大标准 |
-| 省级矿工证书 | 省级矿业监管机构 | 必备 | 部分省份要求特定的主管证书 |
-| 英语/法语语言考试 | IELTS/TEF等 | 必备 | 满足移民和职业注册的语言要求 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Prove that overseas qualifications are equivalent to Canadian standards |
+| Provincial miner's certificate | Provincial mining regulatory authority | Required | Some provinces require specific supervisor certificates |
+| English/French language test | IELTS/TEF etc. | Required | Meet language requirements for immigration and professional registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。加拿大矿业在卑诗省、安省、萨斯喀彻温省和育空地区持续发展，对经验丰富的主管需求稳定。未来五年就业前景中等，但受大宗商品价格波动影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Canadian mining continues to develop in British Columbia, Ontario, Saskatchewan, and Yukon, with stable demand for experienced supervisors. Employment outlook over the next five years is moderate but subject to commodity price fluctuations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 助理主管或小型矿山 |
-| 中级（3-7年） | $80,000~$110,000 | 有经验的主管 |
-| 高级（7年以上） | $110,000~$145,000 | 大型矿山高级主管或经理 |
+| Median salary | $105,290 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $65,000~$80,000 | Assistant supervisor or small-scale mine |
+| Mid-level (3–7 years) | $80,000~$110,000 | Experienced supervisor |
+| Senior (7+ years) | $110,000~$145,000 | Senior Executive or Manager in a Large Mine |
+| average salary | $108,160 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从采掘工人晋升为副主管、主管、矿山经理。累积经验后可担任项目经理或顾问，也可转向大型采矿公司的区域管理岗位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Supervisory decisions of mining and quarry supervisors are not easily replaced, but tasks like data reporting and document management can be heavily automated by AI, making the overall impact mixed.
+
+Can progress from extraction worker to deputy supervisor, supervisor, mine manager. With experience, can become project manager or consultant, or move to regional management roles in large mining companies.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate daily production reports and safety logs.
+- Sensor-based equipment failure prediction and scheduling
+- AI optimization solution generation for mine mapping and blast design
+- Auto-fill and submission of compliance checklists
+
+**Where AI augments the role:**
+
+- AI-assisted real-time monitoring of mine safety conditions and warning
+- Simulation and optimization of production processes using digital twins
+- Automatically analyze geological data to optimize mining plans
+- AI-driven training simulators enhance new employee skills
+
+**Human moat:**
+
+- On-site judgment and decision-making in emergencies
+- Cross-departmental coordination with workers, engineers, and regulators
+- Human-centered communication and team leadership in safety management
+- Flexible problem-solving skills for unstructured failures
+
+**Skills to build:**
+
+- Mine digital management platforms (e.g., Deswik, Vulcan)
+- Basics of IoT and sensor data analysis
+- Use of AI-assisted decision-making tools (e.g., predictive maintenance software)
+- Remote monitoring and automated dispatch system operation
+- Basic programming and script automation (Python/SQL)
+- Data visualization and report automation (Power BI)
+
+**Key growth areas:**
 
 - Mining boom
 - Resource extraction
@@ -62,68 +95,67 @@ Supervises mining operations, ensures safety and production targets. Eligible fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类快速通道获得永久居留权，需满足CRS分数。适合有高学历、语言能力和工作经验的申请人。 |
-| Subclass PNP（Provincial Nominee Program） | 通过省提名计划，如卑诗省、萨省、安省的矿业类提名，可获额外加分。通常要求雇主担保。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋移民计划适用于在大西洋四省工作的申请人，对矿业岗位的支持有限。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Obtain permanent residency through Federal Skilled Worker or Canadian Experience Class under Express Entry, requiring a CRS score. Suitable for applicants with high education, language ability, and work experience. |
+| Subclass PNP (Provincial Nominee Program) | Through Provincial Nominee Programs (PNPs) like those in British Columbia, Saskatchewan, or Ontario for mining occupations, you can receive additional points. Usually requires employer sponsorship. |
+| Subclass AIP (Atlantic Immigration Program) | The Atlantic Immigration Program applies to applicants working in the four Atlantic provinces, with limited support for mining roles. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, mining and quarrying？**
-- 有地下矿山工作经验，能从基层做到主管者
-- 具有安全意识和管理能力，适应偏远地区工作
-- 愿意接受语言培训并通过雅思CLB 7或以上
-
-**谁不适合学Supervisors, mining and quarrying？**
-- 不能承受井下艰苦环境和高强度体力劳动
-- 英语基础薄弱，短时间内难以达到CLB 5以上
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with underground mine work experience who can rise from entry level to supervisor.
+- Safety awareness and management skills, adaptable to remote area work
+- Willing to undergo language training and achieve IELTS CLB 7 or above
+
+**Who is not suited**
+- Cannot withstand harsh underground conditions and high-intensity physical labor
+- Weak English foundation, difficult to reach CLB 5 or above in a short time
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a mine supervisor in Canada?**
+A: Entry-level annual salary is approximately CAD 65,000-80,000, depending on mineral type, region, and experience.
+
+**Q: I am a mine deputy supervisor in Australia; how can I immigrate to Canada?**
+A: Can immigrate through Express Entry (must meet FSW or CEC requirements) or provincial nomination (e.g., Saskatchewan or British Columbia mining category). Need ECA credential assessment and language test scores.
+
+**Q: Is a Canadian Mine Supervisor Certificate required?**
+A: Some provinces require supervisor certificates, such as Ontario's 'Supervisor Common Core'. It is recommended to first assess overseas experience and obtain certification through exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisors, mining and quarrying的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a mine deputy in Canada?**
-答：Entry-level position pays around CAD 65,000-80,000 per year, depending on mine type, location, and experience.
-
-**问：I am a mine deputy in Australia, how can I immigrate to Canada?**
-答：You can immigrate via Express Entry (FSW or CEC) or Provincial Nominee Program (e.g., Saskatchewan, BC). You need ECA and language test scores.
-
-**问：Do I need a Canadian mine supervisor certificate?**
-答：Some provinces require a supervisor certificate, e.g., Ontario's 'Supervisor Common Core'. Assess overseas experience and pass exam for certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

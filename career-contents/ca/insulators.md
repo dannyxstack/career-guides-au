@@ -1,59 +1,93 @@
-# Insulators（Insulators）职业分析 · 加拿大
+# Insulators — career analysis · Canada
 
-**职业代码：72321 – Insulators。**
+**Occupation code: 72321 (NOC)**
 
-Insulators install and repair thermal, acoustic, and moisture-proofing materials on buildings, pipes, and equipment to ensure energy efficiency and safety.
+Insulators install and repair thermal, sound, and moisture insulation materials in buildings, pipes, and equipment to ensure energy efficiency and safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（无需额外费用） |
-| 学徒制 | 4年 | $500~$2,000（课程费用低，兼职可获得收入） |
+| High school graduation | None | $0~$0 (No additional fees) |
+| Apprenticeship | 4 years | $500~$2,000 (Low course fees, and you can earn income through part-time work) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级学徒注册 | 各省学徒机构 | 必备 | 需注册学徒计划并完成在职培训 |
-| 红印认证 | 加拿大红印计划 | 可选 | 通过省际考试后获得，可在全国执业 |
-| 高空作业安全证书 | 省级安全监管机构 | 可选 | 部分雇主或工地要求 |
+| Provincial apprenticeship registration | Provincial apprenticeship authorities | Required | Must register for an apprenticeship program and complete on-the-job training |
+| Red Seal certification | Canadian Red Seal Program | Optional | Obtained after passing an inter-provincial exam; practice is allowed nationwide |
+| Safety certificate for working at heights | Provincial safety regulatory agency | Optional | Required by some employers or sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 14,500。加拿大建筑行业持续增长，绿色建筑和能效改造需求推动绝缘工就业前景良好，尤其在不列颠哥伦比亚省和安大略省。预计未来十年岗位增长稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 14,500. The Canadian construction industry continues to grow, with green building and energy efficiency retrofit driving good employment prospects for insulators, especially in British Columbia and Ontario. Steady job growth is expected over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 取决于省份和雇主 |
-| 中级（3-7年） | $55,000~$75,000 | 含加班收入可能更高 |
-| 高级（7年以上） | $75,000~$95,000 | 主管或承包商收入更高 |
+| Median salary | $78,229 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Depends on province and employer |
+| Mid-level (3–7 years) | $55,000~$75,000 | Including overtime pay, income may be higher |
+| Senior (7+ years) | $75,000~$95,000 | Supervisors or contractors earn higher incomes. |
+| average salary | $74,880 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 绝缘工可从学徒晋升为熟练技工，进而成为主管或项目经理。通过获得红印认证，可在全国范围内工作。部分经验丰富者选择自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on insulation workers is mixed: automated tools and AI design software optimize material estimation and installation plans, but on-site construction and custom work remain difficult to replace.
+
+Insulation workers can progress from apprentice to skilled tradesperson, then to supervisor or project manager. By obtaining a Red Seal certification, they can work nationwide. Some experienced workers choose to start their own business.
+
+**Tasks most exposed to AI:**
+
+- Use AI design software to automatically generate insulation plans and material lists
+- UAV or robot inspection of thermal insulation in high-altitude or confined spaces
+- AI energy consumption simulation system optimizes insulation material thickness and type selection
+- Automated cutting machinery precisely cuts insulation materials according to digital templates
+
+**Where AI augments the role:**
+
+- AI thermal imaging analysis assists in detecting insulation defects, improving installation quality
+- AR glasses overlay construction guidance to reduce rework and material waste
+- AI scheduling system optimizes project timelines and material supply chain management
+- Smart sensors monitor insulation performance in real-time, supporting predictive maintenance
+
+**Human moat:**
+
+- On-site application and customised processing of irregular-shaped surfaces.
+- Experience-based judgment when handling non-standard structures in old buildings
+- work safety judgment (fall prevention, dust protection, etc.)
+- Communication and coordination with owners and supervisors, and on-site adaptability
+- Mastery of installation techniques for special materials (fire-resistant, eco-friendly)
+
+**Skills to build:**
+
+- Learn to use Building Information Modeling (BIM) and AI-assisted design tools
+- Master infrared thermal cameras and drone detection operations
+- Gaining knowledge of green building certification (e.g., LEED)
+- Enhance ability to use digital tools for project management and supply chain coordination
+- Learn basic programming or automation scripts (e.g., Excel macros, Python).
+- Improve installation techniques for special materials (aerogels, vacuum insulation panels)
+
+**Key growth areas:**
 
 - Green construction
 - Energy efficiency
@@ -62,68 +96,67 @@ Insulators install and repair thermal, acoustic, and moisture-proofing materials
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 通过联邦技术移民，需满足语言、教育、工作经验要求。 |
-| Subclass PNP（Provincial Nominee Program） | 各省省提名项目，如安大略省、不列颠哥伦比亚省，针对技工类职业。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明招聘不到本地工人。 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Through Federal Skilled Migration, you need to meet language, education, and work experience requirements. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and British Columbia, for skilled trade occupations. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa requires proof of inability to recruit local workers. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insulators？**
-- 喜欢动手、体能好且注重细节的人
-- 愿意从事户外和室内建筑施工的人
-- 希望在加拿大获得稳定技工职业的人
-
-**谁不适合学Insulators？**
-- 不喜欢高空作业或密闭空间的人
-- 对粉尘和玻璃纤维过敏或不适的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like hands-on work, have good physical fitness, and pay attention to detail.
+- Willing to work in outdoor and indoor building construction
+- Those seeking stable skilled trade careers in Canada
+
+**Who is not suited**
+- For those who dislike working at heights or in confined spaces.
+- People who are allergic or sensitive to dust and fiberglass
+
+---
+
+## 8. FAQ
+
+**Q: How much do insulators earn in Canada?**
+A: Entry-level annual salary approximately CAD 40,000-55,000; intermediate CAD 55,000-75,000; senior CAD 75,000-95,000. Overtime and certifications can increase income.
+
+**Q: How can an insulator immigrate to Canada?**
+A: Eligible through Federal Skilled Worker (FSW), Provincial Nominee (e.g., Ontario, BC), or employer-sponsored LMIA. Skilled trade provincial nominations typically require an employer offer and apprenticeship certification.
+
+**Q: Is Red Seal certification required?**
+A: Not mandatory, but holding a Red Seal certification allows inter-provincial work and improves job opportunities. Mutual recognition exists among provincial apprenticeship systems.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Insulators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for insulators in Canada?**
-答：Entry-level annual salary is about CAD 40,000-55,000, mid-level CAD 55,000-75,000, and senior CAD 75,000-95,000. Overtime and certifications can increase earnings.
-
-**问：How can insulators immigrate to Canada?**
-答：Through Federal Skilled Worker, Provincial Nominee Programs (e.g., Ontario, BC), or employer-sponsored LMIA. Trades PNP often require a job offer and apprenticeship certification.
-
-**问：Is Red Seal certification required?**
-答：Not mandatory, but it allows interprovincial work and increases job opportunities. Apprenticeship programs are recognized across provinces.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

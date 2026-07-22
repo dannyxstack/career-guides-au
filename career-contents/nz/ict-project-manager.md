@@ -1,59 +1,95 @@
-# ICT Project Manager（ICT Project Manager）职业分析 · 新西兰
+# ICT Project Manager — career analysis · New Zealand
 
-**职业代码：135112 – ICT Project Manager。**
+**Occupation code: 135112 (ANZSCO)**
 
-ICT Project Manager plans, executes, and delivers IT projects, coordinating teams, budgets, and timelines. In New Zealand, demand is high, with migration pathways via Green List Tier 2 or Skilled Migrant Category, requiring relevant qualifications and experience.
+ICT Project Managers play a core role in planning, executing, and delivering IT projects, coordinating teams, budgets, and timelines to ensure projects meet business needs. This occupation is in high demand in New Zealand and can lead to immigration via Green List Tier 2 or Skilled Migrant Category; relevant qualifications and experience are required.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $32,000~$45,000（信息技术或相关专业，如项目管理、计算机科学。年均学费，含教材和设施费。） |
-| 硕士 | 1-2年 | $50,000~$70,000（项目管理硕士或MBA，年均学费，可选1年制加速课程。） |
+| Bachelor's degree | 3 years | $32,000~$45,000 (Information technology or related fields, such as project management, computer science. Annual tuition fees include textbook and facility fees.) |
+| Master's degree | 1-2 years | $50,000~$70,000 (Master's in project management or MBA, average annual tuition, with optional 1-year accelerated programs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理专业认证(PMP) | 项目管理协会(PMI) | 可选 | 全球认可，需相关学历及项目管理经验，考试费约700-900 NZD。非强制但强烈推荐。 |
-| PRINCE2认证 | AXELOS | 可选 | 英国方法，新西兰企业常用。基础级考试费约500 NZD，从业级约800 NZD。非强制。 |
-| 雅思/托福成绩 | IELTS/TOEFL | 必备 | 技术移民需雅思总分6.5或以上，单项≥6.0；或托福iBT 79分以上。 |
+| IELTS/TOEFL scores. | IELTS/TOEFL | Required | Skilled migration requires IELTS overall 6.5 or above, with each band ≥6.0; or TOEFL iBT 79 or above. |
+| Project Management Professional (PMP) | Project Management Institute (PMI) | Optional | Globally recognised, requires relevant education and project management experience, exam fee approx. 700-900 NZD. Not mandatory but highly recommended. |
+| PRINCE2 certification | AXELOS | Optional | UK method, commonly used by New Zealand businesses. Basic exam fee approx. 500 NZD, practitioner level approx. 800 NZD. Not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。新西兰ICT行业持续增长，数字化转型加速，ICT项目经理需求旺盛。政府重大项目及企业技术升级推动就业增长，尤其在奥克兰、惠灵顿和基督城。未来五年就业机会预计保持强劲，但需关注技术迭代带来的技能更新要求。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. New Zealand's ICT industry continues to grow, with digital transformation accelerating, and high demand for ICT project managers. Government major projects and enterprise technology upgrades drive employment growth, especially in Auckland, Wellington, and Christchurch. Job opportunities are expected to remain strong over the next five years, but attention must be paid to skill updates required by technological iteration.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | 通常需1-2个项目经验，薪资含养老金(KiwiSaver)。 |
-| 中级（3-6年） | $100,000~$130,000 | 能独立管理中等复杂项目，常见于外包或企业IT部门。 |
-| 高级（6年以上） | $135,000~$170,000 | 管理大型项目或多个项目，可能带团队，含绩效奖金。 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $75,000~$95,000 | Typically requires 1-2 project experiences, salary includes superannuation (KiwiSaver). |
+| Mid-level (3–6 years) | $100,000~$130,000 | Able to independently manage medium-complexity projects, common in outsourcing or corporate IT departments. |
+| Senior (6+ years) | $135,000~$170,000 | Manage large projects or multiple projects, possibly leading a team, including performance bonuses. |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径通常从初级项目经理或业务分析师起步，逐步晋升为高级项目经理、项目群经理或IT总监。积累大型项目经验后可转向咨询或创业。新西兰认证机构如PMI NZ提供认证课程，提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+IT project managers face AI-driven task automation (e.g., report generation, progress tracking), but core cross-team coordination, risk management and client communication still require human judgment, presenting a mixed outlook.
+
+Career path typically starts from junior project manager or business analyst, progressing to senior project manager, program manager, or IT director. With experience in large projects, one can move into consulting or entrepreneurship. Certification bodies like PMI NZ offer certification courses to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Generate milestone reports and status updates
+- Automatic task assignment and progress tracking
+- Initial maintenance and early warning of the risk register
+- Compile meeting minutes and action items
+- Automated calculation and adjustment of resource load
+
+**Where AI augments the role:**
+
+- Use AI to predict risks and cost overruns
+- Query project databases using natural language to gain insights
+- AI-assisted generation of project presentation and communication materials
+- Automatically analyze historical data to optimize project scheduling
+- AI-driven virtual assistant coordinates multi-team schedules
+
+**Human moat:**
+
+- Cross-team and stakeholder negotiation and persuasion
+- Handling complex conflicts of interest and politically sensitive issues
+- Understanding and translating ambiguous business requirements
+- Team morale management and conflict mediation
+- Accountability for key investment decisions
+
+**Skills to build:**
+
+- Use of AI project management tools (e.g., Jira+AI plugins)
+- Data-driven decision-making and analytical skills
+- Prompt engineering and AI dialogue collaboration
+- Change management and advanced agile methodologies
+- Basic data science and visualisation (e.g., Python, Tableau)
+- AI ethics and governance knowledge
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ ICT Project Manager plans, executes, and delivers IT projects, coordinating team
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+经验+年龄），需ANZSCO 1-3级职业，薪资达中位数(29.66 NZD/小时或约62000 NZD年)。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | ICT项目经理在T2名单，需受认证雇主雇佣，工作2年后可申请居留。薪资需达中位数的1.5倍(约93,000 NZD)。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 受认证雇主工签，最长3年，可续签，但移民路径需依赖SMC或Green List。薪资需达市场水平。 |
+| Subclass SMC (Skilled Migrant Category) | Meets 6-point system (qualifications + experience + age), requires ANZSCO 1-3 level occupation, salary reaches median (29.66 NZD/hour or about 62,000 NZD/year). |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | ICT Project Manager is on the T2 list, must be employed by an accredited employer, and can apply for residency after working for 2 years. Salary must reach 1.5 times the median (approximately 93,000 NZD). |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, up to 3 years, renewable, but immigration pathway relies on SMC or Green List. Salary must meet market levels. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Project Manager？**
-- 有IT背景或项目管理经验，善于沟通和领导团队。
-- 具备组织协调能力和风险管控意识，能应对多任务压力。
-- 希望在新西兰长期发展，有意通过技术移民获得居留权。
-
-**谁不适合学ICT Project Manager？**
-- 不喜欢与人沟通或团队协作，偏好独立工作。
-- 缺乏灵活性和应变能力，无法适应项目变更和截止日期压力。
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has IT background or project management experience, good at communication and leading teams.
+- Possess organizational coordination skills and risk awareness, able to handle multitasking pressure.
+- Aiming for long-term development in New Zealand and interested in obtaining residency through skilled migration.
+
+**Who is not suited**
+- Dislikes communicating with people or collaborating in teams, prefers working independently.
+- Lacks flexibility and adaptability, unable to cope with project changes and deadline pressures.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for an ICT Project Manager in New Zealand?**
+A: Mid-level ICT Project Manager earns about NZD 100,000-130,000 annually, senior can reach NZD 135,000-170,000. Junior around NZD 75,000-95,000. Salary affected by experience, certification, and location; Auckland is higher.
+
+**Q: How can an ICT Project Manager migrate to New Zealand?**
+A: Can apply via Skilled Migrant Category (6-point system) or Green List Tier 2. Tier 2 requires accredited employer employment, work for 2 years then apply for residence, salary requirement about NZD 93,000. Can also work on AEWV then switch to residence.
+
+**Q: Do I need New Zealand local certification to apply directly from overseas?**
+A: Local certification is not necessarily required, but holding international certifications such as PMP or PRINCE2 can increase competitiveness. Employers generally recognize overseas experience, but it is recommended to have qualifications assessed (NZQA) in advance for immigration applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-ICT Project Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for ICT Project Managers in New Zealand?**
-答：Mid-level ICT Project Managers earn around NZD 100,000-130,000, senior up to NZD 135,000-170,000. Entry-level ranges from NZD 75,000-95,000. Salary varies by experience, certification, and location, with Auckland paying higher.
-
-**问：How can ICT Project Managers immigrate to New Zealand?**
-答：Via Skilled Migrant Category (6-point system) or Green List Tier 2. Tier 2 requires accredited employer employment with salary ~NZD 93,000, then apply for residence after 2 years. Alternatively, start with AEWV and later transition.
-
-**问：Is a New Zealand local certification required for overseas applicants?**
-答：Not mandatory, but international certifications like PMP or PRINCE2 boost competitiveness. Employers often recognize overseas experience; however, NZQA assessment of qualifications is recommended for immigration purposes.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

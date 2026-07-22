@@ -1,67 +1,93 @@
-# 工业管道安装工（Mechanical Services and Air Conditioning Plumber）职业分析 · 澳大利亚
+# Industrial Pipefitter — career analysis · Australia
 
-**职业代码：334115 – Mechanical Services and Air Conditioning Plumber。**
+**Occupation code: 334115 (ANZSCO)**
 
-工业管道安装工（Pipefitter）专门安装、维修工业过程管道和机械服务管道系统，广泛应用于油气、矿业、LNG和工业设施。与住宅水暖工不同，工业管道工处理高压/高温管道，薪资和需求均明显偏高。澳洲WA/QLD油气和矿业FIFO职位持续短缺。
+An industrial pipefitter installs, maintains, and repairs process piping and mechanical service pipe systems, widely used in oil and gas, mining, LNG, and industrial facilities. Unlike residential plumbers, industrial pipefitters work with high-pressure/high-temperature pipelines, commanding significantly higher salaries and demand. FIFO roles in WA/QLD oil, gas, and mining continue to face persistent shortages.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Engineering (Fabrication) or Plumbing | 42~48个月（学徒） | —（各州差异） |
-| Pipe Welding Certification (AS 2980 / API 1104) | 1~3个月 | $1,000~$3,000（油气/LNG职位必备） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Engineering (Fabrication) or Plumbing | 42–48 months (apprenticeship) | $0~$3,000 (Varies by state) |
+| Pipe Welding Certification (AS 2980 / API 1104) | 1–3 months | $1,000~$3,000 (Essential for oil & gas / LNG roles) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Fabrication or Plumbing | TAFE/RTO | 必备 | 执业核心资质 |
-| Pipe Welding Certificate (AS 2980) | WTIA认可机构 | 可选 | 工业管道强烈推荐 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
+| Certificate III in Fabrication or Plumbing | TAFE/RTO | Required | Core practising qualifications |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| Pipe Welding Certificate (AS 2980) | WTIA-recognised institution | Optional | Strongly recommended for industrial pipefitting |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 18,000。WA LNG设施维护（North West Shelf、Gorgon等）和QLD矿业管道工持续短缺。氢能和绿色制氢基础设施建设将带来新的管道工需求。
+**Job demand: very high (★★★★★).** National workforce approx. 18,000. Ongoing shortages in WA LNG facility maintenance (North West Shelf, Gorgon, etc.) and QLD mining pipefitters. Hydrogen and green hydrogen infrastructure development will create new demand for pipefitters.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~700 个 | 全国，WA/QLD油气矿业集中 |
-| Indeed | 150~400 个 | 含FIFO职位 |
-| LinkedIn | 80~200 个 | 大型工程和LNG方向 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒/初级（0~3年） | $65,000~$85,000 | 制造业基础 |
-| 中级管道工（3~8年） | $90,000~$130,000 | 约$44~$63/hr |
-| 矿业FIFO / LNG专家（8年+） | $130,000~$200,000 | FIFO+关停津贴 |
+| Median salary | $103,480 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice/Entry-level (0–3 years) | $65,000~$85,000 | Manufacturing fundamentals |
+| Intermediate plumber (3–8 years) | $90,000~$130,000 | Approximately $44–$63/hr |
+| Mining FIFO / LNG specialist (8+ years) | $130,000~$200,000 | FIFO + shutdown allowance |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 预制管道模块技术发展，但现场安装和焊接仍不可替代。高级管道焊接（TIG/不锈钢）技能溢价明显，FIFO收入是全澳最高技工之一。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Industrial pipe installation work, as an on-site technical role, has core installation, welding, and testing tasks difficult to replace by AI. However, AI can provide strong assistance in pipe design optimization, material specification matching, maintenance prediction, and report generation. Overall impact is mixed; job demand remains stable but skill requirements increase.
+
+Prefabricated pipeline module technology is advancing, but on-site installation and welding remain irreplaceable. Premium pay for advanced pipe welding skills (TIG/stainless steel) is significant, and FIFO earnings rank among the highest for tradespeople across Australia.
+
+**Tasks most exposed to AI:**
+
+- Use AI for initial design optimization of pipeline system layouts
+- Analyze material specifications and auto-generate bills of materials via AI
+- Using AI to predict pipeline corrosion/leak risks and generate maintenance reports
+- Automatically generate as-built drawings and pipeline stress analysis reports
+
+**Where AI augments the role:**
+
+- AI-assisted 3D modeling and pipeline collision detection improve installation accuracy
+- AI-driven real-time monitoring systems enhance fault diagnosis efficiency
+- AI-optimized pipeline welding parameters and processes
+- AI-generated technical documents and compliance reports save documentation time
+
+**Human moat:**
+
+- On-site installation, welding, and commissioning of high-pressure and high-temperature pipelines
+- Judgment and problem-solving skills for complex on-site environments
+- Responsibility to comply with safety standards (e.g., ASME B31.3)
+- Collaborative communication skills with clients and engineers
+
+**Skills to build:**
+
+- Proficient in BIM software such as AutoCAD/Revit MEP
+- Learn to use pipe stress analysis software (e.g., CAESAR II)
+- Master Basic Digital Tools and Mobile Diagnostic Apps
+- Enhanced ability to interpret AI-generated repair recommendations
+- Understanding basics of industrial IoT and sensors
+
+**Key growth areas:**
 
 - Oil & Gas Process Piping
 - Mining Plant Piping
@@ -70,70 +96,67 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学工业管道安装工？**
-- 有工业管道、焊接或油气经验，目标FIFO高薪职位
-- 接受WA/QLD偏远矿区FIFO工作方式
-- 有管道焊接认证（TIG/不锈钢），追求最高收入
-
-**谁不适合学工业管道安装工？**
-- 不接受FIFO和工业现场环境
-- 无管道或焊接基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Candidates with industrial piping, welding, or oil and gas experience targeting high-paying FIFO positions
+- Willing to work FIFO rosters at remote mining sites in WA/QLD
+- Holds a pipe welding certification (TIG/stainless steel) and seeking maximum earnings
+
+**Who is not suited**
+- Not suited to FIFO or industrial site environments
+- No plumbing or welding background
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an industrial plumber in Australia?**
+A: Mid-level industrial plumber annual salary approximately $90,000–$130,000 ($44–$63/hr). Mining FIFO specialists can earn $130,000–$200,000, with shutdown contractors earning more.
+
+**Q: Is it easy to find work as an industrial plumber in Australia?**
+A: Very easy. FIFO positions in WA/QLD oil, gas and mining are in acute shortage, with 300–700 jobs listed nationally on Seek at any given time.
+
+**Q: What is the difference between an industrial pipefitter and a general plumber?**
+A: Industrial pipefitters specialise in high-pressure/high-temperature industrial pipelines (oil, gas, mining), while residential plumbers work on water supply and drainage systems. Industrial pipefitters typically earn 20–50% more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 334115 数据 |
-| Seek AU | Pipefitter 薪资及岗位量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-工业管道安装工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲工业管道工工资多少？**
-答：中级工业管道工年薪约 $90,000~$130,000（$44~$63/hr）。矿业FIFO专家可达 $130,000~$200,000，关停合同工更高。
-
-**问：澳洲工业管道工好找工作吗？**
-答：非常容易。WA/QLD油气矿业FIFO岗位极度短缺，全国Seek挂牌300~700个职位。
-
-**问：工业管道工与普通水管工有什么区别？**
-答：工业管道工专处理高压/高温工业管道（油气/矿业），住宅水管工做供排水系统。工业管道工薪资通常高20~50%。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Mental Health Counselors（Mental Health Counselors）职业分析 · 美国
+# Mental Health Counselors — career analysis · United States
 
-**职业代码：21-1014 – Mental Health Counselors。**
+**Occupation code: 21-1014 (SOC)**
 
-Counsel individuals and groups to promote mental and emotional health, focusing on prevention and issues like addiction, family problems, and stress management.
+Provide psychological and emotional health counseling to individuals and groups, focusing on prevention, helping with addiction, family issues, stress management, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学年均1-3万美元，私立3-5万美元） |
-| 硕士 | 2-3年 | $30,000~$80,000（硕士学位为最低要求，总花费约3-8万美元） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities: $10,000-30,000 per year; private: $30,000-50,000 per year.) |
+| Master's degree | 2-3 years | $30,000~$80,000 (A master's degree is the minimum requirement, with total costs of about $30,000–$80,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 认证大学 | 必备 | 临床心理健康咨询或相关领域 |
-| 州执照 | 各州许可委员会 | 必备 | 需积累3000小时督导经验并通过NCE或NCMHCE考试 |
-| 国家认证咨询师 | NBCC | 可选 | 非强制但提升就业竞争力 |
+| Master's degree | Accredited university | Required | Clinical mental health counseling or related field |
+| State license | State licensing boards | Required | Need to accumulate 3000 hours of supervised experience and pass NCE or NCMHCE exam |
+| National Certified Counselor | NBCC | Optional | Not mandatory but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 320,000。美国心理健康意识提升，需求强劲。BLS预测2023-2033年就业增长18%，远高于平均水平。
+**Job demand: very high (★★★★½).** National workforce approx. 320,000. Rising mental health awareness in the US drives strong demand. BLS projects 18% employment growth from 2023-2033, much faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 社区机构或政府岗位 |
-| 中级（4-9年） | $55,000~$75,000 | 私人诊所或医疗机构 |
-| 高级（10年以上） | $75,000~$100,000 | 私人执业或管理职位 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Community agency or government positions |
+| Intermediate (4-9 years) | $55,000~$75,000 | Private clinic or medical institution |
+| Senior (10+ years) | $75,000~$100,000 | Private practice or management positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级咨询师晋升为临床主管、项目主任或开设私人诊所。需积累临床小时数并取得州执照。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
+
+Can progress from junior counselor to clinical supervisor, program director, or private practice. Requires accumulating clinical hours and obtaining state licensure.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and analysis of initial psychological assessment and diagnostic questionnaires
+- AI-assisted writing of treatment notes, progress reports, treatment plans, and other documents
+- Symptom-based initial information retrieval and standardized advice provision
+- Automated reminders and cognitive behavioral training programs based on preset plans
+- Online programs for self-help interventions for common mental health issues (e.g., mild anxiety, depression)
+
+**Where AI augments the role:**
+
+- Real-time tone and emotion analysis to help counselors identify potential issues
+- Data-driven personalized treatment recommendations and outcome prediction
+- AI-simulated client role-play for skill training and supervision
+- Automatically compile meeting minutes and extract key topics and progress indicators
+- Multimodal data analysis (facial expressions, voice) to enhance diagnostic accuracy
+
+**Human moat:**
+
+- Building a safe and trusting therapeutic alliance with deep empathy
+- Clinical judgment and ethical decision-making in complex situations (e.g., suicide risk assessment)
+- Handling unstructured, emotionally complex interviews and crisis intervention
+- Cultural sensitivity and personalized treatment adjustments
+- Immediate intuition and creative intervention during treatment
+
+**Skills to build:**
+
+- Application and integration of AI-assisted tools (e.g., intelligent diagnostics, document automation)
+- Data analysis and interpretation skills (using AI to process structured assessment data)
+- Operation and personalized adjustment of digital therapy platforms
+- Remote consultation and digital communication skills
+- Ethics and privacy management (compliant use of AI and client data)
+- Continuous learning ability (track cutting-edge AI applications in mental health)
+
+**Key growth areas:**
 
 - Mental Health Awareness
 - Telehealth Expansion
@@ -62,68 +97,67 @@ Counsel individuals and groups to promote mental and emotional health, focusing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需雇主担保，要求硕士以上学位，年度配额有限 |
-| Subclass EB-2（EB-2 Advanced Degree） | 基于硕士以上学位或特殊能力，需PERM劳工证 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需学士学位及2年经验，通过PERM申请 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires employer sponsorship, master's degree or higher, limited annual quota |
+| Subclass EB-2 (EB-2 Advanced Degree) | Based on master's degree or higher or exceptional ability, requires PERM labor certification |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires bachelor degree and 2 years experience, apply through PERM |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mental Health Counselors？**
-- 具备同理心和倾听能力的人
-- 希望帮助他人改善心理健康的人
-- 能承受情感压力并自我调节的人
-
-**谁不适合学Mental Health Counselors？**
-- 不喜欢长时间与人沟通的人
-- 对情绪波动敏感且难以抽离的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and listening skills
+- People who want to help others improve their mental health
+- People who can handle emotional stress and self-regulate
+
+**Who is not suited**
+- People who dislike long-duration communication with others
+- People who are sensitive to emotional fluctuations and find it hard to detach
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for mental health counselors?**
+A: Junior approx. USD 40,000-55,000, mid-level USD 55,000-75,000, senior USD 75,000-100,000; private practice can be higher.
+
+**Q: How can foreign psychologists immigrate to the US?**
+A: Typically requires employer sponsorship for H-1B visa, then apply for a green card via EB-2 or EB-3. Requires US-accredited master's degree and passing licensing exams.
+
+**Q: Is a state license required?**
+A: Yes, all states require a license. Typically requires a master's degree, supervised experience, and passing a national exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较难（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mental Health Counselors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for mental health counselors?**
-答：Entry-level: $40,000-$55,000; Mid-level: $55,000-$75,000; Senior: $75,000-$100,000; private practice can earn more.
-
-**问：How can foreign counselors immigrate to the US?**
-答：Typically require employer-sponsored H-1B visa, then EB-2 or EB-3 green card. Need a US-recognized master's degree and state license.
-
-**问：Is a state license required?**
-答：Yes, all states require licensure. Typically need a master's degree, supervised experience, and passing a national exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

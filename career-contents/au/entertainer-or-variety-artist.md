@@ -1,61 +1,96 @@
-# Entertainer or Variety Artist（Entertainer or Variety Artist）职业分析 · 澳大利亚
+# Entertainer or Variety Artist — career analysis · Australia
 
-**职业代码：211113 – Entertainer or Variety Artist。**
+**Occupation code: 211113 (ANZSCO)**
 
-Performs comedy, magic, acrobatics, or variety acts on stage, TV, or events to entertain audiences.
+Perform comedy, magic, acrobatics, and other variety acts on stage, television, or at events to entertain audiences.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期课程/文凭 | 6个月 | $5,000~$20,000（表演艺术或相关证书课程） |
-| 学士学位 | 3年 | $30,000~$90,000（表演艺术学士，非必需但有助于提升技能） |
+| Short-term course/diploma | 6 months. | $5,000~$20,000 (Performing arts or related certificate courses) |
+| Bachelor's degree | 3 years | $30,000~$90,000 (Bachelor of Performing Arts, not required but helpful for skill improvement) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演艺术学位/文凭 | TAFE或大学 | 可选 | 非强制，但增强竞争力 |
-| 技能评估（VETASSESS） | VETASSESS | 可选 | 如需技术移民需通过职业评估 |
-| 蓝卡/儿童工作检查 | 各州政府 | 可选 | 涉及儿童表演时可能需要 |
+| Degree/diploma in performing arts | TAFE or university | Optional | Not mandatory, but enhances competitiveness |
+| Skills assessment (VETASSESS) | VETASSESS | Optional | Those seeking skilled migration must pass a skills assessment |
+| Blue card/Working with Children Check | State governments | Optional | May be required when involving child performers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。澳洲娱乐产业稳定增长，现场演出和节庆活动需求持续，但职位竞争激烈，兼职比例高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Australia's entertainment industry is growing steadily with sustained demand for live performances and festivals, but job competition is fierce and part-time roles are prevalent.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 兼职为主，收入不稳定 |
-| 中级（3-10年） | $60,000~$90,000 | 定期演出合同 |
-| 高级（10年以上） | $90,000~$150,000 | 知名艺人或主要巡演 |
+| Median salary | $87,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $40,000~$60,000 | Mainly part-time, unstable income |
+| Intermediate (3-10 years) | $60,000~$90,000 | Regular performance contract |
+| Senior (10+ years) | $90,000~$150,000 | Notable artist or major tour |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从街头表演或小型场地起步，积累经验后进入大型巡演或电视节目，少数成为知名艺人或艺术总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Can start from street performances or small venues, then progress to large tours or TV shows after gaining experience; a few become famous artists or art directors.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - Live performance
 - Festival circuit
@@ -64,66 +99,68 @@ Performs comedy, magic, acrobatics, or variety acts on stage, TV, or events to e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，但该职业不在核心技能职业清单上，极难获批 |
-| Subclass 189（Skilled Independent Visa） | 不在MLTSSL上，无法直接申请 |
-| Subclass 190（Skilled Nominated Visa） | 仅少数州可能担保，要求高，机会极少 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, but the occupation is not on the Core Skills Occupation List, making it extremely difficult to approve |
+| Subclass 189 (Skilled Independent Visa) | Not on MLTSSL, cannot directly apply |
+| Subclass 190 (Skilled Nominated Visa) | Only a few states may sponsor, with high requirements and very few opportunities |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Entertainer or Variety Artist？**
-- 有表演天赋和热情的人
-- 能承受不规律工作和收入波动的人
-- 善于自我营销和建立人脉的人
+**Who is suited**
+- People with performance talent and passion
+- People who can handle irregular work hours and income fluctuations
+- People skilled at self-marketing and networking
 
-**谁不适合学Entertainer or Variety Artist？**
-- 寻求稳定收入和全职工作的人
-- 不擅长公开表演或应对观众的人
+**Who is not suited**
+- People seeking stable income and full-time work
+- People not good at public performance or dealing with audiences
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do Australian artists earn?**
+A: Income fluctuates widely, starting around 40,000-60,000 AUD, senior can exceed 150,000 AUD, but most are part-time.
+
+**Q: Can artists immigrate to Australia?**
+A: Extremely difficult. This occupation is not on the skilled occupation list; only possible through employer sponsorship or special programs, with very few opportunities.
+
+**Q: How to become a professional performer?**
+A: Requires ongoing training and performance experience; participating in auditions or joining performing arts companies, building networks and portfolios is crucial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Entertainer or Variety Artist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for entertainers in Australia?**
-答：Income varies greatly; entry-level AUD 40k-60k, senior up to AUD 150k+, but many work part-time.
-
-**问：Can entertainers migrate to Australia?**
-答：Very difficult. Not on skilled occupation lists; only via employer sponsorship with rare opportunities.
-
-**问：How to become a professional entertainer?**
-答：Require continuous training and performance experience, joining talent agencies, building portfolio and network.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

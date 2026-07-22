@@ -1,61 +1,95 @@
-# Cement Production Plant Operator（Cement Production Plant Operator）职业分析 · 新西兰
+# Cement Production Plant Operator — career analysis · New Zealand
 
-**职业代码：712913 – Cement Production Plant Operator。**
+**Occupation code: 712913 (ANZSCO)**
 
-Operate cement production equipment including crushers, mills, and kilns; monitor processes and ensure product quality. This occupation in New Zealand can lead to immigration via accredited employer work visa (AEWV) or Skilled Migrant Category (SMC), but not on the Green List.
+Operate crushing, grinding, calcining and other equipment in a cement plant, monitor production and ensure quality. This occupation can apply for immigration in New Zealand through the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but it is not on the Green List shortage occupations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中或同等学历 | 12个月 | —（通常不需要正规教育，雇主提供在职培训） |
-| 新西兰国家水泥操作证书（Level 4） | 2年 | $5,000~$12,000（通过在职学习或培训机构获得） |
-| 机械或工程文凭 | 2年 | $15,000~$30,000（可选，提升晋升机会） |
+| High school diploma or equivalent | 12 months | $0~$0 (Usually no formal education required; employer provides on-the-job training) |
+| New Zealand Certificate in Cement Operations (Level 4) | 2 years | $5,000~$12,000 (Obtained through on-the-job learning or training institutions) |
+| Mechanical or engineering diploma | 2 years | $15,000~$30,000 (Optional, improves promotion chances) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家水泥生产证书（Level 3或4） | 新西兰技能组织（Skills Active） | 可选 | 非强制，但雇主偏好 |
-| 危险品操作许可证 | WorkSafe NZ | 必备 | 处理水泥粉尘等需持有 |
-| 叉车证 | OSH认证机构 | 可选 | 常见要求 |
-| 雅思6分 | IELTS | 可选 | 技术移民要求 |
+| Dangerous goods handling license | WorkSafe NZ | Required | Handling cement dust requires holding |
+| New Zealand National Certificate in Cement Production (Level 3 or 4) | Skills Active (New Zealand skills organisation) | Optional | Not mandatory, but preferred by employers |
+| Forklift license | OSH certification body. | Optional | Common requirements |
+| IELTS 6.0 | IELTS | Optional | Skilled migration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。新西兰建筑业需求平稳，水泥生产岗位稳定，但自动化程度提高可能限制就业增长。主要就业于北岛怀卡托等地区，年增长率约1-2%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 500. Demand in New Zealand's construction industry is steady, with cement production roles stable, but increased automation may limit job growth. Main employment in regions like Waikato in the North Island, with annual growth of about 1-2%.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常起薪接近最低工资 |
-| 中级（3-6年） | $55,000~$65,000 | 获得证书后提升 |
-| 高级（6年以上） | $65,000~$80,000 | 主管或技术专家 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary usually near minimum wage |
+| Mid-level (3–6 years) | $55,000~$65,000 | Improvement after obtaining certification |
+| Senior (6+ years) | $65,000~$80,000 | Supervisor or technical specialist |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从操作员可晋升为班长或生产主管，也可转向质量控制或设备维护岗位。需要积累经验并考取相关证书，年资长者可进入管理或技术培训角色。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Cement plant operators face dual effects of AI automation: routine monitoring and recording tasks will be taken over by AI, but complex equipment maintenance and emergency response still rely on human judgment.
+
+Operators can be promoted to team leader or production supervisor, or move into quality control or equipment maintenance roles. This requires accumulating experience and obtaining relevant certificates; senior staff can enter management or technical training roles.
+
+**Tasks most exposed to AI:**
+
+- Uses sensors and AI algorithms to automatically monitor production parameters (temperature, pressure, flow, etc.)
+- AI optimizes raw material ratios and calcination process, reducing manual adjustments
+- Automatically generate production logs and quality reports
+- AI predictive maintenance reduces the need for daily inspections
+
+**Where AI augments the role:**
+
+- AI analyzes production data in real time, assisting operators in optimizing process parameters
+- AR headsets overlay equipment information to improve maintenance efficiency
+- AI fault diagnosis system guides operators to accurately handle anomalies
+- AI simulation training enhances operators' ability to handle emergencies
+
+**Human moat:**
+
+- On-site diagnosis and mechanical repair of complex equipment faults.
+- Cross-departmental coordination and emergency decision-making (e.g., resuming after furnace shutdown)
+- Flexible handling of non-standard raw materials and on-site conditions
+- Adherence to safety procedures and responsibility for personal safety
+- On-site communication and problem-solving for customer quality complaints
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Operation and maintenance of PLC and SCADA systems
+- Use of AI-assisted decision-making tools
+- Mechanical maintenance and preventive maintenance techniques
+- Data-driven problem diagnosis approach
+- Safety Production and Emergency Response
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -64,68 +98,67 @@ Operate cement production equipment including crushers, mills, and kilns; monito
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作offer，可申请3年工签 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制要求（学历+工作经验），需有雇主offer |
-| Subclass Work to Residence（Work to Residence (Talent)） | 持有AEWV工作满2年，薪资达到中位数可申请 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an accredited employer to apply for a 3-year work visa |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meets the 6-point criteria (qualifications + work experience), requires an employer offer |
+| Subclass Work to Residence (Work to Residence (Talent)) | Hold AEWV for 2 years, salary at median wage, eligible to apply |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cement Production Plant Operator？**
-- 喜欢操作机械设备，动手能力强的人
-- 能适应粉尘环境和三班倒工作
-- 愿意在偏远地区就业的移民
-
-**谁不适合学Cement Production Plant Operator？**
-- 对灰尘过敏或呼吸系统敏感者
-- 期望高薪或快节奏晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys operating mechanical equipment, hands-on person
+- Able to adapt to dusty environments and rotating shift work
+- Migrants willing to work in remote areas
+
+**Who is not suited**
+- Those allergic to dust or with respiratory sensitivities
+- Those seeking high salary or fast-paced promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a cement plant operator?**
+A: Entry-level annual salary is about 45,000-55,000 NZD, senior can reach 65,000-80,000 NZD, but well below the New Zealand median wage (about 80,000 NZD).
+
+**Q: Can this occupation immigrate to New Zealand?**
+A: Yes, but you need to go through skilled migration (SMC) or an Accredited Employer Work Visa (AEWV), requiring a job offer from an employer and a salary reaching the median. This occupation is not on the Green List and does not qualify for a fast track to residence.
+
+**Q: What academic or training qualifications are needed?**
+A: Usually does not require a university degree; employers provide on-the-job training. Obtaining the New Zealand National Certificate in Cement Production (Level 3-4) helps improve skills and salary.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cement Production Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a cement plant operator in New Zealand?**
-答：Entry-level salary is about NZ$45,000-55,000, experienced up to NZ$65,000-80,000, below the national median (approx NZ$80,000).
-
-**问：Can a cement plant operator immigrate to New Zealand?**
-答：Yes, via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), requiring a job offer and salary at the median. Not on the Green List, so no fast-track residence.
-
-**问：What education or training is required?**
-答：No university degree needed; on-the-job training is common. A New Zealand Certificate in Cement Manufacturing (Level 3-4) can help with skills and pay.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Software Developer（Software Developer）职业分析 · IE
+# Software Developer — career analysis · Ireland
 
-**职业代码：2512 – Software Developer。**
+**Occupation code: 2512 (ISCO08)**
 
-Software Developers design, develop, and maintain software applications, with high demand in Ireland's tech sector.
+Software developers design, develop, and maintain software applications, and are in high demand in Ireland's tech industry.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$25,000（爱尔兰本科国际生学费） |
-| 研究生 | 1-2年（硕士） | $15,000~$30,000（硕士课程学费） |
-| 证书课程 | 6个月 | $3,000~$8,000（编程训练营或在线课程） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$25,000 (Undergraduate international student tuition fees in Ireland) |
+| Postgraduate | 1-2 years (Master's) | $15,000~$30,000 (Master's course tuition fees) |
+| Certificate course | 6 months. | $3,000~$8,000 (Coding bootcamp or online courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学位 | 高等教育机构 | 可选 | 常见要求，非强制 |
-| 专业认证 | 如AWS、Microsoft | 可选 | 加分项 |
-| 经验作品集 | 无 | 可选 | 非正式但重要 |
+| Computer science or related degree | Higher education institutions | Optional | Common requirement, not mandatory |
+| Professional certification | Such as AWS, Microsoft | Optional | Bonus points |
+| Portfolio of experience | None | Optional | Informal but important |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 55,000。爱尔兰软件开发者就业前景极佳，受跨国公司（如谷歌、Facebook）和本土初创企业驱动，持续增长。
+**Job demand: very high (★★★★½).** National workforce approx. 55,000. Software developer job prospects in Ireland are excellent, driven by multinationals (e.g., Google, Facebook) and local startups, with continued growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$80,000 | 税前年薪 |
-| 高级（7年以上） | $80,000~$120,000 | 税前年薪 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$80,000 | Annual pre-tax salary |
+| Senior (7+ years) | $80,000~$120,000 | Annual pre-tax salary |
+| average salary | $69,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 从初级开发者可晋升至高级工程师、技术主管，或转向架构师、项目经理等角色，路径清晰。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Clear progression path from junior developer to senior engineer, technical lead, or roles like architect and project manager.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -65,69 +101,68 @@ Software Developers design, develop, and maintain software applications, with hi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适合短缺技能职业，无需劳动力市场测试，2年后可申请永居。 |
-| Subclass General Employment P（General Employment Permit） | 适合一般技能岗位，需劳动力市场测试，年薪需达到一定门槛。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，要求年薪和学历，可快速获得永居。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Eligible for shortage skills occupations, no labour market testing required, can apply for permanent residency after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Suitable for general skilled positions, requires labor market test, annual salary must meet a certain threshold. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a certain annual salary and educational qualification, with a fast track to permanent residency. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Developer？**
-- 对编程有浓厚兴趣的人
-- 喜欢解决复杂问题的人
-- 具有自学能力的人
-
-**谁不适合学Software Developer？**
-- 不喜欢持续学习新技术的人
-- 无法承受久坐工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in programming
+- People who enjoy solving complex problems
+- Self-learners
+
+**Who is not suited**
+- People who dislike constantly learning new technologies
+- People unable to tolerate prolonged sitting
+
+---
+
+## 8. FAQ
+
+**Q: How does the salary level for software developers in Ireland compare?**
+A: Entry-level about €35,000-€50,000, mid-level €50,000-€80,000, senior €80,000-€120,000; salaries may be higher at tech companies.
+
+**Q: How to immigrate to Ireland via a work visa?**
+A: Available through Critical Skills Permit or General Employment Permit, requiring employer sponsorship.
+
+**Q: Is there a shortage of software developers in Ireland?**
+A: Yes, software developers are listed as a critical occupation; the Critical Skills Permit covers this role.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Software Developer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for software developers in Ireland?**
-答：Junior: €35k-50k, Mid: €50k-80k, Senior: €80k-120k, with higher pay in tech companies.
-
-**问：How to migrate to Ireland via work visa?**
-答：Through Critical Skills or General Employment Permit, requiring employer sponsorship.
-
-**问：Are software developers in shortage in Ireland?**
-答：Yes, software developers are on the Critical Skills list, indicating high demand.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,89 @@
-# Journalist（Journalist）职业分析 · ES
+# Journalist — career analysis · Spain
 
-**职业代码：2922 – Journalist。**
+**Occupation code: 2922 (CNO)**
 
-Journalists gather, verify, and report news events, writing articles or producing video/audio content for newspapers, television, radio, or digital media. They require strong investigative, writing, and news judgment skills.
+Journalists are responsible for collecting, verifying, and reporting news events, writing articles for newspapers, TV stations, radio, or digital media, and producing video or audio content. They need to possess excellent investigative skills, writing skills, and journalistic sensitivity.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学年均学费） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（新闻学或数字媒体硕士） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Average annual tuition at public universities) |
+| Máster | 1-2 years | $2,000~$12,000 (Master's degree in Journalism or Digital Media) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学新闻学学位 | 西班牙大学 | 必备 | 通常需本科以上学历 |
-| 记者协会注册 | 各地记者协会 | 可选 | 非强制但有助于就业 |
+| Graduate degree in journalism | Spanish University | Required | Usually, a bachelor's degree or above is required |
+| Registered with the Journalists Association | Journalist associations across the country | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。西班牙新闻行业面临数字化转型，传统媒体岗位减少，但数字内容创作、自媒体和品牌新闻需求上升。竞争激烈，需掌握多媒体技能以保持竞争力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Spain's news industry is facing digital transformation, with fewer traditional media positions but rising demand for digital content creation, self-media, and branded news. Competition is fierce, requiring multimedia skills to stay ahead.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 税前年薪，小型媒体或自由职业可能更低 |
-| 中级（3-7年） | $25,000~$40,000 | 大型媒体或专业领域记者 |
-| 高级（7年以上） | $40,000~$60,000 | 主编、资深记者或管理岗位 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$25,000 | Pre-tax annual salaries, small media outlets, or freelancers may be lower |
+| Mid-level (3–7 years) | $25,000~$40,000 | Reporters from major media outlets or professional fields |
+| Senior (7+ years) | $40,000~$60,000 | Editor-in-chief, senior reporter, or management position |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 从初级记者可晋升为高级记者、主编或新闻总监。也可转向数字媒体、公关或内容营销领域。自由职业和创业机会增多，但职业稳定性较低。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Junior reporters can be promoted to senior reporters, editor-in-chiefs, or news directors. It can also be shifted to digital media, public relations, or content marketing. Freelance and entrepreneurial opportunities are increasing, but job stability is low.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - Digital Transformation
 - Multimedia Journalism
@@ -63,65 +92,67 @@ Journalists gather, verify, and report news events, writing articles or producin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主提供工作合同，并证明职位无法由欧盟公民填补。 |
-| Subclass Autónomo（Self-Employment Visa） | 适用于自由职业记者，需提交商业计划和证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A work contract from a Spanish employer must be provided, and it must prove that the position cannot be filled by an EU citizen. |
+| Subclass Autónomo (Self-Employment Visa) | Applicable to freelance journalists, who must submit a business plan and demonstrate financial capability. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Journalist？**
-- 热爱写作与新闻调查
-- 适应快速变化和多任务处理
-- 具备跨媒体技能（文字、视频、社交网络）
+**Who is suited**
+- Passionate about writing and investigative journalism
+- Adapt to rapid changes and multitasking
+- Possess cross-media skills (text, video, social networking)
 
-**谁不适合学Journalist？**
-- 期望稳定工作时间和固定收入
-- 不善于应对压力和截止日期
+**Who is not suited**
+- Expect stable working hours and a fixed income
+- Poor at handling pressure and deadlines
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a Spanish journalist?**
+A: Entry-level journalist salary around €18,000-€25,000/year, intermediate €25,000-€40,000, senior up to €60,000. But freelancers' income fluctuates greatly.
+
+**Q: How can foreign journalists immigrate to Spain?**
+A: You can apply through a Employment Work Visa (Cuenta ajena) or a Self-Employment Visa (Autónomo), but non-EU citizens are more difficult to apply for and require employer certification that the position cannot be held by a local person.
+
+**Q: What career development paths do journalists have?**
+A: Junior reporters can be promoted to senior reporters, editors, or news directors; You can also turn to digital media, public relations, content marketing, or freelance writing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Journalist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for journalists in Spain?**
-答：Entry-level journalists earn €18,000-25,000 per year, mid-level €25,000-40,000, and senior up to €60,000. Freelancers face variable income.
-
-**问：How can foreign journalists immigrate to Spain?**
-答：Via an employed work permit (Cuenta ajena) or self-employment visa (Autónomo). Non-EU applicants face hurdles: employers must prove no local candidate available.
-
-**问：What career paths are available for journalists?**
-答：Progression from junior to senior journalist, editor, or news director; also possible to move into digital media, PR, content marketing, or freelancing.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

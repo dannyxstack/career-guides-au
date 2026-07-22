@@ -1,63 +1,91 @@
-# 政策分析师（Policy Analyst）职业分析 · 澳大利亚
+# Policy Analyst — career analysis · Australia
 
-**职业代码：224412 – Policy Analyst。**
+**Occupation code: 224412 (ANZSCO)**
 
-政策分析师在政府、智库和机构研究政策、评估影响并提出建议，需较强分析与写作能力，在技术移民清单上（需VETASSESS评估）。
+Policy analysts work in government, think tanks, and research institutions to analyse policy, assess impacts, and make recommendations. The role requires strong analytical and writing skills and appears on the skilled migration list (VETASSESS assessment required).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor in Economics/Political Science/Public Policy | 3年 | $25,000~$42,000（—） |
-| Master of Public Policy（加分） | 1~2年 | $30,000~$55,000（—） |
+| Bachelor in Economics/Political Science/Public Policy | 3 years | $25,000~$42,000 (—) |
+| Master of Public Policy (bonus qualification) | 1–2 years | $30,000~$55,000 (—) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关本科及以上 | 认可大学 | 可选 | 入行基础 |
-| VETASSESS Skills Assessment | VETASSESS | 可选 | 移民评估 |
+| Relevant bachelor's degree or above | Recognised university | Optional | Foundation for entering the industry |
+| VETASSESS Skills Assessment | VETASSESS | Optional | Migration Assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。政府与机构对循证决策投入增加，数据驱动政策分析需求上升。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Increased government and institutional investment in evidence-based decision-making is driving growing demand for data-driven policy analysis.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,000~1,900 个 | 全国，偏政府/智库 |
-| APS Jobs | 800~1,600 个 | 联邦/州政府 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $80,000~$95,000 | — |
-| 中级 | $95,000~$115,000 | — |
-| 资深/高级政策 | $115,000~$140,000 | — |
+| Median salary | $112,996 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $80,000~$95,000 | — |
+| Intermediate | $95,000~$115,000 | — |
+| Senior/Principal Policy | $115,000~$140,000 | — |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需社科/经济/公共政策背景；路径向高级政策、研究主管发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on policy analyst roles is mixed: data collection and reporting will be automated, but policy interpretation, stakeholder coordination, and strategic advice still require human judgement, with increased competition for entry-level positions.
+
+Requires a background in social sciences, economics or public policy; pathway leads to senior policy or research leadership roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic collection, collation, and summarisation of policy documents and data
+- Generation of initial drafts for standardized reports and briefs
+- Basic quantitative analysis (e.g., running regression models)
+- Routine calculations in policy impact simulation
+
+**Where AI augments the role:**
+
+- Using AI to quickly scan vast policy documents and research findings
+- Using natural language processing to automatically identify policy trends and key arguments
+- Quickly evaluate impacts of multiple policy options using simulation tools
+- Using data visualization tools to present analysis results more efficiently
+
+**Human moat:**
+
+- Deep understanding of policy complexity and contextual judgment
+- Ability to communicate, negotiate, and build consensus with stakeholders
+- Creativity in proposing innovative policy recommendations under uncertainty
+- Decision-making ability for ethical considerations and value trade-offs
+
+**Skills to build:**
+
+- Python or R data analysis and visualisation
+- Machine learning basics and policy simulation applications
+- Natural language processing tools (e.g. text analysis)
+- Generative AI prompt engineering and result validation
+- Stakeholder management and communication skills
+- Systems thinking and policy design
+
+**Key growth areas:**
 
 - Public Policy
 - Economic/Social Research
@@ -66,65 +94,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称TSS），按具体职责匹配ANZSCO |
-| Subclass 186（ENS） | 雇主担保永居，需相关评估 |
-| Subclass 190（Skilled Nominated） | 州提名，按各州清单 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS), matched to ANZSCO based on specific duties |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学政策分析师？**
-- 分析与写作能力强者
-- 对公共政策/研究有热情者
-
-**谁不适合学政策分析师？**
-- 不喜欢研究与报告写作者
-- 需要本地工作经验门槛较高者需注意
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong analytical and writing skills
+- Those with a passion for public policy/research
+
+**Who is not suited**
+- Those who dislike research and report writing
+- Those who require a high threshold of local work experience should take note
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a policy analyst in Australia?**
+A: Approx. AUD $80,000-$140,000, higher for senior policy roles.
+
+**Q: Can policy analysts apply for skilled migration?**
+A: Yes. Policy Analyst (224412) is on the skilled migration list and requires a VETASSESS assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-政策分析师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲政策分析师工资多少？**
-答：约AUD $8万~$14万，高级政策岗更高。
-
-**问：政策分析师能技术移民吗？**
-答：可以。Policy Analyst（224412）在技术移民清单上，需VETASSESS评估。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# ERP Consultant（ERP Consultant）职业分析 · 新西兰
+# ERP Consultant — career analysis · New Zealand
 
-**职业代码：261111 – ERP Consultant。**
+**Occupation code: 261111 (ANZSCO)**
 
-ERP consultants implement, configure, train, and optimize enterprise resource planning systems, playing a key role in New Zealand's digital transformation. This occupation is eligible for Skilled Migrant Category and Green List, offering direct residency or work-to-residency pathways.
+ERP consultants are responsible for implementing, configuring, training, and optimizing enterprise resource planning systems, and are key talent for digital transformation in New Zealand businesses. This occupation is in demand under both the Skilled Migrant and Green List categories, eligible for direct residence or work-to-residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（信息系统） | 4年 | $25,000~$50,000（新西兰大学年均学费约$25,000-50,000） |
-| 硕士（信息技术） | 1.5年 | $35,000~$60,000（硕士课程加速，学费更高） |
+| Bachelor's degree (Information Systems) | 4 years | $25,000~$50,000 (Average annual tuition at New Zealand universities is approximately $25,000-50,000) |
+| Master's (Information Technology) | 1.5 years | $35,000~$60,000 (Accelerated master's program, higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| SAP认证顾问 | SAP | 可选 | 主流ERP厂商认证，显著提升就业竞争力 |
-| Oracle企业资源规划认证 | Oracle | 可选 | 另一种主要ERP系统认证 |
-| 项目管理专业认证（PMP） | PMI | 可选 | 非必须，但对项目管理路径有益 |
+| SAP certified consultant | SAP | Optional | Mainstream ERP vendor certification significantly boosts employment competitiveness |
+| Oracle Enterprise Resource Planning certification | Oracle | Optional | Another major ERP system certification |
+| Project Management Professional (PMP) | PMI | Optional | Not mandatory, but beneficial for project management career path |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。新西兰政府和企业持续推进数字化转型，对SAP、Oracle和Microsoft Dynamics等ERP系统有持续需求。预计未来五年就业增长稳健，尤其集中在奥克兰、惠灵顿等商业中心。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. The New Zealand government and businesses are steadily advancing digital transformation, with ongoing demand for ERP systems such as SAP, Oracle, and Microsoft Dynamics. Employment growth is expected to be robust over the next five years, especially in business hubs like Auckland and Wellington.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$90,000 | 刚入行或转行者 |
-| 中级（3-7年） | $90,000~$130,000 | 具备独立实施能力 |
-| 高级（7年以上） | $130,000~$180,000 | 架构师或团队主管 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$90,000 | Newcomers or career changers |
+| Mid-level (3–7 years) | $90,000~$130,000 | Ability to implement independently |
+| Senior (7+ years) | $130,000~$180,000 | Architect or team leader |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 职业发展路径从初级顾问（配置/支持）到中级项目经理/模块负责人，再到高级解决方案架构师或IT总监。取得PMI-PMP或ITIL认证可提升晋升空间。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on ERP consultants is mixed: configuration and testing tasks may be automated, but business analysis, change management, and system integration requiring deep industry knowledge and client communication are enhanced by AI.
+
+Career progression from junior consultant (configuration/support) to project manager/module lead, then to senior solutions architect or IT director. PMI-PMP or ITIL certification can enhance advancement opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automated system configuration and parameter setting
+- Generating and running standard test scripts
+- Write basic documentation and user manuals
+- Handle routine data migration and validation
+- Collecting and organizing user requirements lists
+
+**Where AI augments the role:**
+
+- Use AI to analyze historical project data and provide best practice recommendations
+- Quickly interpret complex business requirements using natural language processing
+- Using AI to simulate different configuration effects and optimize system design
+- Using AI to generate personalized training materials and simulation environments
+- Use predictive analytics to identify project risks and bottlenecks early
+
+**Human moat:**
+
+- Cross-departmental business process design and restructuring
+- Change management and user resistance handling
+- Complex system integration and customised solution design.
+- Maintaining relationships with senior stakeholders
+- Industry-specific knowledge and compliance interpretation
+
+**Skills to build:**
+
+- AI tool application (such as Copilot, automation scripts)
+- Advanced data analysis and visualization
+- Agile and DevOps methodologies
+- Specific industry knowledge (e.g., manufacturing, retail, government)
+- Communication and negotiation skills.
+- Continuous learning and certification updates (e.g., SAP, Oracle)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ ERP consultants implement, configure, train, and optimize enterprise resource pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 在绿色清单二级职业，工作满24个月可申请居留 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 根据6分制打分，满足学历、经验等条件可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，最直接的工作签证路径 |
+| Subclass Green List T2 (Green List Work to Residence) | On Tier 2 of the Green List, eligible to apply for residence after working for 24 months |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Apply based on a 6-point system meeting qualifications, experience, etc. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer-sponsored work visa, the most direct work visa pathway |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ERP Consultant？**
-- 具备ERP系统实施或支持经验的专业人士
-- 本科以上学历，信息技术或商务相关背景
-- 有意向通过技术移民定居新西兰的IT从业者
-
-**谁不适合学ERP Consultant？**
-- 对频繁出差和客户现场工作不适应的人
-- 缺乏沟通和项目管理能力，仅偏好独立编程的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with ERP system implementation or support experience
+- Bachelor's degree or higher, with a background in IT or business
+- IT professionals interested in migrating to New Zealand via skilled migration
+
+**Who is not suited**
+- People who are not suited for frequent travel and on-site client work
+- Lack communication and project management skills, prefer only independent programming
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for ERP consultants in New Zealand?**
+A: Junior consultant annual salary approximately $65,000–$90,000; mid-level $90,000–$130,000; senior up to $180,000+. Varies with experience and certification level.
+
+**Q: Can ERP consultants immigrate to New Zealand via the Green List?**
+A: Yes. ERP Advisor is on the Green List Tier 2. After working for 24 months, you can apply for residence via the Work to Residence pathway. You can also apply through SMC skilled migration points.
+
+**Q: Which industries in New Zealand have the highest demand for ERP consultants?**
+A: Mainly from government agencies, manufacturing, logistics, and financial services. More local implementation projects for SAP and Oracle.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-ERP Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for ERP consultants in New Zealand?**
-答：Junior consultants earn around NZ$65,000-$90,000, mid-level $90,000-$130,000, and senior up to over $180,000, depending on experience and certifications.
-
-**问：Can ERP consultants immigrate to New Zealand via the Green List?**
-答：Yes. ERP consultant is on Green List Tier 2. After working 24 months, you can apply for residence via the Work to Residence pathway. Alternatively, you can apply through the Skilled Migrant Category points system.
-
-**问：Which industries have the highest demand for ERP consultants in New Zealand?**
-答：Government agencies, manufacturing, logistics, and financial services. SAP and Oracle implementation projects are common.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

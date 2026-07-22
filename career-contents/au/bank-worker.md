@@ -1,63 +1,94 @@
-# 银行职员（Bank Worker）职业分析 · 澳大利亚
+# Bank Worker — career analysis · Australia
 
-**职业代码：552111 – Bank Worker。**
+**Occupation code: 552111 (ANZSCO)**
 
-银行职员（柜员/客服）办理存取、转账、咨询和基础金融产品销售，受数字化银行冲击，门槛低，非技术移民职业。
+Bank tellers/customer service officers handle deposits, withdrawals, transfers, enquiries, and basic financial product sales. The role is impacted by digital banking, has a low entry barrier, and is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / Certificate in Financial Services（可选） | 0~1年 | —（在岗培训） |
+| Year 12 / Certificate in Financial Services (optional) | 0–1 year | $0~$5,000 (On-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Financial Services（可选） | RTO | 可选 | 非强制 |
+| Certificate III in Financial Services (optional) | RTO | Optional | Not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 70,000。网点收缩与数字化使柜员岗减少，但客服与贷款支持方向仍有机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 70,000. Branch network contraction and digitalisation have reduced teller roles, but opportunities remain in customer service and lending support.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国 |
-| Indeed | 1,200~2,200 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门柜员 | $52,000~$60,000 | — |
-| 客服/有经验 | $60,000~$72,000 | — |
-| 资深/贷款支持 | $72,000~$85,000 | — |
+| Median salary | $83,720 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level teller | $52,000~$60,000 | — |
+| Customer service / experienced | $60,000~$72,000 | — |
+| Senior / Loan Support | $72,000~$85,000 | — |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 可向贷款、客户关系或合规方向发展。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
+
+Can progress towards lending, client relationship management, or compliance roles.
+
+**Tasks most exposed to AI:**
+
+- Daily cash deposit, withdrawal and transfer operations
+- Standardized customer inquiry responses (e.g., account balance, transaction queries)
+- Simple product sales (e.g., opening accounts, issuing credit cards) recommendations and procedures
+- Paper document processing and data entry
+- Repetitive transaction reconciliation and report generation
+
+**Where AI augments the role:**
+
+- Using AI tools to analyze customer data for personalized financial advice
+- Efficiently handle complex customer complaints and disputes via intelligent systems
+- Use automated reporting tools to monitor anomalous transactions (anti-fraud)
+- Combining AI assistance for customer demand forecasting and cross-selling
+- Managing digital customer relationship management (CRM) systems to enhance service
+
+**Human moat:**
+
+- Complex financial product explanation and customized solution design
+- High-net-worth client relationship maintenance and trust building
+- Manual judgment and authorization for urgent or non-standard transactions
+- Emotional understanding and empathy in face-to-face communication
+- Cross-departmental coordination to resolve customer issues beyond system capabilities
+
+**Skills to build:**
+
+- Basic knowledge of Python/VBA for automated reporting and data analysis
+- Learning Customer Relationship Management (CRM) and Digital Marketing Tools
+- Obtain financial planning certifications (e.g., RG146)
+- Enhance complex communication and objection handling skills
+- Familiarity with Anti-Money Laundering (AML) and compliance regulatory processes
+- Learning AI tools in financial services (e.g., chatbot configuration)
+
+**Key growth areas:**
 
 - Digital Banking
 - Customer Service
@@ -66,57 +97,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学银行职员？**
-- 沟通好、对金融有兴趣者
-- 想进入银行体系者
-
-**谁不适合学银行职员？**
-- 以技术移民为目标者
-- 排斥销售指标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong communicators with an interest in finance
+- For those looking to enter the banking sector
+
+**Who is not suited**
+- Those targeting skilled migration
+- Not suited to roles with sales targets
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a bank teller / banking officer in Australia?**
+A: Approximately AUD 52,000~85,000.
+
+**Q: Can bank tellers migrate to Australia through the skilled migration pathway?**
+A: No, this is a non-skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-银行职员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲银行职员工资多少？**
-答：约AUD $5.2万~$8.5万。
-
-**问：银行职员能技术移民吗？**
-答：不能，属于非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

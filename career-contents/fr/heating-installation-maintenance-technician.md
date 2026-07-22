@@ -1,61 +1,95 @@
-# Heating Installation Maintenance Technician（Heating Installation Maintenance Technician）职业分析 · FR
+# Heating Installation Maintenance Technician — career analysis · France
 
-**职业代码：I1308 – Heating Installation Maintenance Technician。**
+**Occupation code: I1308 (ROME)**
 
-Responsible for installing, commissioning, maintaining, and repairing heating systems such as boilers, heat pumps, and radiators. Requires knowledge of gas, electricity, and fluid dynamics.
+Responsible for installation, commissioning, regular maintenance, and fault repair of heating systems (boilers, heat pumps, radiators, etc.) to ensure safe and efficient operation of equipment. Requires knowledge of gas, electricity, and fluid mechanics.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中级职业教育 | 2年（CAP） | —（公立职业学校免费或低学费，注册费约200-500欧元/年；学徒制可获得薪资） |
-| 高级技术员文凭 | 2年（BTS） | —（公立院校免费，私立院校学费约3000-8000欧元/年） |
+| Junior and intermediate vocational education | 2 years (CAP) | $0~$5,000 (Public vocational schools offer free or low tuition, with registration fees of about 200-500 euros per year; Apprenticeships can earn a salary) |
+| Advanced Technician Diploma | 2 Years (BTS) | $0~$8,000 (Public institutions are free; private institutions charge tuition fees of approx. 3000-8000 euros/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 燃气设备操作认证 | 法国燃气协会（AFG）或能源部 | 必备 | 从事燃气锅炉维修必须持有，需通过理论和实操考试 |
-| QualiPAC 热泵资质 | 法国环境与能源管理局（ADEME）认可的培训机构 | 必备 | 安装热泵必备，证明具备热泵系统安装与维护能力 |
-| CAP 或 BTS 相关文凭 | 法国教育部 | 可选 | 行业入门基础，持有CAP或BTS在就业时更具竞争力 |
+| Gas equipment operation certification | The French Gas Association (AFG) or the Ministry of Energy | Required | Those engaged in gas boiler maintenance must hold these certifications and pass both theoretical and practical exams |
+| QualiPAC heat pump qualification | A training institution accredited by the French Environment and Energy Agency (ADEME). | Required | Heat pump installation is essential, demonstrating capability for heat pump system installation and maintenance |
+| CAP or BTS-related diploma | French Ministry of Education | Optional | Industry entry-level foundation; holding CAP or BTS makes employment more competitive |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,000。法国供暖维护行业需求稳定，受能源转型政策推动，热泵和混合供暖系统安装业务持续增长。法国就业局将供暖技术员列为紧缺职业，尤其在北部和东部地区。薪资随经验和技术认证提升。
+**Job demand: high (★★★★☆).** National workforce approx. 52,000. Demand in France's heating maintenance industry remains stable, driven by energy transition policies, with continuous growth in heat pump and hybrid heating system installation business. The French employment agency lists heating technicians as a shortage occupation, especially in the northern and eastern regions. Salaries increase with experience and technical certification.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒转正后薪资 |
-| 中级（3-8年） | $28,000~$36,000 | 税前年薪，含技术熟练及持有资质人员 |
-| 高级（8年以上） | $36,000~$45,000 | 税前年薪，含专家或团队主管 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including salary after apprenticeship is regularized |
+| Mid-level (3–8 years) | $28,000~$36,000 | Pre-tax annual salary, including skilled technical and qualified personnel |
+| Senior (8+ years) | $36,000~$45,000 | Pre-tax annual salary, including experts or team leaders |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从学徒或CAP起步，晋升为技术专家或团队主管。获得QualiPAC等资质后可涉足热泵领域，或转向能源审计、节能改造等更高附加值岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
+
+You can start as an apprentice or CAP and advance to a technical expert or team leader. After obtaining qualifications such as QualiPAC, they can enter the heat pump field or move to higher value-added positions such as energy auditing or energy-saving retrofits.
+
+**Tasks most exposed to AI:**
+
+- Remote automatic diagnosis and initial troubleshooting of equipment faults
+- Daily maintenance reminders and intelligent scheduling
+- Automatic detection and alarm for refrigerant leaks
+- Automatic recording and report generation of system performance data
+
+**Where AI augments the role:**
+
+- AI-assisted system design optimization and energy efficiency analysis
+- Augmented reality (AR) support for on-site repair guidance
+- Predictive maintenance recommendations and spare parts management
+- Intelligent matching of client needs and solution recommendations
+- Automated Generation and Review of Compliance Documents
+
+**Human moat:**
+
+- On-site physical operations and complex equipment repair
+- Refrigerant safety handling and regulatory compliance responsibility
+- Cross-system integration and complex fault diagnosis
+- Client communication and customized solutions
+
+**Skills to build:**
+
+- Proficient in smart building management systems and IoT devices
+- Learning AI diagnostic tools and data analysis platforms
+- Master AR-assisted maintenance and remote collaboration technologies
+- Enhanced Communication and Project Management Skills
+- Deep understanding of energy efficiency optimization and green refrigeration technology
+- Obtain ARCtick and higher-level safety certifications
+
+**Key growth areas:**
 
 - Renewable energy heating
 - Heat pump installation
@@ -64,69 +98,68 @@ Responsible for installing, commissioning, maintaining, and repairing heating sy
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 适用于获得法国雇主工作合同的技术人员，需证明岗位无法由欧盟公民填补（紧缺职业可豁免），薪资需达到SMIC以上。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适合高技能人才或获得高薪职位的申请人（年薪≥53,000欧元），可快速获得多年居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于年薪高于法国平均工资1.5倍（约53,000欧元）的技术岗位，但供暖技术员薪资通常较低，并不常见。 |
+| Subclass Salarié (Salarié (Employee)) | Applicable to technicians who have obtained a work contract with a French employer, must prove that the position cannot be filled by an EU citizen (shortage occupations may be exempted), and their salary must be at least SMIC. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents or applicants seeking high-paying positions (annual salary ≥ €53,000), allowing quick access to multi-year residency. |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to technical positions with an annual salary above 1.5 times the French average wage (c.a. €53,000), but heating technician salaries are typically lower and this is not common. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heating Installation Maintenance Technician？**
-- 动手能力强、喜欢实操工作的人
-- 对能源、暖通技术有兴趣，愿意持续学习新技术
-- 适应户外或客户现场作业环境
-
-**谁不适合学Heating Installation Maintenance Technician？**
-- 不善于与人沟通或单独作业的人
-- 希望完全避免危险作业（如燃气、高空）的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and a passion for hands-on work
+- Interested in energy and HVAC technology, willing to continuously learn new technologies
+- Adaptable to outdoor or on-site customer work environments
+
+**Who is not suited**
+- People who are not good at communicating with others or working alone.
+- People who wish to completely avoid hazardous work (such as gas or working at heights).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for heating maintenance technicians?**
+A: The entry-level annual salary is about 22,000-28,000 euros (before tax), the intermediate salary is 28,000-36,000 euros, and the senior can reach up to 45,000 euros. Overtime and emergency repair subsidies can increase income.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: A common path is to apply for Salarié work residence after obtaining a contract with a French employer. Shortage occupations can simplify the recruitment certification process. If the salary is relatively high (annual salary above 53,000 euros), you can apply for Passeport Talent.
+
+**Q: What mandatory certifications are required to work?**
+A: Gas boiler maintenance requires a gas operation certification; Installing heat pumps requires QualiPAC certification. Additionally, France recognizes vocational education diplomas such as CAP/BTS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Heating Installation Maintenance Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for heating maintenance technicians?**
-答：Entry-level annual salary is around €22,000-28,000 (gross), mid-level €28,000-36,000, and senior up to €45,000. Overtime and emergency repair allowances can increase income.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Common path is to obtain a French employer contract and apply for a Salarié work permit. Shortage occupation status can simplify the labor market test. For higher salaries (>€53k/year), Passeport Talent is an option.
-
-**问：What mandatory certifications are required to work?**
-答：A gas operation certificate is mandatory for gas boiler repair; QualiPAC is required for heat pump installation. CAP/BTS vocational diplomas are also valued.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

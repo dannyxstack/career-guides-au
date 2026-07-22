@@ -1,59 +1,95 @@
-# Catering and bar managers（Catering and bar managers）职业分析 · UK
+# Catering and bar managers — career analysis · United Kingdom
 
-**职业代码：5436 – Catering and bar managers。**
+**Occupation code: 5436 (SOC)**
 
-Catering and bar managers plan, direct and coordinate food and beverage services in restaurants, pubs, hotels, educational institutions, and other establishments, including outside catering.
+Food and beverage managers plan, direct, and coordinate catering services in restaurants, bars, hotels, educational institutions, etc., managing on-site dining and takeaway operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/职业教育 | 1-2年 | $3,000~$8,000（NVQ/SVQ Level 3 餐饮管理课程） |
-| 大学本科 | 3年 | $12,000~$25,000（酒店管理或工商管理学士（国际学生学费）） |
+| High school/Vocational education | 1-2 years | $3,000~$8,000 (NVQ/SVQ Level 3 Hospitality Management course) |
+| University bachelor's degree | 3 years | $12,000~$25,000 (Bachelor of Hospitality Management or Business Administration (international student tuition fees)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全与卫生认证（Level 2） | CIEH或HABC | 必备 | 法定要求 |
-| 管理证书（如ILM） | 城市与行会 | 可选 | 有助于晋升 |
-| 酒类服务执照（Personal Licence） | 地方议会 | 必备 | 销售酒精饮品必备 |
+| Food safety and hygiene certification (Level 2) | CIEH or HABC | Required | Statutory requirements |
+| Personal Licence for alcohol service | Local council | Required | Mandatory for selling alcoholic beverages |
+| Management qualifications (e.g. ILM) | City and Guilds | Optional | Helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 145,000。英国餐饮业逐步复苏，预计2023-2033年就业增长约5%，受旅游和休闲行业推动，但竞争依然激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 145,000. The UK hospitality industry is gradually recovering, with employment growth expected to be about 5% from 2023 to 2033, driven by tourism and leisure, but competition remains fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 助理经理或小规模场所 |
-| 中级（3-8年） | $25,000~$35,000 | 经验经理，中等规模场所 |
-| 高级（8年以上） | $35,000~$50,000 | 大型酒店或区域经理 |
+| Median salary | $29,789 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Assistant manager or small-scale venue |
+| Mid-level (3–8 years) | $25,000~$35,000 | Experience manager, medium-sized venue |
+| Senior (8+ years) | $35,000~$50,000 | Large hotels or regional managers |
+| average salary | $31,909 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径：从服务员或主管晋升为部门经理，再至餐饮经理、运营经理或区域经理。部分可向自营餐厅或顾问发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on restaurant and bar manager roles is mixed: daily scheduling, inventory management, and sales analysis are easily automated, but core responsibilities like personnel management, customer experience, and crisis handling remain highly dependent on humans. Entry-level positions may shrink, but the value of senior managers is amplified by AI.
+
+Career progression path: from server or supervisor to department manager, then to food and beverage manager, operations manager, or regional manager. Some may move into self-employed restaurant ownership or consulting.
+
+**Tasks most exposed to AI:**
+
+- Optimize employee scheduling and shift rotation using AI
+- Automated Inventory Monitoring and Order Reminders
+- Menu analysis and pricing recommendations based on sales data
+- Generate financial statements and business reports
+- Handles online booking and automatic allocation of delivery orders
+
+**Where AI augments the role:**
+
+- Using AI to analyze customer taste preferences, optimize menu design and promotions
+- Improving customer inquiry response efficiency through AI chatbots
+- Use AI to monitor kitchen equipment status, enabling preventive maintenance to reduce downtime
+- Use AI to predict customer traffic and dynamically adjust staffing and food preparation
+- Improving employee service skills through AI-driven training platforms
+
+**Human moat:**
+
+- On-site customer complaint handling and personalized service
+- Motivating team morale and mediating personnel conflicts
+- Flexibly adjust operations in response to unexpected situations (e.g. ingredient shortages)
+- Establish restaurant culture, maintain brand reputation
+- Long-term relationship maintenance and price negotiation with suppliers
+
+**Skills to build:**
+
+- Proficient in using restaurant management systems (e.g., POS, inventory management software)
+- Understand the basics of data analysis, capable of using tools like Excel/Tableau.
+- Learn AI tools (e.g., ChatGPT, predictive analytics platforms) to assist decision-making
+- Strengthen leadership and cross-cultural communication skills.
+- Master online marketing and social media operations skills
+- Learn basic supply chain management knowledge
+
+**Key growth areas:**
 
 - Hospitality recovery
 - Event catering
@@ -62,64 +98,63 @@ Catering and bar managers plan, direct and coordinate food and beverage services
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 在可担保职业清单上，满足最低薪资£26,200/年（或适用行业特定薪资）。餐饮经理可获担保。 |
-| Subclass Graduate（Graduate visa） | 本科及以上毕业生可在英国工作2年（博士3年），积累经验后转为技术移民。 |
+| Subclass Skilled Worker (Skilled Worker visa) | On the eligible occupations list, meet minimum salary of £26,200/year (or applicable industry-specific salary). Restaurant managers can be sponsored. |
+| Subclass Graduate (Graduate visa) | Bachelor's and above graduates can work in the UK for 2 years (PhD 3 years), then transition to skilled migration after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Catering and bar managers？**
-- 善于人际沟通和组织协调
-- 适应快节奏高压环境
-- 对餐饮行业有热情
-
-**谁不适合学Catering and bar managers？**
-- 不喜欢应对顾客投诉
-- 无法接受不规律工作时间（周末/晚间）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good interpersonal communication and organizational coordination
+- Able to adapt to a fast-paced, high-pressure environment
+- Passion for the hospitality industry
+
+**Who is not suited**
+- Dislikes handling customer complaints
+- Cannot accept irregular working hours (weekends/evenings)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a restaurant manager in the UK?**
+A: Entry-level annual salary around GBP 18,000-25,000, mid-level GBP 25,000-35,000, senior up to GBP 50,000. Salaries are higher at large hotels or chain brands.
+
+**Q: How can a catering manager migrate to the UK through skilled migration?**
+A: Can apply for Skilled Worker visa, requires employer sponsorship, meets minimum salary requirement (£26,200/year), and position is on the eligible occupations list. Can switch after holding a Graduate visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Catering and bar managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a catering manager in the UK?**
-答：Entry-level salary is around £18,000-£25,000, mid-level £25,000-£35,000, and senior up to £50,000 per year.
-
-**问：How can a catering manager migrate to the UK via skilled work visa?**
-答：Apply for a Skilled Worker visa with employer sponsorship, meeting minimum salary (£26,200/year) and the occupation being eligible. Graduate visa holders can switch.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

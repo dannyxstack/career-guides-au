@@ -1,58 +1,94 @@
-# Vehicle Cleaner（Vehicle Cleaner）职业分析 · DE
+# Vehicle Cleaner — career analysis · Germany
 
-**职业代码：5415 – Vehicle Cleaner。**
+**Occupation code: 5415 (KldB)**
 
-Responsible for cleaning, caring for, and disinfecting various vehicles, including cars, trucks, and buses, to maintain interior and exterior cleanliness.
+Responsible for cleaning, washing, and disinfecting various vehicles including cars, trucks, buses, etc., keeping vehicles clean inside and out.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式培训 | 0-3个月在职培训 | —（通常由雇主提供短期培训） |
-| 职业培训 (Ausbildung) | 2-3年（双元制） | —（可选相关服务领域培训，如汽车服务顾问，培训期间有津贴） |
+| No formal training required | 0-3 months on-the-job training | $0~$500 (Usually provided by employer as short-term training) |
+| Vocational training (Ausbildung) | 2-3 years (dual system) | $0~$0 (Option to train in related service fields, such as automotive service advisor, with training allowance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 德国交通局 (Führerscheinstelle) | 可选 | 部分岗位需B类驾驶执照以便移动车辆 |
-| 职业健康证明 | 家庭医生或职业医生 | 必备 | 需提供健康证明，部分岗位要求无过敏史 |
+| Occupational health certificate | General practitioner or occupational physician | Required | Must provide a health certificate; some positions require no history of allergies |
+| Driver's license | German Transport Authority (Führerscheinstelle) | Optional | Some positions require a Class B driver's license to move vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。德国车辆清洁行业需求稳定，尤其随着汽车保有量增加和租赁市场发展，就业机会保持平稳。移民从事该职业门槛较低，但薪资水平不高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. The vehicle cleaning industry in Germany has stable demand, especially with increasing car ownership and rental market growth, maintaining steady employment. Immigration barriers are low, but wages are not high.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，根据联邦劳工局数据 |
-| 中级（3-5年） | $28,000~$33,000 | 税前年薪，含经验加成 |
-| 高级（5年以上） | $33,000~$38,000 | 税前年薪，含团队主管或专业护理角色 |
+| Median salary | $33,420 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$28,000 | Gross annual salary, based on Federal Employment Agency data |
+| Mid-level (3–5 years) | $28,000~$33,000 | Annual salary before tax, including experience bonuses |
+| Senior (5+ years) | $33,000~$38,000 | Pre-tax annual salary, including team leader or specialist nursing roles |
+| average salary | $35,700 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，可从普通清洁工晋升为团队组长或主管，或转向专业汽车护理领域（如镀膜、内饰修复）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vehicle cleaning is manual task-intensive; AI/automation will gradually replace many cleaning operations, reducing job demand and lowering entry barriers, but income may decline.
+
+Limited career progression; can advance from general cleaner to team leader or supervisor, or move into specialized car care (e.g., coating, interior restoration).
+
+**Tasks most exposed to AI:**
+
+- External automatic car wash process (foam, brushing, rinsing)
+- Internal vacuuming and carpet cleaning (robot vacuum cleaners)
+- Automatic glass wiping
+- Standardized disinfection procedures (UV or spray robots)
+- Automatic cleaning of tires and wheel hubs
+
+**Where AI augments the role:**
+
+- Using AI scheduling systems to optimize car wash queuing and resource allocation
+- Using AR devices to assist in checking hard-to-reach cleaning spots
+- AI image recognition detects residual stains and guides rework
+- Use IoT to monitor equipment status for predictive maintenance
+- Optimize cleaning processes by analyzing customer feedback with AI.
+
+**Human moat:**
+
+- Manual skills for handling complex stains (oil, asphalt)
+- Care of fine interior components of vehicles (dashboard, leather seats)
+- Communicate with clients about special needs and provide personalized services
+- Flexible response in emergencies (e.g., spill cleanup)
+- Monitor automated equipment operation and handle malfunctions
+
+**Skills to build:**
+
+- Operation and maintenance of automated car wash equipment
+- Basic programming and equipment debugging (PLC, robots)
+- Data entry and AI scheduling system use
+- Customer relationship management software operation
+- Knowledge of eco-friendly cleaning agents and sustainable practices
+- Basic first aid and safe chemical handling
+
+**Key growth areas:**
 
 - Stable Demand
 - Automotive Service
@@ -61,69 +97,68 @@ Responsible for cleaning, caring for, and disinfecting various vehicles, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用，因薪资低于蓝卡门槛 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需至少两年职业培训或同等学历，车辆清洁工通常不符合 |
-| Subclass Chancenkarte（Opportunity Card） | 适合低技能岗位，需证明德语能力（A2以上）和工作合同 |
-| Subclass Job Seeker（Job Seeker Visa） | 可入境寻找工作，但需证明经济能力和德语基础 |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable as salary is below the Blue Card threshold |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires at least two years of vocational training or equivalent qualification; vehicle cleaners usually do not qualify |
+| Subclass Chancenkarte (Opportunity Card) | Suitable for low-skilled positions, requiring proof of German proficiency (A2 or above) and a work contract |
+| Subclass Job Seeker (Job Seeker Visa) | You may enter the country to seek employment, but must demonstrate financial means and basic German language skills |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle Cleaner？**
-- 喜欢动手、注重细节的人
-- 对汽车护理有兴趣的人
-- 希望快速进入德国劳动市场的人
-
-**谁不适合学Vehicle Cleaner？**
-- 追求高薪资和职业晋升的人
-- 对化学品或清洁剂过敏的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People interested in car care.
+- People who want to quickly enter the German labor market
+
+**Who is not suited**
+- People seeking high salary and career advancement
+- People allergic to chemicals or cleaning agents
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a vehicle cleaner in Germany?**
+A: According to the German Federal Employment Agency, full-time vehicle cleaners earn a pre-tax annual salary of about 24,000-38,000 euros, depending on experience and region.
+
+**Q: How can third-country nationals obtain a work visa for vehicle cleaners in Germany?**
+A: Can apply for a work visa via the Opportunity Card (Chancenkarte) or after directly obtaining a job contract. Requires proof of German proficiency (usually A2 or above) and professional qualification recognition.
+
+**Q: What career development opportunities are there for vehicle cleaners?**
+A: Can advance to team supervisor or transition to specialized automotive care fields such as coating, interior repair, or automotive beauty management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle Cleaner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a vehicle cleaner in Germany?**
-答：According to the German Federal Employment Agency, the annual gross salary for a full-time vehicle cleaner ranges from €24,000 to €38,000, depending on experience and region.
-
-**问：How can a third-country national obtain a work visa as a vehicle cleaner in Germany?**
-答：Through the Opportunity Card (Chancenkarte) or a job offer with a work visa. Requires proof of German language skills (usually A2 or higher) and professional qualification recognition.
-
-**问：What career development opportunities are there for vehicle cleaners?**
-答：Opportunities include promotion to team leader or specialization in automotive care areas such as coating, interior restoration, or detailing management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

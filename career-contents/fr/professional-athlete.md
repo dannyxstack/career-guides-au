@@ -1,60 +1,94 @@
-# Professional Athlete（Professional Athlete）职业分析 · FR
+# Professional Athlete — career analysis · France
 
-**职业代码：L1401 – Professional Athlete。**
+**Occupation code: L1401 (ROME)**
 
-Professional athletes compete in sports events at national and international levels, earning income from contracts, prizes, and endorsements.
+Professional athletes focus primarily on sports competition, participating in various competitions and pursuing outstanding results.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专业训练（青训营） | 3-5年 | $10,000~$30,000（俱乐部青训营通常免费，外部培训费用不等） |
-| 体育学学士（STAPS） | 3年（Licence） | —（公立大学学费低，约170-1000欧元/年） |
+| Professional Training (Youth Training Camp) | 3-5 years | $10,000~$30,000 (Club youth camps are usually free, with varying fees for external training) |
+| Bachelor of Physical Education (STAPS) | 3 years (Licence) | $0~$1,000 (Public university tuition is low, about 170-1000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育职业资格（CQP） | 法国体育部 | 可选 | 针对专业运动员的资格认证 |
-| 国家体育文凭（DEJEPS） | 法国体育部 | 可选 | 高级运动员或教练必备 |
+| Sports Professional Qualification (CQP) | French Ministry of Sports | Optional | Certification for professional athletes |
+| National Diploma in Sports (DEJEPS) | French Ministry of Sports | Optional | A must-have for senior athletes or coaches |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国职业体育市场稳定，足球、橄榄球、网球等项目需求持续，但竞争激烈，顶级运动员收入极高，多数运动员职业生涯较短。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France's professional sports market is stable, with ongoing demand for football, rugby, tennis, and other sports, but competition is fierce, top athletes earn very high incomes, and most athletes have short careers.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$50,000 | 低级别联赛或青年合同 |
-| 中级（3-8年） | $50,000~$150,000 | 次级联赛或职业联赛球员 |
-| 高级（8年以上） | $150,000~$5,000,000 | 顶级联赛明星，含奖金及代言 |
+| Median salary | $100,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$50,000 | Lower league or youth contract |
+| Mid-level (3–8 years) | $50,000~$150,000 | Players from secondary leagues or professional leagues |
+| Senior (8+ years) | $150,000~$5,000,000 | Top league stars, including prize money and endorsements |
+| average salary | $39,756 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业运动员通常从俱乐部青训营起步，晋升至一线队，少数顶尖运动员可代表国家队参赛。退役后可转型教练、体育管理或媒体评论员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
+
+Professional athletes usually start in club youth schools and advance to the first team, with a few top athletes able to represent the national team. After retirement, they can transition into coaching, sports management, or media commentators.
+
+**Tasks most exposed to AI:**
+
+- Manual collection and analysis of game data
+- Basic training plan development and adjustment
+- Manual editing and annotation of tactical footage
+- Traditional monitoring and recording of athlete physiological indicators
+
+**Where AI augments the role:**
+
+- Uses AI video analysis to optimize personal technique and tactical decisions
+- Personalized injury prevention using wearable sensors and AI
+- Improve pre-game preparation efficiency through AI simulation of opponent strategies
+- Use AI to generate customized nutrition and recovery plans
+
+**Human moat:**
+
+- High-intensity physical fitness, speed, and skill performance
+- Intuitive judgment for on-the-spot response and teamwork
+- Competitive spirit and mental resilience
+- Perseverance and self-discipline from long-term training
+- Breaking human limits and creative race strategies
+
+**Skills to build:**
+
+- Sports data analysis and interpretation
+- Use of AI video analysis tools
+- Wearable devices and biosensor data applications
+- Personalized training programming (AI-assisted)
+- Sports Psychology and Stress Management
+- Digital media and personal brand management
+
+**Key growth areas:**
 
 - sports industry
 - e-sports
@@ -63,68 +97,67 @@ Professional athletes compete in sports events at national and international lev
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Sportif)） | 面向国际知名运动员，需提供俱乐部合同及体育成就证明 |
-| Subclass Salarié（Salarié (受雇工作居留)） | 受雇于法国体育俱乐部，需工作许可 |
+| Subclass Passeport Talent (Passeport Talent (Sportif)) | For internationally renowned athletes, club contracts and sports achievement certificates must be provided |
+| Subclass Salarié (Salarié (Employed Work Residence)) | Employed by a French sports club, work permit required |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Professional Athlete？**
-- 具有极高体育天赋和毅力的人
-- 能够承受高强度训练和比赛压力的人
-- 从小专注于某一体育项目并有职业规划的人
-
-**谁不适合学Professional Athlete？**
-- 缺乏长期竞争意识的人
-- 希望稳定工作和规律生活的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with exceptional athletic talent and perseverance
+- People who can withstand high-intensity training and competition pressure
+- People who have focused on a particular sport since childhood and have a career plan
+
+**Who is not suited**
+- People who lack a sense of long-term competition
+- Those who want stable jobs and a regular lifestyle
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate income of professional athletes?**
+A: Income gap is huge: junior athletes earn approx. €20,000-50,000 per year, top stars can earn millions or even tens of millions, including wages, bonuses, and endorsements.
+
+**Q: How can foreign professional athletes immigrate to France?**
+A: Applications can be made through the Passeport Talent Passport, which requires a club contract and sports achievements; EU citizens can move freely.
+
+**Q: What career paths are available for professional athletes after retirement?**
+A: Common career paths include coaching, sports management, media commentatorship, sports marketing, or entrepreneurship, with some athletes continuing their studies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Professional Athlete为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a professional athlete?**
-答：Salaries vary widely: entry-level athletes earn €20,000–€50,000, while top stars can earn millions, including bonuses and endorsements.
-
-**问：How can foreign professional athletes immigrate to France?**
-答：They can apply for a Passeport Talent (sports) with a club contract and proof of achievements; EU citizens have free movement.
-
-**问：What career options do athletes have after retirement?**
-答：Common paths include coaching, sports management, media commentary, sports marketing, or entrepreneurship; some pursue further education.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

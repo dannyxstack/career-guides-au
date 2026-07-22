@@ -1,60 +1,93 @@
-# Gardener in Landscape and Sports Field Construction（Gardener in Landscape and Sports Field Construction）职业分析 · DE
+# Gardener in Landscape and Sports Field Construction — career analysis · Germany
 
-**职业代码：1214 – Gardener in Landscape and Sports Field Construction。**
+**Occupation code: 1214 (KldB)**
 
-Specializes in planning, construction and maintenance of gardens, parks, landscapes and sports fields, including planting, paving, and irrigation systems.
+Specializes in the planning, construction, and maintenance of gardens, parks, landscaping, and sports fields, including planting, paving, and irrigation system installation.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间通常有津贴，月薪约800-1200欧元） |
-| 本科（景观建筑） | 3-4年 | —（公立大学免学费，仅含杂费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Training usually includes a stipend, with a monthly salary of approximately 800-1200 euros) |
+| Bachelor's degree (Landscape Architecture) | 3-4 years | $0~$1,500 (Public universities are tuition-free, only incidental fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺师职业资格（Gärtner/in） | 德国工商会（IHK） | 必备 | 通过双元制结业考试获得，是行业必备资质 |
-| 资质认证（Anerkennung） | 相关行业协会 | 必备 | 外国学历需通过认证，需提交材料并可能需补修课程 |
+| Horticulturist professional qualification (Gärtner/in) | German Chamber of Commerce and Industry (IHK) | Required | Obtained through passing the dual system final exam, it is an essential industry qualification |
+| Qualification recognition (Anerkennung) | Relevant industry associations. | Required | Foreign qualifications need to be assessed, documents required, and may need bridging courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。德国持续的城市绿化与生态建设项目推动需求，尤其在公共空间和体育设施领域。但行业依赖天气和建筑周期，季节性强。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Ongoing urban greening and ecological construction projects in Germany drive demand, especially in public spaces and sports facilities. However, the industry is weather-dependent and seasonal due to construction cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税后月薪约1800-2200欧元 |
-| 中级（3-10年） | $32,000~$40,000 | 税后月薪约2300-2800欧元 |
-| 高级（10年以上） | $42,000~$55,000 | 税后月薪约3000-3800欧元，含领班或自雇 |
+| Median salary | $37,260 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$30,000 | Net monthly salary approx. EUR 1,800-2,200 |
+| Intermediate (3-10 years) | $32,000~$40,000 | Monthly after-tax salary approx. 2300–2800 euros |
+| Senior (10+ years) | $42,000~$55,000 | Monthly net salary approx. 3000-3800 euros, including team leader or self-employment |
+| average salary | $39,144 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从助理升至领班（Vorarbeiter），进一步成为工地经理（Baustellenleiter）或自雇（Gartenbau-Unternehmer）。继续教育可转向专业规划或绿色基础设施咨询。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Can advance from assistant to foreman (Vorarbeiter), then to site manager (Baustellenleiter) or self-employment (Gartenbau-Unternehmer). Further education can lead to specialized planning or green infrastructure consulting.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Urban greening
 - Sports field construction
@@ -63,66 +96,65 @@ Specializes in planning, construction and maintenance of gardens, parks, landsca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合本科以上学历且年薪达到门槛（2025年约4.5万欧元）的申请人，但本职业通常未达此标准 |
-| Subclass Skilled Worker（Skilled Employment Visa (Fachkräfteeinwanderung)） | 通过资质认证后，可申请工作签证，无需蓝卡薪资门槛 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许持有人在德国找工作或试工一年 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with a bachelor's degree or higher and an annual salary meeting the threshold (approx. €45,000 in 2025), but this occupation typically does not meet this standard. |
+| Subclass Skilled Worker (Skilled Employment Visa (Fachkräfteeinwanderung)) | After obtaining qualification certification, you can apply for a work visa without the Blue Card salary threshold. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing holders to search for a job or trial work in Germany for one year |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gardener in Landscape and Sports Field Construction？**
-- 喜欢户外工作、动手能力强的人
-- 对园林设计和绿色基础设施有兴趣的人
-- 愿意接受季节性和体力劳动的人
-
-**谁不适合学Gardener in Landscape and Sports Field Construction？**
-- 追求高薪或稳定办公环境的人
-- 不喜欢体力劳动或恶劣天气工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are hands-on
+- People interested in landscape design and green infrastructure
+- Willing to accept seasonal and physical work
+
+**Who is not suited**
+- People seeking high salary or stable office environment
+- People who dislike physical labour or working in bad weather
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for this occupation?**
+A: Entry-level annual salary approx. €25,000-€30,000, mid-level €32,000-€40,000, senior €42,000-€55,000 (pre-tax).
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Must first complete a Germany-recognized horticulturist vocational qualification (via dual training or credential recognition), then apply for a skilled migration work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Gardener in Landscape and Sports Field Construction为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Entry-level annual salary around 25,000-30,000 EUR, mid-level 32,000-40,000 EUR, senior 42,000-55,000 EUR (gross).
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：First obtain a recognized German qualification (via apprenticeship or credential evaluation), then apply for a skilled worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

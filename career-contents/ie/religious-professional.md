@@ -1,61 +1,97 @@
-# Religious Professional（Religious Professional）职业分析 · IE
+# Religious Professional — career analysis · Ireland
 
-**职业代码：2636 – Religious Professional。**
+**Occupation code: 2636 (ISCO08)**
 
-Religious professionals conduct religious ceremonies, provide spiritual guidance, and engage in community service, primarily in churches, mosques, temples, and other religious settings.
+Religious professionals are responsible for religious ceremonies, spiritual guidance, and community service, working mainly in churches, mosques, temples, and other religious venues.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$20,000（神学或宗教研究本科，学费因大学而异） |
-| 硕士 | 1-2年（硕士） | $12,000~$25,000（神学硕士或宗教教育硕士，部分学校提供奖学金） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$20,000 (Bachelor's degree in Theology or Religious Studies, tuition varies by university) |
+| Master's degree | 1-2 years (Master's) | $12,000~$25,000 (Master of Theology or Master of Religious Education, scholarships available at some institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位 | 爱尔兰大学或神学院 | 必备 | 通常要求神学或宗教研究相关学位 |
-| 教派认可 | 相关宗教机构 | 必备 | 需获得所属宗教团体的认可或任命 |
-| 儿童保护培训 | 国家机构 | 必备 | 涉及儿童工作时必须完成 |
+| Theology degree | Irish university or theological seminary | Required | A degree in theology or religious studies is usually required |
+| Religious recognition | Related religious institutions | Required | Must obtain recognition or appointment from the relevant religious organization |
+| Child Protection Training | National institutions | Required | Must be completed when working with children |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。爱尔兰宗教专业人员的就业前景稳定，但需求增长缓慢，主要受人口老龄化和多元文化影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Employment prospects for religious professionals in Ireland are stable, but demand growth is slow, mainly affected by an aging population and multiculturalism.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 助理牧师或宗教教育工作者 |
-| 中级（4-7年） | $35,000~$50,000 | 牧师或宗教领袖 |
-| 高级（8年以上） | $50,000~$70,000 | 高级神职人员或宗教机构负责人 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Assistant minister or religious education worker |
+| Mid-level (4-7 years) | $35,000~$50,000 | Priest or religious leader |
+| Senior (8+ years) | $50,000~$70,000 | Senior clergy or religious institution head |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径包括从助理牧师到高级牧师或宗教领袖，也可转向宗教教育或慈善管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's overall impact on religious professionals is mixed: ritual preparation and administrative tasks can be automated, but core functions like spiritual comfort and moral guidance are hard to replace, and entry-level positions have slightly narrowed due to increased digital demands.
+
+Career progression includes advancing from assistant pastor to senior pastor or religious leader, or transitioning to religious education or charity management.
+
+**Tasks most exposed to AI:**
+
+- Repetitive chanting, scripture display, and music playback control in religious ceremonies
+- Faith data management, donation records, and event scheduling
+- Generation of basic religious education materials (e.g., course outlines, presentations)
+- Automatic editing and subtitle addition for online preaching videos
+- Religious venue booking system and visitor guidance
+
+**Where AI augments the role:**
+
+- Using AI-assisted translation tools to quickly translate classic texts into multiple languages, broadening the scope of missionary work.
+- Analyze congregant feedback using AI to optimize sermon content and community activities.
+- AI-driven virtual reality technology for immersive religious education experiences
+- Smart scheduling tools help religious personnel arrange multiple ceremonies and consultations more efficiently
+- AI-generated multilingual promotional materials to enhance community outreach effectiveness
+
+**Human moat:**
+
+- Provides face-to-face psychological comfort and emotional support
+- Provide moral and ethical guidance, handle complex belief issues
+- Humanize interactions during core ceremonies (e.g., weddings, funerals, baptisms)
+- Establish and maintain long-term pastoral relationships based on trust
+- Providing holistic care during crises (e.g., disaster, death)
+
+**Skills to build:**
+
+- Digital evangelist skills (e.g., live streaming software, social media operations)
+- Application of AI tools (such as ChatGPT-assisted writing, translation software)
+- Data analysis and CRM systems for congregant relationship management
+- Cross-cultural communication skills (adapting to diverse communities)
+- Basic techniques in psychological counseling and crisis intervention
+- Multimedia content creation (video, audio editing)
+
+**Key growth areas:**
 
 - stable
 - aging population
@@ -64,65 +100,64 @@ Religious professionals conduct religious ceremonies, provide spiritual guidance
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于3万欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如果宗教专业被视为关键技能，可申请此许可，年薪需达到一定门槛 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requiring employer sponsorship and a minimum annual salary of 30,000 euros |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If a religious occupation is considered a critical skill, you may apply for this permit; the annual salary must meet a certain threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Religious Professional？**
-- 有强烈宗教信仰和奉献精神的人
-- 善于沟通和社区服务的人
-- 愿意长期从事精神指导工作的人
-
-**谁不适合学Religious Professional？**
-- 对宗教事务不感兴趣的人
-- 追求高薪和职业流动性的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong religious beliefs and dedication
+- People skilled in communication and community service
+- People willing to engage in long-term spiritual guidance work
+
+**Who is not suited**
+- People not interested in religious affairs
+- Those seeking high salaries and career mobility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for religious professionals?**
+A: Junior religious professionals earn approximately €25,000-35,000 per year, senior positions can reach €50,000-70,000.
+
+**Q: What are the pathways for religious professionals to immigrate to Ireland?**
+A: Mainly through General Employment Permit or Critical Skills Employment Permit, requiring employer sponsorship, typically with an annual salary not less than €30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Religious Professional为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for religious professionals?**
-答：Entry-level religious professionals earn €25,000 to €35,000 per year, while senior positions can reach €50,000 to €70,000.
-
-**问：What are the migration pathways for religious professionals to Ireland?**
-答：Mainly through General Employment Permit or Critical Skills Employment Permit, requiring employer sponsorship and a minimum salary of €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

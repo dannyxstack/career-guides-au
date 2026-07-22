@@ -1,59 +1,90 @@
-# Telecommunications Network Planner（Telecommunications Network Planner）职业分析 · 新西兰
+# Telecommunications Network Planner — career analysis · New Zealand
 
-**职业代码：313213 – Telecommunications Network Planner。**
+**Occupation code: 313213 (ANZSCO)**
 
-Telecommunications Network Planners design, optimize, and manage NZ's telecom infrastructure including mobile, fixed, and fiber networks to ensure capacity and performance. Eligible for skilled migration, with some roles on the Green List.
+Telecommunications network planners design, optimize, and manage New Zealand's telecommunications network infrastructure, including mobile, fixed, and fiber networks, ensuring network capacity and performance. This occupation is eligible for skilled migration, and some positions meet the Green List requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$50,000（新西兰大学学费，年约1.5-2.5万NZD，需自费） |
-| 研究生文凭 | 1年 | $15,000~$30,000（相关专业研究生文凭，年约1.5-3万NZD） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (New Zealand university tuition fees, approximately NZD 15,000-25,000 per year, self-funded.) |
+| Graduate diploma | 1 year | $15,000~$30,000 (Postgraduate diploma in a related field, approximately 15,000-30,000 NZD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工学学士（电信/电子工程） | 新西兰大学 | 必备 | 必备学历，需认可院校 |
-| IELTS | IDP/British Council | 必备 | 技术移民EOI需总分6.5 |
-| 新西兰工程师注册 | Engineering NZ | 可选 | 非强制但提升竞争力 |
+| Bachelor of Engineering (Telecommunications/Electronic Engineering) | New Zealand universities | Required | Required qualification, must be from a recognised institution |
+| IELTS | IDP/British Council | Required | SkillSelect EOI requires a total score of 6.5 |
+| New Zealand Engineer Registration | Engineering NZ | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。随着5G和光纤网络扩张，新西兰电信行业对规划师需求持续增长。预计2024-2029年就业岗位年增约2%，尤其在奥克兰和惠灵顿。受移民政策影响，该职业短缺持续。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. With the expansion of 5G and fiber networks, demand for planners in New Zealand's telecommunications industry continues to grow. Employment is projected to increase by about 2% annually from 2024-2029, especially in Auckland and Wellington. Affected by immigration policy, the occupation remains in shortage.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 普遍范围，含加班可能更高 |
-| 中级（3-7年） | $85,000~$110,000 | 常见中位薪资 |
-| 高级（7年以上） | $110,000~$140,000 | 资深或管理岗位 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | General range, may be higher with overtime |
+| Mid-level (3–7 years) | $85,000~$110,000 | Common median salary |
+| Senior (7+ years) | $110,000~$140,000 | Senior or management positions |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级网络工程师起步，逐步晋升为高级规划师或项目经理。积累经验后可转向架构师或管理岗位，也可拓展至云计算或网络安全领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The tasks of telecommunications network planners are both enhanced by AI (e.g., data optimization) and at risk of partial substitution, but core decision-making and physical network planning still rely on humans; overall impact is mixed.
+
+Can start as a junior network engineer and gradually advance to senior planner or project manager. Accumulating experience allows transition to architect or management roles, and expansion into cloud computing or cybersecurity.
+
+**Tasks most exposed to AI:**
+
+- Routine data analysis for network capacity forecasting and traffic modeling
+- Optimal site selection calculation for coverage planning based on historical data
+- Parameter adjustment for spectrum efficiency optimisation
+- Preliminary design of conventional network topology
+
+**Where AI augments the role:**
+
+- Using AI for large-scale network simulation and performance prediction to improve planning accuracy
+- AI-assisted automatic generation of multiple planning options and comparative evaluation
+- Real-time network data analysis drives dynamic optimization adjustments
+
+**Human moat:**
+
+- Communicating network requirements and strategic planning with clients and stakeholders
+- Handle non-standard physical deployment issues in complex geographic environments
+- Deep understanding and innovative application of emerging communication technologies (e.g., 6G, satellite).
+- Human judgment and trade-offs for compliance and safety risks
+
+**Skills to build:**
+
+- AI/machine learning applications in telecom network optimization
+- Digital twin and network simulation tools
+- Python/R data analysis and automation scripting
+- Cloud computing and virtualized network architecture (NFV/SDN)
+- Project management and stakeholder communication
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +93,67 @@ Telecommunications Network Planners design, optimize, and manage NZ's telecom in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 工作两年后可申请居留，需雇主担保及薪资达标（中位数） |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，学历+工作+薪资可申请，需EOI打分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主担保工签，需认证雇主，薪资达标，可转居留 |
+| Subclass Green List T2 (Green List Work to Residence) | After two years of work, can apply for residence, requiring employer sponsorship and meeting median salary threshold. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, can apply based on qualifications + work experience + salary, requires EOI points test |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, requires accredited employer, meets salary threshold, can lead to permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Telecommunications Network Planner？**
-- 有电信或网络工程背景的技术人才
-- 喜欢解决复杂问题，注重细节
-- 愿意在新西兰中长期发展的规划师
-
-**谁不适合学Telecommunications Network Planner？**
-- 不喜欢频繁与运营商及供应商沟通协调
-- 缺乏数理基础和网络知识
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical talent with telecommunications or network engineering background
+- Enjoys solving complex problems, detail-oriented
+- Planners willing to develop long-term in New Zealand
+
+**Who is not suited**
+- Dislikes frequent communication and coordination with operators and suppliers
+- Lack of mathematical and networking knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of telecommunications network planners in New Zealand?**
+A: Entry-level: approx. NZD $65,000-$85,000, mid-level $85,000-$110,000, senior $110,000-$140,000, depending on experience and qualifications.
+
+**Q: Can this occupation immigrate through the Green List?**
+A: Some positions can take the Green List Tier 2 (work to residence) pathway, requiring employer sponsorship and salary at the median.
+
+**Q: Is there high demand for this occupation in New Zealand?**
+A: High demand, especially driven by 5G deployment and fiber upgrade projects, with more opportunities in Auckland and major cities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Telecommunications Network Planner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Telecommunications Network Planner in NZ?**
-答：Entry-level NZD 65k-85k, mid-level NZD 85k-110k, senior NZD 110k-140k, depending on experience.
-
-**问：Is this occupation on the Green List for migration?**
-答：Some roles are on Green List Tier 2 (Work to Residence), requiring employer sponsorship and median salary.
-
-**问：Is there high demand for this occupation in NZ?**
-答：Yes, driven by 5G rollout and fiber upgrades, with opportunities in Auckland and major cities.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

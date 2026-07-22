@@ -1,61 +1,95 @@
-# Train Controller（Train Controller）职业分析 · 新西兰
+# Train Controller — career analysis · New Zealand
 
-**职业代码：712918 – Train Controller。**
+**Occupation code: 712918 (ANZSCO)**
 
-Train controllers in New Zealand, under the shared ANZSCO classification, are typically eligible for the Accredited Employer Work Visa (AEWV) but face limited pathways for Skilled Migrant Category (SMC) or Green List; gaining local experience via AEWV is recommended.
+Train dispatchers are classified as skilled occupations in the shared ANZSCO classification of Australia and New Zealand. However, in New Zealand they generally require an Accredited Employer Work Visa (AEWV) to work, and pathways to Skilled Migrant Category (SMC) or Green List are limited; gaining local experience via AEWV is recommended first.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰交通局（NZTA）认可的培训课程 | 6-12个月 | $5,000~$15,000（通常由铁路运营商提供内训，外部课程较少且昂贵。） |
-| 相关领域大专（如物流、交通运输） | 2年 | $20,000~$40,000（部分理工学院提供，但非必需。） |
+| Training courses accredited by the New Zealand Transport Agency (NZTA) | 6–12 months | $5,000~$15,000 (Internal training is usually provided by rail operators, external courses are few and expensive.) |
+| Associate degree in a related field (e.g., logistics, transportation) | 2 years | $20,000~$40,000 (Some polytechnics offer them, but they are not mandatory.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 列车调度员能力证书（Train Controller Competency Certificate） | 新西兰铁路公司（KiwiRail）或当地运营商 | 必备 | 由雇主提供培训并考核，非全国统一强制注册。 |
-| 铁路安全认证（Rail Safety Certificate） | 新西兰交通局（NZTA） | 必备 | 通过培训后由雇主协助申请，需更新。 |
-| 工作经验证明 | 前雇主 | 可选 | 通常要求2年以上信号或铁路运营经验。 |
+| Train Controller Competency Certificate | KiwiRail or local operators | Required | Employer-provided training and assessment, not a nationally mandated compulsory registration. |
+| Rail Safety Certificate | New Zealand Transport Agency (NZTA) | Required | After training, the employer assists with application, needs renewal. |
+| Work experience certificate | Previous employer | Optional | Usually requires 2+ years of signaling or railway operations experience. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 200。新西兰铁路行业稳步发展，但岗位较少，主要集中在奥克兰和惠灵顿的城市铁路网络。由于专业性强，本地培训有限，就业机会通常来自内部晋升或特定项目需求，竞争中等。
+**Job demand: low (★★☆☆☆).** National workforce approx. 200. New Zealand's rail industry is steadily developing, but jobs are scarce, mainly concentrated in Auckland and Wellington's urban rail networks. Due to high specialization and limited local training, employment usually comes from internal promotions or specific project needs, with moderate competition.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪较低，培训期间或助理岗位。 |
-| 中级（3-8年） | $75,000~$95,000 | 具备独立调度能力。 |
-| 高级（8年以上） | $100,000~$130,000 | 主管或专家级，负责复杂线路。 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Lower starting salary, during training or assistant positions. |
+| Mid-level (3–8 years) | $75,000~$95,000 | Capable of independent scheduling. |
+| Senior (8+ years) | $100,000~$130,000 | Supervisor or specialist level, responsible for complex circuits. |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从助理调度或信号操作员起步，积累经验后可晋升为高级调度员或控制中心主管，部分转向铁路规划或安全管理岗位。通常需要5-10年才能达到高级职位。
-**AI替代风险：中（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Starting as an assistant dispatcher or signal operator, gaining experience to advance to senior dispatcher or control center supervisor, with some transitioning to railway planning or safety management roles. Typically takes 5-10 years to reach senior positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Accredited Employer Work Visa
 - Skilled Migrant Category
@@ -64,69 +98,68 @@ Train controllers in New Zealand, under the shared ANZSCO classification, are ty
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作offer，雇主需证明无法招到本地人。有效期为3年，可续签，但需满足薪资中位数要求（2024年约29.66纽币/小时）。 |
-| Subclass SMC（Skilled Migrant Category） | 可能通过技术移民申请，但需ANZSCO技能等级2（此职业通常为等级2），且满足6分制（如学历+经验）。但该职业不在绿色清单上，竞争较大。 |
-| Subclass Green List T2（Green List Tier 2） | 该职业目前未列入绿色清单Tier 2，因此无法直接通过工作转居留。需关注未来政策更新。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, who must prove inability to hire locally. Valid for 3 years, renewable, but must meet median wage requirement (approx. NZD 29.66 per hour in 2024). |
+| Subclass SMC (Skilled Migrant Category) | May be eligible for skilled migration but requires ANZSCO Skill Level 2 (this occupation is typically Level 2), and meets the 6-point system (e.g., qualifications + experience). However, this occupation is not on the Green List, so competition is higher. |
+| Subclass Green List T2 (Green List Tier 2) | This occupation is currently not on the Green List Tier 2, so it cannot directly lead to a work-to-residence pathway. Monitor future policy updates. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Train Controller？**
-- 有铁路或运输背景，愿意接受雇主担保的工作者
-- 冷静果断，能在高压环境下处理突发事件
-- 愿意在奥克兰或惠灵顿等城市定居
-
-**谁不适合学Train Controller？**
-- 不打算长期依靠雇主工签，希望快速获得居民身份的人
-- 无法承受轮班制和高度紧张的工作节奏
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Workers with railway or transport background, willing to accept employer sponsorship
+- Calm and decisive, able to handle emergencies under high pressure
+- Willing to settle in cities like Auckland or Wellington
+
+**Who is not suited**
+- People who do not intend to rely on employer-sponsored work visas long-term and want to obtain residency quickly
+- Cannot tolerate shift work and high-stress pace.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a train controller in New Zealand?**
+A: Based on experience, junior salary approx. NZD $55,000-$70,000, mid-level $75,000-$95,000, senior $100,000-$130,000. Salary level moderate, lower than similar roles in Australia.
+
+**Q: How do train dispatchers immigrate to New Zealand?**
+A: This occupation is not on the Green List; Skilled Migrant Category (SMC) is possible but difficult, usually requiring work under an Accredited Employer Work Visa (AEWV) for 2-3 years before attempting to apply for a Resident Visa, but must meet salary and points requirements.
+
+**Q: What are the working hours for a train controller in New Zealand?**
+A: Typically shift work including nights, weekends, and public holidays. High work intensity requiring prolonged focus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Train Controller为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for train controllers in New Zealand?**
-答：Entry-level: NZD 55,000-70,000; Mid-level: NZD 75,000-95,000; Senior: NZD 100,000-130,000. Moderate compared to Australia.
-
-**问：How can train controllers immigrate to New Zealand?**
-答：Not on Green List; Skilled Migrant Category possible but challenging. Usually start with AEWV for 2-3 years, then apply for Resident Visa if meeting salary and points criteria.
-
-**问：What are the working hours for train controllers in New Zealand?**
-答：Typically shift work including nights, weekends, and public holidays. High pressure with long periods of intense focus.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

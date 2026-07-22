@@ -1,60 +1,90 @@
-# Tobacco Preparers and Products Makers（Tobacco Preparers and Products Makers）职业分析 · ES
+# Tobacco Preparers and Products Makers — career analysis · Spain
 
-**职业代码：7708 – Tobacco Preparers and Products Makers。**
+**Occupation code: 7708 (CNO)**
 
-Responsible for preparing raw tobacco, manufacturing cigarettes/cigars, operating machinery, and ensuring product quality.
+Responsible for preprocessing tobacco raw materials, production and packaging of tobacco products such as cigarettes and cigars, operating related machinery and equipment, and ensuring products meet quality standards.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育或职教培训 | 2年（FP Básico 或 Grado Medio） | —（公立FP免学费，仅需注册费和材料费） |
-| 上岗培训 | 1-3个月 | $500~$1,500（企业内部培训或短期课程） |
+| Secondary education or vocational training | 2 years (FP Básico or Grado Medio) | $0~$2,000 (Public FPs are free of tuition, only registration and material fees are required) |
+| On-the-job training | 1-3 months. | $500~$1,500 (Internal corporate training or short-term courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全与卫生证书 | 各地卫生部门或认证机构 | 必备 | 从事食品/烟草加工必需 |
-| 机械设备操作培训证明 | 企业或职业培训机构 | 可选 | 根据岗位要求，非强制但优先 |
+| Food safety and sanitation certificate | Local health departments or certification bodies | Required | Required for food/tobacco processing |
+| Certificate of mechanical equipment operation training | Enterprises or vocational training institutions | Optional | According to job requirements, not mandatory but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很低（★☆☆☆☆）。** 全国从业人数约 3,200。西班牙烟草消费呈下降趋势，行业自动化程度提高，就业机会有限，主要集中在少数烟草加工企业，岗位数量预计缓慢减少。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 3,200. Tobacco consumption in Spain is on the decline, with increased industry automation and limited job opportunities, mainly concentrated in a few tobacco processing companies, with the number of positions expected to decrease slowly.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$30,000 | 税前年薪，含生产线主管补贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–7 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$30,000 | Pre-tax annual salary, including production line supervisor allowance |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级工人可晋升为生产线组长或质量控制员，但晋升空间狭窄；部分工人通过职业培训转向食品加工或包装行业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This profession has been severely impacted by automation, with highly standardized production processes. AI and robotics will replace most repetitive operations, and the number of positions continues to decline.
+
+Junior workers can be promoted to production line leader or quality controller, but the promotion opportunities are limited; Some workers have transitioned to the food processing or packaging industry through vocational training.
+
+**Tasks most exposed to AI:**
+
+- Sorting and weighing tobacco raw materials
+- Cigarette machine operation and monitoring
+- Product packaging and box sealing
+- Quality and appearance inspection
+
+**Where AI augments the role:**
+
+- Optimization of predictive maintenance plans for equipment
+- AI optimization of production parameters enhances consistency
+- Automatic analysis of quality data supports decision-making
+
+**Human moat:**
+
+- Equipment fault diagnosis and repair
+- Process innovation and product development
+- Handling non-standard issues and coordinating with the team
+
+**Skills to build:**
+
+- PLC and automation system operation
+- Fundamentals of Data Analysis (Python/SQL)
+- Machine vision system maintenance
+- Industrial Robot Programming and Debugging
+- Lean production and quality management
+
+**Key growth areas:**
 
 - Declining demand
 - Automation
@@ -63,60 +93,62 @@ Responsible for preparing raw tobacco, manufacturing cigarettes/cigars, operatin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇工作居留，需雇主担保，因职业非紧缺且薪资较低，获批难度大。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Residence permit for employed work requires employer sponsorship. Due to the occupation not being in shortage and low salary, approval is difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tobacco Preparers and Products Makers？**
-- 对烟草加工有经验且不介意行业下滑的人
-- 希望在工业生产线稳定就业且能接受重复性工作的人
+**Who is suited**
+- Someone experienced in tobacco processing who doesn't mind the industry's downturn
+- People who want stable employment on industrial production lines and can accept repetitive work
 
-**谁不适合学Tobacco Preparers and Products Makers？**
-- 寻求长期高薪职业的人
-- 对健康与自动化风险敏感的人
+**Who is not suited**
+- People seeking long-term high-paying careers
+- People sensitive to health and automation risks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for tobacco workers in Spain?**
+A: Junior workers earn about 18,000–22,000 euros annually, while senior workers can earn up to 30,000 euros, but wage growth is limited.
+
+**Q: Can foreign workers immigrate to Spain through this occupation?**
+A: Almost impossible. This occupation is not on the short-demand list, has low salaries, and is difficult to sponsor; it is recommended to consider alternative industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 很低（★☆☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Tobacco Preparers and Products Makers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tobacco workers in Spain?**
-答：Entry-level workers earn €18,000-€22,000 annually, and senior workers up to €30,000, but salary growth is limited.
-
-**问：Can foreign workers immigrate through this occupation?**
-答：Almost impossible. It is not a shortage occupation, with low wages and difficult employer sponsorship.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

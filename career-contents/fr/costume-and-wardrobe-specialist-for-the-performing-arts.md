@@ -1,60 +1,95 @@
-# Costume And Wardrobe Specialist For The Performing Arts（Costume And Wardrobe Specialist For The Performing Arts）职业分析 · FR
+# Costume And Wardrobe Specialist For The Performing Arts — career analysis · France
 
-**职业代码：L1502 – Costume And Wardrobe Specialist For The Performing Arts。**
+**Occupation code: L1502 (ROME)**
 
-Responsible for designing, making, fitting, and maintaining costumes for theater, film, TV, and other performing arts, ensuring character looks align with the director's vision.
+Responsible for costume design, production, fitting, and maintenance for performing arts such as drama, film, and television, ensuring character styling meets director's requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 服装手艺 | 2年（CAP） | —（公立学校免学费，仅注册费；学徒制可获工资） |
-| BTS 时装设计 | 2年（BTS） | —（公立学校免学费；私立约5000欧/年） |
-| DNSEP 艺术文凭（服装方向） | 5年（DNSEP） | —（公立美院免学费，私立昂贵） |
+| CAP garment craftsmanship | 2 years (CAP) | $0~$3,000 (Public schools offer tuition waiver, only registration fees; Apprenticeships can earn wages) |
+| BTS fashion design | 2 Years (BTS) | $0~$5,000 (tuition waiver in public schools; Private ones pay about 5,000 euros per year) |
+| DNSEP Diploma in Arts (Fashion Track) | 5 years (DNSEP) | $0~$10,000 (Public art academies waive tuition, while private ones are expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 服装手艺 | 法国教育部 | 可选 | 基础职业证书，学校或学徒制获得 |
-| BTS 时装设计 | 法国教育部 | 可选 | 高级技师证书，常见资质 |
-| 经验认可（VAE） | 法国教育部 | 可选 | 无正式文凭者可凭经验获得同等认证 |
+| CAP garment craftsmanship | French Ministry of Education | Optional | Basic vocational certificates, obtained through school or apprenticeship |
+| BTS fashion design | French Ministry of Education | Optional | Senior technician certificate, commonly recognized qualification |
+| Recognition of Experience (VAE) | French Ministry of Education | Optional | Those without formal diplomas can obtain equivalent certification based on experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国表演艺术行业稳定，巴黎及各大城市有持续需求。预算限制导致部分临时合同，但资深人员机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. France's performing arts industry is stable, with sustained demand in Paris and major cities. Budget constraints have led to some temporary contracts, but there are more opportunities for senior staff.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，助理职位 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪，独立服装师 |
-| 高级（7年以上） | $35,000~$55,000 | 税前年薪，首席服装师或总监 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, assistant position |
+| Mid-level (3–7 years) | $25,000~$35,000 | Pre-tax annual salary, independent costume designer |
+| Senior (7+ years) | $35,000~$55,000 | Pre-tax annual salary, chief costume designer or director |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从服装助理晋升为首席服装师或造型总监，也可转向影视行业或开设个人工作室。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of a wardrobe manager is highly dependent on physical operations and on-site judgment; AI is difficult to fully replace, but wearable devices and automated fitting systems will reduce demand for low-skilled positions.
+
+You can be promoted from a costume assistant to chief costume designer or styling director, or transition to the film industry or open a personal studio.
+
+**Tasks most exposed to AI:**
+
+- Automatically match actor body type with clothing size using AI image recognition
+- Use RFID and Internet of Things to automatically track clothing inventory and returns
+- Use virtual try-on software to reduce physical fitting sessions
+- Handled by chatbots for basic changing time and clothing cleaning scheduling
+- AI analyzes scripts to automatically generate alternative costume lists
+
+**Where AI augments the role:**
+
+- AI-assisted rapid generation of multiple clothing matching options for director selection
+- Uses historical data to predict clothing wear and perform proactive maintenance
+- Get real-time costume adjustment prompts for actors via AR glasses
+- AI analysis of performance videos to optimize quick-change processes
+- Automatically generates clothing maintenance reports and budget recommendations
+
+**Human moat:**
+
+- Manual sewing and temporary alterations during on-site quick changes
+- Understand director's creative needs and make artistic judgments
+- Build trust with actors, handle sensitive body and comfort issues
+- Impromptu problem-solving for emergencies (e.g., clothing tears, wardrobe malfunctions)
+
+**Skills to build:**
+
+- Master basic sewing and garment alteration techniques
+- Learn to use 3D modeling and virtual fitting software
+- Mastery of garment inventory management systems and RFID technology
+- Improve communication and teamwork skills
+- Learn basic script analysis and costume design knowledge
+- Knowledge of sustainable fashion and eco-friendly fabrics
+
+**Key growth areas:**
 
 - Cultural events
 - Streaming content
@@ -63,68 +98,67 @@ Responsible for designing, making, fitting, and maintaining costumes for theater
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家及文化领域专业人士，需提供合同或项目证明 |
-| Subclass Salarié（Salaried Employee） | 受雇于法国公司的工作签证，需雇主担保及劳工许可 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能岗位，但对艺术类相对少见 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to artists and professionals in the cultural sector, requiring contract or project proof |
+| Subclass Salarié (Salaried Employee) | Work visas employed by French companies require employer sponsorship and labor permits |
+| Subclass Carte bleue UE (EU Blue Card) | It is suitable for high-skilled positions, but relatively rare for arts fields |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Costume And Wardrobe Specialist For The Performing Arts？**
-- 对戏剧、电影等表演艺术有热情的人
-- 具备手工技能和创意的人
-- 能适应项目制工作节奏的人
-
-**谁不适合学Costume And Wardrobe Specialist For The Performing Arts？**
-- 追求稳定办公室工作的人
-- 对服装制作细节不敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about performing arts such as drama and film
+- People with handicraft skills and creativity
+- Someone who can adapt to the project-based work pace
+
+**Who is not suited**
+- People seeking stable office work
+- People who are not sensitive to the details of clothing production
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French costume artists?**
+A: Entry-level approx. €20,000-25,000, mid-level €25,000-35,000, senior €35,000-55,000 (gross annual salary). Income varies by project. Freelancers need to file taxes themselves.
+
+**Q: How can foreigners obtain a French garment designer work visa?**
+A: Eligible via Passeport Talent or Salarié work visa. Requires a job contract with a French employer and proof that the position cannot be filled by an EU citizen.
+
+**Q: What career promotion paths are available for garment designers?**
+A: From fashion assistant → costume designer→ chief costume designer/styling director, you can also enter the film industry or start your own brand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Costume And Wardrobe Specialist For The Performing Arts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for costume specialists in France?**
-答：Entry-level approx. €20-25k, mid-level €25-35k, senior €35-55k (gross annual). Income varies by project; freelancers must handle their own taxes.
-
-**问：How can foreigners get a work visa as a costume specialist in France?**
-答：Via Talent Passport or Salaried Employee visa. Requires a French employer contract and proof that the position cannot be filled by an EU citizen.
-
-**问：What are the career progression paths for costume specialists?**
-答：From costume assistant → costume designer → chief costume designer/stylist director, or transition to film/TV industry or start own brand.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Architect（Architect）职业分析 · DE
+# Architect — career analysis · Germany
 
-**职业代码：3111 – Architect。**
+**Occupation code: 3111 (KldB)**
 
-Architects plan and design buildings and structures, balancing functionality, aesthetics, and sustainability. They are involved from concept design to construction supervision.
+Architects plan and design buildings and structures, balancing functionality, aesthetics, and sustainability. They are involved in the entire process from concept design to construction supervision.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（建筑学） | 3-4年 | —（公立大学免学费，仅交学期费；私立大学费用较高） |
-| 硕士（建筑学） | 2年 | —（公立硕士通常免学费，私立费用较高） |
+| Bachelor's (Architecture) | 3-4 years | $0~$30,000 (Public universities are tuition-free, only semester fees; private universities have higher costs) |
+| Master of Architecture | 2 years | $0~$20,000 (Public master's programs are usually tuition-free, while private ones are more expensive.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑师资格认证（Anerkennung） | 各州建筑师协会（Architektenkammer） | 必备 | 德国受规管职业，需认证学历并通过资格考试方可使用'Architect'头衔 |
-| 建筑学学位 | 大学 | 必备 | 通常需要建筑学硕士或同等学历 |
-| 注册建筑师 | 建筑师协会 | 必备 | 至少2年工作经验后可申请注册 |
+| Architect qualification recognition (Anerkennung) | State Chambers of Architects (Architektenkammer) | Required | Regulated profession in Germany; requires accredited qualifications and passing a licensing exam to use the title 'Architect' |
+| Architecture degree | University | Required | A master's degree in architecture or equivalent is usually required. |
+| Registered Architect | Architects' association | Required | Eligible for registration after at least 2 years of work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 120,000。德国建筑业需求稳定，尤其在可持续建筑和能源效率领域。城市化与翻新工程为建筑师提供持续机会，但竞争也较激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Germany's construction industry has stable demand, especially in sustainable building and energy efficiency. Urbanization and renovation projects offer ongoing opportunities for architects, but competition is also intense.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，视公司规模与地区而定 |
-| 中级（3-7年） | $45,000~$60,000 | 多数建筑师在此范围 |
-| 高级（7年以上） | $60,000~$80,000 | 项目经理或合伙人可达更高 |
+| Median salary | $62,184 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, depending on company size and region |
+| Mid-level (3–7 years) | $45,000~$60,000 | Most architects fall within this range |
+| Senior (7+ years) | $60,000~$80,000 | Project manager or partner can earn higher |
+| average salary | $67,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业路径通常从初级建筑师开始，可晋升为项目经理、设计主管或合伙人。也可专攻可持续建筑、文物保护或城市规划等领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Career path typically starts as junior architect, can advance to project manager, design director, or partner. May also specialise in sustainable architecture, heritage conservation, or urban planning.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Sustainable Architecture
 - Urban Development
@@ -64,70 +97,69 @@ Architects plan and design buildings and structures, balancing functionality, ae
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历且薪资达门槛的建筑师，提供快速居留和家庭团聚 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于已获德国资质认证的建筑师，可受雇于任意公司 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，需证明经济能力 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制，允许未获雇佣前入境寻找工作或参加资质认证 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated architects meeting salary thresholds, offering fast-track residency and family reunification |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to architects who have obtained German qualification recognition, can be employed by any company |
+| Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months in Germany to seek employment; proof of financial means required. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based, allowing entry for job seeking or qualification certification without prior employment |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architect？**
-- 喜欢创造性工作，兼具艺术与工程思维的人
-- 注重细节，有空间想象力和沟通能力
-- 愿意学习德语并通过专业认证的人
-
-**谁不适合学Architect？**
-- 不喜欢频繁沟通与客户协作的人
-- 对长时间高强度工作（如交图截止期）缺乏承受力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy creative work with a blend of art and engineering thinking
+- Detail-oriented, with spatial imagination and communication skills
+- Those willing to learn German and obtain professional certification
+
+**Who is not suited**
+- People who dislike frequent communication and client collaboration
+- People who cannot tolerate long periods of high-intensity work (e.g., project submission deadlines)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of architects in Germany?**
+A: Junior architect annual salary approx. €35,000-45,000, mid-level €45,000-60,000, senior up to €80,000+. Salary is affected by region, company size, and experience.
+
+**Q: How can foreign architects immigrate to Germany?**
+A: Foreign architects must undergo qualification recognition (Anerkennung) to confirm their degree is equivalent to German standards and register as an architect. They can then apply for an EU Blue Card or a skilled worker visa.
+
+**Q: What certifications are needed to become an architect in Germany?**
+A: Must hold a recognized degree (usually master's), complete 2 years of professional practice, and pass the architect registration exam. Then apply for registration with the architects' board in the relevant state.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Architect为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for architects in Germany?**
-答：Entry-level architects earn around €35,000-45,000, mid-level €45,000-60,000, and senior can exceed €80,000 annually, depending on region, company size, and experience.
-
-**问：How can foreign architects immigrate to Germany?**
-答：Foreign architects must obtain recognition of their qualifications (Anerkennung) and register as an architect. They can then apply for an EU Blue Card or Skilled Worker visa.
-
-**问：What certifications are required to become an architect in Germany?**
-答：A recognized degree (usually Master's), 2 years of professional practice, and passing the architect exam. Registration with the regional Chamber of Architects is mandatory.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

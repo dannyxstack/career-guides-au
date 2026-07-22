@@ -1,58 +1,93 @@
-# First-Line Supervisors of Air Crew Members（First-Line Supervisors of Air Crew Members）职业分析 · 美国
+# First-Line Supervisors of Air Crew Members — career analysis · United States
 
-**职业代码：55-2011 – First-Line Supervisors of Air Crew Members。**
+**Occupation code: 55-2011 (SOC)**
 
-Supervise and coordinate activities of air crew members to ensure flight safety and operational efficiency. Supervisors may also perform the same duties as the workers they supervise.
+Supervise and coordinate crew activities to ensure flight safety and operational efficiency. Supervisors may also perform the same tasks as subordinates.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$30,000（社区大学或航空学院） |
-| 学士学位 | 4年 | $40,000~$100,000（航空管理或相关专业） |
+| Associate degree | 2 years | $15,000~$30,000 (Community college or aviation school) |
+| Bachelor's degree | 4 years | $40,000~$100,000 (Aviation management or related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 飞行安全认证 | FAA | 必备 | 必备认证 |
-| 机组资源管理培训 | 航空公司或培训机构 | 可选 | 行业认可 |
+| Flight safety certification | FAA | Required | Required certifications |
+| Crew Resource Management training | Airlines or training institutions | Optional | Industry recognised |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 12,000。受航空旅行需求增长和飞行员短缺影响，该职业需求稳定增长。预计未来十年就业增长5%-7%，但受经济波动影响。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Driven by growth in air travel demand and pilot shortage, demand for this occupation is steadily increasing. Expected employment growth of 5%–7% over the next decade, but subject to economic fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 小型航空公司或区域航线 |
-| 中级（3-7年） | $65,000~$90,000 | 中型航空公司 |
-| 高级（7年以上） | $90,000~$130,000 | 大型航空公司或国际航线 |
+| Median salary | $77,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$65,000 | Small airlines or regional routes |
+| Mid-level (3–7 years) | $65,000~$90,000 | Medium-sized airline |
+| Senior (7+ years) | $90,000~$130,000 | Major airlines or international routes |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从机组人员（如空乘）晋升而来，积累经验后可升任高级主管或运营经理，部分转向培训或安全管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Typically promoted from crew members (e.g., flight attendants); with experience, can advance to senior supervisor or operations manager, some transition to training or safety management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Aviation growth
 - Pilot shortage
@@ -61,65 +96,64 @@ Supervise and coordinate activities of air crew members to ensure flight safety 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位，但该职业主管岗位可能符合专业职业要求，雇主担保常见 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需高级学位或特殊能力，可用于绿卡申请 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适合有相关经验的申请者，但排期较长 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree, but supervisory roles in this occupation may meet professional requirements; employer sponsorship is common |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires advanced degree or exceptional ability, can be used for green card application. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Suitable for applicants with relevant experience, but long waiting times |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学First-Line Supervisors of Air Crew Members？**
-- 有航空背景或相关经验
-- 擅长团队管理和沟通
-- 能应对高压和不定时工作
-
-**谁不适合学First-Line Supervisors of Air Crew Members？**
-- 不喜频繁出差和加班
-- 缺乏领导力和决策力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has aviation background or relevant experience
+- Skilled in team management and communication
+- Able to handle high pressure and irregular hours
+
+**Who is not suited**
+- Dislikes frequent travel and overtime
+- Lacks leadership and decision-making skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a crew leader?**
+A: Entry-level approx. $45k-$65k, mid-level $65k-$90k, senior $90k-$130k, depending on airline and route.
+
+**Q: Is it difficult to apply for a US work visa for this occupation?**
+A: Relatively moderate. Possible via H-1B or EB-2/EB-3 green card, but requires employer sponsorship and meeting education or experience requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-First-Line Supervisors of Air Crew Members的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for First-Line Supervisors of Air Crew Members?**
-答：Entry-level: $45,000-$65,000; Mid-level: $65,000-$90,000; Senior: $90,000-$130,000, depending on airline and route.
-
-**问：Is it difficult to apply for a US work visa for this occupation?**
-答：Moderate. H-1B or EB-2/EB-3 green card possible with employer sponsorship and meeting education/experience requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

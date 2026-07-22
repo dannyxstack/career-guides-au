@@ -1,63 +1,99 @@
-# Out of School Hours Care Worker（Out of School Hours Care Worker）职业分析 · 澳大利亚
+# Out of School Hours Care Worker — career analysis · Australia
 
-**职业代码：421114 – Out of School Hours Care Worker。**
+**Occupation code: 421114 (ANZSCO)**
 
-Out of School Hours Care Workers care for school-age children before and after school and during holidays, providing recreational activities, homework assistance, and basic care to ensure children's safety.
+Out-of-school care workers care for school-aged children before and after school and during school holidays, providing recreational activities, homework assistance, and basic life care to ensure children's safety.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期课程 | 6个月 | $1,000~$3,000（线上或TAFE短期证书） |
-| 职业证书（如Certificate III） | 1年 | $4,000~$7,000（TAFE或私立培训机构） |
-| 专科文凭（如Diploma） | 1.5-2年 | $8,000~$15,000（TAFE全额费用） |
+| Short-term courses | 6 months. | $1,000~$3,000 (Online or TAFE short certificate) |
+| Vocational certificates (e.g., Certificate III) | 1 year | $4,000~$7,000 (TAFE or private training institution) |
+| Diploma (e.g., Associate Degree) | 1.5-2 years | $8,000~$15,000 (TAFE full fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童服务三级证书 | TAFE或注册培训机构 | 可选 | 行业入门标准 |
-| 儿童保护培训 | 各州儿童保护机构 | 必备 | 多数雇主要求 |
-| 急救证书 | 澳大利亚红十字会等 | 必备 | 法律要求 |
-| 蓝卡/儿童工作许可 | 各州政府 | 必备 | 与儿童工作的法定要求 |
+| Child Protection Training | State child protection agencies | Required | Most employers require |
+| First aid certificate | Australian Red Cross, etc. | Required | Legal requirement |
+| Blue card/child work permit | State governments | Required | Statutory requirements for working with children |
+| Certificate III in Children's Services | TAFE or registered training organizations | Optional | Industry entry standards |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 48,000。随着双职工家庭增多和育儿需求增长，课外托护员需求稳定。预计未来五年岗位数量温和增长，尤其在郊区和新开发区。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. With the increase in dual-income families and growing childcare needs, demand for before/after-school caregivers is stable. Expect moderate job growth over the next five years, especially in suburbs and new developments.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 兼职或全职时薪约25-28澳元 |
-| 中级（3-5年） | $55,000~$65,000 | 担任协调员或团队领导 |
-| 高级（5年以上/经理） | $65,000~$80,000 | 中心经理或区域主管 |
+| Median salary | $69,732 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Part-time or full-time hourly rate approximately AUD 25-28 |
+| Mid-level (3–5 years) | $55,000~$65,000 | Acting as coordinator or team leader |
+| Senior (5+ years/Manager) | $65,000~$80,000 | Center manager or regional supervisor |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从助理升至团队负责人或协调员，再晋升为课外托护中心经理。部分从业者进一步学习后转入幼教或社区服务管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on after-school care workers is moderate: daily administrative tasks and homework supervision can be automated, but core duties such as emotional care, safety supervision, and creative activities are hard to replace. It is a 'mixed' occupation.
+
+Can progress from assistant to team leader or coordinator, then to out-of-school care center manager. Some practitioners pursue further study and move into early childhood education or community service management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate daily activity plans and notifications
+- Use AI voice assistant to answer routine parental inquiries (e.g., schedules, fees)
+- Automated entry of attendance and health records data
+- AI tutoring for homework (e.g., math problem explanation)
+- Monitoring AI to automatically check safety hazards (e.g., abnormal behavior alerts)
+
+**Where AI augments the role:**
+
+- AI-assisted personalized activity design (recommending crafts, games based on children's interests)
+- AI emotion recognition tools help carers monitor children's mental state
+- Multilingual AI translation aids communication with parents from different cultural backgrounds
+- AI report generation helps caregivers summarize daily feedback faster
+- AI scheduling optimises shift planning and resource allocation
+
+**Human moat:**
+
+- Emotional interaction and instant response (e.g., comforting children when injured or emotionally distressed).
+- Creative recreational activity design (e.g., improvisational theatre, outdoor games)
+- Multi-task safety supervision (simultaneously watching multiple children, anticipating and preventing conflicts)
+- Build trust with parents and handle sensitive family issues.
+- Personalized care for children (remembering each child's specific needs and preferences)
+
+**Skills to build:**
+
+- Pediatric first aid and mental health basics
+- Using AI-assisted teaching tools (e.g., smart whiteboards, adaptive learning software)
+- Basic data analysis skills (extracting child development insights from AI reports)
+- Digital safety awareness (protecting children's data privacy)
+- Cross-cultural communication skills (using AI translation to communicate with parents from different backgrounds)
+- Project management mindset (using AI tools to organize large holiday events)
+
+**Key growth areas:**
 
 - before and after school care
 - school holiday programs
@@ -66,66 +102,68 @@ Out of School Hours Care Workers care for school-age children before and after s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 部分雇主可担保，但该职业不在核心技能职业清单上，通常需要高技能岗位，课外托护员较难满足。 |
-| Subclass 190（Skilled Nominated visa） | 不在技术职业清单上，无法申请该签证。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) visa） | 偏远地区雇主可能担保，但职业需在相关偏远地区职业清单上，机会有限。 |
+| Subclass 482 (Skills in Demand Visa) | Some employers can sponsor, but this occupation is not on the Core Skills Occupation List; usually requires high-skilled positions, making it difficult for after-school caregivers to qualify. |
+| Subclass 190 (Skilled Nominated visa) | Not on the skilled occupation list, cannot apply for this visa. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) visa) | Regional employers may sponsor, but the occupation must be on the relevant regional occupation list; opportunities are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Out of School Hours Care Worker？**
-- 喜欢儿童且有耐心的人
-- 寻求灵活工作时间的家长或学生
-- 希望进入教育或社区服务领域的新手
+**Who is suited**
+- People who like children and have patience
+- Parents or students seeking flexible working hours
+- Newcomers looking to enter education or community services
 
-**谁不适合学Out of School Hours Care Worker？**
-- 寻求高薪职业的人
-- 不擅长多任务处理或应对吵闹环境的人
+**Who is not suited**
+- People seeking high-paying careers
+- People who are not good at multitasking or handling noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for an Out of School Hours Care Worker?**
+A: Entry-level hourly rate approx. A$25-28, annual salary approx. A$45,000-55,000. Manager level can reach A$65,000-80,000.
+
+**Q: Can out-of-school care attendants immigrate to Australia?**
+A: This occupation is not on the skilled migration occupation list, and migration pathways are very limited. Only a few remote area employer sponsorships may be possible, but difficult.
+
+**Q: What qualifications are required?**
+A: Usually requires completion of a Certificate III in Children's Services or equivalent. Some employers accept short-term training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Out of School Hours Care Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an Out of School Hours Care Worker?**
-答：Entry-level hourly rate is around AUD 25-28, annual salary AUD 45,000-55,000. Manager level can reach AUD 65,000-80,000.
-
-**问：Can Out of School Hours Care Workers immigrate to Australia?**
-答：This occupation is not on the skilled occupation list, so migration pathways are very limited. Only a few regional employer sponsorships may be possible, but it is difficult.
-
-**问：What qualifications are needed?**
-答：A Certificate III in Children's Services or equivalent is typically required. Some employers accept short courses.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,92 @@
-# Engineering Technologist（Engineering Technologist）职业分析 · 澳大利亚
+# Engineering Technologist — career analysis · Australia
 
-**职业代码：233914 – Engineering Technologist。**
+**Occupation code: 233914 (ANZSCO)**
 
-Engineering Technologists apply engineering principles in industrial, manufacturing, or construction settings, assisting engineers in design, testing, production, and maintenance. They play a key role across many technical industries in Australia.
+Engineering technologists apply engineering principles to industrial, manufacturing, or construction fields, assisting engineers in design, testing, manufacturing, and maintenance. They play a key role in many technical industries in Australia.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高级文凭 | 2年 | $15,000~$25,000（TAFE或私立学院学费） |
-| 本科（工程/技术） | 4年 | $30,000~$45,000（大学本科学费） |
+| Advanced diploma. | 2 years | $15,000~$25,000 (TAFE or private college tuition fees) |
+| Bachelor's degree (Engineering/Technology) | 4 years | $30,000~$45,000 (Undergraduate Tuition Fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程高级文凭或副学士学位 | TAFE或大学 | 必备 | 通常需2-4年课程 |
-| 技能评估 | Engineers Australia | 必备 | 用于技术移民 |
+| Advanced Diploma or Associate Degree in Engineering | TAFE or university | Required | Typically requires 2-4 years of study |
+| Skills assessment | Engineers Australia | Required | Used for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。澳大利亚工程行业持续增长，尤其在可再生能源、基础设施建设和先进制造业领域。对具备工程实践技能的技师需求旺盛，预计未来五年就业增长强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Australia's engineering industry continues to grow, especially in renewable energy, infrastructure construction, and advanced manufacturing. Demand for technicians with engineering practical skills is strong, with strong employment growth expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 包括养老金 |
-| 中级（3-7年） | $75,000~$95,000 | 取决于行业和地区 |
-| 高级（7年以上） | $95,000~$120,000 | 高级技师或团队领导 |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Including superannuation |
+| Mid-level (3–7 years) | $75,000~$95,000 | Depends on industry and region |
+| Senior (7+ years) | $95,000~$120,000 | Senior technician or team leader |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 晋升路径：初级工程技师 → 高级工程技师 → 工程经理或项目负责人。也可通过额外学习成为专业工程师（需完成认证工程学位）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of engineering technicians is mixed: AI will automate routine tasks such as design verification and data collection, while enhancing complex work like fault diagnosis and process optimization, requiring proactive adoption of tool upgrades.
+
+Career path: Junior Engineering Technician → Senior Engineering Technician → Engineering Manager or Project Lead. Can become a Professional Engineer (requires accredited engineering degree) through further study.
+
+**Tasks most exposed to AI:**
+
+- Use AI-assisted design software to automatically generate preliminary engineering drawings and plans.
+- Automatically identify production line anomalies and record them using machine learning models.
+- Fault prediction and maintenance scheduling based on sensor data.
+- Automatic generation of standard reports and documents (e.g., test reports, compliance documents).
+
+**Where AI augments the role:**
+
+- Use AI simulation platforms to rapidly iterate design parameters and optimize performance.
+- Quick retrieval of technical documents and standards via natural language processing.
+- Remote monitoring and predictive maintenance using digital twin technology.
+- Automatically detect product quality defects using computer vision.
+- Monitor process flows in real time via data dashboards to support decision-making.
+
+**Human moat:**
+
+- Cross-system integration complex fault diagnosis and on-site debugging capabilities.
+- Communicate with engineers and clients to understand needs and translate them into technical solutions.
+- On-site decision-making and emergency response for safety-critical systems.
+- Experience and intuition in creatively solving unstructured engineering problems.
+
+**Skills to build:**
+
+- Python programming and data analysis (pandas, NumPy).
+- AI/ML fundamentals and engineering applications (e.g., predictive maintenance).
+- Digital twin and IoT platform operation.
+- Advanced CAD/CAE (e.g., SolidWorks, Ansys) and automation scripting.
+- Project management and agile methods.
+- Industry-specific compliance knowledge (e.g., ISO standards).
+
+**Key growth areas:**
 
 - Renewable Energy
 - Infrastructure
@@ -61,69 +95,68 @@ Engineering Technologists apply engineering principles in industrial, manufactur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，需在MLTSSL清单上并通过技能评估 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需州政府提名 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需雇主提名 |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled migration, requires occupation on the MLTSSL list and passing a skills assessment. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requiring state government nomination |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Technologist？**
-- 喜欢动手解决工程问题的人
-- 有技术背景并希望快速进入职场的人
-- 寻求稳定职业和移民路径的人
-
-**谁不适合学Engineering Technologist？**
-- 不喜欢实际动手操作的人
-- 希望从事纯理论或研究工作的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like to solve engineering problems hands-on
+- Those with a technical background seeking quick entry into the workforce
+- People seeking stable careers and migration pathways
+
+**Who is not suited**
+- People who don't like hands-on work
+- Those wishing to pursue pure theory or research work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for engineering technicians in Australia?**
+A: Entry annual salary approx. AUD 60,000-75,000, mid-level AUD 75,000-95,000, senior AUD 95,000-120,000. Salary varies by industry, location, and experience.
+
+**Q: Which visas can engineering technicians use to migrate to Australia?**
+A: Can apply via 189 Skilled Independent, 190 State Nominated, or 482 Employer Sponsored then 186 Permanent Residence. Requires skills assessment through Engineers Australia.
+
+**Q: What are the career prospects for engineering technicians?**
+A: Can progress from junior to senior technician or engineering manager, or become a certified engineer through further study. High demand in renewable energy, infrastructure, and automation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Engineering Technologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Engineering Technologists in Australia?**
-答：Entry-level salary is about AUD 60,000-75,000; mid-level AUD 75,000-95,000; senior AUD 95,000-120,000. Pay varies by industry, location, and experience.
-
-**问：Which visas can Engineering Technologists use to migrate to Australia?**
-答：They can apply for Skilled Independent visa (189), State Nominated visa (190), or Temporary Skill Shortage visa (482) leading to Employer Nomination (186). A skills assessment by Engineers Australia is required.
-
-**问：What are the career prospects for Engineering Technologists?**
-答：They can progress from junior to senior technologist or engineering manager, or further study to become a professional engineer. Strong demand in renewable energy, infrastructure, and automation.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

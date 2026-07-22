@@ -1,61 +1,97 @@
-# Automotive Body and Related Repairers（Automotive Body and Related Repairers）职业分析 · 美国
+# Automotive Body and Related Repairers — career analysis · United States
 
-**职业代码：49-3021 – Automotive Body and Related Repairers。**
+**Occupation code: 49-3021 (SOC)**
 
-Repair and refinish automotive vehicle bodies and straighten vehicle frames, including sheet metal repair, welding, filling, sanding, and painting. Requires knowledge of vehicle structures, materials, and coating techniques.
+Repair and refinish vehicle bodies, straighten frames, including sheet metal repair, welding, filling, sanding, and painting. Must understand vehicle structure, material properties, and painting techniques.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（仅需高中毕业证） |
-| 社区学院或技术学校证书 | 1-2年 | $5,000~$20,000（可选的碰撞修理或自动车身技术课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (Only a high school diploma required) |
+| Community college or technical school certificate | 1-2 years | $5,000~$20,000 (Optional collision repair or auto body technology courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ASE碰撞维修认证 | 美国汽车服务卓越协会 (ASE) | 可选 | 可选，但雇主普遍看重；包含多项考试 |
-| I-CAR认证 | 汽车碰撞维修行业圆桌会议 (I-CAR) | 可选 | 行业认可，证明技能水平 |
-| 州际喷漆许可证（部分州） | 州政府 | 必备 | 涉及有害物质排放时可能需要 |
+| Interstate painting license (in some states) | State government | Required | May be required when involving hazardous substance emissions |
+| ASE Collision Repair Certification | Automotive Service Excellence (ASE) | Optional | Optional, but employers generally value it; involves multiple exams |
+| I-CAR certification | Inter-Industry Conference on Auto Collision Repair (I-CAR) | Optional | Industry recognition, proves skill level |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 162,500。美国汽车保有量庞大，事故修复需求稳定。电动汽车普及可能改变维修方式，但传统碰撞维修需求仍将持续。预计未来十年就业增长约1%，与平均水平持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 162,500. The US has a large car fleet, with stable demand for accident repair. Electric vehicle adoption may change repair methods, but traditional collision repair demand will persist. Employment is projected to grow about 1% over the next decade, in line with the average.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 学徒或入门级 |
-| 中级（3-5年） | $38,000~$55,000 | 独立操作常见维修 |
-| 高级（5年以上） | $55,000~$75,000 | 含认证技师、主管 |
+| Median salary | $54,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$38,000 | Apprentice or entry-level |
+| Mid-level (3–5 years) | $38,000~$55,000 | Independently operate common repairs |
+| Senior (5+ years) | $55,000~$75,000 | Includes certified technicians and supervisors |
+| average salary | $59,690 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或技校起步，逐步晋升为高级技师、团队主管、店长，或独立开设修理店。考取ASE认证、掌握铝材修复、高级喷涂等技术可提升薪资。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
+
+Can start as an apprentice or at trade school, progress to senior technician, team leader, shop manager, or open own repair shop. ASE certification, aluminum repair, and advanced painting skills can boost salary.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition to automatically assess vehicle damage and generate repair plans
+- Automated quotation system generating repair quotes
+- AI scheduling optimizes the order of maintenance work orders.
+- Digital twin simulation of collision repair processes to reduce trial and error
+- Automatic logging of repair progress and work hours
+
+**Where AI augments the role:**
+
+- AR glasses display damage analysis results and repair guidance to improve accuracy
+- AI-assisted detection of hidden damage to reduce omissions
+- 3D Scanning and Printing for Rapid Custom Sheet Metal Parts
+- Smart diagnostic tools analyze structural strength and optimize repair solutions.
+- VR training system simulates multiple collision scenarios to accelerate skill improvement
+
+**Human moat:**
+
+- Complex metal forming and craft restoration (e.g., hand shaping)
+- Comprehensive judgment of vehicle body structure and mechanical properties
+- Explaining repair plans and liability determination to clients
+- Handling unique issues of non-standard, older vehicle models
+- On-site safety assessment and emergency repair decisions
+
+**Skills to build:**
+
+- Operating AI-assisted damage assessment software
+- 3D scanning and reverse engineering technology
+- High-voltage safety knowledge for new energy vehicles
+- Use digital maintenance management platform
+- New material welding and bonding processes
+- Customer communication and insurance claims coordination.
+
+**Key growth areas:**
 
 - Collision repair
 - Electric vehicle repair
@@ -64,66 +100,68 @@ Repair and refinish automotive vehicle bodies and straighten vehicle frames, inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因不属于专业职业；雇主需证明职位复杂且需学士学位，较困难 |
-| Subclass EB-3（EB-3 Skilled Worker） | 可能适用于有经验的技师，但需PERM劳工证，且雇主担保不易 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大/墨西哥公民；本职位不在专业职业列表中，不适用 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as it is not a professional occupation; employers need to prove the job is complex and requires a bachelor's degree, which is difficult. |
+| Subclass EB-3 (EB-3 Skilled Worker) | May be possible for experienced technicians, but requires PERM labor certification, and employer sponsorship is not easy. |
+| Subclass TN (TN NAFTA Professional) | Canada/Mexico citizens only; this position is not on the professional occupation list, not applicable |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Automotive Body and Related Repairers？**
-- 动手能力强、喜欢修理车辆的人
-- 不介意体力劳动和油漆气味的人
-- 希望获得稳定蓝领工作的人
+**Who is suited**
+- People who are hands-on and enjoy repairing vehicles
+- People who don't mind physical labor and paint fumes.
+- People seeking stable blue-collar jobs
 
-**谁不适合学Automotive Body and Related Repairers？**
-- 对化学物质敏感或讨厌脏活的人
-- 希望高薪且快速晋升的人
+**Who is not suited**
+- People sensitive to chemicals or who dislike dirty work
+- People seeking high pay and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a Motor Vehicle Body Trimmer?**
+A: Median annual salary about $44,000, entry-level about $28,000-38,000, senior up to $55,000-75,000. Experience, certifications, and location have significant impact.
+
+**Q: Can an automotive body repairer immigrate to the US via H-1B?**
+A: Very difficult, as H-1B requires a specialty occupation (usually bachelor's degree or higher), while this occupation typically requires only high school or certificate. EB-3 green card may apply to experienced technicians, but employer sponsorship is rare.
+
+**Q: Are there other immigration pathways for automotive body repairers?**
+A: Very few. Non-skilled visas like H-2B may apply for temporary workers, but not permanent immigration. TN visa does not apply. Consider skilled migration programs in Canada or Australia.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Automotive Body and Related Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for automotive body repairers?**
-答：Median annual wage is about $44,000, entry-level $28,000-$38,000, experienced $55,000-$75,000, depending on experience, certifications, and location.
-
-**问：Can I immigrate to the US as an automotive body repairer via H-1B?**
-答：Very difficult because H-1B requires a specialty occupation (usually a bachelor's degree), while this job typically requires only high school or certificate. EB-3 green card may be possible for experienced workers, but employer sponsorship is rare.
-
-**问：Are there other immigration pathways for automotive body repairers?**
-答：Very few. H-2B temporary visa may apply, but not for permanent immigration. TN does not apply. Consider Canada or Australia skilled trade programs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

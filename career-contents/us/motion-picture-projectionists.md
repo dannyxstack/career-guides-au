@@ -1,60 +1,94 @@
-# Motion Picture Projectionists（Motion Picture Projectionists）职业分析 · 美国
+# Motion Picture Projectionists — career analysis · United States
 
-**职业代码：39-3021 – Motion Picture Projectionists。**
+**Occupation code: 39-3021 (SOC)**
 
-Set up and operate motion picture projection and related sound reproduction equipment to ensure a quality viewing experience.
+Responsible for setting up and operating movie projectors and related sound equipment to ensure a good viewing experience for audiences.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-3个月 | —（通常由雇主提供） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-3 months. | $0~$500 (Typically provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本要求 |
-| 在职培训证书 | 雇主 | 可选 | 完成培训后通常可获得 |
+| High school diploma or equivalent | High school | Required | Basic requirements |
+| On-the-job training certificate | Employer | Optional | Usually obtainable after completing training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 3,000。数字化趋势导致传统电影放映员需求下降，但小型影院和独立影院仍有少量岗位。整体就业预计缓慢减少。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 3,000. Digital trends have reduced demand for traditional film projectionists, but small cinemas and independent theaters still have a few positions. Overall employment is expected to slowly decline.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 多为兼职或入门级 |
-| 中级（3-10年） | $28,000~$35,000 | 全职工资 |
-| 高级（10年以上） | $35,000~$45,000 | 包括技术主管 |
+| Median salary | $38,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Mostly part-time or entry-level |
+| Intermediate (3-10 years) | $28,000~$35,000 | Full-time wage |
+| Senior (10+ years) | $35,000~$45,000 | Includes technical supervisor |
+| average salary | $51,480 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从业者可从放映员晋升为影院技术主管或经理，也可转向数字影院系统维护或影视设备销售。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Film projectionist duties are highly replaceable by automation, especially with digital projection and remote control; entry-level positions have greatly reduced, and practitioners face career transition pressure.
+
+Practitioners can advance from projectionist to cinema technical supervisor or manager, or transition to digital cinema system maintenance or audiovisual equipment sales.
+
+**Tasks most exposed to AI:**
+
+- Manually operate film projectors and change reels
+- Manually adjusting audio equipment and volume
+- Inspecting film damage and splicing
+- Monitor the screening process and manually correct errors
+- Maintain film storage and organization
+
+**Where AI augments the role:**
+
+- Use AI tools to optimize screening schedules and automate fault detection.
+- Enhancing viewing experience through data analysis (e.g., adjusting brightness, volume)
+- Provides immersive projection experiences combined with VR/AR technology
+- Use automated systems to manage simultaneous screenings across multiple cinema halls.
+
+**Human moat:**
+
+- On-site judgment for handling sudden technical failures (e.g., equipment downtime)
+- Coordinate special screening events with theater management team
+- Provide personalized customer service (e.g., for audiences with special needs)
+- Supervise automated system operations and ensure safety compliance
+
+**Skills to build:**
+
+- Digital cinema server and automation system operation
+- Basic IT networking and troubleshooting skills
+- Data analysis (audience behavior, equipment efficiency)
+- Understanding emerging projection technologies (4K, laser, VR)
+- Customer service and communication skills
+- Compliance and safety knowledge (e.g., equipment maintenance standards)
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,62 +97,64 @@ Set up and operate motion picture projection and related sound reproduction equi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 理论上可能，但通常不符合专业职业要求，极少担保 |
-| Subclass O-1（O-1 Extraordinary Ability） | 不适用，除非在电影技术领域有杰出成就 |
+| Subclass H-1B (H-1B Specialty Occupation) | Theoretically possible, but usually does not meet professional occupation requirements, very rarely sponsored |
+| Subclass O-1 (O-1 Extraordinary Ability) | Not applicable unless outstanding achievements in film technology |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motion Picture Projectionists？**
-- 对电影放映技术感兴趣且动手能力强的人
-- 适合寻求兼职或非全日制工作的人
-- 能接受夜间和周末工作的人
+**Who is suited**
+- People with strong hands-on skills and interest in film projection technology
+- Suitable for those seeking part-time or casual work
+- People willing to work nights and weekends
 
-**谁不适合学Motion Picture Projectionists？**
-- 追求高薪或稳定职业前景的人
-- 偏好白天正常工作时间的人
+**Who is not suited**
+- People pursuing high salary or stable career prospects
+- Prefer normal daytime working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for film projectionists?**
+A: Film projectionists have low salaries: entry-level about US$22,000-28,000, senior about US$35,000-45,000, mostly part-time or minimum wage.
+
+**Q: Can film projectionists immigrate to the US through skilled migration?**
+A: Almost impossible. This occupation is not a professional occupation; employers rarely sponsor H-1B or green cards, and immigration pathways are extremely limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 不友好（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Motion Picture Projectionists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a motion picture projectionist?**
-答：Projectionists earn modest wages: entry-level $22,000-$28,000, senior $35,000-$45,000, often part-time.
-
-**问：Can a motion picture projectionist immigrate to the US via work visa?**
-答：Highly unlikely. It is not a specialty occupation and employers rarely sponsor H-1B or green cards.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

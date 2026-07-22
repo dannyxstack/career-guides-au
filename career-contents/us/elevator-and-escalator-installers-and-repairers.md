@@ -1,61 +1,90 @@
-# Elevator and Escalator Installers and Repairers（Elevator and Escalator Installers and Repairers）职业分析 · 美国
+# Elevator and Escalator Installers and Repairers — career analysis · United States
 
-**职业代码：47-4021 – Elevator and Escalator Installers and Repairers。**
+**Occupation code: 47-4021 (SOC)**
 
-Assemble, install, repair, and maintain electric or hydraulic freight or passenger elevators, escalators, or dumbwaiters. Requires knowledge of electrical and mechanical systems, typically learned through apprenticeship.
+Responsible for installing, repairing, and maintaining lifts, escalators, and hoists to ensure safe operation. Requires proficiency in electrical and mechanical systems, typically via apprenticeship.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（免费公立教育） |
-| 学徒制 | 4年 | —（通常在工会或承包商处带薪学习） |
+| High school diploma | 4 years | $0~$0 (Free public education) |
+| Apprenticeship | 4 years | $0~$5,000 (Typically paid on-the-job learning at a union or contractor) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电梯技工执照 | 州级政府 | 必备 | 多数州要求持证上岗，需通过考试 |
-| 学徒结业证书 | 美国劳工部或州学徒委员会 | 必备 | 完成4年学徒制后获得 |
-| 电气知识认证 | 国家电梯行业协会（NEII） | 可选 | 非强制但有助于职业发展 |
+| Elevator mechanic license | State-level government | Required | Most states require licensing; must pass exam |
+| Apprenticeship completion certificate | US Department of Labor or State Apprenticeship Council | Required | Obtained after completing a 4-year apprenticeship. |
+| Electrical knowledge certification | National Elevator Industry, Inc. (NEII) | Optional | Not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 22,000。美国劳工统计局预测2022-2032年就业增长约3%，与所有职业平均持平。城市化和老旧建筑改造需求稳定，但自动化可能影响部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 22,000. The US Bureau of Labor Statistics projects about 3% employment growth from 2022-2032, on par with the average for all occupations. Urbanization and renovation of aging buildings sustain demand, but automation may impact some roles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 学徒期薪资约为熟练工的50%-60% |
-| 中级（4-8年） | $55,000~$75,000 | 取得执照后薪资显著提升 |
-| 高级（9年以上） | $75,000~$100,000 | 含加班和奖金，顶尖技工可超$100,000 |
+| Median salary | $109,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Apprentice pay is typically 50%-60% of a skilled worker's wage |
+| Mid-level (4–8 years) | $55,000~$75,000 | Salary increases significantly after obtaining a license |
+| Senior (9+ years) | $75,000~$100,000 | Including overtime and bonuses, top technicians can exceed $100,000 |
+| average salary | $109,820 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 常见晋升路径：初级安装工→熟练技工→领班→项目经理或独立承包商。也可转向电梯检验员或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
+
+Common career path: Junior installer → Skilled technician → Foreman → Project manager or independent contractor. Can also move into elevator inspector or trainer roles.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and recording of elevator operation data, which can be automatically collected and analyzed by AI systems
+- AI can autonomously generate maintenance suggestions based on historical data for fault pattern recognition
+- Some preventive maintenance tasks like cleaning and lubrication can be performed by robots or automated equipment
+
+**Where AI augments the role:**
+
+- AI provides real-time elevator fault diagnosis suggestions, assisting repair technicians in quickly locating issues
+- Use computer vision to inspect elevator components for surface wear or cracks, improving detection accuracy.
+- Simulate elevator installation process through digital twins, optimizing installation plans and reducing rework
+
+**Human moat:**
+
+- On-site safety assessment and emergency response (e.g., rescuing trapped persons) requires human judgment
+- Retrofit of non-standard electromechanical systems in old elevators relies on experience
+- Communication and compliance coordination with owners and inspectors cannot be automated
+
+**Skills to build:**
+
+- Learning to operate AI fault diagnosis software (e.g., predictive maintenance platforms)
+- Proficiency in configuring and analyzing elevator IoT sensor data
+- Enhance skills in electrical control system debugging and PLC programming
+- Learn to use augmented reality (AR) assisted repair tools
+- Familiar with elevator-related regulations and safety standards (e.g., ASME A17.1)
+
+**Key growth areas:**
 
 - Urbanization
 - Infrastructure Upgrades
@@ -64,66 +93,68 @@ Assemble, install, repair, and maintain electric or hydraulic freight or passeng
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，因本科非必需，通常不满足专业职位要求。 |
-| Subclass EB-3（Employment-Based Immigrant Visa (Skilled Workers)） | 理论上可行，但需雇主担保且证明无法招到美国工人，实际很少使用。 |
-| Subclass L-1（Intracompany Transferee） | 仅适用于跨国公司内部调派的管理或专业人员，普通技工不适用。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, as a bachelor's degree is not required and usually does not meet professional position requirements. |
+| Subclass EB-3 (Employment-Based Immigrant Visa (Skilled Workers)) | Theoretically possible, but requires employer sponsorship and proof of inability to hire US workers; rarely used in practice. |
+| Subclass L-1 (Intracompany Transferee) | Applicable only to managerial or professional personnel transferred within multinational companies; not suitable for general tradespeople. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Elevator and Escalator Installers and Repairers？**
-- 喜欢动手操作、解决机械和电气问题的人
-- 能够适应高空作业和狭小空间工作
-- 注重安全规范、有耐心和责任心
+**Who is suited**
+- People who enjoy hands-on work, solving mechanical and electrical problems
+- Able to adapt to working at heights and in confined spaces
+- Focus on safety standards, with patience and responsibility
 
-**谁不适合学Elevator and Escalator Installers and Repairers？**
-- 不愿接受长时间学徒培训和严格考试者
-- 对高度和密闭空间有严重恐惧者
+**Who is not suited**
+- Those unwilling to undergo long apprenticeships and rigorous exams
+- Those with severe fear of heights and confined spaces
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for an elevator installer/repairer?**
+A: According to BLS data, the 2022 median annual salary is about $82,000 USD; beginners earn about $40,000–$55,000 USD; experienced technicians can earn over $100,000 USD
+
+**Q: Is it easy for elevator installers and repairers to immigrate to the US?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements; EB-3 green cards require employer sponsorship and proof of labor shortage, but the US already has sufficient local labor, and employers rarely support foreign workers.
+
+**Q: How to become an elevator installer and repairer?**
+A: Typically requires a high school diploma, then a 4-year paid apprenticeship combining on-the-job training and classroom instruction. Complete the state licensing exam afterward.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Elevator and Escalator Installers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for elevator installers and repairers?**
-答：According to BLS, median annual wage is about $82,000 in 2022. Entry-level workers earn $40,000-$55,000, while experienced can exceed $100,000.
-
-**问：Is it easy for elevator installers and repairers to immigrate to the US?**
-答：Very difficult. The occupation rarely qualifies for H-1B visa as it typically doesn't require a bachelor's degree. EB-3 green card requires employer sponsorship and labor certification, but domestic workforce is sufficient, so employers seldom sponsor foreign workers.
-
-**问：How to become an elevator installer and repairer?**
-答：Typically requires a high school diploma, then a 4-year paid apprenticeship combining on-the-job training and classroom instruction. After completion, pass the state licensure exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

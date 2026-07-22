@@ -1,59 +1,94 @@
-# Shoemaker（Shoemaker）职业分析 · DE
+# Shoemaker — career analysis · Germany
 
-**职业代码：2833 – Shoemaker。**
+**Occupation code: 2833 (KldB)**
 
-Shoemakers manufacture, repair, and customize footwear by hand or machine, involving cutting, stitching, assembling, and finishing.
+Shoemakers manufacture, repair and customise footwear by hand or machine, including cutting, stitching, assembling and finishing.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（培训期间有津贴，无需学费，仅需少量教材费） |
+| Vocational training (dual system) | 3 years | $0~$500 (Allowance during training, no tuition fees, only minor material costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制鞋工职业资格证书 | 德国工商会 (IHK) | 必备 | 完成双元制培训并通过结业考试获得，为从业必要条件 |
-| 鞋类设计师资格 | 德国手工业协会 (HWK) | 可选 | 可选进修，提升设计能力，非强制 |
+| Occupational qualification certificate for shoemakers | German Chamber of Commerce and Industry (IHK) | Required | Obtained upon completing dual vocational training and passing the final exam; a mandatory requirement for the profession |
+| Footwear designer qualification | German Chamber of Crafts (HWK) | Optional | Optional further training to improve design skills, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。德国制鞋业规模较小且持续萎缩，受进口冲击和自动化影响，就业岗位有限。预计未来十年从业人数将缓慢下降，但高端定制和修复领域仍有 niche 需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. The German footwear industry is small and shrinking, impacted by imports and automation, with limited employment opportunities. The number of workers is expected to slowly decline over the next decade, but there is still niche demand in high-end custom and repair areas.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 培训后起薪较低 |
-| 中级（4-7年） | $28,000~$35,000 | 有经验后收入略增 |
-| 高级（8年以上） | $32,000~$40,000 | 高级技工或主管上限 |
+| Median salary | $35,124 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Lower starting salary after training |
+| Mid-level (4-7 years) | $28,000~$35,000 | Income increases slightly with experience |
+| Senior (8+ years) | $32,000~$40,000 | Upper limit for senior technician or supervisor |
+| average salary | $38,748 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 制鞋工可从学徒晋升为高级技工，进而成为工头或车间主管。部分人通过进修成为鞋类设计师或制版师。自主创业开设修鞋店或定制鞋作坊是常见路径。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
+
+Shoe makers can progress from apprentice to senior technician, then to foreman or workshop supervisor. Some further study to become shoe designers or pattern makers. Self-employment by starting a shoe repair shop or custom shoemaking workshop is a common path.
+
+**Tasks most exposed to AI:**
+
+- Uses machine vision to identify shoe component defects and automatically reject
+- Programming and execution of automated sewing and bonding processes
+- Automatically adjust machine parameters (e.g., stitch length, glue amount) based on order data
+- Monitoring and fault alarming of automated conveyor and sorting systems
+- Using AI quality inspection systems to replace manual inspection
+
+**Where AI augments the role:**
+
+- Real-time equipment monitoring via digital twin technology to predict maintenance needs
+- Use AI to optimize production scheduling and material delivery
+- Use AR glasses to assist complex assembly or repair
+- Identify production line bottlenecks through data analysis to improve overall efficiency
+- Collaborative robots working with humans for high-precision processes
+
+**Human moat:**
+
+- Handling non-standard, complex, or easily deformable flexible materials (e.g., leather)
+- Quickly diagnose and repair mechanical faults in automated equipment
+- Negotiate process adjustments with designers and quality inspectors
+- rapid changeover and adjustment in small-batch, high-variety production
+
+**Skills to build:**
+
+- Automated equipment programming and debugging (PLC/robots)
+- Industrial data analysis and basic statistics
+- Flexible production and quick-change technology.
+- Basic mechanical repair and mechatronics knowledge
+- Human-robot collaboration safety standards
+- Digital production management system operation
+
+**Key growth areas:**
 
 - Declining industry
 - Import competition
@@ -62,62 +97,64 @@ Shoemakers manufacture, repair, and customize footwear by hand or machine, invol
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa for Qualified Professionals） | 需持有德国认可的职业资格，但制鞋工为非紧缺职业，担保难度大。 |
-| Subclass Job Seeker（Job Seeker Visa） | 可入境找工作6个月，但找到主办工作的可能性低。 |
+| Subclass Skilled Worker (Skilled Worker Visa for Qualified Professionals) | Must hold a vocational qualification recognized in Germany, but shoemaking is a non-shortage occupation, making sponsorship difficult. |
+| Subclass Job Seeker (Job Seeker Visa) | You can enter to look for work for 6 months, but the likelihood of finding a sponsored job is low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoemaker？**
-- 喜欢手工制作、对细节有耐心的人
-- 愿意在小型工坊或自营店铺工作的人
-- 对传统工艺有热情，不追求高薪的人
+**Who is suited**
+- People who enjoy handicrafts and have patience for details.
+- People willing to work in small workshops or self-owned shops
+- people passionate about traditional crafts who are not seeking high salaries
 
-**谁不适合学Shoemaker？**
-- 追求高收入和快速职业发展的人
-- 对重复性手工工作缺乏耐心的人
+**Who is not suited**
+- People pursuing high income and rapid career advancement
+- Those impatient with repetitive manual work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a shoemaker in Germany?**
+A: Entry-level approx. EUR 24,000-30,000/year, senior approx. EUR 32,000-40,000/year, overall relatively low.
+
+**Q: Can foreigners immigrate to Germany to work as shoemakers?**
+A: Difficult; shoemaking is not a shortage occupation, employer sponsorship is not easy; consider other in-demand occupations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shoemaker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a shoemaker in Germany?**
-答：Entry-level around €24,000-30,000/year, senior up to €32,000-40,000/year, generally low.
-
-**问：Can foreigners immigrate to Germany as shoemakers?**
-答：It's difficult; shoemaker is not a shortage occupation, employer sponsorship is unlikely.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

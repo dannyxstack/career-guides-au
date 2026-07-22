@@ -1,60 +1,96 @@
-# Traditional and Complementary Medicine Associate Professional（Traditional and Complementary Medicine Associate Professional）职业分析 · IT
+# Traditional and Complementary Medicine Associate Professional — career analysis · Italy
 
-**职业代码：3230 – Traditional and Complementary Medicine Associate Professional。**
+**Occupation code: 3230 (ISCO08)**
 
-Practices non-conventional medicine such as acupuncture, massage, and herbal remedies in Italy, requiring registration and compliance with local regulations.
+Practicing non-mainstream medicine in Italy, such as acupuncture, massage, herbal medicine, requires registration and compliance with relevant regulations.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高职/本科 | 3年 | $5,000~$15,000（公立学校低廉，私立较高） |
-| 硕士 | 2年 | $8,000~$20,000（仅部分大学开设） |
+| Vocational diploma/Bachelor's degree | 3 years | $5,000~$15,000 (Public schools are affordable, private schools are more expensive) |
+| Master's degree | 2 years | $8,000~$20,000 (Only offered at a few universities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 针灸师注册 | 意大利卫生部 | 必备 | 需通过国家考试 |
-| 按摩治疗师证书 | 地区卫生局 | 必备 | 完成规定课程 |
+| Acupuncturist registration | Italian Ministry of Health | Required | Must pass national exam |
+| Massage therapist certificate. | Regional health authority | Required | Complete prescribed courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。意大利对替代医学需求稳定增长，但严格法规限制执业范围，从业者需持续进修。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,000. Steady growth in demand for alternative medicine in Italy, but strict regulations limit scope of practice; practitioners must pursue continuous education.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 受雇于诊所或康复中心 |
-| 中级（3-7年） | $25,000~$35,000 | 独立执业，客户稳定 |
-| 高级（7年以上） | $35,000~$50,000 | 知名私人诊所或教学 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Employed at clinics or rehabilitation centers |
+| Mid-level (3–7 years) | $25,000~$35,000 | Solo practice with stable client base |
+| Senior (7+ years) | $35,000~$50,000 | Well-known private practice or teaching |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒或助理做起，积累经验后可独立执业，或开设私人诊所。部分从业者向教学或研究发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Complementary and alternative medicine associate professionals are undergoing structural transformation due to AI: some tasks like recording, diagnostic assistance, and marketing consultation are automated, but core competencies such as personalized treatment, palpation techniques, communication, and empathy remain a moat; overall employment risk is moderate, and proactive learning of AI tools is needed to improve efficiency.
+
+Start as an apprentice or assistant, gain experience to practice independently or open a private clinic. Some practitioners move into teaching or research.
+
+**Tasks most exposed to AI:**
+
+- Writing and organizing medical records and treatment notes (AI voice transcription + automatic summarization)
+- Collect new patient intake info and screen symptoms (AI triage chatbot)
+- Basic herbal formula lookup and dosage calculation (AI drug database and calculation tools)
+- Standardized teaching demonstrations of acupressure points and meridian localization (AI 3D anatomical visualization)
+- Patient Health Record Management and Follow-up Reminders (AI Automated Scheduling and Reminder System)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of traditional diagnostics such as face, tongue, and pulse examination (image recognition + data pattern comparison)
+- Personalized treatment plan design (AI recommends optimal herbal combinations and techniques based on big data)
+- Remote patient follow-up and treatment outcome tracking (AI-driven analysis of wearable device data)
+- Continuing education and skills updating (AI adaptive learning platform providing latest research cases)
+- Multimodal health report generation (AI integrates text, images, and voice to output reports)
+
+**Human moat:**
+
+- Intuitive ability to perceive deep tension and energy blockages in the body through palpation and manual techniques
+- Empathy, communication skills, and human touch needed to build long-term trust relationships
+- Quickly assess and implement non-standard interventions in emergencies (e.g., needle phobia, allergic reactions)
+- Treatment strategy adjustments incorporating local cultural customs and individual patient preferences
+- Ethical judgment and professional boundary awareness (e.g., when to refer, which therapies are prohibited)
+
+**Skills to build:**
+
+- Use of TCM/herbal medicine database querying and AI-assisted dialectical analysis tools
+- Electronic Health Records (EHR) and Telehealth Platform Operation
+- Basic data analysis and patient data visualization skills
+- AI treatment planning tools (e.g., prescription generation, technique recommendation systems)
+- Interdisciplinary communication (collaboration with Western medicine, nursing, dietitians on AI output)
+- Ability to continuously learn from AI research literature and evidence-based medicine trends
+
+**Key growth areas:**
 
 - aging population
 - wellness trend
@@ -63,65 +99,67 @@ Practices non-conventional medicine such as acupuncture, massage, and herbal rem
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需大学学历及工作合同，年薪≥24,789欧元 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保，无需特定学历 |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled migrants, requires university degree and work contract, annual salary ≥24,789 euros |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship, no specific degree needed |
+
+**PR friendliness: low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Traditional and Complementary Medicine Associate Professional？**
-- 对人体健康和替代医学有浓厚兴趣者
-- 善于沟通且具备同理心的人
-- 愿意持续学习新疗法者
+**Who is suited**
+- Individuals with a strong interest in human health and alternative medicine
+- People who are good communicators and empathetic
+- Willing to continuously learn new therapies
 
-**谁不适合学Traditional and Complementary Medicine Associate Professional？**
-- 追求高薪且希望快速晋升者
-- 对生物医学有强烈排他性信仰者
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those with strong exclusive beliefs in biomedicine
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of traditional medicine associate professionals in Italy?**
+A: Average annual salary approximately EUR 25,000-35,000, depending on experience and practice mode. Independent practitioners have larger income fluctuations.
+
+**Q: How can non-EU citizens obtain an Italian traditional medicine work visa?**
+A: Mainly through the EU Blue Card (requires a university degree and a high-salary contract) or the Decreto Flussi quota work visa (requires employer sponsorship). The application process is relatively difficult, and it is recommended to consult an immigration lawyer.
+
+**Q: What certifications are needed for acupuncturists in Italy?**
+A: Must complete an accredited training course and pass a national exam to obtain a registration certificate from the Ministry of Health. Some regions have additional local regulations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Traditional and Complementary Medicine Associate Professional属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a traditional and complementary medicine associate professional in Italy?**
-答：Average annual salary ranges from €25,000 to €35,000, depending on experience and practice setting. Self-employed practitioners have variable income.
-
-**问：How can non-EU citizens obtain a work visa for traditional medicine in Italy?**
-答：Mainly through the EU Blue Card (requires university degree and high salary) or the Decreto Flussi quota work visa (requires employer sponsorship). It is challenging; consulting an immigration lawyer is recommended.
-
-**问：What certifications are needed for acupuncturists in Italy?**
-答：Must complete an accredited training program and pass a national exam to obtain a registration certificate from the Ministry of Health. Additional local regulations may apply.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

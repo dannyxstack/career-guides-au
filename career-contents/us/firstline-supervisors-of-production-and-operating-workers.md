@@ -1,60 +1,96 @@
-# First-Line Supervisors of Production and Operating Workers（First-Line Supervisors of Production and Operating Workers）职业分析 · 美国
+# First-Line Supervisors of Production and Operating Workers — career analysis · United States
 
-**职业代码：51-1011 – First-Line Supervisors of Production and Operating Workers。**
+**Occupation code: 51-1011 (SOC)**
 
-Directly supervise and coordinate the activities of production and operating workers, including inspectors, precision workers, machine setters, assemblers, and plant operators.
+Directly supervise and coordinate the activities of production and operations workers, including inspectors, precision machine workers, machine operators, assemblers, fabricators, and plant and system operators.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费，私立学费不等） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区大学学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学州内学费） |
+| High school diploma | 4 years | $0~$5,000 (Public high schools are free, private school tuition varies) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (In-state tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生产运营管理证书 | APICS | 可选 | 提升管理技能 |
-| 安全培训证书 | OSHA | 必备 | 多数雇主要求 |
-| 工业管理学位 | 大学 | 可选 | 非必须但优势大 |
+| Safety training certificate | OSHA | Required | Most employers require |
+| Certificate in production operations management | APICS | Optional | Improve management skills |
+| Industrial management degree | University | Optional | Not mandatory but highly advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 648,000。美国制造业回暖推动了对一线主管的需求，但自动化可能减少低技能岗位。预计2023-2033年就业增长约2%，与所有职业平均水平持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 648,000. The US manufacturing recovery has driven demand for frontline supervisors, but automation may reduce low-skilled positions. Employment is expected to grow about 2% from 2023-2033, on par with the average for all occupations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常需从一线工人起步 |
-| 中级（3-8年） | $55,000~$70,000 | 具备经验后晋升 |
-| 高级（8年以上） | $70,000~$90,000 | 大型工厂或高技能岗位 |
+| Median salary | $74,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Typically need to start as an entry-level worker |
+| Mid-level (3–8 years) | $55,000~$70,000 | Promotion after gaining experience |
+| Senior (8+ years) | $70,000~$90,000 | Large factory or high-skilled position |
+| average salary | $76,600 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从生产线工人晋升为主管是常见路径，积累经验后可晋升为生产经理或工厂经理。具备技能培训或管理学位更有利。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+AI will automate data recording and scheduling tasks, but on-site decision-making and interpersonal coordination remain a moat; the role is a mixed bag overall.
+
+Promotion from production line worker to supervisor is a common path; with experience, can advance to production manager or plant manager. Skill training or a management degree is advantageous.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate production reports and performance statistics
+- AI scheduling system for shift and task assignment
+- Automatic alerts for quality anomalies based on sensor data
+- Inventory demand forecasting and automatic replenishment
+- Automatic recording of worker attendance and hours
+
+**Where AI augments the role:**
+
+- AI analyzes production bottlenecks and provides optimization solutions
+- Augmented reality for new employee training
+- Predictive maintenance recommendations reduce equipment downtime
+- Real-time dashboards improve on-site decision-making speed
+- Quickly retrieve process documentation via natural language queries
+
+**Human moat:**
+
+- Rapid Diagnosis and Handling of On-Site Breakdowns
+- Team conflict mediation and morale management
+- Cross-departmental coordination and resource negotiation.
+- Flexible implementation and supervision of safety procedures
+- Experience-based judgment of non-standard processes
+
+**Skills to build:**
+
+- Production data analysis and visualization
+- AI scheduling and dispatching system operation
+- Lean management and continuous improvement methodologies
+- Use of digital twins and simulation tools
+- Communication and leadership in human-robot collaboration
+- Basic programming (Python/RPA)
+
+**Key growth areas:**
 
 - Manufacturing resurgence
 - Automation adaptation
@@ -63,69 +99,68 @@ Directly supervise and coordinate the activities of production and operating wor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于本科及以上学历的职位，部分主管岗位可能符合专业职业定义。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要至少2年培训或经验，PERM劳工证流程。最常见绿卡路径。 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国公司内部调派，适用于有海外分公司经验的管理或专业知识员工。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的绿卡流程，证明无美国人胜任。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to bachelor's degree or higher positions; some supervisory roles may meet professional occupation definition. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, PERM labor certification process. Most common green card pathway. |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intracompany transfer, applicable to management or specialized knowledge employees with overseas branch experience. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card process, proving no qualified US workers available. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学First-Line Supervisors of Production and Operating Workers？**
-- 有制造业一线工作经验者
-- 具备领导力和解决问题能力者
-- 愿意接受轮班和体力工作
-
-**谁不适合学First-Line Supervisors of Production and Operating Workers？**
-- 不适应高压环境者
-- 偏好独立工作而非管理他人者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with frontline manufacturing experience.
+- Those with leadership and problem-solving skills
+- Willing to accept shift work and physical labor
+
+**Who is not suited**
+- Not suitable for those who cannot handle high-pressure environments
+- Those who prefer independent work over managing others
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for production supervisors?**
+A: According to BLS data, the median annual salary in 2023 is about $65,000, ranging from $45,000 to $90,000, depending on experience, industry, and location.
+
+**Q: How to become a production supervisor in the US through skilled migration?**
+A: Common pathway is EB-3 green card, requiring employer-sponsored PERM labor certification, with at least 2 years of experience or training. H-1B visa applies to professional occupations but requires a bachelor's degree.
+
+**Q: What are the promotion opportunities for a production supervisor?**
+A: Career progression to Production Manager, Plant Manager, or Operations Director, typically requires management experience and a relevant degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-First-Line Supervisors of Production and Operating Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for production supervisors?**
-答：According to BLS, the median annual wage in 2023 is about $65,000, ranging from $45,000 to $90,000 depending on experience, industry, and location.
-
-**问：How to immigrate as a production supervisor?**
-答：Common path is EB-3 green card with employer-sponsored PERM, requiring at least 2 years of experience or training. H-1B for professional occupations with a bachelor's degree.
-
-**问：What are the advancement opportunities?**
-答：Can advance to production manager, plant manager, or operations director, typically requiring management experience and a related degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

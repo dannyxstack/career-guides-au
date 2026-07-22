@@ -1,59 +1,95 @@
-# Kiosk Salesperson（Kiosk Salesperson）职业分析 · ES
+# Kiosk Salesperson — career analysis · Spain
 
-**职业代码：5411 – Kiosk Salesperson。**
+**Occupation code: 5411 (CNO)**
 
-Sells newspapers, magazines, lottery tickets, snacks, and beverages from a kiosk; handles cash, restocks items, and provides basic customer service.
+Selling newspapers, magazines, lottery tickets, snacks, beverages, and other goods at kiosco, handling cashiering, restocking, and basic customer service.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无需正式教育 | —（无教育费用） |
-| 职业培训（FP） | 1-2年（FP Básico/Medio） | —（公立FP免学费，仅材料费） |
+| Junior high school graduation | No formal education required | $0~$0 (No tuition fees) |
+| Vocational Training (FP) | 1-2 years (FP Básico/Medio) | $0~$1,500 (Public FPs are free of tuition, only material fees are required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主通常提供岗位培训 |
+| No mandatory qualification requirements | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。西班牙报刊亭数量持续下降，受数字化和便利店竞争影响，但彩票销售和便捷零食需求维持一定岗位。就业机会主要集中在城市中心及交通枢纽，全职岗位减少，兼职型占比增加。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The number of newsstands in Spain continues to decline, affected by digitalization and convenience store competition, but demand for lottery sales and convenient snacks remains steady. Employment opportunities are mainly concentrated in city centers and transportation hubs, with fewer full-time positions and an increasing proportion of part-time jobs.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $14,000~$17,000 | 税前年薪，通常兼职或临时合同 |
-| 中级（3-5年） | $17,000~$20,000 | 税前年薪，全职并可能包含提成 |
-| 高级（5年以上或承包者） | $20,000~$25,000 | 税前年薪，承包者收入取决于营业额 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $14,000~$17,000 | Pre-tax annual salary, usually part-time or temporary contracts |
+| Mid-level (3–5 years) | $17,000~$20,000 | Pre-tax annual salary, full-time, and may include commissions |
+| Senior (over 5 years or contractor) | $20,000~$25,000 | Pre-tax annual salary: The contractor's income depends on turnover |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很低（★☆☆☆☆）。** 从业者通常从兼职或临时工起步，积累经验后可晋升为报刊亭经理或承包经营者。部分人转向大型零售店收银或管理岗位，或自主开设小型便利店。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: very low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+Practitioners usually start as part-time or temporary workers and can be promoted to newsstand managers or contractors after gaining experience. Some have shifted to cashier or management roles in large retail stores, or opened small convenience stores independently.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - Retail
 - Lottery Sales
@@ -62,64 +98,66 @@ Sells newspapers, magazines, lottery tickets, snacks, and beverages from a kiosk
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 需雇主提供全职工作合同，但该职业非紧缺，移民局审核严格，获批可能性低。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Requires employer to provide full-time work contract, but this occupation is not in shortage, immigration review is strict, approval unlikely. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kiosk Salesperson？**
-- 喜欢与人交流、耐心细致的人
-- 希望快速就业、无需长期培训的人
-- 能接受站立工作和轮班制的人
+**Who is suited**
+- People who enjoy communicating and are patient and meticulous
+- Those who want quick employment without long-term training
+- People who can accept standing work and shift work
 
-**谁不适合学Kiosk Salesperson？**
-- 希望高收入或职业晋升空间大的人
-- 不喜欢重复性工作或数字敏感度低的人
+**Who is not suited**
+- Those who want high income or significant career advancement opportunities
+- People who dislike repetitive work or have low sensitivity to numbers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for newsstand salespeople?**
+A: Entry-level full-time salaries range from about 14,000 to 17,000 euros per year, with experienced or contractors earning up to 25,000 euros, but most are part-time contracts.
+
+**Q: Can foreigners obtain a Spanish work visa through this occupation?**
+A: Very difficult. This occupation is not on the shortage list; the immigration department requires employers to prove local recruitment efforts, and salaries are low, making it hard to meet minimum wage requirements.
+
+**Q: Will the newsstand industry disappear in the future?**
+A: Print media sales declined, but demand for lotteries, snacks, and beverages remained stable. Newsstands may transform into small convenience stores or service points, and the number of jobs will still decrease.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 很低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 很低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Kiosk Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a kiosk salesperson?**
-答：Entry-level full-time annual salary is about €14,000–€17,000; experienced or self-employed operators can reach €25,000, but many work part-time.
-
-**问：Can foreigners obtain a Spanish work visa through this occupation?**
-答：Very difficult. It's not a shortage occupation; the employer must prove no local candidate is available, and the low salary may not meet minimum thresholds.
-
-**问：Will kiosk jobs disappear in the future?**
-答：Print media sales decline, but lottery, snacks, and drinks demand remains; kiosks may transform into convenience stores, but jobs will continue to shrink.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

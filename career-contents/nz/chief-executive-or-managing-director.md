@@ -1,59 +1,95 @@
-# Chief Executive or Managing Director（Chief Executive or Managing Director）职业分析 · 新西兰
+# Chief Executive or Managing Director — career analysis · New Zealand
 
-**职业代码：111111 – Chief Executive or Managing Director。**
+**Occupation code: 111111 (ANZSCO)**
 
-The Chief Executive or Managing Director sets strategic direction and oversees operations, reporting to the board/shareholders. This role may qualify for Skilled Migrant Category (SMC) or Green List Tier 2 (management) if meeting salary thresholds (1.5x median wage) and employer accreditation.
+CEO/Managing Director leads company strategy and operations, accountable to shareholders and the board. This occupation can apply for Skilled Migrant Category (SMC) or Green List Tier 2 (Management), requiring salary threshold (1.5x median wage) and employer accreditation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（商科/管理学学士，年均学费约1.5-2.5万NZD） |
-| 硕士 (MBA) | 1-2年 | $40,000~$80,000（MBA课程，如奥塔哥大学、奥克兰大学，年均约4-6万NZD） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Bachelor of Commerce/Management, average annual tuition approximately NZD 15,000-25,000) |
+| Master's (MBA) | 1-2 years | $40,000~$80,000 (MBA programs, e.g., University of Otago, University of Auckland, average about NZ$40,000-60,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工商管理硕士 (MBA) | 新西兰大学（如奥塔哥、奥克兰） | 可选 | 非强制，但大型企业偏好 |
-| 特许高管（Chartered Manager） | 新西兰管理组织 (NZIM) | 可选 | 部分企业要求专业认证 |
-| 雅思6.5分或同等 | IDP/英国文化协会 | 必备 | 技术移民语言要求 |
+| IELTS 6.5 or equivalent | IDP/British Council | Required | Language requirements for skilled migration |
+| Master of Business Administration (MBA). | New Zealand universities (e.g., Otago, Auckland) | Optional | Not mandatory, but preferred by large enterprises |
+| Chartered Manager | New Zealand Institute of Management (NZIM) | Optional | Some companies require professional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 32,000。新西兰CEO/总经理岗位集中在奥克兰、惠灵顿、坎特伯雷，多由董事或创始人担任。2024年持AEWV的管理者较多，但本地高管需求稳定，MBA或行业经验是关键。未来五年增长缓慢，薪资两极分化。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. NZ CEO/GM roles are concentrated in Auckland, Wellington, Canterbury, often held by directors or founders. In 2024, many managers hold AEWV, but demand for local executives is stable, with MBA or industry experience key. Slow growth over next five years, with polarized salaries.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$120,000 | 小型企业CEO或初创公司 |
-| 中级（3-10年） | $120,000~$200,000 | 中型企业或部门总经理 |
-| 高级（10年以上） | $200,000~$500,000 | 大型上市公司或跨国企业 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $80,000~$120,000 | Small business CEO or startup founder |
+| Intermediate (3-10 years) | $120,000~$200,000 | General manager of a medium-sized enterprise or department |
+| Senior (10+ years) | $200,000~$500,000 | Large listed companies or multinational corporations |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从部门总监（如财务、运营）晋升至CEO，或由创始人/股东兼任。可向集团CEO、董事会主席或私募股权合伙人发展。新西兰中小型企业多，CEO常需兼具战略与实操能力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
+
+Typically progresses from department director (e.g., finance, operations) to CEO, or is concurrently held by the founder/shareholder. Can advance to group CEO, board chair, or private equity partner. Many SMEs in New Zealand require CEOs to have both strategic and hands-on skills.
+
+**Tasks most exposed to AI:**
+
+- Data aggregation and report generation (automatically collect KPIs and generate visual reports)
+- Routine decision support analysis (AI analyzes market data to provide recommendations)
+- Automatic meeting minutes generation and action item tracking
+- Basic risk assessment and compliance monitoring (AI scanning for abnormal transactions)
+- Partial information transmission and communication coordination (e.g., automated email replies)
+
+**Where AI augments the role:**
+
+- Strategic decision-making: AI provides data-driven market forecasts and scenario simulations to assist in strategy formulation.
+- Talent management: AI analyzes employee performance and potential to optimize team configuration
+- Innovation identification: AI identifies industry trends and disruptive technologies to support forward-looking strategies.
+- Operational efficiency: AI automates process monitoring and optimisation, freeing management time to focus on core tasks
+- Risk alerts: AI monitors internal and external risks for better crisis response
+
+**Human moat:**
+
+- Strategic vision and long-term planning: require human judgment and leadership
+- Stakeholder relationship management: relationships with boards, investors, and government rely on trust
+- Organizational change and culture shaping: values leadership that AI cannot replace
+- Complex crisis decisions: involving ethics, law and social impact
+- Executive team coordination and motivation: humanized management and emotional intelligence
+
+**Skills to build:**
+
+- Application of AI tools (e.g., predictive analytics platforms, smart dashboards)
+- Data-driven decision-making methods (learn basic statistics and machine learning principles)
+- Digital strategic thinking (understanding the impact of AI on business models)
+- Emotional intelligence and leadership (remote team management, change communication)
+- Knowledge of technology ethics and regulation (AI governance, data privacy)
+- Agile Project Management and Cross-Departmental Collaboration
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +98,67 @@ The Chief Executive or Managing Director sets strategic direction and oversees o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民，满足6分制（学历+工作经验+薪资），需中位数工资1.5倍（约$43/小时） |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 绿色清单二级，经理类岗位，工作2年后转居留，需满足特定工资要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，雇主需认证，适合先入境工作再转移民 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, meeting the 6-point system (qualifications + work experience + salary), requires 1.5 times the median wage (approx. $43/hour) |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, manager-level roles, eligible for residence after 2 years of work, subject to specific salary requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | Certified employer work visa; employer must be certified. Suitable for entering the country first to work then switching to permanent residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chief Executive or Managing Director？**
-- 有丰富行业经验与高管经历的人士
-- 具备战略思维与领导力，愿意承担高压
-- 已有新西兰雇主担保或创业背景者
-
-**谁不适合学Chief Executive or Managing Director？**
-- 缺乏管理或决策经验的新毕业生
-- 不愿应对长期高压力与不确定性的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with extensive industry experience and executive background
+- Possesses strategic thinking and leadership, willing to handle high pressure
+- Those with existing New Zealand employer sponsorship or entrepreneurial background
+
+**Who is not suited**
+- New graduates lacking management or decision-making experience
+- People unwilling to handle long-term high pressure and uncertainty
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a CEO in New Zealand?**
+A: Small business CEO salary about 80,000-120,000 NZD/year, medium 120,000-200,000 NZD, large 200,000-500,000+ NZD; board chairs or multinational CEOs higher.
+
+**Q: How can a CEO obtain New Zealand residency through a skilled migration visa?**
+A: Eligible for SMC 6-point system, requires qualification + work experience + hourly wage at least 1.5 times median (approx $43/hour in 2024); Green List T2 requires 2 years of work. Employer must be accredited.
+
+**Q: What qualifications are needed to become a CEO in New Zealand?**
+A: Typically requires an MBA or related master's degree and over 10 years of management experience. Industry certifications (e.g., Chartered Manager) are a plus. Small businesses value practical performance more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Chief Executive or Managing Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for CEOs in New Zealand?**
-答：CEOs in small firms earn NZD 80k-120k, mid-size NZD 120k-200k, large firms NZD 200k-500k+, with board chairs or global CEOs earning more.
-
-**问：How can a CEO apply for residence through Skilled Migrant Category?**
-答：Use SMC 6-point system: qualifications + work experience + hourly wage ≥ 1.5x median (approx. NZD 43/hr in 2024); Green List Tier 2 requires 2 years work. Employer must be accredited.
-
-**问：What qualifications are needed to become a CEO in New Zealand?**
-答：Typically an MBA or relevant master's degree, 10+ years management experience. Professional certifications (e.g., Chartered Manager) help. Small firms value track record.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Respiratory Therapists（Respiratory Therapists）职业分析 · 美国
+# Respiratory Therapists — career analysis · United States
 
-**职业代码：29-1126 – Respiratory Therapists。**
+**Occupation code: 29-1126 (SOC)**
 
-Respiratory therapists assess, treat, and care for patients with breathing disorders, supervise respiratory therapy technicians, and operate respiratory equipment.
+Respiratory therapists assess, treat, and care for patients with respiratory disorders; they administer various respiratory therapy modalities, including supervising respiratory therapy technicians and operating and maintaining respiratory equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$80,000（公立大学学费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册呼吸治疗师（RRT） | 国家呼吸护理委员会（NBRC） | 必备 | 认证考试 |
-| 州呼吸治疗师执照 | 各州卫生委员会 | 必备 | 通过NBRC认证后申请 |
-| 高级心脏生命支持（ACLS） | 美国心脏协会 | 可选 | 推荐认证 |
+| Registered Respiratory Therapist (RRT) | National Board for Respiratory Care (NBRC) | Required | Certification exam |
+| State respiratory therapist license | State health boards | Required | Apply after obtaining NBRC certification |
+| Advanced Cardiac Life Support (ACLS) | American Heart Association | Optional | Recommended certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 135,000。美国呼吸治疗师岗位预计增长19%（2019-2029年），远高于平均水平，受老龄化和慢性呼吸疾病增加推动。
+**Job demand: high (★★★★☆).** National workforce approx. 135,000. Respiratory therapist positions in the US are projected to grow 19% (2019-2029), much faster than average, driven by aging population and increasing chronic respiratory diseases.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 取决于地区和机构 |
-| 中级（4-9年） | $65,000~$80,000 | 获得RRT认证后薪资提升 |
-| 高级（10年以上） | $80,000~$95,000 | 主管或专科领域薪资更高 |
+| Median salary | $82,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$65,000 | Depends on region and institution |
+| Intermediate (4-9 years) | $65,000~$80,000 | Salary increase after obtaining RRT certification |
+| Senior (10+ years) | $80,000~$95,000 | Supervisory or specialist roles have higher salaries |
+| average salary | $87,300 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级呼吸治疗师可晋升为高级治疗师、主管或部门经理，也可专攻新生儿/儿科、睡眠医学或肺功能检测，或深造成为医师助理或护士。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
+
+Junior respiratory therapists can advance to senior therapist, supervisor, or department manager, or specialize in neonatal/pediatrics, sleep medicine, or pulmonary function testing, or further study to become a physician assistant or nurse.
+
+**Tasks most exposed to AI:**
+
+- Routine respiratory therapy data recording and report generation
+- Routine monitoring and alarm response for basic respiratory equipment (e.g., oxygen delivery devices)
+- Development of standardized respiratory therapy protocols (based on fixed guidelines)
+- Distribution of some patient education materials and basic Q&A.
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient lung function data and optimize personalized treatment plans
+- Use predictive models to identify respiratory deterioration risks early and intervene proactively
+- Use smart ventilators to assist in adjusting parameters and improve ventilation efficiency
+- Managing respiratory status of multiple patients via remote monitoring systems
+- Automatically organize medical records and clinical notes using natural language processing tools
+
+**Human moat:**
+
+- Hand-eye coordination and rapid decision-making in emergency intubation and airway management
+- Comprehensive assessment and care of patients' psychological state and social factors
+- Communication and leadership skills in cross-departmental collaboration
+- Clinical experience and intuition for treating rare or complex respiratory diseases
+- Stable performance and ethical judgment in high-pressure environments like the ICU
+
+**Skills to build:**
+
+- Master AI-assisted clinical decision tools (e.g., machine learning-based respiratory prediction models)
+- Learn advanced pulmonary function test interpretation and non-invasive ventilation techniques
+- Proficient in using Electronic Health Record (EHR) systems and data analysis tools.
+- Develop management skills for telehealth and remote monitoring
+- Strengthen patient communication and health coaching skills
+- Learn basic programming or AI concepts to understand algorithm outputs
+
+**Key growth areas:**
 
 - Aging population
 - Chronic respiratory diseases
@@ -62,68 +97,67 @@ Respiratory therapists assess, treat, and care for patients with breathing disor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等学历，由雇主申请，抽签制，每年配额有限。呼吸治疗师通常符合专业职业要求。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需至少2年培训或经验，通过PERM劳工认证申请绿卡。呼吸治疗师短缺，EB-3排期较长。 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民可申请，呼吸治疗师在USMCA职业列表中，无需抽签，可续签。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree or equivalent, employer-sponsored, lottery system with annual quota. Respiratory therapists typically meet professional occupation requirements. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Require at least 2 years of training or experience, apply for green card through PERM labor certification. Respiratory therapists are in shortage, EB-3 visa queue is long. |
+| Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens may apply; respiratory therapists are on the USMCA occupational list, no lottery required, renewable. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Respiratory Therapists？**
-- 细致耐心、动手能力强的人
-- 对呼吸护理有热情、能承受高压的人
-- 喜欢团队合作和直接患者护理的人
-
-**谁不适合学Respiratory Therapists？**
-- 不擅长紧急情况处理的人
-- 不喜欢轮班工作（包括夜班、周末）的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with meticulous patience and strong hands-on skills
+- People passionate about respiratory care and able to handle high pressure
+- People who enjoy teamwork and direct patient care
+
+**Who is not suited**
+- People not good at handling emergencies
+- People who dislike shift work (including nights, weekends)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for respiratory therapists?**
+A: The median annual salary for respiratory therapists in the US is around US$62,000, with entry-level around US$55,000 and senior up to US$95,000. Salaries vary by region, experience, and certification, with the highest pay in California.
+
+**Q: What are the pathways for respiratory therapists to immigrate to the US?**
+A: Common pathways include H-1B work visa (requires employer sponsorship and lottery), EB-3 employment-based green card (PERM certification, long queue), and TN visa (only for Canadian and Mexican citizens).
+
+**Q: What educational background is needed to become a respiratory therapist?**
+A: In the US, at least an associate degree and completion of an NBRC-accredited respiratory therapy program are required. Many employers prefer a bachelor's degree. Obtaining RRT certification and state license is mandatory for practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Respiratory Therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of respiratory therapists?**
-答：The median annual salary for respiratory therapists in the US is about $62,000, with entry-level around $55,000 and senior up to $95,000. Salary varies by region, experience, and certification, with California having the highest pay.
-
-**问：What are the immigration pathways for respiratory therapists to the US?**
-答：Common pathways include H-1B visa (employer-sponsored, lottery), EB-3 green card (PERM certification, long queue), and TN visa (for Canadian and Mexican citizens only).
-
-**问：What education is required to become a respiratory therapist?**
-答：At least an associate degree from a NBRC-accredited program is required. Many employers prefer a bachelor's degree. RRT certification and state license are mandatory to practice.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

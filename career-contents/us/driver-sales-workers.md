@@ -1,60 +1,94 @@
-# Driver/Sales Workers（Driver/Sales Workers）职业分析 · 美国
+# Driver/Sales Workers — career analysis · United States
 
-**职业代码：53-3031 – Driver/Sales Workers。**
+**Occupation code: 53-3031 (SOC)**
 
-Drive truck or other vehicle over established routes or within an established territory to sell or deliver goods, such as food products, including restaurant take-out items, or pick up or deliver items like commercial laundry; may also take orders, collect payment, or stock merchandise.
+Drive a truck or other vehicle on a set route or within an area to sell or deliver goods such as food (including restaurant takeaway) or to pick up/deliver items like commercial laundry; may also take orders, collect payments, or restock.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 商业驾驶执照培训 | 3-7周 | $2,000~$5,000（培训学校费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Commercial driver's license training | 3-7 weeks | $2,000~$5,000 (Training school fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 州机动车辆管理局 | 必备 | 若驾驶超过特定吨位车辆则需CDL |
-| 驾驶记录检查 | 雇主 | 必备 | 通常要求无重大违规 |
+| Commercial Driver's License (CDL) | State motor vehicle department | Required | Requires a CDL if driving vehicles over a certain tonnage |
+| Driving record check | Employer | Required | Usually requires no major violations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 375,500。美国劳工统计局预测2023-2033年该职业就业增长率约2%，低于平均水平，因自动化及电商自配送模式竞争。
+**Job demand: medium (★★½☆☆).** National workforce approx. 375,500. The US Bureau of Labor Statistics projects an employment growth rate of about 2% for this occupation from 2023-2033, below average, due to automation and competition from e-commerce self-delivery models.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 常含小费或佣金 |
-| 中级（3-6年） | $32,000~$40,000 | 路线稳定 |
-| 高级（6年以上） | $40,000~$50,000 | 含奖金 |
+| Median salary | $38,770 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Often includes tips or commissions |
+| Mid-level (3–6 years) | $32,000~$40,000 | Stable career path |
+| Senior (6+ years) | $40,000~$50,000 | Including bonus |
+| average salary | $40,730 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级司机可晋升为调度员或路线主管；部分经验者可转任配送经理或销售代表；有商业驾驶执照者可进入专业货运领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
+
+Junior drivers can advance to dispatcher or route supervisor; some experienced drivers may transition to distribution manager or sales representative; those with a commercial driver's license can enter specialized freight sectors.
+
+**Tasks most exposed to AI:**
+
+- Manual route planning
+- Customer phone notifications and delivery confirmations
+- Organisation and filing of paper delivery receipts
+- Generate simple anomaly reports
+
+**Where AI augments the role:**
+
+- Real-time dynamic route optimization to improve delivery efficiency
+- Smart package sorting and loading suggestions
+- Customer preference analysis and personalized services
+- Vehicle maintenance warnings and energy consumption management
+- Automated document processing frees up time for service
+
+**Human moat:**
+
+- Driving judgment and emergency handling in complex traffic environments
+- Trust and communication in face-to-face customer handovers
+- Last 100-meter flexible delivery (e.g., upstairs, drop-off points)
+- Familiarity with local neighborhoods and community relations
+
+**Skills to build:**
+
+- Use logistics scheduling software (e.g., Onfleet, Route4Me)
+- Basic data analysis skills
+- Customer service and emotional management
+- New energy vehicle driving and charging operations
+- Basic troubleshooting and emergency response
+- Digital receipt and electronic payment system operation
+
+**Key growth areas:**
 
 - Low Growth
 - Automation Impact
@@ -63,62 +97,64 @@ Drive truck or other vehicle over established routes or within an established te
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不要求学士学位 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 通过PERM劳工认证，但雇主需证明无法招到美国工人，难度高 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation does not require a bachelor's degree |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Obtaining a green card via PERM labor certification requires employers to prove they cannot find US workers, making it very difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Driver/Sales Workers？**
-- 喜欢驾驶和外出工作
-- 能承受体力劳动
-- 善于客户服务
+**Who is suited**
+- Enjoys driving and working outdoors
+- Able to handle physical labor
+- Good at customer service
 
-**谁不适合学Driver/Sales Workers？**
-- 不喜长时间驾驶或户外工作
-- 抗拒体力劳动
+**Who is not suited**
+- Dislikes long driving or outdoor work
+- Averse to manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a Driver/Sales worker?**
+A: According to BLS, median annual salary in 2023 is about $33,000 USD, but income often includes tips and commissions, ranging from $25,000 to $50,000 USD.
+
+**Q: Can foreign workers become US drivers/sales workers through skilled migration?**
+A: This occupation typically does not meet H-1B requirements as it does not require a bachelor's degree or higher; obtaining a green card through PERM is extremely difficult as the employer must prove a shortage and test the labor market.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Driver/Sales Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Driver/Sales Workers?**
-答：According to BLS, median annual wage in 2023 was about $33,000, but income often includes tips and commissions, ranging from $25,000 to $50,000.
-
-**问：Can foreign workers immigrate to the US as Driver/Sales Workers?**
-答：This occupation typically does not qualify for H-1B due to lacking bachelor's degree requirement; PERM green card is very difficult as employer must prove shortage and test labor market.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

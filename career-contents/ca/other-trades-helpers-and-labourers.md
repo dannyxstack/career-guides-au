@@ -1,58 +1,92 @@
-# Other trades helpers and labourers（Other trades helpers and labourers）职业分析 · 加拿大
+# Other trades helpers and labourers — career analysis · Canada
 
-**职业代码：75119 – Other trades helpers and labourers。**
+**Occupation code: 75119 (NOC)**
 
-This occupation involves assisting skilled tradespeople with basic tasks such as moving materials, cleaning worksites, and operating simple tools. Common in construction, manufacturing, and transportation.
+This occupation includes laborers who assist skilled workers with basic tasks, such as moving materials, cleaning sites, and operating simple tools. Common in industries like construction, manufacturing, and transportation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中 | 0年 | —（通常仅需高中毕业或同等学历） |
-| 职业证书 | 6个月 | $2,000~$5,000（部分社区学院提供短期培训，如安全证书） |
+| High school | 0 years | $0~$0 (Typically only requires high school diploma or equivalent.) |
+| Professional certificate | 6 months. | $2,000~$5,000 (Some community colleges offer short-term training, such as safety certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全培训 | 省级安全机构 | 必备 | 如WHMIS、工作场所安全培训，部分省份强制要求 |
-| 高空作业证 | 省级认证机构 | 可选 | 如果涉及高空作业，需额外培训 |
+| Basic safety training | Provincial safety authority | Required | Such as WHMIS, workplace safety training; mandatory in some provinces |
+| Working at heights certificate | Provincial certification bodies | Optional | If working at height involves additional training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 150,000。加拿大建筑业持续增长，加上基础设施投资增加，对该类劳工需求稳定。预计未来十年职位空缺数量可观，尤其在阿尔伯塔、安大略和BC省。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 150,000. Canada's construction industry continues to grow, along with increased infrastructure investment, creating steady demand for such laborers. Significant job openings are expected over the next decade, especially in Alberta, Ontario, and BC.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $30,000~$40,000 | 时薪约15-20加元 |
-| 中级（2-5年） | $40,000~$55,000 | 时薪约20-26加元 |
-| 高级（5年以上） | $55,000~$70,000 | 时薪约26-33加元，或晋升为主管 |
+| Median salary | $49,920 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $30,000~$40,000 | Hourly wage approximately CAD 15-20 |
+| Intermediate (2-5 years) | $40,000~$55,000 | Hourly wage approximately 20-26 Canadian dollars |
+| Senior (5+ years) | $55,000~$70,000 | Hourly wage approx. CAD 26-33, or promotion to supervisor |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 入门级岗位，通常无需经验。积累经验后可晋升为特定行业技工（如木工、电工助理），或通过学徒项目成为熟练技工。部分人可晋升为工头或主管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The jobs of installation, maintenance, and repair workers' assistants are mixed in AI impact: simple tool preparation and cleaning tasks are easily automated, but complex fault diagnosis and on-site adjustments rely on human experience and are hard to replace in the short term.
+
+Entry-level positions, usually no experience required. After gaining experience, can advance to skilled trades in specific industries (e.g., carpentry, electrician assistant), or become a skilled tradesperson through apprenticeship programs. Some may advance to foreman or supervisor roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI voice assistants or chatbots to query parts inventory and tool locations
+- Use AI vision systems to automatically identify tools and materials and record inventory
+- AI-driven cleaning robots automate workspace cleaning
+- AI-based remote expert systems guide simple repair tasks, reducing need for on-site assistants
+
+**Where AI augments the role:**
+
+- AI augmented reality (AR) glasses overlay repair steps to improve fault diagnosis efficiency
+- AI predictive maintenance system alerts potential issues, allowing assistants to prepare in advance
+- AI translation tools help assistants understand multilingual equipment manuals
+- AI training simulators accelerate repair skill acquisition for newcomers.
+- AI safety monitoring systems warn of hazardous environments, improving occupational safety
+
+**Human moat:**
+
+- Performing physical tasks in confined or hazardous spaces (e.g., heights, enclosed areas)
+- Flexibly adjust repair sequence and plans based on site conditions
+- Communicate fault situations with customers, gather hard-to-articulate context information
+- Relying on human experience to handle old or non-standard equipment
+
+**Skills to build:**
+
+- Operate AI diagnostic tools and augmented reality repair systems
+- Basic data analysis, interpreting equipment sensor data
+- Digital document management using mobile work order systems
+- Electrical and mechanical basics for more efficient AI collaboration
+- Safety protocols and emergency response, integrated with AI safety systems
+- Cross-cultural communication, adapting to collaboration environments assisted by AI translation
+
+**Key growth areas:**
 
 - Construction boom
 - Infrastructure spending
@@ -61,68 +95,67 @@ This occupation involves assisting skilled tradespeople with basic tasks such as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地劳工后可申请，支持工签并可为Express Entry加分 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如BC、阿尔伯塔）将此类职业列入紧缺，可走省提名 |
-| Subclass Express Entry（Federal Skilled Worker / Canadian Experience Class） | 通常不直接适用，但结合LMIA工签积累加拿大经验后可走CEC |
+| Subclass LMIA (Labour Market Impact Assessment) | Can be applied for after the employer proves inability to hire local workers; supports work visas and can add points for Express Entry |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Alberta) list this occupation as in-demand, eligible for provincial nomination |
+| Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Usually not directly applicable, but after accumulating Canadian experience with an LMIA work visa, you can apply through CEC. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other trades helpers and labourers？**
-- 身体健康、能承受体力劳动的人
-- 寻求快速入职、无需高等教育背景的移民
-- 愿意从事户外及工地工作、适应体力环境
-
-**谁不适合学Other trades helpers and labourers？**
-- 希望高薪资、低体力消耗的人
-- 不擅长团队合作、需要独立办公环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically healthy individuals capable of manual labor
+- Seeking fast-track immigration without a higher education background
+- Willing to work outdoors and on construction sites, adaptable to physical environments
+
+**Who is not suited**
+- People seeking high salary and low physical exertion
+- People who are not good at teamwork and need an independent office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary for this occupation?**
+A: Entry level annual salary approx CAD 30,000-40,000, experienced up to CAD 55,000-70,000, depending on region and industry.
+
+**Q: Is it easy to immigrate to Canada in this occupation?**
+A: Direct FSW application is difficult, but can first enter on LMIA work visa, accumulate experience, then apply through PNP or CEC. Some provinces list it as a shortage occupation.
+
+**Q: What is the future development of this occupation?**
+A: The labor market remains in high demand, especially in construction; however, the work is physically intensive and can serve as a stepping stone to higher-skilled occupations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Other trades helpers and labourers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for this occupation?**
-答：Entry-level salary is about CAD 30,000-40,000, experienced workers can earn CAD 55,000-70,000, depending on region and industry.
-
-**问：Is it easy to immigrate to Canada through this occupation?**
-答：Directly via FSW is difficult, but you can obtain an LMIA work permit first, then apply for PNP or CEC after gaining Canadian experience. Some provinces list it as a shortage occupation.
-
-**问：What is the future prospect for this occupation?**
-答：Labor market remains tight, especially in construction; however, physical demands are high, making it suitable as a stepping stone to skilled trades.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

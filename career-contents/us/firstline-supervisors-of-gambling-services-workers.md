@@ -1,60 +1,96 @@
-# First-Line Supervisors of Gambling Services Workers（First-Line Supervisors of Gambling Services Workers）职业分析 · 美国
+# First-Line Supervisors of Gambling Services Workers — career analysis · United States
 
-**职业代码：39-1013 – First-Line Supervisors of Gambling Services Workers。**
+**Occupation code: 39-1013 (SOC)**
 
-Directly supervise and coordinate activities of workers in assigned gambling areas, ensuring game coverage, verifying jackpots, and performing slot machine resets or repairs.
+Directly supervise and coordinate activities of gaming area staff, ensure game coverage per shift, verify and pay out jackpots, reset or repair slot machines.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（高中毕业或同等学历） |
-| 职业培训或副学士 | 1-2年 | $5,000~$20,000（赌场管理或酒店管理课程） |
+| High school diploma | 4 years | $0~$0 (High school graduation or equivalent) |
+| Vocational training or associate degree | 1-2 years | $5,000~$20,000 (Casino management or hotel management courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 赌博监管牌照 | 州赌博委员会 | 必备 | 部分州要求注册或牌照 |
-| 酒精服务认证 | 州酒精饮料控制局 | 可选 | 涉及酒精销售时可能需要 |
+| Gambling regulatory license. | State gambling commission | Required | Some states require registration or licensing |
+| Alcohol service certification | State Alcohol Beverage Control Board | Optional | May be required when dealing with alcohol sales |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,000。美国赌博行业稳步增长，但自动化投注和在线赌博可能限制主管需求。预计就业增长约5%，略低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The U.S. gambling industry is growing steadily, but automated betting and online gambling may limit supervisor demand. Expected employment growth of about 5%, slightly below average.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 入门级主管 |
-| 中级（4-7年） | $40,000~$52,000 | 有经验主管 |
-| 高级（8年以上） | $52,000~$65,000 | 高级主管或经理 |
+| Median salary | $63,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$40,000 | Entry-level supervisor |
+| Mid-level (4-7 years) | $40,000~$52,000 | Experienced Supervisor |
+| Senior (8+ years) | $52,000~$65,000 | Senior supervisor or manager |
+| average salary | $64,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从荷官或赌台职员晋升为主管，再升至赌场经理或运营总监，需要管理经验和客户服务技能。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Can advance from dealer or table games staff to supervisor, then to casino manager or operations director, requiring management experience and customer service skills.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Stable
 - Automation
@@ -63,62 +99,64 @@ Directly supervise and coordinate activities of workers in assigned gambling are
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职业要求，但大型赌场可能为管理岗位申请 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 不常见，需要雇主证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements, but large casinos may apply for management positions |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Uncommon; requires employer to prove inability to find qualified U.S. workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Gambling Services Workers？**
-- 有管理能力的人
-- 适应快节奏环境
-- 喜欢客户互动
+**Who is suited**
+- People with management skills
+- Adapt to fast-paced environment
+- Likes customer interaction
 
-**谁不适合学First-Line Supervisors of Gambling Services Workers？**
-- 不喜欢夜班和周末工作
-- 对噪音敏感
+**Who is not suited**
+- Dislikes night shifts and weekend work
+- Sensitive to noise
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a gambling services supervisor?**
+A: Based on experience, median annual salary approx USD 45,000, entry-level approx USD 32,000, senior up to USD 65,000.
+
+**Q: Can a gambling services supervisor immigrate to the US on an H-1B visa?**
+A: Usually difficult because the occupation does not meet professional position requirements, but management positions at large casinos may be possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-First-Line Supervisors of Gambling Services Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for first-line supervisors of gambling services workers?**
-答：Median annual wage is around $45,000, with entry-level at $32,000 and experienced up to $65,000.
-
-**问：Can first-line supervisors of gambling services workers immigrate via H-1B visa?**
-答：It's difficult as the occupation typically doesn't meet specialty occupation criteria, but management roles in large casinos may qualify.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

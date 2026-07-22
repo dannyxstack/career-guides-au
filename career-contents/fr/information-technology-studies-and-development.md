@@ -1,59 +1,95 @@
-# Information Technology Studies and Development（Information Technology Studies and Development）职业分析 · FR
+# Information Technology Studies and Development — career analysis · France
 
-**职业代码：M1805 – Information Technology Studies and Development。**
+**Occupation code: M1805 (ROME)**
 
-Responsible for software design, development, and maintenance, involved in the full project lifecycle from requirements analysis to deployment, a core role in the digital economy.
+Responsible for software design, development, and maintenance, participating in the entire project process from requirements analysis to deployment, it is a core position in the digital economy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士 | 3年（Licence） | —（公立大学学费低，私立工程师学院约8000-10000€/年） |
-| 硕士 | 2年（Master） | —（公立大学免费或低学费，商校/工程师学院学费较高） |
-| 学徒制 | 1-3年（Apprentissage） | —（学徒制免学费，且有工资） |
+| Bachelor's degree | 3 years (Licence) | $0~$10,000 (Public university tuition is low; private engineering institutes cost about €8,000-10,000/year.) |
+| Master's degree | 2 years (Master) | $0~$15,000 (Public universities offer free or low tuition, while business schools and engineering colleges have higher tuition fees) |
+| Apprenticeship | 1-3 years (Apprentissage) | $0~$0 (The apprenticeship system is free of tuition and provides a salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士文凭（Master） | 公立大学 / 工程师学院 | 可选 | 通常要求计算机相关硕士，无强制性资格认证 |
-| 认证（如AWS, Azure） | AWS / Microsoft | 可选 | 云平台认证增加竞争力，非强制 |
+| Master's Diploma | Public universities / engineering colleges | Optional | Usually, a master's degree in computer science is required, with no mandatory certification |
+| Certification (such as AWS, Azure) | AWS / Microsoft | Optional | Cloud platform certification increases competitiveness and is not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450,000。法国数字化加速推进，企业数字化转型需求旺盛，IT 研发岗位持续紧缺，尤其在巴黎及主要科技中心。预计未来五年就业增长显著。
+**Job demand: high (★★★★☆).** National workforce approx. 450,000. France's digitalization is accelerating, with strong demand for enterprise digital transformation, and IT R&D positions remain in short supply, especially in Paris and major technology centers. Significant employment growth is expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，大城市稍高 |
-| 中级（4-7年） | $45,000~$65,000 | 税前年薪 |
-| 高级（8年以上） | $65,000~$90,000 | 税前年薪，架构师/技术经理更高 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary is slightly higher in big cities |
+| Mid-level (4-7 years) | $45,000~$65,000 | Annual pre-tax salary |
+| Senior (8+ years) | $65,000~$90,000 | Pre-tax annual salaries, higher for architects/technical managers |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 职业发展路径：初级开发员 → 项目经理/架构师 → 技术总监/CTO。也可转向咨询、产品管理或创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Career path: Junior Developer → Project Manager/Architect → Technical Director/CTO. You can also shift to consulting, product management, or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -62,68 +98,67 @@ Responsible for software design, development, and maintenance, involved in the f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能移民，需年薪≥53,100€（2025），简化居留手续 |
-| Subclass Passeport Talent（Talent Passport） | 针对高级技术人才，可获4年居留，配偶可工作 |
-| Subclass Salarié（Employee） | 工作合同+劳工许可，常规路径 |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled immigrants, requiring an annual salary ≥of €53,100 (2025), simplified residency procedures |
+| Subclass Passeport Talent (Talent Passport) | For senior technical talents, a 4-year residence permit is granted, and spouses can work |
+| Subclass Salarié (Employee) | Work contract + labor permit, standard route |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Technology Studies and Development？**
-- 热爱编程与技术问题解决
-- 逻辑思维强，持续学习
-- 适应团队协作与敏捷开发
-
-**谁不适合学Information Technology Studies and Development？**
-- 不喜欢久坐编码
-- 对技术更新缺乏兴趣
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about programming and solving technical problems
+- Strong logical thinking and continuous learning
+- Adapt to team collaboration and agile development
+
+**Who is not suited**
+- Dislikes sitting and coding
+- Lack of interest in technological updates
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for IT developers in France?**
+A: Junior developers earn about €35,000-45,000 per year, intermediate engineers €45,000-65,000, senior staff up to €65,000-90,000, with Paris region offering even higher salaries.
+
+**Q: What are the French work visa pathways for foreign IT talent?**
+A: Main pathways: EU Blue Card (annual salary ≥€53,100), Talent Passport (4-year residence, spouse employed), Working Residency (requires labor permit).
+
+**Q: What educational qualifications are required to enter IT development?**
+A: Generally, a computer-related bachelor's degree or above is required; master's degrees from engineering colleges or public universities are popular, and apprenticeships are also common pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Information Technology Studies and Development的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for IT developers in France?**
-答：Junior developers earn around €35,000-45,000 gross annually, mid-level €45,000-65,000, senior up to €65,000-90,000, higher in Paris.
-
-**问：What are the work visa options for foreign IT talent in France?**
-答：Main paths: EU Blue Card (salary ≥€53,100), Talent Passport (4-year residence, spouse work), Employee (work permit required).
-
-**问：What qualifications are needed to enter IT development?**
-答：A bachelor's degree in computer science or related is typical; master's from engineering schools or universities is preferred. Apprenticeship is also common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,93 @@
-# Decorative Woodwork Craftsman（Decorative Woodwork Craftsman）职业分析 · FR
+# Decorative Woodwork Craftsman — career analysis · France
 
-**职业代码：H2208 – Decorative Woodwork Craftsman。**
+**Occupation code: H2208 (ROME)**
 
-Decorative woodwork craftsmen create and install ornamental wooden elements such as carvings, paneling, staircases, and furniture, blending traditional craftsmanship with modern tools to add artistic value to buildings and interiors.
+Decorative carpenters are responsible for creating and installing wooden decorative components such as carvings, panels, stairs, furniture, and more, combining traditional craftsmanship with modern tools to add artistic value to buildings and interior spaces.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职高文凭（CAP） | 2年 | —（公立学校免费，材料费约500-1500欧元；学徒制有薪） |
-| 职业学士（BTS） | 2年（BTS） | —（公立学校免费，部分私校收费；可通过学徒制） |
+| Diploma of Vocational High School (CAP) | 2 years | $0~$1,500 (Public schools are free, with material costs of about 500-1500 euros; The apprenticeship system includes firewood) |
+| Bachelor of Professional Studies (BTS) | 2 Years (BTS) | $0~$2,000 (Public schools are free, some private schools charge fees; Apprenticeships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Menuisier fabricant de menuiserie, mobilier et agencement | 法国教育部 | 必备 | 基础从业文凭，多数雇主要求 |
-| BTS Aménagement finition | 法国教育部 | 可选 | 高级文凭，有助于晋升管理或设计岗 |
-| CQP (Certificat de Qualification Professionnelle) 装饰木工 | 建筑业CPNE | 可选 | 行业认证，证明专项技能 |
+| CAP Menuisier fabricant de menuiserie, mobilier et agencement | French Ministry of Education | Required | A basic professional diploma is required by most employers |
+| BTS Aménagement finition | French Ministry of Education | Optional | Advanced diplomas help advance to management or design positions |
+| CQP (Certificat de Qualification Professionnelle) decorative carpentry | CPNE in the construction industry | Optional | Industry certification, proving specialized skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。法国建筑与遗产修复行业持续需要装饰木工，尤其是在历史建筑保护和高端住宅定制领域。受绿色建筑趋势影响，木材使用增加；但自动化与预制件可能减少部分传统岗位，整体就业前景稳定。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 25,000. France's architecture and heritage restoration industry continues to require decorative carpentry, especially in the fields of historic building preservation and high-end residential customization. Driven by the green building trend, wood usage has increased; However, automation and prefabricated parts may reduce some traditional positions, and overall employment prospects remain stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒出师后 |
-| 中级（4-10年） | $28,000~$35,000 | 税前年薪，视技能与项目复杂度 |
-| 高级（10年以上/工长） | $35,000~$45,000 | 税前年薪，含管理职责或自雇 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprentices after graduation |
+| Mid-level (4-10 years). | $28,000~$35,000 | Pre-tax annual salary depends on skills and project complexity |
+| Senior (over 10 years / foreman) | $35,000~$45,000 | Pre-tax annual salary, including management duties or self-employment |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从CAP或BTS学徒起步，积累经验后晋升为高级工匠或工长，可专攻修复或设计，或自创工作室。部分进入遗产修复机构（如Monuments Historiques）需通过竞争考试。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core traditional skills of decorative woodworking are hard to replace, but auxiliary tasks such as design and client communication will be compressed by AI, requiring enhanced integration of digital tools and art.
+
+Typically, you start as an apprentice at CAP or BTS, and after gaining experience, you can advance to senior craftsman or foreman, specializing in restoration, design, or starting your own studio. Some entry into heritage restoration institutions (such as Monuments Historiques) requires passing a competitive exam.
+
+**Tasks most exposed to AI:**
+
+- Manually draw decoration drawings, and after AI generates the design draft, only adjustments are needed
+- Customer needs analysis, AI chatbots can provide preliminary communication
+- Material list calculation, AI automatically generates purchase orders
+- Simple and repeated tenon cutting, completed by CNC
+
+**Where AI augments the role:**
+
+- Complex carved designs, AI-generated multiple options for selection
+- Structural strength analysis and AI simulation force optimization
+- Customer visualization display, AI-generated 3D renderings
+- Project management, AI coordination of schedules and resources
+- Cost estimation and AI analysis of historical data improve accuracy
+
+**Human moat:**
+
+- Hand-carved and customized artistic creation
+- Flexible adaptation and problem-solving for on-site operations
+- An intuitive understanding of the wood's characteristics and tactile feel
+- Customer trust and personalized aesthetic communication
+- The inheritance and creative expression of traditional crafts
+
+**Skills to build:**
+
+- 3D modeling and rendering software (such as Blender)
+- CNC programming and operation
+- AI design tools (such as Midjourney) applications
+- Digital project management (such as Trello)
+- Sustainable materials and green process knowledge
+- Digital analysis of customer needs
+
+**Key growth areas:**
 
 - Heritage restoration
 - Custom furniture
@@ -62,68 +96,67 @@ Decorative woodwork craftsmen create and install ornamental wooden elements such
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 由雇主担保的工作居留，需证明职位无法由欧盟公民填补，适用于装饰木工职位。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适合高技能或杰出人才，如拥有BTS以上学历且薪资达1.5倍SMIC，可简化流程。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search) Visa） | 毕业后允许留法1年找工作，找到与学历匹配工作后可换工签。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | Employer-sponsored work residency requires proof that the position cannot be filled by an EU citizen, and applies to decorative carpentry positions. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or exceptional talent, such as those with a BTS degree or higher and salary reaching 1.5 times SMIC, can simplify the process. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search) Visa) | After graduation, you can stay in France for one year to find a job, and after finding a job matching your academic qualifications, you can exchange for a work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Decorative Woodwork Craftsman？**
-- 喜欢手工制作和精细工作的人
-- 对木材特性和传统工艺有热情
-- 愿意从事建筑与修复行业，注重细节
-
-**谁不适合学Decorative Woodwork Craftsman？**
-- 对体力劳动和粉尘环境敏感
-- 偏好快速产出或标准化重复工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handcrafting and fine work
+- Passionate about wood characteristics and traditional craftsmanship
+- Willing to work in the construction and restoration industry, paying attention to detail
+
+**Who is not suited**
+- Sensitive to physical labor and dusty environments
+- Preference for fast output or standardized repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for decorative carpenters in France?**
+A: Junior annual salary approx. 22,000-28,000 EUR, intermediate 28,000-35,000, senior foreman or self-employed can reach 35,000-45,000 EUR. Salary significantly affected by region, experience, and specialisation; Paris and heritage restoration projects offer higher pay.
+
+**Q: How can foreign decorative carpenters immigrate to France?**
+A: You can use the employer-sponsored Salarié work visa or Passeport Talent (requires BTS degree or above and 1.5 times the SMIC salary). After graduating, apprentices can apply for a Recherche d'emploi visa to find work. There are paths available, but competition is fierce; French B2 or above is key.
+
+**Q: What career development paths are available for decorative carpenters?**
+A: You can be promoted to foreman or project supervisor, specializing in historic building restoration, or establish your own studio. It can also be turned to furniture design, interior decoration management, or teaching training. Obtaining BTS or CQP can expand promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Decorative Woodwork Craftsman的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for decorative woodworkers in France?**
-答：Entry-level annual salary is around 22-28k EUR, mid-level 28-35k, and senior or self-employed can reach 35-45k. Salary varies by region, experience, and specialization, with higher pay in Paris and heritage restoration projects.
-
-**问：How can a foreign decorative woodworker migrate to France?**
-答：Via employer-sponsored Salarié work permit, or Passeport Talent (BTS+ and salary 1.5x SMIC). Graduates can apply for a Recherche d'emploi visa to seek work. Pathways exist but competitive; French B2+ is crucial.
-
-**问：What are the career development directions for decorative woodworkers?**
-答：Advance to foreman or project manager, specialize in historic monument restoration, or start your own workshop. Also possible to move into furniture design, interior fitting management, or teaching. BTS or CQP certification can broaden opportunities.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

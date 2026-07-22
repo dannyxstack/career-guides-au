@@ -1,59 +1,91 @@
-# Electronics Engineer（Electronics Engineer）职业分析 · ES
+# Electronics Engineer — career analysis · Spain
 
-**职业代码：2442 – Electronics Engineer。**
+**Occupation code: 2442 (CNO)**
 
-Electronics engineers design, develop and test electronic systems, components and integrated circuits, covering communications, automation, consumer electronics and more. In Spain, a university degree (Grado) is required, and a master's degree (Máster) may be preferred.
+Electronic engineers design, develop, and test electronic systems, components, and integrated circuits, covering fields such as communications, automation, and consumer electronics. In Spain, a bachelor's degree (Grado) is usually required, and an official master's degree (Máster) may be required to enhance competitiveness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado en Ingeniería Electrónica） | 4年 | $800~$2,000（公立大学每年学费约800-2000欧元，私立更高） |
-| 官方硕士（Máster en Ingeniería Electrónica） | 1-2年 | $1,500~$4,000（公立大学每年约1500-4000欧元，私立可达10000欧元） |
+| Undergraduate Degree (Grado en Ingeniería Electrónica) | 4 years | $800~$2,000 (Public universities charge about 800-2000 euros per year in tuition, while private universities charge even more) |
+| Official Master's (Máster en Ingeniería Electrónica) | 1-2 years | $1,500~$4,000 (Public universities around 1,500-4,000 euros per year; private up to 10,000 euros.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 官方大学本科学位（Grado）或硕士学位（Máster） | 西班牙大学 | 必备 | 必须持有经西班牙教育部认可的大学学位 |
-| 工程师资质（Ingeniero Técnico o Superior） | 各工业工程师协会（COIIM等） | 可选 | 部分受规管项目或职位要求注册工程师资格 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 第三国学位需通过学历认证程序（homologación）才被承认 |
+| Official undergraduate degree (Grado) or master's degree (Máster) from a university | Spanish University | Required | You must hold a university degree recognized by the Spanish Ministry of Education |
+| Engineer Qualification (Ingeniero Técnico o Superior) | Industrial Engineers Associations (COIIM, etc.) | Optional | Some regulated projects or positions require the Registered Engineer qualification |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Third-country degrees must be recognized through the homologación academic credential process |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 25,000。西班牙电子工程师就业市场保持稳定，得益于数字化转型、可再生能源与汽车电子等领域增长。巴塞罗那、马德里、瓦伦西亚等科技中心需求较强，但竞争中等。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. The job market for electronic engineers in Spain remains stable, thanks to growth in digital transformation, renewable energy, and automotive electronics. Tech centers like Barcelona, Madrid, and Valencia have strong demand but moderate competition.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$34,000 | 税前年薪，视公司和地区而定 |
-| 中级（4-7年） | $35,000~$48,000 | 税前年薪，通常含项目奖金 |
-| 高级（8年以上） | $50,000~$70,000 | 税前年薪，可含管理层津贴 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $26,000~$34,000 | Pre-tax annual salary depends on the company and region |
+| Mid-level (4-7 years) | $35,000~$48,000 | Pre-tax annual salary, usually including project bonuses |
+| Senior (8+ years) | $50,000~$70,000 | Pre-tax annual salary, may include management allowances |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常从初级工程师起步，可晋升为高级工程师、项目经理或技术总监。也可向研发（I+D）部门发展，或通过攻读博士学位进入学术界。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Hardware design and testing tasks for electronic engineers face automation pressure, but system integration, innovative design, and cross-disciplinary collaboration are significantly amplified by AI, presenting both risks and opportunities.
+
+Career paths typically start as junior engineers and can be promoted to senior engineers, project managers, or technical directors. You can also develop into the research and development (I+D) department, or enter academia by pursuing a doctoral degree.
+
+**Tasks most exposed to AI:**
+
+- Use EDA software for schematic and PCB layout design and verification.
+- Perform standardized electronic component testing and parameter verification
+- Generate engineering documents and reports that meet standards
+- Simple troubleshooting and repetitive debugging
+
+**Where AI augments the role:**
+
+- Use AI simulation tools to quickly optimize circuit design parameters
+- Predict product reliability based on ML analysis of test data
+- Collaborates with digital twin systems for virtual prototype validation.
+- Assisted technical literature search and patent analysis via NLP tools
+
+**Human moat:**
+
+- Innovative system architecture design and high-complexity mixed-signal circuit design
+- Interdisciplinary integration (e.g., synergy between RF and embedded systems)
+- Engineering judgment and trade-offs in extreme environments or reliability requirements
+- High-level technical negotiations and decision-making with clients, suppliers, and regulators
+
+**Skills to build:**
+
+- Advanced simulation tools (e.g., ANSYS HFSS, Keysight ADS)
+- Python scripts and AI models applied to design optimization
+- Digital twin and system modeling methods
+- Electromagnetic compatibility (EMC) and signal integrity design knowledge
+- Project Management and Agile Development Practices
+
+**Key growth areas:**
 
 - Digital Transformation
 - Renewable Energy
@@ -62,69 +94,68 @@ Electronics engineers design, develop and test electronic systems, components an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历+工作合同，年薪门槛约34000欧元 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 面向高学历/高收入人才，简化居留手续，年薪门槛约40000欧元 |
-| Subclass Cuenta ajena（Work Permit (Employee)） | 传统工作居留，需公司担保和劳动市场测试 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留最多6个月寻找工作，需大学学历或职业培训 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree + employment contract, with an annual salary threshold of about 34,000 euros |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Targeting highly educated/high-income talents, with simplified residency procedures and an annual salary threshold of about 40,000 euros |
+| Subclass Cuenta ajena (Work Permit (Employee)) | Traditional work residency requires company sponsorship and labor market testing |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for up to 6 months to look for a job, requiring a university degree or vocational training |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronics Engineer？**
-- 对电子技术和硬件设计有浓厚兴趣，喜欢动手调试电路的人
-- 具备较强的数学和物理基础，并愿意持续学习新技术的人
-- 希望在科技或工业领域获得稳定职业生涯的毕业生
-
-**谁不适合学Electronics Engineer？**
-- 不喜欢座办公或长时间分析复杂技术问题的人
-- 对枯燥的理论计算和文档工作缺乏耐心的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in electronics and hardware design, and who enjoy debugging circuits themselves
+- Individuals with a strong foundation in mathematics and physics who are willing to continuously learn new technologies
+- Graduates hoping to secure stable careers in technology or industry
+
+**Who is not suited**
+- People who dislike desk jobs or long hours of analyzing complex technical issues
+- People who lack patience for dull theoretical calculations and documentation
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for electronic engineers in Spain?**
+A: Junior: approx. €26K-€34K/year; intermediate: €35K-€48K/year; senior: up to €50K-€70K/year. Varies by region, industry, and experience; slightly higher in Madrid and Barcelona.
+
+**Q: How can third-country electronics engineers immigrate to Spain?**
+A: Immigration is possible through the EU Blue Card (Tarjeta azul UE) or the Highly Skilled Professional visa (Ley 14/2013), which requires a work contract and academic qualification verification (homologación). You can also enter the country in advance through a job search visa (Busqueda empleo).
+
+**Q: Do electronic engineers need academic certification?**
+A: If the degree is from a non-EU country, working in a regulated engineer position in Spain usually requires certification by the Ministry of Education (homologación). Non-regulatory positions are not necessarily required, but certification helps improve competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Electronics Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for electronics engineers in Spain?**
-答：Entry-level salaries range from €26,000 to €34,000 per year, mid-level from €35,000 to €48,000, and senior positions can reach €50,000 to €70,000. Variations exist by location, industry, and experience.
-
-**问：How can a third-country electronics engineer immigrate to Spain?**
-答：Options include the EU Blue Card or the Highly Skilled Professional visa (Ley 14/2013), requiring a job offer and degree recognition (homologación). A job-seeking visa (Busqueda empleo) is also available.
-
-**问：Do electronics engineers need degree homologation in Spain?**
-答：For regulated engineering positions, homologación of non-EU degrees is usually required. For non-regulated roles, it may not be mandatory but can improve job prospects.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

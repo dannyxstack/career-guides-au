@@ -1,60 +1,94 @@
-# Two-Wheel Vehicle Technician（Two-Wheel Vehicle Technician）职业分析 · DE
+# Two-Wheel Vehicle Technician — career analysis · Germany
 
-**职业代码：2525 – Two-Wheel Vehicle Technician。**
+**Occupation code: 2525 (KldB)**
 
-Two-wheel vehicle technicians maintain, repair, and customize motorcycles, bicycles, and other two-wheeled vehicles, playing a vital role in Germany's transportation sector.
+Two-Wheel Vehicle Technician is responsible for maintenance, repair, and modification of motorcycles, bicycles, and other two-wheeled vehicles, an indispensable technical trade in Germany's transport industry.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（学徒期间有工资，通常免学费） |
-| 进修技师证书 | 2年（在职） | $3,000~$8,000（可获Meister或Techniker资格） |
+| Dual vocational training | 3.5 years | $0~$0 (Paid during apprenticeship, usually tuition-free) |
+| Advanced technician certificate | 2 years (on-the-job) | $3,000~$8,000 (Eligible for Meister or Techniker qualification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国双元制职业培训证书 | 德国工商总会（IHK） | 必备 | 必须完成培训并考试通过 |
-| 资质认证（外国学历） | 德国联邦职业资格认证局 | 必备 | 第三国学历需认证，可部分或全部认可 |
+| German dual-system vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Must complete training and pass the exam |
+| Qualification recognition (foreign qualifications) | German Federal Office for Professional Qualifications | Required | Third-country qualifications need assessment; may be partially or fully recognized. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。德国两轮车保有量持续增长，电动自行车普及带动维修需求，行业就业前景稳定。技术工人短缺明显，入门机会多。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Germany's two-wheeler fleet continues to grow; e-bike popularity drives maintenance demand, and industry employment prospects are stable. Shortage of skilled workers is evident, with many entry opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，学徒后起薪 |
-| 中级（4-7年） | $32,000~$40,000 | 有经验后薪酬增长 |
-| 高级（8年以上或技师） | $40,000~$50,000 | 含Meister津贴 |
+| Median salary | $45,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, starting salary after apprenticeship |
+| Mid-level (4-7 years) | $32,000~$40,000 | Salary increases with experience |
+| Senior (8+ years or technician) | $40,000~$50,000 | Including Meister allowance |
+| average salary | $52,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从学徒做起，可升为工长或技师，之后可自营修理店，或转向车辆技术培训、质检等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on two-wheel vehicle technicians is mixed: diagnosis and administrative tasks are automated, but complex repairs and custom modifications rely on human experience and creativity, unlikely to be replaced in the short term.
+
+Starting as an apprentice, can advance to foreman or technician, then run your own repair shop, or transition to vehicle technical training, quality inspection, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically read fault codes and generate repair suggestions using the OBD diagnostic system
+- Administrative tasks for recording maintenance logs and inventory management
+- Standard maintenance tasks such as oil changes and tire balancing
+- Basic training guidance via AR/VR
+
+**Where AI augments the role:**
+
+- AI diagnostic assistance systems help quickly locate complex electrical faults
+- Smart parts inventory management system optimizes parts ordering
+- VR/AR-assisted maintenance of complex engines or electronic control systems
+- Big data predictive maintenance alerts customers to potential vehicle issues
+- Digital repair manuals and AI Q&A improve maintenance efficiency.
+
+**Human moat:**
+
+- Manual skills for adjusting carburetors, suspensions, and other precision mechanical components
+- Creativity and aesthetics in modification and customization
+- Client communication and trust building
+- On-site diagnosis and emergency handling of non-standard faults
+
+**Skills to build:**
+
+- Electric vehicle high-voltage system repair and diagnosis
+- Use of intelligent diagnostic tools (e.g., Bosch ESI[tronic])
+- Data analysis and preventive maintenance planning
+- Customer communication and digital service promotion
+- AR/VR-assisted maintenance equipment operation
+- Troubleshooting CAN bus faults in connected vehicles
+
+**Key growth areas:**
 
 - E-bike boom
 - Urban mobility
@@ -63,69 +97,68 @@ Two-wheel vehicle technicians maintain, repair, and customize motorcycles, bicyc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 如学历达标且年薪超阈值（2024年约43,800欧元），可申请蓝卡，但技工通常不适用，除非管理层。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 有德国认可的职业资格或学历，可获工作签证，适合完成资质认证的技工。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，技工可凭经验积分申请，来德找工或参加资格认证。 |
+| Subclass EU Blue Card (EU Blue Card) | If your qualifications are met and your annual salary exceeds the threshold (approximately €43,800 in 2024), you can apply for a Blue Card, but skilled trades generally do not qualify unless in management. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Those with German-recognized qualifications or degrees can obtain a work visa, suitable for tradespeople who have completed qualification certification. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa where skilled workers can apply based on experience points to find work or undergo qualification recognition in Germany. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Two-Wheel Vehicle Technician？**
-- 喜欢动手维修摩托车或自行车的人
-- 对机械和电动系统感兴趣，愿意接受双元制培训
-- 希望在德国技术行业稳定就业、不追求高薪者
-
-**谁不适合学Two-Wheel Vehicle Technician？**
-- 对脏污、体力工作反感的人
-- 希望快速获得高收入或办公室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repair of motorcycles or bicycles
+- Interested in mechanical and electrical systems, willing to undergo dual training
+- For those seeking stable employment in Germany's tech industry without high salary expectations
+
+**Who is not suited**
+- People who dislike dirty or physically demanding work
+- Those seeking quick high income or office jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a two-wheeler vehicle technician in Germany?**
+A: Junior: approx. €25,000–32,000 gross annual salary; mid-level: €32,000–40,000; senior or technician: €40,000–50,000.
+
+**Q: How can overseas applicants immigrate to Germany as two-wheel vehicle technicians?**
+A: First, have your overseas vocational qualifications assessed by a German foreign chamber of commerce or certification body for partial or full recognition, then apply for a skilled worker visa. If your education is insufficient, you can enter with an opportunity card to find training or work.
+
+**Q: What educational background is needed to become a two-wheel vehicle technician?**
+A: Usually requires completing German dual vocational training (3.5 years), combining school study and on-the-job practice. Afterwards, can obtain a technician certificate for promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Two-Wheel Vehicle Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a two-wheel vehicle technician in Germany?**
-答：Entry-level: €25,000-32,000 gross per year; mid-level: €32,000-40,000; senior/technician: €40,000-50,000.
-
-**问：How can overseas applicants immigrate to Germany as a two-wheel vehicle technician?**
-答：First, get your foreign qualification assessed by German authorities for partial or full recognition, then apply for a skilled worker visa. If lacking, enter via Opportunity Card to seek training or employment.
-
-**问：What education is required to become a two-wheel vehicle technician?**
-答：Typically a 3.5-year dual vocational training program combining school and on-the-job training. Afterwards, a master craftsman certificate can be obtained for advancement.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

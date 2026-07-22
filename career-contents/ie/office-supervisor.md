@@ -1,60 +1,96 @@
-# Office Supervisor（Office Supervisor）职业分析 · IE
+# Office Supervisor — career analysis · Ireland
 
-**职业代码：3341 – Office Supervisor。**
+**Occupation code: 3341 (ISCO08)**
 
-Office supervisors oversee administrative staff, coordinate office procedures, manage schedules and resources to ensure efficient office operations.
+Office supervisors oversee administrative staff, coordinate office processes, manage schedules and resources, ensuring efficient office operations.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（通常在职培训） |
-| 商科或管理文凭 | 1-2年 | $3,000~$10,000（部分由雇主资助） |
+| High school graduation | No higher education required | $0~$0 (Usually on-the-job training) |
+| Business or management diploma | 1-2 years | $3,000~$10,000 (Partially employer-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性证书 | N/A | 可选 | 雇主通常要求相关经验 |
-| 行政管理认证（可选） | 爱尔兰管理协会（IMI）等 | 可选 | 提升竞争力 |
+| No mandatory certificates | N/A | Optional | Employers usually require relevant experience |
+| Administrative certification (optional) | Irish Management Institute (IMI), etc. | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。爱尔兰办公管理岗位需求稳定，随着企业数字化转型，主管需具备更多协调和基础IT技能，就业机会在都柏林等城市较集中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Office management roles in Ireland have stable demand; with enterprise digital transformation, supervisors need more coordination and basic IT skills, with job opportunities concentrated in cities like Dublin.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从行政助理晋升，可向运营经理、行政经理或项目管理方向发展，需积累管理经验及沟通能力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Office supervisors will be partially replaced by AI for tasks like schedule coordination and report generation, but human supervision, complex decision-making, and emergency handling skills will become more valuable. Overall demand for this role will remain stable.
+
+Typically promoted from administrative assistant, can progress to operations manager, office manager, or project management roles, requiring management experience and communication skills.
+
+**Tasks most exposed to AI:**
+
+- Use AI-powered scheduling tools to coordinate meeting rooms and staff calendars
+- Generate routine work reports, take inventory of office supplies
+- Initial screening and responding to common administrative email inquiries.
+- Manage attendance data and generate basic statistical reports
+- Handling employee common questions (e.g., leave process) via chatbots
+
+**Where AI augments the role:**
+
+- Use generative AI to draft emails, announcements, and meeting minutes
+- Quickly analyze office operations efficiency metrics using data visualization tools
+- Real-time meeting translation and summarization via AI assistant
+- Use AI to predict office resource needs (e.g., consumables, space utilization)
+- Using AI tools to optimize business travel itineraries and budget arrangements
+
+**Human moat:**
+
+- Handling complex interpersonal relationships such as employee conflicts and customer complaints
+- Make quick, reasonable on-site decisions under uncertain circumstances
+- Interpret organisational politics, maintain team morale and culture
+- Responsible for compliance oversight of confidential information and system enforcement
+- Flexible coordination in response to emergencies (e.g., equipment failure, security incidents)
+
+**Skills to build:**
+
+- Proficient in using AI office assistants (e.g., Microsoft Copilot, Notion AI)
+- Basic data analysis and visualization (advanced Excel functions, Tableau)
+- Project management methodology (Agile/Scrum) with AI tool experience
+- Advanced emotional intelligence and communication skills training
+- Basic Python or RPA skills for process automation
+- Knowledge of privacy and data security compliance
+
+**Key growth areas:**
 
 - Administrative Support
 - Digital Transformation
@@ -63,62 +99,64 @@ Office supervisors oversee administrative staff, coordinate office procedures, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛通常为30,000欧元以上。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 仅当职位涉及高级管理或特殊技能时可能适用，但办公室主管通常不符合。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand, requires employer sponsorship, annual salary threshold usually above €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | May only apply when the position involves senior management or specialized skills, but office supervisors typically do not qualify. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Office Supervisor？**
-- 细心有条理
-- 擅长沟通协调
-- 有志于管理岗位
+**Who is suited**
+- Detail-oriented and organized
+- Strong communication and coordination skills
+- Aspire to management positions
 
-**谁不适合学Office Supervisor？**
-- 厌恶重复性行政工作
-- 希望高薪快速晋升
+**Who is not suited**
+- Dislike repetitive administrative work
+- Desire high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for an Office Supervisor in Ireland?**
+A: Entry-level approximately €25,000-32,000, intermediate €32,000-42,000, senior up to €55,000 (annual pre-tax salary).
+
+**Q: Can an office manager immigrate to Ireland through a work visa?**
+A: Typically requires a General Employment Permit with an annual salary of €30,000 or more, and employer must conduct a labour market test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Office Supervisor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for office supervisors in Ireland?**
-答：Entry-level around €25,000-€32,000, mid-level €32,000-€42,000, senior up to €55,000 (gross annual).
-
-**问：Can office supervisors immigrate to Ireland via work visa?**
-答：Usually requires a General Employment Permit, with salary above €30,000 and labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

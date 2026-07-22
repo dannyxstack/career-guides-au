@@ -1,59 +1,95 @@
-# Secondary Education Teacher（Secondary Education Teacher）职业分析 · NL
+# Secondary Education Teacher — career analysis · Netherlands
 
-**职业代码：2330 – Secondary Education Teacher。**
+**Occupation code: 2330 (ISCO08)**
 
-Secondary education teachers instruct students in specific subjects at junior and senior high schools, preparing them for higher education or employment.
+Secondary school teachers are responsible for teaching specific subjects such as mathematics, science, or language at junior and senior high school levels, and preparing students for higher education or employment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（学士学位） | 4年（本科） | $10,000~$15,000（荷兰大学学费，欧盟学生约€2,200；非欧盟学生较高。） |
-| 硕士（可选） | 1-2年（硕士） | $15,000~$20,000（硕士学位可提升薪资和晋升机会。） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (Dutch university tuition: EU students approx. €2,200; non-EU students higher.) |
+| Master's degree (optional) | 1-2 years (Master's) | $15,000~$20,000 (A postgraduate degree can improve salary and promotion opportunities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学学士（第一级） | 荷兰教育部认可的大学或应用科技大学 | 必备 | 教授初中和高中低年级所需。 |
-| 教育学硕士（第二级） | 荷兰大学 | 可选 | 教授高中高年级和大学预科课程所需。 |
-| 注册教师（Bekwaamheidsverklaring） | DUO（荷兰教育执行机构） | 必备 | 所有公立学校教师必须注册。 |
+| Bachelor of Education (Level 1) | Universities or universities of applied sciences recognized by the Dutch Ministry of Education | Required | Teach junior and lower senior high school levels as required. |
+| Registered Teacher (Bekwaamheidsverklaring) | DUO (Education Executive Agency of the Netherlands) | Required | All public school teachers must be registered. |
+| Master of Education (Second Level) | Netherlands universities | Optional | Required for teaching senior high school and pre-university courses. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 120,000。荷兰面临教师短缺，尤其在数学和科学领域。政府提供奖学金和快速培训项目吸引人才，预计未来十年需求稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The Netherlands faces a teacher shortage, especially in math and science. The government offers scholarships and fast-track programs to attract talent, with steady demand growth expected over the next decade.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，通常为12个月工资加假期津贴。 |
-| 中级（4-10年） | $40,000~$50,000 | 税前年薪，包含绩效奖金。 |
-| 高级（10年以上） | $50,000~$65,000 | 税前年薪，包括部门主管或资深教师。 |
+| Median salary | $69,950 | Median salary (official: CBS employee median hourly wage €35.4/hour × 1976h annualized, BRC group 0113 Docenten algemene vakken secunda...; P25–P75 €54,340–€82,004, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual salary before tax, usually 12 months' salary plus holiday allowance. |
+| Mid-level (4-10 years). | $40,000~$50,000 | Annual salary before tax, including performance bonus. |
+| Senior (10+ years) | $50,000~$65,000 | Annual salary before tax, including department heads or senior teachers. |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 可从课堂教师晋升为部门主管或教学协调员，进一步可成为学校管理层或教育政策顾问。部分教师转向教育科技或培训领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
+
+Can advance from classroom teacher to department head or teaching coordinator, and further to school management or education policy consultant. Some teachers move into EdTech or training fields.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
 
 - Teacher shortage
 - STEM focus
@@ -62,68 +98,67 @@ Secondary education teachers instruct students in specific subjects at junior an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达到门槛的教师，通常需至少€3,500每月。雇主必须为IND认可担保人。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪至少€5,600每月的高技能教师。要求至少三年工作经验或硕士学位。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 面向在荷兰毕业的留学生，提供一年求职时间。可转Highly Skilled Migrant签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to teachers whose annual salary reaches the threshold, usually at least €3,500 per month. The employer must be an IND recognized sponsor. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for highly skilled teachers with an annual salary of at least €5,600 per month. Requires at least three years of work experience or a master's degree. |
+| Subclass Orientation Year (Zo (Orientation Year) | For international students who have graduated in the Netherlands, providing one year of job-seeking time. Can transfer to Highly Skilled Migrant visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary Education Teacher？**
-- 热爱教学，有耐心和沟通能力
-- 掌握STEM或外语等紧缺科目
-- 希望获得稳定工作和社会福利
-
-**谁不适合学Secondary Education Teacher？**
-- 不喜欢与学生互动或应对课堂管理
-- 寻求高薪职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching, with patience and communication skills
+- Mastering STEM or foreign languages in high-demand subjects
+- Seeking stable employment and social welfare benefits
+
+**Who is not suited**
+- Do not enjoy interacting with students or managing classroom behaviour
+- Those seeking high-paying careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for secondary school teachers in the Netherlands?**
+A: Junior teachers earn about €30,000-€38,000 annually, mid-level about €40,000-€50,000, and senior up to €65,000. Salaries are determined by public school salary scales and include holiday allowances.
+
+**Q: How can non-EU citizens become secondary school teachers in the Netherlands?**
+A: Requires recognised qualifications and employer sponsorship through a skilled migration visa or EU Blue Card. If graduating in the Netherlands, the Orientation Year visa can be used. It is recommended to obtain Dutch teaching qualification certification first.
+
+**Q: What degree is required to become a secondary school teacher in the Netherlands?**
+A: At least a 4-year Bachelor of Education (first level) required; teaching senior grades requires a Master's (second level). All teachers must register with DUO.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Secondary Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for secondary education teachers in the Netherlands?**
-答：Entry-level teachers earn around €30,000-€38,000 annually, mid-level €40,000-€50,000, and senior up to €65,000. Salaries follow public school scales and include holiday allowance.
-
-**问：How can non-EU citizens become secondary education teachers in the Netherlands?**
-答：Through the Highly Skilled Migrant visa or EU Blue Card, requiring recognized qualifications and employer sponsorship. Graduates in the Netherlands can use the Orientation Year visa. Teacher certification is recommended.
-
-**问：What degree is needed to become a secondary education teacher in the Netherlands?**
-答：A 4-year bachelor's in education (first degree) is required; a master's (second degree) is needed for upper grades. All teachers must register with DUO.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

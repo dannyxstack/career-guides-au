@@ -1,62 +1,98 @@
-# Supervisory and Managerial Staff - Technical Drawing, Design and Model Making（Supervisory and Managerial Staff - Technical Drawing, Design and Model Making）职业分析 · DE
+# Supervisory and Managerial Staff - Technical Drawing, Design and Model Making — career analysis · Germany
 
-**职业代码：2729 – Supervisory and Managerial Staff - Technical Drawing, Design and Model Making。**
+**Occupation code: 2729 (KldB)**
 
-Oversees and manages teams in technical drawing, design and model making, ensuring project timelines and quality standards, coordinating cross-departmental communication, and contributing to technical decisions.
+Responsible for overseeing and managing technical drawing, design, and model-making teams, ensuring projects are completed on time and to quality standards, coordinating cross-departmental communication, and participating in technical decisions.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（技术绘图员） | 3年 | —（培训期间有津贴，公立职业学校免费） |
-| 技术员进修（机械/电气方向） | 2年（全日制） | —（部分州收取少量费用，可申请补助） |
-| 本科（工程或设计相关） | 3-4年 | —（公立大学免学费，仅需学期费） |
+| Dual vocational training (Technical Drafter) | 3 years | $0~$500 (Allowances during training; public vocational schools are free) |
+| Technician Advanced Training (Mechanical/Electrical Stream) | 2 years (full-time) | $0~$1,000 (Some states charge a small fee, subsidies available) |
+| Bachelor degree (engineering or design related) | 3-4 years | $0~$1,500 (No tuition fees at public universities, only a semester fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 技术绘图员资质 | 德国工商业行会 (IHK) | 必备 | 完成双元制培训后获得，是基础从业证明 |
-| 技术员证书 | 德国手工业行会 (HWK) 或 IHK | 可选 | 提升管理层竞争力，非强制但普遍要求 |
-| 本科文凭（工程/设计） | 德国公立大学或应用科学大学 | 可选 | 替代双元制路径，适用于更高管理岗位 |
+| Technical drafter qualification | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training, serves as basic proof of qualification |
+| Technician certificate | German Chamber of Crafts (HWK) or IHK | Optional | Enhances competitiveness for management, not mandatory but generally required |
+| Bachelor's degree (engineering/design) | German public universities or universities of applied sciences | Optional | Alternative dual-system pathway for higher management roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。德国工业4.0推动数字化设计需求，但自动化工具减少基础绘图岗位，对管理型人才需求稳定，预计未来5年岗位数量小幅增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Germany's Industry 4.0 drives demand for digital design, but automation tools reduce basic drafting positions, demand for management talent is stable, and job numbers are expected to grow slightly over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $52,000~$65,000 | 税前年薪，根据公司规模浮动 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪，主管及以上职位 |
+| Median salary | $54,156 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $52,000~$65,000 | Annual pre-tax salary, varies with company size |
+| Senior (7+ years) | $65,000~$85,000 | Annual salary before tax, for supervisory and above positions |
+| average salary | $58,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从技术绘图员晋升为团队主管，再至部门经理或技术总监；需积累项目管理经验，部分企业要求双元制学位或技术员资质。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance design review and document automation, but team supervision, cross-departmental coordination, and creative decision-making still rely on humans. Overall, risks and opportunities coexist.
+
+Can advance from technical drafter to team supervisor, then to department manager or technical director; requires project management experience, and some companies require a dual-system degree or technician qualification.
+
+**Tasks most exposed to AI:**
+
+- Standardized drawing and modification of routine technical drawings
+- Basic model making and prototype iteration
+- Format checking and preliminary compliance verification of design documents
+- Manual tracking of team work progress and report generation
+- Simple repetitive CAD operation command input
+
+**Where AI augments the role:**
+
+- Use generative AI to quickly create design variations for team evaluation
+- AI-assisted design review: automatic detection of dimensions, tolerances, and constraint conflicts
+- Automated task allocation and resource optimization recommendations
+- Real-time compliance checks and standard update notifications
+- Using predictive analytics to estimate project risks and intervene early
+
+**Human moat:**
+
+- Cross-team communication and conflict mediation skills
+- Creative design direction decisions and aesthetic judgment
+- Comprehensive risk assessment and emergency response for complex projects
+- Cultivating and mentoring tacit knowledge transfer for junior technicians
+- Critically review and ethically vet AI outputs.
+
+**Skills to build:**
+
+- Proficient in AI-assisted design tools (e.g., Autodesk Forma, Revit AI)
+- Basic programming skills (Python for workflow automation)
+- Data-driven decision-making and project management (e.g., Agile methodology)
+- AI model output validation and quality control methodology
+- Digital transformation leadership and change management
+- AI compliance interpretation capability for industry standards and regulations
+
+**Key growth areas:**
 
 - Digital Transformation
 - BIM Integration
@@ -65,69 +101,68 @@ Oversees and manages teams in technical drawing, design and model making, ensuri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需本科学位且薪资达标（2025年约48,300欧元），此职业满足条件可申请。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需取得德国认可的资质（如双元制证书），适合有相关职业培训者。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分系统，无需雇主担保，可来德国找工作，适合有资质者。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a bachelor's degree and meeting salary threshold (approx. 48,300 euros in 2025); this occupation may apply if conditions are met. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognised qualification (e.g. dual system certificate), suitable for those with relevant vocational training. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based system, no employer sponsorship required, can seek employment in Germany; suitable for qualified individuals. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisory and Managerial Staff - Technical Drawing, Design and Model Making？**
-- 具有技术背景且善于管理团队者
-- 希望在制造业或工程领域稳定发展者
-- 具备跨文化沟通能力并愿意学习德语者
-
-**谁不适合学Supervisory and Managerial Staff - Technical Drawing, Design and Model Making？**
-- 偏好纯技术工作、不愿承担管理责任者
-- 缺乏德语能力且不愿深造的求职者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a technical background and strong team management skills
+- Those seeking stable development in manufacturing or engineering
+- Those with cross-cultural communication skills and willingness to learn German
+
+**Who is not suited**
+- Prefer purely technical work and avoid management responsibilities
+- Job seekers lacking German proficiency and unwilling to pursue further education.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Germany?**
+A: Pre-tax annual salary approx. €40,000-85,000, entry-level approx. €40,000-50,000, mid-to-senior level up to €65,000-85,000, depending on experience, company size, and region.
+
+**Q: How can foreigners apply for such management positions?**
+A: Requires German-recognized qualifications (e.g., dual-system certificate or bachelor's degree), German at least B2, and can apply via the EU Blue Card or skilled migration visa. Management roles usually require fluent German.
+
+**Q: What is the career progression path for this occupation?**
+A: Starting as a technical drafter, advancing to team leader or department supervisor, then to technical manager or director. Requires accumulating project management experience and possibly further study for a technician qualification or degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisory and Managerial Staff - Technical Drawing, Design and Model Making为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Germany?**
-答：Annual pre-tax salary ranges from €40,000 to €85,000, with entry-level around €40,000-50,000 and senior roles up to €65,000-85,000, depending on experience, company size, and region.
-
-**问：How can foreigners apply for such management positions?**
-答：Require a German-recognized qualification (e.g., dual training certificate or bachelor's degree), German at least B2, and can apply via EU Blue Card or Skilled Worker Visa. Management roles usually require fluent German.
-
-**问：What is the career progression for this occupation?**
-答：Starting as a technical drafter, progress to team leader or department head, then to technical manager or director. Requires project management experience and possibly further qualification as a technician or degree.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

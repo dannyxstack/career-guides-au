@@ -1,61 +1,96 @@
-# Kaiāwhina (Hauora) (Māori Health Assistant)（Kaiāwhina (Hauora) (Māori Health Assistant)）职业分析 · 新西兰
+# Kaiāwhina (Hauora) (Māori Health Assistant) — career analysis · New Zealand
 
-**职业代码：411512 – Kaiāwhina (Hauora) (Māori Health Assistant)。**
+**Occupation code: 411512 (ANZSCO)**
 
-Māori Health Assistants provide culturally safe health support to Māori communities, facilitating communication between patients, families, and healthcare providers. This role is eligible for the Accredited Employer Work Visa (AEWV) but not for skilled migration or Green List pathways, suitable for those with a job offer.
+Māori health assistants in New Zealand provide culturally safe health support for Māori communities, coordinate doctor-patient communication and health education. This occupation can lead to immigration via the Accredited Employer Work Visa (AEWV), but is not on the Skilled Migration or Green List, suitable for applicants with a job offer.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期证书 | 6个月 | $2,000~$4,000（Certificate in Health and Wellbeing (Māori Health) 课程，部分理工学院提供） |
-| 1年制证书 | 1年 | $5,000~$8,000（Certificate in Māori Health or Hauora，如Te Wānanga o Aotearoa） |
+| Short-term certificate | 6 months. | $2,000~$4,000 (Certificate in Health and Wellbeing (Māori Health) program, offered by some polytechnics) |
+| 1-Year Certificate | 1 year | $5,000~$8,000 (Certificate in Māori Health or Hauora, e.g., Te Wānanga o Aotearoa) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康与福祉证书（毛利健康） | 新西兰理工学院或毛利教育机构 | 可选 | 涵盖文化安全、沟通和基础健康知识，非强制但雇主偏好 |
-| 毛利语言和文化能力培训 | Te Wānanga o Aotearoa 等 | 可选 | 并非硬性要求，但显著提升就业竞争力 |
-| 核心能力证书（CORE） | 新西兰卫生部认可的培训机构 | 可选 | 对申请健康相关AEWV有帮助，但不是注册要求 |
+| Health and Wellbeing Certificate (Maori Health) | New Zealand polytechnic or Māori education institution | Optional | Covers cultural safety, communication, and basic health knowledge, not mandatory but preferred by employers |
+| Māori language and cultural competency training. | Te Wānanga o Aotearoa, etc. | Optional | Not mandatory but significantly boosts employment competitiveness |
+| Core Skills Certificate (CORE) | New Zealand Ministry of Health-approved training provider | Optional | Helpful for health-related AEWV applications but not a registration requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 500。新西兰毛利人口增长和健康不平等问题推动了对毛利健康助理的需求。政府大力投资毛利卫生服务，岗位尤其集中在北岛和农村地区。预计未来5年需求稳定增长，但职位数量相对有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 500. New Zealand's Māori population growth and health inequalities are driving demand for Māori health assistants. The government is heavily investing in Māori health services, with roles concentrated in the North Island and rural areas. Demand is expected to grow steadily over the next 5 years, but the number of positions is relatively limited.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪接近新西兰中位数工资，常见于社区健康服务中心 |
-| 中级（3-6年） | $55,000~$65,000 | 经验丰富的助理可获更高薪酬，需具备独立协调能力 |
-| 高级（6年以上） | $65,000~$78,000 | 高级职位或团队负责人，可能包含健康项目协调职责 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary is close to the New Zealand median wage, commonly found in community health service centers |
+| Mid-level (3–6 years) | $55,000~$65,000 | Experienced assistants can earn higher pay, requiring independent coordination skills |
+| Senior (6+ years) | $65,000~$78,000 | Senior role or team leader, possibly including health project coordination duties |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可沿临床支持或社区健康管理两方向。积累经验后可升任高级健康助理、协调员或进入健康促进、政策制定领域。注册为Te Ahukaramū Royal或类似机构可提升专业地位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of Māori health assistants heavily relies on cultural competency and interpersonal trust; AI is unlikely to replace core functions but can significantly enhance administrative coordination, health education, and data tracking, enabling practitioners to focus on high-value services.
+
+Career development can follow two directions: clinical support or community health management. With experience, you can advance to senior health assistant, coordinator, or move into health promotion and policy. Registration with Te Ahukaramū Royal or similar bodies can enhance professional standing.
+
+**Tasks most exposed to AI:**
+
+- Basic administrative tasks such as patient appointment scheduling and medical record organization.
+- Initial generation and translation of standardized health education materials
+- Basic doctor-patient communication in routine Q&A (e.g., consultation procedures)
+- Health data entry and follow-up reminders
+
+**Where AI augments the role:**
+
+- Real-time AI translation tools for interpreting, improving doctor-patient communication efficiency
+- Using AI to analyze community health data to develop targeted education plans
+- Using AI to assist in generating multilingual health science content
+- Efficient management of patient follow-ups and reminders via AI voice assistants
+- Using AI platforms to coordinate cross-cultural nursing resources
+
+**Human moat:**
+
+- Deeply rooted in Māori cultural values and trust-building
+- Empathetic communication and emotional support for sensitive health issues
+- Ability to adapt flexibly in unstructured community scenarios
+- Cultural safety assessment and personalised care decisions
+- Ethical judgment in cross-institutional and cross-cultural coordination
+
+**Skills to build:**
+
+- AI health management tools (e.g., simple electronic medical record systems)
+- Basic data analysis and visualization (for community health trends)
+- AI-assisted translation tool usage and review
+- Digital Health Education Content Creation Tool
+- Community Engagement and Digital Health Promotion Strategies
+- Cross-training in cultural safety and AI ethics
+
+**Key growth areas:**
 
 - Community Health
 - Māori Health Equity
@@ -64,65 +99,67 @@ Māori Health Assistants provide culturally safe health support to Māori commun
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最可行的工签路径，需获得认证雇主的工作邀请，时薪达到中位数（目前约29.66纽元/小时），可续签并转居留（需满足其他条件） |
-| Subclass SWV（Specific Purpose Work Visa） | 短期特殊目的工作签证，适合培训或临时项目，不能直接转为居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most viable work visa route requires a job offer from an accredited employer, hourly wage at median (currently ~NZD 29.66/hour), renewable and can lead to residence (subject to other conditions) |
+| Subclass SWV (Specific Purpose Work Visa) | Short-term special purpose work visa for training or temporary projects; cannot be directly converted to residency |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kaiāwhina (Hauora) (Māori Health Assistant)？**
-- 对毛利文化有深厚认同和热情，擅长沟通与社区服务
-- 希望在健康领域从基础岗位做起，逐步积累经验者
-- 愿意在北岛或农村地区工作，适应毛利社区环境
+**Who is suited**
+- Have deep identification with and passion for Maori culture, skilled in communication and community service
+- Those who wish to start from entry-level positions in the health field and gradually gain experience
+- Willing to work in the North Island or rural areas, adaptable to Maori community environments
 
-**谁不适合学Kaiāwhina (Hauora) (Māori Health Assistant)？**
-- 追求高薪或快速技术移民通道者
-- 缺乏耐心和文化敏感度，不习惯与多元背景患者打交道
+**Who is not suited**
+- Those seeking high salary or fast-track technical immigration
+- Lack of patience and cultural sensitivity, not used to dealing with patients from diverse backgrounds
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Māori health assistants in New Zealand?**
+A: Starting salary approx. NZD 45,000-55,000/year for junior, NZD 55,000-65,000 for mid-level, up to NZD 78,000 for senior. Slightly lower than registered nurses but meets New Zealand median.
+
+**Q: Can this occupation migrate to New Zealand?**
+A: This occupation is not on the Skilled Migrant Category (SMC) or Green List, so it cannot directly apply for residence. However, you can work on an Accredited Employer Work Visa (AEWV) and then apply for residence if other conditions (e.g., time in country, salary, skills) are met, which is challenging.
+
+**Q: Which regions in New Zealand have the highest demand for Māori health assistants?**
+A: In the North Island, particularly Auckland, Waikato, Bay of Plenty, and Northland, demand is higher due to the concentration of Māori population. Health service providers in rural and remote communities (e.g., iwi health organisations) also frequently recruit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Kaiāwhina (Hauora) (Māori Health Assistant)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Māori Health Assistants in New Zealand?**
-答：Entry-level salaries range from NZ$45,000 to $55,000 per year, mid-level $55,000 to $65,000, and senior positions up to $78,000. These are in line with the median wage.
-
-**问：Can this occupation lead to NZ residency?**
-答：This role is not on the Skilled Migrant Category or Green List, so direct residency is not available. However, you can work on an Accredited Employer Work Visa (AEWV) and later apply for residence if you meet other criteria, though it is challenging.
-
-**问：Which regions in New Zealand have the highest demand for Māori Health Assistants?**
-答：The North Island, especially Auckland, Waikato, Bay of Plenty, and Northland, due to high Māori population concentrations. Rural and remote community health providers (e.g., iwi health organizations) also frequently hire.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

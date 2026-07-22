@@ -1,59 +1,95 @@
-# Trend Analyst（Trend Analyst）职业分析 · FR
+# Trend Analyst — career analysis · France
 
-**职业代码：M1702 – Trend Analyst。**
+**Occupation code: M1702 (ROME)**
 
-Trend analysts collect and analyze market, consumer, or social data to identify emerging patterns and trends, providing strategic decision support for businesses and organizations.
+Trend analysts are responsible for collecting and analyzing market, consumer, or social data, identifying emerging patterns and trends, and providing strategic decision support for businesses and organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Licence） | 3年 | $200~$3,000（公立大学学费约200-3000欧元/年，私立商学院约8000-15000欧元/年） |
-| 硕士（Master） | 2年 | $300~$5,000（公立大学硕士约300-5000欧元/年，精英商学院约15000-25000欧元/年） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒制通常免学费，且由企业支付工资） |
+| Licence | 3 years | $200~$3,000 (Tuition at public universities is about 200-3000 euros per year, while private business schools are about 8000-15000 euros per year) |
+| Master's Degree (Master) | 2 years | $300~$5,000 (Public university master's approx. €300–€5,000/year, elite business schools approx. €15,000–€25,000/year.) |
+| Apprentissage | 1-2 years | $0~$0 (Apprenticeships are usually tuition-free and wages paid by companies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商学院或大学硕士文凭 | 法国高等教育机构 | 必备 | 推荐市场营销、经济或统计学硕士 |
-| 数据分析证书 | Coursera、DataCamp等在线平台 | 可选 | 如Google Data Analytics Certificate，非强制但有利于求职 |
+| A master's degree from a business school or university | French higher education institutions | Required | Master's degrees in Marketing, Economics, or Statistics are recommended |
+| Data analysis certificate | Online platforms such as Coursera and DataCamp | Optional | For example, the Google Data Analytics Certificate is not mandatory but is helpful for job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 3,500。随着大数据和AI技术的发展，法国对能解读复杂数据的趋势分析师需求增长，尤其在时尚、营销和科技领域。法国就业局（France Travail）列为中等紧缺，预计未来5年岗位增加约10%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,500. With the development of big data and AI technologies, France's demand for trend analysts capable of interpreting complex data is growing, especially in fashion, marketing, and technology sectors. France Travail has listed it as moderately scarce, with job openings expected to increase by about 10% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，根据公司规模和地区有所差异 |
-| 中级（4-7年） | $38,000~$50,000 | 具备一定项目经验后薪资提升 |
-| 高级（8年以上） | $50,000~$70,000 | 可担任团队领导或策略顾问 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Pre-tax annual salary varies depending on company size and region |
+| Mid-level (4-7 years) | $38,000~$50,000 | Salary increases after having some project experience |
+| Senior (8+ years) | $50,000~$70,000 | Can serve as a team leader or strategic advisor |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级趋势分析师可晋升为高级趋势分析师或策略顾问，也可转向市场研究经理或创新总监。积累经验后可独立创业或成为自由顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Junior trend analysts can be promoted to senior trend analysts or strategy consultants, or may move on to market research managers or innovation directors. After gaining experience, you can start your own business or become a freelance consultant.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Data-driven decision making
 - Market intelligence
@@ -62,68 +98,67 @@ Trend analysts collect and analyze market, consumer, or social data to identify 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 针对高技能非欧盟公民，需年薪达53,900欧元（2024标准），合同至少一年。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，包括硕士及以上学历或跨国公司内部调动，无严格薪资下限。 |
-| Subclass Salarié（Employee Work Permit） | 受雇于法国企业，需获得工作许可，薪资需达到法定最低工资（SMIC）以上。 |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, an annual salary of 53,900 euros (2024 standard) is required, with a contract of at least one year. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, including those with a master's degree or above, or internal transfers within multinational companies, with no strict minimum salary cap. |
+| Subclass Salarié (Employee Work Permit) | Employed by a French company requires a work permit and a salary above the statutory minimum wage (SMIC). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Trend Analyst？**
-- 对市场和社会趋势有敏锐洞察力的人
-- 具备数据分析能力和商业头脑的人
-- 喜欢跨学科工作，乐于沟通和呈现的人
-
-**谁不适合学Trend Analyst？**
-- 不喜欢频繁处理数据和报告的人
-- 对快速变化的市场环境感到不安的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with keen insight into market and social trends
+- People with data analysis skills and business acumen
+- People who enjoy interdisciplinary work and enjoy communicating and presenting themselves
+
+**Who is not suited**
+- People who dislike frequently handling data and reports
+- People who feel uneasy about the rapidly changing market environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for trend analysts?**
+A: Entry-level salaries are about 30k-38k euros, mid-level about 38k-50k euros, and seniors up to 70k euros, with salaries depending on experience, industry, and region.
+
+**Q: What are the ways to immigrate to France according to trend analysts?**
+A: Common pathways include the EU Blue Card (for high salaries), Talent Passport (for high skills), and a regular work visa. A work contract with a French employer is required.
+
+**Q: What are the career prospects for trend analysts?**
+A: You can be promoted to Senior Analyst, Strategy Consultant, or Market Research Manager, or cross over to Product Manager or Innovation Director. Freelance consultants are also a common choice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Trend Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a trend analyst?**
-答：Entry-level: €30k-38k, mid-level: €38k-50k, senior: up to €70k gross annually, depending on experience, industry, and location.
-
-**问：What are the migration pathways for a trend analyst to France?**
-答：Common routes include the EU Blue Card (high salary), Talent Passport (high-skilled), and standard work visa. A job offer from a French employer is required.
-
-**问：What is the career progression for a trend analyst?**
-答：Progression to senior analyst, strategy consultant, market research manager, or pivot to product manager or innovation director. Freelancing is also common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

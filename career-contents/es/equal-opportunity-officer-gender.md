@@ -1,60 +1,96 @@
-# Equal Opportunity Officer (Gender)（Equal Opportunity Officer (Gender)）职业分析 · ES
+# Equal Opportunity Officer (Gender) — career analysis · Spain
 
-**职业代码：2825 – Equal Opportunity Officer (Gender)。**
+**Occupation code: 2825 (CNO)**
 
-Promotes gender equality policies in public and private sectors, monitors equality plans, handles discrimination complaints, and provides training and advice.
+Responsible for promoting gender equality policies in both the public and private sectors, overseeing the implementation of equality programs, handling discrimination complaints, and providing training and consulting.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,500~$4,000（公立大学每年学费约1500-4000欧元，私立更高） |
-| 硕士（Máster） | 1-2年 | $3,000~$8,000（性别平等相关硕士，公立大学每年约3000-8000欧元） |
+| Undergraduate (Grado) | 4 years | $1,500~$4,000 (Public universities charge about 1,500–4,000 euros per year, while private universities charge even higher fees) |
+| Máster | 1-2 years | $3,000~$8,000 (Gender equality-related master's degrees, about 3,000–8,000 euros per year at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会科学或相关领域本科学位 | 西班牙大学 | 必备 | 社会学、法律、心理学等专业优先 |
-| 性别平等专业培训 | 公共机构或私人机构 | 可选 | 国家就业局(SEPE)认可的课程 |
+| Bachelor's degree in social sciences or related fields | Spanish University | Required | Majors in sociology, law, psychology, etc. are preferred |
+| Professional training in gender equality | Public institutions or private institutions | Optional | Courses recognized by the National Employment Agency (SEPE). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,000。西班牙《平等法》持续推动需求，公共部门岗位稳定，私营企业合规需求增加，预计未来5年就业稳定增长。
+**Job demand: medium (★★★☆☆).** National workforce approx. 4,000. Spain's Equality Law continues to drive demand, public sector jobs remain stable, private sector compliance requirements are increasing, and employment is expected to grow steadily over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公共部门起薪较低，私营企业略高 |
-| 中级（4-7年） | $28,000~$35,000 | 具备经验后薪资上升 |
-| 高级（8年以上） | $35,000~$45,000 | 管理岗位或专业顾问薪资更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Starting salaries in the public sector are lower, while private companies have slightly higher salaries |
+| Mid-level (4-7 years) | $28,000~$35,000 | Salary increases with experience |
+| Senior (8+ years) | $35,000~$45,000 | Management positions or professional consultants earn higher salaries |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★☆☆）。** 可从初级专员晋升为高级顾问或部门主管，也可转向多元化与包容性管理或公共政策研究。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Many administrative and data analysis tasks for Gender Opportunities Commissioners can be automated by AI, but core sensitive complaint handling, policy advocacy, and interpersonal training require human judgment and empathy, resulting in mixed overall impacts.
+
+You can be promoted from junior commissioner to senior advisor or department head, or move into diversity and inclusion management or public policy research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate gender equality reports and data statistics
+- Initial screening and classification of routine discrimination complaints
+- Monitor the implementation of the equality program and automatically issue alerts
+- Standardized training courseware and online consultation are provided
+- Organize and archive relevant regulations and policy documents
+
+**Where AI augments the role:**
+
+- Using AI to analyze complex employment data and identify hidden discrimination patterns
+- Quickly review large volumes of complaint texts through natural language processing to extract key information
+- Using AI to simulate training scenarios enhances interactivity and effectiveness
+- Use predictive analytics to proactively warn of inequality risks and proactively develop interventions
+- Automatically generate personalized policy proposal drafts to improve work efficiency
+
+**Human moat:**
+
+- Handling highly sensitive discrimination complaints and mediation involving privacy
+- Formulating strategic gender equality policies requires social insight and value judgment
+- Negotiate and advocate with senior managers and stakeholders
+- Providing in-depth psychological counseling and support to build trust
+- Making final judgments and decisions within legal and ethical boundaries
+
+**Skills to build:**
+
+- Data analysis and use of AI tools (such as Python, R, AI report generation)
+- Social science research methods (such as causal inference, natural language processing)
+- Communication and Negotiation Skills (Advanced)
+- Conflict mediation and psychological knowledge
+- Policy analysis and legislative knowledge
+- Project management and leadership
+
+**Key growth areas:**
 
 - Gender equality
 - Public policy
@@ -63,62 +99,64 @@ Promotes gender equality policies in public and private sectors, monitors equali
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-sponsored)） | 受雇工作居留，需雇主担保，申请人须有相关学位和西班牙语能力。 |
-| Subclass Busqueda empleo（Job Search Visa） | 毕业生求职居留，允许在西班牙停留一年寻找工作。 |
+| Subclass Cuenta ajena (Work Permit (Employer-sponsored)) | Employed work residence requires employer sponsorship, and applicants must have relevant degrees and Spanish language proficiency. |
+| Subclass Busqueda empleo (Job Search Visa) | Graduates seeking residence allow them to stay in Spain for one year in search of work. |
+
+**PR friendliness: low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Equal Opportunity Officer (Gender)？**
-- 对社会公正有热情，愿意推动性别平等的人
-- 具有社会科学背景，善于沟通和培训的人
-- 希望在公共部门或大型企业从事政策相关工作的人
+**Who is suited**
+- People who are passionate about social justice and willing to promote gender equality
+- People with a social science background, good communication skills, and training skills
+- Those who wish to work in the public sector or large enterprises in policy-related work
 
-**谁不适合学Equal Opportunity Officer (Gender)？**
-- 对行政和合规工作缺乏耐心的人
-- 不喜欢处理投诉和冲突的人
+**Who is not suited**
+- People who lack patience for administrative and compliance work
+- People who dislike dealing with complaints and conflicts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Gender Equal Opportunities Commissioners?**
+A: Entry-level salaries are about 22,000-28,000 euros, intermediate salaries 28,000-35,000 euros, and seniors can earn over 45,000 euros. The public sector is stable but with limited growth, and private companies, especially large ones, offer higher salaries.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: The likelihood is low. This profession is not in short demand and usually requires fluency in Spanish and familiarity with local laws and policies. The immigration pathway mainly relies on employer-sponsored work visas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Equal Opportunity Officer (Gender)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of an Equal Opportunity Officer?**
-答：Entry-level salary ranges from €22,000 to €28,000 gross per year, mid-level €28,000-€35,000, and senior can exceed €45,000. Public sector offers stability, while private sector may pay more.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is unlikely. This occupation is not on the shortage list and usually requires fluent Spanish and knowledge of local laws. Migration mainly relies on employer-sponsored work permits.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

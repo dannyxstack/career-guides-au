@@ -1,58 +1,94 @@
-# Garment, Hat and Cap Maker（Garment, Hat and Cap Maker）职业分析 · DE
+# Garment, Hat and Cap Maker — career analysis · Germany
 
-**职业代码：2822 – Garment, Hat and Cap Maker。**
+**Occupation code: 2822 (KldB)**
 
-Specializes in cutting, sewing, and finishing garments, hats, and headwear by hand or machine, typically employed in small to medium-sized clothing factories or custom workshops.
+Engaged in manual or machine processing of garments, hats, headwear and other textiles, including cutting, sewing, and ironing. Mostly employed in small to medium-sized garment factories or custom workshops.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有津贴，学校通常免费，仅需少量教材费） |
-| 专科学校（Meister） | 1-2年 | $2,000~$6,000（部分州免费，私校收费较高） |
+| Dual vocational training | 3 years | $0~$500 (Allowances during training, school is usually free, only a small fee for materials) |
+| Specialist School (Meister) | 1-2 years | $2,000~$6,000 (Free in some states, private schools charge higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 裁剪/缝纫工证书 | 德国工商业行会（IHK） | 必备 | 双元制培训结业考试通过后获得，为从业基本资格 |
-| 服装技师大师证书 | 德国工商业行会（IHK） | 可选 | 可独立带徒、开店，部分岗位要求 |
+| Certificate in Garment Cutting/Sewing | German Chamber of Commerce and Industry (IHK) | Required | Obtained after passing the dual system training final exam; basic qualification for practicing the profession |
+| Master craftsman certificate in clothing technology | German Chamber of Commerce and Industry (IHK) | Optional | Can independently mentor and run a business; some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 35,000。德国服装制造业持续萎缩，大量生产已转移至东欧或亚洲，国内岗位以高端定制、舞台服装、传统服饰及修补为主，整体就业前景平淡，新进入者面临竞争压力。
+**Job demand: low (★½☆☆☆).** National workforce approx. 35,000. Germany's garment manufacturing continues to shrink; mass production has moved to Eastern Europe or Asia. Domestic roles focus on high-end custom, stage costumes, traditional wear, and repairs. Overall employment outlook is flat, newcomers face competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 含加班、奖金 |
-| 中级（3-7年） | $30,000~$38,000 | 含绩效补贴 |
-| 高级（7年以上/Meister） | $38,000~$48,000 | 含管理职责或自雇收入 |
+| Median salary | $35,160 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Including overtime and bonuses. |
+| Mid-level (3–7 years) | $30,000~$38,000 | Including performance subsidies |
+| Senior (7+ years/Meister) | $38,000~$48,000 | Includes managerial duties or self-employment income |
+| average salary | $40,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 起步为学徒或助理，积累经验后可晋升为专业裁缝/制帽师，或转向服装技术员、样板师；少数可开设个人定制工坊。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Garment manufacturing will be partially automated by AI (layout, quality inspection), but customization and handcraft remain human moats; total jobs shrink but high-end custom demand persists.
+
+Start as an apprentice or assistant, gain experience to advance to professional tailor/milliner, or transition to garment technician, pattern maker; a few can open their own custom workshops.
+
+**Tasks most exposed to AI:**
+
+- Automated fabric layout and cutting optimization (AI algorithm replaces manual layout)
+- Batch standardized sewing operations (automated sewing robots replace labor)
+- Visual quality inspection of products (computer vision replacing manual inspection)
+- Inventory management and order tracking (AI system replaces manual entry)
+- Simple ironing and repetitive pressing (replaced by automated ironing equipment)
+
+**Where AI augments the role:**
+
+- AI-assisted personalized pattern design and adjustment (automatically generates patterns based on client body measurements)
+- Smart fabric identification and care recommendations (image recognition with styling suggestions)
+- Digital garment simulation and try-on (reducing the number of physical sample garments)
+- AI-driven production planning and scheduling optimization (improves efficiency)
+- Remote collaboration and customized communication with clients (AI translation and visualization tools)
+
+**Human moat:**
+
+- Advanced custom craftsmanship and unique aesthetics
+- Experience and feel for handling complex fabrics (e.g., silk, lace)
+- Ability to communicate deeply with clients and achieve personalised needs
+- Professional skills in repairing and debugging automated equipment
+- Creative design and craft innovation (non-standardised tasks)
+
+**Skills to build:**
+
+- CAD/CAM fashion design software operation
+- Programming and maintenance of automated sewing and cutting equipment.
+- Data analysis and production process optimization
+- Basic programming (Python for automation scripts)
+- Fabric science and functional fabric knowledge
+- Customer service and customized communication skills
+
+**Key growth areas:**
 
 - Custom tailoring
 - Traditional costume
@@ -61,68 +97,67 @@ Specializes in cutting, sewing, and finishing garments, hats, and headwear by ha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card for Recognized Professionals） | 需德语B1及资质认证，工资门槛通常较低（紧缺职业约42,000欧元），但本职业非紧缺，实际最低年薪要求43,800欧元（2023年）。 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 需德国认可的学历或职业资格，雇主担保，可申请永居。 |
-| Subclass Chancenkarte（Opportunity Card） | 根据积分制获得一年求职签证，需德语A2或英语B2，找到对口工作后转工作签证。 |
+| Subclass EU Blue Card (EU Blue Card for Recognized Professionals) | Requires German B1 and professional accreditation; the salary threshold is usually lower (for shortage occupations around €42,000), but this occupation is not a shortage occupation; the actual minimum annual salary requirement is €43,800 (2023). |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Requires a German-recognized degree or vocational qualification, employer sponsorship, and eligibility for permanent residence. |
+| Subclass Chancenkarte (Opportunity Card) | Obtain a one-year job-seeking visa based on a points system, requiring German A2 or English B2, then switch to a work visa after finding a matching job. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Garment, Hat and Cap Maker？**
-- 对手工缝纫有浓厚兴趣并追求细节完美者
-- 希望在德国学习传统手工艺并长期居留者
-- 有服装设计或打版基础，愿意接受双元制培训者
-
-**谁不适合学Garment, Hat and Cap Maker？**
-- 追求高薪及快速晋升者
-- 对重复性手工操作缺乏耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in hand sewing and a pursuit of detail perfection
+- People who wish to study traditional crafts in Germany and settle long-term
+- someone with basic fashion design or pattern-making skills and willing to undergo dual vocational training
+
+**Who is not suited**
+- Those seeking high salary and fast promotion
+- Those lacking patience for repetitive manual operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary level for this occupation in Germany?**
+A: Junior positions around €24,000-30,000/yr, experienced technicians €38,000-48,000, master craftsmen (Meister) or self-employed may earn more.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Must first complete a German-recognised 3-year dual vocational training programme, or hold equivalent qualifications from home country and pass German recognition (Anerkennung), then apply for a skilled migration visa with employer sponsorship; the Opportunity Card can also be used for entry and job seeking.
+
+**Q: How are overseas qualifications or professional credentials recognised in Germany?**
+A: Must undergo qualification assessment by the German Federal Office for the Recognition of Professional Qualifications (IHK FOSA) or relevant certification body, usually requiring certificate translations, course descriptions, and work experience proof; process takes about 3-6 months.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Garment, Hat and Cap Maker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Germany?**
-答：Entry-level positions earn about €24,000–€30,000 annually; experienced technicians can reach €38,000–€48,000; master craftsmen or self-employed may earn more.
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：Complete a 3-year German dual vocational training or obtain equivalent foreign qualifications recognized in Germany, then secure employer sponsorship for a skilled worker visa; the Opportunity Card is also an option.
-
-**问：How are foreign qualifications recognized in Germany?**
-答：Submit translated certificates, course descriptions, and proof of work experience to IHK FOSA or relevant recognition body; process takes 3–6 months.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

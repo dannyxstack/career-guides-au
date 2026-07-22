@@ -1,60 +1,96 @@
-# Agricultural Sciences Teachers, Postsecondary（Agricultural Sciences Teachers, Postsecondary）职业分析 · 美国
+# Agricultural Sciences Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1041 – Agricultural Sciences Teachers, Postsecondary。**
+**Occupation code: 25-1041 (SOC)**
 
-Teach courses in agricultural sciences at postsecondary institutions, including agronomy, horticulture, and soil conservation, often combining teaching with research.
+Teach agricultural science courses at a university or college, covering agronomy, horticulture, soil conservation, etc., and may involve research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-6年 | $100,000~$200,000（公立大学学费加生活费） |
-| 硕士 | 2-3年 | $50,000~$100,000（硕士学位为教学职位最低要求） |
-| 本科 | 4年 | $80,000~$150,000（农业科学相关学士学位） |
+| Doctorate | 5-6 years. | $100,000~$200,000 (Public university tuition plus living expenses) |
+| Master's degree | 2-3 years | $50,000~$100,000 (Master's degree is the minimum requirement for teaching positions) |
+| Bachelor's degree | 4 years | $80,000~$150,000 (Bachelor's degree in agricultural science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 通常为农业科学或相关领域博士 |
-| 教师资格认证 | 州政府 | 可选 | 非必需但有助于终身教职 |
-| 研究发表 | 学术机构 | 可选 | 晋升需要发表同行评审论文 |
+| Doctoral degree (PhD) | University | Required | Usually a doctorate in agricultural science or related field |
+| teacher certification | State government | Optional | Not required but helpful for tenure-track positions |
+| Research publications | Academic institutions | Optional | Promotion requires publishing peer-reviewed papers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。农业科学教授的需求受高校预算和农业技术发展影响，预计就业增长约7%，略低于平均水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for agricultural science professors is influenced by university budgets and agricultural technology developments; employment growth is projected at about 7%, slightly below average.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 助理教授起薪 |
-| 中级（4-9年） | $70,000~$90,000 | 副教授薪资范围 |
-| 高级（10年以上） | $95,000~$130,000 | 正教授薪资，包含研究型大学 |
+| Median salary | $98,700 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$65,000 | Assistant professor starting salary |
+| Intermediate (4-9 years) | $70,000~$90,000 | Associate professor salary range |
+| Senior (10+ years) | $95,000~$130,000 | Full professor salary, including research universities |
+| average salary | $102,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业路径通常从助理教授开始，晋升至副教授和正教授，也可转向研究管理或行政职务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Career path typically starts as assistant professor, progressing to associate and full professor, or transitioning to research management or administrative roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Sustainable Agriculture
 - Biotechnology
@@ -63,69 +99,68 @@ Teach courses in agricultural sciences at postsecondary institutions, including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 高校常用，需本科学历以上，每年配额有限但高校豁免配额 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合拥有博士学位或特殊能力的申请人，需PERM劳工证或国家利益豁免 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合硕士或以下学历，需PERM，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合有杰出研究成果的教授，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupations) | Commonly used by universities; requires bachelor's degree or higher; annual quota is limited but universities are exempt from quota. |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for applicants with a PhD or exceptional ability; requires PERM labor certification or National Interest Waiver. |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for master's degree or below, requires PERM, long wait times |
+| Subclass O-1 (O-1 Extraordinary Ability) | For professors with outstanding research achievements, no labor certification required |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural Sciences Teachers, Postsecondary？**
-- 热爱农业科学研究和教学
-- 具有深厚学术背景和沟通能力
-- 愿意长期从事学术界工作
-
-**谁不适合学Agricultural Sciences Teachers, Postsecondary？**
-- 追求高薪和快速职业发展
-- 不适应学术发表的竞争压力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about agricultural scientific research and teaching
+- With strong academic background and communication skills
+- Willing to pursue a long-term academic career
+
+**Who is not suited**
+- Pursuing high salary and fast career development
+- Not suited for the competitive pressure of academic publishing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an Agricultural Sciences Professor?**
+A: Entry-level professor approx. $50,000-$65,000, mid-level $70,000-$90,000, senior $95,000-$130,000, depending on institution and region.
+
+**Q: Is it difficult for immigrants to become agricultural science professors?**
+A: Relatively easy; universities generally support H-1B and EB-2 green card applications, especially research universities.
+
+**Q: What are the career prospects for an agricultural science professor?**
+A: Employment growth is stable but tenure-track positions are highly competitive; research direction affects opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Agricultural Sciences Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for agricultural sciences teachers?**
-答：Entry-level professors earn around $50,000-$65,000, mid-level $70,000-$90,000, and senior $95,000-$130,000, depending on institution and location.
-
-**问：Is it difficult to immigrate as an agricultural sciences teacher?**
-答：Relatively easy; universities often support H-1B and EB-2 green card petitions, especially research institutions.
-
-**问：What are the career prospects?**
-答：Steady job growth, but tenure-track positions are competitive; research focus affects opportunities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

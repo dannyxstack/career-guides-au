@@ -1,145 +1,173 @@
-# 保护与控制工程师（Protection & Control Engineer）职业分析 · ES
+# Protection & Control Engineer — career analysis · Spain
 
-**职业代码：2441 – Protection & Control Engineer。**
+**Occupation code: 2441-PNC (CNO)**
 
-保护与控制工程师负责电网变电站的继电保护整定、二次系统与自动化设计、SCADA 与 IEC 61850 通信、以及保护系统调试投运，是保障电网安全稳定运行的关键角色。
+Protection and control engineers are responsible for relay protection setting at substations, secondary system and automation design, SCADA and IEC 61850 communication, and protection system commissioning and commissioning, playing a key role in ensuring the safe and stable operation of the power grid.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 认可电气/电力/机电工程学位 | 4~6 年 | $20,000~$200,000（本地生较低，国际生较高） |
-| 专业方向进阶（仿真/RTL/验证/储能等） | 6~24 个月 | $2,000~$40,000（岗位核心工具链与方法学实操） |
-| 学历认证/职业评估（学历认证（homologación）） | 2~6 个月 | $500~$3,000（技术移民与执业所需） |
+| Recognized degrees in electrical/electrical/electromechanical engineering | 4~6 years | $20,000~$200,000 (Local students are relatively low, while international students are higher) |
+| Advanced professional directions (simulation/RTL/verification/energy storage, etc.) | 6~24 months | $2,000~$40,000 (Core Toolchain and Methodology Practical Practice for Positions) |
+| Academic Credentials / Career Assessment (Homologación) | 2~6 months | $500~$3,000 (Skilled Immigration and Practice Requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可工程学位 / 学历认证（学历认证（homologación）） | 学历认证（homologación） | 必备 | 执业与技术移民评估基础 |
-| 岗位核心工具/方法学能力 | 项目实践 | 可选 | 如并网仿真、RTL/时序、UVM 验证、储能标准等 |
+| Recognized Engineering Degrees / Academic Credentials (Homologación) | Homologación | Required | Basics of Assessment for Practice and Skilled Migration |
+| Core tools/methodological competencies for the position | Project practice | Optional | Such as grid-connected simulation, RTL/timing, UVM verification, energy storage standards, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。在西班牙，能源转型、电网升级与数据中心建设推动电力工程需求，保护与控制工程师中长期需求向好，资深并网/合规人才紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. In Spain, energy transition, grid upgrades, and data center construction are driving demand for power engineering. The medium- and long-term demand for protection and control engineers is improving, and there is a shortage of experienced grid-connected/compliance talent.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| InfoJobs | 150~500 个 | 保护与控制工程师及相邻岗位（西班牙） |
-| Indeed ES | 100~350 个 | 保护与控制工程师及相邻岗位（西班牙） |
-| LinkedIn | 200~600 个 | 保护与控制工程师及相邻岗位（西班牙） |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（EUR） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $28,000~$38,000 | 起薪，随雇主与地区（€28,000~€38,000） |
-| 中级（3~7 年） | $38,000~$52,000 | 行业中位区间（€38,000~€52,000） |
-| 资深/主任（8 年+） | $52,000~$68,000 | 资深/专家，含项目津贴（€52,000~€68,000） |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Beginner (0~3 years) | $28,000~$38,000 | Starting salary, depending on employer and region (€28,000~€38,000) |
+| Intermediate Level (3~7 years) | $38,000~$52,000 | Industry median range (€38,000~€52,000) |
+| Senior/Director (8+) | $52,000~$68,000 | Senior/Expert, including project allowance (€52,000~€68,000) |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 西班牙风光储并网、电网数字化与算力扩张持续，掌握并网/稳定性/合规的工程师最抢手；AI 辅助分析，电网安全责任仍由持证工程师承担。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will not replace protection and control engineers; instead, it will amplify its value: automated tuning calculations and configuration verification will free up energy to focus more on complex system design, new energy integration, and cybersecurity protection, with professional demands continuously rising due to the energy transition.
 
-- 变电站保护整定与继电保护(IEC 61850)
-- SCADA/自动化与二次系统设计
-- 可再生并网保护与孤岛检测
-- 储能/换流站保护与控制
-- 保护系统调试与现场投运
+In Spain, wind, solar, storage, grid integration, grid digitalization, and computing power expansion continue, making engineers skilled in grid connection, stability, and compliance the most sought after; AI-assisted analysis: Grid safety responsibility remains the responsibility of certified engineers.
+
+**Tasks most exposed to AI:**
+
+- Automated calculation and verification of relay protection set sheets
+- Generation and consistency check of substation secondary circuit drawings
+- Automatic configuration and verification of IEC 61850 CID/SCD files
+- Automatic mapping of SCADA system point tables to communication protocols
+- Automated testing of routine debugging steps for protection systems
+
+**Where AI augments the role:**
+
+- AI-assisted fault analysis and post-protection assessment of complex power grids
+- Use digital twins and simulation tools to optimize protection schemes
+- Development of machine learning-based protection strategies for new energy grid connection
+- AI-driven protection system health monitoring and predictive maintenance
+- Rapid retrieval of technical manuals and industry standards for natural language interfaces
+
+**Human moat:**
+
+- On-site experience assessment of old equipment and special working conditions
+- Bear legal and safety responsibilities for protecting power grid accidents caused by false alarms
+- Coordination and communication skills with power grid companies, equipment manufacturers, and other parties
+- Innovative designs for unconventional topologies (such as flexible DC and microgrids).
+- High-risk decision-making and rapid response in accident emergency handling
+
+**Skills to build:**
+
+- IEC 61850 and digital substation configuration tools
+- Python script automation (for tuning calculations and data processing)
+- Power system simulation software (such as PSCAD, DIgSILENT)
+- SCADA/RTU communication protocols and network security fundamentals
+- Knowledge of new energy grid connection protection and energy storage system design
+- The application foundation of AI/ML in fault diagnosis or optimization
+
+**Key growth areas:**
+
+- Substation Protection Settings & Relay Protection (IEC 61850)
+- SCADA/Automation & Secondary System Design
+- Renewable Grid-Connected Protection & Islanding Detection
+- Energy Storage/Converter Station Protection & Control
+- Protection System Commissioning & Field Operation
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PAC Ley 14/2013（高技能专业人才） | Profesional Altamente Cualificado（Ley 14/2013）高技能专业人才居留 |
-| Subclass Tarjeta Azul UE（欧盟蓝卡） | EU Blue Card：高薪+学历工程师通道 |
-| Subclass Cuenta ajena（受雇工作） | 受雇工作居留许可 |
+| Subclass PAC Ley 14/2013 (Highly skilled professionals) | Highly Qualified Professional (Ley 14/2013) residence permit |
+| Subclass Tarjeta Azul UE (EU Blue Card) | EU Blue Card: high salary + degree engineer pathway. |
+| Subclass Cuenta ajena (Employed work) | Employed work residence permit |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学保护与控制工程师？**
-- 相关工程背景，愿深耕能源/半导体新兴方向
-- 掌握或愿学岗位核心工具与方法学
-- 希望进入长期增长赛道并考虑技术移民
-- 细致、责任心强，能承担工程判断
-
-**谁不适合学保护与控制工程师？**
-- 数理/工程基础薄弱且不愿长期投入
-- 排斥标准、合规与安全为核心的工程工作
-- 期望短期速成、不接受多年经验积累
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Relevant engineering background, willing to focus on emerging energy/semiconductor fields.
+- Master or wish to learn core tools and methodologies for the position
+- Those hoping to enter the long-term growth track and considering skilled migration
+- Meticulous, highly responsible, able to make engineering judgments
+
+**Who is not suited**
+- Weak mathematical or engineering foundations and unwillingness to invest long-term
+- Engineering work centered on standards, compliance, and safety
+- Expect short-term quick success, not years of accumulated experience
+
+---
+
+## 8. FAQ
+
+**Q: How much do protection and control engineers in Spain earn?**
+A: Beginner about €28,000~€38,000; Senior about €52,000~€68,000 (EUR). Salaries vary by region, industry, and project; see the pay schedule for details.
+
+**Q: What is the demand for protection and control engineers in Spain?**
+A: In Spain, energy transition, grid upgrades, and data center construction are driving demand for power engineering. The medium- and long-term demand for protection and control engineers is improving, and there is a shortage of experienced grid-connected/compliance talent.
+
+**Q: Is overseas experience recognized in Spain?**
+A: Overseas degrees require homologación certification/evaluation; Core tools and project experience for the position are direct bonuses.
+
+**Q: Will protection and control engineers be replaced by AI?**
+A: Low risk. AI-assisted analysis and generation, but engineering design, safety compliance, and responsibility judgment are handled by certified engineers, making it an AI-enhanced position.
+
+**Q: Can Protection and Control Engineers immigrate to Spain with skilled migration?**
+A: Yes. Classified as a shortage engineering profession, you can follow Spain's corresponding skilled migration/employer-sponsored pathway; Specific thresholds are shown on the visa form.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| talent.com / Indeed ES | 电子工程师约 €38k；系统工程师约 €46k；电气 €26k~€32k |
-| Indeed ES | 资深半导体/FPGA 在 Indra/Minsait 等高于均值 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-保护与控制工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：西班牙保护与控制工程师工资多少？**
-答：初级约 €28,000~€38,000；资深约 €52,000~€68,000（EUR）。薪资随地区、行业与项目而定，具体见薪资表。
-
-**问：保护与控制工程师在西班牙需求怎样？**
-答：在西班牙，能源转型、电网升级与数据中心建设推动电力工程需求，保护与控制工程师中长期需求向好，资深并网/合规人才紧缺。
-
-**问：海外经验在西班牙认可吗？**
-答：海外学历需经学历认证（homologación）认证/评估；岗位核心工具与项目经验是直接加分项。
-
-**问：保护与控制工程师会被 AI 替代吗？**
-答：风险低。AI 辅助分析与生成，但工程设计、安全合规与责任判断由持证工程师承担，属 AI 增强型岗位。
-
-**问：保护与控制工程师能在西班牙技术移民吗？**
-答：能。归入紧缺工程职业，可走西班牙对应的技术移民/雇主担保通道；具体门槛见签证表。
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

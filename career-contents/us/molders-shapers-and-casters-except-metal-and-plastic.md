@@ -1,62 +1,98 @@
-# Molders, Shapers, and Casters, Except Metal and Plastic（Molders, Shapers, and Casters, Except Metal and Plastic）职业分析 · 美国
+# Molders, Shapers, and Casters, Except Metal and Plastic — career analysis · United States
 
-**职业代码：51-9195 – Molders, Shapers, and Casters, Except Metal and Plastic。**
+**Occupation code: 51-9195 (SOC)**
 
-Mold, shape, form, cast, or carve products such as food products, figurines, tile, pipes, and candles consisting of clay, glass, plaster, concrete, stone, or combinations of materials.
+Use materials such as clay, glass, plaster, concrete, and stone to produce food replicas, tiles, pipes, candles, etc., through molding, forming, casting, or carving methods.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业技术培训 | 6-12个月 | $5,000~$15,000（社区学院或职业学校的证书课程） |
-| 学徒制 | 2-4年 | —（在职培训，通常有薪） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational and technical training | 6–12 months | $5,000~$15,000 (Certificate programs at community colleges or vocational schools) |
+| Apprenticeship | 2-4 years | $0~$0 (On-the-job training, usually paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入学要求 |
-| 在职培训 | 雇主 | 必备 | 通常为期数月到一年 |
-| 自愿认证 | 行业组织 | 可选 | 如美国铸造协会（AFS）认证，提升竞争力 |
+| High school diploma or equivalent | High school | Required | Basic admission requirements |
+| On-the-job training | Employer | Required | Typically several months to a year |
+| Voluntary certification | Industry organizations. | Optional | Certifications such as the American Foundry Society (AFS) certification enhance competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,000。美国就业前景总体稳定，但受制造业自动化和外包影响，岗位增长缓慢。手工定制产品领域仍有需求，但整体就业人数预计下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,000. US employment outlook is generally stable, but affected by manufacturing automation and outsourcing, job growth is slow. Demand remains for handmade custom products, but overall employment is expected to decline.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 学徒或助手水平 |
-| 中级（3-7年） | $36,000~$48,000 | 熟练工 |
-| 高级（7年以上） | $48,000~$62,000 | 资深技工或主管 |
+| Median salary | $46,170 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Apprentice or assistant level |
+| Mid-level (3–7 years) | $36,000~$48,000 | Skilled worker |
+| Senior (7+ years) | $48,000~$62,000 | Senior technician or supervisor |
+| average salary | $47,500 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒或助手开始，积累技能后可晋升为高级模具工、主管或检验员。部分经验丰富者可自主创业或转向艺术陶瓷、雕塑等细分领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI automation will compress such roles: computer vision-guided 3D printing and robotic arms can replace most forming processes, reducing demand for manual mold makers.
+
+Starting as an apprentice or assistant, gain skills to advance to senior mold maker, supervisor, or inspector. Some experienced individuals can start their own business or move into niche areas like art ceramics or sculpture.
+
+**Tasks most exposed to AI:**
+
+- Repetitive pouring and demolding operations
+- Simple plaster/concrete mold making
+- Standard product molding (e.g., candles, soap)
+- Semi-automatic glass blowing and finishing of glassware
+- Visual inspection in quality control
+
+**Where AI augments the role:**
+
+- Use 3D printing to quickly create complex mold prototypes
+- Optimize product design using AI-generated design proposals
+- Automated systems assist in precise control of temperature and material ratios
+- Digital twin simulation improves yield rates
+- Robots collaborate to complete heavy lifting and polishing
+
+**Human moat:**
+
+- High-precision hand carving and finishing (e.g., for artwork)
+- Deep intuition and experiential judgment of material properties
+- Ability for on-site adjustments and improvisation
+- Client Communication and Customized Design
+- Multi-process integration and problem solving
+
+**Skills to build:**
+
+- Digital modeling and 3D printing operations
+- Knowledge of materials science and performance optimization
+- Basic programming and robot collaboration skills
+- Computer-aided design and simulation (CAD/CAE)
+- Fundamentals of quality control data analysis
+- Client needs analysis and solution design
+
+**Key growth areas:**
 
 - Manual Manufacturing
 - Artisan
@@ -65,66 +101,68 @@ Mold, shape, form, cast, or carve products such as food products, figurines, til
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 需要至少2年培训或经验，但雇主担保难度大。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 技术移民路径存在但极少，因劳动力市场测试困难。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Requires at least 2 years of training or experience, but employer sponsorship is difficult. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Skilled migration paths exist but are very rare due to difficulties with labor market testing. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Molders, Shapers, and Casters, Except Metal and Plastic？**
-- 喜欢手工艺和精细操作的人
-- 愿意从事制造业体力劳动的人
-- 对传统铸造或陶瓷艺术有热情的人
+**Who is suited**
+- Those who enjoy crafts and fine work
+- Those willing to engage in manufacturing physical labor
+- People passionate about traditional casting or ceramic art
 
-**谁不适合学Molders, Shapers, and Casters, Except Metal and Plastic？**
-- 寻求高薪或快速晋升的人
-- 不喜欢重复性体力劳动或工作环境噪音大的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Those who dislike repetitive physical labor or noisy work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of this occupation?**
+A: Median annual salary approx USD $38,000, entry-level positions approx $28,000-$35,000, senior up to $62,000. Salary greatly affected by region and industry.
+
+**Q: Is there a skilled migration pathway for this occupation?**
+A: Almost none. This occupation usually does not meet the specialty requirements for H-1B, and applying for a green card through PERM faces labor market test difficulties.
+
+**Q: What are the future employment prospects?**
+A: Job numbers are expected to decline; automation replaces some work, but demand remains for custom handmade products.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Molders, Shapers, and Casters, Except Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Median annual wage is around $38,000; entry-level $28,000-$35,000; experienced up to $62,000. Salary varies by region and industry.
-
-**问：Are there immigration pathways for this occupation?**
-答：Almost none. It typically does not meet H-1B specialty occupation criteria, and PERM labor certification is difficult to obtain.
-
-**问：What is the job outlook?**
-答：Employment is projected to decline due to automation, though demand remains in custom handmade products.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

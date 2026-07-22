@@ -1,59 +1,91 @@
-# Steel Fixer（Steel Fixer）职业分析 · 新西兰
+# Steel Fixer — career analysis · New Zealand
 
-**职业代码：821713 – Steel Fixer。**
+**Occupation code: 821713 (ANZSCO)**
 
-Steel fixers place, tie, and secure steel reinforcement in concrete structures, a key trade in New Zealand's construction sector. Clear migration pathway via Green List direct residence, suitable for experienced tradespeople.
+Reinforcing steel workers are responsible for placing, tying, and fixing rebar in concrete structures, a key trade in New Zealand's construction industry. The skilled migration path is clear, with access to the Green List direct residence pathway, suitable for experienced tradespeople.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰3级证书 (学徒预备) | 6个月 | $2,000~$5,000（部分免费，如ITP/工科院校；国际生费用较高） |
-| 新西兰4级证书 (钢筋工专业) | 1-2年 | $5,000~$12,000（含在职培训，政府可能补贴学徒） |
+| New Zealand Level 3 Certificate (Apprentice Preparation) | 6 months. | $2,000~$5,000 (Partially free, such as ITP/engineering colleges; higher fees for international students) |
+| New Zealand Level 4 Certificate (Reinforcing Steel Specialisation) | 1-2 years | $5,000~$12,000 (Includes on-the-job training; government may subsidize apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰4级钢筋工证书 | 新西兰学历认证局 (NZQA) 认可院校或行业培训组织 (如BCITO) | 可选 | 非强制性，但雇主首选；通常通过学徒制完成 |
-| 工地安全卡 (Site Safe) | Site Safe New Zealand | 必备 | 所有工地人员必备，1天课程 |
-| 英语语言能力 (IELTS 6.5或同等) | 认可考试机构 | 必备 | 技术移民签证要求 |
+| Site Safety card | Site Safe New Zealand | Required | Mandatory for all site personnel; 1-day course |
+| English language proficiency (IELTS 6.5 or equivalent) | Approved examining bodies | Required | Skilled Migration visa requirements |
+| New Zealand Level 4 Reinforcement Worker Certificate | Institutions accredited by the New Zealand Qualifications Authority (NZQA) or industry training organizations (e.g., BCITO) | Optional | Non-mandatory, but preferred by employers; usually completed through apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 4,500。新西兰住房建设需求旺盛，基建投资持续增加，钢筋工长期短缺。基督城、奥克兰等城市重建和大型项目（如轻轨、隧道）支撑就业。预计未来5年岗位增长10%-15%。
+**Job demand: very high (★★★★½).** National workforce approx. 4,500. New Zealand's housing construction demand is strong, infrastructure investment continues to increase, and there is a long-term shortage of reinforcing ironworkers. Rebuilding in Christchurch, Auckland, and large projects (e.g., light rail, tunnels) support employment. About 10%-15% job growth is expected over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26纽币 |
-| 中级（3-6年） | $55,000~$75,000 | 时薪约26-35纽币 |
-| 高级（6年以上） | $75,000~$95,000 | 时薪约35-45纽币；领班可达100,000+ |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly rate about NZ$22-26 |
+| Mid-level (3–6 years) | $55,000~$75,000 | Hourly wage approximately NZD 26-35 |
+| Senior (6+ years) | $75,000~$95,000 | Hourly rate approx. NZD 35-45; foreman can reach NZD 100,000+ |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从学徒逐步晋升为高级钢筋工、领班，可转向钢筋估算师或施工监理。积累经验后可自雇承包，或移民到其他发达国家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
+
+Progress from apprentice to senior rebar worker or foreman, with potential to move into rebar estimator or construction supervisor. With experience, can become self-employed contractor or migrate to other developed countries.
+
+**Tasks most exposed to AI:**
+
+- AI-assisted automatic rebar cutting and bending
+- BIM-based automatic layout and setting out
+- Automatic rechecking of rebar positions before concrete pouring
+- Standardized Binding Robotics Operations
+
+**Where AI augments the role:**
+
+- BIM models available 24/7 to aid understanding of complex nodes
+- AR glasses overlay rebar placement drawings, reducing drawing reading errors
+- Auto stirrup bender parameters optimized by AI reduce material waste
+- On-site quality inspection using AI vision for rapid anomaly feedback
+
+**Human moat:**
+
+- Flexible tying and adjustment in complex/irregular structures
+- Adaptability to severe weather and field conditions
+- Team collaboration and problem-solving in unexpected situations.
+- Safety compliance enforcement and risk assessment
+
+**Skills to build:**
+
+- Proficiency in BIM model viewing software (e.g., Tekla, Revit)
+- Learn automated rebar processing equipment operation
+- Basic data analysis and mobile quality inspection tool usage
+- Simple AR/VR device operation and maintenance
+- Continuous learning of new standards and digital processes
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +94,67 @@ Steel fixers place, tie, and secure steel reinforcement in concrete structures, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单一级职业，满足薪资中位数（约29.66纽币/小时）和工作要求，可直接申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，凭借学历、经验或注册可获分数，需满足时薪中位数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合暂无移民打算，先工作积累经验 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation; meeting the median salary (~29.66 NZD/hour) and work requirements allows direct residence application |
+| Subclass SMC (Skilled Migrant Category) | Six-point skilled migration; points awarded based on qualifications, experience or registration; must meet hourly wage median. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those without immediate immigration plans who want to first gain work experience |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Steel Fixer？**
-- 体力充沛、适应户外和建筑工地环境的人
-- 动手能力强、注重安全规范的人
-- 希望通过技术移民新西兰的技工
-
-**谁不适合学Steel Fixer？**
-- 不耐高温、寒冷或雨天户外作业的人
-- 对重复性、高强度体力劳动感到厌倦的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong, suited to outdoor and construction site environments
+- People with strong hands-on skills and focus on safety
+- Tradespeople hoping to immigrate to New Zealand through skilled migration
+
+**Who is not suited**
+- People who cannot tolerate outdoor work in high heat, cold, or rain
+- Those tired of repetitive, high-intensity physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for steel fixers in New Zealand?**
+A: Junior hourly rate about NZD 22-26, intermediate NZD 26-35, senior NZD 35-45. Foremen or contractors can earn over NZD 100,000 annually.
+
+**Q: Is it easy for rebar workers to immigrate to New Zealand?**
+A: Relatively easy; it's a Tier 1 Green List occupation. Direct residence visa requires hourly wage at median (about NZD 29.66/hour) and employer endorsement, no labor market test needed.
+
+**Q: Which regions in New Zealand have high demand for steel fixers?**
+A: Auckland, Christchurch, and Wellington have highest demand due to housing and infrastructure projects. Canterbury region also needs many steel fixers due to ongoing reconstruction.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Steel Fixer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a steel fixer in New Zealand?**
-答：Entry-level hourly rate is around NZD 22-26, mid-level 26-35, senior 35-45. Foremen or subcontractors can earn over NZD 100,000 per year.
-
-**问：Is it easy for a steel fixer to immigrate to New Zealand?**
-答：Relatively easy. It's on Green List Tier 1, requiring median wage (approx. NZD 29.66/hr) and approved employer, no labor market test.
-
-**问：Which regions in New Zealand have high demand for steel fixers?**
-答：Auckland, Christchurch, and Wellington have the highest demand due to residential and infrastructure projects. Canterbury also needs many due to ongoing rebuild.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

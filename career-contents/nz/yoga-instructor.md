@@ -1,61 +1,97 @@
-# Yoga Instructor（Yoga Instructor）职业分析 · 新西兰
+# Yoga Instructor — career analysis · New Zealand
 
-**职业代码：452111Y – Yoga Instructor。**
+**Occupation code: 452111Y (ANZSCO)**
 
-Yoga instructors in New Zealand teach group or private classes, requiring internationally recognized certifications (e.g., RYT 200/500). They can work on AEWV but face challenges for skilled migration.
+Yoga instructors teach group or private yoga classes in New Zealand. They need internationally recognized qualifications (e.g., RYT 200/500) and can work under an Accredited Employer Work Visa (AEWV), but skilled migration is difficult.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| RYT 200教师培训 | 1个月-3个月 | $2,000~$5,000（新西兰本地或在线培训，费用含认证） |
-| RYT 500高级培训 | 6个月-1年 | $4,000~$10,000（进阶培训，部分机构提供） |
+| RYT 200 teacher training | 1 month to 3 months | $2,000~$5,000 (New Zealand local or online training, fees include certification) |
+| RYT 500 Advanced Training | 6 months to 1 year | $4,000~$10,000 (Advanced training, offered by some institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RYT 200认证 | 瑜伽联盟(Yoga Alliance) | 必备 | 国际通用，新西兰雇主普遍要求 |
-| 新西兰急救证书 | 新西兰急救委员会(NZC) | 必备 | 课程安全必备 |
-| 瑜伽教师资格证(新西兰) | 新西兰瑜伽协会(YNZ) | 可选 | 自愿认证，提升竞争力 |
+| RYT 200 certification | Yoga Alliance | Required | Internationally recognised, commonly required by New Zealand employers |
+| New Zealand First Aid Certificate | New Zealand Council of Ambulance Authorities (NZC) | Required | Course safety required |
+| Yoga Teacher Certification (New Zealand) | Yoga New Zealand (YNZ) | Optional | Voluntary certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,000。新西兰瑜伽行业稳步增长，尤其在奥克兰、基督城等城市，但竞争激烈，多为兼职或自营。疫情后线上课程需求增加，但整体就业机会有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,000. New Zealand's yoga industry is growing steadily, especially in cities like Auckland and Christchurch, but competition is fierce, with mostly part-time or self-employed roles. Post-pandemic demand for online classes has increased, but overall job opportunities are limited
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 兼职或底薪课时费 |
-| 中级（3-5年） | $50,000~$70,000 | 固定课程加私教 |
-| 高级（5年以上） | $70,000~$100,000 | 工作室老板或知名教练 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$50,000 | Part-time or base hourly rate |
+| Mid-level (3–5 years) | $50,000~$70,000 | Fixed courses plus personal training |
+| Senior (5+ years) | $70,000~$100,000 | Studio owner or well-known coach |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 从兼职教练起步，积累经验后可晋升为高级教练或开设工作室。部分教练转向普拉提、冥想或康复训练以拓宽收入。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace yoga instructors but will amplify their value: by generating personalized training plans, real-time pose correction, and automated client management, allowing instructors to focus more on emotional connection and safety protection.
+
+Start as a part-time instructor, gain experience, and advance to senior instructor or open your own studio. Some instructors pivot to Pilates, meditation, or rehabilitation training to diversify income.
+
+**Tasks most exposed to AI:**
+
+- AI-generated standard yoga sequences and course syllabi
+- AI video analysis automatically assesses student posture and provides basic feedback
+- Automatically generate client progress reports and exercise logs
+- Replacing Recording and Playback of Generic Online Yoga Courses
+- Automated scheduling, appointment reminders and payment processing
+
+**Where AI augments the role:**
+
+- AI-assisted personalized pose adjustments, real-time analysis of body symmetry and force points
+- Using AI to generate customized yoga sequences (based on injury history and goals)
+- AI-driven customer relationship management: automatically identify renewal points and perform sentiment analysis
+- Leveraging AI to create high-quality content (short videos, live subtitles, multilingual translations) to expand influence
+- AI simulates different body types to help coaches rehearse teaching plans
+
+**Human moat:**
+
+- Safety protection: timely manual adjustments and injury prevention on site
+- Empathy and emotional resonance: building trust through observing subtle expressions and tone
+- Personalised Therapy Assessment: Combining Medical Knowledge with Intuitive Judgment
+- Community Building: Creating a Sense of Belonging and Group Dynamics
+- Ethical responsibility: judgement with special populations (pregnancy, post-injury rehabilitation)
+
+**Skills to build:**
+
+- AI-assisted posture analysis tools (e.g., Kinetisense) application
+- Basic Data Science: Interpreting Client Data and Optimising Programs
+- Video content production and AI editing
+- Deepened knowledge of sports anatomy and rehabilitation
+- Counselling skills (stress management, mindfulness guidance)
+- Online brand operations and AI customer service system management
+
+**Key growth areas:**
 
 - AEWV
 - Skills Shortage
@@ -64,65 +100,67 @@ Yoga instructors in New Zealand teach group or private classes, requiring intern
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，雅思4分，时薪不低于中位数（$29.66/hr），最长3年 |
-| Subclass SMC（Skilled Migrant Category） | 瑜伽教练不在技能职业列表，无法直接申请，需满足其他条件如高薪或特殊技能 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, IELTS 4.0, hourly wage no less than the median ($29.66/hr), maximum 3 years |
+| Subclass SMC (Skilled Migrant Category) | Yoga instructors are not on the skilled occupation list, cannot apply directly, must meet other conditions such as high salary or special skills. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Yoga Instructor？**
-- 热爱瑜伽且愿意持续学习
-- 善于沟通和激励他人
-- 能适应灵活工作时间
+**Who is suited**
+- Passionate about yoga and willing to continuously learn
+- Good at communication and motivating others
+- Able to adapt to flexible working hours.
 
-**谁不适合学Yoga Instructor？**
-- 追求高薪和稳定全职工作
-- 不擅长自我推广和营销
+**Who is not suited**
+- Pursuing high salary and stable full-time job
+- Not good at self-promotion and marketing.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for yoga instructors in New Zealand?**
+A: Junior approximately NZD 35,000-50,000, mid-level NZD 50,000-70,000, senior up to NZD 100,000, but mostly part-time income.
+
+**Q: Can yoga instructors immigrate to New Zealand through skilled migration?**
+A: Cannot apply directly; this occupation is not on the skilled occupation list. Consider AEWV work visa or business immigration.
+
+**Q: What qualifications are needed to become a yoga instructor in New Zealand?**
+A: Typically requires Yoga Alliance RYT 200 certification and first aid certificate. Local certification (YNZ) is not mandatory but beneficial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Yoga Instructor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a yoga instructor in New Zealand?**
-答：Entry-level NZD 35,000-50,000, intermediate NZD 50,000-70,000, senior up to NZD 100,000, but mostly part-time.
-
-**问：Can yoga instructors migrate to New Zealand through skilled migration?**
-答：No, it is not on the skill shortage list. Options include AEWV work visa or entrepreneur visa.
-
-**问：What qualifications are needed to be a yoga instructor in NZ?**
-答：Typically RYT 200 from Yoga Alliance and a first aid certificate. Local YNZ accreditation is optional but beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Veterinarian（Veterinarian）职业分析 · 新西兰
+# Veterinarian — career analysis · New Zealand
 
-**职业代码：234711 – Veterinarian。**
+**Occupation code: 234711 (ANZSCO)**
 
-Veterinarians in New Zealand are in long-term shortage, with Green List Tier 1 direct residence pathway enabling fast immigration. Demand is driven by pet industry growth and rural livestock needs.
+Veterinarians are on New Zealand's long-term skill shortage list, with a direct residence pathway via Green List Tier 1. Growth driven by pet industry and rural livestock demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（5年制兽医学士） | 5年 | $300,000~$450,000（梅西大学兽医学士项目，国际生学费约30-45万NZD） |
-| 硕士/专科培训 | 1-3年 | $50,000~$150,000（专科兽医如外科、公共卫生等课程） |
+| Bachelor's degree (5-year veterinary bachelor) | 5 years | $300,000~$450,000 (Massey University Bachelor of Veterinary Science program, international student tuition approx NZD 300,000-450,000) |
+| Master's degree/specialist training | 1-3 years | $50,000~$150,000 (Courses for specialist veterinarians such as surgery and public health) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰兽医委员会注册 | Veterinary Council of New Zealand (VCNZ) | 必备 | 所有执业兽医必须注册，外国学历需通过VCNZ评估 |
-| OET/IELTS成绩 | OET/IELTS | 必备 | 注册英语要求：OET B或等同 |
-| 兽医科学学士学位 | 梅西大学或国外认可院校 | 必备 | ACOVS认证课程 |
+| Registration with the Veterinary Council of New Zealand | Veterinary Council of New Zealand (VCNZ) | Required | All practicing veterinarians must register; foreign qualifications need assessment by VCNZ |
+| OET/IELTS scores | OET/IELTS | Required | English requirement for registration: OET B or equivalent |
+| Bachelor of Veterinary Science | Massey University or recognized institutions abroad | Required | ACOVS-accredited course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 3,200。新西兰兽医师资短缺严重，尤其在乡村大型动物领域。宠物数量增长及出口动物健康要求确保持续需求，未来10年岗位增长预计高于平均水平。
+**Job demand: very high (★★★★½).** National workforce approx. 3,200. New Zealand faces a severe shortage of veterinarians, especially in rural large animal practice. Growing pet numbers and export animal health requirements ensure ongoing demand; job growth over the next 10 years is expected to exceed average.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | 薪资因地区和诊所类型而异 |
-| 中级（3-6年） | $85,000~$110,000 | 经验丰富者可达 |
-| 高级（7年+） | $110,000~$140,000 | 专科或管理岗更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$85,000 | Salary varies by region and clinic type. |
+| Mid-level (3–6 years) | $85,000~$110,000 | Experienced practitioners can achieve |
+| Senior (7+ years) | $110,000~$140,000 | Higher for specialist or management roles |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级兽医（0-3年）积累经验后可成为主治或专科兽医，也可向管理（诊所经理）、学术或政府检疫部门发展。专科或管理岗薪资显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
+
+Junior veterinarians (0-3 years) can advance to lead or specialist veterinarians after gaining experience, or move into management (clinic manager), academia, or government quarantine departments. Specialist or management roles have significantly higher salaries.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of imaging (X-ray/ultrasound) assisted by AI
+- Standardized medical record entry and prescription generation
+- Automated appointment management for routine vaccinations and deworming
+- Automated interpretation of lab sample analysis (blood count/chemistry)
+- Simple symptom consultation in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide reference for rare case identification
+- Robot-assisted surgery improves precision in minimally invasive procedures
+- Continuous monitoring of patient rehabilitation data via smart wearable devices
+- Big data analytics to predict disease outbreaks and medication trends
+- Personalized medical plan generation (based on genetics and medical history)
+
+**Human moat:**
+
+- Manual dexterity and adaptability in complex surgeries
+- Empathetic communication and trust-building with pet owners.
+- Cross-species clinical judgment (especially for large animals)
+- Ethical decisions (e.g., timing of euthanasia)
+- On-site handling ability in emergency situations
+
+**Skills to build:**
+
+- Operating AI diagnostic imaging tools and verifying results
+- Telemedicine platform usage and data analysis
+- Genomics and precision medicine knowledge
+- Basics of animal behavior and psychology
+- Advanced management of digital health records (EHR)
+- Surgical Robot Collaboration Skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Veterinarians in New Zealand are in long-term shortage, with Green List Tier 1 d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色名单Tier 1职业，可直接申请居留，无需先工作 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制要求（学历+工作经验） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工作签证，作为移民过渡 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, eligible for direct residence without prior work requirement |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (qualifications + work experience) |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a pathway to permanent residency. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian？**
-- 热爱动物且能应对医疗紧急情况的人
-- 愿意在新西兰农村或偏远地区工作
-- 具备较强沟通和抗压能力的人
-
-**谁不适合学Veterinarian？**
-- 对大动物或农场环境不适者
-- 期望每周工作固定时间且少加班者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love animals and can handle medical emergencies
+- Willing to work in rural or remote areas of New Zealand
+- People with strong communication and stress management skills
+
+**Who is not suited**
+- Not suitable for those uncomfortable with large animals or farm environments
+- Those expecting fixed weekly hours and minimal overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for registered veterinarians in New Zealand?**
+A: Junior veterinarian annual salary approx. NZ$70,000–NZ$85,000, mid-level NZ$85,000–NZ$110,000, senior or specialist can reach NZ$110,000–NZ$140,000 or more.
+
+**Q: How can overseas veterinarians immigrate to New Zealand?**
+A: Through Green List Tier 1 direct residence pathway or skilled migration. Must first obtain registration with the New Zealand Veterinary Council, meet English requirements, and find employer support
+
+**Q: Cost of studying veterinary medicine at Massey University?**
+A: International student total tuition for 5 years approx. NZD 300,000-450,000; living expenses separate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Veterinarian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a registered veterinarian in New Zealand?**
-答：Entry-level veterinarians earn NZD 70,000-85,000, mid-level NZD 85,000-110,000, and senior/specialist NZD 110,000-140,000+
-
-**问：How can overseas veterinarians immigrate to New Zealand?**
-答：Through Green List Tier 1 Straight to Residence visa or Skilled Migrant Category. Requires VCNZ registration, English proficiency, and employer sponsorship.
-
-**问：What is the cost of studying veterinary at Massey University?**
-答：International tuition fees for the 5-year BVSc program total around NZD 300,000-450,000, plus living expenses.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

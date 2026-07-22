@@ -1,61 +1,94 @@
-# Criminal Investigation Officer（Criminal Investigation Officer）职业分析 · DE
+# Criminal Investigation Officer — career analysis · Germany
 
-**职业代码：5322 – Criminal Investigation Officer。**
+**Occupation code: 5322 (KldB)**
 
-Criminal investigation officers investigate crimes, collect evidence, analyze clues, and assist in prosecuting offenders. They work in police departments or federal criminal police offices, handling crime scene examination, suspect interrogation, and collaboration with legal authorities.
+Criminal investigators investigate criminal activities, gather evidence, analyze leads, and assist in prosecuting offenders. This profession typically works in police agencies or federal criminal police bureaus, involving crime scene investigation, interrogating suspects, and collaborating with legal departments.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育 | 3-4年（本科） | —（公立大学通常免学费，仅收注册费） |
-| 警察学院培训 | 2-3年（双元制） | —（带薪培训，学员期间可获得工资） |
+| Higher education | 3-4 years (Bachelor's degree) | $0~$500 (Public universities are usually tuition-free, only charging registration fees) |
+| Police academy training | 2-3 years (dual system) | $0~$0 (Paid training, with salary received during traineeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 警察服务能力测试 | 各州警察局 | 必备 | 必须通过体能、心理和学术测试 |
-| 刑事侦查专业培训 | 联邦刑事警察局（BKA）或州警察学院 | 必备 | 通常入职后完成内部培训课程 |
-| 资质认证（非欧盟学历） | 德国认证机构 | 必备 | 非欧盟学历需通过Anabin认证 |
+| Police service ability test | State police departments | Required | Must pass physical, psychological, and academic tests |
+| Criminal investigation professional training | Federal Criminal Police Office (BKA) or state police academy | Required | Usually complete internal training courses after onboarding |
+| Qualification certification (non-EU degree) | German certification body | Required | Non-EU qualifications must be verified through Anabin certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。德国公共安全领域对刑事侦查员需求稳定，尤其是在打击网络犯罪和有组织犯罪方面。由于退休人员增加和复杂犯罪增多，就业前景良好，但入职竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Steady demand for criminal investigators in Germany's public security sector, especially in combating cybercrime and organized crime. Good employment prospects due to retirements and rising complex crime, but intense entry competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | 根据州公务员薪资等级A7-A8 |
-| 中级（3-7年） | $45,000~$55,000 | 薪资等级A9-A10 |
-| 高级（7年以上） | $55,000~$70,000 | 薪资等级A11-A13，含特殊岗位补贴 |
+| Median salary | $55,188 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$45,000 | According to state public servant salary levels A7-A8 |
+| Mid-level (3–7 years) | $45,000~$55,000 | Salary level A9-A10 |
+| Senior (7+ years) | $55,000~$70,000 | Salary grade A11-A13, including special position allowance |
+| average salary | $56,916 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径从基层侦查员到高级侦查员，再到部门主管或刑事警察局长。可专攻特定领域如经济犯罪或法医鉴定，也可通过继续教育晋升为高层管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of criminal investigators will be mixed due to AI: automated analysis tools can speed up data processing, but core investigative decisions, scene examination, and interpersonal interrogations still rely on human experience and intuition.
+
+Career progression from basic investigator to senior investigator, then to department head or criminal police chief. Can specialize in areas like economic crime or forensic identification, or advance to senior management through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Preliminary evidence classification and electronic document organization.
+- Standardized interrogation record and report template generation
+- Automatic identification and trajectory tracking of suspects in surveillance video
+- Cross-case pattern matching and clue association in databases
+
+**Where AI augments the role:**
+
+- Quickly identifying high-crime areas and times using AI prediction models
+- Use natural language processing to analyze contradictions in large volumes of testimony or social media content
+- Using digital forensics tools to automatically extract key evidence from electronic devices
+- Using VR to simulate crime scenes for multi-angle reconstruction and hypothesis testing
+
+**Human moat:**
+
+- Intuitive judgment and hypothesis generation for non-standard traces in on-site inspections
+- Psychological support and trust-building for sensitive witnesses and victims.
+- Decisions involving legal discretion and ethical trade-offs in cross-departmental collaboration
+- On-site response and tactical command in sudden violent crime incidents
+
+**Skills to build:**
+
+- Fundamentals of digital forensics and electronic evidence analysis
+- Data visualization and statistical software (such as Tableau, R)
+- Operation of Crime Prediction Models and Policing Intelligent Systems
+- Quality review and bias detection of AI-generated reports
+- Cross-cultural communication and crisis negotiation skills
+- Knowledge of cybersecurity and encrypted communication traceability
+
+**Key growth areas:**
 
 - Digitalization
 - Cybercrime
@@ -64,69 +97,68 @@ Criminal investigation officers investigate crimes, collect evidence, analyze cl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于受过高等教育的刑事侦查员，需年薪至少43,800欧元（2024年） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有职业培训资质的刑事侦查员，需获得德国雇主聘用 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作的机会卡，需满足语言和资质要求 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to criminal investigators with higher education, requiring annual salary at least 43,800 EUR (2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to criminal investigators with vocational training qualifications; must secure employment with a German employer. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, this opportunity card allows job-seeking in Germany and requires language and qualification requirements. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Criminal Investigation Officer？**
-- 对刑事调查有浓厚兴趣，具备分析思维能力的人
-- 喜欢团队合作且能承受高压工作环境的人
-- 愿意接受严格训练和体能要求的人
-
-**谁不适合学Criminal Investigation Officer？**
-- 无法适应轮班制或夜间工作者
-- 对暴力或血腥场景敏感的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in criminal investigations and analytical thinking skills
+- People who enjoy teamwork and can handle high-pressure work environments
+- Those willing to accept rigorous training and physical demands
+
+**Who is not suited**
+- Those unable to adapt to shift work or night shifts
+- People sensitive to violence or gory scenes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a criminal investigator?**
+A: Junior annual salary approx. 38,000-45,000 euros, mid-level 45,000-55,000 euros, senior 55,000-70,000 euros. Salary varies by civil service grade and state policy, often includes allowances.
+
+**Q: How can non-EU citizens become criminal investigators in Germany?**
+A: Non-EU citizens must first obtain a recognized German degree or vocational training qualification and pass the police aptitude test. Can apply for an EU Blue Card or skilled migration visa, but language requirements are high (usually German C1), and qualification recognition must be completed.
+
+**Q: What is the career outlook for criminal investigators?**
+A: Clear career progression from investigator to team leader, department head, or even state or federal criminal police leadership. Specializations such as cybercrime, forensic science, etc., offer additional opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Criminal Investigation Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for criminal investigation officers?**
-答：Entry-level annual salary is about EUR 38,000-45,000, mid-level EUR 45,000-55,000, and senior EUR 55,000-70,000. Salary varies by civil service grade and state policy, typically including allowances.
-
-**问：How can non-EU citizens become criminal investigation officers in Germany?**
-答：Non-EU citizens need a German-recognized degree or vocational training, pass police aptitude tests. They can apply for EU Blue Card or skilled worker visa, but must meet high German language requirements (usually C1) and complete credential recognition.
-
-**问：What are the career prospects for criminal investigation officers?**
-答：Clear promotion path from investigator to team leader, department head, or state/federal criminal police leadership. Specialization in cybercrime or forensic science offers additional opportunities.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

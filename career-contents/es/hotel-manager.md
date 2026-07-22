@@ -1,58 +1,94 @@
-# Hotel Manager（Hotel Manager）职业分析 · ES
+# Hotel Manager — career analysis · Spain
 
-**职业代码：1411 – Hotel Manager。**
+**Occupation code: 1411 (CNO)**
 
-Hotel managers oversee the overall operations of hotels, including rooms, food and beverage, front desk, human resources, and finance, ensuring guest satisfaction and profitability.
+Hotel managers are responsible for the overall operations of the hotel, including guest rooms, catering, front desk, human resources, and finance, ensuring customer satisfaction and profitability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位（Grado） | 4年 | $1,200~$6,000（公立大学学费，私立更高） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立FP学费较低或免费） |
+| Bachelor's Degree (Grado) | 4 years | $1,200~$6,000 (Public university tuition; private is higher) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public FP tuition is low or free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理学士学位 | 大学 | 可选 | 非强制但普遍要求 |
-| 语言能力（英语、德语等） | 认证机构 | 可选 | 多语种优势显著 |
+| Bachelor's degree in Hospitality Management | University | Optional | Not mandatory but commonly required |
+| Language proficiency (English, German, etc.) | Certification bodies | Optional | Multilingualism is a significant advantage |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,500。西班牙旅游业持续增长，带动酒店管理岗位需求，尤其在巴塞罗那、马德里和沿海度假区。高端连锁酒店品牌扩张，创造更多管理职位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,500. Spain's tourism industry continues to grow, driving demand for hotel management positions, especially in Barcelona, Madrid, and coastal resorts. Expansion of high-end hotel chain brands, creating more management positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $36,000~$48,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，大型连锁酒店更高 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $36,000~$48,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Pre-tax annual salaries, large chain hotels offer higher salaries |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从部门主管（如客房经理、餐饮经理）晋升为酒店经理，再升至区域经理或集团高管。积累经验后可自主创业开设精品酒店。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+You can be promoted from department supervisor (such as housekeeping manager, food and beverage manager) to hotel manager, and then to regional manager or group executive. After accumulating experience, you can start your own business and open boutique hotels.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Tourism growth
 - Luxury hotel expansion
@@ -61,64 +97,63 @@ Hotel managers oversee the overall operations of hotels, including rooms, food a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Persons） | 由西班牙雇主担保的工作居留，适用于长期雇用。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高学历、高薪资的第三国专业人士，门槛较高但有利家庭团聚。 |
+| Subclass Cuenta ajena (Work Permit for Employed Persons) | Work residency sponsored by a Spanish employer, applicable to long-term employment. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly educated, high-paying third-country professionals, the entry threshold is higher but family reunification is favorable. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel Manager？**
-- 擅长服务与团队管理的人
-- 热爱旅游与酒店行业的人
-- 具备多语种能力的人
-
-**谁不适合学Hotel Manager？**
-- 不愿应对高强度工作压力的人
-- 不喜欢处理客户投诉和突发事件的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone skilled in service and team management
+- Passionate about the tourism and hotel industries
+- Individuals with multilingual abilities
+
+**Who is not suited**
+- People unwilling to handle high-intensity work pressure
+- People who dislike handling customer complaints and emergencies
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for hotel managers in Spain?**
+A: Junior: approximately €28,000–€35,000; mid-level: €36,000–€48,000; senior: €50,000–€70,000; chain hotels may offer higher.
+
+**Q: How can foreigners obtain a Spanish hotel manager work visa?**
+A: Requires employer sponsorship to apply for work residence (Cuenta ajena) or EU Blue Card, requiring qualifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Hotel Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hotel managers in Spain?**
-答：Entry-level around €28,000-35,000, mid-level €36,000-48,000, senior €50,000-70,000, higher in chain hotels.
-
-**问：How can foreigners obtain a work visa for hotel manager in Spain?**
-答：Require employer sponsorship, apply for Cuenta ajena or EU Blue Card, requiring degree and experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

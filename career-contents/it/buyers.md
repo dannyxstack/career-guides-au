@@ -1,60 +1,93 @@
-# Buyers（Buyers）职业分析 · IT
+# Buyers — career analysis · Italy
 
-**职业代码：3323 – Buyers。**
+**Occupation code: 3323 (ISCO08)**
 
-Buyers purchase goods and services for businesses or organizations, including sourcing suppliers, negotiating contracts, and managing procurement processes.
+Procurement officers are responsible for purchasing goods and services for enterprises or organizations, including finding suppliers, negotiating contracts, and managing the procurement process.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $2,000~$8,000（公立大学学费） |
-| 硕士 | 2年 | $3,000~$12,000（公立大学学费） |
+| Bachelor's degree | 3 years | $2,000~$8,000 (Public university tuition) |
+| Master's degree | 2 years | $3,000~$12,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采购与供应管理证书 | 意大利采购与供应管理协会 | 可选 | 可选认证，提升竞争力 |
-| 工商管理学位 | 大学 | 可选 | 常见要求 |
+| Certificate in Purchasing and Supply Management | Italian Purchasing and Supply Management Association | Optional | Optional certification to boost competitiveness |
+| Bachelor of Business Administration | University | Optional | Common requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 75,000。意大利采购员就业市场稳定，制造业和零售业需求较大，数字化转型推动采购效率提升。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 75,000. The job market for buyers in Italy is stable, with strong demand in manufacturing and retail, and digital transformation boosting procurement efficiency.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $39,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级采购员晋升为资深采购员、采购经理，或转向供应链管理、战略采购等职位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
+
+Can progress from junior buyer to senior buyer, purchasing manager, or move into supply chain management, strategic procurement, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically Analyze Public Property Data, Generate Market Reports and Comparable Sales Analysis
+- Automatically filtering property listings that match client criteria.
+- Basic clerical work, such as contract drafting and document filing
+- Initial customer inquiries and communication via chatbots
+
+**Where AI augments the role:**
+
+- Using AI tools for in-depth data analysis to quickly identify investment opportunities and market trends
+- Using AI to generate personalized property valuation models and investment reports
+- Enhance client communication efficiency and follow-up automation through CRM systems and AI chatbots
+- Virtual property tours and remote assessments to expand service coverage
+
+**Human moat:**
+
+- Build long-term client trust and reputation through relationship-based referral business
+- Complex negotiation strategies and psychological tactics, especially in multi-party bidding or difficult deals
+- On-site property inspection and detail insights (structure, community factors)
+- Experience-based judgment for non-standard properties (such as inherited properties, auction properties)
+
+**Skills to build:**
+
+- Data analysis and visualisation (Python, Tableau, Power BI)
+- AI tool applications (AI-driven valuation models, chatbots)
+- Customer relationship management (CRM systems and automated marketing)
+- Advanced negotiation skills and conflict resolution
+- Legal and compliance knowledge (state conveyancing regulations)
+- Digital marketing and social media customer acquisition skills
+
+**Key growth areas:**
 
 - Procurement
 - Supply Chain
@@ -63,66 +96,68 @@ Buyers purchase goods and services for businesses or organizations, including so
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及年薪至少约28,000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额签证，适用于非欧盟公民，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳工局申请工作许可，适用于各类工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a university degree and an annual salary of at least approximately €28,000. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota visa for non-EU citizens, requiring employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the Labour Department, applicable to all types of work. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Buyers？**
-- 善于谈判和沟通的人
-- 注重细节和分析能力的人
-- 对市场趋势敏感的人
+**Who is suited**
+- People skilled in negotiation and communication
+- Detail-oriented and analytical person
+- people sensitive to market trends
 
-**谁不适合学Buyers？**
-- 不喜欢频繁沟通和谈判的人
-- 缺乏组织能力和耐心的人
+**Who is not suited**
+- Not suitable for those who dislike frequent communication and negotiation
+- People lacking organizational skills and patience.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a buyer in Italy?**
+A: Entry-level buyer salary is approximately EUR 25,000-32,000, mid-level EUR 32,000-45,000, and senior can reach EUR 60,000.
+
+**Q: How can non-EU citizens immigrate to Italy as procurement officers?**
+A: Can immigrate via the EU Blue Card (requires a university degree and high salary) or the Decreto Flussi quota work visa (requires employer sponsorship).
+
+**Q: What is the career development outlook for procurement officers?**
+A: Can be promoted to procurement manager, supply chain manager, or transition to areas such as strategic procurement and contract management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Buyers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for buyers in Italy?**
-答：Entry-level buyers earn about €25,000-32,000, mid-level €32,000-45,000, and senior up to €60,000 annually.
-
-**问：How can non-EU citizens immigrate as buyers to Italy?**
-答：Via EU Blue Card (requires degree and high salary) or Decreto Flussi quota work visa (employer sponsorship).
-
-**问：What are the career prospects for buyers?**
-答：Promotion to procurement manager, supply chain manager, or transition to strategic sourcing, contract management.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

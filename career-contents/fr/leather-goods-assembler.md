@@ -1,62 +1,94 @@
-# Leather Goods Assembler（Leather Goods Assembler）职业分析 · FR
+# Leather Goods Assembler — career analysis · France
 
-**职业代码：H2401 – Leather Goods Assembler。**
+**Occupation code: H2401 (ROME)**
 
-Assembles cut leather and skins into finished goods such as bags, wallets, shoes, and other leather products using stitching, gluing, and riveting techniques.
+Responsible for assembling cut leather and leather materials into finished products such as bags, leather goods, and shoes through sewing, gluing, and riveting.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP皮革制品 | 2年 | —（公立学校免学费，注册费约100-500欧/年） |
-| BTS皮革制品与营销 | 2年 | —（公立学校免学费，材料费另计） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒工资为SMIC的25%-78%，企业承担培训费） |
+| CAP leather products | 2 years | $0~$1,500 (Public schools are tuition-free, with registration fees of about 100-500 euros per year) |
+| BTS leather goods and marketing | 2 years | $0~$2,000 (Public schools are exempt from tuition, but material fees are charged separately) |
+| Apprentissage | 1-2 years | $0~$0 (Apprenticeship wages range from 25% to 78% of SMIC's salary, with the company covering training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Maroquinerie | 法国教育部 | 可选 | 基础操作证书，非强制但普遍要求 |
-| BTS Métiers de la Mode - Maroquinerie | 法国教育部 | 可选 | 高级文凭，利于晋升管理岗 |
-| CQP Certificat de Qualification Professionnelle | 行业委员会 | 可选 | 职业资格认证，部分企业要求 |
+| CAP Maroquinerie | French Ministry of Education | Optional | Basic operation certificate, not mandatory but universally required |
+| BTS Métiers de la Mode - Maroquinerie | French Ministry of Education | Optional | Advanced diplomas are beneficial for promotion to management positions |
+| CQP Certificat de Qualification Professionnelle | Industry committee | Optional | Professional qualification certification, required by some enterprises |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 4,800。法国皮革制品行业以奢侈品牌和手工艺传承著称，但自动化普及导致低技能岗位缩减，高技能手工岗位需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,800. The French leather goods industry is renowned for its luxury brands and craftsmanship heritage, but the widespread automation has led to a reduction in low-skilled jobs and stable demand for high-skilled manual jobs.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，学徒后转正水平 |
-| 中级（3-8年） | $26,000~$32,000 | 熟练工或组长 |
-| 高级（8年以上） | $32,000~$40,000 | 技师或主管，奢侈品牌可达更高 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, apprenticeship promotion to full-time level |
+| Mid-level (3–8 years) | $26,000~$32,000 | Skilled workers or team leaders |
+| Senior (8+ years) | $32,000~$40,000 | Technicians or supervisors, luxury brands can reach even higher |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从装配工可晋升为打版师、样品师或生产主管；部分顶尖工匠可成为独立手工艺人或奢侈品牌专属技师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation tools will significantly reduce the demand for leather product assemblers, especially in standardized sewing, gluing, and cutting stages, but manual finishing and customization will still retain some positions.
+
+Assemblers can be promoted to pattern maker, sample master, or production supervisor; Some top artisans can become independent artisans or exclusive technicians for luxury brands.
+
+**Tasks most exposed to AI:**
+
+- Automated sewing machines replace standardized sewing tasks
+- Automatic lamination and riveting robots handle batch operations with the tube
+- AI visual inspection replaces manual quality checks
+- Smart cutting machines replace manual cutting steps
+
+**Where AI augments the role:**
+
+- AI optimizes leather layout and cutting plans to reduce waste
+- Digital twin simulates assembly processes to improve efficiency
+- Augmented reality assists in training new employees in assembly skills
+- AI analyzes customer preferences to assist in customized design
+
+**Human moat:**
+
+- Intricate and intricate hand-sewing and carving techniques
+- Intuitive judgment of material properties such as leather texture and elasticity
+- The skill of restoring and transforming old leather products
+- Soft skills for communicating customized needs with clients
+
+**Skills to build:**
+
+- Operate and maintain automated sewing and assembly equipment
+- Basic CAD software is used for pattern adjustments
+- Data analysis capabilities optimize production efficiency
+- Handcrafted finishing and high-end customization techniques
+- Materials Science Knowledge (Types and Treatments of Leather)
+
+**Key growth areas:**
 
 - luxury goods
 - artisan revival
@@ -65,62 +97,64 @@ Assembles cut leather and skins into finished goods such as bags, wallets, shoes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需雇主提供CDI合同且通过法国劳工局审核，岗位需在紧缺列表或证明无法招到本国人 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或艺术工艺人才，需提供项目或雇主证明 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employers must provide CDI contracts and pass review by the French Labor Bureau; positions must be listed in urgent demand or prove that domestic workers cannot be recruited |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or arts and crafts talents, requiring proof of project or employer |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leather Goods Assembler？**
-- 喜欢手工操作和精细工作
-- 有耐心、注重细节
-- 对皮革材料和工艺有浓厚兴趣
+**Who is suited**
+- Likes manual operations and fine work
+- Be patient and detail-oriented
+- Strong interest in leather materials and craftsmanship
 
-**谁不适合学Leather Goods Assembler？**
-- 不擅长重复性手工操作
-- 对胶水气味敏感或职业健康要求高
+**Who is not suited**
+- Not good at repetitive manual operations
+- Sensitive to glue odors or have high occupational health requirements
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for leather assemblers?**
+A: Junior annual salary approx. €22,000-26,000, intermediate approx. €26,000-32,000, senior technician up to €32,000-40,000. Luxury brands or self-employed craftspeople may earn more.
+
+**Q: Can third-country citizens go to France as leather assemblers through skilled migration?**
+A: The difficulty is quite high. This position is not a shortage occupation and requires employers to prove that EU citizens cannot be recruited. You can try the Salarié work visa or Passeport Talent (Arts and Crafts direction), but the approval rate is relatively low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Leather Goods Assembler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for leather goods assemblers?**
-答：Entry-level annual salary ranges from €22,000 to €26,000, mid-level from €26,000 to €32,000, and senior technicians can earn €32,000 to €40,000. Luxury brands or self-employed artisans may earn more.
-
-**问：Can third-country nationals immigrate to France as leather goods assemblers?**
-答：It is difficult. This occupation is not in shortage; employers must prove inability to hire EU citizens. Options include Salarié work permit or Passeport Talent (artisan track), but approval rates are low.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

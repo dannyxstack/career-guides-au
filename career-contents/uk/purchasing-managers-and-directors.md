@@ -1,59 +1,95 @@
-# Purchasing managers and directors（Purchasing managers and directors）职业分析 · UK
+# Purchasing managers and directors — career analysis · United Kingdom
 
-**职业代码：1134 – Purchasing managers and directors。**
+**Occupation code: 1134 (SOC)**
 
-Plan, organise, direct and coordinate purchasing functions of industrial, commercial, government and public organisations to ensure cost-effectiveness.
+Responsible for planning, organizing, and coordinating procurement functions in industrial, commercial, government, and public organizations to ensure cost-effectiveness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（采购/供应链/商科） | 3年 | $15,000~$30,000（国际生学费每年约£15,000-£30,000） |
-| 硕士（供应链管理） | 1年 | $18,000~$35,000（国际生学费每年约£18,000-£35,000） |
+| Bachelor's degree (procurement/supply chain/business) | 3 years | $15,000~$30,000 (International student tuition approximately £15,000-£30,000 per year) |
+| Master's (Supply Chain Management) | 1 year | $18,000~$35,000 (International student tuition fees approximately £18,000-£35,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CIPS 采购与供应文凭 | 英国皇家采购与供应学会 (CIPS) | 可选 | 行业认可的专业资格，分为4-6级 |
-| MCIPS 认证 | CIPS | 可选 | 特许采购与供应专业人士，高级别认证 |
-| 商科学士学位 | 英国大学 | 可选 | 通常要求相关学位 |
+| CIPS Diploma in Procurement and Supply | Chartered Institute of Procurement & Supply (CIPS) | Optional | Industry-recognised professional qualifications, divided into Level 4-6 |
+| MCIPS certification | CIPS | Optional | Chartered Procurement and Supply Professional, senior certification |
+| Bachelor of Commerce | UK universities | Optional | Usually requires a relevant degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。随着供应链复杂化及成本控制压力增大，采购经理需求稳定。英国脱欧后国际贸易规则变化带来新挑战，但整体就业前景良好，预计2020-2030年增长约5%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. With increasing supply chain complexity and cost control pressures, demand for procurement managers remains stable. Post-Brexit changes in international trade rules bring new challenges, but overall employment prospects are good, with an estimated growth of about 5% from 2020 to 2030.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 助理采购经理或初级采购员 |
-| 中级（3-7年） | $35,000~$55,000 | 采购经理 |
-| 高级（7年以上） | $55,000~$90,000 | 采购总监或集团采购负责人 |
+| Median salary | $58,005 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Assistant procurement manager or junior procurement officer |
+| Mid-level (3–7 years) | $35,000~$55,000 | Procurement Manager |
+| Senior (7+ years) | $55,000~$90,000 | Procurement Director or Group Procurement Manager |
+| average salary | $64,733 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从采购员或采购分析师起步，晋升为采购经理、高级经理，最终成为采购总监。可转向供应链管理、运营管理等领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI on procurement manager roles is mixed: automation will handle data entry, order tracking, etc., but strategic negotiation, supplier relationship management, and complex decisions still rely on human judgment, overall risk is manageable.
+
+Usually start as a purchasing officer or purchasing analyst, advance to purchasing manager, senior manager, and eventually become purchasing director. Can transition to supply chain management, operations management, and other fields.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and sending of purchase orders (POs)
+- Using RPA to Track Order Status and Update Logistics Information
+- Automatic supplier performance scoring based on historical data
+- Automatically compare prices and terms using AI tools to generate basic contracts
+- Use chatbots to handle routine supplier inquiries
+
+**Where AI augments the role:**
+
+- AI analyzes market data to assist in procurement strategy and pricing negotiation
+- Use predictive tools to optimize inventory management and demand planning
+- AI-driven supplier risk assessment and compliance review
+- monitor supply chain performance in real time using data visualization tools
+- Uses natural language processing to quickly extract key contract clauses
+
+**Human moat:**
+
+- Complex contract negotiation and relationship management
+- Cross-departmental coordination and strategic planning
+- Supply chain crisis management and decision-making
+- Ethical and compliance judgment
+- Design of innovative procurement models.
+
+**Skills to build:**
+
+- Supply chain data analysis and visualization (e.g., Power BI, Tableau)
+- AI/machine learning application knowledge (e.g., inventory forecasting models)
+- Use of RPA tools (e.g., UiPath)
+- Procurement platforms and ERP systems (e.g., Coupa, SAP Ariba)
+- Contract lifecycle management (e.g., Icertis)
+- strategic negotiation and leadership
+
+**Key growth areas:**
 
 - Supply Chain Resilience
 - Cost Optimization
@@ -62,69 +98,68 @@ Plan, organise, direct and coordinate purchasing functions of industrial, commer
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 雇主担保，适用符合薪资和技能要求的申请人，该职业在可担保清单上。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在采购领域有杰出成就或潜力的申请人，需获认可。 |
-| Subclass Scale-up（Scale-up Worker Visa） | 适用于快速成长企业的招聘，需满足薪资要求。 |
-| Subclass Graduate（Graduate Visa） | 英国高校毕业生可申请，留英工作2年（博士3年）。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Employer-sponsored, applicable to applicants meeting salary and skill requirements, with the occupation on the eligible list. |
+| Subclass Global Talent (Global Talent Visa) | Suitable for applicants with outstanding achievements or potential in the procurement field, must be recognized. |
+| Subclass Scale-up (Scale-up Worker Visa) | Suitable for recruitment in fast-growing enterprises, must meet salary requirements. |
+| Subclass Graduate (Graduate Visa) | UK university graduates can apply and work in the UK for 2 years (3 years for PhD holders). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Purchasing managers and directors？**
-- 具备谈判和数据分析能力的人
-- 对供应链和成本控制有兴趣的人
-- 有商业头脑和战略思维的人
-
-**谁不适合学Purchasing managers and directors？**
-- 不擅长与人沟通和谈判的人
-- 对细节和数字不敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with negotiation and data analysis skills
+- People interested in supply chain and cost control
+- People with business acumen and strategic thinking
+
+**Who is not suited**
+- People not good at communication and negotiation.
+- People not sensitive to details and numbers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a procurement manager?**
+A: UK Procurement Manager salary approx £35,000-£55,000, senior roles can reach over £90,000.
+
+**Q: Can a procurement manager apply for a UK Skilled Worker visa?**
+A: Yes, this occupation is on the Skilled Worker eligible list, subject to salary and employer sponsorship requirements.
+
+**Q: What qualifications are required for a procurement manager?**
+A: CIPS Diploma in Procurement and Supply (MCIPS certified) is highly recommended but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Purchasing managers and directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a purchasing manager?**
-答：UK purchasing managers earn around £35,000-£55,000, with senior roles up to £90,000+.
-
-**问：Can a purchasing manager apply for a UK Skilled Worker visa?**
-答：Yes, this occupation is on the eligible list, subject to salary and sponsorship requirements.
-
-**问：What qualifications are needed for a purchasing manager?**
-答：CIPS Diploma in Procurement and Supply (MCIPS) is highly recommended but not mandatory.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

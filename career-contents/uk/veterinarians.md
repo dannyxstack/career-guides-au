@@ -1,59 +1,93 @@
-# Veterinarians（Veterinarians）职业分析 · UK
+# Veterinarians — career analysis · United Kingdom
 
-**职业代码：2240 – Veterinarians。**
+**Occupation code: 2240 (SOC)**
 
-Veterinarians diagnose and treat animal diseases and injuries, provide preventive care, and work in practices, public health, or related industries like pharmaceuticals and food production.
+Veterinarians diagnose and treat animal diseases, injuries, and disorders, provide preventive advice, and work in clinics, the public sector, or the pharmaceutical/food industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（兽医学） | 5年 | $45,000~$90,000（英国本科国际学生年均学费£9,000-£18,000） |
-| 研究生（兽医学硕士） | 2年 | $30,000~$60,000（针对已有相关学位的学生） |
+| Bachelor's degree (Veterinary Medicine) | 5 years | $45,000~$90,000 (Annual tuition for international undergraduate students in the UK: £9,000–£18,000) |
+| Postgraduate (Master of Veterinary Medicine). | 2 years | $30,000~$60,000 (For students who already have a relevant degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医学位（BVSc/BVMS/DVM） | 皇家兽医学院（RCVS）认证的大学 | 必备 | 必须从RCVS认证的课程毕业 |
-| RCVS注册 | 皇家兽医学院（RCVS） | 必备 | 所有英国执业兽医必须注册 |
-| 进修证书（CertAVP） | RCVS | 可选 | 可选，用于专业领域认证 |
+| Veterinary degree (BVSc/BVMS/DVM) | Universities accredited by the Royal College of Veterinary Surgeons (RCVS) | Required | Must graduate from an RCVS-accredited program. |
+| RCVS registration | Royal College of Veterinary Surgeons (RCVS) | Required | All practicing veterinarians in the UK must be registered |
+| Certificate of Advanced Veterinary Practice (CertAVP) | RCVS | Optional | Optional, for professional area certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 16,000。英国兽医就业前景良好，宠物数量增长和动物福利关注度提升推动需求。政府卫生部门及食品行业也需要兽医监督。
+**Job demand: very high (★★★★½).** National workforce approx. 16,000. Veterinary employment prospects in the UK are strong, driven by growing pet numbers and increased focus on animal welfare. Government health departments and the food industry also require veterinary supervision.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 刚注册的兽医年薪约£30,000-£35,000 |
-| 中级（3-8年） | $40,000~$60,000 | 有经验的兽医年薪£40,000-£60,000 |
-| 高级（8年以上） | $65,000~$100,000 | 高级兽医或合伙人年薪可达£65,000-£100,000+ |
+| Median salary | $51,058 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $30,000~$35,000 | Newly registered veterinarians earn approx. £30,000-£35,000 per year |
+| Mid-level (3–8 years) | $40,000~$60,000 | Experienced veterinarians earn £40,000-£60,000 per year |
+| Senior (8+ years) | $65,000~$100,000 | Senior veterinarian or partner annual salary up to £65,000-100,000+ |
+| average salary | $54,215 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括从普通兽医晋升为高级兽医、诊所合伙人，或转向研究、公共卫生、监管机构等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
+
+Career progression paths include moving from general veterinarian to senior veterinarian, clinic partner, or transitioning to specialized fields such as research, public health, and regulatory agencies.
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation and report generation of routine imaging (X-ray, ultrasound)
+- Data analysis for basic laboratory tests (blood, urine analysis)
+- Standardized administrative tasks like vaccination reminders and client follow-ups
+- Routine symptom recognition and classification in pet health monitoring.
+
+**Where AI augments the role:**
+
+- Using AI image analysis to improve diagnostic accuracy in complex cases
+- Remote monitoring and wearable devices enable continuous chronic disease management
+- Personalized treatment plans based on big data analysis (e.g., dose optimization)
+- AI-assisted surgical navigation and robotic operations improve surgical precision
+
+**Human moat:**
+
+- On-the-spot judgment and hand-eye coordination in complex surgeries
+- Cross-species clinical reasoning and comprehensive diagnosis of rare cases
+- Client communication requiring empathy, end-of-life care, and psychological support.
+- Practitioner responsibility: bear ultimate decision-making and legal consequences for treatment plans
+- Ergonomic adjustment and real-time titration of drugs and anesthetics.
+
+**Skills to build:**
+
+- Use and result verification of AI imaging diagnostic tools
+- Telehealth platform operation and data analysis
+- Basic data science (Python/R) integrated with clinical data
+- Animal welfare and ethical decision-making skills
+- Advanced cross-species pathophysiology knowledge
+- Customer relationship management (CRM) and digital communication skills
+
+**Key growth areas:**
 
 - Animal health
 - Food safety
@@ -62,68 +96,67 @@ Veterinarians diagnose and treat animal diseases and injuries, provide preventiv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的合格兽医，满足薪资和英语要求 |
-| Subclass Health & Care（Health and Care Worker visa） | 针对医疗保健专业人员，享有简化流程和较低费用 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可获得2年（本科/硕士）或3年（博士）工作签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | For eligible veterinarians obtaining employer sponsorship, meeting salary and English requirements. |
+| Subclass Health & Care (Health and Care Worker visa) | For healthcare professionals, streamlined process and lower fees |
+| Subclass Graduate (Graduate visa) | UK graduates can get a 2-year (bachelor's/master's) or 3-year (PhD) work visa |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarians？**
-- 热爱动物，有耐心和同理心
-- 具备科学思维和问题解决能力
-- 能承受情绪压力和处理客户沟通
-
-**谁不适合学Veterinarians？**
-- 无法面对动物安乐死或病痛场景
-- 不适应长时间站立和不规律工作时间
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about animals, patient and empathetic
+- Possess scientific thinking and problem-solving skills
+- Able to withstand emotional pressure and handle customer communication
+
+**Who is not suited**
+- Unable to cope with animal euthanasia or scenes of illness/injury
+- Unsuitable for long hours of standing and irregular work schedules
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a veterinarian in the UK?**
+A: Junior veterinarians earn around £30k-£35k, experienced vets can earn £60k-£100k+ annually, depending on experience and specialization.
+
+**Q: How can international veterinarians migrate to the UK?**
+A: Available via Skilled Worker or Health and Care Worker visa, requires employer sponsorship, RCVS registration, and English proficiency proof.
+
+**Q: Are foreign veterinary degrees recognized in the UK?**
+A: Must pass RCVS qualification assessment; degrees from some countries (e.g. USA, Australia) may be directly recognised, otherwise additional exams required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Veterinarians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinarians in the UK?**
-答：Entry-level veterinarians earn around £30k-£35k, while experienced vets can earn £60k-£100k+, depending on experience and specialization.
-
-**问：How can international veterinarians migrate to the UK?**
-答：Via Skilled Worker or Health and Care Worker visa, requiring employer sponsorship, RCVS registration, and English proficiency.
-
-**问：Are foreign veterinary degrees recognized in the UK?**
-答：Recognized after RCVS assessment; degrees from some countries (e.g., US, Australia) may be accepted directly, others require additional exams.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

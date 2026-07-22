@@ -1,61 +1,95 @@
-# Supervisor - Industrial Ceramics Manufacturing and Processing（Supervisor - Industrial Ceramics Manufacturing and Processing）职业分析 · DE
+# Supervisor - Industrial Ceramics Manufacturing and Processing — career analysis · Germany
 
-**职业代码：2149 – Supervisor - Industrial Ceramics Manufacturing and Processing。**
+**Occupation code: 2149 (KldB)**
 
-Supervises industrial ceramics production processes, ensures quality and efficiency, coordinates team work, and optimizes manufacturing techniques.
+Responsible for overseeing industrial ceramics production, ensuring quality and efficiency, coordinating team work, and optimizing manufacturing processes.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（培训期间有津贴） |
-| 进修大师班 | 1-2年 | $2,000~$5,000（部分费用可获资助） |
+| Dual system training | 3 years | $0~$0 (Allowance during training) |
+| Advanced Masterclass | 1-2 years | $2,000~$5,000 (Some fees may be subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 陶瓷技术专家认证 | 德国工商会 (IHK) | 必备 | 通常需完成双元制培训 |
-| 工业大师资格 | 德国工商会 (IHK) | 可选 | 晋升主管的普遍要求 |
-| 职业资质认证 | 德国联邦职业资格认证机构 | 必备 | 第三国学历需经Anerkennung程序 |
+| Ceramic Technology Specialist Certification | German Chamber of Commerce and Industry (IHK) | Required | Usually requires completion of dual-system training |
+| Professional qualification certification | German Federal Agency for Vocational Qualifications | Required | Qualifications from third countries require the Anerkennung procedure |
+| Industrial master qualification | German Chamber of Commerce and Industry (IHK) | Optional | Common requirement for promotion to supervisor |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。德国制造业持续数字化，陶瓷行业对高技能主管需求稳定，尤其在新材料领域有增长潜力。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 15,000. Germany's manufacturing sector continues to digitize; demand for skilled supervisors in the ceramics industry remains stable, with growth potential in new materials.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $42,000~$52,000 | 税前年薪 |
-| 高级（7年以上） | $52,000~$65,000 | 税前年薪，含主管津贴 |
+| Median salary | $42,708 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $42,000~$52,000 | Annual pre-tax salary |
+| Senior (7+ years) | $52,000~$65,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $47,400 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可晋升为生产经理或技术专家，通过继续教育获得大师资格（Meister）提升管理职能。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of industrial ceramics manufacturing and processing supervisors will face a mixed impact from AI: automation will take over repetitive tasks such as quality inspection and process monitoring, while AI tools can enhance optimization scheduling, predictive maintenance, and defect analysis. On-site coordination, emergency handling, and people management remain human moats.
+
+Can be promoted to production manager or technical expert, and obtain master's qualification (Meister) through continuing education to enhance management functions.
+
+**Tasks most exposed to AI:**
+
+- Use AI vision systems to automatically detect surface defects on ceramic products, replacing manual quality inspection.
+- Monitor kiln temperature, pressure, and other parameters in real-time using sensors and machine learning, automatically adjusting processes
+- Simulating firing processes through digital twins, replacing some trial-and-error experiments.
+- Automatically generate production reports and quality analysis, replacing manual data sorting.
+
+**Where AI augments the role:**
+
+- AI-assisted scheduling system optimises production sequence for high-mix low-volume manufacturing, improving efficiency
+- Predicts equipment failures based on historical data, reducing downtime
+- Analyze defect causes through machine learning to assist process improvement
+- Using augmented reality (AR) to provide remote expert guidance to teams
+- AI tool for quickly screening ceramic formula combinations
+
+**Human moat:**
+
+- On-site emergency issue handling, such as manual judgment and coordination during kiln abnormalities
+- Team management and motivation, cross-departmental communication, understanding custom client needs
+- Intuition and experience in process innovation, especially in developing new ceramic materials
+- Make decisions on exceptions that automated systems cannot handle, within a compliance and safety framework
+
+**Skills to build:**
+
+- Basics of data analytics and awareness of the Industrial Internet of Things (IIoT)
+- Application of supervised machine learning in quality prediction
+- Digital production scheduling and MES system operation
+- Basics of process simulation software (e.g., ANSYS, COMSOL)
+- Cross-cultural communication and digital team management
+- Basic programming (Python/R) for data processing
+
+**Key growth areas:**
 
 - Ceramics Industry
 - Industrial Manufacturing
@@ -64,66 +98,65 @@ Supervises industrial ceramics production processes, ensures quality and efficie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于具有认可职业资质的技术移民 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪达到阈值，通常为紧缺职业 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，可试工 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled migrants with recognized occupational qualifications |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary needs to meet the threshold, usually for shortage occupations |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing trial work |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor - Industrial Ceramics Manufacturing and Processing？**
-- 喜欢动手操作与流程管理
-- 有制造业或陶瓷行业相关经验
-- 愿意接受双元制培训或职业进修
-
-**谁不适合学Supervisor - Industrial Ceramics Manufacturing and Processing？**
-- 不适应倒班或生产线高强度工作
-- 不熟悉德语环境下的技术沟通
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work and process management
+- Experience in manufacturing or the ceramics industry
+- Willing to participate in dual vocational training or professional development
+
+**Who is not suited**
+- Unable to adapt to shift work or high-intensity production line work
+- Technical communication in unfamiliar German-speaking environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Germany?**
+A: Entry-level annual salary is approximately 32,000–40,000 euros, experienced supervisors can earn 52,000–65,000 euros, depending on region and company size.
+
+**Q: How can foreigners immigrate to work in this occupation?**
+A: Professional qualification recognition (Anerkennung) required, meeting German B1/B2 language requirement; eligible for skilled migration visa or opportunity card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisor - Industrial Ceramics Manufacturing and Processing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Germany?**
-答：Entry-level salary is around €32,000-€40,000 per year, experienced supervisors can earn €52,000-€65,000, depending on region and company size.
-
-**问：How can foreigners immigrate for this occupation?**
-答：Requires professional qualification recognition (Anerkennung), German B1/B2 language skills, and can apply for skilled worker visa or Opportunity Card.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

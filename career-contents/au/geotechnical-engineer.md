@@ -1,127 +1,162 @@
-# Geotechnical Engineer（Geotechnical Engineer）职业分析 · 澳大利亚
+# Geotechnical Engineer — career analysis · Australia
 
-**职业代码：233212 – Geotechnical Engineer。**
+**Occupation code: 233215 (ANZSCO)**
 
-Geotechnical engineers analyze soil, rock, and groundwater conditions to provide foundation design and construction recommendations for buildings, tunnels, dams, and slopes, ensuring structural safety and stability.
+Geotechnical engineers focus on the analysis of soil, rock and subsurface conditions, providing specialist design for building foundations, tunnels, mine slopes and coastal protection works. Sustained investment in Australia's mining, infrastructure and resources sectors means this occupation faces ongoing shortages, and chartered engineers (CPEng/RPEQ) are highly competitive in terms of salary.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（学费每年约3-4.5万澳元（国际学生）） |
-| 硕士 | 1-2年 | $35,000~$50,000（学费每年约3.5-5万澳元（国际学生）） |
+| Bachelor of Civil/Geotechnical Engineering | 4 years | $32,000~$55,000 (International students approx. $160k–$200k total course cost) |
+| Engineers Australia Competency Assessment | 2–5 years of work experience | $500~$2,000 (MIEAust/CPEng application) |
+| RPEQ / State Engineer Registration | Depends on the state | $500~$2,000 (Required for independent certification and stamping) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士（岩土工程或土木工程方向） | 澳大利亚工程师协会（Engineers Australia）认证课程 | 必备 | EA认证的本科学位是成为职业工程师的基础 |
-| 注册工程师（Chartered Professional Engineer） | 澳大利亚工程师协会（Engineers Australia） | 可选 | CPEng是高级职位的重要资质，通常需3-5年工作经验 |
+| Bachelor of Civil/Geotechnical Engineering | Recognised university | Required | Foundation for entering the industry |
+| MIEAust / CPEng | Engineers Australia | Optional | Professional member / practising engineer |
+| RPEQ (QLD) / REC | State engineering boards | Optional | Independent licensed practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,500。澳洲基础设施投资持续增长，矿业和能源项目活跃，岩土工程师需求强劲。未来五年就业预计稳步增长，尤其在西澳、昆州和新南威尔士州。
+**Job demand: very high (★★★★★).** National workforce approx. 8,000. Investment in Australian underground infrastructure projects (rail, dams, mines) will exceed $50 billion from 2025–2030, sustaining strong demand for geotechnical engineers. Growing risks of landslides and coastal erosion due to climate change are also driving specialist demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 常见起薪范围 |
-| 中级（3-8年） | $90,000~$120,000 | 随项目经验增长 |
-| 高级（8年以上） | $130,000~$180,000 | 含管理职责或专业咨询 |
+| Median salary | $115,284 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $75,000~$95,000 | Graduate Engineer |
+| Mid-level (3–8 years) | $100,000~$140,000 | Project Engineer |
+| Senior (8+ years) | $145,000~$200,000 | Principal/CPEng |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 通常从项目工程师起步，积累经验后晋升为高级工程师、项目经理或技术主管；也可向岩土咨询、岩土数据分析或学术方向转型，或成为注册工程师（CPEng）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
 
-- Infrastructure boom
-- Mining & energy
-- Renewable energy projects
-- Geotechnical data analytics
+GIS technology and 3D geological modelling are becoming widespread, and automated monitoring equipment is reducing on-site workload, but engineering judgement and certification responsibilities still require a licensed geotechnical engineer. Salaries carry a clear premium in underground engineering and mining geotechnical specialisations.
+
+**Tasks most exposed to AI:**
+
+- Automatic organization of geological exploration data and generation of preliminary layering reports
+- Standard calculations for geotechnical test results (e.g., bearing capacity, settlement)
+- Automatic layout and code compliance checking of common excavation support schemes
+- Geotechnical parameter sensitivity analysis and foundation recommendations
+- Automatic alerts and report generation from on-site monitoring data
+
+**Where AI augments the role:**
+
+- AI-assisted 3D geological modeling for rapid multi-scenario risk comparison
+- Use machine learning to predict slope failure probability and seepage paths
+- Automatically generate geotechnical parameter statistical distributions to optimize design value selection
+- Real-time integration of monitoring data and numerical simulation to dynamically adjust construction recommendations
+- Smart document assistant drafts geotechnical engineering reports, manually polished for compliance
+
+**Human moat:**
+
+- Engineering judgement and disposal decisions for complex site conditions (e.g. karst caves, faults)
+- Assume legal practice responsibility, sign design documents and risk identification
+- Cross-disciplinary (structural, geotechnical, construction) communication and field coordination
+- Understanding the physical mechanisms behind compliance standards and applying for exemptions
+- Emergency plan development for sudden incidents (e.g. pit collapse)
+
+**Skills to build:**
+
+- Proficient in PLAXIS/FLAC3D coupled with Python/Grasshopper simulation
+- Learn machine learning basics to build geotechnical parameter prediction models.
+- Proficient in using automated monitoring platforms (e.g., Geokon Data Visualization)
+- Understand digital twin concepts, able to participate in BIM geological model construction
+- Strengthening geotechnical risk management and preparing for registration exams (CPEng/RPEQ)
+- Learn GIS and remote sensing techniques for regional geological assessment
+
+**Key growth areas:**
+
+- Mining Infrastructure
+- Tunnelling & Underground Works
+- Coastal & Flood Management
+- Renewable Energy Foundations
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立签证，适用MLTSSL职业列表，可永久居留 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，各州针对岩土工程有担保名额 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，满足条件后可转186永居 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; engineering shortage occupation |
+| Subclass 186 (ENS) | Permanent residency pathway, engineering shortage occupation |
+| Subclass 190 (Skilled Nominated) | State nomination, open across multiple states |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geotechnical Engineer？**
-- 喜欢户外和现场工作，动手能力强且注重安全
-- 数学和物理基础扎实，善于解决复杂工程问题
-
-**谁不适合学Geotechnical Engineer？**
-- 不喜欢频繁出差或工地环境
-- 对土壤、岩石等自然材料不感兴趣
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Candidates with a geotechnical/civil engineering background
+- Those who enjoy combining outdoor fieldwork with laboratory work
+- Those interested in mining or infrastructure construction
+
+**Who is not suited**
+- Those who cannot tolerate travel and fieldwork
+- Prefers purely office-based workers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a geotechnical engineer in Australia?**
+A: Junior approx. AUD 75k–95k, intermediate AUD 100k–140k, senior licensed engineer up to AUD 145k–200k. Mining projects offer significant salary premiums.
+
+**Q: Is it easy for geotechnical engineers to find work in Australia?**
+A: It is a long-term shortage occupation, with Seek consistently listing 150–250 active positions. Demand is strongest in WA and QLD mining regions and NSW/VIC infrastructure projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Geotechnical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a geotechnical engineer in Australia?**
-答：Junior: AUD 65,000-85,000; mid-senior: AUD 130,000-180,000, with mining project allowances.
-
-**问：Is it easy for geotechnical engineers to migrate to Australia?**
-答：Yes, it's on the MLTSSL, eligible for 189/190/491 visas, with ongoing shortage, making migration relatively straightforward.
-
-**问：What are the long-term career prospects for geotechnical engineers?**
-答：Advance to project manager, technical director, or independent consultant; transition into civil engineering management or mining engineering.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

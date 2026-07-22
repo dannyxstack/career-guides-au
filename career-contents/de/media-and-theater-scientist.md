@@ -1,60 +1,92 @@
-# Media and Theater Scientist（Media and Theater Scientist）职业分析 · DE
+# Media and Theater Scientist — career analysis · Germany
 
-**职业代码：9124 – Media and Theater Scientist。**
+**Occupation code: 9124 (KldB)**
 
-Researches media and theater theory, analyzing media phenomena, theatrical works, and their social impact. Typically works in academia or research, but may also engage in cultural management and media analysis.
+Conducts media and theater theory research, analyzing media phenomena, theatrical works, and their social impacts, typically working at universities or research institutions, and may also work in practical fields such as cultural management and media analysis.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 3-4年（大学） | —（德国公立大学基本免学费，仅收注册费） |
-| 硕士学位 | 1-2年（大学） | —（公立大学免学费，部分硕士项目收费） |
-| 博士学位 | 3-5年（大学） | —（博士职位通常带薪，需完成研究论文） |
+| Bachelor's degree | 3-4 years (university) | $0~$0 (German public universities are generally tuition-free, only charging registration fees.) |
+| Master's degree | 1-2 years (university) | $0~$0 (Public universities are tuition-free, with some master's programs charging fees) |
+| Doctoral degree (PhD) | 3-5 years (university) | $0~$0 (Doctoral positions are usually paid and require completion of a research thesis.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体学或戏剧学硕士学位 | 大学 | 必备 | 通常要求相关专业硕士毕业 |
-| 博士学位 | 大学 | 可选 | 大学教职通常要求博士 |
-| 资质认证（国外学历） | 德国学历认证机构 | 必备 | 非欧盟学历需申请评估 |
+| Master's degree in media studies or theater studies | University | Required | Typically requires a relevant master's degree |
+| Qualification certification (foreign education) | German credential evaluation body | Required | Non-EU qualifications require assessment |
+| Doctoral degree (PhD) | University | Optional | University faculty positions typically require a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 15,000。德国媒体与戏剧领域就业竞争较为激烈，长期职位多集中在大学、研究机构和大型文化机构。数字化和跨媒体趋势创造了新的研究岗位，但整体需求平稳。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. The German media and theater sector is highly competitive, with long-term positions mostly concentrated in universities, research institutions, and large cultural organizations. Digitalisation and cross-media trends have created new research positions, but overall demand remains stable.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 研究助理或初级研究员 |
-| 中级（4-7年） | $45,000~$60,000 | 讲师或资深研究员 |
-| 高级（8年以上） | $60,000~$80,000 | 教授或高级文化管理者 |
+| Median salary | $62,088 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research assistant or junior researcher |
+| Mid-level (4-7 years) | $45,000~$60,000 | Lecturer or senior researcher |
+| Senior (8+ years) | $60,000~$80,000 | Professor or senior cultural manager |
+| average salary | $62,652 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 典型晋升路径：研究助理→讲师→教授，或从研究人员转向文化项目管理、媒体咨询等应用领域。学术职位要求博士学历及发表记录。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Theoretical analysis, textual interpretation, and creative teaching by media and drama scholars are hard to replace by AI, but literature reviews, data sorting, and presentation formatting are easily automated. Overall risk is moderate, with both opportunities and challenges.
+
+Typical career path: research assistant → lecturer → professor, or shift from researcher to applied fields like cultural project management, media consulting. Academic roles require PhD and publication record.
+
+**Tasks most exposed to AI:**
+
+- Literature review and preliminary text sorting (AI can quickly summarize and cluster)
+- Administrative tasks like meeting minutes and presentation slide formatting
+- Basic data coding and statistics (e.g., survey data)
+- Basic teaching courseware generation (AI can automatically create lesson plans)
+
+**Where AI augments the role:**
+
+- Quickly search and analyze large volumes of media texts/scripts to uncover hidden patterns
+- Use AI to generate multimodal materials (images, audio) to assist theory explanation
+- Automated translation and cross-cultural comparison (AI can handle multilingual literature)
+- Simulated audience feedback, theatrical effect prediction, aiding creative analysis
+
+**Human moat:**
+
+- Critical interpretation of the work's deeper cultural/social meaning
+- Holistic insights combining performance, ritual, and non-textual elements
+- Academic innovation and theoretical construction of papers/works
+- Improvised interaction and heuristic guidance in face-to-face teaching activities
+
+**Skills to build:**
+
+- AI-assisted research tools (literature management, text mining)
+- Data Visualization and Digital Humanities Methods
+- Basic programming (Python/R) for text analysis
+- Interdisciplinary integration (e.g. media psychology, digital sociology)
+- Creative generation and AI co-creation (e.g., generative AI for teaching)
+
+**Key growth areas:**
 
 - Digital Media
 - Cultural Management
@@ -63,68 +95,67 @@ Researches media and theater theory, analyzing media phenomena, theatrical works
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合博士或硕士学历，年薪达标（2025年需约43,800欧元） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适合得到大学或研究机构职位，学历需匹配 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适合来德国寻找工作或实习机会 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for PhD or master's degree, annual salary meets requirement (approximately €43,800 in 2025) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for university or research institution positions; qualification level must match. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for coming to Germany to seek a job or internship opportunity |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Media and Theater Scientist？**
-- 热爱学术研究和理论分析
-- 对媒体文化和戏剧艺术有浓厚兴趣
-- 具备较强的写作和批判思维能力
-
-**谁不适合学Media and Theater Scientist？**
-- 期望稳定且高薪的职业
-- 不喜欢长期学术竞争和不稳定合同
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about academic research and theoretical analysis
+- Strong interest in media culture and theatre arts
+- Strong writing and critical thinking skills
+
+**Who is not suited**
+- Looking for stable and high-paying careers
+- Dislikes long-term academic competition and unstable contracts.
+
+---
+
+## 8. FAQ
+
+**Q: How much do media and drama scholars earn?**
+A: Salaries for German media and theatre scholars are moderate to low; entry-level positions around €35,000-45,000, professor-level up to €60,000-80,000. Salaries vary by employer (university vs. research institute) and region.
+
+**Q: How can third-country nationals immigrate to Germany for media and theater studies?**
+A: Eligible via EU Blue Card (requires PhD and high salary) or skilled migration visa (requires work contract). Qualifications need German recognition (Anerkennung). The Opportunity Card is also suitable for job seeking.
+
+**Q: What are the career prospects for this occupation?**
+A: Academic positions are highly competitive with limited tenure-track roles. It is recommended to build interdisciplinary skills and pivot to applied fields such as cultural management or media analysis to increase employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Media and Theater Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for media and theater scientists?**
-答：Salaries are moderate to low, with entry-level positions around EUR 35,000-45,000, and professors earning EUR 60,000-80,000. Varies by employer type and region.
-
-**问：How can third-country nationals immigrate to Germany for media and theater research?**
-答：Via EU Blue Card (PhD and higher salary) or Skilled Worker visa (job offer). Foreign degrees require recognition (Anerkennung). Opportunity Card is also an option for job search.
-
-**问：What are the career prospects?**
-答：Academic positions are competitive with limited tenure. Building interdisciplinary skills and transitioning to cultural management or media analysis can improve prospects.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

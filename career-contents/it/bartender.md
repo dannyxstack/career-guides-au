@@ -1,61 +1,96 @@
-# Bartender（Bartender）职业分析 · IT
+# Bartender — career analysis · Italy
 
-**职业代码：5132 – Bartender。**
+**Occupation code: 5132 (ISCO08)**
 
-Bartenders prepare and serve alcoholic beverages in bars, restaurants, and other venues, interact with customers, and maintain the bar area, playing a key role in Italy's hospitality sector.
+Bartenders are responsible for preparing and serving alcoholic beverages in bars, restaurants, and other venues, interacting with customers, and maintaining the bar area. This is a core role in the Italian hospitality and food service industry.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 6个月至1年 | $1,000~$3,000（调酒学校或培训班学费） |
-| 高中毕业 | 无需 | —（入门要求仅为高中文凭） |
+| Vocational training | 6 months to 1 year | $1,000~$3,000 (Tuition fees for bartending schools or training courses) |
+| High school graduation | None | $0~$0 (Entry requirement is only a high school diploma) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 调酒师证书 | 意大利调酒师协会（AIBES） | 可选 | 非强制，但有助于就业 |
-| 食品安全培训 | 各地区卫生局 | 必备 | 处理食品和饮料时可能需要 |
-| 酒精服务许可证 | 当地警察局 | 必备 | 经营酒吧或负责酒精销售时需持有 |
+| Food safety training | Regional health bureaus | Required | May be required when handling food and beverages |
+| Alcohol Service Permit | Local police department | Required | Required when operating a bar or responsible for alcohol sales |
+| Bartender certificate | Italian Association of Bartenders (AIBES) | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。意大利旅游业持续复苏，餐饮服务需求旺盛，调酒师岗位保持稳定。季节性波动明显，主要旅游城市如罗马、米兰、佛罗伦萨机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. Italy's tourism industry continues to recover, with strong demand for food and beverage services and stable bartender positions. Seasonal fluctuations are evident, with more opportunities in major tourist cities such as Rome, Milan, and Florence.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含小费 |
-| 中级（3-6年） | $22,000~$28,000 | 税前年薪，含小费 |
-| 高级（6年以上） | $28,000~$35,000 | 税前年薪，含小费，主管级更高 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including tips |
+| Mid-level (3–6 years) | $22,000~$28,000 | Annual pre-tax salary, including tips |
+| Senior (6+ years) | $28,000~$35,000 | Pre-tax annual salary, including tips; higher for supervisory roles |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级调酒师可通过积累经验升为高级调酒师或吧台主管，也可转向调酒培训、酒品管理或创业开设自己的酒吧。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For bartenders in the Italian restaurant industry, automation may replace basic drink preparation and inventory management, but core aspects like customer interaction, personalized service, and creative mixing are hard to replace by AI; the overall trend is mixed.
+
+Junior bartenders can advance to senior bartenders or bar supervisors through experience, or transition to bartending training, beverage management, or entrepreneurship by opening their own bar.
+
+**Tasks most exposed to AI:**
+
+- Automated system handles beverage formula calculation and portion control, reducing human error.
+- Smart bartending machines replace rapid preparation of standardized drinks such as cocktails and beer.
+- AI inventory management system automatically tracks beverage consumption and generates restock orders
+- Self-ordering/payment terminals reduce simple customer ordering and checkout steps
+
+**Where AI augments the role:**
+
+- AI recommendation engine provides personalized cocktail suggestions based on customer preferences and drinking history
+- Data analysis tools predict popular beverage trends, assisting in menu design
+- Social media management platforms enhance bartenders' personal branding and bar marketing capabilities
+- Virtual training system simulates complex cocktail mixing exercises through AR/VR
+- Smart monitoring systems provide real-time prompts for bar cleaning and material restocking
+
+**Human moat:**
+
+- Real-time emotional interaction with customers, atmosphere creation, and personalized service
+- The artistry and sensory judgment involved in creatively mixing new cocktails
+- Ability to handle emergencies (e.g., intoxicated customers, equipment malfunctions)
+- Entertainment value of live flair bartending demonstrations
+- Social skills for building long-term client relationships and community trust
+
+**Skills to build:**
+
+- Basic data analysis and Excel skills for inventory and sales analysis
+- Social media content creation and operation (Instagram, TikTok)
+- Proficiency in at least one AI-based cocktail recommendation tool or platform
+- Learn basic AR/VR interaction techniques for virtual bartending practice
+- Enhance customer psychology and communication skills to improve experience
+- Advanced knowledge of wine tasting and pairing
+
+**Key growth areas:**
 
 - Tourism
 - Cocktail culture
@@ -64,66 +99,68 @@ Bartenders prepare and serve alcoholic beverages in bars, restaurants, and other
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民可通过年度配额申请工作签证，适用于餐饮服务人员，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，调酒师通常不符合薪资门槛，除非担任管理职位。 |
-| Subclass 季节工作签证（Seasonal Work Visa） | 适用于旅游旺季临时工作，有效期最长9个月，可续签。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens can apply for work visas through annual quotas, applicable to food service workers, requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, bartenders usually do not meet the salary threshold unless in a management position. |
+| Subclass Seasonal Work Visa (Seasonal Work Visa) | For temporary work during peak tourism season, valid up to 9 months, renewable. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bartender？**
-- 善于社交、喜欢与人沟通的人
-- 能够在快节奏环境中保持镇定的人
-- 对调酒和饮品文化有热情的人
+**Who is suited**
+- Sociable person who enjoys communicating with others
+- People who can stay calm in a fast-paced environment
+- People passionate about bartending and beverage culture
 
-**谁不适合学Bartender？**
-- 不喜站立工作或长时间轮班的人
-- 对酒精饮品不感兴趣的人
+**Who is not suited**
+- People who do not enjoy standing work or long shifts
+- People not interested in alcoholic beverages.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a bartender in Italy?**
+A: Junior bartenders earn about €18,000-22,000 annually, intermediate €22,000-28,000, senior up to €35,000+, with tips forming a significant part of income.
+
+**Q: How can non-EU citizens obtain an Italian bartender work visa?**
+A: Apply mainly through the Decreto Flussi quota work visa, requiring employer sponsorship and application within the annual quota. Seasonal work visas are also available for short-term work.
+
+**Q: What are the career development paths for bartenders in Italy?**
+A: Can progress from junior bartender to senior bartender, bar manager, or move into bartending training, beverage procurement, or even start a bar.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bartender属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for bartenders in Italy?**
-答：Entry-level bartenders earn around 18,000-22,000 EUR annually, mid-level 22,000-28,000 EUR, and senior up to 35,000 EUR or more, with tips being a significant part.
-
-**问：How can non-EU citizens get a work visa for bartending in Italy?**
-答：Mainly through the Decreto Flussi quota-based work visa with employer sponsorship, or a seasonal work visa for temporary positions.
-
-**问：What career paths are available for bartenders in Italy?**
-答：Bartenders can advance to senior bartender, bar manager, or move into training, procurement, or opening their own bar.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

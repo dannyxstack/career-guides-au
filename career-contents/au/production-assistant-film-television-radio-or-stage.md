@@ -1,60 +1,96 @@
-# Production Assistant (Film, Television, Radio or Stage)（Production Assistant (Film, Television, Radio or Stage)）职业分析 · 澳大利亚
+# Production Assistant (Film, Television, Radio or Stage) — career analysis · Australia
 
-**职业代码：599912 – Production Assistant (Film, Television, Radio or Stage)。**
+**Occupation code: 599912 (ANZSCO)**
 
-Production Assistants support the daily operations of film, television, radio, or stage productions, coordinating schedules, managing props, assisting with set preparations, and providing general support to the production team to ensure smooth project execution.
+Production assistants help with the daily operations of film, TV, radio, or stage productions, including coordinating schedules, managing props, assisting with sets, and supporting the production team to ensure projects run smoothly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育文凭 | 1-2年 | $10,000~$25,000（TAFE或私立院校的影视制作文凭） |
-| 本科学位 | 3年 | $30,000~$60,000（大学影视或传媒学士学位，学费年付） |
-| 短期证书 | 6个月 | $2,000~$5,000（在线或社区课程，如制作助理证书） |
+| Vocational education diploma | 1-2 years | $10,000~$25,000 (Film and TV production diploma from TAFE or private institutions) |
+| Bachelor's degree | 3 years | $30,000~$60,000 (University film or media bachelor's degree, tuition paid annually) |
+| Short-term certificate | 6 months. | $2,000~$5,000 (Online or community courses, e.g. Production Assistant certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 影视制作文凭 | TAFE或认可私立学院 | 可选 | 非强制，但提高竞争力 |
-| 急救证书 | 澳大利亚急救培训组织 | 可选 | 部分制作要求持有 |
-| 驾驶执照 | 州政府 | 必备 | 日常任务需要驾车 |
+| Driver's license | State government | Required | Daily tasks require driving |
+| Diploma in Film and Television Production | TAFE or approved private college | Optional | Not mandatory but improves competitiveness |
+| First aid certificate | Australian resuscitation training organizations | Optional | Some production requires holding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。澳洲影视及表演艺术行业持续增长，流媒体平台需求旺盛，但入门级岗位竞争激烈。就业机会主要集中在悉尼、墨尔本等大城市，预计未来五年需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. The Australian film and performing arts industry continues to grow, with strong demand from streaming platforms, but entry-level positions are highly competitive. Employment opportunities are mainly concentrated in major cities like Sydney and Melbourne, with stable demand expected over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级，合同制常见 |
-| 中级（3-6年） | $55,000~$70,000 | 有经验后薪资提升 |
-| 高级（6年以上） | $70,000~$90,000 | 资深助理或协调员薪资 |
+| Median salary | $82,680 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level, contract positions common |
+| Mid-level (3–6 years) | $55,000~$70,000 | Salary increases with experience |
+| Senior (6+ years) | $70,000~$90,000 | Senior assistant or coordinator salary |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：从制作助理可晋升为制片协调员、制片经理或导演助理。积累经验后有望成为独立制片人或项目负责人，也可转向后期制作、发行等关联领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of production assistant is a mixed bag: AI automation will take over administrative tasks like schedule coordination and document management, but the flexibility, interpersonal communication, and creative decision-making skills of a production assistant on set or stage are hard to replace; instead, AI can amplify their efficiency advantages.
+
+Career progression path: from production assistant to production coordinator, production manager, or assistant director. With experience, can become an independent producer or project lead, or transition to related fields such as post-production or distribution.
+
+**Tasks most exposed to AI:**
+
+- Coordinate filming schedules and resource bookings
+- Organize and distribute documents such as scripts and call sheets
+- Record meeting minutes and task tracking
+- Manage prop list and basic inventory
+- Handle simple data entry and reporting
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly generate shooting schedule drafts
+- Optimizing resource scheduling through AI analysis of on-set logs
+- Using AI-assisted budget tracking and expense reporting
+- Quickly find manual information using AI chatbots
+- Use AI translation tools to communicate with multilingual film crews
+
+**Human moat:**
+
+- Flexibly responding to unexpected situations on site (e.g. weather, equipment failure)
+- High-EQ communication with directors, actors, and other key personnel
+- Creative decision support (e.g., prop selection, set adjustment)
+- Team coordination and emotional management
+- Deep understanding of industry workflows and unwritten rules
+
+**Skills to build:**
+
+- Master AI scheduling tools (e.g., Motion, Fellow)
+- Learn basic data analysis (Excel/SQL) for budget management
+- Proficient in using AI collaboration platforms (such as Notion AI, Slack)
+- Develop on-site emergency decision-making and leadership.
+- Learn basic video editing and AI-assisted editing
+- Improve cross-cultural communication and language skills
+
+**Key growth areas:**
 
 - Streaming content boom
 - Live events revival
@@ -63,68 +99,67 @@ Production Assistants support the daily operations of film, television, radio, o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，适用于有经验的制作助理，需雇主提名。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需在CSOL上，但该职业不在MLTSSL，只能州担保。 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区技术移民临时签证，适用于偏远地区制作工作。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa for experienced production assistant, requires employer nomination. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, occupation on CSOL but not MLTSSL, so only state sponsorship is possible. |
+| Subclass 491 (Skilled Work Regional Visa) | Skilled migration temporary visa for regional areas, applicable for regional production work. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Assistant (Film, Television, Radio or Stage)？**
-- 热爱影视行业且愿意从基层做起的人
-- 具备良好沟通和组织能力，能适应高压工作环境
-- 有团队精神，能灵活应对多变的制作日程
-
-**谁不适合学Production Assistant (Film, Television, Radio or Stage)？**
-- 追求稳定朝九晚五工作节奏的人
-- 不喜高强度体力劳动或长时间奔波者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love the film and television industry and are willing to start from the grassroots
+- Good communication and organizational skills, able to work under high pressure.
+- Team player, able to adapt to varying production schedules
+
+**Who is not suited**
+- People seeking a stable 9-to-5 work schedule
+- Those who dislike high-intensity physical labor or long hours of traveling
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Production Assistant?**
+A: Junior production assistant annual salary approx. A$45,000-$55,000, intermediate $55,000-$70,000, senior up to $70,000-$90,000. Salaries vary by project scale and region.
+
+**Q: Can a production assistant apply for skilled migration?**
+A: Yes, but with limited pathways. This occupation is on the CSOL and can lead to immigration via the state-nominated 190 visa or the regional 491 visa, but requires employer sponsorship or state nomination. The 482 employer-sponsored temporary visa is also an option.
+
+**Q: What career development opportunities are there for production assistants?**
+A: Can advance to production coordinator, production manager or director, or move into post-production, distribution, or project management. Continuously building networks and experience is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Production Assistant (Film, Television, Radio or Stage)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Production Assistant?**
-答：Entry-level production assistants earn around AUD 45,000-55,000 per year, mid-level AUD 55,000-70,000, and senior up to AUD 70,000-90,000. Salaries vary by project size and location.
-
-**问：Can a Production Assistant apply for skilled migration?**
-答：Yes, but with limited pathways. The occupation is on the CSOL, allowing state-nominated visa 190 or regional visa 491, but requires employer sponsorship or state nomination. The 482 Temporary Skill Shortage visa is also an option.
-
-**问：What career development opportunities are there for a Production Assistant?**
-答：Progress to Production Coordinator, Production Manager, or Director, or transition to post-production, distribution, or project management. Networking and experience are crucial.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

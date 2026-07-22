@@ -1,62 +1,96 @@
-# Air Traffic Controller（Air Traffic Controller）职业分析 · 澳大利亚
+# Air Traffic Controller — career analysis · Australia
 
-**职业代码：231112 – Air Traffic Controller。**
+**Occupation code: 231112 (ANZSCO)**
 
-Air Traffic Controllers monitor and direct aircraft takeoffs, landings, and en-route flights to ensure safe and efficient air traffic. They work in control towers or area control centers and require high concentration and quick decision-making.
+Air traffic controllers monitor and guide aircraft takeoffs, landings, and flight routes to ensure safe and efficient air traffic. This occupation requires high concentration and quick decision-making skills, typically working in airport towers or area control centers.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 大学本科（相关领域） | 3年 | $30,000~$50,000（航空管理、工程等本科课程学费） |
-| 空中交通管制培训课程 | 1-2年 | $20,000~$40,000（由Airservices Australia等机构提供） |
+| Bachelor's degree (in a relevant field) | 3 years | $30,000~$50,000 (Tuition fees for undergraduate courses such as aviation management and engineering) |
+| Air traffic control training course | 1-2 years | $20,000~$40,000 (Provided by organizations such as Airservices Australia) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 空中交通管制执照（澳大利亚） | Airservices Australia / CASA | 必备 | 必须通过认证培训并取得执照 |
-| 航空医学评估 | 指定航空医师 | 必备 | 需通过体检，符合健康标准 |
-| 安全背景审查 | 澳大利亚联邦警察 | 必备 | 需通过国家安全审查 |
-| 英语能力（雅思7.0+） | IELTS / PTE | 可选 | 国际考生需证明英语水平 |
+| Air Traffic Control License (Australia) | Airservices Australia / CASA | Required | Must complete certified training and obtain a license |
+| Aviation medical assessment | Designated Aviation Medical Examiner | Required | Must pass a medical examination and meet health standards |
+| Security background check | Australian Federal Police | Required | Must pass national security clearance |
+| English proficiency (IELTS 7.0+) | IELTS / PTE | Optional | International applicants must prove English proficiency. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 3,500。澳洲空中交通管制员需求稳定，预计未来五年就业增长约5%，受航空业复苏和机场扩建推动。该职业专业性强，培训周期长，合格人员有限，因此竞争相对较小。
+**Job demand: very high (★★★★½).** National workforce approx. 3,500. Demand for Australian air traffic controllers is stable, with expected employment growth of about 5% over the next five years, driven by aviation recovery and airport expansion. The occupation is highly specialized with long training periods, limited qualified personnel, resulting in relatively low competition.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 培训后初始薪资 |
-| 中级（3-8年） | $110,000~$150,000 | 有经验管制员 |
-| 高级（8年以上） | $150,000~$200,000 | 主管或高级管制员 |
+| Median salary | $137,852 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $80,000~$110,000 | Starting salary after training |
+| Mid-level (3–8 years) | $110,000~$150,000 | Experienced air traffic controller |
+| Senior (8+ years) | $150,000~$200,000 | Supervisor or senior controller |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级管制员需通过严格培训获取执照，可晋升为塔台主管、区域控制主管或培训师。随着经验积累，可转向管理岗位如空中交通服务经理，或从事航空安全管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Junior air traffic controllers must undergo strict training to obtain a license, and can advance to roles such as tower supervisor, area control supervisor, or trainer. With experience, they can move into management positions like air traffic services manager or work in aviation safety management.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Aviation Recovery
 - Airport Expansion
@@ -65,69 +99,68 @@ Air Traffic Controllers monitor and direct aircraft takeoffs, landings, and en-r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保，需满足职业要求且雇主担保 |
-| Subclass 186（Employer Nomination Scheme (ENS)） | 永久签证，需雇主提名，职业在MLTSSL上 |
-| Subclass 189（Skilled Independent Visa） | 技术移民，但该职业不在MLTSSL常规清单，仅限特殊条件 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, must meet occupation requirements and have employer sponsorship |
+| Subclass 186 (Employer Nomination Scheme (ENS)) | Permanent visa, requires employer nomination, occupation on the MLTSSL. |
+| Subclass 189 (Skilled Independent Visa) | Skilled migration, but the occupation is not on the MLTSSL regular list, only under special conditions |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Air Traffic Controller？**
-- 高度专注、抗压能力强的人
-- 喜欢快节奏、需要快速决策的工作
-- 对航空领域有浓厚兴趣
-
-**谁不适合学Air Traffic Controller？**
-- 无法承受高压力或多任务处理的人
-- 对视力和听力严格标准有困难的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with high concentration and strong stress tolerance
+- Enjoys fast-paced work requiring quick decisions
+- Have a strong interest in the aviation field
+
+**Who is not suited**
+- Those who cannot handle high pressure or multitasking
+- People who have difficulty meeting strict vision and hearing standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of air traffic controllers?**
+A: Air traffic controllers earn high salaries: junior ~A$80k–110k, experienced A$150k–200k, often with shift allowances.
+
+**Q: Can air traffic controllers migrate to Australia?**
+A: This occupation is on the MLTSSL but usually not directly applicable for skilled independent migration; the main pathway is employer sponsorship (482/186), requiring certification and English proficiency.
+
+**Q: How to become an air traffic controller in Australia?**
+A: Must complete Airservices Australia's training course, which is competitive; after completion, obtain a licence and then gain experience on the job.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Air Traffic Controller为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for air traffic controllers?**
-答：Salaries are high, with entry-level around AUD 80k-110k and experienced controllers up to AUD 150k-200k, plus shift allowances.
-
-**问：Can air traffic controllers migrate to Australia?**
-答：The occupation is on MLTSSL but rarely eligible for skilled independent visa; main pathways are employer sponsorship (482/186) with strict licensing and English requirements.
-
-**问：How to become an air traffic controller in Australia?**
-答：Complete a training course by Airservices Australia (competitive entry), obtain a license, and then gain on-the-job experience.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

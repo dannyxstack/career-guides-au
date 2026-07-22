@@ -1,60 +1,94 @@
-# Precision Metal Trades Worker（Precision Metal Trades Worker）职业分析 · 新西兰
+# Precision Metal Trades Worker — career analysis · New Zealand
 
-**职业代码：323214 – Precision Metal Trades Worker。**
+**Occupation code: 323214 (ANZSCO)**
 
-Precision Metal Trades Workers (CNC Machinists) are in steady demand in Auckland and Waikato manufacturing, eligible for Skilled Migrant Category and Green List, requiring median wage or certification.
+Precision metal machining technicians (CNC machine operators) have stable demand in manufacturing in Auckland, Waikato, etc., and can apply for skilled migration (SMC/Green List), but need to meet median salary or registration requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书（Level 4） | 1年 | $8,000~$12,000（公立理工学院，如Toi Ohomai，含材料费） |
-| 大专（Level 5-6） | 2年 | $20,000~$35,000（Unitec或WelTec，国际生学费） |
-| 学徒制 | 3-4年 | —（雇主资助，期间带薪，仅教材费） |
+| Certificate (Level 4) | 1 year | $8,000~$12,000 (Public polytechnic institute, such as Toi Ohomai, includes material fees) |
+| Diploma (Level 5-6) | 2 years | $20,000~$35,000 (Unitec or WelTec, international student tuition fees) |
+| Apprenticeship | 3-4 years | $0~$3,000 (Employer-sponsored, paid during the period, only course material costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家证书（Level 4）精密金属加工 | NZQA / 培训机构 | 必备 | 通常必修，涵盖CNC操作、编程 |
-| CNC编程认证（Mastercam/Fusion 360） | Autodesk / 认证中心 | 可选 | 非强制，但雇主优先 |
-| 工地安全卡（Site Safe） | Site Safe NZ | 可选 | 若在建筑工地工作必备 |
+| New Zealand National Certificate (Level 4) in Precision Metalworking | NZQA / Training provider | Required | Usually mandatory, covering CNC operation and programming |
+| CNC programming certification (Mastercam/Fusion 360) | Autodesk / Authorized Training Center | Optional | Not mandatory, but preferred by employers |
+| Site Safe card | Site Safe NZ | Optional | Essential if working on a construction site. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。新西兰制造业回迁和国防订单带动数控技工需求，奥克兰/基督城机会多。2024-2028年岗位增速约2%-3%，但面临AI自动化替代风险。薪酬中位数约6万纽币。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,500. New Zealand's manufacturing reshoring and defense contracts drive demand for CNC machinists, with more opportunities in Auckland/Christchurch. Job growth rate of about 2%-3% in 2024-2028, but facing risk of AI automation replacement. Median salary around NZD 60,000.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 大部分为学徒或刚毕业 |
-| 中级（3-6年） | $58,000~$70,000 | 能独立编程操作 |
-| 高级（6年以上） | $75,000~$95,000 | 多轴编程、精密模具 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Mostly apprentices or recent graduates |
+| Mid-level (3–6 years) | $58,000~$70,000 | Able to independently program and operate |
+| Senior (6+ years) | $75,000~$95,000 | Multi-axis programming, precision molds. |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级操作员→编程员→高级技师/主管→生产经理。也可转型模具设计或质量控制，或成立合同制造公司。薪资随CNC多轴编程能力提升。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
+
+Junior operator → programmer → senior technician/supervisor → production manager. Can also transition to mold design or quality control, or establish contract manufacturing companies. Salary increases with CNC multi-axis programming skills.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating G-code and tool paths for simple workpieces
+- Online machining parameter optimisation based on sensor feedback
+- Quality inspection of standard parts and automatic defect labeling
+- Processing monitoring and abnormal alarm handling
+
+**Where AI augments the role:**
+
+- AI-assisted complex surface programming and simulation verification
+- Optimize fixtures and cutting parameters via digital twins
+- Integrate CAM with adaptive machining to improve efficiency
+- Use AI to predict tool life and optimize tool change timing
+- Remote collaboration and AR-assisted debugging of multi-axis machine tools
+
+**Human moat:**
+
+- Process design for difficult-to-machine materials like irregular and thin-walled parts
+- On-site judgment and manual intervention during processing anomalies
+- Jig and fixture design and non-standard part clamping solutions
+- Communicate with design and assembly teams to resolve tolerance issues
+
+**Skills to build:**
+
+- Multi-axis CNC programming and post-processing customization
+- Write automated macros using Python/Macro
+- Secondary development of CAM software (e.g., Fusion 360 API)
+- Industrial robot loading/unloading integration and commissioning
+- GD&T geometric tolerancing and precision measurement techniques
+- AI-assisted machining software (e.g., Mastercam AI Advisor)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -63,68 +97,67 @@ Precision Metal Trades Workers (CNC Machinists) are in steady demand in Auckland
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence - Green List） | 符合绿色清单二级职业，工作2年后可申请居留，年薪需达中位数（约6万纽币） |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，学历、工作经验得分，需有雇主offer且薪资达标 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合非紧缺岗位，最长3年，可续签 |
+| Subclass Green List T2 (Work to Residence - Green List) | Qualifies as a Green List Tier 2 occupation; can apply for residency after 2 years, with salary at or above the median (about NZD 60,000) |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration: points for education and work experience, requires employer offer and meeting salary threshold |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for non-shortage roles, up to 3 years, renewable |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Precision Metal Trades Worker？**
-- 喜欢动手操作、对机械加工有耐心的人
-- 希望走技术移民、愿意从学徒做起的新移民
-- 善于编程和精密测量，有量化思维的人
-
-**谁不适合学Precision Metal Trades Worker？**
-- 追求高薪暴富、厌恶重复性流水线工作的人
-- 无法适应车间噪音、油污环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and have patience with mechanical processing
+- New immigrants seeking skilled migration and willing to start as apprentices
+- People skilled in programming and precision measurement with a quantitative mindset
+
+**Who is not suited**
+- People pursuing high salary and wealth, disliking repetitive assembly line work
+- People who cannot adapt to workshop noise and grease environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of CNC operators in New Zealand?**
+A: Entry-level: approx. NZD 48,000-55,000; mid-level: NZD 58,000-70,000; senior: NZD 75,000-95,000. Overtime and night shift allowances are common.
+
+**Q: Is it easy for CNC operators to immigrate to New Zealand?**
+A: This occupation is on Green List Tier 2, eligible for residence after 2 years of work; also possible under SMC 6-point system. Requires employer support and salary at median (approx. NZD 60,000).
+
+**Q: What certificates do I need to work as a CNC operator in New Zealand?**
+A: Usually requires New Zealand National Certificate (Level 4) in Precision Metalworking; some employers require CNC programming certification (e.g., Mastercam) and a site safety card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（1-2年）（★★½☆☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Precision Metal Trades Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for CNC machinists in NZ?**
-答：Entry-level: NZ$48,000-55,000; mid: $58,000-70,000; senior: $75,000-95,000. Overtime and shift allowances common.
-
-**问：Is CNC machinist a good pathway to NZ residency?**
-答：Yes, it's Green List Tier 2 (work 2 years then residence) or SMC 6-points. Requires employer support and median wage (~NZ$60,000).
-
-**问：What qualifications are needed to work as a CNC machinist in NZ?**
-答：Typically NZ National Certificate in Precision Metal Trades (Level 4). Some employers require CNC programming certification (e.g., Mastercam) and Site Safety card.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

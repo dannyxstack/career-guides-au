@@ -1,58 +1,91 @@
-# Technical Production Planner（Technical Production Planner）职业分析 · DE
+# Technical Production Planner — career analysis · Germany
 
-**职业代码：2730 – Technical Production Planner。**
+**Occupation code: 2730 (KldB)**
 
-Plans, schedules, and optimizes production processes to ensure efficient and timely manufacturing.
+Responsible for planning, scheduling, and optimizing production processes to ensure efficient and timely manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制大学（学士） | 3-4年 | —（公立大学免学费，仅收注册费） |
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，通常无学费） |
+| Dual system university (bachelor's) | 3-4 years | $0~$10,000 (Public universities are tuition-free, only charging registration fees.) |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Stipend during training, usually no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生产规划与管理学位（学士/硕士） | 应用科学大学或工业大学 | 必备 | 需完成工程或生产管理相关专业 |
-| 技术员（Techniker）认证 | 德国工商总会（IHK） | 可选 | 通过职业培训后进一步考取 |
+| Production Planning and Management Degree (Bachelor/Master) | University of Applied Sciences or Technical University | Required | Requires completion of a degree in engineering or production management |
+| Technician certification | German Chamber of Commerce and Industry (IHK) | Optional | Obtain further qualifications after vocational training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。德国工业4.0推进使得该职业需求稳定，尤其在汽车、机械制造等领域。数字化和自动化转型带来新机遇，但需具备技术和管理双重能力。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Germany's Industry 4.0 advancement has kept demand for this occupation stable, especially in automotive and mechanical engineering. Digitalization and automation transformation bring new opportunities, but require both technical and management skills.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 税前年薪 |
-| 中级（3-7年） | $48,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $60,000~$75,000 | 税前年薪 |
+| Median salary | $63,732 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$48,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $48,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $60,000~$75,000 | Annual pre-tax salary |
+| average salary | $69,084 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术员晋升为生产经理或物流主管，也可通过继续教育（如技术管理硕士）进入高级管理层。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Routine scheduling and data integration tasks in technical production planning and control will be automated by AI, but the roles of system optimization, anomaly management, and cross-department coordination will be amplified. Overall, job responsibilities are upgraded rather than eliminated.
+
+Can progress from technician to production manager or logistics supervisor, or enter senior management through further education (e.g., Master's in Technical Management).
+
+**Tasks most exposed to AI:**
+
+- Capacity load calculation and scheduling recommendation generation based on MES/ERP data
+- Manual verification and ordering of material requirements for production orders
+- Routine production progress tracking and report creation (e.g., daily output statistics)
+- Standard information transmission and coordination confirmation via email/telephone
+
+**Where AI augments the role:**
+
+- AI-assisted real-time scheduling optimization: dynamically adjust schedules based on equipment status and order urgency
+- Anomaly prediction and root cause analysis: using machine learning to identify production bottlenecks or quality risks
+- Digital twin simulation: test different scheduling scenarios in a virtual environment
+- Automated reporting and dashboards: natural language queries for production metrics, generating interactive dashboards
+
+**Human moat:**
+
+- Cross-departmental (procurement, production, logistics) communication coordination and conflict resolution.
+- Flexible decision-making for unstructured anomalies (equipment breakdowns, urgent customer orders)
+- Strategic production network planning and long-term capacity layout
+- Industry process knowledge (e.g., cycle characteristics of injection molding, stamping) and tacit experience
+
+**Skills to build:**
+
+- Python/SQL basics: for data extraction and automation scripting
+- Operation of advanced APS scheduling systems (e.g., SAP PP/DS, Oracle ASCP)
+- Statistical Process Control (SPC) and predictive maintenance principles
+- Digital twin/simulation software use (e.g. AnyLogic, Simio)
+- Agile project management and cross-functional collaboration skills.
+- Basic machine learning concepts (classification, regression, anomaly detection).
+
+**Key growth areas:**
 
 - Industry 4.0
 - Digital transformation
@@ -61,65 +94,64 @@ Plans, schedules, and optimizes production processes to ensure efficient and tim
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历，年薪门槛约58,400欧元（2025年），紧缺职业可降低至45,552欧元 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于有职业培训或学位认证的技术移民，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for higher education qualifications, with annual salary threshold of approx. €58,400 (2025), reduced to €45,552 for shortage occupations |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable for skilled migration with vocational training or degree accreditation, requires employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa allowing entry to Germany for job hunting. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Production Planner？**
-- 有工程或工业工程背景者
-- 喜欢逻辑分析和流程优化者
-- 希望在工业生产领域发展者
-
-**谁不适合学Technical Production Planner？**
-- 不喜欢技术细节和数据分析者
-- 无法接受生产线压力环境者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an engineering or industrial engineering background
+- Those who enjoy logical analysis and process optimization
+- For those who wish to develop in the industrial production sector
+
+**Who is not suited**
+- Those who dislike technical details and data analysis
+- Those who cannot tolerate the pressure of a production line environment.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Entry-level annual salary approx. 38,000-48,000 Euros, mid-level approx. 48,000-60,000 Euros, senior up to 75,000 Euros or more.
+
+**Q: How to immigrate to Germany for this occupation as a non-EU citizen?**
+A: Can apply via EU Blue Card (requires degree and meeting salary threshold) or Skilled Migration Act (requires vocational qualification recognition). The Opportunity Card also applies for job seeking.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Technical Production Planner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Entry-level salary is about €38,000-48,000; mid-level €48,000-60,000; senior up to €75,000+ per year.
-
-**问：How can non-EU citizens immigrate to Germany for this job?**
-答：Via EU Blue Card (degree required, salary threshold) or Skilled Immigration Act (requires credential recognition). Opportunity Card allows job search.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

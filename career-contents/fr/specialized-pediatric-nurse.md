@@ -1,61 +1,97 @@
-# Specialized Pediatric Nurse（Specialized Pediatric Nurse）职业分析 · FR
+# Specialized Pediatric Nurse — career analysis · France
 
-**职业代码：J1507 – Specialized Pediatric Nurse。**
+**Occupation code: J1507 (ROME)**
 
-Specialized pediatric nurses provide care for newborns, infants, and children, including intensive care, vaccinations, growth monitoring, and parental education, working in hospital pediatric units, neonatology, or community health settings.
+Pediatric specialist nurses are responsible for the care of newborns, infants, and children, including intensive care, vaccination, growth and development monitoring, and parent health education. They usually work in hospital pediatrics, neonatology, or community medical institutions.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 国家护士文凭（DE Infirmier） | 3年（bac+3） | —（公立大学学费低，约170欧元/年；私立学校费用较高。可通过学徒制（apprentissage）减免费用。） |
-| 儿科专科培训（DU/DIU Puériculture） | 1年 | $1,000~$3,000（专科培训通常由大学或医院提供，费用因机构而异。） |
+| National Nursing Diploma (DE Infirmier) | 3 years (bac+3) | $0~$500 (Public universities have low tuition fees, about 170 euros per year; Private school fees are relatively high. Apprenticeships can be used to reduce fees.) |
+| Pediatric Specialist Training (DU/DIU Puériculture) | 1 year | $1,000~$3,000 (Specialist training is usually provided by universities or hospitals, with costs varying by institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家护士文凭（DE Infirmier） | 法国国家教育、高等教育与研究部 | 必备 | 完成3年护理课程并通过国家考试，注册于Ordre des Infirmiers。 |
-| 儿科专科文凭（DU/DIU Puériculture） | 大学或医院 | 可选 | 非强制但大幅提升竞争力，通常在获得DE后进修。 |
-| 资质认证（Reconnaissance des qualifications） | 法国卫生部和Ordre des Infirmiers | 必备 | 欧盟以外护士需通过资质认证程序，可能需补修课程或实习，流程约6-12个月。 |
+| National Nursing Diploma (DE Infirmier) | French Ministry of National Education, Higher Education and Research | Required | Complete a 3-year nursing course and pass the national exam, registered with Ordre des Infirmiers. |
+| Qualifications (Reconnaissance des qualifications) | The French Ministry of Health and Ordre des Infirmiers | Required | Nurses outside the EU must go through qualification procedures, which may require make-up courses or internships, with a process lasting about 6-12 months. |
+| Diploma in Pediatrics (DU/DIU Puériculture) | Universities or hospitals | Optional | Non-mandatory but significantly enhances competitiveness, usually pursued after obtaining DE. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国儿科护理人员需求持续增长，尤其在新生儿重症监护和儿童慢性病管理领域。老龄化医护退休潮加剧缺口，预计未来十年就业机会稳步增加。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The demand for pediatric caregivers in France continues to grow, especially in neonatal intensive care and chronic disease management for children. The aging medical worker retirement wave is widening the gap, and employment opportunities are expected to steadily increase over the next decade.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | 税前年薪，包含奖金和津贴，公立医院按公务员薪资表。 |
-| 中级（4-7年） | $34,000~$40,000 | 含夜班、周末等补贴。 |
-| 高级（8年以上） | $42,000~$50,000 | 专科护士或主管护士，含绩效奖金。 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$33,000 | Pre-tax annual salary, including bonuses and allowances, is paid according to the civil servant salary scale for public hospitals. |
+| Mid-level (4-7 years) | $34,000~$40,000 | Including night shift and weekend subsidies. |
+| Senior (8+ years) | $42,000~$50,000 | Specialist nurse or head nurse, including performance bonus. |
+| average salary | $34,236 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括从初级儿科护士到高级实践护士（IPA）、护理主管或护理经理。可通过继续教育获得专科认证，或转向教学、科研岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core nursing and emotional support tasks of pediatric specialist nurses are difficult for AI to replace, but tasks such as data recording, monitoring, and health education can be significantly enhanced or partially automated by AI, presenting both risks and opportunities.
+
+Career development paths include starting from junior pediatric nurses to senior practice nurses (IPA), nursing supervisors, or care managers. Continuing education can be obtained through associate degree certification or transition to teaching or research positions.
+
+**Tasks most exposed to AI:**
+
+- Routine vital sign monitoring and data recording
+- Vaccination information entry and appointment reminders
+- Drawing and basic analysis of growth and development charts
+- Standardized distribution and tracking of patient education materials
+- Drug dosage calculation and cross-examination
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic support: analyzes symptom and medical history data to provide differential diagnosis recommendations
+- Intelligent monitoring system: Real-time early warning of worsening conditions in patients
+- Personalized parent education: AI-generated customized nursing guidance
+- Workflow optimization: AI scheduling and resource scheduling improve efficiency
+- Remote follow-up and monitoring: an AI-driven home care guidance platform
+
+**Human moat:**
+
+- Clinical judgment and emergency decision-making for complex conditions
+- Emotional empathy and psychological support for children and their parents
+- Intuition and experiential care for younger children who cannot express themselves clearly
+- Nursing coordination and leadership roles in multidisciplinary collaboration
+- Manual procedures such as venipuncture and wound care are meticulous techniques
+
+**Skills to build:**
+
+- Basic AI and data analysis tools (such as Python, R)
+- Advanced use of electronic health record systems
+- Telemedicine and AI-assisted communication skills
+- Interpretation and validation of clinical decision support systems
+- Knowledge of data ethics and privacy protection regulations
+- Advanced technical operations in pediatric specialty nursing
+
+**Key growth areas:**
 
 - Pediatric care
 - Neonatal intensive care
@@ -64,70 +100,69 @@ Specialized pediatric nurses provide care for newborns, infants, and children, i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国医院或医疗机构的工作合同，雇主进行劳动许可申请。适合有DE文凭的护士。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需薪资达一定门槛（约37000欧元/年），可加速审理。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高等教育学历+工作合同，薪资需达法国平均水平（约43000欧元/年）。 |
-| Subclass Reconnaissance quali（Qualification Recognition） | 欧盟外护士必需先通过资质认证，方可申请工作签证。流程需数月。 |
+| Subclass Salarié (Employee Work Permit) | You must obtain a work contract from a French hospital or medical institution, and the employer must apply for a work permit. Suitable for nurses with DE diplomas. |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents who must reach a certain salary threshold (about 37,000 euros/year) and expedited processing. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to higher education degree + employment contract, salary must meet the French average (about 43,000 euros/year). |
+| Subclass Reconnaissance quali (Qualification Recognition) | Nurses outside the EU must first pass qualification certification before applying for a work visa. The process takes several months. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialized Pediatric Nurse？**
-- 细心、有耐心，喜欢与儿童相处
-- 抗压能力强，能适应倒班工作
-- 希望在医疗领域长期发展，追求职业稳定
-
-**谁不适合学Specialized Pediatric Nurse？**
-- 无法承受情感压力，面对儿童重症易受影响
-- 不习惯高强度体力劳动和频繁夜班
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Attentive and patient, enjoys spending time with children
+- Strong stress tolerance and able to adapt to shift work
+- He hopes to develop long-term careers in the medical field and pursues career stability
+
+**Who is not suited**
+- Unable to bear emotional pressure, they are easily affected by severe childhood illnesses
+- Not accustomed to high-intensity physical labor and frequent night shifts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for pediatric specialist nurses in France?**
+A: Entry-level is about 28,000-33,000 euros per year, intermediate is 34,000-40,000 euros per year, and senior can reach up to 50,000 euros per year, before tax.
+
+**Q: How can Chinese nurses immigrate to France to become pediatric specialist nurses?**
+A: Qualifications must be accredited (Reconnaissance des qualifications), including submission of academic qualifications, experience review, and possible supplementary internships. Afterwards, you can apply for a Salarié visa or Passeport Talent.
+
+**Q: What diploma is required for pediatric specialist nurses?**
+A: Must obtain a national nursing diploma (DE Infirmier, 3 years), followed ideally by a paediatric specialty qualification (DU/DIU, 1 year).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Specialized Pediatric Nurse为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a specialized pediatric nurse in France?**
-答：Entry-level: €28,000-33,000/year; mid-career: €34,000-40,000; senior: up to €50,000, pre-tax.
-
-**问：How can a Chinese nurse immigrate to France as a specialized pediatric nurse?**
-答：You need to undergo qualification recognition (Reconnaissance des qualifications), including credential evaluation and possible complementary internships. Then apply for a Salarié visa or Passeport Talent.
-
-**问：What qualifications are required for a specialized pediatric nurse?**
-答：You must obtain a State Diploma in Nursing (DE Infirmier, 3 years), then ideally complete a specialized pediatric training (DU/DIU, 1 year).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

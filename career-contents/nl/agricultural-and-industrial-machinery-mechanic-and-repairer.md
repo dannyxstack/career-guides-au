@@ -1,59 +1,95 @@
-# Agricultural and Industrial Machinery Mechanic and Repairer（Agricultural and Industrial Machinery Mechanic and Repairer）职业分析 · NL
+# Agricultural and Industrial Machinery Mechanic and Repairer — career analysis · Netherlands
 
-**职业代码：7233 – Agricultural and Industrial Machinery Mechanic and Repairer。**
+**Occupation code: 7233 (ISCO08)**
 
-Responsible for installing, maintaining, diagnosing faults, and repairing agricultural and industrial machinery, including tractors, harvesters, and production line equipment. Plays a key role in the Dutch agricultural and manufacturing sectors.
+Responsible for installing, maintaining, troubleshooting, and repairing agricultural and industrial machinery, including tractors, harvesters, and production line equipment. Plays a key role in Dutch agriculture and manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立MBO学费约每年€2,000，部分项目免费） |
-| 学徒制（BBL） | 3-4年 | —（学徒制通常免学费，且带薪培训） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public MBO tuition is approximately €2,000 per year, with some programs being free) |
+| Apprenticeship (BBL) | 3-4 years | $0~$500 (Apprenticeships are usually tuition-free and paid on-the-job training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO三级或四级毕业证书（技术方向） | ROC（地区教育中心） | 必备 | 完成MBO机械工程或汽车技术课程，或通过学徒制获得 |
-| 专业认证（如VCA安全证书） | VCA | 可选 | 部分雇主要求，尤其是大型设备维修 |
-| 厂商认证（如John Deere或CNH） | 机械制造商 | 可选 | 提升就业竞争力，非强制 |
+| MBO level 3 or 4 diploma (technical track) | ROC (Regional Education Centre) | Required | Complete an MBO course in mechanical engineering or automotive technology, or obtain through an apprenticeship |
+| Professional certification (e.g., VCA safety certificate) | VCA | Optional | Required by some employers, especially for large equipment maintenance |
+| Manufacturer certifications (e.g., John Deere or CNH) | Machinery manufacturer | Optional | Enhance employment competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰农业和制造业持续依赖机械化，加之绿色转型推动设备更新，该职业需求稳定。由于技术工人短缺，就业前景良好，尤其在农村地区。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The continued reliance on mechanization in Dutch agriculture and manufacturing, coupled with equipment upgrades driven by the green transition, ensures stable demand for this occupation. Due to a shortage of skilled workers, employment prospects are good, especially in rural areas.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，取决于具体岗位和雇主 |
-| 中级（3-7年） | $35,000~$43,000 | 税前年薪，含奖金 |
-| 高级（7年以上/主管） | $44,000~$55,000 | 税前年薪，含管理职责补贴 |
+| Median salary | $47,819 | Median salary (official: CBS median employee hourly wage €24.2/hour × 1976h annualized, BRC group 0744 Machinemonteurs; P25–P75 €39,322–€57,699, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, depending on specific position and employer. |
+| Mid-level (3–7 years) | $35,000~$43,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years/supervisor) | $44,000~$55,000 | Annual salary before tax, including management responsibility allowance |
+| average salary | $39,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级技工晋升为高级技师、维修主管或设备服务经理。通过进修可专攻特定机械（如精准农业设备）或转向销售/培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation are enhancing diagnostic and predictive maintenance capabilities, but physical repair work remains irreplaceable; entry-level roles are slightly narrowing due to technologies like remote monitoring.
+
+Can advance from junior technician to senior technician, maintenance supervisor, or equipment service manager. Further study can specialize in specific machinery (e.g., precision agriculture equipment) or shift to sales/training roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI image recognition for visual inspection and automatic defect recording.
+- Automatically schedule maintenance using IoT sensors and predictive maintenance algorithms
+- Using AI-assisted diagnostic tools to automatically generate fault code interpretation
+- Automated documentation and repair report generation
+- Remote guidance via AR/VR reduces on-site manual inspections
+
+**Where AI augments the role:**
+
+- AI fault diagnosis system helps quickly locate complex mechanical problems
+- Augmented reality (AR) maintenance guidance improves operational accuracy.
+- Predictive maintenance reduces unplanned downtime and improves work efficiency.
+- AI-optimized spare parts inventory management reduces wait times
+- Digital twin technology simulates maintenance steps to improve safety and efficiency
+
+**Human moat:**
+
+- Creative problem-solving for complex non-standard faults
+- Fine mechanical adjustment and tactile operation
+- On-site safety judgment and emergency response
+- Customer communication and on-site service experience
+- Cross-system integration and debugging skills
+
+**Skills to build:**
+
+- Learn predictive maintenance software and IoT data analysis
+- Proficient in operating AR/VR-assisted maintenance tools
+- Improve electrical and electronic control system diagnostic capabilities
+- Learn basic programming for robot collaboration systems
+- Develop skills in using digital document and report generation tools.
+- Strengthen communication and on-site management skills to coordinate AI tools.
+
+**Key growth areas:**
 
 - Green transition equipment
 - Precision agriculture
@@ -62,68 +98,67 @@ Responsible for installing, maintaining, diagnosing faults, and repairing agricu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适合高学历或经验丰富的技术移民，需雇主担保，薪资门槛约€5,008/月（2025年30岁以上）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适合大学学历者，薪资要求约€5,668/月（2025年），荷兰是热门目的地。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 荷兰或世界Top200高校毕业生可申请，允许一年内自由求职。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly educated or experienced skilled migrants, requires employer sponsorship, with a salary threshold of about €5,008/month (2025, age 30+). |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for university degree holders, salary requirement approx. €5,668/month (2025), Netherlands is a popular destination. |
+| Subclass Orientation Year (Zo (Orientation Year) | Graduates from top 200 universities in the Netherlands or worldwide can apply, allowing one year of free job seeking. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Industrial Machinery Mechanic and Repairer？**
-- 喜欢动手操作和机械工作的人
-- 对农业或制造业有兴趣，乐于在户外或车间工作
-- 愿意接受持续学习和技能更新的技术型人才
-
-**谁不适合学Agricultural and Industrial Machinery Mechanic and Repairer？**
-- 偏好办公室工作和理论分析
-- 不适应体力劳动或季节性工作强度
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and mechanical work
+- Interested in agriculture or manufacturing, willing to work outdoors or in a workshop
+- Tech-savvy individuals willing to engage in continuous learning and skill updating
+
+**Who is not suited**
+- Preference for office work and theoretical analysis
+- Not suited for physical labor or seasonal work intensity
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for agricultural machinery mechanics in the Netherlands?**
+A: Junior technician annual salary approximately €28,000-€34,000, intermediate approximately €35,000-€43,000, senior supervisor can reach above €55,000.
+
+**Q: How can foreign skilled workers immigrate to the Netherlands to work in this occupation?**
+A: Possible through highly skilled migration (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting salary requirements. Holders of a Dutch diploma or a degree from a world Top 200 university can apply for the Orientation Year.
+
+**Q: Is this occupation in shortage in the Netherlands?**
+A: Yes. Netherlands agriculture and manufacturing face skilled worker shortages, especially in rural areas, where employers often struggle to find qualified tradespeople.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural and Industrial Machinery Mechanic and Repairer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for agricultural machinery mechanics in the Netherlands?**
-答：Entry-level mechanics earn €28,000-€34,000 annually, mid-level €35,000-€43,000, and senior supervisors up to €55,000+.
-
-**问：How can a foreign mechanic migrate to the Netherlands for this occupation?**
-答：Via the Highly Skilled Migrant or EU Blue Card with employer sponsorship and salary requirements. Graduates from Dutch or top 200 global universities can apply for the Orientation Year.
-
-**问：Is this occupation in shortage in the Netherlands?**
-答：Yes. The Dutch agricultural and manufacturing sectors face a shortage of skilled technicians, especially in rural areas.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

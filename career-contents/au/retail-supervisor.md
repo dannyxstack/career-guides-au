@@ -1,64 +1,92 @@
-# 零售主管（Retail Supervisor）职业分析 · 澳大利亚
+# Retail Supervisor — career analysis · Australia
 
-**职业代码：621511 – Retail Supervisor。**
+**Occupation code: 621511 (ANZSCO)**
 
-零售主管带领销售团队、负责排班、库存和日常运营，是销售员到店长之间的关键岗位，非技术移民职业。
+Retail supervisors lead sales teams and are responsible for rostering, stock management and day-to-day operations — a key stepping stone between sales assistant and store manager. This is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无强制学历（经验晋升） | — | —（由资深销售晋升） |
-| Certificate IV in Retail Management（可选） | 0.5~1年 | $2,000~$6,000（利于晋升） |
+| No mandatory qualification (experience-based progression) | — | $0~$0 (Promoted from senior sales roles) |
+| Certificate IV in Retail Management (optional) | 0.5–1 year | $2,000~$6,000 (Beneficial for career advancement) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV in Retail Management（可选） | TAFE/RTO | 可选 | 非强制 |
+| Certificate IV in Retail Management (optional) | TAFE/RTO | Optional | Not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 90,000。零售运营对一线带队者需求稳定，是晋升店长的必经岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 90,000. Retail operations consistently need frontline team leaders, and the role is the standard pathway to store manager.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 3,000~5,500 个 | 全国 |
-| Indeed | 2,200~4,000 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门主管 | $55,000~$65,000 | — |
-| 有经验 | $65,000~$78,000 | — |
-| 资深/大店 | $78,000~$88,000 | — |
+| Median salary | $65,884 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level Supervisor | $55,000~$65,000 | — |
+| Experienced | $65,000~$78,000 | — |
+| Senior / Large establishment | $78,000~$88,000 | — |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向店长、区域经理发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
+
+Can progress to store manager or area manager roles.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates shift schedules (based on historical foot traffic and employee preferences)
+- AI for inventory forecasting and automatic replenishment ordering
+- AI analysis of sales data to generate reports and trend insights
+- AI handles common customer queries (chatbots).
+
+**Where AI augments the role:**
+
+- Monitor team performance in real-time with AI dashboards, quickly adjust strategies
+- Using AI to simulate the impact of different scheduling scenarios on sales
+- Targeted promotions and product recommendations based on AI customer profiling
+- Improving New Employee Onboarding Efficiency with AI Training Tools
+
+**Human moat:**
+
+- Team morale management and conflict mediation
+- On-Site Emergency Decision-Making (e.g., customer complaints, safety incidents)
+- Interpersonal negotiation and collaboration with superiors and suppliers
+- Communicating corporate culture and values
+
+**Skills to build:**
+
+- Retail data analysis (advanced Excel + AI analysis tools)
+- Operation of AI Scheduling and Inventory Management Software
+- Digital marketing and customer relationship management (CRM)
+- Emotional intelligence and team leadership
+- Basic finance and cost control
+- AI tool integration and workflow automation
+
+**Key growth areas:**
 
 - Team Leadership
 - Visual Merchandising
@@ -66,57 +94,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学零售主管？**
-- 有零售经验想带团队者
-- 想走店长路径者
-
-**谁不适合学零售主管？**
-- 以技术移民为目标者
-- 不愿处理排班与周末班者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with retail experience looking to lead a team
+- Those pursuing a store manager career path
+
+**Who is not suited**
+- Those targeting skilled migration
+- Not willing to handle rostering and weekend shifts
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a retail supervisor in Australia?**
+A: Approx. AUD $55,000~$88,000.
+
+**Q: Can retail supervisors apply for skilled migration?**
+A: No, this is a non-skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-零售主管属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲零售主管工资多少？**
-答：约AUD $5.5万~$8.8万。
-
-**问：零售主管能技术移民吗？**
-答：不能，属于非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

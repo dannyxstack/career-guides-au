@@ -1,58 +1,94 @@
-# Web Developers（Web Developers）职业分析 · 美国
+# Web Developers — career analysis · United States
 
-**职业代码：15-1254 – Web Developers。**
+**Occupation code: 15-1254 (SOC)**
 
-Develop and implement websites, web applications, and interactive interfaces, ensuring code quality, performance, and cross-browser compatibility, often handling both front-end and back-end tasks.
+Design and build websites, web applications, and interactive interfaces, ensuring code meets industry standards, optimizing performance and compatibility, and can handle both front-end and back-end development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（公立社区学院） |
-| 学士学位 | 4年 | $40,000~$150,000（计算机科学或相关专业） |
+| Associate degree | 2 years | $10,000~$30,000 (Public community college) |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Computer science or related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 网页开发证书 | 各类技术学校或在线平台 | 可选 | 非强制但有助于求职 |
-| 计算机科学学士 | 认可大学 | 可选 | 常见学历要求 |
+| Web development certificate | Various technical schools or online platforms | Optional | not mandatory but helpful for job search |
+| Bachelor's in Computer Science | Recognised university | Optional | Common educational requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 205,000。美国劳工统计局预测 2023-2033 年增长约 16%，远超所有职业平均水平，受数字商业扩张驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 205,000. The US Bureau of Labor Statistics projects about 16% growth from 2023 to 2033, much faster than average for all occupations, driven by digital commerce expansion.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$85,000 | 含实习或入门职位 |
-| 中级（3-7年） | $85,000~$120,000 | 具备全栈能力 |
-| 高级（7年以上） | $120,000~$160,000 | 技术主管或架构师 |
+| Median salary | $92,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$85,000 | Includes internships or entry-level positions |
+| Mid-level (3–7 years) | $85,000~$120,000 | Full-stack capability |
+| Senior (7+ years) | $120,000~$160,000 | Technical lead or architect |
+| average salary | $98,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级开发者晋升为高级开发、技术主管或架构师；也可向全栈、DevOps 或产品经理转型。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
+
+Progress from junior developer to senior developer, technical lead, or architect; also possible to transition to full-stack, DevOps, or product manager.
+
+**Tasks most exposed to AI:**
+
+- Repetitive UI component writing and style debugging
+- CRUD code generation for standard REST APIs
+- Building static pages based on templates
+- Writing and executing basic test cases
+- Simple database queries and data migration scripts
+
+**Where AI augments the role:**
+
+- AI-assisted rapid prototyping and code snippet generation to accelerate development iteration
+- AI-driven automated testing and error detection to improve code quality
+- Using AI code review tools to detect potential security vulnerabilities and performance bottlenecks
+- AI-generated documentation and API descriptions to reduce writing time
+- AI-assisted project schedule estimation and technical solution selection
+
+**Human moat:**
+
+- System architecture design and technology selection decisions
+- Understanding of complex business logic and implementation of non-standard requirements
+- Empathy and creativity in user research and experience optimization
+- Cross-Team Communication and Project Management Skills
+- System security, compliance, and operational assurance
+
+**Skills to build:**
+
+- Master advanced usage of AI code assistants (e.g., Copilot, Cody)
+- Learning system architecture design and cloud-native technologies (AWS/Azure/GCP)
+- Strengthen full-stack development skills (frontend + backend + database)
+- Improve knowledge of UX design and accessibility standards
+- Learning AI model integration and API calls (e.g., LangChain, OpenAI API)
+- Cultivating project management and agile methodology (e.g., Scrum, SAFe)
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-commerce
@@ -61,69 +97,68 @@ Develop and implement websites, web applications, and interactive interfaces, en
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见的工签，需学士学位，每年配额有限，需抽签。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或学士+5年经验，可通过PERM劳工证申请绿卡。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或同等经验，流程较EB-2长。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出人才，需证明极高专业技能。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Most common work visa, requires a bachelor's degree, annual quota limited, subject to lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or bachelor's plus 5 years of experience; green card via PERM labor certification possible. |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires a bachelor's degree or equivalent experience; process is longer than EB-2. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For outstanding talent; requires proven exceptional professional skills. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web Developers？**
-- 喜欢编程与解决问题
-- 对网页设计与用户体验有热情
-- 愿意持续学习新技术
-
-**谁不适合学Web Developers？**
-- 不喜欢频繁代码调试
-- 偏好稳定重复性工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys programming and problem-solving
+- Passion for web design and user experience
+- Willingness to continuously learn new technologies
+
+**Who is not suited**
+- Dislike frequent code debugging
+- Preference for stable, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for web developers in the US?**
+A: Approximately US$95,000 in 2024, depending on experience and location.
+
+**Q: What are the main pathways for web developers to immigrate to the US?**
+A: Commonly H-1B work visa, then employer sponsors EB-2/EB-3 green card.
+
+**Q: Is a computer science degree required?**
+A: Not required, but a relevant degree or bootcamp certificate can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Web Developers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for web developers in the US?**
-答：Approximately $95,000 in 2024, varying by experience and location.
-
-**问：What are the main immigration pathways for web developers to the US?**
-答：Commonly H-1B visa followed by employer-sponsored EB-2 or EB-3 green card.
-
-**问：Is a computer science degree required?**
-答：Not mandatory, but a relevant degree or bootcamp certificate can enhance competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

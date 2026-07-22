@@ -1,59 +1,94 @@
-# Camera, platemaking and other prepress occupations（Camera, platemaking and other prepress occupations）职业分析 · 加拿大
+# Camera, platemaking and other prepress occupations — career analysis · Canada
 
-**职业代码：94151 – Camera, platemaking and other prepress occupations。**
+**Occupation code: 94151 (NOC)**
 
-This occupation involves operating cameras, platemaking, and other prepress equipment before printing, including digital image processing, typesetting, and color separation.
+This occupation involves operating cameras, platemaking, and other pre-press equipment before printing, including digital image processing, typesetting, color separation, and other tasks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中及印前培训 | 6个月-1年 | $2,000~$8,000（职业培训或学徒项目） |
-| 大专文凭 | 2年 | $15,000~$30,000（图形艺术或印前技术相关课程） |
+| High school and pre-press training | 6 months to 1 year | $2,000~$8,000 (Vocational training or apprenticeship program) |
+| Diploma | 2 years | $15,000~$30,000 (Courses in graphic arts or pre-press technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印前技术证书 | 各省行业协会 | 可选 | 非强制，但有助于就业 |
-| 平板印刷机操作员认证 | 印刷行业协会 | 必备 | 特定岗位要求 |
-| 工作场所安全认证 | 省安全机构 | 必备 | 基本安全要求 |
+| Offset printing press operator certification | Printing Industry Association | Required | Specific job requirements |
+| Workplace safety certification | Provincial security agency | Required | Basic safety requirements |
+| Prepress technology certificate | Provincial industry associations. | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 6,800。随着数字媒体发展，传统印前需求下降，但包装和商业印刷领域仍有稳定需求。预计未来几年就业机会有限，需适应数字化工作流程。
+**Job demand: medium (★★½☆☆).** National workforce approx. 6,800. With the development of digital media, traditional prepress demand is declining, but there is still stable demand in packaging and commercial printing. Job opportunities are expected to be limited in the coming years, requiring adaptation to digital workflows.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级薪资较低 |
-| 中级（3-7年） | $45,000~$55,000 | 经验丰富后薪资提升 |
-| 高级（7年以上） | $55,000~$65,000 | 管理或技术专家可达更高 |
+| Median salary | $53,768 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level salary is relatively low |
+| Mid-level (3–7 years) | $45,000~$55,000 | Salary increases with experience |
+| Senior (7+ years) | $55,000~$65,000 | Management or technical experts can earn higher |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 职业晋升路径有限，可从初级技术员晋升为高级印前专家或印前主管。学习数字设计和自动化工具可提升竞争力，但转向数字媒体领域更有利于长期发展。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Prepress technicians and workers face high risk of automation replacement. AI typesetting, auto-proofreading, and cloud printing platforms are significantly reducing traditional positions, lowering entry barriers but decreasing quality jobs.
+
+Career progression paths are limited, from junior technician to senior prepress specialist or prepress supervisor. Learning digital design and automation tools can improve competitiveness, but transitioning to digital media offers better long-term development.
+
+**Tasks most exposed to AI:**
+
+- Manual typesetting and page layout
+- Repeatedly communicate with designers to adjust text and images
+- Generate print-ready files and films
+- Basic color calibration and preflight
+- File format conversion and specification checking
+
+**Where AI augments the role:**
+
+- Use AI to automatically detect consistency in color, font, and layout
+- Quickly generate multiple design options with AI assistance
+- Use machine learning to predict printing issues and optimize parameters
+- Automated workflow orchestration and scheduling
+- Automatically generates personalized pre-press templates based on customer data
+
+**Human moat:**
+
+- Complex artistic creativity and aesthetic judgment
+- Communicates with clients about deep needs and provides customized solutions.
+- Handling non-standard, high-precision printing processes
+- Solve printing faults that AI cannot foresee
+- Cross-departmental coordination and project management
+
+**Skills to build:**
+
+- Proficiency in professional software like Adobe InDesign and Illustrator
+- Learn Python or JS basics to automate prepress processes
+- Understand color management (e.g., ICC profiles, densitometer use)
+- Familiarity with digital printing press operation and maintenance
+- Learn project management and client communication skills
+- Familiarity with AI design tools (e.g., Adobe Sensei, Canva)
+
+**Key growth areas:**
 
 - Digital Printing
 - Automation
@@ -62,68 +97,67 @@ This occupation involves operating cameras, platemaking, and other prepress equi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 适合有相关工作经验并通过语言考试的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份针对印刷行业有省提名项目 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法雇佣本地人 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Suitable for applicants with relevant work experience who have passed language exams. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have provincial nomination programs for the printing industry |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove unable to hire local workers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Camera, platemaking and other prepress occupations？**
-- 注重细节、有耐心的人
-- 对印刷技术有兴趣，愿意学习数字工具的人
-- 适应重复性工作环境的人
-
-**谁不适合学Camera, platemaking and other prepress occupations？**
-- 追求高薪和快速发展的人
-- 不喜欢固定流程和机械操作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient people
+- People interested in printing technology and willing to learn digital tools
+- People who adapt to repetitive work environments
+
+**Who is not suited**
+- Those pursuing high salary and rapid development
+- Those who dislike fixed procedures and mechanical operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a pre-press worker in Canada?**
+A: Junior salary approximately CAD 35,000-45,000, senior up to CAD 55,000-65,000, but varies by region and employer.
+
+**Q: Can pre-press occupations immigrate to Canada through skilled migration?**
+A: Yes, but competition is high. Usually applied through Express Entry or PNP, requiring employer sponsorship or provincial nomination.
+
+**Q: What is the demand outlook for prepress jobs in Canada?**
+A: Overall demand is stable with a slight decline; automation has reduced some roles, but stable demand remains in packaging and printing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Camera, platemaking and other prepress occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for prepress workers in Canada?**
-答：Entry-level annual salary is around CAD 35,000-45,000, and senior can reach CAD 55,000-65,000, depending on region and employer.
-
-**问：Can prepress occupations immigrate to Canada through skilled migration?**
-答：Yes, but competition is high. Usually via Express Entry or PNP, requiring employer sponsorship or provincial nomination.
-
-**问：What is the demand outlook for prepress jobs in Canada?**
-答：Overall demand is stable but slightly declining; automation reduces some positions, but packaging printing still has steady demand.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

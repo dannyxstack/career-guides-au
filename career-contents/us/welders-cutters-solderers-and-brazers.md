@@ -1,59 +1,93 @@
-# Welders, Cutters, Solderers, and Brazers（Welders, Cutters, Solderers, and Brazers）职业分析 · 美国
+# Welders, Cutters, Solderers, and Brazers — career analysis · United States
 
-**职业代码：51-4121 – Welders, Cutters, Solderers, and Brazers。**
+**Occupation code: 51-4121 (SOC)**
 
-Use hand-welding, flame-cutting, hand-soldering, or brazing equipment to weld or join metal components or to fill holes, indentations, or seams of fabricated metal products.
+Use manual welding, flame cutting, hand brazing, and other equipment to join metal parts or fill holes, dents, and seams in metal products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（高中文凭为基础） |
-| 职业培训/证书 | 6-12个月 | $5,000~$20,000（社区学院或技术学校焊接课程） |
-| 学徒制 | 3-4年 | —（在职培训+课堂学习，通常有薪） |
+| High school graduation | None | $0~$0 (based on high school diploma) |
+| Vocational training/certificate | 6–12 months | $5,000~$20,000 (Welding courses at community colleges or technical schools) |
+| Apprenticeship | 3-4 years | $0~$5,000 (On-the-job training plus classroom learning, usually paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接证书 | 美国焊接学会(AWS) | 可选 | 常见有AWS Certified Welder，多项认证可选 |
-| 州级焊工资格 | 各州政府 | 必备 | 部分州或特定项目要求持证上岗 |
+| State-level welding certification | State governments | Required | Some states or specific projects require certification |
+| Welding certificate | American Welding Society (AWS) | Optional | Common certifications include AWS Certified Welder, with multiple options available |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 400,000。制造业和基础设施建设项目持续推动需求，老焊工退休带来岗位空缺，就业增长稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 400,000. Manufacturing and infrastructure projects continue to drive demand, with retiring older welders creating job openings and stable employment growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 新手期或学徒 |
-| 中级（3-8年） | $45,000~$65,000 | 经验丰富的焊工 |
-| 高级（8年以上） | $65,000~$85,000 | 高级焊工、主管或特种焊接 |
+| Median salary | $53,750 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Beginner or apprentice period. |
+| Mid-level (3–8 years) | $45,000~$65,000 | Experienced welder |
+| Senior (8+ years) | $65,000~$85,000 | Advanced welder, supervisor, or specialty welding |
+| average salary | $56,760 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从初级焊工起步，积累经验后晋升为高级焊工、焊接主管或检验员，也可转向焊接工程师或自主创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+Starting as a junior welder, gaining experience to advance to senior welder, welding supervisor, or inspector, or transition to welding engineer or self-employment.
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - infrastructure
 - manufacturing
@@ -62,68 +96,67 @@ Use hand-welding, flame-cutting, hand-soldering, or brazing equipment to weld or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要学位，但部分职位可用经验替代，竞争激烈 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需要PERM劳工证，常用于技术工人绿卡申请 |
-| Subclass Green Card (PERM)（Employment Based Green Card） | 通过PERM劳工认证申请绿卡，雇主赞助 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a degree, but some positions accept experience as a substitute; competitive. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, commonly used for skilled worker green card applications |
+| Subclass Green Card (PERM) (Employment Based Green Card) | Green card application through PERM labor certification, employer-sponsored |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welders, Cutters, Solderers, and Brazers？**
-- 动手能力强，喜欢技术性工作
-- 能适应体力劳动和户外环境
-- 愿意持续学习新技术
-
-**谁不适合学Welders, Cutters, Solderers, and Brazers？**
-- 不希望从事体力劳动
-- 对工作环境（高温、噪音）敏感
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, enjoys technical work.
+- Able to handle physical labor and outdoor environments
+- Willingness to continuously learn new technologies
+
+**Who is not suited**
+- Unwilling to do physical labor
+- Sensitive to work environment (heat, noise)
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary growth potential for welders?**
+A: With experience and professional certifications (e.g., AWS advanced certificates), salary can increase from around US$35,000 to over US$85,000.
+
+**Q: How can welders immigrate to the US through work?**
+A: Common path: employer-sponsored H-1B (needs relevant degree or equivalent experience) or EB-3 skilled worker green card (requires PERM labor certification).
+
+**Q: What advanced roles can welders move into?**
+A: Can advance to welding supervisor, inspector, welding engineer, or start own business to take on projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Welders, Cutters, Solderers, and Brazers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for welders?**
-答：With experience and advanced certifications, salary can increase from around $35,000 to over $85,000.
-
-**问：How can welders immigrate to the US through work?**
-答：Common paths: H-1B with degree or equivalent experience, or EB-3 green card with PERM labor certification.
-
-**问：What advanced roles can welders transition to?**
-答：They can become welding supervisors, inspectors, welding engineers, or start their own business.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

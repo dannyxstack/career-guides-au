@@ -1,60 +1,96 @@
-# Retail cashiers and check-out operators（Retail cashiers and check-out operators）职业分析 · UK
+# Retail cashiers and check-out operators — career analysis · United Kingdom
 
-**职业代码：7112 – Retail cashiers and check-out operators。**
+**Occupation code: 7112 (SOC)**
 
-Retail cashiers and check-out operators accept payments from customers and give change in respect of sales or services at store checkouts.
+Retail cashiers and checkout operators receive customer payments, handle change, and process simple sales transactions at store checkout counters.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中 | 无需 | —（通常无需正规教育，雇主提供在岗培训） |
-| 短期职业课程 | 2周至3个月 | $100~$500（可选收银操作课程，增强技能） |
+| High school | None | $0~$0 (Usually no formal education required; employers provide on-the-job training) |
+| Short-term vocational course | 2 weeks to 3 months | $100~$500 (Optional cashier operation course to enhance skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在岗培训 | 雇主 | 必备 | 包括收银机操作、客户服务、现金处理 |
-| 食品卫生证书 | 例如CIPD | 可选 | 若在超市熟食区工作可能需要 |
+| On-the-job training | Employer | Required | Includes cash register operation, customer service, cash handling |
+| Food hygiene certificate | e.g. CIPD | Optional | May be required if working in supermarket deli section |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。随着自助结账技术普及和在线购物增长，收银员需求预计会缓慢下降，但实体店仍需要人工辅助顾客，尤其是杂货店。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. With the spread of self-checkout technology and growth in online shopping, demand for cashiers is expected to slowly decline, but physical stores still need staff to assist customers, especially in grocery stores.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$21,000 | 最低工资附近 |
-| 中级（2-5年） | $21,000~$24,000 | 略有经验后上升 |
-| 高级（5年以上） | $24,000~$28,000 | 包括主管职位 |
+| Median salary | $24,622 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–2 years) | $18,000~$21,000 | Around minimum wage |
+| Intermediate (2-5 years) | $21,000~$24,000 | Rises after some experience |
+| Senior (5+ years) | $24,000~$28,000 | Including supervisory positions. |
+| average salary | $24,294 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 通常从初级收银员起步，可晋升为高级收银员、收银主管，或转向零售销售、客户服务管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Retail cashier roles are facing accelerated automation replacement: self-checkout, AI visual recognition, and mobile payments are drastically reducing traditional cashier demand, entry-level positions are shrinking significantly, and those who do not proactively transition risk unemployment.
+
+Usually start as a junior cashier, can advance to senior cashier, head cashier, or transition to retail sales, customer service management roles.
+
+**Tasks most exposed to AI:**
+
+- Scanning barcodes and calculating totals (replaced by self-checkout devices)
+- Accept payments via cash, bank cards, etc., and handle change (automatic change, mobile payment alternatives)
+- Check product prices and promotional discounts (system automatically calculates)
+- Issuing sales receipts or invoices (replaced by electronic ticketing systems).
+- Initial receipt of returns processing (replaced by self-service kiosks or online processes)
+
+**Where AI augments the role:**
+
+- Customer complaints and dispute handling (AI-assisted emotion recognition and suggested scripts).
+- Managing monitoring and anomaly handling in self-checkout areas
+- In-store inventory counting and replenishment coordination (driven by AI predictions)
+- Membership management and personalized recommendation guidance (manual communication after system recommendation)
+- Cashier Data Anomaly Analysis Report (AI-generated with Human Interpretation)
+
+**Human moat:**
+
+- Handle non-standard complaints and emergencies
+- Interpersonal communication and emotional reassurance
+- Flexibly handle system failures or abnormal processes
+- On-site active sales and customer relationship building
+- Patient guidance for elderly or technologically disadvantaged customers
+
+**Skills to build:**
+
+- Operation and troubleshooting of self-checkout systems
+- Basic data analysis and inventory management software
+- Customer service and conflict resolution skills
+- Multitasking and on-site coordination skills.
+- Sales skills and member conversion ability
+- Learn to use AI-assisted customer service tools.
+
+**Key growth areas:**
 
 - Declining demand
 - Self-service checkouts
@@ -63,62 +99,64 @@ Retail cashiers and check-out operators accept payments from customers and give 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 收银员通常不满足技术工人签证的技能要求，因为属于低技能职业。 |
-| Subclass Graduate（Graduate visa） | 允许毕业生在英国工作两年，可从事收银员工作，但无法直接转为技术移民。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Cashiers generally do not meet the skill requirements for skilled worker visas as it is a low-skilled occupation. |
+| Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for two years, can work as a cashier, but cannot directly transition to skilled migration. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Retail cashiers and check-out operators？**
-- 寻求快速就业、无需高学历的年轻人
-- 兼职或灵活工作时间需求者
-- 喜欢与人打交道、有耐心的人
+**Who is suited**
+- Young people seeking quick employment and not requiring high education
+- For those seeking part-time or flexible hours.
+- People who enjoy interacting with others and are patient
 
-**谁不适合学Retail cashiers and check-out operators？**
-- 追求高收入和职业发展空间的人
-- 希望长期留在英国并申请永居的移民
+**Who is not suited**
+- Those seeking high income and career development space
+- Migrants wishing to stay in the UK long-term and apply for permanent residence
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a cashier?**
+A: Average annual salary for a UK cashier is about £21,000, entry-level around £18,000, senior up to £28,000.
+
+**Q: Can a cashier apply for the Skilled Worker visa?**
+A: Usually not, as cashier is a low-skilled occupation not on the eligible Skilled Worker occupation list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Retail cashiers and check-out operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a retail cashier?**
-答：The average salary for a retail cashier in the UK is around £21,000 per year, with entry-level around £18,000 and senior roles up to £28,000.
-
-**问：Can a retail cashier apply for a Skilled Worker visa?**
-答：Generally no, as retail cashier is considered a low-skilled occupation and is not eligible for sponsorship under the Skilled Worker visa route.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Shop Sales Assistant（Shop Sales Assistant）职业分析 · IE
+# Shop Sales Assistant — career analysis · Ireland
 
-**职业代码：5223 – Shop Sales Assistant。**
+**Occupation code: 5223 (ISCO08)**
 
-Shop sales assistants provide product information, assist customers in selecting purchases, and process transactions in retail stores, forming the frontline of the retail industry in Ireland.
+A retail sales assistant provides product information to customers, assists with purchases, and completes checkout transactions in a retail store. This role is a frontline position widely found on Irish high streets and shopping centres.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正规教育 | —（在职培训为主） |
-| 零售技能证书 | 6个月 | $200~$500（可选QAI/FETAC证书） |
+| High school graduation | No formal education required | $0~$0 (On-the-job training primarily) |
+| Retail skills certificate | 6 months. | $200~$500 (Optional QAI/FETAC certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售技能基础证书 | FETAC/QAI | 可选 | 非强制但有助于就业 |
-| 客户服务证书 | 行业协会 | 可选 | 提升竞争力 |
+| Retail Skills Basic Certificate | FETAC/QAI | Optional | Not mandatory but helpful for employment |
+| Customer service certificate | Industry association | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 90,000。爱尔兰零售业就业预计保持稳定，受电商冲击部分岗位减少，但实体店仍需销售助理提供个性化服务，尤其在精品店和大型超市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 90,000. Employment in the Irish retail sector is expected to remain stable, with some roles reduced due to e-commerce impact, but physical stores still require sales assistants to provide personalised services, especially in boutiques and large supermarkets.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$26,000 | 最低工资约11.30欧元/小时 |
-| 中级（3-6年） | $26,000~$31,000 | 含绩效奖金 |
-| 高级（6年以上） | $31,000~$38,000 | 主管级别 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$26,000 | Minimum wage about €11.30/hour |
+| Mid-level (3–6 years) | $26,000~$31,000 | Includes performance bonuses |
+| Senior (6+ years) | $31,000~$38,000 | Supervisor level |
+| average salary | $28,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级销售助理可晋升为高级销售、部门主管或店长，也可转向采购、视觉陈列等岗位。积累经验后有机会进入零售管理培训项目。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will partially replace repetitive tasks like cashiering and inventory checks, but also enhance personalized recommendations and customer service, raising skill requirements and potentially entry barriers.
+
+Junior sales assistants can advance to senior sales, department head, or store manager, or move into purchasing, visual merchandising, and other roles. With experience, they may enter retail management training programs.
+
+**Tasks most exposed to AI:**
+
+- Processing payments using a POS system
+- Manually check inventory information and answer customer questions
+- Record customer purchase history and preferences
+- Print and organize price tags and promotional information
+- Generate routine sales reports
+
+**Where AI augments the role:**
+
+- Use AI customer analysis tools for personalized product recommendations
+- Provide 7x24 customer consultation via AI chatbot
+- AI-assisted replenishment forecasting and inventory optimization
+- Use AR/VR tools to demonstrate product effects
+- Automated creation of marketing content and management of social media interactions
+
+**Human moat:**
+
+- Complex customer complaint handling and emotional reassurance
+- On-site trials, testing, and other experiential services
+- Flexible response to unstructured customer needs
+- Build long-term trust relationships with existing clients
+- Handling returns and exchanges or other steps requiring discretion
+
+**Skills to build:**
+
+- Proficiency in retail CRM and AI recommendation system operations
+- Learn basic data analysis and sales report interpretation
+- Improve customer communication and problem-solving skills
+- Familiar with social media marketing and content creation tools.
+- Understanding of inventory management and forecasting software.
+- Multilingual customer service skills
+
+**Key growth areas:**
 
 - omnichannel retail
 - customer experience
@@ -63,62 +99,64 @@ Shop sales assistants provide product information, assist customers in selecting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年收入低于30000欧元的非紧缺职业，需雇主担保，配额有限。 |
-| Subclass Student Visa（Stamp 2） | 留学生可兼职工作，每周不超过20小时，寒暑假全职。 |
+| Subclass General Employment P (General Employment Permit) | For non-critical occupations with annual income below €30,000, requires employer sponsorship, limited quota. |
+| Subclass Student Visa (Stamp 2) | International students can work part-time, up to 20 hours per week, and full-time during holidays. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shop Sales Assistant？**
-- 善于沟通、有耐心的人
-- 喜欢快节奏工作环境的人
-- 希望积累零售经验入门的人
+**Who is suited**
+- Good communication and patience
+- People who enjoy a fast-paced work environment
+- Those who want to gain retail experience as a starting point
 
-**谁不适合学Shop Sales Assistant？**
-- 不善与人打交道的人
-- 希望高薪或快速职业晋升的人
+**Who is not suited**
+- People who are not good at dealing with others
+- People seeking high salary or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a sales assistant in Ireland?**
+A: Entry-level about 21,000-26,000 EUR/year, mid-level about 26,000-31,000 EUR/year.
+
+**Q: Can foreigners obtain a work visa through this occupation?**
+A: This occupation is not on the shortage list, requires a General Employment Permit, but quota is limited and employer must pass the Labour Market Test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shop Sales Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for shop sales assistants in Ireland?**
-答：Entry level around €21,000-€26,000 per year, mid-level €26,000-€31,000.
-
-**问：Can foreigners obtain a work visa through this occupation?**
-答：This occupation is not on the critical skills list; a General Employment Permit is needed, subject to quota and labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

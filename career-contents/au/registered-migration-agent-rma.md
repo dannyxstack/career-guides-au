@@ -1,68 +1,98 @@
-# 移民中介（注册移民代理）（Migration Agent）职业分析 · 澳大利亚
+# Registered Migration Agent (RMA) — career analysis · Australia
 
-**职业代码：224913 – Migration Agent。**
+**Occupation code: 224913 (ANZSCO)**
 
-注册移民代理（Registered Migration Agent/RMA）代表客户向澳洲移民局提交签证申请，提供签证策略咨询、申请准备和合规服务。澳洲持续的高移民配额（2024-2025年度移民目标约185,000人）和多元签证类别推动对注册移民代理的稳定需求，是华人社区就业密度最高的商业类执照职业。
+Registered Migration Agents (RMAs) represent clients in submitting visa applications to the Australian Department of Home Affairs, providing visa strategy advice, application preparation, and compliance services. Australia's sustained high immigration quotas (approximately 185,000 places in the 2024-2025 program year) and diverse visa categories drive stable demand for registered migration agents, making it one of the most densely employed licensed professions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Graduate Certificate in Australian Migration Law & Practice（6~12个月） | 6~12个月（OMARA认可课程） | $5,000~$20,000（是成为注册移民代理的法律学历要求；澳洲多所大学提供，约 $5,000~$15,000） |
-| OMARA 注册申请（Registered Migration Agent） | 1~3个月申请流程 | $1,000~$3,000（OMARA注册费约 $1,200~$1,500/年；是合法执业移民代理的法律要求） |
-| VETASSESS 技能评估（189/190签证） | 2~6个月 | $600~$2,000（技术移民必须，约 $650 申请费） |
+| Graduate Certificate in Australian Migration Law & Practice (6–12 months) | 6–12 months (OMARA-approved course) | $5,000~$20,000 (The legal academic requirement for becoming a registered migration agent; offered by several Australian universities at approximately $5,000–$15,000) |
+| OMARA Registration Application (Registered Migration Agent) | 1–3 month application process | $1,000~$3,000 (OMARA registration fees are approximately $1,200–$1,500 per year; this is a legal requirement for practising as a registered migration agent) |
+| VETASSESS skills assessment (189/190 visa) | 2–6 months | $600~$2,000 (Mandatory for skilled migration, application fee approximately $650) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| OMARA注册（Registered Migration Agent） | OMARA（Office of the Migration Agents Registration Authority） | 必备 | 澳洲合法执业移民代理的法律要求，缺少此注册不可执业 |
-| Graduate Certificate in Australian Migration Law & Practice | 澳洲认可大学（如UNSW/ANU/Murdoch） | 必备 | OMARA注册的学历要求，6~12个月完成 |
-| MARA Member Status | Migration Institute of Australia（MIA） | 可选 | 行业协会会员资格，提升执业信誉和转介网络 |
-| VETASSESS 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
+| OMARA registration (Registered Migration Agent) | OMARA（Office of the Migration Agents Registration Authority） | Required | Legal requirement for practising as a registered migration agent in Australia; practice is not permitted without this registration |
+| Graduate Certificate in Australian Migration Law & Practice | Australian recognised universities (e.g. UNSW/ANU/Murdoch) | Required | OMARA registration academic requirement, completed in 6–12 months |
+| MARA Member Status | Migration Institute of Australia（MIA） | Optional | Industry association membership, enhancing professional credibility and referral networks |
+| VETASSESS skills assessment | VETASSESS | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,000。JSA预测移民代理至2035年就业稳定增长约5%。技能移民（482/189/190）需求持续旺盛，家庭签证积压延误推动对专业处理复杂申请的RMA需求增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,000. JSA projects stable employment growth of approximately 5% for migration agents through to 2035. Demand for skilled migration (482/189/190) remains strong, and backlogs and delays in family visa processing are driving increased demand for RMAs who can handle complex applications.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~800 个 | 全国，含注册移民代理、移民律师助理和签证顾问岗 |
-| Indeed | 200~600 个 | 含移民公司和律所移民部门岗 |
-| LinkedIn | 400~1,000 个 | 移民公司直招和自雇RMA广告 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级移民代理 / 签证顾问（0~3年） | $60,000~$80,000 | 受聘于移民公司初期起薪 |
-| 执业移民代理（3~8年） | $75,000~$110,000 | SEEK 区间 $85k~$100k；Indeed 均值 $77,754（2026） |
-| 资深/自雇移民代理（8年+，自有客户基础） | $100,000~$200,000 | 自雇RMA，每案佣金制；活跃华人社区RMA收入可显著超 $150k |
-| 移民律师 / 合伙人 | $150,000~$350,000 | 同时持有律师执照的移民律师，高端商业移民客户，收入远高于普通RMA |
+| Median salary | $113,828 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior migration agent / visa consultant (0–3 years) | $60,000~$80,000 | Starting salary when first employed at a migration agency |
+| Registered migration agent (3–8 years) | $75,000~$110,000 | SEEK range $85k–$100k; Indeed average $77,754 (2026) |
+| Senior / self-employed migration agent (8+ years, established client base) | $100,000~$200,000 | Self-employed RMA, commission per case basis; active community RMAs can earn significantly more than $150k. |
+| Migration lawyer / partner | $150,000~$350,000 | Immigration lawyers who also hold a legal practising certificate serving high-end business migration clients earn significantly more than a standard RMA |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 技能移民（Skills in Demand签证482/186体系2024年大幅改革）是2025年业务量最大的签证类别。RMA通过AI辅助申请文件生成可显著提升效率，但签证策略判断和复杂案例处理不可替代。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Immigration agent work is mixed under AI influence: substantial document processing and compliance checks can be automated, but strategic consulting, interpersonal communication, and legal responsibility form a solid moat; competition for entry-level roles intensifies, while senior consultants' value increases.
+
+Skilled migration (the Skills in Demand visa under the 482/186 framework, significantly reformed in 2024) is the highest-volume visa category in 2025. RMAs can greatly improve efficiency using AI-assisted document preparation, but strategic visa advice and handling complex cases remain irreplaceable.
+
+**Tasks most exposed to AI:**
+
+- Auto-filling visa applications and generating standard forms
+- Preliminary screening of client backgrounds and visa eligibility using AI models
+- Updating and maintaining client case progress systems.
+- Search latest immigration regulations and case law
+- Generate standardized application progress reports and reminder emails
+
+**Where AI augments the role:**
+
+- Use AI to Analyze Client Backgrounds and Provide Personalized Visa Strategy Advice
+- Rapidly parsing complex regulatory changes through natural language processing to enhance compliance
+- Use data analytics to predict visa approval probabilities and optimize applications
+- Serve multilingual clients using AI translation and cross-cultural communication tools
+- Using document automation tools to improve consistency and quality of application materials
+
+**Human moat:**
+
+- Strategic Judgment and Creative Solutions for Complex, Non-Standard Cases
+- Building trust with clients, handling sensitive personal information and immigration anxiety
+- Substantive communication and appeals with the immigration department on behalf of clients
+- Assume professional liability risk, provide professional oath and ethical assurance
+- Understanding clients' life goals to provide long-term planning advice beyond visas
+
+**Skills to build:**
+
+- AI-assisted consulting tools (e.g., smart visa assessment systems)
+- Data analysis and visualization (predicting refusal risk, case prioritization)
+- Legal tech platform operations (case management, document automation)
+- Advanced communication and customer relationship management (especially complex cases)
+- Cross-cultural service capability (multilingual, multicultural backgrounds)
+- Ethical and compliance decision-making (maintaining professional judgment with AI suggestions)
+
+**Key growth areas:**
 
 - Employer-Sponsored Visa (482/186)
 - Student & Graduate Visa
@@ -72,90 +102,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，移民公司可担保有经验的RMA |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，VETASSESS评估 |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship — migration firms can sponsor experienced RMAs |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, VETASSESS assessment |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学移民中介（注册移民代理）？**
-- 英语能力极强（IELTS 7.0+），熟悉澳洲移民法律体系或有意深入学习
-- 有华人社区人脉或多元文化社区背景（华人移民市场机会大）
-- 持有或有意完成Graduate Certificate课程+OMARA注册（6~12个月入门）
-- 有法律/商科相关学历（Graduate Certificate申请优势）
-- 目标是自雇模式（个人品牌建立后收入增长空间大）
-
-**谁不适合学移民中介（注册移民代理）？**
-- 英语能力较弱，无法处理英语移民法律文件和与移民局沟通
-- 不适应移民政策频繁变化带来的持续学习压力
-- 期望稳定收入但不愿承担自雇模式的客户开发压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong English proficiency (IELTS 7.0+), familiar with the Australian immigration legal system or willing to develop in-depth knowledge
+- Having connections within ethnic communities or multicultural backgrounds (significant opportunities in immigrant markets)
+- Holds or intends to complete a Graduate Certificate programme + OMARA registration (6–12 months to get started)
+- Relevant legal/business qualification (Graduate Certificate is advantageous)
+- Goal is self-employment (significant income growth potential once a personal brand is established).
+
+**Who is not suited**
+- Limited English proficiency, unable to handle English-language immigration legal documents or communicate with immigration authorities
+- Unable to cope with the ongoing learning pressure caused by frequent changes in immigration policy
+- Expecting stable income but unwilling to take on the client development pressure of self-employment
+
+---
+
+## 8. FAQ
+
+**Q: How much do migration agents earn in Australia?**
+A: Employed migration agents earn approximately $75,000–$110,000 (SEEK $85k–$100k; Indeed average $77,754); active self-employed RMAs earn approximately $100k–$200k+ (depending on caseload and fee structure); immigration lawyers approximately $150k–$350k.
+
+**Q: Is it easy to find work as a migration agent in Australia?**
+A: Medium difficulty. Seek lists about 300-800 positions; there are many self-employment opportunities in the community market. Skilled migration (482/189/190) is in high demand, but competition is intense.
+
+**Q: Is overseas immigration consulting experience recognised in Australia?**
+A: A Chinese immigration consulting background is helpful, but you must complete an Australian Graduate Certificate course and OMARA registration to legally practice. It takes about 6-12 months to complete the qualification conversion. The Australian immigration legal system is completely different from China's and must be learned from scratch.
+
+**Q: Will AI replace migration agents?**
+A: Partial replacement. AI tools can assist with standard application forms and document checks, but visa strategy planning, complex case handling (refusals/appeals) and client relationship management cannot be replaced. The value of high-quality RMA services is, if anything, becoming more pronounced.
+
+**Q: Is there an age limit for registered migration agents in Australia?**
+A: None. Senior RMAs (aged 40–55) with extensive industry experience and client networks are among the most trusted practitioners in the market, particularly in the high-net-worth business migration space.
+
+**Q: What qualifications are needed to become a migration agent in Australia?**
+A: The Graduate Certificate in Australian Migration Law & Practice is the academic requirement for OMARA registration, taking approximately 6–12 months to complete. Applicants with an undergraduate degree in law or business have an advantage when applying for the Graduate Certificate, though it is not mandatory.
+
+**Q: Is it difficult to become a registered migration agent in Australia?**
+A: Moderate difficulty. A Graduate Certificate takes approximately 6–12 months, and OMARA registration has a relatively clear pathway. The main challenges are memorising and understanding Australia's migration law framework and meeting ongoing CPD requirements. Frequent policy changes require continuous learning.
+
+**Q: Which is better for migrating to Australia – a migration agent or a lawyer?**
+A: Immigration agents have a much lower entry barrier than lawyers (Graduate Certificate 6–12 months vs LLB/JD 4–5 years), with moderate income; lawyers have higher salary ceilings (partners $200k–$600k), but the immigration pathway is more complex. Those with legal background and strong English choose lawyers; those with migration background and strong ethnic networks choose RMA self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 移民代理薪资 $85k~$100k（2026） |
-| Indeed AU | 移民代理平均薪资 $77,754（2026） |
-| OMARA | 注册移民代理资格和注册信息 |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-移民中介（注册移民代理）的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲移民代理工资多少？**
-答：受聘移民代理约 $75,000~$110,000（SEEK $85k~$100k；Indeed均值 $77,754）；活跃自雇RMA收入约 $100k~$200k+（取决于案件量和收费标准）；移民律师约 $150k~$350k。
-
-**问：澳洲移民代理容易找工作吗？**
-答：中等难度。Seek 挂牌约 300~800 个职位；华人社区市场有大量自雇机会。技能移民（482/189/190）需求旺盛，但华人RMA市场竞争激烈。
-
-**问：中国移民咨询经验澳洲认可吗？**
-答：中国移民咨询背景有帮助，但必须完成澳洲Graduate Certificate课程+OMARA注册方可合法执业。约6~12个月可完成资格转换。澳洲移民法律体系与中国完全不同，必须从头学习。
-
-**问：移民代理会被AI替代吗？**
-答：部分替代。AI工具可辅助标准申请表填写和文件核查，但签证策略规划、复杂案例处理（拒签/上诉）和客户关系管理不可替代。高质量的RMA服务价值反而更凸显。
-
-**问：澳洲移民代理有年龄限制吗？**
-答：无。资深RMA（40~55岁）凭借深厚的行业经验和客户网络，是市场上最被信任的执业者，特别是在高净值商业移民领域。
-
-**问：澳洲移民代理需要什么学历？**
-答：Graduate Certificate in Australian Migration Law & Practice是OMARA注册的学历要求，约6~12个月完成。有法律/商科本科学历者申请Graduate Certificate有优势，但非必须。
-
-**问：澳洲移民代理认证（移民）难吗？**
-答：难度中等。Graduate Certificate约6~12个月，OMARA注册相对清晰。主要挑战是澳洲移民法律体系的记忆和理解，以及持续的CPD要求。移民政策频繁变化需要持续学习。
-
-**问：移民代理和律师哪个更适合移民澳洲？**
-答：移民代理入门门槛大幅低于律师（Graduate Certificate 6~12个月 vs LLB/JD 4~5年），收入中等；律师薪资天花板更高（合伙人 $200k~$600k），但移民路径更复杂。有法律背景且英语极强者选律师；有移民背景且华人网络丰富者选RMA自雇路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

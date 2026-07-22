@@ -1,58 +1,92 @@
-# Dairy Products Maker（Dairy Products Maker）职业分析 · 新西兰
+# Dairy Products Maker — career analysis · New Zealand
 
-**职业代码：831114 – Dairy Products Maker。**
+**Occupation code: 831114 (ANZSCO)**
 
-Operate equipment to process milk into dairy products like cheese, butter and yogurt, ensuring safety and quality standards. This role is on NZ's Long Term Skill Shortage List, eligible for Green List Tier 1 direct residence.
+Operating equipment in a dairy processing plant to process milk into cheese, butter, yogurt and other products, ensuring compliance with safety and quality standards. This occupation is on New Zealand's long-term skill shortage list and eligible for direct residency through Green List Tier 1.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书课程 (Level 2-4) | 1年 | $5,000~$15,000（全日制或在线课程） |
-| 学徒/在职培训 | 2-4年 | —（雇主资助，部分课程费用可豁免） |
+| Certificate Courses (Level 2-4) | 1 year | $5,000~$15,000 (Full-time or online courses) |
+| Apprenticeship / on-the-job training | 2-4 years | $0~$2,000 (Employer-sponsored, some course fees may be waived) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰乳制品制造证书 (Level 2-4) | Primary ITO | 必备 | 核心技能认证，涵盖食品安全与操作规范 |
-| 食品加工证书 (Level 3) | 各理工学院 | 可选 | 受行业认可，部分课程提供实习 |
+| New Zealand Certificate in Dairy Manufacturing (Level 2-4) | Primary ITO | Required | Core skills certification covering food safety and operational standards |
+| Food Processing Certificate (Level 3) | Various polytechnics | Optional | Industry-recognized, some courses offer internships. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰是乳制品出口大国，恒天然等企业持续需要熟练工人。预计未来5年就业稳定增长，尤其在怀卡托、塔拉纳基等奶业主产区。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand is a major dairy exporter, with companies like Fonterra consistently needing skilled workers. Stable employment growth expected over the next 5 years, especially in major dairy regions like Waikato and Taranaki.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $48,000~$55,000 | 时薪约$23-26 |
-| 中级（2-5年） | $58,000~$70,000 | 时薪约$28-34 |
-| 高级（5年+） | $72,000~$85,000 | 技师或领班，时薪$35-41 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $48,000~$55,000 | Hourly wage approx. $23-26 |
+| Intermediate (2-5 years) | $58,000~$70,000 | Hourly wage approximately $28-34 |
+| Senior (5+ years) | $72,000~$85,000 | Technician or team leader, hourly rate $35-41 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级操作员晋升为高级技师或领班；也可转岗至质量保证、研发或生产管理岗位，需积累经验并考取相关证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly reduce dairy processing job demand, especially in standardised operations and quality inspection, but parts involving manual quality control and equipment maintenance still require humans.
+
+Progress from junior operator to senior technician or team leader; can also transfer to quality assurance, R&D, or production management roles, requiring experience accumulation and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Quality standard testing (e.g., fat content, acidity) replaced by AI vision and sensors
+- Monitoring and adjustment of equipment operating parameters are taken over by automated systems
+- Packaging and palletizing done by robots
+- Production data recording and reporting are automatically executed by the IoT system.
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance reduces equipment downtime
+- Formula optimization improves product quality and consistency through machine learning
+- AI predicts demand in supply chain and inventory management to reduce waste
+- Digital training simulations improve employee operational proficiency
+
+**Human moat:**
+
+- Sensory evaluation of non-standard products (e.g., cheese flavor adjustment) relies on human experience
+- Emergency equipment troubleshooting requires on-site judgment and hands-on skills
+- Food safety compliance and on-site hygiene supervision responsibilities
+- Teamwork and cross-departmental communication and coordination
+- Manual skills adapted to small-batch customized production
+
+**Skills to build:**
+
+- Automated equipment operation and programming (PLC basics)
+- Data analysis and process control (SCADA systems)
+- Robot maintenance and troubleshooting
+- Deepening HACCP and food safety management systems
+- Digital Twin and Simulation Software Application
+- Basic industrial artificial intelligence and machine learning
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Long Term Skill Shortage List
@@ -61,68 +95,67 @@ Operate equipment to process milk into dairy products like cheese, butter and yo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色列表一级职业要求，可直接申请居留，无工作经验门槛 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，但绿色列表路径更快捷 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主offer后申请，为积累经验过渡到居留的常见路径 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List Tier 1 occupation requirements, eligible for direct residency with no work experience threshold. |
+| Subclass SMC (Skilled Migrant Category) | Through the six-point skilled migration system, but the Green List pathway is faster. |
+| Subclass AEWV (Accredited Employer Work Visa) | Apply after obtaining a certified employer offer; a common pathway to gain experience and transition to residency |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dairy Products Maker？**
-- 对乳制品加工有热情，愿意在食品行业长期发展
-- 能适应倒班和体力劳动，注重食品安全与卫生
-- 希望快速通过技术移民定居新西兰的人士
-
-**谁不适合学Dairy Products Maker？**
-- 无法接受重复性流水线工作
-- 对乳制品过敏或不感兴趣
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enthusiasm for dairy processing, willing to develop long-term in the food industry.
+- Able to adapt to shift work and physical labour, with a focus on food safety and hygiene
+- People seeking fast-track skilled migration residence in New Zealand.
+
+**Who is not suited**
+- Cannot tolerate repetitive assembly line work
+- Allergy or no interest in dairy products
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dairy manufacturing workers in New Zealand?**
+A: Entry level approx NZ$48,000-55,000/year, mid level NZ$58,000-70,000, senior NZ$72,000-85,000.
+
+**Q: Can a dairy products maker migrate to New Zealand through skilled migration?**
+A: Yes. This occupation is on Green List Tier 1, can directly apply for residence without working two years first.
+
+**Q: What if I can't find employer sponsorship?**
+A: Can find work with accredited employers through AEWV, then transfer to the Green List after gaining experience. Alternatively, study a certificate course first to improve competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Dairy Products Maker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Dairy Products Maker in NZ?**
-答：Entry-level NZD 48k-55k, mid-level NZD 58k-70k, senior NZD 72k-85k per year.
-
-**问：Can Dairy Products Maker migrate to NZ via skilled migration?**
-答：Yes. It's on Green List Tier 1, eligible for Straight to Residence Visa without a prior work period.
-
-**问：What if I can't find employer sponsorship?**
-答：Apply for AEWV with accredited employers, gain experience then switch to Green List. Or study a certificate to boost competitiveness.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

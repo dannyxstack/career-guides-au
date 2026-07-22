@@ -1,70 +1,99 @@
-# 汽车技工（Motor Mechanic (General)）职业分析 · 澳大利亚
+# Motor Mechanic — career analysis · Australia
 
-**职业代码：321211 – Motor Mechanic (General)。**
+**Occupation code: 321211 (ANZSCO)**
 
-汽车技工负责诊断、维修和保养轿车、卡车及各类机动车辆，广泛服务于零售修车厂、汽车经销商、车队管理和矿业。在澳大利亚，汽车技工持 Certificate III 执业，列入技术短缺清单，EV和混合动力技术转型带来新增需求。
+Automotive mechanics diagnose, repair, and service cars, trucks, and a wide range of motor vehicles, working across retail workshops, car dealerships, fleet management, and mining. In Australia, automotive mechanics hold a Certificate III to practise, are listed on the skills shortage list, and the transition to EV and hybrid technology is generating new demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 AUR30620 Certificate III in Light Vehicle Mechanical Technology） | 42~48个月 | —（各州补贴，NSW 大部分免费，WA 上限 $1,200） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含TRA评估费及实习期费用） |
-| 电动车高压安全认证（EV HV Certificate） | 3~5天（短课程） | $500~$1,500（具备EV维修资质的溢价资质，建议持牌后尽早考取） |
+| Apprenticeship (including AUR30620 Certificate III in Light Vehicle Mechanical Technology) | 42–48 months | $0~$1,200 (State government subsidies — mostly free in NSW, capped at $1,200 in WA) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fees and internship costs) |
+| Electric Vehicle High Voltage Safety Certificate (EV HV Certificate) | 3–5 days (short course) | $500~$1,500 (Premium qualification for those with EV repair certification; recommended to obtain as soon as possible after licensing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Light Vehicle Mechanical Technology (AUR30620) | TAFE / RTO | 必备 | 全国统一课程，轿车维修执业基础资质 |
-| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31120) | TAFE / RTO | 可选 | 重型商业车维修资质（可选，扩展就业范围） |
-| EV High Voltage Safety Certificate | 认可RTO（如 NRSPP） | 可选 | 电动车维修安全强制要求，EV经销商必须 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Light Vehicle Mechanical Technology (AUR30620) | TAFE / RTO | Required | Nationally standardised curriculum; foundational qualification for passenger vehicle repair practice |
+| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31120) | TAFE / RTO | Optional | Heavy commercial vehicle repair qualification (optional, expands employment scope) |
+| EV High Voltage Safety Certificate | Approved RTO (e.g. NRSPP) | Optional | Mandatory safety requirement for electric vehicle repairs; required by EV dealerships |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★★）。** 全国从业人数约 75,000。JSA 预测技工类至2035年新增约195,800个岗位。EV普及驱动大量旧技工转型升级需求，具备电动车技能的技工薪资溢价显著。
+**Job demand: very high (★★★★★).** National workforce approx. 75,000. JSA projects approximately 195,800 new trade positions will be created by 2035. The uptake of EVs is driving significant upskilling demand among existing tradespeople, with EV-qualified technicians commanding a notable salary premium.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~3,500 个 | 全国，含轿车、4WD、经销商和车队维修岗 |
-| Indeed | 1,200~2,000 个 | 含学徒岗和兼职 |
-| LinkedIn | 500~1,000 个 | 偏经销商、车队和EV专业岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $20,000~$27,000 | Vehicle Repair Award 最低工资 |
-| 学徒 2~4年级 | $27,000~$44,000 | 约 $22~$28/hr |
-| 初级技工（持证后 1~3年） | $60,000~$75,000 | Indeed 25th percentile；$28.05/hr（PayScale 2026） |
-| 中级技工（3~8年） | $75,000~$92,000 | Indeed 平均 $75,440；SEEK 中位 ~$85k |
-| 资深技工 / 主任技师（8年+） | $92,000~$115,000 | 含EV高压资质溢价，经销商主任技师薪资更高 |
-| 矿业 FIFO 技工（WA/QLD） | $110,000~$150,000 | 矿业车辆维修高薪岗，轮班津贴+FIFO补贴 |
+| Median salary | $84,344 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $20,000~$27,000 | Vehicle Repair Award minimum wage |
+| Apprentice Years 2–4 | $27,000~$44,000 | Approx. $22–$28/hr |
+| Junior tradesperson (1–3 years post-qualification) | $60,000~$75,000 | Indeed 25th percentile；$28.05/hr（PayScale 2026） |
+| Mid-level Tradesperson (3–8 years) | $75,000~$92,000 | Indeed average $75,440; SEEK median ~$85k |
+| Senior Tradesperson / Lead Technician (8+ years) | $92,000~$115,000 | Includes EV high-voltage qualification premium; dealership master technicians earn more |
+| Mining FIFO Technician (WA/QLD) | $110,000~$150,000 | High-paying mining vehicle maintenance roles with shift allowances and FIFO benefits |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 电动车（EV）和混合动力技术转型是最大变量，具备高压电气技能的汽车技工极度短缺。传统燃油车维修需求短期内不会消失。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Auto mechanics face mixed impact from automation: diagnostics enhanced by AI, but routine maintenance and documentation may be reduced; EV transition creates new demand but requires learning new skills like high-voltage, otherwise risk of replacement.
+
+The transition to electric vehicles (EVs) and hybrid technology is the biggest variable; automotive technicians with high-voltage electrical skills are in critically short supply. Demand for traditional internal combustion engine servicing will not disappear in the short term.
+
+**Tasks most exposed to AI:**
+
+- Routine maintenance (e.g., oil and filter changes) replaced by automated equipment or mobile services
+- Standard diagnostic procedure (read OBD-II fault codes and use AI recommendations)
+- Parts inventory management and ordering (AI prediction system)
+- Customer communication and repair report generation (AI chatbots and text generation)
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis (AI analyzes sensor data and provides troubleshooting paths)
+- EV/hybrid system repair (AI-assisted battery testing and thermal management)
+- Remote diagnostics and predictive maintenance (AI analysis of vehicle data)
+- Maintenance training and knowledge retrieval (AR + AI real-time guidance)
+- Client explanation and quotation (AI-generated visual reports assist explanation)
+
+**Human moat:**
+
+- Non-standard physical repairs (e.g., welding, sheet metal repair, complex mechanical disassembly and assembly)
+- On-site diagnosis and test runs (sensory judgment of vibration, noise and other non-data issues)
+- High-voltage electrical system safety operation and certification (regulatory requirements)
+- Build trust with clients and communicate complex repair solutions
+- Unique techniques and experience for handling older vehicle models
+
+**Skills to build:**
+
+- High-voltage electrical safety and EV/hybrid system certifications (e.g., EVT in Australia)
+- ADAS calibration and sensor alignment technology
+- Use of digital diagnostic tools and data analytics software
+- Knowledge of new energy vehicle thermal management systems
+- IoT and IoV (Internet of Vehicles) fundamentals and applications.
+- Basic programming and script automation (e.g. Python)
+
+**Key growth areas:**
 
 - Electric Vehicle (EV) Servicing
 - Hybrid Vehicle Technology
@@ -74,91 +103,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学汽车技工？**
-- 有汽车维修/机械背景（国内职校或工作经验），希望技能移民来澳
-- 对新技术感兴趣，愿意持续学习EV高压电气技能
-- 目标是矿业车辆维修高薪（FIFO）或自建修车厂
-- 年龄28~42岁，有时间完成TRA评估
-
-**谁不适合学汽车技工？**
-- 对汽油、油脂气味或噪音有明显生理抵触
-- 完全无机械基础，且不愿投入时间学习
-- 期望高薪快速入职（汽车技工薪资起点低于电工）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in automotive repair or mechanics (domestic vocational training or work experience), seeking skilled migration to Australia
+- Interested in new technology and willing to continuously develop EV high-voltage electrical skills
+- Goal is high-paying mining vehicle maintenance (FIFO) or opening an independent repair workshop
+- Aged 28–42, with time to complete a TRA assessment
+
+**Who is not suited**
+- Strong physical aversion to petrol, grease fumes, or noise
+- No mechanical background whatsoever, and unwilling to invest time in learning
+- Expecting high pay from the outset (automotive technician starting salaries are lower than those of electricians)
+
+---
+
+## 8. FAQ
+
+**Q: How much do automotive mechanics earn in Australia?**
+A: Mid-level technician annual salary approximately $75,000–$92,000, Indeed average $75,440 (2026). Mining FIFO can reach $110k–$150k; those with EV high-voltage qualifications command a significant salary premium; apprentices earn approximately $20k–$44k.
+
+**Q: Is it easy to find work as an automotive mechanic in Australia?**
+A: Easy. Listed on MLTSSL, with 2,000–3,500 positions regularly advertised on Seek, and EV-skilled technicians in particularly short supply.
+
+**Q: Is a Chinese automotive repair certificate recognised in Australia?**
+A: Not directly recognized; must go through the TRA Job Ready Program assessment, which takes about 12-18 months. Those with domestic auto repair experience may have a shorter assessment period.
+
+**Q: Will automotive mechanics be replaced by AI?**
+A: Partial substitution, but overall risk is low. AI-assisted diagnostics are widely used, but hands-on disassembly, repair, and EV high-voltage electrical work still require human technicians — AI has not reduced demand for technician roles.
+
+**Q: Are there age restrictions for automotive mechanics in Australia?**
+A: No legal cap. Those over 35 can use the TRA mutual recognition pathway to skip apprenticeship; no points for age over 45 in immigration scoring.
+
+**Q: Do automotive mechanics in Australia need a university degree?**
+A: Not required. Completing Certificate III (AUR30620) is sufficient to practise; school leavers can apply directly for an apprenticeship.
+
+**Q: Is it hard to become an automotive mechanic in Australia?**
+A: Moderate difficulty. Modern automotive electronic diagnostics requirements are increasingly demanding, and EV high-voltage electrical systems are an additional challenge; those with an automotive repair background adapt more quickly.
+
+**Q: Which is more suitable for migrating to Australia: automotive mechanic or diesel mechanic?**
+A: Diesel mechanics earn higher salaries (median ~$95k vs automotive mechanics ~$80k) and face stronger mining sector demand; automotive mechanics have a larger overall job market and a lower entry barrier.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 321211 职业档案与短缺清单 |
-| Indeed AU | 汽车技工平均年薪 $75,440（2026） |
-| PayScale AU | 汽车技工平均时薪 $28.05（2026） |
-| TRA | 海外汽车技工技能评估 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-汽车技工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲汽车技工工资多少？**
-答：中级技工年薪约 $75,000~$92,000，Indeed 平均 $75,440（2026）。矿业FIFO可达 $110k~$150k，具备EV高压资质者薪资溢价显著，学徒约 $20k~$44k。
-
-**问：澳洲汽车技工容易找工作吗？**
-答：容易。MLTSSL在列，Seek 常年挂牌 2,000~3,500 个职位，EV技能技工尤其稀缺。
-
-**问：中国汽车维修证澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，周期约12~18个月。有国内汽车维修经验者评估周期可缩短。
-
-**问：汽车技工会被AI替代吗？**
-答：部分替代，但整体风险较低。AI辅助诊断已广泛应用，但实际拆装维修和EV高压电气操作仍需人工，AI技工岗位不减反增。
-
-**问：澳洲汽车技工有年龄限制吗？**
-答：无法律上限。35岁以上可走TRA互认路径跳过学徒期，移民打分45岁以上无加分。
-
-**问：澳洲汽车技工需要大学学历吗？**
-答：不需要。完成 Certificate III（AUR30620）即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲汽车技工难学吗？**
-答：难度中等。现代汽车电子诊断技术要求日益提升，EV高压电气是额外挑战，有国内汽车维修基础者适应较快。
-
-**问：汽车技工和柴油机技工哪个更适合移民澳洲？**
-答：柴油机技工薪资更高（中位~$95k vs 汽车技工~$80k），矿业需求更旺；汽车技工就业量更大，更容易入门。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Library Technicians（Library Technicians）职业分析 · 美国
+# Library Technicians — career analysis · United States
 
-**职业代码：25-4031 – Library Technicians。**
+**Occupation code: 25-4031 (SOC)**
 
-Assist patrons in using library catalogs, databases, and indexes; handle circulation, shelving, and basic reference questions.
+Assist patrons in using library catalogs, databases, and indexes to find materials, and handle daily tasks such as check-in/check-out, shelving, and organizing.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院费用） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学费用） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college costs) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位 | 社区学院 | 必备 | 通常为要求的学历 |
-| 图书馆技术员证书 | 美国图书馆协会认证项目 | 可选 | 非必须但有益 |
+| Associate degree | Community college | Required | Typically required qualification |
+| Library technician certificate | American Library Association accredited program | Optional | Not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 62,500。美国劳工统计局预计2023-2033年就业增长约3%，低于平均水平。数字化发展减少了对传统图书馆员的需求，但社区图书馆和学校仍有一定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 62,500. US Bureau of Labor Statistics projects employment growth of about 3% from 2023-2033, slower than average. Digital development reduces demand for traditional librarians, but community libraries and schools still have some need.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约13-17美元 |
-| 中级（3-7年） | $35,000~$45,000 | 时薪约17-22美元 |
-| 高级（7年以上） | $45,000~$55,000 | 含主管或专业领域经验 |
+| Median salary | $44,580 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage approximately $13–17 USD |
+| Mid-level (3–7 years) | $35,000~$45,000 | Hourly wage about USD 17-22 |
+| Senior (7+ years) | $45,000~$55,000 | Includes supervisory or specialized field experience |
+| average salary | $45,500 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 可从初级技术员晋升为高级技术员或部门主管；部分通过继续教育获得图书情报学硕士学位后可成为图书馆员。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Can advance from junior technician to senior technician or department supervisor; some can become librarians after obtaining a master's degree in library and information science through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Digital transformation
 - Automation
@@ -63,62 +99,64 @@ Assist patrons in using library catalogs, databases, and indexes; handle circula
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求学士学位，图书馆技术员岗位常不符合专业职业要求，雇主担保困难。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 需要通过劳工证，但该职业通常不被视为短缺，审批难度大。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree; library technician roles often don't meet professional occupation requirements, making employer sponsorship difficult. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Requires labor certification, but this occupation is usually not considered in shortage, making approval difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Library Technicians？**
-- 喜欢安静、有序工作环境的人
-- 注重细节、善于整理分类的人
-- 乐于助人、有耐心的人
+**Who is suited**
+- People who like a quiet, orderly work environment
+- Detail-oriented person who is good at organizing and categorizing
+- Helpful and patient people
 
-**谁不适合学Library Technicians？**
-- 追求高收入和职业晋升的人
-- 喜欢快节奏、多样化工作的人
+**Who is not suited**
+- Those pursuing high income and career advancement
+- People who enjoy fast-paced, diverse work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary level of library technicians?**
+A: According to US Bureau of Labor Statistics 2023 data, median annual salary around $37,000, entry-level about $28,000, senior up to $55,000.
+
+**Q: Can a library technician immigrate to the US via work visa?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and employer-sponsored green cards require proving a labor shortage, but the role is competitive with low pay.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Library Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for library technicians?**
-答：According to BLS 2023 data, median annual wage is about $37,000; entry-level around $28,000; experienced up to $55,000.
-
-**问：Can library technicians immigrate to the US via work visa?**
-答：Very difficult. The job rarely qualifies as a specialty occupation for H-1B, and PERM requires showing labor shortage, which is unlikely.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

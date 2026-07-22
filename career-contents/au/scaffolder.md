@@ -1,71 +1,99 @@
-# 脚手架工（Scaffolder）职业分析 · 澳大利亚
+# Scaffolder — career analysis · Australia
 
-**职业代码：821712 – Scaffolder。**
+**Occupation code: 821712 (ANZSCO)**
 
-脚手架工（Scaffolder）负责搭建和拆除各类临时工作平台（脚手架），为建筑工人在高处施工提供安全支撑，广泛服务于住宅、商业建筑、工业设施和矿业项目。澳大利亚长期面临脚手架工短缺，是技工移民的可靠路径之一。
+A Scaffolder is responsible for erecting and dismantling various types of temporary working platforms (scaffolding), providing safe elevated support for construction workers, and serving residential, commercial, industrial and mining projects. Australia faces a long-term shortage of scaffolders, making it a reliable skilled migration pathway.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（Cert III in Scaffolding CPC30321） | 42~48个月 | —（各州差异；NSW免费；WA约$1,500~$2,500；工具费约$800~$1,500） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（TRA评估+实习期行政费） |
-| WHS White Card | 1天 | $50~$150（工地强制资质） |
+| Apprenticeship (Cert III in Scaffolding CPC30321) | 42–48 months | $0~$2,500 (Varies by state; NSW free; WA approx. $1,500–$2,500; tools approx. $800–$1,500) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (TRA assessment + administrative fees for the internship period) |
+| WHS White Card | 1 day | $50~$150 (Mandatory site qualification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Scaffolding (CPC30321) | TAFE / RTO | 必备 | 执业基础资质，含基础/中级/高级脚手架 |
-| High Risk Work Licence – Scaffolding (SB/SI/SA) | SafeWork / WorkSafe 各州 | 必备 | 基础(SB)/中级(SI)/高级(SA)三级，依施工类型选取 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民必须 |
+| Certificate III in Scaffolding (CPC30321) | TAFE / RTO | Required | Basic practising qualification, covering basic / intermediate / advanced scaffolding |
+| High Risk Work Licence – Scaffolding (SB/SI/SA) | SafeWork / WorkSafe (varies by state) | Required | Three tiers — Basic (SB) / Intermediate (SI) / Advanced (SA) — selected according to construction type |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 18,000。建筑技工类持续短缺，技工岗位填补率仅54.3%（JSA 2025）。高层住宅建设繁荣和工业维护需求驱动需求增长，澳洲政府住宅计划至2029年新增120万套。
+**Job demand: very high (★★★★★).** National workforce approx. 18,000. Ongoing shortages in construction trades, with trade vacancy fill rate only 54.3% (JSA 2025). Demand driven by high-rise residential boom and industrial maintenance needs; Australian government housing plan aims to add 1.2 million new homes by 2029.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~600 个 | 全国，含矿业shutdown和住宅工程 |
-| Indeed | 150~350 个 | 含承包商和劳务外包 |
-| LinkedIn | 60~180 个 | 偏工业维修和矿业直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $28,000~$55,000 | Fair Work Award |
-| 初级脚手架工（持证后1~3年） | $70,000~$90,000 | 住宅和商业工程 |
-| 中级脚手架工（3~8年） | $90,000~$115,000 | Vic EBA 2026 Grade 2=$58.46/hr；全国均值约$45/hr |
-| 资深 / 带班（8年+） | $115,000~$140,000 | 含加班和轮班津贴 |
-| 工业shutdown / 矿业FIFO（WA/QLD） | $130,000~$185,000 | Shutdown项目日薪制，FIFO含住宿餐饮 |
+| Median salary | $151,320 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $28,000~$55,000 | Fair Work Award |
+| Junior scaffolder (1–3 years after certification) | $70,000~$90,000 | Residential and commercial engineering |
+| Intermediate scaffolder (3–8 years) | $90,000~$115,000 | Vic EBA 2026 Grade 2 = $58.46/hr; national average approximately $45/hr |
+| Senior / Leading Hand (8+ years) | $115,000~$140,000 | Including overtime and shift allowances |
+| Industrial shutdown / mining FIFO (WA/QLD) | $130,000~$185,000 | Shutdown projects on daily-rate pay, FIFO with accommodation and meals included |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 可调式模块化脚手架系统提升效率，但搭拆操作仍依赖人工。工业关停检修（Shutdown）项目需求周期性爆发，矿业/炼油需求稳定。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Scaffolders are relatively less affected by AI overall, but design planning may be optimized; on-site physical work and safety judgment remain core, with stable demand.
+
+Adjustable modular scaffolding systems improve efficiency, but erection and dismantling still rely on manual labour. Demand surges periodically for industrial shutdown and maintenance projects, with steady demand from mining and refining.
+
+**Tasks most exposed to AI:**
+
+- Preliminary calculation and design of scaffolding structures (AI-assisted software can auto-generate plans)
+- Bill of materials statistics and inventory management (AI inventory system optimisation)
+- Basic safety training and testing (AI virtual reality training module)
+- Some documentation and report writing (AI text generation tools)
+
+**Where AI augments the role:**
+
+- AI design software provides optimized building solutions to reduce material waste
+- AR glasses display construction drawings and safety tips in real-time, improving efficiency
+- Drone inspection of scaffold structural integrity to assist safety monitoring
+- AI predicts weather and fatigue risks, dynamically adjusting work schedules
+
+**Human moat:**
+
+- Physical Strength, Balance, and Coordination for High-Altitude Work
+- On-site safety risk assessment and emergency response decision-making
+- Manual adjustment and problem fixing for complex structures
+- Team communication and on-site management skills
+- Compliance responsibilities for legal and industry standards
+
+**Skills to build:**
+
+- Basic BIM (Building Information Modeling) operations
+- Drone operation and image analysis
+- AR/VR device usage and maintenance
+- Basic data analysis (material and schedule optimization)
+- Advanced safety certifications (e.g., specialized training for working at heights)
+- Digital document management and collaboration tools
+
+**Key growth areas:**
 
 - Residential High-Rise Construction
 - Civil Infrastructure
@@ -74,91 +102,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保最长4年，可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 190（Skilled Nominated） | 州提名永居，加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored visa for up to 4 years, transferable to 186 |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 190 (Skilled Nominated) | State nomination permanent residency, +5 points |
+| Subclass 491 (Skilled Work Regional) | Regional nomination, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学脚手架工？**
-- 有施工/高空作业背景，希望通过技能移民来澳
-- 接受重体力户外高空作业，对高处工作无恐惧
-- 目标是矿业FIFO或工业shutdown高薪岗
-- 计划通过190州提名路线获PR
-
-**谁不适合学脚手架工？**
-- 有恐高症或平衡障碍
-- 不愿从事重体力劳动
-- 期望室内或管理类工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has a construction or working-at-heights background and is looking to migrate to Australia through a skilled visa
+- Comfortable with heavy physical outdoor work at heights, with no fear of working at elevation
+- Targeting high-paying mining FIFO or industrial shutdown roles
+- Planning to obtain PR through the 190 state nomination pathway
+
+**Who is not suited**
+- Fear of heights or balance disorders
+- Unwilling to perform heavy physical labour
+- Preference for indoor or management-based work
+
+---
+
+## 8. FAQ
+
+**Q: How much do scaffolders earn in Australia?**
+A: Mid-level scaffolder annual salary approx. $90,000–$115,000; industrial shutdown and mining FIFO roles can reach $130,000–$185,000. Apprentice wages approx. $28,000–$55,000.
+
+**Q: Is it easy to find work as a scaffolder in Australia?**
+A: Easy. There is a sustained national shortage, with 300–600 positions regularly listed on Seek. Demand is particularly strong in WA mining and large-scale industrial maintenance roles.
+
+**Q: Is domestic scaffolding experience recognised in Australia?**
+A: Not directly recognised — a TRA assessment (12–18 months) is required. You must also obtain an Australian High Risk Work Licence (SB/SI/SA) to legally operate the relevant equipment.
+
+**Q: Will scaffolders be replaced by robots?**
+A: Extremely low. Erecting complex structures at height relies heavily on manual judgement and physical operation; no mature automation solution currently exists.
+
+**Q: Is there an age limit for scaffolders in Australia?**
+A: No legal upper limit. Apprenticeships tend to favour those under 35; those over 40 can pursue TRA mutual recognition to bypass the apprenticeship period.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III is sufficient; you can enrol in a TAFE apprenticeship program straight after secondary school.
+
+**Q: Is scaffolding difficult to learn?**
+A: Moderate difficulty. Key skills include structural load calculation, safety standards, and a sense of balance at height. Physically demanding; those with prior work-at-height experience adapt quickly.
+
+**Q: Which is better for migrating to Australia — scaffolding or steel fixing?**
+A: Both have similar PR pathways and comparable salaries. Rebar worker positions are slightly more numerous overall; scaffolders have more opportunities during industrial shutdowns with higher FIFO allowances. See the 'Scaffolder vs Rebar Worker' career comparison section (coming soon).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 821712 Scaffolder 短缺数据 |
-| CFMEU Victoria EBA 2026 | Grade 2 = $58.46/hr |
-| Seek / Indeed AU | 职位挂牌量及薪资（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-脚手架工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲脚手架工工资多少？**
-答：中级脚手架工年薪约 $90,000~$115,000；工业shutdown和矿业FIFO可达 $130,000~$185,000。学徒期约 $28,000~$55,000。
-
-**问：澳洲脚手架工容易找工作吗？**
-答：容易。全国持续短缺，Seek常年挂牌300~600个职位。尤其WA矿业和大型工业维修岗需求旺盛。
-
-**问：国内脚手架经验澳洲认可吗？**
-答：不直接认可，需通过TRA评估（12~18个月）。还须取得澳洲High Risk Work Licence（SB/SI/SA）才能合法操作。
-
-**问：脚手架工会被机器人替代吗？**
-答：极低。高空复杂结构搭建高度依赖人工判断和体力操作，目前无成熟自动化方案。
-
-**问：澳洲脚手架工有年龄限制吗？**
-答：法律无上限。学徒偏好35岁以下；40岁以上可走TRA互认跳过学徒期。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III即可，高中毕业即可入读TAFE学徒课程。
-
-**问：脚手架工难学吗？**
-答：难度中等。关键技能是结构荷载计算、安全规范和高空平衡感。体力要求高，有高空作业经验者上手较快。
-
-**问：脚手架工和钢筋工哪个更适合移民澳洲？**
-答：两者PR路径相近，薪资相当。钢筋工岗位总量略多；脚手架工工业shutdown机会更多，FIFO津贴高。详见「脚手架工 vs 钢筋工」职业比较板块（即将上线）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

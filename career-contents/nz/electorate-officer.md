@@ -1,60 +1,96 @@
-# Electorate Officer（Electorate Officer）职业分析 · 新西兰
+# Electorate Officer — career analysis · New Zealand
 
-**职业代码：224911 – Electorate Officer。**
+**Occupation code: 224911 (ANZSCO)**
 
-Provide administrative and community liaison support to New Zealand MPs or local councillors, handling constituent affairs and policy research. This occupation is typically accessible via Accredited Employer Work Visa (AEWV), but direct Skilled Migrant Category or Green List eligibility is limited; however, experience in government roles may lead to other immigration pathways.
+Provides administrative and community liaison support for New Zealand MPs or local councillors, assisting with constituent affairs and policy research. This occupation is accessible via the Accredited Employer Work Visa (AEWV) and typically does not directly meet Skilled Migrant or Green List requirements, but can lead to other immigration pathways after gaining experience in government agencies.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $45,000~$60,000（新西兰大学政治学、公共管理或相关专业国际生学费） |
-| 研究生文凭 | 1年 | $30,000~$40,000（部分职位偏好研究生学历） |
+| Bachelor's degree | 3 years | $45,000~$60,000 (International student tuition fees for political science, public administration, or related majors at New Zealand universities) |
+| Graduate diploma | 1 year | $30,000~$40,000 (Some positions prefer postgraduate degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 政治学或公共管理学士 | 新西兰大学 | 可选 | 非强制但普遍要求 |
-| 驾驶执照 | 新西兰交通局 | 必备 | 因需前往选区各地 |
+| Driver's license | New Zealand Transport Agency. | Required | Required to travel to various electorates |
+| Bachelor's degree in Political Science or Public Administration | New Zealand universities | Optional | Not mandatory but commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。新西兰选区官员需求稳定，因选举周期和选区办公室持续运作。政府透明度提升和社区参与度增加推动职位增长，但竞争较激烈，尤其在大选年。就业主要集中在首都惠灵顿及主要城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. Demand for New Zealand electorate officers is stable due to electoral cycles and ongoing electorate office operations. Increased government transparency and community engagement drive job growth, but competition is intense, especially in election years. Employment is concentrated in the capital Wellington and major cities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 政府设定薪资范围，通常按小时计薪 |
-| 中级（3-6年） | $55,000~$70,000 | 含资深行政与社区协调职责 |
-| 高级（6年以上） | $70,000~$90,000 | 可能包括选区经理或政策顾问角色 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Government sets salary range, usually paid hourly |
+| Mid-level (3–6 years) | $55,000~$70,000 | Includes senior administrative and community coordination duties |
+| Senior (6+ years) | $70,000~$90,000 | May include roles such as constituency manager or policy advisor |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径可从初级行政助理晋升至高级选区官员或选区经理，进而过渡到政策顾问、政府关系经理或竞选经理。部分人进入公务员体系或成为政治顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Administrative and data clustering tasks for electoral officials will be highly automated, but core human-interaction roles like community liaison and policy advice will remain, with significant compression of entry-level positions.
+
+Career progression can move from junior administrative assistant to senior constituency officer or constituency manager, then transition to policy advisor, government relations manager, or campaign manager. Some enter the civil service or become political advisors.
+
+**Tasks most exposed to AI:**
+
+- Automated replies and classification for voter inquiries (e.g., handling standard questions)
+- Meeting minutes and document management (AI transcription and archiving)
+- Constituency data sorting and trend report generation
+- Schedule planning and administrative coordination (AI scheduling system).
+- Basic policy research (information retrieval and summarisation)
+
+**Where AI augments the role:**
+
+- In-depth analysis and emotion recognition of voter demands
+- Personalized writing and polishing of complex policy cases.
+- Constituency sentiment monitoring and crisis communication strategies
+- Preparation and follow-up for cross-agency coordination meetings
+- Train voters to use digital government service platforms
+
+**Human moat:**
+
+- Constituency-sensitive interpersonal relationship maintenance and empathetic communication
+- Handling urgent, complex, or disputed constituent cases
+- Localised judgment in policy implementation
+- Attend community events and build trust on behalf of members of parliament
+- Making ethical decisions in ambiguous situations
+
+**Skills to build:**
+
+- Advanced interpersonal communication and conflict mediation
+- Quickly master constituency opinion and policy analysis tools
+- Data Visualization and AI-Assisted Report Interpretation
+- Digital collaboration platform management (e.g., CRM, government systems)
+- Multilingual or culturally sensitive support capability
+- Basic use of AI tools (e.g., Copilot for document generation)
+
+**Key growth areas:**
 
 - Election Cycle
 - Government Sector
@@ -63,68 +99,67 @@ Provide administrative and community liaison support to New Zealand MPs or local
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需找到认证雇主（如国会议员办公室），职位需符合薪资要求。通常为临时签证，可积累经验转为其他签证。 |
-| Subclass SMC（Skilled Migrant Category） | 移民可能性低，因该职业不在技能等级清单上；但若获得雇主担保或具备高薪（中位数工资两倍），可尝试6分制。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Need to find an approved employer (e.g., a member of parliament's office), and the position must meet salary requirements. Usually a temporary visa, can gain experience to switch to other visas. |
+| Subclass SMC (Skilled Migrant Category) | Immigration prospects are low as the occupation is not on the skills shortage list; however, with employer sponsorship or a high salary (twice the median wage), a 6-point system application may be possible. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electorate Officer？**
-- 对政治和公共事务有热情，善于沟通和解决问题
-- 具备组织协调能力，能应对多任务和选民需求
-- 愿意在政治环境中工作，接受不定期加班
-
-**谁不适合学Electorate Officer？**
-- 抵触政治或党派环境，缺乏抗压能力
-- 偏好稳定朝九晚五工作，无法适应选举期紧张节奏
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about politics and public affairs, with strong communication and problem-solving skills
+- Possess organizational and coordination skills to handle multiple tasks and voter needs
+- Willing to work in a political environment and accept irregular overtime.
+
+**Who is not suited**
+- Averse to political or partisan environments, lacks stress tolerance
+- Prefers stable 9-to-5 work and cannot adapt to the intense pace of election periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an Electorate Officer?**
+A: Entry-level positions annual salary approx. NZ$45,000-55,000, mid-level NZ$55,000-70,000, senior up to NZ$90,000. Salaries are set by the parliament, usually calculated hourly.
+
+**Q: Can constituency officials immigrate to New Zealand?**
+A: Direct immigration is difficult; this occupation is usually not on the skills migration priority list. You can first work via an Accredited Employer Work Visa (AEWV), gain experience, then try skilled migration if salary reaches twice the median or switch to another high-skilled role.
+
+**Q: What are the career development paths for elected officials?**
+A: Can advance from junior admin to constituency manager, then to policy advisor, government relations manager, or campaign manager. Some transition to civil service or political consulting firms.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Electorate Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Electorate Officer?**
-答：Entry-level salaries range from NZD 45,000 to 55,000 per year, mid-level NZD 55,000 to 70,000, and senior roles up to NZD 90,000. Pay is set by Parliament and often hourly.
-
-**问：Can Electorate Officers immigrate to New Zealand?**
-答：Direct immigration is challenging as the occupation is not typically on the skill shortage list. One can first work via the Accredited Employer Work Visa (AEWV), then potentially qualify for Skilled Migrant Category if salary reaches twice the median or transitioning to a higher-skilled role.
-
-**问：What are the career progression opportunities for Electorate Officers?**
-答：Starting as junior admin, you can advance to Electorate Manager, then move into policy advisory, government relations, or campaign management. Some transition to the public service or political consulting firms.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

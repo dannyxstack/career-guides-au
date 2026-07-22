@@ -1,59 +1,94 @@
-# Sonographer（Sonographer）职业分析 · 新西兰
+# Sonographer — career analysis · New Zealand
 
-**职业代码：251213 – Sonographer。**
+**Occupation code: 251213 (ANZSCO)**
 
-Sonographers are in high demand in New Zealand's healthcare sector, listed on the Green List for direct residency, offering a clear migration pathway.
+Ultrasound technicians are in high demand in New Zealand's healthcare industry, listed on the Green List, eligible for direct residency, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$50,000（每年学费） |
-| 研究生文凭 | 2年 | $35,000~$55,000（总学费） |
+| Bachelor's degree | 4 years | $30,000~$50,000 (Annual tuition) |
+| Graduate diploma | 2 years | $35,000~$55,000 (Total tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学超声诊断资格证书 | 澳大利亚超声医学学会(ASAR)或新西兰医学放射技师委员会(MRPTB) | 必备 | 需完成认可课程并注册 |
-| 新西兰注册医学放射技师 | 医学放射技师委员会(Medical Radiation Technologists Board) | 必备 | 必须注册才能执业 |
-| 雅思总分7.0 | IDP或British Council | 必备 | 注册和移民要求 |
+| Medical ultrasound diagnostic qualification certificate | Australian Sonographers Association (ASAR) or New Zealand Medical Radiation Technologists Board (MRPTB) | Required | Must complete an accredited course and be registered |
+| New Zealand Registered Medical Radiation Technologist | Medical Radiation Technologists Board | Required | Must be registered to practice |
+| IELTS overall score 7.0 | IDP or British Council | Required | Registration and immigration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰人口老龄化推动医疗影像需求持续增长，超声波技师就业前景良好，尤其在城市和地区医院均有稳定岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. New Zealand's aging population drives continuous growth in medical imaging demand; sonographer employment prospects are good, with stable positions in both urban and regional hospitals.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | 取决于地区和雇主 |
-| 中级（4-7年） | $85,000~$110,000 | 经验丰富者可达 |
-| 高级（8年以上） | $110,000~$140,000 | 主管或专科领域 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$85,000 | Depends on region and employer |
+| Mid-level (4-7 years) | $85,000~$110,000 | Experienced practitioners can achieve |
+| Senior (8+ years) | $110,000~$140,000 | Supervisor or specialist area |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级技师积累经验后可晋升为高级技师或科室主管，也可转向教学或研究岗位，职业发展空间广阔。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sonographer's core tasks (image acquisition and preliminary analysis) are enhanced by AI assistance, but diagnostic interpretation, patient communication, and ethical decisions still require human judgment, presenting both risks and opportunities.
+
+Junior technicians can advance to senior technician or department supervisor with experience, or transition to teaching or research roles, offering broad career development opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automated image optimization and standardized scan sequence adjustment
+- Machine learning-based preliminary anomaly marking and structured report generation
+- Administrative tasks such as appointment scheduling and patient data entry
+- Robotic arm manipulation and real-time image transmission in remote ultrasound
+
+**Where AI augments the role:**
+
+- AI-assisted real-time image analysis to improve lesion detection rate and measurement accuracy
+- Automatically generate standard measurements and compare with historical data to accelerate diagnosis
+- Integrate electronic health records and imaging data to provide clinical decision support
+- Optimize scanning parameters using deep learning to reduce operator variability
+- Virtual reality training simulators improve novice training efficiency and safety
+
+**Human moat:**
+
+- Build trust and provide emotional support with patients.
+- Flexible adjustment of scanning protocols and diagnostic judgment based on clinical context
+- Decision-making ability in complex anatomical variations and unexpected situations
+- Professional interpretation skills in interdisciplinary communication and clinical collaboration
+- Professional responsibilities and accountabilities under ethical and regulatory frameworks
+
+**Skills to build:**
+
+- Basic programming and application of medical imaging AI tools
+- Advanced ultrasound techniques (e.g., 3D/4D ultrasound, contrast-enhanced ultrasound)
+- Data interpretation and clinical research statistical methods
+- Telemedicine and digital health platform operation
+- Evidence-based practice and continuous professional development
+- Patient communication and cross-cultural care skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Sonographers are in high demand in New Zealand's healthcare sector, listed on th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足职业要求且时薪不低于中位数两倍 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民类别，基于6分制评分，需工作offer和资格认证 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡路径 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, meeting occupational requirements and hourly wage not less than twice the median |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled Migrant Category, based on 6-point system, requires job offer and qualification certification |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa as a transition pathway |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sonographer？**
-- 有医学背景并希望快速移民新西兰的人
-- 细心且擅长与患者沟通的医疗从业者
-- 愿意在地区医院工作以获得高薪和快速移民的人
-
-**谁不适合学Sonographer？**
-- 不喜欢长时间站立和操作设备的人
-- 英语沟通能力较弱，难以通过雅思7.0的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a medical background who wish to immigrate to New Zealand quickly
+- Detail-oriented healthcare professional skilled in patient communication
+- Those willing to work in regional hospitals for higher pay and faster immigration
+
+**Who is not suited**
+- Individuals who dislike long periods of standing and operating equipment
+- People with weak English communication skills, unable to achieve IELTS 7.0
+
+---
+
+## 8. FAQ
+
+**Q: What is the hourly wage for sonographers in New Zealand?**
+A: Junior hourly rate about NZ$33-41, senior up to NZ$53-67, depending on experience.
+
+**Q: How can ultrasound technicians immigrate via the Green List?**
+A: Must obtain recognized qualifications, be registered, and find a job; meeting hourly wage requirements can apply for direct residence.
+
+**Q: Can overseas qualifications be recognized?**
+A: Requires assessment by the New Zealand Qualifications Authority (NZQA) and completion of MRPTB registration requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sonographer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the hourly wage for a sonographer in New Zealand?**
-答：Entry-level $33-$41 per hour, senior up to $53-$67 depending on experience.
-
-**问：How can a sonographer migrate via the Green List?**
-答：Obtain recognized qualification, registration, and a job offer meeting wage threshold for direct residence.
-
-**问：Are overseas qualifications recognized?**
-答：Require NZQA assessment and meeting MRPTB registration requirements.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

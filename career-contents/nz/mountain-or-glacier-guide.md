@@ -1,60 +1,92 @@
-# Mountain or Glacier Guide（Mountain or Glacier Guide）职业分析 · 新西兰
+# Mountain or Glacier Guide — career analysis · New Zealand
 
-**职业代码：452214 – Mountain or Glacier Guide。**
+**Occupation code: 452214 (ANZSCO)**
 
-Lead tourists or adventurers in mountain or glacier environments for hiking, climbing or skiing, ensuring safety and providing nature interpretation. New Zealand's tourism industry is strong, and this role can lead to immigration via Accredited Employer Work Visa (AEWV), but is not on the Green List or core Skilled Migrant Category.
+Lead tourists in hiking, climbing, or skiing activities in mountainous or glacial environments, ensuring safety and providing nature interpretation. New Zealand's tourism industry is developed; this occupation can lead to immigration via the Accredited Employer Work Visa (AEWV), but it is not on the Green List or Skilled Migrant Category core list, so immigration pathways are limited.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 0 | —（基础学历要求不高，但需相关培训） |
-| 户外教育或旅游管理证书/文凭 | 1年 | $5,000~$15,000（例如新西兰户外教育证书 (Certificate in Outdoor Education)） |
-| 行业认证培训（如登山、冰川向导课程） | 数月-1年 | $2,000~$10,000（包括冰上救援、高级绳索技术等专项课程） |
+| High school graduation or equivalent | 0 | $0~$0 (Basic education requirements are not high, but relevant training is needed) |
+| Outdoor education or tourism management certificate/diploma | 1 year | $5,000~$15,000 (E.g., New Zealand Certificate in Outdoor Education) |
+| Industry certification training (e.g., mountaineering, glacier guide courses). | A few months to 1 year | $2,000~$10,000 (Specialty courses including ice rescue, advanced rope techniques, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰户外领导力证书 (NZ Certificate in Outdoor Leadership) | 新西兰资格认证局 (NZQA) 认可的培训机构 | 可选 | 非强制，但提升就业竞争力 |
-| 急救证书（如First Aid Certificate） | 新西兰急救组织（如St John） | 必备 | 行业普遍要求 |
-| 冰川向导特定培训（如冰川旅行安全课程） | 专业户外培训学校或雇主 | 可选 | 雇主常要求完成内部培训 |
+| First aid certificate (e.g., First Aid Certificate) | New Zealand emergency services (e.g., St John) | Required | Commonly required in the industry |
+| New Zealand Certificate in Outdoor Leadership | Training provider accredited by the New Zealand Qualifications Authority (NZQA). | Optional | Not mandatory, but enhances employment competitiveness |
+| Glacier guide specific training (e.g. glacier travel safety course) | Specialist outdoor training school or employer | Optional | Employers often require completion of internal training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰旅游业持续复苏，尤其南岛皇后镇、库克山等地区对山地和冰川向导需求稳定。季节性明显，旺季（10月至4月）就业机会多，但竞争较大，非旺季工作较少。长期增长取决于国际游客恢复速度。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's tourism sector continues to recover, especially in the South Island's Queenstown, Mount Cook, and other regions, where demand for mountain and glacier guides is steady. The industry is seasonal, with more job opportunities in peak season (October to April), but competition is high, and fewer jobs are available off-peak. Long-term growth depends on the pace of international tourist recovery.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 季节性工作，按小时计酬 |
-| 中级（4-7年） | $45,000~$60,000 | 旺季工时充足，含小费 |
-| 高级（8年以上） | $60,000~$80,000 | 资深向导或首席向导，含管理职责 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Seasonal work, paid hourly |
+| Mid-level (4-7 years) | $45,000~$60,000 | Sufficient hours during peak season, including tips. |
+| Senior (8+ years) | $60,000~$80,000 | Senior guide or chief guide, including management duties |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径：从初级向导到高级/首席向导，再到培训师或运营经理。部分向导积累经验后自主创业或转向旅游咨询、环境保护等领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI impact on mountain or glacier guides is mixed: route planning and safety monitoring tasks can be automated for enhancement, but on-site risk judgment, complex weather response, and emotional interaction still require humans, with no full replacement in the short term.
+
+Career progression path: from junior guide to senior/lead guide, then to trainer or operations manager. Some guides start their own business after gaining experience or transition to fields like tourism consulting, environmental protection.
+
+**Tasks most exposed to AI:**
+
+- Automatic route planning and risk warnings based on weather and snow conditions.
+- Real-time positioning and communication (e.g., GPS tracking and SOS auto-trigger)
+- Standardized audio tours (via mobile app or voice assistant)
+
+**Where AI augments the role:**
+
+- Enhance navigation efficiency by overlaying terrain and hazard zone information via Augmented Reality (AR)
+- Use AI to analyze historical accident data, optimize safety plans and decisions
+- Automatically generate multilingual travel guides, assist cross-cultural communication
+- Real-time monitoring of client physiological status via wearable devices to prevent altitude sickness or hypothermia
+
+**Human moat:**
+
+- Ability to assess complex weather, avalanche risk, and client physical limits on site
+- Calmness and creativity in handling emergencies (e.g., falls, missing persons)
+- Building trust with clients, providing personalized encouragement and emotional support
+- Advanced mountaineering and ski skills with first aid certification
+
+**Skills to build:**
+
+- Basics of GIS and meteorological data analysis
+- Drone operation and image recognition (for route inspection)
+- Basic programming or AI tool usage (e.g., ChatGPT-assisted content generation)
+- Decision-making and leadership training in high-risk environments
+- Multilingual communication and cross-cultural service skills
+- Digital content creation (social media, virtual tours)
+
+**Key growth areas:**
 
 - Seasonal Demand
 - Tourism Recovery
@@ -63,64 +95,63 @@ Lead tourists or adventurers in mountain or glacier environments for hiking, cli
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，从事本职业可申请。最低工资要求为中位数工资（2024年约29.66纽币/小时）。可积累技术移民经验。 |
-| Subclass SMC（Skilled Migrant Category） | 该职业不在ANZSCO技能等级1-3，通常不符合SMC要求。但若薪资达到中位数1.5倍以上（约44.49纽币/小时），可能申请。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an accredited employer; this occupation is eligible to apply. Minimum wage is the median wage (approximately NZD 29.66/hour in 2024). Can accumulate experience for skilled migration. |
+| Subclass SMC (Skilled Migrant Category) | This occupation is not in ANZSCO skill level 1-3, so it generally does not meet SMC requirements. However, if the salary reaches 1.5 times the median (about $44.49 NZD/hour), it may be eligible. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mountain or Glacier Guide？**
-- 热爱户外运动和自然，身体素质优秀
-- 具有良好的沟通、教学和急救技能
-- 适应季节性和不定时工作，有灵活时间安排
-
-**谁不适合学Mountain or Glacier Guide？**
-- 不接受户外艰苦环境和危险工作条件
-- 缺乏耐心或团队协作能力
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor sports and nature, excellent physical fitness
+- Having good communication, teaching, and first aid skills.
+- Adaptable to seasonal and irregular work, with flexible scheduling.
+
+**Who is not suited**
+- Unwilling to accept harsh outdoor environments and dangerous working conditions
+- Lack of patience or teamwork skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary for a mountain or glacier guide approximately?**
+A: Junior guides earn about NZD 35,000-45,000 annually, mid-level NZD 45,000-60,000, and senior can reach NZD 60,000-80,000. Income varies greatly by season and employer.
+
+**Q: Can mountain or glacier guides apply for New Zealand skilled migration?**
+A: Direct application for Skilled Migrant Category (SMC) is difficult because this occupation is typically ANZSCO Skill Level 4-5, not meeting general skill requirements. However, can enter via AEWV visa; if salary reaches 1.5 times the median, may qualify for SMC high-salary exemption.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mountain or Glacier Guide的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a Mountain or Glacier Guide?**
-答：Entry-level guides earn about NZ$35,000-45,000, mid-level NZ$45,000-60,000, and senior guides up to NZ$60,000-80,000. Income varies with season and employer.
-
-**问：Can a Mountain or Glacier Guide apply for Skilled Migrant Category?**
-答：Direct SMC application is difficult as the occupation is usually ANZSCO skill level 4-5. However, entering via AEWV and earning 1.5x median wage may qualify under the high salary exemption.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

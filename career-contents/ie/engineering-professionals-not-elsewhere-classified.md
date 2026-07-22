@@ -1,58 +1,92 @@
-# Engineering Professionals Not Elsewhere Classified（Engineering Professionals Not Elsewhere Classified）职业分析 · IE
+# Engineering Professionals Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：2149 – Engineering Professionals Not Elsewhere Classified。**
+**Occupation code: 2149 (ISCO08)**
 
-Covers engineering professionals not classified elsewhere, including environmental, energy, and materials sectors. They work in design, R&D, consulting, and technical management in Ireland.
+Covers all types of engineering professionals except specific engineering categories, including emerging fields like environment, energy, and materials. Primarily engaged in design, R&D, consulting, and technical management in Ireland.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 4年（本科） | $12,000~$25,000（欧盟学生学费较低，非欧盟学生较高） |
-| 硕士学位 | 1-2年（硕士） | $15,000~$30,000（有助于提升竞争力，部分课程含实习） |
+| Bachelor's degree | 4 years (bachelor's degree) | $12,000~$25,000 (Tuition is lower for EU students, higher for non-EU students) |
+| Master's degree | 1-2 years (Master's) | $15,000~$30,000 (Helps improve competitiveness; some courses include internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师资格认证 | 爱尔兰工程师协会 (Engineers Ireland) | 可选 | 成为特许工程师（CEng）需学位加4年经验 |
-| 安全与健康证书 | 爱尔兰健康与安全局 (HSA) | 必备 | 某些行业（如建筑）需要安全培训证书 |
+| Safety and health certificates | Health and Safety Authority (HSA) Ireland | Required | Some industries (such as construction) require safety training certificates |
+| Engineer qualification certification | Engineers Ireland | Optional | Becoming a Chartered Engineer (CEng) requires a degree plus 4 years of experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。爱尔兰在可再生能源、生物制药和数据中心建设等领域持续投资，带动了对多元化工程人才的需求。预计未来五年就业增长稳健，尤其是绿色工程和基础设施领域。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Ireland continues to invest in renewable energy, biopharmaceuticals, and data center construction, driving demand for diverse engineering talent. Employment growth is expected to be stable over the next five years, especially in green engineering and infrastructure.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，视公司和地点而定 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪，有专业认证可更高 |
-| 高级（7年以上） | $70,000~$90,000 | 税前年薪，管理层可达10万欧以上 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, depends on company and location |
+| Mid-level (3–7 years) | $50,000~$65,000 | Pre-tax annual salary, higher with professional certification |
+| Senior (7+ years) | $70,000~$90,000 | Pre-tax annual salary for management can reach over €100,000 |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径通常从初级工程师开始，积累经验后可晋升为高级工程师、技术经理或项目经理。部分人转向咨询或创业，也可通过进一步学习成为特许工程师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on generic engineering professionals is mixed: standardised design and data analysis tasks will be automated, but cross-disciplinary innovation, complex system integration, and exploration of emerging fields are enhanced by AI tools, with job value shifting towards high-difficulty and high-coordination roles.
+
+The career path typically starts as a junior engineer, with experience leading to promotion to senior engineer, technical manager, or project manager. Some shift to consulting or entrepreneurship, or become a chartered engineer through further study.
+
+**Tasks most exposed to AI:**
+
+- Conventional engineering calculations and simulations (e.g., standard material mechanics analysis, simple thermodynamics calculations)
+- Automatic generation of design drawings and compliance checks (rule-based systems)
+- Drafting technical documents and reports (natural language generation)
+- Data collection and preprocessing (sensor data cleaning, standard test data recording)
+- Basic code writing (e.g., simple algorithm implementation, API calls)
+
+**Where AI augments the role:**
+
+- Quickly explore multiple design options using generative AI to assist innovative concept design
+- AI-driven multiphysics coupling simulation optimization to improve system performance
+- Using machine learning to extract best practices from historical projects to guide new project decisions
+- AI-assisted cross-disciplinary literature review and knowledge graph construction to accelerate application of new technologies
+
+**Human moat:**
+
+- Non-standard problem definition and architecture design in emerging fields (e.g., renewable energy, carbon capture)
+- Engineering decisions involving ethics, safety, and regulations (e.g., environmental risk assessment)
+- High-risk communication and trade-off balancing with regulators, clients, and the public
+- Integrated innovation across interdisciplinary systems (e.g., smart energy networks, circular economy systems)
+
+**Skills to build:**
+
+- Artificial Intelligence/Machine Learning Fundamentals and Engineering Applications
+- Data Science (Python/R, Statistical Analysis, Data Visualization)
+- Digital twin and simulation technologies (e.g., MATLAB/Simulink, Comsol)
+- Systems thinking and complex project management
+- AI ethics and responsible innovation
+- Advanced English communication and cross-cultural collaboration
+
+**Key growth areas:**
 
 - Green Engineering
 - Renewable Energy
@@ -61,68 +95,67 @@ Covers engineering professionals not classified elsewhere, including environment
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 针对紧缺职业，无需劳动力市场测试，2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺岗位，需劳动力市场测试，5年后可申请永居 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高薪（年薪一般超过6万欧），提供快速永居路径 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For occupations in shortage, no labor market testing required; eligible for permanent residency after 2 years |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in demand (non-Skilled Occupation List), requires labour market testing, can apply for permanent residence after 5 years |
+| Subclass EU Blue Card (EU Blue Card) | Requires high salary (typically over €60,000 per year), offers fast permanent residence pathway |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Professionals Not Elsewhere Classified？**
-- 具有较强工程专业背景，希望进入新兴行业的人士
-- 愿意接受持续学习和专业认证的工程师
-- 寻求良好职业前景和移民机会的国际人才
-
-**谁不适合学Engineering Professionals Not Elsewhere Classified？**
-- 不喜欢不断学习新技术和法规的工程师
-- 希望工作稳定、变动较少的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with strong engineering backgrounds seeking to enter emerging industries
+- Engineer willing to pursue continuous learning and professional certification
+- International talent seeking good career prospects and immigration opportunities
+
+**Who is not suited**
+- Engineers who dislike constantly learning new technologies and regulations
+- People who prefer stable work with little change
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for unclassified engineering professionals in Ireland?**
+A: Annual salary for junior engineers is about €35,000–45,000, mid-level €50,000–65,000, senior €70,000–90,000, and management can exceed €100,000. Salaries vary by industry, experience, and certifications.
+
+**Q: How to immigrate to Ireland as an unclassified engineering professional?**
+A: Primarily applied through the Critical Skills Employment Permit, no labor market test required, and fast-track to permanent residency. Also possible via the EU Blue Card or General Employment Permit route.
+
+**Q: What development opportunities does this occupation have in Ireland?**
+A: With the growth of green energy and pharmaceutical industries, demand continues to rise. Can advance to senior engineer, project manager, or technical expert, or transition to consulting or entrepreneurship. Engineering certification is beneficial for career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Engineering Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for engineering professionals not elsewhere classified in Ireland?**
-答：Entry-level engineers earn around €35,000-€45,000, mid-level €50,000-€65,000, senior €70,000-€90,000, and management can exceed €100,000. Salaries vary by sector, experience, and certification.
-
-**问：How can an engineering professional not elsewhere classified immigrate to Ireland?**
-答：The main route is through the Critical Skills Employment Permit, which bypasses the labor market test and offers fast-track permanent residency. The EU Blue Card or General Employment Permit are also options.
-
-**问：What career opportunities does this profession have in Ireland?**
-答：Demand is growing due to green energy and pharmaceutical sectors. Career progression includes senior engineer, project manager, or technical specialist. Consulting and entrepreneurship are also options. Professional certification enhances prospects.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

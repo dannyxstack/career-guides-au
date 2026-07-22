@@ -1,58 +1,94 @@
-# Skilled Pig Farming Worker（Skilled Pig Farming Worker）职业分析 · ES
+# Skilled Pig Farming Worker — career analysis · Spain
 
-**职业代码：6203 – Skilled Pig Farming Worker。**
+**Occupation code: 6203 (CNO)**
 
-Skilled worker in pig farming responsible for feeding, breeding, health management, and facility maintenance on Spanish pig farms, ensuring productivity and animal welfare.
+Skilled workers engaged in pig breeding, breeding, health management, and facility maintenance at Spanish pig farms ensure production efficiency and animal welfare.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立FP免费或低学费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立FP免费或低学费，专攻畜牧生产） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,000 (Public FP tuition is free or low) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public FP offers free or low tuition, specializing in animal husbandry production) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP畜牧生产技术员 | 西班牙教育部门（FP中心） | 可选 | 完成FP Grado Medio或Superior相关课程 |
-| 农场安全与健康培训 | 西班牙劳动与社会经济部 | 必备 | 从事农场工作需要基本安全培训 |
+| Farm safety and health training | Spanish Ministry of Labor and Social Economy | Required | Working on a farm requires basic safety training |
+| FP Livestock Production Technician | Spanish Ministry of Education (FP Center) | Optional | Complete FP Grado Medio or Superior-related courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。西班牙是全球最大猪肉出口国之一，养猪业持续扩张，对熟练工人需求稳定，尤其在中部与南部农业区。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Spain is one of the world's largest pork exporters, with the pig industry continuously expanding and stable demand for skilled workers, especially in the central and southern agricultural regions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含主管岗位 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual salary before tax, including supervisor positions |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级饲养员晋升至养殖主管、农场经理，或专精于动物健康与繁殖技术，积累经验后可独立经营小型养殖场。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation will significantly transform the work of skilled pig farmers, replacing some repetitive tasks, but enhancing decision-making, animal welfare, and health management capabilities, resulting in mixed outcomes for the overall job.
+
+You can advance from junior breeder to breeding supervisor, farm manager, or specialize in animal health and reproductive technology. After accumulating experience, you can independently operate a small farm.
+
+**Tasks most exposed to AI:**
+
+- Routine inspections of feed feeding and water monitoring (replaced by sensors and automated systems)
+- Partial automation of cleaning and disinfection tasks (such as robotic cleaning of pigsty)
+- Visual screening of underlying disease symptoms (AI image recognition replacement)
+- Simple recording and reminders of breeding and breeding times (automatically executed by the digital system)
+- Manual adjustment of ambient temperature and humidity (taken over by intelligent control system)
+
+**Where AI augments the role:**
+
+- Optimize herd growth models and feed formulations through data analysis tools
+- Using AI-assisted diagnostic systems to improve the accuracy of early disease detection
+- Monitor individual health differences in pigs using wearable devices and the Internet of Things
+- Using digital record systems to improve reproductive management and genetic selection efficiency
+- Simplified production performance analysis through automated report generation
+
+**Human moat:**
+
+- Diagnosis of complex diseases and veterinary decision-making (clinical experience required)
+- Refined management of animal welfare and human-animal interaction
+- On-site handling in emergencies (such as outbreaks)
+- Collaborate and communicate with farm managers and workers as a team
+- Adaptability to unstructured environments (such as sudden weather changes)
+
+**Skills to build:**
+
+- Basic data analysis and spreadsheet processing
+- Use farm management software (such as feeding records, health tracking systems)
+- Basic knowledge of animal science and veterinary medicine (especially in the field of diseases)
+- Mechanical maintenance and simple troubleshooting
+- Sustainable farming practices and animal welfare standards
+- Basic AI tool applications (such as voice assistants, automatic reporting tools)
+
+**Key growth areas:**
 
 - Sustainable farming
 - Animal welfare
@@ -61,68 +97,67 @@ Skilled worker in pig farming responsible for feeding, breeding, health manageme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙雇主担保的工作居留，需证明职位需求及劳工市场测试。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高技能岗位，但养猪工人通常不满足高技能标准，仅限特殊情况。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，需提供经济能力证明。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof of job demand and labor market testing. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Applicable for high-skilled positions, but pig farm workers typically do not meet high-skilled criteria, only in exceptional cases. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, and proof of financial capability is required. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Skilled Pig Farming Worker？**
-- 热爱动物和户外工作
-- 能适应体力劳动和乡村生活
-- 有农业或养殖经验者
-
-**谁不适合学Skilled Pig Farming Worker？**
-- 不喜重复性体力劳动
-- 对动物粪便和气味敏感
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about animals and outdoor work
+- Able to adapt to physical labor and rural life
+- Those with agricultural or breeding experience
+
+**Who is not suited**
+- Dislikes repetitive physical labor
+- Sensitive to animal feces and odors
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for pig farmers in Spain?**
+A: Junior: EUR 18,000-22,000 per year, intermediate: EUR 22,000-28,000, senior: up to EUR 35,000, slightly below the average Spanish salary.
+
+**Q: How can non-EU citizens immigrate to Spain to work in pig farming?**
+A: Mainly through employer-sponsored work residence (Cuenta ajena), employers must prove that the position cannot be filled by a local resident. This is a shortage occupation, but labor market testing should be observed.
+
+**Q: Is formal education required to work in pig farming?**
+A: Not mandatory, but completing the FP animal husbandry course can increase employment opportunities and salaries. Employers prefer workers with relevant training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Skilled Pig Farming Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pig farming workers in Spain?**
-答：Entry-level annual salary is about €18,000-22,000, mid-level €22,000-28,000, and senior up to €35,000, slightly below the national average.
-
-**问：How can non-EU citizens immigrate to work in pig farming in Spain?**
-答：Mainly through employer-sponsored work permit (Cuenta ajena), requiring proof that the position cannot be filled locally. It is a shortage occupation but labor market test applies.
-
-**问：Is formal education required for pig farming work?**
-答：Not mandatory, but completing FP livestock courses improves job prospects and salary. Employers prefer trained workers.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Civil Engineering Worker (Underground Construction)（Civil Engineering Worker (Underground Construction)）职业分析 · DE
+# Civil Engineering Worker (Underground Construction) — career analysis · Germany
 
-**职业代码：3220 – Civil Engineering Worker (Underground Construction)。**
+**Occupation code: 3220 (KldB)**
 
-Performs underground construction work including tunnels, pipelines, and foundations, using heavy machinery and hand tools to ensure quality and safety.
+Engage in underground construction projects, including tunnels, pipelines, foundations, etc., using heavy machinery and hand tools to ensure project quality and safety.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，企业支付学费） |
-| 技工大师（Meister）培训 | 1-2年 | $3,000~$10,000（部分课程可获政府补贴） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance during training, employer pays tuition fees) |
+| Meister training (skilled trades master) | 1-2 years | $3,000~$10,000 (Some courses may be eligible for government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程工人职业资格认证 | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 完成双元制培训后获得，必备 |
-| 资质认证（Anerkennung） | 德国联邦职业资格认证机构 | 必备 | 国外学历需认证，以确认等同德国资格 |
-| 建筑安全证书 | 德国法定事故保险机构（BG Bau） | 必备 | 施工现场必备的安全培训证书 |
+| Civil Engineering Worker Qualification Certification | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Required after completing dual-system training |
+| Qualification recognition (Anerkennung) | German Federal Agency for Vocational Qualifications | Required | Overseas qualifications need to be assessed to confirm equivalence to German credentials |
+| Construction safety certificate | German statutory accident insurance institution (BG Bau) | Required | Mandatory safety training certificate for construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。德国基础设施老化及新建项目需求持续，地下工程工人短缺，未来十年岗位增长稳定，就业机会良好。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. Germany's aging infrastructure and demand for new projects, shortage of underground construction workers, stable job growth over the next decade, good employment opportunities.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $35,000~$42,000 | 税前年薪，含津贴 |
-| 高级（7年以上） | $43,000~$50,000 | 税前年薪，含管理职责补贴 |
+| Median salary | $48,612 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $35,000~$42,000 | Annual pre-tax salary, including allowances |
+| Senior (7+ years) | $43,000~$50,000 | Annual salary before tax, including management responsibility allowance |
+| average salary | $51,828 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从普通工人晋升为工头、施工监督或技术员，通过进修可成为施工工程师或项目经理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Underground civil engineering work has some resilience to automation, but AI will replace certain tasks (e.g., monitoring, data logging) while enhancing design coordination and construction optimization. Entry-level positions are slightly narrowing due to digital tools.
+
+Can be promoted from general worker to foreman, construction supervisor, or technician, and can become a construction engineer or project manager through further study.
+
+**Tasks most exposed to AI:**
+
+- Manual recording and report writing of underground construction progress
+- Identification and reporting of simple anomalies during on-site safety inspections
+- Collection and preliminary analysis of routine soil test data
+- Simple setting out and marking based on drawings
+
+**Where AI augments the role:**
+
+- Real-time collaborative design and construction conflict detection via BIM models
+- Use AI geological analysis tools to optimize tunnel boring parameters
+- Structural health monitoring using drones and AI vision systems
+- Use AI scheduling systems to coordinate machinery and personnel resources
+
+**Human moat:**
+
+- Rapid assessment and emergency response in high-risk environments (e.g., cave-ins, gas)
+- Strategy adjustments and decisions for complex geological conditions (faults, water influx)
+- Precise operation and maintenance of heavy machinery (tunnel boring machines, loaders)
+- On-site team leadership and multi-party subcontract coordination.
+
+**Skills to build:**
+
+- Basic BIM software operation and model reading
+- Geological data analysis and use of AI-assisted interpretation tools
+- Operation of digital surveying equipment (total stations, laser scanning)
+- Management of electronic safety monitoring systems (e.g. personnel positioning, gas detection)
+- Basic Python or R scripting for data wrangling
+- Project management and intelligent scheduling software application
+
+**Key growth areas:**
 
 - Infrastructure projects
 - Renewable energy installations
@@ -64,70 +97,69 @@ Performs underground construction work including tunnels, pipelines, and foundat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 针对有德国认可职业资格的第三国技术工人，需获得德国企业工作合同。 |
-| Subclass EU Blue Card（EU Blue Card） | 仅适用于高等教育学历，但地下工程工人通常为双元制培训，不满足蓝卡条件。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许来德国找工作，需证明语言能力和职业资格。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需有德国认可的资格或经验。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | For skilled workers from third countries with recognized German professional qualifications, a job contract with a German company is required. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable only to higher education degrees, but underground construction workers typically undergo dual-system training and do not meet the Blue Card requirements. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa allowing entry to Germany to find work; requires proof of language skills and professional qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment; requires a qualification or experience recognised in Germany. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering Worker (Underground Construction)？**
-- 喜欢户外和体力工作，能适应恶劣天气
-- 有团队协作精神，注重安全规范
-- 愿意学习德语并接受职业培训
-
-**谁不适合学Civil Engineering Worker (Underground Construction)？**
-- 对体力劳动和灰尘、噪音环境不适应
-- 缺乏耐心和细致，无法严格遵守安全规程
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and physical work, can adapt to harsh weather
+- Team player with a focus on safety standards
+- Willing to learn German and undergo vocational training
+
+**Who is not suited**
+- Not suitable for those who cannot handle physical labor, dust, or noisy environments
+- lacks patience and attention to detail, unable to strictly follow safety procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for underground engineering workers?**
+A: Entry-level workers earn approximately €28,000-34,000 per year, mid-level €35,000-42,000, and senior up to €50,000 or more, usually including allowances.
+
+**Q: How can overseas workers immigrate to Germany for underground engineering work?**
+A: Must obtain a recognized German vocational qualification (dual system or equivalent), pass qualification assessment, find a German employer, and obtain a work visa.
+
+**Q: What certificates are needed to start the job?**
+A: Must complete dual vocational training and obtain a professional qualification, along with a construction safety certificate (Sicherheitspass).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Civil Engineering Worker (Underground Construction)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for underground construction workers?**
-答：Entry-level workers earn €28,000-34,000, mid-level €35,000-42,000, and experienced workers up to €50,000 annually, including allowances.
-
-**问：How can foreign workers immigrate to Germany for underground construction?**
-答：Require a recognized vocational qualification (dual system or equivalent), obtain credential recognition, find a German employer, and apply for a work visa.
-
-**问：What certifications are required to work?**
-答：Must complete dual vocational training and obtain a professional qualification, plus a construction safety certificate (Sicherheitspass).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

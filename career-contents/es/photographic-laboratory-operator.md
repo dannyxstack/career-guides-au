@@ -1,59 +1,95 @@
-# Photographic Laboratory Operator（Photographic Laboratory Operator）职业分析 · ES
+# Photographic Laboratory Operator — career analysis · Spain
 
-**职业代码：8133 – Photographic Laboratory Operator。**
+**Occupation code: 8133 (CNO)**
 
-Operates photographic processing equipment, develops film, prints digital photos, and performs color correction and post-production tasks.
+Responsible for operating photographic printing equipment, processing film and digital photo placement, color correction, and post-production.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立免费，私立约1200欧元/年） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约1500欧元/年） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,200 (Public schools are free, private ones about 1200 euros per year) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public schools are free, private ones about 1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 该职业在西班牙不受规管，无需特定执照或学历认证。 |
+| No mandatory certification | None | Optional | This profession is not regulated in Spain and does not require specific licenses or academic certifications. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。受数码摄影和智能手机普及影响，传统冲印需求持续下降，岗位数量减少，但高端定制和艺术品复制仍有小规模需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. Influenced by the popularity of digital photography and smartphones, demand for traditional printing continues to decline, with fewer job openings, but there is still small-scale demand for high-end customization and art replication.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-8年） | $22,000~$28,000 | 税前年薪 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (8+ years) | $28,000~$35,000 | Annual pre-tax salary |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可从初级操作员晋升为暗房主管或色彩管理师，也可转向数字化图像处理、摄影助理或自主创业开设工作室。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI automation will significantly reduce the number of camera lab operators, especially repetitive tasks like color correction, batch printing, and film processing, leading to a sharp decline in the number of positions, but demand for high-end customization and artistic-grade post-production will still be needed.
+
+You can advance from junior operator to darkroom supervisor or color manager, or transition to digital image processing, photography assistant, or start your own studio.
+
+**Tasks most exposed to AI:**
+
+- Automated color correction and white balance adjustment
+- Batch photo printing and placement with standardized size processing
+- Film scanning and basic restoration operations
+- Exposure parameter calculation and automatic optimization
+- Customer order processing and standard printing operations
+
+**Where AI augments the role:**
+
+- Use AI for creative color grading and stylization in complex scenes
+- Enhance old photo restoration, detail reconstruction, and high-resolution output with AI
+- Combined with AI analysis of customer preferences, it offers customized post-production recommendations
+- Automated workflow management improves batch production efficiency
+- AI tools are used to quickly generate previews and multiple versions for customers to choose from
+
+**Human moat:**
+
+- A deep understanding of photographic artistic styles and aesthetic trends
+- Communicate with clients to understand and realize personalized creative needs
+- Handling complex, irregular, or high-value customized projects
+- Quality control and the assessment and intervention of abnormal situations
+- The preservation and innovative application of history and rare film techniques
+
+**Skills to build:**
+
+- Operation of AI post-production tools (such as Adobe Sensei, Luminar AI).
+- Digital color management and color science knowledge
+- Creative post-production and visual storytelling ability
+- Automated workflows and scripting (Python/Photoshop scripting)
+- Customer communication and needs analysis
+- Cross-media output technology (digital printing, metal printing, etc.)
+
+**Key growth areas:**
 
 - Digital photography decline
 - Custom photo services
@@ -62,61 +98,63 @@ Operates photographic processing equipment, develops film, prints digital photos
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit） | 受雇工作居留，需雇主担保，适用于非欧盟公民。 |
+| Subclass Cuenta ajena (Work Permit) | Employed work residence requires employer sponsorship and applies to non-EU citizens. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Photographic Laboratory Operator？**
-- 对传统摄影工艺有浓厚兴趣的人
-- 希望在创意产业从事技术操作岗位的人
-- 接受中等职业教育即可就业的人
+**Who is suited**
+- People with a strong interest in traditional photographic crafts
+- Those who wish to work in technical operations in creative industries
+- Those who can find employment after receiving secondary vocational education
 
-**谁不适合学Photographic Laboratory Operator？**
-- 追求高收入和快速晋升的人
-- 期望长期稳定职业前景的人
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- People who expect long-term stable career prospects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for photography lab operators?**
+A: The entry-level salary is about 18,000-22,000 euros, the intermediate 22,000-28,000 euros, and the senior level up to 35,000 euros.
+
+**Q: Is this profession suitable for immigrating to Spain?**
+A: Not suitable. This occupation is not in urgent demand, and skilled immigration is difficult, usually requiring employer-sponsored work residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Photographic Laboratory Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for photographic laboratory operators?**
-答：Junior annual salary is about 18,000-22,000 EUR, intermediate 22,000-28,000 EUR, senior up to 35,000 EUR.
-
-**问：Is this occupation suitable for immigrating to Spain?**
-答：No, it is not in shortage; skilled migration is difficult and usually requires employer sponsorship.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

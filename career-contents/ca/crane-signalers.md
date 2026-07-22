@@ -1,63 +1,98 @@
-# Crane signalers（Crane signalers）职业分析 · 加拿大
+# Crane signalers — career analysis · Canada
 
-**职业代码：14400 – Crane signalers。**
+**Occupation code: 14400 (NOC)**
 
-Crane signalers direct hoisting operations at construction and mining sites. In Canada, this occupation (NOC 14400) is eligible for immigration through Provincial Nominee Programs (e.g., BC PNP) and Federal Skilled Trades.
+Crane signalers direct lifting operations at construction and mining sites; verified data: Canada NOC 14400 corresponds to the signaler occupation, eligible through provincial nomination (e.g., BC PNP) or Federal Skilled Trades program.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（最低要求） |
-| 信号员培训课程 | 1-6个月 | $2,000~$5,000（各省不同） |
-| 学徒或在职培训 | 1-2年 | —（可能带薪学习） |
+| High school graduation | 12 years | $0~$0 (Minimum requirements) |
+| Signalman training course | 1-6 months | $2,000~$5,000 (Varies by province) |
+| Apprenticeship or on-the-job training | 1-2 years | $0~$10,000 (May involve paid study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省吊装信号员认证 | 各省工作安全机构（如BC省WorkSafeBC） | 必备 | 多数省要求强制性证书；需通过理论及实践考试 |
-| 高空作业证 | 培训机构 | 可选 | 部分雇主要求，非强制但有利 |
-| 语言能力（英语/法语） | IELTS/TEF | 必备 | 移民需要CLB 5以上；工作最低CLB 4 |
-| ECA学历认证 | WES等 | 必备 | 移民必备，联邦技工通常只需高中认证 |
+| Lifting signaler certification | Provincial workplace safety agencies (e.g., WorkSafeBC in BC) | Required | Most provinces require mandatory certification; must pass theoretical and practical exams |
+| Language ability (English/French) | IELTS/TEF | Required | Immigration requires CLB 5 or above; work requires minimum CLB 4 |
+| ECA (Educational Credential Assessment). | WES etc. | Required | Essential for immigration; federal trade workers usually only need high school certification |
+| Working at heights certificate | Training institution | Optional | Some employers require it, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,000。加拿大建筑和资源行业持续增长，尤其是不列颠哥伦比亚省和阿尔伯塔省的项目增加，预计2025-2030年信号员需求稳定。但需注意冬季施工减少的周期性影响。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. Canada's construction and resource sectors continue to grow, especially with increased projects in British Columbia and Alberta, leading to stable demand for signalers from 2025-2030. However, watch for cyclical impacts from reduced winter construction.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$48,000 | 培训期或助手角色 |
-| 中级（3-7年） | $48,000~$65,000 | 拥有证书及经验 |
-| 高级（7年以上） | $65,000~$85,000 | 主管或复杂项目操作 |
+| Median salary | $46,800 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$48,000 | Training period or assistant role |
+| Mid-level (3–7 years) | $48,000~$65,000 | Holding certificates and experience |
+| Senior (7+ years) | $65,000~$85,000 | Supervisor or complex project operation |
+| average salary | $49,920 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级信号员可向高级信号员、吊装主管或起重机操作员发展。获得相应的省证书（如BC的吊装认证）后，薪资和职位稳定性显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Crane signalers face mixed AI impact: AI vision can assist with lifting path planning and collision detection, but core responsibilities like on-site safety judgment and team hand signals are hard to replace; need to proactively learn digital tools to enhance value.
+
+Entry-level signallers can progress to senior signallers, hoisting supervisors or crane operators. Obtaining relevant provincial certification (such as BC hoisting certification) significantly improves salary and job stability.
+
+**Tasks most exposed to AI:**
+
+- Use AI cameras and sensors to automatically detect load weight, swing angle, and other parameters.
+- Automatically plan optimal lifting paths based on BIM models and real-time data
+- Automatically generate hoisting instruction logs via voice recognition and AI translation
+- Uses computer vision to identify obstacles around the crane boom and trigger an alarm
+
+**Where AI augments the role:**
+
+- AI-enhanced security monitoring system providing real-time risk scores and alerts
+- AR headsets overlay virtual lifting paths and load information to improve command precision
+- AI analyzes historical accident data to assist in optimizing on-site lifting plans
+- Digital twin simulates hoisting performance under different weather conditions to support decision-making
+- Automatically records operational data for training and qualification assessment
+
+**Human moat:**
+
+- Instant judgment and verbal command in on-site emergencies (e.g., worker intrusions, equipment anomalies)
+- Complex hand signals and wireless communication coordination with crane operators, site supervisors, etc.
+- Deep understanding of construction site culture, safety regulations, and unstructured environments
+- Assumes legal and insurance liabilities; must be supervised on-site by a licensed person
+- Relying on experience to adjust command strategies in severe weather or low visibility
+
+**Skills to build:**
+
+- Using BIM and digital twin platforms for lifting simulation
+- Operate AI-assisted real-time monitoring and early warning systems
+- Basic data analysis (e.g., recording and interpreting lifting efficiency metrics)
+- AR/VR device operation and remote collaboration tools
+- Troubleshooting of wireless communication and IoT devices
+- Safety regulation updates and basic awareness of AI ethics.
+
+**Key growth areas:**
 
 - Construction Boom
 - Resource Sector
@@ -66,69 +101,68 @@ Crane signalers direct hoisting operations at construction and mining sites. In 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass FSTP（Federal Skilled Trades Program） | 联邦技工移民，要求NOC 2021 TEER 2或3，且全职工作offer或加拿大证书 |
-| Subclass BC PNP（BC Provincial Nominee Program (Skilled Worker)） | BC省提名技术工人类别，需雇主offer，信号员属于优先职业 |
-| Subclass AB PNP（Alberta Opportunity Stream） | 阿省机遇类，需阿省雇主offer及工作 |
+| Subclass FSTP (Federal Skilled Trades Program) | Federal skilled trades immigration, requires NOC 2021 TEER 2 or 3, and a full-time job offer or Canadian certificate |
+| Subclass BC PNP (BC Provincial Nominee Program (Skilled Worker)) | BC PNP Skilled Worker category, requires employer offer; signaller is a priority occupation |
+| Subclass AB PNP (Alberta Opportunity Stream) | Alberta Opportunity Stream, requires an Alberta employer job offer and work |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Crane signalers？**
-- 动手能力强、无恐高症的人
-- 愿意在户外和工地工作的人
-- 寻求通过技工移民加拿大的人
-
-**谁不适合学Crane signalers？**
-- 不喜欢体力劳动的人
-- 寻求高薪坐办公室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and no fear of heights
+- People willing to work outdoors and on construction sites
+- People seeking to immigrate to Canada as skilled tradespersons
+
+**Who is not suited**
+- People who dislike physical labor.
+- Seeking high-paying office jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a crane signaler?**
+A: The annual salary for entry-level crane signalers in Canada is about 35,000-48,000 CAD, mid-to-senior level reaches 65,000-85,000 CAD, varying by province and project.
+
+**Q: Can crane signalers immigrate to Canada?**
+A: Yes. Through federal skilled trades immigration or provincial nomination (e.g., BC, AB, SK), signalers are in-demand skilled trades, requiring a job offer or provincial certification.
+
+**Q: Which Canadian provinces require a signalman certificate?**
+A: Most provinces such as BC, AB, ON require mandatory certification, usually obtained through provincial workplace safety agencies (e.g., WorkSafeBC).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Crane signalers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary of a crane signaler?**
-答：In Canada, crane signalers earn CAD 35,000-48,000 at entry level, and up to CAD 65,000-85,000 at senior level, varying by province.
-
-**问：Can a crane signaler immigrate to Canada?**
-答：Yes. Through the Federal Skilled Trades Program or PNPs (e.g., BC, AB, SK), crane signalers are in-demand skilled trades. Employer offer or provincial certification required.
-
-**问：Which provinces require crane signaler certification?**
-答：Most provinces like BC, AB, and ON mandate certification, often through provincial workplace safety agencies (e.g., WorkSafeBC).
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

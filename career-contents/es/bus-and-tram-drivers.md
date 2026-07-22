@@ -1,60 +1,96 @@
-# Bus and Tram Drivers（Bus and Tram Drivers）职业分析 · ES
+# Bus and Tram Drivers — career analysis · Spain
 
-**职业代码：8420 – Bus and Tram Drivers。**
+**Occupation code: 8420 (CNO)**
 
-Operate city buses or trams along designated routes and schedules, ensuring safe and punctual passenger transport. Duties include vehicle inspections, ticket handling, and adherence to traffic regulations.
+Responsible for driving city buses or trams, transporting passengers according to fixed routes and schedules. The work includes vehicle inspections, ticketing, and safe driving, ensuring passengers arrive comfortably and on time at their destinations.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费，私立约2000欧元/年） |
-| 专业培训（CAP证书） | 280小时理论+实践 | $1,000~$2,500（强制性客运驾驶证书，费用含培训及考试） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are free or low tuition, private about 2000 euros/year.) |
+| Professional Training (CAP Certificate) | 280 hours of theory + practice | $1,000~$2,500 (Mandatory passenger transport driving certificate, fee includes training and exams) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| D类驾驶执照+CAP证书 | 交通总局（DGT） | 必备 | D类驾照可驾驶超过9座的客车；CAP证书每5年续期 |
-| 心理物理能力证明 | 授权医疗中心 | 必备 | 通过体检和心理测试，证明适合驾驶 |
+| Class D driver's license + CAP certificate | Directorate General of Transportation (DGT) | Required | A Class D driver's license allows driving a passenger bus with more than 9 seats; CAP certificates are renewed every 5 years |
+| Proof of psychophysical ability | Authorized medical centers | Required | Proven to be fit for driving through medical examinations and psychological tests |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 89,000。西班牙城市公共交通需求稳定，老龄化司机退休将创造岗位空缺。电动公交车推广带来技能更新需求，但整体就业增长缓慢。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 89,000. Demand for urban public transport in Spain is stable, and retirement of aging drivers will create job vacancies. The promotion of electric buses has brought demand for skill upgrades, but overall employment growth has been slow.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含夜班和周末补贴 |
-| 中级（3-10年） | $26,000~$32,000 | 底薪加加班费，视公司及线路而定 |
-| 高级（10年以上） | $32,000~$38,000 | 含年资津贴和主管职责补贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual salary before tax, including night and weekend allowances |
+| Intermediate (3-10 years) | $26,000~$32,000 | Base salary plus overtime pay depends on the company and route |
+| Senior (10+ years) | $32,000~$38,000 | Including seniority allowances and supervisory responsibility allowances |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从公交车司机晋升为线路调度员、车队主管或培训师。部分城市开放内部晋升至管理岗位，需积累经验并取得额外资质。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Bus drivers can be promoted to route dispatchers, fleet supervisors, or trainers. Some cities allow internal promotion to management positions, requiring experience and additional qualifications.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Urban mobility
 - Electric bus transition
@@ -63,65 +99,67 @@ Operate city buses or trams along designated routes and schedules, ensuring safe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit (Third Country)） | 需雇主担保，证明岗位无法在欧盟找到合适人选。公共交通司机通常不列入紧缺职业，获批难度较高。 |
-| Subclass Busqueda empleo | 可在西班牙停留6个月寻找工作，但需证明足够经济能力和学历/技能背景。 |
+| Subclass Cuenta ajena (Employed Work Permit (Third Country)) | Employer sponsorship is required, proving that suitable candidates cannot be found in the EU. Public transport drivers are usually not listed as scarce occupations and are more difficult to obtain. |
+| Subclass Busqueda empleo | You can stay in Spain for 6 months to look for a job, but you must prove sufficient financial means and education/skills background. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bus and Tram Drivers？**
-- 喜欢驾驶且具有良好安全意识的人
-- 适应轮班工作和城市拥堵环境
-- 希望稳定就业且不介意重复性工作
+**Who is suited**
+- People who enjoy driving and have good safety awareness
+- Adapt to shift work and urban congestion environments
+- Those who want stable employment and don't mind repetitive work
 
-**谁不适合学Bus and Tram Drivers？**
-- 不愿深夜或节假日工作的人
-- 寻求快速高薪或职业晋升者
+**Who is not suited**
+- People who are unwilling to work late at night or during holidays
+- Those seeking fast high salaries or career advancements
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is overtime pay for bus drivers calculated?**
+A: Spanish labor law stipulates that overtime (over 40 hours per week) is paid at 1.75 times the normal hourly wage, and holidays may be doubled.
+
+**Q: How can foreigners become Spanish bus drivers?**
+A: You must hold a Class D driver's license + CAP certificate and pass a psychological test. Non-EU citizens need an employer-sponsored work permit, but the position is not in short supply and immigration opportunities are low.
+
+**Q: Are there other similar professions?**
+A: You may consider school bus drivers, long-distance coach drivers, or heavy truck drivers, each requiring different types of licenses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Bus and Tram Drivers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is overtime pay calculated for bus drivers?**
-答：Under Spanish labor law, overtime (over 40 hours per week) is paid at 1.75 times the normal hourly rate, and may double on holidays.
-
-**问：How can a foreigner become a bus driver in Spain?**
-答：You need a D license + CAP certificate and pass a psychophysical test. Non-EU citizens require employer sponsorship, but it's not a shortage occupation, so immigration chances are low.
-
-**问：Are there similar occupations?**
-答：Consider school bus drivers, long-distance coach drivers, or heavy truck drivers, which require different license categories.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Contractors and supervisors, mechanic trades（Contractors and supervisors, mechanic trades）职业分析 · 加拿大
+# Contractors and supervisors, mechanic trades — career analysis · Canada
 
-**职业代码：72020 – Contractors and supervisors, mechanic trades。**
+**Occupation code: 72020 (NOC)**
 
-Coordinate and supervise the activities of workers in mechanic trades, ensuring projects are completed on time and within budget, while managing client relationships.
+Coordinate and supervise the activities of workers in the mechanical industry to ensure work is completed on time and to quality standards, while managing budgets and client relationships.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 2年 | —（无需直接费用） |
-| 学徒制 | 4-5年 | $5,000~$10,000（学费和工具费用） |
-| 大专或职业证书 | 1-2年 | $10,000~$20,000（社区学院学费） |
+| High school diploma | 2 years | $0~$0 (No direct fees) |
+| Apprenticeship | 4-5 years | $5,000~$10,000 (Tuition and tool costs) |
+| Diploma or vocational certificate | 1-2 years | $10,000~$20,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省际红印认证 | 加拿大红印计划 | 必备 | 跨省认可资质 |
-| 省级行业证书 | 各省学徒与行业认证机构 | 必备 | 如安省学院证书 |
-| 安全培训证书 | WSIB或其他省级机构 | 必备 | 如WHMIS和防坠落培训 |
+| Interprovincial Red Seal endorsement | Canadian Red Seal Program | Required | Interprovincially recognized qualifications |
+| Provincial industry certificate | Provincial apprenticeship and trade certification bodies. | Required | Such as Ontario College Certificate |
+| Safety training certificate | WSIB or other provincial agencies | Required | Such as WHMIS and fall prevention training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。随着加拿大基础设施老化和新建设项目增加，机械维修需求稳定，预计未来几年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. With Canada's aging infrastructure and new construction projects, demand for mechanical repairs is stable, and the employment outlook is good over the next few years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 刚获得认证或少量经验 |
-| 中级（4-7年） | $60,000~$80,000 | 有经验且可能已获得红印 |
-| 高级（8年以上） | $80,000~$110,000 | 主管经验丰富或管理大团队 |
+| Median salary | $83,200 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Recently certified or with limited experience |
+| Mid-level (4-7 years) | $60,000~$80,000 | Experienced and may have already obtained a Red Seal |
+| Senior (8+ years) | $80,000~$110,000 | Extensive supervisory experience or managing large teams |
+| average salary | $85,280 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为项目经理或公司合伙人，也可通过继续教育进入工程管理领域，或自主创业开设维修店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mechanical industry contractors and supervisors face mixed prospects: routine monitoring, scheduling, and document processing are easily automated by AI, but responsibilities involving complex judgment, interpersonal negotiation, and on-site safety remain core human strengths.
+
+Can advance to project manager or company partner, or enter engineering management through further education, or start own repair shop.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate work progress reports and time records
+- Automated scheduling and labor allocation based on historical data
+- Remotely monitor equipment status via IoT sensors, with AI automatically triggering maintenance work orders
+- Standardized preliminary quote generation for customer inquiries
+- Automatic checking and archiving of compliance documents
+
+**Where AI augments the role:**
+
+- AI-assisted project management system, real-time optimization of multi-site resource allocation
+- Augmented Reality (AR) tools overlay drawings and repair instructions to improve on-site guidance efficiency
+- AI predictive maintenance analysis extends equipment life and reduces unexpected shipments
+- Customer Relationship Management (CRM) AI suggesting personalised service plans and upselling opportunities
+- Automated drone inspection combined with computer vision for identifying hidden faults
+
+**Human moat:**
+
+- On-site diagnosis and decision-making in emergency or complex failures
+- Trust-building and negotiation skills with clients, suppliers, and workers
+- Safety judgment and emergency response in unstructured environments
+- Motivate teams, resolve interpersonal conflicts and impart tacit knowledge
+- Comprehensive understanding of mechanical system lifecycles (beyond a single AI model)
+
+**Skills to build:**
+
+- Proficiency in mainstream project management software (e.g., Procore, PlanGrid) and AI-assisted plugins.
+- Learn basic data analysis and dashboard tools (Tableau, Power BI) to interpret construction site data
+- Understand IoT sensors and predictive maintenance principles
+- Use AR/VR tools for remote collaboration and training
+- Enhances cross-cultural communication and customer negotiation skills
+- Familiarity with basic cloud computing and mobile collaboration tools (Slack, Teams, Asana)
+
+**Key growth areas:**
 
 - Infrastructure Development
 - Aging Workforce
@@ -63,68 +99,67 @@ Coordinate and supervise the activities of workers in mechanic trades, ensuring 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 需满足联邦技术移民条件，职业属于NOC 72020，TEER 2，可获加分。 |
-| Subclass PNP（Provincial Nominee Program） | 多个省份将技工主管列为紧缺，可通过省提名快速移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但需证明无法找到本地工人。 |
+| Subclass Express Entry (Federal Skilled Worker) | Must meet federal skilled migration conditions, occupation falls under NOC 72020, TEER 2, eligible for points. |
+| Subclass PNP (Provincial Nominee Program) | Several provinces list trade supervisors as in-demand, enabling fast immigration via provincial nomination. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, but must prove unable to find local workers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Contractors and supervisors, mechanic trades？**
-- 有机械维修经验且愿意承担管理责任的人
-- 善于团队协调和客户沟通的技工
-- 喜欢动手又希望晋升管理岗位的人
-
-**谁不适合学Contractors and supervisors, mechanic trades？**
-- 不喜欢户外或车间环境的人
-- 不善于处理预算和客户投诉的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with mechanical repair experience and willing to take on management responsibilities.
+- A skilled worker adept at team coordination and client communication
+- People who enjoy hands-on work but also want to move into management roles
+
+**Who is not suited**
+- People who dislike outdoor or workshop environments
+- People who are not good at handling budgets and customer complaints
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary outlook for a Mechanical Supervisor?**
+A: Salary increases with experience and qualifications; senior supervisors can earn over CAD 100,000 annually, and industry demand is stable.
+
+**Q: How to become a mechanical supervisor in Canada via skilled migration?**
+A: Can apply through Express Entry's Federal Skilled Worker Program or Provincial Nominee Program, requiring Canadian certification or employer sponsorship.
+
+**Q: How to get Canadian certification for overseas experience?**
+A: Overseas experience can be assessed through provincial apprenticeship authorities, and necessary exams must be taken to obtain the Red Seal endorsement; the process usually takes 1-2 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Contractors and supervisors, mechanic trades的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for mechanic supervisors?**
-答：Salaries increase with experience and qualifications; senior supervisors can earn over CAD 100,000 annually, with stable demand.
-
-**问：How to immigrate as a mechanic supervisor in Canada?**
-答：Apply through Express Entry FSW or PNP, requiring Canadian certification or employer sponsorship.
-
-**问：How to get Canadian certification with foreign experience?**
-答：Have your foreign experience assessed by provincial apprenticeship authorities, take required exams to obtain Red Seal; typically takes 1-2 years.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

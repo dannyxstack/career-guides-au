@@ -1,64 +1,95 @@
-# 选举官员（Electoral Officer）职业分析 · 澳大利亚
+# Electoral Officer — career analysis · Australia
 
-**职业代码：599616 – Electoral Officer。**
+**Occupation code: 599616 (ANZSCO)**
 
-选举官员在澳洲选举委员会(AEC)及各州选举机构负责选举的组织、登记、合规与选民服务，常设岗稳定、选举期另有大量临时岗，享公职福利(15.4% 退休金)，非技术移民职业。
+Electoral officers in the Australian Electoral Commission (AEC) and state electoral bodies handle election organisation, registration, compliance, and voter services. Permanent roles are stable, with many temporary roles during elections. They enjoy public service benefits (15.4% superannuation). Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / 相关本科（视等级） | 0~4年 | —（高等级岗需学位） |
+| High school / relevant bachelor's (depending on level) | 0–4 years | $0~$40,000 (Senior roles require a degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Australian Citizenship | — | 必备 | 强制 |
-| 相关学历（按等级） | 认可机构 | 可选 | 高等级要求 |
+| Australian Citizenship | — | Required | Mandatory |
+| Related qualification (by level) | Recognised institution | Optional | High level requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,000。选举周期与选民登记工作支撑常设需求，选举期临时岗位大量增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,000. Election cycles and voter registration work sustain ongoing demand, with many temporary roles during election periods.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| AEC / 各州选举机构 | 200~600 个 | 常设+选举临时 |
-| APSjobs | 200~500 个 | 联邦 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $65,000~$77,000 | Entry |
-| 中级（3-8年） | $77,000~$90,000 | Experienced |
-| 资深 / 管理 | $90,000~$110,000 | Senior |
+| Median salary | $103,740 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$77,000 | Entry |
+| Mid-level (3–8 years) | $77,000~$90,000 | Experienced |
+| Senior/Management | $90,000~$110,000 | Senior |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 路径：选举官员→高级/项目→管理岗；选举交付与合规经验决定发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will largely automate election officials' data processing and compliance checks, but core voter interaction, adjudication responsibility, and sensitive data protection still rely on humans, entry-level roles decrease due to AI tools, but professional roles remain stable.
+
+Pathway: election officer → senior/project officer → management; election delivery and compliance experience determine progression.
+
+**Tasks most exposed to AI:**
+
+- Automated data extraction and entry from voter registration forms
+- Election material compliance checks (e.g., candidate file formats, signature verification)
+- Rule-based vote counting verification and anomaly marking
+- Automated replies for standard email/phone inquiries (AI customer service)
+- Election location allocation and resource scheduling optimization (AI planning)
+
+**Where AI augments the role:**
+
+- AI-assisted voter identity verification and fraud detection to enhance security
+- Real-time data dashboards and predictive models to support election-day decision-making
+- Automatically generate voter education content (multilingual, accessible)
+- Intelligently analyze voting trends to optimize site resource allocation
+- Cross-system automatic data synchronization to reduce manual verification
+
+**Human moat:**
+
+- Handling voter complaints, dispute arbitration requiring judgment and empathy
+- Election law interpretation and on-the-spot rulings (e.g., boundary disputes)
+- Privacy protection and ethical decision-making for sensitive voter data
+- Relationship maintenance and trust building with local communities and political parties
+- Ensuring physical service delivery for special groups (people with disabilities, remote electorates)
+
+**Skills to build:**
+
+- Proficiency in Election Management Systems (e.g., EVE) and Data Integration Tools
+- Learning AI/ML basics for fraud detection and predictive analytics
+- Enhance cross-cultural communication and conflict resolution skills
+- Proficiency in privacy regulations (e.g., Australian Privacy Act) and cybersecurity basics
+- Familiarity with Python/SQL for Automated Report Generation
+- Project management (PMP certification) to coordinate AI tool deployment during election cycles
+
+**Key growth areas:**
 
 - AEC / State Electoral
 - Election Delivery
@@ -67,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学选举官员？**
-- 注重流程、合规与公正者
-- 有公民身份、想进入公职者
-
-**谁不适合学选举官员？**
-- 排斥选举期高强度临时工作者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who focus on processes, compliance, and fairness
+- Those with citizenship wanting to enter public service
+
+**Who is not suited**
+- People who are averse to high-intensity temporary work during election periods.
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: How much do election officers earn?**
+A: Permanent roles approx AUD $65k~$110k (+15.4% super); election-period casual roles paid hourly.
+
+**Q: Can an election officer migrate via skilled visa?**
+A: No, and Australian citizenship is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-选举官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：选举官员薪资多少？**
-答：常设岗约 AUD $6.5万~$11万(+15.4% super)；选举期临时岗按时薪计。
-
-**问：选举官员能技术移民吗？**
-答：不能，且要求澳洲公民身份。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

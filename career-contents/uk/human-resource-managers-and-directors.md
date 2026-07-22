@@ -1,58 +1,91 @@
-# Human resource managers and directors（Human resource managers and directors）职业分析 · UK
+# Human resource managers and directors — career analysis · United Kingdom
 
-**职业代码：1136 – Human resource managers and directors。**
+**Occupation code: 1136 (SOC)**
 
-Human resource managers and directors plan, organise and direct personnel, training and industrial relations policies, advise on resource allocation, and implement procedures to improve utilisation of labour, equipment and materials.
+Human Resource Managers and Directors plan, organize, and direct an organization's personnel, training, and industrial relations policies; advise on resource allocation and utilization; and implement procedures to improve workforce and equipment efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $12,000~$25,000（国际学生学费，英国本土学生学费约£9,250/年） |
-| 硕士（可选） | 1年 | $15,000~$30,000（人力资源管理硕士，国际学生学费） |
+| Bachelor's degree | 3 years | $12,000~$25,000 (International student tuition, UK domestic student tuition approx. £9,250/year) |
+| Master's degree (optional) | 1 year | $15,000~$30,000 (Master of Human Resource Management, International Student Tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CIPD认证（如Level 7 Diploma） | Chartered Institute of Personnel and Development | 可选 | 虽然不是法定要求，但CIPD认证在人力资源领域受到高度认可，有助于职业发展。 |
-| 相关学位（人力资源、商业管理） | 大学 | 可选 | 许多雇主偏好相关学位，特别是对于高级职位。 |
+| CIPD certification (e.g., Level 7 Diploma) | Chartered Institute of Personnel and Development | Optional | Although not a legal requirement, CIPD certification is highly regarded in HR and supports career development. |
+| Related degree (Human Resources, Business Management) | University | Optional | Many employers prefer a relevant degree, especially for senior positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 49,000。随着企业对人才管理和组织效率的重视增加，人力资源经理需求保持稳定。数字化转型和远程工作趋势推动了对具有战略人力资源技能的专业人才的需求。
+**Job demand: high (★★★★☆).** National workforce approx. 49,000. With increasing corporate focus on talent management and organizational efficiency, demand for HR managers remains stable. Digital transformation and remote work trends drive demand for professionals with strategic HR skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 人力资源专员或助理经理 |
-| 中级（3-7年） | $40,000~$60,000 | 人力资源经理 |
-| 高级（7年以上） | $70,000~$120,000 | 人力资源总监或高级经理 |
+| Median salary | $57,529 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Human resources officer or assistant manager |
+| Mid-level (3–7 years) | $40,000~$60,000 | Human resources manager |
+| Senior (7+ years) | $70,000~$120,000 | HR Director or Senior Manager |
+| average salary | $69,039 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从人力资源专员或顾问起步，积累经验后晋升为人力资源经理，最终可成为人力资源总监或首席人力资源官。也可能转向组织发展或人才管理等专业领域。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+HR Managers face mixed impacts from AI: tasks like recruitment screening and payroll calculations are automated away, but strategic decision-making, employee relations, and compliance responsibilities are amplified, requiring a shift to tech-savvy HR leadership.
+
+Usually start as HR specialists or assistants, gain experience and advance to HR managers, and ultimately become HR directors or chief HR officers. May also transition to specialized areas like organizational development or talent management.
+
+**Tasks most exposed to AI:**
+
+- Resume screening and candidate matching (AI using ATS keyword filtering)
+- Payroll calculation and benefits report generation (handled by smart payroll system)
+- Employee onboarding document completion and policy notification (self-service portals and chatbots)
+- Training schedule arrangement and record tracking (automated via learning management system)
+
+**Where AI augments the role:**
+
+- Talent data analytics: AI provides workforce planning and proactive retention prediction (e.g., identifying resignation risks)
+- Employee feedback sentiment analysis: AI detects emotions in survey text to support intervention decisions
+- Compliance monitoring: AI tracks labor law changes and automatically checks payroll and hour compliance
+- Personalized training recommendations: AI analyzes skill gaps and suggests learning paths
+
+**Human moat:**
+
+- Strategic workforce planning and organizational design judgment
+- Employee conflict mediation, sensitive exit negotiations, and empathetic communication
+- Leadership in corporate culture and change management
+- Complex interpretation of labor law cases and assessment of litigation risks
+
+**Skills to build:**
+
+- People analytics platforms (e.g., Visier, Workday People Analytics)
+- AI recruitment tool operation (e.g., Hiretual, Pymetrics)
+- Basic programming (Python/SQL) for handling HR datasets
+- Employee experience design (UX/intranet chatbot configuration)
+- Change management and digital transformation leadership
+- Labor law updates tracking (AI-assisted compliance auditing).
+
+**Key growth areas:**
 
 - Talent Management
 - HR Technology
@@ -61,66 +94,68 @@ Human resource managers and directors plan, organise and direct personnel, train
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适合获得有担保资质雇主提供的人力资源经理或总监职位，满足薪资和技能要求（通常年薪至少£26,200或行业特定标准）。 |
-| Subclass Global Talent（Global Talent visa） | 仅适用于在人力资源领域被认可为顶尖人才或具有杰出成就的申请人，通过UKRI或Tech Nation等认可机构申请。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生（本科及以上）可申请，允许在英国工作2年（博士3年），积累人力资源经验后可能转为Skilled Worker。 |
-| Subclass Scale-up（Scale-up visa） | 适合在符合条件的高增长企业中获得人力资源职位，申请人需满足技能和薪资要求，且企业需在3年内增长至少20%人员或营业额。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Suitable for HR manager or director positions with a sponsoring employer, meeting salary and skill requirements (usually annual salary at least £26,200 or industry-specific standard). |
+| Subclass Global Talent (Global Talent visa) | Only applicable for applicants recognized as top talent or with outstanding achievements in the human resources field, applying through recognized bodies such as UKRI or Tech Nation. |
+| Subclass Graduate (Graduate visa) | UK graduates (bachelor's or higher) can apply, allowing 2 years of work in the UK (3 years for PhD), and may transition to Skilled Worker after gaining HR experience. |
+| Subclass Scale-up (Scale-up visa) | Suitable for securing HR roles in eligible high-growth companies, applicants must meet skills and salary requirements, and the company must have grown staff or revenue by at least 20% in 3 years. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Human resource managers and directors？**
-- 具有良好沟通和人际交往能力的人
-- 喜欢战略规划和组织管理的人
-- 对人才发展和员工福利有热情的人
-
-**谁不适合学Human resource managers and directors？**
-- 不喜欢处理冲突和敏感问题的人
-- 不擅长数据分析或法规遵从的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong communication and interpersonal skills
+- People who enjoy strategic planning and organizational management
+- Someone passionate about talent development and employee welfare
+
+**Who is not suited**
+- Not suitable for those who dislike dealing with conflict and sensitive issues
+- People not proficient in data analysis or regulatory compliance
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for Human Resources Managers in the UK?**
+A: Junior HR manager annual salary approx £25,000-£35,000, mid-level £40,000-£60,000, senior or director up to £70,000-£120,000, depending on industry, location, and experience.
+
+**Q: Can a human resources manager immigrate to the UK via a work visa?**
+A: Yes, this occupation is on the list of roles eligible for a Skilled Worker visa. Usually requires a job offer from a licensed sponsor and meeting the minimum salary requirement (approx. £26,200). CIPD certification is not mandatory but helps with applications.
+
+**Q: What is the career development path for a Human Resources Manager?**
+A: Typically start as a human resources specialist (e.g., recruitment, training), advance to HR manager, then to HR director or chief HR officer. May also specialize in compensation and benefits, organizational development, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Human resource managers and directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for HR managers in the UK?**
-答：Entry-level HR managers earn around £25,000-£35,000, mid-level £40,000-£60,000, senior or directors £70,000-£120,000, depending on industry, location and experience.
-
-**问：Can HR managers migrate to the UK via work visa?**
-答：Yes, this occupation is eligible for the Skilled Worker visa. You typically need a job offer from a licensed sponsor and meet the minimum salary threshold (around £26,200). CIPD certification is not mandatory but beneficial.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

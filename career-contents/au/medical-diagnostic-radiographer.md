@@ -1,67 +1,96 @@
-# 放射技师（Medical Diagnostic Radiographer）职业分析 · 澳大利亚
+# Medical Diagnostic Radiographer — career analysis · Australia
 
-**职业代码：251211 – Medical Diagnostic Radiographer。**
+**Occupation code: 251211 (ANZSCO)**
 
-放射技师操作X射线、CT、MRI、超声和核医学设备，为医疗诊断提供影像服务。澳大利亚放射影像技术持续升级（AI辅助诊断），需求稳定且PR路径清晰，是MLTSSL在列的紧缺职业。
+Radiographers operate X-ray, CT, MRI, ultrasound, and nuclear medicine equipment to provide imaging services for medical diagnosis. Australia's medical imaging technology continues to advance (AI-assisted diagnostics), demand is stable, the PR pathway is clear, and it is a listed shortage occupation on the MLTSSL.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Medical Radiation Science（3~4年） | 3~4年（全日制） | $25,000~$140,000（澳洲国际生约 $35,000~$40,000/年；政府补贴名额约 $6,000~$8,000/年） |
-| 海外资历评估（MRPAS + AHPRA注册） | 6~12个月 | $1,500~$5,000（含 Medical Radiation Practice Accreditation Board 评估和AHPRA注册费） |
+| Bachelor of Medical Radiation Science (3–4 years) | 3–4 years (full-time) | $25,000~$140,000 (International students in Australia approximately $35,000–$40,000/year; government-subsidised places approximately $6,000–$8,000/year) |
+| Overseas qualification assessment (MRPAS + AHPRA registration) | 6–12 months | $1,500~$5,000 (Includes Medical Radiation Practice Accreditation Board assessment and AHPRA registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Medical Radiation Science | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Medical Radiation Practitioner Registration | AHPRA | 必备 | 全国统一注册，无此注册不得操作放射设备 |
-| MRPAB评估（Medical Radiation Practice Accreditation） | MRPAB | 可选 | 海外放射技师学历评估 |
-| PET/CT 或 MRI 专科资质 | AIR（Australian Institute of Radiography） | 可选 | 核医学和专科影像方向进阶资质 |
+| Bachelor of Medical Radiation Science | Recognised university | Required | Baseline qualification for AHPRA registration |
+| AHPRA Medical Radiation Practitioner Registration | AHPRA | Required | Nationally unified registration — operating radiological equipment without this registration is not permitted |
+| MRPAB Assessment (Medical Radiation Practice Accreditation) | MRPAB | Optional | Overseas radiographer qualification assessment |
+| PET/CT or MRI specialist qualification | AIR（Australian Institute of Radiography） | Optional | Advanced qualifications in nuclear medicine and specialist imaging |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 16,000。JSA 预测放射技师至2035年就业增长约12%。CT/MRI检查量增加（慢性病筛查和癌症诊断）和人口老龄化是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 16,000. JSA projects approximately 12% employment growth for radiographers by 2035. The primary drivers are increased CT/MRI scan volumes (for chronic disease screening and cancer diagnosis) and an ageing population.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,200 个 | 全国，含医院、私立影像中心、农村和核医学岗 |
-| Indeed | 350~750 个 | 含兼职和合同工 |
-| LinkedIn | 150~400 个 | 偏专科和管理岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册放射技师（0~2年） | $68,000~$82,000 | 医院或影像中心，含基本薪 |
-| 中级放射技师（2~8年） | $82,000~$108,000 | SEEK 区间 $95k~$110k；ERI SalaryExpert 约 $95k（2026） |
-| 资深/专科放射技师（8年+） | $108,000~$140,000 | PET/CT、介入放射和核医学专科薪资较高 |
-| 农村/偏远地区放射技师 | $90,000~$125,000 | 农村影像服务短缺，偏远地区津贴显著 |
+| Median salary | $122,720 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered radiographer (0–2 years) | $68,000~$82,000 | Hospital or imaging centre, including base salary |
+| Intermediate Radiographer (2–8 years) | $82,000~$108,000 | SEEK range $95k–$110k; ERI SalaryExpert approx. $95k (2026) |
+| Senior/Specialist Radiographer (8+ years) | $108,000~$140,000 | PET/CT, interventional radiology and nuclear medicine specialisations attract higher salaries |
+| Rural/Remote Radiographer | $90,000~$125,000 | Shortage of rural imaging services, with significant remote area allowances |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★☆）。** AI辅助影像诊断快速发展（如乳腺癌AI筛查），但放射技师的设备操作和患者管理职能不受影响。PET/CT和介入放射治疗是薪资溢价最高的专科方向。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
+
+AI-assisted imaging diagnostics are advancing rapidly (e.g. AI screening for breast cancer), but radiographers' equipment operation and patient management roles are unaffected. PET/CT and interventional radiology are the specialisations commanding the highest salary premiums.
+
+**Tasks most exposed to AI:**
+
+- AI auto-annotates suspicious lesion areas (e.g., lung nodules, fracture candidate boxes), reducing technicians' initial marking workload
+- AI Auto-measurement of Quantitative Parameters (e.g., organ size, bone density) Replacing Manual Tasks
+- AI automatically generates standard imaging report drafts (e.g., negative reports); technicians only need to review and sign.
+- AI optimizes scanning protocols and exposure parameters, reducing manual adjustments of radiation
+
+**Where AI augments the role:**
+
+- AI improves low-dose image quality, enabling technicians to image sensitive groups like children and pregnant women more safely
+- AI automated serial scanning workflows (e.g., multi-phase cardiac MRI tracking) to improve complex exam efficiency
+- AI real-time noise suppression and motion artifact correction, reducing repeat scans for technicians
+- AI provides structured report templates and key image annotations, speeding up technician report writing by 50%
+- AI recommends personalized contrast dosage and injection plans based on patient data
+
+**Human moat:**
+
+- Patient communication, psychological reassurance, and positioning (especially for children, critically ill, and uncooperative patients)
+- Radiation safety compliance auditing and site emergency response
+- Professional Judgment and Final Diagnostic Responsibility for AI False Positives/Negatives
+- Cross-device coordination, quality control, and new technology validation
+- Real-time image guidance and equipment manipulation in interventional/surgical scenarios
+
+**Skills to build:**
+
+- AI-assisted diagnostic system operation and result verification (e.g., CAD, AI post-processing software)
+- Image AI quality control and deviation detection
+- Multimodal fusion imaging (PET-MRI, SPECT-CT) training
+- Patient communication and psychology: reassurance, informed consent, radiation risk explanation
+- Basic Python or DICOM data manipulation (for simple scripting and quality control)
+- Radiology informatics and evidence-based medicine literacy
+
+**Key growth areas:**
 
 - CT & MRI Advanced Imaging
 - Interventional Radiology
@@ -71,91 +100,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，放射技师为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，农村放射技师享优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区医疗，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; radiographer is a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, rural radiographers given priority |
+| Subclass 491 (Skilled Work Regional) | Rural and remote healthcare, +15 nomination points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学放射技师？**
-- 已持有国内放射/医学影像技术学位（3~4年制）
-- 英语能力达到 OET B / IELTS 7.0
-- 对医学影像技术和设备有浓厚兴趣
-- 接受农村/偏远地区就业以快速获取PR
-- 目标是PET/CT、核医学或介入放射专科方向
-
-**谁不适合学放射技师？**
-- 对放射防护要求感到不适或担忧
-- 英语能力较弱，MRPAB评估困难
-- 不适应固定轮班工作（含周末和夜班）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds a domestic radiology/medical imaging technology degree (3–4 year programme)
+- English proficiency at OET B / IELTS 7.0
+- Strong interest in medical imaging technology and equipment
+- Accept rural/remote employment to fast-track PR
+- Aiming to specialise in PET/CT, nuclear medicine or interventional radiology
+
+**Who is not suited**
+- Discomfort or concern about radiation protection requirements
+- Weak English proficiency, MRPAB assessment difficult.
+- Not suited to fixed shift work (including weekends and night shifts).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for radiographers in Australia?**
+A: Mid-level radiographer salary is approximately $82,000–$108,000 per year (SEEK range $95k–$110k); specialist radiographers (PET/CT/nuclear medicine) earn approximately $108k–$140k; rural positions including allowances are approximately $90k–$125k.
+
+**Q: Is it easy to find work as a radiographer in Australia?**
+A: Easy. CT/MRI scan volumes continue to increase; listed on the MLTSSL; approximately 600–1,200 positions listed on Seek; rural imaging services face serious shortages; employment is typically secured fairly quickly after gaining registration.
+
+**Q: Are radiographer qualifications from overseas recognised in Australia?**
+A: Obtain a credential assessment through MRPAB (Medical Radiation Practice Accreditation Board), then apply for AHPRA registration once requirements are confirmed. The main hurdle is English proficiency (OET B / IELTS 7.0+).
+
+**Q: Will radiographers be replaced by AI?**
+A: Some image-reading functions are being penetrated by AI, but AI-assisted diagnostics have expanded imaging volumes (more patients receiving screening), overall increasing demand for radiographers. Equipment operation and patient management functions cannot be replaced by AI.
+
+**Q: Is there an age limit for radiographers in Australia?**
+A: No upper age limit for practice. Radiation protection regulations safeguard practitioners, and long-term occupational health risks are manageable.
+
+**Q: What qualifications are needed to become a radiographer in Australia?**
+A: A Bachelor of Medical Radiation Science (3–4 years) is required. Domestic medical imaging technology diplomas (3–4 years) may be eligible for MRPAB assessment.
+
+**Q: Is it difficult to become a certified radiographer in Australia?**
+A: Moderate difficulty. MRPAB assessment is primarily an academic credential review with no high-difficulty clinical exams. English proficiency (OET B / IELTS 7.0+) is the main barrier.
+
+**Q: Which is more suitable for skilled migration to Australia — radiographer or registered nurse?**
+A: Nursing has far greater job volume (Seek ~10,000+ vs radiographer ~1,000), with comparable salaries. Radiographers tend to work more regular hours (fewer night shifts and emergency calls), and specialist areas attract a notable salary premium.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA | 放射技师注册要求 |
-| AIR（Australian Institute of Radiography） | 放射技师行业协会和继续教育 |
-| SEEK AU | 放射技师薪资区间 $95k~$110k（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-放射技师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲放射技师工资多少？**
-答：中级放射技师年薪约 $82,000~$108,000（SEEK区间$95k~$110k）；专科放射技师（PET/CT/核医学）约 $108k~$140k；农村地区含补贴约 $90k~$125k。
-
-**问：澳洲放射技师容易找工作吗？**
-答：容易。CT/MRI检查量持续增加，MLTSSL在列，Seek 挂牌 600~1,200 个职位，农村影像服务严重短缺，持证后较快入职。
-
-**问：中国放射技师资质澳洲认可吗？**
-答：通过 MRPAB（医学放射实践认证委员会）学历评估，确认标准后申请AHPRA注册。主要门槛是英语成绩（OET B/IELTS 7.0+）。
-
-**问：放射技师会被AI替代吗？**
-答：部分读片职能有AI渗透，但AI辅助诊断扩大了影像检查量（更多患者接受筛查），整体增加了放射技师需求。设备操作和患者管理职能无法被AI替代。
-
-**问：澳洲放射技师有年龄限制吗？**
-答：无执业年龄上限。放射防护规范保护从业者，长期职业健康风险可控。
-
-**问：澳洲放射技师需要什么学历？**
-答：需要医学放射科学学位（Bachelor of Medical Radiation Science，3~4年制）。国内医学影像技术专科（3~4年制）可申请MRPAB评估。
-
-**问：澳洲放射技师认证难吗？**
-答：难度中等。MRPAB评估主要是学历审核，不需要高难度临床考试。英语（OET B/IELTS 7.0+）是最主要门槛。
-
-**问：放射技师和注册护士哪个更适合技术移民澳洲？**
-答：护士就业量更大（Seek ~10,000+ vs 放射技师 ~1,000），薪资相近。放射技师工作相对规律（更少夜班急诊），专科方向薪资溢价明显。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

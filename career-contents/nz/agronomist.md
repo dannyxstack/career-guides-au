@@ -1,59 +1,95 @@
-# Agronomist（Agronomist）职业分析 · 新西兰
+# Agronomist — career analysis · New Zealand
 
-**职业代码：234115 – Agronomist。**
+**Occupation code: 234115 (ANZSCO)**
 
-Agronomists in New Zealand study crops, soil and climate to optimize agricultural productivity and sustainability. This occupation is on the Green List Tier 1, offering a direct residence pathway, with stable job demand.
+Agronomists in New Zealand study crops, soil, and climate to optimize agricultural production and sustainability. This occupation is on the Green List Tier 1, eligible for a direct residence pathway, with stable employment demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$40,000（国际学生每年学费约3-4万NZD） |
-| 硕士 | 1-2年 | $35,000~$50,000（国际学生每年学费约3.5-5万NZD） |
+| Bachelor's degree | 3 years | $30,000~$40,000 (International students annual tuition about 30,000-40,000 NZD) |
+| Master's degree | 1-2 years | $35,000~$50,000 (International student tuition approx. NZD 35,000-50,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业科学学士 | 梅西大学/林肯大学 | 可选 | 常见入门学历 |
-| 新西兰农业研究所会员 | 新西兰农业研究所 | 可选 | 非强制但有利就业 |
-| 雅思6.5分 | 雅思官方 | 必备 | 技术移民语言要求 |
+| IELTS 6.5 | IELTS Official | Required | Language requirements for skilled migration |
+| Bachelor of Agricultural Science | Massey University/Lincoln University | Optional | Common entry-level education |
+| Member of the New Zealand Institute of Agricultural Science | New Zealand Agricultural Research Institute | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 800。新西兰农业是经济支柱，农学家需求稳定。随着可持续农业和精准农业技术发展，预计未来5年岗位增长约5%，主要就业于科研机构、大型农场和农业咨询公司。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 800. Agriculture is the economic backbone of New Zealand, with stable demand for agronomists. With the development of sustainable agriculture and precision agriculture technologies, job growth is expected to be around 5% over the next 5 years, mainly in research institutions, large farms, and agricultural consulting companies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪约5.5-7万NZD |
-| 中级（3-8年） | $75,000~$95,000 | 中位约8.5万NZD |
-| 高级（8年以上） | $100,000~$130,000 | 高级可超10万NZD |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary about NZ$55,000-70,000. |
+| Mid-level (3–8 years) | $75,000~$95,000 | Median approximately NZD 85,000. |
+| Senior (8+ years) | $100,000~$130,000 | Senior level can exceed NZD $100,000. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级农学家可从田间技术员或助理做起，积累3-5年经验后可晋升为高级农学家或区域经理。10年以上经验者可转向农业研究、政策制定或自主创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is a double-edged sword for agronomists: automated data collection and analysis can improve efficiency, but complex field decisions, interdisciplinary problem-solving, and sustainability strategy planning still require human experience, creativity, and ethical judgment. The profession overall will not be replaced, but competition for entry-level positions will intensify.
+
+Junior agronomists can start as field technicians or assistants, and after 3-5 years of experience can advance to senior agronomist or regional manager. With over 10 years of experience, they can move into agricultural research, policy development, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Automatic collection and analysis of soil nutrients and crop growth data
+- Generate yield prediction reports based on historical data and weather models
+- Common pest and disease identification and standard treatment recommendations
+- Initial generation and optimization of irrigation and fertilization plans
+- Automated monitoring and data collation for routine field trials
+
+**Where AI augments the role:**
+
+- Using AI-driven precision agriculture systems to optimize the timing and dosage of planting and fertilizing.
+- Analyze years of climate data using machine learning models to develop adaptive planting strategies.
+- Combining remote sensing imagery with soil sensor data for nutrient management recommendations
+- AI-assisted breeding decisions: analyzing genomic data to accelerate selection of stress-resistant varieties
+- Carbon emissions and sustainability assessment: AI simulates the environmental impact of different management scenarios
+
+**Human moat:**
+
+- Interdisciplinary system integration skills (soil, plants, weather, economics)
+- Complex communication and negotiation with farmers, policymakers, and industry stakeholders
+- Creative solutions based on local experience (e.g., unconventional pests and diseases).
+- Ethical judgment and trade-offs in long-term sustainable strategy planning
+- Interpretation and implementation of regulatory compliance and food safety standards
+
+**Skills to build:**
+
+- Precision agriculture technology platforms (e.g., CropX, Climate FieldView) operation and data analysis
+- Remote sensing image processing and GIS spatial analysis (e.g., QGIS, Google Earth Engine)
+- Python or R for agricultural data modeling and automation
+- Machine learning basics (especially time series forecasting and classification models)
+- Knowledge of sustainable agriculture certification and carbon accounting
+- Project management and cross-disciplinary collaboration skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Agronomists in New Zealand study crops, soil and climate to optimize agricultura
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，学历+工作可达到6分，适合有新西兰雇主offer者 |
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 直接居留路径，职业在绿色清单Tier1，持认可雇主offer即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为移民前过渡签证，需有认证雇主offer |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration points system: 6 points can be achieved through qualifications plus work experience, suitable for those with a New Zealand employer offer. |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Direct residence pathway: occupation on Green List Tier 1, with a valid job offer from an accredited employer. |
+| Subclass AEWV (Accredited Employer Work Visa) | Skilled Employer-Sponsored Temporary visa, as a transitional visa before permanent migration, requires an offer from an approved employer. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agronomist？**
-- 热爱农业和户外工作的人
-- 有植物学、土壤科学背景的毕业生
-- 希望快速通过技术移民定居新西兰的人
-
-**谁不适合学Agronomist？**
-- 不喜出差和田间工作的人
-- 对体力劳动敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love agriculture and outdoor work
+- Graduates with backgrounds in botany or soil science
+- People who want to migrate to New Zealand quickly through skilled migration
+
+**Who is not suited**
+- People who dislike travel and fieldwork
+- Individuals sensitive to physical labor.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an agronomist in New Zealand?**
+A: According to Seek NZ, the average salary for agronomists is about NZD 85,000, with entry-level around NZD 55,000-70,000 and senior up to NZD 100,000-130,000.
+
+**Q: Which visas can agronomists use to immigrate to New Zealand?**
+A: Agronomists are on Green List Tier 1, eligible for direct residence; also via SMC (6-point system) or AEWV work visa before transitioning to residence.
+
+**Q: What qualifications are needed to become an agronomist?**
+A: Usually requires a bachelor's degree in agricultural science or related field (3 years), some positions require a master's degree (1-2 years). New Zealand recognizes agronomy degrees from Massey University and Lincoln University.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Agronomist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an agronomist in New Zealand?**
-答：According to Seek NZ, the average annual salary is around NZD 85,000, with entry-level from NZD 55,000-70,000 and senior up to NZD 100,000-130,000.
-
-**问：What visa options are available for agronomists to immigrate to New Zealand?**
-答：Agronomists are on the Green List Tier 1 and can apply for direct residence; also eligible for SMC (6 points system) or transition from AEWV work visa to residence.
-
-**问：What qualifications are needed to become an agronomist?**
-答：Typically require a bachelor's degree in agricultural science or related field (3 years), some roles prefer a master's (1-2 years). Degrees from Massey University and Lincoln University are well recognized.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

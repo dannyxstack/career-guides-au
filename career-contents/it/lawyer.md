@@ -1,59 +1,95 @@
-# Lawyer（Lawyer）职业分析 · IT
+# Lawyer — career analysis · Italy
 
-**职业代码：2611 – Lawyer。**
+**Occupation code: 2611 (ISCO08)**
 
-Italian lawyers provide legal advice, represent clients in court, and draft legal documents, requiring a state exam and bar registration.
+Italian lawyers provide legal advice, represent clients in litigation, and draft legal documents; must pass a national exam and register with the bar association.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $1,000~$5,000（公立大学学费按家庭收入计算） |
-| 硕士（法学） | 2年 | $2,000~$6,000（硕士课程（Laurea Magistrale）） |
-| 实习与资格考试 | 2年 | —（实习期（praticantato）及考试费） |
+| Bachelor's degree | 3 years | $1,000~$5,000 (Public university tuition fees are calculated based on family income.) |
+| Master's (Law) | 2 years | $2,000~$6,000 (Master's degree programme (Laurea Magistrale)) |
+| Internships and qualification exams | 2 years | $0~$2,000 (Internship (praticantato) and exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利律师资格考试 | 意大利司法部 | 必备 | 必须通过国家考试（Esame di Stato） |
-| 律师协会注册 | 当地律师协会（Ordine degli Avvocati） | 必备 | 通过考试后需注册 |
+| Italian Bar Exam | Italian Ministry of Justice | Required | Must pass the national exam (Esame di Stato) |
+| Registered with the Bar Association | Local Bar Association (Ordine degli Avvocati) | Required | Must register after passing the exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 240,000。意大利法律行业需求稳定，尤其是商业法和移民法领域。司法系统改革增加了对专业律师的需求，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 240,000. The Italian legal industry has stable demand, especially in commercial law and immigration law. Judicial system reforms have increased demand for specialist lawyers, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 实习律师或初级律师 |
-| 中级（3-7年） | $40,000~$70,000 | 有一定经验的律师 |
-| 高级（7年以上） | $70,000~$150,000 | 合伙人或资深律师 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$40,000 | Trainee lawyer or junior solicitor |
+| Mid-level (3–7 years) | $40,000~$70,000 | Lawyer with some experience |
+| Senior (7+ years) | $70,000~$150,000 | Partner or senior lawyer |
+| average salary | $65,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从初级律师（praticante）起步，经过2年实习后通过资格考试成为正式律师，可晋升为合伙人或专攻特定领域（如公司法、刑事法）。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
+
+Start as a trainee lawyer (praticante), after a 2-year internship pass the qualification exam to become a licensed lawyer, with opportunities to advance to partner or specialize in fields such as corporate or criminal law.
+
+**Tasks most exposed to AI:**
+
+- Automated review and keyword extraction of contracts and legal documents
+- Automatic generation of legal case search and precedent summaries.
+- Drafting standardized legal documents (e.g., wills, contract templates)
+- Classification and initial analysis of large volumes of electronic documents during the forensic phase.
+- Automatic summarization of factual sections in legal memos
+
+**Where AI augments the role:**
+
+- AI-based case prediction and litigation strategy optimization
+- Intelligent contract review system assists in identifying hidden risk clauses
+- AI-driven mock court and debate training
+- Legal knowledge graph assists in quickly cross-referencing regulations across fields
+- AI chatbot screening initial legal needs in customer service
+
+**Human moat:**
+
+- On-the-spot adaptability and persuasion skills in courtroom argument and negotiation
+- Comprehensive judgment and ethical decision-making for complex cross-disciplinary legal issues
+- Empathy to build trust with clients and understand deep needs
+- Maintaining lawyer-client privilege in the public interest
+- Unstructured, high-uncertainty exploration of emerging legal fields.
+
+**Skills to build:**
+
+- AI legal tools (e.g., Relativity, Kira Systems) operation
+- Data analysis and visualization (for predictive legal analysis)
+- Algorithm bias identification and compliance review
+- Human-machine collaborative workflow design (legal tech project management)
+- Knowledge of cybersecurity and privacy regulations
+- Advanced negotiation and complex dispute resolution
+
+**Key growth areas:**
 
 - Commercial law
 - Immigration law
@@ -62,68 +98,67 @@ Italian lawyers provide legal advice, represent clients in court, and draft lega
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及工作合同，年薪门槛约4万欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，通过年度配额申请，需雇主担保。 |
-| Subclass Autonomous Work Visa（Autonomous Work Visa） | 适用于自由职业者（如独立律师），需提供业务计划和收入证明。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires university degree and work contract, annual salary threshold approx. 40,000 euros. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU citizens, requires employer sponsorship through annual quota application. |
+| Subclass Autonomous Work Visa (Autonomous Work Visa) | Applicable to freelancers (e.g., independent lawyers), requiring a business plan and proof of income. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lawyer？**
-- 具备扎实法律知识和逻辑思维的人
-- 擅长辩论和书面表达的人
-- 适应高强度工作环境的人
-
-**谁不适合学Lawyer？**
-- 不喜竞争和高压工作的人
-- 希望快速获得永久居留权的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with solid legal knowledge and logical thinking
+- People skilled in debate and written expression
+- People suited to high-intensity work environments
+
+**Who is not suited**
+- People who dislike competition and high-pressure work
+- People who want to quickly obtain permanent residency
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Italian lawyer?**
+A: Junior lawyers earn about €25,000-40,000 per year, mid-level €40,000-70,000, and senior €70,000-150,000.
+
+**Q: How can foreign lawyers work in Italy?**
+A: Must pass the Italian bar exam and register; non-EU citizens require a work visa, such as the EU Blue Card or quota work visa.
+
+**Q: Is Italian lawyer qualification difficult to obtain?**
+A: High difficulty, requires completing internship and passing national exam; pass rate approx. 30-40%.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Lawyer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for lawyers in Italy?**
-答：Junior lawyers earn around €25,000-40,000, mid-level €40,000-70,000, senior €70,000-150,000 annually.
-
-**问：How can foreign lawyers work in Italy?**
-答：They must pass the Italian bar exam and register, and non-EU nationals need a work visa such as EU Blue Card or Decreto Flussi.
-
-**问：Is the Italian bar certification difficult?**
-答：Yes, it requires an internship and a state exam with a pass rate of about 30-40%.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Data Scientists（Data Scientists）职业分析 · 美国
+# Data Scientists — career analysis · United States
 
-**职业代码：15-2051 – Data Scientists。**
+**Occupation code: 15-2051 (SOC)**
 
-Data scientists use programming, statistics, and machine learning to extract insights from large structured and unstructured datasets to support business decisions.
+Data scientists use programming, statistics, and machine learning to extract insights from large volumes of structured and unstructured data, supporting business decisions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$150,000（公立大学约4万，私立约15万美元） |
-| 硕士 | 2年 | $30,000~$120,000（学费因学校差异大，部分可获助学金） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities about USD 40,000, private about USD 150,000.) |
+| Master's degree | 2 years | $30,000~$120,000 (Tuition varies widely by school; some may offer scholarships.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学/统计/数学学士学位 | 大学 | 必备 | 通常要求相关领域学位 |
-| Python/R/SQL编程技能 | 自学或认证 | 可选 | 核心技能，非正式认证 |
-| 机器学习证书 | Coursera/edX等 | 可选 | 如斯坦福机器学习认证 |
+| Bachelor's degree in Computer Science/Statistics/Mathematics | University | Required | Typically requires a degree in a related field |
+| Python/R/SQL programming skills | Self-study or certification | Optional | Core skill, not formal certification |
+| Machine learning certification | Coursera/edX, etc. | Optional | Such as Stanford Machine Learning certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 208,000。美国劳工统计局预测2022-2032年数据科学家岗位增长35%，远超平均增速。大数据和AI应用持续扩张，推动需求旺盛。
+**Job demand: very high (★★★★½).** National workforce approx. 208,000. U.S. Bureau of Labor Statistics predicts data scientist jobs will grow 35% from 2022 to 2032, much faster than average. Big data and AI applications continue to expand, driving strong demand.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $95,000~$125,000 | 典型起薪约9.5万-12.5万美元 |
-| 中级（3-7年） | $125,000~$160,000 | 薪资中位数约14万美元 |
-| 高级（7年以上） | $160,000~$220,000 | 高级或主管可达20万美元以上 |
+| Median salary | $120,230 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $95,000~$125,000 | Typical starting salary about $95k-$125k |
+| Mid-level (3–7 years) | $125,000~$160,000 | Median salary about $140,000 |
+| Senior (7+ years) | $160,000~$220,000 | Senior or manager roles can exceed $200,000 USD. |
+| average salary | $126,800 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 初级分析师可晋升为高级数据科学家、首席数据官或AI架构师。也可向机器学习工程师、数据工程或管理岗位转型。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Junior analysts can advance to senior data scientist, chief data officer, or AI architect. They can also transition to machine learning engineer, data engineering, or management roles.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Big Data
 - Machine Learning
@@ -62,69 +98,68 @@ Data scientists use programming, statistics, and machine learning to extract ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需学士学位以上，每年限额竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合硕士或本科加5年经验，需PERM劳工证，排队较久。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合杰出人才，如发表过重要论文或有重大贡献。 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大或墨西哥公民，数据科学家通常符合资格。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa, requires a bachelor's degree or higher, with annual quota and intense competition. |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for master's degree or bachelor's plus 5 years of experience, requires PERM labor certification, long queue. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for outstanding talents, such as those with significant publications or major contributions. |
+| Subclass TN (TN NAFTA Professional) | Applies to Canadian or Mexican citizens; data scientists usually qualify. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Data Scientists？**
-- 喜欢分析数据、解决复杂问题者
-- 具有数学、统计或编程背景者
-- 对新技术保持好奇心者
-
-**谁不适合学Data Scientists？**
-- 厌恶编程或数学建模者
-- 不善于沟通交流者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy analyzing data and solving complex problems
+- Those with a background in mathematics, statistics, or programming
+- Curious about new technologies
+
+**Who is not suited**
+- People who dislike programming or mathematical modeling
+- People not good at communication.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for data scientists?**
+A: Entry-level about USD 95,000-125,000, mid-level USD 125,000-160,000, senior USD 160,000-220,000.
+
+**Q: Which visa is mainly used by data scientists to immigrate to the US?**
+A: The most common is H-1B work visa, then apply for green card through EB-2 or EB-3. Exceptional individuals can try O-1 visa.
+
+**Q: Is the competition for data scientist positions intense?**
+A: Moderate to high competition, as demand is high but so is the candidate pool. Having a master's or PhD, relevant project experience gives an edge.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★★☆☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Data Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for data scientists?**
-答：Entry-level: $95k-$125k; Mid-level: $125k-$160k; Senior: $160k-$220k.
-
-**问：What visa do data scientists primarily use to immigrate to the US?**
-答：H-1B is the most common, followed by EB-2/EB-3 green card. O-1 is for extraordinary ability.
-
-**问：Is the job market for data scientists competitive?**
-答：Moderately high: high demand but many applicants. Advanced degrees and project experience help.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

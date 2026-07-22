@@ -1,62 +1,97 @@
-# Foundry Mold and Coremakers（Foundry Mold and Coremakers）职业分析 · 美国
+# Foundry Mold and Coremakers — career analysis · United States
 
-**职业代码：51-4071 – Foundry Mold and Coremakers。**
+**Occupation code: 51-4071 (SOC)**
 
-Make or form wax or sand cores or molds used in the production of metal castings in foundries.
+Make wax or sand cores and molds in foundries for metal casting production.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭/GED | 无 | —（多数雇主要求） |
-| 学徒制 | 3-4年 | —（注册学徒，边学边赚） |
-| 技术学院证书 | 1年 | $5,000~$15,000（金属铸造或模具相关） |
+| High school diploma/GED | None | $0~$0 (Most employers require) |
+| Apprenticeship | 3-4 years | $0~$5,000 (Registered apprenticeship, earn while you learn) |
+| Technical college certificate | 1 year | $5,000~$15,000 (Metal casting or mold-related) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 基本入职要求 |
-| NIMS模具认证 | National Institute for Metalworking Skills | 可选 | 提升竞争力 |
-| 学徒完成证书 | 美国劳工部 | 可选 | 注册学徒期满 |
+| High school diploma or equivalent | School | Required | Basic entry requirements |
+| NIMS mold certification | National Institute for Metalworking Skills | Optional | Boosting competitiveness |
+| Certificate of apprenticeship completion | U.S. Department of Labor | Optional | Completion of registered apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,800。美国制造业回流趋势下，铸造模具工需求稳定，但自动化可能抑制增长。预计2023-2033年就业变化约-2%，年均空缺约1,000个。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,800. Under the US manufacturing reshoring trend, demand for casting mold makers is stable, but automation may curb growth. Projected employment change of about -2% from 2023-2033, with around 1,000 annual openings.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级，多为学徒或助手 |
-| 中级（3-7年） | $42,000~$55,000 | 熟练工，可独立操作 |
-| 高级（7年以上） | $55,000~$70,000 | 资深或主管级 |
+| Median salary | $48,110 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level, mostly as apprentices or assistants |
+| Mid-level (3–7 years) | $42,000~$55,000 | Skilled worker, able to operate independently |
+| Senior (7+ years) | $55,000~$70,000 | Senior or supervisor level |
+| average salary | $49,860 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从学徒做起，晋升为铸造技术员、模具主管，或考取NIMS认证转向精密铸造领域。少数经验者自主创业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Foundry mold makers face high automation risk; AI and robots will significantly replace mold making, trimming, and quality inspection tasks. Entry-level positions shrink, but complex mold design and on-site debugging still rely on human experience.
+
+Can start as an apprentice and advance to foundry technician, mold supervisor, or obtain NIMS certification to move into precision casting. A few experienced individuals start their own businesses.
+
+**Tasks most exposed to AI:**
+
+- making sand cores and molds using hand tools
+- Hand-finish and polish molds according to drawings
+- Visual inspection of mold surface defects
+- Repetitive handling and assembly of mold components
+- Manually record production data and mold parameters
+
+**Where AI augments the role:**
+
+- Use AI simulation software to optimize mold gating system design.
+- Assisting mold quality inspection through machine vision systems
+- Use digital twin technology to remotely monitor the mold production process
+- Use AR glasses to obtain real-time mold assembly guidance
+- Use automated robots for mold spraying and coating
+
+**Human moat:**
+
+- Process planning and adjustment for complex molds
+- Resolve mold production issues on-site
+- Root cause analysis of metal casting defects
+- Collaborate with engineers to develop new mould processes
+
+**Skills to build:**
+
+- CAD/CAM mold design software
+- Industrial Robot Programming and Debugging
+- 3D printing mold manufacturing technology
+- Data analysis and quality statistical process control
+- Automated equipment maintenance and fault diagnosis
+- Casting process simulation software operation
+
+**Key growth areas:**
 
 - Manufacturing Reshoring
 - Automation Impact
@@ -65,63 +100,65 @@ Make or form wax or sand cores or molds used in the production of metal castings
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因学历要求不符；但少数管理岗可能申请 |
-| Subclass EB-3（Employment-Based Third Preference） | 需PERM劳工证，但雇主担保意愿低，且需证明无本土可用工人 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 类似EB-3，流程复杂，通常不现实 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable due to educational requirements; but a few management positions may apply. |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, but employer sponsorship willingness is low, and needs to prove no available local workers |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Similar to EB-3, complex process, usually unrealistic |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Foundry Mold and Coremakers？**
-- 喜欢动手操作、对金属铸造感兴趣的人
-- 愿意从事体力劳动、适应高温环境的人
-- 寻求稳定蓝领工作、不介意重复性任务的人
+**Who is suited**
+- Those who enjoy hands-on work and are interested in metal casting
+- Those willing to engage in physical labor and adapt to high-temperature environments
+- People seeking stable blue-collar jobs and not minding repetitive tasks
 
-**谁不适合学Foundry Mold and Coremakers？**
-- 偏好白领工作或高薪资的人
-- 对高温、噪音、粉尘环境敏感或体力不足的人
+**Who is not suited**
+- People who prefer white-collar jobs or high salaries
+- Those sensitive to or physically unable to handle high temperatures, noise, or dusty environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do casting mold makers earn?**
+A: Annual salary approximately USD 32,000 to 70,000, median around USD 48,000, below US average salary.
+
+**Q: Is it easy to immigrate to the US for this occupation?**
+A: Very difficult. Usually does not meet H-1B education requirements; EB-3 green card requires employer sponsorship and PERM, but few employers are willing to support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Foundry Mold and Coremakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for foundry mold and coremakers?**
-答：Annual salary ranges from $32,000 to $70,000, median around $48,000, below U.S. average.
-
-**问：Is this occupation easy for immigration to the U.S.?**
-答：Very difficult. It generally does not meet H-1B degree requirements; EB-3 green card requires employer sponsorship and PERM, but employers rarely support.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

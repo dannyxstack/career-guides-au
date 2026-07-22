@@ -1,59 +1,95 @@
-# Metallurgist（Metallurgist）职业分析 · 新西兰
+# Metallurgist — career analysis · New Zealand
 
-**职业代码：234912 – Metallurgist。**
+**Occupation code: 234912 (ANZSCO)**
 
-Metallurgists study the properties, processing, and extraction of metals and alloys, developing new materials. In New Zealand, this occupation is eligible for Green List Tier 1 direct residence and Skilled Migrant Category, with jobs in mining, metalworking, aerospace, etc.
+Metallurgists study the properties and processing of metals and alloys, and develop new materials. In New Zealand, this occupation is eligible for direct residence through the Green List T1, or for a Skilled Migrant Category visa, with employment in mining, metal processing, aviation, and other industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（年均学费，国际学生） |
-| 硕士 | 1-2年 | $35,000~$50,000（年均学费，国际学生） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Average annual tuition fee, international students) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Average annual tuition fee, international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士（荣誉） | 奥克兰大学/坎特伯雷大学等 | 必备 | 需为华盛顿协议认可 |
-| 注册工程师（CPEng） | 新西兰工程局（Engineering New Zealand） | 可选 | 建议获得以提升职业机会 |
-| 雅思6.5分 | IELTS | 必备 | 移民要求 |
+| Bachelor of Engineering (Honours) | University of Auckland / University of Canterbury etc. | Required | Must be recognized under the Washington Accord |
+| IELTS 6.5 | IELTS | Required | Immigration requirements |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Recommended to obtain for enhanced career opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,200。新西兰冶金学家就业前景稳定，尤其在矿业和制造业领域。随着资源行业复苏和绿色能源转型，对金属材料专业人才需求保持增长。主要就业地区为奥克兰、怀卡托和坎特伯雷。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. Employment prospects for metallurgists in New Zealand are stable, especially in the mining and manufacturing sectors. With the recovery of the resource industry and the green energy transition, demand for metal materials professionals continues to grow. Main employment areas are Auckland, Waikato, and Canterbury.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 起薪约6万纽元 |
-| 中级（4-7年） | $75,000~$100,000 | 经验丰富后增长 |
-| 高级（8年以上） | $100,000~$140,000 | 高级工程师或管理层 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Starting salary approx. NZD 60,000. |
+| Mid-level (4-7 years) | $75,000~$100,000 | Increases with experience |
+| Senior (8+ years) | $100,000~$140,000 | Senior engineer or management level |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级冶金学家可晋升为高级工程师或项目经理，也可转向研究开发或质量控制。积累经验后可成为注册工程专业人士，晋升至首席冶金学家或技术总监。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of metallurgists presents mixed prospects: AI can efficiently handle data analysis and simulation, but laboratory and field operations are difficult to replace in the short term.
+
+Junior metallurgists can progress to senior engineer or project manager, or move into research and development or quality control. With experience, can become a registered engineering professional, advancing to chief metallurgist or technical director.
+
+**Tasks most exposed to AI:**
+
+- Statistical analysis of alloy performance data
+- Automatic identification and classification of microstructure images
+- Automated generation of standard material test reports.
+- Parameter optimization during production
+- Literature review and knowledge graph construction
+
+**Where AI augments the role:**
+
+- Using AI to accelerate the design and screening of new material components.
+- Predict material corrosion and fatigue life through machine learning
+- optimize smelting processes with digital twins
+- Automatically identifying defect patterns to improve quality inspection efficiency
+- Using natural language processing to extract key information from technical documents
+
+**Human moat:**
+
+- Root cause analysis of complex failure modes
+- Non-standard experiment design and anomaly handling
+- Material selection decisions in interdisciplinary engineering problems
+- Coordination and communication with production site staff and safety supervision
+- Understanding customer needs and innovating solutions for new alloy products.
+
+**Skills to build:**
+
+- Python or R programming and data processing
+- Basics of machine learning (scikit-learn, TensorFlow).
+- Computational materials science (DFT, molecular dynamics) simulations
+- Digital Twin and Industrial IoT Platform Applications
+- Materials Database Management and Advanced Analysis
+- AI project management and cross-team collaboration
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Metallurgists study the properties, processing, and extraction of metals and all
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求，包括学历、工作经验等，可申请居留 |
-| Subclass Green List T1（Green List Straight to Residence） | 冶金学家在绿色清单T1，可直接申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如不满足直接居留，可先通过认证雇主工签工作，后续转居留 |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point requirements, including education and work experience, to apply for residency |
+| Subclass Green List T1 (Green List Straight to Residence) | Metallurgist is on the Green List T1 and can apply for residence directly |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct residence is not met, can first work on a sponsored employer work visa and later transition to residence |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metallurgist？**
-- 具备材料科学或工程学背景的毕业生
-- 对金属加工和制造工艺有浓厚兴趣
-- 愿意在矿业或重工业环境工作
-
-**谁不适合学Metallurgist？**
-- 不喜欢实验室或现场工作环境
-- 对化学和物理分析缺乏耐心
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with background in materials science or engineering
+- Strong interest in metalworking and manufacturing processes
+- Willing to work in mining or heavy industry environments
+
+**Who is not suited**
+- Does not like laboratory or field work environments
+- Lack of patience for chemical and physical analysis.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metallurgists in New Zealand?**
+A: Junior metallurgist annual salary approx NZD 55,000-75,000; mid-level NZD 75,000-100,000; senior up to NZD 140,000. Affected by experience and industry.
+
+**Q: How can metallurgists migrate to New Zealand?**
+A: Metallurgists are on the Green List T1 and can apply for Straight to Residence. They can also apply through the Skilled Migrant Category (SMC) 6-point system, requiring qualifications and IELTS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Metallurgist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metallurgists in New Zealand?**
-答：Entry-level metallurgists earn between NZ$55,000 and NZ$75,000, mid-level NZ$75,000 to NZ$100,000, and senior roles up to NZ$140,000. Salary varies by experience and industry.
-
-**问：How can a metallurgist immigrate to New Zealand?**
-答：Metallurgists are on the Green List Tier 1, eligible for Straight to Residence. They can also apply under the Skilled Migrant Category (6-point system), requiring relevant qualification and IELTS.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Librarian（Librarian）职业分析 · ES
+# Librarian — career analysis · Spain
 
-**职业代码：2912 – Librarian。**
+**Occupation code: 2912 (CNO)**
 
-Manage library and archive services, including cataloging, reference assistance, digital resource management, and cultural programming.
+Responsible for document management, information services, and knowledge organization for libraries, archives, and other institutions, including classified cataloging, reference consulting, digital resource management, and cultural activity planning.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学年均学费约1000-3000欧元） |
-| 硕士（Máster） | 1年（Máster） | $1,500~$5,000（硕士课程费用较高，特别是私立大学） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$1,500（公立FP年均学费可忽略，约500-1500欧元材料费） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (The average annual tuition at public universities is about 1,000–3,000 euros) |
+| Máster | Year 1 (Máster) | $1,500~$5,000 (Master's programs are more expensive, especially at private universities) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$1,500 (The annual tuition for public FPs is negligible, with material fees ranging from about 500 to 1500 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆与文献学学位 | 西班牙大学 | 必备 | Grado en Información y Documentación 或相关领域学位 |
-| 公共图书馆员资格（Oposición） | 西班牙公共行政机构 | 可选 | 通过公务员考试获得公共图书馆长期职位 |
+| Degree in Library and Philology | Spanish University | Required | Grado en Información y Documentación or a related field degree |
+| Public Librarian Qualification (Oposición) | Spanish public administration | Optional | Obtain a long-term position in a public library through the civil service exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：温和（★★½☆☆）。** 全国从业人数约 35,000。西班牙数字化转型推动图书馆服务向电子资源与数字档案延伸，但公共部门岗位竞争激烈。文化机构与高校图书馆岗位稳定，需求温和增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Spain's digital transformation is driving library services to extend into electronic resources and digital archives, but competition for public sector positions remains fierce. Positions in cultural institutions and university libraries are stable, with demand growing moderately.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，公立与私营机构差异不大 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，有经验后可达30k以上 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，包括馆长或高级管理岗位 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salaries differ little between public and private institutions |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, with experience reaching over 30k |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including curator or senior management positions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但有限（★★☆☆☆）。** 可从助理馆员晋升为部门主管、馆长或档案管理员。考取公共图书馆员资格（oposiciones）可获得稳定公务员职位。也可转向数据管理、信息咨询或文化遗产领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Assistant librarians can be promoted to department head, librarian, or archivist. Obtaining the public librarian qualification (oposiciones) can lead to stable civil service positions. It can also be turned into data management, information consulting, or cultural heritage fields.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Digital Archives
 - Information Management
@@ -64,68 +100,67 @@ Manage library and archive services, including cataloging, reference assistance,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（High-Skilled Professional (Ley 14/2013)） | 适用于高学历、高技能专业人士，需工作合同且薪资达一定门槛 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保且证明岗位无法由本地人填补 |
+| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Suitable for highly educated and highly skilled professionals who require a work contract and meet a certain salary threshold |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residence requires employer sponsorship and proof that the position cannot be filled by a local resident |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Librarian？**
-- 热爱阅读与组织信息的人
-- 注重细节、擅长分类检索的人
-- 愿意服务社区、耐心沟通的人
-
-**谁不适合学Librarian？**
-- 追求高薪与快速晋升的人
-- 不喜欢稳定、重复性工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love reading and organizing information
+- Detail-oriented individuals skilled in categorized searches
+- People willing to serve the community and communicate patiently
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike stable, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for librarians in Spain?**
+A: Entry-level salaries are about 22-28k euros before tax, while seniors can reach 35-45k. There is little difference between public and private institutions, and the room for promotion is limited.
+
+**Q: How can non-EU individuals immigrate to become Spanish librarians?**
+A: You must obtain a Spanish university degree (or diploma certification homologación) and apply for a work permit sponsored by an employer. Competition is fierce through the High-Skilled Professional visa (Ley 14/2013) or ordinary work residence.
+
+**Q: What degree is required to become a librarian?**
+A: Typically requires a bachelor's degree in library and information science (Grado), or advanced vocational training (FP Grado Superior) followed by experience. Public positions often require passing oposiciones.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中上（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 温和（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定但有限（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Librarian为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a librarian in Spain?**
-答：Entry-level: €22-28k gross annual, senior: €35-45k. Public and private sectors similar, limited promotion.
-
-**问：How can non-EU nationals migrate as a librarian in Spain?**
-答：Require homologated degree and employer sponsorship via high-skilled visa or standard work permit, competitive.
-
-**问：What degree do I need to become a librarian?**
-答：Typically a Bachelor in Information Science (Grado) or higher vocational training. Public positions require competitive exams.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

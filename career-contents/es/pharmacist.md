@@ -1,61 +1,97 @@
-# Pharmacist（Pharmacist）职业分析 · ES
+# Pharmacist — career analysis · Spain
 
-**职业代码：2140 – Pharmacist。**
+**Occupation code: 2140 (CNO)**
 
-Pharmacists dispense medications, provide patient counseling on drug use, and manage pharmaceutical care in pharmacies, hospitals, or the pharmaceutical industry.
+Pharmacists are responsible for dispensing medications, patient medication consultation, and medication management. Working in pharmacies, hospitals, or the pharmaceutical industry requires a university degree and official certification.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 5年（Grado en Farmacia） | $800~$2,000（公立大学学费区间） |
-| 硕士 | 1-2年（Máster） | $1,500~$4,000（专业方向如临床药学或药物工业） |
+| Bachelor's degree | 5 years (Grado en Farmacia) | $800~$2,000 (Public university tuition range) |
+| Master's degree | 1-2 years (Máster) | $1,500~$4,000 (Specializations include clinical pharmacy or pharmaceutical industry) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药学学位 | 西班牙大学 | 必备 | Grado en Farmacia，5年制，需通过学历认证homologación |
-| 官方药剂师认证 | 西班牙卫生部及药学会 | 必备 | 需注册为colegiado，外国学历需homologación |
-| 硕士（可选） | 大学 | 可选 | 临床药学或制药工业方向，非强制但有利 |
+| Pharmacy degree | Spanish University | Required | Grado en Farmacia, 5-year program, requires homologación certification of academic credentials |
+| Official pharmacist certification | Spanish Ministry of Health and Pharmaceutical Association | Required | Registration as a colegiado is required; foreign degrees require homologación |
+| Master's degree (optional) | University | Optional | Clinical pharmacy or pharmaceutical industry directions, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 75,000。西班牙老龄化推动药剂师需求稳定，社区药房就业机会多。数字化和个性化药物服务带来新增长点。竞争适中，薪酬水平中等偏上。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 75,000. Spain's aging population is driving stable demand for pharmacists and increasing employment opportunities in community pharmacies. Digital and personalized medicine services are bringing new growth points. Competition is moderate, and salary levels are above average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 社区药房或医院初级职位 |
-| 中级（4-10年） | $32,000~$45,000 | 资深药剂师或药房经理 |
-| 高级（10年以上） | $45,000~$60,000 | 制药工业或医院高层管理 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Entry-level positions in community pharmacies or hospitals |
+| Mid-level (4-10 years). | $32,000~$45,000 | Senior pharmacists or pharmacy managers |
+| Senior (10+ years) | $45,000~$60,000 | Senior management in the pharmaceutical industry or hospitals |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从社区药房起逐步升至药房经理；或在医院担任临床药剂师，参与多学科团队；也可进入制药研发或监管领域。继续深造（如Máster）可提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pharmacists face the risk of automation, but clinical judgment and patient communication are hard to replace; AI can improve efficiency but requires adapting to new tools, with overall risks and opportunities coexisting.
+
+Starting from a community pharmacy, you can gradually rise to pharmacy manager; or serve as a clinical pharmacist in hospitals, participating in multidisciplinary teams; It can also enter pharmaceutical research and development or regulatory fields. Further studies (such as Máster) can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Drug distribution and inventory management
+- Routine medication consultation (such as drug interaction testing)
+- Prescription review and insurance reimbursement
+- Drug dosage calculation and label printing
+- Preparation of repetitive drugs (such as pre-packaging)
+
+**Where AI augments the role:**
+
+- AI-based drug interaction and adverse reaction early warning
+- Personalized medication plan recommendations (combined with genomic data)
+- Remote medication guidance and patient follow-up
+- Pharmacoepidemiological research driven by big data
+- AI-assisted clinical decision support
+
+**Human moat:**
+
+- Complex clinical judgments (such as medication adjustments for multiple diseases)
+- Patient trust and communication (such as explaining medication regimens)
+- Ethics and Legal Responsibility (Final Prescription Signature Rights)
+- Interdisciplinary collaboration (communication with doctors and nurses)
+- Management of medication for rare diseases or special populations
+
+**Skills to build:**
+
+- Clinical pharmacokinetics and precision medicine knowledge
+- AI tool applications (such as clinical decision support systems)
+- Data interpretation and health information technology
+- Telemedicine and patient communication skills
+- Pharmacoeconomics and evidence-based pharmacy
+- Ethics and regulatory knowledge
+
+**Key growth areas:**
 
 - Aging population
 - Pharmaceutical care
@@ -64,66 +100,65 @@ Pharmacists dispense medications, provide patient counseling on drug use, and ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高技能药剂师，需工作合同、学历认证及最低薪资门槛（约33,908欧元/年）。 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 常规受雇工作居留，需公司担保，学历需认证。药剂师为受规管职业，homologación必要。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高管或高技能人才，需较高薪资（约56,514欧元/年）及合同。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled pharmacists, requiring a work contract, academic credentials, and a minimum salary threshold (approximately 33,908 euros/year). |
+| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment residence requires company sponsorship, and academic credentials must be certified. Pharmacists are regulated professions and homologation is essential. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For executives or highly skilled talent, higher salaries (about €56,514/year) and contracts are required. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacist？**
-- 对药物学有浓厚兴趣者
-- 注重细节且具沟通能力者
-- 希望在医疗健康领域长期发展者
-
-**谁不适合学Pharmacist？**
-- 不擅长化学和生物学基础者
-- 厌恶持续学习和更新知识者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in pharmacology
+- Detail-oriented and strong communication skills
+- Those hoping to develop long-term careers in the healthcare field
+
+**Who is not suited**
+- Those who are not proficient in chemistry and biology
+- Dislikes those who continuously learn and update their knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pharmacists?**
+A: Junior pharmacists earn an annual salary of about 24,000-32,000 euros, while senior pharmacists can earn over 45,000 euros. Salaries in the pharmaceutical industry and hospitals are relatively high.
+
+**Q: How can foreign pharmacists work in Spain?**
+A: Must complete credential evaluation (homologación) and register with the pharmacy council. Can apply for Tarjeta azul UE or Cuenta ajena visa, requiring a work contract.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pharmacist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pharmacists?**
-答：Entry-level pharmacists earn around €24,000-32,000 annually, while experienced ones can exceed €45,000. Higher salaries are in the pharmaceutical industry or hospitals.
-
-**问：How can a foreign pharmacist work in Spain?**
-答：You must complete homologación (degree validation) and register with the pharmaceutical board. Apply for an EU Blue Card or work permit with a job offer.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

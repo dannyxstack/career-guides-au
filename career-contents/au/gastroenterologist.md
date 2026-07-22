@@ -1,59 +1,93 @@
-# Gastroenterologist（Gastroenterologist）职业分析 · 澳大利亚
+# Gastroenterologist — career analysis · Australia
 
-**职业代码：253316 – Gastroenterologist。**
+**Occupation code: 253316 (ANZSCO)**
 
-Gastroenterologists are specialist physicians diagnosing and treating digestive system disorders, including esophagus, stomach, intestines, liver, gallbladder, and pancreas. They perform endoscopic procedures and develop treatment plans.
+Gastroenterologists are doctors specializing in diagnosing and treating digestive system diseases, including those of the esophagus, stomach, intestines, liver, gallbladder, and pancreas. They perform diagnostic procedures like endoscopy and develop treatment plans.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 医学本科学位 | 5-6年 | $300,000~$400,000（不同大学学费差异大，本地理生可能较低） |
-| 专科培训（胃肠病学） | 3年 | $50,000~$80,000（培训期间收入较低，需支付考试和注册费） |
+| Bachelor's degree in medicine | 5-6 years. | $300,000~$400,000 (Tuition fees vary significantly among universities; local students may have lower costs) |
+| Specialist training (gastroenterology) | 3 years | $50,000~$80,000 (Income is low during training, and exam and registration fees need to be paid.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（如MBBS或MD） | 澳大利亚医学委员会认可的大学 | 必备 | 必须完成并通过AMC考试或认证 |
-| 澳大利亚皇家内科医师学会（RACP）专科医师资格 | RACP | 必备 | 通过胃肠病学高级培训并考试 |
-| 澳大利亚健康从业者监管局（AHPRA）注册 | AHPRA | 必备 | 获得医学注册和专科注册 |
+| Medical degree (e.g., MBBS or MD) | Universities accredited by the Australian Medical Council. | Required | must complete and pass the AMC exam or certification |
+| Royal Australasian College of Physicians (RACP) Specialist qualification | RACP | Required | Completed advanced training in gastroenterology and passed the exam |
+| Australian Health Practitioner Regulation Agency (AHPRA) registration | AHPRA | Required | Obtaining medical registration and specialist registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。澳洲胃肠病学家需求稳定，随着人口老龄化和消化疾病发病率上升，就业前景良好。特别是在偏远地区，专科医生严重短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. Demand for gastroenterologists in Australia is stable, with good employment prospects due to an aging population and rising incidence of digestive diseases. There is a severe shortage of specialists, especially in remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（培训中/住院医师） | $85,000~$120,000 | 培训期间基本工资 |
-| 中级（专科培训后3-5年） | $200,000~$350,000 | 公共医院或混合执业 |
-| 高级（资深顾问/私立执业） | $350,000~$600,000 | 私立执业收入更高 |
+| Median salary | $188,240 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior (in training/resident) | $85,000~$120,000 | Basic salary during training |
+| Intermediate (3-5 years after specialist training) | $200,000~$350,000 | Public hospital or mixed practice |
+| Senior (senior consultant/private practice) | $350,000~$600,000 | Higher income in private practice |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★½）。** 通常从内科住院医师培训开始，然后完成胃肠病学专科培训（约3年）。可晋升为科室主任、学术教授或在私立医院领导团队。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on gastroenterologists is 'mixed': tasks such as report writing and image analysis can be automated, but endoscopy, complex diagnosis, and patient communication rely on human judgment and are hard to replace in the short term.
+
+Typically starts with internal medicine residency training, then completes gastroenterology specialty training (about 3 years). Can advance to department head, academic professor, or lead a team in private hospitals.
+
+**Tasks most exposed to AI:**
+
+- Preliminary analysis of endoscopy images and pathology reports (AI automatically identifies abnormalities and generates drafts)
+- Patient medical summaries and data entry (NLP auto-extraction of key information)
+- Automated notifications for standard follow-up appointments and test results (handled by chatbots)
+- Rapid updates of literature searches and clinical guidelines (AI automatically pushes latest evidence)
+
+**Where AI augments the role:**
+
+- Real-time image enhancement during endoscopy to assist in detecting small lesions (AI marks suspicious areas)
+- Complex case diagnostic decision support (AI provides differential diagnosis recommendations based on big data).
+- Personalized generation of patient education materials (AI provides dietary advice based on condition)
+- Real-time translation and medical record sharing in teleconsultation (AI-assisted cross-language communication)
+- Predictive models for treatment outcomes, optimizing personalized treatment plans
+
+**Human moat:**
+
+- Personally perform high-precision invasive procedures such as endoscopy and colonoscopy
+- Clinical judgment to handle patient individual differences and complex complications
+- Build doctor-patient trust and empathetic communication, explain bad news.
+- Decision-making responsibilities as a digestive system specialist in multidisciplinary collaboration
+
+**Skills to build:**
+
+- Proficiency in operating and interpreting AI-assisted diagnostic tools (e.g., EndoBrain, GI Genius)
+- Learn medical image analysis and AI model fundamentals; able to understand algorithm limitations
+- Improve communication and leadership skills to coordinate AI-supported multidisciplinary teams
+- Proficient in using Electronic Health Records (EHR) and AI data integration platforms.
+- Participates in the design and evaluation of clinical AI tools, including ethics and safety training.
+- Study AI features of telemedicine platforms to expand patient coverage
+
+**Key growth areas:**
 
 - aging population
 - chronic disease management
@@ -62,68 +96,67 @@ Gastroenterologists are specialist physicians diagnosing and treating digestive 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 如果胃肠病学家在MLTSSL上，可通过189签证独立技术移民，无需雇主担保。 |
-| Subclass 482（Skills in Demand Visa） | 由澳大利亚医院或诊所雇主担保，从事专科医生工作。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久居留，适用于有3年全职工作经验的申请人。 |
+| Subclass 189 (Skilled Independent Visa) | If the gastroenterologist is on the MLTSSL, they can immigrate independently via the 189 visa without employer sponsorship. |
+| Subclass 482 (Skills in Demand Visa) | Sponsored by an Australian hospital or clinic employer to work as a specialist doctor. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, applicable to applicants with 3 years of full-time work experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gastroenterologist？**
-- 对消化系统疾病有浓厚兴趣且学术成绩优异的医学毕业生
-- 愿意投入至少8-10年长期培训的高自律性人才
-- 具备耐心和良好沟通能力的医疗从业者
-
-**谁不适合学Gastroenterologist？**
-- 不能承受长时间高压培训和频繁夜班的人
-- 希望快速进入高收入阶段而不愿经历漫长培训的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical graduates with strong interest in digestive system diseases and excellent academic performance
+- High self-discipline talent willing to commit to at least 8-10 years of long-term training
+- Healthcare practitioners with patience and good communication skills
+
+**Who is not suited**
+- Those unable to endure long periods of high-intensity training and frequent night shifts
+- Those hoping to quickly reach high income without long training
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Gastroenterologist in Australia?**
+A: Depending on experience, annual salary ranges from AUD 200,000 (mid-level) to over AUD 600,000 (senior private practice). During training, earnings are lower, around AUD 85,000-120,000.
+
+**Q: How can overseas gastroenterologists immigrate to Australia?**
+A: Typically requires passing the AMC exam and obtaining RACP specialist certification, then applying for a 189 Skilled Independent visa or a 482 Employer-Sponsored visa. Some states also offer 190 State-Nominated visas.
+
+**Q: How long does gastroenterology training take?**
+A: Starting from medical bachelor's, typically about 5-6 years undergraduate, 3 years residency, 3 years gastroenterology specialization, totaling about 11-12 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 极好（★★★★½） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Gastroenterologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a gastroenterologist in Australia?**
-答：Annual salary ranges from AUD 200,000 for mid-level to over AUD 600,000 for senior private practice. During training, income is around AUD 85,000-120,000.
-
-**问：How can overseas gastroenterologists immigrate to Australia?**
-答：Typically, they must pass AMC exams and obtain RACP fellowship, then apply for 189 visa or 482 employer-sponsored visa. Some states offer 190 nomination.
-
-**问：How long does gastroenterology training take?**
-答：After medical school (5-6 years), requires 3 years of residency and 3 years of advanced training in gastroenterology, totaling approximately 11-12 years.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

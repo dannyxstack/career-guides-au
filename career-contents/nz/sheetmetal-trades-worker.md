@@ -1,59 +1,95 @@
-# Sheetmetal Trades Worker（Sheetmetal Trades Worker）职业分析 · 新西兰
+# Sheetmetal Trades Worker — career analysis · New Zealand
 
-**职业代码：322211 – Sheetmetal Trades Worker。**
+**Occupation code: 322211 (ANZSCO)**
 
-Sheetmetal trades workers cut, shape, and install sheet metal products for building ventilation, industrial equipment, and mining facilities. This occupation is on New Zealand's long-term skill shortage list, offering direct residence via Green List Tier 1 or Skilled Migrant Category.
+Sheet metal workers in New Zealand mainly cut, shape, and install sheet metal products for building ventilation, industrial equipment, and mining facilities. This occupation is currently on New Zealand's long-term skill shortage list, eligible for direct residence via Green List or Skilled Migrant Category, with good employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰学历认证（NZQA）4级证书 | 4年 | $6,000~$12,000（学徒期间部分补贴） |
-| 新西兰钣金工学徒制 | 4年 | —（雇主可能承担部分费用） |
+| New Zealand Qualifications Authority (NZQA) Level 4 certificate | 4 years | $6,000~$12,000 (Partial subsidies during apprenticeship) |
+| New Zealand sheet metal worker apprenticeship | 4 years | $0~$2,000 (Employers may cover some costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰钣金工国家证书（4级） | 新西兰技能组织（Skills Org） | 必备 | 必须持有才能合法执业 |
-| 新西兰建筑工地安全卡（Site Safe） | Site Safe | 必备 | 许多雇主强制要求 |
-| 新西兰驾照（1类） | 新西兰交通局（NZTA） | 必备 | 去工地必需 |
+| New Zealand National Certificate in Metal Forming (Level 4) | Skills Org | Required | Must hold to legally practice |
+| Site Safe card for New Zealand construction sites | Site Safe | Required | Many employers mandate it |
+| New Zealand driver license (Class 1) | New Zealand Transport Agency (NZTA) | Required | Required for construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰建筑业和制造业持续增长，钣金工需求稳定。尤其在奥克兰和基督城等主要城市，HVAC和屋顶安装项目增多。预计未来五年就业机会将稳步增加，薪资随经验上升。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's construction and manufacturing sectors continue to grow, with stable demand for sheet metal workers. Especially in major cities like Auckland and Christchurch, HVAC and roofing installation projects are increasing. Job opportunities are expected to steadily increase over the next five years, with wages rising with experience.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-28纽币 |
-| 中级（3-7年） | $55,000~$70,000 | 时薪约28-35纽币 |
-| 高级（7年以上） | $70,000~$90,000 | 时薪可达35-45纽币 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage about NZD 23-28 |
+| Mid-level (3–7 years) | $55,000~$70,000 | Hourly rate approximately NZ$28-35 |
+| Senior (7+ years) | $70,000~$90,000 | Hourly rate up to 35-45 NZD |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级钣金工通常从学徒开始，4年后可成为熟练工。积累经验后可晋升为领班或项目主管，也可选择自雇或成立小型钣金公司。持证后还可向设计或评估方向转型。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
+
+Junior sheet metal workers usually start as apprentices and become skilled after 4 years. With experience, they can advance to foreman or project supervisor, or choose self-employment or start a small sheet metal company. After certification, they may also transition to design or evaluation roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic nesting and CNC cutting of metal sheets
+- Simple defect identification and classification through AI visual inspection
+- Repeated bending and punching in bulk forming of standard ventilation ducts
+- Automatic unfolding and blanking calculation based on 3D models
+- AI-driven automatic inventory counting and replenishment in warehouses
+
+**Where AI augments the role:**
+
+- AI-assisted unfolding and forming process optimization for complex geometric shapes
+- AR glasses project installation guides to improve on-site positioning and assembly accuracy
+- AI load calculation optimizes material utilization and reduces waste
+- Digital twin simulation of sheet metal part stress performance in assemblies
+- AI-Driven Robots Collaborate on Repetitive Welding and Handling
+
+**Human moat:**
+
+- On-site measurement and manual finishing of non-standard, irregular metal parts
+- Installation and sealing of ventilation ducts and roofs in confined spaces or at heights
+- Experienced judgment of hidden defects such as metal fatigue and weld quality
+- Ability to communicate on-site with clients and designers and adjust plans
+- Safety assurance: handling hazardous environments like heat, sharp edges, toxic coatings
+
+**Skills to build:**
+
+- Learn CAD/CAM software (e.g., SolidWorks, AutoCAD Inventor)
+- Master CNC punching and laser cutting machine programming and operation
+- Understanding collaborative programming of industrial robots with sheet metal bending and welding cells
+- Apply digital measurement tools (e.g., 3D scanners) for reverse engineering
+- Basic data analysis skills to optimise material layout and process parameters
+- Learning connection techniques for lightweight materials (aluminum-magnesium alloys, composites)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Sheetmetal trades workers cut, shape, and install sheet metal products for build
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证：满足薪资中位数（约29.66纽币/时）及职业要求，可立即申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别：通过6分制打分（学历+工作经验），需时薪达中位数。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签：适合先持工签工作，后期转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct Residence Visa: Meeting the median wage (about NZD 29.66/hour) and occupation requirements allows immediate residence application. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category: through a 6-point system (qualifications + work experience), requiring hourly wage at the median. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: suitable for working first on a work visa, then transitioning to residence. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sheetmetal Trades Worker？**
-- 动手能力强，喜欢制作金属制品的人
-- 愿意从事体力劳动并适应户外或车间环境
-- 希望移民新西兰且职业在短缺清单上的人
-
-**谁不适合学Sheetmetal Trades Worker？**
-- 对金属粉尘或噪音敏感的人
-- 寻求高薪且不想做体力工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy making metal products
+- Willing to perform physical labor and adapt to outdoor or workshop environments
+- People who wish to immigrate to New Zealand and whose occupation is on the shortage list
+
+**Who is not suited**
+- People sensitive to metal dust or noise
+- Those seeking high pay and no desire for physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for a New Zealand sheet metal worker?**
+A: Junior approx. NZD 45,000-55,000, intermediate NZD 55,000-70,000, senior NZD 70,000-90,000. More with experience or certification.
+
+**Q: How can sheet metal workers immigrate to New Zealand?**
+A: Through Green List direct residence pathway (requires median wage and accredited employer job offer) or Skilled Migrant Category 6-point system.
+
+**Q: What qualifications are needed to become a sheet metal worker in New Zealand?**
+A: Typically requires completing a 4-year apprenticeship and obtaining a New Zealand National Certificate (Level 4), or equivalent overseas qualification assessed by NZQA.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Sheetmetal Trades Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sheetmetal trades workers in New Zealand?**
-答：Entry-level NZD 45,000–55,000, mid-level NZD 55,000–70,000, senior NZD 70,000–90,000 per year.
-
-**问：How can sheetmetal trades workers migrate to New Zealand?**
-答：Via Green List Tier 1 Straight to Residence (meet median wage and have job offer from accredited employer) or Skilled Migrant Category (6-point system).
-
-**问：What qualification is needed for sheetmetal trades workers in New Zealand?**
-答：Usually a 4-year apprenticeship with the New Zealand Certificate in Engineering Fabrication (Level 4), or equivalent overseas qualification assessed by NZQA.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

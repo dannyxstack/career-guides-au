@@ -1,60 +1,96 @@
-# Kitchen Helper（Kitchen Helper）职业分析 · IT
+# Kitchen Helper — career analysis · Italy
 
-**职业代码：9412 – Kitchen Helper。**
+**Occupation code: 9412 (ISCO08)**
 
-Kitchen helpers assist with food preparation, dishwashing, and kitchen cleaning, serving as entry-level support in the food service industry.
+Kitchen hands are primarily responsible for food preparation, dishwashing, and kitchen cleaning, serving as a basic support role in the catering industry
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无要求 | 无 | —（无需正规教育，在职培训即可） |
-| 职业培训 | 6个月至1年 | $1,000~$3,000（公立或私立烹饪学校短期课程） |
+| No requirements | None | $0~$0 (No formal education required; on-the-job training suffices) |
+| Vocational training | 6 months to 1 year | $1,000~$3,000 (Short-term courses at public or private cooking schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 地方卫生局 | 必备 | 必须参加基础食品安全培训 |
-| 烹饪基础证书 | 职业培训机构 | 可选 | 可选，有助于晋升 |
+| Food hygiene certificate | Local Health District | Required | Must attend basic food safety training |
+| Certificate in Basic Cookery | Vocational training institutions | Optional | Optional, helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。意大利餐饮业持续复苏，对厨房帮工需求稳定，尤其旅游旺季和城市地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. The Italian restaurant industry continues to recover, with stable demand for kitchen hands, especially during tourist seasons and in urban areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 税前年薪，通常低于全国平均水平 |
-| 中级（3-6年） | $18,000~$22,000 | 有经验者，旺季加班可更高 |
-| 高级（6年以上） | $22,000~$26,000 | 主管级厨房帮工或厨师助理 |
+| Median salary | $20,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$18,000 | Annual pre-tax salary, typically below the national average |
+| Mid-level (3–6 years) | $18,000~$22,000 | Experienced workers may earn more with overtime during peak seasons |
+| Senior (6+ years) | $22,000~$26,000 | Supervisory kitchen hand or cook's assistant |
+| average salary | $20,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从厨房帮工晋升为厨师助理或专业厨师，需积累经验和参加职业培训。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Due to the spread of automated cooking and cleaning equipment, entry-level kitchen hand jobs are decreasing, but high-skilled cooking and customer experience positions are less affected.
+
+Can advance from kitchen hand to assistant chef or professional chef, requiring experience and vocational training.
+
+**Tasks most exposed to AI:**
+
+- Weigh ingredients according to recipe
+- Manual dishwashing
+- Scrub kitchen surfaces
+- Cutting standard vegetables
+- Transporting ingredient inventory
+
+**Where AI augments the role:**
+
+- use automatic vegetable cutters to improve efficiency
+- Uses intelligent inventory system to manage ingredients
+- Learn new dishes through digital recipes.
+- Operating automated dishwashing line
+- Using cleaning robots to maintain floor hygiene
+
+**Human moat:**
+
+- Adaptability in emergency situations
+- Sensory assessment of ingredient quality
+- Collaboration with chefs and waitstaff.
+- Personal responsibility for hygiene checks
+- Flexibility for non-standard tasks
+
+**Skills to build:**
+
+- Basic automated equipment operation and maintenance
+- Digital inventory management
+- Food safety and hygiene monitoring system
+- Basic cooking skills
+- Multitasking coordination ability
+- English communication (tourism and hospitality)
+
+**Key growth areas:**
 
 - tourism-driven
 - hospitality recovery
@@ -63,69 +99,68 @@ Kitchen helpers assist with food preparation, dishwashing, and kitchen cleaning,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟季节性工人，每年限额，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用于低技能岗位，仅面向高技能人才。 |
-| Subclass 自由流动（Freedom of Movement） | 欧盟公民可在意大利自由工作和居住，无需签证。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers, annual cap applies, requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable for low-skilled positions; only for high-skilled talent. |
+| Subclass Free Movement (Freedom of Movement) | EU citizens can work and live in Italy freely without a visa. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Kitchen Helper？**
-- 初入职场或转行者
-- 喜欢厨房工作但不愿长期学习烹饪者
-- 寻求季节性就业者
-
-**谁不适合学Kitchen Helper？**
-- 对体力要求高、站立时间长不适应者
-- 期望高薪和职业晋升较快者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Entry-level or career changers
+- People who like kitchen work but are unwilling to undergo long-term culinary studies
+- Seeking seasonal employment
+
+**Who is not suited**
+- Not suitable for those who cannot tolerate high physical demands and long periods of standing.
+- Those seeking high salary and fast career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a kitchen hand in Italy?**
+A: Annual salary around €15,000-18,000, rising to €22,000 with experience.
+
+**Q: How can non-EU citizens immigrate to Italy as a kitchen hand?**
+A: Primarily via Decreto Flussi quota work visa, requires employer sponsorship, limited annual spots, highly competitive.
+
+**Q: Are there promotion opportunities for kitchen assistants?**
+A: Can be promoted to chef assistant or professional chef; requires accumulating experience and attending training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Kitchen Helper为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for kitchen helpers in Italy?**
-答：Annual salary ranges from €15,000 to €18,000, up to €22,000 with experience.
-
-**问：How can non-EU citizens immigrate to Italy as kitchen helpers?**
-答：Mainly through the Decreto Flussi work visa, requiring employer sponsorship with annual quotas.
-
-**问：Are there career advancement opportunities for kitchen helpers?**
-答：Yes, can advance to chef assistant or chef with experience and training.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

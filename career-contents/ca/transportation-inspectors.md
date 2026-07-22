@@ -1,59 +1,93 @@
-# Transportation inspectors（Transportation inspectors）职业分析 · 加拿大
+# Transportation inspectors — career analysis · Canada
 
-**职业代码：22224 – Transportation inspectors。**
+**Occupation code: 22224 (NOC)**
 
-Transportation inspectors oversee public transit and freight operations, ensuring compliance with safety regulations and standards, auditing driver qualifications, vehicle condition, and trip records, and investigating incidents. This NOC 22224 role is eligible for skilled migration.
+Transportation inspectors oversee public transit and freight operations, ensuring compliance with safety regulations and operational standards, reviewing driver qualifications, vehicle condition, and trip records, and investigating accidents. This occupation falls under Canadian NOC 22224 and is eligible for skilled immigration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专或大学文凭 | 2-4年 | $15,000~$60,000（学费因院校和省份而异） |
-| 职业培训证书 | 1-2年 | $5,000~$20,000（运输相关的技术培训） |
+| Diploma or university degree | 2-4 years | $15,000~$60,000 (Tuition fees vary by institution and province) |
+| Vocational training certificate | 1-2 years | $5,000~$20,000 (Transport-related technical training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 如有海外学历需认证 |
-| 语言测试 | IELTS/CELPIP | 必备 | CLB 7以上 |
-| 省牌照 | 省交通部门 | 可选 | 部分省份要求额外的运营牌照 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Overseas qualifications may need to be recognized |
+| Language test | IELTS/CELPIP | Required | CLB 7 or above |
+| Provincial license | Provincial transport department | Optional | Some provinces require additional operating licenses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 7,500。加拿大运输行业需求稳定，特别是随着供应链发展和安全法规加强，预计2023-2031年将有一定职位空缺。就业前景良好，主要集中在交通枢纽城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 7,500. Demand in Canada's transportation industry is stable, especially with supply chain development and enhanced safety regulations, and certain job vacancies are expected in 2023-2031. Employment prospects are good, mainly in transportation hub cities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 入门级薪资 |
-| 中级（3-7年） | $55,000~$75,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $75,000~$95,000 | 高级检查员或管理岗位 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level salary |
+| Mid-level (3–7 years) | $55,000~$75,000 | Salary increases with experience |
+| Senior (7+ years) | $75,000~$95,000 | Senior inspector or management roles |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径包括从初级检查员到高级检查员，再到管理岗如运营主管或安全经理。部分人员可转至政策制定或培训岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Part of transport inspector work is automated by AI (e.g., data auditing), but on-site inspections, accident investigations etc. rely on human judgment and communication, so risks and opportunities coexist.
+
+Career progression includes moving from junior inspector to senior inspector, and then to management roles such as operations supervisor or safety manager. Some may transition to policy development or training positions.
+
+**Tasks most exposed to AI:**
+
+- Automated logbook and driving record audit
+- Automatic generation and comparison of vehicle safety inspection reports
+- Automatic verification of driver qualification documents
+- Compliance monitoring and anomaly alerts for transport data
+
+**Where AI augments the role:**
+
+- Using AI to analyze vehicle inspection images and sensor data to assist in judgment
+- AI prediction models help identify high-risk drivers or routes
+- Quickly retrieve regulations and cases via natural language processing
+- Smart scheduling systems optimize inspection plans
+- AI-driven training simulators used for emergency drills
+
+**Human moat:**
+
+- Judgment of non-standard defects during on-site physical inspection
+- Interpersonal communication and comprehensive evidence analysis in accident investigations
+- Negotiate with drivers and operators, and exercise enforcement discretion
+- Understanding the context and intent of complex regulations
+- Make quick safety decisions in emergencies
+
+**Skills to build:**
+
+- Data analysis and AI tool application (e.g., Python, Tableau)
+- Transportation Management System (TMS) operation
+- Regulation interpretation and compliance assessment
+- Communication and conflict resolution skills
+- Basic knowledge of image recognition and sensors
+- Basic knowledge of supply chain and logistics
+
+**Key growth areas:**
 
 - Supply Chain
 - Safety Compliance
@@ -62,65 +96,64 @@ Transportation inspectors oversee public transit and freight operations, ensurin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 满足CRS评分要求，通过联邦快速通道移民 |
-| Subclass PNP（Provincial Nominee Program） | 通过省提名项目，如安省、BC省等，获得加分 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保移民，适合有雇主 |
+| Subclass EE (Express Entry (FSW/CEC)) | Meet CRS score requirements and immigrate through Federal Express Entry |
+| Subclass PNP (Provincial Nominee Program) | Obtain extra points through provincial nomination programs, such as Ontario, BC, etc. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer-sponsored immigration, suitable for those with employer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Transportation inspectors？**
-- 有运输、物流或安全相关背景的人
-- 注重细节和法规的人
-- 希望在加拿大定居并从事稳定职业的人
-
-**谁不适合学Transportation inspectors？**
-- 不喜欢户外或频繁出差的人
-- 对繁文缛节和文书工作感到不适的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a background in transport, logistics, or security
+- People who pay attention to details and regulations
+- Those who wish to settle in Canada and pursue a stable career
+
+**Who is not suited**
+- People who dislike outdoor work or frequent travel
+- People uncomfortable with red tape and paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of transport inspectors in Canada?**
+A: Entry-level about CAD 40,000-55,000, mid-level CAD 55,000-75,000, senior CAD 75,000-95,000. Varies by province and employer.
+
+**Q: Is this occupation suitable for immigration via Express Entry?**
+A: Yes, it falls under NOC 22224 and generally meets FSW or CEC requirements. Language and education conditions must be met; those with high CRS scores have opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Transportation inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for transportation inspectors in Canada?**
-答：Entry-level around CAD 40k-55k, mid-level CAD 55k-75k, senior CAD 75k-95k. Varies by province and employer.
-
-**问：Is this occupation suitable for Express Entry immigration?**
-答：Yes, it falls under NOC 22224 and typically qualifies for FSW or CEC. Satisfy language, education requirements, and aim for high CRS score.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

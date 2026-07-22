@@ -1,59 +1,94 @@
-# Kinesiologists and other professional occupations in therapy and assessment（Kinesiologists and other professional occupations in therapy and assessment）职业分析 · 加拿大
+# Kinesiologists and other professional occupations in therapy and assessment — career analysis · Canada
 
-**职业代码：31204 – Kinesiologists and other professional occupations in therapy and assessment。**
+**Occupation code: 31204 (NOC)**
 
-Kinesiologists use exercise science and functional assessments to help patients restore or improve physical activity abilities, collaborating with physiotherapists and rehabilitation teams in hospitals, clinics, sports organizations, and community health centers.
+Kinesiologists use exercise science and functional assessment to help patients restore or improve physical activity abilities, often collaborating with physiotherapists and rehabilitation teams in hospitals, clinics, sports organizations, and community health centers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $24,000~$60,000（运动机能学或相关健康科学学士） |
-| 硕士（可选） | 2年 | $15,000~$40,000（用于专攻领域或提升竞争力） |
+| Bachelor's degree | 4 years | $24,000~$60,000 (Bachelor's degree in kinesiology or related health science) |
+| Master's degree (optional) | 2 years | $15,000~$40,000 (For specializing in a field or improving competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大运动机能学联盟（CKA）认证 | Canadian Kinesiology Alliance | 可选 | 许多省份要求或推荐认证 |
-| 省级注册运动机能学家 | 省级监管机构（如BC省CKBC, ON省COKO） | 必备 | 在BC、ON等省执业必须注册 |
-| 急救及心肺复苏证书 | 红十字会或心脏基金会 | 可选 | 大多数雇主要求 |
+| Provincial registered kinesiologist. | Provincial regulatory bodies (e.g., BC: CKBC, ON: COKO) | Required | Mandatory registration to practice in provinces like BC and ON |
+| Certification by the Canadian Kinesiology Alliance (CKA) | Canadian Kinesiology Alliance | Optional | Many provinces require or recommend certification |
+| First Aid and CPR Certificate | Red Cross or Heart Foundation | Optional | Required by most employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。加拿大人口老龄化和健康意识提升推动需求增长，就业前景良好。Job Bank 评为“良好”，未来10年预计新增大量岗位，尤其在不列颠哥伦比亚省和安大略省。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada's aging population and growing health awareness are driving demand growth, with good employment prospects. Job Bank rates it as "good," expecting a significant number of new jobs over the next 10 years, especially in British Columbia and Ontario.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$58,000 | 多就职于诊所或康复中心 |
-| 中级（3-7年） | $58,000~$75,000 | 担任高级治疗师或团队主管 |
-| 高级（7年以上） | $75,000~$95,000 | 私人执业、管理或科研 |
+| Median salary | $66,560 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$58,000 | Mostly employed in clinics or rehabilitation centers |
+| Mid-level (3–7 years) | $58,000~$75,000 | Serve as senior therapist or team lead |
+| Senior (7+ years) | $75,000~$95,000 | Private practice, management, or research |
+| average salary | $68,640 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级运动机能学家可晋升为高级治疗师、团队主管或诊所经理；部分转向科研、教学或开设私人诊所。积累经验后可专攻运动医学、心肺康复或老年健康等领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance the assessment and analysis capabilities of exercise physiologists, but will not replace core functions such as patient interaction and personalized program design.
+
+Entry-level kinesiologists can advance to senior therapist, team lead, or clinic manager; some move into research, teaching, or private practice. With experience, they can specialize in sports medicine, cardiopulmonary rehabilitation, or geriatric health.
+
+**Tasks most exposed to AI:**
+
+- Recording and preliminary analysis of standardized functional assessments (e.g., routine range of motion tests)
+- Entry, organization, and basic report generation of patient health data
+- Repetitive monitoring and tracking of rehabilitation progress (e.g., gait parameter statistics)
+- Database-based simple exercise prescription recommendations (e.g., standardized protocols for common injuries)
+
+**Where AI augments the role:**
+
+- Uses AI for sports biomechanics analysis and real-time feedback (e.g., movement correction).
+- Predict patient recovery trajectories and adjust plans using machine learning models
+- Integrate wearable device data to provide personalized activity suggestions
+- Automatically generate patient education materials with text and images
+- Using natural language processing to quickly retrieve latest rehabilitation research
+
+**Human moat:**
+
+- Intuition and clinical reasoning in face-to-face patient assessment
+- Develop personalized rehabilitation plans that integrate multiple complex factors.
+- Improvised decision-making in emergency or atypical situations.
+- Building trust and emotional support with patients
+- Communication and coordination in interdisciplinary teams
+
+**Skills to build:**
+
+- Data Analysis and Statistics (e.g., Python, R)
+- AI/Machine Learning basics (e.g., classification, regression models)
+- Wearable device and sensor data processing
+- Digital health tools (e.g., electronic medical records, remote rehabilitation platforms)
+- Sports Biomechanics Modeling
+- Programming basics (at least one language)
+
+**Key growth areas:**
 
 - aging population
 - sports medicine
@@ -62,68 +97,67 @@ Kinesiologists use exercise science and functional assessments to help patients 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Federal Skilled Worker / Canadian Experience Class） | 适用于符合联邦技术移民或经验类移民条件的申请人，需取得省级注册或认证。 |
-| Subclass Provincial Nominee P（Provincial Nominee Program） | 许多省份（如BC、ON、AB）将运动机能学家列为优先职业，提供省提名快速通道。 |
-| Subclass LMIA-based Work Perm（Labour Market Impact Assessment） | 雇主可申请LMIA支持工作签证，累积加拿大经验后申请移民。 |
+| Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | Applicable to applicants who meet the conditions for Federal Skilled Worker or Canadian Experience Class, requiring provincial registration or certification. |
+| Subclass Provincial Nominee P (Provincial Nominee Program) | Many provinces (e.g., BC, ON, AB) list kinesiologists as priority occupations, offering fast-track provincial nomination. |
+| Subclass LMIA-based Work Perm (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas; accumulate Canadian experience and then apply for immigration. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Kinesiologists and other professional occupations in therapy and assessment？**
-- 热爱运动科学并乐于帮助他人康复的人
-- 善于沟通和团队合作的健康专业人士
-- 希望在快速增长的医疗健康领域发展的留学生或移民
-
-**谁不适合学Kinesiologists and other professional occupations in therapy and assessment？**
-- 不擅长与人打交道或偏好在实验室独立工作的人
-- 对长时间站立或体力要求高的工作有顾虑的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who love sports science and enjoy helping others recover
+- Health professionals with good communication and teamwork skills
+- Students or migrants seeking to develop in the rapidly growing healthcare sector
+
+**Who is not suited**
+- People who are not good at interacting with others or prefer working independently in a lab
+- People concerned about jobs requiring long periods of standing or high physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a kinesiologist?**
+A: Entry-level salary is about CAD 45,000-58,000, mid-level CAD 58,000-75,000, and senior up to CAD 75,000-95,000. Private practice or management roles pay more, depending on province and experience.
+
+**Q: Is it easy for kinesiologists to immigrate to Canada?**
+A: Relatively friendly. This occupation is in high demand in provinces such as BC and ON, and immigration can be achieved through Express Entry or Provincial Nominee Programs. Provincial registration requirements (e.g., mandatory registration in BC) need to be noted, but the overall pathway is clear.
+
+**Q: What are the career development paths for kinesiologists?**
+A: Can specialize in sports medicine, cardiac rehabilitation, geriatric health, etc.; or progress to management roles, open private clinics; or shift to research, education, or corporate health consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Kinesiologists and other professional occupations in therapy and assessment的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for kinesiologists?**
-答：Entry-level salary ranges from CAD 45,000 to 58,000, mid-level from 58,000 to 75,000, and senior from 75,000 to 95,000. Private practice or management roles can earn more, depending on province and experience.
-
-**问：Is it easy for kinesiologists to immigrate to Canada?**
-答：It is relatively friendly. The occupation is in high demand in provinces like BC and ON, allowing immigration via Express Entry or PNP. Provincial registration (e.g., mandatory in BC) is required, but the pathway is clear.
-
-**问：What career development directions are available for kinesiologists?**
-答：They can specialize in sports medicine, cardiac rehabilitation, geriatric health, etc.; advance to management or open a private practice; or move into research, education, or corporate wellness consulting.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

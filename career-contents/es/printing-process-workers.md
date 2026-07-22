@@ -1,60 +1,94 @@
-# Printing Process Workers（Printing Process Workers）职业分析 · ES
+# Printing Process Workers — career analysis · Spain
 
-**职业代码：7622 – Printing Process Workers。**
+**Occupation code: 7622 (CNO)**
 
-Operate printing presses, binding machines, and finishing equipment for offset, flexography, gravure, and screen printing, including inking, color calibration, cutting, and packaging.
+Operate printing machines, binding equipment, and post-press processing machinery, including offset, flexo, gravure, and screen printing, responsible for inking, color correction, cutting, and packaging.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio（中等职业培训） | 2年 | —（公立学校免费或少量注册费） |
-| FP Grado Superior（高等职业培训） | 2年 | —（公立免费或低费用） |
+| FP Grado Medio (Secondary Vocational Training) | 2 years | $0~$1,000 (Public schools offer free or a small registration fee) |
+| FP Grado Superior (Higher Vocational Training) | 2 years | $0~$2,000 (Public schools are free or low-cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业培训文凭（Técnico en Impresión Gráfica） | 教育部承认的公立或私立职业中心 | 必备 | 完成FP Grado Medio，包含实习 |
-| 高等职业培训文凭（Técnico Superior en Producción en Industrias de Artes Gráficas） | 教育部承认的职业中心 | 可选 | 高级操作与管理职位优先 |
+| Diploma in Secondary Vocational Training (Técnico en Impresión Gráfica) | Public or private career centers recognized by the Ministry of Education | Required | Completed FP Grado Medio, including internship |
+| Higher Vocational Training Diploma (Técnico Superior en Producción en Industrias de Artes Gráficas) | Vocational centers recognized by the Ministry of Education | Optional | Senior operations and management positions are preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 50,000。西班牙印刷业从业者约5万人，受数字化冲击需求缓慢下降。但数字印刷、包装印刷和个性定制化业务仍有机遇。
+**Job demand: medium (★★½☆☆).** National workforce approx. 50,000. About 50,000 workers in Spanish printing industry, demand slowly declining due to digitalization. But opportunities remain in digital printing, packaging printing, and personalized customization.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班 |
-| 中级（3-7年） | $22,000~$28,000 | 含轮班补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或技术专家 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes shift allowances |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor or technical specialist |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从机长晋升为印刷车间主管或技术经理，也可向印前设计、色彩管理或数字印刷转型。积累经验后可自营小型印刷店。
-**AI替代风险：中等偏高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Print workers face dual pressures from AI and automation: digital printing and quality inspection are increasingly automated, but creative color mixing, equipment maintenance, and client communication still rely on human experience, making career prospects mixed.
+
+Advance from machine captain to print shop supervisor or technical manager, and also transition into prepress design, color management, or digital printing. After gaining experience, you can run your own small printing shop.
+
+**Tasks most exposed to AI:**
+
+- Prepress file checking and format conversion (AI auto-layout)
+- Print quality visual inspection (computer vision automated QC)
+- Routine equipment fault diagnosis and reset (AI predictive maintenance)
+- Print order entry and scheduling (ERP system automation)
+
+**Where AI augments the role:**
+
+- Complex color management and color matching (assisted by AI color engine)
+- High-precision printing calibration and fine-tuning (AI algorithm recommends parameters)
+- Customized printing solution design (AI-generated templates and previews)
+- Equipment preventive maintenance plan development (AI predictive analysis)
+
+**Human moat:**
+
+- Process innovation for unconventional materials/surface printing (e.g., fabric, metal)
+- Client creative communication and customized requirement interpretation
+- Judging non-standard qualities of printed materials such as texture and gloss
+- Manual repair and debugging of old/non-standard equipment
+- On-site decision-making for coordinating multi-step processes (cutting, binding)
+
+**Skills to build:**
+
+- Digital printing workflow software (e.g., EFI Fiery).
+- Color management (spectrophotometer, ICC profiling)
+- AI Image Enhancement and Layout Tools (Adobe Sensei, Canva AI)
+- Predictive maintenance and IoT device monitoring
+- Customer communication and customized sales techniques
+- Learn industry-specific print automation systems (e.g., HP PrintOS)
+
+**Key growth areas:**
 
 - Digital printing
 - Packaging printing
@@ -63,65 +97,67 @@ Operate printing presses, binding machines, and finishing equipment for offset, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit as employee） | 由西班牙雇主担保的工作居留，需证明该职位无法由本地或欧盟劳动力填补。 |
-| Subclass Busqueda empleo（Job search visa） | 高学历人才可申请为期12个月的求职签证，找到工作后转为工作居留。 |
+| Subclass Cuenta ajena (Work permit as employee) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by local or EU labor. |
+| Subclass Busqueda empleo (Job search visa) | Highly educated talents can apply for a 12-month job-seeking visa and convert to work-based residence once they find employment. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Printing Process Workers？**
-- 喜欢动手操作机械、注重细节的人
-- 愿意接受轮班工作（夜班/周末）
-- 对色彩敏感，有耐心完成重复性任务
+**Who is suited**
+- People who enjoy hands-on mechanical operations and pay attention to detail
+- Willing to accept shift work (night shifts/weekends)
+- Sensitive to color and patient in completing repetitive tasks
 
-**谁不适合学Printing Process Workers？**
-- 不喜欢体力劳动或长时间站立的人
-- 希望高收入并快速晋升的人
+**Who is not suited**
+- Those who dislike physical labor or prolonged standing.
+- People who want high income and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for printing process workers?**
+A: Entry-level annual salary approximately €18,000-22,000, rising to €28,000-35,000 with experience. Salary influenced by region, company size, and specialization.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: The difficulty is quite high. Non-urgently needed occupations require employer certification that local workers cannot be recruited. You can apply through Cuenta ajena, but success depends on the region and employer cooperation.
+
+**Q: What qualifications are required?**
+A: Typically, a printing diploma from FP Grado Medio (Secondary Vocational Training) is required, and advanced positions can be pursued at FP Grado Superior.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等偏高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Printing Process Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of printing process workers?**
-答：Entry-level annual salary is around €18,000-€22,000, rising to €28,000-€35,000 with experience. Pay varies by region, company size, and specialization.
-
-**问：Can foreigners immigrate through this occupation?**
-答：It is difficult. Not a shortage occupation; employers must prove no local candidates. Possible via work permit (Cuenta ajena), success depends on region and employer.
-
-**问：What education is required?**
-答：Typically a vocational training diploma (FP Grado Medio) in graphic printing, with advanced roles requiring higher-level FP Grado Superior.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

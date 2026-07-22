@@ -1,58 +1,94 @@
-# Jewelry and Watch Salesperson（Jewelry and Watch Salesperson）职业分析 · DE
+# Jewelry and Watch Salesperson — career analysis · Germany
 
-**职业代码：6222 – Jewelry and Watch Salesperson。**
+**Occupation code: 6222 (KldB)**
 
-Jewelry and watch salespersons sell high-end items like jewelry and watches in specialized retail stores, offering advice, demonstrations, and after-sales service, requiring product knowledge and sales skills.
+Jewellery and Watch Salespersons sell high-end items such as jewellery and watches to customers in specialist retail stores, providing advice, display, and after-sales service, requiring product knowledge and sales skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（Ausbildung） | 3年（双元制） | —（双元制培训期间有工资，学校可能收取少量费用） |
-| 短期专业化课程 | 6-12月 | $1,000~$5,000（珠宝鉴定、客户服务等认证课程） |
+| Vocational training (Ausbildung) | 3 years (dual system) | $0~$500 (Dual system training includes a salary, and schools may charge a small fee) |
+| Short-term specialized course | 6-12 months | $1,000~$5,000 (Certification courses in jewelry appraisal, customer service, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售销售员职业培训（IHK认证） | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，是入职基础 |
-| 珠宝鉴定师证书 | 德国宝石协会（DGemG）等 | 可选 | 有助于提升专业形象和薪资 |
+| Retail salesperson vocational training (IHK-certified) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training; it is a prerequisite for employment |
+| Gemologist certificate | German Gemmological Association (DGemG) etc. | Optional | Helps enhance professional image and salary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 22,000。德国珠宝和手表零售业保持稳定，随着奢侈品消费增长，专业销售员需求持续存在。数字化趋势下，线上线下融合销售能力日益重要。
+**Job demand: medium (★★★☆☆).** National workforce approx. 22,000. Germany's jewelry and watch retail sector remains stable, with steady demand for specialized sales staff as luxury consumption grows. Digital trends make online-offline integrated sales skills increasingly important.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，中位值约30000欧元 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含佣金和奖金 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，含管理职责或专业鉴定角色 |
+| Median salary | $39,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, median approximately 30,000 euros |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, including commission and bonuses |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, including management or specialist assessment roles |
+| average salary | $48,612 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级销售员可晋升为高级销售顾问、店长或区域经理，也可转向采购、品牌管理或珠宝鉴定等专业方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+Junior sales staff can advance to senior sales consultant, store manager, or regional manager, or transition to procurement, brand management, or jewelry appraisal.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - Luxury Retail
 - E-Commerce Integration
@@ -61,68 +97,67 @@ Jewelry and watch salespersons sell high-end items like jewelry and watches in s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 年薪门槛约5.6万欧元，适合高级销售或管理岗位 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 需获得德国认可的职业资格（如IHK培训证书），并有雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职机会卡，可在德国寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary threshold approx. 56,000 euros, suitable for senior sales or management roles |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Requires a recognized German vocational qualification (e.g., IHK training certificate) and employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job search card for seeking employment in Germany |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Jewelry and Watch Salesperson？**
-- 善于沟通、具备销售热情的人
-- 对珠宝手表有浓厚兴趣、注重细节的人
-- 有客户服务经验、愿意学习产品知识的人
-
-**谁不适合学Jewelry and Watch Salesperson？**
-- 不喜欢与人打交道、缺乏耐心的人
-- 不注重仪表和细节、职业道德不强的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communicators with sales passion
+- People with strong interest in jewelry and watches and attention to detail
+- Someone with customer service experience and willingness to learn product knowledge
+
+**Who is not suited**
+- People who dislike interacting with others or lack patience
+- Those Who Do Not Pay Attention to Appearance and Details, or Lack Professional Ethics
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of jewelry and watch salespeople?**
+A: Junior salesperson annual salary approx. €28,000-35,000, intermediate €35,000-45,000, senior up to €45,000-60,000. Income typically includes fixed salary plus commission and bonuses.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Must complete a German-recognised dual training programme (e.g., IHK certification) and find an employer sponsor to apply for a skilled migration work visa. High-salary positions (annual >56,000 EUR) can apply for the EU Blue Card.
+
+**Q: What are the career advancement paths?**
+A: Can progress from sales assistant to senior sales consultant, store manager, or regional manager. Also possible to transition to purchasing, brand management, or jewelry appraisal.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Jewelry and Watch Salesperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a jewelry and watch salesperson?**
-答：Entry-level salespersons earn around 28,000-35,000 EUR annually, mid-level 35,000-45,000 EUR, and senior up to 45,000-60,000 EUR. Income typically includes base salary plus commission and bonuses.
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：Complete a recognized German dual vocational training (e.g., IHK certification) and obtain an employer sponsor to apply for a skilled worker visa. High-salary positions (>56,000 EUR) may qualify for the EU Blue Card.
-
-**问：What are the career advancement paths?**
-答：You can advance from salesperson to senior sales consultant, store manager, or regional manager. Alternatively, move into purchasing, brand management, or gemology.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

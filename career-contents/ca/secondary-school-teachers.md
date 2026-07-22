@@ -1,59 +1,94 @@
-# Secondary School Teachers（Secondary School Teachers）职业分析 · 加拿大
+# Secondary School Teachers — career analysis · Canada
 
-**职业代码：41220 – Secondary School Teachers。**
+**Occupation code: 41220 (NOC)**
 
-Secondary school teachers in Canada instruct students in public or private schools, requiring a provincial teaching certificate. Due to teacher shortages (especially STEM, French, remote areas), this occupation is eligible for immigration via PNP, with ECA being essential.
+Secondary school teachers in Canada teach in public or private high schools, requiring a provincial teaching certificate. Due to teacher shortages (especially STEM, French, remote areas), this occupation can lead to immigration via PNP; education credential assessment (ECA) is key.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$60,000（加拿大本科国际生年均学费2-6万CAD，各省差异大） |
-| 教师教育课程（BEd） | 1-2年 | $15,000~$40,000（本科后第二学位/课程，国际生费用更高） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Canada undergraduate international student avg. tuition 20,000-60,000 CAD per year, varies by province) |
+| Teacher education program (BEd). | 1-2 years | $15,000~$40,000 (Second degree or diploma after bachelor's, higher costs for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省教师资格证 | 各省教师学院（如OCT、TRB） | 必备 | 必须获得任教省份的教师资格证，通常要求完成认可教师教育课程并通过考试 |
-| ECA学历认证 | WES或ICAS等指定机构 | 可选 | 海外学历需做ECA以证明等同加拿大教育水平，用于移民申请 |
-| 语言考试 | IELTS/CELPIP/TEF | 必备 | 英语或法语达到CLB 7或以上（通常要求CLB 8-9） |
+| Provincial teaching certificate | Provincial teachers' colleges (e.g., OCT, TRB) | Required | Must obtain a teaching certificate in the province of employment, usually requiring completion of an accredited teacher education program and passing exams. |
+| Language test | IELTS/CELPIP/TEF | Required | English or French proficiency of CLB 7 or higher (usually CLB 8-9 required) |
+| ECA (Educational Credential Assessment). | WES or ICAS designated bodies | Optional | Overseas degree needs ECA to prove equivalent Canadian education level for immigration application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 120,000。加拿大中学教师需求稳定，预计2023-2031年岗位增长约5%，STEM、法语和偏远地区需求更强。退休潮和班级规模增加进一步推动招聘。疫情后的教师留任问题加剧短缺，海外学历教师需完成额外课程认证。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Demand for middle school teachers in Canada is stable, with an estimated job growth of about 5% from 2023-2031. Demand is stronger in STEM, French, and remote areas. Retirement waves and increasing class sizes further drive recruitment. Post-pandemic teacher retention issues exacerbate shortages; teachers with overseas degrees need additional course credentialing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $45,000~$60,000 | 根据省份和学区，起薪约4.5-6万CAD |
-| 中级（5-10年） | $60,000~$80,000 | 经验增加后薪资稳步上升，中位约7万 |
-| 高级（10年以上） | $80,000~$100,000 | 资深教师或有额外职责（如部门主管）可达8-10万 |
+| Median salary | $94,994 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry-level (0-5 years) | $45,000~$60,000 | Depending on the province and school district, the starting salary is about CAD 45,000-60,000. |
+| Intermediate (5-10 years) | $60,000~$80,000 | Salary steadily increases with experience; median around $70,000. |
+| Senior (10+ years) | $80,000~$100,000 | Senior teachers or those with additional responsibilities (e.g. department head) can earn 80,000-100,000 |
+| average salary | $93,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业发展：从教师到部门主任、副校长、校长，或转入教育局课程开发、教育咨询。也可通过攻读硕士学位提升到学区管理岗位。薪酬随经验和学历增长，中位年薪约7万CAD。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on secondary school teachers is mixed: repetitive administrative tasks will be automated, but core teaching, emotional care, and complex classroom management are hard to replace. Teachers need to adapt to tech-assisted teaching and improve AI literacy to stay competitive.
+
+Career progression: from teacher to department head, deputy principal, principal, or move into curriculum development or education consultancy within the education bureau. Further study through a master's degree can lead to district management roles. Salary increases with experience and qualifications; median annual salary approx. CAD $70,000.
+
+**Tasks most exposed to AI:**
+
+- Automated grading of standardized assignments and multiple-choice questions
+- Generate basic lesson plans and course draft materials
+- handling student attendance and grade records
+- Provide standardized FAQ services
+
+**Where AI augments the role:**
+
+- Analyze student learning data with AI to achieve personalized teaching
+- Using AI to generate differentiated practice problems and extension materials
+- Enhance classroom interaction and lab simulation with AI virtual assistants
+- Using natural language processing tools to quickly search teaching materials
+- Use AI to monitor student participation and adjust teaching strategies in a timely manner.
+
+**Human moat:**
+
+- Classroom management and student behavior guidance
+- Emotional support and psychological counseling
+- Complex teaching decisions and curriculum design
+- In-depth communication with parents and the community
+- Cultivate students' critical thinking and creativity
+
+**Skills to build:**
+
+- Data analysis and learning situation diagnosis.
+- AI teaching tool applications (e.g., Knewton, Carnegie Learning)
+- Digital content creation and multimedia teaching
+- Programming and STEM education basics
+- Online teaching and blended learning design
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Teacher Shortage
 - Provincial Nominee
@@ -62,68 +97,67 @@ Secondary school teachers in Canada instruct students in public or private schoo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 多数省份有针对教师的省提名项目，如安省、BC省、阿尔伯塔省，无需雇主担保即可申请 |
-| Subclass EE（Express Entry (FSW/CEC)） | 加拿大经验类或联邦技术移民，需满足教育、语言、工作经验要求，CRS得分高者获邀 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份试点项目，教师需求大，雇主担保后移民速度快 |
+| Subclass PNP (Provincial Nominee Program) | Most provinces have provincial nomination programs for teachers, e.g. Ontario, British Columbia, Alberta, which can be applied for without employer sponsorship. |
+| Subclass EE (Express Entry (FSW/CEC)) | Canadian Experience Class or Federal Skilled Worker program; must meet education, language, and work experience requirements; high CRS score receives invitation |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot: high demand for teachers, fast immigration through employer sponsorship. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary School Teachers？**
-- 热爱教学、有耐心和沟通能力，愿意在偏远地区工作更易移民
-- 有STEM、法语、特殊教育背景的教师需求大
-- 计划移民并愿意投入额外认证时间（1-2年）
-
-**谁不适合学Secondary School Teachers？**
-- 不愿接受省教师资格认证（费时费力）
-- 期望高薪快速积累财富的人（教师薪资上限不高）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for teaching, patience and communication skills; willingness to work in remote areas facilitates immigration
+- High demand for teachers with STEM, French, or special education backgrounds.
+- Plan to immigrate and willing to invest extra time for certification (1-2 years)
+
+**Who is not suited**
+- Unwilling to obtain provincial teaching certification (time-consuming and effort-intensive)
+- Those aiming for high salary and rapid wealth accumulation (teachers have limited salary growth).
+
+---
+
+## 8. FAQ
+
+**Q: What are the key steps for overseas primary and secondary school teachers to immigrate to Canada?**
+A: Three steps needed: 1) ECA for overseas qualifications; 2) Meet language requirements (IELTS CLB 7+); 3) Apply for provincial nomination or Express Entry. Note: NOC 41220 is TEER 1, eligible for EE. Most provinces don't require employer sponsorship, but provincial nomination is safer.
+
+**Q: What is the salary level for secondary school teachers in Canada?**
+A: National median salary about $70,000 CAD, entry-level about $50,000, experienced teachers up to $90,000-$100,000. Salary determined by province and school district; Ontario and BC are higher, remote areas often have additional allowances.
+
+**Q: How can overseas teachers obtain a Canadian teaching qualification?**
+A: Requires certification from the provincial teachers' college. Typically: a bachelor's degree, completion of a teacher education program (assessed for equivalence), and passing language and teaching exams. Some provinces require additional courses or internships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Secondary School Teachers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the key steps for overseas secondary school teachers to immigrate to Canada?**
-答：Three steps: 1) Obtain ECA for your degree; 2) Meet language requirements (IELTS CLB 7+); 3) Apply for PNP or Express Entry. Note: NOC 41220 is TEER 1, eligible for EE. Most provinces do not require a job offer, but PNP is more secure.
-
-**问：What is the salary level for secondary school teachers in Canada?**
-答：National median is around CAD 70,000; starting salary ~CAD 50,000; experienced teachers can earn CAD 90,000-100,000. Salaries vary by province and school board, with Ontario and BC higher, and remote areas offering allowances.
-
-**问：How can overseas teachers obtain a Canadian teaching certificate?**
-答：Apply to the provincial teaching college. Requirements: bachelor's degree, recognized teacher education program, language and pedagogy exams. Some provinces require additional courses or practicum.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

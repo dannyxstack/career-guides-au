@@ -1,59 +1,95 @@
-# Hotel Manager（Hotel Manager）职业分析 · IE
+# Hotel Manager — career analysis · Ireland
 
-**职业代码：1411 – Hotel Manager。**
+**Occupation code: 1411 (ISCO08)**
 
-Hotel managers oversee daily operations of hotels, including staff management, budgeting, customer service, and marketing.
+Hotel managers are responsible for daily hotel operations, including managing staff, budgets, customer service, and marketing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $10,000~$20,000（公立大学学费，欧盟学生较低） |
-| 硕士 | 1-2年 | $12,000~$25,000（硕士课程，含实习） |
+| Bachelor's degree | 4 years | $10,000~$20,000 (Public university tuition fees are lower for EU students) |
+| Master's degree | 1-2 years | $12,000~$25,000 (Master's program, including internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理学位 | 爱尔兰大学 | 可选 | 常见要求 |
-| 管理经验 | 雇主 | 必备 | 通常需要3-5年相关经验 |
-| 食品安全证书 | FSAI | 可选 | 部分岗位要求 |
+| Management experience | Employer | Required | Usually requires 3-5 years of relevant experience |
+| Hospitality management degree | Irish universities | Optional | Common requirements |
+| Food safety certificate | FSAI | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。爱尔兰旅游业持续增长，酒店经理需求稳定。都柏林及主要旅游城市机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Ireland's tourism industry continues to grow, with steady demand for hotel managers. Opportunities are more abundant in Dublin and major tourist cities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 助理经理或小型酒店 |
-| 中级（3-7年） | $35,000~$50,000 | 中型酒店经理 |
-| 高级（7年以上） | $50,000~$80,000 | 大型酒店或连锁酒店 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Assistant manager or small hotel |
+| Mid-level (3–7 years) | $35,000~$50,000 | Medium Hotel Manager |
+| Senior (7+ years) | $50,000~$80,000 | Large hotels or hotel chains |
+| average salary | $46,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从部门主管晋升至酒店经理，再至区域经理或集团高管。积累经验后可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Can progress from department manager to hotel manager, then to regional manager or executive. With experience, can start own business.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Hotel Manager
 - Hospitality Management
@@ -62,69 +98,68 @@ Hotel managers oversee daily operations of hotels, including staff management, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，年薪需达约43,000欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不符合紧缺清单，一般不适用 |
-| Subclass Stamp 4（Stamp 4 (Long Term Residency)） | 工作满5年后可申请长期居留 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, annual salary threshold of €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions, with an annual salary of around €43,000 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Generally not applicable as it does not meet shortage list criteria |
+| Subclass Stamp 4 (Stamp 4 (Long Term Residency)) | After 5 years of work, can apply for long-term residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel Manager？**
-- 热爱服务行业
-- 具备领导力
-- 善于处理压力
-
-**谁不适合学Hotel Manager？**
-- 不喜欢轮班工作
-- 不擅长人际沟通
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the service industry.
+- Possess leadership skills
+- Good at handling pressure.
+
+**Who is not suited**
+- Dislikes shift work
+- Not good at interpersonal communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a hotel manager?**
+A: Junior: approximately €28,000–35,000, Mid-level: €35,000–50,000, Senior: €50,000–80,000.
+
+**Q: How can foreigners get a work visa for a hotel manager role in Ireland?**
+A: Usually requires employer to provide General Employment Permit, annual salary at least €30,000.
+
+**Q: What is the career path for a hotel manager?**
+A: Can progress from department supervisor to hotel manager, then to regional manager or corporate executive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hotel Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for hotel managers?**
-答：Entry-level: €28,000-€35,000; mid-level: €35,000-€50,000; senior: €50,000-€80,000.
-
-**问：How can foreigners obtain a work visa for hotel manager in Ireland?**
-答：Typically, a General Employment Permit with employer sponsorship and salary at least €30,000.
-
-**问：What is the career progression for hotel managers?**
-答：From department head to hotel manager, then regional manager or corporate executive.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

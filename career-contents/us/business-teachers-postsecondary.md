@@ -1,59 +1,95 @@
-# Business Teachers, Postsecondary（Business Teachers, Postsecondary）职业分析 · 美国
+# Business Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1011 – Business Teachers, Postsecondary。**
+**Occupation code: 25-1011 (SOC)**
 
-Teach business administration courses at postsecondary institutions, covering accounting, finance, HR, marketing, and operations, combining teaching and research.
+Teach business management courses at higher education institutions, including accounting, finance, human resources, marketing, etc., balancing teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-6年 | $100,000~$200,000（商科博士（PhD in Business）学费及生活费，含助教/奖学金可能降低） |
-| 硕士学位 | 2年 | $50,000~$100,000（MBA或相关硕士学位，社区学院或部分大学可聘用） |
+| Doctoral degree (PhD) | 5-6 years. | $100,000~$200,000 (PhD in Business tuition and living expenses, with TA/scholarship possibly reducing costs) |
+| Master's degree | 2 years | $50,000~$100,000 (MBA or related master's degree; community colleges or some universities may hire) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认证大学 | 可选 | 研究型大学通常要求博士；社区学院可接受硕士 |
-| 教学经验 | 高校 | 可选 | 通常需要2-3年教学经验或博士后经历 |
-| 学术发表 | 同行评审期刊 | 可选 | 晋升终身教职需发表论文 |
+| Doctoral degree (PhD) | Accredited university | Optional | Research universities usually require a PhD; community colleges may accept a master's degree |
+| Teaching experience | Higher education institutions. | Optional | Usually requires 2-3 years teaching experience or postdoc |
+| Academic publishing | Peer-reviewed journals | Optional | Promotion to tenure requires publishing papers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 110,400。美国商学院教师需求受高等教育入学人数和商业课程注册率影响，预计未来十年增长约6%，与所有职业平均增速相近。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 110,400. Demand for US business school faculty is influenced by higher education enrollment and business course registration rates, projected to grow about 6% over the next decade, similar to average for all occupations.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授，0-6年） | $60,000~$90,000 | 社区学院或非研究型大学 |
-| 中级（副教授，6-12年） | $80,000~$130,000 | 终身教职后薪资提升 |
-| 高级（正教授，12年以上） | $100,000~$200,000 | 名校或商学院薪资更高 |
+| Median salary | $99,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (Assistant Professor, 0-6 years) | $60,000~$90,000 | Community college or non-research university |
+| Mid-level (Associate Professor, 6-12 years) | $80,000~$130,000 | Salary increase after tenure |
+| Senior (full professor, 12+ years) | $100,000~$200,000 | Higher salary at prestigious schools or business schools |
+| average salary | $114,720 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理教授起步，晋升副教授、正教授，部分转向系主任或学院管理层。需持续发表学术成果并参与行业咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Usually starts as an assistant professor, promoted to associate and full professor, with some moving to department chair or college management. Requires continuous publication of academic work and industry consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Online education growth
 - Business school enrollment
@@ -62,68 +98,67 @@ Teach business administration courses at postsecondary institutions, covering ac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学豁免H-1B配额，可直接申请；需博士学位或同等经验 |
-| Subclass EB-2（EB-2 Advanced Degree） | 通过PERM劳工证或国家利益豁免(NIW)申请绿卡，适合有博士学位的教授 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在商业教育领域有杰出成就的教师 |
+| Subclass H-1B (H-1B Specialty Occupation) | University exempt from H-1B cap; direct application allowed; PhD or equivalent experience required |
+| Subclass EB-2 (EB-2 Advanced Degree) | Green card via PERM labor certification or National Interest Waiver (NIW), suitable for professors with a PhD |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for teachers with outstanding achievements in commercial education |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Business Teachers, Postsecondary？**
-- 对商业领域有深厚兴趣并愿从事学术研究的人
-- 具备出色沟通和教学能力，能激发学生兴趣
-- 愿意在终身教职制度下长期投入科研和教学
-
-**谁不适合学Business Teachers, Postsecondary？**
-- 不喜欢学术写作和发表压力的人
-- 追求高薪而非稳定学术职业的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a deep interest in business and willing to pursue academic research
+- Excellent communication and teaching skills, ability to inspire students
+- Those willing to commit to long-term research and teaching under a tenure system.
+
+**Who is not suited**
+- People who dislike academic writing and publication pressure
+- Those seeking high pay rather than stable academic careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of business school faculty?**
+A: Salaries for business school faculty in the US vary significantly by institution type and rank. Assistant professors earn around USD 60,000-90,000 annually, while full professors can earn USD 100,000-200,000. Faculty at prestigious business schools earn even more.
+
+**Q: How can foreign PhDs become business school teachers in the U.S. via H-1B visa?**
+A: The university is an H-1B cap-exempt employer, can file petitions at any time without the lottery. Must hold a PhD or equivalent in a relevant field. Can then apply for a green card via EB-2 or NIW.
+
+**Q: What are the career development paths for business school faculty members?**
+A: Typical path: assistant professor (6 years) → associate professor (tenured) → full professor. Can also move into administrative roles such as department chair, dean, or enter corporate training/consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Business Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for business teachers in the US?**
-答：Salaries vary by institution and rank: assistant professors earn $60k-$90k, full professors $100k-$200k. Top business schools pay significantly more.
-
-**问：How can foreign PhDs become business professors in the US via H-1B?**
-答：Universities are cap-exempt for H-1B, allowing direct application. Requires a relevant PhD or equivalent. Green card via EB-2 or NIW is common.
-
-**问：What are the career advancement paths for business professors?**
-答：Typical track: Assistant Professor (6 years) → Associate Professor (tenured) → Full Professor. Can also move to administrative roles (department chair, dean) or corporate training/consulting.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Electrical service and maintenance mechanics and repairers（Electrical service and maintenance mechanics and repairers）职业分析 · UK
+# Electrical service and maintenance mechanics and repairers — career analysis · United Kingdom
 
-**职业代码：5246 – Electrical service and maintenance mechanics and repairers。**
+**Occupation code: 5246 (SOC)**
 
-Maintain, service and repair domestic appliances, office machinery and electricity plant machinery, appliances and wiring, ensuring safe operation of electrical systems in homes and businesses.
+Responsible for maintaining and repairing household appliances, office machines, and electrical equipment to ensure safe operation of electrical systems; a key technical role for the normal functioning of homes and commercial facilities
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中 | 2年 | —（英国公立教育免费） |
-| 学徒制 | 3-4年 | —（学徒期间有工资，部分培训费用由雇主承担） |
+| High school | 2 years | $0~$0 (Free Public Education in the UK) |
+| Apprenticeship | 3-4 years | $0~$5,000 (Apprentices receive wages, and some training costs are covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气维修三级证书 | City & Guilds | 必备 | 基础资格，涵盖家用电器维修 |
-| 18版布线规则认证 | IET | 必备 | 最新电气安装标准证书 |
-| NVQ 3级电气维护 | 国家认证机构 | 可选 | 国家职业资格，证明实际操作能力 |
+| Certificate III in Electrical Repair | City & Guilds | Required | Basic qualification covering household appliance repair |
+| 18-wire routing rules certification | IET | Required | Latest certificate in electrical installation standards |
+| NVQ Level 3 Electrical Maintenance | National accreditation body | Optional | National vocational qualification demonstrating practical competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。随着老旧建筑翻新和绿色能源转型，电气维修需求稳定增长。英国电气维修行业预计未来十年年均增长约2%，就业机会充足。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. With the renovation of old buildings and the green energy transition, demand for electrical maintenance is steadily growing. The UK electrical maintenance industry is expected to grow by about 2% annually over the next decade, with ample job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒转正后起薪 |
-| 中级（3-7年） | $26,000~$35,000 | 可独立完成复杂维修 |
-| 高级（7年以上） | $35,000~$45,000 | 包括主管或自主经营者 |
+| Median salary | $41,662 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Starting salary after apprenticeship |
+| Mid-level (3–7 years) | $26,000~$35,000 | Can independently perform complex repairs |
+| Senior (7+ years) | $35,000~$45,000 | Includes supervisors or self-employed individuals |
+| average salary | $44,015 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级技工可通过学徒制晋升为高级技师或团队主管，积累经验后可转向电气工程管理、设备制造商技术顾问或自主创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
+
+Junior tradespeople can advance to senior technicians or team supervisors through apprenticeships, and with experience can move into electrical engineering management, equipment manufacturer technical consulting, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate fault reports from sensor data.
+- Use AI tools for board-level diagnostics
+- Remote restart or reset device software
+- Predictive maintenance scheduling based on historical data
+- Auto-generate maintenance documents and work orders
+
+**Where AI augments the role:**
+
+- AR glasses overlay circuit diagrams to assist manual repairs
+- AI image recognition quickly locates component faults
+- Natural language querying of technical manuals and logs
+- Automatic calibration of instruments and debugging programs
+- Collaborative robots handling heavy equipment components
+
+**Human moat:**
+
+- Non-standardized fine manual operations in physical environments
+- Creative troubleshooting of new or rare faults
+- Compliance judgment involving safety regulations
+- On-site client communication and emergency response
+- Overall diagnosis of cross-system integration issues
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Programmable logic controllers and SCADA systems
+- Augmented reality repair tool usage
+- Write diagnostic tools in Python or scripting languages.
+- Data-driven predictive maintenance skills
+- Electrical Safety and Compliance Certification
+
+**Key growth areas:**
 
 - Green energy transition
 - Building renovation
@@ -62,65 +98,64 @@ Maintain, service and repair domestic appliances, office machinery and electrici
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的合格电气维修技工，满足薪资和技能要求。 |
-| Subclass Scale-up（Scale-up Visa） | 适合被高增长企业雇用，需证明技能符合岗位要求。 |
-| Subclass Graduate（Graduate Visa） | 完成英国学位课程后可申请，允许从事任何工作（包括维修岗位）。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applies to qualified electrical maintenance workers with employer sponsorship, meeting salary and skill requirements. |
+| Subclass Scale-up (Scale-up Visa) | Suitable for employment by high-growth companies; must demonstrate that skills meet job requirements. |
+| Subclass Graduate (Graduate Visa) | Can apply after completing a UK degree program, allows any work (including maintenance roles). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical service and maintenance mechanics and repairers？**
-- 喜欢动手操作、解决问题的技术型人才
-- 追求稳定就业和职业发展路径
-- 愿意通过学徒制学习技能的人
-
-**谁不适合学Electrical service and maintenance mechanics and repairers？**
-- 不喜欢体力劳动和室内外作业
-- 对电气安全风险敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical talent who enjoys hands-on work and problem-solving
+- Seeking stable employment and career development pathways
+- People willing to learn skills through an apprenticeship
+
+**Who is not suited**
+- Dislikes physical labor and indoor/outdoor work
+- People sensitive to electrical safety risks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an electrical repair worker?**
+A: Entry-level approx £20,000-£26,000, mid-level £26,000-£35,000, senior up to £45,000+
+
+**Q: Can electrical repairers come to the UK on a skilled migration visa?**
+A: Yes. The occupation is on the Skilled Worker visa sponsorship list, and due to a shortage occupation, the salary threshold is lower (approx. £26,200).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electrical service and maintenance mechanics and repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an electrical service and maintenance mechanic?**
-答：Entry-level around £20,000–£26,000, mid-level £26,000–£35,000, senior up to £45,000+.
-
-**问：Can electrical service mechanics come to the UK via a skilled work visa?**
-答：Yes. It is eligible for the Skilled Worker visa and appears on the shortage occupation list, with a reduced salary threshold of around £26,200.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Fire Safety Engineer（Fire Safety Engineer）职业分析 · 新西兰
+# Fire Safety Engineer — career analysis · New Zealand
 
-**职业代码：233916 – Fire Safety Engineer。**
+**Occupation code: 233916 (ANZSCO)**
 
-Fire safety engineers design fire protection systems, assess risks, and plan evacuations. This role is on Green List Tier 1, offering a direct pathway to residence for qualified professionals in New Zealand's construction sector.
+Fire safety engineers design fire protection systems, assess fire risks, and develop evacuation strategies, making them key technical roles in New Zealand's building and infrastructure sectors. This occupation is on Green List Tier 1, allowing direct residence application if conditions are met, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（工程学） | 4年 | $25,000~$35,000（国际生学费，约25000-35000 NZD/年） |
-| 硕士（消防工程） | 1-2年 | $30,000~$40,000（坎特伯雷大学等提供相关课程） |
+| Bachelor's (Engineering) | 4 years | $25,000~$35,000 (International student tuition, approx NZD 25,000-35,000/year) |
+| Master's degree (Fire Engineering) | 1-2 years | $30,000~$40,000 (University of Canterbury and others offer related courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册专业工程师（CPEng） | 新西兰工程协会 (Engineering New Zealand) | 必备 | 需完成资质评估与经验审核，是核心执业资格 |
-| 消防工程研究生文凭 | 坎特伯雷大学 | 可选 | 专业方向课程，提升竞争力 |
-| 国际消防工程师协会（SFPE）认证 | 国际消防工程师协会 | 可选 | 国际认可，非强制但有利 |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Required | Must complete qualification assessment and experience review; core practicing qualification |
+| Graduate Diploma in Fire Engineering | University of Canterbury | Optional | Specialized courses to enhance competitiveness |
+| Society of Fire Protection Engineers (SFPE) certification | International Association of Fire Safety Engineers | Optional | Internationally recognized, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 400。随着新西兰建筑规范更新、高密度住宅和基建项目增多，消防安全工程师需求持续增长。奥克兰及基督城等地存在人才短缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 400. With updates to New Zealand building codes and increased high-density housing and infrastructure projects, demand for fire safety engineers continues to grow. Talent shortages exist in Auckland and Christchurch, with good employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 应届毕业生或经验较少者 |
-| 中级（3-8年） | $85,000~$105,000 | 持有CPEng或有独立项目经验 |
-| 高级（8年以上） | $110,000~$140,000 | 技术主管或顾问，薪资可更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Fresh graduates or those with little experience |
+| Mid-level (3–8 years) | $85,000~$105,000 | Holds CPEng or has independent project experience |
+| Senior (8+ years) | $110,000~$140,000 | Technical lead or consultant, with higher salary potential |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级可从事设计辅助与评估工作；中级可独立负责项目设计与合规审查；高级可担任技术主管、顾问或合伙经理，并参与法规制定。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-enhanced profession: AI tools will significantly improve the efficiency of fire simulation, code review, and report generation, but core design decisions and compliance responsibilities still rely on human engineers.
+
+Entry-level: can do design assistance and evaluation; mid-level: can independently handle project design and compliance review; senior: can serve as technical lead, consultant, or partner manager, and participate in regulatory development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard fire system preliminary design drawings (sprinklers, alarms)
+- AI-based fire simulation software for automated parametric scenario analysis
+- Automatically review designs for compliance with Australian Building Code (NCC) and flag deviations
+- Automatically generate first drafts of fire risk assessment reports in standard format
+
+**Where AI augments the role:**
+
+- Use AI for multivariate fire dynamic simulation to quickly optimize evacuation plans.
+- AI-assisted review of fire compartmentation strategies for complex buildings (e.g. hospitals, data centres)
+- Improving risk assessment accuracy by analyzing historical fire data through machine learning
+- AI tools automatically generate compliance checklists, reducing manual verification time
+- Integrating BIM and AI for real-time collision detection between building design and fire systems
+
+**Human moat:**
+
+- Engineering judgment in innovative fire protection system design (e.g., new materials, structures)
+- Deep understanding and comprehensive decision-making on building purpose, personnel characteristics, and operating conditions
+- Qualification requirements to assume legal and professional responsibility and sign compliance certification documents
+- Cross-disciplinary coordination and communication with architects, structural engineers, and clients
+- Creative solution design for rare or unconventional fire scenarios
+
+**Skills to build:**
+
+- AI fire simulation tools (e.g., FDS integrated with machine learning plugins)
+- Automated compliance review software (e.g. AI-NCC Checker)
+- BIM and AI integration (Autodesk Revit + Dynamo + AI plugins)
+- Data-driven risk assessment methods (Python/R basics + fire databases)
+- Advanced Application of Performance-Based Fire Design
+- Cross-domain AI collaboration: designing integration of fire alarm systems with smart building AI
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Fire safety engineers design fire protection systems, assess risks, and plan eva
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合资格可直接申请居留，无需先工作。需满足学历、注册与经验要求。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，若学历与经验达标可申请。通常需有新西兰雇主offer。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未立即满足居留条件，可先通过AEWV工作，积累经验后申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | If eligible, can directly apply for residency without needing to work first. Must meet education, registration, and experience requirements. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, eligible if qualifications and experience meet requirements. Usually requires a job offer from a New Zealand employer. |
+| Subclass AEWV (Accredited Employer Work Visa) | If residence conditions are not immediately met, you can first work on an AEWV, accumulate experience, and then apply for residence. |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fire Safety Engineer？**
-- 具备扎实工程背景，对防火安全有热情的毕业生
-- 希望移民新西兰且愿意持续学习的专业人士
-- 有工程注册资质，寻求国际化发展的工程师
-
-**谁不适合学Fire Safety Engineer？**
-- 不擅长严格规范与细致计算的工作者
-- 对频繁跨领域沟通或现场工作排斥者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with a solid engineering background and passion for fire safety
+- Professionals seeking to emigrate to New Zealand and willing to continuously learn
+- Engineers with engineering registration seeking international development
+
+**Who is not suited**
+- Workers who are not good at strict regulations and detailed calculations
+- Not suitable for those who dislike frequent cross-disciplinary communication or field work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of fire safety engineers in New Zealand?**
+A: Junior: approx. 65,000–80,000 NZD, mid-level: 85,000–105,000, senior: 110,000–140,000, with experienced professionals reaching higher.
+
+**Q: What conditions are required for fire engineers to immigrate via Green List Tier 1?**
+A: Must meet educational requirements (e.g., engineering bachelor's degree), register as a Chartered Professional Engineer (CPEng), and have 3+ years of relevant work experience.
+
+**Q: Is it difficult to become a Chartered Professional Engineer (CPEng)?**
+A: CPEng requires international qualification assessment, experience report, and interview; challenging but with a high pass rate, usually requiring 1-2 years of preparation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等偏高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Fire Safety Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for fire safety engineers in New Zealand?**
-答：Entry-level: NZD 65k-80k; mid-level: NZD 85k-105k; senior: NZD 110k-140k.
-
-**问：What conditions are required for fire safety engineers under Green List Tier 1?**
-答：You need a relevant engineering degree, CPEng registration, and at least 3 years of work experience.
-
-**问：Is it difficult to become a Chartered Professional Engineer (CPEng)?**
-答：It requires an assessment of your qualifications, experience report, and interview. It's challenging but achievable, usually taking 1-2 years.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

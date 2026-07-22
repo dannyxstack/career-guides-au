@@ -1,60 +1,95 @@
-# Office for Protection of the Constitution Officer（Office for Protection of the Constitution Officer）职业分析 · DE
+# Office for Protection of the Constitution Officer — career analysis · Germany
 
-**职业代码：7316 – Office for Protection of the Constitution Officer。**
+**Occupation code: 7316 (KldB)**
 
-Work at the German Federal or State Office for the Protection of the Constitution, collecting and analyzing information on extremism, espionage, and other threats to protect the constitutional order.
+Working at the German Federal or State Office for the Protection of the Constitution, collecting and analyzing threats like extremism and espionage to protect the constitutional order.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学术学位 | 3-4年（本科） | —（公立大学免学费，仅学期费） |
-| 双元制培训 | 3年 | —（培训期间有工资） |
+| Academic degree | 3-4 years (Bachelor's degree) | $0~$1,500 (Public universities are tuition-free, only semester fees apply.) |
+| Dual system training | 3 years | $0~$0 (Paid during training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 背景安全审查 | 宪法保卫局 | 必备 | 必须通过严格的背景调查（Ü2/Ü3） |
-| 法律或政治学学位 | 大学 | 可选 | 优先考虑，非强制 |
+| Background security check | Federal Office for the Protection of the Constitution | Required | Must pass strict background checks (Ü2/Ü3) |
+| Law or political science degree. | University | Optional | Preferred, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 4,000。德国安全形势复杂，极端主义和外国间谍威胁增加，宪法保卫局持续招聘。岗位稳定，但需通过严格背景审查。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,000. Germany's security situation is complex, threats from extremism and foreign espionage are increasing; the Federal Office for the Protection of the Constitution continues to recruit. Positions are stable, but require strict background checks.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 依据TVöD或Besoldungsordnung |
-| 中级（3-7年） | $50,000~$65,000 | 含绩效津贴 |
-| 高级（7年以上） | $65,000~$85,000 | 管理层或高级专家 |
+| Median salary | $73,584 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | According to TVöD or Besoldungsordnung |
+| Mid-level (3–7 years) | $50,000~$65,000 | Includes performance allowance |
+| Senior (7+ years) | $65,000~$85,000 | Management or senior specialist |
+| average salary | $82,860 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 一般从分析师或调查员起步，可晋升为团队负责人、部门主管。需长期服务，晋升慢但稳定。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI mainly acts as an analytical assistant enhancing intelligence processing capabilities, not replacing core work; automation risks are concentrated in document processing, while legal responsibility and judgment remain human-led.
+
+generally starts as an analyst or investigator, can advance to team leader or department head. Requires long-term service, slow but stable promotion
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting of routine intelligence reports
+- Automated crawling and keyword filtering of public data (news, social media)
+- Document archiving, classification, and metadata tagging
+- Basic Q&A style intelligence clue retrieval and ranking
+
+**Where AI augments the role:**
+
+- Multi-source, multi-language threat intelligence fusion and correlation analysis
+- Automatic identification and early warning of abnormal activity patterns
+- Decision support: Generate draft action recommendations based on historical cases
+- Real-time monitoring dashboard and visual reports
+- Automated cross-checking and risk scoring for compliance reviews
+
+**Human moat:**
+
+- Deep understanding of constitutional values and legal principles
+- Make judgments based on ambiguous or contradictory information and bear legal responsibility
+- Interpersonal coordination with judicial and law enforcement agencies and confidential informant management.
+- Handling physical security and access approval of sensitive materials
+- Creative investigation into extremely rare or novel threats
+
+**Skills to build:**
+
+- Application of natural language processing tools (e.g., GPT) in intelligence analysis.
+- Data visualisation tools (e.g., Tableau, Power BI).
+- Basic programming in Python or R for data cleaning and model calling
+- Cyber Threat Intelligence (CTI) platform operation
+- Privacy and security compliance knowledge
+- Critical thinking and AI output verification skills
+
+**Key growth areas:**
 
 - Security
 - Intelligence
@@ -63,61 +98,63 @@ Work at the German Federal or State Office for the Protection of the Constitutio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 对于非欧盟公民，需雇主担保，但宪法保卫局一般只招德国或欧盟公民。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | For non-EU citizens, employer sponsorship is required, but the Federal Office for the Protection of the Constitution generally only hires German or EU citizens. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Office for Protection of the Constitution Officer？**
-- 对安全和政治敏感话题感兴趣者
-- 具备分析能力和高度责任感者
-- 能通过严格政审且为德国或欧盟公民
+**Who is suited**
+- Those interested in security and politically sensitive topics
+- Those with analytical skills and a strong sense of responsibility
+- Must pass strict security clearance and be a German or EU citizen
 
-**谁不适合学Office for Protection of the Constitution Officer？**
-- 非欧盟公民（几乎无法进入）
-- 追求快速晋升和高收入者
+**Who is not suited**
+- Non-EU citizens (almost inaccessible)
+- Those seeking rapid promotion and high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for employees of the Federal Office for the Protection of the Constitution?**
+A: According to TVöD or civil service pay scale, annual salary starts at around €40,000-50,000 for entry level, €50,000-65,000 for mid-level, and up to €85,000 for senior level.
+
+**Q: Can non-EU citizens apply for this position?**
+A: Generally not. This role requires German or EU citizenship and strict security clearance. No pathway for third-country immigrants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Office for Protection of the Constitution Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Office for the Protection of the Constitution officers?**
-答：According to TVöD or civil service pay scales, entry-level annual salary is about €40,000-50,000, mid-level €50,000-65,000, and senior up to €85,000.
-
-**问：Can non-EU citizens apply for this position?**
-答：Generally, no. The position requires German or EU citizenship and strict security clearance. Almost no immigration path for third-country nationals.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

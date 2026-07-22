@@ -1,61 +1,94 @@
-# Geological and mineral technologists and technicians（Geological and mineral technologists and technicians）职业分析 · 加拿大
+# Geological and mineral technologists and technicians — career analysis · Canada
 
-**职业代码：22101 – Geological and mineral technologists and technicians。**
+**Occupation code: 22101 (NOC)**
 
-In Canada, mine surveyors are typically classified as geological and mineral technologists, performing mine surveying, mining support, and ore body modeling. This occupation is eligible for Express Entry or PNP immigration, with strong demand in mining provinces like Ontario, BC, and Alberta.
+In Canada, mine surveyors are typically classified as geological and mineral technologists, responsible for mine surveying, mining support, and ore body modeling. This occupation can immigrate through Express Entry or PNP, with high demand in mining provinces like Ontario, BC, and Alberta.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专/本科 | 2-4年 | $15,000~$60,000（公立学院文凭（如BCIT）约1.5万-3万加元；大学本科（如UBC）约4-6万加元/年） |
-| 专业认证/执照 | 1-2年 | $2,000~$8,000（省工程师协会或技术认证费用） |
-| 移民学历认证（ECA） | 3-6个月 | $200~$500（如WES或IQAS评估费用） |
+| Diploma/Bachelor's degree | 2-4 years | $15,000~$60,000 (Public college diploma (e.g., BCIT) about 15,000-30,000 CAD; university bachelor's (e.g., UBC) about 40,000-60,000 CAD/year) |
+| Professional certification/license | 1-2 years | $2,000~$8,000 (Provincial engineering association or technical certification fees) |
+| Immigration Education Credential Assessment (ECA) | 3-6 months | $200~$500 (Assessment fees such as WES or IQAS) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程或技术文凭 | 加拿大认可的大专或大学 | 必备 | 需要测绘、地质或采矿工程相关学历 |
-| 省技术认证（CET或P.Tech） | 各省工程技术协会（如ASTTBC） | 可选 | 非强制性但强烈推荐，尤其涉及独立执业 |
-| 语言成绩（IELTS/TEF） | 雅思或TEF | 必备 | 技术移民需CLB 7（雅思6.0）以上 |
-| ECA学历认证 | WES或IQAS | 必备 | 用于移民申请，确认海外学历等同加拿大水平 |
+| Engineering or technical diploma | Canadian-recognized college or university. | Required | Requires a degree in surveying, geology, or mining engineering |
+| Language test scores (IELTS/TEF) | IELTS or TEF | Required | Skilled immigration requires CLB 7 (IELTS 6.0) or above |
+| ECA (Educational Credential Assessment). | WES or IQAS | Required | Used for immigration applications to confirm overseas qualifications are equivalent to Canadian levels. |
+| Provincial technical certification (CET or P.Tech) | Provincial engineering associations (e.g., ASTTBC) | Optional | Non-mandatory but strongly recommended, especially for independent practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,400。加拿大矿业持续发展，尤其在不列颠哥伦比亚省和安大略省的金矿、铜矿项目中，矿山测量师需求稳定。本地培养人才不足，预计未来5年就业前景良好，工资增长快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 2,400. Canada's mining industry continues to grow, especially in gold and copper projects in British Columbia and Ontario, with steady demand for mine surveyors. Insufficient local training means good employment prospects over the next 5 years, with wage growth above average.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 入门级助理测量师或技师 |
-| 中级（4-7年） | $75,000~$95,000 | 独立负责项目测量 |
-| 高级（8年以上） | $95,000~$130,000 | 主管或专家角色 |
+| Median salary | $63,502 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Entry-level assistant surveyor or technician |
+| Mid-level (4-7 years) | $75,000~$95,000 | Independently responsible for project surveying |
+| Senior (8+ years) | $95,000~$130,000 | Supervisor or Specialist Role |
+| average salary | $70,720 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★☆）。** 初级矿山测量师可晋升为高级技师或项目主管，积累经验后可转向矿山规划、资源估算或管理层。持证后（如CET或P.Eng）可拓宽职业路径，部分人进入咨询或政府监管部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Junior mine surveyors can advance to senior technician or project supervisor. With experience, they can move into mine planning, resource estimation, or management. Certification (e.g., CET or P.Eng) broadens career paths; some move into consulting or government regulation.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee (BC, ON, AB)
@@ -64,68 +97,67 @@ In Canada, mine surveyors are typically classified as geological and mineral tec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类，需要CLB 7以上及至少一年相关工作经验。矿山测量师属于STEM职业，CRS有额外加分可能。 |
-| Subclass PNP（Provincial Nominee Program） | BC省技术移民（Tech Pilot）、安大略省优才计划、阿尔伯塔省机遇类等，获省提名后加600分，流程快。 |
-| Subclass AIP（Atlantic Immigration Program） | 适用于大西洋四省（如新斯科舍、纽芬兰）的矿业项目，雇主担保，语言要求较低。 |
+| Subclass EE (Express Entry (FSW/CEC)) | For Federal Skilled Worker or Canadian Experience Class, need CLB 7 or above and at least one year of relevant work experience. Mine surveyor is a STEM occupation, possible additional CRS points. |
+| Subclass PNP (Provincial Nominee Program) | BC PNP Tech Pilot, Ontario Human Capital Priorities, Alberta Opportunity Stream, etc.; 600 points added after nomination, fast process. |
+| Subclass AIP (Atlantic Immigration Program) | Applicable to mining projects in Atlantic provinces (e.g., Nova Scotia, Newfoundland), employer-sponsored, lower language requirements. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geological and mineral technologists and technicians？**
-- 具有测量、地质或采矿学历背景的人士
-- 愿意在偏远矿区工作（如北部省份）
-- 希望在资源行业获得稳定高薪的技术移民
-
-**谁不适合学Geological and mineral technologists and technicians？**
-- 不适应户外艰苦环境或井下作业
-- 追求办公室工作或城市生活者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a background in surveying, geology, or mining
+- Willing to work in remote mining areas (e.g., northern provinces)
+- Skilled migrants seeking stable high income in the resources industry
+
+**Who is not suited**
+- Not suitable for outdoor harsh environments or underground operations
+- Those seeking office work or city life
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a mine surveyor in Canada?**
+A: Entry-level about CAD 55,000-75,000/year, mid-level 75,000-95,000, senior up to 95,000-130,000, remote mining areas have additional allowances. Well above the Canadian average salary.
+
+**Q: Is it easy for mine surveyors to immigrate to Canada?**
+A: Relatively easy. This is a STEM occupation, eligible for EE and PNPs (e.g., BC Tech Pilot), with many provincial nomination programs and high demand across provinces; overseas work experience is well-recognized.
+
+**Q: What Canadian certifications do overseas mine surveyors need?**
+A: Requires ECA credential assessment and possibly technical certification (e.g., CET). Some provinces require local work experience or exams, but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（1-2年认证）（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 非常好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Geological and mineral technologists and technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for mine surveyors in Canada?**
-答：Entry-level CAD 55,000-75,000, mid-level CAD 75,000-95,000, senior CAD 95,000-130,000 per year, with bonuses for remote sites.
-
-**问：Is it easy for a mine surveyor to immigrate to Canada?**
-答：Relatively easy. It is a STEM occupation eligible for Express Entry and PNPs (e.g., BC Tech Pilot). High demand and provincial shortages make it favorable.
-
-**问：What Canadian certifications are needed for foreign mine surveyors?**
-答：ECA for education, and optionally a provincial technologist certification (e.g., CET). Some provinces require local experience or exams.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,93 @@
-# Sculptor（Sculptor）职业分析 · 澳大利亚
+# Sculptor — career analysis · Australia
 
-**职业代码：211413 – Sculptor。**
+**Occupation code: 211413 (ANZSCO)**
 
-Sculptors create three-dimensional artworks using materials like stone, metal, wood, and clay, working on public art commissions, gallery exhibitions, and private projects.
+Sculptors create three-dimensional artworks using various materials such as stone, metal, wood, and clay, participating in public art projects, gallery exhibitions, and private commissions, as professional creators in the visual arts field.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（视觉艺术/雕塑） | 3年 | $30,000~$45,000（年学费，国际生更高） |
-| 硕士（美术/雕塑） | 1.5-2年 | $32,000~$48,000（年学费） |
+| Bachelor's degree (Visual Arts/Sculpture) | 3 years | $30,000~$45,000 (Annual tuition fees, higher for international students) |
+| Master's (Fine Arts/Sculpture) | 1.5-2 years | $32,000~$48,000 (Annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美术学士（视觉艺术） | 澳洲大学 | 必备 | 常见入门学历 |
-| 职业健康与安全证书 | 各州机构 | 可选 | 涉及重型工具时建议 |
-| 艺术家简历与作品集 | 自学或机构 | 可选 | 职业必备，非正式证书 |
+| Bachelor of Fine Arts (Visual Arts) | Australian universities | Required | Common entry-level education |
+| Occupational health and safety certificate | State agencies | Optional | Recommended when using heavy tools |
+| Artist resume and portfolio | Self-study or through an institution | Optional | Essential for the profession, non-formal certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。澳洲雕塑家就业前景平稳，受公共艺术投资和私人市场影响。竞争激烈，但优秀作品可获认可。数字化和3D打印技术带来新机遇，但传统手工技能仍受重视。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The employment outlook for sculptors in Australia is stable, influenced by public art investment and the private market. Competition is fierce, but outstanding work can gain recognition. Digital and 3D printing technologies present new opportunities, though traditional handcraft skills remain valued.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 兼职或临时项目为主 |
-| 中级（4-8年） | $55,000~$80,000 | 稳定委托和销售 |
-| 高级（9年以上） | $80,000~$120,000 | 知名艺术家，大型项目 |
+| Median salary | $108,212 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Mainly part-time or temporary projects |
+| Mid-level (4–8 years) | $55,000~$80,000 | Stable commissions and sales |
+| Senior (9+ years) | $80,000~$120,000 | Renowned artist, large-scale projects |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从助理雕塑家开始，积累经验后独立接单，或进入艺术院校任教。少数顶尖艺术家建立工作室并承接大型公共项目，也可向艺术总监或策展人转型。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+A sculptor's core creativity and manual skills are hard to replace by AI, but AI brings efficiency gains in concept generation, client communication, and repetitive tasks, while entry-level positions face competition from AI tools.
+
+Career progression can start as an assistant sculptor, gain experience to take on independent projects, or teach at art schools. A few top artists establish studios and undertake large public projects, or transition to art director or curator roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate preliminary sculpture sketches or concept models.
+- Automatically adjust design plans by analyzing customer preferences with AI.
+- Batch production of standardized decorative sculptures or replicas
+- Generating digital twins of sculptures using 3D scanning and AI algorithms
+
+**Where AI augments the role:**
+
+- AI-assisted complex structural mechanics calculations and material simulations
+- Rapidly explore multiple artistic styles using generative AI
+- Customizing public art proposals by analyzing social media trends via AI
+- AI-driven augmented reality tools to preview sculptures in their environment
+
+**Human moat:**
+
+- Unique artistic perspective and emotional expression
+- Irreplaceable uniqueness and tactile perception of handcrafted work
+- On-site adaptability and material intuition in large public projects
+- Deep integration skills of cultural narratives and social issues
+
+**Skills to build:**
+
+- 3D modeling software such as Blender or Maya
+- Generative AI tools (Midjourney, DALL·E) for concept design
+- Basic programming and algorithmic thinking (Python, Grasshopper)
+- Digital manufacturing technologies (3D printing, CNC engraving)
+- Social media and digital marketing skills
+
+**Key growth areas:**
 
 - Public Art
 - 3D Printing
@@ -64,62 +96,64 @@ Sculptors create three-dimensional artworks using materials like stone, metal, w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，雕塑家通常不在职业清单上，极少数情况适用 |
-| Subclass 189（Skilled Independent Visa） | 雕塑家不在MLTSSL上，无法申请 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship; sculptors are usually not on the occupation list, applicable in rare cases |
+| Subclass 189 (Skilled Independent Visa) | Sculptor is not on the MLTSSL, cannot apply |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sculptor？**
-- 具有强烈艺术创作热情和手工技能的人
-- 能承受经济不稳定并自我营销的人
-- 有意从事公共艺术、展览或教学的人
+**Who is suited**
+- People with a strong passion for artistic creation and manual skills
+- People who can withstand economic instability and market themselves
+- Those interested in public art, exhibitions, or teaching.
 
-**谁不适合学Sculptor？**
-- 追求稳定高收入和职业保障的人
-- 缺乏耐心和独立工作能力的人
+**Who is not suited**
+- People seeking stable high income and job security
+- Those lacking patience and the ability to work independently.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the income prospects for sculptors?**
+A: Income is highly variable: entry-level around A$40,000–55,000, mid-level A$55,000–80,000, senior over A$120,000, but many need second jobs to make ends meet.
+
+**Q: Can sculptors immigrate to Australia?**
+A: Sculptors are usually not on the skilled migration occupation list; skilled migration pathways are very limited, mainly relying on Distinguished Talent visas (e.g., subclass 858) or employer sponsorship (difficult).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sculptor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income prospect for sculptors?**
-答：Income is variable: entry-level AUD 40,000-55,000, mid-level AUD 55,000-80,000, senior up to AUD 120,000+, but many need other jobs.
-
-**问：Can sculptors migrate to Australia?**
-答：Sculptors are generally not on skilled occupation lists; migration is very limited, mainly via Distinguished Talent visa (858) or employer sponsorship (difficult).
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

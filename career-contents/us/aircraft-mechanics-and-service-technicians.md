@@ -1,60 +1,96 @@
-# Aircraft Mechanics and Service Technicians（Aircraft Mechanics and Service Technicians）职业分析 · 美国
+# Aircraft Mechanics and Service Technicians — career analysis · United States
 
-**职业代码：49-3011 – Aircraft Mechanics and Service Technicians。**
+**Occupation code: 49-3011 (SOC)**
 
-Diagnose, adjust, repair, or overhaul aircraft engines and assemblies, such as hydraulic and pneumatic systems, ensuring flight safety.
+Diagnose, adjust, repair, or overhaul aircraft engines and components (e.g., hydraulic and pneumatic systems) to ensure flight safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位（航空维修技术） | 2年 | $15,000~$40,000（含学费和杂费，公立社区大学较低） |
-| FAA认可的航空维修技术学校证书 | 18-24个月 | $20,000~$50,000（私立学校费用较高） |
-| 在职培训与学徒 | 3-4年 | —（雇主可能承担培训费用） |
+| Associate degree (Aviation Maintenance Technology) | 2 years | $15,000~$40,000 (Includes tuition and fees; public community colleges are lower) |
+| FAA-approved aviation maintenance technician school certificate | 18-24 months | $20,000~$50,000 (Private school fees are higher) |
+| On-the-job training and apprenticeship | 3-4 years | $0~$5,000 (Employers may cover training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FAA航空机械师（A&P）执照 | 美国联邦航空管理局（FAA） | 必备 | 必须通过笔试、口试和实操考试，通常需要30个月实际工作经验或完成认可学校课程 |
-| 航空维修技术副学士学位 | 社区大学或技术学院 | 可选 | 非强制但有助于就业和晋升 |
-| 厂家的特定机型培训证书 | 飞机制造商（如波音、空客） | 可选 | 针对特定机型维修，增加就业竞争力 |
+| FAA Aircraft Mechanic (A&P) License | Federal Aviation Administration (FAA) | Required | Must pass written, oral, and practical exams, typically requiring 30 months of actual work experience or completion of an accredited school program |
+| Associate degree in aviation maintenance technology | Community college or technical school | Optional | Not mandatory but helps with employment and advancement |
+| Manufacturer-specific machine training certificate | Aircraft manufacturers (e.g., Boeing, Airbus). | Optional | Repairing specific models increases employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 141,530。随着航空业复苏和机队老化，岗位需求稳定增长。新飞行员培训需求也推动维修技师就业。预计2022-2032年就业增长约6%，与平均水平相当。
+**Job demand: high (★★★★☆).** National workforce approx. 141,530. With the aviation industry recovering and aging fleets, demand for roles grows steadily. New pilot training also drives technician employment. Employment is projected to grow about 6% from 2022 to 2032, near average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$55,000 | 刚取得执照、经验不足的技师 |
-| 中级（4-8年） | $55,000~$75,000 | 具有丰富经验和多机型技能 |
-| 高级（8年以上） | $75,000~$100,000 | 包含主管或检查员岗位 |
+| Median salary | $79,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$55,000 | Technicians with newly obtained license and limited experience |
+| Mid-level (4–8 years) | $55,000~$75,000 | With extensive experience and multi-aircraft type skills |
+| Senior (8+ years) | $75,000~$100,000 | Includes supervisor or inspector roles |
+| average salary | $84,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技师积累经验后可晋升为高级技师、领班或检查员。部分转向修理站管理或航空公司维修管理。持有A&P执照是晋升的关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Junior technicians can advance to senior technician, team leader, or inspector after gaining experience. Some move into repair station management or airline maintenance management. Holding an A&P license is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aircraft Maintenance
 - Aviation Safety
@@ -63,69 +99,68 @@ Diagnose, adjust, repair, or overhaul aircraft engines and assemblies, such as h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需要专业知识的职位，如航空维修工程师或管理岗。但一般飞机机械师需通过学历或经验证明专业能力。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 技术工人绿卡，适用于有两年经验或培训的技师，需PERM劳工认证。 |
-| Subclass EB-2（EB-2 Advanced Degree） | 持有高级学位（硕士以上）或特殊能力的航空工程师可申请，但普通技师通常不符合。 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民可依NAFTA申请，但飞机机械师不在职业清单中，可能需匹配工程师类别。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for positions requiring specialized knowledge, such as aircraft maintenance engineers or management roles. However, general aircraft mechanics need to demonstrate professional competence through qualifications or experience. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card for skilled workers, applicable to technicians with two years of experience or training, requiring PERM labor certification. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Aerospace engineers with advanced degrees (master's or above) or exceptional ability may apply, but ordinary technicians typically do not qualify. |
+| Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens may apply under NAFTA, but aircraft mechanic is not on the occupational list; may need to match engineer category. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Mechanics and Service Technicians？**
-- 喜欢动手修理机械，对航空有热情
-- 能承受倒班和压力环境下工作
-- 注重安全细节，有耐心学习复杂系统
-
-**谁不适合学Aircraft Mechanics and Service Technicians？**
-- 厌恶高空或密闭空间工作
-- 不愿持续学习新技术和法规变更
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on mechanical repair and has a passion for aviation.
+- Able to handle shift work and work under pressure
+- Detail-oriented with safety focus, patient in learning complex systems
+
+**Who is not suited**
+- Dislikes working at heights or in confined spaces
+- Reluctant to continuously learn new technologies and regulatory changes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for aircraft mechanics?**
+A: The median annual salary for U.S. aircraft mechanics and service technicians is about 66,000 dollars. Entry-level: 38,000-55,000 dollars; mid-level: 55,000-75,000; senior can exceed 100,000. Varies by experience, license, and employer.
+
+**Q: Can foreign aircraft mechanics immigrate to the U.S. on a work visa?**
+A: Yes, but limited pathways. Common options are EB-3 skilled worker green card (requires PERM) or H-1B visa (requires matching professional position such as aerospace engineer). TN visa (Canadian/Mexican citizens) needs qualification verification. Recommend obtaining FAA A&P license first, then seek employer sponsorship.
+
+**Q: How do aircraft mechanics advance?**
+A: After gaining experience, can advance to senior mechanic, foreman, inspector, or supervisor. Holding an A&P license and obtaining specific aircraft type certifications can enhance competitiveness. Some transition to airline management, repair station management, or become FAA designated inspectors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aircraft Mechanics and Service Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for aircraft mechanics?**
-答：The median annual wage for aircraft mechanics and service technicians in the US is about $66,000. Entry-level earn $38k-$55k, mid-level $55k-$75k, and senior can exceed $100k, depending on experience, certifications, and employer.
-
-**问：Can foreign aircraft mechanics immigrate to the US via work visa?**
-答：Yes, but limited. Common routes include EB-3 skilled worker green card (requires PERM) or H-1B visa (for specialized roles like aeronautical engineer). TN visa (for Canadian/Mexican citizens) requires checking occupation list. Obtaining FAA A&P license is recommended.
-
-**问：How do aircraft mechanics advance their careers?**
-答：With experience, they can advance to senior mechanic, lead, inspector, or supervisor. Holding A&P license and obtaining type ratings boost competitiveness. Some transition into airline management, repair station management, or become FAA designated inspectors.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

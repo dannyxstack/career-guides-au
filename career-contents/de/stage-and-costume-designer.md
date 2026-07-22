@@ -1,60 +1,96 @@
-# Stage and Costume Designer（Stage and Costume Designer）职业分析 · DE
+# Stage and Costume Designer — career analysis · Germany
 
-**职业代码：9461 – Stage and Costume Designer。**
+**Occupation code: 9461 (KldB)**
 
-Stage and costume designers create visual concepts for theatrical, film, and television productions, including sets, props, and costumes.
+Stage and costume designers create visual concepts for theatre, film, television, etc., including sets, props, and costume design.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 3-4年 | —（公立大学学费低，仅学期费约300欧元） |
-| 双元制培训（舞台与服装设计助理） | 3年 | —（培训期间有津贴） |
+| University bachelor's degree | 3-4 years | $0~$1,000 (Public universities have low tuition fees, only about €300 per semester.) |
+| Dual system training (stage and costume design assistant) | 3 years | $0~$0 (Allowance during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞台与服装设计或相关专业学位 | 德国公立或私立艺术院校 | 可选 | 如柏林艺术大学、富克旺根艺术大学 |
-| 资质认证（Anerkennung） | 德国联邦劳工局 | 可选 | 仅非欧盟学历需认证 |
+| Degree in stage and costume design or related field | German public or private art schools | Optional | such as Berlin University of the Arts and Folkwang University of the Arts |
+| Qualification recognition (Anerkennung) | German Federal Employment Agency | Optional | Only non-EU qualifications need authentication |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。德国文化行业竞争激烈，岗位多集中于柏林、汉堡等大城市。自由职业者占比高，收入不稳定，但对创意人才仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. The German cultural industry is highly competitive, with most jobs concentrated in large cities like Berlin and Hamburg. Freelancers account for a high proportion, and income is unstable, but there is still demand for creative talent.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 初始阶段收入较低，自由职业者收入差异大 |
-| 中级（3-7年） | $35,000~$50,000 | 受雇于剧院或制作公司 |
-| 高级（7年以上） | $50,000~$70,000 | 首席设计师或艺术总监 |
+| Median salary | $47,100 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Lower income initially, large income disparity among freelancers |
+| Mid-level (3–7 years) | $35,000~$50,000 | Employed by a theatre or production company |
+| Senior (7+ years) | $50,000~$70,000 | Lead designer or art director |
+| average salary | $52,104 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者通常从助理起步，积累经验后可晋升为首席设计师或艺术总监。少数人转向影视行业或成立个人工作室。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Stage and costume designers rely heavily on creativity and manual work; AI cannot fully replace core design decisions, but will greatly simplify time-consuming tasks like material collection, rendering, and fabric simulation, improving efficiency. Entry barriers are lowered by AI tools, but top-notch creativity and on-site coordination remain a moat.
+
+Practitioners typically start as assistants and can progress to lead designer or art director after gaining experience. A few move into film & TV or start their own studios.
+
+**Tasks most exposed to AI:**
+
+- Conduct preliminary visual material collection and collage based on director or script requirements (AI image search and generation).
+- Draw standardized technical drawings for sets and costumes (CAD tools and AI-assisted drafting).
+- Repeated adjustments of fabric texture and drape simulation (physics engine and AI simulation)
+- Pre-production rehearsal of lighting schemes (real-time rendering and AI lighting optimization)
+- Basic data statistics and template generation in cost estimation (AI data processing)
+
+**Where AI augments the role:**
+
+- Quickly generate various styles of concept sketches for director selection (generative AI expands creative options)
+- Automated Generation of Fabric Patterns and Print Designs (AI Pattern Generation and Customization)
+- Achieve immersive set previews through VR/AR, improving communication efficiency with directors and actors
+- Analyze acoustic and visual parameters of performance venues to assist design optimization (AI environment analysis)
+- Automated management of clothing and prop inventory, predictive maintenance (AI asset management)
+
+**Human moat:**
+
+- Ability to creatively interpret deep themes of a script and translate them into a unique visual narrative
+- Ability for humanized collaboration and on-site real-time adjustments with directors, actors, and technicians
+- Deep knowledge and manual skills in traditional culture, historical costumes, and art styles
+- Practical experience and judgment in making trade-offs within limited budgets and time
+- Need sensory intuition to personally experience textures, colors, and spatial feel.
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., DALL·E 3, Midjourney, CLO 3D)
+- Basic programming skills (Python scripts to assist parametric design and rendering)
+- VR/AR set design software (e.g., Unreal Engine or Unity stage visualisation modules)
+- Data analysis and project management tools (e.g., Trello, Notion integration)
+- Knowledge of sustainable materials and digital production methods (3D printing, laser cutting)
+- Cross-disciplinary communication and creative coaching skills (guiding AI-generated content and integrating it)
+
+**Key growth areas:**
 
 - Cultural Industry
 - Freelance Work
@@ -63,69 +99,68 @@ Stage and costume designers create visual concepts for theatrical, film, and tel
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于受雇于德国剧院或制作公司的设计师，需雇主提供合同 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许求职者来德国寻找工作，适用于有资质的创意人才 |
-| Subclass Freelancer Visa（Freelance Visa for Artists） | 适用于自由职业的舞台与服装设计师，需证明有稳定的项目和收入 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to designers employed by German theatres or production companies; employer contract required |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to come to Germany to find work, suitable for qualified creative talents |
+| Subclass Freelancer Visa (Freelance Visa for Artists) | Applicable for freelance stage and costume designers requiring proof of stable projects and income. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stage and Costume Designer？**
-- 具有艺术创意和视觉表现力的人
-- 能够适应自由职业和不稳定收入的人
-- 对戏剧、电影、电视制作充满热情的人
-
-**谁不适合学Stage and Costume Designer？**
-- 追求稳定收入和固定工作时间的人
-- 不喜欢竞争和不确定职业前景的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with artistic creativity and visual expression
+- Able to adapt to freelancing and irregular income
+- People passionate about drama, film, and TV production
+
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- People who dislike competition and uncertain career prospects
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for stage and costume designers in Germany?**
+A: Junior designer annual salary approximately 25,000-35,000 euros; intermediate around 35,000-50,000 euros; senior up to 70,000 euros; but freelancer income fluctuates significantly.
+
+**Q: How can non-EU citizens get a work visa as a stage and costume designer in Germany?**
+A: Can apply for a skilled worker visa (requires employer sponsorship), opportunity card (Chancenkarte), or artist freelance visa (requires proof of projects and income).
+
+**Q: Do stage and costume designers with non-German qualifications need credential recognition?**
+A: Usually no mandatory certification required, but employers may require degree equivalency; certification steps can be checked via the German Anabin database.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Stage and Costume Designer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for stage and costume designers in Germany?**
-答：Entry-level designers earn around €25,000-35,000, mid-level €35,000-50,000, and senior designers up to €70,000 annually, but freelancers have variable incomes.
-
-**问：How can non-EU citizens obtain a work visa as a stage and costume designer in Germany?**
-答：They can apply for a Skilled Worker visa (employer-sponsored), Opportunity Card (Chancenkarte), or Freelance Visa for artists (proof of projects and income required).
-
-**问：Do stage and costume designers with foreign qualifications need recognition in Germany?**
-答：Mandatory recognition is not required, but employers may want comparability; the Anabin database provides guidance.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

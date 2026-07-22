@@ -1,59 +1,92 @@
-# Meat Inspector（Meat Inspector）职业分析 · 新西兰
+# Meat Inspector — career analysis · New Zealand
 
-**职业代码：311312 – Meat Inspector。**
+**Occupation code: 311312 (ANZSCO)**
 
-Meat Inspectors examine carcasses and meat products in slaughterhouses and processing plants to ensure hygiene and safety standards. This occupation is on New Zealand's Green List, offering a clear residency pathway.
+Meat inspectors work in slaughterhouses and meat processing plants, checking meat for hygiene and safety standards to prevent disease spread. New Zealand offers direct residency via the Green List, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭（Level 5-6） | 1-2年 | $8,000~$20,000（例如新西兰理工学院（ITP）的肉类检验课程） |
-| 在职培训+注册 | 2-3年 | $3,000~$10,000（通过雇主支持完成新西兰肉类检验局（NZMPI）认证） |
+| Diploma (Level 5-6) | 1-2 years | $8,000~$20,000 (For example, the meat inspection course at a New Zealand Institute of Technology (ITP)) |
+| On-the-job training + registration | 2-3 years | $3,000~$10,000 (Complete New Zealand Meat Inspection (NZMPI) certification through employer support) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 肉类检验国家证书（Level 4） | 新西兰肉类检验局（NZMPI） | 必备 | 强制性注册证书，需通过理论和实践考试 |
-| 食品安全文凭 | 新西兰理工学院 | 可选 | 非强制但有助于就业 |
-| 雅思总分6.0 | IELTS | 必备 | 移民技术类别需满足英语要求 |
+| National Certificate in Meat Inspection (Level 4) | New Zealand Meat Processing Inspectorate (NZMPI) | Required | Mandatory registration certificate, requires passing theoretical and practical exams |
+| IELTS overall 6.0 | IELTS | Required | The skilled migration category requires meeting English language requirements |
+| Diploma in Food Safety | New Zealand Institute of Technology | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰肉类加工业是出口支柱产业，对检查员需求稳定。随着食品安全标准提升和出口增长，预计就业机会保持稳定，尤其在北岛主产区。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. New Zealand's meat processing industry is a key export sector with steady demand for inspectors. With rising food safety standards and export growth, employment opportunities are expected to remain stable, especially in the main production areas of the North Island.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 起薪约每小时23-26纽元 |
-| 中级（3-5年） | $55,000~$65,000 | 有经验后薪资可达每小时26-31纽元 |
-| 高级（5年以上） | $65,000~$80,000 | 高级或主管职位，年薪可达8万 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Starting salary approximately 23-26 NZD per hour |
+| Mid-level (3–5 years) | $55,000~$65,000 | With experience, salary can reach NZ$26-31 per hour |
+| Senior (5+ years) | $65,000~$80,000 | Senior or supervisory roles, annual salary up to $80,000 |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级检查员可在政府食品安全机构（如MPI）或大型加工厂晋升为高级检查员、团队主管或质量保证经理。积累经验后也可转向审计或政策岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance the detection accuracy and efficiency of meat inspectors, but will not replace their core judgment; after automating compliance and record-keeping tasks, humans can focus on higher-value work.
+
+Junior inspectors can advance to senior inspector, team leader, or quality assurance manager in government food safety agencies (e.g., MPI) or large processing plants. With experience, they can also transition to auditing or policy roles.
+
+**Tasks most exposed to AI:**
+
+- Automation of routine sensory inspection records (e.g., camera-based visual scoring)
+- Batch traceability and compliance document auto-generation
+- Preliminary screening of repetitive microbial sampling results
+- Daily patrol route planning and report filling
+
+**Where AI augments the role:**
+
+- AI vision and spectral analysis assist rapid identification of pathological tissues
+- Real-time data dashboards improve anomaly trend warning capabilities
+- AI prediction models optimize sampling plans and inspection frequencies.
+- Multilingual intelligent translation system to assist communication
+
+**Human moat:**
+
+- Statutory signing and supervisory accountability responsibilities
+- On-site comprehensive judgment (non-structured perception like smell, touch)
+- Emergency decision-making when handling public health incidents
+- Cross-department coordination and public communication skills
+
+**Skills to build:**
+
+- Data interpretation and use of AI-assisted decision-making tools
+- Statistics and basic machine learning concepts
+- Digital record and traceability system management
+- Cross-cultural communication skills (diverse workforce)
+- Willingness for continuous learning (tracking new regulations and new pathogens)
+- Basic programming and automation scripting
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Meat Inspectors examine carcasses and meat products in slaughterhouses and proce
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 肉类检查员在绿色清单第一层级，可直接申请居留，无需工作满两年。 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（学历+工作经验），可申请技术移民。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 通过认证雇主担保获得工签，积累经验后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meat inspectors are on Tier 1 of the Green List and can directly apply for residency without working for two years. |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (qualifications + work experience) to apply for skilled migration. |
+| Subclass AEWV (Accredited Employer Work Visa) | Obtain a work visa through accredited employer sponsorship, accumulate experience, then transition to residency. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meat Inspector？**
-- 注重细节、有责任心的人
-- 能适应屠宰场工作环境（气味、噪音）
-- 对食品安全法规有浓厚兴趣
-
-**谁不适合学Meat Inspector？**
-- 对血腥或动物尸体不适应
-- 不追求高薪（上限约8万纽元）
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and responsible individuals
+- Able to adapt to the slaughterhouse working environment (odors, noise)
+- Strong interest in food safety regulations
+
+**Who is not suited**
+- Not comfortable with blood or animal carcasses
+- Not pursuing high salary (cap around NZ$80,000).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for meat inspectors in New Zealand?**
+A: Entry-level salary about $48,000-$55,000 NZD, mid-level $55,000-$65,000, senior up to $80,000. Salary increases with experience and position.
+
+**Q: How can meat inspectors immigrate to New Zealand?**
+A: This occupation is on Tier 1 of the Green List, eligible for direct application for a Straight to Residence Visa. Also eligible for residence after gaining experience through an Accredited Employer Work Visa.
+
+**Q: What qualifications are needed to become a meat inspector in New Zealand?**
+A: Must obtain the New Zealand Meat Inspection Authority (NZMPI) National Certificate in Meat Inspection (Level 4), typically through on-the-job training or polytechnic courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Meat Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Meat Inspector in New Zealand?**
-答：Entry-level salary is around NZD 48,000-55,000, mid-level 55,000-65,000, and senior up to 80,000 annually.
-
-**问：How can a Meat Inspector immigrate to New Zealand?**
-答：This occupation is on the Green List Tier 1, allowing direct application for a Straight to Residence Visa. Alternatively, you can gain experience via an Accredited Employer Work Visa and then apply for residence.
-
-**问：What qualifications are required to become a Meat Inspector in New Zealand?**
-答：You must obtain the National Certificate in Meat Inspection (Level 4) from the New Zealand Meat Inspection Authority (NZMPI), typically through on-job training or a polytechnic course.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

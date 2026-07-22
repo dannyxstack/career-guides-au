@@ -1,60 +1,95 @@
-# Electrical Line Installers and Repairers（Electrical Line Installers and Repairers）职业分析 · ES
+# Electrical Line Installers and Repairers — career analysis · Spain
 
-**职业代码：7522 – Electrical Line Installers and Repairers。**
+**Occupation code: 7522 (CNO)**
 
-Install, maintain, and repair overhead and underground electrical power lines and related equipment to ensure safe and reliable electricity distribution. Tasks include climbing poles, splicing cables, and troubleshooting faults.
+Responsible for installing, maintaining, and repairing overhead and underground transmission lines, distribution lines, and related equipment to ensure the safe and stable operation of the power system. The work involves working at heights and in high-pressure environments, requiring strict compliance with safety regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP中等职业培训（Grado Medio） | 2年 | $300~$1,500（公立FP学费低，约300-600欧/年；私立稍高。） |
-| FP高等职业培训（Grado Superior） | 2年 | $400~$2,000（公立约400-800欧/年；私立约1500-2000欧/年。） |
-| 学徒制（Formación Profesional Dual） | 2-3年 | —（边学边赚，部分培训由企业承担。） |
+| FP Secondary Vocational Training (Grado Medio) | 2 years | $300~$1,500 (Public FP tuition is low, about 300-600 euros per year; Private schools are slightly higher.) |
+| FP Higher Vocational Training (Grado Superior) | 2 years | $400~$2,000 (Public about 400-800 euros per year; Private fees are about 1500-2000 euros per year.) |
+| Apprenticeship (Formación Profesional Dual) | 2-3 years | $0~$500 (Learn and earn money, with some training provided by the company.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气安装与维护FP中级证书 | 教育部或自治大区 | 必备 | 通常需完成Técnico en Instalaciones Eléctricas y Automáticas。 |
-| 高空作业安全认证 | 认证培训机构 | 必备 | 西班牙法律规定从事高空线路作业必须持有。 |
-| 高压电操作授权 | 企业或电力公司内部 | 可选 | 通常由雇主提供专项培训并授权。 |
+| Intermediate Certificate in Electrical Installation and Maintenance FP | Ministry of Education or autonomous region | Required | Usually, Técnico en Instalaciones Eléctricas y Automáticas must be completed. |
+| Certification for working at heights | Accredited training organization | Required | Spanish law requires those working on high-altitude lines to hold a license. |
+| High-voltage electrical operation authorization | Within enterprises or power companies | Optional | Typically, employers provide specialized training and authorization. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 22,000。西班牙正加大电网现代化和可再生能源并网投资，电力线路安装与维修工需求稳定。2024-2025年预计年增长率约2-3%，因退休人员多，新血补充缺口持续。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 22,000. Spain is increasing investment in grid modernization and renewable energy integration, with stable demand for power line installation and maintenance workers. The annual growth rate for 2024-2025 is expected to be about 2-3%, due to a large number of retirees and a persistent gap in new blood replenishment.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 多为学徒或辅助技工。 |
-| 中级（3-7年） | $28,000~$36,000 | 可独立作业，部分带徒。 |
-| 高级（8年以上） | $36,000~$48,000 | 含主管、应急抢修专家等。 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Most were apprentices or assistant technicians. |
+| Mid-level (3–7 years) | $28,000~$36,000 | Can work independently, with some apprentices. |
+| Senior (8+ years) | $36,000~$48,000 | Including supervisors, emergency repair experts, etc. |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒或FP中级晋升至高级技工或团队主管，再至项目协调或安全督导。部分人通过进修转至电气工程技术员或电网规划岗位。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
+
+You can advance from apprentice or intermediate FP to senior technician or team leader, and then to project coordination or safety supervisor. Some transfer through further studies to positions as electrical engineering technicians or grid planning.
+
+**Tasks most exposed to AI:**
+
+- Use drones for automatic inspection of overhead lines, replacing manual visual checks
+- AI analyzes historical data to predict equipment failures, replacing periodic manual inspections
+- GIS system automatically generates optimal maintenance routes, reducing manual route planning
+- Online monitoring sensors transmit data in real time, no need for manual periodic recording
+
+**Where AI augments the role:**
+
+- AR glasses overlaying circuit diagrams and real-time parameters to enhance live-line work safety and efficiency
+- AI fault diagnosis system assists in identifying abnormal signals, speeding up troubleshooting
+- Use digital twin simulations for grid load to optimize construction and maintenance plans
+- Wearable Devices Monitor Vital Signs to Warn of Fatigue or Hazardous Conditions
+- UAV and Robot-Assisted High-Altitude Cable Connection to Reduce Fall Risk
+
+**Human moat:**
+
+- Comprehensive assessment of physical environment (weather, terrain, load) during live-line repairs
+- Practical ability to flexibly adjust construction steps in complex wiring scenarios
+- Creative problem-solving for non-standard faults (e.g., lightning strikes, animal damage)
+- Physical coordination and risk management for working at heights or in confined spaces
+- Responsibility for real-time communication and coordination with dispatch centers and field teams
+
+**Skills to build:**
+
+- Drone operation and flight planning (CASA certified)
+- GIS and digital grid platforms (e.g., ArcGIS) application
+- Basic Python scripts for data organization
+- Operation and maintenance of AR/VR-assisted tools
+- Interpreting Smart Sensor Data Dashboards
+- Human-machine collaboration communication and safety procedures in high-pressure environments
+
+**Key growth areas:**
 
 - Grid Modernization
 - Renewable Energy Integration
@@ -63,68 +98,67 @@ Install, maintain, and repair overhead and underground electrical power lines an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa (Employed)） | 需西班牙雇主提供工作合同，且岗位为紧缺职业可简化流程。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需高等学历（至少Grado）及高于平均薪资的合同，但本职业通常不要求本科，难以达标。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高技能管理或技术岗，但本职业通常不匹配。 |
+| Subclass Cuenta ajena (Work Contract Visa (Employed)) | A job contract from a Spanish employer is required, and the process can be simplified if the position is in a shortage occupation. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Requires higher education (at least a bachelor's degree) and a contract with above-average salary, but this occupation usually does not require a bachelor's degree, making it difficult to meet the standard. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for high-skilled management or technical positions, but these professions are usually mismatched. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Line Installers and Repairers？**
-- 喜欢户外工作、不惧高空且体力强健者
-- 适应团队协作和严格安全规范的人
-- 希望在西班牙获得稳定职业并可能移民的技工
-
-**谁不适合学Electrical Line Installers and Repairers？**
-- 有严重恐高症或身体条件难以承受高强度体力劳动
-- 偏好室内办公且厌恶危险工作环境者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy working outdoors, are not afraid of heights, and are physically strong
+- People who adapt to teamwork and strict safety standards
+- Skilled workers who wish to secure stable employment in Spain and may immigrate
+
+**Who is not suited**
+- Those with severe acrophobia or physical conditions that make it difficult to endure high-intensity physical labor
+- Those who prefer indoor work and dislike hazardous work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for power line installers and maintenance workers in Spain?**
+A: Pre-tax annual salary is about 22,000-48,000 euros, entry-level salary about 22,000-28,000 euros, and seniors up to 36,000-48,000 euros. Overtime and hazard pay can increase income.
+
+**Q: How difficult is it for foreigners to immigrate to Spain through this occupation?**
+A: This occupation is a shortage occupation in Spain; immigration via a work contract (Cuenta ajena) is relatively feasible but usually requires FP qualifications and Spanish language ability. The EU Blue Card (degree requirement) is less applicable.
+
+**Q: What training is required for this occupation?**
+A: Typically, you need to complete a 2-year FP Intermediate (Grado Medio) electrical installation program, but apprenticeships are also available. High-altitude work safety certification is a statutory requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electrical Line Installers and Repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for electrical line installers and repairers in Spain?**
-答：Gross annual salary ranges from €22,000 to €48,000, with entry-level earning €22,000-€28,000 and experienced over €36,000. Overtime and hazard pay can increase earnings.
-
-**问：How difficult is it for foreign workers to migrate to Spain through this occupation?**
-答：As a shortage occupation, migration via a work contract (Cuenta ajena) is feasible but usually requires FP vocational training and Spanish language skills. The EU Blue Card is less suitable due to its bachelor's degree requirement.
-
-**问：What training is required for this occupation?**
-答：Usually a 2-year intermediate FP (Grado Medio) in electrical installations, or an apprenticeship. A height safety certificate is legally required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

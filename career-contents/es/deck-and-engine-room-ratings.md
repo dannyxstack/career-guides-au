@@ -1,61 +1,97 @@
-# Deck and Engine Room Ratings（Deck and Engine Room Ratings）职业分析 · ES
+# Deck and Engine Room Ratings — career analysis · Spain
 
-**职业代码：8340 – Deck and Engine Room Ratings。**
+**Occupation code: 8340 (CNO)**
 
-Perform routine deck and engine room duties on merchant or fishing vessels, including mooring, lookout, cleaning, and assisting engineers.
+Perform daily maintenance, operation, and auxiliary work for deck and engine room on merchant or fishing vessels, including mooring, lookout, cleaning, and engine assistance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 1-2年（航海与渔业专业） | $1,000~$4,000（公立学校免费或低学费，私立需付费） |
-| 短期培训课程（STCW基本安全培训） | 2-4周 | $500~$1,500（强制性的STCW证书课程费用） |
+| Vocational Training (FP Grado Medio) | 1-2 years (Navigation and Fisheries major) | $1,000~$4,000 (Public schools offer free or low tuition, while private schools require payment) |
+| Short-term Training Course (STCW Basic Safety Training) | 2-4 weeks | $500~$1,500 (Mandatory STCW certificate course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW基本安全培训 | 西班牙海事局认可培训机构 | 必备 | 强制要求，涵盖海上求生、消防急救等 |
-| 马林诺（Marinero）证书 | Dirección General de la Marina Mercante | 必备 | 甲板水手需要，完成规定海上服务后颁发 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 外国学历需认证以便晋升高级职位 |
+| STCW Basic Safety Training | Certified training institution by the Spanish Maritime Authority | Required | Mandatory requirements, covering maritime survival, firefighting, and first aid |
+| Marinero's certificate | Dirección General de la Marina Mercante | Required | Deck sailors are required and awarded after completing the required sea service |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Foreign qualifications must be authenticated to facilitate advancement to senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙航运业稳定需求，但职位数量有限且竞争中等，受欧盟海事法规影响。沿海地区就业机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Spain's shipping industry has stable demand, but the number of positions is limited and competition is moderate, and it is affected by EU maritime regulations. There are more job opportunities in coastal areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，包括海上津贴 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪，取决于船型和航线 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，高级水手或机工长 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, including marine allowance |
+| Mid-level (3–7 years) | $24,000~$32,000 | Pre-tax annual salary depends on the type of ship and route |
+| Senior (7+ years) | $32,000~$42,000 | Pre-tax annual salary, senior sailor or foreman |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从普通水手晋升至高级水手或轮机员，需考取STCW证书及积累海上资历。少数人可升至船长或轮机长。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Deck and cabin positions such as seafarers and cabin workers face high risks of automated replacement, especially repetitive lookout, cleaning, and record-keeping tasks, but complex sea operations and emergency response still require human judgment.
+
+Candidates can be promoted from ordinary seamen to senior seamen or engineers, requiring the STCW certificate and the accumulation of maritime experience. A few could be promoted to captain or chief engineer.
+
+**Tasks most exposed to AI:**
+
+- Automatic lookout and collision warning systems replace manual lookouts
+- Automated monitoring and alarm of engine room equipment replace manual inspections
+- The Automatic Identification System (AIS) replaces manual recording
+- The automatic mooring system replaces manual cable throwing and mooring
+- Hull cleaning robots replace manual underwater cleaning
+
+**Where AI augments the role:**
+
+- AI decision support systems assist captains in optimizing routes and fuel efficiency
+- Digital twin technology assists in cabin fault prediction and maintenance planning
+- Augmented reality (AR) headsets assist with complex repair tasks
+- Automated report generation tools reduce paperwork, allowing sailors to focus on critical operations
+- AI-driven safety training simulators enhance emergency drill effectiveness
+
+**Human moat:**
+
+- Quick decision-making and flexible response in emergencies
+- Experience operating in adverse weather and non-standard sea conditions
+- Teamwork and communication (especially in emergencies)
+- Intuitive judgment and physical perception of the overall condition of the vessel
+- Legal and safety compliance responsibilities (such as executing captain orders)
+
+**Skills to build:**
+
+- Ship automation system monitoring and initial fault diagnosis
+- Data Analysis Basics (for Understanding Ship Performance Reports)
+- Use of digital tools (electronic charts, automatic identification systems, etc.)
+- Emergency Management and Crisis Communication
+- Basic programming or scripting skills (for automated reporting)
+- Cross-cultural teamwork and English communication
+
+**Key growth areas:**
 
 - Maritime
 - STCW
@@ -64,65 +100,67 @@ Perform routine deck and engine room duties on merchant or fishing vessels, incl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employee)） | 需雇主担保工作合同，且证明职位无法在欧盟内填补，难度较大。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许入境寻找工作，但需符合高技能要求，本职业通常不满足。 |
+| Subclass Cuenta ajena (Work Permit (Employee)) | Requires employer-sponsored work contract and proof that the position cannot be filled within the EU, which is quite difficult. |
+| Subclass Busqueda empleo (Job Search Visa) | Entry is allowed to seek work, but it must meet high-skill requirements, which this occupation usually does not fulfill. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Deck and Engine Room Ratings？**
-- 喜欢航海和海上生活的人
-- 愿意接受体力劳动和长时间离家
-- 有志于从基层积累经验晋升海员
+**Who is suited**
+- People who enjoy sailing and life at sea
+- Willing to accept physical labor and long periods away from home
+- Aspiring to gain experience from the grassroots and advance to seafarer
 
-**谁不适合学Deck and Engine Room Ratings？**
-- 晕船或无法适应海上颠簸环境
-- 追求稳定双休日和陆地生活
+**Who is not suited**
+- Seasickness or difficulty adapting to turbulent seafaring environments
+- Seeking stable weekends and land living
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of Spanish sailors?**
+A: Entry-level: about 18,000-24,000 euros/year, increasing with experience and level, senior can reach 32,000-42,000 euros/year.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: High difficulty, usually requires EU nationality or existing work permit, and employer must prove no suitable candidate from within the EU.
+
+**Q: What essential certifications are needed?**
+A: Must hold STCW Basic Safety Training certificate and the Marino certificate issued by the Spanish Maritime Authority.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Deck and Engine Room Ratings属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a deck rating in Spain?**
-答：Entry-level around €18,000-€24,000 per year, senior up to €32,000-€42,000.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It's difficult, usually requires EU citizenship or a work permit, and employers must prove the position cannot be filled within the EU.
-
-**问：What certifications are mandatory?**
-答：STCW Basic Safety Training certificate and the Marinero certificate from the Spanish Merchant Marine Directorate.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

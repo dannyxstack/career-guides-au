@@ -1,59 +1,94 @@
-# Industrial Relations Officer（Industrial Relations Officer）职业分析 · 新西兰
+# Industrial Relations Officer — career analysis · New Zealand
 
-**职业代码：223213 – Industrial Relations Officer。**
+**Occupation code: 223213 (ANZSCO)**
 
-Industrial Relations Officers in New Zealand handle employment relations, including wage negotiations, dispute resolution, and compliance. This role offers visa pathways through Skilled Migrant Category or Green List, with stable job prospects.
+Industrial relations specialists in New Zealand handle labor relations between employers and employees, including salary negotiations, dispute mediation, and compliance. This occupation can apply for immigration through skilled migration or Green List pathways, with stable employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（劳动关系/人力资源管理） | 3年 | $30,000~$50,000（新西兰大学年均学费，含生活费约2万/年） |
-| 研究生文凭（雇佣关系） | 1年 | $25,000~$40,000（如奥塔哥大学研究生文凭课程） |
+| Bachelor's degree (Labor Relations / Human Resource Management) | 3 years | $30,000~$50,000 (Average annual university tuition in New Zealand, including living costs, about $20,000 per year) |
+| Graduate Diploma (Employment Relations) | 1 year | $25,000~$40,000 (e.g., University of Otago postgraduate diploma course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 劳动关系顾问认证 | 新西兰人力资源管理研究所（HRNZ） | 可选 | 非强制，但提升就业竞争力 |
-| 英语能力证明（IELTS 6.5） | 雅思考试 | 必备 | 技术移民要求，每项不低于6.0 |
-| 新西兰雇佣关系法短课程 | 新西兰劳工部/行业协会 | 可选 | 建议完成，了解本地法规 |
+| English proficiency proof (IELTS 6.5) | IELTS test | Required | Skilled migration requirement: minimum 6.0 in each band |
+| Certification as a Labor Relations Consultant | Human Resources Institute of New Zealand (HRNZ) | Optional | Not mandatory, but enhances employment competitiveness |
+| Short course on New Zealand employment relations law | New Zealand Department of Labour / Industry Associations | Optional | Recommended to complete to understand local regulations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,200。随着新西兰劳动法更新和工会活跃度上升，劳资关系专员需求稳定。预计未来5年岗位数量小幅增长，主要集中于奥克兰、惠灵顿等大城市。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. With updates to New Zealand labor laws and rising union activity, demand for labor relations specialists is stable. The number of positions is expected to grow slightly over the next 5 years, mainly in large cities like Auckland and Wellington.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 应届生或初级职位 |
-| 中级（3-6年） | $75,000~$95,000 | 有经验专员 |
-| 高级（6年以上） | $100,000~$130,000 | 资深顾问或管理岗 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level or junior positions |
+| Mid-level (3–6 years) | $75,000~$95,000 | Experienced specialist |
+| Senior (6+ years) | $100,000~$130,000 | Senior consultant or management role |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级专员可晋升为高级顾问或劳动关系经理，部分转向人力资源或法律咨询。积累经验后，可担任仲裁员或企业劳动关系总监。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The tasks of labor relations specialists can be partially automated by AI, such as data analysis and document generation, but core negotiation, mediation, and compliance judgment still require human expertise, making it a human-machine collaboration occupation
+
+Junior specialists can advance to senior consultants or labor relations managers, some shift to HR or legal consulting. With experience, can become arbitrators or corporate labor relations directors.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft labor agreements and policy documents
+- Analyze employee satisfaction surveys and industry salary data to generate reports.
+- Monitor Labor Regulation Updates and Push Compliance Reminders
+- Handling routine employee inquiries (chatbots)
+- Organizing and archiving labor dispute case database
+
+**Where AI augments the role:**
+
+- AI-driven predictive models to assess labour dispute risks
+- Natural language processing to quickly extract key clauses and compare legal requirements
+- Smart dashboards for real-time tracking of industry salary benchmarks and internal equity
+- Automatically generate multi-scenario negotiation simulations for training
+- AI-assisted drafting of persuasive mediation recommendations
+
+**Human moat:**
+
+- Empathy and trust building in face-to-face mediation and conflict resolution
+- Real-time adjustment and on-the-spot judgment in complex labor negotiation strategies
+- Understanding and Maintaining Corporate Culture and Interpersonal Networks
+- Discretion and accountability related to legal interpretation
+
+**Skills to build:**
+
+- Use AI data analysis tools (such as Python/Power BI) to process salary data
+- Proficiency in HR SaaS platforms (e.g., Workday, SAP SuccessFactors)
+- Study mediation and negotiation psychology courses
+- Understand AI compliance systems for labor law (e.g., LawGeex)
+- Enhance digital communication and remote collaboration skills
+- Learning project management tools (e.g., Jira, Asana)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +97,67 @@ Industrial Relations Officers in New Zealand handle employment relations, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+工作经验+新西兰工作offer），可申请居留。需获得认证雇主offer。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 需从事相关职业满2年，薪资达到中位数，可申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主担保，工作3年后可申请居留。 |
+| Subclass SMC (Skilled Migrant Category) | Applicable for residence if meet the 6-point system (qualifications + work experience + NZ job offer). Must have an accredited employer job offer. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Must work in a relevant occupation for 2 years, meet median salary, and can apply for residency. |
+| Subclass AEWV (Accredited Employer Work Visa) | Obtain certified employer sponsorship and apply for residence after 3 years of work. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Relations Officer？**
-- 具备良好沟通和谈判能力的人
-- 对劳动法律和政策有浓厚兴趣
-- 希望在稳定行业建立长期职业的人
-
-**谁不适合学Industrial Relations Officer？**
-- 不擅长处理冲突和高压场景的人
-- 希望快速获得高薪或轻松工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with good communication and negotiation skills
+- Strong interest in labor law and policy
+- People who want to build a long-term career in a stable industry
+
+**Who is not suited**
+- People not good at handling conflict and high-pressure situations
+- Those seeking quick high pay or easy work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Labour Relations Specialists?**
+A: Entry-level annual salary approx. NZD 55k-70k, mid-level NZD 75k-95k, senior NZD 100k-130k.
+
+**Q: What are the immigration pathways for this occupation?**
+A: Can immigrate through Skilled Migrant Category (SMC), Green List Tier 2 (Work to Residence), or Accredited Employer Work Visa (AEWV).
+
+**Q: What qualifications are required?**
+A: Typically requires a bachelor's or graduate degree in labor relations, HR management, or related field; some employers accept equivalent experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial Relations Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Industrial Relations Officers?**
-答：Entry level: NZD 55,000-70,000; mid-level: NZD 75,000-95,000; senior: NZD 100,000-130,000.
-
-**问：What are the migration pathways for this occupation?**
-答：Skilled Migrant Category, Green List Tier 2 (Work to Residence), or Accredited Employer Work Visa.
-
-**问：What qualifications are required?**
-答：A bachelor's or postgraduate degree in industrial relations, HR, or related field. Some employers accept equivalent experience.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

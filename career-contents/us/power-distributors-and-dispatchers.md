@@ -1,59 +1,92 @@
-# Power Distributors and Dispatchers（Power Distributors and Dispatchers）职业分析 · 美国
+# Power Distributors and Dispatchers — career analysis · United States
 
-**职业代码：51-8012 – Power Distributors and Dispatchers。**
+**Occupation code: 51-8012 (SOC)**
 
-Coordinate, regulate, or distribute electricity or steam to ensure grid stability, monitor load, and dispatch generation resources.
+Coordinates, regulates, or distributes electricity or steam to ensure grid stability, monitors load, and dispatches generation resources.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 在职培训 | 1-2年 | —（雇主提供带薪培训） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| On-the-job training | 1-2 years | $0~$0 (Employer-provided paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 系统操作员认证 | NERC | 必备 | 北美电力可靠性公司颁发的系统操作员认证 |
-| 电力调度员执照 | 州级监管机构 | 可选 | 部分州要求持有低压或高压调度执照 |
-| 副学士学位 | 社区学院 | 可选 | 电气技术或相关领域 |
+| System operator certification | NERC | Required | System Operator Certification from the North American Electric Reliability Corporation |
+| Power dispatcher license | State regulatory body | Optional | Some states require low-voltage or high-voltage dispatch license |
+| Associate degree | Community college | Optional | Electrical technology or related field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 10,400。美国电力行业正经历能源转型，可再生能源并网和电网现代化推升了电力调度员的需求，但自动化和远程监控技术可能减缓岗位增长速度。
+**Job demand: high (★★★★☆).** National workforce approx. 10,400. The US electric power industry is undergoing an energy transition; renewable energy integration and grid modernization are increasing demand for power dispatchers, but automation and remote monitoring may slow job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 含基本工资和轮班津贴 |
-| 中级（3-7年） | $75,000~$95,000 | 经验和认证提升薪资 |
-| 高级（7年以上） | $95,000~$120,000 | 资深调度员或主管级别 |
+| Median salary | $106,730 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Includes base salary and shift allowances |
+| Mid-level (3–7 years) | $75,000~$95,000 | Experience and certifications increase salary |
+| Senior (7+ years) | $95,000~$120,000 | Senior dispatcher or supervisor level |
+| average salary | $111,320 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级调度员起步，积累经验后可晋升为高级调度员、电网运营经理或控制中心主管；部分人员转向能源交易或电网规划岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of power distributors and dispatchers is being deeply reshaped by AI and automation: real-time monitoring and routine load distribution will be taken over by AI, but emergency decision-making and complex coordination still require human judgment, presenting a mixed outlook.
+
+Start as a junior dispatcher; with experience, advance to senior dispatcher, grid operations manager, or control center supervisor; some transition to energy trading or grid planning roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time power load monitoring and automatic frequency regulation (AI algorithm takes over SCADA system)
+- Routine dispatch of conventional power generation resources and unit start/stop (AI-optimized dispatch model)
+- Electricity market quoting and trading execution (algorithmic trading systems replacing manual operations)
+- Daily operation log recording and report generation (AI automated collection and analysis)
+
+**Where AI augments the role:**
+
+- AI early warning and anomaly detection: identify grid instability risks in advance, enhance situational awareness
+- New energy and distributed energy coordination optimization: AI-assisted multi-source scheduling strategy
+- Emergency drills and training: AI simulates various accident scenarios to improve response capabilities
+- Load forecasting accuracy improvement: AI combines weather and user data to assist medium- and long-term planning
+
+**Human moat:**
+
+- emergency incident handling and grid restoration decisions (unpredictable complex situations)
+- Multi-stakeholder coordination (communication with power plants, grid, users, regulators)
+- Intuitive judgment based on experience (e.g., non-standard operations in extreme weather)
+- Legal and safety responsibility bearing (final sign-off authority on dispatch instructions)
+
+**Skills to build:**
+
+- Power system automation and SCADA/EMS system operation
+- Data analysis and visualization tools (Python, SQL, Tableau)
+- Basics of energy storage and new energy dispatch technology
+- Electricity market operation mechanisms and trading rules
+- AI/Machine Learning basics (understanding prediction model outputs and limitations).
+- Crisis communication and decision psychology
+
+**Key growth areas:**
 
 - Grid Modernization
 - Renewable Integration
@@ -62,68 +95,67 @@ Coordinate, regulate, or distribute electricity or steam to ensure grid stabilit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需要专业知识的电力调度岗位，需大学学位或同等经验。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 通过PERM劳工认证，适用于熟练电力调度员申请绿卡。 |
-| Subclass Green Card (PERM)（Permanent Employment-Based Green Card） | 雇主担保的绿卡路径，需证明无法找到合格美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to power dispatch roles requiring specialized knowledge, needs university degree or equivalent experience. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Through PERM labor certification, applicable for skilled power dispatchers applying for a green card. |
+| Subclass Green Card (PERM) (Permanent Employment-Based Green Card) | Employer-sponsored green card pathway, requiring proof that no qualified US worker can be found. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Power Distributors and Dispatchers？**
-- 擅长在多任务高压环境下工作
-- 对电力系统和电网运营有浓厚兴趣
-- 能适应轮班制工作
-
-**谁不适合学Power Distributors and Dispatchers？**
-- 不适应高强度工作压力
-- 对技术细节和复杂系统缺乏耐心
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at working in a multitasking, high-pressure environment
+- Strong interest in power systems and grid operations
+- Those able to adapt to shift work
+
+**Who is not suited**
+- Not suited to high-intensity work pressure
+- Lacks patience for technical details and complex systems
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a power dispatcher?**
+A: Annual salary typically ranges from USD 55,000 to 120,000, depending on experience, certifications, and region.
+
+**Q: Can foreigners become US power dispatchers through an H-1B visa?**
+A: Yes, but requires employer sponsorship and proof that the position requires specialized knowledge; usually an associate degree or equivalent experience.
+
+**Q: What education is required to become a power dispatcher?**
+A: Typically requires an associate degree or completion of on-the-job training, and must pass the NERC system operator certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等偏高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Power Distributors and Dispatchers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for power distributors and dispatchers?**
-答：Annual salaries typically range from $55,000 to $120,000, depending on experience, certifications, and location.
-
-**问：Can foreigners become US power distributors and dispatchers via H-1B visa?**
-答：Yes, but requires employer sponsorship and a position requiring specialized knowledge; typically an associate degree or equivalent experience.
-
-**问：What education is required to become a power distributor?**
-答：Typically an associate degree or on-the-job training, plus mandatory NERC system operator certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

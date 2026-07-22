@@ -1,59 +1,90 @@
-# Electronic Equipment Installers and Repairers, Motor Vehicles（Electronic Equipment Installers and Repairers, Motor Vehicles）职业分析 · 美国
+# Electronic Equipment Installers and Repairers, Motor Vehicles — career analysis · United States
 
-**职业代码：49-2096 – Electronic Equipment Installers and Repairers, Motor Vehicles。**
+**Occupation code: 49-2096 (SOC)**
 
-Install, diagnose, or repair communications, sound, security, or navigation equipment in motor vehicles. Typically employed by car dealerships, electronics stores, or specialized service companies.
+Responsible for installing, diagnosing, and repairing communication, audio, security, or navigation electronic equipment in motor vehicles. Typically employed by car dealers, electronics stores, or specialized service companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立学校免费） |
-| 职业证书培训 | 6-12个月 | $5,000~$15,000（社区学院或技术学校） |
+| High school diploma or equivalent | 12 years | $0~$0 (Free public schools.) |
+| Vocational certificate training | 6–12 months | $5,000~$15,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本要求 |
-| 在职培训 | 雇主 | 必备 | 通常由雇主提供1-3个月培训 |
-| 自愿认证（如MECP认证） | Mobile Electronics Certification Program | 可选 | 提升竞争力，非强制 |
+| High school diploma or equivalent | High school | Required | Basic requirements |
+| On-the-job training | Employer | Required | Typically employer-provided training for 1-3 months. |
+| Voluntary certification (e.g., MECP certification) | Mobile Electronics Certification Program | Optional | Increases competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 14,500。随着汽车电子化程度提高，尤其是车载娱乐、导航和安全系统的普及，该职业需求保持稳定。但就业增长受限于自动驾驶技术发展可能替代部分工作。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,500. With increasing vehicle electronics, especially in-car entertainment, navigation, and safety systems, demand for this occupation remains stable. However, employment growth is limited as autonomous driving technology may replace some jobs.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级安装员 |
-| 中级（3-7年） | $40,000~$55,000 | 独立维修员 |
-| 高级（7年以上） | $55,000~$70,000 | 高级技师或主管 |
+| Median salary | $48,420 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level installer |
+| Mid-level (3–7 years) | $40,000~$55,000 | Independent repairer |
+| Senior (7+ years) | $55,000~$70,000 | Senior technician or supervisor |
+| average salary | $51,560 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级安装员晋升为高级维修技师、团队主管或店长。积累经验后可转向汽车电子系统设计或技术培训岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI/automation has mixed impact on motor vehicle electronic equipment installers and repairers: diagnostic and configuration tasks can be AI-enhanced, but physical installation and complex troubleshooting still rely on humans; entry-level positions narrow due to standardized diagnostic tools, but demand for advanced repairs increases.
+
+Can advance from junior installer to senior maintenance technician, team supervisor, or store manager. With experience, can transition to automotive electronics system design or technical training roles.
+
+**Tasks most exposed to AI:**
+
+- Using standard diagnostic tools such as OBD-II scanners for code reading and initial fault diagnosis
+- Configure and set parameters for routine electronic devices according to preset procedures
+- Answer common user questions via voice or text interface (e.g., equipment operation guides)
+
+**Where AI augments the role:**
+
+- AI-assisted complex fault diagnosis: analyzing historical data and circuit diagrams to locate rare issues
+- Real-time AR/VR maintenance guidance: overlays disassembly steps and wiring diagrams on the actual vehicle
+- Predictive maintenance planning: recommend equipment servicing in advance based on vehicle data
+- Intelligent analysis of customer needs: quickly recommend compatible electronic device solutions
+
+**Human moat:**
+
+- Physical installation and wiring: involves fine manual tasks like removing car interior trim and customizing harnesses
+- Non-standard modifications: installing personalized electronic devices on special or older vehicle models
+- Emergency on-site repair: quickly diagnose and fix anomalies under limited conditions
+- Client communication and satisfaction: explain technical issues and manage expectations
+
+**Skills to build:**
+
+- Proficiency in using AI diagnostic tools and interpreting raw data
+- Learn in-vehicle networks (CAN/LIN) and basic software programming.
+- Obtain advanced electronic repair certification (e.g., ASE L1)
+- Enhance communication and customer service skills to meet high-end modification needs
+- Learn the operation and maintenance of AR/VR-assisted repair systems
+
+**Key growth areas:**
 
 - Vehicle Electronics
 - Infotainment Systems
@@ -62,68 +93,67 @@ Install, diagnose, or repair communications, sound, security, or navigation equi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需专业职位，通常要求等同于学士学位的学历或经验。若雇主能证明职位复杂可尝试。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 技术工人绿卡，需2年培训或经验。PERM劳工证流程，但此类职业通常申请较少。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于极少数杰出人才，不普遍。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Professional role requiring a qualification equivalent to a bachelor's degree or experience. Employers may apply if the role is complex. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Skilled worker green card requires 2 years of training or experience. PERM labor certification process, but such occupations typically have fewer applications. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable only to a very few outstanding talents, not common. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronic Equipment Installers and Repairers, Motor Vehicles？**
-- 喜欢动手维修电子产品的人
-- 对汽车电子系统感兴趣的人
-- 能适应站立工作和偶尔出差
-
-**谁不适合学Electronic Equipment Installers and Repairers, Motor Vehicles？**
-- 讨厌繁琐接线和诊断工作
-- 对机械或电子无兴趣
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on electronic repair
+- People interested in automotive electronic systems
+- Able to handle standing work and occasional travel
+
+**Who is not suited**
+- Those who dislike tedious wiring and diagnostic work
+- No interest in machinery or electronics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level?**
+A: According to BLS data, median annual salary ~$42,000; entry-level ~$30,000; senior up to $70,000. Experience and certifications affect pay.
+
+**Q: Is it easy to immigrate to the United States?**
+A: This occupation is not in a STEM high-demand field; H-1B or green card applications are difficult to approve and require strong employer support. Typically, many years of experience or shifting to related engineering roles is recommended.
+
+**Q: What certification is needed?**
+A: No mandatory certification, but MECP certification can increase employment opportunities. Employers usually provide on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electronic Equipment Installers and Repairers, Motor Vehicles的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level?**
-答：According to BLS, median annual wage is about $42,000, entry-level around $30,000, senior up to $70,000. Experience and certifications affect pay.
-
-**问：Is immigration to the US easy?**
-答：This occupation is not a STEM high-demand field; H-1B or green card may be difficult without strong employer support. Usually recommended to gain experience or transition to related engineering roles.
-
-**问：What certifications are needed?**
-答：No mandatory certification, but MECP certification can improve job prospects. Employers typically provide on-the-job training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

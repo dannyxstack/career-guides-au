@@ -1,61 +1,96 @@
-# Camera and Photographic Equipment Repairers（Camera and Photographic Equipment Repairers）职业分析 · 美国
+# Camera and Photographic Equipment Repairers — career analysis · United States
 
-**职业代码：49-9061 – Camera and Photographic Equipment Repairers。**
+**Occupation code: 49-9061 (SOC)**
 
-Repair and adjust cameras and photographic equipment, including commercial video and motion picture camera equipment. Requires precision skills and electronics knowledge.
+Repair and adjust cameras and photographic equipment, including commercial video and cinematography equipment. Requires precision skills and electronics knowledge.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业培训或副学士学位 | 1-2年 | $5,000~$20,000（社区学院或技术学校学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training or associate degree | 1-2 years | $5,000~$20,000 (Community college or technical school tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子学或相关领域副学士学位 | 社区学院 | 可选 | 有助于理解电路和维修原理 |
-| 制造商的认证培训 | 相机厂商（如佳能、尼康） | 可选 | 提高维修特定品牌设备的能力 |
-| 维修技师认证 | 电子技术认证组织（如ETA） | 可选 | 非必需但可增强竞争力 |
+| Associate degree in Electronics or related field | Community college | Optional | Helps understand circuits and repair principles |
+| Manufacturer's certified training | Camera manufacturers (e.g., Canon, Nikon) | Optional | Improve ability to repair specific brand equipment |
+| Maintenance technician certification | Electronic Technology Certification Organization (e.g., ETA) | Optional | Not essential but can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很低（★☆☆☆☆）。** 全国从业人数约 3,800。受数码相机普及和手机摄影冲击，就业机会较少，预计2023-2033年岗位数基本持平或小幅下降。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 3,800. Impacted by digital cameras and mobile photography, job opportunities are limited, with positions expected to remain flat or decline slightly from 2023-2033.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级修理厂或小型商店 |
-| 中级（3-7年） | $38,000~$48,000 | 有经验的技师，可能任职于专业维修中心 |
-| 高级（7年以上） | $48,000~$60,000 | 资深专家或自雇，服务高端客户 |
+| Median salary | $52,720 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level repair shops or small stores |
+| Mid-level (3–7 years) | $38,000~$48,000 | Experienced technician, possibly working in a specialized repair center. |
+| Senior (7+ years) | $48,000~$60,000 | Senior expert or self-employed, serving high-end clients |
+| average salary | $56,040 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可晋升为高级技师或转向设备销售、技术服务管理；也可专攻高端电影摄影设备维修。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI can assist in diagnosing camera faults and optimizing repair processes, but due to precision mechanical adjustments and physical part replacement, cannot be fully automated; apprenticeship positions are decreasing, but senior repair technicians are still needed.
+
+Can advance to senior technician or move into equipment sales, technical service management; or specialize in high-end film camera equipment repair.
+
+**Tasks most exposed to AI:**
+
+- Basic fault diagnosis (e.g., reading error codes)
+- Calibration parameter recording and comparison
+- Maintenance report generation and customer communication
+- Inventory parts lookup and ordering
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems (e.g., image recognition for fault points)
+- 3D model guides precision disassembly and assembly
+- AI-driven firmware updates and tuning
+- Real-time remote expert collaboration and augmented reality guidance
+- Data analysis to predict part life and preventive maintenance
+
+**Human moat:**
+
+- Precision mechanical adjustments and manual calibration
+- Creative problem-solving for non-standard faults
+- Understanding of optical and electronic system integration
+- Client Trust and On-site Service Capability
+- Modification and customization
+
+**Skills to build:**
+
+- Principles of digital imaging systems
+- Embedded systems and firmware update skills
+- Use and basic maintenance of AI diagnostic tools
+- 3D printed parts manufacturing
+- Augmented Reality (AR)-Assisted Maintenance
+- Customer communication and technical explanation
+
+**Key growth areas:**
 
 - Declining employment
 - Technological change
@@ -64,66 +99,68 @@ Repair and adjust cameras and photographic equipment, including commercial video
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少用于此职业，因通常不满足专业职业要求 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于在摄影设备维修领域有杰出成就的少数人 |
-| Subclass EB-3（EB-3 Skilled Worker） | 理论可行但雇主极难证明劳工短缺 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely used for this occupation as it generally does not meet professional occupation requirements |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to a few individuals with outstanding achievements in photographic equipment repair |
+| Subclass EB-3 (EB-3 Skilled Worker) | Theoretically feasible but employers find it extremely difficult to prove labor shortage |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Camera and Photographic Equipment Repairers？**
-- 对精密维修有耐心且动手能力强的人
-- 喜欢独立工作、不追求高薪的人
-- 对摄影设备有浓厚兴趣的人
+**Who is suited**
+- People who are patient and have good manual skills for precision repair
+- People who prefer independent work and are not seeking high salary
+- People with a strong interest in photography equipment
 
-**谁不适合学Camera and Photographic Equipment Repairers？**
-- 追求高收入和快速职业晋升的人
-- 想通过技术移民美国的人
+**Who is not suited**
+- People pursuing high income and rapid career advancement
+- For those seeking to immigrate to the US through skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for camera repair technicians?**
+A: According to BLS data, the median annual salary in 2023 is about $37,000, entry-level $28,000-$36,000, and senior up to $60,000.
+
+**Q: Can a camera repairer immigrate to the U.S. through an H-1B visa?**
+A: Very difficult. This occupation usually does not meet H-1B specialty occupation requirements, and employers struggle to prove labor shortages; there is almost no immigration pathway.
+
+**Q: What is the employment outlook for camera repair technicians?**
+A: Outlook not optimistic. Smartphone popularity has reduced demand for cameras, with jobs expected to decline. It is recommended to also learn video equipment repair to increase opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 很低（★☆☆☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Camera and Photographic Equipment Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for camera repairers?**
-答：According to BLS, median annual wage in 2023 is about $37,000, entry-level $28,000-$36,000, senior up to $60,000.
-
-**问：Can camera repairers immigrate to the US via H-1B?**
-答：Very difficult. The occupation usually does not meet H-1B specialty occupation criteria, and employers struggle to prove labor shortage; almost no immigration pathway.
-
-**问：What is the job outlook for camera repairers?**
-答：Not optimistic. Smartphone cameras reduce demand for standalone cameras; jobs are projected to decline. Learning video equipment repair may help.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

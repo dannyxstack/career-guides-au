@@ -1,60 +1,96 @@
-# Aquaculture Farmer（Aquaculture Farmer）职业分析 · 澳大利亚
+# Aquaculture Farmer — career analysis · Australia
 
-**职业代码：121111 – Aquaculture Farmer。**
+**Occupation code: 121111 (ANZSCO)**
 
-Manages aquaculture farms to cultivate fish, shellfish or aquatic plants, including feeding, water quality monitoring, disease control and harvesting.
+Responsible for managing aquaculture farms, raising fish, shellfish, or aquatic plants, including feeding, water quality monitoring, disease prevention, and harvesting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 | 1-2年 | $4,000~$15,000（TAFE或私立机构课程费用） |
-| 学士学位（农业/水产） | 3-4年 | $30,000~$45,000（大学学费；国际生更高） |
+| Vocational education certificate | 1-2 years | $4,000~$15,000 (Tuition fees for TAFE or private institution courses) |
+| Bachelor's degree (Agriculture/Aquaculture) | 3-4 years | $30,000~$45,000 (University tuition fees; higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖三级证书 | TAFE | 可选 | 基础从业资格，推荐但非强制 |
-| 水产养殖四级证书 | TAFE | 可选 | 管理岗位要求 |
-| 农业/水产学士学位 | 大学 | 可选 | 技术移民和高级职位所需 |
-| 职业健康安全证书 | 注册培训机构 | 必备 | 部分农场强制 |
+| Occupational health and safety certificate | Registered Training Organisation | Required | Mandatory on some farms |
+| Certificate III in Aquaculture | TAFE | Optional | Basic entry qualification, recommended but not mandatory |
+| Certificate IV in Aquaculture | TAFE | Optional | Management position requirements |
+| Bachelor's degree in agriculture/aquaculture | University | Optional | Required for skilled migration and senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,800。澳洲水产养殖业因国内外需求增长而稳步发展，尤其在偏远沿海地区有较多就业机会。预计未来5年就业率适度增长。
+**Job demand: high (★★★★☆).** National workforce approx. 5,800. Australia's aquaculture industry is steadily growing due to rising domestic and international demand, with many job opportunities particularly in remote coastal areas. Moderate employment growth is expected over the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$62,000 | 时薪约25-30澳元 |
-| 中级（3-7年） | $62,000~$80,000 | 含奖金 |
-| 高级（7年以上） | $80,000~$100,000 | 农场经理级别 |
+| Median salary | $71,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $48,000~$62,000 | Hourly rate about $25-30 AUD |
+| Mid-level (3–7 years) | $62,000~$80,000 | Including bonus |
+| Senior (7+ years) | $80,000~$100,000 | Farm Manager Level |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 从初级养殖员起步，可晋升为农场主管或经理，或专门从事水质管理、孵化或育种。经验丰富者可自主创业或担任顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
+
+Starting as a junior aquaculturist, can advance to farm supervisor or manager, or specialize in water quality management, hatchery, or breeding. Experienced individuals can start their own business or work as consultants.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding system replaces manual scattering
+- Drone/underwater robot inspection of cages replaces manual patrols
+- Water quality sensors automatically monitor, replacing manual sampling
+- Automated sorting and counting systems replace manual sorting
+- Robotic arms replacing manual net pulling in fishing operations
+
+**Where AI augments the role:**
+
+- Data analysis tools assist in optimizing breeding density and feeding strategies
+- Remote sensing and GIS technology enhance sea area site selection and disaster warning
+- Machine vision aids early disease identification, improving diagnostic accuracy
+- Automated record-keeping systems improve production ledger management efficiency
+- Predictive models assist in weather and market supply-demand forecasting.
+
+**Human moat:**
+
+- Equipment maintenance and troubleshooting in complex environments
+- Empirical diagnosis of sudden illnesses or abnormal behaviors
+- Government/community communication and compliance management
+- On-site decision-making for biosafety and emergency response
+- Fine manual operations such as parent selection and surgical tagging
+
+**Skills to build:**
+
+- Automated farming system operation and maintenance
+- Basic troubleshooting of sensors and IoT devices
+- Basic data analysis and visualization
+- Drone/underwater robot operation
+- Aquatic disease diagnosis and biosecurity knowledge
+- Sustainable aquaculture regulations and certification standards
+
+**Key growth areas:**
 
 - sustainable aquaculture
 - seafood demand
@@ -63,68 +99,67 @@ Manages aquaculture farms to cultivate fish, shellfish or aquatic plants, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 若雇主担保，可申请482签证，要求相关学历和2年工作经验 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 偏远地区州担保签证，适合在偏远农场工作 |
-| Subclass 186（Employer Nomination Scheme） | 482转186永居，需雇主担保和职业评估 |
+| Subclass 482 (Temporary Skill Shortage) | If employer-sponsored, you can apply for the 482 visa, requiring relevant qualifications and 2 years of work experience |
+| Subclass 491 (Skilled Work Regional (Provisional)) | Remote area state-sponsored visa, suitable for working on remote farms |
+| Subclass 186 (Employer Nomination Scheme) | 482 to 186 permanent residency, requires employer sponsorship and skills assessment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture Farmer？**
-- 喜欢户外体力劳动、对海洋生物有兴趣的人
-- 愿意在偏远沿海地区生活和工作的人
-- 具备基础商业管理能力，希望自主经营农场的人
-
-**谁不适合学Aquaculture Farmer？**
-- 不适应户外恶劣天气和体力劳动的人
-- 追求城市生活和稳定朝九晚五工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical work and have an interest in marine life
+- People willing to live and work in remote coastal areas
+- People with basic business management skills who want to run their own farm
+
+**Who is not suited**
+- Those uncomfortable with harsh outdoor weather and physical labor
+- People who seek city life and a stable 9-to-5 job
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an aquaculture farmer?**
+A: Entry-level annual salary approx AUD 48,000-62,000, mid-level 62,000-80,000, senior manager up to 80,000-100,000.
+
+**Q: Can aquaculture farmers apply for skilled migration?**
+A: Yes. This occupation is on the MLTSSL, eligible for 189/190/482/491 visas, but requires a Vetassess skills assessment.
+
+**Q: What qualifications are needed to become an aquaculture farmer?**
+A: Usually requires a bachelor's degree in agriculture or aquaculture, but vocational certificates can also serve as entry point; management advancement requires higher education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aquaculture Farmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an aquaculture farmer?**
-答：Entry-level salary is around AUD 48,000-62,000, mid-level AUD 62,000-80,000, and senior managers can earn AUD 80,000-100,000.
-
-**问：Can aquaculture farmers apply for skilled migration?**
-答：Yes. The occupation is on the MLTSSL, eligible for 189/190/482/491 visas, but requires a Vetassess skills assessment.
-
-**问：What qualifications are needed to become an aquaculture farmer?**
-答：A bachelor's degree in agriculture or aquaculture is common, but vocational certificates can start your career; management roles require higher education.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

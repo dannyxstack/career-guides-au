@@ -1,61 +1,97 @@
-# Exercise Trainers and Group Fitness Instructors（Exercise Trainers and Group Fitness Instructors）职业分析 · 美国
+# Exercise Trainers and Group Fitness Instructors — career analysis · United States
 
-**职业代码：39-9031 – Exercise Trainers and Group Fitness Instructors。**
+**Occupation code: 39-9031 (SOC)**
 
-Instruct or coach groups or individuals in exercise activities for personal fitness. Demonstrate techniques, observe participants, and provide corrective feedback.
+Instruct individuals or groups in exercise to improve personal health. Demonstrate techniques and postures, observe participants and provide corrections.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 高中 | —（公立免费） |
-| 认证培训 | 6个月-1年 | $1,000~$5,000（认证课程费用） |
-| 本科学位（可选） | 4年 | $20,000~$60,000（运动科学/健康相关专业） |
+| High school graduation | High school | $0~$0 (Free public) |
+| Accredited training | 6 months to 1 year | $1,000~$5,000 (Certification course fees) |
+| Bachelor's degree (optional) | 4 years | $20,000~$60,000 (Sports science/health-related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CPR/急救认证 | 美国红十字会等 | 必备 | 多数雇主强制要求 |
-| 国家认证（如ACE, NSCA, ACSM） | 美国运动委员会等 | 可选 | 提升就业竞争力 |
+| CPR/First aid certification | American Red Cross, etc. | Required | Mandatory for most employers |
+| National certifications (e.g., ACE, NSCA, ACSM). | American Council on Exercise, etc. | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏上（★★★½☆）。** 全国从业人数约 371,500。美国劳工统计局预计2023-2033年该职业增长约10%，快于平均水平。健康意识提升及老龄化推动需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 371,500. The US Bureau of Labor Statistics projects about 10% growth for this occupation from 2023 to 2033, faster than average. Rising health awareness and aging demographics drive demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 常见时薪12-17美元 |
-| 中级（3-7年） | $35,000~$50,000 | 含私人教练及小团体课程 |
-| 高级（7年以上） | $50,000~$80,000 | 知名教练或工作室主管 |
+| Median salary | $47,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Common hourly rate $12-17 |
+| Mid-level (3–7 years) | $35,000~$50,000 | Includes personal training and small group classes |
+| Senior (7+ years) | $50,000~$80,000 | Well-known coach or studio supervisor |
+| average salary | $52,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 可从助理教练晋升为高级教练、部门主管，或开设个人工作室。获得ACE、NSCA等认证有助于晋升。
-**AI替代风险：中等偏低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Sports coaches and fitness instructors will be partially replaced by AI tools, such as motion analysis and personalized plan generation, but core emotional motivation, interpersonal interaction, and safety handling abilities are hard to automate, presenting a mixed outlook.
+
+Can advance from assistant coach to senior coach, department head, or open a personal studio. Certifications such as ACE or NSCA aid promotion.
+
+**Tasks most exposed to AI:**
+
+- Generate basic training plans and demonstration videos of exercises
+- Analyze movement data and generate motion correction suggestions
+- Automatically record and track clients' exercise progress and metrics.
+- Provide standardized diet and nutrition plans
+- Managing administrative tasks such as course bookings and client information
+
+**Where AI augments the role:**
+
+- Using AI to analyze client biomechanical data and provide precise movement guidance
+- Dynamically adjust training intensity and content for different clients based on AI recommendation systems.
+- Uses AI to generate personalized motivational voice, video, and reminders
+- Monitoring real-time heart rate and posture via AI to prevent sports injuries
+- Use AI tools to quickly create professional-grade instructional videos and marketing content
+
+**Human moat:**
+
+- Tactile feedback and immediate adjustment when correcting movements hands-on
+- Emotion-perception-based incentive strategies and psychological support.
+- Responsibility and judgment in handling emergency situations for sports injuries
+- Empathy and social skills needed to build long-term trust relationships
+- Tailored program design for special populations (e.g., pregnant women, rehabilitation patients)
+
+**Skills to build:**
+
+- Proficiency in operating and analyzing data from major AI fitness platforms (e.g., Tonal, Mirror)
+- Learn fundamentals of sports biomechanics, able to interpret AI-generated kinematic reports
+- Improve communication and motivational skills, use AI to enhance customer experience
+- Obtain certification in sports medicine or rehabilitation training to enhance professional authority
+- Learn basic video editing and content creation, use AI to produce teaching resources
+- Obtain certification for training special populations (e.g., prenatal, elderly)
+
+**Key growth areas:**
 
 - Fitness
 - Health
@@ -64,65 +100,67 @@ Instruct or coach groups or individuals in exercise activities for personal fitn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常需要学士学位，该职业常不符合专业职位要求 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于极少数国际知名教练 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires a bachelor's degree; this occupation often does not meet professional position requirements |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to very few internationally renowned coaches. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Exercise Trainers and Group Fitness Instructors？**
-- 热爱健身和运动，乐于助人
-- 沟通能力强，善于激励他人
-- 愿意灵活安排工作时间（包括周末和晚上）
+**Who is suited**
+- Passionate about fitness and sports, enjoys helping others
+- strong communication skills, good at motivating others
+- Willing to arrange flexible working hours (including weekends and evenings)
 
-**谁不适合学Exercise Trainers and Group Fitness Instructors？**
-- 不喜欢与人互动或指导他人
-- 希望朝九晚五固定工作时间
+**Who is not suited**
+- Dislikes interacting with or instructing others
+- Prefer fixed 9-to-5 working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a sports coach in the United States?**
+A: The 2023 median salary is approximately $44,940, with the bottom 10% earning less than $25,000 and the top 10% exceeding $77,000.
+
+**Q: Is it feasible for foreign fitness trainers to immigrate to the US?**
+A: Very difficult. This occupation does not meet H-1B specialty occupation requirements and rarely receives green card sponsorship. Typically need O-1 extraordinary ability visa or investment immigration.
+
+**Q: How to advance from a regular coach to a senior coach?**
+A: Obtain advanced certifications (e.g., NSCA's CSCS), build client reputation, expand personal training business, or transition to management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等偏上（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 中等偏低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Exercise Trainers and Group Fitness Instructors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for exercise trainers in the US?**
-答：Median annual wage in 2023 was $44,940, with lowest 10% below $25,000 and highest 10% above $77,000.
-
-**问：Is immigration possible for foreign fitness instructors to the US?**
-答：Very difficult. The occupation doesn't qualify as H-1B specialty occupation; green card sponsorship is rare. Usually requires O-1 visa or investor visa.
-
-**问：How to advance from a regular trainer to senior level?**
-答：Obtain advanced certifications (e.g., NSCA's CSCS), build client reputation, expand private training business, or move into management roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

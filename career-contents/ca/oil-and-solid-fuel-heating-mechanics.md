@@ -1,58 +1,91 @@
-# Oil and solid fuel heating mechanics（Oil and solid fuel heating mechanics）职业分析 · 加拿大
+# Oil and solid fuel heating mechanics — career analysis · Canada
 
-**职业代码：72420 – Oil and solid fuel heating mechanics。**
+**Occupation code: 72420 (NOC)**
 
-Install, maintain, and repair heating systems using oil or solid fuels (coal, wood), including boilers, burners, and piping systems.
+Responsible for installing, maintaining, and repairing heating systems using fuel or solid fuels (coal, wood, etc.), including boilers, burners, and piping systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常为最低入学要求） |
-| 学徒制 | 4-5年 | $1,000~$5,000（包含在职培训与课堂教育） |
+| High school graduation | 0 years | $0~$0 (Usually minimum entry requirements) |
+| Apprenticeship | 4-5 years | $1,000~$5,000 (Includes on-the-job training and classroom education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 红印认证（Red Seal） | 加拿大学徒制系统 | 必备 | 跨省认可，通常要求完成学徒制并通过考试 |
-| 省级贸易认证 | 各省学徒及行业培训机构 | 必备 | 例如安省油燃烧技术员证书 |
+| Red Seal certification | Canadian apprenticeship system | Required | Interstate recognition, usually requires completion of an apprenticeship and passing an exam. |
+| Provincial trade certification. | Provincial apprenticeships and industry training institutions | Required | e.g. Ontario Oil Burner Technician Certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。加拿大北部和偏远地区依赖燃油供暖，需求稳定。向可再生能源转型可能影响长期需求，但现有系统维护确保就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. Northern and remote areas of Canada rely on fuel oil heating, with stable demand. Transition to renewable energy may affect long-term demand, but existing system maintenance ensures employment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$48,000 | 学徒期及刚获证阶段 |
-| 中级（3-6年） | $48,000~$65,000 | 完全认证技工 |
-| 高级（6年以上） | $65,000~$85,000 | 包括主管或自营 |
+| Median salary | $56,160 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$48,000 | Apprenticeship period and newly certified stage |
+| Mid-level (3–6 years) | $48,000~$65,000 | Fully qualified tradesperson |
+| Senior (6+ years) | $65,000~$85,000 | Includes Supervisor or Self-Employed |
+| average salary | $62,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升为供暖系统设计师、建筑维护主管或自营承包商。省级贸易认证是职业发展的关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Gas and solid fuel heating technicians face medium automation risk: AI can optimize scheduling and remote diagnostics, but physical installation/repair, fuel handling, and safety compliance tasks are hard to replace; roles are steadily shrinking overall.
+
+Can progress to heating system designer, building maintenance supervisor, or self-employed contractor. Provincial trade certification is key to career development.
+
+**Tasks most exposed to AI:**
+
+- Fuel consumption prediction and smart scheduling (AI algorithms optimize delivery routes)
+- Remote fault diagnosis (AI analyzes sensor data to directly output fault codes)
+- Automated burner calibration (model-based parameter self-tuning)
+- Automated compliance report generation (auto-filling emissions monitoring reports)
+
+**Where AI augments the role:**
+
+- Augmented reality assisted maintenance (AI overlay of installation drawings and real-time data to improve efficiency)
+- Smart tool recommendation (AI recommends optimal repair plan based on fault history)
+- Customer communication optimization (AI generates easy-to-understand repair summaries)
+- Preventive maintenance plans (AI predicts component lifespan, reducing downtime)
+
+**Human moat:**
+
+- On-site anomaly handling (e.g., immediate adjustments for incomplete combustion of solid fuels)
+- Multi-system integrated installation (mixed systems of oil, wood stoves, and heat pumps)
+- Safety compliance assessment (regulation interpretation and on-site risk evaluation)
+- Building client trust (personalized advice for complex system upgrades)
+
+**Skills to build:**
+
+- PLC/SCADA programming for intelligent burner control systems
+- Thermal imaging and IoT sensor data analysis
+- Electric/hybrid heating system repair (heat pump and solar integration)
+- Carbon accounting and emissions compliance knowledge
+- Customer Relationship Management (CRM) and remote service tool operation
+- Drones used for chimney/pipe inspection
+
+**Key growth areas:**
 
 - Oil heating
 - Solid fuel
@@ -61,65 +94,64 @@ Install, maintain, and repair heating systems using oil or solid fuels (coal, wo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 适用于有相关工作经验并通过省提名或有LMIA支持的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安大略、阿尔伯塔）将该职业列为需求职业 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明缺乏本地劳动力 |
+| Subclass Express Entry (Federal Skilled Worker) | Applicable to those with relevant work experience and supported by a provincial nomination or LMIA. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, Alberta) list this occupation as a demand occupation. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove lack of local labour |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Oil and solid fuel heating mechanics？**
-- 喜欢动手维修、有机械天赋的人
-- 愿意在偏远地区工作的人
-- 寻求稳定、非办公室职业的人
-
-**谁不适合学Oil and solid fuel heating mechanics？**
-- 对粉尘、噪音和体力劳动敏感的人
-- 倾向于城市中心高薪职业的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repairs and have a mechanical aptitude
+- People willing to work in remote areas.
+- People seeking stable, non-office careers
+
+**Who is not suited**
+- People sensitive to dust, noise, and physical labor
+- People who tend to prefer high-paying jobs in urban centers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Canada?**
+A: Median annual salary approximately CAD 55,000; senior technicians can earn over CAD 80,000, possibly higher in remote areas.
+
+**Q: How can foreigners immigrate to Canada for this occupation?**
+A: Can apply through Express Entry (e.g., FSW) or Provincial Nominee Program (PNP), provided work experience is recognized and provincial certification is obtained. LMIA work permit is also a common pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Oil and solid fuel heating mechanics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary in Canada for this occupation?**
-答：Median annual salary is around CAD 55,000, with senior mechanics earning up to CAD 80,000+; higher in remote areas.
-
-**问：How can foreigners immigrate to Canada for this occupation?**
-答：Via Express Entry (e.g., FSW) or Provincial Nominee Program (PNP), requiring recognized experience and provincial certification. LMIA work permit is also common.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

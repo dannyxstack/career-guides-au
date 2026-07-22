@@ -1,59 +1,92 @@
-# Supervisor - Vehicle, Aerospace, and Shipbuilding Technology（Supervisor - Vehicle, Aerospace, and Shipbuilding Technology）职业分析 · DE
+# Supervisor - Vehicle, Aerospace, and Shipbuilding Technology — career analysis · Germany
 
-**职业代码：2529 – Supervisor - Vehicle, Aerospace, and Shipbuilding Technology。**
+**Occupation code: 2529 (KldB)**
 
-Oversees technical teams in the manufacturing and maintenance of vehicles, aircraft, and ships, ensuring quality and safety standards.
+Responsible for overseeing technical teams in the manufacture and repair of vehicles, aircraft, and ships, ensuring production processes meet quality and safety standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 (Ausbildung) | 3-3.5年 | —（培训期间有工资，部分学校收取少量教材费） |
-| 本科 (Bachelor) | 3-4年 | —（公立大学通常免学费，仅收学期注册费） |
+| Dual vocational training (Ausbildung) | 3-3.5 years | $0~$500 (Paid during training, some schools charge a small fee for materials.) |
+| Bachelor | 3-4 years | $0~$1,500 (Public universities typically charge no tuition fees, only semester registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 技术员证书 (Techniker) | 德国工商业行会 (IHK) | 可选 | 通过进修考试获得，证明先进技术管理能力 |
-| 工程师学位 (Ingenieur) | 大学或应用科学大学 | 必备 | 担任主管通常需工程学位，海外学历需认证 |
-| 资质认证 (Anerkennung) | 德国联邦外国专业人才事务办公室 (BQFG) | 必备 | 非欧盟学历需经过认证流程 |
+| Engineering degree (Ingenieur) | University or University of Applied Sciences | Required | A supervising role usually requires an engineering degree; overseas qualifications need assessment. |
+| Qualification recognition (Anerkennung) | German Federal Office for Foreign Skilled Professionals (BQFG) | Required | Non-EU qualifications require a recognition process |
+| Technician certificate (Techniker) | German Chamber of Commerce and Industry (IHK) | Optional | Obtained through further study exams, demonstrating advanced technical management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。德国作为汽车与机械制造强国，对该职业需求稳定。受新能源与数字化转型推动，未来五年就业机会预计增长5-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. As a powerhouse in automotive and mechanical engineering, Germany has stable demand for this occupation. Driven by new energy and digital transformation, employment opportunities are expected to grow by 5-10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较强（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪 |
-| 中级（4-7年） | $55,000~$70,000 | 税前年薪 |
-| 高级（8年以上） | $70,000~$90,000 | 税前年薪 |
+| Median salary | $45,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $55,000~$70,000 | Annual pre-tax salary |
+| Senior (8+ years) | $70,000~$90,000 | Annual pre-tax salary |
+| average salary | $52,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术员晋升至主管，再至生产经理或技术总监。资深人员可转向项目管理或研发部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+As a technical supervisor, AI will take over many production scheduling, quality inspection, and document generation tasks, but complex equipment troubleshooting, team coordination, and safety decisions still require human experience and judgment, so the outlook is mixed.
+
+Can advance from technician to supervisor, then to production manager or technical director. Experienced personnel can move into project management or R&D.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates production schedules and resource allocation plans
+- AI visual inspection automatically identifies welding and assembly defects.
+- AI analyzes sensor data to predict equipment failures and generate maintenance notifications
+- AI automatically generates technical documentation and compliance reports
+
+**Where AI augments the role:**
+
+- AI-assisted 3D modeling and simulation for rapid design change verification
+- AI monitors production lines in real time and alerts anomalies, helping supervisors make quick decisions.
+- AI provides a repair knowledge base and AR guidance to enhance troubleshooting efficiency
+- AI automatically aggregates multi-source performance data to assist team management
+
+**Human moat:**
+
+- Cross-domain diagnosis and emergency decision-making for complex system failures
+- Cross-team, cross-department technical coordination and conflict resolution
+- On-site supervision and responsibility in compliance with safety regulations
+- Experimental verification and risk assessment of new processes and materials
+
+**Skills to build:**
+
+- AI tool application and data analysis (e.g., Python, machine learning basics).
+- Digital twin and simulation platform operation (e.g., Siemens NX, Ansys)
+- Industrial Internet of Things (IIoT) and sensor data analysis
+- AR/VR assisted maintenance and training solution design
+- Lean Production and Agile Project Management certification
+- Cross-disciplinary technical integration and communication skills
+
+**Key growth areas:**
 
 - electric mobility
 - digital transformation
@@ -62,68 +95,67 @@ Oversees technical teams in the manufacturing and maintenance of vehicles, aircr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高等学历及符合薪资门槛者，快速获得居留与家庭团聚许可 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 适用于有资质的技术人员，需获得德国雇主Offer |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，可在德寻找工作一年 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with higher education and meeting the salary threshold, gaining fast-track residency and family reunion permits |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applicable to qualified technicians, requires a job offer from a German employer |
+| Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, allows searching for work in Germany for one year |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor - Vehicle, Aerospace, and Shipbuilding Technology？**
-- 具有工程或技术背景且有管理潜力的人员
-- 喜欢动手解决复杂技术问题并领导团队者
-- 适应快速变化的工业4.0环境，愿意持续学习者
-
-**谁不适合学Supervisor - Vehicle, Aerospace, and Shipbuilding Technology？**
-- 偏好独立工作而非团队管理的人
-- 对严格的质量与安全标准感到束缚的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with engineering or technical backgrounds and management potential
+- Those who enjoy hands-on solving of complex technical problems and leading teams
+- Able to adapt to the rapidly changing Industry 4.0 environment, willing to continuously learn
+
+**Who is not suited**
+- Prefers working independently rather than managing a team.
+- Individuals constrained by strict quality and safety standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a vehicle engineering supervisor?**
+A: Pre-tax annual salary approximately EUR 45,000-90,000, depending on experience, company size, and location.
+
+**Q: How can Chinese citizens apply for a work visa for this occupation in Germany?**
+A: Possible via EU Blue Card or Skilled Immigration Act work visa, requiring a German employer offer and degree recognition.
+
+**Q: What certifications are required?**
+A: Non-EU qualifications must be certified by the German Federal Office for Foreign Professionals (BQFG) to prove equivalence with German qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较强（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisor - Vehicle, Aerospace, and Shipbuilding Technology的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a vehicle engineering supervisor?**
-答：Gross annual salary ranges from €45,000 to €90,000 depending on experience, company size, and region.
-
-**问：How can Chinese citizens apply for a work visa for this occupation in Germany?**
-答：They can apply via EU Blue Card or Skilled Work Visa, requiring a job offer and recognition of qualifications.
-
-**问：What qualification recognition is needed?**
-答：Non-EU degrees must be recognized by the BQFG to confirm equivalence with German qualifications.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

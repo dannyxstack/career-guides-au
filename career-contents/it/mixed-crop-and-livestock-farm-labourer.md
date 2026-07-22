@@ -1,59 +1,94 @@
-# Mixed Crop and Livestock Farm Labourer（Mixed Crop and Livestock Farm Labourer）职业分析 · IT
+# Mixed Crop and Livestock Farm Labourer — career analysis · Italy
 
-**职业代码：9213 – Mixed Crop and Livestock Farm Labourer。**
+**Occupation code: 9213 (ISCO08)**
 
-Mixed crop and livestock farm labourers perform manual tasks in Italy's agricultural sector, including planting, harvesting, feeding animals, and basic maintenance work on mixed farms.
+Mixed crop and livestock farm labourer in the Italian agriculture sector performing physical tasks in crop cultivation and animal husbandry, including sowing, harvesting, feeding animals, and basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常不需要正规教育，在职培训为主） |
+| No formal education required | None | $0~$0 (Formal education usually not required, on-the-job training is primary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照（拖拉机） | 意大利交通部 | 可选 | 部分农场要求具备拖拉机驾驶执照 |
-| 安全培训证书 | 地区职业培训机构 | 可选 | 涉及机械操作时需参加安全培训 |
+| Driver's license (tractor) | Italian Ministry of Transport | Optional | Some farms require a tractor driving license |
+| Safety training certificate | Regional Vocational Training Institutions | Optional | Safety training required when involving mechanical operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 200,000。意大利农业部门面临劳动力老龄化，对年轻劳工需求稳定，尤其是季节性工作。欧盟自由流动提供了部分劳动力，但偏远地区仍短缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 200,000. Italy's agricultural sector faces an aging workforce, with stable demand for young labor, especially seasonal work. EU free movement provides some labor, but remote areas still face shortages.
 
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$19,000 | 税前年薪，季节性工作可能按小时计算 |
-| 中级（4-7年） | $19,000~$24,000 | 税前年薪，含经验补贴 |
-| 高级（8年以上/主管） | $24,000~$30,000 | 税前年薪，主管级别 |
+| Median salary | $21,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$19,000 | Annual gross salary; seasonal work may be paid hourly |
+| Mid-level (4-7 years) | $19,000~$24,000 | Annual salary before tax, including experience allowance |
+| Senior (8+ years / Supervisor) | $24,000~$30,000 | Annual salary before tax, supervisor level |
+| average salary | $21,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 此职位通常为入门级，晋升机会有限。经验丰富的劳工可升为农场主管或独立承包农场任务，或通过培训转向农业技术岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Mixed crop and livestock farm labor relies heavily on physical strength and repetitive tasks; AI and automation will significantly reduce job numbers, with lower entry barriers but worrying income prospects.
+
+This position is typically entry-level with limited advancement opportunities. Experienced laborers can become farm supervisors or independently contract farm tasks, or transition to agricultural technology roles through training.
+
+**Tasks most exposed to AI:**
+
+- Using automated tractors for plowing, sowing, and harvesting
+- Monitor crop growth and pests/diseases using sensors and AI systems
+- Caring for livestock using automatic feeders and milking robots
+- Use drones to inspect farms and produce yield maps
+- Optimize irrigation and fertilization plans based on historical data and weather forecasts
+
+**Where AI augments the role:**
+
+- Operating and maintaining smart agricultural equipment
+- Using data analysis to improve crop yields and herd health
+- Develop comprehensive agricultural strategies to balance ecology and economy
+- Collaborate with AI for precision agriculture management
+- Train new employees in using digital tools
+
+**Human moat:**
+
+- On-site diagnosis and repair of sudden mechanical faults
+- Unstructured work in complex terrain or extreme weather conditions.
+- Animal emergency medical care and behavioural intervention
+- Compliance with organic certification and animal welfare standards.
+
+**Skills to build:**
+
+- Agricultural drone operation and data analysis certification
+- Use of precision agriculture software (e.g., FarmOS, Climate FieldView)
+- Basic electrical and mechanical maintenance skills
+- Digital literacy: Excel/data recording apps
+- Basics of crop and livestock health management
+- Training for safe operation of AGV/robot equipment
+
+**Key growth areas:**
 
 - Seasonal labor
 - Aging workforce
@@ -62,65 +97,67 @@ Mixed crop and livestock farm labourers perform manual tasks in Italy's agricult
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi seasonal work visa） | 适用于季节性农业劳工，每年配额限制，需雇主担保 |
-| Subclass EU自由流动（EU freedom of movement） | 欧盟公民可自由在意大利工作，无需签证 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi seasonal work visa) | Applies to seasonal agricultural labor, annual quota limit, requires employer sponsorship |
+| Subclass EU free movement (EU freedom of movement) | EU citizens can work freely in Italy without a visa |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mixed Crop and Livestock Farm Labourer？**
-- 体力好且适应户外工作者
-- 寻求季节性短期工作者
-- 愿意在农村地区生活者
+**Who is suited**
+- Physically fit and suited for outdoor work
+- Seeking seasonal short-term workers
+- Those willing to live in rural areas
 
-**谁不适合学Mixed Crop and Livestock Farm Labourer？**
-- 希望高收入和职业晋升者
-- 不喜体力劳动和气候变化者
+**Who is not suited**
+- Those seeking high income and career advancement
+- Those Who Dislike Physical Labor and Climate Change
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for farm laborers?**
+A: Annual salary for farm laborers in Italy typically ranges from €15,000 to €30,000; entry-level around €15,000-€19,000, senior or supervisor up to €24,000-€30,000, but mostly seasonal contracts.
+
+**Q: How can non-EU citizens obtain a farm work visa in Italy?**
+A: Primarily through the Decreto Flussi seasonal work visa, with annual quotas, requiring employer sponsorship. EU citizens can move freely.
+
+**Q: What is the demand for farm laborers in Italy?**
+A: Demand is stable, especially during seasonal harvest periods, but overall it is slowly declining due to mechanisation. Remote areas still face labour shortages.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mixed Crop and Livestock Farm Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for farm labourers?**
-答：Farm labourers in Italy earn between EUR 15,000 and EUR 30,000 annually, with entry-level around 15,000-19,000 and senior/supervisor up to 24,000-30,000, often on seasonal contracts.
-
-**问：How can non-EU citizens get a farm work visa in Italy?**
-答：Mainly through the Decreto Flussi seasonal work visa with annual quotas, requiring employer sponsorship. EU citizens can freely move.
-
-**问：What is the demand for farm labourers in Italy?**
-答：Demand is stable, especially during seasonal harvests, but slowly declining due to mechanization. Shortages persist in remote areas.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

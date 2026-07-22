@@ -1,58 +1,92 @@
-# Domestic Cleaner and Helper（Domestic Cleaner and Helper）职业分析 · IE
+# Domestic Cleaner and Helper — career analysis · Ireland
 
-**职业代码：9111 – Domestic Cleaner and Helper。**
+**Occupation code: 9111 (ISCO08)**
 
-Responsible for cleaning tasks in private homes or commercial premises, including sweeping, vacuuming, dusting, and tidying. Often part-time or casual work, typically requiring no formal qualifications.
+Responsible for cleaning homes or commercial premises, including sweeping, vacuuming, wiping surfaces, tidying items, etc. Mostly part-time or casual work, usually no formal qualifications required.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 无 | —（无需教育成本，通常在职培训） |
+| No formal education requirements | None | $0~$0 (No education costs, typically on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性资格 | 无 | 可选 | 大多数雇主不要求正式证书，但急救证书或清洁相关培训可增加竞争力 |
+| No mandatory qualifications | None | Optional | Most employers do not require formal certificates, but first aid certificates or cleaning-related training can increase competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 28,000。爱尔兰家庭清洁服务需求稳定，受双职工家庭增多和老龄化影响。但该职业非紧缺职业，工资增长缓慢，竞争一般。
+**Job demand: medium (★★½☆☆).** National workforce approx. 28,000. Demand for home cleaning services in Ireland is stable, driven by an increase in dual-income families and an aging population. However, this occupation is not in shortage, with slow wage growth and moderate competition.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$25,000 | 税前年薪，通常按小时计薪约12-15欧元 |
-| 中级（2-5年） | $25,000~$30,000 | 税前年薪，可能包括额外职责如深度清洁 |
-| 高级（5年以上或主管） | $30,000~$35,000 | 税前年薪，包括清洁主管或自主经营 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $20,000~$25,000 | Pre-tax annual salary, typically paid hourly at about 12-15 euros |
+| Intermediate (2-5 years) | $25,000~$30,000 | Annual salary before tax, may include additional duties such as deep cleaning. |
+| Senior (5+ years or supervisor) | $30,000~$35,000 | Pre-tax annual salary, including cleaning supervisor or self-employment |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径有限，可晋升为清洁主管或自主创业。部分人转向酒店或商业清洁领域，但整体职业发展空间较小。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
+
+Limited promotion path; can advance to cleaning supervisor or start own business. Some transition to hotel or commercial cleaning, but overall career growth is limited.
+
+**Tasks most exposed to AI:**
+
+- Clean floors using smart vacuum and mop robots
+- Operation monitoring of automatic window cleaning robots
+- Dust removal in standard areas such as corridors and halls following preset routes.
+- Use automatic disinfection robots to disinfect bathrooms and kitchens.
+
+**Where AI augments the role:**
+
+- Use AI scheduling system to optimize multi-site cleaning routes and schedules
+- Use smart sensors to monitor dirt levels and precisely schedule cleaning frequency
+- Receive health and safety alerts via wearable devices to enhance personal protection
+- Adjusts service details using a customer review AI system to improve satisfaction
+- Use digital tools to manage cleaning supplies, reducing waste
+
+**Human moat:**
+
+- Identification and targeted treatment of complex stubborn stains (e.g., carpet stains, oil stains).
+- Communicate with clients to understand specific needs and flexibly adjust cleaning methods
+- Ability to handle unexpected situations (e.g., breaking items, pet accidents)
+- Fine cleaning and care of valuable items (e.g., antiques, silk)
+
+**Skills to build:**
+
+- Basic AI device operation and simple troubleshooting
+- Use cleaning management software for scheduling and customer relationship management
+- Learn specialized cleaning techniques (e.g., stone care, disinfection)
+- Improve communication and customer service skills
+- Basic English proficiency to interact with smart devices or serve foreign clients
+- Learn about personal protective equipment and eco-friendly cleaning agents
+
+**Key growth areas:**
 
 - Stable demand
 - Aging population
@@ -61,65 +95,67 @@ Responsible for cleaning tasks in private homes or commercial premises, includin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪通常需达到3万欧元以上。该职业薪资较低，难以达标。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能人才，要求年薪较高，不适合该职业。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-critical occupations requiring employer sponsorship, with annual salary typically exceeding 30,000 euros. This occupation has low salary, making it difficult to meet the threshold. |
+| Subclass EU Blue Card (EU Blue Card) | Aimed at highly skilled talents, requires high annual salary, not suitable for this occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Domestic Cleaner and Helper？**
-- 注重细节、有责任心的人
-- 喜欢独立工作、不需高强度社交的人
-- 希望灵活兼职或临时工作的人
+**Who is suited**
+- Detail-oriented and responsible individuals
+- People who enjoy independent work and do not require high levels of social interaction
+- People seeking flexible part-time or casual work
 
-**谁不适合学Domestic Cleaner and Helper？**
-- 追求高薪和职业晋升的人
-- 不喜爱重复性体力劳动的人
+**Who is not suited**
+- People pursuing high salaries and career advancement
+- People who dislike repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average hourly wage for a house cleaner?**
+A: The average hourly wage for a domestic cleaner in Ireland is about €12–15, depending on the region and experience.
+
+**Q: Can non-EU citizens work as a domestic cleaner in Ireland on a work visa?**
+A: Generally not. This occupation does not meet the work permit salary threshold and is not a shortage skill. EU citizens have free movement rights.
+
+**Q: What certificates are needed to become a house cleaner?**
+A: No mandatory certification required, but first aid training or professional cleaning courses can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Domestic Cleaner and Helper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for domestic cleaners?**
-答：The average hourly wage for domestic cleaners in Ireland is around €12-15, depending on location and experience.
-
-**问：Can non-EU citizens get a work visa for domestic cleaning in Ireland?**
-答：Generally no. The occupation does not meet the salary threshold for work permits and is not on the shortage list. EU citizens have freedom of movement.
-
-**问：What certification is needed to become a domestic cleaner?**
-答：No mandatory certification is required, but first aid training or professional cleaning courses can improve competitiveness.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

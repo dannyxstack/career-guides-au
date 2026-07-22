@@ -1,59 +1,91 @@
-# Accommodation, travel, tourism and related services supervisors（Accommodation, travel, tourism and related services supervisors）职业分析 · 加拿大
+# Accommodation, travel, tourism and related services supervisors — career analysis · Canada
 
-**职业代码：62022 – Accommodation, travel, tourism and related services supervisors。**
+**Occupation code: 62022 (NOC)**
 
-Supervise and coordinate staff and operations in accommodation, travel, tourism and related services sectors to ensure quality customer service and efficient operations.
+Supervise and coordinate staff and operations in accommodation, travel, tourism and related services, ensuring customer service quality and efficient operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常不需要正式高等教育，但雇主偏好相关经验） |
-| 学院文凭（旅游/酒店管理） | 2年 | $15,000~$30,000（加拿大公立学院学费，两年制） |
-| 大学本科学位（酒店管理） | 4年 | $40,000~$80,000（四年制本科总学费） |
+| High school diploma | None | $0~$0 (Formal higher education is usually not required, but employers prefer relevant experience) |
+| College diploma (Tourism/Hotel Management) | 2 years | $15,000~$30,000 (Tuition fees at Canadian public colleges, two-year programs) |
+| Bachelor's Degree (Hotel Management) | 4 years | $40,000~$80,000 (Total tuition for a four-year undergraduate degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大省级酒店管理认证（如SMART） | 各省酒店协会 | 可选 | 非强制，但提升就业竞争力 |
-| 食品卫生安全认证 | 各省卫生部门 | 可选 | 若涉及餐饮服务可能需要 |
+| Canadian provincial hospitality management certification (e.g., SMART) | Provincial hotel associations. | Optional | Not mandatory, but enhances employment competitiveness |
+| Food hygiene safety certification | Provincial health departments | Optional | If catering services are involved, it may be necessary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 42,000。随着加拿大旅游业复苏，该职业需求温和增长，尤其在酒店和旅行社。就业机会主要集中在旅游旺季及热门目的地。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 42,000. With Canada's tourism recovery, demand for this occupation is growing modestly, especially in hotels and travel agencies. Job opportunities are mainly in peak seasons and popular destinations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $36,000~$42,000 | 通常起薪接近最低工资 |
-| 中级（3-6年） | $42,000~$52,000 | 有经验的 supervisors |
-| 高级（6年以上） | $52,000~$65,000 | 大型酒店或旅游公司的高级主管 |
+| Median salary | $52,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $36,000~$42,000 | Starting salary usually near minimum wage |
+| Mid-level (3–6 years) | $42,000~$52,000 | Experienced supervisors |
+| Senior (6+ years) | $52,000~$65,000 | Senior executive in large hotels or tourism companies |
+| average salary | $54,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从前台、预订等岗位晋升为主管，进而向部门经理或区域经理发展，部分可转向旅游规划或会展管理领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will assist supervisors in optimizing shift scheduling and customer service, but cannot replace their core responsibilities of on-site coordination, staff management, and crisis handling. Entry-level roles will shrink due to automated booking systems, but experienced supervisors remain protected.
+
+Can advance from front desk, reservations, etc. to supervisor, then to department manager or regional manager, with some transitioning to tourism planning or event management.
+
+**Tasks most exposed to AI:**
+
+- Handling routine bookings, cancellations, and inquiries in customer communication
+- Generate standard shift schedules and attendance records
+- Basic financial data entry and report generation
+- Monitor and update online listings and pricing information
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer preferences and provide personalized service recommendations
+- Using AI tools to optimize dynamic pricing and room allocation
+- Use automated systems for service quality monitoring and compliance checks
+- using AI to assist in training new employees and evaluating performance
+
+**Human moat:**
+
+- Handle sudden complaints, emergencies, and guest emotional needs
+- Team member interpersonal coordination, motivation, and performance feedback
+- Cross-departmental communication and non-standardized process decision making
+- Understanding service expectations in complex cultural contexts
+
+**Skills to build:**
+
+- Advanced operation of hotel/tourism management systems (e.g., Opera, RMS)
+- Data analysis and visualization (Excel, Tableau)
+- AI tool application (ChatGPT-assisted client communication)
+- Crisis management and emotional intelligence training
+- Fundamentals of digital marketing and revenue management
+
+**Key growth areas:**
 
 - tourism recovery
 - customer service focus
@@ -62,68 +94,67 @@ Supervise and coordinate staff and operations in accommodation, travel, tourism 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (CEC/F（Express Entry (Canadian Experience Class / Federal Skilled Worker)） | 若积累一年加拿大 skilled work experience 可走 CEC；或 67 分以上走 FSW。NOC TEER 0 或 1 或 2 类可申请。62022 属 TEER 2，符合条件。 |
-| Subclass Provincial Nominee P（Provincial Nominee Program） | 各省旅游服务类省提名，如BC PNP 旅游、安省 Human Capital 等。 |
-| Subclass LMIA-based Work Perm（Labour Market Impact Assessment） | 雇主证明无法招到本地人，可获得工签，之后可通过 PNP 或 Express Entry 移民。 |
+| Subclass Express Entry (CEC/F (Express Entry (Canadian Experience Class / Federal Skilled Worker)) | After accumulating one year of Canadian skilled work experience, can apply for CEC; or FSW if score is 67 or above. NOC TEER 0, 1, or 2 categories are eligible. 62022 is TEER 2, meeting conditions. |
+| Subclass Provincial Nominee P (Provincial Nominee Program) | Provincial tourism service nominations, such as BC PNP Tourism, Ontario Human Capital, etc. |
+| Subclass LMIA-based Work Perm (Labour Market Impact Assessment) | Employer demonstrates inability to hire locally, can obtain a work visa, then immigrate via PNP or Express Entry. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Accommodation, travel, tourism and related services supervisors？**
-- 喜欢与人打交道，具备客户服务经验和领导能力的人
-- 希望在旅游、酒店行业长期发展的人
-- 愿意在旺季加班并适应轮班制的人
-
-**谁不适合学Accommodation, travel, tourism and related services supervisors？**
-- 不喜欢高强度、快节奏的工作环境的人
-- 无法适应周末和节假日工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with others, have customer service experience and leadership skills
+- People who wish to develop a long-term career in tourism and hospitality
+- Those willing to work overtime during peak seasons and adapt to shift work
+
+**Who is not suited**
+- People who dislike high-intensity, fast-paced work environments
+- People who cannot work on weekends and holidays
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Accommodation and Hospitality Services Supervisor?**
+A: Entry level about CAD 36,000-42,000, intermediate CAD 42,000-52,000, senior up to CAD 65,000, depending on province and employer.
+
+**Q: Is it difficult to immigrate to Canada in this occupation?**
+A: Belongs to TEER 2, can immigrate via Express Entry or PNP. Requires at least one year of relevant work experience (overseas also accepted) and meeting language requirements. Average difficulty.
+
+**Q: What is the future career outlook for this occupation?**
+A: The tourism industry is affected by economic cycles, but Canada's tourism sector has long-term prospects. Can advance to management roles, or transition to tourism planning or event management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Accommodation, travel, tourism and related services supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for accommodation travel tourism supervisors?**
-答：Entry-level earns about CAD 36,000-42,000, mid-level CAD 42,000-52,000, and senior up to CAD 65,000, depending on province and employer.
-
-**问：Is it difficult to immigrate to Canada with this occupation?**
-答：It is TEER 2, eligible for Express Entry or PNP. Requires at least one year of relevant work experience (foreign also accepted) and language ability. Difficulty is moderate.
-
-**问：What are the future prospects for this occupation?**
-答：Tourism is cyclical but Canada's tourism sector has long-term growth. Supervisors can advance to management roles or pivot to event planning or travel coordination.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

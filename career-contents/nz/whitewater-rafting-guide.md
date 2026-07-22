@@ -1,62 +1,95 @@
-# Whitewater Rafting Guide（Whitewater Rafting Guide）职业分析 · 新西兰
+# Whitewater Rafting Guide — career analysis · New Zealand
 
-**职业代码：452217 – Whitewater Rafting Guide。**
+**Occupation code: 452217 (ANZSCO)**
 
-Whitewater rafting guides lead clients on river rafting trips, ensuring safety, providing instructions, and handling emergencies. This role is essential in New Zealand's adventure tourism sector and offers migration pathways via AEWV or tourism-specific agreements.
+Whitewater rafting guides lead tourists in rafting activities, responsible for safety briefings, equipment checks, and emergency rescues. This is a key role in New Zealand's outdoor tourism industry. Immigration is possible via an Accredited Employer Work Visa (AEWV) or tourism-specific agreement.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（高中教育免费） |
-| 急救证书培训 | 1-2天 | $150~$300（如First Aid Certificate） |
-| 高级漂流技术课程 | 1-3个月 | $2,000~$5,000（如NZ River Guides Association课程） |
+| High school diploma | 3 years | $0~$0 (Free high school education) |
+| First aid certificate training | 1-2 days | $150~$300 (e.g., First Aid Certificate) |
+| Advanced whitewater rafting course | 1-3 months. | $2,000~$5,000 (Such as NZ River Guides Association courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 新西兰红十字会或其他认可机构 | 必备 | 通常要求持有有效急救证书 |
-| 漂流向导认证 | 新西兰河流向导协会 | 可选 | 推荐获得四级或五级漂流向导证书 |
-| 河流救援技术证书 | 新西兰河流救援协会 | 可选 | 提升安全救援能力 |
+| First aid certificate | New Zealand Red Cross or other recognized institutions | Required | Usually requires holding a valid first aid certificate |
+| Whitewater rafting guide certification | New Zealand River Guides Association | Optional | It is recommended to obtain a Level 4 or Level 5 whitewater rafting guide certificate |
+| River Rescue Techniques Certificate | New Zealand River Rescue Association | Optional | Enhancing Safety Rescue Capabilities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 300。新西兰拥有丰富的河流资源，激流漂流是热门旅游项目，尤其在皇后镇、罗托鲁瓦等地。随着国际旅游复苏，对合格向导的需求稳定，但季节性较强，旺季（11月至4月）就业机会多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 300. New Zealand has abundant river resources; white-water rafting is a popular tourist activity, especially in Queenstown, Rotorua, etc. With international tourism recovery, demand for qualified guides is stable but seasonal, with peak employment from November to April.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 季节性或兼职工作，旺季收入较高 |
-| 中级（3-6年） | $50,000~$60,000 | 可担任领队或培训师 |
-| 高级（6年以上） | $60,000~$75,000 | 包括管理或创业收入 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Seasonal or part-time work, with higher income during peak seasons |
+| Mid-level (3–6 years) | $50,000~$60,000 | Can serve as team leader or trainer |
+| Senior (6+ years) | $60,000~$75,000 | Including management or entrepreneurial income |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 入门级向导可积累经验后晋升为高级向导或领队，也可转向旅游公司管理、安全培训师或创业开设漂流公司。持有急救证书和高级漂流资质有助于提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core safety monitoring duties of a whitewater rafting guide make it difficult to fully automate, but AI will significantly enhance the profession's value in trip planning, equipment inspection, and emergency response efficiency; employment growth is limited by the recovery speed of the tourism industry.
+
+Entry-level guides can gain experience and advance to senior guide or leader, or move into tourism company management, safety training, or start a rafting company. Holding first aid certification and advanced rafting qualifications helps improve competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard safety briefing videos and voice commands, reducing repetitive manual explanations
+- AI cameras monitor passengers' sitting posture and paddle movements in real time, automatically warning of deviations
+- Intelligent dispatch system based on hydrological data automatically assigns optimal routes
+- Unmanned devices perform routine equipment checks (e.g., lifejacket buoyancy testing)
+
+**Where AI augments the role:**
+
+- AI hydrological models integrate historical water levels and weather forecasts to optimize departure decisions and dynamic route adjustments.
+- Augmented reality (AR) overlays underwater obstacles and flow speed alerts to enhance navigation safety
+- Smart wearable devices monitor visitors' heart rate and body temperature in real time, aiding rapid identification of stress reactions.
+- Customer sentiment analysis AI assesses satisfaction from facial expressions and voice tone, adjusting presentation style in real time
+- Automated logistics platform integrates bookings, weather, and equipment inventory, saving administrative time.
+
+**Human moat:**
+
+- Dynamic risk assessment and emergency response in turbulent water
+- sense of secure companionship and psychological support to build trust with tourists
+- Human intuition and collaborative decision-making during emergency rescues
+- Improvised route corrections for climate and terrain changes
+
+**Skills to build:**
+
+- Basic programming and AI tools application (e.g., Python, data analysis)
+- GPS/Hydrological Data Interpretation & AR Navigation Operation
+- Advanced certification in first aid and water rescue (e.g., Swiftwater Rescue)
+- Digital management of customer service and cross-cultural communication
+- Knowledge of sustainable tourism and ecological conservation
+
+**Key growth areas:**
 
 - AEWV
 - Tourism Sector Agreement
@@ -65,70 +98,69 @@ Whitewater rafting guides lead clients on river rafting trips, ensuring safety, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有雇主担保的漂流向导，雇主需证明无法招到本地人。 |
-| Subclass Tourism Sector Agree（Tourism and Hospitality Sector Agreement） | 旅游行业协议工签，为旅游业特定岗位提供简化移民流程。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制标准，但漂流向导通常不满足技能要求，除非有高级管理经验。 |
-| Subclass Seasonal Worker Sche（Recognised Seasonal Employer Scheme） | 认可季节性雇主计划，适用于季节性漂流工作，但通常针对太平洋岛国工人。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored employer visa for drift guides with employer sponsorship; employer must prove inability to hire locally. |
+| Subclass Tourism Sector Agree (Tourism and Hospitality Sector Agreement) | Tourism industry agreement work visa, providing a simplified immigration process for specific tourism positions. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category requiring a 6-point system standard, but raft guides typically do not meet the skill requirements unless they have senior management experience. |
+| Subclass Seasonal Worker Sche (Recognised Seasonal Employer Scheme) | Approved Seasonal Employer Scheme applies to seasonal rafting work, but typically for Pacific Island workers. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Whitewater Rafting Guide？**
-- 热爱户外运动和水上活动，身体健康，具备良好游泳技能
-- 善于沟通，有服务意识和团队精神
-- 能适应季节性工作和不规律作息
-
-**谁不适合学Whitewater Rafting Guide？**
-- 不擅长游泳或对水有恐惧
-- 无法适应长时间户外体力劳动和紧张工作环境
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor sports and water activities, physically fit, with good swimming skills
+- Good communication skills, service-oriented, and a team player
+- Able to adapt to seasonal work and irregular hours
+
+**Who is not suited**
+- Not good at swimming or has a fear of water
+- Unable to adapt to prolonged outdoor physical labor and stressful work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for whitewater rafting guides in New Zealand?**
+A: Entry-level guide annual salary approx. NZD 40,000-50,000, intermediate NZD 50,000-60,000, senior NZD 60,000-75,000, peak season can exceed NZD 80,000. Income varies significantly by season and region.
+
+**Q: Can a whitewater rafting guide migrate to New Zealand?**
+A: This occupation is not on the Green List, but a work visa can be obtained through an Accredited Employer Work Visa (AEWV) or a tourism industry agreement. Skilled migration requires accumulated senior management experience, otherwise migration is difficult.
+
+**Q: How to become an excellent whitewater rafting guide?**
+A: First, obtain a first aid certificate, then get certified through a training course by the New Zealand River Guide Association. Gain experience, learn river rescue techniques, and develop customer service skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Whitewater Rafting Guide为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for whitewater rafting guides in New Zealand?**
-答：Entry-level guides earn about NZD 40,000-50,000 per year, mid-level NZD 50,000-60,000, and senior NZD 60,000-75,000, with peak season higher. Income varies by season and location.
-
-**问：Can a whitewater rafting guide immigrate to New Zealand?**
-答：This occupation is not on the Green List, but work visas are possible via AEWV or Tourism Sector Agreement. Skilled migration is difficult without advanced management experience.
-
-**问：How to become a good whitewater rafting guide?**
-答：Start with a first aid certificate, then get certified through NZ River Guides Association training. Gain experience, learn river rescue techniques, and develop customer service skills.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Clinical and Counseling Psychologists（Clinical and Counseling Psychologists）职业分析 · 美国
+# Clinical and Counseling Psychologists — career analysis · United States
 
-**职业代码：19-3033 – Clinical and Counseling Psychologists。**
+**Occupation code: 19-3033 (SOC)**
 
-Clinical and counseling psychologists assess, diagnose, and treat mental and emotional disorders through observation, interview, and psychological tests. They help individuals understand problems via case history and theory, providing individual or group counseling for better personal, social, and vocational adjustment.
+Clinical and counseling psychologists assess, diagnose, and treat individuals' psychological and emotional disorders through observation, interviews, and psychological tests. They use case history and theory to help patients understand problems and provide individual or group counseling to promote more effective personal, social, and vocational adjustment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学士 | 4年 | $40,000~$120,000（公立学校约4万，私立约12万） |
-| 硕士或博士 | 4-6年 | $80,000~$200,000（博士项目通常提供资助，总花费差异大） |
-| 博士后实习 | 1-2年 | —（通常带薪，年薪约4-6万美元） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public schools around AUD 40,000, private around AUD 120,000) |
+| Master's or doctoral degree | 4-6 years | $80,000~$200,000 (PhD programs typically offer funding; total costs vary widely) |
+| Postdoctoral internship | 1-2 years | $0~$0 (Usually paid, annual salary approx. USD 40,000–60,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学历 | 美国心理学会认证项目 | 必备 | 临床或咨询心理学博士（PhD或PsyD） |
-| 州执照 | 各州心理学委员会 | 必备 | 需通过EPPP考试和督导经验 |
-| ABPP认证 | 美国专业心理学委员会 | 可选 | 自愿，提升职业声誉 |
+| PhD degree | American Psychological Association accredited program | Required | PhD in clinical or counseling psychology (PhD or PsyD) |
+| State license | State psychology boards | Required | Must pass the EPPP exam and obtain supervised experience |
+| ABPP certification | American Board of Professional Psychology | Optional | Voluntary, to enhance professional reputation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 59,000。美国劳工统计局预计2022-2032年临床与咨询心理学家就业增长约6%，快于所有职业平均水平。心理健康意识提升和远程医疗扩展推动需求，但资金限制可能影响公共部门岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 59,000. The U.S. Bureau of Labor Statistics projects employment of clinical and counseling psychologists to grow about 6% from 2022 to 2032, faster than the average for all occupations. Increased mental health awareness and telehealth expansion drive demand, but funding constraints may affect public sector positions.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 博士后或独立执业初期 |
-| 中级（3-7年） | $75,000~$100,000 | 有经验临床心理学家 |
-| 高级（7年以上） | $100,000~$130,000 | 私营执业或管理职位 |
+| Median salary | $100,580 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$75,000 | Early stage postdoctoral or independent practice |
+| Mid-level (3–7 years) | $75,000~$100,000 | Experienced clinical psychologist |
+| Senior (7+ years) | $100,000~$130,000 | Private practice or management positions |
+| average salary | $112,750 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级心理学家通常从博士后实习或受监督实践开始，积累小时数以获得独立执业资格。随后可晋升为高级临床医生、私人执业者或管理职位，如心理健康项目主任或首席心理学家。博士学历有助于学术和科研路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Clinical psychologists' core functions—diagnosis, treatment, and interpersonal insight—are hard to replace by AI, but documentation, assessment, and initial screening will be highly automated, allowing practitioners to focus on deep clinical work. Entry-level roles narrow slightly due to standardized assessment tools, but demand remains strong.
+
+Entry-level psychologists typically start with postdoctoral internships or supervised practice, accumulating hours to obtain independent practice licensure. They can then advance to senior clinician, private practitioner, or management roles, such as mental health program director or chief psychologist. A doctoral degree supports academic and research paths.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of initial psychological assessment reports and symptom checklist interpretations
+- Preliminary semantic analysis of diagnostic interviews using natural language processing
+- Automated scoring and templated reports for standardized psychological tests (e.g., MMPI)
+- Patient appointment scheduling, records management, and insurance billing administrative tasks
+- Generate evidence-based treatment recommendations based on clinical guidelines (e.g., CBT program recommendations)
+
+**Where AI augments the role:**
+
+- AI-assisted therapist monitors patient emotional changes in real-time and provides intervention prompts
+- Symptom tracking and cognitive behavioral therapy homework supervision via chatbots
+- AI tools analyze therapy recordings to identify effective intervention patterns and provide feedback
+- Integrating genomic, neuroimaging, and other data to assist personalised treatment plans
+- Automatically generate clinical documentation compliant with Medicare requirements, saving time
+
+**Human moat:**
+
+- Building therapeutic trust and empathy
+- Complex diagnostic reasoning (integrating conflicting information from multiple sources)
+- Crisis intervention (suicide, violence risk assessment and on-site decision-making)
+- Real-time dynamic adjustment of the therapeutic alliance.
+- Legal responsibility and ethical decision-making (e.g., confidentiality exceptions)
+
+**Skills to build:**
+
+- Use and interpretation of data-driven psychological assessment tools
+- AI-assisted therapy platform operation (e.g., Lyssn, Woebot)
+- Remote psychotherapy techniques (video platforms, digital therapeutics)
+- Foundations of mental health data analysis
+- Tech ethics and AI bias identification
+- Digital multidisciplinary collaboration communication
+
+**Key growth areas:**
 
 - Mental Health Awareness
 - Telehealth Expansion
@@ -63,65 +99,64 @@ Clinical and counseling psychologists assess, diagnose, and treat mental and emo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于博士级心理学家，雇主赞助，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 高级学位专业人士，需PERM或国家利益豁免 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出心理学家，需证明国际声誉 |
+| Subclass H-1B (H-1B Specialty Occupations) | For doctoral-level psychologists, employer-sponsored, subject to lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Advanced degree professionals, need PERM or National Interest Waiver |
+| Subclass O-1 (O-1 Extraordinary Ability) | For outstanding psychologists, requires proven international reputation |
 
-**PR难度：中（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clinical and Counseling Psychologists？**
-- 对人类心理和行为有强烈好奇心的人
-- 具备良好倾听和沟通能力，有同情心
-- 能承受情感压力，并愿意长期学习
-
-**谁不适合学Clinical and Counseling Psychologists？**
-- 对抽象理论和研究缺乏兴趣的人
-- 无法处理高情感负荷或危机情况的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong curiosity about human psychology and behavior
+- Good listening and communication skills, with empathy
+- Able to handle emotional stress and willing to engage in lifelong learning
+
+**Who is not suited**
+- People who lack interest in abstract theory and research
+- Those unable to handle high emotional load or crisis situations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for clinical and counseling psychologists?**
+A: Salary varies by experience, location, and practice type. Entry-level is approximately USD 60,000–75,000, mid-level USD 75,000–100,000, and senior over USD 100,000. Private practice income may be higher.
+
+**Q: Is this occupation viable for immigration to the US?**
+A: Possible, but with limited pathways. Doctoral-level psychologists can apply for H-1B or EB-2 green card. State license required; international credentials need evaluation. O-1 visa is for extraordinary ability individuals.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★½☆） |
-
-Clinical and Counseling Psychologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for clinical and counseling psychologists?**
-答：Salary varies by experience, location, and practice type. Entry-level: $60,000-$75,000; mid-level: $75,000-$100,000; senior: over $100,000. Private practice may yield higher income.
-
-**问：Is immigration to the US feasible for this occupation?**
-答：Yes, but with limited pathways. Doctoral-level psychologists can apply for H-1B or EB-2 green card. State licensure required, international credentials need evaluation. O-1 for extraordinary ability.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

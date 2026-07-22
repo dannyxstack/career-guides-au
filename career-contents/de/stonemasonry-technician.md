@@ -1,60 +1,92 @@
-# Stonemasonry Technician（Stonemasonry Technician）职业分析 · DE
+# Stonemasonry Technician — career analysis · Germany
 
-**职业代码：2123 – Stonemasonry Technician。**
+**Occupation code: 2123 (KldB)**
 
-Stonemasonry technicians process, install and restore natural stone for building facades, monuments, tombstones and interior decoration, a traditional craft in Germany.
+Stone masonry technicians process, install, and restore natural stone for building facades, monuments, tombstones, and interior decoration. It is a traditional German craft occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（企业培训期间有津贴，职业学校免学费） |
-| 师傅学校（Meisterschule） | 1-2年（全日制） | $2,000~$6,000（部分州提供补贴或贷款） |
-| 技术员学校（Fachschule） | 2年（全日制） | $1,000~$4,000（可获国家认证技术员资格） |
+| Dual vocational training | 3 years | $0~$500 (Allowance during company training, tuition-free at vocational schools) |
+| Meisterschule (Master School) | 1-2 years (full-time) | $2,000~$6,000 (Some states offer subsidies or loans) |
+| Technical school (Fachschule) | 2 years (full-time) | $1,000~$4,000 (Eligible for nationally accredited technician qualification.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：需要资质认证（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石匠双元制毕业证书 | 德国工商会（IHK） | 必备 | 必需要求 |
-| 师傅证书（Meister） | 德国手工业协会（HWK） | 可选 | 非必需，但利于晋升和自营 |
-| 资质认证（Anerkennung） | 德国各州主管机构 | 必备 | 第三国学历需认证，通常需语言B1 |
+| Stone Mason Dual System Graduation Certificate | German Chamber of Commerce and Industry (IHK) | Required | Mandatory requirement. |
+| Qualification recognition (Anerkennung) | Competent authorities in German federal states | Required | Third-country qualifications need assessment, usually language B1 |
+| Master craftsman certificate (Meister) | German Chamber of Crafts (HWK) | Optional | Not required, but beneficial for promotion and self-employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国建筑行业持续需求熟练石匠，尤其在古迹修复和高端建筑领域。由于从业人员老龄化，年轻技术人才短缺，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Steady demand for skilled stonemasons in Germany's construction industry, especially in heritage restoration and high-end building. Due to an aging workforce and shortage of young talent, employment prospects are stable.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $29,000~$35,000 | 税前，取决于地区和雇主 |
-| 中级（4-7年） | $35,000~$45,000 | 税前，含加班和津贴 |
-| 高级（8年+，含师傅） | $45,000~$55,000 | 税前，工头或自营收入更高 |
+| Median salary | $43,200 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $29,000~$35,000 | Before tax, depending on region and employer |
+| Mid-level (4-7 years) | $35,000~$45,000 | Pre-tax, including overtime and allowances |
+| Advanced (8+ years, including master-level tradesperson) | $45,000~$55,000 | Before tax; foreman or self-employed income is higher |
+| average salary | $45,312 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从石匠学徒起步，可晋升为工头（Polier）或自营工匠（Meister）。通过继续教育可转向古迹保护专家或建筑技术员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
+
+Starting as a stonemason apprentice, can advance to foreman (Polier) or self-employed master craftsman (Meister). Through further education, can transition to monument conservation specialist or construction technician.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for stone cutting and layout design
+- Operating automatic stone cutting machines and CNC engraving machines
+- Material quantity calculation and layout using BIM models
+- Use robots for repetitive stone handling and laying
+
+**Where AI augments the role:**
+
+- Using 3D scanning and digital twins for precise stone structure installation
+- Use AR glasses to overlay design drawings on construction sites, reducing errors
+- Using AI to optimize stone splicing plans, improving aesthetics and strength
+- Conduct drone inspections of large stone structures and remotely monitor maintenance needs.
+
+**Human moat:**
+
+- Artistic judgment for complex stone carving and hand modeling
+- Adaptive skills for integrated on-site stone and structure installation
+- Empirical judgment of stone texture, color, and physical properties
+- Ability to communicate customized design solutions with clients
+
+**Skills to build:**
+
+- CAD/BIM software operation (e.g., AutoCAD, Revit)
+- CNC stone processing equipment programming and operation
+- 3D scanning and digital modeling skills
+- Engineering surveying and precision installation technology
+- Drone operation and image analysis basics
+
+**Key growth areas:**
 
 - Historic preservation
 - Sustainable construction
@@ -63,65 +95,64 @@ Stonemasonry technicians process, install and restore natural stone for building
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有德国认可学历或同等技能，年薪达标（2024年约43,800欧元）的技术移民。石匠通常蓝卡机会较少，但符合条件可申请。 |
-| Subclass Skilled Worker（Skilled Immigration Act (Employment Visa)） | 需获得德国企业工作合同，且职业资格通过Anerkennung认证。石匠因紧缺，签证审批较快。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，可在未获工作合同时入境德国找工作。适合有职业培训背景的石匠，但需B1德语。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for skilled migrants with a recognized German degree or equivalent skills and meeting the salary threshold (about €43,800 in 2024). Stonemasons rarely have Blue Card opportunities, but can apply if eligible. |
+| Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | Need to obtain a work contract with a German company and have qualifications certified through Anerkennung. Stone masons are in shortage, so visa processing is faster. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to Germany to look for work without a job offer. Suitable for stonemasons with vocational training background, but requires B1 German. |
 
-**PR难度：需认证（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stonemasonry Technician？**
-- 动手能力强、喜欢手工制作的人
-- 对建筑和石材有热情，能适应室外工作
-- 愿意接受双元制培训或资格认证
-
-**谁不适合学Stonemasonry Technician？**
-- 不喜体力劳动或粉尘环境
-- 期望高起薪或快速晋升
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and who enjoy manual crafting
+- Passionate about construction and stone, able to work outdoors
+- Willing to undergo dual-system training or qualification certification
+
+**Who is not suited**
+- Those who dislike physical labor or dusty environments
+- Expecting high starting salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a stonemason technician in Germany?**
+A: According to the German Federal Employment Agency data, stonemason technicians have a pretax annual salary of approximately €35,000-50,000, depending on region, experience, and qualifications. Master level can reach over €55,000.
+
+**Q: How can a Chinese stonemason immigrate to Germany?**
+A: First, you need a German-recognized vocational qualification (Anerkennung), usually requiring German B1. With this qualification, you can apply for a Skilled Worker Visa. Shortage occupations have faster processing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 3年双元制（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 需要资质认证（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 需认证（★★★½☆） |
-
-Stonemasonry Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a stonemasonry technician in Germany?**
-答：According to the Federal Employment Agency, the gross annual salary ranges from €35,000 to €50,000, depending on region, experience and qualifications. Master craftsmen can earn over €55,000.
-
-**问：How can a Chinese stonemason migrate to Germany?**
-答：First, obtain recognition of your vocational qualification (Anerkennung), usually requiring German B1. Then apply for a skilled worker visa. Shortage occupation facilitates faster processing.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

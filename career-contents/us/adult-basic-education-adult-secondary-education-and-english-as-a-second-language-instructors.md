@@ -1,59 +1,93 @@
-# Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors（Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors）职业分析 · 美国
+# Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors — career analysis · United States
 
-**职业代码：25-3011 – Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors。**
+**Occupation code: 25-3011 (SOC)**
 
-Teach out-of-school youths and adults basic education, literacy, or ESL classes, or classes for earning a high school equivalency credential.
+Teach basic literacy, reading and writing skills, or English as a second language to out-of-school youth and adults, or help prepare for high school equivalency exams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费年均1-3万美元） |
-| 硕士学位（可选） | 2年 | $30,000~$80,000（成人教育或TESOL硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition average $10,000-30,000 per year.) |
+| Master's degree (optional) | 2 years | $30,000~$80,000 (Master's degree in adult education or TESOL) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 大学 | 必备 | 通常要求教育、英语或相关领域 |
-| 州教学执照 | 州教育部门 | 可选 | 部分州要求成人教育教师持有教学执照或替代认证 |
-| TESOL证书 | TESOL International Association | 可选 | 对ESL教师有利 |
+| Bachelor's degree | University | Required | Typically requires education, English, or related field |
+| State teaching license | State education department | Optional | Some states require adult education teachers to hold a teaching licence or alternative certification |
+| TESOL certificate. | TESOL International Association | Optional | Beneficial for ESL teachers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。美国成人教育需求稳定，移民人口增长推动ESL课程需求，但政府资助起伏影响就业增长。预计2021-2031年就业增长约5%，与平均值持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. US adult education demand is stable; immigrant population growth drives ESL course demand, but government funding fluctuations affect employment growth. Projected employment growth of about 5% from 2021-2031, on par with average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 兼职或全职入门级 |
-| 中级（4-7年） | $45,000~$58,000 | 全职且有经验 |
-| 高级（8年以上） | $58,000~$75,000 | 课程协调员或主管 |
+| Median salary | $61,540 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Part-time or full-time entry-level |
+| Mid-level (4-7 years) | $45,000~$58,000 | Full-time and experienced |
+| Senior (8+ years) | $58,000~$75,000 | Course coordinator or supervisor |
+| average salary | $65,860 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从兼职教师转向全职教师，积累经验后晋升为课程协调员、项目主管或教学主任，也可通过继续教育获得更高学历进入社区大学管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
+
+Can transition from part-time to full-time teaching; after gaining experience, can advance to course coordinator, program supervisor, or teaching director; can also pursue further education to enter community college management.
+
+**Tasks most exposed to AI:**
+
+- Automated grading and feedback for basic grammar and vocabulary exercises
+- Generating standardized homework questions and test papers
+- AI-Driven Assessment and Correction of Spoken Pronunciation
+- Generate simulated exercises for common conversation scenarios
+
+**Where AI augments the role:**
+
+- Use AI to analyze students' language weaknesses and create personalized learning plans
+- Using AI translation tools to assist in explaining complex grammar concepts (especially for low-language-level students)
+- Generate diverse teaching materials using AI (e.g., cultural context dialogues, speech templates)
+- 24/7 language practice support via AI chatbots outside class hours
+
+**Human moat:**
+
+- Cross-cultural communication and emotional support to help students overcome language anxiety
+- Dynamic classroom management and real-time interaction, adjusting teaching pace based on student responses
+- Explain cultural metaphors, humor, and implied meanings in language
+- Creating immersive language environments (e.g., role-plays, field activities)
+- Assess students' oral fluency, pragmatic skills, and other soft skills
+
+**Skills to build:**
+
+- Use of AI educational tools (e.g. adaptive learning platforms, AI teaching assistants)
+- Data-driven teaching methods (analyze learning data to optimize lesson plans)
+- Online Teaching and Blended Course Design
+- Advanced course in second language acquisition theory and cross-cultural communication
+- EdTech Project Management Skills
+- Critical thinking and emotional intelligence development
+
+**Key growth areas:**
 
 - Adult Education
 - ESL
@@ -62,68 +96,67 @@ Teach out-of-school youths and adults basic education, literacy, or ESL classes,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位，学校可担保，但名额有限 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士学位或学士加5年经验，通过PERM劳工证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主证明无法招聘到美国工人后申请职业移民绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree, schools can sponsor but places are limited |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or bachelor's plus 5 years of experience, through PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored immigrant visa green card after proving inability to recruit US workers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors？**
-- 热爱教学和帮助他人
-- 有耐心且善于沟通
-- 适应多元文化环境
-
-**谁不适合学Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors？**
-- 不喜欢与成人学习者打交道
-- 希望高薪收入者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and helping others
+- Patient and good at communication
+- Adapt to multicultural environments
+
+**Who is not suited**
+- Dislike dealing with adult learners
+- For those seeking high income
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of adult basic education teachers?**
+A: According to BLS, median annual salary in 2022 was about $54,350, but entry-level part-time may be as low as $35,000.
+
+**Q: How can international teachers come to the US to work as adult basic education teachers on a work visa?**
+A: Common paths include H-1B visa (requires bachelor's degree and employer sponsorship) or EB-2/EB-3 green card. But less competitive than STEM occupations.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Yes, teachers can advance to curriculum coordinator, project manager, or program director, requiring additional experience and education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for adult basic education teachers?**
-答：According to BLS, median annual wage was about $54,350 in 2022, but entry-level part-time may be as low as $35,000.
-
-**问：How can international teachers come to the US to teach adult basic education?**
-答：Common paths include H-1B visa (requires bachelor's and employer sponsorship) or EB-2/EB-3 green card. Less competitive than STEM fields.
-
-**问：Are there advancement opportunities in this career?**
-答：Yes, from teacher to curriculum coordinator, program manager, or director, requiring additional experience and education.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

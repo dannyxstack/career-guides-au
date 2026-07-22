@@ -1,61 +1,94 @@
-# Mobile Agricultural Machinery Operator（Mobile Agricultural Machinery Operator）职业分析 · ES
+# Mobile Agricultural Machinery Operator — career analysis · Spain
 
-**职业代码：8321 – Mobile Agricultural Machinery Operator。**
+**Occupation code: 8321 (CNO)**
 
-Operate mobile agricultural machinery such as tractors and harvesters for plowing, sowing, fertilizing, and harvesting. Perform routine maintenance and basic troubleshooting to ensure efficient agricultural production.
+Operate tractors, harvesters, and other mobile agricultural machinery for field work including tillage, sowing, fertilizing, and harvesting. Responsible for daily maintenance and simple troubleshooting of machinery to ensure efficient agricultural production.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $500~$3,000（公立学校学费低，私立较高） |
-| 高级职业培训（FP Grado Superior） | 2年 | $600~$4,000（方向为农业机械化管理） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $500~$3,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $600~$4,000 (The focus is on agricultural mechanization management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 拖拉机驾驶执照 | 西班牙交通局（DGT） | 必备 | 驾驶拖拉机在公共道路行驶必需 |
-| 植物保护产品操作证书 | 地区农业部门 | 可选 | 使用农药时需持有 |
-| 职业培训毕业证书 | 教育部认可的培训中心 | 可选 | FP Grado Medio或Superior，提升就业竞争力 |
+| Tractor Driving License | Spanish Transport Authority (DGT) | Required | Driving a tractor on public roads is required |
+| Plant protection product operation certificate | Regional agricultural department | Optional | Must hold when using pesticides |
+| Vocational training graduation certificate | A training center recognized by the Ministry of Education | Optional | FP Grado Medio or Superior, enhancing employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。西班牙农业机械化程度高，对熟练操作员需求稳定。随着精准农业和自动化技术推广，掌握GPS导航、无人机辅助等技能的操作员更受欢迎。季节性需求明显，安达卢西亚、埃斯特雷马杜拉等农业区岗位较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spain's agriculture is highly mechanized, with a stable demand for skilled operators. With the spread of precision agriculture and automation technologies, operators skilled in GPS navigation, drone assistance, and similar skills are becoming more popular. Seasonal demand is obvious, with many jobs in agricultural regions such as Andalusia and Extremadura.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，季节性工作可能按日薪计算 |
-| 中级（3-7年） | $22,000~$28,000 | 含加班和额外补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或拥有多技能者 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary; seasonal work may be calculated as daily wage |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including overtime and extra subsidies |
+| Senior (7+ years) | $28,000~$35,000 | Supervisors or multi-skilled individuals |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从操作员晋升为机械队长或农场主管，也可向农业技术员方向发展。积累经验后有机会自主创业，购买机械为农场提供代耕服务。参加FP职教培训可提升竞争力，部分岗位要求持有植保或相关操作证书。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
+
+You can advance from operator to mechanical team leader or farm supervisor, or develop into an agricultural technician. After gaining experience, they have the opportunity to start their own businesses and purchase machinery to provide farming services for farms. Participating in FP vocational training can enhance competitiveness; some positions require a certificate in plant protection or related operations.
+
+**Tasks most exposed to AI:**
+
+- Automated collection of soil moisture and nutrient data with report generation
+- Optimizing fertilization/irrigation plans based on historical yield and weather data.
+- Use drones to patrol fields and automatically identify pest and disease areas
+- Automated agricultural machinery scheduling and path planning
+
+**Where AI augments the role:**
+
+- AI-assisted precision fertilization decisions to increase crop yield
+- Uses computer vision to monitor livestock health in real time and warn of disease.
+- Smart sensor network optimizes irrigation and energy consumption
+- Machine learning predicts market demand to guide production planning
+
+**Human moat:**
+
+- On-site emergency response and complex fault diagnosis
+- Unstructured communication and coordination with farm workers and contractors
+- Ethical judgment of animal welfare and herd health management
+- Comprehensive production decisions across seasons and sites
+
+**Skills to build:**
+
+- Precision agriculture software (e.g., Climate FieldView)
+- UAV operation and remote sensing data analysis
+- Python/R basics and agricultural data analysis
+- IoT device configuration and maintenance
+- Project management and team management skills
+- Biosecurity protocols and animal health management
+
+**Key growth areas:**
 
 - Precision Agriculture
 - GPS Guidance Systems
@@ -64,65 +97,67 @@ Operate mobile agricultural machinery such as tractors and harvesters for plowin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employee)） | 由西班牙雇主提供受雇工作合同，需证明该岗位无法在欧盟内招到合适人选。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，适用于高学历或稀缺职业。 |
+| Subclass Cuenta ajena (Work Contract (Employee)) | A work contract provided by a Spanish employer must prove that suitable candidates cannot be recruited for the position within the EU. |
+| Subclass Busqueda empleo (Job Search Visa) | Allowing a stay in Spain for 6 months to look for work, applicable to highly educated or scarce professions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mobile Agricultural Machinery Operator？**
-- 喜欢户外工作和动手操作机械的人
-- 愿意在农业季节灵活调整工作节奏的求职者
-- 对农业机械化技术有学习热情的人
+**Who is suited**
+- People who enjoy outdoor work and hands-on mechanical operations
+- Job seekers willing to flexibly adjust their work pace during the agricultural season
+- Individuals who are passionate about learning agricultural mechanization technology
 
-**谁不适合学Mobile Agricultural Machinery Operator？**
-- 偏好城市生活和稳定办公室工作的人
-- 对体力劳动和长时间田间作业不适应的人
+**Who is not suited**
+- People who prefer urban life and stable office jobs
+- People who are not suited to physical labor and long hours of fieldwork
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for agricultural machinery operators?**
+A: Entry-level annual salary approximately €18,000-22,000, senior up to €28,000-35,000. Actual income affected by seasonality and overtime; some positions paid daily. Salaries in major agricultural regions like Andalusia are above average.
+
+**Q: Is it feasible to become an agricultural machinery operator for non-EU immigrants?**
+A: The difficulty is greater; this profession is not a scarce position in Spain and has relatively low technical requirements. Employers must prove that suitable candidates cannot be recruited within the EU. It is even more recommended to immigrate through family reunification or other high-skilled pathways.
+
+**Q: What training or certification is required?**
+A: Completing FP intermediate vocational training (2 years) provides basic skills; operating tractors on roads requires a DGT driving license; using pesticides requires a plant protection certificate. Practical experience is more valued by employers than qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mobile Agricultural Machinery Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mobile agricultural machinery operators?**
-答：Entry-level annual salary is about €18,000-22,000, while senior operators can earn €28,000-35,000. Actual income varies with seasonality and overtime. Andalusia region pays higher than average.
-
-**问：Is it feasible for non-EU migrants to become agricultural machinery operators?**
-答：It is difficult as this occupation is not on Spain's shortage list and has low skill requirements. Employers must prove no EU candidates are available. Family reunification or high-skilled routes are recommended.
-
-**问：What training or certifications are required?**
-答：Completing a 2-year FP Grado Medio provides basic skills. A DGT driving license is needed for road use, and a phytosanitary certificate for pesticide application. Practical experience is valued more than degrees.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,67 +1,97 @@
-# 贴砖工（Wall and Floor Tiler）职业分析 · 澳大利亚
+# Wall and Floor Tiler — career analysis · Australia
 
-**职业代码：333111 – Wall and Floor Tiler。**
+**Occupation code: 333111 (ANZSCO)**
 
-贴砖工（Wall and Floor Tiler）负责在住宅、商业建筑的地面、墙面、泳池等铺设各类瓷砖。澳大利亚翻新市场旺盛和新房建设带动稳定需求，技艺精良的承包商收入可观，是生活类技工中就业率较高的职业之一。
+Wall and Floor Tilers are responsible for laying various types of tiles on floors, walls, pool surrounds and other surfaces in residential and commercial buildings. Australia's strong renovation market and ongoing new residential construction drive consistent demand, and skilled tiling contractors can earn strong incomes — making it one of the trades with higher employment rates among lifestyle trades.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Wall and Floor Tiling (CPC31120)（学徒） | 42~48个月 | —（各州差异；工具费约$800~$1,500（刀具、切割机等）） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Wall and Floor Tiling (CPC31120) (apprenticeship) | 42–48 months | $0~$2,000 (Varies by state; tool costs approx. $800–$1,500 (knives, cutters, etc.)) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Wall and Floor Tiling (CPC31120) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Wall and Floor Tiling (CPC31120) | TAFE / RTO | Required | Nationally consistent curriculum, foundational qualification for practice |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 20,000。住宅翻新市场（尤其浴室/厨房改造）是最大需求驱动。新建公寓和住宅每套均需瓷砖工程。JSA确认技工类短缺持续（2025）。
+**Job demand: very high (★★★★★).** National workforce approx. 20,000. The residential renovation market (particularly bathroom/kitchen renovations) is the largest demand driver. Every new apartment and home requires tiling work. JSA confirms ongoing trade shortages (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 250~500 个 | 全国，住宅翻新和新建 |
-| Indeed | 120~350 个 | 含承包商 |
-| LinkedIn | 40~120 个 | 偏商业装修 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $28,000~$55,000 | Fair Work Award |
-| 初级贴砖工（1~3年） | $58,000~$75,000 | 住宅卫浴和厨房 |
-| 中级贴砖工（3~8年） | $75,000~$95,000 | Seek均值约$38/hr；WorldSalaries均值$73k（2025） |
-| 资深 / 承包商（8年+） | $95,000~$130,000 | 独立承包商按件计价；高端定制项目更高 |
+| Median salary | $75,750 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Apprentice (0–4 years) | $28,000~$55,000 | Fair Work Award |
+| Junior tiler (1–3 years) | $58,000~$75,000 | Residential bathrooms and kitchens |
+| Intermediate-level tiler (3–8 years) | $75,000~$95,000 | Seek average approximately $38/hr; WorldSalaries average $73k (2025) |
+| Senior / Contractor (8+ years) | $95,000~$130,000 | Independent contractors paid per piece; higher rates for premium custom projects |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 大型格式瓷砖（600×600mm+）和定制马赛克流行，技艺要求提升。独立承包商市场活跃，收入远高于打工。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tile Layers Face Moderate Impact from AI Automation: Repetitive Measuring and Cutting Are at Risk of Replacement, but On-Site Laying, Leveling, and Custom Cuts Still Rely on Manual Skill and Judgment; AI Primarily Acts as an Efficiency Tool Rather Than a Replacement.
+
+Large-format tiles (600×600mm+) and custom mosaics are trending, raising skill requirements. The independent contractor market is active, with earnings well above employed positions.
+
+**Tasks most exposed to AI:**
+
+- Using laser rangefinders and calculators for site measurement and tile layout calculation
+- Automatically generating cutting plans and material lists via software
+- Large-area tiling of standard right-angle walls (simple patterns)
+- Use automatic cutting machines for straight cuts
+- Standard quotes and timeline estimates in client communication
+
+**Where AI augments the role:**
+
+- AI-assisted design software generates complex laying patterns and 3D previews
+- Augmented reality (AR) projection for assisting brick alignment and leveling
+- Automated cutting machines precisely cut irregular tiles based on digital drawings
+- AI defect detection system identifies hollowing and flatness issues in real time
+- Optimize project scheduling and material allocation with smart project management tools
+
+**Human moat:**
+
+- On-site measurement and manual cutting of non-standard spaces (rounded corners, sloped surfaces, irregular shapes)
+- Quality assessment and repair of basic treatments (waterproofing, leveling)
+- On-site communication with property owners and designers to determine aesthetic solutions (aesthetic decisions)
+- Fine laying techniques for various tile materials (natural stone, mosaic)
+- Responsibility for safety regulations and construction quality (compliance, warranty)
+
+**Skills to build:**
+
+- Use BIM/3D layout software (e.g., SketchUp, AutoCAD Tile plugin)
+- Operating CNC waterjet/plasma cutting machines
+- Master augmented reality (AR) assisted layout tools
+- Learn basic operation and data interpretation of AI defect detection systems
+- Enhancing Project Valuation and Quotation Skills (Combined with AI Quotation Tools)
+- Learning sustainable materials and green construction standards
+
+**Key growth areas:**
 
 - Residential Bathroom & Kitchen Renovation
 - New Apartment & House Construction
@@ -70,89 +100,84 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学贴砖工？**
-- 有瓷砖、装修施工背景，目标技能移民
-- 追求手工艺精度，有耐心做复杂对缝和定制设计
-- 有意自立门户做承包商，收入弹性大
-
-**谁不适合学贴砖工？**
-- 有膝关节或腰部慢性伤病（跪地作业多）
-- 期望快速低门槛入行
-- 不接受粉尘工作环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in tiling and construction fit-out, targeting skilled migration
+- Values craft precision and has the patience for complex pattern matching and custom designs
+- Interested in going independent as a contractor, with greater income flexibility
+
+**Who is not suited**
+- Those with chronic knee or lower back injuries (frequent kneeling required)
+- Seeking a fast, low-barrier entry into the industry
+- Does not accept dusty work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a tiler in Australia?**
+A: A mid-level tiler earns approximately $75,000–$95,000 per year (Seek AU 2026, approximately $38/hr). Self-employed contractors can earn $95,000–$130,000+. Apprentice wages are approximately $28,000–$55,000.
+
+**Q: Is it easy to find work as a tiler in Australia?**
+A: Easy. The residential renovation (bathroom/kitchen) market remains consistently strong, with Seek listing 250–500 positions year-round; candidates typically secure employment soon after obtaining their licence.
+
+**Q: Is overseas tiling experience recognised in Australia?**
+A: Not directly recognised. TRA assessment required (12–18 months).
+
+**Q: Will tilers be replaced by robots?**
+A: Extremely low. Seam precision, cut judgement and waterproofing membrane handling are craft skills with no mature automation solutions.
+
+**Q: Is there an age limit for tilers in Australia?**
+A: No legal upper limit. Those aged 40 and above may use TRA recognition to bypass the apprenticeship.
+
+**Q: Is a university degree required?**
+A: No. A Certificate III is sufficient; TAFE entry is available to high school graduates.
+
+**Q: Is tiling hard to learn?**
+A: Moderate difficulty. Joint precision and cutting skills require extensive hands-on practice. Large-format tiles (600mm+) and custom mosaics demand a higher level of craftsmanship.
+
+**Q: Which is more suitable for migrating to Australia — tiler or plasterer?**
+A: Both have similar PR pathways. Tiling offers strong visual craftsmanship and high per-job rates in the custom high-end market; plastering has a larger overall market. See the 'Tiler vs Plasterer' career comparison section (coming soon) for details.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 333111 数据 |
-| WorldSalaries | 贴砖工均值$73,409（2025） |
-| Seek AU | Tiler 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-贴砖工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲贴砖工工资多少？**
-答：中级贴砖工年薪约 $75,000~$95,000（Seek AU 2026，约$38/hr）。独立承包商可达 $95,000~$130,000+。学徒期约 $28,000~$55,000。
-
-**问：澳洲贴砖工容易找工作吗？**
-答：容易。住宅翻新（浴室/厨房）市场持续旺盛，Seek常年挂牌250~500个职位，持证后通常很快入职。
-
-**问：国内贴砖经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）。
-
-**问：贴砖工会被机器人替代吗？**
-答：极低。对缝精度、切割判断和防水层处理是手工艺技艺，无成熟自动化方案。
-
-**问：澳洲贴砖工有年龄限制吗？**
-答：法律无上限。40岁以上可通过TRA互认跳过学徒期。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III即可，高中毕业可入读TAFE。
-
-**问：贴砖工难学吗？**
-答：难度中等。对缝精度和切割技能需要大量实操。大型格式瓷砖（600mm+）和定制马赛克要求更高技艺。
-
-**问：贴砖工和抹灰工哪个更适合移民澳洲？**
-答：两者PR路径相近。贴砖工工艺可见性强，定制高端市场单价高；抹灰工市场规模更大。详见「贴砖工 vs 抹灰工」职业比较板块（即将上线）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

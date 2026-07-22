@@ -1,62 +1,95 @@
-# Special Forces（Special Forces）职业分析 · 美国
+# Special Forces — career analysis · United States
 
-**职业代码：55-3018 – Special Forces。**
+**Occupation code: 55-3018 (SOC)**
 
-Execute unconventional operations by air, land, or sea including raids, reconnaissance, counterterrorism, and rescue. Members are trained in diving, parachuting, survival, and foreign languages.
+Conduct unconventional warfare and special operations missions in air, land, or sea, including raids, reconnaissance, counter-terrorism, and rescue. Members must master diving, parachuting, survival, and foreign languages.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 不适用 | —（加入军队后接受训练） |
-| 军事基础训练 | 10周 | —（由军方支付） |
-| 特种部队选拔训练 | 1-2年 | —（由军方支付，需通过严格考核） |
+| High school graduation | Not applicable | $0~$0 (Receive training after joining the military) |
+| Military basic training | 10 weeks | $0~$0 (Paid by the military) |
+| Special forces selection training. | 1-2 years | $0~$0 (Paid by the military, requires passing rigorous assessments) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国公民身份 | 美国政府 | 必备 | 必须为美国公民 |
-| ASVAB考试合格 | 美国国防部 | 必备 | 武装部队职业能力倾向测试 |
-| 特种部队资格课程 | 美国陆军特种作战司令部 | 必备 | 完成并通过SFAS和Q课程 |
+| US citizenship | U.S. government | Required | Must be a US citizen |
+| ASVAB test pass | U.S. Department of Defense | Required | Armed Forces Vocational Aptitude Battery |
+| Special Forces qualification course | United States Army Special Operations Command | Required | Complete and pass SFAS and Q Course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 58,000。美国特种部队需求稳定，受国防预算影响。反恐和非常规战争持续推动招募，但选拔极其严格，岗位数量有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 58,000. US Special Forces demand is stable, influenced by defense budgets. Counter-terrorism and irregular warfare continue to drive recruitment, but selection is extremely rigorous and positions are limited.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：极高（★★★★★）。**
+**Competition: very high (★★★★½).**
+**Work intensity: very high (★★★★★).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$48,000 | 对应E-2至E-4军衔基本工资 |
-| 中级（4-10年） | $48,000~$75,000 | 对应E-5至E-7军衔，含津贴 |
-| 高级（10年以上） | $75,000~$110,000 | 对应E-8至O-4军衔，含特种津贴 |
+| Median salary | $61,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$48,000 | Corresponds to E-2 to E-4 rank base pay |
+| Mid-level (4-10 years). | $48,000~$75,000 | Corresponding to E-5 to E-7 military ranks, including allowances |
+| Senior (10+ years) | $75,000~$110,000 | Corresponds to E-8 to O-4 ranks, including special duty pay |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 晋升路径从士兵到士官、军官，可升至小队指挥或高级参谋。优秀者可进入更高层级单位（如Delta Force）或担任教官。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+In special forces missions, intelligence analysis and communication coordination are easily enhanced by AI, but high-risk raids, complex tactical decisions, and interpersonal trust still rely on humans, presenting a mixed outlook.
+
+Career path from soldier to non-commissioned officer, officer, up to squad leader or senior staff. Outstanding individuals can enter higher-level units (e.g., Delta Force) or become instructors.
+
+**Tasks most exposed to AI:**
+
+- Automated intelligence analysis: AI processes satellite imagery, signals intelligence, etc., reducing human screening time.
+- Remote operation of unmanned systems: drones and robots replace personnel for reconnaissance and demolition tasks.
+- Basic communication relay: AI manages communication networks, auto-routing and encryption, reducing manual monitoring.
+- Standard process document generation: AI automatically generates reports and briefings based on task logs.
+
+**Where AI augments the role:**
+
+- AI-driven threat warning system: Real-time analysis of multi-source data to identify ambush or explosive threats in advance.
+- Augmented Reality (AR) tactical maps: overlay enemy positions, terrain, and friendly forces to enhance situational awareness
+- Language translation and sentiment analysis: AI assists in quickly understanding local language and cultural context, improving communication.
+- Personalized training and simulation: AI tailors virtual training scenarios based on member performance to optimize tactical decisions.
+
+**Human moat:**
+
+- Instantaneous judgment and action ability in high-risk environments
+- Complex interpersonal trust building and cross-cultural negotiation
+- Creative tactical decision-making under uncertainty.
+- Decision-making on use of force within ethical and legal frameworks
+- Team cohesion and leadership under extreme stress
+
+**Skills to build:**
+
+- AI tool operation: military AI platforms, drone control systems, AR tactical system usage
+- Data analysis basics: interpreting AI-generated threat reports and intelligence summaries
+- Human-machine cooperative tactics: seamless integration with unmanned systems and AI decision support
+- Cybersecurity awareness: protecting communications and AI systems from adversarial interference
+- Foreign Language and Regional Studies: Use AI translation tools for deep cultural understanding
+- Mental resilience training: maintaining human-led judgment under pressure from AI decisions
+
+**Key growth areas:**
 
 - counterterrorism
 - special operations
@@ -65,65 +98,67 @@ Execute unconventional operations by air, land, or sea including raids, reconnai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 不适用，非移民职业 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 仅限具备特殊技能且符合国家利益的非公民军人 |
+| Subclass H-1B (Specialty Occupations) | Not applicable, not an immigrant occupation |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Only for non-citizen military personnel with special skills and in the national interest |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Special Forces？**
-- 身体素质极佳且心理韧性强的年轻人
-- 愿意为国效力、接受严格军事纪律者
-- 具备团队协作和领导潜力的人
+**Who is suited**
+- Young people with excellent physical fitness and strong psychological resilience
+- Those willing to serve the country and accept strict military discipline
+- People with teamwork and leadership potential
 
-**谁不适合学Special Forces？**
-- 不希望长期接受危险任务或高压环境者
-- 无法适应军事化管理和频繁部署者
+**Who is not suited**
+- Those not willing to accept long-term dangerous tasks or high-pressure environments
+- Unable to adapt to militarized management and frequent deployments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for special forces members?**
+A: Salary based on rank and years of service, plus special allowances. Entry-level soldiers earn about USD $32,000–48,000 per year, senior officers up to $110,000, plus housing and medical benefits.
+
+**Q: Can foreigners become US Special Forces members through skilled migration?**
+A: Almost impossible. Must be a US citizen, no direct foreign recruitment; only in rare cases through special immigrant visas (e.g., EB-1) for individuals with military skills who are not citizens.
+
+**Q: What training is required to become a special forces member?**
+A: Must complete basic combat training, advanced individual training, then Special Forces Assessment and Selection (SFAS) and the Qualification Course (Q Course), lasting 1-2 years, with a very high attrition rate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Special Forces属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of Special Forces members?**
-答：Salary depends on rank and years of service, plus special duty pay. Junior enlisted earn $32k-$48k, senior officers up to $110k, with housing and medical benefits.
-
-**问：Can foreigners immigrate to become US Special Forces?**
-答：Extremely difficult. Must be US citizen. Only rare cases via special immigrant visas (e.g., EB-1) for critical military skills.
-
-**问：What training is required to become Special Forces?**
-答：Basic Combat Training, Advanced Individual Training, then Special Forces Assessment and Selection (SFAS) and Qualification Course (Q Course), 1-2 years with high attrition.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

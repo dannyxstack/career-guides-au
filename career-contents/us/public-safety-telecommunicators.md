@@ -1,61 +1,92 @@
-# Public Safety Telecommunicators（Public Safety Telecommunicators）职业分析 · 美国
+# Public Safety Telecommunicators — career analysis · United States
 
-**职业代码：43-5031 – Public Safety Telecommunicators。**
+**Occupation code: 43-5031 (SOC)**
 
-Operate communication systems at 9-1-1 centers to receive emergency calls and dispatch police, fire, and medical services.
+At 911 public safety answering points and emergency operations centers, answer emergency calls and dispatch police, fire, ambulance, and other resources via radio, coordinating emergency response.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常要求高中或同等学历，部分雇主要求副学士学位） |
-| 副学士学位（可选） | 2年 | $5,000~$15,000（和刑事司法或通信相关） |
+| High school diploma | 0 years | $0~$0 (Usually requires high school diploma or equivalent; some employers require an associate degree) |
+| Associate degree (optional) | 2 years | $5,000~$15,000 (Related to criminal justice or communications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 911调度员认证 | APCO International | 可选 | 行业内广泛认可的基础认证 |
-| 紧急医疗调度员认证 | NAED | 可选 | 部分州要求提供医疗调度指导的认证 |
-| 犯罪信息中心认证 | 各州CJIS | 必备 | 访问国家犯罪信息数据库所需 |
+| Criminal Information Center certification | State CJIS | Required | Required to access the National Crime Information Database |
+| 911 dispatcher certification. | APCO International | Optional | Widely recognized basic certification in the industry |
+| Emergency medical dispatcher certification | NAED | Optional | Some states require certification in medical dispatch guidance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 105,000。美国公共安全通信调度员需求稳定。随人口增长和911系统升级，岗位预计保持平稳增长，年增长率约2-4%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 105,000. US public safety communication dispatchers have stable demand. With population growth and 911 system upgrades, positions are expected to grow steadily at about 2-4% per year.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 起薪因地区而异，乡村地区较低 |
-| 中级（3-7年） | $42,000~$55,000 | 具备经验后薪资上升 |
-| 高级（7年以上） | $55,000~$70,000 | 主管或培训师薪资更高 |
+| Median salary | $53,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Starting salary varies by region, lower in rural areas |
+| Mid-level (3–7 years) | $42,000~$55,000 | Salary increases with experience |
+| Senior (7+ years) | $55,000~$70,000 | Supervisors or trainers earn higher salaries |
+| average salary | $56,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级调度员可晋升为高级调度员、主管或培训官，也可转向应急管理、公共安全行政岗位。部分人通过继续教育进入执法或消防领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of public safety telecommunications dispatchers will be partially automated by AI voice recognition and intelligent dispatch systems, but judgment in complex emergencies and humanized communication still rely on humans; total employment may stabilize but entry barriers will rise.
+
+Junior dispatchers can advance to senior dispatchers, supervisors, or trainers, or transition to emergency management, public safety administration. Some continue education to enter law enforcement or firefighting.
+
+**Tasks most exposed to AI:**
+
+- Automatically transcribe and categorize emergency call content via speech recognition
+- Use AI algorithms to generate standard response instructions and automatically allocate resources
+- Automatically record and archive call and dispatch logs.
+
+**Where AI augments the role:**
+
+- AI provides real-time situational information (e.g., maps, weather, historical data) to aid decision-making
+- Intelligently analyzes caller sentiment and threat level to prioritize emergencies
+- Predictive scheduling: using data to forecast high-demand areas and allocate resources in advance
+- Real-time multilingual translation to improve cross-language communication efficiency
+
+**Human moat:**
+
+- Handle non-standardized, highly emotional, or incomplete emergency situations
+- Stay calm and make ethical judgments in sudden chaos
+- Build trust and seamless collaboration with frontline personnel
+- Ultimate responsibility for legal compliance and accountability decisions
+
+**Skills to build:**
+
+- Operation and maintenance of AI scheduling systems (e.g., CAD-integrated tools)
+- Data analysis and visualization (identifying patterns, optimizing responses)
+- Emergency management certification (e.g., CEM) or public safety communications certification (e.g., APCO)
+- Emotional intelligence and crisis communication skills
+- Basic programming/scripting skills (customizing workflows)
+
+**Key growth areas:**
 
 - Stable Demand
 - 911 Modernization
@@ -64,65 +95,67 @@ Operate communication systems at 9-1-1 centers to receive emergency calls and di
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因最低要求仅为高中文凭，不符合专业职业定义。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保困难，因为该职业通常不满足EB-2/EB-3的学位或特殊技能要求。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the minimum requirement is only a high school diploma, which does not meet the definition of a professional occupation. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer sponsorship is difficult because this occupation typically does not meet the degree or special skills requirements for EB-2/EB-3. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Safety Telecommunicators？**
-- 抗压能力强，能在紧急情况下保持冷静
-- 多任务处理能力出色，能同时接听电话和操作调度系统
-- 具备良好沟通和快速决策能力
+**Who is suited**
+- Strong stress tolerance, able to stay calm in emergencies
+- Excellent multitasking skills, able to answer calls and operate dispatch systems simultaneously
+- Possess good communication and quick decision-making skills
 
-**谁不适合学Public Safety Telecommunicators？**
-- 无法承受长时间高压和轮班工作
-- 缺乏耐心或难以应对情绪化求助者
+**Who is not suited**
+- Unable to tolerate prolonged high pressure and shift work
+- Lack of patience or difficulty handling emotional callers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a US public safety telecommunicator?**
+A: Entry-level annual salary approximately USD 32,000-42,000, mid-level USD 42,000-55,000, senior up to USD 70,000 or more, but significantly affected by region and employer.
+
+**Q: Can foreigners immigrate to the US as public safety telecommunications dispatchers?**
+A: Very unlikely. The occupation typically requires only a high school diploma, not meeting H-1B specialty occupation or EB-2/EB-3 green card education requirements, making employer sponsorship difficult.
+
+**Q: Is there high demand for this occupation in the US?**
+A: Demand is stable, occupation is in shortage; due to shift work and high pressure, personnel turnover is high, and the 911 system continuously needs new people.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Public Safety Telecommunicators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Public Safety Telecommunicators in the US?**
-答：Entry-level salary is around $32k-$42k, mid-level $42k-$55k, senior up to $70k+, varying by location and agency.
-
-**问：Can foreigners immigrate to the US as Public Safety Telecommunicators?**
-答：Very unlikely. The job typically requires only a high school diploma, not meeting H-1B specialty occupation or EB-2/EB-3 green card criteria.
-
-**问：Is this occupation in high demand in the US?**
-答：Demand is stable and considered a shortage occupation due to shift work and high turnover.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

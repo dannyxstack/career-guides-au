@@ -1,59 +1,93 @@
-# Athletes and Sports Competitors（Athletes and Sports Competitors）职业分析 · 美国
+# Athletes and Sports Competitors — career analysis · United States
 
-**职业代码：27-2021 – Athletes and Sports Competitors。**
+**Occupation code: 27-2021 (SOC)**
 
-Compete in athletic events, including professional and amateur athletes and sports competitors.
+Participate in sports competitions, including professional athletes, amateur athletes, and sports competition participants.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（多数运动员无需高等教育，但需长期训练） |
-| 大学体育奖学金 | 4年 | —（部分大学提供体育奖学金覆盖学费） |
+| High school graduation | 12 years | $0~$0 (Most athletes do not need higher education, but require long-term training) |
+| University athletic scholarship | 4 years | $0~$50,000 (Some universities offer sports scholarships covering tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育训练证书 | 国家认可机构 | 可选 | 如私人教练认证，非强制但有助于职业发展 |
+| Sports training certificate | National accreditation bodies | Optional | Such as personal trainer certification, not mandatory but helpful for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 19,000。美国运动员就业岗位主要集中在职业体育联赛和休闲体育领域，但岗位数量有限且竞争激烈。顶级运动员收入极高，但大多数运动员收入较低且职业生涯短暂。就业增长预计缓慢，平均每年约4,400个岗位空缺。
+**Job demand: low (★½☆☆☆).** National workforce approx. 19,000. Athlete employment in the US is mainly concentrated in professional sports leagues and recreational sports, but positions are limited and highly competitive. Top athletes earn very high incomes, but most athletes have low earnings and short careers. Employment growth is expected to be slow, with about 4,400 job openings per year on average.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：极高（★★★★½）。**
+**Competition: very high (★★★★½).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$50,000 | 多指业余或低级别联赛运动员 |
-| 中级（3-10年） | $50,000~$150,000 | 包括职业联赛中下层球员 |
-| 高级（10年以上） | $150,000~$10,000,000 | 顶级职业运动员，收入范围极广 |
+| Median salary | $66,710 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $20,000~$50,000 | Refers to amateur or lower-league athletes |
+| Intermediate (3-10 years) | $50,000~$150,000 | Includes lower-tier players in professional leagues |
+| Senior (10+ years) | $150,000~$10,000,000 | Top professional athletes, income range is extremely wide |
+| average salary | $206,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业运动员通常从青少年训练起步，进入大学联赛或职业联盟。晋升路径包括成为主力选手、签约更高级别联赛、转型为教练或体育评论员。少数顶尖运动员可获得巨额代言合同，但多数运动员在退役后需另谋职业。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
+
+Professional athletes typically start training as teenagers, entering college leagues or professional leagues. Career progression includes becoming a key player, signing with higher-level leagues, transitioning to coaching or sports commentary. A few top athletes secure huge endorsement deals, but most need other careers after retirement.
+
+**Tasks most exposed to AI:**
+
+- Manual collection and analysis of game data
+- Basic training plan development and adjustment
+- Manual editing and annotation of tactical footage
+- Traditional monitoring and recording of athlete physiological indicators
+
+**Where AI augments the role:**
+
+- Uses AI video analysis to optimize personal technique and tactical decisions
+- Personalized injury prevention using wearable sensors and AI
+- Improve pre-game preparation efficiency through AI simulation of opponent strategies
+- Use AI to generate customized nutrition and recovery plans
+
+**Human moat:**
+
+- High-intensity physical fitness, speed, and skill performance
+- Intuitive judgment for on-the-spot response and teamwork
+- Competitive spirit and mental resilience
+- Perseverance and self-discipline from long-term training
+- Breaking human limits and creative race strategies
+
+**Skills to build:**
+
+- Sports data analysis and interpretation
+- Use of AI video analysis tools
+- Wearable devices and biosensor data applications
+- Personalized training programming (AI-assisted)
+- Sports Psychology and Stress Management
+- Digital media and personal brand management
+
+**Key growth areas:**
 
 - Professional sports leagues
 - Esports
@@ -62,66 +96,68 @@ Compete in athletic events, including professional and amateur athletes and spor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Visa for Individuals with Extraordinary Ability） | 适用于在体育领域具有杰出能力的运动员，需证明国际或国家级成就。 |
-| Subclass P-1（P-1 Visa for Athletes） | 适用于国际公认的运动员，需参加特定的体育赛事或联赛。 |
-| Subclass Green Card (EB-1)（EB-1 Green Card for Extraordinary Ability） | 杰出运动员可通过EB-1A类别申请永久居留，无需雇主担保。 |
+| Subclass O-1 (O-1 Visa for Individuals with Extraordinary Ability) | Applicable to athletes with outstanding abilities in the sports field; must demonstrate international or national-level achievements. |
+| Subclass P-1 (P-1 Visa for Athletes) | Applicable to internationally recognised athletes who need to participate in specific sports events or leagues. |
+| Subclass Green Card (EB-1) (EB-1 Green Card for Extraordinary Ability) | Outstanding athletes can apply for permanent residency via the EB-1A category without employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Athletes and Sports Competitors？**
-- 从小接受系统训练并有突出天赋的运动员
-- 能够承受高强度训练和比赛压力的人
-- 自律性强、有良好团队合作精神的人
+**Who is suited**
+- Athletes who have received systematic training from a young age and show exceptional talent
+- People who can withstand high-intensity training and competition pressure
+- People with strong self-discipline and good teamwork spirit
 
-**谁不适合学Athletes and Sports Competitors？**
-- 不善于面对失败和挫折的人
-- 希望稳定收入和工作环境的人
+**Who is not suited**
+- People not good at facing failure and setbacks
+- People seeking stable income and work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a professional athlete?**
+A: Professional athlete salaries vary greatly; median is around USD 50,000, but top stars can earn millions or tens of millions per year. Most athletes have lower incomes and short careers.
+
+**Q: How can foreign athletes immigrate to the US?**
+A: Usually enter via O-1 or P-1 visa; outstanding athletes can apply for EB-1A green card. Must demonstrate international or national achievements, such as Olympic medals or professional league participation.
+
+**Q: What do athletes typically do after retirement?**
+A: Common career transitions include coach, sports commentator, sports management, fitness instructor, or a complete career change. Some gain other professional qualifications through university education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 差异大（★★½☆☆） |
-| 工作强度 | 极高（★★★★½） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Athletes and Sports Competitors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for professional athletes?**
-答：Salaries vary widely; median around $50,000, but top stars earn millions. Most athletes have low income and short careers.
-
-**问：How can foreign athletes immigrate to the US?**
-答：Typically via O-1 or P-1 visas; outstanding athletes may apply for EB-1A green card. Must demonstrate international or national achievements.
-
-**问：What do athletes do after retirement?**
-答：Common paths: coaching, sports commentary, sports management, fitness training, or career change. Some obtain degrees for other professions.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

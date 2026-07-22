@@ -1,60 +1,92 @@
-# Glass and ceramics makers, decorators and finishers（Glass and ceramics makers, decorators and finishers）职业分析 · UK
+# Glass and ceramics makers, decorators and finishers — career analysis · United Kingdom
 
-**职业代码：5441 – Glass and ceramics makers, decorators and finishers。**
+**Occupation code: 5441 (SOC)**
 
-Glass and ceramics makers, decorators and finishers form, shape, decorate, smooth and polish glassware, earthenware, refractory goods, clay bricks and other ceramic goods. Work is carried out in factories or studios.
+This occupation involves forming, decorating, grinding, and polishing glass and ceramic products, including household glass, art ceramics, and refractory bricks. Work environments include factories and studios, requiring hand skills and machine operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| GCSEs (高中会考) | 2年 | —（公立教育免费） |
-| 学徒制 (Apprenticeship) | 2-4年 | —（学徒期间有工资，政府补贴部分费用） |
-| 继续教育文凭或高级国家文凭 | 1-2年 | $3,000~$6,000（学费因课程和机构而异） |
+| GCSEs (General Certificate of Secondary Education) | 2 years | $0~$0 (Public education is free) |
+| Apprenticeship | 2-4 years | $0~$10,000 (Apprentices receive wages, with government subsidies covering part of the costs) |
+| Continuing education diploma or higher national diploma | 1-2 years | $3,000~$6,000 (Tuition fees vary by course and institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃加工或陶瓷制造国家职业资格 (NVQ Level 2/3) | City & Guilds | 可选 | 行业内广泛认可，学徒制中常获得 |
-| 玻璃或陶瓷相关学位 | 认可大学或艺术学院 | 可选 | 非必需，但对高级职位有帮助 |
-| 健康与安全证书（如 IOSH） | IOSH | 可选 | 部分雇主要求 |
+| National Vocational Qualification (NVQ Level 2/3) in Glass Processing or Ceramic Manufacturing | City & Guilds | Optional | Widely recognised in the industry, often obtained through apprenticeships |
+| Degree in glass or ceramics | Recognized university or art college | Optional | Not required, but helpful for senior positions |
+| Health and safety certificates (e.g., IOSH) | IOSH | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。英国玻璃与陶瓷行业整体平稳，手工精品需求稳定，但大规模生产岗位因自动化略有减少。预计2025-2030年就业人数小幅下降，年增长率约-0.5%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. UK glass and ceramics industry overall stable; demand for handmade crafts steady, but mass production roles slightly reduced due to automation. Employment expected to decline slightly 2025-2030, annual growth rate approx. -0.5%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 多为生产线操作员或学徒 |
-| 中级（3-7年） | $24,000~$32,000 | 熟练技工或工匠 |
-| 高级（7年以上） | $32,000~$45,000 | 主管、高级工匠或工作室经理 |
+| Median salary | $28,936 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Mostly production line operators or apprentices |
+| Mid-level (3–7 years) | $24,000~$32,000 | Skilled tradesperson or craftsman |
+| Senior (7+ years) | $32,000~$45,000 | Supervisor, senior artisan, or studio manager |
+| average salary | $31,705 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级工人通常从学徒或生产线岗位开始，积累经验后可晋升为高级技工、团队主管或质量控制员。少数人可成为独立工匠或工作室主理人。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Glass and ceramics manufacturing, decorating, and finishing workers face medium automation risk; manual finishing and artistic design tasks still rely on humans, but standardized product forming, defect detection, etc., will be gradually replaced by AI machine vision and robots.
+
+Junior workers typically start as apprentices or on production lines, and with experience can advance to senior technicians, team supervisors, or quality controllers. A few may become independent craftsmen or studio owners.
+
+**Tasks most exposed to AI:**
+
+- Repetitive cup and dish forming operations (replaced by machine pressing/slip casting)
+- Standardised product surface sanding and polishing (robot automatic sanding)
+- Basic quality defect detection (AI visual inspection replaces human eye)
+- Simple pattern screen printing (replaced by automated printing machines)
+
+**Where AI augments the role:**
+
+- Decorative design (AI-generated patterns and color schemes assist creation)
+- Kiln temperature curve optimization (AI prediction model improves yield rate)
+- Custom product modeling (3D scanning and AI-assisted rapid mold generation)
+- Production scheduling and defect root cause analysis (AI data mining to aid decision-making)
+
+**Human moat:**
+
+- Manual fine finishing and repair (e.g., kintsugi, cold working of glass)
+- Artistic, non-standard design (customized client needs)
+- Manual forming of complex non-standard parts (shapes that cannot be produced by machines).
+- Inheritance of traditional craftsmanship skills and on-site problem diagnosis
+
+**Skills to build:**
+
+- 3D modeling software (Blender/Rhino) and digital design
+- AI-assisted design tools (e.g., Midjourney generates ceramic patterns)
+- Robot and automation equipment programming and maintenance
+- Fundamentals of materials science (ceramic/glass composition and processing)
+- Data analysis and process optimization (Python basics)
+
+**Key growth areas:**
 
 - manual dexterity
 - ceramic artistry
@@ -63,68 +95,67 @@ Glass and ceramics makers, decorators and finishers form, shape, decorate, smoot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有雇主担保的技术工人，需满足薪资门槛（通常£26,200/年） |
-| Subclass Scale-up（Scale-up Visa） | 适用于具有高增长潜力公司的工作机会，薪资需达到£33,000/年 |
-| Subclass Graduate（Graduate Visa） | 英国高校毕业生可申请，允许毕业后工作2年（博士3年），不限行业 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled workers with employer sponsorship, must meet salary threshold (typically £26,200/year) |
+| Subclass Scale-up (Scale-up Visa) | Applies to job opportunities with high-growth potential companies; salary must reach £33,000/year |
+| Subclass Graduate (Graduate Visa) | UK university graduates can apply, allowing them to work for 2 years (3 years for PhDs) in any industry |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass and ceramics makers, decorators and finishers？**
-- 对手工制作和艺术创作有热情的人
-- 愿意从事重复性体力劳动的人
-- 喜欢安静、独立工作环境的人
-
-**谁不适合学Glass and ceramics makers, decorators and finishers？**
-- 不喜欢灰尘和高温环境的人
-- 寻求高收入和快速晋升的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those passionate about handcraft and artistic creation.
+- Willing to perform repetitive physical labor
+- People who prefer quiet, independent work environments
+
+**Who is not suited**
+- People who dislike dust and high-temperature environments
+- People seeking high income and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for glass and ceramics manufacturing workers?**
+A: Junior salary around £18,000-24,000, senior technicians can reach £32,000-45,000. Salary growth is limited.
+
+**Q: What are the pathways to immigrate to the UK for this occupation?**
+A: Can migrate via Skilled Worker visa (requires employer sponsorship) or Graduate visa (for graduates). This occupation is not on the shortage list, making sponsorship more difficult.
+
+**Q: What training is needed to become a glass and ceramics manufacturing worker?**
+A: Common path is completing a 2-4 year apprenticeship to obtain NVQ Level 2/3. Can also study through further education courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Glass and ceramics makers, decorators and finishers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for glass and ceramics makers?**
-答：Entry-level salaries range from £18,000 to £24,000, while senior workers can earn £32,000 to £45,000. Salary growth is limited.
-
-**问：What are the migration routes for this occupation?**
-答：You can apply for a Skilled Worker visa (with employer sponsorship) or Graduate visa (for graduates). The occupation is not on the shortage list, making sponsorship harder.
-
-**问：What training is needed to become a glass and ceramics maker?**
-答：Common path is a 2-4 year apprenticeship leading to NVQ Level 2/3. Further education courses are also available.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

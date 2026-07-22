@@ -1,59 +1,92 @@
-# Electrical and Electronic Product Design and Drafting（Electrical and Electronic Product Design and Drafting）职业分析 · FR
+# Electrical and Electronic Product Design and Drafting — career analysis · France
 
-**职业代码：H1202 – Electrical and Electronic Product Design and Drafting。**
+**Occupation code: H1202 (ROME)**
 
-Responsible for conceptual design, technical drafting, and specification of electrical and electronic products, ensuring compliance with performance, safety, and regulatory standards, and collaborating with manufacturing teams.
+Responsible for conceptual design, technical drawing, and specification development of electrical and electronic products to ensure products meet performance, safety, and regulatory requirements, and collaborate with the manufacturing team to optimize designs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT | 2年（BTS/DUT） | $500~$1,500（公立学校学费低，私立费用更高） |
-| Licence professionnelle | 3年（Licence） | $500~$3,000（可学徒制，企业承担部分费用） |
-| Ingénieur/Master | 5年（工程师或Master） | $3,000~$15,000（工程师学院学费较高，但就业前景好） |
+| BTS/DUT | 2 years (BTS/DUT) | $500~$1,500 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Licence professionnelle | 3 years (Licence) | $500~$3,000 (Apprenticeship system is available, with companies covering part of the costs) |
+| Ingénieur/Master | 5 years (engineer or master) | $3,000~$15,000 (Engineering colleges have higher tuition fees but good employment prospects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师文凭或硕士学位 | 法国工程师学院或大学 | 必备 | 电气、电子或相关工程领域 |
-| CAD软件认证 | 达索系统等 | 可选 | SolidWorks、CATIA等专业软件认证 |
+| Diploma or master's degree in engineering | French engineering institutes or universities | Required | Electrical, electronic, or related engineering fields |
+| CAD software certification | Dassault Systèmes, etc | Optional | Certifications for professional software such as SolidWorks and CATIA |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国在绿色能源转型、电动汽车和物联网领域投资增加，带动电气电子设计岗位需求稳步增长。该职业在工业发达地区（如奥弗涅-罗讷-阿尔卑斯、巴黎大区）机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's increased investment in green energy transition, electric vehicles, and the Internet of Things has driven steady growth in demand for electrical and electronic design positions. This profession offers more opportunities in industrialized regions (such as Auvergne-Rhône-Alpes, the Paris region).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $34,000~$42,000 | 税前年薪，视公司规模和地点而定 |
-| 中级（3-8年） | $42,000~$55,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $55,000~$75,000 | 税前年薪，项目负责人或专家级别 |
+| Median salary | $48,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $34,000~$42,000 | Pre-tax annual salary, depending on company size and location |
+| Mid-level (3–8 years) | $42,000~$55,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $55,000~$75,000 | Pre-tax annual salary, project leader or expert level |
+| average salary | $31,644 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级设计员可晋升为高级工程师、项目负责人或设计主管。通过积累项目管理经验，可转向研发经理或技术总监岗位。持续学习新技术对职业发展至关重要。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will largely take over repetitive drafting tasks for electrical and electronic drafters, but circuit logic design, cross-system coordination, and on-site problem-solving still require human input, making the job outlook mixed.
+
+Junior designers can be promoted to senior engineer, project leader, or design supervisor. By gaining project management experience, you can move on to roles such as R&D Manager or Technical Director. Continuous learning of new technologies is crucial for career development.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to draw standard circuit diagrams and wiring layouts
+- Generate bill of materials and basic assembly documentation
+- Quickly create drawings for similar projects using templates
+- Checking and correcting format errors in drawings
+
+**Where AI augments the role:**
+
+- Using AI to assist in complex circuit layout optimization simulation
+- Automatically check compliance of drawings and design specifications using AI tools
+- Use parametric modeling tools to dynamically adjust design variants.
+- Generating preliminary schematics with AI and rapidly iterating designs
+
+**Human moat:**
+
+- Comprehensive judgment understanding electrical system functional logic and safety standards
+- Communicating on-site with engineers and technicians to resolve discrepancies between drawings and actual objects
+- Make original design decisions for non-standard, customized systems
+- Bears legal and production responsibilities for drawing errors
+
+**Skills to build:**
+
+- Proficient in AI-enhanced CAD software (e.g., Revit, AutoCAD AI plugins)
+- Basic circuit simulation and signal integrity analysis
+- Interdisciplinary system integration knowledge (e.g., coordination of electrical and mechanical)
+- Basics of data labeling and AI model training (for drawing recognition)
+- Project management and requirements analysis skills
+- Automated Safety Compliance Inspection Tool
+
+**Key growth areas:**
 
 - Energy transition
 - Electric vehicles
@@ -62,68 +95,67 @@ Responsible for conceptual design, technical drafting, and specification of elec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如工程师，需有硕士学历或3年以上经验，合同年薪不低于42,000欧元。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，需至少3年高等教育及长合同，年薪门槛约53,514欧元（2024年）。 |
-| Subclass Salarié（Employee Work Permit） | 普通工作签证，需法国雇主的长期合同，通过劳动局审批。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as engineers, requiring a master's degree or more than 3 years of experience, with a contract annual salary of no less than 42,000 euros. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires at least 3 years of higher education and a long-term contract; salary threshold is about 53,514 EUR (2024). |
+| Subclass Salarié (Employee Work Permit) | A regular work visa requires a long-term contract with a French employer, approved by the labor bureau. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical and Electronic Product Design and Drafting？**
-- 喜欢技术设计、绘图和解决工程问题的人
-- 具备电气电子知识，愿意持续学习新技术的人
-- 希望在法国工业领域长期发展、寻求稳定职业的人
-
-**谁不适合学Electrical and Electronic Product Design and Drafting？**
-- 不喜欢精细绘图和技术文档工作的人
-- 不愿学习新软件或新技术的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy technical design, drafting, and solving engineering problems
+- Individuals with electrical and electronic knowledge who are willing to continuously learn new technologies
+- Those who wish to develop long-term in France's industrial sector and seek stable careers
+
+**Who is not suited**
+- People who dislike detailed drawing and technical documentation work
+- People unwilling to learn new software or technology
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this profession in France?**
+A: Junior designers earn about 34,000-42,000 euros annually, intermediate designers 42,000-55,000 euros, and senior designers up to 55,000-75,000 euros, depending on experience, company, and region.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: Immigration is possible through the Passeport Talent Passport or the EU Blue Card (Carte bleue UE). At least 3 years of relevant experience or a master's degree is required, and if you find a French employer, your contract annual salary meets the threshold.
+
+**Q: What diplomas or certifications are required for this profession?**
+A: An engineering diploma or master's degree (electrical/electronic engineering) is usually required. CAD software certification (such as SolidWorks) is a plus, not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electrical and Electronic Product Design and Drafting的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in France?**
-答：Entry-level designers earn around €34,000-42,000 annually, mid-level €42,000-55,000, and senior up to €55,000-75,000, depending on experience, company, and region.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Via the Talent Passport or EU Blue Card. Requires at least 3 years of experience or a master's degree, a French employer, and a salary meeting the threshold.
-
-**问：What diplomas or certifications are required?**
-答：Typically an engineering diploma or master's in electrical/electronic engineering. CAD certification (e.g., SolidWorks) is a plus but not mandatory.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

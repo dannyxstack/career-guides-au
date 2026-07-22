@@ -1,61 +1,93 @@
-# Court Clerk / Registry Officer（Court Clerk / Registry Officer）职业分析 · 新西兰
+# Court Clerk / Registry Officer — career analysis · New Zealand
 
-**职业代码：599214 – Court Clerk / Registry Officer。**
+**Occupation code: 599214 (ANZSCO)**
 
-Court clerks handle filing, scheduling, document management, and court support. This role is not on New Zealand's skilled migration or Green List; work is mainly via Accredited Employer Work Visa (AEWV), with low immigration feasibility.
+Court clerks handle case filing, scheduling, document management, and trial support, making them key roles in judicial administration. This occupation is not on New Zealand's Skilled Migrant or Green List categories; employment is primarily through the Accredited Employer Work Visa (AEWV) pathway, with low immigration feasibility.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业后职业培训 | 6个月 | $2,000~$5,000（如法院行政短期课程或在线证书） |
-| 本科（法律或商务） | 3年 | $30,000~$50,000（奥克兰大学等公立大学年学费约2.5-3.5万NZD） |
+| Vocational training after high school graduation. | 6 months. | $2,000~$5,000 (e.g., short course in court administration or online certificate) |
+| Bachelor's degree (law or business) | 3 years | $30,000~$50,000 (Annual tuition at public universities like the University of Auckland is around NZD 25,000–35,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家法院行政证书 | 新西兰法院 | 可选 | 内部培训证书，非强制但有利晋升 |
-| 新西兰法律实务文凭 | 理工学院（如Unitec） | 可选 | 部分雇主优先考虑 |
-| 司法职业培训课程 | 司法部 | 必备 | 入职后需完成 |
+| Judicial professional training courses | Department of Justice. | Required | To be completed after onboarding |
+| New Zealand National Certificate Court Administration | New Zealand courts | Optional | Internal training certificate, not mandatory but beneficial for promotion |
+| New Zealand Diploma in Legal Practice | Polytechnic institutes (e.g., Unitec) | Optional | Some employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 1,500。新西兰法院系统稳定，但岗位多在地方政府，需求平稳。预计未来五年就业增长缓慢（约0-5%），受司法效率改革影响，部分文书工作可能自动化。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,500. The New Zealand court system is stable, but positions are mostly in local government with steady demand. Employment is expected to grow slowly over the next five years (about 0-5%), affected by judicial efficiency reforms, and some clerical work may be automated.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低至中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级，需培训 |
-| 中级（3-7年） | $55,000~$70,000 | 有经验后晋升 |
-| 高级（7年以上） | $70,000~$85,000 | 团队主管或资深承案 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level, training required |
+| Mid-level (3–7 years) | $55,000~$70,000 | Advancement with experience |
+| Senior (7+ years) | $70,000~$85,000 | Team Leader or Senior Case Manager |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 初级书记员可晋升至高级书记员、团队主管或法院运营经理。也可转向司法系统其他行政岗或法律辅助角色，如法庭服务官。需积累法院工作经验并完成内部培训。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Court clerk/registry officer document processing and scheduling face high replacement risk, but court attendance support and legal procedure compliance still require human judgment, with total positions expected to shrink.
+
+Junior clerks can advance to senior clerk, team supervisor, or court operations manager. They can also move to other administrative roles in the judicial system or legal support roles such as court services officer. Need to accumulate court work experience and complete internal training.
+
+**Tasks most exposed to AI:**
+
+- Case registration and data entry
+- Automated scheduling and court timetable management
+- Generation and distribution of standard documents (e.g., subpoenas, judgments)
+- Transcription and initial proofreading of court records
+
+**Where AI augments the role:**
+
+- Use AI for quick legal document retrieval and comparison
+- Managing complex case workflow tracking through smart workflows
+- Generate case summaries and reports using natural language processing
+- Using automation tools for real-time collation and annotation of court materials
+
+**Human moat:**
+
+- On-the-spot adaptability and coordination in court support
+- Understanding legal procedure details and making compliant judgments
+- Communication and relationship maintenance with stakeholders such as judges and lawyers
+- Humanitarian care and confidentiality in handling special or sensitive cases
+
+**Skills to build:**
+
+- Advanced operation of court management software (e.g., Jade, eCourts)
+- Legal process automation tools (e.g., RPA, low-code platforms)
+- Data governance and information management
+- Basic legal knowledge and procedural rules
+- Cross-departmental collaboration and conflict resolution
+
+**Key growth areas:**
 
 - Stable demand
 - Government sector
@@ -64,66 +96,68 @@ Court clerks handle filing, scheduling, document management, and court support. 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需有认证雇主担保，符合薪资中位数要求。非短缺职业，获批难度中等。 |
-| Subclass SMC（Skilled Migrant Category） | 理论上可申请，但需满足6分制且职业在ANZSCO技能等级1-3，实际移民局审批较严，非优先。 |
-| Subclass Working Holiday（Working Holiday Visa） | 短期工作，不能作为长期移民途径。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship and meeting median salary. Not a shortage occupation, moderate approval difficulty. |
+| Subclass SMC (Skilled Migrant Category) | Theoretically possible, but must meet the 6-point system and have an occupation in ANZSCO skill level 1-3; in practice, immigration approval is strict and not a priority. |
+| Subclass Working Holiday (Working Holiday Visa) | Short-term work, not a long-term immigration pathway. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Court Clerk / Registry Officer？**
-- 注重工作稳定、不追求高薪的人群
-- 对法律行政感兴趣、有组织能力的人
-- 希望进入政府系统工作的人
+**Who is suited**
+- People prioritizing job stability over high salary
+- People interested in legal administration with organizational skills
+- People who want to work in government systems
 
-**谁不适合学Court Clerk / Registry Officer？**
-- 期望通过技术移民快速获得新西兰居留权的人
-- 追求高薪或快速职业晋升的人
+**Who is not suited**
+- People seeking fast New Zealand residency through skilled migration
+- People pursuing high salary or fast career promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for court clerks in New Zealand?**
+A: Entry-level salary approx NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-85,000. Below New Zealand average wage, slow growth.
+
+**Q: Can a court clerk immigrate to New Zealand via skilled migration?**
+A: This occupation is not on the Green List and is not in long-term shortage; skilled migration feasibility is low. The main pathway is the Accredited Employer Work Visa (AEWV), but residence visa applications are difficult.
+
+**Q: What educational background is needed to become a court clerk?**
+A: Typically only high school diploma plus short-term training, or a bachelor's degree in law/business. Must complete Department of Justice internal training after hiring.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低至中等（★★☆☆☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Court Clerk / Registry Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for court clerks in NZ?**
-答：Entry-level: NZD 45,000-55,000; mid-level: NZD 55,000-70,000; senior: NZD 70,000-85,000. Below average national wage.
-
-**问：Can court clerks migrate to NZ via skilled migration?**
-答：This occupation is not on the Green List or long-term shortage list, making skilled migration unlikely. Main route is AEWV, but resident visa application is difficult.
-
-**问：What education is needed to become a court clerk?**
-答：Generally secondary school plus short training, or a bachelor's in law/business. On-the-job training with Ministry of Justice is mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

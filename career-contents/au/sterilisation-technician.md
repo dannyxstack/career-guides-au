@@ -1,61 +1,96 @@
-# Sterilisation Technician（Sterilisation Technician）职业分析 · 澳大利亚
+# Sterilisation Technician — career analysis · Australia
 
-**职业代码：711914 – Sterilisation Technician。**
+**Occupation code: 711914 (ANZSCO)**
 
-Sterilisation Technicians clean, disinfect, and sterilise medical instruments and equipment in healthcare settings, ensuring aseptic conditions to prevent cross-contamination.
+Sterilization technicians clean, disinfect, and sterilize medical instruments and equipment in healthcare settings to ensure sterility and prevent cross-infection.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Health Services Assistance (Sterilisation Services) | 1年 | $2,000~$5,000（Tafe或私立院校学费） |
-| Certificate IV in Sterilisation Services | 1-2年 | $3,000~$7,000（提升至高级技能） |
+| Certificate III in Health Services Assistance (Sterilisation Services) | 1 year | $2,000~$5,000 (TAFE or private college tuition fees) |
+| Certificate IV in Sterilisation Services | 1-2 years | $3,000~$7,000 (Advance to higher skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Health Services Assistance (Sterilisation Services) | TAFE或注册培训机构 | 必备 | 入门资格，多数雇主要求 |
-| Certificate IV in Sterilisation Services | TAFE或注册培训机构 | 可选 | 高级认证，晋升必备 |
-| 国家警察证明（National Police Check） | 澳洲联邦警察 | 必备 | 医疗工作基本要求 |
+| Certificate III in Health Services Assistance (Sterilisation Services) | TAFE or registered training organizations | Required | Entry-level qualification, required by most employers |
+| National Police Check | Australian Federal Police. | Required | Basic requirements for medical work |
+| Certificate IV in Sterilisation Services | TAFE or registered training organizations | Optional | Advanced certification, essential for promotion. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,500。随着澳洲人口老龄化和医疗需求增长，灭菌技师需求稳定。医院和日间手术中心持续雇佣，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 5,500. With Australia's aging population and growing healthcare demand, sterilisation technicians are in stable demand. Hospitals and day surgery centres continue to hire, with good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 根据医院规模和地区差异 |
-| 中级（2-5年） | $55,000~$65,000 | 含证书和经验加成 |
-| 高级（5年以上） | $65,000~$75,000 | 主管或高级技师 |
+| Median salary | $80,808 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $45,000~$55,000 | Varies by hospital size and region |
+| Intermediate (2-5 years) | $55,000~$65,000 | Including certificates and experience bonuses |
+| Senior (5+ years) | $65,000~$75,000 | Supervisor or senior technician. |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级灭菌助理晋升至高级技师或主管，也可通过额外培训转向感染控制或手术室支持岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
+
+can progress from junior sterilization assistant to senior technician or supervisor, or move into infection control or operating room support with additional training.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for standard orthotic design
+- 3D scan patient limbs to obtain basic measurements.
+- Automated sanding and finishing of prosthetic components
+- Generate standardized production reports and inventory records
+
+**Where AI augments the role:**
+
+- AI-driven biomechanical analysis optimizes orthotic design.
+- Machine learning-assisted prediction of prosthetic fit outcomes
+- Using AR/VR to simulate patient walking for plan adjustment
+- Intelligent material parameter recommendations improve component durability
+- Remotely monitor patient wearable data to guide maintenance
+
+**Human moat:**
+
+- Manual fine-tuning of prosthetic alignment to suit individual gait
+- In-depth communication with patients to obtain comfort feedback
+- Handle irregular shapes of complex amputations or deformities
+- Field testing and real-time adjustment of adaptation plans
+- Creative repairs for sudden mechanical failures
+
+**Skills to build:**
+
+- 3D modeling and scanning software (e.g., Meshmixer, Blender)
+- Basic programming and data processing (Python, R)
+- Use of AI biomechanical analysis tools.
+- Materials science knowledge (smart materials, composites)
+- Telemedicine and digital health record management
+- Customer relationship management and communication skills
+
+**Key growth areas:**
 
 - Healthcare
 - Sterilisation
@@ -64,65 +99,67 @@ Sterilisation Technicians clean, disinfect, and sterilise medical instruments an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，但该职业不在短期列表上，极少申请 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保，可能性低 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, but this occupation is not on the short-term list, very few applications |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, low probability |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sterilisation Technician？**
-- 细心且注重消毒流程的人
-- 希望在医疗行业稳定就业的人
-- 愿意从事体力与细节并重工作的人
+**Who is suited**
+- Detail-oriented individuals who value disinfection procedures
+- People hoping for stable employment in the healthcare industry
+- People willing to work with both physical tasks and attention to detail
 
-**谁不适合学Sterilisation Technician？**
-- 对化学消毒剂气味敏感的人
-- 寻求高薪或快速晋升的人
+**Who is not suited**
+- People sensitive to the smell of chemical disinfectants
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for sterilisation technicians?**
+A: Entry-level annual salary around AUD 45,000–55,000, mid-level AUD 55,000–65,000, senior supervisor up to AUD 75,000. Overall low but stable.
+
+**Q: Can sterilisation technicians migrate to Australia through skilled migration?**
+A: This occupation is not on the skilled migration occupation list (MLTSSL/STSOL), with almost no independent or state-sponsored migration pathways; only possible through remote area employer sponsorship (494), but opportunities are extremely rare.
+
+**Q: What are the career progression paths for a sterilisation technician?**
+A: Can progress from entry-level sterilisation assistant to senior technician or supervisor, or transition to related roles such as infection control or theatre support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sterilisation Technician属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Sterilisation Technician?**
-答：Entry-level salary is AUD 45,000-55,000, mid-level AUD 55,000-65,000, and senior or supervisor roles can reach AUD 75,000, with steady but relatively low pay.
-
-**问：Can a Sterilisation Technician migrate to Australia via skilled visa?**
-答：This occupation is not on the skilled occupation lists (MLTSSL/STSOL), so independent or state-nominated migration is almost impossible, except for rare regional employer sponsorship (subclass 494).
-
-**问：What are the career progression opportunities for Sterilisation Technicians?**
-答：Progression can be from entry-level assistant to senior technician or supervisor, or pivot to infection control or operating theatre support roles.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

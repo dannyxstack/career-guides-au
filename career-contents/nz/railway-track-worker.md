@@ -1,59 +1,92 @@
-# Railway Track Worker（Railway Track Worker）职业分析 · 新西兰
+# Railway Track Worker — career analysis · New Zealand
 
-**职业代码：821611 – Railway Track Worker。**
+**Occupation code: 821611 (ANZSCO)**
 
-Railway track workers lay, maintain and repair railway tracks and related infrastructure to ensure safe and efficient rail operations. The occupation is not on the Green List or shortage list, but may qualify for AEWV or Skilled Migrant Category with employer sponsorship.
+Rail track workers lay, maintain, and repair railway tracks and related facilities to ensure safe and efficient rail transport. Currently not on New Zealand's Green List or shortage lists, but can apply via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), requiring employer sponsorship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 2年 | $10,000~$20,000（需雇主提供学徒机会，部分培训有资助） |
-| 证书课程 | 6个月 | $3,000~$6,000（如新西兰基础工程证书 (Level 3)，可在线或在职学习） |
+| Apprenticeship | 2 years | $10,000~$20,000 (Employers must provide apprenticeship opportunities; some training is subsidized) |
+| Certificate course | 6 months. | $3,000~$6,000 (E.g., New Zealand Certificate in Foundation Engineering (Level 3), can be studied online or on the job) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰铁路轨道工证书 | NZQA认可培训机构 | 可选 | 非强制但雇主优先考虑 |
-| 交通管理许可证 (TC/TMO) | Waka Kotahi NZTA | 必备 | 从事轨道附近交通管制必需 |
-| 安全证书 (Site Safe) | Site Safe | 可选 | 施工安全培训，通常雇主要求 |
+| Traffic Management Permit (TC/TMO) | Waka Kotahi NZTA | Required | Required for rail traffic control duties |
+| New Zealand Railway Track Worker Certificate | NZQA-recognised training provider | Optional | Not mandatory but preferred by employers |
+| Safety certificate (Site Safe) | Site Safe | Optional | Construction safety training, usually required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰铁路行业稳定发展，主要在奥克兰、惠灵顿等城市有基建项目，预计未来5年就业平稳，年均约50-100个职位空缺。由于非短缺职业，竞争中等，有相关证书和工作经验者更易就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. The New Zealand rail industry is steadily developing, with major infrastructure projects in cities like Auckland and Wellington. Employment is expected to be stable over the next five years, with approximately 50-100 job vacancies annually. As it is not a shortage occupation, competition is moderate, and candidates with relevant certifications and work experience have better employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或新手水平 |
-| 中级（3-7年） | $55,000~$70,000 | 持有证书和经验者 |
-| 高级（7年以上） | $70,000~$90,000 | 一般为领班或技术专家 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $55,000~$70,000 | Holders of certifications and experience |
+| Senior (7+ years) | $70,000~$90,000 | Typically a team leader or technical specialist |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级轨道工可晋升为高级轨道工、领班或轨道检查员，部分可转向铁路工程或项目管理。积累5年以上经验后可考取铁路运营或安全监管证书，薪资可达8万+。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The physically intensive tasks of railway track workers are easily compressed by automation, but environmental awareness and manual repair skills remain a moat; migration career prospects are limited.
+
+Entry-level track workers can advance to senior track worker, foreman, or track inspector, and some may transition to railway engineering or project management. After gaining 5+ years of experience, they can obtain railway operations or safety supervision certificates, with salaries reaching $80,000+.
+
+**Tasks most exposed to AI:**
+
+- Track geometry inspection (laser scanner + AI analysis replaces manual patrolling)
+- Ballast laying and tamping (automated tamping machines replacing manual labor)
+- Rail fastening installation and tightening (performed by robots or automated equipment)
+- Damaged rail identification (computer vision inspection replacing manual inspection)
+
+**Where AI augments the role:**
+
+- Use mobile devices to receive work orders, report issues, and track repair progress.
+- Optimize track maintenance scheduling and resource allocation through an AI-assisted planning system
+- Uses augmented reality (AR) head-mounted devices to guide disassembly of complex components
+- Operate drones for inspection of elevated bridges or tunnel sections
+
+**Human moat:**
+
+- Temporary decision-making in complex environments (e.g., emergency repairs for sudden track deformation)
+- Fine manual skills and safety judgment for work in live electrical areas
+- Multi-trade coordination (working with signalers and electricians)
+- Ability to diagnose and repair faults in remote or adverse weather conditions.
+
+**Skills to build:**
+
+- Basic electrical and hydraulic systems knowledge
+- Operate handheld inspection devices (e.g., ultrasonic flaw detectors)
+- Use works management software and mobile terminals
+- Basic Data Analysis (Understanding Track Status Reports)
+- Welding and cutting skills (for rail repair)
+- Safety regulations and emergency response training
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,68 +95,67 @@ Railway track workers lay, maintain and repair railway tracks and related infras
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主工作邀请，薪资达到中位数（2024年为29.66纽币/小时），可担保配偶及子女 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需评分6分（如NZ学历+工作经验），职业收入需达到中位数1.5倍（约44.49纽币/小时），但非优先职业 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 该职业不在绿色列表中，不适用 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must obtain a job offer from an accredited employer with salary at the median (NZD 29.66/hour in 2024), can sponsor partner and children. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, requires 6 points (e.g., NZ qualification + work experience), occupation income must reach 1.5 times median (approx. $44.49 NZD/hour), but not a priority occupation. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is not on the Green List and is not applicable |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Railway Track Worker？**
-- 喜欢户外体力工作，能适应各种天气
-- 动手能力强，注重安全
-- 愿意在新西兰偏远地区工作
-
-**谁不适合学Railway Track Worker？**
-- 不喜户外高强度体力劳动
-- 希望快速获得永居且薪资高
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work and can adapt to various weather conditions
+- Hands-on skills, safety-conscious
+- Willing to work in remote areas of New Zealand
+
+**Who is not suited**
+- Dislikes high-intensity outdoor physical labor
+- Hoping to gain permanent residency quickly with high salary
+
+---
+
+## 8. FAQ
+
+**Q: How long does it take for a railway track worker to reach New Zealand's median wage?**
+A: Typically, mid-level track workers (3-7 years experience) can earn NZD 55,000-70,000, close to the median (approx. NZD 62,000), but relevant certifications are required.
+
+**Q: Is it easy for railway track workers to immigrate through skilled migration?**
+A: Not easy. This occupation is not on the Green List; it requires high income (1.5 times the median) or additional points (e.g., bachelor's degree). It is recommended to first obtain an AEWV work visa to gain experience.
+
+**Q: Which regions in New Zealand have high demand for railway track workers?**
+A: Major cities like Auckland, Wellington, and the Canterbury region have higher demand due to infrastructure projects, but overall positions are dispersed; need to proactively contact rail contractors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Railway Track Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How long does it take for a railway track worker to reach the median wage in NZ?**
-答：Typically, a mid-level track worker (3-7 years experience) earns NZD 55,000-70,000, close to the median (around NZD 62,000), with relevant certifications.
-
-**问：Is it easy for railway track workers to apply for skilled migration?**
-答：Not easy. The occupation is not on the Green List, requiring high income (1.5x median) or extra points (e.g., bachelor's degree). It's recommended to first get an AEWV and gain experience.
-
-**问：Which regions in NZ have high demand for railway track workers?**
-答：Auckland, Wellington, and Canterbury have more demand due to infrastructure projects, but jobs are scattered; actively contact rail contractors.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

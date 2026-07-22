@@ -1,60 +1,96 @@
-# Companion and Valet（Companion and Valet）职业分析 · IT
+# Companion and Valet — career analysis · Italy
 
-**职业代码：5162 – Companion and Valet。**
+**Occupation code: 5162 (ISCO08)**
 
-Provide personal care, itinerary management, and etiquette assistance for high-end clients such as the wealthy, celebrities, and nobility, ensuring their lifestyle quality and privacy.
+Provide daily life care, itinerary planning, etiquette assistance and other services for high-end clients (such as tycoons, celebrities, aristocrats), ensuring quality of life and privacy.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无固定学制 | —（通常通过在职培训或短期课程入门） |
-| 私人管家培训课程 | 6个月至1年 | $3,000~$8,000（如意大利管家学院（Italian Butler Academy）课程） |
+| High school graduation | There is no fixed academic system | $0~$0 (Typically entered through on-the-job training or short courses) |
+| Butler training course | 6 months to 1 year | $3,000~$8,000 (Such as courses from the Italian Butler Academy) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 私人管家认证 | 意大利管家协会（Associazione Italiana Maggiordomi） | 可选 | 非强制，但提升竞争力 |
-| 急救证书 | 红十字会或同等机构 | 可选 | 部分雇主要求 |
+| Private butler certification | Italian Association of Butlers (Associazione Italiana Maggiordomi) | Optional | Not mandatory, but enhances competitiveness |
+| First aid certificate | Red Cross or equivalent organization | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。意大利高端旅游与私人服务市场保持稳定，但此类岗位需求有限，主要集中在豪华酒店、私人宅邸及游艇服务领域。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. Italy’s high-end tourism and private service market remains stable, but demand for such roles is limited, mainly in luxury hotels, private residences, and yacht services.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 通常包括住宿和餐饮 |
-| 中级（3-7年） | $25,000~$40,000 | 视客户类型与工作量 |
-| 高级（7年以上） | $40,000~$60,000 | 服务于超高净值客户，可能含奖金 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Usually includes accommodation and meals |
+| Mid-level (3–7 years) | $25,000~$40,000 | Depends on client type and workload |
+| Senior (7+ years) | $40,000~$60,000 | Serves ultra-high-net-worth clients, may include bonuses |
+| average salary | $34,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级管家晋升为高级私人管家或家庭经理，部分转向高端酒店管理层，需要积累客户资源与多语言能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate scheduling and information retrieval, but high-end clients' need for personalized service, emotional support, and privacy protection makes this role hard to fully replace. Entry-level positions shrink due to AI tools; senior butlers must improve digital and psychological literacy.
+
+Can advance from junior butler to senior private butler or family manager; some transition to high-end hotel management, requiring client networks and multilingual skills.
+
+**Tasks most exposed to AI:**
+
+- Use AI calendars and reminder systems to automatically schedule daily routines and appointments
+- Query weather, flights, restaurants and other information via natural language processing.
+- Use AI meeting notes tools to record client conversations and generate summaries.
+- Use smart home systems to automatically control indoor environments (e.g., lighting, temperature)
+- Providing basic investment advice through AI financial advisors
+
+**Where AI augments the role:**
+
+- AI can analyze customer preference data to generate personalized service plans.
+- Real-time translation tools for steward to communicate with multilingual clients and service staff
+- AI security monitoring systems enhance customer privacy protection and security efficiency.
+- Virtual concierge database enables fast retrieval of high-end resources (e.g., private doctors, celebrity chefs)
+- AI emotion analysis assists butlers in perceiving client emotional states, improving service response.
+
+**Human moat:**
+
+- Ultra-high-net-worth clients require a real human butler to provide emotional companionship and trust relationships.
+- Complex emergencies (e.g., medical first aid, diplomatic etiquette) require human on-the-spot judgment
+- Privacy-sensitive tasks (e.g., handling confidential client documents, conversation confidentiality)
+- Nuances of cultural etiquette (e.g., customs of different noble families) rely on human experience
+- High-end social networking (e.g., introducing key contacts) cannot be replaced by AI
+
+**Skills to build:**
+
+- Psychology and Emotional Intelligence for High-End Clients
+- Operation of AI lifestyle management tools (e.g., smart home, personal assistants)
+- Digital privacy and cybersecurity fundamentals
+- Multilingual Communication and Cross-Cultural Etiquette
+- Emergency management and decision-making skills
+- Data Analysis Fundamentals (Customer Preference Modeling)
+
+**Key growth areas:**
 
 - Luxury Service
 - Private Villa
@@ -63,65 +99,67 @@ Provide personal care, itinerary management, and etiquette assistance for high-e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，但此职业通常不满足薪资或技能门槛，极少数雇主担保可能。 |
-| Subclass Nulla Osta（Nulla Osta (Work Visa)） | 需雇主证明无法在欧盟内招到合适人选，批准难度大，通常不适用于此职业。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU highly skilled talents, but this occupation usually does not meet the salary or skill threshold, very few employer sponsorship possibilities. |
+| Subclass Nulla Osta (Nulla Osta (Work Visa)) | Requires employer to prove inability to recruit suitable staff within the EU; approval is difficult and usually not applicable to this occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Companion and Valet？**
-- 注重细节、服务意识强的人
-- 擅长沟通、具备多语言能力的人
-- 能适应灵活工作时间及高隐私要求的人
+**Who is suited**
+- People with strong attention to detail and service orientation
+- People with strong communication skills and multilingual abilities
+- Someone who can adapt to flexible working hours and high privacy requirements
 
-**谁不适合学Companion and Valet？**
-- 不喜与人打交道或缺乏耐心的人
-- 追求稳定固定工作时间的人
+**Who is not suited**
+- People who dislike interacting with others or lack patience.
+- People seeking stable fixed working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a private butler in Italy?**
+A: Entry-level annual salary about €18,000-25,000, mid-level €25,000-40,000, senior up to €60,000+, usually includes accommodation and meals.
+
+**Q: Can non-EU citizens immigrate to Italy to work as a private butler?**
+A: Very difficult; this occupation does not meet high-skilled immigration requirements, employers must prove they cannot hire locally, and the quota is very limited
+
+**Q: What certificates are required to work in this occupation?**
+A: No mandatory certificate, but private butler certification and first aid certificate help with employment; Italian Butler Association provides relevant training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Companion and Valet属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for private butlers in Italy?**
-答：Entry-level annual salary is about €18,000-25,000, mid-level €25,000-40,000, senior up to €60,000+, usually including accommodation and meals.
-
-**问：Can non-EU citizens immigrate to Italy for companion/valet work?**
-答：Very difficult, as this occupation does not meet high-skilled immigration criteria, employers must prove local unavailability, and quotas are limited.
-
-**问：What certifications are needed for this occupation?**
-答：No mandatory certificates, but butler certification and first aid certificates help. The Italian Butler Association offers training.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

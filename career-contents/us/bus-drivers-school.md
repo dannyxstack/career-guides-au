@@ -1,61 +1,97 @@
-# Bus Drivers, School（Bus Drivers, School）职业分析 · 美国
+# Bus Drivers, School — career analysis · United States
 
-**职业代码：53-3051 – Bus Drivers, School。**
+**Occupation code: 53-3051 (SOC)**
 
-Drive a school bus to transport students, ensuring safety and assisting with boarding. Usually requires a Commercial Driver's License (CDL) and background check.
+Responsible for driving a school bus to pick up and drop off students, ensuring safe driving, and assisting students with boarding and alighting. Typically requires a Commercial Driver's License (CDL) and passing a school background check.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常要求，但无学费） |
-| 商业驾驶执照培训 | 3-8周 | $3,000~$7,000（私立驾校或社区学院课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually required, but no tuition) |
+| Commercial driver's license training | 3-8 weeks | $3,000~$7,000 (Private driving school or community college course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL，带乘客和学校巴士签注） | 州机动车管理局（DMV） | 必备 | 必须通过笔试和路考 |
-| 学校巴士驾驶员证书 | 州教育部门 | 必备 | 通常需要背景调查和药物测试 |
-| 心肺复苏（CPR）认证 | 美国红十字会等 | 可选 | 部分学区要求 |
+| Commercial driver's license (CDL, with passenger and school bus endorsements) | State Department of Motor Vehicles (DMV) | Required | Must pass a written test and a road test |
+| School bus driver certificate | State education department | Required | Usually requires background check and drug testing |
+| Cardiopulmonary resuscitation (CPR) certification | American Red Cross, etc. | Optional | Some school districts require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 505,100。随着美国学龄人口增长和校车司机退休潮，预计2023-2033年就业增长约5%，与平均水平相当。但许多学区面临司机短缺，求职机会较好。
+**Job demand: high (★★★★☆).** National workforce approx. 505,100. With the growing U.S. school-age population and retiring school bus drivers, employment is projected to grow about 5% from 2023 to 2033, about as fast as average. However, many districts face driver shortages, offering good job prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 兼职或临时岗位较多 |
-| 中级（3-10年） | $35,000~$45,000 | 全职岗位，含福利 |
-| 高级（10年以上） | $45,000~$55,000 | 经验丰富的全职司机或主管 |
+| Median salary | $47,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Many part-time or temporary positions |
+| Intermediate (3-10 years) | $35,000~$45,000 | Full-time position, includes benefits |
+| Senior (10+ years) | $45,000~$55,000 | Experienced full-time driver or supervisor |
+| average salary | $48,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级校车司机可积累经验后转为全职司机或成为车队主管。部分司机转向客运或货运卡车驾驶（如CDL A类），也可进入学校运输管理岗位。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Entry-level school bus drivers can gain experience and transition to full-time drivers or become fleet supervisors. Some drivers move to passenger or freight truck driving (e.g., CDL Class A) or school transportation management roles.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Driver Shortage
 - School Transportation
@@ -64,65 +100,67 @@ Drive a school bus to transport students, ensuring safety and assisting with boa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 校车司机通常不符合H-1B专业职业要求，很少使用 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工认证，但校车司机不属于高技能职业，极少获批 |
+| Subclass H-1B (H-1B Specialty Occupations) | School bus drivers generally do not qualify for H-1B professional occupation requirements and are rarely sponsored. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, but school bus drivers are not high-skilled occupations and approvals are extremely rare. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bus Drivers, School？**
-- 喜欢驾驶并有耐心的人
-- 有责任心、注重安全的人
-- 希望享受寒暑假休息的人
+**Who is suited**
+- People who enjoy driving and are patient
+- Responsible and safety-conscious people
+- Those who wish to enjoy holidays during summer and winter breaks
 
-**谁不适合学Bus Drivers, School？**
-- 无法通过背景调查或药物测试的人
-- 不喜欢早起接送学生的人
+**Who is not suited**
+- People who cannot pass background checks or drug tests
+- People who dislike waking up early to pick up and drop off students
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a school bus driver?**
+A: According to BLS 2023 data, the median annual salary for US school bus drivers was about $39,000, part-time drivers about $30,000, full-time experienced drivers can exceed $50,000.
+
+**Q: Can school bus drivers immigrate to the US via H-1B or green card?**
+A: Very difficult. School bus drivers do not meet H-1B professional occupation requirements; EB-3 also requires PERM and the occupation is considered low-skilled, employers usually do not support visas.
+
+**Q: What are the advancement opportunities for school bus drivers?**
+A: Can transition from part-time to full-time driver, or advance to fleet supervisor, transportation dispatcher. Can also obtain higher-level CDL (Class A) to become a truck or bus driver.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Bus Drivers, School属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for school bus drivers?**
-答：According to BLS 2023, median annual wage for school bus drivers is about $39,000; part-time earn around $30,000, experienced full-time drivers can exceed $50,000.
-
-**问：Can school bus drivers immigrate to the US via H-1B or green card?**
-答：Very difficult. School bus driving is not a specialty occupation for H-1B, and EB-3 requires PERM but is considered low-skilled; employer sponsorship is rare.
-
-**问：What are the advancement opportunities for school bus drivers?**
-答：Driver can advance from part-time to full-time, become fleet supervisor or transport dispatcher. Upgrading to Class A CDL leads to truck or bus driving.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

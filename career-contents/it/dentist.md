@@ -1,59 +1,95 @@
-# Dentist（Dentist）职业分析 · IT
+# Dentist — career analysis · Italy
 
-**职业代码：2261 – Dentist。**
+**Occupation code: 2261 (ISCO08)**
 
-Dentists diagnose and treat oral diseases, including tooth restoration, extractions, and preventive care. In Italy, it is a regulated healthcare profession requiring a university degree and national registration.
+Dentists diagnose and treat oral diseases, including dental restoration, extractions, and preventive care. In Italy, dentistry is a regulated medical profession requiring a university degree and national registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科及硕士（本硕连读） | 6年 | $2,000~$15,000（公立大学学费低，约2000-5000欧元/年；私立大学可达15000欧元/年。） |
-| 专科培训（专业方向） | 3-4年 | $2,500~$12,000（正畸、口腔外科等专业培训，公立大学费用较低。） |
+| Bachelor's and Master's (combined program) | 6 years | $2,000~$15,000 (Public university tuition is low, approximately 2000-5000 EUR/year; private universities can reach 15000 EUR/year.) |
+| Specialist training (specialization) | 3-4 years | $2,500~$12,000 (Specialised training in orthodontics, oral surgery, etc., with lower tuition fees at public universities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙医学位（Laurea in Odontoiatria e Protesi Dentaria） | 意大利大学 | 必备 | 必须完成6年本硕连读课程，含临床实习。 |
-| 国家执业资格考试（Esame di Stato） | 意大利卫生部 | 必备 | 通过后方可注册为牙医。 |
-| 注册于牙医协会（Ordine dei Medici Chirurghi e degli Odontoiatri） | 各省牙医协会 | 必备 | 执业必须注册，需年费。 |
+| Degree in Dentistry (Laurea in Odontoiatria e Protesi Dentaria) | Italian universities | Required | Must complete a 6-year integrated bachelor's and master's program, including clinical internships. |
+| National professional licensing exam (Esame di Stato) | Italian Ministry of Health | Required | Must be registered before practicing as a dentist. |
+| Registered with the Dental Association (Ordine dei Medici Chirurghi e degli Odontoiatri) | State Dental Associations | Required | Practice requires registration, with an annual fee. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 42,000。意大利牙医就业前景稳定，受人口老龄化和口腔健康意识提升驱动。公立系统职位有限，多数牙医开设私人诊所。北部地区需求略高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 42,000. Dentist employment prospects in Italy are stable, driven by aging population and increased oral health awareness. Limited positions in public system; most dentists run private clinics. Slightly higher demand in northern regions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 公立医院或诊所助理，税前年薪。 |
-| 中级（3-10年） | $50,000~$80,000 | 独立执业或合伙诊所，税前年薪。 |
-| 高级（10年以上） | $90,000~$150,000 | 知名专家或大型诊所合伙人，税前年薪。 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$45,000 | Assistant in public hospitals or clinics, pre-tax annual salary. |
+| Intermediate (3-10 years) | $50,000~$80,000 | Solo practice or partnership clinic, pre-tax annual salary. |
+| Senior (10+ years) | $90,000~$150,000 | Pre-tax annual salary for renowned experts or partners in large clinics. |
+| average salary | $74,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业路径通常从助理牙医开始，积累经验后可独立执业或合伙开设诊所。进一步深造可专攻正畸、口腔外科等领域，或从事学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+Career paths typically start as a dental assistant; after gaining experience, one can practice independently or co-establish a clinic. Further study allows specialization in orthodontics, oral surgery, or academic research.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - Aging population
 - Preventive care
@@ -62,68 +98,67 @@ Dentists diagnose and treat oral diseases, including tooth restoration, extracti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟专业人士，需有工作合同且年薪达标（2024年约28,000欧元）。可携带家属，快速获得居留。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟工人。需雇主担保，配额有限，竞争激烈。 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 适用于计划在意大利开设私人诊所的牙医。需提交商业计划，证明足够资金。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU professionals, requiring a work contract and meeting a minimum annual salary (approx. €28,000 in 2024). Can bring family, fast track to residency. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers. Requires employer sponsorship, limited quotas, and is highly competitive. |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | For dentists planning to open a private clinic in Italy. Must submit a business plan proving sufficient funds. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentist？**
-- 对口腔健康有热情，愿意长期学习的人
-- 具备良好手部精细操作能力和沟通技巧的人
-- 希望获得高收入和社会地位的人
-
-**谁不适合学Dentist？**
-- 害怕血液或口腔操作的人
-- 不愿意承担自雇风险或高强度工作压力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a passion for oral health and a willingness to engage in lifelong learning
+- Individuals with good fine hand motor skills and communication skills
+- Those seeking high income and social status
+
+**Who is not suited**
+- People afraid of blood or oral procedures
+- People unwilling to take on self-employment risks or high-intensity work pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a dentist in Italy?**
+A: Starting annual salary for junior dentists is around €30,000-45,000, mid-level €50,000-80,000, and senior specialists up to €90,000-150,000. Salaries vary significantly by region and practice type, with the north being higher than the south.
+
+**Q: How can non-EU dentists work in Italy?**
+A: Non-EU dentists must pass qualification recognition, Italy's national licensing exam, and register with the dental association. May apply for EU Blue Card or quota work visa; self-employment requires a self-employment visa.
+
+**Q: How long does it take to study dentistry in Italy?**
+A: Dental education in Italy is a 6-year integrated bachelor's and master's program including clinical internships. Afterwards, you can choose 3-4 years of specialist training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dentist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a dentist in Italy?**
-答：Entry-level dentists earn around €30,000-€45,000 per year, mid-level €50,000-€80,000, and senior specialists up to €90,000-€150,000. Salaries vary by region and practice type, higher in the north.
-
-**问：How can non-EU dentists work in Italy?**
-答：Non-EU dentists must obtain degree recognition, pass the national licensing exam, and register with the dental council. They can apply for an EU Blue Card or Decreto Flussi work visa, or a self-employment visa to open a private practice.
-
-**问：How long does dental education take in Italy?**
-答：Dental education in Italy is a 6-year combined bachelor's and master's program including clinical internships. Specialty training takes an additional 3-4 years.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

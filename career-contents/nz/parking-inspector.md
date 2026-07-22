@@ -1,61 +1,97 @@
-# Parking Inspector（Parking Inspector）职业分析 · 新西兰
+# Parking Inspector — career analysis · New Zealand
 
-**职业代码：561913 – Parking Inspector。**
+**Occupation code: 561913 (ANZSCO)**
 
-Parking Inspectors in New Zealand enforce parking regulations by patrolling streets and car parks and issuing fines. This low-skilled role typically does not qualify for residence under the Skilled Migrant Category but may be eligible for an Accredited Employer Work Visa (AEWV).
+Parking inspectors in New Zealand enforce parking regulations, patrol streets and car parks, and issue fines. This occupation is low-skilled and generally not eligible for residence through skilled migration, but can obtain work visa via Accredited Employer Work Visa (AEWV).
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（本地学生免费，国际学生约$15,000/年） |
-| 在职培训 | 4-8周 | $500~$2,000（由雇主提供，可能涉及少量费用） |
+| High school diploma | 3 years | $0~$0 (Free for local students, about $15,000/year for international students.) |
+| On-the-job training | 4-8 weeks | $500~$2,000 (Provided by employer, may involve small fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰驾照（全驾照） | 新西兰交通局（NZTA） | 必备 | 必须持有有效的全驾照，部分雇主要求至少2年驾龄。 |
-| 停车执法培训证书 | 地方政府或培训机构 | 可选 | 由雇主提供，通常包括法规、报告撰写和客户服务。 |
-| 无犯罪记录证明 | 新西兰司法部 | 必备 | 因工作涉及执法，通常需要提供。 |
+| New Zealand driver licence (full licence) | New Zealand Transport Agency (NZTA) | Required | Must hold a valid full driver's license; some employers require at least 2 years of driving experience. |
+| Police clearance certificate | New Zealand Ministry of Justice | Required | Due to involvement in law enforcement, usually required. |
+| Parking enforcement training certificate | Local government or training institution. | Optional | Provided by the employer, usually includes regulations, report writing, and customer service. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。新西兰停车检查员的就业前景稳定但增长有限，主要受地方政府预算和城市人口增长影响。随着城市扩张和车辆增多，对执法人员的需求略有增加，但职位竞争一般。未来几年预计保持平稳。
+**Job demand: medium (★★★☆☆).** National workforce approx. 800. The employment outlook for parking inspectors in New Zealand is stable but with limited growth, mainly influenced by local government budgets and urban population growth. With urban expansion and increasing vehicles, demand for enforcement personnel has slightly increased, but competition for positions is average. The outlook is expected to remain steady in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$54,000 | 起薪按最低工资上浮，约$24-$27/小时 |
-| 中级（3-5年） | $54,000~$62,000 | 基于经验和表现 |
-| 高级（5年以上） | $62,000~$70,000 | 监督岗位或大城市薪酬 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$54,000 | Starting salary above minimum wage, approximately $24-$27/hour |
+| Mid-level (3–5 years) | $54,000~$62,000 | Based on experience and performance |
+| Senior (5+ years) | $62,000~$70,000 | Supervisory positions or metropolitan salaries |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏低（★★☆☆☆）。** 职业发展路径有限：初级停车检查员可晋升为高级检查员或监督员，但通常需要多年经验。少数人转向交通管理或合规领域。整体晋升空间不大，多为同级别岗位调动。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The core duties of parking inspectors (patrolling, identifying violations, issuing tickets) are highly rule-based and easily automated. AI cameras and automated payment systems have already taken over most tasks, significantly reducing the number of positions. New Zealand's low-skilled immigration policies also limit its growth.
+
+Limited career path: junior parking inspectors can advance to senior inspector or supervisor, but this usually requires years of experience. A few move into traffic management or compliance. Overall limited promotion opportunities, mostly lateral moves.
+
+**Tasks most exposed to AI:**
+
+- Manual street patrol and recording violations: AI cameras automatically identify illegal parking and take photographic evidence.
+- Manual issuing and delivery of fines: system automatically generates electronic fines and sends them via SMS/email.
+- Daily paper report filling: Automated reporting system collects data and generates reports automatically.
+- Simple Q&A: AI chatbot handles common queries (fine amounts, payment methods, etc.).
+- Manual verification of license plates and parking records: automatic database comparison of payment status and plate information.
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of violation hotspots: predicts high-frequency times and locations using historical data to optimize patrol routes.
+- Automated evidence management: AI organizes photos, timestamps, and license plate information, improving ticket legal validity.
+- Smart scheduling system: dynamically adjust patrol personnel allocation based on real-time parking data.
+- Multilingual communication support: AI translation tools help communicate with foreign car owners.
+- Compliance audit: AI bulk checks whether ticketing processes are compliant, reducing human error.
+
+**Human moat:**
+
+- Handle complex disputes and appeals: involving human judgment, evidence interpretation, and on-site mediation.
+- Flexibly respond to special situations: accident scenes, severe weather, special events (parades, construction).
+- Discretion in law enforcement: in certain situations, decide whether to issue a warning rather than a fine; requires experience.
+- Coordinate with local government and social services: involves multi-department communication and resource allocation.
+- Physical presence and deterrence: the immediate effect of patrol cars and uniformed personnel on stopping illegal acts.
+
+**Skills to build:**
+
+- AI tool proficiency: Familiar with parking monitoring systems, data analysis platforms (e.g., Tableau).
+- Basic programming and scripting: Python or SQL for automated simple reports.
+- Customer service and conflict resolution: communication skills for handling dissatisfied vehicle owners.
+- Data analysis and visualization: identify violation patterns and optimize inspection strategies.
+- Regulatory and policy understanding: keep up to date with New Zealand parking regulations and privacy provisions.
+- Digital literacy: operating mobile enforcement devices and electronic payment systems.
+
+**Key growth areas:**
 
 - Low growth
 - Government sector
@@ -64,66 +100,68 @@ Parking Inspectors in New Zealand enforce parking regulations by patrolling stre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 可由认证雇主担保，通常工资需达到中位数（约$29.66/小时）。但该职业不在技能短缺清单，移民局可能认为技能等级较低，需证明雇主已尽力招聘本地人。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合技术移民要求，因为ANZSCO技能等级为4-5级，除非工资达到中位数的1.5倍（约$44.49/小时），实际中几乎不可能。 |
-| Subclass WHV（Working Holiday Visa） | 部分持有打工度假签证者可从事短期工作，但通常限制为3个月。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Can be sponsored by an accredited employer, usually the wage must meet the median (approx. $29.66/hour). However, this occupation is not on the skill shortage list; immigration may consider it low-skilled, requiring proof that the employer has tried to hire locally. |
+| Subclass SMC (Skilled Migrant Category) | Generally does not meet skilled migration requirements because ANZSCO skill level is 4-5, unless salary reaches 1.5 times the median (approx. $44.49/hour), virtually impossible in practice. |
+| Subclass WHV (Working Holiday Visa) | Some Working Holiday visa holders can engage in short-term work, but usually limited to 3 months. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Parking Inspector？**
-- 喜欢外出工作、不介意与公众冲突的人
-- 注重规则执行、能够承受单调巡逻任务的人
-- 作为进入政府部门的过渡职业，需要稳定工作的人
+**Who is suited**
+- People who enjoy working outdoors and don't mind conflict with the public
+- Individuals focused on rule enforcement and able to endure monotonous patrol tasks
+- Transitional career for entering government; suits those needing stable work
 
-**谁不适合学Parking Inspector？**
-- 希望快速获得新西兰居留权的人
-- 寻求高薪或职业晋升空间大的人
+**Who is not suited**
+- People who want to quickly obtain New Zealand residence
+- Those seeking high salaries or significant career advancement opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a parking inspector?**
+A: Entry-level parking enforcement officer annual salary approx. NZD $48,000-$54,000, mid-level $54,000-$62,000, senior up to $70,000. Salary is below New Zealand’s median wage (approx. $60,000) but offers job stability.
+
+**Q: Can a parking inspector immigrate to New Zealand?**
+A: Direct migration is unlikely. This occupation is not on the Green List; skilled migration categories require ANZSCO skill level 4-5 wages to reach 1.5 times the median (about $44.49/hour), which is not achievable. Usually only possible via an AEWV work visa, without direct residency application.
+
+**Q: What is the working environment of a parking inspector like?**
+A: Mainly outdoor work, requiring long periods of walking or driving. Often involves conflicts with vehicle owners, needing good communication and emotional control skills. Regular working hours, sometimes with weekend shifts.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等偏低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Parking Inspector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for parking inspectors?**
-答：Entry-level parking inspectors earn NZD 48,000-54,000 per year, experienced inspectors NZD 54,000-62,000, and senior inspectors up to NZD 70,000. Salaries are below the national median (around NZD 60,000) but stable.
-
-**问：Can parking inspectors immigrate to New Zealand?**
-答：Direct residence is very unlikely. The occupation is not on the Green List. For Skilled Migrant Category, ANZSCO skill level 4-5 requires 1.5 times the median wage (approx. $44.49/hour), which is unrealistic. Usually only an Accredited Employer Work Visa (AEWV) is possible, without a direct pathway to residence.
-
-**问：What is the work environment like for parking inspectors?**
-答：Primarily outdoor work with long periods of walking or driving. Frequent conflict with vehicle owners requires good communication and emotional control. Regular hours with occasional weekend shifts.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

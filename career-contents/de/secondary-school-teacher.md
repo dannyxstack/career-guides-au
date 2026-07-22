@@ -1,62 +1,96 @@
-# Secondary School Teacher（Secondary School Teacher）职业分析 · DE
+# Secondary School Teacher — career analysis · Germany
 
-**职业代码：8412 – Secondary School Teacher。**
+**Occupation code: 8412 (KldB)**
 
-Secondary school teachers in Germany educate students at schools such as Gymnasium and Realschule, teaching subjects like mathematics, languages, or sciences. They plan lessons, assess students, and are regulated professionals requiring a university teaching degree and state examination.
+Secondary school teachers are responsible for teaching specific subjects (e.g., maths, languages, sciences) at German secondary schools (such as Gymnasium, Realschule, etc.), including teaching, tutoring, and student assessment. This is a state-regulated teaching profession requiring completion of university teacher training and passing state exams.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科师范教育 | 3-4年 | —（公立大学每学期约150-300欧元注册费） |
-| 硕士师范教育 | 1-2年 | —（多数州免学费） |
-| 见习期（Referendariat） | 1.5-2年 | —（带薪实习，月薪约1500-1800欧元） |
+| University bachelor's teacher education program | 3-4 years | $0~$3,000 (Public universities: approximately 150-300 euros per semester registration fee) |
+| Master's in teacher education | 1-2 years | $0~$3,000 (Most states offer free tuition) |
+| Referendariat (internship period) | 1.5-2 years | $0~$0 (Paid internship, monthly salary approx. €1,500-1,800) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中学教育硕士学位（含两门学科） | 德国综合性大学 | 必备 | 必须完成至少两门学科的教育学及教学法学习 |
-| 第二次国家考试（Zweites Staatsexamen） | 各州教师培训学院/学校 | 必备 | 完成见习期后通过，是成为正式公务员或雇员的必要条件 |
-| 外国学历资质认证（Anerkennung） | 各州教育主管部门（如ZAB） | 必备 | 非欧盟学历需认证，可能需补修课程或参加适应性培训 |
+| Master of Secondary Education (including two teaching areas) | German comprehensive university | Required | Must complete pedagogy and teaching methodology studies in at least two subjects |
+| Second State Examination (Zweites Staatsexamen) | State teacher training colleges/schools | Required | Passed after completing the probationary period; necessary to become a permanent civil servant or employee |
+| Recognition of foreign qualifications (Anerkennung) | State education authorities (e.g., ZAB) | Required | Non-EU qualifications need certification, may require supplementary courses or adaptive training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 650,000。德国面临教师短缺，尤其在数学、自然科学、德语等学科及农村地区。预计未来十年需求持续增长，退休潮加剧缺口。联邦州提供各类激励措施，如入职奖金和快速通道培训。
+**Job demand: very high (★★★★½).** National workforce approx. 650,000. Germany faces a teacher shortage, especially in subjects like mathematics, natural sciences, German, and in rural areas. Demand is expected to grow over the next decade, with retirements widening the gap. Federal states offer various incentives, such as signing bonuses and fast-track training.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $42,000~$50,000 | 根据州和薪酬等级A12-A13（公务员）或TV-L E13（雇员） |
-| 中级（5-15年） | $52,000~$65,000 | 薪酬随年限晋升至A13/E13最高级 |
-| 高级（15年以上或领导职务） | $65,000~$80,000 | 学科带头人、副校长或校长可达A14-A16 |
+| Median salary | $64,044 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry-level (0-5 years) | $42,000~$50,000 | Depending on the state and salary level A12-A13 (civil servant) or TV-L E13 (employee) |
+| Intermediate (5-15 years) | $52,000~$65,000 | Salary increases with years of service to the highest level A13/E13 |
+| Senior (15+ years or leadership role) | $65,000~$80,000 | Department heads, deputy principals, or principals can reach A14-A16 |
+| average salary | $64,920 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括：资深教师、学科带头人、年级主任、校长助理或校长。也可转向教育行政、教师培训或教育研究。部分教师通过继续教育获得更高薪酬级别。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Secondary school teaching roles will not be largely replaced, but AI will profoundly change teaching methods, automating some administrative and assessment tasks while enhancing personalised teaching and content creation, raising new demands on teachers' technical literacy.
+
+Career development paths include: senior teacher, subject lead, grade coordinator, assistant principal, or principal. Can also move into education administration, teacher training, or educational research. Some teachers achieve higher salary levels through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Marking standardized test papers and assignments
+- Generate basic lesson plans and classroom materials
+- Record and manage student attendance and grades
+- Provide standard answers to common subject questions
+
+**Where AI augments the role:**
+
+- Personalized learning paths and differentiated instructional design
+- Use AI to analyze student data for precise intervention.
+- Create interactive multimedia teaching resources
+- Automated feedback and learning progress tracking
+- Virtual teaching assistant supporting classroom Q&A
+
+**Human moat:**
+
+- Classroom management and student behavior guidance
+- Emotional support and psychological counseling
+- Teaching critical thinking and complex problem-solving
+- Experience-based educational wisdom and value transmission
+
+**Skills to build:**
+
+- Operation of AI education tools (e.g., adaptive learning platforms).
+- Learn data analysis and visualization
+- Digital course design and multimedia production.
+- EdTech selection and evaluation
+- Online collaboration and blended teaching methods
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Teacher shortage
 - STEM focus
@@ -65,69 +99,68 @@ Secondary school teachers in Germany educate students at schools such as Gymnasi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高校毕业且年薪达门槛者（2025年约44,000欧元），教师通常在公务员体系，蓝卡较少直接适用，但作为雇员有可能。 |
-| Subclass Skilled Worker（Skilled Employment Visa (Fachkräfteeinwanderungsgesetz)） | 适用于有德国认可学历或境外同等学历的教师，需获得具体职位offer。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许持证者在德寻找工作，但教师需认证资质后方可执业。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to university graduates with an annual salary meeting the threshold (approximately EUR 44,000 in 2025). Teachers are usually in the civil service system, and the Blue Card is less directly applicable, but possible as an employee. |
+| Subclass Skilled Worker (Skilled Employment Visa (Fachkräfteeinwanderungsgesetz)) | Applies to teachers with a recognized German qualification or equivalent overseas qualification; a specific job offer is required. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows holders to seek work in Germany, but teachers must have their qualifications certified before practicing. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary School Teacher？**
-- 具备外语能力（德语C1以上）且热爱教学的大学毕业生
-- 拥有数理化或稀缺学科（如德语、特殊教育）背景者
-- 适应德国教育体制、有耐心和跨文化沟通能力者
-
-**谁不适合学Secondary School Teacher？**
-- 不愿接受严格资质认证和补修课程者
-- 不擅长与青少年沟通或无法应对课堂管理压力者
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- University graduates with foreign language skills (German C1 or above) and a passion for teaching
+- Those with backgrounds in mathematics, physics, chemistry, or scarce subjects (e.g., German, special education)
+- Those who can adapt to the German education system, are patient, and have cross-cultural communication skills
+
+**Who is not suited**
+- Those unwilling to undergo strict qualification recognition and supplementary courses
+- Those who are not good at communicating with teenagers or cannot cope with classroom management stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of secondary school teachers in Germany?**
+A: Starting salary approx. EUR 42,000-50,000/year, rising to EUR 52,000-65,000 with experience, leadership roles up to EUR 80,000. Civil servants have higher after-tax income and additional benefits.
+
+**Q: How can foreign teachers immigrate to Germany?**
+A: Requires qualification recognition (Anerkennung), possibly needing supplementary courses or adaptation training. Then can apply for skilled migration visa. German usually required at C1 level. Scarcity subjects (e.g. maths, physics) offer better opportunities.
+
+**Q: What positions can secondary school teachers progress to?**
+A: Can be promoted to discipline leader, grade director, assistant principal, or principal. May also transition to education administration, teacher training, or educational consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Secondary School Teacher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for secondary school teachers in Germany?**
-答：Starting salary is about 42,000-50,000 EUR/year, increasing to 52,000-65,000 EUR with experience, and up to 80,000 EUR for leadership roles. Civil servant status offers higher net income and benefits.
-
-**问：How can foreign teachers immigrate to Germany?**
-答：You need to have your teaching degree recognized (Anerkennung), possibly completing additional courses or an adaptation period. You can then apply for a skilled worker visa. German proficiency at C1 is usually required. Shortage subjects like math and physics offer better chances.
-
-**问：What career progression opportunities exist for secondary school teachers?**
-答：Teachers can advance to head of department, grade-level coordinator, vice principal, or principal. Other options include educational administration, teacher training, or educational consulting.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

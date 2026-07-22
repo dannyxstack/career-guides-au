@@ -1,59 +1,92 @@
-# Energy and Power Plant Technician（Energy and Power Plant Technician）职业分析 · DE
+# Energy and Power Plant Technician — career analysis · Germany
 
-**职业代码：2623 – Energy and Power Plant Technician。**
+**Occupation code: 2623 (KldB)**
 
-Operate, monitor, and maintain energy and power plant equipment such as boilers, turbines, and generators to ensure efficient and reliable energy supply.
+Engage in technical work in energy and power plants, including operation, monitoring, and maintenance of boilers, steam turbines, gas turbines, etc., ensuring efficient and stable energy supply.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3-3.5年 | —（培训期间有补贴，月薪约800-1200欧元） |
-| 两年制职业培训（转行或预科） | 2年 | —（仅针对改行者，通常带薪） |
+| Dual vocational training (Ausbildung) | 3-3.5 years | $0~$0 (Allowance provided during training, monthly salary about 800-1,200 euros) |
+| Two-year vocational training (career change or foundation) | 2 years | $0~$0 (Only for career changers, usually paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 能源与发电厂技术员职业资格证书 | 德国工商业联合会（IHK） | 必备 | 完成双元制培训后通过考试 |
-| 电力设备操作许可证 | 德国联邦劳动保护与事故预防机构 | 可选 | 根据电厂类型可能需要 |
-| 欧盟认可的同等学历认证 | 德国联邦教育与研究部（BMBF） | 必备 | 海外学历需认证 |
+| Energy and Power Plant Technician Vocational Qualification Certificate | German Chamber of Commerce and Industry (IHK) | Required | Complete the dual system training and pass the exam |
+| EU-recognized equivalent qualification certification | German Federal Ministry of Education and Research (BMBF) | Required | Overseas degrees need credential evaluation. |
+| Electricity equipment operating license | German Federal Institute for Occupational Safety and Health | Optional | May be required depending on power plant type |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。德国能源转型推动可再生能源与氢能技术发展，传统电厂岗位稳定，新技术岗位需求增长。预计未来十年从业人数基本持平，但技术升级要求持续培训。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. Germany's energy transition is promoting the development of renewable energy and hydrogen technology. Traditional power plant jobs are stable, while demand for new technology roles is growing. Employment numbers are expected to remain roughly stable over the next decade, but technological upgrades require continuous training.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，如带轮班补贴更高 |
-| 中级（3-7年） | $45,000~$55,000 | 含绩效奖金 |
-| 高级（7年以上） | $55,000~$65,000 | 含职位津贴 |
+| Median salary | $48,324 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary, higher with shift allowances |
+| Mid-level (3–7 years) | $45,000~$55,000 | Includes performance bonuses |
+| Senior (7+ years) | $55,000~$65,000 | Including position allowance. |
+| average salary | $52,416 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从操作员晋升为高级技术员、班组组长或电厂主管。通过继续教育可转向能源管理或可再生能源领域，如风力、光伏电站运维。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
+
+Can advance from operator to senior technician, team leader, or plant supervisor. Through further education, can transition to energy management or renewable energy fields, such as wind or solar farm operations.
+
+**Tasks most exposed to AI:**
+
+- Monitor power generation equipment dashboards and record data in real time
+- Performs routine startup, shutdown, and load regulation operations
+- Identify and respond to preset alarm signals.
+- Generate daily operation reports and maintenance logs
+
+**Where AI augments the role:**
+
+- AI predictive maintenance: analyzing sensor data to warn of equipment failures early
+- Intelligent dispatching: optimize generation load distribution, improve efficiency and reduce costs
+- Virtual training: use AR/VR to simulate emergency scenarios for practice
+- Remote assistance: AI expert system helps diagnose complex faults
+
+**Human moat:**
+
+- Quick judgment and manual operation skills in emergencies
+- cross-system coordination and communication (grid dispatch, maintenance teams)
+- Intuitive experience with equipment physical characteristics (e.g., abnormal sounds, vibrations)
+- Responsibility and compliance decisions (critical for grid stability and safety)
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- AI monitoring system operation and anomaly investigation
+- Basic programming (Python/SCADA scripting)
+- Knowledge of electricity markets and dispatch optimization
+- Emergency response and crisis management
+- Digital operations and maintenance tools (CMMS, digital twins)
+
+**Key growth areas:**
 
 - Energy transition
 - Renewable energy
@@ -62,68 +95,67 @@ Operate, monitor, and maintain energy and power plant equipment such as boilers,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合学历达标且工资达门槛的申请人 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 德国技术移民法下，职业培训资格经认证即可申请 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，可先到德国找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants who meet the educational requirements and the salary threshold |
+| Subclass Skilled Worker (Skilled Worker Visa) | Under Germany's Skilled Immigration Act, vocational training qualifications can be applied for after certification |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, you can first go to Germany to look for a job |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Energy and Power Plant Technician？**
-- 喜欢动手操作和维护设备的人
-- 对能源技术和环保感兴趣
-- 能适应轮班作业
-
-**谁不适合学Energy and Power Plant Technician？**
-- 不喜欢体力劳动和户外作业
-- 无法适应密闭空间或高空作业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operation and equipment maintenance
+- Interested in energy technology and environmental protection
+- Able to adapt to shift work
+
+**Who is not suited**
+- Those who dislike physical labor and outdoor work
+- Unable to adapt to confined spaces or working at heights
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for energy and power plant technicians?**
+A: Entry-level annual salary about €35,000-42,000, mid-level €45,000-55,000, senior up to €65,000. Higher with shift and overtime allowances.
+
+**Q: How can overseas applicants enter this occupation through skilled migration?**
+A: Must first obtain a recognized professional qualification in Germany (or pass credential assessment). Then apply for a Skilled Worker Visa or EU Blue Card. It is recommended to enter Germany using the Chancenkarte to find a job.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can advance to senior technician, team leader, plant supervisor, or transition to energy management or renewable energy fields through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Energy and Power Plant Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an energy and power plant technician?**
-答：Entry-level annual salary is around €35,000-42,000, mid-level €45,000-55,000, and senior up to €65,000 before tax. Shift and overtime allowances can increase pay.
-
-**问：How can overseas applicants work in this occupation via skilled migration?**
-答：First obtain recognition of your vocational qualification in Germany, then apply for a Skilled Worker Visa or EU Blue Card. The Opportunity Card (Chancenkarte) can help enter Germany to seek employment.
-
-**问：What are the career advancement paths?**
-答：Promotion to senior technician, shift supervisor, or plant manager. Further education can lead to energy management or renewable energy roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

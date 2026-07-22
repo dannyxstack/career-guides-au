@@ -1,69 +1,99 @@
-# 云计算工程师（Computer Network and Systems Engineer）职业分析 · 澳大利亚
+# Cloud Engineer — career analysis · Australia
 
-**职业代码：263111 – Computer Network and Systems Engineer。**
+**Occupation code: 263111 (ANZSCO)**
 
-云计算工程师设计、部署和管理基于AWS、Azure、GCP的云基础设施，覆盖云架构、DevOps、容器化、网络和安全。澳洲联邦政府「云优先」政策和企业大规模数据中心上云推动需求持续旺盛，是IT类薪资最高的专业之一。
+Cloud engineers design, deploy and manage cloud infrastructure on AWS, Azure and GCP, covering cloud architecture, DevOps, containerisation, networking and security. The Australian federal government's 'cloud-first' policy and large-scale enterprise migration to the cloud are driving sustained demand, making this one of the highest-paying IT specialisations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Computer Science / IT / Engineering（3~4年） | 3~4年（全日制） | $25,000~$160,000（基础学历，实际工作中认证权重不低于学位） |
-| 云平台认证（AWS/Azure/GCP Professional Level） | 2~6个月备考 | $1,500~$5,000（AWS Solutions Architect Professional 约 $300 考试费；是澳洲云工程师岗位强烈推荐的认证） |
-| ACS 技能评估（189/190签证） | 2~6个月 | $500~$1,500（技术移民必须的学历认证机构） |
+| Bachelor of Computer Science / IT / Engineering (3–4 years) | 3–4 years (full-time) | $25,000~$160,000 (Foundational qualification; in practice, certifications carry no less weight than a degree) |
+| Cloud platform certification (AWS/Azure/GCP Professional Level) | 2–6 months of exam preparation | $1,500~$5,000 (AWS Solutions Architect Professional exam fee approx. $300; a strongly recommended certification for cloud engineering roles in Australia) |
+| ACS skills assessment (189/190 visa) | 2–6 months | $500~$1,500 (The mandatory credential assessment body for skilled migration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| AWS Certified Solutions Architect – Professional | Amazon Web Services | 可选 | 澳洲市场最认可的云认证，持有者薪资溢价显著 |
-| Microsoft Azure Solutions Architect Expert | Microsoft | 可选 | 政府/金融机构Azure岗位的强烈推荐认证 |
-| Certified Kubernetes Administrator (CKA) | CNCF | 可选 | 容器化和平台工程方向的重要技术认证 |
-| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
+| AWS Certified Solutions Architect – Professional | Amazon Web Services | Optional | The most recognised cloud certification in the Australian market, with significant salary premiums for holders |
+| Microsoft Azure Solutions Architect Expert | Microsoft | Optional | Strongly recommended certification for Azure roles in government and financial institutions |
+| Certified Kubernetes Administrator (CKA) | CNCF | Optional | An important technical certification for containerisation and platform engineering |
+| ACS Skills Assessment | Australian Computer Society | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 55,000。JSA 预测云和系统工程师至2035年就业增长约22%。政府云迁移（ASD Cloud Security Guidelines）和企业AI基础设施建设是主要驱动力。
+**Job demand: very high (★★★★★).** National workforce approx. 55,000. JSA forecasts approximately 22% employment growth for cloud and systems engineers by 2035. Government cloud migration (ASD Cloud Security Guidelines) and enterprise AI infrastructure build-out are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~4,000 个 | 全国，含云架构师、DevOps工程师、平台工程师和云安全岗 |
-| Indeed | 1,500~3,000 个 | 含合同和远程岗 |
-| LinkedIn | 3,000~6,000 个 | 企业和政府直招，猎头活跃 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级云工程师（0~3年） | $80,000~$110,000 | 持Associate级认证，含基础云运维岗 |
-| 中级云工程师（3~6年） | $110,000~$150,000 | SEEK 区间 $125k~$145k；Indeed 平均 $126,688（2026） |
-| 高级/云架构师（6~10年） | $150,000~$200,000 | Professional级认证+多云架构经验 |
-| 首席云架构师 / CTO路径（10年+） | $200,000~$300,000 | 大型金融/政府机构云转型领头人 |
-| 合同工（Daily Rate） | $130,000~$250,000 | 合同云工程师日薪 $700~$1,300（年化约 $140k~$260k） |
+| Median salary | $120,068 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior cloud engineer (0–3 years) | $80,000~$110,000 | Holding Associate-level certification, covering entry-level cloud operations roles |
+| Mid-level cloud engineer (3–6 years) | $110,000~$150,000 | SEEK range $125k–$145k; Indeed average $126,688 (2026) |
+| Senior/Cloud Architect (6–10 years) | $150,000~$200,000 | Professional-level certification plus multi-cloud architecture experience |
+| Principal Cloud Architect / CTO pathway (10+ years) | $200,000~$300,000 | Cloud transformation leader at large financial or government institutions |
+| Contract (Daily Rate) | $130,000~$250,000 | Contract cloud engineers earn $700–$1,300 per day (annualised approximately $140k–$260k) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 平台工程（Platform Engineering）和FinOps（云成本优化）是2025-2026年增长最快的子领域。多云架构（同时管理AWS+Azure+GCP）的工程师薪资溢价 $15k~$30k。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+Platform Engineering and FinOps (cloud cost optimisation) are the fastest-growing sub-fields in 2025–2026. Engineers managing multi-cloud architectures (AWS + Azure + GCP simultaneously) command a salary premium of $15k–$30k.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - Multi-Cloud Architecture (AWS/Azure/GCP)
 - Cloud Security & Compliance
@@ -73,91 +103,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，云工程师为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，ACT/NSW/VIC科技移民通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区IT岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; cloud engineer is a core shortage role |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC technology migration pathway |
+| Subclass 491 (Skilled Work Regional) | Remote area IT role, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学云计算工程师？**
-- 有云平台工作经验（AWS/Azure/GCP，2年以上）
-- 持有云认证（至少Associate级），或正在备考Professional
-- 有DevOps/Kubernetes/Terraform等基础设施自动化经验
-- 英语能力达到 IELTS 6.5+
-- 目标是联邦政府云迁移岗位（稳定）或顶级科技公司（高薪）
-
-**谁不适合学云计算工程师？**
-- 无云平台实际工作经验（仅理论学习）
-- 不愿意持续学习新服务（云平台每年推出数百个新功能）
-- 英语能力极弱，无法在团队中有效沟通
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Cloud platform work experience (AWS/Azure/GCP, 2+ years)
+- Holds a cloud certification (at least Associate level) or is currently preparing for Professional level
+- Experience with infrastructure automation tools such as DevOps/Kubernetes/Terraform
+- English proficiency of IELTS 6.5+
+- Targeting federal government cloud migration roles (stability) or top tech companies (high salary)
+
+**Who is not suited**
+- No hands-on cloud platform work experience (theoretical study only)
+- Unwilling to continuously learn new services (cloud platforms release hundreds of new features every year)
+- Very limited English proficiency, unable to communicate effectively within a team
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a cloud computing engineer in Australia?**
+A: Intermediate cloud engineer: approx. $110,000-$150,000 (Indeed average $126,688); cloud architect: approx. $150k-$200k; principal architect can exceed $250k. Contractor day rate $700-$1,300.
+
+**Q: Is it easy to find work as a Cloud Computing Engineer in Australia?**
+A: Very easy. Seek lists approximately 2,000–4,000 positions; government cloud migration and enterprise AI infrastructure projects are driving demand, and those with Professional certifications are proactively headhunted.
+
+**Q: Will Chinese cloud engineering experience be recognised in Australia?**
+A: Pass ACS skills assessment (qualification review), cloud platform certifications (AWS/Azure/GCP) are internationally recognized and fully accepted in Australia. Actual work experience combined with certification is the strongest competitiveness.
+
+**Q: Will cloud engineers be replaced by AI?**
+A: The risk is extremely low. AI large language models themselves require massive cloud infrastructure to run, so demand for cloud engineering has actually surged with the AI wave. AI tools assist with configuration generation, but architectural decisions and complex troubleshooting still require human expertise.
+
+**Q: Is there an age limit for cloud engineers in Australia?**
+A: None. The IT industry has little age bias, and extensive enterprise architecture experience commands a significant market premium.
+
+**Q: What qualifications are needed to become a cloud engineer in Australia?**
+A: CS/IT degrees are mainstream, but those with AWS/Azure Professional level certification + 5+ years experience and non-CS degrees are also competitive. ACS skills assessment has broad recognition for related disciplines.
+
+**Q: Is it difficult to become a cloud engineer in Australia (migration pathway)?**
+A: Moderate difficulty. ACS assessment is straightforward; Professional-level cloud certifications require deep hands-on experience; 189/190 invitation scores are favourable for engineers holding advanced certifications.
+
+**Q: Which is better for migrating to Australia — cloud engineer or DevOps engineer?**
+A: Cloud engineers attract slightly higher salaries ($125k–$145k vs $120k–$140k), with significant skill overlap between the two roles. Cloud engineers focus more on infrastructure architecture; DevOps engineers focus more on CI/CD pipelines and automation. Choose cloud engineer if you have architecture experience; choose DevOps if you have pipeline experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 云工程师薪资 $125k~$145k（2026） |
-| Indeed AU | 云工程师平均薪资 $126,688（2026） |
-| ACS | 技能评估机构，189/190签证必须 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-云计算工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲云计算工程师工资多少？**
-答：中级云工程师约 $110,000~$150,000（Indeed均值 $126,688）；云架构师约 $150k~$200k；首席架构师可超 $250k。合同工日薪 $700~$1,300。
-
-**问：澳洲云计算工程师容易找工作吗？**
-答：极容易。Seek 挂牌约 2000~4000 个职位，政府云迁移和企业AI基础设施建设驱动需求，持Professional认证者主动被猎头联系。
-
-**问：中国云工程师经验澳洲认可吗？**
-答：通过 ACS 技能评估即可（学历审核），云平台认证（AWS/Azure/GCP）是国际通用认证，在澳洲完全认可。实际工作经验+认证组合是最强的竞争力。
-
-**问：云工程师会被AI替代吗？**
-答：风险极低。AI大模型本身需要大量云基础设施来运行，云工程需求反而因AI浪潮急剧增加。AI工具辅助配置生成，但架构决策和复杂排障仍需人工。
-
-**问：澳洲云工程师有年龄限制吗？**
-答：无。IT行业对年龄偏见少，丰富的企业架构经验在市场上具有高溢价。
-
-**问：澳洲云工程师需要什么学历？**
-答：CS/IT相关学位是主流，但持有 AWS/Azure Professional 级认证+5年以上经验的非CS学历者同样竞争力强。ACS技能评估对相关学科的认可范围较广。
-
-**问：澳洲云工程师认证（移民）难吗？**
-答：难度中等。ACS评估不难，Professional级云认证需要深入实战经验，189/190邀请分对持高端认证的工程师友好。
-
-**问：云工程师和DevOps工程师哪个更适合移民澳洲？**
-答：云工程师薪资略高（$125k~$145k vs $120k~$140k），两者技能高度重叠。云工程师更偏基础设施架构；DevOps更偏CI/CD流水线和自动化。有架构经验者选云工程师，有pipeline经验者选DevOps。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

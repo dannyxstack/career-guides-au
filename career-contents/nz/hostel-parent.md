@@ -1,59 +1,95 @@
-# Hostel Parent（Hostel Parent）职业分析 · 新西兰
+# Hostel Parent — career analysis · New Zealand
 
-**职业代码：423412 – Hostel Parent。**
+**Occupation code: 423412 (ANZSCO)**
 
-Hostel Parents in New Zealand supervise the welfare, safety, and daily conduct of students in boarding facilities at schools or institutions. This role is not on the Green List or priority for skilled migration, but entry via Accredited Employer Work Visa (AEWV) is possible, with potential to transition to Skilled Migrant Category after gaining experience.
+Hostel Parents in New Zealand oversee the welfare, safety, and daily behavior of students in school or institution boarding facilities, playing a key role in the education support system. This occupation is not currently on the Green List or a priority for skilled migration, but you can enter via an Accredited Employer Work Visa (AEWV) to gain experience and apply for skilled migration after meeting conditions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（新西兰本地公立高中免费；国际学生约NZD 15,000/年） |
-| 相关大专或证书 | 1-2年 | $6,000~$20,000（如社区支持、教育或青少年工作证书课程） |
+| High school diploma | 3 years | $0~$0 (Free for local public high schools in New Zealand; international students approx. NZD 15,000/year) |
+| Relevant diploma or certificate. | 1-2 years | $6,000~$20,000 (such as community support, education or youth work certificate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰警方背景检查 | 新西兰警方 | 必备 | 必须通过，证明无犯罪记录 |
-| 儿童工作安全检查 | 新西兰儿童事务部 | 必备 | 必须持有，适用于与儿童接触的岗位 |
-| 急救证书 | 新西兰红十字会或圣约翰 | 可选 | 通常要求，包括儿童急救 |
+| New Zealand police background check | New Zealand Police. | Required | Must pass, proving no criminal record |
+| Working with Children Check | New Zealand Ministry for Children | Required | Mandatory, applicable for roles involving contact with children |
+| First aid certificate | New Zealand Red Cross or St John | Optional | Usually required, including child first aid |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。随着新西兰国际学生和寄宿学校需求稳定，宿舍管理员岗位保持平稳需求，尤其在私立和公立寄宿学校。就业增长率适中，预计未来5年岗位数量略有增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. With stable demand from international students and boarding schools in New Zealand, the demand for dormitory supervisors remains steady, especially in private and public boarding schools. Employment growth is moderate, with a slight increase expected over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常包食宿或提供住宿补贴 |
-| 中级（3-6年） | $55,000~$65,000 | 含额外职责，如监督活动 |
-| 高级（6年以上） | $65,000~$78,000 | 负责管理团队或大型宿舍 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Usually includes meals and accommodation or provides a housing allowance |
+| Mid-level (3–6 years) | $55,000~$65,000 | Includes additional duties, such as supervising activities |
+| Senior (6+ years) | $65,000~$78,000 | Responsible for managing teams or large dormitories |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径包括从初级宿舍管理员晋升为高级宿舍管理员、宿管主管，或转向学生支持服务、教育管理等领域。积累经验后有机会担任更大的宿舍或寄宿设施管理职责。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core of a dormitory manager's role—human care, supervision, and safety responsibilities—is difficult to fully automate, but administrative, record-keeping, and basic communication tasks can be significantly enhanced by AI, evolving the role into a tech-assisted community manager.
+
+Career progression includes advancing from junior dormitory supervisor to senior dormitory supervisor, dormitory manager, or transitioning to student support services, education management, etc. With experience, there are opportunities to take on management responsibilities for larger dormitories or boarding facilities.
+
+**Tasks most exposed to AI:**
+
+- Automatic recording and report generation for student attendance and curfew
+- Chatbot responses for basic inquiries (e.g., WiFi password, laundry room hours)
+- AI identification and early warning of non-compliant behavior patterns
+- Automated management of accommodation allocation and room scheduling
+- Automated inspection and anomaly alerts for electronic access and surveillance systems
+
+**Where AI augments the role:**
+
+- More timely detection of student physical or emotional abnormalities through AI health monitoring systems
+- Using translation tools to communicate effectively with multicultural student families
+- Optimize dormitory resource allocation and budget using data analysis
+- Provide learning support to students using AI tutoring tools
+- Emergency drill training using virtual reality
+
+**Human moat:**
+
+- Build trust and provide emotional support
+- Handle complex interpersonal conflicts and crisis intervention
+- Cultural sensitivity and personalised care
+- On-site real-time assessment of high-risk incidents
+- Protecting privacy and ethical boundaries in accommodation environments
+
+**Skills to build:**
+
+- Basic data tools (e.g., Excel, Power BI) for reporting and trend analysis
+- Managing virtual communities via digital communication platforms (e.g., Slack, Teams)
+- AI tool application (chatbot configuration, health monitoring system operation)
+- Cross-cultural communication and conflict mediation
+- Basics of adolescent psychology and crisis intervention
+- Simple programming or scripting (e.g., Python) for automating daily tasks
+
+**Key growth areas:**
 
 - Stable Demand
 - School Sector
@@ -62,68 +98,67 @@ Hostel Parents in New Zealand supervise the welfare, safety, and daily conduct o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于获得认证雇主担保的宿舍管理员，通常工作3年后可申请技术移民 |
-| Subclass SMC（Skilled Migrant Category） | 工作经验和工资达到中位数（约NZD 60,000/年），可积累6分申请居留，但属非优先职业 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 当前不在绿色清单中，但若未来调整可能纳入 |
+| Subclass AEWV (Accredited Employer Work Visa) | Applicable to dormitory supervisors with approved employer sponsorship, usually eligible for skilled migration after 3 years of work |
+| Subclass SMC (Skilled Migrant Category) | With work experience and a salary at the median (approx. NZD 60,000/year), you can accumulate 6 points to apply for residency, but this is a non-priority occupation. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Currently not on the Green List, but may be included if adjustments are made in the future |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hostel Parent？**
-- 喜欢与年轻人相处、有耐心和责任心的人
-- 具备学生管理或住宿服务经验者
-- 寻求稳定工作且愿意从事教育支持行业的人
-
-**谁不适合学Hostel Parent？**
-- 不喜欢处理行为问题和冲突的人
-- 寻求高薪或快速晋升路径者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy working with young people, are patient and responsible
+- Experience in student management or accommodation services preferred
+- For those seeking stable work and willing to support the education industry
+
+**Who is not suited**
+- People who dislike dealing with behavioral issues and conflicts
+- Those seeking high salaries or fast-track career paths
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level of dormitory managers?**
+A: Dormitory supervisor salary varies by experience and employer; entry-level approximately NZD 45,000-55,000, senior up to NZD 65,000-78,000, often including food and accommodation subsidies.
+
+**Q: Can dormitory managers immigrate to New Zealand?**
+A: Yes, but you must enter via an Accredited Employer Work Visa (AEWV) and meet skilled migration requirements. Currently, this occupation is not on the Green List priority list, so the migration path is slower, requiring sufficient points (e.g., salary of NZD 60,000+ and work experience).
+
+**Q: What certificates are needed to work as a dormitory manager?**
+A: Must hold New Zealand police check and children's worker safety check. First aid certificate is also recommended but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低至中等（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hostel Parent的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Hostel Parent?**
-答：Salaries vary by experience and employer. Entry-level: NZD 45,000-55,000; senior: NZD 65,000-78,000, often with accommodation/meals included.
-
-**问：Can a Hostel Parent immigrate to New Zealand?**
-答：Yes, via Accredited Employer Work Visa (AEWV) and then meeting Skilled Migrant Category requirements. It's not on the Green List, so the path is slower, requiring sufficient points (e.g., salary over NZD 60,000 + work experience).
-
-**问：What certifications are required to work as a Hostel Parent?**
-答：Mandatory: NZ Police vetting and Children's Worker Safety Check. First Aid certificate is commonly required but not mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

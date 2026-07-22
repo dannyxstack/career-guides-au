@@ -1,62 +1,98 @@
-# Shelf Stocker (Self-Service)（Shelf Stocker (Self-Service)）职业分析 · FR
+# Shelf Stocker (Self-Service) — career analysis · France
 
-**职业代码：D1507 – Shelf Stocker (Self-Service)。**
+**Occupation code: D1507 (ROME)**
 
-Responsible for restocking shelves, arranging product displays, and managing inventory in self-service retail environments such as supermarkets and convenience stores to ensure availability and visual appeal.
+Responsible for shelving, restocking, displaying, and inventory management in large supermarkets, convenience stores, and other retail venues to ensure shelves are sufficient, tidy, and meet hygiene standards.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 无需 | —（通常接受在职培训，无学历门槛，但需掌握基本法语沟通。） |
-| CAP Equipier polyvalent du commerce | 2年（CAP） | —（可通过学徒制（apprentissage）免费学习，同时获得工资。） |
-| Bac pro Métiers du commerce et de la vente | 3年（Bac pro） | —（同样可走学徒制，公立学校学费低廉。） |
+| No specific educational requirements | None | $0~$0 (Usually, on-the-job training is provided, with no educational requirements, but basic French communication skills are required.) |
+| CAP Equipier polyvalent du commerce | 2 years (CAP) | $0~$1,500 (You can study for free through apprenticeships and receive a salary.) |
+| Bac pro Métiers du commerce et de la vente | 3 years (Bac pro) | $0~$2,000 (Apprenticeships are also available, and public school tuition is low.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 大部分雇主不要求特定证书，但会提供内部培训。 |
-| CACES（搬运设备操作证书） | 法国劳工部（CNAM） | 可选 | 如需要操作叉车等设备，需通过CACES认证考试，约500-800欧元。 |
-| HACCP（食品安全培训） | 经认证的培训机构 | 可选 | 部分超市要求接触食品的员工参加HACCP培训。 |
+| No mandatory certification | None | Optional | Most employers do not require specific certificates but provide in-house training. |
+| CACES (Handling Equipment Operation Certificate) | French Ministry of Labor (CNAM) | Optional | If you need to operate forklifts and similar equipment, you must pass the CACES certification exam, which costs about 500-800 euros. |
+| HACCP (Food Safety Training) | Certified training institutions | Optional | Some supermarkets require employees who handle food to participate in HACCP training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。随着法国零售业向大型自助超市和线上订单履约中心转型，对货架理货员的需求保持稳定，但自动化补货系统可能逐步替代部分重复劳动。就业机会主要集中在大型连锁超市和仓储式卖场，季节性波动明显。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. As French retail transforms into large self-service supermarkets and online fulfillment centers, demand for shelf tally clerks remains stable, but automated replenishment systems may gradually replace some repetitive labor. Employment opportunities are mainly concentrated in large chain supermarkets and warehouse stores, with significant seasonal fluctuations.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$24,000 | 基于SMIC（最低工资）水平，约税前21 000欧元/年。 |
-| 中级（3-5年） | $24,000~$28,000 | 通常含夜班或周末补贴。 |
-| 高级（6年以上或主管） | $28,000~$35,000 | 晋升至部门主管（Chef de rayon）后薪资提升明显。 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $20,000~$24,000 | Based on the SMIC (Minimum Wage) level, approximately 21,000 euros per year before tax. |
+| Mid-level (3–5 years) | $24,000~$28,000 | Usually includes night shift or weekend subsidies. |
+| Senior (6+ years or supervisory) | $28,000~$35,000 | After being promoted to department head (Chef de rayon), the salary increases significantly. |
+| average salary | $21,072 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级理货员可晋升为部门主管（Chef de rayon），负责商品采购和团队管理，或转向物流/供应链协调岗位。也可通过职业培训转型为零售买手或仓储经理，但晋升空间相对有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Self-service shelf sorting positions will undergo significant transformation: AI-driven inventory robots and automated replenishment systems can replace about 60% of basic tasks, but scenarios such as store maintenance, product quality inspection, and customer interaction still require human judgment, forcing practitioners to transform into multi-skilled retail consultants.
+
+Junior stock clerks can be promoted to department head (Chef de rayon), responsible for merchandise procurement and team management, or move to logistics/supply chain coordination roles. You can also transition to retail buyers or warehouse managers through vocational training, but promotion opportunities are relatively limited.
+
+**Tasks most exposed to AI:**
+
+- Automated replenishment planning based on real-time sales data and inventory levels
+- Automated execution of shelf placement sequence and display planning (such as AI visual recognition for deviation correction)
+- AI automated processing of inventory counting and inbound and outbound records
+- Scanning of product expiration dates and automatic removal reminders for near-expiry products
+- Physical listing of standard products is completed through robots or conveyor belts
+
+**Where AI augments the role:**
+
+- Efficiently receive and confirm replenishment orders and abnormal alerts using mobile terminals or augmented reality devices
+- Use AI analysis to optimize shelf display levels and highlight the display positions of promotional products
+- Predictive maintenance systems detect and address rack or freezer equipment failures in advance
+- Use sales trend data to assist in decision-making for seasonal merchandise display adjustments
+- Dynamically adjust the product mix on certain shelves based on customer feedback and sales data
+
+**Human moat:**
+
+- Handling special products with non-standard shapes, fragile damage, or those that require manual judgment of placement and aesthetics
+- Flexible response to on-site emergencies (such as customers knocking over products or shelf structure damage)
+- Coordinate communication and negotiation with suppliers regarding returns, claims, and special orders
+- Perform food freshness checks and grading that require sensory judgment
+- Maintain an immeasurable sense of order and aesthetic standards in the in-store shopping experience
+
+**Skills to build:**
+
+- Basic programming and scripting (such as Python/RPA to simplify data entry)
+- Proficiency in digital tools and inventory management software (SAP/Oracle, etc.).
+- Basic electrical and mechanical maintenance skills (for daily maintenance of automated replenishment equipment)
+- Data visualization and analysis (monitoring shelf efficiency with dashboards)
+- Multitasking coordination and exception handling capabilities
+- Customer Service and Communication Skills (Addressing Interpersonal Touchpoints in Intelligent Transformation)
+
+**Key growth areas:**
 
 - Retail automation
 - E-commerce fulfillment
@@ -65,64 +101,66 @@ Responsible for restocking shelves, arranging product displays, and managing inv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 需法国雇主提供长期工作合同（CDI），工资需达到法定最低标准，且通过法国劳动局审核岗位无法由本地人填补。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | A long-term employment contract (CDI) must be provided by a French employer, with wages meeting the statutory minimum standard, and the position must not be filled by a local employee after passing the French Labor Bureau's review. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shelf Stocker (Self-Service)？**
-- 希望在法国快速就业、不需要高学历的求职者
-- 体力好、能适应站立工作和轮班制的人群
-- 对零售行业感兴趣的年轻人
+**Who is suited**
+- Job seekers who want to find a quick job in France without a high degree of education
+- People with good physical strength who can adapt to standing work and shift work
+- Young people interested in the retail industry
 
-**谁不适合学Shelf Stocker (Self-Service)？**
-- 寻求高薪或长期职业发展空间的人
-- 不擅长体力劳动或无法适应早晚班的人
+**Who is not suited**
+- People seeking high salaries or long-term career development opportunities
+- People who are not good at physical labor or who cannot adapt to early and late shifts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a shelf sorter in France?**
+A: The entry-level pre-tax annual salary is about 20,000-24,000 euros, usually at the SMIC level (about 11.65 euros/hour). With increased experience, the salary can exceed 28,000 euros, but positions above 35,000 euros are scarce.
+
+**Q: Can non-EU citizens immigrate to France through this occupation?**
+A: It's very difficult. Shelving tally clerks are not a scarce profession, and employers find it difficult to prove they cannot find local staff. Even if you obtain a work contract, your salary is usually below the statutory threshold for applying for a work visa (about 1.5 times the SMIC). It is recommended to consider other professional skills.
+
+**Q: How to Promote from Shelf Sorter to Department Supervisor?**
+A: Usually, 2-3 years of experience are required; outstanding performance allows for internal promotion training to learn procurement, inventory management, and team leadership skills. Some companies fund Bac Pro or BTS diplomas. After promotion, salaries can exceed 30,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shelf Stocker (Self-Service)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a shelf stocker in France?**
-答：Entry-level gross annual salary is around €20,000-24,000, typically at SMIC level (approx. €11.65/hour). With experience, it can reach over €28,000, but positions above €35,000 are rare.
-
-**问：Can non-EU citizens immigrate to France through this occupation?**
-答：Very difficult. This is not a shortage occupation, and employers struggle to prove local labor shortage. Even with a contract, salary often falls below the threshold for work permits (approx. 1.5x SMIC). Consider other skilled occupations.
-
-**问：How can a shelf stocker become a department manager?**
-答：Usually requires 2-3 years of experience; top performers can join internal training for purchasing, inventory management, and leadership. Some companies fund Bac pro or BTS programs. After promotion, salary can exceed €30,000.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

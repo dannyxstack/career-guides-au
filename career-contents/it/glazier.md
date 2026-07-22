@@ -1,58 +1,91 @@
-# Glazier（Glazier）职业分析 · IT
+# Glazier — career analysis · Italy
 
-**职业代码：7125 – Glazier。**
+**Occupation code: 7125 (ISCO08)**
 
-In Italy, glaziers install, replace, and repair glass windows, doors, and curtain walls in residential and commercial buildings.
+In Italy, glaziers install, replace, and repair glass doors, windows, and curtain walls for buildings, commonly seen in new construction and renovation projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业技术培训 | 3年 | —（公立职业培训学校免费或低学费） |
-| 学徒制 | 3-4年 | —（学徒期间有工资，培训费低） |
+| Vocational and technical training | 3 years | $0~$2,000 (Public vocational training schools offer free or low tuition fees) |
+| Apprenticeship | 3-4 years | $0~$500 (Paid during apprenticeship, low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃工职业资格证书 | 地区行业协会 | 必备 | 需通过理论和实践考试 |
-| 安全培训证书 | 地区安全机构 | 必备 | 高空作业等特殊环境必备 |
+| Glass Worker Vocational Qualification | Regional industry association | Required | Must pass theoretical and practical exams |
+| Safety training certificate | Regional security agency | Required | Essential for special environments such as working at heights |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利建筑行业复苏缓慢，但节能改造和翻新需求支撑就业。北部经济发达地区机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Italy's construction industry recovery is slow, but energy renovation and refurbishment demand supports employment. More opportunities in economically developed northern regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒期或刚获资格 |
-| 中级（3-8年） | $23,000~$28,000 | 熟练工 |
-| 高级（8年以上） | $29,000~$35,000 | 主管或自主经营者 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprenticeship or just qualified |
+| Mid-level (3–8 years) | $23,000~$28,000 | Skilled worker |
+| Senior (8+ years) | $29,000~$35,000 | Supervisor or self-employed person |
+| average salary | $25,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从熟练工可晋升为团队主管或自主创业。部分人员转向节能玻璃安装或幕墙工程等专门领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
+
+Skilled workers can advance to team leader or start their own business. Some transition to specialised areas such as energy-efficient glass installation or curtain wall engineering.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - green building
 - energy efficiency
@@ -61,68 +94,67 @@ In Italy, glaziers install, replace, and repair glass windows, doors, and curtai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历或5年经验，年薪门槛约24,000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额针对非欧盟工人，需雇主担保，通常要求职业资格。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主申请劳工许可，需证明本地无法招聘，适用于长期工作。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately €24,000. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU workers, requires employer sponsorship, usually requires professional qualifications. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers apply for labor permits, need to prove local recruitment is not possible, applicable to long-term work. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glazier？**
-- 喜欢动手操作、注重细节的人
-- 能适应户外高空作业
-- 有耐心进行精细切割和安装
-
-**谁不适合学Glazier？**
-- 恐高或不适应体力劳动
-- 不擅长与客户沟通协调
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Able to adapt to outdoor high-altitude work
+- Patient with fine cutting and installation tasks
+
+**Who is not suited**
+- Fear of heights or unsuitability for physical labor
+- Not good at communicating and coordinating with clients
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of glass workers in Italy?**
+A: Entry-level annual salary approx. €18,000–22,000, skilled €23,000–28,000, senior up to €35,000. Northern regions slightly higher.
+
+**Q: How can non-EU citizens become glass workers in Italy?**
+A: Can be done via Decreto Flussi quota work visa or EU Blue Card, requiring employer sponsorship and professional qualification certification.
+
+**Q: Is glassworking a promising career?**
+A: With growing demand for energy-efficient buildings and renovations, skilled glaziers remain stable, with opportunities for promotion to supervisor or starting their own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Glazier的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glaziers in Italy?**
-答：Entry-level earns €18,000-22,000, skilled €23,000-28,000, senior up to €35,000. Higher in the north.
-
-**问：How can non-EU citizens work as glaziers in Italy?**
-答：Via Decreto Flussi quota work visa or EU Blue Card, requiring employer sponsorship and qualification recognition.
-
-**问：Is there a future for glaziers?**
-答：With green building and renovation demand, skilled glaziers have stable prospects, can become supervisors or self-employed.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Stock Clerk（Stock Clerk）职业分析 · IE
+# Stock Clerk — career analysis · Ireland
 
-**职业代码：4321 – Stock Clerk。**
+**Occupation code: 4321 (ISCO08)**
 
-Stock clerks maintain inventory records, ensure accuracy of goods receipt and dispatch, and assist in warehouse operations.
+Inventory managers are responsible for recording and managing stock levels, ensuring accuracy of goods inward and outward, and assisting with warehouse operations.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（无需高等教育） |
-| 职业培训证书 | 6个月 | $500~$2,000（仓库管理或物流课程） |
+| High school graduation | 0 years | $0~$0 (No higher education required) |
+| Vocational training certificate | 6 months. | $500~$2,000 (Warehouse management or logistics course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作证 | FETAC/QQI | 可选 | 常见要求，非强制但有利 |
-| 仓库管理证书 | Chartered Institute of Logistics and Transport (CILT) | 可选 | 提升竞争力 |
+| Forklift operation certificate | FETAC/QQI | Optional | Common requirement, not mandatory but beneficial |
+| Warehouse management certificate | Chartered Institute of Logistics and Transport (CILT) | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。爱尔兰物流和零售业持续增长，推动库存管理员需求稳定。电商扩张带动仓库岗位增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Ireland's logistics and retail sectors are growing steadily, driving stable demand for inventory managers. E-commerce expansion boosts warehouse roles.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级库存管理员可晋升为仓库主管或物流协调员，进一步发展为仓储经理或供应链专家。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Stock Clerks face a high risk of automation; AI and robots will replace repetitive tasks like inventory counting and data entry, but physical operations and exception handling still require human input.
+
+Junior inventory clerks can advance to warehouse supervisor or logistics coordinator, and further develop into warehouse manager or supply chain specialist.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and data entry: AI and IoT automatically track inventory, replacing manual counting and recording
+- Goods inbound/outbound document processing: automated systems generate and verify orders, reducing manual entry
+- Inventory Report Generation: AI automatically analyses data and generates reports, eliminating manual compilation.
+- Simple inventory inquiries and information provision: chatbots replace humans in answering routine questions
+- Daily inventory discrepancy checks: algorithm automatically matches inbound and outbound records and flags anomalies
+
+**Where AI augments the role:**
+
+- Supply chain forecasting: AI-assisted analysis of historical data improves accuracy of inventory demand forecasting
+- Abnormal item handling: AI identifies suspicious items, then humans decide (e.g., damaged, expired)
+- Inventory optimization: AI suggests replenishment timing and quantities, humans adjust strategies.
+- Customer communication: AI provides initial information, humans handle complex complaints
+- Training newcomers: AI simulation scenarios, human-guided hands-on practice
+
+**Human moat:**
+
+- Handle non-standard tasks: e.g., repackaging when receiving damaged goods.
+- Client and internal collaboration: communicate complex needs, negotiate urgent orders
+- On-site physical operations: driving forklifts, moving heavy objects, etc., requiring flexibility
+- Judgment and Decision Making: Make reasonable inventory decisions when data is incomplete
+- Safety and Compliance: Ensure hazardous material storage, fire safety codes, etc.
+
+**Skills to build:**
+
+- Proficient in inventory management software (e.g., SAP, Oracle WMS)
+- Basic data analysis and visualization (Advanced Excel, Power BI)
+- Automated equipment operation (RFID scanners, automatic sorting systems)
+- Supply chain management fundamentals (forecasting, inventory optimization algorithms)
+- Interpersonal communication and problem-solving skills
+- Quality control and safety compliance knowledge
+
+**Key growth areas:**
 
 - E-commerce
 - Logistics automation
@@ -63,62 +99,64 @@ Stock clerks maintain inventory records, ensure accuracy of goods receipt and di
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用于此职业，除非有特殊技能；年薪需超过60,000欧元。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, with an annual salary of no less than 30,000 euros. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Usually not applicable for this occupation unless special skills; annual salary must exceed €60,000. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stock Clerk？**
-- 注重细节、条理清晰的人
-- 喜欢体力活动与办公结合的工作
-- 希望在物流行业从基层做起的人
+**Who is suited**
+- Detail-oriented and organized person
+- Prefers a mix of physical activity and office work
+- Those who hope to start from the ground up in the logistics industry
 
-**谁不适合学Stock Clerk？**
-- 对重复性工作感到厌倦的人
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- People who are tired of repetitive work
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an inventory clerk?**
+A: Annual salary for entry-level is approximately €22,000-28,000, mid-level €28,000-35,000, and senior up to €42,000.
+
+**Q: Can inventory managers immigrate to Ireland through a work visa?**
+A: This occupation usually does not meet critical skills permit requirements, but may apply for a general employment permit, requiring employer sponsorship and an annual salary of no less than €30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stock Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for stock clerks?**
-答：Entry-level salaries range from €22,000 to €28,000, mid-level €28,000 to €35,000, and senior up to €42,000.
-
-**问：Can stock clerks immigrate to Ireland via work visa?**
-答：This occupation typically does not qualify for Critical Skills Permit, but a General Employment Permit may be possible with employer sponsorship and salary ≥ €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Mechanical assemblers and inspectors（Mechanical assemblers and inspectors）职业分析 · 加拿大
+# Mechanical assemblers and inspectors — career analysis · Canada
 
-**职业代码：94204 – Mechanical assemblers and inspectors。**
+**Occupation code: 94204 (NOC)**
 
 Mechanical assemblers and inspectors assemble, adjust, and inspect mechanical equipment and parts during manufacturing to ensure products meet specifications and quality standards.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒制或职业证书 | 2-4年 | $2,000~$10,000（学费因省份和培训机构而异） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship or vocational certificate | 2-4 years | $2,000~$10,000 (Tuition fees vary by province and training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 各省教育部 | 必备 | 基本入学要求 |
-| 学徒注册或职业培训证书 | 各省学徒机构或学院 | 可选 | 部分省份强制要求，如安大略省 |
+| High school diploma | Provincial education ministries. | Required | Basic admission requirements |
+| Apprenticeship registration or vocational training certificate | Provincial apprenticeship agencies or colleges | Optional | Mandatory in some provinces, such as Ontario |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。加拿大制造业稳定发展，尤其在汽车、航空航天和工业机械领域，对机械装配和检验人员的需求持续存在。自动化趋势可能影响部分重复性岗位，但高技能检验员仍受欢迎。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Canada's manufacturing sector is growing steadily, especially in automotive, aerospace, and industrial machinery, sustaining demand for mechanical assemblers and inspectors. Automation trends may affect some repetitive roles, but skilled inspectors remain in demand.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 时薪约 $16-$22 |
-| 中级（3-7年） | $45,000~$62,000 | 时薪约 $22-$30 |
-| 高级（7年以上） | $62,000~$80,000 | 含检验员或主管岗位 |
+| Median salary | $54,080 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$45,000 | Hourly rate approximately $16-$22 |
+| Mid-level (3–7 years) | $45,000~$62,000 | Hourly wage approximately $22-$30 |
+| Senior (7+ years) | $62,000~$80,000 | Includes inspector or supervisor positions |
+| average salary | $56,160 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级装配工可通过积累经验和培训晋升为高级装配工、检验员或生产主管。进一步学习可转向质量控制或工程技术岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Mechanical assemblers and inspectors face higher replacement risk: AI and automation robots will take over many repetitive assembly and inspection tasks, entry-level positions will shrink significantly, but complex debugging and quality assessment still require human judgment.
+
+Junior assemblers can advance to senior assemblers, inspectors, or production supervisors through experience and training. Further study can lead to quality control or engineering technician roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive parts assembly (e.g., screw tightening, clip installation) is replaced by robotic assembly lines
+- Visual inspection of defects (e.g., scratches, dimensional deviations) is being replaced by machine vision systems
+- Sorting and placing materials according to fixed drawings are completed by automated storage systems
+- Simple functional tests (e.g., power-on test, leak test) performed by automated test stations
+- Production records and statistics are automatically generated via the MES system
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay assembly instructions, improving precision and speed
+- AI-assisted quality inspection analysis, marking abnormal areas and suggesting treatment methods
+- Predictive maintenance systems indicate tool wear, reducing downtime.
+- Digital twin simulation of assembly processes to optimize process parameters
+- Collaborative robots work alongside humans, allowing them to focus on complex tasks
+
+**Human moat:**
+
+- Flexibility in adapting to non-standard/small batch custom assembly
+- Identify root causes of complex quality issues based on experience (e.g., sources of abnormal noise)
+- On-site emergency debugging and repair during sudden failures
+- Process adaptation and team coordination when switching between multiple machine models quickly
+- Interpersonal communication during on-site installation and training at customer sites
+
+**Skills to build:**
+
+- Industrial robot programming and commissioning (e.g., FANUC, ABB)
+- Basic operation and parameter adjustment of machine vision systems
+- Data analysis and statistical process control (SPC)
+- IoT devices and sensor basics
+- Comprehensive skills in repair and preventive maintenance
+- Basic reading and modification of CAD/CAM software.
+
+**Key growth areas:**
 
 - Automation integration
 - Skilled trades shortage
@@ -61,65 +97,67 @@ Mechanical assemblers and inspectors assemble, adjust, and inspect mechanical eq
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 适合有相关工作经验且达到分数要求的申请人。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略、不列颠哥伦比亚省有技工类别，可加速移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法找到本地工人，之后可申请永久居留。 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Suitable for applicants with relevant work experience who meet the score requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario and British Columbia have skilled trades categories that can expedite immigration. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local worker is available, after which permanent residence can be applied for. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical assemblers and inspectors？**
-- 喜欢动手操作和机械组装的人
-- 注重细节和质量检查的人
-- 愿意在制造业环境中工作的人
-
-**谁不适合学Mechanical assemblers and inspectors？**
-- 不擅长重复性体力工作的人
-- 对噪音或工业环境敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operation and mechanical assembly
+- People who pay attention to detail and quality checking
+- People willing to work in a manufacturing environment
+
+**Who is not suited**
+- Not suited for repetitive physical work
+- People sensitive to noise or industrial environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mechanical assemblers?**
+A: The salary range for mechanical assemblers in Canada is approximately $32,000-$80,000 per year, entry-level about $32K-$45K, and senior up to $80K. Hourly wage about $16-$38.
+
+**Q: Can a mechanical assembler immigrate to Canada through skilled migration?**
+A: Yes, mechanical assembler (NOC 94204) is a skilled trade occupation, which can immigrate through Express Entry or Provincial Nominee Program (PNP); some provinces have priority trades categories, requiring language and work experience.
+
+**Q: What are the career development prospects for mechanical assemblers?**
+A: Junior assemblers can advance to senior assemblers, inspectors, or production supervisors, or retrain for quality control or engineering technology roles, but automation may affect some repetitive positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Mechanical assemblers and inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for mechanical assemblers?**
-答：In Canada, mechanical assemblers earn between CAD 32,000 and 80,000 annually, with entry-level at CAD 32K-45K and senior up to CAD 80K. Hourly rates range from CAD 16 to 38.
-
-**问：Can mechanical assemblers immigrate to Canada through skilled migration?**
-答：Yes, mechanical assemblers (NOC 94204) are trade occupations eligible for Express Entry and Provincial Nominee Programs (PNP). Some provinces have priority trade streams, requiring language proficiency and relevant work experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

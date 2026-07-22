@@ -1,66 +1,94 @@
-# 港口操作员（Stevedore）职业分析 · 澳大利亚
+# Stevedore — career analysis · Australia
 
-**职业代码：741212 – Stevedore。**
+**Occupation code: 741212 (ANZSCO)**
 
-港口操作员是澳洲运输行业的重要职业，需求稳定，具备相关资质即可入行。澳洲运输行业持续扩张，为专业人员提供良好的职业发展机会。
+Port operator is an important occupation in Australia's transport sector, with stable demand and accessible entry for those with relevant qualifications. Australia's transport industry continues to expand, offering strong career development opportunities for professionals.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Relevant qualification for Stevedore | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Relevant qualification for Stevedore | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 8,000。2025-2030年澳洲运输行业持续扩张，港口操作员需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. The Australian transport industry will continue to expand from 2025 to 2030, with demand for port operators maintaining steady growth; those with relevant certifications and experience have strong employment prospects.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，港口操作员须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Stevedores face moderate automation risk; physical and coordination tasks will be partially replaced by equipment, but safety supervision and emergency judgment rely on human experience, with AI mostly assisting and augmenting.
+
+Requirements for digital technology and professional certification continue to rise; port operators must continuously update their skills to keep pace with industry changes.
+
+**Tasks most exposed to AI:**
+
+- Container lashing and securing operations (automated lashing system)
+- Cargo location recording and scanning (AI vision + RPA)
+- Ship Stowage Plan Tabulation and Verification (Algorithm Optimization)
+- Routine inspection of spreaders and equipment (sensors + AI prediction)
+
+**Where AI augments the role:**
+
+- Real-time lifting path planning (AI-assisted obstacle avoidance)
+- Yard efficiency optimization (machine learning scheduling recommendations)
+- Security Monitoring and Early Warning (Image Recognition of Abnormal Behavior)
+- Predictive maintenance of equipment (data analysis)
+- Multilingual communication translation (real-time speech transcription)
+
+**Human moat:**
+
+- Safety decision-making and emergency response in complex environments
+- Non-Standard Communication and Coordination with Ship Owners, Port Controllers, Barges, etc.
+- Adaptability under abnormal conditions such as bad weather and equipment failures
+- Intuitive judgment of hidden risks (e.g., unstable cargo in containers)
+
+**Skills to build:**
+
+- Port automation equipment operation and basic programming
+- Use of AI scheduling and data analysis tools
+- Safety information management (e.g. CMMS system)
+- Basic English communication (for dealing with multinational crew).
+- Drone inspection operations.
+- Troubleshooting and remote collaboration skills
+
+**Key growth areas:**
 
 - Australia Wide Growth
 - Regional Demand
@@ -69,64 +97,65 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学港口操作员？**
-- 对运输行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
+**Who is suited**
+- Passionate about the transport industry
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
 
-**谁不适合学港口操作员？**
-- 不了解澳洲运输行业规范者
-- 不愿持续学习更新技能者
+**Who is not suited**
+- Not familiar with Australian transport industry standards
+- Those unwilling to continuously learn and update their skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salaries for port operators in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy to find work as a port operations officer in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 741212 港口操作员数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-港口操作员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：港口操作员在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
-
-**问：澳洲港口操作员好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

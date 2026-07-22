@@ -1,58 +1,94 @@
-# Meteorologist（Meteorologist）职业分析 · IE
+# Meteorologist — career analysis · Ireland
 
-**职业代码：2112 – Meteorologist。**
+**Occupation code: 2112 (ISCO08)**
 
-Meteorologists study atmospheric phenomena, weather forecasting, and climate analysis. In Ireland, they provide critical data for agriculture, aviation, and energy sectors.
+Meteorologists study atmospheric phenomena, conduct weather forecasting and climate analysis. In Ireland, they provide critical data for agriculture, aviation, and energy sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（学士） | 4年（本科） | —（爱尔兰籍学生免费（大学学费约€3,000/年），非欧盟学生€10,000-20,000/年） |
-| 硕士 | 1-2年（硕士） | $6,000~$20,000（非欧盟学生€12,000-20,000/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $0~$20,000 (Free for Irish students (university tuition approx. €3,000/year), non-EU students €10,000-20,000/year) |
+| Master's degree | 1-2 years (Master's) | $6,000~$20,000 (Non-EU students €12,000-20,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 气象学学士或相关学位 | 爱尔兰大学（如都柏林大学、爱尔兰国立大学） | 必备 | 通常需物理、数学或环境科学背景 |
-| 专业认证 | 英国皇家气象学会（RMetS） | 可选 | 虽非强制，但有助于就业 |
+| Bachelor's degree in meteorology or related field | Irish universities (e.g., University College Dublin, National University of Ireland) | Required | Usually requires a background in physics, mathematics, or environmental science |
+| Professional certification | Royal Meteorological Society (RMetS) | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 400。爱尔兰气象服务（Met Éireann）是主要雇主。随着气候变化影响加剧，对气象专家的需求稳定，尤其是气候建模和可再生能源领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 400. Met Éireann is the main employer. Demand for meteorological experts is steady due to increasing climate change impacts, especially in climate modeling and renewable energy.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 气象分析师或见习预报员 |
-| 中级（3-7年） | $45,000~$60,000 | 高级气象学家或团队领导 |
-| 高级（7年以上） | $65,000~$85,000 | 首席气象学家或研究主管 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Meteorological analyst or trainee forecaster |
+| Mid-level (3–7 years) | $45,000~$60,000 | Senior meteorologist or team leader |
+| Senior (7+ years) | $65,000~$85,000 | Chief meteorologist or research director. |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 通常从气象分析师起步，可晋升为高级预报员、首席气象学家或研究主管。也可能转向气象技术开发或环境咨询。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Meteorologists' core tasks are being rapidly replaced by AI and automation tools, especially in numerical weather prediction, data analysis, and pattern recognition, with entry-level roles shrinking markedly.
+
+Typically start as a meteorological analyst, with potential to advance to senior forecaster, chief meteorologist, or research director. May also transition to meteorological technology development or environmental consulting.
+
+**Tasks most exposed to AI:**
+
+- Routine weather forecast generation
+- Meteorological data quality control and assimilation
+- Statistical forecasting model updating and validation
+- Climate model output post-processing
+- Basic weather chart analysis
+
+**Where AI augments the role:**
+
+- Extreme weather event warnings and disaster impact assessment
+- Customized agricultural/energy meteorological consulting
+- Multi-source data fusion and interpretation (e.g., satellite, radar)
+- AI model result validation and physical consistency check
+- Climate change adaptation strategy development
+
+**Human moat:**
+
+- Understand the mechanisms of atmospheric physical processes
+- Cross-field communication and decision-making advice (e.g., explaining to farmers, policymakers)
+- Complex weather system diagnosis and uncertainty communication
+- Ethics and public safety responsibilities (e.g., disaster warning)
+- Scientific intuition and experiential judgment
+
+**Skills to build:**
+
+- Python data analysis and machine learning (e.g., TensorFlow, PyTorch)
+- Tuning and interpretation of numerical weather prediction models (e.g., WRF)
+- Remote sensing data processing (e.g., satellite inversion)
+- Visualization and communication tools (e.g., Tableau, D3.js)
+- Statistics and data science (e.g., Bayesian methods, causal inference)
+- Industry-specific knowledge (e.g., agricultural meteorology, energy load forecasting)
+
+**Key growth areas:**
 
 - Climate Modeling
 - Renewable Energy
@@ -61,68 +97,67 @@ Meteorologists study atmospheric phenomena, weather forecasting, and climate ana
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪€30,000以上的气象职位，需劳动力市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若职位在紧缺职业列表（目前气象学家不在列表，但气候专家可能符合），年薪需€32,000以上 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪€44,204以上（2024年标准）的高技能职位，需相关学位 |
+| Subclass General Employment P (General Employment Permit) | Applies to meteorology positions with an annual salary of €30,000 or more, requiring a labor market test |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list (currently meteorologist is not listed, but climate experts may qualify), annual salary must be above €32,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions with an annual salary above €44,204 (2024 standard), requiring a relevant degree. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meteorologist？**
-- 对天气和气候有浓厚兴趣的人
-- 具备数学、物理和分析技能的人
-- 希望从事稳定公共部门工作的人
-
-**谁不适合学Meteorologist？**
-- 不喜欢户外或倒班工作的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in weather and climate
+- People with maths, physics and analytical skills
+- People who want to work in a stable public sector job
+
+**Who is not suited**
+- People who dislike outdoor work or shift work
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for meteorologists in Ireland?**
+A: Junior approx. €30,000-40,000, mid-level €45,000-60,000, senior €65,000-85,000.
+
+**Q: How can overseas meteorologists immigrate to Ireland?**
+A: Typically requires a General Employment Permit with an annual salary of €30,000 or more. Those with EU nationality or scarce skills may consider a Critical Skills Permit or EU Blue Card.
+
+**Q: How is the career development of a meteorologist?**
+A: Can advance from analyst to senior forecaster, chief meteorologist, or research director, or transition into climate consulting or renewable energy fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Meteorologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for meteorologists in Ireland?**
-答：Entry-level: €30,000-40,000; Mid-level: €45,000-60,000; Senior: €65,000-85,000.
-
-**问：How can foreign meteorologists migrate to Ireland?**
-答：Typically via General Employment Permit (salary €30,000+). EU citizenship or scarce skills may allow Critical Skills Permit or EU Blue Card.
-
-**问：What is the career progression for meteorologists?**
-答：From analyst to senior forecaster, chief meteorologist, or research head, with options to move into climate consulting or renewable energy.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

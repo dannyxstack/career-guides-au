@@ -1,58 +1,91 @@
-# Geographer（Geographer）职业分析 · DE
+# Geographer — career analysis · Germany
 
-**职业代码：4213 – Geographer。**
+**Occupation code: 4213 (KldB)**
 
-Geographers study Earth's natural features, human phenomena, and spatial relationships, using GIS and remote sensing for data analysis in urban planning and environmental management.
+Geographers study the natural features, human phenomena, and spatial relationships of the Earth, using GIS, remote sensing and other technologies for data analysis, serving fields such as urban planning and environmental management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（学士） | 3-4年 | —（公立大学每学期注册费约150-300欧元，无学费） |
-| 硕士（硕士） | 2年 | —（多数公立大学硕士无学费，仅少量管理费） |
+| Bachelor's degree | 3-4 years | $0~$6,000 (Public university semester registration fee approx. €150-300, no tuition fees) |
+| Master's (Master) | 2 years | $0~$6,000 (Most public university master's programs have no tuition, only a small administration fee.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地理学或相关专业本科/硕士学位 | 德国认可大学 | 必备 | 通常需地理学、地理信息科学或相关专业学位 |
-| GIS专业认证 | 如Esri或德国GIS协会 | 可选 | 非强制，但显著提升就业竞争力 |
+| Bachelor's/Master's degree in Geography or a related field | German-recognized universities | Required | Usually requires a degree in geography, geographic information science, or a related field |
+| GIS professional certification | Such as Esri or the German GIS Association | Optional | Not mandatory, but significantly enhances employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国对地理学家的需求稳定，尤其在城市规划、环境咨询和地理信息技术领域。受数字化转型和可持续发展政策推动，就业前景良好。公立部门岗位竞争中等，私营企业机会增多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand for geographers in Germany is stable, especially in urban planning, environmental consulting, and geographic information technology. Driven by digital transformation and sustainable development policies, employment prospects are good. Public sector positions are moderately competitive, while private sector opportunities are increasing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，公立部门略低 |
-| 中级（3-7年） | $45,000~$58,000 | 税前年薪，视行业与地区 |
-| 高级（7年以上） | $58,000~$75,000 | 税前年薪，管理岗或专家岗 |
+| Median salary | $63,144 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual salary before tax, slightly lower in public sector |
+| Mid-level (3–7 years) | $45,000~$58,000 | Annual pre-tax salary, depending on industry and region |
+| Senior (7+ years) | $58,000~$75,000 | Annual salary before tax, management or specialist role |
+| average salary | $70,008 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：初级分析师/助理 → 专业地理学家/项目经理 → 高级专家/部门主管。可通过继续教育转向GIS专家、遥感分析师或学术研究。部分人进入管理咨询或公共政策领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Geographer's task structure is being reshaped by AI: data analysis and map production are highly automated, but field surveys and policy advice rely on human judgment. Entry-level competition intensifies, requiring GIS and remote sensing skills while strengthening human-machine collaboration.
+
+Career path: Junior Analyst/Assistant → Professional Geographer/Project Manager → Senior Expert/Department Head. Can transition to GIS specialist, remote sensing analyst, or academic research through continuing education. Some enter management consulting or public policy.
+
+**Tasks most exposed to AI:**
+
+- Basic map making and spatial data management replaced by GIS automation tools
+- Remote sensing image classification and feature extraction, deep learning models more efficient
+- Statistical mapping and data visualization, AI tools for one-click generation
+- Repetitive geographic data collection and cleaning, automated via scripts
+
+**Where AI augments the role:**
+
+- Utilizes machine learning models to automatically identify land use changes from remote sensing images
+- analyze text geographic information using natural language processing to extract spatiotemporal patterns
+- AI-assisted climate simulation and spatial statistical analysis to accelerate research hypothesis validation
+- Automatically generates initial drafts of geographical research reports, saving writing time
+- Virtual Reality (VR) combined with GIS to create immersive geography teaching environments
+
+**Human moat:**
+
+- Field-based survey and data validation skills, reliant on senses and experience
+- Interdisciplinary comprehensive analysis and policy recommendations, requiring human value judgment
+- Community engagement and stakeholder communication, requires trust-building.
+- Creative theory building and hypothesis generation, AI cannot autonomously produce
+
+**Skills to build:**
+
+- Advanced GIS analysis (e.g., spatial statistics, network analysis)
+- Remote sensing and machine learning (deep learning libraries in Python/R)
+- Data science (data cleaning, visualization, cloud computing)
+- Natural Language Processing (for parsing unstructured geographic text)
+- Human-machine collaboration and AI tool management
+
+**Key growth areas:**
 
 - GIS
 - Urban Planning
@@ -61,65 +94,64 @@ Geographers study Earth's natural features, human phenomena, and spatial relatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位及≥43,800欧元年薪（2024标准），地理学属于非紧缺专业，按普通标准。 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 适用于有德国认可学历的技术移民，需雇主担保，年薪无强制要求但需合理。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，需提供经济证明，学位需德国认可。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires university degree and annual salary ≥ €43,800 (2024 standard); geography is not a shortage occupation, so standard criteria apply. |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to skilled migrants with recognized German qualifications; requires employer sponsorship; no mandatory salary requirement but must be reasonable. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment; must provide proof of financial means; degree must be recognized in Germany. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geographer？**
-- 热爱自然与空间分析，具备GIS和数据处理能力
-- 希望在环境规划、城市发展或可持续领域工作
-- 喜欢研究型工作，能接受一定程度的野外考察
-
-**谁不适合学Geographer？**
-- 对编程或数据分析不感兴趣
-- 偏好高薪行业，如IT或金融
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and spatial analysis, with GIS and data processing skills
+- Wish to work in environmental planning, urban development, or sustainability
+- Like research-oriented work and can accept a certain degree of fieldwork
+
+**Who is not suited**
+- Not interested in programming or data analysis
+- Prefers high-paying industries such as IT or finance
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a geographer in Germany?**
+A: Entry-level roles about 35,000-45,000 EUR/year, senior up to 75,000 EUR/year, salary varies significantly by industry and region.
+
+**Q: How can non-EU citizens immigrate to Germany as geographers?**
+A: Eligible through EU Blue Card (annual salary ≥ €43,800) or skilled migration visa, requiring a German-recognized geography degree. Language usually requires B1 German.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Geographer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a geographer in Germany?**
-答：Entry-level around €35,000-45,000/year, senior up to €75,000/year, varying by industry and region.
-
-**问：How can non-EU citizens immigrate to Germany as a geographer?**
-答：Via EU Blue Card (salary ≥€43,800) or Skilled Immigration Act, requiring recognized geography degree. German B1 usually needed.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

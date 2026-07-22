@@ -1,60 +1,93 @@
-# Technical Surveying Engineer（Technical Surveying Engineer）职业分析 · ES
+# Technical Surveying Engineer — career analysis · Spain
 
-**职业代码：2483 – Technical Surveying Engineer。**
+**Occupation code: 2483 (CNO)**
 
-Technical surveying engineers conduct land surveys, map drafting, and geospatial data collection and analysis, providing essential surveying support for civil engineering, construction, and urban planning.
+Technical surveying engineers are responsible for land surveying, mapping, and the collection and analysis of geographic data, providing foundational mapping support for civil engineering, architecture, and urban planning.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado en Ingeniería en Geomática y Topografía） | $1,200~$3,000（公立大学每年学费约1200-3000欧元，私立更贵） |
-| 高级职业培训（FP Grado Superior） | 2年（Técnico Superior en Proyectos de Edificación, e | $500~$1,500（公立FP中心每年约500-1500欧元） |
+| Undergraduate (Grado) | 4 years (Grado en Ingeniería en Geomática y Topografía) | $1,200~$3,000 (Public universities charge about 1,200-3,000 euros per year in tuition, while private universities are more expensive) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (Técnico Superior en Proyectos de Edificación, e | $500~$1,500 (Public FP centers: approx. €500–1,500 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Grado en Ingeniería en Geomática y Topografía | 西班牙大学 | 必备 | 官方大学学位，必须通过学历认证（homologación）方可在西班牙执业 |
-| Colegio Profesional注册 | Colegio de Ingenieros Técnicos en Topografía | 可选 | 执业注册非强制但通常要求，尤其公共项目 |
+| Grado en Ingeniería en Geomática y Topografía | Spanish University | Required | An official university degree requires a homologación to practice in Spain |
+| Colegio Profesional registration | Colegio de Ingenieros Técnicos en Topografía | Optional | Practice registration is not mandatory but is usually required, especially for public projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 9,500。西班牙基础设施建设（如高铁、可再生能源项目）和城市化持续推动测绘人才需求，尤其在可再生能源和智慧城市领域。公共工程和地产开发对精确测量的依赖保障了该职业的稳定就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 9,500. Spain's infrastructure construction (such as high-speed rail and renewable energy projects) and urbanization continue to drive the demand for surveying talent, especially in renewable energy and smart city sectors. Public works and real estate development's reliance on precise measurement ensures stable employment in this profession.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$38,000 | 税前年薪 |
-| 高级（8年以上） | $38,000~$50,000 | 税前年薪，项目经理级别更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$38,000 | Annual pre-tax salary |
+| Senior (8+ years) | $38,000~$50,000 | Pre-tax annual salary, and project manager levels are higher |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从入门测量员到高级技术测量工程师，可晋升为项目经理或测绘部门主管。考取官方资质可拓宽至不动产估值或地理信息系统(GIS)领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
+
+From entry-level surveyors to senior technical survey engineers, you can be promoted to project manager or head of the surveying department. Obtaining official qualifications can be expanded into real estate valuation or Geographic Information Systems (GIS) fields.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation of land boundary coordinates and drawing generation (AI+GPS+remote sensing)
+- Automated building code compliance review (NLP comparing regulatory databases)
+- Automated bill of quantities extraction and cost estimation (AI parsing BIM models)
+- Automated as-built scanning and deviation report generation (drones + point cloud processing)
+
+**Where AI augments the role:**
+
+- AI-assisted field survey: real-time 3D terrain generation from LiDAR point clouds for improved efficiency
+- Smart contract management: AI analyzes historical dispute data to flag risky clauses
+- Automated regulatory updates and impact assessment: AI tracks legislative changes and links them to projects under review
+- Building material price prediction: machine learning models optimize cost estimation accuracy
+
+**Human moat:**
+
+- On-site signing and legal liability (registered surveyor regulatory requirements)
+- Multi-party interest coordination and arbitration (communication with developers, government, community)
+- On-Site Judgment of Complex Boundary/Property Disputes (Relying on Experience and Legal Interpretation)
+- Adaptability to Unforeseen On-Site Conditions (e.g., Underground Obstacles)
+
+**Skills to build:**
+
+- Drone aerial survey and LiDAR data processing
+- BIM and automated modeling tools (e.g., Revit, Civil 3D)
+- Python/R programming for automated reporting and data analysis
+- Application of AI compliance review tools (e.g., automatic building code checks)
+- Digital twin platform integration and management
+- Contract management and dispute mediation skills
+
+**Key growth areas:**
 
 - infrastructure
 - renewable energy
@@ -63,69 +96,68 @@ Technical surveying engineers conduct land surveys, map drafting, and geospatial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由西班牙雇主担保的工作居留，需证明职位无法在本地市场填补 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高技能专业人员，年薪要求通常不低于40,000欧元，流程较快 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，要求3年以上高等教育和高于平均水平的薪资，可享受欧盟内流动 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled in the local market |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, annual salary generally not less than EUR 40,000, faster process |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires at least three years of higher education and above-average salaries, allowing for mobility within the EU |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Surveying Engineer？**
-- 喜欢户外工作且具备数学/几何能力的人
-- 对地理信息系统(GIS)和测绘技术感兴趣的人
-- 有志于参与基础设施和城市发展项目的人
-
-**谁不适合学Technical Surveying Engineer？**
-- 极度厌恶出差和户外作业的人
-- 对精确度和重复性工作缺乏耐心的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and possess math/geometry skills
+- People interested in Geographic Information Systems (GIS) and mapping technology
+- People aspiring to participate in infrastructure and urban development projects
+
+**Who is not suited**
+- People who strongly dislike business travel and outdoor work
+- People who lack patience for precision and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for technical measurement engineers in Spain?**
+A: Junior approx. €20,000-€28,000, mid-level €28,000-€38,000, senior €38,000-€50,000 (gross annual salary). Holders of professional certifications and project management experience earn higher.
+
+**Q: How can foreigners become technical measurement engineers in Spain?**
+A: You must first pass homologación to equip your foreign degree with Spain's Grado, then apply for a Cuenta ajena work residence or high-skilled talent visa. Language (Spanish) is usually required.
+
+**Q: What is the future outlook for this occupation?**
+A: The outlook is stable and positive, benefiting from infrastructure investments in renewable energy, high-speed rail, and smart cities. Digital mapping (drones, LiDAR) brings new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Surveying Engineer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for technical surveying engineers in Spain?**
-答：Entry-level around €20,000-28,000, mid-level €28,000-38,000, senior €38,000-50,000 (gross annual). Those with professional registration and project management experience earn higher.
-
-**问：How can a foreigner become a technical surveying engineer in Spain?**
-答：First, obtain homologación of your foreign degree to equate it to a Spanish Grado. Then apply for a Cuenta ajena work permit or Highly Qualified Professional visa. Spanish language proficiency is usually required.
-
-**问：What is the future outlook for this occupation?**
-答：Stable and positive, driven by infrastructure investments in renewable energy, high-speed rail, and smart cities. Digital surveying (drones, LiDAR) creates new opportunities.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

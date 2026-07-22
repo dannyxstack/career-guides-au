@@ -1,58 +1,93 @@
-# Occupational Health and Hygiene Professionals（Occupational Health and Hygiene Professionals）职业分析 · ES
+# Occupational Health and Hygiene Professionals — career analysis · Spain
 
-**职业代码：2158 – Occupational Health and Hygiene Professionals。**
+**Occupation code: 2158 (CNO)**
 
-Assess workplace health risks, prevent occupational diseases and injuries, and ensure compliance with health and safety regulations.
+Assess workplace health risks, prevent occupational diseases and injuries, and ensure the work environment complies with health and safety regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$3,000（公立大学学费约1000-3000欧元/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$5,000（职业健康硕士学费约2000-5000欧元/年） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Tuition at public universities is about 1,000–3,000 euros per year) |
+| Máster | 1-2 years | $2,000~$5,000 (The tuition for the Master of Occupational Health is about 2000-5000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业风险预防硕士 | 西班牙劳动与社会经济部认可的大学 | 必备 | 可通过大学或职业培训机构获取 |
-| 注册职业健康专业人员 | 西班牙职业健康协会 | 可选 | 非强制但增强就业竞争力 |
+| Master's in Occupational Risk Prevention | A university recognized by the Spanish Ministry of Labor and Social Economy | Required | Available through universities or vocational training institutions |
+| Registered Occupational Health Professionals | Spanish Occupational Health Association | Optional | Not mandatory but enhances job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。西班牙职业健康需求稳定增长，受劳动法规加强和老龄化劳动力影响，预计未来十年岗位增加10%。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Occupational health demand in Spain is steadily growing, influenced by stricter labor regulations and an aging workforce, with job positions expected to increase by 10% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，视地区和行业而定 |
-| 中级（4-7年） | $33,000~$42,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $43,000~$55,000 | 税前年薪，管理岗位更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary depends on region and industry |
+| Mid-level (4-7 years) | $33,000~$42,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $43,000~$55,000 | Pre-tax annual salary, higher for management positions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从技术员晋升为高级顾问或管理层，也可转向公共健康或环境健康领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will not completely replace occupational health and safety specialists, but it will automate data collection, report generation, and routine monitoring tasks; it will also enhance risk assessment, training design, and compliance analysis. Specialists need to shift toward higher-value consulting and strategy development.
+
+You can be promoted from technician to senior consultant or management level, or move into public health or environmental health.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate safety inspection reports and compliance documents
+- Monitor environmental sensor data in real-time and trigger alerts.
+- Production and distribution of standardized safety training materials
+- Preliminary worker injury data analysis and trend identification
+
+**Where AI augments the role:**
+
+- AI-assisted hazard identification (e.g., computer vision analysis of workplace photos)
+- Predictive risk modeling to identify high-risk areas early
+- Personalized safety training content generation (based on employee role and accident history)
+- Automatic updates of compliance regulations and intelligent alignment with business operations
+- Ergonomic motion capture analysis to optimize workstation design
+
+**Human moat:**
+
+- Judgment and experience in on-site safety checks and crisis intervention
+- Cross-department communication and persuading management to invest in safety measures
+- Interpretation of vague regulations and decision-making in cross-disciplinary areas like environmental and health compliance
+- Leadership and emergency response when handling accidents.
+- Ethical considerations (e.g., balancing privacy and surveillance)
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Tableau)
+- AI/machine learning basics (for risk prediction)
+- Human-machine collaboration design (smart wearables, IoT sensor integration)
+- Digital twin and simulation software (e.g., AnyLogic)
+- Application of RegTech tools
+- Change management and technology adoption strategies
+
+**Key growth areas:**
 
 - Occupational Health
 - Risk Prevention
@@ -61,68 +96,67 @@ Assess workplace health risks, prevent occupational diseases and injuries, and e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历和聘用合同，年薪不低于34216欧元（2024年标准） |
-| Subclass Cuenta ajena（Work Permit (Employee)） | 受雇工作居留，需雇主担保，通过劳动力市场测试 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 基于Ley 14/2013，适用于高学历或紧缺职业，流程较快 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a university degree and employment contract, with an annual salary of no less than 34,216 euros (2024 standard). |
+| Subclass Cuenta ajena (Work Permit (Employee)) | Employed work residency requires employer sponsorship and passes the labor market test |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Based on Ley 14/2013, it is suitable for highly educated or in-demand occupations, with a relatively fast process |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Health and Hygiene Professionals？**
-- 对健康和科学有浓厚兴趣
-- 善于分析和解决问题
-- 希望稳定职业且工作生活平衡
-
-**谁不适合学Occupational Health and Hygiene Professionals？**
-- 不喜频繁与工人和管理层沟通
-- 无法适应工厂或户外工作环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in health and science
+- Skilled at analyzing and solving problems
+- They hope for a stable career and a work-life balance
+
+**Who is not suited**
+- Dislikes frequent communication with workers and management
+- Unable to adapt to factory or outdoor work environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for occupational health professionals in Spain?**
+A: Entry-level salaries range from about 25,000 to 32,000 euros per year, while seniors can earn over 55,000 euros, depending on region and industry.
+
+**Q: As a third-country citizen, how can you immigrate to Spain through this employment?**
+A: Applications can be made through the EU Blue Card (annual salary ≥ €34,216) or the Highly Skilled Professional Visa (Ley 14/2013), which requires a university degree and employer contract.
+
+**Q: Is Spanish diploma certification required?**
+A: Yes, non-EU degrees require homologación certification, usually 6-12 months, costing about 50-200 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Occupational Health and Hygiene Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for occupational health professionals in Spain?**
-答：Entry-level annual salary ranges from €25,000 to €32,000, while senior positions can exceed €55,000, depending on region and sector.
-
-**问：How can third-country nationals migrate to Spain through this occupation?**
-答：You can apply for an EU Blue Card (requires annual salary ≥€34,216) or a Highly Qualified Professional visa (Ley 14/2013), requiring a university degree and employment contract.
-
-**问：Is diploma homologation required?**
-答：Yes, non-EU degrees require homologación, which typically takes 6-12 months and costs €50-200.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

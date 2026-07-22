@@ -1,60 +1,94 @@
-# Mining and Quarrying Labourer（Mining and Quarrying Labourer）职业分析 · IT
+# Mining and Quarrying Labourer — career analysis · Italy
 
-**职业代码：9311 – Mining and Quarrying Labourer。**
+**Occupation code: 9311 (ISCO08)**
 
-Performs manual tasks in mines and quarries, such as moving materials, cleaning equipment, and maintaining worksites.
+Performs manual labor in mines and quarries, including ore handling, equipment cleaning, site maintenance, and other support tasks.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 5年（小学+初中） | —（意大利公立教育免费） |
-| 职业培训 | 1-2年 | $1,000~$5,000（地区职业中心或私营机构） |
+| Compulsory education | 5 years (primary and junior high school) | $0~$0 (Free public education in Italy) |
+| Vocational training | 1-2 years | $1,000~$5,000 (Regional career centers or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全证书 | 地区卫生局或认可培训机构 | 必备 | 基本安全培训，如搬运、危险识别 |
-| 操作员许可 | 劳动监察机构 | 可选 | 驾驶采矿车辆或操作简单机械需额外许可 |
+| Safety certificate | Regional health authority or accredited training institution | Required | Basic safety training, such as manual handling and hazard identification |
+| Operator Permit | Labor inspection agency | Optional | Additional permits required to drive mining vehicles or operate simple machinery |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。随着意大利北部和撒丁岛采矿业复苏，对劳工需求稳定，但自动化可能减少岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. With the revival of mining in northern Italy and Sardinia, demand for labor is stable, but automation may reduce jobs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，含加班费 |
-| 中级（4-7年） | $25,000~$30,000 | 税前年薪，可能包含津贴 |
-| 高级（8年以上） | $30,000~$35,000 | 税前年薪，领班薪资更高 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual salary before tax, including overtime pay |
+| Mid-level (4-7 years) | $25,000~$30,000 | Annual salary before tax, may include allowances |
+| Senior (8+ years) | $30,000~$35,000 | Pre-tax annual salary; team leaders earn higher salaries. |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为操作员、领班或转入相关建筑行业，需积累经验并考取安全证书。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+In mining and quarrying labourer roles, a large number of repetitive physical tasks (e.g., material handling, cleaning) are susceptible to replacement by automated equipment, and AI scheduling systems further reduce low-skill demand, leading to a significant decrease in job numbers.
+
+Can advance to operator, supervisor, or transition into related construction industries, requiring accumulated experience and safety certifications.
+
+**Tasks most exposed to AI:**
+
+- Ore handling and transportation: replaced by autonomous trucks and conveyor belts
+- Equipment cleaning: handled by automatic cleaning robots
+- Site maintenance and inspection: performed by drones and AI vision systems
+- Manual crushing and screening: completed by automated crushers
+- Safety monitoring records: AI sensors and automated reporting systems replace manual work
+
+**Where AI augments the role:**
+
+- Operate automated equipment (e.g., remote-controlled excavators, drills).
+- Quick troubleshooting of equipment issues using AI fault diagnosis systems
+- Optimizing mining processes using digital twin technology
+- Real-time ore positioning and quality data obtained through AR glasses
+
+**Human moat:**
+
+- Emergency judgment in complex geological environments.
+- On-site coordination for collaborative operation of multiple devices
+- Ability to quickly resolve non-routine faults
+- Experience working with specialized roles such as blasters
+
+**Skills to build:**
+
+- Automated mining equipment operation and maintenance
+- Basic data analysis and AI scheduling system usage
+- Drone/robot inspection and control
+- Safety protocols and digital report generation
+- Mechanical maintenance basics (hydraulics, electrical)
+- Introduction to collaborative robot programming
+
+**Key growth areas:**
 
 - Stable demand
 - Automation risk
@@ -63,65 +97,67 @@ Performs manual tasks in mines and quarries, such as moving materials, cleaning 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 针对非欧盟劳工的年度配额，需雇主担保，适用于低技能岗位。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可证明，雇主需证明无法在欧盟内招聘到合适人员。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota for non-EU workers requiring employer sponsorship, applicable to low-skilled positions. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit proof, employer must demonstrate inability to recruit suitable personnel within the EU. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mining and Quarrying Labourer？**
-- 身体健康、能适应户外体力劳动
-- 愿意在偏远地区工作
-- 注重安全规程
+**Who is suited**
+- Good physical health, able to handle outdoor physical work
+- Willing to work in remote areas.
+- Focus on safety procedures
 
-**谁不适合学Mining and Quarrying Labourer？**
-- 有严重健康问题或恐高
-- 希望稳定办公室工作
+**Who is not suited**
+- Has serious health issues or fear of heights
+- Prefers stable office work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for mining laborers?**
+A: Approx. EUR 20,000-25,000/year for entry-level, up to EUR 35,000 for senior, including overtime and allowances.
+
+**Q: How can non-EU citizens obtain a mining labor work permit in Italy?**
+A: Requires employer to apply for work permit through Decreto Flussi annual quota and prove no EU citizen is available for the position.
+
+**Q: What educational background is needed for this job?**
+A: Generally only compulsory education is required, but a safety training certificate is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mining and Quarrying Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining labourers?**
-答：Entry-level annual salary around €20,000-25,000, senior up to €35,000 including overtime and allowances.
-
-**问：How can non-EU citizens obtain a work permit for mining labour in Italy?**
-答：Employer must apply via Decreto Flussi quota, proving no EU citizen is available.
-
-**问：What education is required for this job?**
-答：Typically compulsory education, but safety training certification is mandatory.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

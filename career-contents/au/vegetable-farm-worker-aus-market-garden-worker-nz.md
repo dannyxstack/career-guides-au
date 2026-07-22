@@ -1,60 +1,96 @@
-# Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)（Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)）职业分析 · 澳大利亚
+# Vegetable Farm Worker (Aus) / Market Garden Worker (NZ) — career analysis · Australia
 
-**职业代码：842218 – Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)。**
+**Occupation code: 842218 (ANZSCO)**
 
-Performs manual tasks on vegetable farms, including planting, irrigating, fertilizing, weeding, harvesting, and packing. Work is seasonal and outdoors.
+Engages in manual labor such as planting, irrigation, fertilization, weeding, harvesting, and packaging on vegetable farms; work is seasonal and mostly outdoor.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期培训 | 1-2周 | $200~$500（如安全培训或基本农事技能课程） |
-| 证书III (农业) | 6个月-1年 | $3,000~$6,000（TAFE提供的农业证书课程） |
+| Short-term training | 1-2 weeks | $200~$500 (Such as safety training or basic farming skills courses.) |
+| Certificate III (Agriculture) | 6 months to 1 year | $3,000~$6,000 (TAFE certificate course in agriculture) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | - | 可选 | 多数雇主不要求正式资格，在岗培训即可 |
-| 农业证书III | TAFE | 可选 | 有助于晋升和获得更高薪资 |
+| No mandatory requirements | - | Optional | Most employers do not require formal qualifications; on-the-job training is sufficient |
+| Certificate III in Agriculture | TAFE | Optional | Helps with promotion and higher salary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。澳洲蔬菜农场工人长期短缺，尤其是偏远地区。自动化程度低，依赖人力采摘，未来就业稳定但季节性波动大。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Australian vegetable farms face chronic labor shortages, especially in remote areas. Low automation, reliance on manual picking, stable future employment but seasonal fluctuations.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 按行业薪酬标准，季节工按小时计 |
-| 中级（2-5年） | $55,000~$65,000 | 含加班和奖金 |
-| 高级（5年以上） | $65,000~$75,000 | 班组长或技工级别 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $45,000~$55,000 | According to industry wage standards, seasonal workers are paid hourly |
+| Intermediate (2-5 years) | $55,000~$65,000 | Including overtime and bonuses |
+| Senior (5+ years) | $65,000~$75,000 | Team leader or tradesperson level |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通工人晋升为高级技工或班组长，或转向农场管理岗位。需积累经验并可能获得相关证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vegetable farm worker positions face significant automation compression, especially in physical tasks like seeding, weeding, and harvesting. Entry barriers lower but positions decrease, requiring skill upgrades to technical operation or management roles.
+
+Can advance from general worker to senior technician or team leader, or move to farm management positions. Requires accumulating experience and may need relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Using autonomous tractors for tillage, seeding, and mulching
+- Use computer vision robots for weed identification and precise removal
+- Automated harvesting systems (e.g., tracked harvesters) for picking leafy greens and root vegetables
+- Sensor-based smart irrigation systems replace manual watering and fertilizing
+- Automated sorting and packaging lines replace manual grading and packing
+
+**Where AI augments the role:**
+
+- Real-time monitoring of soil and meteorological data via agricultural IoT platforms to optimize planting decisions
+- Use drones and satellite imagery for crop health monitoring, improving pest and disease early warning efficiency
+- Plan harvest times using AI-assisted yield prediction models to reduce waste
+- Use a mobile farm management app to coordinate labor dispatch and logistics scheduling.
+- Equipment maintenance and troubleshooting guidance using augmented reality (AR) tools
+
+**Human moat:**
+
+- Comprehensive judgment when handling complex field emergencies (e.g., extreme weather, pest outbreaks)
+- High-quality operations in fine organic farming such as manual weeding and harvesting
+- Human experience and local knowledge in cross-season crop rotation planning
+- Social and negotiation skills for communicating with farmers, suppliers, and the community
+- Comprehensive ability to flexibly switch between multiple tasks on a small diversified farm
+
+**Skills to build:**
+
+- Operation and basic maintenance of agricultural automation equipment (e.g., tractors, seeders)
+- Agricultural data analysis (interpreting sensor data using Excel or simple BI tools)
+- Basic drone assembly, flight, and image analysis
+- Precision agriculture software applications (e.g., FarmLogs, Climate FieldView).
+- Mechanical repair and welding skills (to extend equipment life)
+- English technical document reading and simple communication (understanding equipment operation instructions)
+
+**Key growth areas:**
 
 - Seasonal labor
 - Horticulture
@@ -63,69 +99,68 @@ Performs manual tasks on vegetable farms, including planting, irrigating, fertil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有2年相关经验 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保签证，可转191永居 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA协议下可担保农场工人 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires 2 years of relevant experience |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa, with pathway to 191 permanent residency |
+| Subclass DAMA (Designated Area Migration Agreement) | Farm workers may be sponsored under some regional DAMA agreements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)？**
-- 能承受高强度户外体力劳动的人
-- 喜欢乡村生活并能适应季节性工作的人
-- 希望通过低门槛工作移民澳洲的申请者
-
-**谁不适合学Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)？**
-- 受不了炎热、寒冷和重复性劳动的人
-- 追求稳定城市生活和办公室工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to endure high-intensity outdoor physical labor
+- People who enjoy rural life and can adapt to seasonal work
+- Applicants hoping to immigrate to Australia through low-barrier jobs
+
+**Who is not suited**
+- People who cannot tolerate heat, cold, and repetitive labor
+- People seeking stable urban life and office work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a vegetable farm worker?**
+A: Junior: AUD 45,000-55,000, intermediate: 55,000-65,000, senior: 65,000-75,000. Paid hourly, higher income in peak seasons.
+
+**Q: Which visas can vegetable farm workers use to immigrate to Australia?**
+A: Can immigrate through 482 employer sponsorship, 494 Skilled Employer Sponsored Regional visa, or specific DAMA programs, requires employer sponsorship and meeting relevant requirements.
+
+**Q: Are there career advancement opportunities for vegetable farm workers?**
+A: Yes. Can advance to team leader, farm supervisor, or study agricultural management to become a farm manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a vegetable farm worker?**
-答：Entry-level around AUD 45,000-55,000, mid-level AUD 55,000-65,000, senior AUD 65,000-75,000, paid hourly with higher earnings during peak season.
-
-**问：Which visas can a vegetable farm worker use to immigrate to Australia?**
-答：Eligible for 482 TSS visa, 494 regional employer sponsored visa, or specific DAMA programs, requiring employer sponsorship.
-
-**问：Is there career progression for vegetable farm workers?**
-答：Yes. Can advance to team leader, farm supervisor, or farm manager through experience and agricultural management studies.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

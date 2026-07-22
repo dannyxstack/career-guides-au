@@ -1,65 +1,92 @@
-# 环境健康官员（Environmental Health Officer）职业分析 · 澳大利亚
+# Environmental Health Officer — career analysis · Australia
 
-**职业代码：251312 – Environmental Health Officer。**
+**Occupation code: 251312 (ANZSCO)**
 
-环境健康官员主要在地方议会与州卫生部门执行公共卫生法规：食品安全检查、水质与污染监管、传染病与卫生投诉处理，是政府监管类专业岗，薪资中上、需求稳定，非技术移民职业(注：EHO 在部分清单上另有评估)。
+Environmental health officers primarily enforce public health regulations in local councils and state health departments: food safety inspections, water quality and pollution monitoring, infectious disease and health complaint handling. This is a government regulatory professional role with above-average salary and stable demand; not a skilled migration occupation (Note: EHO is assessed separately on some lists).
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 环境健康相关本科(认可) | 3~4年 | $20,000~$45,000（专业岗强制） |
-| 各州 EHO 注册 / 任命 | 数周 | —（执法授权） |
+| Relevant Environmental Health bachelor degree (recognised) | 3–4 years | $20,000~$45,000 (Mandatory for professional roles) |
+| State EHO registration/appointment | Several weeks | $0~$1,000 (Law enforcement authority) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可 Environmental Health 学历 | 认可大学 | 必备 | 专业基础 |
-| 各州环境健康官员注册/任命 | 州卫生部门/议会 | 可选 | 执法要求 |
+| Recognised Environmental Health qualification | Recognised university | Required | Professional Foundation |
+| State environmental health officer registration/appointment | State health department/council | Optional | Legal Requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 8,000。食品安全与环境合规监管需求稳定，持认可 EHO 学历并注册者岗位充足。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. Demand for food safety and environmental compliance regulation is stable; those with recognised EHO qualifications and registration have ample positions.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| council 官网 / Seek | 400~900 个 | 议会 |
-| 各州 health 官网 | 200~600 个 | 州政府 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 / Graduate（0-3年） | $75,000~$88,000 | Entry |
-| 中级（3-8年） | $88,000~$105,000 | Experienced |
-| 资深 / 协调 | $105,000~$135,000 | Senior |
+| Median salary | $118,768 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior / Graduate (0–3 years) | $75,000~$88,000 | Entry |
+| Mid-level (3–8 years) | $88,000~$105,000 | Experienced |
+| Senior / Coordinator | $105,000~$135,000 | Senior |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：EHO(graduate)→高级/Coordinator→Manager；专业注册与执法经验决定收入。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Standardized reporting and inspection tasks for environmental health officers will be automated by AI, but on-site enforcement, complex investigations, and public trust responsibilities remain human moats; overall outlook is mixed.
+
+Pathway: EHO (graduate) → Senior/Coordinator → Manager; professional registration and enforcement experience determine income.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate food safety inspection reports and templated complaint responses
+- Automatically identifying high-risk food safety enterprises for priority inspection based on historical data
+- Automated handling of standard Q&A in public health regulation inquiries
+- Analyze water quality monitoring data with AI and flag anomalies
+
+**Where AI augments the role:**
+
+- AI-assisted on-site inspection, real-time retrieval of historical compliance records and violation predictions via mobile devices
+- Use natural language processing to quickly filter key information from infectious disease reports
+- AI prediction models identify outbreak risks to guide resource allocation
+- Automatically generating visual public health trend reports to aid policy making
+
+**Human moat:**
+
+- On-site inspection and enforcement discretion, including complex situation judgment
+- Face-to-face communication and trust building with food companies and community residents
+- Dynamic decision-making in public health emergency response
+- Legal and ethical responsibility allocation cannot be fully delegated to AI
+
+**Skills to build:**
+
+- Data analysis and AI tool usage (Python/R, data visualization)
+- Operation of public health information systems (such as SPI)
+- Crisis communication and negotiation skills
+- Basic statistics and data interpretation skills
+- AI ethics and compliance knowledge
+
+**Key growth areas:**
 
 - Public Health Regulation
 - Food Safety
@@ -68,57 +95,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学环境健康官员？**
-- 对公共卫生与执法监管有兴趣者
-- 细致、擅长检查与报告的人
-
-**谁不适合学环境健康官员？**
-- 不愿读相关专业者
-- 排斥外勤检查与执法冲突者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those interested in public health and law enforcement regulation
+- Detail-oriented individuals skilled in inspection and reporting
+
+**Who is not suited**
+- For those unwilling to study relevant majors
+- Not suitable for those averse to field inspections and enforcement conflict
+
+---
+
+## 8. FAQ
+
+**Q: How much do environmental health officers earn?**
+A: Approximately AUD $75,000–$135,000; senior/coordinator roles and major cities are higher.
+
+**Q: Can environmental health officers migrate via skilled migration?**
+A: Environmental Health Officer is on some skilled migration lists and has an assessment pathway; refer to the latest list and assessing authority for details.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-环境健康官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：环境健康官员薪资多少？**
-答：约 AUD $7.5万~$13.5万，资深/协调岗及大城市更高。
-
-**问：环境健康官员能技术移民吗？**
-答：Environmental Health Officer 在部分技术移民清单上、有评估路径；具体以最新清单及评估机构为准。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

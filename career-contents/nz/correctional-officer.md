@@ -1,61 +1,95 @@
-# Correctional Officer（Correctional Officer）职业分析 · 新西兰
+# Correctional Officer — career analysis · New Zealand
 
-**职业代码：442111 – Correctional Officer。**
+**Occupation code: 442111 (ANZSCO)**
 
-In New Zealand, Correctional Officers supervise inmates, ensure prison safety, and support rehabilitation, employed by the Department of Corrections. Requires on-job training; not a shortage occupation with limited immigration pathways.
+In New Zealand, correctional officers are responsible for the custody, safety, and rehabilitation support of prison inmates, employed by the Department of Corrections. Requires completion of induction training; not a shortage occupation, skilled migration difficult.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 入职培训 | 16周 | —（带薪培训，由惩教部提供，无需个人承担费用） |
-| 新西兰高中或同等学历 | 3年 | —（通常中学毕业即可申请，无学费要求） |
+| Onboarding training | 16 weeks. | $0~$0 (Paid training provided by the Department of Corrections, no personal cost) |
+| New Zealand high school qualification or equivalent | 3 years | $0~$0 (Typically a high school diploma is sufficient to apply, no tuition fees required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰公民或居民签证或有效工作签证 | 新西兰移民局 | 必备 | 必须拥有在新西兰合法工作的权利 |
-| 全驾照 | 新西兰交通局 | 必备 | 必须持有正式全驾照（Class 1） |
-| 入职体能测试和背景审查 | 新西兰惩教部 | 必备 | 通过体能评估、犯罪记录检查和安全审查 |
+| New Zealand citizen or resident visa, or valid work visa | New Zealand Immigration Service | Required | Must have the right to work legally in New Zealand |
+| Full driver's license | New Zealand Transport Agency. | Required | Must hold a full driver's license (Class 1) |
+| Pre-employment physical fitness test and background check | New Zealand Department of Corrections | Required | Pass physical fitness assessment, criminal record check, and security clearance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 4,000。新西兰惩教人员需求稳定，但招聘竞争中等，因政府维持监狱运营。未来需求受政府政策和犯罪率影响，增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,000. Demand for corrections officers in New Zealand is stable, with moderate recruitment competition due to government-run prisons. Future demand is influenced by government policy and crime rates, with slow growth.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $54,000~$62,000 | 入职起薪约为5.4-6.2万纽元，含轮班津贴 |
-| 中级（4-7年） | $63,000~$74,000 | 有经验的狱警收入6.3-7.4万纽元，含津贴 |
-| 高级（8年以上/主管） | $75,000~$90,000 | 主管级可达7.5-9万纽元 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $54,000~$62,000 | Starting salary approx NZD $54,000-62,000 per year, including shift allowances. |
+| Mid-level (4-7 years) | $63,000~$74,000 | Experienced prison officers earn NZ$63,000-74,000 including allowances |
+| Senior (8+ years / Supervisor) | $75,000~$90,000 | Supervisor level can reach NZD 75,000-90,000. |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升路径：从狱警起步，可晋升为高级狱警、主管，乃至监视经理或训练官。通常需通过内部选拔和培训，积累经验和领导能力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will optimize monitoring and paperwork, but prison officers' core security supervision and crisis management require human judgment. Overall role structure remains stable, but entry-level jobs require more skills due to technology
+
+Career progression path: start as a prison officer, advance to senior prison officer, supervisor, and then monitoring manager or training officer. Usually requires internal selection and training, accumulating experience and leadership skills.
+
+**Tasks most exposed to AI:**
+
+- Automated video surveillance and abnormal behavior detection
+- Remote management of electronic fences and access control systems
+- Automatic entry and organization of inmate daily reports and records
+- AI-based prisoner risk scoring and classification
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of prisoner behavior patterns to prevent conflicts
+- Real-time health monitoring via wearable sensors to enhance emergency response
+- VR simulation training scenarios to enhance crisis management skills
+- Natural language processing optimization for communication records with prisoners
+- Automated scheduling and resource allocation to improve management efficiency
+
+**Human moat:**
+
+- Crisis intervention and judgment during sudden riots, suicides, etc.
+- Psychological counseling and behavior correction for inmates based on interpersonal trust
+- Ultimate bearer of legal and ethical responsibility
+- Non-verbal communication to maintain order and authority in high-pressure environments
+
+**Skills to build:**
+
+- Basic data analysis and AI tool operation
+- Conflict mediation and negotiation skills
+- Mental health first aid and trauma-informed care
+- Digital monitoring system management and troubleshooting
+- Cross-cultural communication and management of diverse groups
+- Emergency management and tactical decision-making
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -64,65 +98,67 @@ In New Zealand, Correctional Officers supervise inmates, ensure prison safety, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需找到惩教部雇主担保，但非短缺职业，移民局可能要求证明本地劳动力不足，获批不易。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，惩教官员非ANZSCO技能等级1-3职业，通常不符合SMC要求，除非有更高学历或管理职位。极难获得PR。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires finding an employer sponsor in the Department of Corrections, but it is not a shortage occupation; immigration may require proof of local labor shortage, approval is difficult. |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category: Correctional officers are not ANZSCO skill level 1-3 occupations, typically not meeting SMC requirements unless they have higher qualifications or management positions. Extremely difficult to obtain PR. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Correctional Officer？**
-- 纪律性强、身心健康、能承受高压工作的人
-- 希望对公共安全有直接贡献、乐于从事稳定职业者
-- 愿意接受轮班和无学位要求、在团队中工作的人
+**Who is suited**
+- People with strong discipline, good physical and mental health, and ability to handle high pressure
+- Those who want to directly contribute to public safety and are willing to work in a stable career
+- Those willing to accept shifts, no degree requirement, and work in a team
 
-**谁不适合学Correctional Officer？**
-- 追求快速晋升或高薪的人
-- 不愿在封闭环境工作、难以适应严格规程和体力要求者
+**Who is not suited**
+- Those seeking rapid promotion or high salary
+- Those unwilling to work in confined spaces, difficulty adapting to strict protocols and physical demands
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for corrections officers in New Zealand?**
+A: Junior prison officer annual salary approx. NZ$54,000-62,000, including shift allowances; intermediate NZ$63,000-74,000; senior supervisor approx. NZ$75,000-90,000. Pay is relatively stable but lower than some technical occupations.
+
+**Q: Can Correctional Officers obtain New Zealand residency through skilled migration?**
+A: Very difficult. Correctional officers are not in ANZSCO skill levels 1-3 and do not meet skilled migration requirements. Usually requires employer-sponsored Accredited Employer Work Visa, with strict immigration checks on low-skilled visas. More feasible to obtain residency through other means first.
+
+**Q: Why is it difficult for prison guards to immigrate to New Zealand?**
+A: Mainly because the occupation is not classified under ANZSCO skill levels 1-3 and is not on the shortage or Green List. Immigration authorities consider the local labor supply sufficient for this role; overseas applicants must prove no local workers are available, and salary levels may not meet the skilled migration threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Correctional Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Correctional Officers in New Zealand?**
-答：Entry-level salaries range from NZ$54,000 to $62,000 including shift allowances; mid-level $63,000-$74,000; senior/supervisor $75,000-$90,000. Stable but moderate compared to skilled occupations.
-
-**问：Can Correctional Officers get New Zealand residency via skilled migration?**
-答：Very difficult. The occupation is not at ANZSCO skill level 1-3, so it does not qualify for Skilled Migrant Category. Typically requires employer sponsorship under AEWV with strict checks. Residency is unlikely unless through other means.
-
-**问：Why is immigration difficult for Correctional Officers in NZ?**
-答：The occupation is not ANZSCO skill level 1-3, not on shortage or Green List. Immigration NZ considers local labor sufficient; overseas applicants must prove no New Zealanders available, and salary may not meet skilled migrant threshold.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

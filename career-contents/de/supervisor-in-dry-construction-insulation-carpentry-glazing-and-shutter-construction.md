@@ -1,61 +1,97 @@
-# Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction（Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction）职业分析 · DE
+# Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction — career analysis · Germany
 
-**职业代码：3339 – Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction。**
+**Occupation code: 3339 (KldB)**
 
-Supervises construction sites for dry construction, insulation, carpentry, glazing, and shutter installation, ensuring progress, quality, and safety while coordinating team activities.
+Responsible for overseeing construction sites involving drywall, insulation, carpentry, glass installation, and shutter installation, ensuring progress, quality, and safety, and coordinating team work.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（培训期间有津贴，多数免费） |
-| 师傅考试（Meister） | 1-2年 | $5,000~$15,000（可获政府资助） |
+| Vocational training (dual system) | 3 years | $0~$500 (Allowances provided during training, mostly free) |
+| Master Craftsman Exam (Meister) | 1-2 years | $5,000~$15,000 (Eligible for government funding.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工或建筑行业职业培训证书 | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 需完成3年双元制培训 |
-| 建筑主管（Vorarbeiter）证书 | HWK | 可选 | 通过相关考试 |
-| 资质认证（Anerkennung） | 德国相关认证机构 | 可选 | 外国学历需认证 |
+| Vocational training certificate in carpentry or construction | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Requires completing a 3-year dual training program |
+| Construction Supervisor (Vorarbeiter) certificate | HWK | Optional | Pass relevant exams |
+| Qualification recognition (Anerkennung) | German relevant certification bodies | Optional | Foreign qualifications need accreditation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。德国建筑业持续发展，能源改造和新建住房需求旺盛，该岗位就业前景稳定，特别是在节能改造和翻新领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Germany's construction industry continues to grow, with strong demand for energy retrofits and new housing. The job outlook is stable, especially in energy-saving renovation and refurbishment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $41,196 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$36,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $43,344 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从熟练技术工人晋升为主管（Vorarbeiter），再至工地经理（Baustellenleiter）或自营建筑公司，需积累管理经验和技术认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Can progress from skilled technician to supervisor (Vorarbeiter), then to site manager (Baustellenleiter) or own construction company, requiring management experience and technical certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Energy-efficient renovation
 - Construction boom
@@ -64,69 +100,68 @@ Supervises construction sites for dry construction, insulation, carpentry, glazi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Employment Visa for Skilled Workers） | 适用于有德国认可职业资格的技术工人，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德国寻找工作。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作。 |
+| Subclass Skilled Worker (Employment Visa for Skilled Workers) | Applicable to skilled workers with recognized German vocational qualifications, requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | A job-seeking visa based on a points system, allowing entry to Germany to find work. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction？**
-- 有建筑行业经验的技术工人
-- 喜欢现场管理和团队协调
-- 愿意接受职业培训和认证
-
-**谁不适合学Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction？**
-- 不愿从事体力劳动或户外工作
-- 不喜欢高压和快节奏工作环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled workers with construction industry experience
+- Those who enjoy on-site management and team coordination
+- Willing to undergo vocational training and certification.
+
+**Who is not suited**
+- Unwilling to do physical labor or outdoor work
+- Dislike high-pressure and fast-paced work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a dry construction supervisor in Germany?**
+A: Junior salary: approximately €30,000-36,000 per year; intermediate: €36,000-45,000; senior can reach €55,000.
+
+**Q: How can foreigners immigrate to Germany as dry construction supervisors?**
+A: Must have a recognized German professional qualification and can come to Germany through a skilled migration visa or opportunity card.
+
+**Q: What are the promotion opportunities for dry construction supervisors?**
+A: Can be promoted to site manager, project manager, or start own construction company; requires obtaining the Master (Meister) certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a supervisor in dry construction in Germany?**
-答：Entry-level annual salary is around €30,000-€36,000, mid-level €36,000-€45,000, and senior up to €55,000.
-
-**问：How can a foreigner immigrate to Germany as a supervisor in dry construction?**
-答：You need a recognized vocational qualification and can apply for a skilled worker visa or Opportunity Card.
-
-**问：What are the career advancement opportunities?**
-答：Promotion to site manager, project manager, or start your own construction company after obtaining a Meister certificate.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

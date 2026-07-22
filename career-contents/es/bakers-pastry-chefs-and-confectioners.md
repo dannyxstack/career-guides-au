@@ -1,61 +1,95 @@
-# Bakers, pastry chefs and confectioners（Bakers, pastry chefs and confectioners）职业分析 · ES
+# Bakers, pastry chefs and confectioners — career analysis · Spain
 
-**职业代码：7703 – Bakers, pastry chefs and confectioners。**
+**Occupation code: 7703 (CNO)**
 
-Professionals who make bread, pastries, cakes, confectionery, and other baked goods, typically working in artisan bakeries, supermarkets, or hotel kitchens.
+Professionals responsible for making baked goods such as bread, pastries, cakes, and candies, usually working in craft workshops, bakeries, supermarkets, or hotel kitchens.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$1,500（公立学校注册费低，约500-1500欧元/年） |
-| 高等职业教育（FP Grado Superior） | 2年 | $600~$2,000（公立学校费用，含材料和实习） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$1,500 (Public school registration fees are low, about 500-1500 euros per year) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $600~$2,000 (Public school fees, including materials and internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 面包制作与糕点中级职业培训（FP Grado Medio en Panadería y Pastelería） | 西班牙教育部认可的职教中心 | 可选 | 行业普遍认可，非强制但有雇主偏好 |
-| 食品卫生证书（Certificado de Manipulador de Alimentos） | 自治区卫生部门授权机构 | 必备 | 法律要求从事食品处理工作的必备证书 |
-| 食品安全危害分析证书（APPCC） | 认证培训机构 | 可选 | 部分企业要求，尤其连锁超市和大型生产商 |
+| Food Hygiene Certificate (Certificado de Manipulador de Alimentos) | Authorized agencies by the health department of the autonomous region | Required | Legally required certificates for food handling work |
+| Intermediate Vocational Training in Bread Making and Pastry (FP Grado Medio en Panadería y Pastelería) | A vocational education center recognized by the Spanish Ministry of Education | Optional | Widely recognized in the industry, not mandatory but with employer preference |
+| Certificate of Food Safety Hazard Analysis (APPCC) | Accredited training organization | Optional | Some companies are requesting, especially chain supermarkets and large producers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。西班牙烘焙行业稳定发展，旅游和餐饮消费支撑就业需求。城市面包店、连锁超市及酒店对熟练师傅有持续需求。自动化和预制产品对传统手工岗位略有冲击，但高品质手工烘焙仍有市场。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Spain's baking industry is developing steadily, with tourism and catering consumption supporting employment demand. Urban bakeries, chain supermarkets, and hotels have a sustained demand for skilled chefs. Automation and prefabricated products have slightly impacted traditional manual jobs, but high-quality handmade baking still has a market.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$21,000 | 税前年薪，通常按14个月支付 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含加班和奖金 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或自主创业收入更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$21,000 | Pre-tax annual salary, usually paid for 14 months |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary, including overtime and bonuses |
+| Senior (7+ years) | $28,000~$35,000 | Supervisors or self-employed entrepreneurs earn higher incomes |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级面包师/糕点师可晋升为师傅或主管，也可自主创业开设面包店。部分通过继续教育学习食品管理，进入生产或质量控制岗位。酒店业可升至行政总厨下属的糕点主管。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The work of bakers, pastry chefs, and confectioners is a mixed mix of joys and worries due to AI: repetitive tasks like simple weighing and mixing face automation, but creative recipes, fine decoration, and quality control still rely on human skills.
+
+Junior bakers/pastry chefs can be promoted to master or supervisor, or start their own bakery. Some continue their education to study food management and enter production or quality control positions. In the hotel industry, you can rise to the position of pastry supervisor under the executive chef.
+
+**Tasks most exposed to AI:**
+
+- Raw material weighing and mixing: AI-controlled automatic batching systems can accurately weigh and mix various raw materials
+- Baking process monitoring: The smart oven with built-in sensors automatically adjusts temperature, humidity, and baking time
+- Dough forming and division: Robotic arms or automated assembly lines complete repeated actions such as dough division, rounding, and shaping
+- Packaging and labeling: The automated packaging machine completes weighing, sealing, and labeling without manual intervention
+
+**Where AI augments the role:**
+
+- Recipe development: AI analyzes ingredient characteristics and consumption data to assist in developing new flavors and adjusting recipe ratios
+- Quality Inspection: Machine vision quickly detects bread color, volume, and internal porous structure, providing real-time feedback for adjustments
+- Production scheduling: AI optimizes production planning and material scheduling based on sales forecasts, inventory, and equipment status
+- Personalized Customization: Automatically generates customized product plans based on customer preference data (such as allergens and sweetness).
+- Marketing and Inventory Management: AI analyzes store sales trends and automatically generates restocking lists and promotional recommendations
+
+**Human moat:**
+
+- Artistic decoration and modeling: Delicate crafts such as hand-mounted mounting, sugar art, and chocolate shaping are difficult for machines to imitate
+- Product innovation and flavor design: intuitive and creative pairing of taste, texture, and flavor
+- On-site Response and Problem Solving: Flexible adjustments to processes in response to unexpected situations (such as excessive dough fermentation or equipment failure).
+- Customer Interaction and Brand Experience: The ability to communicate customer needs, perform live, and provide personalized service
+
+**Skills to build:**
+
+- Operation and maintenance of baking automation equipment
+- Fundamentals of data analysis and application of production scheduling software
+- Food Science (Raw Material Chemistry/Fermentation Principles)
+- Creative formula development and flavor pairing
+- Digital marketing and social media management
+- Customer service and customized communication skills
+
+**Key growth areas:**
 
 - Artisan baking
 - Gluten-free products
@@ -64,65 +98,67 @@ Professionals who make bread, pastries, cakes, confectionery, and other baked go
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需雇主担保并提供劳动合同，适用于非欧盟公民，但烘焙师不属于高技能紧缺职业，获批难度较大。 |
-| Subclass Cuenta propia（Work Permit (Self-Employed)） | 自主创业居留，需提交商业计划书，开设面包店或糕点作坊，需证明投资能力和经济可持续性。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship and a labor contract, applicable to non-EU citizens, but bakers are not considered high-skilled and scarce occupations, making approval difficult. |
+| Subclass Cuenta propia (Work Permit (Self-Employed)) | For self-employment residency, a business plan must be submitted, and to open a bakery or pastry workshop, proof of investment capability and economic sustainability. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bakers, pastry chefs and confectioners？**
-- 喜欢手工制作和美食的人
-- 能早起、适应站立工作和高温环境的人
-- 希望学习一门实用手艺并可能创业的人
+**Who is suited**
+- People who love handmade crafts and delicious food
+- People who can get up early, adapt to standing work, and handle high-temperature environments
+- Those who want to learn a practical skill and may start their own business
 
-**谁不适合学Bakers, pastry chefs and confectioners？**
-- 对重复性劳动和早起工作不适应的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People who are not suited to repetitive labor and early rising
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average monthly salary of a Spanish baker?**
+A: Junior bakers earn about 1,300-1,500 euros per month (calculated as a 14-month annual salary), with experienced bakers earning over 2,000 euros.
+
+**Q: Can foreigners work as bakers in Spain?**
+A: Yes, but you need to obtain work residency through employer sponsorship, or apply for self-employment residency through entrepreneurship. Non-EU citizens usually need to prove that the position cannot be filled by locals, which is quite challenging.
+
+**Q: What are the career prospects for bakers?**
+A: You can grow from apprentice to master, then become a production supervisor or start a business. It can also be expanded into areas such as food quality management and training and teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bakers, pastry chefs and confectioners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average monthly salary for a baker in Spain?**
-答：Entry-level bakers earn around €1,300-€1,500 per month (14 payments per year), while experienced bakers can earn over €2,000.
-
-**问：Can a foreigner work as a baker in Spain?**
-答：Yes, but they need an employer-sponsored work permit or a self-employed visa. Non-EU citizens must prove the job cannot be filled locally, which is challenging.
-
-**问：What are the career prospects for a baker?**
-答：Career progression from apprentice to master baker, production supervisor, or business owner. Also possible to move into food quality management or teaching.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,90 @@
-# Travel Guides（Travel Guides）职业分析 · 美国
+# Travel Guides — career analysis · United States
 
-**职业代码：39-7012 – Travel Guides。**
+**Occupation code: 39-7012 (SOC)**
 
-Plan, organize, and conduct long-distance travel, tours, and expeditions for individuals and groups, ensuring smooth itineraries and providing cultural/historical commentary.
+Plan, organize, and lead long-distance trips, tours, and expeditions for individuals or groups, ensuring smooth itineraries and providing cultural and historical commentary.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常要求高中毕业） |
-| 副学士或证书 | 1年 | $5,000~$20,000（旅游或酒店管理相关证书） |
+| High school diploma | None | $0~$0 (Usually requires high school graduation) |
+| Associate degree or certificate | 1 year | $5,000~$20,000 (Tourism or hospitality management certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 导游执照 | 州旅游部门 | 必备 | 某些州需要执照或注册 |
-| 急救证书 | 红十字会 | 可选 | 推荐 |
+| Tour guide license | State tourism department | Required | Some states require license or registration |
+| First aid certificate | Red Cross | Optional | Recommend |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 8,900。美国旅游业持续复苏，预计2023-2033年就业增长约10%，快于平均水平。但季节性和经济波动影响稳定性。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,900. US tourism industry continues to recover, with employment growth projected at around 10% from 2023-2033, faster than average. However, seasonality and economic fluctuations affect stability.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 兼职或季节性工作为主 |
-| 中级（3-7年） | $35,000~$50,000 | 全职，含小费 |
-| 高级（7年以上） | $50,000~$75,000 | 专业向导或管理岗位 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Primarily part-time or seasonal work |
+| Mid-level (3–7 years) | $35,000~$50,000 | Full-time, including tips |
+| Senior (7+ years) | $50,000~$75,000 | Professional guide or management position |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级导游可晋升为高级导游或旅行经理，也可转向旅游运营、目的地管理或创办旅行社。专业技能与语言能力有助于提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The tour guide industry will see significant impact from AI tools: audio guides, translation AI, and itinerary planners will replace some narration and booking work, but human emotional connection, flexibility, and deep cultural interpretation remain irreplaceable. Entry-level competition increases, but demand for high-end custom tours rises.
+
+Junior tour guides can advance to senior tour guides or travel managers, or move into tour operations, destination management, or start a travel agency. Specialized skills and language ability help with advancement.
+
+**Tasks most exposed to AI:**
+
+- Standard sightseeing narration: AI voice guides provide multilingual, unbiased attraction introductions
+- Basic travel booking: online platforms and AI assistants automatically complete flight, hotel, and ticket bookings
+- Simple inquiry responses: chatbots handle common questions such as opening hours and directions.
+- Multilingual translation: real-time translation devices or apps replace some human translation needs
+
+**Where AI augments the role:**
+
+- Personalized itinerary design: AI analyzes tourist preference data to assist guides in creating unique routes
+- Real-time information integration: AR overlays historical info, weather, crowd data to enrich onsite commentary
+- Smart emergency support: AI quickly provides local emergency numbers, medical translation, route alternatives
+- Customer relationship management: AI records tourist feedback, helping guides optimize service details
+
+**Human moat:**
+
+- Deep cultural interpretation: ability to combine historical events, local legends with on-site context to evoke emotional resonance
+- Flexibility: handling emergencies (e.g., weather changes, tourist health issues) requires human judgment
+- Interpersonal interaction and trust: building emotional connections with visitors, handling sensitive topics and special needs
+- Non-standardized creativity: designing unique activities like themed experiences or interactive games that cannot be replicated by AI
+
+**Skills to build:**
+
+- Use of AI tour guide and planning tools (e.g., Tripadvisor, GetYourGuide backend)
+- Multicultural sensitivity and cross-cultural communication skills (especially for Chinese-speaking tourists)
+- Crisis management and first aid certification (e.g., Red Cross)
+- Content creation skills (producing personalized tour videos, social media marketing)
+- Data analysis basics (interpreting visitor preference data to optimise services)
+- Second language (e.g., French, Spanish) to enhance competitiveness
+
+**Key growth areas:**
 
 - Tourism growth
 - Language skills
@@ -61,65 +93,64 @@ Plan, organize, and conduct long-distance travel, tours, and expeditions for ind
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需专业知识的导游，但通常难以满足专业职位要求 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出导游，需证明国际认可 |
-| Subclass EB-2（EB-2 Employment-Based Second Preference） | 需高级学位或杰出能力，PERM劳工证，路径困难 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for tour guides requiring specialized knowledge, but usually difficult to meet professional position requirements |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to outstanding tour guides requiring international recognition. |
+| Subclass EB-2 (EB-2 Employment-Based Second Preference) | Requires advanced degree or exceptional ability, PERM labor certification, difficult pathway |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Travel Guides？**
-- 热爱旅行和户外活动
-- 善于与人沟通
-- 具备历史文化知识
-
-**谁不适合学Travel Guides？**
-- 不喜欢不规律作息
-- 无法处理突发状况
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for travel and outdoor activities
+- Good at communicating with people
+- Has knowledge of history and culture
+
+**Who is not suited**
+- Dislikes irregular schedules
+- Cannot handle unexpected situations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a tour guide?**
+A: US tour guide median annual salary about $35,000, but tips can significantly increase income; senior guides can earn over $75,000.
+
+**Q: Can foreign tour guides immigrate to the US through work visas?**
+A: Very difficult. Tour guides usually do not meet H-1B specialty occupation requirements; O-1 visa only for extraordinary talent; EB-2 green card path complex and requires PERM.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Travel Guides的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for travel guides?**
-答：The median annual wage is around $35,000, but tips can significantly boost income, with senior guides earning over $75,000.
-
-**问：Can foreign tour guides immigrate to the US via work visa?**
-答：Very difficult. Travel guides generally do not qualify for H-1B specialty occupation; O-1 is for extraordinary ability; EB-2 green card is complex and requires PERM.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Other Elementary Occupations（Other Elementary Occupations）职业分析 · ES
+# Other Elementary Occupations — career analysis · Spain
 
-**职业代码：9490 – Other Elementary Occupations。**
+**Occupation code: 9490 (CNO)**
 
-Includes cleaners, laborers, construction helpers, and factory workers requiring no specific skills. Widely present across Spanish industries, with low entry barriers but limited income.
+Physical labor jobs that do not require special skills, such as cleaners, movers, construction laborers, and factory laborers, are widespread across various industries in Spain, with low entry barriers but limited income.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常无学历要求，有基本读写能力即可。） |
-| FP Básico（基础职业培训） | 2年 | $500~$2,000（可选相关专业（如清洁、仓储），提升就业机会。） |
+| No formal education required | None | $0~$0 (Usually, there is no educational requirement; basic literacy is sufficient.) |
+| FP Básico (Basic Vocational Training) | 2 years | $500~$2,000 (Options for related majors (such as cleaning and warehousing) can enhance employment opportunities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质 | 无 | 可选 | 多数岗位无需官方认证，部分特殊环境（如食品加工）需健康证。 |
-| 职业安全与健康培训 | 公司或培训机构 | 必备 | 建筑业或高危行业通常要求15-20小时的安全培训（PRL）。 |
+| Occupational safety and health training | Companies or training institutions | Required | The construction or high-risk industries typically require 15-20 hours of safety training (PRL). |
+| No mandatory qualifications | None | Optional | Most positions do not require official certification, and some special environments (such as food processing) require a health certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800,000。西班牙基础岗位需求稳定，尤其在服务业、建筑业和农业。由于自动化和外包趋势，部分岗位可能减少，但总体就业机会仍多，适合短期就业。
+**Job demand: high (★★★★☆).** National workforce approx. 800,000. Demand for basic jobs in Spain is stable, especially in the service industry, construction, and agriculture. Due to automation and outsourcing trends, some positions may decrease, but overall employment opportunities remain abundant and suitable for short-term employment.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 一般为临时合同或兼职，按年折算。 |
-| 中级（3-6年） | $18,000~$21,000 | 有经验者可得长期合同，含社保。 |
-| 高级（6年以上/主管） | $21,000~$26,000 | 领班或固定资深员工，加班另计。 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$18,000 | Generally, these are temporary contracts or part-time positions, calculated annually. |
+| Mid-level (3–6 years) | $18,000~$21,000 | Those with experience can obtain long-term contracts, including social insurance. |
+| Senior (6+ years/supervisor) | $21,000~$26,000 | For team leaders or fixed, senior employees are charged separately for overtime. |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 晋升路径有限，通常从临时工转为固定合同，或成为领班、主管。少数人通过职业培训转向技术岗位（如叉车司机、电工），但需额外学习。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Many repetitive physical tasks in other basic occupations will be replaced by automated tools (such as cleaning robots and automated handling systems), intensifying competition for entry-level positions, but demand remains.
+
+Promotion paths are limited, often shifting from temporary workers to fixed contracts, or becoming foremen or supervisors. A small number of people transition to technical roles (such as forklift drivers and electricians) through vocational training, but this requires additional learning.
+
+**Tasks most exposed to AI:**
+
+- Cleaning tasks (such as sweeping and mopping) are being replaced by automated cleaning robots
+- Simple material handling is taken over by automated guided vehicles (AGVs) and conveyor systems
+- Concrete mixing and material transportation at construction sites are handled by automated machinery
+- Factory assembly lines are being replaced by robots for repetitive assembly tasks
+
+**Where AI augments the role:**
+
+- Use AI scheduling systems to optimize cleaning routes and job plans
+- Operate automated handling equipment to improve efficiency
+- Receive task instructions and report completion status through mobile apps
+- Use AI vision tools to check cleaning quality or item placement
+
+**Human moat:**
+
+- Flexible operation for unstructured environments such as complex construction sites
+- Handling emergencies (such as equipment failures or special customer requests)
+- Cleaning/handling tasks that require delicate tactile and judgment
+- Interpersonal communication (such as coordinating with clients and colleagues)
+
+**Skills to build:**
+
+- Basic equipment operation and maintenance (such as cleaning robots, automated transport vehicles)
+- Digital literacy: Receiving tasks using tablets or mobile phones
+- Quality control and basic data processing
+- Safety awareness and emergency response
+- Team collaboration and communication.
+- The ability to continuously learn new tools
+
+**Key growth areas:**
 
 - Labor Intensive
 - High Turnover
@@ -63,62 +96,67 @@ Includes cleaners, laborers, construction helpers, and factory workers requiring
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需西班牙雇主担保，证明岗位无法由本地人填补。对基础职业难度高，通常不予批准。 |
-| Subclass Busqueda empleo（Job-Seeker Visa） | 允许在西班牙停留6-12个月寻找工作，但基础岗位难获工签。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | A Spanish employer sponsor is required, proving that the position cannot be filled by a local resident. For basic professions with high difficulty, approval is usually not granted. |
+| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but it is difficult to obtain work visas for basic positions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Elementary Occupations？**
-- 急需短期收入且无专业技能者
-- 希望临时过渡或积累西班牙工作经验者
-- 体力好、能接受高强度工作的人
+**Who is suited**
+- Those urgently needing short-term income and lacking professional skills
+- Those seeking temporary transitions or to gain work experience in Spain
+- People with good physical strength who can handle high-intensity work
 
-**谁不适合学Other Elementary Occupations？**
-- 追求长期职业发展和高收入者
-- 希望获得西班牙技术移民或居留者
+**Who is not suited**
+- Pursue long-term career development and high income
+- Those seeking to obtain skilled immigration or residency in Spain
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in Spain?**
+A: Entry-level positions earn an annual salary of about 15,000-18,000 euros, with experienced individuals earning up to 21,000 euros, but most are temporary contracts with unstable income.
+
+**Q: Can foreigners immigrate to Spain based on this employment?**
+A: Almost impossible. Basic occupations are not considered high-skilled and are difficult to obtain work visas. Unless you have EU citizenship or family reunification.
+
+**Q: Does this career have development prospects?**
+A: Limited. Most remain in basic positions, while a few can be promoted to foremen or trained to technical roles (such as forklift operators).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other Elementary Occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Spain?**
-答：Entry-level positions earn around €15,000-€18,000 annually, experienced workers up to €21,000, but most contracts are temporary.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very unlikely. Elementary occupations are not considered high-skilled, making work permits difficult. Only possible via EU citizenship or family reunification.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

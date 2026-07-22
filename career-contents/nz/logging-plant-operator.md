@@ -1,59 +1,94 @@
-# Logging Plant Operator（Logging Plant Operator）职业分析 · 新西兰
+# Logging Plant Operator — career analysis · New Zealand
 
-**职业代码：721112 – Logging Plant Operator。**
+**Occupation code: 721112 (ANZSCO)**
 
-Operates heavy machinery for felling, skidding, and loading timber. With New Zealand's rich forestry resources, this role is eligible for AEWV and Green List migration pathways.
+Responsible for operating heavy machinery for tree felling, skidding, and loading; core occupation in forestry harvesting. New Zealand has abundant forestry resources, and this occupation can lead to immigration via Accredited Employer Work Visa or Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 岗前培训 | 3-6个月 | $5,000~$12,000（涵盖机械操作与安全课程，部分学徒计划免费） |
-| 证书培训 | 1-2年 | $2,000~$5,000（新西兰林业证书（Level 3-4）） |
+| Pre-job training | 3-6 months | $5,000~$12,000 (Covers machinery operation and safety courses; some apprenticeship programs are free) |
+| Certificate training | 1-2 years | $2,000~$5,000 (New Zealand Certificate in Forestry (Level 3-4)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰林业证书（Level 3） | 新西兰技能组织（NZ Skills） | 可选 | 涵盖安全操作、机械维护，部分雇主强制要求 |
-| 重型机械操作执照（WTR） | 新西兰交通局（NZTA） | 必备 | 操作履带式机械必备，需通过理论和实践考试 |
-| 安全证书（如Site Safe） | Site Safe | 可选 | 大多数林场要求 |
+| Heavy Machinery Operating Licence (WTR) | New Zealand Transport Agency (NZTA) | Required | Required for operating tracked machinery, must pass theory and practical exams |
+| New Zealand Certificate in Forestry (Level 3) | New Zealand Skills (NZ Skills) | Optional | Covers safe operation and mechanical maintenance; some employers require it mandatorily |
+| Safety certificate (e.g. Site Safe) | Site Safe | Optional | Most forestry operations require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。新西兰林业持续受建筑和出口需求驱动，北岛中部和南岛西部林区岗位稳定。未来五年就业增长率约5%，需具备机械操作证书和安全意识。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. New Zealand's forestry sector is driven by construction and export demand, with stable jobs in the central North Island and West Coast regions. Employment growth is around 5% over the next five years, requiring machinery operation certificates and safety awareness.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 需完成培训并持有基础执照 |
-| 中级（3-6年） | $60,000~$75,000 | 能独立操作多种机械 |
-| 高级（6年以上） | $75,000~$95,000 | 含班组长或培训职能 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Must complete training and hold a basic license |
+| Mid-level (3–6 years) | $60,000~$75,000 | Able to independently operate multiple types of machinery. |
+| Senior (6+ years) | $75,000~$95,000 | Includes team leader or training functions |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★½☆）。** 可从新手操作员晋升为资深操作员、班组长，或转型为林业机械维修师。积累经验后可自主创业承包采伐业务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In the work of logging equipment operators, heavy machinery operation and other physical tasks have low risk of automation, but planning, monitoring, and recording tasks can be enhanced or partially replaced by AI, presenting a 'mixed' outlook.
+
+Can advance from novice operator to senior operator, team leader, or transition to forestry machinery maintenance technician. With accumulated experience, can start a business contracting logging operations.
+
+**Tasks most exposed to AI:**
+
+- GPS path planning and terrain analysis for logging areas
+- Automated recording and report generation of equipment operation data (fuel consumption, efficiency)
+- Equipment fault warning notifications based on sensor data
+- Optimization of timber felling sequence and transport scheduling
+- Auto-filling security inspection records and compliance checks
+
+**Where AI augments the role:**
+
+- AI-enhanced real-time analysis of tree diameter and tilt, assisting precision felling.
+- Drone aerial image recognition, automatic marking of hazardous areas
+- AI-driven predictive maintenance of equipment to increase uptime
+- Voice assistant for auxiliary functions in heavy machinery control (e.g., adjusting hydraulic arms)
+- AI optimizes timber collection routes to reduce fuel consumption.
+
+**Human moat:**
+
+- Muscle memory and coordination for operating heavy machinery in complex, uneven terrain.
+- On-site judgment of tree fall direction, risk assessment, and other decisions requiring intuitive experience
+- Rapid response and manual intervention in emergencies
+- Physical inspection and debugging of mechanical equipment faults
+
+**Skills to build:**
+
+- Operating forestry-specific AI-assisted systems (e.g., smart felling heads)
+- Basic programming and data analysis (Python/R for log yield calculations)
+- Drone operation and image interpretation
+- Use of remote monitoring and predictive maintenance software for equipment
+- Digital twin simulation training
+- Knowledge of sustainable harvesting and ecological compliance
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Working Holiday Scheme
@@ -62,65 +97,64 @@ Operates heavy machinery for felling, skidding, and loading timber. With New Zea
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence - Green List） | 从事该职业满2年后可申请居留权，需持有新西兰林业证书（Level 4）或同等工作经验 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保的工作签证，工资需达到中位数（时薪29.66纽元），可衔接居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，拥有硕士学历（5分）+新西兰工作（1分）可申请，需技能工作 |
+| Subclass Green List T2 (Work to Residence - Green List) | Eligible for residency after 2 years of employment, must hold New Zealand Certificate in Forestry (Level 4) or equivalent work experience |
+| Subclass AEWV (Accredited Employer Work Visa) | Work visa sponsored by an accredited employer, with salary reaching the median (hourly rate NZD 29.66), can lead to residency |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, applicants with a master's degree (5 points) + New Zealand work experience (1 point) can apply, requiring skilled work |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Logging Plant Operator？**
-- 喜欢户外体力劳动、不畏惧恶劣天气的人
-- 对重型机械操作有热情、愿意考取驾照的人
-- 愿意在新西兰偏远林区工作的人
-
-**谁不适合学Logging Plant Operator？**
-- 无法适应高强度体力劳动和偏远环境的人
-- 缺乏安全意识或不愿遵守严格安全规程的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and are not afraid of harsh weather
+- People with a passion for operating heavy machinery and willing to obtain a driver's license
+- People willing to work in remote forest areas of New Zealand
+
+**Who is not suited**
+- Those unable to adapt to high-intensity physical labor and remote environments
+- People lacking safety awareness or unwilling to strictly comply with safety procedures
+
+---
+
+## 8. FAQ
+
+**Q: How does the salary of logging equipment operators compare with Australia?**
+A: New Zealand salaries are slightly lower than Australia, junior about 45,000-60,000 NZD, senior up to 95,000 NZD, but cost of living is lower and immigration pathways are friendly.
+
+**Q: Is it easy to immigrate to New Zealand in this occupation?**
+A: Relatively easy. This occupation is on the Green List Tier 2; after working for 2 years, can apply for residency; can also gain experience via an accredited employer work visa before applying.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等偏上（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Logging Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How does the salary compare to Australia?**
-答：Salaries are slightly lower than Australia, ranging from NZD 45,000-60,000 for entry-level to NZD 75,000-95,000 for senior roles, but cost of living is lower and migration pathways are favourable.
-
-**问：Is it easy to immigrate with this occupation?**
-答：Relatively easy. It is on Green List Tier 2, allowing residence after 2 years, or via AEWV with accredited employers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

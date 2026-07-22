@@ -1,60 +1,94 @@
-# Supervisor and Manager - Animal Care（Supervisor and Manager - Animal Care）职业分析 · DE
+# Supervisor and Manager - Animal Care — career analysis · Germany
 
-**职业代码：1159 – Supervisor and Manager - Animal Care。**
+**Occupation code: 1159 (KldB)**
 
-Oversees animal care teams, manages daily operations of zoos, shelters, or farms, ensuring animal welfare and facility maintenance.
+Responsible for supervising the animal care team, managing daily operations of zoos, animal shelters, or farms, ensuring animal welfare and facility maintenance.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年（双元制） | —（培训期间有津贴） |
-| 本科（动物科学/管理） | 3-4年 | —（公立大学学费低，部分州有学期费） |
+| Dual system training | 3 years (dual system) | $0~$500 (Allowance during training) |
+| Bachelor's degree (Animal Science/Management) | 3-4 years | $0~$1,500 (Public universities have low tuition fees; some states charge per semester fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物护理员资格 | 德国工商会(IHK) | 必备 | 完成双元制培训后获得 |
-| 资质认证（国外学历） | IHK或行业认证机构 | 必备 | 非欧盟学历需通过Anerkennung程序 |
+| Animal care worker qualification | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Qualification certification (foreign education) | IHK or industry certification bodies | Required | Non-EU qualifications require Anerkennung procedure |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。德国动物护理行业稳定发展，对专业管理人才需求持续，尤其在动物保护和可持续农业领域有增长空间。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,500. The German animal care industry is developing steadily, with ongoing demand for professional management talent, especially in animal protection and sustainable agriculture, offering growth opportunities.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，视地区和机构类型 |
-| 中级（3-7年） | $42,000~$52,000 | 有管理职责后薪资提升 |
-| 高级（7年以上） | $55,000~$70,000 | 大型机构或高级管理职位 |
+| Median salary | $36,252 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary depends on region and institution type |
+| Mid-level (3–7 years) | $42,000~$52,000 | Salary increase after taking on management responsibilities |
+| Senior (7+ years) | $55,000~$70,000 | Large institutions or senior management positions |
+| average salary | $37,752 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从动物护理员晋升至团队主管，进一步成为设施经理或区域总监，部分机会进入动物保护组织管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate administrative scheduling and documentation, but animal care decisions and team management still require human judgment, with overall risks and opportunities coexisting.
+
+Can progress from animal caretaker to team supervisor, then to facility manager or regional director, with some opportunities in animal protection organization management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates employee shift schedules and attendance records.
+- Using AI monitoring systems to analyze animal feeding and drinking data and generate reports
+- Automates purchase order processing and inventory management
+- AI-assisted writing of daily operation reports and compliance documents
+
+**Where AI augments the role:**
+
+- AI analyzes animal behavior data to help identify health abnormalities
+- Using computer vision to automatically detect environmental safety hazards (e.g., fence damage)
+- AI optimizes feed formulas and medical plans
+- Smart sensors monitor temperature and humidity in real time and automatically adjust environmental parameters
+- AI generates personalized training plans to improve animal welfare
+
+**Human moat:**
+
+- Intuition and experience in assessing individual animal emotions and health status
+- Decision-making ability to handle emergencies (e.g., animal attacks, disease outbreaks)
+- Soft skills for maintaining team morale and mediating conflicts
+- Ethical judgment in developing long-term animal welfare strategies
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python/Pandas for behavioral data)
+- Computer vision system applications (e.g., monitoring anomaly detection)
+- Digital scheduling and resource management software (e.g., When I Work)
+- Operation of animal health monitoring platforms (e.g., Vetstor)
+- Basic programming skills (automated report generation)
+- Data-driven decision-making methodology
+
+**Key growth areas:**
 
 - Animal Welfare
 - Sustainable Agriculture
@@ -63,69 +97,68 @@ Oversees animal care teams, manages daily operations of zoos, shelters, or farms
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（EU Blue Card） | 适用于本科及以上学历，年薪门槛通常需达标，但管理岗可能符合 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 通过资质认证后，可获得工作签证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许寻找工作，适合无需立即担保的申请人 |
+| Subclass Skilled Worker (EU Blue Card) | Applicable to bachelor's degree or above, annual salary threshold usually needs to be met, but management positions may qualify. |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | After obtaining qualification certification, a work visa can be secured |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking, suitable for applicants who do not need immediate sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor and Manager - Animal Care？**
-- 热爱动物且具备管理能力的人
-- 有动物科学或相关学历，希望进入管理岗位
-- 愿意在户外或动物设施中工作
-
-**谁不适合学Supervisor and Manager - Animal Care？**
-- 对动物毛发或气味敏感的人
-- 不擅长团队管理和沟通的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who loves animals and has management skills
+- With animal science or related qualifications, seeking management roles
+- Willing to work outdoors or in animal facilities
+
+**Who is not suited**
+- People sensitive to animal hair or odors
+- People not skilled in team management and communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an animal care supervisor in Germany?**
+A: Entry-level supervisor about €32,000-40,000/year, mid-level €42,000-52,000, senior €55,000-70,000, affected by region and institution size.
+
+**Q: How to immigrate to Germany as an animal care manager?**
+A: Requires German-recognized qualification (via Anerkennung), then apply for skilled migration work visa or EU Blue Card (meeting salary threshold).
+
+**Q: What is the career progression path for animal care management?**
+A: Progress from Animal Care Attendant to Team Leader, then to Facility Manager, and finally to Regional Manager or Management of Animal Protection Organizations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisor and Manager - Animal Care为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an animal care manager in Germany?**
-答：Entry-level supervisors earn €32,000-40,000, mid-level €42,000-52,000, senior €55,000-70,000 annually, depending on region and organization.
-
-**问：How to immigrate as an animal care manager to Germany?**
-答：Require recognized qualifications (via Anerkennung), then apply for a Skilled Worker visa or EU Blue Card if salary threshold is met.
-
-**问：What is the career progression for animal care management?**
-答：Start as animal caretaker, become supervisor, then facility manager, and eventually regional manager or executive in animal welfare organizations.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

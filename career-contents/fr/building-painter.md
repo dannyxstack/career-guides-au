@@ -1,60 +1,96 @@
-# Building Painter（Building Painter）职业分析 · FR
+# Building Painter — career analysis · France
 
-**职业代码：F1606 – Building Painter。**
+**Occupation code: F1606 (ROME)**
 
-Building painters apply paint, varnish, and other protective coatings to interior and exterior surfaces of buildings, perform surface preparation and decorative finishes, and are essential in construction renovation and maintenance.
+Architectural painters are responsible for applying paint, varnish, and other protective coatings to the interior and exterior surfaces of buildings, as well as surface preparation and decorative treatment. They are a key occupation in building renovation and maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 油漆工 | 2年（CAP Peintre Applicateur de Revêtements） | —（公立学校免费，注册费约100-500欧元；学徒制期间有工资） |
-| Bac Pro 装修工 | 3年（Bac Pro Aménagement et Finition du Bâtiment） | —（公立学校免费，材料费约500欧元；可走学徒制） |
-| BTS 建筑装修 | 2年（BTS Enveloppe du Bâtiment） | —（公立学校免费，部分私立学校3000-6000欧元） |
+| CAP Painter | 2 years (CAP Peintre Applicateur de Revêtements) | $0~$1,500 (Public schools are free, with registration fees of about 100-500 euros; There is a salary during the apprenticeship) |
+| Bac Pro renovator | 3 years (Bac Pro Aménagement et Finition du Bâtiment) | $0~$2,000 (Public schools are free, with material costs around 500 euros; It can be implemented through the apprenticeship system) |
+| BTS building renovation | 2 Years (BTS Enveloppe du Bâtiment) | $0~$3,000 (Public schools free, some private schools 3,000-6,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 油漆工文凭 | 法国教育部 | 必备 | 基础从业资格，学徒制完成后获得 |
-| CQP 油漆工职业资格 | 建筑行业职业证书委员会 | 可选 | 可替代CAP，侧重实践技能 |
-| FIMO / FCO 运输许可 | 法国交通部 | 可选 | 如自雇需驾驶车辆运输材料，需持有轻便运输许可 |
+| CAP Painter Diploma | French Ministry of Education | Required | Basic professional qualification, obtained after completing the apprenticeship program |
+| CQP Painter Professional Qualification | Construction Industry Professional Certificate Committee | Optional | It can replace CAP and focuses on practical skills |
+| FIMO / FCO transport permit | French Ministry of Transport | Optional | If self-employed and need to drive a vehicle to transport materials, a light transport permit is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。法国建筑行业持续活跃，能源改造工程（如隔热翻新）推动需求。2023-2030年预计岗位稳定增长，年均招聘约1.5万人，尤其在老旧住宅翻新领域紧缺熟练工。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. France's construction sector remains active, with energy renovation projects (e.g., insulation retrofitting) driving demand. 2023-2030 expected steady job growth, averaging about 15,000 hires annually, especially shortage of skilled workers in old residential renovations.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $28,000~$35,000 | 税前年薪，视技能和公司规模 |
-| 高级（8年以上/领班） | $35,000~$45,000 | 税前年薪，含项目管理津贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $28,000~$35,000 | Pre-tax annual salary, depending on skill and company size |
+| Senior (8+ years/lead) | $35,000~$45,000 | Pre-tax annual salary, including project management allowance |
+| average salary | $24,042 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从CAP学徒做起，积累经验后可晋升为领班或项目主管，也可专攻装饰性涂料或工业涂装，或自雇创立油漆公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
+
+Typically, you start as a CAP apprentice, and after gaining experience, you can be promoted to supervisor or project supervisor, specializing in decorative or industrial coatings, or starting a paint company on your own.
+
+**Tasks most exposed to AI:**
+
+- Color matching and formula calculation (AI visual matching)
+- On-site measurement and material quantity estimation (BIM automated calculation)
+- Paint selection and quote generation (online tool)
+- Quality inspection (AI visual recognition of runs, color differences)
+- Work logs and client communication (automated report generation)
+
+**Where AI augments the role:**
+
+- AR-assisted preview of final painting effects to improve client communication efficiency
+- AI defect detection ensures coating quality and reduces rework
+- Robotic spraying aids high-altitude or large-area operations, improving efficiency and safety.
+- Smart devices automatically record construction parameters and optimize processes
+- Drones or wall-climbing robots for hazardous area pre-treatment
+
+**Human moat:**
+
+- Hand-painting of complex curves, irregular shapes, or fine decorations
+- On-site flexible judgement for unexpected situations (e.g. uneven walls, substrate treatment)
+- Custom artistic coatings (antique, texture effects)
+- Safety supervision and environmental compliance responsibilities (e.g., handling hazardous materials)
+- On-site experience and communication skills in multi-trade collaboration
+
+**Skills to build:**
+
+- Proficiency in Digital Color Matching Software and Electronic Color Systems
+- Learn basic BIM operations and construction collaboration platforms
+- Master the programming and maintenance of automated spraying equipment
+- Learning about eco-friendly coating materials and green processes
+- Enhance project management and customer communication skills
+- Understanding basic data analysis and quoting tools
+
+**Key growth areas:**
 
 - Energy retrofit
 - Renovation boom
@@ -63,65 +99,64 @@ Building painters apply paint, varnish, and other protective coatings to interio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主提供工作合同，通过劳工部审核（紧缺职业可简化）。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能/高学历人才，年薪需达约1.5倍SMIC（约2.5万欧元），流程较快。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需本科以上学历或5年专业经验，年薪门槛约5.3万欧元（2025年），建筑油漆工通常难以达到。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Requires a work contract with a French employer and approval from the labor ministry (simplified for shortage occupations). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled/highly educated talent; annual salary must be about 1.5 times the SMIC (approx. EUR 25,000). Process is relatively fast. |
+| Subclass Carte bleue UE (EU Blue Card) | Requires bachelor's degree or 5 years of professional experience, annual salary threshold approx. €53,000 (2025); construction painters usually cannot meet this. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Painter？**
-- 动手能力强、喜欢户外和体力工作的人
-- 追求稳定就业、愿意接受学徒制培训的年轻人
-- 希望在建筑行业自雇创业的人
-
-**谁不适合学Building Painter？**
-- 对粉尘、油漆气味敏感或有呼吸道疾病的人
-- 偏好办公室工作和固定作息的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are hands-on and enjoy outdoor and physical work
+- Young people seeking stable employment and willing to accept apprenticeship training
+- People who want to be self-employed and start a business in the construction industry
+
+**Who is not suited**
+- People sensitive to dust, paint odors, or those with respiratory diseases
+- People who prefer office work and a fixed schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a construction painter in France?**
+A: Entry-level: around €20,000–€25,000; mid-level: €28,000–€35,000; senior/foreman: €35,000–€45,000 (pre-tax). Overtime and self-employment pay more.
+
+**Q: How do foreign construction painters immigrate to France?**
+A: You can use the Salarié work visa, which requires employer sponsorship and the occupation is on the shortlist; You can also try Passeport Talent, but the income threshold is relatively high. It is recommended to first obtain a CAP diploma recognized by France.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Building Painter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a building painter in France?**
-答：Entry-level around €20,000-25,000, mid-level €28,000-35,000, senior/foreman €35,000-45,000 (gross annual). Overtime and self-employment can increase earnings.
-
-**问：How can a foreign building painter immigrate to France?**
-答：Via the Salarié work permit with employer sponsorship (occupation in shortage); or the Passeport Talent if salary meets threshold. Obtaining a French-recognized CAP diploma is recommended.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

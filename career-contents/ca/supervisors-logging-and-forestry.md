@@ -1,59 +1,92 @@
-# Supervisors, logging and forestry（Supervisors, logging and forestry）职业分析 · 加拿大
+# Supervisors, logging and forestry — career analysis · Canada
 
-**职业代码：82010 – Supervisors, logging and forestry。**
+**Occupation code: 82010 (NOC)**
 
-Supervise logging and forestry operations, coordinate worker activities, ensure safe, efficient production and compliance with environmental regulations.
+Supervise logging and forestry operations, coordinate worker activities, ensure safe and efficient production and compliance with environmental regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立学校免费） |
-| 林业技术文凭 | 2年 | $8,000~$20,000（学院 tuition） |
+| High school diploma | 4 years | $0~$0 (Free public schools.) |
+| Diploma in Forestry Technology | 2 years | $8,000~$20,000 (College tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 伐木与林业主管证书 | 省级林业机构 | 必备 | 部分省份要求 |
-| 林业技师认证 | 加拿大林业协会 | 可选 | 自愿但有助于晋升 |
-| 急救证书 | 红十字会等 | 必备 | 工作场所安全要求 |
+| Logging and Forestry Supervisor Certificate | Provincial Forestry Agency | Required | Required in some provinces |
+| First aid certificate | Red Cross, etc. | Required | Workplace Safety Requirements |
+| Forestry Technician Certification | Canadian Institute of Forestry | Optional | Voluntary but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 5,600。受可持续林业和木材需求影响，预计未来5年岗位稳定，北部和沿海地区机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,600. Driven by sustainable forestry and timber demand, the number of positions is expected to be stable over the next 5 years, with more opportunities in the north and coastal regions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$62,000 | 时薪约$24-$31 |
-| 中级（3-7年） | $62,000~$80,000 | 时薪约$31-$40 |
-| 高级（7年以上） | $80,000~$100,000 | 时薪约$40-$50 |
+| Median salary | $72,488 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $48,000~$62,000 | Hourly rate approximately $24-$31 |
+| Mid-level (3–7 years) | $62,000~$80,000 | Hourly wage approximately $31-$40 |
+| Senior (7+ years) | $80,000~$100,000 | Hourly wage approximately $40-$50 |
+| average salary | $74,880 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从资深伐木工或林业技师晋升为主管，再升至区域经理或林业顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on logging and forestry supervisors is mixed: automated equipment can optimize harvesting scheduling and environmental monitoring, but on-site supervision, safety coordination, and emergency decisions still require human authority and adaptability.
+
+Can be promoted from senior logger or forestry technician to supervisor, then to regional manager or forestry consultant.
+
+**Tasks most exposed to AI:**
+
+- Use AI-powered drones for forest patrol and tree counting
+- Programming and remote operation of automated logging equipment
+- Use AI to optimize logging routes and transport scheduling
+- Auto-generate environmental compliance reports and emission monitoring data
+
+**Where AI augments the role:**
+
+- Using drone remote sensing data to assess forest health and resource distribution in real time
+- Optimise harvesting plans and ecological impact balance using AI prediction models
+- Using digital twin technology to simulate the long-term consequences of different harvesting strategies
+- AI-assisted security risk assessment and emergency plan generation
+
+**Human moat:**
+
+- On-site worker safety supervision and decisive decision-making in emergencies
+- Complex communication and compliance explanations with forestry bureaus and environmental organizations
+- Flexible response to unstructured terrain and sudden weather conditions
+- Human touch in managing team morale and training newcomers
+
+**Skills to build:**
+
+- GIS and remote sensing data analysis
+- AI-driven project management software (e.g., Trello + AI plugins)
+- Drone operation and data interpretation
+- Digital Twin and Environmental Modelling Fundamentals
+- Data-driven decision-making and statistical literacy
+- Conflict mediation and cross-departmental collaboration
+
+**Key growth areas:**
 
 - Sustainable Forestry
 - Leadership
@@ -62,65 +95,64 @@ Supervise logging and forestry operations, coordinate worker activities, ensure 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 适合获雇主Offer或有相关经验者，综合评分系统邀请 |
-| Subclass PNP（Provincial Nominee Program） | 如BC省林业提名，偏远地区加分 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明劳工短缺 |
+| Subclass Express Entry (Federal Skilled Worker) | Suitable for those with a job offer from an employer or relevant experience; invitation based on a comprehensive scoring system |
+| Subclass PNP (Provincial Nominee Program) | e.g., BC forestry nomination, remote area points |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requires proof of labour shortage |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, logging and forestry？**
-- 喜欢户外和体力活动者
-- 有领导能力和安全意识者
-- 愿意在偏远地区工作的人
-
-**谁不适合学Supervisors, logging and forestry？**
-- 不适应户外极端天气者
-- 偏好办公室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor and physical activities
+- Those with leadership skills and safety awareness
+- People willing to work in remote areas.
+
+**Who is not suited**
+- Those unable to handle extreme weather conditions outdoors.
+- Those who prefer office work
+
+---
+
+## 8. FAQ
+
+**Q: Are logging and forestry supervisors well paid?**
+A: Average annual salary is about AUD 60,000-80,000, above the national average, but affected by the timber market.
+
+**Q: How to migrate to Canada as a Forestry Supervisor?**
+A: Eligible via Express Entry (requires employer offer) or provincial nomination (e.g., BC), with relevant experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Supervisors, logging and forestry的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary high for logging and forestry supervisors?**
-答：Average annual salary around $60k-80k, above national average but affected by timber market.
-
-**问：How to immigrate as a forestry supervisor?**
-答：Via Express Entry (requires job offer) or PNP (e.g., BC), with relevant experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Statistical, Mathematical and Related Support Professionals（Statistical, Mathematical and Related Support Professionals）职业分析 · ES
+# Statistical, Mathematical and Related Support Professionals — career analysis · Spain
 
-**职业代码：3404 – Statistical, Mathematical and Related Support Professionals。**
+**Occupation code: 3404 (CNO)**
 
-Provide technical support in data collection, processing, and analysis for statistical and mathematical research, including survey design, data quality control, and preliminary analysis.
+Responsible for collecting, organizing, and analyzing data to provide technical support for statistical and mathematical research, including survey design, data quality control, and preliminary analysis.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $1,000~$3,000（公立大学学费） |
-| 高等职业培训 | 2年（FP Grado Superior） | $500~$1,500（部分项目免费） |
+| University bachelor's degree | 4 years (Grado) | $1,000~$3,000 (Public university tuition) |
+| Higher vocational training | 2 years (FP Grado Superior) | $500~$1,500 (Some programs are free of charge) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计学或数学学士学位 | 西班牙大学 | 必备 | 常见要求 |
-| 数据分析认证 | Coursera/Google | 可选 | 加分项 |
+| Bachelor's degree in Statistics or Mathematics | Spanish University | Required | Common requirements |
+| Data analysis certification | Coursera/Google | Optional | Bonus points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏高（★★★½☆）。** 全国从业人数约 8,500。随着大数据和数字化转型，西班牙对数据分析支持人员的需求持续增长。公共统计机构和私营市场研究公司均有稳定招聘，但竞争中等，建议掌握编程和数据库技能。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. With big data and digital transformation, Spain's demand for data analytics support personnel continues to grow. Both public statistical agencies and private market research firms have stable hiring, but competition is moderate; programming and database skills are recommended.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-6年） | $30,000~$40,000 | 税前年薪 |
-| 高级（6年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (6+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从数据录入/助理起步，可通过积累经验晋升为高级分析师或数据科学家。也可向特定领域（如生物统计、金融统计）深化，或转向数据工程。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+the impact of AI on statistical officers and research support roles is mixed: data cleaning and basic analysis tasks are automated, but skills in advanced analysis, methodological innovation, and policy advice are enhanced by AI, raising the career bar but increasing value.
+
+Usually starting as data entry/assistant, you can be promoted to senior analyst or data scientist through accumulated experience. It can also deepen into specific fields (such as biostatistics and financial statistics) or shift toward data engineering.
+
+**Tasks most exposed to AI:**
+
+- Automated data cleaning and preprocessing
+- Generates standard statistical tables and charts.
+- Basic hypothesis testing and descriptive statistics
+- Prepare periodic statistical reports
+
+**Where AI augments the role:**
+
+- Advanced predictive modeling using machine learning
+- AI-assisted design of complex sampling schemes and experiments
+- Automatic identification of data anomalies and causal inference
+- Natural language processing to analyze unstructured data
+- Simulation and scenario analysis to support decision-making
+
+**Human moat:**
+
+- Methodology innovation and model selection judgment
+- Explain statistical results to decision-makers and provide recommendations
+- Cross-domain problem definition and data requirement communication
+- Ethical compliance and data governance oversight
+- Discover unknown patterns and propose research hypotheses
+
+**Skills to build:**
+
+- Python/R programming and data analysis libraries
+- Machine learning and statistical modeling (e.g., scikit-learn)
+- Big data tools (SQL, Spark)
+- Data Visualization and Interactive Dashboards
+- Causal inference and experimental design
+- AI Ethics and Data Privacy Regulations
+
+**Key growth areas:**
 
 - Data Analytics
 - Big Data
@@ -61,68 +96,67 @@ Provide technical support in data collection, processing, and analysis for stati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高学历（本科以上）且薪资达门槛的第三国公民，需工作合同。 |
-| Subclass Cuenta ajena（Work permit (employed)） | 普通受雇工作居留，需公司担保，匹配职位技能要求。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高技能专业人才，审批较快，需大学学历和年薪≥40,000欧元。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to third-country citizens with high education (bachelor's degree or above) whose salary meets the threshold, requiring a work contract. |
+| Subclass Cuenta ajena (Work permit (employed)) | Ordinary employed work residence requires company sponsorship and matches job skill requirements. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly skilled professionals, approval is faster, requiring a university degree and an annual salary of ≥ 40,000 euros. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Statistical, Mathematical and Related Support Professionals？**
-- 对数据敏感、擅长逻辑分析的人
-- 具备统计学或数学背景的人
-- 希望从事稳定技术性工作的人
-
-**谁不适合学Statistical, Mathematical and Related Support Professionals？**
-- 厌恶重复性数据处理的人
-- 追求高压高薪的顶尖人才
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People sensitive to data and skilled in logical analysis
+- People with a background in statistics or mathematics
+- Those who wish to engage in stable technical work
+
+**Who is not suited**
+- People who dislike repetitive data processing
+- Seeking top talent with high pressure and high salaries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for statistical support professionals in Spain?**
+A: Entry-level salaries are about 22,000-28,000 euros, intermediate salaries 30,000-40,000 euros, and seniors up to 55,000 euros. Public sector wages are stable but grow slowly.
+
+**Q: Is it easy for foreigners to apply for work residency in this occupation?**
+A: It is relatively easy and is a scarce occupation in Spain, allowing for the EU Blue Card or the high-skilled professional talent track. Academic credentials and a labor contract must be provided.
+
+**Q: What are the promotion paths for this profession?**
+A: You can advance from data assistant to data analyst or statistician, and then to data scientist or management roles. It can also shift to business analysis, market research, and other directions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等偏高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Statistical, Mathematical and Related Support Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for statistical support professionals in Spain?**
-答：Junior annual salary is around €22,000-28,000, mid-level €30,000-40,000, and senior up to €55,000. Public sector pay is stable but grows slowly.
-
-**问：Is it easy for foreigners to get a work permit for this occupation?**
-答：Relatively easy, as it is a shortage occupation. Options include EU Blue Card or Highly Skilled Professional visa. Requires degree recognition and employment contract.
-
-**问：What are the career progression paths for this occupation?**
-答：Start as data assistant, advance to data analyst, statistician, then to data scientist or management. Also possible to move into business analysis or market research.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

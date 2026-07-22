@@ -1,61 +1,94 @@
-# Hunter and Trapper（Hunter and Trapper）职业分析 · NL
+# Hunter and Trapper — career analysis · Netherlands
 
-**职业代码：6224 – Hunter and Trapper。**
+**Occupation code: 6224 (ISCO08)**
 
-In the Netherlands, hunters and trappers primarily manage wildlife populations, conduct pest control, and offer hunting tourism services, requiring a valid license and strict adherence to environmental regulations.
+In the Netherlands, hunters and trappers primarily engage in wildlife management, population control, and hunting tourism services, requiring valid licenses and strict adherence to environmental regulations.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1年（职业课程） | $1,000~$3,000（含考试和执照费用） |
-| 高中 | 无需高等教育 | —（仅需中等教育证书） |
+| Vocational training | 1 year (vocational course) | $1,000~$3,000 (Includes exam and license fees) |
+| High school | No higher education required | $0~$0 (Only requires a secondary education certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 狩猎执照 | 荷兰食品与消费品安全局（NVWA） | 必备 | 必须通过理论和实践考试 |
-| 枪支许可证 | 荷兰警察局 | 必备 | 背景调查和安全培训 |
-| 野生动物管理课程 | 荷兰狩猎协会 | 可选 | 推荐，但不是强制 |
+| Hunting license | Netherlands Food and Consumer Product Safety Authority (NVWA) | Required | Must pass theoretical and practical exams |
+| Firearms license | Dutch Police | Required | Background checks and safety training |
+| Wildlife management course | The Dutch Hunting Association | Optional | recommended, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 600。荷兰对野生动物管理需求稳定，但狩猎业受环保政策收紧影响，就业机会有限且多集中在兼职或季节性工作。
+**Job demand: low (★½☆☆☆).** National workforce approx. 600. Demand for wildlife management in the Netherlands is stable, but the hunting industry is affected by stricter environmental policies; job opportunities are limited and mostly part-time or seasonal.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 兼职或季节性收入 |
-| 中级（3-7年） | $25,000~$35,000 | 全职狩猎向导 |
-| 高级（7年以上） | $35,000~$45,000 | 高级管理或自雇 |
+| Median salary | $37,346 | Median salary (official: CBS median hourly wage €18.9/hour × 1976 h annualized, BRC group 1311 Beroepsgroep overig; P25–P75 €30,628–€49,400, CBS 2024) |
+| Entry level (0–3 years) | $15,000~$25,000 | Part-time or seasonal income |
+| Mid-level (3–7 years) | $25,000~$35,000 | Full-time hunting guide |
+| Senior (7+ years) | $35,000~$45,000 | Senior management or self-employment |
+| average salary | $30,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业路径从助理猎人开始，可晋升为狩猎向导或野生动物管理官员；但晋升空间较小，多需结合其他自然保护工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on hunters and trappers: automated tools (e.g., drone monitoring) can replace some monitoring and reporting tasks, but core on-site decision-making, ethical judgment, and public communication are hard to replace by AI; traditional roles may shrink, but new tech-enabled roles will emerge.
+
+Career path starts as assistant hunter, can advance to hunting guide or wildlife management officer; but promotion opportunities are limited, often combined with other conservation work.
+
+**Tasks most exposed to AI:**
+
+- Use drones or cameras to automatically monitor wildlife populations.
+- Automatically generate hunting logs and population reports
+- Using AI to analyse satellite imagery for identifying habitat changes
+- Automates administrative applications and license renewal processes
+
+**Where AI augments the role:**
+
+- Using drones and thermal imaging technology to assist in tracking and locating target animals
+- Using predictive models to optimize the timing and location of population control programs
+- Get real-time environmental regulation updates and ecological data via mobile apps.
+- Promote hunting tourism using social media and data analytics
+
+**Human moat:**
+
+- Real-time judgment, weapon handling, and personal safety decisions in on-site hunting execution
+- In-depth understanding of complex ecosystems and animal behavior
+- Ethical communication and negotiation with landowners, governments, and the public
+- human intuition and creativity in handling emergencies and unexpected events
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- Geographic Information Systems and remote sensing analysis
+- Data analysis and report automation
+- Knowledge of wildlife management ecology
+- Customer relationship management and digital marketing
+- Environmental regulation update tracking and compliance
+
+**Key growth areas:**
 
 - Wildlife Management
 - Hunting Tourism
@@ -64,65 +97,67 @@ In the Netherlands, hunters and trappers primarily manage wildlife populations, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 不适用，该职业通常不符合高技术移民标准 |
-| Subclass Orientation Year（Orientation Year） | 不适用，该职业不需要毕业生居留 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Not applicable, this occupation typically does not meet the criteria for highly skilled migrant visas |
+| Subclass Orientation Year (Orientation Year) | Not applicable, this occupation does not require a graduate residence permit. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hunter and Trapper？**
-- 热爱户外工作和自然环境保护
-- 愿意接受季节性、兼职工作模式
-- 有耐心和责任心，遵守严格法规
+**Who is suited**
+- Love outdoor work and environmental conservation
+- Open to seasonal and part-time work patterns
+- Patience and responsibility, compliance with strict regulations
 
-**谁不适合学Hunter and Trapper？**
-- 寻求稳定全职高薪收入者
-- 不赞同狩猎或动物捕杀观念者
+**Who is not suited**
+- Seeking stable full-time high-income earners
+- Not suitable for those who oppose hunting or animal culling.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of hunters and trappers in the Netherlands?**
+A: Junior hunters earn approximately €15,000-25,000 annually, often part-time or seasonal; senior hunters or self-employed can earn €35,000-45,000.
+
+**Q: Can foreign hunters immigrate to the Netherlands to work as hunters and trappers?**
+A: Very difficult; this occupation is not in shortage, requires local licenses and Dutch language skills, and usually does not offer work visa sponsorship.
+
+**Q: What licenses are needed to hunt in the Netherlands?**
+A: Must obtain a hunting license (through NVWA exam) and firearms permit, and comply with strict hunting seasons and species restrictions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hunter and Trapper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hunters and trappers in the Netherlands?**
-答：Entry-level hunters earn about €15,000-25,000 annually, often part-time or seasonal; senior or self-employed hunters can earn up to €35,000-45,000.
-
-**问：Can foreign hunters immigrate to the Netherlands to work as hunters and trappers?**
-答：Very difficult; this occupation is not on the shortage list, requires local licenses and Dutch language skills, and typically does not qualify for work visa sponsorship.
-
-**问：What licenses are required to hunt in the Netherlands?**
-答：You need a hunting license (passed through NVWA exam) and a firearms permit, plus adherence to strict hunting seasons and species restrictions.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

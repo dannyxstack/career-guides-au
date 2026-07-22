@@ -1,60 +1,90 @@
-# School Bus Monitors（School Bus Monitors）职业分析 · 美国
+# School Bus Monitors — career analysis · United States
 
-**职业代码：33-9094 – School Bus Monitors。**
+**Occupation code: 33-9094 (SOC)**
 
-School Bus Monitors maintain order among students on a school bus, assist with safe boarding and exiting, report behavioral issues, and perform pre/post-trip inspections and emergency evacuation preparations.
+School bus monitor maintains order among students on the bus, helps students board and exit safely, reports behavioral issues, and performs pre- and post-trip inspections and emergency evacuation preparations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常仅需高中毕业证或同等学历） |
+| High school diploma or equivalent | None | $0~$0 (Typically requires only a high school diploma or equivalent) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 基本教育要求 |
-| 背景调查 | 州或学区 | 必备 | 需通过犯罪背景审查 |
-| 急救与CPR认证 | 红十字会等 | 可选 | 部分学区要求 |
+| High school diploma or equivalent | School | Required | Basic educational requirements |
+| Background check | State or school district | Required | Must pass a criminal background check |
+| First aid and CPR certification | Red Cross, etc. | Optional | Some school districts require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 110,000。美国校车监控员岗位需求稳定，受学区和交通运输公司持续雇佣。预计就业增长约4%，与整体平均水平相当，但受地方教育预算影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 110,000. US school bus monitor positions have stable demand, with ongoing hiring by school districts and transportation companies. Employment growth is projected at about 4%, similar to the overall average but influenced by local education budgets.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 时薪约11-14美元 |
-| 中级（3-6年） | $28,000~$34,000 | 时薪约14-17美元 |
-| 高级（6年以上） | $34,000~$42,000 | 部分经验丰富者可升任主管 |
+| Median salary | $35,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Hourly wage approximately 11-14 USD |
+| Mid-level (3–6 years) | $28,000~$34,000 | Hourly wage about $14-$17 |
+| Senior (6+ years) | $34,000~$42,000 | Some experienced individuals can be promoted to supervisor |
+| average salary | $35,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径有限，通常从初级监控员起步，可晋升为车队主管或调度员，部分人转向校车驾驶员或运输管理岗位。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+School bus monitors are significantly affected by AI automation; core supervision and recording tasks can be reduced by automated systems, leading to decreased demand.
+
+Career progression paths are limited; typically start as junior monitor, can advance to fleet supervisor or dispatcher, some transition to school bus driver or transportation management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor student discipline and report anomalies via in-vehicle cameras and AI behavior analysis.
+- Automatically perform vehicle front and rear inspections (e.g., scanning license plates, tire condition) and generate electronic logs
+- Automated system provides emergency evacuation guidance and passenger counting, eliminating manual operation
+
+**Where AI augments the role:**
+
+- AI-assisted real-time identification of student behavior risks helps monitors intervene early
+- Automatically generate detailed behavioral reports, reducing paperwork and allowing monitors to focus on on-site management
+- AI voice assistant helps monitors answer common student questions, improving efficiency
+
+**Human moat:**
+
+- Human judgment and calming ability when handling sudden violent or medical emergencies
+- Build trust with students with special needs and provide emotional support
+- flexibly adjust contingency plans during extreme weather or system failures
+- Mediation and emotional management in complex interpersonal conflicts
+
+**Skills to build:**
+
+- Learn AI behavior analysis tools and monitoring system operation
+- Master emergency management and basic medical first aid skills
+- Improving skills for communicating with special needs children
+- Understand basic vehicle maintenance and safety inspection knowledge
+- Learn the basics of data analysis to audit the accuracy of AI reports
+
+**Key growth areas:**
 
 - Education
 - Transportation
@@ -63,62 +93,64 @@ School Bus Monitors maintain order among students on a school bus, assist with s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为该职业通常不需要学士学位。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 雇主可申请，但通常要求至少2年经验或培训，且需通过PERM劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable because this occupation typically does not require a bachelor's degree. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Employers can apply, but typically require at least 2 years of experience or training, and must go through the PERM labor certification process. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学School Bus Monitors？**
-- 喜欢与儿童打交道、有耐心且注重安全的人群
-- 寻求兼职或季节性工作的人员
-- 退休人员或希望轻松工作环境者
+**Who is suited**
+- People who enjoy working with children, are patient, and prioritize safety
+- People seeking part-time or seasonal work
+- Retirees or those seeking a relaxed work environment
 
-**谁不适合学School Bus Monitors？**
-- 追求高薪和晋升机会者
-- 无法适应嘈杂或混乱环境者
+**Who is not suited**
+- Those seeking high salary and promotion opportunities
+- Those who cannot tolerate noisy or chaotic environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of school bus monitors?**
+A: US school bus monitor salaries are low, typically between $22,000 and $42,000 per year, hourly rate about $11-21, depending on location.
+
+**Q: Can a school bus monitor apply for a US work visa or green card?**
+A: H-1B visas are typically difficult to obtain for this occupation due to low educational requirements. EB-3 green cards are theoretically possible but require employer proof of inability to find qualified US workers, and low salaries make actual applications rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（½☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 很低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-School Bus Monitors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for school bus monitors?**
-答：School bus monitors in the US earn between $22,000 and $42,000 annually, with hourly rates around $11-$21 depending on location.
-
-**问：Can school bus monitors get a US work visa or green card?**
-答：This occupation rarely qualifies for H-1B due to low educational requirements. EB-3 green card is theoretically possible but requires PERM labor certification and is uncommon given low wages.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

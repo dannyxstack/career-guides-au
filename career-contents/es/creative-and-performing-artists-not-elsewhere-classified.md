@@ -1,60 +1,96 @@
-# Creative and Performing Artists Not Elsewhere Classified（Creative and Performing Artists Not Elsewhere Classified）职业分析 · ES
+# Creative and Performing Artists Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2939 – Creative and Performing Artists Not Elsewhere Classified。**
+**Occupation code: 2939 (CNO)**
 
-Includes creative and performing artists not elsewhere classified, such as independent illustrators, street performers, and new media artists, often working as freelancers or on short-term contracts.
+This includes creative and performing artists not classified in other categories, such as independent illustrators, street performers, and new media artists, who often work as freelancers or on short-term contracts.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $300~$1,500（公立学校学费低，私立较高） |
-| 大学本科（Grado） | 4年（Grado） | $1,000~$5,000（公立大学约1000-2000欧元/年，私立较高） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $300~$1,500 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$5,000 (Public universities about €1,000-€2,000/year, private higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术/设计相关学位 | Universidad or Escuela de Arte | 可选 | 非强制，但有助于职业发展 |
-| 专业作品集 | 自我积累 | 可选 | 实际能力比证书更重要 |
+| Art/design-related degrees | Universidad or Escuela de Arte | Optional | Not mandatory, but beneficial for career development |
+| Professional Portfolio | Self-accumulation | Optional | Practical ability is more important than certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 15,000。西班牙文化创意产业持续增长，数字平台带来更多展示机会，但收入不稳定，竞争激烈。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. Spain's cultural and creative industries continue to grow, with digital platforms offering more opportunities for showcase, but income remains unstable and competition fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$18,000 | 收入不稳定，常为项目制 |
-| 中级（3-7年） | $18,000~$30,000 | 积累客户后收入提升 |
-| 高级（7年以上） | $30,000~$50,000 | 知名艺术家或项目管理 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$18,000 | Income is unstable and often project-based |
+| Mid-level (3–7 years) | $18,000~$30,000 | Revenue increases after accumulating customers |
+| Senior (7+ years) | $30,000~$50,000 | Renowned artists or project managers |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从自由艺术家逐步建立个人品牌，承接大型项目；部分进入画廊、演出公司或转向数字内容创作。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+AI compresses the basic tasks of illustrators and street performers (such as basic painting and arrangement) and amplifies creative ideation, cross-media integration, and personalized creation. However, high creativity and emotional expression remain an irreplaceable moat.
+
+Gradually build a personal brand from freelance artists to undertake large-scale projects; Some enter galleries, performance companies, or shift to digital content creation.
+
+**Tasks most exposed to AI:**
+
+- Basic illustration drawing and generation (such as bulk e-commerce illustrations)
+- Simple music arrangement and background music production
+- Automatic summarization and copywriting (such as artist statements)
+- Social media content scheduling and basic post-processing
+- Repetitive technical operations in digital art rendering
+
+**Where AI augments the role:**
+
+- AI painting tools (DALL· E. Midjourney) rapidly iterates concept sketches and style exploration
+- AI music arrangement assistants (such as Meta's MusicGen) assist in creating complex melodies and harmonies
+- Use natural language processing to generate project proposals, curatorial copy, and promotional materials
+- AI-driven personalized recommendation systems help artists precisely connect with fans and projects
+- Virtual reality/augmented reality combined with AI real-time interaction creates immersive performance experiences
+
+**Human moat:**
+
+- Original creative conception and deep artistic expression
+- Improvisational interaction and emotional resonance during live performances
+- A unique cross-cultural and cross-media perspective and narrative ability
+- Artist personal brand building and fan community management
+- Aesthetic judgment and critical thinking (such as curatorial decision-making)
+
+**Skills to build:**
+
+- AI art tools (such as Stable Diffusion, RunwayML)
+- Digital Media Production and Interaction Technology (VR/AR Basics)
+- Social media marketing and personal brand management
+- Project planning and cross-industry collaboration capabilities
+- Data literacy (analyzing audience feedback and trends)
+- Basic Knowledge of Copyright and Contracts (Protecting Originals)
+
+**Key growth areas:**
 
 - Digital creation
 - Freelance economy
@@ -63,66 +99,68 @@ Includes creative and performing artists not elsewhere classified, such as indep
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，但创意行业自由职业普遍，很难获得 |
-| Subclass Cuenta propia（Self-employed work permit） | 自雇签证，需证明有稳定客户和足够收入 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙逗留寻找工作，但艺术领域机会有限 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Requires employer sponsorship, but freelancing is common in the creative industry, making it difficult to obtain |
+| Subclass Cuenta propia (Self-employed work permit) | Self-employment visas require proof of stable clients and sufficient income |
+| Subclass Busqueda empleo (Job search visa) | Staying in Spain to look for work is allowed, but opportunities in the arts are limited |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Creative and Performing Artists Not Elsewhere Classified？**
-- 具备高度创意和自主性的人
-- 能接受收入不稳定且善于自我推广者
-- 擅长自由职业和多项目并行者
+**Who is suited**
+- People with high creativity and autonomy
+- Accepting unstable income and good at self-promotion
+- Skilled in freelance and multi-project parallelism
 
-**谁不适合学Creative and Performing Artists Not Elsewhere Classified？**
-- 追求稳定收入和固定工作时间者
-- 不擅长自我营销或网络社交者
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- Not good at self-marketing or online socializing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of creative artists in Spain?**
+A: Entry-level salaries are about 12,000-18,000 euros per year, intermediate about 18,000-30,000 euros per year, and senior salaries can exceed 50,000 euros, but income fluctuates greatly.
+
+**Q: How can foreign creative artists obtain a work visa in Spain?**
+A: Usually, an employer-sponsored (employed) or self-employed visa is required, but self-employment requires proof of stable income, which is more challenging.
+
+**Q: Does Spain have special visas for artists?**
+A: There is no specific artist visa; you can apply for the EU Blue Card (high salary) or the highly skilled talent visa, but usually requires a higher income threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Creative and Performing Artists Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for creative artists in Spain?**
-答：Entry-level approximately €12,000-18,000/year, mid-level €18,000-30,000, senior up to €50,000+, but income is volatile.
-
-**问：How can a foreign creative artist obtain a work visa in Spain?**
-答：Usually requires employer sponsorship (employed) or a self-employed visa, but self-employed requires proof of stable income, which is challenging.
-
-**问：Is there a special visa for artists in Spain?**
-答：No specific artist visa; EU Blue Card (high salary) or Highly Skilled Professional visa may apply but require high income thresholds.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

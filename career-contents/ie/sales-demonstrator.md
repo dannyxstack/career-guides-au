@@ -1,57 +1,93 @@
-# Sales Demonstrator（Sales Demonstrator）职业分析 · IE
+# Sales Demonstrator — career analysis · Ireland
 
-**职业代码：5242 – Sales Demonstrator。**
+**Occupation code: 5242 (ISCO08)**
 
-Demonstrates products at retail stores or exhibitions to attract customers and boost sales. Requires strong communication skills, no advanced degree needed.
+Demonstrate products at retail or trade shows to attract customers and boost sales. No higher education required, but good communication skills are needed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（通常只需高中文凭） |
-| 短期培训课程 | 1-3个月 | $500~$1,000（销售技巧或产品培训课程） |
+| High school graduation | No higher education required | $0~$0 (Usually requires only a high school diploma.) |
+| Short-term training course | 1-3 months. | $500~$1,000 (Sales skills or product training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主通常看重沟通能力和经验，而非证书 |
+| No mandatory qualification requirements | None | Optional | Employers often value communication skills and experience over certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰零售业就业稳定，但Sales Demonstrator岗位增长平缓。受电商影响，线下演示需求有限，但新品牌和展会仍提供机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. Retail employment in Ireland is stable, but Sales Demonstrator positions are growing slowly. Due to e-commerce, in-person demonstration demand is limited, but new brands and exhibitions still provide opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$26,000 | 多为兼职或底薪加佣金 |
-| 中级（2-5年） | $26,000~$32,000 | 含佣金，经验丰富者收入更高 |
-| 高级（5年以上） | $32,000~$40,000 | 团队主管或品牌代表，佣金较高 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$26,000 | Mostly part-time or base salary plus commission |
+| Intermediate (2-5 years) | $26,000~$32,000 | Includes commission; experienced workers earn more |
+| Senior (5+ years) | $32,000~$40,000 | team leader or brand representative, higher commission |
+| average salary | $29,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从销售演示员晋升为品牌代表、区域销售经理，或转向零售管理。积累产品知识后，可进入营销或培训领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Sales demonstrators' routine presentation and information delivery tasks are easily replaced by AI, but interpersonal interaction and on-site adaptability provide a moat; AI tools can enhance presentation effectiveness and customer analysis capabilities, resulting in a mixed assessment.
+
+Can advance from sales demonstrator to brand representative, regional sales manager, or move into retail management. With product knowledge, can enter marketing or training fields.
+
+**Tasks most exposed to AI:**
+
+- Standardized memorization and recitation of product parameters and scripts
+- Auto-play product videos and animations on electronic screens
+- Generate and distribute standardized product promotional materials
+- Record basic customer information and intentions (CRM auto-entry)
+- Answer common questions about product specifications (chatbot)
+
+**Where AI augments the role:**
+
+- Immersive product virtual demonstrations using AR/VR
+- Analyze customer behavior data through AI to adjust presentation focus in real-time
+- Use voice assistants to provide synchronized multilingual explanations
+- Generate personalized presentation scripts and visual aids with AI
+- Using emotion recognition tools to optimize interaction rhythm and persuasion techniques
+
+**Human moat:**
+
+- Live interaction and relationship-building skills with clients
+- Adjust strategies based on client micro-expressions and non-verbal feedback
+- Personalized communication that creates emotional resonance and trust
+- Ability to handle complex complaints or unexpected situations
+- Tasks requiring comprehensive judgment, such as cross-product portfolio recommendations
+
+**Skills to build:**
+
+- Basic data analysis and customer insight tools
+- AR/VR content production and interaction design
+- AI presentation script generation tools (e.g., ChatGPT plugins)
+- Emotion recognition and communication psychology
+- Social media and live demonstration skills
+- CRM and Marketing Automation Platform Operation
+
+**Key growth areas:**
 
 - Retail
 - Event marketing
@@ -60,68 +96,67 @@ Demonstrates products at retail stores or exhibitions to attract customers and b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3.4万欧元的非紧缺职业，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 年薪需超过3.4万欧元，通常不适用于此职业。 |
-| Subclass Atypical Working Sch（Atypical Working Scheme） | 短期工作（如展会），需雇主申请。 |
+| Subclass General Employment P (General Employment Permit) | For non-shortage occupations with annual salary below €34,000, employer sponsorship required. |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary must exceed €34,000; usually not applicable to this occupation |
+| Subclass Atypical Working Sch (Atypical Working Scheme) | Short-term work (e.g., exhibitions), requires employer application. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Demonstrator？**
-- 沟通能力强、外向的人
-- 喜欢与人互动、有销售热情的人
-- 能适应灵活工作时间的人
-
-**谁不适合学Sales Demonstrator？**
-- 不善于面对拒绝的人
-- 偏好稳定办公室环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Outgoing person with strong communication skills
+- People who enjoy interacting with others and have a passion for sales
+- Someone who can adapt to flexible working hours.
+
+**Who is not suited**
+- Not good at handling rejection
+- People who prefer a stable office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Sales Demonstrator?**
+A: Entry-level annual salary around €22,000–€26,000, senior up to €40,000, usually including commission.
+
+**Q: How can non-EU citizens obtain an Irish Sales Demonstrator work visa?**
+A: This occupation is not in shortage; must apply through a General Employment Permit, with the employer needing to prove inability to hire locally. Annual salary must exceed €27,000.
+
+**Q: How can a Sales Demonstrator advance?**
+A: Can progress to brand ambassador, regional sales manager, or transition to the marketing department
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sales Demonstrator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Sales Demonstrator?**
-答：Entry-level salary is around €22,000-€26,000, experienced up to €40,000, often including commission.
-
-**问：How can non-EU citizens get a work visa for Sales Demonstrator in Ireland?**
-答：This job is not on the critical skills list; apply for a General Employment Permit. Employer must prove no suitable EU candidate. Salary threshold €27,000.
-
-**问：How can a Sales Demonstrator advance?**
-答：Progress to brand ambassador, regional sales manager, or transfer to marketing.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

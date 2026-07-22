@@ -1,60 +1,96 @@
-# Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic（Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4072 – Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4072 (SOC)**
 
-Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to produce metal or thermoplastic parts or products. Work is typically in factory settings, requiring physical stamina and safety awareness.
+Set up, operate, or tend metal or plastic molding, coremaking, or casting machines to produce metal or thermoplastic parts or products. Work environment is typically a factory floor, requiring physical labor and safety awareness.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（公立高中免费） |
-| 职业培训/学徒制 | 1-2年 | $5,000~$15,000（社区学院或技术学校费用） |
+| High school graduation | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training / apprenticeship | 1-2 years | $5,000~$15,000 (Community college or technical school fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 大多数雇主要求 |
-| 在职培训 | 雇主 | 必备 | 通常为期数月 |
+| High school diploma or equivalent | School | Required | Required by most employers |
+| On-the-job training | Employer | Required | Usually several months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。美国劳工统计局预计该职业就业人数将缓慢下降，主要由于自动化和离岸外包。但仍有稳定需求，尤其是在汽车和制造业领域。岗位竞争一般，有经验的工人更受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. The U.S. Bureau of Labor Statistics projects slow decline in employment for this occupation, mainly due to automation and offshoring. However, steady demand remains, especially in automotive and manufacturing. Competition is moderate; experienced workers are preferred
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起薪较低 |
-| 中级（3-7年） | $35,000~$44,000 | 有经验后薪资增长 |
-| 高级（7年以上） | $44,000~$54,000 | 高级操作员或班组长 |
+| Median salary | $44,350 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Low starting salary |
+| Mid-level (3–7 years) | $35,000~$44,000 | Salary growth after gaining experience |
+| Senior (7+ years) | $44,000~$54,000 | Senior operator or shift supervisor |
+| average salary | $45,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 通常从机器操作员起步，积累经验后可晋升为高级操作员、班组长或模具技术员。也可通过职业培训获得更高技能，转向模具设计或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The nature of work for Metal and Plastic Mould, Core and Casting Machine Operators is mixed: AI and automation will replace many standardized operational tasks, but will also enhance capabilities, such as optimizing production through AI predictive maintenance, improving quality control and efficiency. Thus, automation is high but human experience remains indispensable.
+
+Typically start as machine operators, gain experience to advance to senior operator, team leader, or mold technician. Can also obtain higher skills through vocational training and move into mold design or quality control.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine operating status (parameters such as temperature and pressure)
+- Perform repetitive loading and unloading operations
+- Perform standard quality checks (e.g., dimensions, appearance)
+- Record production data and fill out work orders
+- Perform simple machine adjustments (e.g., temperature, speed adjustments)
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance systems to detect equipment failures early
+- Use AI to optimize process parameters to improve yield
+- Use digital twin technology to simulate and optimize production processes
+- Automatically identify defects through AI visual inspection systems
+- Use AI scheduling systems to optimize production scheduling and material management.
+
+**Human moat:**
+
+- Handle debugging and troubleshooting of complex molds
+- Conduct trials and optimize process parameters for new materials
+- Making judgments and decisions in emergencies or non-standard conditions
+- Maintain and manage automation systems to ensure safety
+- Cross-departmental communication and coordination to resolve production bottlenecks
+
+**Skills to build:**
+
+- Industrial robot programming and commissioning (e.g., FANUC, ABB)
+- Data analysis and statistical process control (SPC)
+- PLC and SCADA system operation
+- Fundamentals of 3D printing and additive manufacturing
+- Python or R for production data analysis
+- Internet of Things (IoT) device configuration and maintenance
+
+**Key growth areas:**
 
 - Automation
 - Offshoring
@@ -63,65 +99,67 @@ Set up, operate, or tend metal or plastic molding, casting, or coremaking machin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因为该职业通常不要求学士学位。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能适用于有经验的操作员，但需要雇主担保且劳工证流程复杂。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable, as this occupation usually does not require a bachelor's degree. |
+| Subclass EB-3 (EB-3 Skilled Workers) | May be applicable for experienced operators, but requires employer sponsorship and complex labor certification process. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 喜欢动手操作机器的人
-- 能适应工厂环境加班的人
-- 注重工作稳定性的人
+**Who is suited**
+- People who enjoy hands-on machine operation.
+- People who can adapt to factory environment and overtime
+- People who value job stability
 
-**谁不适合学Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 不喜欢体力劳动的人
-- 希望快速晋升或高薪的人
+**Who is not suited**
+- People who dislike physical labor.
+- Individuals seeking rapid promotion or high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Salary range between $28,000-$54,000, depending on experience and location. Entry-level around $30,000, senior around $50,000.
+
+**Q: Is this occupation suitable for immigrating to the United States?**
+A: Not suitable. This occupation typically does not meet H-1B requirements; EB-3 green card path is difficult and time-consuming, with low employer sponsorship willingness.
+
+**Q: What are the future employment prospects?**
+A: Negative employment outlook; jobs are expected to decline. Automation replaces some tasks, but experienced operators are still needed for equipment maintenance in manufacturing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Salary ranges from $28,000 to $54,000, depending on experience and location. Entry-level around $30,000, senior around $50,000.
-
-**问：Is this occupation suitable for immigration to the US?**
-答：No. It typically does not qualify for H-1B, and EB-3 green card process is difficult with low employer sponsorship.
-
-**问：What is the future job outlook?**
-答：Negative outlook with projected decline. Automation replaces some jobs, but experienced operators are still needed for machine maintenance.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

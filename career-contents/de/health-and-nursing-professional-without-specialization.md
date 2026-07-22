@@ -1,61 +1,97 @@
-# Health and Nursing Professional (without specialization)（Health and Nursing Professional (without specialization)）职业分析 · DE
+# Health and Nursing Professional (without specialization) — career analysis · Germany
 
-**职业代码：8130 – Health and Nursing Professional (without specialization)。**
+**Occupation code: 8130 (KldB)**
 
-Health and nursing professionals provide patient care, basic medical procedures, health monitoring, and rehabilitation support, working in German hospitals, nursing homes, and clinics as a core part of the healthcare system.
+Health and nursing professionals are responsible for patient care, basic medical procedures, health monitoring, and rehabilitation support, working in German hospitals, nursing homes, and clinics. They are the core of the healthcare system.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制护理培训 | 3年（双元制） | —（培训期间有工资，无需学费） |
-| 护理本科（应用科学大学） | 3-4年（全日制） | —（公立大学每学期杂费约150-300欧元） |
+| Dual vocational nursing training | 3 years (dual system) | $0~$0 (Paid training, no tuition fees) |
+| Bachelor of Nursing (University of Applied Sciences) | 3-4 years (full-time) | $0~$1,500 (Public universities charge semester fees of approximately €150-300) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国国家注册护士执照（Erlaubnis zur Führung der Berufsbezeichnung） | 各州卫生局（Gesundheitsamt） | 必备 | 通过国家考试后获得，海外资格需认证（Anerkennung） |
-| 护理职业培训证书（Ausbildung in der Krankenpflege） | 职业培训学校（Berufsfachschule） | 必备 | 双元制培训三年，通过国家考试 |
-| 资质认证（Anpassungsmaßnahme oder Kenntnisprüfung） | 各州主管机构 | 必备 | 海外护士需通过语言B2及专业知识和实践考试 |
+| German national registered nurse license (Erlaubnis zur Führung der Berufsbezeichnung) | State health authorities ('Gesundheitsamt') | Required | Obtained after passing national exams; overseas qualifications require recognition (Anerkennung) |
+| Vocational training certificate in nursing (Ausbildung in der Krankenpflege) | Vocational training school (Berufsfachschule) | Required | Three years of dual training, passing the national examination |
+| Qualification recognition (Anpassungsmaßnahme oder Kenntnisprüfung) | State regulating authorities | Required | Overseas nurses must pass language B2 and professional knowledge and practice exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 1,200,000。德国面临严重护理人员短缺，预计到2030年缺口达30万。就业市场稳定，工作机会丰富，尤其养老护理领域需求旺盛。
+**Job demand: very high (★★★★★).** National workforce approx. 1,200,000. Germany faces a serious nursing shortage, with an estimated gap of 300,000 by 2030. The job market is stable with abundant opportunities, especially in aged care.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，视医院或机构而定 |
-| 中级（4-9年） | $40,000~$50,000 | 税前年薪，含夜班津贴等补贴 |
-| 高级（10年以上或专科） | $50,000~$65,000 | 税前年薪，专科护士或管理层更高 |
+| Median salary | $52,272 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary, depending on hospital or institution |
+| Intermediate (4-9 years) | $40,000~$50,000 | Pre-tax annual salary, including night shift allowance and other subsidies |
+| Senior (10+ years or specialist) | $50,000~$65,000 | Annual salary before tax; higher for specialist nurses or management |
+| average salary | $53,532 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从注册护士晋升为专科护士（如重症监护）、护理部门主管或护理经理，也可通过进修成为护理教育者或高级执业护士。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Enrolled nurses' overall job content is not easily fully replaced by AI, but administrative, clerical, and some monitoring tasks face automation risks; meanwhile, AI can improve patient monitoring and decision support efficiency, requiring proactive learning of digital tools to remain competitive
+
+Can progress from registered nurse to specialist nurse (e.g., intensive care), nursing department head or nursing manager, or through further study become a nursing educator or advanced practice nurse.
+
+**Tasks most exposed to AI:**
+
+- Record vital signs and enter electronic medical records
+- Routine medication reconciliation and dispensing reminders
+- Screening and responding to basic patient monitoring alarms
+- Automatic adjustment of scheduling and care plans
+- Medical supply inventory management and auto-replenishment
+
+**Where AI augments the role:**
+
+- AI-assisted clinical decision-making: recommending nursing plans based on patient data
+- Smart monitoring systems: identifying early signs of deterioration and issuing alerts
+- Automatically generate nursing reports and handover documents
+- Virtual training and simulated scenario drills
+- Multilingual Real-Time Translation Assistance and Communication with Multicultural Patients
+
+**Human moat:**
+
+- Clinical judgment and complex condition assessment
+- Human care and psychological support
+- Fine hand motor skills (e.g., dressing changes, injections)
+- Cross-team collaboration and communication
+- Decision-making and adaptability in emergency situations
+
+**Skills to build:**
+
+- Electronic health record systems and nursing informatics
+- Basic data analysis and use of clinical decision support tools
+- Remote monitoring and digital health technology
+- Improving communication and empathy skills
+- Emergency and life support training
+- Cross-cultural nursing skills
+
+**Key growth areas:**
 
 - Demand
 - Aging population
@@ -64,67 +100,69 @@ Health and nursing professionals provide patient care, basic medical procedures,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker (Fach（Skilled Worker Visa） | 适用于已获得德国认可的护理资格，雇主担保，德语B2要求。 |
-| Subclass Recognition Partners（Recognition Partnership Visa） | 允许未完成认证的海外护士先赴德工作，在雇主支持下逐步完成资质认证。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪护理人员（年薪低于门槛但属紧缺职业），需大学学历或等同资格。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，需证明语言能力和经济来源。 |
+| Subclass Skilled Worker (Fach (Skilled Worker Visa) | Applicable to those who have recognized nursing qualifications in Germany, employer sponsorship, and German B2 requirement. |
+| Subclass Recognition Partners (Recognition Partnership Visa) | Allows overseas nurses who have not completed certification to work in Germany first, and gradually complete qualification certification with employer support. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-paid nursing staff (annual salary below threshold but in shortage occupation), requires university degree or equivalent qualification. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to seek work; language skills and financial means must be proven. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health and Nursing Professional (without specialization)？**
-- 有耐心、同理心，喜欢与人打交道
-- 能承受轮班和体力劳动
-- 愿意在德国居住并学习德语至B2
-
-**谁不适合学Health and Nursing Professional (without specialization)？**
-- 不习惯夜班和高压工作环境
-- 对血液、伤口等医疗场景有强烈恐惧
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and enjoys interacting with people
+- Able to handle shift work and physical labor
+- Willing to live in Germany and learn German to B2 level
+
+**Who is not suited**
+- Not accustomed to night shifts and high-pressure work environments
+- Has a strong fear of medical scenes such as blood and wounds
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a registered nurse in Germany?**
+A: According to collective agreements, the annual pre-tax salary for junior nurses is approximately 30,000-40,000 euros, reaching 45,000 euros with night and weekend allowances.
+
+**Q: How can overseas nurses immigrate to Germany?**
+A: Main pathways: complete qualification recognition (Anerkennung) then apply for Skilled Worker Visa, or use Recognition Partnership to work first and then get recognition. Requires German B2 and an employer contract.
+
+**Q: Are Chinese nursing qualifications recognized in Germany?**
+A: Must be assessed by the German competent authority, usually requiring supplementary courses or participation in adaptation training (Anpassungslehrgang) and passing a knowledge examination (Kenntnisprüfung).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Health and Nursing Professional (without specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for registered nurses in Germany?**
-答：According to collective agreements, entry-level nurses earn around €30,000-€40,000 gross annually, plus shift allowances up to €45,000.
-
-**问：How can foreign nurses immigrate to Germany?**
-答：Main paths: Complete recognition (Anerkennung) then apply for Skilled Worker Visa, or via Recognition Partnership to work first. Requires German B2 and a job offer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

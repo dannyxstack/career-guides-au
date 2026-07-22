@@ -1,58 +1,94 @@
-# Information technology trainers（Information technology trainers）职业分析 · UK
+# Information technology trainers — career analysis · United Kingdom
 
-**职业代码：3573 – Information technology trainers。**
+**Occupation code: 3573 (SOC)**
 
-Information technology trainers provide instruction in computer use for professional and personal purposes, and plan, organize, and advise on IT training within organizations.
+Information technology trainers provide computer usage instruction and plan/organize IT training courses in industrial, commercial, and other institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$20,000（英国/欧盟学生每年9250英镑，国际学生约1.5-2万英镑） |
-| 研究生证书/文凭 | 1年 | $5,000~$15,000（部分培训认证课程，费用不等） |
+| Bachelor's degree | 3 years | $9,250~$20,000 (UK/EU students: £9,250/year; international students: approx. £15,000–20,000/year.) |
+| Graduate certificate/diploma | 1 year | $5,000~$15,000 (Partial training certification courses, fees vary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术或相关领域本科学位 | 大学 | 可选 | 计算机科学、IT或教育技术等 |
-| 教学或培训认证 | 如City & Guilds | 可选 | 如Preparing to Teach in the Lifelong Learning Sector |
+| Bachelor's degree in information technology or a related field | University | Optional | Computer science, IT, or educational technology, etc. |
+| Teaching or training certification | e.g., City & Guilds | Optional | Such as Preparing to Teach in the Lifelong Learning Sector |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。随着数字化转型加速，企业对员工IT技能培训需求持续增长，该职业就业前景稳定。预计未来五年岗位数量将小幅增长。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. With the acceleration of digital transformation, corporate demand for employee IT skills training continues to grow, and the employment prospects for this occupation are stable. The number of positions is expected to increase slightly over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 通常包括培训支持角色 |
-| 中级（3-7年） | $30,000~$45,000 | 独立负责培训课程设计与交付 |
-| 高级（7年以上） | $45,000~$60,000 | 高级培训师或培训经理 |
+| Median salary | $38,981 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | Usually includes training support roles |
+| Mid-level (3–7 years) | $30,000~$45,000 | Independently responsible for training course design and delivery |
+| Senior (7+ years) | $45,000~$60,000 | Senior trainer or training manager |
+| average salary | $40,426 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级培训师可晋升为高级培训师、培训经理或学习与发展主管；也可转向IT咨询或教学设计岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of information technology trainers will be partially automated, but human roles remain important due to interpersonal interaction and course design needs. AI can handle knowledge delivery and assessment, but personalized guidance and adapting to learner needs remain human-led.
+
+Junior trainers can advance to senior trainer, training manager, or learning and development supervisor; can also shift to IT consulting or instructional design roles.
+
+**Tasks most exposed to AI:**
+
+- Write and update standard training manuals and documentation
+- Create and score basic quizzes and assessments
+- FAQ-style replies for common technical questions
+- Record and edit basic training videos
+- Track student progress and generate learning reports
+
+**Where AI augments the role:**
+
+- Using AI to analyze student learning data, identify knowledge gaps, and customize subsequent training
+- Provides instant, personalized learning support through AI-driven virtual assistants
+- Use AI to generate interactive simulations and virtual laboratory environments
+- Expand training audiences with AI translation and multilingual support
+- Using AI to automatically update training content to keep up with the latest technology changes
+
+**Human moat:**
+
+- Deep understanding of adult learning principles and teaching methods
+- Coaching skills to build trust and communicate face-to-face
+- Flexible adjustments to accommodate different learning styles and special needs
+- Assess complex, open-ended issues and provide in-depth feedback
+- The ability to combine technical knowledge with organizational strategic goals
+
+**Skills to build:**
+
+- Use of AI-assisted learning tools (e.g., adaptive learning platforms)
+- Data analysis basics for evaluating training effectiveness.
+- Content creation and multimedia production.
+- Change Management and Guidance Skills
+- Learning Experience Design (LXD)
+- Ability to continuously learn and quickly master new technologies
+
+**Key growth areas:**
 
 - Digital Transformation
 - Upskilling
@@ -61,66 +97,65 @@ Information technology trainers provide instruction in computer use for professi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 若雇主担保，可申请技术工人签证，适用IT培训师（SOC 3573）。 |
-| Subclass Global Talent（Global Talent Visa） | 若在数字技术领域有杰出成就，可申请全球人才签证。 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请毕业生签证，工作2-3年积累经验。 |
-| Subclass Scale-up（Scale-up Worker Visa） | 若任职于符合条件的快速增长企业，可申请Scale-up签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | If employer-sponsored, can apply for Skilled Worker visa, applicable for IT trainers (SOC 3573). |
+| Subclass Global Talent (Global Talent Visa) | Outstanding achievements in digital technology can qualify for a Global Talent visa. |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply for a Graduate Visa to gain 2-3 years of work experience. |
+| Subclass Scale-up (Scale-up Worker Visa) | If employed at a qualifying fast-growing business, you may apply for a Scale-up visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information technology trainers？**
-- 喜欢教学和沟通的人
-- 具备IT背景且乐于分享知识的人
-- 有耐心和组织能力的人
-
-**谁不适合学Information technology trainers？**
-- 不愿频繁与人互动者
-- 对重复性培训内容感到厌倦者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy teaching and communication
+- People with IT background who enjoy sharing knowledge
+- Patient and organized individuals
+
+**Who is not suited**
+- Those who are unwilling to frequently interact with people
+- Those who are bored with repetitive training content
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an IT trainer?**
+A: Junior approx. £22,000–£30,000, mid-level £30,000–£45,000, senior £45,000–£60,000, depending on industry and employer.
+
+**Q: Can an IT trainer apply for a skilled worker visa?**
+A: Yes, this occupation is on the list of eligible occupations, but salary and employer sponsorship requirements must be met.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Information technology trainers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for information technology trainers?**
-答：Entry-level: £22,000-£30,000; Mid-level: £30,000-£45,000; Senior: £45,000-£60,000.
-
-**问：Can information technology trainers apply for a Skilled Worker visa?**
-答：Yes, the occupation is eligible for sponsorship, subject to salary and employer requirements.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

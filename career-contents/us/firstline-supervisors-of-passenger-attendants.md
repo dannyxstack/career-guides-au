@@ -1,60 +1,95 @@
-# First-Line Supervisors of Passenger Attendants（First-Line Supervisors of Passenger Attendants）职业分析 · 美国
+# First-Line Supervisors of Passenger Attendants — career analysis · United States
 
-**职业代码：53-1044 – First-Line Supervisors of Passenger Attendants。**
+**Occupation code: 53-1044 (SOC)**
 
-Supervise and coordinate activities of passenger attendants, including flight attendant supervisors. Ensure passenger safety, comfort, and satisfaction while managing schedules and resources.
+Supervise and coordinate passenger service staff activities, including flight attendant supervisors. Ensure passenger safety, comfort, and satisfaction, and manage schedules and resources.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无要求 | —（通常要求高中毕业） |
-| 副学士学位 | 2年 | $10,000~$30,000（相关领域如旅游管理更有利） |
+| High school diploma or equivalent | No requirements | $0~$0 (Usually requires high school graduation) |
+| Associate degree | 2 years | $10,000~$30,000 (Related fields like tourism management are more advantageous) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航空安全培训 | 美国联邦航空管理局(FAA)或雇主 | 必备 | 雇主通常提供，涉及紧急程序和安全知识 |
-| 领导力培训 | 雇主或专业机构 | 可选 | 部分雇主提供内部培训计划 |
+| Aviation safety training. | US Federal Aviation Administration (FAA) or employer | Required | Typically provided by employers, covering emergency procedures and safety knowledge. |
+| Leadership training | Employer or professional institution | Optional | Some employers offer internal training programs |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,800。航空旅行需求持续增长，预计2023-2033年就业增长约10%，高于所有职业平均水平。但行业波动性较大，受经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,800. Air travel demand continues to grow; projected employment growth of about 10% from 2023-2033, higher than all occupations average. However, the industry is volatile and affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常为小型航空公司或支线 |
-| 中级（3-7年） | $55,000~$75,000 | 主流航空公司主管 |
-| 高级（7年以上） | $75,000~$100,000 | 大型航空公司或国际航线主管 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Usually for small airlines or regional carriers |
+| Mid-level (3–7 years) | $55,000~$75,000 | Mainstream airline supervisor |
+| Senior (7+ years) | $75,000~$100,000 | Senior Manager of Large Airlines or International Routes |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从乘客服务人员（如空乘）晋升为主管，之后可晋升为服务经理或运营经理。积累经验后也可转向培训或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will handle large volumes of documentation, scheduling, and inquiries, but onboard personal safety, emotional support, complex conflict resolution, and multilingual communication still require humans; demand on Asia-Pacific routes may even increase due to Chinese language service needs.
+
+Typically promoted from passenger service staff (e.g., flight attendant) to supervisor, then to service manager or operations manager. With experience, can also move into training or management roles.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates flight briefings and safety demonstration videos
+- AI chatbots handle routine passenger inquiries and ticket changes
+- AI analyzes passenger emotions in real time and pushes personalized service suggestions
+- AI-driven automated scheduling and fatigue management optimization
+- AI conducts crew training assessments and compliance checks
+
+**Where AI augments the role:**
+
+- AI provides real-time multilingual translation assistance to enhance communication efficiency with foreign travelers
+- AI enhances emergency drill quality by simulating unexpected situations through cockpit sensors
+- AI analysis of passenger feedback data to assist in optimising service processes
+- AI automatically records service operations, reducing paperwork burden
+- AI providing personalized passenger profiles for more precise care services
+
+**Human moat:**
+
+- Human judgment and handling of in-flight emergencies such as illness, fire, hijacking
+- Emotional reassurance and conflict resolution for anxious, intoxicated, or non-compliant passengers
+- Command capability to organize orderly passenger evacuation during emergencies
+- Discerning subtle needs and providing value-added services with a personal touch in multicultural contexts.
+- Mandated safety duties (e.g., closing doors, checking equipment)
+
+**Skills to build:**
+
+- Proficient in AI cabin management systems (e.g., SkyPro, AeroCRS)
+- Learning basic data analysis to interpret passenger satisfaction reports
+- Advanced first aid and crisis management skills (e.g., CFTE advanced training)
+- Enhancing cross-cultural communication and multilingual service skills (e.g., Mandarin + Cantonese)
+- Learn digital emergency simulation tools (VR/AR evacuation drills)
+- Obtain in-flight health care certification (such as Flight Attendant First Aider)
+
+**Key growth areas:**
 
 - Air travel recovery
 - Customer service focus
@@ -63,65 +98,67 @@ Supervise and coordinate activities of passenger attendants, including flight at
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 理论可行但极少：主管职位通常不满足专业职业要求，仅限特殊技能或管理培训项目 |
-| Subclass L-1（L-1 Intracompany Transferee） | 国际航空公司内部调动的可能路径，需满足高管/经理条件 |
+| Subclass H-1B (H-1B Specialty Occupations) | Theoretically possible but very rare: Supervisor positions typically do not meet professional occupation requirements, limited to special skills or management training programs |
+| Subclass L-1 (L-1 Intracompany Transferee) | Possible path for international airline internal transfer, requiring executive/manager conditions. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Passenger Attendants？**
-- 善于沟通和领导团队的人
-- 热爱航空旅行和客户服务的人
-- 能适应弹性排班和压力环境的人
+**Who is suited**
+- Good at communication and team leadership
+- People who love air travel and customer service
+- Able to adapt to flexible scheduling and stressful environments
 
-**谁不适合学First-Line Supervisors of Passenger Attendants？**
-- 不善于处理冲突和紧急情况的人
-- 无法接受频繁出差和不规律作息的人
+**Who is not suited**
+- People who are not good at handling conflict and emergency situations
+- Those unable to tolerate frequent travel and irregular hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a passenger services supervisor?**
+A: According to U.S. Bureau of Labor Statistics, the median annual salary for airline flight attendant supervisors in 2023 was about $65,000, ranging from $45,000 to $100,000 depending on airline size and experience.
+
+**Q: Can foreigners immigrate to the US through this occupation?**
+A: Very difficult. This occupation is not common under H-1B professional occupation pathways; L-1 intra-company transfer may apply for international airlines, but green card applications typically require employer sponsorship and labor certification is hard to obtain.
+
+**Q: What is the employment outlook for this occupation in the next ten years?**
+A: Aviation recovery drives demand with projected 10% growth, but the industry is vulnerable to economic downturns and pandemics. Promotion opportunities are limited, mainly through internal promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-First-Line Supervisors of Passenger Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for first-line supervisors of passenger attendants?**
-答：According to BLS, the median annual wage for supervisors of flight attendants was about $65,000 in 2023, with a range of $45,000 to $100,000 based on airline size and experience.
-
-**问：Are there immigration pathways for foreigners in this occupation?**
-答：Very limited. H-1B is rare as the occupation is not typically considered a specialty occupation. L-1 intracompany transfer may be possible for international airlines. Green card sponsorship is difficult due to labor certification requirements.
-
-**问：What is the job outlook for this occupation over the next decade?**
-答：Driven by air travel recovery, employment is projected to grow 10% but is vulnerable to economic downturns. Advancement opportunities are limited and mainly internal.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

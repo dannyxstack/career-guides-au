@@ -1,58 +1,93 @@
-# Supervisors, motor vehicle assembling（Supervisors, motor vehicle assembling）职业分析 · 加拿大
+# Supervisors, motor vehicle assembling — career analysis · Canada
 
-**职业代码：92020 – Supervisors, motor vehicle assembling。**
+**Occupation code: 92020 (NOC)**
 
-Supervisors in motor vehicle assembling oversee and manage assembly line operations in automotive manufacturing, ensuring production efficiency and product quality. They coordinate workers, assign tasks, monitor processes, and troubleshoot technical issues.
+An automotive assembly supervisor oversees and manages the assembly line operations in car manufacturing, ensuring production efficiency and product quality. They coordinate workers, assign tasks, monitor production processes, and solve technical issues.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立中学免费） |
-| 行业认证/学徒 | 2-4年 | $2,000~$10,000（含学徒期间工资） |
+| High school diploma | 12 years | $0~$0 (Free public secondary school) |
+| Industry certification/apprenticeship | 2-4 years | $2,000~$10,000 (Including apprenticeship wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 汽车装配工认证 | 省级学徒机构 | 可选 | 非强制但普遍要求 |
-| 主管培训证书 | 社区学院或行业协会 | 可选 | 如Lean Manufacturing或Leadership课程 |
+| Automotive assembler certification | Provincial apprenticeship authority. | Optional | Not mandatory but commonly required |
+| Supervisor training certificate | Community colleges or industry associations | Optional | Such as Lean Manufacturing or Leadership courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 6,500。加拿大汽车制造业集中在安大略省，受全球供应链和电动汽车转型影响。未来就业稳定，但自动化可能减少低端岗位。经验丰富的 supervisors 需求因退休更替而持续。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 6,500. Canada's automotive manufacturing is concentrated in Ontario, affected by global supply chains and EV transition. Future employment stable, but automation may reduce low-end jobs. Experienced supervisors are in demand due to retirement replacement.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 助理主管或小型工厂 |
-| 中级（3-6年） | $55,000~$75,000 | 一般主管 |
-| 高级（6年以上） | $75,000~$95,000 | 高级主管或大型工厂 |
+| Median salary | $72,010 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Assistant manager or small factory |
+| Mid-level (3–6 years) | $55,000~$75,000 | General supervisor |
+| Senior (6+ years) | $75,000~$95,000 | Senior supervisor or large factory |
+| average salary | $72,800 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从装配线工人晋升至主管，通常需要数年经验和相关证书。可进一步晋升至生产经理或工厂运营岗位。参与电动汽车培训将提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The supervisory, scheduling, and quality control responsibilities of an automotive assembly supervisor are difficult to fully replace with AI, but AI will significantly enhance their data analysis and process optimization capabilities; at the same time, some standardized supervisory tasks may be taken over by automation systems, accelerating the upgrade of job skill requirements.
+
+Promotion from assembly line worker to supervisor typically requires several years of experience and relevant certifications. Further advancement to production manager or plant operations is possible. Participating in electric vehicle training will enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Real-time production status monitoring and anomaly alerts based on sensor data (automated system takeover)
+- Automatic generation and assignment of standard work orders (AI scheduling system)
+- Automated writing and archiving of routine quality inspection reports (AI-generated text)
+- Automatic recording and processing of worker attendance and hours (IoT and HR system integration)
+
+**Where AI augments the role:**
+
+- Analyze historical production data using AI to optimize assembly line takt time and workstation layout, improving efficiency
+- Using computer vision for quality inspection, quickly identifying defects and tracing process issues
+- Leverage AI predictive maintenance systems to schedule equipment repairs in advance, reducing downtime.
+- Use natural language processing to generate daily production reports and improvement suggestions
+- Provide workers with real-time assembly guidance and remote expert support via augmented reality (AR) glasses
+
+**Human moat:**
+
+- On-site personnel management and conflict resolution, requiring interpersonal sensitivity and authority
+- Rapid decision-making and resource coordination in emergencies, such as sudden production line failures
+- Cross-functional communication and negotiation with engineers, suppliers, and clients
+- Intuition and experience-based judgment for unstructured problems (e.g., improving worker habits)
+- On-site supervision of safety regulations and cultivation of safety culture
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Python/Pandas, Power BI)
+- Automation system operation and maintenance (e.g., basics of PLC, SCADA)
+- Lean production and Six Sigma methodology
+- Process optimisation skills such as project management and agile management.
+- Application of AI tools (e.g., computer vision quality inspection software, scheduling AI).
+- Cross-cultural communication and multilingual ability
+
+**Key growth areas:**
 
 - electric vehicle transition
 - automation integration
@@ -61,65 +96,64 @@ Supervisors in motor vehicle assembling oversee and manage assembly line operati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Federal Skilled Worker / Canadian Experience Class） | 若满足一年以上相关工作经验（NOC TEER 0/1/2/3），可通过快速通道申请永久居民。 |
-| Subclass PNP（Provincial Nominee Program） | 安大略省等省份可能针对制造业主管优先提名。需满足省提名要求。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，尤其在有技能短缺时。 |
+| Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | If you have over one year of relevant work experience (NOC TEER 0/1/2/3), you can apply for permanent residence via Express Entry. |
+| Subclass PNP (Provincial Nominee Program) | Provinces such as Ontario may prioritize nominations for manufacturing supervisors. Must meet provincial nomination requirements. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, especially where skill shortages exist. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, motor vehicle assembling？**
-- 有汽车制造或工业管理经验者
-- 动手能力强且善于团队协调
-- 愿意在安大略省等制造业集中地区工作
-
-**谁不适合学Supervisors, motor vehicle assembling？**
-- 偏好办公室工作而非生产环境
-- 不适应倒班和体力劳动
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with experience in automotive manufacturing or industrial management
+- Strong hands-on skills and good at team coordination
+- Willing to work in manufacturing hubs such as Ontario
+
+**Who is not suited**
+- Prefers office work over production environment
+- Not suited to shift work and physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an automobile assembly supervisor?**
+A: Entry level about CA$45-55k, mid-level CA$55-75k, senior CA$75-95k. Ontario pays higher, influenced by factory size and experience.
+
+**Q: Can I become an automotive assembly supervisor in Canada through skilled migration?**
+A: Yes. This occupation is NOC TEER 0 and meets Express Entry requirements. Requires over one year of relevant experience and passing a language test. PNP is also a viable pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, motor vehicle assembling的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a motor vehicle assembling supervisor?**
-答：Entry-level: CAD 45,000-55,000; mid-level: CAD 55,000-75,000; senior: CAD 75,000-95,000 annually. Salaries are higher in Ontario and vary by plant size and experience.
-
-**问：Can I immigrate to Canada as a motor vehicle assembling supervisor?**
-答：Yes. This occupation falls under NOC TEER 0 and is eligible for Express Entry. You need at least one year of relevant work experience and language test results. PNP is also an option.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

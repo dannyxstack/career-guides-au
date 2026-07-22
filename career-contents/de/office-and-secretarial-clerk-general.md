@@ -1,60 +1,96 @@
-# Office and Secretarial Clerk (General)（Office and Secretarial Clerk (General)）职业分析 · DE
+# Office and Secretarial Clerk (General) — career analysis · Germany
 
-**职业代码：7140 – Office and Secretarial Clerk (General)。**
+**Occupation code: 7140 (KldB)**
 
-Office and secretarial clerks handle daily administrative tasks such as document management, scheduling, meeting organization, phone calls, and general office communication, serving as the backbone of business operations.
+Office and secretarial clerks handle daily administrative tasks, including document management, schedule arrangement, meeting organization, phone answering, and routine office communication, serving as the basic support roles for company operations.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有报酬，企业承担大部分费用） |
-| 短期行政课程 | 6个月 | $1,000~$3,000（私立机构提供，非强制） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Remuneration during training, with most costs covered by the company) |
+| Short-term administrative courses | 6 months. | $1,000~$3,000 (Provided by private institutions, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制毕业证书 | 德国工商会（IHK） | 可选 | 典型入门资格 |
-| 行政管理或商科学历 | 大学或应用技术大学 | 可选 | 有助于晋升 |
+| Dual-system graduation certificate | German Chamber of Commerce and Industry (IHK) | Optional | Typical entry qualification |
+| Administration or business degree | University or University of Applied Sciences | Optional | Helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200,000。德国办公室行政岗位需求稳定，但数字化与AI的普及正逐步替代部分传统任务。就业机会集中于中小企业及公共部门，应聘者需具备良好组织与沟通能力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200,000. Office administration jobs in Germany are in stable demand, but digitalization and AI adoption are gradually replacing some traditional tasks. Employment opportunities are concentrated in SMEs and the public sector. Candidates need good organizational and communication skills.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $24,000~$30,000 | 税前年薪，东德略低 |
-| 中级（3-5年） | $30,000~$38,000 | 税前年薪 |
-| 资深（6年以上） | $35,000~$45,000 | 税前年薪，含管理职责 |
+| Median salary | $46,320 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–2 years) | $24,000~$30,000 | Annual salary before tax, slightly lower in East Germany |
+| Mid-level (3–5 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (6+ years) | $35,000~$45,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $52,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：可从初级文员晋升至高级秘书或办公室主管，也可通过进修转向人力资源管理、项目管理或采购等专业领域。双元制培训是常见起点。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Document processing, data entry, filing, and email management for general office clerks can be highly automated by AI and RPA, significantly reducing entry-level positions; remaining tasks shift to higher-level coordination and judgment, requiring proactive skill upgrading.
+
+Career path: can progress from junior clerk to senior secretary or office manager, or transition to specialized fields like human resource management, project management, or procurement through further study. Dual-system training is a common starting point.
+
+**Tasks most exposed to AI:**
+
+- Document Formatting and Template Creation: AI Automatically Generates Official Documents and Reports According to Standard Templates
+- Data Entry and Verification: OCR+RPA enables error-free entry and matching
+- Schedule management and email filtering: AI automatically identifies priorities and schedules meetings
+- Document archiving and retrieval: AI automatically classifies, tags, and enables semantic search.
+- Basic financial reconciliation: simple account matching can be done by AI.
+
+**Where AI augments the role:**
+
+- Complex data analysis: AI-assisted rapid chart generation and trend insights
+- Multilingual communication: AI translation assists with international emails and reports
+- Process optimization suggestions: AI analyzes workflows and recommends improvements
+- Client communication records: AI-generated meeting minutes and action plans in real time
+- Knowledge Base Management: AI automatically organizes FAQs and operation manuals
+
+**Human moat:**
+
+- Judgment to handle unstructured, ambiguous, or abnormal situations
+- Interpersonal communication skills for cross-departmental coordination and stakeholder mediation
+- Deep understanding and flexible application of organizational unwritten rules
+- Information processing and compliance management requiring confidentiality or high responsibility
+- Creative document writing and narrative skills
+
+**Skills to build:**
+
+- Python or RPA tools (UiPath/Automation Anywhere)
+- SQL and data analysis (Advanced Excel + Power BI)
+- AI prompt engineering and office AI tools (Copilot/Gemini)
+- Project management (PMP or Agile methodologies)
+- Industry-specific knowledge (e.g., medical/legal/logistics terminology)
+- Communication and emotional intelligence (complex negotiation, conflict management)
+
+**Key growth areas:**
 
 - Stable demand
 - Digital transformation
@@ -63,62 +99,67 @@ Office and secretarial clerks handle daily administrative tasks such as document
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Visa for Skilled Workers with Vocational Training） | 需获得德国认可的职业资格（如双元制证书），并由雇主担保。适合来自非欧盟国家有 Ausbildung 的申请人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制度的求职签证，允许在德寻找工作，无需直接雇主担保。 |
+| Subclass Skilled Worker (Visa for Skilled Workers with Vocational Training) | Requires a recognized German vocational qualification (e.g., dual-system certificate) and employer sponsorship. Suitable for applicants from non-EU countries with an Ausbildung. |
+| Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, allows searching for work in Germany without direct employer sponsorship |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Office and Secretarial Clerk (General)？**
-- 注重工作稳定性且不追求高薪的人群
-- 擅长组织与沟通、喜欢支持性工作的人
-- 希望快速进入德国劳动市场的求职者
+**Who is suited**
+- People who value job stability and do not pursue high salaries
+- People who are good at organization and communication, and enjoy supportive work
+- Job seekers hoping to quickly enter the German labor market
 
-**谁不适合学Office and Secretarial Clerk (General)？**
-- 追求高收入和快速职业晋升者
-- 对重复性行政工作缺乏耐心的人
+**Who is not suited**
+- Those pursuing high income and rapid career advancement
+- People who lack patience for repetitive administrative tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for an office clerk in Germany?**
+A: Entry-level positions around €24,000-30,000, mid-level €30,000-38,000, senior up to €45,000. Varies greatly by region and company size.
+
+**Q: Can office clerks apply for skilled migration to Germany?**
+A: Yes, but you need to complete a recognized vocational training in Germany (e.g., dual system) or have qualifications recognized, and find an employer sponsor. The Opportunity Card (Chancenkarte) is a viable pathway.
+
+**Q: What are the advancement opportunities for office clerks?**
+A: Can advance to senior secretary, office manager, or move into specialist roles such as project management, HR, procurement. Pursuing a business degree can significantly improve career prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 难（★★★★☆） |
-
-Office and Secretarial Clerk (General)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for office clerks in Germany?**
-答：Entry-level positions earn around €24,000-€30,000, mid-level €30,000-€38,000, and senior roles up to €45,000. Salaries vary by region and company size.
-
-**问：Can office clerks apply for skilled migration to Germany?**
-答：Yes, but they need recognized vocational training (e.g., dual system) or equivalency assessment, plus a job offer. The Opportunity Card (Chancenkarte) is an option.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

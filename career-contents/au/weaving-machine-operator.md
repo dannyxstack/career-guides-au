@@ -1,60 +1,93 @@
-# Weaving Machine Operator（Weaving Machine Operator）职业分析 · 澳大利亚
+# Weaving Machine Operator — career analysis · Australia
 
-**职业代码：711715 – Weaving Machine Operator。**
+**Occupation code: 711715 (ANZSCO)**
 
-Operates and monitors weaving machines to produce fabric from yarn, including setting up machines, replacing yarn, inspecting quality, and performing basic maintenance.
+Responsible for operating and monitoring looms to weave yarn into fabric, including setting up machines, changing yarn, inspecting quality, and performing basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常无需正式学历，高中毕业即可。雇主提供在职培训。） |
-| 短期证书课程 | 6个月 | $2,000~$5,000（TAFE或私立机构提供的纺织操作证书，提升竞争力。） |
+| High school graduation | 0 years | $0~$0 (Typically no formal education required; high school diploma is sufficient. Employers provide on-the-job training.) |
+| Short-term certificate courses | 6 months. | $2,000~$5,000 (Textile Operations Certificate from TAFE or private providers to enhance competitiveness.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织操作三级证书 | TAFE | 可选 | 非强制，但有助于就业和晋升。 |
-| 在职培训证明 | 雇主 | 可选 | 大多数雇主提供，上岗必备。 |
+| Certificate III in Textile Operations | TAFE | Optional | Not mandatory, but it helps with employment and promotion. |
+| In-service training certificate | Employer | Optional | Mandatory for the job, provided by most employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 800。澳洲纺织制造业规模较小且持续萎缩，自动化替代部分人力，就业机会有限，预计未来5年岗位数量下降。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. 800. Australia's textile manufacturing industry is small and shrinking, with automation replacing some labor, limited job opportunities, and an expected decline in positions over the next 5 years.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 时薪约23-28澳元，取决于地区和雇主。 |
-| 中级（2-5年） | $55,000~$65,000 | 有经验后薪资略有增长。 |
-| 高级（5年以上） | $60,000~$70,000 | 担任组长或技术员可达上限。 |
+| Median salary | $63,700 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $45,000~$55,000 | Hourly rate approximately 23-28 AUD, depending on location and employer. |
+| Intermediate (2-5 years) | $55,000~$65,000 | Salary increases slightly with experience. |
+| Senior (5+ years) | $60,000~$70,000 | Group leaders or technicians can reach the upper limit. |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从初级操作员晋升为高级操作员或班组长，但晋升空间有限；可转向纺织机械维护或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: very low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Loom operators are significantly affected by AI automation; repetitive monitoring tasks can be replaced, but equipment adjustment, fault troubleshooting, and complex quality assessment still require human experience. Overall job outlook is mixed.
+
+Promotion from junior operator to senior operator or team leader, but limited advancement opportunities; can shift to textile machinery maintenance or quality control.
+
+**Tasks most exposed to AI:**
+
+- Loom status monitoring and alarm response
+- Automatic adjustment of yarn tension and breakage detection.
+- Automatic optimization of output and speed parameters
+- Routine quality inspections (e.g., defect identification)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of fabric defect patterns to improve quality judgment accuracy
+- Automated scheduling system optimizes loom scheduling and efficiency
+- Predictive maintenance reduces unplanned downtime
+- AR/VR supports remote fault diagnosis and repair guidance
+
+**Human moat:**
+
+- On-site diagnosis and repair of complex mechanical faults
+- Process debugging for multi-variety, small-batch orders
+- Communicate and coordinate production issues with upstream and downstream departments
+- Experience in safety protocols and emergency response
+
+**Skills to build:**
+
+- Industrial robot programming and operation
+- Data analysis and smart manufacturing system operations
+- Predictive maintenance and fault diagnosis technology.
+- Automation equipment integration and commissioning.
+- Quality management and lean production methods
+- Programmable Logic Controller (PLC) basics
+
+**Key growth areas:**
 
 - Automation
 - Declining industry
@@ -63,62 +96,64 @@ Operates and monitors weaving machines to produce fabric from yarn, including se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 通常不符合，该职业不在职业清单上，仅极少数情况雇主担保。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 难度很大，需与偏远地区雇主协商，职业需在DAMA清单上。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Typically not eligible, the occupation is not on the occupation list, only in very rare cases employer sponsorship. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Very difficult; requires negotiation with a regional employer and an occupation on the DAMA list. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Weaving Machine Operator？**
-- 愿意从事重复性体力工作的人
-- 希望快速入门不需高学历的人
-- 在纺织业集中的偏远地区求职者
+**Who is suited**
+- People willing to engage in repetitive physical work.
+- For those who want to get started quickly without a high degree.
+- Job seekers in remote areas with concentrated textile industries
 
-**谁不适合学Weaving Machine Operator？**
-- 追求高薪和职业发展的人
-- 寻求移民澳洲机会的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People seeking immigration opportunities in Australia
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a loom operator?**
+A: Entry-level annual salary approx. AUD 45,000-55,000, senior operator approx. AUD 60,000-70,000, with limited salary growth potential.
+
+**Q: Can loom operators migrate to Australia through skilled migration?**
+A: Almost impossible. This occupation is not on any skilled occupation list, so mainstream visas like 189, 190, 482 are not available; only a very few DAMA regional sponsorship opportunities may exist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Weaving Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a weaving machine operator?**
-答：Entry-level annual salary is about AUD 45,000-55,000, experienced operators can earn AUD 60,000-70,000, with limited growth.
-
-**问：Can a weaving machine operator migrate to Australia via skilled visa?**
-答：Almost impossible. The occupation is not on any skilled occupation list, so it cannot apply for 189, 190, 482 visas. Only possible under some DAMA agreements.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

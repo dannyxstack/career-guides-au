@@ -1,58 +1,94 @@
-# Shipping Merchant（Shipping Merchant）职业分析 · DE
+# Shipping Merchant — career analysis · Germany
 
-**职业代码：5165 – Shipping Merchant。**
+**Occupation code: 5165 (KldB)**
 
-Shipping merchants handle chartering, freight contracts, customs documentation, and insurance, serving as the commercial backbone of shipping companies.
+A shipping merchant is responsible for ship chartering, cargo transport contracts, customs documents, and insurance matters, serving as the commercial operations core of a shipping company.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（双元制培训期间企业支付工资，学校无学费） |
-| 本科 | 3-4年 | —（公立大学基本免学费，仅每学期注册费） |
+| Dual system training | 3 years | $0~$500 (During dual vocational training, the company pays wages, and there are no school fees.) |
+| Bachelor's degree | 3-4 years | $0~$1,500 (Public universities are largely tuition-free, only a semester registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航运商务员职业资格证书 | 德国工商会 (IHK) | 必备 | 双元制培训后考试获得 |
-| 本科或同等学历 | 大学 | 可选 | 航运或商科专业优先，非强制 |
+| Shipping Business Professional Qualification Certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after examination in dual training |
+| Bachelor's degree or equivalent qualification | University | Optional | Shipping or business major preferred, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国作为出口大国，航运业稳定增长，数字化和绿色转型带来新需求，就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. As a major exporting country, Germany's shipping industry is growing steadily, with digitalization and green transformation bringing new demand and good employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，视港口城市和公司规模 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪，含额外绩效 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，管理层更高 |
+| Median salary | $48,900 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary, depending on port city and company size. |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual salary before tax, including additional performance pay |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salary, higher for management |
+| average salary | $55,668 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级航运员晋升为租船经纪人或部门主管，积累经验后可担任管理层或国际航运专家。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core tasks of shipping clerks (contract drafting, document processing, data entry) are easily automated by AI, reducing entry-level positions; however, higher-level tasks such as business negotiations and customer relationships still require human judgment.
+
+Can progress from junior shipping clerk to chartering broker or department head, and with experience move into management or become an international shipping specialist.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard charter party contracts and bills of lading.
+- auto-fill customs declaration documents
+- Handling insurance claims and claim documentation
+- Track shipment status and update systems
+- Generate automatic quotes for freight and charges
+
+**Where AI augments the role:**
+
+- Use AI to analyze historical data to optimize charter pricing strategies
+- Assisting negotiations by forecasting market freight trends through AI
+- Use natural language processing to quickly review contract clause risks
+- Optimal transport routes and modes recommended by AI
+- Improving multimodal transport coordination efficiency with automation tools
+
+**Human moat:**
+
+- Complex business negotiation and relationship management skills
+- Emergency decision-making ability for handling incidents
+- Cross-cultural communication and client trust building
+- Deep understanding of shipping regulations and market flexibility
+- Creative resolution of non-standard contract issues
+
+**Skills to build:**
+
+- Data analysis and visualisation (Python/Tableau)
+- AI Tool Usage (ChatGPT document generation, contract review)
+- Operation of shipping digitization platforms (e.g., Freightos)
+- Supply chain risk management knowledge
+- Advanced negotiation and conflict resolution skills
+- Cross-cultural business communication skills
+
+**Key growth areas:**
 
 - Digitalization
 - Green Shipping
@@ -61,65 +97,64 @@ Shipping merchants handle chartering, freight contracts, customs documentation, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于具有大学学历且年薪达到蓝卡门槛（2024年约43,800欧元）的申请人，工作满33个月可申请永居 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于获得德国认可的职业资格或大学学历的雇员，无薪资门槛，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统的求职签证，允许在德国寻找工作，需满足语言、年龄等条件 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to applicants with a university degree and annual salary meeting the Blue Card threshold (approx. €43,800 in 2024); can apply for permanent residency after 33 months of work. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For employees with recognized German professional qualifications or university degrees, no salary threshold, requires employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job seeker visa based on a points system, allowing job search in Germany, requiring language, age, and other conditions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shipping Merchant？**
-- 对国际航运和贸易感兴趣的人
-- 具备商业谈判和沟通能力的人
-- 愿意在港口城市工作并适应快节奏环境的人
-
-**谁不适合学Shipping Merchant？**
-- 不喜欢处理繁琐文件和海关法规的人
-- 无法适应航运业不固定工作时间的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in international shipping and trade
+- People with business negotiation and communication skills
+- Willing to work in a port city and adapt to a fast-paced environment
+
+**Who is not suited**
+- Those who dislike dealing with paperwork and customs regulations
+- People who cannot adapt to irregular working hours in the shipping industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for shipping clerks in Germany?**
+A: Entry-level annual salary is around €32,000-40,000, mid-level €40,000-55,000, senior up to €75,000 or more, higher in major cities like Hamburg.
+
+**Q: How can foreigners immigrate to Germany through this occupation?**
+A: Residence and work permits can be obtained through the EU Blue Card (requires university degree and meeting salary threshold) or skilled migration visa (requires occupational qualification recognition), with the possibility of applying for permanent residency after employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Shipping Merchant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for shipping merchants in Germany?**
-答：Entry-level annual salary is around €32,000-40,000, mid-level €40,000-55,000, and senior can exceed €75,000, with higher pay in cities like Hamburg.
-
-**问：How can foreigners immigrate to Germany through this occupation?**
-答：Via EU Blue Card (requiring a university degree and a minimum salary) or Skilled Worker Visa (requiring recognized qualifications), with a path to permanent residency after work.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

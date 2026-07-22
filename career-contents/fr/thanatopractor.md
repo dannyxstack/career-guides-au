@@ -1,61 +1,96 @@
-# Thanatopractor（Thanatopractor）职业分析 · FR
+# Thanatopractor — career analysis · France
 
-**职业代码：K2603 – Thanatopractor。**
+**Occupation code: K2603 (ROME)**
 
-Thanatopractors perform embalming, cleaning, restoration, and makeup on deceased individuals to present a peaceful appearance for farewell ceremonies. They require knowledge of anatomy, embalming chemicals, and cosmetic techniques, working in funeral homes or mortuaries.
+Thanatopracteurs are responsible for embalming, cleaning, repairing, and applying makeup to the deceased, presenting them with a serene appearance during the farewell ceremony. This profession requires mastery of anatomy, antiseptic chemistry, and cosmetic techniques, and typically works in funeral homes or morgues.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或 BTS 相关专业 | 2年（CAP）或3年（BTS） | $3,000~$10,000（公立学校免费或低学费，私立培训约3000-10000欧元；可通过学徒制（apprentissage）获得薪酬。） |
-| 国家颁发的遗体防腐资格证书 | 1-2年（专业培训+实习） | $4,000~$15,000（需完成理论及实践培训，并通过国家考试，费用因机构而异。） |
+| CAP or BTS-related majors | 2 years (CAP) or 3 years (BTS) | $3,000~$10,000 (Public schools offer free or low tuition, while private tuition costs about 3,000–10,000 euros; Compensation can be obtained through apprenticeships.) |
+| A nationally issued certificate for embalming of the body | 1-2 years (professional training + internship) | $4,000~$15,000 (Theoretical and practical training must be completed, and national exams must be passed; fees vary by institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家遗体防腐师文凭（Diplôme national de thanatopraxie） | 法国卫生部（Ministère de la Santé） | 必备 | 必须持有该文凭才能合法执业，由卫生部认可的教学机构颁发。 |
-| 法国殡葬服务从业者职业卡（Carte professionnelle） | 各省警察局（Préfecture） | 必备 | 所有殡葬从业人员需注册并持有职业卡，每年更新。 |
-| 继续教育（Formation continue） | 专业协会或培训机构 | 可选 | 定期参加防腐技术、卫生法规更新培训，非强制但有助于职业发展。 |
+| National Diploma of Embalming Specialist (Diplôme national de thanatopraxie) | French Ministry of Health (Ministère de la Santé) | Required | You must hold this diploma to practice legally and be awarded by an educational institution recognized by the Ministry of Health. |
+| French Funeral Service Professional Card (Carte professionnelle) | Departmental Police Departments (Préfecture) | Required | All funeral service workers must register and hold a professional card, which is renewed annually. |
+| Continuing Education (Formation continue) | Professional associations or training institutions | Optional | Regular participation in anti-corrosion technology and hygiene regulation updates is not mandatory but beneficial for career development. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。法国每年死亡人数约60万，且老龄化推动殡葬服务需求稳定增长。遗体防腐美容师属于专业化岗位，持证人数有限，就业前景良好。行业集中度低，独立执业或受雇于殡仪馆均可。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. France has about 600,000 deaths per year, and an aging population drives stable demand for funeral services. Embalmers and cosmeticians are specialized roles with limited certified practitioners, offering good job prospects. Industry concentration is low, allowing for independent practice or employment at funeral homes.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，受雇于殡仪馆或实习阶段。 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪，具备独立操作能力，部分计件收入。 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，包括技术主管或自雇收入。 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, employed at a funeral home or internship stage. |
+| Mid-level (3–7 years) | $32,000~$42,000 | Pre-tax annual salary, capable of independent operation, partial piece-rate income. |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, including technical supervisor or self-employment income. |
+| average salary | $23,220 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初始可担任助理或实习遗体防腐师，积累2-5年经验后成为独立操作员。资深者可晋升为殡仪馆技术主管或开设自己的防腐工作室，也可向殡葬顾问或培训师方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Procedural tasks like embalming and cosmetology are easily automated by AI, but core aspects like ritual, emotional support, and family communication require human empathy and judgment; overall risk is medium to low.
+
+Initially, you can work as an assistant or intern as a mortuary embalmer, and after accumulating 2-5 years of experience, become an independent operator. Experienced individuals can be promoted to funeral home technical supervisors, establish their own embalming studios, or develop into funeral consultants or trainers.
+
+**Tasks most exposed to AI:**
+
+- Automated anti-corrosion injection and medication dosing (AI-controlled injection system)
+- AI generates standard mourning makeup templates and guides robots to apply makeup
+- Automated editing and effect rendering of online farewell videos
+- Automated body dressing and cosmetic restoration (3D scanning + robotic arm)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of body damage to recommend optimal restoration methods
+- Augmented Reality (AR) assists families in virtual body farewells
+- Using AI for customer sentiment analysis to optimise communication scripts
+- AI-generated obituary templates and personalized memorial videos
+- Smart system managing preservation environment and inventory
+
+**Human moat:**
+
+- Deep emotional communication and psychological counseling with grieving families
+- Personalized funeral planning and ceremony creation
+- Aesthetic and manual skills for complex body restoration (special damage, decomposition)
+- Flexibly handling and respecting cross-cultural religious customs
+- Psychological resilience and ethical decision-making in death scenarios
+
+**Skills to build:**
+
+- Master new embalming and restoration technologies (3D printing, biological gels)
+- Learn AI-assisted tools (AR/VR farewell software, affective computing)
+- Enhance grief counseling and crisis communication skills
+- Learn basic digital image editing (e.g., memorial video production)
+- Master data management (body tracking, inventory automation)
+- Continuously learn regulations and ethics (digital remains, data privacy)
+
+**Key growth areas:**
 
 - aging population
 - funeral service demand
@@ -64,69 +99,68 @@ Thanatopractors perform embalming, cleaning, restoration, and makeup on deceased
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能专业人才，需证明在殡葬领域的突出能力（如国际经验或特殊技术），且雇主担保或自雇项目。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需获得法国殡仪馆雇主的工作合同，并证明该职位无法由本地劳工填补；需通过劳动市场测试。 |
-| Subclass Carte bleue UE（Carte Bleue Européenne (EU Blue Card)） | 要求年薪达到欧盟蓝卡门槛（约53,000欧元，2024年），不适合初级岗位，但高级岗位可能符合。 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled professionals, who must demonstrate outstanding abilities in the funeral industry (such as international experience or specialized skills), and be sponsored or self-employed in a project. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | A work contract must be obtained from the French funeral home employer, proving that the position cannot be filled by local laborers; Labor market testing is required. |
+| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | Annual salary must meet the EU Blue Card threshold (about 53,000 euros, 2024), which is not suitable for junior positions, but may be suitable for senior positions. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Thanatopractor？**
-- 心态稳定、能承受与死亡打交道的工作环境
-- 注重细节、有耐心和手工灵巧度
-- 希望获得稳定就业且竞争较小的技术岗位
-
-**谁不适合学Thanatopractor？**
-- 对血腥场景或化学气味敏感者
-- 希望快速移民且不愿通过复杂资质认证者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Maintain a stable mindset and be able to endure a work environment that involves dealing with death
+- Attention to detail, patience, and dexterity in hand
+- Those seeking stable employment in technical positions with relatively low competition
+
+**Who is not suited**
+- Those sensitive to bloody scenes or chemical smells
+- Those who wish to immigrate quickly and are unwilling to undergo complex qualifications
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of a body embalming beautician? Is there room for improvement?**
+A: Entry-level salaries are about 24,000-30,000 euros, intermediate salaries up to 32,000-42,000 euros, and senior or self-employed individuals up to 45,000-60,000 euros. Income increases with experience, skills, and business volume, and the self-employment model offers greater income flexibility.
+
+**Q: Can foreign embalmers immigrate to France? What conditions are required?**
+A: This profession is regulated and requires the French National Diploma of Embalming Specialist. Foreign qualifications require certification (reconnaissance des qualifications), a complex process. You can apply for the Salarié work residence or Passeport Talent, but you must have an employer sponsorship and prove there are no local candidates.
+
+**Q: How long does it take to obtain the French body embalmer qualification?**
+A: Typically, 1-2 years of professional training (including theoretical study and internship) are required, along with passing national exams. The basic degree can be in CAP or BTS-related majors (2-3 years), totaling about 3-5 years. Private training costs about 4,000-15,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Thanatopractor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of a thanatopractor? Is there room for growth?**
-答：Entry-level annual salary ranges from €24,000 to €30,000, mid-level €32,000–€42,000, and senior or self-employed can reach €45,000–€60,000. Income grows with experience, skills, and caseload; self-employment offers greater earning potential.
-
-**问：Can a foreign thanatopractor immigrate to France? What are the requirements?**
-答：This is a regulated profession; a French national thanatopraxy diploma is mandatory. Foreign qualifications require recognition (reconnaissance des qualifications), a complex process. Possible visas include Salarié or Passeport Talent with employer sponsorship and proof of no local candidate.
-
-**问：How long does it take to obtain French thanatopractor certification?**
-答：Typically 1-2 years of specialized training (theory + internship) plus passing a national exam. Prerequisite CAP or BTS in a related field takes 2-3 years, totaling 3-5 years. Private training costs €4,000–€15,000.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

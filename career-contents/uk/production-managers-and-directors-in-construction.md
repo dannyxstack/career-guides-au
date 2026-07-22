@@ -1,59 +1,91 @@
-# Production managers and directors in construction（Production managers and directors in construction）职业分析 · UK
+# Production managers and directors in construction — career analysis · United Kingdom
 
-**职业代码：1122 – Production managers and directors in construction。**
+**Occupation code: 1122 (SOC)**
 
-Production managers and directors in construction coordinate resources for civil and structural engineering projects including houses, factories, roads, bridges, tunnels, railways, ports, dams, and waterworks, ensuring timely, budget-compliant, and safe delivery.
+Construction production managers and site managers coordinate resources for civil and structural engineering projects, including residential buildings, factories, roads, bridges, tunnels, railways, ports, dams, and hydraulic works, ensuring projects are delivered on time, within budget, and safely.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $9,250~$15,000（英国本科国际学生学费约12,000-25,000英镑/年，但此为国内学生参考） |
-| 高级文凭（HND）或基础学位 | 2年 | $6,000~$10,000（部分课程含实习，学费较低） |
+| Bachelor's degree | 3 years | $9,250~$15,000 (International undergraduate tuition in the UK is about 12,000–25,000 GBP/year, but this is for domestic student reference) |
+| Higher National Diploma (HND) or foundation degree | 2 years | $6,000~$10,000 (Some courses include internships, lower tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英国特许建造学会（CIOB）会员 | Chartered Institute of Building (CIOB) | 可选 | 行业认可的专业资格，需通过考核和一定工作经验 |
-| 项目管理专业（PMP）认证 | Project Management Institute (PMI) | 可选 | 提升管理能力，非强制但有助于晋升 |
-| 土木工程或建筑管理学士学位 | 英国大学 | 必备 | 多数雇主要求相关学位 |
+| Bachelor's degree in civil engineering or construction management | UK universities | Required | Most employers require a relevant degree |
+| Member of the Chartered Institute of Building (CIOB) | Chartered Institute of Building (CIOB) | Optional | Industry-recognized professional qualification, requiring assessment and certain work experience |
+| Project Management Professional (PMP) certification | Project Management Institute (PMI) | Optional | Improve management skills, not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 68,000。英国建筑行业持续增长，得益于基础设施投资（如HS2、核电）和住房需求，预计未来十年职位数量将稳步上升，晋升机会多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 68,000. The UK construction industry continues to grow, driven by infrastructure investment (e.g., HS2, nuclear power) and housing demand. Job numbers are expected to rise steadily over the next decade, with ample promotion opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 助理项目经理或工程师 |
-| 中级（4-9年） | $50,000~$70,000 | 项目经理或部门经理 |
-| 高级（10年以上） | $75,000~$110,000 | 区域总监或运营总监 |
+| Median salary | $56,021 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant project manager or engineer |
+| Intermediate (4-9 years) | $50,000~$70,000 | Project manager or department manager |
+| Senior (10+ years) | $75,000~$110,000 | Regional Director or Operations Director |
+| average salary | $63,892 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从项目经理或工程师起步，积累经验后可晋升为高级项目经理、区域总监，甚至进入公司董事会。持续学习与专业认证（如Chartered Manager）有助于职业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Coordination and monitoring tasks for construction production managers and directors will be gradually replaced by AI, but on-site decision-making and safety management cannot be fully automated, posing a medium-high overall risk.
+
+Typically start as project managers or engineers, then advance to senior project manager, regional director, or even board membership. Continuous learning and professional certifications (e.g., Chartered Manager) support career progression.
+
+**Tasks most exposed to AI:**
+
+- Progress monitoring and reporting: AI automatically analyzes sensor data and generates progress reports.
+- Resource scheduling optimization: AI algorithms automatically allocate labor, machinery, and materials
+- Cost estimation and budget tracking: AI predicts costs based on historical data and alerts for deviations
+- Document review and compliance checks: AI automatically compares specifications with design drawings
+
+**Where AI augments the role:**
+
+- AI-assisted risk assessment: real-time analysis of construction site data to identify safety and structural risks in advance
+- Intelligent decision support: AI simulates impact of different resource plans on schedule and cost
+- Automated communication collaboration: AI organizes multi-party emails and meeting minutes, improving communication efficiency.
+- Predictive maintenance: Using AI on equipment sensors to predict failures and reduce downtime.
+
+**Human moat:**
+
+- On-site emergency decision-making: handling unpredictable events such as weather, worker disputes, etc.
+- Team management and leadership: boosting morale, resolving interpersonal conflicts
+- Coordinating complex projects with ambiguity: integrating needs of multiple disciplines and stakeholders.
+- Safety culture building: personal inspections, training and accident emergency command
+
+**Skills to build:**
+
+- Data analysis and AI tool application: using built-in AI features of construction management software
+- Human-machine collaboration management: oversee AI system outputs and make final decisions
+- Lean construction and agile management: adapting to rapidly changing technologies and processes
+- Communication and negotiation skills: coordinating interests of all parties, especially with AI-assisted decision-making
+- Basic programming and system integration: understanding APIs and IoT platforms to liaise with technical personnel
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Housing demand
@@ -62,69 +94,68 @@ Production managers and directors in construction coordinate resources for civil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有雇主担保的技能工人，建筑生产经理在可担保职业列表中 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在建筑领域有杰出成就或领导潜力的个人 |
-| Subclass Scale-up（Scale-up Visa） | 适用于英国快速增长企业的技术工人，建筑行业适用 |
-| Subclass Graduate（Graduate Visa） | 允许英国毕业生在英工作或寻找工作2-3年 |
+| Subclass Skilled Worker (Skilled Worker Visa) | For skilled workers with employer sponsorship, construction production manager is on the occupation list |
+| Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or leadership potential in the construction field |
+| Subclass Scale-up (Scale-up Visa) | For skilled workers in fast-growing UK businesses, applicable to the construction industry |
+| Subclass Graduate (Graduate Visa) | Allows UK graduates to work or seek work in the UK for 2-3 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production managers and directors in construction？**
-- 有土木工程或建筑管理背景的专业人士
-- 具备领导力和沟通能力，能协调多方资源
-- 愿意接受挑战，能承受项目压力
-
-**谁不适合学Production managers and directors in construction？**
-- 不喜欢户外工作或工地环境
-- 不善于管理预算和时间
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with a background in civil engineering or construction management
+- Possess leadership and communication skills to coordinate multiple resources
+- Willing to take on challenges and handle project pressure
+
+**Who is not suited**
+- Dislikes outdoor work or construction site environments
+- Weak at managing budget and time
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a construction production manager?**
+A: Entry-level around £35,000-45,000, mid-level £50,000-70,000, senior up to £110,000. Bonuses and benefits are also usually generous.
+
+**Q: Can foreigners come to the UK on a work visa to work as a construction production manager?**
+A: Yes, this occupation is on the Skilled Worker visa eligible occupation list. You need employer sponsorship and meet salary requirements (generally not less than £26,200/year).
+
+**Q: Does this career have a clear career progression path?**
+A: Yes, typically advancing from project manager to senior manager, regional manager, and eventually to company director or board member.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Production managers and directors in construction的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for production managers in construction?**
-答：Entry-level: £35,000-£45,000; mid-level: £50,000-£70,000; senior: up to £110,000. Bonuses and benefits are common.
-
-**问：Can foreigners work as production managers in construction in the UK via work visa?**
-答：Yes, the occupation is eligible for the Skilled Worker visa. You need a sponsor employer and meet salary threshold (typically at least £26,200/year).
-
-**问：Is there a clear career progression for this role?**
-答：Yes, typically from project manager to senior manager, regional manager, and ultimately to director or board level.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

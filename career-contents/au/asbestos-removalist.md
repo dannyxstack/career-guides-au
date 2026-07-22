@@ -1,65 +1,94 @@
-# 石棉清除工（Asbestos Removalist）职业分析 · 澳大利亚
+# Asbestos Removalist — career analysis · Australia
 
-**职业代码：899211 – Asbestos Removalist。**
+**Occupation code: 899211 (ANZSCO)**
 
-石棉清除工负责安全拆除与处置含石棉材料，受澳洲严格的 WHS(职业健康安全)制度监管，须持 A 类/B 类石棉清除牌照，需求稳定、加班与津贴使收入可观，非技术移民职业。
+Asbestos removal workers safely remove and dispose of materials containing asbestos, regulated by Australia's strict WHS system; must hold a Class A/B asbestos removal licence. Demand is stable, overtime and allowances boost income. Not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 石棉清除资格 (Cert) + 各州牌照 | 数周~数月 | $500~$4,000（强制持牌） |
-| White Card (建筑工地) | 1天 | $100~$200（强制） |
+| Asbestos removal certificate (Cert) + state licences | A few weeks to several months | $500~$4,000 (Mandatory licensing) |
+| White Card (construction site) | 1 day | $100~$200 (Mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Class A / B Asbestos Removal Licence | 各州 WHS 监管机构(如 SafeWork) | 必备 | 强制持牌 |
-| Construction Induction (White Card) | RTO | 必备 | 强制 |
+| Class A / B Asbestos Removal Licence | State WHS regulators (e.g., SafeWork) | Required | Mandatory licensing |
+| Construction Induction (White Card) | RTO | Required | Mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 10,000。老旧建筑改造与拆除带动稳定需求，持 A 类牌照(可处理任何石棉)与监督资格者收入更高。
+**Job demand: high (★★★★☆).** National workforce approx. 10,000. Renovation and demolition of older buildings drive stable demand; those with a Class A licence (can handle any asbestos) and supervisory qualifications earn higher.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,200 个 | 全国 |
-| Indeed | 400~1,000 个 | 全国 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $56,000~$70,000 | 时薪约$30~$37 |
-| 中级（3-8年） | $70,000~$90,000 | 含加班 |
-| 监督 / 资深 | $90,000~$120,000 | Supervisor |
+| Median salary | $89,440 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $56,000~$70,000 | Hourly rate approx. $30–$37 |
+| Mid-level (3–8 years) | $70,000~$90,000 | Including overtime |
+| Supervisory / Senior | $90,000~$120,000 | Supervisor |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：清除工→班组长→监督(Supervisor)；牌照等级与 WHS 监督经验决定收入。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Asbestos removal is a profession highly dependent on physical operations and strict regulation; AI automation can hardly replace core removal and monitoring tasks, but AI-assisted monitoring tools can improve safety and efficiency, presenting both risks and opportunities overall.
+
+Path: Asbestos removal worker → Team Leader → Supervisor; licence class and WHS supervisory experience determine income.
+
+**Tasks most exposed to AI:**
+
+- Automated detection and identification of asbestos materials (AI image analysis)
+- Automatic generation of basic risk assessment reports
+- Real-time automatic monitoring of air quality and fibre concentration
+- Chatbot responses for customer inquiries and preliminary quotes
+
+**Where AI augments the role:**
+
+- AI-enhanced protective equipment for real-time monitoring of vital signs and environmental risks
+- Drone and robot-assisted asbestos removal in high-risk areas
+- Intelligent scheduling and compliance checklist management reduce paperwork.
+- Virtual reality (VR) training systems enhance safety drill effectiveness
+- Risk prediction and best practice recommendations based on historical data
+
+**Human moat:**
+
+- Manual skills for physical demolition and sealing operations
+- On-site Emergency Judgment and Unforeseen Situation Handling
+- Regulatory compliance on-site sign-off and human accountability
+- Customer trust and communication (involving sensitive health risk topics)
+
+**Skills to build:**
+
+- Basic AI tool usage (e.g., drone/robot operation)
+- Data interpretation skills (monitoring reports and sensor data)
+- Digital workflows and compliance software application
+- Advanced health and safety training and psychological resilience
+- Cross-skilling (e.g., welding or confined space work) to increase flexibility
+- Client management and professional communication skills.
+
+**Key growth areas:**
 
 - Asbestos Remediation
 - WHS Licensing
@@ -68,58 +97,59 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学石棉清除工？**
-- 不介意体力与防护装备作业者
-- 想快速持牌入行的技工
-- 注重安全规范的人
-
-**谁不适合学石棉清除工？**
-- 排斥高温/防护服与危险材料作业者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who do not mind physical work and protective gear
+- Tradespeople wanting fast licensing and entry
+- People who prioritise safety compliance
+
+**Who is not suited**
+- Not suitable for those averse to heat/protective gear and hazardous materials work
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an asbestos removal worker in Australia?**
+A: Approximately AUD $56k-$120k, higher for supervisory roles; overtime and allowances have significant impact.
+
+**Q: Can asbestos removal workers do skilled migration?**
+A: No, it is a local licensed trade and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-石棉清除工属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：石棉清除工澳洲薪资多少？**
-答：约 AUD $5.6万~$12万，监督岗更高，加班与津贴影响大。
-
-**问：石棉清除工能技术移民吗？**
-答：不能，属于本地持牌技工岗，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

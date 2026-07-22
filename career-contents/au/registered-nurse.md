@@ -1,70 +1,98 @@
-# 注册护士（Registered Nurse (Medical Practice)）职业分析 · 澳大利亚
+# Registered Nurse — career analysis · Australia
 
-**职业代码：254422 – Registered Nurse (Medical Practice)。**
+**Occupation code: 254422 (ANZSCO)**
 
-注册护士在医院、老年护理机构、社区卫生服务和门诊中提供临床护理、用药和患者评估服务。澳大利亚老龄化社会驱动护士需求持续旺盛，是技术移民最受欢迎的医疗健康职业之一。
+Registered Nurses provide clinical care, medication administration and patient assessment in hospitals, aged care facilities, community health services and outpatient settings. Australia's ageing population drives sustained demand for nurses, making it one of the most sought-after healthcare occupations for skilled migrants.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Nursing（本科学历） | 3年（全日制） | —（澳洲公立大学约 $28,000~$34,000（海外留学生更高）；政府补贴名额学费约 $8,000~$10,000/年） |
-| 海外资历评估（AHPRA注册） | 3~12个月 | $1,500~$4,000（含AHPRA申请费、ANMAC评估费、英语考试（OET/IELTS）） |
-| Bridging Program（海外护士英语能力培训） | 3~6个月 | $3,000~$8,000（海外护士来澳执业前的临床适应培训） |
+| Bachelor of Nursing (undergraduate degree) | 3 years (full-time) | $0~$30,000 (Australian public university approx. $28,000–$34,000 (higher for international students); government-subsidised places approx. $8,000–$10,000/year in tuition) |
+| Overseas qualification assessment (AHPRA registration) | 3–12 months | $1,500~$4,000 (Includes AHPRA application fees, ANMAC assessment fees, and English language testing (OET/IELTS)) |
+| Bridging Program (English language training for overseas-trained nurses) | 3–6 months | $3,000~$8,000 (Clinical orientation training for overseas nurses before practising in Australia) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Nursing（或同等资历） | 澳洲认可大学 | 必备 | AHPRA注册的基础学历要求 |
-| AHPRA Registered Nurse Registration | Australian Health Practitioner Regulation Agency | 必备 | 全国统一注册，无此注册不得以注册护士身份执业 |
-| OET / IELTS 英语成绩 | OET / British Council | 可选 | 海外护士AHPRA注册强制要求（OET B级或IELTS 7.0+） |
-| 专科护士认证（ICU/急诊/肿瘤等） | ACCCN / 各专科学会 | 可选 | 晋升专科护士或护士长的可选进阶资质 |
+| Bachelor of Nursing (or equivalent qualification) | Australian-recognised university | Required | Minimum qualification required for AHPRA registration |
+| AHPRA Registered Nurse Registration | Australian Health Practitioner Regulation Agency | Required | Nationally unified registration; cannot practise as a registered nurse without this registration |
+| OET / IELTS English test results | OET / British Council | Optional | Mandatory for overseas nurses applying for AHPRA registration (OET Band B or IELTS 7.0+) |
+| Specialist nursing certification (ICU/Emergency/Oncology etc.) | ACCCN / relevant specialist societies | Optional | Optional advanced qualification for promotion to specialist nurse or nurse unit manager |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 320,000。JSA 预测护理类职业至2035年将新增约50,000个岗位（+18%）。老年护理改革（2023年起强制人手配比）和农村医疗服务扩张是主要驱动力。
+**Job demand: very high (★★★★★).** National workforce approx. 320,000. JSA projects that care-sector occupations will add approximately 50,000 new positions by 2035 (+18%). Aged care reforms (mandatory staffing ratios introduced from 2023) and expansion of rural health services are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 8,000~14,000 个 | 全国，含医院、老年护理、社区和专科岗，是挂牌量最多的职业之一 |
-| Indeed | 5,000~9,000 个 | 含兼职、夜班和合同工 |
-| LinkedIn | 2,000~4,000 个 | 偏管理、专科和教育护士岗 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：很高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册护士（RN Grade 1） | $70,000~$78,000 | NSW公立医院 Nurses Award 起薪 $70,235；各州起薪相近 |
-| 中级护士（RN Grade 2~4，3~8年） | $78,000~$100,000 | ERI SalaryExpert 平均 $114,868；Indeed 区间 $80k~$100k（2026） |
-| 资深护士 / 老年护理（8年+） | $100,000~$120,000 | 老年护理28%薪资涨幅（2024起）使部分老年护理护士薪资超医院 |
-| 专科护士（ICU/急诊/麻醉） | $110,000~$135,000 | ICU/麻醉护士薪资溢价 $15k~$25k |
-| 护士长 / 主任护士（NUM/CNM） | $120,000~$150,000 | 管理职责加薪，部分医院 NUM 超 $140k |
-| 农村/偏远地区护士（Rural/Remote） | $90,000~$130,000 | 偏远地区津贴 $10k~$30k+，额外房屋补贴 |
+| Median salary | $113,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered nurse (RN Grade 1) | $70,000~$78,000 | NSW public hospital Nurses Award starting salary $70,235; starting salaries in other states are similar |
+| Mid-level registered nurse (RN Grade 2–4, 3–8 years experience) | $78,000~$100,000 | ERI SalaryExpert average $114,868; Indeed range $80k–$100k (2026) |
+| Senior Nurse / Aged Care (8+ years) | $100,000~$120,000 | A 28% pay increase in aged care (from 2024) has pushed some aged care nurses' salaries above hospital rates |
+| Specialist Nurse (ICU/Emergency/Anaesthetics) | $110,000~$135,000 | ICU/anaesthetics nurse salary premium $15k–$25k |
+| Nurse Unit Manager / Clinical Nurse Manager (NUM/CNM) | $120,000~$150,000 | Management responsibilities attract higher pay; some hospital NUM salaries exceed $140k |
+| Rural/Remote Nurse | $90,000~$130,000 | Remote area allowance $10k–$30k+, plus additional housing subsidy |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 老年护理立法强制每日直接护理时间（210分钟）大幅推高需求。心理健康和偏远地区护士的薪资溢价持续扩大。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses are not a profession that will be replaced by AI, but one that will be reorganized by AI tools. AI will reduce the time spent on documentation, reminders, searches, and initial risk prompts, but final nursing judgment, bedside care, medication checks, patient communication, family coordination, and legal responsibility remain with registered nurses. Nurses who can use digital health tools and AI-assisted systems will be more competitive than those who only follow traditional processes.
+
+Legislation mandating minimum daily direct care hours in aged care (210 minutes) has significantly boosted demand. Salary premiums for mental health and remote area nurses continue to grow.
+
+**Tasks most exposed to AI:**
+
+- Voice transcription and structured drafts of nursing records (nurses must verify and are responsible for accurate, complete, and timely records)
+- Drafting shift handover and discharge summaries
+- Scheduling and consumables inventory tasks
+- Standard health education material compilation and personalization
+
+**Where AI augments the role:**
+
+- Risk alerts for falls, pressure injuries, sepsis, etc.
+- Medication and dosage verification reminders
+- Automatic prompts for abnormal vital signs
+- Case and evidence-based literature retrieval
+- Patient communication preparation and follow-up
+
+**Human moat:**
+
+- Registration license and legal liability
+- Bedside care and hands-on operations
+- Care relationships with patients and families
+- Clinical judgment for complex conditions
+- Multidisciplinary team coordination
+
+**Skills to build:**
+
+- Digital health / electronic health record (EHR) systems
+- Use and verification of AI-assisted risk alert tools
+- Data and evidence-based literacy
+- Communication and empathy
+- English and cross-cultural communication
+
+**Key growth areas:**
 
 - Aged Care & Dementia Nursing
 - ICU & Critical Care
@@ -74,93 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，护士为核心紧缺岗位，审批快 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，老年护理和农村护士优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，农村护士岗位广泛 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, nursing is a core shortage role with fast processing |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination +5 points, aged care and rural nursing prioritised |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; rural nursing positions are widely available |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学注册护士？**
-- 有护理执业背景（国内注册护士/护士执照），希望技能移民来澳
-- 英语能力达到或接近 OET B / IELTS 7.0，愿意持续提升
-- 接受夜班、轮班和老年护理/农村偏远地区就业
-- 有耐心和同理心，适应高情绪劳动工作环境
-- 目标是老年护理管理、专科护士或护士长职业路径
-
-**谁不适合学注册护士？**
-- 英语能力较弱，短期内无法达到 OET B 要求
-- 无法接受夜班、轮班或偶尔农村派驻
-- 情绪稳定性差，难以应对高压临床和患者去世情境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has a nursing background (registered nurse/nursing licence from home country) and is seeking a skilled migration pathway to Australia
+- English proficiency at or close to OET B / IELTS 7.0, with willingness to continuously improve
+- Willing to accept night shifts, rotating shifts, and employment in aged care or rural and remote areas
+- Patient and empathetic, suited to high-emotional-labour work environments
+- Career goal is aged care management, specialist nursing, or nurse unit manager
+
+**Who is not suited**
+- Weak English proficiency, unable to meet OET Grade B requirements in the short term
+- Unable to accept night shifts, rotating shifts, or occasional rural postings
+- Poor emotional stability; difficulty coping with high-pressure clinical settings and patient deaths
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a registered nurse in Australia?**
+A: Graduate registered nurses start at approximately $70,000–$78,000; mid-level nurses approximately $78,000–$100,000; specialist nurses (ICU/emergency) approximately $110,000–$135,000. Aged care nursing salaries have increased significantly following 2024 legislation, with some nurses now exceeding hospital pay levels.
+
+**Q: Is it easy for nurses to find work in Australia?**
+A: Very easy. Nurses are in extremely high demand; Seek consistently lists 8,000–14,000 positions year-round. Registration with AHPRA typically allows immediate employment, and employers often proactively offer visa sponsorship.
+
+**Q: Are Chinese nursing licences recognised in Australia?**
+A: Mutual recognition is available through the AHPRA (ANMAC assessment) process, with a timeline of approximately 3–12 months. The main hurdle is the English language requirement (OET B or IELTS 7.0+); it is advisable to prepare for this well in advance.
+
+**Q: Will AI replace nurses?**
+A: Replacement risk is extremely low. Nursing is highly dependent on interpersonal interaction, emotional support, clinical judgement, and physical care; AI-assisted diagnostics will not replace the core value of bedside nursing.
+
+**Q: Are there age limits for nurses in Australia?**
+A: No legal cap. There are many cases of overseas nurses aged 40-50 registering to practice in Australia, but migration points scores offer no points for ages 45+, so it is advisable to start the visa application early.
+
+**Q: Do nurses in Australia need a bachelor's degree?**
+A: Yes. AHPRA registration requires at least a Bachelor of Nursing (3 years) or equivalent. Domestic nursing diploma graduates need additional assessment, and in some cases, may need to make up credits.
+
+**Q: Is it difficult for overseas nurses to practise in Australia?**
+A: The main challenges are English (OET Band B requirements are relatively high, especially for speaking and listening) and the clinical adaptation period. Once qualified, finding work is not difficult — employers are very welcoming of experienced overseas-trained nurses.
+
+**Q: Which is better for skilled migration to Australia — nursing or general practice?**
+A: The nursing PR pathway is simpler and faster (no AMC exam required), with a salary sufficient for a comfortable lifestyle. GPs earn significantly more than nurses ($200k–$400k+ vs $80k–$120k), but the registration and credentialling process is far more complex. Those already holding a medical licence are advised to pursue the medical officer pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA | 注册护士注册要求和海外互认流程 |
-| Jobs and Skills Australia | ANZSCO 2544 注册护士职业档案与就业预测 |
-| ERI SalaryExpert | 注册护士平均年薪 $114,868（2026） |
-| ANMF | 澳洲护士协会薪资奖励标准（Nurses Award） |
-| Fair Work Commission | Nurses Award MA000034 薪资标准 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 很高（★★★★★） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-注册护士的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲注册护士工资多少？**
-答：新注册护士起薪约 $70,000~$78,000；中级护士约 $78,000~$100,000；专科护士（ICU/急诊）约 $110,000~$135,000。老年护理薪资因2024年立法大幅上涨，部分护士超越医院薪资水平。
-
-**问：澳洲护士容易找工作吗？**
-答：极容易。护士极度供不应求，Seek 常年挂牌 8,000~14,000 个职位，AHPRA注册后通常可立即入职，雇主常主动提供签证担保。
-
-**问：中国护士执照澳洲认可吗？**
-答：通过 AHPRA（ANMAC评估）流程可互认，周期约3~12个月。主要门槛是英语成绩（OET B或IELTS 7.0+），建议提前备考。
-
-**问：护士会被AI替代吗？**
-答：替代风险极低。护理工作高度依赖人际互动、情感支持、临床判断和体力操作，AI辅助诊断不会替代床旁护理的核心价值。
-
-**问：澳洲护士有年龄限制吗？**
-答：无法律上限。海外护士40~50岁来澳转注册的案例很多，但移民打分45岁以上无加分，建议尽早启动签证申请。
-
-**问：澳洲护士需要本科学历吗？**
-答：需要。AHPRA注册要求至少 Bachelor of Nursing（3年）或同等资历。国内护理专科毕业需额外评估，部分情况需补修学分。
-
-**问：海外护士在澳洲执业难吗？**
-答：主要难点是英语（OET B要求较高，口语和听力尤其严格）和临床适应期。通过后工作不难，雇主对有经验的海外护士非常欢迎。
-
-**问：护士和全科医生哪个更适合技术移民澳洲？**
-答：护士PR路径更简单快捷（无需AMC考试），薪资足够支撑体面生活；全科医生薪资远高于护士（$200k~$400k+ vs $80k~$120k），但注册和认证流程复杂得多，建议已有医生执照者走医生路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

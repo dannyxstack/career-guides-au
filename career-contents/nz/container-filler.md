@@ -1,60 +1,95 @@
-# Container Filler（Container Filler）职业分析 · 新西兰
+# Container Filler — career analysis · New Zealand
 
-**职业代码：832112 – Container Filler。**
+**Occupation code: 832112 (ANZSCO)**
 
-Container fillers load cargo into containers safely and efficiently, optimizing space and weight distribution while ensuring securement and compliance. In New Zealand, this role is accessible via AEWV work visa but typically not eligible for Skilled Migrant Category or Green List.
+Container fillers are responsible for safely and efficiently loading goods into containers, optimizing space and weight distribution, ensuring compliance and secure stowage. In New Zealand, this occupation can be worked under an AEWV visa, but it is generally not part of the Skilled Migrant Category or Green List.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训 | 1-3个月 | —（通常由雇主提供，无需学费） |
-| 短期课程 | 1周 | $300~$800（如叉车操作证或货物固定培训，费用自理） |
+| On-the-job training | 1-3 months. | $0~$0 (Usually provided by the employer, no tuition fees) |
+| Short-term courses | 1 week | $300~$800 (E.g. forklift operator license or cargo securing training, at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作证 | 新西兰认证机构如OTP | 可选 | 部分雇主要求，非强制但有利于就业 |
-| 货物固定培训 | 贸易认证委员会等提供 | 可选 | 有助于提高安全操作，非强制 |
+| Forklift operation certificate | New Zealand accreditation bodies such as OTP | Optional | Required by some employers, not mandatory but beneficial for employment |
+| Cargo securing training | Provided by trade certification bodies such as TRA | Optional | Helps improve safe operations, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 300。新西兰物流与运输行业持续稳定，集装箱填装需求受全球贸易影响。由于自动化程度有限，体力岗位仍存，但从业人数较少，就业机会主要集中在主要港口和物流中心。未来5年将温和增长，但需注意移民政策限制。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 300. New Zealand's logistics and transport industry remains stable, with container filling demand influenced by global trade. Due to limited automation, manual roles still exist but have a small workforce, with job opportunities mainly concentrated in major ports and logistics hubs. Moderate growth is expected over the next five years, but immigration policy restrictions should be noted.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 最低工资约NZD 23/小时，年薪按全职计算 |
-| 中级（3-5年） | $55,000~$65,000 | 经验丰富者可能获得略高薪酬 |
-| 高级（5年以上） | $60,000~$70,000 | 监督或团队负责人角色可达上限 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Minimum wage approximately NZD 23/hour, annual salary based on full-time work |
+| Mid-level (3–5 years) | $55,000~$65,000 | Experienced professionals may earn slightly higher salaries |
+| Senior (5+ years) | $60,000~$70,000 | Supervisory or team leader roles can reach the upper limit |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 入门级岗位可发展为资深填装工或监督员，部分可转向运输物流协调。积累经验后可能获得AEWV工签支持，但晋升路径较窄。缺乏学历要求，主要依赖在职培训。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Container fillers' work is highly structured and repetitive; AI and automation systems (e.g., optimization algorithms and robotics) will gradually reduce demand for this role, especially in core tasks like space optimization and cargo securing, leading to fewer jobs and lower entry barriers.
+
+Entry-level roles can progress to senior packers or supervisors, some may transition to transport logistics coordination. Gaining experience may lead to AEWV work visa support, but career paths are limited. No educational qualifications required, mainly relying on on-the-job training.
+
+**Tasks most exposed to AI:**
+
+- use optimization software to automatically calculate the best arrangement of goods in containers to maximize space utilization
+- Actual loading and stacking of goods via robots or automated equipment
+- Use sensors and AI systems to automatically check cargo securing and balance.
+- Automatically generate loading reports and compliance documents
+- Coordinate logistics for goods inbound and outbound; AI systems replace manual scheduling
+
+**Where AI augments the role:**
+
+- Monitor automated filling system operations and handle abnormal situations
+- Final review and adjustment of AI-optimized loading plans (e.g., handling special cargo)
+- Operate and maintain automated filling equipment
+- Train other workers in new technologies and systems
+- Interact with warehouse management systems (WMS) to optimize overall processes
+
+**Human moat:**
+
+- Physical ability to handle oversized or irregularly shaped cargo.
+- Knowledge of safe handling of hazardous and special goods
+- On-site rapid decision-making and handling of unexpected issues (e.g., equipment failure)
+- Interpersonal communication and coordination skills with supply chain parties
+
+**Skills to build:**
+
+- Automated equipment operation and maintenance
+- Basics of warehouse management systems (WMS) and logistics software.
+- Data analysis and report interpretation
+- Safety regulations and compliance knowledge
+- Basic programming and robot interaction skills
+- Basic understanding of logistics optimization algorithms
+
+**Key growth areas:**
 
 - Limited
 - AEWV
@@ -63,63 +98,65 @@ Container fillers load cargo into containers safely and efficiently, optimizing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签是主要途径，需获得有资质的雇主offer，岗位通常不在绿色清单或技能移民列表中。 |
+| Subclass AEWV (Accredited Employer Work Visa) | The approved employer work visa is the main pathway; must obtain an offer from an approved employer; the role is usually not on the Green List or skill migration list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Container Filler？**
-- 需要体力、不畏劳累的劳动者。
-- 愿意从事重复性工作、不追求高薪者。
+**Who is suited**
+- Workers needed with physical strength and willingness to work hard.
+- Those willing to do repetitive work and not seeking high salary.
 
-**谁不适合学Container Filler？**
-- 期望快速获得新西兰永久居留权者。
-- 希望从事高技能或管理岗位者。
+**Who is not suited**
+- For those seeking New Zealand permanent residency quickly.
+- For those seeking high-skilled or management roles.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual salary for a Container Filler in New Zealand?**
+A: Entry approx NZ$45,000-55,000, experienced up to NZ$70,000, but overall below New Zealand median salary.
+
+**Q: Can a container filler apply for New Zealand skilled migration?**
+A: No. This occupation usually does not meet the requirements for Skilled Migrant Category or Green List, only available via AEWV work visa, making the immigration pathway difficult.
+
+**Q: What skills or certifications are needed to become a container filler?**
+A: Primarily on-the-job training; holding a forklift license and cargo securing course increases job opportunities. No degree required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Container Filler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a container filler in New Zealand?**
-答：Entry-level around NZD 45,000-55,000, experienced up to NZD 70,000, but generally below median wage.
-
-**问：Can a container filler apply for New Zealand skilled migration?**
-答：No. This role is not typically eligible for SMC or Green List; only AEWV work visa, making residency difficult.
-
-**问：What skills or certificates are needed to become a container filler?**
-答：Mainly on-the-job training; forklift license and cargo securement courses help. No qualifications required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

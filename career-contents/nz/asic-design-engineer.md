@@ -1,145 +1,171 @@
-# ASIC 芯片设计工程师（ASIC Design Engineer）职业分析 · 新西兰
+# ASIC Design Engineer — career analysis · New Zealand
 
-**职业代码：233411 – ASIC Design Engineer。**
+**Occupation code: 233411-ASIC (ANZSCO)**
 
-ASIC 设计工程师负责专用集成电路的数字前端(RTL 设计/综合)或后端(物理设计/时序收敛)，面向 SoC、AI 加速器与专用芯片，是稀缺、高门槛、高薪的深科技岗位。
+ASIC design engineers are responsible for the digital front-end (RTL design/integration) or back-end (physical design/timing convergence) of application-specific integrated circuits, targeting SoCs, AI accelerators, and dedicated chips. These are scarce, high-threshold, and well-paid deep-tech positions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 认可电子/微电子/计算机工程学位（部分岗位需硕士） | 4~6 年 | $20,000~$200,000（本地生较低，国际生较高） |
-| 专业方向进阶（仿真/RTL/验证/储能等） | 6~24 个月 | $2,000~$40,000（岗位核心工具链与方法学实操） |
-| 学历认证/职业评估（Engineering New Zealand） | 2~6 个月 | $500~$3,000（技术移民与执业所需） |
+| Recognized degrees in Electronics/Microelectronics/Computer Engineering (some positions require a master's) | 4~6 years | $20,000~$200,000 (Local students are relatively low, while international students are higher) |
+| Advanced professional directions (simulation/RTL/verification/energy storage, etc.) | 6~24 months | $2,000~$40,000 (Core Toolchain and Methodology Practical Practice for Positions) |
+| Academic Credentials / Vocational Assessment (Engineering New Zealand) | 2~6 months | $500~$3,000 (Skilled Immigration and Practice Requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可工程学位 / 学历认证（Engineering New Zealand） | Engineering New Zealand | 必备 | 执业与技术移民评估基础 |
-| 岗位核心工具/方法学能力 | 项目实践 | 可选 | 如并网仿真、RTL/时序、UVM 验证、储能标准等 |
+| Recognized Engineering Degrees / Qualifications (Engineering New Zealand) | Engineering New Zealand | Required | Basics of Assessment for Practice and Skilled Migration |
+| Core tools/methodological competencies for the position | Project practice | Optional | Such as grid-connected simulation, RTL/timing, UVM verification, energy storage standards, and more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★½☆☆）。** 全国从业人数约 400。在新西兰，全球芯片自主与 AI 加速需求外溢，ASIC 芯片设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
+**Job demand: medium (★★½☆☆).** National workforce approx. 400. In New Zealand, global chip autonomy and AI demand are accelerating overflow, ASIC chip design engineers are scarce and supply is even scarcer, senior talent is in short supply, and salaries are at the high end of electronic engineering.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| Seek NZ | 5~40 个 | ASIC 芯片设计工程师及相邻岗位（新西兰） |
-| Trade Me Jobs | 10~50 个 | ASIC 芯片设计工程师及相邻岗位（新西兰） |
-| LinkedIn | 15~70 个 | ASIC 芯片设计工程师及相邻岗位（新西兰） |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（NZD） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $95,000~$120,000 | 起薪，随雇主与地区（$95,000~$120,000） |
-| 中级（3~7 年） | $120,000~$150,000 | 行业中位区间（$120,000~$150,000） |
-| 资深/主任（8 年+） | $150,000~$185,000 | 资深/专家，含项目津贴（$150,000~$185,000） |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Beginner (0~3 years) | $95,000~$120,000 | Starting salary varies by employer and region ($95,000~$120,000) |
+| Intermediate Level (3~7 years) | $120,000~$150,000 | Industry Median Range ($120,000~$150,000) |
+| Senior/Director (8+) | $150,000~$185,000 | Senior/Expert, including project allowance ($150,000~$185,000) |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 新西兰 AI 加速器与低功耗/模拟设计为主线，掌握 RTL/时序/版图的工程师稀缺；AI 辅助有限，架构与流片责任高度专业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+ASIC design engineers face mixed feelings: AI will significantly improve the efficiency of automated tasks such as RTL generation, comprehensive optimization, and timing analysis, but complex architectural decisions, cross-level collaboration, and final pre-tape-out sign-off still require human judgment. Entry-level positions (such as simple RTL modules) may be squeezed, but demand for high-end positions is growing.
 
-- 数字前端 RTL 设计与综合
-- 低功耗/高性能 SoC 设计
-- AI 加速器与专用芯片(ASIC)
-- 后端物理设计与时序收敛
-- 芯片初创与无晶圆(fabless)设计
+New Zealand's AI accelerators focus on low-power/simulation design, with engineers skilled in RTL/timing/layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
+
+**Tasks most exposed to AI:**
+
+- Code generation for simple RTL modules (AI automatically generates Verilog/VHDL based on high-level descriptions)
+- Basic comprehensive process setup and optimization (AI automatic selection library and constraints)
+- Generate time series analysis reports and automatically fix common violations
+- Automatic generation of power consumption analysis reports and simple optimization recommendations
+
+**Where AI augments the role:**
+
+- AI-assisted high-level architecture exploration (rapid assessment of area-power-performance trade-offs)
+- AI-driven verification coverage analysis and automatic generation of test cases
+- AI-Assisted Layout and Routing Optimization in Physical Design (Reducing Number of Iterations)
+- AI automatically generates design documents and checklists during cross-team collaboration
+- AI accelerated version regression testing and parameter tuning (such as comprehensive strategies, DFT insertion)
+
+**Human moat:**
+
+- Complex architectural decisions (such as microarchitecture innovations, non-routine trade-offs between power, performance, and area)
+- Cross-domain coordination (integration and specification definition with simulation, validation, testing, and software teams)
+- Final Approval Judgment Before Tape-Out (Based on Experience-Based Risk Assessment and Contingency Plan)
+- Chip safety and reliability design (side channel protection, aging detection design, etc.)
+
+**Skills to build:**
+
+- Master AI-assisted design tools (such as Synopsys DSO.ai, Cadence Cerebrus)
+- Strengthening system-level architecture design capabilities (SoC integration, heterogeneous computing)
+- Learn advanced verification methodologies (UVM, formal verification, AI-driven coverage)
+- Familiar with emerging chip fields (AI accelerators, RISC-V customization, quantum control chips)
+- Enhance Python/Perl/Tcl scripting capabilities to master AI workflows
+- Learn the fundamentals of chip safety and reliability design
+
+**Key growth areas:**
+
+- Digital Frontend RTL Design & Synthesis
+- Low-Power/High-Performance SoC Design
+- AI Accelerators & ASICs
+- Backend Physical Design and Timing Closure
+- Chip Startup & Fabless Design
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List（技能紧缺清单直通居留） | Green List（技能紧缺）：电气/软件工程符合条件可直接申请居留（Straight to Residence） |
-| Subclass AEWV（认可雇主工签） | Accredited Employer Work Visa：雇主担保工签 |
-| Subclass SMC（技术移民居留） | Skilled Migrant Category：积分制技术移民居留 |
+| Subclass Green List (The Skills Shortage List provides direct access to residence) | Green List (Skill Shortage): Electrical/Software Engineering eligible applicants can apply directly for residence (Straight to Residence) |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer-sponsored work visa |
+| Subclass SMC (Skilled migrant residency) | Skilled Migrant Category: Points-based skilled migration residency |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ASIC 芯片设计工程师？**
-- 相关工程背景，愿深耕能源/半导体新兴方向
-- 掌握或愿学岗位核心工具与方法学
-- 希望进入长期增长赛道并考虑技术移民
-- 细致、责任心强，能承担工程判断
-
-**谁不适合学ASIC 芯片设计工程师？**
-- 数理/工程基础薄弱且不愿长期投入
-- 排斥标准、合规与安全为核心的工程工作
-- 期望短期速成、不接受多年经验积累
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Relevant engineering background, willing to focus on emerging energy/semiconductor fields.
+- Master or wish to learn core tools and methodologies for the position
+- Those hoping to enter the long-term growth track and considering skilled migration
+- Meticulous, highly responsible, able to make engineering judgments
+
+**Who is not suited**
+- Weak mathematical or engineering foundations and unwillingness to invest long-term
+- Engineering work centered on standards, compliance, and safety
+- Expect short-term quick success, not years of accumulated experience
+
+---
+
+## 8. FAQ
+
+**Q: How much do ASIC chip design engineers in New Zealand earn?**
+A: Entry-level about NZ$95,000-120,000; senior about NZ$150,000-185,000. Salaries vary by region, industry, and project; see salary table for details.
+
+**Q: What is the demand for ASIC chip design engineers in New Zealand?**
+A: In New Zealand, global chip autonomy and AI demand are accelerating overflow, ASIC chip design engineers are scarce and supply is even scarcer, senior talent is in short supply, and salaries are at the high end of electronic engineering.
+
+**Q: Is overseas experience recognized in New Zealand?**
+A: Overseas degrees must be certified/assessed by Engineering New Zealand; Core tools and project experience for the position are direct bonuses.
+
+**Q: Will ASIC chip design engineers be replaced by AI?**
+A: Low risk. AI-assisted analysis and generation, but engineering design, safety compliance, and responsibility judgment are handled by certified engineers, making it an AI-enhanced position.
+
+**Q: Can ASIC chip design engineers immigrate to New Zealand through skilled migration?**
+A: Yes. Classified as a shortage engineering occupation, you can follow New Zealand's corresponding skilled migration/employer-sponsored pathway; Specific thresholds are shown on the visa form.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ERI SalaryExpert | Power Systems Engineer NZ 约 NZ$143k；入门 $102k、资深 $165k |
-| SEEK NZ / PayScale | Firmware/Embedded 约 NZ$110k~$128k；电子工程参考 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 中等偏低（★★½☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★★☆☆☆） |
-
-ASIC 芯片设计工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：新西兰ASIC 芯片设计工程师工资多少？**
-答：初级约 $95,000~$120,000；资深约 $150,000~$185,000（NZD）。薪资随地区、行业与项目而定，具体见薪资表。
-
-**问：ASIC 芯片设计工程师在新西兰需求怎样？**
-答：在新西兰，全球芯片自主与 AI 加速需求外溢，ASIC 芯片设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
-
-**问：海外经验在新西兰认可吗？**
-答：海外学历需经Engineering New Zealand认证/评估；岗位核心工具与项目经验是直接加分项。
-
-**问：ASIC 芯片设计工程师会被 AI 替代吗？**
-答：风险低。AI 辅助分析与生成，但工程设计、安全合规与责任判断由持证工程师承担，属 AI 增强型岗位。
-
-**问：ASIC 芯片设计工程师能在新西兰技术移民吗？**
-答：能。归入紧缺工程职业，可走新西兰对应的技术移民/雇主担保通道；具体门槛见签证表。
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

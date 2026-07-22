@@ -1,62 +1,97 @@
-# Aged Care Worker（Aged Care Worker）职业分析 · 新西兰
+# Aged Care Worker — career analysis · New Zealand
 
-**职业代码：423111 – Aged Care Worker。**
+**Occupation code: 423111 (ANZSCO)**
 
-Aged Care Workers in New Zealand assist elderly with daily living, personal care, and social support. The aging population drives high demand, but immigration options are limited, primarily through Accredited Employer Work Visa (AEWV); skilled migration requires meeting higher criteria.
+Aged care workers in New Zealand provide daily care, personal care, and social support to the elderly. Due to an aging population, demand for this occupation continues to grow, but migration pathways are limited, mainly relying on the Accredited Employer Work Visa (AEWV), with skilled migration requiring higher standards.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰NCEA 3级或同等学历 | 2年 | —（可通过中学教育或免费社区课程获得） |
-| 新西兰健康与福祉证书（老年护理） | 6-12个月 | $2,000~$8,000（理工学院或私立培训机构提供） |
-| 新西兰护理学学士（注册护士路径） | 3年 | $20,000~$60,000（大学本科课程，国际学生学费更高） |
+| New Zealand NCEA Level 3 or equivalent | 2 years | $0~$5,000 (Can be obtained through secondary education or free community courses) |
+| New Zealand Certificate in Health and Wellbeing (Aged Care) | 6–12 months | $2,000~$8,000 (Provided by polytechnic or private training institutions) |
+| New Zealand Bachelor of Nursing (Registered Nurse pathway) | 3 years | $20,000~$60,000 (University undergraduate course, higher tuition for international students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰健康与福祉证书（4级） | 新西兰资格认证局 | 可选 | 行业标准入门资格，非强制但普遍要求 |
-| 新西兰急救证书 | 圣约翰急救等机构 | 可选 | 部分雇主要求持有 |
-| 新西兰护理实践注册（如成为注册护士） | 新西兰卫生从业人员能力保证局 | 可选 | 如需从事护士工作则强制 |
+| New Zealand Certificate in Health and Wellbeing (Level 4) | New Zealand Qualifications Authority | Optional | Industry standard entry qualification, not mandatory but commonly required |
+| New Zealand First Aid Certificate | Institutions like St John Ambulance | Optional | Some employers require holding |
+| New Zealand nursing practice registration (e.g., becoming a registered nurse) | Health Practitioners Competence Assurance Board of New Zealand | Optional | Mandatory if working as a nurse |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 30,000。新西兰人口老龄化加速，尤其是80岁以上人群增长迅速，导致老年护理领域长期紧缺。2025-2030年预计需新增数千名护理工，但薪资水平较低，行业依赖政府资助。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. New Zealand's aging population is accelerating, especially the rapid growth of those aged 80+, leading to long-term shortages in aged care. 2025-2030 is expected to require thousands more caregivers, but salary levels are low and the industry relies on government funding.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: very low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$50,000 | 时薪约22-24纽元 |
-| 中级（3-5年） | $50,000~$55,000 | 含经验津贴 |
-| 高级（5年以上） | $55,000~$65,000 | 团队领导或特殊护理附加 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$50,000 | Hourly wage approximately 22-24 NZD. |
+| Mid-level (3–5 years) | $50,000~$55,000 | Includes experience allowance. |
+| Senior (5+ years) | $55,000~$65,000 | Team leader or additional special care |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级护理工可通过积累经验晋升为高级护理工或团队领导，部分可攻读护理学成为注册护士。行业培训路径清晰，但薪资增长缓慢，管理职位机会有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
+
+Entry-level care workers can advance to senior care workers or team leaders through experience, some can study nursing to become registered nurses. Industry training paths are clear, but salary growth is slow, and management opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Documentation and report generation: AI automatically generates care logs, medication records, and anomaly reports
+- Scheduling and task allocation: AI optimizes caregiver shifts and client visit routes
+- Basic health monitoring data collation: AI automatically aggregates metrics like blood pressure and blood glucose and issues alerts
+- Partially standardized daily conversations: AI chatbots handle routine inquiries (e.g., meal times)
+
+**Where AI augments the role:**
+
+- Individualized care plan development: AI analyzes client data to recommend more precise activities and dietary plans.
+- Fall/risk prediction: AI uses sensor data for early warnings, assisting caregivers in preventing accidents
+- Family communication and reporting: AI generates customized monthly reports to enhance family trust
+- Training and skill enhancement: AI simulated scenarios for nursing staff to practice complex care situations
+- Cross-language/cross-cultural communication: AI real-time translation aids communication with elderly from multicultural backgrounds
+
+**Human moat:**
+
+- Building trust and emotional support: human empathy, patience, and non-verbal communication are irreplaceable.
+- Flexible judgment and emergency response in unexpected situations: e.g. comprehensive assessment of injuries and emotions after an elderly person falls
+- Physical contact and intimate care: tasks requiring detailed physical contact such as assisting with eating, bathing, and toileting
+- Ethical decision-making and end-of-life care: making humane, respectful judgments in terminal care
+- Adaptation to unstructured environments: dealing with erratic behaviour or sudden cognitive changes in the elderly
+
+**Skills to build:**
+
+- Proficiency in nursing management software (e.g., AlayaCare, MYP)
+- Basic data analysis: interpreting AI early warning reports and translating into actions
+- Communication and empathy skills: especially delivering personalised care with AI assistance
+- Digital health literacy: use wearable devices and remote monitoring platforms
+- Cross-cultural care ability: adapting to diverse needs of elderly immigrant populations
+- Continuous learning mindset: keep up with AI tool updates and best practices
+
+**Key growth areas:**
 
 - Demand Driven
 - Aging Population
@@ -65,66 +100,68 @@ Aged Care Workers in New Zealand assist elderly with daily living, personal care
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 主要工签路径，需雇主认证且工资达到中位数（2025年约29.66纽元/时），但护理工通常低于中位数，难度较大 |
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制（学历+工作经历），且工资至少为中位数1.5倍（约44.49纽元/时），老年护理工通常难以达到 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 老年护理工不在绿色清单上，无法直接申请 |
+| Subclass AEWV (Accredited Employer Work Visa) | Main work visa pathway requires employer accreditation and median wage (approx. NZD 29.66/hour in 2025), but care workers often earn below median, making it challenging. |
+| Subclass SMC (Skilled Migrant Category) | Must meet six-point system (qualifications + experience) and wage at least 1.5x median (~44.49 NZD/hr), often unattainable for aged care workers. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Aged care workers are not on the Green List and cannot apply directly. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aged Care Worker？**
-- 有耐心和爱心，愿意从事体力劳动的人
-- 希望快速入职、不需要高学历的人
-- 本地居民或已有新西兰身份的人
+**Who is suited**
+- People with patience, compassion, and willingness for physical work
+- People who want to start work quickly without needing a high level of education
+- Local residents or those who already hold New Zealand residency
 
-**谁不适合学Aged Care Worker？**
-- 追求高薪且希望技术移民的人
-- 不愿从事体力劳动或接触老年人的人
+**Who is not suited**
+- People seeking high salaries and aiming for skilled migration
+- Those unwilling to do physical labor or work with elderly people
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for aged care workers in New Zealand?**
+A: Junior annual salary approx NZ$45,000-50,000, senior up to NZ$65,000, below national median income.
+
+**Q: Can aged care workers immigrate to New Zealand?**
+A: Immigration is very difficult; this occupation is not on the Green List. The main pathway is through an Accredited Employer Work Visa (AEWV), but skilled migration requires 1.5 times the median wage, which is often hard to meet.
+
+**Q: Is there high demand for aged care workers in New Zealand?**
+A: High demand due to an aging population. However, due to low wages and immigration restrictions, there is a shortage, mainly relying on local training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | very low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Aged Care Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an Aged Care Worker in New Zealand?**
-答：Entry-level salary is around NZ$45,000-50,000 per year, rising to NZ$65,000 for senior roles, below the national median.
-
-**问：Can an Aged Care Worker immigrate to New Zealand?**
-答：Immigration is very difficult as the occupation is not on the Green List. Main pathway is the Accredited Employer Work Visa, but Skilled Migrant requires 1.5x the median wage, which is hard to achieve.
-
-**问：Is there strong demand for Aged Care Workers in New Zealand?**
-答：Yes, due to an aging population. However, low wages and immigration restrictions lead to a shortage, relying mainly on local training.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

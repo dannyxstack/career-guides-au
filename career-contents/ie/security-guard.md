@@ -1,60 +1,92 @@
-# Security Guard（Security Guard）职业分析 · IE
+# Security Guard — career analysis · Ireland
 
-**职业代码：5414 – Security Guard。**
+**Occupation code: 5414 (ISCO08)**
 
-Security guards protect property, people, and premises through patrols, surveillance, and access control. In Ireland, demand is stable but salaries are relatively low.
+Security officers protect property, people, and premises, including patrolling, monitoring, and access control. In Ireland, the profession has stable demand but relatively low salary levels.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式教育 | —（一般要求高中文凭） |
-| 职业培训证书 | 数周至数月 | $500~$1,500（如PSA许可培训） |
+| High school graduation | No formal education required | $0~$0 (Generally requires a high school diploma) |
+| Vocational training certificate | A few weeks to several months | $500~$1,500 (e.g., PSA licensed training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PSA许可 | Private Security Authority (PSA) | 必备 | 爱尔兰法律规定保安必须持有PSA许可证 |
-| 急救证书 | 各类培训机构 | 可选 | 雇主通常要求 |
+| PSA license | Private Security Authority (PSA) | Required | Irish law requires security personnel to hold a PSA license |
+| First aid certificate | Various training institutions | Optional | Employers typically require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。爱尔兰保安就业前景稳定，受商业和住宅安全需求驱动。预计未来几年就业增长温和，但竞争可能因低门槛而增加。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The employment outlook for security guards in Ireland is stable, driven by commercial and residential security needs. Employment growth is expected to be moderate in the coming years, but competition may increase due to low entry barriers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-5年） | $30,000~$35,000 | 税前年薪 |
-| 高级（5年以上） | $35,000~$45,000 | 税前年薪，含主管职位 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $30,000~$35,000 | Annual pre-tax salary |
+| Senior (5+ years) | $35,000~$45,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $33,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 保安可晋升为高级保安、保安主管或安全经理。进一步培训可转向私人调查或企业安全管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
+
+Security guards can advance to senior security guard, security supervisor, or security manager. Further training can lead to private investigation or corporate security management.
+
+**Tasks most exposed to AI:**
+
+- AI video surveillance automatically detects abnormal events and alerts
+- Automated visitor registration and identity verification systems replace manual registration
+- AI-driven patrol robots replacing fixed-route patrols
+
+**Where AI augments the role:**
+
+- AI video analysis assisting real-time threat assessment and decision-making
+- AI report generation tools quickly summarize event logs
+- AI voice assistant supports emergency response communication and coordination
+- AI training simulators improve exercise effectiveness
+
+**Human moat:**
+
+- On-site emergency judgment and crisis intervention ability
+- Interpersonal communication and persuasion with clients, visitors, and law enforcement
+- Legal compliance and licensing liability (e.g., use-of-force boundaries)
+- Risk assessment intuition in complex physical environments
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Basic cybersecurity knowledge (integration of physical security and IT)
+- Emergency communication and coordination software (e.g., Duress system).
+- Advanced training in conflict resolution and counter-terrorism awareness.
+- Data privacy regulations and compliance (Australian Privacy Act)
+- Digital reporting and visualization tools (e.g., Tableau)
+
+**Key growth areas:**
 
 - Stable demand
 - Moderate growth
@@ -63,62 +95,64 @@ Security guards protect property, people, and premises through patrols, surveill
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于欧盟蓝卡门槛的非紧缺职业，需雇主担保 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约€34,000，保安职业通常不符合 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage with annual salary below the EU Blue Card threshold, requires employer sponsorship |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, with an annual salary threshold of approximately €34,000; security occupations are generally not eligible |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Security Guard？**
-- 偏好稳定、低技能工作的人群
-- 有良好观察力和责任感的人
-- 能适应轮班和站立工作的人
+**Who is suited**
+- People who prefer stable, low-skill jobs
+- People with good observation skills and a sense of responsibility
+- Able to adapt to shift work and standing work
 
-**谁不适合学Security Guard？**
-- 追求高薪和职业发展的人
-- 不喜夜间或户外工作的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- Those who dislike night or outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a security guard in Ireland?**
+A: Entry-level security guards earn approximately €25,000-30,000 per year; senior or supervisors can reach €35,000-45,000.
+
+**Q: Can security guards immigrate to Ireland through a work visa?**
+A: Security guard occupations typically do not meet the high-skilled requirements of the EU Blue Card. General employment permits are available, but require employer sponsorship and an annual salary of at least €30,000. This is not a shortage occupation, making immigration relatively difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Security Guard属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for security guards in Ireland?**
-答：Entry-level security guards earn about €25,000-€30,000 per year, while senior or supervisor roles can reach €35,000-€45,000.
-
-**问：Can security guards migrate to Ireland via work visa?**
-答：Security guards generally do not qualify for the EU Blue Card due to skill level. They may apply for a General Employment Permit with employer sponsorship and salary above €30,000. Not a shortage occupation, migration is difficult.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

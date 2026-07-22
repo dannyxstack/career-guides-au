@@ -1,57 +1,93 @@
-# Veterinarian（Veterinarian）职业分析 · NL
+# Veterinarian — career analysis · Netherlands
 
-**职业代码：2250 – Veterinarian。**
+**Occupation code: 2250 (ISCO08)**
 
-Veterinarians diagnose, treat, and prevent diseases, injuries, and disorders in animals, including pets, livestock, and wildlife.
+Veterinarians diagnose, treat, and prevent diseases, injuries, and disorders in animals, including companion animals, livestock, and wildlife.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 兽医学士（Diergeneeskunde） | 6年（本科+硕士一体化） | $15,000~$20,000（欧盟学生约€2,300/年，非欧盟学生约€15,000-20,000/年） |
+| Bachelor of Veterinary Medicine (Diergeneeskunde) | 6 years (integrated bachelor's and master's degree) | $15,000~$20,000 (EU students approx. €2,300/year, non-EU students approx. €15,000-20,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册兽医（BIG-registratie） | 荷兰兽医协会（KNMvD） | 必备 | 完成学位后必须在BIG注册才能执业 |
-| 执业许可（Beroepsaansprakelijkheidsverzekering） | 专业责任保险机构 | 必备 | 必须购买职业责任保险 |
+| Registered veterinarian (BIG-registratie) | Royal Netherlands Veterinary Association (KNMvD) | Required | Must register with BIG to practice after completing degree |
+| Professional Indemnity Insurance (Beroepsaansprakelijkheidsverzekering) | Professional Liability Insurance Provider | Required | Must take out professional indemnity insurance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 7,500。荷兰兽医行业需求稳定，尤其是伴侣动物医疗和食品安全领域。由于宠物保有量增加和动物福利意识提升，就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 7,500. The veterinary industry in the Netherlands has stable demand, particularly in companion animal care and food safety. Due to increased pet ownership and animal welfare awareness, job prospects are good.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $45,000~$60,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $60,000~$85,000 | 税前年薪，含奖金；专科兽医或诊所所有者更高 |
+| Median salary | $79,238 | Median Salary (Official: CBS median hourly wage €40.1/hour × 1976h annualized, BRC group 1011 Artsen; P25–P75 €62,244–€117,177, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $45,000~$60,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $60,000~$85,000 | Pre-tax annual salary including bonuses; higher for specialist veterinarians or clinic owners |
+| average salary | $55,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级兽医可晋升为专科兽医（如外科、牙科），或转向研究、教学、公共卫生、动物制药等行业。有经验者可开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
+
+Junior veterinarians can advance to specialist veterinarians (e.g., surgery, dentistry), or transition to research, teaching, public health, animal pharmaceuticals, and other industries. Experienced individuals can open private clinics.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of imaging (X-ray/ultrasound) assisted by AI
+- Standardized medical record entry and prescription generation
+- Automated appointment management for routine vaccinations and deworming
+- Automated interpretation of lab sample analysis (blood count/chemistry)
+- Simple symptom consultation in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide reference for rare case identification
+- Robot-assisted surgery improves precision in minimally invasive procedures
+- Continuous monitoring of patient rehabilitation data via smart wearable devices
+- Big data analytics to predict disease outbreaks and medication trends
+- Personalized medical plan generation (based on genetics and medical history)
+
+**Human moat:**
+
+- Manual dexterity and adaptability in complex surgeries
+- Empathetic communication and trust-building with pet owners.
+- Cross-species clinical judgment (especially for large animals)
+- Ethical decisions (e.g., timing of euthanasia)
+- On-site handling ability in emergency situations
+
+**Skills to build:**
+
+- Operating AI diagnostic imaging tools and verifying results
+- Telemedicine platform usage and data analysis
+- Genomics and precision medicine knowledge
+- Basics of animal behavior and psychology
+- Advanced management of digital health records (EHR)
+- Surgical Robot Collaboration Skills
+
+**Key growth areas:**
 
 - Companion animal care
 - Animal welfare
@@ -60,68 +96,67 @@ Veterinarians diagnose, treat, and prevent diseases, injuries, and disorders in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，需雇主担保且工资达到门槛（2024年€5,331/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高度专业人才，需工资达到门槛（2024年约€5,500/月） |
-| Subclass Orientation Year（Orientation Year for Graduates） | 适用于在荷兰大学毕业的留学生，可求职一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, requiring employer sponsorship and meeting the salary threshold (€5,331/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly specialized talent, requiring a salary threshold (2024 approx. €5,500/month). |
+| Subclass Orientation Year (Orientation Year for Graduates) | Applicable to international students who graduated from a Dutch university, allowing one year to find a job |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian？**
-- 对动物有强烈爱心和耐心的人
-- 具备科学思维和解决问题能力的人
-- 能承受情感压力（如安乐死）的人
-
-**谁不适合学Veterinarian？**
-- 对血液或手术感到不适的人
-- 不喜欢与动物主人沟通的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong love and patience for animals
+- People with scientific thinking and problem-solving skills
+- People who can cope with emotional stress (e.g., euthanasia)
+
+**Who is not suited**
+- People who are uncomfortable with blood or surgery
+- Dislikes communicating with pet owners
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for veterinarians in the Netherlands?**
+A: Junior veterinarian annual salary approx. €35,000-45,000, mid-level approx. €45,000-60,000, senior up to €85,000. Specialist vets or clinic owners earn more.
+
+**Q: How can non-EU veterinarians immigrate to the Netherlands?**
+A: Available via highly skilled migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Graduates from Dutch institutions can apply for an Orientation Year visa.
+
+**Q: What registrations are needed to practice in the Netherlands?**
+A: Must register with BIG (managed by the Royal Netherlands Veterinary Association, KNMvD) and purchase professional liability insurance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Veterinarian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for veterinarians in the Netherlands?**
-答：Entry-level veterinarians earn around €35,000-45,000 annually, mid-level €45,000-60,000, and senior up to €85,000. Specialists or clinic owners earn more.
-
-**问：How can non-EU veterinarians migrate to the Netherlands?**
-答：Via Highly Skilled Migrant or EU Blue Card with employer sponsorship and salary threshold. Graduates from Dutch universities can apply for Orientation Year visa.
-
-**问：What registration is required to practice in the Netherlands?**
-答：Registration with BIG (via KNMvD) and mandatory professional liability insurance.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

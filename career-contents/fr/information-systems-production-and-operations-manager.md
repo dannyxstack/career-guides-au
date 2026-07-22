@@ -1,60 +1,96 @@
-# Information Systems Production and Operations Manager（Information Systems Production and Operations Manager）职业分析 · FR
+# Information Systems Production and Operations Manager — career analysis · France
 
-**职业代码：M1810 – Information Systems Production and Operations Manager。**
+**Occupation code: M1810 (ROME)**
 
-Responsible for the production, deployment, operation and continuous improvement of information systems, ensuring high availability and security.
+Responsible for the production, deployment, operation and maintenance, and continuous optimization of information systems to ensure high availability and security.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT | 2年 | —（公立院校约0-500欧元/年，私立约3000-5000欧元/年） |
-| Licence professionnelle | 3年 | —（公立大学约0-500欧元/年，私立约3000-8000欧元/年） |
-| Master/Bac+5 | 5年 | —（公立大学约0-500欧元/年，工程师学院约3000-12000欧元/年） |
+| BTS/DUT | 2 years | $0~$5,000 (Public institutions approx EUR 0-500/year, private EUR 3,000-5,000/year.) |
+| Licence professionnelle | 3 years | $0~$8,000 (Public universities cost about 0-500 euros per year, private universities about 3000-8000 euros per year) |
+| Master/Bac+5 | 5 years | $0~$12,000 (Public universities approx. €0-€500/year; engineering schools approx. €3,000-€12,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ITIL认证 | AXELOS | 可选 | IT服务管理最佳实践，非强制但雇主偏好 |
-| 云平台认证（AWS/Azure/GCP） | Amazon/Microsoft/Google | 可选 | 云运维方向加分项 |
-| 项目管理认证（PMP/PRINCE2） | PMI/APMG | 可选 | 管理岗位推荐 |
+| ITIL certification | AXELOS | Optional | IT service management best practices, non-mandatory but employer-preferred |
+| Cloud Platform Certification (AWS/Azure/GCP) | Amazon/Microsoft/Google | Optional | Cloud operations and maintenance direction is a bonus item |
+| Project Management Certification (PMP/PRINCE2) | PMI/APMG | Optional | Management position recommendations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 85,000。法国数字化转型持续推进，企业上云和IT系统复杂度增加，该类岗位需求强劲。France Travail列为紧缺职业，预计未来五年岗位增长10%以上。
+**Job demand: very high (★★★★½).** National workforce approx. 85,000. France's digital transformation continues to advance, with enterprises adopting cloud and IT systems becoming more complex, and demand for these positions is strong. France Travail is listed as a scarce occupation, with job growth expected to exceed 10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $60,000~$85,000 | 税前年薪，含奖金 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $60,000~$85,000 | Annual pre-tax salary, including bonuses |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★½）。** 可从IT运维工程师晋升为运维经理、IT基础设施总监，或向云架构师、DevOps专家转型。具备项目管理认证（如PMP）或云认证（AWS/Azure）可加速晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
+
+You can advance from IT operations engineer to operations manager or IT infrastructure director, or transition to cloud architect or DevOps expert. Holding project management certifications (such as PMP) or cloud certifications (AWS/Azure) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated project progress tracking and status report generation
+- AI-assisted code review and automated test case generation
+- standardized IT operations tasks (e.g., server monitoring, log analysis)
+- Automatically generate technical documentation and user manuals
+- Data-Driven Decision Support Reports (e.g., Cost Analysis, Resource Optimization Recommendations)
+
+**Where AI augments the role:**
+
+- Using AI to predict project risks and adjust resource allocation in advance
+- Improving team communication and problem-solving efficiency through AI chatbots
+- Use AI tools for technology selection evaluation and architecture comparison
+- Automated budget tracking and compliance checks, allowing managers to focus on strategic decisions
+- AI-driven market trend analysis to assist IT strategic planning
+
+**Human moat:**
+
+- High-level strategic decision-making and vision setting
+- Cross-departmental interest coordination and conflict resolution
+- Critical judgment and accountability for AI outputs
+- Team culture building and talent development
+- Creative solutions to complex systemic problems
+
+**Skills to build:**
+
+- AI project management tools (e.g., Jira+AI plugins, Asana smart features)
+- Basic data analysis and visualization (Python/Power BI)
+- Machine learning workflow understanding (MLOps basics)
+- AI ethics and compliance knowledge
+- Practices of Agile and DevOps combined with AI
+- Communication and change management skills
+
+**Key growth areas:**
 
 - Cloud Computing
 - DevOps
@@ -63,68 +99,67 @@ Responsible for the production, deployment, operation and continuous improvement
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，年薪需达法国平均工资的1.5倍（约44,000欧元+），有效期4年，可续签。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合非欧盟高技能员工，年薪需达53,000欧元+（紧缺职业可降至41,000欧元+），有效期最长4年。 |
-| Subclass Salarié（Salaried Employee Visa） | 适用于获得法国企业工作合同者，需通过劳动局审核，通常为1年可续签，可转为长期居留。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, annual salary must reach 1.5 times French average wage (approx €44,000+), valid for 4 years, renewable. |
+| Subclass Carte bleue UE (EU Blue Card) | Suited for non-EU skilled workers, annual salary must reach EUR 53,000+ (EUR 41,000+ for shortage occupations), valid for up to 4 years. |
+| Subclass Salarié (Salaried Employee Visa) | This applies to those who have obtained a work contract with a French company, which must pass the Labor Bureau review. Usually, the visa can be renewed for one year, allowing conversion to long-term residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Systems Production and Operations Manager？**
-- 具备IT运维或系统管理经验的技术人员
-- 对云技术和DevOps感兴趣，愿意持续学习
-- 希望在法国长期发展并具备法语沟通能力者
-
-**谁不适合学Information Systems Production and Operations Manager？**
-- 不喜欢处理突发故障和高压工作环境
-- 厌倦技术操作，更偏向纯管理但缺乏技术背景
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical personnel with IT operations or system management experience
+- Interested in cloud technology and DevOps, willing to keep learning
+- Those who wish to develop long-term in France and possess French communication skills
+
+**Who is not suited**
+- Dislikes handling sudden faults and high-pressure work environments
+- Tired of technical operations, leaning more toward pure management but lacking a technical background
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an information system operations manager in France?**
+A: Depending on experience level, beginners earn about 35,000-45,000 euros, intermediate salaries 45,000-60,000 euros, and senior salaries 60,000-85,000 euros (pre-tax annual salary).
+
+**Q: Is this profession suitable for coming to France through skilled immigration?**
+A: Fitting. This job falls under the urgently needed IT category in France and can be applied for through Passeport Talent or the EU Blue Card, with relatively easy annual salary requirements to meet.
+
+**Q: What certifications are required?**
+A: ITIL, cloud platform certification (AWS/Azure), and project management certification (PMP) are bonus points but not mandatory requirements. French employers value practical experience more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information Systems Production and Operations Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Information Systems Production and Operations Manager in France?**
-答：Depending on experience, junior: €35,000-45,000, mid: €45,000-60,000, senior: €60,000-85,000 (gross annual salary).
-
-**问：Is this occupation suitable for skilled migration to France?**
-答：Yes. It is a shortage IT occupation in France and qualifies for Talent Passport or EU Blue Card, with achievable salary thresholds.
-
-**问：What certifications are required?**
-答：ITIL, cloud platform certifications (AWS/Azure), and project management (PMP) are valued but not mandatory. French employers prioritize hands-on experience.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

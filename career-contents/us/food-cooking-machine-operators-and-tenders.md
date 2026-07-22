@@ -1,60 +1,95 @@
-# Food Cooking Machine Operators and Tenders（Food Cooking Machine Operators and Tenders）职业分析 · 美国
+# Food Cooking Machine Operators and Tenders — career analysis · United States
 
-**职业代码：51-3093 – Food Cooking Machine Operators and Tenders。**
+**Occupation code: 51-3093 (SOC)**
 
-Operate or tend cooking equipment such as steam cooking vats, deep fry cookers, pressure cookers, kettles, and boilers to prepare food products.
+Operate or monitor steaming equipment used to prepare food, such as steam kettles, deep fryers, pressure cookers, kettles, and boilers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定 | —（通常无学费，在职培训） |
-| 短期职业培训 | 数周至数月 | $1,000~$5,000（社区学院或职业课程） |
+| High school diploma or equivalent | No fixed requirement | $0~$0 (Usually no tuition, on-the-job training) |
+| Short-term vocational training | A few weeks to several months | $1,000~$5,000 (Community college or vocational courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | 行业协会或州政府 | 可选 | 部分雇主要求 |
-| 操作员培训证书 | 雇主或培训机构 | 可选 | 在职培训后获得 |
+| Food safety certification | Industry associations or state government | Optional | Some employers require |
+| Operator Training Certificate | Employer or training provider | Optional | Obtained after on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 10,000。该职业就业前景稳定，受食品制造业需求驱动，但自动化可能影响长期增长。预计2023-2033年就业变化不大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 10,000. The employment outlook for this occupation is stable, driven by demand from the food manufacturing industry, but automation may affect long-term growth. Little change in employment is expected from 2023 to 2033.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 时薪约12-15美元 |
-| 中级（3-7年） | $32,000~$40,000 | 时薪约15-19美元 |
-| 高级（7年以上） | $40,000~$50,000 | 时薪约19-24美元 |
+| Median salary | $41,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly wage about 12-15 USD |
+| Mid-level (3–7 years) | $32,000~$40,000 | Hourly wage approximately $15-19 |
+| Senior (7+ years) | $40,000~$50,000 | Hourly wage approx. $19-24 |
+| average salary | $42,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从初级操作员起步，积累经验后可晋升为高级操作员或主管，部分可转岗至质量控制或生产管理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Food steaming machine operators' work is highly repetitive and in controlled environments; AI and automation will quickly take over temperature control, timing, and process operations, leading to substantial reduction in positions and significantly fewer entry-level job opportunities.
+
+Typically starting as an entry-level operator, with experience can advance to senior operator or supervisor, some may move to quality control or production management.
+
+**Tasks most exposed to AI:**
+
+- Monitor cooking temperature and time; AI sensors and automatic control systems can execute precisely
+- Manually adjust steam valves, pressure, or oil temperature; AI-linked actuators can replace this
+- Record production batches and parameters; AI automatically collects and uploads to the MES system
+- Judging food doneness or frying degree; machine vision + AI can detect in real time
+- Start/stop equipment and routine cleaning; automation processes can be preset and executed
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of cooking curves and recipes to improve product consistency
+- Predictive maintenance alerts; AI analyzes vibration and temperature data to predict failures in advance.
+- Multi-device coordinated scheduling, AI oversees steaming, cooling, and packaging line rhythm
+- Remote monitoring and anomaly alerts, AI sends notifications to operators via mobile phones for handling
+
+**Human moat:**
+
+- On-site diagnosis and repair of equipment mechanical failures or abnormal shutdowns
+- Manual sensory adjustment (e.g., taste testing) when dealing with ingredient batch variations.
+- Non-standardized experience in developing and optimizing cooking process parameters
+- Manual review responsibilities for food safety compliance and HACCP records.
+- Trial operations collaborating with food R&D teams to develop new products
+
+**Skills to build:**
+
+- Basic operation and programming of industrial automation systems (PLC, SCADA).
+- Principles and applications of machine vision systems (detecting ripeness, color)
+- Data analysis basics (Excel/Python for production data)
+- Equipment preventive maintenance and fault diagnosis skills
+- Updated knowledge of HACCP and food safety regulations
+- Basics of collaborative robot (Cobot) programming and integration
+
+**Key growth areas:**
 
 - Automation
 - Food Safety
@@ -63,62 +98,64 @@ Operate or tend cooking equipment such as steam cooking vats, deep fry cookers, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 可用于临时非农业工人，但该职业不常见 |
-| Subclass EB-3（EB-3 Skilled Workers, Professionals, and Other Workers） | 理论上可申请，但雇主担保困难，通常不适用 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Can be used for temporary non-agricultural workers, but this occupation is uncommon |
+| Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Theoretically possible to apply, but employer sponsorship is difficult, usually not applicable |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Cooking Machine Operators and Tenders？**
-- 寻求稳定体力工作的人
-- 有食品行业经验者
-- 不介意重复性任务的人
+**Who is suited**
+- People seeking stable physical work
+- Those with food industry experience
+- People who don't mind repetitive tasks
 
-**谁不适合学Food Cooking Machine Operators and Tenders？**
-- 追求高薪和晋升机会者
-- 希望从事创造性工作的人
+**Who is not suited**
+- Those seeking high salary and promotion opportunities
+- Those who wish to engage in creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Annual salary typically ranges from $25,000 to $50,000 USD, depending on experience and location, below the US average wage.
+
+**Q: Is this occupation easy to immigrate to the US through skilled migration?**
+A: Very difficult. This occupation is a low-skilled blue-collar job, typically not meeting H-1B or employment-based green card requirements, and employers rarely offer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（½☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Food Cooking Machine Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Annual salary typically ranges from $25,000 to $50,000, depending on experience and location, below the US average.
-
-**问：Is it easy to immigrate to the US through this occupation?**
-答：Very difficult. This is a low-skilled blue-collar job, typically not eligible for H-1B or employment-based green cards; employers rarely sponsor.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

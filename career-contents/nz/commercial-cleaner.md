@@ -1,59 +1,95 @@
-# Commercial Cleaner（Commercial Cleaner）职业分析 · 新西兰
+# Commercial Cleaner — career analysis · New Zealand
 
-**职业代码：811211 – Commercial Cleaner。**
+**Occupation code: 811211 (ANZSCO)**
 
-Commercial cleaners in New Zealand perform cleaning and hygiene maintenance in offices, malls, hospitals, etc. It is a low-skilled occupation, generally not eligible for skilled migration, but can enter via Accredited Employer Work Visa (AEWV).
+Commercial cleaning in New Zealand involves cleaning and hygiene maintenance in office buildings, shopping malls, hospitals, etc. It is a low-skilled occupation that typically cannot directly lead to residency through skilled migration but can be entered via the Accredited Employer Work Visa (AEWV).
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无学历要求 | 0 | —（通常无正式教育要求，雇主提供在职培训） |
+| No education requirement | 0 | $0~$0 (Usually no formal education requirement, employers provide on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家清洁证书 (初级) | 新西兰技能组织 (Skills) | 可选 | 可选，提高就业竞争力 |
-| 工作安全培训 (如化学安全) | 雇主或行业机构 | 可选 | 部分雇主要求，涉及化学品使用 |
+| New Zealand National Cleaning Certificate (Entry Level) | Skills New Zealand (Skills) | Optional | Optional, enhances employment competitiveness |
+| Work safety training (e.g., chemical safety) | Employer or industry body | Optional | Some employers require, involving chemical use |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。新西兰商业清洁就业前景稳定，因劳动力需求持续，但自动化可能影响岗位。从业者多通过临时工或中介就业，薪资偏低，职业发展有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Employment prospects for commercial cleaners in New Zealand are stable due to ongoing labor demand, but automation may affect jobs. Most workers are employed through temp agencies or intermediaries, with low wages and limited career development.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $37,000~$42,000 | 时薪约18-20 NZD |
-| 中级（2-5年） | $42,000~$48,000 | 时薪约20-23 NZD |
-| 高级（5年以上或主管） | $48,000~$55,000 | 时薪约23-26 NZD |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $37,000~$42,000 | Hourly rate approx NZD 18-20 |
+| Intermediate (2-5 years) | $42,000~$48,000 | Hourly rate approximately 20–23 NZD |
+| Senior (5+ years or supervisor) | $48,000~$55,000 | Hourly wage approximately 23-26 NZD |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径有限：可从初级清洁工晋升至领班或主管，或专攻特定清洁（如地毯清洁、医疗清洁）。少数人创业成立清洁公司，但需管理技能和资本。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+High risk of automation in commercial cleaning; AI and robots will replace most repetitive cleaning tasks, significantly compressing entry-level positions, but on-site management and specialty cleaning still require humans.
+
+Career development path is limited: can advance from junior cleaner to supervisor or manager, or specialize in specific cleaning (e.g., carpet cleaning, medical cleaning). A few start their own cleaning companies, but require management skills and capital.
+
+**Tasks most exposed to AI:**
+
+- Routine Floor Vacuuming and Mopping
+- Standardized toilet cleaning
+- Automatic window cleaning
+- Garbage collection and sorting
+- Patrol and cleaning along fixed routes
+
+**Where AI augments the role:**
+
+- Cleaning progress monitoring using robot management platforms
+- Using AI scheduling systems to optimize cleaning routes and frequency
+- Identify dirty areas via IoT sensors for precise cleaning
+- AR glasses assisted cleaning quality inspection
+- AI tools generate cleaning reports and analyze customer feedback
+
+**Human moat:**
+
+- Handling sudden stains (e.g., vomit, chemical spills)
+- Customer personalized needs communication and relationship maintenance
+- Strict cleaning procedures for high-risk areas (e.g., operating rooms, clean rooms)
+- Emergency response (e.g., post-fire cleaning).
+- Team management and training new employees
+
+**Skills to build:**
+
+- Robot operation, maintenance, and basic troubleshooting
+- Use of AI scheduling software (e.g., CMMS).
+- Specialized cleaning techniques (biohazard, cleanroom)
+- Data analysis and cleaning efficiency optimization
+- Cross-cultural communication and customer service
+- Sustainable cleaning methods (green certification)
+
+**Key growth areas:**
 
 - AEWV
 - Low-skilled
@@ -62,68 +98,67 @@ Commercial cleaners in New Zealand perform cleaning and hygiene maintenance in o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见的工签路径，需获得认证雇主的工作邀请，无直接居留通道 |
-| Subclass SMC（Skilled Migrant Category） | 通常不适用，因职业为低技能，除非收入达到中位数工资的1.5倍（约72,000 NZD） |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common work visa route, requires a job offer from an accredited employer, no direct residence pathway |
+| Subclass SMC (Skilled Migrant Category) | Usually not applicable as the occupation is low-skilled, unless income reaches 1.5 times the median wage (approx. 72,000 NZD) |
 
-**PR难度：非常高（★★★★½）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commercial Cleaner？**
-- 寻求临时工作或低门槛进入新西兰的人群
-- 能接受体力劳动和灵活工作时间者
-- 愿意从基层做起、积累经验者
-
-**谁不适合学Commercial Cleaner？**
-- 希望直接获得新西兰居民身份的技术移民申请人
-- 追求高薪和职业发展空间的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People seeking temporary work or low-barrier entry to New Zealand
+- Those able to handle physical labor and flexible working hours
+- Willing to start from the basics and accumulate experience
+
+**Who is not suited**
+- Skilled migration applicants seeking direct New Zealand residency
+- People pursuing high salary and career development opportunities.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for commercial cleaning in New Zealand?**
+A: Entry-level cleaner salary is about NZD 37,000-42,000 annually, mid-level NZD 42,000-48,000, senior or supervisor NZD 48,000-55,000. Salary is relatively low, well below the skilled migration median wage requirement.
+
+**Q: Can commercial cleaning lead to immigration to New Zealand?**
+A: Commercial cleaning is a low-skilled occupation, usually not eligible for Skilled Migrant Category (SMC) or Green List immigration. Main pathway is Accredited Employer Work Visa (AEWV), allowing legal work but no direct residence pathway. Unless salary reaches 1.5 times the median wage (about NZD 72,000/year), but difficult to achieve in cleaning industry.
+
+**Q: Is there career advancement in commercial cleaning?**
+A: Limited advancement opportunities; can progress to team leader, supervisor, or specialize (e.g., carpet cleaning). A few start their own cleaning companies but need capital and management skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常简单（½☆☆☆☆） |
-| 考证难度 | 非常简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Commercial Cleaner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for commercial cleaners in New Zealand?**
-答：Entry-level cleaners earn about NZD 37,000-42,000 per year; intermediate NZD 42,000-48,000; senior/supervisor NZD 48,000-55,000. Wages are low, well below the median wage required for skilled migration.
-
-**问：Can commercial cleaners immigrate to New Zealand?**
-答：Commercial cleaning is low-skilled and generally not eligible for Skilled Migrant Category (SMC) or Green List. Main route is the Accredited Employer Work Visa (AEWV), which allows work but no direct pathway to residence, unless the wage reaches 1.5 times the median wage (approx. NZD 72,000/year), which is unlikely in this sector.
-
-**问：Is there career progression for commercial cleaners?**
-答：Limited, can progress to team leader, supervisor, or specialize (e.g., carpet cleaning). A few start their own cleaning companies, requiring capital and management skills.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

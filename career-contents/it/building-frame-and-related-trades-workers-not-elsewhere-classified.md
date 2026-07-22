@@ -1,60 +1,95 @@
-# Building Frame and Related Trades Workers Not Elsewhere Classified（Building Frame and Related Trades Workers Not Elsewhere Classified）职业分析 · IT
+# Building Frame and Related Trades Workers Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：7119 – Building Frame and Related Trades Workers Not Elsewhere Classified。**
+**Occupation code: 7119 (ISCO08)**
 
-Building frame and related trades workers construct, install, and maintain structural frameworks, including carpentry, steel erection, and concrete formwork.
+Construction framework and related industry workers are responsible for the construction, installation, and maintenance of structural frames, including carpentry, steel structure installation, and concrete formwork.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后职业培训 | 2年 | —（公立职业培训学院免费或低学费） |
-| 职业资格认证课程 | 1-2年 | $1,000~$5,000（私立培训机构收费） |
-| 学徒制 | 3-4年 | —（带薪学徒，培训费用由雇主承担） |
+| Post-secondary vocational training | 2 years | $0~$2,000 (Free or low tuition at public vocational training colleges) |
+| Vocational qualification certification course | 1-2 years | $1,000~$5,000 (Private training institution fees) |
+| Apprenticeship | 3-4 years | $0~$1,000 (Paid apprenticeship with training costs covered by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑行业职业资格 | 地区职业培训中心 | 可选 | 需通过理论及实践考试 |
-| 安全证书（安全施工） | 国家劳动监察局 | 必备 | 施工现场必备安全培训 |
-| 脚手架操作证 | 地区授权机构 | 可选 | 特定高空作业要求 |
+| Safety Certificate (Safe Work) | National Labour Inspectorate | Required | Essential safety training on construction sites |
+| Construction industry professional qualifications | Regional vocational training center | Optional | Requires passing theoretical and practical exams. |
+| Scaffolding operation certificate | Regional Authorizing Body | Optional | Specific high-altitude work requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。意大利建筑行业受国家复苏计划（PNRR）和绿色建筑改造政策推动，未来几年对熟练建筑框架工人的需求持续增长，尤其集中在大型基础设施和节能改造项目。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. Driven by Italy's National Recovery and Resilience Plan (PNRR) and green building renovation policies, demand for skilled structural steel workers continues to grow in the coming years, especially in large infrastructure and energy-efficient renovation projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，含学徒期 |
-| 中级（3-7年） | $26,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含工头及项目管理角色 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual salary before tax, including apprenticeship period |
+| Mid-level (3–7 years) | $26,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Gross annual salary, including foreman and project management roles |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从技术工人可晋升为工头、工地主管或项目经理；通过进修可转向建筑技术员或建筑工程师；也可自主创业成为分包商。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure for construction frame and related industry workers is mixed under AI/automation impact: some measurement, calculation and documentation tasks can be automated, but physical operations and on-site judgment still rely on human labor.
+
+Skilled workers can advance to foreman, site supervisor or project manager; through further study they can move into building technician or building engineer; or start their own business as a subcontractor.
+
+**Tasks most exposed to AI:**
+
+- Using laser rangefinders and digital levels for conventional measurement and marking
+- Manually calculating material lists and cutting lists based on BIM models.
+- Filling in paper work logs and progress reports
+- Repetitive template setup and dismantling work (partially done by robots)
+- Manually inspect and adjust component alignment
+
+**Where AI augments the role:**
+
+- Use BIM and AR glasses for precise positioning and installation guidance
+- Structural health monitoring via drones and sensors
+- Using AI-assisted design to optimize frame structure layout
+- Use automated cutting and welding equipment to improve efficiency
+- Coordinate workflows for different trades through digital platforms
+
+**Human moat:**
+
+- Flexible response and problem-solving in complex on-site environments
+- Manual adjustments and customization for irregular or old structures
+- Monitor automated equipment operation and handle anomalies
+- Communication and safety supervision responsibilities in multi-trade coordination
+
+**Skills to build:**
+
+- BIM modeling and construction simulation software (such as Revit, Tekla)
+- Operation of digital surveying and setting-out tools (e.g., total stations, laser scanners)
+- Automated equipment maintenance and programming basics (e.g., robotic welding, CNC)
+- Safety regulations and sustainable construction practices
+- Data analysis and report generation tools (e.g. Excel, Power BI)
+- Reading English technical documentation (for international projects)
+
+**Key growth areas:**
 
 - PNRR
 - Green building
@@ -63,68 +98,67 @@ Building frame and related trades workers construct, install, and maintain struc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工人，年薪门槛约2.5万欧元，需大学学历或同等职业经验，可带家属。 |
-| Subclass Decreto Flussi（Decreto Flussi Quota Work Visa） | 年度配额工作签证，适用于非欧盟技术工人，由雇主申请，需证明紧缺职业。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，由雇主向省级劳动局申请，需经过劳工市场测试。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, annual salary threshold approx. 25,000 euros, requires university degree or equivalent professional experience, can bring family. |
+| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Annual quota work visa for non-EU skilled workers, applied for by the employer, requiring proof of shortage occupation. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, applied for by the employer to the provincial labor bureau, requires labor market testing. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Frame and Related Trades Workers Not Elsewhere Classified？**
-- 喜欢动手、户外工作、体力活动的人
-- 注重实际技能而非理论学历的人
-- 希望快速就业、稳定收入的人
-
-**谁不适合学Building Frame and Related Trades Workers Not Elsewhere Classified？**
-- 偏好室内办公、久坐工作的人
-- 对高空作业或重体力劳动感到不适的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on, outdoor, and physical work
+- People who value practical skills over theoretical qualifications
+- People seeking quick employment and stable income.
+
+**Who is not suited**
+- People who prefer indoor office work and sedentary jobs
+- People uncomfortable with high-altitude work or heavy physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a construction framer?**
+A: Entry-level approx. €20,000-€26,000, mid-level €26,000-€35,000, senior €35,000-€45,000, before tax. Foreman or project manager can reach over €50,000.
+
+**Q: How can non-EU citizens get a work visa as a construction worker in Italy?**
+A: Main pathways include: applying for a work permit through the Decreto Flussi quota, or applying for an EU Blue Card (requires meeting salary and education requirements). Employer sponsorship and labor market testing are needed.
+
+**Q: What certificates are needed to work in construction in Italy?**
+A: Basic safety certificates (safe construction) are mandatory. Additionally, specific tasks like scaffolding and welding require extra certifications. Professional qualifications are not mandatory but help with employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Building Frame and Related Trades Workers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for building frame workers?**
-答：Entry-level: €20,000-26,000; Mid-level: €26,000-35,000; Senior: €35,000-45,000 gross per year. Foremen or project managers can earn over €50,000.
-
-**问：How can non-EU citizens obtain a work visa for construction work in Italy?**
-答：Main routes: Decreto Flussi quota work visa (employer-sponsored, subject to annual quotas) or EU Blue Card (requires salary threshold and qualifications). Employer must demonstrate no local worker available.
-
-**问：What certifications are required for construction work in Italy?**
-答：Basic safety certification (Corso di Sicurezza) is mandatory. Additional certifications for scaffolding, welding, etc. are beneficial but not mandatory. Vocational qualifications are optional.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

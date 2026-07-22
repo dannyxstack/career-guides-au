@@ -1,62 +1,98 @@
-# Plastics Fabricator or Welder（Plastics Fabricator or Welder）职业分析 · 新西兰
+# Plastics Fabricator or Welder — career analysis · New Zealand
 
-**职业代码：711513 – Plastics Fabricator or Welder。**
+**Occupation code: 711513 (ANZSCO)**
 
-Plastics Fabricators or Welders cut, weld, shape, and assemble plastic materials using hot-air guns, extruders, etc., to produce pipes, tanks, and ventilation systems. New Zealand offers Green List and Skilled Migrant visa pathways.
+Plastic manufacturing workers or welders use hot air guns, extruders, and other equipment to cut, weld, shape, and assemble plastic materials, producing products such as pipes, tanks, and ventilation systems. In New Zealand, immigration is possible through the Green List or Skilled Migrant Category.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $2,000~$10,000（雇主资助学徒制，部分学费由政府补贴） |
-| 国家证书 | 1-2年 | $5,000~$15,000（如新西兰工程塑料证书（NZ Certificate in Engineering Plastics）） |
+| Apprenticeship | 3-4 years | $2,000~$10,000 (Employer-sponsored apprenticeship, part of tuition subsidized by the government.) |
+| National certificate | 1-2 years | $5,000~$15,000 (Such as the New Zealand Certificate in Engineering Plastics.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰工程塑料证书 (Level 4) | 新西兰技能与技术学院 (Te Pūkenga) 等 | 可选 | 非强制，但雇主优先考虑 |
-| 工地安全卡 (Site Safe Card) | Site Safe | 必备 | 多数工地要求 |
-| 塑料焊接证书 (如 DVS 认证) | DVS 或类似机构 | 可选 | 某些专业领域要求 |
-| 驾照 (Class 1) | 新西兰交通局 | 可选 | 便于现场工作 |
+| Site Safe Card | Site Safe | Required | Required by most job sites |
+| New Zealand Engineering Plastics Certificate (Level 4) | Te Pūkenga and similar | Optional | Not mandatory, but preferred by employers |
+| Plastic welding certificate (e.g., DVS certified) | DVS or similar institutions | Optional | Specific professional field requirements |
+| Driver's license (Class 1) | New Zealand Transport Agency. | Optional | Suitable for on-site work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,700。新西兰制造业和建筑业对塑料制品需求稳定，尤其是农业和水产养殖领域。预计未来5年就业增长温和，但熟练焊工短缺，机会较多。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 2,700. Demand for plastic products in New Zealand's manufacturing and construction sectors is stable, especially in agriculture and aquaculture. Employment growth is expected to be moderate over the next 5 years, but there is a shortage of skilled welders, offering more opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常时薪22-26纽元 |
-| 中级（3-6年） | $55,000~$70,000 | 时薪26-33纽元，常需加班 |
-| 高级（6年以上） | $70,000~$90,000 | 主管或专家级时薪33-45纽元 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Typically NZD 22-26 per hour |
+| Mid-level (3–6 years) | $55,000~$70,000 | Hourly rate NZD 26-33, often requires overtime |
+| Senior (6+ years) | $70,000~$90,000 | Supervisor or specialist level: NZD 33-45 per hour. |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径：从学徒或初级焊工起步，可晋升为高级技工、主管或质检员。积累经验后，也可向工程或项目管理方向发展，或自营塑料加工业务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Plastics worker or welder faces mixed AI impact: AI-driven automation will take over high-precision repetitive welding and cutting, but custom and complex structural assembly and repair still require human flexible judgment; entry-level roles may shrink due to digital design tools.
+
+Career path: start as an apprentice or junior welder, progress to senior technician, supervisor or quality inspector. With experience, move into engineering or project management, or start your own plastics processing business.
+
+**Tasks most exposed to AI:**
+
+- Repetitive straight-line welding and standard angle cutting (e.g., straight welds on pipes)
+- Automated hot air welding and extrusion molding based on set parameters
+- Automatic generation and optimization of material cutting paths
+- AI visual inspection and defect recognition for welding quality
+- Parametric design and CNC machining of standard tanks or ventilation ducts
+
+**Where AI augments the role:**
+
+- AI-Assisted Design Tools Accelerate Modeling and Structural Optimization of Custom Plastic Parts
+- Real-time welding parameter monitoring and adaptive adjustment (e.g., hot air gun temperature, speed)
+- Overlay construction drawings and weld quality heatmaps via AR glasses
+- Digital twin predicts long-term stress concentration points in large storage tanks
+- AI material database recommends optimal welding materials and process combinations
+
+**Human moat:**
+
+- Non-standard welding repairs and modifications in complex onsite environments (e.g. repairing old equipment)
+- Communicate with clients to determine customized solutions and resolve unexpected issues
+- Manual refinement and surface finishing of multi-material irregular parts
+- Safety risk assessment and on-site emergency response
+- Process judgment in cross-trade collaboration (e.g., coordinating with plumbers and electricians)
+
+**Skills to build:**
+
+- Programming and maintenance of plastic welding robots.
+- CAD/CAM software (e.g., SolidWorks, Rhino) and CNC equipment operation.
+- Use of AI-assisted quality inspection tools (e.g., vision-based defect recognition).
+- Basics of digital twins and IoT monitoring systems
+- Augmented reality (AR)-assisted construction and remote collaboration
+- Knowledge of advanced properties and composite processes for thermoplastic materials
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -65,69 +101,68 @@ Plastics Fabricators or Welders cut, weld, shape, and assemble plastic materials
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 符合绿色清单第二级别职业，工作2年后可申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，最长3年，可申请工签转居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（如学历+工作经验+新西兰工作） |
+| Subclass Green List T2 (Green List Work to Residence) | Meets Tier 2 of the Green List, eligible to apply for residence after 2 years of work |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years, can apply for work visa to permanent residence transition |
+| Subclass SMC (Skilled Migrant Category) | Meet the six-point requirements (e.g., qualifications plus work experience plus New Zealand work) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plastics Fabricator or Welder？**
-- 喜欢动手操作，有耐心和细致的人
-- 对塑料材料和焊接工艺感兴趣的人
-- 愿意通过学徒制积累经验，追求稳定工作的人
-
-**谁不适合学Plastics Fabricator or Welder？**
-- 不喜欢体力劳动或重复性工作的人
-- 对焊接气味或塑料粉尘敏感的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, are patient and meticulous
+- People interested in plastic materials and welding processes
+- Those willing to accumulate experience through apprenticeships and pursue stable jobs
+
+**Who is not suited**
+- People who dislike physical labor or repetitive work
+- Those sensitive to welding fumes or plastic dust.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a plastic manufacturing welder in New Zealand?**
+A: Entry-level approx. NZD 45,000-55,000; mid-level NZD 55,000-70,000; senior NZD 70,000-90,000, depending on experience and certification.
+
+**Q: How can a plastic manufacturing welder immigrate to New Zealand via the Green List?**
+A: This occupation is on the Green List Tier 2, requires a job offer from an accredited employer, and can apply for residence after working for 2 years.
+
+**Q: Do I need a specific certificate to work in New Zealand?**
+A: Site Safe card is a standard requirement; engineering plastics certification is not mandatory but beneficial for employment. Some specialized fields require plastic welding certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Plastics Fabricator or Welder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a plastics fabricator/welder in New Zealand?**
-答：Entry level NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-90,000, depending on experience and qualifications.
-
-**问：How can a plastics fabricator/welder migrate to New Zealand via the Green List?**
-答：This occupation is on Green List Tier 2. You need a job offer from an accredited employer and work for 2 years before applying for residence.
-
-**问：Are there specific certificates required to work as a plastics fabricator/welder in New Zealand?**
-答：A Site Safe card is commonly required. The NZ Certificate in Engineering Plastics is not mandatory but helpful. Some specialist roles require plastic welding certification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

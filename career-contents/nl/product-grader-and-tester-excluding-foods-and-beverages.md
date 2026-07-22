@@ -1,59 +1,92 @@
-# Product Grader and Tester (excluding Foods and Beverages)（Product Grader and Tester (excluding Foods and Beverages)）职业分析 · NL
+# Product Grader and Tester (excluding Foods and Beverages) — career analysis · Netherlands
 
-**职业代码：7543 – Product Grader and Tester (excluding Foods and Beverages)。**
+**Occupation code: 7543 (ISCO08)**
 
-Responsible for inspecting, grading, and testing manufactured products (e.g., textiles, metal goods, electronic components) to ensure compliance with specifications. Works in factories, warehouses, or labs.
+Responsible for quality inspection, classification, and grading of manufacturing products (e.g., textiles, metal products, electronic components) to ensure compliance with specifications. Typically works in factories, warehouses, or laboratories.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立学校学费约€2,000/年，可能有补贴） |
-| 高等职业教育（HBO） | 4年 | —（学费约€2,500/年，非欧盟学生约€8,000/年） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$6,000 (Public school tuition approx. €2,000/year, subsidies may be available) |
+| Higher Vocational Education (HBO) | 4 years | $0~$10,000 (Tuition approx. €2,500/year; non-EU students approx. €8,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO质量检验员文凭 | 荷兰职业教育机构（ROC） | 可选 | 针对产品检验和测试的中等职业文凭 |
-| VCA安全证书 | SSVV | 可选 | 基本安全证书，部分行业要求 |
-| ISO 9001内审员 | 多家认证机构 | 可选 | 质量管理体系内审资格，提升竞争力 |
+| MBO Quality Inspector Diploma | Netherlands vocational education institutions (ROC) | Optional | Intermediate vocational diploma for product inspection and testing |
+| VCA safety certificate | SSVV | Optional | Basic safety certificate; required by some industries |
+| ISO 9001 internal auditor | Multiple certification bodies | Optional | Internal audit qualification for quality management systems to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。荷兰制造业持续自动化，但对人工质检需求仍存，尤其在精密制造和出口导向行业。预计未来五年就业稳定，年均增长约1%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Dutch manufacturing continues to automate, but demand for manual quality inspection remains, especially in precision manufacturing and export-oriented industries. Employment is expected to be stable over the next five years, with an average annual growth of about 1%.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含8%假期津贴 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪，含8%假期津贴 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪，含8%假期津贴 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual salary before tax, including 8% holiday pay |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual salary before tax, including 8% holiday pay |
+| Senior (7+ years) | $42,000~$55,000 | Annual salary before tax, including 8% holiday pay |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级检验员晋升为高级质检员、质量主管或质量工程师。通过进修获得ISO认证或Six Sigma绿带可提升职业空间。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+The work of product graders and inspectors is highly repetitive and rule-based, making it easily replaceable by computer vision and automated inspection equipment, with the number of positions expected to decline significantly.
+
+Can advance from junior inspector to senior quality inspector, quality supervisor, or quality engineer. Pursuing ISO certification or Six Sigma Green Belt can improve career prospects.
+
+**Tasks most exposed to AI:**
+
+- Visual inspection of product surface defects
+- Using measuring tools for dimensional measurement
+- Record and generate paper quality inspection reports
+- Sorting compliant/non-compliant products
+
+**Where AI augments the role:**
+
+- Using AI vision system to assist defect classification
+- Using data analysis to warn of quality trends
+- Operate automatic detection equipment and calibrate
+- Use digital tools to produce real-time quality inspection reports
+
+**Human moat:**
+
+- Judgment in handling non-standard, complex defects.
+- Cross-department communication and coordination of quality issues
+- Maintain and improve quality inspection processes
+- Customer complaint handling and root cause analysis
+
+**Skills to build:**
+
+- Machine vision system operation and maintenance
+- Basic data analysis in Python or SQL
+- Statistical Process Control (SPC) knowledge
+- Automated quality inspection tool application
+- Digital twin and IoT device interface
+- Quality management system (ISO) understanding
+
+**Key growth areas:**
 
 - Quality Control
 - Manufacturing Automation
@@ -62,68 +95,67 @@ Responsible for inspecting, grading, and testing manufactured products (e.g., te
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年收入高于阈值（2025年约€5,000/月）的技术人才，雇主担保，30% ruling可能适用 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且薪资达欧盟标准（约€5,800/月）的专业人士，可携带家属 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或全球前200高校硕士后可申请一年找工作签证，找到工作后转工作居留 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled talent with annual income above the threshold (approximately €5,000/month in 2025), employer-sponsored, 30% ruling may apply |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals with salary meeting EU standards (approx. €5,800/month), can bring family. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply for a one-year job-seeking visa, then switch to a work permit upon finding employment. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product Grader and Tester (excluding Foods and Beverages)？**
-- 注重细节、有耐心的人员
-- 对质量控制流程感兴趣的技术型人才
-- 希望在制造业稳定就业者
-
-**谁不适合学Product Grader and Tester (excluding Foods and Beverages)？**
-- 抗拒重复性工作的人员
-- 不擅用测量仪器和计算机者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and patient individuals
+- Technically oriented individuals interested in quality control processes
+- Those seeking stable employment in manufacturing
+
+**Who is not suited**
+- People who resist repetitive work
+- Those who are not proficient in using measuring instruments and computers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for product graders in the Netherlands?**
+A: Junior annual salary approx. €25,000-€32,000, mid-level €32,000-€42,000, senior €42,000-€55,000, all including holiday allowance.
+
+**Q: What are the pathways for a foreign product grader to immigrate to the Netherlands?**
+A: Opportunities can be sought through the Highly Skilled Migrant visa (requiring employer sponsorship and meeting salary thresholds), EU Blue Card (for highly educated and highly paid individuals), or the Orientation Year (for graduates from Dutch or top global universities).
+
+**Q: What are the career progression paths for a product grader?**
+A: Can progress from junior to senior inspector, quality supervisor, or shift to quality engineer or quality management roles by studying ISO internal auditor, Six Sigma, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Product Grader and Tester (excluding Foods and Beverages)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for product graders and testers in the Netherlands?**
-答：Entry-level annual salary ranges from €25,000 to €32,000, mid-level €32,000-€42,000, senior €42,000-€55,000, all including holiday allowance.
-
-**问：What migration pathways are available for foreign product graders and testers to the Netherlands?**
-答：Options include the Highly Skilled Migrant visa (employer-sponsored, meets salary threshold), EU Blue Card (high education and salary), or Orientation Year (graduates from Dutch or top global universities).
-
-**问：What career advancement opportunities exist for product graders and testers?**
-答：Progression from entry-level to senior inspector, quality supervisor, or via ISO auditor/Six Sigma training to quality engineer or management roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

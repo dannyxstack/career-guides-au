@@ -1,60 +1,96 @@
-# Systems Analyst（Systems Analyst）职业分析 · ES
+# Systems Analyst — career analysis · Spain
 
-**职业代码：2711 – Systems Analyst。**
+**Occupation code: 2711 (CNO)**
 
-Systems analysts analyze, design, and implement information systems, optimizing business processes and technology integration. In Spain, this high-skilled profession is widespread in tech, finance, and consulting, requiring expertise in programming, databases, and system architecture.
+Systems analysts are responsible for analyzing, designing, and implementing information systems, optimizing business processes and technology integration. In Spain, this profession is highly skilled, widely employed in technology, finance, and consulting industries, requiring proficiency in programming, databases, and system architecture.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$3,000（公立大学每年约1000-3000欧元，私立更高） |
-| 硕士（Máster） | 1-2年 | $2,000~$8,000（专业硕士如系统分析或IT项目管理） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$2,000（如应用开发多平台开发(DAW)或网络管理） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public universities around €1,000-3,000 per year, private higher.) |
+| Máster | 1-2 years | $2,000~$8,000 (Professional master's degree such as systems analysis or IT project management) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Such as application development, multi-platform development (DAW), or network management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学位（Grado/Máster） | 西班牙大学 | 必备 | 常见专业：计算机工程、信息系统、软件工程 |
-| PMP或敏捷认证 | PMI/Scrum联盟 | 可选 | 项目管理或敏捷方法论认证，提升竞争力 |
-| 云平台认证（AWS/Azure） | Amazon/Microsoft | 可选 | 云计算技能认证，增加就业机会 |
+| Computer Science Degree (Grado/Máster) | Spanish University | Required | Common majors: Computer Engineering, Information Systems, Software Engineering |
+| PMP or Agile certification | PMI/Scrum Alliance | Optional | Project management or agile methodology certification to enhance competitiveness |
+| Cloud Platform Certification (AWS/Azure) | Amazon/Microsoft | Optional | Cloud computing skills certification to increase employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙数字化转型推动系统分析师需求持续增长，尤其在马德里、巴塞罗那等科技中心。预计2025年前就业增长10%-15%，大数据、云计算和网络安全领域尤为突出。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Spain's digital transformation is driving continued growth in demand for systems analysts, especially in technology hubs like Madrid and Barcelona. Employment is expected to grow by 10%-15% before 2025, with big data, cloud computing, and cybersecurity being particularly prominent.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 税前年薪，科技公司或咨询业 |
-| 中级（4-7年） | $36,000~$48,000 | 税前年薪，含项目负责人角色 |
-| 高级（8年以上） | $48,000~$65,000 | 税前年薪，架构师或管理职位 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$36,000 | Pre-tax annual salary, technology companies, or consulting industry |
+| Mid-level (4-7 years) | $36,000~$48,000 | Pre-tax annual salary, including the role of project leader |
+| Senior (8+ years) | $48,000~$65,000 | Pre-tax annual salary, architect or management position |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 晋升路径：初级分析师→高级分析师→IT项目经理→首席信息官(CIO)。也可转向数据科学、网络安全或技术咨询。持续学习新平台（如AWS、Azure）和敏捷方法有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Promotion paths: Junior Analyst→ Senior Analyst→ IT Project Manager→ Chief Information Officer (CIO). You can also turn to data science, cybersecurity, or technical consulting. Continuous learning of new platforms (such as AWS, Azure) and agile methods help with promotion.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -63,68 +99,67 @@ Systems analysts analyze, design, and implement information systems, optimizing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能移民，需大学学历和至少1年工作合同，年薪门槛约33,908欧元（2024年）。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 依据Ley 14/2013，适用于高学历或高管，年薪通常高于40,000欧元，审批快捷。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 常规工作居留，需公司担保，合同符合最低工资要求。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled immigrants, requiring a university degree and at least one year of work contract, with an annual salary threshold of approximately 33,908 euros (2024). |
+| Subclass Altamente cualificad (Highly Qualified Professional) | According to Ley 14/2013, applicable to highly educated or executives, with annual salaries usually above 40,000 euros and quick approvals. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Regular work residency requires company guarantee, and the contract meets minimum wage requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Systems Analyst？**
-- 有逻辑思维和问题解决能力的技术型人才
-- 喜欢与业务团队沟通、理解需求并设计技术方案的人
-- 愿意持续学习新技术和工具的IT从业者
-
-**谁不适合学Systems Analyst？**
-- 厌恶编程或数据库等具体技术工作者
-- 不喜变化、希望工作内容长期稳定者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical talents with logical thinking and problem-solving abilities
+- People who enjoy communicating with business teams, understanding requirements, and designing technical solutions
+- IT professionals willing to continuously learn new technologies and tools
+
+**Who is not suited**
+- Those who dislike programming or specific technical work such as databases.
+- Those who dislike change and hope for long-term stability in their work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for systems analysts in Spain?**
+A: Entry-level salary is about 28,000-36,000 euros, intermediate 36,000-48,000 euros, and senior 48,000-65,000 euros (pre-tax annual salary). Large companies and Madrid/Barcelona offer higher salaries.
+
+**Q: How can third-country citizens immigrate to Spain through a systems analyst?**
+A: You can obtain an EU Blue Card (requiring a work contract and university degree) or a Highly Skilled Professional visa (annual salary > 40,000 euros). You can also apply for ordinary work residence (company sponsorship). Academic qualifications must be certified (homologación).
+
+**Q: What are the career prospects for systems analysts in Spain?**
+A: Optimistic outlook, high digitalization demand, and potential to become project manager, data scientist, or CTO. Those with cloud and AI skills are more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Systems Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for systems analysts in Spain?**
-答：Junior: €28,000-€36,000; Mid-level: €36,000-€48,000; Senior: €48,000-€65,000 (gross annual). Salaries are higher in large companies and Madrid/Barcelona.
-
-**问：How can third-country nationals migrate to Spain as a systems analyst?**
-答：Via EU Blue Card (job offer + degree) or Highly Qualified Professional visa (salary >€40,000). Also possible via regular work permit (employer-sponsored). Degree homologation required.
-
-**问：What is the career outlook for systems analysts in Spain?**
-答：Positive, driven by digitalization. Paths include project manager, data scientist, or CTO. Cloud and AI skills enhance competitiveness.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

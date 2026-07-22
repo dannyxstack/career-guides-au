@@ -1,60 +1,94 @@
-# Hostel Parent（Hostel Parent）职业分析 · 澳大利亚
+# Hostel Parent — career analysis · Australia
 
-**职业代码：423412 – Hostel Parent。**
+**Occupation code: 423412 (ANZSCO)**
 
-Hostel parents supervise and manage boarding facilities in schools or institutions, ensuring students' welfare, safety, and daily discipline, serving as key support figures in students' lives.
+Dormitory supervisors oversee boarding facilities at schools or institutions, ensuring student welfare, safety, and daily conduct, serving as an important support for student life.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常要求高中文凭，无需高等教育） |
-| 职业培训或短期课程 | 6个月 | $2,000~$5,000（可选儿童保护、急救等短期证书） |
+| High school graduation | None | $0~$0 (Usually requires high school diploma, no higher education needed) |
+| Vocational training or short-term courses | 6 months. | $2,000~$5,000 (Optional short-term certificates in child protection, first aid, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童工作检查（Working with Children Check） | 各州政府 | 必备 | 从事儿童相关工作的法定要求 |
-| 急救证书（First Aid Certificate） | 澳大利亚红十字会等 | 可选 | 推荐持有，提升就业竞争力 |
+| Working with Children Check | State governments | Required | Statutory requirement for working with children |
+| First Aid Certificate | Australian Red Cross, etc. | Optional | Recommended to hold to enhance employment competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。澳洲寄宿学校及偏远地区教育机构对宿舍管理员需求稳定，但总体职位增长缓慢，未来五年预计新增约500个岗位，主要替代退休人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Demand for dormitory supervisors at Australian boarding schools and remote education institutions is stable, but overall job growth is slow, with about 500 new positions expected over the next five years, mainly replacing retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常提供住宿和餐饮补贴 |
-| 中级（3-7年） | $55,000~$65,000 | 含部分住宿福利 |
-| 高级（7年以上） | $65,000~$75,000 | 可能负责管理团队 |
+| Median salary | $88,816 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Usually includes accommodation and meal subsidies |
+| Mid-level (3–7 years) | $55,000~$65,000 | Includes partial accommodation benefits |
+| Senior (7+ years) | $65,000~$75,000 | May be responsible for managing a team |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从助理宿舍管理员开始，积累经验后可晋升为高级宿舍管理员或住宿服务经理，部分转向学生福利或行政岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dormitory supervisor duties rely heavily on interpersonal care and emergency decision-making, AI cannot replace core supervision and emotional support, but administrative and monitoring tasks can be automated; the role will evolve into a student well-being coordinator.
+
+Usually start as assistant dormitory warden, then advance to senior dormitory warden or accommodation services manager, some transition to student welfare or administrative roles.
+
+**Tasks most exposed to AI:**
+
+- Automated student check-in and attendance recording
+- Visitor management and basic security monitoring alerts
+- Dormitory rules FAQ and notice publishing
+- Room assignment and maintenance repair request process handling
+
+**Where AI augments the role:**
+
+- Identify student behavior patterns and risks through data analysis
+- Optimize patrol and energy management using smart sensors
+- Serving international students with translation and communication tools
+- Using virtual reality scenarios for emergency drill training
+
+**Human moat:**
+
+- On-site judgment and intervention for sudden crisis events (e.g., fights, psychological crises)
+- Emotional support, conversation, and trust-building with students
+- Flexible communication and conflict resolution across cultural backgrounds
+- Creative planning of dormitory activities and community culture building
+- Personalized care for students with special needs (e.g., disabilities, trauma)
+
+**Skills to build:**
+
+- Basic psychological counseling techniques
+- Conflict Mediation and Crisis Intervention Training Certificate
+- Data literacy and analytical tools (e.g., Excel, simple BI)
+- Multicultural communication and second language ability
+- Emergency Management and First Aid Certification (e.g., First Aid)
+- Experience with Learning Management Systems (LMS) or dormitory management software
+
+**Key growth areas:**
 
 - Stable demand
 - Boarding schools
@@ -63,65 +97,67 @@ Hostel parents supervise and manage boarding facilities in schools or institutio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 仅限特定雇主担保，但该职业不在核心职业清单上，申请难度高 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保可能适用，但需个案评估 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Only available through specific employer sponsorship, but this occupation is not on the core occupation list, making application difficult |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship may apply, but needs case-by-case assessment |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hostel Parent？**
-- 喜欢与青少年相处，有耐心和同理心的人
-- 具备基本管理和组织能力，能处理突发情况
-- 愿意在寄宿制学校或偏远地区工作
+**Who is suited**
+- People who enjoy working with teenagers and are patient and empathetic
+- Has basic management and organizational skills, can handle emergencies.
+- Willing to work in boarding schools or remote areas
 
-**谁不适合学Hostel Parent？**
-- 不喜欢规律性工作和长时间值班的人
-- 缺乏处理行为问题能力或情绪管理能力弱的人
+**Who is not suited**
+- People who dislike routine work and long shifts
+- Those who lack the ability to handle behavioural issues or have weak emotional management skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary level of dormitory managers?**
+A: Entry-level annual salary approx. AU$45,000-55,000, senior up to AU$65,000-75,000, usually includes free or subsidized accommodation, actual income varies by region.
+
+**Q: Can dormitory managers obtain Australian permanent residency through skilled migration?**
+A: Difficult. This occupation is not on the skilled occupation list and generally cannot apply for 189/190/491 visas. Only a very small number of regional employer sponsorships or DAMA projects may be possible.
+
+**Q: What career development opportunities are there for a dormitory manager?**
+A: Can advance to senior dormitory manager, accommodation services manager, or student welfare coordinator; some move into school administration or youth work.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hostel Parent属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hostel parents?**
-答：Entry-level salary is around AUD 45,000-55,000 per year, senior up to AUD 65,000-75,000, often including free or subsidized accommodation.
-
-**问：Can hostel parents obtain Australian permanent residency through skilled migration?**
-答：Very difficult. The occupation is not on the skilled occupation list, so 189/190/491 visas are generally not available; only a few regional employer-sponsored or DAMA programs might apply.
-
-**问：What career progression opportunities exist for hostel parents?**
-答：Can advance to senior hostel parent, accommodation services manager, or student welfare coordinator; some move into school administration or youth work.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

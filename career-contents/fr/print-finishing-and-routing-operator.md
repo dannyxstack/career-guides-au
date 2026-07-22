@@ -1,60 +1,94 @@
-# Print Finishing and Routing Operator（Print Finishing and Routing Operator）职业分析 · FR
+# Print Finishing and Routing Operator — career analysis · France
 
-**职业代码：E1304 – Print Finishing and Routing Operator。**
+**Occupation code: E1304 (ROME)**
 
-Responsible for finishing, cutting, folding, binding, and routing printed materials to ensure timely delivery.
+Responsible for post-processing, cutting, folding, binding, and routing distribution of printed materials to ensure timely delivery of finished products.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 印刷与装订 | 2年（CAP） | —（公立学校免费，含注册费） |
-| BTS 印刷与媒体 | 2年（BTS） | —（公立院校低学费，可走学徒制） |
+| CAP printing and binding | 2 years (CAP) | $0~$3,000 (Public schools are free, including registration fees) |
+| BTS Printing and Media | 2 Years (BTS) | $0~$5,000 (Public institutions offer low tuition fees and can pursue apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 印刷工 | 法国教育部 | 必备 | 必备入门资格 |
-| BTS 印刷与媒体 | 法国教育部 | 可选 | 进阶文凭，提升管理能力 |
+| CAP printer | French Ministry of Education | Required | Entry requirements are essential |
+| BTS Printing and Media | French Ministry of Education | Optional | Advanced diplomas to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国印刷业持续数字化，但包装和个性化印刷需求稳定，岗位缓慢减少，技术工人仍受青睐。
+**Job demand: medium (★★★☆☆).** National workforce approx. 25,000. France's printing industry continues to digitize, but demand for packaging and personalized printing remains stable, positions are slowly decreasing, and skilled workers remain favored.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $27,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，含主管津贴 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $27,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $26,742 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从操作员晋升为生产主管或质量控制员，需掌握数字印刷和自动化设备技能。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Print bindery and finishing workers face significant automation compression risk; AI and robots will gradually take over repetitive binding and inspection tasks, reducing entry-level positions, but machine maintenance and special material handling still require humans.
+
+You can be promoted from operator to production supervisor or quality controller, and must master digital printing and automation equipment skills.
+
+**Tasks most exposed to AI:**
+
+- Repetitive operation of manually binding books, magazines, and other printed materials
+- Automatically inspect binding quality using vision inspection systems
+- Operate traditional binding machines for standard size cutting and folding
+- Simple packaging and labeling tasks
+- Material handling and stacking
+
+**Where AI augments the role:**
+
+- Use AI layout software to optimize binding layout and material utilization
+- Using machine vision systems to monitor binding quality in real time and adjust parameters
+- Use data analysis to predict equipment maintenance needs
+- Simulate binding processes for different orders through digital twins
+
+**Human moat:**
+
+- Handcraft skills for handling special materials (e.g., leather, fabrics)
+- Diagnose and repair complex binding equipment faults
+- Customized, small-batch fine binding design
+- On-site coordination of exception handling across multiple automated processes
+
+**Skills to build:**
+
+- Programming and operation of digital control equipment
+- Robot maintenance and troubleshooting
+- Automatic binding line system integration
+- Quality Data Analysis
+- CAD/CAM software basics
+- Lean production and process optimization
+
+**Key growth areas:**
 
 - Digital printing
 - Packaging
@@ -63,65 +97,67 @@ Responsible for finishing, cutting, folding, binding, and routing printed materi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需雇主担保，匹配相关职位，工作许可受限于雇主和地区。 |
-| Subclass Recherche emploi（Job Search Permit (Recherche d'emploi)） | 毕业后可申请，有效期1年，用于寻找工作。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employer sponsorship is required, matching relevant positions, and work permits are restricted by employer and region. |
+| Subclass Recherche emploi (Job Search Permit (Recherche d'emploi)) | You can apply after graduation, valid for one year, and is used for job hunting. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Print Finishing and Routing Operator？**
-- 注重细节、动手能力强的人
-- 喜欢稳定重复性工作的人
-- 愿意接受职业培训的人
+**Who is suited**
+- Detail-oriented, hands-on person
+- People who enjoy stable, repetitive work
+- Those willing to undergo vocational training
 
-**谁不适合学Print Finishing and Routing Operator？**
-- 追求高薪和快速晋升的人
-- 不擅长重复劳动的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who are not good at repetitive tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for printing and binding operators?**
+A: Entry-level salaries range from about 22,000 to 26,000 euros, intermediate salaries from 27,000 to 32,000 euros, and seniors up to 40,000 euros, depending on experience and company size.
+
+**Q: Can foreigners engage in this occupation through skilled migration?**
+A: This occupation is not in short demand in France. Third-country immigrants need employer sponsorship to apply for a Salarié work permit, but competition is fierce and local job availability is abundant, making the immigration pathway more challenging.
+
+**Q: What are the career progression paths for this occupation?**
+A: Promotion is possible to production supervisor, quality controller, or print shop manager, requiring proficiency in digital printing and automation equipment operation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Print Finishing and Routing Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for print finishing operators?**
-答：Entry-level annual salary is about €22,000-€26,000, mid-level €27,000-€32,000, senior up to €40,000, depending on experience and company size.
-
-**问：Can foreigners work in this occupation through skilled migration?**
-答：This occupation is not in shortage; third-country nationals need employer sponsorship for a Salarié permit, but competition is high and local supply is sufficient, making migration difficult.
-
-**问：What are the career advancement paths?**
-答：Can advance to production supervisor, quality controller, or print shop manager, requiring skills in digital printing and automation.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

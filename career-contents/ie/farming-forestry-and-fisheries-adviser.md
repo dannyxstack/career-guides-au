@@ -1,60 +1,93 @@
-# Farming, Forestry and Fisheries Adviser（Farming, Forestry and Fisheries Adviser）职业分析 · IE
+# Farming, Forestry and Fisheries Adviser — career analysis · Ireland
 
-**职业代码：2132 – Farming, Forestry and Fisheries Adviser。**
+**Occupation code: 2132 (ISCO08)**
 
-Provide technical and management advice to farmers, foresters, and fishers on crop production, soil management, environmental conservation, and sustainable practices.
+Provides technical and management advice to farmers, foresters, and fishers, covering crop production, soil management, environmental protection, and sustainable practices.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $12,000~$18,000（年度学费，欧盟学生较低） |
-| 硕士 | 1-2年（硕士） | $15,000~$25,000（年度学费） |
+| Bachelor's degree | 4 years (bachelor's degree) | $12,000~$18,000 (Annual tuition fees, lower for EU students) |
+| Master's degree | 1-2 years (Master's) | $15,000~$25,000 (Annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业科学学位 | 爱尔兰大学 | 必备 | 通常要求相关学科本科以上学历 |
-| 专业认证（如 FACTS） | Teagasc/相关机构 | 可选 | 肥料认证等专业资格可提升竞争力 |
+| Agricultural science degree | Irish universities | Required | Usually requires a bachelor's degree or higher in a related field |
+| Professional certification (e.g., FACTS) | Teagasc/relevant institutions | Optional | Professional qualifications such as fertilizer certification can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。爱尔兰农业部门持续关注可持续发展和绿色农业，对该类顾问需求稳定，尤其是精通精准农业和碳汇管理的专家。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Ireland's agricultural sector continues to focus on sustainable development and green agriculture, with stable demand for such consultants, especially experts in precision agriculture and carbon sink management.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公共部门起薪较低，私营较高 |
-| 中级（3-7年） | $38,000~$48,000 | 经验丰富后薪资上升 |
-| 高级（7年以上） | $50,000~$65,000 | 管理或专家角色可达更高 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Public sector starting salaries are lower, private sector higher. |
+| Mid-level (3–7 years) | $38,000~$48,000 | Salary increases with experience. |
+| Senior (7+ years) | $50,000~$65,000 | Managerial or expert roles can achieve higher |
+| average salary | $44,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级顾问晋升为高级顾问、团队主管或政策制定者，亦可转向农业科技公司或研究机构担任专家职务。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace data collection and report generation, but enhance advisory and decision-support capabilities; consultants need to shift towards higher-value human judgment and relationship maintenance.
+
+Can progress from junior consultant to senior consultant, team leader, or policy maker, or transition to agritech companies or research institutions as an expert.
+
+**Tasks most exposed to AI:**
+
+- Automatically collect soil, weather, and crop growth data and generate standardized reports
+- Automatically generate routine recommendations for fertilization, irrigation, etc., based on historical data and models
+- Automatically monitor pests and diseases via satellite imagery and sensors and issue alerts
+- Automatically organize and distribute policy regulation updates and subsidy application information
+
+**Where AI augments the role:**
+
+- Use AI models to analyze multi-source data and provide precise customized production solutions
+- Optimizing long-term planning for farms, forests, or fisheries using digital twins and simulation tools
+- Risk assessment and sustainability analysis using AI-driven decision support systems
+- Use natural language processing to generate personalized training materials and interactive consultations
+
+**Human moat:**
+
+- Build trusting relationships with farmers/fishers and understand their unique situations.
+- Strategic trade-off integrating ESG goals with business interests
+- Handling unstructured emergencies such as extreme weather or market fluctuations
+- Interdisciplinary (agriculture, ecology, economics) systems thinking
+
+**Skills to build:**
+
+- Application of AI tools (e.g., predictive models, computer vision)
+- Data analysis and statistical modeling
+- Precision agriculture/forestry/fisheries technology
+- Sustainable Development and Environmental Management
+- Communication and change management
+- Digital platform and remote consulting skills
+
+**Key growth areas:**
 
 - Sustainable Agriculture
 - Carbon Farming
@@ -63,65 +96,64 @@ Provide technical and management advice to farmers, foresters, and fishers on cr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于3万欧元的职位，需通过劳动力市场测试。非紧缺职业。但该职业可能不符合特惠条件。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达到一定门槛（2023年约4.3万欧元）。通常要求相关学位。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary of at least €30,000, requiring a labor market test. Not a shortage occupation. However, this occupation may not qualify for preferential conditions. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens; annual salary must meet a threshold (approx. €43,000 in 2023). A relevant degree is usually required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farming, Forestry and Fisheries Adviser？**
-- 热爱农业和自然环境
-- 具备较强的沟通和教学能力
-- 愿意在户外和农村地区工作
-
-**谁不适合学Farming, Forestry and Fisheries Adviser？**
-- 不喜欢户外工作和多变天气
-- 对政策法规不感兴趣
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about agriculture and the natural environment
+- Strong communication and teaching skills
+- Willing to work outdoors and in rural areas
+
+**Who is not suited**
+- Dislike outdoor work and changing weather
+- Not interested in policies and regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Ireland?**
+A: Entry-level annual salary approx. €28,000-35,000, senior up to €50,000-65,000. Public sector pays lower but stable, private sector may be higher.
+
+**Q: How can non-EU citizens immigrate to Ireland for this occupation?**
+A: May apply for a general work permit or EU Blue Card. General work permit requires an annual salary of over 30,000 euros and a labour market test; the Blue Card requires a high salary (approx. 43,000 euros) and a degree. This occupation is not on the critical skills list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Farming, Forestry and Fisheries Adviser为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level salary is around €28,000-€35,000, senior can reach €50,000-€65,000. Public sector pays less but stable, private sector may offer higher.
-
-**问：How can non-EU citizens immigrate to Ireland for this occupation?**
-答：Apply for a General Employment Permit (≥€30k, labor market test) or EU Blue Card (≥€43k, degree). The occupation is not on the Critical Skills list.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

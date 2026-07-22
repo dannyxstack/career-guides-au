@@ -1,58 +1,92 @@
-# Office, Hotel and Other Establishment Cleaner（Office, Hotel and Other Establishment Cleaner）职业分析 · ES
+# Office, Hotel and Other Establishment Cleaner — career analysis · Spain
 
-**职业代码：9210 – Office, Hotel and Other Establishment Cleaner。**
+**Occupation code: 9210 (CNO)**
 
-Responsible for cleaning offices, hotels, restaurants and other establishments to maintain hygiene. Tasks include sweeping, mopping, window cleaning and waste disposal, typically under contract or schedule.
+Responsible for cleaning offices, hotels, restaurants, and other places to maintain environmental hygiene. Tasks include sweeping, mopping, window cleaning, and garbage disposal, usually carried out according to contract or scheduling.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常仅需短期在岗培训） |
+| No formal education required | None | $0~$0 (Usually, only short-term on-the-job training is required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求，雇主可能要求基本卫生培训 | 雇主或私立培训机构 | 可选 | 部分企业要求健康证或基础安全培训 |
+| There is no mandatory requirement; employers may require basic hygiene training | Employers or private training institutions | Optional | Some companies require health certificates or basic safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 425,000。西班牙清洁行业需求稳定，受旅游业和商业活动驱动。但自动化（如机器人清洁）可能影响低技能岗位，就业竞争一般。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 425,000. Demand for Spain's cleaning industry is stable, driven by tourism and business activity. However, automation (such as robotic cleaning) may affect low-skilled jobs, resulting in average job competition.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 基于最低工资和兼职比例 |
-| 中级（3-5年） | $19,000~$22,000 | 含加班和夜班补贴 |
-| 高级（5年以上/主管） | $22,000~$26,000 | 主管级别或工业清洁 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Based on minimum wage and part-time ratios |
+| Mid-level (3–5 years) | $19,000~$22,000 | Includes overtime and night shift allowances |
+| Senior (5+ years / supervisor) | $22,000~$26,000 | Supervisor-level or industrial cleaning |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但有限（★★½☆☆）。** 可从初级清洁工晋升为清洁组长或主管，负责团队管理和质量控制。少数转向自主创业或专业清洁（如工业清洁）。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Cleaning workers face a significant reduction in automation, AI-driven robots will gradually take over repetitive cleaning tasks, entry-level positions will decrease, and competition for low-skill positions will intensify.
+
+Employees can be promoted from junior cleaners to cleaning team leaders or supervisors, responsible for team management and quality control. A few have turned to self-employment or professional cleaning (such as industrial cleaning).
+
+**Tasks most exposed to AI:**
+
+- Automatic sweepers and mopping robots replace floor cleaning tasks
+- Smart trash bins automatically sort and compress waste processing
+- AI window cleaning robots replace manual window cleaning
+- Ultraviolet disinfection robots take over environmental disinfection work
+- Flat areas (such as tabletops and countertops) are covered by automatic cleaning equipment
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize cleaning routes and scheduling efficiency
+- IoT sensors monitor cleaning needs in real time, enhancing response speed
+- Cleaning robots assist in handling large areas, while humans focus on detailed areas
+- Intelligent inventory management of cleaning supplies reduces waste
+
+**Human moat:**
+
+- Manual techniques for handling complex stains and special surfaces such as carpets and artworks
+- Ability to respond to emergencies such as liquid spills or customer complaints
+- Interpersonal communication skills that interact directly with clients or tenants
+- Flexible operation in difficult areas (such as high altitudes and confined spaces).
+
+**Skills to build:**
+
+- Operate and maintain automated equipment such as cleaning robots
+- Use digital scheduling and scheduling software
+- Master knowledge of environmental protection and chemical safety
+- Basic customer service and communication skills
+- Learn electrical and mechanical maintenance knowledge to handle equipment failures
+- Data analysis and report writing skills
+
+**Key growth areas:**
 
 - Hygiene standards
 - Tourism sector
@@ -61,64 +95,66 @@ Responsible for cleaning offices, hotels, restaurants and other establishments t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需雇主提供工作合同，且证明无法在欧盟内招聘到合适人员。低技能岗位通常不被优先批准。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | The employer must provide a work contract and prove that suitable personnel cannot be recruited within the EU. Low-skilled positions are usually not given priority approval. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Office, Hotel and Other Establishment Cleaner？**
-- 注重稳定、不喜欢高压工作的人
-- 希望快速进入劳动市场、无需高学历者
-- 能接受体力劳动和灵活工作时间的人
+**Who is suited**
+- People who value stability and dislike high-pressure work
+- Those who want to quickly enter the labor market without high education required
+- People who can accept manual labor and flexible working hours
 
-**谁不适合学Office, Hotel and Other Establishment Cleaner？**
-- 寻求高薪或快速职业晋升者
-- 厌恶重复性体力工作或化学清洁剂者
+**Who is not suited**
+- Seekers of high salary or rapid career advancement.
+- Those who dislike repetitive physical labor or chemical cleaners
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How do cleaners get paid?**
+A: Starting salary is about 16,000-19,000 euros per year, with experienced professionals up to 22,000 euros and supervisors up to 26,000 euros.
+
+**Q: Can cleaners immigrate to Spain?**
+A: It's very difficult. Cleaners are low-skilled jobs, and third-country immigrants usually need employers to prove that vacancies cannot be filled in the EU, and approval is rare.
+
+**Q: What promotion opportunities are there for cleaners?**
+A: You can be promoted to cleaning team leader or supervisor, or transition to professional cleaning (such as industrial or medical cleaning), or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定但有限（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Office, Hotel and Other Establishment Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a cleaner?**
-答：Entry salary around €16,000-19,000/year, experienced up to €22,000, supervisors up to €26,000.
-
-**问：Can a cleaner immigrate to Spain?**
-答：Very difficult. This low-skilled occupation rarely qualifies for work visas; employers must prove no EU worker available.
-
-**问：What career progression exists for cleaners?**
-答：Promotion to team leader, supervisor, or specialization in industrial/medical cleaning; also self-employment.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

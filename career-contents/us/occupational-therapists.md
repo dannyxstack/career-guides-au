@@ -1,59 +1,95 @@
-# Occupational Therapists（Occupational Therapists）职业分析 · 美国
+# Occupational Therapists — career analysis · United States
 
-**职业代码：29-1122 – Occupational Therapists。**
+**Occupation code: 29-1122 (SOC)**
 
-Assess, plan, and organize rehabilitative programs to help individuals with disabilities or developmental delays restore daily living, vocational, and independence skills through therapeutic techniques and environmental adaptation.
+Assess, plan, and implement rehabilitation programs to help individuals with disabilities or developmental delays regain daily living, work, and independence skills, eliminating barriers through therapeutic techniques, environmental adjustments, and skill training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士 | 2-3年 | $30,000~$80,000（公立大学学费较低，私立较高，不含生活费） |
-| 博士（可选） | 3-4年 | $40,000~$100,000（临床型博士通常为OTD，学费较高） |
+| Master's degree | 2-3 years | $30,000~$80,000 (Public university tuition is relatively low, private higher, excluding living expenses) |
+| Doctorate (optional) | 3-4 years | $40,000~$100,000 (Clinical PhD usually OTD, higher tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州执业执照 | 各州职业治疗委员会 | 必备 | 通过NBCOT考试后申请，各州要求略有不同 |
-| 硕士或博士学位 | ACOTE认证院校 | 必备 | 入门级学位要求硕士或临床博士 |
-| CPR/BLS认证 | AHA或同等机构 | 可选 | 部分雇主或州要求 |
+| State occupational license. | State occupational therapy boards | Required | Apply after passing the NBCOT exam; requirements vary slightly by state |
+| Master's or doctoral degree | ACOTE-accredited institutions | Required | Entry-level degree requires a master's or clinical doctorate |
+| CPR/BLS certification | AHA or equivalent institution | Optional | Required by some employers or states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 140,000。美国就业前景强劲，预计2023-2033年增长率约14%，远超平均水平。老龄化人口和慢性病高发推动需求，尤其在学校、医院和居家护理领域。
+**Job demand: very high (★★★★½).** National workforce approx. 140,000. US employment outlook is strong, with projected growth of about 14% from 2023 to 2033, much faster than average. An aging population and high prevalence of chronic diseases drive demand, especially in schools, hospitals, and home care settings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 新毕业生起薪，因地区和机构而异 |
-| 中级（4-10年） | $85,000~$105,000 | 经验积累与专长发展后薪资提升 |
-| 高级（10年以上） | $100,000~$130,000 | 主管、临床专家或私人执业可达更高 |
+| Median salary | $100,330 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Starting salary for new graduates varies by location and institution. |
+| Mid-level (4-10 years). | $85,000~$105,000 | Salary increases with experience accumulation and expertise development |
+| Senior (10+ years) | $100,000~$130,000 | Supervisors, clinical specialists, or private practice can earn more |
+| average salary | $101,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径：持有硕士或博士学位并取得州执照后，可从临床治疗师晋升为高级治疗师、科室主管、临床主任，或转入学术研究、私人执业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
+
+Career path: With a master's or doctoral degree and state licensure, can progress from clinical therapist to senior therapist, department head, clinical director, or transition to academic research or private practice.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized assessment scales and score statistics
+- Use NLP to analyze patient diaries and generate rehabilitation progress summaries.
+- AI voice assistants record therapy sessions and summarize key points
+- Robot-assisted completion of repetitive limb training exercises
+- Automated scheduling and medical record archiving
+
+**Where AI augments the role:**
+
+- AI provides personalized activity recommendations and adaptive rehabilitation plans
+- Wearable device data analysis aids in identifying patient fatigue and risks
+- Virtual reality (VR) simulations of daily scenarios for desensitization training
+- Generative AI creating visual teaching aids and home practice guides
+- Predictive models for early warning of functional decline and intervention strategy adjustment
+
+**Human moat:**
+
+- Building and maintaining therapeutic relationships face-to-face
+- Unstructured activity analysis, improvisation, and creative adaptation
+- Assessing real-world engagement in complex social contexts
+- Human-Centered Communication and Decision-Making in Interdisciplinary Team Collaboration
+- Emotional guidance and motivation for patients/family members
+
+**Skills to build:**
+
+- Use and tuning of AI rehabilitation plan generation tools
+- Wearable device data analysis and visual interpretation
+- VR/AR therapy content design and basic programming
+- Human-robot collaborative therapy process design and ethical evaluation
+- Application of digital health records and intelligent reporting systems
+- AI-based remote rehabilitation monitoring and intervention
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease
@@ -62,69 +98,68 @@ Assess, plan, and organize rehabilitative programs to help individuals with disa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于持有相关硕士学位的外籍治疗师，需雇主担保，有年度配额限制 |
-| Subclass EB-2（EB-2 Advanced Degree） | 硕士或以上学历，需通过PERM劳工认证和I-140申请，排期较长 |
-| Subclass EB-3（EB-3 Skilled Worker） | 本科学位或同等经验，同样需PERM，排期比EB-2更长 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大和墨西哥公民，职业治疗师符合资格，无需抽签 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to foreign therapists with relevant master's degrees, requires employer sponsorship, with annual quota limits |
+| Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or higher, requires PERM labor certification and I-140 application, long wait times |
+| Subclass EB-3 (EB-3 Skilled Worker) | Bachelor's degree or equivalent experience, also requires PERM, with longer wait times than EB-2 |
+| Subclass TN (TN NAFTA Professional) | Limited to Canadian and Mexican citizens; occupational therapists qualify, no lottery needed |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Therapists？**
-- 有耐心、同理心，乐于帮助他人恢复功能的人
-- 喜欢解决问题、善于观察和分析的人
-- 希望在医疗领域稳定发展、工作与生活平衡的人
-
-**谁不适合学Occupational Therapists？**
-- 不擅长与人沟通、缺乏耐心的人
-- 无法承受情绪消耗或体力要求的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, enjoy helping others regain function
+- People who enjoy solving problems, are observant, and analytical
+- Those seeking stable development and work-life balance in the medical field
+
+**Who is not suited**
+- People who are not good at communicating with others or lack patience
+- Those unable to withstand emotional drain or physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an occupational therapist?**
+A: According to U.S. Bureau of Labor Statistics 2023 data, the median annual salary for occupational therapists is about $92,000, varying by region, experience, and institution type.
+
+**Q: What are the pathways for occupational therapists to immigrate to the US?**
+A: Common pathways include H-1B work visa, EB-2/EB-3 employment-based green card, and TN visa (for Canadian/Mexican citizens). Must obtain state license and find employer sponsorship.
+
+**Q: What degree is needed to become an occupational therapist?**
+A: At least a master's degree from an ACOTE-accredited program is required; some schools also offer a clinical doctorate (OTD). Typically takes 2-3 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Occupational Therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for occupational therapists?**
-答：According to BLS 2023 data, the median annual wage for occupational therapists is about $92,000, varying by location, experience, and employer.
-
-**问：What are the immigration pathways for occupational therapists to the US?**
-答：Common pathways include H-1B visa, EB-2/EB-3 green card, and TN visa (for Canadian/Mexican citizens). Requires state licensure and employer sponsorship.
-
-**问：What degree is required to become an occupational therapist?**
-答：A master's degree from an ACOTE-accredited program is minimum; some offer a clinical doctorate (OTD). Typically takes 2-3 years.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Family Mediator（Family Mediator）职业分析 · FR
+# Family Mediator — career analysis · France
 
-**职业代码：K1101 – Family Mediator。**
+**Occupation code: K1101 (ROME)**
 
-Family mediators assist parties in separation, divorce or family conflicts to reach agreements through negotiation, focusing on children's welfare and family communication, avoiding litigation.
+Family mediators assist parties in separation, divorce, or family conflicts through negotiation to reach consensus, focusing on child welfare and family communication, and avoiding litigation.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 基本培训（调解员资格） | 2-3年（含实习） | $3,000~$8,000（私立培训中心或大学继续教育课程费用） |
-| 进阶硕士（心理学或法律方向） | 2年（Master） | $200~$5,000（公立大学学费较低，私立高商较高） |
+| Basic Training (Mediator Qualification) | 2-3 years (including internship) | $3,000~$8,000 (Fees for continuing education courses at private training centers or universities) |
+| Intermediate Master's (Psychology or Law Direction) | 2 years (Master) | $200~$5,000 (Public universities have lower tuition fees, while private higher commercial schools offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家家庭调解文凭（DNMF） | 法国司法部 | 必备 | 从业必备，需完成培训并通过考试 |
-| 心理学或法律硕士 | 大学 | 可选 | 非强制但有利于执业 |
+| National Diploma in Family Mediation (DNMF) | French Ministry of Justice | Required | Essential for employment, requiring completion of training and passing exams |
+| Master of Psychology or Law | University | Optional | Non-mandatory but beneficial for practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。法国政府推动非诉讼纠纷解决机制，家庭调解需求持续增长，尤其在离婚率较高地区。就业机会集中于协会、司法机构及私人执业。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,000. The French government promotes non-litigation dispute resolution mechanisms, and the demand for family mediation continues to grow, especially in regions with high divorce rates. Employment opportunities are concentrated in associations, judicial bodies, and private practice.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 受雇于协会或公共机构 |
-| 中级（4-7年） | $30,000~$40,000 | 包括私人执业收入 |
-| 高级（8年以上） | $40,000~$55,000 | 有稳定客户群或担任管理职位 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Employed by associations or public institutions |
+| Mid-level (4-7 years) | $30,000~$40,000 | Including private practice income |
+| Senior (8+ years) | $40,000~$55,000 | Have a stable client base or hold management positions |
+| average salary | $26,742 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从调解员晋升为调解培训师、协调员或开设私人调解事务所。部分调解员转向社会工作、心理咨询或法律咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of family mediators rely on high emotional intelligence communication and trust-building, which AI cannot replace; However, auxiliary tasks such as document organization and information retrieval can be automated, and overall risk is moderate.
+
+They can be promoted from mediator to mediation trainer, coordinator, or to establish a private mediation firm. Some mediators have shifted to social work, psychological counseling, or legal counseling.
+
+**Tasks most exposed to AI:**
+
+- Mediation meeting minutes and summary generation
+- Automatic retrieval and organization of relevant legal provisions and cases
+- Automatic generation of preliminary mediation plan templates
+- Sentiment analysis report output based on communication records
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of communication patterns between both parties and advice on mediation strategies
+- Using natural language processing technology to monitor the emotional atmosphere of the meeting in real time
+- Automatically generate multiple alternative versions of a custody plan or property division scheme
+- VR simulation role-playing helps mediators rehearse high-conflict scenarios
+
+**Human moat:**
+
+- Build trust and empathy through repressed conflict
+- The ability to interpret nonverbal signals and implicit emotions
+- Creatively adapting strategies flexibly amid complex family dynamics
+- Intuitive judgment of children's psychological sensitivity
+- Assume ethical responsibility and maintain neutral and fair professional ethics
+
+**Skills to build:**
+
+- AI mediation tool operation (such as platforms like Custody X Change)
+- Basic data analysis and emotional computing interpretation
+- Use of digital communication and online mediation platforms
+- Advanced Conflict Psychology (especially high-conflict personality)
+- Legal and Policy Updates (Especially the Impact of Family Law Automation)
+- Multilingual proficiency serves multicultural families
+
+**Key growth areas:**
 
 - Alternative dispute resolution
 - Family law
@@ -63,69 +97,68 @@ Family mediators assist parties in separation, divorce or family conflicts to re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于在法国有工作合同或项目的高级人才，需证明专业能力。 |
-| Subclass Salarié（Employee visa） | 受雇于法国机构后申请，需获得工作许可。 |
-| Subclass Recherche emploi（Job search visa） | 毕业后可申请1年找工作居留，找到工作后转为工作居留。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for senior talents with work contracts or projects in France, requiring proof of professional competence. |
+| Subclass Salarié (Employee visa) | After being employed by a French institution, you must apply and obtain a work permit. |
+| Subclass Recherche emploi (Job search visa) | After graduation, you can apply for a one-year job-seeking residence permit, and once you find a job, you can switch to work-based residence. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Family Mediator？**
-- 善于沟通、有同理心，能中立处理冲突
-- 具备心理学或法律背景，希望从事社会服务
-- 愿意接受持续培训和督导
-
-**谁不适合学Family Mediator？**
-- 无法在情感压力下保持中立
-- 偏好快速结果，不擅长长期协商
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication, empathetic, and able to handle conflicts neutrally
+- Candidates with a background in psychology or law and wish to work in social service
+- Willing to undergo ongoing training and supervision
+
+**Who is not suited**
+- Unable to remain neutral under emotional pressure
+- Prefers quick results and is not good at long-term negotiations
+
+---
+
+## 8. FAQ
+
+**Q: Where does the main income of a family mediator come from?**
+A: Sources of income include: employment with associations or courts (fixed salary), as well as private practice charged hourly (usually 60-100 euros/hour).
+
+**Q: How can a foreign diploma become a French family mediator?**
+A: You must pass a qualification certification (reconnaissance des qualifications), certifying that the diploma is equivalent to a French master's degree, and complete DNMF training. EU citizens can apply directly.
+
+**Q: Can family mediators practice full-time?**
+A: Yes, but in the early stages, you usually need to work part-time or be employed simultaneously; With rich experience, you can build a stable client base and practice full-time.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Family Mediator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the main income sources for family mediators?**
-答：Income sources include employment by associations or courts (fixed salary) and private practice with hourly fees (typically 60-100 EUR/hour).
-
-**问：How can foreign qualifications lead to becoming a family mediator in France?**
-答：You need to go through qualification recognition (reconnaissance des qualifications) to prove your diploma is equivalent to a French Master's, and complete the DNMF training. EU citizens can apply directly.
-
-**问：Can family mediators work full-time?**
-答：Yes, but initially often part-time or employed; with experience, you can build a steady client base and work full-time.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

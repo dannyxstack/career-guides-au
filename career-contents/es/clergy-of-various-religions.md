@@ -1,60 +1,92 @@
-# Clergy of Various Religions（Clergy of Various Religions）职业分析 · ES
+# Clergy of Various Religions — career analysis · Spain
 
-**职业代码：2830 – Clergy of Various Religions。**
+**Occupation code: 2830 (CNO)**
 
-Responsible for conducting religious ceremonies, providing spiritual guidance, managing religious affairs, and serving as moral and spiritual leaders in communities.
+They are responsible for presiding over religious ceremonies, providing spiritual guidance, managing religious affairs, and playing the role of moral and spiritual leader within the community.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（神学/宗教研究） | 4年（Grado） | $2,000~$6,000（公立大学学费约2000-3000欧元/年，私立约6000欧元/年） |
-| 神学院或宗教院校研修 | 3-5年（视教派） | $3,000~$10,000（部分宗教院校免学费，但可能要求住宿费） |
+| Undergraduate (Theology/Religious Studies) | 4 years (Grado) | $2,000~$6,000 (Tuition at public universities is about 2,000-3,000 euros per year, while private tuition is about 6,000 euros per year) |
+| Seminary or religious institution training | 3-5 years (Vision School) | $3,000~$10,000 (Some religious institutions waive tuition, but may require accommodation fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位或同等学历 | 大学或神学院 | 必备 | 多数教派要求本科或硕士神学学位 |
-| 按立/任命证书 | 所属宗教团体 | 必备 | 需通过教区或宗教机构考核和任命 |
+| A degree in theology or an equivalent qualification | University or seminary | Required | Most denominations require a bachelor's or master's degree in theology |
+| Ordination/appointment certificate | Religious affiliation. | Required | They must pass assessment and appointment by diocesan or religious institution |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。西班牙宗教信仰多元化，神职人员需求稳定但增长缓慢，主要受人口老龄化和宗教活动参与率变化影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Spain's religious beliefs are diverse, and the demand for clergy remains stable but grows slowly, mainly influenced by population aging and changes in religious participation rates.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $18,000~$24,000 | 助理神父或初级牧师，部分提供食宿 |
-| 中级（5-15年） | $24,000~$35,000 | 堂区负责人或资深神职人员 |
-| 高级（15年以上） | $35,000~$50,000 | 主教或宗教机构高级管理人员 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $18,000~$24,000 | Assistant priests or junior pastors, some provide food and lodging |
+| Intermediate (5-15 years) | $24,000~$35,000 | Parish leaders or senior clergy |
+| Senior (15+ years) | $35,000~$50,000 | Senior administrators of bishops or religious institutions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从神学院或宗教院校毕业后，从助理牧师/神父做起，逐步晋升为堂区负责人、主教或宗教机构管理者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI cannot replace the core spiritual companionship and ritual hosting of clergy, but it will significantly compress tasks related to paperwork, knowledge retrieval, and dissemination, forcing practitioners to strengthen emotional intelligence and community service capabilities.
+
+Typically, after graduating from a seminary or religious institution, students start as assistant pastors or priests and gradually advance to parish leaders, bishops, or administrators of religious institutions.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate sermon scripts and religious education materials
+- Providing basic religious consultation and guidance through chatbots
+- Manage believer files and religious activity schedules
+- Online religious knowledge Q&A and doctrinal inquiry
+
+**Where AI augments the role:**
+
+- Use AI to analyze community needs and tailor more targeted mental health care activities
+- Using AI translation tools to spread teachings to multilingual believers
+- Using virtual reality technology to enhance the religious ritual experience and sense of participation
+- Optimize the effectiveness of religious education activities through data insights
+
+**Human moat:**
+
+- Presiding over on-site ceremonies and sacraments (such as Mass, weddings, funerals) with a sense of ritual and authority
+- Deep empathy and one-on-one spiritual companionship
+- Handling ethical dilemmas and providing personalized moral guidance
+- Maintaining community trust and emotional bonds
+
+**Skills to build:**
+
+- Nonviolent communication and deep listening skills
+- Community organization and event planning skills
+- AI tool usage (such as natural language generation, data analysis)
+- Ability to engage in cross-cultural and multi-religious dialogue
+- Mental Health First Aid and Trauma-Informed Care
+
+**Key growth areas:**
 
 - Stable demand
 - Aging population
@@ -63,64 +95,63 @@ Responsible for conducting religious ceremonies, providing spiritual guidance, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa (General Regime)） | 由西班牙宗教机构担保的工作居留，需证明该职位无法由本地或欧盟公民填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高学历神职人员，但较少适用，需满足收入门槛。 |
+| Subclass Cuenta ajena (Work Contract Visa (General Regime)) | Work residency guaranteed by Spanish religious institutions must prove that the position cannot be filled by local or EU citizens. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | It is suitable for highly educated clergy but less commonly, requiring income threshold requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clergy of Various Religions？**
-- 有强烈宗教信仰和使命感的人
-- 善于倾听和沟通，愿意服务社区者
-
-**谁不适合学Clergy of Various Religions？**
-- 不愿接受宗教教义约束者
-- 追求高收入和物质回报者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong religious beliefs and sense of mission
+- Good listeners and communicators, willing to serve the community
+
+**Who is not suited**
+- Those unwilling to accept religious doctrine constraints
+- Those seeking high income and material returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for clergy in Spain?**
+A: Junior clergy salary approx. €18,000-24,000 per year, senior bishops up to €50,000; some denominations provide free room and board.
+
+**Q: Can foreign clergy immigrate to work in Spain?**
+A: Yes, but you must have a job contract sponsored by a Spanish religious institution, and church positions must prioritize EU citizens; non-EU applicants must prove non-substitutability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Clergy of Various Religions为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for clergy in Spain?**
-答：Entry-level clergy earn around €18,000-24,000 annually, while senior bishops can earn up to €50,000, with some denominations providing free accommodation.
-
-**问：Can foreign clergy migrate to work in Spain?**
-答：Yes, but requires a job offer from a Spanish religious institution, and the position must be certified as unfillable by EU citizens.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

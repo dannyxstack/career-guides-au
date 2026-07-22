@@ -1,59 +1,95 @@
-# Mental Health and Substance Abuse Social Workers（Mental Health and Substance Abuse Social Workers）职业分析 · 美国
+# Mental Health and Substance Abuse Social Workers — career analysis · United States
 
-**职业代码：21-1023 – Mental Health and Substance Abuse Social Workers。**
+**Occupation code: 21-1023 (SOC)**
 
-Assess and treat individuals with mental, emotional, or substance abuse problems, including abuse of alcohol, tobacco, and/or other drugs. Activities may include individual and group therapy, crisis intervention, case management, client advocacy, prevention, and education.
+Assess and treat individuals with mental, emotional, or substance abuse issues (including alcohol, tobacco, and other drugs); activities may include individual and group therapy, crisis intervention, case management, client advocacy, prevention, and education.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费差异大） |
-| 硕士学位（MSW） | 2年 | $30,000~$80,000（需CSWE认证项目） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition varies greatly) |
+| Master's degree (MSW) | 2 years | $30,000~$80,000 (Requires CSWE accredited program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 临床社会工作执照（LCSW） | 州执照委员会 | 必备 | 通常需要MSW后2年督导经验并通过ASWB考试 |
-| 硕士社会工作学位（MSW） | 大学 | 必备 | 需CSWE认证 |
-| 药物滥用认证 | NAADAC或州机构 | 可选 | 不强制但有利于就业 |
+| Licensed Clinical Social Worker (LCSW) | State Licensing Board | Required | Typically requires 2 years of supervised experience post-MSW and passing the ASWB exam |
+| Master of Social Work (MSW) | University | Required | Requires CSWE certification |
+| Substance Abuse Certification | NAADAC or state agency | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 112,000。美国劳工统计局预测2023-2033年就业增长约18%，远高于所有职业平均水平，主因是对心理健康服务和药物滥用治疗的需求增加。
+**Job demand: very high (★★★★½).** National workforce approx. 112,000. The U.S. Bureau of Labor Statistics projects employment growth of about 18% from 2023 to 2033, much faster than the average for all occupations, mainly due to increased demand for mental health services and substance abuse treatment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$55,000 | 入门级薪资较低 |
-| 中级（4-7年） | $55,000~$70,000 | 取得执照后增长 |
-| 高级（8年以上） | $70,000~$90,000 | 主管或私人执业 |
+| Median salary | $60,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $42,000~$55,000 | Entry-level salary is relatively low |
+| Mid-level (4-7 years) | $55,000~$70,000 | Growth after obtaining license |
+| Senior (8+ years) | $70,000~$90,000 | Supervisor or private practice |
+| average salary | $68,030 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 职业发展路径：入门级临床社会工作者 → 持证临床社会工作者（LCSW）→ 高级临床医生/主管 → 项目经理/主任 → 独立私人执业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on social workers is mainly augmentation rather than replacement, but entry-level positions face compression from automated administrative tasks; core human skills (empathy, crisis judgment) remain irreplaceable, and demand continues to grow with policy support.
+
+Career progression path: entry-level clinical social worker → licensed clinical social worker (LCSW) → senior clinician/supervisor → project manager/director → independent private practice.
+
+**Tasks most exposed to AI:**
+
+- Case recording and documentation: AI automatically generates structured reports and progress records
+- Initial screening and classification: AI automatically identifies urgency based on rules to assign cases
+- Common consultation Q&A: chatbots handling standardized issues such as welfare policies and application processes
+- Data entry and form filling: OCR and automation tools replace manual input
+- Basic compliance checks: AI auto-verify document completeness and eligibility
+
+**Where AI augments the role:**
+
+- Crisis risk assessment: AI analyzes historical data to predict violence/self-harm risk, aiding judgment
+- Resource matching and recommendation: AI automatically matches optimal community resources or intervention plans based on case characteristics
+- Personalized intervention plans: AI generates evidence-based initial drafts for social workers to quickly adjust
+- Cross-agency coordination: AI automatically synchronizes information and tracks service progress, reducing communication costs
+- Emotion analysis and feedback: NLP analyzes conversation text, prompts intervention timing and strategy adjustment
+
+**Human moat:**
+
+- Deep empathy and emotional connection: build trust, handle trauma, provide emotional support in crises
+- Complex Ethical Decision-Making: balancing contradictory factors like privacy, security, and autonomy
+- Cross-cultural sensitivity and interpersonal coordination: mediating in multicultural families/communities
+- Physical presence and on-site intervention: home visits, crisis scenes, child visits, irreplaceable contact
+- Legal and policy discretion: professional judgment and accountability in programs like NDIS
+
+**Skills to build:**
+
+- AI Case Management Tools: e.g., Salesforce Einstein, Casebook AI
+- Data interpretation and visualization: analyzing community needs trends with Tableau/Power BI
+- Prompt engineering and dialogue design: optimize AI consultation bot scripts.
+- Ethical AI review: check AI recommendations for bias and compliance
+- Remote intervention techniques: video consultation, VR scenario simulation
+- Cross-system integration: connecting government, healthcare, and community data platforms
+
+**Key growth areas:**
 
 - 18% growth
 - aging population
@@ -62,68 +98,67 @@ Assess and treat individuals with mental, emotional, or substance abuse problems
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于拥有硕士学位的临床社工，雇主担保，但名额有限 |
-| Subclass EB-2（EB-2 Advanced Degree） | 通过PERM劳工认证，适用于硕士及以上学位，绿卡路径 |
-| Subclass EB-3（EB-3 Skilled Worker） | 适用于学士学位加经验，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to clinical social workers with a master's degree; employer-sponsored but limited spots |
+| Subclass EB-2 (EB-2 Advanced Degree) | Through PERM labor certification, applicable to master's degree or higher, green card pathway |
+| Subclass EB-3 (EB-3 Skilled Worker) | Applicable for bachelor's degree plus experience, with long waiting times. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mental Health and Substance Abuse Social Workers？**
-- 具有同理心和沟通能力的人
-- 喜欢帮助他人解决心理问题
-- 能承受情绪压力
-
-**谁不适合学Mental Health and Substance Abuse Social Workers？**
-- 无法处理高情绪压力的人
-- 不喜欢官僚流程和文书工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and communication skills
+- Enjoys helping others solve psychological problems.
+- Able to handle emotional stress
+
+**Who is not suited**
+- People unable to handle high emotional pressure
+- Dislike bureaucratic processes and paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mental health social workers?**
+A: US average annual salary approx. $50,000–60,000, senior or private practice can reach $80,000–90,000.
+
+**Q: As an international student, how can I immigrate to the US through this occupation?**
+A: Typical path: obtain MSW degree → apply for OPT (up to 12 months) → find employer to sponsor H-1B → apply for EB-2 or EB-3 green card via PERM. Note H-1B lottery.
+
+**Q: What licenses are required to become a clinical social worker?**
+A: Usually requires LCSW licence, 2 years of supervised experience after MSW, and passing ASWB clinical exam. Requirements vary by state.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mental Health and Substance Abuse Social Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mental health social workers?**
-答：Average annual salary in the US is about $50,000-$60,000, senior or private practice can reach $80,000-$90,000.
-
-**问：How can international students immigrate through this occupation?**
-答：Typical path: obtain MSW degree → apply for OPT (up to 12 months) → find employer for H-1B sponsorship → PERM for EB-2/EB-3 green card. Note H-1B lottery.
-
-**问：What licenses are required to become a clinical social worker?**
-答：Typically LCSW license requires 2 years supervised experience after MSW and passing ASWB clinical exam. State requirements vary.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

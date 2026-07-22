@@ -1,60 +1,95 @@
-# Actor（Actor）职业分析 · IT
+# Actor — career analysis · Italy
 
-**职业代码：2655 – Actor。**
+**Occupation code: 2655 (ISCO08)**
 
-Actors in Italy perform in theatre, film, television, or radio, requiring artistic talent and training.
+Actors perform in theatre, film, television, or radio in Italy, requiring artistic talent and training.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 戏剧学院 | 3年（本科） | $2,000~$15,000（公立学院较低，私立较高） |
-| 表演培训班 | 1-2年 | $3,000~$10,000（私立机构） |
+| Drama academy | 3 years (bachelor's) | $2,000~$15,000 (Public colleges lower, private higher) |
+| Performance training class | 1-2 years | $3,000~$10,000 (Private institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术类毕业证书 | 意大利教育部认可的院校 | 可选 | 非必须但有助于就业 |
-| 专业演员注册 | 意大利国家演艺协会（ENPALS） | 可选 | 建议注册以获取社保 |
+| Art graduation certificate. | Institutions accredited by the Italian Ministry of Education | Optional | Not required but helpful for employment |
+| Professional actor registration | Italian National Association of Performing Arts (ENPALS) | Optional | It is recommended to register for social security |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。意大利演艺行业竞争激烈，收入不稳定，但电影和戏剧产业在罗马、米兰等地有一定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Italy's performing arts industry is highly competitive with unstable income, but there is some demand in film and theater in cities like Rome and Milan.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 项目制，收入不稳定 |
-| 中级（3-10年） | $30,000~$60,000 | 有稳定演出合同 |
-| 高级（10年以上） | $60,000~$150,000 | 知名演员或主演 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$30,000 | Project-based, unstable income |
+| Intermediate (3-10 years) | $30,000~$60,000 | Have a stable performance contract |
+| Senior (10+ years) | $60,000~$150,000 | Famous actor or lead role |
+| average salary | $57,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 演员可从配角起步，逐步晋升为主角，或转向导演、编剧、制片人等幕后岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI brings mixed impacts for actors: on one hand, AI-generated virtual actors and synthetic media may replace some extras, background performances, and standardized voice acting; on the other hand, AI tools can enhance performance creation, storyboard previews, and facial animation, but core emotional expression and live interaction remain a human moat.
+
+Actors can start in supporting roles, gradually advance to lead roles, or move to behind-the-scenes positions such as director, screenwriter, or producer.
+
+**Tasks most exposed to AI:**
+
+- Bulk generation of extras and background roles (AI digital humans replacing)
+- Standard voiceover (e.g., for non-principal roles in ads and animations)
+- Simple facial replacement or expression synthesis (digital double) in front of the camera.
+- Scripted performance based on retrieval (e.g., preset actions in interactive experiences)
+
+**Where AI augments the role:**
+
+- Script analysis and character motivation exploration (AI-assisted text understanding)
+- Virtual rehearsal (using digital avatars to test scenes and movements).
+- Fine-tune facial animations (optimize expression capture in real-time with AI).
+- Improv and personalized performance (AI generates script suggestions based on style)
+- Lip-sync for multilingual dubbing (AI automatic matching)
+
+**Human moat:**
+
+- High emotional authenticity and subtle emotional delivery.
+- Improvisation and unpredictable interactive chemistry.
+- Physical Presence and Audience Empathy (Stage Theater)
+- Unique interpretation of deep psychology in complex roles
+- Real-time creative collaboration between director and actors
+
+**Skills to build:**
+
+- Use AI video generation tools (e.g., Runway, Pika) for pre-visualisation
+- Master motion capture and facial capture technologies (e.g., Unreal Engine MetaHuman)
+- Basic AI scriptwriting assistant tools (e.g., ChatGPT script analysis)
+- Digital human interaction and virtual performances (e.g., VRChat performances)
+- Multimedia editing and compositing knowledge (to improve self-direction and performance skills).
+- Data analysis skills (understanding AI's selection logic and optimizing personal brand)
+
+**Key growth areas:**
 
 - cinema
 - theatre
@@ -63,65 +98,67 @@ Actors in Italy perform in theatre, film, television, or radio, requiring artist
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需工作合同和较高薪资 |
-| Subclass Nulla Osta（Nulla Osta (Work Visa)） | 基于工作许可，需雇主担保和劳动力市场测试 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a work contract and higher salary |
+| Subclass Nulla Osta (Nulla Osta (Work Visa)) | Based on work permits, requires employer sponsorship and labor market testing |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Actor？**
-- 有表演天赋和热情
-- 能承受收入不稳定
-- 适应频繁试镜和拒绝
+**Who is suited**
+- Possess performance talent and passion
+- Can tolerate unstable income.
+- Adapt to frequent auditions and rejections
 
-**谁不适合学Actor？**
-- 追求稳定收入
-- 不愿意接受批评
+**Who is not suited**
+- Seeking stable income
+- Unwilling to accept criticism
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for actors in Italy?**
+A: Junior actors earn approximately €15,000-30,000 annually, while senior actors can earn €60,000-150,000, but income fluctuates significantly.
+
+**Q: How can non-EU citizens obtain an Italian actor work visa?**
+A: Typically need to first obtain a work contract, employer applies for Nulla Osta, then apply for a work visa; or apply for the EU Blue Card (requires high salary).
+
+**Q: What are the career development paths for actors in Italy?**
+A: Can start as a supporting role and gradually become the lead, or transition to director, screenwriter, etc., but requires continuous learning and networking.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Actor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for actors in Italy?**
-答：Entry-level actors earn €15,000-30,000 per year, while experienced actors can earn €60,000-150,000, but income is irregular.
-
-**问：How can non-EU citizens get a work visa as an actor in Italy?**
-答：Generally, you need a job offer; the employer applies for Nulla Osta, then you apply for a work visa. EU Blue Card is possible with higher salary.
-
-**问：What is the career path for actors in Italy?**
-答：Start as supporting roles, progress to leads, or transition to directing, writing, etc. Requires continuous learning and networking.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

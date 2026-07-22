@@ -1,60 +1,92 @@
-# Aquaculture Worker（Aquaculture Worker）职业分析 · IE
+# Aquaculture Worker — career analysis · Ireland
 
-**职业代码：6221 – Aquaculture Worker。**
+**Occupation code: 6221 (ISCO08)**
 
-Aquaculture workers raise and harvest fish, shellfish, and aquatic plants, maintaining farms on Ireland's coasts and inland waters.
+Aquaculture workers are responsible for the rearing, harvesting, and maintenance of fish, shellfish, and other aquatic animals at coastal and inland farms in Ireland.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 无需正式教育 | —（在职培训为主） |
-| 职业教育证书 | 1-2年 | $1,000~$5,000（如FETAC Level 6课程） |
-| 学士学位（水产养殖或相关） | 3-4年 | $6,000~$12,000（大学每年学费） |
+| High school diploma or equivalent | No formal education required | $0~$0 (On-the-job training primarily) |
+| Vocational education certificate | 1-2 years | $1,000~$5,000 (Such as FETAC Level 6 courses) |
+| Bachelor's degree (Aquaculture or related) | 3-4 years | $6,000~$12,000 (Annual university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 相关培训机构 | 必备 | 基本要求 |
-| 船艇操作许可证 | 爱尔兰海事局 | 可选 | 如操作船只 |
-| 水产养殖培训证书 | SOLAS或BIM | 可选 | 提升就业竞争力 |
+| First aid certificate | Relevant training institutions | Required | Basic requirements |
+| Boat operation license | Irish Maritime Administration | Optional | e.g., operating boats |
+| Aquaculture training certificate | SOLAS or BIM | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,800。爱尔兰水产养殖业受可持续海鲜需求驱动，预计稳定增长。政府支持扩张，但受环境法规和许可限制，岗位竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,800. Ireland's aquaculture industry is driven by demand for sustainable seafood, with steady growth expected. Government supports expansion, but environmental regulations and licensing constraints lead to moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，主管或技术岗位 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$36,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$45,000 | Annual pre-tax salary, supervisory or technical positions |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级工人可晋升为养殖场主管或技术员，积累经验后管理运营。也可转向水产科研或质量控制岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will partially replace routine tasks like monitoring and recording, but enhance capabilities in farming optimization and disease prediction, while physical operations and decision-making responsibilities are hard to replace, resulting in a mixed overall impact.
+
+Junior workers can advance to farm supervisor or technician, managing operations after gaining experience. They may also move into aquaculture research or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- The automatic feeding system replaces manual feeding operations
+- AI cameras replace manual inspections for monitoring fish behavior and water quality
+- Automated record-keeping systems replace manual log entry
+
+**Where AI augments the role:**
+
+- AI prediction model helps optimize feed amount and timing.
+- Enhanced management capability for early disease warning systems based on sensor data
+- Automated water quality control systems reduce manual adjustments, improving stability
+- Data-driven decision support improves breeding density and production planning
+
+**Human moat:**
+
+- On-site judgment to handle sudden equipment failures and biological anomalies
+- Intuitive and empirical diagnosis of aquatic health and stress behavior
+- Soft skills in team coordination and communication with external regulators
+- Adaptive Operations in Extreme Weather or Remote Locations
+
+**Skills to build:**
+
+- Basic data analysis (Excel/Python)
+- IoT device operation and maintenance
+- Use of aquaculture management software (e.g., aquaManager)
+- Application of AI image recognition tools in disease identification
+- Ability to perform manual operations and emergency response in critical situations
+- Interdisciplinary collaboration and basic English communication
+
+**Key growth areas:**
 
 - Sustainable aquaculture
 - Offshore farming
@@ -63,68 +95,67 @@ Aquaculture workers raise and harvest fish, shellfish, and aquatic plants, maint
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如果岗位在紧缺职业列表（通常水产养殖工人不在），年薪需达32,000欧元以上。 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/EEA公民可自由工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary threshold of approximately €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list (aquaculture workers are usually not), the annual salary must exceed €32,000. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can work freely without a visa. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture Worker？**
-- 喜欢户外体力劳动、对海洋生物有兴趣
-- 能适应在沿海偏远地区工作
-- 愿意接受季节性工作安排
-
-**谁不适合学Aquaculture Worker？**
-- 寻求高薪职业者
-- 偏好稳定室内办公环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work and has an interest in marine life
+- Ability to work in coastal remote areas
+- Willing to accept seasonal work arrangements
+
+**Who is not suited**
+- Looking for high-paying professionals
+- Prefer stable indoor office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an aquaculture worker?**
+A: Junior workers earn approximately €22,000-€28,000 per year, senior supervisors can reach €45,000.
+
+**Q: How can non-EU citizens obtain an Irish aquaculture work visa?**
+A: Usually requires employer sponsorship for a General Employment Permit; annual salary must reach €30,000. EU citizens have free movement rights.
+
+**Q: Are aquaculture workers eligible for the Critical Skills Employment Permit in Ireland?**
+A: Usually not eligible; the occupation is not on the Critical Skills Occupation List, but case-by-case assessment may be possible with special skills or qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Aquaculture Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for aquaculture workers?**
-答：Entry-level salaries range from €22,000 to €28,000, while senior supervisors can earn up to €45,000.
-
-**问：How can non-EU citizens get a work visa for aquaculture in Ireland?**
-答：Typically require employer sponsorship for a General Employment Permit with a salary threshold of €30,000. EU citizens have free movement.
-
-**问：Is aquaculture worker eligible for Critical Skills Employment Permit?**
-答：Generally no, as it's not on the Critical Skills list, but exceptions may apply with specialized skills.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Visual Artist（Visual Artist）职业分析 · IE
+# Visual Artist — career analysis · Ireland
 
-**职业代码：2651 – Visual Artist。**
+**Occupation code: 2651 (ISCO08)**
 
-Visual artists create original artworks using media such as painting, sculpture, printmaking, photography, and installation. They exhibit in studios, galleries, public spaces, or commercial settings, with project-based work and variable income.
+Visual artists create original artworks through media such as painting, sculpture, printmaking, photography, and installation, displaying them in studios, galleries, public spaces, or commercial venues. Work is project-based with fluctuating income.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $12,000~$20,000（国立艺术设计学院或都柏林大学等学费） |
-| 高等教育文凭 | 1-2年 | $5,000~$10,000（继续教育课程或预科） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $12,000~$20,000 (Tuition fees at National College of Art and Design or University College Dublin, etc.) |
+| Higher education diploma | 1-2 years | $5,000~$10,000 (Continuing education courses or foundation programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术学位 | 爱尔兰国立艺术设计学院或大学 | 可选 | 非强制但普遍有助于进入领域 |
-| 作品集 | 艺术家本人 | 可选 | 核心竞争力，尤其在申请展览或委托时 |
+| Art degree | National College of Art and Design in Ireland or universities | Optional | Not mandatory but generally helps in entering the field |
+| Portfolio | The artist themselves | Optional | Core competencies, especially when applying for exhibitions or commissions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。爱尔兰视觉艺术市场受旅游和文化产业支撑，但竞争激烈。国家文化战略支持公共艺术和创意产业，但全职职位较少，多数艺术家需兼职或委托项目维持生计。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. Ireland's visual arts market is supported by tourism and the cultural industry, but competition is fierce. National cultural strategies support public art and creative industries, but full-time positions are scarce; most artists rely on part-time work or commissioned projects to make a living.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $20,000~$35,000 | 包括兼职、助理角色或小规模委托 |
-| 中级（5-10年） | $35,000~$55,000 | 稳定销售或知名画廊代表 |
-| 高级（10年以上） | $55,000~$80,000 | 国际知名度或大型公共艺术项目 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $20,000~$35,000 | Includes part-time, assistant roles, or small-scale assignments |
+| Intermediate (5-10 years) | $35,000~$55,000 | Stable sales or representative of a renowned gallery |
+| Senior (10+ years) | $55,000~$80,000 | International recognition or large-scale public art projects |
+| average salary | $46,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括从助理或驻场艺术家到独立艺术家、画廊代表、艺术项目策划或艺术教育者。部分艺术家转向商业设计、装饰或数字艺术。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on visual artists is mixed: generative AI significantly boosts productivity in concept sketching, asset generation, and efficiency tools, but the emotional depth, unique perspective, and on-site experience of artistic creation are hard to replace.
+
+Career paths include moving from assistant or resident artist to independent artist, gallery representative, art project planner, or art educator. Some artists transition to commercial design, decoration, or digital art.
+
+**Tasks most exposed to AI:**
+
+- Commercial illustration and concept sketch generation
+- Basic photo post-processing and image retouching
+- Drawing repetitive patterns, textures and backgrounds
+- Standardized 3D model texturing and rendering preview
+- Batch production of visual content for social media
+
+**Where AI augments the role:**
+
+- Inspiration exploration: generate hundreds of visual variants quickly with AI to spark creativity
+- Creative efficiency: Use AI to assist with repetitive details in large-scale artworks
+- Cross-media experimentation: using AI to simulate different materials, lighting, and texture effects
+- Client communication: Use AI to generate high-fidelity proposal drafts to accelerate decision-making
+- Work archive: automatic classification, tagging, and retrieval of digital works library
+
+**Human moat:**
+
+- Unique aesthetic perspective and emotional expression ability
+- The unpredictability of live creation and improvisation
+- Empathy and communication in face-to-face commissioned creative work
+- Deep conceptualization using symbolic metaphors for complex ideas.
+- Building a personal art IP and brand recognition within the community
+
+**Skills to build:**
+
+- Proficient in using image generation tools such as Midjourney/DALL·E/Stable Diffusion
+- proficient in AI-assisted video and motion effects production (e.g., Runway ML)
+- Learn about digital curation and NFT basics
+- Understanding prompt engineering and style control techniques
+- Cultivating cross-media collaboration and project management skills
+- Strengthening art history and contemporary theory knowledge to maintain criticality
+
+**Key growth areas:**
 
 - Public Art
 - Digital Art
@@ -63,65 +99,67 @@ Visual artists create original artworks using media such as painting, sculpture,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于有雇主担保的视觉艺术家，需满足年薪门槛（2024年约€34,000），但该职业通常难以达到此标准。 |
-| Subclass Artist Visa（Artist Visa (Stamp 4E)） | 适用于自雇艺术家，需证明杰出成就和对爱尔兰文化的贡献，无雇主担保要求，但审核严格。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to visual artists with employer sponsorship, must meet salary threshold (2024 approx. €34,000), but this occupation often fails to meet this standard. |
+| Subclass Artist Visa (Artist Visa (Stamp 4E)) | Applicable to self-employed artists, requires proof of outstanding achievements and contribution to Irish culture, no employer sponsorship required, but strict review. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Visual Artist？**
-- 热爱艺术创作并有独特风格
-- 能接受收入不稳定和自由职业模式
-- 善于自我推广和建立社交网络
+**Who is suited**
+- People who love artistic creation and have a unique style
+- Can accept unstable income and freelance work model
+- Good at self-promotion and building social networks
 
-**谁不适合学Visual Artist？**
-- 追求稳定薪资和固定工作模式
-- 缺乏自律和项目管理能力
+**Who is not suited**
+- Pursuing stable salary and fixed work patterns
+- Lack of self-discipline and project management skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a visual artist in Ireland?**
+A: Average annual salary approximately €35,000, but most artists earn less, with about 40% earning under €20,000 per year.
+
+**Q: Can visual artists immigrate to Ireland?**
+A: Very difficult. Art categories are not on the Critical Skills Occupation List, the general work permit salary threshold is high, and the artist visa is only for outstanding talent.
+
+**Q: What is the career progression path for a visual artist?**
+A: Starting from independent creation, gradually obtaining gallery representation, public art commissions, or art education positions, with potential to transition into digital art or the creative industry.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Visual Artist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for visual artists in Ireland?**
-答：The average salary is around €35,000, but most artists earn less, with about 40% earning below €20,000.
-
-**问：Can visual artists immigrate to Ireland?**
-答：Very difficult. The profession is not on the Critical Skills list; General Employment Permit requires high salary, and the Artist Visa is only for exceptional talent.
-
-**问：What is the career progression for visual artists?**
-答：Start with independent practice, progress to gallery representation, public art commissions, or art education, or pivot to digital art and creative industries.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

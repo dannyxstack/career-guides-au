@@ -1,60 +1,96 @@
-# Metal Polishers, Wheel Grinders and Tool Sharpeners（Metal Polishers, Wheel Grinders and Tool Sharpeners）职业分析 · IT
+# Metal Polishers, Wheel Grinders and Tool Sharpeners — career analysis · Italy
 
-**职业代码：7224 – Metal Polishers, Wheel Grinders and Tool Sharpeners。**
+**Occupation code: 7224 (ISCO08)**
 
-Operate grinding, polishing, and sharpening machines to finish metal workpieces, ensuring precise dimensions and smooth surfaces.
+Responsible for surface treatment, grinding, and finishing of metal workpieces using grinders, polishing machines, etc., to ensure precision and surface finish requirements.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训证书 | 2年 | —（公立职业培训学校免费或有少量注册费） |
-| 高中文凭加学徒 | 3-4年（学徒） | —（学徒期间有工资，培训成本低） |
+| Vocational training certificate | 2 years | $0~$3,000 (Public vocational training schools are free or have minimal registration fees) |
+| High school diploma plus apprenticeship | 3-4 years (apprenticeship) | $0~$500 (Paid during apprenticeship, low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格认证（Qualifica Professionale） | 地区职业教育机构 | 必备 | 需通过理论及实操考试 |
-| 安全操作证书 | 企业或培训机构 | 可选 | 涉及磨床安全操作，部分企业要求 |
+| Professional Qualification (Qualifica Professionale) | Regional Vocational Education Institution | Required | Must pass theoretical and practical exams |
+| Safety operation certificate | Enterprises or training institutions | Optional | Involves safe operation of grinding machines, required by some companies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。意大利制造业持续升级，高精度加工需求稳定，但受自动化影响，传统岗位缓慢减少。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Italy's manufacturing sector continues to upgrade, with stable demand for high-precision processing, but traditional roles are slowly declining due to automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，因地区和企业规模有差异 |
-| 中级（3-7年） | $28,000~$35,000 | 经验丰富的技工可获更高薪酬 |
-| 高级（7年以上） | $35,000~$45,000 | 高级技工或主管级别 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, varies by region and company size. |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced tradespeople can earn higher pay. |
+| Senior (7+ years) | $35,000~$45,000 | Senior technician or supervisor level |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级岗位可晋升为高级技工或车间主管，也可向数控磨床操作或模具制造方向发展。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Metal polishers and similar roles face medium AI automation risk: repetitive grinding and polishing tasks are easily automated, but complex workpiece adjustment, quality control, and equipment maintenance still require human skills.
+
+Entry-level positions can advance to senior technician or workshop supervisor, and may also develop towards CNC grinding machine operation or mold manufacturing.
+
+**Tasks most exposed to AI:**
+
+- Repetitive metal surface polishing and grinding operations
+- Use automated grinding machines for batch workpiece processing.
+- Grinding wheel dressing and balancing based on preset parameters
+- dimensional inspection and pass/fail determination of simple workpieces
+- Automatic grinding of standard tool edges.
+
+**Where AI augments the role:**
+
+- AI-assisted process parameter optimization: automatically recommends grinding parameters based on workpiece material and precision requirements
+- Predictive maintenance: AI analyzes equipment vibration and temperature data to provide early fault warnings
+- Visual inspection: AI system checks surface finish in real-time, reducing manual inspection
+- Collaborative robots: human-robot collaboration to move heavy workpieces, reducing labor intensity
+- Digital Twin: Simulate machining processes, shorten trial cutting cycles
+
+**Human moat:**
+
+- Manual polishing and finishing of non-standard workpieces
+- Manual adjustment and grinding of complex-shaped molds and tools
+- On-site judgment and process adjustment for material defects
+- Manual repair and precision restoration of aging equipment
+- Communicate with clients on customized surface treatment requirements
+
+**Skills to build:**
+
+- CNC grinding programming and operation
+- CAD/CAM software (e.g., Mastercam)
+- Fundamentals of robotics and automation system integration.
+- Data analysis and quality control (SPC)
+- Additive manufacturing post-processing techniques
+- Electrical and mechanical maintenance skills
+
+**Key growth areas:**
 
 - Precision Manufacturing
 - CNC Grinding
@@ -63,68 +99,67 @@ Operate grinding, polishing, and sharpening machines to finish metal workpieces,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟工作者，需大学学历或同等技能，年薪门槛约3.5万欧元 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 每年配额，需雇主担保，适用于非高技能岗位，需证明无本地候选人 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU workers, requires university degree or equivalent skills, salary threshold around €35,000 per year |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota, requires employer sponsorship, applicable to non-highly skilled positions, with proof that no local candidate is available |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Polishers, Wheel Grinders and Tool Sharpeners？**
-- 动手能力强，对机械加工有兴趣的人
-- 能适应噪音和粉尘环境的人
-- 追求技术稳定、愿意从学徒做起的人
-
-**谁不适合学Metal Polishers, Wheel Grinders and Tool Sharpeners？**
-- 对重复性体力劳动感到枯燥的人
-- 有呼吸系统疾病或听力敏感的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and interest in mechanical processing
+- People who can adapt to noisy and dusty environments
+- People seeking technical stability and willing to start as apprentices
+
+**Who is not suited**
+- Those who find repetitive physical labor tedious.
+- people with respiratory conditions or hearing sensitivities
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of metal polishers in Italy?**
+A: Entry-level annual salary is about €22,000-28,000, mid-level €28,000-35,000, senior up to €45,000, with higher wages in the northern industrial areas.
+
+**Q: How to obtain a work visa for metal polisher in Italy for non-EU citizens?**
+A: Accessible via Decreto Flussi quota work visa (employer-sponsored) or EU Blue Card (requires high salary), but this occupation is not in shortage, making it difficult.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can advance to senior technician, workshop supervisor, or shift to higher-skill roles such as CNC grinding machine operation or mould making.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Metal Polishers, Wheel Grinders and Tool Sharpeners为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of metal polishers in Italy?**
-答：Entry-level annual salary is around €22,000-€28,000, mid-level €28,000-€35,000, senior up to €45,000, higher in northern industrial areas.
-
-**问：How can non-EU citizens get a work visa for metal polisher in Italy?**
-答：Through Decreto Flussi quota work visa (employer-sponsored) or EU Blue Card (high salary required), but the occupation is not in shortage, making it difficult.
-
-**问：What are the career paths for this occupation?**
-答：Promotion to senior technician, workshop supervisor, or transition to CNC grinding, toolmaking, or mold manufacturing.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

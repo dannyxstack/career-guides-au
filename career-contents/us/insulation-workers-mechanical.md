@@ -1,60 +1,94 @@
-# Insulation Workers, Mechanical（Insulation Workers, Mechanical）职业分析 · 美国
+# Insulation Workers, Mechanical — career analysis · United States
 
-**职业代码：47-2132 – Insulation Workers, Mechanical。**
+**Occupation code: 47-2132 (SOC)**
 
-Apply insulating materials to pipes or ductwork, or other mechanical systems in order to help control and maintain temperature.
+Mechanical insulation workers install insulation materials on pipes, ducts, or other mechanical systems to help control and maintain temperature.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定时长 | —（通常高中毕业即可，无需学费） |
-| 学徒培训 | 4年 | —（学徒期间有薪资，可能产生少量工具费） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Usually requires high school graduation, no tuition fees) |
+| Apprenticeship training | 4 years | $0~$5,000 (Paid during apprenticeship; may incur small tool costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒证书 | 美国劳工部或州学徒机构 | 可选 | 完成4年学徒计划后获得 |
-| 绝缘工认证 | 国家绝缘协会（NIA） | 可选 | 提供机械绝缘技能认证，非必需但有利 |
+| Apprenticeship certificate | US Department of Labor or state apprenticeship agencies | Optional | Obtained after completing a 4-year apprenticeship program |
+| Insulator certification | National Insulation Association (NIA) | Optional | Offers mechanical insulation skills certification, not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,600。美国机械绝缘工需求预计将保持稳定，受建筑维护和节能改造项目推动。2023-2033年就业增长率约为4%，与平均水平持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,600. Demand for mechanical insulation workers in the U.S. is expected to remain stable, driven by building maintenance and energy efficiency projects. Employment growth from 2023–2033 is about 4%, on par with average.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 学徒或新手薪资 |
-| 中级（4-8年） | $45,000~$60,000 | 熟练工薪资 |
-| 高级（9年以上） | $60,000~$80,000 | 含领班或主管 |
+| Median salary | $58,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Apprentice or entry-level salary |
+| Mid-level (4–8 years) | $45,000~$60,000 | Skilled worker salary |
+| Senior (9+ years) | $60,000~$80,000 | Including team leader or supervisor |
+| average salary | $65,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径包括成为领班、主管或独立承包商。经验丰富的绝缘工也可转向建筑检查或项目管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mechanical insulators face medium automation risk: routine measurement and material cutting may be replaced by AI tools, but on-site customization, complex pipeline layout handling, and safety compliance work still require manual labor, providing a relatively strong moat.
+
+Career advancement paths include becoming a foreman, supervisor, or independent contractor. Experienced insulators can also transition to building inspection or project management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate insulation material cutting diagrams and optimize material utilization
+- using drones or robots for initial on-site dimensional measurements
+- Automatic calculation of insulation thickness and material requirements
+- Generate standardized installation reports and compliance documentation
+
+**Where AI augments the role:**
+
+- AI-assisted pipeline layout design improves installation efficiency for complex systems
+- Augmented Reality (AR) helmets display hidden pipes and obstacles, reducing errors
+- Real-time voice translation tools help understand multilingual technical manuals
+- Smart diagnostic tools analyze insulation failure causes and recommend repair solutions
+
+**Human moat:**
+
+- Flexible installation of irregular pipes, elbows, and compact spaces on site.
+- Assess and handle damage to existing insulation material and emergency disposal of hazardous materials such as asbestos.
+- Meet custom client requirements and design non-standard construction plans
+- Physical adaptability for hazardous environments such as heights and confined spaces
+- Ability to coordinate and resolve conflicts on site with supervisors and other trades
+
+**Skills to build:**
+
+- Proficient in BIM (Building Information Modeling) software for pipe insulation design
+- Learning to use handheld laser measuring instruments and automated data uploading tools
+- Understanding IoT sensor integration to monitor insulation performance
+- Proficient in operating drones for high-level preliminary inspections
+- Learn basic data analysis to optimize material procurement and inventory management
+- Acquire knowledge of insulation related to green building certifications (e.g., LEED)
+
+**Key growth areas:**
 
 - Energy Efficiency
 - Construction
@@ -63,62 +97,64 @@ Apply insulating materials to pipes or ductwork, or other mechanical systems in 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 机械绝缘工通常不符合H-1B专业职业要求，该路径极罕见。 |
-| Subclass EB-3（EB-3 Skilled Workers or Other Workers） | 理论上可通过PERM劳工认证申请EB-3，但由于雇主担保困难，实际案例极少。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Mechanical insulators generally do not meet H-1B specialty occupation requirements; this path is extremely rare. |
+| Subclass EB-3 (EB-3 Skilled Workers or Other Workers) | Theoretically, can apply for EB-3 via PERM labor certification, but due to difficulty in employer sponsorship, actual cases are extremely rare. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Insulation Workers, Mechanical？**
-- 喜欢动手操作和体力工作的人
-- 愿意在户外或建筑工地工作
-- 对建筑节能和绝缘技术感兴趣
+**Who is suited**
+- People who enjoy hands-on and physical work
+- Willing to work outdoors or on construction sites
+- Interest in building energy efficiency and insulation techniques
 
-**谁不适合学Insulation Workers, Mechanical？**
-- 偏好室内办公室工作的人
-- 对粉尘和噪音环境敏感的人
+**Who is not suited**
+- Those who prefer indoor office work
+- People sensitive to dust and noise environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a mechanical insulator in the United States?**
+A: According to US Bureau of Labor Statistics data, the median annual wage for mechanical insulators in 2023 was about $48,000, but experienced workers can earn over $65,000.
+
+**Q: Can Mechanical Insulators come to work in the US through skilled migration?**
+A: Mechanical insulator is a skilled trade, but the US immigration system offers limited visa support for this occupation. The H-1B visa typically requires a bachelor's degree or higher, while the EB-3 green card requires employer sponsorship, which is practically difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Insulation Workers, Mechanical属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mechanical insulation workers in the US?**
-答：According to BLS, the median annual wage for insulation workers in 2023 is around $48,000, with experienced workers earning over $65,000.
-
-**问：Can mechanical insulation workers immigrate to the US through skilled migration?**
-答：Mechanical insulation workers are skilled trades, but US visa options are limited. H-1B typically requires a bachelor's degree, and EB-3 green card requires employer sponsorship, which is rare for this occupation.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

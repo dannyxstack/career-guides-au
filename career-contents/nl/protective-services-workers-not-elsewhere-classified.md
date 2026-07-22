@@ -1,59 +1,92 @@
-# Protective Services Workers Not Elsewhere Classified（Protective Services Workers Not Elsewhere Classified）职业分析 · NL
+# Protective Services Workers Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：5419 – Protective Services Workers Not Elsewhere Classified。**
+**Occupation code: 5419 (ISCO08)**
 
-Includes security officers, prison guards, traffic inspectors, and other protective service workers not elsewhere classified. They maintain public safety, enforce regulations, and provide security services.
+Protective service occupations not elsewhere classified, including security guards, prison officers, and transport inspectors. These workers are responsible for maintaining public safety, enforcing regulations, and providing security services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业教育 | 4年（中等职业教育） | —（公立学校学费低，每年约数百欧元） |
-| 短期培训课程 | 6-12个月 | $1,000~$3,000（私人安保培训机构收费） |
+| High school/Vocational education | 4 years (vocational secondary education) | $0~$2,000 (Public school tuition is low, around several hundred euros per year) |
+| Short-term training course | 6–12 months | $1,000~$3,000 (Private security training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安保人员执照 | 荷兰司法与安全部 | 必备 | 从事私人安保必须持有 |
-| VOG（行为声明） | 荷兰司法部 | 必备 | 无犯罪记录证明，多数职位要求 |
-| 急救证书 | 荷兰红十字会 | 可选 | 部分雇主要求 |
+| Security personnel license | Ministry of Justice and Security of the Netherlands | Required | A license is required for private security work |
+| VOG (Declaration of Conduct) | Ministry of Justice of the Netherlands | Required | Criminal record check required for most positions |
+| First aid certificate | Netherlands Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰保护服务行业的就业前景稳定，受公共安全需求驱动。预计未来几年岗位数量温和增长，特别是在私人安保和公共交通监管领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Employment prospects in the Dutch protective services industry are stable, driven by public safety demand. Moderate job growth is expected in the coming years, especially in private security and public transport regulation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常为全职 |
-| 中级（3-7年） | $28,000~$35,000 | 具有经验或主管职责 |
-| 高级（7年以上） | $35,000~$42,000 | 高级主管或 specialist |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, typically for full-time positions |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experience or supervisory responsibilities |
+| Senior (7+ years) | $35,000~$42,000 | Senior manager or specialist |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径通常从初级安保或执法助理开始，通过积累经验和额外培训可晋升为主管或 specialist 职位。部分人员可转入警察或消防等正规公共安全部门。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly compress employment opportunities for protective service workers (not elsewhere classified), with many routine security and monitoring tasks replaced by technology, but complex interventions and emotional duties remain.
+
+Career progression typically starts from junior security or law enforcement assistant, advancing to supervisor or specialist roles through experience and additional training. Some may transition to regular public safety departments like police or fire services.
+
+**Tasks most exposed to AI:**
+
+- Routine patrol monitoring: AI video analysis automatically detects anomalies, reducing manual patrols.
+- Identity verification: biometric and AI systems automatically verify identity, replacing manual checks.
+- Report writing: AI automatically generates incident reports to reduce paperwork.
+- Regulatory inquiries: chatbots handle routine public regulatory inquiries.
+
+**Where AI augments the role:**
+
+- Threat assessment: AI analyzes data to assist in identifying potential risks, improving early warning accuracy.
+- Emergency decisions: real-time data supports quick response to complex events.
+- Resource allocation: AI optimizes security personnel deployment and patrol routes.
+- Training simulations: VR and AI simulate crisis scenarios to improve training effectiveness.
+
+**Human moat:**
+
+- Complex interpersonal interventions: requires empathy for conflict resolution and persuasion.
+- Legal discretion: law enforcement actions that use discretion.
+- On-site adaptability: flexible response to unpredictable situations.
+- Emotional support: Provide psychological comfort to victims and the public.
+
+**Skills to build:**
+
+- Use of AI monitoring and data analysis tools.
+- Digital security system operation (e.g., CCTV, biometrics)
+- Conflict Resolution and Psychology
+- Data-driven risk assessment
+- Emergency communication and collaboration platforms
+- Basic programming or automation scripting
+
+**Key growth areas:**
 
 - Security
 - Public Safety
@@ -62,68 +95,67 @@ Includes security officers, prison guards, traffic inspectors, and other protect
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪超过门槛的高技能移民，但本职业通常薪资较低，可能不符合要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛较高，本职业通常不满足条件。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的外国学生，可在一年内寻找任何工作，包括保护服务。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants with salaries above the threshold, but this occupation typically has lower pay and may not meet requirements. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with a high salary threshold; this occupation usually does not meet the conditions. |
+| Subclass Orientation Year (Orientation Year) | Applies to foreign students who graduated in the Netherlands, can seek any job within one year, including protective services. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Protective Services Workers Not Elsewhere Classified？**
-- 注重公共安全和秩序的人
-- 愿意从事轮班和体力工作的人
-- 希望在公共部门或安保行业起步的人
-
-**谁不适合学Protective Services Workers Not Elsewhere Classified？**
-- 不喜规律性检查和巡逻的人
-- 对低薪资增长感到不满的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People focused on public safety and order
+- People willing to do shift work and physical work
+- People looking to start a career in the public sector or security industry
+
+**Who is not suited**
+- People who dislike regular inspections and patrols
+- People dissatisfied with low salary growth
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of protection service workers?**
+A: Starting annual salary around €22,000–€28,000, mid-to-senior level between €28,000–€42,000, relatively low compared to other occupations.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: Due to low salary, usually does not meet high-skilled migration or EU Blue Card requirements. However, work may be possible through the orientation year or EU free movement (if applicable).
+
+**Q: What are the advancement opportunities in this occupation?**
+A: Can advance from entry-level security to supervisor, or transition through additional training to public safety sectors such as police or fire services.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Protective Services Workers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for protective services workers?**
-答：Entry-level annual salary is around EUR 22,000-28,000, mid to senior levels range from EUR 28,000 to 42,000, relatively low compared to other professions.
-
-**问：Can foreigners immigrate to Netherlands through this occupation?**
-答：Due to lower salary, it usually does not meet the requirements for Highly Skilled Migrant or EU Blue Card. However, it is possible via Orientation Year or EU free movement if applicable.
-
-**问：What are the promotion opportunities?**
-答：Can advance from entry-level security to supervisor, or transfer to public safety sectors like police or fire services with additional training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

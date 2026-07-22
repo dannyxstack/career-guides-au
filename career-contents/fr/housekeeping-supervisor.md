@@ -1,59 +1,95 @@
-# Housekeeping Supervisor（Housekeeping Supervisor）职业分析 · FR
+# Housekeeping Supervisor — career analysis · France
 
-**职业代码：G1503 – Housekeeping Supervisor。**
+**Occupation code: G1503 (ROME)**
 
-Supervises floor cleaning teams in hotels or accommodation facilities, overseeing room preparation, public area hygiene, and linen supply to ensure service standards.
+Responsible for managing the floor-cleaning team of hotels or accommodation facilities, overseeing room organization, public area hygiene, and linen supply to ensure service standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中文凭（CAP）酒店服务 | 2年（CAP） | —（公立学校免费，私立约3000€/年；可通过学徒制（apprentissage）获薪） |
-| 高级技师文凭（BTS）酒店管理 | 2年（BTS） | —（公立学校注册费约200€/年；私立约5000€/年） |
-| 本科（Licence）酒店与旅游管理 | 3年（Licence） | $200~$10,000（公立大学约200€/年；私立商校可达10000€/年） |
+| Vocational High School Diploma (CAP) hotel services | 2 years (CAP) | $0~$3,000 (Public schools are free, private schools about €3000 per year; Salary can be obtained through apprenticeship) |
+| Advanced Technician Diploma (BTS) in Hotel Management | 2 Years (BTS) | $0~$5,000 (Public school registration fee is about €200 per year; Private ones pay about €5,000 per year) |
+| Bachelor's degree (Licence) in Hotel and Tourism Management | 3 years (Licence) | $200~$10,000 (Public universities about €200 per year; Private business schools can pay up to €10,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理文凭（BTS Hôtellerie-Restauration） | 法国教育部 | 可选 | 优先但不强制，部分高端酒店要求 |
-| 职业证书（CQP）楼层主管 | CPNE酒店业 | 可选 | 行业认可的职业资格 |
+| Diploma in Hotel Management (BTS Hôtellerie-Restauration) | French Ministry of Education | Optional | Priority but not mandatory requirements, some high-end hotels require it |
+| Professional Certificate (CQP) floor supervisor | CPNE, Hotel Industry | Optional | Industry-recognized professional qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国旅游业持续复苏，高端酒店和短租平台扩张带动楼层管理岗位需求稳定。但自动化清洁设备普及可能影响低技能岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's tourism industry continues to recover, with the expansion of high-end hotels and short-term rental platforms stabilizing floor management demand. However, the widespread adoption of automated cleaning equipment may affect low-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，多位于非高端酒店 |
-| 中级（3-7年） | $26,000~$32,000 | 含奖金及小费，高端酒店可达上限 |
-| 高级（7年以上） | $32,000~$40,000 | 大型豪华酒店或连锁集团客房部经理薪资 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salaries are mostly located in non-high-end hotels |
+| Mid-level (3–7 years) | $26,000~$32,000 | Including bonuses and tips, high-end hotels can reach the maximum limit |
+| Senior (7+ years) | $32,000~$40,000 | Salary for housekeeping managers at large luxury hotels or chain groups |
+| average salary | $29,004 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从楼层服务员晋升为主管，再到客房部经理或酒店运营经理。可考取酒店管理文凭或参加法国专业认证提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Promoted from floor attendant to supervisor, then to housekeeping manager or hotel operations manager. You can obtain a diploma in hotel management or take French professional certification to enhance your competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Hospitality recovery
 - Luxury hotel expansion
@@ -62,68 +98,67 @@ Supervises floor cleaning teams in hotels or accommodation facilities, overseein
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作合同至少1年，薪资需达到最低工资1.5倍（约30,000€/年）以上方可申请。 |
-| Subclass Passeport Talent（Talents Passport (Qualified Employee)） | 适用于年薪不低于36,500€的中高级管理岗位，签证有效期4年，可带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪需超过53,000€（2024年标准），通常仅限大型国际集团管理层。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, employment contract must last at least 1 year, and the salary must be at least 1.5 times the minimum wage (about €30,000/year) to apply. |
+| Subclass Passeport Talent (Talents Passport (Qualified Employee)) | Applicable to mid- to senior-level management positions with an annual salary of no less than €36,500. The visa is valid for 4 years and allows family members to be present. |
+| Subclass Carte bleue UE (EU Blue Card) | Annual salary must exceed €53,000 (2024 standard), usually limited to management of large international groups. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Housekeeping Supervisor？**
-- 注重细节、有组织能力的人
-- 喜欢酒店行业、愿意轮班工作的人
-- 具备基础法语沟通能力，能管理团队的人
-
-**谁不适合学Housekeeping Supervisor？**
-- 不适应体力劳动和长时间站立者
-- 无法接受周末和节假日工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and organized people
+- People who enjoy the hotel industry and are willing to work shift jobs
+- Someone with basic French communication skills who can manage a team
+
+**Who is not suited**
+- Those who are not suited to physical labor or standing for long periods
+- People who cannot accept working on weekends and holidays
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for floor supervisors in France?**
+A: Entry-level positions earn about €22,000-26,000 before tax, while mid-to-senior positions can earn €32,000-40,000. High-end hotels and Paris areas offer higher salaries.
+
+**Q: Can foreigners immigrate to France through this position?**
+A: Yes, but employer sponsorship is required. The Salarié regular work visa requires an annual salary of about €30,000 or more; Passeport Talent requires €36,500 or more; Usually suitable for those with experience.
+
+**Q: What educational background is required to become a floor supervisor?**
+A: Diplomas in hotel management related to hotel management are usually required, such as CAP or BTS. Apprentissage is a common pathway that allows learning while working.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Housekeeping Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Housekeeping Supervisor in France?**
-答：Entry-level positions offer gross annual salaries around €22,000-26,000, while senior roles can reach €32,000-40,000. Luxury hotels and Paris regions pay higher.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：Yes, with employer sponsorship. The standard Salarié visa requires a salary of around €30,000; Passeport Talent requires €36,500. Experienced candidates are preferred.
-
-**问：What education is needed to become a Housekeeping Supervisor?**
-答：Typically a diploma in hospitality management such as CAP or BTS. Apprenticeship is common, allowing you to work while studying.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

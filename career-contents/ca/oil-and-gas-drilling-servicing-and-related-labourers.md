@@ -1,58 +1,90 @@
-# Oil and gas drilling, servicing and related labourers（Oil and gas drilling, servicing and related labourers）职业分析 · 加拿大
+# Oil and gas drilling, servicing and related labourers — career analysis · Canada
 
-**职业代码：85111 – Oil and gas drilling, servicing and related labourers。**
+**Occupation code: 85111 (NOC)**
 
-Perform manual labor in oil and gas drilling, servicing, and related operations, including cleaning, moving materials, and assisting drilling crews.
+Performs physical labour in oil and gas drilling, services, and related operations, including cleaning, moving materials, and assisting with drilling activities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 2年 | —（免费公立教育） |
-| 职业培训证书 | 6个月 | $2,000~$5,000（私立职业院校） |
+| High school diploma | 2 years | $0~$0 (Free public education) |
+| Vocational training certificate | 6 months. | $2,000~$5,000 (Private vocational colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石油和天然气钻井工人证书 | Enform Canada | 可选 | 部分雇主要求的认证 |
-| 高空作业培训 | 省级安全机构 | 可选 | 依赖具体岗位 |
+| Oil and gas drilling worker certificate | Enform Canada | Optional | Some employer-required certifications |
+| High-altitude work training | Provincial safety authority | Optional | Depends on the specific position |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,600。受全球能源价格和加拿大油砂项目影响，就业前景中等，阿尔伯塔省需求较高，但波动性大。
+**Job demand: high (★★★★☆).** National workforce approx. 15,600. Affected by global energy prices and Canadian oil sands projects, employment outlook is moderate, with higher demand in Alberta but high volatility.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 取决于地区和公司 |
-| 中级（3-6年） | $60,000~$80,000 | 含加班费 |
-| 高级（6年以上） | $80,000~$100,000 | 含补贴 |
+| Median salary | $64,480 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Depends on the region and company |
+| Mid-level (3–6 years) | $60,000~$80,000 | Including overtime pay |
+| Senior (6+ years) | $80,000~$100,000 | Subsidies included |
+| average salary | $64,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从入门劳工开始，通过积累经验和培训，可晋升为钻井助手、设备操作员或监督人员。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation is mixed in terms of AI and automation impact: some physical tasks (e.g., cleaning, handling) face high replacement risk, but complex drilling environments and emergency responses still require human judgment, so it will not be fully replaced in the short term.
+
+Typically starting as entry-level labor, you can advance to drilling assistant, equipment operator, or supervisor through experience and training.
+
+**Tasks most exposed to AI:**
+
+- Use automated systems for drilling parameter monitoring and recording
+- Using AI vision systems to inspect equipment faults and leaks
+- Perform repetitive material handling and cleaning through robots
+- Using drones for drilling site inspection and surveying
+
+**Where AI augments the role:**
+
+- AI-assisted drilling optimization systems help workers adjust operational parameters in real-time
+- Augmented reality (AR) headsets provide remote guidance for equipment repair and assembly
+- Predictive maintenance algorithms reduce unplanned downtime, improving operational efficiency
+- Digital twin technology used to simulate drilling processes, aiding training and safety drills
+
+**Human moat:**
+
+- Make quick, unstructured decisions in extreme weather and remote field settings
+- Ability to handle emergencies such as blowouts and fires.
+- On-site diagnosis and manual repair skills for complex mechanical equipment
+- Team collaboration and real-time communication with drilling engineers
+
+**Skills to build:**
+
+- Learn basic data analysis and visualization tools (e.g., Excel, Power BI).
+- Proficient in operating automated drilling control systems (e.g., Canrig, NOV)
+- Attend safety certification training such as H2S and first aid
+- Learn digital literacy and basic programming concepts (e.g., Python)
+- Improve communication and team management skills to transition to a supervisor role
+
+**Key growth areas:**
 
 - Oil sands
 - Alberta
@@ -61,68 +93,67 @@ Perform manual labor in oil and gas drilling, servicing, and related operations,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适合有雇主offer的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 阿尔伯塔省等省份的省提名项目，针对石油行业 |
-| Subclass Express Entry（Express Entry） | 通过联邦技术移民或加拿大经验类，如满足条件 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, suitable for applicants with a job offer |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in provinces like Alberta, targeting the oil industry |
+| Subclass Express Entry (Express Entry) | Through Federal Skilled Worker Program or Canadian Experience Class, if conditions are met |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Oil and gas drilling, servicing and related labourers？**
-- 身体强壮、能适应恶劣天气的体力劳动者
-- 愿意在偏远地区工作、能接受轮班制
-- 寻求快速进入高薪行业、无高等教育背景者
-
-**谁不适合学Oil and gas drilling, servicing and related labourers？**
-- 不喜户外体力劳动、对安全风险敏感者
-- 追求稳定工作环境和城市生活者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong manual workers who can endure harsh weather conditions
+- Willing to work in regional areas and accept shift work
+- Seeking fast entry into high-paying industries, no higher education background
+
+**Who is not suited**
+- Those who dislike outdoor physical work and are sensitive to safety risks.
+- For those seeking stable work environment and urban living
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Oil and Gas Labourer?**
+A: According to Job Bank, the annual salary range is about $45,000-$100,000, depending on experience and region; junior level is about $45,000-$60,000.
+
+**Q: Is this occupation suitable for skilled migration?**
+A: Suitable, but mainly through LMIA employer sponsorship or Alberta Provincial Nominee Program; direct Express Entry is harder due to lower NOC level.
+
+**Q: What are the working environment and safety conditions?**
+A: This occupation has high physical demands, often working in remote areas and harsh weather conditions, with safety risks, but employers provide training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Oil and gas drilling, servicing and related labourers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for oil and gas labourers?**
-答：According to Job Bank, annual salary ranges from $45,000 to $100,000, depending on experience and location; entry-level is around $45,000-$60,000.
-
-**问：Is this occupation suitable for skilled migration?**
-答：Yes, but mainly through LMIA employer sponsorship or Alberta PNP; direct Express Entry is less common due to lower NOC skill level.
-
-**问：What is the work environment and safety like?**
-答：The work is physically demanding, often in remote areas and harsh weather, with safety risks; employers provide training.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

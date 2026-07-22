@@ -1,60 +1,96 @@
-# Dairy Products Maker（Dairy Products Maker）职业分析 · IT
+# Dairy Products Maker — career analysis · Italy
 
-**职业代码：7513 – Dairy Products Maker。**
+**Occupation code: 7513 (ISCO08)**
 
-Dairy Products Makers process milk into cheese, butter, yogurt, and other products, operating equipment and ensuring quality control. This occupation is vital in Italy's agricultural and food processing sector.
+Dairy processing workers are responsible for processing milk into products such as cheese, butter, and yogurt, operating equipment and conducting quality control. This occupation holds significant importance in Italy's agricultural and food processing industries.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 1-2年（职业培训） | —（部分地区免费或低成本） |
-| 职业高中（Istituto Professionale） | 3年 | —（公立学校免学费） |
+| High school graduation + vocational training | 1-2 years (vocational training) | $0~$3,000 (Free or low-cost in some regions) |
+| Vocational high school (Istituto Professionale) | 3 years | $0~$5,000 (Public schools are free of tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证(HACCP) | 地区卫生局或认可机构 | 必备 | 强制要求 |
-| 乳制品加工技术证书 | 职业培训中心或行业协会 | 可选 | 非强制，但有助于就业 |
+| Food safety certification (HACCP) | Regional health authority or accredited institution | Required | Mandatory requirement |
+| Certificate in Dairy Processing Technology | Vocational training centers or industry associations | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。意大利乳制品行业稳定，尤其是帕尔马干酪等特色产品需求强劲。但自动化可能减少低技能岗位，需提升技术能力以保持竞争力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The Italian dairy industry is stable, with strong demand for specialty products like Parmigiano-Reggiano. However, automation may reduce low-skilled positions, requiring upskilling to maintain competitiveness.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Annual pre-tax salary |
+| average salary | $28,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级操作员晋升为高级技师或生产主管，也可转向质量控制或产品开发。积累经验后，可自主创业开设小型乳制品作坊。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation will significantly improve the standardization and quality inspection efficiency of dairy processing, but manual skills, flavor control and equipment maintenance still require human experience, resulting in a mixed outlook for the position.
+
+Can advance from junior operator to senior technician or production supervisor, or transition to quality control or product development. With experience, you can start your own small dairy workshop.
+
+**Tasks most exposed to AI:**
+
+- Repeating the feeding and mixing steps according to the recipe
+- Routine temperature and humidity monitoring records.
+- Packaging, labeling, and palletizing
+- Simple sensory inspection (e.g., color, texture)
+- Generate batch production reports
+
+**Where AI augments the role:**
+
+- AI vision system assists with foreign object detection and ripeness assessment
+- Data-driven optimization of fermentation parameters and energy consumption
+- Smart sensors predict equipment failures
+- Automated supply chain and inventory management
+- Customized flavor formulation recommendations for clients
+
+**Human moat:**
+
+- Traditional cheese/yogurt artisan craftsmanship
+- Experience in flavor fine-tuning and sensory evaluation
+- Emergency handling of sudden equipment failures
+- Small-batch specialty product innovation development
+- Food safety and HACCP compliance assessment.
+
+**Skills to build:**
+
+- Automated equipment programming and maintenance
+- Food data analysis and IoT applications
+- Operation and calibration of AI quality inspection tools
+- Sustainable processing technology
+- Value-added product development (e.g., functional dairy products)
+- Updates on interpretation of food safety regulations
+
+**Key growth areas:**
 
 - Artisanal Cheese
 - Automation
@@ -63,65 +99,67 @@ Dairy Products Makers process milk into cheese, butter, yogurt, and other produc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟季节工人，需雇主担保且配额限制 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能乳制品技师，需大学学历及高薪 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU seasonal workers, requires employer sponsorship and has quota restrictions. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled dairy technicians, requiring a university degree and high salary |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dairy Products Maker？**
-- 喜欢动手操作且注重食品品质的人
-- 愿意在农业或乡村地区工作的人
-- 有耐心且注重细节的劳动者
+**Who is suited**
+- People who enjoy hands-on work and value food quality
+- Willing to work in agricultural or rural areas
+- Patient and detail-oriented workers
 
-**谁不适合学Dairy Products Maker？**
-- 不喜欢体力劳动或重复性工作的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People who dislike physical labor or repetitive work
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a dairy processing worker?**
+A: Entry-level approx. €18,000–24,000, mid-level €24,000–32,000, senior up to €40,000, depending on experience and employer.
+
+**Q: How can non-EU citizens obtain a work visa for Italian dairy processing workers?**
+A: Primarily through the Decreto Flussi quota work visa, requiring employer sponsorship and application within the quota. High-skilled individuals can try the EU Blue Card.
+
+**Q: What is the career progression path for a dairy processing worker?**
+A: Can progress from operator to production supervisor or quality control specialist, or move into product development or start their own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Dairy Products Maker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Dairy Products Makers?**
-答：Entry-level earns €18,000-24,000, mid-level €24,000-32,000, senior up to €40,000, depending on experience and employer.
-
-**问：How can non-EU citizens get a work visa for Dairy Products Maker in Italy?**
-答：Mainly through Decreto Flussi quota work visa with employer sponsorship. High-skilled may apply for EU Blue Card.
-
-**问：What is the career path for Dairy Products Makers?**
-答：Can progress to production supervisor or quality control specialist, or move to R&D or self-employment.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

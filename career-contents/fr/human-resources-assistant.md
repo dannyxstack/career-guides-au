@@ -1,62 +1,98 @@
-# Human Resources Assistant（Human Resources Assistant）职业分析 · FR
+# Human Resources Assistant — career analysis · France
 
-**职业代码：M1501 – Human Resources Assistant。**
+**Occupation code: M1501 (ROME)**
 
-Human Resources Assistant supports HR department daily operations including recruitment administration, employee file management, contract preparation, attendance tracking, serving as the basic execution role in the HR team.
+HR assistants are responsible for supporting the daily operations of the HR department, including recruitment administration, employee file management, contract preparation, attendance records, and more, serving as the fundamental executive role of the HR team.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+2（BTS或DUT） | 2年（BTS） | $3,000~$8,000（公立院校学费较低，私立商学院或学徒制可能有不同费用） |
-| BAC+3（Licence专业） | 3年（Licence） | $3,000~$10,000（Licence en gestion des RH，公立大学费用较低） |
-| BAC+5（Master RH） | 5年（Master） | $5,000~$15,000（Master en RH，商学院费用较高，但就业前景更好） |
+| BAC+2 (BTS or DUT) | 2 Years (BTS) | $3,000~$8,000 (Public institutions have lower tuition fees, while private business schools or apprenticeships may have different fees) |
+| BAC+3 (Licence Major) | 3 years (Licence) | $3,000~$10,000 (Licence en gestion des RH, public universities have lower fees) |
+| BAC+5（Master RH） | 5 years (Master) | $5,000~$15,000 (Master en RH, business school fees are higher but have better employment prospects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 人力资源硕士学位（Master RH） | 法国公立大学或商学院 | 可选 | 非强制但极大提升竞争力 |
-| 人力资源助理职业证书（CQP Assistant RH） | 法国人力资源协会（ANDRH） | 可选 | 职业资格认证，证明基础能力 |
-| 法国国家认证文凭（RNCP） | 法国劳动部 | 可选 | 相关RNCP文凭可作为资质证明 |
+| Master of Human Resources (Master RH) | French public universities or business schools | Optional | Non-mandatory but greatly enhancing competitiveness |
+| Human Resources Assistant Professional Certificate (CQP Assistant RH) | French Human Resources Association (ANDRH) | Optional | Professional qualification certification proves basic competencies |
+| French National Diploma of Recognition (RNCP) | French Ministry of Labor | Optional | Relevant RNCP diplomas can serve as proof of qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。法国人力资源服务行业持续增长，数字化转型推动了对HR助理的需求。中小企业尤其需要此类多面手角色，预计未来五年就业机会稳定上升。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. The French human resources services industry continues to grow, and digital transformation is driving demand for HR assistants. SMEs especially need such versatile roles, with job opportunities expected to steadily rise over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，视公司规模和地区而定 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，具备独立处理招聘或薪酬模块能力 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，可晋升为HR专员或团队负责人 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, depending on company size and region |
+| Mid-level (3–7 years) | $30,000~$38,000 | Pre-tax annual salary, with the ability to independently handle recruitment or compensation modules |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, with the potential for promotion to HR specialist or team leader |
+| average salary | $31,656 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级HR助理可通过积累经验晋升为HR专员（如招聘专员、薪酬专员），再至HR经理或HRBP。也可通过考取法国人力资源认证（如Master RH）加速职业发展。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The impact of AI on HR assistant roles is mixed: transactional tasks are being automated, but value-added tasks like data analysis and employee experience are being amplified, raising skill requirements.
+
+Junior HR assistants can be promoted through experience to HR specialists (such as recruitment specialists or payroll specialists), and then to HR managers or HRBP. You can also accelerate your career development by obtaining French HR certifications (such as Master RH).
+
+**Tasks most exposed to AI:**
+
+- Resume screening and candidate matching
+- Attendance data entry and statistics
+- Contract template generation and basic review
+- Digitization and updating of employee files
+- Coordination and notification of interview schedules
+
+**Where AI augments the role:**
+
+- Use AI tools to analyze recruitment data and optimize channel effectiveness
+- Employee self-service is provided through AI chatbots
+- Use AI for salary benchmarking and market analysis
+- AI-based prediction of employee turnover risks and early intervention
+- Analyze employee feedback using natural language processing technology
+
+**Human moat:**
+
+- Handling complex interpersonal relationships and conflict mediation
+- Decision-making decisions involving confidential information
+- Personalized employee coaching and career planning
+- Policy interpretation and compliance risk management
+- Cross-departmental collaboration and senior reporting
+
+**Skills to build:**
+
+- HR data analysis and visualization
+- AI tool applications (such as ChatGPT, HR SaaS).
+- Employee experience design
+- Labor laws and compliance knowledge
+- Project and process management
+- Emotional intelligence and communication coordination
+
+**Key growth areas:**
 
 - Digital transformation in HR
 - Recruitment support
@@ -65,66 +101,68 @@ Human Resources Assistant supports HR department daily operations including recr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Visa） | 受雇于法国公司，由雇主担保，需获得法国劳动局（DIRECCTE）许可 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，年薪需达一定门槛（约53,000欧元），可快速获得居留 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高级专业人员，年薪需高于法国平均工资1.5倍 |
+| Subclass Salarié (Employee Visa) | Employed by a French company sponsored by an employer requires permission from the French Labor Authority (DIRECCTE). |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring an annual salary threshold (about 53,000 euros) to quickly obtain residency |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to senior professionals, annual salary must be 1.5 times the French average salary |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Human Resources Assistant？**
-- 细心有条理、喜欢文书工作的人
-- 对人力资源管理有热情，愿意从基层做起
-- 法语流利，具备良好沟通能力
+**Who is suited**
+- Careful and organized people who enjoy paperwork
+- Passionate about human resource management and willing to start from the grassroots
+- Fluent in French and good communication skills
 
-**谁不适合学Human Resources Assistant？**
-- 不喜欢重复性行政事务的人
-- 缺乏耐心且不喜欢与人打交道的人
+**Who is not suited**
+- People who dislike repetitive administrative tasks
+- People who lack patience and dislike interacting with others
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for HR assistants in France?**
+A: Junior HR assistants earn about €24,000-30,000 before tax annually, intermediate salaries up to €30,000-38,000, and senior positions €38,000-45,000. Salaries are influenced by company size, region, and experience.
+
+**Q: Can third-country citizens immigrate to France through the Human Resources Assistant position?**
+A: The difficulty is quite high. HR assistants are not considered a shortage occupation in France; employers need to prove that they cannot find suitable EU candidates. It is recommended to advance your education to Master RH, aiming to become an HR specialist, or to pursue a high-paying Passeport Talent pathway.
+
+**Q: What career advancement paths are available for HR assistants?**
+A: You can be promoted to HR specialist (recruitment, compensation, training, etc.), then to HR manager, HRBP, or even HR director. A common path in France is to complete the Master RH and then enter the HR management trainee program at large enterprises.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Human Resources Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for HR Assistants in France?**
-答：Entry-level HR assistants earn around €24,000-€30,000 gross annually, mid-level €30,000-€38,000, senior €38,000-€45,000, depending on company size, region, and experience.
-
-**问：Can third-country nationals migrate to France as HR Assistants?**
-答：It is difficult. HR assistant is not a shortage occupation in France. Employers must prove no suitable EU candidate. It is recommended to upgrade to Master RH or aim for HR specialist roles, or via Passeport Talent high-salary path.
-
-**问：What are the career progression paths for HR Assistants?**
-答：They can advance to HR Specialist (recruitment, compensation, training), then HR Manager, HRBP, or HR Director. A common path in France is to complete a Master RH and join a large company's HR graduate program.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

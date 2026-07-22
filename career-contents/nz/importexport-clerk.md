@@ -1,59 +1,95 @@
-# Import-Export Clerk（Import-Export Clerk）职业分析 · 新西兰
+# Import-Export Clerk — career analysis · New Zealand
 
-**职业代码：591212 – Import-Export Clerk。**
+**Occupation code: 591212 (ANZSCO)**
 
-Manage cross-border cargo documentation, including customs declarations, bills of lading, and invoices, coordinating with customs, clients, and logistics providers. Eligible for AEWV or Skilled Migrant Category residency.
+Handle cross-border cargo documents in freight forwarding companies or import/export firms, including customs declarations, bills of lading, invoices, etc., coordinating with customs, clients, and logistics parties to ensure compliance and efficiency. Can immigrate to New Zealand via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 6级大专或本科 | 2-3年 | $25,000~$40,000（新西兰本地大专或大学物流/国际贸易专业，国际学生学费约NZD 25,000-40,000/年） |
-| 短期证书 | 6个月 | $5,000~$15,000（如新西兰报关协会(CAN)的国际贸易证书或物流操作证书，可在线学习） |
+| Diploma level 6 or bachelor's degree | 2-3 years | $25,000~$40,000 (New Zealand local diploma or university degree in logistics/international trade, international student tuition approx. NZD 25,000-40,000/year) |
+| Short-term certificate | 6 months. | $5,000~$15,000 (Such as the New Zealand Customs Service (CAN) International Trade Certificate or Logistics Operations Certificate, available for online study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国际贸易操作证书 | 新西兰报关协会(Customs Agents NZ) | 可选 | 非强制，但提升竞争力；涵盖报关流程、HS编码等 |
-| 报关师执照 | 新西兰海关(New Zealand Customs Service) | 可选 | 需通过考试，从事独立报关业务必须持有；多数文员职位不要求 |
-| 物流与供应链文凭 | 新西兰学历认证局(NZQA)认可院校 | 可选 | 如奥塔哥理工学院、马努卡理工学院提供6-12个月课程 |
+| International Trade Operations Certificate | Customs Agents NZ | Optional | Not mandatory but enhances competitiveness; covers customs declaration procedures, HS codes, etc. |
+| Customs broker license | New Zealand Customs Service | Optional | Must pass an exam; required for independent customs brokerage; most clerk positions do not require it. |
+| Diploma in Logistics and Supply Chain | Institutions recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Institutions such as Otago Polytechnic and Manukau Institute of Technology offer 6-12 month courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。新西兰贸易依赖海运和空运，奥克兰、基督城等主要港口城市需求稳定。受全球供应链影响，疫情后物流岗位增长，但自动化替代风险中等。预计年增长约2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. New Zealand's trade relies on sea and air freight, with stable demand in major ports like Auckland and Christchurch. Affected by global supply chains, logistics roles grew post-pandemic, but automation replacement risk is moderate. Expected annual growth of about 2%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 包括毕业生或转行者，主要处理基础单证 |
-| 中级（3-6年） | $55,000~$70,000 | 熟悉多流程，可独立协调复杂货物 |
-| 高级（6年以上） | $70,000~$85,000 | 主管或专攻危险品、冷链等特定领域 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Includes graduates or career changers, mainly handling basic documentation |
+| Mid-level (3–6 years) | $55,000~$70,000 | Familiar with multiple processes, able to independently coordinate complex goods |
+| Senior (6+ years) | $70,000~$85,000 | Supervisor or specialization in hazardous materials, cold chain, or other niche areas |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级文员晋升为高级协调员或团队主管，需求技能包括数字化报关系统操作（如Trade Single Window）、多语言沟通（中文/日语等有优势）。部分人转向供应链管理或海关经纪人。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Import/export clerks face high automation risk; AI will systematically replace core tasks like document processing, compliance checks, and data entry, significantly reducing entry-level positions, requiring a shift to value-added services.
+
+Can progress from junior clerk to senior coordinator or team leader; required skills include digital customs clearance systems (e.g., Trade Single Window) and multilingual communication (Mandarin/Japanese etc. are advantageous). Some move into supply chain management or customs brokering.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates and checks import/export documents (bills of lading, invoices, packing lists, etc.)
+- Electronic submission to customs systems with automatic processing of routine inspections
+- Automatically calculate freight, customs duties, and insurance costs based on trade terms
+- Extracts and enters data from ERP or email into business systems.
+- Generate standardized compliance inspection reports and alerts
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of trade compliance risks and recommendation of optimal customs clearance solutions
+- Intelligently recommend logistics routes and transport modes to reduce costs
+- Real-time monitoring of cargo status and proactive alerts for anomalies
+- Automated generation of customized reports and data analysis
+- Accurately process multilingual documents using AI translation and terminology databases
+
+**Human moat:**
+
+- Complex judgment for handling abnormal situations (e.g., customs detention, document errors)
+- Build trust and coordinate communication with clients, customs officials, etc.
+- Decision-making under ambiguous rules (e.g., which trade agreement to apply)
+- Interpret and adjust internal processes in response to new regulations and policies.
+- Strategic supply chain optimization advice (e.g., selecting optimal trade terms)
+
+**Skills to build:**
+
+- Proficient in at least one international trade compliance AI tool (such as Deskera, TradeLens)
+- Learn basic data analysis and automation scripts (Python/VBA)
+- Proficient in the import/export modules of a major ERP system (e.g., SAP, Oracle).
+- Improve customer management and negotiation skills (targeting supply chain decision-makers)
+- Obtain customs broker qualification or international trade certification (e.g., CITP)
+- Learn supply chain risk management and contingency planning
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Manage cross-border cargo documentation, including customs declarations, bills o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需获得有资质的雇主担保，工作2年后可转居留，适合无相关学历但有经验的申请者 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，6分制：本科+3年经验可获6分，硕士+2年可获6分；需时薪不低于中位数（约NZD 31.61） |
-| Subclass Green List T2（Green List Tier 2） | 绿色清单二级，工作2年后转居留；进出口文员不在直接清单内，但相关供应链经理等职位可能符合 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa requires a qualified employer sponsor; after 2 years of work, you can transition to residence. Suitable for applicants without relevant qualifications but with experience. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, 6-point system: Bachelor's + 3 years experience = 6 points, Master's + 2 years = 6 points; hourly wage must not be below median (approx. NZD 31.61) |
+| Subclass Green List T2 (Green List Tier 2) | Green List Tier 2, eligible for residence after 2 years of work; import/export clerk is not on the direct list, but related positions like supply chain manager may qualify |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Import-Export Clerk？**
-- 细心有条理，习惯处理繁杂单证工作
-- 具备基础英语沟通能力，愿意学习新西兰贸易法规
-- 希望从工签过渡到居留权，接受起步薪资较低
-
-**谁不适合学Import-Export Clerk？**
-- 厌恶重复性文书工作或高度依赖电脑系统
-- 追求快速高薪或晋升路径不清晰
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and organized, accustomed to handling complex documentation work
+- Possess basic English communication skills, willing to learn New Zealand trade regulations
+- Seeking transition from work visa to permanent residency, willing to accept lower starting salary
+
+**Who is not suited**
+- Averse to repetitive paperwork or heavy reliance on computer systems
+- Pursuing quick high salary or unclear promotion path
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an import/export clerk in New Zealand?**
+A: Entry-level approx. NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior up to NZD 85,000+. Salary lower than IT sectors, but cost of living relatively low.
+
+**Q: Can an import/export clerk settle in New Zealand through skilled migration?**
+A: Yes. This occupation falls under ANZSCO Skill Level 3-4, meeting the SMC 6-point system: a bachelor's degree plus 3 years of relevant experience gives 6 points. You can also apply for residence after accumulating 2 years of experience via AEWV. Hourly wage must be at least NZD 31.61.
+
+**Q: Does this job have development prospects in New Zealand?**
+A: Demand is stable long-term, but digitization and AI may reduce entry-level positions. Recommend studying customs regulations, supply chain software (e.g., CargoWise) and a second language (e.g., Māori or Chinese) to boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Import-Export Clerk的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an import-export clerk in New Zealand?**
-答：Entry-level NZD 45,000-55,000; mid-level NZD 55,000-70,000; senior up to NZD 85,000+
-
-**问：Can an import-export clerk apply for skilled migration to New Zealand?**
-答：Yes. It falls under ANZSCO skill level 3-4. Under SMC 6-point system, a bachelor's degree plus 3 years' experience can score 6 points. AEWV is also an option
-
-**问：What are the career prospects for this role in New Zealand?**
-答：Stable demand but digitalization may reduce basic roles. Upskill in customs regulations, software like CargoWise, or second languages to stay competitive.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

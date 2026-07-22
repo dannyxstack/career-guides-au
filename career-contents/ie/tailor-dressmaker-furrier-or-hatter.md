@@ -1,58 +1,94 @@
-# Tailor, Dressmaker, Furrier or Hatter（Tailor, Dressmaker, Furrier or Hatter）职业分析 · IE
+# Tailor, Dressmaker, Furrier or Hatter — career analysis · Ireland
 
-**职业代码：7531 – Tailor, Dressmaker, Furrier or Hatter。**
+**Occupation code: 7531 (ISCO08)**
 
-Tailors, dressmakers, furriers and hatters make, alter and repair custom garments, fur items and hats according to customer specifications, typically working in small tailoring shops, retail stores or self-employed studios in Ireland.
+Tailors, dressmakers, furriers and hat makers customize, alter and create garments, fur products and hats to client specifications. They typically work in small tailoring shops, clothing retail stores or self-owned studios, serving the local Irish market.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期课程/学徒 | 1-2年 | $1,000~$5,000（私立裁缝学校或继续教育学院课程费用） |
-| 高级文凭/学位 | 2-4年 | $5,000~$15,000（如都柏林理工大学时装设计学位课程费用） |
+| Short-term course/apprenticeship | 1-2 years | $1,000~$5,000 (Course fees at private tailoring schools or continuing education colleges) |
+| Advanced diploma/degree | 2-4 years | $5,000~$15,000 (Such as the tuition fee for the Fashion Design degree program at Dublin Institute of Technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级裁缝证书 | 爱尔兰继续教育与培训委员会 (QQI) | 可选 | 国家认可的裁缝技能证书 |
-| 时装设计学位 | 都柏林理工大学 (TU Dublin) | 可选 | 高等教育学位，非强制但有利 |
+| Advanced Tailoring Certificate | QQI (Quality and Qualifications Ireland) | Optional | Nationally recognized tailoring skills certificate. |
+| Fashion Design degree | Technological University Dublin (TU Dublin) | Optional | Higher education degree, not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 500。爱尔兰裁缝业受快时尚冲击，但高端定制和维修服务仍有稳定需求。都柏林等城市对传统手工艺兴趣回升，就业机会有限但竞争中等。总体前景平稳，年均岗位空缺约50-100个。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 500. The Irish tailoring industry is impacted by fast fashion, but high-end tailoring and repair services still have stable demand. Interest in traditional crafts is rising in cities like Dublin, with limited but moderate competition for jobs. Overall outlook stable, with average annual job openings of about 50-100.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 高级（7年以上） | $35,000~$50,000 | 资深裁缝或店主 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Senior (7+ years) | $35,000~$50,000 | Senior Tailor or Shop Owner |
+| average salary | $42,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级裁缝可从学徒或服装零售起步，积累经验后晋升为高级裁缝或工作室主管。部分从业者可转向时装设计或服装生产管理，或开设个人定制工作室。持续学习最新缝纫技术和面料知识有助于职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+Beginner tailors can start as apprentices or in clothing retail, advancing to senior tailor or workshop supervisor with experience. Some may move into fashion design or garment production management, or start a custom studio. Continuous learning of the latest sewing techniques and fabric knowledge aids career development.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - Custom tailoring
 - Alteration services
@@ -61,65 +97,67 @@ Tailors, dressmakers, furriers and hatters make, alter and repair custom garment
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛一般不低于30,000欧元。裁缝属于该类别。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，要求年薪通常不低于一般水平（约35,000欧元），裁缝通常不满足条件。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-scarce occupations; requires employer sponsorship with an annual salary threshold generally no less than 30,000 euros. Tailors fall under this category. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, the annual salary is usually required to be no less than the general level (approx. €35,000); tailors typically do not meet the conditions. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tailor, Dressmaker, Furrier or Hatter？**
-- 喜欢手工制作、注重细节和创意的人
-- 有耐心、愿意从学徒做起的人
-- 对时尚和服装定制有热情的人
+**Who is suited**
+- Suitable for individuals who enjoy handcrafting, attention to detail, and creativity
+- Patient individuals willing to start as apprentices
+- People passionate about fashion and custom clothing
 
-**谁不适合学Tailor, Dressmaker, Furrier or Hatter？**
-- 追求高薪和快速晋升的人
-- 不适应客户沟通和修改要求的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People not suited to client communication and revision requests
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a tailor in Ireland?**
+A: Entry-level tailors earn about €22,000-28,000 annually, mid-level €28,000-35,000, and senior can reach €50,000. Self-employed tailors have more variable income.
+
+**Q: Can a tailor apply for an Irish work visa?**
+A: You can apply for a General Employment Permit, but this occupation is not on the shortage list and requires employer sponsorship and meeting salary requirements. EU citizens do not need a visa.
+
+**Q: What are the career development opportunities for tailors?**
+A: Can be promoted to senior tailor, studio manager, or open a personal custom shop. Some tailors transition into fashion design, clothing repair, or teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tailor, Dressmaker, Furrier or Hatter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a tailor in Ireland?**
-答：Entry-level tailors earn €22,000-€28,000, mid-level €28,000-€35,000, and experienced tailors up to €50,000 per year. Self-employed income varies.
-
-**问：Can a tailor get a work visa for Ireland?**
-答：Yes, a General Employment Permit is possible, but tailoring is not on the critical skills list. Employer sponsorship and salary thresholds apply. EU citizens do not need a visa.
-
-**问：What are the career prospects for a tailor?**
-答：Opportunities include senior tailor, workshop manager, or self-employed business owner. Some move into fashion design, alteration services, or teaching.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

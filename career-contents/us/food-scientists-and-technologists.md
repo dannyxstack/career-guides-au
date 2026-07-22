@@ -1,58 +1,93 @@
-# Food Scientists and Technologists（Food Scientists and Technologists）职业分析 · 美国
+# Food Scientists and Technologists — career analysis · United States
 
-**职业代码：19-1012 – Food Scientists and Technologists。**
+**Occupation code: 19-1012 (SOC)**
 
-Use chemistry, microbiology, engineering to study food processing and deterioration; analyze content; discover new sources; ensure processed foods are safe, palatable, and healthful.
+Applying scientific principles from chemistry, microbiology, engineering, etc., to study food processing and spoilage, analyze food components, develop new food resources, and ensure processed food is safe, tasty, and healthy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位（食品科学或相关领域） | 4年 | $40,000~$120,000（公立大学年均学费约1万-3万美元） |
-| 硕士学位（食品科学） | 2年 | $30,000~$80,000（硕士学费通常较低） |
+| Bachelor's degree (Food Science or related field) | 4 years | $40,000~$120,000 (Public universities charge an average annual tuition of about $10,000-$30,000 USD.) |
+| Master's degree (Food Science) | 2 years | $30,000~$80,000 (Master's tuition is usually lower) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品科学学士学位 | 认证大学 | 必备 | 通常要求 |
-| 食品科学家认证（CFS） | IFT | 可选 | 非强制，但增强资质 |
+| Bachelor of Food Science | Accredited university | Required | Usually required |
+| Certified Food Scientist (CFS) | IFT | Optional | Not mandatory, but enhances qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,800。美国劳工统计局预测2022-2032年食品科学家和技术人员就业增长约7%，快于平均水平。消费者对食品安全、营养和可持续性的关注推动需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 13,800. The U.S. Bureau of Labor Statistics projects employment of food scientists and technologists to grow about 7% from 2022-2032, faster than average. Consumer focus on food safety, nutrition, and sustainability drives demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 通常包括检验员或技术员 |
-| 中级（3-7年） | $65,000~$90,000 | 食品科学家 |
-| 高级（7年+） | $90,000~$130,000 | 研发经理或总监 |
+| Median salary | $88,720 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Usually includes inspector or technician roles |
+| Mid-level (3–7 years) | $65,000~$90,000 | Food scientist |
+| Senior (7+ years) | $90,000~$130,000 | R&D Manager or Director |
+| average salary | $95,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级岗位如食品技术员可晋升为食品科学家或研发经理；资深者可成为首席科学家或质量总监。部分转向监管事务或创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for food scientists and technicians is being reshaped by AI: automated tools take over repetitive testing and recipe optimization, while AI enhances product innovation and supply chain analysis. Entry-level roles are narrowing due to automation, but demand for advanced R&D and regulatory compliance positions is rising.
+
+Entry-level roles such as food technician can advance to food scientist or R&D manager; senior roles can become chief scientist or quality director. Some transition to regulatory affairs or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Routine physical and chemical testing (moisture, protein, fat content determination)
+- Microbial counting and colony identification
+- Basic formula optimization (linear programming solution)
+- Shelf-life data recording and simple statistical analysis
+- Food safety document review and compliance verification
+
+**Where AI augments the role:**
+
+- AI model predicts food formulation taste and shelf life
+- Machine learning analyzes consumer feedback to guide new product development
+- Computer vision-assisted foreign object detection and quality grading
+- Optimize raw material procurement and inventory management using supply chain data
+- Smart sensory analysis (electronic nose/tongue data processing)
+
+**Human moat:**
+
+- Cross-disciplinary integration and innovation (flavor chemistry, nutrition, and processing engineering)
+- New food resource development (e.g., cell-cultured meat, plant-based)
+- Government/international food safety standards development and compliance interpretation
+- Crisis response (e.g., product recall, food safety emergencies)
+
+**Skills to build:**
+
+- Python/R programming and data analysis.
+- Machine learning applications in food science
+- Food processing simulation (e.g., CFD, reaction engineering)
+- Application of sensors and IoT in quality monitoring
+- Regulatory knowledge (FDA, EFSA) and compliance automation
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Food Safety
 - Nutrition
@@ -61,69 +96,68 @@ Use chemistry, microbiology, engineering to study food processing and deteriorat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation） | 常见签证，需学士学位或更高学历 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合拥有硕士学位或学士加5年经验者 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合学士学位或同等经验 |
-| Subclass TN（Trade NAFTA (USMCA)） | 仅限加拿大或墨西哥公民，符合职业列表 |
+| Subclass H-1B (Specialty Occupation) | Common visa requiring a bachelor's degree or higher |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for those with a master's degree or bachelor's plus 5 years of experience |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for a bachelor's degree or equivalent experience |
+| Subclass TN (Trade NAFTA (USMCA)) | Limited to Canadian or Mexican citizens, meeting occupation list |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Food Scientists and Technologists？**
-- 对食品科学有热情
-- 注重细节和实验室工作
-- 希望从事研发或质量控制
-
-**谁不适合学Food Scientists and Technologists？**
-- 不喜欢实验室工作
-- 对食品行业法规不感兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for food science
+- Detail-oriented and laboratory work focused
+- Aspiring to work in R&D or quality control
+
+**Who is not suited**
+- dislikes lab work
+- Not interested in food industry regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a food scientist in the US?**
+A: According to BLS data, 2023 median annual salary for food scientists and technicians ~$76,000, range $45,000-$130,000.
+
+**Q: Which pathway do food scientists typically use to apply for US work visas?**
+A: The most common is the H-1B visa, which requires a bachelor's degree. Eligible applicants can also apply for EB-2 or EB-3 green cards. The TN visa is only available to Canadian or Mexican citizens.
+
+**Q: What is the job outlook for food scientists in the US?**
+A: BLS predicts ~7% growth from 2022-2032, mainly driven by food safety, sustainability, and plant-based product demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Food Scientists and Technologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for food scientists in the US?**
-答：According to BLS, median annual wage for food scientists and technologists was about $76,000 in 2023, ranging from $45,000 to $130,000.
-
-**问：What visa path do food scientists typically take for US work?**
-答：Most common is H-1B visa requiring bachelor's degree. Eligible candidates can also apply for EB-2 or EB-3 green cards. TN visa only for Canadian or Mexican citizens.
-
-**问：What is the job outlook for food scientists in the US?**
-答：BLS projects 7% growth from 2022-2032, driven by food safety, sustainability, and plant-based products.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

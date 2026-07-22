@@ -1,59 +1,95 @@
-# Applications Programmer（Applications Programmer）职业分析 · NL
+# Applications Programmer — career analysis · Netherlands
 
-**职业代码：2514 – Applications Programmer。**
+**Occupation code: 2514 (ISCO08)**
 
-Applications programmers design, write, and test software applications, serving as key drivers of digital transformation.
+Application programmers are responsible for designing, writing, and testing software applications, serving as key drivers of digital transformation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（HBO） | 4年 | $8,500~$12,000（非欧盟学生学费较高） |
-| 硕士（WO） | 2年 | $15,000~$20,000（研究型大学，学费视项目而定） |
-| Bootcamp | 3-6个月 | $3,000~$8,000（私立培训，通常有就业导向） |
+| Bachelor's (HBO) | 4 years | $8,500~$12,000 (Non-EU students face higher tuition fees.) |
+| Master's (WO) | 2 years | $15,000~$20,000 (Research university, tuition varies by program) |
+| Bootcamp | 3-6 months | $3,000~$8,000 (Private training, usually employment-oriented) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士 | 荷兰HBO或WO大学 | 可选 | 常见入门要求 |
-| 相关工作经验 | 雇主 | 可选 | 很多雇主接受Bootcamp加项目经验 |
+| Bachelor's in Computer Science | Dutch HBO or WO university | Optional | Common Entry Requirements |
+| Relevant work experience | Employer | Optional | Many employers accept Bootcamp plus project experience. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。荷兰IT行业持续增长，数字化转型推动需求。预计2025年前就业增长5-10%，尤其在金融、医疗和公共领域。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. The Dutch IT industry continues to grow, driven by digital transformation. Employment is projected to grow 5-10% by 2025, especially in finance, healthcare, and the public sector.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，不含假期津贴 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$90,000 | 税前年薪，架构师可达更高 |
+| Median salary | $68,765 | Median salary (official: CBS median hourly wage €34.8/hour × 1,976 hours annualized, BRC group 0811 Software- en applicatieontwikkel...; P25–P75 €53,352–€85,758, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual salary before tax, excluding holiday pay |
+| Mid-level (3–7 years) | $45,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$90,000 | Annual pre-tax salary, architects can earn higher |
+| average salary | $57,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可晋升为高级程序员、架构师或技术主管；经验丰富者可转向项目管理或咨询，薪资增长显著。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Can advance to senior programmer, architect, or technical lead; experienced individuals can transition to project management or consulting with significant salary growth.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - Agile Development
@@ -62,68 +98,67 @@ Applications programmers design, write, and test software applications, serving 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于月薪达到门槛（2024年约€3,672）的技术人才，雇主担保，30% ruling减税优惠。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历高薪职位，要求工资高于€5,331/月（2024年），家庭团聚便利。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于荷兰毕业的非欧盟留学生，允许一年内找工作，无雇主担保要求。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled talent whose monthly salary meets the threshold (approx. €3,672 in 2024), employer sponsorship, 30% ruling tax benefit. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-education, high-salary positions, requiring wages above €5,331/month (2024), with convenient family reunification. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applies to non-EU graduates from Dutch institutions, allowing one year to find work without employer sponsorship requirements. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Applications Programmer？**
-- 逻辑思维强、喜欢编程和解决问题的人
-- 愿意持续学习新技术的人
-- 能在团队协作中工作的独立开发者
-
-**谁不适合学Applications Programmer？**
-- 不喜欢快节奏技术更新的人
-- 偏好重复性工作而非创造性编程的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong logical thinking who enjoy programming and problem-solving
+- People willing to continuously learn new technologies.
+- An independent developer who can work within a team
+
+**Who is not suited**
+- People who dislike fast-paced technology updates
+- People who prefer repetitive work over creative programming
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for application programmers in the Netherlands?**
+A: Junior approx. €35k-45k, mid-level €45k-65k, senior €65k-90k (annual pre-tax salary), high-skilled migrants may benefit from a 30% tax reduction.
+
+**Q: How can application programmers immigrate to the Netherlands?**
+A: Can be via highly skilled migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting salary thresholds; Dutch graduates can apply for a one-year orientation year visa.
+
+**Q: What is the job market like for application programmers in the Netherlands?**
+A: Strong demand, especially in finance, tech, and healthcare. Many English-speaking jobs, but Dutch proficiency is a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Applications Programmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for applications programmers in the Netherlands?**
-答：Junior: €35k-45k, Mid: €45k-65k, Senior: €65k-90k (gross annual salary). Highly skilled migrants benefit from the 30% tax ruling.
-
-**问：How can applications programmers immigrate to the Netherlands?**
-答：Via Highly Skilled Migrant (kennismigrant) or EU Blue Card with employer sponsorship and salary threshold; graduates from NL universities can apply for the Orientation Year visa.
-
-**问：What is the job market for applications programmers in the Netherlands?**
-答：Strong demand, especially in finance, tech, and healthcare. English-speaking jobs are common, but Dutch is a plus.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

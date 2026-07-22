@@ -1,68 +1,95 @@
-# 工业设计师（Industrial Designer）职业分析 · 澳大利亚
+# Industrial Designer — career analysis · Australia
 
-**职业代码：232312 – Industrial Designer。**
+**Occupation code: 232312 (ANZSCO)**
 
-工业设计师设计工业产品、消费品、医疗设备和交通工具的外观和功能，覆盖从概念草图到3D原型的全流程。AUKUS国防制造和医疗器械设计是澳洲工业设计师最有薪资潜力的专业方向。
+Industrial designers create the appearance and functionality of industrial products, consumer goods, medical devices and vehicles, covering the full process from concept sketches to 3D prototypes. AUKUS defence manufacturing and medical device design represent the highest-earning specialisations for industrial designers in Australia.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Industrial Design（荣誉，4年） | 4年（全日制） | $28,000~$170,000（或 Bachelor of Design（产品设计方向）；作品集是就业的核心竞争力） |
-| Autodesk / SolidWorks 专业认证 | 1~3个月 | $200~$1,500（CAD软件专业认证，提升技术技能竞争力） |
-| ACS / AACA 技能评估（189/190签证） | 2~6个月 | $500~$1,500（视具体设计方向，工业设计师可能通过ACS（若偏IT/交互）或AACA（若偏建筑空间）评估，需要咨询确认评估机构） |
+| Bachelor of Industrial Design (Honours, 4 years) | 4 years (full-time) | $28,000~$170,000 (Or Bachelor of Design (Product Design stream); a portfolio is the core competitive asset for employment) |
+| Autodesk / SolidWorks professional certification | 1–3 months | $200~$1,500 (CAD software professional certification to strengthen technical skills competitiveness) |
+| ACS / AACA Skills Assessment (189/190 visa) | 2–6 months | $500~$1,500 (Depending on the design specialisation, industrial designers may be assessed through ACS (if the focus is IT/interaction design) or AACA (if the focus is architectural/spatial design) — it is advisable to confirm the appropriate assessing body) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Industrial Design (Honours) | 认可大学 | 可选 | 行业基础学历，作品集权重高于学位 |
-| Autodesk Certified Professional (Fusion 360 / Inventor) | Autodesk | 可选 | CAD/CAM行业认证，提升工程设计能力 |
-| SolidWorks Certified Professional (CSWP) | Dassault Systèmes | 可选 | 制造业设计岗广泛要求的3D建模认证 |
-| Lean Product Development / DfM 认证 | 各认证机构 | 可选 | 面向制造的设计能力认证，制造业工业设计岗的加分项 |
+| Bachelor of Industrial Design (Honours) | Recognised university | Optional | Industry-standard qualification; portfolio carries more weight than the degree itself |
+| Autodesk Certified Professional (Fusion 360 / Inventor) | Autodesk | Optional | CAD/CAM industry certification to enhance engineering design capabilities |
+| SolidWorks Certified Professional (CSWP) | Dassault Systèmes | Optional | 3D modelling certification widely required for design roles in manufacturing |
+| Lean Product Development / DfM certification | Each certifying body | Optional | Design for Manufacturing (DfM) competency certification, a valued credential for industrial design roles in manufacturing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。JSA 预测工业设计师至2035年就业增长约5%。医疗设备设计（澳洲医疗科技产业）和国防装备设计（AUKUS）是主要驱动力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. JSA projects employment growth for industrial designers of approximately 5% to 2035. Medical device design (Australia's health technology sector) and defence equipment design (AUKUS) are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~800 个 | 全国，含工业设计师、产品设计师和CAD工程师岗 |
-| Indeed | 200~600 个 | 含医疗设备、消费品和国防设计岗 |
-| LinkedIn | 400~1,000 个 | 制造业企业和设计顾问公司直招 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级工业设计师（0~3年） | $60,000~$78,000 | 入门级，作品集质量决定初始薪资 |
-| 中级工业设计师（3~7年） | $78,000~$105,000 | SEEK 区间 $80k~$100k；Indeed 平均 $84,417（2026） |
-| 高级/医疗设备设计师（7年+） | $105,000~$140,000 | 医疗器械和国防设备设计专精，薪资溢价显著 |
-| 设计总监 / 创意总监（15年+） | $140,000~$200,000 | 大型制造企业或国防公司创意总监 |
+| Median salary | $107,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior industrial designer (0–3 years) | $60,000~$78,000 | Entry-level; portfolio quality determines starting salary |
+| Mid-level Industrial Designer (3–7 years) | $78,000~$105,000 | SEEK range $80k–$100k; Indeed average $84,417 (2026) |
+| Senior/Medical Device Designer (7+ years) | $105,000~$140,000 | Specialist in medical device and defence equipment design, with a significant salary premium |
+| Design Director / Creative Director (15+ years) | $140,000~$200,000 | Creative Director at a large manufacturing or defence company |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可持续设计（Circular Economy Design）和生命周期评估（LCA）是2025-2026年受大型制造企业最重视的设计技能。AI辅助设计（Generative Design in Fusion 360/Grasshopper）正在改变工业设计工作流。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will revolutionize the visualization and modeling processes of industrial design, but the value of humans in creativity, user insight, and cross-disciplinary collaboration becomes more prominent; practitioners need to accelerate their transition to strategic design.
+
+Sustainable design (Circular Economy Design) and Life Cycle Assessment (LCA) are the most valued design skills among large manufacturers in 2025–2026. AI-assisted design (Generative Design in Fusion 360/Grasshopper) is transforming industrial design workflows.
+
+**Tasks most exposed to AI:**
+
+- Multi-plan concept generation and rapid rendering
+- Parameter-based repetitive 3D modeling and modification
+- Standardized writing of product specification sheets
+- Initial classification and report generation from user research data
+
+**Where AI augments the role:**
+
+- Use AI generative design to explore innovative forms and structures
+- AI-driven user behaviour simulation and usability testing
+- Real-time AI rendering and design review accelerate iteration
+- AI-assisted material performance prediction and sustainable design
+
+**Human moat:**
+
+- Interdisciplinary innovative thinking and design strategy formulation
+- Deep understanding of user emotions, culture, and social motivations.
+- Qualitative insights from complex user research and usability testing
+- Strategic communication and coordination with engineers, marketing, and clients
+
+**Skills to build:**
+
+- Generative AI tools (e.g., DALL·E, Midjourney) for concept design
+- Parametric and algorithmic design (e.g., Grasshopper, Fusion 360 generative design)
+- User research and data-driven design decisions (including foundational AI data analysis).
+- VR/AR prototype design and interactive experience
+- Knowledge of Sustainable Design and Life Cycle Assessment
+- Project management design and cross-team leadership
+
+**Key growth areas:**
 
 - Product Design for Medical Devices
 - Defence Equipment Design (AUKUS)
@@ -72,89 +99,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，工业设计师为专业技能岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要技能评估+EOI |
-| Subclass 190（Skilled Nominated） | 州提名，VIC/NSW制造业设计岗 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; industrial designers qualify as a skilled occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, skills assessment + EOI required |
+| Subclass 190 (Skilled Nominated) | State nomination; VIC/NSW manufacturing design roles |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学工业设计师？**
-- 有工业产品/消费品/医疗器械设计实际经验（2年以上）
-- 有强设计作品集（Portfolio），能展示从概念到原型的完整流程
-- 熟悉SolidWorks/Fusion 360/Rhino等3D设计软件
-- 英语能力达到 IELTS 6.5+（设计汇报和客户沟通要求）
-- 对医疗设备或国防装备设计有专业兴趣（薪资潜力最高）
-
-**谁不适合学工业设计师？**
-- 没有实物产品设计作品集，无法展示3D设计能力
-- 仅有平面设计或视觉传达背景，无产品设计经验
-- 不接受作品集展示英语要求（澳洲雇主必须能看懂设计说明）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Practical experience in industrial, consumer or medical device design (2+ years)
+- Strong design portfolio demonstrating the complete process from concept to prototype
+- Proficient in 3D design software such as SolidWorks/Fusion 360/Rhino
+- English proficiency of IELTS 6.5+ (required for design presentations and client communication)
+- Specialist interest in medical device or defence equipment design (highest salary potential)
+
+**Who is not suited**
+- No physical product design portfolio to demonstrate 3D design capabilities
+- Background only in graphic design or visual communication, with no product design experience
+- Portfolios are not accepted; English proficiency required (Australian employers must be able to understand design specifications).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an industrial designer in Australia?**
+A: Mid-level industrial designer approx. $78,000–$105,000 (Indeed average $84,417); medical device/defence design specialisation approx. $105k–$140k; creative director approx. $140k–$200k.
+
+**Q: Is it easy for industrial designers to find work in Australia?**
+A: Moderately competitive. Seek lists approximately 300–800 positions — overall volume is relatively low and entry-level roles are highly competitive. Designers with specialisation in medical devices or CAD engineering design and a strong portfolio are more likely to secure employment.
+
+**Q: Are Chinese industrial design qualifications recognised in Australia?**
+A: The skills assessment body for industrial design varies depending on individual circumstances (ACS or AACA) — it is recommended to seek advice early. A portfolio is the most important part of the application and should include design process documentation written in English.
+
+**Q: Will industrial designers be replaced by AI?**
+A: Generative design tools (Fusion 360 / Grasshopper Generative Design) have accelerated early concept generation, but judgement on material and manufacturing constraints, interpretation of user testing, and creative decision-making remain irreplaceable. AI is an assistive tool, not a replacement.
+
+**Q: Is there an age limit for industrial designers in Australia?**
+A: None. Experienced designers with a strong background in medical device or defence equipment design remain highly competitive in the market.
+
+**Q: What qualifications do industrial designers need in Australia?**
+A: An industrial design, product design, or mechanical engineering degree is the mainstream pathway, but a strong portfolio (including 3D product prototype case studies) can compensate for lower qualifications in some cases. The 482 visa employer sponsorship pathway is friendly to experienced candidates.
+
+**Q: Is it difficult to get Australian industrial designer certification (for migration purposes)?**
+A: Moderately difficult. The choice of skills assessment body needs to be confirmed, and the low number of positions means longer EOI waiting times. It is advisable to enter on an employer-sponsored 482 visa first, then transition to another visa onshore.
+
+**Q: Which is more suitable for migrating to Australia — industrial design or UX design?**
+A: UX designers have a larger job market (Seek ~1,000 vs industrial design ~400), comparable salaries, and a clearer skills assessment pathway (ACS assessment). Industrial designers have higher salary potential in medical devices and defence. Those with a physical product design background should choose industrial design; those with a digital product design background should choose UX design.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 工业设计师薪资 $80k~$100k（2026） |
-| Indeed AU | 工业设计师平均薪资 $84,417（2026） |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-工业设计师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲工业设计师工资多少？**
-答：中级工业设计师约 $78,000~$105,000（Indeed均值 $84,417）；医疗设备/国防设计专精约 $105k~$140k；创意总监约 $140k~$200k。
-
-**问：澳洲工业设计师容易找工作吗？**
-答：有一定难度。Seek 挂牌约 300~800 个职位，总量较少，初级岗竞争激烈。有医疗器械或CAD工程设计专精且作品集突出的设计师更容易找到工作。
-
-**问：中国工业设计学历澳洲认可吗？**
-答：工业设计的技能评估机构需要视具体情况而定（ACS或AACA），建议提前咨询。作品集是最重要的申请材料，需要包含英文设计过程说明。
-
-**问：工业设计师会被AI替代吗？**
-答：生成式设计工具（Fusion 360/Grasshopper Generative Design）加速了初步方案生成，但材料/制造约束判断、用户测试解读和创意决策不可替代。AI是辅助工具而非替代品。
-
-**问：澳洲工业设计师有年龄限制吗？**
-答：无。有丰富医疗器械或国防设备设计经验的资深设计师在市场上仍具高竞争力。
-
-**问：澳洲工业设计师需要什么学历？**
-答：工业设计/产品设计/机械工程相关学位是主流，但强作品集（含3D产品原型案例）在某些情况下可以弥补学历不足。雇主担保482签证对有经验者友好。
-
-**问：澳洲工业设计师认证（移民）难吗？**
-答：难度较高。技能评估机构选择需要确认，职位数量少导致EOI等待期较长。建议优先通过雇主担保482签证入境，再在澳洲内部转其他签证。
-
-**问：工业设计师和UX设计师哪个更适合移民澳洲？**
-答：UX设计师就业量更大（Seek ~1000 vs 工业设计 ~400），薪资相当，技能评估路径更清晰（ACS评估）。工业设计师在医疗器械和国防方向薪资潜力更高。有产品实物设计背景者选工业设计师，有数字产品设计背景者选UX设计师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

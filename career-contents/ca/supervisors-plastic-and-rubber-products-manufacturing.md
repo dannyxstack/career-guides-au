@@ -1,58 +1,91 @@
-# Supervisors, plastic and rubber products manufacturing（Supervisors, plastic and rubber products manufacturing）职业分析 · 加拿大
+# Supervisors, plastic and rubber products manufacturing — career analysis · Canada
 
-**职业代码：92013 – Supervisors, plastic and rubber products manufacturing。**
+**Occupation code: 92013 (NOC)**
 
-Supervise and coordinate the activities of production workers in plastic and rubber products manufacturing plants to ensure efficient, safe, and quality-consistent operations.
+Oversees and coordinates the activities of production workers in plastic and rubber product manufacturing plants, ensuring efficient, safe, and quality-compliant production.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（最低要求） |
-| 职业培训或大专文凭 | 1-2年 | $5,000~$15,000（相关领域如塑料加工或工业管理） |
+| High school diploma | None | $0~$0 (Minimum requirements) |
+| Vocational training or associate degree/diploma | 1-2 years | $5,000~$15,000 (Related fields such as plastic processing or industrial management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级职业安全认证 | 各省劳动部门 | 必备 | 如安大略省健康与安全认证 |
-| 塑料加工技术证书 | 加拿大塑料工业协会 | 可选 | 非强制但有益 |
+| Provincial occupational safety certification | Provincial labor departments | Required | e.g., Ontario Health and Safety Certification |
+| Plastics processing technology certificate | Canadian Plastic Industry Association | Optional | Not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,400。加拿大制造业持续复苏，塑料与橡胶行业需求稳定。预计未来几年就业机会适中，自动化可能影响部分岗位，但主管角色仍具韧性。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,400. Canada's manufacturing sector continues to recover, with stable demand in plastics and rubber. Job opportunities are expected to be moderate over the next few years; automation may affect some roles, but supervisor positions remain resilient.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 取决于地区和公司 |
-| 中级（3-7年） | $55,000~$70,000 | 需有监督经验 |
-| 高级（7年以上） | $70,000~$90,000 | 可升任生产经理 |
+| Median salary | $65,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Depends on the region and company |
+| Mid-level (3–7 years) | $55,000~$70,000 | Must have supervisory experience |
+| Senior (7+ years) | $70,000~$90,000 | Can be promoted to Production Manager |
+| average salary | $68,640 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从操作员晋升为主管，再升为生产经理或工厂经理。通过继续教育和认证可提升管理能力，拓宽职业路径。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI and automation will enhance supervision and planning capabilities, but some repetitive tasks may be reduced, resulting in mixed impacts on production supervisors overall.
+
+Can progress from operator to supervisor, then to production manager or plant manager. Continuing education and certification can enhance management skills and broaden career paths.
+
+**Tasks most exposed to AI:**
+
+- Production data recording and report generation
+- Simple quality inspection and defect identification
+- Equipment operation status monitoring and alerting
+- Production progress tracking and schedule optimization
+
+**Where AI augments the role:**
+
+- Use AI to predict maintenance needs and reduce downtime
+- Optimize production processes and efficiency through data analysis
+- Use digital twin to simulate production scenarios, assisting decision-making
+- Quickly generate production analysis using automated reporting tools
+
+**Human moat:**
+
+- Handles sudden equipment failures and personnel safety incidents
+- Cross-departmental coordination and team leadership
+- Creative problem-solving in process improvement
+- Judgment on complex product quality issues
+
+**Skills to build:**
+
+- Data analysis and interpretation (e.g., Python, BI tools)
+- AI-driven predictive maintenance system operation
+- Lean production and Six Sigma management
+- Fundamentals of industrial automation and robotics
+- Application of digital twins and simulation software
+- Project management and agile methodologies
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation adaptation
@@ -61,65 +94,64 @@ Supervise and coordinate the activities of production workers in plastic and rub
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 满足工作经验及语言要求即可申请 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份针对制造业工人有省提名项目 |
-| Subclass LMIA（Labour Market Impact Assessment） | 需雇主证明无法招到本地人，获得工签后可申请移民 |
+| Subclass Express Entry (Federal Skilled Worker) | Applicable as long as work experience and language requirements are met |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have Provincial Nominee Programs for manufacturing workers. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to recruit locally; after obtaining a work visa, can apply for residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, plastic and rubber products manufacturing？**
-- 有制造业经验并希望晋升管理岗位者
-- 动手能力强且善于团队协作
-- 能适应工厂环境和倒班工作
-
-**谁不适合学Supervisors, plastic and rubber products manufacturing？**
-- 不喜欢重复性工作或严格流程
-- 对噪音或化工材料敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with manufacturing experience seeking management positions
+- Strong hands-on ability and good at teamwork
+- Able to adapt to factory environment and shift work
+
+**Who is not suited**
+- Dislikes repetitive work or strict processes
+- Sensitive to noise or chemical materials
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plastic and rubber production supervisors?**
+A: Junior: approx. CAD 45,000-55,000 per year; intermediate: CAD 55,000-70,000; senior: up to CAD 70,000-90,000.
+
+**Q: Is this occupation suitable for immigrating to Canada through skilled migration?**
+A: Yes, it's generally feasible to apply via EE or PNP, but relevant work experience and possibly LMIA support are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, plastic and rubber products manufacturing的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for supervisors of plastic and rubber products manufacturing?**
-答：Entry-level: CAD 45,000-55,000; mid-level: CAD 55,000-70,000; senior: CAD 70,000-90,000 per year.
-
-**问：Is this occupation suitable for skilled migration to Canada?**
-答：Yes, it is possible via Express Entry or PNP with relevant work experience, though LMIA support may be needed.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

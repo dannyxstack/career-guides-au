@@ -1,60 +1,93 @@
-# Multiskilled Catering Staff（Multiskilled Catering Staff）职业分析 · FR
+# Multiskilled Catering Staff — career analysis · France
 
-**职业代码：G1603 – Multiskilled Catering Staff。**
+**Occupation code: G1603 (ROME)**
 
-Multiskilled catering staff handle various tasks in restaurants, canteens, or fast food outlets, including dish preparation, customer service, cleaning, and kitchen assistance. It is an entry-level role in hospitality requiring flexibility across different workstations.
+Catering divers are responsible for multiple tasks in restaurants, cafeterias, or fast food outlets, including preparing dishes, serving customers, cleaning areas, and assisting with kitchen work. This position is an entry-level position in the hotel and catering industry, usually requiring flexible adaptation to different work segments.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年 | —（公立学校免费，私立学校约2000欧元/年；可通过学徒制带薪学习） |
-| 职业高中文凭（Bac Pro） | 3年 | —（公立教育免费，私立约3000欧元/年；可申请学徒制） |
+| Certificate of Professional Competency (CAP) | 2 years | $0~$2,000 (Public schools are free; private schools about 2000 EUR/year; paid study via apprenticeships.) |
+| Vocational High School Diploma (Bac Pro) | 3 years | $0~$3,000 (Public education is free, private education about 3,000 euros per year; Apprenticeships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 餐饮卫生培训（HACCP） | 法国劳工部认证机构 | 必备 | 餐饮从业人员必备的食品安全培训，有效期5年 |
-| CAP 餐饮服务或烹饪 | 法国教育部 | 可选 | 非强制但显著提升就业竞争力 |
+| Catering Hygiene Training (HACCP) | Certification body of the French Ministry of Labor | Required | Essential food safety training for catering professionals, valid for 5 years |
+| CAP Catering Services or Culinary Services | French Ministry of Education | Optional | Not mandatory but significantly enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 350,000。法国餐饮业持续复苏，2024年就业市场对灵活的多面手需求稳定。受旅游业增长和本地消费支撑，岗位数量将保持增长，尤其在旅游城市和商业区。但工作季节性波动明显，夏季需求更高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 350,000. France's restaurant industry continues to recover, with stable demand for flexible, versatile workers in the job market in 2024. Supported by tourism growth and local consumption, the number of jobs will continue to increase, especially in tourist cities and business districts. However, seasonal fluctuations in work are significant, with higher demand in summer.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 基于SMIC（最低工资）水平，含奖金 |
-| 中级（3-7年） | $24,000~$28,000 | 含奖金和加班费 |
-| 高级（7年以上/主管） | $28,000~$35,000 | 主管级，含管理津贴 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Based on SMIC (Minimum Wage) levels, including bonuses |
+| Mid-level (3–7 years) | $24,000~$28,000 | Including bonuses and overtime pay |
+| Senior (7+ years/supervisor) | $28,000~$35,000 | Supervisor level, including management allowance |
+| average salary | $19,824 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级员工晋升为领班或主管，也可通过内部培训转向专业厨师或管理职位。积累经验后可独立管理餐厅或开设小店。部分进入酒店、会展餐饮等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The multi-purpose tasks in the catering industry are scattered and involve a large number of face-to-face services, making it difficult for AI to fully replace them. However, AI will take over backend tasks such as ordering and inventory management, while enhancing efficiency through intelligent scheduling and predictive maintenance, resulting in a mixed mix of ups and downs for the overall role.
+
+You can be promoted from junior staff to team leader or supervisor, or transition to professional chef or management positions through internal training. After gaining experience, you can independently manage a restaurant or open a small shop. Some have entered sub-sectors such as hotels and convention and catering sectors.
+
+**Tasks most exposed to AI:**
+
+- Use the POS system to complete ordering and checkout
+- Predict ingredient demand based on historical data and place automatic orders
+- Arrange employee shifts through an intelligent scheduling system
+- Monitor kitchen equipment status and automatically generate maintenance reminders
+
+**Where AI augments the role:**
+
+- AI-assisted menu design with real-time recommendations based on customer preferences and inventory
+- AI-driven training systems accelerate new employees' multi-position skills
+- AI analyzes customer feedback to optimize service processes and dishes
+- AI automatically records allergens and special needs, reducing human error
+
+**Human moat:**
+
+- On-site flexible response to customers' urgent needs
+- Handmade or adjusted dishes (such as plating and flavor adjustments)
+- Maintain a balance between service temperature and speed during peak hours
+- Handling complex interpersonal conflicts (such as customer complaints)
+
+**Skills to build:**
+
+- Digital ordering and EPOS system operation
+- Basic Data Analysis (Predicting Customer Flow and Ingredient Consumption)
+- Inventory management and automated replenishment software
+- Multi-position cross-training (covering front and back kitchen)
+- Digital records of food hygiene and safety
+- Customer service and conflict resolution skills
+
+**Key growth areas:**
 
 - Hospitality recovery
 - Flexible staffing demand
@@ -63,62 +96,64 @@ Multiskilled catering staff handle various tasks in restaurants, canteens, or fa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Visa） | 需获得法国公司工作合同，且年薪不低于SMIC（约20,000欧元）。适用于非欧盟申请人。 |
-| Subclass Recherche emploi（Job Seeker Visa (Recherche d'emploi)） | 针对完成法国硕士学位的非欧盟学生，允许12个月内寻找工作。 |
+| Subclass Salarié (Salarié (Employee) Visa) | Must have a work contract with a French company and an annual salary of no less than SMIC (about 20,000 euros). Applicable to non-EU applicants. |
+| Subclass Recherche emploi (Job Seeker Visa (Recherche d'emploi)) | Non-EU students who have completed a master's degree in France are allowed to look for work within 12 months. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Multiskilled Catering Staff？**
-- 喜欢与人交流、适应快节奏工作环境的人
-- 希望快速就业、不要求高学历的求职者
-- 愿意通过学徒制边学边赚的人
+**Who is suited**
+- For those who enjoy interacting with others and adapting to a fast-paced work environment
+- Job seekers who want quick employment and do not require a high degree of education
+- Those willing to earn while learning through an apprenticeship
 
-**谁不适合学Multiskilled Catering Staff？**
-- 不喜站立工作、畏惧高峰时段压力的人
-- 追求高薪或稳定朝九晚五的人
+**Who is not suited**
+- People who dislike standing at work and fear the pressure during peak hours
+- Those seeking high salaries or stable nine-to-five jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for food and beverage generalists in France?**
+A: Typically paid at SMIC (approx. €20,000/year in 2024), entry-level approx. €20,000–24,000, supervisor up to €35,000. Tips or bonuses may supplement income.
+
+**Q: Can non-EU foreigners engage in this profession?**
+A: Yes, but you must have an employer-sponsored Salarié visa and an annual salary not lower than SMIC. Due to lower salaries and fierce competition, the skilled migration path is more challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Multiskilled Catering Staff属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of multiskilled catering staff in France?**
-答：Typically paid at SMIC level (~€20,000/year in 2024), entry-level €20,000-24,000, supervisor up to €35,000. Tips and bonuses may supplement.
-
-**问：Can non-EU foreigners work in this occupation?**
-答：Yes, with employer sponsorship for a Salarié visa and salary at least SMIC. However, the low salary and high competition make it difficult for skilled migration.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

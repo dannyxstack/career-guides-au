@@ -1,60 +1,91 @@
-# Natural Stone And Mineral Processing Worker（Natural Stone And Mineral Processing Worker）职业分析 · DE
+# Natural Stone And Mineral Processing Worker — career analysis · Germany
 
-**职业代码：2121 – Natural Stone And Mineral Processing Worker。**
+**Occupation code: 2121 (KldB)**
 
-Operates crushers, grinders, screens, and classifiers to process natural stone and minerals for industrial and construction use.
+Operate crushing, grinding, screening, and grading of natural stone and minerals to ensure materials meet industrial or construction standards.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴） |
-| 在职进修 | 2-3年（部分时间） | $1,000~$5,000（由雇主或行业协会资助） |
+| Dual vocational training | 3 years (dual system) | $0~$600 (Allowance during training) |
+| On-the-job further training. | 2-3 years (part-time) | $1,000~$5,000 (Funded by employer or industry association) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制职业培训证书 | 德国工商会（IHK） | 必备 | 完成3年双元制培训后获得，为从业基础 |
-| 加工技师证书 | IHK或手工业行会 | 可选 | 可选进修，提升管理能力 |
+| Dual vocational training certificate. | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing 3-year dual training, it is the foundation for practice. |
+| Processing Technician Certificate | IHK or Chamber of Skilled Crafts | Optional | Optional further study to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,500。德国建筑业和原材料需求稳定，但自动化技术普及可能减少低技能岗位，整体就业前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,500. Demand in the German construction industry and raw materials is stable, but automation may reduce low-skilled jobs. Overall employment prospects are steady.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，培训后入职水平 |
-| 中级（3-6年） | $34,000~$40,000 | 税前年薪，熟练工 |
-| 高级（6年以上） | $40,000~$48,000 | 税前年薪，含班组长或技师 |
+| Median salary | $43,200 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual gross salary, entry-level after training |
+| Mid-level (3–6 years) | $34,000~$40,000 | Pre-tax annual salary, skilled worker |
+| Senior (6+ years) | $40,000~$48,000 | Annual pre-tax salary, including team leader or technician |
+| average salary | $45,312 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作员晋升为班组长或生产主管，也可通过进修获得加工技师资格，进入质量检测或技术管理岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
+
+Can be promoted from operator to team leader or production supervisor, or obtain processing technician qualification through further training, entering quality inspection or technical management roles.
+
+**Tasks most exposed to AI:**
+
+- Autonomous haulage systems (AHS) take over transport cycle operations.
+- GPS navigation and sensors automatically handle path planning and obstacle avoidance
+- AI scheduling system optimises fleet allocation, replacing manual scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment faults to improve maintenance efficiency
+- Virtual reality (VR) simulators for safety training and operation drills
+- Data analysis to optimise fuel consumption and tyre wear.
+
+**Human moat:**
+
+- Emergency judgment and decision-making in complex geological conditions
+- On-site rapid repair skills for equipment breakdowns
+- Cross-device coordination and multitasking
+- Safety procedure execution and risk assessment
+
+**Skills to build:**
+
+- Automated system operation and monitoring (e.g., AHS console)
+- Basic data analysis (Python/R)
+- Remote device diagnostics and maintenance (IoT sensors)
+- Safety regulation updates and digital management.
+- Cross-departmental collaboration and communication skills
+- Drone inspection operations.
+
+**Key growth areas:**
 
 - Raw Materials
 - Construction
@@ -63,62 +94,64 @@ Operates crushers, grinders, screens, and classifiers to process natural stone a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于有德国认可职业培训的工人，需雇主offer。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作，但行业需求低。硬性要求资质认证。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to workers with recognized vocational training in Germany; requires an employer offer. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, allows coming to Germany to look for work, but industry demand is low. Qualification certification is a hard requirement. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Natural Stone And Mineral Processing Worker？**
-- 喜欢体力与机械操作者
-- 愿意在户外或工厂环境工作的人
-- 对建筑原材料加工感兴趣者
+**Who is suited**
+- Those who enjoy physical work and machinery operation
+- People willing to work outdoors or in factory environments
+- Interested in processing construction raw materials
 
-**谁不适合学Natural Stone And Mineral Processing Worker？**
-- 偏好办公室工作的人
-- 追求高薪与快速晋升者
+**Who is not suited**
+- Those who prefer office work
+- High salary and fast promotion seekers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there significant room for salary growth?**
+A: Entry-level annual salary about €28,000-34,000, senior up to €48,000, but limited promotion opportunities.
+
+**Q: Is it easy for Chinese people to immigrate to Germany for this occupation?**
+A: Difficult; this occupation is not in shortage and requires recognized vocational training qualifications in Germany, with limited immigration pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Natural Stone And Mineral Processing Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth?**
-答：Entry-level annual salary is around €28,000-34,000, up to €48,000 for senior roles, but advancement is limited.
-
-**问：Is it easy for Chinese to immigrate to Germany for this job?**
-答：Difficult; the occupation is not in shortage and requires recognized German vocational training, with limited migration pathways.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Air Crew Officers（Air Crew Officers）职业分析 · 美国
+# Air Crew Officers — career analysis · United States
 
-**职业代码：55-1011 – Air Crew Officers。**
+**Occupation code: 55-1011 (SOC)**
 
-Perform and direct in-flight duties to ensure successful completion of combat, reconnaissance, transport, and search and rescue missions, including operating communications, radar, and weapons systems.
+Responsible for in-flight communication, radar, weapons, and defense system operations, ensuring success of combat, reconnaissance, transport, and search and rescue missions.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位（航空相关） | 2年 | $15,000~$30,000（社区大学学费，不含飞行训练费） |
-| 学士学位（航空/军事科学） | 4年 | $40,000~$120,000（大学学费，飞行训练另计） |
+| Associate degree (aviation-related) | 2 years | $15,000~$30,000 (Community college tuition, excluding flight training costs) |
+| Bachelor's degree (Aviation/Military Science) | 4 years | $40,000~$120,000 (University tuition; flight training costs extra) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 联邦航空管理局（FAA）飞行员执照 | FAA | 必备 | 商业飞行员执照或更高，军用飞行员需通过军事训练 |
-| 军事训练证书 | 美国空军 | 必备 | 完成空军军官训练学校或后备军官训练团 |
+| Federal Aviation Administration (FAA) pilot license | FAA | Required | Commercial pilot licence or higher; military pilots must complete military training |
+| Military training certificate | United States Air Force | Required | Complete Air Force Officer Training School or Reserve Officer Training Corps |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。美国空军及相关军事和民用航空领域对机组人员需求稳定，但岗位多限于军事或政府合同，民用机会较少。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. Demand for crew members in the U.S. Air Force and related military and civil aviation fields is stable, but positions are mostly limited to military or government contracts, with fewer civilian opportunities.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 军事人员薪资含津贴 |
-| 中级（3-8年） | $70,000~$100,000 | 包括飞行津贴 |
-| 高级（8年以上） | $100,000~$140,000 | 高级军官或机长 |
+| Median salary | $85,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$70,000 | Military personnel salary includes allowances |
+| Mid-level (3–8 years) | $70,000~$100,000 | Includes flight allowance |
+| Senior (8+ years) | $100,000~$140,000 | Senior Officer or Captain (Airline) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级机组人员晋升至高级军官或机长，需积累飞行小时数和完成专业训练。亦可转向航空管理或航空安全领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Promotion from junior crew to senior officer or captain requires accumulating flight hours and completing professional training. Can also move to aviation management or aviation safety.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Military Aviation
 - Defense Contracting
@@ -63,62 +96,64 @@ Perform and direct in-flight duties to ensure successful completion of combat, r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少使用，通常限于民用航空技术岗位，军事岗位不适用 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于具有杰出能力的飞行员或机组人员，需证明国际声誉 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely used, usually limited to civilian aviation technical roles; not applicable for military roles |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to pilots or crew members with outstanding abilities, requiring proof of international reputation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air Crew Officers？**
-- 有志于军航或民用航空事业的人
-- 身体和心理素质优秀，能承受高压环境
-- 具备团队合作和快速决策能力
+**Who is suited**
+- People aspiring to careers in military or civil aviation
+- Strong physical and mental qualities, able to handle high-pressure environments
+- Ability to work in a team and make quick decisions
 
-**谁不适合学Air Crew Officers？**
-- 无美国公民身份或永久居民身份者（多数岗位要求公民）
-- 对严格纪律和长期部署不适应者
+**Who is not suited**
+- Those without US citizenship or permanent residency (most positions require citizenship)
+- Those not suited to strict discipline and long-term deployment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for crew members?**
+A: Entry-level approx USD 50,000-70,000, mid-level USD 70,000-100,000, senior USD 100,000-140,000, with additional allowances for military personnel.
+
+**Q: Can foreign citizens immigrate to the US through the flight crew occupation?**
+A: Usually not, as this occupation often requires U.S. citizenship and lacks a standard H-1B or green card pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Air Crew Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Air Crew Officers?**
-答：Entry-level: $50,000-$70,000; mid-level: $70,000-$100,000; senior: $100,000-$140,000, with military allowances.
-
-**问：Can foreign nationals immigrate to the US as Air Crew Officers?**
-答：Generally no, as most positions require US citizenship and there are no standard H-1B or green card pathways.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

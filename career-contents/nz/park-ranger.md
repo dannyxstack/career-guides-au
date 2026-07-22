@@ -1,61 +1,94 @@
-# Park Ranger（Park Ranger）职业分析 · 新西兰
+# Park Ranger — career analysis · New Zealand
 
-**职业代码：234412 – Park Ranger。**
+**Occupation code: 234412 (ANZSCO)**
 
-Park Ranger in New Zealand is an entry to mid-level role involving conservation, visitor services, and law enforcement patrol. It offers immigration via AEWV or Green List work-to-residence, with moderate demand in environmental sectors.
+Park ranger in New Zealand is a junior to mid-level occupation, mainly responsible for natural resource conservation, visitor services, and law enforcement patrols. This occupation can migrate via Accredited Employer Work Visa (AEWV) or Green List Work to Residence pathway; New Zealand has some demand for environmental talent.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $28,000~$40,000（新西兰大学本科学费（国际学生）） |
-| 文凭/证书 | 1-2年 | $15,000~$25,000（理工学院或私立培训机构） |
+| Bachelor's degree | 3 years | $28,000~$40,000 (New Zealand university undergraduate tuition (international students)) |
+| Diploma/Certificate | 1-2 years | $15,000~$25,000 (Polytechnics or private training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境管理或相关领域学士学位 | 认可大学 | 可选 | 常见要求，但非必须 |
-| 新西兰驾驶执照（全驾照） | NZ Transport Agency | 必备 | 大部分岗位必需 |
-| 急救证书（First Aid Certificate） | 新西兰红十字会等 | 可选 | 通常要求 |
+| New Zealand driver license (full license). | NZ Transport Agency | Required | Required for most positions. |
+| Bachelor's degree in environmental management or related field | Recognised university | Optional | Common requirement but not mandatory |
+| First Aid Certificate | New Zealand Red Cross, etc. | Optional | Usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰环保部(Department of Conservation)及地方政府持续聘用巡护员，预计未来五年就业稳定增长。旅游业复苏及气候行动政策推动需求，但竞争激烈，尤其在国家公园热门地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's Department of Conservation and local governments continue to hire rangers, with stable employment growth expected over the next five years. Tourism recovery and climate action policies drive demand, but competition is fierce, especially in popular national park areas.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 大多为政府岗位，薪资固定 |
-| 中级（3-7年） | $55,000~$70,000 | 带团队或承担更多职责 |
-| 高级（7年以上） | $70,000~$85,000 | 区域主管或专家角色 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Mostly government positions with fixed salaries |
+| Mid-level (3–7 years) | $55,000~$70,000 | Lead a team or take on more responsibilities |
+| Senior (7+ years) | $70,000~$85,000 | Regional manager or specialist role |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级巡护员可从季节性或志愿者岗位起步，积累经验后晋升为高级巡护员或区域主管。也可横向发展至环境教育、生态恢复或野生动物管理领域。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Some tasks of nature reserve rangers can be automated by AI (e.g., data recording, monitoring), but core duties like on-site patrol, law enforcement, and public education rely on human judgment and interaction, resulting in medium-low overall risk. Entry-level positions may have slightly higher digital requirements, but experience remains key.
+
+Junior rangers can start from seasonal or volunteer positions, gain experience, and advance to senior ranger or regional supervisor. They can also move laterally into environmental education, ecological restoration, or wildlife management.
+
+**Tasks most exposed to AI:**
+
+- Automated data recording: e.g., using AI cameras to identify animal species and auto-generate logs
+- Standard patrol reports: AI can automatically generate patrol summaries from sensor and GPS data
+- Basic tourist inquiries: AI chatbot answers common questions (e.g., routes, facilities)
+- Fire risk prediction: AI model based on meteorological and vegetation data for early warning
+
+**Where AI augments the role:**
+
+- Ecological monitoring: AI analyzes drone imagery and sound data to quickly detect illegal activities or species changes
+- Emergency response: AI processes distress signals in real-time, optimizes search and rescue paths
+- Public education: AI generates multilingual interactive content to enhance educational outcomes
+- Paperwork: AI assists in writing reports and grant applications, saving time
+
+**Human moat:**
+
+- On-site judgment: e.g., assessing fire risk or human-centric decision-making in law enforcement
+- Public interaction: handling conflicts, calming visitors, or explaining complex ecosystems
+- Wilderness survival skills: dealing with unexpected weather, terrain, and wildlife.
+- Legal and policy interpretation: Applying regulations flexibly based on on-site situations
+
+**Skills to build:**
+
+- GIS and remote sensing: analyze spatial data using ArcGIS/QGIS
+- Drone operation: Operating drones with certification for patrol and monitoring
+- Data analysis basics: Python/R for ecological monitoring data
+- AI tool application: Proficient in AI image recognition and report generation tools
+- Digital communication: using social media and apps for public education
+- First aid and crisis management: advanced wilderness first aid and emergency coordination
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Tourism Recovery
@@ -64,68 +97,67 @@ Park Ranger in New Zealand is an entry to mid-level role involving conservation,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，常见于环保部或地方政府，需雇主认证和时薪达到中位数（约29.66纽元）。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 公园巡护员在绿色清单T2中，工作2年后可申请居留。需雇主认证且时薪达到中位数。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer sponsorship, common in environmental departments or local government, requires employer accreditation and hourly wage at median (approx. NZD 29.66). |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Park ranger is on Green List T2; can apply for residence after working for 2 years. Requires employer accreditation and hourly wage at median. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Park Ranger？**
-- 热爱户外自然、体力好且适应偏远地区生活者
-- 具备沟通和执法能力，愿意服务游客和社区
-- 有环境科学或相关学历，寻求稳定政府工作
-
-**谁不适合学Park Ranger？**
-- 偏好城市生活无法忍受偏远孤独者
-- 追求高薪和快速晋升者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who love the outdoors and nature, have good physical strength, and are adaptable to remote area living
+- Possess communication and enforcement skills, willing to serve tourists and the community
+- Those with environmental science or related qualifications seeking stable government work
+
+**Who is not suited**
+- Those who prefer city life and cannot tolerate remote isolation
+- Those pursuing high salary and rapid advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of park rangers in New Zealand?**
+A: Junior annual salary ~NZ$45k–55k, mid-level up to NZ$70k, senior ~NZ$85k. Government roles have fixed pay; private sector may be slightly lower.
+
+**Q: Can park rangers migrate to New Zealand through skilled migration?**
+A: Yes, this occupation is on the Green List Tier 2; can apply for residence after 2 years with an accredited employer work visa. Also possible via AEWV to gain experience, but migration difficulty is medium—must meet median wage.
+
+**Q: What education is needed to become a park ranger?**
+A: Typically requires a diploma or bachelor's degree in environmental management, conservation, or related field. Some positions accept diploma plus experience; full driver's license and first aid certificate essential.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Park Ranger为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Park Rangers in New Zealand?**
-答：Entry-level annual salary is around NZD 45,000-55,000, mid-level up to 70,000, and senior up to 85,000. Government roles have fixed payscales.
-
-**问：Can Park Rangers immigrate to New Zealand through skilled migration?**
-答：Yes, it's on Green List Tier 2, enabling work-to-residence after 2 years with an accredited employer. AEWV is also possible. Immigration is moderate, requiring median wage.
-
-**问：What education is required to become a Park Ranger?**
-答：Typically a diploma or degree in environmental management, conservation, or related field. Some roles accept diploma plus experience, and a full driver's license and first aid certificate are mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

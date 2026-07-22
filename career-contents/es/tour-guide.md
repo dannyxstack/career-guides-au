@@ -1,60 +1,95 @@
-# Tour Guide（Tour Guide）职业分析 · ES
+# Tour Guide — career analysis · Spain
 
-**职业代码：5825 – Tour Guide。**
+**Occupation code: 5825 (CNO)**
 
-Tour guides lead visitors through tourist attractions, providing historical and cultural commentary and travel arrangements to ensure a pleasant experience.
+The guide is responsible for leading visitors to tourist attractions, providing historical and cultural explanations and travel arrangements to ensure a pleasant travel experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立学校学费较低，私立较高） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（旅游学学士，公立大学学费约1000-2000欧元/年） |
-| 硕士（Máster） | 1年 | $2,000~$8,000（旅游管理或文化管理硕士） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Bachelor of Tourism and public university tuition is about 1000-2000 euros per year) |
+| Máster | 1 year | $2,000~$8,000 (Master's degree in Tourism Management or Cultural Management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 导游资格证（Guía de Turismo） | 自治区旅游局 | 必备 | 需通过考试或认可培训，部分自治区强制要求 |
-| 旅游学位或职业培训证书 | 大学或FP中心 | 可选 | 非强制但雇主偏好 |
-| 急救证书（First Aid） | 红十字会等机构 | 可选 | 增加就业竞争力 |
+| Tour Guide Qualification Certificate (Guía de Turismo) | Autonomous Region Tourism Bureau | Required | Passing exams or accredited training is required, as some autonomous regions require it |
+| Tourism degree or vocational training certificate | Universities or FP centers | Optional | Not mandatory, but preferred by employers |
+| First Aid Certificate | Red Cross Society and other organizations | Optional | Enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。西班牙旅游业作为经济支柱，导游需求稳定。疫情后复苏强劲，但季节性明显。数字转型与多语言能力成为竞争力关键。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. As the backbone of Spain's economy, tourism has stable demand for guides. Post-pandemic recovery is strong, but seasonality is evident. Digital transformation and multilingual capabilities have become key to competitiveness.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，含小费可能更高 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪，多语种导游薪资更高 |
-| 高级（7年以上） | $32,000~$45,000 | 税前年薪，资深或特种导游可达 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, including tips, may be even higher |
+| Mid-level (3–7 years) | $24,000~$32,000 | Pre-tax annual salary, multilingual guides earn higher wages |
+| Senior (7+ years) | $32,000~$45,000 | Pre-tax annual salary, experienced or special tour guides available |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级导游晋升为资深导游、团队主管或旅游产品经理。也可向特种旅游（如文化、美食或探险）或自主创业方向发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
+
+You can be promoted from junior tour guide to senior tour guide, group leader, or tourism product manager. It can also develop into specialty tourism (such as culture, cuisine, or adventure) or self-employment.
+
+**Tasks most exposed to AI:**
+
+- Automated AI tour commentary: standard attraction information is replaced by AI voice guides or apps
+- Basic travel itinerary inquiries: standardized Q&A on dates, transportation, tickets, weather, etc., handled by AI chatbots
+- Online booking and order processing: automation of flight, hotel, and ticket reservation and confirmation processes
+- FAQ responses: routine questions (hours, routes) handled by AI customer service
+- Multilingual real-time translation: AI translation earphones reduce the need for language switching in human commentary
+
+**Where AI augments the role:**
+
+- Personalized itinerary customization: AI analyzes tourist preferences (interests, budget) to generate custom routes, consultant refines and finalizes
+- Real-time information enhancement: AI provides real-time updates on traffic, weather, and events, allowing guides to adjust arrangements
+- Multimodal interpretation assistance: AR/VR overlays historical images or 3D models to enhance on-site interpretation
+- Customer Relationship Management: AI analyzes customer feedback and historical data to help advisors make targeted recommendations and follow-ups
+- Content creation and promotion: AI-assisted writing of travelogues and social media content to enhance personal brand influence
+
+**Human moat:**
+
+- On-site emotional interaction and empathy: ability to handle tourist emotions and emergencies (e.g., lost persons, discomfort)
+- Cultural depth and storytelling interpretation: combining attractions with cultural context to create unique narrative experiences
+- Emergency decision-making and flexible adjustment: handling non-standard scenarios like weather changes, safety incidents
+- Local network and resource coordination: familiarity with local restaurants, drivers, and attractions to ensure service quality
+- The bridging role of language and culture: particularly Mandarin-speaking tour guides are irreplaceable in cross-cultural communication
+
+**Skills to build:**
+
+- AI tool application: Proficient in using ChatGPT, Copilot, etc. to generate itineraries and respond to customers
+- Digital content creation: shooting/editing short videos, writing travelogues, managing social media
+- Data analysis basics: use Excel or simple BI tools to analyze customer preferences and travel trends
+- Crisis management certifications: First aid, risk management, etc., enhance on-site value
+- Second foreign language: besides Chinese, learning Korean/Japanese can expand client base
+
+**Key growth areas:**
 
 - Tourism recovery
 - Multilingual demand
@@ -63,69 +98,68 @@ Tour guides lead visitors through tourist attractions, providing historical and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 受雇工作居留，需雇主提供工作合同，适用于旅游公司雇佣导游。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适用于高技能员工，但导游通常不符合薪资要求，较少使用。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 适用于高级管理或技术岗位，导游一般不适用。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 留学生或高技能人才找工作签证，允许在西班牙居留并寻找工作。 |
+| Subclass Cuenta ajena (Work Contract Visa) | For employed work residence, the employer must provide a work contract, applicable to travel companies hiring tour guides. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled employees, but guides usually do not meet salary requirements and are rarely used. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Applicable for senior management or technical positions, generally not for tour guides. |
+| Subclass Búsqueda de empleo (Job Search Visa) | The international student or highly skilled work-seeking visa allows you to reside in Spain and look for work. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tour Guide？**
-- 喜欢与人交流、表达能力强的人
-- 对历史文化或旅游有浓厚兴趣
-- 具备多语言能力（尤其英语、中文）
-
-**谁不适合学Tour Guide？**
-- 不喜欢户外工作或长时间站立的人
-- 缺乏耐心和随机应变能力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communicating and have strong expressive skills
+- Strong interest in history, culture, or tourism
+- Possess multilingual skills (especially English and Chinese)
+
+**Who is not suited**
+- People who dislike outdoor work or prolonged standing
+- People lacking patience and adaptability
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Spanish guide?**
+A: Junior guides earn about 18,000-24,000 euros annually, while senior guides can earn 32,000-45,000 euros, with tips being an important source of income.
+
+**Q: What qualifications do foreigners need to be guides in Spain?**
+A: Typically requires a tour guide license issued by the autonomous region and a work visa. Non-EU citizens need employer sponsorship; language skills are crucial.
+
+**Q: What career development paths are available for tour guides?**
+A: You can be promoted from junior tour guide to team leader or tourism product manager, or shift to special tourism (culture, cuisine, adventure) or start your own travel agency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tour Guide的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a tour guide in Spain?**
-答：Entry-level guides earn around €18,000-€24,000 annually, while experienced guides can earn €32,000-€45,000, plus tips.
-
-**问：What qualifications do foreigners need to become a tour guide in Spain?**
-答：They typically need a tour guide license from the regional authority and a work visa. Non-EU citizens require employer sponsorship; language skills are essential.
-
-**问：What are the career development paths for tour guides?**
-答：Guides can advance to team leader, tourism product manager, or specialize in niche tourism (cultural, gastronomic, adventure), or start their own agency.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

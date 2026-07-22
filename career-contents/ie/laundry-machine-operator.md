@@ -1,59 +1,89 @@
-# Laundry Machine Operator（Laundry Machine Operator）职业分析 · IE
+# Laundry Machine Operator — career analysis · Ireland
 
-**职业代码：8157 – Laundry Machine Operator。**
+**Occupation code: 8157 (ISCO08)**
 
-Operate industrial washing and drying machines to clean textiles, commonly in hotels, hospitals, and laundries.
+Operate industrial washing machines, dryers and other equipment, handle fabric cleaning, commonly found in hotels, hospitals and laundry plants.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常不需要正式教育） |
-| 短期培训 | 1-2周 | $200~$500（在职培训或职业课程） |
+| High school diploma | None | $0~$0 (Usually no formal education required) |
+| Short-term training | 1-2 weeks | $200~$500 (On-the-job training or vocational courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 通常雇主提供培训 |
+| No mandatory qualification | None | Optional | Training is usually provided by the employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰旅游业和酒店业持续增长，带动洗衣服务需求；但自动化可能减少低技能岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. Ireland's tourism and hospitality sectors are growing, driving demand for laundry services; but automation may reduce low-skilled roles.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$31,000 | 税前年薪 |
-| 高级（7年以上） | $31,000~$36,000 | 税前年薪，含主管角色 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$31,000 | Annual pre-tax salary |
+| Senior (7+ years) | $31,000~$36,000 | Pre-tax annual salary, including supervisory roles. |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平淡（★★☆☆☆）。** 可从操作员晋升为洗衣主管或工厂经理；也可转向设备维护或物流管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+This occupation has a high automation risk; core operational tasks (such as identifying fabrics, setting programs, checking cleanliness) are being gradually replaced by smart laundry systems, with job demand shrinking by 5-8% per year in developed countries.
+
+Can advance from operator to laundry supervisor or factory manager; may also transition to equipment maintenance or logistics management.
+
+**Tasks most exposed to AI:**
+
+- Fabric classification and stain identification: AI vision system automatically identifies material and stain type and selects program
+- Wash cycle setting and monitoring: smart devices automatically adjust water level, temperature, and time based on sensor data.
+- Cleanliness inspection: automated optical inspection replaces manual visual inspection
+- Drying parameter adjustment: closed-loop control of drying process via humidity sensor
+
+**Where AI augments the role:**
+
+- Equipment maintenance prediction: AI analyzes vibration and temperature data to warn of failures in advance
+- Energy optimization: machine learning algorithms adjust batch combinations in real time to reduce water and electricity consumption
+- Report generation: natural language processing automatically summarizes daily processing volume, pass rate, and other KPIs
+
+**Human moat:**
+
+- On-site diagnosis and repair skills for sudden equipment failures
+- Expert knowledge of handling special fabrics (e.g., vintage clothing, surgical gowns)
+- Service awareness for communicating with clients about special washing requirements
+
+**Skills to build:**
+
+- Industrial washing equipment parameter adjustment and fault diagnosis
+- PLC basic programming and sensor calibration
+- Lean production and Six Sigma methods
+- Knowledge of environmental compliance for cleaning chemicals.
+- Team management and shift scheduling optimisation
+
+**Key growth areas:**
 
 - Hospitality
 - Industrial Laundry
@@ -62,65 +92,67 @@ Operate industrial washing and drying machines to clean textiles, commonly in ho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，年薪低于€30,000时需劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用，因技能等级低且薪资门槛高（€43,759） |
+| Subclass General Employment P (General Employment Permit) | Employer sponsorship required; labor market test needed for annual salary below €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable due to low skill level and high salary threshold (€43,759) |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Laundry Machine Operator？**
-- 寻求稳定工作、不介意体力劳动的人
-- 对机械操作有兴趣者
-- 希望快速进入职场的人
+**Who is suited**
+- Seeking stable work, not averse to physical labor
+- Those interested in operating machinery
+- People looking to enter the workforce quickly
 
-**谁不适合学Laundry Machine Operator？**
-- 期望高薪或职业发展空间大的人
-- 不喜欢重复性体力工作的人
+**Who is not suited**
+- Individuals expecting high salaries or significant career development opportunities
+- People who dislike repetitive physical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a washing machine operator?**
+A: Entry-level approx. €22,000-€26,000, senior supervisors up to €36,000, overall below the Irish average salary.
+
+**Q: Can a washing machine operator immigrate to Ireland on a work visa?**
+A: High difficulty. This occupation is not on the shortage list, requires employer sponsorship and passing a labor market test, and has a low salary threshold.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Can advance to laundry supervisor or factory manager, or transition to equipment maintenance or logistics management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 平淡（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 难（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Laundry Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of laundry machine operators?**
-答：Entry-level around €22,000-€26,000, senior supervisors up to €36,000, below national average.
-
-**问：Can laundry machine operators immigrate via work visa?**
-答：Difficult. Not on shortage list, requires employer sponsorship and labor market test, low salary threshold.
-
-**问：Are there promotion opportunities?**
-答：Yes, to laundry supervisor or factory manager, or transition to equipment maintenance or logistics management.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Plastic Cablemaking Machine Operator（Plastic Cablemaking Machine Operator）职业分析 · 新西兰
+# Plastic Cablemaking Machine Operator — career analysis · New Zealand
 
-**职业代码：711511 – Plastic Cablemaking Machine Operator。**
+**Occupation code: 711511 (ANZSCO)**
 
-Operate extrusion, cooling, and winding machinery to produce insulation or sheathing for cables. This role is not on New Zealand's Green List; migration typically requires an Accredited Employer Work Visa (AEWV).
+Operate extrusion, cooling, and winding equipment in a plastic cable manufacturing plant to produce wire and cable insulation or sheathing. This occupation is classified under the Australian and New Zealand Standard Classification of Occupations (ANZSCO), but is not on New Zealand's Green List for skilled migration, and typically requires an Accredited Employer Work Visa (AEWV) for immigration.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训证书 | 6个月至1年 | $3,000~$8,000（培训机构如MITO或私立院校提供塑料加工短期课程） |
-| 新西兰学历框架（NZQF）2级证书 | 1年 | $5,000~$12,000（包括制造与机械工程基础课程） |
+| Short-term Training Certificate | 6 months to 1 year | $3,000~$8,000 (Short courses in plastics processing offered by training organizations such as MITO or private institutions) |
+| New Zealand Qualifications Framework (NZQF) Level 2 certificate | 1 year | $5,000~$12,000 (Includes foundational courses in manufacturing and mechanical engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家制造证书（2级） | MITO（新西兰制造行业培训组织） | 可选 | 涵盖塑料加工、质量控制等核心技能 |
-| 工作场所安全培训 | 雇主或第三方培训 | 必备 | 需完成健康与安全培训，如Site Safe卡 |
-| 英语语言能力 | 雅思或PTE考试 | 必备 | AEWV要求雅思总分不低于4.0或同等水平 |
+| Workplace safety training | Employer or third-party training | Required | Must complete health and safety training, such as Site Safe card |
+| English language proficiency | IELTS or PTE exam | Required | AEWV requires IELTS overall score of at least 4.0 or equivalent |
+| New Zealand National Certificate in Manufacturing (Level 2) | MITO (Manufacturing Industry Training Organisation, New Zealand) | Optional | Covers core skills in plastic processing, quality control, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 500。新西兰制造业总体平稳，电缆制造岗位随建筑与基础设施需求波动，但自动化减少了对低技能操作员的需求。就业竞争中等，部分企业依赖移民工人填补空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 500. New Zealand's manufacturing sector is generally stable, with cable manufacturing roles fluctuating with construction and infrastructure demand, but automation has reduced demand for low-skilled operators. Employment competition is moderate, with some companies relying on migrant workers to fill vacancies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 小时工资约22-26纽元 |
-| 中级（3-6年） | $55,000~$65,000 | 小时工资约26-31纽元 |
-| 高级（6年以上） | $65,000~$75,000 | 小时工资约31-36纽元，部分主管可达8万 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately NZD 22-26 |
+| Mid-level (3–6 years) | $55,000~$65,000 | Hourly wage approximately NZD 26-31 |
+| Senior (6+ years) | $65,000~$75,000 | Hourly wage approx. $31-$36 NZD, some supervisors can reach $80,000 |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从操作员晋升为高级操作员、组长或生产主管，也可通过培训转向设备维护或质量控制岗位。需积累经验并取得相关证书以提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Plastic cable manufacturing machine operators have repetitive tasks and controlled environments, with high risk of automation replacement, and entry-level positions are notably shrinking. AI and robots will take over most operations, monitoring, and quality inspection tasks, leaving only a few equipment maintenance and anomaly handling positions.
+
+Can progress from operator to senior operator, team leader, or production supervisor, or move to equipment maintenance or quality control through training. Requires experience and relevant certifications to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Extruder parameter adjustment and process monitoring: AI vision and sensors optimize temperature and speed in real time without human intervention
+- Finished product appearance quality inspection: machine vision system automatically identifies insulation defects, bubbles, scratches
+- Winding and roll change operations: completed by robotic arms and automatic cutting devices, no manual assistance required.
+- Production data recording and reporting: system automatically collects output, energy consumption, downtime, and generates reports
+- Routine equipment alarm response: AI diagnoses and performs standard reset procedures without human judgment
+
+**Where AI augments the role:**
+
+- Predictive maintenance of equipment: AI analyses vibration and temperature data to provide advance warnings of bearing and screw wear, reducing unplanned downtime.
+- Process parameter optimization: AI simulation recommends optimal recipe and speed combinations to improve yield and efficiency
+- Remote collaborative diagnosis: AR glasses + AI knowledge base assist technicians in quickly identifying abnormal causes
+- Multi-line Flexible Scheduling: AI scheduling reallocates lines in real time based on orders, reducing changeover time
+- Safety and compliance monitoring: AI analyzes operational behavior, automatically flags unsafe actions, reducing injury risk
+
+**Human moat:**
+
+- On-site diagnosis and repair of equipment mechanical and electrical faults (requires hands-on skills and experience)
+- Trial production and process debugging of new cable materials (e.g., HVDC, superconductors)
+- Cross-system integration and automated production line modification (knowledge of PLC, robot programming)
+- Emergency response and safety decisions for sudden incidents (e.g., fire, material spill)
+- Communication and coordination with engineering designers and quality inspection engineers (requires understanding of technical specifications)
+
+**Skills to build:**
+
+- PLC and industrial automation control systems (such as Siemens, Mitsubishi)
+- Programming and debugging of industrial robots and collaborative robotic arms
+- Data analysis basics (Python or R for equipment monitoring and quality traceability)
+- Combined electrical and mechanical maintenance skills (electrician certificate preferred)
+- Digital twin and simulation software (e.g., WinCC, Plant Simulation)
+- Equipment maintenance strategy management (TPM, CMMS software operation)
+
+**Key growth areas:**
 
 - Automation Impact
 - Infrastructure Demand
@@ -64,66 +100,65 @@ Operate extrusion, cooling, and winding machinery to produce insulation or sheat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，总工资需达到中位数工资（2024年约29.66纽元/小时），可停留3年并可续签。 |
-| Subclass SMC（Skilled Migrant Category） | 若工资达到中位数的1.5倍（约44.49纽元/小时），可申请技术移民，但通常高级主管才有机会。 |
-| Subclass Green List T2（Green List - Tier 2 (Work to Residence)） | 该职业不在绿色清单上，不适用。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, total wage must meet the median wage (about NZ$29.66/hour in 2024), can stay for 3 years and renew. |
+| Subclass SMC (Skilled Migrant Category) | If the wage reaches 1.5 times the median (approx. 44.49 NZD/hour), you can apply for skilled migration, but usually only senior managers have this opportunity. |
+| Subclass Green List T2 (Green List - Tier 2 (Work to Residence)) | This occupation is not on the Green List and is not applicable. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plastic Cablemaking Machine Operator？**
-- 愿意在制造业工作、动手能力强、能接受轮班制的人
-- 寻求新西兰工签机会、愿意从初级岗位做起的人
-- 有塑料加工或机械操作经验、希望通过AEWV留在新西兰的人
-
-**谁不适合学Plastic Cablemaking Machine Operator？**
-- 计划通过技术移民快速获得永居的人（该职业移民难度高）
-- 追求高薪且工作轻松的人（薪资水平较低，工作强度中等）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those willing to work in manufacturing, with strong hands-on skills and ability to accept shift work
+- Those seeking New Zealand work visa opportunities and willing to start from entry-level positions
+- People with plastic processing or machinery operation experience who want to stay in New Zealand via the AEWV
+
+**Who is not suited**
+- People planning to obtain permanent residency quickly through skilled migration (this occupation has high migration difficulty)
+- People seeking high salary and easy work (low salary level, medium work intensity)
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for plastic cable manufacturing machine operators in New Zealand?**
+A: Junior operators earn an annual salary of about 45,000-55,000 NZD, intermediate to senior levels can reach 55,000-75,000 NZD, and hourly wages range from 22-36 NZD.
+
+**Q: Can this occupation apply for New Zealand skilled migration?**
+A: This occupation is not on the Green List and generally cannot directly apply for skilled migration. The common path is through an Accredited Employer Work Visa (AEWV) to work in New Zealand; if the wage reaches 1.5 times the median (approx. NZ$44.49/hour), skilled migration may be possible, but only in senior roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Plastic Cablemaking Machine Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for a Plastic Cablemaking Machine Operator in New Zealand?**
-答：Entry-level operators earn NZD 45,000-55,000; mid to senior level earn NZD 55,000-75,000, with hourly wages ranging from NZD 22-36.
-
-**问：Can this occupation apply for Skilled Migrant Category?**
-答：No, it is not on the Green List. The typical path is through an Accredited Employer Work Visa (AEWV). Only if the salary reaches 1.5 times the median wage (approx. NZD 44.49/hour) might SMC be possible, usually for senior roles.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

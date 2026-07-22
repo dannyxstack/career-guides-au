@@ -1,60 +1,95 @@
-# Civil Engineering Labourers（Civil Engineering Labourers）职业分析 · NL
+# Civil Engineering Labourers — career analysis · Netherlands
 
-**职业代码：9312 – Civil Engineering Labourers。**
+**Occupation code: 9312 (ISCO08)**
 
-Civil engineering labourers assist with concrete pouring, excavation, and material handling on construction sites, performing essential physical tasks in infrastructure projects.
+Civil engineering labourers assist with concrete pouring, excavation, material handling, and other basic tasks on construction sites, playing an essential physical role in infrastructure development.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-3年 | —（每年学费约 0-2000 欧元，部分课程免费） |
-| 短期培训课程 | 3-6个月 | $500~$3,000（职业培训中心提供，费用自付） |
+| Secondary vocational education (MBO) | 2-3 years | $0~$2,000 (Annual tuition approximately 0-2000 EUR, some courses are free) |
+| Short-term training course | 3-6 months | $500~$3,000 (Provided by vocational training centers, self-funded.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 通常不需要正式资格，雇主提供在职培训 |
-| 安全证书 (VCA) | 多家认证机构 | 可选 | 许多工地要求持有基本安全证书 |
+| No mandatory requirements | None | Optional | Usually no formal qualification required; employer provides on-the-job training |
+| Safety certificate (VCA) | Multiple certification bodies | Optional | Many construction sites require a basic safety certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。荷兰政府持续推进住房和交通基础设施建设，土木工程劳工需求稳定。但自动化技术可能减少部分低技能岗位，短期就业前景尚可。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The Dutch government continues to promote housing and transportation infrastructure construction, so demand for civil engineering laborers is stable. However, automation technology may reduce some low-skilled positions; short-term job prospects are fair.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $34,000~$40,000 | 税前年薪，含假期津贴 |
-| 高级（7年以上） | $40,000~$48,000 | 税前年薪，含假期津贴 |
+| Median salary | $32,011 | Median salary (Official: CBS median hourly wage €16.2/hour × 1976h annualized, BRC group 0781 Hulpkrachten bouw en industrie; P25–P75 €30,035–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $34,000~$40,000 | Pre-tax annual salary, including holiday allowance |
+| Senior (7+ years) | $40,000~$48,000 | Pre-tax annual salary, including holiday allowance |
+| average salary | $37,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从普通劳工起步，积累经验后可晋升为高级劳工、工头，或通过培训转岗至操作重型机械，如起重机或挖掘机司机。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Civil engineering laborers face high risk of automation compression; AI and robots will replace many repetitive physical tasks, but on-site flexibility retains human advantage.
+
+Typically start as general labourers, with experience can advance to senior labourer, foreman, or through training transfer to operating heavy machinery such as crane or excavator driver.
+
+**Tasks most exposed to AI:**
+
+- Automated concrete mixing and pouring: AI-controlled robotic arms complete pouring, reducing manual labor
+- Excavation and earthmoving: autonomous excavators operate precisely according to BIM models
+- Material handling and sorting: AGV carts for autonomous transport, AI recognition for sorting
+- On-site safety monitoring: AI vision system automatically detects violations, replacing manual inspections
+- Basic measurement and marking: Drone mapping automatically generates coordinates, reducing manual line laying
+
+**Where AI augments the role:**
+
+- AI schedule optimization: automatically plan daily tasks based on weather and material inventory
+- Digital twin perception: workers receive real-time construction instructions and risk alerts via AR glasses
+- Smart Tool Assistance: AI torque wrenches and auto leveling machines improve quality and efficiency
+- Real-time quality feedback: AI analyzes parameters like concrete slump to guide worker adjustments
+- Collaborative robot partner: human-machine collaboration for heavy object handling, reducing physical load
+
+**Human moat:**
+
+- Adaptability to complex environments: flexible judgment and problem-solving in unstructured construction sites
+- Manual finishing skills: Non-standardizable manual surface treatment, edging, and similar techniques
+- Team communication and coordination: liaise with different trades on site to resolve unexpected collaboration issues
+- Emergency Equipment Response: Manual inspection and temporary repair when machinery malfunctions
+
+**Skills to build:**
+
+- Basic mechanical operation and maintenance (e.g., excavators, bulldozers)
+- Basic BIM Model Reading and AR Device Usage
+- Basic programming skills (to control automated equipment)
+- Security management and emergency response capability
+- Digital tools (e.g., smart tablets, field apps)
+- Basic data analysis (reading AI scheduling suggestions)
+
+**Key growth areas:**
 
 - Infrastructure
 - Housing
@@ -63,67 +98,69 @@ Civil engineering labourers assist with concrete pouring, excavation, and materi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，劳工岗位不符合薪资门槛，通常不适用 |
-| Subclass EU Blue Card（EU Blue Card） | 需高学历和高薪，劳工岗位不符合条件 |
-| Subclass Orientation Year（Orientation Year） | 面向荷兰毕业留学生，可自由工作一年，不限于高技术岗位 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需额外签证 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled migrants; labour positions do not meet salary thresholds and are generally not applicable. |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary; labour positions do not qualify. |
+| Subclass Orientation Year (Orientation Year) | Aimed at international graduates in the Netherlands, allows one year of unrestricted work, not limited to highly skilled positions. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Civil Engineering Labourers？**
-- 体力好、能适应户外工作的人
-- 希望快速进入劳动力市场、无需高学历的人
-- 偏好动手操作、不追求办公室工作的人
+**Who is suited**
+- People with good physical strength who can adapt to outdoor work
+- For those seeking quick entry into the labor market without needing a higher degree
+- People who prefer hands-on work and do not seek office jobs
 
-**谁不适合学Civil Engineering Labourers？**
-- 希望高薪或快速职业晋升的人
-- 难以承受高强度体力劳动或恶劣天气的人
+**Who is not suited**
+- People seeking high salary or rapid career advancement
+- Those who cannot withstand high-intensity physical labor or harsh weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a civil engineering labourer in the Netherlands?**
+A: Entry-level labour annual salary approx. €28,000-34,000, mid-level €34,000-40,000, senior up to €48,000 (pre-tax).
+
+**Q: How can non-EU citizens immigrate to the Netherlands as civil engineering labourers?**
+A: Non-EU citizens usually cannot directly immigrate through labor jobs due to the high salary threshold of the skilled migration scheme. Consider free movement within the EU or finding a job through the Orientation Year after studying.
+
+**Q: What education background is needed to become a civil engineering laborer?**
+A: Formal qualifications are usually not required; employers provide on-the-job training. However, holding a VCA safety certificate or completing MBO-related courses can be advantageous.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Civil Engineering Labourers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for civil engineering labourers in the Netherlands?**
-答：Entry-level labourers earn €28,000-€34,000, mid-level €34,000-€40,000, and senior up to €48,000 per year (gross).
-
-**问：How can non-EU citizens migrate to the Netherlands as civil engineering labourers?**
-答：Non-EU citizens generally cannot migrate directly for this role due to high salary thresholds for skilled migrant schemes. Options include EU free movement or the Orientation Year after study.
-
-**问：What education is required to become a civil engineering labourer?**
-答：Formal education is not required; on-the-job training is provided. However, having a VCA safety certificate or MBO vocational training is advantageous.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

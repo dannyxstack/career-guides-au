@@ -1,60 +1,94 @@
-# Musical Instrument Maker and Tuner（Musical Instrument Maker and Tuner）职业分析 · IE
+# Musical Instrument Maker and Tuner — career analysis · Ireland
 
-**职业代码：7312 – Musical Instrument Maker and Tuner。**
+**Occupation code: 7312 (ISCO08)**
 
-Makes, repairs, and tunes musical instruments such as pianos, orchestral instruments, and guitars. Combines craftsmanship with acoustic knowledge, typically employed in workshops or retail stores.
+Responsible for manufacturing, repairing, and tuning musical instruments, including pianos, orchestral instruments, and guitars. Work involves craftsmanship and acoustic knowledge, typically found in instrument workshops or retail stores.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（部分培训由雇主提供，学费低） |
-| 职业教育证书 | 1-2年 | $3,000~$8,000（如都柏林理工学院短期课程） |
+| Apprenticeship | 3-4 years | $0~$5,000 (Some training provided by employers; low tuition fees) |
+| Vocational education certificate | 1-2 years | $3,000~$8,000 (Such as short courses at Dublin Institute of Technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒制证书 | SOLAS (爱尔兰继续教育与培训局) | 可选 | 完成3-4年学徒计划后获得 |
-| 钢琴调音师认证 | 爱尔兰钢琴调音师协会 | 可选 | 非强制但受雇主青睐 |
+| Apprenticeship certificate | SOLAS (Further Education and Training Authority, Ireland) | Optional | Obtained after completing a 3-4 year apprenticeship program |
+| Piano tuner certification | Irish Piano Tuners Association | Optional | Not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 200。爱尔兰对乐器制造与调音服务的需求稳定，主要源于音乐教育机构、乐团及个人爱好者。受经济周期影响较小，但市场规模有限，竞争适中。
+**Job demand: medium (★★½☆☆).** National workforce approx. 200. Demand for musical instrument manufacturing and tuning services in Ireland is stable, mainly driven by music education institutions, orchestras, and individual enthusiasts. It is less affected by economic cycles, but the market size is limited and competition moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒或助理技师 |
-| 中级（3-7年） | $32,000~$42,000 | 独立工作，部分经验 |
-| 高级（7年以上） | $42,000~$55,000 | 资深技师或工作室主管 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Apprentice or assistant technician |
+| Mid-level (3–7 years) | $32,000~$42,000 | Independent work, some experience |
+| Senior (7+ years) | $42,000~$55,000 | Senior technician or workshop supervisor |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级学徒或助理起步，积累经验后可晋升为高级技师或工坊主管。亦可自主创业开设乐器维修店，或专精于某一类乐器（如钢琴调音）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Instrument manufacturing and tuning is a mixed bag: AI can assist with precise tuning and repair diagnostics, but the core skills of handcrafting and fine acoustic adjustments are hard to replace, and clients' personalized tonal needs rely on human experience.
+
+Start as a junior apprentice or assistant, gain experience, then advance to senior technician or workshop supervisor. You can also start your own instrument repair shop or specialize in a type of instrument (e.g., piano tuning).
+
+**Tasks most exposed to AI:**
+
+- Basic tuning and correction (e.g., standard pitch tuning for pianos)
+- Automated diagnostic report of acoustic defects in musical instruments
+- Standardization of simple repair processes (e.g., crack repair)
+- Inventory management and parts ordering records
+
+**Where AI augments the role:**
+
+- Using acoustic analysis software to precisely optimize timbre curves
+- Assist in vintage instrument reproduction using 3D scanning and digital modeling.
+- Using AI to simulate the impact of different materials on sound quality
+- Synchronize customer preferences and customization plans through remote collaboration platforms
+
+**Human moat:**
+
+- Subjective aesthetic judgment of instrument tone and feel
+- Fine craftsmanship such as hand carving and inlay
+- Customize instruments based on the performer's technique
+- Experience in matching materials with period styles in the restoration of ancient musical instruments
+- High-trust communication with artist clients
+
+**Skills to build:**
+
+- Operation of acoustic measurement software (e.g., Smaart, REW).
+- Basics of 3D modelling and printing (for making repair parts)
+- Basic electronic sensor applications (monitoring temperature and humidity changes)
+- Digital marketing and social media to showcase craftsmanship
+- Customer needs analysis and customized solution communication
+- Knowledge of sustainable materials and environmental technologies
+
+**Key growth areas:**
 
 - Bespoke instruments
 - Music education
@@ -63,65 +97,67 @@ Makes, repairs, and tunes musical instruments such as pianos, orchestral instrum
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，年薪不低于30,000欧元。该职业不在紧缺清单，需通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪不低于43,456欧元（2024年标准），通常要求高等教育学历，不适合此职业。 |
+| Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, minimum annual salary of €30,000. This occupation is not on the shortage list and requires a labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of no less than €43,456 (2024 standard), typically requiring higher education qualifications, not suitable for this occupation. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Musical Instrument Maker and Tuner？**
-- 动手能力强，注重细节
-- 对声学与音乐有浓厚兴趣
-- 愿意通过学徒制积累经验
+**Who is suited**
+- Hands-on, detail-oriented.
+- Strong interest in acoustics and music
+- Willing to gain experience through an apprenticeship.
 
-**谁不适合学Musical Instrument Maker and Tuner？**
-- 追求高薪与快节奏工作
-- 缺乏耐心与精细操作能力
+**Who is not suited**
+- Pursuing high salary and fast-paced work
+- Lack of patience and fine motor skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for musical instrument makers in Ireland?**
+A: Junior annual salary approx. 25,000-32,000 euros; senior up to 55,000 euros. Salary is below average, but income after self-employment is more flexible.
+
+**Q: Can foreign musical instrument makers immigrate to Ireland?**
+A: This occupation is not on the shortage list; application is through a General Employment Permit, requiring employer sponsorship and a labor market test. EU citizens have free movement.
+
+**Q: How to become a musical instrument maker in Ireland?**
+A: Mainly through 3-4 year apprenticeships (regulated by SOLAS) or vocational certificate courses. Apprentices learn on the job and receive wages.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Musical Instrument Maker and Tuner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for musical instrument makers in Ireland?**
-答：Entry-level salaries range from €25,000 to €32,000, while experienced makers can earn up to €55,000. Income is moderate but can increase with self-employment.
-
-**问：Can foreign musical instrument makers immigrate to Ireland?**
-答：This occupation is not on the shortage list. A General Employment Permit requires employer sponsorship and a labor market test. EU citizens have free movement.
-
-**问：How to become a musical instrument maker in Ireland?**
-答：Typically through a 3-4 year apprenticeship (regulated by SOLAS) or vocational certificate programs. Apprentices earn while learning.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,91 @@
-# Photographic and film processors（Photographic and film processors）职业分析 · 加拿大
+# Photographic and film processors — career analysis · Canada
 
-**职业代码：94153 – Photographic and film processors。**
+**Occupation code: 94153 (NOC)**
 
-Operate equipment to develop photographs, process film and digital images, including color correction, cropping and printing. Work in photo labs, studios, or retail stores.
+Operate equipment to develop photos, process film and digital images, including color adjustment, cropping, and printing. Typically work in photo studios, photography studios, or printing labs.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常在职培训） |
-| 大专证书/摄影课程 | 1年 | $3,000~$12,000（社区学院或私立学校） |
+| High school graduation | None | $0~$0 (Usually on-the-job training) |
+| Diploma/photography course | 1 year | $3,000~$12,000 (Community college or private institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | — | 可选 | 雇主通常提供在职培训 |
+| No mandatory requirements | — | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。随着数码摄影和智能手机普及，传统胶片处理需求持续下降。从业人数较少，岗位多集中在提供照片打印和个性化产品（如相册）的零售店。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. With the popularity of digital photography and smartphones, demand for traditional film processing continues to decline. Small workforce, mostly in retail stores offering photo printing and personalised products like photo albums.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 零售照片部或小型冲印店 |
-| 中级（3-6年） | $35,000~$42,000 | 专业实验室或大型零售连锁 |
-| 高级（6年以上） | $42,000~$50,000 | 主管或自营工作室 |
+| Median salary | $41,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Retail photo department or small photo lab |
+| Mid-level (3–6 years) | $35,000~$42,000 | Specialized laboratory or large retail chain |
+| Senior (6+ years) | $42,000~$50,000 | Supervisor or self-owned studio |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可向专业数码图像编辑、摄影助理或自营照相馆发展。部分经验者可通过进修转向商业摄影或平面设计。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Photography and film processing workers face high automation risk; AI and digital technology will significantly replace traditional darkroom and basic image processing work, with job demand continuously declining.
+
+Can progress to professional digital image editing, photography assistant, or self-operated photo studio. Some experienced individuals can transition to commercial photography or graphic design.
+
+**Tasks most exposed to AI:**
+
+- Automatically process photos and films, including chemical solution mixing and temperature control
+- Basic color correction, cropping, and exposure adjustments
+- Batch processing and format conversion of digital photos
+- Film scanning and digital archiving
+
+**Where AI augments the role:**
+
+- Using AI for complex color grading and artistic style transfer
+- Restore old photos or damaged film with AI assistance
+- Using smart software to manage image workflows and improve efficiency
+- Combined with AI auto-batch processing, shifting human work to creative decision-making
+
+**Human moat:**
+
+- High-precision color aesthetics and artistic judgment
+- Knowledge of special films and antique photography processes.
+- Customized services and client communication skills
+- Creative image synthesis and post-production conceptualization
+
+**Skills to build:**
+
+- Proficient in professional image software such as Adobe Photoshop and Lightroom
+- Learn AI image processing tools (e.g., Topaz, Luminar Neo).
+- Proficient in digital asset management (DAM) systems
+- Understanding photography history and traditional darkroom techniques for restoration
+- Enhance client communication and project management skills
+
+**Key growth areas:**
 
 - digital transition
 - print-on-demand
@@ -62,63 +94,65 @@ Operate equipment to develop photographs, process film and digital images, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA雇佣外国工人，但由于岗位低技能且非紧缺，获批难度大。 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to hire foreign workers, but due to the low-skilled nature of the role and it not being in shortage, approval is difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Photographic and film processors？**
-- 对摄影和图像处理有耐心的人
-- 注重细节，喜欢手工操作
+**Who is suited**
+- Those with patience for photography and image processing
+- Detail-oriented, prefers hands-on work
 
-**谁不适合学Photographic and film processors？**
-- 希望高薪或快速移民的人
-- 追求长期职业稳定者
+**Who is not suited**
+- Those hoping for high salary or fast immigration
+- Those seeking long-term career stability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Junior annual salary approx. CAD 28,000-35,000, senior up to CAD 42,000-50,000, relatively low salary.
+
+**Q: Is this occupation easy to immigrate to Canada?**
+A: Very difficult. This occupation is not classified as high-skilled and cannot directly apply through federal skilled migration or provincial nomination; it may only be possible via an LMIA work visa, but approval chances are low.
+
+**Q: What is the future outlook for this occupation?**
+A: Poor prospects. Film demand has dropped sharply, digital technology is further automating, and jobs continue to decline.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Photographic and film processors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is about CAD 28,000–35,000, senior up to CAD 42,000–50,000, relatively low.
-
-**问：Is it easy to immigrate to Canada as a photographic processor?**
-答：Very difficult. This occupation is low-skilled, not eligible for Federal Skilled Worker or PNP; only possible via LMIA work permit with low success rate.
-
-**问：What is the future outlook for this occupation?**
-答：Poor. Film demand has dropped significantly, digital automation is reducing jobs further.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

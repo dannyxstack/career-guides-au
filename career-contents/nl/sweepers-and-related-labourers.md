@@ -1,58 +1,91 @@
-# Sweepers and Related Labourers（Sweepers and Related Labourers）职业分析 · NL
+# Sweepers and Related Labourers — career analysis · Netherlands
 
-**职业代码：9613 – Sweepers and Related Labourers。**
+**Occupation code: 9613 (ISCO08)**
 
-Sweepers and related labourers clean streets, public areas, and buildings to maintain hygiene. Stable demand in the Netherlands but low income.
+Cleaners are responsible for sweeping streets, public places, and building interiors to maintain environmental hygiene. This occupation has stable demand in the Netherlands but low income.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（通常无需正规教育） |
+| No formal education requirements | None | $0~$0 (Usually no formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 部分雇主要求健康证明 |
+| No mandatory qualification | None | Optional | Some employers require health certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 15,000。荷兰清洁服务需求稳定，城市化与人口增长推动就业，但自动化可能减少低技能岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Demand for cleaning services in the Netherlands is stable, driven by urbanization and population growth, but automation may reduce low-skilled jobs.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$30,000 | 税前年薪 |
-| 高级（>7年） | $30,000~$35,000 | 税前年薪 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$30,000 | Annual pre-tax salary |
+| Senior (>7 years) | $30,000~$35,000 | Annual pre-tax salary |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从清洁工晋升为清洁主管或区域经理，但需积累经验及管理技能。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Cleaners face risk of replacement by automated cleaning robots, but complex environments and fine cleaning still require humans; jobs shrink and barriers lower.
+
+Can advance from cleaner to cleaning supervisor or regional manager, but requires experience and management skills.
+
+**Tasks most exposed to AI:**
+
+- Automatic cleaning of large hard floors
+- Automatic emptying of public garbage bins
+- Simple surface wiping and disinfection
+- Standardized bathroom cleaning
+
+**Where AI augments the role:**
+
+- Use robots to plan optimal cleaning routes
+- Monitor cleaning quality via sensors
+- Using data analysis to schedule cleaning frequency
+- Operate intelligent cleaning equipment to handle special stains
+
+**Human moat:**
+
+- Decision-making in unstructured environments (e.g., temporary obstacles)
+- Detailed cleaning and customer interaction
+- Security checks and emergency response
+- Multitasking coordination and flexibility
+
+**Skills to build:**
+
+- Operation and maintenance of smart cleaning equipment
+- Basic data analysis (cleaning frequency optimization)
+- Customer communication and complaint handling
+- Multilingual skills (e.g., English, Chinese)
+- Safety and environmental knowledge
+- Simple programming (equipment debugging)
+
+**Key growth areas:**
 
 - Demand Stable
 - Urban Growth
@@ -61,63 +94,65 @@ Sweepers and related labourers clean streets, public areas, and buildings to mai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，但清洁工通常不满足要求 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 需工资门槛（2024年约€5,008/月），清洁工极难达到 |
-| Subclass Orientation Year（Orientation Year） | 适用于非欧盟毕业生搜索工作，清洁工职位可能符合 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but cleaners usually do not meet the requirements |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | The required salary threshold (approx. €5,008/month in 2024) is extremely difficult for cleaners to meet. |
+| Subclass Orientation Year (Orientation Year) | Applicable for non-EU graduates seeking jobs; cleaner roles may qualify |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sweepers and Related Labourers？**
-- 需要稳定低收入工作的人群
-- 无学历要求的工作寻求者
-- 希望快速就业的移民
+**Who is suited**
+- People who need stable low-income jobs
+- Job seekers with no educational requirements
+- Immigrants seeking rapid employment
 
-**谁不适合学Sweepers and Related Labourers？**
-- 期望高收入者
-- 追求职业发展者
+**Who is not suited**
+- High-income seekers
+- Career seekers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a cleaner in the Netherlands?**
+A: Annual pre-tax salary approximately €22,000-€35,000, depending on experience and region.
+
+**Q: Can a cleaner apply for skilled migration to the Netherlands?**
+A: Difficult, due to high salary requirements (Highly Skilled Migrant needs €5,008/month) and the occupation is not in shortage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sweepers and Related Labourers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sweepers in the Netherlands?**
-答：Gross annual salary ranges from €22,000 to €35,000, depending on experience and location.
-
-**问：Can sweepers apply for skilled migration to the Netherlands?**
-答：It's difficult due to high salary thresholds (€5,008/month for Highly Skilled Migrant) and the occupation not being in shortage.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

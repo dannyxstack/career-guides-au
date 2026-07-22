@@ -1,60 +1,96 @@
-# Pharmacy Aides（Pharmacy Aides）职业分析 · 美国
+# Pharmacy Aides — career analysis · United States
 
-**职业代码：31-9095 – Pharmacy Aides。**
+**Occupation code: 31-9095 (SOC)**
 
-Pharmacy aides record drug deliveries, store merchandise, inform supervisors of stock needs, and may operate cash registers and accept prescriptions. They provide essential support in pharmacy operations.
+Pharmacy assistants record delivered medications, store incoming stock, notify supervisors of inventory needs, and may operate cash registers and receive prescriptions. This role is a support role in the pharmacy team.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 药房技师培训证书 | 1年 | $1,000~$5,000（社区大学或职业培训项目） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Pharmacy technician training certificate | 1 year | $1,000~$5,000 (Community college or vocational training program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证或同等学历 | 高中 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 可选 | 通常入职后提供短期培训 |
+| High school diploma or equivalent | High school | Required | Basic entry requirements |
+| On-the-job training | Employer | Optional | Typically short-term training provided upon hiring |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 29,500。随着人口老龄化和处方药需求增长，药房助理就业前景稳定。但自动化可能减少部分任务需求，预计2023-2033年就业增长约5%，与平均水平持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 29,500. With an aging population and growing demand for prescription drugs, employment prospects for Pharmacy Assistants are stable. However, automation may reduce some task needs, with projected employment growth of about 5% from 2023 to 2033, similar to the average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 时薪约12-15美元 |
-| 中级（3-5年） | $32,000~$38,000 | 时薪约15-18美元 |
-| 高级（5年以上） | $38,000~$45,000 | 含主管职责，时薪约18-22美元 |
+| Median salary | $37,680 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$32,000 | Hourly wage about 12-15 USD |
+| Mid-level (3–5 years) | $32,000~$38,000 | Hourly wage about $15-$18 |
+| Senior (5+ years) | $38,000~$45,000 | Includes supervisory duties; hourly wage approx. USD 18-22 |
+| average salary | $40,450 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 药房助理可通过积累经验晋升为药房技师，需通过认证考试。部分助理可进修药学学位成为药剂师，或转向药房管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Pharmacy assistants face high risk of automation, with AI and robots taking over core tasks like inventory management, prescription receiving, and checkout, potentially leading to significant job reductions.
+
+Pharmacy assistants can advance to pharmacy technicians through experience and certification exams. Some assistants pursue a pharmacy degree to become pharmacists or move into pharmacy management roles.
+
+**Tasks most exposed to AI:**
+
+- Use automated systems to record and track medication inventory.
+- Receive and enter prescriptions via AI voice or interface
+- Operating self-checkout machines and digital payment systems
+- Generate inventory shortage reports and automatically trigger procurement
+- Verify drug expiration dates and batch information
+
+**Where AI augments the role:**
+
+- Use AI to assist with customer medication consultations and reminders
+- Optimize inventory turnover and reduce waste through data analysis
+- Use smart systems to improve prescription filling speed and accuracy
+- Uses machine learning to identify drug interaction warnings.
+- Enhance compliance document processing efficiency through automated management systems
+
+**Human moat:**
+
+- Provide personalized human care and emotional support to patients.
+- Handling complex non-standard customer complaints and disputes
+- Clinical communication and collaboration with medical teams
+- Flexible response and manual operation in emergency situations
+- Understand and comply with local medical regulations and ethical requirements
+
+**Skills to build:**
+
+- Proficiency in pharmacy management software (e.g., QSI, PDX)
+- Learn data analysis basics (Excel, SQL)
+- Familiarity with AI-assisted tools (e.g., speech recognition, chatbots)
+- Enhance customer service and communication skills
+- Understand basic drug knowledge and regulations
+- Obtain Pharmacy Technician certification to enhance competitiveness
+
+**Key growth areas:**
 
 - Stable demand
 - Aging population
@@ -63,65 +99,67 @@ Pharmacy aides record drug deliveries, store merchandise, inform supervisors of 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 药房助理通常不满足专业职位要求，H-1B申请困难。 |
-| Subclass EB-3（EB-3 Skilled or Other Worker） | 可能作为其他工人类别申请，但需要PERM劳工证，雇主赞助难度高。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Pharmacy assistants typically do not meet professional occupation requirements, H-1B applications are difficult. |
+| Subclass EB-3 (EB-3 Skilled or Other Worker) | May apply under other worker categories, but requires PERM labor certification and high employer sponsorship difficulty. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pharmacy Aides？**
-- 耐心细致、善于沟通的求职者
-- 有志于医疗行业但学历有限的入门者
-- 寻求稳定工作且不介意重复性任务的人
+**Who is suited**
+- Job seekers who are patient, meticulous, and good at communicating
+- Entry-level individuals aspiring to work in healthcare but with limited education.
+- People seeking stable work who don't mind repetitive tasks
 
-**谁不适合学Pharmacy Aides？**
-- 追求高薪和快速晋升的人
-- 无法适应站立工作或繁忙环境的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who cannot adapt to standing work or busy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a pharmacy assistant?**
+A: According to BLS data, the median annual salary in 2023 was approximately $33,000, entry-level around $26,000-$32,000, and senior up to $45,000.
+
+**Q: Is it easy for a pharmacy assistant to immigrate to the US?**
+A: Very difficult. This occupation typically does not meet H-1B professional job requirements, and employer sponsorship for a green card is rare. Consider pharmacy technician (requires certification) or pharmacist pathways.
+
+**Q: What educational background is needed to become a pharmacy assistant?**
+A: Usually only a high school diploma is required, with on-the-job training provided by the employer. Some pharmacies prefer candidates with a pharmacy technician certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pharmacy Aides属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for pharmacy aides?**
-答：According to BLS, the median annual wage in 2023 is about $33,000. Entry-level earn $26,000-$32,000, while experienced aides can earn up to $45,000.
-
-**问：Is it easy to immigrate to the US as a pharmacy aide?**
-答：Very difficult. The occupation usually does not qualify for H-1B, and employer-sponsored green cards are rare. Consider becoming a pharmacy technician (with certification) or pharmacist instead.
-
-**问：What education is needed to become a pharmacy aide?**
-答：Typically only a high school diploma is required, with on-the-job training provided. Some employers prefer candidates with a pharmacy technician certificate.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

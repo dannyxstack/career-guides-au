@@ -1,60 +1,96 @@
-# Chiropractor（Chiropractor）职业分析 · 新西兰
+# Chiropractor — career analysis · New Zealand
 
-**职业代码：252311 – Chiropractor。**
+**Occupation code: 252311 (ANZSCO)**
 
-Chiropractors in New Zealand are registered professionals who treat neuromuscular disorders through manual adjustment of the spine and joints. The occupation is on the Green List Tier 1, enabling direct residence, with clear migration pathways, competitive salaries, and stable demand.
+Chiropractors in New Zealand are registered and practice by using manual adjustments to the spine and joints to treat neuromuscular skeletal issues. This occupation is on Green List Tier 1, allowing direct residence application with clear immigration pathway, good salary, and stable demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 5年制学士学位（脊椎治疗学） | 5年 | $120,000~$160,000（如新西兰的NZCC、奥克兰理工大学；国际生学费更高） |
-| 硕士或研究生文凭（可替代部分学士课程） | 2年 | $60,000~$90,000（仅适用于已获海外认可学位者） |
+| 5-year bachelor's degree (chiropractic) | 5 years | $120,000~$160,000 (Such as NZCC and Auckland University of Technology in New Zealand; international student tuition is higher.) |
+| Master's or postgraduate diploma (can replace part of bachelor's courses) | 2 years | $60,000~$90,000 (Only applicable to those with an overseas recognized degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 脊椎治疗学学士（BSc Chiropractic） | 新西兰脊椎治疗学院(NZCC)或奥克兰理工大学(AUT) | 必备 | 5年制；含1000+小时临床实践 |
-| 新西兰脊椎治疗师注册 | 新西兰脊椎治疗委员会(New Zealand Chiropractic Board) | 必备 | 通过笔试和临床考试；需满足品行与健康要求 |
-| 年度执业证书(APC) | 新西兰脊椎治疗委员会 | 必备 | 每年续签；需完成持续教育 |
-| 雅思总分7.0或OET B级 | IELTS/OET | 可选 | 用于海外资格申请人注册 |
+| Bachelor of Science in Chiropractic (BSc Chiropractic) | New Zealand College of Chiropractic (NZCC) or Auckland University of Technology (AUT) | Required | 5-year program; includes 1,000+ hours of clinical practice |
+| New Zealand Chiropractor registration | New Zealand Chiropractic Board | Required | Pass written and clinical exams; meet character and health requirements |
+| Annual Practicing Certificate (APC) | New Zealand Chiropractic Board | Required | Renewed annually; continuing education required |
+| IELTS overall 7.0 or OET Grade B | IELTS/OET | Optional | For registration of overseas-qualified applicants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 900。新西兰人口老龄化及对非侵入性疼痛管理的偏好推动脊椎治疗服务需求持续增长。用工缺口集中在奥克兰、基督城等城市，初级职位竞争中等，有经验的治疗师易就业。预计未来5年从业人数将小幅增长。
+**Job demand: high (★★★★☆).** National workforce approx. 900. New Zealand's aging population and preference for non-invasive pain management drive continued growth in chiropractic service demand. Labor gaps are concentrated in cities like Auckland and Christchurch. Entry-level competition is moderate; experienced therapists find jobs easily. Practitioner numbers are expected to grow slightly over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 受雇于诊所或健康中心 |
-| 中级（4-7年） | $70,000~$90,000 | 有稳定客户群；部分自雇收入更高 |
-| 高级（8年+） | $90,000~$140,000 | 行业资深或诊所合伙人；顶尖者可达$150,000+ |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Employed by clinics or health centers |
+| Mid-level (4-7 years) | $70,000~$90,000 | Have a stable client base; some self-employed earn higher |
+| Senior (8+ years) | $90,000~$140,000 | Industry veteran or clinic partner; top earners can reach $150,000+ |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业发展通常从初级助理治疗师或开设小诊所起步，逐步积累客户资源后可晋升为高级治疗师、诊所合伙人。部分治疗师转向体育专项、儿科或教学研究，或通过进修获得更高学位提升专业地位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chiropractors' core clinical decisions are hard to replace by AI, but administrative tasks, data collation, and initial image screening are being compressed by automation tools, while AI (e.g., digital patient consultations, image analysis) also creates new opportunities for service extension and efficiency improvement.
+
+Career development typically starts as junior assistant therapist or opening a small clinic, gradually building client base to advance to senior therapist or clinic partner. Some therapists specialize in sports, pediatrics, or teaching/research, or pursue higher degrees to enhance professional status.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and archiving of medical records and insurance documents
+- Preliminary spinal abnormality detection reports based on imaging
+- Routine patient appointments, scheduling, and phone follow-ups
+- Automated processing of standardized health questionnaires and pain assessments
+- Automated distribution and tracking of remote patient education materials
+
+**Where AI augments the role:**
+
+- AI-assisted 3D spinal posture analysis for more precise adjustment plans
+- Risk Stratification and Personalized Treatment Plans Based on Patient History Data
+- Real-time voice transcription and AI-generated SOAP notes to reduce paperwork
+- Virtual reality tools assist patients in feedback-based rehabilitation training
+- AI-driven evidence-based decision support integrating latest research findings
+
+**Human moat:**
+
+- Dynamic, individualized spinal adjustments through manual palpation
+- Building long-term trust in therapeutic relationships and providing psychological comfort to patients
+- Integrated assessment combining medical history, lifestyle, and psychological state
+- Clinical reasoning for complex comorbidities and atypical symptoms
+- Coordination and communication with referring doctors (GPs/specialists)
+
+**Skills to build:**
+
+- Basic use and result interpretation of AI imaging tools (e.g., SpineView)
+- Advanced configuration and data analysis of electronic medical record systems
+- Telehealth communication and virtual patient management
+- Proficiency in Python or R for basic clinical data statistics
+- Learning to use digital patient education platforms
+- Evidence-based practice and machine learning basics (understand AI limitations)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Chiropractors in New Zealand are registered professionals who treat neuromuscula
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 职业在绿色清单Tier 1，持新西兰注册且已在或已获得工作offer，可直接申请居留 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 现行6分制下，注册职业+新西兰工作可快速积累分数，路径清晰 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若暂不符合直接居留条件，可通过认证雇主工签先工作，积累经验后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Occupation on Green List Tier 1, with New Zealand registration and a job offer or already employed, allows direct application for residence |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Under the current 6-point system, registered occupation plus New Zealand job can quickly accumulate points; clear pathway |
+| Subclass AEWV (Accredited Employer Work Visa) | If not immediately eligible for residence, can work under an employer-sponsored work visa first, then transition to residence after gaining experience |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chiropractor？**
-- 热爱解剖学和生物力学，喜欢动手治疗
-- 具有良好沟通能力，能建立长期客户关系
-- 有意通过技术移民快速获得新西兰居留权的医疗专业人员
-
-**谁不适合学Chiropractor？**
-- 对长时间站立和体力操作感到吃力
-- 偏好无执业风险或医疗纠纷风险低的职业
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about anatomy and biomechanics, enjoy hands-on treatment
+- Good communication skills to build long-term client relationships
+- Medical professionals seeking to quickly obtain New Zealand residency through skilled migration
+
+**Who is not suited**
+- Those who struggle with prolonged standing and physical tasks
+- Preferring occupations with low risk of malpractice or medical disputes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a chiropractor in New Zealand?**
+A: Chiropractors employed by clinics typically earn between $55,000-$90,000 annually, with mid-level around $70,000-$90,000, while senior or self-employed practitioners can earn over $140,000.
+
+**Q: How can chiropractors immigrate to New Zealand through the Green List?**
+A: This occupation is on the Green List Tier 1. Must first obtain registration with the New Zealand Chiropractic Board, then find a job offer from an employer to directly apply for the Straight to Residence Visa, without needing to work on a work visa for two years first.
+
+**Q: How can overseas chiropractors register in New Zealand?**
+A: Must submit qualifications and assessment to the New Zealand Chiropractic Board, usually requiring a recognized bachelor's degree in chiropractic, along with language scores (IELTS 7.0 or OET B). Registration is obtained after passing the Board's written and clinical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Chiropractor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a chiropractor in New Zealand?**
-答：Salaried chiropractors earn between NZD 55,000 and NZD 90,000 per year, with mid-level around $70,000-$90,000, and senior or self-employed chiropractors can exceed $140,000.
-
-**问：How can chiropractors migrate to New Zealand via the Green List?**
-答：Chiropractor is on the Green List Tier 1. You need to obtain registration with the New Zealand Chiropractic Board, then secure a job offer from an employer. You can directly apply for a Straight to Residence Visa without a two-year work period.
-
-**问：How can overseas chiropractors register in New Zealand?**
-答：You must submit your qualifications and experience for assessment to the New Zealand Chiropractic Board. A recognized Bachelor of Chiropractic is typically required, along with English language results (IELTS 7.0 or OET B). You then pass the Board's written and clinical exams to obtain registration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Graphic and Multimedia Designer（Graphic and Multimedia Designer）职业分析 · ES
+# Graphic and Multimedia Designer — career analysis · Spain
 
-**职业代码：2484 – Graphic and Multimedia Designer。**
+**Occupation code: 2484 (CNO)**
 
-Create visual concepts using computer software or by hand to communicate ideas that inspire, inform, and captivate consumers in advertising, publishing, web, video games, and multimedia.
+Responsible for creating visual concepts, using computer software or hand-drawn methods to convey creativity, applied in advertising, publishing, web pages, video games, and multimedia fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $1,000~$4,000（公立大学年均学费约1,000-2,000欧元，私立约4,000-8,000欧元） |
-| 职业培训 | 2年（FP Grado Superior） | —（公立FP几乎免费，仅注册费） |
-| 硕士 | 1年（Máster） | $2,000~$10,000（公立硕士约2,000-5,000欧元，私立约5,000-10,000欧元） |
+| University bachelor's degree | 4 years (Grado) | $1,000~$4,000 (The average annual tuition for public universities is about 1,000-2,000 euros, while private tuition is about 4,000-8,000 euros) |
+| Vocational training | 2 years (FP Grado Superior) | $0~$500 (Public FPs are almost free, with only a registration fee) |
+| Master's degree | Year 1 (Máster) | $2,000~$10,000 (Public master's degrees cost about 2,000-5,000 euros, private programs about 5,000-10,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（Grado） | 西班牙大学 | 可选 | 设计、美术或相关领域学位，非强制性但深受雇主欢迎 |
-| 职业培训文凭（FP Grado Superior） | 教育部 | 可选 | 平面设计或多媒体相关即可胜任岗位 |
-| Adobe认证专家（ACE） | Adobe | 可选 | Photoshop、Illustrator等工具认证，提升竞争力 |
+| University Degree (Grado) | Spanish University | Optional | Degrees in design, fine arts, or related fields, not mandatory but highly sought after by employers |
+| Diploma in Vocational Training (FP Grado Superior) | Ministry of Education | Optional | Graphic design or multimedia-related positions are sufficient |
+| Adobe Certified Expert (ACE) | Adobe | Optional | Certification of tools such as Photoshop and Illustrator to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙数字媒体与广告行业持续增长，带动设计师需求；但初级岗位竞争激烈，具备编程与3D技能者更有优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spain's digital media and advertising industry continues to grow, driving demand for designers; However, entry-level positions are highly competitive, and those with programming and 3D skills have an advantage.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，马德里和巴塞罗那略高 |
-| 中级（3-7年） | $24,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$50,000 | 创意总监或专业领域可达更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salaries are slightly higher in Madrid and Barcelona |
+| Mid-level (3–7 years) | $24,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$50,000 | Creative directors or specialists can reach even higher levels |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级设计师可晋升为高级设计师、创意总监或艺术总监；也可专攻UX/UI、动态图形或前端开发。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
+
+Junior designers can be promoted to senior designers, creative directors, or art directors; You can also specialize in UX/UI, motion graphics, or front-end development.
+
+**Tasks most exposed to AI:**
+
+- Batch generation of social media templates and ad banners
+- Basic image processing (cutout, color adjustment, filters)
+- Automatically completing layout and formatting based on preset styles
+- Generate simple logo and icon drafts
+- Automated output of print-ready files (bleeds, crop marks)
+
+**Where AI augments the role:**
+
+- Generate creative sketches with AI to rapidly iterate design proposals
+- Leverage AI to analyze user data and optimize visual strategies
+- AI-assisted font matching and color matching to improve design efficiency
+- Auto-generate design variants for A/B testing
+- AI tools enable rapid prototyping of video and motion graphics
+
+**Human moat:**
+
+- Deep understanding of brand strategy and user psychology to define visual direction
+- Original creativity and unique artistic expression
+- Cross-media storytelling (print + digital + environment)
+- Efficient communication and feedback integration with clients and teams
+- Sharp insight into cultural trends and social contexts
+
+**Skills to build:**
+
+- AI design tools (Midjourney, DALL·E 3, Adobe Firefly)
+- Motion design and video editing (After Effects, Premiere Pro)
+- User Experience and Interface Design (Figma, Sketch)
+- Data visualization and infographic design
+- Project management and client communication (agile collaboration)
+- 3D modeling and rendering basics (Blender, C4D)
+
+**Key growth areas:**
 
 - Digitalization
 - UX/UI Design
@@ -63,67 +99,66 @@ Create visual concepts using computer software or by hand to communicate ideas t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人才，需高等教育或5年经验，年薪门槛约34,000欧元（2024年）。 |
-| Subclass Altamente cualificad（High-Skilled Professional (Ley 14/2013)） | 适用于创新或战略职位，无需劳动市场测试，可快速获批居留。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙公司担保的普通工作居留，需证明职位无法由欧盟公民填补。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, higher education or 5 years of experience is required, with an annual salary threshold of about 34,000 euros (2024). |
+| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Suitable for innovative or strategic positions, requiring no labor market testing and allowing for rapid residency approval. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence guaranteed by a Spanish company requires proof that the position cannot be filled by an EU citizen. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Graphic and Multimedia Designer？**
-- 有艺术天赋且熟练使用设计软件者
-- 对数字媒体与交互设计感兴趣者
-
-**谁不适合学Graphic and Multimedia Designer？**
-- 缺乏创意且不愿学习新技术者
-- 抗拒AI工具与自动化趋势者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Artistic talent and proficiency in using design software
+- Those interested in digital media and interactive design
+
+**Who is not suited**
+- Those lacking creativity and unwilling to learn new technologies
+- Resisting AI tools and automation trends
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for graphic and multimedia designers in Spain?**
+A: Junior designers earn about 18,000-24,000 euros per year, intermediate designers 24,000-35,000 euros, and senior designers 35,000-50,000 euros. Big cities offer higher salaries, but competition is fiercer.
+
+**Q: How can foreign designers immigrate to Spain?**
+A: Applications can be made through the EU Blue Card (requiring high education and salary) or the Highly Skilled Professional Visa (Ley 14/2013). Ordinary work residence requires sponsorship from a Spanish employer.
+
+**Q: What are the career advancement paths for this occupation?**
+A: Promotion to Senior Designer, Art Director, or Creative Director. You can also specialize in UX/UI design, front-end development, or motion graphics, with higher salaries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 4年（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Graphic and Multimedia Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for graphic and multimedia designers in Spain?**
-答：Entry-level designers earn approximately €18,000-24,000 per year, mid-level €24,000-35,000, and senior €35,000-50,000. Salaries are higher in major cities, but competition is also fiercer.
-
-**问：How can foreign designers immigrate to Spain?**
-答：They can apply for an EU Blue Card (requires high education and salary) or the High-Skilled Professional visa (Ley 14/2013). Regular work permits require employer sponsorship.
-
-**问：What are the career progression paths?**
-答：Designers can advance to senior designer, art director, or creative director. Specializing in UX/UI, front-end development, or motion graphics may lead to higher salaries.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

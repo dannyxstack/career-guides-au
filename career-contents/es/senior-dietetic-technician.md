@@ -1,61 +1,95 @@
-# Senior Dietetic Technician（Senior Dietetic Technician）职业分析 · ES
+# Senior Dietetic Technician — career analysis · Spain
 
-**职业代码：3323 – Senior Dietetic Technician。**
+**Occupation code: 3323 (CNO)**
 
-Senior Dietetic Technicians in Spain assess dietary needs, design nutrition plans, and provide health education in hospitals, clinics, nursing homes, and the food industry, supporting healthcare teams.
+Senior nutrition technicians work in Spanish hospitals, clinics, nursing homes, and the food industry to conduct dietary assessments, develop nutrition plans, and promote health, serving as important supporting members of the medical team.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
-| 大学本科（Grado en Nutrición Humana y Dietética） | 4年 | $1,000~$6,000（公立大学学费年约1000-2000€，私立较高） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
+| Undergraduate Studies (Grado en Nutrición Humana y Dietética) | 4 years | $1,000~$6,000 (Tuition at public universities is about €1000-2000 per year, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级营养学技师学位（FP Grado Superior） | 教育部认证的职业学校 | 必备 | 必须持有 |
-| 营养师资格（Dietista-Nutricionista） | 大学（Grado） | 可选 | 非强制但利于晋升 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
+| Advanced Nutrition Technician Degree (FP Grado Superior) | Vocational schools accredited by the Ministry of Education | Required | Must hold |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
+| Nutritionist Qualification (Dietista-Nutricionista) | University (Grado) | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。西班牙老龄化加剧及慢性病高发使营养学服务需求持续增长，公共医疗体系与私营健康机构均需此类人才，就业率稳步上升。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. Spain's aging population and high incidence of chronic diseases have driven the demand for nutrition services to continue growing. Both the public healthcare system and private health institutions require such talent, and employment rates are steadily rising.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，公立医院起薪较低 |
-| 中级（3-7年） | $22,000~$28,000 | 经验增加后薪资提升 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或专科岗位 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary: starting salary at public hospitals is relatively low |
+| Mid-level (3–7 years) | $22,000~$28,000 | Salary increases with experience |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor or specialist positions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级技师晋升为部门主管或专科营养师；通过继续教育可取得营养师资格，或转向食品研发、公共卫生管理等方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Senior nutrition technicians' dietary assessment and data organization tasks are easily automated by AI, but personalized interventions, health education, and teamwork rely on human professional judgment and empathy, presenting both risks and opportunities.
+
+Candidates can be promoted from junior technician to department head or specialist nutritionist; Through continuing education, students can obtain nutritionist qualifications or shift to food research and development, public health management, and other fields.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyzes dietary records and generates nutrition reports
+- Automatically recommends standard recipes based on general guidelines
+- Statistical data on patients' dietary adherence
+- Use chatbots to answer common nutrition questions
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of individual nutritional needs improves plan accuracy
+- Using predictive models to identify populations at risk of malnutrition
+- Intelligent health education system customizes patient education materials
+- AI tools optimize menu nutrient calculation and compliance checks
+- Remote monitoring of patient dynamic data allows timely adjustment of plans
+
+**Human moat:**
+
+- Clinical decision-making and empathetic communication in complex cases
+- Interdisciplinary teamwork and personalized intervention design
+- Motivation and psychological support for changes in eating behaviors
+- Handling ethical conflicts and patient special situations
+
+**Skills to build:**
+
+- Nutrition data analysis and AI tool applications
+- Operation of clinical nutrition case management software
+- Behavior change and counseling techniques
+- Multidisciplinary teamwork skills
+- Digital health education content creation
+- Spanish/cross-cultural communication skills
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease prevention
@@ -64,69 +98,68 @@ Senior Dietetic Technicians in Spain assess dietary needs, design nutrition plan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由雇主担保的工作居留，需证明职位无法在欧盟内填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能人才，需大学学历及高于平均水平的薪资合同。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高级职业，简化流程，需年薪约3.5万€以上。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled talents who require a university degree and above-average salary contracts. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For senior professionals, streamlined process requires annual salary above approximately EUR 35,000. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Senior Dietetic Technician？**
-- 对营养学有浓厚兴趣，希望从事健康促进工作的人
-- 善于沟通，能耐心指导患者改变饮食习惯
-- 愿意在医疗或食品行业工作，接受团队合作
-
-**谁不适合学Senior Dietetic Technician？**
-- 对重复性文书工作感到厌倦的人
-- 不擅长与患者或家属交流的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in nutrition who wish to work in health promotion
+- Good at communication and patiently guiding patients to change their eating habits
+- Willing to work in the medical or food industry, open to teamwork
+
+**Who is not suited**
+- People tired of repetitive paperwork
+- People who are not good at communicating with patients or their families
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for nutrition technicians in Spain?**
+A: Junior annual salary approx. €18,000–€22,000, mid-level €22,000–€28,000, senior supervisor up to €35,000. Public hospital salaries are fixed, private institutions may offer more.
+
+**Q: How can a non-EU degree become a Spanish nutrition technician?**
+A: You must first complete academic qualification verification (Homologación) before applying for work residence. Holders of an EU Blue Card or a High-Skilled Talent visa are also acceptable, but employer sponsorship is required.
+
+**Q: Can a nutrition technician be promoted to a nutritionist?**
+A: Yes, by completing a Bachelor's (4 years) or Master's in Nutrition, and registering as a Dietista-Nutricionista, you can work in more specialized clinical nutrition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（2年FP）（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Senior Dietetic Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of dietetic technicians in Spain?**
-答：Entry-level annual salary is around €18,000-22,000, mid-level €22,000-28,000, and senior supervisors up to €35,000. Public hospitals have fixed scales; private sector may be higher.
-
-**问：How can non-EU qualifications become dietetic technicians in Spain?**
-答：You need to obtain homologation of your degree, then apply for a work permit. EU Blue Card or Highly Skilled Professional visa are options but require employer sponsorship.
-
-**问：Can a dietetic technician become a dietitian?**
-答：Yes, by completing a university degree in Human Nutrition and Dietetics (4 years) or a master's, and registering as a Dietista-Nutricionista, you can work in clinical nutrition.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Taxi and cab drivers and chauffeurs（Taxi and cab drivers and chauffeurs）职业分析 · UK
+# Taxi and cab drivers and chauffeurs — career analysis · United Kingdom
 
-**职业代码：8213 – Taxi and cab drivers and chauffeurs。**
+**Occupation code: 8213 (SOC)**
 
-Drive taxis, private cars, or official vehicles to transport passengers for the public, government, and commercial organizations, including taxi services, ride-hailing, new car delivery, and motorcycle transport.
+Drive taxis, private cars, or fleet vehicles to provide passenger services for the public, government, and commercial organizations, including taxis, rideshare, new car deliveries, and motorcycle transport.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无特定学历要求 | 0 | —（通常无需正式学历，但需通过驾驶考试及背景审查） |
-| 出租车司机执照培训 | 6个月 | $200~$1,000（包括知识测试、驾驶考试及犯罪记录检查费用） |
+| No specific educational requirements | 0 | $0~$0 (Usually no formal education required, but must pass driving test and background check) |
+| Taxi driver license training | 6 months. | $200~$1,000 (Including costs for knowledge tests, driving tests, and criminal record checks) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 出租车司机执照 | 地方交通局（Local Authority） | 必备 | 必须持有，通常包括知识测试、驾驶考试及背景审查 |
-| 私人租赁司机执照 | 地方交通局 | 必备 | 网约车司机需要，要求类似但较宽松 |
-| 驾驶执照（全类） | DVLA | 必备 | 需持有效的英国驾驶执照 |
+| Taxi driver license | Local Authority | Required | Must hold, typically includes knowledge test, driving test, and background check |
+| Private Rental Vehicle Driver Licence | Local transportation authority. | Required | Required for ride-hailing drivers; similar but less strict requirements |
+| Full driver license | DVLA | Required | Must hold a valid UK driving license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 250,000。受网约车平台竞争及自动驾驶技术发展影响，传统出租车需求增长缓慢，但大城市及旅游区仍有稳定需求，牌照限制影响供给。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Affected by ride-hailing competition and autonomous driving development, traditional taxi demand grows slowly, but stable demand remains in big cities and tourist areas; license restrictions affect supply.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 扣除车辆成本后实际收入偏低 |
-| 中级（3-10年） | $25,000~$35,000 | 经验丰富者可通过高峰时段和客户群提高收入 |
-| 高级（10年以上或自营牌照） | $35,000~$50,000 | 自营牌照持有者或豪华车司机收入更高 |
+| Median salary | $26,783 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Actual income after deducting vehicle costs is low |
+| Intermediate (3-10 years) | $25,000~$35,000 | Experienced workers can increase income during peak hours and with specific customer groups. |
+| Advanced (10+ years or own trade license). | $35,000~$50,000 | Self-employed licence holders or luxury car drivers have higher income |
+| average salary | $28,465 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 可从司机晋升为车队主管、自营出租车牌照持有者或成立小型运输公司，部分司机转向豪华专车或商务接送服务以提升收入。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Taxi and ride-share driver occupation faces very high automation risk; autonomous driving technology will significantly replace driving tasks, entry-level positions will shrink, but regulatory and safety factors will delay full replacement in the short term.
+
+Can progress from driver to fleet supervisor, self-employed taxi license holder, or establish a small transport company; some drivers switch to luxury chauffeuring or business shuttle services to increase income.
+
+**Tasks most exposed to AI:**
+
+- Vehicle driving operations (acceleration, steering, braking)
+- Route navigation and real-time traffic avoidance
+- Manage passenger boarding and alighting processes (automatic ride-hailing, reservations)
+- Basic vehicle condition check (automatic detection of tire pressure, oil level, etc.)
+- Payment processing and electronic receipt generation
+
+**Where AI augments the role:**
+
+- Safety supervision and takeover in complex road conditions
+- Incident handling (accidents, passenger medical emergencies)
+- Personalized services (assisting passengers with special needs)
+- Vehicle emergency maintenance (tyre changes, charging, etc.)
+- Customer complaint and dispute resolution
+
+**Human moat:**
+
+- Emergency Decision-Making Ability
+- Interpersonal communication and emotional support
+- Adaptability to unstructured environments (road construction, extreme weather)
+- Legal and ethical responsibility bearer (subject in case of violations)
+
+**Skills to build:**
+
+- Remote monitoring and autonomous driving system operation
+- Advanced Driver-Assistance Systems (ADAS) maintenance
+- Customer service and crisis communication
+- Basic vehicle maintenance and charging technology
+- Updates on traffic regulations and safety standards
+- Data analysis (operations optimization)
+
+**Key growth areas:**
 
 - Ride-hailing growth
 - Urban transport demand
@@ -64,65 +99,67 @@ Drive taxis, private cars, or official vehicles to transport passengers for the 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 通常不适合，该职业不在可担保职业清单上，且薪资门槛较低，难以满足技术移民要求 |
-| Subclass Graduate（Graduate Visa） | 毕业生签证允许自由工作，但该职业非典型毕业生去向，薪资水平可能无法支持续签 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Generally not suitable; this occupation is not on the eligible sponsorship list and the salary threshold is low, making it difficult to meet skilled migration requirements. |
+| Subclass Graduate (Graduate Visa) | The graduate visa allows free work, but this occupation is not a typical graduate destination, and the salary level may not support visa renewal |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Taxi and cab drivers and chauffeurs？**
-- 喜欢自由工作、擅长开车且熟悉当地路线的人
-- 能适应不规律工时、愿意与各类乘客打交道的人
-- 希望在无需高学历前提下快速进入劳动力市场的人
+**Who is suited**
+- People who enjoy flexible work, are good at driving, and are familiar with local routes
+- People who can adapt to irregular hours and are willing to interact with all types of passengers
+- Those wanting to quickly enter the labour market without needing a high educational background
 
-**谁不适合学Taxi and cab drivers and chauffeurs？**
-- 不喜欢长时间久坐或交通拥堵的人
-- 希望稳定周薪、福利完善及职业晋升通道明确的人
+**Who is not suited**
+- People who dislike long periods of sitting or traffic congestion
+- Those seeking stable weekly pay, comprehensive benefits, and clear career progression
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual income of a taxi driver?**
+A: Annual income varies greatly due to hours, region, and business model; after deducting vehicle costs, full-time drivers typically net GBP 18,000-35,000, higher with own license.
+
+**Q: Can overseas drivers become UK taxi drivers via work visa?**
+A: Very difficult; this occupation is usually not on the skilled worker visa sponsorship list, and the salary level is unlikely to meet the visa threshold, mainly relying on permanent residency or family visas.
+
+**Q: What are the career paths for taxi drivers?**
+A: Can advance to fleet supervisor, purchase taxi license to operate independently, switch to luxury or business shuttle services, or start a small transport company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Taxi and cab drivers and chauffeurs属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income of a taxi driver?**
-答：Annual income varies greatly by hours, location, and business model. After deducting vehicle costs, full-time drivers typically earn £18,000-£35,000, while license holders may earn more.
-
-**问：Can overseas drivers become UK taxi drivers via work visa?**
-答：Very difficult, as this occupation is not typically on the skilled worker visa sponsorship list, and salary levels are below visa thresholds; mainly relies on settlement or dependent visas.
-
-**问：What career progression opportunities exist for taxi drivers?**
-答：Opportunities include becoming a fleet supervisor, purchasing a taxi license to self-operate, moving to premium chauffeur or business services, or starting a small transport company.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

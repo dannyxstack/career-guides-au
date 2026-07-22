@@ -1,58 +1,94 @@
-# Environmental and Occupational Health and Hygiene Professionals（Environmental and Occupational Health and Hygiene Professionals）职业分析 · IE
+# Environmental and Occupational Health and Hygiene Professionals — career analysis · Ireland
 
-**职业代码：2263 – Environmental and Occupational Health and Hygiene Professionals。**
+**Occupation code: 2263 (ISCO08)**
 
-Assess health risks in workplaces and environments, develop preventive measures, and ensure compliance with health and safety regulations.
+Assess health risks in the workplace and environment, develop preventive measures, ensure compliance with health and safety regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（欧盟学生学费，非欧盟约15000-25000欧元/年） |
-| 硕士 | 1-2年 | $10,000~$20,000（学费因院校而异） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (EU student tuition fees, non-EU approximately 15,000-25,000 euros per year) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Tuition fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境健康学位 | 爱尔兰大学 | 必备 | 需认证课程 |
-| 职业卫生认证 | 爱尔兰职业安全与健康协会 | 可选 | 自愿但受雇主青睐 |
+| Environmental health degree | Irish universities | Required | Accredited course required |
+| Occupational Health Certification | Irish Health and Safety Authority | Optional | Voluntary but favoured by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。爱尔兰健康与安全法规严格，行业需求稳定增长，尤其在制药、建筑和制造业。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. Ireland has strict health and safety regulations, with steady industry demand growth, especially in pharmaceuticals, construction, and manufacturing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$85,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$85,000 | Annual pre-tax salary |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从初级顾问晋升为高级专家或管理层，也可转向政策制定或学术研究。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance data analysis and monitoring capabilities, but will not completely replace core tasks such as on-site inspection and regulatory judgment; the overall outlook for the occupation is 'mixed.'
+
+Can progress from junior consultant to senior expert or management, or move into policy making or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of routine health monitoring reports
+- Preliminary analysis of exposed data and anomaly flagging
+- Monitor environmental sensor data in real time
+- Organize and update regulatory standards database
+- Generate templates for customer communication emails
+
+**Where AI augments the role:**
+
+- Predicting chemical toxicity using AI models
+- Real-time identification of occupational hazards through smart sensors.
+- AI-assisted simulation of the effectiveness of different interventions
+- Automatically generate multilingual compliance documents
+- Use digital twins to optimize workplace ventilation systems
+
+**Human moat:**
+
+- Complex causal inference (e.g., the relationship between chronic disease and long-term exposure)
+- Emergency decision-making for on-site incidents
+- Cross-organizational coordination and training
+- Authority in professional judgment and regulatory interpretation
+- Handling ethical dilemmas (e.g., balancing privacy and health)
+
+**Skills to build:**
+
+- Master data analysis and visualisation tools (e.g. R, Python, Tableau)
+- Learn Geographic Information Systems (GIS) applied to exposure mapping
+- Understand machine learning basics and model interpretability.
+- Strengthen communication and training skills
+- Learn IoT sensor deployment and maintenance.
+- Understanding digital twin and simulation technologies
+
+**Key growth areas:**
 
 - regulation
 - pharmaceutical industry
@@ -61,64 +97,63 @@ Assess health risks in workplaces and environments, develop preventive measures,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，无需劳动力市场测试，可快速获得居留权。 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，适用于非紧缺职业。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for shortage occupations, no labor market test required, and can obtain residency quickly. |
+| Subclass General Employment P (General Employment Permit) | Requires labor market testing, applicable to non-shortage occupations. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental and Occupational Health and Hygiene Professionals？**
-- 注重安全与细节的科学思维者
-- 有志于改善公共卫生环境的专业人士
-- 适应跨部门合作与法规更新的群体
-
-**谁不适合学Environmental and Occupational Health and Hygiene Professionals？**
-- 厌恶文书工作和法规合规者
-- 不愿面对有害环境或压力情况的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Scientific thinker focused on safety and detail.
+- Professionals dedicated to improving public health environments
+- Groups adaptable to cross-departmental collaboration and regulatory updates
+
+**Who is not suited**
+- Someone who dislikes paperwork and regulatory compliance
+- People unwilling to face hazardous environments or stressful situations
+
+---
+
+## 8. FAQ
+
+**Q: How much salary growth potential is there?**
+A: With experience and certification, salary can increase from €30,000 to over €85,000; growth limited for senior roles.
+
+**Q: Pathways for international talent to immigrate to Ireland?**
+A: Holding a Critical Skills Employment Permit allows rapid residency without labor market testing, and you can apply for permanent residence after 2 years of work.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Environmental and Occupational Health and Hygiene Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential?**
-答：With experience and certifications, salary can increase from €30,000 to over €85,000, with limited growth at senior levels.
-
-**问：What are the migration pathways for international talent?**
-答：Critical Skills Employment Permit offers fast-track residence without labor market test, eligible for permanent residence after 2 years.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Domestic Cleaner and Helper（Domestic Cleaner and Helper）职业分析 · IT
+# Domestic Cleaner and Helper — career analysis · Italy
 
-**职业代码：9111 – Domestic Cleaner and Helper。**
+**Occupation code: 9111 (ISCO08)**
 
-Domestic cleaners and helpers perform cleaning, tidying and routine household tasks in private homes, including sweeping, laundry and simple cooking. The profession has stable demand in Italy, often with informal employment.
+Home cleaners and helpers are responsible for cleaning, organizing, and daily household tasks in private residences, including cleaning, laundry, and simple cooking. The demand for this occupation is stable in Italy, often under informal employment.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常不要求学历，雇主提供在职培训） |
+| No formal education required | None | $0~$0 (Usually no formal education required, employer provides on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 工作经验更受重视 |
+| No mandatory qualification requirements | None | Optional | Work experience is more valued |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 450,000。随着老龄化社会和双职工家庭增多，对家政服务的需求持续增长。但该职业受经济波动影响较大，且存在大量未申报工作。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 450,000. With an aging society and an increase in dual-income families, demand for domestic services continues to grow. However, this occupation is highly susceptible to economic fluctuations and involves significant undeclared work.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$16,000 | 多为兼职或按小时计酬，税前年薪估算基于全职 |
-| 中级（3-6年） | $15,000~$20,000 | 经验丰富或承担更多职责 |
-| 高级（6年以上或自雇） | $18,000~$25,000 | 自雇或管理团队 |
+| Median salary | $17,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $12,000~$16,000 | Mostly part-time or paid by the hour, pre-tax annual salary based on full-time equivalent |
+| Mid-level (3–6 years) | $15,000~$20,000 | Experienced or taking on more responsibilities |
+| Senior (6+ years or self-employed) | $18,000~$25,000 | Self-employed or managing a team. |
+| average salary | $17,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，通常从初级清洁工做起，可升为团队主管或自雇经营小型清洁公司。部分从业者通过培训转向养老护理或酒店保洁。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI cannot completely replace physical cleaning labor, but intelligent scheduling and task planning tools will compress low-end positions while enhancing personalized service and efficiency; the career outlook is mixed.
+
+Career progression paths are limited, typically starting as a junior cleaner and advancing to team supervisor or self-employed small cleaning company operator. Some practitioners transition to aged care or hotel cleaning through training.
+
+**Tasks most exposed to AI:**
+
+- Schedule cleaning appointments, send reminders, and collect payments via chatbot
+- Use computer vision to inspect cleaning quality and generate reports
+- Automated inventory management: predict cleaning supply needs based on historical data and place orders
+- Voice assistants control smart home devices (e.g., robot vacuum cleaners, automatic curtains)
+- Standardized cleaning process documents generated and updated by AI.
+
+**Where AI augments the role:**
+
+- AI voice translation tool assists in communicating with foreign employers
+- Smart devices (e.g., stain detection apps) to assist in choosing the best cleaning agent
+- Data analysis tools optimize cleaning routes and time allocation
+- Online platform automatically matches customers and cleaners, improving customer acquisition efficiency
+- Augmented reality (AR) guidance for cleaning complex furniture.
+
+**Human moat:**
+
+- Fine manual cleaning (e.g., antiques, silk, and other special materials)
+- Building long-term trust relationships and personalized services with employers
+- Ability to handle unexpected situations (e.g., spills, damage) with flexibility
+- manual labour and on-site presence (physical contact that cannot be replaced)
+- Highly customized home organization and decluttering solutions
+
+**Skills to build:**
+
+- Operation and maintenance of smart cleaning equipment
+- Basic English or a second foreign language (for smart assistants and client communication)
+- Time Management and Digital Scheduling Tool Usage
+- Knowledge of household chemical safety and intelligent proportioning
+- Fundamentals of Customer Relationship Management (CRM) software
+- Basic data analysis (to optimize service efficiency)
+
+**Key growth areas:**
 
 - aging population
 - dual-income households
@@ -61,62 +97,64 @@ Domestic cleaners and helpers perform cleaning, tidying and routine household ta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 非欧盟公民可通过年度配额申请工作签证，但家政类配额极少，竞争激烈。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民可自由在意大利工作，无需签证。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU citizens can apply for work visas through annual quotas, but household-related quotas are very limited and competition is fierce. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Domestic Cleaner and Helper？**
-- 喜欢独立工作、注重细节且吃苦耐劳者
-- 寻求灵活工作时间的兼职或自由职业者
-- 具备基本家务技能且愿意学习简单烹饪者
+**Who is suited**
+- Those who prefer independent work, attention to detail, and are hardworking
+- Seeking part-time or freelance work with flexible hours.
+- Possess basic housekeeping skills and willing to learn simple cooking
 
-**谁不适合学Domestic Cleaner and Helper？**
-- 期望高收入或快速晋升者
-- 不喜欢体力劳动或重复性工作者
+**Who is not suited**
+- Those expecting high income or rapid promotion
+- Those who dislike manual labor or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of domestic cleaners in Italy?**
+A: Full-time pre-tax annual salary ranges from approximately €12,000 to €25,000, depending on experience and employer. Part-time is paid hourly, typically €8-12/hour.
+
+**Q: Can non-EU citizens immigrate to Italy through domestic work?**
+A: Very difficult. The Decreto Flussi quota is very small and prioritizes other industries. A more viable path is marriage to an Italian citizen or through EU long-term residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Domestic Cleaner and Helper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for domestic cleaners in Italy?**
-答：Full-time pre-tax annual salary ranges from €12,000 to €25,000, depending on experience and employer. Part-time hourly rates are typically €8-12.
-
-**问：Can non-EU citizens immigrate to Italy through domestic cleaning work?**
-答：Very difficult. Decreto Flussi quotas are extremely limited and prioritize other sectors. More feasible paths include marriage to an Italian citizen or long-term EU residence.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

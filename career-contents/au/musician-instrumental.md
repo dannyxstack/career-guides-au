@@ -1,128 +1,157 @@
-# 音乐家（器乐）（Musician (Instrumental)）职业分析 · 澳大利亚
+# Musician (Instrumental) — career analysis · Australia
 
-**职业代码：211213 – Musician (Instrumental)。**
+**Occupation code: 211213 (ANZSCO)**
 
-器乐音乐家演奏一种或多种乐器，从事现场演出、录音、配乐与教学。多为自由职业，收入由演出、版税、教学和资助等多元构成，波动较大，顶尖演奏者与乐团首席收入较高。
+Instrumental musicians play one or more instruments, performing live, recording, composing, and teaching. Mostly freelancers, income from performances, royalties, teaching, and grants, highly variable, with top performers and orchestra principals earning more.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Music（音乐学士，可选） | 3~4年 | $30,000~$100,000（古典/乐团方向常见；流行/自学路径亦可） |
-| 私人器乐训练 / 考级 | 多年持续 | $2,000~$30,000（长期技艺积累；AMEB 考级） |
+| Bachelor of Music (optional) | 3–4 years | $30,000~$100,000 (Common in classical/orchestral direction; pop/self-taught path also possible) |
+| Private instrumental training / graded exams | Multiple years ongoing | $2,000~$30,000 (Long-term skill accumulation; AMEB graded exams) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 演奏水平与作品/演出记录 | — | 可选 | 试奏（audition）决定乐团/演出机会 |
+| Performance level and work/performance record | — | Optional | Audition determines orchestra/performance opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 —。现场演出市场回暖，但全职乐团席位有限；影视/游戏配乐、教学和流媒体是增量方向。AI 生成音乐冲击背景/库存音乐，但现场演奏、原创性与表演者魅力难以替代。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. The live performance market is recovering, but full-time orchestral positions are limited; film/game scoring, teaching, and streaming are growth areas. AI-generated music is impacting background/stock music, but live performance, originality, and performer charisma are hard to replace.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：很高（★★★★½）。**
-**工作强度：中高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 兼职/自由演奏者 | $30,000~$55,000 | 按场次计酬，波动大 |
-| 全职音乐家 | $55,000~$85,000 | 演出+教学+录音综合 |
-| 乐团首席/知名演奏家 | $90,000~$160,000 | 主要交响乐团席位与高端演出 |
+| Median salary | $91,832 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Part-time/freelance performer | $30,000~$55,000 | Paid per session, fluctuates greatly |
+| Full-time musician | $55,000~$85,000 | Performance + teaching + recording combined |
+| Orchestra principal / renowned performer | $90,000~$160,000 | Principal orchestra positions and high-end performances |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 收入高度多元化：演出+教学+录音+流媒体。自媒体降低了触达门槛；版权与流媒体分成是关注重点。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI has mixed effects on instrumental musicians: music generation and accompaniment automation replace some commercial recording and background music work, but live emotional expression, improvisation, and teaching interaction remain highly human-dependent.
 
-- 现场演出与巡演
-- 录音与配乐（影视/广告/游戏）
-- 音乐教学
-- 流媒体与自媒体（YouTube/Spotify）
+Highly diversified income: performance + teaching + recording + streaming. Social media lowers access barriers; copyright and streaming royalties are key focus areas.
+
+**Tasks most exposed to AI:**
+
+- Background music composition and performance for commercials, games, and film
+- Accompaniment track generation in standardized music recording
+- Accompaniment and metronome functions in basic music practice
+- Music copyright detection and counterfeit identification
+
+**Where AI augments the role:**
+
+- AI-assisted music creation: use generative tools to quickly develop melody and harmony inspiration
+- AI Mixing and Mastering: Automated Tonal Balancing and Effects Chain Optimisation
+- Smart learning platform: personalised practice progress tracking and instant feedback
+- Live performance real-time audio enhancement and lighting integration
+
+**Human moat:**
+
+- Emotional expression and improvisational interaction in live performances
+- Highly Personalised Music Teaching and Mentorship
+- Cross-genre innovation and artistic aesthetic decisions
+- Music Therapy and Community Cultural Development
+
+**Skills to build:**
+
+- Use of AI music tools (e.g., AIVA, Amper Music)
+- Digital Audio Workstation (DAW) and mixing techniques
+- Music therapy and educational psychology
+- Improvisation and cross-genre fusion
+- Music copyright and digital rights management
+- Multimedia collaboration and project planning
+
+**Key growth areas:**
+
+- Live Performance & Touring
+- Recording & Scoring (Film/Ad/Games)
+- Music Teaching
+- Streaming & Self-Media (YouTube/Spotify)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学音乐家（器乐）？**
-- 有扎实器乐功底并持续精进
-- 愿意多元化收入（演出/教学/录音/流媒体）
-- 能适应不规律作息与收入波动
-
-**谁不适合学音乐家（器乐）？**
-- 追求稳定坐班与固定薪资
-- 以移民为主要目标
-- 不愿长期投入技艺训练
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Solid instrumental skills with continuous improvement
+- Willing to diversify income (performance/teaching/recording/streaming)
+- Ability to adapt to irregular hours and income fluctuations
+
+**Who is not suited**
+- Prefer stable office jobs and fixed salary
+- Primarily targeting immigration
+- Unwillingness to Commit to Long-Term Skill Training
+
+---
+
+## 8. FAQ
+
+**Q: How much do Australian musicians earn?**
+A: Part-time/freelance musicians: ~$30k-$55k (paid per gig); full-time musicians: ~$55k-$85k (performance + teaching + recording); orchestra principals/well-known performers: up to $90k-$160k. Most rely on multiple income streams.
+
+**Q: Can a Musician Migrate to Australia via Skilled Migration?**
+A: Generally no. Musician (211213) is not on the CSOL or GSM skilled migration list. Top musicians can explore special pathways like Global Talent (GTI) or Distinguished Talent (858).
+
+**Q: Will musicians be replaced by AI?**
+A: AI-generated music impacts background/stock music and simple arrangements, but live performance, improvisation, stage presence, and original artistry are hard to replace. Using AI as a composition/production aid while focusing on live and personal style is more stable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | 音乐/表演艺术职业概况 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 很高（★★★★½） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-音乐家（器乐）属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲音乐家收入多少？**
-答：兼职/自由演奏者约 $30k~$55k（按场计酬）；全职音乐家约 $55k~$85k（演出+教学+录音）；乐团首席/知名演奏家可达 $90k~$160k。多数靠多元收入。
-
-**问：音乐家能技术移民澳洲吗？**
-答：基本不能。Musician (211213) 不在 CSOL 或 GSM 技术移民清单上。顶尖音乐家可探索全球人才（GTI）或杰出人才（858）等特殊通道。
-
-**问：音乐家会被 AI 替代吗？**
-答：AI 生成音乐冲击背景/库存音乐与简单编曲，但现场演奏、即兴、舞台魅力与原创艺术性难以替代。把 AI 用于编曲/制作辅助，强化现场与个人风格更稳。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

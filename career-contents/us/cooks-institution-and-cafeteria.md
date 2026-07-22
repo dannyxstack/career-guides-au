@@ -1,60 +1,96 @@
-# Cooks, Institution and Cafeteria（Cooks, Institution and Cafeteria）职业分析 · 美国
+# Cooks, Institution and Cafeteria — career analysis · United States
 
-**职业代码：35-2012 – Cooks, Institution and Cafeteria。**
+**Occupation code: 35-2012 (SOC)**
 
-Prepare and cook large quantities of food for institutions such as schools, hospitals, or cafeterias, including menu planning, food preparation, and sanitation.
+Cooking large quantities of food in institutions such as schools, hospitals, or cafeterias, responsible for menu planning, ingredient preparation, health safety, and meal service.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 不适用 | —（最低入学要求） |
-| 社区学院/烹饪证书 | 1年 | $5,000~$15,000（可选，提升竞争力） |
+| High school diploma or equivalent | Not applicable | $0~$0 (Minimum entry requirements) |
+| Community college/cooking certificate | 1 year | $5,000~$15,000 (Optional, enhances competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ServSafe 食品安全认证 | 美国国家餐饮协会 | 可选 | 多数雇主要求证明食品安全知识 |
-| 烹饪艺术证书 | 社区学院或烹饪学校 | 可选 | 非必需但有助于晋升 |
+| ServSafe food safety certification | National Restaurant Association (US). | Optional | Most employers require proof of food safety knowledge |
+| Culinary arts certificate | Community college or culinary school | Optional | Not required but helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 160,000。随着老年人口增长及学校餐饮需求稳定，该职业就业前景总体稳定，但自动化厨房设备可能减少部分岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 160,000. With aging population and stable school meal demand, overall employment outlook for this occupation is stable, but automated kitchen equipment may reduce some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 通常按小时计薪 |
-| 中级（3-6年） | $28,000~$35,000 | 含额外职责 |
-| 高级（6年以上） | $35,000~$45,000 | 主管或大规模厨房 |
+| Median salary | $37,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Typically paid hourly. |
+| Mid-level (3–6 years) | $28,000~$35,000 | Includes additional responsibilities |
+| Senior (6+ years) | $35,000~$45,000 | Supervisor or large-scale kitchen |
+| average salary | $38,810 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级厨师晋升为高级厨师或厨房主管，再晋升为餐饮服务经理；部分通过继续教育转向营养学或餐饮管理。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will optimize menu planning and inventory management, but cooking execution and food safety still require human work; job task structures are reorganized, some entry-level tasks automated, but overall demand remains stable.
+
+Can progress from junior chef to senior chef or kitchen manager, then to food service manager; some transition to nutrition or food service management through further education.
+
+**Tasks most exposed to AI:**
+
+- Menu scheduling and nutritional calculations based on historical data
+- inventory monitoring and automatic reordering process
+- Standardize cooking steps (e.g., frying and baking time control)
+- Daily cost report generation and analysis
+- Customer preference prediction and portion optimization
+
+**Where AI augments the role:**
+
+- Menu innovation and flavor balancing (AI provides data support)
+- Compliance checking for special dietary needs (allergies/religion)
+- Quick adjustments in emergencies (e.g., ingredient shortages)
+- Employee training and process optimization
+- Quality inspection and hygiene monitoring (AI-assisted visual inspection)
+
+**Human moat:**
+
+- On-site cooking skills and heat perception
+- Flexible decision-making and manual adjustment in emergencies
+- Food safety intuitive judgment and correction
+- Team management and personalized client service
+- Hands-on experience in cross-cultural cuisine preparation
+
+**Skills to build:**
+
+- Use of AI menu planning and nutrition analysis tools
+- Basic data analysis (Excel/Tableau)
+- Operation and maintenance of automated kitchen equipment
+- Knowledge of special diets (allergies/health trends)
+- Food safety management certification renewal
+- Team communication and leadership
+
+**Key growth areas:**
 
 - Food service
 - Institutional cooking
@@ -63,65 +99,67 @@ Prepare and cook large quantities of food for institutions such as schools, hosp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 通常不适用，因该职业通常非专业职业。 |
-| Subclass Green Card (PERM)（Permanent Employment-Based） | 极少数可能，但需证明缺乏合格美国工人。 |
+| Subclass H-1B (Specialty Occupations) | Usually not applicable, as this occupation is typically not a professional occupation. |
+| Subclass Green Card (PERM) (Permanent Employment-Based) | Extremely rare possibility, but requires demonstrating a lack of qualified US workers. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cooks, Institution and Cafeteria？**
-- 喜欢烹饪和食物制作的人
-- 能适应站立工作和厨房高温环境的人
-- 注重卫生和安全的人
+**Who is suited**
+- People who enjoy cooking and food preparation
+- People who can tolerate standing work and high kitchen temperatures
+- People who prioritize hygiene and safety
 
-**谁不适合学Cooks, Institution and Cafeteria？**
-- 希望快速晋升或高薪的人
-- 对重复性工作感到厌倦的人
+**Who is not suited**
+- Individuals seeking rapid promotion or high salary
+- People who are tired of repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an institutional chef?**
+A: Annual salary typically between USD 22,000 and 45,000, entry-level around 22,000-28,000, senior or supervisor roles up to 35,000-45,000. Hourly wage about $10-20.
+
+**Q: Can an institutional chef apply for a US work visa or green card?**
+A: Very difficult. The occupation typically does not qualify as a specialty occupation for H-1B, and salary is low. Few employers are willing to sponsor PERM green card.
+
+**Q: What are the career prospects for an institutional chef?**
+A: Can advance to Kitchen Supervisor, Food Service Manager, or transition to the nutrition field. However, overall advancement opportunities are limited, and automation may affect employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cooks, Institution and Cafeteria属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for institution and cafeteria cooks?**
-答：Annual salary typically ranges from $22,000 to $45,000; entry-level around $22,000-$28,000, and senior or supervisor roles up to $35,000-$45,000. Hourly wage approximately $10-$20.
-
-**问：Can institution and cafeteria cooks obtain U.S. work visas or green cards?**
-答：Very difficult. This occupation usually does not meet H-1B specialty occupation requirements and offers low wages. PERM green card sponsorship is rare.
-
-**问：What are the career advancement prospects for institution and cafeteria cooks?**
-答：Can advance to kitchen supervisor, food service manager, or transition to nutrition. However, advancement opportunities are limited and automation may impact employment.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

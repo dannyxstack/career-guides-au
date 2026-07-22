@@ -1,60 +1,96 @@
-# Career/Technical Education Teachers, Postsecondary（Career/Technical Education Teachers, Postsecondary）职业分析 · 美国
+# Career/Technical Education Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1194 – Career/Technical Education Teachers, Postsecondary。**
+**Occupation code: 25-1194 (SOC)**
 
-Teach vocational courses in fields such as construction, mechanics/repair, manufacturing, transportation, or cosmetology at postsecondary institutions, primarily for students who have completed or left high school, providing occupational training below the bachelor's level.
+Teach vocational courses at public or private vocational institutions, covering areas like construction, mechanical repair, manufacturing, transport, beauty, etc., mainly for high school graduates or dropouts, providing sub-bachelor vocational skills training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 职业证书 | 1-2年 | $5,000~$20,000（技术学院或认证项目） |
-| 学士学位 | 4年 | $40,000~$120,000（综合性大学学费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Professional certificate | 1-2 years | $5,000~$20,000 (Technical colleges or certified programs) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Comprehensive university tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关专业学士学位 | 认证大学 | 必备 | 多数岗位要求，但行业经验可部分替代 |
-| 教学许可证 | 州教育委员会 | 可选 | 部分州要求职业教育教师资格证 |
-| 行业认证 | 专业协会 | 可选 | 如汽车服务卓越性认证、焊接认证等 |
+| Relevant bachelor's degree | Accredited university | Required | Required for most positions, but industry experience can partially substitute |
+| Teaching license | State Board of Education | Optional | Some states require vocational education teaching license |
+| Industry certifications | Professional association | Optional | e.g., Automotive Service Excellence certification, welding certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 96,000。美国职业教育教师需求稳定，受职业技能培训重视程度提升和行业技术更新的影响，年均岗位增长约2%，就业机会主要集中在社区学院和技术学院。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 96,000. Demand for vocational education teachers in the US is stable, driven by increased emphasis on skills training and industry tech updates, with average annual job growth of about 2%. Opportunities are mainly in community colleges and technical institutes.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 社区学院或技术学校教师 |
-| 中级（4-9年） | $55,000~$75,000 | 有经验教师或部门负责人 |
-| 高级（10年以上） | $75,000~$95,000 | 资深教师、教务主管或系主任 |
+| Median salary | $63,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Community college or technical school teacher |
+| Intermediate (4-9 years) | $55,000~$75,000 | Experienced teacher or department head |
+| Senior (10+ years) | $75,000~$95,000 | Senior teacher, academic supervisor, or department head |
+| average salary | $72,060 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从行业技师或相关领域讲师起步，可晋升为系主任、教务主管或培训总监；部分教师转向课程开发、教育管理或继续深造获得博士学位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
+
+Typically start as industry technician or lecturer in related field, can advance to department head, academic supervisor, or training director; some teachers move to curriculum development, educational management, or pursue a doctorate.
+
+**Tasks most exposed to AI:**
+
+- Producing standardised training courseware and handouts
+- Teach foundational theory and process knowledge
+- Grading objective tests and recording attendance
+- Organizing training feedback and collating training data
+- Design simple training evaluation questionnaires
+
+**Where AI augments the role:**
+
+- Using AI to generate personalized training plans and learning paths
+- Using AI simulators to create immersive skills training scenarios
+- Real-time analysis of learner data to adjust teaching strategies
+- Automatically translate and cross-culturally adapt training content
+- One-on-one tutoring with AI-assisted tutors
+
+**Human moat:**
+
+- On-site atmosphere activation and emotional connection with trainees
+- Hands-on guidance and immediate error correction for complex skills.
+- Handling classroom emergencies and special student needs
+- Case-based teaching combined with industry practical experience
+- Building long-term trust relationships and career development coaching
+
+**Skills to build:**
+
+- AI course development tools (e.g., Articulate Storyline, Adobe Captivate)
+- Learning Management System (LMS) advanced configuration and data analysis
+- Virtual Reality (VR)/Augmented Reality (AR) Training Design
+- Data-driven instructional design (learning analytics)
+- Cross-cultural communication and remote training skills
+- Industry certification standards and compliance knowledge
+
+**Key growth areas:**
 
 - Vocational education
 - Trade school
@@ -63,68 +99,67 @@ Teach vocational courses in fields such as construction, mechanics/repair, manuf
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于学士学位以上岗位，需证明专业性；职业教育教师通常符合要求，但需雇主支持且面临抽签。配额紧张 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 硕士以上学位或特殊能力者可申请，需PERM劳工证；绿卡路径长但可行 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于本科或两年以上经验者，需PERM；较EB-2门槛低但排期更长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applies to positions requiring at least a bachelor's degree, need to demonstrate specialty; vocational education teachers generally qualify, but need employer sponsorship and face lottery. Quota is tight. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Masters degree or above or special ability may apply, requires PERM labor certification; green card path is long but feasible |
+| Subclass EB-3 (EB-3 Skilled Workers) | For bachelor's degree or 2+ years of experience, requires PERM; lower threshold than EB-2 but longer wait times. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Career/Technical Education Teachers, Postsecondary？**
-- 拥有行业技术经验且乐于教学的人
-- 希望稳定工作且享受学校环境的人
-- 追求中等收入但工作生活平衡的人
-
-**谁不适合学Career/Technical Education Teachers, Postsecondary？**
-- 不喜欢与人互动或重复教学的人
-- 追求高薪且希望快速晋升的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with industry technical experience and a passion for teaching
+- People seeking stable work and enjoying a school environment
+- Those seeking moderate income but work-life balance
+
+**Who is not suited**
+- Those who dislike interacting with people or repetitive teaching
+- People pursuing high pay and rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for vocational education teachers?**
+A: Annual salary about $45,000 to $95,000, affected by years of teaching, region, and school type; public community colleges have transparent pay scales, private schools may offer additional bonuses.
+
+**Q: What is the main visa pathway for vocational education teachers to migrate to the US?**
+A: Common pathway is H-1B work visa (requires bachelor's degree or higher plus employer sponsorship), then apply for a green card through EB-2 or EB-3, but H-1B has quota limits and requires a lottery.
+
+**Q: What is the future demand for this occupation?**
+A: Demand is stable, with growth rates matching average occupations; vocational education is government-supported, but overall positions are limited, leading to moderate competition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Career/Technical Education Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for career/technical education teachers?**
-答：Annual salary ranges from $45,000 to $95,000, depending on experience, location, and institution type; public community colleges have transparent pay scales, while private schools may offer bonuses.
-
-**问：What are the main visa routes for career/technical education teachers to immigrate to the US?**
-答：Common routes include H-1B work visa (requires bachelor's degree and employer sponsorship) followed by EB-2 or EB-3 green card, but H-1B has a cap and requires lottery.
-
-**问：What is the future demand for this occupation?**
-答：Demand is stable with growth at average; vocational education is government-supported, but total positions are limited, leading to moderate competition.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

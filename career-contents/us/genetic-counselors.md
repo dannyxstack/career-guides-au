@@ -1,59 +1,93 @@
-# Genetic Counselors（Genetic Counselors）职业分析 · 美国
+# Genetic Counselors — career analysis · United States
 
-**职业代码：29-9092 – Genetic Counselors。**
+**Occupation code: 29-9092 (SOC)**
 
-Assess individual or family risk for inherited conditions, provide genetic testing counseling and emotional support to aid informed healthcare decisions.
+Assess the risk of genetic diseases in individuals or families, provide genetic testing counseling and psychological support to help make informed medical decisions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学较低，私立较高） |
-| 遗传咨询硕士（ACGC认证） | 2年 | $50,000~$100,000（含学费及实习费用） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Lower at public universities, higher at private ones) |
+| Master's in Genetic Counseling (ACGC accredited) | 2 years | $50,000~$100,000 (Includes tuition and internship fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 遗传咨询硕士学位 | ACGC认证院校 | 必备 | 必需学位，包含临床训练 |
-| 美国遗传咨询委员会认证（ABGC） | ABGC | 必备 | 通过认证考试，多数州要求 |
-| 州执照 | 各州卫生部门 | 必备 | 视所在州要求，部分州强制 |
+| Master's degree in genetic counseling | ACGC-accredited institution | Required | Required degree, including clinical training |
+| American Board of Genetic Counseling (ABGC) certification | ABGC | Required | Pass the certification exam, required by most states |
+| State license | State health departments | Required | Mandatory in some states depending on requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,800。美国遗传咨询师需求预计增长超过平均水平，基因医学发展及个性化医疗推动岗位增加。
+**Job demand: high (★★★★☆).** National workforce approx. 4,800. Demand for genetic counselors in the U.S. is projected to grow faster than average, driven by advances in genetic medicine and personalized medicine.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 医院或诊所入门级 |
-| 中级（4-7年） | $85,000~$110,000 | 有经验咨询师或团队领导 |
-| 高级（8年以上） | $110,000~$140,000 | 主管/教学/研究员 |
+| Median salary | $100,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Hospital or clinic entry-level |
+| Mid-level (4-7 years) | $85,000~$110,000 | Experienced consultant or team leader |
+| Senior (8+ years) | $110,000~$140,000 | Supervisor/Teacher/Researcher |
+| average salary | $104,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级遗传咨询师可晋升为高级咨询师、主管或教学岗位，部分转向研究、实验室管理或医疗遗传学指导。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the work of genetic counselors, improving efficiency in data analysis, report generation, and patient education, but will not replace their core role in clinical judgment and emotional support.
+
+Junior genetic counselors can advance to senior counselor, supervisor, or teaching roles; some move to research, lab management, or medical genetics guidance.
+
+**Tasks most exposed to AI:**
+
+- Preliminary analysis and variant screening of gene sequencing data
+- Preliminary generation of standard genetic reports
+- Basic calculation of common genetic disease risks and literature search
+- Administrative tasks such as patient appointment scheduling and follow-up reminders
+
+**Where AI augments the role:**
+
+- Use AI tools to predict pathogenicity of complex genetic variants
+- Quickly summarize the latest genetics literature using natural language processing
+- Using decision support systems for personalized risk assessment and solution recommendations
+- Using virtual assistants to explain test results and genetic patterns to patients
+- Automatically integrates multi-omics data to aid comprehensive diagnosis.
+
+**Human moat:**
+
+- In-person patient emotional support and psychological counseling
+- Complex risk assessment and decision-making based on ethics and clinical experience
+- Deep exploration of multi-generational family medical history and genetic pattern assessment
+- The art of communication in cross-disciplinary team collaboration and personalized consulting
+
+**Skills to build:**
+
+- Advanced genetics knowledge (e.g., polygenic risk scores, epigenetics)
+- Basic AI/machine learning knowledge, able to understand and validate predictive models
+- Data interpretation and critical thinking to avoid AI bias
+- Digital communication and remote consultation skills
+- Ethics and legal knowledge (e.g., genetic discrimination, privacy protection)
+- Interdisciplinary collaboration skills (with bioinformaticians, AI engineers)
+
+**Key growth areas:**
 
 - Rapid growth
 - Precision medicine
@@ -62,68 +96,67 @@ Assess individual or family risk for inherited conditions, provide genetic testi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友善（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需雇主担保，硕士以上学位通常满足专业职业要求 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上学位或特殊能力，可通过PERM劳工证申请绿卡 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位加经验，绿卡申请路径之一 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa requiring employer sponsorship; master's degree or higher usually satisfies professional occupation requirements. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or higher, or exceptional ability; green card via PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree plus experience, one green card pathway |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Genetic Counselors？**
-- 生物学/医学背景，对遗传学有浓厚兴趣
-- 擅长沟通与同理心，能处理敏感医疗信息
-- 追求稳定且高增长职业的专业人士
-
-**谁不适合学Genetic Counselors？**
-- 对高压情绪管理不适应者
-- 希望避免持续学习与更新的从业者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Biology/medicine background with strong interest in genetics
+- Good communication and empathy skills, ability to handle sensitive medical information
+- Professionals seeking stable and high-growth careers
+
+**Who is not suited**
+- Those uncomfortable with high-pressure emotional management
+- Individuals who wish to avoid continuous learning and updating
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth outlook for genetic counselors?**
+A: With increased experience and certifications, salaries can grow from $65,000 at entry level to over $140,000 at senior level, especially in teaching or research positions.
+
+**Q: How can genetic counselors stay in the US with an H-1B visa?**
+A: Require ACGC-accredited master's and ABGC certification; employers can apply for H-1B; EB-2/EB-3 green cards require PERM labor certification.
+
+**Q: What core skills are needed for genetic counseling?**
+A: Genetics knowledge, risk calculation, communication skills, empathy, and ability to interpret genetic test results.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友善（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Genetic Counselors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth outlook for genetic counselors?**
-答：With experience and certification, salaries can grow from $65,000 for entry-level to over $140,000 for senior roles, especially in teaching or research.
-
-**问：How can genetic counselors stay in the US via H-1B visa?**
-答：Require ACGC-accredited master's and ABGC certification; employer can sponsor H-1B; EB-2/EB-3 green card requires PERM labor certification.
-
-**问：What core skills are needed for genetic counseling?**
-答：Genetics knowledge, risk calculation, communication skills, empathy, and ability to interpret genetic test results.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

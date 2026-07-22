@@ -1,59 +1,93 @@
-# Painters and wallpaperers（Painters and wallpaperers）职业分析 · ES
+# Painters and wallpaperers — career analysis · Spain
 
-**职业代码：7231 – Painters and wallpaperers。**
+**Occupation code: 7231 (CNO)**
 
-Responsible for painting, decorating, and wallpapering interior and exterior surfaces in buildings; an essential trade in Spain's construction sector.
+Responsible for painting, decorating, and wallpapering the interior and exterior walls of buildings, it is an indispensable technical skill in Spain's construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Medio (中等职业培训) | 2年 | —（公立学校免费，仅材料费） |
-| FP Grado Superior (高等职业培训) | 2年 | —（可进入高级装饰或项目管理） |
+| FP Grado Medio (Secondary Vocational Training) | 2 years | $0~$1,500 (Public schools are free, only material fees are required) |
+| FP Grado Superior (Higher Vocational Training) | 2 years | $0~$2,000 (Access to advanced decoration or project management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Medio en Pintura y Decoración | 西班牙教育部 | 可选 | 中等职业培训文凭，非强制但雇主青睐 |
-| 职业资格证书（Certificado de Profesionalidad） | SEPE | 可选 | 可替代FP，证明实操技能 |
-| 高空作业安全认证 | 西班牙劳动部 | 必备 | 若涉及高空作业则需持有 |
+| Certification for working at heights | Spanish Ministry of Labor | Required | If it involves working at heights, it must be held |
+| FP Grado Medio en Pintura y Decoración | Spanish Ministry of Education | Optional | Secondary vocational training diploma, not mandatory but favored by employers |
+| Professional Qualification Certificate (Certificado de Profesionalidad) | SEPE | Optional | Can replace FP and prove practical skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。西班牙建筑业复苏带动需求，但受经济周期影响较大。2024-2025年预计稳定增长，新房装修和旧房翻新是主要动力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. The recovery of Spain's construction sector is driving demand, but is heavily affected by economic cycles. Stable growth is expected in 2024-2025, with new home renovations and old home renovations as the main drivers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或助手级别 |
-| 中级（3-7年） | $22,000~$28,000 | 熟练工（Oficial） |
-| 高级（7年以上） | $28,000~$35,000 | 工头或自雇承包商，收入可更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprentice or assistant level |
+| Mid-level (3–7 years) | $22,000~$28,000 | Skilled Worker (Oficial) |
+| Senior (7+ years) | $28,000~$35,000 | Foremen or self-employed contractors can earn even more |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒（Ayudante）晋升为熟练工（Oficial），进而成为工头（Capataz）或自雇承包商。积累经验后可专攻装饰性涂装或项目管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
+
+You can advance from apprentice (Ayudante) to skilled worker (Oficial), then become foreman (Capataz) or self-employed contractor. After gaining experience, you can specialize in decorative painting or project management.
+
+**Tasks most exposed to AI:**
+
+- Color formulation and swatch matching (AI vision systems can automatically identify and adjust colors)
+- Wall area measurement and material quantity calculation (AI measurement tools replacing manual estimation)
+- Operation and supervision of automatic spray painting machines (automated coating systems)
+- Wallpaper pattern alignment and cutting optimisation (computer vision-assisted)
+
+**Where AI augments the role:**
+
+- Complex texture and antique effect designs (AI generates creative templates for reference)
+- On-site defect detection (AI vision assists in finding subtle unevenness and color differences)
+- Customer communication and preview (AI-generated 3D renders for client confirmation)
+- Project quotation and schedule management (AI automates estimation and scheduling)
+- Safety monitoring and construction quality recording (AI real-time monitoring tool)
+
+**Human moat:**
+
+- Fine manual skills (e.g., French polishing, wood staining cannot be fully automated)
+- On-site adaptability (handling irregular surfaces and unexpected issues)
+- Aesthetic judgment and client communication (understanding personalized needs and providing artistic advice)
+- Safety compliance and multi-trade coordination (on-site management is irreplaceable)
+
+**Skills to build:**
+
+- Master digital measurement and color matching software (e.g., Sherwin-Williams ColorSnap)
+- Learn to use spray painting robots and automated coating equipment
+- Improve project management and client communication skills
+- Learning 3D rendering and VR preview tools (e.g., SketchUp or Unreal Engine)
+- Knowledge of eco-friendly paints and sustainable construction techniques
+- Basic data analysis and electronic document processing
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -62,68 +96,67 @@ Responsible for painting, decorating, and wallpapering interior and exterior sur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 获得西班牙雇主工作合同后可申请受雇工作居留，适合已有offer的申请人。 |
-| Subclass Cuenta propia（Self-Employment Visa） | 以自雇身份在西班牙开展油漆业务，需提交商业计划书。 |
-| Subclass Busqueda empleo（Job Search Visa） | 针对高学历或职业培训毕业生，可在西班牙停留1年寻找工作。 |
+| Subclass Cuenta ajena (Work Contract Visa) | After obtaining a work contract with a Spanish employer, you can apply for employment residence, which is suitable for applicants who already have an offer. |
+| Subclass Cuenta propia (Self-Employment Visa) | To start a painting business in Spain as self-employed, a business plan must be submitted. |
+| Subclass Busqueda empleo (Job Search Visa) | For graduates with higher education or vocational training, you can stay in Spain for one year to look for a job. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Painters and wallpaperers？**
-- 喜欢动手、注重细节与耐心的人
-- 愿意从事体力劳动且不介意户外工作环境
-- 希望在建筑行业以较低门槛稳定就业
-
-**谁不适合学Painters and wallpaperers？**
-- 对油漆气味或化学材料过敏
-- 无法适应高空作业或长时间站立
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, pay attention to detail, and are patient
+- Willing to do physical labor and not mind the outdoor work environment
+- They hope to find stable employment in the construction industry with a lower entry barrier
+
+**Who is not suited**
+- Allergic to paint smells or chemical materials
+- Unable to adapt to working at heights or standing for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for Spanish painters?**
+A: Junior: approximately €18,000-22,000, skilled worker: €22,000-28,000, foreman or self-employed can reach over €35,000.
+
+**Q: How can non-EU citizens immigrate to Spain through the painter profession?**
+A: Mainly by obtaining a work contract (Cuenta ajena) from a Spanish employer or applying for a self-employment visa. It is recommended to complete FP vocational training first to increase opportunities.
+
+**Q: Is Spanish academic credential required to work?**
+A: No certification is required, but having an FP diploma or vocational qualification can greatly enhance your competitiveness in the job. Working at heights requires additional safety certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Painters and wallpaperers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for painters in Spain?**
-答：Entry-level: €18,000-22,000; skilled: €22,000-28,000; supervisor or self-employed: up to €35,000+.
-
-**问：How can non-EU citizens immigrate to Spain as a painter?**
-答：Mainly via a work contract (Cuenta ajena) or self-employment visa. Completing FP vocational training is recommended.
-
-**问：Is homologation of foreign qualifications required to work as a painter in Spain?**
-答：No homologation required, but FP diploma or vocational certificate boosts employability. Safety certificate needed for work at height.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

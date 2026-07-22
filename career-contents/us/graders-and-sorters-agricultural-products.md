@@ -1,59 +1,90 @@
-# Graders and Sorters, Agricultural Products（Graders and Sorters, Agricultural Products）职业分析 · 美国
+# Graders and Sorters, Agricultural Products — career analysis · United States
 
-**职业代码：45-2041 – Graders and Sorters, Agricultural Products。**
+**Occupation code: 45-2041 (SOC)**
 
-Grade, sort, or classify unprocessed food and other agricultural products by size, weight, color, or condition to ensure quality standards.
+Grade and sort unprocessed agricultural products by size, weight, color, or condition to ensure quality standards.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无需 | —（通常无需正规教育，在职培训为主） |
-| 短期培训 | 1个月 | —（雇主提供培训费用） |
+| High school diploma | None | $0~$0 (Typically no formal education required, on-the-job training) |
+| Short-term training | 1 month | $0~$500 (Employer covers training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业产品分级员认证 | 美国农业部（USDA） | 可选 | 部分州或特定农产品要求 |
+| Agricultural Product Grader Certification | US Department of Agriculture (USDA) | Optional | Some states or specific agricultural product requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 16,300。预计2022-2032年就业增长约2%，慢于平均水平，受农业自动化和机械化影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 16,300. Employment growth projected at about 2% from 2022 to 2032, slower than average, affected by agricultural automation and mechanisation.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 入门级，季节性工作 |
-| 中级（3-6年） | $32,000~$38,000 | 有经验的分级员 |
-| 高级（6年以上） | $38,000~$45,000 | 主管或高级分级员 |
+| Median salary | $35,730 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Entry-level, seasonal work. |
+| Mid-level (3–6 years) | $32,000~$38,000 | Experienced Grader |
+| Senior (6+ years) | $38,000~$45,000 | Supervisor or senior grader |
+| average salary | $36,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从入门级分级员做起，可晋升为高级分级员或质检主管，部分转向农业检验或质量控制领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly replace visual inspection and manual grading tasks for agricultural product graders and sorters, but will also create new demands for quality traceability, supply chain coordination, etc. Entry-level positions face compression, but technical upgrade paths are clear
+
+Typically start as entry-level grader, can advance to senior grader or quality control supervisor, with some transitioning to agricultural inspection or quality control.
+
+**Tasks most exposed to AI:**
+
+- Automated grading of agricultural products by size, color, and defects using computer vision
+- Using automated sorting lines to replace manual sorting.
+- AI replaces manual judgment with sensor-based weight and ripeness detection
+
+**Where AI augments the role:**
+
+- using AI to analyze grading data to optimize supply chain decisions
+- Uses computer vision to assist humans in complex defect identification
+- Use predictive models to warn of quality anomalies in advance
+- Leveraging blockchain and AI to enhance quality traceability transparency
+
+**Human moat:**
+
+- Judgment for non-standard shapes or extreme environment samples
+- Communicate and negotiate grading standards with buyers and growers
+- Subtle discrimination in sensory quality control (e.g., flavor, texture)
+- Handle automation system faults and anomalies
+
+**Skills to build:**
+
+- Basics of machine learning and computer vision
+- Data analysis and statistical modeling
+- Operation and maintenance of automated sorting equipment
+- Supply chain management and coordination
+- Knowledge of food safety and quality control systems
+
+**Key growth areas:**
 
 - Automation
 - Quality Control
@@ -62,62 +93,64 @@ Grade, sort, or classify unprocessed food and other agricultural products by siz
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Workers） | 季节性农业工人签证，雇主需证明劳工短缺 |
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 非农业季节性工作，适用于加工环节 |
+| Subclass H-2A (H-2A Temporary Agricultural Workers) | Seasonal agricultural worker visa, employer must prove labor shortage |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Non-agricultural seasonal work, applicable to processing stages |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Graders and Sorters, Agricultural Products？**
-- 注重细节、耐心细致的人
-- 喜欢户外和农业环境的人
-- 愿意从事季节性工作的人
+**Who is suited**
+- Detail-oriented, patient, and careful people
+- People who enjoy outdoor and agricultural environments
+- People willing to do seasonal work
 
-**谁不适合学Graders and Sorters, Agricultural Products？**
-- 追求高薪和职业发展的人
-- 无法适应体力劳动或户外工作的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People unable to adapt to physical labor or outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of agricultural product graders?**
+A: Annual salary approx USD 25,000-45,000; entry-level lower, experienced supervisors over USD 45,000.
+
+**Q: Are there pathways for this occupation to immigrate to the US?**
+A: Limited immigration pathways for this occupation, mainly through H-2A or H-2B temporary work visas, but difficult to get a green card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Graders and Sorters, Agricultural Products属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for graders and sorters?**
-答：Annual salary ranges from $25,000 to $45,000, with entry-level positions lower and experienced supervisors above $45,000.
-
-**问：Are there immigration pathways for this occupation?**
-答：Immigration pathways are limited, mainly via H-2A or H-2B temporary visas, with difficult transition to green card.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Patents Examiner（Patents Examiner）职业分析 · 新西兰
+# Patents Examiner — career analysis · New Zealand
 
-**职业代码：224914 – Patents Examiner。**
+**Occupation code: 224914 (ANZSCO)**
 
-Patents Examiners assess patent applications for compliance with patentability criteria. This role is primarily in public sector like IPONZ and offers migration pathways via Skilled Migrant Category or Green List.
+Patent examiners review patent applications and assess whether inventions meet patentability criteria. This role is mainly in public sector organizations like the Intellectual Property Office of New Zealand (IPONZ), with immigration pathways through skilled migration or the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $60,000~$100,000（科学、工程或法律相关专业） |
-| 硕士学位 | 1-2年 | $50,000~$80,000（知识产权法或技术领域硕士） |
-| 研究生文凭 | 1年 | $30,000~$50,000（知识产权研究生文凭可选） |
+| Bachelor's degree | 3 years | $60,000~$100,000 (Background in Science, Engineering, or Law) |
+| Master's degree | 1-2 years | $50,000~$80,000 (Master's degree in intellectual property law or technical field) |
+| Graduate diploma | 1 year | $30,000~$50,000 (Graduate Diploma in Intellectual Property available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册专利律师 | 新西兰知识产权局（IPONZ） | 必备 | 需通过考试，注册后执业 |
-| 英语能力证明（雅思6.5） | 新西兰移民局 | 可选 | 非母语者需提供 |
-| 技术领域学位 | 认可高等教育机构 | 必备 | 科学、工程或法律背景 |
+| New Zealand registered patent attorney | Intellectual Property Office of New Zealand (IPONZ) | Required | Need to pass exams, practice after registration |
+| Degree in a technical field | Recognized higher education institution. | Required | Science, engineering, or legal background |
+| English proficiency proof (IELTS 6.5) | New Zealand Immigration Service | Optional | Non-native speakers must provide |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250。新西兰知识产权领域就业稳定，专利审查员需求受技术创新驱动。政府机构职位有限，但竞争适中。预计未来5年就业增长温和。
+**Job demand: medium (★★★☆☆).** National workforce approx. 250. Employment in New Zealand's intellectual property sector is stable; demand for patent examiners is driven by technological innovation. Government agency positions are limited but competition is moderate. Expected moderate employment growth over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | IPONZ或类似机构 |
-| 中级（3-6年） | $90,000~$120,000 | 包括高级审查员 |
-| 高级（6年以上） | $120,000~$150,000 | 团队领导或专家 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | IPONZ or a similar body |
+| Mid-level (3–6 years) | $90,000~$120,000 | Including senior reviewers |
+| Senior (6+ years) | $120,000~$150,000 | Team leader or specialist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级审查员通过积累经验可晋升为高级审查员、团队领导或政策专家。部分人员转向律师事务所或企业知识产权部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Patent examiner job is mixed: AI can greatly improve efficiency in patent search, classification, and preliminary novelty assessment, but legal judgment, inventive step evaluation, and report writing still require human expertise. Overall risk is moderate.
+
+Junior examiners can advance to senior examiner, team leader, or policy expert by accumulating experience. Some move to law firms or corporate IP departments.
+
+**Tasks most exposed to AI:**
+
+- Patent literature search and classification
+- Formal review (format and completeness check)
+- Preliminary assessment of standard novelty
+- Data entry and document management
+
+**Where AI augments the role:**
+
+- Intelligent search and comparison analysis
+- Patent trends and patentability prediction
+- First draft generation and template optimization for review comments
+- Collaborative communication with technical specialists
+
+**Human moat:**
+
+- Creative judgment and legal reasoning
+- Communication and negotiation with applicants
+- Complex legal interpretation and case application
+- Ethics and decision-making responsibility
+
+**Skills to build:**
+
+- Use of AI search tools and patent analysis platforms
+- Data science and basic programming
+- In-depth understanding of intellectual property law
+- Communication and persuasion skills
+- Project management and multitasking
+
+**Key growth areas:**
 
 - Stable
 - Government Sector
@@ -63,68 +95,67 @@ Patents Examiners assess patent applications for compliance with patentability c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 基于6分制，需满足学历、工作经验及薪资要求 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事该职业满2年可申请居留，需满足薪资中位数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，适用于临时工作 |
+| Subclass SMC (Skilled Migrant Category) | Based on a 6-point system, must meet education, work experience, and salary requirements |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After working in this occupation for 2 years, you can apply for residency, provided the salary meets the median wage. |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an approved employer, applicable for temporary work |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Patents Examiner？**
-- 具备科学、工程或法律背景的毕业生
-- 对知识产权和专利法有浓厚兴趣者
-- 希望进入政府机构从事稳定职业的人
-
-**谁不适合学Patents Examiner？**
-- 不喜欢文书工作和细节分析者
-- 追求高薪且快速晋升者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with a science, engineering, or law background
+- Those with strong interest in intellectual property and patent law
+- Those looking to enter government agencies for stable careers
+
+**Who is not suited**
+- Those who dislike paperwork and detailed analysis
+- Those pursuing high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for patent examiners in New Zealand?**
+A: Junior: NZD 70,000-90,000, mid-level: 90,000-120,000, senior: 120,000-150,000. Public sector salaries are more fixed, while private companies may offer higher pay.
+
+**Q: Can patent examiners migrate to New Zealand?**
+A: Yes, through skilled migration (SMC) or Green List Tier 2 work-to-residence pathway. Must meet education, work experience, and salary requirements.
+
+**Q: What qualifications are needed to become a patent examiner in New Zealand?**
+A: At least a bachelor's degree in science, engineering, or law; then must pass the IPONZ registered patent attorney exam. English proficiency is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Patents Examiner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Patents Examiner in New Zealand?**
-答：Entry level NZD 70k-90k, mid-level NZD 90k-120k, senior NZD 120k-150k. Public sector salaries are standardized.
-
-**问：Can a Patents Examiner immigrate to New Zealand?**
-答：Yes, via Skilled Migrant Category or Green List Tier 2 (Work to Residence). Requires relevant qualifications, experience, and salary threshold.
-
-**问：What qualifications are needed to become a Patents Examiner in New Zealand?**
-答：A bachelor's degree in science, engineering, or law is required. Further registration as a patent attorney via IPONZ exams. English proficiency required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

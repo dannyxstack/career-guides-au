@@ -1,66 +1,95 @@
-# IT技术支持（ICT Support Technician）职业分析 · 澳大利亚
+# ICT Support Technician — career analysis · Australia
 
-**职业代码：313113 – ICT Support Technician。**
+**Occupation code: 313113 (ANZSCO)**
 
-IT技术支持人员为企业和个人用户提供硬件、软件和网络问题的诊断与解决服务。澳洲是IT支持岗位最多的职业之一，入行门槛相对较低，适合IT入行人员积累经验，晋升路径可通向系统管理员、网络工程师或信息安全等方向。
+IT support professionals diagnose and resolve hardware, software and network issues for businesses and individual users. IT support is one of the most widely available occupations in Australia, with a relatively low entry barrier — making it well suited to those starting out in IT. Career progression can lead to roles such as systems administrator, network engineer or information security specialist.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III/IV in IT or Diploma of IT | 6~18个月 | $3,000~$15,000（TAFE或私立学院） |
-| CompTIA A+ / Network+ Certification | 1~3个月备考 | $400~$1,200（行业基础认证） |
-| Microsoft 365 Fundamentals / Azure Fundamentals | 1~2个月 | $200~$800（云支持加分项） |
+| Certificate III/IV in IT or Diploma of IT | 6–18 months | $3,000~$15,000 (TAFE or private college) |
+| CompTIA A+ / Network+ Certification | 1–3 months of exam preparation | $400~$1,200 (Foundational industry certification) |
+| Microsoft 365 Fundamentals / Azure Fundamentals | 1–2 months | $200~$800 (Cloud support is an advantage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III/IV in Information Technology | TAFE / RTO | 可选 | 入行可选 |
-| CompTIA A+ / Network+ | CompTIA | 可选 | 行业基础认证 |
-| ITIL Foundation | Axelos | 可选 | 服务管理加分 |
+| Certificate III/IV in Information Technology | TAFE / RTO | Optional | Entry-level options |
+| CompTIA A+ / Network+ | CompTIA | Optional | Foundational industry certification |
+| ITIL Foundation | Axelos | Optional | Service management points bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 45,000。远程办公常态化和企业云化持续推动对IT支持的需求，托管服务提供商（MSP）模式快速扩张。自动化工具处理部分简单工单，但复杂技术支持和现场服务仍需人工处理。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Remote work normalisation and ongoing cloud adoption continue to drive demand for IT support; managed service provider (MSP) models are expanding rapidly. Automation tools handle some simple tickets, but complex technical support and on-site services still require human involvement.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~900 个 | 2025年均值 |
-| Indeed | 350~600 个 | 2025年均值 |
-| LinkedIn | 400~700 个 | 2025年均值 |
-
-**竞争度：较高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-2年） | $52,000~$68,000 | Level 1 Support |
-| 中级（2-6年） | $70,000~$95,000 | Level 2/3 Support |
-| 高级（6年+） | $98,000~$130,000 | Senior Support / Team Lead |
+| Median salary | $87,724 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $52,000~$68,000 | Level 1 Support |
+| Mid-level (2–6 years) | $70,000~$95,000 | Level 2/3 Support |
+| Senior (6+ years) | $98,000~$130,000 | Senior Support / Team Lead |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** Level 1/2支持向Level 3和专业化方向分化，持有CompTIA A+/Network+或Microsoft 365认证的支持人员更受青睐。MSP行业是IT支持最主要的就业渠道，提供快速积累技术经验的机会。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
+
+Level 1/2 support is branching towards Level 3 and specialised roles, with preference given to candidates holding CompTIA A+/Network+ or Microsoft 365 certifications. The MSP sector is the primary employment channel for IT support, offering opportunities to rapidly build technical experience.
+
+**Tasks most exposed to AI:**
+
+- Automate common IT issues (e.g., password resets, network connection resets) via AI chatbots
+- AI auto-diagnosing hardware faults and recommending replacement parts
+- Automated script writing and execution (e.g., system log analysis, patch installation)
+- Knowledge base retrieval and answer delivery (AI replaces manual document searching)
+
+**Where AI augments the role:**
+
+- AI-assisted root cause analysis for complex problems (providing fault trees, log correlation suggestions)
+- AI-driven monitoring and early warning system to proactively detect potential system failures
+- Automatically generate customer reports and technical documents to improve communication efficiency
+- AI tools accelerate new employee training (simulating fault scenarios)
+- Real-time multilingual translation support to expand service scope
+
+**Human moat:**
+
+- Diagnosis and debugging of cross-system integration issues (involving legacy systems, cloud services, etc.).
+- Empathetic communication and conflict resolution with clients under high pressure
+- Creative problem-solving for non-standard, undocumented faults
+- Decision-making in safety-sensitive scenarios (e.g., disconnecting network vs. restoring data)
+- Deep adaptation and optimization of software and hardware for specific business scenarios
+
+**Skills to build:**
+
+- Cloud infrastructure (AWS/Azure/GCP) management and troubleshooting
+- Automation operation tools (Ansible, Terraform, PowerShell)
+- AI/ML fundamentals (able to understand model outputs, fine-tune prompts)
+- Cybersecurity basics (e.g., vulnerability patching, auditing)
+- Data analysis and visualization (SQL, Python, Power BI)
+- Advanced client management and project management certifications (ITIL, PMP)
+
+**Key growth areas:**
 
 - Managed Service Providers
 - Remote Work Infrastructure
@@ -69,66 +98,64 @@ IT技术支持人员为企业和个人用户提供硬件、软件和网络问题
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学IT技术支持？**
-- IT行业新入行者积累经验的理想起点
-- 喜欢解决问题和与用户互动者
-- 希望通过实战快速积累IT技能者
-
-**谁不适合学IT技术支持？**
-- 希望直接高薪入行者
-- 不喜欢处理用户投诉和重复性工单者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- An ideal entry point for those new to the IT industry to build experience
+- Those who enjoy problem-solving and engaging with users
+- Those looking to build IT skills quickly through hands-on work experience
+
+**Who is not suited**
+- Those looking to enter the field at a high salary immediately
+- Not suited to those who dislike handling user complaints and repetitive tickets
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for IT technical support roles in Australia?**
+A: Junior Level 1 approx AUD 52,000-68,000, Level 2/3 approx AUD 70,000-95,000, senior/team leader up to AUD 98,000-130,000.
+
+**Q: Is it easy to find an IT support job in Australia?**
+A: This is one of the highest-volume IT roles in Australia, with 500–900 active listings on Seek at any given time. MSPs and large enterprises are the primary employers, and the entry barrier is low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 313113 IT技术支持数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-IT技术支持的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：IT技术支持在澳洲薪资如何？**
-答：初级Level 1约AUD 5.2万~6.8万，Level 2/3约7万~9.5万，高级/团队负责人可达9.8万~13万。
-
-**问：澳洲IT支持岗位好找吗？**
-答：是澳洲岗位量最大的IT职位之一，Seek常年有500~900个活跃职位，MSP公司和大型企业是主要雇主，入行门槛低。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

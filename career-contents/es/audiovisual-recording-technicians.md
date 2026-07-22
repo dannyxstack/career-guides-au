@@ -1,58 +1,94 @@
-# Audiovisual Recording Technicians（Audiovisual Recording Technicians）职业分析 · ES
+# Audiovisual Recording Technicians — career analysis · Spain
 
-**职业代码：3831 – Audiovisual Recording Technicians。**
+**Occupation code: 3831 (CNO)**
 
-Audiovisual recording technicians operate and maintain audio, video, and multimedia recording equipment for television, film, broadcast, and online media production.
+Audio and video recording technicians are responsible for operating and maintaining audio, video, and multimedia recording equipment, suitable for television, film, radio, and online media production.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | $500~$2,500（公立学校学费低） |
-| 大学本科（Grado） | 4年 | $1,500~$6,000（公立大学年学费） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $500~$2,500 (Public school tuition is low) |
+| Undergraduate (Grado) | 4 years | $1,500~$6,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior 或大学本科学位 | 西班牙教育部认可院校 | 可选 | 相关领域如音像制作、多媒体技术 |
-| 专业认证（如Adobe Certified Associate） | Adobe或其他机构 | 可选 | 提高竞争力，非强制 |
+| FP Grado Superior or university undergraduate degree | Recognized by the Spanish Ministry of Education | Optional | Related fields include audiovisual production and multimedia technology |
+| Professional certifications (such as Adobe Certified Associate) | Adobe or other organizations | Optional | Enhancing competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,500。随着西班牙数字媒体和流媒体平台的扩张，音像录制技术员需求稳定增长，尤其在马德里和巴塞罗那等媒体中心，就业机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,500. With the expansion of digital media and streaming platforms in Spain, demand for audiovisual recording technicians has steadily increased, especially in media hubs like Madrid and Barcelona, where job opportunities are abundant.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（4-7年） | $24,000~$34,000 | 税前年薪 |
-| 高级（8年以上） | $34,000~$45,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $24,000~$34,000 | Annual pre-tax salary |
+| Senior (8+ years) | $34,000~$45,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业发展路径：从助理技术员起步，可晋升为高级录制师、技术主管或制片人；也可专攻后期制作或现场直播领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will reshape the work of audiovisual recording technicians: repetitive operations are easily automated, but creativity and decision-making are amplified, resulting in mixed outcomes for the overall role.
+
+Career development path: Start as an assistant technician and can be promoted to senior recording engineer, technical supervisor, or producer; You can also specialize in post-production or live streaming.
+
+**Tasks most exposed to AI:**
+
+- Adjustment of basic parameters such as automatic white balance, focus, and color correction
+- Automatically generates subtitles and speech-to-text
+- Automated rough cuts and scene detection in video editing
+- Template-based audio noise reduction and equalization
+- Automatic archiving of materials and metadata tagging
+
+**Where AI augments the role:**
+
+- Use AI to assist real-time color grading and special effects preview
+- AI analyzes audience feedback to optimize shooting plans
+- Use AI tools to quickly generate multilingual dubbing and subtitles
+- Dynamic storyboard design with the help of AI
+- Use AI to predict equipment failures to reduce downtime
+
+**Human moat:**
+
+- Adaptability and creativity in on-site emergencies
+- Artistic aesthetics and narrative control in complex scenes
+- Soft skills in customer communication and team collaboration
+- Maintenance and commissioning of high-end customized equipment
+- Interpersonal interaction and management in unstructured environments
+
+**Skills to build:**
+
+- Proficient in AI video editing tools (such as Adobe Premiere AI features)
+- Learn AI audio processing plugins (such as iZotope RX)
+- Basic programming and automation scripting skills (Python)
+- Data visualization and audience analysis
+- Cloud collaboration platform and remote production processes
+- Intelligent camera and lighting control system
+
+**Key growth areas:**
 
 - Digital media
 - Streaming services
@@ -61,64 +97,63 @@ Audiovisual recording technicians operate and maintain audio, video, and multime
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇于西班牙公司的工作居留，需雇主担保 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高技能专业人士，要求学历或工作经验 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Work residence employed by a Spanish company requires employer sponsorship |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for highly skilled professionals, requiring academic or work experience |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Audiovisual Recording Technicians？**
-- 对音像技术有浓厚兴趣，动手能力强
-- 喜欢创意行业，能适应灵活工作时间
-- 愿意在媒体制作领域持续学习新技术
-
-**谁不适合学Audiovisual Recording Technicians？**
-- 不规律工作时间敏感者
-- 追求极高收入者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in audiovisual technology and strong hands-on skills
+- Enjoy creative industries and adapt to flexible working hours
+- Willing to continuously learn new technologies in the field of media production
+
+**Who is not suited**
+- Irregular working hours and sensitive individuals
+- Those pursuing extremely high incomes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for audiovisual recording technicians in Spain?**
+A: Entry-level salary around €18,000-24,000, senior up to €45,000; salary significantly affected by region and experience.
+
+**Q: Can third-country citizens immigrate to Spain through this employment?**
+A: Yes, you must obtain a work contract with a Spanish company and apply for employment residence (Cuenta ajena); Highly skilled individuals can apply for the Altamente cualificado visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Audiovisual Recording Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for audiovisual recording technicians in Spain?**
-答：Entry-level salary is around €18,000-€24,000, and senior technicians can earn up to €45,000, varying by region and experience.
-
-**问：Can third-country nationals immigrate through this occupation in Spain?**
-答：Yes, obtain a job offer and apply for a work permit (Cuenta ajena); highly skilled professionals can apply for the Altamente cualificado visa.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

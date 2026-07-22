@@ -1,58 +1,92 @@
-# Fast Food Preparer（Fast Food Preparer）职业分析 · NL
+# Fast Food Preparer — career analysis · Netherlands
 
-**职业代码：9411 – Fast Food Preparer。**
+**Occupation code: 9411 (ISCO08)**
 
-Fast food preparers are responsible for preparing and cooking food items in fast food restaurants, such as burgers, fried chicken, and fries, ensuring quick and accurate order fulfillment and maintaining cleanliness.
+A fast food preparer makes and cooks food in a fast food restaurant, such as burgers, fried chicken, and fries, ensuring orders are completed quickly and accurately, and maintaining workstation cleanliness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 无特定要求 | —（通常无需正式教育费用） |
-| 职业培训 (MBO) | 1-2年 | $500~$2,000（公立学校学费较低，可能获政府补贴） |
+| High school diploma or equivalent | No specific requirements | $0~$0 (Usually no formal education costs.) |
+| Vocational training (MBO) | 1-2 years | $500~$2,000 (Public schools have lower tuition fees, may receive government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 荷兰食品安全局 (NVWA) 认可机构 | 可选 | 证明基本食品安全知识，部分雇主要求 |
-| 卫生证书 (HACCP) | 认证培训机构 | 可选 | 提升就业竞争力 |
+| Food safety certificate | Recognised by the Netherlands Food and Consumer Product Safety Authority (NVWA) | Optional | Proof of basic food safety knowledge, required by some employers. |
+| Hygiene certificate (HACCP) | Accredited training organization | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。荷兰快餐行业就业稳定，受消费习惯和旅游业推动，但自动化和自助点餐可能抑制需求增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Employment in the Dutch fast-food industry is stable, driven by consumer habits and tourism, but automation and self-service kiosks may curb demand growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$25,000 | 税前，基于全职 |
-| 中级（2-5年） | $25,000~$30,000 | 税前，含经验加成 |
-| 高级（5年以上或主管） | $30,000~$35,000 | 税前，主管级 |
+| Median salary | $35,173 | Median salary (official: CBS median hourly wage €17.8/hour × 1976h annualized, BRC group 1112 Koks; P25–P75 €31,221–€41,891, CBS 2024) |
+| Entry level (0–2 years) | $20,000~$25,000 | Pre-tax, based on full-time |
+| Intermediate (2-5 years) | $25,000~$30,000 | Before tax, including experience premium |
+| Senior (5+ years or supervisor) | $30,000~$35,000 | Before tax, supervisor level |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 通常从初级岗位起步，可晋升为厨房领班或餐厅经理，但晋升空间有限，多依赖经验积累。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Most repetitive tasks for fast food cooks will be automated by AI, but interpersonal interaction and on-site adaptability still retain some value, with overall job demand shrinking.
+
+Usually start from entry-level positions, can advance to kitchen supervisor or restaurant manager, but promotion opportunities are limited, mostly relying on experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically prepare ingredients and cook based on orders (e.g., burgers, fries)
+- Monitor cooking time and temperature, adjust equipment settings.
+- Inventory counting and automatic replenishment triggering
+- Automated scheduling and execution of cleaning plans
+- Handles standardized customer complaints and feedback.
+
+**Where AI augments the role:**
+
+- Collaborate with AI to manage complex orders (e.g., special dietary requirements)
+- Using data analysis to optimize meal preparation processes and reduce waste
+- Quickly learn new recipes through augmented reality training
+- Using AI-driven quality inspection to ensure food consistency
+
+**Human moat:**
+
+- Respond flexibly to on-site emergencies (e.g., equipment failures, customer complaints)
+- Handcrafting personalized food items (e.g., custom burgers).
+- Teamwork and communication to maintain a positive work atmosphere
+- On-site judgment of food safety and hygiene
+
+**Skills to build:**
+
+- Operate and maintain automated kitchen equipment
+- Basic data analysis and inventory management software
+- Customer service and communication skills
+- Cross-cultural service awareness (for international customers)
+- Basic programming or robot collaboration skills
+- Food safety certifications (e.g., HACCP).
+
+**Key growth areas:**
 
 - Stable demand
 - Automation impact
@@ -61,68 +95,67 @@ Fast food preparers are responsible for preparing and cooking food items in fast
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术人才，快餐制作员通常不符合薪资门槛（2024年最低约€5,008/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高薪资和高学历，不适用于此职业。 |
-| Subclass Orientation Year（Orientation Year Visa for Graduates） | 适用于在荷兰毕业的国际学生，可在毕业后一年内自由工作，之后需换签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled talents; fast food cooks typically do not meet the salary threshold (minimum about €5,008/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Requires high salary and high education, not applicable for this occupation. |
+| Subclass Orientation Year (Orientation Year Visa for Graduates) | Applicable to international students who graduated in the Netherlands, allowing free work for one year after graduation, after which a visa change is required. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fast Food Preparer？**
-- 寻求入门级快速就业的年轻人
-- 适应快节奏环境者
-- 兼职或临时工需求者
-
-**谁不适合学Fast Food Preparer？**
-- 追求高薪和晋升空间者
-- 对重复性工作感到厌倦者
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Young people seeking entry-level quick employment
+- Suitable for those who thrive in fast-paced environments
+- Those seeking part-time or temporary work.
+
+**Who is not suited**
+- Those seeking high salary and promotion opportunities
+- Those tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a fast food preparer?**
+A: Annual salary approximately €20,000-€35,000, depending on experience and employer.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Low likelihood, as this occupation does not meet the high-skilled immigration salary threshold, and the Netherlands has strict restrictions on low-skilled non-EU work permits.
+
+**Q: Does this occupation have a career development path?**
+A: Can be promoted to team leader, assistant manager, or store manager, but requires time and performance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fast Food Preparer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fast food preparers?**
-答：Annual salary ranges from €20,000 to €35,000, depending on experience and employer.
-
-**问：Can non-EU nationals immigrate to the Netherlands through this occupation?**
-答：Unlikely, as it does not meet the salary threshold for highly skilled migrants, and the Netherlands has strict work permit rules for low-skilled non-EU workers.
-
-**问：Is there a career progression path for this occupation?**
-答：Can progress to shift supervisor, assistant manager, or store manager, but requires time and performance.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

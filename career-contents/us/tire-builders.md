@@ -1,60 +1,92 @@
-# Tire Builders（Tire Builders）职业分析 · 美国
+# Tire Builders — career analysis · United States
 
-**职业代码：51-9197 – Tire Builders。**
+**Occupation code: 51-9197 (SOC)**
 
-Operate machines to build tires, including layering rubber, fabric, and steel cords on a building drum, and completing production through vulcanization. Work is typically in factory settings, requiring prolonged standing and adherence to safety protocols.
+Operate machines to manufacture tires, including layering materials such as rubber, fabric plies, and steel wires on a forming drum, and completing tire production through processes like vulcanization. Work environment is typically a factory floor, requiring prolonged standing and adherence to safety protocols.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 职业教育证书（轮胎制造相关） | 6个月至1年 | $3,000~$10,000（社区学院或技术学校） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational education certificate (tire manufacturing related). | 6 months to 1 year | $3,000~$10,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无认证要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育部 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 可选 | 通常需数月实践培训 |
+| High school diploma or equivalent | State Department of Education | Required | Basic entry requirements |
+| On-the-job training | Employer | Optional | Usually requires several months of practical training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 24,000。美国轮胎制造业面临自动化趋势，但传统轮胎制造工仍有需求，尤其是替换轮胎市场。就业增长缓慢，预计 2022-2032 年就业岗位变化不大，年均约 2,000 个空缺。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 24,000. The US tire manufacturing industry faces automation trends, but demand for traditional tire builders remains, especially in the replacement tire market. Employment growth is slow, with little change projected from 2022 to 2032, about 2,000 openings per year.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高强度（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约 $14-$17 |
-| 中级（3-7年） | $35,000~$45,000 | 时薪约 $17-$22 |
-| 高级（7年以上） | $45,000~$55,000 | 时薪约 $22-$26 |
+| Median salary | $57,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage approximately $14-$17. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Hourly wage about $17-$22 |
+| Senior (7+ years) | $45,000~$55,000 | Hourly wage about USD 22-$26 |
+| average salary | $57,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：不佳（★½☆☆☆）。** 职业路径有限，可从操作员晋升为高级操作员或班组长。部分经验丰富者可转向质量控制、设备维护或生产管理岗位。通常需要认证或额外培训才能晋升。
-**AI替代风险：中等风险（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Repetitive tasks of tire manufacturing workers are easily automated by robots, leading to a continuous reduction in positions, but equipment maintenance and anomaly handling still require humans.
+
+Limited career path; can advance from operator to senior operator or team leader. Some experienced individuals move to quality control, equipment maintenance, or production management. Certification or additional training is often needed for advancement.
+
+**Tasks most exposed to AI:**
+
+- Manually stacking rubber, cord fabric, and steel wire layers on the building drum
+- Operate vulcanizing press to complete tire vulcanization
+- Visual inspection of tire surface defects
+- Handle and stack finished tires
+
+**Where AI augments the role:**
+
+- Using AI vision systems to assist in detecting internal bubbles and structural anomalies in tires
+- Use digital twin to optimize vulcanization parameters to improve yield
+- AI scheduling system optimizes production line switching for multiple tire types
+
+**Human moat:**
+
+- Ability to quickly diagnose and repair equipment faults
+- Flexibility to handle non-standard materials or process deviations
+- Safety production control and emergency response
+- Collaborate with engineers to improve production processes.
+
+**Skills to build:**
+
+- Basics of PLC and automation equipment programming
+- Industrial robot and robotic arm operation and maintenance
+- Data analysis and statistical process control
+- Basic principles and parameter tuning of AI vision systems
+- Lean production and continuous improvement methods
+- Cross-trade communication and collaboration skills
+
+**Key growth areas:**
 
 - Automation
 - Tire Recycling
@@ -63,64 +95,66 @@ Operate machines to build tires, including layering rubber, fabric, and steel co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Worker） | 仅适用于临时性、季节性工作，且雇主需证明无法招到美国工人。轮胎制造工通常不符合条件。 |
+| Subclass H-2B (Temporary Non-Agricultural Worker) | Only applicable for temporary, seasonal work, and the employer must demonstrate inability to hire U.S. workers. Tire manufacturing workers generally do not qualify. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tire Builders？**
-- 能适应工厂流水线工作
-- 体力好、注重安全细节
-- 接受有限晋升空间
+**Who is suited**
+- Able to adapt to factory assembly line work
+- Physically fit and safety-conscious
+- Accept limited advancement opportunities
 
-**谁不适合学Tire Builders？**
-- 追求高薪或快速晋升者
-- 对体力劳动或单调工作反感者
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Those who dislike physical labor or monotonous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a tyre manufacturing worker?**
+A: The median annual salary for a US tire manufacturing worker is about $38,000; beginners earn around $28,000-$35,000; experienced workers can reach $45,000-$55,000.
+
+**Q: Can tyre manufacturing workers immigrate to the US on a work visa?**
+A: Almost impossible. This occupation is a low-skilled manufacturing job and does not meet H-1B specialty occupation requirements. Only possible through H-2B temporary worker visa, but opportunities are rare and require employer to prove labor shortage.
+
+**Q: What are the job prospects for a tire builder?**
+A: Outlook is stable but with slow growth. Automation may reduce some positions, but the tire replacement market demand remains steady. Little change in employment is expected from 2022 to 2032, with about 2,000 vacancies annually.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 无认证要求（½☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高强度（★★★½☆） |
-| 发展前景 | 不佳（★½☆☆☆） |
-| AI替代风险 | 中等风险（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Tire Builders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for tire builders?**
-答：The median annual salary for tire builders in the US is about $38,000, with entry-level earning $28,000-$35,000 and experienced up to $45,000-$55,000.
-
-**问：Can tire builders immigrate to the US through work visas?**
-答：Extremely difficult. This low-skilled manufacturing role does not qualify for H-1B. Only possible through H-2B temporary work visas, but opportunities are very limited and require employer certification of labor shortage.
-
-**问：What is the job outlook for tire builders?**
-答：Stable but slow growth. Automation may reduce some positions, but replacement tire demand remains steady. Employment is projected to show little or no change from 2022-2032, with about 2,000 openings per year.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

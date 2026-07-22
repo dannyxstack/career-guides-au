@@ -1,60 +1,93 @@
-# Fashion and Other Models（Fashion and Other Models）职业分析 · NL
+# Fashion and Other Models — career analysis · Netherlands
 
-**职业代码：5241 – Fashion and Other Models。**
+**Occupation code: 5241 (ISCO08)**
 
-Fashion and other models display clothing, accessories, and other products to promote goods or services, working in fashion shows, photoshoots, advertising, and commercial events.
+Fashion and other models primarily promote goods or services by showcasing clothing, accessories or other products, including fashion shows, photography shoots, advertising, and commercial events.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（模特通常不需要正规学历，但部分人选择参加模特培训课程或工作坊） |
-| 专业培训或短期课程 | 6个月至2年 | $2,000~$8,000（私人模特学校或时尚学院提供的课程费用不等） |
+| No formal education required | None | $0~$0 (Models typically do not require formal education, but some choose to attend modeling training courses or workshops) |
+| Professional training or short courses | 6 months to 2 years | $2,000~$8,000 (Course fees vary at private modeling schools or fashion academies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 模特培训证书 | 私立模特学校 | 可选 | 非强制，但有助于提升技能和行业认知 |
-| 专业肖像照或模特卡 | 摄影师 | 可选 | 用于寻找工作和代理签约 |
+| Model Training Certificate | Private Model Schools | Optional | Not mandatory, but helps enhance skills and industry knowledge |
+| Professional portrait or model card | Photographer | Optional | For job seeking and agency signing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。荷兰模特行业竞争激烈，但阿姆斯特丹作为时尚中心提供了较多机会。经济增长放缓可能影响高端时尚需求，但数字媒体和电商的持续发展保持了一定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The modeling industry in the Netherlands is highly competitive, but Amsterdam as a fashion hub offers more opportunities. Economic slowdown may affect high-end fashion demand, but continued growth in digital media and e-commerce maintains some demand.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 多按项目收费，年收入不稳定 |
-| 中级（3-7年） | $30,000~$60,000 | 有一定经验和代理支持，收入视项目数量而定 |
-| 高级（7年以上） | $60,000~$120,000 | 仅顶尖模特可达，大部分模特收入远低于此 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$30,000 | Mostly charged per project, unstable annual income |
+| Mid-level (3–7 years) | $30,000~$60,000 | Requires some experience and agent support, income varies depending on project volume |
+| Senior (7+ years) | $60,000~$120,000 | Only top models can achieve this; most models earn far less. |
+| average salary | $52,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：不稳定（★½☆☆☆）。** 大多数模特从自由职业起步，通过积累经验和建立人脉逐步提升。少数顶尖模特可能获得与国际品牌签约的机会，但职业寿命通常较短，许多模特转向代理、造型或相关领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Display roles such as fashion models will experience task restructuring: basic auditions and studio shoots are automated, but AI cannot replace models' core value in conveying emotions and brand stories on runways and in ads; meanwhile, AI tools can boost creative content generation and photo retouching efficiency, creating a mixed outlook for the profession.
+
+Most models start as freelancers, gradually improving by gaining experience and building networks. A few top models may get opportunities to sign with international brands, but careers are often short; many models transition into agency roles, styling, or related fields.
+
+**Tasks most exposed to AI:**
+
+- Using AI-generated 3D virtual models for basic clothing display
+- Automatically complete product catalog photography through AI image synthesis.
+- AI automates matching model appearance with clothing styles, venue lighting, and other parameters
+- AI-driven virtual fitting rooms replace some static display needs
+
+**Where AI augments the role:**
+
+- AI tools quickly generate try-on photos with different styles and backgrounds for customer preview.
+- AI-assisted analysis of social media data to precisely target audiences and brand tone
+- AI video editing automatically optimizes the rhythm and effects of runway model videos
+- AI voice generation and digital human technology assist multilingual dubbing and remote filming.
+
+**Human moat:**
+
+- Impromptu interaction, eye expression, and dynamic rhythm on the catwalk cannot be simulated by AI
+- Efficient real-time collaboration with creative teams such as designers and photographers
+- Ability to convey brand stories, emotional connection, and authentic body aesthetics
+- Improvisation for unexpected situations (e.g., costume damage, schedule changes).
+
+**Skills to build:**
+
+- Proficiency in AI virtual photography studios and digital clothing fitting tools (such as Clo3D, Marvelous Designer)
+- Learn basic video editing and AI motion capture optimization tools (e.g., Runway ML)
+- Social media personal branding and AI data analysis (e.g., understanding TikTok/Instagram algorithms)
+- Improve improvisation, facial expression management, and ad-lib skills
+- Learn Motion Capture and Digital Twin Coordination in Metaverse/VR Scenarios
+- Understand basic 3D modeling and rendering, participate in virtual fashion show planning
+
+**Key growth areas:**
 
 - Digital Media
 - E-commerce
@@ -63,66 +96,68 @@ Fashion and other models display clothing, accessories, and other products to pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于与荷兰公司签订合同的模特，需满足最低薪资门槛，通常用于长期合同 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且高薪的模特，但模特行业通常不符合学历要求，较少适用 |
-| Subclass AUKUS / Orientation （Orientation Year） | 适用于毕业于世界排名前200高校的学生，可在荷兰求职一年，但模特行业起步困难 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to models contracting with Dutch companies, subject to minimum salary threshold, typically used for long-term contracts |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated and high-earning models, but the modeling industry usually does not meet educational requirements, making it less applicable. |
+| Subclass AUKUS / Orientation  (Orientation Year) | Applicable to graduates from universities ranked in the top 200 globally, allowing them to seek a job in the Netherlands for one year, but starting a career in the modeling industry is difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fashion and Other Models？**
-- 外貌出众、身材符合行业标准的人
-- 善于表现、适应镜头和公众场合的人
-- 能承受不规律工作和频繁试镜压力的人
+**Who is suited**
+- People with outstanding appearance and body meeting industry standards
+- People who are expressive and comfortable in front of cameras and in public
+- Able to Handle Irregular Schedules and Frequent Auditions Under Pressure
 
-**谁不适合学Fashion and Other Models？**
-- 追求稳定收入和职业保障的人
-- 不喜欢频繁出差和长时间工作的人
+**Who is not suited**
+- People seeking stable income and job security
+- People who dislike frequent travel and long working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income like for models in the Netherlands?**
+A: Model income varies greatly; most freelance models earn between €15,000 and €30,000 per year, top models may exceed €60,000, but very few achieve that. Income is unstable and project-based.
+
+**Q: How can non-EU models work in the Netherlands?**
+A: Non-EU models typically require employer sponsorship to apply for a Highly Skilled Migrant visa, but must meet salary requirements (approx. €5,008/month in 2023) and contract conditions. Due to intense industry competition, obtaining sponsorship is quite difficult.
+
+**Q: What are the development prospects for the modeling industry in the Netherlands?**
+A: The modelling industry has a short career lifespan, with most people moving into areas such as agency, styling, or fashion management. Digital media and e-commerce have created new opportunities, but the use of AI and virtual models may reduce traditional demand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 低至中（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 不稳定（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极难（★★★★★） |
-
-Fashion and Other Models属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a model in the Netherlands?**
-答：Model income varies widely; most freelance models earn between €15,000 and €30,000 annually, while top models can exceed €60,000, but very few achieve that. Income is unstable and project-based.
-
-**问：How can non-EU models work in the Netherlands?**
-答：Non-EU models usually need employer sponsorship for the Highly Skilled Migrant visa, meeting salary thresholds (approx. €5,008/month in 2023) and contract conditions. Due to intense competition, obtaining sponsorship is difficult.
-
-**问：What are the career prospects for models in the Netherlands?**
-答：The modeling career is typically short-lived; many transition to agencies, styling, or fashion management. Digital media and e-commerce create new opportunities, but AI and virtual models may reduce traditional demand.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

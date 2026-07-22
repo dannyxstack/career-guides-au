@@ -1,63 +1,97 @@
-# Commercial Airline Pilot（Commercial Airline Pilot）职业分析 · FR
+# Commercial Airline Pilot — career analysis · France
 
-**职业代码：N2101 – Commercial Airline Pilot。**
+**Occupation code: N2101 (ROME)**
 
-Responsible for flying commercial aircraft, including takeoff, cruise, and landing, ensuring passenger and crew safety. Requires high professionalism and emergency handling skills, typically employed by airlines.
+Responsible for commercial flight operations, including takeoff, cruising, and landing, ensuring the safety of passengers and crew. A high level of professionalism and emergency response skills is required, and they typically work for airlines.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业飞行员培训（整合式） | 2-3年 | $60,000~$100,000（含飞行学校学费和飞行时数费用，部分可通过学徒制（Apprentissage）资助） |
-| 航空运输飞行员执照（ATPL）集成课程 | 18-24个月 | $70,000~$120,000（通常为私立飞行学校，费用高昂，需自费或贷款） |
-| BTS Aéronautique + ATPL模块 | 3年（BTS）+1年ATP | $20,000~$40,000（公立BTS费用较低，但后续ATP培训仍需高额费用） |
+| Professional Pilot Training (Integrated) | 2-3 years | $60,000~$100,000 (Includes flight school tuition and flight hour fees, with some funded through apprenticeships) |
+| Integrated Air Transport Pilot License (ATPL) course | 18-24 months | $70,000~$120,000 (These are usually private flight schools, which are expensive and require either self-payment or loans) |
+| BTS Aéronautique + ATPL module | 3 years (BTS) + 1 year ATP | $20,000~$40,000 (Public BTS programs are relatively low, but subsequent ATP training still requires high fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业飞行员执照（CPL） | 法国民航局（DGAC） | 必备 | 必需的飞行执照，包含理论和实践考试 |
-| 仪表等级（IR） | DGAC认证的培训机构 | 必备 | 允许在仪表气象条件下飞行，是职业飞行员的必备条件 |
-| 航线运输驾驶员执照（ATPL） | DGAC | 必备 | 担任机长的必要条件，可通过累积飞行经验获取 |
-| 医学检查（Class 1） | DGAC授权的航空体检医生 | 必备 | 定期体检以维持执照有效性，每年一次 |
+| Commercial Pilot License (CPL) | French Civil Aviation Authority (DGAC) | Required | A mandatory pilot's license, which includes both theoretical and practical exams |
+| Instrument Rating (IR) | DGAC accredited training institutions | Required | Being allowed to fly under instrument weather conditions is a must-have for professional pilots |
+| Airline Transport Pilot License (ATPL) | DGAC | Required | The necessary requirements for becoming a captain can be obtained through accumulated flight experience |
+| Medical Examination (Class 1) | Aviation medical examination physician authorized by DGAC | Required | Regular medical examinations to maintain license validity, once a year |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国航空运输业持续增长，预计未来十年飞行员需求稳定。受退休潮和航空旅行复苏影响，新飞行员招聘有望增加，但竞争激烈，尤其是副驾驶职位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's air transport industry continues to grow, and pilot demand is expected to remain stable over the next decade. Driven by retirements and the recovery of air travel, new pilot recruitment is expected to increase, but competition is fierce, especially for co-pilot positions.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（副驾驶，0-3年） | $40,000~$60,000 | 取决于航空公司和机型，通常有飞行小时费 |
-| 中级（副驾驶，3-10年） | $60,000~$100,000 | 小时费增加，可能包含夜间和长途补贴 |
-| 高级（机长，10年以上） | $120,000~$200,000 | 机长薪资较高，国际航线和宽体机更高 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (Co-pilot, 0-3 years) | $40,000~$60,000 | Depending on the airline and aircraft type, there is usually an hourly flight fee |
+| Intermediate (Co-driver, 3-10 years) | $60,000~$100,000 | Hourly rates increase, possibly including night and long-distance subsidies |
+| Senior (Captain, over 10 years) | $120,000~$200,000 | Captains earn higher salaries, while international routes and wide-body aircraft offer higher salaries |
+| average salary | $32,838 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径通常从副驾驶开始，积累飞行小时数后可晋升为机长。资深机长可转型为培训教员、检查员或管理职位（如飞行运营经理）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+The career path usually starts as a co-pilot, and after accumulating flight hours, you can be promoted to captain. Senior captains can transition to training instructors, inspectors, or management roles (such as flight operations managers).
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Aviation recovery
 - Pilot retirements
@@ -66,69 +100,68 @@ Responsible for flying commercial aircraft, including takeoff, cruise, and landi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如航空公司雇佣的外籍飞行员，需提供工作合同和资质证明 |
-| Subclass Salarié（Salaried Employee） | 获得法国航空公司的工作合同后申请，需雇主提供许可 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪职位，飞行员薪资通常符合条件，可申请欧盟蓝卡 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as foreign pilots employed by airlines, who must provide work contracts and qualification certificates |
+| Subclass Salarié (Salaried Employee) | After obtaining a job contract with Air France, the employer must provide permission to apply |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions, pilot salaries usually qualify and can apply for an EU Blue Card |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commercial Airline Pilot？**
-- 热爱飞行且能承受高压的人
-- 具备优秀空间思维和快速决策能力的人
-- 愿意接受严格培训和频繁出差的人
-
-**谁不适合学Commercial Airline Pilot？**
-- 对高度紧张环境不适应的人
-- 无法通过严格医学检查的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who loves flying and can handle high pressure
+- People with excellent spatial thinking and quick decision-making skills
+- Those willing to undergo rigorous training and frequent business trips
+
+**Who is not suited**
+- People who are not comfortable in highly stressful environments
+- People who cannot pass rigorous medical examinations
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for Air France pilots?**
+A: Salary range is wide: First Officer annual salary approx. 40,000-100,000 EUR, Captain 120,000-200,000 EUR (pre-tax). Comprises base salary and flight hour pay, varies by aircraft type, route, and experience.
+
+**Q: How can foreign pilots immigrate to France for work?**
+A: You must first obtain an employment contract with Air France, then apply for a work visa (such as Salarié or Passeport Talent). EU citizens can move freely, while non-EU citizens must obtain qualification certifications (such as license conversion) and employer sponsorship.
+
+**Q: Is a pilot's license required for qualification certification in France?**
+A: Non-EU pilot licenses must be certified and converted by the French Civil Aviation Authority (DGAC), usually requiring both theoretical and practical exams. Licenses within the EU are recognized under mutual recognition agreements, but administrative procedures remain.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Commercial Airline Pilot为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an airline pilot in France?**
-答：Salary ranges widely: co-pilots earn €40,000-€100,000, captains €120,000-€200,000 (gross annual). Pay includes base salary and flight hour rates, varying by aircraft type, routes, and experience.
-
-**问：How can foreign pilots immigrate to work in France?**
-答：Must first obtain a job offer from a French airline, then apply for a work visa (e.g., Salarié or Talent Passport). EU citizens have free movement; non-EU citizens need license conversion and employer sponsorship.
-
-**问：Do pilot licenses need qualification recognition in France?**
-答：Non-EU pilot licenses require validation by DGAC, including theory and practical exams. EU licenses are mutually recognized but still entail administrative procedures.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

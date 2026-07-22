@@ -1,129 +1,161 @@
-# Glaziers（Glaziers）职业分析 · 加拿大
+# Glaziers — career analysis · Canada
 
-**职业代码：73111 – Glaziers。**
+**Occupation code: 72411 (NOC)**
 
-Glaziers cut, install, and replace glass in buildings, including windows, doors, curtain walls, and interior partitions, playing a key role in construction.
+In Canada, glaziers cut, install, and replace glass in commercial and residential buildings, including curtain walls, windows, and doors. Due to ongoing construction demand and green energy retrofits, this trade is feasible for skilled immigration, especially via PNP.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 未明确 | —（无直接成本） |
-| 学徒培训 | 3-4年 | $1,000~$5,000（包括注册费和工具） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Apprenticeship (4 years). | 4 years | $1,000~$5,000 (Tuition and tool fees, some provinces offer subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级行业认证 | 各省学徒机构 | 必备 | 部分省份如安大略省要求 |
-| 高空作业证书 | 省级安全机构 | 可选 | 如需进行高空玻璃安装 |
-| 工作场所安全培训 | 省级劳工部门 | 必备 | 如安大略省的WHMIS |
+| Provincial industry license | Provincial governments | Required | In Quebec, Ontario and other provinces, a provincial license is required to practice this occupation. |
+| English/French language ability | IELTS/TEF Canada | Required | Skilled migration requires CLB 5 or higher, usually CLB 7 is more competitive |
+| Red Seal certification | Provincial apprenticeship authorities in Canada | Optional | Voluntary certification, but mandatory licensing in some provinces (e.g., Ontario, BC); passing exams can improve job prospects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。加拿大建筑业持续增长，新住宅和商业项目推动玻璃工需求，预计未来几年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada’s construction industry is growing steadily, especially in major cities like Toronto and Vancouver with high-rise buildings and renovation projects, leading to stable demand for glaziers. Employment growth is expected to be above average over the next few years, with a notable shortage of skilled trades.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒期间，薪资随技能提升而增长 |
-| 中级（3-6年） | $45,000~$60,000 | 熟练工时段 |
-| 高级（6年以上） | $60,000~$80,000 | 含工头或自雇 |
+| Median salary | $56,160 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage approximately 18-23 CAD |
+| Mid-level (3–6 years) | $45,000~$60,000 | Hourly wage approximately 23–30 CAD |
+| Senior (6+ years) | $60,000~$80,000 | Higher with Red Seal certification |
+| average salary | $58,240 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 玻璃工可从学徒晋升为熟练工，进而成为工头或自雇承包商，也可专攻节能玻璃或幕墙系统等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
 
-- Construction boom
-- Green building
-- Energy-efficient glass
-- Skilled trades shortage
+Junior glaziers can gain experience at companies or unions, obtain provincial Red Seal certification to become supervisors or foremen. Some start small glazing businesses or move into construction project management.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
+
+- Construction Boom
+- Green Retrofits
+- Skilled Trades Shortage
+- Provincial Nominee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Trades Program） | 适合符合资格的技术工人，通过快速通道申请永久居留 |
-| Subclass PNP（Provincial Nominee Program） | 各省如安大略、不列颠哥伦比亚省有针对技能工人的省提名项目 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，是临时工作途径，也可为移民加分 |
+| Subclass PNP (Provincial Nominee Program) | Apply through Provincial Nominee Programs (e.g., Ontario In-Demand Skills, BC PNP Skilled Worker); most provinces have priority streams for construction trades. |
+| Subclass EE (Express Entry (Federal Skilled Trades)) | Federal Skilled Trades Program (FSTP), requires IELTS, work experience, etc., suitable for applicants with a job offer |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, employer sponsorship, applicable to glass installers with job offers in provinces like Nova Scotia |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glaziers？**
-- 喜欢动手操作、注重细节、对建筑行业感兴趣
-- 能适应高空作业和户外工作环境
-- 具备良好的体能和耐心
-
-**谁不适合学Glaziers？**
-- 恐高或对体力劳动不适应
-- 不喜欢户外或严格安全规范的工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong, hands-on ability, not afraid of heights
+- Willing to do physical labor and outdoor work.
+- Blue-collar workers aspiring to immigrate to Canada through skilled migration
+
+**Who is not suited**
+- Unable to withstand working at heights and heavy physical labor
+- Lacks patience for glass cutting and installation details
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a glass installer in Canada?**
+A: According to recent data, the median annual salary for glass installers in Canada is CAD 55,000, and senior workers can earn over CAD 80,000, depending on province and experience.
+
+**Q: Is it easy for glass installers to immigrate to Canada through skilled migration?**
+A: Relatively easy. This occupation is on the shortage list in several provinces, eligible for provincial nomination (e.g., Ontario, BC) or Federal Skilled Trades program, usually requiring a job offer or work experience.
+
+**Q: Can Chinese experience be directly used for Canadian certification?**
+A: Chinese work experience typically requires education credential assessment (ECA) to prove equivalence, but technical certifications may not be directly recognized. It is recommended to obtain local licenses through apprenticeship or provincial skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Glaziers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for glaziers in Canada?**
-答：Depending on experience, average salary ranges from CAD 45,000 to CAD 60,000, with senior or self-employed glaziers earning over CAD 80,000.
-
-**问：Can glaziers immigrate to Canada through skilled migration?**
-答：Yes, glaziers are eligible for the Federal Skilled Trades Program (FSTP) or Provincial Nominee Programs (PNP), and can also come via LMIA work permits.
-
-**问：What certifications are required for glaziers?**
-答：Most provinces require completion of an apprenticeship and provincial certification (e.g., Glazier trade certificate in Ontario). Some jobs require fall protection and WHMIS training.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

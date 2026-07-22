@@ -1,130 +1,162 @@
-# Insurance Broker（Insurance Broker）职业分析 · 澳大利亚
+# Insurance Broker — career analysis · Australia
 
-**职业代码：222113 – Insurance Broker。**
+**Occupation code: 611211 (ANZSCO)**
 
-Insurance brokers represent clients to negotiate insurance policies, assess risks, recommend coverage, and assist with claims. They require financial knowledge and communication skills.
+Insurance broking is an important profession in the Australian financial sector, with stable demand and accessible entry for those with relevant qualifications. The continued expansion of the Australian financial industry offers strong career development opportunities for professionals.
+
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$50,000（商科/金融/经济相关本科） |
-| 职业课程 | 6-12个月 | $3,000~$8,000（RG146合规证书或保险经纪文凭） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RG146合规证书 | ASIC认可的培训机构 | 必备 | 销售保险产品的法定要求 |
-| 保险经纪文凭 | ANZIIF | 可选 | 提升专业竞争力 |
-| 商科学士学位 | 澳洲大学 | 可选 | 常见入门学历 |
+| Relevant qualification for Insurance Broker | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏上（★★★½☆）。** 全国从业人数约 14,500。澳洲保险经纪需求稳定，受自然灾害和商业风险增加驱动。就业增长略低于平均水平，但专业服务需求持续。预计未来5年岗位增长约5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Australian financial sector will continue to expand from 2025 to 2030, with steady growth in demand for insurance brokers; job prospects are strong for those with relevant certifications and experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 含佣金 |
-| 中级（3-7年） | $75,000~$110,000 | 含佣金和奖金 |
-| 高级（7年以上） | $110,000~$180,000 | 含佣金和高额奖金 |
+| Median salary | $81,068 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级可从客服或理赔岗起步，积累经验后晋升为经纪人。资深可成为高级经纪人、团队主管或开设自己的经纪公司。也可转向风险管理或承保领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Insurance brokers face dual impact from AI automation and augmentation: tasks like policy search and data comparison are automated, but complex client consultations and risk solution design rely on human insight and emotional connection, making career value more polarized.
 
-- Risk Management
-- Digital Insurance
-- Cyber Insurance
-- Climate-related Claims
+Requirements for digital technology and professional certification continue to rise; insurance brokers must continually update their professional skills to keep pace with industry changes.
+
+**Tasks most exposed to AI:**
+
+- Automated search and comparison of policy terms; AI can instantly aggregate product data from multiple insurers
+- Client basic data entry and preliminary needs analysis handled via chatbots
+- Regular renewal reminders and premium updates via automated email or app push
+- Initial review of insurance claims; AI quickly screens anomalies based on rules and past cases
+- Industry regulatory compliance report generation, AI auto-fetches data to fill templates
+
+**Where AI augments the role:**
+
+- Complex risk consulting: AI provides actuarial models and customer profiles; brokers customize insurance plans accordingly.
+- Customer relationship management: AI analyzes customer lifecycle events to suggest optimal communication timing and cross-selling opportunities
+- Professional negotiation support: AI simulates insurance company pricing strategies to assist brokers in optimizing negotiation plans
+- Training and knowledge update: AI generates personalized learning materials for quick mastery of emerging insurance products
+- Precision marketing: AI analyzes social media and behavioral data to identify potential high-net-worth clients
+
+**Human moat:**
+
+- Building long-term trust relationships requiring face-to-face communication, empathy, and emotional connection
+- Cross-domain risk coordination (e.g., enterprise and home insurance), involving law, taxation, asset allocation
+- Handling unique needs of high-net-worth clients (estate planning, cross-border asset insurance)
+- Legal compliance and ethical judgment, advocating for clients in gray areas
+
+**Skills to build:**
+
+- AI insurance analysis tools (e.g., ComparetheMarket API, insurtech platforms)
+- Customer data analysis and visualization (Python/R + Tableau)
+- Communication and Negotiation Skills (especially virtual communication in complex scenarios)
+- Basic Programming and Automation Scripting (to reduce repetitive price checking)
+- Compliance and risk management knowledge (ASIC regulations continuously updated)
+- Psychology and behavioral finance (understand irrational client decisions)
+
+**Key growth areas:**
+
+- Australia Wide Growth
+- Regional Demand
+- Digital Transformation
+- Ageing Population
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有雇主offer，职业需在CSOL上（ANZSCO 222113在CSOL） |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，通过TRT或DE通道，需职业评估和3年工作经验 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得州邀请和职业评估，保险经纪人可申请 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居签证，需职业在MLTSSL上，保险经纪人不在MLTSSL故不适用 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Broker？**
-- 具备良好沟通和谈判能力的人
-- 对金融和风险管理感兴趣的人
-- 愿意考取专业证书并持续学习的人
-
-**谁不适合学Insurance Broker？**
-- 厌恶销售和业绩压力的人
-- 不擅长建立客户关系的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the finance industry
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
+
+**Who is not suited**
+- Unfamiliar with Australian financial industry regulations
+- Those unwilling to continuously learn and update their skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for insurance brokers in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy to find work as an insurance broker in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏上（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Insurance Broker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of an insurance broker in Australia?**
-答：Entry-level: AUD 55,000-75,000; mid-level: AUD 75,000-110,000; senior: up to AUD 180,000+, including commissions and bonuses.
-
-**问：Can insurance brokers migrate to Australia through skilled migration?**
-答：Yes. The occupation is on the CSOL. You can apply for 482 employer-sponsored visa, 186 ENS, or 190 state nomination. Skills assessment and relevant experience are required.
-
-**问：How to become an insurance broker? What certifications are needed?**
-答：Typically requires RG146 compliance certificate. A business degree is recommended. After gaining experience, you can apply for a full license.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

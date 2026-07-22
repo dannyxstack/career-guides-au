@@ -1,129 +1,164 @@
-# Biologists and related scientists（Biologists and related scientists）职业分析 · 加拿大
+# Biologists and related scientists — career analysis · Canada
 
-**职业代码：21110 – Biologists and related scientists。**
+**Occupation code: 21201 (NOC)**
 
-Study living organisms and their relationships to the environment, working in biotechnology, conservation, medical research. Common in government labs, universities, and pharmaceutical firms.
+Zoologists in Canada conduct wildlife research, conservation, and management, working for government, universities, non-profits, or consulting firms. This occupation can achieve skilled migration via Express Entry or Provincial Nominee Programs, requiring ECA and language scores.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $35,000~$60,000（加拿大大学国际生年均学费） |
-| 硕士 | 2年 | $20,000~$45,000（研究型硕士通常有资助） |
-| 博士 | 4-6年 | $5,000~$20,000（多数博士生获奖学金或助研金） |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Domestic tuition fees in Canada are about CAD 20,000-40,000 per year, while international student fees are higher.) |
+| Master's degree | 2 years | $15,000~$30,000 (Research master's degrees often come with stipends or scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学或相关学科本科学位 | 加拿大大学 | 必备 | 最低要求 |
-| 省级专业生物学家认证 | 各省生物学家协会（如Ontario Institute of Biology） | 可选 | 在公共部门或咨询公司中通常需要 |
+| Educational credential assessment (ECA) | WES or IQAS | Required | Must have overseas qualifications assessed as equivalent to Canadian qualifications |
+| English language test | IELTS or CELPIP | Required | CLB 7 or higher |
+| Professional certification (not mandatory) | Canadian Society of Biologists | Optional | R.Biol. professional title can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 23,500。就业前景良好，受政府环保政策与生物技术产业增长驱动。安大略、魁北克和不列颠哥伦比亚省机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for biologists in Canada is stable, especially in British Columbia, Alberta, and Ontario. Environmental consulting, resource management, and conservation offer many positions, but competition is moderate. Employment growth over the next five years is expected to be on par with the national average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$62,000 | 入门级职位 |
-| 中级（3-7年） | $62,000~$85,000 | 有经验的研究员 |
-| 高级（7年以上） | $85,000~$110,000 | 高级科学家或管理层 |
+| Median salary | $85,010 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Lower starting salary in government or non-profit organizations |
+| Mid-level (3–7 years) | $60,000~$80,000 | Median salary for experienced biologist |
+| Senior (7+ years) | $80,000~$110,000 | Management or research supervisor position |
+| average salary | $99,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级研究员可晋升为高级科学家或项目经理，也可转向生物信息学、法规事务等专门领域。博士学位有助于进入管理或学术岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Biologists and related scientists are impacted by AI in mixed ways: automation reduces routine data analysis and literature review positions, but AI amplifies the ability to parse complex biological data, accelerate drug discovery, and personalize medicine.
 
-- Biotechnology
-- Environmental monitoring
-- Pharmaceutical R&D
-- Regulatory science
+Junior zoologists typically start as field surveyors or lab assistants, and can advance to project leaders or department heads with experience. A PhD can lead to university faculty or senior research positions, or shift to policy-making or environmental management.
+
+**Tasks most exposed to AI:**
+
+- Routine data entry and statistical report generation.
+- Literature search and preliminary summary
+- Automated execution of simple experimental steps
+- Biological sample identification and classification
+- Laboratory process recording and compliance checks
+
+**Where AI augments the role:**
+
+- Multi-omics data integration and pattern recognition
+- Protein structure prediction and molecular docking simulation
+- High-throughput experiment design and optimisation
+- Personalized medical plan recommendations
+- Real-time environmental monitoring and ecological forecasting
+
+**Human moat:**
+
+- Propose original scientific hypotheses and experimental designs
+- Interdisciplinary integration and innovative thinking
+- Ethical judgement and regulatory compliance decision-making
+- Long-term observation and interpretation of complex ecosystems
+- Communication with stakeholders and science communication
+
+**Skills to build:**
+
+- Python/R programming and bioinformatics libraries
+- Applications of machine learning and deep learning in omics
+- Data Visualization and Explainable AI
+- Cloud computing and large-scale data processing
+- Laboratory automation system operation
+- Statistical modeling and experimental design
+
+**Key growth areas:**
+
+- Express Entry STEM
+- Provincial Nominee
+- Environmental Consulting
+- Conservation
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program (FSW)） | 适合有至少1年连续带薪工作经验、语言成绩达标、学历认证的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 安大略、BC省等有生物科学类优先职业，获得省提名可加600分 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地人 |
+| Subclass EE (Express Entry (Federal Skilled Worker)) | Requires NOC 21201 which is TEER 1, meeting the 67/100 point score and CRS requirements. |
+| Subclass PNP (Provincial Nominee Program) | Such as the BC Skilled Worker category or the Ontario Human Capital Priorities stream |
+| Subclass AIP (Atlantic Immigration Program) | For biologists with employer sponsorship in Atlantic provinces |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologists and related scientists？**
-- 热爱科研和实验室工作
-- 有耐心处理复杂数据
-- 希望从事环保或生物技术行业
-
-**谁不适合学Biologists and related scientists？**
-- 不喜欢长时间实验操作
-- 不擅长书面报告及学术写作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about wildlife and nature conservation
+- Hold a bachelor's degree or higher in biology or a related field
+- Willing to adapt to fieldwork and seasonal changes
+
+**Who is not suited**
+- Those who are not suited to long hours of outdoor work or harsh weather conditions
+- People who dislike data analysis and lab work
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for a zoologist in Canada?**
+A: Junior approx. CAD 45,000-60,000, intermediate CAD 60,000-80,000, senior up to CAD 80,000-110,000. Salary depends on region, employer, and experience.
+
+**Q: How can zoologists immigrate to Canada?**
+A: Apply via Express Entry (Federal Skilled Worker) or Provincial Nominee Programs (e.g., BC, Ontario). Requires ECA credential assessment and CLB 7 English score.
+
+**Q: What are the employment areas for zoologists in Canada?**
+A: commonly found in government (e.g., Department of Environment), university research, environmental consulting firms, non-profit conservation organizations, and environmental assessments for resource development projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Biologists and related scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for biologists in Canada?**
-答：Salaries increase with experience and qualifications; senior scientists or managers can earn over $100,000, but growth is slower than in IT.
-
-**问：What are the main immigration pathways for foreign biologists to Canada?**
-答：Mainly through Express Entry (FSW) or Provincial Nominee Programs (e.g., Ontario Human Capital Priorities). LMIA employer sponsorship is possible but more difficult.
-
-**问：Is provincial certification required to work as a biologist?**
-答：Not required in the private sector, but government or consulting roles may require provincial certification (e.g., P.Biol.).
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

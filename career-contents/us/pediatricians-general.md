@@ -1,60 +1,96 @@
-# Pediatricians, General（Pediatricians, General）职业分析 · 美国
+# Pediatricians, General — career analysis · United States
 
-**职业代码：29-1221 – Pediatricians, General。**
+**Occupation code: 29-1221 (SOC)**
 
-Pediatricians diagnose, treat, and help prevent diseases and injuries in children. They complete medical school and a pediatric residency, and must be licensed in the state where they practice.
+Pediatricians specialize in diagnosing, treating, and preventing diseases and injuries in infants, children, and adolescents, referring to specialists when necessary. This occupation requires medical school and pediatric residency training, along with state medical licensure.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $50,000~$150,000（公立大学较低，私立较高） |
-| 医学院 | 4年 | $150,000~$250,000（学费加生活费等） |
-| 儿科住院医师培训 | 3年 | $50,000~$100,000（期间收入较低，部分学费减免） |
+| Bachelor's degree | 4 years | $50,000~$150,000 (Lower at public universities, higher at private ones) |
+| Medical school. | 4 years | $150,000~$250,000 (Tuition fees plus living expenses.) |
+| Pediatric residency training | 3 years | $50,000~$100,000 (Lower income during the period, partial tuition waivers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位 (MD或DO) | 认证医学院 | 必备 | 必须从认证医学院毕业 |
-| 美国医师执照 | 各州医学委员会 | 必备 | 通过USMLE考试并满足州要求 |
-| 儿科委员会认证 | 美国儿科委员会 (ABP) | 可选 | 通过笔试和口试，可选 |
+| Medical doctorate degree (MD or DO) | Accredited medical school | Required | Must graduate from an accredited medical school |
+| US medical license | State Medical Boards | Required | Pass the USMLE and meet state requirements |
+| Board certification in pediatrics | American Board of Pediatrics (ABP) | Optional | Through written and oral exams, optional |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 33,000。美国儿科医生就业预计增长稳定，受儿童人口增长和医疗需求推动。但儿科专科竞争激烈，且初级保健儿科医生收入相对较低。城市地区机会较多，农村地区需求更大。
+**Job demand: high (★★★★☆).** National workforce approx. 33,000. U.S. pediatrician employment is expected to grow steadily, driven by the increasing child population and healthcare needs. However, pediatric specialties are highly competitive, and primary care pediatricians have relatively lower incomes. Urban areas offer more opportunities, while rural areas have greater demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $130,000~$170,000 | 住院医师后首次就业 |
-| 中级（4-9年） | $170,000~$220,000 | 有经验的儿科医生 |
-| 高级（10年以上） | $200,000~$280,000 | 包括专科或行政职务 |
+| Median salary | $210,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $130,000~$170,000 | First employment after residency |
+| Intermediate (4-9 years) | $170,000~$220,000 | Experienced pediatrician |
+| Senior (10+ years) | $200,000~$280,000 | Includes specialist or administrative positions |
+| average salary | $212,110 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径：医学院（4年）→ 儿科住院医师（3年）→ 专科进修（如儿童心脏病学，3年）→ 主治医师。可晋升为科室主任、医院行政职务或成为学术研究者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
+
+Career path: Medical school (4 years) → Pediatric residency (3 years) → Fellowship (e.g., pediatric cardiology, 3 years) → Attending physician. Can advance to department head, hospital administrative role, or academic researcher.
+
+**Tasks most exposed to AI:**
+
+- Automated recording of medical records and prescriptions
+- Preliminary analysis of routine imaging (e.g., X-rays)
+- Rule-based health consultation and triage
+- Appointment management and patient follow-up reminders
+- Automatic summarization of follow-up data for some chronic diseases.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic suggestion systems improve diagnostic accuracy
+- AI-supported personalized treatment plan recommendations
+- Real-time analysis of patient health data to predict risks
+- Smart reminders for drug interactions and side effects
+- AI-assisted telemedicine consultation and documentation
+
+**Human moat:**
+
+- Complex clinical reasoning and decision-making under uncertainty
+- Empathy and trust building in doctor-patient consultations
+- Synthesizing multi-source information for comprehensive judgment
+- Intuition and Experience for Rare Diseases or Atypical Presentations
+- Ultimate assumption of ethics and legal responsibility
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools (e.g., large model-based clinical decision support systems)
+- Learning data analysis and basic statistics to interpret AI reports
+- Enhance digital health and telehealth platform operation skills
+- Enhancing Patient Communication Combined with Digital Tools
+- Familiarity with basic programming (e.g., Python) for custom analysis or automation
+- Learning medical AI ethics and data privacy regulations
+
+**Key growth areas:**
 
 - Child Population Growth
 - Healthcare Expansion
@@ -63,69 +99,68 @@ Pediatricians diagnose, treat, and help prevent diseases and injuries in childre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于医院或医疗机构雇佣外国医生，需通过匹配项目 |
-| Subclass EB-2（EB-2 Advanced Degree） | 符合国家利益豁免(NIW)或PERM劳工证，适用于有高级学位的医生 |
-| Subclass J-1 Waiver（J-1 Visa Waiver） | 外国医学毕业生需豁免回国居住要求，通常服务于农村地区 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 通过PERM劳工认证获得绿卡，需雇主支持 |
+| Subclass H-1B (H-1B Specialty Occupation) | Commonly used for hiring foreign doctors by hospitals or medical institutions; requires matching program. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Eligible for National Interest Waiver (NIW) or PERM labor certification, applicable to physicians with advanced degrees |
+| Subclass J-1 Waiver (J-1 Visa Waiver) | Foreign medical graduates need a waiver for the home residency requirement, usually serving in rural areas |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Obtain a green card through PERM labor certification, requires employer support |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pediatricians, General？**
-- 对儿童健康有强烈热情，耐心细致
-- 能承受高压工作环境及长时间站立
-- 具备优秀的沟通能力，能与家长和儿童有效交流
-
-**谁不适合学Pediatricians, General？**
-- 无法容忍儿童哭闹或情绪波动
-- 不擅长处理复杂病例或与家长沟通
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong passion for children's health, patient and attentive
+- Able to withstand high-pressure work environments and prolonged standing
+- Excellent communication skills to interact effectively with parents and children
+
+**Who is not suited**
+- Unable to tolerate children crying or emotional fluctuations
+- Not skilled at handling complex cases or communicating with parents
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a pediatrician in the United States?**
+A: According to BLS 2023 data, median annual salary for pediatricians is about USD 190,000-200,000, entry-level about 130,000-170,000, senior up to 280,000+.
+
+**Q: How can a foreign doctor immigrate to the US to become a pediatrician?**
+A: Common pathways include: obtaining a J-1 visa through the U.S. residency match program and applying for a waiver, or via an H-1B work visa, then applying for an EB-2/NIW green card. Requires passing USMLE and ECFMG certification.
+
+**Q: What are the subspecialties for pediatricians?**
+A: Common subspecialties include pediatric cardiology, pediatric oncology, neonatal/perinatal medicine, pediatric critical care, pediatric endocrinology, etc., requiring an additional 2-4 years of fellowship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pediatricians, General的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a pediatrician in the US?**
-答：According to BLS 2023, the median annual wage for pediatricians is around $190,000-$200,000, with entry-level earning $130,000-$170,000 and experienced over $280,000.
-
-**问：How can a foreign doctor immigrate to the US as a pediatrician?**
-答：Common paths include: matching into a US residency via J-1 visa and obtaining a waiver, or H-1B work visa, then applying for EB-2/NIW green card. Candidates must pass USMLE and obtain ECFMG certification.
-
-**问：What are the subspecialties for pediatricians?**
-答：Common subspecialties include pediatric cardiology, pediatric oncology, neonatology, pediatric critical care, pediatric endocrinology, etc., requiring 2-4 additional years of fellowship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

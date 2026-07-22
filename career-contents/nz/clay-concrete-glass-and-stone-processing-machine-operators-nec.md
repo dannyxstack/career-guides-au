@@ -1,59 +1,95 @@
-# Clay, Concrete, Glass and Stone Processing Machine Operators nec（Clay, Concrete, Glass and Stone Processing Machine Operators nec）职业分析 · 新西兰
+# Clay, Concrete, Glass and Stone Processing Machine Operators nec — career analysis · New Zealand
 
-**职业代码：711199 – Clay, Concrete, Glass and Stone Processing Machine Operators nec。**
+**Occupation code: 711199 (ANZSCO)**
 
-This occupation can apply for Accredited Employer Work Visa (AEWV) in New Zealand to gain experience, but it is not on the Green List or skill shortage list. Skilled Migrant Category (SMC) requires meeting the 6-point system, usually needing employer sponsorship.
+This occupation can apply for an Accredited Employer Work Visa (AEWV) in New Zealand and gain experience, but is not on the Green List or skill shortage list. Skilled Migrant Category (SMC) requires meeting the 6-point system, usually with employer sponsorship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期课程 | 6个月 | $3,000~$8,000（私立培训机构或行业培训） |
-| 学徒制 | 3年 | —（在职培训，可能获得政府补贴） |
+| Short-term courses | 6 months. | $3,000~$8,000 (Private training institutions or industry training) |
+| Apprenticeship | 3 years | $0~$5,000 (On-the-job training, possibly with government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家证书（建筑材料加工操作） | 新西兰资格认证局（NZQA） | 可选 | 非强制，但有助于就业和薪资 |
-| 健康与安全培训 | 职场健康与安全机构 | 必备 | 岗位必需 |
-| 驾照（重型车辆） | 新西兰交通局 | 可选 | 部分岗位要求 |
+| Health and safety training | Workplace health and safety authority | Required | Essential for the position |
+| New Zealand National Certificate in (Building Materials Processing Operations) | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but beneficial for employment and salary |
+| Driver's license (heavy vehicle) | New Zealand Transport Agency. | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。新西兰建筑业持续增长，混凝土和石材加工需求稳定，但自动化可能减少部分岗位。就业机会主要集中于奥克兰、怀卡托和坎特伯雷等地区。预计未来五年就业增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. New Zealand's construction industry continues to grow, with stable demand for concrete and stone processing, though automation may reduce some roles. Job opportunities are mainly in Auckland, Waikato, and Canterbury. Employment growth is expected to be slow over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26纽元 |
-| 中级（3-6年） | $55,000~$65,000 | 时薪约26-31纽元 |
-| 高级（6年以上） | $65,000~$75,000 | 时薪约31-36纽元 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately 22-26 NZD |
+| Mid-level (3–6 years) | $55,000~$65,000 | Hourly wage approximately 26-31 NZD |
+| Senior (6+ years) | $65,000~$75,000 | Hourly wage approximately NZD 31-36 |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从操作员可晋升为高级操作员、班组长或生产主管，积累经验后可转向质量控制或设备维护。部分人员通过培训成为技术专家或创业开设小型加工厂。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly reduce demand for this occupation, as material processing tasks are highly programmable, visual inspection and process control are gradually taken over by machine vision and AI systems, but equipment maintenance and anomaly handling still require humans.
+
+Can advance from operator to senior operator, team leader, or production supervisor; with experience can shift to quality control or equipment maintenance. Some become technical experts through training or start small processing plants.
+
+**Tasks most exposed to AI:**
+
+- Repetitive processing operations such as material cutting and grinding
+- Vision-based quality inspection and classification
+- Automatic adjustment and optimization of production parameters
+- Data Recording and Basic Report Generation
+- Simple fault code reading and reset.
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance plan development
+- Digital twin simulation optimizes machining paths
+- Remote operation guidance using AR/VR
+- Data-driven process improvement solution design
+- Multi-machine collaborative scheduling and production optimization
+
+**Human moat:**
+
+- Non-standard material characteristics and process experience judgment
+- Complex fault diagnosis and on-site repair
+- Safety Responsibilities and Work Permit Management
+- Client communication and custom order tailoring
+- cross-process coordination and on-site management
+
+**Skills to build:**
+
+- Industrial Robot Programming and Debugging
+- Basic PLC applications
+- Data analysis and production dashboard interpretation
+- Automation Equipment Maintenance Basics
+- Digital quality management tools
+- Safety Production and Emergency Response
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,67 +98,66 @@ This occupation can apply for Accredited Employer Work Visa (AEWV) in New Zealan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，工资达到中位数（时薪29.66纽元），短期工作后可通过SMC申请居留。 |
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制（学历+工作经验），通常需要雇主担保和AEWV经验，工资需达到中位数。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Need a job offer from an accredited employer, salary at median (NZD 29.66 per hour), can apply for residence via SMC after short-term work. |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system (qualifications + work experience), usually requires employer sponsorship and AEWV experience, with salary reaching the median. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clay, Concrete, Glass and Stone Processing Machine Operators nec？**
-- 动手能力强，能适应重复性体力劳动
-- 愿意在制造业或建筑工地工作，接受轮班
-- 计划通过AEWV积累经验后申请技术移民
-
-**谁不适合学Clay, Concrete, Glass and Stone Processing Machine Operators nec？**
-- 希望从事高薪资、快速移民的职业
-- 对噪音、粉尘环境敏感
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, able to adapt to repetitive physical labor
+- Willing to work in manufacturing or construction sites, accepting shift work
+- Planning to accumulate experience via AEWV then apply for skilled migration
+
+**Who is not suited**
+- Aspiring to a high-paying career with fast immigration
+- Sensitive to noise and dust environments.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation in New Zealand?**
+A: Junior annual salary approx NZD 45,000-55,000, senior approx NZD 65,000-75,000, usually calculated hourly.
+
+**Q: Can this occupation migrate to New Zealand via skilled migration?**
+A: Yes, but you need to work via an AEWV first, meet the 6-point system (e.g., qualification + experience) and reach the median wage. Not on the Green List, immigration difficulty is moderate.
+
+**Q: What skills are required?**
+A: Operating machines, measuring precision, quality control, basic mechanical repairs, and health and safety awareness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Clay, Concrete, Glass and Stone Processing Machine Operators nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in New Zealand?**
-答：Entry-level annual salary is around NZD 45,000-55,000, senior around NZD 65,000-75,000, usually paid hourly.
-
-**问：Can this occupation lead to skilled migration to New Zealand?**
-答：Yes, but you need to work on an AEWV first, meet the 6-point system (e.g., qualifications + experience) and reach the median wage. It is not on the Green List, so migration is moderately difficult.
-
-**问：What skills are required?**
-答：Operating machines, measuring precision, quality control, basic mechanical maintenance, and health and safety awareness.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

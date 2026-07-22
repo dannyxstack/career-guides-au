@@ -1,60 +1,93 @@
-# Human Resources and Personnel Policy Specialists（Human Resources and Personnel Policy Specialists）职业分析 · ES
+# Human Resources and Personnel Policy Specialists — career analysis · Spain
 
-**职业代码：2624 – Human Resources and Personnel Policy Specialists。**
+**Occupation code: 2624 (CNO)**
 
-Professionals specializing in recruitment, training, compensation, labor relations, and HR policy development and implementation.
+Professionals responsible for recruitment, training, compensation and benefits, labor relations, and the formulation and implementation of personnel policies for enterprises.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,200~$4,000（公立大学年均学费，私立更高） |
-| 硕士（Máster） | 1年（Máster） | $2,000~$8,000（HR方向硕士，公立私立均有） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$1,500（侧重行政管理与人力资源） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,200~$4,000 (Average annual tuition at public universities; private ones are higher.) |
+| Máster | Year 1 (Máster) | $2,000~$8,000 (Master's degrees in HR are available in both public and private universities) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$1,500 (Emphasis on administrative management and human resources) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 劳动关系与人力资源学士 | 西班牙大学 | 必备 | 常见对口专业 |
-| 人力资源硕士 | 西班牙大学或商学院 | 可选 | 提升专业竞争力 |
-| CIPD认证（英国） | CIPD | 可选 | 国际认可，非强制 |
+| Bachelor of Labor Relations and Human Resources | Spanish University | Required | Common related majors |
+| Master of Human Resources | Spanish universities or business schools | Optional | Enhance professional competitiveness |
+| CIPD Certification (UK) | CIPD | Optional | Internationally recognized, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 58,000。西班牙人力资源数字化与远程办公趋势推动岗位需求稳定增长，2023年就业人数约5.8万，预计未来五年年均增长2-3%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 58,000. Trends in digitalization and remote work in Spain drive stable growth in demand for human resources positions, with around 58,000 employees in 2023, expected to grow 2-3% annually over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 助理或专员岗位 |
-| 中级（3-7年） | $30,000~$40,000 | HR通才或资深专员 |
-| 高级（7年以上） | $45,000~$60,000 | HR经理或总监 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Assistant or commissioner positions |
+| Mid-level (3–7 years) | $30,000~$40,000 | HR generalists or senior specialists |
+| Senior (7+ years) | $45,000~$60,000 | HR manager or director |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从招聘专员晋升为HR经理、HR总监或薪酬福利专家；考取CIPD等国际认证可提升竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
+
+Recruiters can be promoted from Recruitment Specialist to HR Manager, HR Director, or Compensation & Benefits Specialist; Obtaining international certifications such as CIPD can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically screen large volumes of resumes and pre-schedule interview candidates
+- Automatically generate compensation reports and performance data analysis
+- Handle basic employee inquiries (e.g., leave balances, policy questions)
+- Automate attendance and shift management
+
+**Where AI augments the role:**
+
+- Use AI for talent profile matching and candidate recommendations
+- Use sentiment analysis tools to assist employee satisfaction surveys
+- Use AI to generate personalised training plans and learning paths
+- Predict employee turnover risk based on data analysis and intervene early
+
+**Human moat:**
+
+- Complex Employee Relations Mediation and Conflict Resolution
+- Corporate culture and values building
+- Labor law compliance judgment and risk decisions
+- Strategic talent planning and leadership development
+
+**Skills to build:**
+
+- HR data analysis and visualization (Power BI/Tableau)
+- AI recruitment tools (e.g., HireVue, Pymetrics)
+- Employee experience platform design (e.g., Workday, SAP SuccessFactors)
+- Labour law compliance and risk management
+- Change management and project leadership
+- Digital human resource management knowledge
+
+**Key growth areas:**
 
 - Digital HR
 - Remote Work Policies
@@ -63,68 +96,67 @@ Professionals specializing in recruitment, training, compensation, labor relatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历及工作合同，年薪门槛约3.4万欧元。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 面向高学历或高技能人才，流程较快，需工作合同。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通受雇工作居留，需雇主担保，适合已有工作offer。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree and work contract, annual salary threshold around €34,000. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Targeted at highly educated or highly skilled talents, the process is relatively fast, and a work contract is required. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary employed work residence requires employer sponsorship and is suitable for existing job offers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Human Resources and Personnel Policy Specialists？**
-- 善于沟通、协调人际关系的人
-- 对劳动法规和薪酬福利敏感的人
-- 希望在企业职能部门稳定发展的人
-
-**谁不适合学Human Resources and Personnel Policy Specialists？**
-- 不喜欢重复性行政事务的人
-- 对数据分析和数字化工具不感兴趣的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication and coordinating interpersonal relationships
+- People sensitive to labor laws and compensation and benefits
+- People who hope to develop steadily in corporate functional departments
+
+**Who is not suited**
+- People who dislike repetitive administrative tasks
+- People who are not interested in data analysis and digital tools
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of HR specialists in Spain?**
+A: Entry-level approx. EUR 22,000–28,000/year, mid-level approx. EUR 30,000–40,000, senior manager up to EUR 45,000–60,000.
+
+**Q: How can foreigners immigrate to Spain through HR positions?**
+A: You can reside through an EU Blue Card or highly skilled talent, but you need a university degree and a work contract. The language requirement is Spanish B2.
+
+**Q: Is Spanish diploma certification required?**
+A: Not mandatory, but if the degree is not in the EU, homologación is recommended to increase employer trust.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Human Resources and Personnel Policy Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for HR specialists in Spain?**
-答：Entry-level around €22,000-28,000, mid-level €30,000-40,000, senior manager €45,000-60,000.
-
-**问：How can foreigners immigrate to Spain through HR roles?**
-答：Via EU Blue Card or Highly Qualified Professional visa, requiring a degree and job offer, Spanish B2 recommended.
-
-**问：Is homologation of foreign degrees required?**
-答：Not mandatory but recommended for non-EU degrees to enhance employer confidence.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

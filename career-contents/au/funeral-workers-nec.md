@@ -1,60 +1,96 @@
-# Funeral Workers nec（Funeral Workers nec）职业分析 · 澳大利亚
+# Funeral Workers nec — career analysis · Australia
 
-**职业代码：451399 – Funeral Workers nec。**
+**Occupation code: 451399 (ANZSCO)**
 
-Provide funeral services including body preparation, funeral arrangement, family support, and administrative tasks to ensure dignified ceremonies.
+Responsible for providing funeral services, including body handling, funeral arrangements, bereavement support and related administrative tasks, ensuring ceremonies are dignified and compliant.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 殡葬服务文凭 / 证书 | 1-2年 | $5,000~$20,000（课程费用因学校而异，TAFE或私立院校） |
-| 在职培训 | 6-12个月 | —（需完成学徒或实习生项目） |
+| Funeral services diploma/certificate | 1-2 years | $5,000~$20,000 (Course fees vary by institution, TAFE or private college) |
+| On-the-job training | 6–12 months | $0~$2,000 (Must complete an apprenticeship or internship program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬服务三级证书 | TAFE或认可培训机构 | 必备 | 澳大利亚行业标准基础资质 |
-| 遗体防腐执照 | 各州卫生部门 | 可选 | 从事防腐需单独申请 |
+| Certificate III in Funeral Services | TAFE or accredited training institution | Required | Australian industry standard basic qualifications |
+| embalming license | State health departments | Optional | Engaging in corrosion protection requires a separate application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。澳洲人口老龄化及多元文化需求推动殡葬服务需求稳定增长，但岗位数量相对有限，行业竞争适中。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. Australia's aging population and multicultural needs drive steady demand for funeral services, but job numbers are relatively limited, with moderate industry competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 助理或实习生 |
-| 中级（3-7年） | $60,000~$80,000 | 殡仪师或主管 |
-| 高级（7年以上） | $80,000~$100,000 | 经理或防腐师 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Assistant or intern |
+| Mid-level (3–7 years) | $60,000~$80,000 | Funeral Director or Supervisor |
+| Senior (7+ years) | $80,000~$100,000 | Manager or conservator |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理岗位晋升为殡仪主管或经理，也可考取更高资质从事防腐师、葬礼策划等专业化方向。
-**AI替代风险：低风险（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on funeral worker roles is mixed: paperwork, appointments, process optimization will be automated, but core aspects involving emotional support, on-site coordination, traditional ceremonies require human judgment and empathy, and are not easily replaced.
+
+Can advance from assistant role to funeral director or manager, or obtain higher qualifications for specialized paths such as embalmer or funeral planner.
+
+**Tasks most exposed to AI:**
+
+- Automate scheduling of funeral times, venue bookings, and vehicle dispatch processes
+- AI-generated content for obituaries, memorial albums, death certificates, and other documents
+- Voice AI answers common inquiries (e.g., fees, procedures)
+- Intelligent system management for body handover, refrigeration records, and tracking
+- Automate generation of administrative reports and bills
+
+**Where AI augments the role:**
+
+- AI-assisted eulogy writing and personalized memorial video creation
+- VR/AR technology helps survivors participate in funerals online or hold virtual memorials.
+- AI analyzes preferences to recommend customized funeral plans.
+- Smart Monitoring of Remains and Environmental Conditions (Temperature, Disinfection)
+- AI optimizes fleet, venue, and personnel scheduling to improve efficiency
+
+**Human moat:**
+
+- Deep emotional support and crisis intervention for the bereaved
+- Flexibly adjust ceremony details on-site according to cultural/religious customs
+- Manual operations in body processing (embalming, makeup, restoration)
+- Non-standardized communication requiring coordination with multiple parties such as government/hospitals/cemeteries
+- Handling emergencies (e.g. family conflicts, complex end-of-life care)
+
+**Skills to build:**
+
+- Operations of AI funeral management tools (e.g., CRM, scheduling systems)
+- Digital communication skills (email/video/virtual ceremony hosting)
+- Basic data analysis (optimizing service scheduling and inventory management)
+- Emotional intelligence and crisis communication training
+- In-depth learning of traditional customs and multicultural etiquette.
+- Psychology or social worker-related certification
+
+**Key growth areas:**
 
 - Aging population
 - Service diversification
@@ -63,62 +99,64 @@ Provide funeral services including body preparation, funeral arrangement, family
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 极少数雇主担保，需证明无法本地招聘，职业不在核心清单上 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA可能包含该职业，需具体查询 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Very few employer sponsorships; need to prove unable to hire locally; occupation not on core list |
+| Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements may include this occupation; check specifics. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Funeral Workers nec？**
-- 有同理心和沟通能力，能处理悲伤家庭
-- 注重细节和组织能力
-- 适应非传统工作时间
+**Who is suited**
+- Empathy and communication skills to handle grieving families.
+- Attention to detail and organizational skills
+- Adapting to non-traditional working hours
 
-**谁不适合学Funeral Workers nec？**
-- 对死亡或遗体有强烈不适感
-- 无法承受情感压力
+**Who is not suited**
+- Strong discomfort with death or cadavers
+- Unable to cope with emotional pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there significant salary growth potential for funeral workers?**
+A: Salary range within the industry is relatively stable; senior positions (such as managers or pathologists) can reach AU$90,000-100,000, but growth is limited.
+
+**Q: Can funeral workers stay in Australia through skilled migration?**
+A: This occupation is not on any skilled occupation list, making skilled migration highly unlikely, with exceptions possible for a few remote DAMA or employer-sponsored cases.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低风险（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Funeral Workers nec属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there significant salary growth for funeral workers?**
-答：Salaries are stable with limited growth; senior roles like managers or embalmers can reach AUD 90k-100k.
-
-**问：Can funeral workers obtain skilled migration to Australia?**
-答：Very unlikely as the occupation is not on any skilled occupation list, except possible DAMA or employer sponsorship.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

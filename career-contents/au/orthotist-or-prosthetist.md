@@ -1,59 +1,93 @@
-# Orthotist or Prosthetist（Orthotist or Prosthetist）职业分析 · 澳大利亚
+# Orthotist or Prosthetist — career analysis · Australia
 
-**职业代码：251912 – Orthotist or Prosthetist。**
+**Occupation code: 251912 (ANZSCO)**
 
-Orthotists or Prosthetists design, fabricate, and fit orthoses or prostheses to help patients restore function. They work in hospitals, rehab centers, or private clinics, collaborating with doctors and therapists.
+Orthotists or prosthetists design, fabricate and fit orthoses or prostheses to help patients restore body function. They work in hospitals, rehabilitation centres or private clinics, collaborating with doctors and therapists to develop customised plans.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（每年学费，公立大学） |
-| 硕士 | 2年 | $35,000~$50,000（每年学费，部分大学提供） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Annual tuition, public university) |
+| Master's degree | 2 years | $35,000~$50,000 (Annual tuition fees, offered by some universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矫形器/假肢学学士 | 澳洲大学（如拉筹伯大学） | 必备 | 必修学位 |
-| 澳洲矫形器与假肢协会认证 | Australian Orthotic and Prosthetic Association (AOPA) | 必备 | 注册执业必备 |
-| 技能评估 | ANZSCO评估机构 | 必备 | 移民申请必备 |
+| Bachelor of Orthotics/Prosthetics | Australian universities (e.g., La Trobe University) | Required | Compulsory degree |
+| Accredited by the Australian Orthotic and Prosthetic Association | Australian Orthotic and Prosthetic Association (AOPA) | Required | Required for registered practice. |
+| Skills assessment | ANZSCO assessing authority | Required | Essential for immigration applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。随着人口老龄化和慢性病增加，对矫形器和假肢的需求持续增长。澳洲政府预计该职业在未来5年将保持强劲增长，就业机会充足。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. With aging population and increasing chronic diseases, demand for orthotics and prosthetics continues to grow. The Australian government expects strong job growth over the next 5 years, with ample employment opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 含养老金 |
-| 中级（3-8年） | $80,000~$100,000 | 含养老金 |
-| 高级（8年以上） | $100,000~$130,000 | 含养老金，主管或专家职位更高 |
+| Median salary | $105,248 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Including superannuation |
+| Mid-level (3–8 years) | $80,000~$100,000 | Including superannuation |
+| Senior (8+ years) | $100,000~$130,000 | Includes pension; higher for supervisor or specialist positions. |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径：从初级技师起步，积累经验后可晋升为高级矫形器师/假肢师、团队主管或临床专家。也可转向研发、教学或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some standardized measurement and documentation tasks, but core human-machine collaboration, custom design and handcraft skills still rely on humans—a mixed outlook.
+
+Career path: Starting as a junior technician, gaining experience to advance to senior orthotist/prosthetist, team leader, or clinical specialist. Also possible to move into R&D, teaching, or private practice.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial design drafts for standard orthoses/prostheses.
+- Automatically parse 3D scan data and output preliminary measurement reports
+- Automatically manages patient records, insurance coding, and document organisation
+- Handle routine inquiries and appointment scheduling via chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of dynamic prosthetic fitting parameters to improve comfort and functionality
+- Using machine learning to analyze gait data to assist in personalized adjustment plans
+- Combined with VR simulation to preview adaptation effects, reducing trial and error
+- AI provides the latest material and component recommendations, improving production efficiency.
+- Real-time adjustment of orthosis pressure distribution via remote monitoring
+
+**Human moat:**
+
+- Clinical palpation and dynamic assessment to determine patient-specific needs
+- Hand carving and custom shaping skills
+- Build trust and empathy with patients, handle complex psychological needs.
+- Interdisciplinary team collaboration and treatment plan integration decisions
+
+**Skills to build:**
+
+- Proficient in CAD/CAM and 3D printing technologies for prosthetic design
+- Learn sports analysis software and pressure sensor data analysis
+- Enhancing telemedicine and digital patient management tool application
+- Enhance knowledge of materials science (e.g., carbon fiber composites)
+- Learn basic programming and AI tools (e.g., generative design software)
+- Enhancing soft skills: communication, counseling, and patient education
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease increase
@@ -62,66 +96,65 @@ Orthotists or Prosthetists design, fabricate, and fit orthoses or prostheses to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent visa） | 技术独立签证，适用于MLTSSL职业清单，无需担保 |
-| Subclass 482（Skills in Demand visa） | 临时技能短缺签证，需雇主担保 |
-| Subclass 186（Employer Nomination Scheme visa） | 雇主担保永居签证，需雇主提名 |
-| Subclass 190（Skilled Nominated visa） | 州担保技术移民签证，需获得州政府提名 |
+| Subclass 189 (Skilled Independent visa) | Skilled Independent visa, for MLTSSL occupations, no sponsorship required. |
+| Subclass 482 (Skills in Demand visa) | Temporary Skill Shortage visa, requires employer sponsorship |
+| Subclass 186 (Employer Nomination Scheme visa) | Employer-sponsored permanent residence visa requiring employer nomination |
+| Subclass 190 (Skilled Nominated visa) | State-nominated skilled migration visa, requiring state government nomination |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthotist or Prosthetist？**
-- 有耐心和同理心，喜欢帮助他人
-- 动手能力强，注重细节
-- 对医疗技术和康复领域感兴趣
-
-**谁不适合学Orthotist or Prosthetist？**
-- 害怕见血或身体残障
-- 不喜欢持续学习和更新知识
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, enjoys helping others
+- Hands-on, detail-oriented.
+- Interested in medical technology and rehabilitation.
+
+**Who is not suited**
+- Fear of blood or physical disability
+- Dislikes continuous learning and updating knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an orthotist or prosthetist?**
+A: Entry-level annual salary about $65,000–80,000 AUD, mid-level $80,000–100,000, senior up to $100,000–130,000; higher if a manager or specialist.
+
+**Q: How difficult is it to immigrate to Australia in this occupation?**
+A: This occupation is on the MLTSSL and can sponsor visas such as 189, 190, 482, and 186. You need to complete an Australian accredited degree and register with AOPA and obtain an ANZSCO skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Orthotist or Prosthetist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Orthotists or Prosthetists?**
-答：Entry-level salary is about AUD 65,000-80,000, mid-level AUD 80,000-100,000, senior up to AUD 100,000-130,000, higher for managers or specialists.
-
-**问：How difficult is it to migrate to Australia as an Orthotist or Prosthetist?**
-答：This occupation is on the MLTSSL, eligible for visas such as 189, 190, 482, and 186. Requires an AOPA-accredited degree, AOPA registration, and ANZSCO skills assessment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

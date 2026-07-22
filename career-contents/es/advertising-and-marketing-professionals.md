@@ -1,60 +1,96 @@
-# Advertising and Marketing Professionals（Advertising and Marketing Professionals）职业分析 · ES
+# Advertising and Marketing Professionals — career analysis · Spain
 
-**职业代码：2651 – Advertising and Marketing Professionals。**
+**Occupation code: 2651 (CNO)**
 
-Plan, execute, and optimize advertising and marketing campaigns, including market research, branding, and digital marketing strategies.
+Responsible for planning, executing, and optimizing advertising and marketing activities, including market research, brand promotion, and digital marketing strategies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学年均学费约1000-2000欧元，私立大学约5000-10000欧元。） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$6,000（公立大学硕士约2000-4000欧元，私立约5000-12000欧元。） |
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$1,500（公立FP中心学费较低，约500-1500欧元。） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (The average annual tuition for public universities is about 1,000-2,000 euros, while for private universities it is about 5,000-10,000 euros.) |
+| Máster | 1-2 years (Máster) | $2,000~$6,000 (A master's degree at a public university costs about 2,000-4,000 euros, while a private university costs about 5,000-12,000 euros.) |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$1,500 (Public FP centers have lower tuition fees, about 500-1500 euros.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广告与营销学士学位 | 大学 | 可选 | 通常要求相关领域学士学位。 |
-| 数字营销认证 | Google、HubSpot等 | 可选 | 非强制，但有助于就业。 |
-| 硕士学历（非强制） | 大学 | 可选 | 硕士学位可提升竞争力。 |
+| Bachelor's degree in Advertising and Marketing | University | Optional | A bachelor's degree in a relevant field is usually required. |
+| Digital marketing certification | Google, HubSpot, etc. | Optional | Not mandatory, but helpful for employment. |
+| Master's degree (not mandatory) | University | Optional | A master's degree can enhance competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。西班牙广告与营销行业持续增长，尤其数字营销和内容创作领域需求旺盛。马德里和巴塞罗那为主要就业中心，就业机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Spain's advertising and marketing industry continues to grow, with strong demand especially in digital marketing and content creation. Madrid and Barcelona are the main employment centers, offering many job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$80,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$80,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从营销助理或专员起步，可晋升为营销经理、品牌总监，或转向数字营销、数据分析等专业化方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Starting as a marketing assistant or specialist, you can be promoted to marketing manager, brand director, or move into specialized fields such as digital marketing and data analysis.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Marketing
 - Content Creation
@@ -63,69 +99,68 @@ Plan, execute, and optimize advertising and marketing campaigns, including marke
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历+工作合同，年薪门槛约33,908欧元（2024年）。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的工作居留，适合已有工作合同的外国人。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高技能专业人才，需大学学历或3年以上经验，年薪门槛约40,000欧元。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留最多1年寻找工作，适用于硕士毕业生或高技能人才。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree + employment contract, with an annual salary threshold of about 33,908 euros (2024). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residency is suitable for foreigners who already have a work contract. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly skilled professionals, a university degree or more than three years of experience is required, with an annual salary threshold of about 40,000 euros. |
+| Subclass Busqueda empleo (Job Search Visa) | Allows you to stay in Spain for up to one year to look for work, applicable to master's graduates or highly skilled talents. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Advertising and Marketing Professionals？**
-- 具备创意和分析能力的人
-- 对市场趋势敏感并善于沟通的人
-- 适应快节奏工作环境的人
-
-**谁不适合学Advertising and Marketing Professionals？**
-- 不喜欢数字和数据分析的人
-- 不善于与人协作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and analytical skills
+- Sensitive to market trends and skilled communicators
+- People who thrive in fast-paced work environments
+
+**Who is not suited**
+- People who dislike numbers and data analysis
+- People who are not good at collaborating with others
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for advertising and marketing professionals in Spain?**
+A: Entry-level salaries are about 24,000-32,000 euros per year, intermediate salaries about 35,000-50,000 euros, and seniors up to 55,000-80,000 euros.
+
+**Q: How can foreigners immigrate to Spain through this profession?**
+A: Can apply for EU Blue Card (requires contract + annual salary approx. EUR 33,908) or High-Skilled Professional Visa (annual salary approx. EUR 40,000).
+
+**Q: What is the career development path for advertising and marketing professionals?**
+A: Starting as an assistant or specialist, you can be promoted to manager, director, or move into digital marketing, brand management, and other directions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Advertising and Marketing Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for advertising and marketing professionals in Spain?**
-答：Entry-level: €24,000-€32,000; Mid-level: €35,000-€50,000; Senior: €55,000-€80,000 annual gross.
-
-**问：How can foreigners migrate to Spain through this profession?**
-答：Apply for EU Blue Card (contract + salary ~€33,908) or Highly Skilled Professional visa (salary ~€40,000).
-
-**问：What is the career progression for advertising and marketing professionals?**
-答：Start as assistant or specialist, then move to manager, director, or specialize in digital marketing, brand management, etc.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

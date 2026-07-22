@@ -1,61 +1,95 @@
-# Airport Runway Operator（Airport Runway Operator）职业分析 · FR
+# Airport Runway Operator — career analysis · France
 
-**职业代码：N2203 – Airport Runway Operator。**
+**Occupation code: N2203 (ROME)**
 
-Responsible for the daily operation, maintenance, and safety inspection of airport runways to ensure smooth aircraft takeoffs and landings. Tasks include surface inspection, foreign object debris removal, marking updates, and snow/ice clearance.
+Responsible for daily operations, maintenance, and safety inspections of airport runways to ensure smooth aircraft takeoff and landing. This includes track surface inspection, foreign object removal, sign updates, and ice and snow removal.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中文凭（CAP） | 2年 | —（公立职业学校免费，私立约5000欧元） |
-| 职业业士文凭（BAC Pro） | 3年 | —（公立免费，私立约8000欧元） |
+| Vocational High School Diploma (CAP) | 2 years | $0~$5,000 (Public vocational schools are free, while private ones cost about 5,000 euros) |
+| BAC Pro | 3 years | $0~$8,000 (Public is free, private is about 8,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机场运营相关CAP或BAC Pro文凭 | 法国教育部 | 必备 | 基本入职要求，证明基本操作知识 |
-| 跑道安全培训证书 | 机场运营部门或经认可的培训机构 | 必备 | 包括异物清除、道面检查等安全操作培训 |
-| 持证上岗（Carte de qualification） | 法国机场协会（UAF） | 可选 | 部分大型机场要求特殊资格证 |
+| CAP or BAC Pro diploma related to airport operations | French Ministry of Education | Required | Basic onboarding requirements, proving basic operational skills |
+| Runway safety training certificate | Airport operations departments or accredited training institutions | Required | Including safety operation training such as foreign object removal and pavement inspection |
+| Certified Job (Carte de qualification) | French Airports Association (UAF) | Optional | Some large airports require special qualification certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。法国机场运营岗位保持稳定需求，尤其随着航空恢复和大型机场扩建，跑道维护专业人员不可或缺。受退休潮影响，未来5年有一定招聘缺口，但岗位薪资相对有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Demand for airport operations positions in France remains steady, especially as aviation resumes and large airports expand, making running track maintenance professionals indispensable. Due to the retirement wave, there will be a certain recruitment gap in the next five years, but salaries for positions will be relatively limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$27,000 | 税前年薪，通常包含夜班或户外津贴 |
-| 中级（4-7年） | $27,000~$32,000 | 包括附加职责如设备操作 |
-| 高级（8年以上或主管） | $32,000~$38,000 | 主管或协调员角色，含管理津贴 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$27,000 | Pre-tax annual salary, usually including night shift or outdoor allowances |
+| Mid-level (4-7 years) | $27,000~$32,000 | Including additional duties such as equipment operation |
+| Senior (8+ years or supervisory role) | $32,000~$38,000 | Supervisor or coordinator role, including management allowances |
+| average salary | $32,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从跑道维护工或助理做起，积累经验后可晋升为跑道主管或运营协调员。少数人转向机场运营管理或安全监督岗位，需额外培训或文凭。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some runway operator tasks can be automated (such as inspections and records), but critical safety decisions and on-site emergency response rely on human judgment. AI enhances efficiency rather than completely replaces it, and job transition pressure is moderate.
+
+Typically, they start as runway maintenance workers or assistants, and after gaining experience, can be promoted to runway supervisors or operations coordinators. A small number have moved into airport operations management or security supervision roles, requiring additional training or diplomas.
+
+**Tasks most exposed to AI:**
+
+- Automatic Track Surface Detection and Foreign Object Scanning (AI Vision + Sensor)
+- Routine Logo Update and Maintenance Log Generation (RPA+AI)
+- Automatic Weather Data Collection and Runway Condition Report Preparation (IoT + AI)
+- Ice and Snow Removal Equipment Scheduling and Route Planning (AI Optimization Algorithm)
+
+**Where AI augments the role:**
+
+- Runway safety hazard prediction and preventive maintenance recommendations (AI analysis of historical data)
+- Takeoff and landing risk assessment under complex weather conditions (AI fusion of multi-source data)
+- Real-time collaborative decision-making with air traffic control and ground teams (AI-assisted communication)
+- Virtual scene generation for training simulation and emergency drills (AI-generated adversarial network)
+- Drone-assisted inspection and remote diagnosis (AI vision + drone)
+
+**Human moat:**
+
+- On-site judgment in emergency situations (such as immediate handling decisions after trackway foreign object identification)
+- High-risk communication and coordination skills with pilots and controllers
+- Flexible response to unconventional incidents (such as wildlife invasions or sudden equipment failures)
+- Bearing legal and safety responsibilities requires manual signature confirmation
+
+**Skills to build:**
+
+- Basic data analysis and use of AI tools (such as Python, SQL)
+- Drone operation and maintenance
+- Smart sensors and IoT device management
+- Emergency management and multi-role collaborative decision-making
+- Digital Twin and Simulation Software Basics
+- Continuous learning and adaptive thinking
+
+**Key growth areas:**
 
 - Airport Expansion
 - Runway Maintenance
@@ -64,58 +98,66 @@ Responsible for the daily operation, maintenance, and safety inspection of airpo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主提供工作合同，证明无法在欧盟找到合适人选。因非紧缺职业，获批难度较高。 |
+| Subclass Salarié (Employee Work Permit) | The employer must provide a work contract proving that suitable candidates cannot be found in the EU. Because it is not a shortage occupation, approval is relatively difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Airport Runway Operator？**
-- 喜欢户外体力工作、不介意恶劣天气
-- 注重细节、对安全敏感
-- 寻求稳定、不需要高学历的蓝领岗位
+**Who is suited**
+- Enjoy outdoor physical work and don't mind bad weather
+- Attention to detail, sensitivity to safety
+- Seeking stable blue-collar positions that do not require high academic qualifications
 
-**谁不适合学Airport Runway Operator？**
-- 偏好高收入或办公室环境
-- 希望快速晋升或技术移民
+**Who is not suited**
+- Preference for high income or office environments
+- Those seeking rapid promotion or skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for runway operators?**
+A: In France, entry-level employees earn about 22,000-27,000 euros (before tax) annually, intermediate employees up to 32,000 euros, and senior managers about 38,000 euros. Salary includes night shift and outdoor allowances, but overall remains at a mid-to-low level for blue-collar workers.
+
+**Q: Can foreigners do this job? Is it difficult to immigrate to France?**
+A: This profession is not in short demand in France and is less attractive to third-country immigrants. In theory, it is possible to apply for employment residence, but the employer must prove that it cannot recruit from the EU, so the chances of approval are low. The free movement of EU citizens is unrestricted.
+
+**Q: What diplomas or certificates are required?**
+A: At least a CAP or BAC Pro qualification is required, preferably with runway safety training certification. Some large airports require a UAF qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Airport Runway Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for runway operators?**
-答：In France, entry-level runway operators earn around €22,000-€27,000 gross annually, mid-level up to €32,000, and senior supervisors about €38,000. Salaries include night shift and outdoor allowances but remain at a lower-to-middle blue-collar level.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

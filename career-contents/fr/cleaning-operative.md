@@ -1,60 +1,96 @@
-# Cleaning Operative（Cleaning Operative）职业分析 · FR
+# Cleaning Operative — career analysis · France
 
-**职业代码：K2204 – Cleaning Operative。**
+**Occupation code: K2204 (ROME)**
 
-Responsible for daily cleaning, disinfection, waste disposal and basic hygiene maintenance of offices, commercial buildings and public facilities, using professional cleaning equipment and agents.
+Responsible for daily cleaning, disinfection, waste disposal, and basic hygiene maintenance of offices, commercial buildings, public facilities, and other indoor spaces, using professional cleaning equipment and cleaning agents.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需文凭（在职培训） | 1-2周（企业内部培训） | —（通常雇主提供免费培训，部分可通过Pôle emploi资助） |
-| CAP Agent de propreté et d'hygiène | 2年（CAP） | $500~$3,000（可通过学徒制（apprentissage）免费学习并领取工资） |
+| No diploma required (on-the-job training) | 1-2 weeks (in-house training) | $0~$500 (Employers usually provide free training, some of which can be funded through Pôle emploi) |
+| CAP Agent de propreté et d'hygiène | 2 years (CAP) | $500~$3,000 (You can study for free and receive a salary through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Agent de propreté et d'hygiène | 法国教育部 | 可选 | 国家文凭，非强制但有助于就业 |
-| CQP Agent de propreté | CPNEF de la propreté | 可选 | 行业职业资格证书，部分企业要求 |
+| CAP Agent de propreté et d'hygiène | French Ministry of Education | Optional | National diploma, non-mandatory but helpful for employment |
+| CQP Agent de propreté | CPNEF de la propreté | Optional | Industry professional qualification certificates, required by some enterprises |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 600,000。法国清洁服务需求稳定，受商业地产和公共设施持续运营支撑，就业机会较多。行业门槛低，但劳工短缺现象存在，尤其在大巴黎地区。
+**Job demand: high (★★★★☆).** National workforce approx. 600,000. Demand for cleaning services in France is stable, supported by the continued operation of commercial real estate and public facilities, resulting in abundant job opportunities. The industry threshold is low, but labor shortages exist, especially in the Greater Paris region.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，通常按SMIC或略高 |
-| 中级（3-10年） | $24,000~$28,000 | 税前年薪，含经验补贴 |
-| 高级（10年以上或领班） | $28,000~$35,000 | 税前年薪，含管理职责 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, usually based on SMIC or slightly higher |
+| Intermediate (3-10 years) | $24,000~$28,000 | Annual salary before tax, including experience allowance |
+| Senior (over 10 years or team leader) | $28,000~$35,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $20,586 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级清洁工晋升为团队领班、区域主管，或转向专业清洁（如工业、医疗洁净室）。部分从业者通过培训进入物业管理或家政管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cleaner positions will be significantly reduced by AI automation, especially repetitive floor cleaning, trash removal, and basic maintenance tasks, but complex cleaning, disinfection, and customer interaction still require humans; job numbers will decrease, skill requirements will increase.
+
+You can be promoted from junior cleaner to team leader, regional supervisor, or transition to professional cleaning (such as industrial or medical cleanrooms). Some practitioners enter property management or domestic management positions through training.
+
+**Tasks most exposed to AI:**
+
+- Automatic vacuuming and floor cleaning
+- Scheduled garbage collection and sorting
+- Basic cleaning of windows and glass
+- Simple surface wiping and disinfection
+- Clean corridors and common areas according to preset routes.
+
+**Where AI augments the role:**
+
+- Use smart cleaning maps and scheduling software to optimize work routes
+- Operate and monitor automatic cleaning robots.
+- Use sensor data to identify high-pollution areas for targeted cleaning
+- Receive real-time tasks and feedback via mobile app
+- Use smart disinfection equipment for precise sanitization
+
+**Human moat:**
+
+- Handle instant stains, spills, and complex cleaning needs
+- Communication and service with clients and colleagues
+- Deep cleaning and infection control in sensitive areas (e.g., healthcare)
+- Identify and resolve equipment faults or safety hazards
+- Adapt flexibly in customized or unstructured environments
+
+**Skills to build:**
+
+- Operate and maintain automatic cleaning robots
+- Use digital scheduling and reporting software
+- Basic data analysis and problem-solving
+- Knowledge of infection control and hygiene standards
+- Customer service and communication skills
+- Equipment repair and basic mechanical skills
+
+**Key growth areas:**
 
 - Urban cleaning
 - Eco-friendly products
@@ -63,62 +99,64 @@ Responsible for daily cleaning, disinfection, waste disposal and basic hygiene m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主提供工作合同，并向DIRECCTE申请工作许可，通常要求法国或欧盟公民优先，非欧盟人员较难获批。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 仅限于高技能或特殊人才，清洁工不符合条件。 |
+| Subclass Salarié (Salarié (Employee)) | An employer must provide a work contract and apply for a work permit from DIRECCTE, usually prioritizing French or EU citizens; non-EU personnel are harder to approve. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Only highly skilled or specialized personnel; cleaners are not eligible. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaning Operative？**
-- 体力好、能适应早起或轮班的人
-- 注重细节、有责任心的人
-- 希望快速就业、无需高学历的人
+**Who is suited**
+- Physically fit, able to adapt to early starts or shift work.
+- Detail-oriented and responsible individuals
+- People seeking quick employment without high education requirements
 
-**谁不适合学Cleaning Operative？**
-- 希望高薪或快速晋升的人
-- 对化学清洁剂敏感或体力较弱的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People sensitive to chemical cleaners or physically weak
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for cleaners in France?**
+A: Junior cleaners earn about 20,000-24,000 euros before tax (SMIC base), while experienced or foremen can earn up to 28,000-35,000 euros.
+
+**Q: Can non-EU individuals immigrate to France through cleaner work?**
+A: It's very difficult. Cleaners are low-skilled professions; employers must prove they cannot find EU citizens and that work permits are strictly approved. Usually only applies to freely mobile individuals within the EU.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Cleaning Operative属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a cleaner in France?**
-答：Entry-level cleaners earn €20,000-€24,000 gross per year (based on SMIC), while experienced or supervisory roles can reach €28,000-€35,000.
-
-**问：Can non-EU nationals immigrate to France as a cleaner?**
-答：Very difficult. Cleaning is considered low-skilled; employers must prove no EU candidate is available, and work permits are rarely approved for third-country nationals.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Airline Pilot and Related Professionals（Airline Pilot and Related Professionals）职业分析 · ES
+# Airline Pilot and Related Professionals — career analysis · Spain
 
-**职业代码：3153 – Airline Pilot and Related Professionals。**
+**Occupation code: 3153 (CNO)**
 
-Operate aircraft for passenger, cargo, or special missions, ensuring flight safety and punctuality. Required skills include meteorology, navigation, and communication, with a license recognized by civil aviation authorities.
+Responsible for flying aircraft to carry out passenger, cargo, or special missions, ensuring flight safety and punctuality. Must master skills in meteorology, navigation, communications, and hold a license recognized by the Civil Aviation Administration.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 民航飞行员执照培训 | 18-24个月 | $60,000~$90,000（Integrated ATPL课程，含飞行小时费） |
-| 航空工程/驾驶本科（Grado） | 4年 | $4,000~$12,000（公立大学年学费，需额外自费飞行训练） |
+| Civil aviation pilot license training | 18-24 months | $60,000~$90,000 (Integrated ATPL course, including flight hour fee) |
+| Bachelor of Aeronautical Engineering/Driving (Grado) | 4 years | $4,000~$12,000 (Public university tuition is an annual fee, with additional self-paid flight training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 民航运输驾驶员执照（ATPL） | 西班牙民航局（AESA） | 必备 | 必须持有，含理论考试和飞行实践 |
-| Class 1 体检合格证 | AESA授权航空体检中心 | 必备 | 每年复检 |
-| 英语语言能力（ICAO Level 4+） | AESA或培训机构 | 必备 | 国际民航组织语言要求 |
+| Civil Aviation Transport Pilot License (ATPL) | Spanish Civil Aviation Authority (AESA) | Required | Must be held, including a theoretical exam and flight practice |
+| Class 1 Medical Examination Certificate | AESA authorized aviation medical examination center | Required | Inspect again annually |
+| English Language Proficiency (ICAO Level 4+) | AESA or training institutions | Required | ICAO Language Requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。西班牙航空业稳步发展，飞行员需求受旅游和货运增长推动。但竞争激烈，需积累飞行小时数，新飞行员入职门槛高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Spain's aviation industry is steadily developing, with pilot demand driven by growth in tourism and cargo. However, competition is fierce, requiring accumulated flight hours, and the entry threshold for new pilots is high.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $30,000~$45,000 | 副驾驶或低航时飞行员，税前年薪 |
-| 中级（5-10年） | $50,000~$80,000 | 副驾驶或初级机长，税前年薪 |
-| 高级（10年以上） | $90,000~$150,000 | 资深机长或大型机长，税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $30,000~$45,000 | First Officer or Low-Endurance Pilot, pre-tax annual salary |
+| Intermediate (5-10 years) | $50,000~$80,000 | First Officer or Junior Captain, pre-tax annual salary |
+| Senior (10+ years) | $90,000~$150,000 | Senior or senior captain, pre-tax annual salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从副驾驶起步，积累飞行经验后晋升机长，部分转入飞行教官或航空管理岗位。大型航空公司内部晋升路径明确。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Typically, they start as first officers, gain flight experience, and are promoted to captain, with some transferring to flight instructors or aviation management positions. Major airlines have clear internal promotion paths.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Aviation
 - Aerospace
@@ -64,66 +98,68 @@ Operate aircraft for passenger, cargo, or special missions, ensuring flight safe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Workers） | 需西班牙公司担保，且证明职位无法由欧盟公民填补，航空公司通常偏好本国或欧盟飞行员。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能职位，但飞行员需满足年薪门槛（约33,908欧元，2023年），且合同至少1年。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，但飞行员职位往往需要预先获得工作机会。 |
+| Subclass Cuenta ajena (Work Permit for Employed Workers) | A Spanish company sponsorship is required, and the position cannot be filled by an EU citizen; airlines usually prefer pilots from their own country or the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, but pilots must meet the annual salary threshold (approximately €33,908, 2023) and have a contract of at least one year. |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for work, but pilot positions often require securing a job offer in advance. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Airline Pilot and Related Professionals？**
-- 热爱飞行、纪律性强、抗压能力出色的人
-- 愿意投资高额培训费用并接受严格体能标准的人
-- 具备优秀英语沟通能力和团队协作精神的人
+**Who is suited**
+- People who love flying, are highly disciplined, and have excellent stress tolerance
+- Those willing to invest in high training costs and accept strict physical standards
+- Individuals with excellent English communication skills and team spirit
 
-**谁不适合学Airline Pilot and Related Professionals？**
-- 对频繁出差和不规律作息敏感的人
-- 经济上无法承担培训成本（约6-9万欧元）的人
+**Who is not suited**
+- People sensitive to frequent business trips and irregular routines
+- People who cannot afford training costs (approximately 60,000-90,000 EUR)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate after-tax income of Spanish pilots?**
+A: Pre-tax annual salary: entry-level approximately €30,000–€45,000; after social security and income tax, net take-home about €24,000–€36,000; senior captain pre-tax up to €90,000–€150,000, net about €60,000–€90,000.
+
+**Q: Can third-country citizens immigrate to Spain through pilot employment?**
+A: It's very difficult. Airlines rarely guarantee non-EU pilots, and positions require labor market testing. It is recommended to accumulate over 1,500 hours of flight experience first and try applying for an EU Blue Card, but successful cases are rare.
+
+**Q: What steps are needed to become a pilot in Spain?**
+A: Must pass Class 1 medical, complete an ATPL integrated course (approx. 18-24 months, EUR €60,000-€90,000), obtain ATPL license and accumulate at least 1,500 flight hours to apply for a commercial pilot license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★★） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Airline Pilot and Related Professionals属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the after-tax income for pilots in Spain?**
-答：Gross annual salary for junior pilots is €30,000-45,000, after tax about €24,000-36,000; senior captains can earn €90,000-150,000 gross, net around €60,000-90,000.
-
-**问：Can third-country nationals immigrate to Spain as pilots?**
-答：Very difficult. Airlines rarely sponsor non-EU pilots, and a labor market test is required. Accumulating over 1,500 flight hours may help for an EU Blue Card, but successful cases are rare.
-
-**问：What steps are required to become a pilot in Spain?**
-答：Pass a Class 1 medical, complete an integrated ATPL course (18-24 months, €60,000-90,000), obtain an ATPL license, and accumulate at least 1,500 flight hours for a commercial pilot license.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

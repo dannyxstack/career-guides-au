@@ -1,59 +1,95 @@
-# Other instructors（Other instructors）职业分析 · 加拿大
+# Other instructors — career analysis · Canada
 
-**职业代码：43109 – Other instructors。**
+**Occupation code: 43109 (NOC)**
 
-Other instructors include dance teachers, music teachers, sports coaches, etc., providing skill training in private or community settings.
+Other instructors include dance teachers, music teachers, sports coaches, etc., mainly providing skills training in private or community settings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 职业培训/证书 | 1-2年 | $5,000~$20,000（根据机构和课程类型） |
-| 大学文凭 | 2-3年 | $15,000~$40,000（体育或艺术相关专业） |
+| Vocational training/certificate | 1-2 years | $5,000~$20,000 (Depending on institution and course type) |
+| University diploma | 2-3 years | $15,000~$40,000 (Major in Sports or Arts) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证 | 各省教育部 | 可选 | 公共学校教学必需 |
-| 急救证书 | 加拿大红十字会 | 可选 | 安全要求 |
-| 专业协会认证 | 如加拿大舞蹈教师协会 | 可选 | 提升专业信誉 |
+| Teaching license/certificate | Provincial education ministries. | Optional | Required for public school teaching |
+| First aid certificate | Canadian Red Cross | Optional | Safety requirements |
+| Professional association accreditation | such as the Canadian Dance Teachers Association | Optional | Enhance professional credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。加拿大对文体类指导人员的需求稳定，受人口增长和健康意识推动，就业前景中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for sports and cultural instructors in Canada is stable, driven by population growth and health awareness; employment outlook moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 多为兼职或时薪 |
-| 中级（4-7年） | $40,000~$60,000 | 稳定客户后 |
-| 高级（8年以上） | $60,000~$100,000 | 资深教练或工作室所有者 |
+| Median salary | $41,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $25,000~$40,000 | Mostly part-time or hourly |
+| Mid-level (4-7 years) | $40,000~$60,000 | After stabilizing clients |
+| Senior (8+ years) | $60,000~$100,000 | Senior coach or studio owner |
+| average salary | $47,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可通过积累经验和客户群发展私人工作室，或晋升为培训主管/项目经理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace standardized teaching and administrative tasks but enhance personalized guidance and creative course design; entry-level competition intensifies, while senior teachers become more valuable through AI tools.
+
+Can develop a private studio by accumulating experience and client base, or advance to training supervisor/project manager.
+
+**Tasks most exposed to AI:**
+
+- Demonstration and correction of repetitive skills (e.g., basic dance steps/musical score performance).
+- Standard Course Scheduling and Assignment Grading
+- Learning progress tracking and report generation
+- Simple Q&A and frequently asked questions
+- Reception and administrative appointment management
+
+**Where AI augments the role:**
+
+- Personalized learning path planning and real-time feedback
+- Use AI to analyze student performance and adjust teaching methods
+- Combine VR/AR to create immersive teaching experiences.
+- Generate creative teaching materials (e.g., choreography, impromptu accompaniment) using AI
+- Using data analysis to optimize course effectiveness and customer retention
+
+**Human moat:**
+
+- Physical demonstration and emotional interaction in unstructured environments
+- Improv adaptation and creative teaching decisions
+- Empathy and patience for students with special needs
+- On-site safety supervision and emergency response
+- Build long-term trust relationships and sense of community belonging.
+
+**Skills to build:**
+
+- Use of AI-assisted teaching tools (e.g., adaptive learning platforms)
+- Data analysis to interpret student performance and course ROI.
+- VR/AR instructional design and content creation
+- Online community management and personal brand building
+- Cross-disciplinary curriculum design skills
+- Advanced certifications and specialized skills (e.g., international dance/music exams).
+
+**Key growth areas:**
 
 - Self-employment
 - Recreation
@@ -62,68 +98,67 @@ Other instructors include dance teachers, music teachers, sports coaches, etc., 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 适合有相关学历和工作经验者 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份针对文体人才有省提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适用于全职教练职位 |
+| Subclass Express Entry (Federal Skilled Worker) | Suitable for those with relevant qualifications and work experience |
+| Subclass PNP (Provincial Nominee Program) | Some provinces offer provincial nominations for sports and arts talents |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa for full-time coaching positions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other instructors？**
-- 有特定技能（如舞蹈、音乐、体育）的人
-- 喜欢教学和与人互动
-- 希望灵活工作或自雇的人
-
-**谁不适合学Other instructors？**
-- 追求稳定高收入者
-- 不喜欢重复性教学工作者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with specific skills (e.g., dance, music, sports)
+- Enjoy teaching and interacting with people
+- People seeking flexible work or self-employment
+
+**Who is not suited**
+- For those seeking stable high income
+- Dislikes repetitive teaching tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of other instructors?**
+A: Income varies by skill, client base, and full-time/part-time status; entry-level around 25,000-40,000 CAD, mid-level 40,000-60,000 CAD, and senior up to 100,000 CAD.
+
+**Q: How to become other trainers in Canada through skilled migration?**
+A: Can immigrate via Express Entry (requires relevant education and work experience) or provincial nomination (e.g., culture and sports talent program). Employer-sponsored LMIA work visa is also a common pathway.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, by accumulating experience and reputation, one can open a private studio, or enter schools/community centers as a project supervisor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other instructors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of other instructors?**
-答：Income varies by skill, client base, and full-time/part-time status, from CAD 25,000-40,000 for entry-level to CAD 60,000-100,000 for senior.
-
-**问：How to immigrate to Canada as an other instructor?**
-答：Through Express Entry (with relevant education and experience) or PNP (e.g., arts and sports streams). Employer-sponsored LMIA work permit is also common.
-
-**问：Is there career advancement in this occupation?**
-答：Yes, by building experience and reputation to open a private studio, or becoming a program director in schools/community centers.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Naval and Railway Machinery Mechanics and Adjusters（Naval and Railway Machinery Mechanics and Adjusters）职业分析 · ES
+# Naval and Railway Machinery Mechanics and Adjusters — career analysis · Spain
 
-**职业代码：7404 – Naval and Railway Machinery Mechanics and Adjusters。**
+**Occupation code: 7404 (CNO)**
 
-Install, maintain, diagnose faults, and repair mechanical systems on ships and railway vehicles to ensure safe operation.
+Responsible for the installation, maintenance, fault diagnosis, and repair of mechanical systems for ships and railway vehicles to ensure their safe operation.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$1,200 (Public schools offer free or low tuition) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械维修技术员（FP Técnico en Mecanizado o Mantenimiento） | 西班牙教育部 | 必备 | 完成FP课程并取得文凭 |
-| 行业安全认证 | 西班牙劳动与社会经济部 | 必备 | 从事高压或危险环境需额外安全培训 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 外国学历需经认证方可从事受规管职业 |
+| Mechanical Maintenance Technician (FP Técnico in Mecanizado or Mantenimiento) | Spanish Ministry of Education | Required | Complete the FP course and obtain a diploma |
+| Industry safety certification | Spanish Ministry of Labor and Social Economy | Required | Working in high-pressure or hazardous environments requires additional safety training |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Foreign academic qualifications must be certified to engage in regulated occupations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,500。西班牙铁路网和港口贸易持续发展，老旧基础设施更新和新能源转型推动对该职业的稳定需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. Spain's railway network and port trade continue to develop, while aging infrastructure updates and new energy transformation drive steady demand for this profession.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（4-8年） | $28,000~$36,000 | 税前年薪 |
-| 高级（9年以上） | $36,000~$45,000 | 税前年薪，含主管职位 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4–8 years) | $28,000~$36,000 | Annual pre-tax salary |
+| Senior (9+ years) | $36,000~$45,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级机械师晋升为高级技师、团队主管或技术顾问，也可通过培训转向特种车辆或可再生能源领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This profession benefits from AI-driven predictive maintenance and intelligent diagnostics, with traditional repair tasks enhanced rather than replaced; However, entry-level calibration positions may see a slight decline in demand due to the widespread adoption of automation tools.
+
+You can advance from junior mechanic to senior technician, team leader, or technical consultant, and also transition through training to special-purpose vehicles or renewable energy fields.
+
+**Tasks most exposed to AI:**
+
+- Manual inspection of mechanical component wear (replaced by sensors and predictive algorithms)
+- Experience-based troubleshooting (taken over by AI diagnostic systems)
+- Record maintenance logs and reports (replaced by automated data collection)
+- Simple repeatability calibration operation (replaced by automatic calibration device)
+
+**Where AI augments the role:**
+
+- Use AI predictive systems to detect potential faults in advance and optimize repair plans
+- Complex mechanical disassembly and maintenance are performed with augmented reality assistance
+- Use intelligent diagnostic devices to quickly locate faults and reduce trial and error time
+- By leveraging digital twin simulation of repair steps, the one-time repair rate is improved
+- Develop more effective preventive maintenance plans based on data analysis
+
+**Human moat:**
+
+- Physical diagnosis and emergency maintenance capabilities for complex mechanical systems
+- Comprehensive fault analysis across systems (electrical-mechanical-hydraulic).
+- In-depth understanding of ship/railway safety regulations and operating procedures
+- On-site environmental adaptability (such as confined spaces and harsh weather)
+- Non-standardized ability to communicate and coordinate with customers and operations teams
+
+**Skills to build:**
+
+- Predictive maintenance software operations (such as GE Predix)
+- Intelligent diagnostic tools (such as the Fluke Connectivity Diagnostic Device) are used
+- Basic Python Data Analysis (Interpreting and Maintaining Data)
+- AR-assisted repair platform applications (such as Microsoft HoloLens).
+- Installation and commissioning of industrial IoT sensors
+- Updates to safety regulations and compliance standards (such as ISO 55000)
+
+**Key growth areas:**
 
 - Railway modernization
 - Marine trade
@@ -64,66 +99,65 @@ Install, maintain, diagnose faults, and repair mechanical systems on ships and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由西班牙雇主担保，需证明职位无法在本国或欧盟填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历或5年经验，年薪门槛约33,908欧元（2024年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 针对高学历或紧缺职业，可加速办理和家庭团聚。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Sponsored by a Spanish employer, it must be proven that the position cannot be filled in the home country or within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately 33,908 euros (2024). |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | For highly educated or in-demand occupations, it can accelerate processing and family reunification. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Naval and Railway Machinery Mechanics and Adjusters？**
-- 喜欢动手操作、擅长机械维修与故障排查的人
-- 愿意在工业环境或户外（港口、铁路）工作的人
-- 追求稳定就业且愿意从学徒做起的人
-
-**谁不适合学Naval and Railway Machinery Mechanics and Adjusters？**
-- 偏好办公室工作或不适应体力劳动的人
-- 对机械原理缺乏兴趣或耐心的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and are skilled in mechanical repair and troubleshooting
+- People willing to work in industrial environments or outdoors (ports, railways).
+- People seeking stable employment and willing to start as apprentices
+
+**Who is not suited**
+- Those who prefer office work or are not suited to physical labor
+- People who lack interest or patience for mechanical principles
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for ship and railway mechanics in Spain?**
+A: Entry-level annual salary approximately EUR 22,000-28,000, mid-level EUR 28,000-36,000, senior up to EUR 45,000.
+
+**Q: How can foreigners obtain a work visa for Spanish ship and railway mechanics?**
+A: This can be done through employer-sponsored employment residence (Cuenta ajena) or the EU Blue Card (Tarjeta azul UE) that meets the high-paying conditions. Foreign degrees must be certified by the Spanish Ministry of Education (Homologación).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Naval and Railway Machinery Mechanics and Adjusters为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of naval and railway machinery mechanics in Spain?**
-答：Entry-level annual salary is around €22,000-€28,000, mid-level €28,000-€36,000, and senior can reach €45,000.
-
-**问：How can foreigners obtain a work visa as a naval and railway machinery mechanic in Spain?**
-答：Through employer-sponsored work permit (Cuenta ajena) or EU Blue Card if meeting high salary threshold. Foreign qualifications require homologación by the Spanish Ministry of Education.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Prosthodontists（Prosthodontists）职业分析 · 美国
+# Prosthodontists — career analysis · United States
 
-**职业代码：29-1024 – Prosthodontists。**
+**Occupation code: 29-1024 (SOC)**
 
-Diagnose, treat, rehabilitate, design, and fit prostheses to maintain oral function, health, and appearance.
+Diagnose, treat, restore, and design prostheses to maintain oral function, health, and aesthetics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科预科 | 4年 | $50,000~$80,000（生物或化学相关专业） |
-| 牙医学院 (DDS/DMD) | 4年 | $200,000~$400,000（包括学费和生活费） |
-| 义齿修复专科住院医师 | 3年 | $50,000~$100,000（住院医师期间可能获得津贴） |
+| Undergraduate foundation / Pre-university | 4 years | $50,000~$80,000 (Biology or chemistry related major) |
+| Dental school (DDS/DMD) | 4 years | $200,000~$400,000 (Including tuition and living expenses) |
+| Denture restoration specialist resident | 3 years | $50,000~$100,000 (May receive stipend during residency) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科执照 (DDS/DMD) | 州牙科委员会 | 必备 | 需通过NBDE和州考试 |
-| 义齿修复专科认证 | 美国牙科委员会 (ABP) | 可选 | 需完成住院医师并通过考试 |
-| 心肺复苏认证 (BLS) | 美国心脏协会 | 必备 | 基本生命支持 |
+| Dental license (DDS/DMD) | State Dental Board | Required | Must pass NBDE and state exams |
+| CPR Certification (BLS) | American Heart Association | Required | Basic Life Support |
+| Prosthodontics Specialty Certification | American Board of Prosthodontics (ABP) | Optional | Must complete residency and pass exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 600。预计就业增长高于平均水平，受益于老龄化人口对假牙和种植牙的需求增加。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 600. Projected employment growth higher than average, driven by aging population increasing demand for dentures and dental implants.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $150,000~$200,000 | 私立诊所或医院 |
-| 中级（3-10年） | $200,000~$300,000 | 经验丰富者 |
-| 高级（10年以上） | $300,000~$500,000 | 合伙人或知名专家 |
+| Median salary | $311,180 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $150,000~$200,000 | Private clinics or hospitals |
+| Intermediate (3-10 years) | $200,000~$300,000 | Experienced individuals |
+| Senior (10+ years) | $300,000~$500,000 | Partner or renowned expert |
+| average salary | $268,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从住院医师培训开始，可晋升为高级医师、学术研究人员或私人诊所合伙人。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+Start with residency training, progress to senior physician, academic researcher, or private practice partner.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - Dental implants
 - Geriatric dentistry
@@ -63,68 +99,67 @@ Diagnose, treat, rehabilitate, design, and fit prostheses to maintain oral funct
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于专业职位，需有至少学士学位 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士或本科加5年经验，可通过NIW申请 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在领域内具有杰出能力者 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional positions requiring at least a bachelor's degree |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's or bachelor's plus 5 years of experience, can apply via NIW |
+| Subclass O-1 (O-1 Extraordinary Ability) | For those with extraordinary ability in their field |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Prosthodontists？**
-- 对口腔解剖学和美学有强烈兴趣
-- 具备精细手工技能和耐心
-- 愿意接受长年教育和培训
-
-**谁不适合学Prosthodontists？**
-- 不想投入长时间学业和住院医师培训
-- 对高度重复性精细操作缺乏耐心
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in oral anatomy and aesthetics
+- Possesses fine manual skills and patience
+- Willing to accept years of education and training
+
+**Who is not suited**
+- Not willing to invest time in long academic programs and residency training
+- Impatient with highly repetitive fine manual tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a prosthodontist?**
+A: Entry-level about 150,000-200,000 USD, senior up to 300,000-500,000 USD.
+
+**Q: How can foreign dentists immigrate to the US?**
+A: Common path: Complete a US dental school (DDS/DMD), work on H-1B visa, then apply for EB-2 green card.
+
+**Q: How many years to become a prosthetist?**
+A: Total about 11 years: 4 years undergraduate + 4 years dental school + 3 years residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Prosthodontists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for prosthodontists?**
-答：Entry-level: $150k-$200k; experienced: $300k-$500k.
-
-**问：How can foreign dentists immigrate to the US?**
-答：Complete a US dental school, work on H-1B, then apply for EB-2 green card.
-
-**问：How many years to become a prosthodontist?**
-答：About 11 years: 4-year bachelor's + 4-year dental school + 3-year residency.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Nuclear Power Reactor Operators（Nuclear Power Reactor Operators）职业分析 · 美国
+# Nuclear Power Reactor Operators — career analysis · United States
 
-**职业代码：51-8011 – Nuclear Power Reactor Operators。**
+**Occupation code: 51-8011 (SOC)**
 
-Operate or control nuclear reactors, move control rods, monitor and adjust equipment, and implement emergency procedures to ensure safe plant operation.
+Operate and control nuclear reactors, adjust control rods, monitor equipment, and record data; execute emergency procedures to ensure safe operation of nuclear power plants.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区大学副学士学位，相关领域如核能技术） |
-| 培训与实习 | 2-3年 | $5,000~$15,000（核电厂运营培训及模拟器训练） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college associate degree in a related field such as nuclear technology) |
+| Training and internship | 2-3 years | $5,000~$15,000 (Nuclear power plant operations training and simulator training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 核监管委员会（NRC）操作员执照 | 美国核监管委员会 | 必备 | 必须通过NRC考试和模拟器测试，持证上岗 |
-| 高级操作员执照 | 美国核监管委员会 | 可选 | 晋升所需，需更多经验和考试 |
+| Nuclear Regulatory Commission (NRC) Operator License | U.S. Nuclear Regulatory Commission | Required | Must pass NRC exams and simulator tests to be certified |
+| Advanced operator license | U.S. Nuclear Regulatory Commission | Optional | Required for promotion, needs more experience and exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,800。美国核能行业稳定但增长缓慢，受清洁能源政策影响，部分核电站延寿或新建项目带来一定就业机会，但岗位竞争激烈，预计2023-2033年就业变化不大。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,800. The US nuclear industry is stable but slow-growing. Clean energy policies have extended the life of some plants or created new projects, bringing some job opportunities, but competition is intense. Employment is expected to change little from 2023-2033.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$85,000 | 包括培训期和执照准备阶段 |
-| 中级（3-10年） | $85,000~$105,000 | 持照操作员，经验丰富 |
-| 高级（10年以上） | $105,000~$130,000 | 高级操作员或值班主管 |
+| Median salary | $122,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$85,000 | Includes training period and license preparation phase |
+| Intermediate (3-10 years) | $85,000~$105,000 | Licensed operator, experienced |
+| Senior (10+ years) | $105,000~$130,000 | Senior operator or shift supervisor |
+| average salary | $121,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从初级操作员逐步晋升为高级操作员、值班主管或反应堆工程师，需积累经验并通过严格认证，部分可转向核安全或监管岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Many monitoring and data recording tasks for nuclear reactor operators can be automated by AI, but core control decisions, emergency response, and regulatory compliance responsibilities still require human judgment; the outlook is mixed.
+
+Progress from junior operator to senior operator, shift supervisor, or reactor engineer, requiring experience and strict certification; some may transition to nuclear safety or regulatory roles.
+
+**Tasks most exposed to AI:**
+
+- Monitor reactor parameters in real time and record data
+- Routine control rod adjustment and power regulation
+- Write standard operation logs and reports
+- Initial response and classification of automated alarm systems
+- Daily equipment inspection and data verification
+
+**Where AI augments the role:**
+
+- AI-driven predictive maintenance recommendations improve equipment reliability
+- Simulated accident scenario training to strengthen emergency decision-making
+- Smart dashboards integrate multi-source data to assist in complex condition judgment
+- Automated report generation lets operators focus on anomaly analysis.
+
+**Human moat:**
+
+- Human intuition and quick decision-making in emergencies
+- Deep understanding of nuclear safety culture and sense of responsibility
+- Cross-departmental coordination and communication skills
+- Handling unforeseen abnormal conditions (non-standard events)
+- Complying with strict regulations and undergoing regulatory scrutiny
+
+**Skills to build:**
+
+- Nuclear engineering or related engineering degree (e.g., Nuclear Engineer)
+- AI/ML basics, understanding model interpretability
+- Advanced Simulator Operation and Incident Management
+- Data-driven decision making and statistical analysis
+- Cognition in human-machine collaboration interface design
+- Nuclear regulations and safety certifications (e.g., NRC license).
+
+**Key growth areas:**
 
 - Nuclear Energy
 - Clean Energy
@@ -63,65 +98,67 @@ Operate or control nuclear reactors, move control rods, monitor and adjust equip
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需本科及以上学历，但本职业通常仅需副学士学位，且雇主担保较少 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需要雇主证明无法招募到美国工人，但由于安全限制，外国工人极难获得担保 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree or higher, but this occupation typically only needs an associate degree, and employer sponsorship is rare |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Requires employer to prove inability to recruit US workers, but due to security restrictions, foreign workers are extremely unlikely to obtain sponsorship |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Nuclear Power Reactor Operators？**
-- 对核能技术有浓厚兴趣，注重安全细节
-- 能承受高压工作环境，适应轮班制
-- 具备良好数学和物理基础，擅长操作复杂设备
+**Who is suited**
+- Strong interest in nuclear energy technology, attention to safety details
+- Able to handle high-pressure work environments and adapt to shift work
+- Good math and physics foundation, skilled at operating complex equipment
 
-**谁不适合学Nuclear Power Reactor Operators？**
-- 不习惯严格监管和重复性操作
-- 对辐射安全有过度担忧或无法处理紧急情况
+**Who is not suited**
+- Unaccustomed to strict supervision and repetitive operations
+- Those with excessive concerns about radiation safety or inability to handle emergencies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for nuclear reactor operators?**
+A: According to BLS data, 2023 median annual salary about $98,000, entry-level about $70,000-$85,000, senior can exceed $130,000.
+
+**Q: Can foreigners apply for nuclear reactor operator jobs?**
+A: Very difficult. Due to security sensitivity, most nuclear plants hire only US citizens or permanent residents; employer-sponsored visas are extremely rare.
+
+**Q: What certifications are needed to become a nuclear reactor operator?**
+A: Must hold an operator's license issued by the U.S. Nuclear Regulatory Commission (NRC), requiring rigorous exams and simulator evaluations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 非常高（★★★★½） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Nuclear Power Reactor Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of nuclear power reactor operators?**
-答：According to BLS, the median annual wage is about $98,000 in 2023, with entry-level at $70,000-$85,000 and senior roles over $130,000.
-
-**问：Can foreigners work as nuclear power reactor operators?**
-答：Very difficult. Due to security sensitivity, most plants only hire US citizens or permanent residents; employer-sponsored visas are extremely rare.
-
-**问：What certifications are required to become a nuclear power reactor operator?**
-答：Must hold an operator license from the US Nuclear Regulatory Commission (NRC), requiring rigorous exams and simulator assessments.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

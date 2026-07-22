@@ -1,58 +1,94 @@
-# Electrical Equipment Mechanics and Repairers（Electrical Equipment Mechanics and Repairers）职业分析 · ES
+# Electrical Equipment Mechanics and Repairers — career analysis · Spain
 
-**职业代码：7521 – Electrical Equipment Mechanics and Repairers。**
+**Occupation code: 7521 (CNO)**
 
-Diagnose, repair, and maintain electric motors, generators, transformers, switchgear, and other electrical equipment in industrial or domestic settings. Employed by repair firms, manufacturers, or self-employed.
+Responsible for diagnosing, repairing, and maintaining motors, generators, transformers, distribution panels, and other industrial/household electrical equipment to ensure safe operation. Usually employed by repair companies, manufacturers, or self-employed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立FP免费，仅注册费） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（更侧重自动化和工业电气） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$500 (Public FP is free, with only a registration fee) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$700 (It places greater emphasis on automation and industrial electrical systems) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电工安装和维护职业资格证书 | 劳动与社会经济部（SEPE） | 可选 | 非强制，但雇主更倾向持证者 |
-| 高压电气操作认证（REBT） | 工业、贸易与旅游部 | 必备 | 从事高压设备维修必需 |
+| High Voltage Electrical Operation Certification (REBT) | Ministry of Industry, Trade and Tourism | Required | Required for high-voltage equipment maintenance |
+| Electrician installation and maintenance vocational qualification certificate | Ministry of Labor and Social Economy (SEPE) | Optional | Non-mandatory, but employers prefer licensed holders |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,500。西班牙电气设备维修需求稳定，受工业自动化和可再生能源设施（如光伏、风电）扩张推动。老旧设备更新和能效改造也带来持续工作量。未来十年预计保持温和增长，但竞争主要来自经验丰富的师傅。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,500. Demand for electrical equipment maintenance in Spain remains stable, driven by the expansion of industrial automation and renewable energy facilities such as photovoltaic and wind power. Upgrading outdated equipment and energy efficiency upgrades also bring ongoing workloads. Moderate growth is expected over the next decade, but competition mainly comes from experienced masters.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 含主管或特殊技能津贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Including supervisor or special skills allowances |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级维修工可从学徒（FP）起步，积累经验后晋升为高级技师或团队主管。也可专攻特定领域（如工业变频器、风电维修）提高收入。部分人转行电气工程师（需补充学历）或开设自己的维修店。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
+
+Junior maintenance workers can start as apprentices (FPs) and gain experience before being promoted to senior technicians or team leaders. They can also specialize in specific areas (such as industrial frequency converters and wind power maintenance) to increase revenue. Some have switched to electrical engineering (requiring additional education) or opened their own repair shops.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate fault reports from sensor data.
+- Use AI tools for board-level diagnostics
+- Remote restart or reset device software
+- Predictive maintenance scheduling based on historical data
+- Auto-generate maintenance documents and work orders
+
+**Where AI augments the role:**
+
+- AR glasses overlay circuit diagrams to assist manual repairs
+- AI image recognition quickly locates component faults
+- Natural language querying of technical manuals and logs
+- Automatic calibration of instruments and debugging programs
+- Collaborative robots handling heavy equipment components
+
+**Human moat:**
+
+- Non-standardized fine manual operations in physical environments
+- Creative troubleshooting of new or rare faults
+- Compliance judgment involving safety regulations
+- On-site client communication and emergency response
+- Overall diagnosis of cross-system integration issues
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Programmable logic controllers and SCADA systems
+- Augmented reality repair tool usage
+- Write diagnostic tools in Python or scripting languages.
+- Data-driven predictive maintenance skills
+- Electrical Safety and Compliance Certification
+
+**Key growth areas:**
 
 - electrical equipment maintenance
 - industrial automation
@@ -61,68 +97,67 @@ Diagnose, repair, and maintain electric motors, generators, transformers, switch
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 由西班牙公司提供工作合同，符合国家职业分类要求，需证明雇主无法在欧盟找到合适人选。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高技能职位（若维修高级设备需工程学位），年薪门槛约33,900欧元。 |
-| Subclass Busqueda empleo（Job-Seeker Visa） | 允许在西班牙停留6-9个月寻找工作，需证明经济能力及学历/经历符合职业要求。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract provided by a Spanish company that meets national occupational classification requirements and must prove that the employer cannot find suitable candidates within the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions (if repairing advanced equipment requires engineering degree), annual salary threshold approximately EUR 33,900. |
+| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6-9 months looking for work, and you must prove your financial ability and education/experience meet the job requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Equipment Mechanics and Repairers？**
-- 喜欢动手、善于诊断电气故障的人
-- 愿意接受职业培训（FP）而非大学学位者
-- 希望在高需求行业获得稳定工作及自雇机会的人
-
-**谁不适合学Electrical Equipment Mechanics and Repairers？**
-- 偏好办公室工作或理论分析者
-- 对高空作业、灰尘或危险电压环境感到不适者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are good at diagnosing electrical faults
+- Those willing to undergo vocational training (FP) rather than university degrees
+- People seeking stable jobs and self-employment opportunities in high-demand industries
+
+**Who is not suited**
+- Preference for office work or theoretical analysis
+- Those who feel uncomfortable working at heights, dust, or hazardous voltage environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for electrical maintenance workers in Spain?**
+A: Junior approx. EUR 18,000-22,000/year, experienced up to EUR 28,000-35,000/year; overtime and emergency repair supplements can increase income.
+
+**Q: How can third-country citizens immigrate to Spain to work in this profession?**
+A: The most feasible option is to obtain a work contract with a Spanish company (Cuenta ajena), or apply for an EU Blue Card (requires a high-skilled position). You can also apply for a job-seeking visa first, then find an employer.
+
+**Q: What educational background is required?**
+A: Typically, you need to complete 2 years of intermediate vocational training (FP Grado Medio) or a higher level of FP, without needing a university degree. Relevant work experience is also highly valued.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electrical Equipment Mechanics and Repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an electrical equipment repairer in Spain?**
-答：Entry-level around €18k-22k/year; experienced can reach €28k-35k/year. Overtime and emergency repair allowances boost income.
-
-**问：How can a third-country national migrate to Spain for this occupation?**
-答：The most feasible route is getting a work contract (Cuenta ajena) or applying for an EU Blue Card if the job meets salary thresholds. A job-seeker visa is also possible.
-
-**问：What education is required?**
-答：Usually a 2-year intermediate vocational training (FP Grado Medio) or higher. University degree not required; experience is valued.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

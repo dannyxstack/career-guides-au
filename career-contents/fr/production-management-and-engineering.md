@@ -1,59 +1,95 @@
-# Production Management and Engineering（Production Management and Engineering）职业分析 · FR
+# Production Management and Engineering — career analysis · France
 
-**职业代码：H2502 – Production Management and Engineering。**
+**Occupation code: H2502 (ROME)**
 
-Plan, organize, and manage production processes to optimize industrial manufacturing efficiency, ensuring quality, cost, and delivery targets.
+Responsible for planning, organizing, and managing production processes, optimizing industrial manufacturing efficiency, and ensuring quality, cost, and delivery targets are met.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（工程师学院或大学） | 5年（工程师文凭或硕士） | —（公立工程师学院学费约0-600欧元/年，私立可达10000欧元/年） |
-| BTS或DUT | 2年（BTS/DUT） | —（公立学校学费低，可衔接学徒制） |
+| Undergraduate (Engineering College or University) | 5 years (engineering diploma or master's degree) | $0~$10,000 (Public engineering college tuition is approximately 0-600 euros/year, while private institutions can cost up to 10,000 euros/year.) |
+| BTS or DUT | 2 years (BTS/DUT) | $0~$5,000 (Public schools have low tuition fees and can be linked to apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师文凭（Diplôme d'Ingénieur） | CTI认证工程师学院 | 可选 | 受CTI认证，是法国工业界认可度最高的资质 |
-| 硕士（Master en Management de Production） | 公立大学 | 可选 | 部分企业偏好硕士+经验 |
-| 六西格玛绿带/黑带认证 | ASQ或专业机构 | 可选 | 非强制，但显著提升竞争力 |
+| Diplôme d'Ingénieur (Engineer Diploma) | CTI Certified Engineer Academy | Optional | Certified by CTI, it is the most recognized qualification in the French industry |
+| Master in Management de Production | Public university | Optional | Some companies prefer master's + experience |
+| Six Sigma Green/Black Belt certification | ASQ or professional institutions | Optional | Not mandatory, but significantly enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国工业生产持续升级，自动化和数字化转型推动对生产管理工程师的需求增长，尤其在汽车、航空、食品加工等行业。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. French industrial production continues to upgrade, with automation and digital transformation driving increased demand for production management engineers, especially in industries such as automotive, aviation, and food processing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $42,000~$55,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，含奖金，工厂经理级别更高 |
+| Median salary | $48,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$42,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $42,000~$55,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salary, including bonuses, factory manager rank higher |
+| average salary | $64,720 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级工程师可晋升为生产经理、工厂经理，或转向供应链管理、工业绩效优化等方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
+
+Junior engineers can be promoted to production manager, plant manager, or shift to supply chain management, industrial performance optimization, and other directions.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and inventory optimization calculations based on historical data
+- Standard time measurement and production line balancing calculations and report generation
+- Automatic plotting and anomaly detection of statistical process control charts for quality control
+- Basic data analysis and visualization in lean production
+- Preliminary parameter setup and operation of simulation models (e.g., discrete event simulation)
+
+**Where AI augments the role:**
+
+- Use AI for complex system simulation and digital twin modeling to rapidly iterate production solutions
+- Use machine learning to predict equipment failures and maintenance needs, optimizing preventive maintenance plans
+- Uses AI-driven optimization algorithms (e.g., reinforcement learning) to dynamically adjust production scheduling
+- AI-assisted ergonomic analysis and workstation design to improve employee efficiency and comfort
+- Automated generation of data dashboards and decision recommendations to accelerate management reporting and decision-making.
+
+**Human moat:**
+
+- Cross-departmental coordination and change management, driving Lean/Six Sigma culture implementation
+- Understand human behavior and organizational dynamics, design human-centered process improvements.
+- Handles unstructured, multivariable coupled systemic problems
+- On-site problem diagnosis and rapid response based on experience and intuition.
+- Lifecycle cost-benefit analysis and strategic decision-making for projects
+
+**Skills to build:**
+
+- Python/R with data analysis libraries (Pandas, NumPy) for automated reporting and modeling
+- Machine learning basics, especially applications in predictive models and anomaly detection
+- Digital twin and simulation tools (e.g., Anylogic, Simio)
+- AI-driven optimization algorithms (introduction to genetic algorithms, reinforcement learning)
+- Data visualization tools (Tableau, Power BI)
+- Human-machine collaboration and AI applications in ergonomics
+
+**Key growth areas:**
 
 - Industry 4.0
 - Lean Manufacturing
@@ -62,68 +98,67 @@ Plan, organize, and manage production processes to optimize industrial manufactu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue européen（EU Blue Card） | 适合高技能人才，年薪需达1.5倍法国平均工资（约53,000欧元），有效期1-4年，可转永居。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于硕士及以上学历，持有工作合同（年薪不低于36,000欧元），有效期4年，可携带家属。 |
-| Subclass Salarié（Employee） | 标准工作居留，需雇主担保，年薪不低于法国最低工资（约20,000欧元），有效期1年，可续签。 |
+| Subclass Carte bleue européen (EU Blue Card) | Suitable for highly skilled talent, with an annual salary at least 1.5 times the French average (about 53,000 euros), valid for 1-4 years, and eligible for permanent residency. |
+| Subclass Passeport Talent (Talent Passport) | Applicable to master's degree or above, holding a work contract (annual salary not less than 36,000 euros), valid for 4 years, allowing family members. |
+| Subclass Salarié (Employee) | Standard work residence requires employer sponsorship, annual salary not lower than the French minimum wage (about 20,000 euros), valid for one year, and can be renewed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Management and Engineering？**
-- 逻辑思维强、擅长优化流程的人
-- 有工科背景、对制造业感兴趣的人
-- 希望在工业领域长期发展的人
-
-**谁不适合学Production Management and Engineering？**
-- 不喜欢重复性或高压工作环境的人
-- 对技术细节缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong logical thinking and skilled at optimizing processes
+- People with an engineering background and an interest in manufacturing
+- Those who wish to develop long-term in the industrial sector
+
+**Who is not suited**
+- People who dislike repetitive or high-pressure work environments
+- People who lack patience for technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Production Management Engineers in France?**
+A: Entry-level salaries range from about 35,000 to 42,000 euros, intermediate salaries from 42,000 to 55,000 euros, and seniors up to over 75,000 euros, depending on the industry and company size.
+
+**Q: How can foreigners apply for the position of Production Management Engineer in France?**
+A: You can pass through the EU Blue Card (annual salary above 53,000 euros) or the Talent Passport (requires a master's degree + contract annual salary of over 36,000 euros).
+
+**Q: What is the career progression path for this occupation?**
+A: Usually, they start as production engineers and can be promoted to production manager, plant manager, or move on to supply chain management, industrial performance consulting, and similar fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Production Management and Engineering的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for production management engineers in France?**
-答：Entry-level salary is about 35,000-42,000 EUR, mid-level 42,000-55,000 EUR, senior up to 75,000 EUR or more, depending on industry and company size.
-
-**问：How can foreigners apply for a production management engineer position in France?**
-答：They can apply via EU Blue Card (salary above 53,000 EUR) or Talent Passport (master's degree + contract salary above 36,000 EUR).
-
-**问：What is the career progression for this profession?**
-答：Typically starts as a production engineer, can advance to production manager, plant manager, or move to supply chain management, industrial performance consulting.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

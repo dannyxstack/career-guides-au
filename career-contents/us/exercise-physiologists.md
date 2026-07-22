@@ -1,61 +1,97 @@
-# Exercise Physiologists（Exercise Physiologists）职业分析 · 美国
+# Exercise Physiologists — career analysis · United States
 
-**职业代码：29-1128 – Exercise Physiologists。**
+**Occupation code: 29-1128 (SOC)**
 
-Assess, plan, or implement exercise programs to improve cardiorespiratory function, body composition, muscular strength, and endurance. Excludes physical therapists and trainers.
+Evaluate, design, and implement exercise programs to improve cardiorespiratory fitness, body composition, muscle strength and endurance, excluding physiotherapists and exercise coaches.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$150,000（公立大学学费约4万，私立约15万美元） |
-| 硕士（推荐） | 2年 | $30,000~$80,000（硕士学历更有利于认证与就业） |
-| 博士 | 4-6年 | $60,000~$200,000（博士用于科研或大学教职） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public university tuition approx. 40,000, private approx. 150,000 USD) |
+| Master's (recommended) | 2 years | $30,000~$80,000 (Master's degree is more beneficial for certification and employment) |
+| Doctorate | 4-6 years | $60,000~$200,000 (PhD for research or university faculty positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 运动生理学学士/硕士学位 | 大学 | 必备 | ACSM或NSCA认证考试的前提 |
-| 认证运动生理学家（ACSM-CEP） | 美国运动医学学院（ACSM） | 必备 | 需本科以上学历及实习经验 |
-| 临床运动生理学家认证 | 美国临床运动生理学协会（ACES） | 可选 | 适用于临床环境 |
-| 心肺复苏（CPR）认证 | 美国心脏协会等 | 必备 | 基本安全要求 |
+| Bachelor's/Master's in Exercise Physiology | University | Required | Prerequisite for ACSM or NSCA certification exam |
+| Certified Exercise Physiologist (ACSM-CEP) | American College of Sports Medicine (ACSM) | Required | Requires bachelor's degree or higher plus internship experience |
+| Cardiopulmonary resuscitation (CPR) certification | American Heart Association, etc. | Required | Basic safety requirements |
+| Clinical exercise physiologist certification | American College of Sports Medicine (ACSM) - Clinical Exercise Physiologist certification | Optional | Suitable for clinical settings |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 20,000。随着慢性病预防与康复需求增长，运动生理学家就业预计将快速增长。医院、康复中心、健身机构需求旺盛，2022-2032年岗位增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 20,000. Employment of exercise physiologists is projected to grow rapidly due to increasing demand for chronic disease prevention and rehabilitation. High demand in hospitals, rehab centers, and fitness facilities, with about 10% growth from 2022 to 2032.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 年薪范围，依地区与机构而异 |
-| 中级（3-7年） | $55,000~$70,000 | 随经验与认证提升 |
-| 高级（7年以上） | $70,000~$95,000 | 主管或专科领域如心脏康复可达更高 |
+| Median salary | $59,460 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual salary range varies by region and institution. |
+| Mid-level (3–7 years) | $55,000~$70,000 | Increases with experience and certifications |
+| Senior (7+ years) | $70,000~$95,000 | Supervisor or specialized area such as cardiac rehabilitation can earn higher |
+| average salary | $60,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初入行通常担任助理，积累经验后可晋升为高级运动生理学家或科室主管，也可转向科研、教学或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of exercise physiologists has mixed prospects: AI can automate data analysis and report generation, but core assessment, intervention design, and patient guidance heavily rely on human judgment and interaction. Entry-level positions face increased competition due to AI tools, but senior roles see growing demand due to efficiency gains from AI assistance.
+
+Beginners usually work as assistants, can advance to senior exercise physiologist or department head with experience, or move into research, teaching, or private practice.
+
+**Tasks most exposed to AI:**
+
+- Automatically analyze exercise test data (e.g., cardiopulmonary, metabolic data) and generate standardized reports
+- Extract patient history data from electronic health records using algorithms and calculate risk scores
+- Provide initial exercise advice and FAQ through AI chatbots
+- Automation of partial exercise prescription template generation (matching plans based on algorithms)
+- Use AI to identify data anomalies and flag cases for manual review
+
+**Where AI augments the role:**
+
+- AI-assisted personalized exercise prescription optimization based on big data and patient characteristic simulation results
+- Wearable devices monitor patient physiological data in real time, with AI warnings and timely exercise plan adjustments
+- AI-driven virtual reality (VR) rehabilitation training allows patients to receive guidance at home
+- Natural language processing (NLP) to automatically transcribe patient feedback and identify emotional or risk signals
+- AI analyzes group data to help design more effective community health interventions
+
+**Human moat:**
+
+- Interpretation and judgment skills in clinical assessment (e.g., integrating patient history and symptoms).
+- In-person patient counseling and motivational interviewing (core to behavior change)
+- Safely adjusting exercise programs for complex or special populations (e.g., heart disease, diabetes)
+- Multidisciplinary team collaboration and clinical decision-making (understanding medical context)
+- Ethical responsibility and license requirements (e.g., direct responsibility for patient safety)
+
+**Skills to build:**
+
+- Analysis and interpretation of sports physiology data (e.g., processing cardiopulmonary test data using Python/R)
+- AI/ML basics (understanding model outputs and verifying clinical plausibility)
+- Digital health tools (e.g., wearable device data platforms, remote monitoring software)
+- Patient behavior change and coaching skills (enhancing irreplaceable interpersonal interaction)
+- Advanced Applications and Data Management of Electronic Health Record (EHR) Systems
+- Cross-disciplinary communication and project management (integrating AI tools into clinical workflows)
+
+**Key growth areas:**
 
 - Chronic Disease Prevention
 - Aging Population
@@ -64,69 +100,68 @@ Assess, plan, or implement exercise programs to improve cardiorespiratory functi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需本科以上学历，运动生理学符合专业职位要求。每年配额抽签，竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 硕士以上学历或卓越能力者可通过PERM劳工证申请，排期中等。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 学士学位或以下，需PERM，排期较长。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到美国工人，流程约1.5-2年。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or higher; exercise physiology meets professional position requirements. Annual quota lottery, highly competitive. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Those with a master's degree or exceptional ability can apply via PERM labor certification, with moderate wait times. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Bachelor's degree or less, requires PERM, long wait times. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove they cannot find U.S. workers; the process takes about 1.5-2 years. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Exercise Physiologists？**
-- 热爱运动科学与健康促进
-- 有耐心且善于沟通，能激励患者
-- 希望在医疗领域从事非手术干预工作
-
-**谁不适合学Exercise Physiologists？**
-- 不喜与患者长期互动
-- 希望高薪快速回报
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports science and health promotion
+- Patient and good communicator, able to motivate patients
+- Aims to work in healthcare in non-surgical intervention roles
+
+**Who is not suited**
+- Dislike long-term interaction with patients
+- Looking for high pay and quick returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for exercise physiologists?**
+A: According to BLS data, 2023 median salary about $54,000/year, entry-level $45,000, senior $95,000. Hospitals and cardiac rehab centers offer higher pay.
+
+**Q: Is it easy for exercise physiologists to apply for a US green card?**
+A: Relatively moderate difficulty. Requires employer-sponsored PERM labor certification proving no qualified US workers. Master's+ degree holders have shorter EB-2 wait times (~2-3 years); bachelor's EB-3 wait times are longer (3-5 years).
+
+**Q: What career paths can exercise physiologists transition to?**
+A: May transition to rehabilitation management, fitness coach training, sports science research, or opening a private sports clinic. Some pursue further study to become physiotherapists or physician assistants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Exercise Physiologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for exercise physiologists?**
-答：According to BLS, median annual wage is about $54,000 in 2023, entry-level around $45,000, senior up to $95,000. Hospitals and cardiac rehab pay higher.
-
-**问：Is it easy for exercise physiologists to get a US green card?**
-答：Moderately difficult. Requires employer sponsorship via PERM. EB-2 for master's (2-3 years queue), EB-3 for bachelor's (3-5 years).
-
-**问：What career transitions are possible for exercise physiologists?**
-答：Can move into rehab management, fitness training education, sports research, or open private clinics. Some pursue further education to become physical therapists or physician assistants.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Clock and Watch Repairers and Precision Instrument Makers（Clock and Watch Repairers and Precision Instrument Makers）职业分析 · ES
+# Clock and Watch Repairers and Precision Instrument Makers — career analysis · Spain
 
-**职业代码：7611 – Clock and Watch Repairers and Precision Instrument Makers。**
+**Occupation code: 7611 (CNO)**
 
-Repair, maintain, and calibrate clocks, watches, and precision instruments (e.g., barometers, lab apparatus), typically working independently in small workshops or specialized service centers.
+Responsible for repairing, servicing, and calibrating clocks and precision measuring instruments (such as barometers and laboratory instruments), usually operating independently in small studios or specialized repair centers.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $1,000~$4,000（公立学校学费低，私立或行业协会课程费用较高） |
-| 高级职业培训（FP Grado Superior） | 2年 | $1,500~$5,000（侧重精密机械与电子维修，包含实习） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $1,000~$4,000 (Public schools have low tuition fees, while private or industry association courses are more expensive) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $1,500~$5,000 (Focuses on precision mechanical and electronic maintenance, including internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钟表维修技师认证 | 西班牙钟表协会（Asociación Española de Relojería） | 可选 | 非强制，但对求职和客户信任有帮助 |
-| FP Grado Medio en Relojería | 西班牙教育部认可的职业教育中心 | 必备 | 基础入门学历，部分岗位要求 |
+| FP Grado Medio en Relojería | A vocational education center recognized by the Spanish Ministry of Education | Required | Basic entry-level education, some job requirements |
+| Certified watch repair technician | Spanish Watch Association (Asociación Española de Relojería) | Optional | Non-mandatory, but helpful for job hunting and client trust |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏下（★★☆☆☆）。** 全国从业人数约 4,500。西班牙钟表与精密仪器维修市场较小但稳定，受高端消费品和工业设备维护需求支撑。随着复古手表收藏兴起，熟练技师供不应求，但新入行者较少，岗位竞争温和。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 4,500. The Spanish watch and precision instrument repair market is small but stable, supported by demand for high-end consumer goods and industrial equipment maintenance. With the rise of vintage watch collecting, skilled technicians are in short supply, but there are few new entrants, and competition for positions is mild.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 学徒或小型维修店助手薪资 |
-| 中级（4-8年） | $22,000~$30,000 | 有经验的独立技师或技术主管 |
-| 高级（8年以上） | $30,000~$40,000 | 精通高复杂钟表维修或自营工作室 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$22,000 | Apprentice or small repair shop assistant salary |
+| Mid-level (4–8 years) | $22,000~$30,000 | Experienced independent technicians or technical supervisors |
+| Senior (8+ years) | $30,000~$40,000 | Skilled in high-complexity watch repair or self-operated studios |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 学徒期较长（通常4-6年），积累经验后可独立开店或升任技术主管。部分技师转行至珠宝维修或精密制造，少数取得官方认证后进入博物馆或拍卖行从事高价值古董钟表修复。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI can automate data recording and preliminary diagnosis, but precise manual repair and creative calibration still require human experience; Entry-level positions have narrowed, but the value of senior technicians has increased.
+
+The apprenticeship period is relatively long (usually 4-6 years), and after gaining experience, you can open your own shop or be promoted to technical supervisor. Some technicians switch careers to jewelry repair or precision manufacturing, while a few obtain official certification and enter museums or auction houses to work in high-value antique watch restoration.
+
+**Tasks most exposed to AI:**
+
+- Using an AI vision system to automatically detect wear and cracks in watch parts
+- Automatically generates standard calibration schemes through algorithms
+- Replace routine inspection records with AI predictive maintenance modules
+- Data collection and report generation for automated precision instruments
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex fault causes narrows down the scope of troubleshooting
+- Digital twin simulates the maintenance process, reducing trial-and-error costs
+- Augmented reality (AR) guides precise disassembly and assembly processes
+- AI analyzes historical repair data to optimize maintenance cycles
+
+**Human moat:**
+
+- Tactile and tactile correction of tiny mechanical structures
+- Creative restoration solutions for non-standard antique watches
+- Communicate diagnostic results with clients and provide customized advice
+- Handling abnormal damage and modification needs that AI cannot foresee
+
+**Skills to build:**
+
+- Knowledge of precision machinery and micro-electromechanical systems (MEMS).
+- Operation of AI diagnostic tools and digital twin software
+- Use of Augmented Reality (AR) maintenance assistance systems
+- Sensor data interpretation and integration with IoT devices
+- Customer communication and customised service skills
+- Antique clock restoration and materials science fundamentals
+
+**Key growth areas:**
 
 - precision instrument
 - watchmaking
@@ -63,68 +96,67 @@ Repair, maintain, and calibrate clocks, watches, and precision instruments (e.g.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed professionals） | 需西班牙雇主担保，合同期限通常至少1年，薪资需符合行业水平。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高技能专业人员，但该职业通常不符合高薪门槛（年薪需≥34,000欧元）。 |
+| Subclass Cuenta ajena (Work permit for employed professionals) | A Spanish employer sponsorship is required, the contract term is usually at least 1 year, and the salary must meet industry standards. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | It is suitable for highly skilled professionals, but this occupation usually does not meet the high salary threshold (annual salary ≥ 34,000 euros). |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clock and Watch Repairers and Precision Instrument Makers？**
-- 有耐心、手巧的非欧盟申请者，愿意通过学徒路径获得技能
-- 对机械和精密仪器有浓厚兴趣的人
-- 希望自雇并开设小型工作室的创业者
-
-**谁不适合学Clock and Watch Repairers and Precision Instrument Makers？**
-- 追求高薪或快速晋升的人
-- 不习惯独立工作或偏好大公司环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, skillful non-EU applicants are willing to acquire skills through apprenticeship paths
+- People with a strong interest in machinery and precision instruments
+- Entrepreneurs who want to be self-employed and open small studios
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who are not used to working independently or prefer large corporate environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for watch technicians in Spain?**
+A: Entry-level technician salary is about €16,000-22,000 per year, mid-level €22,000-30,000, senior or self-employed up to €40,000. Lower than IT, but comfortable in low-cost areas.
+
+**Q: Can non-EU citizens immigrate to Spain to work in watch repair?**
+A: The path to skilled migration is narrow. This occupation is not shortage, requires employer sponsorship, and meets labor market testing requirements (local applicants preferred). Although degree verification is not mandatory, it does help with applications. EU citizens can move freely.
+
+**Q: How to become a watchmaker in Spain?**
+A: Common pathways include completing 2 years of FP Grado Medio en Relojería (intermediate vocational training) or joining apprenticeship programs in industry associations. Some technicians gain experience through on-the-job training and do not require formal academic qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等偏下（★★☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Clock and Watch Repairers and Precision Instrument Makers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for clock and watch repairers in Spain?**
-答：Entry-level technicians earn around €16,000-22,000 per year, mid-level €22,000-30,000, and senior/self-employed up to €40,000. Wages are lower than in IT, but sufficient for a comfortable life in lower-cost areas.
-
-**问：Can non-EU citizens immigrate to Spain as clock repairers?**
-答：Migration pathways are limited. The occupation is not in shortage, requiring employer sponsorship and a labor market test (priority to locals). While homologación is not mandatory, it helps. EU citizens enjoy free movement.
-
-**问：How to become a clock and watch repairer in Spain?**
-答：Typical path is a 2-year FP Grado Medio en Relojería (intermediate vocational training) or an apprenticeship via trade associations. Some gain skills on the job without formal qualifications.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

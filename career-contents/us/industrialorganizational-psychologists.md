@@ -1,60 +1,96 @@
-# Industrial-Organizational Psychologists（Industrial-Organizational Psychologists）职业分析 · 美国
+# Industrial-Organizational Psychologists — career analysis · United States
 
-**职业代码：19-3032 – Industrial-Organizational Psychologists。**
+**Occupation code: 19-3032 (SOC)**
 
-Apply psychology principles to human resources, management, and organizational development to improve workplace productivity and employee well-being.
+Applies psychological principles to human resource management, organizational development, employee selection and training to improve work performance and employee satisfaction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$60,000（公立大学年均学费） |
-| 硕士 | 2年 | $30,000~$70,000（心理学硕士项目总学费） |
-| 博士 | 5-6年 | —（部分博士提供全额资助） |
+| Bachelor's degree | 4 years | $40,000~$60,000 (Average annual tuition at public universities) |
+| Master's degree | 2 years | $30,000~$70,000 (Total tuition fees for a master's program in psychology) |
+| Doctorate | 5-6 years. | $0~$60,000 (Some PhD programs offer full funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业组织心理学硕士或博士 | 美国心理学会认可院校 | 必备 | 硕士是入门最低要求，博士更受青睐 |
-| ABOIP认证 | 美国专业心理学委员会 | 可选 | 自愿但提升竞争力 |
-| 人力资源认证（如SHRM-CP） | 人力资源管理协会 | 可选 | 非必需但增强背景 |
+| Master's or PhD in Industrial-Organizational Psychology | American Psychological Association accredited institution | Required | A master's degree is the minimum requirement; a PhD is preferred. |
+| ABOIP certification | American Board of Professional Psychology | Optional | Voluntary but improves competitiveness |
+| Human resources certification (e.g., SHRM-CP) | Society for Human Resource Management | Optional | Not required but strengthens background |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 26,400。美国劳工统计局预测2022-2032年就业增长6%，需求来自企业重视员工效率和组织健康。
+**Job demand: medium (★★½☆☆).** National workforce approx. 26,400. The U.S. Bureau of Labor Statistics projects 6% employment growth from 2022 to 2032, driven by employer focus on employee efficiency and organizational health.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 顾问或初级岗位 |
-| 中级（4-9年） | $85,000~$120,000 | 高级顾问或项目经理 |
-| 高级（10年以上） | $120,000~$170,000 | 总监或合伙人 |
+| Median salary | $193,950 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Consultant or entry-level positions |
+| Intermediate (4-9 years) | $85,000~$120,000 | Senior consultant or project manager |
+| Senior (10+ years) | $120,000~$170,000 | Director or Partner |
+| average salary | $170,230 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级顾问晋升为高级顾问、项目经理或组织发展总监，可转向学术或咨询公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of industrial-organizational psychologists will be significantly enhanced by AI, especially in data analysis and standardized assessment, but core tasks involving human judgment, consulting, and change management remain hard to replace, overall mixed.
+
+Progress from junior consultant to senior consultant, project manager, or organizational development director; can transition to academia or consulting firms.
+
+**Tasks most exposed to AI:**
+
+- Scoring and report generation for standardised psychological assessments
+- Data collation and preliminary analysis of employee satisfaction surveys
+- Construction of performance prediction models based on historical data
+- Keyword extraction from job descriptions and competency models
+- Basic statistical analysis of training effectiveness
+
+**Where AI augments the role:**
+
+- Use AI tools to analyze large-scale employee behavior data and identify potential issues
+- Uses natural language processing (NLP) to analyze employee feedback and communication patterns.
+- Use machine learning to optimize employee selection and promotion decision models
+- Using AI to simulate training scenarios and design more effective intervention plans
+- Integrate multi-source data (performance, attendance, turnover) to generate organizational diagnostic reports
+
+**Human moat:**
+
+- Strategic judgment to design organizational change and intervention plans
+- Empathy and trust-building in in-depth interviews and counseling
+- Ethical decision-making for sensitive employee issues (e.g., burnout, discrimination)
+- Translate data analysis results into actionable organizational policies
+- Cross-departmental coordination and influence to drive cultural change
+
+**Skills to build:**
+
+- Python/R for advanced statistics and machine learning
+- Natural Language Processing (NLP) for text analysis
+- Data visualization tools (Tableau, Power BI)
+- Organizational Network Analysis (ONA) technique
+- AI ethics and privacy compliance knowledge
+- Change management and organizational development consulting skills
+
+**Key growth areas:**
 
 - Organization Development
 - Employee Engagement
@@ -63,68 +99,67 @@ Apply psychology principles to human resources, management, and organizational d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，要求硕士或以上学位，需雇主赞助 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于硕士或以上学位，需PERM劳工证 |
-| Subclass Green Card (PERM)（Permanent Labor Certification (PERM)） | 通过PERM获得绿卡，需证明无美国合格工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa, requires master's degree or higher, requires employer sponsorship |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable for master's degree or higher; requires PERM labor certification |
+| Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Obtains green card via PERM, must prove no qualified US workers available. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial-Organizational Psychologists？**
-- 对心理学和人力资源管理感兴趣的人
-- 擅长数据分析与解决组织问题的人
-- 希望从事咨询或企业内部HRbp角色的人
-
-**谁不适合学Industrial-Organizational Psychologists？**
-- 偏好直接临床治疗或心理健康咨询工作
-- 不喜欢大量数据分析和项目管理工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in psychology and human resource management
+- People who are good at data analysis and solving organizational problems
+- People who want to pursue consulting or internal HR business partner roles
+
+**Who is not suited**
+- Prefers direct clinical treatment or mental health counseling work
+- Dislikes extensive data analysis and project management work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of industrial-organizational psychologists?**
+A: According to BLS, 2023 median salary approx. $139,280/year, junior approx. $60,000-80,000, senior above $170,000.
+
+**Q: How can industrial-organizational psychologists immigrate to the US for work?**
+A: Typically enter via H-1B work visa (requires master's or higher), then employer applies for PERM labor certification to obtain EB-2 green card.
+
+**Q: What qualifications are needed to become an industrial-organizational psychologist?**
+A: At least a master's degree is required; a doctoral degree is more common in academia and senior positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Industrial-Organizational Psychologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for industrial-organizational psychologists?**
-答：Median annual wage $139,280 (2023), entry-level $60k-80k, senior $170k+.
-
-**问：How can industrial-organizational psychologists immigrate to the US through work?**
-答：Typical path: H-1B visa (requires master's or higher), then employer-sponsored PERM for EB-2 green card.
-
-**问：What education is required to become an industrial-organizational psychologist?**
-答：At least a master's degree; a PhD is common for academia and senior roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

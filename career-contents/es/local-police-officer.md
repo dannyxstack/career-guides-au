@@ -1,61 +1,97 @@
-# Local Police Officer（Local Police Officer）职业分析 · ES
+# Local Police Officer — career analysis · Spain
 
-**职业代码：5923 – Local Police Officer。**
+**Occupation code: 5923 (CNO)**
 
-Local police officers maintain public safety in municipalities, enforce traffic regulations, prevent crime, and assist citizens as part of the local government law enforcement.
+Local police are responsible for maintaining public safety in municipalities, managing traffic, preventing crime, and assisting citizens. They are the law enforcement force of Spain's local governments.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 12年基础教育 | —（公立教育免费） |
-| 警察培训学校（通常为FP或专门课程） | 1-2年 | $1,000~$5,000（各省警校费用不同） |
+| High school graduation or equivalent | 12 years of basic education | $0~$0 (Public education is free) |
+| Police training schools (usually FP or specialized courses) | 1-2 years | $1,000~$5,000 (Police academy fees vary by province) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 西班牙国籍或欧盟成员国国籍 | 西班牙政府 | 必备 | 地方警察一般要求西班牙或欧盟国籍 |
-| 高中毕业证书（Bachillerato）或同等学历 | 西班牙教育部 | 必备 | 部分省份要求FP或大学学历 |
-| 体能测试、心理测试及面试 | 各地方警察局 | 必备 | 通过选拔考试 |
+| Spanish nationality or EU member state nationality | Spanish government | Required | Local police generally require Spanish or EU nationality |
+| High school diploma (Bachillerato) or equivalent | Spanish Ministry of Education | Required | Some provinces require an FP or university degree |
+| Physical fitness tests, psychological tests, and interviews | Local police stations | Required | Passing the selection exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 75,000。西班牙地方警察岗位相对稳定，受地方政府财政影响。老龄化导致部分退休空缺，但竞争激烈。数字化和社区警务趋势带来新挑战。
+**Job demand: medium (★★½☆☆).** National workforce approx. 75,000. Local police positions in Spain are relatively stable and are influenced by local government finances. Aging has led to some retirement vacancies, but competition is fierce. Digitalization and community policing trends bring new challenges.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含补贴 |
-| 中级（4-10年） | $32,000~$40,000 | 税前年薪，含加班及夜班补贴 |
-| 高级（10年以上） | $40,000~$55,000 | 税前年薪，含职务津贴 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual salary before tax, including allowances |
+| Mid-level (4-10 years). | $32,000~$40,000 | Pre-tax annual salary, including overtime and night shift allowances |
+| Senior (10+ years) | $40,000~$55,000 | Pre-tax annual salary, including position allowances |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 晋升路径从警员（Policía）到警官（Oficial）、督察（Inspector）及更高职务，需通过内部考试和培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on local police is mixed: while paperwork tasks are easily automated, core responsibilities such as frontline law enforcement and community interaction have been enhanced by AI tools (such as predictive analytics and intelligent monitoring), improving law enforcement efficiency and decision-making capabilities.
+
+Promotion paths range from police officer (Policía) to police officer (Oficial), inspector (inspector), and higher ranks, requiring internal examinations and training.
+
+**Tasks most exposed to AI:**
+
+- Automatically process traffic tickets and parking violation records
+- Generate and archive accident reports, patrol logs, and other paperwork
+- Basic surveillance video analysis (such as license plate recognition and abnormal behavior detection)
+- Simple emergency dispatch and resource allocation
+- Partial administrative application and licensing approval
+
+**Where AI augments the role:**
+
+- AI predicts crime hotspots to assist patrol deployment, improving prevention efficiency
+- Real-time facial recognition and suspect tracking accelerate case investigations
+- The intelligent monitoring system automatically alerts abnormal events to reduce missed reports
+- Data analysis assists investigations to find correlations from massive clues
+- AI translation tools help communicate with diverse communities
+
+**Human moat:**
+
+- On-site judgment and crisis negotiation skills (such as handling psychiatric patients)
+- Community trust building and humanistic care (such as neighborhood dispute mediation)
+- Use of Force and Law Enforcement Legality Decisions (Ethical Discretion)
+- Flexibly adapt to unpredictable sudden violent conflicts
+- Comprehensive trade-offs involving privacy and civil rights
+
+**Skills to build:**
+
+- Data analytics and use of police AI tools (such as PredPol)
+- Fundamentals of Digital Forensics (CCTV, mobile data extraction)
+- Communication and negotiation skills (for scenarios AI cannot replace)
+- Ethical and Legal Knowledge (Boundaries of AI Use)
+- Basic coding and automation scripts (simplifying documents)
+- Emergency management and multi-system coordination
+
+**Key growth areas:**
 
 - Community Policing
 - Digitalization
@@ -64,64 +100,63 @@ Local police officers maintain public safety in municipalities, enforce traffic 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 一般需西班牙公司或机构担保，但警察岗位通常不对外国公民开放，除非有特殊双边协议。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Generally, a Spanish company or institution is required to guarantee it, but police positions are usually not open to foreign nationals unless there is a special bilateral agreement. |
 
-**PR难度：极高（★★★★★）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Local Police Officer？**
-- 热爱公共服务与社区
-- 身体素质和心理素质过硬
-- 愿意接受轮班及高压工作
-
-**谁不适合学Local Police Officer？**
-- 不喜纪律和规范化
-- 难以承受体力与精神压力
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about public service and community
+- Physical and mental strength are excellent
+- Willing to accept shift work and high-pressure work
+
+**Who is not suited**
+- Dislikes discipline and standardization
+- Unable to withstand physical and mental stress
+
+---
+
+## 8. FAQ
+
+**Q: How are local police salaries?**
+A: Junior after-tax annual salary about 25,000-30,000 EUR; with experience, senior can reach 40,000-55,000 EUR (including allowances).
+
+**Q: Can non-EU citizens become local police officers in Spain?**
+A: Spanish or EU nationality is usually required. Non-EU citizens must first obtain Spanish nationality or have limited opportunities through special bilateral agreements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Local Police Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is the salary of local police?**
-答：Entry-level gross annual salary is around €25,000-€30,000, increasing with experience to €40,000-€55,000 for senior roles (including allowances).
-
-**问：Can non-EU citizens become local police in Spain?**
-答：Generally requires Spanish or EU nationality. Non-EU citizens would need Spanish citizenship first, or limited opportunities via special bilateral agreements.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

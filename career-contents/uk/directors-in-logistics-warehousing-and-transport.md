@@ -1,59 +1,95 @@
-# Directors in logistics, warehousing and transport（Directors in logistics, warehousing and transport）职业分析 · UK
+# Directors in logistics, warehousing and transport — career analysis · United Kingdom
 
-**职业代码：1140 – Directors in logistics, warehousing and transport。**
+**Occupation code: 1140 (SOC)**
 
-Plan, organise, direct and coordinate the safe, efficient and economic movement of passengers and freight by road, rail, sea and air, as well as warehousing and inventory management.
+Responsible for planning, organizing, directing, and coordinating the safe and efficient transport of passengers and freight by road, rail, sea, and air, as well as the receipt, storage, and inventory optimization management of goods.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$38,500（英国本土学生学费上限9,250英镑/年，国际学生更高） |
-| 硕士 | 1年 | $10,000~$30,000（物流或供应链管理硕士，学费因校而异） |
+| Bachelor's degree | 3 years | $9,250~$38,500 (Tuition fee cap for UK domestic students is £9,250/year; international students pay more) |
+| Master's degree | 1 year | $10,000~$30,000 (Master's in Logistics or Supply Chain Management, tuition varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物流与运输管理学位 | 英国大学 | 可选 | 通常要求本科或以上学历，相关专业优先 |
-| 特许物流与运输学会（CILT）认证 | CILT | 可选 | 专业认证，提升竞争力 |
-| 交通管理证书（CPC） | 交通部 | 可选 | 管理运输车队可能需要 |
+| Logistics and transport management degree | UK universities | Optional | Usually requires a bachelor's degree or higher, preferably in a related field |
+| Chartered Institute of Logistics and Transport (CILT) certification | CILT | Optional | Professional certification to enhance competitiveness |
+| Traffic Management Certificate (CPC) | Department of Transport | Optional | May be required for managing transport fleets |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 28,500。随着电子商务和全球供应链持续增长，物流与运输行业需求稳定。数字化和绿色物流转型将创造新岗位，但自动化可能影响低端环节。整体前景乐观。
+**Job demand: high (★★★★☆).** National workforce approx. 28,500. With the continued growth of e-commerce and global supply chains, demand in the logistics and transportation industry remains stable. Digitalization and green logistics transformation will create new jobs, but automation may impact lower-level positions. Overall outlook is optimistic.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理经理或区域主管 |
-| 中级（3-8年） | $50,000~$80,000 | 物流经理或运营总监 |
-| 高级（8年以上） | $80,000~$130,000 | 集团物流总监或供应链副总裁 |
+| Median salary | $83,447 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $35,000~$50,000 | Assistant manager or regional supervisor |
+| Mid-level (3–8 years) | $50,000~$80,000 | Logistics manager or operations director |
+| Senior (8+ years) | $80,000~$130,000 | Group logistics director or supply chain vice president |
+| average salary | $97,876 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从运营管理岗位起步，积累经验后晋升为区域或全国物流总监，部分可升至供应链副总裁或首席运营官。跨行业经验（如零售、制造业）有助于职业发展。
-**AI替代风险：中低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
+
+Usually start from operations management roles, gain experience to advance to regional or national logistics director; some may rise to VP of supply chain or COO. Cross-industry experience (e.g., retail, manufacturing) aids career development.
+
+**Tasks most exposed to AI:**
+
+- Demand forecasting based on historical data
+- Automated calculation of inventory levels for replenishment
+- Transport route optimization planning
+- Quantitative Scoring of Supplier Performance
+- Automatic generation of routine purchase orders
+
+**Where AI augments the role:**
+
+- Testing supply chain resilience through AI simulation.
+- Optimizing global procurement strategy using predictive analytics
+- Use risk management platforms to identify real-time disruption risks
+- Automatically summarize market intelligence using natural language processing
+- Dynamically adjusting inventory allocation via digital twins
+
+**Human moat:**
+
+- Complex Negotiations and Long-Term Supplier Relationship Management
+- Cross-departmental coordination and strategic decision-making (e.g., capacity investment)
+- Creative problem-solving in crisis situations
+- Deep understanding of corporate culture and sustainability initiatives
+- Ability to build and interpret AI model results
+
+**Skills to build:**
+
+- Operation of supply chain AI tools (e.g., Blue Yonder, Kinaxis)
+- Data analysis and predictive modeling (Python/R)
+- IoT and blockchain in supply chain applications
+- Risk management and scenario planning
+- Digital Transformation Project Management
+- Cross-cultural communication and leadership
+
+**Key growth areas:**
 
 - E-commerce
 - Supply Chain Digitalisation
@@ -62,69 +98,68 @@ Plan, organise, direct and coordinate the safe, efficient and economic movement 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 此职业在可担保职业清单上，可申请技术工人签证，需满足薪资门槛 |
-| Subclass Global Talent（Global Talent Visa） | 如为物流领域杰出人才，可申请全球人才签证，需获得认可 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请毕业生签证，在英国工作2年（博士3年） |
-| Subclass Scale-up（Scale-up Visa） | 如在符合条件的快速增长企业工作，可申请Scale-up签证 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible occupations list, can apply for a skilled worker visa, must meet salary threshold |
+| Subclass Global Talent (Global Talent Visa) | Outstanding talents in the logistics field can apply for the Global Talent Visa, subject to recognition. |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply for the Graduate Visa to work in the UK for 2 years (3 years for PhD holders) |
+| Subclass Scale-up (Scale-up Visa) | Can apply for a Scale-up visa if working at a qualifying high-growth company |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Directors in logistics, warehousing and transport？**
-- 有物流或供应链背景的管理者
-- 善于统筹和优化流程的人
-- 能应对高压和快节奏工作环境的人
-
-**谁不适合学Directors in logistics, warehousing and transport？**
-- 不喜欢出差或长时间工作的人
-- 对数字化工具和数据分析不感兴趣的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Managers with logistics or supply chain background
+- Someone skilled in coordinating and optimizing processes
+- People who can handle high-pressure and fast-paced work environments
+
+**Who is not suited**
+- People who dislike business trips or long working hours
+- People not interested in digital tools and data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a logistics and transportation director?**
+A: Entry-level: about £35,000-50,000, mid-level: £50,000-80,000, senior: up to £130,000 or more.
+
+**Q: Can this occupation apply for a skilled worker visa?**
+A: Yes, this occupation is on the list of occupations eligible for Skilled Worker visa sponsorship, meeting salary and English requirements to apply.
+
+**Q: What key skills are needed to become a logistics director?**
+A: Requires strong leadership, supply chain management knowledge, data analysis skills, and familiarity with transport regulations and green logistics practices.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Directors in logistics, warehousing and transport的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Director in logistics, warehousing and transport?**
-答：Entry-level: £35,000-£50,000; Mid-level: £50,000-£80,000; Senior: up to £130,000+.
-
-**问：Can this occupation apply for a Skilled Worker visa?**
-答：Yes, it is on the eligible occupations list for Skilled Worker visa, subject to salary and English requirements.
-
-**问：What key skills are needed to become a logistics director?**
-答：Strong leadership, supply chain management knowledge, data analysis, familiarity with transport regulations and green logistics practices.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Non-Medical Psychotherapist（Non-Medical Psychotherapist）职业分析 · DE
+# Non-Medical Psychotherapist — career analysis · Germany
 
-**职业代码：8163 – Non-Medical Psychotherapist。**
+**Occupation code: 8163 (KldB)**
 
-Non-medical psychotherapists provide psychological therapy without a medical degree. They typically hold a degree in psychology or pedagogy and complete postgraduate training in psychotherapy. In Germany, this profession is regulated by the Psychotherapists Act and requires state licensure.
+Non-medical psychotherapists provide psychotherapy services but do not have a medical background. They typically hold a degree in psychology or education and complete additional psychotherapy training. In Germany, this profession is regulated by the Psychotherapists Act and requires state licensure.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（心理学或教育学） | 3-4年 | —（公立大学免学费，仅收注册费，私立大学学费较高） |
-| 心理治疗培训（硕士后） | 3-5年 | $20,000~$60,000（培训费用根据机构不同差异大，部分可兼职） |
+| Bachelor's degree (psychology or education) | 3-4 years | $0~$30,000 (Public universities charge no tuition, only registration fees; private universities have higher tuition) |
+| Postgraduate Psychotherapy Training | 3-5 years | $20,000~$60,000 (Training costs vary greatly by institution; some can be done part-time) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学或教育学硕士 | 大学 | 必备 | 通常要求硕士学历，研究方向为临床心理学或相关领域 |
-| 心理治疗师执业许可（Approbation） | 联邦州卫生局 | 必备 | 完成培训并通过国家考试后获得，是独立执业的必要条件 |
-| 资质认证（Anerkennung） | 州主管部门 | 可选 | 外国学历需认证，包括学历评估和额外培训要求 |
+| Master's in Psychology or Education | University | Required | A master's degree is typically required, with research focus in clinical psychology or related fields |
+| Psychotherapist license (Approbation) | State Health Office | Required | Obtained upon completion of training and passing national exam, is a prerequisite for independent practice. |
+| Qualification recognition (Anerkennung) | State regulatory authority | Optional | Foreign qualifications need recognition, including credential assessment and additional training requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 25,000。德国对心理治疗服务的需求持续增长，特别是在新冠疫情后心理健康问题增多。由于人口老龄化和生活压力增加，预计未来十年该职业需求强劲，但进入门槛高，受国家配额限制。
+**Job demand: very high (★★★★½).** National workforce approx. 25,000. Demand for psychotherapy services in Germany continues to grow, especially increased mental health issues after the COVID-19 pandemic. Due to aging population and rising life pressures, demand for this occupation is expected to be strong over the next decade, but entry barriers are high and subject to national quotas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 受雇于诊所或医院，税前年薪 |
-| 中级（3-7年） | $45,000~$60,000 | 经验增加，部分可独立接诊 |
-| 高级（7年以上） | $60,000~$85,000 | 独立执业或担任领导职位，收入较高 |
+| Median salary | $62,268 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Employed in clinics or hospitals, pre-tax annual salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | With experience, some can see patients independently |
+| Senior (7+ years) | $60,000~$85,000 | Independent practice or leadership positions, with higher income |
+| average salary | $63,888 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径通常从完成学位和培训后获得从业资格开始。可独立开设诊所或受雇于医院、康复中心。经验丰富后可转向督导、教学或研究，或开设自己的诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly improve the work efficiency of psychotherapists, but is strictly constrained by legal and ethical boundaries; core diagnostic and therapeutic responsibilities cannot be replaced, resulting in mixed overall impact.
+
+Career paths typically begin with obtaining qualifications after completing a degree and training. You can independently run a clinic or work in a hospital or rehabilitation center. With experience, you can move into supervision, teaching, or research, or open your own clinic.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate preliminary psychological assessment reports
+- Screening and triage of patients with mild symptoms.
+- Record and manage therapy session notes
+- Provides standardized cognitive behavioral therapy practice modules.
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient language patterns to assist diagnosis
+- Enhance treatment experience through virtual reality exposure therapy
+- Monitor patient emotional changes in real-time and prompt intervention timing
+- Personalize treatment plans based on data feedback
+- Automate paperwork to free up more treatment time
+
+**Human moat:**
+
+- Establish therapeutic alliance and trust relationship
+- Managing complex trauma and crisis intervention
+- Take legal responsibility and ethical decision-making
+- Interpreting non-verbal cues and responding with empathy
+- Formulating treatment plans in ambiguous situations
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools
+- Data privacy and AI ethics standards
+- Ability to use remote therapy platforms
+- Digital implementation of cognitive behavioral therapy.
+- Cross-cultural psychological counseling skills
+- Fundamentals of clinical research data analysis
+
+**Key growth areas:**
 
 - Mental Health Awareness
 - Aging Population
@@ -64,70 +99,69 @@ Non-medical psychotherapists provide psychological therapy without a medical deg
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且薪资达门槛的非欧盟公民，需雇主担保，心理治疗师通常符合 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有资质认证的专业人才，需雇主offer |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许求职和资质认证准备 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许6个月停留寻找工作，需证明经济能力 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU citizens with high education and meeting salary threshold, requires employer sponsorship; psychotherapists usually qualify. |
+| Subclass Skilled Worker (Skilled Worker Visa) | For qualified professionals, requires employer offer |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, allowing for job seeking and qualification assessment preparation. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay to look for work, requiring proof of financial means. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-Medical Psychotherapist？**
-- 对人类心理和行为有强烈兴趣的人
-- 具有同理心和良好沟通能力的人
-- 愿意投入长时间学习和培训的人
-
-**谁不适合学Non-Medical Psychotherapist？**
-- 追求快速高薪的人
-- 对情绪压力敏感且无法有效自我调节的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in human psychology and behavior
+- People with empathy and good communication skills
+- People willing to invest significant time in learning and training
+
+**Who is not suited**
+- People pursuing fast and high income
+- People sensitive to emotional stress and unable to self-regulate effectively
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of non-medical psychotherapists?**
+A: Entry-level employed salary is approximately EUR 35,000-45,000 per year, senior or self-employed can reach EUR 60,000-85,000. Income varies by employment type (employed/self-employed) and client volume.
+
+**Q: How to become a psychotherapist in Germany with a foreign degree?**
+A: Requires qualification recognition (Anerkennung), including credential assessment, language exam (German C1), and possible adaptation training. The process is complex, typically takes 1-2 years, and is subject to state quotas.
+
+**Q: What are the career prospects for this occupation?**
+A: With rising mental health awareness, demand continues to grow. Career paths include supervisor, trainer, researcher, or private practice. Digital therapy (e.g., online counseling) offers new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Non-Medical Psychotherapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for non-medical psychotherapists?**
-答：Entry-level employed therapists earn around €35,000-45,000 per year, while experienced or self-employed therapists can earn €60,000-85,000. Income varies by employment type and client volume.
-
-**问：How can foreign qualifications lead to becoming a psychotherapist in Germany?**
-答：You need to undergo recognition (Anerkennung), including credential assessment, German language test (C1), and possibly compensatory training. The process is complex, takes 1-2 years, and is subject to state quotas.
-
-**问：What are the career prospects?**
-答：Growing demand due to mental health awareness. Opportunities include supervision, training, research, or private practice. Digital therapy offers new avenues.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

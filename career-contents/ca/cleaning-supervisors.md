@@ -1,58 +1,90 @@
-# Cleaning supervisors（Cleaning supervisors）职业分析 · 加拿大
+# Cleaning supervisors — career analysis · Canada
 
-**职业代码：62024 – Cleaning supervisors。**
+**Occupation code: 62024 (NOC)**
 
-Cleaning supervisors oversee and coordinate cleaning staff, ensuring cleanliness standards and efficiency. They manage schedules, inventory, and budgets, and train new employees.
+A cleaning supervisor oversees and coordinates the cleaning team, ensuring cleaning standards and efficiency, managing schedules, inventory, and budgets, and training new staff.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无固定期限 | —（通常要求高中毕业） |
-| 职业培训证书 | 6个月 | $1,000~$5,000（清洁管理或监督类课程） |
+| High school diploma | No fixed term | $0~$0 (Usually requires high school graduation) |
+| Vocational training certificate | 6 months. | $1,000~$5,000 (Cleaning management or supervision courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 清洁行业认证 | ISSA（国际清洁卫生协会） | 可选 | 如CIMS认证，非强制但有助于职业发展 |
-| 省级工作场所安全证书 | 省级职业健康与安全机构 | 必备 | 如WHMIS，通常为雇主要求 |
+| Provincial workplace safety certificate | provincial occupational health and safety agency | Required | e.g., WHMIS, typically required by employer |
+| Cleaning Industry Certification | ISSA (International Sanitary Supply Association) | Optional | Such as CIMS certification, not mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 62,000。加拿大清洁服务需求稳定，随着商业和住宅建筑增加，清洁主管的就业机会增长。预计未来几年该职业需求保持中等水平，但岗位竞争适中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 62,000. Demand for cleaning services in Canada is stable, with employment opportunities for cleaning supervisors growing as commercial and residential buildings increase. Over the next few years, demand for this occupation is expected to remain moderate, with moderate competition for positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 小型清洁公司或初级主管 |
-| 中级（3-7年） | $40,000~$52,000 | 中型公司或商业建筑 |
-| 高级（7年以上） | $52,000~$65,000 | 大型设施或区域经理 |
+| Median salary | $52,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$40,000 | Small cleaning company or junior supervisor |
+| Mid-level (3–7 years) | $40,000~$52,000 | Medium-sized companies or commercial buildings |
+| Senior (7+ years) | $52,000~$65,000 | Large Facility or Regional Manager |
+| average salary | $56,160 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级清洁工可晋升为组长，再晋升为清洁主管。经验丰富的主管可进入物业管理或设施管理领域，或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on cleaning supervisors is mixed: routine scheduling and reporting can be automated, but on-site supervision, quality control, and personnel management still rely on human judgment. Jobs will not disappear but skill requirements will increase.
+
+Junior cleaners can advance to team leader, then cleaning supervisor. Experienced supervisors can move into property or facility management, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Using AI to optimise cleaning schedules and route planning
+- Automated generation of cleaning quality reports and inventory lists
+- Monitoring cleaning equipment status via IoT sensors
+- Automated processing of attendance and performance data summarization
+
+**Where AI augments the role:**
+
+- Using AI to analyze cleaning data to optimize resource allocation
+- Using augmented reality (AR) to remotely train new employees
+- Reduce equipment failure through AI predictive maintenance
+- Use digital dashboards to monitor team performance in real time
+
+**Human moat:**
+
+- Handling customer complaints and on-site emergencies
+- Assess cleaning quality and make subjective judgments
+- Leading teams and motivating employees
+- Adapting to non-standardized cleaning scenarios (e.g., special stains)
+
+**Skills to build:**
+
+- Cleaning management software and data analysis tools (e.g., Tableau)
+- IoT device operation and basic maintenance
+- Team management and remote supervision skills
+- Basic programming (Python) to customize automation processes
+- Sustainable cleaning practices and chemical knowledge.
+
+**Key growth areas:**
 
 - Commercial Cleaning
 - Property Management
@@ -61,65 +93,64 @@ Cleaning supervisors oversee and coordinate cleaning staff, ensuring cleanliness
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 适合有相关管理经验和较高语言成绩的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 部分省提名项目对清洁主管开放，尤其是餐饮或家政服务类 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA招聘外国工人，但通常要求证明劳动力短缺 |
+| Subclass Express Entry (Federal Skilled Worker) | Suitable for applicants with relevant management experience and high language scores |
+| Subclass PNP (Provincial Nominee Program) | Some provincial nominee programs are open to cleaning supervisors, especially in food service or housekeeping sectors |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to hire foreign workers, but usually need to prove a labour shortage. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cleaning supervisors？**
-- 有责任心、注重细节，能有效管理团队的人
-- 具备良好沟通和解决问题能力的人
-- 对清洁行业有热情并愿意从事基层管理的人
-
-**谁不适合学Cleaning supervisors？**
-- 不喜欢体力劳动或频繁走动的人
-- 期望高薪或快速晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Responsible, detail-oriented, able to effectively manage a team
+- People with good communication and problem-solving skills
+- People who are passionate about the cleaning industry and willing to work in grassroots management
+
+**Who is not suited**
+- People who dislike physical labor or frequent walking
+- People expecting high salary or fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: Is the salary for a Cleaning Supervisor high?**
+A: Not very high, average annual salary is about 40,000-50,000 Canadian dollars, but senior managers or regional managers can reach over 65,000 Canadian dollars, with room for growth after gaining experience.
+
+**Q: Is it easy for cleaning supervisors to immigrate to Canada?**
+A: Medium difficulty. Can apply via Express Entry or Provincial Nominee Programs, but must meet education, language, and work experience requirements, and the role is not typically considered a priority occupation with limited LMIA support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 易（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Cleaning supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary for cleaning supervisors high?**
-答：Not very high; average annual salary is around CAD 40,000-50,000, but senior supervisors or area managers can earn over CAD 65,000 with experience.
-
-**问：Is it easy for cleaning supervisors to immigrate to Canada?**
-答：Moderate difficulty. They can apply via Express Entry or PNP, but must meet education, language, and experience requirements. The role is not typically considered a high-demand occupation, and LMIA support is limited.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

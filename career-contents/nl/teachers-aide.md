@@ -1,61 +1,97 @@
-# Teachers' Aide（Teachers' Aide）职业分析 · NL
+# Teachers' Aide — career analysis · Netherlands
 
-**职业代码：5312 – Teachers' Aide。**
+**Occupation code: 5312 (ISCO08)**
 
-Teachers' aides assist teachers in classroom instruction, support student learning and behavior management, commonly found in primary, secondary, and special education schools. No teaching qualification required, but patience and communication skills are essential.
+Teacher assistants help teachers complete teaching tasks in the classroom, supporting student learning and behavior management; commonly found in primary, secondary, and special education schools. No teaching qualification required, but patience and communication skills are needed.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年（MBO level 3/4） | —（荷兰居民每年学费约0-2000欧元，国际学生可能更高） |
-| 在职培训 | 6个月至1年 | $500~$1,500（部分学校提供内部培训，费用较低） |
+| Intermediate Vocational Education (MBO) | 2-3 years (MBO level 3/4) | $0~$2,000 (Annual tuition for Dutch residents is about 0–2000 euros, higher for international students) |
+| On-the-job training | 6 months to 1 year | $500~$1,500 (Some schools offer in-house training at lower costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师助理文凭（MBO） | ROC（区域教育中心） | 必备 | 常见要求，课程涵盖教育学和心理学基础 |
-| 急救证书 | 荷兰红十字会 | 可选 | 部分学校要求 |
-| VOG（无犯罪记录证明） | 荷兰司法部 | 必备 | 所有教育岗位必须 |
+| Teacher Assistant Diploma (MBO) | ROC (Regional Education Centre) | Required | Common requirements; courses cover basics of education and psychology |
+| VOG (Certificate of Good Conduct) | Ministry of Justice of the Netherlands | Required | All teaching positions must |
+| First aid certificate | Netherlands Red Cross | Optional | Required by some schools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。荷兰教育系统持续扩招，特殊教育需求增加，教师助理岗位稳步增长。预计2023-2028年就业增长约5%，尤其在特殊教育领域需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The Dutch education system continues to expand, with increasing demand for special education, leading to steady growth for teacher assistant positions. Employment is expected to grow by about 5% between 2023-2028, particularly in special education.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，通常按CAO PO（小学教育集体劳动协议）支付 |
-| 中级（3-7年） | $30,000~$35,000 | 税前年薪，根据经验和学校类型 |
-| 高级（7年以上） | $35,000~$40,000 | 税前年薪，特殊教育岗位可能更高 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, typically paid under the CAO PO (Collective Agreement for Primary Education) |
+| Mid-level (3–7 years) | $30,000~$35,000 | Annual salary before tax, depending on experience and school type |
+| Senior (7+ years) | $35,000~$40,000 | Pre-tax annual salary, may be higher for special education roles |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 晋升路径有限，通常保持同一岗位；可向特殊教育助理、课后托管主管或教育协调员发展；部分人通过进修成为正式教师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The outlook for teacher assistant roles is mixed: AI can take over administrative, record-keeping tasks, lowering entry barriers; but core duties like in-person childcare and emotional support are hard to automate, and demand may increase due to efficiency gains.
+
+Limited promotion paths, usually stay in the same role; can progress to special education assistant, after-school care supervisor, or education coordinator; some become full-time teachers through further study.
+
+**Tasks most exposed to AI:**
+
+- Classroom attendance and grade entry.
+- Copying and organizing teaching materials
+- Basic student behavior data recording
+- Standardized grading of assignments (e.g., multiple-choice questions).
+- Parent notification email generation and sending
+
+**Where AI augments the role:**
+
+- Use AI Learning Analysis Tools to Identify Student Weaknesses and Provide Targeted Tutoring
+- Generates personalized practice materials via smart assistant
+- Early intervention for student issues using behavioral prediction models
+- Use speech-to-text tools to assist students with special needs
+- Use virtual reality to simulate classroom scenarios for training
+
+**Human moat:**
+
+- Unstructured social interactions (soothing emotions, mediating conflicts)
+- Intuitive judgment and on-the-spot support for students with special needs
+- Building trust and emotional bonds between teachers and students
+- Handle unpredictable classroom emergencies.
+- Flexible Multitasking and Creative Teaching Assistance
+
+**Skills to build:**
+
+- Basic data analysis and educational software operation
+- Use of AI education tools (e.g., adaptive learning platforms)
+- Basic programming logic (e.g., Python script automation)
+- Digital literacy and information filtering skills
+- Cross-cultural communication and empathy training.
+- Classroom crisis intervention and behavior management techniques.
+
+**Key growth areas:**
 
 - Increasing special education needs
 - School enrollment growth
@@ -64,66 +100,68 @@ Teachers' aides assist teachers in classroom instruction, support student learni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，教师助理通常不符合薪资门槛，但特殊教育领域可能例外 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等专业人才，教师助理职业通常不符合要求 |
-| Subclass Orientation Year（Orientation Year (zoekjaar)） | 荷兰毕业生或全球前200高校毕业生可申请，寻找工作期间合法居留 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled migration, teacher assistants usually do not meet the salary threshold, but special education may be an exception |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled professionals; teacher assistant occupations typically do not meet requirements |
+| Subclass Orientation Year (Orientation Year (zoekjaar)) | Dutch graduates or those from the world's top 200 universities can apply, with legal residence permitted while seeking employment |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Teachers' Aide？**
-- 喜欢与儿童工作、有耐心和同理心的人
-- 寻求稳定、低压力工作环境的人
-- 希望进入教育领域但尚未取得教师资格的人
+**Who is suited**
+- People who enjoy working with children, are patient and empathetic
+- Individuals seeking a stable, low-stress work environment
+- People who want to enter the education field but do not yet have a teaching qualification
 
-**谁不适合学Teachers' Aide？**
-- 追求高薪和快速晋升的人
-- 不擅长管理行为和应对困难学生的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who are not good at managing behavior and dealing with difficult students
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a teacher assistant in the Netherlands?**
+A: Pre-tax annual salary approximately €25,000-40,000, varies by experience and school type. Salary paid according to collective agreement (CAO), typically including 8% holiday allowance.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through a teacher assistant position?**
+A: Difficult, teaching assistants generally do not meet the salary threshold for high-skilled migration (€5,008/month in 2024). Exemptions may apply in special education or via EU Blue Card, but chances are low.
+
+**Q: What educational background is needed to become a teacher assistant?**
+A: Typically requires an MBO (secondary vocational education) level 3 or 4 teaching assistant diploma, or related educational background. Some schools accept on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Teachers' Aide属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a teachers' aide in the Netherlands?**
-答：Gross annual salary ranges from €25,000 to €40,000, depending on experience and school type. Salaries are regulated by collective labor agreements (CAO), typically including 8% holiday allowance.
-
-**问：Can non-EU citizens immigrate to the Netherlands as a teachers' aide?**
-答：It is difficult, as teachers' aides generally do not meet the salary threshold for highly skilled migrants (€5,008/month in 2024). Exceptions may exist in special education, but EU Blue Card eligibility is also low.
-
-**问：What educational background is needed to become a teachers' aide?**
-答：Typically requires an MBO (secondary vocational education) level 3 or 4 diploma in educational assistance, or related education. Some schools accept on-the-job training.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,69 +1,99 @@
-# 急救人员/急诊医务辅助（Ambulance Officer and Paramedic）职业分析 · 澳大利亚
+# Paramedic — career analysis · Australia
 
-**职业代码：411711 – Ambulance Officer and Paramedic。**
+**Occupation code: 411711 (ANZSCO)**
 
-急救人员（Paramedic）在紧急医疗现场提供高级生命支持、药物给予和患者转运服务，服务于澳洲国家救护车系统、矿业工业现场急救和社区急救服务。MLTSSL在列，是紧缺医疗辅助职业。
+Paramedics provide advanced life support, medication administration and patient transport at emergency medical scenes, serving within Australia's national ambulance system, mining and industrial site first response, and community emergency services. Listed on the MLTSSL, this is a high-demand allied health occupation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Paramedicine（3年） | 3年（全日制） | $22,000~$120,000（澳洲国际生约 $35,000~$40,000/年；政府补贴名额约 $6,000~$8,000/年） |
-| 海外资历评估（PA + AHPRA注册） | 6~18个月 | $1,500~$5,000（含 Paramedicine Board of Australia 评估和AHPRA注册费） |
-| 州/领地救护车服务培训（Graduate Paramedic） | 1~2年（有薪） | —（通过AHPRA注册后，各州救护车服务提供带薪临床培训期） |
+| Bachelor of Paramedicine (3 years) | 3 years (full-time) | $22,000~$120,000 (International students in Australia approximately $35,000–$40,000/year; government-subsidised places approximately $6,000–$8,000/year) |
+| Overseas qualification assessment (PA + AHPRA registration) | 6–18 months | $1,500~$5,000 (Includes Paramedicine Board of Australia assessment and AHPRA registration fees) |
+| State/Territory ambulance service training (Graduate Paramedic) | 1–2 years (paid) | $0~$0 (After registration with AHPRA, ambulance services in each state provide a paid clinical training period) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Paramedicine | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Paramedic Registration | AHPRA / Paramedicine Board of Australia | 必备 | 2018年起全国统一注册，强制要求 |
-| Advanced Care Paramedic (ACP) 资质 | 各州救护车服务 | 可选 | 晋升高级急救的进阶资质，薪资显著提升 |
-| Industrial/Mining Paramedic 资质 | ITLS / AHA / 各认可机构 | 可选 | 进入矿业FIFO急救领域的专科资质 |
+| Bachelor of Paramedicine | Recognised university | Required | Baseline qualification for AHPRA registration |
+| AHPRA Paramedic Registration | AHPRA / Paramedicine Board of Australia | Required | National unified registration mandatory since 2018 |
+| Advanced Care Paramedic (ACP) qualification | State ambulance services | Optional | An advanced qualification for progression to senior first aid roles, with a significant salary increase |
+| Industrial/Mining Paramedic qualification | ITLS / AHA / recognised institutions | Optional | Specialist qualification for entering the mining FIFO first aid sector |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 18,000。JSA 预测急救人员至2035年就业增长约15%。人口老龄化（急救呼叫量增加）、偏远和矿业工业急救扩张是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. JSA projects approximately 15% employment growth for paramedics by 2035. An ageing population (increased emergency call volume) and the expansion of remote and mining industry first-aid services are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~900 个 | 全国，含州救护车服务、矿业FIFO急救和社区急救岗 |
-| Indeed | 250~600 个 | 含兼职和合同工 |
-| LinkedIn | 100~300 个 | 偏高级急救和工业急救岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：极高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册急救人员（Graduate Paramedic） | $65,000~$80,000 | 州救护车服务起薪，含轮班津贴 |
-| 中级急救人员（2~8年） | $80,000~$110,000 | SEEK 区间 $105k~$125k（含津贴）；基本薪约 $80k~$100k |
-| 高级急救人员（ACP/MICA，8年+） | $110,000~$140,000 | 高级急救资质后薪资显著提升 |
-| 矿业/工业FIFO急救员 | $120,000~$200,000 | 矿业FIFO急救是急救类薪资最高方向，含夜班和远程津贴 |
-| 农村/偏远地区急救人员 | $88,000~$125,000 | 偏远地区津贴和住房补贴，实际待遇好于城市 |
+| Median salary | $95,888 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered Graduate Paramedic | $65,000~$80,000 | Ambulance service base salary including shift allowances |
+| Intermediate paramedic (2–8 years) | $80,000~$110,000 | SEEK range $105k–$125k (including allowances); base salary approximately $80k–$100k |
+| Senior paramedic (ACP/MICA, 8+ years) | $110,000~$140,000 | Salary increases significantly after obtaining advanced first aid qualifications |
+| Mining/Industrial FIFO First Aider | $120,000~$200,000 | Mining FIFO first aid roles offer the highest pay in the first aid sector, including shift and remote location allowances |
+| Rural/Remote Area Emergency Responder | $88,000~$125,000 | Remote area allowances and housing subsidies; actual conditions are often better than in cities |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★☆）。** 社区急救医疗（Community Paramedicine）是最新成长方向，减少急诊室压力。矿业FIFO急救（工业急救员）是薪资最高的方向。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Community Paramedicine is the latest growth area, reducing pressure on emergency departments. Mining FIFO paramedic work (industrial paramedic) offers the highest salary levels.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - Advanced Care Paramedic (ACP)
 - Community Paramedicine
@@ -73,91 +103,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，急救人员为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，农村急救服务优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区急救，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; paramedics are a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; rural emergency services applicants given priority |
+| Subclass 491 (Skilled Work Regional) | Remote area emergency services, nomination adds 15 points. |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学急救人员/急诊医务辅助？**
-- 已持有国内急救/急诊医疗技术学位（3年制以上）
-- 英语能力达到 OET B / IELTS 7.0
-- 体力好、心理承受能力强，适应高压紧急环境
-- 接受轮班和农村/矿业FIFO就业
-- 目标是矿业工业急救（$120k~$200k高薪路径）
-
-**谁不适合学急救人员/急诊医务辅助？**
-- 心理承受能力弱，无法应对高压紧急场景和死亡事件
-- 英语能力较弱，AHPRA注册困难
-- 体力条件不达标（急救现场需要体力搬运患者）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already hold a domestic degree in emergency medical technology (3+ years).
+- English proficiency at OET B / IELTS 7.0
+- Physically fit with strong mental resilience, able to work in high-pressure emergency environments
+- Willing to work shift work and rural/mining FIFO roles
+- Targeting mining industry emergency services ($120k~$200k high salary track)
+
+**Who is not suited**
+- Unable to cope psychologically with high-pressure emergency situations and exposure to death
+- Weak English skills make AHPRA registration difficult
+- Insufficient physical fitness (emergency scenes require physically lifting and moving patients)
+
+---
+
+## 8. FAQ
+
+**Q: How much do paramedics earn in Australia?**
+A: Intermediate paramedic (including shift allowances) approximately $80,000–$110,000; Advanced paramedic $110k–$140k; Mining FIFO industrial paramedic approximately $120,000–$200,000 (the highest-paid direction in paramedicine).
+
+**Q: Is it easy to find work as an emergency services officer in Australia?**
+A: Straightforward. After AHPRA registration, ambulance services and mining companies across all states actively recruit, with particularly strong demand in rural and mining regions. Mining FIFO paramedics can typically start immediately.
+
+**Q: Are Chinese first aid qualifications recognised in Australia?**
+A: Not directly recognised. You must apply for assessment through the AHPRA Paramedicine Board. Australia established a national unified registration system after 2018. The process for recognising overseas paramedic qualifications is complex — contact the assessment body well in advance.
+
+**Q: Will paramedics be replaced by AI?**
+A: Replacement risk is very low. Instant judgement at emergency scenes, physical first aid procedures (CPR/intubation) and patient reassurance are core functions that AI cannot replace. AI is primarily used for dispatch optimisation and data recording.
+
+**Q: Is there an age limit for paramedics in Australia?**
+A: There is no legal upper age limit, but the role has high physical demands and some employers require regular fitness testing. Mining FIFO roles generally prefer candidates under 40; state ambulance services have no notable age restrictions.
+
+**Q: What level of education does a paramedic need in Australia?**
+A: Requires a Bachelor of Paramedicine degree (3-year programme). Since 2018, AHPRA has mandated national unified registration, making the bachelor's degree a compulsory requirement. Overseas paramedic bachelor's degrees (3-year programmes) may be submitted for assessment.
+
+**Q: Is it difficult to obtain emergency services certification in Australia?**
+A: Medium-high difficulty. AHPRA registration + state ambulance service training period approximately 1–3 years. Key challenges include adapting to high-pressure clinical environments, English proficiency (OET B), and physical fitness tests.
+
+**Q: Which is more suitable for skilled migration to Australia — paramedic or registered nurse?**
+A: Nursing has far greater job volume (Seek ~10,000+ vs paramedic ~700) with similar pay. Paramedic mining FIFO roles can reach $200k at the top end, but the work pressure and emotional demands are far greater than nursing. Those with good physical fitness who can handle high-pressure environments should choose paramedicine; otherwise, nursing is the better option.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA / Paramedicine Board | 急救人员注册要求（2018年起全国统一） |
-| Paramedics Australasia | 急救行业协会和职业信息 |
-| SEEK AU | 急救人员薪资区间 $105k~$125k（2026，含津贴） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 极佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中高（★★★★☆） |
-
-急救人员/急诊医务辅助的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲急救人员工资多少？**
-答：中级急救人员（含轮班津贴）约 $80,000~$110,000；高级急救 $110k~$140k；矿业FIFO工业急救员约 $120,000~$200,000（是急救类薪资最高方向）。
-
-**问：澳洲急救人员容易找工作吗？**
-答：容易。AHPRA注册后各州救护车服务和矿业公司主动招募，农村和矿业地区尤为短缺。矿业FIFO急救员通常可立即入职。
-
-**问：中国急救资质澳洲认可吗？**
-答：不直接认可。需申请AHPRA Paramedicine Board评估，2018年后澳洲建立全国统一注册制度。海外急救资质互认流程较复杂，建议提前联系评估机构。
-
-**问：急救人员会被AI替代吗？**
-答：替代风险极低。紧急现场的即时判断、体力急救操作（CPR/气管插管）和患者心理安抚是AI无法替代的核心职能。AI主要用于调度优化和数据记录。
-
-**问：澳洲急救人员有年龄限制吗？**
-答：无法律上限，但体力要求较高，定期体能测试是部分雇主要求。矿业FIFO通常偏好40岁以下，州救护车服务对年龄无明显限制。
-
-**问：澳洲急救人员需要什么学历？**
-答：需要急救医学学位（Bachelor of Paramedicine，3年制）。2018年后AHPRA全国统一注册，本科学位是强制要求。国内急救医疗技术本科（3年制）可申请评估。
-
-**问：澳洲急救人员认证难吗？**
-答：难度中高。AHPRA注册+州救护车服务培训期约1~3年。主要难点是高压临床环境适应、英语能力（OET B）和体能测试。
-
-**问：急救人员和注册护士哪个更适合技术移民澳洲？**
-答：护士就业量更大（Seek ~10,000+ vs 急救 ~700），薪资相近。急救人员矿业FIFO路径薪资最高可达 $200k，但工作压力和情绪劳动远高于护士。体力好且不怕高压环境者选急救，否则选护士。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Survey interviewers and statistical clerks（Survey interviewers and statistical clerks）职业分析 · 加拿大
+# Survey interviewers and statistical clerks — career analysis · Canada
 
-**职业代码：14110 – Survey interviewers and statistical clerks。**
+**Occupation code: 14110 (NOC)**
 
-Collect survey data via telephone or in-person interviews, and perform statistical recording and data processing tasks.
+Collect survey data via telephone or face-to-face, and perform statistical recording and data processing tasks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（部分雇主接受高中文凭） |
-| 大学文凭或副学士学位 | 2年 | $15,000~$30,000（社会科学或统计学相关专业） |
+| High school diploma | 0 years | $0~$0 (Some employers accept a high school diploma) |
+| University diploma or associate degree | 2 years | $15,000~$30,000 (Social science or statistics related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 多数省份无特定执照要求 |
-| 数据处理技能培训 | 雇主或职业学院 | 可选 | Excel、SPSS或调查软件培训可提升竞争力 |
+| No mandatory certification | None | Optional | No specific license required in most provinces |
+| Data processing skills training. | Employer or vocational college | Optional | Training in Excel, SPSS, or survey software can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。加拿大统计局预测该职业需求稳定，但自动化和在线调查的普及可能导致就业增长缓慢。预计2024-2031年岗位数量基本持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Statistics Canada predicts stable demand for this occupation, but the prevalence of automation and online surveys may lead to slow employment growth. The number of positions is expected to remain roughly flat from 2024-2031.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 时薪约16-20加元 |
-| 中级（3-6年） | $40,000~$50,000 | 时薪约20-25加元 |
-| 高级（6年以上） | $50,000~$60,000 | 时薪约25-30加元 |
+| Median salary | $45,760 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$40,000 | Hourly wage approximately 16-20 Canadian dollars |
+| Mid-level (3–6 years) | $40,000~$50,000 | Hourly rate approx. CAD 20-25 |
+| Senior (6+ years) | $50,000~$60,000 | Hourly wage approximately 25-30 Canadian dollars |
+| average salary | $54,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为高级调查员、数据分析师或统计主管。积累经验后可转向市场研究或政府统计部门。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core data collection, sorting, and entry tasks for survey interviewers and statistical clerks will be significantly reduced by AI automation, with a sharp decline in positions. However, complex analysis and ethical decision-making still require humans, posing major transformation pressure.
+
+Can progress to senior investigator, data analyst, or statistical manager. With experience, can move into market research or government statistics departments.
+
+**Tasks most exposed to AI:**
+
+- Conduct standardized questionnaire surveys by phone or face-to-face; AI voice bots and online surveys can be automated.
+- Data entry and cleaning; AI automatically identifies and organizes structured data.
+- Statistical records and basic report generation, AI automatically calculates and generates charts
+- Screen and verify respondents; AI automatically selects samples through big data analysis
+- Track survey progress and quota management, AI real-time monitoring and dynamic adjustment
+
+**Where AI augments the role:**
+
+- Design survey plans and questionnaires, with AI assisting in optimizing question logic and sample allocation
+- Deep interview and open-ended question analysis, with AI providing semantic summaries and sentiment analysis
+- Writing investigation reports and insight summaries, with AI providing data visualization drafts
+- Identify data anomalies and outliers, AI flags and prompts manual review.
+- Predict survey trends and outcomes, AI builds models to aid decision-making
+
+**Human moat:**
+
+- Interpersonal communication and trust-building in complex situations, such as sensitive topic interviews
+- Ethical Judgment and Bias Control in Research Design
+- Cross-department coordination and overall project planning skills
+- Creative handling of unstructured, low-quality data
+- Critical review and interpretation of AI output
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python/R, Tableau, Pandas)
+- Qualitative research design and in-depth interview techniques
+- Knowledge of data ethics and privacy compliance (e.g., PIPEDA)
+- Ability to interpret and validate AI model results
+- Project management and communication coordination skills
+- Basic statistics and experimental design
+
+**Key growth areas:**
 
 - Data Collection
 - Survey Methodology
@@ -61,65 +97,64 @@ Collect survey data via telephone or in-person interviews, and perform statistic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 若满足综合排名系统分数，可通过FSW移民 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份对此职业有需求，可申请省提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，继而申请永久居留 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | If meeting Comprehensive Ranking System score, can immigrate via FSW. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have demand for this occupation, eligible for provincial nomination |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, and subsequently apply for permanent residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Survey interviewers and statistical clerks？**
-- 善于沟通、有耐心的人
-- 注重细节、喜欢结构化工作的人
-- 希望进入数据分析或统计领域起步的人
-
-**谁不适合学Survey interviewers and statistical clerks？**
-- 不喜欢重复性工作的人
-- 对电话沟通有抵触的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communication and patience
+- People who are detail-oriented and enjoy structured work
+- Those looking to start a career in data analysis or statistics.
+
+**Who is not suited**
+- People who dislike repetitive work
+- People who are averse to phone communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for survey interviewers?**
+A: Junior annual salary approximately CAD 32,000-40,000, senior up to CAD 50,000-60,000, but growth potential is limited.
+
+**Q: Is it easy to immigrate to Canada with this occupation?**
+A: Not a high-demand occupation, but eligible for Express Entry or Provincial Nominee Program immigration; requires high language scores and education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 很容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Survey interviewers and statistical clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for survey interviewers?**
-答：Entry-level annual salary is around CAD 32,000-40,000, and senior level may reach CAD 50,000-60,000, but growth is limited.
-
-**问：Is it easy to immigrate to Canada with this occupation?**
-答：Not a high-demand occupation, but possible via Express Entry or PNP, requiring good language scores and education.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

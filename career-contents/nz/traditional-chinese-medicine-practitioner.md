@@ -1,59 +1,95 @@
-# Traditional Chinese Medicine Practitioner（Traditional Chinese Medicine Practitioner）职业分析 · 新西兰
+# Traditional Chinese Medicine Practitioner — career analysis · New Zealand
 
-**职业代码：252214 – Traditional Chinese Medicine Practitioner。**
+**Occupation code: 252214 (ANZSCO)**
 
-Traditional Chinese Medicine Practitioners in New Zealand diagnose and treat illnesses using acupuncture, herbal medicine, and massage. Registration with the New Zealand Chinese Medicine Council is required, and the occupation is on the Green List Tier 2, allowing for a pathway to residence.
+New Zealand Chinese Medicine Practitioners use acupuncture, Chinese herbal medicine, and massage to treat diseases. They must be registered with the New Zealand Chinese Medicine Council. This occupation is on the Green List Tier 2 and is eligible for skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科阶段 | 4年 | $25,000~$40,000（每年学费，如新西兰中医学院） |
-| 硕士阶段 | 1-2年 | $30,000~$45,000（部分高级课程或转专业学生） |
+| Undergraduate level | 4 years | $25,000~$40,000 (Annual tuition fee, e.g., New Zealand College of Chinese Medicine) |
+| Master's level | 1-2 years | $30,000~$45,000 (Some advanced courses or students changing majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中医注册 | 新西兰中医委员会 (NZCMC) | 必备 | 强制注册，需完成认证课程并通过考试 |
-| 针灸文凭 | 新西兰中医学院或认可机构 | 可选 | 常用基础资格 |
-| 中药文凭 | 新西兰中医学院或认可机构 | 可选 | 增加执业范围 |
+| TCM Registration | New Zealand Chinese Medicine Council (NZCMC) | Required | Mandatory registration, requires completing accredited courses and passing exams |
+| Diploma of Acupuncture | New Zealand College of Chinese Medicine or recognized institution | Optional | Common basic qualifications |
+| Chinese medicine diploma | New Zealand College of Chinese Medicine or recognized institution | Optional | Expand scope of practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 400。新西兰中医师需求稳定增长，受益于补充医学的普及和亚裔人口增加。奥克兰等城市机会较多，注册要求规范，职业前景良好。
+**Job demand: medium (★★½☆☆).** National workforce approx. 400. Demand for TCM practitioners in New Zealand is steadily growing, driven by the popularity of complementary medicine and an increasing Asian population. There are more opportunities in cities like Auckland, registration requirements are standardized, and career prospects are good.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 受雇于诊所或医疗机构 |
-| 中级（3-8年） | $65,000~$85,000 | 有经验或专科认证 |
-| 高级（8年以上） | $85,000~$120,000 | 高级临床或自营诊所 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Employed by clinics or medical facilities |
+| Mid-level (3–8 years) | $65,000~$85,000 | Experienced or with specialised certification |
+| Senior (8+ years) | $85,000~$120,000 | Advanced clinical or self-owned clinic |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 中医师可从初级临床工作晋升为高级医师或诊所主管，也可开设私人诊所或在医疗机构担任顾问。持续学习和专业发展是晋升关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI primarily enhances rather than replaces traditional Chinese medicine practitioners, with diagnostic aids and knowledge management tools boosting efficiency, but core diagnosis and manual therapies are difficult to automate, offering positive career prospects.
+
+Traditional Chinese Medicine practitioners can advance from junior clinical work to senior physicians or clinic directors, or open private practices or serve as consultants in medical institutions. Continuous learning and professional development are key to promotion.
+
+**Tasks most exposed to AI:**
+
+- Standardized medical records and documentation
+- Checking incompatibilities in traditional Chinese medicine formulas and drug interaction alerts
+- Patient appointment scheduling, follow-up and health reminders
+- Basic symptom inquiry and triage
+- Acupuncture point location assistance
+
+**Where AI augments the role:**
+
+- Intelligent auxiliary analysis of tongue and pulse diagnosis
+- Rapid retrieval and matching of classic TCM literature and cases
+- Personalised treatment plan recommendations (based on big data)
+- Telehealth and health management
+- Drug dosage optimization and personalized dispensing
+
+**Human moat:**
+
+- Holistic thinking and clinical intuition in Traditional Chinese Medicine syndrome differentiation
+- Fine tactile sensation and manipulation in techniques such as acupuncture and tuina
+- Build trust and emotional resonance with patients
+- Personalized handling of complex and difficult cases
+- Ethical decision-making and medical responsibility
+
+**Skills to build:**
+
+- Clinical data analysis in Traditional Chinese Medicine
+- Use of AI-assisted diagnostic tools.
+- Operating telemedicine platforms
+- Health management APP application
+- Construction of Traditional Chinese Medicine knowledge graph
+- Interdisciplinary collaborative communication
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Traditional Chinese Medicine Practitioners in New Zealand diagnose and treat ill
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Tier 2 - Work to Residence） | 从事该职业满2年可申请居留，需雇主支持且满足薪资要求 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，需要注册和雇佣合同，根据学历和工作经验评分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主offer后可申请，最长3年，为申请居留铺垫 |
+| Subclass Green List T2 (Green List Tier 2 - Work to Residence) | After 2 years in the occupation, you can apply for residency with employer support and meeting salary requirements. |
+| Subclass SMC (Skilled Migrant Category) | For the 6-point skilled migration pathway, registration and employment contract are required; points are awarded based on qualifications and work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | Can apply after receiving certified employer offer; valid up to 3 years, laying groundwork for residency application. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Traditional Chinese Medicine Practitioner？**
-- 有中医学历背景，希望在新西兰从事专业诊疗工作的毕业生
-- 热爱传统医学，愿意学习英语并通过注册考试的中医师
-- 已有临床经验，计划通过绿色清单移民新西兰的从业者
-
-**谁不适合学Traditional Chinese Medicine Practitioner？**
-- 对英语要求高（需雅思7分或同等），不愿投入时间备考者
-- 不喜欢持续学习和应对监管认证流程的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with a background in Chinese medicine who wish to engage in professional clinical work in New Zealand.
+- Traditional Chinese medicine practitioners who love traditional medicine, are willing to learn English, and pass the registration exam
+- Practitioners with clinical experience planning to migrate to New Zealand via the Green List
+
+**Who is not suited**
+- Requires high English proficiency (IELTS 7 or equivalent); not suitable for those unwilling to invest time in preparation
+- People who dislike continuous learning and dealing with regulatory certification processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for Chinese medicine practitioners in New Zealand?**
+A: Junior TCM practitioner annual salary approximately NZD 50,000–65,000; mid-level NZD 65,000–85,000; self-employed clinic or senior positions can reach NZD 85,000–120,000+
+
+**Q: How can Chinese medicine practitioners immigrate to New Zealand via skilled migration?**
+A: Chinese medicine practitioner is a Green List Tier 2 occupation. Requires obtaining a job with an accredited employer, applying for residence after working for 2 years; or through SMC 6-point system, accumulating experience after registration.
+
+**Q: What registration requirements are needed to practice in New Zealand?**
+A: Must register with the New Zealand Chinese Medicine Council (NZCMC), complete an NZCMC-accredited bachelor's or master's program in Chinese medicine, and pass clinical and theoretical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Traditional Chinese Medicine Practitioner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for TCM practitioners in New Zealand?**
-答：Entry-level TCM practitioners earn approximately NZD 50,000 to 65,000 per year, mid-level NZD 65,000 to 85,000, and senior or self-employed practitioners can earn NZD 85,000 to 120,000 or more.
-
-**问：How can a TCM practitioner immigrate to New Zealand via skilled migration?**
-答：TCM practitioners are on the Green List Tier 2. They need a job with an accredited employer, work for 2 years, then apply for residence. Alternatively, they can use the SMC 6-point system with registration and experience.
-
-**问：What are the registration requirements to practice in New Zealand?**
-答：Registration with the New Zealand Chinese Medicine Council (NZCMC) is mandatory. You must complete an NZCMC-approved bachelor's or master's program and pass clinical and theory exams.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

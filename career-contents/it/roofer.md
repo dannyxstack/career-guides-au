@@ -1,61 +1,96 @@
-# Roofer（Roofer）职业分析 · IT
+# Roofer — career analysis · Italy
 
-**职业代码：7121 – Roofer。**
+**Occupation code: 7121 (ISCO08)**
 
-Roofers install, repair, and replace roofs on buildings using tiles, metal sheets, waterproof membranes, and other materials. In Italy, roofers have steady demand in building maintenance and renovation.
+Roofers install, repair, and replace building roofs, including tiles, metal sheets, waterproofing membranes, etc. In Italy, roofers have stable demand in the building maintenance and renovation market.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（Istituto Professionale） | 3年 | —（公立学校免费，仅教材费） |
-| 学徒制（Apprendistato） | 3-4年 | —（带薪培训，培训成本低） |
+| Intermediate vocational education (Istituto Professionale) | 3 years | $0~$1,000 (Public schools are free, only the textbook fee is required) |
+| Apprenticeship | 3-4 years | $0~$500 (Paid training, low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑施工安全认证 | 意大利劳动与社会政策部 | 必备 | 屋顶工必须持有安全证书（如Corso di Sicurezza） |
-| 专业屋顶工证书 | 地区职业培训中心 | 可选 | 非必需，但有助于就业 |
-| 高空作业许可证 | 意大利劳工局 | 必备 | 从事高空屋顶作业需此许可 |
+| Construction safety certification | Italian Ministry of Labor and Social Policies | Required | Roofers must hold a safety certificate (e.g., Corso di Sicurezza) |
+| Working at heights permit | Italian Labour Office | Required | This license is required for high-rise roofing work |
+| Professional roofing certificate | Regional vocational training center | Optional | Not required, but helpful for employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。意大利建筑行业逐步复苏，老旧建筑翻新和节能改造政策（如Superbonus 110%）推动屋顶工需求。但就业受季节性和经济周期影响。预计未来5年岗位小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Italian construction industry is gradually recovering, with policies for renovating old buildings and energy-efficient upgrades (such as Superbonus 110%) driving demand for roofers. However, employment is affected by seasonality and economic cycles. A slight increase in jobs is expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，南部偏低 |
-| 中级（4-7年） | $24,000~$32,000 | 税前年薪，含技能补贴 |
-| 高级（8年以上） | $32,000~$40,000 | 税前年薪，工头或自雇更高 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, lower in the south |
+| Mid-level (4-7 years) | $24,000~$32,000 | Annual salary before tax, including skills allowance |
+| Senior (8+ years) | $32,000~$40,000 | Pre-tax annual salary, foremen or self-employed pay even more |
+| average salary | $28,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级屋顶工可从学徒做起，积累经验后晋升为工头或专业防水/金属屋顶技师。部分可自雇创业，或转向建筑监理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some tasks of roofers (e.g., material estimation, safety checks) may be optimized by AI, but high-altitude work, complex waterproofing, and customized installations are hard to replace; overall risk is moderate.
+
+Junior roofers can start as apprentices, gain experience, and advance to foreman or specialist waterproofing/metal roofing technicians. Some may become self-employed contractors or shift to construction supervision roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation and estimation of roof area and material quantities.
+- Automated report generation for safety inspection records and compliance checks
+- Robot assistance for standard tile laying (e.g., drone pre-laying)
+- AI chatbot handling of customer inquiries and quotes
+
+**Where AI augments the role:**
+
+- AI image recognition detects roof damage and assists in diagnosing leak points.
+- Drones + AI for 3D roof scanning to generate precise construction drawings
+- AR glasses provide step-by-step construction guidance, improving installation efficiency for complex structures
+- Smart project management software optimizes material procurement and scheduling
+- AI weather prediction system assists in scheduling high-risk outdoor work time
+
+**Human moat:**
+
+- Custom handmade and on-site adjustments for complex waterproofing systems.
+- Experience in repairing old-style roofs and aesthetic judgment
+- Physical strength and risk management for working at heights
+- Interpersonal trust in communicating customized solutions with clients
+- Skilled mixed construction with multiple materials (tiles, metal, membrane)
+
+**Skills to build:**
+
+- Proficient in using drones and 3D scanners for roof surveying
+- Master basic BIM (Building Information Modeling) operations and reading
+- Learn operation and maintenance of AR-assisted construction equipment
+- Basic data analysis and smart device troubleshooting
+- Improve client communication and project management skills
+- Learn the construction techniques of new waterproof materials (e.g., PVC, TPO).
+
+**Key growth areas:**
 
 - Energy-efficient roofing
 - Green building
@@ -64,66 +99,68 @@ Roofers install, repair, and replace roofs on buildings using tiles, metal sheet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟技术工人，需雇主担保并通过年度配额申请。屋顶工属于建筑业类别。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求大学学历或5年经验，年薪门槛约3.3万欧元。屋顶工通常不满足学历要求。 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 适用于以自雇身份在意大利从事屋顶工作，需证明有足够资金和业务计划。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU skilled workers, requiring employer sponsorship and annual quota application. Roofers fall under the construction category. |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree or 5 years of experience, with an annual salary threshold of approx. €33,000. Roofers typically do not meet the education requirement. |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | Applicable to self-employment as a roofer in Italy, requiring proof of sufficient funds and a business plan. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Roofer？**
-- 身体健康，不恐高，适应户外高空作业
-- 动手能力强，注重细节和安全
-- 愿意从事季节性工作，接受临时项目
+**Who is suited**
+- Physically fit, no fear of heights, able to work outdoors at height
+- Strong hands-on ability, attention to detail and safety
+- Willing to engage in seasonal work and accept temporary projects
 
-**谁不适合学Roofer？**
-- 对高空恐惧或体力较弱者
-- 偏好稳定办公室工作环境者
+**Who is not suited**
+- For those with a fear of heights or limited physical strength
+- Those who prefer a stable office work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a roofer in Italy?**
+A: Junior roofers earn an annual salary of about €18,000-24,000, while senior roofers can reach €40,000. Salaries are affected by region, experience, and seasonality, with higher pay in the north.
+
+**Q: How can foreigners become roofers in Italy?**
+A: Non-EU citizens need to obtain a work visa through the Decreto Flussi quota or apply for a self-employment visa. Require employer sponsorship or proof of self-employment capability.
+
+**Q: What are the career prospects for roofers?**
+A: You can start as an apprentice and progress to foreman, specialist technician, or self-employed contractor. Green building and energy-saving renovations present new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Roofer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for roofers in Italy?**
-答：Entry-level roofers earn €18,000-€24,000 per year, while experienced roofers can earn up to €40,000. Salaries vary by region, experience, and seasonality, with higher pay in the north.
-
-**问：How can foreigners become roofers in Italy?**
-答：Non-EU citizens need a Decreto Flussi work visa with employer sponsorship or a self-employment visa. Proof of skills and Italian language ability may be required.
-
-**问：What are the career prospects for roofers?**
-答：Roofers can advance from apprentice to foreman, specialist, or self-employed contractor. Green building and energy-efficient renovations offer new opportunities.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

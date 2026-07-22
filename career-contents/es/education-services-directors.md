@@ -1,61 +1,97 @@
-# Education Services Directors（Education Services Directors）职业分析 · ES
+# Education Services Directors — career analysis · Spain
 
-**职业代码：1326 – Education Services Directors。**
+**Occupation code: 1326 (CNO)**
 
-Directors of education services manage daily operations, strategic planning, and resource allocation in educational institutions such as schools, universities, and training centers to ensure quality and service standards.
+Responsible for the daily management, strategic planning, and resource allocation of educational institutions (such as schools, universities, training centers) to ensure education quality and service standards.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Máster） | 1-2年 | $1,500~$12,000（公立大学约1500-3000欧元/年，私立更高） |
-| 教育管理或相关专业大学本科（Grado） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年） |
+| Máster | 1-2 years | $1,500~$12,000 (Public universities cost about 1500-3000 euros per year, while private universities cost even more) |
+| Bachelor's degree in Educational Management or Related Majors (Grado) | 4 years | $1,000~$6,000 (Public universities cost about 1000-2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学或管理相关学士学位 | 西班牙大学 | 必备 | 常见专业包括教育学、教育管理、心理学等 |
-| 硕士或专业培训 | 大学或商学院 | 可选 | 教育管理或领导力硕士可提升竞争力 |
-| 教师资格（如有教学背景） | 西班牙教育部 | 可选 | 部分职位要求教学经验或教师资格证 |
+| Bachelor's degree in education or management | Spanish University | Required | Common majors include education, educational management, psychology, and others |
+| Master's or professional training | University or business school | Optional | A master's degree in Educational Management or Leadership can enhance competitiveness |
+| Teacher qualification (if teaching background required) | Spanish Ministry of Education | Optional | Some positions require teaching experience or a teaching qualification certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。西班牙教育领域受公共预算和人口变化影响，但教育管理职位需求稳定。数字化转型和在线教育发展带来新机遇，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Spain's education sector is influenced by public budgets and demographic changes, but demand for education management positions remains stable. Digital transformation and the development of online education bring new opportunities, but competition is fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 小型教育机构或助理职位 |
-| 中级（3-7年） | $35,000~$50,000 | 大多数教育机构中层管理 |
-| 高级（7年以上） | $50,000~$70,000 | 大型教育机构负责人或公立学校校长 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Small educational institutions or assistant positions |
+| Mid-level (3–7 years) | $35,000~$50,000 | Most educational institutions have middle management |
+| Senior (7+ years) | $50,000~$70,000 | Heads of large educational institutions or principals of public schools |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从教师或行政岗位晋升至部门主管，再至副校长或校长。也可转向教育政策、咨询或教育科技领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The risk of AI automation for Education Services Directors is lower because core responsibilities involve strategic decision-making, interpersonal coordination, and quality monitoring, which are difficult to fully replace; However, AI can significantly enhance data analysis and document processing efficiency, requiring proactive adaptation to amplify its value.
+
+They can be promoted from teacher or administrative position to department head, then to vice principal or principal. It can also shift to education policy, consulting, or edtech.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate timetables and resource allocation reports
+- AI Handling Standardized Student Consultations (such as course selection Q&A)
+- Automatically monitor education quality indicators and generate alerts
+- The intelligent system handles financial reimbursement and procurement processes
+- AI-assisted review of policy compliance documents
+
+**Where AI augments the role:**
+
+- AI analyzes student data to optimize personalized learning paths
+- Improving teaching quality evaluation efficiency through educational software
+- Real-time monitoring of institutional operations using data dashboards
+- AI recommendation systems assist in employee training planning
+- Automatic translation and text tools enhance cross-cultural communication
+
+**Human moat:**
+
+- Strategic planning and vision setting
+- Handling complex interpersonal conflicts and sensitive issues
+- Educational ethics decision-making and value orientation
+- Cross-department coordination and resource integration
+- Design and implementation of innovative education projects
+
+**Skills to build:**
+
+- Data analysis and interpretation of educational indicators
+- AI educational tools (such as learning management systems) applications
+- Project Management and Agile Methodologies
+- Digital transformation and change management
+- Data privacy and information security compliance
+- Cross-cultural leadership and communication
+
+**Key growth areas:**
 
 - Education reform
 - Digital learning
@@ -64,65 +100,67 @@ Directors of education services manage daily operations, strategic planning, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer Sponsorship)） | 需西班牙雇主担保，证明职位无法在本地填补。适合有多年经验者。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，需符合高技能要求。 |
+| Subclass Cuenta ajena (Work Permit (Employer Sponsorship)) | A Spanish employer sponsor is required, proving that the position cannot be filled locally. Suitable for those with many years of experience. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, provided you meet the high-skill requirements. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Education Services Directors？**
-- 有教育背景或学校管理经验的人
-- 擅长组织协调和战略规划
-- 热爱教育事业，愿意承担责任
+**Who is suited**
+- Individuals with educational backgrounds or experience in school management
+- Skilled in organizational coordination and strategic planning
+- Passionate about education and willing to take responsibility
 
-**谁不适合学Education Services Directors？**
-- 不适应行政和文书工作的人
-- 不善于处理人事关系和冲突
+**Who is not suited**
+- People who are not suited for administrative and clerical work
+- Poor at handling personnel relationships and conflicts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for educational service supervisors in Spain?**
+A: Entry-level approx. EUR 28,000-35,000, mid-level 35,000-50,000, senior 50,000-70,000. Salaries fixed in public schools, vary more in private institutions.
+
+**Q: Can Chinese nationals become Spanish education service managers through skilled migration?**
+A: The difficulty is quite high. Spanish employer sponsorship is usually required, and the position is not in short supply. It is recommended to first study in Spain to obtain a degree and local experience before seeking a job.
+
+**Q: What is the career advancement path for an Education Services Supervisor?**
+A: Teachers or coordinators can be promoted from teacher or coordinator to department head, and then to vice principal or principal. It can also be turned to educational consulting, training, or edtech management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Education Services Directors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Education Services Directors in Spain?**
-答：Entry-level: €28k-€35k, mid-level: €35k-€50k, senior: €50k-€70k. Public schools have fixed scales; private institutions vary.
-
-**问：Can Chinese nationals migrate to Spain as Education Services Directors?**
-答：It's challenging. You generally need employer sponsorship and the occupation is not in shortage. Studying in Spain first to gain a degree and local experience is recommended.
-
-**问：What is the career progression for Education Services Directors?**
-答：From teacher or coordinator to department head, then vice principal or principal. Alternatively, move into education consulting, training, or EdTech management.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
